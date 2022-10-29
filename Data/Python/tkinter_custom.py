@@ -2,7 +2,7 @@ import tkinter as tk
 import tkinter.ttk as ttk
 from param_url import all_leagues_list
 
-global year, period, enter_league, data
+# TODO : I'm not using this .py (Le 29 Oct 2022)
 
 def user_input_interface():
     window = tk.Tk()
