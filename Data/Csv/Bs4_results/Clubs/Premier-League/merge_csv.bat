@@ -1,0 +1,1 @@
+copy *.csv Premier-League_merged.csv

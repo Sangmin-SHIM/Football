@@ -1,0 +1,1 @@
+copy *.csv Bundesliga_merged.csv

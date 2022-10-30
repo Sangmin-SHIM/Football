@@ -1,0 +1,1 @@
+copy *.csv La-Liga_merged.csv

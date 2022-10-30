@@ -1,0 +1,1 @@
+copy *.csv Serie-A_merged.csv

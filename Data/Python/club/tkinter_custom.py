@@ -1,6 +1,6 @@
 import tkinter as tk
 import tkinter.ttk as ttk
-from param_url import all_leagues_list
+from .param_url import all_leagues_list
 
 # TODO : I'm not using this .py (Le 29 Oct 2022)
 

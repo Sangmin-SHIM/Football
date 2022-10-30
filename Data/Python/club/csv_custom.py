@@ -4,7 +4,6 @@ import os
 FILE_CLUB_PATH = 'Data/Csv/Bs4_results/Clubs'
 
 def write_csv(**kwargs):
-    FILE_CLUB_PATH = kwargs['FILE_CLUB_PATH']
     league_name = kwargs['league_name']
     season = kwargs['season']
     dirs_folder = f'{FILE_CLUB_PATH}/{league_name}'
@@ -16,11 +15,7 @@ def write_csv(**kwargs):
     ls = kwargs['ls']
     pts = kwargs['pts']
 
-    isExistFolder = os.path.exists(dirs_folder)
-    if not isExistFolder:
-        os.makedirs(dirs_folder)
-    
-    file = open(f'{FILE_CLUB_PATH}/{league_name}/{season}.csv', 'w', newline='',encoding='utf-8-sig')
+    file = open(f'{league_name}/{season}.csv', 'w',newline='',encoding='utf-8-sig')
     writer = csv.writer(file)
 
     season_league = [season, league_name]
@@ -38,7 +33,7 @@ def write_csv(**kwargs):
         L = ls[num].get_text()
         Pts = pts[num].get_text()
         
-        file = open(f'{FILE_CLUB_PATH}/{league_name}/{season}.csv', 'a', newline='', encoding='utf-8-sig')
+        file = open(f'{league_name}/{season}.csv', 'a', newline='', encoding='utf-8-sig')
         writer = csv.writer(file)
         contents = ([Rk, Club, Mp, W, D, L, Pts])
         writer.writerow(contents)

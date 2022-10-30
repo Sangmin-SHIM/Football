@@ -1,4 +1,4 @@
-from constant import LEAGUES
+from .constant import LEAGUES
 # import datetime
 
 # CURRENT_DAY = datetime.datetime.now()
