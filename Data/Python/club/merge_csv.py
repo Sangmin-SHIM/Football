@@ -1,4 +1,3 @@
-from .csv_custom import FILE_CLUB_PATH
 import os
 
 def make_batch_for_merge_csv_file(**kwargs):

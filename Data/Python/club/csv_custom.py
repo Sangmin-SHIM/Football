@@ -1,5 +1,5 @@
+import pandas as pd
 import csv
-import os
 
 FILE_CLUB_PATH = 'Data/Csv/Bs4_results/Clubs'
 
@@ -38,3 +38,21 @@ def write_csv(**kwargs):
         contents = ([Rk, Club, Mp, W, D, L, Pts])
         writer.writerow(contents)
         file.close()    
+
+def read_merged_csv(**kwargs):
+    period = kwargs['period']
+    league_name = kwargs['league_name']
+    merged_file_name = f'{league_name}_merged'
+
+    df_this_league = pd.read_csv(f'{merged_file_name}.csv')
+
+    # Clean(Remove) data like - "2012-2013 xx League", "Rk, W, D, S" 
+    skipped_row=[]
+    total_row=len(df_this_league.index)
+    skipped_value = int(total_row/period)
+    for row in range(0,total_row+1,skipped_value):
+        skipped_row.append(row)
+    
+    df_this_league = pd.read_csv(f'{merged_file_name}.csv', skiprows=skipped_row)
+
+    return df_this_league
