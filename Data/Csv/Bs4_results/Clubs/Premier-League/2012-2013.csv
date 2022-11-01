@@ -1,22 +1,22 @@
 ﻿2012-2013,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Manchester Utd,38,28,5,5,89
-2,Manchester City,38,23,9,6,78
-3,Chelsea,38,22,9,7,75
-4,Arsenal,38,21,10,7,73
-5,Tottenham,38,21,9,8,72
-6,Everton,38,16,15,7,63
-7,Liverpool,38,16,13,9,61
-8,West Brom,38,14,7,17,49
-9,Swansea City,38,11,13,14,46
-10,West Ham,38,12,10,16,46
-11,Norwich City,38,10,14,14,44
-12,Fulham,38,11,10,17,43
-13,Stoke City,38,9,15,14,42
-14,Southampton,38,9,14,15,41
-15,Aston Villa,38,10,11,17,41
-16,Newcastle Utd,38,11,8,19,41
-17,Sunderland,38,9,12,17,39
-18,Wigan Athletic,38,9,9,20,36
-19,Reading,38,6,10,22,28
-20,QPR,38,4,13,21,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Manchester Utd,38,28,5,5,89,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+2,Manchester City,38,23,9,6,78,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+3,Chelsea,38,22,9,7,75,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+4,Arsenal,38,21,10,7,73,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+5,Tottenham,38,21,9,8,72,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+6,Everton,38,16,15,7,63,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+7,Liverpool,38,16,13,9,61,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+8,West Brom,38,14,7,17,49,squads/60c6b05f/West-Bromwich-Albion-Stats,60c6b05f,West-Bromwich-Albion
+9,Swansea City,38,11,13,14,46,squads/fb10988f/Swansea-City-Stats,fb10988f,Swansea-City
+10,West Ham,38,12,10,16,46,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United
+11,Norwich City,38,10,14,14,44,squads/1c781004/Norwich-City-Stats,1c781004,Norwich-City
+12,Fulham,38,11,10,17,43,squads/fd962109/Fulham-Stats,fd962109,Fulham
+13,Stoke City,38,9,15,14,42,squads/17892952/Stoke-City-Stats,17892952,Stoke-City
+14,Southampton,38,9,14,15,41,squads/33c895d4/Southampton-Stats,33c895d4,Southampton
+15,Aston Villa,38,10,11,17,41,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+16,Newcastle Utd,38,11,8,19,41,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+17,Sunderland,38,9,12,17,39,squads/8ef52968/Sunderland-Stats,8ef52968,Sunderland
+18,Wigan Athletic,38,9,9,20,36,squads/e59ddc76/Wigan-Athletic-Stats,e59ddc76,Wigan-Athletic
+19,Reading,38,6,10,22,28,squads/b0ac61ff/Reading-Stats,b0ac61ff,Reading
+20,QPR,38,4,13,21,25,squads/a757999c/Queens-Park-Rangers-Stats,a757999c,Queens-Park-Rangers

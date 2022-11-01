@@ -1,22 +1,22 @@
 ﻿2007-2008,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Lyon,38,24,7,7,79
-2,Bordeaux,38,22,9,7,75
-3,Marseille,38,17,11,10,62
-4,Nancy,38,15,15,8,60
-5,Saint-Étienne,38,16,10,12,58
-6,Rennes,38,16,10,12,58
-7,Lille,38,13,18,7,57
-8,Nice,38,13,16,9,55
-9,Le Mans,38,14,11,13,53
-10,Lorient,38,12,16,10,52
-11,Caen,38,13,12,13,51
-12,Monaco,38,13,8,17,47
-13,Valenciennes,38,12,9,17,45
-14,Sochaux,38,10,14,14,44
-15,Auxerre,38,12,8,18,44
-16,Paris S-G,38,10,13,15,43
-17,Toulouse,38,9,15,14,42
-18,Lens,38,9,13,16,40
-19,Strasbourg,38,9,8,21,35
-20,Metz,38,5,9,24,24
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Lyon,38,24,7,7,79,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+2,Bordeaux,38,22,9,7,75,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+3,Marseille,38,17,11,10,62,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+4,Nancy,38,15,15,8,60,squads/e88fc6e5/Nancy-Stats,e88fc6e5,Nancy
+5,Saint-Étienne,38,16,10,12,58,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+6,Rennes,38,16,10,12,58,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+7,Lille,38,13,18,7,57,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+8,Nice,38,13,16,9,55,squads/132ebc33/Nice-Stats,132ebc33,Nice
+9,Le Mans,38,14,11,13,53,squads/cd5d7aa6/Le-Mans-Stats,cd5d7aa6,Le-Mans
+10,Lorient,38,12,16,10,52,squads/d2c87802/Lorient-Stats,d2c87802,Lorient
+11,Caen,38,13,12,13,51,squads/74229020/Caen-Stats,74229020,Caen
+12,Monaco,38,13,8,17,47,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+13,Valenciennes,38,12,9,17,45,squads/259d3345/Valenciennes-Stats,259d3345,Valenciennes
+14,Sochaux,38,10,14,14,44,squads/b9cd3c9a/Sochaux-Stats,b9cd3c9a,Sochaux
+15,Auxerre,38,12,8,18,44,squads/5ae09109/Auxerre-Stats,5ae09109,Auxerre
+16,Paris S-G,38,10,13,15,43,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+17,Toulouse,38,9,15,14,42,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+18,Lens,38,9,13,16,40,squads/fd4e0f7d/Lens-Stats,fd4e0f7d,Lens
+19,Strasbourg,38,9,8,21,35,squads/c0d3eab4/Strasbourg-Stats,c0d3eab4,Strasbourg
+20,Metz,38,5,9,24,24,squads/f83960ae/Metz-Stats,f83960ae,Metz

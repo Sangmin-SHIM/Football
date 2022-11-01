@@ -18,6 +18,6 @@ for enter_league in leagues_list:
     os.chdir(f'{league_name}/')
     df_this_league=read_merged_csv(period=period,league_name=league_name)
 
-    df_clubs_list = drop_duplicate(df_original=df_this_league,col_name="Club")
+    df_clubs_list = drop_duplicate(df_original=df_this_league,col_name_1="Club",col_name_2="Link",col_name_3="Club_id",col_name_4="Club_name")
 
     df_clubs_list.to_csv(f'{league_name}_Clubs.csv')

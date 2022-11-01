@@ -1,441 +1,483 @@
 ﻿2002-2003,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,22,12,4,78
-2,Real Sociedad,38,22,10,6,76
-3,La Coruña,38,22,6,10,72
-4,Celta Vigo,38,17,10,11,61
-5,Valencia,38,17,9,12,60
-6,Barcelona,38,15,11,12,56
-7,Athletic Club,38,15,10,13,55
-8,Betis,38,14,12,12,54
-9,Mallorca,38,14,10,14,52
-10,Sevilla,38,13,11,14,50
-11,Osasuna,38,12,11,15,47
-12,Atlético Madrid,38,12,11,15,47
-13,Málaga,38,11,13,14,46
-14,Valladolid,38,12,10,16,46
-15,Villarreal,38,11,12,15,45
-16,Racing Sant,38,13,5,20,44
-17,Espanyol,38,10,13,15,43
-18,Recreativo,38,8,12,18,36
-19,Alavés,38,8,11,19,35
-20,Rayo Vallecano,38,7,11,20,32
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,22,12,4,78,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Real Sociedad,38,22,10,6,76,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+3,La Coruña,38,22,6,10,72,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+4,Celta Vigo,38,17,10,11,61,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+5,Valencia,38,17,9,12,60,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+6,Barcelona,38,15,11,12,56,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+7,Athletic Club,38,15,10,13,55,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+8,Betis,38,14,12,12,54,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+9,Mallorca,38,14,10,14,52,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+10,Sevilla,38,13,11,14,50,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+11,Osasuna,38,12,11,15,47,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+12,Atlético Madrid,38,12,11,15,47,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+13,Málaga,38,11,13,14,46,squads/1c896955/Malaga-Stats,1c896955,Malaga
+14,Valladolid,38,12,10,16,46,squads/17859612/Valladolid-Stats,17859612,Valladolid
+15,Villarreal,38,11,12,15,45,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+16,Racing Sant,38,13,5,20,44,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+17,Espanyol,38,10,13,15,43,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+18,Recreativo,38,8,12,18,36,squads/6e1d6d95/Recreativo-Stats,6e1d6d95,Recreativo
+19,Alavés,38,8,11,19,35,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+20,Rayo Vallecano,38,7,11,20,32,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
 ﻿2003-2004,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Valencia,38,23,8,7,77
-2,Barcelona,38,21,9,8,72
-3,La Coruña,38,21,8,9,71
-4,Real Madrid,38,21,7,10,70
-5,Athletic Club,38,15,11,12,56
-6,Sevilla,38,15,10,13,55
-7,Atlético Madrid,38,15,10,13,55
-8,Villarreal,38,15,9,14,54
-9,Betis,38,13,13,12,52
-10,Málaga,38,15,6,17,51
-11,Mallorca,38,15,6,17,51
-12,Zaragoza,38,13,9,16,48
-13,Osasuna,38,11,15,12,48
-14,Albacete,38,13,8,17,47
-15,Real Sociedad,38,11,13,14,46
-16,Espanyol,38,13,4,21,43
-17,Racing Sant,38,11,10,17,43
-18,Valladolid,38,10,11,17,41
-19,Celta Vigo,38,9,12,17,39
-20,Real Murcia,38,5,11,22,26
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Valencia,38,23,8,7,77,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+2,Barcelona,38,21,9,8,72,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,La Coruña,38,21,8,9,71,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+4,Real Madrid,38,21,7,10,70,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+5,Athletic Club,38,15,11,12,56,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+6,Sevilla,38,15,10,13,55,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+7,Atlético Madrid,38,15,10,13,55,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+8,Villarreal,38,15,9,14,54,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+9,Betis,38,13,13,12,52,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+10,Málaga,38,15,6,17,51,squads/1c896955/Malaga-Stats,1c896955,Malaga
+11,Mallorca,38,15,6,17,51,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+12,Zaragoza,38,13,9,16,48,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+13,Osasuna,38,11,15,12,48,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+14,Albacete,38,13,8,17,47,squads/b7e3e46e/Albacete-Stats,b7e3e46e,Albacete
+15,Real Sociedad,38,11,13,14,46,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+16,Espanyol,38,13,4,21,43,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+17,Racing Sant,38,11,10,17,43,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+18,Valladolid,38,10,11,17,41,squads/17859612/Valladolid-Stats,17859612,Valladolid
+19,Celta Vigo,38,9,12,17,39,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+20,Real Murcia,38,5,11,22,26,squads/ab0dc306/Real-Murcia-Stats,ab0dc306,Real-Murcia
 ﻿2004-2005,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,25,9,4,84
-2,Real Madrid,38,25,5,8,80
-3,Villarreal,38,18,11,9,65
-4,Betis,38,16,14,8,62
-5,Espanyol,38,17,10,11,61
-6,Sevilla,38,17,9,12,60
-7,Valencia,38,14,16,8,58
-8,Athletic Club,38,14,9,15,51
-9,La Coruña,38,12,15,11,51
-10,Málaga,38,15,6,17,51
-11,Atlético Madrid,38,13,11,14,50
-12,Zaragoza,38,14,8,16,50
-13,Getafe,38,12,11,15,47
-14,Real Sociedad,38,13,8,17,47
-15,Osasuna,38,12,10,16,46
-16,Racing Sant,38,12,8,18,44
-17,Mallorca,38,10,9,19,39
-18,Levante,38,9,10,19,37
-19,Numancia,38,6,11,21,29
-20,Albacete,38,6,10,22,28
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,25,9,4,84,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,25,5,8,80,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Villarreal,38,18,11,9,65,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+4,Betis,38,16,14,8,62,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+5,Espanyol,38,17,10,11,61,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+6,Sevilla,38,17,9,12,60,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+7,Valencia,38,14,16,8,58,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+8,Athletic Club,38,14,9,15,51,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+9,La Coruña,38,12,15,11,51,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+10,Málaga,38,15,6,17,51,squads/1c896955/Malaga-Stats,1c896955,Malaga
+11,Atlético Madrid,38,13,11,14,50,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+12,Zaragoza,38,14,8,16,50,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+13,Getafe,38,12,11,15,47,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+14,Real Sociedad,38,13,8,17,47,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+15,Osasuna,38,12,10,16,46,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+16,Racing Sant,38,12,8,18,44,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+17,Mallorca,38,10,9,19,39,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+18,Levante,38,9,10,19,37,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+19,Numancia,38,6,11,21,29,squads/76d8bafa/Numancia-Stats,76d8bafa,Numancia
+20,Albacete,38,6,10,22,28,squads/b7e3e46e/Albacete-Stats,b7e3e46e,Albacete
 ﻿2005-2006,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,25,7,6,82
-2,Real Madrid,38,20,10,8,70
-3,Valencia,38,19,12,7,69
-4,Osasuna,38,21,5,12,68
-5,Sevilla,38,20,8,10,68
-6,Celta Vigo,38,20,4,14,64
-7,Villarreal,38,14,15,9,57
-8,La Coruña,38,15,10,13,55
-9,Getafe,38,15,9,14,54
-10,Atlético Madrid,38,13,13,12,52
-11,Zaragoza,38,10,16,12,46
-12,Athletic Club,38,11,12,15,45
-13,Mallorca,38,10,13,15,43
-14,Betis,38,10,12,16,42
-15,Espanyol,38,10,11,17,41
-16,Real Sociedad,38,11,7,20,40
-17,Racing Sant,38,9,13,16,40
-18,Alavés,38,9,12,17,39
-19,Cádiz,38,8,12,18,36
-20,Málaga,38,5,9,24,24
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,25,7,6,82,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,20,10,8,70,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Valencia,38,19,12,7,69,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+4,Osasuna,38,21,5,12,68,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+5,Sevilla,38,20,8,10,68,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+6,Celta Vigo,38,20,4,14,64,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+7,Villarreal,38,14,15,9,57,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+8,La Coruña,38,15,10,13,55,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+9,Getafe,38,15,9,14,54,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+10,Atlético Madrid,38,13,13,12,52,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+11,Zaragoza,38,10,16,12,46,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+12,Athletic Club,38,11,12,15,45,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+13,Mallorca,38,10,13,15,43,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+14,Betis,38,10,12,16,42,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+15,Espanyol,38,10,11,17,41,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+16,Real Sociedad,38,11,7,20,40,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+17,Racing Sant,38,9,13,16,40,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+18,Alavés,38,9,12,17,39,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+19,Cádiz,38,8,12,18,36,squads/ee7c297c/Cadiz-Stats,ee7c297c,Cadiz
+20,Málaga,38,5,9,24,24,squads/1c896955/Malaga-Stats,1c896955,Malaga
 ﻿2006-2007,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,23,7,8,76
-2,Barcelona,38,22,10,6,76
-3,Sevilla,38,21,8,9,71
-4,Valencia,38,20,6,12,66
-5,Villarreal,38,18,8,12,62
-6,Zaragoza,38,16,12,10,60
-7,Atlético Madrid,38,17,9,12,60
-8,Recreativo,38,15,9,14,54
-9,Getafe,38,14,10,14,52
-10,Racing Sant,38,12,14,12,50
-11,Espanyol,38,12,13,13,49
-12,Mallorca,38,14,7,17,49
-13,La Coruña,38,12,11,15,47
-14,Osasuna,38,13,7,18,46
-15,Levante,38,10,12,16,42
-16,Betis,38,8,16,14,40
-17,Athletic Club,38,10,10,18,40
-18,Celta Vigo,38,10,9,19,39
-19,Real Sociedad,38,8,11,19,35
-20,Gimnàstic,38,7,7,24,28
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,23,7,8,76,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,22,10,6,76,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Sevilla,38,21,8,9,71,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+4,Valencia,38,20,6,12,66,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+5,Villarreal,38,18,8,12,62,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Zaragoza,38,16,12,10,60,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+7,Atlético Madrid,38,17,9,12,60,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+8,Recreativo,38,15,9,14,54,squads/6e1d6d95/Recreativo-Stats,6e1d6d95,Recreativo
+9,Getafe,38,14,10,14,52,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+10,Racing Sant,38,12,14,12,50,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+11,Espanyol,38,12,13,13,49,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+12,Mallorca,38,14,7,17,49,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+13,La Coruña,38,12,11,15,47,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+14,Osasuna,38,13,7,18,46,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+15,Levante,38,10,12,16,42,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+16,Betis,38,8,16,14,40,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+17,Athletic Club,38,10,10,18,40,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+18,Celta Vigo,38,10,9,19,39,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+19,Real Sociedad,38,8,11,19,35,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+20,Gimnàstic,38,7,7,24,28,squads/d5de8ff3/Gimnastic-Stats,d5de8ff3,Gimnastic
 ﻿2007-2008,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,27,4,7,85
-2,Villarreal,38,24,5,9,77
-3,Barcelona,38,19,10,9,67
-4,Atlético Madrid,38,19,7,12,64
-5,Sevilla,38,20,4,14,64
-6,Racing Sant,38,17,9,12,60
-7,Mallorca,38,15,14,9,59
-8,Almería,38,14,10,14,52
-9,La Coruña,38,15,7,16,52
-10,Valencia,38,15,6,17,51
-11,Athletic Club,38,13,11,14,50
-12,Espanyol,38,13,9,16,48
-13,Betis,38,12,11,15,47
-14,Getafe,38,12,11,15,47
-15,Valladolid,38,11,12,15,45
-16,Recreativo,38,11,11,16,44
-17,Osasuna,38,12,7,19,43
-18,Zaragoza,38,10,12,16,42
-19,Real Murcia,38,7,9,22,30
-20,Levante,38,7,5,26,26
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,27,4,7,85,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Villarreal,38,24,5,9,77,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+3,Barcelona,38,19,10,9,67,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+4,Atlético Madrid,38,19,7,12,64,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+5,Sevilla,38,20,4,14,64,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+6,Racing Sant,38,17,9,12,60,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+7,Mallorca,38,15,14,9,59,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+8,Almería,38,14,10,14,52,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+9,La Coruña,38,15,7,16,52,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+10,Valencia,38,15,6,17,51,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+11,Athletic Club,38,13,11,14,50,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+12,Espanyol,38,13,9,16,48,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+13,Betis,38,12,11,15,47,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+14,Getafe,38,12,11,15,47,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+15,Valladolid,38,11,12,15,45,squads/17859612/Valladolid-Stats,17859612,Valladolid
+16,Recreativo,38,11,11,16,44,squads/6e1d6d95/Recreativo-Stats,6e1d6d95,Recreativo
+17,Osasuna,38,12,7,19,43,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+18,Zaragoza,38,10,12,16,42,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+19,Real Murcia,38,7,9,22,30,squads/ab0dc306/Real-Murcia-Stats,ab0dc306,Real-Murcia
+20,Levante,38,7,5,26,26,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
 ﻿2008-2009,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,27,6,5,87
-2,Real Madrid,38,25,3,10,78
-3,Sevilla,38,21,7,10,70
-4,Atlético Madrid,38,20,7,11,67
-5,Villarreal,38,18,11,9,65
-6,Valencia,38,18,8,12,62
-7,La Coruña,38,16,10,12,58
-8,Málaga,38,15,10,13,55
-9,Mallorca,38,14,9,15,51
-10,Espanyol,38,12,11,15,47
-11,Almería,38,13,7,18,46
-12,Racing Sant,38,12,10,16,46
-13,Athletic Club,38,12,8,18,44
-14,Sporting Gijón,38,14,1,23,43
-15,Osasuna,38,10,13,15,43
-16,Valladolid,38,12,7,19,43
-17,Getafe,38,10,12,16,42
-18,Betis,38,10,12,16,42
-19,Numancia,38,10,5,23,35
-20,Recreativo,38,8,9,21,33
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,27,6,5,87,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,25,3,10,78,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Sevilla,38,21,7,10,70,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+4,Atlético Madrid,38,20,7,11,67,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+5,Villarreal,38,18,11,9,65,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Valencia,38,18,8,12,62,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+7,La Coruña,38,16,10,12,58,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+8,Málaga,38,15,10,13,55,squads/1c896955/Malaga-Stats,1c896955,Malaga
+9,Mallorca,38,14,9,15,51,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+10,Espanyol,38,12,11,15,47,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+11,Almería,38,13,7,18,46,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+12,Racing Sant,38,12,10,16,46,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+13,Athletic Club,38,12,8,18,44,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+14,Sporting Gijón,38,14,1,23,43,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+15,Osasuna,38,10,13,15,43,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+16,Valladolid,38,12,7,19,43,squads/17859612/Valladolid-Stats,17859612,Valladolid
+17,Getafe,38,10,12,16,42,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+18,Betis,38,10,12,16,42,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+19,Numancia,38,10,5,23,35,squads/76d8bafa/Numancia-Stats,76d8bafa,Numancia
+20,Recreativo,38,8,9,21,33,squads/6e1d6d95/Recreativo-Stats,6e1d6d95,Recreativo
 ﻿2009-2010,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,31,6,1,99
-2,Real Madrid,38,31,3,4,96
-3,Valencia,38,21,8,9,71
-4,Sevilla,38,19,6,13,63
-5,Mallorca,38,18,8,12,62
-6,Getafe,38,17,7,14,58
-7,Villarreal,38,16,8,14,56
-8,Athletic Club,38,15,9,14,54
-9,Atlético Madrid,38,13,8,17,47
-10,La Coruña,38,13,8,17,47
-11,Espanyol,38,11,11,16,44
-12,Osasuna,38,11,10,17,43
-13,Almería,38,10,12,16,42
-14,Zaragoza,38,10,11,17,41
-15,Sporting Gijón,38,9,13,16,40
-16,Racing Sant,38,9,12,17,39
-17,Málaga,38,7,16,15,37
-18,Valladolid,38,7,15,16,36
-19,Tenerife,38,9,9,20,36
-20,Xerez,38,8,10,20,34
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,31,6,1,99,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,31,3,4,96,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Valencia,38,21,8,9,71,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+4,Sevilla,38,19,6,13,63,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Mallorca,38,18,8,12,62,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+6,Getafe,38,17,7,14,58,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+7,Villarreal,38,16,8,14,56,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+8,Athletic Club,38,15,9,14,54,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+9,Atlético Madrid,38,13,8,17,47,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+10,La Coruña,38,13,8,17,47,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+11,Espanyol,38,11,11,16,44,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+12,Osasuna,38,11,10,17,43,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+13,Almería,38,10,12,16,42,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+14,Zaragoza,38,10,11,17,41,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+15,Sporting Gijón,38,9,13,16,40,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+16,Racing Sant,38,9,12,17,39,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+17,Málaga,38,7,16,15,37,squads/1c896955/Malaga-Stats,1c896955,Malaga
+18,Valladolid,38,7,15,16,36,squads/17859612/Valladolid-Stats,17859612,Valladolid
+19,Tenerife,38,9,9,20,36,squads/27cc9c62/Tenerife-Stats,27cc9c62,Tenerife
+20,Xerez,38,8,10,20,34,squads/c653e8bf/Xerez-Stats,c653e8bf,Xerez
 ﻿2010-2011,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,30,6,2,96
-2,Real Madrid,38,29,5,4,92
-3,Valencia,38,21,8,9,71
-4,Villarreal,38,18,8,12,62
-5,Sevilla,38,17,7,14,58
-6,Athletic Club,38,18,4,16,58
-7,Atlético Madrid,38,17,7,14,58
-8,Espanyol,38,15,4,19,49
-9,Osasuna,38,13,8,17,47
-10,Sporting Gijón,38,11,14,13,47
-11,Málaga,38,13,7,18,46
-12,Racing Sant,38,12,10,16,46
-13,Zaragoza,38,12,9,17,45
-14,Levante,38,12,9,17,45
-15,Real Sociedad,38,14,3,21,45
-16,Getafe,38,12,8,18,44
-17,Mallorca,38,12,8,18,44
-18,La Coruña,38,10,13,15,43
-19,Hércules,38,9,8,21,35
-20,Almería,38,6,12,20,30
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,30,6,2,96,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,29,5,4,92,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Valencia,38,21,8,9,71,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+4,Villarreal,38,18,8,12,62,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+5,Sevilla,38,17,7,14,58,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+6,Athletic Club,38,18,4,16,58,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+7,Atlético Madrid,38,17,7,14,58,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+8,Espanyol,38,15,4,19,49,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+9,Osasuna,38,13,8,17,47,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+10,Sporting Gijón,38,11,14,13,47,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+11,Málaga,38,13,7,18,46,squads/1c896955/Malaga-Stats,1c896955,Malaga
+12,Racing Sant,38,12,10,16,46,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+13,Zaragoza,38,12,9,17,45,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+14,Levante,38,12,9,17,45,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+15,Real Sociedad,38,14,3,21,45,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+16,Getafe,38,12,8,18,44,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+17,Mallorca,38,12,8,18,44,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+18,La Coruña,38,10,13,15,43,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+19,Hércules,38,9,8,21,35,squads/4222a514/Hercules-Stats,4222a514,Hercules
+20,Almería,38,6,12,20,30,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
 ﻿2011-2012,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,32,4,2,100
-2,Barcelona,38,28,7,3,91
-3,Valencia,38,17,10,11,61
-4,Málaga,38,17,7,14,58
-5,Atlético Madrid,38,15,11,12,56
-6,Levante,38,16,7,15,55
-7,Osasuna,38,13,15,10,54
-8,Mallorca,38,14,10,14,52
-9,Sevilla,38,13,11,14,50
-10,Athletic Club,38,12,13,13,49
-11,Getafe,38,12,11,15,47
-12,Real Sociedad,38,12,11,15,47
-13,Betis,38,13,8,17,47
-14,Espanyol,38,12,10,16,46
-15,Rayo Vallecano,38,13,4,21,43
-16,Zaragoza,38,12,7,19,43
-17,Granada,38,12,6,20,42
-18,Villarreal,38,9,14,15,41
-19,Sporting Gijón,38,10,7,21,37
-20,Racing Sant,38,4,15,19,27
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,32,4,2,100,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,28,7,3,91,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Valencia,38,17,10,11,61,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+4,Málaga,38,17,7,14,58,squads/1c896955/Malaga-Stats,1c896955,Malaga
+5,Atlético Madrid,38,15,11,12,56,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+6,Levante,38,16,7,15,55,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+7,Osasuna,38,13,15,10,54,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+8,Mallorca,38,14,10,14,52,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+9,Sevilla,38,13,11,14,50,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+10,Athletic Club,38,12,13,13,49,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+11,Getafe,38,12,11,15,47,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+12,Real Sociedad,38,12,11,15,47,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+13,Betis,38,13,8,17,47,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+14,Espanyol,38,12,10,16,46,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+15,Rayo Vallecano,38,13,4,21,43,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+16,Zaragoza,38,12,7,19,43,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+17,Granada,38,12,6,20,42,squads/a0435291/Granada-Stats,a0435291,Granada
+18,Villarreal,38,9,14,15,41,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+19,Sporting Gijón,38,10,7,21,37,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+20,Racing Sant,38,4,15,19,27,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
 ﻿2012-2013,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,32,4,2,100
-2,Real Madrid,38,26,7,5,85
-3,Atlético Madrid,38,23,7,8,76
-4,Real Sociedad,38,18,12,8,66
-5,Valencia,38,19,8,11,65
-6,Málaga,38,16,9,13,57
-7,Betis,38,16,8,14,56
-8,Rayo Vallecano,38,16,5,17,53
-9,Sevilla,38,14,8,16,50
-10,Getafe,38,13,8,17,47
-11,Levante,38,12,10,16,46
-12,Athletic Club,38,12,9,17,45
-13,Espanyol,38,11,11,16,44
-14,Valladolid,38,11,10,17,43
-15,Granada,38,11,9,18,42
-16,Osasuna,38,10,9,19,39
-17,Celta Vigo,38,10,7,21,37
-18,Mallorca,38,9,9,20,36
-19,La Coruña,38,8,11,19,35
-20,Zaragoza,38,9,7,22,34
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,32,4,2,100,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,26,7,5,85,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Atlético Madrid,38,23,7,8,76,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Real Sociedad,38,18,12,8,66,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+5,Valencia,38,19,8,11,65,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+6,Málaga,38,16,9,13,57,squads/1c896955/Malaga-Stats,1c896955,Malaga
+7,Betis,38,16,8,14,56,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+8,Rayo Vallecano,38,16,5,17,53,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+9,Sevilla,38,14,8,16,50,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+10,Getafe,38,13,8,17,47,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+11,Levante,38,12,10,16,46,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+12,Athletic Club,38,12,9,17,45,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+13,Espanyol,38,11,11,16,44,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+14,Valladolid,38,11,10,17,43,squads/17859612/Valladolid-Stats,17859612,Valladolid
+15,Granada,38,11,9,18,42,squads/a0435291/Granada-Stats,a0435291,Granada
+16,Osasuna,38,10,9,19,39,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+17,Celta Vigo,38,10,7,21,37,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+18,Mallorca,38,9,9,20,36,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+19,La Coruña,38,8,11,19,35,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+20,Zaragoza,38,9,7,22,34,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
 ﻿2013-2014,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Atlético Madrid,38,28,6,4,90
-2,Barcelona,38,27,6,5,87
-3,Real Madrid,38,27,6,5,87
-4,Athletic Club,38,20,10,8,70
-5,Sevilla,38,18,9,11,63
-6,Villarreal,38,17,8,13,59
-7,Real Sociedad,38,16,11,11,59
-8,Valencia,38,13,10,15,49
-9,Celta Vigo,38,14,7,17,49
-10,Levante,38,12,12,14,48
-11,Málaga,38,12,9,17,45
-12,Rayo Vallecano,38,13,4,21,43
-13,Getafe,38,11,9,18,42
-14,Espanyol,38,11,9,18,42
-15,Granada,38,12,5,21,41
-16,Elche,38,9,13,16,40
-17,Almería,38,11,7,20,40
-18,Osasuna,38,10,9,19,39
-19,Valladolid,38,7,15,16,36
-20,Betis,38,6,7,25,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Atlético Madrid,38,28,6,4,90,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+2,Barcelona,38,27,6,5,87,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Real Madrid,38,27,6,5,87,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+4,Athletic Club,38,20,10,8,70,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+5,Sevilla,38,18,9,11,63,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+6,Villarreal,38,17,8,13,59,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+7,Real Sociedad,38,16,11,11,59,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+8,Valencia,38,13,10,15,49,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+9,Celta Vigo,38,14,7,17,49,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+10,Levante,38,12,12,14,48,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+11,Málaga,38,12,9,17,45,squads/1c896955/Malaga-Stats,1c896955,Malaga
+12,Rayo Vallecano,38,13,4,21,43,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+13,Getafe,38,11,9,18,42,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+14,Espanyol,38,11,9,18,42,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+15,Granada,38,12,5,21,41,squads/a0435291/Granada-Stats,a0435291,Granada
+16,Elche,38,9,13,16,40,squads/6c8b07df/Elche-Stats,6c8b07df,Elche
+17,Almería,38,11,7,20,40,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+18,Osasuna,38,10,9,19,39,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+19,Valladolid,38,7,15,16,36,squads/17859612/Valladolid-Stats,17859612,Valladolid
+20,Betis,38,6,7,25,25,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
 ﻿2014-2015,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,30,4,4,94
-2,Real Madrid,38,30,2,6,92
-3,Atlético Madrid,38,23,9,6,78
-4,Valencia,38,22,11,5,77
-5,Sevilla,38,23,7,8,76
-6,Villarreal,38,16,12,10,60
-7,Athletic Club,38,15,10,13,55
-8,Celta Vigo,38,13,12,13,51
-9,Málaga,38,14,8,16,50
-10,Espanyol,38,13,10,15,49
-11,Rayo Vallecano,38,15,4,19,49
-12,Real Sociedad,38,11,13,14,46
-13,Elche,38,11,8,19,41
-14,Levante,38,9,10,19,37
-15,Getafe,38,10,7,21,37
-16,La Coruña,38,7,14,17,35
-17,Granada,38,7,14,17,35
-18,Eibar,38,9,8,21,35
-19,Almería,38,8,8,22,29
-20,Córdoba,38,3,11,24,20
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,30,4,4,94,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,30,2,6,92,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Atlético Madrid,38,23,9,6,78,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Valencia,38,22,11,5,77,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+5,Sevilla,38,23,7,8,76,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+6,Villarreal,38,16,12,10,60,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+7,Athletic Club,38,15,10,13,55,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+8,Celta Vigo,38,13,12,13,51,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+9,Málaga,38,14,8,16,50,squads/1c896955/Malaga-Stats,1c896955,Malaga
+10,Espanyol,38,13,10,15,49,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+11,Rayo Vallecano,38,15,4,19,49,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+12,Real Sociedad,38,11,13,14,46,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+13,Elche,38,11,8,19,41,squads/6c8b07df/Elche-Stats,6c8b07df,Elche
+14,Levante,38,9,10,19,37,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+15,Getafe,38,10,7,21,37,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+16,La Coruña,38,7,14,17,35,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+17,Granada,38,7,14,17,35,squads/a0435291/Granada-Stats,a0435291,Granada
+18,Eibar,38,9,8,21,35,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+19,Almería,38,8,8,22,29,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+20,Córdoba,38,3,11,24,20,squads/6009ff35/Cordoba-Stats,6009ff35,Cordoba
 ﻿2015-2016,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,29,4,5,91
-2,Real Madrid,38,28,6,4,90
-3,Atlético Madrid,38,28,4,6,88
-4,Villarreal,38,18,10,10,64
-5,Athletic Club,38,18,8,12,62
-6,Celta Vigo,38,17,9,12,60
-7,Sevilla,38,14,10,14,52
-8,Málaga,38,12,12,14,48
-9,Real Sociedad,38,13,9,16,48
-10,Betis,38,11,12,15,45
-11,Las Palmas,38,12,8,18,44
-12,Valencia,38,11,11,16,44
-13,Espanyol,38,12,7,19,43
-14,Eibar,38,11,10,17,43
-15,La Coruña,38,8,18,12,42
-16,Granada,38,10,9,19,39
-17,Sporting Gijón,38,10,9,19,39
-18,Rayo Vallecano,38,9,11,18,38
-19,Getafe,38,9,9,20,36
-20,Levante,38,8,8,22,32
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,29,4,5,91,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,28,6,4,90,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Atlético Madrid,38,28,4,6,88,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Villarreal,38,18,10,10,64,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+5,Athletic Club,38,18,8,12,62,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+6,Celta Vigo,38,17,9,12,60,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+7,Sevilla,38,14,10,14,52,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+8,Málaga,38,12,12,14,48,squads/1c896955/Malaga-Stats,1c896955,Malaga
+9,Real Sociedad,38,13,9,16,48,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+10,Betis,38,11,12,15,45,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+11,Las Palmas,38,12,8,18,44,squads/0049d422/Las-Palmas-Stats,0049d422,Las-Palmas
+12,Valencia,38,11,11,16,44,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+13,Espanyol,38,12,7,19,43,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+14,Eibar,38,11,10,17,43,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+15,La Coruña,38,8,18,12,42,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+16,Granada,38,10,9,19,39,squads/a0435291/Granada-Stats,a0435291,Granada
+17,Sporting Gijón,38,10,9,19,39,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+18,Rayo Vallecano,38,9,11,18,38,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+19,Getafe,38,9,9,20,36,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+20,Levante,38,8,8,22,32,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
 ﻿2016-2017,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,29,6,3,93
-2,Barcelona,38,28,6,4,90
-3,Atlético Madrid,38,23,9,6,78
-4,Sevilla,38,21,9,8,72
-5,Villarreal,38,19,10,9,67
-6,Real Sociedad,38,19,7,12,64
-7,Athletic Club,38,19,6,13,63
-8,Espanyol,38,15,11,12,56
-9,Alavés,38,14,13,11,55
-10,Eibar,38,15,9,14,54
-11,Málaga,38,12,10,16,46
-12,Valencia,38,13,7,18,46
-13,Celta Vigo,38,13,6,19,45
-14,Las Palmas,38,10,9,19,39
-15,Betis,38,10,9,19,39
-16,La Coruña,38,8,12,18,36
-17,Leganés,38,8,11,19,35
-18,Sporting Gijón,38,7,10,21,31
-19,Osasuna,38,4,10,24,22
-20,Granada,38,4,8,26,20
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,29,6,3,93,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,28,6,4,90,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Atlético Madrid,38,23,9,6,78,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Sevilla,38,21,9,8,72,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Villarreal,38,19,10,9,67,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Real Sociedad,38,19,7,12,64,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+7,Athletic Club,38,19,6,13,63,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+8,Espanyol,38,15,11,12,56,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+9,Alavés,38,14,13,11,55,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+10,Eibar,38,15,9,14,54,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+11,Málaga,38,12,10,16,46,squads/1c896955/Malaga-Stats,1c896955,Malaga
+12,Valencia,38,13,7,18,46,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+13,Celta Vigo,38,13,6,19,45,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+14,Las Palmas,38,10,9,19,39,squads/0049d422/Las-Palmas-Stats,0049d422,Las-Palmas
+15,Betis,38,10,9,19,39,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+16,La Coruña,38,8,12,18,36,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+17,Leganés,38,8,11,19,35,squads/7c6f2c78/Leganes-Stats,7c6f2c78,Leganes
+18,Sporting Gijón,38,7,10,21,31,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+19,Osasuna,38,4,10,24,22,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+20,Granada,38,4,8,26,20,squads/a0435291/Granada-Stats,a0435291,Granada
 ﻿2017-2018,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,28,9,1,93
-2,Atlético Madrid,38,23,10,5,79
-3,Real Madrid,38,22,10,6,76
-4,Valencia,38,22,7,9,73
-5,Villarreal,38,18,7,13,61
-6,Betis,38,18,6,14,60
-7,Sevilla,38,17,7,14,58
-8,Getafe,38,15,10,13,55
-9,Eibar,38,14,9,15,51
-10,Girona,38,14,9,15,51
-11,Espanyol,38,12,13,13,49
-12,Real Sociedad,38,14,7,17,49
-13,Celta Vigo,38,13,10,15,49
-14,Alavés,38,15,2,21,47
-15,Levante,38,11,13,14,46
-16,Athletic Club,38,10,13,15,43
-17,Leganés,38,12,7,19,43
-18,La Coruña,38,6,11,21,29
-19,Las Palmas,38,5,7,26,22
-20,Málaga,38,5,5,28,20
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,28,9,1,93,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Atlético Madrid,38,23,10,5,79,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+3,Real Madrid,38,22,10,6,76,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+4,Valencia,38,22,7,9,73,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+5,Villarreal,38,18,7,13,61,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Betis,38,18,6,14,60,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+7,Sevilla,38,17,7,14,58,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+8,Getafe,38,15,10,13,55,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+9,Eibar,38,14,9,15,51,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+10,Girona,38,14,9,15,51,squads/9024a00a/Girona-Stats,9024a00a,Girona
+11,Espanyol,38,12,13,13,49,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+12,Real Sociedad,38,14,7,17,49,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+13,Celta Vigo,38,13,10,15,49,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+14,Alavés,38,15,2,21,47,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+15,Levante,38,11,13,14,46,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+16,Athletic Club,38,10,13,15,43,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+17,Leganés,38,12,7,19,43,squads/7c6f2c78/Leganes-Stats,7c6f2c78,Leganes
+18,La Coruña,38,6,11,21,29,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+19,Las Palmas,38,5,7,26,22,squads/0049d422/Las-Palmas-Stats,0049d422,Las-Palmas
+20,Málaga,38,5,5,28,20,squads/1c896955/Malaga-Stats,1c896955,Malaga
 ﻿2018-2019,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,26,9,3,87
-2,Atlético Madrid,38,22,10,6,76
-3,Real Madrid,38,21,5,12,68
-4,Valencia,38,15,16,7,61
-5,Getafe,38,15,14,9,59
-6,Sevilla,38,17,8,13,59
-7,Espanyol,38,14,11,13,53
-8,Athletic Club,38,13,14,11,53
-9,Real Sociedad,38,13,11,14,50
-10,Betis,38,14,8,16,50
-11,Alavés,38,13,11,14,50
-12,Eibar,38,11,14,13,47
-13,Leganés,38,11,12,15,45
-14,Villarreal,38,10,14,14,44
-15,Levante,38,11,11,16,44
-16,Valladolid,38,10,11,17,41
-17,Celta Vigo,38,10,11,17,41
-18,Girona,38,9,10,19,37
-19,Huesca,38,7,12,19,33
-20,Rayo Vallecano,38,8,8,22,32
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,26,9,3,87,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Atlético Madrid,38,22,10,6,76,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+3,Real Madrid,38,21,5,12,68,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+4,Valencia,38,15,16,7,61,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+5,Getafe,38,15,14,9,59,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+6,Sevilla,38,17,8,13,59,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+7,Espanyol,38,14,11,13,53,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+8,Athletic Club,38,13,14,11,53,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+9,Real Sociedad,38,13,11,14,50,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+10,Betis,38,14,8,16,50,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+11,Alavés,38,13,11,14,50,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+12,Eibar,38,11,14,13,47,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+13,Leganés,38,11,12,15,45,squads/7c6f2c78/Leganes-Stats,7c6f2c78,Leganes
+14,Villarreal,38,10,14,14,44,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+15,Levante,38,11,11,16,44,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+16,Valladolid,38,10,11,17,41,squads/17859612/Valladolid-Stats,17859612,Valladolid
+17,Celta Vigo,38,10,11,17,41,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+18,Girona,38,9,10,19,37,squads/9024a00a/Girona-Stats,9024a00a,Girona
+19,Huesca,38,7,12,19,33,squads/c6c493e6/Huesca-Stats,c6c493e6,Huesca
+20,Rayo Vallecano,38,8,8,22,32,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
 ﻿2019-2020,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,26,9,3,87
-2,Barcelona,38,25,7,6,82
-3,Atlético Madrid,38,18,16,4,70
-4,Sevilla,38,19,13,6,70
-5,Villarreal,38,18,6,14,60
-6,Real Sociedad,38,16,8,14,56
-7,Granada,38,16,8,14,56
-8,Getafe,38,14,12,12,54
-9,Valencia,38,14,11,13,53
-10,Osasuna,38,13,13,12,52
-11,Athletic Club,38,13,12,13,51
-12,Levante,38,14,7,17,49
-13,Valladolid,38,9,15,14,42
-14,Eibar,38,11,9,18,42
-15,Betis,38,10,11,17,41
-16,Alavés,38,10,9,19,39
-17,Celta Vigo,38,7,16,15,37
-18,Leganés,38,8,12,18,36
-19,Mallorca,38,9,6,23,33
-20,Espanyol,38,5,10,23,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,26,9,3,87,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,25,7,6,82,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Atlético Madrid,38,18,16,4,70,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Sevilla,38,19,13,6,70,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Villarreal,38,18,6,14,60,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Real Sociedad,38,16,8,14,56,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+7,Granada,38,16,8,14,56,squads/a0435291/Granada-Stats,a0435291,Granada
+8,Getafe,38,14,12,12,54,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+9,Valencia,38,14,11,13,53,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+10,Osasuna,38,13,13,12,52,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+11,Athletic Club,38,13,12,13,51,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+12,Levante,38,14,7,17,49,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+13,Valladolid,38,9,15,14,42,squads/17859612/Valladolid-Stats,17859612,Valladolid
+14,Eibar,38,11,9,18,42,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+15,Betis,38,10,11,17,41,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+16,Alavés,38,10,9,19,39,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+17,Celta Vigo,38,7,16,15,37,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+18,Leganés,38,8,12,18,36,squads/7c6f2c78/Leganes-Stats,7c6f2c78,Leganes
+19,Mallorca,38,9,6,23,33,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+20,Espanyol,38,5,10,23,25,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
 ﻿2020-2021,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Atlético Madrid,38,26,8,4,86
-2,Real Madrid,38,25,9,4,84
-3,Barcelona,38,24,7,7,79
-4,Sevilla,38,24,5,9,77
-5,Real Sociedad,38,17,11,10,62
-6,Betis,38,17,10,11,61
-7,Villarreal,38,15,13,10,58
-8,Celta Vigo,38,14,11,13,53
-9,Granada,38,13,7,18,46
-10,Athletic Club,38,11,13,14,46
-11,Osasuna,38,11,11,16,44
-12,Cádiz,38,11,11,16,44
-13,Valencia,38,10,13,15,43
-14,Levante,38,9,14,15,41
-15,Getafe,38,9,11,18,38
-16,Alavés,38,9,11,18,38
-17,Elche,38,8,12,18,36
-18,Huesca,38,7,13,18,34
-19,Valladolid,38,5,16,17,31
-20,Eibar,38,6,12,20,30
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Atlético Madrid,38,26,8,4,86,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+2,Real Madrid,38,25,9,4,84,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Barcelona,38,24,7,7,79,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+4,Sevilla,38,24,5,9,77,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Real Sociedad,38,17,11,10,62,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+6,Betis,38,17,10,11,61,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+7,Villarreal,38,15,13,10,58,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+8,Celta Vigo,38,14,11,13,53,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+9,Granada,38,13,7,18,46,squads/a0435291/Granada-Stats,a0435291,Granada
+10,Athletic Club,38,11,13,14,46,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+11,Osasuna,38,11,11,16,44,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+12,Cádiz,38,11,11,16,44,squads/ee7c297c/Cadiz-Stats,ee7c297c,Cadiz
+13,Valencia,38,10,13,15,43,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+14,Levante,38,9,14,15,41,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+15,Getafe,38,9,11,18,38,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+16,Alavés,38,9,11,18,38,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+17,Elche,38,8,12,18,36,squads/6c8b07df/Elche-Stats,6c8b07df,Elche
+18,Huesca,38,7,13,18,34,squads/c6c493e6/Huesca-Stats,c6c493e6,Huesca
+19,Valladolid,38,5,16,17,31,squads/17859612/Valladolid-Stats,17859612,Valladolid
+20,Eibar,38,6,12,20,30,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
 ﻿2021-2022,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,26,8,4,86
-2,Barcelona,38,21,10,7,73
-3,Atlético Madrid,38,21,8,9,71
-4,Sevilla,38,18,16,4,70
-5,Betis,38,19,8,11,65
-6,Real Sociedad,38,17,11,10,62
-7,Villarreal,38,16,11,11,59
-8,Athletic Club,38,14,13,11,55
-9,Valencia,38,11,15,12,48
-10,Osasuna,38,12,11,15,47
-11,Celta Vigo,38,12,10,16,46
-12,Rayo Vallecano,38,11,9,18,42
-13,Elche,38,11,9,18,42
-14,Espanyol,38,10,12,16,42
-15,Getafe,38,8,15,15,39
-16,Mallorca,38,10,9,19,39
-17,Cádiz,38,8,15,15,39
-18,Granada,38,8,14,16,38
-19,Levante,38,8,11,19,35
-20,Alavés,38,8,7,23,31
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,26,8,4,86,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,21,10,7,73,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Atlético Madrid,38,21,8,9,71,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Sevilla,38,18,16,4,70,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Betis,38,19,8,11,65,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+6,Real Sociedad,38,17,11,10,62,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+7,Villarreal,38,16,11,11,59,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+8,Athletic Club,38,14,13,11,55,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+9,Valencia,38,11,15,12,48,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+10,Osasuna,38,12,11,15,47,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+11,Celta Vigo,38,12,10,16,46,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+12,Rayo Vallecano,38,11,9,18,42,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+13,Elche,38,11,9,18,42,squads/6c8b07df/Elche-Stats,6c8b07df,Elche
+14,Espanyol,38,10,12,16,42,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+15,Getafe,38,8,15,15,39,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+16,Mallorca,38,10,9,19,39,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+17,Cádiz,38,8,15,15,39,squads/ee7c297c/Cadiz-Stats,ee7c297c,Cadiz
+18,Granada,38,8,14,16,38,squads/a0435291/Granada-Stats,a0435291,Granada
+19,Levante,38,8,11,19,35,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+20,Alavés,38,8,7,23,31,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+,Club,Link
+0,Real Madrid,squads/53a2f082/Real-Madrid-Stats
+1,Real Sociedad,squads/e31d1cd9/Real-Sociedad-Stats
+2,La Coruña,squads/2a60ed82/Deportivo-La-Coruna-Stats
+3,Celta Vigo,squads/f25da7fb/Celta-Vigo-Stats
+4,Valencia,squads/dcc91a7b/Valencia-Stats
+5,Barcelona,squads/206d90db/Barcelona-Stats
+6,Athletic Club,squads/2b390eca/Athletic-Club-Stats
+7,Betis,squads/fc536746/Real-Betis-Stats
+8,Mallorca,squads/2aa12281/Mallorca-Stats
+9,Sevilla,squads/ad2be733/Sevilla-Stats
+10,Osasuna,squads/03c57e2b/Osasuna-Stats
+11,Atlético Madrid,squads/db3b9613/Atletico-Madrid-Stats
+12,Málaga,squads/1c896955/Malaga-Stats
+13,Valladolid,squads/17859612/Valladolid-Stats
+14,Villarreal,squads/2a8183b3/Villarreal-Stats
+15,Racing Sant,squads/dee3bbc8/Racing-Santander-Stats
+16,Espanyol,squads/a8661628/Espanyol-Stats
+17,Recreativo,squads/6e1d6d95/Recreativo-Stats
+18,Alavés,squads/8d6fd021/Alaves-Stats
+19,Rayo Vallecano,squads/98e8af82/Rayo-Vallecano-Stats
+21,Zaragoza,squads/800303a0/Zaragoza-Stats
+22,Albacete,squads/b7e3e46e/Albacete-Stats
+23,Real Murcia,squads/ab0dc306/Real-Murcia-Stats
+24,Getafe,squads/7848bd64/Getafe-Stats
+25,Levante,squads/9800b6a1/Levante-Stats
+26,Numancia,squads/76d8bafa/Numancia-Stats
+27,Cádiz,squads/ee7c297c/Cadiz-Stats
+28,Gimnàstic,squads/d5de8ff3/Gimnastic-Stats
+29,Almería,squads/78ecf4bb/Almeria-Stats
+30,Sporting Gijón,squads/bb9efd50/Sporting-Gijon-Stats
+31,Tenerife,squads/27cc9c62/Tenerife-Stats
+32,Xerez,squads/c653e8bf/Xerez-Stats
+33,Hércules,squads/4222a514/Hercules-Stats
+34,Granada,squads/a0435291/Granada-Stats
+35,Elche,squads/6c8b07df/Elche-Stats
+36,Eibar,squads/bea5c710/Eibar-Stats
+37,Córdoba,squads/6009ff35/Cordoba-Stats
+38,Las Palmas,squads/0049d422/Las-Palmas-Stats
+39,Leganés,squads/7c6f2c78/Leganes-Stats
+40,Girona,squads/9024a00a/Girona-Stats
+41,Huesca,squads/c6c493e6/Huesca-Stats
 

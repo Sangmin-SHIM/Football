@@ -1,22 +1,22 @@
 ﻿2021-2022,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Paris S-G,38,26,8,4,86
-2,Marseille,38,21,8,9,71
-3,Monaco,38,20,9,9,69
-4,Rennes,38,20,6,12,66
-5,Nice,38,20,7,11,66
-6,Strasbourg,38,17,12,9,63
-7,Lens,38,17,11,10,62
-8,Lyon,38,17,11,10,61
-9,Nantes,38,15,10,13,55
-10,Lille,38,14,13,11,55
-11,Brest,38,13,9,16,48
-12,Reims,38,11,13,14,46
-13,Montpellier,38,12,7,19,43
-14,Angers,38,10,11,17,41
-15,Troyes,38,9,11,18,38
-16,Lorient,38,8,12,18,36
-17,Clermont Foot,38,9,9,20,36
-18,Saint-Étienne,38,7,11,20,32
-19,Metz,38,6,13,19,31
-20,Bordeaux,38,6,13,19,31
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Paris S-G,38,26,8,4,86,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+2,Marseille,38,21,8,9,71,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+3,Monaco,38,20,9,9,69,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+4,Rennes,38,20,6,12,66,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+5,Nice,38,20,7,11,66,squads/132ebc33/Nice-Stats,132ebc33,Nice
+6,Strasbourg,38,17,12,9,63,squads/c0d3eab4/Strasbourg-Stats,c0d3eab4,Strasbourg
+7,Lens,38,17,11,10,62,squads/fd4e0f7d/Lens-Stats,fd4e0f7d,Lens
+8,Lyon,38,17,11,10,61,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+9,Nantes,38,15,10,13,55,squads/d7a486cd/Nantes-Stats,d7a486cd,Nantes
+10,Lille,38,14,13,11,55,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+11,Brest,38,13,9,16,48,squads/fb08dbb3/Brest-Stats,fb08dbb3,Brest
+12,Reims,38,11,13,14,46,squads/7fdd64e0/Reims-Stats,7fdd64e0,Reims
+13,Montpellier,38,12,7,19,43,squads/281b0e73/Montpellier-Stats,281b0e73,Montpellier
+14,Angers,38,10,11,17,41,squads/69236f98/Angers-Stats,69236f98,Angers
+15,Troyes,38,9,11,18,38,squads/54195385/Troyes-Stats,54195385,Troyes
+16,Lorient,38,8,12,18,36,squads/d2c87802/Lorient-Stats,d2c87802,Lorient
+17,Clermont Foot,38,9,9,20,36,squads/d9676424/Clermont-Foot-Stats,d9676424,Clermont-Foot
+18,Saint-Étienne,38,7,11,20,32,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+19,Metz,38,6,13,19,31,squads/f83960ae/Metz-Stats,f83960ae,Metz
+20,Bordeaux,38,6,13,19,31,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux

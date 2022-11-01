@@ -1,20 +1,20 @@
 ﻿2009-2010,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,20,10,4,70
-2,Schalke 04,34,19,8,7,65
-3,Werder Bremen,34,17,10,7,61
-4,Leverkusen,34,15,14,5,59
-5,Dortmund,34,16,9,9,57
-6,Stuttgart,34,15,10,9,55
-7,Hamburger SV,34,13,13,8,52
-8,Wolfsburg,34,14,8,12,50
-9,Mainz 05,34,12,11,11,47
-10,Eint Frankfurt,34,12,10,12,46
-11,Hoffenheim,34,11,9,14,42
-12,M'Gladbach,34,10,9,15,39
-13,Köln,34,9,11,14,38
-14,Freiburg,34,9,8,17,35
-15,Hannover 96,34,9,6,19,33
-16,Nürnberg,34,8,7,19,31
-17,Bochum,34,6,10,18,28
-18,Hertha BSC,34,5,9,20,24
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,20,10,4,70,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Schalke 04,34,19,8,7,65,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+3,Werder Bremen,34,17,10,7,61,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+4,Leverkusen,34,15,14,5,59,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+5,Dortmund,34,16,9,9,57,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+6,Stuttgart,34,15,10,9,55,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+7,Hamburger SV,34,13,13,8,52,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+8,Wolfsburg,34,14,8,12,50,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+9,Mainz 05,34,12,11,11,47,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+10,Eint Frankfurt,34,12,10,12,46,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+11,Hoffenheim,34,11,9,14,42,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+12,M'Gladbach,34,10,9,15,39,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+13,Köln,34,9,11,14,38,squads/bc357bf7/Koln-Stats,bc357bf7,Koln
+14,Freiburg,34,9,8,17,35,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+15,Hannover 96,34,9,6,19,33,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+16,Nürnberg,34,8,7,19,31,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg
+17,Bochum,34,6,10,18,28,squads/b42c6323/Bochum-Stats,b42c6323,Bochum
+18,Hertha BSC,34,5,9,20,24,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC

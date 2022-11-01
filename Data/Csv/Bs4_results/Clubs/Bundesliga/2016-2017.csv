@@ -1,20 +1,20 @@
 ﻿2016-2017,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,25,7,2,82
-2,RB Leipzig,34,20,7,7,67
-3,Dortmund,34,18,10,6,64
-4,Hoffenheim,34,16,14,4,62
-5,Köln,34,12,13,9,49
-6,Hertha BSC,34,15,4,15,49
-7,Freiburg,34,14,6,14,48
-8,Werder Bremen,34,13,6,15,45
-9,M'Gladbach,34,12,9,13,45
-10,Schalke 04,34,11,10,13,43
-11,Eint Frankfurt,34,11,9,14,42
-12,Leverkusen,34,11,8,15,41
-13,Augsburg,34,9,11,14,38
-14,Hamburger SV,34,10,8,16,38
-15,Mainz 05,34,10,7,17,37
-16,Wolfsburg,34,10,7,17,37
-17,Ingolstadt 04,34,8,8,18,32
-18,Darmstadt 98,34,7,4,23,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,25,7,2,82,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,RB Leipzig,34,20,7,7,67,squads/acbb6a5b/RB-Leipzig-Stats,acbb6a5b,RB-Leipzig
+3,Dortmund,34,18,10,6,64,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+4,Hoffenheim,34,16,14,4,62,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+5,Köln,34,12,13,9,49,squads/bc357bf7/Koln-Stats,bc357bf7,Koln
+6,Hertha BSC,34,15,4,15,49,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+7,Freiburg,34,14,6,14,48,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+8,Werder Bremen,34,13,6,15,45,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+9,M'Gladbach,34,12,9,13,45,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+10,Schalke 04,34,11,10,13,43,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+11,Eint Frankfurt,34,11,9,14,42,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+12,Leverkusen,34,11,8,15,41,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+13,Augsburg,34,9,11,14,38,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+14,Hamburger SV,34,10,8,16,38,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+15,Mainz 05,34,10,7,17,37,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+16,Wolfsburg,34,10,7,17,37,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+17,Ingolstadt 04,34,8,8,18,32,squads/12eb2039/Ingolstadt-04-Stats,12eb2039,Ingolstadt-04
+18,Darmstadt 98,34,7,4,23,25,squads/6a6967fc/Darmstadt-98-Stats,6a6967fc,Darmstadt-98

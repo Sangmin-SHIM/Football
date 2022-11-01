@@ -1,22 +1,22 @@
 ﻿2013-2014,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Atlético Madrid,38,28,6,4,90
-2,Barcelona,38,27,6,5,87
-3,Real Madrid,38,27,6,5,87
-4,Athletic Club,38,20,10,8,70
-5,Sevilla,38,18,9,11,63
-6,Villarreal,38,17,8,13,59
-7,Real Sociedad,38,16,11,11,59
-8,Valencia,38,13,10,15,49
-9,Celta Vigo,38,14,7,17,49
-10,Levante,38,12,12,14,48
-11,Málaga,38,12,9,17,45
-12,Rayo Vallecano,38,13,4,21,43
-13,Getafe,38,11,9,18,42
-14,Espanyol,38,11,9,18,42
-15,Granada,38,12,5,21,41
-16,Elche,38,9,13,16,40
-17,Almería,38,11,7,20,40
-18,Osasuna,38,10,9,19,39
-19,Valladolid,38,7,15,16,36
-20,Betis,38,6,7,25,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Atlético Madrid,38,28,6,4,90,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+2,Barcelona,38,27,6,5,87,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Real Madrid,38,27,6,5,87,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+4,Athletic Club,38,20,10,8,70,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+5,Sevilla,38,18,9,11,63,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+6,Villarreal,38,17,8,13,59,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+7,Real Sociedad,38,16,11,11,59,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+8,Valencia,38,13,10,15,49,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+9,Celta Vigo,38,14,7,17,49,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+10,Levante,38,12,12,14,48,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+11,Málaga,38,12,9,17,45,squads/1c896955/Malaga-Stats,1c896955,Malaga
+12,Rayo Vallecano,38,13,4,21,43,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+13,Getafe,38,11,9,18,42,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+14,Espanyol,38,11,9,18,42,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+15,Granada,38,12,5,21,41,squads/a0435291/Granada-Stats,a0435291,Granada
+16,Elche,38,9,13,16,40,squads/6c8b07df/Elche-Stats,6c8b07df,Elche
+17,Almería,38,11,7,20,40,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+18,Osasuna,38,10,9,19,39,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+19,Valladolid,38,7,15,16,36,squads/17859612/Valladolid-Stats,17859612,Valladolid
+20,Betis,38,6,7,25,25,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis

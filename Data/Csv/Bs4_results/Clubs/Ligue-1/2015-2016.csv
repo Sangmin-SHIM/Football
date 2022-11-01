@@ -1,22 +1,22 @@
 ﻿2015-2016,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Paris S-G,38,30,6,2,96
-2,Lyon,38,19,8,11,65
-3,Monaco,38,17,14,7,65
-4,Nice,38,18,9,11,63
-5,Lille,38,15,15,8,60
-6,Saint-Étienne,38,17,7,14,58
-7,Caen,38,16,6,16,54
-8,Rennes,38,13,13,12,52
-9,Angers,38,13,11,14,50
-10,Bastia,38,14,8,16,50
-11,Bordeaux,38,12,14,12,50
-12,Montpellier,38,14,7,17,49
-13,Marseille,38,10,18,10,48
-14,Nantes,38,12,12,14,48
-15,Lorient,38,11,13,14,46
-16,Guingamp,38,11,11,16,44
-17,Toulouse,38,9,13,16,40
-18,Reims,38,10,9,19,39
-19,Gazélec Ajaccio,38,8,13,17,37
-20,Troyes,38,3,9,26,18
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Paris S-G,38,30,6,2,96,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+2,Lyon,38,19,8,11,65,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+3,Monaco,38,17,14,7,65,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+4,Nice,38,18,9,11,63,squads/132ebc33/Nice-Stats,132ebc33,Nice
+5,Lille,38,15,15,8,60,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+6,Saint-Étienne,38,17,7,14,58,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+7,Caen,38,16,6,16,54,squads/74229020/Caen-Stats,74229020,Caen
+8,Rennes,38,13,13,12,52,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+9,Angers,38,13,11,14,50,squads/69236f98/Angers-Stats,69236f98,Angers
+10,Bastia,38,14,8,16,50,squads/6283be2c/Bastia-Stats,6283be2c,Bastia
+11,Bordeaux,38,12,14,12,50,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+12,Montpellier,38,14,7,17,49,squads/281b0e73/Montpellier-Stats,281b0e73,Montpellier
+13,Marseille,38,10,18,10,48,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+14,Nantes,38,12,12,14,48,squads/d7a486cd/Nantes-Stats,d7a486cd,Nantes
+15,Lorient,38,11,13,14,46,squads/d2c87802/Lorient-Stats,d2c87802,Lorient
+16,Guingamp,38,11,11,16,44,squads/d41b5f53/Guingamp-Stats,d41b5f53,Guingamp
+17,Toulouse,38,9,13,16,40,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+18,Reims,38,10,9,19,39,squads/7fdd64e0/Reims-Stats,7fdd64e0,Reims
+19,Gazélec Ajaccio,38,8,13,17,37,squads/73905dde/Gazelec-Ajaccio-Stats,73905dde,Gazelec-Ajaccio
+20,Troyes,38,3,9,26,18,squads/54195385/Troyes-Stats,54195385,Troyes

@@ -1,22 +1,22 @@
 ﻿2003-2004,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Valencia,38,23,8,7,77
-2,Barcelona,38,21,9,8,72
-3,La Coruña,38,21,8,9,71
-4,Real Madrid,38,21,7,10,70
-5,Athletic Club,38,15,11,12,56
-6,Sevilla,38,15,10,13,55
-7,Atlético Madrid,38,15,10,13,55
-8,Villarreal,38,15,9,14,54
-9,Betis,38,13,13,12,52
-10,Málaga,38,15,6,17,51
-11,Mallorca,38,15,6,17,51
-12,Zaragoza,38,13,9,16,48
-13,Osasuna,38,11,15,12,48
-14,Albacete,38,13,8,17,47
-15,Real Sociedad,38,11,13,14,46
-16,Espanyol,38,13,4,21,43
-17,Racing Sant,38,11,10,17,43
-18,Valladolid,38,10,11,17,41
-19,Celta Vigo,38,9,12,17,39
-20,Real Murcia,38,5,11,22,26
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Valencia,38,23,8,7,77,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+2,Barcelona,38,21,9,8,72,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,La Coruña,38,21,8,9,71,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+4,Real Madrid,38,21,7,10,70,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+5,Athletic Club,38,15,11,12,56,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+6,Sevilla,38,15,10,13,55,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+7,Atlético Madrid,38,15,10,13,55,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+8,Villarreal,38,15,9,14,54,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+9,Betis,38,13,13,12,52,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+10,Málaga,38,15,6,17,51,squads/1c896955/Malaga-Stats,1c896955,Malaga
+11,Mallorca,38,15,6,17,51,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+12,Zaragoza,38,13,9,16,48,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+13,Osasuna,38,11,15,12,48,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+14,Albacete,38,13,8,17,47,squads/b7e3e46e/Albacete-Stats,b7e3e46e,Albacete
+15,Real Sociedad,38,11,13,14,46,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+16,Espanyol,38,13,4,21,43,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+17,Racing Sant,38,11,10,17,43,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+18,Valladolid,38,10,11,17,41,squads/17859612/Valladolid-Stats,17859612,Valladolid
+19,Celta Vigo,38,9,12,17,39,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+20,Real Murcia,38,5,11,22,26,squads/ab0dc306/Real-Murcia-Stats,ab0dc306,Real-Murcia

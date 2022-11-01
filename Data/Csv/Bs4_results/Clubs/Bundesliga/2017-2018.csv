@@ -1,20 +1,20 @@
 ﻿2017-2018,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,27,3,4,84
-2,Schalke 04,34,18,9,7,63
-3,Hoffenheim,34,15,10,9,55
-4,Dortmund,34,15,10,9,55
-5,Leverkusen,34,15,10,9,55
-6,RB Leipzig,34,15,8,11,53
-7,Stuttgart,34,15,6,13,51
-8,Eint Frankfurt,34,14,7,13,49
-9,M'Gladbach,34,13,8,13,47
-10,Hertha BSC,34,10,13,11,43
-11,Werder Bremen,34,10,12,12,42
-12,Augsburg,34,10,11,13,41
-13,Hannover 96,34,10,9,15,39
-14,Mainz 05,34,9,9,16,36
-15,Freiburg,34,8,12,14,36
-16,Wolfsburg,34,6,15,13,33
-17,Hamburger SV,34,8,7,19,31
-18,Köln,34,5,7,22,22
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,27,3,4,84,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Schalke 04,34,18,9,7,63,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+3,Hoffenheim,34,15,10,9,55,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+4,Dortmund,34,15,10,9,55,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+5,Leverkusen,34,15,10,9,55,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+6,RB Leipzig,34,15,8,11,53,squads/acbb6a5b/RB-Leipzig-Stats,acbb6a5b,RB-Leipzig
+7,Stuttgart,34,15,6,13,51,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+8,Eint Frankfurt,34,14,7,13,49,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+9,M'Gladbach,34,13,8,13,47,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+10,Hertha BSC,34,10,13,11,43,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+11,Werder Bremen,34,10,12,12,42,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+12,Augsburg,34,10,11,13,41,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+13,Hannover 96,34,10,9,15,39,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+14,Mainz 05,34,9,9,16,36,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+15,Freiburg,34,8,12,14,36,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+16,Wolfsburg,34,6,15,13,33,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+17,Hamburger SV,34,8,7,19,31,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+18,Köln,34,5,7,22,22,squads/bc357bf7/Koln-Stats,bc357bf7,Koln

@@ -1,20 +1,20 @@
 ﻿2019-2020,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,26,4,4,82
-2,Dortmund,34,21,6,7,69
-3,RB Leipzig,34,18,12,4,66
-4,M'Gladbach,34,20,5,9,65
-5,Leverkusen,34,19,6,9,63
-6,Hoffenheim,34,15,7,12,52
-7,Wolfsburg,34,13,10,11,49
-8,Freiburg,34,13,9,12,48
-9,Eint Frankfurt,34,13,6,15,45
-10,Hertha BSC,34,11,8,15,41
-11,Union Berlin,34,12,5,17,41
-12,Schalke 04,34,9,12,13,39
-13,Mainz 05,34,11,4,19,37
-14,Köln,34,10,6,18,36
-15,Augsburg,34,9,9,16,36
-16,Werder Bremen,34,8,7,19,31
-17,Düsseldorf,34,6,12,16,30
-18,Paderborn 07,34,4,8,22,20
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,26,4,4,82,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Dortmund,34,21,6,7,69,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+3,RB Leipzig,34,18,12,4,66,squads/acbb6a5b/RB-Leipzig-Stats,acbb6a5b,RB-Leipzig
+4,M'Gladbach,34,20,5,9,65,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+5,Leverkusen,34,19,6,9,63,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+6,Hoffenheim,34,15,7,12,52,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+7,Wolfsburg,34,13,10,11,49,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+8,Freiburg,34,13,9,12,48,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+9,Eint Frankfurt,34,13,6,15,45,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+10,Hertha BSC,34,11,8,15,41,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+11,Union Berlin,34,12,5,17,41,squads/7a41008f/Union-Berlin-Stats,7a41008f,Union-Berlin
+12,Schalke 04,34,9,12,13,39,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+13,Mainz 05,34,11,4,19,37,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+14,Köln,34,10,6,18,36,squads/bc357bf7/Koln-Stats,bc357bf7,Koln
+15,Augsburg,34,9,9,16,36,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+16,Werder Bremen,34,8,7,19,31,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+17,Düsseldorf,34,6,12,16,30,squads/b1278397/Dusseldorf-Stats,b1278397,Dusseldorf
+18,Paderborn 07,34,4,8,22,20,squads/d9f93f02/Paderborn-07-Stats,d9f93f02,Paderborn-07

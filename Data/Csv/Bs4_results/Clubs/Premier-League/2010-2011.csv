@@ -1,22 +1,22 @@
 ﻿2010-2011,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Manchester Utd,38,23,11,4,80
-2,Chelsea,38,21,8,9,71
-3,Manchester City,38,21,8,9,71
-4,Arsenal,38,19,11,8,68
-5,Tottenham,38,16,14,8,62
-6,Liverpool,38,17,7,14,58
-7,Everton,38,13,15,10,54
-8,Fulham,38,11,16,11,49
-9,Aston Villa,38,12,12,14,48
-10,Sunderland,38,12,11,15,47
-11,West Brom,38,12,11,15,47
-12,Newcastle Utd,38,11,13,14,46
-13,Stoke City,38,13,7,18,46
-14,Bolton,38,12,10,16,46
-15,Blackburn,38,11,10,17,43
-16,Wigan Athletic,38,9,15,14,42
-17,Wolves,38,11,7,20,40
-18,Birmingham City,38,8,15,15,39
-19,Blackpool,38,10,9,19,39
-20,West Ham,38,7,12,19,33
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Manchester Utd,38,23,11,4,80,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+2,Chelsea,38,21,8,9,71,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+3,Manchester City,38,21,8,9,71,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+4,Arsenal,38,19,11,8,68,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+5,Tottenham,38,16,14,8,62,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+6,Liverpool,38,17,7,14,58,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+7,Everton,38,13,15,10,54,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+8,Fulham,38,11,16,11,49,squads/fd962109/Fulham-Stats,fd962109,Fulham
+9,Aston Villa,38,12,12,14,48,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+10,Sunderland,38,12,11,15,47,squads/8ef52968/Sunderland-Stats,8ef52968,Sunderland
+11,West Brom,38,12,11,15,47,squads/60c6b05f/West-Bromwich-Albion-Stats,60c6b05f,West-Bromwich-Albion
+12,Newcastle Utd,38,11,13,14,46,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+13,Stoke City,38,13,7,18,46,squads/17892952/Stoke-City-Stats,17892952,Stoke-City
+14,Bolton,38,12,10,16,46,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+15,Blackburn,38,11,10,17,43,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+16,Wigan Athletic,38,9,15,14,42,squads/e59ddc76/Wigan-Athletic-Stats,e59ddc76,Wigan-Athletic
+17,Wolves,38,11,7,20,40,squads/8cec06e1/Wolverhampton-Wanderers-Stats,8cec06e1,Wolverhampton-Wanderers
+18,Birmingham City,38,8,15,15,39,squads/ec79b7c2/Birmingham-City-Stats,ec79b7c2,Birmingham-City
+19,Blackpool,38,10,9,19,39,squads/7cbf5cb4/Blackpool-Stats,7cbf5cb4,Blackpool
+20,West Ham,38,7,12,19,33,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United

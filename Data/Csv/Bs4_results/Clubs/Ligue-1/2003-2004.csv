@@ -1,22 +1,22 @@
 ﻿2003-2004,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Lyon,38,24,7,7,79
-2,Paris S-G,38,22,10,6,76
-3,Monaco,38,21,12,5,75
-4,Auxerre,38,19,8,11,65
-5,Sochaux,38,18,9,11,63
-6,Nantes,38,17,9,12,60
-7,Marseille,38,17,6,15,57
-8,Lens,38,15,8,15,53
-9,Rennes,38,14,10,14,52
-10,Lille,38,14,9,15,51
-11,Nice,38,11,17,10,50
-12,Bordeaux,38,13,11,14,50
-13,Strasbourg,38,10,13,15,43
-14,Metz,38,11,9,18,42
-15,Ajaccio,38,10,10,18,40
-16,Toulouse,38,9,12,17,39
-17,Bastia,38,9,12,17,39
-18,Guingamp,38,10,8,20,38
-19,Le Mans,38,9,11,18,38
-20,Montpellier,38,8,7,23,31
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Lyon,38,24,7,7,79,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+2,Paris S-G,38,22,10,6,76,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+3,Monaco,38,21,12,5,75,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+4,Auxerre,38,19,8,11,65,squads/5ae09109/Auxerre-Stats,5ae09109,Auxerre
+5,Sochaux,38,18,9,11,63,squads/b9cd3c9a/Sochaux-Stats,b9cd3c9a,Sochaux
+6,Nantes,38,17,9,12,60,squads/d7a486cd/Nantes-Stats,d7a486cd,Nantes
+7,Marseille,38,17,6,15,57,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+8,Lens,38,15,8,15,53,squads/fd4e0f7d/Lens-Stats,fd4e0f7d,Lens
+9,Rennes,38,14,10,14,52,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+10,Lille,38,14,9,15,51,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+11,Nice,38,11,17,10,50,squads/132ebc33/Nice-Stats,132ebc33,Nice
+12,Bordeaux,38,13,11,14,50,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+13,Strasbourg,38,10,13,15,43,squads/c0d3eab4/Strasbourg-Stats,c0d3eab4,Strasbourg
+14,Metz,38,11,9,18,42,squads/f83960ae/Metz-Stats,f83960ae,Metz
+15,Ajaccio,38,10,10,18,40,squads/7a54bb4f/Ajaccio-Stats,7a54bb4f,Ajaccio
+16,Toulouse,38,9,12,17,39,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+17,Bastia,38,9,12,17,39,squads/6283be2c/Bastia-Stats,6283be2c,Bastia
+18,Guingamp,38,10,8,20,38,squads/d41b5f53/Guingamp-Stats,d41b5f53,Guingamp
+19,Le Mans,38,9,11,18,38,squads/cd5d7aa6/Le-Mans-Stats,cd5d7aa6,Le-Mans
+20,Montpellier,38,8,7,23,31,squads/281b0e73/Montpellier-Stats,281b0e73,Montpellier

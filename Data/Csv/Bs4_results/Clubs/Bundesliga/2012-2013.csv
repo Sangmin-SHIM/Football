@@ -1,20 +1,20 @@
 ﻿2012-2013,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,29,4,1,91
-2,Dortmund,34,19,9,6,66
-3,Leverkusen,34,19,8,7,65
-4,Schalke 04,34,16,7,11,55
-5,Freiburg,34,14,9,11,51
-6,Eint Frankfurt,34,14,9,11,51
-7,Hamburger SV,34,14,6,14,48
-8,M'Gladbach,34,12,11,11,47
-9,Hannover 96,34,13,6,15,45
-10,Nürnberg,34,11,11,12,44
-11,Wolfsburg,34,10,13,11,43
-12,Stuttgart,34,12,7,15,43
-13,Mainz 05,34,10,12,12,42
-14,Werder Bremen,34,8,10,16,34
-15,Augsburg,34,8,9,17,33
-16,Hoffenheim,34,8,7,19,31
-17,Düsseldorf,34,7,9,18,30
-18,Greuther Fürth,34,4,9,21,21
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,29,4,1,91,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Dortmund,34,19,9,6,66,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+3,Leverkusen,34,19,8,7,65,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+4,Schalke 04,34,16,7,11,55,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+5,Freiburg,34,14,9,11,51,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+6,Eint Frankfurt,34,14,9,11,51,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+7,Hamburger SV,34,14,6,14,48,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+8,M'Gladbach,34,12,11,11,47,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+9,Hannover 96,34,13,6,15,45,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+10,Nürnberg,34,11,11,12,44,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg
+11,Wolfsburg,34,10,13,11,43,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+12,Stuttgart,34,12,7,15,43,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+13,Mainz 05,34,10,12,12,42,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+14,Werder Bremen,34,8,10,16,34,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+15,Augsburg,34,8,9,17,33,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+16,Hoffenheim,34,8,7,19,31,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+17,Düsseldorf,34,7,9,18,30,squads/b1278397/Dusseldorf-Stats,b1278397,Dusseldorf
+18,Greuther Fürth,34,4,9,21,21,squads/12192a4c/Greuther-Furth-Stats,12192a4c,Greuther-Furth

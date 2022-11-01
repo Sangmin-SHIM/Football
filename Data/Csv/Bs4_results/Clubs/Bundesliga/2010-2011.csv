@@ -1,20 +1,20 @@
 ﻿2010-2011,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Dortmund,34,23,6,5,75
-2,Leverkusen,34,20,8,6,68
-3,Bayern Munich,34,19,8,7,65
-4,Hannover 96,34,19,3,12,60
-5,Mainz 05,34,18,4,12,58
-6,Nürnberg,34,13,8,13,47
-7,Kaiserslautern,34,13,7,14,46
-8,Hamburger SV,34,12,9,13,45
-9,Freiburg,34,13,5,16,44
-10,Köln,34,13,5,16,44
-11,Hoffenheim,34,11,10,13,43
-12,Stuttgart,34,12,6,16,42
-13,Werder Bremen,34,10,11,13,41
-14,Schalke 04,34,11,7,16,40
-15,Wolfsburg,34,9,11,14,38
-16,M'Gladbach,34,10,6,18,36
-17,Eint Frankfurt,34,9,7,18,34
-18,St. Pauli,34,8,5,21,29
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Dortmund,34,23,6,5,75,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+2,Leverkusen,34,20,8,6,68,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+3,Bayern Munich,34,19,8,7,65,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+4,Hannover 96,34,19,3,12,60,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+5,Mainz 05,34,18,4,12,58,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+6,Nürnberg,34,13,8,13,47,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg
+7,Kaiserslautern,34,13,7,14,46,squads/73a27a73/Kaiserslautern-Stats,73a27a73,Kaiserslautern
+8,Hamburger SV,34,12,9,13,45,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+9,Freiburg,34,13,5,16,44,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+10,Köln,34,13,5,16,44,squads/bc357bf7/Koln-Stats,bc357bf7,Koln
+11,Hoffenheim,34,11,10,13,43,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+12,Stuttgart,34,12,6,16,42,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+13,Werder Bremen,34,10,11,13,41,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+14,Schalke 04,34,11,7,16,40,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+15,Wolfsburg,34,9,11,14,38,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+16,M'Gladbach,34,10,6,18,36,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+17,Eint Frankfurt,34,9,7,18,34,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+18,St. Pauli,34,8,5,21,29,squads/54864664/St-Pauli-Stats,54864664,St-Pauli

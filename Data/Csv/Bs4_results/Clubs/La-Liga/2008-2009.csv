@@ -1,22 +1,22 @@
 ﻿2008-2009,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,27,6,5,87
-2,Real Madrid,38,25,3,10,78
-3,Sevilla,38,21,7,10,70
-4,Atlético Madrid,38,20,7,11,67
-5,Villarreal,38,18,11,9,65
-6,Valencia,38,18,8,12,62
-7,La Coruña,38,16,10,12,58
-8,Málaga,38,15,10,13,55
-9,Mallorca,38,14,9,15,51
-10,Espanyol,38,12,11,15,47
-11,Almería,38,13,7,18,46
-12,Racing Sant,38,12,10,16,46
-13,Athletic Club,38,12,8,18,44
-14,Sporting Gijón,38,14,1,23,43
-15,Osasuna,38,10,13,15,43
-16,Valladolid,38,12,7,19,43
-17,Getafe,38,10,12,16,42
-18,Betis,38,10,12,16,42
-19,Numancia,38,10,5,23,35
-20,Recreativo,38,8,9,21,33
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,27,6,5,87,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,25,3,10,78,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Sevilla,38,21,7,10,70,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+4,Atlético Madrid,38,20,7,11,67,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+5,Villarreal,38,18,11,9,65,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Valencia,38,18,8,12,62,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+7,La Coruña,38,16,10,12,58,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+8,Málaga,38,15,10,13,55,squads/1c896955/Malaga-Stats,1c896955,Malaga
+9,Mallorca,38,14,9,15,51,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+10,Espanyol,38,12,11,15,47,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+11,Almería,38,13,7,18,46,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+12,Racing Sant,38,12,10,16,46,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+13,Athletic Club,38,12,8,18,44,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+14,Sporting Gijón,38,14,1,23,43,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+15,Osasuna,38,10,13,15,43,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+16,Valladolid,38,12,7,19,43,squads/17859612/Valladolid-Stats,17859612,Valladolid
+17,Getafe,38,10,12,16,42,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+18,Betis,38,10,12,16,42,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+19,Numancia,38,10,5,23,35,squads/76d8bafa/Numancia-Stats,76d8bafa,Numancia
+20,Recreativo,38,8,9,21,33,squads/6e1d6d95/Recreativo-Stats,6e1d6d95,Recreativo

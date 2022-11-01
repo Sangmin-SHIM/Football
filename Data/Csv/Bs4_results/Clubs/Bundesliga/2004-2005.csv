@@ -1,20 +1,20 @@
 ﻿2004-2005,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,24,5,5,77
-2,Schalke 04,34,20,3,11,63
-3,Werder Bremen,34,18,5,11,59
-4,Hertha BSC,34,15,13,6,58
-5,Stuttgart,34,17,7,10,58
-6,Leverkusen,34,16,9,9,57
-7,Dortmund,34,15,10,9,55
-8,Hamburger SV,34,16,3,15,51
-9,Wolfsburg,34,15,3,16,48
-10,Hannover 96,34,13,6,15,45
-11,Mainz 05,34,12,7,15,43
-12,Kaiserslautern,34,12,6,16,42
-13,Arminia,34,11,7,16,40
-14,Nürnberg,34,10,8,16,38
-15,M'Gladbach,34,8,12,14,36
-16,Bochum,34,9,8,17,35
-17,Hansa Rostock,34,7,9,18,30
-18,Freiburg,34,3,9,22,18
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,24,5,5,77,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Schalke 04,34,20,3,11,63,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+3,Werder Bremen,34,18,5,11,59,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+4,Hertha BSC,34,15,13,6,58,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+5,Stuttgart,34,17,7,10,58,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+6,Leverkusen,34,16,9,9,57,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+7,Dortmund,34,15,10,9,55,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+8,Hamburger SV,34,16,3,15,51,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+9,Wolfsburg,34,15,3,16,48,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+10,Hannover 96,34,13,6,15,45,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+11,Mainz 05,34,12,7,15,43,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+12,Kaiserslautern,34,12,6,16,42,squads/73a27a73/Kaiserslautern-Stats,73a27a73,Kaiserslautern
+13,Arminia,34,11,7,16,40,squads/247c4b67/Arminia-Stats,247c4b67,Arminia
+14,Nürnberg,34,10,8,16,38,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg
+15,M'Gladbach,34,8,12,14,36,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+16,Bochum,34,9,8,17,35,squads/b42c6323/Bochum-Stats,b42c6323,Bochum
+17,Hansa Rostock,34,7,9,18,30,squads/bc31a6e4/Hansa-Rostock-Stats,bc31a6e4,Hansa-Rostock
+18,Freiburg,34,3,9,22,18,squads/a486e511/Freiburg-Stats,a486e511,Freiburg

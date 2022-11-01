@@ -1,43 +1,42 @@
-,Club
-0,Lyon
-1,Monaco
-2,Marseille
-3,Bordeaux
-4,Sochaux
-5,Auxerre
-6,Guingamp
-7,Lens
-8,Nantes
-9,Nice
-10,Paris S-G
-11,Bastia
-12,Strasbourg
-13,Lille
-14,Rennes
-15,Montpellier
-16,Ajaccio
-17,Le Havre
-18,Sedan
-19,Troyes
-20,Club
-21,Metz
-22,Toulouse
-23,Le Mans
-24,Saint-Étienne
-25,Caen
-26,Istres
-27,Nancy
-28,Lorient
-29,Valenciennes
-30,Grenoble
-31,Boulogne
-32,Brest
-33,Arles-Avignon
-34,Evian
-35,Dijon
-36,Reims
-37,Angers
-38,Gazélec Ajaccio
-39,Amiens
-40,Nîmes
-41,Clermont Foot
+,Club,Link,Club_id,Club_name
+0,Lyon,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+1,Monaco,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+2,Marseille,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+3,Bordeaux,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+4,Sochaux,squads/b9cd3c9a/Sochaux-Stats,b9cd3c9a,Sochaux
+5,Auxerre,squads/5ae09109/Auxerre-Stats,5ae09109,Auxerre
+6,Guingamp,squads/d41b5f53/Guingamp-Stats,d41b5f53,Guingamp
+7,Lens,squads/fd4e0f7d/Lens-Stats,fd4e0f7d,Lens
+8,Nantes,squads/d7a486cd/Nantes-Stats,d7a486cd,Nantes
+9,Nice,squads/132ebc33/Nice-Stats,132ebc33,Nice
+10,Paris S-G,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+11,Bastia,squads/6283be2c/Bastia-Stats,6283be2c,Bastia
+12,Strasbourg,squads/c0d3eab4/Strasbourg-Stats,c0d3eab4,Strasbourg
+13,Lille,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+14,Rennes,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+15,Montpellier,squads/281b0e73/Montpellier-Stats,281b0e73,Montpellier
+16,Ajaccio,squads/7a54bb4f/Ajaccio-Stats,7a54bb4f,Ajaccio
+17,Le Havre,squads/5c2737db/Le-Havre-Stats,5c2737db,Le-Havre
+18,Sedan,squads/e4e952b9/Sedan-Stats,e4e952b9,Sedan
+19,Troyes,squads/54195385/Troyes-Stats,54195385,Troyes
+21,Metz,squads/f83960ae/Metz-Stats,f83960ae,Metz
+22,Toulouse,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+23,Le Mans,squads/cd5d7aa6/Le-Mans-Stats,cd5d7aa6,Le-Mans
+24,Saint-Étienne,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+25,Caen,squads/74229020/Caen-Stats,74229020,Caen
+26,Istres,squads/70f96e85/Istres-Stats,70f96e85,Istres
+27,Nancy,squads/e88fc6e5/Nancy-Stats,e88fc6e5,Nancy
+28,Lorient,squads/d2c87802/Lorient-Stats,d2c87802,Lorient
+29,Valenciennes,squads/259d3345/Valenciennes-Stats,259d3345,Valenciennes
+30,Grenoble,squads/40aa7280/Grenoble-Foot-Stats,40aa7280,Grenoble-Foot
+31,Boulogne,squads/98973a5c/Boulogne-Stats,98973a5c,Boulogne
+32,Brest,squads/fb08dbb3/Brest-Stats,fb08dbb3,Brest
+33,Arles-Avignon,squads/e95faa7f/Arles-Avignon-Stats,e95faa7f,Arles-Avignon
+34,Evian,squads/633fbb6e/Evian-Stats,633fbb6e,Evian
+35,Dijon,squads/8dfb7350/Dijon-Stats,8dfb7350,Dijon
+36,Reims,squads/7fdd64e0/Reims-Stats,7fdd64e0,Reims
+37,Angers,squads/69236f98/Angers-Stats,69236f98,Angers
+38,Gazélec Ajaccio,squads/73905dde/Gazelec-Ajaccio-Stats,73905dde,Gazelec-Ajaccio
+39,Amiens,squads/25622401/Amiens-Stats,25622401,Amiens
+40,Nîmes,squads/1cbf5f9e/Nimes-Stats,1cbf5f9e,Nimes
+41,Clermont Foot,squads/d9676424/Clermont-Foot-Stats,d9676424,Clermont-Foot

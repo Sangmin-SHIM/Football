@@ -1,43 +1,41 @@
-,Club
-0,Manchester Utd
-1,Arsenal
-2,Newcastle Utd
-3,Chelsea
-4,Liverpool
-5,Blackburn
-6,Everton
-7,Southampton
-8,Manchester City
-9,Tottenham
-10,Middlesbrough
-11,Charlton Ath
-12,Birmingham City
-13,Fulham
-14,Leeds United
-15,Aston Villa
-16,Bolton
-17,West Ham
-18,West Brom
-19,Sunderland
-20,Club
-21,Portsmouth
-22,Leicester City
-23,Wolves
-24,Crystal Palace
-25,Norwich City
-26,Wigan Athletic
-27,Reading
-28,Sheffield Utd
-29,Watford
-30,Derby County
-31,Stoke City
-32,Hull City
-33,Burnley
-34,Blackpool
-35,Swansea City
-36,QPR
-37,Cardiff City
-38,Bournemouth
-39,Brighton
-40,Huddersfield
-41,Brentford
+,Club,Link,Club_id,Club_name
+0,Manchester Utd,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+1,Arsenal,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+2,Newcastle Utd,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+3,Chelsea,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+4,Liverpool,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+5,Blackburn,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+6,Everton,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+7,Southampton,squads/33c895d4/Southampton-Stats,33c895d4,Southampton
+8,Manchester City,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+9,Tottenham,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+10,Middlesbrough,squads/7f59c601/Middlesbrough-Stats,7f59c601,Middlesbrough
+11,Charlton Ath,squads/7a8db6d4/Charlton-Athletic-Stats,7a8db6d4,Charlton-Athletic
+12,Birmingham City,squads/ec79b7c2/Birmingham-City-Stats,ec79b7c2,Birmingham-City
+13,Fulham,squads/fd962109/Fulham-Stats,fd962109,Fulham
+14,Leeds United,squads/5bfb9659/Leeds-United-Stats,5bfb9659,Leeds-United
+15,Aston Villa,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+16,Bolton,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+17,West Ham,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United
+18,West Brom,squads/60c6b05f/West-Bromwich-Albion-Stats,60c6b05f,West-Bromwich-Albion
+19,Sunderland,squads/8ef52968/Sunderland-Stats,8ef52968,Sunderland
+21,Portsmouth,squads/76ffc013/Portsmouth-Stats,76ffc013,Portsmouth
+22,Leicester City,squads/a2d435b3/Leicester-City-Stats,a2d435b3,Leicester-City
+23,Wolves,squads/8cec06e1/Wolverhampton-Wanderers-Stats,8cec06e1,Wolverhampton-Wanderers
+24,Crystal Palace,squads/47c64c55/Crystal-Palace-Stats,47c64c55,Crystal-Palace
+25,Norwich City,squads/1c781004/Norwich-City-Stats,1c781004,Norwich-City
+26,Wigan Athletic,squads/e59ddc76/Wigan-Athletic-Stats,e59ddc76,Wigan-Athletic
+27,Reading,squads/b0ac61ff/Reading-Stats,b0ac61ff,Reading
+28,Sheffield Utd,squads/1df6b87e/Sheffield-United-Stats,1df6b87e,Sheffield-United
+29,Watford,squads/2abfe087/Watford-Stats,2abfe087,Watford
+30,Derby County,squads/26ab47ee/Derby-County-Stats,26ab47ee,Derby-County
+31,Stoke City,squads/17892952/Stoke-City-Stats,17892952,Stoke-City
+32,Hull City,squads/bd8769d1/Hull-City-Stats,bd8769d1,Hull-City
+33,Burnley,squads/943e8050/Burnley-Stats,943e8050,Burnley
+34,Blackpool,squads/7cbf5cb4/Blackpool-Stats,7cbf5cb4,Blackpool
+35,Swansea City,squads/fb10988f/Swansea-City-Stats,fb10988f,Swansea-City
+36,QPR,squads/a757999c/Queens-Park-Rangers-Stats,a757999c,Queens-Park-Rangers
+37,Cardiff City,squads/75fae011/Cardiff-City-Stats,75fae011,Cardiff-City
+38,Bournemouth,squads/4ba7cbea/Bournemouth-Stats,4ba7cbea,Bournemouth
+39,Brighton,squads/d07537b9/Brighton-and-Hove-Albion-Stats,d07537b9,Brighton-and-Hove-Albion
+40,Huddersfield,squads/f5922ca5/Huddersfield-Town-Stats,f5922ca5,Huddersfield-Town

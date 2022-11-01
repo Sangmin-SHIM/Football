@@ -1,22 +1,22 @@
 ﻿2009-2010,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Barcelona,38,31,6,1,99
-2,Real Madrid,38,31,3,4,96
-3,Valencia,38,21,8,9,71
-4,Sevilla,38,19,6,13,63
-5,Mallorca,38,18,8,12,62
-6,Getafe,38,17,7,14,58
-7,Villarreal,38,16,8,14,56
-8,Athletic Club,38,15,9,14,54
-9,Atlético Madrid,38,13,8,17,47
-10,La Coruña,38,13,8,17,47
-11,Espanyol,38,11,11,16,44
-12,Osasuna,38,11,10,17,43
-13,Almería,38,10,12,16,42
-14,Zaragoza,38,10,11,17,41
-15,Sporting Gijón,38,9,13,16,40
-16,Racing Sant,38,9,12,17,39
-17,Málaga,38,7,16,15,37
-18,Valladolid,38,7,15,16,36
-19,Tenerife,38,9,9,20,36
-20,Xerez,38,8,10,20,34
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Barcelona,38,31,6,1,99,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+2,Real Madrid,38,31,3,4,96,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+3,Valencia,38,21,8,9,71,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+4,Sevilla,38,19,6,13,63,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Mallorca,38,18,8,12,62,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+6,Getafe,38,17,7,14,58,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+7,Villarreal,38,16,8,14,56,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+8,Athletic Club,38,15,9,14,54,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+9,Atlético Madrid,38,13,8,17,47,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+10,La Coruña,38,13,8,17,47,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+11,Espanyol,38,11,11,16,44,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+12,Osasuna,38,11,10,17,43,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+13,Almería,38,10,12,16,42,squads/78ecf4bb/Almeria-Stats,78ecf4bb,Almeria
+14,Zaragoza,38,10,11,17,41,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+15,Sporting Gijón,38,9,13,16,40,squads/bb9efd50/Sporting-Gijon-Stats,bb9efd50,Sporting-Gijon
+16,Racing Sant,38,9,12,17,39,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+17,Málaga,38,7,16,15,37,squads/1c896955/Malaga-Stats,1c896955,Malaga
+18,Valladolid,38,7,15,16,36,squads/17859612/Valladolid-Stats,17859612,Valladolid
+19,Tenerife,38,9,9,20,36,squads/27cc9c62/Tenerife-Stats,27cc9c62,Tenerife
+20,Xerez,38,8,10,20,34,squads/c653e8bf/Xerez-Stats,c653e8bf,Xerez

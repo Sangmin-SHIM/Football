@@ -1,22 +1,22 @@
 ﻿2016-2017,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Chelsea,38,30,3,5,93
-2,Tottenham,38,26,8,4,86
-3,Manchester City,38,23,9,6,78
-4,Liverpool,38,22,10,6,76
-5,Arsenal,38,23,6,9,75
-6,Manchester Utd,38,18,15,5,69
-7,Everton,38,17,10,11,61
-8,Southampton,38,12,10,16,46
-9,Bournemouth,38,12,10,16,46
-10,West Brom,38,12,9,17,45
-11,West Ham,38,12,9,17,45
-12,Leicester City,38,12,8,18,44
-13,Stoke City,38,11,11,16,44
-14,Crystal Palace,38,12,5,21,41
-15,Swansea City,38,12,5,21,41
-16,Burnley,38,11,7,20,40
-17,Watford,38,11,7,20,40
-18,Hull City,38,9,7,22,34
-19,Middlesbrough,38,5,13,20,28
-20,Sunderland,38,6,6,26,24
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Chelsea,38,30,3,5,93,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+2,Tottenham,38,26,8,4,86,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+3,Manchester City,38,23,9,6,78,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+4,Liverpool,38,22,10,6,76,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+5,Arsenal,38,23,6,9,75,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+6,Manchester Utd,38,18,15,5,69,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+7,Everton,38,17,10,11,61,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+8,Southampton,38,12,10,16,46,squads/33c895d4/Southampton-Stats,33c895d4,Southampton
+9,Bournemouth,38,12,10,16,46,squads/4ba7cbea/Bournemouth-Stats,4ba7cbea,Bournemouth
+10,West Brom,38,12,9,17,45,squads/60c6b05f/West-Bromwich-Albion-Stats,60c6b05f,West-Bromwich-Albion
+11,West Ham,38,12,9,17,45,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United
+12,Leicester City,38,12,8,18,44,squads/a2d435b3/Leicester-City-Stats,a2d435b3,Leicester-City
+13,Stoke City,38,11,11,16,44,squads/17892952/Stoke-City-Stats,17892952,Stoke-City
+14,Crystal Palace,38,12,5,21,41,squads/47c64c55/Crystal-Palace-Stats,47c64c55,Crystal-Palace
+15,Swansea City,38,12,5,21,41,squads/fb10988f/Swansea-City-Stats,fb10988f,Swansea-City
+16,Burnley,38,11,7,20,40,squads/943e8050/Burnley-Stats,943e8050,Burnley
+17,Watford,38,11,7,20,40,squads/2abfe087/Watford-Stats,2abfe087,Watford
+18,Hull City,38,9,7,22,34,squads/bd8769d1/Hull-City-Stats,bd8769d1,Hull-City
+19,Middlesbrough,38,5,13,20,28,squads/7f59c601/Middlesbrough-Stats,7f59c601,Middlesbrough
+20,Sunderland,38,6,6,26,24,squads/8ef52968/Sunderland-Stats,8ef52968,Sunderland

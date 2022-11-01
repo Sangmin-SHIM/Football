@@ -1,22 +1,22 @@
 ﻿2009-2010,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Chelsea,38,27,5,6,86
-2,Manchester Utd,38,27,4,7,85
-3,Arsenal,38,23,6,9,75
-4,Tottenham,38,21,7,10,70
-5,Manchester City,38,18,13,7,67
-6,Aston Villa,38,17,13,8,64
-7,Liverpool,38,18,9,11,63
-8,Everton,38,16,13,9,61
-9,Birmingham City,38,13,11,14,50
-10,Blackburn,38,13,11,14,50
-11,Stoke City,38,11,14,13,47
-12,Fulham,38,12,10,16,46
-13,Sunderland,38,11,11,16,44
-14,Bolton,38,10,9,19,39
-15,Wolves,38,9,11,18,38
-16,Wigan Athletic,38,9,9,20,36
-17,West Ham,38,8,11,19,35
-18,Burnley,38,8,6,24,30
-19,Hull City,38,6,12,20,30
-20,Portsmouth,38,7,7,24,19
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Chelsea,38,27,5,6,86,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+2,Manchester Utd,38,27,4,7,85,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+3,Arsenal,38,23,6,9,75,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+4,Tottenham,38,21,7,10,70,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+5,Manchester City,38,18,13,7,67,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+6,Aston Villa,38,17,13,8,64,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+7,Liverpool,38,18,9,11,63,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+8,Everton,38,16,13,9,61,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+9,Birmingham City,38,13,11,14,50,squads/ec79b7c2/Birmingham-City-Stats,ec79b7c2,Birmingham-City
+10,Blackburn,38,13,11,14,50,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+11,Stoke City,38,11,14,13,47,squads/17892952/Stoke-City-Stats,17892952,Stoke-City
+12,Fulham,38,12,10,16,46,squads/fd962109/Fulham-Stats,fd962109,Fulham
+13,Sunderland,38,11,11,16,44,squads/8ef52968/Sunderland-Stats,8ef52968,Sunderland
+14,Bolton,38,10,9,19,39,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+15,Wolves,38,9,11,18,38,squads/8cec06e1/Wolverhampton-Wanderers-Stats,8cec06e1,Wolverhampton-Wanderers
+16,Wigan Athletic,38,9,9,20,36,squads/e59ddc76/Wigan-Athletic-Stats,e59ddc76,Wigan-Athletic
+17,West Ham,38,8,11,19,35,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United
+18,Burnley,38,8,6,24,30,squads/943e8050/Burnley-Stats,943e8050,Burnley
+19,Hull City,38,6,12,20,30,squads/bd8769d1/Hull-City-Stats,bd8769d1,Hull-City
+20,Portsmouth,38,7,7,24,19,squads/76ffc013/Portsmouth-Stats,76ffc013,Portsmouth

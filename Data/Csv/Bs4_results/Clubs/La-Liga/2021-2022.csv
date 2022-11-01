@@ -1,22 +1,22 @@
 ﻿2021-2022,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,26,8,4,86
-2,Barcelona,38,21,10,7,73
-3,Atlético Madrid,38,21,8,9,71
-4,Sevilla,38,18,16,4,70
-5,Betis,38,19,8,11,65
-6,Real Sociedad,38,17,11,10,62
-7,Villarreal,38,16,11,11,59
-8,Athletic Club,38,14,13,11,55
-9,Valencia,38,11,15,12,48
-10,Osasuna,38,12,11,15,47
-11,Celta Vigo,38,12,10,16,46
-12,Rayo Vallecano,38,11,9,18,42
-13,Elche,38,11,9,18,42
-14,Espanyol,38,10,12,16,42
-15,Getafe,38,8,15,15,39
-16,Mallorca,38,10,9,19,39
-17,Cádiz,38,8,15,15,39
-18,Granada,38,8,14,16,38
-19,Levante,38,8,11,19,35
-20,Alavés,38,8,7,23,31
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,26,8,4,86,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,21,10,7,73,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Atlético Madrid,38,21,8,9,71,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Sevilla,38,18,16,4,70,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Betis,38,19,8,11,65,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+6,Real Sociedad,38,17,11,10,62,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+7,Villarreal,38,16,11,11,59,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+8,Athletic Club,38,14,13,11,55,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+9,Valencia,38,11,15,12,48,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+10,Osasuna,38,12,11,15,47,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+11,Celta Vigo,38,12,10,16,46,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+12,Rayo Vallecano,38,11,9,18,42,squads/98e8af82/Rayo-Vallecano-Stats,98e8af82,Rayo-Vallecano
+13,Elche,38,11,9,18,42,squads/6c8b07df/Elche-Stats,6c8b07df,Elche
+14,Espanyol,38,10,12,16,42,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+15,Getafe,38,8,15,15,39,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+16,Mallorca,38,10,9,19,39,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+17,Cádiz,38,8,15,15,39,squads/ee7c297c/Cadiz-Stats,ee7c297c,Cadiz
+18,Granada,38,8,14,16,38,squads/a0435291/Granada-Stats,a0435291,Granada
+19,Levante,38,8,11,19,35,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+20,Alavés,38,8,7,23,31,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves

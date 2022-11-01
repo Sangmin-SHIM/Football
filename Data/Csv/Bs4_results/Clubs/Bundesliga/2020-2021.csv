@@ -1,20 +1,20 @@
 ﻿2020-2021,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,24,6,4,78
-2,RB Leipzig,34,19,8,7,65
-3,Dortmund,34,20,4,10,64
-4,Wolfsburg,34,17,10,7,61
-5,Eint Frankfurt,34,16,12,6,60
-6,Leverkusen,34,14,10,10,52
-7,Union Berlin,34,12,14,8,50
-8,M'Gladbach,34,13,10,11,49
-9,Stuttgart,34,12,9,13,45
-10,Freiburg,34,12,9,13,45
-11,Hoffenheim,34,11,10,13,43
-12,Mainz 05,34,10,9,15,39
-13,Augsburg,34,10,6,18,36
-14,Hertha BSC,34,8,11,15,35
-15,Arminia,34,9,8,17,35
-16,Köln,34,8,9,17,33
-17,Werder Bremen,34,7,10,17,31
-18,Schalke 04,34,3,7,24,16
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,24,6,4,78,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,RB Leipzig,34,19,8,7,65,squads/acbb6a5b/RB-Leipzig-Stats,acbb6a5b,RB-Leipzig
+3,Dortmund,34,20,4,10,64,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+4,Wolfsburg,34,17,10,7,61,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+5,Eint Frankfurt,34,16,12,6,60,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+6,Leverkusen,34,14,10,10,52,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+7,Union Berlin,34,12,14,8,50,squads/7a41008f/Union-Berlin-Stats,7a41008f,Union-Berlin
+8,M'Gladbach,34,13,10,11,49,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+9,Stuttgart,34,12,9,13,45,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+10,Freiburg,34,12,9,13,45,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+11,Hoffenheim,34,11,10,13,43,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+12,Mainz 05,34,10,9,15,39,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+13,Augsburg,34,10,6,18,36,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+14,Hertha BSC,34,8,11,15,35,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+15,Arminia,34,9,8,17,35,squads/247c4b67/Arminia-Stats,247c4b67,Arminia
+16,Köln,34,8,9,17,33,squads/bc357bf7/Koln-Stats,bc357bf7,Koln
+17,Werder Bremen,34,7,10,17,31,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+18,Schalke 04,34,3,7,24,16,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04

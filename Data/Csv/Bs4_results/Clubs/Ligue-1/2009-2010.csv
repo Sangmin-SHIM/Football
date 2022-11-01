@@ -1,22 +1,22 @@
 ﻿2009-2010,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Marseille,38,23,9,6,78
-2,Lyon,38,20,12,6,72
-3,Auxerre,38,20,11,7,71
-4,Lille,38,21,7,10,70
-5,Montpellier,38,20,9,9,69
-6,Bordeaux,38,19,7,12,64
-7,Lorient,38,16,10,12,58
-8,Monaco,38,15,10,13,55
-9,Rennes,38,14,11,13,53
-10,Valenciennes,38,14,10,14,52
-11,Lens,38,12,12,14,48
-12,Nancy,38,13,9,16,48
-13,Paris S-G,38,12,11,15,47
-14,Toulouse,38,12,11,15,47
-15,Nice,38,11,11,16,44
-16,Sochaux,38,11,8,19,41
-17,Saint-Étienne,38,10,10,18,40
-18,Le Mans,38,8,8,22,32
-19,Boulogne,38,7,10,21,31
-20,Grenoble,38,5,8,25,23
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Marseille,38,23,9,6,78,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+2,Lyon,38,20,12,6,72,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+3,Auxerre,38,20,11,7,71,squads/5ae09109/Auxerre-Stats,5ae09109,Auxerre
+4,Lille,38,21,7,10,70,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+5,Montpellier,38,20,9,9,69,squads/281b0e73/Montpellier-Stats,281b0e73,Montpellier
+6,Bordeaux,38,19,7,12,64,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+7,Lorient,38,16,10,12,58,squads/d2c87802/Lorient-Stats,d2c87802,Lorient
+8,Monaco,38,15,10,13,55,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+9,Rennes,38,14,11,13,53,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+10,Valenciennes,38,14,10,14,52,squads/259d3345/Valenciennes-Stats,259d3345,Valenciennes
+11,Lens,38,12,12,14,48,squads/fd4e0f7d/Lens-Stats,fd4e0f7d,Lens
+12,Nancy,38,13,9,16,48,squads/e88fc6e5/Nancy-Stats,e88fc6e5,Nancy
+13,Paris S-G,38,12,11,15,47,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+14,Toulouse,38,12,11,15,47,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+15,Nice,38,11,11,16,44,squads/132ebc33/Nice-Stats,132ebc33,Nice
+16,Sochaux,38,11,8,19,41,squads/b9cd3c9a/Sochaux-Stats,b9cd3c9a,Sochaux
+17,Saint-Étienne,38,10,10,18,40,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+18,Le Mans,38,8,8,22,32,squads/cd5d7aa6/Le-Mans-Stats,cd5d7aa6,Le-Mans
+19,Boulogne,38,7,10,21,31,squads/98973a5c/Boulogne-Stats,98973a5c,Boulogne
+20,Grenoble,38,5,8,25,23,squads/40aa7280/Grenoble-Foot-Stats,40aa7280,Grenoble-Foot

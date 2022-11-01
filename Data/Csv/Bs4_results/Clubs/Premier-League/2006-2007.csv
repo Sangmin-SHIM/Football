@@ -1,22 +1,22 @@
 ﻿2006-2007,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Manchester Utd,38,28,5,5,89
-2,Chelsea,38,24,11,3,83
-3,Liverpool,38,20,8,10,68
-4,Arsenal,38,19,11,8,68
-5,Tottenham,38,17,9,12,60
-6,Everton,38,15,13,10,58
-7,Bolton,38,16,8,14,56
-8,Reading,38,16,7,15,55
-9,Portsmouth,38,14,12,12,54
-10,Blackburn,38,15,7,16,52
-11,Aston Villa,38,11,17,10,50
-12,Middlesbrough,38,12,10,16,46
-13,Newcastle Utd,38,11,10,17,43
-14,Manchester City,38,11,9,18,42
-15,West Ham,38,12,5,21,41
-16,Fulham,38,8,15,15,39
-17,Wigan Athletic,38,10,8,20,38
-18,Sheffield Utd,38,10,8,20,38
-19,Charlton Ath,38,8,10,20,34
-20,Watford,38,5,13,20,28
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Manchester Utd,38,28,5,5,89,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+2,Chelsea,38,24,11,3,83,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+3,Liverpool,38,20,8,10,68,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+4,Arsenal,38,19,11,8,68,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+5,Tottenham,38,17,9,12,60,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+6,Everton,38,15,13,10,58,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+7,Bolton,38,16,8,14,56,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+8,Reading,38,16,7,15,55,squads/b0ac61ff/Reading-Stats,b0ac61ff,Reading
+9,Portsmouth,38,14,12,12,54,squads/76ffc013/Portsmouth-Stats,76ffc013,Portsmouth
+10,Blackburn,38,15,7,16,52,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+11,Aston Villa,38,11,17,10,50,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+12,Middlesbrough,38,12,10,16,46,squads/7f59c601/Middlesbrough-Stats,7f59c601,Middlesbrough
+13,Newcastle Utd,38,11,10,17,43,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+14,Manchester City,38,11,9,18,42,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+15,West Ham,38,12,5,21,41,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United
+16,Fulham,38,8,15,15,39,squads/fd962109/Fulham-Stats,fd962109,Fulham
+17,Wigan Athletic,38,10,8,20,38,squads/e59ddc76/Wigan-Athletic-Stats,e59ddc76,Wigan-Athletic
+18,Sheffield Utd,38,10,8,20,38,squads/1df6b87e/Sheffield-United-Stats,1df6b87e,Sheffield-United
+19,Charlton Ath,38,8,10,20,34,squads/7a8db6d4/Charlton-Athletic-Stats,7a8db6d4,Charlton-Athletic
+20,Watford,38,5,13,20,28,squads/2abfe087/Watford-Stats,2abfe087,Watford

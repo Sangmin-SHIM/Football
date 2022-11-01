@@ -1,22 +1,22 @@
 ﻿2003-2004,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Arsenal,38,26,12,0,90
-2,Chelsea,38,24,7,7,79
-3,Manchester Utd,38,23,6,9,75
-4,Liverpool,38,16,12,10,60
-5,Newcastle Utd,38,13,17,8,56
-6,Aston Villa,38,15,11,12,56
-7,Charlton Ath,38,14,11,13,53
-8,Bolton,38,14,11,13,53
-9,Fulham,38,14,10,14,52
-10,Birmingham City,38,12,14,12,50
-11,Middlesbrough,38,13,9,16,48
-12,Southampton,38,12,11,15,47
-13,Portsmouth,38,12,9,17,45
-14,Tottenham,38,13,6,19,45
-15,Blackburn,38,12,8,18,44
-16,Manchester City,38,9,14,15,41
-17,Everton,38,9,12,17,39
-18,Leicester City,38,6,15,17,33
-19,Leeds United,38,8,9,21,33
-20,Wolves,38,7,12,19,33
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Arsenal,38,26,12,0,90,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+2,Chelsea,38,24,7,7,79,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+3,Manchester Utd,38,23,6,9,75,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+4,Liverpool,38,16,12,10,60,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+5,Newcastle Utd,38,13,17,8,56,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+6,Aston Villa,38,15,11,12,56,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+7,Charlton Ath,38,14,11,13,53,squads/7a8db6d4/Charlton-Athletic-Stats,7a8db6d4,Charlton-Athletic
+8,Bolton,38,14,11,13,53,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+9,Fulham,38,14,10,14,52,squads/fd962109/Fulham-Stats,fd962109,Fulham
+10,Birmingham City,38,12,14,12,50,squads/ec79b7c2/Birmingham-City-Stats,ec79b7c2,Birmingham-City
+11,Middlesbrough,38,13,9,16,48,squads/7f59c601/Middlesbrough-Stats,7f59c601,Middlesbrough
+12,Southampton,38,12,11,15,47,squads/33c895d4/Southampton-Stats,33c895d4,Southampton
+13,Portsmouth,38,12,9,17,45,squads/76ffc013/Portsmouth-Stats,76ffc013,Portsmouth
+14,Tottenham,38,13,6,19,45,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+15,Blackburn,38,12,8,18,44,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+16,Manchester City,38,9,14,15,41,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+17,Everton,38,9,12,17,39,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+18,Leicester City,38,6,15,17,33,squads/a2d435b3/Leicester-City-Stats,a2d435b3,Leicester-City
+19,Leeds United,38,8,9,21,33,squads/5bfb9659/Leeds-United-Stats,5bfb9659,Leeds-United
+20,Wolves,38,7,12,19,33,squads/8cec06e1/Wolverhampton-Wanderers-Stats,8cec06e1,Wolverhampton-Wanderers

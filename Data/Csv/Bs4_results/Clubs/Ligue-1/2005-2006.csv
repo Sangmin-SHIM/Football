@@ -1,22 +1,22 @@
 ﻿2005-2006,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Lyon,38,25,9,4,84
-2,Bordeaux,38,18,15,5,69
-3,Lille,38,16,14,8,62
-4,Lens,38,14,18,6,60
-5,Marseille,38,16,12,10,60
-6,Auxerre,38,17,8,13,59
-7,Rennes,38,18,5,15,59
-8,Nice,38,16,10,12,58
-9,Paris S-G,38,13,13,12,52
-10,Monaco,38,13,13,12,52
-11,Le Mans,38,13,13,12,52
-12,Nancy,38,12,12,14,48
-13,Saint-Étienne,38,11,14,13,47
-14,Nantes,38,11,12,15,45
-15,Sochaux,38,11,11,16,44
-16,Toulouse,38,10,11,17,41
-17,Troyes,38,9,12,17,39
-18,Ajaccio,38,8,9,21,33
-19,Strasbourg,38,5,14,19,29
-20,Metz,38,6,11,21,29
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Lyon,38,25,9,4,84,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+2,Bordeaux,38,18,15,5,69,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+3,Lille,38,16,14,8,62,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+4,Lens,38,14,18,6,60,squads/fd4e0f7d/Lens-Stats,fd4e0f7d,Lens
+5,Marseille,38,16,12,10,60,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+6,Auxerre,38,17,8,13,59,squads/5ae09109/Auxerre-Stats,5ae09109,Auxerre
+7,Rennes,38,18,5,15,59,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+8,Nice,38,16,10,12,58,squads/132ebc33/Nice-Stats,132ebc33,Nice
+9,Paris S-G,38,13,13,12,52,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+10,Monaco,38,13,13,12,52,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+11,Le Mans,38,13,13,12,52,squads/cd5d7aa6/Le-Mans-Stats,cd5d7aa6,Le-Mans
+12,Nancy,38,12,12,14,48,squads/e88fc6e5/Nancy-Stats,e88fc6e5,Nancy
+13,Saint-Étienne,38,11,14,13,47,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+14,Nantes,38,11,12,15,45,squads/d7a486cd/Nantes-Stats,d7a486cd,Nantes
+15,Sochaux,38,11,11,16,44,squads/b9cd3c9a/Sochaux-Stats,b9cd3c9a,Sochaux
+16,Toulouse,38,10,11,17,41,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+17,Troyes,38,9,12,17,39,squads/54195385/Troyes-Stats,54195385,Troyes
+18,Ajaccio,38,8,9,21,33,squads/7a54bb4f/Ajaccio-Stats,7a54bb4f,Ajaccio
+19,Strasbourg,38,5,14,19,29,squads/c0d3eab4/Strasbourg-Stats,c0d3eab4,Strasbourg
+20,Metz,38,6,11,21,29,squads/f83960ae/Metz-Stats,f83960ae,Metz

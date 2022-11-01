@@ -1,20 +1,20 @@
 ﻿2007-2008,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,22,10,2,76
-2,Werder Bremen,34,20,6,8,66
-3,Schalke 04,34,18,10,6,64
-4,Hamburger SV,34,14,12,8,54
-5,Wolfsburg,34,15,9,10,54
-6,Stuttgart,34,16,4,14,52
-7,Leverkusen,34,15,6,13,51
-8,Hannover 96,34,13,10,11,49
-9,Eint Frankfurt,34,12,10,12,46
-10,Hertha BSC,34,12,8,14,44
-11,Karlsruher,34,11,10,13,43
-12,Bochum,34,10,11,13,41
-13,Dortmund,34,10,10,14,40
-14,Energie Cottbus,34,9,9,16,36
-15,Arminia,34,8,10,16,34
-16,Nürnberg,34,7,10,17,31
-17,Hansa Rostock,34,8,6,20,30
-18,MSV Duisburg,34,8,5,21,29
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,22,10,2,76,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Werder Bremen,34,20,6,8,66,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+3,Schalke 04,34,18,10,6,64,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+4,Hamburger SV,34,14,12,8,54,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+5,Wolfsburg,34,15,9,10,54,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+6,Stuttgart,34,16,4,14,52,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+7,Leverkusen,34,15,6,13,51,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+8,Hannover 96,34,13,10,11,49,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+9,Eint Frankfurt,34,12,10,12,46,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+10,Hertha BSC,34,12,8,14,44,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+11,Karlsruher,34,11,10,13,43,squads/33ba9d7b/Karlsruher-Stats,33ba9d7b,Karlsruher
+12,Bochum,34,10,11,13,41,squads/b42c6323/Bochum-Stats,b42c6323,Bochum
+13,Dortmund,34,10,10,14,40,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+14,Energie Cottbus,34,9,9,16,36,squads/7675ab36/Energie-Cottbus-Stats,7675ab36,Energie-Cottbus
+15,Arminia,34,8,10,16,34,squads/247c4b67/Arminia-Stats,247c4b67,Arminia
+16,Nürnberg,34,7,10,17,31,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg
+17,Hansa Rostock,34,8,6,20,30,squads/bc31a6e4/Hansa-Rostock-Stats,bc31a6e4,Hansa-Rostock
+18,MSV Duisburg,34,8,5,21,29,squads/bbfd364f/MSV-Duisburg-Stats,bbfd364f,MSV-Duisburg

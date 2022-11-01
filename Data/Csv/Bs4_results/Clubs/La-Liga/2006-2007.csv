@@ -1,22 +1,22 @@
 ﻿2006-2007,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,23,7,8,76
-2,Barcelona,38,22,10,6,76
-3,Sevilla,38,21,8,9,71
-4,Valencia,38,20,6,12,66
-5,Villarreal,38,18,8,12,62
-6,Zaragoza,38,16,12,10,60
-7,Atlético Madrid,38,17,9,12,60
-8,Recreativo,38,15,9,14,54
-9,Getafe,38,14,10,14,52
-10,Racing Sant,38,12,14,12,50
-11,Espanyol,38,12,13,13,49
-12,Mallorca,38,14,7,17,49
-13,La Coruña,38,12,11,15,47
-14,Osasuna,38,13,7,18,46
-15,Levante,38,10,12,16,42
-16,Betis,38,8,16,14,40
-17,Athletic Club,38,10,10,18,40
-18,Celta Vigo,38,10,9,19,39
-19,Real Sociedad,38,8,11,19,35
-20,Gimnàstic,38,7,7,24,28
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,23,7,8,76,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,22,10,6,76,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Sevilla,38,21,8,9,71,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+4,Valencia,38,20,6,12,66,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+5,Villarreal,38,18,8,12,62,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Zaragoza,38,16,12,10,60,squads/800303a0/Zaragoza-Stats,800303a0,Zaragoza
+7,Atlético Madrid,38,17,9,12,60,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+8,Recreativo,38,15,9,14,54,squads/6e1d6d95/Recreativo-Stats,6e1d6d95,Recreativo
+9,Getafe,38,14,10,14,52,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+10,Racing Sant,38,12,14,12,50,squads/dee3bbc8/Racing-Santander-Stats,dee3bbc8,Racing-Santander
+11,Espanyol,38,12,13,13,49,squads/a8661628/Espanyol-Stats,a8661628,Espanyol
+12,Mallorca,38,14,7,17,49,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+13,La Coruña,38,12,11,15,47,squads/2a60ed82/Deportivo-La-Coruna-Stats,2a60ed82,Deportivo-La-Coruna
+14,Osasuna,38,13,7,18,46,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+15,Levante,38,10,12,16,42,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+16,Betis,38,8,16,14,40,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+17,Athletic Club,38,10,10,18,40,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+18,Celta Vigo,38,10,9,19,39,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+19,Real Sociedad,38,8,11,19,35,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+20,Gimnàstic,38,7,7,24,28,squads/d5de8ff3/Gimnastic-Stats,d5de8ff3,Gimnastic

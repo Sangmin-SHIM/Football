@@ -1,22 +1,22 @@
 ﻿2008-2009,Ligue-1
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bordeaux,38,24,8,6,80
-2,Marseille,38,22,11,5,77
-3,Lyon,38,20,11,7,71
-4,Toulouse,38,16,16,6,64
-5,Lille,38,17,13,8,64
-6,Paris S-G,38,19,7,12,64
-7,Rennes,38,15,16,7,61
-8,Auxerre,38,16,7,15,55
-9,Nice,38,13,11,14,50
-10,Lorient,38,10,15,13,45
-11,Monaco,38,11,12,15,45
-12,Valenciennes,38,10,14,14,44
-13,Grenoble,38,10,14,14,44
-14,Sochaux,38,10,12,16,42
-15,Nancy,38,10,12,16,42
-16,Le Mans,38,10,10,18,40
-17,Saint-Étienne,38,11,7,20,40
-18,Caen,38,8,13,17,37
-19,Nantes,38,9,10,19,37
-20,Le Havre,38,7,5,26,26
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bordeaux,38,24,8,6,80,squads/123f3efe/Bordeaux-Stats,123f3efe,Bordeaux
+2,Marseille,38,22,11,5,77,squads/5725cc7b/Marseille-Stats,5725cc7b,Marseille
+3,Lyon,38,20,11,7,71,squads/d53c0b06/Lyon-Stats,d53c0b06,Lyon
+4,Toulouse,38,16,16,6,64,squads/3f8c4b5f/Toulouse-Stats,3f8c4b5f,Toulouse
+5,Lille,38,17,13,8,64,squads/cb188c0c/Lille-Stats,cb188c0c,Lille
+6,Paris S-G,38,19,7,12,64,squads/e2d8892c/Paris-Saint-Germain-Stats,e2d8892c,Paris-Saint-Germain
+7,Rennes,38,15,16,7,61,squads/b3072e00/Rennes-Stats,b3072e00,Rennes
+8,Auxerre,38,16,7,15,55,squads/5ae09109/Auxerre-Stats,5ae09109,Auxerre
+9,Nice,38,13,11,14,50,squads/132ebc33/Nice-Stats,132ebc33,Nice
+10,Lorient,38,10,15,13,45,squads/d2c87802/Lorient-Stats,d2c87802,Lorient
+11,Monaco,38,11,12,15,45,squads/fd6114db/Monaco-Stats,fd6114db,Monaco
+12,Valenciennes,38,10,14,14,44,squads/259d3345/Valenciennes-Stats,259d3345,Valenciennes
+13,Grenoble,38,10,14,14,44,squads/40aa7280/Grenoble-Foot-Stats,40aa7280,Grenoble-Foot
+14,Sochaux,38,10,12,16,42,squads/b9cd3c9a/Sochaux-Stats,b9cd3c9a,Sochaux
+15,Nancy,38,10,12,16,42,squads/e88fc6e5/Nancy-Stats,e88fc6e5,Nancy
+16,Le Mans,38,10,10,18,40,squads/cd5d7aa6/Le-Mans-Stats,cd5d7aa6,Le-Mans
+17,Saint-Étienne,38,11,7,20,40,squads/d298ef2c/Saint-Etienne-Stats,d298ef2c,Saint-Etienne
+18,Caen,38,8,13,17,37,squads/74229020/Caen-Stats,74229020,Caen
+19,Nantes,38,9,10,19,37,squads/d7a486cd/Nantes-Stats,d7a486cd,Nantes
+20,Le Havre,38,7,5,26,26,squads/5c2737db/Le-Havre-Stats,5c2737db,Le-Havre

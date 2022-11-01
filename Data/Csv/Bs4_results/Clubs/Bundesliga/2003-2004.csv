@@ -1,20 +1,20 @@
 ﻿2003-2004,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Werder Bremen,34,22,8,4,74
-2,Bayern Munich,34,20,8,6,68
-3,Leverkusen,34,19,8,7,65
-4,Stuttgart,34,18,10,6,64
-5,Bochum,34,15,11,8,56
-6,Dortmund,34,16,7,11,55
-7,Schalke 04,34,13,11,10,50
-8,Hamburger SV,34,14,7,13,49
-9,Hansa Rostock,34,12,8,14,44
-10,Wolfsburg,34,13,3,18,42
-11,M'Gladbach,34,10,9,15,39
-12,Hertha BSC,34,9,12,13,39
-13,Freiburg,34,10,8,16,38
-14,Hannover 96,34,9,10,15,37
-15,Kaiserslautern,34,11,6,17,36
-16,Eint Frankfurt,34,9,5,20,32
-17,1860 Munich,34,8,8,18,32
-18,Köln,34,6,5,23,23
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Werder Bremen,34,22,8,4,74,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+2,Bayern Munich,34,20,8,6,68,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+3,Leverkusen,34,19,8,7,65,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+4,Stuttgart,34,18,10,6,64,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+5,Bochum,34,15,11,8,56,squads/b42c6323/Bochum-Stats,b42c6323,Bochum
+6,Dortmund,34,16,7,11,55,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+7,Schalke 04,34,13,11,10,50,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+8,Hamburger SV,34,14,7,13,49,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+9,Hansa Rostock,34,12,8,14,44,squads/bc31a6e4/Hansa-Rostock-Stats,bc31a6e4,Hansa-Rostock
+10,Wolfsburg,34,13,3,18,42,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+11,M'Gladbach,34,10,9,15,39,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+12,Hertha BSC,34,9,12,13,39,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+13,Freiburg,34,10,8,16,38,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+14,Hannover 96,34,9,10,15,37,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+15,Kaiserslautern,34,11,6,17,36,squads/73a27a73/Kaiserslautern-Stats,73a27a73,Kaiserslautern
+16,Eint Frankfurt,34,9,5,20,32,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+17,1860 Munich,34,8,8,18,32,squads/2fbdf057/1860-Munich-Stats,2fbdf057,1860-Munich
+18,Köln,34,6,5,23,23,squads/bc357bf7/Koln-Stats,bc357bf7,Koln

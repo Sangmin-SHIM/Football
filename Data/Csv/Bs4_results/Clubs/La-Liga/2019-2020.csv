@@ -1,22 +1,22 @@
 ﻿2019-2020,La-Liga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Real Madrid,38,26,9,3,87
-2,Barcelona,38,25,7,6,82
-3,Atlético Madrid,38,18,16,4,70
-4,Sevilla,38,19,13,6,70
-5,Villarreal,38,18,6,14,60
-6,Real Sociedad,38,16,8,14,56
-7,Granada,38,16,8,14,56
-8,Getafe,38,14,12,12,54
-9,Valencia,38,14,11,13,53
-10,Osasuna,38,13,13,12,52
-11,Athletic Club,38,13,12,13,51
-12,Levante,38,14,7,17,49
-13,Valladolid,38,9,15,14,42
-14,Eibar,38,11,9,18,42
-15,Betis,38,10,11,17,41
-16,Alavés,38,10,9,19,39
-17,Celta Vigo,38,7,16,15,37
-18,Leganés,38,8,12,18,36
-19,Mallorca,38,9,6,23,33
-20,Espanyol,38,5,10,23,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Real Madrid,38,26,9,3,87,squads/53a2f082/Real-Madrid-Stats,53a2f082,Real-Madrid
+2,Barcelona,38,25,7,6,82,squads/206d90db/Barcelona-Stats,206d90db,Barcelona
+3,Atlético Madrid,38,18,16,4,70,squads/db3b9613/Atletico-Madrid-Stats,db3b9613,Atletico-Madrid
+4,Sevilla,38,19,13,6,70,squads/ad2be733/Sevilla-Stats,ad2be733,Sevilla
+5,Villarreal,38,18,6,14,60,squads/2a8183b3/Villarreal-Stats,2a8183b3,Villarreal
+6,Real Sociedad,38,16,8,14,56,squads/e31d1cd9/Real-Sociedad-Stats,e31d1cd9,Real-Sociedad
+7,Granada,38,16,8,14,56,squads/a0435291/Granada-Stats,a0435291,Granada
+8,Getafe,38,14,12,12,54,squads/7848bd64/Getafe-Stats,7848bd64,Getafe
+9,Valencia,38,14,11,13,53,squads/dcc91a7b/Valencia-Stats,dcc91a7b,Valencia
+10,Osasuna,38,13,13,12,52,squads/03c57e2b/Osasuna-Stats,03c57e2b,Osasuna
+11,Athletic Club,38,13,12,13,51,squads/2b390eca/Athletic-Club-Stats,2b390eca,Athletic-Club
+12,Levante,38,14,7,17,49,squads/9800b6a1/Levante-Stats,9800b6a1,Levante
+13,Valladolid,38,9,15,14,42,squads/17859612/Valladolid-Stats,17859612,Valladolid
+14,Eibar,38,11,9,18,42,squads/bea5c710/Eibar-Stats,bea5c710,Eibar
+15,Betis,38,10,11,17,41,squads/fc536746/Real-Betis-Stats,fc536746,Real-Betis
+16,Alavés,38,10,9,19,39,squads/8d6fd021/Alaves-Stats,8d6fd021,Alaves
+17,Celta Vigo,38,7,16,15,37,squads/f25da7fb/Celta-Vigo-Stats,f25da7fb,Celta-Vigo
+18,Leganés,38,8,12,18,36,squads/7c6f2c78/Leganes-Stats,7c6f2c78,Leganes
+19,Mallorca,38,9,6,23,33,squads/2aa12281/Mallorca-Stats,2aa12281,Mallorca
+20,Espanyol,38,5,10,23,25,squads/a8661628/Espanyol-Stats,a8661628,Espanyol

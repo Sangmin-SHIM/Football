@@ -1,20 +1,20 @@
 ﻿2008-2009,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Wolfsburg,34,21,6,7,69
-2,Bayern Munich,34,20,7,7,67
-3,Stuttgart,34,19,7,8,64
-4,Hertha BSC,34,19,6,9,63
-5,Hamburger SV,34,19,4,11,61
-6,Dortmund,34,15,14,5,59
-7,Hoffenheim,34,15,10,9,55
-8,Schalke 04,34,14,8,12,50
-9,Leverkusen,34,14,7,13,49
-10,Werder Bremen,34,12,9,13,45
-11,Hannover 96,34,10,10,14,40
-12,Köln,34,11,6,17,39
-13,Eint Frankfurt,34,8,9,17,33
-14,Bochum,34,7,11,16,32
-15,M'Gladbach,34,8,7,19,31
-16,Energie Cottbus,34,8,6,20,30
-17,Karlsruher,34,8,5,21,29
-18,Arminia,34,4,16,14,28
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Wolfsburg,34,21,6,7,69,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+2,Bayern Munich,34,20,7,7,67,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+3,Stuttgart,34,19,7,8,64,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+4,Hertha BSC,34,19,6,9,63,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+5,Hamburger SV,34,19,4,11,61,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+6,Dortmund,34,15,14,5,59,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+7,Hoffenheim,34,15,10,9,55,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+8,Schalke 04,34,14,8,12,50,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+9,Leverkusen,34,14,7,13,49,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+10,Werder Bremen,34,12,9,13,45,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+11,Hannover 96,34,10,10,14,40,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+12,Köln,34,11,6,17,39,squads/bc357bf7/Koln-Stats,bc357bf7,Koln
+13,Eint Frankfurt,34,8,9,17,33,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+14,Bochum,34,7,11,16,32,squads/b42c6323/Bochum-Stats,b42c6323,Bochum
+15,M'Gladbach,34,8,7,19,31,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+16,Energie Cottbus,34,8,6,20,30,squads/7675ab36/Energie-Cottbus-Stats,7675ab36,Energie-Cottbus
+17,Karlsruher,34,8,5,21,29,squads/33ba9d7b/Karlsruher-Stats,33ba9d7b,Karlsruher
+18,Arminia,34,4,16,14,28,squads/247c4b67/Arminia-Stats,247c4b67,Arminia

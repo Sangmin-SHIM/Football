@@ -1,22 +1,22 @@
 ﻿2002-2003,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Manchester Utd,38,25,8,5,83
-2,Arsenal,38,23,9,6,78
-3,Newcastle Utd,38,21,6,11,69
-4,Chelsea,38,19,10,9,67
-5,Liverpool,38,18,10,10,64
-6,Blackburn,38,16,12,10,60
-7,Everton,38,17,8,13,59
-8,Southampton,38,13,13,12,52
-9,Manchester City,38,15,6,17,51
-10,Tottenham,38,14,8,16,50
-11,Middlesbrough,38,13,10,15,49
-12,Charlton Ath,38,14,7,17,49
-13,Birmingham City,38,13,9,16,48
-14,Fulham,38,13,9,16,48
-15,Leeds United,38,14,5,19,47
-16,Aston Villa,38,12,9,17,45
-17,Bolton,38,10,14,14,44
-18,West Ham,38,10,12,16,42
-19,West Brom,38,6,8,24,26
-20,Sunderland,38,4,7,27,19
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Manchester Utd,38,25,8,5,83,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+2,Arsenal,38,23,9,6,78,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+3,Newcastle Utd,38,21,6,11,69,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+4,Chelsea,38,19,10,9,67,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+5,Liverpool,38,18,10,10,64,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+6,Blackburn,38,16,12,10,60,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+7,Everton,38,17,8,13,59,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+8,Southampton,38,13,13,12,52,squads/33c895d4/Southampton-Stats,33c895d4,Southampton
+9,Manchester City,38,15,6,17,51,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+10,Tottenham,38,14,8,16,50,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+11,Middlesbrough,38,13,10,15,49,squads/7f59c601/Middlesbrough-Stats,7f59c601,Middlesbrough
+12,Charlton Ath,38,14,7,17,49,squads/7a8db6d4/Charlton-Athletic-Stats,7a8db6d4,Charlton-Athletic
+13,Birmingham City,38,13,9,16,48,squads/ec79b7c2/Birmingham-City-Stats,ec79b7c2,Birmingham-City
+14,Fulham,38,13,9,16,48,squads/fd962109/Fulham-Stats,fd962109,Fulham
+15,Leeds United,38,14,5,19,47,squads/5bfb9659/Leeds-United-Stats,5bfb9659,Leeds-United
+16,Aston Villa,38,12,9,17,45,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+17,Bolton,38,10,14,14,44,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+18,West Ham,38,10,12,16,42,squads/7c21e445/West-Ham-United-Stats,7c21e445,West-Ham-United
+19,West Brom,38,6,8,24,26,squads/60c6b05f/West-Bromwich-Albion-Stats,60c6b05f,West-Bromwich-Albion
+20,Sunderland,38,4,7,27,19,squads/8ef52968/Sunderland-Stats,8ef52968,Sunderland

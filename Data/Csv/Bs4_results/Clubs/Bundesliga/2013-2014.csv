@@ -1,20 +1,20 @@
 ﻿2013-2014,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,29,3,2,90
-2,Dortmund,34,22,5,7,71
-3,Schalke 04,34,19,7,8,64
-4,Leverkusen,34,19,4,11,61
-5,Wolfsburg,34,18,6,10,60
-6,M'Gladbach,34,16,7,11,55
-7,Mainz 05,34,16,5,13,53
-8,Augsburg,34,15,7,12,52
-9,Hoffenheim,34,11,11,12,44
-10,Hannover 96,34,12,6,16,42
-11,Hertha BSC,34,11,8,15,41
-12,Werder Bremen,34,10,9,15,39
-13,Eint Frankfurt,34,9,9,16,36
-14,Freiburg,34,9,9,16,36
-15,Stuttgart,34,8,8,18,32
-16,Hamburger SV,34,7,6,21,27
-17,Nürnberg,34,5,11,18,26
-18,Braunschweig,34,6,7,21,25
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,29,3,2,90,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Dortmund,34,22,5,7,71,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+3,Schalke 04,34,19,7,8,64,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+4,Leverkusen,34,19,4,11,61,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+5,Wolfsburg,34,18,6,10,60,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+6,M'Gladbach,34,16,7,11,55,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+7,Mainz 05,34,16,5,13,53,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+8,Augsburg,34,15,7,12,52,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+9,Hoffenheim,34,11,11,12,44,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+10,Hannover 96,34,12,6,16,42,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+11,Hertha BSC,34,11,8,15,41,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+12,Werder Bremen,34,10,9,15,39,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+13,Eint Frankfurt,34,9,9,16,36,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+14,Freiburg,34,9,9,16,36,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+15,Stuttgart,34,8,8,18,32,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+16,Hamburger SV,34,7,6,21,27,squads/26790c6a/Hamburger-SV-Stats,26790c6a,Hamburger-SV
+17,Nürnberg,34,5,11,18,26,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg
+18,Braunschweig,34,6,7,21,25,squads/8107958d/Eintracht-Braunschweig-Stats,8107958d,Eintracht-Braunschweig

@@ -1,20 +1,20 @@
 ﻿2018-2019,Bundesliga
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Bayern Munich,34,24,6,4,78
-2,Dortmund,34,23,7,4,76
-3,RB Leipzig,34,19,9,6,66
-4,Leverkusen,34,18,4,12,58
-5,M'Gladbach,34,16,7,11,55
-6,Wolfsburg,34,16,7,11,55
-7,Eint Frankfurt,34,15,9,10,54
-8,Werder Bremen,34,14,11,9,53
-9,Hoffenheim,34,13,12,9,51
-10,Düsseldorf,34,13,5,16,44
-11,Hertha BSC,34,11,10,13,43
-12,Mainz 05,34,12,7,15,43
-13,Freiburg,34,8,12,14,36
-14,Schalke 04,34,8,9,17,33
-15,Augsburg,34,8,8,18,32
-16,Stuttgart,34,7,7,20,28
-17,Hannover 96,34,5,6,23,21
-18,Nürnberg,34,3,10,21,19
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Bayern Munich,34,24,6,4,78,squads/054efa67/Bayern-Munich-Stats,054efa67,Bayern-Munich
+2,Dortmund,34,23,7,4,76,squads/add600ae/Dortmund-Stats,add600ae,Dortmund
+3,RB Leipzig,34,19,9,6,66,squads/acbb6a5b/RB-Leipzig-Stats,acbb6a5b,RB-Leipzig
+4,Leverkusen,34,18,4,12,58,squads/c7a9f859/Bayer-Leverkusen-Stats,c7a9f859,Bayer-Leverkusen
+5,M'Gladbach,34,16,7,11,55,squads/32f3ee20/Monchengladbach-Stats,32f3ee20,Monchengladbach
+6,Wolfsburg,34,16,7,11,55,squads/4eaa11d7/Wolfsburg-Stats,4eaa11d7,Wolfsburg
+7,Eint Frankfurt,34,15,9,10,54,squads/f0ac8ee6/Eintracht-Frankfurt-Stats,f0ac8ee6,Eintracht-Frankfurt
+8,Werder Bremen,34,14,11,9,53,squads/62add3bf/Werder-Bremen-Stats,62add3bf,Werder-Bremen
+9,Hoffenheim,34,13,12,9,51,squads/033ea6b8/Hoffenheim-Stats,033ea6b8,Hoffenheim
+10,Düsseldorf,34,13,5,16,44,squads/b1278397/Dusseldorf-Stats,b1278397,Dusseldorf
+11,Hertha BSC,34,11,10,13,43,squads/2818f8bc/Hertha-BSC-Stats,2818f8bc,Hertha-BSC
+12,Mainz 05,34,12,7,15,43,squads/a224b06a/Mainz-05-Stats,a224b06a,Mainz-05
+13,Freiburg,34,8,12,14,36,squads/a486e511/Freiburg-Stats,a486e511,Freiburg
+14,Schalke 04,34,8,9,17,33,squads/c539e393/Schalke-04-Stats,c539e393,Schalke-04
+15,Augsburg,34,8,8,18,32,squads/0cdc4311/Augsburg-Stats,0cdc4311,Augsburg
+16,Stuttgart,34,7,7,20,28,squads/598bc722/Stuttgart-Stats,598bc722,Stuttgart
+17,Hannover 96,34,5,6,23,21,squads/60b5e41f/Hannover-96-Stats,60b5e41f,Hannover-96
+18,Nürnberg,34,3,10,21,19,squads/6f2c108c/Nurnberg-Stats,6f2c108c,Nurnberg

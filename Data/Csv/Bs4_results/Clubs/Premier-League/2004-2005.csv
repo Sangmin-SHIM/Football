@@ -1,22 +1,22 @@
 ﻿2004-2005,Premier-League
-Rk,Club,Mp,W,D,L,Pts
-﻿1,Chelsea,38,29,8,1,95
-2,Arsenal,38,25,8,5,83
-3,Manchester Utd,38,22,11,5,77
-4,Everton,38,18,7,13,61
-5,Liverpool,38,17,7,14,58
-6,Bolton,38,16,10,12,58
-7,Middlesbrough,38,14,13,11,55
-8,Manchester City,38,13,13,12,52
-9,Tottenham,38,14,10,14,52
-10,Aston Villa,38,12,11,15,47
-11,Charlton Ath,38,12,10,16,46
-12,Birmingham City,38,11,12,15,45
-13,Fulham,38,12,8,18,44
-14,Newcastle Utd,38,10,14,14,44
-15,Blackburn,38,9,15,14,42
-16,Portsmouth,38,10,9,19,39
-17,West Brom,38,6,16,16,34
-18,Crystal Palace,38,7,12,19,33
-19,Norwich City,38,7,12,19,33
-20,Southampton,38,6,14,18,32
+Rk,Club,Mp,W,D,L,Pts,Link,Club_id,Club_name
+﻿1,Chelsea,38,29,8,1,95,squads/cff3d9bb/Chelsea-Stats,cff3d9bb,Chelsea
+2,Arsenal,38,25,8,5,83,squads/18bb7c10/Arsenal-Stats,18bb7c10,Arsenal
+3,Manchester Utd,38,22,11,5,77,squads/19538871/Manchester-United-Stats,19538871,Manchester-United
+4,Everton,38,18,7,13,61,squads/d3fd31cc/Everton-Stats,d3fd31cc,Everton
+5,Liverpool,38,17,7,14,58,squads/822bd0ba/Liverpool-Stats,822bd0ba,Liverpool
+6,Bolton,38,16,10,12,58,squads/445d3104/Bolton-Wanderers-Stats,445d3104,Bolton-Wanderers
+7,Middlesbrough,38,14,13,11,55,squads/7f59c601/Middlesbrough-Stats,7f59c601,Middlesbrough
+8,Manchester City,38,13,13,12,52,squads/b8fd03ef/Manchester-City-Stats,b8fd03ef,Manchester-City
+9,Tottenham,38,14,10,14,52,squads/361ca564/Tottenham-Hotspur-Stats,361ca564,Tottenham-Hotspur
+10,Aston Villa,38,12,11,15,47,squads/8602292d/Aston-Villa-Stats,8602292d,Aston-Villa
+11,Charlton Ath,38,12,10,16,46,squads/7a8db6d4/Charlton-Athletic-Stats,7a8db6d4,Charlton-Athletic
+12,Birmingham City,38,11,12,15,45,squads/ec79b7c2/Birmingham-City-Stats,ec79b7c2,Birmingham-City
+13,Fulham,38,12,8,18,44,squads/fd962109/Fulham-Stats,fd962109,Fulham
+14,Newcastle Utd,38,10,14,14,44,squads/b2b47a98/Newcastle-United-Stats,b2b47a98,Newcastle-United
+15,Blackburn,38,9,15,14,42,squads/e090f40b/Blackburn-Rovers-Stats,e090f40b,Blackburn-Rovers
+16,Portsmouth,38,10,9,19,39,squads/76ffc013/Portsmouth-Stats,76ffc013,Portsmouth
+17,West Brom,38,6,16,16,34,squads/60c6b05f/West-Bromwich-Albion-Stats,60c6b05f,West-Bromwich-Albion
+18,Crystal Palace,38,7,12,19,33,squads/47c64c55/Crystal-Palace-Stats,47c64c55,Crystal-Palace
+19,Norwich City,38,7,12,19,33,squads/1c781004/Norwich-City-Stats,1c781004,Norwich-City
+20,Southampton,38,6,14,18,32,squads/33c895d4/Southampton-Stats,33c895d4,Southampton
