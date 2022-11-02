@@ -1,14 +1,14 @@
 from club.csv_custom import FILE_CLUB_PATH, write_csv
 from club.bs4_custom import get_soup, get_bs4_objects
-from club.param_url import get_season, find_league_code, find_league_name, URL_BASE_PATH
 from club.merge_csv import make_batch_for_merge_csv_file, execute_batch_for_merged_csv_file
-from club.constant import LEAGUES
+from league.param_url import get_season, find_league_code, find_league_name,all_leagues_list, URL_BASE_PATH
+
 import os
 
 # User INPUT Variables
 # premier_league, ligue_1, bundes_liga, serie_a, la_liga
 year = 2002
-leagues_list = [league_name for league in LEAGUES for league_name in league.keys()]
+leagues_list = all_leagues_list()
 period = 20
 
 # ABSOLUTE_FILE_CLUB_PATH

@@ -1,1 +1,5 @@
 /football-venv
+/Data/Python/build
+/Data/Python/*.egg-info
+/Data/Python/dist
+/Data/Python/_pycache_

@@ -1,1 +1,1 @@
-from . import *
+from club import *

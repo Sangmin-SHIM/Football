@@ -1,12 +1,10 @@
-import pandas as pd
-from club.constant import LEAGUES
 from club.csv_custom import FILE_CLUB_PATH, read_merged_csv
 from club.pandas_custom import drop_duplicate
-from club.param_url import find_league_name
+from league.param_url import find_league_name,all_leagues_list
 import os
 
 year = 2002
-leagues_list = [league_name for league in LEAGUES for league_name in league.keys()]
+leagues_list = all_leagues_list()
 period = 20
 
 # ABSOLUTE_FILE_CLUB_PATH
