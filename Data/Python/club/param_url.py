@@ -1,4 +1,4 @@
-from constant import CLUBS
+from club.constant import CLUBS
 # import datetime
 
 # CURRENT_DAY = datetime.datetime.now()
@@ -18,6 +18,5 @@ def find_club_id(enter_club):
 def all_clubs_list():
     clubs=[]
     for club in CLUBS:
-        for key in club.keys():
-                clubs.append(key)
+        clubs.append(club)
     return clubs

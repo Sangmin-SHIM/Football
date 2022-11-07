@@ -37,7 +37,7 @@ def write_csv(**kwargs):
         # With regex, we remove and we leave the pure link. 
         # r"^/en : '/en' 
         # r"\b(0|[1-9]\d*)-(0|[1-9]\d*)\b[/] : '####-####/'
-        Links = re.sub(r"^/en/\b|(0|[1-9]\d*)-(0|[1-9]\d*)\b[/]",'',clubs[num].a['href'])
+        Link = re.sub(r"^/en/\b|(0|[1-9]\d*)-(0|[1-9]\d*)\b[/]",'',clubs[num].a['href'])
         
         club_identifier=re.sub(r"^/en/squads/\b|(0|[1-9]\d*)-(0|[1-9]\d*)\b[/]\b|-Stats",'',clubs[num].a['href'])
         Club_id=club_identifier.split('/')[0]
@@ -45,7 +45,7 @@ def write_csv(**kwargs):
 
         file = open(f'{league_name}/{season}.csv', 'a', newline='', encoding='utf-8-sig')
         writer = csv.writer(file)
-        contents = ([Rk, Club, Mp, W, D, L, Pts, Links, Club_id, Club_name])
+        contents = ([Rk, Club, Mp, W, D, L, Pts, Link, Club_id, Club_name])
         writer.writerow(contents)
         file.close()    
 

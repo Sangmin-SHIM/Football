@@ -1,5 +1,5 @@
 from club.csv_custom import FILE_CLUB_PATH, write_csv
-from club.bs4_custom import get_soup, get_bs4_objects
+from club.bs4_custom import get_soup, get_bs4_club_objects
 from club.merge_csv import make_batch_for_merge_csv_file, execute_batch_for_merged_csv_file
 from league.param_url import get_season, find_league_code, find_league_name,all_leagues_list, URL_BASE_PATH
 
@@ -28,17 +28,6 @@ for enter_league in leagues_list:
         os.makedirs(league_name)
 
     league_code = find_league_code(enter_league=enter_league)
-    soup = get_soup(league_code=league_code,
-                    league_name=league_name,
-                    season=season,
-                    URL_BASE_PATH=URL_BASE_PATH
-                    )
-    result = get_bs4_objects(league_name = league_name,
-                            league_code=league_code,
-                            season = season,
-                            soup = soup,
-                            )
-    clubs = result['clubs']
 
     # For - {year} ~ {year + 10}
     for year in range(year, year+period):
@@ -49,12 +38,10 @@ for enter_league in leagues_list:
         soup = get_soup(league_code=league_code,
                     league_name=league_name,
                     season=season,
-                    URL_BASE_PATH=URL_BASE_PATH
+                    path=URL_BASE_PATH
                     )
-        
-        this_season=soup.find(attrs={"id":f"results{season}{league_code}1_overall"})
-        
-        result = get_bs4_objects(league_name = league_name,
+                
+        result = get_bs4_club_objects(league_name = league_name,
                                 league_code=league_code,
                                 season = season,
                                 soup = soup,
@@ -66,7 +53,7 @@ for enter_league in leagues_list:
         ls = result['ls']
         pts = result['pts']
 
-        # 3) Csv - each file (multiple)
+        # 3) Csv - each file (multiple) : CLUB Data
         write_csv(league_name = league_name,
                 season= season,
                 clubs = clubs,
