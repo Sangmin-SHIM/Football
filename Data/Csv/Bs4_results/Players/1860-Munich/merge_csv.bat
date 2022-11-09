@@ -1,0 +1,1 @@
+copy *.csv 1860-Munich_merged.csv

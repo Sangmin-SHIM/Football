@@ -1,0 +1,1 @@
+copy *.csv Deportivo-La-Coruna_merged.csv

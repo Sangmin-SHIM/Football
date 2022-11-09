@@ -1,0 +1,1 @@
+copy *.csv St-Pauli_merged.csv

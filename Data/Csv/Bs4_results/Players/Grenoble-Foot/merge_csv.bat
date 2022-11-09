@@ -1,0 +1,1 @@
+copy *.csv Grenoble-Foot_merged.csv

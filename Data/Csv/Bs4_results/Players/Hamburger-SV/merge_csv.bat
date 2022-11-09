@@ -1,0 +1,1 @@
+copy *.csv Hamburger-SV_merged.csv

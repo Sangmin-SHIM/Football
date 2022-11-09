@@ -6,7 +6,6 @@ def get_soup(**kwargs):
     club_name = kwargs['club_name']
     season = kwargs['season']
     path = kwargs['path']
-
     url = f"{path}/squads/{club_id}/{season}/{club_name}-Stats"
     res = requests.get(url)
     res.raise_for_status()

@@ -1,0 +1,1 @@
+copy *.csv Ajaccio_merged.csv

@@ -1,0 +1,1 @@
+copy *.csv Karlsruher_merged.csv

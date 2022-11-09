@@ -1,0 +1,1 @@
+copy *.csv Monchengladbach_merged.csv

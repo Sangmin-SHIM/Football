@@ -1,0 +1,1 @@
+copy *.csv Pescara_merged.csv

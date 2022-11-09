@@ -1,0 +1,1 @@
+copy *.csv Osasuna_merged.csv

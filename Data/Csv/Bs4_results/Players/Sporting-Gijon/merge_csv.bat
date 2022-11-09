@@ -1,0 +1,1 @@
+copy *.csv Sporting-Gijon_merged.csv

@@ -1,0 +1,1 @@
+copy *.csv Schalke-04_merged.csv

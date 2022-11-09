@@ -1,0 +1,1 @@
+copy *.csv Eintracht-Frankfurt_merged.csv

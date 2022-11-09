@@ -1,0 +1,1 @@
+copy *.csv Mallorca_merged.csv

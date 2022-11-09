@@ -1,6 +1,6 @@
 from player.csv_custom import FILE_PLAYER_PATH, write_csv
 from player.bs4_custom import get_soup, get_bs4_player_objects
-
+from player.merge_csv import make_batch_for_merge_csv_file, execute_batch_for_merged_csv_file
 from club.param_url import all_clubs_list, find_club_name, find_club_id
 from league.param_url import get_season, URL_BASE_PATH
 import os
@@ -59,3 +59,5 @@ for enter_club in clubs_list:
                  )
 
         # 4) Csv - merged file (single)
+    make_batch_for_merge_csv_file(club_name = club_name)
+    execute_batch_for_merged_csv_file(club_name = club_name)

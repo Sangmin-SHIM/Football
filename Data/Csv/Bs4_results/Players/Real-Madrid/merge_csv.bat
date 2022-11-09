@@ -1,0 +1,1 @@
+copy *.csv Real-Madrid_merged.csv

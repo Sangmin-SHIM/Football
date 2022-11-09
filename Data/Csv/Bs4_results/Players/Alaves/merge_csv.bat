@@ -1,0 +1,1 @@
+copy *.csv Alaves_merged.csv

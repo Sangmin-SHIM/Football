@@ -1,0 +1,1 @@
+copy *.csv Brighton-and-Hove-Albion_merged.csv

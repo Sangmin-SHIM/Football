@@ -1,0 +1,1 @@
+copy *.csv Wigan-Athletic_merged.csv

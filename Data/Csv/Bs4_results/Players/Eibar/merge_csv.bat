@@ -1,0 +1,1 @@
+copy *.csv Eibar_merged.csv

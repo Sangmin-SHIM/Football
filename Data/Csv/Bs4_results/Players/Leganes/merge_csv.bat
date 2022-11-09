@@ -1,0 +1,1 @@
+copy *.csv Leganes_merged.csv

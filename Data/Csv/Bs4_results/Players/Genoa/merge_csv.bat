@@ -1,0 +1,1 @@
+copy *.csv Genoa_merged.csv

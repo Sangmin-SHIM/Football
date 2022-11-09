@@ -1,0 +1,1 @@
+copy *.csv Internazionale_merged.csv

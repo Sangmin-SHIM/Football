@@ -1,0 +1,1 @@
+copy *.csv Malaga_merged.csv

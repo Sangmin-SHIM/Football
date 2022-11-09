@@ -1,0 +1,1 @@
+copy *.csv Xerez_merged.csv

@@ -1,0 +1,1 @@
+copy *.csv Freiburg_merged.csv

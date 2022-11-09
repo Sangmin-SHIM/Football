@@ -1,0 +1,1 @@
+copy *.csv Alemannia-Aachen_merged.csv

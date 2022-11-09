@@ -1,0 +1,1 @@
+copy *.csv Bari_merged.csv

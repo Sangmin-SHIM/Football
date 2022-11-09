@@ -1,0 +1,1 @@
+copy *.csv Hertha-BSC_merged.csv

@@ -1,0 +1,1 @@
+copy *.csv Dusseldorf_merged.csv

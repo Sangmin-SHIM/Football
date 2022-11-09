@@ -1,0 +1,1 @@
+copy *.csv Lecce_merged.csv

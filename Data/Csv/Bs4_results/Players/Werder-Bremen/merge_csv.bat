@@ -1,0 +1,1 @@
+copy *.csv Werder-Bremen_merged.csv

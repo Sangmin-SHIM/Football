@@ -1,0 +1,1 @@
+copy *.csv Tenerife_merged.csv

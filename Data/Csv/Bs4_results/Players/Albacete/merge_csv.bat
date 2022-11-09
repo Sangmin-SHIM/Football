@@ -1,0 +1,1 @@
+copy *.csv Albacete_merged.csv

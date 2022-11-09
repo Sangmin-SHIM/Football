@@ -1,0 +1,1 @@
+copy *.csv Gimnastic_merged.csv

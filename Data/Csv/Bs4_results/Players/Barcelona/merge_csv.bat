@@ -1,0 +1,1 @@
+copy *.csv Barcelona_merged.csv

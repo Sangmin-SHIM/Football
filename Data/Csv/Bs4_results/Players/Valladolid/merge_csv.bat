@@ -1,0 +1,1 @@
+copy *.csv Valladolid_merged.csv

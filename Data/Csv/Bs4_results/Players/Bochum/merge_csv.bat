@@ -1,0 +1,1 @@
+copy *.csv Bochum_merged.csv

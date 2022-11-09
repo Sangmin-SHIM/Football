@@ -1,0 +1,1 @@
+copy *.csv Hercules_merged.csv

@@ -1,0 +1,1 @@
+copy *.csv Stuttgart_merged.csv

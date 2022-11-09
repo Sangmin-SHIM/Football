@@ -1,0 +1,1 @@
+copy *.csv Fiorentina_merged.csv

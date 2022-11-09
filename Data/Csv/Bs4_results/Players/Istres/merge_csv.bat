@@ -1,0 +1,1 @@
+copy *.csv Istres_merged.csv

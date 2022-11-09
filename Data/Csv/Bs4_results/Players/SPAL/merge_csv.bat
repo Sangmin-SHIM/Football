@@ -1,0 +1,1 @@
+copy *.csv SPAL_merged.csv

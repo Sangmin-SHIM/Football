@@ -1,0 +1,1 @@
+copy *.csv Granada_merged.csv

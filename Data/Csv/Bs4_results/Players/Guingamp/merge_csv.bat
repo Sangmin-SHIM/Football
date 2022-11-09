@@ -1,0 +1,1 @@
+copy *.csv Guingamp_merged.csv

@@ -1,0 +1,1 @@
+copy *.csv Spezia_merged.csv

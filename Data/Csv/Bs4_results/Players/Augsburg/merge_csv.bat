@@ -1,0 +1,1 @@
+copy *.csv Augsburg_merged.csv
