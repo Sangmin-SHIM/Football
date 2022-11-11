@@ -1,0 +1,4 @@
+COPY public."club"
+FROM 'C:\Users\ssm47\Desktop\Git (Projets Perso)\Football\Data\Csv\Bs4_results\Clubs\All-Clubs\All-Clubs.csv'
+DELIMITER ','
+CSV HEADER;

@@ -1,265 +1,249 @@
-,Player,Link,Player_name(param),Player_id(param)
-0,﻿Simon Jentzsch,/en/players/2f1318de/Simon-Jentzsch,Simon-Jentzsch,2f1318de
-1,Markus Schroth,/en/players/495af691/Markus-Schroth,Markus-Schroth,495af691
-2,Harald Cerny,/en/players/e41db53c/Harald-Cerny,Harald-Cerny,e41db53c
-3,Benjamin Lauth,/en/players/a3876c87/Benjamin-Lauth,Benjamin-Lauth,a3876c87
-4,Rodrigo Costa,/en/players/401574dc/Rodrigo-Costa,Rodrigo-Costa,401574dc
-5,Torben Hoffmann,/en/players/967a7889/Torben-Hoffmann,Torben-Hoffmann,967a7889
-6,Rémo Meyer,/en/players/3d107df4/Remo-Meyer,Remo-Meyer,3d107df4
-7,Marco Kurz,/en/players/ebd284a2/Marco-Kurz,Marco-Kurz,ebd284a2
-8,Markus Weissenberger,/en/players/870a35d4/Markus-Weissenberger,Markus-Weissenberger,870a35d4
-9,Tomáš Votava,/en/players/ddc220fc/Tomas-Votava,Tomas-Votava,ddc220fc
-10,Martin Stranzl,/en/players/4786c8d5/Martin-Stranzl,Martin-Stranzl,4786c8d5
-11,Thomas Häßler,/en/players/97ff665a/Thomas-Hassler,Thomas-Hassler,97ff665a
-12,Daniel Borimirov,/en/players/97bc39d3/Daniel-Borimirov,Daniel-Borimirov,97bc39d3
-13,Michael Wiesinger,/en/players/6aa7c6bd/Michael-Wiesinger,Michael-Wiesinger,6aa7c6bd
-14,Martin Max,/en/players/b8733b6c/Martin-Max,Martin-Max,b8733b6c
-15,Marcus Pürk,/en/players/fde7b101/Marcus-Purk,Marcus-Purk,fde7b101
-16,Uwe Ehlers,/en/players/e6c8e278/Uwe-Ehlers,Uwe-Ehlers,e6c8e278
-17,Roman Týce,/en/players/9b56e7b9/Roman-Tyce,Roman-Tyce,9b56e7b9
-18,Davor Šuker,/en/players/f3580cae/Davor-Suker,Davor-Suker,f3580cae
-19,Rafael,/en/players/f4187224/Rafael,Rafael,f4187224
-20,Danny Schwarz,/en/players/f4e968e9/Danny-Schwarz,Danny-Schwarz,f4e968e9
-21,Shao Jiayi,/en/players/2969d5da/Shao-Jiayi,Shao-Jiayi,2969d5da
-22,Paul Agostino,/en/players/56d4e66a/Paul-Agostino,Paul-Agostino,56d4e66a
-23,Michael Hofmann,/en/players/11cd8973/Michael-Hofmann,Michael-Hofmann,11cd8973
-24,Vidar Riseth,/en/players/815b6e14/Vidar-Riseth,Vidar-Riseth,815b6e14
-25,Achim Pfuderer,/en/players/05a30e73/Achim-Pfuderer,Achim-Pfuderer,05a30e73
-26,Andreas Görlitz,/en/players/75338390/Andreas-Gorlitz,Andreas-Gorlitz,75338390
-27,﻿Michael Hofmann,/en/players/11cd8973/Michael-Hofmann,Michael-Hofmann,11cd8973
-28,Janne Saarinen,/en/players/7c992ac6/Janne-Saarinen,Janne-Saarinen,7c992ac6
-29,Matthias Lehmann,/en/players/abb42ce6/Matthias-Lehmann,Matthias-Lehmann,abb42ce6
-30,Francis Kioyo,/en/players/3cade212/Francis-Kioyo,Francis-Kioyo,3cade212
-31,Fernando Santos,/en/players/69b67721/Fernando-Santos,Fernando-Santos,69b67721
-32,Lance Davids,/en/players/449146e5/Lance-Davids,Lance-Davids,449146e5
-33,Daniel Baier,/en/players/f261abcb/Daniel-Baier,Daniel-Baier,f261abcb
-34,Gerhard Poschner,/en/players/da48d522/Gerhard-Poschner,Gerhard-Poschner,da48d522
-35,André Lenz,/en/players/7a8a36d2/Andre-Lenz,Andre-Lenz,7a8a36d2
-36,Christophe Lepoint,/en/players/67901273/Christophe-Lepoint,Christophe-Lepoint,67901273
-37,Marcel Schäfer,/en/players/11b349cf/Marcel-Schafer,Marcel-Schafer,11b349cf
-38,﻿Rodrigo Costa,/en/players/401574dc/Rodrigo-Costa,Rodrigo-Costa,401574dc
-39,Michal Kolomazník,/en/players/758927bf/Michal-Kolomaznik,Michal-Kolomaznik,758927bf
-40,Slobodan Komljenović,/en/players/a8e80766/Slobodan-Komljenovic,Slobodan-Komljenovic,a8e80766
-41,Marco Gebhardt,/en/players/832b7808/Marco-Gebhardt,Marco-Gebhardt,832b7808
-42,Łukasz Szukała,/en/players/ee4d8724/Lukasz-Szukala,Lukasz-Szukala,ee4d8724
-43,Quido Lanzaat,/en/players/2078488c/Quido-Lanzaat,Quido-Lanzaat,2078488c
-44,Timo Ochs,/en/players/35660a28/Timo-Ochs,Timo-Ochs,35660a28
-45,Patrick Milchraum,/en/players/4119b1e4/Patrick-Milchraum,Patrick-Milchraum,4119b1e4
-46,Erol Bulut,/en/players/2f01e2c4/Erol-Bulut,Erol-Bulut,2f01e2c4
-47,Emmanuel Krontiris,/en/players/a4c240ac/Emmanuel-Krontiris,Emmanuel-Krontiris,a4c240ac
-48,Karlheinz Pflipsen,/en/players/f80cd8e8/Karlheinz-Pflipsen,Karlheinz-Pflipsen,f80cd8e8
-49,Stefan Frühbeis,/en/players/feeca826/Stefan-Fruhbeis,Stefan-Fruhbeis,feeca826
-50,Nemanja Vučićević,/en/players/6bd29aba/Nemanja-Vucicevic,Nemanja-Vucicevic,6bd29aba
-51,Pascal Ojigwe,/en/players/6e99b723/Pascal-Ojigwe,Pascal-Ojigwe,6e99b723
-52,﻿Timo Ochs,/en/players/35660a28/Timo-Ochs,Timo-Ochs,35660a28
-53,Fabian Lamotte,/en/players/3ecc8baa/Fabian-Lamotte,Fabian-Lamotte,3ecc8baa
-54,Jiao Fengbo,/en/players/119bc57a/Jiao-Fengbo,Jiao-Fengbo,119bc57a
-55,Steffen Hofmann,/en/players/288c4a4b/Steffen-Hofmann,Steffen-Hofmann,288c4a4b
-56,Stefan Reisinger,/en/players/a1248246/Stefan-Reisinger,Stefan-Reisinger,a1248246
-57,Björn Ziegenbein,/en/players/30c9ca35/Bjorn-Ziegenbein,Bjorn-Ziegenbein,30c9ca35
-58,Christoph Janker,/en/players/cf01fe3a/Christoph-Janker,Christoph-Janker,cf01fe3a
-59,Nikolas Ledgerwood,/en/players/c936a8cd/Nikolas-Ledgerwood,Nikolas-Ledgerwood,c936a8cd
-60,Nicky Adler,/en/players/58598b61/Nicky-Adler,Nicky-Adler,58598b61
-61,Fabian Johnson,/en/players/76e5da9d/Fabian-Johnson,Fabian-Johnson,76e5da9d
-62,﻿Daniel Baier,/en/players/f261abcb/Daniel-Baier,Daniel-Baier,f261abcb
-63,Gregg Berhalter,/en/players/90f969fa/Gregg-Berhalter,Gregg-Berhalter,90f969fa
-64,Antonio Di Salvo,/en/players/d72cb9ae/Antonio-Di-Salvo,Antonio-Di-Salvo,d72cb9ae
-65,Mate Ghvinianidze,/en/players/83c924d8/Mate-Ghvinianidze,Mate-Ghvinianidze,83c924d8
-66,Markus Thorandt,/en/players/637e0c64/Markus-Thorandt,Markus-Thorandt,637e0c64
-67,Berkant Göktan,/en/players/9dc6ce11/Berkant-Goktan,Berkant-Goktan,9dc6ce11
-68,Christoph Burkhard,/en/players/522116e9/Christoph-Burkhard,Christoph-Burkhard,522116e9
-69,Josh Wolff,/en/players/49522e88/Josh-Wolff,Josh-Wolff,49522e88
-70,Lars Bender,/en/players/c50281a0/Lars-Bender,Lars-Bender,c50281a0
-71,Alexander Eberlein,/en/players/563dbb75/Alexander-Eberlein,Alexander-Eberlein,563dbb75
-72,Sven Bender,/en/players/070ec0b1/Sven-Bender,Sven-Bender,070ec0b1
-73,Philipp Tschauner,/en/players/73e2f6eb/Philipp-Tschauner,Philipp-Tschauner,73e2f6eb
-74,﻿Daniel Bierofka,/en/players/aa98cbbb/Daniel-Bierofka,Daniel-Bierofka,aa98cbbb
-75,Mustafa Kučuković,/en/players/9a9497e1/Mustafa-Kucukovic,Mustafa-Kucukovic,9a9497e1
-76,Benjamin Schwarz,/en/players/3aa77453/Benjamin-Schwarz,Benjamin-Schwarz,3aa77453
-77,Timo Gebhart,/en/players/f2f689cf/Timo-Gebhart,Timo-Gebhart,f2f689cf
-78,José Holebas,/en/players/12aa7661/Jose-Holebas,Jose-Holebas,12aa7661
-79,Julian Baumgartlinger,/en/players/69374ff5/Julian-Baumgartlinger,Julian-Baumgartlinger,69374ff5
-80,Chhunly Pagenburg,/en/players/7d708c49/Chhunly-Pagenburg,Chhunly-Pagenburg,7d708c49
-81,Manuel Schäffler,/en/players/de8edb3a/Manuel-Schaffler,Manuel-Schaffler,de8edb3a
-82,Manuel Duhnke,/en/players/d7a59f23/Manuel-Duhnke,Manuel-Duhnke,d7a59f23
-83,﻿Benjamin Lauth,/en/players/a3876c87/Benjamin-Lauth,Benjamin-Lauth,a3876c87
-84,Mathieu Béda,/en/players/0a18549e/Mathieu-Beda,Mathieu-Beda,0a18549e
-85,Antonio Rukavina,/en/players/e12d7851/Antonio-Rukavina,Antonio-Rukavina,e12d7851
-86,Stefan Aigner,/en/players/17cc3f63/Stefan-Aigner,Stefan-Aigner,17cc3f63
-87,Daniel Bierofka,/en/players/aa98cbbb/Daniel-Bierofka,Daniel-Bierofka,aa98cbbb
-88,Michael Schick,/en/players/555550a3/Michael-Schick,Michael-Schick,555550a3
-89,Sascha Rösler,/en/players/502699c8/Sascha-Rosler,Sascha-Rosler,502699c8
-90,Nikola Gulan,/en/players/24a741ac/Nikola-Gulan,Nikola-Gulan,24a741ac
-91,Marvin Pourié,/en/players/10125cc1/Marvin-Pourie,Marvin-Pourie,10125cc1
-92,Peniel Mlapa,/en/players/aaa5e955/Peniel-Mlapa,Peniel-Mlapa,aaa5e955
-93,Mathias Fetsch,/en/players/eeb3e359/Mathias-Fetsch,Mathias-Fetsch,eeb3e359
-94,﻿Gábor Király,/en/players/6603a18c/Gabor-Kiraly,Gabor-Kiraly,6603a18c
-95,Aleksandar Ignjovski,/en/players/63b08315/Aleksandar-Ignjovski,Aleksandar-Ignjovski,63b08315
-96,Radhouène Felhi,/en/players/e9c60ed2/Radhouene-Felhi,Radhouene-Felhi,e9c60ed2
-97,Sandro Kaiser,/en/players/6b4a871b/Sandro-Kaiser,Sandro-Kaiser,6b4a871b
-98,Charilaos Pappas,/en/players/dd83cca6/Charilaos-Pappas,Charilaos-Pappas,dd83cca6
-99,Dominik Stahl,/en/players/fb72b3c3/Dominik-Stahl,Dominik-Stahl,fb72b3c3
-100,Kenny Cooper,/en/players/34aaadfe/Kenny-Cooper,Kenny-Cooper,34aaadfe
-101,Đorđe Rakić,/en/players/b65b52ff/Djordje-Rakic,Djordje-Rakic,b65b52ff
-102,Florin Lovin,/en/players/3a1f0d4d/Florin-Lovin,Florin-Lovin,3a1f0d4d
-103,Emanuel Biancucchi,/en/players/c06cdc9d/Emanuel-Biancucchi,Emanuel-Biancucchi,c06cdc9d
-104,Eke Uzoma,/en/players/fe70e252/Eke-Uzoma,Eke-Uzoma,fe70e252
-105,Marcos Antônio,/en/players/0d327248/Marcos-Antonio,Marcos-Antonio,0d327248
-106,Tarık Çamdal,/en/players/d23ff209/Tarik-Camdal,Tarik-Camdal,d23ff209
-107,Ardian Đokaj,/en/players/d7bfad8c/Ardian-Djokaj,Ardian-Djokaj,d7bfad8c
-108,﻿Antonio Rukavina,/en/players/e12d7851/Antonio-Rukavina,Antonio-Rukavina,e12d7851
-109,Gábor Király,/en/players/6603a18c/Gabor-Kiraly,Gabor-Kiraly,6603a18c
-110,Stefan Buck,/en/players/079c34a7/Stefan-Buck,Stefan-Buck,079c34a7
-111,Kai Bülow,/en/players/18c4383b/Kai-Bulow,Kai-Bulow,18c4383b
-112,Stefan Bell,/en/players/857a5abe/Stefan-Bell,Stefan-Bell,857a5abe
-113,Daniel Halfar,/en/players/1d1f3446/Daniel-Halfar,Daniel-Halfar,1d1f3446
-114,Kevin Volland,/en/players/64f69877/Kevin-Volland,Kevin-Volland,64f69877
-115,Alexander Ludwig,/en/players/bcf7957e/Alexander-Ludwig,Alexander-Ludwig,bcf7957e
-116,Necat Aygün,/en/players/608d59f4/Necat-Aygun,Necat-Aygun,608d59f4
-117,Moritz Leitner,/en/players/9460aaed/Moritz-Leitner,Moritz-Leitner,9460aaed
-118,Christopher Schindler,/en/players/8ae9869d/Christopher-Schindler,Christopher-Schindler,8ae9869d
-119,Juan José Barros,/en/players/cbf5db9b/Juan-Jose-Barros,Juan-Jose-Barros,cbf5db9b
-120,Savio Nsereko,/en/players/d095eaca/Savio-Nsereko,Savio-Nsereko,d095eaca
-121,﻿Kevin Volland,/en/players/64f69877/Kevin-Volland,Kevin-Volland,64f69877
-122,Arne Feick,/en/players/571ca3a9/Arne-Feick,Arne-Feick,571ca3a9
-123,Maximilian Nicu,/en/players/fd7cf413/Maximilian-Nicu,Maximilian-Nicu,fd7cf413
-124,Guillermo Vallori,/en/players/815256ca/Guillermo-Vallori,Guillermo-Vallori,815256ca
-125,Collin Benjamin,/en/players/9889b832/Collin-Benjamin,Collin-Benjamin,9889b832
-126,Dennis Malura,/en/players/6934596b/Dennis-Malura,Dennis-Malura,6934596b
-127,Vitus Eicher,/en/players/1f158264/Vitus-Eicher,Vitus-Eicher,1f158264
-128,Sebastian Maier,/en/players/e8385ec4/Sebastian-Maier,Sebastian-Maier,e8385ec4
-129,Phillipp Steinhart,/en/players/955de575/Phillipp-Steinhart,Phillipp-Steinhart,955de575
-130,Jonatan Kotzke,/en/players/6e093027/Jonatan-Kotzke,Jonatan-Kotzke,6e093027
-131,Bobby Wood,/en/players/9853983f/Bobby-Wood,Bobby-Wood,9853983f
-132,Moritz Stoppelkamp,/en/players/042cac2d/Moritz-Stoppelkamp,Moritz-Stoppelkamp,042cac2d
-133,Grzegorz Wojtkowiak,/en/players/2c932904/Grzegorz-Wojtkowiak,Grzegorz-Wojtkowiak,2c932904
-134,Marin Tomasov,/en/players/ead960f2/Marin-Tomasov,Marin-Tomasov,ead960f2
-135,Malik Fathi,/en/players/067e58bc/Malik-Fathi,Malik-Fathi,067e58bc
-136,Rob Friend,/en/players/dbbc95e3/Rob-Friend,Rob-Friend,dbbc95e3
-137,Grigoris Makos,/en/players/eebd5530/Grigoris-Makos,Grigoris-Makos,eebd5530
-138,Stefan Wannenwetsch,/en/players/e63077b7/Stefan-Wannenwetsch,Stefan-Wannenwetsch,e63077b7
-139,Ismael Blanco,/en/players/0aceace2/Ismael-Blanco,Ismael-Blanco,0aceace2
-140,Ola Kamara,/en/players/e134351a/Ola-Kamara,Ola-Kamara,e134351a
-141,Markus Ziereis,/en/players/11f6148e/Markus-Ziereis,Markus-Ziereis,11f6148e
-142,Yannick Stark,/en/players/e7f6e9aa/Yannick-Stark,Yannick-Stark,e7f6e9aa
-143,Daniel Adlung,/en/players/c4cdf5ce/Daniel-Adlung,Daniel-Adlung,c4cdf5ce
-144,Sebastian Hertner,/en/players/13d7169e/Sebastian-Hertner,Sebastian-Hertner,13d7169e
-145,Moritz Volz,/en/players/41b3e74a/Moritz-Volz,Moritz-Volz,41b3e74a
-146,Markus Steinhöfer,/en/players/f4765e02/Markus-Steinhofer,Markus-Steinhofer,f4765e02
-147,Julian Weigl,/en/players/346d51d9/Julian-Weigl,Julian-Weigl,346d51d9
-148,Andreas Ludwig,/en/players/b418368a/Andreas-Ludwig,Andreas-Ludwig,b418368a
-149,Stephan Hain,/en/players/5bf23bd0/Stephan-Hain,Stephan-Hain,5bf23bd0
-150,Markus Schwabl,/en/players/931a2450/Markus-Schwabl,Markus-Schwabl,931a2450
-151,Kodjovi Koussou,/en/players/ea635f6e/Kodjovi-Koussou,Kodjovi-Koussou,ea635f6e
-152,﻿Christopher Schindler,/en/players/8ae9869d/Christopher-Schindler,Christopher-Schindler,8ae9869d
-153,Gary Kagelmacher,/en/players/a2e9f252/Gary-Kagelmacher,Gary-Kagelmacher,a2e9f252
-154,Rubin Okotie,/en/players/bbca2c6c/Rubin-Okotie,Rubin-Okotie,bbca2c6c
-155,Ilie Sánchez,/en/players/72979f65/Ilie-Sanchez,Ilie-Sanchez,72979f65
-156,Valdet Rama,/en/players/00b159ff/Valdet-Rama,Valdet-Rama,00b159ff
-157,Stefan Ortega,/en/players/c1242d4e/Stefan-Ortega,Stefan-Ortega,c1242d4e
-158,Maximilian Wittek,/en/players/edb2712b/Maximilian-Wittek,Maximilian-Wittek,edb2712b
-159,Martin Angha,/en/players/41a1a2c8/Martin-Angha,Martin-Angha,41a1a2c8
-160,Jannik Bandowski,/en/players/c8bcbc70/Jannik-Bandowski,Jannik-Bandowski,c8bcbc70
-161,Marius Wolf,/en/players/fa661778/Marius-Wolf,Marius-Wolf,fa661778
-162,Edu Bedia,/en/players/2dc8077c/Edu-Bedia,Edu-Bedia,2dc8077c
-163,Leonardo,/en/players/b4884493/Leonardo,Leonardo,b4884493
-164,Krisztián Simon,/en/players/766d4c69/Krisztian-Simon,Krisztian-Simon,766d4c69
-165,Korbinian Vollmann,/en/players/f1f94ed3/Korbinian-Vollmann,Korbinian-Vollmann,f1f94ed3
-166,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9
-167,Daylon Claasen,/en/players/8b148a29/Daylon-Claasen,Daylon-Claasen,8b148a29
-168,Anthony Annan,/en/players/1c524d4a/Anthony-Annan,Anthony-Annan,1c524d4a
-169,Fejsal Mulić,/en/players/04c9b667/Fejsal-Mulic,Fejsal-Mulic,04c9b667
-170,Michael Liendl,/en/players/c54ea7f0/Michael-Liendl,Michael-Liendl,c54ea7f0
-171,Miloš Degenek,/en/players/c8e65157/Milos-Degenek,Milos-Degenek,c8e65157
-172,Jan Mauersberger,/en/players/fd99c002/Jan-Mauersberger,Jan-Mauersberger,fd99c002
-173,Sascha Mölders,/en/players/9ddae0f4/Sascha-Molders,Sascha-Molders,9ddae0f4
-174,Levent Ayçiçek,/en/players/bbbfb513/Levent-Aycicek,Levent-Aycicek,bbbfb513
-175,Sertan Yegenoglu,/en/players/985b0911/Sertan-Yegenoglu,Sertan-Yegenoglu,985b0911
-176,Romuald Lacazette,/en/players/1c11c8d9/Romuald-Lacazette,Romuald-Lacazette,1c11c8d9
-177,Stefan Mugoša,/en/players/c41ca3d8/Stefan-Mugosa,Stefan-Mugosa,c41ca3d8
-178,Richard Neudecker,/en/players/412056d4/Richard-Neudecker,Richard-Neudecker,412056d4
-179,Rodnei,/en/players/86aab4db/Rodnei,Rodnei,86aab4db
-180,Stephané Mvibudulu,/en/players/3cd09f00/Stephane-Mvibudulu,Stephane-Mvibudulu,3cd09f00
-181,Emanuel Taffertshofer,/en/players/221d7f29/Emanuel-Taffertshofer,Emanuel-Taffertshofer,221d7f29
-182,Maximilian Beister,/en/players/25df5f56/Maximilian-Beister,Maximilian-Beister,25df5f56
-183,Vladimír Kováč,/en/players/0ac1c43f/Vladimir-Kovac,Vladimir-Kovac,0ac1c43f
-184,Nico Karger,/en/players/13814556/Nico-Karger,Nico-Karger,13814556
-185,Michael Netolitzky,/en/players/9e3817c4/Michael-Netolitzky,Michael-Netolitzky,9e3817c4
-186,Goran Šukalo,/en/players/9881c8d5/Goran-Sukalo,Goran-Sukalo,9881c8d5
-187,﻿Romuald Lacazette,/en/players/1c11c8d9/Romuald-Lacazette,Romuald-Lacazette,1c11c8d9
-188,Ivica Olić,/en/players/1bb54bef/Ivica-Olic,Ivica-Olic,1bb54bef
-189,Ohis Felix Uduokhai,/en/players/677da306/Ohis-Felix-Uduokhai,Ohis-Felix-Uduokhai,677da306
-190,Lumor Agbenyenu,/en/players/073b1b37/Lumor-Agbenyenu,Lumor-Agbenyenu,073b1b37
-191,Abdoulaye Ba,/en/players/1f54ed90/Abdoulaye-Ba,Abdoulaye-Ba,1f54ed90
-192,Jan Zimmermann,/en/players/ddcc4dd3/Jan-Zimmermann,Jan-Zimmermann,ddcc4dd3
-193,Sebastian Boenisch,/en/players/e6a25eeb/Sebastian-Boenisch,Sebastian-Boenisch,e6a25eeb
-194,Fanol Perdedaj,/en/players/d4388390/Fanol-Perdedaj,Fanol-Perdedaj,d4388390
-195,Amilton,/en/players/28a2c1fe/Amilton,Amilton,28a2c1fe
-196,Marnon Busch,/en/players/c38767ab/Marnon-Busch,Marnon-Busch,c38767ab
-197,Karim Matmour,/en/players/d9796d83/Karim-Matmour,Karim-Matmour,d9796d83
-198,Christian Gytkjær,/en/players/9250bcff/Christian-Gytkjaer,Christian-Gytkjaer,9250bcff
-199,Filip Stojković,/en/players/bafcf742/Filip-Stojkovic,Filip-Stojkovic,bafcf742
-200,Marin Pongračić,/en/players/2a6cd437/Marin-Pongracic,Marin-Pongracic,2a6cd437
-201,Florian Neuhaus,/en/players/36a59ba4/Florian-Neuhaus,Florian-Neuhaus,36a59ba4
-202,Victor Andrade,/en/players/1dc83c51/Victor-Andrade,Victor-Andrade,1dc83c51
-203,Kilian Jakob,/en/players/99d6044d/Kilian-Jakob,Kilian-Jakob,99d6044d
-204,Frank Boya,/en/players/957e00ad/Frank-Boya,Frank-Boya,957e00ad
-205,Max Engl,/en/players/a94901fd/Max-Engl,Max-Engl,a94901fd
-206,Nicholas Helmbrecht,/en/players/97efc7eb/Nicholas-Helmbrecht,Nicholas-Helmbrecht,97efc7eb
-207,Felix Weber,/en/players/1b6f8ad3/Felix-Weber,Felix-Weber,1b6f8ad3
-208,﻿Timo Gebhart,/en/players/f2f689cf/Timo-Gebhart,Timo-Gebhart,f2f689cf
-209,Christian Köppel,/en/players/00976604/Christian-Koppel,Christian-Koppel,00976604
-210,Alexander Strobl,/en/players/0d9c098f/Alexander-Strobl,Alexander-Strobl,0d9c098f
-211,Daniel Wein,/en/players/8b4c3d31/Daniel-Wein,Daniel-Wein,8b4c3d31
-212,Nicolas Andermatt,/en/players/a994567b/Nicolas-Andermatt,Nicolas-Andermatt,a994567b
-213,Aaron Berzel,/en/players/de179fed/Aaron-Berzel,Aaron-Berzel,de179fed
-214,Felix Bachschmid,/en/players/b1e10f34/Felix-Bachschmid,Felix-Bachschmid,b1e10f34
-215,Marco Hiller,/en/players/4bf524cd/Marco-Hiller,Marco-Hiller,4bf524cd
-216,Uğur Mustafa Türk,/en/players/a66731be/Ugur-Mustafa-Turk,Ugur-Mustafa-Turk,a66731be
-217,Eric Weeger,/en/players/61676cd3/Eric-Weeger,Eric-Weeger,61676cd3
-218,﻿Phillipp Steinhart,/en/players/955de575/Phillipp-Steinhart,Phillipp-Steinhart,955de575
-219,Simon Lorenz,/en/players/435f829f/Simon-Lorenz,Simon-Lorenz,435f829f
-220,Herbert Paul,/en/players/5ecff769/Herbert-Paul,Herbert-Paul,5ecff769
-221,Efkan Bekiroglu,/en/players/6233f5f9/Efkan-Bekiroglu,Efkan-Bekiroglu,6233f5f9
-222,Stefan Lex,/en/players/b39c06ed/Stefan-Lex,Stefan-Lex,b39c06ed
-223,Quirin Moll,/en/players/0a12c10f/Quirin-Moll,Quirin-Moll,0a12c10f
-224,Adriano Grimaldi,/en/players/8ca5bcda/Adriano-Grimaldi,Adriano-Grimaldi,8ca5bcda
-225,Marius Willsch,/en/players/d2898ff0/Marius-Willsch,Marius-Willsch,d2898ff0
-226,Benjamin Kindsvater,/en/players/128d1170/Benjamin-Kindsvater,Benjamin-Kindsvater,128d1170
-227,Prince Osei Owusu,/en/players/8377ba6a/Prince-Osei-Owusu,Prince-Osei-Owusu,8377ba6a
-228,Hendrik Bonmann,/en/players/03de98b7/Hendrik-Bonmann,Hendrik-Bonmann,03de98b7
-229,Alessandro Abruscia,/en/players/607bf437/Alessandro-Abruscia,Alessandro-Abruscia,607bf437
-230,Semi Belkahia,/en/players/7776a35b/Semi-Belkahia,Semi-Belkahia,7776a35b
-231,Dennis Dressel,/en/players/45136712/Dennis-Dressel,Dennis-Dressel,45136712
-232,Kristian Böhnlein,/en/players/c8ffb010/Kristian-Bohnlein,Kristian-Bohnlein,c8ffb010
-233,Severin Buchta,/en/players/484cedd1/Severin-Buchta,Severin-Buchta,484cedd1
-234,Johann Hipper,/en/players/096ddbe4/Johann-Hipper,Johann-Hipper,096ddbe4
-235,Noel Niemann,/en/players/e0ff7614/Noel-Niemann,Noel-Niemann,e0ff7614
-236,Simon Seferings,/en/players/e6f33946/Simon-Seferings,Simon-Seferings,e6f33946
-237,﻿Sascha Mölders,/en/players/9ddae0f4/Sascha-Molders,Sascha-Molders,9ddae0f4
-238,Dennis Erdmann,/en/players/47d8db69/Dennis-Erdmann,Dennis-Erdmann,47d8db69
-239,Tim Rieder,/en/players/8f63e400/Tim-Rieder,Tim-Rieder,8f63e400
-240,Leon Klassen,/en/players/570af22f/Leon-Klassen,Leon-Klassen,570af22f
-241,Fabian Greilinger,/en/players/350bd5db/Fabian-Greilinger,Fabian-Greilinger,350bd5db
-242,Tom Kretzschmar,/en/players/d5e53d0c/Tom-Kretzschmar,Tom-Kretzschmar,d5e53d0c
-243,Niklas Lang,/en/players/c490c344/Niklas-Lang,Niklas-Lang,c490c344
-244,﻿Marco Hiller,/en/players/4bf524cd/Marco-Hiller,Marco-Hiller,4bf524cd
-245,Stephan Salger,/en/players/c19c335b/Stephan-Salger,Stephan-Salger,c19c335b
-246,Erik Tallig,/en/players/bb7b929d/Erik-Tallig,Erik-Tallig,bb7b929d
-247,Merveille Biankadi,/en/players/d24e46a2/Merveille-Biankadi,Merveille-Biankadi,d24e46a2
-248,Keanu Staude,/en/players/cdaa73ee/Keanu-Staude,Keanu-Staude,cdaa73ee
-249,Martin Pušić,/en/players/889b3bd7/Martin-Pusic,Martin-Pusic,889b3bd7
-250,Johann Ngounou Djayo,/en/players/e8a9c8b3/Johann-Ngounou-Djayo,Johann-Ngounou-Djayo,e8a9c8b3
-251,Lorenz Knöferl,/en/players/33255288/Lorenz-Knoferl,Lorenz-Knoferl,33255288
-252,Marco Mannhardt,/en/players/a22a12e3/Marco-Mannhardt,Marco-Mannhardt,a22a12e3
-253,Matthew Durrans,/en/players/68e49096/Matthew-Durrans,Matthew-Durrans,68e49096
-254,Maxim Gresler,/en/players/0112e960/Maxim-Gresler,Maxim-Gresler,0112e960
-255,Marcel Bär,/en/players/a1e9a3b5/Marcel-Bar,Marcel-Bar,a1e9a3b5
-256,Leandro Morgalla,/en/players/08273d48/Leandro-Morgalla,Leandro-Morgalla,08273d48
-257,Kevin Goden,/en/players/25c633b0/Kevin-Goden,Kevin-Goden,25c633b0
-258,Tim Linsbichler,/en/players/eb47aee1/Tim-Linsbichler,Tim-Linsbichler,eb47aee1
-259,Nathan Wicht,/en/players/4e0617e7/Nathan-Wicht,Nathan-Wicht,4e0617e7
-260,Milos Cocic,/en/players/c034b13f/Milos-Cocic,Milos-Cocic,c034b13f
-261,Alexander Freitag,/en/players/01f474b9/Alexander-Freitag,Alexander-Freitag,01f474b9
-262,Julian Bell,/en/players/d73b4ad7/Julian-Bell,Julian-Bell,d73b4ad7
-263,Székely György,/en/players/d942122d/Szekely-Gyorgy,Szekely-Gyorgy,d942122d
+﻿,Player,Link,Player_id,Player_name,Nationality,Position
+0,﻿Simon Jentzsch,/en/players/2f1318de/Simon-Jentzsch,2f1318de,Simon-Jentzsch,de GER,GK
+1,Markus Schroth,/en/players/495af691/Markus-Schroth,495af691,Markus-Schroth,de GER,FW
+2,Harald Cerny,/en/players/e41db53c/Harald-Cerny,41db53c,Harald-C,at AUT,MF
+3,Benjamin Lauth,/en/players/a3876c87/Benjamin-Lauth,3876c87,Benjamin-Lauth,de GER,FW
+4,Rodrigo Costa,/en/players/401574dc/Rodrigo-Costa,401574dc,Rodrigo-Cost,br BRA,DF
+5,Torben Hoffmann,/en/players/967a7889/Torben-Hoffmann,967a7889,Torben-Hoffm,de GER,DF
+6,Rémo Meyer,/en/players/3d107df4/Remo-Meyer,3d107df4,Remo-M,ch SUI,DF
+7,Marco Kurz,/en/players/ebd284a2/Marco-Kurz,bd284a2,Marco-Kurz,de GER,DF
+8,Markus Weissenberger,/en/players/870a35d4/Markus-Weissenberger,870a35d4,Markus-Weissenberg,at AUT,MF
+9,Tomáš Votava,/en/players/ddc220fc/Tomas-Votava,ddc220fc,Tomas-Votav,cz CZE,DF
+10,Martin Stranzl,/en/players/4786c8d5/Martin-Stranzl,4786c8d5,Martin-Stranz,at AUT,"DF,MF"
+11,Thomas Häßler,/en/players/97ff665a/Thomas-Hassler,97ff665a,Thomas-H,de GER,MF
+12,Daniel Borimirov,/en/players/97bc39d3/Daniel-Borimirov,97bc39d3,Daniel-Borimirov,bg BUL,MF
+13,Michael Wiesinger,/en/players/6aa7c6bd/Michael-Wiesinger,6aa7c6bd,Michael-Wiesing,de GER,MF
+14,Martin Max,/en/players/b8733b6c/Martin-Max,b8733b6c,Martin-Max,de GER,FW
+15,Marcus Pürk,/en/players/fde7b101/Marcus-Purk,fde7b101,Marcus-Purk,at AUT,"FW,MF"
+16,Uwe Ehlers,/en/players/e6c8e278/Uwe-Ehlers,6c8e278,Uwe-Eh,de GER,DF
+17,Roman Týce,/en/players/9b56e7b9/Roman-Tyce,9b56e7b9,Roman-Tyc,cz CZE,"DF,MF"
+18,Davor Šuker,/en/players/f3580cae/Davor-Suker,f3580cae,Davor-Suk,hr CRO,FW
+19,Rafael,/en/players/f4187224/Rafael,f4187224,Raf,br BRA,DF
+20,Danny Schwarz,/en/players/f4e968e9/Danny-Schwarz,f4e968e9,Danny-Schwarz,de GER,MF
+21,Shao Jiayi,/en/players/2969d5da/Shao-Jiayi,2969d5da,Shao-Jiayi,cn CHN,MF
+22,Paul Agostino,/en/players/56d4e66a/Paul-Agostino,56d4e66a,Paul-Agostino,au AUS,FW
+23,Michael Hofmann,/en/players/11cd8973/Michael-Hofmann,11cd8973,Michael-Hofm,de GER,GK
+24,Vidar Riseth,/en/players/815b6e14/Vidar-Riseth,815b6e14,Vidar-Riseth,no NOR,"DF,MF"
+25,Achim Pfuderer,/en/players/05a30e73/Achim-Pfuderer,05a30e73,Achim-Pfud,de GER,DF
+26,Andreas Görlitz,/en/players/75338390/Andreas-Gorlitz,75338390,Andreas-Gorlitz,de GER,"DF,MF"
+28,Janne Saarinen,/en/players/7c992ac6/Janne-Saarinen,7c992ac6,Janne-Saari,fi FIN,"DF,MF"
+29,Matthias Lehmann,/en/players/abb42ce6/Matthias-Lehmann,bb42ce6,Matthias-Lehm,de GER,MF
+30,Francis Kioyo,/en/players/3cade212/Francis-Kioyo,3cade212,Francis-Kioyo,cm CMR,FW
+31,Fernando Santos,/en/players/69b67721/Fernando-Santos,69b67721,Fernando-Santo,br BRA,DF
+32,Lance Davids,/en/players/449146e5/Lance-Davids,449146e5,Lance-David,za RSA,MF
+33,Daniel Baier,/en/players/f261abcb/Daniel-Baier,f261abcb,Daniel-Bai,de GER,MF
+34,Gerhard Poschner,/en/players/da48d522/Gerhard-Poschner,da48d522,Gerhard-Posch,de GER,MF
+35,André Lenz,/en/players/7a8a36d2/Andre-Lenz,7a8a36d2,Andre-Lenz,de GER,GK
+36,Christophe Lepoint,/en/players/67901273/Christophe-Lepoint,67901273,Christophe-Lepoint,be BEL,"DF,MF"
+37,Marcel Schäfer,/en/players/11b349cf/Marcel-Schafer,11b349cf,Marcel-Schaf,de GER,"DF,MF"
+38,Michal Kolomazník,/en/players/758927bf/Michal-Kolomaznik,758927bf,Michal-Kolomaznik,cz CZE,FW
+39,Slobodan Komljenović,/en/players/a8e80766/Slobodan-Komljenovic,8e80766,Slobodan-Komljenovic,rs SRB,DF
+40,Marco Gebhardt,/en/players/832b7808/Marco-Gebhardt,832b7808,Marco-Gebhardt,de GER,"DF,MF"
+41,Łukasz Szukała,/en/players/ee4d8724/Lukasz-Szukala,4d8724,Lukasz-Szuk,pl POL,DF
+42,Quido Lanzaat,/en/players/2078488c/Quido-Lanzaat,2078488c,Quido-Lanzaat,nl NED,DF
+43,Timo Ochs,/en/players/35660a28/Timo-Ochs,35660a28,Timo-Och,de GER,GK
+44,Patrick Milchraum,/en/players/4119b1e4/Patrick-Milchraum,4119b1e4,Patrick-Milchraum,de GER,"DF,MF"
+45,Erol Bulut,/en/players/2f01e2c4/Erol-Bulut,2f01e2c4,Erol-Bulut,tr TUR,"DF,MF"
+46,Emmanuel Krontiris,/en/players/a4c240ac/Emmanuel-Krontiris,4c240ac,Emmanuel-Krontiri,de GER,FW
+47,Karlheinz Pflipsen,/en/players/f80cd8e8/Karlheinz-Pflipsen,f80cd8e8,Karlheinz-Pfli,de GER,MF
+49,Nemanja Vučićević,/en/players/6bd29aba/Nemanja-Vucicevic,6bd29aba,Nemanja-Vucicevic,rs SRB,"FW,MF"
+50,Pascal Ojigwe,/en/players/6e99b723/Pascal-Ojigwe,6e99b723,Pascal-Ojigw,ng NGA,"DF,MF"
+51,Fabian Lamotte,/en/players/3ecc8baa/Fabian-Lamotte,3ecc8baa,Fabian-Lamott,de GER,DF
+52,Jiao Fengbo,/en/players/119bc57a/Jiao-Fengbo,119bc57a,Jiao-Fengbo,cn CHN,DF
+53,Steffen Hofmann,/en/players/288c4a4b/Steffen-Hofmann,288c4a4b,Steffen-Hofm,de GER,MF
+54,Stefan Reisinger,/en/players/a1248246/Stefan-Reisinger,1248246,Stefan-Reising,de GER,FW
+55,Björn Ziegenbein,/en/players/30c9ca35/Bjorn-Ziegenbein,30c9ca35,Bjorn-Ziegenbei,de GER,MF
+56,Christoph Janker,/en/players/cf01fe3a/Christoph-Janker,cf01fe3a,Christoph-Jank,de GER,DF
+57,Nikolas Ledgerwood,/en/players/c936a8cd/Nikolas-Ledgerwood,c936a8cd,Nikolas-Ledgerwood,ca CAN,"DF,MF"
+58,Nicky Adler,/en/players/58598b61/Nicky-Adler,58598b61,Nicky-Ad,de GER,"FW,MF"
+59,Fabian Johnson,/en/players/76e5da9d/Fabian-Johnson,76e5da9d,Fabian-Johnso,us USA,"DF,MF"
+60,Gregg Berhalter,/en/players/90f969fa/Gregg-Berhalter,90f969fa,Gregg-Berhalt,us USA,DF
+61,Antonio Di Salvo,/en/players/d72cb9ae/Antonio-Di-Salvo,d72cb9ae,Antonio-Di-Salvo,de GER,FW
+62,Mate Ghvinianidze,/en/players/83c924d8/Mate-Ghvinianidze,83c924d8,Mate-Ghvinianidz,ge GEO,DF
+63,Markus Thorandt,/en/players/637e0c64/Markus-Thorandt,637e0c64,Markus-Thorandt,de GER,"DF,MF"
+64,Berkant Göktan,/en/players/9dc6ce11/Berkant-Goktan,9dc6ce11,Berkant-Gokt,tr TUR,FW
+65,Christoph Burkhard,/en/players/522116e9/Christoph-Burkhard,522116e9,Christoph-Burkhard,de GER,"DF,MF"
+66,Josh Wolff,/en/players/49522e88/Josh-Wolff,49522e88,Josh-Wolff,us USA,FW
+67,Lars Bender,/en/players/c50281a0/Lars-Bender,c50281a0,Lars-Bend,de GER,"DF,MF"
+68,Alexander Eberlein,/en/players/563dbb75/Alexander-Eberlein,563dbb75,Alexander-Eberlei,de GER,DF
+69,Sven Bender,/en/players/070ec0b1/Sven-Bender,070ec0b1,Sven-Bend,de GER,"DF,MF"
+70,Philipp Tschauner,/en/players/73e2f6eb/Philipp-Tschauner,73e2f6eb,Philipp-Tschau,de GER,GK
+71,﻿Daniel Bierofka,/en/players/aa98cbbb/Daniel-Bierofka,98cbbb,Daniel-Bierofk,de GER,MF
+72,Mustafa Kučuković,/en/players/9a9497e1/Mustafa-Kucukovic,9a9497e1,Mustafa-Kucukovic,de GER,FW
+73,Benjamin Schwarz,/en/players/3aa77453/Benjamin-Schwarz,3aa77453,Benjamin-Schwarz,de GER,"DF,MF"
+74,Timo Gebhart,/en/players/f2f689cf/Timo-Gebhart,f2f689cf,Timo-Gebhart,de GER,MF
+75,José Holebas,/en/players/12aa7661/Jose-Holebas,12aa7661,Jose-Holeb,gr GRE,"DF,MF"
+76,Julian Baumgartlinger,/en/players/69374ff5/Julian-Baumgartlinger,69374ff5,Julian-Baumgartling,at AUT,"DF,MF"
+77,Chhunly Pagenburg,/en/players/7d708c49/Chhunly-Pagenburg,7d708c49,Chhunly-Pagenburg,kh CAM,FW
+78,Manuel Schäffler,/en/players/de8edb3a/Manuel-Schaffler,de8edb3a,Manuel-Schaff,de GER,FW
+79,Manuel Duhnke,/en/players/d7a59f23/Manuel-Duhnke,d7a59f23,Manuel-Duhnk,de GER,MF
+80,Mathieu Béda,/en/players/0a18549e/Mathieu-Beda,0a18549e,Mathieu-Bed,fr FRA,"DF,MF"
+81,Antonio Rukavina,/en/players/e12d7851/Antonio-Rukavina,12d7851,Antonio-Rukavi,rs SRB,DF
+82,Stefan Aigner,/en/players/17cc3f63/Stefan-Aigner,17cc3f63,Stefan-Aig,de GER,"FW,MF"
+83,Michael Schick,/en/players/555550a3/Michael-Schick,555550a3,Michael-Schick,de GER,DF
+84,Sascha Rösler,/en/players/502699c8/Sascha-Rosler,502699c8,Sascha-Ro,de GER,"FW,MF"
+85,Nikola Gulan,/en/players/24a741ac/Nikola-Gulan,24a741ac,Nikola-Gu,rs SRB,"DF,MF"
+86,Marvin Pourié,/en/players/10125cc1/Marvin-Pourie,10125cc1,Marvin-Pouri,de GER,FW
+87,Peniel Mlapa,/en/players/aaa5e955/Peniel-Mlapa,5e955,Peniel-M,tg TOG,FW
+88,Mathias Fetsch,/en/players/eeb3e359/Mathias-Fetsch,b3e359,Mathias-Fetsch,de GER,FW
+89,﻿Gábor Király,/en/players/6603a18c/Gabor-Kiraly,6603a18c,Gabor-Ki,hu HUN,GK
+90,Aleksandar Ignjovski,/en/players/63b08315/Aleksandar-Ignjovski,63b08315,Aleksandar-Ignjovski,rs SRB,"DF,MF"
+91,Radhouène Felhi,/en/players/e9c60ed2/Radhouene-Felhi,9c60ed2,Radhouene-Felhi,tn TUN,"DF,MF"
+92,Sandro Kaiser,/en/players/6b4a871b/Sandro-Kaiser,6b4a871b,Sandro-Kai,de GER,MF
+93,Charilaos Pappas,/en/players/dd83cca6/Charilaos-Pappas,dd83cca6,Charilaos-P,gr GRE,"FW,MF"
+94,Dominik Stahl,/en/players/fb72b3c3/Dominik-Stahl,fb72b3c3,Dominik-Stah,de GER,MF
+95,Kenny Cooper,/en/players/34aaadfe/Kenny-Cooper,34aaadfe,Kenny-Coo,us USA,FW
+96,Đorđe Rakić,/en/players/b65b52ff/Djordje-Rakic,b65b52ff,Djordje-Rakic,rs SRB,FW
+97,Florin Lovin,/en/players/3a1f0d4d/Florin-Lovin,3a1f0d4d,Florin-Lovi,ro ROU,MF
+98,Emanuel Biancucchi,/en/players/c06cdc9d/Emanuel-Biancucchi,c06cdc9d,Emanuel-Biancucchi,ar ARG,MF
+99,Eke Uzoma,/en/players/fe70e252/Eke-Uzoma,fe70e252,Eke-Uzom,ng NGA,MF
+100,Marcos Antônio,/en/players/0d327248/Marcos-Antonio,0d327248,Marcos-Antonio,br BRA,"DF,MF"
+101,Tarık Çamdal,/en/players/d23ff209/Tarik-Camdal,d23ff209,Tarik-Camd,tr TUR,"DF,MF"
+102,Ardian Đokaj,/en/players/d7bfad8c/Ardian-Djokaj,d7bfad8c,Ardian-Djokaj,rs SRB,"FW,MF"
+103,Stefan Buck,/en/players/079c34a7/Stefan-Buck,079c34a7,Stefan-Buck,de GER,DF
+104,Kai Bülow,/en/players/18c4383b/Kai-Bulow,18c4383b,Kai-Bulow,de GER,"DF,MF"
+105,Stefan Bell,/en/players/857a5abe/Stefan-Bell,857a5abe,Stefan-B,de GER,DF
+106,Daniel Halfar,/en/players/1d1f3446/Daniel-Halfar,1d1f3446,Daniel-Half,de GER,MF
+107,Kevin Volland,/en/players/64f69877/Kevin-Volland,64f69877,Kevin-Volland,de GER,"FW,MF"
+108,Alexander Ludwig,/en/players/bcf7957e/Alexander-Ludwig,bcf7957e,Alexander-Ludwig,de GER,MF
+109,Necat Aygün,/en/players/608d59f4/Necat-Aygun,608d59f4,Necat-Aygu,de GER,DF
+110,Moritz Leitner,/en/players/9460aaed/Moritz-Leitner,9460aaed,Moritz-Leit,de GER,MF
+111,Christopher Schindler,/en/players/8ae9869d/Christopher-Schindler,8ae9869d,Christopher-Schind,de GER,DF
+112,Juan José Barros,/en/players/cbf5db9b/Juan-Jose-Barros,cbf5db9b,Juan-Jose-Barro,pe PER,"DF,FW"
+113,Savio Nsereko,/en/players/d095eaca/Savio-Nsereko,d095eaca,Savio-Nsereko,ug UGA,"FW,MF"
+114,Arne Feick,/en/players/571ca3a9/Arne-Feick,571ca3a9,Arne-Feick,de GER,"DF,MF"
+115,Maximilian Nicu,/en/players/fd7cf413/Maximilian-Nicu,fd7cf413,Maximilian-Nicu,ro ROU,"DF,MF"
+116,Guillermo Vallori,/en/players/815256ca/Guillermo-Vallori,815256ca,Guillermo-Vallori,es ESP,DF
+117,Collin Benjamin,/en/players/9889b832/Collin-Benjamin,9889b832,Collin-Benjami,na NAM,"DF,MF"
+118,Dennis Malura,/en/players/6934596b/Dennis-Malura,6934596b,Dennis-Malu,de GER,DF
+119,Vitus Eicher,/en/players/1f158264/Vitus-Eicher,1f158264,Vitus-Eich,de GER,GK
+120,Sebastian Maier,/en/players/e8385ec4/Sebastian-Maier,8385ec4,Sebastian-Mai,de GER,MF
+121,Phillipp Steinhart,/en/players/955de575/Phillipp-Steinhart,955de575,Phillipp-Steinhart,de GER,"DF,MF"
+122,Jonatan Kotzke,/en/players/6e093027/Jonatan-Kotzke,6e093027,Jonatan-Kotzk,de GER,"DF,MF"
+123,Bobby Wood,/en/players/9853983f/Bobby-Wood,9853983f,Bobby-Wood,us USA,"FW,MF"
+124,Moritz Stoppelkamp,/en/players/042cac2d/Moritz-Stoppelkamp,042cac2d,Moritz-Stoppelkam,de GER,"FW,MF"
+125,Grzegorz Wojtkowiak,/en/players/2c932904/Grzegorz-Wojtkowiak,2c932904,Grzegorz-Wojtkowiak,pl POL,DF
+126,Marin Tomasov,/en/players/ead960f2/Marin-Tomasov,d960f2,Marin-Tomasov,hr CRO,MF
+127,Malik Fathi,/en/players/067e58bc/Malik-Fathi,067e58bc,Malik-Fathi,de GER,DF
+128,Rob Friend,/en/players/dbbc95e3/Rob-Friend,dbbc95e3,Rob-Friend,ca CAN,"FW,MF"
+129,Grigoris Makos,/en/players/eebd5530/Grigoris-Makos,bd5530,Grigoris-Mako,gr GRE,MF
+130,Stefan Wannenwetsch,/en/players/e63077b7/Stefan-Wannenwetsch,63077b7,Stefan-Wannenwetsch,de GER,MF
+131,Ismael Blanco,/en/players/0aceace2/Ismael-Blanco,0aceace2,Ismael-Blanco,ar ARG,FW
+132,Ola Kamara,/en/players/e134351a/Ola-Kamara,134351a,Ola-Kam,no NOR,"FW,MF"
+133,Markus Ziereis,/en/players/11f6148e/Markus-Ziereis,11f6148e,Markus-Zierei,de GER,FW
+134,Yannick Stark,/en/players/e7f6e9aa/Yannick-Stark,7f6e9aa,Yannick-Stark,de GER,MF
+135,Daniel Adlung,/en/players/c4cdf5ce/Daniel-Adlung,c4cdf5ce,Daniel-Adlung,de GER,MF
+136,Sebastian Hertner,/en/players/13d7169e/Sebastian-Hertner,13d7169e,Sebastian-Hert,de GER,"DF,MF"
+137,Moritz Volz,/en/players/41b3e74a/Moritz-Volz,41b3e74a,Moritz-Volz,de GER,DF
+138,Markus Steinhöfer,/en/players/f4765e02/Markus-Steinhofer,f4765e02,Markus-Steinhof,de GER,"DF,MF"
+139,Julian Weigl,/en/players/346d51d9/Julian-Weigl,346d51d9,Julian-Weig,de GER,"DF,MF"
+140,Andreas Ludwig,/en/players/b418368a/Andreas-Ludwig,b418368a,Andreas-Ludwig,de GER,MF
+141,Stephan Hain,/en/players/5bf23bd0/Stephan-Hain,5bf23bd0,Stephan-Hai,de GER,FW
+142,Markus Schwabl,/en/players/931a2450/Markus-Schwabl,931a2450,Markus-Schwab,de GER,"DF,MF"
+143,Kodjovi Koussou,/en/players/ea635f6e/Kodjovi-Koussou,635f6e,Kodjovi-Koussou,tg TOG,"DF,MF"
+144,Gary Kagelmacher,/en/players/a2e9f252/Gary-Kagelmacher,2e9f252,Gary-Kagelmach,uy URU,DF
+145,Rubin Okotie,/en/players/bbca2c6c/Rubin-Okotie,bbca2c6c,Rubin-Okoti,at AUT,FW
+146,Ilie Sánchez,/en/players/72979f65/Ilie-Sanchez,72979f65,Ilie-Sanchez,es ESP,"DF,MF"
+147,Valdet Rama,/en/players/00b159ff/Valdet-Rama,00b159ff,Valdet-Ram,al ALB,"FW,MF"
+148,Stefan Ortega,/en/players/c1242d4e/Stefan-Ortega,c1242d4e,Stefan-Orteg,de GER,GK
+149,Maximilian Wittek,/en/players/edb2712b/Maximilian-Wittek,db2712b,Maximilian-Wittek,de GER,"DF,MF"
+150,Martin Angha,/en/players/41a1a2c8/Martin-Angha,41a1a2c8,Martin-Angh,ch SUI,DF
+151,Jannik Bandowski,/en/players/c8bcbc70/Jannik-Bandowski,c8bcbc70,Jannik-Bandowski,de GER,"DF,MF"
+152,Marius Wolf,/en/players/fa661778/Marius-Wolf,fa661778,Marius-Wolf,de GER,"DF,FW"
+153,Edu Bedia,/en/players/2dc8077c/Edu-Bedia,2dc8077c,Edu-Bedi,es ESP,MF
+154,Leonardo,/en/players/b4884493/Leonardo,b4884493,Leonardo,br BRA,"FW,MF"
+155,Krisztián Simon,/en/players/766d4c69/Krisztian-Simon,766d4c69,Krisztian-Simo,hu HUN,"FW,MF"
+156,Korbinian Vollmann,/en/players/f1f94ed3/Korbinian-Vollmann,f1f94ed3,Korbinian-Vollm,de GER,"FW,MF"
+157,Rodri,/en/players/5200dce9/Rodri,5200dce9,Rodri,es ESP,FW
+158,Daylon Claasen,/en/players/8b148a29/Daylon-Claasen,8b148a29,Daylon-C,za RSA,MF
+159,Anthony Annan,/en/players/1c524d4a/Anthony-Annan,1c524d4a,Anthony-A,gh GHA,MF
+160,Fejsal Mulić,/en/players/04c9b667/Fejsal-Mulic,04c9b667,Fejsal-Mulic,rs SRB,FW
+161,Michael Liendl,/en/players/c54ea7f0/Michael-Liendl,c54ea7f0,Michael-Liend,at AUT,MF
+162,Miloš Degenek,/en/players/c8e65157/Milos-Degenek,c8e65157,Milos-Degenek,au AUS,"MF,DF"
+163,Jan Mauersberger,/en/players/fd99c002/Jan-Mauersberger,fd99c002,Jan-Mauersberg,de GER,DF
+164,Sascha Mölders,/en/players/9ddae0f4/Sascha-Molders,9ddae0f4,Sascha-Mold,de GER,FW
+165,Levent Ayçiçek,/en/players/bbbfb513/Levent-Aycicek,bbbfb513,Levent-Aycicek,de GER,MF
+166,Sertan Yegenoglu,/en/players/985b0911/Sertan-Yegenoglu,985b0911,Sertan-Yegenoglu,de GER,DF
+167,Romuald Lacazette,/en/players/1c11c8d9/Romuald-Lacazette,1c11c8d9,Romuald-Lacazett,fr FRA,MF
+168,Stefan Mugoša,/en/players/c41ca3d8/Stefan-Mugosa,c41ca3d8,Stefan-Mugo,me MNE,FW
+169,Richard Neudecker,/en/players/412056d4/Richard-Neudecker,412056d4,Richard-Neudeck,de GER,DF
+170,Rodnei,/en/players/86aab4db/Rodnei,86aab4db,Rodnei,br BRA,DF
+171,Stephané Mvibudulu,/en/players/3cd09f00/Stephane-Mvibudulu,3cd09f00,Stephane-Mvibudulu,cd COD,"MF,FW"
+172,Emanuel Taffertshofer,/en/players/221d7f29/Emanuel-Taffertshofer,221d7f29,Emanuel-Taffertshof,de GER,"MF,DF"
+173,Maximilian Beister,/en/players/25df5f56/Maximilian-Beister,25df5f56,Maximilian-Beist,de GER,MF
+174,Vladimír Kováč,/en/players/0ac1c43f/Vladimir-Kovac,0ac1c43f,Vladimir-Kovac,sk SVK,DF
+175,Nico Karger,/en/players/13814556/Nico-Karger,13814556,Nico-Karg,de GER,"FW,MF"
+176,Michael Netolitzky,/en/players/9e3817c4/Michael-Netolitzky,9e3817c4,Michael-Netolitzk,de GER,GK
+177,Goran Šukalo,/en/players/9881c8d5/Goran-Sukalo,9881c8d5,Goran-Sukalo,si SVN,MF
+178,Ivica Olić,/en/players/1bb54bef/Ivica-Olic,1bb54bef,Ivica-Olic,hr CRO,FW
+179,Ohis Felix Uduokhai,/en/players/677da306/Ohis-Felix-Uduokhai,677da306,Ohis-Felix-Uduokhai,de GER,DF
+180,Lumor Agbenyenu,/en/players/073b1b37/Lumor-Agbenyenu,073b1b37,Lumor-Agbenyenu,gh GHA,"MF,DF"
+181,Abdoulaye Ba,/en/players/1f54ed90/Abdoulaye-Ba,1f54ed90,Abdoulaye-B,sn SEN,DF
+182,Jan Zimmermann,/en/players/ddcc4dd3/Jan-Zimmermann,ddcc4dd3,Jan-Zimmerm,de GER,GK
+183,Sebastian Boenisch,/en/players/e6a25eeb/Sebastian-Boenisch,6a25eeb,Sebastian-Boenisch,pl POL,DF
+184,Fanol Perdedaj,/en/players/d4388390/Fanol-Perdedaj,d4388390,Fanol-Perdedaj,xk KVX,"DF,MF"
+185,Amilton,/en/players/28a2c1fe/Amilton,28a2c1fe,Amilto,br BRA,FW
+186,Marnon Busch,/en/players/c38767ab/Marnon-Busch,c38767ab,Marnon-Busch,de GER,"MF,DF"
+187,Karim Matmour,/en/players/d9796d83/Karim-Matmour,d9796d83,Karim-Matmou,dz ALG,"MF,FW"
+188,Christian Gytkjær,/en/players/9250bcff/Christian-Gytkjaer,9250bcff,Christian-Gytkj,dk DEN,FW
+189,Filip Stojković,/en/players/bafcf742/Filip-Stojkovic,bafcf742,Filip-Stojkovic,me MNE,"DF,MF"
+190,Marin Pongračić,/en/players/2a6cd437/Marin-Pongracic,2a6cd437,Marin-Pongracic,hr CRO,DF
+191,Florian Neuhaus,/en/players/36a59ba4/Florian-Neuhaus,36a59ba4,Florian-Neuhau,de GER,MF
+192,Victor Andrade,/en/players/1dc83c51/Victor-Andrade,1dc83c51,Victor-Andrad,br BRA,MF
+193,Kilian Jakob,/en/players/99d6044d/Kilian-Jakob,99d6044d,Kilian-Jakob,de GER,DF
+194,Frank Boya,/en/players/957e00ad/Frank-Boya,957e00ad,Frank-Bo,cm CMR,"DF,FW"
+195,Max Engl,/en/players/a94901fd/Max-Engl,94901fd,Max-Eng,de GER,GK
+196,Nicholas Helmbrecht,/en/players/97efc7eb/Nicholas-Helmbrecht,97efc7eb,Nicholas-Helmbrecht,de GER,MF
+197,Felix Weber,/en/players/1b6f8ad3/Felix-Weber,1b6f8ad3,Felix-Web,de GER,DF
+198,Christian Köppel,/en/players/00976604/Christian-Koppel,00976604,Christian-Ko,de GER,DF
+199,Alexander Strobl,/en/players/0d9c098f/Alexander-Strobl,0d9c098f,Alexander-Strob,at AUT,GK
+200,Daniel Wein,/en/players/8b4c3d31/Daniel-Wein,8b4c3d31,Daniel-Wei,de GER,MF
+201,Nicolas Andermatt,/en/players/a994567b/Nicolas-Andermatt,994567b,Nicolas-Andermatt,ch SUI,MF
+202,Aaron Berzel,/en/players/de179fed/Aaron-Berzel,de179fed,Aaron-Berz,de GER,DF
+203,Felix Bachschmid,/en/players/b1e10f34/Felix-Bachschmid,b1e10f34,Felix-Bachschmid,de GER,FW
+204,Marco Hiller,/en/players/4bf524cd/Marco-Hiller,4bf524cd,Marco-Hi,de GER,GK
+205,Uğur Mustafa Türk,/en/players/a66731be/Ugur-Mustafa-Turk,66731be,Ugur-Mustafa-Turk,tr TUR,FW
+206,Eric Weeger,/en/players/61676cd3/Eric-Weeger,61676cd3,Eric-Weeg,de GER,DF
+207,Simon Lorenz,/en/players/435f829f/Simon-Lorenz,435f829f,Simon-Lorenz,de GER,DF
+208,Herbert Paul,/en/players/5ecff769/Herbert-Paul,5ecff769,Herbert-Pau,de GER,DF
+209,Efkan Bekiroglu,/en/players/6233f5f9/Efkan-Bekiroglu,6233f5f9,Efkan-Bekiroglu,tr TUR,MF
+210,Stefan Lex,/en/players/b39c06ed/Stefan-Lex,b39c06ed,Stefan-Lex,de GER,"MF,FW"
+211,Quirin Moll,/en/players/0a12c10f/Quirin-Moll,0a12c10f,Quirin-Mo,de GER,MF
+212,Adriano Grimaldi,/en/players/8ca5bcda/Adriano-Grimaldi,8ca5bcda,Adriano-Grimaldi,de GER,"FW,MF"
+213,Marius Willsch,/en/players/d2898ff0/Marius-Willsch,d2898ff0,Marius-Willsch,de GER,MF
+214,Benjamin Kindsvater,/en/players/128d1170/Benjamin-Kindsvater,128d1170,Benjamin-Kindsvat,de GER,"MF,FW"
+215,Prince Osei Owusu,/en/players/8377ba6a/Prince-Osei-Owusu,8377ba6a,Prince-Osei-Owusu,de GER,FW
+216,Hendrik Bonmann,/en/players/03de98b7/Hendrik-Bonmann,03de98b7,Hendrik-Bonm,de GER,GK
+217,Alessandro Abruscia,/en/players/607bf437/Alessandro-Abruscia,607bf437,Alessandro-Abrusci,de GER,"MF,FW"
+218,Semi Belkahia,/en/players/7776a35b/Semi-Belkahia,7776a35b,Semi-Belkahi,de GER,DF
+219,Dennis Dressel,/en/players/45136712/Dennis-Dressel,45136712,Dennis-D,de GER,MF
+220,Kristian Böhnlein,/en/players/c8ffb010/Kristian-Bohnlein,c8ffb010,Kristian-Bohnlei,de GER,MF
+221,Severin Buchta,/en/players/484cedd1/Severin-Buchta,484cedd1,Severin-Bucht,de GER,MF
+222,Johann Hipper,/en/players/096ddbe4/Johann-Hipper,096ddbe4,Johann-Hi,de GER,GK
+223,Noel Niemann,/en/players/e0ff7614/Noel-Niemann,0ff7614,Noel-Niem,de GER,"FW,MF"
+224,Simon Seferings,/en/players/e6f33946/Simon-Seferings,6f33946,Simon-Sefering,de GER,MF
+225,Dennis Erdmann,/en/players/47d8db69/Dennis-Erdmann,47d8db69,Dennis-Erdm,de GER,DF
+226,Tim Rieder,/en/players/8f63e400/Tim-Rieder,8f63e400,Tim-Ried,de GER,"MF,DF"
+227,Leon Klassen,/en/players/570af22f/Leon-Klassen,570af22f,Leon-K,ru RUS,"MF,DF"
+228,Fabian Greilinger,/en/players/350bd5db/Fabian-Greilinger,350bd5db,Fabian-Greiling,de GER,"MF,FW"
+229,Tom Kretzschmar,/en/players/d5e53d0c/Tom-Kretzschmar,d5e53d0c,Tom-Kretzschm,de GER,GK
+230,Niklas Lang,/en/players/c490c344/Niklas-Lang,c490c344,Niklas-Lang,bb BRB,DF
+231,Stephan Salger,/en/players/c19c335b/Stephan-Salger,c19c335b,Stephan-Salg,de GER,DF
+232,Erik Tallig,/en/players/bb7b929d/Erik-Tallig,bb7b929d,Erik-Tallig,de GER,MF
+233,Merveille Biankadi,/en/players/d24e46a2/Merveille-Biankadi,d24e46a2,Merveille-Biankadi,cd COD,MF
+234,Keanu Staude,/en/players/cdaa73ee/Keanu-Staude,cdaa73ee,Keanu-Staud,de GER,MF
+235,Martin Pušić,/en/players/889b3bd7/Martin-Pusic,889b3bd7,Martin-Pusic,at AUT,"MF,FW"
+236,Johann Ngounou Djayo,/en/players/e8a9c8b3/Johann-Ngounou-Djayo,8a9c8b3,Johann-Ngounou-Djayo,de GER,MF
+237,Lorenz Knöferl,/en/players/33255288/Lorenz-Knoferl,33255288,Lorenz-Knof,de GER,FW
+238,Marco Mannhardt,/en/players/a22a12e3/Marco-Mannhardt,22a12e3,Marco-Mannhardt,de GER,MF
+239,Matthew Durrans,/en/players/68e49096/Matthew-Durrans,68e49096,Matthew-Du,eng ENG,MF
+240,Maxim Gresler,/en/players/0112e960/Maxim-Gresler,0112e960,Maxim-G,de GER,DF
+241,Marcel Bär,/en/players/a1e9a3b5/Marcel-Bar,1e9a3b5,Marcel-B,de GER,"FW,MF"
+242,Leandro Morgalla,/en/players/08273d48/Leandro-Morgalla,08273d48,Leandro-Morg,de GER,DF
+243,Kevin Goden,/en/players/25c633b0/Kevin-Goden,25c633b0,Kevin-God,de GER,"DF,MF"
+244,Tim Linsbichler,/en/players/eb47aee1/Tim-Linsbichler,b47aee1,Tim-Linsbich,at AUT,"MF,FW"
+245,Nathan Wicht,/en/players/4e0617e7/Nathan-Wicht,4e0617e7,Nathan-Wicht,ch SUI,MF
+246,Milos Cocic,/en/players/c034b13f/Milos-Cocic,c034b13f,Milos-Cocic,rs SRB,MF
+247,Alexander Freitag,/en/players/01f474b9/Alexander-Freitag,01f474b9,Alexander-Freitag,de GER,MF
+248,Julian Bell,/en/players/d73b4ad7/Julian-Bell,d73b4ad7,Julian-B,de GER,DF
+249,Székely György,/en/players/d942122d/Szekely-Gyorgy,d942122d,Szekely-Gyorg,hu HUN,GK

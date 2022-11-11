@@ -18,4 +18,4 @@ for enter_league in leagues_list:
 
     df_clubs_list = drop_duplicate(df_original=df_this_league,col_name_1="Club",col_name_2="Link",col_name_3="Club_id",col_name_4="Club_name")
 
-    df_clubs_list.to_csv(f'{league_name}_Clubs.csv')
+    df_clubs_list.to_csv(f'{league_name}_Clubs.csv', encoding='utf-8-sig')

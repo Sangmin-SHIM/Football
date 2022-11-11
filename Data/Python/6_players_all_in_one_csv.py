@@ -15,7 +15,7 @@ for enter_club in clubs_list:
     os.chdir(f'{club_name}/')
 
     df_this_club_players=pd.read_csv(f'{club_name}_Players.csv')
-    df_this_club_players=df_this_club_players[["Player","Link","Player_name(param)","Player_id(param)"]]
+    df_this_club_players=df_this_club_players[["Player","Link","Player_name","Player_id","Nationality","Position"]]
 
     df_list.append(df_this_club_players)
     print(f'{enter_club} appended !')
@@ -25,7 +25,7 @@ df_all_players = pd.concat(df_list).drop_duplicates().reset_index(drop=True)
 
 # /All-Players
 os.chdir(f'{ABSOLUTE_FILE_PLAYER_PATH}/All-Players')  
-df_all_players.to_csv("All_Players.csv")
+df_all_players.to_csv("All_Players.csv", encoding="utf-8-sig")
 print("-------------------")
 print("All Players saved !")
 print("-------------------")
