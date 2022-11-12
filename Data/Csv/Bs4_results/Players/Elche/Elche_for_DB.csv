@@ -1,0 +1,601 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Nino,es ESP,"FW,MF",41,37,0.0,10.0,2002-2003,03dc5b1f,Elche,"3,333",37.0,2.0,0.0,71.0,1.0,,Elche
+,Benja,es ESP,DF,36,36,1.0,2.0,2002-2003,f04bc5bc,Elche,"3,141",34.9,12.0,3.0,71.0,1.0,5103.0,Elche
+,Jose Velasco,,,36,34,2.0,1.0,2002-2003,,Elche,"2,869",31.9,9.0,1.0,71.0,,,Elche
+,Raul Perez,,,33,33,0.0,1.0,2002-2003,,Elche,"2,717",30.2,10.0,1.0,71.0,,,Elche
+,Curro Montoya,es ESP,MF,31,30,1.0,0.0,2002-2003,18e8059,Elche,"2,518",28.0,11.0,1.0,71.0,1.0,5104.0,Elche
+,Raúl Ivars,es ESP,FW,30,28,6.0,5.0,2002-2003,c16d1aa5,Elche,"2,464",27.4,4.0,1.0,71.0,1.0,5105.0,Elche
+,Pepelu,es ESP,MF,32,27,1.0,0.0,2002-2003,c7a2a99,Elche,"2,421",26.9,5.0,0.0,71.0,1.0,5106.0,Elche
+,José Luis Rondo,gq EQG,DF,29,23,1.0,0.0,2002-2003,75ff5751,Elche,"2,212",24.6,8.0,0.0,71.0,10.0,5107.0,Elche
+,Jorge Aizkorreta,es ESP,GK,23,23,0.0,0.0,2002-2003,fa7da1,Elche,"2,070",23.0,4.0,0.0,71.0,1.0,5108.0,Elche
+,Manolo Serrano,es ESP,MF,27,21,1.0,5.0,2002-2003,b89f1066,Elche,"1,396",15.5,3.0,1.0,71.0,1.0,5109.0,Elche
+,Miguel Melgar,es ESP,MF,23,20,5.0,3.0,2002-2003,bfa43647,Elche,"1,778",19.8,5.0,0.0,71.0,1.0,5110.0,Elche
+,Meca,es ESP,FW,30,18,3.0,8.0,2002-2003,6219c657,Elche,"1,752",19.5,4.0,0.0,71.0,1.0,5111.0,Elche
+,Toni Jiménez,es ESP,GK,18,18,0.0,0.0,2002-2003,c59ba0f4,Elche,"1,620",18.0,0.0,0.0,71.0,1.0,,Elche
+,Leandro Sena,br BRA,MF,23,18,0.0,1.0,2002-2003,1721d7af,Elche,"1,528",17.0,5.0,0.0,71.0,2.0,5112.0,Elche
+,Ricardo Cavas,es ESP,DF,18,18,0.0,0.0,2002-2003,639b2723,Elche,"1,452",16.1,8.0,1.0,71.0,1.0,,Elche
+,José Juan Luque,es ESP,MF,19,16,3.0,3.0,2002-2003,b874847,Elche,"1,402",15.6,8.0,0.0,71.0,1.0,,Elche
+,David Cuéllar,es ESP,MF,35,15,1.0,2.0,2002-2003,d386f165,Elche,"1,768",19.6,2.0,0.0,71.0,1.0,,Elche
+,Mariano Armentano,ar ARG,FW,22,14,3.0,4.0,2002-2003,5819b50b,Elche,"1,430",15.9,4.0,0.0,71.0,5.0,5113.0,Elche
+,Juan Cabrejo,es ESP,DF,14,10,0.0,0.0,2002-2003,3f2dbe00,Elche,862,9.6,4.0,0.0,71.0,1.0,5114.0,Elche
+,Sergio Santamaría,es ESP,"FW,MF",15,8,2.0,1.0,2002-2003,4795800e,Elche,856,9.5,1.0,0.0,71.0,1.0,,Elche
+,Arnal Llibert,es ESP,FW,17,7,0.0,2.0,2002-2003,6e514348,Elche,696,7.7,0.0,0.0,71.0,1.0,5115.0,Elche
+,Joaquín Bornes,es ESP,DF,3,2,0.0,0.0,2002-2003,b04bb43,Elche,186,2.1,0.0,0.0,71.0,1.0,5116.0,Elche
+,Valdes Alvaro,,,2,2,0.0,0.0,2002-2003,,Elche,108,1.2,1.0,0.0,71.0,,,Elche
+,Antonio Moreno,es ESP,DF,10,1,0.0,0.0,2002-2003,9004085d,Elche,318,3.5,0.0,0.0,71.0,1.0,,Elche
+,Loren del Pino,es ESP,MF,10,1,0.0,0.0,2002-2003,1ed3b8e,Elche,249,2.8,1.0,0.0,71.0,1.0,5117.0,Elche
+,Koldo Sarasúa,es ESP,DF,2,1,0.0,0.0,2002-2003,5d6cce88,Elche,100,1.1,0.0,0.0,71.0,1.0,5118.0,Elche
+,Garcia Gines,,,1,1,0.0,0.0,2002-2003,,Elche,90,1.0,0.0,0.0,71.0,,,Elche
+,﻿Dani Mallo,es ESP,GK,38,38,0.0,0.0,2003-2004,c965e3d0,Elche,"3,420",38.0,3.0,0.0,71.0,1.0,,Elche
+,Benja,es ESP,DF,35,35,0.0,3.0,2003-2004,f04bc5bc,Elche,"3,068",34.1,20.0,2.0,71.0,1.0,5103.0,Elche
+,Igor Taševski,rs SRB,DF,35,35,2.0,0.0,2003-2004,8a69ac47,Elche,"3,043",33.8,17.0,1.0,71.0,28.0,,Elche
+,Moisés,es ESP,FW,39,34,2.0,15.0,2003-2004,3415193,Elche,"3,052",33.9,16.0,0.0,71.0,1.0,,Elche
+,Nino,es ESP,"FW,MF",34,31,4.0,12.0,2003-2004,03dc5b1f,Elche,"2,845",31.6,3.0,0.0,71.0,1.0,,Elche
+,Jorge Otero,es ESP,DF,29,29,1.0,1.0,2003-2004,b2f887d4,Elche,"2,573",28.6,8.0,0.0,71.0,1.0,,Elche
+,Dani Tortolero,es ESP,DF,27,26,1.0,2.0,2003-2004,42481fd5,Elche,"2,194",24.4,11.0,2.0,71.0,1.0,,Elche
+,Curro Montoya,es ESP,MF,29,24,0.0,1.0,2003-2004,18e8059,Elche,"2,068",23.0,4.0,0.0,71.0,1.0,5104.0,Elche
+,Raul Perez,,,27,23,0.0,0.0,2003-2004,,Elche,"2,130",23.7,6.0,1.0,71.0,,,Elche
+,Roberto Acuña,py PAR,MF,26,23,5.0,2.0,2003-2004,8b70bf2f,Elche,"1,809",20.1,7.0,1.0,71.0,43.0,,Elche
+,Ariel Zárate,ar ARG,"FW,MF",31,20,7.0,2.0,2003-2004,9c670adf,Elche,"1,855",20.6,5.0,0.0,71.0,5.0,,Elche
+,Juan García Granero,es ESP,MF,30,19,2.0,3.0,2003-2004,febf4db0,Elche,"1,744",19.4,10.0,1.0,71.0,1.0,,Elche
+,Luis Gil Torres,es ESP,FW,21,19,3.0,1.0,2003-2004,3541486a,Elche,"1,482",16.5,4.0,0.0,71.0,1.0,,Elche
+,Jose Velasco,,,27,17,1.0,0.0,2003-2004,,Elche,"1,607",17.9,5.0,0.0,71.0,,,Elche
+,Goran Đorović,rs SRB,DF,15,14,0.0,0.0,2003-2004,1b5c999,Elche,"1,266",14.1,5.0,1.0,71.0,28.0,,Elche
+,David Cuéllar,es ESP,MF,27,13,1.0,2.0,2003-2004,d386f165,Elche,"1,311",14.6,3.0,0.0,71.0,1.0,,Elche
+,Arnal Llibert,es ESP,FW,15,10,1.0,2.0,2003-2004,6e514348,Elche,900,10.0,1.0,0.0,71.0,1.0,5115.0,Elche
+,José Manuel,es ESP,MF,18,10,1.0,0.0,2003-2004,1d6f3570,Elche,865,9.6,4.0,0.0,71.0,1.0,5119.0,Elche
+,David Darmon,,,11,10,0.0,1.0,2003-2004,,Elche,859,9.5,5.0,0.0,71.0,,,Elche
+,Raúl Ivars,es ESP,FW,15,6,0.0,0.0,2003-2004,c16d1aa5,Elche,711,7.9,1.0,0.0,71.0,1.0,5105.0,Elche
+,Nicolás Rotundo,uy URU,MF,10,5,0.0,0.0,2003-2004,2bc52c5a,Elche,524,5.8,1.0,0.0,71.0,8.0,5120.0,Elche
+,José Zahínos,es ESP,MF,6,5,0.0,1.0,2003-2004,6a78fdc0,Elche,410,4.6,1.0,1.0,71.0,1.0,,Elche
+,Kiko Torres,es ESP,MF,5,3,0.0,0.0,2003-2004,0ccd43c7,Elche,298,3.3,1.0,0.0,71.0,1.0,,Elche
+,Juan Carlos,es ESP,FW,7,3,0.0,1.0,2003-2004,dc9c9a3d,Elche,282,3.1,1.0,0.0,71.0,1.0,,Elche
+,Jorge Aizkorreta,es ESP,GK,3,3,0.0,0.0,2003-2004,fa7da1,Elche,270,3.0,1.0,0.0,71.0,1.0,5108.0,Elche
+,Juan Cabrejo,es ESP,DF,6,2,0.0,0.0,2003-2004,3f2dbe00,Elche,247,2.7,2.0,0.0,71.0,1.0,5114.0,Elche
+,José Luis Rondo,gq EQG,DF,2,2,0.0,0.0,2003-2004,75ff5751,Elche,125,1.4,1.0,0.0,71.0,10.0,5107.0,Elche
+,Meca,es ESP,FW,9,1,0.0,1.0,2003-2004,6219c657,Elche,166,1.8,0.0,0.0,71.0,1.0,5111.0,Elche
+,Fran Machado,es ESP,MF,3,1,0.0,0.0,2003-2004,285976d5,Elche,138,1.5,1.0,0.0,71.0,1.0,,Elche
+,Diego Arroyo,,,1,1,0.0,0.0,2003-2004,,Elche,90,1.0,0.0,0.0,71.0,,,Elche
+,Jaime Navarro,,,1,0,0.0,0.0,2003-2004,,Elche,45,0.5,0.0,0.0,71.0,,,Elche
+,﻿Nino,es ESP,"FW,MF",41,35,5.0,20.0,2004-2005,03dc5b1f,Elche,"3,140",34.9,2.0,0.0,71.0,1.0,,Elche
+,Alfredo,es ESP,MF,34,33,0.0,3.0,2004-2005,f150686a,Elche,"2,778",30.9,10.0,1.0,71.0,1.0,,Elche
+,Jesús Unanua,es ESP,GK,30,30,0.0,0.0,2004-2005,592fec8,Elche,"2,700",30.0,3.0,0.0,71.0,1.0,,Elche
+,Marc Bernaus,ad AND,DF,32,30,0.0,0.0,2004-2005,761ecc1f,Elche,"2,565",28.5,9.0,2.0,71.0,96.0,,Elche
+,Rubén Suárez,es ESP,MF,37,29,7.0,6.0,2004-2005,ddc6eca,Elche,"2,569",28.5,9.0,0.0,71.0,1.0,,Elche
+,David Txiki,,,34,28,1.0,2.0,2004-2005,9c1b1fe2,Elche,"2,508",27.9,10.0,0.0,71.0,,,Elche
+,Francisco Noguerol,es ESP,DF,28,27,1.0,0.0,2004-2005,73bdd0b1,Elche,"2,342",26.0,6.0,2.0,71.0,1.0,,Elche
+,Diego Trotta,ar ARG,DF,27,26,0.0,1.0,2004-2005,7ec1faf,Elche,"2,350",26.1,13.0,0.0,71.0,5.0,,Elche
+,Moisés,es ESP,FW,35,24,3.0,12.0,2004-2005,3415193,Elche,"2,248",25.0,7.0,1.0,71.0,1.0,,Elche
+,Luis Gil Torres,es ESP,FW,32,22,6.0,1.0,2004-2005,3541486a,Elche,"1,980",22.0,7.0,0.0,71.0,1.0,,Elche
+,Jorge Azkoitia,es ESP,MF,35,21,2.0,2.0,2004-2005,4ac3dade,Elche,"1,923",21.4,10.0,1.0,71.0,1.0,,Elche
+,Jesús Turiel,es ESP,MF,24,21,0.0,0.0,2004-2005,7c737496,Elche,"1,905",21.2,10.0,2.0,71.0,1.0,,Elche
+,Benja,es ESP,DF,23,20,0.0,0.0,2004-2005,f04bc5bc,Elche,"1,816",20.2,12.0,0.0,71.0,1.0,5103.0,Elche
+,Roberto Peragón,es ESP,FW,32,20,5.0,2.0,2004-2005,c1dbaa18,Elche,"1,597",17.7,8.0,0.0,71.0,1.0,,Elche
+,Igor Taševski,rs SRB,DF,18,16,3.0,0.0,2004-2005,8a69ac47,Elche,"1,516",16.8,6.0,0.0,71.0,28.0,,Elche
+,Ismael Santiago,es ESP,MF,21,16,4.0,0.0,2004-2005,59c55e77,Elche,"1,452",16.1,3.0,0.0,71.0,1.0,,Elche
+,Jorge Otero,es ESP,DF,17,15,0.0,0.0,2004-2005,b2f887d4,Elche,"1,306",14.5,4.0,0.0,71.0,1.0,,Elche
+,Unai Vergara,es ESP,DF,15,14,0.0,0.0,2004-2005,c9d08ea0,Elche,"1,211",13.5,6.0,0.0,71.0,1.0,,Elche
+,José Antonio,es ESP,DF,17,13,0.0,0.0,2004-2005,1b47d18,Elche,"1,033",11.5,7.0,0.0,71.0,1.0,5121.0,Elche
+,Willy Caballero,ar ARG,GK,10,10,0.0,0.0,2004-2005,179d516,Elche,900,10.0,0.0,0.0,71.0,5.0,,Elche
+,Pere Martí,es ESP,MF,11,6,0.0,0.0,2004-2005,f7e1f18e,Elche,605,6.7,4.0,0.0,71.0,1.0,,Elche
+,Ariel Zárate,ar ARG,"FW,MF",16,2,2.0,0.0,2004-2005,9c670adf,Elche,400,4.4,1.0,0.0,71.0,5.0,,Elche
+,Diego Arroyo,,,2,2,0.0,0.0,2004-2005,,Elche,180,2.0,1.0,0.0,71.0,,,Elche
+,Lucas Valdemarín,ar ARG,FW,5,0,0.0,0.0,2004-2005,62842bf8,Elche,126,1.4,1.0,0.0,71.0,5.0,5122.0,Elche
+,Raúl Ivars,es ESP,FW,4,0,0.0,1.0,2004-2005,c16d1aa5,Elche,65,0.7,0.0,0.0,71.0,1.0,5105.0,Elche
+,Fran Machado,es ESP,MF,1,0,0.0,0.0,2004-2005,285976d5,Elche,14,0.2,0.0,0.0,71.0,1.0,,Elche
+,﻿Nino,es ESP,"FW,MF",42,42,5.0,12.0,2005-2006,03dc5b1f,Elche,"3,780",42.0,4.0,0.0,71.0,1.0,,Elche
+,Francisco Noguerol,es ESP,DF,40,40,0.0,0.0,2005-2006,73bdd0b1,Elche,"3,555",39.5,8.0,0.0,71.0,1.0,,Elche
+,Alfredo,es ESP,MF,35,35,2.0,1.0,2005-2006,f150686a,Elche,"2,781",30.9,11.0,1.0,71.0,1.0,,Elche
+,Marc Bernaus,ad AND,DF,35,34,3.0,0.0,2005-2006,761ecc1f,Elche,"3,044",33.8,12.0,2.0,71.0,96.0,,Elche
+,Pere Martí,es ESP,MF,32,27,0.0,1.0,2005-2006,f7e1f18e,Elche,"2,540",28.2,12.0,1.0,71.0,1.0,,Elche
+,Benja,es ESP,DF,27,27,0.0,0.0,2005-2006,f04bc5bc,Elche,"2,267",25.2,15.0,0.0,71.0,1.0,5103.0,Elche
+,Jesús Unanua,es ESP,GK,25,25,0.0,0.0,2005-2006,592fec8,Elche,"2,250",25.0,1.0,0.0,71.0,1.0,,Elche
+,Raúl Martín,es ESP,MF,34,20,1.0,4.0,2005-2006,f81f6fc3,Elche,"1,897",21.1,5.0,0.0,71.0,1.0,,Elche
+,Diego Trotta,ar ARG,DF,21,19,1.0,1.0,2005-2006,7ec1faf,Elche,"1,768",19.6,9.0,0.0,71.0,5.0,,Elche
+,Alberto Ruiz,es ESP,FW,25,18,1.0,1.0,2005-2006,68d1663d,Elche,"1,448",16.1,5.0,0.0,71.0,1.0,,Elche
+,Quique Medina,es ESP,DF,21,17,0.0,0.0,2005-2006,0aa5e053,Elche,"1,276",14.2,5.0,0.0,71.0,1.0,,Elche
+,Francisco Javier Cachorro,es ESP,,28,16,3.0,1.0,2005-2006,2c18e,Elche,"1,574",17.5,6.0,0.0,71.0,1.0,,Elche
+,Sergio Aragoneses,es ESP,GK,16,16,0.0,0.0,2005-2006,8e8258f5,Elche,"1,440",16.0,0.0,0.0,71.0,1.0,,Elche
+,Raúl Ivars,es ESP,FW,25,15,3.0,3.0,2005-2006,c16d1aa5,Elche,"1,348",15.0,1.0,0.0,71.0,1.0,5105.0,Elche
+,Luis Gil Torres,es ESP,FW,31,14,2.0,1.0,2005-2006,3541486a,Elche,"1,422",15.8,4.0,0.0,71.0,1.0,,Elche
+,Rubén Suárez,es ESP,MF,23,13,3.0,5.0,2005-2006,ddc6eca,Elche,"1,330",14.8,6.0,0.0,71.0,1.0,,Elche
+,Mario Gómez Atanet,es ESP,DF,14,13,0.0,0.0,2005-2006,f8f74950,Elche,"1,150",12.8,5.0,1.0,71.0,1.0,,Elche
+,Tomasz Frankowski,pl POL,FW,14,11,1.0,8.0,2005-2006,fc24429f,Elche,989,11.0,0.0,0.0,71.0,14.0,,Elche
+,David Txiki,,,16,11,0.0,1.0,2005-2006,9c1b1fe2,Elche,960,10.7,8.0,0.0,71.0,,,Elche
+,Víctor Gomis,es ESP,DF,10,10,0.0,0.0,2005-2006,644978dc,Elche,769,8.5,0.0,0.0,71.0,1.0,5123.0,Elche
+,Roberto Peragón,es ESP,FW,16,9,0.0,1.0,2005-2006,c1dbaa18,Elche,784,8.7,3.0,0.0,71.0,1.0,,Elche
+,Philippe Toledo,fr FRA,FW,17,8,0.0,4.0,2005-2006,0d481ddb,Elche,845,9.4,1.0,0.0,71.0,4.0,5124.0,Elche
+,José Antonio,es ESP,DF,12,7,1.0,0.0,2005-2006,1b47d18,Elche,634,7.0,2.0,1.0,71.0,1.0,5121.0,Elche
+,Jaime,es ESP,DF,8,7,0.0,0.0,2005-2006,2d56c1af,Elche,624,6.9,2.0,0.0,71.0,1.0,5125.0,Elche
+,Fernando Niño,es ESP,DF,9,4,1.0,1.0,2005-2006,13cdd971,Elche,500,5.6,0.0,0.0,71.0,1.0,,Elche
+,Jaime Navarro,,,5,3,0.0,0.0,2005-2006,,Elche,312,3.5,0.0,0.0,71.0,,,Elche
+,Óscar Aparicio,,GK,1,1,0.0,0.0,2005-2006,11e7fc6,Elche,90,1.0,0.0,0.0,71.0,,,Elche
+,﻿Willy Caballero,ar ARG,GK,39,39,0.0,0.0,2006-2007,179d516,Elche,"3,510",39.0,3.0,0.0,71.0,5.0,,Elche
+,Diego Trotta,ar ARG,DF,35,33,2.0,1.0,2006-2007,7ec1faf,Elche,"2,948",32.8,13.0,0.0,71.0,5.0,,Elche
+,Pere Martí,es ESP,MF,33,33,0.0,0.0,2006-2007,f7e1f18e,Elche,"2,888",32.1,11.0,1.0,71.0,1.0,,Elche
+,Fernando Niño,es ESP,DF,33,33,0.0,2.0,2006-2007,13cdd971,Elche,"2,853",31.7,7.0,0.0,71.0,1.0,,Elche
+,Carlos Bellvís,es ESP,DF,33,30,4.0,1.0,2006-2007,fbe35ca3,Elche,"2,668",29.6,10.0,0.0,71.0,1.0,,Elche
+,Alfredo,es ESP,MF,33,26,3.0,3.0,2006-2007,f150686a,Elche,"2,139",23.8,7.0,1.0,71.0,1.0,,Elche
+,Francisco Javier Cachorro,es ESP,,39,25,5.0,2.0,2006-2007,2c18e,Elche,"2,305",25.6,6.0,1.0,71.0,1.0,,Elche
+,Gastón Casas,ar ARG,FW,28,24,2.0,12.0,2006-2007,66258864,Elche,"2,048",22.8,5.0,2.0,71.0,5.0,,Elche
+,Óscar Díaz,es ESP,"FW,MF",30,24,1.0,3.0,2006-2007,5a5ed410,Elche,"1,998",22.2,6.0,0.0,71.0,1.0,,Elche
+,Marc Bernaus,ad AND,DF,25,22,0.0,0.0,2006-2007,761ecc1f,Elche,"1,940",21.6,11.0,0.0,71.0,96.0,,Elche
+,Roberto Peragón,es ESP,FW,31,20,3.0,11.0,2006-2007,c1dbaa18,Elche,"1,836",20.4,7.0,0.0,71.0,1.0,,Elche
+,Miguel,es ESP,FW,27,19,4.0,7.0,2006-2007,3ab5e487,Elche,"1,779",19.8,4.0,0.0,71.0,1.0,,Elche
+,Fernando Fajardo,uy URU,DF,20,18,1.0,2.0,2006-2007,5d586062,Elche,"1,610",17.9,6.0,1.0,71.0,8.0,,Elche
+,Mario Gómez Atanet,es ESP,DF,19,16,0.0,0.0,2006-2007,f8f74950,Elche,"1,427",15.9,6.0,0.0,71.0,1.0,,Elche
+,Benja,es ESP,DF,20,15,0.0,0.0,2006-2007,f04bc5bc,Elche,"1,434",15.9,8.0,1.0,71.0,1.0,5103.0,Elche
+,Víctor Gomis,es ESP,DF,17,13,0.0,1.0,2006-2007,644978dc,Elche,"1,190",13.2,4.0,0.0,71.0,1.0,5123.0,Elche
+,Fabián Coelho,uy URU,MF,18,12,3.0,0.0,2006-2007,f08559ab,Elche,"1,157",12.9,5.0,0.0,71.0,8.0,5126.0,Elche
+,Raúl Martín,es ESP,MF,16,11,1.0,0.0,2006-2007,f81f6fc3,Elche,874,9.7,4.0,1.0,71.0,1.0,,Elche
+,Ruiz Juanfran,,,13,10,0.0,0.0,2006-2007,,Elche,996,11.1,4.0,1.0,71.0,,,Elche
+,Antoni Łukasiewicz,pl POL,"DF,MF",15,10,0.0,0.0,2006-2007,d08982ed,Elche,830,9.2,2.0,0.0,71.0,14.0,5127.0,Elche
+,Manolo Pérez,es ESP,MF,13,10,1.0,0.0,2006-2007,4ac8dad5,Elche,827,9.2,4.0,0.0,71.0,1.0,,Elche
+,Joaquín Calderón,es ESP,FW,18,6,0.0,1.0,2006-2007,b1ce5e80,Elche,730,8.1,0.0,0.0,71.0,1.0,5128.0,Elche
+,Yoann Bouchard,fr FRA,GK,3,3,0.0,0.0,2006-2007,04e98f43,Elche,270,3.0,0.0,0.0,71.0,4.0,5129.0,Elche
+,Douglas Rodrigues,br BRA,FW,11,2,0.0,0.0,2006-2007,924f0e66,Elche,325,3.6,1.0,1.0,71.0,2.0,5130.0,Elche
+,Rubén Suárez,es ESP,MF,8,2,0.0,0.0,2006-2007,ddc6eca,Elche,301,3.3,1.0,0.0,71.0,1.0,,Elche
+,Samuel Llorca,es ESP,DF,2,2,0.0,0.0,2006-2007,9c3d54f0,Elche,153,1.7,0.0,0.0,71.0,1.0,,Elche
+,Alberto Ruiz,es ESP,FW,3,2,0.0,0.0,2006-2007,68d1663d,Elche,147,1.6,1.0,0.0,71.0,1.0,,Elche
+,Luis Domenech,es ESP,FW,2,1,0.0,0.0,2006-2007,d9a84c0e,Elche,135,1.5,0.0,0.0,71.0,1.0,5131.0,Elche
+,﻿Carlos Bellvís,es ESP,DF,39,39,2.0,3.0,2007-2008,fbe35ca3,Elche,"3,311",36.8,15.0,0.0,71.0,1.0,,Elche
+,Willy Caballero,ar ARG,GK,38,38,0.0,0.0,2007-2008,179d516,Elche,"3,331",37.0,1.0,0.0,71.0,5.0,,Elche
+,Fernando Fajardo,uy URU,DF,39,37,1.0,2.0,2007-2008,5d586062,Elche,"3,348",37.2,7.0,0.0,71.0,8.0,,Elche
+,Samuel Llorca,es ESP,DF,30,30,0.0,1.0,2007-2008,9c3d54f0,Elche,"2,700",30.0,7.0,0.0,71.0,1.0,,Elche
+,Pere Martí,es ESP,MF,26,25,3.0,2.0,2007-2008,f7e1f18e,Elche,"2,287",25.4,8.0,0.0,71.0,1.0,,Elche
+,Juan Manuel Cobo,ar ARG,MF,30,25,3.0,4.0,2007-2008,581d65e0,Elche,"2,078",23.1,4.0,1.0,71.0,5.0,5132.0,Elche
+,Iván Amaya,es ESP,DF,24,24,0.0,1.0,2007-2008,1ed358ee,Elche,"2,160",24.0,7.0,0.0,71.0,1.0,,Elche
+,Miguel,es ESP,FW,27,24,2.0,6.0,2007-2008,3ab5e487,Elche,"1,860",20.7,3.0,1.0,71.0,1.0,,Elche
+,Raúl Fuster,es ESP,DF,26,23,0.0,0.0,2007-2008,807d26b5,Elche,"1,969",21.9,9.0,0.0,71.0,1.0,,Elche
+,Raúl Martín,es ESP,MF,23,23,3.0,4.0,2007-2008,f81f6fc3,Elche,"1,796",20.0,4.0,0.0,71.0,1.0,,Elche
+,José Vega Díez,es ESP,MF,30,22,5.0,3.0,2007-2008,c9e78e4a,Elche,"2,127",23.6,2.0,0.0,71.0,1.0,,Elche
+,Fabián Coelho,uy URU,MF,27,19,0.0,2.0,2007-2008,f08559ab,Elche,"1,578",17.5,7.0,0.0,71.0,8.0,5126.0,Elche
+,Gifton Noel-Williams,eng ENG,FW,21,19,3.0,4.0,2007-2008,27f28090,Elche,"1,539",17.1,5.0,0.0,71.0,6.0,,Elche
+,Carlos Luna,ar ARG,FW,26,15,0.0,3.0,2007-2008,cf1e978b,Elche,"1,436",16.0,1.0,0.0,71.0,5.0,5133.0,Elche
+,Diego Trotta,ar ARG,DF,16,15,0.0,1.0,2007-2008,7ec1faf,Elche,"1,358",15.1,3.0,0.0,71.0,5.0,,Elche
+,Fernando Niño,es ESP,DF,13,13,2.0,0.0,2007-2008,13cdd971,Elche,"1,170",13.0,5.0,0.0,71.0,1.0,,Elche
+,Rodri,es ESP,MF,17,12,1.0,0.0,2007-2008,329b7718,Elche,"1,103",12.3,1.0,0.0,71.0,1.0,,Elche
+,Rubén Suárez,es ESP,MF,26,11,2.0,2.0,2007-2008,ddc6eca,Elche,"1,165",12.9,3.0,0.0,71.0,1.0,,Elche
+,Víctor Sánchez,es ESP,MF,17,9,1.0,2.0,2007-2008,811bc23c,Elche,734,8.2,3.0,0.0,71.0,1.0,,Elche
+,Víctor Gomis,es ESP,DF,18,7,1.0,0.0,2007-2008,644978dc,Elche,797,8.9,1.0,0.0,71.0,1.0,5123.0,Elche
+,Iago Iglesias,es ESP,MF,12,6,1.0,1.0,2007-2008,3fc7655e,Elche,572,6.4,1.0,0.0,71.0,1.0,,Elche
+,Laurent de Palmas,fr FRA,DF,8,6,0.0,0.0,2007-2008,bd537175,Elche,544,6.0,4.0,0.0,71.0,4.0,,Elche
+,Joaquín Calderón,es ESP,FW,16,5,0.0,0.0,2007-2008,b1ce5e80,Elche,643,7.1,0.0,0.0,71.0,1.0,5128.0,Elche
+,Ignacio Segura Carrión,es ESP,,6,4,0.0,0.0,2007-2008,877f4c3e,Elche,401,4.5,1.0,0.0,71.0,1.0,,Elche
+,Joaquín Valerio,es ESP,GK,4,3,0.0,0.0,2007-2008,5969d90a,Elche,314,3.5,0.0,0.0,71.0,1.0,,Elche
+,Pecastaing Mathieu,,,3,3,0.0,0.0,2007-2008,,Elche,168,1.9,0.0,0.0,71.0,,,Elche
+,Álvaro Giménez,es ESP,"FW,MF",7,2,0.0,0.0,2007-2008,18017beb,Elche,206,2.3,1.0,0.0,71.0,1.0,,Elche
+,Óscar Díaz,es ESP,"FW,MF",14,1,0.0,2.0,2007-2008,5a5ed410,Elche,530,5.9,2.0,1.0,71.0,1.0,,Elche
+,Yoann Bouchard,fr FRA,GK,2,1,0.0,0.0,2007-2008,04e98f43,Elche,135,1.5,0.0,0.0,71.0,4.0,5129.0,Elche
+,Alberto Ruiz,es ESP,FW,2,0,0.0,1.0,2007-2008,68d1663d,Elche,35,0.4,0.0,0.0,71.0,1.0,,Elche
+,﻿Fernando Usero,es ESP,MF,40,38,1.0,5.0,2008-2009,6eab305,Elche,"3,390",37.7,5.0,0.0,71.0,1.0,,Elche
+,Willy Caballero,ar ARG,GK,38,37,0.0,0.0,2008-2009,179d516,Elche,"3,299",36.7,1.0,1.0,71.0,5.0,,Elche
+,José Acciari,ar ARG,MF,37,36,1.0,0.0,2008-2009,9e98922b,Elche,"3,077",34.2,17.0,0.0,71.0,5.0,,Elche
+,Andrés Santos,es ESP,MF,36,34,8.0,9.0,2008-2009,68ad30f,Elche,"2,937",32.6,4.0,0.0,71.0,1.0,,Elche
+,Samuel Llorca,es ESP,DF,33,33,0.0,0.0,2008-2009,9c3d54f0,Elche,"2,873",31.9,4.0,2.0,71.0,1.0,,Elche
+,Óscar Rubio Fauria,es ESP,"DF,MF",33,31,0.0,1.0,2008-2009,d220bc16,Elche,"2,829",31.4,7.0,2.0,71.0,1.0,,Elche
+,David Fuster,es ESP,MF,34,30,3.0,12.0,2008-2009,23cbf415,Elche,"2,669",29.7,6.0,0.0,71.0,1.0,,Elche
+,Raúl Fuster,es ESP,DF,31,30,0.0,3.0,2008-2009,807d26b5,Elche,"2,469",27.4,9.0,0.0,71.0,1.0,,Elche
+,Saúl,es ESP,MF,35,30,5.0,8.0,2008-2009,4a317b2,Elche,"2,447",27.2,4.0,0.0,71.0,1.0,,Elche
+,Fernando Niño,es ESP,DF,24,23,0.0,1.0,2008-2009,13cdd971,Elche,"2,033",22.6,8.0,0.0,71.0,1.0,,Elche
+,Iban Zubiaurre,es ESP,DF,23,22,0.0,1.0,2008-2009,be3e3e7e,Elche,"2,016",22.4,7.0,0.0,71.0,1.0,,Elche
+,Miguel,es ESP,FW,30,22,3.0,6.0,2008-2009,3ab5e487,Elche,"1,831",20.3,4.0,0.0,71.0,1.0,,Elche
+,Dani Benítez,es ESP,MF,29,18,4.0,2.0,2008-2009,51c34a32,Elche,"1,612",17.9,7.0,1.0,71.0,1.0,,Elche
+,Iván Amaya,es ESP,DF,17,15,1.0,0.0,2008-2009,1ed358ee,Elche,"1,400",15.6,2.0,0.0,71.0,1.0,,Elche
+,Jesús Olmo,es ESP,DF,17,14,0.0,0.0,2008-2009,cf30e13a,Elche,"1,379",15.3,6.0,1.0,71.0,1.0,,Elche
+,Ruben Perez,,,26,12,1.0,1.0,2008-2009,,Elche,"1,116",12.4,1.0,0.0,71.0,,,Elche
+,Daniel Martín,es ESP,FW,15,9,1.0,0.0,2008-2009,c8d2987f,Elche,814,9.0,2.0,1.0,71.0,1.0,,Elche
+,Iván Bolado,gq EQG,FW,22,6,2.0,2.0,2008-2009,5686e45d,Elche,725,8.1,0.0,0.0,71.0,10.0,,Elche
+,Rodri,es ESP,MF,16,6,0.0,2.0,2008-2009,329b7718,Elche,667,7.4,1.0,0.0,71.0,1.0,,Elche
+,Wakaso,gh GHA,MF,16,5,1.0,0.0,2008-2009,999908af,Elche,506,5.6,5.0,3.0,71.0,17.0,,Elche
+,Jaime,es ESP,GK,6,5,0.0,0.0,2008-2009,d7f052c3,Elche,481,5.3,0.0,0.0,71.0,1.0,,Elche
+,Juan Manuel Cobo,ar ARG,MF,13,4,1.0,0.0,2008-2009,581d65e0,Elche,363,4.0,1.0,0.0,71.0,5.0,5132.0,Elche
+,Gastón Caprari,ar ARG,FW,11,2,0.0,1.0,2008-2009,b016f997,Elche,366,4.1,2.0,0.0,71.0,5.0,5134.0,Elche
+,Laurent de Palmas,fr FRA,DF,1,0,0.0,0.0,2008-2009,bd537175,Elche,23,0.3,0.0,0.0,71.0,4.0,,Elche
+,﻿Samuel Llorca,es ESP,DF,40,39,0.0,2.0,2009-2010,9c3d54f0,Elche,"3,533",39.3,5.0,1.0,71.0,1.0,,Elche
+,Willy Caballero,ar ARG,GK,39,39,0.0,0.0,2009-2010,179d516,Elche,"3,470",38.6,2.0,2.0,71.0,5.0,,Elche
+,Jorge Molina,es ESP,FW,38,37,3.0,26.0,2009-2010,43f71e77,Elche,"3,184",35.4,5.0,1.0,71.0,1.0,,Elche
+,José Acciari,ar ARG,MF,35,32,0.0,1.0,2009-2010,9e98922b,Elche,"2,702",30.0,11.0,3.0,71.0,5.0,,Elche
+,Martí Crespí,es ESP,DF,33,31,2.0,4.0,2009-2010,bb2d18be,Elche,"2,677",29.7,14.0,0.0,71.0,1.0,,Elche
+,Juli,es ESP,MF,38,31,2.0,6.0,2009-2010,f3541f8a,Elche,"2,568",28.5,6.0,1.0,71.0,1.0,,Elche
+,Óscar Trejo,ar ARG,"FW,MF",34,27,2.0,4.0,2009-2010,fc647b34,Elche,"2,165",24.1,6.0,1.0,71.0,5.0,,Elche
+,Óscar Rubio Fauria,es ESP,"DF,MF",27,24,2.0,0.0,2009-2010,d220bc16,Elche,"2,099",23.3,5.0,2.0,71.0,1.0,,Elche
+,Wakaso,gh GHA,MF,26,24,2.0,0.0,2009-2010,999908af,Elche,"1,942",21.6,13.0,1.0,71.0,17.0,,Elche
+,Raúl Fuster,es ESP,DF,27,23,2.0,0.0,2009-2010,807d26b5,Elche,"2,163",24.0,9.0,1.0,71.0,1.0,,Elche
+,Saúl,es ESP,MF,31,23,2.0,3.0,2009-2010,4a317b2,Elche,"2,133",23.7,5.0,0.0,71.0,1.0,,Elche
+,Fernando Usero,es ESP,MF,24,21,3.0,5.0,2009-2010,6eab305,Elche,"1,892",21.0,8.0,0.0,71.0,1.0,,Elche
+,Andrés Santos,es ESP,MF,29,19,4.0,4.0,2009-2010,68ad30f,Elche,"1,676",18.6,4.0,0.0,71.0,1.0,,Elche
+,Miguel Ángel Tena,es ESP,DF,22,19,0.0,0.0,2009-2010,6389c2b,Elche,"1,633",18.1,7.0,0.0,71.0,1.0,,Elche
+,David Generelo,es ESP,MF,25,17,1.0,2.0,2009-2010,2ae48997,Elche,"1,668",18.5,7.0,0.0,71.0,1.0,,Elche
+,Adrián Ripa,es ESP,DF,17,17,1.0,0.0,2009-2010,c5a2ecfa,Elche,"1,381",15.3,9.0,0.0,71.0,1.0,,Elche
+,Ximo Navarro,es ESP,"DF,MF",18,9,1.0,0.0,2009-2010,6e3620e,Elche,"1,013",11.3,5.0,1.0,71.0,1.0,5135.0,Elche
+,José Jesús Perera,es ESP,FW,19,6,1.0,5.0,2009-2010,39a1bc8,Elche,782,8.7,1.0,0.0,71.0,1.0,,Elche
+,Thiago Carleto,br BRA,"DF,MF",6,5,0.0,2.0,2009-2010,1c50ba0b,Elche,461,5.1,4.0,0.0,71.0,2.0,,Elche
+,Jandro,es ESP,MF,9,4,0.0,2.0,2009-2010,453a1fcd,Elche,375,4.2,0.0,0.0,71.0,1.0,,Elche
+,Johann Charpenet,fr FRA,DF,6,4,0.0,0.0,2009-2010,2795fe7e,Elche,372,4.1,3.0,1.0,71.0,4.0,5136.0,Elche
+,Paco Esteban,es ESP,FW,10,2,0.0,0.0,2009-2010,7e4f04f0,Elche,259,2.9,2.0,0.0,71.0,1.0,,Elche
+,Javi Lara,es ESP,MF,9,2,1.0,0.0,2009-2010,bd1babf1,Elche,220,2.4,1.0,0.0,71.0,1.0,,Elche
+,Jaime,es ESP,GK,2,2,0.0,0.0,2009-2010,d7f052c3,Elche,180,2.0,0.0,0.0,71.0,1.0,,Elche
+,Leandro Montagud,es ESP,GK,2,1,0.0,0.0,2009-2010,48b0e9b7,Elche,120,1.3,0.0,0.0,71.0,1.0,,Elche
+,Raúl Albentosa,es ESP,DF,2,1,0.0,0.0,2009-2010,348e4809,Elche,107,1.2,0.0,0.0,71.0,1.0,,Elche
+,Jesús Olmo,es ESP,DF,2,1,0.0,0.0,2009-2010,cf30e13a,Elche,107,1.2,1.0,0.0,71.0,1.0,,Elche
+,Javi Paños,es ESP,MF,4,1,0.0,0.0,2009-2010,7eecaf98,Elche,107,1.2,1.0,0.0,71.0,1.0,5137.0,Elche
+,Patri,es ESP,MF,1,1,0.0,0.0,2009-2010,5281c162,Elche,61,0.7,0.0,0.0,71.0,1.0,,Elche
+,Rafa Gómez,es ESP,FW,8,0,0.0,0.0,2009-2010,7a2ad94,Elche,99,1.1,1.0,0.0,71.0,1.0,5138.0,Elche
+,François Obele,,FW,2,0,0.0,0.0,2009-2010,4dc9bdf,Elche,24,0.3,0.0,0.0,71.0,,,Elche
+,Josete,es ESP,DF,1,0,0.0,0.0,2009-2010,c3a79d87,Elche,9,0.1,0.0,0.0,71.0,1.0,,Elche
+,﻿Javier Carpio,es ESP,DF,35,33,1.0,0.0,2010-2011,5158c08a,Elche,"2,881",32.0,12.0,2.0,71.0,1.0,,Elche
+,Jordi Xumetra,es ESP,"FW,MF",37,30,1.0,2.0,2010-2011,3b79dbdb,Elche,"2,582",28.7,6.0,0.0,71.0,1.0,,Elche
+,Edu Albácar,es ESP,DF,30,27,0.0,3.0,2010-2011,fc8a84b8,Elche,"2,327",25.9,14.0,1.0,71.0,1.0,,Elche
+,David Generelo,es ESP,MF,30,27,6.0,3.0,2010-2011,2ae48997,Elche,"2,234",24.8,11.0,0.0,71.0,1.0,,Elche
+,Sergio Mantecón,es ESP,MF,28,26,0.0,3.0,2010-2011,71eaddb6,Elche,"2,326",25.8,10.0,0.0,71.0,1.0,,Elche
+,Kike Mateo,es ESP,MF,27,25,2.0,3.0,2010-2011,99508f00,Elche,"1,961",21.8,7.0,1.0,71.0,1.0,,Elche
+,Sergio Pelegrín,es ESP,DF,25,24,0.0,2.0,2010-2011,360782f,Elche,"2,181",24.2,10.0,0.0,71.0,1.0,,Elche
+,Miguel Palanca,es ESP,"FW,MF",30,24,6.0,4.0,2010-2011,005ade52,Elche,"2,002",22.2,12.0,0.0,71.0,1.0,74.0,Elche
+,Héctor Verdés,es ESP,DF,24,23,0.0,0.0,2010-2011,dad5a2ae,Elche,"1,932",21.5,16.0,1.0,71.0,1.0,,Elche
+,Willy Caballero,ar ARG,GK,22,22,0.0,0.0,2010-2011,179d516,Elche,"1,969",21.9,1.0,1.0,71.0,5.0,,Elche
+,José Acciari,ar ARG,MF,30,21,0.0,0.0,2010-2011,9e98922b,Elche,"2,039",22.7,14.0,0.0,71.0,5.0,,Elche
+,Adrián Ripa,es ESP,DF,25,21,0.0,0.0,2010-2011,c5a2ecfa,Elche,"1,756",19.5,5.0,2.0,71.0,1.0,,Elche
+,Samuel Llorca,es ESP,DF,21,20,2.0,0.0,2010-2011,9c3d54f0,Elche,"1,809",20.1,8.0,0.0,71.0,1.0,,Elche
+,Miguel Linares,es ESP,"FW,MF",24,19,2.0,8.0,2010-2011,3cfbf9a,Elche,"1,738",19.3,6.0,1.0,71.0,1.0,,Elche
+,Jaime,es ESP,GK,19,19,0.0,0.0,2010-2011,d7f052c3,Elche,"1,710",19.0,2.0,0.0,71.0,1.0,,Elche
+,Ángel Rodríguez,es ESP,FW,27,18,3.0,15.0,2010-2011,8cfc2f69,Elche,"1,727",19.2,3.0,0.0,71.0,1.0,,Elche
+,Xabier Etxeita,es ESP,DF,21,16,0.0,0.0,2010-2011,4a895384,Elche,"1,534",17.0,5.0,3.0,71.0,1.0,,Elche
+,Vasco Fernandes,pt POR,DF,17,12,1.0,0.0,2010-2011,4a0a3759,Elche,"1,199",13.3,6.0,1.0,71.0,3.0,,Elche
+,Wakaso,gh GHA,MF,16,12,0.0,1.0,2010-2011,999908af,Elche,"1,110",12.3,11.0,1.0,71.0,17.0,,Elche
+,Rodolfo Bodipo,gq EQG,FW,23,12,0.0,2.0,2010-2011,6cf2bc0e,Elche,"1,037",11.5,5.0,1.0,71.0,10.0,,Elche
+,David Sánchez,es ESP,MF,26,11,5.0,2.0,2010-2011,bb05af1a,Elche,"1,212",13.5,6.0,1.0,71.0,1.0,,Elche
+,José Jesús Perera,es ESP,FW,23,8,2.0,2.0,2010-2011,39a1bc8,Elche,785,8.7,4.0,0.0,71.0,1.0,,Elche
+,Cristóbal,es ESP,"DF,MF",8,7,1.0,2.0,2010-2011,81da94e5,Elche,566,6.3,2.0,0.0,71.0,1.0,,Elche
+,Andrés Santos,es ESP,MF,18,3,1.0,3.0,2010-2011,68ad30f,Elche,418,4.6,1.0,0.0,71.0,1.0,,Elche
+,Leandro Montagud,es ESP,GK,1,1,0.0,0.0,2010-2011,48b0e9b7,Elche,90,1.0,0.0,0.0,71.0,1.0,,Elche
+,Javi Paños,es ESP,MF,1,1,0.0,0.0,2010-2011,7eecaf98,Elche,90,1.0,1.0,0.0,71.0,1.0,5137.0,Elche
+,﻿Juan Carlos,es ESP,GK,38,38,0.0,0.0,2011-2012,bc5adc98,Elche,"3,420",38.0,5.0,0.0,71.0,1.0,,Elche
+,Jordi Xumetra,es ESP,"FW,MF",39,37,1.0,7.0,2011-2012,3b79dbdb,Elche,"3,169",35.2,6.0,0.0,71.0,1.0,,Elche
+,Sergio Mantecón,es ESP,MF,36,36,0.0,0.0,2011-2012,71eaddb6,Elche,"3,161",35.1,14.0,2.0,71.0,1.0,,Elche
+,Xabier Etxeita,es ESP,DF,36,35,0.0,1.0,2011-2012,4a895384,Elche,"3,178",35.3,12.0,1.0,71.0,1.0,,Elche
+,Edu Albácar,es ESP,DF,33,33,4.0,5.0,2011-2012,fc8a84b8,Elche,"2,831",31.5,13.0,2.0,71.0,1.0,,Elche
+,Ángel Rodríguez,es ESP,FW,39,32,4.0,13.0,2011-2012,8cfc2f69,Elche,"2,814",31.3,8.0,0.0,71.0,1.0,,Elche
+,Javier Flaño,es ESP,DF,28,28,0.0,0.0,2011-2012,8e9ccfb8,Elche,"2,418",26.9,9.0,2.0,71.0,1.0,,Elche
+,Nicki Bille Nielsen,dk DEN,FW,37,27,8.0,11.0,2011-2012,c0a57418,Elche,"2,454",27.3,14.0,0.0,71.0,7.0,,Elche
+,Sergio Pelegrín,es ESP,DF,28,27,0.0,4.0,2011-2012,360782f,Elche,"2,382",26.5,8.0,1.0,71.0,1.0,,Elche
+,Miguel Palanca,es ESP,"FW,MF",25,19,7.0,1.0,2011-2012,005ade52,Elche,"1,509",16.8,11.0,0.0,71.0,1.0,74.0,Elche
+,Grégory Béranger,fr FRA,DF,24,18,0.0,2.0,2011-2012,3dac0268,Elche,"1,616",18.0,7.0,2.0,71.0,4.0,,Elche
+,Javier Carpio,es ESP,DF,21,17,0.0,0.0,2011-2012,5158c08a,Elche,"1,597",17.7,5.0,1.0,71.0,1.0,,Elche
+,Jorge Luque,es ESP,MF,23,15,2.0,0.0,2011-2012,8ca3ef48,Elche,"1,406",15.6,6.0,0.0,71.0,1.0,,Elche
+,David Generelo,es ESP,MF,19,15,1.0,1.0,2011-2012,2ae48997,Elche,"1,303",14.5,7.0,1.0,71.0,1.0,,Elche
+,Héctor Rodas,es ESP,DF,15,13,0.0,2.0,2011-2012,dcdd3a95,Elche,"1,289",14.3,8.0,0.0,71.0,1.0,,Elche
+,Kike Mateo,es ESP,MF,24,13,1.0,0.0,2011-2012,99508f00,Elche,"1,131",12.6,7.0,1.0,71.0,1.0,,Elche
+,Rúper,es ESP,MF,19,12,0.0,2.0,2011-2012,570c4db3,Elche,"1,189",13.2,2.0,1.0,71.0,1.0,,Elche
+,Perico,es ESP,MF,28,11,1.0,0.0,2011-2012,1f38fcbc,Elche,"1,232",13.7,2.0,0.0,71.0,1.0,,Elche
+,José Acciari,ar ARG,MF,12,9,0.0,2.0,2011-2012,9e98922b,Elche,722,8.0,4.0,0.0,71.0,5.0,,Elche
+,Héctor Verdés,es ESP,DF,10,9,0.0,0.0,2011-2012,dad5a2ae,Elche,643,7.1,4.0,1.0,71.0,1.0,,Elche
+,Miguel Linares,es ESP,"FW,MF",16,6,1.0,3.0,2011-2012,3cfbf9a,Elche,636,7.1,1.0,0.0,71.0,1.0,,Elche
+,Cristóbal,es ESP,"DF,MF",8,5,0.0,2.0,2011-2012,81da94e5,Elche,340,3.8,0.0,0.0,71.0,1.0,,Elche
+,Leandro Montagud,es ESP,GK,4,4,0.0,0.0,2011-2012,48b0e9b7,Elche,360,4.0,0.0,0.0,71.0,1.0,,Elche
+,Luismi,es ESP,"FW,MF",9,1,0.0,0.0,2011-2012,f345089d,Elche,219,2.4,1.0,0.0,71.0,1.0,,Elche
+,Javi Paños,es ESP,MF,5,1,0.0,0.0,2011-2012,7eecaf98,Elche,133,1.5,0.0,0.0,71.0,1.0,5137.0,Elche
+,Gomis Abraham,,,1,1,0.0,0.0,2011-2012,,Elche,45,0.5,0.0,0.0,71.0,,,Elche
+,Cristian Hidalgo,es ESP,"FW,MF",7,0,0.0,0.0,2011-2012,262b9f04,Elche,122,1.4,0.0,0.0,71.0,1.0,,Elche
+,Alberto Berna Guerrero,es ESP,MF,1,0,0.0,0.0,2011-2012,d378019f,Elche,45,0.5,1.0,0.0,71.0,1.0,5139.0,Elche
+,Yeray Patiño,es ESP,MF,1,0,0.0,0.0,2011-2012,4ad3060,Elche,16,0.2,0.0,0.0,71.0,1.0,5140.0,Elche
+,Rubén Solano,es ESP,FW,1,0,0.0,0.0,2011-2012,616a9ad3,Elche,11,0.1,0.0,0.0,71.0,1.0,5141.0,Elche
+,﻿Xabier Etxeita,es ESP,DF,40,40,0.0,4.0,2012-2013,4a895384,Elche,"3,577",39.7,6.0,0.0,71.0,1.0,,Elche
+,Ferran Corominas,es ESP,"FW,MF",42,40,8.0,12.0,2012-2013,46d0c528,Elche,"3,418",38.0,3.0,0.0,71.0,1.0,,Elche
+,Fidel,es ESP,MF,40,40,5.0,4.0,2012-2013,b82b6f1,Elche,"3,229",35.9,4.0,0.0,71.0,1.0,,Elche
+,Manu Herrera,es ESP,GK,39,39,0.0,0.0,2012-2013,d2acc39,Elche,"3,510",39.0,3.0,0.0,71.0,1.0,,Elche
+,Edu Albácar,es ESP,DF,38,38,6.0,8.0,2012-2013,fc8a84b8,Elche,"3,405",37.8,15.0,0.0,71.0,1.0,,Elche
+,Alberto Rivera,es ESP,MF,38,36,0.0,0.0,2012-2013,7002b605,Elche,"3,182",35.4,11.0,1.0,71.0,1.0,,Elche
+,Sergio Pelegrín,es ESP,DF,35,35,1.0,0.0,2012-2013,360782f,Elche,"3,060",34.0,8.0,0.0,71.0,1.0,,Elche
+,Damián Suárez,uy URU,DF,33,33,4.0,1.0,2012-2013,ba5004e1,Elche,"2,947",32.7,11.0,1.0,71.0,8.0,,Elche
+,Jordi Xumetra,es ESP,"FW,MF",37,28,3.0,7.0,2012-2013,3b79dbdb,Elche,"2,305",25.6,1.0,0.0,71.0,1.0,,Elche
+,Sergio Mantecón,es ESP,MF,39,25,3.0,0.0,2012-2013,71eaddb6,Elche,"2,453",27.3,8.0,0.0,71.0,1.0,,Elche
+,Carles Gil,es ESP,"FW,MF",31,23,0.0,4.0,2012-2013,11c30a46,Elche,"2,080",23.1,4.0,0.0,71.0,1.0,,Elche
+,David Generelo,es ESP,MF,30,22,1.0,2.0,2012-2013,2ae48997,Elche,"1,984",22.0,11.0,1.0,71.0,1.0,,Elche
+,Berry Powel,nl NED,FW,23,13,1.0,3.0,2012-2013,0d9836e0,Elche,"1,050",11.7,4.0,0.0,71.0,11.0,,Elche
+,Javier Flaño,es ESP,DF,13,10,1.0,0.0,2012-2013,8e9ccfb8,Elche,995,11.1,4.0,0.0,71.0,1.0,,Elche
+,Ángel Rodríguez,es ESP,FW,15,9,0.0,4.0,2012-2013,8cfc2f69,Elche,843,9.4,2.0,1.0,71.0,1.0,,Elche
+,Héctor Verdés,es ESP,DF,11,8,0.0,0.0,2012-2013,dad5a2ae,Elche,764,8.5,1.0,0.0,71.0,1.0,,Elche
+,Aarón Ñíguez,es ESP,"FW,MF",16,8,0.0,0.0,2012-2013,5d720396,Elche,665,7.4,2.0,1.0,71.0,1.0,,Elche
+,Pelayo,es ESP,MF,26,4,0.0,1.0,2012-2013,bdda8ebd,Elche,787,8.7,5.0,0.0,71.0,1.0,,Elche
+,Miguel Palanca,es ESP,"FW,MF",16,4,0.0,0.0,2012-2013,005ade52,Elche,474,5.3,1.0,1.0,71.0,1.0,74.0,Elche
+,Diego Rivas Rego,es ESP,GK,3,3,0.0,0.0,2012-2013,c3a6fb7d,Elche,270,3.0,0.0,0.0,71.0,1.0,,Elche
+,Grégory Béranger,fr FRA,DF,7,2,0.0,0.0,2012-2013,3dac0268,Elche,173,1.9,1.0,0.0,71.0,4.0,,Elche
+,Miguel Linares,es ESP,"FW,MF",8,1,0.0,1.0,2012-2013,3cfbf9a,Elche,128,1.4,2.0,0.0,71.0,1.0,,Elche
+,Javi Flores,es ESP,MF,3,1,0.0,1.0,2012-2013,867f9ede,Elche,94,1.0,0.0,0.0,71.0,1.0,,Elche
+,Jaime Jornet,es ESP,FW,4,0,0.0,0.0,2012-2013,c5ea836f,Elche,59,0.7,2.0,0.0,71.0,1.0,5142.0,Elche
+,Sergi Enrich,es ESP,"FW,MF",1,0,0.0,0.0,2012-2013,bb4b1242,Elche,28,0.3,0.0,0.0,71.0,1.0,,Elche
+,﻿Ferran Corominas,es ESP,"FW,MF",36,33,4.0,6.0,2013-2014,46d0c528,Elche,"2,960",32.9,8.0,0.0,71.0,1.0,,Elche
+,Alberto Botía,es ESP,DF,33,33,1.0,0.0,2013-2014,7f6bff1f,Elche,"2,872",31.9,15.0,1.0,71.0,1.0,,Elche
+,Damián Suárez,uy URU,DF,31,31,1.0,1.0,2013-2014,ba5004e1,Elche,"2,758",30.6,11.0,2.0,71.0,8.0,,Elche
+,Rubén Pérez,es ESP,MF,31,31,0.0,0.0,2013-2014,3c7bc9bd,Elche,"2,706",30.1,13.0,0.0,71.0,1.0,,Elche
+,Manu Herrera,es ESP,GK,30,29,0.0,0.0,2013-2014,d2acc39,Elche,"2,625",29.2,4.0,0.0,71.0,1.0,,Elche
+,Carles Gil,es ESP,"FW,MF",33,29,3.0,1.0,2013-2014,11c30a46,Elche,"2,538",28.2,2.0,0.0,71.0,1.0,,Elche
+,David Lombán,es ESP,DF,28,26,0.0,1.0,2013-2014,b43b81f1,Elche,"2,381",26.5,3.0,0.0,71.0,1.0,,Elche
+,Carlos Sánchez,co COL,MF,30,24,1.0,0.0,2013-2014,50b51fac,Elche,"2,127",23.6,9.0,0.0,71.0,19.0,,Elche
+,Javi Márquez,es ESP,MF,29,24,1.0,2.0,2013-2014,40c7cdd2,Elche,"2,052",22.8,9.0,0.0,71.0,1.0,,Elche
+,Fidel,es ESP,MF,35,20,2.0,2.0,2013-2014,b82b6f1,Elche,"1,827",20.3,3.0,0.0,71.0,1.0,,Elche
+,Manu del Moral,es ESP,FW,24,19,1.0,2.0,2013-2014,1026f88d,Elche,"1,423",15.8,3.0,0.0,71.0,1.0,,Elche
+,Domingo Cisma,es ESP,DF,19,18,1.0,0.0,2013-2014,4d85b73c,Elche,"1,611",17.9,8.0,1.0,71.0,1.0,,Elche
+,Edu Albácar,es ESP,DF,18,18,1.0,3.0,2013-2014,fc8a84b8,Elche,"1,586",17.6,4.0,0.0,71.0,1.0,,Elche
+,Sergio Pelegrín,es ESP,DF,18,15,1.0,0.0,2013-2014,360782f,Elche,"1,407",15.6,3.0,0.0,71.0,1.0,,Elche
+,Richmond Boakye,gh GHA,FW,31,12,1.0,6.0,2013-2014,27f0fcda,Elche,"1,219",13.5,2.0,0.0,71.0,17.0,5143.0,Elche
+,Cristian Herrera,es ESP,"FW,MF",21,12,1.0,3.0,2013-2014,f814e5d3,Elche,"1,078",12.0,2.0,0.0,71.0,1.0,,Elche
+,Toño,es ESP,GK,9,9,0.0,0.0,2013-2014,2ed4ea81,Elche,795,8.8,0.0,0.0,71.0,1.0,,Elche
+,Aarón Ñíguez,es ESP,"FW,MF",22,8,1.0,1.0,2013-2014,5d720396,Elche,870,9.7,6.0,0.0,71.0,1.0,,Elche
+,Cristian Săpunaru,ro ROU,DF,8,8,0.0,1.0,2013-2014,906d58bc,Elche,656,7.3,5.0,2.0,71.0,51.0,,Elche
+,Alberto Rivera,es ESP,MF,13,6,0.0,0.0,2013-2014,7002b605,Elche,637,7.1,3.0,0.0,71.0,1.0,,Elche
+,Garry Rodrigues,cv CPV,"FW,MF",10,5,2.0,1.0,2013-2014,149895bf,Elche,544,6.0,0.0,0.0,71.0,85.0,5144.0,Elche
+,Sergio Mantecón,es ESP,MF,12,2,0.0,0.0,2013-2014,71eaddb6,Elche,371,4.1,2.0,0.0,71.0,1.0,,Elche
+,Charlie I'Anson,eng ENG,DF,2,2,0.0,0.0,2013-2014,907594ed,Elche,180,2.0,0.0,0.0,71.0,6.0,,Elche
+,Miroslav Stevanović,ba BIH,"FW,MF",3,2,0.0,0.0,2013-2014,73d430c6,Elche,120,1.3,1.0,0.0,71.0,49.0,,Elche
+,Javi Flores,es ESP,MF,1,1,0.0,0.0,2013-2014,867f9ede,Elche,71,0.8,0.0,0.0,71.0,1.0,,Elche
+,David Generelo,es ESP,MF,1,1,0.0,0.0,2013-2014,2ae48997,Elche,65,0.7,0.0,0.0,71.0,1.0,,Elche
+,Álvaro Giménez,es ESP,"FW,MF",2,0,0.0,0.0,2013-2014,18017beb,Elche,27,0.3,0.0,0.0,71.0,1.0,,Elche
+,Samu Martínez,es ESP,MF,1,0,0.0,0.0,2013-2014,3c0bf2d6,Elche,9,0.1,0.0,0.0,71.0,1.0,5145.0,Elche
+,﻿Damián Suárez,uy URU,DF,34,34,1.0,1.0,2014-2015,ba5004e1,Elche,"3,040",33.8,12.0,1.0,71.0,8.0,,Elche
+,Jonathas,br BRA,FW,34,34,7.0,14.0,2014-2015,531807b3,Elche,"3,015",33.5,11.0,1.0,71.0,2.0,,Elche
+,David Lombán,es ESP,DF,34,33,0.0,5.0,2014-2015,b43b81f1,Elche,"2,984",33.2,10.0,0.0,71.0,1.0,,Elche
+,Víctor Rodríguez,es ESP,"FW,MF",36,33,2.0,4.0,2014-2015,15781606,Elche,"2,840",31.6,5.0,0.0,71.0,1.0,,Elche
+,Enzo Roco,cl CHI,DF,32,32,1.0,0.0,2014-2015,37f827ec,Elche,"2,880",32.0,6.0,0.0,71.0,31.0,,Elche
+,Przemysław Tytoń,pl POL,GK,32,32,0.0,0.0,2014-2015,1fa85681,Elche,"2,856",31.7,1.0,1.0,71.0,14.0,,Elche
+,Fayçal Fajr,ma MAR,MF,34,29,4.0,1.0,2014-2015,79135368,Elche,"2,564",28.5,2.0,1.0,71.0,26.0,,Elche
+,Mario Pašalić,hr CRO,MF,31,26,0.0,3.0,2014-2015,599253a,Elche,"2,188",24.3,5.0,0.0,71.0,16.0,5146.0,Elche
+,Domingo Cisma,es ESP,DF,25,24,1.0,0.0,2014-2015,4d85b73c,Elche,"2,158",24.0,10.0,1.0,71.0,1.0,,Elche
+,Pedro Mosquera,es ESP,MF,25,24,1.0,1.0,2014-2015,c5fa58ea,Elche,"2,140",23.8,5.0,0.0,71.0,1.0,88.0,Elche
+,Adrián González,es ESP,MF,28,22,2.0,0.0,2014-2015,57ebd662,Elche,"1,906",21.2,8.0,0.0,71.0,1.0,,Elche
+,Garry Rodrigues,cv CPV,"FW,MF",31,16,1.0,2.0,2014-2015,149895bf,Elche,"1,559",17.3,7.0,1.0,71.0,85.0,5144.0,Elche
+,Edu Albácar,es ESP,DF,18,16,3.0,3.0,2014-2015,fc8a84b8,Elche,"1,436",16.0,7.0,0.0,71.0,1.0,,Elche
+,Aarón Ñíguez,es ESP,"FW,MF",21,15,1.0,0.0,2014-2015,5d720396,Elche,"1,161",12.9,5.0,0.0,71.0,1.0,,Elche
+,Ferran Corominas,es ESP,"FW,MF",34,14,1.0,0.0,2014-2015,46d0c528,Elche,"1,214",13.5,3.0,0.0,71.0,1.0,,Elche
+,Sergio Pelegrín,es ESP,DF,10,8,0.0,0.0,2014-2015,360782f,Elche,729,8.1,2.0,0.0,71.0,1.0,,Elche
+,José Ángel Alonso,es ESP,DF,13,8,0.0,0.0,2014-2015,1950ed97,Elche,663,7.4,6.0,0.0,71.0,1.0,,Elche
+,Cristian Herrera,es ESP,"FW,MF",26,7,0.0,1.0,2014-2015,f814e5d3,Elche,884,9.8,1.0,0.0,71.0,1.0,,Elche
+,Manu Herrera,es ESP,GK,7,6,0.0,0.0,2014-2015,d2acc39,Elche,559,6.2,0.0,0.0,71.0,1.0,,Elche
+,Álvaro Giménez,es ESP,"FW,MF",17,2,0.0,0.0,2014-2015,18017beb,Elche,390,4.3,2.0,0.0,71.0,1.0,,Elche
+,Samu Martínez,es ESP,MF,2,2,0.0,0.0,2014-2015,3c0bf2d6,Elche,180,2.0,0.0,0.0,71.0,1.0,5145.0,Elche
+,Rafa Gálvez,es ESP,"DF,MF",4,1,0.0,0.0,2014-2015,445ca2c1,Elche,122,1.4,0.0,0.0,71.0,1.0,,Elche
+,Franco Fragapane,ar ARG,"FW,MF",1,0,0.0,0.0,2014-2015,09538c47,Elche,26,0.3,0.0,0.0,71.0,5.0,5147.0,Elche
+,Mario Arqués,es ESP,MF,1,0,0.0,0.0,2014-2015,be6f10b,Elche,6,0.1,0.0,0.0,71.0,1.0,5148.0,Elche
+,José Antonio Peral,es ESP,DF,0,0,,,2014-2015,01fd9a7a,Elche,,,,,71.0,1.0,,Elche
+,Chiri,es ESP,GK,0,0,,,2014-2015,ffaed995,Elche,,,,,71.0,1.0,5149.0,Elche
+,Pol Freixanet,es ESP,GK,0,0,,,2014-2015,7478f294,Elche,,,,,71.0,1.0,5150.0,Elche
+,Moha,es ESP,FW,0,0,,,2014-2015,2a54afab,Elche,,,,,71.0,1.0,,Elche
+,Nacho Porcar,es ESP,DF,0,0,,,2014-2015,d85e003b,Elche,,,,,71.0,1.0,5151.0,Elche
+,﻿Sergio León,es ESP,FW,41,41,3.0,22.0,2015-2016,0a0cc13c,Elche,"3,477",38.6,6.0,0.0,71.0,1.0,,Elche
+,Javi Jiménez,es ESP,GK,40,40,0.0,0.0,2015-2016,9fe99e45,Elche,"3,589",39.9,3.0,1.0,71.0,1.0,,Elche
+,Mandi,es ESP,MF,35,35,1.0,0.0,2015-2016,d9c47790,Elche,"3,001",33.3,11.0,1.0,71.0,1.0,,Elche
+,Álvaro Giménez,es ESP,"FW,MF",39,34,1.0,2.0,2015-2016,18017beb,Elche,"2,959",32.9,9.0,0.0,71.0,1.0,,Elche
+,Álex Moreno,es ESP,"DF,MF",40,33,0.0,2.0,2015-2016,16e9d0ea,Elche,"2,692",29.9,4.0,0.0,71.0,1.0,,Elche
+,Lolo,es ESP,"FW,MF",31,30,1.0,0.0,2015-2016,7754566,Elche,"2,487",27.6,5.0,0.0,71.0,1.0,,Elche
+,Álex Martínez,es ESP,"DF,MF",32,29,5.0,0.0,2015-2016,1c805cf,Elche,"2,647",29.4,4.0,0.0,71.0,1.0,,Elche
+,Armando Lozano,es ESP,DF,31,29,0.0,4.0,2015-2016,2daac0b,Elche,"2,638",29.3,10.0,0.0,71.0,1.0,,Elche
+,Javier Espinosa,es ESP,MF,38,28,7.0,0.0,2015-2016,8e08d88c,Elche,"2,586",28.7,6.0,0.0,71.0,1.0,,Elche
+,Héctor,es ESP,"DF,FW",31,23,1.0,1.0,2015-2016,6294bc9d,Elche,"1,692",18.8,2.0,0.0,71.0,1.0,,Elche
+,José Antonio Caro,es ESP,DF,22,22,1.0,0.0,2015-2016,02e4da70,Elche,"1,980",22.0,4.0,0.0,71.0,1.0,,Elche
+,José Isidoro,es ESP,DF,24,21,0.0,0.0,2015-2016,bb00a819,Elche,"1,857",20.6,5.0,0.0,71.0,1.0,,Elche
+,Pelayo,es ESP,MF,25,18,0.0,2.0,2015-2016,bdda8ebd,Elche,"1,373",15.3,10.0,1.0,71.0,1.0,,Elche
+,José Ángel Alonso,es ESP,DF,17,16,0.0,1.0,2015-2016,1950ed97,Elche,"1,460",16.2,1.0,0.0,71.0,1.0,,Elche
+,Hugo Álvarez,,DF,16,15,0.0,0.0,2015-2016,87042ab8,Elche,"1,319",14.7,4.0,0.0,71.0,,,Elche
+,Ilie Sánchez,es ESP,"DF,MF",27,13,1.0,1.0,2015-2016,72979f65,Elche,"1,393",15.5,6.0,0.0,71.0,1.0,5152.0,Elche
+,Cifu,es ESP,"DF,MF",17,13,1.0,0.0,2015-2016,90f83973,Elche,"1,260",14.0,1.0,0.0,71.0,1.0,,Elche
+,Javi Noblejas,es ESP,DF,10,10,2.0,1.0,2015-2016,34d08919,Elche,826,9.2,3.0,1.0,71.0,1.0,,Elche
+,Franco Cristaldo,ar ARG,MF,18,6,0.0,1.0,2015-2016,25b26e2e,Elche,856,9.5,3.0,0.0,71.0,5.0,,Elche
+,Hugo Fraile,es ESP,"FW,MF",8,2,0.0,0.0,2015-2016,168ec9a3,Elche,262,2.9,1.0,0.0,71.0,1.0,,Elche
+,Pol Freixanet,es ESP,GK,2,2,0.0,0.0,2015-2016,7478f294,Elche,180,2.0,0.0,0.0,71.0,1.0,5150.0,Elche
+,Eldin Hadžić,ba BIH,"FW,MF",9,1,1.0,0.0,2015-2016,2e2d7785,Elche,266,3.0,0.0,0.0,71.0,49.0,,Elche
+,Samu Martínez,es ESP,MF,5,1,1.0,0.0,2015-2016,3c0bf2d6,Elche,120,1.3,1.0,0.0,71.0,1.0,5145.0,Elche
+,Nono,es ESP,MF,9,0,1.0,0.0,2015-2016,0bd57693,Elche,237,2.6,3.0,0.0,71.0,1.0,,Elche
+,Nikos Vergos,gr GRE,FW,12,0,0.0,2.0,2015-2016,8fdc41f3,Elche,202,2.2,2.0,0.0,71.0,55.0,5153.0,Elche
+,Liberto Beltrán,es ESP,FW,2,0,0.0,0.0,2015-2016,cab58ffe,Elche,62,0.7,0.0,0.0,71.0,1.0,,Elche
+,Michael Anaba,gh GHA,MF,3,0,0.0,0.0,2015-2016,c9d7d77f,Elche,28,0.3,0.0,0.0,71.0,17.0,5154.0,Elche
+,Alex Felip,es ESP,MF,2,0,0.0,0.0,2015-2016,90c022f3,Elche,26,0.3,0.0,0.0,71.0,1.0,,Elche
+,Hugo Álvarez,es ESP,DF,0,0,,,2015-2016,6f392eb8,Elche,,,,,71.0,1.0,,Elche
+,Maximiliano Amondarain,uy URU,DF,0,0,,,2015-2016,861e90f9,Elche,,,,,71.0,8.0,5155.0,Elche
+,Chiri,es ESP,GK,0,0,,,2015-2016,ffaed995,Elche,,,,,71.0,1.0,5149.0,Elche
+,Sergio Pelegrín,es ESP,DF,0,0,,,2015-2016,360782f,Elche,,,,,71.0,1.0,,Elche
+,﻿Juan Carlos,es ESP,GK,40,40,0.0,0.0,2016-2017,688b96e3,Elche,"3,600",40.0,4.0,0.0,71.0,1.0,,Elche
+,Nino,es ESP,FW,39,34,4.0,12.0,2016-2017,03dc5b1f,Elche,"3,055",33.9,4.0,1.0,71.0,1.0,,Elche
+,Pablo Hervías,es ESP,MF,40,34,8.0,2.0,2016-2017,ba5a9545,Elche,"3,045",33.8,2.0,0.0,71.0,1.0,,Elche
+,Sergio Pelegrín,es ESP,DF,33,33,0.0,2.0,2016-2017,360782f,Elche,"2,910",32.3,6.0,1.0,71.0,1.0,,Elche
+,Albert Dorca,es ESP,MF,31,31,1.0,1.0,2016-2017,01c3b68a,Elche,"2,578",28.6,6.0,0.0,71.0,1.0,,Elche
+,Álex Fernández,es ESP,MF,34,28,1.0,3.0,2016-2017,677a35,Elche,"2,355",26.2,6.0,0.0,71.0,1.0,101.0,Elche
+,Pedro,es ESP,MF,30,26,4.0,1.0,2016-2017,b642c79,Elche,"2,109",23.4,7.0,0.0,71.0,1.0,,Elche
+,Rober Correa,es ESP,DF,28,24,0.0,1.0,2016-2017,46bd3a5b,Elche,"2,164",24.0,8.0,2.0,71.0,1.0,,Elche
+,Guillermo,es ESP,FW,36,18,1.0,6.0,2016-2017,15107141,Elche,"1,815",20.2,3.0,0.0,71.0,1.0,,Elche
+,Pelayo,es ESP,MF,27,18,1.0,4.0,2016-2017,bdda8ebd,Elche,"1,700",18.9,4.0,0.0,71.0,1.0,,Elche
+,Edu Albácar,es ESP,DF,19,18,3.0,0.0,2016-2017,fc8a84b8,Elche,"1,559",17.3,7.0,2.0,71.0,1.0,,Elche
+,Luis Pérez,es ESP,DF,21,17,0.0,0.0,2016-2017,b7c04927,Elche,"1,581",17.6,0.0,0.0,71.0,1.0,,Elche
+,Andrés Túñez,ve VEN,DF,17,17,0.0,0.0,2016-2017,6520cb34,Elche,"1,524",16.9,7.0,0.0,71.0,53.0,,Elche
+,Urtzi Iriondo,es ESP,DF,19,17,0.0,0.0,2016-2017,0b3970c5,Elche,"1,511",16.8,3.0,0.0,71.0,1.0,,Elche
+,Borja Valle,es ESP,"MF,FW",17,16,1.0,4.0,2016-2017,3a6a49f7,Elche,"1,425",15.8,6.0,0.0,71.0,1.0,,Elche
+,José Ángel Alonso,es ESP,"DF,MF",20,15,1.0,1.0,2016-2017,1950ed97,Elche,"1,481",16.5,4.0,0.0,71.0,1.0,,Elche
+,Fabián Ruiz Peña,es ESP,MF,17,15,2.0,1.0,2016-2017,c0c7ff58,Elche,"1,250",13.9,4.0,0.0,71.0,1.0,,Elche
+,Armando Lozano,es ESP,DF,15,13,1.0,1.0,2016-2017,2daac0b,Elche,"1,108",12.3,5.0,0.0,71.0,1.0,,Elche
+,Javier Matilla,es ESP,MF,14,13,2.0,3.0,2016-2017,35fa45cc,Elche,"1,061",11.8,4.0,2.0,71.0,1.0,,Elche
+,Josete,es ESP,DF,16,12,0.0,0.0,2016-2017,c3a79d87,Elche,"1,031",11.5,4.0,0.0,71.0,1.0,,Elche
+,Javi Noblejas,es ESP,"DF,MF",9,8,0.0,1.0,2016-2017,34d08919,Elche,641,7.1,0.0,0.0,71.0,1.0,,Elche
+,Liberto Beltrán,es ESP,"MF,FW",19,5,1.0,0.0,2016-2017,cab58ffe,Elche,599,6.7,0.0,0.0,71.0,1.0,,Elche
+,Sory Kaba,gn GUI,FW,5,2,0.0,1.0,2016-2017,d29202c2,Elche,249,2.8,1.0,0.0,71.0,74.0,5156.0,Elche
+,Germán Parreño,es ESP,GK,2,2,0.0,0.0,2016-2017,1561cd53,Elche,180,2.0,0.0,0.0,71.0,1.0,,Elche
+,Mandi,es ESP,MF,2,2,0.0,0.0,2016-2017,d9c47790,Elche,133,1.5,0.0,0.0,71.0,1.0,,Elche
+,Hugo Fraile,es ESP,MF,7,1,0.0,1.0,2016-2017,168ec9a3,Elche,186,2.1,0.0,0.0,71.0,1.0,,Elche
+,Antonio Caballero,es ESP,MF,3,1,0.0,0.0,2016-2017,0d83be95,Elche,139,1.5,1.0,0.0,71.0,1.0,5157.0,Elche
+,Lolo,es ESP,MF,7,1,0.0,0.0,2016-2017,31c71140,Elche,130,1.4,0.0,0.0,71.0,1.0,,Elche
+,Dominique Malonga,cg CGO,FW,9,0,2.0,1.0,2016-2017,0f9288e,Elche,154,1.7,0.0,0.0,71.0,80.0,5158.0,Elche
+,Eldin Hadžić,ba BIH,"FW,MF",5,0,0.0,0.0,2016-2017,2e2d7785,Elche,129,1.4,0.0,0.0,71.0,49.0,,Elche
+,Leomar Pinto,ve VEN,MF,3,0,0.0,0.0,2016-2017,24e77a0f,Elche,56,0.6,0.0,0.0,71.0,53.0,5159.0,Elche
+,David Gómez,es ESP,GK,0,0,,,2016-2017,f7f79fef,Elche,,,,,71.0,1.0,,Elche
+,Javi Llor,es ESP,MF,0,0,,,2016-2017,971b5724,Elche,,,,,71.0,1.0,5160.0,Elche
+,Primi,es ESP,DF,0,0,,,2016-2017,b6c2ebbb,Elche,,,,,71.0,1.0,5161.0,Elche
+,﻿Iván Sánchez,es ESP,MF,4,4,0.0,0.0,2017-2018,70107d4d,Elche,370,4.1,1.0,0.0,71.0,1.0,,Elche
+,Diego Benito Rey,es ESP,MF,4,4,0.0,0.0,2017-2018,049c2adb,Elche,345,3.8,2.0,0.0,71.0,1.0,,Elche
+,Román Golobart,es ESP,DF,3,3,0.0,0.0,2017-2018,564f1536,Elche,300,3.3,2.0,0.0,71.0,1.0,,Elche
+,Edu Albácar,es ESP,DF,3,3,1.0,0.0,2017-2018,fc8a84b8,Elche,270,3.0,1.0,0.0,71.0,1.0,,Elche
+,Gonzalo Verdú,es ESP,DF,3,3,0.0,1.0,2017-2018,1c2c55fc,Elche,270,3.0,2.0,0.0,71.0,1.0,,Elche
+,Vallejo,es ESP,GK,3,3,0.0,0.0,2017-2018,9353561a,Elche,224,2.5,0.0,0.0,71.0,1.0,,Elche
+,Sory Kaba,gn GUI,FW,4,2,0.0,1.0,2017-2018,d29202c2,Elche,296,3.3,0.0,0.0,71.0,74.0,5156.0,Elche
+,Iván Calero,es ESP,"DF,MF",2,2,0.0,0.0,2017-2018,6724c5a9,Elche,210,2.3,1.0,0.0,71.0,1.0,,Elche
+,Primi,es ESP,DF,2,2,0.0,0.0,2017-2018,b6c2ebbb,Elche,210,2.3,1.0,0.0,71.0,1.0,5161.0,Elche
+,Lolo,es ESP,"FW,MF",3,2,0.0,2.0,2017-2018,7754566,Elche,196,2.2,2.0,0.0,71.0,1.0,,Elche
+,Javi Flores,es ESP,MF,3,2,0.0,0.0,2017-2018,867f9ede,Elche,195,2.2,0.0,0.0,71.0,1.0,,Elche
+,Tekio,es ESP,DF,3,2,0.0,0.0,2017-2018,4ec9c7a9,Elche,195,2.2,0.0,0.0,71.0,1.0,,Elche
+,Nino,es ESP,"FW,MF",2,2,0.0,0.0,2017-2018,03dc5b1f,Elche,180,2.0,1.0,0.0,71.0,1.0,,Elche
+,Benjamín Martínez,es ESP,FW,3,2,0.0,0.0,2017-2018,4ca76f91,Elche,171,1.9,1.0,0.0,71.0,1.0,5162.0,Elche
+,José Gabriel Peris Sornosa,es ESP,DF,2,2,1.0,0.0,2017-2018,9c0d69c,Elche,165,1.8,0.0,0.0,71.0,1.0,5163.0,Elche
+,Manuel,es ESP,MF,2,2,0.0,0.0,2017-2018,b43437c4,Elche,158,1.8,0.0,0.0,71.0,1.0,,Elche
+,Daniel Provencio,es ESP,MF,3,1,0.0,0.0,2017-2018,998d51a2,Elche,197,2.2,0.0,0.0,71.0,1.0,,Elche
+,Juanma Conesa,es ESP,GK,1,1,0.0,0.0,2017-2018,cd75f6ec,Elche,120,1.3,1.0,0.0,71.0,1.0,5164.0,Elche
+,Ernesten Lavsamba,cm CMR,MF,2,1,0.0,0.0,2017-2018,155921a0,Elche,50,0.6,0.0,0.0,71.0,36.0,5165.0,Elche
+,Gabriel Corozo,ec ECU,DF,1,1,0.0,0.0,2017-2018,902172fb,Elche,28,0.3,0.0,0.0,71.0,61.0,,Elche
+,Juan Collantes,es ESP,"FW,MF",1,0,0.0,1.0,2017-2018,d8d9186b,Elche,49,0.5,0.0,0.0,71.0,1.0,,Elche
+,José Juan Figueras,es ESP,GK,1,0,0.0,0.0,2017-2018,c7f01276,Elche,46,0.5,1.0,0.0,71.0,1.0,,Elche
+,Adrián,es ESP,DF,1,0,0.0,0.0,2017-2018,c715e04d,Elche,45,0.5,0.0,0.0,71.0,1.0,5166.0,Elche
+,﻿Gonzalo Verdú,es ESP,DF,38,38,2.0,2.0,2018-2019,1c2c55fc,Elche,"3,400",37.8,17.0,0.0,71.0,1.0,,Elche
+,Iván Sánchez,es ESP,MF,36,36,5.0,7.0,2018-2019,70107d4d,Elche,"2,959",32.9,5.0,0.0,71.0,1.0,,Elche
+,Javi Flores,es ESP,MF,37,35,3.0,1.0,2018-2019,867f9ede,Elche,"2,949",32.8,11.0,0.0,71.0,1.0,,Elche
+,Juan Cruz Armada,es ESP,DF,34,33,1.0,0.0,2018-2019,56da3ba,Elche,"2,879",32.0,8.0,2.0,71.0,1.0,,Elche
+,Nino,es ESP,"MF,FW",37,26,1.0,7.0,2018-2019,03dc5b1f,Elche,"2,304",25.6,6.0,0.0,71.0,1.0,,Elche
+,Josan,es ESP,MF,31,24,3.0,3.0,2018-2019,5b28b2f6,Elche,"2,069",23.0,2.0,1.0,71.0,1.0,,Elche
+,Neyder Lozano,co COL,DF,29,23,0.0,1.0,2018-2019,c9eb9853,Elche,"2,129",23.7,11.0,0.0,71.0,19.0,5167.0,Elche
+,Manuel,es ESP,MF,28,23,0.0,2.0,2018-2019,b43437c4,Elche,"1,958",21.8,19.0,1.0,71.0,1.0,,Elche
+,Alexander González,ve VEN,"DF,MF",24,22,5.0,1.0,2018-2019,f3a39fdd,Elche,"1,971",21.9,5.0,0.0,71.0,53.0,,Elche
+,Tekio,es ESP,DF,24,21,2.0,0.0,2018-2019,4ec9c7a9,Elche,"1,926",21.4,8.0,0.0,71.0,1.0,,Elche
+,Dani Calvo,es ESP,DF,20,20,0.0,1.0,2018-2019,dd672e1f,Elche,"1,744",19.4,5.0,0.0,71.0,1.0,,Elche
+,Édgar Badía,es ESP,GK,19,19,0.0,0.0,2018-2019,4346678,Elche,"1,710",19.0,2.0,0.0,71.0,1.0,5168.0,Elche
+,Xavi Torres,es ESP,MF,29,18,1.0,6.0,2018-2019,1b51ad2f,Elche,"1,717",19.1,6.0,0.0,71.0,1.0,,Elche
+,Sory Kaba,gn GUI,FW,20,16,0.0,8.0,2018-2019,d29202c2,Elche,"1,465",16.3,4.0,0.0,71.0,74.0,5156.0,Elche
+,José Juan Figueras,es ESP,GK,15,15,0.0,0.0,2018-2019,c7f01276,Elche,"1,350",15.0,0.0,0.0,71.0,1.0,,Elche
+,Yacine Qasmi,ma MAR,FW,15,13,4.0,2.0,2018-2019,3b3cbebb,Elche,"1,143",12.7,3.0,1.0,71.0,26.0,,Elche
+,Gonzalo Villar,es ESP,MF,15,12,1.0,0.0,2018-2019,bdc74a8f,Elche,918,10.2,6.0,0.0,71.0,1.0,,Elche
+,Borja Martínez,es ESP,MF,21,11,1.0,1.0,2018-2019,22b05c05,Elche,"1,034",11.5,4.0,0.0,71.0,1.0,,Elche
+,Karim Azamoum,fr FRA,MF,16,10,1.0,0.0,2018-2019,f71a5e,Elche,869,9.7,6.0,0.0,71.0,4.0,,Elche
+,Manu,es ESP,DF,10,8,0.0,0.0,2018-2019,b15b70b1,Elche,775,8.6,1.0,0.0,71.0,1.0,5169.0,Elche
+,Benjamín Martínez,es ESP,FW,20,7,2.0,0.0,2018-2019,4ca76f91,Elche,824,9.2,2.0,0.0,71.0,1.0,5162.0,Elche
+,Francis Uzoho,ng NGA,GK,7,7,0.0,0.0,2018-2019,cfd68aa7,Elche,630,7.0,0.0,0.0,71.0,52.0,,Elche
+,Nacho Gil,es ESP,MF,11,5,1.0,2.0,2018-2019,87ec1a2a,Elche,470,5.2,3.0,0.0,71.0,1.0,,Elche
+,Carlos Castro,es ESP,FW,13,4,0.0,3.0,2018-2019,9bf4f036,Elche,414,4.6,0.0,0.0,71.0,1.0,,Elche
+,Daniel Provencio,es ESP,MF,8,2,0.0,0.0,2018-2019,998d51a2,Elche,332,3.7,1.0,0.0,71.0,1.0,,Elche
+,Chuca,es ESP,MF,6,2,0.0,0.0,2018-2019,c4af5889,Elche,254,2.8,0.0,0.0,71.0,1.0,,Elche
+,Jesús Olmo,es ESP,DF,1,1,0.0,0.0,2018-2019,cf30e13a,Elche,90,1.0,1.0,0.0,71.0,1.0,,Elche
+,Redru,es ESP,DF,4,0,0.0,0.0,2018-2019,70a6ce32,Elche,74,0.8,0.0,0.0,71.0,1.0,,Elche
+,Alfred Planas,es ESP,FW,2,0,0.0,0.0,2018-2019,815b60a7,Elche,33,0.4,0.0,0.0,71.0,1.0,5170.0,Elche
+,Ignacio Ramon,es ESP,FW,1,0,0.0,0.0,2018-2019,ca09092,Elche,19,0.2,0.0,0.0,71.0,1.0,5171.0,Elche
+,Ivan Zotko,ua UKR,DF,1,0,0.0,0.0,2018-2019,f9daac,Elche,11,0.1,0.0,0.0,71.0,29.0,5172.0,Elche
+,Jonathan Ñíguez,es ESP,MF,1,0,0.0,0.0,2018-2019,ca791b1f,Elche,2,0.0,0.0,0.0,71.0,1.0,5173.0,Elche
+,Luis Castillo,es ESP,GK,0,0,,,2018-2019,c606191,Elche,,,,,71.0,1.0,5174.0,Elche
+,César,es ESP,MF,0,0,,,2018-2019,d88d2aed,Elche,,,,,71.0,1.0,5175.0,Elche
+,Adrián Real,es ESP,GK,0,0,,,2018-2019,2a8b26e8,Elche,,,,,71.0,1.0,5176.0,Elche
+,﻿Édgar Badía,es ESP,GK,38,38,0.0,0.0,2019-2020,4346678,Elche,"3,420",38.0,2.0,0.0,71.0,1.0,5168.0,Elche
+,Dani Calvo,es ESP,DF,37,37,1.0,1.0,2019-2020,dd672e1f,Elche,"3,285",36.5,7.0,0.0,71.0,1.0,,Elche
+,Gonzalo Verdú,es ESP,DF,36,35,2.0,3.0,2019-2020,1c2c55fc,Elche,"3,081",34.2,14.0,0.0,71.0,1.0,,Elche
+,Juan Cruz Armada,es ESP,"DF,MF",35,34,8.0,1.0,2019-2020,56da3ba,Elche,"3,036",33.7,7.0,0.0,71.0,1.0,,Elche
+,Óscar Gil,es ESP,"DF,MF",33,33,0.0,1.0,2019-2020,6652cf96,Elche,"2,748",30.5,11.0,0.0,71.0,1.0,,Elche
+,Nino,es ESP,"FW,MF",40,31,3.0,7.0,2019-2020,03dc5b1f,Elche,"2,803",31.1,2.0,0.0,71.0,1.0,,Elche
+,Fidel,es ESP,MF,38,29,7.0,9.0,2019-2020,b82b6f1,Elche,"2,535",28.2,6.0,0.0,71.0,1.0,,Elche
+,Ramón Folch,es ESP,MF,33,27,1.0,1.0,2019-2020,dc56efc9,Elche,"2,490",27.7,5.0,0.0,71.0,1.0,5177.0,Elche
+,Josan,es ESP,MF,38,26,7.0,1.0,2019-2020,5b28b2f6,Elche,"2,067",23.0,2.0,0.0,71.0,1.0,,Elche
+,Iván Sánchez,es ESP,MF,37,25,3.0,1.0,2019-2020,70107d4d,Elche,"2,417",26.9,6.0,0.0,71.0,1.0,,Elche
+,Yacine Qasmi,ma MAR,FW,24,21,1.0,7.0,2019-2020,3b3cbebb,Elche,"1,807",20.1,5.0,0.0,71.0,26.0,,Elche
+,Pere Milla,es ESP,"FW,MF",37,19,1.0,7.0,2019-2020,335039a2,Elche,"1,833",20.4,4.0,0.0,71.0,1.0,,Elche
+,Gonzalo Villar,es ESP,MF,20,19,0.0,1.0,2019-2020,bdc74a8f,Elche,"1,616",18.0,9.0,0.0,71.0,1.0,,Elche
+,Manuel,es ESP,MF,28,17,0.0,1.0,2019-2020,b43437c4,Elche,"1,526",17.0,16.0,1.0,71.0,1.0,,Elche
+,Josema,es ESP,DF,12,11,0.0,0.0,2019-2020,d3f5f4c,Elche,980,10.9,0.0,0.0,71.0,1.0,,Elche
+,Omenuke Mfulu,cd COD,MF,18,11,0.0,0.0,2019-2020,bdc14559,Elche,900,10.0,3.0,0.0,71.0,50.0,5178.0,Elche
+,Dani Escriche,es ESP,"MF,FW",16,9,1.0,3.0,2019-2020,5a36f180,Elche,845,9.4,2.0,0.0,71.0,1.0,5179.0,Elche
+,Jonathas,br BRA,FW,14,9,0.0,7.0,2019-2020,531807b3,Elche,797,8.9,4.0,0.0,71.0,2.0,,Elche
+,Tekio,es ESP,DF,14,7,0.0,0.0,2019-2020,4ec9c7a9,Elche,789,8.8,5.0,1.0,71.0,1.0,,Elche
+,Andoni López,es ESP,"DF,MF",19,7,1.0,0.0,2019-2020,fc8cb238,Elche,784,8.7,2.0,0.0,71.0,1.0,,Elche
+,Danilo Ortiz,py PAR,DF,5,5,0.0,1.0,2019-2020,fa0517cc,Elche,450,5.0,1.0,0.0,71.0,43.0,5180.0,Elche
+,Víctor Rodríguez,es ESP,MF,6,4,0.0,0.0,2019-2020,15781606,Elche,381,4.2,2.0,0.0,71.0,1.0,,Elche
+,San Román,es ESP,GK,4,4,0.0,0.0,2019-2020,f08ccd2d,Elche,360,4.0,0.0,0.0,71.0,1.0,,Elche
+,Claudio Medina,es ESP,FW,17,2,0.0,0.0,2019-2020,85c28356,Elche,399,4.4,3.0,0.0,71.0,1.0,5181.0,Elche
+,Jony Álamo,es ESP,MF,3,2,0.0,0.0,2019-2020,788be7f9,Elche,139,1.5,0.0,0.0,71.0,1.0,5182.0,Elche
+,Diego Bri,es ESP,FW,2,0,0.0,0.0,2019-2020,792aa857,Elche,21,0.2,0.0,0.0,71.0,1.0,5183.0,Elche
+,Mourad El Ghezouani,ma MAR,FW,2,0,0.0,0.0,2019-2020,1d72c7a5,Elche,10,0.1,0.0,0.0,71.0,26.0,5184.0,Elche
+,Ignacio Ramon,es ESP,FW,1,0,0.0,0.0,2019-2020,ca09092,Elche,8,0.1,0.0,0.0,71.0,1.0,5171.0,Elche
+,Lluis Andreu,es ESP,GK,0,0,,,2019-2020,9ee9b0f,Elche,,,,,71.0,1.0,5185.0,Elche
+,Gerard Barri,es ESP,DF,0,0,,,2019-2020,2fadbf51,Elche,,,,,71.0,1.0,5186.0,Elche
+,Luis Castillo,es ESP,GK,0,0,,,2019-2020,c606191,Elche,,,,,71.0,1.0,5174.0,Elche
+,César,es ESP,MF,0,0,,,2019-2020,d88d2aed,Elche,,,,,71.0,1.0,5175.0,Elche
+,Adrian Molina,es ESP,FW,0,0,,,2019-2020,cdf9aee7,Elche,,,,,71.0,1.0,5187.0,Elche
+,Ignacio Pastor,es ESP,DF,0,0,,,2019-2020,8000733,Elche,,,,,71.0,1.0,5188.0,Elche
+,Alberto Rubio,es ESP,MF,0,0,,,2019-2020,141e6ec8,Elche,,,,,71.0,1.0,5189.0,Elche
+,﻿Gonzalo Verdú,es ESP,DF,33,33,2.0,0.0,2020-2021,1c2c55fc,Elche,"2,944",32.7,11.0,0.0,71.0,1.0,,Elche
+,Raúl Guti,es ESP,MF,36,33,1.0,3.0,2020-2021,0b2c8585,Elche,"2,862",31.8,4.0,1.0,71.0,1.0,,Elche
+,Lucas Boyé,ar ARG,FW,34,32,2.0,7.0,2020-2021,d49f3e6b,Elche,"2,694",29.9,9.0,1.0,71.0,5.0,5190.0,Elche
+,Édgar Badía,es ESP,GK,30,30,0.0,0.0,2020-2021,4346678,Elche,"2,700",30.0,0.0,0.0,71.0,1.0,5168.0,Elche
+,Iván Marcone,ar ARG,MF,33,30,0.0,0.0,2020-2021,b14f755d,Elche,"2,645",29.4,10.0,1.0,71.0,5.0,5191.0,Elche
+,Fidel,es ESP,"MF,DF",30,28,3.0,6.0,2020-2021,b82b6f1,Elche,"2,396",26.6,8.0,0.0,71.0,1.0,,Elche
+,Antonio Barragán,es ESP,DF,27,26,3.0,0.0,2020-2021,487d9b09,Elche,"2,235",24.8,8.0,0.0,71.0,1.0,,Elche
+,Josan,es ESP,"MF,DF",33,24,2.0,4.0,2020-2021,5b28b2f6,Elche,"1,926",21.4,3.0,0.0,71.0,1.0,,Elche
+,Tete Morente,es ESP,MF,30,23,5.0,2.0,2020-2021,004d185e,Elche,"2,019",22.4,5.0,0.0,71.0,1.0,,Elche
+,Pere Milla,es ESP,"FW,MF",32,22,3.0,4.0,2020-2021,335039a2,Elche,"1,981",22.0,6.0,0.0,71.0,1.0,,Elche
+,Josema,es ESP,DF,29,21,1.0,0.0,2020-2021,d3f5f4c,Elche,"1,966",21.8,3.0,0.0,71.0,1.0,,Elche
+,Dani Calvo,es ESP,DF,23,19,0.0,2.0,2020-2021,dd672e1f,Elche,"1,779",19.8,3.0,0.0,71.0,1.0,,Elche
+,Diego González,es ESP,DF,19,15,0.0,1.0,2020-2021,4ac7608e,Elche,"1,280",14.2,5.0,0.0,71.0,1.0,,Elche
+,Johan Mojica,co COL,DF,17,14,0.0,0.0,2020-2021,608f2092,Elche,"1,204",13.4,3.0,0.0,71.0,19.0,,Elche
+,Emiliano Rigoni,ar ARG,MF,23,12,1.0,1.0,2020-2021,1216563,Elche,"1,139",12.7,5.0,0.0,71.0,5.0,5192.0,Elche
+,Guido Carrillo,ar ARG,FW,21,11,2.0,3.0,2020-2021,8f898ba8,Elche,"1,002",11.1,3.0,0.0,71.0,5.0,5193.0,Elche
+,Omenuke Mfulu,cd COD,MF,20,9,0.0,0.0,2020-2021,bdc14559,Elche,789,8.8,4.0,0.0,71.0,50.0,5178.0,Elche
+,Helibelton Palacios,co COL,DF,11,8,0.0,0.0,2020-2021,c8b2421,Elche,743,8.3,0.0,0.0,71.0,19.0,5194.0,Elche
+,Paulo Gazzaniga,ar ARG,GK,8,8,0.0,0.0,2020-2021,63d17038,Elche,720,8.0,3.0,0.0,71.0,5.0,,Elche
+,Juan Sánchez Miño,ar ARG,"DF,MF",9,5,0.0,0.0,2020-2021,3ae7e4ea,Elche,495,5.5,2.0,0.0,71.0,5.0,5195.0,Elche
+,Cifu,es ESP,DF,11,4,0.0,0.0,2020-2021,90f83973,Elche,451,5.0,1.0,0.0,71.0,1.0,,Elche
+,Pablo Piatti,ar ARG,"MF,FW",9,3,0.0,0.0,2020-2021,48e89655,Elche,361,4.0,1.0,0.0,71.0,5.0,,Elche
+,Víctor Rodríguez,es ESP,MF,16,2,0.0,0.0,2020-2021,15781606,Elche,426,4.7,1.0,0.0,71.0,1.0,,Elche
+,Luismi,es ESP,"MF,DF",11,2,0.0,0.0,2020-2021,c2cfbfc9,Elche,168,1.9,0.0,0.0,71.0,1.0,,Elche
+,Jony Álamo,es ESP,MF,1,1,0.0,0.0,2020-2021,788be7f9,Elche,73,0.8,0.0,0.0,71.0,1.0,5182.0,Elche
+,Youssouf Koné,ml MLI,"DF,MF",3,1,0.0,0.0,2020-2021,6eadfb8,Elche,73,0.8,0.0,0.0,71.0,12.0,5196.0,Elche
+,John Donald,es ESP,"DF,MF",2,1,0.0,0.0,2020-2021,5e95c000,Elche,50,0.6,0.0,0.0,71.0,1.0,5197.0,Elche
+,Jeison Lucumí,co COL,MF,2,1,0.0,0.0,2020-2021,8abefbcf,Elche,49,0.5,0.0,0.0,71.0,19.0,5198.0,Elche
+,Nino,es ESP,"FW,MF",16,0,0.0,0.0,2020-2021,03dc5b1f,Elche,284,3.2,1.0,0.0,71.0,1.0,,Elche
+,Ramón Folch,es ESP,MF,1,0,0.0,0.0,2020-2021,dc56efc9,Elche,1,0.0,0.0,0.0,71.0,1.0,5177.0,Elche
+,Lluis Andreu,es ESP,GK,0,0,,,2020-2021,9ee9b0f,Elche,,,,,71.0,1.0,5185.0,Elche
+,Gerard Barri,es ESP,DF,0,0,,,2020-2021,2fadbf51,Elche,,,,,71.0,1.0,5186.0,Elche
+,Diego Bri,es ESP,FW,0,0,,,2020-2021,792aa857,Elche,,,,,71.0,1.0,5183.0,Elche
+,Luis Castillo,es ESP,GK,0,0,,,2020-2021,c606191,Elche,,,,,71.0,1.0,5174.0,Elche
+,César,es ESP,MF,0,0,,,2020-2021,d88d2aed,Elche,,,,,71.0,1.0,5175.0,Elche
+,Cheikh Diamanka,es ESP,DF,0,0,,,2020-2021,804b94d7,Elche,,,,,71.0,1.0,5199.0,Elche
+,Mourad El Ghezouani,ma MAR,FW,0,0,,,2020-2021,1d72c7a5,Elche,,,,,71.0,26.0,5184.0,Elche
+,Diego Matías Rodríguez,ar ARG,GK,0,0,,,2020-2021,19f4d2c0,Elche,,,,,71.0,5.0,5200.0,Elche
+,Claudio Medina,es ESP,FW,0,0,,,2020-2021,85c28356,Elche,,,,,71.0,1.0,5181.0,Elche
+,Ignacio Pastor,es ESP,DF,0,0,,,2020-2021,8000733,Elche,,,,,71.0,1.0,5188.0,Elche
+,José Salinas,es ESP,DF,0,0,,,2020-2021,2c82c766,Elche,,,,,71.0,1.0,5201.0,Elche
+,﻿Johan Mojica,co COL,DF,33,32,5.0,2.0,2021-2022,608f2092,Elche,"2,855",31.7,4.0,1.0,71.0,19.0,,Elche
+,Omar Mascarell,es ESP,MF,32,30,0.0,0.0,2021-2022,11fd2b75,Elche,"2,493",27.7,6.0,0.0,71.0,1.0,113.0,Elche
+,Enzo Roco,cl CHI,DF,30,29,0.0,1.0,2021-2022,37f827ec,Elche,"2,552",28.4,10.0,0.0,71.0,31.0,,Elche
+,Fidel,es ESP,MF,33,29,6.0,5.0,2021-2022,b82b6f1,Elche,"2,261",25.1,9.0,0.0,71.0,1.0,,Elche
+,Édgar Badía,es ESP,GK,24,24,0.0,0.0,2021-2022,4346678,Elche,"2,160",24.0,2.0,0.0,71.0,1.0,5168.0,Elche
+,Helibelton Palacios,co COL,DF,26,22,0.0,0.0,2021-2022,c8b2421,Elche,"1,931",21.5,6.0,0.0,71.0,19.0,5194.0,Elche
+,Lucas Boyé,ar ARG,FW,24,22,3.0,7.0,2021-2022,d49f3e6b,Elche,"1,713",19.0,3.0,0.0,71.0,5.0,5190.0,Elche
+,Gerard Gumbau,es ESP,MF,31,20,4.0,0.0,2021-2022,c454a4f,Elche,"1,890",21.0,8.0,1.0,71.0,1.0,,Elche
+,Diego González,es ESP,DF,28,19,0.0,0.0,2021-2022,4ac7608e,Elche,"1,793",19.9,3.0,1.0,71.0,1.0,,Elche
+,Pedro Bigas,es ESP,DF,19,19,0.0,1.0,2021-2022,697295b1,Elche,"1,551",17.2,6.0,0.0,71.0,1.0,,Elche
+,Tete Morente,es ESP,MF,32,18,3.0,3.0,2021-2022,004d185e,Elche,"1,632",18.1,4.0,0.0,71.0,1.0,,Elche
+,Pere Milla,es ESP,"MF,FW",32,17,3.0,8.0,2021-2022,335039a2,Elche,"1,644",18.3,4.0,0.0,71.0,1.0,,Elche
+,Raúl Guti,es ESP,MF,31,17,0.0,0.0,2021-2022,0b2c8585,Elche,"1,627",18.1,4.0,1.0,71.0,1.0,,Elche
+,Gonzalo Verdú,es ESP,DF,19,16,0.0,0.0,2021-2022,1c2c55fc,Elche,"1,397",15.5,11.0,0.0,71.0,1.0,,Elche
+,Lucas Pérez,es ESP,FW,18,16,1.0,2.0,2021-2022,300ac7e,Elche,"1,266",14.1,0.0,0.0,71.0,1.0,,Elche
+,Kiko Casilla,es ESP,GK,14,14,0.0,0.0,2021-2022,58bc7d18,Elche,"1,260",14.0,3.0,0.0,71.0,1.0,136.0,Elche
+,Antonio Barragán,es ESP,DF,16,12,0.0,0.0,2021-2022,487d9b09,Elche,"1,020",11.3,5.0,0.0,71.0,1.0,,Elche
+,Guido Carrillo,ar ARG,FW,29,11,0.0,2.0,2021-2022,8f898ba8,Elche,"1,168",13.0,3.0,0.0,71.0,5.0,5193.0,Elche
+,Josan,es ESP,"DF,MF",31,10,3.0,2.0,2021-2022,5b28b2f6,Elche,"1,211",13.5,2.0,0.0,71.0,1.0,,Elche
+,Iván Marcone,ar ARG,MF,20,10,0.0,0.0,2021-2022,b14f755d,Elche,809,9.0,5.0,0.0,71.0,5.0,5191.0,Elche
+,Darío Benedetto,ar ARG,"FW,MF",14,6,1.0,2.0,2021-2022,bef0a7ac,Elche,590,6.6,1.0,0.0,71.0,5.0,5202.0,Elche
+,Javier Pastore,ar ARG,"MF,FW",13,6,0.0,0.0,2021-2022,881ef58c,Elche,525,5.8,2.0,1.0,71.0,5.0,5203.0,Elche
+,Ezequiel Ponce,ar ARG,FW,13,5,0.0,1.0,2021-2022,ccbbe661,Elche,667,7.4,1.0,1.0,71.0,5.0,,Elche
+,Kike Pérez,es ESP,"MF,FW",12,5,0.0,2.0,2021-2022,237a3851,Elche,519,5.8,1.0,0.0,71.0,1.0,,Elche
+,Pablo Piatti,ar ARG,"MF,FW",10,3,0.0,0.0,2021-2022,48e89655,Elche,312,3.5,0.0,0.0,71.0,5.0,,Elche
+,Lucas Olaza,uy URU,DF,5,3,0.0,1.0,2021-2022,4cee5954,Elche,295,3.3,1.0,0.0,71.0,8.0,,Elche
+,John Donald,es ESP,DF,2,2,0.0,0.0,2021-2022,5e95c000,Elche,180,2.0,0.0,0.0,71.0,1.0,5197.0,Elche
+,Josema,es ESP,DF,6,1,0.0,0.0,2021-2022,d3f5f4c,Elche,183,2.0,0.0,0.0,71.0,1.0,,Elche
+,Jony Álamo,es ESP,MF,0,0,,,2021-2022,788be7f9,Elche,,,,,71.0,1.0,5182.0,Elche
+,Lluis Andreu,es ESP,GK,0,0,,,2021-2022,9ee9b0f,Elche,,,,,71.0,1.0,5185.0,Elche
+,Sergio Bono Juan,es ESP,DF,0,0,,,2021-2022,73776f8d,Elche,,,,,71.0,1.0,5204.0,Elche
+,Diego Bri,es ESP,FW,0,0,,,2021-2022,792aa857,Elche,,,,,71.0,1.0,5183.0,Elche
+,César,es ESP,MF,0,0,,,2021-2022,d88d2aed,Elche,,,,,71.0,1.0,5175.0,Elche
+,José Friaza,es ESP,FW,0,0,,,2021-2022,c1c3e5e6,Elche,,,,,71.0,1.0,5205.0,Elche
+,Jesús López,es ESP,GK,0,0,,,2021-2022,20b73779,Elche,,,,,71.0,1.0,5206.0,Elche
+,Marco Soler,es ESP,DF,0,0,,,2021-2022,f188f017,Elche,,,,,71.0,1.0,5207.0,Elche
+,Axel Werner,ar ARG,GK,0,0,,,2021-2022,c0b1a6da,Elche,,,,,71.0,5.0,,Elche

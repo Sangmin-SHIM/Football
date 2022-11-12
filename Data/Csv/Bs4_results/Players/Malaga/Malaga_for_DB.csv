@@ -1,0 +1,635 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Pedro Contreras,es ESP,GK,36,36,0.0,0.0,2002-2003,7d21afdb,Malaga,"3,132",34.8,0.0,2.0,49.0,1.0,,Malaga
+,Fernando Sanz,es ESP,DF,35,35,0.0,1.0,2002-2003,d23f0cc6,Malaga,"3,150",35.0,10.0,1.0,49.0,1.0,2292.0,Malaga
+,Vicente Valcarce,es ESP,DF,35,35,3.0,0.0,2002-2003,1fecb68c,Malaga,"2,935",32.6,7.0,0.0,49.0,1.0,2293.0,Malaga
+,Kiki Musampa,nl NED,"FW,MF",35,34,4.0,8.0,2002-2003,4095895b,Malaga,"2,938",32.6,5.0,0.0,49.0,11.0,,Malaga
+,Mikel Roteta,es ESP,DF,33,33,0.0,2.0,2002-2003,05ec1ccf,Malaga,"2,960",32.9,14.0,0.0,49.0,1.0,2294.0,Malaga
+,Josemi,es ESP,DF,32,32,2.0,0.0,2002-2003,85dd0fc,Malaga,"2,777",30.9,13.0,1.0,49.0,1.0,,Malaga
+,Julio Dely Valdés,pa PAN,FW,33,31,2.0,10.0,2002-2003,16753970,Malaga,"2,607",29.0,3.0,0.0,49.0,89.0,2295.0,Malaga
+,Darío Silva,uy URU,FW,28,28,4.0,10.0,2002-2003,1efa0295,Malaga,"2,411",26.8,11.0,2.0,49.0,8.0,,Malaga
+,Marcelo Romero,uy URU,MF,29,28,0.0,2.0,2002-2003,679ff318,Malaga,"2,316",25.7,12.0,2.0,49.0,8.0,2296.0,Malaga
+,Gerardo,es ESP,"DF,MF",28,28,3.0,1.0,2002-2003,07c345de,Malaga,"2,270",25.2,8.0,0.0,49.0,1.0,,Malaga
+,Sandro,es ESP,MF,35,24,7.0,0.0,2002-2003,9c890cc8,Malaga,"2,005",22.3,11.0,1.0,49.0,1.0,2297.0,Malaga
+,Manu Sánchez,es ESP,"FW,MF",36,23,2.0,6.0,2002-2003,248b0b19,Malaga,"2,272",25.2,5.0,0.0,49.0,1.0,2298.0,Malaga
+,Miguel Ángel,es ESP,MF,30,16,0.0,0.0,2002-2003,7542ce83,Malaga,"1,482",16.5,9.0,0.0,49.0,1.0,,Malaga
+,Raúl Iznata,es ESP,DF,13,6,0.0,0.0,2002-2003,3b706127,Malaga,629,7.0,2.0,0.0,49.0,1.0,2299.0,Malaga
+,Litos,pt POR,DF,7,6,0.0,0.0,2002-2003,968afd3b,Malaga,550,6.1,2.0,1.0,49.0,3.0,2300.0,Malaga
+,Manuel Canabal,es ESP,FW,20,5,1.0,2.0,2002-2003,3baf8fb9,Malaga,658,7.3,1.0,0.0,49.0,1.0,2301.0,Malaga
+,Roberto Rojas,es ESP,DF,9,5,0.0,0.0,2002-2003,4d3bb679,Malaga,559,6.2,1.0,1.0,49.0,1.0,2302.0,Malaga
+,Ivan Leko,hr CRO,MF,22,3,2.0,0.0,2002-2003,11808853,Malaga,559,6.2,0.0,0.0,49.0,16.0,2303.0,Malaga
+,Francesc Arnau,es ESP,GK,3,2,0.0,0.0,2002-2003,23ab8dc9,Malaga,231,2.6,0.0,0.0,49.0,1.0,2304.0,Malaga
+,Bravo,es ESP,DF,3,2,0.0,0.0,2002-2003,2fcd97a4,Malaga,217,2.4,1.0,0.0,49.0,1.0,2305.0,Malaga
+,Nacho,es ESP,"DF,MF",4,2,0.0,0.0,2002-2003,07537011,Malaga,142,1.6,0.0,0.0,49.0,1.0,,Malaga
+,Koke,es ESP,FW,6,1,0.0,1.0,2002-2003,9ce4fff8,Malaga,178,2.0,0.0,0.0,49.0,1.0,2306.0,Malaga
+,Perico,es ESP,MF,1,1,0.0,0.0,2002-2003,1f38fcbc,Malaga,86,1.0,0.0,0.0,49.0,1.0,2307.0,Malaga
+,Edgar Pacheco,pt POR,FW,5,1,0.0,0.0,2002-2003,70c4ab5,Malaga,82,0.9,0.0,0.0,49.0,3.0,2308.0,Malaga
+,Rafa,es ESP,GK,1,0,0.0,0.0,2002-2003,6198207,Malaga,58,0.6,0.0,0.0,49.0,1.0,2309.0,Malaga
+,Juanito,es ESP,"DF,MF",4,0,0.0,0.0,2002-2003,47176127,Malaga,34,0.4,0.0,0.0,49.0,1.0,,Malaga
+,Alberto Aguilar,es ESP,"DF,MF",1,0,0.0,0.0,2002-2003,1627a,Malaga,25,0.3,0.0,0.0,49.0,1.0,2310.0,Malaga
+,Javier Dopico,es ESP,MF,1,0,0.0,0.0,2002-2003,c759bffa,Malaga,17,0.2,0.0,0.0,49.0,1.0,2311.0,Malaga
+,Paco Esteban,es ESP,FW,1,0,0.0,0.0,2002-2003,7e4f04f0,Malaga,17,0.2,0.0,0.0,49.0,1.0,2312.0,Malaga
+,Ador,es ESP,FW,1,0,0.0,0.0,2002-2003,cb37cfb5,Malaga,4,0.0,0.0,0.0,49.0,1.0,2313.0,Malaga
+,Alexandre Geijo,es ESP,FW,1,0,0.0,0.0,2002-2003,c0787e61,Malaga,4,0.0,0.0,0.0,49.0,1.0,,Malaga
+,﻿Josemi,es ESP,DF,37,37,0.0,0.0,2003-2004,85dd0fc,Malaga,"3,256",36.2,11.0,0.0,49.0,1.0,,Malaga
+,Miguel Ángel,es ESP,MF,35,34,0.0,3.0,2003-2004,7542ce83,Malaga,"3,006",33.4,8.0,0.0,49.0,1.0,,Malaga
+,Salva Ballesta,es ESP,FW,34,34,4.0,19.0,2003-2004,bd42bcb8,Malaga,"2,956",32.8,4.0,0.0,49.0,1.0,,Malaga
+,Litos,pt POR,DF,34,34,0.0,2.0,2003-2004,968afd3b,Malaga,"2,851",31.7,12.0,0.0,49.0,3.0,2300.0,Malaga
+,Duda,pt POR,"DF,FW",35,34,8.0,3.0,2003-2004,13d41642,Malaga,"2,779",30.9,11.0,1.0,49.0,3.0,,Malaga
+,Vicente Valcarce,es ESP,DF,32,32,0.0,0.0,2003-2004,1fecb68c,Malaga,"2,705",30.1,9.0,1.0,49.0,1.0,2293.0,Malaga
+,Edgar Pacheco,pt POR,FW,34,32,6.0,1.0,2003-2004,70c4ab5,Malaga,"2,655",29.5,3.0,0.0,49.0,3.0,2308.0,Malaga
+,Gerardo,es ESP,"DF,MF",33,26,3.0,0.0,2003-2004,07c345de,Malaga,"2,283",25.4,8.0,0.0,49.0,1.0,,Malaga
+,Fernando Sanz,es ESP,DF,28,26,1.0,2.0,2003-2004,d23f0cc6,Malaga,"2,282",25.4,10.0,0.0,49.0,1.0,2292.0,Malaga
+,Marcelo Romero,uy URU,MF,25,22,0.0,1.0,2003-2004,679ff318,Malaga,"1,942",21.6,11.0,0.0,49.0,8.0,2296.0,Malaga
+,Francesc Arnau,es ESP,GK,21,20,0.0,0.0,2003-2004,23ab8dc9,Malaga,"1,825",20.3,3.0,1.0,49.0,1.0,2304.0,Malaga
+,Juan Calatayud,es ESP,GK,18,18,0.0,0.0,2003-2004,f1714283,Malaga,"1,595",17.7,0.0,0.0,49.0,1.0,,Malaga
+,Ivan Leko,hr CRO,MF,22,16,0.0,2.0,2003-2004,11808853,Malaga,"1,563",17.4,4.0,0.0,49.0,16.0,2303.0,Malaga
+,Federico Insúa,ar ARG,MF,31,15,3.0,3.0,2003-2004,42290c99,Malaga,"1,436",16.0,2.0,0.0,49.0,5.0,2314.0,Malaga
+,Manu Sánchez,es ESP,"FW,MF",27,14,3.0,1.0,2003-2004,248b0b19,Malaga,"1,326",14.7,6.0,0.0,49.0,1.0,2298.0,Malaga
+,Diego Alonso,uy URU,FW,23,6,1.0,6.0,2003-2004,21a7914b,Malaga,733,8.1,0.0,0.0,49.0,8.0,2315.0,Malaga
+,Juanito,es ESP,"DF,MF",8,6,0.0,1.0,2003-2004,47176127,Malaga,595,6.6,2.0,0.0,49.0,1.0,,Malaga
+,Roberto Rojas,es ESP,DF,10,6,0.0,0.0,2003-2004,4d3bb679,Malaga,556,6.2,5.0,0.0,49.0,1.0,2302.0,Malaga
+,Manuel Canabal,es ESP,FW,20,4,1.0,4.0,2003-2004,3baf8fb9,Malaga,731,8.1,1.0,0.0,49.0,1.0,2301.0,Malaga
+,José Juan Luque,es ESP,MF,11,1,2.0,2.0,2003-2004,b874847,Malaga,280,3.1,0.0,0.0,49.0,1.0,2316.0,Malaga
+,Juan Rodríguez,es ESP,MF,2,1,0.0,0.0,2003-2004,25c3c939,Malaga,79,0.9,0.0,0.0,49.0,1.0,,Malaga
+,Alexis,es ESP,DF,3,0,0.0,0.0,2003-2004,db0cd1ae,Malaga,39,0.4,0.0,0.0,49.0,1.0,,Malaga
+,Alexandre Geijo,es ESP,FW,1,0,0.0,0.0,2003-2004,c0787e61,Malaga,37,0.4,0.0,0.0,49.0,1.0,,Malaga
+,Raúl Iznata,es ESP,DF,1,0,0.0,0.0,2003-2004,3b706127,Malaga,16,0.2,0.0,0.0,49.0,1.0,2299.0,Malaga
+,﻿Vicente Valcarce,es ESP,DF,36,36,1.0,1.0,2004-2005,1fecb68c,Malaga,"3,212",35.7,8.0,0.0,49.0,1.0,2293.0,Malaga
+,Fernando Sanz,es ESP,DF,36,36,0.0,1.0,2004-2005,d23f0cc6,Malaga,"3,172",35.2,8.0,0.0,49.0,1.0,2292.0,Malaga
+,Juanito,es ESP,"DF,MF",35,35,1.0,1.0,2004-2005,47176127,Malaga,"3,001",33.3,12.0,0.0,49.0,1.0,,Malaga
+,Miguel Ángel,es ESP,MF,35,35,5.0,3.0,2004-2005,7542ce83,Malaga,"2,989",33.2,9.0,1.0,49.0,1.0,,Malaga
+,Duda,pt POR,"DF,FW",35,32,6.0,4.0,2004-2005,13d41642,Malaga,"2,714",30.2,8.0,1.0,49.0,3.0,,Malaga
+,Gerardo,es ESP,"DF,MF",32,31,3.0,1.0,2004-2005,07c345de,Malaga,"2,841",31.6,9.0,1.0,49.0,1.0,,Malaga
+,Marcelo Romero,uy URU,MF,29,26,1.0,0.0,2004-2005,679ff318,Malaga,"2,193",24.4,10.0,2.0,49.0,8.0,2296.0,Malaga
+,César Navas,es ESP,DF,21,21,0.0,1.0,2004-2005,9f7ceb30,Malaga,"1,890",21.0,6.0,1.0,49.0,1.0,2317.0,Malaga
+,Francesc Arnau,es ESP,GK,20,20,0.0,0.0,2004-2005,23ab8dc9,Malaga,"1,800",20.0,1.0,0.0,49.0,1.0,2304.0,Malaga
+,Edgar Pacheco,pt POR,FW,28,19,1.0,3.0,2004-2005,70c4ab5,Malaga,"1,650",18.3,2.0,1.0,49.0,3.0,2308.0,Malaga
+,Juan Calatayud,es ESP,GK,18,18,0.0,0.0,2004-2005,f1714283,Malaga,"1,620",18.0,2.0,0.0,49.0,1.0,,Malaga
+,Juan Rodríguez,es ESP,MF,27,17,0.0,5.0,2004-2005,25c3c939,Malaga,"1,590",17.7,7.0,0.0,49.0,1.0,,Malaga
+,Márcio Amoroso,br BRA,FW,29,17,2.0,5.0,2004-2005,1e1bf801,Malaga,"1,570",17.4,4.0,1.0,49.0,2.0,2318.0,Malaga
+,Fernando Baiano,br BRA,FW,17,17,1.0,9.0,2004-2005,253f2715,Malaga,"1,271",14.1,1.0,0.0,49.0,2.0,,Malaga
+,Paulo Wanchope,cr CRC,FW,25,14,2.0,5.0,2004-2005,3ab888b3,Malaga,"1,449",16.1,4.0,0.0,49.0,22.0,2319.0,Malaga
+,Alexis,es ESP,DF,13,12,1.0,0.0,2004-2005,db0cd1ae,Malaga,"1,088",12.1,7.0,1.0,49.0,1.0,,Malaga
+,Ivan Leko,hr CRO,MF,17,12,1.0,0.0,2004-2005,11808853,Malaga,"1,053",11.7,4.0,0.0,49.0,16.0,2303.0,Malaga
+,Manu Sánchez,es ESP,"FW,MF",15,5,0.0,0.0,2004-2005,248b0b19,Malaga,521,5.8,1.0,0.0,49.0,1.0,2298.0,Malaga
+,Alexandre Geijo,es ESP,FW,13,4,0.0,0.0,2004-2005,c0787e61,Malaga,406,4.5,1.0,0.0,49.0,1.0,,Malaga
+,Litos,pt POR,DF,5,4,0.0,0.0,2004-2005,968afd3b,Malaga,361,4.0,1.0,0.0,49.0,3.0,2300.0,Malaga
+,Míchel,es ESP,MF,9,2,1.0,0.0,2004-2005,19b3b837,Malaga,303,3.4,1.0,0.0,49.0,1.0,2320.0,Malaga
+,Raúl Iznata,es ESP,DF,7,2,1.0,0.0,2004-2005,3b706127,Malaga,240,2.7,2.0,0.0,49.0,1.0,2299.0,Malaga
+,José Juan Luque,es ESP,MF,8,1,0.0,1.0,2004-2005,b874847,Malaga,225,2.5,0.0,0.0,49.0,1.0,2316.0,Malaga
+,Fernando Usero,es ESP,MF,2,1,0.0,0.0,2004-2005,6eab305,Malaga,92,1.0,0.0,0.0,49.0,1.0,2321.0,Malaga
+,Tote,es ESP,"FW,MF",9,0,0.0,0.0,2004-2005,3e74421,Malaga,202,2.2,1.0,0.0,49.0,1.0,22.0,Malaga
+,Paco Esteban,es ESP,FW,6,0,0.0,0.0,2004-2005,7e4f04f0,Malaga,141,1.6,0.0,0.0,49.0,1.0,2312.0,Malaga
+,﻿Francesc Arnau,es ESP,GK,36,36,0.0,0.0,2005-2006,23ab8dc9,Malaga,"3,190",35.4,2.0,0.0,49.0,1.0,2304.0,Malaga
+,Alexis,es ESP,DF,34,34,0.0,3.0,2005-2006,db0cd1ae,Malaga,"2,916",32.4,5.0,1.0,49.0,1.0,,Malaga
+,Nacho,es ESP,"DF,MF",32,31,3.0,3.0,2005-2006,07537011,Malaga,"2,661",29.6,8.0,1.0,49.0,1.0,,Malaga
+,Salva Ballesta,es ESP,FW,36,29,2.0,6.0,2005-2006,bd42bcb8,Malaga,"2,618",29.1,9.0,1.0,49.0,1.0,,Malaga
+,Gerardo,es ESP,"DF,MF",29,29,3.0,2.0,2005-2006,07c345de,Malaga,"2,538",28.2,10.0,1.0,49.0,1.0,,Malaga
+,Fernando Sanz,es ESP,DF,29,29,0.0,1.0,2005-2006,d23f0cc6,Malaga,"2,456",27.3,8.0,1.0,49.0,1.0,2292.0,Malaga
+,Juan Rodríguez,es ESP,MF,29,27,0.0,1.0,2005-2006,25c3c939,Malaga,"2,349",26.1,10.0,2.0,49.0,1.0,,Malaga
+,César Navas,es ESP,DF,28,26,0.0,2.0,2005-2006,9f7ceb30,Malaga,"2,285",25.4,3.0,0.0,49.0,1.0,2317.0,Malaga
+,Edgar Pacheco,pt POR,FW,33,26,0.0,4.0,2005-2006,70c4ab5,Malaga,"2,207",24.5,3.0,0.0,49.0,3.0,2308.0,Malaga
+,Pablo Couñago,es ESP,FW,27,17,0.0,3.0,2005-2006,1633746c,Malaga,"1,531",17.0,4.0,0.0,49.0,1.0,2322.0,Malaga
+,Vicente Valcarce,es ESP,DF,16,16,1.0,0.0,2005-2006,1fecb68c,Malaga,"1,360",15.1,6.0,0.0,49.0,1.0,2293.0,Malaga
+,Ricardo Bóvio,br BRA,MF,17,15,1.0,1.0,2005-2006,f01d12a3,Malaga,"1,326",14.7,5.0,0.0,49.0,2.0,2323.0,Malaga
+,Duda,pt POR,"DF,FW",14,13,2.0,4.0,2005-2006,13d41642,Malaga,"1,105",12.3,3.0,1.0,49.0,3.0,,Malaga
+,Antonio Hidalgo,es ESP,MF,35,12,4.0,4.0,2005-2006,b5b88d6c,Malaga,"1,442",16.0,4.0,1.0,49.0,1.0,,Malaga
+,Jesús Gámez,es ESP,DF,15,12,0.0,0.0,2005-2006,bd1d1cbb,Malaga,"1,010",11.2,5.0,0.0,49.0,1.0,,Malaga
+,Gabriel,br BRA,DF,17,11,0.0,0.0,2005-2006,d3a44b7a,Malaga,"1,010",11.2,1.0,0.0,49.0,2.0,2324.0,Malaga
+,Antonio López,es ESP,MF,15,10,2.0,0.0,2005-2006,1fdd5ff7,Malaga,"1,000",11.1,5.0,0.0,49.0,1.0,,Malaga
+,Manu Sánchez,es ESP,"FW,MF",12,9,0.0,0.0,2005-2006,248b0b19,Malaga,642,7.1,0.0,0.0,49.0,1.0,2298.0,Malaga
+,Richard Morales,uy URU,FW,23,8,2.0,1.0,2005-2006,6ec5c12a,Malaga,"1,014",11.3,4.0,1.0,49.0,8.0,,Malaga
+,Anderson Silva,br BRA,MF,15,8,0.0,0.0,2005-2006,3e908744,Malaga,772,8.6,4.0,2.0,49.0,2.0,2325.0,Malaga
+,Litos,pt POR,DF,8,7,0.0,1.0,2005-2006,968afd3b,Malaga,627,7.0,4.0,0.0,49.0,3.0,2300.0,Malaga
+,Jorge Ribeiro,pt POR,"DF,MF",5,4,0.0,0.0,2005-2006,d9cf346f,Malaga,396,4.4,2.0,0.0,49.0,3.0,2326.0,Malaga
+,Marcelo Romero,uy URU,MF,4,4,0.0,0.0,2005-2006,679ff318,Malaga,284,3.2,0.0,0.0,49.0,8.0,2296.0,Malaga
+,Paco Esteban,es ESP,FW,11,2,1.0,0.0,2005-2006,7e4f04f0,Malaga,299,3.3,1.0,0.0,49.0,1.0,2312.0,Malaga
+,Iñaki Goitia,es ESP,GK,2,1,0.0,0.0,2005-2006,2f10b901,Malaga,140,1.6,1.0,0.0,49.0,1.0,,Malaga
+,Saúl,es ESP,MF,2,1,0.0,0.0,2005-2006,4a317b2,Malaga,135,1.5,0.0,0.0,49.0,1.0,,Malaga
+,Manolo Reina,es ESP,GK,1,1,0.0,0.0,2005-2006,605eb473,Malaga,90,1.0,0.0,0.0,49.0,1.0,,Malaga
+,Fernando Usero,es ESP,MF,2,1,0.0,0.0,2005-2006,6eab305,Malaga,53,0.6,1.0,0.0,49.0,1.0,2321.0,Malaga
+,Diego Castro,es ESP,"FW,MF",2,0,,0.0,2005-2006,3ddc0a25,Malaga,43,0.5,0.0,0.0,49.0,1.0,2327.0,Malaga
+,Ador,es ESP,FW,2,0,,0.0,2005-2006,cb37cfb5,Malaga,32,0.4,0.0,0.0,49.0,1.0,2313.0,Malaga
+,Jorge Pina Roldán,es ESP,MF,2,0,0.0,0.0,2005-2006,c8ab4ea9,Malaga,32,0.4,1.0,0.0,49.0,1.0,2328.0,Malaga
+,﻿Jesús Gámez,es ESP,DF,38,38,2.0,1.0,2006-2007,bd1d1cbb,Malaga,"3,302",36.7,12.0,1.0,49.0,1.0,,Malaga
+,Javier Calleja,es ESP,MF,35,34,7.0,3.0,2006-2007,3c99e7de,Malaga,"2,869",31.9,9.0,1.0,49.0,1.0,,Malaga
+,Antonio Hidalgo,es ESP,MF,36,31,5.0,10.0,2006-2007,b5b88d6c,Malaga,"2,810",31.2,9.0,1.0,49.0,1.0,,Malaga
+,Álvaro Silva,ph PHI,DF,33,31,0.0,1.0,2006-2007,40817456,Malaga,"2,588",28.8,15.0,0.0,49.0,90.0,2329.0,Malaga
+,Vicente Valcarce,es ESP,DF,30,29,0.0,0.0,2006-2007,1fecb68c,Malaga,"2,351",26.1,7.0,0.0,49.0,1.0,2293.0,Malaga
+,Jesule,es ESP,DF,28,28,0.0,0.0,2006-2007,83c1aaf2,Malaga,"2,379",26.4,5.0,1.0,49.0,1.0,2330.0,Malaga
+,Francesc Arnau,es ESP,GK,27,27,0.0,0.0,2006-2007,23ab8dc9,Malaga,"2,430",27.0,2.0,0.0,49.0,1.0,2304.0,Malaga
+,Armando Lozano,es ESP,DF,25,23,0.0,0.0,2006-2007,2daac0b,Malaga,"2,036",22.6,6.0,0.0,49.0,1.0,2331.0,Malaga
+,Pablo Couñago,es ESP,FW,27,22,0.0,7.0,2006-2007,1633746c,Malaga,"1,873",20.8,5.0,0.0,49.0,1.0,2322.0,Malaga
+,Edgar Pacheco,pt POR,FW,24,19,1.0,0.0,2006-2007,70c4ab5,Malaga,"1,387",15.4,3.0,0.0,49.0,3.0,2308.0,Malaga
+,Salva Ballesta,es ESP,FW,19,18,2.0,10.0,2006-2007,bd42bcb8,Malaga,"1,605",17.8,9.0,1.0,49.0,1.0,,Malaga
+,Sandro,es ESP,MF,31,16,5.0,1.0,2006-2007,9c890cc8,Malaga,"1,842",20.5,9.0,1.0,49.0,1.0,2297.0,Malaga
+,Jonatan Valle,es ESP,"FW,MF",26,15,0.0,1.0,2006-2007,25372a47,Malaga,"1,401",15.6,8.0,1.0,49.0,1.0,2332.0,Malaga
+,Iñaki Goitia,es ESP,GK,16,15,0.0,0.0,2006-2007,2f10b901,Malaga,"1,380",15.3,1.0,0.0,49.0,1.0,,Malaga
+,César Navas,es ESP,DF,14,14,1.0,1.0,2006-2007,9f7ceb30,Malaga,"1,260",14.0,9.0,0.0,49.0,1.0,2317.0,Malaga
+,Francisco Molinero,es ESP,DF,16,12,2.0,0.0,2006-2007,2cea96ce,Malaga,"1,072",11.9,5.0,1.0,49.0,1.0,,Malaga
+,Iván Rosado,es ESP,FW,14,12,0.0,2.0,2006-2007,21bbfc0b,Malaga,994,11.0,2.0,0.0,49.0,1.0,,Malaga
+,José Ángel Gascón,es ESP,"FW,MF",15,11,1.0,2.0,2006-2007,83891d6,Malaga,969,10.8,3.0,0.0,49.0,1.0,2333.0,Malaga
+,Marcelo Romero,uy URU,MF,11,10,0.0,0.0,2006-2007,679ff318,Malaga,800,8.9,6.0,0.0,49.0,8.0,2296.0,Malaga
+,O.J. Morales,uy URU,MF,11,10,0.0,0.0,2006-2007,64e731cd,Malaga,741,8.2,3.0,1.0,49.0,8.0,2334.0,Malaga
+,Perico,es ESP,MF,23,9,0.0,2.0,2006-2007,1f38fcbc,Malaga,985,10.9,2.0,0.0,49.0,1.0,2307.0,Malaga
+,Gabriel Schürrer,ar ARG,DF,9,8,0.0,0.0,2006-2007,350391,Malaga,724,8.0,2.0,0.0,49.0,5.0,200.0,Malaga
+,José Mari,es ESP,DF,7,7,1.0,1.0,2006-2007,72c75bfe,Malaga,622,6.9,2.0,0.0,49.0,1.0,2335.0,Malaga
+,Saúl,es ESP,MF,13,6,1.0,0.0,2006-2007,4a317b2,Malaga,657,7.3,3.0,0.0,49.0,1.0,,Malaga
+,Richard Morales,uy URU,FW,18,4,2.0,2.0,2006-2007,6ec5c12a,Malaga,727,8.1,5.0,1.0,49.0,8.0,,Malaga
+,Ernesto,es ESP,MF,12,3,0.0,0.0,2006-2007,7c50c24d,Malaga,406,4.5,1.0,0.0,49.0,1.0,2336.0,Malaga
+,Kiko Olivas,es ESP,DF,4,3,0.0,0.0,2006-2007,72b07a9c,Malaga,315,3.5,1.0,0.0,49.0,1.0,2337.0,Malaga
+,Popo,es ESP,MF,8,2,0.0,1.0,2006-2007,f3b4f4d1,Malaga,261,2.9,1.0,0.0,49.0,1.0,2338.0,Malaga
+,Stevan Stošić,rs SRB,MF,5,1,0.0,0.0,2006-2007,67d1d0c2,Malaga,215,2.4,1.0,0.0,49.0,28.0,2339.0,Malaga
+,Ador,es ESP,FW,3,0,0.0,0.0,2006-2007,cb37cfb5,Malaga,67,0.7,0.0,1.0,49.0,1.0,2313.0,Malaga
+,﻿Iñaki Goitia,es ESP,GK,41,41,0.0,0.0,2007-2008,2f10b901,Malaga,"3,651",40.6,3.0,1.0,49.0,1.0,,Malaga
+,Weligton Oliveira,br BRA,DF,38,38,0.0,0.0,2007-2008,ce8c6861,Malaga,"3,420",38.0,7.0,1.0,49.0,2.0,2340.0,Malaga
+,Hélder Rosário,pt POR,DF,39,38,0.0,2.0,2007-2008,f0d5e080,Malaga,"3,391",37.7,13.0,1.0,49.0,3.0,2341.0,Malaga
+,Antonio Hidalgo,es ESP,MF,38,38,3.0,14.0,2007-2008,b5b88d6c,Malaga,"3,286",36.5,11.0,0.0,49.0,1.0,,Malaga
+,Nabil Baha,ma MAR,FW,36,36,5.0,10.0,2007-2008,32634b49,Malaga,"3,190",35.4,7.0,1.0,49.0,26.0,2342.0,Malaga
+,Santiago Carpintero,es ESP,MF,36,36,1.0,0.0,2007-2008,139b88a8,Malaga,"2,714",30.2,13.0,0.0,49.0,1.0,2343.0,Malaga
+,Jesús Gámez,es ESP,DF,35,35,3.0,0.0,2007-2008,bd1d1cbb,Malaga,"3,129",34.8,13.0,1.0,49.0,1.0,,Malaga
+,Adriano Rossato,br BRA,DF,35,35,1.0,2.0,2007-2008,38c090c1,Malaga,"2,830",31.4,3.0,0.0,49.0,2.0,,Malaga
+,Javier Calleja,es ESP,MF,38,32,4.0,2.0,2007-2008,3c99e7de,Malaga,"2,474",27.5,7.0,1.0,49.0,1.0,,Malaga
+,Paulo Jorge,pt POR,MF,32,28,5.0,1.0,2007-2008,8bbdf59,Malaga,"1,922",21.4,10.0,1.0,49.0,3.0,2344.0,Malaga
+,Apoño,es ESP,MF,31,23,1.0,1.0,2007-2008,02503ca3,Malaga,"2,276",25.3,10.0,0.0,49.0,1.0,2345.0,Malaga
+,Cheli,es ESP,MF,32,19,1.0,2.0,2007-2008,2d07742d,Malaga,"1,794",19.9,7.0,0.0,49.0,1.0,2351.0,Malaga
+,Roberto Peragón,es ESP,FW,27,16,1.0,7.0,2007-2008,c1dbaa18,Malaga,"1,340",14.9,4.0,0.0,49.0,1.0,2346.0,Malaga
+,Eliseu,pt POR,"DF,MF",37,14,7.0,3.0,2007-2008,981869fc,Malaga,"1,848",20.5,6.0,1.0,49.0,3.0,2347.0,Malaga
+,Salva Ballesta,es ESP,FW,20,10,2.0,7.0,2007-2008,bd42bcb8,Malaga,"1,191",13.2,5.0,0.0,49.0,1.0,,Malaga
+,Álvaro Silva,ph PHI,DF,13,6,0.0,0.0,2007-2008,40817456,Malaga,572,6.4,2.0,0.0,49.0,90.0,2329.0,Malaga
+,Vicente Valcarce,es ESP,DF,5,5,0.0,0.0,2007-2008,1fecb68c,Malaga,399,4.4,2.0,0.0,49.0,1.0,2293.0,Malaga
+,Iván Rosado,es ESP,FW,11,4,0.0,2.0,2007-2008,21bbfc0b,Malaga,416,4.6,1.0,0.0,49.0,1.0,,Malaga
+,Jesule,es ESP,DF,4,3,0.0,0.0,2007-2008,83c1aaf2,Malaga,249,2.8,1.0,0.0,49.0,1.0,2330.0,Malaga
+,Jon Erice,es ESP,MF,5,2,0.0,0.0,2007-2008,39da8b1f,Malaga,192,2.1,0.0,0.0,49.0,1.0,,Malaga
+,Raúl Gaitán,es ESP,DF,2,2,0.0,0.0,2007-2008,f0a760a9,Malaga,99,1.1,1.0,0.0,49.0,1.0,2348.0,Malaga
+,Francesc Arnau,es ESP,GK,2,1,0.0,0.0,2007-2008,23ab8dc9,Malaga,130,1.4,0.0,0.0,49.0,1.0,2304.0,Malaga
+,Sandro,es ESP,MF,17,0,0.0,0.0,2007-2008,9c890cc8,Malaga,592,6.6,3.0,0.0,49.0,1.0,2297.0,Malaga
+,Gerardo,es ESP,"DF,MF",10,0,0.0,3.0,2007-2008,07c345de,Malaga,337,3.7,1.0,0.0,49.0,1.0,,Malaga
+,Stevan Stošić,rs SRB,MF,1,0,0.0,0.0,2007-2008,67d1d0c2,Malaga,32,0.4,0.0,0.0,49.0,28.0,2339.0,Malaga
+,﻿Jesús Gámez,es ESP,DF,35,35,1.0,0.0,2008-2009,bd1d1cbb,Malaga,"3,074",34.2,10.0,1.0,49.0,1.0,,Malaga
+,Nabil Baha,ma MAR,FW,36,35,0.0,9.0,2008-2009,32634b49,Malaga,"2,678",29.8,5.0,0.0,49.0,26.0,2342.0,Malaga
+,Weligton Oliveira,br BRA,DF,34,34,0.0,1.0,2008-2009,ce8c6861,Malaga,"3,025",33.6,13.0,1.0,49.0,2.0,2340.0,Malaga
+,Duda,pt POR,"DF,FW",35,33,10.0,5.0,2008-2009,13d41642,Malaga,"2,769",30.8,10.0,0.0,49.0,3.0,,Malaga
+,Eliseu,pt POR,"DF,MF",36,31,4.0,7.0,2008-2009,981869fc,Malaga,"2,715",30.2,8.0,0.0,49.0,3.0,2347.0,Malaga
+,Apoño,es ESP,MF,32,30,4.0,9.0,2008-2009,02503ca3,Malaga,"2,726",30.3,11.0,0.0,49.0,1.0,2345.0,Malaga
+,Javier Calleja,es ESP,MF,31,30,0.0,0.0,2008-2009,3c99e7de,Malaga,"2,697",30.0,8.0,1.0,49.0,1.0,,Malaga
+,Iñaki Goitia,es ESP,GK,25,25,0.0,0.0,2008-2009,2f10b901,Malaga,"2,250",25.0,1.0,0.0,49.0,1.0,,Malaga
+,Hélder Rosário,pt POR,DF,23,23,0.0,1.0,2008-2009,f0d5e080,Malaga,"2,031",22.6,2.0,0.0,49.0,3.0,2341.0,Malaga
+,Lolo,es ESP,"DF,MF",26,23,0.0,4.0,2008-2009,31c71140,Malaga,"1,926",21.4,6.0,1.0,49.0,1.0,,Malaga
+,Adrián López,es ESP,"FW,MF",28,19,2.0,3.0,2008-2009,88a359d4,Malaga,"1,792",19.9,1.0,0.0,49.0,1.0,,Malaga
+,Albert Luque,es ESP,"FW,MF",32,17,3.0,8.0,2008-2009,80a6b1d8,Malaga,"1,533",17.0,5.0,0.0,49.0,1.0,,Malaga
+,Nacho,es ESP,"DF,MF",34,16,2.0,1.0,2008-2009,07537011,Malaga,"1,579",17.5,4.0,0.0,49.0,1.0,,Malaga
+,Miguel Ángel,es ESP,MF,19,16,0.0,0.0,2008-2009,7542ce83,Malaga,"1,284",14.3,5.0,1.0,49.0,1.0,,Malaga
+,Ibán Cuadrado,es ESP,DF,14,14,0.0,0.0,2008-2009,8db7ef49,Malaga,"1,222",13.6,7.0,1.0,49.0,1.0,2349.0,Malaga
+,Francesc Arnau,es ESP,GK,13,13,0.0,0.0,2008-2009,23ab8dc9,Malaga,"1,170",13.0,0.0,0.0,49.0,1.0,2304.0,Malaga
+,Manolo Gaspar,es ESP,DF,11,8,0.0,0.0,2008-2009,be800693,Malaga,708,7.9,3.0,0.0,49.0,1.0,2350.0,Malaga
+,Pablo,br BRA,"DF,FW",13,6,0.0,0.0,2008-2009,806a6cc,Malaga,669,7.4,1.0,0.0,49.0,2.0,,Malaga
+,Salva Ballesta,es ESP,FW,14,5,0.0,5.0,2008-2009,bd42bcb8,Malaga,588,6.5,2.0,1.0,49.0,1.0,,Malaga
+,Fernando,es ESP,"FW,MF",18,3,0.0,0.0,2008-2009,2a81fa5d,Malaga,483,5.4,0.0,0.0,49.0,1.0,,Malaga
+,Cheli,es ESP,MF,4,2,0.0,0.0,2008-2009,2d07742d,Malaga,178,2.0,0.0,0.0,49.0,1.0,2351.0,Malaga
+,Adriano,br BRA,FW,7,0,0.0,0.0,2008-2009,0ac43bd7,Malaga,154,1.7,1.0,0.0,49.0,2.0,2352.0,Malaga
+,José Juan Luque,es ESP,MF,6,0,0.0,0.0,2008-2009,b874847,Malaga,96,1.1,0.0,0.0,49.0,1.0,2316.0,Malaga
+,Pere Martí,es ESP,MF,2,0,0.0,0.0,2008-2009,f7e1f18e,Malaga,36,0.4,0.0,0.0,49.0,1.0,2353.0,Malaga
+,Adriano Rossato,br BRA,DF,2,0,0.0,0.0,2008-2009,38c090c1,Malaga,27,0.3,0.0,0.0,49.0,2.0,,Malaga
+,﻿Gustavo Munúa,uy URU,GK,38,38,0.0,0.0,2009-2010,7e384992,Malaga,"3,420",38.0,5.0,0.0,49.0,8.0,,Malaga
+,Duda,pt POR,"DF,FW",34,33,7.0,8.0,2009-2010,13d41642,Malaga,"2,884",32.0,8.0,1.0,49.0,3.0,,Malaga
+,Jesús Gámez,es ESP,DF,32,32,1.0,0.0,2009-2010,bd1d1cbb,Malaga,"2,848",31.6,14.0,1.0,49.0,1.0,,Malaga
+,Fernando,es ESP,"FW,MF",30,29,2.0,4.0,2009-2010,2a81fa5d,Malaga,"2,161",24.0,5.0,0.0,49.0,1.0,,Malaga
+,Juanito,es ESP,"DF,MF",30,25,0.0,0.0,2009-2010,47176127,Malaga,"2,144",23.8,9.0,0.0,49.0,1.0,,Malaga
+,Patrick Mtiliga,dk DEN,DF,24,24,0.0,0.0,2009-2010,594ebb79,Malaga,"1,990",22.1,7.0,1.0,49.0,7.0,2354.0,Malaga
+,Iván González,es ESP,DF,23,22,0.0,1.0,2009-2010,36587dc3,Malaga,"2,035",22.6,10.0,1.0,49.0,1.0,2355.0,Malaga
+,Nabil Baha,ma MAR,FW,32,21,1.0,5.0,2009-2010,32634b49,Malaga,"1,987",22.1,6.0,0.0,49.0,26.0,2342.0,Malaga
+,Weligton Oliveira,br BRA,DF,21,20,0.0,3.0,2009-2010,ce8c6861,Malaga,"1,655",18.4,5.0,2.0,49.0,2.0,2340.0,Malaga
+,Selim Benachour,tn TUN,MF,23,18,2.0,0.0,2009-2010,6d9a4c2f,Malaga,"1,422",15.8,5.0,0.0,49.0,46.0,2356.0,Malaga
+,Apoño,es ESP,MF,24,17,0.0,2.0,2009-2010,02503ca3,Malaga,"1,712",19.0,4.0,0.0,49.0,1.0,2345.0,Malaga
+,Daniel Toribio,es ESP,MF,21,17,0.0,0.0,2009-2010,0ced6664,Malaga,"1,494",16.6,10.0,0.0,49.0,1.0,2357.0,Malaga
+,Victor Obinna,ng NGA,FW,26,16,1.0,4.0,2009-2010,c21b9d9d,Malaga,"1,612",17.9,8.0,1.0,49.0,52.0,2358.0,Malaga
+,Manu Torres,es ESP,DF,17,15,1.0,1.0,2009-2010,4f4064d5,Malaga,"1,316",14.6,5.0,0.0,49.0,1.0,2359.0,Malaga
+,Felipe Caicedo,ec ECU,"FW,MF",18,15,2.0,4.0,2009-2010,93b891d1,Malaga,"1,116",12.4,7.0,0.0,49.0,61.0,2360.0,Malaga
+,Manolo Gaspar,es ESP,DF,15,13,0.0,0.0,2009-2010,be800693,Malaga,"1,243",13.8,3.0,0.0,49.0,1.0,2350.0,Malaga
+,Milan Stepanov,rs SRB,DF,12,12,0.0,0.0,2009-2010,f9f0baa,Malaga,914,10.2,4.0,1.0,49.0,28.0,2361.0,Malaga
+,Valdo,cv CPV,"FW,MF",19,10,1.0,2.0,2009-2010,5d34e206,Malaga,"1,074",11.9,5.0,0.0,49.0,85.0,,Malaga
+,Xavi Torres,es ESP,MF,11,10,0.0,1.0,2009-2010,1b51ad2f,Malaga,791,8.8,0.0,0.0,49.0,1.0,,Malaga
+,Javi López,es ESP,MF,11,9,1.0,2.0,2009-2010,f3df69a,Malaga,687,7.6,1.0,0.0,49.0,1.0,2362.0,Malaga
+,Fernando Forestieri,it ITA,"FW,MF",19,5,0.0,1.0,2009-2010,d60c26fc,Malaga,753,8.4,4.0,0.0,49.0,9.0,2363.0,Malaga
+,Albert Luque,es ESP,"FW,MF",16,4,0.0,1.0,2009-2010,80a6b1d8,Malaga,603,6.7,2.0,1.0,49.0,1.0,,Malaga
+,Orozco,es ESP,DF,4,4,0.0,0.0,2009-2010,5664e8dc,Malaga,360,4.0,2.0,0.0,49.0,1.0,2364.0,Malaga
+,Ibán Cuadrado,es ESP,DF,4,4,0.0,0.0,2009-2010,8db7ef49,Malaga,315,3.5,2.0,0.0,49.0,1.0,2349.0,Malaga
+,Hélder Rosário,pt POR,DF,3,3,0.0,0.0,2009-2010,f0d5e080,Malaga,214,2.4,1.0,0.0,49.0,3.0,2341.0,Malaga
+,Edinho,pt POR,"FW,MF",10,2,0.0,2.0,2009-2010,1955f68d,Malaga,355,3.9,2.0,0.0,49.0,3.0,2365.0,Malaga
+,Edu Ramos,es ESP,MF,3,0,0.0,0.0,2009-2010,6793b40,Malaga,133,1.5,0.0,0.0,49.0,1.0,2366.0,Malaga
+,Juanmi,es ESP,"FW,MF",5,0,1.0,0.0,2009-2010,84399660,Malaga,115,1.3,0.0,0.0,49.0,1.0,,Malaga
+,Pedro Pareja Duque,es ESP,FW,3,0,0.0,0.0,2009-2010,14215c64,Malaga,64,0.7,0.0,0.0,49.0,1.0,2367.0,Malaga
+,Francisco Portillo,es ESP,MF,1,0,0.0,0.0,2009-2010,8e010ff4,Malaga,18,0.2,0.0,0.0,49.0,1.0,,Malaga
+,﻿Eliseu,pt POR,"DF,MF",35,34,5.0,4.0,2010-2011,981869fc,Malaga,"2,937",32.6,12.0,2.0,49.0,3.0,2347.0,Malaga
+,Weligton Oliveira,br BRA,DF,31,31,1.0,1.0,2010-2011,ce8c6861,Malaga,"2,790",31.0,5.0,0.0,49.0,2.0,2340.0,Malaga
+,Jesús Gámez,es ESP,DF,30,30,4.0,0.0,2010-2011,bd1d1cbb,Malaga,"2,576",28.6,9.0,1.0,49.0,1.0,,Malaga
+,Salomón Rondón,ve VEN,FW,30,28,2.0,14.0,2010-2011,b318a643,Malaga,"2,417",26.9,2.0,0.0,49.0,53.0,2368.0,Malaga
+,Apoño,es ESP,MF,27,26,2.0,2.0,2010-2011,02503ca3,Malaga,"2,156",24.0,7.0,0.0,49.0,1.0,2345.0,Malaga
+,Kris Stadsgaard,dk DEN,DF,25,23,0.0,1.0,2010-2011,97d65d8e,Malaga,"2,101",23.3,4.0,0.0,49.0,7.0,2369.0,Malaga
+,Seba Fernández,uy URU,FW,30,21,4.0,7.0,2010-2011,8ea14d54,Malaga,"1,900",21.1,3.0,0.0,49.0,8.0,2370.0,Malaga
+,Duda,pt POR,"DF,FW",20,20,6.0,3.0,2010-2011,13d41642,Malaga,"1,574",17.5,6.0,0.0,49.0,3.0,,Malaga
+,Recio,es ESP,MF,23,18,1.0,2.0,2010-2011,54073b28,Malaga,"1,624",18.0,3.0,0.0,49.0,1.0,2371.0,Malaga
+,Martín Demichelis,ar ARG,"DF,MF",18,18,0.0,1.0,2010-2011,9c7102a,Malaga,"1,480",16.4,8.0,2.0,49.0,5.0,2372.0,Malaga
+,Patrick Mtiliga,dk DEN,DF,19,17,1.0,0.0,2010-2011,594ebb79,Malaga,"1,553",17.3,4.0,0.0,49.0,7.0,2354.0,Malaga
+,Quincy Owusu-Abeyie,gh GHA,"FW,MF",25,15,3.0,2.0,2010-2011,1d1f404,Malaga,"1,477",16.4,1.0,0.0,49.0,17.0,,Malaga
+,Willy Caballero,ar ARG,GK,15,15,0.0,0.0,2010-2011,179d516,Malaga,"1,345",14.9,1.0,0.0,49.0,5.0,2373.0,Malaga
+,Sandro Silva,br BRA,MF,24,12,1.0,0.0,2010-2011,83348963,Malaga,"1,240",13.8,8.0,0.0,49.0,2.0,2374.0,Malaga
+,Fernando,es ESP,"FW,MF",21,12,0.0,2.0,2010-2011,2a81fa5d,Malaga,"1,082",12.0,2.0,0.0,49.0,1.0,,Malaga
+,Ignacio Camacho,es ESP,MF,15,12,0.0,0.0,2010-2011,8ed9b33a,Malaga,"1,065",11.8,5.0,0.0,49.0,1.0,,Malaga
+,Júlio Baptista,br BRA,"FW,MF",11,11,0.0,8.0,2010-2011,44557475,Malaga,962,10.7,3.0,0.0,49.0,2.0,40.0,Malaga
+,Enzo Maresca,it ITA,MF,20,9,2.0,2.0,2010-2011,1a899d99,Malaga,715,7.9,2.0,0.0,49.0,9.0,,Malaga
+,Francisco Portillo,es ESP,MF,17,7,1.0,0.0,2010-2011,8e010ff4,Malaga,766,8.5,0.0,0.0,49.0,1.0,,Malaga
+,Manolo Gaspar,es ESP,DF,9,7,0.0,0.0,2010-2011,be800693,Malaga,727,8.1,3.0,1.0,49.0,1.0,2350.0,Malaga
+,Francesc Arnau,es ESP,GK,9,7,0.0,0.0,2010-2011,23ab8dc9,Malaga,719,8.0,1.0,0.0,49.0,1.0,2304.0,Malaga
+,Rubén,es ESP,GK,7,7,0.0,0.0,2010-2011,24279b8b,Malaga,630,7.0,1.0,0.0,49.0,1.0,,Malaga
+,Juanmi,es ESP,"FW,MF",17,6,2.0,4.0,2010-2011,84399660,Malaga,604,6.7,1.0,0.0,49.0,1.0,,Malaga
+,Juanito,es ESP,"DF,MF",6,5,0.0,0.0,2010-2011,47176127,Malaga,472,5.2,1.0,0.0,49.0,1.0,,Malaga
+,Manu Torres,es ESP,DF,7,5,0.0,0.0,2010-2011,4f4064d5,Malaga,421,4.7,4.0,0.0,49.0,1.0,2359.0,Malaga
+,Sergio Asenjo,es ESP,GK,5,5,0.0,0.0,2010-2011,9f0ea33f,Malaga,366,4.1,2.0,0.0,49.0,1.0,,Malaga
+,Rodrigo Galatto,br BRA,GK,4,4,0.0,0.0,2010-2011,68754f0,Malaga,360,4.0,0.0,0.0,49.0,2.0,2375.0,Malaga
+,Iván González,es ESP,DF,6,4,0.0,0.0,2010-2011,36587dc3,Malaga,326,3.6,0.0,0.0,49.0,1.0,2355.0,Malaga
+,Nabil Baha,ma MAR,FW,5,4,0.0,0.0,2010-2011,32634b49,Malaga,260,2.9,1.0,0.0,49.0,26.0,2342.0,Malaga
+,Hélder Rosário,pt POR,DF,3,3,0.0,0.0,2010-2011,f0d5e080,Malaga,245,2.7,1.0,1.0,49.0,3.0,2341.0,Malaga
+,Edinho,pt POR,"FW,MF",8,1,0.0,0.0,2010-2011,1955f68d,Malaga,238,2.6,2.0,0.0,49.0,3.0,2365.0,Malaga
+,Edu Ramos,es ESP,MF,5,1,0.0,0.0,2010-2011,6793b40,Malaga,106,1.2,1.0,0.0,49.0,1.0,2366.0,Malaga
+,Albert Luque,es ESP,"FW,MF",3,0,1.0,0.0,2010-2011,80a6b1d8,Malaga,80,0.9,1.0,0.0,49.0,1.0,,Malaga
+,Cala,es ESP,MF,1,0,0.0,0.0,2010-2011,8449a41e,Malaga,24,0.3,0.0,0.0,49.0,1.0,2376.0,Malaga
+,﻿Santi Cazorla,es ESP,MF,38,38,5.0,9.0,2011-2012,2e9c250,Malaga,"3,226",35.8,2.0,0.0,49.0,1.0,2377.0,Malaga
+,Martín Demichelis,ar ARG,"DF,MF",35,33,1.0,2.0,2011-2012,9c7102a,Malaga,"3,020",33.6,7.0,1.0,49.0,5.0,2372.0,Malaga
+,Isco,es ESP,"FW,MF",32,29,3.0,5.0,2011-2012,0b4bb3e,Malaga,"2,512",27.9,7.0,2.0,49.0,1.0,118.0,Malaga
+,Salomón Rondón,ve VEN,FW,37,29,3.0,11.0,2011-2012,b318a643,Malaga,"2,472",27.5,1.0,0.0,49.0,53.0,2368.0,Malaga
+,Nacho Monreal,es ESP,DF,31,28,2.0,0.0,2011-2012,d4cb83cc,Malaga,"2,567",28.5,1.0,0.0,49.0,1.0,,Malaga
+,Joris Mathijsen,nl NED,DF,28,28,0.0,0.0,2011-2012,5758c29f,Malaga,"2,511",27.9,5.0,0.0,49.0,11.0,2378.0,Malaga
+,Willy Caballero,ar ARG,GK,28,28,0.0,0.0,2011-2012,179d516,Malaga,"2,402",26.7,2.0,1.0,49.0,5.0,2373.0,Malaga
+,Jérémy Toulalan,fr FRA,"DF,MF",25,25,0.0,3.0,2011-2012,7adea561,Malaga,"2,192",24.4,7.0,1.0,49.0,4.0,2379.0,Malaga
+,Jesús Gámez,es ESP,DF,25,24,3.0,0.0,2011-2012,bd1d1cbb,Malaga,"2,157",24.0,3.0,0.0,49.0,1.0,,Malaga
+,Weligton Oliveira,br BRA,DF,19,19,0.0,1.0,2011-2012,ce8c6861,Malaga,"1,710",19.0,5.0,0.0,49.0,2.0,2340.0,Malaga
+,Joaquín,es ESP,"FW,MF",23,19,2.0,2.0,2011-2012,4c5b14d2,Malaga,"1,684",18.7,3.0,0.0,49.0,1.0,,Malaga
+,Eliseu,pt POR,"DF,MF",25,19,2.0,2.0,2011-2012,981869fc,Malaga,"1,635",18.2,3.0,1.0,49.0,3.0,2347.0,Malaga
+,Sergio Sánchez,es ESP,DF,19,16,1.0,0.0,2011-2012,83a83b0a,Malaga,"1,415",15.7,6.0,0.0,49.0,1.0,,Malaga
+,Seba Fernández,uy URU,FW,32,15,0.0,5.0,2011-2012,8ea14d54,Malaga,"1,434",15.9,2.0,0.0,49.0,8.0,2370.0,Malaga
+,Duda,pt POR,"DF,FW",25,14,1.0,1.0,2011-2012,13d41642,Malaga,"1,153",12.8,6.0,0.0,49.0,3.0,,Malaga
+,Ruud van Nistelrooy,nl NED,FW,28,10,1.0,4.0,2011-2012,80a30989,Malaga,"1,169",13.0,3.0,0.0,49.0,11.0,51.0,Malaga
+,Enzo Maresca,it ITA,MF,19,9,1.0,2.0,2011-2012,1a899d99,Malaga,836,9.3,1.0,0.0,49.0,9.0,,Malaga
+,Ignacio Camacho,es ESP,MF,13,8,0.0,1.0,2011-2012,8ed9b33a,Malaga,816,9.1,5.0,0.0,49.0,1.0,,Malaga
+,Carlos Kameni,cm CMR,GK,9,8,0.0,0.0,2011-2012,867c7fb3,Malaga,769,8.5,0.0,1.0,49.0,36.0,2380.0,Malaga
+,Diego Buonanotte,ar ARG,"FW,MF",10,4,1.0,0.0,2011-2012,4680cb30,Malaga,363,4.0,1.0,0.0,49.0,5.0,2381.0,Malaga
+,Júlio Baptista,br BRA,"FW,MF",4,4,0.0,1.0,2011-2012,44557475,Malaga,324,3.6,1.0,0.0,49.0,2.0,40.0,Malaga
+,Recio,es ESP,MF,8,4,0.0,0.0,2011-2012,54073b28,Malaga,319,3.5,2.0,0.0,49.0,1.0,2371.0,Malaga
+,Rubén,es ESP,GK,4,2,0.0,0.0,2011-2012,24279b8b,Malaga,251,2.8,0.0,0.0,49.0,1.0,,Malaga
+,Juanmi,es ESP,"FW,MF",6,2,0.0,1.0,2011-2012,84399660,Malaga,217,2.4,0.0,0.0,49.0,1.0,,Malaga
+,Apoño,es ESP,MF,6,2,0.0,1.0,2011-2012,02503ca3,Malaga,211,2.3,1.0,0.0,49.0,1.0,2345.0,Malaga
+,Francisco Portillo,es ESP,MF,2,1,0.0,0.0,2011-2012,8e010ff4,Malaga,97,1.1,0.0,0.0,49.0,1.0,,Malaga
+,﻿Willy Caballero,ar ARG,GK,36,36,0.0,0.0,2012-2013,179d516,Malaga,"3,190",35.4,3.0,0.0,49.0,5.0,2373.0,Malaga
+,Isco,es ESP,"FW,MF",37,36,2.0,9.0,2012-2013,0b4bb3e,Malaga,"3,052",33.9,4.0,0.0,49.0,1.0,118.0,Malaga
+,Weligton Oliveira,br BRA,DF,33,33,1.0,2.0,2012-2013,ce8c6861,Malaga,"2,970",33.0,10.0,0.0,49.0,2.0,2340.0,Malaga
+,Martín Demichelis,ar ARG,"DF,MF",31,31,0.0,3.0,2012-2013,9c7102a,Malaga,"2,725",30.3,10.0,2.0,49.0,5.0,2372.0,Malaga
+,Ignacio Camacho,es ESP,MF,33,30,0.0,2.0,2012-2013,8ed9b33a,Malaga,"2,711",30.1,14.0,1.0,49.0,1.0,,Malaga
+,Joaquín,es ESP,"FW,MF",34,29,5.0,4.0,2012-2013,4c5b14d2,Malaga,"2,386",26.5,2.0,0.0,49.0,1.0,,Malaga
+,Jesús Gámez,es ESP,DF,28,28,2.0,0.0,2012-2013,bd1d1cbb,Malaga,"2,419",26.9,8.0,0.0,49.0,1.0,,Malaga
+,Eliseu,pt POR,"DF,MF",28,25,3.0,1.0,2012-2013,981869fc,Malaga,"2,116",23.5,2.0,1.0,49.0,3.0,2347.0,Malaga
+,Francisco Portillo,es ESP,MF,27,20,5.0,2.0,2012-2013,8e010ff4,Malaga,"1,703",18.9,2.0,0.0,49.0,1.0,,Malaga
+,Javier Saviola,ar ARG,FW,27,19,3.0,8.0,2012-2013,de544fdb,Malaga,"1,542",17.1,1.0,0.0,49.0,5.0,67.0,Malaga
+,Jérémy Toulalan,fr FRA,"DF,MF",19,18,1.0,0.0,2012-2013,7adea561,Malaga,"1,546",17.2,5.0,0.0,49.0,4.0,2379.0,Malaga
+,Roque Santa Cruz,py PAR,FW,31,15,1.0,9.0,2012-2013,7f2107eb,Malaga,"1,617",18.0,2.0,0.0,49.0,43.0,,Malaga
+,Manuel Iturra,cl CHI,MF,25,15,0.0,0.0,2012-2013,000b3da6,Malaga,"1,478",16.4,9.0,0.0,49.0,31.0,2382.0,Malaga
+,Sergio Sánchez,es ESP,DF,18,14,1.0,0.0,2012-2013,83a83b0a,Malaga,"1,329",14.8,2.0,2.0,49.0,1.0,,Malaga
+,Nacho Monreal,es ESP,DF,14,14,2.0,1.0,2012-2013,d4cb83cc,Malaga,"1,186",13.2,3.0,0.0,49.0,1.0,,Malaga
+,Júlio Baptista,br BRA,"FW,MF",14,11,0.0,4.0,2012-2013,44557475,Malaga,910,10.1,3.0,0.0,49.0,2.0,40.0,Malaga
+,Vitorino Antunes,pt POR,DF,11,10,1.0,1.0,2012-2013,3e4f735d,Malaga,945,10.5,0.0,0.0,49.0,3.0,2383.0,Malaga
+,Diego Lugano,uy URU,DF,11,10,1.0,0.0,2012-2013,303ad7c3,Malaga,929,10.3,3.0,0.0,49.0,8.0,2384.0,Malaga
+,Seba Fernández,uy URU,FW,17,5,0.0,0.0,2012-2013,8ea14d54,Malaga,498,5.5,2.0,0.0,49.0,8.0,2370.0,Malaga
+,Pedro Morales,cl CHI,MF,7,5,3.0,3.0,2012-2013,ff840341,Malaga,396,4.4,0.0,0.0,49.0,31.0,2385.0,Malaga
+,Lucas Piazon,br BRA,"FW,MF",11,4,2.0,0.0,2012-2013,f201798c,Malaga,459,5.1,0.0,0.0,49.0,2.0,2386.0,Malaga
+,Duda,pt POR,"DF,FW",17,3,1.0,0.0,2012-2013,13d41642,Malaga,545,6.1,6.0,0.0,49.0,3.0,,Malaga
+,Diego Buonanotte,ar ARG,"FW,MF",9,2,3.0,1.0,2012-2013,4680cb30,Malaga,253,2.8,1.0,0.0,49.0,5.0,2381.0,Malaga
+,Carlos Kameni,cm CMR,GK,3,2,0.0,0.0,2012-2013,867c7fb3,Malaga,230,2.6,0.0,0.0,49.0,36.0,2380.0,Malaga
+,Recio,es ESP,MF,4,1,0.0,0.0,2012-2013,54073b28,Malaga,138,1.5,1.0,0.0,49.0,1.0,2371.0,Malaga
+,Oguchi Onyewu,us USA,DF,2,1,0.0,0.0,2012-2013,79283d79,Malaga,106,1.2,0.0,0.0,49.0,75.0,2387.0,Malaga
+,Fabrice Olinga,cm CMR,"FW,MF",2,1,0.0,1.0,2012-2013,cb82cc9a,Malaga,78,0.9,0.0,0.0,49.0,36.0,2395.0,Malaga
+,Juanmi,es ESP,"FW,MF",1,0,0.0,1.0,2012-2013,84399660,Malaga,23,0.3,0.0,0.0,49.0,1.0,,Malaga
+,﻿Willy Caballero,ar ARG,GK,38,38,0.0,0.0,2013-2014,179d516,Malaga,"3,420",38.0,3.0,0.0,49.0,5.0,2373.0,Malaga
+,Vitorino Antunes,pt POR,DF,36,36,0.0,0.0,2013-2014,3e4f735d,Malaga,"3,179",35.3,12.0,0.0,49.0,3.0,2383.0,Malaga
+,Jesús Gámez,es ESP,DF,28,28,2.0,0.0,2013-2014,bd1d1cbb,Malaga,"2,440",27.1,10.0,1.0,49.0,1.0,,Malaga
+,Ignacio Camacho,es ESP,MF,33,27,0.0,5.0,2013-2014,8ed9b33a,Malaga,"2,383",26.5,7.0,0.0,49.0,1.0,,Malaga
+,Sergio Sánchez,es ESP,DF,27,26,1.0,0.0,2013-2014,83a83b0a,Malaga,"2,329",25.9,12.0,1.0,49.0,1.0,,Malaga
+,Marcos Angeleri,ar ARG,DF,26,25,1.0,0.0,2013-2014,f1c9c320,Malaga,"2,221",24.7,9.0,2.0,49.0,5.0,2388.0,Malaga
+,Sergi Darder,es ESP,MF,29,25,2.0,2.0,2013-2014,070a3904,Malaga,"2,216",24.6,6.0,0.0,49.0,1.0,2389.0,Malaga
+,Fernando Tissone,ar ARG,MF,26,25,1.0,1.0,2013-2014,224238d,Malaga,"2,109",23.4,6.0,0.0,49.0,5.0,,Malaga
+,Roque Santa Cruz,py PAR,FW,31,24,2.0,6.0,2013-2014,7f2107eb,Malaga,"2,134",23.7,1.0,0.0,49.0,43.0,,Malaga
+,Duda,pt POR,"DF,FW",24,20,5.0,2.0,2013-2014,13d41642,Malaga,"1,741",19.3,10.0,2.0,49.0,3.0,,Malaga
+,Samu García,es ESP,"FW,MF",27,20,2.0,4.0,2013-2014,5f7db81a,Malaga,"1,570",17.4,4.0,0.0,49.0,1.0,2390.0,Malaga
+,Francisco Portillo,es ESP,MF,25,19,2.0,3.0,2013-2014,8e010ff4,Malaga,"1,623",18.0,1.0,1.0,49.0,1.0,,Malaga
+,Eliseu,pt POR,"DF,MF",28,18,2.0,2.0,2013-2014,981869fc,Malaga,"1,650",18.3,9.0,0.0,49.0,3.0,2347.0,Malaga
+,Nordin Amrabat,ma MAR,"FW,MF",15,15,5.0,2.0,2013-2014,7c2a398c,Malaga,"1,305",14.5,1.0,1.0,49.0,26.0,2391.0,Malaga
+,Weligton Oliveira,br BRA,DF,16,15,0.0,1.0,2013-2014,ce8c6861,Malaga,"1,276",14.2,6.0,0.0,49.0,2.0,2340.0,Malaga
+,Flávio Ferreira,pt POR,"DF,MF",16,14,0.0,0.0,2013-2014,867f734,Malaga,"1,329",14.8,6.0,0.0,49.0,3.0,2392.0,Malaga
+,Juanmi,es ESP,"FW,MF",22,9,0.0,4.0,2013-2014,84399660,Malaga,998,11.1,4.0,0.0,49.0,1.0,,Malaga
+,Pedro Morales,cl CHI,MF,15,8,0.0,1.0,2013-2014,ff840341,Malaga,652,7.2,1.0,0.0,49.0,31.0,2385.0,Malaga
+,Mounir El Hamdaoui,ma MAR,FW,13,6,2.0,3.0,2013-2014,d23e085d,Malaga,542,6.0,0.0,0.0,49.0,26.0,2393.0,Malaga
+,Pablo Pérez,ar ARG,MF,11,6,2.0,1.0,2013-2014,3bac82ad,Malaga,519,5.8,5.0,1.0,49.0,5.0,2394.0,Malaga
+,Fabrice Olinga,cm CMR,"FW,MF",8,6,0.0,0.0,2013-2014,cb82cc9a,Malaga,510,5.7,2.0,0.0,49.0,36.0,2395.0,Malaga
+,Oleksandr Yakovenko,ua UKR,"FW,MF",9,3,0.0,1.0,2013-2014,40a520a4,Malaga,376,4.2,4.0,0.0,49.0,29.0,2396.0,Malaga
+,Roberto Chen,pa PAN,"DF,MF",2,2,0.0,0.0,2013-2014,55bff95f,Malaga,180,2.0,1.0,0.0,49.0,89.0,2397.0,Malaga
+,Bartłomiej Pawłowski,pl POL,"FW,MF",8,1,0.0,1.0,2013-2014,232ac943,Malaga,260,2.9,1.0,0.0,49.0,14.0,2398.0,Malaga
+,Bobley Anderson,ci CIV,MF,8,1,1.0,0.0,2013-2014,f691678c,Malaga,255,2.8,1.0,0.0,49.0,35.0,2399.0,Malaga
+,Ezequiel Rescaldani,ar ARG,FW,6,1,0.0,0.0,2013-2014,fa1042a6,Malaga,152,1.7,0.0,0.0,49.0,5.0,2400.0,Malaga
+,José Manuel Casado,es ESP,DF,2,0,0.0,0.0,2013-2014,d0b6d20e,Malaga,54,0.6,0.0,0.0,49.0,1.0,,Malaga
+,Seba Fernández,uy URU,FW,2,0,0.0,0.0,2013-2014,8ea14d54,Malaga,26,0.3,0.0,0.0,49.0,8.0,2370.0,Malaga
+,﻿Carlos Kameni,cm CMR,GK,38,38,0.0,0.0,2014-2015,867c7fb3,Malaga,"3,420",38.0,3.0,0.0,49.0,36.0,2380.0,Malaga
+,Roberto Rosales,ve VEN,"DF,MF",34,34,3.0,0.0,2014-2015,81069528,Malaga,"3,037",33.7,7.0,0.0,49.0,53.0,2401.0,Malaga
+,Sergi Darder,es ESP,MF,34,33,0.0,4.0,2014-2015,070a3904,Malaga,"2,743",30.5,10.0,1.0,49.0,1.0,2389.0,Malaga
+,Weligton Oliveira,br BRA,DF,32,32,1.0,0.0,2014-2015,ce8c6861,Malaga,"2,739",30.4,14.0,2.0,49.0,2.0,2340.0,Malaga
+,Samu Castillejo,es ESP,"FW,MF",34,28,5.0,1.0,2014-2015,130a7a3f,Malaga,"2,339",26.0,5.0,0.0,49.0,1.0,2402.0,Malaga
+,Samu García,es ESP,"FW,MF",32,27,1.0,5.0,2014-2015,5f7db81a,Malaga,"2,232",24.8,8.0,1.0,49.0,1.0,2390.0,Malaga
+,Juanmi,es ESP,"FW,MF",34,26,0.0,8.0,2014-2015,84399660,Malaga,"2,226",24.7,4.0,0.0,49.0,1.0,,Malaga
+,Ignacio Camacho,es ESP,MF,25,25,2.0,2.0,2014-2015,8ed9b33a,Malaga,"2,205",24.5,11.0,0.0,49.0,1.0,,Malaga
+,Marcos Angeleri,ar ARG,DF,22,21,0.0,0.0,2014-2015,f1c9c320,Malaga,"1,880",20.9,4.0,2.0,49.0,5.0,2388.0,Malaga
+,Nordin Amrabat,ma MAR,"FW,MF",31,20,4.0,6.0,2014-2015,7c2a398c,Malaga,"2,048",22.8,7.0,0.0,49.0,26.0,2391.0,Malaga
+,Sergio Sánchez,es ESP,DF,21,19,0.0,0.0,2014-2015,83a83b0a,Malaga,"1,708",19.0,7.0,0.0,49.0,1.0,,Malaga
+,Arthur Boka,ci CIV,DF,23,18,1.0,0.0,2014-2015,3abb0642,Malaga,"1,708",19.0,2.0,0.0,49.0,35.0,2403.0,Malaga
+,Ricardo Horta,pt POR,"FW,MF",31,16,1.0,1.0,2014-2015,6603fed7,Malaga,"1,519",16.9,3.0,0.0,49.0,3.0,2404.0,Malaga
+,Recio,es ESP,MF,30,15,2.0,1.0,2014-2015,54073b28,Malaga,"1,493",16.6,10.0,0.0,49.0,1.0,2371.0,Malaga
+,Vitorino Antunes,pt POR,DF,15,15,2.0,0.0,2014-2015,3e4f735d,Malaga,"1,319",14.7,1.0,1.0,49.0,3.0,2383.0,Malaga
+,Miguel Torres,es ESP,DF,16,13,1.0,0.0,2014-2015,44b61913,Malaga,"1,172",13.0,4.0,0.0,49.0,1.0,55.0,Malaga
+,Roque Santa Cruz,py PAR,FW,12,11,1.0,4.0,2014-2015,7f2107eb,Malaga,912,10.1,0.0,0.0,49.0,43.0,,Malaga
+,Duda,pt POR,"DF,FW",25,9,1.0,1.0,2014-2015,13d41642,Malaga,882,9.8,4.0,1.0,49.0,3.0,,Malaga
+,Javi Guerra,es ESP,FW,13,7,1.0,5.0,2014-2015,386464,Malaga,689,7.7,0.0,0.0,49.0,1.0,,Malaga
+,Luis Alberto,es ESP,"FW,MF",15,6,1.0,2.0,2014-2015,5294a83f,Malaga,582,6.5,0.0,0.0,49.0,1.0,,Malaga
+,Fernando Tissone,ar ARG,MF,7,3,0.0,0.0,2014-2015,224238d,Malaga,329,3.7,3.0,0.0,49.0,5.0,,Malaga
+,Juanpi,ve VEN,MF,5,2,0.0,0.0,2014-2015,d79afcfc,Malaga,207,2.3,1.0,0.0,49.0,53.0,2405.0,Malaga
+,Ezequiel Rescaldani,ar ARG,FW,1,0,0.0,0.0,2014-2015,fa1042a6,Malaga,40,0.4,1.0,0.0,49.0,5.0,2400.0,Malaga
+,Agustín Cousillas,ar ARG,GK,0,0,,,2014-2015,69f08ace,Malaga,,,,,49.0,5.0,2406.0,Malaga
+,Flávio Ferreira,pt POR,"DF,MF",0,0,,,2014-2015,867f734,Malaga,,,,,49.0,3.0,2392.0,Malaga
+,Egor Filipenko,by BLR,DF,0,0,,,2014-2015,1321d6f0,Malaga,,,,,49.0,77.0,2407.0,Malaga
+,José Manuel Casado,es ESP,DF,0,0,,,2014-2015,d0b6d20e,Malaga,,,,,49.0,1.0,,Malaga
+,Guillermo Ochoa,mx MEX,GK,0,0,,,2014-2015,1e9bde92,Malaga,,,,,49.0,20.0,2408.0,Malaga
+,Francisco Portillo,es ESP,MF,0,0,,,2014-2015,8e010ff4,Malaga,,,,,49.0,1.0,,Malaga
+,﻿Roberto Rosales,ve VEN,DF,35,35,4.0,0.0,2015-2016,81069528,Malaga,"3,070",34.1,5.0,0.0,49.0,53.0,2401.0,Malaga
+,Charles,br BRA,FW,35,33,3.0,12.0,2015-2016,c4b8bcf4,Malaga,"3,003",33.4,12.0,0.0,49.0,2.0,,Malaga
+,Recio,es ESP,MF,33,32,4.0,0.0,2015-2016,54073b28,Malaga,"2,743",30.5,16.0,0.0,49.0,1.0,2371.0,Malaga
+,Weligton Oliveira,br BRA,DF,30,30,1.0,0.0,2015-2016,ce8c6861,Malaga,"2,605",28.9,5.0,0.0,49.0,2.0,2340.0,Malaga
+,Carlos Kameni,cm CMR,GK,28,28,1.0,0.0,2015-2016,867c7fb3,Malaga,"2,466",27.4,1.0,0.0,49.0,36.0,2380.0,Malaga
+,Raúl Albentosa,es ESP,DF,29,27,0.0,2.0,2015-2016,348e4809,Malaga,"2,555",28.4,11.0,0.0,49.0,1.0,,Malaga
+,Duje Čop,hr CRO,"FW,MF",31,25,3.0,7.0,2015-2016,8b0b02c9,Malaga,"2,047",22.7,3.0,0.0,49.0,16.0,2409.0,Malaga
+,Ignacio Camacho,es ESP,MF,23,23,1.0,2.0,2015-2016,8ed9b33a,Malaga,"2,006",22.3,9.0,1.0,49.0,1.0,,Malaga
+,Miguel Torres,es ESP,DF,23,22,2.0,0.0,2015-2016,44b61913,Malaga,"1,958",21.8,9.0,0.0,49.0,1.0,55.0,Malaga
+,Juanpi,ve VEN,MF,29,18,1.0,4.0,2015-2016,d79afcfc,Malaga,"1,618",18.0,5.0,0.0,49.0,53.0,2405.0,Malaga
+,Chory Castro,uy URU,MF,16,15,1.0,1.0,2015-2016,8cc3d96e,Malaga,"1,241",13.8,1.0,0.0,49.0,8.0,,Malaga
+,Juankar,es ESP,"MF,DF",19,14,2.0,1.0,2015-2016,9a12436,Malaga,"1,248",13.9,1.0,0.0,49.0,1.0,98.0,Malaga
+,Marcos Angeleri,ar ARG,DF,13,13,0.0,0.0,2015-2016,f1c9c320,Malaga,"1,111",12.3,3.0,0.0,49.0,5.0,2388.0,Malaga
+,Nordin Amrabat,ma MAR,"MF,FW",13,13,1.0,0.0,2015-2016,7c2a398c,Malaga,"1,003",11.1,5.0,1.0,49.0,26.0,2391.0,Malaga
+,Pablo Fornals,es ESP,MF,27,12,0.0,1.0,2015-2016,82927de4,Malaga,"1,295",14.4,1.0,0.0,49.0,1.0,2410.0,Malaga
+,Arthur Boka,ci CIV,DF,14,12,0.0,0.0,2015-2016,3abb0642,Malaga,"1,046",11.6,5.0,1.0,49.0,35.0,2403.0,Malaga
+,Fernando Tissone,ar ARG,MF,12,12,0.0,0.0,2015-2016,224238d,Malaga,994,11.0,6.0,2.0,49.0,5.0,,Malaga
+,Duda,pt POR,MF,26,10,1.0,1.0,2015-2016,13d41642,Malaga,"1,072",11.9,5.0,0.0,49.0,3.0,,Malaga
+,Guillermo Ochoa,mx MEX,GK,11,10,0.0,0.0,2015-2016,1e9bde92,Malaga,954,10.6,0.0,0.0,49.0,20.0,2408.0,Malaga
+,Ricardo Horta,pt POR,MF,17,9,0.0,0.0,2015-2016,6603fed7,Malaga,778,8.6,2.0,0.0,49.0,3.0,2404.0,Malaga
+,Federico Ricca,uy URU,"DF,MF",8,7,1.0,1.0,2015-2016,54f5ce34,Malaga,640,7.1,3.0,0.0,49.0,8.0,2411.0,Malaga
+,Egor Filipenko,by BLR,"DF,MF",8,6,0.0,0.0,2015-2016,1321d6f0,Malaga,562,6.2,1.0,0.0,49.0,77.0,2407.0,Malaga
+,Adnane Tighadouini,ma MAR,"MF,FW",10,4,0.0,1.0,2015-2016,52e477c,Malaga,388,4.3,0.0,0.0,49.0,26.0,2412.0,Malaga
+,Roque Santa Cruz,py PAR,FW,17,3,1.0,2.0,2015-2016,7f2107eb,Malaga,430,4.8,0.0,0.0,49.0,43.0,,Malaga
+,Christian Atsu,gh GHA,MF,12,3,0.0,2.0,2015-2016,8816329f,Malaga,392,4.4,0.0,0.0,49.0,17.0,2413.0,Malaga
+,Sergi Darder,es ESP,MF,1,1,0.0,0.0,2015-2016,070a3904,Malaga,84,0.9,1.0,0.0,49.0,1.0,2389.0,Malaga
+,Ikechukwu Uche,ng NGA,FW,3,1,0.0,0.0,2015-2016,ba7c6d25,Malaga,82,0.9,0.0,0.0,49.0,52.0,2414.0,Malaga
+,Fábio Espinho,pt POR,MF,2,0,0.0,0.0,2015-2016,6ad3c36f,Malaga,89,1.0,0.0,0.0,49.0,3.0,2415.0,Malaga
+,Javier Ontiveros,es ESP,MF,4,0,0.0,0.0,2015-2016,83d8b0c,Malaga,60,0.7,0.0,0.0,49.0,1.0,,Malaga
+,Hachim Mastour,ma MAR,FW,1,0,0.0,0.0,2015-2016,585f1c2,Malaga,6,0.1,0.0,0.0,49.0,26.0,2416.0,Malaga
+,Cifu,es ESP,"DF,MF",0,0,,,2015-2016,90f83973,Malaga,,,,,49.0,1.0,2417.0,Malaga
+,Aarón Escandell,es ESP,GK,0,0,,,2015-2016,67669ce7,Malaga,,,,,49.0,1.0,2418.0,Malaga
+,﻿Carlos Kameni,cm CMR,GK,35,35,0.0,0.0,2016-2017,867c7fb3,Malaga,"3,150",35.0,2.0,0.0,49.0,36.0,2380.0,Malaga
+,Ignacio Camacho,es ESP,MF,35,35,2.0,4.0,2016-2017,8ed9b33a,Malaga,"3,145",34.9,14.0,0.0,49.0,1.0,,Malaga
+,Roberto Rosales,ve VEN,DF,32,32,2.0,1.0,2016-2017,81069528,Malaga,"2,860",31.8,5.0,1.0,49.0,53.0,2401.0,Malaga
+,Pablo Fornals,es ESP,MF,32,31,2.0,6.0,2016-2017,82927de4,Malaga,"2,666",29.6,6.0,0.0,49.0,1.0,2410.0,Malaga
+,Sandro Ramírez,es ESP,FW,30,28,4.0,14.0,2016-2017,833fb62e,Malaga,"2,306",25.6,3.0,0.0,49.0,1.0,,Malaga
+,Juankar,es ESP,"DF,MF",28,23,4.0,2.0,2016-2017,9a12436,Malaga,"2,060",22.9,8.0,1.0,49.0,1.0,98.0,Malaga
+,Diego Llorente,es ESP,"DF,MF",25,23,0.0,2.0,2016-2017,bba30585,Malaga,"2,028",22.5,2.0,1.0,49.0,1.0,114.0,Malaga
+,Chory Castro,uy URU,"MF,FW",29,21,3.0,1.0,2016-2017,8cc3d96e,Malaga,"1,790",19.9,5.0,1.0,49.0,8.0,,Malaga
+,Luis Hernández,es ESP,DF,19,19,1.0,1.0,2016-2017,02d2c436,Malaga,"1,678",18.6,3.0,0.0,49.0,1.0,2419.0,Malaga
+,Federico Ricca,uy URU,DF,21,19,1.0,0.0,2016-2017,54f5ce34,Malaga,"1,619",18.0,6.0,0.0,49.0,8.0,2411.0,Malaga
+,Miguel Torres,es ESP,DF,22,18,0.0,0.0,2016-2017,44b61913,Malaga,"1,565",17.4,4.0,0.0,49.0,1.0,55.0,Malaga
+,Juanpi,ve VEN,"MF,FW",22,16,0.0,2.0,2016-2017,d79afcfc,Malaga,"1,472",16.4,5.0,1.0,49.0,53.0,2405.0,Malaga
+,Recio,es ESP,MF,18,16,3.0,3.0,2016-2017,54073b28,Malaga,"1,354",15.0,9.0,0.0,49.0,1.0,2371.0,Malaga
+,Jony,es ESP,MF,24,15,1.0,2.0,2016-2017,244f57b9,Malaga,"1,245",13.8,3.0,0.0,49.0,1.0,,Malaga
+,Mikel Villanueva,ve VEN,DF,15,14,0.0,0.0,2016-2017,65f90a76,Malaga,"1,264",14.0,4.0,0.0,49.0,53.0,2420.0,Malaga
+,Keko,es ESP,MF,22,13,3.0,0.0,2016-2017,1512328c,Malaga,"1,051",11.7,6.0,0.0,49.0,1.0,,Malaga
+,Charles,br BRA,FW,21,11,1.0,3.0,2016-2017,c4b8bcf4,Malaga,"1,141",12.7,5.0,0.0,49.0,2.0,,Malaga
+,Michael Santos,uy URU,"FW,MF",14,8,0.0,3.0,2016-2017,3cb6f224,Malaga,739,8.2,3.0,0.0,49.0,8.0,2421.0,Malaga
+,Javier Ontiveros,es ESP,MF,18,7,3.0,2.0,2016-2017,83d8b0c,Malaga,833,9.3,4.0,0.0,49.0,1.0,,Malaga
+,Martín Demichelis,ar ARG,DF,10,7,0.0,0.0,2016-2017,9c7102a,Malaga,678,7.5,3.0,0.0,49.0,5.0,2372.0,Malaga
+,Bakary Koné,bf BFA,DF,7,7,0.0,0.0,2016-2017,1f713024,Malaga,601,6.7,2.0,1.0,49.0,62.0,2422.0,Malaga
+,José Rodríguez,es ESP,MF,6,6,0.0,0.0,2016-2017,55e81c76,Malaga,451,5.0,1.0,1.0,49.0,1.0,115.0,Malaga
+,Luis Muñoz,es ESP,DF,5,4,0.0,0.0,2016-2017,8cfd90fe,Malaga,382,4.2,0.0,0.0,49.0,1.0,2423.0,Malaga
+,Denys Boyko,ua UKR,GK,3,3,0.0,0.0,2016-2017,1e064bfb,Malaga,270,3.0,0.0,0.0,49.0,29.0,2424.0,Malaga
+,Zdravko Kuzmanović,rs SRB,MF,4,3,0.0,0.0,2016-2017,6df0dc74,Malaga,214,2.4,1.0,0.0,49.0,28.0,2425.0,Malaga
+,Duda,pt POR,MF,16,2,2.0,1.0,2016-2017,13d41642,Malaga,389,4.3,3.0,0.0,49.0,3.0,,Malaga
+,Adalberto Peñaranda,ve VEN,FW,3,1,0.0,0.0,2016-2017,4b3f2936,Malaga,173,1.9,1.0,0.0,49.0,53.0,2426.0,Malaga
+,Weligton Oliveira,br BRA,DF,1,1,0.0,0.0,2016-2017,ce8c6861,Malaga,90,1.0,1.0,0.0,49.0,2.0,2340.0,Malaga
+,Youssef En-Nesyri,ma MAR,FW,13,0,1.0,1.0,2016-2017,04e17fd5,Malaga,336,3.7,2.0,0.0,49.0,26.0,,Malaga
+,Aarón Escandell,es ESP,GK,0,0,,,2016-2017,67669ce7,Malaga,,,,,49.0,1.0,2418.0,Malaga
+,Álex Mula,es ESP,MF,0,0,,,2016-2017,bd207a4d,Malaga,,,,,49.0,1.0,2427.0,Malaga
+,﻿Luis Hernández,es ESP,DF,36,36,1.0,0.0,2017-2018,02d2c436,Malaga,"3,240",36.0,8.0,0.0,49.0,1.0,2419.0,Malaga
+,Roberto Rosales,ve VEN,DF,35,35,0.0,1.0,2017-2018,81069528,Malaga,"3,123",34.7,10.0,0.0,49.0,53.0,2401.0,Malaga
+,Roberto,es ESP,GK,34,34,0.0,0.0,2017-2018,ba3ca78f,Malaga,"3,060",34.0,0.0,0.0,49.0,1.0,,Malaga
+,Adrián González,es ESP,"MF,FW",29,27,0.0,3.0,2017-2018,57ebd662,Malaga,"2,340",26.0,8.0,1.0,49.0,1.0,,Malaga
+,Chory Castro,uy URU,MF,26,26,2.0,4.0,2017-2018,8cc3d96e,Malaga,"2,061",22.9,5.0,1.0,49.0,8.0,,Malaga
+,Diego Rolán,uy URU,"FW,MF",26,21,0.0,5.0,2017-2018,d1491e00,Malaga,"1,946",21.6,0.0,0.0,49.0,8.0,,Malaga
+,Recio,es ESP,MF,22,21,2.0,1.0,2017-2018,54073b28,Malaga,"1,837",20.4,11.0,1.0,49.0,1.0,2371.0,Malaga
+,Ignasi Miquel,es ESP,DF,20,20,1.0,0.0,2017-2018,174f09a6,Malaga,"1,773",19.7,5.0,1.0,49.0,1.0,2428.0,Malaga
+,Manuel Iturra,cl CHI,MF,20,18,0.0,0.0,2017-2018,000b3da6,Malaga,"1,583",17.6,6.0,0.0,49.0,31.0,2382.0,Malaga
+,Diego González,es ESP,DF,18,17,0.0,1.0,2017-2018,4ac7608e,Malaga,"1,429",15.9,5.0,0.0,49.0,1.0,,Malaga
+,Youssef En-Nesyri,ma MAR,FW,25,16,0.0,4.0,2017-2018,04e17fd5,Malaga,"1,596",17.7,2.0,1.0,49.0,26.0,,Malaga
+,Keko,es ESP,MF,21,15,2.0,0.0,2017-2018,1512328c,Malaga,"1,209",13.4,3.0,0.0,49.0,1.0,,Malaga
+,Paul Baysse,fr FRA,DF,15,13,0.0,1.0,2017-2018,2515040a,Malaga,"1,239",13.8,1.0,0.0,49.0,4.0,2429.0,Malaga
+,Federico Ricca,uy URU,DF,14,13,1.0,0.0,2017-2018,54f5ce34,Malaga,"1,109",12.3,4.0,0.0,49.0,8.0,2411.0,Malaga
+,Mehdi Lacen,dz ALG,MF,15,12,0.0,0.0,2017-2018,3a306f6,Malaga,"1,056",11.7,2.0,0.0,49.0,37.0,2430.0,Malaga
+,Adalberto Peñaranda,ve VEN,"FW,MF",13,11,0.0,0.0,2017-2018,4b3f2936,Malaga,802,8.9,3.0,0.0,49.0,53.0,2426.0,Malaga
+,Juankar,es ESP,DF,10,9,0.0,0.0,2017-2018,9a12436,Malaga,784,8.7,2.0,0.0,49.0,1.0,98.0,Malaga
+,Borja Bastón,es ESP,FW,20,8,0.0,2.0,2017-2018,8c44e37b,Malaga,985,10.9,2.0,0.0,49.0,1.0,,Malaga
+,Brown Ideye,ng NGA,FW,13,8,0.0,1.0,2017-2018,f519b556,Malaga,733,8.1,2.0,0.0,49.0,52.0,2431.0,Malaga
+,Miguel Torres,es ESP,DF,8,8,0.0,0.0,2017-2018,44b61913,Malaga,673,7.5,3.0,0.0,49.0,1.0,55.0,Malaga
+,Maxime Lestienne,be BEL,MF,12,8,1.0,0.0,2017-2018,c290817,Malaga,669,7.4,1.0,0.0,49.0,27.0,2432.0,Malaga
+,Álex Mula,es ESP,"MF,FW",11,7,0.0,0.0,2017-2018,bd207a4d,Malaga,561,6.2,1.0,0.0,49.0,1.0,2427.0,Malaga
+,Isaac Success,ng NGA,"MF,FW",9,7,1.0,0.0,2017-2018,f573a8bf,Malaga,492,5.5,0.0,0.0,49.0,52.0,2433.0,Malaga
+,Zdravko Kuzmanović,rs SRB,MF,8,6,1.0,0.0,2017-2018,6df0dc74,Malaga,480,5.3,4.0,2.0,49.0,28.0,2425.0,Malaga
+,Esteban Rolón,ar ARG,MF,8,6,0.0,0.0,2017-2018,10e25802,Malaga,418,4.6,1.0,0.0,49.0,5.0,2434.0,Malaga
+,Juanpi,ve VEN,"MF,FW",16,5,2.0,0.0,2017-2018,d79afcfc,Malaga,610,6.8,1.0,0.0,49.0,53.0,2405.0,Malaga
+,Andrés Prieto,es ESP,GK,4,4,0.0,0.0,2017-2018,113fb4ea,Malaga,360,4.0,0.0,0.0,49.0,1.0,2435.0,Malaga
+,Samu García,es ESP,MF,7,2,1.0,0.0,2017-2018,5f7db81a,Malaga,177,2.0,1.0,1.0,49.0,1.0,2390.0,Malaga
+,Javier Ontiveros,es ESP,MF,12,1,0.0,0.0,2017-2018,83d8b0c,Malaga,391,4.3,4.0,0.0,49.0,1.0,,Malaga
+,Alberto Bueno,es ESP,"MF,FW",11,1,0.0,0.0,2017-2018,9b878773,Malaga,226,2.5,0.0,0.0,49.0,1.0,78.0,Malaga
+,Jony,es ESP,MF,5,1,0.0,0.0,2017-2018,244f57b9,Malaga,217,2.4,1.0,0.0,49.0,1.0,,Malaga
+,Cifu,es ESP,DF,2,1,0.0,0.0,2017-2018,90f83973,Malaga,108,1.2,0.0,0.0,49.0,1.0,2417.0,Malaga
+,Álex Robles,es ESP,DF,1,1,0.0,0.0,2017-2018,df9326db,Malaga,90,1.0,0.0,0.0,49.0,1.0,2436.0,Malaga
+,Alberto López,es ESP,DF,1,0,0.0,0.0,2017-2018,c0de5ff5,Malaga,45,0.5,0.0,0.0,49.0,1.0,,Malaga
+,Emanuel Cecchini,ar ARG,"MF,DF",2,0,0.0,0.0,2017-2018,5c256395,Malaga,30,0.3,2.0,0.0,49.0,5.0,2437.0,Malaga
+,Iván Rodríguez,es ESP,DF,1,0,0.0,0.0,2017-2018,55fe48,Malaga,20,0.2,1.0,0.0,49.0,1.0,2438.0,Malaga
+,Juan Cruz,es ESP,FW,1,0,0.0,0.0,2017-2018,cc2dd8a5,Malaga,7,0.1,0.0,0.0,49.0,1.0,2439.0,Malaga
+,José Carlos,es ESP,MF,0,0,,,2017-2018,766d9c80,Malaga,,,,,49.0,1.0,2440.0,Malaga
+,Cenk Gönen,tr TUR,GK,0,0,,,2017-2018,76338022,Malaga,,,,,49.0,15.0,2441.0,Malaga
+,Ían Pino,es ESP,DF,0,0,,,2017-2018,40585058,Malaga,,,,,49.0,1.0,2442.0,Malaga
+,﻿Pau Torres,es ESP,DF,38,38,1.0,1.0,2018-2019,532e1e4f,Malaga,"3,420",38.0,6.0,0.0,49.0,1.0,2443.0,Malaga
+,Adrián González,es ESP,MF,38,37,2.0,10.0,2018-2019,57ebd662,Malaga,"3,186",35.4,9.0,0.0,49.0,1.0,,Malaga
+,Munir,ma MAR,GK,36,36,0.0,0.0,2018-2019,fc8287db,Malaga,"3,240",36.0,3.0,0.0,49.0,26.0,2444.0,Malaga
+,Gustavo Blanco Leschuk,ar ARG,FW,39,36,8.0,9.0,2018-2019,3b07529c,Malaga,"3,200",35.6,8.0,2.0,49.0,5.0,2445.0,Malaga
+,Federico Ricca,uy URU,DF,37,36,3.0,5.0,2018-2019,54f5ce34,Malaga,"3,195",35.5,11.0,0.0,49.0,8.0,2411.0,Malaga
+,Alfred N'Diaye,sn SEN,MF,34,34,0.0,5.0,2018-2019,7789bf63,Malaga,"3,005",33.4,15.0,2.0,49.0,34.0,,Malaga
+,Luis Hernández,es ESP,DF,24,23,1.0,0.0,2018-2019,02d2c436,Malaga,"2,071",23.0,3.0,0.0,49.0,1.0,2419.0,Malaga
+,Cifu,es ESP,DF,24,23,0.0,2.0,2018-2019,90f83973,Malaga,"2,026",22.5,1.0,0.0,49.0,1.0,2417.0,Malaga
+,Javier Ontiveros,es ESP,MF,31,21,3.0,4.0,2018-2019,83d8b0c,Malaga,"1,890",21.0,9.0,1.0,49.0,1.0,,Malaga
+,Jack Harper,sct SCO,"FW,MF",25,20,2.0,4.0,2018-2019,97783c7b,Malaga,"1,820",20.2,6.0,0.0,49.0,67.0,2446.0,Malaga
+,Diego González,es ESP,DF,22,19,0.0,0.0,2018-2019,4ac7608e,Malaga,"1,762",19.6,6.0,1.0,49.0,1.0,,Malaga
+,Iván Rodríguez,es ESP,DF,20,18,1.0,0.0,2018-2019,55fe48,Malaga,"1,602",17.8,5.0,0.0,49.0,1.0,2438.0,Malaga
+,Renato Santos,pt POR,"MF,FW",25,16,4.0,2.0,2018-2019,7ea4f8d7,Malaga,"1,330",14.8,1.0,0.0,49.0,3.0,2447.0,Malaga
+,Keidi Bare,al ALB,MF,16,15,1.0,0.0,2018-2019,03049c8c,Malaga,"1,121",12.5,5.0,2.0,49.0,78.0,,Malaga
+,Daniel Pacheco,es ESP,MF,22,14,3.0,1.0,2018-2019,5b2a4b8d,Malaga,"1,290",14.3,4.0,0.0,49.0,1.0,,Malaga
+,Juanpi,ve VEN,MF,15,13,1.0,1.0,2018-2019,d79afcfc,Malaga,895,9.9,2.0,0.0,49.0,53.0,2405.0,Malaga
+,Mehdi Lacen,dz ALG,MF,14,7,0.0,0.0,2018-2019,3a306f6,Malaga,677,7.5,2.0,0.0,49.0,37.0,2430.0,Malaga
+,Iván Alejo,es ESP,MF,12,7,0.0,0.0,2018-2019,3d7e48ce,Malaga,661,7.3,5.0,0.0,49.0,1.0,2448.0,Malaga
+,David Lombán,es ESP,"DF,MF",10,6,0.0,0.0,2018-2019,b43b81f1,Malaga,475,5.3,4.0,0.0,49.0,1.0,,Malaga
+,Erik Morán,es ESP,MF,7,6,0.0,0.0,2018-2019,6941883f,Malaga,424,4.7,4.0,0.0,49.0,1.0,,Malaga
+,Paweł Kieszek,pl POL,GK,5,5,0.0,0.0,2018-2019,8dbddd2b,Malaga,450,5.0,0.0,0.0,49.0,14.0,2449.0,Malaga
+,Mamadou Koné,ci CIV,"FW,MF",8,5,2.0,2.0,2018-2019,85b9dca0,Malaga,372,4.1,1.0,0.0,49.0,35.0,,Malaga
+,Álex Mula,es ESP,MF,11,4,0.0,0.0,2018-2019,bd207a4d,Malaga,400,4.4,1.0,0.0,49.0,1.0,2427.0,Malaga
+,Juankar,es ESP,"DF,MF",6,3,0.0,1.0,2018-2019,9a12436,Malaga,335,3.7,1.0,0.0,49.0,1.0,98.0,Malaga
+,Hicham Boussefiane,ma MAR,MF,15,2,1.0,2.0,2018-2019,8a8682c5,Malaga,406,4.5,3.0,0.0,49.0,26.0,2459.0,Malaga
+,Yevhen Seleznyov,ua UKR,FW,12,2,0.0,0.0,2018-2019,04da2b40,Malaga,354,3.9,0.0,0.0,49.0,29.0,2450.0,Malaga
+,Badr Boulahroud,ma MAR,MF,7,2,0.0,1.0,2018-2019,24ea5ab0,Malaga,240,2.7,2.0,0.0,49.0,26.0,2451.0,Malaga
+,Recio,es ESP,MF,2,2,0.0,0.0,2018-2019,54073b28,Malaga,180,2.0,0.0,0.0,49.0,1.0,2371.0,Malaga
+,Hugo Vallejo,es ESP,MF,3,1,0.0,0.0,2018-2019,0140385,Malaga,111,1.2,0.0,0.0,49.0,1.0,,Malaga
+,Héctor,es ESP,"DF,FW",7,0,0.0,0.0,2018-2019,6294bc9d,Malaga,151,1.7,0.0,0.0,49.0,1.0,,Malaga
+,Sead Haksabanović,me MNE,"FW,MF",2,0,0.0,0.0,2018-2019,d2fd7c14,Malaga,55,0.6,1.0,0.0,49.0,33.0,2452.0,Malaga
+,Miguel Torres,es ESP,DF,1,0,0.0,0.0,2018-2019,44b61913,Malaga,23,0.3,0.0,0.0,49.0,1.0,55.0,Malaga
+,Abdelkabir Abqar,ma MAR,DF,0,0,,,2018-2019,2bc7f211,Malaga,,,,,49.0,26.0,2453.0,Malaga
+,Rajko Brežančić,rs SRB,DF,0,0,,,2018-2019,1519a888,Malaga,,,,,49.0,28.0,2454.0,Malaga
+,Manuel Iturra,cl CHI,MF,0,0,,,2018-2019,000b3da6,Malaga,,,,,49.0,31.0,2382.0,Malaga
+,Andrés Prieto,es ESP,GK,0,0,,,2018-2019,113fb4ea,Malaga,,,,,49.0,1.0,2435.0,Malaga
+,Axel Werner,ar ARG,GK,0,0,,,2018-2019,c0b1a6da,Malaga,,,,,49.0,5.0,,Malaga
+,﻿Munir,ma MAR,GK,38,38,0.0,0.0,2019-2020,fc8287db,Malaga,"3,420",38.0,3.0,0.0,49.0,26.0,2444.0,Malaga
+,Armando Sadiku,al ALB,FW,36,33,1.0,13.0,2019-2020,8b6d1830,Malaga,"2,927",32.5,6.0,0.0,49.0,78.0,2455.0,Malaga
+,Juankar,es ESP,"DF,MF",36,33,0.0,0.0,2019-2020,9a12436,Malaga,"2,825",31.4,8.0,0.0,49.0,1.0,98.0,Malaga
+,Cifu,es ESP,"DF,MF",34,32,0.0,2.0,2019-2020,90f83973,Malaga,"2,943",32.7,3.0,0.0,49.0,1.0,2417.0,Malaga
+,Adrián González,es ESP,"MF,FW",32,29,2.0,6.0,2019-2020,57ebd662,Malaga,"2,580",28.7,6.0,2.0,49.0,1.0,,Malaga
+,Luis Hernández,es ESP,DF,29,28,1.0,0.0,2019-2020,02d2c436,Malaga,"2,412",26.8,7.0,0.0,49.0,1.0,2419.0,Malaga
+,Juanpi,ve VEN,"MF,FW",34,27,3.0,1.0,2019-2020,d79afcfc,Malaga,"2,349",26.1,2.0,0.0,49.0,53.0,2405.0,Malaga
+,Keidi Bare,al ALB,MF,30,26,0.0,1.0,2019-2020,03049c8c,Malaga,"2,314",25.7,13.0,2.0,49.0,78.0,,Malaga
+,David Lombán,es ESP,DF,27,26,0.0,3.0,2019-2020,b43b81f1,Malaga,"2,121",23.6,4.0,1.0,49.0,1.0,,Malaga
+,Diego González,es ESP,DF,32,25,0.0,0.0,2019-2020,4ac7608e,Malaga,"2,430",27.0,9.0,0.0,49.0,1.0,,Malaga
+,Luis Muñoz,es ESP,"MF,DF",26,24,0.0,0.0,2019-2020,8cfd90fe,Malaga,"2,070",23.0,9.0,0.0,49.0,1.0,2423.0,Malaga
+,Antonio Cortés,es ESP,"FW,MF",22,16,1.0,4.0,2019-2020,31a1288d,Malaga,"1,560",17.3,3.0,0.0,49.0,1.0,2456.0,Malaga
+,Renato Santos,pt POR,MF,32,16,3.0,0.0,2019-2020,7ea4f8d7,Malaga,"1,464",16.3,3.0,0.0,49.0,3.0,2447.0,Malaga
+,Daniel Pacheco,es ESP,"MF,FW",22,14,1.0,1.0,2019-2020,5b2a4b8d,Malaga,"1,369",15.2,4.0,0.0,49.0,1.0,,Malaga
+,Mikel Villanueva,ve VEN,DF,16,14,1.0,1.0,2019-2020,65f90a76,Malaga,"1,218",13.5,3.0,0.0,49.0,53.0,2420.0,Malaga
+,Tete Morente,es ESP,MF,15,13,3.0,2.0,2019-2020,004d185e,Malaga,"1,088",12.1,3.0,0.0,49.0,1.0,2457.0,Malaga
+,Ismael Casas Casado,es ESP,DF,12,11,1.0,0.0,2019-2020,0384f4dd,Malaga,924,10.3,4.0,0.0,49.0,1.0,2458.0,Malaga
+,Hicham Boussefiane,ma MAR,"MF,FW",20,10,2.0,1.0,2019-2020,8a8682c5,Malaga,926,10.3,3.0,0.0,49.0,26.0,2459.0,Malaga
+,Badr Boulahroud,ma MAR,"MF,FW",19,9,1.0,0.0,2019-2020,24ea5ab0,Malaga,932,10.4,3.0,0.0,49.0,26.0,2451.0,Malaga
+,Juande,es ESP,DF,9,9,0.0,0.0,2019-2020,87e0d045,Malaga,810,9.0,2.0,0.0,49.0,1.0,2460.0,Malaga
+,Mohamed Benkhemassa,dz ALG,MF,19,9,0.0,0.0,2019-2020,3f169ab5,Malaga,761,8.5,7.0,0.0,49.0,37.0,2461.0,Malaga
+,Cristo,es ESP,MF,5,3,0.0,0.0,2019-2020,d81ba78,Malaga,268,3.0,0.0,0.0,49.0,1.0,,Malaga
+,Keko,es ESP,MF,7,3,1.0,0.0,2019-2020,1512328c,Malaga,248,2.8,1.0,0.0,49.0,1.0,,Malaga
+,Esteban Rolón,ar ARG,MF,7,3,0.0,0.0,2019-2020,10e25802,Malaga,207,2.3,2.0,0.0,49.0,5.0,2434.0,Malaga
+,Sergio Buenacasa,es ESP,FW,14,2,0.0,0.0,2019-2020,f989b37f,Malaga,360,4.0,2.0,0.0,49.0,1.0,,Malaga
+,Hugo Vallejo,es ESP,FW,5,2,0.0,0.0,2019-2020,0140385,Malaga,262,2.9,0.0,0.0,49.0,1.0,,Malaga
+,Gonzalo Crettaz,ar ARG,GK,2,2,0.0,0.0,2019-2020,3adfa4a6,Malaga,180,2.0,0.0,0.0,49.0,5.0,2462.0,Malaga
+,Kellyan,es ESP,GK,2,2,0.0,0.0,2019-2020,4c21556e,Malaga,180,2.0,0.0,0.0,49.0,1.0,2463.0,Malaga
+,Ramón Enríquez,es ESP,MF,4,2,0.0,0.0,2019-2020,9506d4a1,Malaga,131,1.5,0.0,0.0,49.0,1.0,2464.0,Malaga
+,Lorenzo Gonzales,ch SUI,MF,6,1,0.0,0.0,2019-2020,97894474,Malaga,123,1.4,0.0,0.0,49.0,39.0,2465.0,Malaga
+,Ivan Jaime Pajuelo,es ESP,MF,3,0,0.0,0.0,2019-2020,90ba7fa6,Malaga,12,0.1,0.0,0.0,49.0,1.0,2466.0,Malaga
+,Julio Martínez,es ESP,MF,2,0,0.0,0.0,2019-2020,04c2dc08,Malaga,12,0.1,0.0,0.0,49.0,1.0,2467.0,Malaga
+,Camacho,es ESP,FW,0,0,,,2019-2020,fd43707a,Malaga,,,,,49.0,1.0,2468.0,Malaga
+,Juan Cruz,es ESP,FW,0,0,,,2019-2020,cc2dd8a5,Malaga,,,,,49.0,1.0,2439.0,Malaga
+,David Larrubia,es ESP,FW,0,0,,,2019-2020,09bc5e8,Malaga,,,,,49.0,1.0,2469.0,Malaga
+,Aarón Ñíguez,es ESP,"FW,MF",0,0,,,2019-2020,5d720396,Malaga,,,,,49.0,1.0,,Malaga
+,Alberto Quintana,es ESP,DF,0,0,,,2019-2020,317c5550,Malaga,,,,,49.0,1.0,2470.0,Malaga
+,﻿Juande,es ESP,DF,39,36,0.0,4.0,2020-2021,87e0d045,Malaga,"3,113",34.6,9.0,0.0,49.0,1.0,2460.0,Malaga
+,Yanis Rahmani,fr FRA,"MF,FW",39,35,5.0,5.0,2020-2021,f807f8b3,Malaga,"2,959",32.9,6.0,1.0,49.0,4.0,2471.0,Malaga
+,Alberto Escassi,es ESP,"MF,DF",34,32,0.0,1.0,2020-2021,154fe273,Malaga,"2,881",32.0,12.0,1.0,49.0,1.0,2472.0,Malaga
+,Caye Quintana,es ESP,"FW,MF",35,28,3.0,3.0,2020-2021,42b47114,Malaga,"2,286",25.4,1.0,1.0,49.0,1.0,2473.0,Malaga
+,Jose Matos,es ESP,"DF,MF",30,27,3.0,0.0,2020-2021,19fdd28f,Malaga,"2,306",25.6,6.0,0.0,49.0,1.0,,Malaga
+,Luis Muñoz,es ESP,MF,30,25,0.0,5.0,2020-2021,8cfd90fe,Malaga,"2,224",24.7,8.0,0.0,49.0,1.0,2423.0,Malaga
+,Dani Barrio,es ESP,GK,24,24,0.0,0.0,2020-2021,b56f8c7f,Malaga,"2,160",24.0,2.0,0.0,49.0,1.0,2474.0,Malaga
+,David Lombán,es ESP,DF,29,23,0.0,1.0,2020-2021,b43b81f1,Malaga,"2,160",24.0,3.0,0.0,49.0,1.0,,Malaga
+,Cristian Rodríguez,es ESP,"MF,FW",35,22,3.0,1.0,2020-2021,7187e71,Malaga,"2,115",23.5,5.0,0.0,49.0,1.0,,Malaga
+,Ramón Enríquez,es ESP,MF,28,21,1.0,2.0,2020-2021,9506d4a1,Malaga,"1,814",20.2,4.0,0.0,49.0,1.0,2464.0,Malaga
+,Josua Mejías,ve VEN,DF,21,20,0.0,0.0,2020-2021,f472365d,Malaga,"1,573",17.5,4.0,1.0,49.0,53.0,2475.0,Malaga
+,Jairo Samperio,es ESP,"MF,FW",33,19,4.0,1.0,2020-2021,c0a0c18f,Malaga,"1,622",18.0,1.0,0.0,49.0,1.0,,Malaga
+,Ismael Casas Casado,es ESP,DF,19,19,1.0,0.0,2020-2021,0384f4dd,Malaga,"1,516",16.8,2.0,0.0,49.0,1.0,2458.0,Malaga
+,Joaquín Muñoz,es ESP,MF,30,18,4.0,2.0,2020-2021,9fbcc21,Malaga,"1,701",18.9,7.0,0.0,49.0,1.0,,Malaga
+,Juan Soriano,es ESP,GK,18,18,0.0,0.0,2020-2021,5512b1a9,Malaga,"1,620",18.0,0.0,0.0,49.0,1.0,,Malaga
+,Jozabed,es ESP,"MF,FW",29,17,0.0,2.0,2020-2021,9b337c7c,Malaga,"1,473",16.4,2.0,0.0,49.0,1.0,,Malaga
+,Pablo Chavarría,ar ARG,FW,21,16,2.0,4.0,2020-2021,4207e578,Malaga,"1,535",17.1,7.0,0.0,49.0,5.0,,Malaga
+,Iván Calero,es ESP,"MF,DF",18,15,0.0,1.0,2020-2021,6724c5a9,Malaga,"1,355",15.1,2.0,0.0,49.0,1.0,2476.0,Malaga
+,Alexander González,ve VEN,DF,16,11,0.0,0.0,2020-2021,f3a39fdd,Malaga,890,9.9,3.0,0.0,49.0,53.0,2477.0,Malaga
+,Cristo,es ESP,"DF,MF",18,9,0.0,0.0,2020-2021,d81ba78,Malaga,"1,021",11.3,3.0,0.0,49.0,1.0,,Malaga
+,Alejandro Benítez Palomero,es ESP,DF,9,8,1.0,0.0,2020-2021,18698a9,Malaga,721,8.0,2.0,0.0,49.0,1.0,2478.0,Malaga
+,Mohamed Benkhemassa,dz ALG,MF,20,7,0.0,0.0,2020-2021,3f169ab5,Malaga,821,9.1,3.0,1.0,49.0,37.0,2461.0,Malaga
+,Stefan Šćepović,rs SRB,FW,13,3,0.0,4.0,2020-2021,983f798c,Malaga,396,4.4,0.0,0.0,49.0,28.0,2479.0,Malaga
+,Orlando Sá,pt POR,FW,18,3,0.0,0.0,2020-2021,054ee4e,Malaga,386,4.3,3.0,0.0,49.0,3.0,2480.0,Malaga
+,Julio Martínez,es ESP,MF,12,2,1.0,0.0,2020-2021,04c2dc08,Malaga,221,2.5,2.0,0.0,49.0,1.0,2467.0,Malaga
+,David Larrubia,es ESP,FW,8,1,0.0,0.0,2020-2021,09bc5e8,Malaga,128,1.4,0.0,0.0,49.0,1.0,2469.0,Malaga
+,Tete Morente,es ESP,MF,1,1,0.0,0.0,2020-2021,004d185e,Malaga,90,1.0,1.0,0.0,49.0,1.0,2457.0,Malaga
+,Mini,,MF,3,1,0.0,0.0,2020-2021,5296b908,Malaga,82,0.9,1.0,0.0,49.0,,,Malaga
+,Alberto Quintana,es ESP,MF,3,1,0.0,0.0,2020-2021,317c5550,Malaga,55,0.6,0.0,0.0,49.0,1.0,2470.0,Malaga
+,Loren Zúñiga,es ESP,FW,3,0,0.0,0.0,2020-2021,ccf5a5de,Malaga,49,0.5,0.0,0.0,49.0,1.0,2481.0,Malaga
+,Badr Boulahroud,ma MAR,MF,2,0,0.0,0.0,2020-2021,24ea5ab0,Malaga,39,0.4,0.0,0.0,49.0,26.0,2451.0,Malaga
+,Haitam Abaida,ma MAR,FW,3,0,0.0,0.0,2020-2021,95ca716a,Malaga,26,0.3,0.0,0.0,49.0,26.0,2482.0,Malaga
+,Juan Cruz,es ESP,FW,3,0,0.0,0.0,2020-2021,cc2dd8a5,Malaga,24,0.3,0.0,0.0,49.0,1.0,2439.0,Malaga
+,Issa Fomba,ml MLI,MF,1,0,0.0,0.0,2020-2021,b9d48de,Malaga,20,0.2,0.0,0.0,49.0,12.0,2483.0,Malaga
+,Hicham Boussefiane,ma MAR,FW,2,0,0.0,0.0,2020-2021,8a8682c5,Malaga,11,0.1,0.0,0.0,49.0,26.0,2459.0,Malaga
+,Andrés Caro,es ESP,DF,1,0,0.0,0.0,2020-2021,95d0370f,Malaga,11,0.1,0.0,0.0,49.0,1.0,2484.0,Malaga
+,Esteban Rolón,ar ARG,MF,1,0,0.0,0.0,2020-2021,10e25802,Malaga,2,0.0,0.0,0.0,49.0,5.0,2434.0,Malaga
+,Gonzalo Crettaz,ar ARG,GK,0,0,,,2020-2021,3adfa4a6,Malaga,,,,,49.0,5.0,2462.0,Malaga
+,Miguel De La Osa,es ESP,GK,0,0,,,2020-2021,3dde5352,Malaga,,,,,49.0,1.0,2485.0,Malaga
+,Cristian Delgado,,MF,0,0,,,2020-2021,835c7d4d,Malaga,,,,,49.0,,,Malaga
+,Roberto Férnandez,es ESP,MF,0,0,,,2020-2021,c981fc98,Malaga,,,,,49.0,1.0,2486.0,Malaga
+,Eugenio Gutierrez Gallar,es ESP,DF,0,0,,,2020-2021,2b2ec0de,Malaga,,,,,49.0,1.0,2487.0,Malaga
+,Luis Hernández,es ESP,DF,0,0,,,2020-2021,02d2c436,Malaga,,,,,49.0,1.0,2419.0,Malaga
+,Jesús Hoyos Hidalgo,es ESP,FW,0,0,,,2020-2021,d84534e4,Malaga,,,,,49.0,1.0,2488.0,Malaga
+,Bilal Ouacharaf,ma MAR,FW,0,0,,,2020-2021,1c5ddf6b,Malaga,,,,,49.0,26.0,2489.0,Malaga
+,Ángel Recio,,MF,0,0,,,2020-2021,0ac2784b,Malaga,,,,,49.0,,,Malaga
+,Daniel Strindholm,se SWE,GK,0,0,,,2020-2021,3f81378d,Malaga,,,,,49.0,41.0,2490.0,Malaga
+,Kevin Villodres,es ESP,MF,0,0,,,2020-2021,2a968ed9,Malaga,,,,,49.0,1.0,2491.0,Malaga
+,﻿Alberto Escassi,es ESP,"MF,DF",36,35,0.0,1.0,2021-2022,154fe273,Malaga,"2,991",33.2,13.0,3.0,49.0,1.0,2472.0,Malaga
+,Victor Perea,es ESP,DF,35,33,5.0,0.0,2021-2022,b7de5bad,Malaga,"3,010",33.4,9.0,1.0,49.0,1.0,2492.0,Malaga
+,Mathieu Peybernes,fr FRA,DF,34,33,0.0,2.0,2021-2022,34c872d2,Malaga,"2,879",32.0,7.0,0.0,49.0,4.0,2493.0,Malaga
+,Brandon,es ESP,"FW,MF",40,32,1.0,9.0,2021-2022,3e016e5a,Malaga,"2,813",31.3,10.0,0.0,49.0,1.0,,Malaga
+,Daniel Martín,es ESP,GK,28,28,0.0,0.0,2021-2022,4df0dff8,Malaga,"2,520",28.0,3.0,0.0,49.0,1.0,,Malaga
+,Paulino,es ESP,"MF,FW",37,26,1.0,4.0,2021-2022,f20fce1b,Malaga,"2,407",26.7,9.0,0.0,49.0,1.0,2494.0,Malaga
+,Javier Jiménez,es ESP,DF,27,24,0.0,0.0,2021-2022,d7af6f5b,Malaga,"1,983",22.0,5.0,0.0,49.0,1.0,2495.0,Malaga
+,Jozabed,es ESP,"MF,FW",29,22,2.0,0.0,2021-2022,9b337c7c,Malaga,"1,899",21.1,9.0,0.0,49.0,1.0,,Malaga
+,Juande,es ESP,DF,21,21,0.0,2.0,2021-2022,87e0d045,Malaga,"1,784",19.8,2.0,0.0,49.0,1.0,2460.0,Malaga
+,Genaro Rodríguez Serrano,es ESP,MF,27,20,1.0,2.0,2021-2022,505d9778,Malaga,"1,910",21.2,7.0,1.0,49.0,1.0,,Malaga
+,David Lombán,es ESP,DF,20,18,0.0,0.0,2021-2022,b43b81f1,Malaga,"1,663",18.5,3.0,0.0,49.0,1.0,,Malaga
+,Kevin Villodres,es ESP,MF,30,18,1.0,0.0,2021-2022,2a968ed9,Malaga,"1,423",15.8,3.0,0.0,49.0,1.0,2491.0,Malaga
+,Antonio Cortés,es ESP,"MF,FW",30,17,2.0,3.0,2021-2022,31a1288d,Malaga,"1,357",15.1,2.0,0.0,49.0,1.0,2456.0,Malaga
+,Aleix Febas,es ESP,MF,19,16,1.0,2.0,2021-2022,38126309,Malaga,"1,405",15.6,2.0,0.0,49.0,1.0,,Malaga
+,Roberto Férnandez,es ESP,FW,32,15,1.0,2.0,2021-2022,c981fc98,Malaga,"1,369",15.2,0.0,0.0,49.0,1.0,2486.0,Malaga
+,Braian Cufré,ar ARG,DF,25,14,0.0,0.0,2021-2022,192c89a6,Malaga,"1,499",16.7,3.0,0.0,49.0,5.0,,Malaga
+,Dani Barrio,es ESP,GK,14,14,0.0,0.0,2021-2022,b56f8c7f,Malaga,"1,260",14.0,2.0,0.0,49.0,1.0,2474.0,Malaga
+,Ramón Enríquez,es ESP,MF,26,13,0.0,1.0,2021-2022,9506d4a1,Malaga,"1,269",14.1,4.0,0.0,49.0,1.0,2464.0,Malaga
+,Álvaro Vadillo,es ESP,"FW,MF",17,11,2.0,3.0,2021-2022,61b62b33,Malaga,905,10.1,3.0,0.0,49.0,1.0,,Malaga
+,Ismael Casas Casado,es ESP,DF,12,10,1.0,0.0,2021-2022,0384f4dd,Malaga,897,10.0,1.0,0.0,49.0,1.0,2458.0,Malaga
+,Jairo Samperio,es ESP,MF,19,10,1.0,0.0,2021-2022,c0a0c18f,Malaga,806,9.0,2.0,0.0,49.0,1.0,,Malaga
+,Luis Muñoz,es ESP,MF,8,8,0.0,1.0,2021-2022,8cfd90fe,Malaga,634,7.0,4.0,1.0,49.0,1.0,2423.0,Malaga
+,Sékou Gassama,sn SEN,FW,22,7,0.0,3.0,2021-2022,475a738b,Malaga,814,9.0,3.0,0.0,49.0,34.0,2496.0,Malaga
+,Pablo Chavarría,ar ARG,FW,15,4,0.0,0.0,2021-2022,4207e578,Malaga,410,4.6,4.0,0.0,49.0,5.0,,Malaga
+,Andrés Caro,es ESP,DF,7,4,0.0,0.0,2021-2022,95d0370f,Malaga,385,4.3,3.0,0.0,49.0,1.0,2484.0,Malaga
+,Dani Lorenzo,es ESP,MF,6,4,0.0,0.0,2021-2022,b344c7d5,Malaga,340,3.8,0.0,0.0,49.0,1.0,2497.0,Malaga
+,Víctor Olmo,es ESP,DF,3,3,0.0,0.0,2021-2022,95602b0d,Malaga,225,2.5,1.0,0.0,49.0,1.0,2498.0,Malaga
+,Iván Calero,es ESP,DF,2,1,0.0,0.0,2021-2022,6724c5a9,Malaga,97,1.1,2.0,0.0,49.0,1.0,2476.0,Malaga
+,Loren Zúñiga,es ESP,FW,4,1,0.0,0.0,2021-2022,ccf5a5de,Malaga,79,0.9,0.0,0.0,49.0,1.0,2481.0,Malaga
+,Hicham Boussefiane,ma MAR,FW,6,0,1.0,0.0,2021-2022,8a8682c5,Malaga,152,1.7,0.0,0.0,49.0,26.0,2459.0,Malaga
+,Ismael,es ESP,MF,5,0,0.0,0.0,2021-2022,19cdceb0,Malaga,92,1.0,1.0,0.0,49.0,1.0,,Malaga
+,Haitam Abaida,ma MAR,FW,4,0,1.0,0.0,2021-2022,95ca716a,Malaga,90,1.0,0.0,1.0,49.0,26.0,2482.0,Malaga
+,Adrián López,es ESP,"FW,MF",2,0,0.0,0.0,2021-2022,88a359d4,Malaga,37,0.4,0.0,0.0,49.0,1.0,,Malaga
+,Alejandro Benítez Palomero,es ESP,DF,0,0,,,2021-2022,18698a9,Malaga,,,,,49.0,1.0,2478.0,Malaga
+,Moussa Diarra,es ESP,DF,0,0,,,2021-2022,f15f2b36,Malaga,,,,,49.0,1.0,2499.0,Malaga
+,David Larrubia,es ESP,FW,0,0,,,2021-2022,09bc5e8,Malaga,,,,,49.0,1.0,2469.0,Malaga
+,Julio Martínez,es ESP,MF,0,0,,,2021-2022,04c2dc08,Malaga,,,,,49.0,1.0,2467.0,Malaga
+,Bilal Ouacharaf,ma MAR,FW,0,0,,,2021-2022,1c5ddf6b,Malaga,,,,,49.0,26.0,2489.0,Malaga
+,Alberto Quintana,es ESP,DF,0,0,,,2021-2022,317c5550,Malaga,,,,,49.0,1.0,2470.0,Malaga
+,Álex Rico,es ESP,MF,0,0,,,2021-2022,bf384990,Malaga,,,,,49.0,1.0,2500.0,Malaga
+,Antonio Santos,es ESP,GK,0,0,,,2021-2022,12fb5268,Malaga,,,,,49.0,1.0,2501.0,Malaga
+,Daniel Strindholm,se SWE,GK,0,0,,,2021-2022,3f81378d,Malaga,,,,,49.0,41.0,2490.0,Malaga

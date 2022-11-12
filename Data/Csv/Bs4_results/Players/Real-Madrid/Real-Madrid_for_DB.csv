@@ -1,0 +1,568 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Iker Casillas,es ESP,GK,38,38,0.0,0.0,2002-2003,1ddbb0da,Real-Madrid,"3,420",38.0,0.0,0.0,37.0,1,1.0,Real-Madrid
+,Roberto Carlos,br BRA,DF,37,37,7.0,5.0,2002-2003,6a3aaf62,Real-Madrid,"3,311",36.8,4.0,0.0,37.0,2,2.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,35,35,2.0,0.0,2002-2003,68f36bc6,Real-Madrid,"3,014",33.5,12.0,2.0,37.0,1,3.0,Real-Madrid
+,Iván Helguera,es ESP,"DF,MF",33,33,1.0,6.0,2002-2003,44151558,Real-Madrid,"2,889",32.1,8.0,1.0,37.0,1,4.0,Real-Madrid
+,Luís Figo,pt POR,"FW,MF",33,33,14.0,10.0,2002-2003,f20f347f,Real-Madrid,"2,724",30.3,4.0,1.0,37.0,3,5.0,Real-Madrid
+,Zinédine Zidane,fr FRA,MF,33,32,9.0,9.0,2002-2003,654f4e63,Real-Madrid,"2,703",30.0,4.0,0.0,37.0,4,6.0,Real-Madrid
+,Raúl,es ESP,FW,31,30,10.0,16.0,2002-2003,2b81295d,Real-Madrid,"2,686",29.8,1.0,0.0,37.0,1,7.0,Real-Madrid
+,Claude Makélélé,fr FRA,MF,29,29,1.0,0.0,2002-2003,c27d01de,Real-Madrid,"2,515",27.9,6.0,0.0,37.0,4,8.0,Real-Madrid
+,Ronaldo,br BRA,FW,31,29,4.0,23.0,2002-2003,57feb553,Real-Madrid,"2,422",26.9,1.0,0.0,37.0,2,9.0,Real-Madrid
+,Fernando Hierro,es ESP,"DF,MF",25,25,0.0,0.0,2002-2003,2f926dd0,Real-Madrid,"2,223",24.7,9.0,0.0,37.0,1,10.0,Real-Madrid
+,Flávio Conceição,br BRA,MF,22,21,0.0,1.0,2002-2003,8783b7ca,Real-Madrid,"1,679",18.7,3.0,0.0,37.0,2,11.0,Real-Madrid
+,Guti,es ESP,"FW,MF",34,18,5.0,4.0,2002-2003,dd0a0fa1,Real-Madrid,"1,793",19.9,6.0,0.0,37.0,1,12.0,Real-Madrid
+,Esteban Cambiasso,ar ARG,MF,24,18,2.0,0.0,2002-2003,4d801075,Real-Madrid,"1,460",16.2,2.0,0.0,37.0,5,13.0,Real-Madrid
+,Francisco Pavón,es ESP,DF,22,17,0.0,0.0,2002-2003,222a596,Real-Madrid,"1,577",17.5,3.0,0.0,37.0,1,14.0,Real-Madrid
+,Santiago Solari,ar ARG,MF,28,6,1.0,0.0,2002-2003,34c6e97,Real-Madrid,780,8.7,2.0,0.0,37.0,5,15.0,Real-Madrid
+,Steve McManaman,eng ENG,MF,15,6,2.0,1.0,2002-2003,9be05f40,Real-Madrid,587,6.5,0.0,0.0,37.0,6,16.0,Real-Madrid
+,Óscar Miñambres,es ESP,"DF,MF",16,5,2.0,0.0,2002-2003,8e27322b,Real-Madrid,687,7.6,0.0,0.0,37.0,1,17.0,Real-Madrid
+,Fernando Morientes,es ESP,FW,18,2,1.0,5.0,2002-2003,bceebb25,Real-Madrid,445,4.9,0.0,0.0,37.0,1,18.0,Real-Madrid
+,Javier Portillo,es ESP,FW,10,1,0.0,5.0,2002-2003,99058498,Real-Madrid,205,2.3,0.0,0.0,37.0,1,19.0,Real-Madrid
+,Raúl Bravo,es ESP,DF,2,1,0.0,1.0,2002-2003,65b9e56b,Real-Madrid,121,1.3,0.0,0.0,37.0,1,20.0,Real-Madrid
+,Rubén,es ESP,DF,1,1,0.0,0.0,2002-2003,d0c06281,Real-Madrid,90,1.0,1.0,0.0,37.0,1,21.0,Real-Madrid
+,Tote,es ESP,"FW,MF",1,1,0.0,0.0,2002-2003,3e74421,Real-Madrid,69,0.8,0.0,0.0,37.0,1,22.0,Real-Madrid
+,Albert Celades,es ESP,MF,3,0,1.0,0.0,2002-2003,61796b1f,Real-Madrid,63,0.7,1.0,0.0,37.0,1,23.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,37,37,0.0,0.0,2003-2004,1ddbb0da,Real-Madrid,"3,330",37.0,2.0,0.0,37.0,1,1.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,35,35,2.0,1.0,2003-2004,68f36bc6,Real-Madrid,"3,150",35.0,15.0,0.0,37.0,1,3.0,Real-Madrid
+,Raúl,es ESP,FW,35,35,3.0,11.0,2003-2004,2b81295d,Real-Madrid,"3,013",33.5,1.0,0.0,37.0,1,7.0,Real-Madrid
+,Luís Figo,pt POR,"FW,MF",36,34,11.0,7.0,2003-2004,f20f347f,Real-Madrid,"3,009",33.4,10.0,1.0,37.0,3,5.0,Real-Madrid
+,Zinédine Zidane,fr FRA,MF,33,33,8.0,6.0,2003-2004,654f4e63,Real-Madrid,"2,698",30.0,7.0,1.0,37.0,4,6.0,Real-Madrid
+,Raúl Bravo,es ESP,DF,32,32,0.0,1.0,2003-2004,65b9e56b,Real-Madrid,"2,860",31.8,8.0,0.0,37.0,1,20.0,Real-Madrid
+,Roberto Carlos,br BRA,DF,32,32,5.0,6.0,2003-2004,6a3aaf62,Real-Madrid,"2,845",31.6,5.0,0.0,37.0,2,2.0,Real-Madrid
+,David Beckham,eng ENG,MF,32,32,9.0,3.0,2003-2004,53539318,Real-Madrid,"2,745",30.5,7.0,1.0,37.0,6,24.0,Real-Madrid
+,Ronaldo,br BRA,FW,32,31,4.0,24.0,2003-2004,57feb553,Real-Madrid,"2,588",28.8,6.0,0.0,37.0,2,9.0,Real-Madrid
+,Iván Helguera,es ESP,"DF,MF",29,28,1.0,1.0,2003-2004,44151558,Real-Madrid,"2,547",28.3,11.0,0.0,37.0,1,4.0,Real-Madrid
+,Francisco Pavón,es ESP,DF,29,26,0.0,1.0,2003-2004,222a596,Real-Madrid,"2,249",25.0,9.0,1.0,37.0,1,14.0,Real-Madrid
+,Guti,es ESP,"FW,MF",26,16,2.0,2.0,2003-2004,dd0a0fa1,Real-Madrid,"1,566",17.4,12.0,1.0,37.0,1,12.0,Real-Madrid
+,Santiago Solari,ar ARG,MF,34,15,2.0,5.0,2003-2004,34c6e97,Real-Madrid,"1,539",17.1,7.0,0.0,37.0,5,15.0,Real-Madrid
+,Esteban Cambiasso,ar ARG,MF,17,9,1.0,0.0,2003-2004,4d801075,Real-Madrid,813,9.0,2.0,0.0,37.0,5,13.0,Real-Madrid
+,Álvaro Mejía,es ESP,DF,9,8,0.0,0.0,2003-2004,dd3f6a54,Real-Madrid,741,8.2,4.0,1.0,37.0,1,25.0,Real-Madrid
+,Borja Fernández,es ESP,MF,15,6,0.0,0.0,2003-2004,9127f9ce,Real-Madrid,640,7.1,0.0,0.0,37.0,1,26.0,Real-Madrid
+,Javier Portillo,es ESP,FW,18,3,0.0,1.0,2003-2004,99058498,Real-Madrid,445,4.9,1.0,0.0,37.0,1,19.0,Real-Madrid
+,Juanfran,es ESP,"DF,MF",5,2,1.0,0.0,2003-2004,cfd8d664,Real-Madrid,130,1.4,0.0,0.0,37.0,1,27.0,Real-Madrid
+,Rubén,es ESP,DF,2,2,0.0,0.0,2003-2004,d0c06281,Real-Madrid,115,1.3,1.0,0.0,37.0,1,21.0,Real-Madrid
+,Jordi López,es ESP,MF,2,1,0.0,0.0,2003-2004,b6fe8a4c,Real-Madrid,91,1.0,0.0,0.0,37.0,1,28.0,Real-Madrid
+,César Sánchez,es ESP,GK,1,1,0.0,0.0,2003-2004,c6e6e5d6,Real-Madrid,90,1.0,0.0,0.0,37.0,1,29.0,Real-Madrid
+,Antonio Núñez,es ESP,MF,11,0,0.0,1.0,2003-2004,df89070b,Real-Madrid,170,1.9,0.0,0.0,37.0,1,30.0,Real-Madrid
+,Óscar Miñambres,es ESP,"DF,MF",1,0,0.0,0.0,2003-2004,8e27322b,Real-Madrid,44,0.5,0.0,0.0,37.0,1,17.0,Real-Madrid
+,Fernando Morientes,es ESP,FW,1,0,,0.0,2003-2004,bceebb25,Real-Madrid,6,0.1,0.0,0.0,37.0,1,18.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,37,37,0.0,0.0,2004-2005,1ddbb0da,Real-Madrid,"3,293",36.6,1.0,0.0,37.0,1,1.0,Real-Madrid
+,Roberto Carlos,br BRA,DF,34,33,5.0,3.0,2004-2005,6a3aaf62,Real-Madrid,"3,001",33.3,6.0,0.0,37.0,2,2.0,Real-Madrid
+,Iván Helguera,es ESP,"DF,MF",34,33,0.0,3.0,2004-2005,44151558,Real-Madrid,"2,867",31.9,7.0,1.0,37.0,1,4.0,Real-Madrid
+,Ronaldo,br BRA,FW,34,32,8.0,21.0,2004-2005,57feb553,Real-Madrid,"2,796",31.1,1.0,0.0,37.0,2,9.0,Real-Madrid
+,Raúl,es ESP,FW,32,31,6.0,9.0,2004-2005,2b81295d,Real-Madrid,"2,577",28.6,1.0,0.0,37.0,1,7.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,30,30,3.0,2.0,2004-2005,68f36bc6,Real-Madrid,"2,661",29.6,13.0,1.0,37.0,1,3.0,Real-Madrid
+,Walter Samuel,ar ARG,DF,30,30,2.0,2.0,2004-2005,ceb6c79d,Real-Madrid,"2,655",29.5,16.0,2.0,37.0,5,31.0,Real-Madrid
+,David Beckham,eng ENG,MF,30,29,6.0,4.0,2004-2005,53539318,Real-Madrid,"2,436",27.1,11.0,0.0,37.0,6,24.0,Real-Madrid
+,Zinédine Zidane,fr FRA,MF,29,28,5.0,6.0,2004-2005,654f4e63,Real-Madrid,"2,346",26.1,5.0,1.0,37.0,4,6.0,Real-Madrid
+,Luís Figo,pt POR,"FW,MF",33,26,4.0,3.0,2004-2005,f20f347f,Real-Madrid,"2,291",25.5,9.0,0.0,37.0,3,5.0,Real-Madrid
+,Michael Owen,eng ENG,FW,36,20,3.0,13.0,2004-2005,88b3f52c,Real-Madrid,"1,840",20.4,1.0,0.0,37.0,6,32.0,Real-Madrid
+,Guti,es ESP,"FW,MF",31,18,4.0,0.0,2004-2005,dd0a0fa1,Real-Madrid,"1,917",21.3,10.0,0.0,37.0,1,12.0,Real-Madrid
+,Thomas Gravesen,dk DEN,MF,17,15,1.0,1.0,2004-2005,b769b5bd,Real-Madrid,"1,314",14.6,7.0,0.0,37.0,7,33.0,Real-Madrid
+,Francisco Pavón,es ESP,DF,17,14,0.0,1.0,2004-2005,222a596,Real-Madrid,"1,219",13.5,2.0,0.0,37.0,1,14.0,Real-Madrid
+,Raúl Bravo,es ESP,DF,14,13,0.0,0.0,2004-2005,65b9e56b,Real-Madrid,"1,061",11.8,4.0,0.0,37.0,1,20.0,Real-Madrid
+,Santiago Solari,ar ARG,MF,27,11,2.0,3.0,2004-2005,34c6e97,Real-Madrid,"1,122",12.5,0.0,0.0,37.0,5,15.0,Real-Madrid
+,Albert Celades,es ESP,MF,22,9,1.0,0.0,2004-2005,61796b1f,Real-Madrid,929,10.3,3.0,0.0,37.0,1,23.0,Real-Madrid
+,Álvaro Mejía,es ESP,DF,5,2,0.0,0.0,2004-2005,dd3f6a54,Real-Madrid,243,2.7,1.0,0.0,37.0,1,25.0,Real-Madrid
+,Borja Fernández,es ESP,MF,8,2,0.0,0.0,2004-2005,9127f9ce,Real-Madrid,178,2.0,1.0,0.0,37.0,1,26.0,Real-Madrid
+,César Sánchez,es ESP,GK,2,1,0.0,0.0,2004-2005,c6e6e5d6,Real-Madrid,127,1.4,0.0,0.0,37.0,1,29.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,2,1,0.0,0.0,2004-2005,6dc73abd,Real-Madrid,123,1.4,0.0,0.0,37.0,1,34.0,Real-Madrid
+,Javi García,es ESP,"DF,MF",3,1,1.0,0.0,2004-2005,167c1bb0,Real-Madrid,117,1.3,0.0,0.0,37.0,1,35.0,Real-Madrid
+,Javier Portillo,es ESP,FW,3,1,0.0,0.0,2004-2005,99058498,Real-Madrid,93,1.0,0.0,0.0,37.0,1,19.0,Real-Madrid
+,Juanfran,es ESP,"DF,MF",1,1,0.0,0.0,2004-2005,cfd8d664,Real-Madrid,53,0.6,0.0,0.0,37.0,1,27.0,Real-Madrid
+,Fernando Morientes,es ESP,FW,13,0,0.0,0.0,2004-2005,bceebb25,Real-Madrid,252,2.8,0.0,0.0,37.0,1,18.0,Real-Madrid
+,Miguel Palencia,es ESP,DF,2,0,,0.0,2004-2005,933fc3bb,Real-Madrid,65,0.7,0.0,0.0,37.0,1,36.0,Real-Madrid
+,Jotha,es ESP,MF,1,0,0.0,0.0,2004-2005,bed4387d,Real-Madrid,4,0.0,0.0,0.0,37.0,1,37.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,37,37,0.0,0.0,2005-2006,1ddbb0da,Real-Madrid,"3,320",36.9,3.0,1.0,37.0,1,1.0,Real-Madrid
+,Roberto Carlos,br BRA,DF,35,35,6.0,5.0,2005-2006,6a3aaf62,Real-Madrid,"3,061",34.0,6.0,1.0,37.0,2,2.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,34,33,0.0,4.0,2005-2006,08511d65,Real-Madrid,"2,965",32.9,10.0,3.0,37.0,1,38.0,Real-Madrid
+,Robinho,br BRA,"FW,MF",37,31,2.0,8.0,2005-2006,f034613c,Real-Madrid,"2,634",29.3,5.0,0.0,37.0,2,39.0,Real-Madrid
+,David Beckham,eng ENG,MF,31,30,11.0,3.0,2005-2006,53539318,Real-Madrid,"2,520",28.0,7.0,2.0,37.0,6,24.0,Real-Madrid
+,Guti,es ESP,"FW,MF",33,28,6.0,4.0,2005-2006,dd0a0fa1,Real-Madrid,"2,605",28.9,10.0,1.0,37.0,1,12.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,27,26,1.0,0.0,2005-2006,68f36bc6,Real-Madrid,"2,254",25.0,8.0,0.0,37.0,1,3.0,Real-Madrid
+,Júlio Baptista,br BRA,"FW,MF",32,25,2.0,8.0,2005-2006,44557475,Real-Madrid,"2,234",24.8,1.0,1.0,37.0,2,40.0,Real-Madrid
+,Zinédine Zidane,fr FRA,MF,29,24,9.0,9.0,2005-2006,654f4e63,Real-Madrid,"2,182",24.2,5.0,0.0,37.0,4,6.0,Real-Madrid
+,Ronaldo,br BRA,FW,23,21,2.0,14.0,2005-2006,57feb553,Real-Madrid,"1,796",20.0,1.0,0.0,37.0,2,9.0,Real-Madrid
+,Raúl,es ESP,FW,26,20,3.0,5.0,2005-2006,2b81295d,Real-Madrid,"1,768",19.6,0.0,0.0,37.0,1,7.0,Real-Madrid
+,Iván Helguera,es ESP,"DF,MF",19,18,1.0,0.0,2005-2006,44151558,Real-Madrid,"1,571",17.5,5.0,0.0,37.0,1,4.0,Real-Madrid
+,Pablo García,uy URU,"DF,MF",22,17,0.0,0.0,2005-2006,911299ca,Real-Madrid,"1,380",15.3,10.0,0.0,37.0,8,41.0,Real-Madrid
+,Cicinho,br BRA,DF,19,15,3.0,2.0,2005-2006,9e4e6402,Real-Madrid,"1,434",15.9,3.0,0.0,37.0,2,42.0,Real-Madrid
+,Álvaro Mejía,es ESP,DF,17,13,0.0,1.0,2005-2006,dd3f6a54,Real-Madrid,"1,350",15.0,8.0,0.0,37.0,1,25.0,Real-Madrid
+,Thomas Gravesen,dk DEN,MF,17,10,0.0,0.0,2005-2006,b769b5bd,Real-Madrid,795,8.8,8.0,1.0,37.0,7,33.0,Real-Madrid
+,Francisco Pavón,es ESP,DF,10,9,0.0,0.0,2005-2006,222a596,Real-Madrid,692,7.7,2.0,0.0,37.0,1,14.0,Real-Madrid
+,Raúl Bravo,es ESP,DF,15,8,0.0,2.0,2005-2006,65b9e56b,Real-Madrid,751,8.3,1.0,0.0,37.0,1,20.0,Real-Madrid
+,Carlos Diogo,uy URU,"DF,MF",13,7,0.0,0.0,2005-2006,8da138d9,Real-Madrid,673,7.5,3.0,0.0,37.0,8,43.0,Real-Madrid
+,Jonathan Woodgate,eng ENG,DF,9,7,0.0,0.0,2005-2006,9482a3bd,Real-Madrid,607,6.7,4.0,1.0,37.0,6,44.0,Real-Madrid
+,Antonio Cassano,it ITA,FW,12,3,2.0,1.0,2005-2006,d0ed4d32,Real-Madrid,380,4.2,1.0,0.0,37.0,9,45.0,Real-Madrid
+,Roberto Soldado,es ESP,FW,11,1,0.0,2.0,2005-2006,9d66fbe3,Real-Madrid,318,3.5,0.0,0.0,37.0,1,46.0,Real-Madrid
+,Diego López,es ESP,GK,2,1,0.0,0.0,2005-2006,73683fa9,Real-Madrid,100,1.1,0.0,0.0,37.0,1,47.0,Real-Madrid
+,Javier Balboa,gq EQG,"FW,MF",2,0,0.0,0.0,2005-2006,cf0dbde3,Real-Madrid,84,0.9,0.0,0.0,37.0,10,48.0,Real-Madrid
+,Rubén de la Red,es ESP,MF,3,0,0.0,0.0,2005-2006,75b08b25,Real-Madrid,31,0.3,0.0,0.0,37.0,1,49.0,Real-Madrid
+,José Manuel Jurado,es ESP,MF,3,0,,0.0,2005-2006,71d4e271,Real-Madrid,26,0.3,0.0,0.0,37.0,1,50.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,38,38,0.0,0.0,2006-2007,1ddbb0da,Real-Madrid,"3,420",38.0,2.0,0.0,37.0,1,1.0,Real-Madrid
+,Ruud van Nistelrooy,nl NED,FW,37,36,4.0,25.0,2006-2007,80a30989,Real-Madrid,"3,166",35.2,4.0,0.0,37.0,11,51.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,33,33,3.0,5.0,2006-2007,08511d65,Real-Madrid,"2,892",32.1,15.0,1.0,37.0,1,38.0,Real-Madrid
+,Fabio Cannavaro,it ITA,DF,32,32,1.0,0.0,2006-2007,51152527,Real-Madrid,"2,769",30.8,14.0,2.0,37.0,9,52.0,Real-Madrid
+,Raúl,es ESP,FW,35,32,5.0,8.0,2006-2007,2b81295d,Real-Madrid,"2,668",29.6,0.0,0.0,37.0,1,7.0,Real-Madrid
+,Mahamadou Diarra,ml MLI,MF,33,30,0.0,3.0,2006-2007,4a6c3ade,Real-Madrid,"2,694",29.9,12.0,0.0,37.0,12,53.0,Real-Madrid
+,Emerson,br BRA,MF,28,27,4.0,1.0,2006-2007,67d57df1,Real-Madrid,"2,211",24.6,3.0,0.0,37.0,2,54.0,Real-Madrid
+,Roberto Carlos,br BRA,DF,23,22,2.0,3.0,2006-2007,6a3aaf62,Real-Madrid,"1,955",21.7,5.0,0.0,37.0,2,2.0,Real-Madrid
+,Iván Helguera,es ESP,"DF,MF",23,21,1.0,1.0,2006-2007,44151558,Real-Madrid,"1,965",21.8,6.0,1.0,37.0,1,4.0,Real-Madrid
+,Guti,es ESP,"FW,MF",30,21,5.0,1.0,2006-2007,dd0a0fa1,Real-Madrid,"1,898",21.1,9.0,2.0,37.0,1,12.0,Real-Madrid
+,Robinho,br BRA,"FW,MF",32,20,3.0,6.0,2006-2007,f034613c,Real-Madrid,"1,997",22.2,4.0,1.0,37.0,2,39.0,Real-Madrid
+,Miguel Torres,es ESP,DF,18,17,2.0,0.0,2006-2007,44b61913,Real-Madrid,"1,476",16.4,3.0,0.0,37.0,1,55.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,16,15,0.0,0.0,2006-2007,68f36bc6,Real-Madrid,"1,241",13.8,9.0,0.0,37.0,1,3.0,Real-Madrid
+,David Beckham,eng ENG,MF,23,14,7.0,3.0,2006-2007,53539318,Real-Madrid,"1,420",15.8,13.0,1.0,37.0,6,24.0,Real-Madrid
+,José Antonio Reyes,es ESP,MF,30,14,1.0,6.0,2006-2007,19058f02,Real-Madrid,"1,244",13.8,3.0,0.0,37.0,1,56.0,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",19,13,4.0,2.0,2006-2007,8a08491a,Real-Madrid,"1,266",14.1,2.0,0.0,37.0,5,57.0,Real-Madrid
+,Fernando Gago,ar ARG,MF,13,13,0.0,0.0,2006-2007,86337bd,Real-Madrid,994,11.0,7.0,0.0,37.0,5,58.0,Real-Madrid
+,Cicinho,br BRA,DF,7,5,0.0,0.0,2006-2007,9e4e6402,Real-Madrid,364,4.0,0.0,0.0,37.0,2,42.0,Real-Madrid
+,Antonio Cassano,it ITA,FW,7,5,1.0,1.0,2006-2007,d0ed4d32,Real-Madrid,315,3.5,3.0,0.0,37.0,9,45.0,Real-Madrid
+,Raúl Bravo,es ESP,DF,8,3,0.0,0.0,2006-2007,65b9e56b,Real-Madrid,441,4.9,1.0,0.0,37.0,1,20.0,Real-Madrid
+,Álvaro Mejía,es ESP,DF,9,3,0.0,0.0,2006-2007,dd3f6a54,Real-Madrid,432,4.8,2.0,1.0,37.0,1,25.0,Real-Madrid
+,Ronaldo,br BRA,FW,7,3,0.0,1.0,2006-2007,57feb553,Real-Madrid,322,3.6,1.0,1.0,37.0,2,9.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",6,1,0.0,0.0,2006-2007,603116a7,Real-Madrid,174,1.9,0.0,0.0,37.0,2,59.0,Real-Madrid
+,Rubén de la Red,es ESP,MF,7,0,0.0,0.0,2006-2007,75b08b25,Real-Madrid,164,1.8,1.0,0.0,37.0,1,49.0,Real-Madrid
+,Miguel Ángel Nieto,es ESP,MF,2,0,0.0,0.0,2006-2007,3a935b70,Real-Madrid,31,0.3,0.0,0.0,37.0,1,60.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,36,36,0.0,0.0,2007-2008,1ddbb0da,Real-Madrid,"3,240",36.0,3.0,0.0,37.0,1,1.0,Real-Madrid
+,Raúl,es ESP,FW,37,36,3.0,18.0,2007-2008,2b81295d,Real-Madrid,"3,111",34.6,3.0,0.0,37.0,1,7.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,33,33,3.0,5.0,2007-2008,08511d65,Real-Madrid,"2,815",31.3,14.0,3.0,37.0,1,38.0,Real-Madrid
+,Fabio Cannavaro,it ITA,DF,33,33,0.0,0.0,2007-2008,51152527,Real-Madrid,"2,788",31.0,6.0,1.0,37.0,9,52.0,Real-Madrid
+,Guti,es ESP,"FW,MF",32,27,14.0,3.0,2007-2008,dd0a0fa1,Real-Madrid,"2,498",27.8,9.0,1.0,37.0,1,12.0,Real-Madrid
+,Wesley Sneijder,nl NED,MF,30,27,6.0,9.0,2007-2008,d625c12,Real-Madrid,"2,265",25.2,8.0,0.0,37.0,11,61.0,Real-Madrid
+,Robinho,br BRA,"FW,MF",32,27,8.0,11.0,2007-2008,f034613c,Real-Madrid,"2,123",23.6,3.0,0.0,37.0,2,39.0,Real-Madrid
+,Mahamadou Diarra,ml MLI,MF,30,25,1.0,0.0,2007-2008,4a6c3ade,Real-Madrid,"2,259",25.1,4.0,0.0,37.0,12,53.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",24,24,0.0,0.0,2007-2008,603116a7,Real-Madrid,"2,091",23.2,8.0,0.0,37.0,2,59.0,Real-Madrid
+,Ruud van Nistelrooy,nl NED,FW,24,22,5.0,16.0,2007-2008,80a30989,Real-Madrid,"1,872",20.8,2.0,0.0,37.0,11,51.0,Real-Madrid
+,Fernando Gago,ar ARG,MF,31,21,2.0,0.0,2007-2008,86337bd,Real-Madrid,"1,975",21.9,7.0,0.0,37.0,5,58.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",19,17,1.0,0.0,2007-2008,c906ce0f,Real-Madrid,"1,533",17.0,5.0,0.0,37.0,3,62.0,Real-Madrid
+,Gabriel Heinze,ar ARG,DF,20,17,0.0,1.0,2007-2008,54629cf9,Real-Madrid,"1,473",16.4,6.0,0.0,37.0,5,63.0,Real-Madrid
+,Miguel Torres,es ESP,DF,20,13,0.0,0.0,2007-2008,44b61913,Real-Madrid,"1,301",14.5,3.0,1.0,37.0,1,55.0,Real-Madrid
+,Júlio Baptista,br BRA,"FW,MF",26,13,1.0,3.0,2007-2008,44557475,Real-Madrid,"1,141",12.7,2.0,0.0,37.0,2,40.0,Real-Madrid
+,Arjen Robben,nl NED,"FW,MF",21,12,3.0,4.0,2007-2008,09586899,Real-Madrid,"1,190",13.2,4.0,0.0,37.0,11,,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",25,7,2.0,8.0,2007-2008,8a08491a,Real-Madrid,865,9.6,3.0,0.0,37.0,5,57.0,Real-Madrid
+,Royston Drenthe,nl NED,"DF,MF",18,7,1.0,2.0,2007-2008,3d512ff2,Real-Madrid,743,8.3,1.0,0.0,37.0,11,65.0,Real-Madrid
+,Christoph Metzelder,de GER,DF,9,7,0.0,0.0,2007-2008,3f866377,Real-Madrid,704,7.8,1.0,0.0,37.0,13,66.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,8,6,0.0,0.0,2007-2008,68f36bc6,Real-Madrid,602,6.7,3.0,0.0,37.0,1,3.0,Real-Madrid
+,Javier Saviola,ar ARG,FW,9,5,0.0,3.0,2007-2008,de544fdb,Real-Madrid,402,4.5,0.0,0.0,37.0,5,67.0,Real-Madrid
+,Roberto Soldado,es ESP,FW,5,1,0.0,0.0,2007-2008,9d66fbe3,Real-Madrid,137,1.5,0.0,0.0,37.0,1,46.0,Real-Madrid
+,Jordi Codina,es ESP,GK,1,1,0.0,0.0,2007-2008,812088cd,Real-Madrid,90,1.0,0.0,0.0,37.0,1,68.0,Real-Madrid
+,Jerzy Dudek,pl POL,GK,1,1,0.0,0.0,2007-2008,1064659d,Real-Madrid,90,1.0,0.0,0.0,37.0,14,69.0,Real-Madrid
+,Javier Balboa,gq EQG,"FW,MF",6,0,0.0,0.0,2007-2008,cf0dbde3,Real-Madrid,91,1.0,0.0,0.0,37.0,10,48.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,38,38,0.0,0.0,2008-2009,1ddbb0da,Real-Madrid,"3,420",38.0,3.0,0.0,37.0,1,1.0,Real-Madrid
+,Raúl,es ESP,FW,37,35,5.0,18.0,2008-2009,2b81295d,Real-Madrid,"2,988",33.2,4.0,0.0,37.0,1,7.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,32,32,2.0,4.0,2008-2009,08511d65,Real-Madrid,"2,791",31.0,14.0,1.0,37.0,1,38.0,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",34,31,7.0,22.0,2008-2009,8a08491a,Real-Madrid,"2,642",29.4,5.0,0.0,37.0,5,57.0,Real-Madrid
+,Fabio Cannavaro,it ITA,DF,29,29,0.0,0.0,2008-2009,51152527,Real-Madrid,"2,423",26.9,3.0,0.0,37.0,9,52.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",26,26,0.0,0.0,2008-2009,c906ce0f,Real-Madrid,"2,280",25.3,7.0,1.0,37.0,3,62.0,Real-Madrid
+,Arjen Robben,nl NED,"FW,MF",29,25,5.0,7.0,2008-2009,09586899,Real-Madrid,"2,164",24.0,3.0,1.0,37.0,11,,Real-Madrid
+,Fernando Gago,ar ARG,MF,26,24,5.0,1.0,2008-2009,86337bd,Real-Madrid,"2,182",24.2,11.0,1.0,37.0,5,58.0,Real-Madrid
+,Gabriel Heinze,ar ARG,DF,24,24,0.0,2.0,2008-2009,54629cf9,Real-Madrid,"2,083",23.1,6.0,1.0,37.0,5,63.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",27,24,1.0,4.0,2008-2009,603116a7,Real-Madrid,"2,057",22.9,10.0,1.0,37.0,2,59.0,Real-Madrid
+,Lassana Diarra,fr FRA,MF,19,19,1.0,0.0,2008-2009,79584585,Real-Madrid,"1,673",18.6,7.0,0.0,37.0,4,70.0,Real-Madrid
+,Wesley Sneijder,nl NED,MF,22,18,2.0,2.0,2008-2009,d625c12,Real-Madrid,"1,342",14.9,7.0,0.0,37.0,11,61.0,Real-Madrid
+,Rafael van der Vaart,nl NED,MF,32,15,4.0,5.0,2008-2009,41473b67,Real-Madrid,"1,505",16.7,8.0,0.0,37.0,11,71.0,Real-Madrid
+,Guti,es ESP,"FW,MF",18,13,3.0,3.0,2008-2009,dd0a0fa1,Real-Madrid,"1,198",13.3,5.0,0.0,37.0,1,12.0,Real-Madrid
+,Klaas-Jan Huntelaar,nl NED,FW,20,13,1.0,8.0,2008-2009,5042e5c2,Real-Madrid,"1,123",12.5,3.0,1.0,37.0,11,72.0,Real-Madrid
+,Christoph Metzelder,de GER,DF,12,9,0.0,0.0,2008-2009,3f866377,Real-Madrid,867,9.6,1.0,0.0,37.0,13,66.0,Real-Madrid
+,Miguel Torres,es ESP,DF,14,9,0.0,0.0,2008-2009,44b61913,Real-Madrid,834,9.3,0.0,0.0,37.0,1,55.0,Real-Madrid
+,Mahamadou Diarra,ml MLI,MF,9,7,0.0,0.0,2008-2009,4a6c3ade,Real-Madrid,614,6.8,2.0,0.0,37.0,12,53.0,Real-Madrid
+,Míchel Salgado,es ESP,DF,9,6,0.0,0.0,2008-2009,68f36bc6,Real-Madrid,642,7.1,5.0,1.0,37.0,1,3.0,Real-Madrid
+,Ruud van Nistelrooy,nl NED,FW,6,6,1.0,4.0,2008-2009,80a30989,Real-Madrid,465,5.2,0.0,1.0,37.0,11,51.0,Real-Madrid
+,Royston Drenthe,nl NED,"DF,MF",20,5,0.0,0.0,2008-2009,3d512ff2,Real-Madrid,671,7.5,3.0,0.0,37.0,11,65.0,Real-Madrid
+,Rubén de la Red,es ESP,MF,7,5,1.0,1.0,2008-2009,75b08b25,Real-Madrid,406,4.5,1.0,0.0,37.0,1,49.0,Real-Madrid
+,Javi García,es ESP,"DF,MF",15,3,0.0,0.0,2008-2009,167c1bb0,Real-Madrid,490,5.4,5.0,0.0,37.0,1,35.0,Real-Madrid
+,Javier Saviola,ar ARG,FW,8,1,1.0,1.0,2008-2009,de544fdb,Real-Madrid,188,2.1,0.0,0.0,37.0,5,67.0,Real-Madrid
+,Gary Kagelmacher,uy URU,DF,1,1,,0.0,2008-2009,2e9f252,Real-Madrid,57,0.6,0.0,0.0,37.0,8,73.0,Real-Madrid
+,Miguel Palanca,es ESP,"FW,MF",3,0,0.0,0.0,2008-2009,005ade52,Real-Madrid,112,1.2,1.0,0.0,37.0,1,74.0,Real-Madrid
+,Daniel Parejo,es ESP,MF,5,0,0.0,0.0,2008-2009,7460ca0d,Real-Madrid,84,0.9,1.0,0.0,37.0,1,75.0,Real-Madrid
+,Julien Faubert,fr FRA,"DF,FW",2,0,0.0,0.0,2008-2009,525642e0,Real-Madrid,55,0.6,0.0,0.0,37.0,4,,Real-Madrid
+,Marcos Tébar,es ESP,"DF,MF",1,0,,0.0,2008-2009,1e806be7,Real-Madrid,33,0.4,0.0,0.0,37.0,1,77.0,Real-Madrid
+,Alberto Bueno,es ESP,"FW,MF",3,0,0.0,0.0,2008-2009,9b878773,Real-Madrid,26,0.3,0.0,0.0,37.0,1,78.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,38,38,0.0,0.0,2009-2010,1ddbb0da,Real-Madrid,"3,420",38.0,0.0,0.0,37.0,1,1.0,Real-Madrid
+,Xabi Alonso,es ESP,MF,34,34,3.0,3.0,2009-2010,dc001a06,Real-Madrid,"3,010",33.4,11.0,0.0,37.0,1,79.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",35,34,8.0,4.0,2009-2010,603116a7,Real-Madrid,"2,995",33.3,6.0,0.0,37.0,2,59.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,33,33,2.0,4.0,2009-2010,08511d65,Real-Madrid,"2,901",32.2,12.0,1.0,37.0,1,38.0,Real-Madrid
+,Raúl Albiol,es ESP,DF,33,32,0.0,0.0,2009-2010,4bd414c1,Real-Madrid,"2,844",31.6,4.0,1.0,37.0,1,80.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,30,30,1.0,2.0,2009-2010,6dc73abd,Real-Madrid,"2,646",29.4,10.0,0.0,37.0,1,34.0,Real-Madrid
+,Cristiano Ronaldo,pt POR,"FW,MF",29,28,7.0,26.0,2009-2010,dea698d9,Real-Madrid,"2,461",27.3,4.0,2.0,37.0,3,81.0,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",32,28,4.0,27.0,2009-2010,8a08491a,Real-Madrid,"2,351",26.1,3.0,0.0,37.0,5,57.0,Real-Madrid
+,Esteban Granero,es ESP,MF,31,21,4.0,3.0,2009-2010,1b17ed86,Real-Madrid,"1,860",20.7,2.0,0.0,37.0,1,82.0,Real-Madrid
+,Kaká,br BRA,"FW,MF",25,21,5.0,8.0,2009-2010,b2d6ea70,Real-Madrid,"1,815",20.2,3.0,0.0,37.0,2,83.0,Real-Madrid
+,Ezequiel Garay,ar ARG,DF,20,19,1.0,1.0,2009-2010,c3fb1be,Real-Madrid,"1,685",18.7,5.0,0.0,37.0,5,84.0,Real-Madrid
+,Lassana Diarra,fr FRA,MF,23,19,0.0,1.0,2009-2010,79584585,Real-Madrid,"1,672",18.6,9.0,1.0,37.0,4,70.0,Real-Madrid
+,Rafael van der Vaart,nl NED,MF,26,16,6.0,6.0,2009-2010,41473b67,Real-Madrid,"1,198",13.3,1.0,0.0,37.0,11,71.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,27,14,3.0,8.0,2009-2010,70d74ece,Real-Madrid,"1,312",14.6,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Fernando Gago,ar ARG,MF,18,14,1.0,0.0,2009-2010,86337bd,Real-Madrid,"1,175",13.1,4.0,0.0,37.0,5,58.0,Real-Madrid
+,Guti,es ESP,"FW,MF",26,10,6.0,2.0,2009-2010,dd0a0fa1,Real-Madrid,"1,273",14.1,5.0,0.0,37.0,1,12.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",10,10,0.0,1.0,2009-2010,c906ce0f,Real-Madrid,853,9.5,1.0,0.0,37.0,3,62.0,Real-Madrid
+,Raúl,es ESP,FW,30,8,1.0,5.0,2009-2010,2b81295d,Real-Madrid,"1,061",11.8,3.0,0.0,37.0,1,7.0,Real-Madrid
+,Mahamadou Diarra,ml MLI,MF,15,4,0.0,0.0,2009-2010,4a6c3ade,Real-Madrid,489,5.4,2.0,0.0,37.0,12,53.0,Real-Madrid
+,Royston Drenthe,nl NED,"DF,MF",8,3,0.0,0.0,2009-2010,3d512ff2,Real-Madrid,282,3.1,2.0,0.0,37.0,11,65.0,Real-Madrid
+,Christoph Metzelder,de GER,DF,2,2,0.0,0.0,2009-2010,3f866377,Real-Madrid,180,2.0,0.0,0.0,37.0,13,66.0,Real-Madrid
+,Ruud van Nistelrooy,nl NED,FW,1,0,1.0,1.0,2009-2010,80a30989,Real-Madrid,13,0.1,0.0,0.0,37.0,11,51.0,Real-Madrid
+,Juanfran,es ESP,"DF,FW",1,0,0.0,0.0,2009-2010,9ba48d64,Real-Madrid,7,0.1,0.0,0.0,37.0,1,86.0,Real-Madrid
+,Marcos Alonso,es ESP,"DF,MF",1,0,0.0,0.0,2009-2010,f4290206,Real-Madrid,3,0.0,0.0,0.0,37.0,1,87.0,Real-Madrid
+,Pedro Mosquera,es ESP,MF,1,0,0.0,0.0,2009-2010,c5fa58ea,Real-Madrid,2,0.0,0.0,0.0,37.0,1,88.0,Real-Madrid
+,﻿Iker Casillas,es ESP,GK,35,35,0.0,0.0,2010-2011,1ddbb0da,Real-Madrid,"3,062",34.0,3.0,1.0,37.0,1,1.0,Real-Madrid
+,Cristiano Ronaldo,pt POR,"FW,MF",34,32,9.0,40.0,2010-2011,dea698d9,Real-Madrid,"2,914",32.4,2.0,0.0,37.0,3,81.0,Real-Madrid
+,Ricardo Carvalho,pt POR,DF,33,31,0.0,3.0,2010-2011,57e7081e,Real-Madrid,"2,773",30.8,11.0,2.0,37.0,3,89.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",32,31,4.0,3.0,2010-2011,603116a7,Real-Madrid,"2,741",30.5,7.0,0.0,37.0,2,59.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,31,30,2.0,3.0,2010-2011,08511d65,Real-Madrid,"2,703",30.0,11.0,1.0,37.0,1,38.0,Real-Madrid
+,Mesut Özil,de GER,MF,36,30,16.0,6.0,2010-2011,16380240,Real-Madrid,"2,523",28.0,2.0,0.0,37.0,13,90.0,Real-Madrid
+,Xabi Alonso,es ESP,MF,34,29,5.0,0.0,2010-2011,dc001a06,Real-Madrid,"2,665",29.6,12.0,0.0,37.0,1,79.0,Real-Madrid
+,Ángel Di María,ar ARG,"FW,MF",35,29,10.0,6.0,2010-2011,19cda00b,Real-Madrid,"2,297",25.5,6.0,0.0,37.0,5,91.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",26,25,0.0,1.0,2010-2011,c906ce0f,Real-Madrid,"2,224",24.7,7.0,1.0,37.0,3,62.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,33,20,4.0,15.0,2010-2011,70d74ece,Real-Madrid,"1,898",21.1,1.0,0.0,37.0,4,85.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,26,20,1.0,0.0,2010-2011,6dc73abd,Real-Madrid,"1,861",20.7,6.0,1.0,37.0,1,34.0,Real-Madrid
+,Sami Khedira,de GER,MF,25,20,1.0,0.0,2010-2011,38ac43d3,Real-Madrid,"1,849",20.5,7.0,0.0,37.0,13,92.0,Real-Madrid
+,Lassana Diarra,fr FRA,MF,26,19,2.0,0.0,2010-2011,79584585,Real-Madrid,"1,740",19.3,11.0,0.0,37.0,4,70.0,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",17,16,5.0,10.0,2010-2011,8a08491a,Real-Madrid,"1,285",14.3,1.0,0.0,37.0,5,57.0,Real-Madrid
+,Raúl Albiol,es ESP,DF,20,13,0.0,0.0,2010-2011,4bd414c1,Real-Madrid,"1,158",12.9,3.0,1.0,37.0,1,80.0,Real-Madrid
+,Kaká,br BRA,"FW,MF",14,11,4.0,7.0,2010-2011,b2d6ea70,Real-Madrid,802,8.9,0.0,0.0,37.0,2,83.0,Real-Madrid
+,Esteban Granero,es ESP,MF,19,8,2.0,1.0,2010-2011,1b17ed86,Real-Madrid,784,8.7,4.0,0.0,37.0,1,82.0,Real-Madrid
+,Emmanuel Adebayor,tg TOG,FW,14,6,0.0,5.0,2010-2011,936d9e3e,Real-Madrid,744,8.3,0.0,0.0,37.0,109,,Real-Madrid
+,Ezequiel Garay,ar ARG,DF,5,4,0.0,0.0,2010-2011,c3fb1be,Real-Madrid,330,3.7,0.0,0.0,37.0,5,84.0,Real-Madrid
+,Sergio Canales,es ESP,MF,10,3,1.0,0.0,2010-2011,6de370d,Real-Madrid,286,3.2,2.0,0.0,37.0,1,93.0,Real-Madrid
+,Antonio Adán,es ESP,GK,3,2,0.0,0.0,2010-2011,65d62814,Real-Madrid,260,2.9,0.0,0.0,37.0,1,94.0,Real-Madrid
+,Nacho,es ESP,DF,2,2,0.0,0.0,2010-2011,2946f9a1,Real-Madrid,141,1.6,0.0,0.0,37.0,1,95.0,Real-Madrid
+,Fernando Gago,ar ARG,MF,4,1,0.0,0.0,2010-2011,86337bd,Real-Madrid,99,1.1,0.0,0.0,37.0,5,58.0,Real-Madrid
+,Jerzy Dudek,pl POL,GK,1,1,0.0,0.0,2010-2011,1064659d,Real-Madrid,76,0.8,0.0,0.0,37.0,14,69.0,Real-Madrid
+,Pedro León,es ESP,"FW,MF",6,0,1.0,0.0,2010-2011,d66b9872,Real-Madrid,143,1.6,1.0,0.0,37.0,1,96.0,Real-Madrid
+,Mahamadou Diarra,ml MLI,MF,3,0,0.0,0.0,2010-2011,4a6c3ade,Real-Madrid,24,0.3,0.0,0.0,37.0,12,53.0,Real-Madrid
+,Jesús,es ESP,GK,1,0,,0.0,2010-2011,fba3c8c1,Real-Madrid,14,0.2,0.0,0.0,37.0,1,97.0,Real-Madrid
+,Juankar,es ESP,"DF,FW",1,0,0.0,0.0,2010-2011,9a12436,Real-Madrid,10,0.1,0.0,0.0,37.0,1,98.0,Real-Madrid
+,Tomás Mejías,es ESP,GK,1,0,0.0,0.0,2010-2011,dc0c0fd9,Real-Madrid,8,0.1,0.0,0.0,37.0,1,99.0,Real-Madrid
+,Joselu,es ESP,FW,1,0,,1.0,2010-2011,6265208f,Real-Madrid,7,0.1,0.0,0.0,37.0,1,100.0,Real-Madrid
+,Álex Fernández,es ESP,"DF,MF",1,0,0.0,0.0,2010-2011,677a35,Real-Madrid,3,0.0,0.0,0.0,37.0,1,101.0,Real-Madrid
+,Álvaro Morata,es ESP,FW,1,0,0.0,0.0,2010-2011,129af0db,Real-Madrid,3,0.0,0.0,0.0,37.0,1,102.0,Real-Madrid
+,﻿Cristiano Ronaldo,pt POR,"FW,MF",38,37,12.0,46.0,2011-2012,dea698d9,Real-Madrid,"3,350",37.2,4.0,0.0,37.0,3,81.0,Real-Madrid
+,Iker Casillas,es ESP,GK,37,37,0.0,0.0,2011-2012,1ddbb0da,Real-Madrid,"3,330",37.0,1.0,0.0,37.0,1,1.0,Real-Madrid
+,Xabi Alonso,es ESP,MF,36,35,5.0,1.0,2011-2012,dc001a06,Real-Madrid,"3,138",34.9,13.0,0.0,37.0,1,79.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,34,34,4.0,3.0,2011-2012,08511d65,Real-Madrid,"3,054",33.9,12.0,1.0,37.0,1,38.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",32,31,4.0,3.0,2011-2012,603116a7,Real-Madrid,"2,714",30.2,3.0,0.0,37.0,2,59.0,Real-Madrid
+,Mesut Özil,de GER,MF,35,30,18.0,4.0,2011-2012,16380240,Real-Madrid,"2,553",28.4,5.0,1.0,37.0,13,90.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",29,29,0.0,1.0,2011-2012,c906ce0f,Real-Madrid,"2,548",28.3,10.0,1.0,37.0,3,62.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,34,26,8.0,21.0,2011-2012,70d74ece,Real-Madrid,"2,242",24.9,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,26,26,2.0,0.0,2011-2012,6dc73abd,Real-Madrid,"2,218",24.6,9.0,0.0,37.0,1,34.0,Real-Madrid
+,Sami Khedira,de GER,MF,28,20,2.0,2.0,2011-2012,38ac43d3,Real-Madrid,"1,888",21.0,4.0,1.0,37.0,13,92.0,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",35,18,6.0,22.0,2011-2012,8a08491a,Real-Madrid,"1,712",19.0,4.0,0.0,37.0,5,57.0,Real-Madrid
+,Kaká,br BRA,"FW,MF",27,17,5.0,5.0,2011-2012,b2d6ea70,Real-Madrid,"1,378",15.3,3.0,0.0,37.0,2,83.0,Real-Madrid
+,Ángel Di María,ar ARG,"FW,MF",23,16,14.0,5.0,2011-2012,19cda00b,Real-Madrid,"1,326",14.7,6.0,1.0,37.0,5,91.0,Real-Madrid
+,Lassana Diarra,fr FRA,MF,17,15,0.0,0.0,2011-2012,79584585,Real-Madrid,"1,137",12.6,5.0,0.0,37.0,4,70.0,Real-Madrid
+,Fábio Coentrão,pt POR,DF,20,12,3.0,0.0,2011-2012,0f8bd0a6,Real-Madrid,"1,229",13.7,5.0,0.0,37.0,3,103.0,Real-Madrid
+,Raphaël Varane,fr FRA,"DF,MF",9,7,0.0,1.0,2011-2012,9f8e9423,Real-Madrid,682,7.6,0.0,0.0,37.0,4,104.0,Real-Madrid
+,Esteban Granero,es ESP,MF,17,7,1.0,0.0,2011-2012,1b17ed86,Real-Madrid,641,7.1,3.0,0.0,37.0,1,82.0,Real-Madrid
+,Ricardo Carvalho,pt POR,DF,8,7,1.0,0.0,2011-2012,57e7081e,Real-Madrid,601,6.7,5.0,0.0,37.0,3,89.0,Real-Madrid
+,José Callejón,es ESP,"FW,MF",25,5,0.0,5.0,2011-2012,78841da9,Real-Madrid,711,7.9,0.0,0.0,37.0,1,105.0,Real-Madrid
+,Raúl Albiol,es ESP,DF,10,5,0.0,0.0,2011-2012,4bd414c1,Real-Madrid,621,6.9,1.0,0.0,37.0,1,80.0,Real-Madrid
+,Nuri Şahin,tr TUR,MF,4,2,0.0,0.0,2011-2012,f4081572,Real-Madrid,130,1.4,0.0,0.0,37.0,15,106.0,Real-Madrid
+,Hamit Altıntop,tr TUR,"DF,MF",5,1,0.0,1.0,2011-2012,98e33da5,Real-Madrid,164,1.8,0.0,0.0,37.0,15,107.0,Real-Madrid
+,Antonio Adán,es ESP,GK,1,1,0.0,0.0,2011-2012,65d62814,Real-Madrid,90,1.0,0.0,0.0,37.0,1,94.0,Real-Madrid
+,Jesé,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,4a537185,Real-Madrid,11,0.1,0.0,0.0,37.0,1,108.0,Real-Madrid
+,Álvaro Morata,es ESP,FW,1,0,0.0,0.0,2011-2012,129af0db,Real-Madrid,10,0.1,0.0,0.0,37.0,1,102.0,Real-Madrid
+,﻿Cristiano Ronaldo,pt POR,"FW,MF",34,30,10.0,34.0,2012-2013,dea698d9,Real-Madrid,"2,716",30.2,9.0,0.0,37.0,3,81.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",28,26,1.0,1.0,2012-2013,c906ce0f,Real-Madrid,"2,347",26.1,7.0,0.0,37.0,3,62.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,26,26,0.0,4.0,2012-2013,08511d65,Real-Madrid,"2,267",25.2,9.0,1.0,37.0,1,38.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,33,25,3.0,3.0,2012-2013,6025fab1,Real-Madrid,"2,179",24.2,8.0,0.0,37.0,16,109.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,26,25,2.0,0.0,2012-2013,6dc73abd,Real-Madrid,"2,070",23.0,7.0,0.0,37.0,1,34.0,Real-Madrid
+,Mesut Özil,de GER,MF,32,23,13.0,9.0,2012-2013,16380240,Real-Madrid,"2,035",22.6,5.0,0.0,37.0,13,90.0,Real-Madrid
+,Xabi Alonso,es ESP,MF,28,22,5.0,0.0,2012-2013,dc001a06,Real-Madrid,"2,149",23.9,11.0,0.0,37.0,1,79.0,Real-Madrid
+,Ángel Di María,ar ARG,"FW,MF",32,22,9.0,7.0,2012-2013,19cda00b,Real-Madrid,"1,964",21.8,4.0,1.0,37.0,5,91.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,30,19,12.0,11.0,2012-2013,70d74ece,Real-Madrid,"1,770",19.7,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Sami Khedira,de GER,MF,25,19,2.0,3.0,2012-2013,38ac43d3,Real-Madrid,"1,747",19.4,5.0,0.0,37.0,13,92.0,Real-Madrid
+,Gonzalo Higuaín,ar ARG,"FW,MF",28,19,5.0,16.0,2012-2013,8a08491a,Real-Madrid,"1,746",19.4,4.0,1.0,37.0,5,57.0,Real-Madrid
+,Michael Essien,gh GHA,"DF,MF",21,19,0.0,2.0,2012-2013,d6577282,Real-Madrid,"1,691",18.8,4.0,0.0,37.0,17,110.0,Real-Madrid
+,Iker Casillas,es ESP,GK,19,18,0.0,0.0,2012-2013,1ddbb0da,Real-Madrid,"1,703",18.9,1.0,0.0,37.0,1,1.0,Real-Madrid
+,Diego López,es ESP,GK,16,16,0.0,0.0,2012-2013,73683fa9,Real-Madrid,"1,440",16.0,0.0,0.0,37.0,1,47.0,Real-Madrid
+,Fábio Coentrão,pt POR,DF,16,16,1.0,1.0,2012-2013,0f8bd0a6,Real-Madrid,"1,375",15.3,2.0,0.0,37.0,3,103.0,Real-Madrid
+,José Callejón,es ESP,"FW,MF",30,15,3.0,3.0,2012-2013,78841da9,Real-Madrid,"1,402",15.6,1.0,0.0,37.0,1,105.0,Real-Madrid
+,Raúl Albiol,es ESP,DF,18,14,0.0,1.0,2012-2013,4bd414c1,Real-Madrid,"1,380",15.3,6.0,0.0,37.0,1,80.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",14,13,0.0,0.0,2012-2013,603116a7,Real-Madrid,"1,059",11.8,2.0,0.0,37.0,2,59.0,Real-Madrid
+,Raphaël Varane,fr FRA,"DF,MF",15,12,0.0,0.0,2012-2013,9f8e9423,Real-Madrid,"1,125",12.5,0.0,0.0,37.0,4,104.0,Real-Madrid
+,Kaká,br BRA,"FW,MF",19,12,2.0,3.0,2012-2013,b2d6ea70,Real-Madrid,954,10.6,2.0,1.0,37.0,2,83.0,Real-Madrid
+,Ricardo Carvalho,pt POR,DF,9,9,1.0,0.0,2012-2013,57e7081e,Real-Madrid,810,9.0,2.0,0.0,37.0,3,89.0,Real-Madrid
+,Nacho,es ESP,DF,9,6,0.0,0.0,2012-2013,2946f9a1,Real-Madrid,559,6.2,1.0,0.0,37.0,1,95.0,Real-Madrid
+,Álvaro Morata,es ESP,FW,12,5,1.0,2.0,2012-2013,129af0db,Real-Madrid,418,4.6,3.0,0.0,37.0,1,102.0,Real-Madrid
+,Antonio Adán,es ESP,GK,3,3,0.0,0.0,2012-2013,65d62814,Real-Madrid,186,2.1,0.0,1.0,37.0,1,94.0,Real-Madrid
+,Lassana Diarra,fr FRA,MF,2,2,0.0,0.0,2012-2013,79584585,Real-Madrid,117,1.3,0.0,0.0,37.0,4,70.0,Real-Madrid
+,Casemiro,br BRA,MF,1,1,0.0,0.0,2012-2013,4d224fe8,Real-Madrid,90,1.0,0.0,0.0,37.0,2,111.0,Real-Madrid
+,Jesús,es ESP,GK,1,1,0.0,0.0,2012-2013,fba3c8c1,Real-Madrid,90,1.0,0.0,0.0,37.0,1,97.0,Real-Madrid
+,Fabinho,br BRA,"DF,MF",1,0,1.0,0.0,2012-2013,7f3b388c,Real-Madrid,16,0.2,0.0,0.0,37.0,2,112.0,Real-Madrid
+,Omar Mascarell,es ESP,MF,1,0,0.0,0.0,2012-2013,11fd2b75,Real-Madrid,11,0.1,0.0,0.0,37.0,1,113.0,Real-Madrid
+,Diego Llorente,es ESP,DF,1,0,0.0,0.0,2012-2013,bba30585,Real-Madrid,4,0.0,0.0,0.0,37.0,1,114.0,Real-Madrid
+,José Rodríguez,es ESP,MF,1,0,0.0,0.0,2012-2013,55e81c76,Real-Madrid,2,0.0,0.0,0.0,37.0,1,115.0,Real-Madrid
+,﻿Diego López,es ESP,GK,36,36,0.0,0.0,2013-2014,73683fa9,Real-Madrid,"3,240",36.0,0.0,0.0,37.0,1,47.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,35,34,8.0,17.0,2013-2014,70d74ece,Real-Madrid,"2,733",30.4,2.0,0.0,37.0,4,85.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,32,32,1.0,4.0,2013-2014,08511d65,Real-Madrid,"2,751",30.6,11.0,2.0,37.0,1,38.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",30,30,2.0,4.0,2013-2014,c906ce0f,Real-Madrid,"2,700",30.0,9.0,0.0,37.0,3,62.0,Real-Madrid
+,Cristiano Ronaldo,pt POR,"FW,MF",30,30,9.0,31.0,2013-2014,dea698d9,Real-Madrid,"2,534",28.2,4.0,1.0,37.0,3,81.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,34,29,6.0,1.0,2013-2014,6025fab1,Real-Madrid,"2,639",29.3,6.0,0.0,37.0,16,109.0,Real-Madrid
+,Ángel Di María,ar ARG,"FW,MF",34,27,17.0,4.0,2013-2014,19cda00b,Real-Madrid,"2,357",26.2,6.0,0.0,37.0,5,91.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,31,25,2.0,2.0,2013-2014,4958bfb2,Real-Madrid,"2,238",24.9,5.0,0.0,37.0,1,116.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",28,24,6.0,1.0,2013-2014,603116a7,Real-Madrid,"2,177",24.2,3.0,0.0,37.0,2,59.0,Real-Madrid
+,Gareth Bale,wls WAL,"FW,MF",27,24,12.0,15.0,2013-2014,58bb1e1,Real-Madrid,"2,062",22.9,3.0,0.0,37.0,18,117.0,Real-Madrid
+,Xabi Alonso,es ESP,MF,26,23,1.0,0.0,2013-2014,dc001a06,Real-Madrid,"2,021",22.5,5.0,0.0,37.0,1,79.0,Real-Madrid
+,Isco,es ESP,"FW,MF",32,23,6.0,8.0,2013-2014,0b4bb3e,Real-Madrid,"1,984",22.0,1.0,0.0,37.0,1,118.0,Real-Madrid
+,Asier Illarramendi,es ESP,MF,29,15,1.0,2.0,2013-2014,5ce0b5ba,Real-Madrid,"1,404",15.6,3.0,0.0,37.0,1,119.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,18,14,0.0,0.0,2013-2014,6dc73abd,Real-Madrid,"1,315",14.6,7.0,0.0,37.0,1,34.0,Real-Madrid
+,Raphaël Varane,fr FRA,"DF,MF",14,12,1.0,0.0,2013-2014,9f8e9423,Real-Madrid,"1,084",12.0,1.0,0.0,37.0,4,104.0,Real-Madrid
+,Sami Khedira,de GER,MF,13,12,1.0,1.0,2013-2014,38ac43d3,Real-Madrid,965,10.7,4.0,0.0,37.0,13,92.0,Real-Madrid
+,Nacho,es ESP,DF,12,8,1.0,0.0,2013-2014,2946f9a1,Real-Madrid,822,9.1,2.0,0.0,37.0,1,95.0,Real-Madrid
+,Fábio Coentrão,pt POR,DF,10,8,0.0,0.0,2013-2014,0f8bd0a6,Real-Madrid,654,7.3,1.0,0.0,37.0,3,103.0,Real-Madrid
+,Jesé,es ESP,"FW,MF",18,4,4.0,5.0,2013-2014,4a537185,Real-Madrid,614,6.8,0.0,0.0,37.0,1,108.0,Real-Madrid
+,Álvaro Morata,es ESP,FW,23,3,0.0,8.0,2013-2014,129af0db,Real-Madrid,594,6.6,2.0,0.0,37.0,1,102.0,Real-Madrid
+,Iker Casillas,es ESP,GK,2,2,0.0,0.0,2013-2014,1ddbb0da,Real-Madrid,180,2.0,0.0,0.0,37.0,1,1.0,Real-Madrid
+,Mesut Özil,de GER,MF,2,2,0.0,0.0,2013-2014,16380240,Real-Madrid,132,1.5,0.0,0.0,37.0,13,90.0,Real-Madrid
+,Casemiro,br BRA,MF,12,1,0.0,0.0,2013-2014,4d224fe8,Real-Madrid,290,3.2,0.0,0.0,37.0,2,111.0,Real-Madrid
+,Willian José,br BRA,FW,1,0,0.0,0.0,2013-2014,d87e2cae,Real-Madrid,23,0.3,0.0,0.0,37.0,2,120.0,Real-Madrid
+,Diego Llorente,es ESP,DF,1,0,0.0,0.0,2013-2014,bba30585,Real-Madrid,19,0.2,0.0,0.0,37.0,1,114.0,Real-Madrid
+,﻿Toni Kroos,de GER,MF,36,36,7.0,2.0,2014-2015,6ce1f46f,Real-Madrid,"3,049",33.9,6.0,0.0,37.0,13,121.0,Real-Madrid
+,Cristiano Ronaldo,pt POR,"FW,MF",35,35,16.0,48.0,2014-2015,dea698d9,Real-Madrid,"3,100",34.4,5.0,1.0,37.0,3,81.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",34,33,7.0,2.0,2014-2015,603116a7,Real-Madrid,"2,923",32.5,9.0,0.0,37.0,2,59.0,Real-Madrid
+,Iker Casillas,es ESP,GK,32,32,0.0,0.0,2014-2015,1ddbb0da,Real-Madrid,"2,880",32.0,0.0,0.0,37.0,1,1.0,Real-Madrid
+,Gareth Bale,wls WAL,"FW,MF",31,30,9.0,13.0,2014-2015,58bb1e1,Real-Madrid,"2,573",28.6,2.0,0.0,37.0,18,117.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,29,29,11.0,15.0,2014-2015,70d74ece,Real-Madrid,"2,278",25.3,1.0,0.0,37.0,4,85.0,Real-Madrid
+,James Rodríguez,co COL,"FW,MF",29,29,13.0,13.0,2014-2015,715bf047,Real-Madrid,"2,265",25.2,5.0,0.0,37.0,19,122.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,27,27,1.0,4.0,2014-2015,08511d65,Real-Madrid,"2,229",24.8,12.0,0.0,37.0,1,38.0,Real-Madrid
+,Isco,es ESP,"FW,MF",34,26,10.0,4.0,2014-2015,0b4bb3e,Real-Madrid,"2,329",25.9,6.0,1.0,37.0,1,118.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,30,25,3.0,0.0,2014-2015,4958bfb2,Real-Madrid,"2,271",25.2,12.0,0.0,37.0,1,116.0,Real-Madrid
+,Pepe,pt POR,"DF,MF",27,25,2.0,2.0,2014-2015,c906ce0f,Real-Madrid,"2,224",24.7,4.0,0.0,37.0,3,62.0,Real-Madrid
+,Raphaël Varane,fr FRA,"DF,MF",27,21,0.0,0.0,2014-2015,9f8e9423,Real-Madrid,"2,040",22.7,1.0,0.0,37.0,4,104.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,16,16,3.0,1.0,2014-2015,6025fab1,Real-Madrid,"1,290",14.3,4.0,0.0,37.0,16,109.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,22,12,4.0,1.0,2014-2015,6dc73abd,Real-Madrid,"1,121",12.5,7.0,0.0,37.0,1,34.0,Real-Madrid
+,Asier Illarramendi,es ESP,MF,30,10,0.0,0.0,2014-2015,5ce0b5ba,Real-Madrid,"1,248",13.9,3.0,0.0,37.0,1,119.0,Real-Madrid
+,Javier Hernández,mx MEX,FW,23,7,4.0,7.0,2014-2015,189cee7b,Real-Madrid,872,9.7,2.0,0.0,37.0,20,123.0,Real-Madrid
+,Keylor Navas,cr CRC,GK,6,6,0.0,0.0,2014-2015,cada4fc,Real-Madrid,540,6.0,1.0,0.0,37.0,22,132.0,Real-Madrid
+,Nacho,es ESP,DF,14,5,0.0,1.0,2014-2015,2946f9a1,Real-Madrid,667,7.4,1.0,0.0,37.0,1,95.0,Real-Madrid
+,Fábio Coentrão,pt POR,DF,9,5,0.0,0.0,2014-2015,0f8bd0a6,Real-Madrid,418,4.6,1.0,1.0,37.0,3,103.0,Real-Madrid
+,Jesé,es ESP,"FW,MF",16,3,1.0,3.0,2014-2015,4a537185,Real-Madrid,555,6.2,2.0,0.0,37.0,1,108.0,Real-Madrid
+,Lucas Silva,br BRA,MF,8,3,0.0,0.0,2014-2015,1c646218,Real-Madrid,340,3.8,0.0,0.0,37.0,2,124.0,Real-Madrid
+,Sami Khedira,de GER,MF,11,3,0.0,0.0,2014-2015,38ac43d3,Real-Madrid,306,3.4,2.0,0.0,37.0,13,92.0,Real-Madrid
+,Martin Ødegaard,no NOR,"FW,MF",1,0,0.0,0.0,2014-2015,79300479,Real-Madrid,34,0.4,0.0,0.0,37.0,21,125.0,Real-Madrid
+,Álvaro Medrán,es ESP,MF,2,0,0.0,0.0,2014-2015,31223bcf,Real-Madrid,19,0.2,0.0,0.0,37.0,1,126.0,Real-Madrid
+,Sergio Aguza,es ESP,MF,0,0,,,2014-2015,b8e26df0,Real-Madrid,,,,,37.0,1,127.0,Real-Madrid
+,Xabi Alonso,es ESP,MF,0,0,,,2014-2015,dc001a06,Real-Madrid,,,,,37.0,1,79.0,Real-Madrid
+,Diego Llorente,es ESP,DF,0,0,,,2014-2015,bba30585,Real-Madrid,,,,,37.0,1,114.0,Real-Madrid
+,Borja Mayoral,es ESP,FW,0,0,,,2014-2015,64e8ed6d,Real-Madrid,,,,,37.0,1,128.0,Real-Madrid
+,Javier Muñoz,es ESP,MF,0,0,,,2014-2015,c7c84c2,Real-Madrid,,,,,37.0,1,129.0,Real-Madrid
+,Fernando Pacheco,es ESP,GK,0,0,,,2014-2015,97852360,Real-Madrid,,,,,37.0,1,130.0,Real-Madrid
+,Raúl de Tomás,es ESP,FW,0,0,,,2014-2015,02ef8778,Real-Madrid,,,,,37.0,1,131.0,Real-Madrid
+,﻿Cristiano Ronaldo,pt POR,"FW,MF",36,36,9.0,35.0,2015-2016,dea698d9,Real-Madrid,"3,183",35.4,2.0,0.0,37.0,3,81.0,Real-Madrid
+,Keylor Navas,cr CRC,GK,34,34,0.0,0.0,2015-2016,cada4fc,Real-Madrid,"3,060",34.0,0.0,0.0,37.0,22,132.0,Real-Madrid
+,Toni Kroos,de GER,MF,32,32,10.0,1.0,2015-2016,6ce1f46f,Real-Madrid,"2,738",30.4,3.0,0.0,37.0,13,121.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,32,31,4.0,2.0,2015-2016,6025fab1,Real-Madrid,"2,619",29.1,5.0,0.0,37.0,16,109.0,Real-Madrid
+,Marcelo,br BRA,DF,30,28,3.0,2.0,2015-2016,603116a7,Real-Madrid,"2,472",27.5,3.0,0.0,37.0,2,59.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,27,26,7.0,24.0,2015-2016,70d74ece,Real-Madrid,"1,979",22.0,1.0,0.0,37.0,4,85.0,Real-Madrid
+,Raphaël Varane,fr FRA,DF,26,23,0.0,0.0,2015-2016,9f8e9423,Real-Madrid,"2,182",24.2,6.0,1.0,37.0,4,104.0,Real-Madrid
+,Danilo,br BRA,DF,24,23,5.0,2.0,2015-2016,94b2001f,Real-Madrid,"2,044",22.7,6.0,0.0,37.0,2,133.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,23,23,2.0,2.0,2015-2016,08511d65,Real-Madrid,"1,941",21.6,11.0,2.0,37.0,1,38.0,Real-Madrid
+,Pepe,pt POR,DF,21,21,1.0,1.0,2015-2016,c906ce0f,Real-Madrid,"1,886",21.0,5.0,0.0,37.0,3,62.0,Real-Madrid
+,Isco,es ESP,"MF,FW",31,21,5.0,3.0,2015-2016,0b4bb3e,Real-Madrid,"1,823",20.3,2.0,1.0,37.0,1,118.0,Real-Madrid
+,Gareth Bale,wls WAL,"FW,MF",23,21,10.0,19.0,2015-2016,58bb1e1,Real-Madrid,"1,733",19.3,3.0,0.0,37.0,18,117.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,22,19,4.0,0.0,2015-2016,4958bfb2,Real-Madrid,"1,632",18.1,6.0,0.0,37.0,1,116.0,Real-Madrid
+,Casemiro,br BRA,MF,23,17,3.0,1.0,2015-2016,4d224fe8,Real-Madrid,"1,529",17.0,7.0,0.0,37.0,2,111.0,Real-Madrid
+,James Rodríguez,co COL,"MF,FW",26,17,8.0,7.0,2015-2016,715bf047,Real-Madrid,"1,515",16.8,1.0,0.0,37.0,19,122.0,Real-Madrid
+,Nacho,es ESP,DF,16,12,0.0,0.0,2015-2016,2946f9a1,Real-Madrid,"1,158",12.9,5.0,0.0,37.0,1,95.0,Real-Madrid
+,Lucas Vázquez,es ESP,"FW,MF",25,10,6.0,4.0,2015-2016,fd51b456,Real-Madrid,"1,238",13.8,4.0,0.0,37.0,1,134.0,Real-Madrid
+,Mateo Kovačić,hr CRO,MF,25,8,2.0,0.0,2015-2016,79c0821a,Real-Madrid,"1,037",11.5,4.0,1.0,37.0,16,135.0,Real-Madrid
+,Jesé,es ESP,FW,28,7,6.0,5.0,2015-2016,4a537185,Real-Madrid,840,9.3,0.0,0.0,37.0,1,108.0,Real-Madrid
+,Kiko Casilla,es ESP,GK,4,4,0.0,0.0,2015-2016,58bc7d18,Real-Madrid,360,4.0,0.0,0.0,37.0,1,136.0,Real-Madrid
+,Borja Mayoral,es ESP,FW,6,3,0.0,0.0,2015-2016,64e8ed6d,Real-Madrid,282,3.1,0.0,0.0,37.0,1,128.0,Real-Madrid
+,Álvaro Arbeloa,es ESP,DF,6,2,0.0,0.0,2015-2016,6dc73abd,Real-Madrid,262,2.9,1.0,0.0,37.0,1,34.0,Real-Madrid
+,Denis Cheryshev,ru RUS,"FW,MF",2,0,1.0,0.0,2015-2016,0ac94a23,Real-Madrid,35,0.4,0.0,0.0,37.0,23,137.0,Real-Madrid
+,Marcos Llorente,es ESP,"DF,MF",2,0,0.0,0.0,2015-2016,02c15616,Real-Madrid,25,0.3,0.0,0.0,37.0,1,138.0,Real-Madrid
+,José Carlos Lazo,es ESP,MF,0,0,,,2015-2016,5b93209a,Real-Madrid,,,,,37.0,1,139.0,Real-Madrid
+,Philipp Lienhart,at AUT,DF,0,0,,,2015-2016,302527b2,Real-Madrid,,,,,37.0,24,140.0,Real-Madrid
+,Álvaro Tejero,es ESP,DF,0,0,,,2015-2016,868ce848,Real-Madrid,,,,,37.0,1,141.0,Real-Madrid
+,Rubén Yáñez,es ESP,GK,0,0,,,2015-2016,039ae103,Real-Madrid,,,,,37.0,1,142.0,Real-Madrid
+,Martin Ødegaard,no NOR,"FW,MF",0,0,,,2015-2016,79300479,Real-Madrid,,,,,37.0,21,125.0,Real-Madrid
+,﻿Cristiano Ronaldo,pt POR,FW,29,29,6.0,25.0,2016-2017,dea698d9,Real-Madrid,"2,539",28.2,4.0,0.0,37.0,3,81.0,Real-Madrid
+,Toni Kroos,de GER,MF,29,28,11.0,3.0,2016-2017,6ce1f46f,Real-Madrid,"2,497",27.7,6.0,0.0,37.0,13,121.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,28,28,0.0,7.0,2016-2017,08511d65,Real-Madrid,"2,487",27.6,8.0,1.0,37.0,1,38.0,Real-Madrid
+,Keylor Navas,cr CRC,GK,27,27,0.0,0.0,2016-2017,cada4fc,Real-Madrid,"2,430",27.0,2.0,0.0,37.0,22,132.0,Real-Madrid
+,Marcelo,br BRA,DF,30,26,10.0,2.0,2016-2017,603116a7,Real-Madrid,"2,279",25.3,2.0,0.0,37.0,2,59.0,Real-Madrid
+,Nacho,es ESP,DF,28,24,3.0,2.0,2016-2017,2946f9a1,Real-Madrid,"2,304",25.6,5.0,0.0,37.0,1,95.0,Real-Madrid
+,Raphaël Varane,fr FRA,DF,23,23,2.0,1.0,2016-2017,9f8e9423,Real-Madrid,"1,924",21.4,1.0,0.0,37.0,4,104.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,29,23,5.0,11.0,2016-2017,70d74ece,Real-Madrid,"1,903",21.1,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,25,22,2.0,1.0,2016-2017,6025fab1,Real-Madrid,"1,887",21.0,2.0,0.0,37.0,16,109.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,23,21,4.0,0.0,2016-2017,4958bfb2,Real-Madrid,"2,016",22.4,11.0,0.0,37.0,1,116.0,Real-Madrid
+,Mateo Kovačić,hr CRO,MF,28,20,3.0,1.0,2016-2017,79c0821a,Real-Madrid,"1,778",19.8,2.0,0.0,37.0,16,135.0,Real-Madrid
+,Casemiro,br BRA,MF,25,20,0.0,4.0,2016-2017,4d224fe8,Real-Madrid,"1,706",19.0,10.0,0.0,37.0,2,111.0,Real-Madrid
+,Isco,es ESP,"MF,FW",30,18,9.0,10.0,2016-2017,0b4bb3e,Real-Madrid,"1,634",18.2,4.0,0.0,37.0,1,118.0,Real-Madrid
+,Danilo,br BRA,DF,17,17,2.0,1.0,2016-2017,94b2001f,Real-Madrid,"1,485",16.5,2.0,0.0,37.0,2,133.0,Real-Madrid
+,Gareth Bale,wls WAL,FW,19,17,2.0,7.0,2016-2017,58bb1e1,Real-Madrid,"1,418",15.8,3.0,1.0,37.0,18,117.0,Real-Madrid
+,Álvaro Morata,es ESP,FW,26,14,6.0,15.0,2016-2017,129af0db,Real-Madrid,"1,334",14.8,8.0,0.0,37.0,1,102.0,Real-Madrid
+,James Rodríguez,co COL,"MF,FW",22,13,6.0,8.0,2016-2017,715bf047,Real-Madrid,"1,181",13.1,1.0,0.0,37.0,19,122.0,Real-Madrid
+,Pepe,pt POR,DF,13,13,1.0,2.0,2016-2017,c906ce0f,Real-Madrid,"1,079",12.0,1.0,0.0,37.0,3,62.0,Real-Madrid
+,Lucas Vázquez,es ESP,"FW,MF",33,12,7.0,2.0,2016-2017,fd51b456,Real-Madrid,"1,403",15.6,4.0,0.0,37.0,1,134.0,Real-Madrid
+,Marco Asensio,es ESP,"FW,MF",23,11,2.0,3.0,2016-2017,45af8a54,Real-Madrid,"1,082",12.0,0.0,0.0,37.0,1,143.0,Real-Madrid
+,Kiko Casilla,es ESP,GK,11,11,0.0,0.0,2016-2017,58bc7d18,Real-Madrid,990,11.0,0.0,0.0,37.0,1,136.0,Real-Madrid
+,Fábio Coentrão,pt POR,DF,3,2,1.0,0.0,2016-2017,0f8bd0a6,Real-Madrid,169,1.9,0.0,0.0,37.0,3,103.0,Real-Madrid
+,Mariano,do DOM,FW,8,0,1.0,1.0,2016-2017,5c4dc0ff,Real-Madrid,124,1.4,0.0,0.0,37.0,25,144.0,Real-Madrid
+,Álvaro Tejero,es ESP,DF,1,0,0.0,0.0,2016-2017,868ce848,Real-Madrid,3,0.0,0.0,0.0,37.0,1,141.0,Real-Madrid
+,Achraf Hakimi,ma MAR,"DF,MF",0,0,,,2016-2017,42d61c7,Real-Madrid,,,,,37.0,26,145.0,Real-Madrid
+,Rubén Yáñez,es ESP,GK,0,0,,,2016-2017,039ae103,Real-Madrid,,,,,37.0,1,142.0,Real-Madrid
+,﻿Casemiro,br BRA,MF,30,30,3.0,5.0,2017-2018,4d224fe8,Real-Madrid,"2,595",28.8,8.0,0.0,37.0,2,111.0,Real-Madrid
+,Keylor Navas,cr CRC,GK,27,27,0.0,0.0,2017-2018,cada4fc,Real-Madrid,"2,430",27.0,1.0,0.0,37.0,22,132.0,Real-Madrid
+,Raphaël Varane,fr FRA,DF,27,27,1.0,0.0,2017-2018,9f8e9423,Real-Madrid,"2,322",25.8,3.0,0.0,37.0,4,104.0,Real-Madrid
+,Cristiano Ronaldo,pt POR,FW,27,27,5.0,26.0,2017-2018,dea698d9,Real-Madrid,"2,285",25.4,1.0,0.0,37.0,3,81.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,26,26,1.0,4.0,2017-2018,08511d65,Real-Madrid,"2,289",25.4,9.0,2.0,37.0,1,38.0,Real-Madrid
+,Toni Kroos,de GER,MF,27,26,7.0,5.0,2017-2018,6ce1f46f,Real-Madrid,"2,261",25.1,4.0,0.0,37.0,13,121.0,Real-Madrid
+,Marcelo,br BRA,DF,28,26,6.0,2.0,2017-2018,603116a7,Real-Madrid,"2,260",25.1,3.0,1.0,37.0,2,59.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,25,25,2.0,0.0,2017-2018,4958bfb2,Real-Madrid,"2,222",24.7,11.0,1.0,37.0,1,116.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,32,25,10.0,5.0,2017-2018,70d74ece,Real-Madrid,"2,150",23.9,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,26,23,6.0,1.0,2017-2018,6025fab1,Real-Madrid,"1,970",21.9,3.0,0.0,37.0,16,109.0,Real-Madrid
+,Nacho,es ESP,DF,27,22,0.0,3.0,2017-2018,2946f9a1,Real-Madrid,"2,074",23.0,7.0,0.0,37.0,1,95.0,Real-Madrid
+,Isco,es ESP,MF,30,21,7.0,7.0,2017-2018,0b4bb3e,Real-Madrid,"1,774",19.7,1.0,0.0,37.0,1,118.0,Real-Madrid
+,Gareth Bale,wls WAL,"FW,MF",26,20,2.0,16.0,2017-2018,58bb1e1,Real-Madrid,"1,799",20.0,5.0,0.0,37.0,18,117.0,Real-Madrid
+,Marco Asensio,es ESP,"MF,FW",32,19,6.0,6.0,2017-2018,45af8a54,Real-Madrid,"1,844",20.5,2.0,0.0,37.0,1,143.0,Real-Madrid
+,Lucas Vázquez,es ESP,"MF,FW",33,16,7.0,4.0,2017-2018,fd51b456,Real-Madrid,"1,679",18.7,3.0,0.0,37.0,1,134.0,Real-Madrid
+,Mateo Kovačić,hr CRO,MF,21,10,1.0,0.0,2017-2018,79c0821a,Real-Madrid,992,11.0,2.0,0.0,37.0,16,135.0,Real-Madrid
+,Theo Hernández,fr FRA,DF,13,10,0.0,0.0,2017-2018,d4c9725f,Real-Madrid,963,10.7,1.0,0.0,37.0,4,146.0,Real-Madrid
+,Kiko Casilla,es ESP,GK,10,10,0.0,0.0,2017-2018,58bc7d18,Real-Madrid,900,10.0,0.0,0.0,37.0,1,136.0,Real-Madrid
+,Achraf Hakimi,ma MAR,DF,9,8,0.0,2.0,2017-2018,42d61c7,Real-Madrid,757,8.4,0.0,0.0,37.0,26,145.0,Real-Madrid
+,Jesús Vallejo,es ESP,DF,7,7,0.0,0.0,2017-2018,c2111b45,Real-Madrid,630,7.0,0.0,0.0,37.0,1,147.0,Real-Madrid
+,Marcos Llorente,es ESP,MF,13,5,0.0,0.0,2017-2018,02c15616,Real-Madrid,546,6.1,1.0,0.0,37.0,1,138.0,Real-Madrid
+,Dani Ceballos,es ESP,MF,12,4,0.0,2.0,2017-2018,c0617e2b,Real-Madrid,401,4.5,0.0,0.0,37.0,1,148.0,Real-Madrid
+,Borja Mayoral,es ESP,"FW,MF",14,3,1.0,3.0,2017-2018,64e8ed6d,Real-Madrid,345,3.8,0.0,0.0,37.0,1,128.0,Real-Madrid
+,Luca Zidane,fr FRA,GK,1,1,0.0,0.0,2017-2018,c818c4d9,Real-Madrid,90,1.0,0.0,0.0,37.0,4,149.0,Real-Madrid
+,Franchu Feuillassier,ar ARG,MF,0,0,,,2017-2018,615667bb,Real-Madrid,,,,,37.0,5,150.0,Real-Madrid
+,Moha,es ESP,GK,0,0,,,2017-2018,97ceacc3,Real-Madrid,,,,,37.0,1,151.0,Real-Madrid
+,Luismi Quezada,do DOM,DF,0,0,,,2017-2018,53440b3c,Real-Madrid,,,,,37.0,25,152.0,Real-Madrid
+,Óscar Rodríguez Arnaiz,es ESP,MF,0,0,,,2017-2018,19709006,Real-Madrid,,,,,37.0,1,153.0,Real-Madrid
+,Álvaro Tejero,es ESP,DF,0,0,,,2017-2018,868ce848,Real-Madrid,,,,,37.0,1,141.0,Real-Madrid
+,﻿Karim Benzema,fr FRA,FW,36,35,6.0,21.0,2018-2019,70d74ece,Real-Madrid,"2,953",32.8,1.0,0.0,37.0,4,85.0,Real-Madrid
+,Raphaël Varane,fr FRA,DF,32,31,0.0,2.0,2018-2019,9f8e9423,Real-Madrid,"2,754",30.6,0.0,1.0,37.0,4,104.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,34,31,6.0,3.0,2018-2019,6025fab1,Real-Madrid,"2,608",29.0,6.0,0.0,37.0,16,109.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,28,28,1.0,6.0,2018-2019,08511d65,Real-Madrid,"2,474",27.5,7.0,1.0,37.0,1,38.0,Real-Madrid
+,Thibaut Courtois,be BEL,GK,27,27,0.0,0.0,2018-2019,1840e36d,Real-Madrid,"2,430",27.0,2.0,0.0,37.0,27,154.0,Real-Madrid
+,Casemiro,br BRA,MF,29,27,0.0,3.0,2018-2019,4d224fe8,Real-Madrid,"2,312",25.7,7.0,1.0,37.0,2,111.0,Real-Madrid
+,Toni Kroos,de GER,MF,28,26,4.0,0.0,2018-2019,6ce1f46f,Real-Madrid,"2,221",24.7,2.0,0.0,37.0,13,121.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,24,23,2.0,1.0,2018-2019,4958bfb2,Real-Madrid,"2,107",23.4,10.0,0.0,37.0,1,116.0,Real-Madrid
+,Marcelo,br BRA,DF,23,21,2.0,2.0,2018-2019,603116a7,Real-Madrid,"1,853",20.6,6.0,0.0,37.0,2,59.0,Real-Madrid
+,Gareth Bale,wls WAL,"FW,MF",29,21,3.0,8.0,2018-2019,58bb1e1,Real-Madrid,"1,786",19.8,4.0,0.0,37.0,18,117.0,Real-Madrid
+,Marco Asensio,es ESP,"FW,MF",30,19,4.0,1.0,2018-2019,45af8a54,Real-Madrid,"1,779",19.8,3.0,0.0,37.0,1,143.0,Real-Madrid
+,Nacho,es ESP,DF,20,19,1.0,0.0,2018-2019,2946f9a1,Real-Madrid,"1,698",18.9,8.0,1.0,37.0,1,95.0,Real-Madrid
+,Lucas Vázquez,es ESP,"FW,MF",31,15,3.0,1.0,2018-2019,fd51b456,Real-Madrid,"1,510",16.8,6.0,1.0,37.0,1,134.0,Real-Madrid
+,Álvaro Odriozola,es ESP,DF,14,14,2.0,0.0,2018-2019,1d1691ad,Real-Madrid,"1,178",13.1,2.0,0.0,37.0,1,168.0,Real-Madrid
+,Dani Ceballos,es ESP,"MF,FW",23,13,0.0,3.0,2018-2019,c0617e2b,Real-Madrid,"1,248",13.9,3.0,0.0,37.0,1,148.0,Real-Madrid
+,Sergio Reguilón,es ESP,DF,14,13,2.0,0.0,2018-2019,3353737a,Real-Madrid,"1,119",12.4,3.0,0.0,37.0,1,155.0,Real-Madrid
+,Isco,es ESP,"MF,FW",27,11,2.0,3.0,2018-2019,0b4bb3e,Real-Madrid,"1,192",13.2,3.0,0.0,37.0,1,118.0,Real-Madrid
+,Keylor Navas,cr CRC,GK,10,10,0.0,0.0,2018-2019,cada4fc,Real-Madrid,900,10.0,1.0,0.0,37.0,22,132.0,Real-Madrid
+,Vinicius Júnior,br BRA,"FW,MF",18,9,0.0,2.0,2018-2019,7111d552,Real-Madrid,869,9.7,0.0,0.0,37.0,2,156.0,Real-Madrid
+,Federico Valverde,uy URU,MF,16,6,0.0,0.0,2018-2019,0959c2a2,Real-Madrid,656,7.3,4.0,0.0,37.0,8,157.0,Real-Madrid
+,Marcos Llorente,es ESP,MF,7,6,0.0,0.0,2018-2019,02c15616,Real-Madrid,540,6.0,1.0,0.0,37.0,1,138.0,Real-Madrid
+,Brahim Díaz,es ESP,"FW,MF",9,5,1.0,1.0,2018-2019,407feb71,Real-Madrid,376,4.2,0.0,0.0,37.0,1,158.0,Real-Madrid
+,Jesús Vallejo,es ESP,DF,5,4,0.0,1.0,2018-2019,c2111b45,Real-Madrid,311,3.5,1.0,1.0,37.0,1,147.0,Real-Madrid
+,Mariano,do DOM,FW,13,3,0.0,3.0,2018-2019,5c4dc0ff,Real-Madrid,447,5.0,2.0,0.0,37.0,25,144.0,Real-Madrid
+,Luca Zidane,fr FRA,GK,1,1,0.0,0.0,2018-2019,c818c4d9,Real-Madrid,90,1.0,0.0,0.0,37.0,4,149.0,Real-Madrid
+,Javi Sánchez,es ESP,DF,1,0,0.0,0.0,2018-2019,60359288,Real-Madrid,46,0.5,1.0,0.0,37.0,1,159.0,Real-Madrid
+,Cristo González,es ESP,FW,1,0,0.0,0.0,2018-2019,896b5df2,Real-Madrid,45,0.5,0.0,0.0,37.0,1,160.0,Real-Madrid
+,Kiko Casilla,es ESP,GK,0,0,,,2018-2019,58bc7d18,Real-Madrid,,,,,37.0,1,136.0,Real-Madrid
+,Borja Mayoral,es ESP,FW,0,0,,,2018-2019,64e8ed6d,Real-Madrid,,,,,37.0,1,128.0,Real-Madrid
+,Jaime Seoane,es ESP,MF,0,0,,,2018-2019,62b4888,Real-Madrid,,,,,37.0,1,161.0,Real-Madrid
+,﻿Karim Benzema,fr FRA,FW,37,36,8.0,21.0,2019-2020,70d74ece,Real-Madrid,"3,141",34.9,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Casemiro,br BRA,MF,35,35,3.0,4.0,2019-2020,4d224fe8,Real-Madrid,"3,088",34.3,12.0,0.0,37.0,2,111.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,35,35,0.0,11.0,2019-2020,08511d65,Real-Madrid,"3,013",33.5,10.0,0.0,37.0,1,38.0,Real-Madrid
+,Thibaut Courtois,be BEL,GK,34,34,0.0,0.0,2019-2020,1840e36d,Real-Madrid,"3,060",34.0,1.0,0.0,37.0,27,154.0,Real-Madrid
+,Raphaël Varane,fr FRA,DF,32,32,1.0,2.0,2019-2020,9f8e9423,Real-Madrid,"2,822",31.4,2.0,0.0,37.0,4,104.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,31,31,5.0,1.0,2019-2020,4958bfb2,Real-Madrid,"2,738",30.4,11.0,0.0,37.0,1,116.0,Real-Madrid
+,Toni Kroos,de GER,MF,35,31,5.0,4.0,2019-2020,6ce1f46f,Real-Madrid,"2,652",29.5,2.0,0.0,37.0,13,121.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,31,22,7.0,3.0,2019-2020,6025fab1,Real-Madrid,"1,996",22.2,7.0,1.0,37.0,16,109.0,Real-Madrid
+,Federico Valverde,uy URU,MF,33,21,5.0,2.0,2019-2020,0959c2a2,Real-Madrid,"1,907",21.2,1.0,0.0,37.0,8,157.0,Real-Madrid
+,Ferland Mendy,fr FRA,DF,25,19,3.0,1.0,2019-2020,3cefcaef,Real-Madrid,"1,809",20.1,8.0,1.0,37.0,4,162.0,Real-Madrid
+,Marcelo,br BRA,DF,15,15,2.0,1.0,2019-2020,603116a7,Real-Madrid,"1,296",14.4,2.0,0.0,37.0,2,59.0,Real-Madrid
+,Isco,es ESP,"FW,MF",23,15,2.0,1.0,2019-2020,0b4bb3e,Real-Madrid,"1,181",13.1,2.0,0.0,37.0,1,118.0,Real-Madrid
+,Eden Hazard,be BEL,"FW,MF",16,14,3.0,1.0,2019-2020,39bb753,Real-Madrid,"1,077",12.0,0.0,0.0,37.0,27,163.0,Real-Madrid
+,Vinicius Júnior,br BRA,"FW,MF",29,12,1.0,3.0,2019-2020,7111d552,Real-Madrid,"1,364",15.2,4.0,0.0,37.0,2,156.0,Real-Madrid
+,Gareth Bale,wls WAL,"FW,MF",16,12,2.0,2.0,2019-2020,58bb1e1,Real-Madrid,"1,089",12.1,4.0,1.0,37.0,18,117.0,Real-Madrid
+,Rodrygo,br BRA,FW,19,12,0.0,2.0,2019-2020,8f5e92a6,Real-Madrid,"1,019",11.3,0.0,0.0,37.0,2,164.0,Real-Madrid
+,Éder Militão,br BRA,DF,15,10,0.0,0.0,2019-2020,2784f898,Real-Madrid,"1,022",11.4,3.0,0.0,37.0,2,165.0,Real-Madrid
+,Lucas Vázquez,es ESP,"MF,FW",18,8,1.0,2.0,2019-2020,fd51b456,Real-Madrid,848,9.4,1.0,0.0,37.0,1,134.0,Real-Madrid
+,James Rodríguez,co COL,"MF,FW",8,5,1.0,1.0,2019-2020,715bf047,Real-Madrid,419,4.7,1.0,0.0,37.0,19,122.0,Real-Madrid
+,Nacho,es ESP,DF,6,4,0.0,1.0,2019-2020,2946f9a1,Real-Madrid,439,4.9,3.0,0.0,37.0,1,95.0,Real-Madrid
+,Luka Jović,rs SRB,FW,17,4,1.0,2.0,2019-2020,4d8cd038,Real-Madrid,430,4.8,2.0,0.0,37.0,28,166.0,Real-Madrid
+,Alphonse Areola,fr FRA,GK,4,4,0.0,0.0,2019-2020,2f965a72,Real-Madrid,360,4.0,1.0,0.0,37.0,4,167.0,Real-Madrid
+,Álvaro Odriozola,es ESP,DF,4,4,1.0,0.0,2019-2020,1d1691ad,Real-Madrid,343,3.8,3.0,1.0,37.0,1,168.0,Real-Madrid
+,Marco Asensio,es ESP,FW,9,3,1.0,3.0,2019-2020,45af8a54,Real-Madrid,336,3.7,0.0,0.0,37.0,1,143.0,Real-Madrid
+,Brahim Díaz,es ESP,"FW,MF",6,0,0.0,0.0,2019-2020,407feb71,Real-Madrid,65,0.7,1.0,0.0,37.0,1,158.0,Real-Madrid
+,Mariano,do DOM,"FW,MF",5,0,0.0,1.0,2019-2020,5c4dc0ff,Real-Madrid,45,0.5,1.0,0.0,37.0,25,144.0,Real-Madrid
+,Altube,es ESP,GK,0,0,,,2019-2020,4cbb095,Real-Madrid,,,,,37.0,1,169.0,Real-Madrid
+,Miguel Gutiérrez,es ESP,DF,0,0,,,2019-2020,7e98cff1,Real-Madrid,,,,,37.0,1,170.0,Real-Madrid
+,Javi,es ESP,DF,0,0,,,2019-2020,9a76c2e9,Real-Madrid,,,,,37.0,1,171.0,Real-Madrid
+,Luis López,es ESP,GK,0,0,,,2019-2020,ccb491d0,Real-Madrid,,,,,37.0,1,172.0,Real-Madrid
+,Keylor Navas,cr CRC,GK,0,0,,,2019-2020,cada4fc,Real-Madrid,,,,,37.0,22,132.0,Real-Madrid
+,﻿Thibaut Courtois,be BEL,GK,38,38,0.0,0.0,2020-2021,1840e36d,Real-Madrid,"3,420",38.0,0.0,0.0,37.0,27,154.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,34,33,9.0,23.0,2020-2021,70d74ece,Real-Madrid,"2,894",32.2,2.0,0.0,37.0,4,85.0,Real-Madrid
+,Casemiro,br BRA,MF,34,32,4.0,6.0,2020-2021,4d224fe8,Real-Madrid,"2,901",32.2,11.0,1.0,37.0,2,111.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,35,32,3.0,5.0,2020-2021,6025fab1,Real-Madrid,"2,733",30.4,4.0,0.0,37.0,16,109.0,Real-Madrid
+,Raphaël Varane,fr FRA,DF,31,31,0.0,2.0,2020-2021,9f8e9423,Real-Madrid,"2,715",30.2,2.0,0.0,37.0,4,104.0,Real-Madrid
+,Ferland Mendy,fr FRA,DF,26,24,0.0,1.0,2020-2021,3cefcaef,Real-Madrid,"2,208",24.5,3.0,0.0,37.0,4,162.0,Real-Madrid
+,Toni Kroos,de GER,MF,28,24,10.0,3.0,2020-2021,6ce1f46f,Real-Madrid,"2,117",23.5,6.0,0.0,37.0,13,121.0,Real-Madrid
+,Nacho,es ESP,DF,24,22,0.0,1.0,2020-2021,2946f9a1,Real-Madrid,"2,000",22.2,8.0,0.0,37.0,1,95.0,Real-Madrid
+,Vinicius Júnior,br BRA,"FW,MF",35,22,3.0,3.0,2020-2021,7111d552,Real-Madrid,"1,969",21.9,3.0,0.0,37.0,2,156.0,Real-Madrid
+,Marco Asensio,es ESP,"FW,MF",35,21,2.0,5.0,2020-2021,45af8a54,Real-Madrid,"1,869",20.8,1.0,0.0,37.0,1,143.0,Real-Madrid
+,Lucas Vázquez,es ESP,"DF,FW",24,21,5.0,2.0,2020-2021,fd51b456,Real-Madrid,"1,848",20.5,3.0,0.0,37.0,1,134.0,Real-Madrid
+,Federico Valverde,uy URU,MF,24,15,1.0,3.0,2020-2021,0959c2a2,Real-Madrid,"1,330",14.8,0.0,0.0,37.0,8,157.0,Real-Madrid
+,Sergio Ramos,es ESP,DF,15,15,0.0,2.0,2020-2021,08511d65,Real-Madrid,"1,275",14.2,3.0,0.0,37.0,1,38.0,Real-Madrid
+,Éder Militão,br BRA,DF,14,13,0.0,1.0,2020-2021,2784f898,Real-Madrid,"1,133",12.6,3.0,1.0,37.0,2,165.0,Real-Madrid
+,Marcelo,br BRA,"DF,MF",16,12,2.0,0.0,2020-2021,603116a7,Real-Madrid,"1,050",11.7,3.0,0.0,37.0,2,59.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,13,11,2.0,0.0,2020-2021,4958bfb2,Real-Madrid,950,10.6,5.0,0.0,37.0,1,116.0,Real-Madrid
+,Rodrygo,br BRA,"FW,MF",22,10,6.0,1.0,2020-2021,8f5e92a6,Real-Madrid,983,10.9,0.0,0.0,37.0,2,164.0,Real-Madrid
+,Álvaro Odriozola,es ESP,DF,13,9,0.0,2.0,2020-2021,1d1691ad,Real-Madrid,829,9.2,0.0,0.0,37.0,1,168.0,Real-Madrid
+,Isco,es ESP,MF,25,8,2.0,0.0,2020-2021,0b4bb3e,Real-Madrid,908,10.1,1.0,0.0,37.0,1,118.0,Real-Madrid
+,Eden Hazard,be BEL,"FW,MF",14,7,2.0,3.0,2020-2021,39bb753,Real-Madrid,532,5.9,0.0,0.0,37.0,27,163.0,Real-Madrid
+,Mariano,do DOM,FW,16,5,0.0,1.0,2020-2021,5c4dc0ff,Real-Madrid,513,5.7,0.0,0.0,37.0,25,144.0,Real-Madrid
+,Miguel Gutiérrez,es ESP,DF,6,3,1.0,0.0,2020-2021,7e98cff1,Real-Madrid,316,3.5,0.0,0.0,37.0,1,170.0,Real-Madrid
+,Martin Ødegaard,no NOR,MF,7,3,0.0,0.0,2020-2021,79300479,Real-Madrid,234,2.6,0.0,0.0,37.0,21,125.0,Real-Madrid
+,Blanco,es ESP,MF,4,2,0.0,0.0,2020-2021,506daeac,Real-Madrid,220,2.4,0.0,0.0,37.0,1,173.0,Real-Madrid
+,Luka Jović,rs SRB,FW,4,2,0.0,0.0,2020-2021,4d8cd038,Real-Madrid,149,1.7,0.0,0.0,37.0,28,166.0,Real-Madrid
+,Marvin,es ESP,"MF,DF",4,2,1.0,0.0,2020-2021,faefda0,Real-Madrid,133,1.5,0.0,0.0,37.0,1,174.0,Real-Madrid
+,Víctor Chust,es ESP,DF,2,1,0.0,0.0,2020-2021,c1a731e,Real-Madrid,95,1.1,0.0,0.0,37.0,1,175.0,Real-Madrid
+,Sergio Arribas,es ESP,"MF,FW",8,0,0.0,0.0,2020-2021,1e465e70,Real-Madrid,135,1.5,1.0,0.0,37.0,1,176.0,Real-Madrid
+,Hugo Duro,es ESP,FW,2,0,0.0,0.0,2020-2021,37e103f8,Real-Madrid,55,0.6,0.0,0.0,37.0,1,177.0,Real-Madrid
+,Borja Mayoral,es ESP,FW,2,0,0.0,0.0,2020-2021,64e8ed6d,Real-Madrid,23,0.3,0.0,0.0,37.0,1,128.0,Real-Madrid
+,Altube,es ESP,GK,0,0,,,2020-2021,4cbb095,Real-Madrid,,,,,37.0,1,169.0,Real-Madrid
+,Óscar Aranda,es ESP,FW,0,0,,,2020-2021,4d3bdda7,Real-Madrid,,,,,37.0,1,178.0,Real-Madrid
+,Lucas Cañizars,es ESP,GK,0,0,,,2020-2021,7e84906e,Real-Madrid,,,,,37.0,1,179.0,Real-Madrid
+,Luis López,es ESP,GK,0,0,,,2020-2021,ccb491d0,Real-Madrid,,,,,37.0,1,172.0,Real-Madrid
+,Andriy Lunin,ua UKR,GK,0,0,,,2020-2021,3061e1ec,Real-Madrid,,,,,37.0,29,180.0,Real-Madrid
+,Pablo Ramon,es ESP,DF,0,0,,,2020-2021,03cb6ca0,Real-Madrid,,,,,37.0,1,181.0,Real-Madrid
+,Sergio Santos,es ESP,DF,0,0,,,2020-2021,cf59e05f,Real-Madrid,,,,,37.0,1,182.0,Real-Madrid
+,﻿Thibaut Courtois,be BEL,GK,36,36,0.0,0.0,2021-2022,1840e36d,Real-Madrid,"3,240",36.0,1.0,0.0,37.0,27,154.0,Real-Madrid
+,Éder Militão,br BRA,DF,34,34,2.0,1.0,2021-2022,2784f898,Real-Madrid,"3,031",33.7,5.0,0.0,37.0,2,165.0,Real-Madrid
+,Karim Benzema,fr FRA,FW,32,31,12.0,27.0,2021-2022,70d74ece,Real-Madrid,"2,593",28.8,0.0,0.0,37.0,4,85.0,Real-Madrid
+,Casemiro,br BRA,MF,32,31,3.0,1.0,2021-2022,4d224fe8,Real-Madrid,"2,569",28.5,11.0,0.0,37.0,2,111.0,Real-Madrid
+,Vinicius Júnior,br BRA,"FW,MF",35,30,10.0,17.0,2021-2022,7111d552,Real-Madrid,"2,690",29.9,6.0,0.0,37.0,2,156.0,Real-Madrid
+,David Alaba,at AUT,DF,30,30,3.0,2.0,2021-2022,05439de2,Real-Madrid,"2,642",29.4,2.0,0.0,37.0,24,183.0,Real-Madrid
+,Toni Kroos,de GER,MF,28,25,3.0,1.0,2021-2022,6ce1f46f,Real-Madrid,"2,103",23.4,4.0,0.0,37.0,13,121.0,Real-Madrid
+,Luka Modrić,hr CRO,MF,28,25,8.0,2.0,2021-2022,6025fab1,Real-Madrid,"2,032",22.6,4.0,0.0,37.0,16,109.0,Real-Madrid
+,Lucas Vázquez,es ESP,DF,29,20,0.0,3.0,2021-2022,fd51b456,Real-Madrid,"1,833",20.4,3.0,0.0,37.0,1,134.0,Real-Madrid
+,Ferland Mendy,fr FRA,DF,22,20,1.0,2.0,2021-2022,3cefcaef,Real-Madrid,"1,734",19.3,4.0,0.0,37.0,4,162.0,Real-Madrid
+,Federico Valverde,uy URU,MF,31,19,1.0,0.0,2021-2022,0959c2a2,Real-Madrid,"1,833",20.4,2.0,0.0,37.0,8,157.0,Real-Madrid
+,Marco Asensio,es ESP,"FW,MF",31,19,0.0,10.0,2021-2022,45af8a54,Real-Madrid,"1,731",19.2,2.0,0.0,37.0,1,143.0,Real-Madrid
+,Nacho,es ESP,DF,28,17,0.0,3.0,2021-2022,2946f9a1,Real-Madrid,"1,555",17.3,7.0,0.0,37.0,1,95.0,Real-Madrid
+,Dani Carvajal,es ESP,DF,24,17,3.0,1.0,2021-2022,4958bfb2,Real-Madrid,"1,551",17.2,1.0,0.0,37.0,1,116.0,Real-Madrid
+,Rodrygo,br BRA,"FW,MF",33,17,4.0,4.0,2021-2022,8f5e92a6,Real-Madrid,"1,523",16.9,4.0,0.0,37.0,2,164.0,Real-Madrid
+,Eduardo Camavinga,fr FRA,MF,26,13,1.0,2.0,2021-2022,7b9c2d84,Real-Madrid,"1,236",13.7,8.0,0.0,37.0,4,184.0,Real-Madrid
+,Eden Hazard,be BEL,"FW,MF",18,7,1.0,0.0,2021-2022,39bb753,Real-Madrid,717,8.0,3.0,0.0,37.0,27,163.0,Real-Madrid
+,Marcelo,br BRA,DF,12,5,2.0,0.0,2021-2022,603116a7,Real-Madrid,525,5.8,0.0,0.0,37.0,2,59.0,Real-Madrid
+,Jesús Vallejo,es ESP,DF,5,4,0.0,0.0,2021-2022,c2111b45,Real-Madrid,341,3.8,1.0,0.0,37.0,1,147.0,Real-Madrid
+,Gareth Bale,wls WAL,FW,5,4,0.0,1.0,2021-2022,58bb1e1,Real-Madrid,280,3.1,2.0,0.0,37.0,18,117.0,Real-Madrid
+,Mariano,do DOM,FW,9,3,1.0,1.0,2021-2022,5c4dc0ff,Real-Madrid,342,3.8,2.0,0.0,37.0,25,144.0,Real-Madrid
+,Isco,es ESP,"MF,FW",14,3,0.0,1.0,2021-2022,0b4bb3e,Real-Madrid,331,3.7,1.0,0.0,37.0,1,118.0,Real-Madrid
+,Miguel Gutiérrez,es ESP,DF,3,3,1.0,0.0,2021-2022,7e98cff1,Real-Madrid,260,2.9,1.0,0.0,37.0,1,170.0,Real-Madrid
+,Dani Ceballos,es ESP,MF,11,2,0.0,0.0,2021-2022,c0617e2b,Real-Madrid,276,3.1,1.0,0.0,37.0,1,148.0,Real-Madrid
+,Andriy Lunin,ua UKR,GK,2,2,0.0,0.0,2021-2022,3061e1ec,Real-Madrid,180,2.0,0.0,0.0,37.0,29,180.0,Real-Madrid
+,Luka Jović,rs SRB,FW,15,1,3.0,1.0,2021-2022,4d8cd038,Real-Madrid,369,4.1,1.0,0.0,37.0,28,166.0,Real-Madrid
+,Blanco,es ESP,MF,1,0,0.0,0.0,2021-2022,506daeac,Real-Madrid,31,0.3,0.0,0.0,37.0,1,173.0,Real-Madrid
+,Peter González,do DOM,"MF,DF",3,0,0.0,0.0,2021-2022,1ccd3dae,Real-Madrid,27,0.3,0.0,0.0,37.0,25,185.0,Real-Madrid
+,Mario Gila,es ESP,DF,2,0,0.0,0.0,2021-2022,9c435456,Real-Madrid,25,0.3,0.0,0.0,37.0,1,186.0,Real-Madrid
+,Sergio Santos,es ESP,DF,1,0,0.0,0.0,2021-2022,cf59e05f,Real-Madrid,11,0.1,0.0,0.0,37.0,1,182.0,Real-Madrid
+,Latasa,es ESP,FW,1,0,0.0,0.0,2021-2022,2bea832e,Real-Madrid,9,0.1,0.0,0.0,37.0,1,187.0,Real-Madrid
+,Toni Fuidias,es ESP,GK,0,0,,,2021-2022,33d2c795,Real-Madrid,,,,,37.0,1,188.0,Real-Madrid
+,Luis López,es ESP,GK,0,0,,,2021-2022,ccb491d0,Real-Madrid,,,,,37.0,1,172.0,Real-Madrid
+,Álvaro Odriozola,es ESP,DF,0,0,,,2021-2022,1d1691ad,Real-Madrid,,,,,37.0,1,168.0,Real-Madrid
+,Diego Piñeiro,es ESP,GK,0,0,,,2021-2022,f6a4afe,Real-Madrid,,,,,37.0,1,189.0,Real-Madrid
+,Rafa,es ESP,DF,0,0,,,2021-2022,3239a8ed,Real-Madrid,,,,,37.0,1,190.0,Real-Madrid

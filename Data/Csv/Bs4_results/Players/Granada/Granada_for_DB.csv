@@ -1,0 +1,382 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Roberto,es ESP,GK,40,40,0.0,0.0,2010-2011,95cf42ac,Granada,"3,540",39.3,3.0,1.0,70.0,1.0,,Granada
+,Abel Gómez Moreno,es ESP,MF,41,40,11.0,3.0,2010-2011,b09801d8,Granada,"3,347",37.2,8.0,0.0,70.0,1.0,,Granada
+,Allan Nyom,cm CMR,"DF,MF",39,39,0.0,1.0,2010-2011,97572117,Granada,"3,497",38.9,10.0,1.0,70.0,36.0,,Granada
+,Mikel Rico,es ESP,MF,40,38,2.0,2.0,2010-2011,def69cd0,Granada,"3,469",38.5,6.0,0.0,70.0,1.0,,Granada
+,Íñigo López,es ESP,DF,36,36,0.0,4.0,2010-2011,8c61ca86,Granada,"3,193",35.5,8.0,0.0,70.0,1.0,,Granada
+,Dani Benítez,es ESP,MF,36,35,13.0,10.0,2010-2011,51c34a32,Granada,"3,035",33.7,13.0,2.0,70.0,1.0,5019.0,Granada
+,Alexandre Geijo,es ESP,FW,34,32,4.0,24.0,2010-2011,c0787e61,Granada,"2,746",30.5,11.0,1.0,70.0,1.0,,Granada
+,Fabián Orellana,cl CHI,"FW,MF",35,32,6.0,7.0,2010-2011,c90977db,Granada,"2,661",29.6,8.0,2.0,70.0,31.0,,Granada
+,Guilherme Siqueira,br BRA,"DF,MF",30,28,0.0,0.0,2010-2011,3770a135,Granada,"2,399",26.7,11.0,3.0,70.0,2.0,,Granada
+,Diego Mainz,es ESP,DF,24,24,0.0,2.0,2010-2011,95db62b7,Granada,"2,097",23.3,8.0,0.0,70.0,1.0,,Granada
+,Manuel Lucena,es ESP,DF,23,22,1.0,1.0,2010-2011,86ea2bff,Granada,"1,817",20.2,4.0,0.0,70.0,1.0,5020.0,Granada
+,Carlos Calvo,es ESP,MF,35,15,0.0,3.0,2010-2011,444d33f,Granada,"1,543",17.1,6.0,2.0,70.0,1.0,,Granada
+,Óscar Pérez,es ESP,MF,23,15,1.0,0.0,2010-2011,4ae5f6a,Granada,"1,244",13.8,4.0,0.0,70.0,1.0,,Granada
+,Rubén Párraga,es ESP,DF,17,14,0.0,0.0,2010-2011,c8a5798c,Granada,"1,267",14.1,3.0,0.0,70.0,1.0,,Granada
+,Juan Collantes,es ESP,"FW,MF",35,12,1.0,6.0,2010-2011,d8d9186b,Granada,"1,235",13.7,0.0,0.0,70.0,1.0,,Granada
+,Jonathan Mensah,gh GHA,DF,15,12,0.0,1.0,2010-2011,8087e6cb,Granada,"1,205",13.4,5.0,1.0,70.0,17.0,5021.0,Granada
+,Odion Ighalo,ng NGA,FW,21,8,0.0,4.0,2010-2011,03622183,Granada,865,9.6,4.0,0.0,70.0,52.0,,Granada
+,Juande,es ESP,MF,17,8,2.0,0.0,2010-2011,4e8f9951,Granada,827,9.2,2.0,0.0,70.0,1.0,,Granada
+,Daniel Berg Hestad,,,6,4,0.0,0.0,2010-2011,,Granada,294,3.3,0.0,0.0,70.0,,,Granada
+,José Juan Figueras,es ESP,GK,3,2,0.0,0.0,2010-2011,c7f01276,Granada,237,2.6,0.0,0.0,70.0,1.0,,Granada
+,Granada,es ESP,MF,3,2,0.0,0.0,2010-2011,41919c0f,Granada,108,1.2,0.0,0.0,70.0,1.0,5023.0,Granada
+,Tariq Spezie,es ESP,FW,6,1,1.0,0.0,2010-2011,79c7a874,Granada,151,1.7,1.0,0.0,70.0,1.0,5024.0,Granada
+,Luis Muriel,co COL,FW,7,1,0.0,0.0,2010-2011,b2fe5b6,Granada,136,1.5,0.0,0.0,70.0,19.0,,Granada
+,Ritchie Kitoko,be BEL,MF,4,1,0.0,0.0,2010-2011,d403d81a,Granada,91,1.0,0.0,0.0,70.0,27.0,,Granada
+,Felipe Sanchón,es ESP,MF,5,1,0.0,0.0,2010-2011,f62ff94e,Granada,78,0.9,0.0,0.0,70.0,1.0,,Granada
+,Álex Cruz,es ESP,MF,7,0,0.0,0.0,2010-2011,5e9d1e31,Granada,126,1.4,0.0,0.0,70.0,1.0,,Granada
+,Goku,es ESP,MF,1,0,0.0,0.0,2010-2011,3401fe76,Granada,21,0.2,0.0,0.0,70.0,1.0,5025.0,Granada
+,﻿Guilherme Siqueira,br BRA,"DF,MF",35,35,1.0,6.0,2011-2012,3770a135,Granada,"3,042",33.8,6.0,1.0,70.0,2.0,,Granada
+,Mikel Rico,es ESP,MF,36,32,3.0,3.0,2011-2012,def69cd0,Granada,"3,029",33.7,3.0,0.0,70.0,1.0,,Granada
+,Allan Nyom,cm CMR,"DF,MF",32,32,0.0,0.0,2011-2012,97572117,Granada,"2,820",31.3,12.0,0.0,70.0,36.0,,Granada
+,Íñigo López,es ESP,DF,28,28,0.0,4.0,2011-2012,8c61ca86,Granada,"2,457",27.3,4.0,1.0,70.0,1.0,,Granada
+,Ikechukwu Uche,ng NGA,FW,34,27,1.0,3.0,2011-2012,ba7c6d25,Granada,"2,296",25.5,2.0,0.0,70.0,52.0,,Granada
+,Dani Benítez,es ESP,MF,30,25,1.0,0.0,2011-2012,51c34a32,Granada,"2,245",24.9,9.0,1.0,70.0,1.0,5019.0,Granada
+,Carlos Martins,pt POR,MF,29,25,7.0,3.0,2011-2012,23cfa96c,Granada,"2,011",22.3,4.0,1.0,70.0,3.0,,Granada
+,Franco Jara,ar ARG,FW,31,23,2.0,3.0,2011-2012,413cce14,Granada,"2,054",22.8,12.0,0.0,70.0,5.0,5026.0,Granada
+,Roberto,es ESP,GK,22,22,0.0,0.0,2011-2012,95cf42ac,Granada,"1,980",22.0,6.0,0.0,70.0,1.0,,Granada
+,Diego Mainz,es ESP,DF,21,19,0.0,1.0,2011-2012,95db62b7,Granada,"1,782",19.8,3.0,0.0,70.0,1.0,,Granada
+,Borja Gómez Pérez,es ESP,DF,19,19,0.0,0.0,2011-2012,95abfdfd,Granada,"1,710",19.0,8.0,0.0,70.0,1.0,,Granada
+,Odion Ighalo,ng NGA,FW,30,18,1.0,6.0,2011-2012,03622183,Granada,"1,635",18.2,4.0,0.0,70.0,52.0,,Granada
+,Abel Gómez Moreno,es ESP,MF,33,16,1.0,1.0,2011-2012,b09801d8,Granada,"1,500",16.7,1.0,0.0,70.0,1.0,,Granada
+,Júlio César,br BRA,GK,16,16,0.0,0.0,2011-2012,f4213f59,Granada,"1,440",16.0,3.0,0.0,70.0,2.0,5027.0,Granada
+,Moisés Hurtado,es ESP,MF,17,15,0.0,0.0,2011-2012,1ea7254b,Granada,"1,246",13.8,5.0,0.0,70.0,1.0,,Granada
+,Fran Rico,es ESP,MF,19,13,1.0,2.0,2011-2012,da29127,Granada,"1,206",13.4,6.0,0.0,70.0,1.0,5028.0,Granada
+,Hassan Yebda,dz ALG,MF,14,12,0.0,0.0,2011-2012,4907d688,Granada,946,10.5,5.0,0.0,70.0,37.0,5029.0,Granada
+,Alexandre Geijo,es ESP,FW,24,10,0.0,2.0,2011-2012,c0787e61,Granada,"1,135",12.6,4.0,0.0,70.0,1.0,,Granada
+,Pape Diakhaté,sn SEN,DF,11,10,0.0,0.0,2011-2012,84340e6d,Granada,930,10.3,2.0,1.0,70.0,34.0,5030.0,Granada
+,David Cortés,es ESP,DF,10,8,0.0,0.0,2011-2012,99d15abd,Granada,733,8.1,5.0,0.0,70.0,1.0,,Granada
+,Jaime Romero,es ESP,"FW,MF",18,6,0.0,1.0,2011-2012,28205f4,Granada,578,6.4,3.0,2.0,70.0,1.0,,Granada
+,Yohan Mollo,fr FRA,"FW,MF",6,2,0.0,0.0,2011-2012,74950bcc,Granada,223,2.5,0.0,0.0,70.0,4.0,5031.0,Granada
+,Manuel Lucena,es ESP,DF,5,2,0.0,0.0,2011-2012,86ea2bff,Granada,187,2.1,0.0,0.0,70.0,1.0,5020.0,Granada
+,Noé Pamarot,fr FRA,DF,2,2,0.0,0.0,2011-2012,6036afc6,Granada,135,1.5,1.0,0.0,70.0,4.0,,Granada
+,Henrique Almeida,br BRA,FW,6,1,0.0,0.0,2011-2012,8aa2f2e3,Granada,214,2.4,1.0,1.0,70.0,2.0,5032.0,Granada
+,﻿Mikel Rico,es ESP,MF,38,38,0.0,2.0,2012-2013,def69cd0,Granada,"3,331",37.0,5.0,1.0,70.0,1.0,,Granada
+,Guilherme Siqueira,br BRA,"DF,MF",35,35,2.0,6.0,2012-2013,3770a135,Granada,"2,986",33.2,8.0,1.0,70.0,2.0,,Granada
+,Allan Nyom,cm CMR,"DF,MF",35,35,2.0,0.0,2012-2013,97572117,Granada,"2,942",32.7,9.0,0.0,70.0,36.0,,Granada
+,Gabriel Torje,ro ROU,"FW,MF",34,28,0.0,3.0,2012-2013,9ef94c26,Granada,"2,188",24.3,6.0,0.0,70.0,51.0,,Granada
+,Diego Mainz,es ESP,DF,27,26,1.0,1.0,2012-2013,95db62b7,Granada,"2,369",26.3,2.0,0.0,70.0,1.0,,Granada
+,Toño,es ESP,GK,24,24,0.0,0.0,2012-2013,2ed4ea81,Granada,"2,160",24.0,2.0,0.0,70.0,1.0,,Granada
+,Youssef El-Arabi,ma MAR,FW,31,23,1.0,8.0,2012-2013,c63f6e46,Granada,"1,982",22.0,4.0,0.0,70.0,26.0,5033.0,Granada
+,Íñigo López,es ESP,DF,23,21,0.0,0.0,2012-2013,8c61ca86,Granada,"1,911",21.2,8.0,0.0,70.0,1.0,,Granada
+,Yacine Brahimi,dz ALG,"FW,MF",27,21,1.0,0.0,2012-2013,56b5d64e,Granada,"1,838",20.4,7.0,1.0,70.0,37.0,5034.0,Granada
+,Iriney,br BRA,MF,25,21,0.0,0.0,2012-2013,09296fcc,Granada,"1,780",19.8,5.0,1.0,70.0,2.0,,Granada
+,Odion Ighalo,ng NGA,FW,28,19,2.0,5.0,2012-2013,03622183,Granada,"1,780",19.8,4.0,0.0,70.0,52.0,,Granada
+,Pape Diakhaté,sn SEN,DF,18,17,0.0,0.0,2012-2013,84340e6d,Granada,"1,491",16.6,6.0,0.0,70.0,34.0,5030.0,Granada
+,Nolito,es ESP,"FW,MF",17,17,1.0,3.0,2012-2013,b2d0ec1b,Granada,"1,439",16.0,2.0,0.0,70.0,1.0,,Granada
+,Roberto,es ESP,GK,14,14,0.0,0.0,2012-2013,95cf42ac,Granada,"1,260",14.0,3.0,0.0,70.0,1.0,,Granada
+,Recio,es ESP,MF,15,14,0.0,2.0,2012-2013,54073b28,Granada,"1,249",13.9,5.0,0.0,70.0,1.0,,Granada
+,Fabián Orellana,cl CHI,"FW,MF",17,12,1.0,0.0,2012-2013,c90977db,Granada,"1,058",11.8,2.0,0.0,70.0,31.0,,Granada
+,Borja Gómez Pérez,es ESP,DF,12,12,0.0,0.0,2012-2013,95abfdfd,Granada,"1,049",11.7,4.0,1.0,70.0,1.0,,Granada
+,Carlos Aranda,es ESP,FW,17,9,1.0,1.0,2012-2013,2b60c45d,Granada,869,9.7,4.0,0.0,70.0,1.0,,Granada
+,Dani Benítez,es ESP,MF,9,9,2.0,1.0,2012-2013,51c34a32,Granada,716,8.0,3.0,0.0,70.0,1.0,5019.0,Granada
+,Juan Manuel Ortiz,es ESP,"DF,MF",22,5,2.0,0.0,2012-2013,77513881,Granada,819,9.1,3.0,0.0,70.0,1.0,,Granada
+,Antonio Floro Flores,it ITA,FW,10,5,0.0,1.0,2012-2013,d6846501,Granada,507,5.6,4.0,0.0,70.0,9.0,5035.0,Granada
+,Diego Buonanotte,ar ARG,"FW,MF",15,4,1.0,1.0,2012-2013,4680cb30,Granada,597,6.6,3.0,0.0,70.0,5.0,,Granada
+,Brayan Angulo,co COL,"DF,MF",15,4,0.0,1.0,2012-2013,f31b77b,Granada,582,6.5,1.0,0.0,70.0,19.0,,Granada
+,Jaime Romero,es ESP,"FW,MF",11,2,0.0,0.0,2012-2013,28205f4,Granada,259,2.9,2.0,0.0,70.0,1.0,,Granada
+,Manuel Lucena,es ESP,DF,2,2,0.0,0.0,2012-2013,86ea2bff,Granada,178,2.0,0.0,0.0,70.0,1.0,5020.0,Granada
+,Moisés Hurtado,es ESP,MF,1,1,0.0,0.0,2012-2013,1ea7254b,Granada,45,0.5,1.0,0.0,70.0,1.0,,Granada
+,Darwin Machís,ve VEN,"FW,MF",4,0,1.0,0.0,2012-2013,d6ea4d9,Granada,48,0.5,0.0,0.0,70.0,53.0,,Granada
+,Hassan Yebda,dz ALG,MF,2,0,0.0,0.0,2012-2013,4907d688,Granada,45,0.5,0.0,0.0,70.0,37.0,5029.0,Granada
+,﻿Manuel Iturra,cl CHI,MF,34,34,0.0,1.0,2013-2014,000b3da6,Granada,"2,946",32.7,11.0,2.0,70.0,31.0,,Granada
+,Allan Nyom,cm CMR,"DF,MF",34,34,2.0,0.0,2013-2014,97572117,Granada,"2,843",31.6,9.0,0.0,70.0,36.0,,Granada
+,Youssef El-Arabi,ma MAR,FW,36,34,2.0,12.0,2013-2014,c63f6e46,Granada,"2,769",30.8,5.0,0.0,70.0,26.0,5033.0,Granada
+,Brayan Angulo,co COL,"DF,MF",34,33,2.0,0.0,2013-2014,f31b77b,Granada,"2,938",32.6,5.0,0.0,70.0,19.0,,Granada
+,Yacine Brahimi,dz ALG,"FW,MF",35,33,4.0,3.0,2013-2014,56b5d64e,Granada,"2,770",30.8,7.0,1.0,70.0,37.0,5034.0,Granada
+,Roberto,es ESP,GK,32,32,0.0,0.0,2013-2014,95cf42ac,Granada,"2,880",32.0,5.0,0.0,70.0,1.0,,Granada
+,Jeison Murillo,co COL,DF,32,32,1.0,1.0,2013-2014,b233e8e4,Granada,"2,830",31.4,9.0,1.0,70.0,19.0,,Granada
+,Fran Rico,es ESP,MF,32,28,5.0,2.0,2013-2014,da29127,Granada,"2,473",27.5,8.0,0.0,70.0,1.0,5028.0,Granada
+,Recio,es ESP,MF,30,27,0.0,2.0,2013-2014,54073b28,Granada,"2,293",25.5,7.0,1.0,70.0,1.0,,Granada
+,Piti,es ESP,"FW,MF",26,20,1.0,5.0,2013-2014,b530738,Granada,"1,837",20.4,5.0,0.0,70.0,1.0,,Granada
+,Diego Mainz,es ESP,DF,17,14,1.0,0.0,2013-2014,95db62b7,Granada,"1,348",15.0,2.0,1.0,70.0,1.0,,Granada
+,Pape Diakhaté,sn SEN,DF,14,14,1.0,0.0,2013-2014,84340e6d,Granada,"1,114",12.4,5.0,1.0,70.0,34.0,5030.0,Granada
+,Michael Pereira,fr FRA,"FW,MF",18,11,0.0,0.0,2013-2014,2969ccd2,Granada,891,9.9,1.0,0.0,70.0,4.0,,Granada
+,Riki,es ESP,FW,27,10,0.0,2.0,2013-2014,b21507f,Granada,"1,156",12.8,5.0,0.0,70.0,1.0,,Granada
+,Dimitri Foulquier,fr FRA,"DF,MF",24,9,0.0,0.0,2013-2014,45e17712,Granada,"1,145",12.7,0.0,0.0,70.0,4.0,,Granada
+,Diego Buonanotte,ar ARG,"FW,MF",24,9,1.0,0.0,2013-2014,4680cb30,Granada,"1,054",11.7,6.0,0.0,70.0,5.0,,Granada
+,Tiago Ilori,pt POR,DF,9,9,1.0,0.0,2013-2014,64b4786,Granada,810,9.0,2.0,0.0,70.0,3.0,5036.0,Granada
+,Alexandre Coeff,fr FRA,"DF,MF",13,8,0.0,0.0,2013-2014,c4065f40,Granada,780,8.7,1.0,0.0,70.0,4.0,,Granada
+,Hassan Yebda,dz ALG,MF,10,8,0.0,1.0,2013-2014,4907d688,Granada,594,6.6,5.0,0.0,70.0,37.0,5029.0,Granada
+,Orestis Karnezis,gr GRE,GK,6,6,0.0,0.0,2013-2014,85b011bb,Granada,540,6.0,0.0,0.0,70.0,55.0,5037.0,Granada
+,Mohammed Fatau,gh GHA,MF,9,6,0.0,0.0,2013-2014,b4dd30a0,Granada,496,5.5,1.0,0.0,70.0,17.0,,Granada
+,Dani Benítez,es ESP,MF,9,4,1.0,0.0,2013-2014,51c34a32,Granada,327,3.6,1.0,1.0,70.0,1.0,5019.0,Granada
+,Odion Ighalo,ng NGA,FW,16,2,0.0,2.0,2013-2014,03622183,Granada,367,4.1,3.0,1.0,70.0,52.0,,Granada
+,Álvaro García,es ESP,MF,4,1,0.0,0.0,2013-2014,90bbd822,Granada,105,1.2,0.0,0.0,70.0,1.0,,Granada
+,Christian Bravo,cl CHI,"FW,MF",2,0,0.0,0.0,2013-2014,28024156,Granada,66,0.7,0.0,0.0,70.0,31.0,5038.0,Granada
+,Richard Boateng,gh GHA,MF,1,0,0.0,0.0,2013-2014,788acb37,Granada,16,0.2,0.0,0.0,70.0,17.0,5039.0,Granada
+,﻿Jean-Sylvain Babin,mq MTQ,DF,34,34,0.0,1.0,2014-2015,ba998e22,Granada,"3,030",33.7,2.0,0.0,70.0,104.0,,Granada
+,Allan Nyom,cm CMR,"DF,MF",34,34,0.0,1.0,2014-2015,97572117,Granada,"2,985",33.2,9.0,0.0,70.0,36.0,,Granada
+,Fran Rico,es ESP,MF,31,28,1.0,3.0,2014-2015,da29127,Granada,"2,548",28.3,13.0,0.0,70.0,1.0,5028.0,Granada
+,Piti,es ESP,"FW,MF",33,28,3.0,1.0,2014-2015,b530738,Granada,"2,303",25.6,9.0,0.0,70.0,1.0,,Granada
+,Manuel Iturra,cl CHI,MF,30,27,1.0,0.0,2014-2015,000b3da6,Granada,"2,362",26.2,5.0,0.0,70.0,31.0,,Granada
+,Youssef El-Arabi,ma MAR,FW,28,24,2.0,8.0,2014-2015,c63f6e46,Granada,"1,977",22.0,4.0,1.0,70.0,26.0,5033.0,Granada
+,Roberto,es ESP,GK,23,23,0.0,0.0,2014-2015,95cf42ac,Granada,"2,070",23.0,3.0,0.0,70.0,1.0,,Granada
+,Diego Mainz,es ESP,DF,23,18,0.0,3.0,2014-2015,95db62b7,Granada,"1,731",19.2,3.0,0.0,70.0,1.0,,Granada
+,Dimitri Foulquier,fr FRA,"DF,MF",25,18,2.0,0.0,2014-2015,45e17712,Granada,"1,697",18.9,6.0,0.0,70.0,4.0,,Granada
+,Jeison Murillo,co COL,DF,19,18,0.0,0.0,2014-2015,b233e8e4,Granada,"1,589",17.7,5.0,1.0,70.0,19.0,,Granada
+,Jhon Córdoba,co COL,FW,26,16,0.0,4.0,2014-2015,9f381d8b,Granada,"1,409",15.7,7.0,0.0,70.0,19.0,,Granada
+,Javi Márquez,es ESP,MF,25,15,0.0,0.0,2014-2015,40c7cdd2,Granada,"1,424",15.8,5.0,0.0,70.0,1.0,,Granada
+,Juankar,es ESP,"DF,FW",21,15,1.0,0.0,2014-2015,9a12436,Granada,"1,344",14.9,6.0,1.0,70.0,1.0,98.0,Granada
+,Oier Olazábal,es ESP,GK,14,14,0.0,0.0,2014-2015,b5bdf144,Granada,"1,260",14.0,0.0,0.0,70.0,1.0,,Granada
+,Rubén Pérez,es ESP,MF,14,13,0.0,0.0,2014-2015,3c7bc9bd,Granada,"1,108",12.3,7.0,0.0,70.0,1.0,,Granada
+,Rubén Rochina,es ESP,"FW,MF",19,12,1.0,2.0,2014-2015,cd8c01e,Granada,"1,133",12.6,4.0,0.0,70.0,1.0,,Granada
+,Robert Ibáñez,es ESP,"FW,MF",17,12,1.0,5.0,2014-2015,c7429db3,Granada,"1,064",11.8,0.0,0.0,70.0,1.0,,Granada
+,Emanuel Insúa,ar ARG,DF,12,12,1.0,0.0,2014-2015,792c7b94,Granada,"1,020",11.3,4.0,1.0,70.0,5.0,5040.0,Granada
+,Lass Bangoura,gn GUI,"FW,MF",14,12,1.0,0.0,2014-2015,740f39d4,Granada,922,10.2,6.0,0.0,70.0,74.0,,Granada
+,Abdoul Sissoko,fr FRA,MF,11,10,0.0,0.0,2014-2015,f7288611,Granada,756,8.4,1.0,0.0,70.0,4.0,,Granada
+,Isaac Success,ng NGA,"FW,MF",19,9,1.0,1.0,2014-2015,f573a8bf,Granada,934,10.4,1.0,0.0,70.0,52.0,,Granada
+,Cala,es ESP,DF,7,6,0.0,0.0,2014-2015,fe05804b,Granada,517,5.7,2.0,0.0,70.0,1.0,,Granada
+,Daniel Candeias,pt POR,"FW,MF",11,5,1.0,0.0,2014-2015,0366fc78,Granada,530,5.9,1.0,0.0,70.0,3.0,,Granada
+,Héctor Yuste,es ESP,"DF,MF",6,4,0.0,0.0,2014-2015,f50a668a,Granada,316,3.5,3.0,0.0,70.0,1.0,,Granada
+,Adrián Colunga,es ESP,"FW,MF",4,3,0.0,0.0,2014-2015,2212dd4e,Granada,219,2.4,0.0,1.0,70.0,1.0,,Granada
+,Alfredo Ortuño,es ESP,"DF,FW",5,2,1.0,0.0,2014-2015,b5077003,Granada,247,2.7,0.0,0.0,70.0,1.0,,Granada
+,Darwin Machís,ve VEN,"FW,MF",3,2,0.0,0.0,2014-2015,d6ea4d9,Granada,225,2.5,1.0,0.0,70.0,53.0,,Granada
+,Eddy Silvestre,az AZE,MF,5,1,0.0,0.0,2014-2015,15ac2dc2,Granada,235,2.6,2.0,0.0,70.0,108.0,,Granada
+,Luís Martins,pt POR,DF,3,1,0.0,0.0,2014-2015,56b7c09b,Granada,152,1.7,0.0,0.0,70.0,3.0,,Granada
+,Stole Dimitrievski,mk MKD,GK,1,1,0.0,0.0,2014-2015,fc70e345,Granada,90,1.0,0.0,0.0,70.0,81.0,,Granada
+,Sulayman Marreh,gm GAM,"DF,MF",1,1,0.0,0.0,2014-2015,44b49036,Granada,45,0.5,1.0,0.0,70.0,92.0,,Granada
+,Riki,es ESP,FW,9,0,0.0,0.0,2014-2015,b21507f,Granada,216,2.4,1.0,0.0,70.0,1.0,,Granada
+,Daniel Larsson,se SWE,"FW,MF",1,0,0.0,0.0,2014-2015,43833b31,Granada,45,0.5,0.0,0.0,70.0,41.0,,Granada
+,Uche Henry Agbo,ng NGA,MF,1,0,0.0,0.0,2014-2015,98554bfd,Granada,7,0.1,0.0,0.0,70.0,52.0,,Granada
+,Marcelo Djaló,gw GNB,DF,0,0,,,2014-2015,2ba40342,Granada,,,,,70.0,93.0,5041.0,Granada
+,Francisco Morante Martínez,es ESP,DF,0,0,,,2014-2015,528aa67,Granada,,,,,70.0,1.0,,Granada
+,Dany Nounkeu,cm CMR,DF,0,0,,,2014-2015,819a94a2,Granada,,,,,70.0,36.0,5042.0,Granada
+,﻿Andrés Fernández,es ESP,GK,37,37,0.0,0.0,2015-2016,307fcd26,Granada,"3,329",37.0,6.0,1.0,70.0,1.0,,Granada
+,Cristiano Biraghi,it ITA,DF,32,32,1.0,0.0,2015-2016,9e1577aa,Granada,"2,819",31.3,10.0,1.0,70.0,9.0,5043.0,Granada
+,Rubén Pérez,es ESP,MF,31,30,2.0,0.0,2015-2016,3c7bc9bd,Granada,"2,475",27.5,16.0,0.0,70.0,1.0,,Granada
+,David Lombán,es ESP,DF,31,29,0.0,0.0,2015-2016,b43b81f1,Granada,"2,626",29.2,6.0,0.0,70.0,1.0,,Granada
+,Rubén Rochina,es ESP,"MF,FW",35,29,5.0,6.0,2015-2016,cd8c01e,Granada,"2,483",27.6,10.0,0.0,70.0,1.0,,Granada
+,Isaac Success,ng NGA,"MF,FW",30,28,3.0,6.0,2015-2016,f573a8bf,Granada,"2,422",26.9,12.0,1.0,70.0,52.0,,Granada
+,Youssef El-Arabi,ma MAR,FW,35,27,1.0,16.0,2015-2016,c63f6e46,Granada,"2,513",27.9,3.0,0.0,70.0,26.0,5033.0,Granada
+,Jean-Sylvain Babin,mq MTQ,DF,25,25,0.0,3.0,2015-2016,ba998e22,Granada,"2,235",24.8,4.0,0.0,70.0,104.0,,Granada
+,Miguel Lopes,pt POR,DF,26,23,1.0,0.0,2015-2016,258b0d9b,Granada,"1,968",21.9,10.0,1.0,70.0,3.0,,Granada
+,Adalberto Peñaranda,ve VEN,"FW,MF",23,21,3.0,5.0,2015-2016,4b3f2936,Granada,"1,670",18.6,8.0,0.0,70.0,53.0,,Granada
+,Dimitri Foulquier,fr FRA,DF,21,16,1.0,1.0,2015-2016,45e17712,Granada,"1,528",17.0,5.0,0.0,70.0,4.0,,Granada
+,Rene Krhin,si SVN,MF,24,16,0.0,0.0,2015-2016,9a506145,Granada,"1,434",15.9,3.0,0.0,70.0,32.0,5044.0,Granada
+,Javi Márquez,es ESP,MF,19,16,1.0,0.0,2015-2016,40c7cdd2,Granada,"1,311",14.6,6.0,0.0,70.0,1.0,,Granada
+,Fran Rico,es ESP,MF,28,15,1.0,2.0,2015-2016,da29127,Granada,"1,450",16.1,6.0,0.0,70.0,1.0,5028.0,Granada
+,Ricardo Costa,pt POR,DF,14,14,0.0,1.0,2015-2016,cd7325e1,Granada,"1,250",13.9,7.0,0.0,70.0,3.0,,Granada
+,Abdoulaye Doucouré,ml MLI,MF,15,13,2.0,0.0,2015-2016,02b29014,Granada,"1,157",12.9,5.0,0.0,70.0,12.0,5045.0,Granada
+,Isaac Cuenca,es ESP,"MF,FW",12,8,2.0,2.0,2015-2016,24e9421b,Granada,788,8.8,0.0,0.0,70.0,1.0,,Granada
+,Édgar Méndez,es ESP,"MF,FW",15,7,0.0,1.0,2015-2016,d746df,Granada,747,8.3,4.0,0.0,70.0,1.0,,Granada
+,Robert Ibáñez,es ESP,"MF,FW",18,7,1.0,0.0,2015-2016,c7429db3,Granada,700,7.8,4.0,0.0,70.0,1.0,,Granada
+,Dória,br BRA,DF,8,7,0.0,0.0,2015-2016,d28b4a9d,Granada,622,6.9,5.0,1.0,70.0,2.0,5046.0,Granada
+,Piti,es ESP,"MF,FW",8,5,2.0,2.0,2015-2016,b530738,Granada,415,4.6,3.0,0.0,70.0,1.0,,Granada
+,Diego Mainz,es ESP,DF,5,4,0.0,0.0,2015-2016,95db62b7,Granada,405,4.5,1.0,0.0,70.0,1.0,,Granada
+,David Barral,es ESP,FW,14,3,0.0,0.0,2015-2016,d99f9282,Granada,371,4.1,4.0,1.0,70.0,1.0,,Granada
+,Uche Henry Agbo,ng NGA,MF,6,3,0.0,0.0,2015-2016,98554bfd,Granada,256,2.8,3.0,0.0,70.0,52.0,,Granada
+,Nicolás López,uy URU,MF,8,1,0.0,0.0,2015-2016,8d2ee5e2,Granada,159,1.8,0.0,0.0,70.0,8.0,5047.0,Granada
+,Jesús,es ESP,GK,1,1,0.0,0.0,2015-2016,fba3c8c1,Granada,90,1.0,0.0,0.0,70.0,1.0,97.0,Granada
+,Salva Ruiz,es ESP,DF,2,1,0.0,0.0,2015-2016,36f9794,Granada,74,0.8,0.0,1.0,70.0,1.0,,Granada
+,Thievy Bifouma,cg CGO,"FW,MF",7,0,0.0,0.0,2015-2016,5978dc3c,Granada,187,2.1,0.0,0.0,70.0,80.0,,Granada
+,Jhon Córdoba,co COL,FW,0,0,,,2015-2016,9f381d8b,Granada,,,,,70.0,19.0,,Granada
+,Stole Dimitrievski,mk MKD,GK,0,0,,,2015-2016,fc70e345,Granada,,,,,70.0,81.0,,Granada
+,Ivan Kelava,hr CRO,GK,0,0,,,2015-2016,fc188b82,Granada,,,,,70.0,16.0,5048.0,Granada
+,Neuton,br BRA,DF,0,0,,,2015-2016,274e3e73,Granada,,,,,70.0,2.0,,Granada
+,﻿Guillermo Ochoa,mx MEX,GK,38,38,0.0,0.0,2016-2017,1e9bde92,Granada,"3,420",38.0,2.0,0.0,70.0,20.0,,Granada
+,Andreas Pereira,br BRA,MF,35,34,3.0,5.0,2016-2017,6639e500,Granada,"2,819",31.3,10.0,1.0,70.0,2.0,,Granada
+,Uche Henry Agbo,ng NGA,MF,31,28,0.0,0.0,2016-2017,98554bfd,Granada,"2,377",26.4,13.0,2.0,70.0,52.0,,Granada
+,Dimitri Foulquier,fr FRA,DF,22,21,2.0,0.0,2016-2017,45e17712,Granada,"1,873",20.8,4.0,0.0,70.0,4.0,,Granada
+,David Lombán,es ESP,DF,21,20,0.0,2.0,2016-2017,b43b81f1,Granada,"1,841",20.5,6.0,0.0,70.0,1.0,,Granada
+,Mehdi Carcela,ma MAR,"MF,FW",22,20,1.0,5.0,2016-2017,dc415e39,Granada,"1,747",19.4,6.0,0.0,70.0,26.0,5049.0,Granada
+,Gastón Silva,uy URU,DF,22,19,0.0,0.0,2016-2017,47d493c3,Granada,"1,749",19.4,6.0,0.0,70.0,8.0,5050.0,Granada
+,Isaac Cuenca,es ESP,"MF,DF",25,18,0.0,2.0,2016-2017,24e9421b,Granada,"1,746",19.4,4.0,0.0,70.0,1.0,,Granada
+,Rúben Vezo,pt POR,DF,18,17,0.0,0.0,2016-2017,c67cd65c,Granada,"1,487",16.5,3.0,1.0,70.0,3.0,,Granada
+,Sverrir Ingi Ingason,is ISL,DF,17,17,0.0,1.0,2016-2017,3c93b9f0,Granada,"1,472",16.4,7.0,0.0,70.0,40.0,5051.0,Granada
+,Artem Kravets,ua UKR,FW,26,16,2.0,5.0,2016-2017,0b5b8057,Granada,"1,376",15.3,2.0,0.0,70.0,29.0,5052.0,Granada
+,Matthieu Saunier,fr FRA,DF,16,16,1.0,0.0,2016-2017,fa4e0908,Granada,"1,306",14.5,4.0,0.0,70.0,4.0,5065.0,Granada
+,Jeremie Boga,ci CIV,"MF,FW",26,14,1.0,2.0,2016-2017,fe012aca,Granada,"1,458",16.2,0.0,0.0,70.0,35.0,5053.0,Granada
+,Sergi Samper,es ESP,MF,22,13,1.0,0.0,2016-2017,6a7586f4,Granada,"1,274",14.2,6.0,0.0,70.0,1.0,,Granada
+,Adrián Ramos,co COL,FW,14,13,1.0,4.0,2016-2017,c693cf7c,Granada,"1,128",12.5,4.0,0.0,70.0,19.0,5054.0,Granada
+,Tito,es ESP,DF,12,11,1.0,0.0,2016-2017,7cefa219,Granada,996,11.1,1.0,0.0,70.0,1.0,,Granada
+,Gabriel Silva,br BRA,DF,12,11,0.0,0.0,2016-2017,4914ed4a,Granada,976,10.8,3.0,0.0,70.0,2.0,5055.0,Granada
+,Rene Krhin,si SVN,MF,12,11,0.0,0.0,2016-2017,9a506145,Granada,934,10.4,0.0,0.0,70.0,32.0,5044.0,Granada
+,Héctor Hernández,es ESP,"DF,MF",13,11,2.0,0.0,2016-2017,76ee80ee,Granada,908,10.1,2.0,0.0,70.0,1.0,,Granada
+,Ezequiel Ponce,ar ARG,FW,25,10,0.0,2.0,2016-2017,ccbbe661,Granada,"1,138",12.6,5.0,1.0,70.0,5.0,5056.0,Granada
+,Wakaso,gh GHA,"MF,FW",11,10,1.0,1.0,2016-2017,999908af,Granada,866,9.6,7.0,1.0,70.0,17.0,,Granada
+,Martin Hongla,cm CMR,"DF,MF",10,8,0.0,0.0,2016-2017,b85bf253,Granada,794,8.8,2.0,0.0,70.0,36.0,5057.0,Granada
+,Victorien Angban,ci CIV,MF,10,8,0.0,0.0,2016-2017,d8992b84,Granada,682,7.6,4.0,0.0,70.0,35.0,5058.0,Granada
+,Aly Mallé,ml MLI,"MF,FW",11,6,0.0,0.0,2016-2017,c50db9b5,Granada,508,5.6,2.0,0.0,70.0,12.0,5059.0,Granada
+,Franck Tabanou,fr FRA,DF,6,6,0.0,0.0,2016-2017,15e1afd5,Granada,365,4.1,3.0,0.0,70.0,4.0,5060.0,Granada
+,Alberto Bueno,es ESP,MF,13,5,2.0,1.0,2016-2017,9b878773,Granada,562,6.2,0.0,0.0,70.0,1.0,78.0,Granada
+,Javi Márquez,es ESP,MF,7,4,0.0,0.0,2016-2017,40c7cdd2,Granada,399,4.4,2.0,0.0,70.0,1.0,,Granada
+,Jon Toral,es ESP,MF,5,4,0.0,0.0,2016-2017,8a0ca41d,Granada,265,2.9,2.0,0.0,70.0,1.0,5061.0,Granada
+,Omer Atzili,il ISR,MF,9,3,0.0,0.0,2016-2017,92fffd91,Granada,317,3.5,0.0,0.0,70.0,45.0,5062.0,Granada
+,David Barral,es ESP,FW,8,2,1.0,0.0,2016-2017,d99f9282,Granada,316,3.5,1.0,0.0,70.0,1.0,,Granada
+,Pervis Estupiñán,ec ECU,DF,2,2,0.0,0.0,2016-2017,d38fdf53,Granada,180,2.0,1.0,0.0,70.0,61.0,,Granada
+,Juanan Entrena,es ESP,MF,3,1,0.0,0.0,2016-2017,5e89c73b,Granada,103,1.1,0.0,0.0,70.0,1.0,,Granada
+,Luís Martins,pt POR,DF,2,1,0.0,0.0,2016-2017,56b7c09b,Granada,73,0.8,0.0,0.0,70.0,3.0,,Granada
+,Panagiotis Kone,gr GRE,MF,2,0,0.0,0.0,2016-2017,27d34558,Granada,44,0.5,0.0,0.0,70.0,55.0,5063.0,Granada
+,Jean Carlos Silva Rocha,br BRA,"FW,MF",1,0,0.0,0.0,2016-2017,01d00f38,Granada,30,0.3,0.0,0.0,70.0,2.0,5064.0,Granada
+,Sergi Guardiola,es ESP,"FW,MF",0,0,,,2016-2017,32974271,Granada,,,,,70.0,1.0,,Granada
+,Oier Olazábal,es ESP,GK,0,0,,,2016-2017,b5bdf144,Granada,,,,,70.0,1.0,,Granada
+,Fran Rico,es ESP,MF,0,0,,,2016-2017,da29127,Granada,,,,,70.0,1.0,5028.0,Granada
+,Rui Silva,pt POR,GK,0,0,,,2016-2017,83bfa6,Granada,,,,,70.0,3.0,,Granada
+,﻿Álex Martínez,es ESP,DF,42,42,2.0,3.0,2017-2018,1c805cf,Granada,"3,737",41.5,2.0,0.0,70.0,1.0,,Granada
+,Javi Varas,es ESP,GK,38,38,0.0,0.0,2017-2018,6db3da37,Granada,"3,420",38.0,2.0,0.0,70.0,1.0,,Granada
+,Víctor Díaz,es ESP,DF,38,38,5.0,1.0,2017-2018,3624ce4c,Granada,"3,410",37.9,6.0,1.0,70.0,1.0,,Granada
+,Darwin Machís,ve VEN,MF,33,33,6.0,14.0,2017-2018,d6ea4d9,Granada,"2,680",29.8,6.0,1.0,70.0,53.0,,Granada
+,Pedro,es ESP,MF,38,30,5.0,7.0,2017-2018,b642c79,Granada,"2,664",29.6,4.0,1.0,70.0,1.0,,Granada
+,Chico,es ESP,DF,29,29,0.0,0.0,2017-2018,95825cf2,Granada,"2,573",28.6,8.0,0.0,70.0,1.0,,Granada
+,Matthieu Saunier,fr FRA,DF,28,28,1.0,1.0,2017-2018,fa4e0908,Granada,"2,474",27.5,6.0,0.0,70.0,4.0,5065.0,Granada
+,Pierre Kunde,cm CMR,MF,37,27,0.0,5.0,2017-2018,9ceb7642,Granada,"2,504",27.8,4.0,0.0,70.0,36.0,5066.0,Granada
+,Ángel Montoro,es ESP,MF,29,27,2.0,2.0,2017-2018,719384c1,Granada,"2,151",23.9,10.0,1.0,70.0,1.0,,Granada
+,Joselu,es ESP,FW,41,25,0.0,9.0,2017-2018,5e9c273,Granada,"2,434",27.0,5.0,0.0,70.0,1.0,,Granada
+,Javier Espinosa,es ESP,MF,27,21,4.0,2.0,2017-2018,8e08d88c,Granada,"1,734",19.3,2.0,0.0,70.0,1.0,,Granada
+,Alberto Martín,es ESP,MF,30,20,2.0,0.0,2017-2018,805293e0,Granada,"1,914",21.3,4.0,0.0,70.0,1.0,,Granada
+,Adrián Ramos,co COL,FW,26,20,0.0,4.0,2017-2018,c693cf7c,Granada,"1,819",20.2,4.0,0.0,70.0,19.0,5054.0,Granada
+,Raúl Baena,es ESP,MF,23,15,1.0,0.0,2017-2018,df9c9276,Granada,"1,286",14.3,7.0,2.0,70.0,1.0,,Granada
+,Sergio Peña,pe PER,"MF,FW",19,14,3.0,1.0,2017-2018,da8506a,Granada,"1,234",13.7,3.0,2.0,70.0,57.0,5067.0,Granada
+,Germán Sánchez,es ESP,DF,14,13,0.0,1.0,2017-2018,9b2ef9,Granada,"1,170",13.0,4.0,0.0,70.0,1.0,,Granada
+,Hernán Menosse,uy URU,DF,11,11,0.0,0.0,2017-2018,d708de9a,Granada,963,10.7,5.0,0.0,70.0,8.0,,Granada
+,Salvador Agra,pt POR,MF,14,9,1.0,0.0,2017-2018,130741a,Granada,763,8.5,1.0,0.0,70.0,3.0,,Granada
+,Antonio Puertas,es ESP,MF,19,6,2.0,0.0,2017-2018,c77a8043,Granada,682,7.6,1.0,0.0,70.0,1.0,,Granada
+,Quini,es ESP,"DF,MF",15,5,0.0,0.0,2017-2018,7a538238,Granada,520,5.8,4.0,0.0,70.0,1.0,,Granada
+,Rui Silva,pt POR,GK,4,4,0.0,0.0,2017-2018,83bfa6,Granada,360,4.0,0.0,0.0,70.0,3.0,,Granada
+,Rey Manaj,al ALB,FW,19,3,0.0,1.0,2017-2018,7703afb6,Granada,577,6.4,6.0,0.0,70.0,78.0,,Granada
+,Charlie I'Anson,eng ENG,DF,4,3,0.0,0.0,2017-2018,907594ed,Granada,276,3.1,0.0,0.0,70.0,6.0,,Granada
+,Andrew Hjulsager,dk DEN,MF,6,1,0.0,0.0,2017-2018,2ef16f06,Granada,163,1.8,1.0,0.0,70.0,7.0,,Granada
+,Licá,pt POR,"FW,MF",2,0,0.0,0.0,2017-2018,41d84fed,Granada,36,0.4,0.0,0.0,70.0,3.0,,Granada
+,José Antonio,es ESP,MF,0,0,,,2017-2018,bff6c67a,Granada,,,,,70.0,1.0,5068.0,Granada
+,Aarón Escandell,es ESP,GK,0,0,,,2017-2018,67669ce7,Granada,,,,,70.0,1.0,,Granada
+,Urtzi Iriondo,es ESP,DF,0,0,,,2017-2018,0b3970c5,Granada,,,,,70.0,1.0,5069.0,Granada
+,Juancho,co COL,FW,0,0,,,2017-2018,c81ad5b,Granada,,,,,70.0,19.0,,Granada
+,Jean Carlos Silva Rocha,br BRA,"FW,MF",0,0,,,2017-2018,01d00f38,Granada,,,,,70.0,2.0,5064.0,Granada
+,﻿Rui Silva,pt POR,GK,40,40,0.0,0.0,2018-2019,83bfa6,Granada,"3,600",40.0,4.0,0.0,70.0,3.0,,Granada
+,Germán Sánchez,es ESP,DF,38,38,1.0,1.0,2018-2019,9b2ef9,Granada,"3,420",38.0,9.0,0.0,70.0,1.0,,Granada
+,Víctor Díaz,es ESP,DF,38,38,0.0,2.0,2018-2019,3624ce4c,Granada,"3,379",37.5,6.0,1.0,70.0,1.0,,Granada
+,Álvaro Vadillo,es ESP,MF,40,38,11.0,4.0,2018-2019,61b62b33,Granada,"2,914",32.4,3.0,0.0,70.0,1.0,,Granada
+,José Antonio Martínez Gil,es ESP,DF,36,35,1.0,1.0,2018-2019,8e049cbd,Granada,"3,109",34.5,3.0,0.0,70.0,1.0,5070.0,Granada
+,Fede San Emeterio,es ESP,MF,36,34,1.0,2.0,2018-2019,fecd633,Granada,"3,027",33.6,9.0,2.0,70.0,1.0,,Granada
+,Ángel Montoro,es ESP,MF,35,34,5.0,5.0,2018-2019,719384c1,Granada,"2,941",32.7,16.0,0.0,70.0,1.0,,Granada
+,Fede Vico,es ESP,MF,39,34,7.0,5.0,2018-2019,f681a8ef,Granada,"2,817",31.3,6.0,0.0,70.0,1.0,,Granada
+,Antonio Puertas,es ESP,MF,38,27,2.0,10.0,2018-2019,c77a8043,Granada,"2,429",27.0,9.0,0.0,70.0,1.0,,Granada
+,Quini,es ESP,DF,31,26,0.0,1.0,2018-2019,7a538238,Granada,"2,412",26.8,9.0,0.0,70.0,1.0,,Granada
+,Adrián Ramos,co COL,FW,39,23,2.0,6.0,2018-2019,c693cf7c,Granada,"2,255",25.1,7.0,0.0,70.0,19.0,5054.0,Granada
+,Rodri,es ESP,FW,33,17,0.0,5.0,2018-2019,5200dce9,Granada,"1,523",16.9,5.0,0.0,70.0,1.0,,Granada
+,Álex Martínez,es ESP,DF,17,17,1.0,0.0,2018-2019,1c805cf,Granada,"1,420",15.8,2.0,0.0,70.0,1.0,,Granada
+,Alejandro Pozo Pozo,es ESP,MF,30,13,1.0,4.0,2018-2019,3c16d927,Granada,"1,467",16.3,5.0,0.0,70.0,1.0,,Granada
+,Dani Ojeda,es ESP,"MF,FW",17,10,1.0,1.0,2018-2019,375a669e,Granada,767,8.5,3.0,0.0,70.0,1.0,,Granada
+,Alberto Martín,es ESP,"MF,DF",13,6,0.0,0.0,2018-2019,805293e0,Granada,637,7.1,0.0,0.0,70.0,1.0,,Granada
+,Adri Castellano,es ESP,"DF,MF",7,6,0.0,0.0,2018-2019,3dc7c57d,Granada,561,6.2,1.0,0.0,70.0,1.0,,Granada
+,Nicolás Aguirre,ar ARG,MF,16,4,0.0,1.0,2018-2019,0670e98e,Granada,543,6.0,4.0,0.0,70.0,5.0,5071.0,Granada
+,Ramon Azeez,ng NGA,"MF,DF",13,4,0.0,0.0,2018-2019,0cc474e7,Granada,529,5.9,0.0,0.0,70.0,52.0,,Granada
+,Bernardo Cruz,es ESP,DF,4,3,0.0,1.0,2018-2019,47872f21,Granada,326,3.6,0.0,0.0,70.0,1.0,,Granada
+,José Antonio,es ESP,MF,5,2,0.0,0.0,2018-2019,bff6c67a,Granada,200,2.2,0.0,0.0,70.0,1.0,5068.0,Granada
+,Aarón Escandell,es ESP,GK,1,1,0.0,0.0,2018-2019,67669ce7,Granada,90,1.0,1.0,1.0,70.0,1.0,,Granada
+,Fran Rico,es ESP,MF,1,1,0.0,0.0,2018-2019,da29127,Granada,55,0.6,0.0,0.0,70.0,1.0,5028.0,Granada
+,Juancho,co COL,FW,5,0,0.0,0.0,2018-2019,c81ad5b,Granada,39,0.4,0.0,0.0,70.0,19.0,,Granada
+,Carlos Neva,es ESP,DF,1,0,0.0,0.0,2018-2019,8d47bb39,Granada,35,0.4,0.0,0.0,70.0,1.0,5072.0,Granada
+,Alberto Lejárraga Rubio,es ESP,GK,0,0,,,2018-2019,3eaa46c4,Granada,,,,,70.0,1.0,5073.0,Granada
+,Pablo Vázquez,es ESP,"DF,MF",0,0,,,2018-2019,54f87ac5,Granada,,,,,70.0,1.0,5074.0,Granada
+,﻿Rui Silva,pt POR,GK,35,35,0.0,0.0,2019-2020,83bfa6,Granada,"3,150",35.0,3.0,0.0,70.0,3.0,,Granada
+,Domingos Duarte,pt POR,DF,36,34,1.0,3.0,2019-2020,93090f69,Granada,"3,087",34.3,7.0,0.0,70.0,3.0,,Granada
+,Víctor Díaz,es ESP,DF,36,33,5.0,1.0,2019-2020,3624ce4c,Granada,"2,884",32.0,4.0,0.0,70.0,1.0,,Granada
+,Roberto Soldado,es ESP,FW,33,30,4.0,7.0,2019-2020,9d66fbe3,Granada,"2,347",26.1,14.0,0.0,70.0,1.0,46.0,Granada
+,Yangel Herrera,ve VEN,MF,30,28,3.0,2.0,2019-2020,778654a,Granada,"2,368",26.3,14.0,0.0,70.0,53.0,,Granada
+,Antonio Puertas,es ESP,MF,36,27,3.0,7.0,2019-2020,c77a8043,Granada,"2,563",28.5,7.0,0.0,70.0,1.0,,Granada
+,Germán Sánchez,es ESP,DF,28,26,0.0,2.0,2019-2020,9b2ef9,Granada,"2,293",25.5,12.0,1.0,70.0,1.0,,Granada
+,Carlos Neva,es ESP,DF,26,25,1.0,0.0,2019-2020,8d47bb39,Granada,"2,205",24.5,2.0,0.0,70.0,1.0,5072.0,Granada
+,Carlos Fernández,es ESP,"FW,MF",34,21,3.0,10.0,2019-2020,08647d6,Granada,"2,201",24.5,8.0,0.0,70.0,1.0,,Granada
+,Darwin Machís,ve VEN,"MF,FW",36,20,5.0,7.0,2019-2020,d6ea4d9,Granada,"2,129",23.7,5.0,0.0,70.0,53.0,,Granada
+,Yan Brice Eteki,cm CMR,MF,28,18,0.0,0.0,2019-2020,3d688b46,Granada,"1,499",16.7,4.0,0.0,70.0,36.0,,Granada
+,Maxime Gonalons,fr FRA,MF,19,17,0.0,0.0,2019-2020,b8c1de25,Granada,"1,506",16.7,7.0,0.0,70.0,4.0,,Granada
+,Álvaro Vadillo,es ESP,MF,22,15,1.0,3.0,2019-2020,61b62b33,Granada,"1,218",13.5,0.0,0.0,70.0,1.0,,Granada
+,Ramon Azeez,ng NGA,MF,25,14,0.0,2.0,2019-2020,0cc474e7,Granada,"1,361",15.1,3.0,0.0,70.0,52.0,,Granada
+,José Antonio Martínez Gil,es ESP,DF,20,13,1.0,0.0,2019-2020,8e049cbd,Granada,"1,191",13.2,0.0,0.0,70.0,1.0,5070.0,Granada
+,Dimitri Foulquier,fr FRA,"DF,MF",17,12,0.0,1.0,2019-2020,45e17712,Granada,"1,119",12.4,4.0,0.0,70.0,4.0,,Granada
+,Ángel Montoro,es ESP,MF,15,11,5.0,2.0,2019-2020,719384c1,Granada,973,10.8,6.0,0.0,70.0,1.0,,Granada
+,Fede Vico,es ESP,"MF,FW",18,11,1.0,2.0,2019-2020,f681a8ef,Granada,876,9.7,1.0,0.0,70.0,1.0,,Granada
+,Quini,es ESP,DF,10,8,0.0,0.0,2019-2020,7a538238,Granada,718,8.0,2.0,0.0,70.0,1.0,,Granada
+,Jesús Vallejo,es ESP,DF,11,7,0.0,0.0,2019-2020,c2111b45,Granada,629,7.0,1.0,0.0,70.0,1.0,147.0,Granada
+,Gil Bastião Dias,pt POR,"MF,DF",12,3,1.0,0.0,2019-2020,61bdd69,Granada,356,4.0,1.0,0.0,70.0,3.0,5075.0,Granada
+,Aarón Escandell,es ESP,GK,3,3,0.0,0.0,2019-2020,67669ce7,Granada,270,3.0,0.0,0.0,70.0,1.0,,Granada
+,İsmail Köybaşı,tr TUR,"DF,MF",4,3,0.0,0.0,2019-2020,58640e66,Granada,231,2.6,1.0,0.0,70.0,15.0,,Granada
+,Adrián Ramos,co COL,"FW,MF",7,2,0.0,0.0,2019-2020,c693cf7c,Granada,226,2.5,0.0,0.0,70.0,19.0,5054.0,Granada
+,Antonio Cortés,es ESP,"FW,MF",8,2,0.0,1.0,2019-2020,31a1288d,Granada,181,2.0,2.0,0.0,70.0,1.0,,Granada
+,Álex Martínez,es ESP,DF,1,0,0.0,0.0,2019-2020,1c805cf,Granada,15,0.2,1.0,0.0,70.0,1.0,,Granada
+,Mario Rodriguez,es ESP,MF,1,0,0.0,0.0,2019-2020,5cdedc7,Granada,2,0.0,0.0,0.0,70.0,1.0,5077.0,Granada
+,João Paulo Santos Costa,pt POR,GK,0,0,,,2019-2020,00225aae,Granada,,,,,70.0,3.0,5078.0,Granada
+,Etxebarría,es ESP,GK,0,0,,,2019-2020,5c56ca54,Granada,,,,,70.0,1.0,,Granada
+,Pepe,es ESP,DF,0,0,,,2019-2020,6583a8a9,Granada,,,,,70.0,1.0,5080.0,Granada
+,﻿Rui Silva,pt POR,GK,32,32,0.0,0.0,2020-2021,83bfa6,Granada,"2,880",32.0,1.0,0.0,70.0,3.0,,Granada
+,Dimitri Foulquier,fr FRA,DF,32,32,4.0,0.0,2020-2021,45e17712,Granada,"2,663",29.6,7.0,0.0,70.0,4.0,,Granada
+,Germán Sánchez,es ESP,DF,34,29,1.0,3.0,2020-2021,9b2ef9,Granada,"2,638",29.3,11.0,1.0,70.0,1.0,,Granada
+,Domingos Duarte,pt POR,DF,29,27,0.0,1.0,2020-2021,93090f69,Granada,"2,363",26.3,5.0,1.0,70.0,3.0,,Granada
+,Yangel Herrera,ve VEN,MF,32,25,1.0,3.0,2020-2021,778654a,Granada,"2,310",25.7,7.0,0.0,70.0,53.0,,Granada
+,Antonio Puertas,es ESP,MF,35,22,5.0,3.0,2020-2021,c77a8043,Granada,"2,170",24.1,6.0,0.0,70.0,1.0,,Granada
+,Darwin Machís,ve VEN,"MF,FW",32,21,5.0,5.0,2020-2021,d6ea4d9,Granada,"2,026",22.5,1.0,0.0,70.0,53.0,,Granada
+,Carlos Neva,es ESP,DF,22,21,0.0,0.0,2020-2021,8d47bb39,Granada,"1,797",20.0,1.0,0.0,70.0,1.0,5072.0,Granada
+,Luis Javier Suárez,co COL,"FW,MF",27,18,1.0,5.0,2020-2021,ba07f8,Granada,"1,666",18.5,6.0,0.0,70.0,19.0,,Granada
+,Maxime Gonalons,fr FRA,MF,25,18,1.0,0.0,2020-2021,b8c1de25,Granada,"1,480",16.4,7.0,1.0,70.0,4.0,,Granada
+,Kenedy,br BRA,MF,28,18,3.0,4.0,2020-2021,5eebbfdf,Granada,"1,471",16.3,3.0,0.0,70.0,2.0,,Granada
+,Jorge Molina,es ESP,FW,33,17,2.0,8.0,2020-2021,43f71e77,Granada,"1,615",17.9,3.0,0.0,70.0,1.0,,Granada
+,Ángel Montoro,es ESP,MF,22,17,1.0,1.0,2020-2021,719384c1,Granada,"1,362",15.1,6.0,0.0,70.0,1.0,,Granada
+,Roberto Soldado,es ESP,FW,29,16,0.0,9.0,2020-2021,9d66fbe3,Granada,"1,438",16.0,8.0,1.0,70.0,1.0,46.0,Granada
+,Yan Brice Eteki,cm CMR,MF,25,16,0.0,0.0,2020-2021,3d688b46,Granada,"1,321",14.7,4.0,1.0,70.0,36.0,,Granada
+,Jesús Vallejo,es ESP,DF,21,15,0.0,0.0,2020-2021,c2111b45,Granada,"1,348",15.0,2.0,1.0,70.0,1.0,147.0,Granada
+,Luis Milla,es ESP,MF,16,14,1.0,1.0,2020-2021,19c36442,Granada,"1,253",13.9,1.0,0.0,70.0,1.0,,Granada
+,Quini,es ESP,DF,19,12,0.0,1.0,2020-2021,7a538238,Granada,"1,191",13.2,5.0,0.0,70.0,1.0,,Granada
+,Fede Vico,es ESP,MF,20,9,0.0,0.0,2020-2021,f681a8ef,Granada,767,8.5,1.0,0.0,70.0,1.0,,Granada
+,Nehuén Pérez,ar ARG,DF,14,9,0.0,0.0,2020-2021,f7c491f1,Granada,741,8.2,4.0,0.0,70.0,5.0,,Granada
+,Víctor Díaz,es ESP,DF,17,7,2.0,0.0,2020-2021,3624ce4c,Granada,828,9.2,3.0,0.0,70.0,1.0,,Granada
+,Aarón Escandell,es ESP,GK,5,5,0.0,0.0,2020-2021,67669ce7,Granada,450,5.0,1.0,0.0,70.0,1.0,,Granada
+,Domingos Quina,pt POR,MF,8,5,0.0,2.0,2020-2021,41fb0f4e,Granada,341,3.8,1.0,0.0,70.0,3.0,5079.0,Granada
+,Alberto Soro,es ESP,"MF,FW",15,3,2.0,1.0,2020-2021,452c3055,Granada,393,4.4,1.0,0.0,70.0,1.0,,Granada
+,Adrián Marín,es ESP,"MF,DF",9,3,1.0,0.0,2020-2021,b7f2edff,Granada,269,3.0,1.0,0.0,70.0,1.0,,Granada
+,Pepe,es ESP,DF,3,3,0.0,0.0,2020-2021,6583a8a9,Granada,253,2.8,0.0,0.0,70.0,1.0,5080.0,Granada
+,Ramon Azeez,ng NGA,MF,2,1,0.0,0.0,2020-2021,0cc474e7,Granada,101,1.1,0.0,0.0,70.0,52.0,,Granada
+,Ángel,es ESP,GK,1,1,0.0,0.0,2020-2021,b1e5bbec,Granada,90,1.0,0.0,0.0,70.0,1.0,5081.0,Granada
+,Barcia,es ESP,DF,1,1,0.0,0.0,2020-2021,0c717ae6,Granada,90,1.0,1.0,0.0,70.0,1.0,5082.0,Granada
+,Isma Ruiz,es ESP,MF,1,1,0.0,0.0,2020-2021,6e36226f,Granada,67,0.7,0.0,0.0,70.0,1.0,5083.0,Granada
+,Kingsley Fobi,gh GHA,DF,1,0,0.0,0.0,2020-2021,954c26c9,Granada,45,0.5,0.0,0.0,70.0,17.0,5084.0,Granada
+,Dani Plomer,es ESP,MF,1,0,0.0,0.0,2020-2021,0d298637,Granada,45,0.5,0.0,0.0,70.0,1.0,5085.0,Granada
+,Juan Brunet,ar ARG,MF,2,0,0.0,0.0,2020-2021,c960cfdb,Granada,24,0.3,0.0,0.0,70.0,5.0,5086.0,Granada
+,Álvaro Bravo,es ESP,MF,1,0,0.0,0.0,2020-2021,b3f97139,Granada,15,0.2,0.0,0.0,70.0,1.0,5087.0,Granada
+,Eris Abedini,xk KVX,MF,0,0,,,2020-2021,df46bb0f,Granada,,,,,70.0,82.0,5088.0,Granada
+,Aranda,es ESP,MF,0,0,,,2020-2021,92dc3d1b,Granada,,,,,70.0,1.0,5089.0,Granada
+,Antonio Cortés,es ESP,FW,0,0,,,2020-2021,31a1288d,Granada,,,,,70.0,1.0,,Granada
+,João Paulo Santos Costa,pt POR,GK,0,0,,,2020-2021,00225aae,Granada,,,,,70.0,3.0,5078.0,Granada
+,Echu,es ESP,MF,0,0,,,2020-2021,c7ff117,Granada,,,,,70.0,1.0,5090.0,Granada
+,Arnau Fàbrega,es ESP,GK,0,0,,,2020-2021,b4f1e2bb,Granada,,,,,70.0,1.0,5091.0,Granada
+,Carlos León,es ESP,MF,0,0,,,2020-2021,2313d581,Granada,,,,,70.0,1.0,5092.0,Granada
+,Rafa,es ESP,GK,0,0,,,2020-2021,7bf09d25,Granada,,,,,70.0,1.0,5093.0,Granada
+,Raúl Torrente,es ESP,MF,0,0,,,2020-2021,4d753a3f,Granada,,,,,70.0,1.0,5094.0,Granada
+,﻿Luís Maximiano,pt POR,GK,35,35,0.0,0.0,2021-2022,3318286e,Granada,"3,136",34.8,2.0,0.0,70.0,3.0,5095.0,Granada
+,Luis Javier Suárez,co COL,FW,37,34,4.0,8.0,2021-2022,ba07f8,Granada,"2,844",31.6,6.0,0.0,70.0,19.0,,Granada
+,Luis Milla,es ESP,MF,34,33,3.0,3.0,2021-2022,19c36442,Granada,"2,773",30.8,4.0,0.0,70.0,1.0,,Granada
+,Quini,es ESP,DF,32,27,1.0,0.0,2021-2022,7a538238,Granada,"2,304",25.6,11.0,0.0,70.0,1.0,,Granada
+,Germán Sánchez,es ESP,DF,32,25,1.0,2.0,2021-2022,9b2ef9,Granada,"2,299",25.5,11.0,1.0,70.0,1.0,,Granada
+,Antonio Puertas,es ESP,"MF,FW",33,25,1.0,6.0,2021-2022,c77a8043,Granada,"2,261",25.1,4.0,0.0,70.0,1.0,,Granada
+,Carlos Neva,es ESP,DF,26,24,0.0,0.0,2021-2022,8d47bb39,Granada,"2,108",23.4,1.0,0.0,70.0,1.0,5072.0,Granada
+,Maxime Gonalons,fr FRA,MF,25,20,2.0,0.0,2021-2022,b8c1de25,Granada,"1,550",17.2,6.0,0.0,70.0,4.0,,Granada
+,Jorge Molina,es ESP,FW,35,19,5.0,10.0,2021-2022,43f71e77,Granada,"1,966",21.8,2.0,0.0,70.0,1.0,,Granada
+,Domingos Duarte,pt POR,DF,21,19,0.0,1.0,2021-2022,93090f69,Granada,"1,687",18.7,7.0,1.0,70.0,3.0,,Granada
+,Víctor Díaz,es ESP,DF,22,18,0.0,1.0,2021-2022,3624ce4c,Granada,"1,500",16.7,5.0,0.0,70.0,1.0,,Granada
+,Darwin Machís,ve VEN,"MF,FW",25,16,2.0,4.0,2021-2022,d6ea4d9,Granada,"1,376",15.3,2.0,0.0,70.0,53.0,,Granada
+,Sergio Escudero,es ESP,"DF,MF",27,15,1.0,2.0,2021-2022,b0616e3d,Granada,"1,434",15.9,6.0,0.0,70.0,1.0,,Granada
+,Raúl Torrente,es ESP,DF,18,15,0.0,0.0,2021-2022,4d753a3f,Granada,"1,282",14.2,5.0,0.0,70.0,1.0,5094.0,Granada
+,Ángel Montoro,es ESP,MF,24,13,1.0,1.0,2021-2022,719384c1,Granada,"1,331",14.8,5.0,0.0,70.0,1.0,,Granada
+,Álex Collado,es ESP,"MF,FW",17,13,1.0,2.0,2021-2022,85dace26,Granada,"1,020",11.3,1.0,0.0,70.0,1.0,,Granada
+,Njegoš Petrović,rs SRB,MF,15,10,1.0,0.0,2021-2022,0cb29e91,Granada,918,10.2,5.0,0.0,70.0,28.0,5096.0,Granada
+,Myrto Uzuni,al ALB,"MF,FW",15,9,1.0,1.0,2021-2022,01da7812,Granada,856,9.5,4.0,0.0,70.0,78.0,5097.0,Granada
+,Rubén Rochina,es ESP,"MF,FW",15,8,3.0,1.0,2021-2022,cd8c01e,Granada,743,8.3,3.0,0.0,70.0,1.0,,Granada
+,Monchu,es ESP,MF,14,7,0.0,0.0,2021-2022,8ac501f5,Granada,668,7.4,3.0,1.0,70.0,1.0,,Granada
+,Alberto Soro,es ESP,"MF,DF",16,7,0.0,0.0,2021-2022,452c3055,Granada,578,6.4,0.0,0.0,70.0,1.0,,Granada
+,Luis Abram,pe PER,DF,8,6,0.0,0.0,2021-2022,1f462f95,Granada,560,6.2,2.0,0.0,70.0,57.0,5098.0,Granada
+,Carlos Bacca,co COL,FW,17,4,1.0,0.0,2021-2022,09a9e921,Granada,513,5.7,3.0,0.0,70.0,19.0,,Granada
+,Santiago Arias,co COL,DF,12,4,0.0,1.0,2021-2022,fdd60087,Granada,440,4.9,1.0,0.0,70.0,19.0,,Granada
+,Aarón Escandell,es ESP,GK,4,3,0.0,0.0,2021-2022,67669ce7,Granada,284,3.2,1.0,1.0,70.0,1.0,,Granada
+,Isma Ruiz,es ESP,MF,8,3,0.0,0.0,2021-2022,6e36226f,Granada,283,3.1,1.0,0.0,70.0,1.0,5083.0,Granada
+,Yan Brice Eteki,cm CMR,MF,12,2,0.0,0.0,2021-2022,3d688b46,Granada,343,3.8,3.0,0.0,70.0,36.0,,Granada
+,Dimitri Foulquier,fr FRA,DF,2,2,0.0,0.0,2021-2022,45e17712,Granada,180,2.0,0.0,0.0,70.0,4.0,,Granada
+,Matias Arezo,uy URU,"FW,MF",8,1,0.0,0.0,2021-2022,484ebdb0,Granada,162,1.8,1.0,0.0,70.0,8.0,5099.0,Granada
+,Barcia,es ESP,DF,1,1,0.0,0.0,2021-2022,0c717ae6,Granada,75,0.8,0.0,0.0,70.0,1.0,5082.0,Granada
+,Dani Raba,es ESP,MF,2,0,0.0,0.0,2021-2022,6a7ab4,Granada,26,0.3,0.0,0.0,70.0,1.0,,Granada
+,Adrián Butzke,es ESP,FW,1,0,0.0,0.0,2021-2022,505dce2b,Granada,1,0.0,0.0,0.0,70.0,1.0,5100.0,Granada
+,Ángel,es ESP,GK,0,0,,,2021-2022,b1e5bbec,Granada,,,,,70.0,1.0,5081.0,Granada
+,Brau,es ESP,DF,0,0,,,2021-2022,3e707ad4,Granada,,,,,70.0,1.0,5101.0,Granada
+,Cheikh Kané Sarr,sn SEN,GK,0,0,,,2021-2022,4dc1cd2c,Granada,,,,,70.0,34.0,5102.0,Granada
+,Pepe,es ESP,DF,0,0,,,2021-2022,6583a8a9,Granada,,,,,70.0,1.0,5080.0,Granada
+,Bryan Zaragoza,,MF,0,0,,,2021-2022,96103b2,Granada,,,,,70.0,,,Granada

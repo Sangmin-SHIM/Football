@@ -1,0 +1,392 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Andreas Reinke,de GER,GK,40,40,0.0,1.0,2002-2003,0adfb87,Real-Murcia,"3,582",39.8,4.0,0.0,59.0,13.0,3882.0,Real-Murcia
+,Tito,es ESP,MF,40,39,8.0,7.0,2002-2003,8f451bf9,Real-Murcia,"3,471",38.6,7.0,0.0,59.0,1.0,3883.0,Real-Murcia
+,Ismael Santiago,es ESP,MF,39,39,8.0,12.0,2002-2003,59c55e77,Real-Murcia,"3,144",34.9,4.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Maciel,ar ARG,DF,38,38,6.0,2.0,2002-2003,09b9b9e6,Real-Murcia,"3,313",36.8,7.0,0.0,59.0,5.0,,Real-Murcia
+,José Acciari,ar ARG,MF,38,37,1.0,3.0,2002-2003,9e98922b,Real-Murcia,"3,112",34.6,15.0,1.0,59.0,5.0,3884.0,Real-Murcia
+,Juanma,es ESP,DF,36,34,3.0,2.0,2002-2003,f3b5db81,Real-Murcia,"3,063",34.0,5.0,1.0,59.0,1.0,3885.0,Real-Murcia
+,Ibán Cuadrado,es ESP,DF,35,33,0.0,0.0,2002-2003,8db7ef49,Real-Murcia,"2,905",32.3,8.0,2.0,59.0,1.0,,Real-Murcia
+,David Karanka,es ESP,FW,36,33,3.0,13.0,2002-2003,8e19b9f6,Real-Murcia,"2,672",29.7,5.0,0.0,59.0,1.0,3886.0,Real-Murcia
+,Pedro Largo Carazo,es ESP,DF,34,32,1.0,1.0,2002-2003,373dc94c,Real-Murcia,"2,880",32.0,3.0,1.0,59.0,1.0,3887.0,Real-Murcia
+,Richi,es ESP,"FW,MF",38,31,2.0,6.0,2002-2003,90517f8a,Real-Murcia,"2,764",30.7,1.0,0.0,59.0,1.0,3888.0,Real-Murcia
+,Mikel Lasa,es ESP,DF,31,24,0.0,0.0,2002-2003,63140312,Real-Murcia,"2,125",23.6,10.0,0.0,59.0,1.0,3889.0,Real-Murcia
+,José Luis Loreto,es ESP,FW,26,20,1.0,4.0,2002-2003,7619d928,Real-Murcia,"1,660",18.4,4.0,0.0,59.0,1.0,3890.0,Real-Murcia
+,Rafael Clavero,es ESP,DF,27,19,1.0,0.0,2002-2003,1590d66a,Real-Murcia,"1,873",20.8,3.0,1.0,59.0,1.0,,Real-Murcia
+,Josep Setvalls,es ESP,MF,27,12,0.0,3.0,2002-2003,18c53e9e,Real-Murcia,"1,201",13.3,3.0,0.0,59.0,1.0,3891.0,Real-Murcia
+,Ricardo Carrero,es ESP,DF,14,9,0.0,0.0,2002-2003,38c23b0a,Real-Murcia,722,8.0,5.0,0.0,59.0,1.0,3892.0,Real-Murcia
+,José Antonio Gómez Casado,es ESP,,11,7,0.0,0.0,2002-2003,3f47a956,Real-Murcia,523,5.8,4.0,0.0,59.0,1.0,,Real-Murcia
+,Miguel Albiol,es ESP,MF,19,5,1.0,0.0,2002-2003,ca8aa471,Real-Murcia,734,8.2,1.0,0.0,59.0,1.0,,Real-Murcia
+,Jaime Ramos,es ESP,MF,10,5,0.0,1.0,2002-2003,0efbd49c,Real-Murcia,418,4.6,1.0,0.0,59.0,1.0,3893.0,Real-Murcia
+,Carlos Isach,,,24,3,4.0,3.0,2002-2003,,Real-Murcia,668,7.4,3.0,0.0,59.0,,,Real-Murcia
+,Xavi Valero,es ESP,GK,3,2,0.0,0.0,2002-2003,3db74cf4,Real-Murcia,198,2.2,0.0,0.0,59.0,1.0,,Real-Murcia
+,Diego Quintana,ar ARG,MF,7,0,0.0,0.0,2002-2003,2b79305d,Real-Murcia,202,2.2,0.0,0.0,59.0,5.0,3894.0,Real-Murcia
+,Alfonso Pérez,es ESP,FW,4,0,0.0,0.0,2002-2003,22a2f25e,Real-Murcia,87,1.0,0.0,1.0,59.0,1.0,,Real-Murcia
+,Rodri,es ESP,MF,6,0,0.0,0.0,2002-2003,329b7718,Real-Murcia,83,0.9,0.0,0.0,59.0,1.0,3895.0,Real-Murcia
+,Juan Valera Espín,es ESP,"DF,MF",1,0,0.0,0.0,2002-2003,947fa33c,Real-Murcia,37,0.4,0.0,0.0,59.0,1.0,,Real-Murcia
+,Patricio Pelegrin,,,1,0,0.0,0.0,2002-2003,,Real-Murcia,24,0.3,0.0,0.0,59.0,,,Real-Murcia
+,﻿Luis García,es ESP,"FW,MF",38,37,4.0,11.0,2003-2004,70df8d7c,Real-Murcia,"3,301",36.7,5.0,0.0,59.0,1.0,,Real-Murcia
+,José Acciari,ar ARG,MF,35,34,0.0,2.0,2003-2004,9e98922b,Real-Murcia,"2,910",32.3,12.0,1.0,59.0,5.0,3884.0,Real-Murcia
+,Ibán Cuadrado,es ESP,DF,34,32,0.0,0.0,2003-2004,8db7ef49,Real-Murcia,"2,945",32.7,11.0,0.0,59.0,1.0,,Real-Murcia
+,Juanma,es ESP,DF,31,30,2.0,0.0,2003-2004,f3b5db81,Real-Murcia,"2,615",29.1,6.0,0.0,59.0,1.0,3885.0,Real-Murcia
+,Richi,es ESP,"FW,MF",34,29,1.0,3.0,2003-2004,90517f8a,Real-Murcia,"2,372",26.4,2.0,0.0,59.0,1.0,3888.0,Real-Murcia
+,Míchel,es ESP,MF,29,25,1.0,4.0,2003-2004,19b3b837,Real-Murcia,"2,010",22.3,3.0,0.0,59.0,1.0,,Real-Murcia
+,Daniel Jensen,dk DEN,MF,28,21,0.0,0.0,2003-2004,ded677a5,Real-Murcia,"1,762",19.6,4.0,3.0,59.0,7.0,3896.0,Real-Murcia
+,Rafael Clavero,es ESP,DF,24,19,0.0,0.0,2003-2004,1590d66a,Real-Murcia,"1,824",20.3,6.0,0.0,59.0,1.0,,Real-Murcia
+,David Karanka,es ESP,FW,31,18,1.0,7.0,2003-2004,8e19b9f6,Real-Murcia,"1,803",20.0,1.0,0.0,59.0,1.0,3886.0,Real-Murcia
+,Juanmi,es ESP,GK,18,18,0.0,0.0,2003-2004,9c6886e6,Real-Murcia,"1,620",18.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Gabriel Loeschbor,ar ARG,DF,17,15,1.0,0.0,2003-2004,9702bece,Real-Murcia,"1,255",13.9,5.0,0.0,59.0,5.0,3897.0,Real-Murcia
+,Iván Hurtado,ec ECU,DF,15,14,0.0,0.0,2003-2004,d87fdfd3,Real-Murcia,"1,266",14.1,3.0,1.0,59.0,61.0,3898.0,Real-Murcia
+,Lluís Carreras,es ESP,DF,15,14,0.0,0.0,2003-2004,4e1b59cf,Real-Murcia,"1,072",11.9,7.0,1.0,59.0,1.0,,Real-Murcia
+,Leonel Gancedo,ar ARG,MF,18,13,2.0,0.0,2003-2004,cc525f3d,Real-Murcia,"1,218",13.5,4.0,0.0,59.0,5.0,,Real-Murcia
+,Francisco Maciel,ar ARG,DF,16,13,0.0,0.0,2003-2004,09b9b9e6,Real-Murcia,"1,099",12.2,2.0,0.0,59.0,5.0,,Real-Murcia
+,Juan Esnáider,ar ARG,FW,17,12,0.0,1.0,2003-2004,9bdc347,Real-Murcia,894,9.9,2.0,1.0,59.0,5.0,3899.0,Real-Murcia
+,Roberto Bonano,ar ARG,GK,11,11,0.0,0.0,2003-2004,7b2d75ba,Real-Murcia,990,11.0,1.0,0.0,59.0,5.0,,Real-Murcia
+,Fredi Lobeiras,es ESP,MF,14,11,2.0,0.0,2003-2004,9e85ab41,Real-Murcia,809,9.0,1.0,0.0,59.0,1.0,,Real-Murcia
+,Mikel Roteta,es ESP,DF,11,10,0.0,0.0,2003-2004,05ec1ccf,Real-Murcia,760,8.4,2.0,1.0,59.0,1.0,,Real-Murcia
+,Pedro Largo Carazo,es ESP,DF,16,9,0.0,0.0,2003-2004,373dc94c,Real-Murcia,956,10.6,2.0,0.0,59.0,1.0,3887.0,Real-Murcia
+,Javier Sánchez Broto,es ESP,GK,9,9,0.0,0.0,2003-2004,9157113d,Real-Murcia,810,9.0,0.0,0.0,59.0,1.0,3900.0,Real-Murcia
+,Federico Azcárate,ar ARG,DF,8,7,0.0,0.0,2003-2004,4256b651,Real-Murcia,612,6.8,0.0,0.0,59.0,5.0,3901.0,Real-Murcia
+,Juan Valera Espín,es ESP,"DF,MF",10,5,0.0,0.0,2003-2004,947fa33c,Real-Murcia,641,7.1,1.0,0.0,59.0,1.0,,Real-Murcia
+,Roberto Fresnedoso,es ESP,MF,8,5,0.0,0.0,2003-2004,16cc4352,Real-Murcia,421,4.7,1.0,0.0,59.0,1.0,,Real-Murcia
+,Julio Álvarez,ve VEN,MF,12,2,1.0,0.0,2003-2004,17b1a0ee,Real-Murcia,386,4.3,1.0,0.0,59.0,53.0,,Real-Murcia
+,Juan Zamora,es ESP,DF,2,2,0.0,0.0,2003-2004,dc8ab5e4,Real-Murcia,180,2.0,1.0,0.0,59.0,1.0,,Real-Murcia
+,Carlos Alberto Juárez,ec ECU,FW,5,1,,0.0,2003-2004,4fbb8f8,Real-Murcia,163,1.8,0.0,0.0,59.0,61.0,3902.0,Real-Murcia
+,Josep Setvalls,es ESP,MF,1,1,0.0,0.0,2003-2004,18c53e9e,Real-Murcia,90,1.0,0.0,0.0,59.0,1.0,3891.0,Real-Murcia
+,Sebastián Esparza Hernández,,,2,1,,0.0,2003-2004,32c7b4e,Real-Murcia,87,1.0,0.0,0.0,59.0,,,Real-Murcia
+,Diego Quintana,ar ARG,MF,11,0,0.0,1.0,2003-2004,2b79305d,Real-Murcia,237,2.6,1.0,0.0,59.0,5.0,3894.0,Real-Murcia
+,Jesús Tato,es ESP,FW,7,0,0.0,0.0,2003-2004,50e2af8c,Real-Murcia,194,2.2,1.0,0.0,59.0,1.0,,Real-Murcia
+,﻿José Acciari,ar ARG,MF,39,39,2.0,5.0,2004-2005,9e98922b,Real-Murcia,"3,353",37.3,15.0,1.0,59.0,5.0,3884.0,Real-Murcia
+,Iván Alonso,uy URU,FW,41,36,1.0,11.0,2004-2005,80084c87,Real-Murcia,"3,307",36.7,8.0,0.0,59.0,8.0,,Real-Murcia
+,Ibán Cuadrado,es ESP,DF,36,36,1.0,1.0,2004-2005,8db7ef49,Real-Murcia,"3,175",35.3,8.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Maciel,ar ARG,DF,34,34,3.0,0.0,2004-2005,09b9b9e6,Real-Murcia,"3,006",33.4,15.0,1.0,59.0,5.0,,Real-Murcia
+,Juan Valera Espín,es ESP,"DF,MF",35,33,3.0,3.0,2004-2005,947fa33c,Real-Murcia,"2,721",30.2,7.0,1.0,59.0,1.0,,Real-Murcia
+,Richi,es ESP,"FW,MF",41,30,3.0,5.0,2004-2005,90517f8a,Real-Murcia,"2,832",31.5,4.0,0.0,59.0,1.0,3888.0,Real-Murcia
+,Juanmi,es ESP,GK,29,29,0.0,0.0,2004-2005,9c6886e6,Real-Murcia,"2,607",29.0,0.0,1.0,59.0,1.0,,Real-Murcia
+,Sebastián Carrera,ar ARG,MF,33,28,2.0,2.0,2004-2005,25cf2eb,Real-Murcia,"2,464",27.4,6.0,0.0,59.0,5.0,3903.0,Real-Murcia
+,Jon Urzelai,es ESP,DF,30,26,0.0,0.0,2004-2005,6366a43c,Real-Murcia,"2,382",26.5,9.0,0.0,59.0,1.0,3904.0,Real-Murcia
+,Julio Álvarez,ve VEN,MF,35,24,9.0,5.0,2004-2005,17b1a0ee,Real-Murcia,"2,167",24.1,4.0,1.0,59.0,53.0,,Real-Murcia
+,Alejandro Marañón,es ESP,DF,21,20,0.0,0.0,2004-2005,9be8422d,Real-Murcia,"1,674",18.6,6.0,3.0,59.0,1.0,,Real-Murcia
+,Juanma,es ESP,DF,22,19,1.0,1.0,2004-2005,f3b5db81,Real-Murcia,"1,637",18.2,7.0,0.0,59.0,1.0,3885.0,Real-Murcia
+,Óscar Pulido,,MF,18,17,0.0,0.0,2004-2005,7e01b9b3,Real-Murcia,"1,301",14.5,4.0,0.0,59.0,,,Real-Murcia
+,Nicolás Medina,ar ARG,MF,20,16,0.0,2.0,2004-2005,da259,Real-Murcia,"1,344",14.9,7.0,0.0,59.0,5.0,3905.0,Real-Murcia
+,Sietes,es ESP,DF,17,14,0.0,0.0,2004-2005,bae8225f,Real-Murcia,"1,256",14.0,1.0,1.0,59.0,1.0,,Real-Murcia
+,David Karanka,es ESP,FW,26,12,2.0,1.0,2004-2005,8e19b9f6,Real-Murcia,"1,272",14.1,1.0,0.0,59.0,1.0,3886.0,Real-Murcia
+,Juan Carlos Olave,ar ARG,GK,12,12,0.0,0.0,2004-2005,40abdd6d,Real-Murcia,"1,080",12.0,1.0,0.0,59.0,5.0,3906.0,Real-Murcia
+,Cătălin Munteanu,ro ROU,MF,22,12,0.0,1.0,2004-2005,7cc877fd,Real-Murcia,"1,004",11.2,3.0,0.0,59.0,51.0,,Real-Murcia
+,José María,es ESP,MF,20,9,1.0,1.0,2004-2005,5278a22,Real-Murcia,835,9.3,4.0,0.0,59.0,1.0,3907.0,Real-Murcia
+,Luismi,es ESP,MF,21,6,2.0,0.0,2004-2005,315b221b,Real-Murcia,788,8.8,2.0,1.0,59.0,1.0,,Real-Murcia
+,Mariano Fernández,ar ARG,DF,6,5,0.0,1.0,2004-2005,96c1093b,Real-Murcia,462,5.1,3.0,0.0,59.0,5.0,3908.0,Real-Murcia
+,Míchel,es ESP,MF,7,4,1.0,0.0,2004-2005,19b3b837,Real-Murcia,294,3.3,0.0,0.0,59.0,1.0,,Real-Murcia
+,Santos Atila,,,1,1,0.0,0.0,2004-2005,,Real-Murcia,90,1.0,0.0,0.0,59.0,,,Real-Murcia
+,Federico Azcárate,ar ARG,DF,1,1,0.0,0.0,2004-2005,4256b651,Real-Murcia,90,1.0,0.0,0.0,59.0,5.0,3901.0,Real-Murcia
+,Pedro León,es ESP,"FW,MF",7,0,0.0,1.0,2004-2005,d66b9872,Real-Murcia,160,1.8,1.0,0.0,59.0,1.0,96.0,Real-Murcia
+,Patricio Pelegrin,,,1,0,0.0,0.0,2004-2005,,Real-Murcia,19,0.2,0.0,0.0,59.0,,,Real-Murcia
+,Jose Campillo,,,1,0,0.0,0.0,2004-2005,,Real-Murcia,8,0.1,0.0,0.0,59.0,,,Real-Murcia
+,﻿Juanmi,es ESP,GK,41,41,0.0,0.0,2005-2006,9c6886e6,Real-Murcia,"3,681",40.9,1.0,1.0,59.0,1.0,,Real-Murcia
+,Ibán Cuadrado,es ESP,DF,40,40,0.0,2.0,2005-2006,8db7ef49,Real-Murcia,"3,555",39.5,10.0,0.0,59.0,1.0,,Real-Murcia
+,Richi,es ESP,"FW,MF",41,37,3.0,10.0,2005-2006,90517f8a,Real-Murcia,"3,253",36.1,0.0,0.0,59.0,1.0,3888.0,Real-Murcia
+,José Acciari,ar ARG,MF,35,35,3.0,2.0,2005-2006,9e98922b,Real-Murcia,"3,000",33.3,18.0,3.0,59.0,5.0,3884.0,Real-Murcia
+,Iván Alonso,uy URU,FW,34,34,1.0,8.0,2005-2006,80084c87,Real-Murcia,"2,866",31.8,11.0,0.0,59.0,8.0,,Real-Murcia
+,Stéphane Pignol,fr FRA,DF,33,33,1.0,0.0,2005-2006,ca3ae27c,Real-Murcia,"2,967",33.0,11.0,1.0,59.0,4.0,,Real-Murcia
+,Juanma,es ESP,DF,34,30,0.0,0.0,2005-2006,f3b5db81,Real-Murcia,"2,816",31.3,9.0,0.0,59.0,1.0,3885.0,Real-Murcia
+,Samuel Baños,es ESP,MF,33,27,3.0,2.0,2005-2006,f3ce81bd,Real-Murcia,"2,331",25.9,8.0,0.0,59.0,1.0,3909.0,Real-Murcia
+,Alejandro Marañón,es ESP,DF,27,26,0.0,0.0,2005-2006,9be8422d,Real-Murcia,"2,252",25.0,8.0,1.0,59.0,1.0,,Real-Murcia
+,Sebastián Corona,es ESP,DF,26,25,1.0,0.0,2005-2006,d2aedc78,Real-Murcia,"2,199",24.4,9.0,2.0,59.0,1.0,3910.0,Real-Murcia
+,Sebastián Carrera,ar ARG,MF,32,23,2.0,3.0,2005-2006,25cf2eb,Real-Murcia,"1,967",21.9,2.0,0.0,59.0,5.0,3903.0,Real-Murcia
+,Julio Álvarez,ve VEN,MF,25,19,6.0,2.0,2005-2006,17b1a0ee,Real-Murcia,"1,646",18.3,2.0,0.0,59.0,53.0,,Real-Murcia
+,Pedro León,es ESP,"FW,MF",30,17,4.0,2.0,2005-2006,d66b9872,Real-Murcia,"1,631",18.1,9.0,0.0,59.0,1.0,96.0,Real-Murcia
+,Pablo Sierra,es ESP,MF,23,16,3.0,1.0,2005-2006,224f3a5f,Real-Murcia,"1,416",15.7,1.0,0.0,59.0,1.0,,Real-Murcia
+,Nacho Garro,es ESP,MF,22,14,0.0,2.0,2005-2006,9f6a2843,Real-Murcia,"1,222",13.6,7.0,0.0,59.0,1.0,,Real-Murcia
+,Jon Urzelai,es ESP,DF,12,9,0.0,0.0,2005-2006,6366a43c,Real-Murcia,835,9.3,1.0,0.0,59.0,1.0,3904.0,Real-Murcia
+,Markus Kreuz,de GER,MF,17,8,2.0,0.0,2005-2006,bf5cf2c,Real-Murcia,664,7.4,2.0,0.0,59.0,13.0,3911.0,Real-Murcia
+,Jesús Tato,es ESP,FW,9,8,1.0,4.0,2005-2006,50e2af8c,Real-Murcia,601,6.7,1.0,1.0,59.0,1.0,,Real-Murcia
+,Diego Alonso,uy URU,FW,24,5,0.0,2.0,2005-2006,21a7914b,Real-Murcia,830,9.2,4.0,0.0,59.0,8.0,,Real-Murcia
+,Bueno Hector,,,8,4,0.0,0.0,2005-2006,,Real-Murcia,384,4.3,1.0,0.0,59.0,,,Real-Murcia
+,David Palacios,es ESP,MF,7,3,0.0,0.0,2005-2006,8779db47,Real-Murcia,338,3.8,1.0,0.0,59.0,1.0,,Real-Murcia
+,Óscar Pulido,,MF,6,3,0.0,0.0,2005-2006,7e01b9b3,Real-Murcia,234,2.6,3.0,0.0,59.0,,,Real-Murcia
+,Juan Manuel Salgueiro,uy URU,FW,8,2,0.0,0.0,2005-2006,91f3803e,Real-Murcia,275,3.1,0.0,1.0,59.0,8.0,3912.0,Real-Murcia
+,Kostas Chalkias,gr GRE,GK,2,1,0.0,0.0,2005-2006,8c36086c,Real-Murcia,99,1.1,0.0,0.0,59.0,55.0,3913.0,Real-Murcia
+,Míchel,es ESP,MF,3,1,0.0,0.0,2005-2006,19b3b837,Real-Murcia,96,1.1,0.0,0.0,59.0,1.0,,Real-Murcia
+,José María,es ESP,MF,1,1,0.0,0.0,2005-2006,5278a22,Real-Murcia,90,1.0,1.0,0.0,59.0,1.0,3907.0,Real-Murcia
+,Aureliano Torres,py PAR,"DF,MF",3,0,0.0,0.0,2005-2006,228ecb72,Real-Murcia,54,0.6,0.0,0.0,59.0,43.0,3914.0,Real-Murcia
+,﻿Stéphane Pignol,fr FRA,DF,38,38,0.0,0.0,2006-2007,ca3ae27c,Real-Murcia,"3,334",37.0,10.0,0.0,59.0,4.0,,Real-Murcia
+,Iván Alonso,uy URU,FW,40,38,2.0,14.0,2006-2007,80084c87,Real-Murcia,"3,104",34.5,8.0,0.0,59.0,8.0,,Real-Murcia
+,Antonio Notario,es ESP,GK,36,36,0.0,0.0,2006-2007,b49f31c5,Real-Murcia,"3,240",36.0,8.0,0.0,59.0,1.0,,Real-Murcia
+,Paco Peña,es ESP,DF,37,36,0.0,0.0,2006-2007,3b01965,Real-Murcia,"3,179",35.3,10.0,1.0,59.0,1.0,,Real-Murcia
+,Ibán Cuadrado,es ESP,DF,34,34,1.0,0.0,2006-2007,8db7ef49,Real-Murcia,"3,038",33.8,9.0,1.0,59.0,1.0,,Real-Murcia
+,Jofre,es ESP,MF,33,33,5.0,3.0,2006-2007,90bf887c,Real-Murcia,"2,518",28.0,8.0,1.0,59.0,1.0,,Real-Murcia
+,Abel Gómez Moreno,es ESP,MF,35,31,8.0,4.0,2006-2007,b09801d8,Real-Murcia,"2,721",30.2,7.0,0.0,59.0,1.0,3919.0,Real-Murcia
+,Richi,es ESP,"FW,MF",35,30,2.0,2.0,2006-2007,90517f8a,Real-Murcia,"2,731",30.3,9.0,0.0,59.0,1.0,3888.0,Real-Murcia
+,Ramón,es ESP,DF,28,27,0.0,2.0,2006-2007,6892efc4,Real-Murcia,"2,391",26.6,10.0,0.0,59.0,1.0,,Real-Murcia
+,Pedro León,es ESP,"FW,MF",31,27,4.0,7.0,2006-2007,d66b9872,Real-Murcia,"2,285",25.4,8.0,0.0,59.0,1.0,96.0,Real-Murcia
+,Antoñito,es ESP,FW,34,23,5.0,6.0,2006-2007,822723a6,Real-Murcia,"1,975",21.9,7.0,1.0,59.0,1.0,,Real-Murcia
+,Juan Cruz Ochoa,es ESP,DF,21,19,0.0,0.0,2006-2007,301ff22a,Real-Murcia,"1,688",18.8,6.0,0.0,59.0,1.0,,Real-Murcia
+,Pablo Ruiz,es ESP,DF,25,14,0.0,0.0,2006-2007,9fb57e68,Real-Murcia,"1,275",14.2,8.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Gallardo,es ESP,MF,20,13,4.0,2.0,2006-2007,be80c87c,Real-Murcia,"1,244",13.8,4.0,0.0,59.0,1.0,,Real-Murcia
+,Carlos Aranda,es ESP,FW,26,12,1.0,11.0,2006-2007,2b60c45d,Real-Murcia,"1,308",14.5,6.0,1.0,59.0,1.0,,Real-Murcia
+,Samuel Baños,es ESP,MF,23,10,0.0,1.0,2006-2007,f3ce81bd,Real-Murcia,958,10.6,6.0,1.0,59.0,1.0,3909.0,Real-Murcia
+,Bruno Herrero Arias,es ESP,MF,9,8,0.0,0.0,2006-2007,cd429fc,Real-Murcia,694,7.7,3.0,0.0,59.0,1.0,,Real-Murcia
+,Juanma,es ESP,DF,22,7,1.0,0.0,2006-2007,f3b5db81,Real-Murcia,861,9.6,6.0,0.0,59.0,1.0,3885.0,Real-Murcia
+,Alejandro Marañón,es ESP,DF,9,6,0.0,0.0,2006-2007,9be8422d,Real-Murcia,562,6.2,4.0,1.0,59.0,1.0,,Real-Murcia
+,Juanmi,es ESP,GK,6,6,0.0,0.0,2006-2007,9c6886e6,Real-Murcia,494,5.5,0.0,0.0,59.0,1.0,,Real-Murcia
+,Adrián Martín,es ESP,MF,14,4,0.0,3.0,2006-2007,53eabc97,Real-Murcia,512,5.7,1.0,0.0,59.0,1.0,3915.0,Real-Murcia
+,José Acciari,ar ARG,MF,5,4,0.0,0.0,2006-2007,9e98922b,Real-Murcia,353,3.9,2.0,0.0,59.0,5.0,3884.0,Real-Murcia
+,Gifton Noel-Williams,eng ENG,FW,10,2,0.0,4.0,2006-2007,27f28090,Real-Murcia,295,3.3,1.0,0.0,59.0,6.0,3916.0,Real-Murcia
+,Emerson,br BRA,"FW,MF",5,2,0.0,0.0,2006-2007,fef3b251,Real-Murcia,215,2.4,0.0,0.0,59.0,2.0,3917.0,Real-Murcia
+,Jesús Tato,es ESP,FW,7,1,0.0,1.0,2006-2007,50e2af8c,Real-Murcia,214,2.4,1.0,0.0,59.0,1.0,,Real-Murcia
+,﻿Paco Peña,es ESP,DF,35,35,0.0,0.0,2007-2008,3b01965,Real-Murcia,"3,150",35.0,9.0,0.0,59.0,1.0,,Real-Murcia
+,Álvaro Mejía,es ESP,DF,30,30,0.0,1.0,2007-2008,dd3f6a54,Real-Murcia,"2,649",29.4,13.0,2.0,59.0,1.0,25.0,Real-Murcia
+,Enrique de Lucas,es ESP,"FW,MF",30,28,1.0,4.0,2007-2008,61cc61,Real-Murcia,"2,090",23.2,7.0,0.0,59.0,1.0,,Real-Murcia
+,César Arzo,es ESP,"DF,MF",28,27,0.0,0.0,2007-2008,0ea37b10,Real-Murcia,"2,362",26.2,11.0,1.0,59.0,1.0,,Real-Murcia
+,Antonio Notario,es ESP,GK,26,26,0.0,0.0,2007-2008,b49f31c5,Real-Murcia,"2,340",26.0,1.0,0.0,59.0,1.0,,Real-Murcia
+,Iván Alonso,uy URU,FW,29,23,3.0,10.0,2007-2008,80084c87,Real-Murcia,"2,030",22.6,6.0,0.0,59.0,8.0,,Real-Murcia
+,Pablo García,uy URU,"DF,MF",21,21,4.0,0.0,2007-2008,911299ca,Real-Murcia,"1,801",20.0,5.0,0.0,59.0,8.0,41.0,Real-Murcia
+,José María Movilla,es ESP,MF,26,21,1.0,0.0,2007-2008,1ac170a8,Real-Murcia,"1,799",20.0,5.0,0.0,59.0,1.0,,Real-Murcia
+,Henok Goitom,er ERI,FW,31,21,1.0,2.0,2007-2008,c3680236,Real-Murcia,"1,793",19.9,5.0,0.0,59.0,91.0,,Real-Murcia
+,David de Coz,es ESP,DF,20,20,0.0,0.0,2007-2008,bf33fc94,Real-Murcia,"1,772",19.7,7.0,0.0,59.0,1.0,3918.0,Real-Murcia
+,Fernando Baiano,br BRA,FW,27,19,2.0,6.0,2007-2008,253f2715,Real-Murcia,"1,714",19.0,3.0,0.0,59.0,2.0,,Real-Murcia
+,Juan Cruz Ochoa,es ESP,DF,17,16,0.0,1.0,2007-2008,301ff22a,Real-Murcia,"1,420",15.8,5.0,0.0,59.0,1.0,,Real-Murcia
+,Richi,es ESP,"FW,MF",26,15,0.0,1.0,2007-2008,90517f8a,Real-Murcia,"1,538",17.1,3.0,0.0,59.0,1.0,3888.0,Real-Murcia
+,Mario Regueiro,uy URU,"FW,MF",23,15,0.0,1.0,2007-2008,c792d665,Real-Murcia,"1,396",15.5,7.0,1.0,59.0,8.0,,Real-Murcia
+,Stéphane Pignol,fr FRA,DF,17,15,0.0,0.0,2007-2008,ca3ae27c,Real-Murcia,"1,244",13.8,6.0,1.0,59.0,4.0,,Real-Murcia
+,Abel Gómez Moreno,es ESP,MF,30,14,5.0,5.0,2007-2008,b09801d8,Real-Murcia,"1,624",18.0,5.0,0.0,59.0,1.0,3919.0,Real-Murcia
+,Fabián Carini,uy URU,GK,11,11,0.0,0.0,2007-2008,d1c6cd3b,Real-Murcia,990,11.0,0.0,0.0,59.0,8.0,3920.0,Real-Murcia
+,Dani Aquino,es ESP,"FW,MF",13,10,1.0,1.0,2007-2008,060a66fb,Real-Murcia,928,10.3,1.0,0.0,59.0,1.0,,Real-Murcia
+,Iñigo Vélez,es ESP,FW,23,9,1.0,1.0,2007-2008,08cc09ee,Real-Murcia,"1,000",11.1,4.0,0.0,59.0,1.0,,Real-Murcia
+,Ibán Cuadrado,es ESP,DF,11,9,0.0,0.0,2007-2008,8db7ef49,Real-Murcia,889,9.9,3.0,0.0,59.0,1.0,,Real-Murcia
+,Jofre,es ESP,MF,14,8,1.0,1.0,2007-2008,90bf887c,Real-Murcia,650,7.2,0.0,0.0,59.0,1.0,,Real-Murcia
+,Abderrahman Kabous,ma MAR,MF,7,7,0.0,0.0,2007-2008,f2ff6097,Real-Murcia,548,6.1,4.0,0.0,59.0,26.0,3929.0,Real-Murcia
+,Alejandro Marañón,es ESP,DF,6,6,0.0,0.0,2007-2008,9be8422d,Real-Murcia,428,4.8,2.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Gallardo,es ESP,MF,10,4,0.0,1.0,2007-2008,be80c87c,Real-Murcia,394,4.4,2.0,1.0,59.0,1.0,,Real-Murcia
+,Rosinei,br BRA,MF,11,3,0.0,0.0,2007-2008,46a45b96,Real-Murcia,478,5.3,0.0,0.0,59.0,2.0,3921.0,Real-Murcia
+,Juan Pedro Pina,es ESP,DF,3,2,0.0,0.0,2007-2008,c2fd2d1c,Real-Murcia,208,2.3,2.0,0.0,59.0,1.0,3922.0,Real-Murcia
+,Curro Torres,es ESP,DF,2,2,0.0,0.0,2007-2008,49b88407,Real-Murcia,180,2.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Alberto García,es ESP,GK,1,1,0.0,0.0,2007-2008,17d9e354,Real-Murcia,90,1.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Bruno Herrero Arias,es ESP,MF,2,0,0.0,0.0,2007-2008,cd429fc,Real-Murcia,6,0.1,0.0,0.0,59.0,1.0,,Real-Murcia
+,﻿Juan Elía,es ESP,GK,37,37,0.0,0.0,2008-2009,50ce646b,Real-Murcia,"3,247",36.1,5.0,1.0,59.0,1.0,,Real-Murcia
+,Paco Peña,es ESP,DF,36,35,0.0,0.0,2008-2009,3b01965,Real-Murcia,"3,169",35.2,13.0,2.0,59.0,1.0,,Real-Murcia
+,Francisco Ibáñez,cl CHI,FW,33,33,0.0,0.0,2008-2009,8743a346,Real-Murcia,"2,942",32.7,4.0,0.0,59.0,31.0,3923.0,Real-Murcia
+,Bruno Herrero Arias,es ESP,MF,35,33,4.0,10.0,2008-2009,cd429fc,Real-Murcia,"2,879",32.0,10.0,0.0,59.0,1.0,,Real-Murcia
+,José Luis Capdevila,es ESP,MF,38,33,4.0,3.0,2008-2009,dde616c5,Real-Murcia,"2,737",30.4,6.0,2.0,59.0,1.0,,Real-Murcia
+,Álvaro Mejía,es ESP,DF,33,32,0.0,2.0,2008-2009,dd3f6a54,Real-Murcia,"2,840",31.6,17.0,2.0,59.0,1.0,25.0,Real-Murcia
+,David de Coz,es ESP,DF,30,30,0.0,1.0,2008-2009,bf33fc94,Real-Murcia,"2,589",28.8,9.0,1.0,59.0,1.0,3918.0,Real-Murcia
+,Antonio Núñez,es ESP,MF,35,30,1.0,1.0,2008-2009,df89070b,Real-Murcia,"2,525",28.1,7.0,1.0,59.0,1.0,30.0,Real-Murcia
+,Ranko Despotović,rs SRB,FW,35,30,2.0,8.0,2008-2009,7909655a,Real-Murcia,"2,414",26.8,8.0,0.0,59.0,28.0,,Real-Murcia
+,José María Movilla,es ESP,MF,24,24,1.0,1.0,2008-2009,1ac170a8,Real-Murcia,"2,132",23.7,5.0,1.0,59.0,1.0,,Real-Murcia
+,Juan Cruz Ochoa,es ESP,DF,26,24,1.0,2.0,2008-2009,301ff22a,Real-Murcia,"2,112",23.5,6.0,3.0,59.0,1.0,,Real-Murcia
+,Enrique de Lucas,es ESP,"FW,MF",27,18,1.0,3.0,2008-2009,61cc61,Real-Murcia,"1,640",18.2,5.0,0.0,59.0,1.0,,Real-Murcia
+,Ángel Montoro,es ESP,MF,29,16,0.0,3.0,2008-2009,719384c1,Real-Murcia,"1,252",13.9,5.0,0.0,59.0,1.0,,Real-Murcia
+,Dani Aquino,es ESP,"FW,MF",24,13,4.0,2.0,2008-2009,060a66fb,Real-Murcia,"1,350",15.0,3.0,1.0,59.0,1.0,,Real-Murcia
+,Marcinho Guerreiro,br BRA,MF,15,12,0.0,0.0,2008-2009,4d87912d,Real-Murcia,"1,015",11.3,7.0,1.0,59.0,2.0,3924.0,Real-Murcia
+,Lillo,es ESP,DF,11,9,0.0,0.0,2008-2009,476ca810,Real-Murcia,753,8.4,7.0,1.0,59.0,1.0,,Real-Murcia
+,Boubacar Dialiba,sn SEN,"FW,MF",13,8,1.0,1.0,2008-2009,63af7ba,Real-Murcia,724,8.0,1.0,0.0,59.0,34.0,3925.0,Real-Murcia
+,Iván Alonso,uy URU,FW,14,7,1.0,5.0,2008-2009,80084c87,Real-Murcia,746,8.3,0.0,0.0,59.0,8.0,,Real-Murcia
+,Adrian Sikora,pl POL,FW,25,5,2.0,1.0,2008-2009,0a7ccf91,Real-Murcia,711,7.9,1.0,0.0,59.0,14.0,3926.0,Real-Murcia
+,Béla Balogh,hu HUN,DF,6,5,0.0,0.0,2008-2009,cbde47e4,Real-Murcia,418,4.6,0.0,0.0,59.0,87.0,3927.0,Real-Murcia
+,Alberto García,es ESP,GK,6,4,0.0,0.0,2008-2009,17d9e354,Real-Murcia,443,4.9,1.0,0.0,59.0,1.0,,Real-Murcia
+,Iván Malón,es ESP,DF,4,4,0.0,1.0,2008-2009,c568d934,Real-Murcia,360,4.0,1.0,0.0,59.0,1.0,3928.0,Real-Murcia
+,David Cuéllar,es ESP,MF,12,3,1.0,0.0,2008-2009,d386f165,Real-Murcia,438,4.9,3.0,0.0,59.0,1.0,,Real-Murcia
+,Abderrahman Kabous,ma MAR,MF,9,3,0.0,0.0,2008-2009,f2ff6097,Real-Murcia,293,3.3,2.0,1.0,59.0,26.0,3929.0,Real-Murcia
+,Martinez Quique,,,4,3,0.0,1.0,2008-2009,,Real-Murcia,278,3.1,0.0,0.0,59.0,,,Real-Murcia
+,Alejandro Marañón,es ESP,DF,4,3,0.0,1.0,2008-2009,9be8422d,Real-Murcia,269,3.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Fabián Carini,uy URU,GK,2,2,0.0,0.0,2008-2009,d1c6cd3b,Real-Murcia,180,2.0,1.0,0.0,59.0,8.0,3920.0,Real-Murcia
+,Fran Erencia,,,2,2,0.0,0.0,2008-2009,,Real-Murcia,120,1.3,1.0,1.0,59.0,,,Real-Murcia
+,Pico,es ESP,FW,6,1,0.0,1.0,2008-2009,2845148b,Real-Murcia,241,2.7,1.0,0.0,59.0,1.0,3930.0,Real-Murcia
+,Matías Alonso,uy URU,FW,4,1,0.0,0.0,2008-2009,2f83d9b2,Real-Murcia,137,1.5,0.0,0.0,59.0,8.0,3931.0,Real-Murcia
+,Francisco Gallardo,es ESP,MF,6,1,0.0,1.0,2008-2009,be80c87c,Real-Murcia,135,1.5,0.0,0.0,59.0,1.0,,Real-Murcia
+,Sergio Escudero,es ESP,"DF,MF",1,1,0.0,0.0,2008-2009,b0616e3d,Real-Murcia,90,1.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Javier Herreros,es ESP,DF,1,1,0.0,0.0,2008-2009,d63b7912,Real-Murcia,56,0.6,0.0,0.0,59.0,1.0,,Real-Murcia
+,Mario Marín Soto,es ESP,DF,1,0,0.0,0.0,2008-2009,c63e6769,Real-Murcia,18,0.2,0.0,0.0,59.0,1.0,,Real-Murcia
+,Rodrigues Juanchi,,,1,0,0.0,0.0,2008-2009,,Real-Murcia,9,0.1,0.0,0.0,59.0,,,Real-Murcia
+,﻿Sergio Fernández,es ESP,DF,39,39,0.0,1.0,2009-2010,db150f07,Real-Murcia,"3,448",38.3,15.0,2.0,59.0,1.0,3932.0,Real-Murcia
+,Álvaro Mejía,es ESP,DF,37,35,2.0,1.0,2009-2010,dd3f6a54,Real-Murcia,"3,172",35.2,18.0,2.0,59.0,1.0,25.0,Real-Murcia
+,Bruno Herrero Arias,es ESP,MF,39,34,6.0,3.0,2009-2010,cd429fc,Real-Murcia,"2,954",32.8,13.0,1.0,59.0,1.0,,Real-Murcia
+,Natalio,es ESP,FW,38,33,2.0,9.0,2009-2010,239425b9,Real-Murcia,"2,737",30.4,10.0,0.0,59.0,1.0,3933.0,Real-Murcia
+,Chando,es ESP,FW,37,30,2.0,14.0,2009-2010,b43a5636,Real-Murcia,"2,374",26.4,3.0,0.0,59.0,1.0,3934.0,Real-Murcia
+,David de Coz,es ESP,DF,30,29,1.0,0.0,2009-2010,bf33fc94,Real-Murcia,"2,538",28.2,8.0,1.0,59.0,1.0,3918.0,Real-Murcia
+,Isaac Jové Rubí,es ESP,MF,34,27,5.0,4.0,2009-2010,d6e1904b,Real-Murcia,"2,130",23.7,4.0,0.0,59.0,1.0,3935.0,Real-Murcia
+,Iñaki Bea Jauregi,es ESP,DF,26,26,0.0,1.0,2009-2010,bbcd4ab0,Real-Murcia,"2,260",25.1,4.0,1.0,59.0,1.0,,Real-Murcia
+,Sergio Escudero,es ESP,"DF,MF",25,25,0.0,1.0,2009-2010,b0616e3d,Real-Murcia,"2,250",25.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Juan Elía,es ESP,GK,24,24,0.0,0.0,2009-2010,50ce646b,Real-Murcia,"2,160",24.0,1.0,0.0,59.0,1.0,,Real-Murcia
+,Pedro,es ESP,"FW,MF",35,24,3.0,3.0,2009-2010,b642c79,Real-Murcia,"2,101",23.3,9.0,1.0,59.0,1.0,,Real-Murcia
+,Miguel Albiol,es ESP,MF,30,22,2.0,0.0,2009-2010,ca8aa471,Real-Murcia,"2,196",24.4,11.0,2.0,59.0,1.0,,Real-Murcia
+,José Luis Capdevila,es ESP,MF,31,20,4.0,5.0,2009-2010,dde616c5,Real-Murcia,"1,890",21.0,8.0,1.0,59.0,1.0,,Real-Murcia
+,Alberto Cifuentes,es ESP,GK,18,18,0.0,0.0,2009-2010,94084f83,Real-Murcia,"1,620",18.0,4.0,0.0,59.0,1.0,3936.0,Real-Murcia
+,Óscar Sánchez,es ESP,DF,19,17,1.0,0.0,2009-2010,fe4c5d4e,Real-Murcia,"1,588",17.6,6.0,1.0,59.0,1.0,,Real-Murcia
+,Guillermo Pereyra,ar ARG,MF,21,14,2.0,1.0,2009-2010,0757d5ba,Real-Murcia,"1,204",13.4,7.0,0.0,59.0,5.0,,Real-Murcia
+,Juan Cruz Ochoa,es ESP,DF,13,12,0.0,0.0,2009-2010,301ff22a,Real-Murcia,"1,019",11.3,1.0,0.0,59.0,1.0,,Real-Murcia
+,Martinez Kike,,,31,8,1.0,3.0,2009-2010,,Real-Murcia,"1,113",12.4,2.0,0.0,59.0,,,Real-Murcia
+,Mario Rosas,es ESP,MF,22,8,2.0,0.0,2009-2010,81718397,Real-Murcia,885,9.8,5.0,0.0,59.0,1.0,3937.0,Real-Murcia
+,José Juan Luque,es ESP,MF,11,7,0.0,0.0,2009-2010,b874847,Real-Murcia,613,6.8,2.0,0.0,59.0,1.0,,Real-Murcia
+,Dani Aquino,es ESP,"FW,MF",15,6,2.0,2.0,2009-2010,060a66fb,Real-Murcia,679,7.5,1.0,0.0,59.0,1.0,,Real-Murcia
+,Pere Martí,es ESP,MF,8,4,1.0,0.0,2009-2010,f7e1f18e,Real-Murcia,380,4.2,1.0,0.0,59.0,1.0,,Real-Murcia
+,Juan Aguilera,es ESP,MF,4,0,0.0,0.0,2009-2010,18dc8533,Real-Murcia,88,1.0,0.0,0.0,59.0,1.0,3938.0,Real-Murcia
+,Pico,es ESP,FW,1,0,0.0,0.0,2009-2010,2845148b,Real-Murcia,23,0.3,0.0,0.0,59.0,1.0,3930.0,Real-Murcia
+,﻿Óscar Sánchez,es ESP,DF,39,39,1.0,7.0,2011-2012,fe4c5d4e,Real-Murcia,"3,433",38.1,19.0,0.0,59.0,1.0,,Real-Murcia
+,Jorge García,es ESP,DF,37,37,0.0,4.0,2011-2012,d1bd08ef,Real-Murcia,"3,319",36.9,13.0,0.0,59.0,1.0,3939.0,Real-Murcia
+,Francisco Molinero,es ESP,DF,37,34,0.0,2.0,2011-2012,2cea96ce,Real-Murcia,"3,012",33.5,16.0,2.0,59.0,1.0,,Real-Murcia
+,Manuel Iturra,cl CHI,MF,35,34,0.0,1.0,2011-2012,000b3da6,Real-Murcia,"2,832",31.5,15.0,1.0,59.0,31.0,,Real-Murcia
+,Alberto Cifuentes,es ESP,GK,33,33,0.0,0.0,2011-2012,94084f83,Real-Murcia,"2,970",33.0,3.0,0.0,59.0,1.0,3936.0,Real-Murcia
+,Emilio Sánchez,es ESP,MF,36,32,6.0,9.0,2011-2012,58b5df2f,Real-Murcia,"2,681",29.8,3.0,1.0,59.0,1.0,,Real-Murcia
+,Richi,es ESP,"FW,MF",35,31,0.0,2.0,2011-2012,90517f8a,Real-Murcia,"2,444",27.2,6.0,1.0,59.0,1.0,3888.0,Real-Murcia
+,Iván Amaya,es ESP,DF,29,29,0.0,0.0,2011-2012,1ed358ee,Real-Murcia,"2,454",27.3,6.0,0.0,59.0,1.0,,Real-Murcia
+,Cristian García,ar ARG,FW,31,25,2.0,8.0,2011-2012,2e33112b,Real-Murcia,"2,076",23.1,6.0,2.0,59.0,5.0,3940.0,Real-Murcia
+,Pedro,es ESP,"FW,MF",35,24,4.0,4.0,2011-2012,b642c79,Real-Murcia,"2,270",25.2,8.0,1.0,59.0,1.0,,Real-Murcia
+,Francisco Sutil,es ESP,"DF,FW",29,21,5.0,2.0,2011-2012,51b44d11,Real-Murcia,"1,887",21.0,5.0,0.0,59.0,1.0,,Real-Murcia
+,Oriol Lozano,es ESP,DF,23,20,1.0,0.0,2011-2012,d23e858,Real-Murcia,"1,779",19.8,12.0,2.0,59.0,1.0,,Real-Murcia
+,Chando,es ESP,FW,29,15,0.0,2.0,2011-2012,b43a5636,Real-Murcia,"1,625",18.1,1.0,0.0,59.0,1.0,3934.0,Real-Murcia
+,Isaac Jové Rubí,es ESP,MF,32,13,3.0,1.0,2011-2012,d6e1904b,Real-Murcia,"1,533",17.0,4.0,0.0,59.0,1.0,3935.0,Real-Murcia
+,Galder Cerrajería,es ESP,MF,23,13,2.0,0.0,2011-2012,7a6d5441,Real-Murcia,"1,212",13.5,11.0,0.0,59.0,1.0,3941.0,Real-Murcia
+,Mario Marín Soto,es ESP,DF,17,12,0.0,0.0,2011-2012,c63e6769,Real-Murcia,"1,071",11.9,6.0,0.0,59.0,1.0,,Real-Murcia
+,Juan Aguilera,es ESP,MF,17,12,0.0,0.0,2011-2012,18dc8533,Real-Murcia,"1,057",11.7,4.0,1.0,59.0,1.0,3938.0,Real-Murcia
+,Javi Jiménez,es ESP,GK,9,9,0.0,0.0,2011-2012,9fe99e45,Real-Murcia,810,9.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Miguel Albiol,es ESP,MF,16,9,1.0,0.0,2011-2012,ca8aa471,Real-Murcia,762,8.5,4.0,0.0,59.0,1.0,,Real-Murcia
+,Borja Bastón,es ESP,FW,20,6,0.0,4.0,2011-2012,8c44e37b,Real-Murcia,797,8.9,4.0,0.0,59.0,1.0,,Real-Murcia
+,Rubén Párraga,es ESP,DF,7,6,0.0,0.0,2011-2012,c8a5798c,Real-Murcia,498,5.5,2.0,0.0,59.0,1.0,3942.0,Real-Murcia
+,Luciano,es ESP,DF,8,5,0.0,0.0,2011-2012,7798f39e,Real-Murcia,476,5.3,2.0,0.0,59.0,1.0,,Real-Murcia
+,Kike,es ESP,FW,2,2,0.0,1.0,2011-2012,897d8ba,Real-Murcia,133,1.5,1.0,0.0,59.0,1.0,,Real-Murcia
+,Pablo Vivancos,ar ARG,MF,1,1,0.0,0.0,2011-2012,319a9468,Real-Murcia,57,0.6,0.0,0.0,59.0,5.0,3943.0,Real-Murcia
+,Nico Varela,uy URU,,6,0,0.0,0.0,2011-2012,256c9b58,Real-Murcia,114,1.3,0.0,2.0,59.0,8.0,,Real-Murcia
+,Samuel Lopes,br BRA,FW,1,0,0.0,0.0,2011-2012,737b21c7,Real-Murcia,33,0.4,0.0,0.0,59.0,2.0,3944.0,Real-Murcia
+,Miguel Marín,es ESP,DF,1,0,0.0,0.0,2011-2012,996a2ca9,Real-Murcia,16,0.2,0.0,0.0,59.0,1.0,3945.0,Real-Murcia
+,﻿Javi Jiménez,es ESP,GK,40,40,0.0,0.0,2012-2013,9fe99e45,Real-Murcia,"3,600",40.0,3.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Molinero,es ESP,DF,37,37,2.0,1.0,2012-2013,2cea96ce,Real-Murcia,"3,155",35.1,19.0,2.0,59.0,1.0,,Real-Murcia
+,Javier Matilla,es ESP,MF,34,34,4.0,12.0,2012-2013,35fa45cc,Real-Murcia,"3,016",33.5,9.0,1.0,59.0,1.0,,Real-Murcia
+,Kike,es ESP,FW,36,34,5.0,8.0,2012-2013,897d8ba,Real-Murcia,"2,972",33.0,3.0,0.0,59.0,1.0,,Real-Murcia
+,Óscar Sánchez,es ESP,DF,32,31,1.0,1.0,2012-2013,fe4c5d4e,Real-Murcia,"2,659",29.5,11.0,3.0,59.0,1.0,,Real-Murcia
+,Mauro dos Santos,ar ARG,DF,29,29,1.0,0.0,2012-2013,c699fdd,Real-Murcia,"2,326",25.8,10.0,2.0,59.0,5.0,3946.0,Real-Murcia
+,Mehdi Nafti,tn TUN,MF,30,28,1.0,0.0,2012-2013,93e31883,Real-Murcia,"2,289",25.4,14.0,1.0,59.0,46.0,,Real-Murcia
+,Nicolás Tagliafico,ar ARG,DF,27,24,1.0,0.0,2012-2013,f0661424,Real-Murcia,"2,127",23.6,10.0,2.0,59.0,5.0,3947.0,Real-Murcia
+,Emilio Sánchez,es ESP,MF,26,24,2.0,4.0,2012-2013,58b5df2f,Real-Murcia,"2,049",22.8,3.0,1.0,59.0,1.0,,Real-Murcia
+,José Catalá,es ESP,DF,22,22,1.0,0.0,2012-2013,c0a9088,Real-Murcia,"1,930",21.4,7.0,0.0,59.0,1.0,,Real-Murcia
+,Jorge García,es ESP,DF,27,21,0.0,0.0,2012-2013,d1bd08ef,Real-Murcia,"2,091",23.2,6.0,0.0,59.0,1.0,3939.0,Real-Murcia
+,Nicolás Martínez,ar ARG,MF,34,21,1.0,1.0,2012-2013,28baf8f6,Real-Murcia,"1,823",20.3,2.0,0.0,59.0,5.0,3948.0,Real-Murcia
+,Cristian García,ar ARG,FW,32,20,2.0,8.0,2012-2013,2e33112b,Real-Murcia,"1,934",21.5,8.0,0.0,59.0,5.0,3940.0,Real-Murcia
+,Saúl Berjón,es ESP,"FW,MF",35,19,4.0,6.0,2012-2013,59e3e14b,Real-Murcia,"1,932",21.5,3.0,0.0,59.0,1.0,3949.0,Real-Murcia
+,Miguel Albiol,es ESP,MF,23,17,3.0,1.0,2012-2013,ca8aa471,Real-Murcia,"1,424",15.8,6.0,0.0,59.0,1.0,,Real-Murcia
+,José Acciari,ar ARG,MF,27,15,0.0,0.0,2012-2013,9e98922b,Real-Murcia,"1,185",13.2,9.0,1.0,59.0,5.0,3884.0,Real-Murcia
+,Daniel Toribio,es ESP,MF,15,12,0.0,0.0,2012-2013,0ced6664,Real-Murcia,"1,054",11.7,4.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Sutil,es ESP,"DF,FW",23,11,0.0,1.0,2012-2013,51b44d11,Real-Murcia,"1,067",11.9,2.0,0.0,59.0,1.0,,Real-Murcia
+,Jonathan Gómez,py PAR,MF,20,8,1.0,0.0,2012-2013,3f8ad2cb,Real-Murcia,879,9.8,4.0,0.0,59.0,43.0,3950.0,Real-Murcia
+,Eddy Silvestre,az AZE,MF,16,7,0.0,0.0,2012-2013,15ac2dc2,Real-Murcia,755,8.4,3.0,2.0,59.0,108.0,,Real-Murcia
+,Mario Marín Soto,es ESP,DF,8,4,0.0,0.0,2012-2013,c63e6769,Real-Murcia,477,5.3,2.0,0.0,59.0,1.0,,Real-Murcia
+,Alberto Cifuentes,es ESP,GK,2,2,0.0,0.0,2012-2013,94084f83,Real-Murcia,180,2.0,1.0,0.0,59.0,1.0,3936.0,Real-Murcia
+,Chando,es ESP,FW,5,1,0.0,0.0,2012-2013,b43a5636,Real-Murcia,116,1.3,1.0,0.0,59.0,1.0,3934.0,Real-Murcia
+,Jose Carrasco,,,1,1,0.0,0.0,2012-2013,,Real-Murcia,90,1.0,1.0,0.0,59.0,,,Real-Murcia
+,Carlos Pifarré,es ESP,MF,3,0,0.0,0.0,2012-2013,c7f98871,Real-Murcia,24,0.3,0.0,0.0,59.0,1.0,,Real-Murcia
+,Gil Borja,,,1,0,0.0,0.0,2012-2013,,Real-Murcia,7,0.1,0.0,0.0,59.0,,,Real-Murcia
+,Miguel Guirao,es ESP,FW,1,0,0.0,0.0,2012-2013,b73df801,Real-Murcia,7,0.1,0.0,0.0,59.0,1.0,3951.0,Real-Murcia
+,Higinio Marín,es ESP,FW,1,0,0.0,0.0,2012-2013,61db425b,Real-Murcia,4,0.0,0.0,0.0,59.0,1.0,3952.0,Real-Murcia
+,﻿Casto,es ESP,GK,41,41,0.0,0.0,2013-2014,95b4ffb3,Real-Murcia,"3,668",40.8,4.0,1.0,59.0,1.0,,Real-Murcia
+,Kike,es ESP,FW,41,41,7.0,23.0,2013-2014,897d8ba,Real-Murcia,"3,619",40.2,7.0,0.0,59.0,1.0,,Real-Murcia
+,Francisco Molinero,es ESP,DF,40,40,3.0,1.0,2013-2014,2cea96ce,Real-Murcia,"3,566",39.6,12.0,0.0,59.0,1.0,,Real-Murcia
+,Álex Martínez,es ESP,"DF,MF",38,38,0.0,3.0,2013-2014,1c805cf,Real-Murcia,"3,259",36.2,6.0,2.0,59.0,1.0,,Real-Murcia
+,Albert Dorca,es ESP,MF,39,37,0.0,3.0,2013-2014,01c3b68a,Real-Murcia,"3,245",36.1,11.0,1.0,59.0,1.0,,Real-Murcia
+,Mauro dos Santos,ar ARG,DF,37,36,0.0,3.0,2013-2014,c699fdd,Real-Murcia,"3,257",36.2,9.0,0.0,59.0,5.0,3946.0,Real-Murcia
+,Eddy Silvestre,az AZE,MF,35,35,2.0,2.0,2013-2014,15ac2dc2,Real-Murcia,"2,708",30.1,8.0,0.0,59.0,108.0,,Real-Murcia
+,Saúl Berjón,es ESP,"FW,MF",41,34,16.0,6.0,2013-2014,59e3e14b,Real-Murcia,"2,782",30.9,7.0,0.0,59.0,1.0,3949.0,Real-Murcia
+,Daniel Toribio,es ESP,MF,33,24,0.0,0.0,2013-2014,0ced6664,Real-Murcia,"2,243",24.9,2.0,0.0,59.0,1.0,,Real-Murcia
+,José Acciari,ar ARG,MF,29,23,0.0,3.0,2013-2014,9e98922b,Real-Murcia,"1,906",21.2,9.0,1.0,59.0,5.0,3884.0,Real-Murcia
+,Joan Truyols,es ESP,DF,33,22,1.0,1.0,2013-2014,f43f64f,Real-Murcia,"2,106",23.4,10.0,2.0,59.0,1.0,,Real-Murcia
+,Tete,es ESP,"FW,MF",28,20,3.0,1.0,2013-2014,d2131e09,Real-Murcia,"1,898",21.1,5.0,0.0,59.0,1.0,3953.0,Real-Murcia
+,Wellington Silva,br BRA,"FW,MF",36,13,4.0,2.0,2013-2014,5c60f49c,Real-Murcia,"1,560",17.3,4.0,0.0,59.0,2.0,3954.0,Real-Murcia
+,Dani Bautista,es ESP,DF,15,13,0.0,0.0,2013-2014,135b0a5e,Real-Murcia,"1,097",12.2,3.0,0.0,59.0,1.0,,Real-Murcia
+,Iván Moreno,es ESP,MF,36,12,1.0,0.0,2013-2014,ce5d4b0f,Real-Murcia,"1,363",15.1,7.0,1.0,59.0,1.0,,Real-Murcia
+,Dominique Malonga,cg CGO,FW,27,12,1.0,5.0,2013-2014,0f9288e,Real-Murcia,"1,128",12.5,3.0,0.0,59.0,80.0,,Real-Murcia
+,Óscar Sánchez,es ESP,DF,8,8,0.0,0.0,2013-2014,fe4c5d4e,Real-Murcia,662,7.4,5.0,0.0,59.0,1.0,,Real-Murcia
+,Pedro Alcalá,es ESP,DF,9,8,0.0,0.0,2013-2014,ba71d071,Real-Murcia,597,6.6,1.0,2.0,59.0,1.0,3955.0,Real-Murcia
+,Miguel Albiol,es ESP,MF,14,4,1.0,0.0,2013-2014,ca8aa471,Real-Murcia,387,4.3,3.0,0.0,59.0,1.0,,Real-Murcia
+,Fernando,es ESP,GK,2,1,0.0,0.0,2013-2014,dabb2827,Real-Murcia,112,1.2,0.0,0.0,59.0,1.0,3956.0,Real-Murcia
+,Sergio León,es ESP,FW,2,0,0.0,0.0,2013-2014,0a0cc13c,Real-Murcia,22,0.2,0.0,0.0,59.0,1.0,,Real-Murcia
+,José Ángel Carrillo,es ESP,FW,2,0,0.0,0.0,2013-2014,7beb6364,Real-Murcia,15,0.2,0.0,0.0,59.0,1.0,3957.0,Real-Murcia
+,﻿José Acciari,ar ARG,MF,1,1,0.0,0.0,2014-2015,9e98922b,Real-Murcia,90.0,1.0,0.0,0.0,59.0,5.0,3884.0,Real-Murcia
+,Iván Crespo,es ESP,GK,1,1,0.0,0.0,2014-2015,31ae3b7e,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Jairo Izquierdo,es ESP,"DF,MF",1,1,0.0,1.0,2014-2015,2ceb58ab,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3958.0,Real-Murcia
+,Álvaro Marín,es ESP,DF,1,1,0.0,0.0,2014-2015,4292ffaa,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3959.0,Real-Murcia
+,David Prieto,es ESP,"DF,MF",1,1,0.0,0.0,2014-2015,8f24e,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,,Real-Murcia
+,Víctor Ruiz,eng ENG,GK,1,1,0.0,0.0,2014-2015,8af6e943,Real-Murcia,90.0,1.0,0.0,0.0,59.0,6.0,3960.0,Real-Murcia
+,Eneko Satrústegui,es ESP,DF,1,1,0.0,0.0,2014-2015,b7ce700f,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Javier Saura Ruiz,es ESP,MF,1,1,0.0,0.0,2014-2015,55716b0,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,3961.0,Real-Murcia
+,Gerard Oliva,es ESP,FW,1,1,0.0,0.0,2014-2015,0d01d201,Real-Murcia,65.0,0.7,0.0,0.0,59.0,1.0,3962.0,Real-Murcia
+,Xavier Marqués Gómez,es ESP,MF,1,1,0.0,0.0,2014-2015,98b75fc,Real-Murcia,59.0,0.7,0.0,0.0,59.0,1.0,3963.0,Real-Murcia
+,Joseba Garmendia,es ESP,"DF,MF",1,1,0.0,0.0,2014-2015,d74abbc4,Real-Murcia,56.0,0.6,0.0,0.0,59.0,1.0,,Real-Murcia
+,Javi Muñoz,es ESP,FW,1,0,0.0,0.0,2014-2015,0cb79cb2,Real-Murcia,34.0,0.4,0.0,0.0,59.0,1.0,3964.0,Real-Murcia
+,José Ángel Carrillo,es ESP,FW,1,0,0.0,0.0,2014-2015,7beb6364,Real-Murcia,31.0,0.3,0.0,0.0,59.0,1.0,3957.0,Real-Murcia
+,Jaume Sobregrau,es ESP,DF,1,0,0.0,0.0,2014-2015,93397184,Real-Murcia,25.0,0.3,0.0,0.0,59.0,1.0,3965.0,Real-Murcia
+,Fernando,es ESP,GK,0,0,,,2014-2015,dabb2827,Real-Murcia,,,,,59.0,1.0,3956.0,Real-Murcia
+,Arturo Molina,es ESP,MF,0,0,,,2014-2015,14a82e0e,Real-Murcia,,,,,59.0,1.0,3966.0,Real-Murcia
+,﻿José Miguel Ruiz del Amo,es ESP,DF,1,1,0.0,0.0,2015-2016,41217d36,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3967.0,Real-Murcia
+,Gorka Azkorra,es ESP,FW,1,1,0.0,0.0,2015-2016,b6ba90f9,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,,Real-Murcia
+,Fernando,es ESP,GK,1,1,0.0,0.0,2015-2016,dabb2827,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3956.0,Real-Murcia
+,Sergio García Salmón,es ESP,MF,1,1,0.0,0.0,2015-2016,33147a09,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3968.0,Real-Murcia
+,Sergi Guilló,es ESP,MF,1,1,0.0,0.0,2015-2016,55ff8f7f,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,3969.0,Real-Murcia
+,Jordi Hostench Casanova,es ESP,DF,1,1,0.0,0.0,2015-2016,f907d180,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3970.0,Real-Murcia
+,Jaume Sobregrau,es ESP,DF,1,1,0.0,0.0,2015-2016,93397184,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,3965.0,Real-Murcia
+,Alejandro Chavero Muñoz,es ESP,MF,1,1,0.0,0.0,2015-2016,837b7daa,Real-Murcia,89.0,1.0,2.0,1.0,59.0,1.0,3971.0,Real-Murcia
+,Tomás Ruso Antón,es ESP,DF,1,1,0.0,0.0,2015-2016,61761493,Real-Murcia,76.0,0.8,0.0,0.0,59.0,1.0,3972.0,Real-Murcia
+,Germán,es ESP,"FW,MF",1,1,0.0,0.0,2015-2016,12c68be9,Real-Murcia,60.0,0.7,0.0,0.0,59.0,1.0,3973.0,Real-Murcia
+,Fran Moreno,es ESP,MF,1,1,0.0,0.0,2015-2016,12096092,Real-Murcia,51.0,0.6,0.0,0.0,59.0,1.0,,Real-Murcia
+,Carlos Álvarez,es ESP,FW,1,0,0.0,0.0,2015-2016,c171531a,Real-Murcia,39.0,0.4,1.0,0.0,59.0,1.0,3974.0,Real-Murcia
+,Isaac Palazón Camacho,es ESP,MF,1,0,0.0,0.0,2015-2016,49dbab27,Real-Murcia,30.0,0.3,1.0,0.0,59.0,1.0,,Real-Murcia
+,Arturo Molina,es ESP,MF,1,0,0.0,0.0,2015-2016,14a82e0e,Real-Murcia,14.0,0.2,0.0,0.0,59.0,1.0,3966.0,Real-Murcia
+,Simón Ballester,es ESP,GK,0,0,,,2015-2016,82b2a42b,Real-Murcia,,,,,59.0,1.0,3975.0,Real-Murcia
+,Armando Ortiz,es ESP,MF,0,0,,,2015-2016,6596af0c,Real-Murcia,,,,,59.0,1.0,3981.0,Real-Murcia
+,﻿Paris Adot,es ESP,DF,1,1,0.0,0.0,2016-2017,46e57fe6,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3976.0,Real-Murcia
+,José Miguel Ruiz del Amo,es ESP,DF,1,1,0.0,0.0,2016-2017,41217d36,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,3967.0,Real-Murcia
+,Wilson Cuero,co COL,FW,1,1,0.0,0.0,2016-2017,0e531376,Real-Murcia,90.0,1.0,1.0,0.0,59.0,19.0,3977.0,Real-Murcia
+,Román Golobart,es ESP,DF,1,1,0.0,0.0,2016-2017,564f1536,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3978.0,Real-Murcia
+,Jon Iru,es ESP,MF,1,1,0.0,0.0,2016-2017,2372b5d0,Real-Murcia,90.0,1.0,1.0,0.0,59.0,1.0,3979.0,Real-Murcia
+,Rubén Ramos,es ESP,"FW,GK",1,1,0.0,0.0,2016-2017,34d16061,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Diego Rivas Rego,es ESP,GK,1,1,0.0,0.0,2016-2017,c3a6fb7d,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Jaume Sobregrau,es ESP,DF,1,1,0.0,0.0,2016-2017,93397184,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3965.0,Real-Murcia
+,Alarcón,es ESP,MF,1,1,0.0,0.0,2016-2017,72c90ab5,Real-Murcia,85.0,0.9,0.0,0.0,59.0,1.0,3980.0,Real-Murcia
+,Armando Ortiz,es ESP,MF,1,1,0.0,0.0,2016-2017,6596af0c,Real-Murcia,79.0,0.9,0.0,0.0,59.0,1.0,3981.0,Real-Murcia
+,Isaac Palazón Camacho,es ESP,MF,1,1,0.0,0.0,2016-2017,49dbab27,Real-Murcia,72.0,0.8,0.0,0.0,59.0,1.0,,Real-Murcia
+,Javier Álvarez Pareja,es ESP,FW,1,0,0.0,0.0,2016-2017,f442c384,Real-Murcia,18.0,0.2,0.0,0.0,59.0,1.0,3982.0,Real-Murcia
+,Diego Benito Rey,es ESP,MF,1,0,0.0,0.0,2016-2017,049c2adb,Real-Murcia,11.0,0.1,0.0,0.0,59.0,1.0,,Real-Murcia
+,Borjas Martín,es ESP,FW,1,0,0.0,0.0,2016-2017,16004625,Real-Murcia,5.0,0.1,1.0,0.0,59.0,1.0,3983.0,Real-Murcia
+,Simón Ballester,es ESP,GK,0,0,,,2016-2017,82b2a42b,Real-Murcia,,,,,59.0,1.0,3975.0,Real-Murcia
+,Francisco Morante Martínez,es ESP,DF,0,0,,,2016-2017,528aa67,Real-Murcia,,,,,59.0,1.0,3984.0,Real-Murcia
+,﻿Alejandro Santomé,es ESP,GK,4,4,0.0,0.0,2017-2018,de228011,Real-Murcia,360.0,4.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Fernando Llorente,es ESP,MF,4,4,1.0,0.0,2017-2018,5da895d7,Real-Murcia,297.0,3.3,0.0,0.0,59.0,1.0,3985.0,Real-Murcia
+,David Mateos,es ESP,DF,4,4,0.0,0.0,2017-2018,ddee7ba5,Real-Murcia,275.0,3.1,0.0,0.0,59.0,1.0,,Real-Murcia
+,Juanma Bravo,es ESP,MF,3,3,0.0,0.0,2017-2018,f0753883,Real-Murcia,270.0,3.0,0.0,0.0,59.0,1.0,3986.0,Real-Murcia
+,Pedro Orfila,es ESP,DF,3,3,0.0,0.0,2017-2018,38c114e,Real-Murcia,270.0,3.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Jordan Domínguez,es ESP,MF,3,3,0.0,0.0,2017-2018,521bd5be,Real-Murcia,237.0,2.6,0.0,0.0,59.0,1.0,3987.0,Real-Murcia
+,Juanra,es ESP,DF,3,2,1.0,0.0,2017-2018,883c7798,Real-Murcia,254.0,2.8,0.0,0.0,59.0,1.0,,Real-Murcia
+,Elady Zorrilla,es ESP,"FW,MF",3,2,1.0,1.0,2017-2018,8862695f,Real-Murcia,213.0,2.4,0.0,0.0,59.0,1.0,3988.0,Real-Murcia
+,Nadjib Mengoud,es ESP,MF,2,2,0.0,0.0,2017-2018,76a0447c,Real-Murcia,180.0,2.0,1.0,0.0,59.0,1.0,3989.0,Real-Murcia
+,Álex Ortiz,es ESP,DF,2,2,0.0,1.0,2017-2018,c07dc79e,Real-Murcia,180.0,2.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Xiscu,es ESP,FW,2,2,0.0,0.0,2017-2018,5a481bbe,Real-Murcia,180.0,2.0,0.0,0.0,59.0,1.0,,Real-Murcia
+,Abel Molinero,es ESP,MF,2,2,0.0,0.0,2017-2018,f61a9135,Real-Murcia,150.0,1.7,0.0,0.0,59.0,1.0,3990.0,Real-Murcia
+,Fran Carnicer,es ESP,MF,2,2,0.0,0.0,2017-2018,2888a995,Real-Murcia,135.0,1.5,0.0,0.0,59.0,1.0,,Real-Murcia
+,Federico Vega,ar ARG,DF,2,2,0.0,0.0,2017-2018,1c8ad92b,Real-Murcia,106.0,1.2,0.0,0.0,59.0,5.0,3991.0,Real-Murcia
+,David Rodríguez,es ESP,MF,4,1,1.0,0.0,2017-2018,9de5aeaa,Real-Murcia,162.0,1.8,0.0,0.0,59.0,1.0,3992.0,Real-Murcia
+,Pedro Martín,es ESP,FW,2,1,0.0,2.0,2017-2018,99ee29b5,Real-Murcia,121.0,1.3,1.0,0.0,59.0,1.0,,Real-Murcia
+,Salva Chamorro,es ESP,FW,2,1,0.0,0.0,2017-2018,41ad83f0,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,3993.0,Real-Murcia
+,Santi Jara,es ESP,"FW,MF",2,1,0.0,0.0,2017-2018,40a78f59,Real-Murcia,112.0,1.2,0.0,0.0,59.0,1.0,,Real-Murcia
+,Antonio Escribano,es ESP,MF,1,1,0.0,0.0,2017-2018,875c77c1,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3994.0,Real-Murcia
+,Adrián Melgar Carrasco,es ESP,DF,1,1,0.0,0.0,2017-2018,655977cc,Real-Murcia,90.0,1.0,0.0,0.0,59.0,1.0,3995.0,Real-Murcia
+,Renato da Silva Ferreira,,FW,1,1,0.0,0.0,2017-2018,d9fa6dec,Real-Murcia,59.0,0.7,0.0,0.0,59.0,,,Real-Murcia
+,Víctor Curto,es ESP,FW,2,0,0.0,3.0,2017-2018,83cd8962,Real-Murcia,57.0,0.6,0.0,0.0,59.0,1.0,,Real-Murcia
+,Armando Ortiz,es ESP,MF,2,0,0.0,0.0,2017-2018,6596af0c,Real-Murcia,42.0,0.5,0.0,0.0,59.0,1.0,3981.0,Real-Murcia
+,David Forniés,es ESP,DF,0,0,,,2017-2018,089e8afd,Real-Murcia,,,,,59.0,1.0,3996.0,Real-Murcia
+,Biel Ribas,es ESP,GK,0,0,,,2017-2018,8178716d,Real-Murcia,,,,,59.0,1.0,,Real-Murcia
+,﻿Hugo Álvarez,es ESP,DF,1,1,0.0,0.0,2018-2019,6f392eb8,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,,Real-Murcia
+,José Miguel Ruiz del Amo,es ESP,DF,1,1,0.0,0.0,2018-2019,41217d36,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,3967.0,Real-Murcia
+,Dani Aquino,es ESP,MF,1,1,0.0,0.0,2018-2019,060a66fb,Real-Murcia,120.0,1.3,1.0,0.0,59.0,1.0,,Real-Murcia
+,José Manuel Martínez Bel,es ESP,FW,1,1,0.0,0.0,2018-2019,34415d46,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,3997.0,Real-Murcia
+,Josema,es ESP,MF,1,1,0.0,0.0,2018-2019,be9e62cc,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,3998.0,Real-Murcia
+,Sergi Maestre,es ESP,MF,1,1,0.0,0.0,2018-2019,1d7bd5c5,Real-Murcia,120.0,1.3,1.0,0.0,59.0,1.0,,Real-Murcia
+,Estanislao Marcellán,es ESP,GK,1,1,0.0,0.0,2018-2019,44fbf02c,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,3999.0,Real-Murcia
+,Nahuel Omiliani,es ESP,DF,1,1,0.0,0.0,2018-2019,9f511fbe,Real-Murcia,120.0,1.3,0.0,0.0,59.0,1.0,4000.0,Real-Murcia
+,Armando Ortiz,es ESP,MF,1,1,0.0,0.0,2018-2019,6596af0c,Real-Murcia,89.0,1.0,0.0,0.0,59.0,1.0,3981.0,Real-Murcia
+,Daniel Pérez Serrano,es ESP,DF,1,1,0.0,0.0,2018-2019,08e79634,Real-Murcia,89.0,1.0,0.0,0.0,59.0,1.0,4001.0,Real-Murcia
+,Julio Delgado,es ESP,MF,1,1,0.0,0.0,2018-2019,b7f39b8e,Real-Murcia,64.0,0.7,0.0,0.0,59.0,1.0,4002.0,Real-Murcia
+,Jesús Alfaro,es ESP,FW,1,0,0.0,0.0,2018-2019,d04b8fd9,Real-Murcia,56.0,0.6,0.0,0.0,59.0,1.0,,Real-Murcia
+,Juanma Bravo,es ESP,MF,1,0,0.0,0.0,2018-2019,f0753883,Real-Murcia,31.0,0.3,0.0,0.0,59.0,1.0,3986.0,Real-Murcia
+,Charlie I'Anson,eng ENG,DF,1,0,0.0,0.0,2018-2019,907594ed,Real-Murcia,31.0,0.3,0.0,0.0,59.0,6.0,4003.0,Real-Murcia
+,Zakaria Boulahia,dz ALG,FW,0,0,,,2018-2019,2ab14bcd,Real-Murcia,,,,,59.0,37.0,,Real-Murcia
+,Víctor Curto,es ESP,FW,0,0,,,2018-2019,83cd8962,Real-Murcia,,,,,59.0,1.0,,Real-Murcia
+,José Luis Miñano,es ESP,MF,0,0,,,2018-2019,1bc88b0c,Real-Murcia,,,,,59.0,1.0,4004.0,Real-Murcia
+,Ian Mackay,ee EST,GK,0,0,,,2018-2019,30740261,Real-Murcia,,,,,59.0,58.0,,Real-Murcia

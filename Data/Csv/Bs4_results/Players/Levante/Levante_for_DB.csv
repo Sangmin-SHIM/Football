@@ -1,0 +1,586 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Carballo Felix,,,41,41,1.0,5.0,2002-2003,,Levante,"3,642",40.5,7.0,0.0,61.0,,,Levante
+,Christian Díaz,ar ARG,"DF,MF",39,39,2.0,0.0,2002-2003,4c6f6ef4,Levante,"3,416",38.0,9.0,2.0,61.0,5.0,,Levante
+,Santiago Carpintero,es ESP,MF,38,38,1.0,0.0,2002-2003,139b88a8,Levante,"3,315",36.8,13.0,1.0,61.0,1.0,,Levante
+,Gabriel Amato,ar ARG,FW,39,38,2.0,14.0,2002-2003,b571f57,Levante,"3,105",34.5,10.0,0.0,61.0,5.0,,Levante
+,Iñaki Descarga,es ESP,DF,37,35,0.0,2.0,2002-2003,4c20d02,Levante,"3,174",35.3,11.0,1.0,61.0,1.0,4100.0,Levante
+,Tomás Olías,es ESP,DF,35,35,0.0,0.0,2002-2003,74795116,Levante,"3,069",34.1,10.0,1.0,61.0,1.0,4101.0,Levante
+,Jofre,es ESP,MF,37,34,5.0,5.0,2002-2003,90bf887c,Levante,"2,781",30.9,9.0,0.0,61.0,1.0,,Levante
+,David Limones,,,39,34,8.0,7.0,2002-2003,,Levante,"2,739",30.4,1.0,0.0,61.0,,,Levante
+,Gomez Rafa,,,34,33,0.0,0.0,2002-2003,,Levante,"2,978",33.1,4.0,0.0,61.0,,,Levante
+,Alberto Rivera,es ESP,MF,35,28,4.0,1.0,2002-2003,7002b605,Levante,"2,640",29.3,4.0,0.0,61.0,1.0,,Levante
+,Predrag Mijatović,rs SRB,"FW,MF",21,21,6.0,3.0,2002-2003,1191c3d6,Levante,"1,487",16.5,1.0,2.0,61.0,28.0,4102.0,Levante
+,Francisco Castaño,es ESP,MF,21,16,1.0,1.0,2002-2003,72dad144,Levante,"1,396",15.5,4.0,3.0,61.0,1.0,4103.0,Levante
+,Edwin Congo,co COL,FW,32,14,3.0,9.0,2002-2003,08925878,Levante,"1,519",16.9,4.0,0.0,61.0,19.0,,Levante
+,Duda,pt POR,"DF,FW",19,8,0.0,2.0,2002-2003,13d41642,Levante,784,8.7,4.0,0.0,61.0,3.0,,Levante
+,José Aizpurúa,es ESP,GK,9,8,0.0,0.0,2002-2003,c7bb97a7,Levante,712,7.9,0.0,1.0,61.0,1.0,4104.0,Levante
+,Chota,es ESP,FW,27,7,0.0,4.0,2002-2003,6e8a6c53,Levante,884,9.8,3.0,0.0,61.0,1.0,4105.0,Levante
+,Ángel Lekumberri,es ESP,MF,11,7,0.0,0.0,2002-2003,7f69653,Levante,624,6.9,1.0,1.0,61.0,1.0,,Levante
+,Félix Dja Ettien,ci CIV,MF,33,6,1.0,3.0,2002-2003,4c443cac,Levante,"1,107",12.3,3.0,1.0,61.0,35.0,4106.0,Levante
+,Domingo Larrainzar,es ESP,DF,5,4,0.0,0.0,2002-2003,747cdf38,Levante,395,4.4,0.0,0.0,61.0,1.0,4107.0,Levante
+,Munoz Servulo,,,10,4,2.0,2.0,2002-2003,,Levante,387,4.3,0.0,0.0,61.0,,,Levante
+,Juanra,es ESP,DF,11,4,0.0,3.0,2002-2003,616d9a30,Levante,383,4.3,1.0,0.0,61.0,1.0,4108.0,Levante
+,Peiro Alfonso,,,4,4,0.0,0.0,2002-2003,,Levante,272,3.0,0.0,0.0,61.0,,,Levante
+,Jorge Ruiz,,,3,3,0.0,0.0,2002-2003,,Levante,229,2.5,1.0,0.0,61.0,,,Levante
+,Paco,es ESP,GK,1,1,0.0,0.0,2002-2003,703b3fd8,Levante,90,1.0,0.0,0.0,61.0,1.0,4109.0,Levante
+,Luismi,es ESP,"FW,MF",1,0,0.0,0.0,2002-2003,f345089d,Levante,66,0.7,0.0,0.0,61.0,1.0,4110.0,Levante
+,Jose Rial,,,3,0,0.0,0.0,2002-2003,,Levante,64,0.7,0.0,0.0,61.0,,,Levante
+,Francisco Coscolla,,,1,0,0.0,0.0,2002-2003,,Levante,4,0.0,0.0,0.0,61.0,,,Levante
+,﻿Juan Luis Mora,es ESP,GK,40,40,0.0,0.0,2003-2004,2e1a7599,Levante,"3,600",40.0,2.0,0.0,61.0,1.0,,Levante
+,Alberto Rivera,es ESP,MF,41,35,7.0,11.0,2003-2004,7002b605,Levante,"3,172",35.2,4.0,0.0,61.0,1.0,,Levante
+,Alexis,es ESP,DF,35,35,0.0,3.0,2003-2004,b9efd503,Levante,"3,150",35.0,10.0,0.0,61.0,1.0,,Levante
+,Iñaki Descarga,es ESP,DF,34,34,5.0,2.0,2003-2004,4c20d02,Levante,"2,953",32.8,9.0,1.0,61.0,1.0,4100.0,Levante
+,Jofre,es ESP,MF,37,34,5.0,4.0,2003-2004,90bf887c,Levante,"2,801",31.1,5.0,0.0,61.0,1.0,,Levante
+,Jesule,es ESP,DF,33,33,0.0,0.0,2003-2004,83c1aaf2,Levante,"2,930",32.6,5.0,0.0,61.0,1.0,,Levante
+,Tito,es ESP,MF,35,33,0.0,2.0,2003-2004,8f451bf9,Levante,"2,868",31.9,7.0,0.0,61.0,1.0,,Levante
+,Pablo Pinillos Caro,es ESP,DF,31,30,2.0,0.0,2003-2004,9d19d667,Levante,"2,745",30.5,12.0,0.0,61.0,1.0,,Levante
+,Santiago Carpintero,es ESP,MF,31,26,0.0,0.0,2003-2004,139b88a8,Levante,"2,226",24.7,14.0,0.0,61.0,1.0,,Levante
+,David Aganzo,es ESP,FW,33,25,2.0,9.0,2003-2004,97e3ba49,Levante,"2,149",23.9,14.0,1.0,61.0,1.0,,Levante
+,Luis Rubiales,es ESP,DF,29,22,1.0,0.0,2003-2004,543fb98,Levante,"2,121",23.6,7.0,0.0,61.0,1.0,4111.0,Levante
+,Gustavo Reggi,ar ARG,FW,31,20,2.0,12.0,2003-2004,877bbcf1,Levante,"1,840",20.4,4.0,0.0,61.0,5.0,4112.0,Levante
+,David Limones,,,24,18,4.0,1.0,2003-2004,,Levante,"1,505",16.7,1.0,0.0,61.0,,,Levante
+,Ángel Cuéllar,es ESP,"FW,MF",24,18,1.0,3.0,2003-2004,d134a9f,Levante,"1,459",16.2,4.0,0.0,61.0,1.0,4113.0,Levante
+,Sandro,es ESP,MF,28,14,3.0,0.0,2003-2004,9c890cc8,Levante,"1,246",13.8,9.0,1.0,61.0,1.0,,Levante
+,Carballo Felix,,,12,12,0.0,0.0,2003-2004,,Levante,"1,080",12.0,5.0,0.0,61.0,,,Levante
+,Edwin Congo,co COL,FW,32,10,2.0,8.0,2003-2004,08925878,Levante,"1,301",14.5,2.0,0.0,61.0,19.0,,Levante
+,Munoz Servulo,,,21,7,1.0,2.0,2003-2004,,Levante,838,9.3,5.0,1.0,61.0,,,Levante
+,Félix Dja Ettien,ci CIV,MF,17,6,2.0,1.0,2003-2004,4c443cac,Levante,618,6.9,3.0,0.0,61.0,35.0,4106.0,Levante
+,Hidalgo Manolo,,,8,5,0.0,0.0,2003-2004,,Levante,359,4.0,2.0,0.0,61.0,,,Levante
+,Juanra,es ESP,DF,4,2,0.0,0.0,2003-2004,616d9a30,Levante,188,2.1,0.0,0.0,61.0,1.0,4108.0,Levante
+,José Aizpurúa,es ESP,GK,2,2,0.0,0.0,2003-2004,c7bb97a7,Levante,180,2.0,0.0,0.0,61.0,1.0,4104.0,Levante
+,Rafael Fernández Pérez,,,1,1,0.0,0.0,2003-2004,,Levante,90,1.0,0.0,0.0,61.0,,,Levante
+,Jose Emilio,,,1,0,0.0,0.0,2003-2004,,Levante,68,0.8,0.0,0.0,61.0,,,Levante
+,Emilio Rentería,ve VEN,FW,2,0,0.0,0.0,2003-2004,cca6c4e8,Levante,46,0.5,1.0,0.0,61.0,53.0,4114.0,Levante
+,﻿Juan Luis Mora,es ESP,GK,38,38,0.0,0.0,2004-2005,2e1a7599,Levante,"3,420",38.0,1.0,0.0,61.0,1.0,,Levante
+,Alberto Rivera,es ESP,MF,37,37,3.0,5.0,2004-2005,7002b605,Levante,"3,222",35.8,9.0,0.0,61.0,1.0,,Levante
+,Pablo Pinillos Caro,es ESP,DF,34,34,2.0,0.0,2004-2005,9d19d667,Levante,"3,060",34.0,14.0,1.0,61.0,1.0,,Levante
+,Jesule,es ESP,DF,34,34,0.0,1.0,2004-2005,83c1aaf2,Levante,"2,949",32.8,8.0,0.0,61.0,1.0,,Levante
+,Félix Dja Ettien,ci CIV,MF,34,30,7.0,2.0,2004-2005,4c443cac,Levante,"2,416",26.8,3.0,0.0,61.0,35.0,4106.0,Levante
+,Sergio García,es ESP,"FW,MF",31,27,1.0,7.0,2004-2005,2bee98fd,Levante,"2,152",23.9,3.0,1.0,61.0,1.0,,Levante
+,José Antonio Culebras,es ESP,DF,25,24,2.0,1.0,2004-2005,c8b270a2,Levante,"2,112",23.5,3.0,0.0,61.0,1.0,4115.0,Levante
+,Ian Harte,ie IRL,DF,24,23,3.0,1.0,2004-2005,fd4fa092,Levante,"1,953",21.7,7.0,0.0,61.0,99.0,4116.0,Levante
+,Vladimir Manchev,bg BUL,FW,32,23,0.0,6.0,2004-2005,005a9b28,Levante,"1,904",21.2,5.0,0.0,61.0,65.0,,Levante
+,Alexis,es ESP,DF,22,22,0.0,0.0,2004-2005,b9efd503,Levante,"1,921",21.3,6.0,0.0,61.0,1.0,,Levante
+,Fabio Celestini,ch SUI,MF,25,22,0.0,1.0,2004-2005,c36ce86e,Levante,"1,912",21.2,6.0,0.0,61.0,39.0,,Levante
+,Nacho,es ESP,"DF,MF",27,22,1.0,4.0,2004-2005,07537011,Levante,"1,762",19.6,5.0,0.0,61.0,1.0,,Levante
+,Jofre,es ESP,MF,27,18,3.0,2.0,2004-2005,90bf887c,Levante,"1,612",17.9,1.0,0.0,61.0,1.0,,Levante
+,Diego Camacho,es ESP,MF,27,17,0.0,0.0,2004-2005,ba4b3cf3,Levante,"1,678",18.6,4.0,0.0,61.0,1.0,,Levante
+,Juanma,es ESP,MF,27,12,2.0,5.0,2004-2005,f4f22926,Levante,"1,219",13.5,1.0,0.0,61.0,1.0,,Levante
+,Iñaki Descarga,es ESP,DF,10,9,0.0,0.0,2004-2005,4c20d02,Levante,684,7.6,2.0,0.0,61.0,1.0,4100.0,Levante
+,Edwin Congo,co COL,FW,26,7,1.0,2.0,2004-2005,08925878,Levante,807,9.0,3.0,0.0,61.0,19.0,,Levante
+,Tito,es ESP,MF,9,6,0.0,0.0,2004-2005,8f451bf9,Levante,469,5.2,0.0,0.0,61.0,1.0,,Levante
+,Gustavo Reggi,ar ARG,FW,22,5,0.0,2.0,2004-2005,877bbcf1,Levante,685,7.6,3.0,1.0,61.0,5.0,4112.0,Levante
+,Johan Mjällby,se SWE,"DF,MF",3,3,0.0,0.0,2004-2005,c2f225df,Levante,270,3.0,0.0,0.0,61.0,41.0,4117.0,Levante
+,Ángel Cuéllar,es ESP,"FW,MF",7,2,0.0,0.0,2004-2005,d134a9f,Levante,196,2.2,0.0,0.0,61.0,1.0,4113.0,Levante
+,Luis Rubiales,es ESP,DF,4,2,0.0,0.0,2004-2005,543fb98,Levante,189,2.1,1.0,0.0,61.0,1.0,4111.0,Levante
+,Sandro,es ESP,MF,3,1,0.0,0.0,2004-2005,9c890cc8,Levante,89,1.0,0.0,0.0,61.0,1.0,,Levante
+,﻿Diego Camacho,es ESP,MF,40,39,3.0,3.0,2005-2006,ba4b3cf3,Levante,"3,475",38.6,10.0,1.0,61.0,1.0,,Levante
+,Alexis,es ESP,DF,38,38,1.0,4.0,2005-2006,b9efd503,Levante,"3,387",37.6,11.0,0.0,61.0,1.0,,Levante
+,Pablo Cavallero,ar ARG,GK,38,38,0.0,0.0,2005-2006,754d4db5,Levante,"3,313",36.8,8.0,2.0,61.0,5.0,,Levante
+,Ian Harte,ie IRL,DF,36,36,7.0,9.0,2005-2006,fd4fa092,Levante,"3,176",35.3,10.0,2.0,61.0,99.0,4116.0,Levante
+,Iñaki Descarga,es ESP,DF,36,31,0.0,0.0,2005-2006,4c20d02,Levante,"2,882",32.0,12.0,1.0,61.0,1.0,4100.0,Levante
+,Riga Mustapha,nl NED,"FW,MF",38,31,5.0,11.0,2005-2006,b666286,Levante,"2,642",29.4,8.0,0.0,61.0,11.0,4118.0,Levante
+,José Antonio Culebras,es ESP,DF,29,28,0.0,0.0,2005-2006,c8b270a2,Levante,"2,519",28.0,6.0,0.0,61.0,1.0,4115.0,Levante
+,Carmelo González,es ESP,MF,31,26,3.0,4.0,2005-2006,27f4e837,Levante,"2,156",24.0,7.0,0.0,61.0,1.0,4119.0,Levante
+,Félix Dja Ettien,ci CIV,MF,31,25,2.0,3.0,2005-2006,4c443cac,Levante,"2,072",23.0,6.0,0.0,61.0,35.0,4106.0,Levante
+,Jesule,es ESP,DF,23,22,0.0,0.0,2005-2006,83c1aaf2,Levante,"1,916",21.3,5.0,0.0,61.0,1.0,,Levante
+,Sandro,es ESP,MF,28,22,5.0,0.0,2005-2006,9c890cc8,Levante,"1,707",19.0,10.0,1.0,61.0,1.0,,Levante
+,Vladimir Manchev,bg BUL,FW,28,17,0.0,7.0,2005-2006,005a9b28,Levante,"1,658",18.4,3.0,0.0,61.0,65.0,,Levante
+,Sylvain N'Diaye,sn SEN,"DF,MF",26,15,1.0,2.0,2005-2006,fb5f3505,Levante,"1,519",16.9,12.0,0.0,61.0,34.0,4120.0,Levante
+,Gustavo Reggi,ar ARG,FW,26,15,1.0,3.0,2005-2006,877bbcf1,Levante,"1,440",16.0,3.0,0.0,61.0,5.0,4112.0,Levante
+,Juanma,es ESP,MF,20,15,3.0,0.0,2005-2006,f4f22926,Levante,"1,222",13.6,7.0,0.0,61.0,1.0,,Levante
+,Txomin Nagore,es ESP,MF,23,13,0.0,0.0,2005-2006,41a60718,Levante,"1,279",14.2,6.0,0.0,61.0,1.0,,Levante
+,Juan Carlos Ceballos,es ESP,DF,18,12,0.0,0.0,2005-2006,c304dce,Levante,"1,144",12.7,4.0,0.0,61.0,1.0,4121.0,Levante
+,Laurent Courtois,fr FRA,MF,19,12,0.0,2.0,2005-2006,fdd8f774,Levante,"1,124",12.5,4.0,3.0,61.0,4.0,4122.0,Levante
+,Edwin Congo,co COL,FW,22,10,0.0,2.0,2005-2006,08925878,Levante,955,10.6,3.0,0.0,61.0,19.0,,Levante
+,Javi Rodríguez,es ESP,FW,18,9,1.0,1.0,2005-2006,2447458d,Levante,810,9.0,3.0,0.0,61.0,1.0,4123.0,Levante
+,José Aizpurúa,es ESP,GK,6,4,0.0,0.0,2005-2006,c7bb97a7,Levante,477,5.3,0.0,0.0,61.0,1.0,4104.0,Levante
+,Manuel Diego Tello,es ESP,MF,7,1,0.0,0.0,2005-2006,ffa85313,Levante,192,2.1,3.0,0.0,61.0,1.0,4124.0,Levante
+,Luis Rubiales,es ESP,DF,3,1,0.0,0.0,2005-2006,543fb98,Levante,109,1.2,1.0,0.0,61.0,1.0,4111.0,Levante
+,Luismi,es ESP,"FW,MF",1,1,0.0,0.0,2005-2006,f345089d,Levante,90,1.0,0.0,0.0,61.0,1.0,4110.0,Levante
+,﻿José Molina,es ESP,GK,34,34,0.0,0.0,2006-2007,b0d136e8,Levante,"2,974",33.0,3.0,1.0,61.0,1.0,,Levante
+,Alexis,es ESP,DF,34,33,2.0,1.0,2006-2007,b9efd503,Levante,"2,981",33.1,16.0,0.0,61.0,1.0,,Levante
+,Diego Camacho,es ESP,MF,33,29,2.0,3.0,2006-2007,ba4b3cf3,Levante,"2,564",28.5,11.0,1.0,61.0,1.0,,Levante
+,Luis Rubiales,es ESP,DF,29,29,1.0,0.0,2006-2007,543fb98,Levante,"2,329",25.9,6.0,0.0,61.0,1.0,4111.0,Levante
+,Olivier Kapo,fr FRA,"FW,MF",30,28,2.0,5.0,2006-2007,992c2db8,Levante,"2,491",27.7,8.0,2.0,61.0,4.0,4125.0,Levante
+,Riga Mustapha,nl NED,"FW,MF",33,28,1.0,9.0,2006-2007,b666286,Levante,"2,422",26.9,5.0,1.0,61.0,11.0,4118.0,Levante
+,Félix Dja Ettien,ci CIV,MF,34,27,5.0,2.0,2006-2007,4c443cac,Levante,"2,295",25.5,6.0,0.0,61.0,35.0,4106.0,Levante
+,Mathieu Berson,fr FRA,MF,27,24,0.0,0.0,2006-2007,31d48214,Levante,"1,999",22.2,8.0,1.0,61.0,4.0,4126.0,Levante
+,Álvaro,br BRA,DF,23,23,1.0,2.0,2006-2007,3bb76c65,Levante,"2,030",22.6,6.0,1.0,61.0,2.0,,Levante
+,Laurent Courtois,fr FRA,MF,29,22,0.0,2.0,2006-2007,fdd8f774,Levante,"2,081",23.1,6.0,1.0,61.0,4.0,4122.0,Levante
+,Damiano Tommasi,it ITA,MF,29,22,1.0,0.0,2006-2007,46361093,Levante,"1,929",21.4,9.0,0.0,61.0,9.0,4127.0,Levante
+,Iñaki Descarga,es ESP,DF,21,20,1.0,2.0,2006-2007,4c20d02,Levante,"1,767",19.6,3.0,1.0,61.0,1.0,4100.0,Levante
+,Salva Ballesta,es ESP,FW,14,13,5.0,4.0,2006-2007,bd42bcb8,Levante,"1,117",12.4,6.0,0.0,61.0,1.0,,Levante
+,Manolo Gaspar,es ESP,DF,13,11,1.0,0.0,2006-2007,be800693,Levante,"1,015",11.3,5.0,0.0,61.0,1.0,,Levante
+,Zé Maria,br BRA,DF,14,11,2.0,0.0,2006-2007,c4e72f3d,Levante,923,10.3,0.0,0.0,61.0,2.0,4128.0,Levante
+,Frédéric Déhu,fr FRA,"DF,MF",12,10,0.0,1.0,2006-2007,972aae6,Levante,805,8.9,2.0,2.0,61.0,4.0,,Levante
+,Nino,es ESP,"FW,MF",19,9,1.0,1.0,2006-2007,03dc5b1f,Levante,925,10.3,0.0,0.0,61.0,1.0,,Levante
+,José Serrano,es ESP,DF,10,9,0.0,0.0,2006-2007,9bc30fb8,Levante,845,9.4,2.0,0.0,61.0,1.0,,Levante
+,Laurent Robert,fr FRA,"FW,MF",13,8,1.0,0.0,2006-2007,2f907a4b,Levante,587,6.5,2.0,1.0,61.0,4.0,4129.0,Levante
+,Sylvain N'Diaye,sn SEN,"DF,MF",17,5,0.0,0.0,2006-2007,fb5f3505,Levante,740,8.2,0.0,0.0,61.0,34.0,4120.0,Levante
+,Gustavo Reggi,ar ARG,FW,18,5,0.0,3.0,2006-2007,877bbcf1,Levante,591,6.6,5.0,0.0,61.0,5.0,4112.0,Levante
+,Pablo Cavallero,ar ARG,GK,5,4,0.0,0.0,2006-2007,754d4db5,Levante,446,5.0,0.0,0.0,61.0,5.0,,Levante
+,Albert Meyong,cm CMR,FW,11,4,0.0,1.0,2006-2007,f718a9b0,Levante,413,4.6,3.0,0.0,61.0,36.0,,Levante
+,Ian Harte,ie IRL,DF,6,4,0.0,0.0,2006-2007,fd4fa092,Levante,328,3.6,1.0,0.0,61.0,99.0,4116.0,Levante
+,Carmelo González,es ESP,MF,6,3,0.0,0.0,2006-2007,27f4e837,Levante,256,2.8,1.0,0.0,61.0,1.0,4119.0,Levante
+,Péguy Luyindula,fr FRA,"FW,MF",10,2,0.0,0.0,2006-2007,cedc0a16,Levante,255,2.8,1.0,0.0,61.0,4.0,4130.0,Levante
+,César Martín,es ESP,DF,3,1,0.0,0.0,2006-2007,f29d6eb0,Levante,107,1.2,1.0,1.0,61.0,1.0,,Levante
+,﻿Juanma,es ESP,MF,35,34,6.0,2.0,2007-2008,f4f22926,Levante,"2,755",30.6,7.0,0.0,61.0,1.0,,Levante
+,José Serrano,es ESP,DF,30,30,0.0,1.0,2007-2008,9bc30fb8,Levante,"2,677",29.7,5.0,0.0,61.0,1.0,,Levante
+,Riga Mustapha,nl NED,"FW,MF",33,28,3.0,8.0,2007-2008,b666286,Levante,"2,561",28.5,1.0,0.0,61.0,11.0,4118.0,Levante
+,Iñaki Descarga,es ESP,DF,30,28,0.0,0.0,2007-2008,4c20d02,Levante,"2,347",26.1,7.0,0.0,61.0,1.0,4100.0,Levante
+,Álvaro,br BRA,DF,28,26,0.0,3.0,2007-2008,3bb76c65,Levante,"2,297",25.5,10.0,1.0,61.0,2.0,,Levante
+,Alexandre Geijo,es ESP,FW,32,22,3.0,5.0,2007-2008,c0787e61,Levante,"2,054",22.8,4.0,0.0,61.0,1.0,,Levante
+,Laurent Courtois,fr FRA,MF,25,21,3.0,0.0,2007-2008,fdd8f774,Levante,"1,709",19.0,0.0,0.0,61.0,4.0,4122.0,Levante
+,Mathieu Berson,fr FRA,MF,23,20,0.0,1.0,2007-2008,31d48214,Levante,"1,576",17.5,11.0,1.0,61.0,4.0,4126.0,Levante
+,Luis Rubiales,es ESP,DF,20,19,0.0,0.0,2007-2008,543fb98,Levante,"1,673",18.6,4.0,0.0,61.0,1.0,4111.0,Levante
+,Miguel Ángel,es ESP,MF,23,18,0.0,1.0,2007-2008,7542ce83,Levante,"1,679",18.7,6.0,0.0,61.0,1.0,,Levante
+,David Castedo,es ESP,DF,18,18,0.0,0.0,2007-2008,d39ba62e,Levante,"1,620",18.0,2.0,0.0,61.0,1.0,,Levante
+,Javi Fuego,es ESP,MF,24,17,1.0,1.0,2007-2008,2e8fc160,Levante,"1,608",17.9,5.0,0.0,61.0,1.0,,Levante
+,Marco Storari,it ITA,GK,17,17,0.0,0.0,2007-2008,fb5eb6e0,Levante,"1,530",17.0,2.0,0.0,61.0,9.0,4131.0,Levante
+,Bruno Cirillo,it ITA,DF,16,15,0.0,0.0,2007-2008,94ffc023,Levante,"1,412",15.7,6.0,0.0,61.0,9.0,4132.0,Levante
+,Damiano Tommasi,it ITA,MF,15,15,0.0,1.0,2007-2008,46361093,Levante,"1,219",13.5,5.0,0.0,61.0,9.0,4127.0,Levante
+,Vladan Kujović,rs SRB,GK,13,13,0.0,0.0,2007-2008,6b1711,Levante,"1,170",13.0,1.0,0.0,61.0,28.0,4133.0,Levante
+,Pedro León,es ESP,"FW,MF",24,12,2.0,3.0,2007-2008,d66b9872,Levante,"1,145",12.7,2.0,0.0,61.0,1.0,96.0,Levante
+,Sávio,br BRA,MF,12,12,0.0,0.0,2007-2008,4abe5c93,Levante,935,10.4,2.0,0.0,61.0,2.0,,Levante
+,Manolo Gaspar,es ESP,DF,14,11,0.0,0.0,2007-2008,be800693,Levante,960,10.7,4.0,0.0,61.0,1.0,,Levante
+,Christian Riganò,it ITA,FW,12,10,0.0,4.0,2007-2008,156b57da,Levante,917,10.2,5.0,0.0,61.0,9.0,4134.0,Levante
+,Manolo Reina,es ESP,GK,8,8,0.0,0.0,2007-2008,605eb473,Levante,720,8.0,1.0,0.0,61.0,1.0,,Levante
+,Armando Lozano,es ESP,DF,12,7,0.0,0.0,2007-2008,2daac0b,Levante,736,8.2,4.0,0.0,61.0,1.0,,Levante
+,Saúl,es ESP,MF,20,5,0.0,0.0,2007-2008,4a317b2,Levante,598,6.6,2.0,0.0,61.0,1.0,,Levante
+,Vicente Iborra,es ESP,MF,14,4,1.0,1.0,2007-2008,d1ffcfd,Levante,537,6.0,0.0,0.0,61.0,1.0,,Levante
+,Félix Dja Ettien,ci CIV,MF,13,3,0.0,1.0,2007-2008,4c443cac,Levante,414,4.6,1.0,0.0,61.0,35.0,4106.0,Levante
+,Miquel Robusté,es ESP,DF,4,3,0.0,0.0,2007-2008,4be9a341,Levante,311,3.5,1.0,0.0,61.0,1.0,4135.0,Levante
+,Emilio Viqueira,es ESP,MF,9,2,0.0,1.0,2007-2008,5c0b59d4,Levante,354,3.9,0.0,0.0,61.0,1.0,,Levante
+,Shota Arveladze,ge GEO,FW,4,0,0.0,0.0,2007-2008,cd4e0298,Levante,45,0.5,0.0,0.0,61.0,76.0,4136.0,Levante
+,Albert Meyong,cm CMR,FW,1,0,0.0,0.0,2007-2008,f718a9b0,Levante,12,0.1,0.0,0.0,61.0,36.0,,Levante
+,﻿Sergio Ballesteros,es ESP,DF,37,37,0.0,0.0,2008-2009,29863c56,Levante,"3,297",36.6,9.0,2.0,61.0,1.0,,Levante
+,David Cerrajería,es ESP,DF,31,30,0.0,0.0,2008-2009,2ebb9df6,Levante,"2,721",30.2,6.0,2.0,61.0,1.0,,Levante
+,Xisco Nadal,es ESP,"FW,MF",33,30,2.0,3.0,2008-2009,5dc11264,Levante,"2,484",27.6,7.0,1.0,61.0,1.0,,Levante
+,Ángel,es ESP,DF,30,29,1.0,0.0,2008-2009,4c3f3098,Levante,"2,604",28.9,9.0,0.0,61.0,1.0,,Levante
+,Manolo Reina,es ESP,GK,25,25,0.0,0.0,2008-2009,605eb473,Levante,"2,250",25.0,2.0,0.0,61.0,1.0,,Levante
+,Miguel Pérez,es ESP,MF,29,25,2.0,2.0,2008-2009,b3f9e645,Levante,"2,045",22.7,5.0,0.0,61.0,1.0,,Levante
+,Jorge Pina Roldán,es ESP,MF,33,23,2.0,3.0,2008-2009,c8ab4ea9,Levante,"1,918",21.3,5.0,0.0,61.0,1.0,,Levante
+,Vicente Iborra,es ESP,MF,31,22,0.0,3.0,2008-2009,d1ffcfd,Levante,"1,970",21.9,12.0,2.0,61.0,1.0,,Levante
+,Samuel Baños,es ESP,MF,25,22,0.0,2.0,2008-2009,f3ce81bd,Levante,"1,936",21.5,9.0,0.0,61.0,1.0,,Levante
+,Francisco Molinero,es ESP,DF,24,21,0.0,1.0,2008-2009,2cea96ce,Levante,"1,878",20.9,9.0,0.0,61.0,1.0,,Levante
+,Miguel Pallardó,es ESP,MF,24,21,3.0,1.0,2008-2009,6c3dfe68,Levante,"1,674",18.6,10.0,2.0,61.0,1.0,,Levante
+,Rubén Suárez,es ESP,MF,29,20,5.0,12.0,2008-2009,ddc6eca,Levante,"1,981",22.0,7.0,2.0,61.0,1.0,4137.0,Levante
+,Gorka Larrea,es ESP,MF,33,20,3.0,1.0,2008-2009,242e09b6,Levante,"1,867",20.7,10.0,0.0,61.0,1.0,,Levante
+,Alexandre Geijo,es ESP,FW,21,20,2.0,10.0,2008-2009,c0787e61,Levante,"1,774",19.7,9.0,1.0,61.0,1.0,,Levante
+,Pedro Vega,es ESP,MF,25,18,3.0,6.0,2008-2009,c634a0,Levante,"1,671",18.6,2.0,0.0,61.0,1.0,4138.0,Levante
+,Miguel Ángel Tena,es ESP,DF,19,17,0.0,5.0,2008-2009,6389c2b,Levante,"1,570",17.4,10.0,1.0,61.0,1.0,,Levante
+,Miquel Robusté,es ESP,DF,16,16,0.0,1.0,2008-2009,4be9a341,Levante,"1,354",15.0,11.0,1.0,61.0,1.0,4135.0,Levante
+,Líbero Parri,es ESP,MF,24,14,5.0,4.0,2008-2009,203ff743,Levante,"1,120",12.4,5.0,0.0,61.0,1.0,,Levante
+,Juan Luis Mora,es ESP,GK,12,12,0.0,0.0,2008-2009,2e1a7599,Levante,"1,080",12.0,0.0,0.0,61.0,1.0,,Levante
+,Yago Yao,gq EQG,DF,16,10,2.0,0.0,2008-2009,25c8b6c,Levante,"1,000",11.1,3.0,1.0,61.0,10.0,,Levante
+,Álvaro del Moral,es ESP,FW,24,7,0.0,1.0,2008-2009,fc4faad5,Levante,809,9.0,3.0,1.0,61.0,1.0,4139.0,Levante
+,Adrián Martín,es ESP,MF,18,6,0.0,3.0,2008-2009,53eabc97,Levante,631,7.0,1.0,1.0,61.0,1.0,,Levante
+,Manu Herrera,es ESP,GK,5,5,0.0,0.0,2008-2009,d2acc39,Levante,450,5.0,1.0,0.0,61.0,1.0,,Levante
+,Héctor Rodas,es ESP,DF,4,4,0.0,0.0,2008-2009,dcdd3a95,Levante,343,3.8,1.0,0.0,61.0,1.0,,Levante
+,Alejandro Vázquez,es ESP,DF,3,3,0.0,0.0,2008-2009,6b6a8419,Levante,270,3.0,0.0,0.0,61.0,1.0,4140.0,Levante
+,Marc Mateu,es ESP,"DF,MF",3,2,0.0,0.0,2008-2009,d90fc36,Levante,178,2.0,0.0,0.0,61.0,1.0,4141.0,Levante
+,Felipe Manoel,br BRA,MF,4,1,0.0,0.0,2008-2009,80af5ae3,Levante,178,2.0,2.0,0.0,61.0,2.0,4142.0,Levante
+,Mossa,es ESP,"DF,MF",2,1,0.0,0.0,2008-2009,cbfa9c63,Levante,92,1.0,0.0,0.0,61.0,1.0,4143.0,Levante
+,Omar Monterde,es ESP,MF,2,1,0.0,0.0,2008-2009,2b74c107,Levante,71,0.8,0.0,0.0,61.0,1.0,4144.0,Levante
+,Rubén Sánchez,es ESP,MF,4,0,0.0,0.0,2008-2009,8b90d832,Levante,101,1.1,0.0,0.0,61.0,1.0,4145.0,Levante
+,﻿Sergio Ballesteros,es ESP,DF,38,38,0.0,1.0,2009-2010,29863c56,Levante,"3,407",37.9,10.0,1.0,61.0,1.0,,Levante
+,Juanlu,es ESP,MF,38,38,5.0,10.0,2009-2010,94b88487,Levante,"3,171",35.2,16.0,1.0,61.0,1.0,,Levante
+,Rubén Suárez,es ESP,MF,38,37,6.0,13.0,2009-2010,ddc6eca,Levante,"3,011",33.5,8.0,1.0,61.0,1.0,4137.0,Levante
+,Pau Cendrós,es ESP,DF,35,35,4.0,1.0,2009-2010,9b9c9388,Levante,"3,092",34.4,12.0,1.0,61.0,1.0,,Levante
+,Javi Guerra,es ESP,FW,37,33,2.0,12.0,2009-2010,386464,Levante,"2,704",30.0,8.0,1.0,61.0,1.0,,Levante
+,Miguel Pallardó,es ESP,MF,35,32,4.0,1.0,2009-2010,6c3dfe68,Levante,"2,657",29.5,13.0,1.0,61.0,1.0,,Levante
+,Vicente Iborra,es ESP,MF,36,31,0.0,1.0,2009-2010,d1ffcfd,Levante,"2,632",29.2,12.0,1.0,61.0,1.0,,Levante
+,Manolo Reina,es ESP,GK,22,22,0.0,0.0,2009-2010,605eb473,Levante,"1,980",22.0,7.0,0.0,61.0,1.0,,Levante
+,Xisco,es ESP,"FW,MF",29,22,2.0,7.0,2009-2010,faaae13,Levante,"1,792",19.9,6.0,1.0,61.0,1.0,,Levante
+,Manu Herrera,es ESP,GK,20,20,0.0,0.0,2009-2010,d2acc39,Levante,"1,800",20.0,1.0,0.0,61.0,1.0,,Levante
+,Héctor Rodas,es ESP,DF,22,19,1.0,1.0,2009-2010,dcdd3a95,Levante,"1,695",18.8,8.0,1.0,61.0,1.0,,Levante
+,Juanfran,es ESP,DF,19,16,0.0,0.0,2009-2010,d8a22e59,Levante,"1,482",16.5,5.0,1.0,61.0,1.0,,Levante
+,Miquel Robusté,es ESP,DF,17,16,0.0,2.0,2009-2010,4be9a341,Levante,"1,441",16.0,10.0,1.0,61.0,1.0,4135.0,Levante
+,Dani Carril,es ESP,DF,14,14,0.0,1.0,2009-2010,718167d2,Levante,"1,171",13.0,10.0,0.0,61.0,1.0,4146.0,Levante
+,David Cerrajería,es ESP,DF,15,11,1.0,0.0,2009-2010,2ebb9df6,Levante,"1,051",11.7,6.0,0.0,61.0,1.0,,Levante
+,Serra,es ESP,DF,14,11,0.0,0.0,2009-2010,df52ea5f,Levante,"1,045",11.6,5.0,1.0,61.0,1.0,4147.0,Levante
+,Samuel Baños,es ESP,MF,22,11,2.0,0.0,2009-2010,f3ce81bd,Levante,981,10.9,5.0,0.0,61.0,1.0,,Levante
+,Xisco Nadal,es ESP,"FW,MF",32,10,2.0,3.0,2009-2010,5dc11264,Levante,"1,287",14.3,5.0,1.0,61.0,1.0,,Levante
+,Miguel Pérez,es ESP,MF,18,10,1.0,0.0,2009-2010,b3f9e645,Levante,842,9.4,2.0,0.0,61.0,1.0,,Levante
+,Gorka Larrea,es ESP,MF,19,9,1.0,0.0,2009-2010,242e09b6,Levante,"1,006",11.2,5.0,0.0,61.0,1.0,,Levante
+,Ángel,es ESP,DF,8,8,0.0,0.0,2009-2010,4c3f3098,Levante,714,7.9,4.0,1.0,61.0,1.0,,Levante
+,Jorge Pina Roldán,es ESP,MF,18,7,2.0,2.0,2009-2010,c8ab4ea9,Levante,656,7.3,2.0,0.0,61.0,1.0,,Levante
+,Igor de Souza,br BRA,FW,11,4,0.0,3.0,2009-2010,1c73ef45,Levante,377,4.2,0.0,0.0,61.0,2.0,4148.0,Levante
+,Rafa Jordà,es ESP,FW,17,3,0.0,5.0,2009-2010,05e805eb,Levante,565,6.3,0.0,1.0,61.0,1.0,4149.0,Levante
+,Marc Mateu,es ESP,"DF,MF",9,3,0.0,0.0,2009-2010,d90fc36,Levante,440,4.9,2.0,0.0,61.0,1.0,4141.0,Levante
+,Álvaro del Moral,es ESP,FW,2,1,0.0,0.0,2009-2010,fc4faad5,Levante,109,1.2,0.0,0.0,61.0,1.0,4139.0,Levante
+,Mossa,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,cbfa9c63,Levante,90,1.0,0.0,0.0,61.0,1.0,4143.0,Levante
+,Adrián Lois,es ESP,MF,1,0,0.0,0.0,2009-2010,4337da46,Levante,23,0.3,0.0,0.0,61.0,1.0,4150.0,Levante
+,﻿Sergio Ballesteros,es ESP,DF,35,35,0.0,1.0,2010-2011,29863c56,Levante,"3,132",34.8,11.0,0.0,61.0,1.0,,Levante
+,Xavi Torres,es ESP,MF,35,34,2.0,0.0,2010-2011,1b51ad2f,Levante,"3,070",34.1,6.0,0.0,61.0,1.0,,Levante
+,Javi Venta,es ESP,DF,33,33,0.0,0.0,2010-2011,fc3efd36,Levante,"2,970",33.0,8.0,0.0,61.0,1.0,,Levante
+,Nano,es ESP,DF,32,28,1.0,2.0,2010-2011,3d6dd9f9,Levante,"2,570",28.6,9.0,0.0,61.0,1.0,,Levante
+,Juanlu,es ESP,MF,30,28,6.0,3.0,2010-2011,94b88487,Levante,"2,292",25.5,8.0,0.0,61.0,1.0,,Levante
+,Valdo,cv CPV,"FW,MF",29,25,8.0,2.0,2010-2011,5d34e206,Levante,"2,098",23.3,4.0,0.0,61.0,85.0,,Levante
+,Juanfran,es ESP,DF,23,22,0.0,0.0,2010-2011,d8a22e59,Levante,"1,912",21.2,10.0,0.0,61.0,1.0,,Levante
+,Felipe Caicedo,ec ECU,"FW,MF",27,22,1.0,13.0,2010-2011,93b891d1,Levante,"1,693",18.8,8.0,0.0,61.0,61.0,,Levante
+,Asier del Horno,es ESP,DF,22,21,2.0,2.0,2010-2011,b525f4a,Levante,"1,894",21.0,8.0,0.0,61.0,1.0,,Levante
+,Miguel Pallardó,es ESP,MF,27,21,0.0,0.0,2010-2011,6c3dfe68,Levante,"1,814",20.2,6.0,0.0,61.0,1.0,,Levante
+,Gustavo Munúa,uy URU,GK,20,20,0.0,0.0,2010-2011,7e384992,Levante,"1,800",20.0,6.0,0.0,61.0,8.0,,Levante
+,Manolo Reina,es ESP,GK,18,18,0.0,0.0,2010-2011,605eb473,Levante,"1,620",18.0,3.0,0.0,61.0,1.0,,Levante
+,Rubén Suárez,es ESP,MF,27,18,1.0,5.0,2010-2011,ddc6eca,Levante,"1,508",16.8,5.0,0.0,61.0,1.0,4137.0,Levante
+,Xisco,es ESP,"FW,MF",26,16,3.0,1.0,2010-2011,faaae13,Levante,"1,324",14.7,4.0,0.0,61.0,1.0,,Levante
+,Vicente Iborra,es ESP,MF,16,14,0.0,0.0,2010-2011,d1ffcfd,Levante,"1,261",14.0,9.0,0.0,61.0,1.0,,Levante
+,Xisco Nadal,es ESP,"FW,MF",25,12,2.0,0.0,2010-2011,5dc11264,Levante,"1,180",13.1,1.0,2.0,61.0,1.0,,Levante
+,Cristhian Stuani,uy URU,"FW,MF",30,11,2.0,8.0,2010-2011,220c11f1,Levante,"1,289",14.3,5.0,0.0,61.0,8.0,,Levante
+,Sergio,es ESP,MF,14,9,1.0,2.0,2010-2011,c6ed9815,Levante,905,10.1,1.0,0.0,61.0,1.0,,Levante
+,Rafa Jordà,es ESP,FW,17,7,0.0,2.0,2010-2011,05e805eb,Levante,748,8.3,4.0,0.0,61.0,1.0,4149.0,Levante
+,David Cerrajería,es ESP,DF,9,7,0.0,0.0,2010-2011,2ebb9df6,Levante,657,7.3,3.0,0.0,61.0,1.0,,Levante
+,Héctor Rodas,es ESP,DF,5,5,0.0,0.0,2010-2011,dcdd3a95,Levante,408,4.5,2.0,0.0,61.0,1.0,,Levante
+,Jefferson Montero,ec ECU,"FW,MF",11,4,0.0,0.0,2010-2011,fa6561bf,Levante,534,5.9,1.0,0.0,61.0,61.0,,Levante
+,Miquel Robusté,es ESP,DF,7,4,0.0,0.0,2010-2011,4be9a341,Levante,424,4.7,3.0,0.0,61.0,1.0,4135.0,Levante
+,Gorka Larrea,es ESP,MF,6,2,0.0,0.0,2010-2011,242e09b6,Levante,239,2.7,1.0,0.0,61.0,1.0,,Levante
+,Nacho González,uy URU,MF,3,2,0.0,0.0,2010-2011,53031e02,Levante,117,1.3,0.0,0.0,61.0,8.0,,Levante
+,Adrián Lois,es ESP,MF,1,0,0.0,0.0,2010-2011,4337da46,Levante,13,0.1,0.0,0.0,61.0,1.0,4150.0,Levante
+,Sergio Abad Beyxer,es ESP,MF,1,0,0.0,0.0,2010-2011,30f729b3,Levante,5,0.1,0.0,0.0,61.0,1.0,4152.0,Levante
+,Wellington Silva,br BRA,"FW,MF",1,0,0.0,0.0,2010-2011,5c60f49c,Levante,3,0.0,0.0,0.0,61.0,2.0,,Levante
+,﻿Gustavo Munúa,uy URU,GK,37,37,0.0,0.0,2011-2012,7e384992,Levante,"3,330",37.0,5.0,0.0,61.0,8.0,,Levante
+,Sergio Ballesteros,es ESP,DF,37,37,0.0,1.0,2011-2012,29863c56,Levante,"3,328",37.0,9.0,0.0,61.0,1.0,,Levante
+,Arouna Koné,ci CIV,FW,34,34,4.0,15.0,2011-2012,f9a72ca4,Levante,"2,922",32.5,5.0,0.0,61.0,35.0,,Levante
+,Valdo,cv CPV,"FW,MF",34,32,7.0,6.0,2011-2012,5d34e206,Levante,"2,836",31.5,9.0,0.0,61.0,85.0,,Levante
+,Xavi Torres,es ESP,MF,34,32,1.0,5.0,2011-2012,1b51ad2f,Levante,"2,711",30.1,9.0,0.0,61.0,1.0,,Levante
+,José Barkero,es ESP,MF,32,30,7.0,7.0,2011-2012,89a1b23c,Levante,"2,485",27.6,9.0,0.0,61.0,1.0,,Levante
+,Juanfran,es ESP,DF,29,29,0.0,0.0,2011-2012,d8a22e59,Levante,"2,599",28.9,12.0,2.0,61.0,1.0,,Levante
+,Vicente Iborra,es ESP,MF,33,28,1.0,0.0,2011-2012,d1ffcfd,Levante,"2,313",25.7,10.0,1.0,61.0,1.0,,Levante
+,Javi Venta,es ESP,DF,26,25,0.0,0.0,2011-2012,fc3efd36,Levante,"2,223",24.7,8.0,0.0,61.0,1.0,,Levante
+,Javier Farinós,es ESP,MF,30,18,3.0,1.0,2011-2012,d9b0f08e,Levante,"1,730",19.2,6.0,0.0,61.0,1.0,,Levante
+,Pedro López Muñoz,es ESP,DF,21,17,0.0,0.0,2011-2012,60823a4,Levante,"1,551",17.2,5.0,0.0,61.0,1.0,,Levante
+,Nano,es ESP,DF,17,17,0.0,2.0,2011-2012,3d6dd9f9,Levante,"1,439",16.0,4.0,0.0,61.0,1.0,,Levante
+,Gustavo Cabral,ar ARG,DF,16,15,0.0,1.0,2011-2012,92b4a127,Levante,"1,366",15.2,5.0,0.0,61.0,5.0,,Levante
+,Juanlu,es ESP,MF,19,13,0.0,6.0,2011-2012,94b88487,Levante,"1,071",11.9,6.0,0.0,61.0,1.0,,Levante
+,Asier del Horno,es ESP,DF,13,12,1.0,0.0,2011-2012,b525f4a,Levante,"1,049",11.7,6.0,0.0,61.0,1.0,,Levante
+,Pedro Botelho,br BRA,"DF,MF",14,10,1.0,0.0,2011-2012,1f933029,Levante,906,10.1,4.0,0.0,61.0,2.0,,Levante
+,Nabil El Zhar,ma MAR,"FW,MF",22,9,0.0,0.0,2011-2012,37f96552,Levante,879,9.8,2.0,0.0,61.0,26.0,4153.0,Levante
+,Abdelkader Ghezzal,dz ALG,FW,16,9,2.0,2.0,2011-2012,9152a181,Levante,854,9.5,1.0,0.0,61.0,37.0,4154.0,Levante
+,Rubén Suárez,es ESP,MF,33,7,2.0,8.0,2011-2012,ddc6eca,Levante,997,11.1,3.0,0.0,61.0,1.0,4137.0,Levante
+,David Navarro,es ESP,DF,4,3,0.0,0.0,2011-2012,5dbdb37b,Levante,272,3.0,1.0,0.0,61.0,1.0,,Levante
+,Óscar Serrano,es ESP,MF,6,3,1.0,0.0,2011-2012,c862ecc5,Levante,234,2.6,1.0,0.0,61.0,1.0,,Levante
+,Keylor Navas,cr CRC,GK,1,1,0.0,0.0,2011-2012,cada4fc,Levante,90,1.0,0.0,0.0,61.0,22.0,132.0,Levante
+,Carlos Aranda,es ESP,FW,10,0,0.0,0.0,2011-2012,2b60c45d,Levante,195,2.2,1.0,0.0,61.0,1.0,,Levante
+,Miguel Pallardó,es ESP,MF,8,0,0.0,0.0,2011-2012,6c3dfe68,Levante,118,1.3,1.0,0.0,61.0,1.0,,Levante
+,José Higón,es ESP,MF,2,0,0.0,0.0,2011-2012,562194e6,Levante,42,0.5,0.0,0.0,61.0,1.0,,Levante
+,Rafa Jordà,es ESP,FW,2,0,0.0,0.0,2011-2012,05e805eb,Levante,27,0.3,0.0,0.0,61.0,1.0,4149.0,Levante
+,Roger Martí,es ESP,FW,2,0,0.0,0.0,2011-2012,0ae4e09a,Levante,21,0.2,0.0,0.0,61.0,1.0,,Levante
+,﻿David Navarro,es ESP,DF,35,35,2.0,1.0,2012-2013,5dbdb37b,Levante,"3,084",34.3,9.0,1.0,61.0,1.0,,Levante
+,Vicente Iborra,es ESP,MF,35,35,1.0,4.0,2012-2013,d1ffcfd,Levante,"3,055",33.9,13.0,1.0,61.0,1.0,,Levante
+,Papakouli Diop,sn SEN,MF,32,32,0.0,0.0,2012-2013,7329018e,Levante,"2,491",27.7,10.0,1.0,61.0,34.0,,Levante
+,Gustavo Munúa,uy URU,GK,29,29,0.0,0.0,2012-2013,7e384992,Levante,"2,610",29.0,3.0,0.0,61.0,8.0,,Levante
+,Juanfran,es ESP,DF,29,28,2.0,0.0,2012-2013,d8a22e59,Levante,"2,512",27.9,8.0,0.0,61.0,1.0,,Levante
+,Sergio Ballesteros,es ESP,DF,26,26,1.0,0.0,2012-2013,29863c56,Levante,"2,280",25.3,10.0,0.0,61.0,1.0,,Levante
+,José Barkero,es ESP,MF,28,25,1.0,5.0,2012-2013,89a1b23c,Levante,"2,171",24.1,5.0,0.0,61.0,1.0,,Levante
+,Rubén García,es ESP,"FW,MF",31,21,2.0,4.0,2012-2013,5c96b017,Levante,"1,848",20.5,4.0,0.0,61.0,1.0,,Levante
+,Nabil El Zhar,ma MAR,"FW,MF",31,21,1.0,2.0,2012-2013,37f96552,Levante,"1,661",18.5,5.0,0.0,61.0,26.0,4153.0,Levante
+,Míchel,es ESP,MF,37,20,4.0,5.0,2012-2013,418f8f61,Levante,"1,939",21.5,6.0,0.0,61.0,1.0,,Levante
+,Christian Lell,de GER,DF,21,20,0.0,2.0,2012-2013,37d7f47d,Levante,"1,773",19.7,3.0,1.0,61.0,13.0,4156.0,Levante
+,Obafemi Martins,ng NGA,FW,21,18,2.0,7.0,2012-2013,70849fc2,Levante,"1,710",19.0,6.0,0.0,61.0,52.0,4157.0,Levante
+,Pedro López Muñoz,es ESP,DF,17,16,1.0,0.0,2012-2013,60823a4,Levante,"1,448",16.1,10.0,2.0,61.0,1.0,,Levante
+,Loukas Vyntra,gr GRE,DF,15,15,0.0,0.0,2012-2013,db07afa3,Levante,"1,350",15.0,4.0,0.0,61.0,55.0,4158.0,Levante
+,Pedro Ríos,es ESP,MF,25,15,1.0,2.0,2012-2013,96ef8f9f,Levante,"1,347",15.0,3.0,0.0,61.0,1.0,,Levante
+,Juanlu,es ESP,MF,25,14,1.0,2.0,2012-2013,94b88487,Levante,"1,252",13.9,6.0,0.0,61.0,1.0,,Levante
+,Robert Acquafresca,it ITA,FW,13,12,0.0,3.0,2012-2013,d2b115ae,Levante,936,10.4,1.0,0.0,61.0,9.0,4159.0,Levante
+,Keylor Navas,cr CRC,GK,9,9,0.0,0.0,2012-2013,cada4fc,Levante,810,9.0,0.0,0.0,61.0,22.0,132.0,Levante
+,Nikolaos Karabelas,gr GRE,DF,9,7,0.0,0.0,2012-2013,41c6410,Levante,621,6.9,1.0,1.0,61.0,55.0,,Levante
+,Valdo,cv CPV,"FW,MF",13,6,1.0,0.0,2012-2013,5d34e206,Levante,659,7.3,2.0,0.0,61.0,85.0,,Levante
+,Héctor Rodas,es ESP,DF,10,5,0.0,0.0,2012-2013,dcdd3a95,Levante,587,6.5,2.0,0.0,61.0,1.0,,Levante
+,Roger Martí,es ESP,FW,15,2,0.0,1.0,2012-2013,0ae4e09a,Levante,332,3.7,1.0,0.0,61.0,1.0,,Levante
+,Ángel Rodríguez,es ESP,FW,10,2,1.0,1.0,2012-2013,8cfc2f69,Levante,294,3.3,0.0,0.0,61.0,1.0,,Levante
+,Simão Mate Junior,mz MOZ,"DF,MF",4,2,0.0,0.0,2012-2013,68723d1f,Levante,249,2.8,1.0,0.0,61.0,88.0,4160.0,Levante
+,Theofanis Gekas,gr GRE,FW,4,2,1.0,0.0,2012-2013,244bc211,Levante,235,2.6,0.0,0.0,61.0,55.0,4161.0,Levante
+,Dariusz Dudka,pl POL,"DF,MF",3,1,0.0,0.0,2012-2013,fe5aff7,Levante,126,1.4,0.0,0.0,61.0,14.0,4162.0,Levante
+,Miguel Pallardó,es ESP,MF,5,0,0.0,0.0,2012-2013,6c3dfe68,Levante,69,0.8,0.0,0.0,61.0,1.0,,Levante
+,﻿Keylor Navas,cr CRC,GK,37,37,0.0,0.0,2013-2014,cada4fc,Levante,"3,249",36.1,3.0,1.0,61.0,22.0,132.0,Levante
+,Juanfran,es ESP,DF,35,35,1.0,0.0,2013-2014,d8a22e59,Levante,"3,104",34.5,6.0,1.0,61.0,1.0,,Levante
+,Papakouli Diop,sn SEN,MF,34,33,0.0,4.0,2013-2014,7329018e,Levante,"2,743",30.5,10.0,1.0,61.0,34.0,,Levante
+,Loukas Vyntra,gr GRE,DF,33,31,0.0,2.0,2013-2014,db07afa3,Levante,"2,745",30.5,7.0,0.0,61.0,55.0,4158.0,Levante
+,Simão Mate Junior,mz MOZ,"DF,MF",31,30,0.0,1.0,2013-2014,68723d1f,Levante,"2,572",28.6,10.0,0.0,61.0,88.0,4160.0,Levante
+,David Navarro,es ESP,DF,29,29,0.0,1.0,2013-2014,5dbdb37b,Levante,"2,518",28.0,6.0,1.0,61.0,1.0,,Levante
+,Pedro López Muñoz,es ESP,DF,32,28,0.0,1.0,2013-2014,60823a4,Levante,"2,540",28.2,9.0,1.0,61.0,1.0,,Levante
+,Rubén García,es ESP,"FW,MF",32,27,0.0,2.0,2013-2014,5c96b017,Levante,"2,343",26.0,7.0,0.0,61.0,1.0,,Levante
+,David Barral,es ESP,FW,32,25,0.0,7.0,2013-2014,d99f9282,Levante,"2,250",25.0,12.0,0.0,61.0,1.0,,Levante
+,Andreas Ivanschitz,at AUT,MF,29,20,5.0,3.0,2013-2014,d045ccb2,Levante,"1,693",18.8,8.0,0.0,61.0,24.0,4163.0,Levante
+,Jordi Xumetra,es ESP,"FW,MF",25,19,4.0,1.0,2013-2014,3b79dbdb,Levante,"1,592",17.7,6.0,0.0,61.0,1.0,,Levante
+,Nikolaos Karabelas,gr GRE,DF,16,15,1.0,0.0,2013-2014,41c6410,Levante,"1,310",14.6,5.0,1.0,61.0,55.0,,Levante
+,Nabil El Zhar,ma MAR,"FW,MF",24,13,3.0,4.0,2013-2014,37f96552,Levante,"1,323",14.7,3.0,0.0,61.0,26.0,4153.0,Levante
+,Víctor Casadesús,es ESP,FW,14,13,2.0,1.0,2013-2014,73cd0a2a,Levante,"1,042",11.6,1.0,2.0,61.0,1.0,,Levante
+,Héctor Rodas,es ESP,DF,16,12,0.0,0.0,2013-2014,dcdd3a95,Levante,"1,151",12.8,5.0,0.0,61.0,1.0,,Levante
+,Baba Diawara,sn SEN,FW,20,11,2.0,3.0,2013-2014,09b7100a,Levante,947,10.5,0.0,0.0,61.0,34.0,,Levante
+,Sérgio Pinto,pt POR,"FW,MF",18,10,0.0,0.0,2013-2014,85ecb7ea,Levante,856,9.5,5.0,0.0,61.0,3.0,4164.0,Levante
+,Issam El Adoua,ma MAR,DF,18,9,0.0,0.0,2013-2014,16edc522,Levante,"1,017",11.3,2.0,0.0,61.0,26.0,4165.0,Levante
+,Pedro Ríos,es ESP,MF,13,8,1.0,1.0,2013-2014,96ef8f9f,Levante,728,8.1,3.0,0.0,61.0,1.0,,Levante
+,Christian Lell,de GER,DF,5,5,0.0,0.0,2013-2014,37d7f47d,Levante,359,4.0,1.0,0.0,61.0,13.0,4156.0,Levante
+,Mohamed Sissoko,ml MLI,MF,10,4,0.0,0.0,2013-2014,2c1a819e,Levante,432,4.8,1.0,0.0,61.0,12.0,,Levante
+,Ángel Rodríguez,es ESP,FW,10,1,0.0,2.0,2013-2014,8cfc2f69,Levante,288,3.2,0.0,0.0,61.0,1.0,,Levante
+,Nagore,es ESP,DF,4,1,0.0,0.0,2013-2014,86eeca16,Levante,191,2.1,1.0,0.0,61.0,1.0,,Levante
+,Javi Jiménez,es ESP,GK,2,1,0.0,0.0,2013-2014,9fe99e45,Levante,170,1.9,0.0,0.0,61.0,1.0,,Levante
+,Miguel Pallardó,es ESP,MF,3,1,0.0,0.0,2013-2014,6c3dfe68,Levante,116,1.3,1.0,0.0,61.0,1.0,,Levante
+,Víctor Camarasa,es ESP,MF,3,0,0.0,0.0,2013-2014,b2d03887,Levante,96,1.1,0.0,0.0,61.0,1.0,,Levante
+,Aloys Nong,cm CMR,FW,6,0,0.0,0.0,2013-2014,570de35e,Levante,86,1.0,1.0,0.0,61.0,36.0,,Levante
+,Jason,es ESP,"FW,MF",1,0,0.0,0.0,2013-2014,9038c2a1,Levante,2,0.0,0.0,0.0,61.0,1.0,,Levante
+,﻿José Luis Morales,es ESP,"FW,MF",36,33,2.0,3.0,2014-2015,4a478107,Levante,"2,779",30.9,3.0,0.0,61.0,1.0,4166.0,Levante
+,Diego Mariño,es ESP,GK,32,32,0.0,0.0,2014-2015,d9235a45,Levante,"2,880",32.0,1.0,0.0,61.0,1.0,,Levante
+,David Barral,es ESP,FW,35,32,0.0,11.0,2014-2015,d99f9282,Levante,"2,624",29.2,11.0,0.0,61.0,1.0,,Levante
+,Víctor Casadesús,es ESP,FW,35,26,2.0,8.0,2014-2015,73cd0a2a,Levante,"2,436",27.1,6.0,0.0,61.0,1.0,,Levante
+,Loukas Vyntra,gr GRE,DF,27,26,0.0,0.0,2014-2015,db07afa3,Levante,"2,367",26.3,4.0,1.0,61.0,55.0,4158.0,Levante
+,Simão Mate Junior,mz MOZ,"DF,MF",27,24,0.0,1.0,2014-2015,68723d1f,Levante,"1,984",22.0,10.0,0.0,61.0,88.0,4160.0,Levante
+,Iván López,es ESP,DF,26,23,2.0,0.0,2014-2015,576575e5,Levante,"2,084",23.2,2.0,0.0,61.0,1.0,,Levante
+,David Navarro,es ESP,DF,21,21,0.0,0.0,2014-2015,5dbdb37b,Levante,"1,786",19.8,6.0,1.0,61.0,1.0,,Levante
+,Víctor Camarasa,es ESP,MF,24,20,1.0,2.0,2014-2015,b2d03887,Levante,"1,805",20.1,6.0,0.0,61.0,1.0,,Levante
+,Toño,es ESP,"DF,MF",22,20,2.0,0.0,2014-2015,d4ef9ac5,Levante,"1,747",19.4,7.0,0.0,61.0,1.0,,Levante
+,Papakouli Diop,sn SEN,MF,19,18,1.0,0.0,2014-2015,7329018e,Levante,"1,538",17.1,7.0,0.0,61.0,34.0,,Levante
+,Juanfran,es ESP,DF,17,16,0.0,0.0,2014-2015,d8a22e59,Levante,"1,428",15.9,6.0,0.0,61.0,1.0,,Levante
+,Andreas Ivanschitz,at AUT,MF,20,16,2.0,1.0,2014-2015,d045ccb2,Levante,"1,326",14.7,3.0,0.0,61.0,24.0,4163.0,Levante
+,Rubén García,es ESP,"FW,MF",27,13,3.0,1.0,2014-2015,5c96b017,Levante,"1,369",15.2,2.0,0.0,61.0,1.0,,Levante
+,Iván Ramis,es ESP,DF,13,13,0.0,0.0,2014-2015,d2be40f2,Levante,"1,112",12.4,5.0,1.0,61.0,1.0,,Levante
+,Mohamed Sissoko,ml MLI,MF,21,12,0.0,0.0,2014-2015,2c1a819e,Levante,"1,091",12.1,4.0,0.0,61.0,12.0,,Levante
+,Nikolaos Karabelas,gr GRE,DF,14,12,1.0,0.0,2014-2015,41c6410,Levante,942,10.5,6.0,0.0,61.0,55.0,,Levante
+,Jordi Xumetra,es ESP,"FW,MF",18,11,1.0,0.0,2014-2015,3b79dbdb,Levante,968,10.8,3.0,0.0,61.0,1.0,,Levante
+,Pedro López Muñoz,es ESP,DF,10,10,0.0,0.0,2014-2015,60823a4,Levante,860,9.6,3.0,0.0,61.0,1.0,,Levante
+,Kalu Uche,ng NGA,"FW,MF",16,9,3.0,5.0,2014-2015,6cc97b1d,Levante,877,9.7,1.0,0.0,61.0,52.0,,Levante
+,José Mari,es ESP,MF,14,6,0.0,0.0,2014-2015,6f4c734d,Levante,642,7.1,3.0,0.0,61.0,1.0,,Levante
+,Héctor Rodas,es ESP,DF,7,6,0.0,0.0,2014-2015,dcdd3a95,Levante,568,6.3,2.0,0.0,61.0,1.0,,Levante
+,Jesús,es ESP,GK,6,6,0.0,0.0,2014-2015,fba3c8c1,Levante,540,6.0,1.0,0.0,61.0,1.0,97.0,Levante
+,Nabil El Zhar,ma MAR,"FW,MF",17,5,2.0,1.0,2014-2015,37f96552,Levante,686,7.6,3.0,0.0,61.0,26.0,4153.0,Levante
+,Issam El Adoua,ma MAR,DF,4,3,0.0,0.0,2014-2015,16edc522,Levante,290,3.2,0.0,0.0,61.0,26.0,4165.0,Levante
+,Rafael Martins,br BRA,FW,13,2,0.0,1.0,2014-2015,b7e1c3b5,Levante,332,3.7,1.0,0.0,61.0,2.0,4168.0,Levante
+,Víctor Pérez,es ESP,MF,5,2,0.0,0.0,2014-2015,5918a484,Levante,288,3.2,0.0,0.0,61.0,1.0,,Levante
+,Jaime Gavilán,es ESP,MF,2,1,0.0,0.0,2014-2015,95de0931,Levante,70,0.8,1.0,0.0,61.0,1.0,,Levante
+,Jason,es ESP,"FW,MF",2,0,0.0,0.0,2014-2015,9038c2a1,Levante,56,0.6,0.0,0.0,61.0,1.0,,Levante
+,﻿Jefferson Lerma,co COL,"MF,DF",33,31,2.0,1.0,2015-2016,9b5ce51a,Levante,"2,682",29.8,11.0,0.0,61.0,19.0,4169.0,Levante
+,José Luis Morales,es ESP,"MF,FW",35,31,4.0,7.0,2015-2016,4a478107,Levante,"2,668",29.6,4.0,0.0,61.0,1.0,4166.0,Levante
+,Zouhair Feddal,ma MAR,DF,28,28,1.0,1.0,2015-2016,89151b16,Levante,"2,519",28.0,11.0,1.0,61.0,26.0,,Levante
+,Toño,es ESP,DF,27,26,1.0,0.0,2015-2016,d4ef9ac5,Levante,"2,387",26.5,8.0,0.0,61.0,1.0,,Levante
+,Simão Mate Junior,mz MOZ,"MF,DF",30,26,0.0,1.0,2015-2016,68723d1f,Levante,"2,175",24.2,12.0,2.0,61.0,88.0,4160.0,Levante
+,Deyverson,br BRA,FW,33,24,1.0,9.0,2015-2016,2e5e846d,Levante,"2,160",24.0,14.0,2.0,61.0,2.0,,Levante
+,Verza,es ESP,MF,29,23,3.0,2.0,2015-2016,f972b073,Levante,"2,127",23.6,13.0,0.0,61.0,1.0,,Levante
+,Diego Mariño,es ESP,GK,23,23,0.0,0.0,2015-2016,d9235a45,Levante,"2,070",23.0,1.0,0.0,61.0,1.0,,Levante
+,Víctor Camarasa,es ESP,MF,34,21,3.0,2.0,2015-2016,b2d03887,Levante,"2,114",23.5,4.0,0.0,61.0,1.0,,Levante
+,David Navarro,es ESP,DF,20,20,0.0,0.0,2015-2016,5dbdb37b,Levante,"1,689",18.8,5.0,1.0,61.0,1.0,,Levante
+,Juanfran,es ESP,DF,20,19,1.0,0.0,2015-2016,d8a22e59,Levante,"1,514",16.8,8.0,1.0,61.0,1.0,,Levante
+,Pedro López Muñoz,es ESP,DF,17,16,0.0,1.0,2015-2016,60823a4,Levante,"1,296",14.4,8.0,0.0,61.0,1.0,,Levante
+,Rubén,es ESP,GK,15,15,0.0,0.0,2015-2016,24279b8b,Levante,"1,350",15.0,4.0,0.0,61.0,1.0,,Levante
+,Giuseppe Rossi,it ITA,FW,17,15,3.0,6.0,2015-2016,fe48a073,Levante,"1,153",12.8,1.0,0.0,61.0,9.0,,Levante
+,Carl Medjani,dz ALG,DF,14,14,0.0,1.0,2015-2016,70c2f41a,Levante,"1,260",14.0,1.0,0.0,61.0,37.0,4170.0,Levante
+,Nabil Ghilas,dz ALG,FW,20,10,1.0,0.0,2015-2016,cee627f6,Levante,"1,013",11.3,1.0,0.0,61.0,37.0,4171.0,Levante
+,Iván López,es ESP,DF,13,10,0.0,0.0,2015-2016,576575e5,Levante,958,10.6,3.0,0.0,61.0,1.0,,Levante
+,Joan Verdú,es ESP,"MF,FW",13,10,1.0,1.0,2015-2016,61508522,Levante,908,10.1,0.0,0.0,61.0,1.0,,Levante
+,José Mari,es ESP,MF,12,10,0.0,0.0,2015-2016,6f4c734d,Levante,797,8.9,5.0,0.0,61.0,1.0,,Levante
+,Rubén García,es ESP,"FW,MF",22,9,0.0,1.0,2015-2016,5c96b017,Levante,"1,018",11.3,5.0,0.0,61.0,1.0,,Levante
+,Víctor Casadesús,es ESP,"FW,MF",23,8,1.0,3.0,2015-2016,73cd0a2a,Levante,951,10.6,3.0,0.0,61.0,1.0,,Levante
+,Ángel Trujillo,es ESP,DF,8,8,0.0,0.0,2015-2016,08011c9c,Levante,667,7.4,0.0,0.0,61.0,1.0,4172.0,Levante
+,Roger Martí,es ESP,FW,16,7,0.0,0.0,2015-2016,0ae4e09a,Levante,650,7.2,3.0,0.0,61.0,1.0,,Levante
+,Jordi Xumetra,es ESP,"MF,FW",13,5,0.0,0.0,2015-2016,3b79dbdb,Levante,527,5.9,5.0,0.0,61.0,1.0,,Levante
+,Mauricio Cuero,co COL,"MF,FW",13,5,1.0,0.0,2015-2016,7e03c92a,Levante,482,5.4,1.0,0.0,61.0,19.0,4173.0,Levante
+,Lucas Orbán,ar ARG,DF,3,3,0.0,0.0,2015-2016,8ff1d70e,Levante,270,3.0,2.0,0.0,61.0,5.0,,Levante
+,Nikolaos Karabelas,gr GRE,DF,1,1,0.0,0.0,2015-2016,41c6410,Levante,90,1.0,1.0,0.0,61.0,55.0,,Levante
+,Dani Calvo,es ESP,DF,0,0,,,2015-2016,dd672e1f,Levante,,,,,61.0,1.0,4174.0,Levante
+,Jesús,es ESP,GK,0,0,,,2015-2016,fba3c8c1,Levante,,,,,61.0,1.0,97.0,Levante
+,Álvaro Traver,es ESP,MF,0,0,,,2015-2016,f608a6b0,Levante,,,,,61.0,1.0,4175.0,Levante
+,José Luis García Vayá,es ESP,MF,0,0,,,2015-2016,27dc1378,Levante,,,,,61.0,1.0,4176.0,Levante
+,﻿Roger Martí,es ESP,FW,37,37,4.0,22.0,2016-2017,0ae4e09a,Levante,"3,257",36.2,8.0,2.0,61.0,1.0,,Levante
+,Sergio Postigo,es ESP,DF,36,36,1.0,2.0,2016-2017,474ecac8,Levante,"3,165",35.2,7.0,0.0,61.0,1.0,4177.0,Levante
+,José Luis Morales,es ESP,MF,40,36,4.0,4.0,2016-2017,4a478107,Levante,"3,070",34.1,3.0,0.0,61.0,1.0,4166.0,Levante
+,José Campaña,es ESP,MF,39,35,4.0,4.0,2016-2017,61220da2,Levante,"2,927",32.5,7.0,0.0,61.0,1.0,,Levante
+,Raúl Fernández,es ESP,GK,33,33,0.0,0.0,2016-2017,6fb59070,Levante,"2,940",32.7,2.0,0.0,61.0,1.0,,Levante
+,Pedro López Muñoz,es ESP,DF,34,33,2.0,0.0,2016-2017,60823a4,Levante,"2,819",31.3,5.0,0.0,61.0,1.0,,Levante
+,Jason,es ESP,MF,39,31,1.0,10.0,2016-2017,9038c2a1,Levante,"2,790",31.0,5.0,0.0,61.0,1.0,,Levante
+,Natxo Insa,my MAS,MF,35,31,2.0,2.0,2016-2017,28ccefcd,Levante,"2,431",27.0,5.0,0.0,61.0,68.0,,Levante
+,Foro Tono,,,33,30,1.0,0.0,2016-2017,,Levante,"2,756",30.6,8.0,1.0,61.0,,,Levante
+,Chema,es ESP,DF,33,29,0.0,3.0,2016-2017,7f203b54,Levante,"2,570",28.6,7.0,0.0,61.0,1.0,,Levante
+,Rober,es ESP,"DF,MF",26,23,0.0,1.0,2016-2017,c00097d2,Levante,"2,006",22.3,4.0,4.0,61.0,1.0,,Levante
+,Javier Espinosa,es ESP,MF,27,20,2.0,0.0,2016-2017,8e08d88c,Levante,"1,716",19.1,1.0,0.0,61.0,1.0,,Levante
+,Jefferson Lerma,co COL,MF,30,18,1.0,2.0,2016-2017,9b5ce51a,Levante,"1,686",18.7,10.0,2.0,61.0,19.0,4169.0,Levante
+,Abraham Minero,es ESP,DF,20,12,2.0,0.0,2016-2017,ce2c56fc,Levante,"1,130",12.6,6.0,0.0,61.0,1.0,,Levante
+,Rubén García,es ESP,"MF,FW",17,10,0.0,0.0,2016-2017,5c96b017,Levante,876,9.7,0.0,0.0,61.0,1.0,,Levante
+,Verza,es ESP,MF,20,9,3.0,0.0,2016-2017,f972b073,Levante,922,10.2,4.0,0.0,61.0,1.0,,Levante
+,Iván López,es ESP,DF,10,8,0.0,0.0,2016-2017,576575e5,Levante,703,7.8,2.0,0.0,61.0,1.0,,Levante
+,Víctor Casadesús,es ESP,"MF,FW",23,7,4.0,2.0,2016-2017,73cd0a2a,Levante,"1,047",11.6,4.0,0.0,61.0,1.0,,Levante
+,Paco Montañés,es ESP,MF,22,7,0.0,1.0,2016-2017,9cc493b1,Levante,859,9.5,1.0,0.0,61.0,1.0,,Levante
+,Oier Olazábal,es ESP,"GK,MF",4,4,0.0,0.0,2016-2017,b5bdf144,Levante,360,4.0,0.0,0.0,61.0,1.0,,Levante
+,Álex Remiro,es ESP,GK,4,4,0.0,0.0,2016-2017,374ee424,Levante,360,4.0,0.0,0.0,61.0,1.0,,Levante
+,Rafael Martins,br BRA,"MF,FW",9,3,0.0,1.0,2016-2017,b7e1c3b5,Levante,374,4.2,1.0,0.0,61.0,2.0,4168.0,Levante
+,Juan Muñoz,es ESP,FW,6,3,0.0,3.0,2016-2017,25018d62,Levante,298,3.3,0.0,0.0,61.0,1.0,,Levante
+,Esteban Saveljich,me MNE,DF,9,2,0.0,0.0,2016-2017,79f2a5f5,Levante,363,4.0,2.0,0.0,61.0,33.0,,Levante
+,Koke Vegas,es ESP,GK,1,1,0.0,0.0,2016-2017,bfb15d99,Levante,90,1.0,0.0,0.0,61.0,1.0,,Levante
+,Allyson,br BRA,FW,0,0,,,2016-2017,57e72dc9,Levante,,,,,61.0,2.0,4178.0,Levante
+,Kaiser,es ESP,DF,0,0,,,2016-2017,3e729bb0,Levante,,,,,61.0,1.0,4179.0,Levante
+,Son,es ESP,DF,0,0,,,2016-2017,037dbd30,Levante,,,,,61.0,1.0,4180.0,Levante
+,Toño,es ESP,DF,0,0,,,2016-2017,d4ef9ac5,Levante,,,,,61.0,1.0,,Levante
+,﻿José Luis Morales,es ESP,"MF,FW",35,35,8.0,10.0,2017-2018,4a478107,Levante,"3,058",34.0,7.0,1.0,61.0,1.0,4166.0,Levante
+,José Campaña,es ESP,MF,35,33,4.0,1.0,2017-2018,61220da2,Levante,"2,734",30.4,9.0,1.0,61.0,1.0,,Levante
+,Sergio Postigo,es ESP,DF,30,27,0.0,1.0,2017-2018,474ecac8,Levante,"2,425",26.9,6.0,0.0,61.0,1.0,4177.0,Levante
+,Oier Olazábal,es ESP,GK,26,26,0.0,0.0,2017-2018,b5bdf144,Levante,"2,340",26.0,2.0,0.0,61.0,1.0,,Levante
+,Jefferson Lerma,co COL,MF,26,25,1.0,0.0,2017-2018,9b5ce51a,Levante,"2,135",23.7,16.0,0.0,61.0,19.0,4169.0,Levante
+,Chema,es ESP,DF,25,23,1.0,1.0,2017-2018,7f203b54,Levante,"2,017",22.4,7.0,1.0,61.0,1.0,,Levante
+,Antonio Luna,es ESP,DF,23,22,2.0,0.0,2017-2018,d239245,Levante,"2,021",22.5,5.0,0.0,61.0,1.0,,Levante
+,Jason,es ESP,"MF,FW",27,22,2.0,1.0,2017-2018,9038c2a1,Levante,"1,786",19.8,2.0,0.0,61.0,1.0,,Levante
+,Rober,es ESP,"DF,MF",25,19,0.0,0.0,2017-2018,c00097d2,Levante,"1,909",21.2,4.0,0.0,61.0,1.0,,Levante
+,Pedro López Muñoz,es ESP,DF,21,18,0.0,0.0,2017-2018,60823a4,Levante,"1,594",17.7,4.0,0.0,61.0,1.0,,Levante
+,Ivi,es ESP,"MF,FW",29,17,3.0,4.0,2017-2018,d2fa73e7,Levante,"1,762",19.6,3.0,0.0,61.0,1.0,,Levante
+,Enis Bardhi,mk MKD,MF,26,16,1.0,9.0,2017-2018,cac2537b,Levante,"1,580",17.6,8.0,0.0,61.0,81.0,4181.0,Levante
+,Coke,es ESP,DF,17,16,0.0,3.0,2017-2018,6d8f8441,Levante,"1,383",15.4,5.0,1.0,61.0,1.0,,Levante
+,Toño,es ESP,DF,12,12,1.0,0.0,2017-2018,d4ef9ac5,Levante,"1,080",12.0,2.0,0.0,61.0,1.0,,Levante
+,Erick Cabaco,uy URU,DF,14,12,0.0,0.0,2017-2018,7ab4179,Levante,"1,040",11.6,5.0,0.0,61.0,8.0,,Levante
+,Cheick Doukouré,ci CIV,MF,19,12,0.0,1.0,2017-2018,208bcc8,Levante,"1,022",11.4,4.0,0.0,61.0,35.0,4182.0,Levante
+,Saša Lukić,rs SRB,MF,16,12,1.0,0.0,2017-2018,c6e8cf1f,Levante,994,11.0,4.0,0.0,61.0,28.0,4183.0,Levante
+,Raúl Fernández,es ESP,GK,11,11,0.0,0.0,2017-2018,6fb59070,Levante,990,11.0,0.0,0.0,61.0,1.0,,Levante
+,Emmanuel Boateng,gh GHA,FW,25,10,0.0,6.0,2017-2018,2e23c66b,Levante,"1,276",14.2,5.0,0.0,61.0,17.0,4184.0,Levante
+,Roger Martí,es ESP,FW,17,10,2.0,3.0,2017-2018,0ae4e09a,Levante,963,10.7,4.0,0.0,61.0,1.0,,Levante
+,Álex Alegría,es ESP,FW,9,8,0.0,0.0,2017-2018,46166b49,Levante,628,7.0,1.0,0.0,61.0,1.0,,Levante
+,Enes Ünal,tr TUR,FW,7,7,1.0,1.0,2017-2018,f8eca1b6,Levante,596,6.6,0.0,0.0,61.0,15.0,,Levante
+,Giampaolo Pazzini,it ITA,FW,9,5,0.0,1.0,2017-2018,6ca663b4,Levante,445,4.9,1.0,0.0,61.0,9.0,4185.0,Levante
+,Shaquell Moore,us USA,DF,6,5,0.0,0.0,2017-2018,3b9f859b,Levante,424,4.7,0.0,0.0,61.0,75.0,4186.0,Levante
+,Armando Sadiku,al ALB,FW,6,4,0.0,0.0,2017-2018,8b6d1830,Levante,267,3.0,1.0,0.0,61.0,78.0,,Levante
+,Iván López,es ESP,DF,3,3,1.0,0.0,2017-2018,576575e5,Levante,173,1.9,0.0,0.0,61.0,1.0,,Levante
+,Nano,es ESP,"FW,MF",9,2,0.0,0.0,2017-2018,217011a0,Levante,279,3.1,2.0,0.0,61.0,1.0,,Levante
+,Samu García,es ESP,"MF,FW",11,2,0.0,0.0,2017-2018,5f7db81a,Levante,191,2.1,1.0,0.0,61.0,1.0,,Levante
+,Rubén Rochina,es ESP,"MF,DF",5,1,0.0,1.0,2017-2018,cd8c01e,Levante,151,1.7,0.0,1.0,61.0,1.0,,Levante
+,Koke Vegas,es ESP,GK,1,1,0.0,0.0,2017-2018,bfb15d99,Levante,90,1.0,0.0,1.0,61.0,1.0,,Levante
+,Hacen,mr MTN,MF,2,1,0.0,0.0,2017-2018,7c689c48,Levante,81,0.9,0.0,0.0,61.0,94.0,,Levante
+,Aly Abeid,mr MTN,DF,1,1,0.0,0.0,2017-2018,bbe88396,Levante,77,0.9,0.0,0.0,61.0,94.0,4187.0,Levante
+,Fahad Al Muwallad,sa KSA,MF,2,0,0.0,0.0,2017-2018,23f32ea1,Levante,27,0.3,0.0,0.0,61.0,95.0,4188.0,Levante
+,Mitchell Langerak,au AUS,GK,0,0,,,2017-2018,d2a184cc,Levante,,,,,61.0,42.0,4189.0,Levante
+,Verza,es ESP,MF,0,0,,,2017-2018,f972b073,Levante,,,,,61.0,1.0,,Levante
+,Iván Villar,es ESP,GK,0,0,,,2017-2018,cde52ef5,Levante,,,,,61.0,1.0,,Levante
+,﻿José Campaña,es ESP,MF,36,36,9.0,4.0,2018-2019,61220da2,Levante,"3,210",35.7,11.0,0.0,61.0,1.0,,Levante
+,José Luis Morales,es ESP,"FW,MF",37,35,5.0,12.0,2018-2019,4a478107,Levante,"3,195",35.5,7.0,0.0,61.0,1.0,4166.0,Levante
+,Rober,es ESP,DF,33,32,0.0,1.0,2018-2019,c00097d2,Levante,"2,854",31.7,6.0,0.0,61.0,1.0,,Levante
+,Enis Bardhi,mk MKD,MF,36,31,4.0,3.0,2018-2019,cac2537b,Levante,"2,836",31.5,6.0,0.0,61.0,81.0,4181.0,Levante
+,Jason,es ESP,"DF,FW",30,26,5.0,2.0,2018-2019,9038c2a1,Levante,"2,330",25.9,10.0,0.0,61.0,1.0,,Levante
+,Roger Martí,es ESP,FW,31,23,0.0,13.0,2018-2019,0ae4e09a,Levante,"1,887",21.0,5.0,0.0,61.0,1.0,,Levante
+,Rubén Rochina,es ESP,MF,27,23,5.0,4.0,2018-2019,cd8c01e,Levante,"1,800",20.0,13.0,2.0,61.0,1.0,,Levante
+,Oier Olazábal,es ESP,GK,21,21,0.0,0.0,2018-2019,b5bdf144,Levante,"1,890",21.0,1.0,0.0,61.0,1.0,,Levante
+,Toño,es ESP,"DF,FW",21,21,2.0,1.0,2018-2019,d4ef9ac5,Levante,"1,763",19.6,4.0,0.0,61.0,1.0,,Levante
+,Erick Cabaco,uy URU,DF,21,20,0.0,2.0,2018-2019,7ab4179,Levante,"1,632",18.1,11.0,2.0,61.0,8.0,,Levante
+,Coke,es ESP,DF,27,19,0.0,4.0,2018-2019,6d8f8441,Levante,"1,817",20.2,5.0,1.0,61.0,1.0,,Levante
+,Sergio Postigo,es ESP,DF,21,17,1.0,1.0,2018-2019,474ecac8,Levante,"1,449",16.1,4.0,1.0,61.0,1.0,4177.0,Levante
+,Borja Mayoral,es ESP,FW,29,16,2.0,3.0,2018-2019,64e8ed6d,Levante,"1,621",18.0,1.0,0.0,61.0,1.0,128.0,Levante
+,Aitor Fernández,es ESP,GK,16,16,0.0,0.0,2018-2019,01c3d54,Levante,"1,440",16.0,0.0,0.0,61.0,1.0,,Levante
+,Rúben Vezo,pt POR,DF,15,15,1.0,2.0,2018-2019,c67cd65c,Levante,"1,339",14.9,4.0,0.0,61.0,3.0,,Levante
+,Antonio Luna,es ESP,"DF,FW",16,14,2.0,0.0,2018-2019,d239245,Levante,"1,258",14.0,4.0,0.0,61.0,1.0,,Levante
+,Chema,es ESP,DF,19,13,0.0,2.0,2018-2019,7f203b54,Levante,"1,254",13.9,7.0,0.0,61.0,1.0,,Levante
+,Nikola Vukčević,me MNE,MF,16,9,0.0,0.0,2018-2019,4442fbcd,Levante,670,7.4,5.0,1.0,61.0,33.0,4190.0,Levante
+,Moses Simon,ng NGA,"DF,MF",19,8,1.0,1.0,2018-2019,5f3eaaf5,Levante,785,8.7,1.0,0.0,61.0,52.0,4191.0,Levante
+,Emmanuel Boateng,gh GHA,FW,16,7,0.0,1.0,2018-2019,2e23c66b,Levante,699,7.8,2.0,0.0,61.0,17.0,4184.0,Levante
+,Sanjin Prcić,ba BIH,MF,10,6,0.0,0.0,2018-2019,51c30111,Levante,532,5.9,3.0,0.0,61.0,49.0,4192.0,Levante
+,Pedro López Muñoz,es ESP,DF,8,4,1.0,0.0,2018-2019,60823a4,Levante,465,5.2,1.0,0.0,61.0,1.0,,Levante
+,Cheick Doukouré,ci CIV,MF,9,3,0.0,0.0,2018-2019,208bcc8,Levante,318,3.5,1.0,0.0,61.0,35.0,4182.0,Levante
+,Raphael Dwamena,gh GHA,FW,12,1,1.0,0.0,2018-2019,525f9bf4,Levante,222,2.5,0.0,0.0,61.0,17.0,,Levante
+,Fran Manzanara,es ESP,"DF,MF",4,1,0.0,0.0,2018-2019,bbfaeda4,Levante,157,1.7,0.0,0.0,61.0,1.0,4193.0,Levante
+,Koke Vegas,es ESP,GK,1,1,0.0,0.0,2018-2019,bfb15d99,Levante,90,1.0,0.0,0.0,61.0,1.0,,Levante
+,Arturo Molina,es ESP,MF,0,0,,,2018-2019,14a82e0e,Levante,,,,,61.0,1.0,,Levante
+,Shaquell Moore,us USA,"DF,MF",0,0,,,2018-2019,3b9f859b,Levante,,,,,61.0,75.0,4186.0,Levante
+,José Luis García Vayá,es ESP,MF,0,0,,,2018-2019,27dc1378,Levante,,,,,61.0,1.0,4176.0,Levante
+,﻿Aitor Fernández,es ESP,GK,36,36,0.0,0.0,2019-2020,01c3d54,Levante,"3,240",36.0,2.0,0.0,61.0,1.0,,Levante
+,José Campaña,es ESP,MF,37,35,7.0,2.0,2019-2020,61220da2,Levante,"3,156",35.1,4.0,1.0,61.0,1.0,,Levante
+,Rúben Vezo,pt POR,DF,29,29,0.0,1.0,2019-2020,c67cd65c,Levante,"2,610",29.0,4.0,0.0,61.0,3.0,,Levante
+,José Luis Morales,es ESP,"FW,MF",38,29,2.0,4.0,2019-2020,4a478107,Levante,"2,519",28.0,3.0,0.0,61.0,1.0,4166.0,Levante
+,Jorge Miramón,es ESP,DF,32,27,3.0,0.0,2019-2020,7f4c7c9f,Levante,"2,432",27.0,4.0,1.0,61.0,1.0,4194.0,Levante
+,Sergio Postigo,es ESP,DF,28,27,1.0,1.0,2019-2020,474ecac8,Levante,"2,374",26.4,6.0,0.0,61.0,1.0,4177.0,Levante
+,Roger Martí,es ESP,FW,36,26,1.0,11.0,2019-2020,0ae4e09a,Levante,"2,267",25.2,6.0,1.0,61.0,1.0,,Levante
+,Borja Mayoral,es ESP,FW,34,24,2.0,8.0,2019-2020,64e8ed6d,Levante,"2,140",23.8,2.0,0.0,61.0,1.0,128.0,Levante
+,Enis Bardhi,mk MKD,MF,30,23,2.0,7.0,2019-2020,cac2537b,Levante,"2,114",23.5,5.0,0.0,61.0,81.0,4181.0,Levante
+,Nemanja Radoja,rs SRB,MF,26,22,0.0,1.0,2019-2020,b5dd3469,Levante,"1,993",22.1,3.0,0.0,61.0,28.0,,Levante
+,Rubén Rochina,es ESP,MF,28,22,3.0,4.0,2019-2020,cd8c01e,Levante,"1,875",20.8,5.0,0.0,61.0,1.0,,Levante
+,Carlos Clerc,es ESP,DF,23,20,2.0,0.0,2019-2020,33a61a52,Levante,"1,848",20.5,4.0,0.0,61.0,1.0,,Levante
+,Nikola Vukčević,me MNE,MF,30,20,2.0,0.0,2019-2020,4442fbcd,Levante,"1,569",17.4,11.0,0.0,61.0,33.0,4190.0,Levante
+,Toño,es ESP,DF,20,18,2.0,0.0,2019-2020,d4ef9ac5,Levante,"1,589",17.7,2.0,0.0,61.0,1.0,,Levante
+,Gonzalo Melero,es ESP,MF,25,14,1.0,2.0,2019-2020,3902e91b,Levante,"1,236",13.7,4.0,0.0,61.0,1.0,4204.0,Levante
+,Coke,es ESP,DF,17,11,0.0,1.0,2019-2020,6d8f8441,Levante,989,11.0,3.0,0.0,61.0,1.0,,Levante
+,Erick Cabaco,uy URU,DF,11,9,0.0,0.0,2019-2020,7ab4179,Levante,809,9.0,4.0,0.0,61.0,8.0,,Levante
+,Sergio León,es ESP,FW,22,6,0.0,1.0,2019-2020,0a0cc13c,Levante,672,7.5,2.0,0.0,61.0,1.0,,Levante
+,Hernâni Fortes,pt POR,"MF,FW",20,5,0.0,2.0,2019-2020,2327c29e,Levante,654,7.3,3.0,1.0,61.0,3.0,4195.0,Levante
+,Óscar Duarte,cr CRC,DF,8,5,0.0,0.0,2019-2020,0ac32d,Levante,485,5.4,0.0,0.0,61.0,22.0,,Levante
+,Bruno González,es ESP,DF,6,5,0.0,0.0,2019-2020,f11fe861,Levante,456,5.1,0.0,0.0,61.0,1.0,,Levante
+,Rober,es ESP,DF,4,2,0.0,0.0,2019-2020,c00097d2,Levante,191,2.1,0.0,0.0,61.0,1.0,,Levante
+,Koke Vegas,es ESP,GK,2,2,0.0,0.0,2019-2020,bfb15d99,Levante,180,2.0,0.0,0.0,61.0,1.0,,Levante
+,Eliseo Falcon,es ESP,DF,1,1,0.0,0.0,2019-2020,904cd50d,Levante,73,0.8,2.0,1.0,61.0,1.0,4196.0,Levante
+,Pablo Martínez,es ESP,MF,5,0,0.0,0.0,2019-2020,cc77652,Levante,33,0.4,0.0,0.0,61.0,1.0,4197.0,Levante
+,Gonzalo,es ESP,DF,1,0,0.0,0.0,2019-2020,cca05da8,Levante,13,0.1,0.0,0.0,61.0,1.0,4198.0,Levante
+,Joan Monterde,es ESP,MF,1,0,0.0,0.0,2019-2020,0ff67313,Levante,9,0.1,0.0,0.0,61.0,1.0,4199.0,Levante
+,Alejandro Blesa,es ESP,MF,1,0,0.0,0.0,2019-2020,d2ed99b4,Levante,2,0.0,0.0,0.0,61.0,1.0,4200.0,Levante
+,Giorgi Kochorashvili,ge GEO,MF,1,0,0.0,0.0,2019-2020,3da1b6ed,Levante,2,0.0,0.0,0.0,61.0,76.0,4201.0,Levante
+,Cárdenas,es ESP,GK,0,0,,,2019-2020,1846dde,Levante,,,,,61.0,1.0,4202.0,Levante
+,Rubén García,es ESP,DF,0,0,,,2019-2020,c01826cb,Levante,,,,,61.0,1.0,4203.0,Levante
+,Oier Olazábal,es ESP,GK,0,0,,,2019-2020,b5bdf144,Levante,,,,,61.0,1.0,,Levante
+,﻿Carlos Clerc,es ESP,DF,35,30,3.0,0.0,2020-2021,33a61a52,Levante,"2,781",30.9,5.0,0.0,61.0,1.0,,Levante
+,José Luis Morales,es ESP,"MF,FW",38,30,3.0,13.0,2020-2021,4a478107,Levante,"2,439",27.1,3.0,0.0,61.0,1.0,4166.0,Levante
+,Aitor Fernández,es ESP,GK,29,29,0.0,0.0,2020-2021,01c3d54,Levante,"2,610",29.0,0.0,0.0,61.0,1.0,,Levante
+,Roger Martí,es ESP,FW,33,26,4.0,12.0,2020-2021,0ae4e09a,Levante,"2,198",24.4,4.0,0.0,61.0,1.0,,Levante
+,Mickael Malsa,mq MTQ,MF,35,25,0.0,1.0,2020-2021,bbc19252,Levante,"2,338",26.0,5.0,0.0,61.0,104.0,,Levante
+,Rúben Vezo,pt POR,DF,32,25,0.0,1.0,2020-2021,c67cd65c,Levante,"2,316",25.7,7.0,0.0,61.0,3.0,,Levante
+,Óscar Duarte,cr CRC,DF,29,23,0.0,1.0,2020-2021,0ac32d,Levante,"2,060",22.9,2.0,0.0,61.0,22.0,,Levante
+,Jorge de Frutos,es ESP,MF,37,22,9.0,4.0,2020-2021,38ce1150,Levante,"2,186",24.3,3.0,0.0,61.0,1.0,,Levante
+,Gonzalo Melero,es ESP,"MF,FW",29,21,1.0,7.0,2020-2021,3902e91b,Levante,"1,853",20.6,4.0,0.0,61.0,1.0,4204.0,Levante
+,Jorge Miramón,es ESP,DF,26,19,3.0,0.0,2020-2021,7f4c7c9f,Levante,"1,732",19.2,1.0,0.0,61.0,1.0,4194.0,Levante
+,Enis Bardhi,mk MKD,MF,26,19,2.0,1.0,2020-2021,cac2537b,Levante,"1,682",18.7,4.0,0.0,61.0,81.0,4181.0,Levante
+,Sergio Postigo,es ESP,DF,22,19,0.0,0.0,2020-2021,474ecac8,Levante,"1,623",18.0,4.0,0.0,61.0,1.0,4177.0,Levante
+,Dani Gómez,es ESP,FW,34,17,2.0,2.0,2020-2021,0e5ddc7c,Levante,"1,666",18.5,3.0,0.0,61.0,1.0,4205.0,Levante
+,Rubén Rochina,es ESP,MF,25,17,1.0,0.0,2020-2021,cd8c01e,Levante,"1,404",15.6,5.0,0.0,61.0,1.0,,Levante
+,Rober,es ESP,"DF,MF",19,16,1.0,0.0,2020-2021,c00097d2,Levante,"1,425",15.8,3.0,1.0,61.0,1.0,,Levante
+,Nemanja Radoja,rs SRB,MF,21,13,2.0,0.0,2020-2021,b5dd3469,Levante,"1,121",12.5,1.0,0.0,61.0,28.0,,Levante
+,Coke,es ESP,DF,17,11,0.0,0.0,2020-2021,6d8f8441,Levante,835,9.3,1.0,0.0,61.0,1.0,,Levante
+,Nikola Vukčević,me MNE,MF,13,11,0.0,0.0,2020-2021,4442fbcd,Levante,810,9.0,4.0,0.0,61.0,33.0,4190.0,Levante
+,Son,es ESP,"DF,MF",28,10,0.0,0.0,2020-2021,037dbd30,Levante,"1,106",12.3,3.0,0.0,61.0,1.0,4180.0,Levante
+,Toño,es ESP,"DF,FW",12,9,2.0,0.0,2020-2021,d4ef9ac5,Levante,726,8.1,2.0,0.0,61.0,1.0,,Levante
+,José Campaña,es ESP,MF,9,8,2.0,1.0,2020-2021,61220da2,Levante,748,8.3,0.0,0.0,61.0,1.0,,Levante
+,Cárdenas,es ESP,GK,8,8,0.0,0.0,2020-2021,1846dde,Levante,720,8.0,1.0,0.0,61.0,1.0,4202.0,Levante
+,Sergio León,es ESP,FW,28,6,0.0,2.0,2020-2021,0a0cc13c,Levante,748,8.3,0.0,0.0,61.0,1.0,,Levante
+,Álex Cantero,es ESP,FW,4,3,0.0,0.0,2020-2021,4aa253fd,Levante,237,2.6,1.0,0.0,61.0,1.0,4206.0,Levante
+,Koke Vegas,es ESP,GK,1,1,0.0,0.0,2020-2021,bfb15d99,Levante,90,1.0,1.0,0.0,61.0,1.0,,Levante
+,Cheick Doukouré,ci CIV,"MF,FW",7,0,0.0,0.0,2020-2021,208bcc8,Levante,101,1.1,1.0,0.0,61.0,35.0,4182.0,Levante
+,Giorgi Kochorashvili,ge GEO,MF,3,0,0.0,0.0,2020-2021,3da1b6ed,Levante,23,0.3,0.0,0.0,61.0,76.0,4201.0,Levante
+,Alejandro Blesa,es ESP,MF,1,0,0.0,0.0,2020-2021,d2ed99b4,Levante,11,0.1,0.0,0.0,61.0,1.0,4200.0,Levante
+,Edgar Sevikyan,ru RUS,MF,1,0,0.0,0.0,2020-2021,3e8bb8ce,Levante,8,0.1,0.0,0.0,61.0,23.0,4207.0,Levante
+,Pablo Cuñat,es ESP,GK,0,0,,,2020-2021,9ab3b32,Levante,,,,,61.0,1.0,4208.0,Levante
+,Euse,es ESP,DF,0,0,,,2020-2021,4aab1808,Levante,,,,,61.0,1.0,4209.0,Levante
+,Hernâni Fortes,pt POR,"FW,MF",0,0,,,2020-2021,2327c29e,Levante,,,,,61.0,3.0,4195.0,Levante
+,Pablo Martínez,es ESP,MF,0,0,,,2020-2021,cc77652,Levante,,,,,61.0,1.0,4197.0,Levante
+,Alfredo Pedraza,es ESP,DF,0,0,,,2020-2021,7e9fa139,Levante,,,,,61.0,1.0,4210.0,Levante
+,﻿José Luis Morales,es ESP,"FW,MF",35,31,7.0,13.0,2021-2022,4a478107,Levante,"2,719",30.2,7.0,0.0,61.0,1.0,4166.0,Levante
+,Rúben Vezo,pt POR,DF,32,27,0.0,0.0,2021-2022,c67cd65c,Levante,"2,420",26.9,4.0,0.0,61.0,3.0,,Levante
+,Roger Martí,es ESP,FW,29,25,3.0,7.0,2021-2022,0ae4e09a,Levante,"2,115",23.5,8.0,0.0,61.0,1.0,,Levante
+,Cárdenas,es ESP,GK,24,24,0.0,0.0,2021-2022,1846dde,Levante,"2,160",24.0,3.0,0.0,61.0,1.0,4202.0,Levante
+,José Luis García Vayá,es ESP,MF,29,23,0.0,0.0,2021-2022,27dc1378,Levante,"2,012",22.4,9.0,0.0,61.0,1.0,4176.0,Levante
+,Jorge Miramón,es ESP,DF,29,22,0.0,1.0,2021-2022,7f4c7c9f,Levante,"1,977",22.0,5.0,0.0,61.0,1.0,4194.0,Levante
+,Son,es ESP,"DF,MF",26,22,0.0,1.0,2021-2022,037dbd30,Levante,"1,971",21.9,5.0,1.0,61.0,1.0,4180.0,Levante
+,Rober,es ESP,DF,27,21,0.0,1.0,2021-2022,c00097d2,Levante,"2,010",22.3,5.0,1.0,61.0,1.0,,Levante
+,Óscar Duarte,cr CRC,DF,23,20,0.0,2.0,2021-2022,0ac32d,Levante,"1,773",19.7,5.0,0.0,61.0,22.0,,Levante
+,Jorge de Frutos,es ESP,"MF,FW",25,20,7.0,4.0,2021-2022,38ce1150,Levante,"1,760",19.6,4.0,0.0,61.0,1.0,,Levante
+,Gonzalo Melero,es ESP,MF,29,20,2.0,7.0,2021-2022,3902e91b,Levante,"1,692",18.8,5.0,0.0,61.0,1.0,4204.0,Levante
+,Carlos Clerc,es ESP,DF,19,18,0.0,0.0,2021-2022,33a61a52,Levante,"1,514",16.8,6.0,0.0,61.0,1.0,,Levante
+,Enis Bardhi,mk MKD,"MF,FW",30,17,3.0,3.0,2021-2022,cac2537b,Levante,"1,701",18.9,3.0,0.0,61.0,81.0,4181.0,Levante
+,Nemanja Radoja,rs SRB,MF,19,17,0.0,0.0,2021-2022,b5dd3469,Levante,"1,214",13.5,3.0,0.0,61.0,28.0,,Levante
+,José Campaña,es ESP,MF,20,16,2.0,2.0,2021-2022,61220da2,Levante,"1,422",15.8,6.0,1.0,61.0,1.0,,Levante
+,Aitor Fernández,es ESP,GK,13,13,0.0,0.0,2021-2022,01c3d54,Levante,"1,166",13.0,1.0,1.0,61.0,1.0,,Levante
+,Mickael Malsa,mq MTQ,MF,26,11,2.0,1.0,2021-2022,bbc19252,Levante,"1,143",12.7,7.0,0.0,61.0,104.0,,Levante
+,Dani Gómez,es ESP,FW,28,11,2.0,4.0,2021-2022,0e5ddc7c,Levante,"1,063",11.8,1.0,0.0,61.0,1.0,4205.0,Levante
+,Sergio Postigo,es ESP,DF,13,10,0.0,0.0,2021-2022,474ecac8,Levante,848,9.4,3.0,0.0,61.0,1.0,4177.0,Levante
+,Martín Cáceres,uy URU,DF,10,9,0.0,0.0,2021-2022,94d79e3,Levante,663,7.4,2.0,0.0,61.0,8.0,,Levante
+,Shkodran Mustafi,de GER,DF,11,8,0.0,1.0,2021-2022,3f2d59fe,Levante,658,7.3,1.0,0.0,61.0,13.0,,Levante
+,Roberto Soldado,es ESP,FW,18,7,2.0,3.0,2021-2022,9d66fbe3,Levante,664,7.4,7.0,2.0,61.0,1.0,46.0,Levante
+,Pablo Martínez,es ESP,MF,13,7,1.0,0.0,2021-2022,cc77652,Levante,656,7.3,2.0,0.0,61.0,1.0,4197.0,Levante
+,Enric Franquesa,es ESP,"DF,FW",16,6,0.0,0.0,2021-2022,40883e3a,Levante,625,6.9,1.0,0.0,61.0,1.0,4211.0,Levante
+,Pubill,es ESP,"DF,MF",11,5,1.0,0.0,2021-2022,365113c0,Levante,512,5.7,1.0,0.0,61.0,1.0,4212.0,Levante
+,Álex Cantero,es ESP,"FW,MF",25,4,1.0,0.0,2021-2022,4aa253fd,Levante,610,6.8,1.0,0.0,61.0,1.0,4206.0,Levante
+,Marcelo Saracchi,uy URU,DF,4,2,1.0,0.0,2021-2022,1c96ad85,Levante,186,2.1,2.0,0.0,61.0,8.0,4213.0,Levante
+,Coke,es ESP,DF,6,1,0.0,1.0,2021-2022,6d8f8441,Levante,118,1.3,1.0,0.0,61.0,1.0,,Levante
+,Alejandro Primo,es ESP,GK,1,1,0.0,0.0,2021-2022,f38284bb,Levante,90,1.0,0.0,0.0,61.0,1.0,4214.0,Levante
+,Nikola Vukčević,me MNE,MF,6,0,0.0,0.0,2021-2022,4442fbcd,Levante,118,1.3,1.0,0.0,61.0,33.0,4190.0,Levante
+,Omar Faraj,se SWE,FW,1,0,0.0,0.0,2021-2022,de627c8a,Levante,4,0.0,0.0,0.0,61.0,41.0,4215.0,Levante
+,Carlos Benitez,es ESP,MF,0,0,,,2021-2022,594f4607,Levante,,,,,61.0,1.0,4216.0,Levante
+,Alejandro Blesa,es ESP,MF,0,0,,,2021-2022,d2ed99b4,Levante,,,,,61.0,1.0,4200.0,Levante
+,Pablo Cuñat,es ESP,GK,0,0,,,2021-2022,9ab3b32,Levante,,,,,61.0,1.0,4208.0,Levante
+,Hernâni Fortes,pt POR,"FW,MF",0,0,,,2021-2022,2327c29e,Levante,,,,,61.0,3.0,4195.0,Levante
+,Carlos Giménez,es ESP,DF,0,0,,,2021-2022,877a34f4,Levante,,,,,61.0,1.0,4217.0,Levante
+,Joseda,es ESP,DF,0,0,,,2021-2022,d989154a,Levante,,,,,61.0,1.0,4218.0,Levante
+,Giorgi Kochorashvili,ge GEO,MF,0,0,,,2021-2022,3da1b6ed,Levante,,,,,61.0,76.0,4201.0,Levante
+,Antonio Leal,es ESP,DF,0,0,,,2021-2022,2462ec90,Levante,,,,,61.0,1.0,4219.0,Levante
+,José Manuel,es ESP,DF,0,0,,,2021-2022,27581509,Levante,,,,,61.0,1.0,4220.0,Levante
+,Pablo Picón,es ESP,GK,0,0,,,2021-2022,03efb75e,Levante,,,,,61.0,1.0,4221.0,Levante
+,Koke Vegas,es ESP,GK,0,0,,,2021-2022,bfb15d99,Levante,,,,,61.0,1.0,,Levante

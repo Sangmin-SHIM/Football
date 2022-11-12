@@ -1,0 +1,535 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Sebastián Corona,es ESP,DF,39,39,0.0,2.0,2002-2003,d2aedc78,Tenerife,"3,428",38.1,12.0,1.0,67.0,1.0,,Tenerife
+,José Luis Martí,es ESP,MF,39,38,1.0,2.0,2002-2003,111c668a,Tenerife,"3,345",37.2,11.0,0.0,67.0,1.0,,Tenerife
+,Veljko Paunović,es ESP,"FW,MF",38,38,5.0,18.0,2002-2003,7d0ae66f,Tenerife,"3,287",36.5,10.0,1.0,67.0,1.0,,Tenerife
+,Edu Moya,es ESP,"DF,MF",33,31,0.0,0.0,2002-2003,7da62f29,Tenerife,"2,792",31.0,9.0,2.0,67.0,1.0,,Tenerife
+,Ayoze Díaz Díaz,es ESP,"DF,MF",35,30,4.0,0.0,2002-2003,b7209bcc,Tenerife,"2,666",29.6,2.0,0.0,67.0,1.0,,Tenerife
+,Alexis,es ESP,DF,27,27,2.0,2.0,2002-2003,b9efd503,Tenerife,"2,361",26.2,9.0,0.0,67.0,1.0,,Tenerife
+,Jesús Vázquez,es ESP,MF,31,25,0.0,2.0,2002-2003,96b3239f,Tenerife,"2,112",23.5,7.0,0.0,67.0,1.0,,Tenerife
+,Joaquín Valerio,es ESP,GK,24,24,0.0,0.0,2002-2003,5969d90a,Tenerife,"2,104",23.4,2.0,0.0,67.0,1.0,,Tenerife
+,Dani González,es ESP,FW,32,21,5.0,0.0,2002-2003,3f5737da,Tenerife,"2,071",23.0,4.0,1.0,67.0,1.0,4801.0,Tenerife
+,Sergio Aragoneses,es ESP,GK,20,18,0.0,0.0,2002-2003,8e8258f5,Tenerife,"1,676",18.6,1.0,0.0,67.0,1.0,,Tenerife
+,David Charcos,es ESP,DF,16,16,0.0,0.0,2002-2003,29deaf09,Tenerife,"1,307",14.5,4.0,0.0,67.0,1.0,4802.0,Tenerife
+,Kiko Torres,es ESP,MF,17,16,1.0,4.0,2002-2003,0ccd43c7,Tenerife,"1,293",14.4,2.0,0.0,67.0,1.0,4803.0,Tenerife
+,Barata,br BRA,FW,25,16,1.0,5.0,2002-2003,5aa0f390,Tenerife,"1,238",13.8,0.0,0.0,67.0,2.0,4804.0,Tenerife
+,Iván Ania,es ESP,MF,23,15,2.0,3.0,2002-2003,12d37503,Tenerife,"1,292",14.4,5.0,0.0,67.0,1.0,,Tenerife
+,Kiko Ratón,es ESP,FW,36,14,2.0,6.0,2002-2003,1b4d461e,Tenerife,"1,720",19.1,0.0,0.0,67.0,1.0,4805.0,Tenerife
+,Iker Garai,es ESP,DF,15,12,0.0,0.0,2002-2003,7c2468da,Tenerife,"1,123",12.5,6.0,0.0,67.0,1.0,4806.0,Tenerife
+,Federico Basavilbaso,ar ARG,MF,12,12,0.0,1.0,2002-2003,1349b36f,Tenerife,"1,036",11.5,2.0,0.0,67.0,5.0,4807.0,Tenerife
+,Bino,pt POR,MF,20,11,0.0,0.0,2002-2003,8842b3a3,Tenerife,"1,101",12.2,3.0,0.0,67.0,3.0,4808.0,Tenerife
+,Óscar Álvarez,es ESP,DF,13,11,1.0,0.0,2002-2003,d6b5c64f,Tenerife,"1,042",11.6,3.0,0.0,67.0,1.0,,Tenerife
+,Roberto Carlos,es ESP,DF,10,10,0.0,0.0,2002-2003,12e082d,Tenerife,855,9.5,1.0,0.0,67.0,1.0,4809.0,Tenerife
+,Antonio Hidalgo,es ESP,MF,9,8,2.0,1.0,2002-2003,b5b88d6c,Tenerife,725,8.1,2.0,0.0,67.0,1.0,,Tenerife
+,Bruno Marioni,ar ARG,FW,11,8,3.0,4.0,2002-2003,76123163,Tenerife,697,7.7,5.0,1.0,67.0,5.0,4810.0,Tenerife
+,Stefan Lexa,at AUT,MF,11,8,0.0,0.0,2002-2003,71dc2f6,Tenerife,689,7.7,3.0,0.0,67.0,24.0,4811.0,Tenerife
+,Jordi Ocaña Pérez,es ESP,MF,13,6,1.0,1.0,2002-2003,bf913242,Tenerife,626,7.0,0.0,0.0,67.0,1.0,4812.0,Tenerife
+,David Bermudo,es ESP,DF,7,4,0.0,0.0,2002-2003,1066df99,Tenerife,369,4.1,1.0,0.0,67.0,1.0,,Tenerife
+,Vitolo,es ESP,MF,2,2,0.0,0.0,2002-2003,0785296e,Tenerife,137,1.5,1.0,0.0,67.0,1.0,,Tenerife
+,Torres Jonathan,,,8,1,1.0,0.0,2002-2003,,Tenerife,177,2.0,0.0,0.0,67.0,,,Tenerife
+,Juan Willy,,,1,1,0.0,1.0,2002-2003,,Tenerife,90,1.0,0.0,0.0,67.0,,,Tenerife
+,Hugo Morales,ar ARG,MF,5,0,0.0,0.0,2002-2003,71a020e0,Tenerife,106,1.2,0.0,0.0,67.0,5.0,4813.0,Tenerife
+,﻿Jesús Vázquez,es ESP,MF,39,39,2.0,4.0,2003-2004,96b3239f,Tenerife,"3,497",38.9,10.0,1.0,67.0,1.0,,Tenerife
+,Sebastián Corona,es ESP,DF,38,38,0.0,1.0,2003-2004,d2aedc78,Tenerife,"3,419",38.0,15.0,1.0,67.0,1.0,,Tenerife
+,Iker Garai,es ESP,DF,35,35,0.0,0.0,2003-2004,7c2468da,Tenerife,"3,028",33.6,9.0,2.0,67.0,1.0,4806.0,Tenerife
+,Keko,es ESP,FW,39,32,2.0,18.0,2003-2004,f1abe4ef,Tenerife,"2,771",30.8,5.0,0.0,67.0,1.0,4814.0,Tenerife
+,Álvaro Iglesias,es ESP,GK,30,30,0.0,0.0,2003-2004,d325c894,Tenerife,"2,700",30.0,0.0,0.0,67.0,1.0,,Tenerife
+,Roberto Carlos,es ESP,DF,30,30,0.0,1.0,2003-2004,12e082d,Tenerife,"2,391",26.6,8.0,1.0,67.0,1.0,4809.0,Tenerife
+,Vitolo,es ESP,MF,31,27,0.0,0.0,2003-2004,0785296e,Tenerife,"2,393",26.6,14.0,1.0,67.0,1.0,,Tenerife
+,Miroslav Đukić,rs SRB,DF,27,27,0.0,0.0,2003-2004,3e76b49,Tenerife,"2,339",26.0,5.0,0.0,67.0,28.0,,Tenerife
+,Antonio Hidalgo,es ESP,MF,34,26,6.0,2.0,2003-2004,b5b88d6c,Tenerife,"2,355",26.2,9.0,0.0,67.0,1.0,,Tenerife
+,Martín Posse,ar ARG,FW,33,22,0.0,3.0,2003-2004,cec1d8dd,Tenerife,"2,118",23.5,6.0,1.0,67.0,5.0,,Tenerife
+,Raúl Martín,es ESP,MF,20,16,0.0,2.0,2003-2004,f81f6fc3,Tenerife,"1,468",16.3,3.0,0.0,67.0,1.0,,Tenerife
+,César,br BRA,DF,16,15,0.0,2.0,2003-2004,564915c8,Tenerife,"1,280",14.2,6.0,0.0,67.0,2.0,4815.0,Tenerife
+,Santana Ismael,,,16,15,0.0,0.0,2003-2004,,Tenerife,"1,270",14.1,4.0,1.0,67.0,,,Tenerife
+,Luís Andrade,pt POR,MF,22,14,0.0,0.0,2003-2004,5ec7ec27,Tenerife,"1,217",13.5,3.0,0.0,67.0,3.0,4816.0,Tenerife
+,Edu Moya,es ESP,"DF,MF",14,14,0.0,0.0,2003-2004,7da62f29,Tenerife,"1,174",13.0,5.0,2.0,67.0,1.0,,Tenerife
+,César La Paglia,ar ARG,MF,15,14,5.0,2.0,2003-2004,b5ab42e9,Tenerife,"1,145",12.7,3.0,0.0,67.0,5.0,4817.0,Tenerife
+,Robert Enke,de GER,GK,9,9,0.0,0.0,2003-2004,02692203,Tenerife,810,9.0,0.0,0.0,67.0,13.0,,Tenerife
+,Cristo,es ESP,FW,18,9,1.0,1.0,2003-2004,425213fe,Tenerife,746,8.3,4.0,0.0,67.0,1.0,4818.0,Tenerife
+,Aarón Darias,es ESP,"DF,MF",17,8,1.0,0.0,2003-2004,cf9dddb2,Tenerife,758,8.4,4.0,1.0,67.0,1.0,4819.0,Tenerife
+,Manolo Sánchez,es ESP,MF,14,6,2.0,0.0,2003-2004,b40c4904,Tenerife,651,7.2,2.0,0.0,67.0,1.0,,Tenerife
+,Barata,br BRA,FW,13,5,1.0,0.0,2003-2004,5aa0f390,Tenerife,531,5.9,1.0,0.0,67.0,2.0,4804.0,Tenerife
+,Kirian,es ESP,DF,5,5,0.0,0.0,2003-2004,5e73f877,Tenerife,427,4.7,4.0,0.0,67.0,1.0,4820.0,Tenerife
+,Kiko Ratón,es ESP,FW,27,4,1.0,3.0,2003-2004,1b4d461e,Tenerife,909,10.1,4.0,0.0,67.0,1.0,4805.0,Tenerife
+,Julio Hormiga,es ESP,MF,8,4,0.0,0.0,2003-2004,04c06bdd,Tenerife,387,4.3,2.0,0.0,67.0,1.0,4822.0,Tenerife
+,Torres Jonathan,,,6,4,0.0,0.0,2003-2004,,Tenerife,352,3.9,0.0,0.0,67.0,,,Tenerife
+,Juan Willy,,,8,4,0.0,0.0,2003-2004,,Tenerife,341,3.8,1.0,0.0,67.0,,,Tenerife
+,Garcia Airam,,,5,4,0.0,1.0,2003-2004,,Tenerife,316,3.5,2.0,0.0,67.0,,,Tenerife
+,Adolfo Baines,es ESP,GK,3,3,0.0,0.0,2003-2004,750ff6b0,Tenerife,270,3.0,0.0,0.0,67.0,1.0,4821.0,Tenerife
+,Ayoze García,es ESP,"DF,MF",4,2,0.0,0.0,2003-2004,94dfdc6,Tenerife,198,2.2,1.0,0.0,67.0,1.0,,Tenerife
+,Jose Rogerinho,,,2,1,0.0,0.0,2003-2004,,Tenerife,119,1.3,1.0,0.0,67.0,,,Tenerife
+,﻿Keko,es ESP,FW,37,35,2.0,10.0,2004-2005,f1abe4ef,Tenerife,"2,957",32.9,7.0,0.0,67.0,1.0,4814.0,Tenerife
+,Vitolo,es ESP,MF,35,35,2.0,1.0,2004-2005,0785296e,Tenerife,"2,823",31.4,16.0,0.0,67.0,1.0,,Tenerife
+,Daniel Fagiani,ar ARG,DF,35,34,2.0,2.0,2004-2005,7524ca1,Tenerife,"3,087",34.3,9.0,2.0,67.0,5.0,,Tenerife
+,Jesús Vázquez,es ESP,MF,36,33,0.0,4.0,2004-2005,96b3239f,Tenerife,"2,861",31.8,13.0,2.0,67.0,1.0,,Tenerife
+,César,br BRA,DF,35,31,0.0,0.0,2004-2005,564915c8,Tenerife,"2,670",29.7,13.0,2.0,67.0,2.0,4815.0,Tenerife
+,Edu Moya,es ESP,"DF,MF",32,30,1.0,1.0,2004-2005,7da62f29,Tenerife,"2,759",30.7,9.0,1.0,67.0,1.0,,Tenerife
+,Antonio Hidalgo,es ESP,MF,38,30,3.0,5.0,2004-2005,b5b88d6c,Tenerife,"2,578",28.6,9.0,1.0,67.0,1.0,,Tenerife
+,Sebastián Corona,es ESP,DF,29,27,0.0,1.0,2004-2005,d2aedc78,Tenerife,"2,371",26.3,16.0,1.0,67.0,1.0,,Tenerife
+,Cristo,es ESP,FW,33,27,3.0,7.0,2004-2005,425213fe,Tenerife,"2,185",24.3,2.0,0.0,67.0,1.0,4818.0,Tenerife
+,Marián Kelemen,sk SVK,GK,25,25,0.0,0.0,2004-2005,6f650bdb,Tenerife,"2,250",25.0,2.0,0.0,67.0,70.0,,Tenerife
+,Raúl Martín,es ESP,MF,33,21,2.0,2.0,2004-2005,f81f6fc3,Tenerife,"1,896",21.1,1.0,1.0,67.0,1.0,,Tenerife
+,Jaime Gavilán,es ESP,MF,30,19,5.0,3.0,2004-2005,95de0931,Tenerife,"1,966",21.8,6.0,0.0,67.0,1.0,,Tenerife
+,César La Paglia,ar ARG,MF,26,19,2.0,1.0,2004-2005,b5ab42e9,Tenerife,"1,539",17.1,7.0,1.0,67.0,5.0,4817.0,Tenerife
+,Óscar Álvarez,es ESP,DF,18,18,0.0,1.0,2004-2005,d6b5c64f,Tenerife,"1,396",15.5,6.0,0.0,67.0,1.0,,Tenerife
+,Álvaro Iglesias,es ESP,GK,16,16,0.0,0.0,2004-2005,d325c894,Tenerife,"1,440",16.0,1.0,0.0,67.0,1.0,,Tenerife
+,David Limones,,,31,14,1.0,3.0,2004-2005,,Tenerife,"1,411",15.7,4.0,0.0,67.0,,,Tenerife
+,Iker Garai,es ESP,DF,15,14,0.0,0.0,2004-2005,7c2468da,Tenerife,"1,262",14.0,3.0,0.0,67.0,1.0,4806.0,Tenerife
+,Kirian,es ESP,DF,19,13,1.0,0.0,2004-2005,5e73f877,Tenerife,"1,391",15.5,8.0,0.0,67.0,1.0,4820.0,Tenerife
+,David Bermudo,es ESP,DF,11,10,0.0,0.0,2004-2005,1066df99,Tenerife,782,8.7,1.0,0.0,67.0,1.0,,Tenerife
+,Kiko Ratón,es ESP,FW,18,4,0.0,1.0,2004-2005,1b4d461e,Tenerife,588,6.5,2.0,0.0,67.0,1.0,4805.0,Tenerife
+,Julio Hormiga,es ESP,MF,13,3,0.0,0.0,2004-2005,04c06bdd,Tenerife,448,5.0,2.0,0.0,67.0,1.0,4822.0,Tenerife
+,Mariano Bombarda,es ESP,FW,9,1,1.0,1.0,2004-2005,63fdb3bf,Tenerife,242,2.7,2.0,0.0,67.0,1.0,4823.0,Tenerife
+,Araujo Dmitri,,,3,1,0.0,0.0,2004-2005,,Tenerife,166,1.8,1.0,0.0,67.0,,,Tenerife
+,Héctor,es ESP,DF,2,1,0.0,0.0,2004-2005,27ef490c,Tenerife,93,1.0,0.0,0.0,67.0,1.0,4824.0,Tenerife
+,Adolfo Baines,es ESP,GK,1,1,0.0,0.0,2004-2005,750ff6b0,Tenerife,90,1.0,0.0,0.0,67.0,1.0,4821.0,Tenerife
+,Gonzalez Oscar,,,1,0,0.0,0.0,2004-2005,,Tenerife,84,0.9,0.0,0.0,67.0,,,Tenerife
+,﻿Jesús Vázquez,es ESP,MF,40,40,1.0,4.0,2005-2006,96b3239f,Tenerife,"3,510",39.0,12.0,0.0,67.0,1.0,,Tenerife
+,Cristian Álvarez,ar ARG,"DF,MF",40,37,8.0,11.0,2005-2006,c7c82f11,Tenerife,"3,150",35.0,6.0,0.0,67.0,5.0,,Tenerife
+,Javier Almirón,ar ARG,"DF,MF",34,33,0.0,0.0,2005-2006,8b8c57b7,Tenerife,"2,972",33.0,14.0,0.0,67.0,5.0,,Tenerife
+,Toni Moral,es ESP,MF,32,30,0.0,5.0,2005-2006,5c3bf3f9,Tenerife,"2,368",26.3,5.0,2.0,67.0,1.0,,Tenerife
+,Kirian,es ESP,DF,28,27,1.0,0.0,2005-2006,5e73f877,Tenerife,"2,305",25.6,8.0,2.0,67.0,1.0,4820.0,Tenerife
+,Daniel Fagiani,ar ARG,DF,26,26,5.0,1.0,2005-2006,7524ca1,Tenerife,"2,257",25.1,10.0,2.0,67.0,5.0,,Tenerife
+,César,br BRA,DF,27,26,0.0,3.0,2005-2006,564915c8,Tenerife,"2,125",23.6,13.0,4.0,67.0,2.0,4815.0,Tenerife
+,Toñito,es ESP,MF,35,24,5.0,7.0,2005-2006,c8e76c8e,Tenerife,"2,042",22.7,3.0,0.0,67.0,1.0,4825.0,Tenerife
+,Marián Kelemen,sk SVK,GK,22,22,0.0,0.0,2005-2006,6f650bdb,Tenerife,"1,969",21.9,1.0,0.0,67.0,70.0,,Tenerife
+,Cristo,es ESP,FW,37,21,2.0,7.0,2005-2006,425213fe,Tenerife,"2,020",22.4,8.0,0.0,67.0,1.0,4818.0,Tenerife
+,Maikel Hermann,es ESP,FW,27,21,2.0,9.0,2005-2006,5e71f560,Tenerife,"2,002",22.2,4.0,1.0,67.0,1.0,4826.0,Tenerife
+,Edu Moya,es ESP,"DF,MF",21,21,2.0,0.0,2005-2006,7da62f29,Tenerife,"1,890",21.0,7.0,0.0,67.0,1.0,,Tenerife
+,Bernardo Domínguez,es ESP,GK,21,20,0.0,0.0,2005-2006,15394beb,Tenerife,"1,811",20.1,1.0,0.0,67.0,1.0,,Tenerife
+,Ayoze García,es ESP,"DF,MF",27,18,2.0,2.0,2005-2006,94dfdc6,Tenerife,"1,656",18.4,7.0,0.0,67.0,1.0,,Tenerife
+,Cocito,br BRA,MF,22,16,0.0,0.0,2005-2006,852888f3,Tenerife,"1,398",15.5,7.0,2.0,67.0,2.0,4827.0,Tenerife
+,Ricardo León Brito,es ESP,MF,17,15,0.0,1.0,2005-2006,186c0d18,Tenerife,"1,353",15.0,6.0,1.0,67.0,1.0,,Tenerife
+,Frantz Bertin,ht HAI,"DF,MF",18,15,0.0,0.0,2005-2006,6708334a,Tenerife,"1,291",14.3,7.0,0.0,67.0,47.0,,Tenerife
+,Héctor,es ESP,DF,19,12,0.0,0.0,2005-2006,27ef490c,Tenerife,"1,328",14.8,5.0,0.0,67.0,1.0,4824.0,Tenerife
+,Gal Alberman,il ISR,MF,12,9,0.0,0.0,2005-2006,733ff014,Tenerife,798,8.9,4.0,0.0,67.0,45.0,4828.0,Tenerife
+,César La Paglia,ar ARG,MF,18,8,0.0,0.0,2005-2006,b5ab42e9,Tenerife,750,8.3,4.0,0.0,67.0,5.0,4817.0,Tenerife
+,Ángel Rodríguez,es ESP,FW,17,6,0.0,2.0,2005-2006,8cfc2f69,Tenerife,716,8.0,2.0,1.0,67.0,1.0,,Tenerife
+,William,br BRA,MF,15,5,0.0,0.0,2005-2006,8440e55f,Tenerife,498,5.5,0.0,0.0,67.0,2.0,4829.0,Tenerife
+,Roberto Carlos,es ESP,DF,6,5,0.0,0.0,2005-2006,12e082d,Tenerife,415,4.6,2.0,0.0,67.0,1.0,4809.0,Tenerife
+,Aarón Darias,es ESP,"DF,MF",6,3,0.0,0.0,2005-2006,cf9dddb2,Tenerife,224,2.5,3.0,0.0,67.0,1.0,4819.0,Tenerife
+,Tomi Correa,es ESP,FW,3,2,0.0,1.0,2005-2006,0d3cf025,Tenerife,149,1.7,0.0,0.0,67.0,1.0,4830.0,Tenerife
+,Julio Hormiga,es ESP,MF,6,0,1.0,0.0,2005-2006,04c06bdd,Tenerife,120,1.3,1.0,0.0,67.0,1.0,4822.0,Tenerife
+,João Paulo,pt POR,FW,6,0,0.0,0.0,2005-2006,41b0fef2,Tenerife,111,1.2,0.0,0.0,67.0,3.0,4831.0,Tenerife
+,﻿José Antonio Culebras,es ESP,DF,39,39,1.0,2.0,2006-2007,c8b270a2,Tenerife,"3,510",39.0,8.0,0.0,67.0,1.0,,Tenerife
+,Bernardo Domínguez,es ESP,GK,39,39,0.0,0.0,2006-2007,15394beb,Tenerife,"3,510",39.0,4.0,0.0,67.0,1.0,,Tenerife
+,Pablo Sicilia,es ESP,DF,38,37,0.0,2.0,2006-2007,56bdf1b5,Tenerife,"3,353",37.3,8.0,1.0,67.0,1.0,,Tenerife
+,Marc Bertrán,es ESP,DF,37,37,1.0,0.0,2006-2007,89a12cef,Tenerife,"3,218",35.8,8.0,2.0,67.0,1.0,,Tenerife
+,Ayoze García,es ESP,"DF,MF",39,36,5.0,9.0,2006-2007,94dfdc6,Tenerife,"3,155",35.1,10.0,2.0,67.0,1.0,,Tenerife
+,Rafael Clavero,es ESP,DF,33,31,0.0,0.0,2006-2007,1590d66a,Tenerife,"2,800",31.1,5.0,1.0,67.0,1.0,,Tenerife
+,Raúl Sánchez,es ESP,FW,33,29,3.0,8.0,2006-2007,5553259e,Tenerife,"2,451",27.2,10.0,0.0,67.0,1.0,,Tenerife
+,Óscar Pérez,es ESP,MF,30,28,4.0,1.0,2006-2007,4ae5f6a,Tenerife,"2,343",26.0,10.0,2.0,67.0,1.0,,Tenerife
+,Ricardo León Brito,es ESP,MF,30,28,4.0,0.0,2006-2007,186c0d18,Tenerife,"2,342",26.0,8.0,0.0,67.0,1.0,,Tenerife
+,Iriome González,es ESP,MF,20,20,2.0,4.0,2006-2007,6e19f4fb,Tenerife,"1,502",16.7,2.0,0.0,67.0,1.0,4832.0,Tenerife
+,Cristo,es ESP,FW,36,17,1.0,6.0,2006-2007,425213fe,Tenerife,"1,547",17.2,6.0,0.0,67.0,1.0,4818.0,Tenerife
+,Manolo Martínez,es ESP,"DF,MF",17,17,1.0,0.0,2006-2007,7b9876e4,Tenerife,"1,471",16.3,6.0,0.0,67.0,1.0,,Tenerife
+,Tomasz Frankowski,pl POL,FW,19,15,1.0,3.0,2006-2007,fc24429f,Tenerife,"1,211",13.5,1.0,0.0,67.0,14.0,4833.0,Tenerife
+,Luis Gil Torres,es ESP,FW,20,14,3.0,0.0,2006-2007,3541486a,Tenerife,963,10.7,6.0,0.0,67.0,1.0,,Tenerife
+,Héctor,es ESP,DF,13,11,0.0,0.0,2006-2007,27ef490c,Tenerife,"1,003",11.1,2.0,1.0,67.0,1.0,4824.0,Tenerife
+,Manuel Castiñeiras,es ESP,DF,13,10,0.0,0.0,2006-2007,fad67c40,Tenerife,901,10.0,1.0,0.0,67.0,1.0,4834.0,Tenerife
+,Ángel Rodríguez,es ESP,FW,29,8,1.0,6.0,2006-2007,8cfc2f69,Tenerife,"1,139",12.7,3.0,0.0,67.0,1.0,,Tenerife
+,Andrés San Martín,ar ARG,MF,12,8,0.0,0.0,2006-2007,d539c73d,Tenerife,803,8.9,6.0,0.0,67.0,5.0,4835.0,Tenerife
+,Juan Ramón García,es ESP,MF,14,7,0.0,0.0,2006-2007,f84b7c50,Tenerife,690,7.7,4.0,0.0,67.0,1.0,4848.0,Tenerife
+,Juvenal,gq EQG,MF,13,7,0.0,2.0,2006-2007,b26bf947,Tenerife,685,7.6,0.0,0.0,67.0,10.0,,Tenerife
+,Suso Santana,es ESP,"FW,MF",22,6,2.0,1.0,2006-2007,c78902c,Tenerife,849,9.4,9.0,0.0,67.0,1.0,4836.0,Tenerife
+,Sergio Torres,es ESP,MF,12,6,2.0,0.0,2006-2007,653c16c,Tenerife,614,6.8,1.0,0.0,67.0,1.0,4837.0,Tenerife
+,Manuel Blanco,es ESP,DF,7,5,0.0,1.0,2006-2007,3dadb16d,Tenerife,456,5.1,3.0,0.0,67.0,1.0,,Tenerife
+,Raúl Navas,es ESP,GK,3,3,0.0,0.0,2006-2007,7bb77368,Tenerife,270,3.0,0.0,0.0,67.0,1.0,,Tenerife
+,Julio Hormiga,es ESP,MF,8,1,0.0,1.0,2006-2007,04c06bdd,Tenerife,230,2.6,0.0,0.0,67.0,1.0,4822.0,Tenerife
+,Juan Ramón Ruano,es ESP,MF,4,1,0.0,0.0,2006-2007,fe3bdf87,Tenerife,170,1.9,0.0,0.0,67.0,1.0,4838.0,Tenerife
+,Omar Ramos,es ESP,"FW,MF",4,1,0.0,0.0,2006-2007,0657888a,Tenerife,98,1.1,0.0,0.0,67.0,1.0,,Tenerife
+,Tomi Correa,es ESP,FW,2,1,0.0,0.0,2006-2007,0d3cf025,Tenerife,63,0.7,1.0,0.0,67.0,1.0,4830.0,Tenerife
+,﻿Nino,es ESP,"FW,MF",40,40,4.0,18.0,2007-2008,03dc5b1f,Tenerife,"3,534",39.3,6.0,0.0,67.0,1.0,,Tenerife
+,Ayoze García,es ESP,"DF,MF",37,34,5.0,6.0,2007-2008,94dfdc6,Tenerife,"2,739",30.4,7.0,0.0,67.0,1.0,,Tenerife
+,Marc Bertrán,es ESP,DF,33,33,1.0,1.0,2007-2008,89a12cef,Tenerife,"2,885",32.1,9.0,1.0,67.0,1.0,,Tenerife
+,José Antonio Culebras,es ESP,DF,33,31,1.0,2.0,2007-2008,c8b270a2,Tenerife,"2,837",31.5,10.0,0.0,67.0,1.0,,Tenerife
+,Pablo Sicilia,es ESP,DF,32,31,0.0,2.0,2007-2008,56bdf1b5,Tenerife,"2,714",30.2,10.0,0.0,67.0,1.0,,Tenerife
+,Rafael Clavero,es ESP,DF,30,30,0.0,0.0,2007-2008,1590d66a,Tenerife,"2,512",27.9,7.0,0.0,67.0,1.0,,Tenerife
+,Juan Pablo Colinas,es ESP,GK,29,29,0.0,0.0,2007-2008,b2cab8f4,Tenerife,"2,562",28.5,0.0,1.0,67.0,1.0,,Tenerife
+,Manolo Martínez,es ESP,"DF,MF",30,29,2.0,1.0,2007-2008,7b9876e4,Tenerife,"2,453",27.3,12.0,1.0,67.0,1.0,,Tenerife
+,Juanma,es ESP,DF,29,27,1.0,0.0,2007-2008,209581c1,Tenerife,"2,439",27.1,7.0,0.0,67.0,1.0,,Tenerife
+,Óscar Pérez,es ESP,MF,28,25,7.0,5.0,2007-2008,4ae5f6a,Tenerife,"2,132",23.7,8.0,1.0,67.0,1.0,,Tenerife
+,Sylvain N'Diaye,sn SEN,"DF,MF",29,25,0.0,1.0,2007-2008,fb5f3505,Tenerife,"2,056",22.8,11.0,1.0,67.0,34.0,,Tenerife
+,Andrés Santos,es ESP,MF,32,24,4.0,2.0,2007-2008,68ad30f,Tenerife,"2,141",23.8,3.0,0.0,67.0,1.0,4839.0,Tenerife
+,Antonio Longás,es ESP,MF,28,19,1.0,1.0,2007-2008,d7821711,Tenerife,"1,735",19.3,4.0,0.0,67.0,1.0,,Tenerife
+,Iriome González,es ESP,MF,31,19,1.0,4.0,2007-2008,6e19f4fb,Tenerife,"1,692",18.8,2.0,0.0,67.0,1.0,4832.0,Tenerife
+,Ricardo León Brito,es ESP,MF,21,14,2.0,1.0,2007-2008,186c0d18,Tenerife,"1,267",14.1,4.0,1.0,67.0,1.0,,Tenerife
+,Raúl Navas,es ESP,GK,14,13,0.0,0.0,2007-2008,7bb77368,Tenerife,"1,218",13.5,0.0,2.0,67.0,1.0,,Tenerife
+,Manuel Blanco,es ESP,DF,20,12,2.0,0.0,2007-2008,3dadb16d,Tenerife,"1,067",11.9,4.0,0.0,67.0,1.0,,Tenerife
+,Julio Hormiga,es ESP,MF,17,9,1.0,0.0,2007-2008,04c06bdd,Tenerife,746,8.3,1.0,0.0,67.0,1.0,4822.0,Tenerife
+,Mikel Arruabarrena,es ESP,FW,31,8,0.0,6.0,2007-2008,d0c4ebb,Tenerife,"1,155",12.8,6.0,0.0,67.0,1.0,4840.0,Tenerife
+,Héctor,es ESP,DF,6,6,0.0,0.0,2007-2008,27ef490c,Tenerife,487,5.4,2.0,0.0,67.0,1.0,4824.0,Tenerife
+,Jesuli,es ESP,MF,7,3,0.0,0.0,2007-2008,3bfc833a,Tenerife,331,3.7,0.0,0.0,67.0,1.0,,Tenerife
+,Cristo,es ESP,FW,25,1,0.0,0.0,2007-2008,425213fe,Tenerife,550,6.1,5.0,0.0,67.0,1.0,4818.0,Tenerife
+,Rubén Rosquete,es ESP,FW,4,0,0.0,0.0,2007-2008,d2161d62,Tenerife,115,1.3,0.0,0.0,67.0,1.0,4841.0,Tenerife
+,Omar Ramos,es ESP,"FW,MF",1,0,0.0,0.0,2007-2008,0657888a,Tenerife,17,0.2,1.0,0.0,67.0,1.0,,Tenerife
+,﻿Nino,es ESP,"FW,MF",42,42,5.0,29.0,2008-2009,03dc5b1f,Tenerife,"3,769",41.9,3.0,0.0,67.0,1.0,,Tenerife
+,Alejandro Alfaro,es ESP,"FW,MF",42,41,4.0,20.0,2008-2009,7c293728,Tenerife,"3,567",39.6,4.0,0.0,67.0,1.0,,Tenerife
+,Marc Bertrán,es ESP,DF,35,35,0.0,2.0,2008-2009,89a12cef,Tenerife,"3,105",34.5,9.0,2.0,67.0,1.0,,Tenerife
+,Juanlu,es ESP,"FW,MF",35,35,9.0,4.0,2008-2009,431ac3e7,Tenerife,"2,713",30.1,7.0,0.0,67.0,1.0,,Tenerife
+,Ezequiel Luna,ar ARG,DF,34,34,0.0,2.0,2008-2009,772e46d9,Tenerife,"3,008",33.4,11.0,0.0,67.0,5.0,4842.0,Tenerife
+,Richi,es ESP,"FW,MF",36,34,2.0,6.0,2008-2009,90517f8a,Tenerife,"2,900",32.2,5.0,0.0,67.0,1.0,,Tenerife
+,Ricardo León Brito,es ESP,MF,35,33,1.0,1.0,2008-2009,186c0d18,Tenerife,"2,855",31.7,13.0,3.0,67.0,1.0,,Tenerife
+,Pablo Sicilia,es ESP,DF,36,32,1.0,1.0,2008-2009,56bdf1b5,Tenerife,"2,844",31.6,8.0,0.0,67.0,1.0,,Tenerife
+,Manolo Martínez,es ESP,"DF,MF",32,31,3.0,0.0,2008-2009,7b9876e4,Tenerife,"2,626",29.2,13.0,1.0,67.0,1.0,,Tenerife
+,Daniel N'Gom Kome,cm CMR,MF,36,31,3.0,6.0,2008-2009,8076455d,Tenerife,"2,405",26.7,6.0,0.0,67.0,36.0,,Tenerife
+,Luis García,es ESP,GK,23,23,0.0,0.0,2008-2009,716e5a4,Tenerife,"2,070",23.0,1.0,0.0,67.0,1.0,,Tenerife
+,Sergio Aragoneses,es ESP,GK,19,19,0.0,0.0,2008-2009,8e8258f5,Tenerife,"1,706",19.0,1.0,1.0,67.0,1.0,,Tenerife
+,Héctor,es ESP,DF,19,19,1.0,0.0,2008-2009,27ef490c,Tenerife,"1,631",18.1,2.0,1.0,67.0,1.0,4824.0,Tenerife
+,Óscar Pérez,es ESP,MF,29,12,0.0,1.0,2008-2009,4ae5f6a,Tenerife,"1,163",12.9,4.0,0.0,67.0,1.0,,Tenerife
+,Pau Cendrós,es ESP,DF,8,8,0.0,0.0,2008-2009,9b9c9388,Tenerife,720,8.0,2.0,0.0,67.0,1.0,,Tenerife
+,Ayoze García,es ESP,"DF,MF",30,7,2.0,0.0,2008-2009,94dfdc6,Tenerife,979,10.9,1.0,0.0,67.0,1.0,,Tenerife
+,Rafael Clavero,es ESP,DF,10,7,0.0,0.0,2008-2009,1590d66a,Tenerife,701,7.8,4.0,0.0,67.0,1.0,,Tenerife
+,José Antonio Culebras,es ESP,DF,8,6,0.0,0.0,2008-2009,c8b270a2,Tenerife,589,6.5,1.0,0.0,67.0,1.0,,Tenerife
+,Mikel Alonso,es ESP,MF,11,4,0.0,0.0,2008-2009,b32eb2,Tenerife,458,5.1,4.0,0.0,67.0,1.0,,Tenerife
+,Ángel Rodríguez,es ESP,FW,33,2,1.0,6.0,2008-2009,8cfc2f69,Tenerife,719,8.0,3.0,0.0,67.0,1.0,,Tenerife
+,Juanma,es ESP,DF,2,2,0.0,0.0,2008-2009,209581c1,Tenerife,148,1.6,0.0,0.0,67.0,1.0,,Tenerife
+,Cristo Martín,es ESP,MF,4,2,0.0,0.0,2008-2009,942338e2,Tenerife,141,1.6,0.0,0.0,67.0,1.0,,Tenerife
+,Iriome González,es ESP,MF,12,1,0.0,0.0,2008-2009,6e19f4fb,Tenerife,299,3.3,0.0,0.0,67.0,1.0,4832.0,Tenerife
+,Cristo,es ESP,FW,14,1,0.0,1.0,2008-2009,425213fe,Tenerife,180,2.0,1.0,0.0,67.0,1.0,4818.0,Tenerife
+,Gaizka Saizar,es ESP,FW,3,1,1.0,0.0,2008-2009,5a706676,Tenerife,84,0.9,0.0,0.0,67.0,1.0,,Tenerife
+,﻿Sergio Aragoneses,es ESP,GK,38,38,0.0,0.0,2009-2010,8e8258f5,Tenerife,"3,420",38.0,3.0,0.0,67.0,1.0,,Tenerife
+,Nino,es ESP,"FW,MF",38,37,0.0,14.0,2009-2010,03dc5b1f,Tenerife,"3,350",37.2,4.0,0.0,67.0,1.0,,Tenerife
+,Alejandro Alfaro,es ESP,"FW,MF",36,36,4.0,7.0,2009-2010,7c293728,Tenerife,"3,123",34.7,7.0,0.0,67.0,1.0,,Tenerife
+,Pablo Sicilia,es ESP,DF,34,33,0.0,0.0,2009-2010,56bdf1b5,Tenerife,"3,002",33.4,4.0,0.0,67.0,1.0,,Tenerife
+,Juanlu,es ESP,"FW,MF",32,31,2.0,4.0,2009-2010,431ac3e7,Tenerife,"2,353",26.1,4.0,0.0,67.0,1.0,,Tenerife
+,Ricardo León Brito,es ESP,MF,29,29,0.0,1.0,2009-2010,186c0d18,Tenerife,"2,515",27.9,9.0,0.0,67.0,1.0,,Tenerife
+,Manolo Martínez,es ESP,"DF,MF",30,26,0.0,0.0,2009-2010,7b9876e4,Tenerife,"2,300",25.6,4.0,0.0,67.0,1.0,,Tenerife
+,Ezequiel Luna,ar ARG,DF,23,22,0.0,1.0,2009-2010,772e46d9,Tenerife,"1,985",22.1,14.0,2.0,67.0,5.0,4842.0,Tenerife
+,Mikel Alonso,es ESP,MF,28,21,1.0,1.0,2009-2010,b32eb2,Tenerife,"1,963",21.8,3.0,0.0,67.0,1.0,,Tenerife
+,Marc Bertrán,es ESP,DF,21,21,1.0,1.0,2009-2010,89a12cef,Tenerife,"1,833",20.4,5.0,1.0,67.0,1.0,,Tenerife
+,Daniel N'Gom Kome,cm CMR,MF,29,19,2.0,0.0,2009-2010,8076455d,Tenerife,"1,567",17.4,5.0,0.0,67.0,36.0,,Tenerife
+,Román Martínez,ar ARG,MF,23,18,2.0,5.0,2009-2010,936dd5b4,Tenerife,"1,542",17.1,8.0,0.0,67.0,5.0,,Tenerife
+,Ayoze García,es ESP,"DF,MF",25,17,2.0,2.0,2009-2010,94dfdc6,Tenerife,"1,486",16.5,5.0,0.0,67.0,1.0,,Tenerife
+,José Antonio Culebras,es ESP,DF,18,16,0.0,1.0,2009-2010,c8b270a2,Tenerife,"1,415",15.7,3.0,1.0,67.0,1.0,,Tenerife
+,Richi,es ESP,"FW,MF",22,16,0.0,1.0,2009-2010,90517f8a,Tenerife,"1,334",14.8,2.0,0.0,67.0,1.0,,Tenerife
+,Carlos Bellvís,es ESP,DF,15,15,0.0,0.0,2009-2010,fbe35ca3,Tenerife,"1,287",14.3,5.0,0.0,67.0,1.0,,Tenerife
+,Héctor,es ESP,DF,11,11,1.0,0.0,2009-2010,27ef490c,Tenerife,951,10.6,2.0,0.0,67.0,1.0,4824.0,Tenerife
+,Omar Ramos,es ESP,"FW,MF",23,7,1.0,0.0,2009-2010,0657888a,Tenerife,899,10.0,2.0,0.0,67.0,1.0,,Tenerife
+,Aitor Núñez,es ESP,DF,5,4,0.0,0.0,2009-2010,511e3986,Tenerife,264,2.9,0.0,0.0,67.0,1.0,,Tenerife
+,Dinei,br BRA,FW,23,1,1.0,0.0,2009-2010,8a9fbd03,Tenerife,539,6.0,1.0,0.0,67.0,2.0,,Tenerife
+,Ángel Rodríguez,es ESP,FW,23,0,0.0,1.0,2009-2010,8cfc2f69,Tenerife,353,3.9,1.0,0.0,67.0,1.0,,Tenerife
+,Gaizka Saizar,es ESP,FW,4,0,0.0,0.0,2009-2010,5a706676,Tenerife,41,0.5,0.0,0.0,67.0,1.0,,Tenerife
+,﻿Nino,es ESP,"FW,MF",39,39,4.0,17.0,2010-2011,03dc5b1f,Tenerife,"3,496",38.8,6.0,0.0,67.0,1.0,,Tenerife
+,Sergio Aragoneses,es ESP,GK,39,39,0.0,0.0,2010-2011,8e8258f5,Tenerife,"3,466",38.5,4.0,1.0,67.0,1.0,,Tenerife
+,Marc Bertrán,es ESP,DF,35,35,1.0,0.0,2010-2011,89a12cef,Tenerife,"3,107",34.5,11.0,0.0,67.0,1.0,,Tenerife
+,Ricardo León Brito,es ESP,MF,32,30,0.0,0.0,2010-2011,186c0d18,Tenerife,"2,599",28.9,11.0,1.0,67.0,1.0,,Tenerife
+,Ezequiel Luna,ar ARG,DF,29,28,0.0,0.0,2010-2011,772e46d9,Tenerife,"2,360",26.2,16.0,3.0,67.0,5.0,4842.0,Tenerife
+,Pablo Sicilia,es ESP,DF,28,26,1.0,6.0,2010-2011,56bdf1b5,Tenerife,"2,246",25.0,12.0,1.0,67.0,1.0,,Tenerife
+,Grégory Béranger,fr FRA,DF,25,24,0.0,0.0,2010-2011,3dac0268,Tenerife,"2,137",23.7,14.0,1.0,67.0,4.0,,Tenerife
+,Julio Álvarez,ve VEN,MF,30,23,8.0,3.0,2010-2011,17b1a0ee,Tenerife,"2,116",23.5,6.0,1.0,67.0,53.0,,Tenerife
+,Natalio,es ESP,FW,33,23,1.0,4.0,2010-2011,239425b9,Tenerife,"2,071",23.0,6.0,0.0,67.0,1.0,,Tenerife
+,Antonio Hidalgo,es ESP,MF,29,23,5.0,3.0,2010-2011,b5b88d6c,Tenerife,"1,798",20.0,6.0,0.0,67.0,1.0,,Tenerife
+,Omar Ramos,es ESP,"FW,MF",35,21,0.0,0.0,2010-2011,0657888a,Tenerife,"1,887",21.0,5.0,0.0,67.0,1.0,,Tenerife
+,Mikel Alonso,es ESP,MF,27,20,7.0,2.0,2010-2011,b32eb2,Tenerife,"1,916",21.3,2.0,0.0,67.0,1.0,,Tenerife
+,Melli,es ESP,DF,25,20,0.0,1.0,2010-2011,83215889,Tenerife,"1,737",19.3,7.0,2.0,67.0,1.0,,Tenerife
+,David Prieto,es ESP,"DF,MF",20,18,1.0,1.0,2010-2011,8f24e,Tenerife,"1,620",18.0,8.0,1.0,67.0,1.0,,Tenerife
+,Juanlu,es ESP,"FW,MF",33,16,1.0,0.0,2010-2011,431ac3e7,Tenerife,"1,760",19.6,2.0,0.0,67.0,1.0,,Tenerife
+,Ritchie Kitoko,be BEL,MF,17,16,0.0,0.0,2010-2011,d403d81a,Tenerife,"1,406",15.6,3.0,1.0,67.0,27.0,,Tenerife
+,Carlos Bellvís,es ESP,DF,14,13,0.0,0.0,2010-2011,fbe35ca3,Tenerife,"1,086",12.1,4.0,2.0,67.0,1.0,,Tenerife
+,Sebastián Dubarbier,ar ARG,"DF,FW",15,12,0.0,1.0,2010-2011,83877c7c,Tenerife,859,9.5,5.0,1.0,67.0,5.0,,Tenerife
+,Iriome González,es ESP,MF,20,10,0.0,2.0,2010-2011,6e19f4fb,Tenerife,967,10.7,4.0,0.0,67.0,1.0,4832.0,Tenerife
+,Daniel N'Gom Kome,cm CMR,MF,25,10,2.0,0.0,2010-2011,8076455d,Tenerife,917,10.2,3.0,0.0,67.0,36.0,,Tenerife
+,Luis García,es ESP,GK,4,3,0.0,0.0,2010-2011,716e5a4,Tenerife,313,3.5,0.0,0.0,67.0,1.0,,Tenerife
+,Germán,es ESP,"FW,MF",7,3,0.0,0.0,2010-2011,12c68be9,Tenerife,301,3.3,0.0,0.0,67.0,1.0,,Tenerife
+,Josmar Zambrano,ve VEN,MF,8,2,0.0,0.0,2010-2011,64bd3334,Tenerife,224,2.5,1.0,0.0,67.0,53.0,,Tenerife
+,Aitor Núñez,es ESP,DF,2,2,0.0,0.0,2010-2011,511e3986,Tenerife,180,2.0,1.0,0.0,67.0,1.0,,Tenerife
+,Igor de Souza,br BRA,FW,7,1,0.0,0.0,2010-2011,1c73ef45,Tenerife,209,2.3,0.0,0.0,67.0,2.0,,Tenerife
+,Jesús Álvaro,es ESP,DF,1,1,0.0,0.0,2010-2011,201b183d,Tenerife,90,1.0,1.0,0.0,67.0,1.0,4844.0,Tenerife
+,Bruno González,es ESP,DF,1,1,0.0,0.0,2010-2011,f11fe861,Tenerife,90,1.0,1.0,0.0,67.0,1.0,,Tenerife
+,Abel Miguel Suárez,es ESP,MF,1,1,0.0,0.0,2010-2011,d1fa675a,Tenerife,90,1.0,1.0,0.0,67.0,1.0,4845.0,Tenerife
+,Alejandro Moreno,ve VEN,FW,1,1,0.0,0.0,2010-2011,091b3513,Tenerife,90,1.0,1.0,0.0,67.0,53.0,4846.0,Tenerife
+,Ayoze Placeres,es ESP,DF,1,1,0.0,0.0,2010-2011,00b06c28,Tenerife,90,1.0,0.0,0.0,67.0,1.0,4847.0,Tenerife
+,Juan Ramón García,es ESP,MF,1,0,0.0,0.0,2010-2011,f84b7c50,Tenerife,3,0.0,0.0,0.0,67.0,1.0,4848.0,Tenerife
+,﻿Carlos Ruiz,es ESP,"DF,MF",40,40,0.0,3.0,2013-2014,3c871dd7,Tenerife,"3,557",39.5,8.0,0.0,67.0,1.0,4849.0,Tenerife
+,Javi Moyano,es ESP,DF,39,39,0.0,0.0,2013-2014,933e8c8a,Tenerife,"3,483",38.7,8.0,1.0,67.0,1.0,,Tenerife
+,Bruno González,es ESP,DF,38,38,0.0,2.0,2013-2014,f11fe861,Tenerife,"3,341",37.1,7.0,1.0,67.0,1.0,,Tenerife
+,Aitor Sanz,es ESP,MF,34,33,1.0,0.0,2013-2014,bd267b8d,Tenerife,"2,805",31.2,19.0,2.0,67.0,1.0,4850.0,Tenerife
+,Aridane,es ESP,FW,35,31,2.0,9.0,2013-2014,3e601a74,Tenerife,"2,812",31.2,8.0,0.0,67.0,1.0,,Tenerife
+,Roberto,es ESP,GK,31,31,0.0,0.0,2013-2014,69b0d51,Tenerife,"2,790",31.0,3.0,0.0,67.0,1.0,4851.0,Tenerife
+,Ayoze Pérez,es ESP,"FW,MF",34,30,5.0,16.0,2013-2014,819aa8e7,Tenerife,"2,764",30.7,5.0,0.0,67.0,1.0,4852.0,Tenerife
+,Ricardo León Brito,es ESP,MF,34,28,1.0,4.0,2013-2014,186c0d18,Tenerife,"2,337",26.0,11.0,1.0,67.0,1.0,,Tenerife
+,Suso Santana,es ESP,"FW,MF",36,26,7.0,2.0,2013-2014,c78902c,Tenerife,"2,453",27.3,9.0,0.0,67.0,1.0,4836.0,Tenerife
+,Raúl Cámara,es ESP,DF,23,23,0.0,0.0,2013-2014,585753d9,Tenerife,"1,872",20.8,10.0,0.0,67.0,1.0,,Tenerife
+,Cristo Martín,es ESP,MF,30,22,0.0,0.0,2013-2014,942338e2,Tenerife,"1,797",20.0,1.0,0.0,67.0,1.0,,Tenerife
+,Quique Rivero,es ESP,MF,31,16,0.0,1.0,2013-2014,0204d102,Tenerife,"1,611",17.9,3.0,0.0,67.0,1.0,,Tenerife
+,Iñigo Ros,es ESP,MF,25,14,0.0,2.0,2013-2014,bc278eb1,Tenerife,"1,398",15.5,5.0,0.0,67.0,1.0,4853.0,Tenerife
+,Luismi,es ESP,"FW,MF",16,11,1.0,3.0,2013-2014,f345089d,Tenerife,866,9.6,2.0,0.0,67.0,1.0,,Tenerife
+,Ayoze Díaz Díaz,es ESP,"DF,MF",13,10,2.0,0.0,2013-2014,b7209bcc,Tenerife,"1,000",11.1,1.0,0.0,67.0,1.0,,Tenerife
+,Chechu,es ESP,MF,17,10,1.0,0.0,2013-2014,3333762c,Tenerife,943,10.5,1.0,0.0,67.0,1.0,4854.0,Tenerife
+,Sergio Aragoneses,es ESP,GK,9,9,0.0,0.0,2013-2014,8e8258f5,Tenerife,810,9.0,0.0,0.0,67.0,1.0,,Tenerife
+,Raúl Llorente,es ESP,DF,8,8,0.0,0.0,2013-2014,f40996ec,Tenerife,719,8.0,3.0,1.0,67.0,1.0,,Tenerife
+,Edgar Mendez,es ESP,MF,14,8,1.0,1.0,2013-2014,f5e19d23,Tenerife,611,6.8,2.0,0.0,67.0,1.0,,Tenerife
+,Borja Pérez,es ESP,FW,11,5,0.0,0.0,2013-2014,5cabc332,Tenerife,500,5.6,1.0,0.0,67.0,1.0,4855.0,Tenerife
+,Juanjo Expósito,es ESP,FW,12,4,0.0,3.0,2013-2014,f0a0b756,Tenerife,535,5.9,0.0,0.0,67.0,1.0,,Tenerife
+,Aday,es ESP,"DF,MF",13,4,0.0,0.0,2013-2014,5890cef1,Tenerife,511,5.7,1.0,0.0,67.0,1.0,4856.0,Tenerife
+,Alberto Jiménez,es ESP,"DF,MF",9,4,0.0,0.0,2013-2014,3a780635,Tenerife,416,4.6,1.0,0.0,67.0,1.0,4857.0,Tenerife
+,Salvador Ruiz,es ESP,DF,5,4,0.0,0.0,2013-2014,8f86f018,Tenerife,359,4.0,0.0,0.0,67.0,1.0,4858.0,Tenerife
+,Nano,es ESP,FW,10,4,1.0,0.0,2013-2014,217011a0,Tenerife,353,3.9,1.0,0.0,67.0,1.0,,Tenerife
+,Baltasar Rigo,es ESP,DF,4,4,0.0,0.0,2013-2014,b80570db,Tenerife,315,3.5,1.0,0.0,67.0,1.0,,Tenerife
+,Óscar Rico,es ESP,MF,9,3,1.0,0.0,2013-2014,8778714e,Tenerife,278,3.1,0.0,0.0,67.0,1.0,4859.0,Tenerife
+,Diego Rivas Rego,es ESP,GK,2,2,0.0,0.0,2013-2014,c3a6fb7d,Tenerife,180,2.0,1.0,0.0,67.0,1.0,,Tenerife
+,Guillem,es ESP,FW,3,1,0.0,0.0,2013-2014,560cedf7,Tenerife,82,0.9,0.0,0.0,67.0,1.0,4860.0,Tenerife
+,﻿Javi Moyano,es ESP,DF,40,40,0.0,0.0,2014-2015,933e8c8a,Tenerife,"3,535",39.3,6.0,1.0,67.0,1.0,,Tenerife
+,Carlos Ruiz,es ESP,"DF,MF",38,38,0.0,2.0,2014-2015,3c871dd7,Tenerife,"3,379",37.5,12.0,2.0,67.0,1.0,4849.0,Tenerife
+,Suso Santana,es ESP,"FW,MF",39,36,1.0,5.0,2014-2015,c78902c,Tenerife,"3,230",35.9,12.0,0.0,67.0,1.0,4836.0,Tenerife
+,Vitolo,es ESP,MF,38,35,1.0,5.0,2014-2015,0785296e,Tenerife,"3,203",35.6,11.0,0.0,67.0,1.0,,Tenerife
+,Raúl Cámara,es ESP,DF,36,35,1.0,0.0,2014-2015,585753d9,Tenerife,"3,102",34.5,10.0,0.0,67.0,1.0,,Tenerife
+,Aitor Sanz,es ESP,MF,36,35,1.0,3.0,2014-2015,bd267b8d,Tenerife,"3,073",34.1,17.0,0.0,67.0,1.0,4850.0,Tenerife
+,Unai Albizua,es ESP,DF,28,28,1.0,0.0,2014-2015,4a2e58a3,Tenerife,"2,346",26.1,2.0,0.0,67.0,1.0,,Tenerife
+,Diego Ifrán,uy URU,FW,28,24,4.0,11.0,2014-2015,59e3e40f,Tenerife,"2,076",23.1,5.0,0.0,67.0,8.0,,Tenerife
+,Cristo Martín,es ESP,MF,34,23,2.0,1.0,2014-2015,942338e2,Tenerife,"2,038",22.6,4.0,0.0,67.0,1.0,,Tenerife
+,Hugo Álvarez,,DF,24,21,2.0,0.0,2014-2015,87042ab8,Tenerife,"1,935",21.5,4.0,0.0,67.0,,,Tenerife
+,Dani Hernández,ve VEN,GK,20,20,0.0,0.0,2014-2015,ba02295e,Tenerife,"1,800",20.0,1.0,0.0,67.0,53.0,,Tenerife
+,Aridane,es ESP,FW,32,19,1.0,2.0,2014-2015,3e601a74,Tenerife,"1,654",18.4,4.0,1.0,67.0,1.0,,Tenerife
+,Maximiliano Pérez,uy URU,"FW,MF",28,18,0.0,5.0,2014-2015,bfcf4a4,Tenerife,"1,613",17.9,0.0,0.0,67.0,8.0,4861.0,Tenerife
+,Ricardo León Brito,es ESP,MF,25,17,0.0,0.0,2014-2015,186c0d18,Tenerife,"1,456",16.2,9.0,0.0,67.0,1.0,,Tenerife
+,Iker Guarrotxena,es ESP,"FW,MF",20,10,1.0,1.0,2014-2015,6d157157,Tenerife,840,9.3,2.0,0.0,67.0,1.0,4862.0,Tenerife
+,Juan Carlos García,hn HON,DF,19,9,3.0,1.0,2014-2015,764476b9,Tenerife,924,10.3,2.0,0.0,67.0,107.0,,Tenerife
+,Roberto,es ESP,GK,10,9,0.0,0.0,2014-2015,69b0d51,Tenerife,830,9.2,1.0,0.0,67.0,1.0,4851.0,Tenerife
+,Carlos Abad,es ESP,GK,9,8,0.0,0.0,2014-2015,6970bedb,Tenerife,700,7.8,0.0,0.0,67.0,1.0,,Tenerife
+,Ulises Dávila,mx MEX,"FW,MF",10,5,0.0,1.0,2014-2015,0e774d3a,Tenerife,503,5.6,1.0,1.0,67.0,20.0,4863.0,Tenerife
+,Jacobo,es ESP,GK,5,5,0.0,0.0,2014-2015,bb575fe7,Tenerife,450,5.0,0.0,0.0,67.0,1.0,,Tenerife
+,Cristo Díaz,es ESP,MF,10,5,0.0,0.0,2014-2015,0949adff,Tenerife,382,4.2,3.0,0.0,67.0,1.0,4864.0,Tenerife
+,Quique Rivero,es ESP,MF,10,4,0.0,1.0,2014-2015,0204d102,Tenerife,477,5.3,1.0,0.0,67.0,1.0,,Tenerife
+,Jorge Sáenz,es ESP,DF,5,4,0.0,0.0,2014-2015,bfca375c,Tenerife,386,4.3,1.0,0.0,67.0,1.0,,Tenerife
+,Igor Arnáez,es ESP,DF,8,4,0.0,0.0,2014-2015,dce1fe15,Tenerife,363,4.0,2.0,0.0,67.0,1.0,4865.0,Tenerife
+,Victor García,sv SLV,MF,9,3,1.0,1.0,2014-2015,978d6b6,Tenerife,331,3.7,0.0,0.0,67.0,116.0,4866.0,Tenerife
+,Abdón Prats,es ESP,FW,9,3,1.0,0.0,2014-2015,d1b060e2,Tenerife,301,3.3,0.0,0.0,67.0,1.0,,Tenerife
+,Omar Perdomo,es ESP,MF,5,3,0.0,0.0,2014-2015,5290eb66,Tenerife,279,3.1,0.0,0.0,67.0,1.0,,Tenerife
+,Cristian García,ar ARG,FW,4,1,0.0,0.0,2014-2015,2e33112b,Tenerife,127,1.4,0.0,0.0,67.0,5.0,,Tenerife
+,Cristo González,es ESP,FW,5,0,0.0,1.0,2014-2015,896b5df2,Tenerife,103,1.1,0.0,0.0,67.0,1.0,160.0,Tenerife
+,Glez Santi,,,1,0,0.0,0.0,2014-2015,,Tenerife,27,0.3,0.0,0.0,67.0,,,Tenerife
+,Hugo Álvarez,es ESP,DF,0,0,,,2014-2015,6f392eb8,Tenerife,,,,,67.0,1.0,,Tenerife
+,Juan Carlos,es ESP,"FW,MF",0,0,,,2014-2015,82803509,Tenerife,,,,,67.0,1.0,,Tenerife
+,Diop,sn SEN,MF,0,0,,,2014-2015,6bcd5f78,Tenerife,,,,,67.0,34.0,4867.0,Tenerife
+,Víctor García Marín,es ESP,"DF,FW",0,0,,,2014-2015,cec64412,Tenerife,,,,,67.0,1.0,4868.0,Tenerife
+,Santi Luque,es ESP,MF,0,0,,,2014-2015,5525a479,Tenerife,,,,,67.0,1.0,4869.0,Tenerife
+,Jordan McCourt,eng ENG,MF,0,0,,,2014-2015,491c3094,Tenerife,,,,,67.0,6.0,4870.0,Tenerife
+,Nahuel Omiliani,es ESP,DF,0,0,,,2014-2015,9f511fbe,Tenerife,,,,,67.0,1.0,,Tenerife
+,Ángel Rodríguez,es ESP,GK,0,0,,,2014-2015,70eaa565,Tenerife,,,,,67.0,1.0,4871.0,Tenerife
+,﻿Vitolo,es ESP,MF,40,40,2.0,0.0,2015-2016,0785296e,Tenerife,"3,501",38.9,11.0,0.0,67.0,1.0,,Tenerife
+,Dani Hernández,ve VEN,GK,39,39,0.0,0.0,2015-2016,ba02295e,Tenerife,"3,472",38.6,5.0,0.0,67.0,53.0,,Tenerife
+,Carlos Ruiz,es ESP,"DF,MF",38,38,3.0,1.0,2015-2016,3c871dd7,Tenerife,"3,368",37.4,8.0,1.0,67.0,1.0,4849.0,Tenerife
+,Aitor Sanz,es ESP,MF,38,37,6.0,2.0,2015-2016,bd267b8d,Tenerife,"3,233",35.9,12.0,1.0,67.0,1.0,4850.0,Tenerife
+,Suso Santana,es ESP,"FW,MF",37,35,7.0,6.0,2015-2016,c78902c,Tenerife,"2,965",32.9,11.0,1.0,67.0,1.0,4836.0,Tenerife
+,Raúl Cámara,es ESP,DF,34,33,0.0,0.0,2015-2016,585753d9,Tenerife,"2,808",31.2,13.0,1.0,67.0,1.0,,Tenerife
+,Germán Sánchez,es ESP,DF,27,25,0.0,1.0,2015-2016,9b2ef9,Tenerife,"2,259",25.1,8.0,0.0,67.0,1.0,4872.0,Tenerife
+,Anthony Lozano,hn HON,FW,32,25,3.0,10.0,2015-2016,38699c72,Tenerife,"2,211",24.6,6.0,0.0,67.0,107.0,,Tenerife
+,Omar Perdomo,es ESP,MF,36,21,1.0,5.0,2015-2016,5290eb66,Tenerife,"1,975",21.9,5.0,0.0,67.0,1.0,,Tenerife
+,Nano,es ESP,FW,35,20,1.0,14.0,2015-2016,217011a0,Tenerife,"1,887",21.0,2.0,0.0,67.0,1.0,,Tenerife
+,Saúl García,es ESP,DF,20,20,2.0,0.0,2015-2016,dafa5038,Tenerife,"1,790",19.9,7.0,0.0,67.0,1.0,,Tenerife
+,Jon Aurtenetxe,es ESP,DF,23,19,3.0,0.0,2015-2016,74b0e3ce,Tenerife,"1,750",19.4,4.0,0.0,67.0,1.0,,Tenerife
+,Alberto Jiménez,es ESP,"DF,MF",24,19,1.0,0.0,2015-2016,3a780635,Tenerife,"1,717",19.1,11.0,2.0,67.0,1.0,4857.0,Tenerife
+,Cristian García Ramos,es ESP,DF,20,16,1.0,0.0,2015-2016,73620865,Tenerife,"1,371",15.2,4.0,0.0,67.0,1.0,,Tenerife
+,Jorge Sáenz,es ESP,DF,16,15,0.0,0.0,2015-2016,bfca375c,Tenerife,"1,319",14.7,7.0,1.0,67.0,1.0,,Tenerife
+,Pedro Martín,es ESP,FW,13,12,0.0,1.0,2015-2016,99ee29b5,Tenerife,971,10.8,3.0,0.0,67.0,1.0,,Tenerife
+,Thierry Moutinho,pt POR,MF,16,10,0.0,1.0,2015-2016,8e928063,Tenerife,911,10.1,0.0,0.0,67.0,3.0,,Tenerife
+,Cristo González,es ESP,FW,24,9,2.0,1.0,2015-2016,896b5df2,Tenerife,926,10.3,1.0,0.0,67.0,1.0,160.0,Tenerife
+,Javi Lara,es ESP,MF,16,9,1.0,1.0,2015-2016,bd1babf1,Tenerife,768,8.5,1.0,0.0,67.0,1.0,4873.0,Tenerife
+,Ricardo León Brito,es ESP,MF,12,8,0.0,0.0,2015-2016,186c0d18,Tenerife,711,7.9,3.0,0.0,67.0,1.0,,Tenerife
+,Jairo Izquierdo,es ESP,"DF,MF",18,5,0.0,0.0,2015-2016,2ceb58ab,Tenerife,598,6.6,3.0,0.0,67.0,1.0,,Tenerife
+,Roberto,es ESP,GK,4,3,0.0,0.0,2015-2016,69b0d51,Tenerife,308,3.4,0.0,0.0,67.0,1.0,4851.0,Tenerife
+,Tomás Martínez,ar ARG,MF,13,2,0.0,0.0,2015-2016,cc6cf17f,Tenerife,309,3.4,2.0,0.0,67.0,5.0,4874.0,Tenerife
+,Abel Miguel Suárez,es ESP,MF,6,2,0.0,0.0,2015-2016,d1fa675a,Tenerife,154,1.7,1.0,0.0,67.0,1.0,4845.0,Tenerife
+,Nadjib Mengoud,es ESP,MF,2,0,0.0,0.0,2015-2016,76a0447c,Tenerife,48,0.5,0.0,0.0,67.0,1.0,,Tenerife
+,Ale González,es ESP,MF,2,0,0.0,0.0,2015-2016,b838a91b,Tenerife,37,0.4,0.0,0.0,67.0,1.0,4875.0,Tenerife
+,Rafa Álvarez,es ESP,DF,0,0,,,2015-2016,11afb1e8,Tenerife,,,,,67.0,1.0,4876.0,Tenerife
+,Ángel Jesús Galván Rivero,es ESP,GK,0,0,,,2015-2016,56e25bb,Tenerife,,,,,67.0,1.0,4877.0,Tenerife
+,﻿Dani Hernández,ve VEN,GK,38,38,0.0,0.0,2016-2017,ba02295e,Tenerife,"3,346",37.2,2.0,0.0,67.0,53.0,,Tenerife
+,Vitolo,es ESP,MF,40,37,5.0,0.0,2016-2017,0785296e,Tenerife,"3,314",36.8,7.0,0.0,67.0,1.0,,Tenerife
+,Raúl Cámara,es ESP,DF,37,37,0.0,1.0,2016-2017,585753d9,Tenerife,"3,133",34.8,10.0,0.0,67.0,1.0,,Tenerife
+,Suso Santana,es ESP,"MF,FW",39,32,3.0,5.0,2016-2017,c78902c,Tenerife,"2,774",30.8,9.0,0.0,67.0,1.0,4836.0,Tenerife
+,Aitor Sanz,es ESP,MF,37,31,4.0,3.0,2016-2017,bd267b8d,Tenerife,"2,750",30.6,13.0,0.0,67.0,1.0,4850.0,Tenerife
+,Amath,sn SEN,"FW,MF",35,30,4.0,12.0,2016-2017,f3b1d9a2,Tenerife,"2,735",30.4,4.0,0.0,67.0,34.0,,Tenerife
+,Samuel Camille,mq MTQ,DF,30,29,2.0,0.0,2016-2017,5279c822,Tenerife,"2,604",28.9,10.0,2.0,67.0,104.0,,Tenerife
+,Germán Sánchez,es ESP,DF,28,28,0.0,1.0,2016-2017,9b2ef9,Tenerife,"2,507",27.9,7.0,0.0,67.0,1.0,4872.0,Tenerife
+,Jorge Sáenz,es ESP,DF,29,27,1.0,0.0,2016-2017,bfca375c,Tenerife,"2,481",27.6,5.0,0.0,67.0,1.0,,Tenerife
+,Aarón Ñíguez,es ESP,MF,36,27,5.0,4.0,2016-2017,5d720396,Tenerife,"2,259",25.1,6.0,0.0,67.0,1.0,,Tenerife
+,Alberto Jiménez,es ESP,"MF,DF",27,25,0.0,1.0,2016-2017,3a780635,Tenerife,"2,120",23.6,10.0,0.0,67.0,1.0,4857.0,Tenerife
+,Carlos Ruiz,es ESP,DF,28,24,1.0,2.0,2016-2017,3c871dd7,Tenerife,"2,218",24.6,8.0,0.0,67.0,1.0,4849.0,Tenerife
+,Anthony Lozano,hn HON,FW,30,24,3.0,9.0,2016-2017,38699c72,Tenerife,"2,136",23.7,3.0,0.0,67.0,107.0,,Tenerife
+,Iñaki Sáenz,es ESP,DF,17,14,1.0,0.0,2016-2017,975dd5ae,Tenerife,"1,211",13.5,3.0,0.0,67.0,1.0,,Tenerife
+,Cristo González,es ESP,"MF,FW",21,13,4.0,3.0,2016-2017,896b5df2,Tenerife,"1,194",13.3,2.0,0.0,67.0,1.0,160.0,Tenerife
+,Marc Crosas,es ESP,MF,14,9,0.0,0.0,2016-2017,042adadc,Tenerife,778,8.6,3.0,0.0,67.0,1.0,4878.0,Tenerife
+,Omar Perdomo,es ESP,"MF,FW",27,8,3.0,3.0,2016-2017,5290eb66,Tenerife,842,9.4,3.0,0.0,67.0,1.0,,Tenerife
+,Gaku Shibasaki,jp JPN,MF,11,7,2.0,1.0,2016-2017,d2ac648c,Tenerife,681,7.6,0.0,0.0,67.0,54.0,,Tenerife
+,Tyronne,es ESP,MF,12,5,0.0,1.0,2016-2017,f76bbf9c,Tenerife,445,4.9,1.0,0.0,67.0,1.0,4879.0,Tenerife
+,Ismael Falcón,es ESP,GK,5,4,0.0,0.0,2016-2017,5d2574f2,Tenerife,434,4.8,2.0,0.0,67.0,1.0,,Tenerife
+,Álex García,es ESP,MF,7,4,0.0,0.0,2016-2017,0c38a124,Tenerife,284,3.2,0.0,0.0,67.0,1.0,,Tenerife
+,Haythem Jouini,tn TUN,FW,19,3,0.0,2.0,2016-2017,9943dcc4,Tenerife,588,6.5,2.0,4.0,67.0,46.0,4880.0,Tenerife
+,Edu Oriol,es ESP,"DF,MF",5,3,0.0,0.0,2016-2017,94c9f17a,Tenerife,256,2.8,0.0,0.0,67.0,1.0,,Tenerife
+,Rachid Aït-Atmane,dz ALG,MF,5,1,0.0,0.0,2016-2017,539b773e,Tenerife,174,1.9,0.0,0.0,67.0,37.0,,Tenerife
+,Ale González,es ESP,MF,1,0,0.0,0.0,2016-2017,b838a91b,Tenerife,27,0.3,0.0,0.0,67.0,1.0,4875.0,Tenerife
+,Pipo Pipo,,,2,0,0.0,0.0,2016-2017,,Tenerife,19,0.2,1.0,0.0,67.0,,,Tenerife
+,Roberto Bolaños,es ESP,MF,1,0,0.0,0.0,2016-2017,b9c04db1,Tenerife,5,0.1,0.0,0.0,67.0,1.0,4881.0,Tenerife
+,Giovanni,es ESP,FW,1,0,0.0,0.0,2016-2017,c604a289,Tenerife,2,0.0,0.0,0.0,67.0,1.0,4882.0,Tenerife
+,Óscar González,es ESP,DF,0,0,,,2016-2017,034d89a1,Tenerife,,,,,67.0,1.0,4883.0,Tenerife
+,Nahuel Omiliani,es ESP,DF,0,0,,,2016-2017,9f511fbe,Tenerife,,,,,67.0,1.0,,Tenerife
+,Ángel Jesús Galván Rivero,es ESP,GK,0,0,,,2016-2017,56e25bb,Tenerife,,,,,67.0,1.0,4877.0,Tenerife
+,Darixon Vuelto,hn HON,MF,0,0,,,2016-2017,3fe0e991,Tenerife,,,,,67.0,107.0,4884.0,Tenerife
+,﻿Dani Hernández,ve VEN,GK,38,38,2.0,0.0,2017-2018,ba02295e,Tenerife,"3,420",38.0,1.0,0.0,67.0,53.0,,Tenerife
+,Carlos Ruiz,es ESP,DF,33,33,1.0,2.0,2017-2018,3c871dd7,Tenerife,"2,814",31.3,7.0,4.0,67.0,1.0,4849.0,Tenerife
+,Lucas Aveldaño,ar ARG,DF,30,30,1.0,0.0,2017-2018,d120357b,Tenerife,"2,573",28.6,6.0,0.0,67.0,5.0,,Tenerife
+,Luis Pérez,es ESP,DF,30,28,1.0,0.0,2017-2018,b7c04927,Tenerife,"2,610",29.0,2.0,0.0,67.0,1.0,,Tenerife
+,Aitor Sanz,es ESP,MF,28,26,4.0,1.0,2017-2018,bd267b8d,Tenerife,"2,256",25.1,8.0,2.0,67.0,1.0,4850.0,Tenerife
+,Bryan Acosta,hn HON,"MF,FW",31,25,6.0,3.0,2017-2018,c5f400f4,Tenerife,"2,215",24.6,9.0,4.0,67.0,107.0,4885.0,Tenerife
+,Víctor Casadesús,es ESP,"FW,MF",29,22,3.0,9.0,2017-2018,73cd0a2a,Tenerife,"2,093",23.3,10.0,0.0,67.0,1.0,,Tenerife
+,Alberto Jiménez,es ESP,MF,29,22,4.0,0.0,2017-2018,3a780635,Tenerife,"1,971",21.9,8.0,0.0,67.0,1.0,4857.0,Tenerife
+,Raúl Cámara,es ESP,DF,23,22,0.0,0.0,2017-2018,585753d9,Tenerife,"1,851",20.6,9.0,0.0,67.0,1.0,,Tenerife
+,Samuele Longo,it ITA,FW,24,22,1.0,12.0,2017-2018,1163de29,Tenerife,"1,845",20.5,7.0,0.0,67.0,9.0,,Tenerife
+,Samuel Camille,mq MTQ,DF,21,21,0.0,0.0,2017-2018,5279c822,Tenerife,"1,839",20.4,6.0,0.0,67.0,104.0,,Tenerife
+,Juan Carlos,es ESP,"MF,FW",31,20,5.0,5.0,2017-2018,82803509,Tenerife,"1,598",17.8,3.0,0.0,67.0,1.0,,Tenerife
+,Jorge Sáenz,es ESP,DF,21,19,1.0,1.0,2017-2018,bfca375c,Tenerife,"1,825",20.3,10.0,2.0,67.0,1.0,,Tenerife
+,Filip Malbašić,rs SRB,"FW,MF",37,18,1.0,9.0,2017-2018,04981123,Tenerife,"2,013",22.4,3.0,0.0,67.0,28.0,,Tenerife
+,Vitolo,es ESP,MF,23,18,0.0,0.0,2017-2018,0785296e,Tenerife,"1,547",17.2,8.0,0.0,67.0,1.0,,Tenerife
+,Luis Milla,es ESP,MF,17,17,0.0,0.0,2017-2018,19c36442,Tenerife,"1,515",16.8,2.0,0.0,67.0,1.0,4886.0,Tenerife
+,Suso Santana,es ESP,MF,30,15,3.0,2.0,2017-2018,c78902c,Tenerife,"1,530",17.0,5.0,2.0,67.0,1.0,4836.0,Tenerife
+,Iñaki Sáenz,es ESP,DF,17,15,1.0,0.0,2017-2018,975dd5ae,Tenerife,"1,390",15.4,3.0,0.0,67.0,1.0,,Tenerife
+,Juan Villar,es ESP,"MF,FW",25,14,3.0,9.0,2017-2018,c33ee247,Tenerife,"1,193",13.3,5.0,0.0,67.0,1.0,,Tenerife
+,Álex Mula,es ESP,MF,16,14,2.0,5.0,2017-2018,bd207a4d,Tenerife,"1,156",12.8,1.0,0.0,67.0,1.0,,Tenerife
+,Tyronne,es ESP,MF,24,13,1.0,0.0,2017-2018,f76bbf9c,Tenerife,"1,157",12.9,4.0,0.0,67.0,1.0,4879.0,Tenerife
+,Carlos Abad,es ESP,GK,4,4,0.0,0.0,2017-2018,6970bedb,Tenerife,360,4.0,0.0,0.0,67.0,1.0,,Tenerife
+,Paco Montañés,es ESP,MF,13,3,0.0,0.0,2017-2018,9cc493b1,Tenerife,291,3.2,0.0,0.0,67.0,1.0,,Tenerife
+,Brian Martín,es ESP,"FW,MF",9,3,0.0,0.0,2017-2018,c1ac11a,Tenerife,276,3.1,0.0,0.0,67.0,1.0,,Tenerife
+,Nadjib Mengoud,es ESP,MF,1,0,0.0,0.0,2017-2018,76a0447c,Tenerife,21,0.2,0.0,0.0,67.0,1.0,,Tenerife
+,Borja Llarena,es ESP,FW,2,0,0.0,0.0,2017-2018,91906c4b,Tenerife,19,0.2,0.0,0.0,67.0,1.0,4887.0,Tenerife
+,Samuel Arbelo,es ESP,MF,0,0,,,2017-2018,89f3ec04,Tenerife,,,,,67.0,1.0,4888.0,Tenerife
+,Roberto Bolaños,es ESP,MF,0,0,,,2017-2018,b9c04db1,Tenerife,,,,,67.0,1.0,4881.0,Tenerife
+,Ángel Jesús Galván Rivero,es ESP,GK,0,0,,,2017-2018,56e25bb,Tenerife,,,,,67.0,1.0,4877.0,Tenerife
+,Brian Torres,es ESP,MF,0,0,,,2017-2018,900ad6fc,Tenerife,,,,,67.0,1.0,4889.0,Tenerife
+,﻿Dani Hernández,ve VEN,GK,40,40,1.0,0.0,2018-2019,ba02295e,Tenerife,"3,600",40.0,4.0,0.0,67.0,53.0,,Tenerife
+,Luis Milla,es ESP,MF,38,38,5.0,2.0,2018-2019,19c36442,Tenerife,"3,397",37.7,11.0,0.0,67.0,1.0,4886.0,Tenerife
+,Alberto Jiménez,es ESP,"DF,MF",35,33,1.0,0.0,2018-2019,3a780635,Tenerife,"2,924",32.5,11.0,0.0,67.0,1.0,4857.0,Tenerife
+,Jorge Sáenz,es ESP,DF,33,33,2.0,4.0,2018-2019,bfca375c,Tenerife,"2,884",32.0,16.0,1.0,67.0,1.0,,Tenerife
+,Filip Malbašić,rs SRB,"FW,MF",39,32,3.0,6.0,2018-2019,04981123,Tenerife,"3,015",33.5,11.0,0.0,67.0,28.0,,Tenerife
+,Luis Pérez,es ESP,DF,34,32,0.0,0.0,2018-2019,b7c04927,Tenerife,"2,806",31.2,7.0,1.0,67.0,1.0,,Tenerife
+,Suso Santana,es ESP,MF,36,30,1.0,5.0,2018-2019,c78902c,Tenerife,"2,705",30.1,12.0,0.0,67.0,1.0,4836.0,Tenerife
+,Naranjo,es ESP,"MF,FW",36,23,4.0,6.0,2018-2019,2a70c756,Tenerife,"2,183",24.3,10.0,1.0,67.0,1.0,,Tenerife
+,Iker Undabarrena,es ESP,MF,27,22,2.0,0.0,2018-2019,d21e2f8,Tenerife,"1,884",20.9,5.0,0.0,67.0,1.0,4890.0,Tenerife
+,Samuel Camille,mq MTQ,DF,20,19,1.0,0.0,2018-2019,5279c822,Tenerife,"1,645",18.3,3.0,0.0,67.0,104.0,,Tenerife
+,Nano,es ESP,FW,31,18,0.0,4.0,2018-2019,217011a0,Tenerife,"1,752",19.5,5.0,0.0,67.0,1.0,,Tenerife
+,Carlos Ruiz,es ESP,DF,24,18,1.0,2.0,2018-2019,3c871dd7,Tenerife,"1,606",17.8,3.0,0.0,67.0,1.0,4849.0,Tenerife
+,Uroš Račić,rs SRB,MF,16,15,1.0,1.0,2018-2019,faed84db,Tenerife,"1,338",14.9,7.0,0.0,67.0,28.0,,Tenerife
+,Bryan Acosta,hn HON,MF,16,15,0.0,2.0,2018-2019,c5f400f4,Tenerife,"1,187",13.2,6.0,0.0,67.0,107.0,4885.0,Tenerife
+,Héctor Hernández,es ESP,DF,15,14,0.0,0.0,2018-2019,76ee80ee,Tenerife,"1,270",14.1,2.0,0.0,67.0,1.0,,Tenerife
+,Borja Lasso,es ESP,"MF,FW",17,14,1.0,0.0,2018-2019,d9faee7e,Tenerife,"1,032",11.5,5.0,0.0,67.0,1.0,,Tenerife
+,Paco Montañés,es ESP,MF,22,11,2.0,0.0,2018-2019,9cc493b1,Tenerife,"1,011",11.2,2.0,0.0,67.0,1.0,,Tenerife
+,Raúl Cámara,es ESP,"DF,MF",12,10,0.0,0.0,2018-2019,585753d9,Tenerife,779,8.7,4.0,0.0,67.0,1.0,,Tenerife
+,Isma López,es ESP,"DF,MF",15,9,1.0,2.0,2018-2019,644a7f5,Tenerife,915,10.2,1.0,0.0,67.0,1.0,,Tenerife
+,Mauro dos Santos,ar ARG,DF,7,7,0.0,0.0,2018-2019,c699fdd,Tenerife,591,6.6,4.0,0.0,67.0,5.0,,Tenerife
+,Fernando Coniglio,ar ARG,FW,16,6,0.0,0.0,2018-2019,5d0211,Tenerife,614,6.8,3.0,0.0,67.0,5.0,4891.0,Tenerife
+,Lucas Aveldaño,ar ARG,DF,5,5,0.0,1.0,2018-2019,d120357b,Tenerife,393,4.4,1.0,0.0,67.0,5.0,,Tenerife
+,Joao Rodríguez,co COL,MF,13,4,0.0,1.0,2018-2019,84b7c924,Tenerife,479,5.3,3.0,0.0,67.0,19.0,4892.0,Tenerife
+,Tyronne,es ESP,MF,13,1,0.0,1.0,2018-2019,f76bbf9c,Tenerife,206,2.3,0.0,0.0,67.0,1.0,4879.0,Tenerife
+,Javier Alonso,es ESP,MF,2,1,0.0,0.0,2018-2019,63e79610,Tenerife,96,1.1,0.0,0.0,67.0,1.0,4893.0,Tenerife
+,Ángel Jesús Galván Rivero,es ESP,GK,1,1,0.0,0.0,2018-2019,56e25bb,Tenerife,90,1.0,0.0,0.0,67.0,1.0,4877.0,Tenerife
+,Borja Llarena,es ESP,FW,6,0,0.0,0.0,2018-2019,91906c4b,Tenerife,87,1.0,0.0,0.0,67.0,1.0,4887.0,Tenerife
+,Shaaban Iddi,tz TAN,FW,3,0,0.0,0.0,2018-2019,0e4c8086,Tenerife,31,0.3,0.0,0.0,67.0,117.0,4894.0,Tenerife
+,Samuel Arbelo,es ESP,MF,0,0,,,2018-2019,89f3ec04,Tenerife,,,,,67.0,1.0,4888.0,Tenerife
+,Nahuel Omiliani,es ESP,DF,0,0,,,2018-2019,9f511fbe,Tenerife,,,,,67.0,1.0,,Tenerife
+,Otaño,es ESP,GK,0,0,,,2018-2019,f70db755,Tenerife,,,,,67.0,1.0,4895.0,Tenerife
+,﻿Adrián Ortolá,es ESP,GK,37,36,0.0,0.0,2019-2020,6a22fe38,Tenerife,"3,291",36.6,4.0,0.0,67.0,1.0,,Tenerife
+,Álex Muñoz,es ESP,DF,38,36,2.0,2.0,2019-2020,853f211e,Tenerife,"3,241",36.0,9.0,0.0,67.0,1.0,,Tenerife
+,Aitor Sanz,es ESP,MF,39,36,0.0,2.0,2019-2020,bd267b8d,Tenerife,"3,102",34.5,13.0,1.0,67.0,1.0,4850.0,Tenerife
+,Luis Pérez,es ESP,DF,36,35,4.0,0.0,2019-2020,b7c04927,Tenerife,"3,094",34.4,4.0,0.0,67.0,1.0,,Tenerife
+,Luis Milla,es ESP,MF,35,33,6.0,8.0,2019-2020,19c36442,Tenerife,"2,944",32.7,5.0,1.0,67.0,1.0,4886.0,Tenerife
+,Alberto Jiménez,es ESP,"DF,MF",33,31,0.0,0.0,2019-2020,3a780635,Tenerife,"2,769",30.8,9.0,0.0,67.0,1.0,4857.0,Tenerife
+,Dani Gómez,es ESP,FW,38,26,1.0,9.0,2019-2020,0e5ddc7c,Tenerife,"2,456",27.3,3.0,0.0,67.0,1.0,,Tenerife
+,Nikola Šipčić,me MNE,DF,25,24,0.0,3.0,2019-2020,75b7058f,Tenerife,"2,189",24.3,6.0,1.0,67.0,33.0,4896.0,Tenerife
+,Shaquell Moore,us USA,"MF,DF",26,19,3.0,1.0,2019-2020,3b9f859b,Tenerife,"1,801",20.0,5.0,0.0,67.0,75.0,,Tenerife
+,Matías Nahuel,es ESP,MF,26,19,2.0,1.0,2019-2020,48e4c485,Tenerife,"1,578",17.5,5.0,0.0,67.0,1.0,,Tenerife
+,Borja Lasso,es ESP,"MF,FW",19,18,1.0,4.0,2019-2020,d9faee7e,Tenerife,"1,455",16.2,7.0,1.0,67.0,1.0,,Tenerife
+,Filip Malbašić,rs SRB,"MF,FW",21,18,2.0,4.0,2019-2020,04981123,Tenerife,"1,447",16.1,4.0,0.0,67.0,28.0,,Tenerife
+,Carlos Ruiz,es ESP,DF,18,17,0.0,0.0,2019-2020,3c871dd7,Tenerife,"1,439",16.0,8.0,2.0,67.0,1.0,4849.0,Tenerife
+,Álex Bermejo,es ESP,MF,28,16,2.0,6.0,2019-2020,d9b180dd,Tenerife,"1,424",15.8,1.0,0.0,67.0,1.0,4897.0,Tenerife
+,Joselu,es ESP,FW,17,15,0.0,2.0,2019-2020,5e9c273,Tenerife,"1,127",12.5,2.0,0.0,67.0,1.0,,Tenerife
+,Suso Santana,es ESP,MF,29,14,2.0,5.0,2019-2020,c78902c,Tenerife,"1,360",15.1,3.0,0.0,67.0,1.0,4836.0,Tenerife
+,Róbert Mazáň,sk SVK,DF,11,11,1.0,1.0,2019-2020,30672832,Tenerife,977,10.9,6.0,2.0,67.0,70.0,,Tenerife
+,Lluis López,es ESP,"DF,MF",9,9,0.0,0.0,2019-2020,685f013,Tenerife,753,8.4,3.0,0.0,67.0,1.0,,Tenerife
+,Daniel Lasure,es ESP,"MF,DF",12,7,1.0,0.0,2019-2020,b74d54d6,Tenerife,609,6.8,1.0,0.0,67.0,1.0,,Tenerife
+,Ramón Mierez,ar ARG,FW,20,6,1.0,1.0,2019-2020,44c16979,Tenerife,707,7.9,2.0,0.0,67.0,5.0,4898.0,Tenerife
+,Isma López,es ESP,"DF,MF",8,6,1.0,0.0,2019-2020,644a7f5,Tenerife,550,6.1,1.0,0.0,67.0,1.0,,Tenerife
+,Dani Hernández,ve VEN,GK,6,6,0.0,0.0,2019-2020,ba02295e,Tenerife,489,5.4,0.0,0.0,67.0,53.0,,Tenerife
+,Naranjo,es ESP,"FW,MF",10,5,0.0,0.0,2019-2020,2a70c756,Tenerife,476,5.3,3.0,0.0,67.0,1.0,,Tenerife
+,Iker Undabarrena,es ESP,MF,19,4,0.0,0.0,2019-2020,d21e2f8,Tenerife,528,5.9,4.0,0.0,67.0,1.0,4890.0,Tenerife
+,Javier Muñoz,es ESP,"MF,FW",13,4,2.0,0.0,2019-2020,c7c84c2,Tenerife,504,5.6,0.0,0.0,67.0,1.0,129.0,Tenerife
+,Javier Alonso,es ESP,MF,7,4,0.0,0.0,2019-2020,63e79610,Tenerife,361,4.0,1.0,0.0,67.0,1.0,4893.0,Tenerife
+,Jorge Padilla,es ESP,FW,10,4,0.0,1.0,2019-2020,4c7d4bb,Tenerife,321,3.6,1.0,0.0,67.0,1.0,4899.0,Tenerife
+,Elliot Gómez,es ESP,MF,9,3,1.0,0.0,2019-2020,34395370,Tenerife,409,4.5,0.0,0.0,67.0,1.0,4900.0,Tenerife
+,Mauro dos Santos,ar ARG,DF,1,0,0.0,0.0,2019-2020,c699fdd,Tenerife,19,0.2,0.0,0.0,67.0,5.0,,Tenerife
+,Otaño,es ESP,GK,0,0,,,2019-2020,f70db755,Tenerife,,,,,67.0,1.0,4895.0,Tenerife
+,﻿Shaquell Moore,us USA,"DF,MF",41,37,2.0,0.0,2020-2021,3b9f859b,Tenerife,"3,355",37.3,9.0,0.0,67.0,75.0,,Tenerife
+,Fran Sol,es ESP,FW,38,35,2.0,10.0,2020-2021,9bd3b683,Tenerife,"2,993",33.3,4.0,0.0,67.0,1.0,,Tenerife
+,Nikola Šipčić,me MNE,DF,34,32,1.0,0.0,2020-2021,75b7058f,Tenerife,"2,879",32.0,6.0,0.0,67.0,33.0,4896.0,Tenerife
+,Aitor Sanz,es ESP,MF,35,32,1.0,0.0,2020-2021,bd267b8d,Tenerife,"2,829",31.4,13.0,0.0,67.0,1.0,4850.0,Tenerife
+,Nono,es ESP,MF,37,28,3.0,0.0,2020-2021,13289422,Tenerife,"2,439",27.1,8.0,0.0,67.0,1.0,,Tenerife
+,Dani Hernández,ve VEN,GK,25,25,0.0,0.0,2020-2021,ba02295e,Tenerife,"2,250",25.0,1.0,0.0,67.0,53.0,,Tenerife
+,Valentín Vada,ar ARG,"MF,FW",32,25,1.0,2.0,2020-2021,dcf7cf44,Tenerife,"1,929",21.4,9.0,0.0,67.0,5.0,,Tenerife
+,Álex Muñoz,es ESP,DF,31,24,2.0,3.0,2020-2021,853f211e,Tenerife,"2,244",24.9,7.0,1.0,67.0,1.0,,Tenerife
+,Carlos Pomares Rayo,es ESP,"DF,MF",26,21,1.0,3.0,2020-2021,43742e87,Tenerife,"1,777",19.7,7.0,1.0,67.0,1.0,,Tenerife
+,Bruno Wilson,pt POR,DF,19,19,0.0,1.0,2020-2021,965fc36d,Tenerife,"1,660",18.4,8.0,0.0,67.0,3.0,4902.0,Tenerife
+,Ramón Folch,es ESP,MF,24,19,1.0,1.0,2020-2021,dc56efc9,Tenerife,"1,584",17.6,6.0,0.0,67.0,1.0,,Tenerife
+,Carlos Ruiz,es ESP,DF,22,18,0.0,1.0,2020-2021,3c871dd7,Tenerife,"1,572",17.5,7.0,0.0,67.0,1.0,4849.0,Tenerife
+,Javier Alonso,es ESP,MF,24,17,1.0,0.0,2020-2021,63e79610,Tenerife,"1,506",16.7,5.0,2.0,67.0,1.0,4893.0,Tenerife
+,Jorge Zarfino,uy URU,"MF,FW",22,16,2.0,1.0,2020-2021,0841f1d8,Tenerife,"1,399",15.5,3.0,1.0,67.0,8.0,4903.0,Tenerife
+,Samuel Shashoua,eng ENG,"FW,MF",33,15,0.0,3.0,2020-2021,df855e4b,Tenerife,"1,491",16.6,3.0,0.0,67.0,6.0,4904.0,Tenerife
+,Adrián Ortolá,es ESP,GK,14,14,0.0,0.0,2020-2021,6a22fe38,Tenerife,"1,260",14.0,0.0,0.0,67.0,1.0,,Tenerife
+,Álex Bermejo,es ESP,"MF,FW",22,14,1.0,3.0,2020-2021,d9b180dd,Tenerife,"1,124",12.5,3.0,1.0,67.0,1.0,4897.0,Tenerife
+,Alberto Jiménez,es ESP,"DF,MF",24,13,0.0,0.0,2020-2021,3a780635,Tenerife,"1,289",14.3,2.0,2.0,67.0,1.0,4857.0,Tenerife
+,Emmanuel Apeh,ng NGA,FW,31,13,1.0,0.0,2020-2021,230ebcc,Tenerife,"1,223",13.6,3.0,0.0,67.0,52.0,,Tenerife
+,Otar Kakabadze,ge GEO,DF,16,11,0.0,0.0,2020-2021,2ea12fc4,Tenerife,865,9.6,1.0,0.0,67.0,76.0,,Tenerife
+,Suso Santana,es ESP,"MF,FW",19,8,2.0,2.0,2020-2021,c78902c,Tenerife,739,8.2,3.0,0.0,67.0,1.0,4836.0,Tenerife
+,Sergio González,es ESP,"DF,MF",15,7,1.0,1.0,2020-2021,5dd16ace,Tenerife,763,8.5,3.0,1.0,67.0,1.0,,Tenerife
+,Germán Valera,es ESP,MF,17,5,1.0,2.0,2020-2021,84f55b4a,Tenerife,519,5.8,2.0,0.0,67.0,1.0,,Tenerife
+,Joselu,es ESP,FW,22,5,0.0,0.0,2020-2021,5e9c273,Tenerife,478,5.3,3.0,0.0,67.0,1.0,,Tenerife
+,Jacobo,es ESP,"MF,FW",14,5,0.0,1.0,2020-2021,09e81276,Tenerife,477,5.3,3.0,0.0,67.0,1.0,,Tenerife
+,Jon Ander Serantes,es ESP,GK,3,3,0.0,0.0,2020-2021,983ccabe,Tenerife,270,3.0,1.0,0.0,67.0,1.0,4905.0,Tenerife
+,Jorge Padilla,es ESP,FW,16,1,1.0,1.0,2020-2021,4c7d4bb,Tenerife,360,4.0,1.0,0.0,67.0,1.0,4899.0,Tenerife
+,Felix,es ESP,MF,1,0,0.0,0.0,2020-2021,6dfbdb96,Tenerife,4,0.0,0.0,0.0,67.0,1.0,4906.0,Tenerife
+,Borja Bethencourt,,DF,0,0,,,2020-2021,725161c5,Tenerife,,,,,67.0,,,Tenerife
+,Ale Cruz,es ESP,MF,0,0,,,2020-2021,dcbeeb2c,Tenerife,,,,,67.0,1.0,4907.0,Tenerife
+,Dylan,es ESP,MF,0,0,,,2020-2021,5e8bada,Tenerife,,,,,67.0,1.0,4908.0,Tenerife
+,Elliot Gómez,es ESP,FW,0,0,,,2020-2021,34395370,Tenerife,,,,,67.0,1.0,4900.0,Tenerife
+,Omar Jaiteh,gm GAM,DF,0,0,,,2020-2021,970bf5b7,Tenerife,,,,,67.0,92.0,4909.0,Tenerife
+,Alejandro Medina,es ESP,GK,0,0,,,2020-2021,f3df0647,Tenerife,,,,,67.0,1.0,4910.0,Tenerife
+,Víctor Méndez,es ESP,GK,0,0,,,2020-2021,d97e276a,Tenerife,,,,,67.0,1.0,4911.0,Tenerife
+,David Rodríguez,es ESP,DF,0,0,,,2020-2021,f0cde899,Tenerife,,,,,67.0,1.0,4912.0,Tenerife
+,Jeremy Socorro,es ESP,DF,0,0,,,2020-2021,5d20654f,Tenerife,,,,,67.0,1.0,4913.0,Tenerife
+,﻿Juan Soriano,es ESP,GK,41,41,0.0,0.0,2021-2022,5512b1a9,Tenerife,"3,690",41.0,5.0,0.0,67.0,1.0,,Tenerife
+,Elady Zorrilla,es ESP,"FW,MF",40,35,3.0,11.0,2021-2022,8862695f,Tenerife,"2,819",31.3,3.0,0.0,67.0,1.0,,Tenerife
+,José León Bernal,es ESP,DF,35,34,0.0,0.0,2021-2022,bea8d8b7,Tenerife,"3,006",33.4,2.0,0.0,67.0,1.0,,Tenerife
+,Álex Corredera,es ESP,MF,41,33,2.0,2.0,2021-2022,b3a2168d,Tenerife,"2,951",32.8,3.0,0.0,67.0,1.0,,Tenerife
+,Jérémy Mellot,fr FRA,DF,39,33,2.0,1.0,2021-2022,5fa69055,Tenerife,"2,900",32.2,6.0,1.0,67.0,4.0,4914.0,Tenerife
+,Aitor Sanz,es ESP,MF,33,29,1.0,0.0,2021-2022,bd267b8d,Tenerife,"2,398",26.6,14.0,1.0,67.0,1.0,4850.0,Tenerife
+,Enric Gallego,es ESP,FW,33,27,5.0,10.0,2021-2022,82e9b89d,Tenerife,"2,316",25.7,8.0,0.0,67.0,1.0,,Tenerife
+,Victor Mollejo,es ESP,"MF,FW",37,27,2.0,3.0,2021-2022,23fffc06,Tenerife,"2,291",25.5,8.0,1.0,67.0,1.0,,Tenerife
+,Álex Bermejo,es ESP,MF,29,23,1.0,2.0,2021-2022,d9b180dd,Tenerife,"1,797",20.0,4.0,0.0,67.0,1.0,4897.0,Tenerife
+,Carlos Pomares Rayo,es ESP,DF,28,20,3.0,0.0,2021-2022,43742e87,Tenerife,"1,885",20.9,4.0,0.0,67.0,1.0,,Tenerife
+,Álex Muñoz,es ESP,DF,25,20,1.0,2.0,2021-2022,853f211e,Tenerife,"1,670",18.6,5.0,0.0,67.0,1.0,,Tenerife
+,Carlos Ruiz,es ESP,DF,20,19,0.0,0.0,2021-2022,3c871dd7,Tenerife,"1,702",18.9,7.0,0.0,67.0,1.0,4849.0,Tenerife
+,Samuel Shashoua,eng ENG,"FW,MF",32,19,4.0,6.0,2021-2022,df855e4b,Tenerife,"1,692",18.8,4.0,0.0,67.0,6.0,4904.0,Tenerife
+,Sergio González,es ESP,"DF,MF",29,17,1.0,0.0,2021-2022,5dd16ace,Tenerife,"1,655",18.4,4.0,0.0,67.0,1.0,,Tenerife
+,Nikola Šipčić,me MNE,DF,30,17,0.0,1.0,2021-2022,75b7058f,Tenerife,"1,539",17.1,4.0,0.0,67.0,33.0,4896.0,Tenerife
+,Míchel,es ESP,MF,33,13,2.0,3.0,2021-2022,418f8f61,Tenerife,"1,490",16.6,9.0,0.0,67.0,1.0,,Tenerife
+,Jamelli,es ESP,MF,28,13,2.0,1.0,2021-2022,57a6fd07,Tenerife,"1,413",15.7,2.0,0.0,67.0,1.0,4915.0,Tenerife
+,Mario González,es ESP,FW,16,13,0.0,6.0,2021-2022,d189e48f,Tenerife,973,10.8,1.0,0.0,67.0,1.0,,Tenerife
+,Shaquell Moore,us USA,DF,23,10,2.0,0.0,2021-2022,3b9f859b,Tenerife,"1,017",11.3,2.0,0.0,67.0,75.0,,Tenerife
+,Pablo Larrea,es ESP,MF,21,10,0.0,0.0,2021-2022,4c8810b,Tenerife,878,9.8,5.0,1.0,67.0,1.0,,Tenerife
+,Andrés Martín,es ESP,MF,16,4,2.0,2.0,2021-2022,2ae30661,Tenerife,650,7.2,1.0,0.0,67.0,1.0,,Tenerife
+,Nono,es ESP,MF,3,2,0.0,0.0,2021-2022,13289422,Tenerife,189,2.1,0.0,0.0,67.0,1.0,,Tenerife
+,Emmanuel Apeh,ng NGA,FW,8,1,1.0,1.0,2021-2022,230ebcc,Tenerife,164,1.8,0.0,0.0,67.0,52.0,,Tenerife
+,Dani Hernández,ve VEN,GK,1,1,0.0,0.0,2021-2022,ba02295e,Tenerife,90,1.0,0.0,0.0,67.0,53.0,,Tenerife
+,Jeremy Socorro,es ESP,DF,1,1,0.0,0.0,2021-2022,5d20654f,Tenerife,90,1.0,0.0,0.0,67.0,1.0,4913.0,Tenerife
+,Matías Nahuel,es ESP,"FW,MF",4,0,0.0,0.0,2021-2022,48e4c485,Tenerife,93,1.0,2.0,0.0,67.0,1.0,,Tenerife
+,Etyan,es ESP,FW,7,0,0.0,0.0,2021-2022,894559b1,Tenerife,88,1.0,0.0,1.0,67.0,1.0,4916.0,Tenerife
+,David Rodríguez,es ESP,DF,1,0,0.0,0.0,2021-2022,f0cde899,Tenerife,50,0.6,0.0,0.0,67.0,1.0,4912.0,Tenerife
+,Thierno Barry,gn GUI,FW,1,0,0.0,0.0,2021-2022,49d9743,Tenerife,4,0.0,0.0,0.0,67.0,74.0,4917.0,Tenerife
+,Javier Alonso,es ESP,MF,0,0,,,2021-2022,63e79610,Tenerife,,,,,67.0,1.0,4893.0,Tenerife
+,Dylan,es ESP,MF,0,0,,,2021-2022,5e8bada,Tenerife,,,,,67.0,1.0,4908.0,Tenerife
+,Felix,es ESP,MF,0,0,,,2021-2022,6dfbdb96,Tenerife,,,,,67.0,1.0,4906.0,Tenerife
+,Alberto Jiménez,es ESP,"DF,MF",0,0,,,2021-2022,3a780635,Tenerife,,,,,67.0,1.0,4857.0,Tenerife
+,Alejandro Medina,es ESP,GK,0,0,,,2021-2022,f3df0647,Tenerife,,,,,67.0,1.0,4910.0,Tenerife
+,Víctor Méndez,es ESP,GK,0,0,,,2021-2022,d97e276a,Tenerife,,,,,67.0,1.0,4911.0,Tenerife
+,Jorge Padilla,es ESP,FW,0,0,,,2021-2022,4c7d4bb,Tenerife,,,,,67.0,1.0,4899.0,Tenerife
+,Teto,es ESP,FW,0,0,,,2021-2022,8dbf0e8f,Tenerife,,,,,67.0,1.0,4918.0,Tenerife

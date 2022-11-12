@@ -1,0 +1,624 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Antonio Notario,es ESP,GK,37,37,0.0,0.0,2002-2003,b49f31c5,Sevilla,"3,330",37.0,1.0,0.0,46.0,1.0,,Sevilla
+,David Castedo,es ESP,DF,35,35,2.0,0.0,2002-2003,d39ba62e,Sevilla,"3,140",34.9,7.0,1.0,46.0,1.0,1776.0,Sevilla
+,Javier Casquero,es ESP,MF,35,35,2.0,5.0,2002-2003,b6daa16,Sevilla,"2,855",31.7,7.0,0.0,46.0,1.0,1777.0,Sevilla
+,Pablo Alfaro,es ESP,DF,33,33,0.0,1.0,2002-2003,9654a31,Sevilla,"2,965",32.9,5.0,1.0,46.0,1.0,1778.0,Sevilla
+,José Antonio Reyes,es ESP,MF,34,32,5.0,9.0,2002-2003,19058f02,Sevilla,"2,780",30.9,14.0,1.0,46.0,1.0,56.0,Sevilla
+,Javi Navarro,es ESP,"DF,MF",30,30,0.0,1.0,2002-2003,df733521,Sevilla,"2,659",29.5,8.0,1.0,46.0,1.0,1779.0,Sevilla
+,Francisco Gallardo,es ESP,MF,34,29,3.0,1.0,2002-2003,be80c87c,Sevilla,"2,432",27.0,5.0,1.0,46.0,1.0,,Sevilla
+,Marcos Vales,es ESP,MF,31,21,1.0,3.0,2002-2003,f96c7239,Sevilla,"2,072",23.0,8.0,1.0,46.0,1.0,,Sevilla
+,Gerardo Torrado,mx MEX,MF,22,21,2.0,0.0,2002-2003,c966c9a3,Sevilla,"1,844",20.5,3.0,0.0,46.0,20.0,1780.0,Sevilla
+,Fredi Lobeiras,es ESP,MF,23,21,3.0,0.0,2002-2003,9e85ab41,Sevilla,"1,636",18.2,6.0,2.0,46.0,1.0,1781.0,Sevilla
+,Antoñito,es ESP,FW,32,19,1.0,7.0,2002-2003,822723a6,Sevilla,"1,784",19.8,7.0,0.0,46.0,1.0,1782.0,Sevilla
+,Juan Redondo,es ESP,DF,24,19,1.0,0.0,2002-2003,c2bed898,Sevilla,"1,701",18.9,6.0,0.0,46.0,1.0,1783.0,Sevilla
+,Zoran Njeguš,rs SRB,"DF,MF",19,16,0.0,0.0,2002-2003,cd70ea39,Sevilla,"1,344",14.9,6.0,0.0,46.0,28.0,1784.0,Sevilla
+,Mariano Toedtli,ar ARG,FW,26,15,1.0,4.0,2002-2003,dc1fd8a8,Sevilla,"1,200",13.3,1.0,0.0,46.0,5.0,1785.0,Sevilla
+,Óscar,es ESP,DF,17,14,0.0,0.0,2002-2003,87631dde,Sevilla,"1,329",14.8,6.0,0.0,46.0,1.0,1786.0,Sevilla
+,Víctor Salas,es ESP,MF,27,10,1.0,0.0,2002-2003,67c31cb7,Sevilla,"1,155",12.8,3.0,0.0,46.0,1.0,1787.0,Sevilla
+,Vinny Samways,eng ENG,MF,10,8,0.0,0.0,2002-2003,9dc41793,Sevilla,725,8.1,4.0,0.0,46.0,6.0,1788.0,Sevilla
+,Francisco Lama,es ESP,MF,4,4,0.0,0.0,2002-2003,39e2db59,Sevilla,282,3.1,0.0,0.0,46.0,1.0,1789.0,Sevilla
+,Moisés,es ESP,FW,12,3,0.0,1.0,2002-2003,3415193,Sevilla,399,4.4,1.0,0.0,46.0,1.0,1790.0,Sevilla
+,Alfonso Vera,es ESP,MF,4,3,1.0,0.0,2002-2003,d0b31ce2,Sevilla,288,3.2,1.0,0.0,46.0,1.0,1791.0,Sevilla
+,Juanmi Gelabert,es ESP,DF,5,3,0.0,0.0,2002-2003,2603ea8e,Sevilla,286,3.2,4.0,1.0,46.0,1.0,1792.0,Sevilla
+,Tomás Hervás,es ESP,MF,4,3,1.0,0.0,2002-2003,9f1f6292,Sevilla,243,2.7,2.0,0.0,46.0,1.0,1793.0,Sevilla
+,Nikos Machlas,gr GRE,"FW,MF",14,2,0.0,2.0,2002-2003,bae5e837,Sevilla,366,4.1,0.0,0.0,46.0,55.0,1794.0,Sevilla
+,David Arteaga,es ESP,MF,3,2,0.0,0.0,2002-2003,86d9a411,Sevilla,181,2.0,0.0,0.0,46.0,1.0,1795.0,Sevilla
+,Dani Alves,br BRA,"DF,MF",9,1,0.0,0.0,2002-2003,c9e99e49,Sevilla,216,2.4,0.0,0.0,46.0,2.0,,Sevilla
+,Juan Carlos Caballero,es ESP,GK,1,1,0.0,0.0,2002-2003,6b8a75b9,Sevilla,90,1.0,1.0,0.0,46.0,1.0,1796.0,Sevilla
+,José Miguel Prieto,es ESP,DF,1,1,0.0,0.0,2002-2003,0f1e8b40,Sevilla,49,0.5,1.0,0.0,46.0,1.0,1797.0,Sevilla
+,Inti Podestá,uy URU,MF,2,0,0.0,0.0,2002-2003,bcd3b2a1,Sevilla,61,0.7,0.0,0.0,46.0,8.0,1798.0,Sevilla
+,﻿Pablo Alfaro,es ESP,DF,37,37,0.0,0.0,2003-2004,9654a31,Sevilla,"3,264",36.3,6.0,1.0,46.0,1.0,1778.0,Sevilla
+,José Luis Martí,es ESP,MF,36,36,4.0,1.0,2003-2004,111c668a,Sevilla,"3,212",35.7,10.0,1.0,46.0,1.0,,Sevilla
+,Javi Navarro,es ESP,"DF,MF",36,36,1.0,1.0,2003-2004,df733521,Sevilla,"3,168",35.2,12.0,0.0,46.0,1.0,1779.0,Sevilla
+,David Castedo,es ESP,DF,35,35,1.0,0.0,2003-2004,d39ba62e,Sevilla,"3,150",35.0,5.0,0.0,46.0,1.0,1776.0,Sevilla
+,Esteban,es ESP,GK,30,29,0.0,0.0,2003-2004,4fc2638,Sevilla,"2,695",29.9,3.0,0.0,46.0,1.0,,Sevilla
+,Júlio Baptista,br BRA,"FW,MF",30,28,3.0,20.0,2003-2004,44557475,Sevilla,"2,536",28.2,6.0,0.0,46.0,2.0,40.0,Sevilla
+,Dani Alves,br BRA,"DF,MF",29,28,3.0,1.0,2003-2004,c9e99e49,Sevilla,"2,416",26.8,16.0,0.0,46.0,2.0,,Sevilla
+,Juan Redondo,es ESP,DF,29,24,3.0,0.0,2003-2004,c2bed898,Sevilla,"2,098",23.3,8.0,0.0,46.0,1.0,1783.0,Sevilla
+,Darío Silva,uy URU,FW,27,24,5.0,7.0,2003-2004,1efa0295,Sevilla,"2,055",22.8,7.0,2.0,46.0,8.0,1799.0,Sevilla
+,Javier Casquero,es ESP,MF,25,24,0.0,5.0,2003-2004,b6daa16,Sevilla,"1,759",19.5,7.0,0.0,46.0,1.0,1777.0,Sevilla
+,José Antonio Reyes,es ESP,MF,21,20,5.0,5.0,2003-2004,19058f02,Sevilla,"1,728",19.2,5.0,0.0,46.0,1.0,56.0,Sevilla
+,Antoñito,es ESP,FW,28,15,3.0,5.0,2003-2004,822723a6,Sevilla,"1,566",17.4,7.0,1.0,46.0,1.0,1782.0,Sevilla
+,Antonio López,es ESP,MF,18,15,,0.0,2003-2004,1fdd5ff7,Sevilla,"1,319",14.7,4.0,0.0,46.0,1.0,1800.0,Sevilla
+,Francisco Gallardo,es ESP,MF,20,14,0.0,1.0,2003-2004,be80c87c,Sevilla,"1,107",12.3,5.0,0.0,46.0,1.0,,Sevilla
+,Antonio Notario,es ESP,GK,10,9,0.0,0.0,2003-2004,b49f31c5,Sevilla,725,8.1,2.0,0.0,46.0,1.0,,Sevilla
+,Gerardo Torrado,mx MEX,MF,10,7,0.0,0.0,2003-2004,c966c9a3,Sevilla,530,5.9,4.0,1.0,46.0,20.0,1780.0,Sevilla
+,Germán Hornos,uy URU,FW,16,6,1.0,2.0,2003-2004,232366ec,Sevilla,656,7.3,1.0,1.0,46.0,8.0,1801.0,Sevilla
+,Carlos Domínguez,es ESP,FW,24,5,0.0,4.0,2003-2004,c008c1c3,Sevilla,762,8.5,2.0,0.0,46.0,1.0,,Sevilla
+,Óscar,es ESP,DF,8,4,0.0,0.0,2003-2004,87631dde,Sevilla,447,5.0,4.0,0.0,46.0,1.0,1786.0,Sevilla
+,Inti Podestá,uy URU,MF,9,4,0.0,2.0,2003-2004,bcd3b2a1,Sevilla,371,4.1,5.0,1.0,46.0,8.0,1798.0,Sevilla
+,Marcos Vales,es ESP,MF,10,3,1.0,0.0,2003-2004,f96c7239,Sevilla,389,4.3,2.0,0.0,46.0,1.0,,Sevilla
+,Sergio Ramos,es ESP,DF,7,3,0.0,0.0,2003-2004,08511d65,Sevilla,386,4.3,1.0,0.0,46.0,1.0,38.0,Sevilla
+,Alejandro Marañón,es ESP,DF,6,3,1.0,0.0,2003-2004,9be8422d,Sevilla,282,3.1,3.0,0.0,46.0,1.0,1802.0,Sevilla
+,Jesús Navas,es ESP,"DF,MF",7,2,0.0,0.0,2003-2004,3f10bd22,Sevilla,226,2.5,0.0,0.0,46.0,1.0,1803.0,Sevilla
+,Luis Gil Torres,es ESP,FW,4,2,0.0,0.0,2003-2004,3541486a,Sevilla,182,2.0,2.0,0.0,46.0,1.0,1804.0,Sevilla
+,Aitor Ocio,es ESP,DF,7,2,0.0,0.0,2003-2004,f1c8639b,Sevilla,153,1.7,0.0,0.0,46.0,1.0,,Sevilla
+,Zoran Njeguš,rs SRB,"DF,MF",3,1,0.0,0.0,2003-2004,cd70ea39,Sevilla,118,1.3,2.0,0.0,46.0,28.0,1784.0,Sevilla
+,Antonio Puerta,es ESP,"DF,MF",1,1,0.0,0.0,2003-2004,6d37bd0,Sevilla,71,0.8,0.0,0.0,46.0,1.0,1805.0,Sevilla
+,Juanjo Bezares,es ESP,MF,1,1,0.0,0.0,2003-2004,6d8e0587,Sevilla,55,0.6,0.0,0.0,46.0,1.0,1806.0,Sevilla
+,Marco Navas,es ESP,MF,3,0,,0.0,2003-2004,194ed492,Sevilla,79,0.9,0.0,0.0,46.0,1.0,1807.0,Sevilla
+,Federico Magallanes,uy URU,"FW,MF",5,0,0.0,1.0,2003-2004,d75da374,Sevilla,52,0.6,0.0,0.0,46.0,8.0,1808.0,Sevilla
+,Víctor Salas,es ESP,MF,2,0,0.0,0.0,2003-2004,67c31cb7,Sevilla,33,0.4,0.0,0.0,46.0,1.0,1787.0,Sevilla
+,﻿David Castedo,es ESP,DF,37,37,1.0,0.0,2004-2005,d39ba62e,Sevilla,"3,233",35.9,3.0,0.0,46.0,1.0,1776.0,Sevilla
+,Júlio Baptista,br BRA,"FW,MF",33,32,2.0,18.0,2004-2005,44557475,Sevilla,"2,850",31.7,5.0,1.0,46.0,2.0,40.0,Sevilla
+,José Luis Martí,es ESP,MF,32,32,1.0,0.0,2004-2005,111c668a,Sevilla,"2,718",30.2,14.0,0.0,46.0,1.0,,Sevilla
+,Sergio Ramos,es ESP,DF,31,31,3.0,2.0,2004-2005,08511d65,Sevilla,"2,617",29.1,6.0,0.0,46.0,1.0,38.0,Sevilla
+,Renato,br BRA,MF,33,29,3.0,3.0,2004-2005,dc4d83fe,Sevilla,"2,449",27.2,2.0,0.0,46.0,2.0,1809.0,Sevilla
+,Dani Alves,br BRA,"DF,MF",34,28,1.0,2.0,2004-2005,c9e99e49,Sevilla,"2,534",28.2,9.0,1.0,46.0,2.0,,Sevilla
+,Esteban,es ESP,GK,28,28,0.0,0.0,2004-2005,4fc2638,Sevilla,"2,430",27.0,2.0,0.0,46.0,1.0,,Sevilla
+,Javi Navarro,es ESP,"DF,MF",27,27,0.0,1.0,2004-2005,df733521,Sevilla,"2,363",26.3,10.0,1.0,46.0,1.0,1779.0,Sevilla
+,Pablo Alfaro,es ESP,DF,19,18,0.0,0.0,2004-2005,9654a31,Sevilla,"1,615",17.9,6.0,1.0,46.0,1.0,1778.0,Sevilla
+,Aitor Ocio,es ESP,DF,17,17,0.0,1.0,2004-2005,f1c8639b,Sevilla,"1,496",16.6,6.0,1.0,46.0,1.0,,Sevilla
+,Adriano,br BRA,"DF,MF",16,16,4.0,2.0,2004-2005,9d8586c4,Sevilla,"1,174",13.0,3.0,0.0,46.0,2.0,,Sevilla
+,Jesús Navas,es ESP,"DF,MF",23,15,4.0,2.0,2004-2005,3f10bd22,Sevilla,"1,304",14.5,4.0,0.0,46.0,1.0,1803.0,Sevilla
+,Fernando Sales,es ESP,MF,15,11,1.0,0.0,2004-2005,24486536,Sevilla,931,10.3,2.0,0.0,46.0,1.0,,Sevilla
+,Darío Silva,uy URU,FW,21,10,2.0,2.0,2004-2005,1efa0295,Sevilla,"1,031",11.5,4.0,0.0,46.0,8.0,1799.0,Sevilla
+,Jordi López,es ESP,MF,18,10,0.0,1.0,2004-2005,b6fe8a4c,Sevilla,926,10.3,7.0,0.0,46.0,1.0,28.0,Sevilla
+,Antonio Notario,es ESP,GK,10,10,0.0,0.0,2004-2005,b49f31c5,Sevilla,900,10.0,0.0,0.0,46.0,1.0,,Sevilla
+,Jesuli,es ESP,MF,16,10,1.0,1.0,2004-2005,3bfc833a,Sevilla,877,9.7,1.0,0.0,46.0,1.0,,Sevilla
+,Carlos Aranda,es ESP,FW,16,10,2.0,1.0,2004-2005,2b60c45d,Sevilla,707,7.9,3.0,1.0,46.0,1.0,1810.0,Sevilla
+,Antoñito,es ESP,FW,23,9,1.0,2.0,2004-2005,822723a6,Sevilla,"1,021",11.3,3.0,0.0,46.0,1.0,1782.0,Sevilla
+,Antonio López,es ESP,MF,12,9,0.0,1.0,2004-2005,1fdd5ff7,Sevilla,793,8.8,4.0,0.0,46.0,1.0,1800.0,Sevilla
+,Ariza Makukula,pt POR,FW,13,8,1.0,1.0,2004-2005,62ce8bd7,Sevilla,634,7.0,3.0,0.0,46.0,3.0,1811.0,Sevilla
+,Carlos Domínguez,es ESP,FW,17,5,0.0,3.0,2004-2005,c008c1c3,Sevilla,644,7.2,3.0,0.0,46.0,1.0,,Sevilla
+,Javier Casquero,es ESP,MF,9,5,0.0,0.0,2004-2005,b6daa16,Sevilla,408,4.5,2.0,0.0,46.0,1.0,1777.0,Sevilla
+,Pablo Ruiz,es ESP,DF,7,4,0.0,0.0,2004-2005,9fb57e68,Sevilla,378,4.2,1.0,0.0,46.0,1.0,1812.0,Sevilla
+,David Prieto,es ESP,"DF,MF",4,4,0.0,0.0,2004-2005,8f24e,Sevilla,360,4.0,0.0,0.0,46.0,1.0,1813.0,Sevilla
+,Antonio Puerta,es ESP,"DF,MF",7,2,0.0,1.0,2004-2005,6d37bd0,Sevilla,262,2.9,0.0,0.0,46.0,1.0,1805.0,Sevilla
+,Juan Redondo,es ESP,DF,6,1,0.0,0.0,2004-2005,c2bed898,Sevilla,68,0.8,1.0,0.0,46.0,1.0,1783.0,Sevilla
+,Kepa Blanco,es ESP,FW,2,0,,0.0,2004-2005,021d831,Sevilla,83,0.9,0.0,0.0,46.0,1.0,1814.0,Sevilla
+,Diego Capel,es ESP,MF,3,0,,0.0,2004-2005,4933a2f2,Sevilla,36,0.4,0.0,0.0,46.0,1.0,1815.0,Sevilla
+,﻿Andrés Palop,es ESP,GK,36,36,0.0,0.0,2005-2006,9ab4e785,Sevilla,"3,240",36.0,2.0,0.0,46.0,1.0,,Sevilla
+,Dani Alves,br BRA,"DF,MF",35,35,8.0,3.0,2005-2006,c9e99e49,Sevilla,"3,071",34.1,10.0,1.0,46.0,2.0,,Sevilla
+,David Castedo,es ESP,DF,33,32,2.0,0.0,2005-2006,d39ba62e,Sevilla,"2,678",29.8,9.0,1.0,46.0,1.0,1776.0,Sevilla
+,Jesús Navas,es ESP,"DF,MF",34,31,5.0,2.0,2005-2006,3f10bd22,Sevilla,"2,754",30.6,5.0,0.0,46.0,1.0,1803.0,Sevilla
+,Adriano,br BRA,"DF,MF",32,30,2.0,3.0,2005-2006,9d8586c4,Sevilla,"2,299",25.5,10.0,0.0,46.0,2.0,,Sevilla
+,José Luis Martí,es ESP,MF,33,28,3.0,1.0,2005-2006,111c668a,Sevilla,"2,624",29.2,7.0,0.0,46.0,1.0,,Sevilla
+,Frédéric Kanouté,ml MLI,FW,32,26,1.0,6.0,2005-2006,1a24d5b6,Sevilla,"2,319",25.8,3.0,0.0,46.0,12.0,1816.0,Sevilla
+,Enzo Maresca,it ITA,MF,29,25,3.0,8.0,2005-2006,1a899d99,Sevilla,"2,134",23.7,5.0,2.0,46.0,9.0,1817.0,Sevilla
+,Javi Navarro,es ESP,"DF,MF",25,24,0.0,0.0,2005-2006,df733521,Sevilla,"1,901",21.1,9.0,2.0,46.0,1.0,1779.0,Sevilla
+,Javier Saviola,ar ARG,FW,29,22,2.0,9.0,2005-2006,de544fdb,Sevilla,"1,919",21.3,2.0,0.0,46.0,5.0,67.0,Sevilla
+,Ivica Dragutinović,rs SRB,DF,21,20,0.0,1.0,2005-2006,7ab82833,Sevilla,"1,697",18.9,7.0,1.0,46.0,28.0,1818.0,Sevilla
+,Aitor Ocio,es ESP,DF,23,19,1.0,2.0,2005-2006,f1c8639b,Sevilla,"1,741",19.3,7.0,1.0,46.0,1.0,,Sevilla
+,Renato,br BRA,MF,21,15,1.0,1.0,2005-2006,dc4d83fe,Sevilla,"1,389",15.4,2.0,0.0,46.0,2.0,1809.0,Sevilla
+,Luís Fabiano,br BRA,FW,23,15,1.0,5.0,2005-2006,f7b,Sevilla,"1,192",13.2,5.0,0.0,46.0,2.0,1819.0,Sevilla
+,Julien Escudé,fr FRA,DF,16,12,1.0,0.0,2005-2006,6aa5bd41,Sevilla,"1,237",13.7,3.0,0.0,46.0,4.0,1820.0,Sevilla
+,Jordi López,es ESP,MF,18,11,0.0,2.0,2005-2006,b6fe8a4c,Sevilla,993,11.0,4.0,0.0,46.0,1.0,28.0,Sevilla
+,Kepa Blanco,es ESP,FW,26,9,2.0,6.0,2005-2006,021d831,Sevilla,"1,093",12.1,4.0,1.0,46.0,1.0,1814.0,Sevilla
+,Antonio Puerta,es ESP,"DF,MF",17,8,0.0,2.0,2005-2006,6d37bd0,Sevilla,851,9.5,2.0,0.0,46.0,1.0,1805.0,Sevilla
+,Fernando Sales,es ESP,MF,13,8,1.0,1.0,2005-2006,24486536,Sevilla,763,8.5,2.0,0.0,46.0,1.0,,Sevilla
+,David Prieto,es ESP,"DF,MF",4,4,1.0,0.0,2005-2006,8f24e,Sevilla,324,3.6,0.0,0.0,46.0,1.0,1813.0,Sevilla
+,José Ángel Crespo,es ESP,DF,3,2,0.0,0.0,2005-2006,8ec4c2f7,Sevilla,195,2.2,1.0,0.0,46.0,1.0,1821.0,Sevilla
+,Antonio Notario,es ESP,GK,2,2,0.0,0.0,2005-2006,b49f31c5,Sevilla,180,2.0,0.0,0.0,46.0,1.0,,Sevilla
+,Jesuli,es ESP,MF,6,2,0.0,0.0,2005-2006,3bfc833a,Sevilla,160,1.8,0.0,0.0,46.0,1.0,,Sevilla
+,Diego Capel,es ESP,MF,4,0,0.0,0.0,2005-2006,4933a2f2,Sevilla,152,1.7,1.0,0.0,46.0,1.0,1815.0,Sevilla
+,Alejandro Alfaro,es ESP,"FW,MF",2,0,,0.0,2005-2006,7c293728,Sevilla,43,0.5,0.0,0.0,46.0,1.0,,Sevilla
+,Pablo Ruiz,es ESP,DF,2,0,,0.0,2005-2006,9fb57e68,Sevilla,43,0.5,0.0,0.0,46.0,1.0,1812.0,Sevilla
+,Bruno Herrero Arias,es ESP,MF,2,0,,0.0,2005-2006,cd429fc,Sevilla,15,0.2,0.0,0.0,46.0,1.0,1822.0,Sevilla
+,﻿Dani Alves,br BRA,"DF,MF",34,34,11.0,3.0,2006-2007,c9e99e49,Sevilla,"3,015",33.5,16.0,0.0,46.0,2.0,,Sevilla
+,Andrés Palop,es ESP,GK,34,34,0.0,0.0,2006-2007,9ab4e785,Sevilla,"3,015",33.5,3.0,0.0,46.0,1.0,,Sevilla
+,Frédéric Kanouté,ml MLI,FW,32,30,4.0,21.0,2006-2007,1a24d5b6,Sevilla,"2,571",28.6,2.0,0.0,46.0,12.0,1816.0,Sevilla
+,Jesús Navas,es ESP,"DF,MF",29,29,4.0,1.0,2006-2007,3f10bd22,Sevilla,"2,359",26.2,1.0,0.0,46.0,1.0,1803.0,Sevilla
+,Julien Escudé,fr FRA,DF,30,28,1.0,1.0,2006-2007,6aa5bd41,Sevilla,"2,621",29.1,6.0,0.0,46.0,4.0,1820.0,Sevilla
+,Christian Poulsen,dk DEN,MF,33,27,0.0,1.0,2006-2007,4b83b362,Sevilla,"2,461",27.3,10.0,0.0,46.0,7.0,1823.0,Sevilla
+,Renato,br BRA,MF,33,27,3.0,4.0,2006-2007,dc4d83fe,Sevilla,"2,387",26.5,1.0,0.0,46.0,2.0,1809.0,Sevilla
+,Adriano,br BRA,"DF,MF",26,25,1.0,2.0,2006-2007,9d8586c4,Sevilla,"1,819",20.2,2.0,0.0,46.0,2.0,,Sevilla
+,Javi Navarro,es ESP,"DF,MF",25,24,0.0,0.0,2006-2007,df733521,Sevilla,"2,050",22.8,11.0,1.0,46.0,1.0,1779.0,Sevilla
+,Luís Fabiano,br BRA,FW,26,24,5.0,10.0,2006-2007,f7b,Sevilla,"1,795",19.9,9.0,0.0,46.0,2.0,1819.0,Sevilla
+,Antonio Puerta,es ESP,"DF,MF",30,21,2.0,2.0,2006-2007,6d37bd0,Sevilla,"2,005",22.3,7.0,0.0,46.0,1.0,1805.0,Sevilla
+,Ivica Dragutinović,rs SRB,DF,25,21,0.0,1.0,2006-2007,7ab82833,Sevilla,"1,924",21.4,5.0,1.0,46.0,28.0,1818.0,Sevilla
+,David Castedo,es ESP,DF,18,18,0.0,0.0,2006-2007,d39ba62e,Sevilla,"1,511",16.8,2.0,0.0,46.0,1.0,1776.0,Sevilla
+,Aitor Ocio,es ESP,DF,17,15,0.0,0.0,2006-2007,f1c8639b,Sevilla,"1,288",14.3,3.0,3.0,46.0,1.0,,Sevilla
+,José Luis Martí,es ESP,MF,30,14,2.0,2.0,2006-2007,111c668a,Sevilla,"1,621",18.0,9.0,1.0,46.0,1.0,,Sevilla
+,Enzo Maresca,it ITA,MF,25,13,1.0,2.0,2006-2007,1a899d99,Sevilla,"1,328",14.8,2.0,0.0,46.0,9.0,1817.0,Sevilla
+,Aleksandr Kerzhakov,ru RUS,FW,15,8,2.0,5.0,2006-2007,8cb6c66,Sevilla,773,8.6,2.0,0.0,46.0,23.0,1824.0,Sevilla
+,Andreas Hinkel,de GER,DF,13,7,0.0,0.0,2006-2007,9d56817e,Sevilla,608,6.8,1.0,1.0,46.0,13.0,1825.0,Sevilla
+,Javier Chevantón,uy URU,FW,17,6,1.0,4.0,2006-2007,5824ef34,Sevilla,667,7.4,6.0,0.0,46.0,8.0,1826.0,Sevilla
+,Kepa Blanco,es ESP,FW,9,5,0.0,3.0,2006-2007,021d831,Sevilla,372,4.1,0.0,0.0,46.0,1.0,1814.0,Sevilla
+,David Cobeño,es ESP,GK,5,4,0.0,0.0,2006-2007,df7b0840,Sevilla,405,4.5,0.0,0.0,46.0,1.0,1827.0,Sevilla
+,Alejandro Alfaro,es ESP,"FW,MF",9,2,1.0,1.0,2006-2007,7c293728,Sevilla,309,3.4,1.0,0.0,46.0,1.0,,Sevilla
+,Duda,pt POR,"DF,FW",11,1,1.0,0.0,2006-2007,13d41642,Sevilla,342,3.8,2.0,1.0,46.0,3.0,1828.0,Sevilla
+,Bruno Herrero Arias,es ESP,MF,1,0,0.0,0.0,2006-2007,cd429fc,Sevilla,30,0.3,0.0,0.0,46.0,1.0,1822.0,Sevilla
+,﻿Dani Alves,br BRA,"DF,MF",33,33,12.0,2.0,2007-2008,c9e99e49,Sevilla,"2,820",31.3,12.0,3.0,46.0,2.0,,Sevilla
+,Jesús Navas,es ESP,"DF,MF",36,32,7.0,4.0,2007-2008,3f10bd22,Sevilla,"2,909",32.3,8.0,0.0,46.0,1.0,1803.0,Sevilla
+,Andrés Palop,es ESP,GK,31,31,0.0,0.0,2007-2008,9ab4e785,Sevilla,"2,788",31.0,4.0,0.0,46.0,1.0,,Sevilla
+,Seydou Keita,ml MLI,MF,31,28,2.0,4.0,2007-2008,500c4e9b,Sevilla,"2,544",28.3,9.0,1.0,46.0,12.0,,Sevilla
+,Luís Fabiano,br BRA,FW,30,28,2.0,24.0,2007-2008,f7b,Sevilla,"2,353",26.1,10.0,1.0,46.0,2.0,1819.0,Sevilla
+,Frédéric Kanouté,ml MLI,FW,30,25,2.0,16.0,2007-2008,1a24d5b6,Sevilla,"2,174",24.2,3.0,0.0,46.0,12.0,1816.0,Sevilla
+,Ivica Dragutinović,rs SRB,DF,23,23,0.0,1.0,2007-2008,7ab82833,Sevilla,"2,009",22.3,7.0,0.0,46.0,28.0,1818.0,Sevilla
+,Aquivaldo Mosquera,co COL,DF,24,23,0.0,0.0,2007-2008,8624833,Sevilla,"1,973",21.9,5.0,1.0,46.0,19.0,1829.0,Sevilla
+,Christian Poulsen,dk DEN,MF,29,23,1.0,3.0,2007-2008,4b83b362,Sevilla,"1,948",21.6,8.0,0.0,46.0,7.0,1823.0,Sevilla
+,Adriano,br BRA,"DF,MF",27,23,1.0,1.0,2007-2008,9d8586c4,Sevilla,"1,773",19.7,5.0,1.0,46.0,2.0,,Sevilla
+,Diego Capel,es ESP,MF,31,22,4.0,3.0,2007-2008,4933a2f2,Sevilla,"2,070",23.0,2.0,0.0,46.0,1.0,1815.0,Sevilla
+,Federico Fazio,ar ARG,DF,23,19,0.0,3.0,2007-2008,4e358a2d,Sevilla,"1,638",18.2,5.0,1.0,46.0,5.0,1830.0,Sevilla
+,Renato,br BRA,MF,28,17,0.0,4.0,2007-2008,dc4d83fe,Sevilla,"1,607",17.9,1.0,0.0,46.0,2.0,1809.0,Sevilla
+,Julien Escudé,fr FRA,DF,16,15,0.0,0.0,2007-2008,6aa5bd41,Sevilla,"1,331",14.8,2.0,1.0,46.0,4.0,1820.0,Sevilla
+,José Ángel Crespo,es ESP,DF,13,13,0.0,0.0,2007-2008,8ec4c2f7,Sevilla,945,10.5,2.0,0.0,46.0,1.0,1821.0,Sevilla
+,Enzo Maresca,it ITA,MF,21,12,2.0,1.0,2007-2008,1a899d99,Sevilla,"1,193",13.3,2.0,1.0,46.0,9.0,1817.0,Sevilla
+,David Prieto,es ESP,"DF,MF",9,8,0.0,0.0,2007-2008,8f24e,Sevilla,771,8.6,2.0,0.0,46.0,1.0,1813.0,Sevilla
+,Arouna Koné,ci CIV,FW,21,7,1.0,1.0,2007-2008,f9a72ca4,Sevilla,776,8.6,0.0,0.0,46.0,35.0,1831.0,Sevilla
+,Morgan De Sanctis,it ITA,GK,8,7,0.0,0.0,2007-2008,83228343,Sevilla,632,7.0,0.0,0.0,46.0,9.0,1832.0,Sevilla
+,Aleksandr Kerzhakov,ru RUS,FW,11,6,0.0,3.0,2007-2008,8cb6c66,Sevilla,560,6.2,0.0,0.0,46.0,23.0,1824.0,Sevilla
+,Khalid Boulahrouz,nl NED,DF,6,6,0.0,0.0,2007-2008,9ccceabb,Sevilla,510,5.7,3.0,0.0,46.0,11.0,1833.0,Sevilla
+,Duda,pt POR,"DF,FW",17,5,2.0,0.0,2007-2008,13d41642,Sevilla,615,6.8,0.0,0.0,46.0,3.0,1828.0,Sevilla
+,José Luis Martí,es ESP,MF,9,4,0.0,0.0,2007-2008,111c668a,Sevilla,447,5.0,2.0,0.0,46.0,1.0,,Sevilla
+,Tom De Mul,be BEL,"FW,MF",6,3,0.0,0.0,2007-2008,c668a080,Sevilla,290,3.2,0.0,0.0,46.0,27.0,1834.0,Sevilla
+,Andreas Hinkel,de GER,DF,2,2,0.0,0.0,2007-2008,9d56817e,Sevilla,180,2.0,1.0,0.0,46.0,13.0,1825.0,Sevilla
+,Javier Chevantón,uy URU,FW,8,1,2.0,1.0,2007-2008,5824ef34,Sevilla,256,2.8,4.0,0.0,46.0,8.0,1826.0,Sevilla
+,Lolo,es ESP,"DF,MF",2,1,0.0,0.0,2007-2008,31c71140,Sevilla,110,1.2,1.0,0.0,46.0,1.0,1835.0,Sevilla
+,Antonio Puerta,es ESP,"DF,MF",1,1,0.0,0.0,2007-2008,6d37bd0,Sevilla,29,0.3,0.0,0.0,46.0,1.0,1805.0,Sevilla
+,Juanjo Expósito,es ESP,FW,1,0,0.0,0.0,2007-2008,f0a0b756,Sevilla,35,0.4,0.0,0.0,46.0,1.0,1836.0,Sevilla
+,Alejandro Alfaro,es ESP,"FW,MF",2,0,0.0,0.0,2007-2008,7c293728,Sevilla,4,0.0,0.0,0.0,46.0,1.0,,Sevilla
+,José Manuel Casado,es ESP,DF,1,0,0.0,0.0,2007-2008,d0b6d20e,Sevilla,2,0.0,0.0,0.0,46.0,1.0,1837.0,Sevilla
+,﻿Andrés Palop,es ESP,GK,35,35,0.0,0.0,2008-2009,9ab4e785,Sevilla,"3,150",35.0,6.0,0.0,46.0,1.0,,Sevilla
+,Sébastien Squillaci,fr FRA,DF,33,32,0.0,0.0,2008-2009,f7ec06db,Sevilla,"2,862",31.8,4.0,0.0,46.0,4.0,1838.0,Sevilla
+,Jesús Navas,es ESP,"DF,MF",35,31,8.0,4.0,2008-2009,3f10bd22,Sevilla,"2,748",30.5,7.0,0.0,46.0,1.0,1803.0,Sevilla
+,Fernando Navarro,es ESP,DF,31,30,1.0,0.0,2008-2009,5a3f6fae,Sevilla,"2,716",30.2,15.0,0.0,46.0,1.0,,Sevilla
+,Romaric,ci CIV,MF,36,30,4.0,1.0,2008-2009,9bb5c5e0,Sevilla,"2,484",27.6,7.0,1.0,46.0,35.0,1839.0,Sevilla
+,Frédéric Kanouté,ml MLI,FW,34,29,5.0,18.0,2008-2009,1a24d5b6,Sevilla,"2,656",29.5,3.0,0.0,46.0,12.0,1816.0,Sevilla
+,Renato,br BRA,MF,32,25,3.0,8.0,2008-2009,dc4d83fe,Sevilla,"2,374",26.4,3.0,0.0,46.0,2.0,1809.0,Sevilla
+,Julien Escudé,fr FRA,DF,26,25,0.0,1.0,2008-2009,6aa5bd41,Sevilla,"2,208",24.5,7.0,0.0,46.0,4.0,1820.0,Sevilla
+,Aldo Duscher,ar ARG,MF,27,25,0.0,0.0,2008-2009,44944ca7,Sevilla,"1,974",21.9,10.0,1.0,46.0,5.0,,Sevilla
+,Adriano,br BRA,"DF,MF",29,22,3.0,3.0,2008-2009,9d8586c4,Sevilla,"1,977",22.0,3.0,1.0,46.0,2.0,,Sevilla
+,Luís Fabiano,br BRA,FW,26,21,0.0,8.0,2008-2009,f7b,Sevilla,"1,786",19.8,8.0,2.0,46.0,2.0,1819.0,Sevilla
+,Aquivaldo Mosquera,co COL,DF,17,16,0.0,0.0,2008-2009,8624833,Sevilla,"1,428",15.9,6.0,0.0,46.0,19.0,1829.0,Sevilla
+,Diego Capel,es ESP,MF,32,15,0.0,2.0,2008-2009,4933a2f2,Sevilla,"1,616",18.0,1.0,0.0,46.0,1.0,1815.0,Sevilla
+,Enzo Maresca,it ITA,MF,21,14,2.0,2.0,2008-2009,1a899d99,Sevilla,"1,168",13.0,2.0,1.0,46.0,9.0,1817.0,Sevilla
+,David Prieto,es ESP,"DF,MF",13,13,0.0,0.0,2008-2009,8f24e,Sevilla,"1,080",12.0,3.0,0.0,46.0,1.0,1813.0,Sevilla
+,Abdoulay Konko,fr FRA,"DF,MF",15,11,0.0,0.0,2008-2009,43857861,Sevilla,"1,023",11.4,2.0,1.0,46.0,4.0,1840.0,Sevilla
+,Ivica Dragutinović,rs SRB,DF,14,11,0.0,0.0,2008-2009,7ab82833,Sevilla,924,10.3,3.0,0.0,46.0,28.0,1818.0,Sevilla
+,Diego Perotti,ar ARG,"FW,MF",14,8,1.0,1.0,2008-2009,40d5a0c,Sevilla,725,8.1,1.0,0.0,46.0,5.0,1841.0,Sevilla
+,Federico Fazio,ar ARG,DF,16,7,1.0,0.0,2008-2009,4e358a2d,Sevilla,731,8.1,2.0,0.0,46.0,5.0,1830.0,Sevilla
+,José Ángel Crespo,es ESP,DF,9,6,0.0,0.0,2008-2009,8ec4c2f7,Sevilla,518,5.8,3.0,0.0,46.0,1.0,1821.0,Sevilla
+,Lautaro Acosta,ar ARG,"FW,MF",7,4,0.0,0.0,2008-2009,2a3af4d5,Sevilla,360,4.0,1.0,0.0,46.0,5.0,1842.0,Sevilla
+,Javi Varas,es ESP,GK,3,3,0.0,0.0,2008-2009,6db3da37,Sevilla,270,3.0,0.0,0.0,46.0,1.0,,Sevilla
+,Javier Chevantón,uy URU,FW,8,2,1.0,3.0,2008-2009,5824ef34,Sevilla,294,3.3,2.0,0.0,46.0,8.0,1826.0,Sevilla
+,Arouna Koné,ci CIV,FW,6,2,0.0,0.0,2008-2009,f9a72ca4,Sevilla,173,1.9,0.0,0.0,46.0,35.0,1831.0,Sevilla
+,Tom De Mul,be BEL,"FW,MF",3,1,0.0,1.0,2008-2009,c668a080,Sevilla,65,0.7,0.0,0.0,46.0,27.0,1834.0,Sevilla
+,Emiliano Armenteros,ar ARG,MF,4,0,0.0,1.0,2008-2009,66475fb9,Sevilla,80,0.9,0.0,0.0,46.0,5.0,1843.0,Sevilla
+,Teemu Pukki,fi FIN,FW,1,0,0.0,0.0,2008-2009,0745b37d,Sevilla,29,0.3,0.0,0.0,46.0,83.0,1844.0,Sevilla
+,Fernando Rodríguez,es ESP,FW,2,0,0.0,0.0,2008-2009,31a98017,Sevilla,9,0.1,1.0,0.0,46.0,1.0,1845.0,Sevilla
+,José Carlos,es ESP,"FW,MF",2,0,0.0,0.0,2008-2009,6738f3c6,Sevilla,8,0.1,0.0,0.0,46.0,1.0,1846.0,Sevilla
+,﻿Andrés Palop,es ESP,GK,33,33,0.0,0.0,2009-2010,9ab4e785,Sevilla,"2,970",33.0,2.0,0.0,46.0,1.0,,Sevilla
+,Jesús Navas,es ESP,"DF,MF",34,32,8.0,4.0,2009-2010,3f10bd22,Sevilla,"2,826",31.4,4.0,0.0,46.0,1.0,1803.0,Sevilla
+,Renato,br BRA,MF,33,30,2.0,4.0,2009-2010,dc4d83fe,Sevilla,"2,596",28.8,2.0,0.0,46.0,2.0,1809.0,Sevilla
+,Fernando Navarro,es ESP,DF,29,26,1.0,0.0,2009-2010,5a3f6fae,Sevilla,"2,276",25.3,11.0,0.0,46.0,1.0,,Sevilla
+,Didier Zokora,ci CIV,MF,26,25,0.0,0.0,2009-2010,23921ca7,Sevilla,"2,263",25.1,10.0,1.0,46.0,35.0,1847.0,Sevilla
+,Álvaro Negredo,es ESP,FW,35,25,4.0,11.0,2009-2010,63b0ca6b,Sevilla,"2,029",22.5,0.0,2.0,46.0,1.0,,Sevilla
+,Julien Escudé,fr FRA,DF,24,24,2.0,0.0,2009-2010,6aa5bd41,Sevilla,"2,147",23.9,6.0,0.0,46.0,4.0,1820.0,Sevilla
+,Adriano,br BRA,"DF,MF",27,23,4.0,0.0,2009-2010,9d8586c4,Sevilla,"2,079",23.1,6.0,0.0,46.0,2.0,,Sevilla
+,Diego Perotti,ar ARG,"FW,MF",28,22,2.0,4.0,2009-2010,40d5a0c,Sevilla,"1,807",20.1,4.0,0.0,46.0,5.0,1841.0,Sevilla
+,Ivica Dragutinović,rs SRB,DF,20,20,0.0,2.0,2009-2010,7ab82833,Sevilla,"1,794",19.9,7.0,0.0,46.0,28.0,1818.0,Sevilla
+,Frédéric Kanouté,ml MLI,FW,27,20,2.0,12.0,2009-2010,1a24d5b6,Sevilla,"1,780",19.8,5.0,1.0,46.0,12.0,1816.0,Sevilla
+,Luís Fabiano,br BRA,FW,23,18,3.0,15.0,2009-2010,f7b,Sevilla,"1,641",18.2,9.0,0.0,46.0,2.0,1819.0,Sevilla
+,Abdoulay Konko,fr FRA,"DF,MF",18,17,0.0,1.0,2009-2010,43857861,Sevilla,"1,406",15.6,3.0,1.0,46.0,4.0,1840.0,Sevilla
+,Diego Capel,es ESP,MF,29,14,1.0,1.0,2009-2010,4933a2f2,Sevilla,"1,395",15.5,4.0,0.0,46.0,1.0,1815.0,Sevilla
+,Sébastien Squillaci,fr FRA,DF,16,14,1.0,1.0,2009-2010,f7ec06db,Sevilla,"1,259",14.0,5.0,0.0,46.0,4.0,1838.0,Sevilla
+,Marius Stankevičius,lt LTU,"DF,MF",16,14,0.0,0.0,2009-2010,7c3a4a58,Sevilla,"1,244",13.8,5.0,1.0,46.0,72.0,,Sevilla
+,Romaric,ci CIV,MF,19,10,0.0,1.0,2009-2010,9bb5c5e0,Sevilla,862,9.6,4.0,1.0,46.0,35.0,1839.0,Sevilla
+,Federico Fazio,ar ARG,DF,10,10,0.0,1.0,2009-2010,4e358a2d,Sevilla,821,9.1,0.0,0.0,46.0,5.0,1830.0,Sevilla
+,Lolo,es ESP,"DF,MF",21,9,0.0,1.0,2009-2010,31c71140,Sevilla,958,10.6,3.0,0.0,46.0,1.0,1835.0,Sevilla
+,Aldo Duscher,ar ARG,MF,10,7,0.0,0.0,2009-2010,44944ca7,Sevilla,619,6.9,4.0,1.0,46.0,5.0,,Sevilla
+,Sergio Sánchez,es ESP,DF,7,6,0.0,0.0,2009-2010,83a83b0a,Sevilla,560,6.2,3.0,0.0,46.0,1.0,1848.0,Sevilla
+,Cala,es ESP,DF,5,5,0.0,3.0,2009-2010,fe05804b,Sevilla,450,5.0,1.0,0.0,46.0,1.0,1849.0,Sevilla
+,Javi Varas,es ESP,GK,5,5,0.0,0.0,2009-2010,6db3da37,Sevilla,450,5.0,0.0,0.0,46.0,1.0,,Sevilla
+,Arouna Koné,ci CIV,FW,12,3,0.0,0.0,2009-2010,f9a72ca4,Sevilla,368,4.1,1.0,0.0,46.0,35.0,1831.0,Sevilla
+,José Carlos,es ESP,"FW,MF",10,2,0.0,1.0,2009-2010,6738f3c6,Sevilla,252,2.8,0.0,0.0,46.0,1.0,1846.0,Sevilla
+,Marc Valiente,es ESP,DF,3,2,0.0,0.0,2009-2010,fd333066,Sevilla,176,2.0,2.0,0.0,46.0,1.0,1850.0,Sevilla
+,Lautaro Acosta,ar ARG,"FW,MF",6,1,0.0,0.0,2009-2010,2a3af4d5,Sevilla,199,2.2,0.0,0.0,46.0,5.0,1842.0,Sevilla
+,Antonio Luna,es ESP,DF,1,1,,0.0,2009-2010,d239245,Sevilla,90,1.0,0.0,0.0,46.0,1.0,,Sevilla
+,Enrique Carreño,es ESP,FW,1,0,0.0,0.0,2009-2010,d5f7d1ea,Sevilla,44,0.5,0.0,0.0,46.0,1.0,1851.0,Sevilla
+,Javier Chevantón,uy URU,FW,1,0,0.0,0.0,2009-2010,5824ef34,Sevilla,13,0.1,0.0,0.0,46.0,8.0,1826.0,Sevilla
+,Rodri,es ESP,FW,2,0,0.0,1.0,2009-2010,5200dce9,Sevilla,13,0.1,1.0,0.0,46.0,1.0,1852.0,Sevilla
+,﻿Fernando Navarro,es ESP,DF,30,30,0.0,0.0,2010-2011,5a3f6fae,Sevilla,"2,563",28.5,8.0,2.0,46.0,1.0,,Sevilla
+,Álvaro Negredo,es ESP,FW,38,29,6.0,20.0,2010-2011,63b0ca6b,Sevilla,"2,608",29.0,4.0,0.0,46.0,1.0,,Sevilla
+,Julien Escudé,fr FRA,DF,28,27,0.0,2.0,2010-2011,6aa5bd41,Sevilla,"2,435",27.1,6.0,0.0,46.0,4.0,1820.0,Sevilla
+,Diego Perotti,ar ARG,"FW,MF",31,27,7.0,3.0,2010-2011,40d5a0c,Sevilla,"2,317",25.7,5.0,0.0,46.0,5.0,1841.0,Sevilla
+,Martín Cáceres,uy URU,DF,25,24,3.0,1.0,2010-2011,94d79e3,Sevilla,"2,129",23.7,6.0,0.0,46.0,8.0,,Sevilla
+,Mouhamadou Dabo,fr FRA,DF,24,21,0.0,0.0,2010-2011,78853b7b,Sevilla,"1,949",21.7,6.0,1.0,46.0,4.0,1853.0,Sevilla
+,Alexis,es ESP,DF,21,21,0.0,0.0,2010-2011,db0cd1ae,Sevilla,"1,836",20.4,8.0,1.0,46.0,1.0,,Sevilla
+,Frédéric Kanouté,ml MLI,FW,28,19,3.0,12.0,2010-2011,1a24d5b6,Sevilla,"1,891",21.0,6.0,0.0,46.0,12.0,1816.0,Sevilla
+,Javi Varas,es ESP,GK,21,19,0.0,0.0,2010-2011,6db3da37,Sevilla,"1,788",19.9,3.0,0.0,46.0,1.0,,Sevilla
+,Andrés Palop,es ESP,GK,19,19,0.0,0.0,2010-2011,9ab4e785,Sevilla,"1,632",18.1,2.0,1.0,46.0,1.0,,Sevilla
+,Romaric,ci CIV,MF,26,19,4.0,1.0,2010-2011,9bb5c5e0,Sevilla,"1,557",17.3,5.0,0.0,46.0,35.0,1839.0,Sevilla
+,Diego Capel,es ESP,MF,27,17,2.0,0.0,2010-2011,4933a2f2,Sevilla,"1,577",17.5,2.0,0.0,46.0,1.0,1815.0,Sevilla
+,Didier Zokora,ci CIV,MF,23,17,1.0,0.0,2010-2011,23921ca7,Sevilla,"1,538",17.1,10.0,0.0,46.0,35.0,1847.0,Sevilla
+,Federico Fazio,ar ARG,DF,19,17,0.0,1.0,2010-2011,4e358a2d,Sevilla,"1,504",16.7,3.0,0.0,46.0,5.0,1830.0,Sevilla
+,Luís Fabiano,br BRA,FW,21,16,3.0,10.0,2010-2011,f7b,Sevilla,"1,380",15.3,2.0,0.0,46.0,2.0,1819.0,Sevilla
+,Jesús Navas,es ESP,"DF,MF",15,15,4.0,1.0,2010-2011,3f10bd22,Sevilla,"1,348",15.0,3.0,0.0,46.0,1.0,1803.0,Sevilla
+,Gary Medel,cl CHI,"DF,MF",15,15,0.0,0.0,2010-2011,563a68ad,Sevilla,"1,292",14.4,7.0,1.0,46.0,31.0,1854.0,Sevilla
+,Renato,br BRA,MF,24,13,2.0,2.0,2010-2011,dc4d83fe,Sevilla,"1,277",14.2,1.0,0.0,46.0,2.0,1809.0,Sevilla
+,Ivan Rakitić,hr CRO,MF,13,13,1.0,5.0,2010-2011,89f951b5,Sevilla,"1,091",12.1,1.0,0.0,46.0,16.0,,Sevilla
+,Abdoulay Konko,fr FRA,"DF,MF",11,9,0.0,2.0,2010-2011,43857861,Sevilla,813,9.0,3.0,1.0,46.0,4.0,1840.0,Sevilla
+,Alejandro Alfaro,es ESP,"FW,MF",20,8,2.0,2.0,2010-2011,7c293728,Sevilla,727,8.1,1.0,0.0,46.0,1.0,,Sevilla
+,Sergio Sánchez,es ESP,DF,7,6,0.0,0.0,2010-2011,83a83b0a,Sevilla,560,6.2,3.0,0.0,46.0,1.0,1848.0,Sevilla
+,Luca Cigarini,it ITA,MF,6,5,0.0,0.0,2010-2011,64d449,Sevilla,380,4.2,2.0,0.0,46.0,9.0,1855.0,Sevilla
+,Tiberio Guarente,it ITA,MF,7,3,1.0,0.0,2010-2011,f5b9b859,Sevilla,310,3.4,1.0,0.0,46.0,9.0,1856.0,Sevilla
+,Lautaro Acosta,ar ARG,"FW,MF",10,2,1.0,0.0,2010-2011,2a3af4d5,Sevilla,283,3.1,3.0,0.0,46.0,5.0,1842.0,Sevilla
+,Rodri,es ESP,FW,5,2,0.0,0.0,2010-2011,5200dce9,Sevilla,224,2.5,2.0,0.0,46.0,1.0,1852.0,Sevilla
+,José Carlos,es ESP,"FW,MF",6,2,1.0,0.0,2010-2011,6738f3c6,Sevilla,175,1.9,0.0,0.0,46.0,1.0,1846.0,Sevilla
+,Antonio Luna,es ESP,DF,2,2,0.0,0.0,2010-2011,d239245,Sevilla,169,1.9,1.0,0.0,46.0,1.0,,Sevilla
+,Bernardo Espinosa,co COL,DF,1,1,0.0,0.0,2010-2011,4242011c,Sevilla,90,1.0,0.0,0.0,46.0,19.0,1857.0,Sevilla
+,Luis Alberto,es ESP,"FW,MF",1,0,0.0,0.0,2010-2011,5294a83f,Sevilla,29,0.3,0.0,0.0,46.0,1.0,,Sevilla
+,Ivica Dragutinović,rs SRB,DF,2,0,0.0,0.0,2010-2011,7ab82833,Sevilla,12,0.1,0.0,0.0,46.0,28.0,1818.0,Sevilla
+,Arouna Koné,ci CIV,FW,1,0,0.0,0.0,2010-2011,f9a72ca4,Sevilla,3,0.0,0.0,0.0,46.0,35.0,1831.0,Sevilla
+,﻿Jesús Navas,es ESP,"DF,MF",37,37,12.0,5.0,2011-2012,3f10bd22,Sevilla,"3,330",37.0,5.0,0.0,46.0,1.0,1803.0,Sevilla
+,Fernando Navarro,es ESP,DF,35,35,0.0,0.0,2011-2012,5a3f6fae,Sevilla,"3,016",33.5,12.0,1.0,46.0,1.0,,Sevilla
+,Gary Medel,cl CHI,"DF,MF",31,30,0.0,2.0,2011-2012,563a68ad,Sevilla,"2,628",29.2,16.0,1.0,46.0,31.0,1854.0,Sevilla
+,Álvaro Negredo,es ESP,FW,30,28,3.0,14.0,2011-2012,63b0ca6b,Sevilla,"2,318",25.8,5.0,0.0,46.0,1.0,,Sevilla
+,Piotr Trochowski,de GER,MF,35,27,2.0,1.0,2011-2012,6cae08d5,Sevilla,"2,214",24.6,8.0,1.0,46.0,13.0,1858.0,Sevilla
+,Federico Fazio,ar ARG,DF,28,25,0.0,2.0,2011-2012,4e358a2d,Sevilla,"2,254",25.0,7.0,1.0,46.0,5.0,1830.0,Sevilla
+,Javi Varas,es ESP,GK,25,25,0.0,0.0,2011-2012,6db3da37,Sevilla,"2,250",25.0,1.0,0.0,46.0,1.0,,Sevilla
+,Manu del Moral,es ESP,FW,34,25,1.0,10.0,2011-2012,1026f88d,Sevilla,"2,215",24.6,5.0,1.0,46.0,1.0,1859.0,Sevilla
+,Coke,es ESP,DF,28,24,0.0,0.0,2011-2012,6d8f8441,Sevilla,"2,171",24.1,7.0,0.0,46.0,1.0,1860.0,Sevilla
+,Julien Escudé,fr FRA,DF,24,24,0.0,1.0,2011-2012,6aa5bd41,Sevilla,"2,091",23.2,8.0,1.0,46.0,4.0,1820.0,Sevilla
+,Emir Spahić,ba BIH,DF,22,22,0.0,0.0,2011-2012,009633c8,Sevilla,"1,919",21.3,12.0,0.0,46.0,49.0,1861.0,Sevilla
+,Ivan Rakitić,hr CRO,MF,36,19,4.0,0.0,2011-2012,89f951b5,Sevilla,"1,922",21.4,4.0,0.0,46.0,16.0,,Sevilla
+,José Antonio Reyes,es ESP,MF,19,15,4.0,1.0,2011-2012,19058f02,Sevilla,"1,179",13.1,1.0,0.0,46.0,1.0,56.0,Sevilla
+,Martín Cáceres,uy URU,DF,14,13,0.0,1.0,2011-2012,94d79e3,Sevilla,"1,171",13.0,3.0,0.0,46.0,8.0,,Sevilla
+,Andrés Palop,es ESP,GK,13,13,0.0,0.0,2011-2012,9ab4e785,Sevilla,"1,170",13.0,1.0,0.0,46.0,1.0,,Sevilla
+,Diego Perotti,ar ARG,"FW,MF",16,13,2.0,0.0,2011-2012,40d5a0c,Sevilla,996,11.1,1.0,0.0,46.0,5.0,1841.0,Sevilla
+,Frédéric Kanouté,ml MLI,FW,26,12,1.0,4.0,2011-2012,1a24d5b6,Sevilla,"1,285",14.3,7.0,1.0,46.0,12.0,1816.0,Sevilla
+,Antonio Luna,es ESP,DF,14,11,1.0,1.0,2011-2012,d239245,Sevilla,931,10.3,2.0,0.0,46.0,1.0,,Sevilla
+,Cala,es ESP,DF,8,7,0.0,1.0,2011-2012,fe05804b,Sevilla,613,6.8,2.0,0.0,46.0,1.0,1849.0,Sevilla
+,Emiliano Armenteros,ar ARG,MF,13,4,0.0,0.0,2011-2012,66475fb9,Sevilla,487,5.4,1.0,0.0,46.0,5.0,1843.0,Sevilla
+,José Campaña,es ESP,MF,15,3,2.0,0.0,2011-2012,61220da2,Sevilla,444,4.9,0.0,0.0,46.0,1.0,1862.0,Sevilla
+,Deivid,es ESP,"DF,MF",5,3,0.0,0.0,2011-2012,c1c76662,Sevilla,284,3.2,2.0,0.0,46.0,1.0,1863.0,Sevilla
+,Baba Diawara,sn SEN,FW,11,2,0.0,3.0,2011-2012,09b7100a,Sevilla,406,4.5,0.0,0.0,46.0,34.0,1864.0,Sevilla
+,Alexis,es ESP,DF,1,1,0.0,1.0,2011-2012,db0cd1ae,Sevilla,90,1.0,1.0,0.0,46.0,1.0,,Sevilla
+,Luis Alberto,es ESP,"FW,MF",5,0,0.0,0.0,2011-2012,5294a83f,Sevilla,85,0.9,0.0,0.0,46.0,1.0,,Sevilla
+,Tiberio Guarente,it ITA,MF,3,0,0.0,0.0,2011-2012,f5b9b859,Sevilla,35,0.4,1.0,0.0,46.0,9.0,1856.0,Sevilla
+,Alberto Moreno,es ESP,"DF,MF",1,0,0.0,0.0,2011-2012,11b9265b,Sevilla,13,0.1,0.0,0.0,46.0,1.0,1865.0,Sevilla
+,Hiroshi Ibusuki,jp JPN,FW,1,0,0.0,0.0,2011-2012,715bdbe9,Sevilla,8,0.1,0.0,0.0,46.0,54.0,1866.0,Sevilla
+,﻿Jesús Navas,es ESP,"DF,MF",37,37,7.0,0.0,2012-2013,3f10bd22,Sevilla,"3,314",36.8,5.0,0.0,46.0,1.0,1803.0,Sevilla
+,Fernando Navarro,es ESP,DF,35,35,1.0,0.0,2012-2013,5a3f6fae,Sevilla,"3,122",34.7,11.0,1.0,46.0,1.0,,Sevilla
+,Álvaro Negredo,es ESP,FW,36,34,1.0,25.0,2012-2013,63b0ca6b,Sevilla,"3,025",33.6,3.0,0.0,46.0,1.0,,Sevilla
+,Ivan Rakitić,hr CRO,MF,34,34,9.0,8.0,2012-2013,89f951b5,Sevilla,"2,948",32.8,10.0,2.0,46.0,16.0,,Sevilla
+,Gary Medel,cl CHI,"DF,MF",32,31,3.0,6.0,2012-2013,563a68ad,Sevilla,"2,643",29.4,7.0,3.0,46.0,31.0,1854.0,Sevilla
+,Federico Fazio,ar ARG,DF,26,25,0.0,3.0,2012-2013,4e358a2d,Sevilla,"2,113",23.5,5.0,2.0,46.0,5.0,1830.0,Sevilla
+,Geoffrey Kondogbia,cf CTA,MF,31,23,1.0,1.0,2012-2013,cce181df,Sevilla,"1,904",21.2,4.0,0.0,46.0,73.0,,Sevilla
+,Emir Spahić,ba BIH,DF,22,22,0.0,1.0,2012-2013,009633c8,Sevilla,"1,955",21.7,10.0,0.0,46.0,49.0,1861.0,Sevilla
+,José Antonio Reyes,es ESP,MF,26,20,6.0,4.0,2012-2013,19058f02,Sevilla,"1,646",18.3,2.0,1.0,46.0,1.0,56.0,Sevilla
+,Cicinho,br BRA,DF,27,19,1.0,1.0,2012-2013,cb51774a,Sevilla,"1,727",19.2,4.0,0.0,46.0,2.0,1867.0,Sevilla
+,Coke,es ESP,DF,21,19,4.0,3.0,2012-2013,6d8f8441,Sevilla,"1,538",17.1,5.0,1.0,46.0,1.0,1860.0,Sevilla
+,Hedwiges Maduro,nl NED,"DF,MF",26,16,0.0,0.0,2012-2013,5918cc84,Sevilla,"1,317",14.6,3.0,1.0,46.0,11.0,,Sevilla
+,Andrés Palop,es ESP,GK,16,15,0.0,0.0,2012-2013,9ab4e785,Sevilla,"1,407",15.6,1.0,0.0,46.0,1.0,,Sevilla
+,Alberto Botía,es ESP,DF,18,14,0.0,1.0,2012-2013,7f6bff1f,Sevilla,"1,350",15.0,11.0,0.0,46.0,1.0,,Sevilla
+,Beto,pt POR,GK,14,14,0.0,0.0,2012-2013,3b4941e4,Sevilla,"1,260",14.0,0.0,0.0,46.0,3.0,1868.0,Sevilla
+,Alberto Moreno,es ESP,"DF,MF",15,12,2.0,0.0,2012-2013,11b9265b,Sevilla,"1,110",12.3,5.0,0.0,46.0,1.0,1865.0,Sevilla
+,Diego Perotti,ar ARG,"FW,MF",18,8,0.0,0.0,2012-2013,40d5a0c,Sevilla,834,9.3,2.0,0.0,46.0,5.0,1841.0,Sevilla
+,Cala,es ESP,DF,10,8,0.0,0.0,2012-2013,fe05804b,Sevilla,723,8.0,4.0,0.0,46.0,1.0,1849.0,Sevilla
+,Diego López,es ESP,GK,8,8,0.0,0.0,2012-2013,73683fa9,Sevilla,663,7.4,0.0,1.0,46.0,1.0,47.0,Sevilla
+,Manu del Moral,es ESP,FW,22,7,1.0,1.0,2012-2013,1026f88d,Sevilla,794,8.8,2.0,0.0,46.0,1.0,1859.0,Sevilla
+,Piotr Trochowski,de GER,MF,6,6,0.0,2.0,2012-2013,6cae08d5,Sevilla,433,4.8,0.0,0.0,46.0,13.0,1858.0,Sevilla
+,Baba Diawara,sn SEN,FW,19,5,0.0,0.0,2012-2013,09b7100a,Sevilla,636,7.1,1.0,0.0,46.0,34.0,1864.0,Sevilla
+,José Campaña,es ESP,MF,5,3,0.0,0.0,2012-2013,61220da2,Sevilla,184,2.0,2.0,0.0,46.0,1.0,1862.0,Sevilla
+,Javier Hervás,es ESP,MF,9,1,0.0,0.0,2012-2013,04b8d5c8,Sevilla,161,1.8,1.0,0.0,46.0,1.0,1869.0,Sevilla
+,Antonio Luna,es ESP,DF,4,1,0.0,0.0,2012-2013,d239245,Sevilla,108,1.2,1.0,0.0,46.0,1.0,,Sevilla
+,Julián Cuesta,es ESP,GK,1,1,0.0,0.0,2012-2013,c7b52b90,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1870.0,Sevilla
+,Miroslav Stevanović,ba BIH,"FW,MF",7,0,0.0,0.0,2012-2013,73d430c6,Sevilla,118,1.3,0.0,0.0,46.0,49.0,1871.0,Sevilla
+,Bryan Rabello,cl CHI,MF,3,0,0.0,0.0,2012-2013,d052490,Sevilla,109,1.2,0.0,0.0,46.0,31.0,,Sevilla
+,Álex Rubio,es ESP,"FW,MF",2,0,0.0,0.0,2012-2013,c8c36c4f,Sevilla,30,0.3,0.0,0.0,46.0,1.0,1872.0,Sevilla
+,Israel Puerto,es ESP,DF,2,0,0.0,0.0,2012-2013,c657b98d,Sevilla,28,0.3,0.0,0.0,46.0,1.0,1873.0,Sevilla
+,﻿Beto,pt POR,GK,33,33,0.0,0.0,2013-2014,3b4941e4,Sevilla,"2,925",32.5,3.0,0.0,46.0,3.0,1868.0,Sevilla
+,Ivan Rakitić,hr CRO,MF,34,29,10.0,12.0,2013-2014,89f951b5,Sevilla,"2,711",30.1,7.0,0.0,46.0,16.0,,Sevilla
+,Federico Fazio,ar ARG,DF,27,27,1.0,2.0,2013-2014,4e358a2d,Sevilla,"2,383",26.5,8.0,0.0,46.0,5.0,1830.0,Sevilla
+,Carlos Bacca,co COL,FW,35,27,5.0,14.0,2013-2014,09a9e921,Sevilla,"2,293",25.5,4.0,0.0,46.0,19.0,1874.0,Sevilla
+,Alberto Moreno,es ESP,"DF,MF",28,26,0.0,3.0,2013-2014,11b9265b,Sevilla,"2,324",25.8,5.0,1.0,46.0,1.0,1865.0,Sevilla
+,Vitolo,es ESP,"FW,MF",29,25,6.0,4.0,2013-2014,db750822,Sevilla,"2,178",24.2,6.0,0.0,46.0,1.0,1875.0,Sevilla
+,Vicente Iborra,es ESP,MF,27,25,1.0,3.0,2013-2014,d1ffcfd,Sevilla,"2,107",23.4,12.0,1.0,46.0,1.0,1876.0,Sevilla
+,Coke,es ESP,DF,25,23,1.0,3.0,2013-2014,6d8f8441,Sevilla,"2,082",23.1,7.0,0.0,46.0,1.0,1860.0,Sevilla
+,Nicolás Pareja,ar ARG,DF,25,23,1.0,0.0,2013-2014,92669f6,Sevilla,"1,968",21.9,4.0,0.0,46.0,5.0,1877.0,Sevilla
+,Daniel Carriço,pt POR,"DF,MF",22,22,0.0,2.0,2013-2014,1deea75,Sevilla,"1,934",21.5,8.0,0.0,46.0,3.0,1878.0,Sevilla
+,Fernando Navarro,es ESP,DF,24,21,0.0,0.0,2013-2014,5a3f6fae,Sevilla,"1,931",21.5,5.0,0.0,46.0,1.0,,Sevilla
+,Kévin Gameiro,fr FRA,FW,35,20,3.0,15.0,2013-2014,42276181,Sevilla,"1,887",21.0,2.0,0.0,46.0,4.0,,Sevilla
+,Diogo Figueiras,pt POR,"DF,MF",22,19,1.0,1.0,2013-2014,3e587547,Sevilla,"1,766",19.6,9.0,1.0,46.0,3.0,1879.0,Sevilla
+,Stéphane Mbia,cm CMR,"DF,MF",19,18,4.0,3.0,2013-2014,c39d9657,Sevilla,"1,491",16.6,7.0,1.0,46.0,36.0,1880.0,Sevilla
+,Jairo Samperio,es ESP,"FW,MF",25,16,2.0,4.0,2013-2014,c0a0c18f,Sevilla,"1,373",15.3,3.0,1.0,46.0,1.0,1881.0,Sevilla
+,José Antonio Reyes,es ESP,MF,21,15,6.0,0.0,2013-2014,19058f02,Sevilla,"1,174",13.0,5.0,0.0,46.0,1.0,56.0,Sevilla
+,Marko Marin,de GER,"FW,MF",18,10,4.0,0.0,2013-2014,022e78c,Sevilla,950,10.6,3.0,0.0,46.0,13.0,1882.0,Sevilla
+,Piotr Trochowski,de GER,MF,18,9,1.0,0.0,2013-2014,6cae08d5,Sevilla,847,9.4,2.0,0.0,46.0,13.0,1858.0,Sevilla
+,Cala,es ESP,DF,9,9,0.0,1.0,2013-2014,fe05804b,Sevilla,770,8.6,6.0,2.0,46.0,1.0,1849.0,Sevilla
+,Javi Varas,es ESP,GK,6,5,0.0,0.0,2013-2014,6db3da37,Sevilla,495,5.5,0.0,0.0,46.0,1.0,,Sevilla
+,Sebastián Cristóforo,uy URU,MF,12,4,0.0,0.0,2013-2014,3c05c659,Sevilla,531,5.9,3.0,0.0,46.0,8.0,1883.0,Sevilla
+,Diego Perotti,ar ARG,"FW,MF",10,3,1.0,1.0,2013-2014,40d5a0c,Sevilla,410,4.6,2.0,0.0,46.0,5.0,1841.0,Sevilla
+,Bryan Rabello,cl CHI,MF,7,3,0.0,0.0,2013-2014,d052490,Sevilla,301,3.3,0.0,0.0,46.0,31.0,,Sevilla
+,Carlos Fernández,es ESP,FW,4,2,0.0,0.0,2013-2014,08647d6,Sevilla,210,2.3,0.0,0.0,46.0,1.0,,Sevilla
+,Antonio Cotán,es ESP,MF,2,2,0.0,0.0,2013-2014,d92dd30e,Sevilla,180,2.0,1.0,0.0,46.0,1.0,1884.0,Sevilla
+,Moisés Delgado,es ESP,DF,2,1,0.0,0.0,2013-2014,248c409d,Sevilla,95,1.1,0.0,0.0,46.0,1.0,1885.0,Sevilla
+,Denis Cheryshev,ru RUS,"FW,MF",4,1,0.0,0.0,2013-2014,0ac94a23,Sevilla,90,1.0,2.0,1.0,46.0,23.0,137.0,Sevilla
+,Geoffrey Kondogbia,cf CTA,MF,2,0,0.0,0.0,2013-2014,cce181df,Sevilla,91,1.0,2.0,0.0,46.0,73.0,,Sevilla
+,Israel Puerto,es ESP,DF,3,0,0.0,0.0,2013-2014,c657b98d,Sevilla,42,0.5,0.0,0.0,46.0,1.0,1873.0,Sevilla
+,Mode,es ESP,DF,1,0,0.0,0.0,2013-2014,17b4ea83,Sevilla,17,0.2,0.0,0.0,46.0,1.0,1886.0,Sevilla
+,Raul Rusescu,ro ROU,"FW,MF",1,0,0.0,0.0,2013-2014,7aa898b3,Sevilla,8,0.1,0.0,0.0,46.0,51.0,1887.0,Sevilla
+,﻿Grzegorz Krychowiak,pl POL,MF,32,31,0.0,2.0,2014-2015,580d52dd,Sevilla,"2,712",30.1,13.0,1.0,46.0,14.0,1888.0,Sevilla
+,Carlos Bacca,co COL,FW,37,31,6.0,20.0,2014-2015,09a9e921,Sevilla,"2,536",28.2,4.0,0.0,46.0,19.0,1874.0,Sevilla
+,Daniel Carriço,pt POR,"DF,MF",28,28,0.0,1.0,2014-2015,1deea75,Sevilla,"2,517",28.0,9.0,1.0,46.0,3.0,1878.0,Sevilla
+,Nicolás Pareja,ar ARG,DF,26,26,1.0,1.0,2014-2015,92669f6,Sevilla,"2,275",25.3,6.0,0.0,46.0,5.0,1877.0,Sevilla
+,Vitolo,es ESP,"FW,MF",28,25,4.0,6.0,2014-2015,db750822,Sevilla,"2,075",23.1,6.0,0.0,46.0,1.0,1875.0,Sevilla
+,Vicente Iborra,es ESP,MF,26,24,1.0,7.0,2014-2015,d1ffcfd,Sevilla,"2,015",22.4,7.0,0.0,46.0,1.0,1876.0,Sevilla
+,Éver Banega,ar ARG,MF,34,23,3.0,3.0,2014-2015,fa937f7a,Sevilla,"2,200",24.4,11.0,0.0,46.0,5.0,,Sevilla
+,Aleix Vidal,es ESP,"DF,MF",31,22,6.0,4.0,2014-2015,04965583,Sevilla,"2,179",24.2,8.0,0.0,46.0,1.0,,Sevilla
+,Coke,es ESP,DF,22,21,3.0,2.0,2014-2015,6d8f8441,Sevilla,"1,811",20.1,6.0,0.0,46.0,1.0,1860.0,Sevilla
+,Diogo Figueiras,pt POR,"DF,MF",24,19,2.0,1.0,2014-2015,3e587547,Sevilla,"1,832",20.4,7.0,0.0,46.0,3.0,1879.0,Sevilla
+,Sergio Rico,es ESP,GK,21,19,0.0,0.0,2014-2015,5f0241b2,Sevilla,"1,812",20.1,2.0,0.0,46.0,1.0,,Sevilla
+,Benoît Trémoulinas,fr FRA,DF,20,18,4.0,0.0,2014-2015,37a24709,Sevilla,"1,638",18.2,5.0,0.0,46.0,4.0,1889.0,Sevilla
+,Timothée Kolodziejczak,fr FRA,DF,18,18,0.0,1.0,2014-2015,b096c6f,Sevilla,"1,575",17.5,3.0,0.0,46.0,4.0,1890.0,Sevilla
+,Beto,pt POR,GK,18,18,0.0,0.0,2014-2015,3b4941e4,Sevilla,"1,444",16.0,4.0,0.0,46.0,3.0,1868.0,Sevilla
+,Stéphane Mbia,cm CMR,"DF,MF",23,17,0.0,4.0,2014-2015,c39d9657,Sevilla,"1,475",16.4,9.0,0.0,46.0,36.0,1880.0,Sevilla
+,Denis Suárez,es ESP,MF,31,16,4.0,2.0,2014-2015,12c50af5,Sevilla,"1,620",18.0,2.0,0.0,46.0,1.0,,Sevilla
+,Fernando Navarro,es ESP,DF,19,15,0.0,0.0,2014-2015,5a3f6fae,Sevilla,"1,380",15.3,3.0,0.0,46.0,1.0,,Sevilla
+,José Antonio Reyes,es ESP,MF,19,15,4.0,3.0,2014-2015,19058f02,Sevilla,"1,218",13.5,5.0,0.0,46.0,1.0,56.0,Sevilla
+,Alejandro Arribas,es ESP,DF,11,10,0.0,0.0,2014-2015,cc29324e,Sevilla,864,9.6,4.0,0.0,46.0,1.0,,Sevilla
+,Gerard Deulofeu,es ESP,"FW,MF",17,10,4.0,1.0,2014-2015,39583cfd,Sevilla,782,8.7,0.0,0.0,46.0,1.0,,Sevilla
+,Kévin Gameiro,fr FRA,FW,26,7,2.0,8.0,2014-2015,42276181,Sevilla,960,10.7,0.0,0.0,46.0,4.0,,Sevilla
+,Iago Aspas,es ESP,"FW,MF",16,4,1.0,2.0,2014-2015,7dcf86f6,Sevilla,461,5.1,2.0,0.0,46.0,1.0,,Sevilla
+,Mariano Barbosa,ar ARG,GK,2,1,0.0,0.0,2014-2015,d4f74f,Sevilla,164,1.8,0.0,0.0,46.0,5.0,1891.0,Sevilla
+,Juan Muñoz,es ESP,"FW,MF",1,0,0.0,0.0,2014-2015,25018d62,Sevilla,35,0.4,0.0,0.0,46.0,1.0,1892.0,Sevilla
+,Luismi,es ESP,"DF,MF",1,0,0.0,0.0,2014-2015,c2cfbfc9,Sevilla,11,0.1,1.0,0.0,46.0,1.0,1893.0,Sevilla
+,Carlos Fernández,es ESP,FW,1,0,0.0,0.0,2014-2015,08647d6,Sevilla,9,0.1,0.0,0.0,46.0,1.0,,Sevilla
+,David Soria,es ESP,GK,0,0,,,2014-2015,8f8c6934,Sevilla,,,,,46.0,1.0,1894.0,Sevilla
+,﻿Sergio Rico,es ESP,GK,34,34,0.0,0.0,2015-2016,5f0241b2,Sevilla,"3,060",34.0,2.0,0.0,46.0,1.0,,Sevilla
+,Adil Rami,fr FRA,DF,28,28,1.0,0.0,2015-2016,8dbff17c,Sevilla,"2,424",26.9,9.0,1.0,46.0,4.0,,Sevilla
+,Timothée Kolodziejczak,fr FRA,DF,29,26,0.0,0.0,2015-2016,b096c6f,Sevilla,"2,385",26.5,6.0,1.0,46.0,4.0,1890.0,Sevilla
+,Grzegorz Krychowiak,pl POL,MF,26,25,0.0,0.0,2015-2016,580d52dd,Sevilla,"2,270",25.2,6.0,0.0,46.0,14.0,1888.0,Sevilla
+,Benoît Trémoulinas,fr FRA,DF,24,24,3.0,0.0,2015-2016,37a24709,Sevilla,"2,158",24.0,3.0,0.0,46.0,4.0,1889.0,Sevilla
+,Vitolo,es ESP,MF,28,23,4.0,2.0,2015-2016,db750822,Sevilla,"2,052",22.8,6.0,1.0,46.0,1.0,1875.0,Sevilla
+,Kévin Gameiro,fr FRA,FW,31,22,4.0,16.0,2015-2016,42276181,Sevilla,"2,083",23.1,2.0,0.0,46.0,4.0,,Sevilla
+,Steven Nzonzi,fr FRA,MF,28,22,1.0,3.0,2015-2016,c7526c18,Sevilla,"1,844",20.5,4.0,1.0,46.0,4.0,1895.0,Sevilla
+,Vicente Iborra,es ESP,MF,29,21,2.0,7.0,2015-2016,d1ffcfd,Sevilla,"1,736",19.3,10.0,1.0,46.0,1.0,1876.0,Sevilla
+,Coke,es ESP,DF,21,20,1.0,1.0,2015-2016,6d8f8441,Sevilla,"1,739",19.3,3.0,1.0,46.0,1.0,1860.0,Sevilla
+,Éver Banega,ar ARG,MF,25,20,2.0,5.0,2015-2016,fa937f7a,Sevilla,"1,718",19.1,8.0,1.0,46.0,5.0,,Sevilla
+,Mariano,br BRA,DF,23,18,3.0,0.0,2015-2016,26f559f,Sevilla,"1,688",18.8,6.0,0.0,46.0,2.0,1896.0,Sevilla
+,Sebastián Cristóforo,uy URU,MF,21,17,1.0,0.0,2015-2016,3c05c659,Sevilla,"1,446",16.1,5.0,0.0,46.0,8.0,1883.0,Sevilla
+,Michael Krohn-Dehli,dk DEN,MF,27,16,3.0,1.0,2015-2016,1c8dc17d,Sevilla,"1,663",18.5,3.0,0.0,46.0,7.0,,Sevilla
+,Yevhen Konoplyanka,ua UKR,MF,32,15,2.0,4.0,2015-2016,d9a5d930,Sevilla,"1,620",18.0,4.0,0.0,46.0,29.0,1897.0,Sevilla
+,José Antonio Reyes,es ESP,MF,24,14,1.0,1.0,2015-2016,19058f02,Sevilla,"1,182",13.1,6.0,0.0,46.0,1.0,56.0,Sevilla
+,Fernando Llorente,es ESP,FW,23,14,3.0,4.0,2015-2016,82dbf623,Sevilla,"1,158",12.9,4.0,0.0,46.0,1.0,,Sevilla
+,Sergio Escudero,es ESP,"DF,MF",15,13,1.0,1.0,2015-2016,b0616e3d,Sevilla,"1,172",13.0,2.0,0.0,46.0,1.0,1898.0,Sevilla
+,Daniel Carriço,pt POR,"DF,MF",14,11,1.0,1.0,2015-2016,1deea75,Sevilla,"1,051",11.7,4.0,0.0,46.0,3.0,1878.0,Sevilla
+,Marco Andreolli,it ITA,DF,7,7,1.0,0.0,2015-2016,13d820de,Sevilla,553,6.1,2.0,0.0,46.0,9.0,1899.0,Sevilla
+,Beto,pt POR,GK,4,4,0.0,0.0,2015-2016,3b4941e4,Sevilla,360,4.0,1.0,0.0,46.0,3.0,1868.0,Sevilla
+,Ciro Immobile,it ITA,FW,8,4,0.0,2.0,2015-2016,4431aed2,Sevilla,332,3.7,2.0,0.0,46.0,9.0,1900.0,Sevilla
+,Federico Fazio,ar ARG,DF,4,4,0.0,0.0,2015-2016,4e358a2d,Sevilla,294,3.3,2.0,1.0,46.0,5.0,1830.0,Sevilla
+,Diogo Figueiras,pt POR,"MF,DF",4,4,0.0,0.0,2015-2016,3e587547,Sevilla,277,3.1,2.0,0.0,46.0,3.0,1879.0,Sevilla
+,Juan Muñoz,es ESP,"MF,FW",8,3,0.0,1.0,2015-2016,25018d62,Sevilla,303,3.4,0.0,0.0,46.0,1.0,1892.0,Sevilla
+,Curro,es ESP,MF,4,3,1.0,0.0,2015-2016,f9a225f5,Sevilla,301,3.3,3.0,0.0,46.0,1.0,1901.0,Sevilla
+,Nicolás Pareja,ar ARG,DF,2,1,0.0,0.0,2015-2016,92669f6,Sevilla,122,1.4,0.0,0.0,46.0,5.0,1877.0,Sevilla
+,Diego González,es ESP,DF,2,1,0.0,1.0,2015-2016,4ac7608e,Sevilla,108,1.2,0.0,0.0,46.0,1.0,1902.0,Sevilla
+,David Carmona,es ESP,DF,1,1,0.0,0.0,2015-2016,d922d43,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1903.0,Sevilla
+,Antonio Cotán,es ESP,MF,1,1,0.0,0.0,2015-2016,d92dd30e,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1884.0,Sevilla
+,Jose Matos,es ESP,MF,1,1,0.0,0.0,2015-2016,19fdd28f,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1904.0,Sevilla
+,Gaël Kakuta,cd COD,MF,2,1,0.0,0.0,2015-2016,5b1bf5e3,Sevilla,47,0.5,1.0,0.0,46.0,50.0,,Sevilla
+,Carlos Fernández,es ESP,FW,1,0,0.0,0.0,2015-2016,08647d6,Sevilla,28,0.3,0.0,0.0,46.0,1.0,,Sevilla
+,Ivi,es ESP,"FW,MF",0,0,,,2015-2016,d2fa73e7,Sevilla,,,,,46.0,1.0,1905.0,Sevilla
+,Borja Lasso,es ESP,MF,0,0,,,2015-2016,d9faee7e,Sevilla,,,,,46.0,1.0,1906.0,Sevilla
+,Luismi,es ESP,"DF,MF",0,0,,,2015-2016,c2cfbfc9,Sevilla,,,,,46.0,1.0,1893.0,Sevilla
+,David Soria,es ESP,GK,0,0,,,2015-2016,8f8c6934,Sevilla,,,,,46.0,1.0,1894.0,Sevilla
+,Denis Suárez,es ESP,MF,0,0,,,2015-2016,12c50af5,Sevilla,,,,,46.0,1.0,,Sevilla
+,﻿Sergio Rico,es ESP,GK,35,35,0.0,0.0,2016-2017,5f0241b2,Sevilla,"3,150",35.0,0.0,0.0,46.0,1.0,,Sevilla
+,Steven Nzonzi,fr FRA,MF,35,34,3.0,2.0,2016-2017,c7526c18,Sevilla,"3,066",34.1,6.0,0.0,46.0,4.0,1895.0,Sevilla
+,Mariano,br BRA,"DF,MF",31,29,2.0,0.0,2016-2017,26f559f,Sevilla,"2,643",29.4,10.0,0.0,46.0,2.0,1896.0,Sevilla
+,Nicolás Pareja,ar ARG,DF,27,27,1.0,1.0,2016-2017,92669f6,Sevilla,"2,160",24.0,6.0,1.0,46.0,5.0,1877.0,Sevilla
+,Gabriel Mercado,ar ARG,DF,29,26,1.0,3.0,2016-2017,bf97c188,Sevilla,"2,184",24.3,10.0,0.0,46.0,5.0,1907.0,Sevilla
+,Franco Vázquez,ar ARG,MF,30,26,4.0,7.0,2016-2017,467bae22,Sevilla,"2,076",23.1,8.0,0.0,46.0,5.0,1908.0,Sevilla
+,Vitolo,es ESP,"MF,FW",30,25,5.0,6.0,2016-2017,db750822,Sevilla,"2,332",25.9,6.0,1.0,46.0,1.0,1875.0,Sevilla
+,Sergio Escudero,es ESP,"DF,MF",26,25,3.0,0.0,2016-2017,b0616e3d,Sevilla,"2,282",25.4,7.0,0.0,46.0,1.0,1898.0,Sevilla
+,Pablo Sarabia,es ESP,MF,34,22,8.0,8.0,2016-2017,9744ff80,Sevilla,"2,142",23.8,10.0,0.0,46.0,1.0,1909.0,Sevilla
+,Samir Nasri,fr FRA,"MF,FW",23,22,4.0,2.0,2016-2017,165bed61,Sevilla,"1,840",20.4,7.0,0.0,46.0,4.0,1910.0,Sevilla
+,Adil Rami,fr FRA,DF,21,21,0.0,0.0,2016-2017,8dbff17c,Sevilla,"1,782",19.8,4.0,1.0,46.0,4.0,,Sevilla
+,Wissam Ben Yedder,fr FRA,FW,31,20,5.0,11.0,2016-2017,942b4f90,Sevilla,"1,661",18.5,0.0,0.0,46.0,4.0,1911.0,Sevilla
+,Clément Lenglet,fr FRA,DF,17,15,0.0,0.0,2016-2017,4f28a6ff,Sevilla,"1,358",15.1,2.0,0.0,46.0,4.0,,Sevilla
+,Joaquín Correa,ar ARG,"MF,FW",26,15,0.0,4.0,2016-2017,45b9b619,Sevilla,"1,313",14.6,6.0,0.0,46.0,5.0,1912.0,Sevilla
+,Luciano Vietto,ar ARG,FW,21,14,3.0,6.0,2016-2017,2513a588,Sevilla,"1,310",14.6,3.0,0.0,46.0,5.0,,Sevilla
+,Matías Kranevitter,ar ARG,MF,21,14,0.0,0.0,2016-2017,314bdac5,Sevilla,"1,285",14.3,6.0,0.0,46.0,5.0,,Sevilla
+,Vicente Iborra,es ESP,MF,31,12,2.0,7.0,2016-2017,d1ffcfd,Sevilla,"1,481",16.5,9.0,0.0,46.0,1.0,1876.0,Sevilla
+,Stevan Jovetić,me MNE,FW,21,12,4.0,6.0,2016-2017,f36c432f,Sevilla,"1,206",13.4,4.0,0.0,46.0,33.0,1913.0,Sevilla
+,Daniel Carriço,pt POR,DF,6,6,0.0,0.0,2016-2017,1deea75,Sevilla,452,5.0,2.0,0.0,46.0,3.0,1878.0,Sevilla
+,Ganso,br BRA,MF,10,5,1.0,2.0,2016-2017,23593121,Sevilla,486,5.4,0.0,0.0,46.0,2.0,1914.0,Sevilla
+,Timothée Kolodziejczak,fr FRA,DF,5,3,0.0,0.0,2016-2017,b096c6f,Sevilla,330,3.7,1.0,0.0,46.0,4.0,1890.0,Sevilla
+,Hiroshi Kiyotake,jp JPN,"MF,FW",4,3,2.0,1.0,2016-2017,0dba1f3e,Sevilla,285,3.2,0.0,0.0,46.0,54.0,1915.0,Sevilla
+,Salvatore Sirigu,it ITA,GK,2,2,0.0,0.0,2016-2017,10dc46f0,Sevilla,177,2.0,0.0,1.0,46.0,9.0,1916.0,Sevilla
+,Michael Krohn-Dehli,dk DEN,"MF,FW",2,2,0.0,0.0,2016-2017,1c8dc17d,Sevilla,170,1.9,0.0,0.0,46.0,7.0,,Sevilla
+,Walter Montoya,ar ARG,FW,4,1,0.0,0.0,2016-2017,39e9c09a,Sevilla,111,1.2,0.0,0.0,46.0,5.0,1917.0,Sevilla
+,David Soria,es ESP,GK,1,1,0.0,0.0,2016-2017,8f8c6934,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1894.0,Sevilla
+,Carlos Fernández,es ESP,FW,3,1,0.0,1.0,2016-2017,08647d6,Sevilla,89,1.0,0.0,0.0,46.0,1.0,,Sevilla
+,Diego González,es ESP,DF,3,0,0.0,0.0,2016-2017,4ac7608e,Sevilla,35,0.4,0.0,0.0,46.0,1.0,1902.0,Sevilla
+,Churripi,es ESP,GK,0,0,,,2016-2017,81a606fc,Sevilla,,,,,46.0,1.0,1918.0,Sevilla
+,Yevhen Konoplyanka,ua UKR,"FW,MF",0,0,,,2016-2017,d9a5d930,Sevilla,,,,,46.0,29.0,1897.0,Sevilla
+,José Mena Rodríguez,es ESP,MF,0,0,,,2016-2017,0af4b238,Sevilla,,,,,46.0,1.0,1919.0,Sevilla
+,Álex Muñoz,es ESP,DF,0,0,,,2016-2017,853f211e,Sevilla,,,,,46.0,1.0,1920.0,Sevilla
+,Alejandro Pozo Pozo,es ESP,"DF,MF",0,0,,,2016-2017,3c16d927,Sevilla,,,,,46.0,1.0,,Sevilla
+,﻿Clément Lenglet,fr FRA,DF,35,33,1.0,3.0,2017-2018,4f28a6ff,Sevilla,"3,001",33.3,9.0,0.0,46.0,4.0,,Sevilla
+,Pablo Sarabia,es ESP,"MF,FW",34,27,5.0,6.0,2017-2018,9744ff80,Sevilla,"2,395",26.6,8.0,1.0,46.0,1.0,1909.0,Sevilla
+,Sergio Escudero,es ESP,DF,27,26,2.0,0.0,2017-2018,b0616e3d,Sevilla,"2,332",25.9,10.0,0.0,46.0,1.0,1898.0,Sevilla
+,Steven Nzonzi,fr FRA,MF,27,26,2.0,1.0,2017-2018,c7526c18,Sevilla,"2,214",24.6,2.0,0.0,46.0,4.0,1895.0,Sevilla
+,Éver Banega,ar ARG,MF,31,25,3.0,3.0,2017-2018,fa937f7a,Sevilla,"2,399",26.7,9.0,1.0,46.0,5.0,,Sevilla
+,Gabriel Mercado,ar ARG,DF,26,25,1.0,0.0,2017-2018,bf97c188,Sevilla,"2,118",23.5,9.0,0.0,46.0,5.0,1907.0,Sevilla
+,Sergio Rico,es ESP,GK,24,23,0.0,0.0,2017-2018,5f0241b2,Sevilla,"2,156",24.0,2.0,0.0,46.0,1.0,,Sevilla
+,Franco Vázquez,ar ARG,MF,30,22,6.0,4.0,2017-2018,467bae22,Sevilla,"1,838",20.4,5.0,0.0,46.0,5.0,1908.0,Sevilla
+,Jesús Navas,es ESP,"MF,DF",26,20,0.0,1.0,2017-2018,3f10bd22,Sevilla,"1,763",19.6,2.0,0.0,46.0,1.0,1803.0,Sevilla
+,Guido Pizarro,ar ARG,MF,24,19,0.0,1.0,2017-2018,faec2ec4,Sevilla,"1,755",19.5,9.0,0.0,46.0,5.0,1921.0,Sevilla
+,Wissam Ben Yedder,fr FRA,FW,25,18,3.0,9.0,2017-2018,942b4f90,Sevilla,"1,700",18.9,2.0,1.0,46.0,4.0,1911.0,Sevilla
+,Simon Kjær,dk DEN,DF,20,18,0.0,2.0,2017-2018,8b8a56ce,Sevilla,"1,571",17.5,3.0,0.0,46.0,7.0,1922.0,Sevilla
+,Luis Muriel,co COL,"FW,MF",29,17,1.0,7.0,2017-2018,b2fe5b6,Sevilla,"1,608",17.9,4.0,0.0,46.0,19.0,1923.0,Sevilla
+,Nolito,es ESP,"MF,FW",30,17,5.0,4.0,2017-2018,b2d0ec1b,Sevilla,"1,600",17.8,4.0,0.0,46.0,1.0,,Sevilla
+,David Soria,es ESP,GK,15,15,0.0,0.0,2017-2018,8f8c6934,Sevilla,"1,264",14.0,1.0,0.0,46.0,1.0,1894.0,Sevilla
+,Joaquín Correa,ar ARG,"MF,FW",21,15,1.0,1.0,2017-2018,45b9b619,Sevilla,"1,193",13.3,5.0,0.0,46.0,5.0,1912.0,Sevilla
+,Miguel Layún,mx MEX,"DF,MF",16,11,0.0,2.0,2017-2018,d6295d4,Sevilla,"1,184",13.2,4.0,0.0,46.0,20.0,1924.0,Sevilla
+,Sébastien Corchia,fr FRA,DF,12,9,1.0,0.0,2017-2018,0e7ccfc4,Sevilla,821,9.1,4.0,0.0,46.0,4.0,1925.0,Sevilla
+,Sandro Ramírez,es ESP,"MF,FW",13,7,1.0,0.0,2017-2018,833fb62e,Sevilla,717,8.0,0.0,0.0,46.0,1.0,,Sevilla
+,Johannes Geis,de GER,"DF,MF",14,7,1.0,0.0,2017-2018,294450ba,Sevilla,676,7.5,0.0,0.0,46.0,13.0,1926.0,Sevilla
+,Ganso,br BRA,MF,8,7,0.0,2.0,2017-2018,23593121,Sevilla,519,5.8,0.0,0.0,46.0,2.0,1914.0,Sevilla
+,Lionel Carole,fr FRA,DF,6,6,1.0,0.0,2017-2018,5b5724d2,Sevilla,540,6.0,0.0,0.0,46.0,4.0,1927.0,Sevilla
+,Michael Krohn-Dehli,dk DEN,MF,13,5,1.0,1.0,2017-2018,1c8dc17d,Sevilla,536,6.0,0.0,0.0,46.0,7.0,,Sevilla
+,Daniel Carriço,pt POR,DF,6,5,0.0,0.0,2017-2018,1deea75,Sevilla,460,5.1,1.0,0.0,46.0,3.0,1878.0,Sevilla
+,Nicolás Pareja,ar ARG,DF,5,5,0.0,0.0,2017-2018,92669f6,Sevilla,405,4.5,2.0,0.0,46.0,5.0,1877.0,Sevilla
+,Roque Mesa,es ESP,MF,7,4,0.0,0.0,2017-2018,7c4243d4,Sevilla,343,3.8,2.0,0.0,46.0,1.0,1928.0,Sevilla
+,Guilherme Arana,br BRA,DF,3,2,0.0,0.0,2017-2018,2b15a82a,Sevilla,193,2.1,0.0,0.0,46.0,2.0,1929.0,Sevilla
+,Carlos Fernández,es ESP,FW,2,2,0.0,1.0,2017-2018,08647d6,Sevilla,137,1.5,0.0,0.0,46.0,1.0,,Sevilla
+,Walter Montoya,ar ARG,FW,1,1,0.0,0.0,2017-2018,39e9c09a,Sevilla,76,0.8,0.0,0.0,46.0,5.0,1917.0,Sevilla
+,Borja Lasso,es ESP,MF,1,1,0.0,0.0,2017-2018,d9faee7e,Sevilla,53,0.6,0.0,0.0,46.0,1.0,1906.0,Sevilla
+,José Alonso Lara,es ESP,MF,1,0,0.0,0.0,2017-2018,7e28d6f7,Sevilla,10,0.1,0.0,0.0,46.0,1.0,,Sevilla
+,Alejandro Pozo Pozo,es ESP,"DF,MF",0,0,,,2017-2018,3c16d927,Sevilla,,,,,46.0,1.0,,Sevilla
+,Juan Soriano,es ESP,GK,0,0,,,2017-2018,5512b1a9,Sevilla,,,,,46.0,1.0,1930.0,Sevilla
+,﻿Tomáš Vaclík,cz CZE,GK,33,33,0.0,0.0,2018-2019,7b456af7,Sevilla,"2,970",33.0,1.0,0.0,46.0,84.0,1931.0,Sevilla
+,Éver Banega,ar ARG,MF,32,32,5.0,3.0,2018-2019,fa937f7a,Sevilla,"2,667",29.6,17.0,2.0,46.0,5.0,,Sevilla
+,Wissam Ben Yedder,fr FRA,FW,35,31,9.0,18.0,2018-2019,942b4f90,Sevilla,"2,812",31.2,3.0,0.0,46.0,4.0,1911.0,Sevilla
+,Sergi Gómez,es ESP,DF,32,31,0.0,0.0,2018-2019,bc6f5f06,Sevilla,"2,765",30.7,1.0,0.0,46.0,1.0,,Sevilla
+,Jesús Navas,es ESP,"DF,FW",32,31,5.0,1.0,2018-2019,3f10bd22,Sevilla,"2,712",30.1,8.0,0.0,46.0,1.0,1803.0,Sevilla
+,Pablo Sarabia,es ESP,MF,33,30,13.0,12.0,2018-2019,9744ff80,Sevilla,"2,724",30.3,9.0,0.0,46.0,1.0,1909.0,Sevilla
+,Franco Vázquez,ar ARG,MF,34,26,4.0,3.0,2018-2019,467bae22,Sevilla,"2,280",25.3,8.0,1.0,46.0,5.0,1908.0,Sevilla
+,André Silva,pt POR,FW,27,25,0.0,9.0,2018-2019,3effaa34,Sevilla,"2,159",24.0,4.0,0.0,46.0,3.0,1932.0,Sevilla
+,Simon Kjær,dk DEN,DF,26,25,0.0,0.0,2018-2019,8b8a56ce,Sevilla,"2,008",22.3,5.0,0.0,46.0,7.0,1922.0,Sevilla
+,Daniel Carriço,pt POR,DF,24,24,1.0,1.0,2018-2019,1deea75,Sevilla,"2,130",23.7,10.0,0.0,46.0,3.0,1878.0,Sevilla
+,Roque Mesa,es ESP,MF,31,20,2.0,2.0,2018-2019,7c4243d4,Sevilla,"1,746",19.4,11.0,1.0,46.0,1.0,1928.0,Sevilla
+,Gabriel Mercado,ar ARG,DF,23,19,1.0,2.0,2018-2019,bf97c188,Sevilla,"1,738",19.3,10.0,0.0,46.0,5.0,1907.0,Sevilla
+,Sergio Escudero,es ESP,"DF,FW",21,18,1.0,0.0,2018-2019,b0616e3d,Sevilla,"1,545",17.2,8.0,1.0,46.0,1.0,1898.0,Sevilla
+,Quincy Promes,nl NED,"FW,DF",33,15,3.0,2.0,2018-2019,b182a240,Sevilla,"1,583",17.6,2.0,0.0,46.0,11.0,1933.0,Sevilla
+,Munir El Haddadi,ma MAR,"FW,MF",16,12,1.0,5.0,2018-2019,8696bc90,Sevilla,"1,042",11.6,2.0,0.0,46.0,26.0,,Sevilla
+,Guilherme Arana,br BRA,DF,9,8,0.0,0.0,2018-2019,2b15a82a,Sevilla,629,7.0,3.0,0.0,46.0,2.0,1929.0,Sevilla
+,Ibrahim Amadou,fr FRA,"MF,DF",17,7,0.0,0.0,2018-2019,9260926b,Sevilla,762,8.5,2.0,0.0,46.0,4.0,1934.0,Sevilla
+,Maximilian Wöber,at AUT,DF,7,6,0.0,0.0,2018-2019,4b803b3c,Sevilla,536,6.0,2.0,0.0,46.0,24.0,1935.0,Sevilla
+,Maxime Gonalons,fr FRA,MF,10,5,0.0,0.0,2018-2019,b8c1de25,Sevilla,540,6.0,0.0,0.0,46.0,4.0,1936.0,Sevilla
+,Aleix Vidal,es ESP,"DF,MF",11,5,0.0,0.0,2018-2019,04965583,Sevilla,528,5.9,3.0,0.0,46.0,1.0,,Sevilla
+,Joris Gnagnon,fr FRA,"DF,MF",7,4,0.0,0.0,2018-2019,1232e1dc,Sevilla,446,5.0,2.0,0.0,46.0,4.0,1937.0,Sevilla
+,Juan Soriano,es ESP,GK,4,4,0.0,0.0,2018-2019,5512b1a9,Sevilla,359,4.0,2.0,1.0,46.0,1.0,1930.0,Sevilla
+,Marko Rog,hr CRO,MF,10,4,0.0,0.0,2018-2019,b6b2b820,Sevilla,357,4.0,5.0,0.0,46.0,16.0,1938.0,Sevilla
+,Luis Muriel,co COL,"MF,FW",6,1,1.0,1.0,2018-2019,b2fe5b6,Sevilla,123,1.4,0.0,0.0,46.0,19.0,1923.0,Sevilla
+,Javier Díaz,es ESP,GK,1,1,0.0,0.0,2018-2019,17a1299d,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1939.0,Sevilla
+,Nolito,es ESP,"FW,DF",4,1,0.0,0.0,2018-2019,b2d0ec1b,Sevilla,76,0.8,0.0,0.0,46.0,1.0,,Sevilla
+,Bryan,es ESP,"MF,FW",11,0,1.0,1.0,2018-2019,7b5ab7f2,Sevilla,167,1.9,0.0,0.0,46.0,1.0,,Sevilla
+,Juan Berrocal González,es ESP,DF,0,0,,,2018-2019,377ef3a6,Sevilla,,,,,46.0,1.0,1940.0,Sevilla
+,Borja Lasso,es ESP,MF,0,0,,,2018-2019,d9faee7e,Sevilla,,,,,46.0,1.0,1906.0,Sevilla
+,Luis Alberto García Pacheco,co COL,GK,0,0,,,2018-2019,5e9d0e32,Sevilla,,,,,46.0,19.0,,Sevilla
+,﻿Jesús Navas,es ESP,DF,38,37,7.0,0.0,2019-2020,3f10bd22,Sevilla,"3,369",37.4,4.0,0.0,46.0,1.0,1803.0,Sevilla
+,Diego Carlos,br BRA,DF,35,35,0.0,2.0,2019-2020,b4a014b1,Sevilla,"3,134",34.8,7.0,0.0,46.0,2.0,1941.0,Sevilla
+,Tomáš Vaclík,cz CZE,GK,33,33,0.0,0.0,2019-2020,7b456af7,Sevilla,"2,925",32.5,0.0,0.0,46.0,84.0,1931.0,Sevilla
+,Lucas Ocampos,ar ARG,"FW,MF",33,31,3.0,14.0,2019-2020,08b974a,Sevilla,"2,745",30.5,10.0,1.0,46.0,5.0,1942.0,Sevilla
+,Fernando,br BRA,MF,34,30,3.0,2.0,2019-2020,41f32541,Sevilla,"2,659",29.5,13.0,0.0,46.0,2.0,1943.0,Sevilla
+,Sergio Reguilón,es ESP,DF,31,29,4.0,2.0,2019-2020,3353737a,Sevilla,"2,509",27.9,8.0,0.0,46.0,1.0,155.0,Sevilla
+,Éver Banega,ar ARG,MF,33,28,7.0,3.0,2019-2020,fa937f7a,Sevilla,"2,475",27.5,10.0,0.0,46.0,5.0,,Sevilla
+,Joan Jordán,es ESP,MF,34,27,2.0,2.0,2019-2020,2a0c8ba4,Sevilla,"2,254",25.0,7.0,0.0,46.0,1.0,1944.0,Sevilla
+,Jules Koundé,fr FRA,DF,29,25,1.0,1.0,2019-2020,4d1666ff,Sevilla,"2,309",25.7,6.0,0.0,46.0,4.0,1945.0,Sevilla
+,Luuk de Jong,nl NED,FW,35,24,1.0,6.0,2019-2020,bb3bb95,Sevilla,"2,059",22.9,2.0,0.0,46.0,11.0,,Sevilla
+,Óliver Torres,es ESP,"MF,FW",28,21,3.0,3.0,2019-2020,58a9a4d9,Sevilla,"1,596",17.7,5.0,0.0,46.0,1.0,1946.0,Sevilla
+,Munir El Haddadi,ma MAR,FW,21,14,2.0,5.0,2019-2020,8696bc90,Sevilla,"1,250",13.9,1.0,0.0,46.0,26.0,,Sevilla
+,Nolito,es ESP,"FW,MF",15,12,0.0,3.0,2019-2020,b2d0ec1b,Sevilla,898,10.0,0.0,0.0,46.0,1.0,,Sevilla
+,Franco Vázquez,ar ARG,"MF,FW",31,11,0.0,3.0,2019-2020,467bae22,Sevilla,"1,098",12.2,5.0,0.0,46.0,5.0,1908.0,Sevilla
+,Daniel Carriço,pt POR,DF,11,10,0.0,0.0,2019-2020,1deea75,Sevilla,847,9.4,3.0,0.0,46.0,3.0,1878.0,Sevilla
+,Nemanja Gudelj,rs SRB,"MF,DF",24,9,0.0,0.0,2019-2020,0076ab7f,Sevilla,"1,216",13.5,6.0,0.0,46.0,28.0,1947.0,Sevilla
+,Suso,es ESP,"FW,MF",17,8,1.0,1.0,2019-2020,4e219ad2,Sevilla,785,8.7,0.0,0.0,46.0,1.0,1948.0,Sevilla
+,Sergio Escudero,es ESP,DF,11,8,0.0,1.0,2019-2020,b0616e3d,Sevilla,773,8.6,2.0,0.0,46.0,1.0,1898.0,Sevilla
+,Sergi Gómez,es ESP,DF,13,8,0.0,0.0,2019-2020,bc6f5f06,Sevilla,717,8.0,4.0,0.0,46.0,1.0,,Sevilla
+,Youssef En-Nesyri,ma MAR,FW,18,7,0.0,4.0,2019-2020,04e17fd5,Sevilla,796,8.8,1.0,0.0,46.0,26.0,1949.0,Sevilla
+,Yassine Bounou,ma MAR,GK,6,5,1.0,0.0,2019-2020,f6798fc3,Sevilla,495,5.5,1.0,0.0,46.0,26.0,1950.0,Sevilla
+,Javier Hernández,mx MEX,FW,9,4,0.0,1.0,2019-2020,189cee7b,Sevilla,448,5.0,0.0,0.0,46.0,20.0,123.0,Sevilla
+,Rony Lopes,pt POR,FW,5,2,0.0,0.0,2019-2020,7c2965bb,Sevilla,134,1.5,0.0,0.0,46.0,3.0,1951.0,Sevilla
+,Bryan,es ESP,FW,2,0,0.0,0.0,2019-2020,7b5ab7f2,Sevilla,65,0.7,2.0,0.0,46.0,1.0,,Sevilla
+,Alejandro Pozo Pozo,es ESP,"MF,FW",3,0,0.0,0.0,2019-2020,3c16d927,Sevilla,37,0.4,0.0,0.0,46.0,1.0,,Sevilla
+,Moanes Dabbur,il ISR,FW,2,0,0.0,0.0,2019-2020,c044ad,Sevilla,26,0.3,0.0,0.0,46.0,45.0,1952.0,Sevilla
+,José Alonso Lara,es ESP,MF,0,0,,,2019-2020,7e28d6f7,Sevilla,,,,,46.0,1.0,,Sevilla
+,Javier Díaz,es ESP,GK,0,0,,,2019-2020,17a1299d,Sevilla,,,,,46.0,1.0,1939.0,Sevilla
+,Juanlu,es ESP,DF,0,0,,,2019-2020,cc6de655,Sevilla,,,,,46.0,1.0,1953.0,Sevilla
+,José Mena Rodríguez,es ESP,MF,0,0,,,2019-2020,0af4b238,Sevilla,,,,,46.0,1.0,1919.0,Sevilla
+,Alfonso Pastor,es ESP,GK,0,0,,,2019-2020,14e05913,Sevilla,,,,,46.0,1.0,1954.0,Sevilla
+,Pablo Pérez,es ESP,DF,0,0,,,2019-2020,75696fef,Sevilla,,,,,46.0,1.0,1955.0,Sevilla
+,Sergio Rico,es ESP,GK,0,0,,,2019-2020,5f0241b2,Sevilla,,,,,46.0,1.0,,Sevilla
+,Felipe Rodríguez Chacartegui,es ESP,DF,0,0,,,2019-2020,b5b498c2,Sevilla,,,,,46.0,1.0,1956.0,Sevilla
+,Genaro Rodríguez Serrano,es ESP,MF,0,0,,,2019-2020,505d9778,Sevilla,,,,,46.0,1.0,1957.0,Sevilla
+,﻿Jesús Navas,es ESP,DF,34,34,6.0,0.0,2020-2021,3f10bd22,Sevilla,"2,827",31.4,4.0,0.0,46.0,1.0,1803.0,Sevilla
+,Jules Koundé,fr FRA,DF,34,33,1.0,2.0,2020-2021,4d1666ff,Sevilla,"2,975",33.1,4.0,0.0,46.0,4.0,1945.0,Sevilla
+,Yassine Bounou,ma MAR,GK,33,33,0.0,1.0,2020-2021,f6798fc3,Sevilla,"2,970",33.0,3.0,0.0,46.0,26.0,1950.0,Sevilla
+,Diego Carlos,br BRA,DF,33,32,0.0,1.0,2020-2021,b4a014b1,Sevilla,"2,788",31.0,11.0,1.0,46.0,2.0,1941.0,Sevilla
+,Lucas Ocampos,ar ARG,FW,34,30,4.0,5.0,2020-2021,08b974a,Sevilla,"2,631",29.2,3.0,0.0,46.0,5.0,1942.0,Sevilla
+,Fernando,br BRA,MF,31,28,4.0,3.0,2020-2021,41f32541,Sevilla,"2,546",28.3,6.0,0.0,46.0,2.0,1943.0,Sevilla
+,Joan Jordán,es ESP,MF,35,28,6.0,1.0,2020-2021,2a0c8ba4,Sevilla,"2,406",26.7,8.0,1.0,46.0,1.0,1944.0,Sevilla
+,Suso,es ESP,"FW,MF",34,28,4.0,3.0,2020-2021,4e219ad2,Sevilla,"2,210",24.6,2.0,0.0,46.0,1.0,1948.0,Sevilla
+,Marcos Acuña,ar ARG,DF,30,26,2.0,1.0,2020-2021,81442ecb,Sevilla,"2,330",25.9,5.0,0.0,46.0,5.0,1963.0,Sevilla
+,Ivan Rakitić,hr CRO,MF,37,25,2.0,4.0,2020-2021,89f951b5,Sevilla,"2,233",24.8,5.0,0.0,46.0,16.0,,Sevilla
+,Youssef En-Nesyri,ma MAR,FW,38,23,0.0,18.0,2020-2021,04e17fd5,Sevilla,"2,311",25.7,2.0,0.0,46.0,26.0,1949.0,Sevilla
+,Óliver Torres,es ESP,"MF,FW",33,15,3.0,0.0,2020-2021,58a9a4d9,Sevilla,"1,400",15.6,2.0,0.0,46.0,1.0,1946.0,Sevilla
+,Luuk de Jong,nl NED,FW,34,14,0.0,4.0,2020-2021,bb3bb95,Sevilla,"1,268",14.1,3.0,0.0,46.0,11.0,,Sevilla
+,Papu Gómez,ar ARG,"MF,FW",18,11,1.0,3.0,2020-2021,6e4df551,Sevilla,914,10.2,0.0,0.0,46.0,5.0,1958.0,Sevilla
+,Nemanja Gudelj,rs SRB,"MF,DF",30,10,0.0,0.0,2020-2021,0076ab7f,Sevilla,"1,041",11.6,8.0,0.0,46.0,28.0,1947.0,Sevilla
+,Munir El Haddadi,ma MAR,FW,24,9,2.0,4.0,2020-2021,8696bc90,Sevilla,845,9.4,2.0,0.0,46.0,26.0,,Sevilla
+,Sergi Gómez,es ESP,DF,9,9,0.0,0.0,2020-2021,bc6f5f06,Sevilla,719,8.0,2.0,0.0,46.0,1.0,,Sevilla
+,Sergio Escudero,es ESP,DF,9,7,0.0,1.0,2020-2021,b0616e3d,Sevilla,565,6.3,3.0,0.0,46.0,1.0,1898.0,Sevilla
+,Karim Rekik,nl NED,DF,11,6,0.0,0.0,2020-2021,3376a776,Sevilla,653,7.3,2.0,0.0,46.0,11.0,1959.0,Sevilla
+,Aleix Vidal,es ESP,DF,12,5,1.0,0.0,2020-2021,04965583,Sevilla,595,6.6,2.0,0.0,46.0,1.0,,Sevilla
+,Tomáš Vaclík,cz CZE,GK,5,5,0.0,0.0,2020-2021,7b456af7,Sevilla,450,5.0,0.0,0.0,46.0,84.0,1931.0,Sevilla
+,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",20,4,0.0,0.0,2020-2021,19709006,Sevilla,511,5.7,1.0,0.0,46.0,1.0,153.0,Sevilla
+,Carlos Fernández,es ESP,FW,5,2,0.0,0.0,2020-2021,08647d6,Sevilla,143,1.6,0.0,0.0,46.0,1.0,,Sevilla
+,Franco Vázquez,ar ARG,"MF,FW",15,1,0.0,1.0,2020-2021,467bae22,Sevilla,164,1.8,1.0,0.0,46.0,5.0,1908.0,Sevilla
+,Oussama Idrissi,ma MAR,"MF,FW",3,0,0.0,0.0,2020-2021,34caa4b3,Sevilla,27,0.3,0.0,0.0,46.0,26.0,1960.0,Sevilla
+,Bryan,es ESP,FW,1,0,0.0,0.0,2020-2021,7b5ab7f2,Sevilla,13,0.1,0.0,0.0,46.0,1.0,,Sevilla
+,Javier Díaz,es ESP,GK,0,0,,,2020-2021,17a1299d,Sevilla,,,,,46.0,1.0,1939.0,Sevilla
+,Joris Gnagnon,fr FRA,DF,0,0,,,2020-2021,1232e1dc,Sevilla,,,,,46.0,4.0,1937.0,Sevilla
+,Alfonso Pastor,es ESP,GK,0,0,,,2020-2021,14e05913,Sevilla,,,,,46.0,1.0,1954.0,Sevilla
+,Pablo Pérez,es ESP,DF,0,0,,,2020-2021,75696fef,Sevilla,,,,,46.0,1.0,1955.0,Sevilla
+,Alejandro Pozo Pozo,es ESP,"DF,MF",0,0,,,2020-2021,3c16d927,Sevilla,,,,,46.0,1.0,,Sevilla
+,Iván Romero,es ESP,FW,0,0,,,2020-2021,2fbe6af0,Sevilla,,,,,46.0,1.0,1961.0,Sevilla
+,Zarzana,es ESP,FW,0,0,,,2020-2021,8ea1ee1d,Sevilla,,,,,46.0,1.0,1962.0,Sevilla
+,﻿Diego Carlos,br BRA,DF,34,34,0.0,3.0,2021-2022,b4a014b1,Sevilla,"2,957",32.9,4.0,1.0,46.0,2.0,1941.0,Sevilla
+,Yassine Bounou,ma MAR,GK,31,31,2.0,0.0,2021-2022,f6798fc3,Sevilla,"2,790",31.0,2.0,0.0,46.0,26.0,1950.0,Sevilla
+,Jules Koundé,fr FRA,DF,32,31,1.0,2.0,2021-2022,4d1666ff,Sevilla,"2,736",30.4,2.0,2.0,46.0,4.0,1945.0,Sevilla
+,Joan Jordán,es ESP,MF,36,31,1.0,0.0,2021-2022,2a0c8ba4,Sevilla,"2,514",27.9,9.0,0.0,46.0,1.0,1944.0,Sevilla
+,Marcos Acuña,ar ARG,DF,31,26,3.0,1.0,2021-2022,81442ecb,Sevilla,"2,260",25.1,10.0,0.0,46.0,5.0,1963.0,Sevilla
+,Ivan Rakitić,hr CRO,MF,35,26,6.0,4.0,2021-2022,89f951b5,Sevilla,"2,182",24.2,5.0,0.0,46.0,16.0,,Sevilla
+,Lucas Ocampos,ar ARG,"FW,MF",30,23,4.0,6.0,2021-2022,08b974a,Sevilla,"2,125",23.6,7.0,0.0,46.0,5.0,1942.0,Sevilla
+,Fernando,br BRA,"MF,DF",24,21,1.0,1.0,2021-2022,41f32541,Sevilla,"1,850",20.6,6.0,0.0,46.0,2.0,1943.0,Sevilla
+,Jesús Navas,es ESP,DF,25,19,3.0,0.0,2021-2022,3f10bd22,Sevilla,"1,786",19.8,4.0,0.0,46.0,1.0,1803.0,Sevilla
+,Papu Gómez,ar ARG,"MF,FW",29,19,1.0,5.0,2021-2022,6e4df551,Sevilla,"1,784",19.8,4.0,0.0,46.0,5.0,1958.0,Sevilla
+,Rafa Mir,es ESP,FW,34,18,0.0,10.0,2021-2022,bbf5c11b,Sevilla,"1,808",20.1,6.0,0.0,46.0,1.0,,Sevilla
+,Thomas Delaney,dk DEN,MF,26,15,1.0,2.0,2021-2022,fe641c1a,Sevilla,"1,549",17.2,4.0,1.0,46.0,7.0,1964.0,Sevilla
+,Youssef En-Nesyri,ma MAR,FW,23,15,1.0,5.0,2021-2022,04e17fd5,Sevilla,"1,277",14.2,1.0,0.0,46.0,26.0,1949.0,Sevilla
+,Gonzalo Montiel,ar ARG,DF,18,15,2.0,1.0,2021-2022,374d5158,Sevilla,"1,066",11.8,7.0,0.0,46.0,5.0,1965.0,Sevilla
+,Jesús Corona,mx MEX,"FW,MF",18,12,4.0,2.0,2021-2022,fb938d24,Sevilla,"1,157",12.9,2.0,0.0,46.0,20.0,1966.0,Sevilla
+,Karim Rekik,nl NED,DF,18,11,2.0,0.0,2021-2022,3376a776,Sevilla,"1,098",12.2,2.0,0.0,46.0,11.0,1959.0,Sevilla
+,Óliver Torres,es ESP,"MF,FW",26,11,3.0,2.0,2021-2022,58a9a4d9,Sevilla,"1,008",11.2,2.0,0.0,46.0,1.0,1946.0,Sevilla
+,Érik Lamela,ar ARG,"FW,MF",20,10,2.0,5.0,2021-2022,be66106,Sevilla,"1,015",11.3,5.0,0.0,46.0,5.0,1967.0,Sevilla
+,Nemanja Gudelj,rs SRB,"DF,MF",21,9,0.0,0.0,2021-2022,0076ab7f,Sevilla,"1,046",11.6,5.0,0.0,46.0,28.0,1947.0,Sevilla
+,Ludwig Augustinsson,se SWE,DF,19,9,1.0,0.0,2021-2022,9fec8860,Sevilla,793,8.8,3.0,0.0,46.0,41.0,1968.0,Sevilla
+,Anthony Martial,fr FRA,"FW,MF",9,7,1.0,0.0,2021-2022,8b788c01,Sevilla,490,5.4,1.0,0.0,46.0,4.0,1969.0,Sevilla
+,Marko Dmitrović,rs SRB,GK,6,6,0.0,0.0,2021-2022,c295d9e,Sevilla,540,6.0,0.0,0.0,46.0,28.0,1970.0,Sevilla
+,Suso,es ESP,"FW,MF",8,6,1.0,0.0,2021-2022,4e219ad2,Sevilla,384,4.3,0.0,0.0,46.0,1.0,1948.0,Sevilla
+,Munir El Haddadi,ma MAR,"FW,MF",16,4,0.0,2.0,2021-2022,8696bc90,Sevilla,474,5.3,3.0,0.0,46.0,26.0,,Sevilla
+,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",11,4,0.0,0.0,2021-2022,19709006,Sevilla,417,4.6,1.0,0.0,46.0,1.0,153.0,Sevilla
+,Iván Romero,es ESP,FW,5,2,0.0,0.0,2021-2022,2fbe6af0,Sevilla,178,2.0,0.0,0.0,46.0,1.0,1961.0,Sevilla
+,Oussama Idrissi,ma MAR,"MF,FW",5,2,0.0,0.0,2021-2022,34caa4b3,Sevilla,127,1.4,1.0,0.0,46.0,26.0,1960.0,Sevilla
+,Javier Díaz,es ESP,GK,1,1,0.0,0.0,2021-2022,17a1299d,Sevilla,90,1.0,0.0,0.0,46.0,1.0,1939.0,Sevilla
+,Carmona,es ESP,DF,1,0,0.0,0.0,2021-2022,2dce876a,Sevilla,24,0.3,0.0,0.0,46.0,1.0,1971.0,Sevilla
+,Luismi,es ESP,"FW,MF",2,0,0.0,0.0,2021-2022,cf5410c,Sevilla,13,0.1,0.0,0.0,46.0,1.0,1972.0,Sevilla
+,Pedro Ortiz,es ESP,MF,1,0,0.0,0.0,2021-2022,f9358b61,Sevilla,7,0.1,0.0,0.0,46.0,1.0,1973.0,Sevilla
+,Juan Sánchez,es ESP,,1,0,0.0,0.0,2021-2022,ff4f78e1,Sevilla,5,0.1,1.0,0.0,46.0,1.0,,Sevilla
+,Valentino Scotta,es ESP,DF,1,0,0.0,0.0,2021-2022,98529579,Sevilla,1,0.0,0.0,0.0,46.0,1.0,1974.0,Sevilla
+,Luuk de Jong,nl NED,FW,0,0,,,2021-2022,bb3bb95,Sevilla,,,,,46.0,11.0,,Sevilla
+,Juanlu,es ESP,MF,0,0,,,2021-2022,cc6de655,Sevilla,,,,,46.0,1.0,1953.0,Sevilla
+,Alberto López,es ESP,GK,0,0,,,2021-2022,c25f14a7,Sevilla,,,,,46.0,1.0,1975.0,Sevilla
+,Alfonso Pastor,es ESP,GK,0,0,,,2021-2022,14e05913,Sevilla,,,,,46.0,1.0,1954.0,Sevilla
+,Pablo Pérez,es ESP,DF,0,0,,,2021-2022,75696fef,Sevilla,,,,,46.0,1.0,1955.0,Sevilla
+,Alejandro Pozo Pozo,es ESP,"DF,MF",0,0,,,2021-2022,3c16d927,Sevilla,,,,,46.0,1.0,,Sevilla
+,Nacho Quintana,es ESP,MF,0,0,,,2021-2022,8e613398,Sevilla,,,,,46.0,1.0,,Sevilla
+,Enrique Valiente,es ESP,DF,0,0,,,2021-2022,0a69de7b,Sevilla,,,,,46.0,1.0,1976.0,Sevilla
+,Zarzana,es ESP,FW,0,0,,,2021-2022,8ea1ee1d,Sevilla,,,,,46.0,1.0,1962.0,Sevilla

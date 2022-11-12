@@ -1,0 +1,576 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Manuel Tena,es ESP,DF,40,40,0.0,2.0,2002-2003,515e2eee,Getafe,"3,600",40.0,9.0,0.0,60.0,1.0,,Getafe
+,Alberto Ruiz,es ESP,FW,38,37,4.0,4.0,2002-2003,68d1663d,Getafe,"3,251",36.1,15.0,0.0,60.0,1.0,4005.0,Getafe
+,Gheorghe Craioveanu,ro ROU,FW,37,35,3.0,9.0,2002-2003,f4fdadf6,Getafe,"2,981",33.1,4.0,0.0,60.0,51.0,4006.0,Getafe
+,Ángel Vivar Dorado,es ESP,MF,39,34,1.0,9.0,2002-2003,c6d027e,Getafe,"3,108",34.5,7.0,0.0,60.0,1.0,,Getafe
+,Ángel Pindado,es ESP,GK,32,31,0.0,0.0,2002-2003,6b44da65,Getafe,"2,841",31.6,2.0,1.0,60.0,1.0,,Getafe
+,Diego Rivas,es ESP,MF,32,29,1.0,3.0,2002-2003,cf46bc,Getafe,"2,547",28.3,13.0,1.0,60.0,1.0,,Getafe
+,Nano,es ESP,DF,26,26,0.0,2.0,2002-2003,3d6dd9f9,Getafe,"2,071",23.0,8.0,1.0,60.0,1.0,,Getafe
+,Antonio Estevez,,,33,24,7.0,1.0,2002-2003,ffcf0c2,Getafe,"2,097",23.3,2.0,0.0,60.0,,,Getafe
+,Francisco Chiqui,,,35,22,0.0,0.0,2002-2003,,Getafe,"1,992",22.1,8.0,2.0,60.0,,,Getafe
+,Mario Cotelo,es ESP,MF,25,21,0.0,1.0,2002-2003,bb049a1f,Getafe,"1,861",20.7,2.0,0.0,60.0,1.0,4007.0,Getafe
+,Francisco Jusué,es ESP,DF,20,19,1.0,0.0,2002-2003,c74f81a1,Getafe,"1,717",19.1,8.0,0.0,60.0,1.0,,Getafe
+,Luis Casado,,,20,18,0.0,0.0,2002-2003,,Getafe,"1,597",17.7,6.0,1.0,60.0,,,Getafe
+,Txema Alonso,es ESP,"DF,MF",15,15,1.0,0.0,2002-2003,f2375c9e,Getafe,"1,273",14.1,6.0,1.0,60.0,1.0,4008.0,Getafe
+,Luis López Gil,es ESP,MF,17,15,3.0,7.0,2002-2003,fb3f998e,Getafe,"1,235",13.7,3.0,0.0,60.0,1.0,4009.0,Getafe
+,Javier Baraja,es ESP,"DF,MF",13,13,1.0,0.0,2002-2003,6514cd55,Getafe,"1,170",13.0,3.0,1.0,60.0,1.0,,Getafe
+,Juan Carlos,es ESP,FW,23,12,1.0,4.0,2002-2003,dc9c9a3d,Getafe,"1,188",13.2,4.0,1.0,60.0,1.0,4010.0,Getafe
+,Edgar Pacheco,pt POR,FW,19,12,1.0,1.0,2002-2003,70c4ab5,Getafe,"1,164",12.9,1.0,0.0,60.0,3.0,,Getafe
+,Nacho Triguero,,GK,12,11,0.0,0.0,2002-2003,2a44f41c,Getafe,939,10.4,2.0,1.0,60.0,,,Getafe
+,Álvaro Jurado,es ESP,MF,18,8,0.0,0.0,2002-2003,dc2d7c3a,Getafe,783,8.7,5.0,1.0,60.0,1.0,4011.0,Getafe
+,Bernard Ferrer,fr FRA,MF,9,6,0.0,0.0,2002-2003,d12172fe,Getafe,613,6.8,0.0,0.0,60.0,4.0,4012.0,Getafe
+,Míchel,es ESP,FW,14,6,1.0,2.0,2002-2003,5f68b183,Getafe,597,6.6,1.0,0.0,60.0,1.0,,Getafe
+,David Copito,,,12,5,0.0,1.0,2002-2003,,Getafe,524,5.8,3.0,0.0,60.0,,,Getafe
+,Borja,es ESP,,15,5,0.0,4.0,2002-2003,78b40f16,Getafe,493,5.5,1.0,0.0,60.0,1.0,,Getafe
+,Ignacio Juanma,,,6,5,0.0,0.0,2002-2003,,Getafe,453,5.0,1.0,0.0,60.0,,,Getafe
+,Fernandez David,,,13,3,0.0,0.0,2002-2003,,Getafe,371,4.1,1.0,0.0,60.0,,,Getafe
+,Álvaro Benito,es ESP,MF,6,2,1.0,0.0,2002-2003,0239d51e,Getafe,172,1.9,2.0,0.0,60.0,1.0,4013.0,Getafe
+,Iñaki Bea Jauregi,es ESP,DF,4,1,0.0,0.0,2002-2003,bbcd4ab0,Getafe,130,1.4,1.0,0.0,60.0,1.0,,Getafe
+,Jose Soria,,,1,1,0.0,0.0,2002-2003,,Getafe,45,0.5,0.0,0.0,60.0,,,Getafe
+,Rubén Reyes,es ESP,MF,2,0,1.0,0.0,2002-2003,770a119c,Getafe,50,0.6,0.0,0.0,60.0,1.0,,Getafe
+,Alfonso Gonzalez,,,1,0,0.0,0.0,2002-2003,,Getafe,8,0.1,0.0,0.0,60.0,,,Getafe
+,﻿Iván Amaya,es ESP,DF,40,40,0.0,1.0,2003-2004,1ed358ee,Getafe,"3,569",39.7,8.0,1.0,60.0,1.0,,Getafe
+,Alberto Ruiz,es ESP,FW,39,38,4.0,6.0,2003-2004,68d1663d,Getafe,"3,310",36.8,13.0,1.0,60.0,1.0,4005.0,Getafe
+,Ángel Vivar Dorado,es ESP,MF,36,35,2.0,3.0,2003-2004,c6d027e,Getafe,"3,029",33.7,11.0,0.0,60.0,1.0,,Getafe
+,Nano,es ESP,DF,34,32,1.0,1.0,2003-2004,3d6dd9f9,Getafe,"2,682",29.8,7.0,1.0,60.0,1.0,,Getafe
+,Marc Bernaus,ad AND,DF,33,30,3.0,0.0,2003-2004,761ecc1f,Getafe,"2,628",29.2,12.0,0.0,60.0,96.0,4014.0,Getafe
+,Gari Uranga,es ESP,MF,38,28,2.0,6.0,2003-2004,2a701b9e,Getafe,"2,594",28.8,10.0,1.0,60.0,1.0,,Getafe
+,Mario Cotelo,es ESP,MF,34,28,3.0,1.0,2003-2004,bb049a1f,Getafe,"2,438",27.1,5.0,1.0,60.0,1.0,4007.0,Getafe
+,Míchel,es ESP,FW,32,27,0.0,15.0,2003-2004,5f68b183,Getafe,"2,291",25.5,4.0,0.0,60.0,1.0,,Getafe
+,Gheorghe Craioveanu,ro ROU,FW,34,25,15.0,5.0,2003-2004,f4fdadf6,Getafe,"2,356",26.2,9.0,0.0,60.0,51.0,4006.0,Getafe
+,José Manuel Yanguas,es ESP,DF,23,23,0.0,0.0,2003-2004,3a7b7e,Getafe,"1,814",20.2,9.0,0.0,60.0,1.0,,Getafe
+,Sergio Aragoneses,es ESP,GK,21,21,0.0,0.0,2003-2004,8e8258f5,Getafe,"1,890",21.0,2.0,0.0,60.0,1.0,,Getafe
+,Sergio Sánchez,es ESP,GK,21,21,0.0,0.0,2003-2004,2a0f94ac,Getafe,"1,890",21.0,4.0,0.0,60.0,1.0,,Getafe
+,Manuel Tena,es ESP,DF,29,20,0.0,0.0,2003-2004,515e2eee,Getafe,"1,865",20.7,8.0,1.0,60.0,1.0,,Getafe
+,Quique Medina,es ESP,DF,16,16,0.0,0.0,2003-2004,0aa5e053,Getafe,"1,396",15.5,8.0,1.0,60.0,1.0,,Getafe
+,David Cubillo,es ESP,MF,32,15,1.0,1.0,2003-2004,d8d2e883,Getafe,"1,549",17.2,4.0,0.0,60.0,1.0,,Getafe
+,Sergio Pachón,es ESP,FW,24,14,2.0,11.0,2003-2004,85fca9,Getafe,"1,426",15.8,1.0,0.0,60.0,1.0,,Getafe
+,Diego Rivas,es ESP,MF,17,14,1.0,0.0,2003-2004,cf46bc,Getafe,"1,108",12.3,5.0,1.0,60.0,1.0,,Getafe
+,David Belenguer,es ESP,DF,14,13,1.0,0.0,2003-2004,68c448f7,Getafe,"1,054",11.7,6.0,0.0,60.0,1.0,,Getafe
+,Javier Baraja,es ESP,"DF,MF",13,10,0.0,0.0,2003-2004,6514cd55,Getafe,969,10.8,3.0,0.0,60.0,1.0,,Getafe
+,Miguel Ángel,es ESP,FW,21,7,4.0,4.0,2003-2004,76f06f1f,Getafe,834,9.3,3.0,0.0,60.0,1.0,4015.0,Getafe
+,Luis López Gil,es ESP,MF,13,4,0.0,0.0,2003-2004,fb3f998e,Getafe,486,5.4,0.0,0.0,60.0,1.0,4009.0,Getafe
+,Angel Castro,,,13,1,1.0,0.0,2003-2004,463b63bb,Getafe,214,2.4,1.0,0.0,60.0,,,Getafe
+,﻿Nano,es ESP,DF,37,37,0.0,4.0,2004-2005,3d6dd9f9,Getafe,"3,330",37.0,7.0,0.0,60.0,1.0,,Getafe
+,Mariano Pernía,es ESP,DF,36,36,2.0,3.0,2004-2005,5f28a2f7,Getafe,"3,233",35.9,8.0,0.0,60.0,1.0,,Getafe
+,Ángel Vivar Dorado,es ESP,MF,36,36,2.0,3.0,2004-2005,c6d027e,Getafe,"3,133",34.8,8.0,0.0,60.0,1.0,,Getafe
+,Diego Rivas,es ESP,MF,33,32,1.0,0.0,2004-2005,cf46bc,Getafe,"2,709",30.1,14.0,0.0,60.0,1.0,,Getafe
+,Gabi,es ESP,MF,32,30,2.0,2.0,2004-2005,65d750b5,Getafe,"2,685",29.8,8.0,0.0,60.0,1.0,,Getafe
+,David Belenguer,es ESP,DF,30,29,1.0,0.0,2004-2005,68c448f7,Getafe,"2,603",28.9,8.0,0.0,60.0,1.0,,Getafe
+,Mario Cotelo,es ESP,MF,32,28,5.0,2.0,2004-2005,bb049a1f,Getafe,"2,445",27.2,11.0,0.0,60.0,1.0,4007.0,Getafe
+,Riki,es ESP,FW,29,21,3.0,3.0,2004-2005,b21507f,Getafe,"1,802",20.0,2.0,0.0,60.0,1.0,,Getafe
+,Javier Sánchez Broto,es ESP,GK,20,20,0.0,0.0,2004-2005,9157113d,Getafe,"1,799",20.0,2.0,1.0,60.0,1.0,,Getafe
+,José Manuel Yanguas,es ESP,DF,20,19,0.0,0.0,2004-2005,3a7b7e,Getafe,"1,741",19.3,2.0,0.0,60.0,1.0,,Getafe
+,Gheorghe Craioveanu,ro ROU,FW,35,15,5.0,2.0,2004-2005,f4fdadf6,Getafe,"1,629",18.1,2.0,1.0,60.0,51.0,4006.0,Getafe
+,Raúl Albiol,es ESP,DF,17,15,0.0,1.0,2004-2005,4bd414c1,Getafe,"1,409",15.7,3.0,0.0,60.0,1.0,80.0,Getafe
+,Sergio Pachón,es ESP,FW,18,15,1.0,5.0,2004-2005,85fca9,Getafe,"1,294",14.4,2.0,0.0,60.0,1.0,,Getafe
+,Yordi,es ESP,FW,27,14,1.0,1.0,2004-2005,8cbb78fb,Getafe,"1,321",14.7,4.0,1.0,60.0,1.0,,Getafe
+,Francisco Gallardo,es ESP,MF,22,13,0.0,1.0,2004-2005,be80c87c,Getafe,926,10.3,3.0,0.0,60.0,1.0,,Getafe
+,Sergio Aragoneses,es ESP,GK,11,10,0.0,0.0,2004-2005,8e8258f5,Getafe,901,10.0,1.0,0.0,60.0,1.0,,Getafe
+,Míchel,es ESP,FW,21,10,1.0,5.0,2004-2005,5f68b183,Getafe,804,8.9,2.0,0.0,60.0,1.0,,Getafe
+,Daniel N'Gom Kome,cm CMR,MF,20,9,1.0,2.0,2004-2005,8076455d,Getafe,886,9.8,3.0,0.0,60.0,36.0,,Getafe
+,Sergio Sánchez,es ESP,GK,8,8,0.0,0.0,2004-2005,2a0f94ac,Getafe,720,8.0,1.0,0.0,60.0,1.0,,Getafe
+,Rubén Pulido,es ESP,DF,8,6,0.0,0.0,2004-2005,3a8be98c,Getafe,528,5.9,3.0,1.0,60.0,1.0,,Getafe
+,Iván Amaya,es ESP,DF,5,5,0.0,0.0,2004-2005,1ed358ee,Getafe,450,5.0,2.0,0.0,60.0,1.0,,Getafe
+,Manuel Tena,es ESP,DF,4,4,0.0,0.0,2004-2005,515e2eee,Getafe,309,3.4,0.0,0.0,60.0,1.0,,Getafe
+,David Cubillo,es ESP,MF,6,3,0.0,1.0,2004-2005,d8d2e883,Getafe,305,3.4,2.0,0.0,60.0,1.0,,Getafe
+,Asen,es ESP,FW,6,2,0.0,0.0,2004-2005,5725f8c6,Getafe,217,2.4,0.0,0.0,60.0,1.0,,Getafe
+,Martín Vitali,ar ARG,"DF,MF",2,2,0.0,0.0,2004-2005,14931795,Getafe,135,1.5,1.0,0.0,60.0,5.0,4016.0,Getafe
+,Alberto Aguilar,es ESP,"DF,MF",2,2,0.0,0.0,2004-2005,1627a,Getafe,107,1.2,0.0,0.0,60.0,1.0,,Getafe
+,Alberto Ruiz,es ESP,FW,2,2,,0.0,2004-2005,68d1663d,Getafe,105,1.2,0.0,0.0,60.0,1.0,4005.0,Getafe
+,José Antonio Serrano,es ESP,DF,1,1,0.0,1.0,2004-2005,0803c7dd,Getafe,79,0.9,0.0,0.0,60.0,1.0,4017.0,Getafe
+,Quique Medina,es ESP,DF,1,0,,0.0,2004-2005,0aa5e053,Getafe,8,0.1,0.0,0.0,60.0,1.0,,Getafe
+,﻿Mariano Pernía,es ESP,DF,36,36,2.0,10.0,2005-2006,5f28a2f7,Getafe,"3,206",35.6,10.0,1.0,60.0,1.0,,Getafe
+,Diego Rivas,es ESP,MF,33,33,1.0,0.0,2005-2006,cf46bc,Getafe,"2,963",32.9,15.0,2.0,60.0,1.0,,Getafe
+,Jaime Gavilán,es ESP,MF,32,30,11.0,4.0,2005-2006,95de0931,Getafe,"2,463",27.4,6.0,1.0,60.0,1.0,,Getafe
+,David Belenguer,es ESP,DF,29,28,1.0,1.0,2005-2006,68c448f7,Getafe,"2,512",27.9,7.0,1.0,60.0,1.0,,Getafe
+,Riki,es ESP,FW,32,28,3.0,8.0,2005-2006,b21507f,Getafe,"2,492",27.7,2.0,0.0,60.0,1.0,,Getafe
+,Luis García,es ESP,GK,25,25,0.0,0.0,2005-2006,716e5a4,Getafe,"2,250",25.0,2.0,0.0,60.0,1.0,,Getafe
+,Dani Güiza,es ESP,FW,32,25,6.0,9.0,2005-2006,d863ea53,Getafe,"2,205",24.5,8.0,0.0,60.0,1.0,,Getafe
+,Mario Cotelo,es ESP,MF,30,24,1.0,0.0,2005-2006,bb049a1f,Getafe,"2,110",23.4,3.0,2.0,60.0,1.0,4007.0,Getafe
+,Cosmin Contra,ro ROU,"DF,MF",24,24,1.0,0.0,2005-2006,9bdc0e80,Getafe,"2,109",23.4,9.0,0.0,60.0,51.0,,Getafe
+,Aníbal Matellán,ar ARG,DF,22,22,3.0,0.0,2005-2006,82945b54,Getafe,"1,902",21.1,10.0,1.0,60.0,5.0,4018.0,Getafe
+,Rubén Pulido,es ESP,DF,25,21,1.0,2.0,2005-2006,3a8be98c,Getafe,"1,886",21.0,4.0,0.0,60.0,1.0,,Getafe
+,Veljko Paunović,es ESP,"FW,MF",30,21,1.0,10.0,2005-2006,7d0ae66f,Getafe,"1,796",20.0,2.0,0.0,60.0,1.0,,Getafe
+,Fabio Celestini,ch SUI,MF,19,19,1.0,0.0,2005-2006,c36ce86e,Getafe,"1,485",16.5,5.0,0.0,60.0,39.0,4019.0,Getafe
+,Ángel Vivar Dorado,es ESP,MF,25,17,2.0,2.0,2005-2006,c6d027e,Getafe,"1,500",16.7,5.0,0.0,60.0,1.0,,Getafe
+,Manuel Tena,es ESP,DF,16,16,0.0,1.0,2005-2006,515e2eee,Getafe,"1,424",15.8,2.0,0.0,60.0,1.0,,Getafe
+,Pablo Redondo,es ESP,MF,27,14,4.0,2.0,2005-2006,da98fdb0,Getafe,"1,319",14.7,4.0,0.0,60.0,1.0,,Getafe
+,Juan Calatayud,es ESP,GK,13,13,0.0,0.0,2005-2006,f1714283,Getafe,"1,170",13.0,2.0,0.0,60.0,1.0,,Getafe
+,Alberto Aguilar,es ESP,"DF,MF",16,9,0.0,0.0,2005-2006,1627a,Getafe,968,10.8,1.0,0.0,60.0,1.0,,Getafe
+,David Cubillo,es ESP,MF,11,6,0.0,0.0,2005-2006,d8d2e883,Getafe,508,5.6,1.0,0.0,60.0,1.0,,Getafe
+,Nano,es ESP,"DF,FW",8,3,0.0,2.0,2005-2006,51fbb7e2,Getafe,267,3.0,3.0,0.0,60.0,1.0,,Getafe
+,Sergio Pachón,es ESP,FW,22,2,1.0,2.0,2005-2006,85fca9,Getafe,438,4.9,2.0,0.0,60.0,1.0,,Getafe
+,Javier Paredes,es ESP,DF,7,2,0.0,0.0,2005-2006,488a9ade,Getafe,262,2.9,0.0,0.0,60.0,1.0,,Getafe
+,Gheorghe Craioveanu,ro ROU,FW,14,0,0.0,0.0,2005-2006,f4fdadf6,Getafe,249,2.8,0.0,0.0,60.0,51.0,4006.0,Getafe
+,Jajá,br BRA,FW,2,0,,0.0,2005-2006,9d07a22e,Getafe,29,0.3,0.0,0.0,60.0,2.0,4020.0,Getafe
+,﻿Pato Abbondanzieri,ar ARG,GK,36,36,0.0,0.0,2006-2007,4c5dbd,Getafe,"3,215",35.7,3.0,0.0,60.0,5.0,4021.0,Getafe
+,Fabio Celestini,ch SUI,MF,34,34,0.0,1.0,2006-2007,c36ce86e,Getafe,"3,060",34.0,11.0,0.0,60.0,39.0,4019.0,Getafe
+,David Belenguer,es ESP,DF,34,34,0.0,1.0,2006-2007,68c448f7,Getafe,"3,037",33.7,8.0,1.0,60.0,1.0,,Getafe
+,Javier Casquero,es ESP,MF,36,34,3.0,5.0,2006-2007,b6daa16,Getafe,"3,011",33.5,12.0,1.0,60.0,1.0,,Getafe
+,Javier Paredes,es ESP,DF,33,33,0.0,0.0,2006-2007,488a9ade,Getafe,"2,970",33.0,10.0,0.0,60.0,1.0,,Getafe
+,Mario Cotelo,es ESP,MF,31,28,6.0,1.0,2006-2007,bb049a1f,Getafe,"2,424",26.9,5.0,0.0,60.0,1.0,4007.0,Getafe
+,Manu del Moral,es ESP,FW,30,26,2.0,8.0,2006-2007,1026f88d,Getafe,"2,240",24.9,1.0,0.0,60.0,1.0,,Getafe
+,Nacho,es ESP,"DF,MF",33,25,4.0,4.0,2006-2007,07537011,Getafe,"2,082",23.1,6.0,0.0,60.0,1.0,,Getafe
+,Alexis,es ESP,DF,24,24,0.0,2.0,2006-2007,db0cd1ae,Getafe,"2,114",23.5,4.0,1.0,60.0,1.0,,Getafe
+,Dani Güiza,es ESP,FW,29,22,5.0,11.0,2006-2007,d863ea53,Getafe,"1,912",21.2,4.0,0.0,60.0,1.0,,Getafe
+,Cosmin Contra,ro ROU,"DF,MF",21,21,2.0,0.0,2006-2007,9bdc0e80,Getafe,"1,732",19.2,10.0,1.0,60.0,51.0,,Getafe
+,David Cortés,es ESP,DF,20,17,0.0,0.0,2006-2007,99d15abd,Getafe,"1,580",17.6,5.0,0.0,60.0,1.0,,Getafe
+,Pablo Redondo,es ESP,MF,22,15,4.0,1.0,2006-2007,da98fdb0,Getafe,"1,262",14.0,2.0,0.0,60.0,1.0,,Getafe
+,Rubén Pulido,es ESP,DF,16,12,0.0,1.0,2006-2007,3a8be98c,Getafe,"1,074",11.9,2.0,1.0,60.0,1.0,,Getafe
+,Ángel Vivar Dorado,es ESP,MF,14,9,1.0,1.0,2006-2007,c6d027e,Getafe,752,8.4,1.0,0.0,60.0,1.0,,Getafe
+,Sergio Pachón,es ESP,FW,24,8,0.0,2.0,2006-2007,85fca9,Getafe,882,9.8,0.0,0.0,60.0,1.0,,Getafe
+,Manuel Tena,es ESP,DF,10,7,1.0,0.0,2006-2007,515e2eee,Getafe,745,8.3,2.0,0.0,60.0,1.0,,Getafe
+,Veljko Paunović,es ESP,"FW,MF",14,7,0.0,0.0,2006-2007,7d0ae66f,Getafe,654,7.3,2.0,0.0,60.0,1.0,,Getafe
+,David Sousa,es ESP,MF,15,6,0.0,0.0,2006-2007,292a8dbe,Getafe,657,7.3,1.0,0.0,60.0,1.0,,Getafe
+,Alberto Aguilar,es ESP,"DF,MF",14,5,0.0,0.0,2006-2007,1627a,Getafe,539,6.0,2.0,0.0,60.0,1.0,,Getafe
+,Māris Verpakovskis,lv LVA,"FW,MF",13,5,1.0,1.0,2006-2007,9f8f8a29,Getafe,490,5.4,0.0,0.0,60.0,66.0,,Getafe
+,Lucas Licht,ar ARG,"DF,MF",8,5,0.0,0.0,2006-2007,b2a1c1aa,Getafe,421,4.7,2.0,0.0,60.0,5.0,4022.0,Getafe
+,Juan Ángel Albín,uy URU,"FW,MF",13,3,0.0,0.0,2006-2007,6be43cc9,Getafe,410,4.6,1.0,0.0,60.0,8.0,,Getafe
+,Luis García,es ESP,GK,3,2,0.0,0.0,2006-2007,716e5a4,Getafe,205,2.3,0.0,0.0,60.0,1.0,,Getafe
+,﻿Pato Abbondanzieri,ar ARG,GK,34,34,0.0,0.0,2007-2008,4c5dbd,Getafe,"3,046",33.8,3.0,1.0,60.0,5.0,4021.0,Getafe
+,Lucas Licht,ar ARG,"DF,MF",33,33,0.0,1.0,2007-2008,b2a1c1aa,Getafe,"2,921",32.5,7.0,1.0,60.0,5.0,4022.0,Getafe
+,Cata Díaz,ar ARG,DF,30,30,0.0,0.0,2007-2008,c9112443,Getafe,"2,700",30.0,5.0,0.0,60.0,5.0,,Getafe
+,David Cortés,es ESP,DF,32,30,2.0,0.0,2007-2008,99d15abd,Getafe,"2,495",27.7,1.0,1.0,60.0,1.0,,Getafe
+,Rubén de la Red,es ESP,MF,31,29,4.0,2.0,2007-2008,75b08b25,Getafe,"2,593",28.8,9.0,0.0,60.0,1.0,49.0,Getafe
+,Javier Casquero,es ESP,MF,33,27,0.0,4.0,2007-2008,b6daa16,Getafe,"2,384",26.5,6.0,0.0,60.0,1.0,,Getafe
+,Manu del Moral,es ESP,FW,34,25,3.0,7.0,2007-2008,1026f88d,Getafe,"2,232",24.8,3.0,0.0,60.0,1.0,,Getafe
+,David Belenguer,es ESP,DF,24,23,0.0,0.0,2007-2008,68c448f7,Getafe,"2,012",22.4,4.0,0.0,60.0,1.0,,Getafe
+,Pablo Hernández,es ESP,"FW,MF",28,23,4.0,3.0,2007-2008,c0398aca,Getafe,"1,994",22.2,6.0,0.0,60.0,1.0,,Getafe
+,Esteban Granero,es ESP,MF,27,19,2.0,4.0,2007-2008,1b17ed86,Getafe,"1,746",19.4,7.0,1.0,60.0,1.0,82.0,Getafe
+,Fabio Celestini,ch SUI,MF,22,19,0.0,0.0,2007-2008,c36ce86e,Getafe,"1,621",18.0,7.0,0.0,60.0,39.0,4019.0,Getafe
+,Ikechukwu Uche,ng NGA,FW,22,18,2.0,4.0,2007-2008,ba7c6d25,Getafe,"1,601",17.8,0.0,0.0,60.0,52.0,,Getafe
+,Juan Ángel Albín,uy URU,"FW,MF",30,17,2.0,7.0,2007-2008,6be43cc9,Getafe,"1,659",18.4,4.0,0.0,60.0,8.0,,Getafe
+,David Sousa,es ESP,MF,13,12,0.0,3.0,2007-2008,292a8dbe,Getafe,848,9.4,4.0,1.0,60.0,1.0,,Getafe
+,Braulio Nóbrega,es ESP,FW,19,11,2.0,3.0,2007-2008,6e02869d,Getafe,"1,088",12.1,2.0,1.0,60.0,1.0,,Getafe
+,Mario,es ESP,DF,15,11,0.0,0.0,2007-2008,6ede7f4,Getafe,"1,023",11.4,2.0,0.0,60.0,1.0,,Getafe
+,Manuel Tena,es ESP,DF,12,10,0.0,0.0,2007-2008,515e2eee,Getafe,950,10.6,4.0,0.0,60.0,1.0,,Getafe
+,Mario Cotelo,es ESP,MF,13,9,0.0,1.0,2007-2008,bb049a1f,Getafe,846,9.4,2.0,1.0,60.0,1.0,4007.0,Getafe
+,Jaime Gavilán,es ESP,MF,16,9,1.0,0.0,2007-2008,95de0931,Getafe,749,8.3,2.0,0.0,60.0,1.0,,Getafe
+,Cosmin Contra,ro ROU,"DF,MF",13,7,0.0,1.0,2007-2008,9bdc0e80,Getafe,675,7.5,3.0,1.0,60.0,51.0,,Getafe
+,Miguel Pallardó,es ESP,MF,14,6,0.0,0.0,2007-2008,6c3dfe68,Getafe,675,7.5,3.0,0.0,60.0,1.0,,Getafe
+,Kepa Blanco,es ESP,FW,15,5,1.0,2.0,2007-2008,021d831,Getafe,461,5.1,2.0,1.0,60.0,1.0,,Getafe
+,Óscar Ustari,ar ARG,GK,4,4,0.0,0.0,2007-2008,40e417fa,Getafe,360,4.0,0.0,0.0,60.0,5.0,4023.0,Getafe
+,Nacho,es ESP,"DF,MF",7,4,0.0,0.0,2007-2008,07537011,Getafe,288,3.2,1.0,0.0,60.0,1.0,,Getafe
+,Franck Signorino,fr FRA,DF,5,3,0.0,0.0,2007-2008,88f4ddd2,Getafe,350,3.9,1.0,0.0,60.0,4.0,4024.0,Getafe
+,Alberto Aguilar,es ESP,"DF,MF",2,0,,0.0,2007-2008,1627a,Getafe,31,0.3,0.0,0.0,60.0,1.0,,Getafe
+,Alberto Ruiz,es ESP,FW,2,0,0.0,0.0,2007-2008,68d1663d,Getafe,31,0.3,0.0,0.0,60.0,1.0,4005.0,Getafe
+,Juanfran,es ESP,"DF,FW",1,0,0.0,0.0,2007-2008,9ba48d64,Getafe,5,0.1,0.0,0.0,60.0,1.0,86.0,Getafe
+,﻿Cata Díaz,ar ARG,DF,34,34,0.0,1.0,2008-2009,c9112443,Getafe,"3,060",34.0,13.0,0.0,60.0,5.0,,Getafe
+,Javier Casquero,es ESP,MF,34,33,2.0,5.0,2008-2009,b6daa16,Getafe,"2,830",31.4,8.0,0.0,60.0,1.0,,Getafe
+,Esteban Granero,es ESP,MF,35,31,3.0,5.0,2008-2009,1b17ed86,Getafe,"2,628",29.2,10.0,0.0,60.0,1.0,82.0,Getafe
+,David Cortés,es ESP,DF,34,30,0.0,0.0,2008-2009,99d15abd,Getafe,"2,631",29.2,9.0,0.0,60.0,1.0,,Getafe
+,Mario,es ESP,DF,28,28,0.0,0.0,2008-2009,6ede7f4,Getafe,"2,296",25.5,9.0,1.0,60.0,1.0,,Getafe
+,Lucas Licht,ar ARG,"DF,MF",29,28,1.0,0.0,2008-2009,b2a1c1aa,Getafe,"2,272",25.2,7.0,0.0,60.0,5.0,4022.0,Getafe
+,Jaime Gavilán,es ESP,MF,32,27,1.0,3.0,2008-2009,95de0931,Getafe,"2,361",26.2,8.0,0.0,60.0,1.0,,Getafe
+,Roberto Soldado,es ESP,FW,34,24,2.0,13.0,2008-2009,9d66fbe3,Getafe,"2,184",24.3,9.0,2.0,60.0,1.0,46.0,Getafe
+,Juan Ángel Albín,uy URU,"FW,MF",32,24,5.0,7.0,2008-2009,6be43cc9,Getafe,"2,087",23.2,5.0,0.0,60.0,8.0,,Getafe
+,Eugen Polanski,pl POL,MF,26,23,1.0,0.0,2008-2009,fb2a63bb,Getafe,"1,967",21.9,8.0,0.0,60.0,14.0,,Getafe
+,Manu del Moral,es ESP,FW,29,22,2.0,5.0,2008-2009,1026f88d,Getafe,"1,951",21.7,4.0,0.0,60.0,1.0,,Getafe
+,Ikechukwu Uche,ng NGA,FW,33,18,3.0,7.0,2008-2009,ba7c6d25,Getafe,"1,813",20.1,2.0,0.0,60.0,52.0,,Getafe
+,Jacobo,es ESP,GK,17,16,0.0,0.0,2008-2009,bb575fe7,Getafe,"1,494",16.6,1.0,1.0,60.0,1.0,,Getafe
+,Fabio Celestini,ch SUI,MF,22,14,0.0,0.0,2008-2009,c36ce86e,Getafe,"1,340",14.9,4.0,0.0,60.0,39.0,4019.0,Getafe
+,Cosmin Contra,ro ROU,"DF,MF",27,13,2.0,2.0,2008-2009,9bdc0e80,Getafe,"1,450",16.1,10.0,0.0,60.0,51.0,,Getafe
+,Pato Abbondanzieri,ar ARG,GK,13,13,0.0,0.0,2008-2009,4c5dbd,Getafe,"1,083",12.0,1.0,1.0,60.0,5.0,4021.0,Getafe
+,Rafa,es ESP,"DF,MF",14,10,0.0,0.0,2008-2009,0b89dbcc,Getafe,906,10.1,5.0,1.0,60.0,1.0,,Getafe
+,David Belenguer,es ESP,DF,14,9,0.0,0.0,2008-2009,68c448f7,Getafe,964,10.7,5.0,0.0,60.0,1.0,,Getafe
+,Joffre Guerrón,ec ECU,"FW,MF",14,5,0.0,1.0,2008-2009,bfcb65f3,Getafe,548,6.1,0.0,0.0,60.0,61.0,4025.0,Getafe
+,İbrahim Kaş,tr TUR,DF,8,5,0.0,0.0,2008-2009,38e8791c,Getafe,470,5.2,4.0,0.0,60.0,15.0,4026.0,Getafe
+,Vladimir Stojković,rs SRB,GK,5,5,0.0,0.0,2008-2009,c089980e,Getafe,450,5.0,1.0,0.0,60.0,28.0,4027.0,Getafe
+,Óscar Ustari,ar ARG,GK,5,4,0.0,0.0,2008-2009,40e417fa,Getafe,392,4.4,0.0,0.0,60.0,5.0,4023.0,Getafe
+,Adrián González,es ESP,MF,5,2,0.0,0.0,2008-2009,57ebd662,Getafe,146,1.6,0.0,1.0,60.0,1.0,,Getafe
+,Kepa Blanco,es ESP,FW,4,0,0.0,0.0,2008-2009,021d831,Getafe,52,0.6,0.0,0.0,60.0,1.0,,Getafe
+,Mario Cotelo,es ESP,MF,2,0,0.0,0.0,2008-2009,bb049a1f,Getafe,7,0.1,0.0,0.0,60.0,1.0,4007.0,Getafe
+,﻿Mané,es ESP,"DF,MF",35,35,0.0,2.0,2009-2010,6b015a27,Getafe,"3,059",34.0,10.0,0.0,60.0,1.0,4028.0,Getafe
+,Pedro León,es ESP,"FW,MF",35,33,8.0,8.0,2009-2010,d66b9872,Getafe,"2,739",30.4,8.0,1.0,60.0,1.0,96.0,Getafe
+,Cata Díaz,ar ARG,DF,30,30,0.0,0.0,2009-2010,c9112443,Getafe,"2,700",30.0,6.0,0.0,60.0,5.0,,Getafe
+,Rafa,es ESP,"DF,MF",27,27,0.0,2.0,2009-2010,0b89dbcc,Getafe,"2,430",27.0,11.0,0.0,60.0,1.0,,Getafe
+,Derek Boateng,gh GHA,MF,29,26,0.0,0.0,2009-2010,9ef3a0d,Getafe,"2,189",24.3,9.0,1.0,60.0,17.0,4029.0,Getafe
+,Roberto Soldado,es ESP,FW,26,25,2.0,16.0,2009-2010,9d66fbe3,Getafe,"2,250",25.0,11.0,0.0,60.0,1.0,46.0,Getafe
+,Javier Casquero,es ESP,MF,32,23,1.0,5.0,2009-2010,b6daa16,Getafe,"2,182",24.2,8.0,0.0,60.0,1.0,,Getafe
+,Miguel Torres,es ESP,DF,27,22,1.0,0.0,2009-2010,44b61913,Getafe,"2,097",23.3,4.0,1.0,60.0,1.0,55.0,Getafe
+,Jordi Codina,es ESP,GK,22,22,0.0,0.0,2009-2010,812088cd,Getafe,"1,980",22.0,0.0,0.0,60.0,1.0,68.0,Getafe
+,Fabio Celestini,ch SUI,MF,24,22,0.0,0.0,2009-2010,c36ce86e,Getafe,"1,939",21.5,7.0,0.0,60.0,39.0,4019.0,Getafe
+,Manu del Moral,es ESP,FW,36,21,4.0,8.0,2009-2010,1026f88d,Getafe,"1,960",21.8,3.0,0.0,60.0,1.0,,Getafe
+,Adrián González,es ESP,MF,25,19,4.0,1.0,2009-2010,57ebd662,Getafe,"1,640",18.2,2.0,0.0,60.0,1.0,,Getafe
+,David Cortés,es ESP,DF,20,19,0.0,0.0,2009-2010,99d15abd,Getafe,"1,562",17.4,4.0,1.0,60.0,1.0,,Getafe
+,Óscar Ustari,ar ARG,GK,16,16,0.0,0.0,2009-2010,40e417fa,Getafe,"1,440",16.0,1.0,0.0,60.0,5.0,4023.0,Getafe
+,Daniel Parejo,es ESP,MF,28,16,4.0,6.0,2009-2010,7460ca0d,Getafe,"1,331",14.8,4.0,0.0,60.0,1.0,75.0,Getafe
+,Jaime Gavilán,es ESP,MF,27,16,3.0,0.0,2009-2010,95de0931,Getafe,"1,305",14.5,1.0,0.0,60.0,1.0,,Getafe
+,Juan Ángel Albín,uy URU,"FW,MF",23,12,0.0,3.0,2009-2010,6be43cc9,Getafe,"1,221",13.6,3.0,0.0,60.0,8.0,,Getafe
+,Mario,es ESP,DF,13,12,0.0,0.0,2009-2010,6ede7f4,Getafe,"1,059",11.8,5.0,0.0,60.0,1.0,,Getafe
+,Miku,ve VEN,FW,16,11,2.0,5.0,2009-2010,4eba9598,Getafe,"1,057",11.7,1.0,0.0,60.0,53.0,,Getafe
+,David Belenguer,es ESP,DF,13,7,0.0,0.0,2009-2010,68c448f7,Getafe,680,7.6,3.0,0.0,60.0,1.0,,Getafe
+,Pedro Ríos,es ESP,MF,18,4,0.0,1.0,2009-2010,96ef8f9f,Getafe,606,6.7,3.0,0.0,60.0,1.0,4030.0,Getafe
+,Kepa Blanco,es ESP,FW,5,0,0.0,0.0,2009-2010,021d831,Getafe,49,0.5,0.0,0.0,60.0,1.0,,Getafe
+,Cosmin Contra,ro ROU,"DF,MF",3,0,0.0,0.0,2009-2010,9bdc0e80,Getafe,36,0.4,1.0,0.0,60.0,51.0,,Getafe
+,Alberto Escassi,es ESP,"DF,MF",1,0,,0.0,2009-2010,154fe273,Getafe,9,0.1,0.0,0.0,60.0,1.0,,Getafe
+,﻿Cata Díaz,ar ARG,DF,35,35,0.0,1.0,2010-2011,c9112443,Getafe,"3,101",34.5,14.0,1.0,60.0,5.0,,Getafe
+,Miguel Torres,es ESP,DF,32,32,0.0,0.0,2010-2011,44b61913,Getafe,"2,628",29.2,6.0,0.0,60.0,1.0,55.0,Getafe
+,Derek Boateng,gh GHA,MF,32,30,0.0,2.0,2010-2011,9ef3a0d,Getafe,"2,626",29.2,13.0,1.0,60.0,17.0,4029.0,Getafe
+,Mané,es ESP,"DF,MF",31,30,1.0,0.0,2010-2011,6b015a27,Getafe,"2,611",29.0,7.0,0.0,60.0,1.0,4028.0,Getafe
+,Daniel Parejo,es ESP,MF,36,28,5.0,3.0,2010-2011,7460ca0d,Getafe,"2,457",27.3,8.0,0.0,60.0,1.0,75.0,Getafe
+,Manu del Moral,es ESP,FW,30,28,5.0,9.0,2010-2011,1026f88d,Getafe,"2,411",26.8,3.0,1.0,60.0,1.0,,Getafe
+,Pedro Ríos,es ESP,MF,31,27,3.0,7.0,2010-2011,96ef8f9f,Getafe,"2,218",24.6,5.0,0.0,60.0,1.0,4030.0,Getafe
+,Iván Marcano,es ESP,DF,29,26,0.0,1.0,2010-2011,7a20d90a,Getafe,"2,458",27.3,10.0,1.0,60.0,1.0,,Getafe
+,Miku,ve VEN,FW,31,24,2.0,7.0,2010-2011,4eba9598,Getafe,"2,188",24.3,6.0,0.0,60.0,53.0,,Getafe
+,Jordi Codina,es ESP,GK,23,22,0.0,0.0,2010-2011,812088cd,Getafe,"2,056",22.8,1.0,0.0,60.0,1.0,68.0,Getafe
+,Adrián Colunga,es ESP,"FW,MF",29,22,2.0,8.0,2010-2011,2212dd4e,Getafe,"1,848",20.5,1.0,0.0,60.0,1.0,,Getafe
+,Víctor Sánchez,es ESP,"DF,MF",29,21,3.0,1.0,2010-2011,d4d0985,Getafe,"1,909",21.2,10.0,0.0,60.0,1.0,,Getafe
+,Rafa,es ESP,"DF,MF",19,17,0.0,0.0,2010-2011,0b89dbcc,Getafe,"1,542",17.1,8.0,1.0,60.0,1.0,,Getafe
+,Óscar Ustari,ar ARG,GK,16,16,0.0,0.0,2010-2011,40e417fa,Getafe,"1,364",15.2,2.0,0.0,60.0,5.0,4023.0,Getafe
+,Javier Casquero,es ESP,MF,27,15,2.0,1.0,2010-2011,b6daa16,Getafe,"1,312",14.6,5.0,0.0,60.0,1.0,,Getafe
+,Jaime Gavilán,es ESP,MF,18,15,4.0,2.0,2010-2011,95de0931,Getafe,"1,248",13.9,1.0,0.0,60.0,1.0,,Getafe
+,Javier Arizmendi,es ESP,"FW,MF",19,7,1.0,2.0,2010-2011,14a6c075,Getafe,773,8.6,3.0,0.0,60.0,1.0,,Getafe
+,Juan Ángel Albín,uy URU,"FW,MF",18,4,1.0,2.0,2010-2011,6be43cc9,Getafe,713,7.9,1.0,1.0,60.0,8.0,,Getafe
+,Adrián Sardinero,es ESP,"FW,MF",11,4,0.0,1.0,2010-2011,51e9bb3f,Getafe,469,5.2,0.0,0.0,60.0,1.0,4031.0,Getafe
+,Borja Fernández,es ESP,MF,13,4,0.0,0.0,2010-2011,9127f9ce,Getafe,467,5.2,3.0,0.0,60.0,1.0,26.0,Getafe
+,Pedro Mosquera,es ESP,MF,14,4,1.0,0.0,2010-2011,c5fa58ea,Getafe,448,5.0,3.0,1.0,60.0,1.0,88.0,Getafe
+,Pablo Pintos,uy URU,DF,6,4,0.0,0.0,2010-2011,0fe4654e,Getafe,428,4.8,2.0,0.0,60.0,8.0,4032.0,Getafe
+,Mario,es ESP,DF,3,3,0.0,0.0,2010-2011,6ede7f4,Getafe,225,2.5,1.0,0.0,60.0,1.0,,Getafe
+,﻿Miguel Ángel Moyá,es ESP,GK,36,36,0.0,0.0,2011-2012,011d8c56,Getafe,"3,240",36.0,2.0,0.0,60.0,1.0,,Getafe
+,Cata Díaz,ar ARG,DF,36,36,0.0,0.0,2011-2012,c9112443,Getafe,"3,240",36.0,10.0,0.0,60.0,5.0,,Getafe
+,Miku,ve VEN,FW,38,33,2.0,12.0,2011-2012,4eba9598,Getafe,"2,908",32.3,4.0,1.0,60.0,53.0,,Getafe
+,Juan Valera Espín,es ESP,"DF,MF",30,30,2.0,1.0,2011-2012,947fa33c,Getafe,"2,675",29.7,11.0,0.0,60.0,1.0,,Getafe
+,Mehdi Lacen,dz ALG,MF,33,26,1.0,1.0,2011-2012,3a306f6,Getafe,"2,425",26.9,6.0,1.0,60.0,37.0,,Getafe
+,Diego Castro,es ESP,"FW,MF",31,25,1.0,7.0,2011-2012,3ddc0a25,Getafe,"2,218",24.6,6.0,0.0,60.0,1.0,,Getafe
+,Abdelaziz Barrada,ma MAR,MF,32,25,2.0,4.0,2011-2012,89dac314,Getafe,"2,158",24.0,5.0,1.0,60.0,26.0,4033.0,Getafe
+,Mané,es ESP,"DF,MF",22,21,0.0,0.0,2011-2012,6b015a27,Getafe,"1,734",19.3,5.0,0.0,60.0,1.0,4028.0,Getafe
+,Javier Casquero,es ESP,MF,28,19,0.0,1.0,2011-2012,b6daa16,Getafe,"1,690",18.8,8.0,0.0,60.0,1.0,,Getafe
+,Míchel,es ESP,MF,22,19,1.0,1.0,2011-2012,4d425e6e,Getafe,"1,603",17.8,11.0,1.0,60.0,1.0,4034.0,Getafe
+,Miguel Torres,es ESP,DF,23,18,0.0,1.0,2011-2012,44b61913,Getafe,"1,629",18.1,9.0,1.0,60.0,1.0,55.0,Getafe
+,Pedro Ríos,es ESP,MF,22,17,3.0,2.0,2011-2012,96ef8f9f,Getafe,"1,347",15.0,4.0,0.0,60.0,1.0,4030.0,Getafe
+,Dani Güiza,es ESP,FW,32,15,2.0,4.0,2011-2012,d863ea53,Getafe,"1,518",16.9,8.0,0.0,60.0,1.0,,Getafe
+,Alberto Lopo,es ESP,DF,16,14,0.0,0.0,2011-2012,17cd5bb7,Getafe,"1,274",14.2,6.0,2.0,60.0,1.0,,Getafe
+,Jaime Gavilán,es ESP,MF,17,13,3.0,1.0,2011-2012,95de0931,Getafe,"1,018",11.3,1.0,0.0,60.0,1.0,,Getafe
+,Tsepo Masilela,za RSA,DF,13,11,0.0,0.0,2011-2012,1812ff9,Getafe,"1,004",11.2,5.0,0.0,60.0,60.0,4035.0,Getafe
+,Alexis,es ESP,DF,12,11,0.0,1.0,2011-2012,db0cd1ae,Getafe,992,11.0,3.0,0.0,60.0,1.0,,Getafe
+,Pablo Sarabia,es ESP,"FW,MF",19,10,1.0,0.0,2011-2012,9744ff80,Getafe,918,10.2,4.0,1.0,60.0,1.0,,Getafe
+,Juan Rodríguez,es ESP,MF,17,10,0.0,0.0,2011-2012,25c3c939,Getafe,908,10.1,3.0,0.0,60.0,1.0,,Getafe
+,Rafa,es ESP,"DF,MF",13,9,0.0,0.0,2011-2012,0b89dbcc,Getafe,797,8.9,5.0,0.0,60.0,1.0,,Getafe
+,Rubén Pérez,es ESP,MF,9,8,0.0,0.0,2011-2012,3c7bc9bd,Getafe,712,7.9,5.0,0.0,60.0,1.0,,Getafe
+,Pedro León,es ESP,"FW,MF",13,6,2.0,2.0,2011-2012,d66b9872,Getafe,615,6.8,4.0,0.0,60.0,1.0,96.0,Getafe
+,Álvaro Arroyo,es ESP,DF,4,3,0.0,0.0,2011-2012,b2fa39c5,Getafe,254,2.8,0.0,0.0,60.0,1.0,,Getafe
+,Jordi Codina,es ESP,GK,2,2,0.0,0.0,2011-2012,812088cd,Getafe,180,2.0,0.0,0.0,60.0,1.0,68.0,Getafe
+,Álex Pérez,es ESP,DF,2,1,0.0,0.0,2011-2012,8dac6f70,Getafe,123,1.4,0.0,0.0,60.0,1.0,,Getafe
+,Adrián Colunga,es ESP,"FW,MF",4,0,0.0,0.0,2011-2012,2212dd4e,Getafe,115,1.3,0.0,0.0,60.0,1.0,,Getafe
+,Javier Arizmendi,es ESP,"FW,MF",3,0,0.0,0.0,2011-2012,14a6c075,Getafe,57,0.6,1.0,0.0,60.0,1.0,,Getafe
+,Samuel Sáiz,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,13e0eb29,Getafe,15,0.2,0.0,0.0,60.0,1.0,4036.0,Getafe
+,Hugo Fraile,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,168ec9a3,Getafe,14,0.2,0.0,0.0,60.0,1.0,4037.0,Getafe
+,﻿Xavi Torres,es ESP,MF,35,32,2.0,0.0,2012-2013,1b51ad2f,Getafe,"2,818",31.3,7.0,0.0,60.0,1.0,,Getafe
+,Miguel Ángel Moyá,es ESP,GK,32,32,0.0,0.0,2012-2013,011d8c56,Getafe,"2,801",31.1,1.0,1.0,60.0,1.0,,Getafe
+,Diego Castro,es ESP,"FW,MF",34,30,3.0,7.0,2012-2013,3ddc0a25,Getafe,"2,633",29.3,11.0,1.0,60.0,1.0,,Getafe
+,Juan Valera Espín,es ESP,"DF,MF",30,30,0.0,2.0,2012-2013,947fa33c,Getafe,"2,587",28.7,8.0,0.0,60.0,1.0,,Getafe
+,Abdelaziz Barrada,ma MAR,MF,32,30,6.0,4.0,2012-2013,89dac314,Getafe,"2,566",28.5,4.0,1.0,60.0,26.0,4033.0,Getafe
+,Pedro León,es ESP,"FW,MF",29,26,7.0,3.0,2012-2013,d66b9872,Getafe,"2,267",25.2,5.0,1.0,60.0,1.0,96.0,Getafe
+,Alexis,es ESP,DF,26,25,0.0,3.0,2012-2013,db0cd1ae,Getafe,"2,246",25.0,11.0,2.0,60.0,1.0,,Getafe
+,Miguel Torres,es ESP,DF,21,20,0.0,0.0,2012-2013,44b61913,Getafe,"1,739",19.3,6.0,0.0,60.0,1.0,55.0,Getafe
+,Ángel Lafita,es ESP,"FW,MF",26,17,0.0,2.0,2012-2013,0b68c35a,Getafe,"1,700",18.9,5.0,0.0,60.0,1.0,,Getafe
+,Alberto Lopo,es ESP,DF,21,17,1.0,1.0,2012-2013,17cd5bb7,Getafe,"1,679",18.7,9.0,0.0,60.0,1.0,,Getafe
+,Rafa,es ESP,"DF,MF",19,16,0.0,1.0,2012-2013,0b89dbcc,Getafe,"1,572",17.5,6.0,0.0,60.0,1.0,,Getafe
+,Adrián Colunga,es ESP,"FW,MF",22,15,6.0,6.0,2012-2013,2212dd4e,Getafe,"1,266",14.1,4.0,0.0,60.0,1.0,,Getafe
+,Álvaro Vázquez,es ESP,FW,29,14,0.0,4.0,2012-2013,d2d8675a,Getafe,"1,316",14.6,2.0,0.0,60.0,1.0,,Getafe
+,Borja Fernández,es ESP,MF,16,14,1.0,1.0,2012-2013,9127f9ce,Getafe,"1,086",12.1,9.0,1.0,60.0,1.0,26.0,Getafe
+,Federico Fernández,ar ARG,DF,14,13,1.0,1.0,2012-2013,f25b010f,Getafe,"1,175",13.1,5.0,1.0,60.0,5.0,4038.0,Getafe
+,Míchel,es ESP,MF,17,13,0.0,0.0,2012-2013,4d425e6e,Getafe,"1,063",11.8,9.0,1.0,60.0,1.0,4034.0,Getafe
+,Mané,es ESP,"DF,MF",13,12,1.0,1.0,2012-2013,6b015a27,Getafe,"1,010",11.2,1.0,0.0,60.0,1.0,4028.0,Getafe
+,Mehdi Lacen,dz ALG,MF,20,10,0.0,0.0,2012-2013,3a306f6,Getafe,931,10.3,2.0,0.0,60.0,37.0,,Getafe
+,Jaime Gavilán,es ESP,MF,22,10,2.0,0.0,2012-2013,95de0931,Getafe,896,10.0,4.0,0.0,60.0,1.0,,Getafe
+,Sergio Escudero,es ESP,"DF,MF",9,9,0.0,1.0,2012-2013,b0616e3d,Getafe,784,8.7,0.0,0.0,60.0,1.0,,Getafe
+,David Abraham,ar ARG,DF,9,9,0.0,0.0,2012-2013,565bf0da,Getafe,768,8.5,1.0,0.0,60.0,5.0,,Getafe
+,Juan Rodríguez,es ESP,MF,9,7,1.0,2.0,2012-2013,25c3c939,Getafe,533,5.9,1.0,0.0,60.0,1.0,,Getafe
+,Paco Alcácer,es ESP,FW,20,6,0.0,3.0,2012-2013,7a9d95a,Getafe,694,7.7,0.0,0.0,60.0,1.0,,Getafe
+,Jordi Codina,es ESP,GK,7,6,0.0,0.0,2012-2013,812088cd,Getafe,619,6.9,1.0,0.0,60.0,1.0,68.0,Getafe
+,Pablo Sarabia,es ESP,"FW,MF",13,3,0.0,1.0,2012-2013,9744ff80,Getafe,432,4.8,2.0,0.0,60.0,1.0,,Getafe
+,Miku,ve VEN,FW,2,2,0.0,0.0,2012-2013,4eba9598,Getafe,158,1.8,0.0,0.0,60.0,53.0,,Getafe
+,Hugo Fraile,es ESP,"FW,MF",3,0,0.0,0.0,2012-2013,168ec9a3,Getafe,75,0.8,0.0,0.0,60.0,1.0,4037.0,Getafe
+,﻿Pedro León,es ESP,"FW,MF",37,33,5.0,7.0,2013-2014,d66b9872,Getafe,"2,905",32.3,6.0,0.0,60.0,1.0,96.0,Getafe
+,Alexis,es ESP,DF,29,27,0.0,0.0,2013-2014,db0cd1ae,Getafe,"2,491",27.7,15.0,1.0,60.0,1.0,,Getafe
+,Diego Castro,es ESP,"FW,MF",32,27,6.0,1.0,2013-2014,3ddc0a25,Getafe,"2,270",25.2,3.0,0.0,60.0,1.0,,Getafe
+,Rafa,es ESP,"DF,MF",29,26,1.0,0.0,2013-2014,0b89dbcc,Getafe,"2,334",25.9,9.0,0.0,60.0,1.0,,Getafe
+,Miguel Ángel Moyá,es ESP,GK,26,26,0.0,0.0,2013-2014,011d8c56,Getafe,"2,307",25.6,1.0,0.0,60.0,1.0,,Getafe
+,Lisandro López,ar ARG,DF,26,26,0.0,3.0,2013-2014,8320fe65,Getafe,"2,242",24.9,7.0,1.0,60.0,5.0,4039.0,Getafe
+,Borja Fernández,es ESP,MF,28,24,1.0,0.0,2013-2014,9127f9ce,Getafe,"1,956",21.7,9.0,1.0,60.0,1.0,26.0,Getafe
+,Ángel Lafita,es ESP,"FW,MF",29,22,1.0,7.0,2013-2014,0b68c35a,Getafe,"1,914",21.3,6.0,1.0,60.0,1.0,,Getafe
+,Pablo Sarabia,es ESP,"FW,MF",33,21,5.0,1.0,2013-2014,9744ff80,Getafe,"1,941",21.6,6.0,0.0,60.0,1.0,,Getafe
+,Juan Valera Espín,es ESP,"DF,MF",22,21,0.0,0.0,2013-2014,947fa33c,Getafe,"1,821",20.2,7.0,1.0,60.0,1.0,,Getafe
+,Ciprian Marica,ro ROU,FW,27,20,1.0,6.0,2013-2014,3953ae4a,Getafe,"1,792",19.9,6.0,1.0,60.0,51.0,4040.0,Getafe
+,Sergio Escudero,es ESP,"DF,MF",19,18,2.0,2.0,2013-2014,b0616e3d,Getafe,"1,480",16.4,11.0,1.0,60.0,1.0,,Getafe
+,Pedro Mosquera,es ESP,MF,25,17,0.0,0.0,2013-2014,c5fa58ea,Getafe,"1,553",17.3,7.0,0.0,60.0,1.0,88.0,Getafe
+,Roberto Lago,es ESP,"DF,MF",19,16,0.0,0.0,2013-2014,98e0ad35,Getafe,"1,523",16.9,5.0,0.0,60.0,1.0,,Getafe
+,Adrián Colunga,es ESP,"FW,MF",27,16,1.0,4.0,2013-2014,2212dd4e,Getafe,"1,479",16.4,4.0,0.0,60.0,1.0,,Getafe
+,Álvaro Arroyo,es ESP,DF,17,16,0.0,1.0,2013-2014,b2fa39c5,Getafe,"1,442",16.0,5.0,0.0,60.0,1.0,,Getafe
+,Mehdi Lacen,dz ALG,MF,21,13,2.0,0.0,2013-2014,3a306f6,Getafe,"1,264",14.0,5.0,0.0,60.0,37.0,,Getafe
+,Juan Rodríguez,es ESP,MF,15,13,2.0,0.0,2013-2014,25c3c939,Getafe,"1,042",11.6,2.0,0.0,60.0,1.0,,Getafe
+,Míchel,es ESP,MF,15,11,0.0,0.0,2013-2014,4d425e6e,Getafe,929,10.3,5.0,1.0,60.0,1.0,4034.0,Getafe
+,Jordi Codina,es ESP,GK,9,7,0.0,0.0,2013-2014,812088cd,Getafe,665,7.4,0.0,0.0,60.0,1.0,68.0,Getafe
+,Jaime Gavilán,es ESP,MF,20,5,2.0,0.0,2013-2014,95de0931,Getafe,760,8.4,4.0,0.0,60.0,1.0,,Getafe
+,Júlio César,br BRA,GK,5,5,0.0,0.0,2013-2014,f4213f59,Getafe,448,5.0,0.0,0.0,60.0,2.0,,Getafe
+,Miku,ve VEN,FW,5,3,1.0,2.0,2013-2014,4eba9598,Getafe,293,3.3,0.0,0.0,60.0,53.0,,Getafe
+,Sammir,hr CRO,"FW,MF",8,3,0.0,0.0,2013-2014,4ba410e6,Getafe,274,3.0,0.0,0.0,60.0,16.0,4041.0,Getafe
+,Alberto Lopo,es ESP,DF,3,1,0.0,0.0,2013-2014,17cd5bb7,Getafe,135,1.5,0.0,0.0,60.0,1.0,,Getafe
+,Carlos Vigaray,es ESP,DF,1,1,0.0,0.0,2013-2014,f69d934e,Getafe,90,1.0,0.0,0.0,60.0,1.0,,Getafe
+,Álvaro Vázquez,es ESP,FW,1,0,0.0,0.0,2013-2014,d2d8675a,Getafe,29,0.3,0.0,0.0,60.0,1.0,,Getafe
+,Ivi,es ESP,"FW,MF",1,0,0.0,0.0,2013-2014,d2fa73e7,Getafe,22,0.2,0.0,0.0,60.0,1.0,,Getafe
+,﻿Juan Rodríguez,es ESP,MF,33,32,0.0,1.0,2014-2015,25c3c939,Getafe,"2,721",30.2,6.0,0.0,60.0,1.0,,Getafe
+,Pablo Sarabia,es ESP,"FW,MF",35,31,5.0,2.0,2014-2015,9744ff80,Getafe,"2,590",28.8,10.0,0.0,60.0,1.0,,Getafe
+,Vicente Guaita,es ESP,GK,29,29,0.0,0.0,2014-2015,b13a5aa,Getafe,"2,610",29.0,1.0,0.0,60.0,1.0,,Getafe
+,Mehdi Lacen,dz ALG,MF,30,29,1.0,2.0,2014-2015,3a306f6,Getafe,"2,598",28.9,7.0,0.0,60.0,37.0,,Getafe
+,Naldo,br BRA,DF,30,28,0.0,0.0,2014-2015,2609621,Getafe,"2,576",28.6,5.0,0.0,60.0,2.0,,Getafe
+,Alexis,es ESP,DF,29,28,1.0,1.0,2014-2015,db0cd1ae,Getafe,"2,507",27.9,13.0,1.0,60.0,1.0,,Getafe
+,Emiliano Velázquez,uy URU,DF,27,27,1.0,1.0,2014-2015,5efb80d5,Getafe,"2,345",26.1,5.0,1.0,60.0,8.0,,Getafe
+,Sergio Escudero,es ESP,"DF,MF",30,26,1.0,2.0,2014-2015,b0616e3d,Getafe,"2,207",24.5,8.0,1.0,60.0,1.0,,Getafe
+,Diego Castro,es ESP,"FW,MF",32,25,0.0,3.0,2014-2015,3ddc0a25,Getafe,"2,253",25.0,6.0,0.0,60.0,1.0,,Getafe
+,Fredy Hinestroza,co COL,MF,34,21,3.0,2.0,2014-2015,c330d8c,Getafe,"1,875",20.8,6.0,0.0,60.0,19.0,,Getafe
+,Álvaro Vázquez,es ESP,FW,21,19,0.0,7.0,2014-2015,d2d8675a,Getafe,"1,738",19.3,2.0,0.0,60.0,1.0,,Getafe
+,Pedro León,es ESP,"FW,MF",25,16,5.0,2.0,2014-2015,d66b9872,Getafe,"1,470",16.3,1.0,0.0,60.0,1.0,96.0,Getafe
+,Sammir,hr CRO,"FW,MF",23,16,4.0,1.0,2014-2015,4ba410e6,Getafe,"1,418",15.8,0.0,0.0,60.0,16.0,4041.0,Getafe
+,Ángel Lafita,es ESP,"FW,MF",15,12,1.0,2.0,2014-2015,0b68c35a,Getafe,"1,064",11.8,3.0,0.0,60.0,1.0,,Getafe
+,Karim Yoda,fr FRA,MF,18,12,1.0,4.0,2014-2015,7893629,Getafe,"1,033",11.5,0.0,0.0,60.0,4.0,,Getafe
+,Juan Valera Espín,es ESP,"DF,MF",12,12,0.0,0.0,2014-2015,947fa33c,Getafe,982,10.9,4.0,0.0,60.0,1.0,,Getafe
+,Roberto Lago,es ESP,"DF,MF",16,11,1.0,0.0,2014-2015,98e0ad35,Getafe,"1,029",11.4,3.0,1.0,60.0,1.0,,Getafe
+,Carlos Vigaray,es ESP,DF,13,10,0.0,0.0,2014-2015,f69d934e,Getafe,966,10.7,4.0,0.0,60.0,1.0,,Getafe
+,Álvaro Arroyo,es ESP,DF,12,10,0.0,0.0,2014-2015,b2fa39c5,Getafe,891,9.9,3.0,0.0,60.0,1.0,,Getafe
+,Míchel,es ESP,MF,12,8,0.0,1.0,2014-2015,418f8f61,Getafe,780,8.7,4.0,0.0,60.0,1.0,,Getafe
+,Baba Diawara,sn SEN,FW,21,5,1.0,1.0,2014-2015,09b7100a,Getafe,585,6.5,2.0,0.0,60.0,34.0,,Getafe
+,Jordi Codina,es ESP,GK,5,5,0.0,0.0,2014-2015,812088cd,Getafe,450,5.0,0.0,0.0,60.0,1.0,68.0,Getafe
+,Jonathan López,es ESP,GK,4,4,0.0,0.0,2014-2015,5f872f11,Getafe,360,4.0,0.0,0.0,60.0,1.0,,Getafe
+,Emi Buendía,ar ARG,"FW,MF",6,1,0.0,0.0,2014-2015,66b76d44,Getafe,135,1.5,1.0,0.0,60.0,5.0,4042.0,Getafe
+,Rafa,es ESP,"DF,MF",1,1,0.0,0.0,2014-2015,0b89dbcc,Getafe,90,1.0,0.0,0.0,60.0,1.0,,Getafe
+,Ivi,es ESP,"FW,MF",8,0,0.0,0.0,2014-2015,d2fa73e7,Getafe,140,1.6,0.0,0.0,60.0,1.0,,Getafe
+,Alex Felip,es ESP,MF,10,0,0.0,0.0,2014-2015,90c022f3,Getafe,95,1.1,0.0,0.0,60.0,1.0,4043.0,Getafe
+,Pedro Astray,es ESP,MF,0,0,,,2014-2015,d45ae5b,Getafe,,,,,60.0,1.0,4044.0,Getafe
+,Pere Milla,es ESP,"FW,MF",0,0,,,2014-2015,335039a2,Getafe,,,,,60.0,1.0,4045.0,Getafe
+,Edu Payá,es ESP,DF,0,0,,,2014-2015,c97ddaae,Getafe,,,,,60.0,1.0,4046.0,Getafe
+,Villalón,es ESP,DF,0,0,,,2014-2015,8d70ac98,Getafe,,,,,60.0,1.0,4047.0,Getafe
+,﻿Vicente Guaita,es ESP,GK,38,38,0.0,0.0,2015-2016,b13a5aa,Getafe,"3,420",38.0,2.0,0.0,60.0,1.0,,Getafe
+,Mehdi Lacen,dz ALG,MF,31,31,0.0,0.0,2015-2016,3a306f6,Getafe,"2,660",29.6,7.0,0.0,60.0,37.0,,Getafe
+,Damián Suárez,uy URU,DF,31,30,3.0,0.0,2015-2016,ba5004e1,Getafe,"2,633",29.3,7.0,1.0,60.0,8.0,4048.0,Getafe
+,Pablo Sarabia,es ESP,MF,31,30,5.0,7.0,2015-2016,9744ff80,Getafe,"2,526",28.1,7.0,0.0,60.0,1.0,,Getafe
+,Juan Rodríguez,es ESP,MF,32,30,1.0,0.0,2015-2016,25c3c939,Getafe,"2,512",27.9,11.0,0.0,60.0,1.0,,Getafe
+,Víctor Rodríguez,es ESP,MF,33,26,2.0,2.0,2015-2016,15781606,Getafe,"2,303",25.6,1.0,0.0,60.0,1.0,,Getafe
+,Santiago Vergini,ar ARG,DF,26,24,0.0,0.0,2015-2016,6d041dd0,Getafe,"2,203",24.5,9.0,1.0,60.0,5.0,4049.0,Getafe
+,Álvaro Vázquez,es ESP,FW,34,24,4.0,5.0,2015-2016,d2d8675a,Getafe,"1,985",22.1,6.0,0.0,60.0,1.0,,Getafe
+,Pedro León,es ESP,MF,31,23,4.0,2.0,2015-2016,d66b9872,Getafe,"1,845",20.5,5.0,0.0,60.0,1.0,96.0,Getafe
+,Cala,es ESP,DF,22,21,1.0,1.0,2015-2016,fe05804b,Getafe,"1,910",21.2,12.0,1.0,60.0,1.0,,Getafe
+,Stefan Šćepović,rs SRB,FW,34,17,1.0,6.0,2015-2016,983f798c,Getafe,"1,818",20.2,4.0,0.0,60.0,28.0,,Getafe
+,Roberto Lago,es ESP,DF,17,17,2.0,0.0,2015-2016,98e0ad35,Getafe,"1,367",15.2,6.0,0.0,60.0,1.0,,Getafe
+,Álvaro Medrán,es ESP,MF,20,16,1.0,2.0,2015-2016,31223bcf,Getafe,"1,485",16.5,7.0,0.0,60.0,1.0,126.0,Getafe
+,Alexis,es ESP,DF,15,15,0.0,1.0,2015-2016,db0cd1ae,Getafe,"1,350",15.0,7.0,0.0,60.0,1.0,,Getafe
+,Carlos Vigaray,es ESP,DF,14,14,1.0,1.0,2015-2016,f69d934e,Getafe,"1,192",13.2,7.0,1.0,60.0,1.0,,Getafe
+,Ángel Lafita,es ESP,MF,14,12,2.0,3.0,2015-2016,0b68c35a,Getafe,"1,014",11.3,5.0,0.0,60.0,1.0,,Getafe
+,Emiliano Velázquez,uy URU,DF,11,11,0.0,3.0,2015-2016,5efb80d5,Getafe,973,10.8,7.0,0.0,60.0,8.0,,Getafe
+,Moi Gómez,es ESP,MF,22,9,3.0,2.0,2015-2016,5a626448,Getafe,918,10.2,3.0,0.0,60.0,1.0,,Getafe
+,Karim Yoda,fr FRA,"DF,FW",18,8,0.0,0.0,2015-2016,7893629,Getafe,981,10.9,3.0,0.0,60.0,4.0,,Getafe
+,Wanderson,br BRA,MF,20,6,0.0,0.0,2015-2016,5da33b33,Getafe,768,8.5,2.0,0.0,60.0,2.0,4050.0,Getafe
+,Emi Buendía,ar ARG,"MF,DF",17,6,1.0,1.0,2015-2016,66b76d44,Getafe,745,8.3,5.0,1.0,60.0,5.0,4042.0,Getafe
+,Álvaro Pereira,uy URU,DF,6,6,0.0,0.0,2015-2016,1b0aaf11,Getafe,409,4.5,4.0,1.0,60.0,8.0,4051.0,Getafe
+,Miguel Ángel,es ESP,DF,3,2,0.0,0.0,2015-2016,cb6766fa,Getafe,200,2.2,1.0,0.0,60.0,1.0,4052.0,Getafe
+,Henok Goitom,er ERI,FW,2,1,0.0,0.0,2015-2016,c3680236,Getafe,125,1.4,0.0,0.0,60.0,91.0,,Getafe
+,Javi Noblejas,es ESP,DF,1,1,0.0,0.0,2015-2016,34d08919,Getafe,90,1.0,1.0,0.0,60.0,1.0,4053.0,Getafe
+,Bernard Mensah,gh GHA,MF,8,0,0.0,0.0,2015-2016,91947112,Getafe,60,0.7,0.0,0.0,60.0,17.0,4054.0,Getafe
+,Ian Gonzalez Nieto,es ESP,FW,1,0,0.0,0.0,2015-2016,040e5ca4,Getafe,13,0.1,0.0,0.0,60.0,1.0,4055.0,Getafe
+,José Carrillo,es ESP,DF,0,0,,,2015-2016,452b665c,Getafe,,,,,60.0,1.0,4056.0,Getafe
+,Borja Galán,es ESP,MF,0,0,,,2015-2016,3d8d4593,Getafe,,,,,60.0,1.0,,Getafe
+,Balázs Megyeri,hu HUN,GK,0,0,,,2015-2016,42df8f,Getafe,,,,,60.0,87.0,4057.0,Getafe
+,﻿Damián Suárez,uy URU,DF,37,37,9.0,0.0,2016-2017,ba5004e1,Getafe,"3,313",36.8,12.0,0.0,60.0,8.0,4048.0,Getafe
+,Jorge Molina,es ESP,FW,39,36,5.0,20.0,2016-2017,43f71e77,Getafe,"3,226",35.8,3.0,1.0,60.0,1.0,,Getafe
+,Cata Díaz,ar ARG,DF,34,34,0.0,0.0,2016-2017,c9112443,Getafe,"3,060",34.0,9.0,0.0,60.0,5.0,,Getafe
+,Alberto García,es ESP,GK,34,34,0.0,0.0,2016-2017,17d9e354,Getafe,"3,060",34.0,4.0,0.0,60.0,1.0,,Getafe
+,Francisco Molinero,es ESP,DF,33,33,2.0,0.0,2016-2017,2cea96ce,Getafe,"2,833",31.5,7.0,4.0,60.0,1.0,,Getafe
+,Mehdi Lacen,dz ALG,MF,35,29,2.0,1.0,2016-2017,3a306f6,Getafe,"2,675",29.7,7.0,1.0,60.0,37.0,,Getafe
+,Francisco Portillo,es ESP,MF,33,28,3.0,4.0,2016-2017,8e010ff4,Getafe,"2,428",27.0,4.0,0.0,60.0,1.0,,Getafe
+,Cala,es ESP,DF,28,27,0.0,2.0,2016-2017,fe05804b,Getafe,"2,464",27.4,8.0,2.0,60.0,1.0,,Getafe
+,Daniel Pacheco,es ESP,MF,31,27,2.0,3.0,2016-2017,5b2a4b8d,Getafe,"2,338",26.0,1.0,0.0,60.0,1.0,,Getafe
+,Álvaro Jiménez,es ESP,MF,33,25,1.0,2.0,2016-2017,5f5501ed,Getafe,"2,216",24.6,6.0,0.0,60.0,1.0,,Getafe
+,Alejandro Faurlín,ar ARG,MF,26,22,2.0,4.0,2016-2017,594d286e,Getafe,"1,860",20.7,6.0,0.0,60.0,5.0,,Getafe
+,Nicolás Gorosito,ar ARG,DF,22,20,0.0,1.0,2016-2017,073db7e5,Getafe,"1,667",18.5,7.0,1.0,60.0,5.0,,Getafe
+,Sergio Mora,es ESP,MF,19,19,0.0,0.0,2016-2017,f0a31c00,Getafe,"1,615",17.9,8.0,0.0,60.0,1.0,,Getafe
+,Paul Anton,ro ROU,MF,30,15,1.0,2.0,2016-2017,c7723cf0,Getafe,"1,289",14.3,1.0,0.0,60.0,51.0,4058.0,Getafe
+,Chuli,es ESP,"MF,FW",17,13,1.0,5.0,2016-2017,24efffbf,Getafe,994,11.0,5.0,0.0,60.0,1.0,,Getafe
+,Vicente Guaita,es ESP,GK,12,12,0.0,0.0,2016-2017,b13a5aa,Getafe,720,8.0,0.0,0.0,60.0,1.0,,Getafe
+,Carlos Peña,es ESP,"DF,MF",13,9,1.0,0.0,2016-2017,26a03602,Getafe,867,9.6,2.0,0.0,60.0,1.0,,Getafe
+,Stefan Šćepović,rs SRB,"FW,MF",24,8,0.0,3.0,2016-2017,983f798c,Getafe,997,11.1,0.0,0.0,60.0,28.0,,Getafe
+,Facundo Castillón,ar ARG,MF,18,7,0.0,1.0,2016-2017,b833aa41,Getafe,589,6.5,2.0,0.0,60.0,5.0,4059.0,Getafe
+,David Fuster,es ESP,"MF,FW",19,6,3.0,0.0,2016-2017,23cbf415,Getafe,698,7.8,5.0,0.0,60.0,1.0,,Getafe
+,Emiliano Martínez,ar ARG,GK,12,6,1.0,2.0,2016-2017,7956236f,Getafe,610,6.8,2.0,0.0,60.0,5.0,4060.0,Getafe
+,Rolf Feltscher,ve VEN,DF,7,6,0.0,0.0,2016-2017,27baf026,Getafe,518,5.8,1.0,1.0,60.0,53.0,,Getafe
+,Karim Yoda,fr FRA,"MF,FW",8,4,0.0,0.0,2016-2017,7893629,Getafe,434,4.8,1.0,0.0,60.0,4.0,,Getafe
+,Johannes van den Bergh,de GER,DF,5,2,0.0,0.0,2016-2017,2009b7f2,Getafe,268,3.0,1.0,0.0,60.0,13.0,4061.0,Getafe
+,Foued Kadir,dz ALG,MF,6,2,0.0,0.0,2016-2017,0136606c,Getafe,237,2.6,0.0,0.0,60.0,37.0,,Getafe
+,Enrique Sola,es ESP,FW,6,1,0.0,0.0,2016-2017,bef2e50e,Getafe,117,1.3,0.0,0.0,60.0,1.0,,Getafe
+,Luis Alberto Acosta,py PAR,DF,1,1,0.0,0.0,2016-2017,22297244,Getafe,90,1.0,1.0,0.0,60.0,43.0,4062.0,Getafe
+,Jesús,es ESP,DF,1,1,0.0,0.0,2016-2017,117e622c,Getafe,90,1.0,0.0,0.0,60.0,1.0,4063.0,Getafe
+,Gustavo Quezada,ec ECU,MF,2,1,0.0,0.0,2016-2017,3057b1ce,Getafe,36,0.4,0.0,0.0,60.0,61.0,4064.0,Getafe
+,Álvaro Vázquez,es ESP,FW,1,0,0.0,0.0,2016-2017,d2d8675a,Getafe,24,0.3,0.0,0.0,60.0,1.0,,Getafe
+,Miguel Ángel,es ESP,DF,1,0,0.0,0.0,2016-2017,cb6766fa,Getafe,5,0.1,0.0,0.0,60.0,1.0,4052.0,Getafe
+,Emi Buendía,ar ARG,MF,0,0,,,2016-2017,66b76d44,Getafe,,,,,60.0,5.0,4042.0,Getafe
+,David Gil,es ESP,GK,0,0,,,2016-2017,fea23125,Getafe,,,,,60.0,1.0,4065.0,Getafe
+,﻿Djené,tg TOG,DF,36,36,0.0,1.0,2017-2018,4971d84,Getafe,"3,239",36.0,9.0,0.0,60.0,109.0,4066.0,Getafe
+,Amath,sn SEN,MF,37,36,3.0,3.0,2017-2018,f3b1d9a2,Getafe,"2,859",31.8,9.0,0.0,60.0,34.0,,Getafe
+,Vicente Guaita,es ESP,GK,33,33,0.0,0.0,2017-2018,b13a5aa,Getafe,"2,970",33.0,1.0,0.0,60.0,1.0,,Getafe
+,Damián Suárez,uy URU,DF,33,33,4.0,1.0,2017-2018,ba5004e1,Getafe,"2,877",32.0,14.0,1.0,60.0,8.0,4048.0,Getafe
+,Vitorino Antunes,pt POR,DF,34,31,2.0,0.0,2017-2018,3e4f735d,Getafe,"2,799",31.1,14.0,0.0,60.0,3.0,,Getafe
+,Jorge Molina,es ESP,FW,36,31,4.0,7.0,2017-2018,43f71e77,Getafe,"2,786",31.0,10.0,0.0,60.0,1.0,,Getafe
+,Francisco Portillo,es ESP,MF,33,28,3.0,2.0,2017-2018,8e010ff4,Getafe,"2,460",27.3,6.0,0.0,60.0,1.0,,Getafe
+,Fayçal Fajr,ma MAR,MF,31,26,4.0,1.0,2017-2018,79135368,Getafe,"2,385",26.5,7.0,0.0,60.0,26.0,,Getafe
+,Ángel Rodríguez,es ESP,FW,33,26,2.0,13.0,2017-2018,8cfc2f69,Getafe,"2,293",25.5,6.0,0.0,60.0,1.0,,Getafe
+,Mauro Arambarri,uy URU,MF,27,26,1.0,1.0,2017-2018,58afe001,Getafe,"2,124",23.6,9.0,1.0,60.0,8.0,4067.0,Getafe
+,Cala,es ESP,DF,20,20,2.0,2.0,2017-2018,fe05804b,Getafe,"1,800",20.0,9.0,0.0,60.0,1.0,,Getafe
+,Markel Bergara,es ESP,MF,18,18,1.0,4.0,2017-2018,04a65a8f,Getafe,"1,463",16.3,5.0,0.0,60.0,1.0,,Getafe
+,Bruno González,es ESP,DF,20,17,0.0,0.0,2017-2018,f11fe861,Getafe,"1,540",17.1,5.0,0.0,60.0,1.0,,Getafe
+,Gaku Shibasaki,jp JPN,"MF,FW",22,12,0.0,1.0,2017-2018,d2ac648c,Getafe,"1,002",11.1,2.0,0.0,60.0,54.0,,Getafe
+,Leandro Cabrera,uy URU,DF,9,8,0.0,0.0,2017-2018,69cbc8b6,Getafe,720,8.0,3.0,0.0,60.0,8.0,,Getafe
+,Sergio Mora,es ESP,MF,26,6,0.0,0.0,2017-2018,f0a31c00,Getafe,813,9.0,5.0,0.0,60.0,1.0,,Getafe
+,Mathieu Flamini,fr FRA,MF,8,6,0.0,0.0,2017-2018,148d4105,Getafe,480,5.3,2.0,1.0,60.0,4.0,4068.0,Getafe
+,Loïc Rémy,fr FRA,"FW,MF",11,6,0.0,3.0,2017-2018,5c2da10f,Getafe,457,5.1,3.0,1.0,60.0,4.0,4069.0,Getafe
+,Francisco Molinero,es ESP,DF,10,5,0.0,0.0,2017-2018,2cea96ce,Getafe,579,6.4,5.0,0.0,60.0,1.0,,Getafe
+,Álvaro Jiménez,es ESP,MF,13,5,1.0,1.0,2017-2018,5f5501ed,Getafe,529,5.9,4.0,1.0,60.0,1.0,,Getafe
+,Emiliano Martínez,ar ARG,GK,5,5,0.0,0.0,2017-2018,7956236f,Getafe,450,5.0,0.0,0.0,60.0,5.0,4060.0,Getafe
+,Barri,es ESP,"MF,FW",2,1,0.0,0.0,2017-2018,9704b62b,Getafe,113,1.3,0.0,0.0,60.0,1.0,,Getafe
+,Mathías Olivera,uy URU,MF,3,1,0.0,1.0,2017-2018,41c12f75,Getafe,103,1.1,0.0,0.0,60.0,8.0,,Getafe
+,Alberto Redondo,es ESP,DF,1,1,0.0,0.0,2017-2018,1214f0a6,Getafe,90,1.0,0.0,0.0,60.0,1.0,4070.0,Getafe
+,David Alba,es ESP,DF,1,1,0.0,0.0,2017-2018,7a4cd784,Getafe,61,0.7,0.0,0.0,60.0,1.0,4071.0,Getafe
+,Daniel Pacheco,es ESP,MF,11,0,0.0,0.0,2017-2018,5b2a4b8d,Getafe,175,1.9,0.0,0.0,60.0,1.0,,Getafe
+,Merveille Ndockyt,cg CGO,"MF,FW",6,0,0.0,0.0,2017-2018,32b84cec,Getafe,68,0.8,1.0,0.0,60.0,80.0,,Getafe
+,Mehdi Lacen,dz ALG,MF,4,0,0.0,0.0,2017-2018,3a306f6,Getafe,62,0.7,1.0,0.0,60.0,37.0,,Getafe
+,Jefferson Montero,ec ECU,MF,4,0,0.0,0.0,2017-2018,fa6561bf,Getafe,58,0.6,0.0,0.0,60.0,61.0,,Getafe
+,Miguel Ángel Rubio,es ESP,DF,1,0,0.0,0.0,2017-2018,56cafd0a,Getafe,29,0.3,0.0,0.0,60.0,1.0,,Getafe
+,Hugo Duro,es ESP,FW,2,0,0.0,0.0,2017-2018,37e103f8,Getafe,19,0.2,0.0,0.0,60.0,1.0,177.0,Getafe
+,Carlos Calderón,es ESP,MF,1,0,0.0,0.0,2017-2018,4e2c27bb,Getafe,4,0.0,0.0,0.0,60.0,1.0,4072.0,Getafe
+,Pape Assane,sn SEN,MF,0,0,,,2017-2018,15434055,Getafe,,,,,60.0,34.0,4073.0,Getafe
+,Chuli,es ESP,"FW,MF",0,0,,,2017-2018,24efffbf,Getafe,,,,,60.0,1.0,,Getafe
+,Nicolás Gorosito,ar ARG,DF,0,0,,,2017-2018,073db7e5,Getafe,,,,,60.0,5.0,,Getafe
+,Filip Manojlović,rs SRB,GK,0,0,,,2017-2018,8d2e1890,Getafe,,,,,60.0,28.0,4074.0,Getafe
+,﻿David Soria,es ESP,GK,37,37,0.0,0.0,2018-2019,8f8c6934,Getafe,"3,330",37.0,0.0,0.0,60.0,1.0,,Getafe
+,Damián Suárez,uy URU,DF,36,36,3.0,0.0,2018-2019,ba5004e1,Getafe,"3,240",36.0,13.0,0.0,60.0,8.0,4048.0,Getafe
+,Nemanja Maksimović,rs SRB,MF,36,36,0.0,1.0,2018-2019,00b28772,Getafe,"3,209",35.7,4.0,0.0,60.0,28.0,,Getafe
+,Djené,tg TOG,DF,34,34,0.0,0.0,2018-2019,4971d84,Getafe,"2,976",33.1,13.0,2.0,60.0,109.0,4066.0,Getafe
+,Mauro Arambarri,uy URU,MF,33,32,2.0,1.0,2018-2019,58afe001,Getafe,"2,676",29.7,8.0,0.0,60.0,8.0,4067.0,Getafe
+,Leandro Cabrera,uy URU,DF,32,31,0.0,2.0,2018-2019,69cbc8b6,Getafe,"2,794",31.0,11.0,1.0,60.0,8.0,,Getafe
+,Jorge Molina,es ESP,FW,38,28,5.0,14.0,2018-2019,43f71e77,Getafe,"2,648",29.4,2.0,0.0,60.0,1.0,,Getafe
+,Jaime Mata,es ESP,"FW,MF",34,27,6.0,14.0,2018-2019,02319ad7,Getafe,"2,432",27.0,10.0,0.0,60.0,1.0,,Getafe
+,Vitorino Antunes,pt POR,"DF,MF",28,25,3.0,1.0,2018-2019,3e4f735d,Getafe,"2,181",24.2,5.0,0.0,60.0,3.0,,Getafe
+,Dimitri Foulquier,fr FRA,"MF,DF",25,23,2.0,3.0,2018-2019,45e17712,Getafe,"1,799",20.0,7.0,0.0,60.0,4.0,,Getafe
+,Ángel Rodríguez,es ESP,FW,37,20,3.0,8.0,2018-2019,8cfc2f69,Getafe,"1,819",20.2,4.0,0.0,60.0,1.0,,Getafe
+,Francisco Portillo,es ESP,MF,32,19,4.0,1.0,2018-2019,8e010ff4,Getafe,"1,994",22.2,3.0,1.0,60.0,1.0,,Getafe
+,Bruno González,es ESP,DF,23,18,1.0,0.0,2018-2019,f11fe861,Getafe,"1,701",18.9,7.0,1.0,60.0,1.0,,Getafe
+,Amath,sn SEN,MF,15,13,2.0,1.0,2018-2019,f3b1d9a2,Getafe,"1,002",11.1,4.0,0.0,60.0,34.0,,Getafe
+,Mathías Olivera,uy URU,"DF,MF",14,12,1.0,0.0,2018-2019,41c12f75,Getafe,"1,007",11.2,6.0,1.0,60.0,8.0,,Getafe
+,Hugo Duro,es ESP,"MF,FW",11,5,0.0,0.0,2018-2019,37e103f8,Getafe,417,4.6,0.0,0.0,60.0,1.0,177.0,Getafe
+,Gaku Shibasaki,jp JPN,"MF,FW",7,5,0.0,0.0,2018-2019,d2ac648c,Getafe,389,4.3,0.0,0.0,60.0,54.0,,Getafe
+,Mathieu Flamini,fr FRA,MF,10,4,0.0,0.0,2018-2019,148d4105,Getafe,453,5.0,5.0,0.0,60.0,4.0,4068.0,Getafe
+,Sebastián Cristóforo,uy URU,MF,15,4,2.0,0.0,2018-2019,3c05c659,Getafe,450,5.0,3.0,0.0,60.0,8.0,,Getafe
+,Ignasi Miquel,es ESP,DF,7,4,0.0,0.0,2018-2019,174f09a6,Getafe,316,3.5,1.0,0.0,60.0,1.0,,Getafe
+,Samuel Sáiz,es ESP,MF,10,2,0.0,1.0,2018-2019,13e0eb29,Getafe,305,3.4,2.0,0.0,60.0,1.0,4036.0,Getafe
+,Iván Alejo,es ESP,MF,4,2,0.0,0.0,2018-2019,3d7e48ce,Getafe,146,1.6,2.0,1.0,60.0,1.0,,Getafe
+,Leandro Chichizola,ar ARG,GK,1,1,0.0,0.0,2018-2019,8d957256,Getafe,90,1.0,0.0,0.0,60.0,5.0,4075.0,Getafe
+,Robert Ibáñez,es ESP,MF,7,0,0.0,0.0,2018-2019,c7429db3,Getafe,76,0.8,1.0,0.0,60.0,1.0,,Getafe
+,Markel Bergara,es ESP,MF,3,0,0.0,0.0,2018-2019,04a65a8f,Getafe,53,0.6,0.0,0.0,60.0,1.0,,Getafe
+,Sergi Guardiola,es ESP,"MF,FW",3,0,0.0,0.0,2018-2019,32974271,Getafe,30,0.3,0.0,0.0,60.0,1.0,,Getafe
+,Miguel Ángel Rubio,es ESP,DF,0,0,,,2018-2019,56cafd0a,Getafe,,,,,60.0,1.0,,Getafe
+,Rubén Yáñez,es ESP,GK,0,0,,,2018-2019,039ae103,Getafe,,,,,60.0,1.0,142.0,Getafe
+,﻿David Soria,es ESP,GK,38,38,0.0,0.0,2019-2020,8f8c6934,Getafe,"3,420",38.0,2.0,0.0,60.0,1.0,,Getafe
+,Marc Cucurella,es ESP,"MF,DF",37,37,5.0,1.0,2019-2020,1daec722,Getafe,"3,237",36.0,9.0,0.0,60.0,1.0,4076.0,Getafe
+,Mauro Arambarri,uy URU,MF,35,34,1.0,1.0,2019-2020,58afe001,Getafe,"3,069",34.1,11.0,1.0,60.0,8.0,4067.0,Getafe
+,Djené,tg TOG,DF,34,34,0.0,0.0,2019-2020,4971d84,Getafe,"3,060",34.0,5.0,0.0,60.0,109.0,4066.0,Getafe
+,Nemanja Maksimović,rs SRB,MF,35,33,0.0,2.0,2019-2020,00b28772,Getafe,"2,895",32.2,5.0,0.0,60.0,28.0,,Getafe
+,Jaime Mata,es ESP,FW,34,33,3.0,11.0,2019-2020,02319ad7,Getafe,"2,747",30.5,14.0,0.0,60.0,1.0,,Getafe
+,Allan Nyom,cm CMR,"DF,MF",34,31,0.0,2.0,2019-2020,97572117,Getafe,"2,422",26.9,13.0,2.0,60.0,36.0,4077.0,Getafe
+,Damián Suárez,uy URU,DF,30,30,4.0,1.0,2019-2020,ba5004e1,Getafe,"2,592",28.8,15.0,0.0,60.0,8.0,4048.0,Getafe
+,Jorge Molina,es ESP,FW,34,23,3.0,5.0,2019-2020,43f71e77,Getafe,"1,886",21.0,6.0,1.0,60.0,1.0,,Getafe
+,Mathías Olivera,uy URU,DF,24,21,1.0,0.0,2019-2020,41c12f75,Getafe,"1,870",20.8,7.0,1.0,60.0,8.0,,Getafe
+,Leandro Cabrera,uy URU,DF,18,18,0.0,2.0,2019-2020,69cbc8b6,Getafe,"1,530",17.0,3.0,0.0,60.0,8.0,,Getafe
+,Xabier Etxeita,es ESP,DF,17,16,0.0,0.0,2019-2020,4a895384,Getafe,"1,446",16.1,7.0,0.0,60.0,1.0,,Getafe
+,Jason,es ESP,MF,20,14,4.0,1.0,2019-2020,9038c2a1,Getafe,"1,175",13.1,5.0,0.0,60.0,1.0,,Getafe
+,David Timor,es ESP,"MF,DF",22,10,0.0,3.0,2019-2020,174651c8,Getafe,943,10.5,4.0,0.0,60.0,1.0,,Getafe
+,Ángel Rodríguez,es ESP,FW,32,9,3.0,10.0,2019-2020,8cfc2f69,Getafe,"1,407",15.6,6.0,0.0,60.0,1.0,,Getafe
+,Oghenekaro Etebo,ng NGA,MF,10,6,0.0,1.0,2019-2020,b579e83d,Getafe,572,6.4,4.0,0.0,60.0,52.0,4078.0,Getafe
+,Fayçal Fajr,ma MAR,MF,10,5,0.0,0.0,2019-2020,79135368,Getafe,403,4.5,2.0,0.0,60.0,26.0,,Getafe
+,Hugo Duro,es ESP,"FW,MF",12,4,1.0,1.0,2019-2020,37e103f8,Getafe,378,4.2,3.0,0.0,60.0,1.0,177.0,Getafe
+,Kenedy,br BRA,MF,19,3,3.0,1.0,2019-2020,5eebbfdf,Getafe,586,6.5,2.0,0.0,60.0,2.0,4079.0,Getafe
+,Francisco Portillo,es ESP,MF,16,3,2.0,0.0,2019-2020,8e010ff4,Getafe,376,4.2,3.0,0.0,60.0,1.0,,Getafe
+,Chema,es ESP,DF,4,3,0.0,0.0,2019-2020,7f203b54,Getafe,309,3.4,4.0,0.0,60.0,1.0,4080.0,Getafe
+,Erick Cabaco,uy URU,DF,4,3,0.0,0.0,2019-2020,7ab4179,Getafe,267,3.0,0.0,0.0,60.0,8.0,4081.0,Getafe
+,Raúl García,es ESP,DF,4,3,0.0,0.0,2019-2020,1a317a1b,Getafe,243,2.7,0.0,0.0,60.0,1.0,,Getafe
+,Deyverson,br BRA,FW,5,3,1.0,0.0,2019-2020,2e5e846d,Getafe,204,2.3,2.0,0.0,60.0,2.0,,Getafe
+,Bruno González,es ESP,DF,2,2,0.0,0.0,2019-2020,f11fe861,Getafe,180,2.0,1.0,0.0,60.0,1.0,,Getafe
+,Enric Gallego,es ESP,FW,5,2,0.0,0.0,2019-2020,82e9b89d,Getafe,164,1.8,0.0,0.0,60.0,1.0,,Getafe
+,Markel Bergara,es ESP,MF,2,0,0.0,0.0,2019-2020,04a65a8f,Getafe,72,0.8,2.0,0.0,60.0,1.0,,Getafe
+,Amath,sn SEN,MF,7,0,0.0,0.0,2019-2020,f3b1d9a2,Getafe,66,0.7,0.0,0.0,60.0,34.0,,Getafe
+,Vitorino Antunes,pt POR,MF,1,0,0.0,0.0,2019-2020,3e4f735d,Getafe,6,0.1,0.0,0.0,60.0,3.0,,Getafe
+,Florent Poulolo,mq MTQ,DF,1,0,0.0,0.0,2019-2020,07129f3c,Getafe,1,0.0,0.0,0.0,60.0,104.0,4082.0,Getafe
+,Leandro Chichizola,ar ARG,GK,0,0,,,2019-2020,8d957256,Getafe,,,,,60.0,5.0,4075.0,Getafe
+,Marcos Lavín,es ESP,GK,0,0,,,2019-2020,666e283e,Getafe,,,,,60.0,1.0,4083.0,Getafe
+,﻿Marc Cucurella,es ESP,MF,37,37,2.0,3.0,2020-2021,1daec722,Getafe,"3,244",36.0,8.0,0.0,60.0,1.0,4076.0,Getafe
+,Djené,tg TOG,DF,34,34,1.0,0.0,2020-2021,4971d84,Getafe,"2,941",32.7,8.0,2.0,60.0,109.0,4066.0,Getafe
+,Nemanja Maksimović,rs SRB,MF,35,34,0.0,1.0,2020-2021,00b28772,Getafe,"2,728",30.3,5.0,0.0,60.0,28.0,,Getafe
+,Mauro Arambarri,uy URU,MF,34,33,0.0,3.0,2020-2021,58afe001,Getafe,"2,983",33.1,11.0,0.0,60.0,8.0,4067.0,Getafe
+,Mathías Olivera,uy URU,DF,31,30,0.0,0.0,2020-2021,41c12f75,Getafe,"2,614",29.0,6.0,0.0,60.0,8.0,,Getafe
+,David Soria,es ESP,GK,28,28,0.0,0.0,2020-2021,8f8c6934,Getafe,"2,520",28.0,2.0,0.0,60.0,1.0,,Getafe
+,Damián Suárez,uy URU,DF,31,28,0.0,1.0,2020-2021,ba5004e1,Getafe,"2,434",27.0,13.0,1.0,60.0,8.0,4048.0,Getafe
+,Allan Nyom,cm CMR,"MF,DF",31,28,2.0,0.0,2020-2021,97572117,Getafe,"2,323",25.8,10.0,1.0,60.0,36.0,4077.0,Getafe
+,Jaime Mata,es ESP,FW,33,23,0.0,5.0,2020-2021,02319ad7,Getafe,"2,037",22.6,9.0,1.0,60.0,1.0,,Getafe
+,Cucho,co COL,"FW,MF",23,18,3.0,2.0,2020-2021,71b47ab9,Getafe,"1,466",16.3,5.0,0.0,60.0,19.0,,Getafe
+,David Timor,es ESP,"MF,DF",30,15,0.0,0.0,2020-2021,174651c8,Getafe,"1,395",15.5,5.0,1.0,60.0,1.0,,Getafe
+,Carles Aleñá,es ESP,"MF,FW",22,15,2.0,2.0,2020-2021,6c811eb7,Getafe,"1,366",15.2,1.0,0.0,60.0,1.0,,Getafe
+,Erick Cabaco,uy URU,DF,20,15,0.0,0.0,2020-2021,7ab4179,Getafe,"1,326",14.7,9.0,0.0,60.0,8.0,4081.0,Getafe
+,Enes Ünal,tr TUR,FW,28,15,2.0,4.0,2020-2021,f8eca1b6,Getafe,"1,318",14.6,4.0,0.0,60.0,15.0,,Getafe
+,Ángel Rodríguez,es ESP,"FW,MF",33,12,0.0,5.0,2020-2021,8cfc2f69,Getafe,"1,374",15.3,4.0,0.0,60.0,1.0,,Getafe
+,Rubén Yáñez,es ESP,GK,10,10,0.0,0.0,2020-2021,039ae103,Getafe,900,10.0,2.0,0.0,60.0,1.0,142.0,Getafe
+,Sofian Chakla,ma MAR,DF,11,9,0.0,0.0,2020-2021,37f04799,Getafe,897,10.0,5.0,0.0,60.0,26.0,,Getafe
+,Xabier Etxeita,es ESP,DF,11,9,0.0,0.0,2020-2021,4a895384,Getafe,883,9.8,3.0,0.0,60.0,1.0,,Getafe
+,Takefusa Kubo,jp JPN,"MF,FW",18,8,1.0,1.0,2020-2021,16aa3654,Getafe,805,8.9,2.0,0.0,60.0,54.0,,Getafe
+,Iglesias,es ESP,"DF,MF",10,7,0.0,0.0,2020-2021,974322dc,Getafe,605,6.7,2.0,0.0,60.0,1.0,4084.0,Getafe
+,Chema,es ESP,"DF,MF",10,7,0.0,0.0,2020-2021,7f203b54,Getafe,557,6.2,3.0,1.0,60.0,1.0,4080.0,Getafe
+,Francisco Portillo,es ESP,"MF,FW",16,3,1.0,0.0,2020-2021,8e010ff4,Getafe,418,4.6,1.0,0.0,60.0,1.0,,Getafe
+,Victor Mollejo,es ESP,"MF,DF",4,0,0.0,0.0,2020-2021,23fffc06,Getafe,72,0.8,0.0,0.0,60.0,1.0,,Getafe
+,John Joe,ie IRL,"MF,FW",6,0,0.0,0.0,2020-2021,fd01216a,Getafe,65,0.7,0.0,0.0,60.0,99.0,4085.0,Getafe
+,Sabit Abdulai,gh GHA,MF,3,0,0.0,0.0,2020-2021,9f9e1b9c,Getafe,60,0.7,1.0,0.0,60.0,17.0,4086.0,Getafe
+,Emmanuel Amankwaa Akurugu,gh GHA,DF,1,0,0.0,0.0,2020-2021,69c5633e,Getafe,45,0.5,0.0,0.0,60.0,17.0,4087.0,Getafe
+,José Antonio Miranda,gq EQG,"MF,DF",4,0,0.0,0.0,2020-2021,683788fd,Getafe,26,0.3,1.0,0.0,60.0,10.0,4088.0,Getafe
+,Mamor Niang,sn SEN,"MF,FW",1,0,0.0,0.0,2020-2021,64a76620,Getafe,22,0.2,0.0,0.0,60.0,34.0,4089.0,Getafe
+,Abdoulay Diaby,ml MLI,DF,1,0,0.0,0.0,2020-2021,23c5db70,Getafe,18,0.2,0.0,0.0,60.0,12.0,4090.0,Getafe
+,Ante Palaversa,hr CRO,MF,2,0,0.0,0.0,2020-2021,cd9b37a3,Getafe,9,0.1,0.0,0.0,60.0,16.0,,Getafe
+,Darío Poveda,es ESP,FW,1,0,0.0,0.0,2020-2021,cbdf7d5c,Getafe,5,0.1,0.0,0.0,60.0,1.0,,Getafe
+,David Alba,es ESP,MF,0,0,,,2020-2021,7a4cd784,Getafe,,,,,60.0,1.0,4071.0,Getafe
+,Chinchu,es ESP,DF,0,0,,,2020-2021,f2ad9da9,Getafe,,,,,60.0,1.0,4091.0,Getafe
+,Ryan Nolan,ie IRL,DF,0,0,,,2020-2021,fa4e4764,Getafe,,,,,60.0,99.0,4092.0,Getafe
+,﻿David Soria,es ESP,GK,38,38,0.0,0.0,2021-2022,8f8c6934,Getafe,"3,414",37.9,4.0,0.0,60.0,1.0,,Getafe
+,Djené,tg TOG,DF,35,35,1.0,0.0,2021-2022,4971d84,Getafe,"3,115",34.6,11.0,1.0,60.0,109.0,4066.0,Getafe
+,Nemanja Maksimović,rs SRB,MF,35,34,2.0,1.0,2021-2022,00b28772,Getafe,"2,936",32.6,5.0,0.0,60.0,28.0,,Getafe
+,Enes Ünal,tr TUR,FW,37,33,1.0,16.0,2021-2022,f8eca1b6,Getafe,"2,798",31.1,8.0,0.0,60.0,15.0,,Getafe
+,Mathías Olivera,uy URU,DF,32,32,3.0,1.0,2021-2022,41c12f75,Getafe,"2,803",31.1,10.0,0.0,60.0,8.0,,Getafe
+,Damián Suárez,uy URU,DF,35,31,3.0,0.0,2021-2022,ba5004e1,Getafe,"2,711",30.1,13.0,0.0,60.0,8.0,4048.0,Getafe
+,Jorge Cuenca,es ESP,DF,32,31,0.0,1.0,2021-2022,0abc51f2,Getafe,"2,683",29.8,6.0,2.0,60.0,1.0,,Getafe
+,Stefan Mitrović,rs SRB,DF,32,31,0.0,0.0,2021-2022,6777e6b,Getafe,"2,667",29.6,8.0,1.0,60.0,28.0,,Getafe
+,Mauro Arambarri,uy URU,MF,31,31,5.0,0.0,2021-2022,58afe001,Getafe,"2,663",29.6,13.0,0.0,60.0,8.0,4067.0,Getafe
+,Carles Aleñá,es ESP,MF,33,30,2.0,1.0,2021-2022,6c811eb7,Getafe,"2,320",25.8,6.0,1.0,60.0,1.0,,Getafe
+,Sandro Ramírez,es ESP,FW,29,19,0.0,3.0,2021-2022,833fb62e,Getafe,"1,462",16.2,7.0,0.0,60.0,1.0,,Getafe
+,Borja Mayoral,es ESP,FW,18,11,1.0,6.0,2021-2022,64e8ed6d,Getafe,"1,044",11.6,3.0,0.0,60.0,1.0,128.0,Getafe
+,Florentino Luís,pt POR,MF,22,9,1.0,0.0,2021-2022,881cd6be,Getafe,992,11.0,2.0,0.0,60.0,3.0,4093.0,Getafe
+,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",18,9,1.0,0.0,2021-2022,19709006,Getafe,943,10.5,2.0,0.0,60.0,1.0,153.0,Getafe
+,Iglesias,es ESP,DF,20,7,1.0,0.0,2021-2022,974322dc,Getafe,719,8.0,1.0,0.0,60.0,1.0,4084.0,Getafe
+,Jakub Jankto,cz CZE,"DF,MF",14,6,2.0,0.0,2021-2022,1ea5f91c,Getafe,587,6.5,1.0,1.0,60.0,84.0,4094.0,Getafe
+,Okay Yokuşlu,tr TUR,"DF,MF",11,5,0.0,0.0,2021-2022,49ce451,Getafe,465,5.2,1.0,0.0,60.0,15.0,,Getafe
+,Erick Cabaco,uy URU,DF,10,5,1.0,0.0,2021-2022,7ab4179,Getafe,403,4.5,4.0,1.0,60.0,8.0,4081.0,Getafe
+,Jaime Mata,es ESP,FW,22,4,0.0,1.0,2021-2022,02319ad7,Getafe,672,7.5,7.0,0.0,60.0,1.0,,Getafe
+,Darío Poveda,es ESP,"FW,MF",15,3,0.0,1.0,2021-2022,cbdf7d5c,Getafe,380,4.2,0.0,0.0,60.0,1.0,,Getafe
+,David Timor,es ESP,MF,7,3,0.0,0.0,2021-2022,174651c8,Getafe,341,3.8,2.0,0.0,60.0,1.0,,Getafe
+,Allan Nyom,cm CMR,DF,5,3,0.0,0.0,2021-2022,97572117,Getafe,244,2.7,1.0,0.0,60.0,36.0,4077.0,Getafe
+,Gonzalo Villar,es ESP,MF,10,2,1.0,0.0,2021-2022,bdc74a8f,Getafe,298,3.3,0.0,0.0,60.0,1.0,,Getafe
+,José Juan Macías,mx MEX,"FW,MF",7,2,0.0,0.0,2021-2022,1f1c8a15,Getafe,201,2.2,1.0,0.0,60.0,20.0,,Getafe
+,Jonathan Silva,ar ARG,"DF,FW",9,1,0.0,0.0,2021-2022,f2308b33,Getafe,226,2.5,4.0,0.0,60.0,5.0,4095.0,Getafe
+,Vitolo,es ESP,MF,7,1,0.0,0.0,2021-2022,db750822,Getafe,221,2.5,0.0,0.0,60.0,1.0,,Getafe
+,Emmanuel Amankwaa Akurugu,gh GHA,DF,3,1,1.0,0.0,2021-2022,69c5633e,Getafe,79,0.9,0.0,0.0,60.0,17.0,4087.0,Getafe
+,Chema,es ESP,MF,1,1,0.0,0.0,2021-2022,7f203b54,Getafe,45,0.5,1.0,1.0,60.0,1.0,4080.0,Getafe
+,Marc Cucurella,es ESP,"MF,DF",1,0,0.0,0.0,2021-2022,1daec722,Getafe,23,0.3,0.0,0.0,60.0,1.0,4076.0,Getafe
+,Hugo Duro,es ESP,"DF,MF",1,0,0.0,0.0,2021-2022,37e103f8,Getafe,12,0.1,0.0,0.0,60.0,1.0,177.0,Getafe
+,Diego Conde,es ESP,GK,1,0,0.0,0.0,2021-2022,4eae5bc4,Getafe,6,0.1,0.0,0.0,60.0,1.0,4096.0,Getafe
+,Ángel Algobia,es ESP,MF,0,0,,,2021-2022,cc1aefa,Getafe,,,,,60.0,1.0,4097.0,Getafe
+,Gastón Álvarez,uy URU,DF,0,0,,,2021-2022,852ddfb8,Getafe,,,,,60.0,8.0,4098.0,Getafe
+,Chinchu,es ESP,DF,0,0,,,2021-2022,f2ad9da9,Getafe,,,,,60.0,1.0,4091.0,Getafe
+,John Joe,ie IRL,MF,0,0,,,2021-2022,fd01216a,Getafe,,,,,60.0,99.0,4085.0,Getafe
+,Diego López,es ESP,MF,0,0,,,2021-2022,d88b5ba7,Getafe,,,,,60.0,1.0,4099.0,Getafe
+,Ignasi Miquel,es ESP,DF,0,0,,,2021-2022,174f09a6,Getafe,,,,,60.0,1.0,,Getafe
+,Rubén Yáñez,es ESP,GK,0,0,,,2021-2022,039ae103,Getafe,,,,,60.0,1.0,142.0,Getafe

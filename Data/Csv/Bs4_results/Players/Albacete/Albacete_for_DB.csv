@@ -1,0 +1,548 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Óscar Montiel,es ESP,DF,40,40,0.0,1.0,2002-2003,50554b5,Albacete,"3,575",39.7,5.0,1.0,58.0,1.0,3696.0,Albacete
+,Carlos Roa,ar ARG,GK,39,39,0.0,0.0,2002-2003,b148b07,Albacete,"3,400",37.8,4.0,1.0,58.0,5.0,3697.0,Albacete
+,Pablo Ibáñez,es ESP,DF,38,38,0.0,1.0,2002-2003,23ca89f2,Albacete,"3,358",37.3,9.0,1.0,58.0,1.0,,Albacete
+,Gustavo Siviero,ar ARG,DF,37,37,0.0,0.0,2002-2003,1f67bf,Albacete,"3,330",37.0,13.0,0.0,58.0,5.0,3698.0,Albacete
+,José Jesús Perera,es ESP,FW,38,37,3.0,22.0,2002-2003,39a1bc8,Albacete,"3,059",34.0,9.0,0.0,58.0,1.0,,Albacete
+,Laurent Viaud,fr FRA,MF,34,33,1.0,0.0,2002-2003,0a6fbbf,Albacete,"2,618",29.1,11.0,1.0,58.0,4.0,3699.0,Albacete
+,Líbero Parri,es ESP,MF,30,25,3.0,6.0,2002-2003,203ff743,Albacete,"2,226",24.7,4.0,1.0,58.0,1.0,3700.0,Albacete
+,Padilla,es ESP,DF,29,23,0.0,0.0,2002-2003,996e06f8,Albacete,"2,158",24.0,10.0,1.0,58.0,1.0,3701.0,Albacete
+,Jandro,es ESP,MF,21,21,3.0,7.0,2002-2003,453a1fcd,Albacete,"1,869",20.8,5.0,0.0,58.0,1.0,,Albacete
+,Ludovic Delporte,fr FRA,MF,21,21,2.0,0.0,2002-2003,7c2c4c3e,Albacete,"1,588",17.6,5.0,0.0,58.0,4.0,,Albacete
+,Paco Peña,es ESP,DF,24,19,3.0,1.0,2002-2003,3b01965,Albacete,"1,745",19.4,6.0,1.0,58.0,1.0,3702.0,Albacete
+,Basti,es ESP,FW,31,16,0.0,3.0,2002-2003,ff5c374b,Albacete,"1,597",17.7,7.0,0.0,58.0,1.0,3703.0,Albacete
+,Pablo Sierra,es ESP,MF,18,16,4.0,0.0,2002-2003,224f3a5f,Albacete,"1,282",14.2,1.0,0.0,58.0,1.0,,Albacete
+,Iván Díaz Ruiz,es ESP,MF,24,14,0.0,2.0,2002-2003,7870c95,Albacete,"1,373",15.3,4.0,0.0,58.0,1.0,3704.0,Albacete
+,Álvaro Rubio,es ESP,"DF,MF",25,14,1.0,0.0,2002-2003,149770b8,Albacete,"1,365",15.2,3.0,1.0,58.0,1.0,,Albacete
+,Alejandro Duré,ar ARG,FW,30,13,3.0,4.0,2002-2003,503dc068,Albacete,"1,291",14.3,2.0,0.0,58.0,5.0,3705.0,Albacete
+,Cătălin Munteanu,ro ROU,MF,18,13,2.0,1.0,2002-2003,7cc877fd,Albacete,"1,176",13.1,3.0,1.0,58.0,51.0,3706.0,Albacete
+,Pedro,es ESP,DF,11,10,0.0,0.0,2002-2003,380f42c1,Albacete,845,9.4,4.0,1.0,58.0,1.0,3707.0,Albacete
+,Dani Ruiz,,,15,9,2.0,0.0,2002-2003,,Albacete,695,7.7,4.0,0.0,58.0,,,Albacete
+,Mikel Aguirregomezkorta Larrea,es ESP,FW,26,7,2.0,2.0,2002-2003,bcfe919b,Albacete,961,10.7,4.0,0.0,58.0,1.0,3708.0,Albacete
+,José Vicente Simeón Peris,,MF,10,5,0.0,1.0,2002-2003,71a3bcd,Albacete,509,5.7,2.0,1.0,58.0,,,Albacete
+,Martin Irazoki,,,5,4,0.0,0.0,2002-2003,,Albacete,298,3.3,0.0,0.0,58.0,,,Albacete
+,Carlos David Cano,es ESP,GK,4,2,0.0,0.0,2002-2003,c7f63f13,Albacete,290,3.2,0.0,0.0,58.0,1.0,3709.0,Albacete
+,Rodri,es ESP,MF,6,2,0.0,0.0,2002-2003,b8462bd6,Albacete,278,3.1,0.0,0.0,58.0,1.0,3710.0,Albacete
+,Miquel Buades Crespí,es ESP,DF,5,2,0.0,1.0,2002-2003,4ef0b7d8,Albacete,234,2.6,2.0,0.0,58.0,1.0,3711.0,Albacete
+,Nunez Raul,,,1,1,0.0,0.0,2002-2003,,Albacete,90,1.0,0.0,0.0,58.0,,,Albacete
+,Rubio,es ESP,MF,1,1,0.0,0.0,2002-2003,5074df2e,Albacete,67,0.7,0.0,0.0,58.0,1.0,3712.0,Albacete
+,Pedrinho,br BRA,FW,2,0,0.0,0.0,2002-2003,64c13e46,Albacete,31,0.3,0.0,0.0,58.0,2.0,,Albacete
+,Inaki Leniz,,,1,0,0.0,0.0,2002-2003,,Albacete,12,0.1,1.0,0.0,58.0,,,Albacete
+,David Alvarez,,,1,0,0.0,0.0,2002-2003,,Albacete,8,0.1,0.0,0.0,58.0,,,Albacete
+,﻿Pablo Ibáñez,es ESP,DF,37,37,1.0,1.0,2003-2004,23ca89f2,Albacete,"3,267",36.3,6.0,0.0,58.0,1.0,,Albacete
+,Óscar Montiel,es ESP,DF,36,36,2.0,0.0,2003-2004,50554b5,Albacete,"3,215",35.7,5.0,0.0,58.0,1.0,3696.0,Albacete
+,Laurent Viaud,fr FRA,MF,33,32,0.0,1.0,2003-2004,0a6fbbf,Albacete,"2,751",30.6,14.0,0.0,58.0,4.0,3699.0,Albacete
+,Paco Peña,es ESP,DF,30,30,2.0,0.0,2003-2004,3b01965,Albacete,"2,709",30.1,4.0,1.0,58.0,1.0,3702.0,Albacete
+,Antonio Pacheco,uy URU,"FW,MF",33,29,2.0,7.0,2003-2004,9ad93cb3,Albacete,"2,261",25.1,2.0,0.0,58.0,8.0,3713.0,Albacete
+,Manuel Almunia,es ESP,GK,24,24,0.0,0.0,2003-2004,9f6b2f8c,Albacete,"2,160",24.0,2.0,0.0,58.0,1.0,,Albacete
+,Miquel Buades Crespí,es ESP,DF,24,24,0.0,0.0,2003-2004,4ef0b7d8,Albacete,"2,016",22.4,4.0,1.0,58.0,1.0,3711.0,Albacete
+,Líbero Parri,es ESP,MF,29,21,6.0,6.0,2003-2004,203ff743,Albacete,"1,900",21.1,5.0,1.0,58.0,1.0,3700.0,Albacete
+,Carlos Aranda,es ESP,FW,25,19,4.0,8.0,2003-2004,2b60c45d,Albacete,"1,615",17.9,8.0,1.0,58.0,1.0,,Albacete
+,Ludovic Delporte,fr FRA,MF,22,18,0.0,2.0,2003-2004,7c2c4c3e,Albacete,"1,649",18.3,8.0,1.0,58.0,4.0,,Albacete
+,Cătălin Munteanu,ro ROU,MF,17,17,0.0,0.0,2003-2004,7cc877fd,Albacete,"1,399",15.5,2.0,0.0,58.0,51.0,3706.0,Albacete
+,David Sánchez,es ESP,MF,29,16,2.0,1.0,2003-2004,bb05af1a,Albacete,"1,556",17.3,4.0,1.0,58.0,1.0,,Albacete
+,Pablo Redondo,es ESP,MF,18,15,1.0,1.0,2003-2004,da98fdb0,Albacete,"1,301",14.5,4.0,0.0,58.0,1.0,3714.0,Albacete
+,Carlos Roa,ar ARG,GK,14,14,0.0,0.0,2003-2004,b148b07,Albacete,"1,259",14.0,0.0,1.0,58.0,5.0,3697.0,Albacete
+,Álvaro Rubio,es ESP,"DF,MF",23,13,1.0,0.0,2003-2004,149770b8,Albacete,"1,296",14.4,5.0,0.0,58.0,1.0,,Albacete
+,Unai Vergara,es ESP,DF,15,12,1.0,0.0,2003-2004,c9d08ea0,Albacete,"1,080",12.0,6.0,1.0,58.0,1.0,,Albacete
+,Iván Díaz Ruiz,es ESP,MF,16,12,0.0,0.0,2003-2004,7870c95,Albacete,"1,025",11.4,3.0,0.0,58.0,1.0,3704.0,Albacete
+,Mikel Aguirregomezkorta Larrea,es ESP,FW,28,8,3.0,5.0,2003-2004,bcfe919b,Albacete,"1,159",12.9,4.0,0.0,58.0,1.0,3708.0,Albacete
+,Fabiano Pereira,br BRA,MF,12,7,,1.0,2003-2004,b1e4e4ab,Albacete,614,6.8,1.0,0.0,58.0,2.0,3715.0,Albacete
+,Fernando Navarro,es ESP,DF,7,5,,0.0,2003-2004,5a3f6fae,Albacete,507,5.6,2.0,0.0,58.0,1.0,,Albacete
+,Abass Lawal,ng NGA,"FW,MF",5,5,0.0,0.0,2003-2004,dd53d426,Albacete,450,5.0,2.0,0.0,58.0,52.0,3716.0,Albacete
+,Gabriel Amato,ar ARG,FW,8,5,1.0,0.0,2003-2004,b571f57,Albacete,421,4.7,0.0,0.0,58.0,5.0,3717.0,Albacete
+,Christian Díaz,ar ARG,"DF,MF",6,4,0.0,0.0,2003-2004,4c6f6ef4,Albacete,404,4.5,1.0,0.0,58.0,5.0,3718.0,Albacete
+,Basti,es ESP,FW,14,4,0.0,1.0,2003-2004,ff5c374b,Albacete,396,4.4,3.0,0.0,58.0,1.0,3703.0,Albacete
+,Pablo García,es ESP,MF,13,4,0.0,0.0,2003-2004,5d997306,Albacete,391,4.3,2.0,0.0,58.0,1.0,3728.0,Albacete
+,Gustavo Siviero,ar ARG,DF,5,4,,0.0,2003-2004,1f67bf,Albacete,370,4.1,1.0,0.0,58.0,5.0,3698.0,Albacete
+,Pedro,es ESP,DF,2,2,,0.0,2003-2004,380f42c1,Albacete,180,2.0,1.0,0.0,58.0,1.0,3707.0,Albacete
+,Cacá,br BRA,FW,2,1,0.0,0.0,2003-2004,1bd2ede8,Albacete,82,0.9,0.0,0.0,58.0,2.0,3719.0,Albacete
+,José Vicente Simeón Peris,,MF,2,0,0.0,0.0,2003-2004,71a3bcd,Albacete,40,0.4,0.0,0.0,58.0,,,Albacete
+,Manuel Gato,es ESP,FW,1,0,0.0,0.0,2003-2004,b137ee5,Albacete,34,0.4,0.0,0.0,58.0,1.0,3720.0,Albacete
+,﻿Antonio Pacheco,uy URU,"FW,MF",34,34,5.0,12.0,2004-2005,9ad93cb3,Albacete,"2,934",32.6,7.0,1.0,58.0,8.0,3713.0,Albacete
+,Paco Peña,es ESP,DF,33,33,3.0,0.0,2004-2005,3b01965,Albacete,"2,970",33.0,9.0,0.0,58.0,1.0,3702.0,Albacete
+,Miquel Buades Crespí,es ESP,DF,31,31,0.0,2.0,2004-2005,4ef0b7d8,Albacete,"2,717",30.2,9.0,1.0,58.0,1.0,3711.0,Albacete
+,Pablo Redondo,es ESP,MF,30,28,5.0,5.0,2004-2005,da98fdb0,Albacete,"2,387",26.5,5.0,0.0,58.0,1.0,3714.0,Albacete
+,Álvaro Rubio,es ESP,"DF,MF",28,25,1.0,0.0,2004-2005,149770b8,Albacete,"2,068",23.0,6.0,0.0,58.0,1.0,,Albacete
+,Gaspar,es ESP,DF,25,23,0.0,1.0,2004-2005,75e5329b,Albacete,"2,022",22.5,12.0,2.0,58.0,1.0,,Albacete
+,Rubén,es ESP,DF,22,21,0.0,0.0,2004-2005,d0c06281,Albacete,"1,907",21.2,5.0,0.0,58.0,1.0,21.0,Albacete
+,Raúl Valbuena,es ESP,GK,21,21,0.0,0.0,2004-2005,d711ab5a,Albacete,"1,848",20.5,0.0,0.0,58.0,1.0,,Albacete
+,Jaime,es ESP,MF,22,20,1.0,0.0,2004-2005,3bd0615c,Albacete,"1,602",17.8,4.0,1.0,58.0,1.0,3721.0,Albacete
+,Laurent Viaud,fr FRA,MF,25,19,0.0,1.0,2004-2005,0a6fbbf,Albacete,"1,801",20.0,9.0,1.0,58.0,4.0,3699.0,Albacete
+,Francisco,es ESP,FW,28,17,4.0,3.0,2004-2005,20ba95,Albacete,"1,524",16.9,2.0,0.0,58.0,1.0,3722.0,Albacete
+,Ronny Gaspercic,be BEL,GK,17,16,0.0,0.0,2004-2005,bbeaf9c2,Albacete,"1,482",16.5,0.0,0.0,58.0,27.0,,Albacete
+,Mark González,cl CHI,"FW,MF",26,16,0.0,5.0,2004-2005,d8c62450,Albacete,"1,478",16.4,3.0,0.0,58.0,31.0,,Albacete
+,Momo,es ESP,MF,24,16,1.0,1.0,2004-2005,9857e65d,Albacete,"1,456",16.2,1.0,0.0,58.0,1.0,,Albacete
+,Óscar Montiel,es ESP,DF,23,15,1.0,0.0,2004-2005,50554b5,Albacete,"1,561",17.3,6.0,0.0,58.0,1.0,3696.0,Albacete
+,Mingo,es ESP,DF,15,15,0.0,0.0,2004-2005,6fc287d5,Albacete,"1,241",13.8,5.0,0.0,58.0,1.0,,Albacete
+,Rubén Castro,es ESP,"FW,MF",22,14,0.0,3.0,2004-2005,d109f62b,Albacete,"1,169",13.0,0.0,0.0,58.0,1.0,,Albacete
+,Santi,es ESP,DF,12,12,0.0,0.0,2004-2005,98eab2b3,Albacete,"1,007",11.2,6.0,1.0,58.0,1.0,,Albacete
+,Mikel Aguirregomezkorta Larrea,es ESP,FW,29,11,0.0,0.0,2004-2005,bcfe919b,Albacete,"1,208",13.4,1.0,1.0,58.0,1.0,3708.0,Albacete
+,Horacio Peralta,uy URU,"FW,MF",12,7,0.0,0.0,2004-2005,ce94974a,Albacete,644,7.2,5.0,1.0,58.0,8.0,3723.0,Albacete
+,Agus,es ESP,"DF,FW",7,7,0.0,0.0,2004-2005,f7a542c,Albacete,630,7.0,1.0,0.0,58.0,1.0,,Albacete
+,David Sánchez,es ESP,MF,18,6,1.0,0.0,2004-2005,bb05af1a,Albacete,768,8.5,3.0,1.0,58.0,1.0,,Albacete
+,Iván Díaz Ruiz,es ESP,MF,8,3,0.0,0.0,2004-2005,7870c95,Albacete,292,3.2,1.0,0.0,58.0,1.0,3704.0,Albacete
+,Nicolás Olivera,uy URU,"FW,MF",4,1,,0.0,2004-2005,691fd00c,Albacete,123,1.4,0.0,0.0,58.0,8.0,,Albacete
+,Albert Cano López,es ESP,MF,2,1,0.0,0.0,2004-2005,07942271,Albacete,118,1.3,0.0,0.0,58.0,1.0,,Albacete
+,Carlos Alfaro Martínez,,MF,1,1,0.0,0.0,2004-2005,c78c1053,Albacete,90,1.0,0.0,0.0,58.0,,,Albacete
+,Ángel Pindado,es ESP,GK,1,1,0.0,0.0,2004-2005,6b44da65,Albacete,90,1.0,0.0,0.0,58.0,1.0,3725.0,Albacete
+,Gustavo Siviero,ar ARG,DF,1,1,0.0,0.0,2004-2005,1f67bf,Albacete,90,1.0,0.0,0.0,58.0,5.0,3698.0,Albacete
+,Pablo García,es ESP,DF,1,1,,0.0,2004-2005,d4f9919a,Albacete,75,0.8,0.0,0.0,58.0,1.0,3726.0,Albacete
+,Abass Lawal,ng NGA,"FW,MF",1,1,0.0,0.0,2004-2005,dd53d426,Albacete,55,0.6,1.0,0.0,58.0,52.0,3716.0,Albacete
+,Elías Molina,es ESP,MF,1,1,0.0,0.0,2004-2005,653cad5f,Albacete,53,0.6,0.0,0.0,58.0,1.0,3727.0,Albacete
+,Manuel Gato,es ESP,FW,2,0,,0.0,2004-2005,b137ee5,Albacete,54,0.6,0.0,0.0,58.0,1.0,3720.0,Albacete
+,Martín Nicolás Camaño,,,1,0,,0.0,2004-2005,cdff17ec,Albacete,17,0.2,0.0,0.0,58.0,,,Albacete
+,Jordi Ferrón,es ESP,DF,1,0,,0.0,2004-2005,cd37881d,Albacete,11,0.1,1.0,0.0,58.0,1.0,,Albacete
+,Pablo García,es ESP,MF,1,0,0.0,0.0,2004-2005,5d997306,Albacete,11,0.1,0.0,0.0,58.0,1.0,3728.0,Albacete
+,Ignacio Segura Carrión,es ESP,,1,0,,0.0,2004-2005,877f4c3e,Albacete,5,0.1,0.0,0.0,58.0,1.0,,Albacete
+,﻿Jordi Ferrón,es ESP,DF,33,32,3.0,1.0,2005-2006,cd37881d,Albacete,"2,687",29.9,9.0,0.0,58.0,1.0,,Albacete
+,Paco Peña,es ESP,DF,31,31,0.0,0.0,2005-2006,3b01965,Albacete,"2,754",30.6,15.0,0.0,58.0,1.0,3702.0,Albacete
+,Álvaro Rubio,es ESP,"DF,MF",36,31,0.0,0.0,2005-2006,149770b8,Albacete,"2,670",29.7,10.0,0.0,58.0,1.0,,Albacete
+,David Cañas,es ESP,DF,30,29,2.0,2.0,2005-2006,01d8b210,Albacete,"2,590",28.8,11.0,0.0,58.0,1.0,3729.0,Albacete
+,David Bauzá,es ESP,MF,34,28,1.0,2.0,2005-2006,8969dfa6,Albacete,"2,343",26.0,1.0,0.0,58.0,1.0,3730.0,Albacete
+,Mingo,es ESP,DF,28,27,2.0,0.0,2005-2006,6fc287d5,Albacete,"2,200",24.4,9.0,3.0,58.0,1.0,,Albacete
+,Líbero Parri,es ESP,MF,33,26,7.0,8.0,2005-2006,203ff743,Albacete,"2,327",25.9,5.0,0.0,58.0,1.0,3700.0,Albacete
+,Mario Bermejo,es ESP,FW,32,24,1.0,9.0,2005-2006,c8dcfee8,Albacete,"2,300",25.6,6.0,0.0,58.0,1.0,,Albacete
+,Rubén Martín,es ESP,GK,22,22,0.0,0.0,2005-2006,5ef1a55,Albacete,"1,980",22.0,1.0,0.0,58.0,1.0,3731.0,Albacete
+,Sergio Santamaría,es ESP,"FW,MF",31,19,2.0,0.0,2005-2006,4795800e,Albacete,"1,968",21.9,4.0,0.0,58.0,1.0,,Albacete
+,Ricardo Sanzol,es ESP,GK,19,19,0.0,0.0,2005-2006,1aa419de,Albacete,"1,708",19.0,5.0,1.0,58.0,1.0,,Albacete
+,Miquel Buades Crespí,es ESP,DF,19,18,0.0,1.0,2005-2006,4ef0b7d8,Albacete,"1,509",16.8,6.0,1.0,58.0,1.0,3711.0,Albacete
+,Antonio Pacheco,uy URU,"FW,MF",19,18,4.0,4.0,2005-2006,9ad93cb3,Albacete,"1,421",15.8,1.0,0.0,58.0,8.0,3713.0,Albacete
+,David Sánchez,es ESP,MF,24,17,0.0,2.0,2005-2006,bb05af1a,Albacete,"1,273",14.1,5.0,0.0,58.0,1.0,,Albacete
+,Santi,es ESP,DF,21,16,0.0,0.0,2005-2006,98eab2b3,Albacete,"1,495",16.6,8.0,2.0,58.0,1.0,,Albacete
+,Carlos Aranda,es ESP,FW,24,15,1.0,4.0,2005-2006,2b60c45d,Albacete,"1,515",16.8,2.0,0.0,58.0,1.0,,Albacete
+,Manuel Gato,es ESP,FW,25,15,1.0,4.0,2005-2006,b137ee5,Albacete,"1,461",16.2,3.0,1.0,58.0,1.0,3720.0,Albacete
+,Juanlu,es ESP,MF,17,15,1.0,3.0,2005-2006,94b88487,Albacete,"1,317",14.6,3.0,0.0,58.0,1.0,,Albacete
+,David Català,es ESP,DF,16,14,0.0,0.0,2005-2006,d54971a,Albacete,"1,310",14.6,6.0,0.0,58.0,1.0,,Albacete
+,David Pirri,es ESP,MF,17,11,1.0,0.0,2005-2006,84f523d,Albacete,937,10.4,4.0,1.0,58.0,1.0,,Albacete
+,Garrido,es ESP,DF,12,11,0.0,0.0,2005-2006,32852179,Albacete,935,10.4,4.0,0.0,58.0,1.0,,Albacete
+,Corona,es ESP,MF,13,10,0.0,2.0,2005-2006,4798bc33,Albacete,785,8.7,1.0,0.0,58.0,1.0,,Albacete
+,Rubén Reyes,es ESP,MF,4,4,0.0,0.0,2005-2006,770a119c,Albacete,233,2.6,0.0,0.0,58.0,1.0,,Albacete
+,Mikel Aguirregomezkorta Larrea,es ESP,FW,15,3,2.0,1.0,2005-2006,bcfe919b,Albacete,520,5.8,4.0,0.0,58.0,1.0,3708.0,Albacete
+,Luismi,es ESP,MF,11,3,1.0,0.0,2005-2006,315b221b,Albacete,391,4.3,2.0,0.0,58.0,1.0,,Albacete
+,Pablo García,es ESP,DF,3,2,0.0,0.0,2005-2006,d4f9919a,Albacete,225,2.5,1.0,0.0,58.0,1.0,3726.0,Albacete
+,David Galindo,,,2,1,0.0,0.0,2005-2006,,Albacete,154,1.7,0.0,0.0,58.0,,,Albacete
+,Casto,es ESP,GK,1,1,0.0,0.0,2005-2006,95b4ffb3,Albacete,90,1.0,0.0,0.0,58.0,1.0,,Albacete
+,César Cortés,cl CHI,"FW,MF",4,0,0.0,0.0,2005-2006,fb36a54a,Albacete,92,1.0,0.0,0.0,58.0,31.0,3732.0,Albacete
+,Basti,es ESP,FW,7,0,0.0,0.0,2005-2006,ff5c374b,Albacete,91,1.0,1.0,0.0,58.0,1.0,3703.0,Albacete
+,Raúl Molina,es ESP,FW,3,0,0.0,0.0,2005-2006,91419d20,Albacete,36,0.4,1.0,0.0,58.0,1.0,,Albacete
+,﻿Francisco Noguerol,es ESP,DF,40,40,0.0,0.0,2006-2007,73bdd0b1,Albacete,"3,474",38.6,6.0,1.0,58.0,1.0,,Albacete
+,Diego Alegre,es ESP,DF,33,33,2.0,0.0,2006-2007,4b2b43d5,Albacete,"2,887",32.1,7.0,1.0,58.0,1.0,3733.0,Albacete
+,Álvaro Cámara,es ESP,MF,32,32,4.0,1.0,2006-2007,d1c514a8,Albacete,"2,731",30.3,12.0,0.0,58.0,1.0,3734.0,Albacete
+,David Sánchez,es ESP,MF,36,32,6.0,1.0,2006-2007,bb05af1a,Albacete,"2,710",30.1,10.0,0.0,58.0,1.0,,Albacete
+,David Bauzá,es ESP,MF,32,26,0.0,0.0,2006-2007,8969dfa6,Albacete,"2,156",24.0,3.0,0.0,58.0,1.0,3730.0,Albacete
+,Carlos Peña,es ESP,DF,25,25,3.0,0.0,2006-2007,26a03602,Albacete,"2,228",24.8,5.0,0.0,58.0,1.0,,Albacete
+,Jordi Ferrón,es ESP,DF,32,25,5.0,1.0,2006-2007,cd37881d,Albacete,"2,151",23.9,11.0,1.0,58.0,1.0,,Albacete
+,Miquel Buades Crespí,es ESP,DF,27,22,2.0,4.0,2006-2007,4ef0b7d8,Albacete,"2,195",24.4,7.0,0.0,58.0,1.0,3711.0,Albacete
+,David Cañas,es ESP,DF,23,22,3.0,1.0,2006-2007,01d8b210,Albacete,"1,833",20.4,7.0,2.0,58.0,1.0,3729.0,Albacete
+,Raúl Valbuena,es ESP,GK,21,21,0.0,0.0,2006-2007,d711ab5a,Albacete,"1,890",21.0,1.0,0.0,58.0,1.0,,Albacete
+,Antonio Calle,es ESP,FW,21,20,2.0,11.0,2006-2007,3d3d63b9,Albacete,"1,739",19.3,7.0,0.0,58.0,1.0,,Albacete
+,Líbero Parri,es ESP,MF,22,20,5.0,8.0,2006-2007,203ff743,Albacete,"1,712",19.0,3.0,0.0,58.0,1.0,3700.0,Albacete
+,M Carlos,,,29,19,1.0,1.0,2006-2007,,Albacete,"1,718",19.1,4.0,0.0,58.0,,,Albacete
+,Hector Bueno,,,17,17,0.0,1.0,2006-2007,,Albacete,"1,505",16.7,8.0,0.0,58.0,,,Albacete
+,José Zahínos,es ESP,MF,15,15,1.0,1.0,2006-2007,6a78fdc0,Albacete,"1,212",13.5,11.0,2.0,58.0,1.0,,Albacete
+,Pablo García,es ESP,MF,20,14,0.0,3.0,2006-2007,5d997306,Albacete,"1,135",12.6,3.0,0.0,58.0,1.0,3728.0,Albacete
+,José Barkero,es ESP,MF,26,13,1.0,2.0,2006-2007,89a1b23c,Albacete,"1,294",14.4,5.0,0.0,58.0,1.0,,Albacete
+,Javi Martínez,es ESP,GK,13,13,0.0,0.0,2006-2007,9cc524a0,Albacete,"1,170",13.0,2.0,0.0,58.0,1.0,3735.0,Albacete
+,Leonardo Biagini,ar ARG,FW,24,9,4.0,6.0,2006-2007,44793331,Albacete,"1,073",11.9,2.0,0.0,58.0,5.0,,Albacete
+,Gorka Azkorra,es ESP,FW,26,9,1.0,3.0,2006-2007,b6ba90f9,Albacete,975,10.8,4.0,0.0,58.0,1.0,,Albacete
+,Manuel Gato,es ESP,FW,20,8,0.0,1.0,2006-2007,b137ee5,Albacete,900,10.0,1.0,0.0,58.0,1.0,3720.0,Albacete
+,Ricardo Sanzol,es ESP,GK,8,8,0.0,0.0,2006-2007,1aa419de,Albacete,720,8.0,0.0,0.0,58.0,1.0,,Albacete
+,Kike Tortosa,es ESP,DF,7,6,0.0,0.0,2006-2007,d517d259,Albacete,528,5.9,3.0,1.0,58.0,1.0,3736.0,Albacete
+,Santi,es ESP,DF,5,4,0.0,1.0,2006-2007,98eab2b3,Albacete,327,3.6,0.0,0.0,58.0,1.0,,Albacete
+,César Díaz,es ESP,FW,12,3,0.0,1.0,2006-2007,7717b1b5,Albacete,406,4.5,0.0,0.0,58.0,1.0,,Albacete
+,Rangel,es ESP,DF,3,3,0.0,0.0,2006-2007,8c227056,Albacete,270,3.0,1.0,0.0,58.0,1.0,3737.0,Albacete
+,César Cortés,cl CHI,"FW,MF",6,2,0.0,0.0,2006-2007,fb36a54a,Albacete,209,2.3,0.0,0.0,58.0,31.0,3732.0,Albacete
+,Candela,es ESP,MF,2,1,0.0,0.0,2006-2007,fc36e493,Albacete,133,1.5,0.0,0.0,58.0,1.0,,Albacete
+,Dani Gaíl,es ESP,FW,4,0,0.0,0.0,2006-2007,6a32312e,Albacete,66,0.7,0.0,0.0,58.0,1.0,3738.0,Albacete
+,Albert Cano López,es ESP,MF,2,0,0.0,0.0,2006-2007,07942271,Albacete,17,0.2,1.0,0.0,58.0,1.0,,Albacete
+,﻿Carlos Peña,es ESP,DF,41,41,4.0,2.0,2007-2008,26a03602,Albacete,"3,627",40.3,7.0,0.0,58.0,1.0,,Albacete
+,Francisco Noguerol,es ESP,DF,40,40,0.0,1.0,2007-2008,73bdd0b1,Albacete,"3,596",40.0,8.0,1.0,58.0,1.0,,Albacete
+,José Barkero,es ESP,MF,40,38,6.0,11.0,2007-2008,89a1b23c,Albacete,"3,191",35.5,4.0,0.0,58.0,1.0,,Albacete
+,Iker Begoña,es ESP,"DF,MF",38,38,2.0,1.0,2007-2008,32aa932,Albacete,"3,178",35.3,15.0,0.0,58.0,1.0,,Albacete
+,Fernando Morán,es ESP,MF,38,33,3.0,4.0,2007-2008,0fce6e4c,Albacete,"2,738",30.4,4.0,1.0,58.0,1.0,,Albacete
+,Diego Mainz,es ESP,DF,31,30,0.0,0.0,2007-2008,95db62b7,Albacete,"2,696",30.0,6.0,0.0,58.0,1.0,,Albacete
+,David Bauzá,es ESP,MF,31,28,0.0,2.0,2007-2008,8969dfa6,Albacete,"2,470",27.4,2.0,0.0,58.0,1.0,3730.0,Albacete
+,Pablo Calandria,ar ARG,FW,38,28,2.0,5.0,2007-2008,9c010ae8,Albacete,"2,449",27.2,1.0,0.0,58.0,5.0,3739.0,Albacete
+,Jonathan López,es ESP,GK,26,25,0.0,0.0,2007-2008,5f872f11,Albacete,"2,198",24.4,4.0,1.0,58.0,1.0,3740.0,Albacete
+,Jordi Ferrón,es ESP,DF,29,24,2.0,0.0,2007-2008,cd37881d,Albacete,"1,951",21.7,5.0,0.0,58.0,1.0,,Albacete
+,Javi Jiménez,es ESP,MF,32,21,0.0,3.0,2007-2008,f3e8d231,Albacete,"1,763",19.6,9.0,1.0,58.0,1.0,,Albacete
+,Diego Alegre,es ESP,DF,19,17,0.0,1.0,2007-2008,4b2b43d5,Albacete,"1,540",17.1,6.0,2.0,58.0,1.0,3733.0,Albacete
+,Baggio,,DF,16,15,1.0,1.0,2007-2008,812fe0ae,Albacete,"1,296",14.4,2.0,0.0,58.0,,,Albacete
+,Pablo García,es ESP,MF,22,12,2.0,2.0,2007-2008,5d997306,Albacete,"1,084",12.0,4.0,0.0,58.0,1.0,3728.0,Albacete
+,Kike Tortosa,es ESP,DF,10,10,1.0,0.0,2007-2008,d517d259,Albacete,900,10.0,2.0,0.0,58.0,1.0,3736.0,Albacete
+,Gorka Azkorra,es ESP,FW,17,10,0.0,2.0,2007-2008,b6ba90f9,Albacete,888,9.9,4.0,0.0,58.0,1.0,,Albacete
+,Javi Martínez,es ESP,GK,10,9,0.0,0.0,2007-2008,9cc524a0,Albacete,828,9.2,0.0,0.0,58.0,1.0,3735.0,Albacete
+,Matías Alustiza,mx MEX,FW,16,8,1.0,2.0,2007-2008,b88beb53,Albacete,935,10.4,4.0,1.0,58.0,20.0,3741.0,Albacete
+,Raúl Valbuena,es ESP,GK,9,8,0.0,0.0,2007-2008,d711ab5a,Albacete,749,8.3,1.0,1.0,58.0,1.0,,Albacete
+,Albert Meyong,cm CMR,FW,13,7,1.0,0.0,2007-2008,f718a9b0,Albacete,693,7.7,1.0,0.0,58.0,36.0,3742.0,Albacete
+,Pablo Gil,es ESP,DF,8,6,1.0,0.0,2007-2008,7dde0752,Albacete,505,5.6,1.0,0.0,58.0,1.0,3743.0,Albacete
+,Fran Moreno,es ESP,MF,22,5,1.0,0.0,2007-2008,12096092,Albacete,733,8.1,6.0,0.0,58.0,1.0,,Albacete
+,Albert Cano López,es ESP,MF,6,3,0.0,0.0,2007-2008,07942271,Albacete,275,3.1,1.0,0.0,58.0,1.0,,Albacete
+,César Díaz,es ESP,FW,8,1,0.0,0.0,2007-2008,7717b1b5,Albacete,258,2.9,0.0,0.0,58.0,1.0,,Albacete
+,Esteban Buján,ar ARG,MF,5,1,0.0,0.0,2007-2008,671f7d17,Albacete,141,1.6,0.0,0.0,58.0,5.0,3744.0,Albacete
+,Jeremías Caggiano,ar ARG,FW,2,1,0.0,0.0,2007-2008,d4c231fc,Albacete,103,1.1,0.0,0.0,58.0,5.0,3745.0,Albacete
+,Líbero Parri,es ESP,MF,1,1,0.0,0.0,2007-2008,203ff743,Albacete,90,1.0,0.0,0.0,58.0,1.0,3700.0,Albacete
+,Pablo Buendía,es ESP,DF,1,1,0.0,0.0,2007-2008,d9255d71,Albacete,60,0.7,0.0,0.0,58.0,1.0,3746.0,Albacete
+,Ritchie Kitoko,be BEL,MF,1,1,0.0,0.0,2007-2008,d403d81a,Albacete,45,0.5,0.0,0.0,58.0,27.0,,Albacete
+,David Cañas,es ESP,DF,7,0,0.0,0.0,2007-2008,01d8b210,Albacete,183,2.0,1.0,0.0,58.0,1.0,3729.0,Albacete
+,Álex Pérez,es ESP,MF,7,0,0.0,0.0,2007-2008,0048483c,Albacete,178,2.0,1.0,0.0,58.0,1.0,3747.0,Albacete
+,Leonardo Biagini,ar ARG,FW,1,0,0.0,0.0,2007-2008,44793331,Albacete,45,0.5,0.0,0.0,58.0,5.0,,Albacete
+,M Carlos,,,3,0,0.0,0.0,2007-2008,,Albacete,35,0.4,1.0,0.0,58.0,,,Albacete
+,﻿Carlos Peña,es ESP,DF,36,34,1.0,0.0,2008-2009,26a03602,Albacete,"3,035",33.7,10.0,1.0,58.0,1.0,,Albacete
+,Iker Begoña,es ESP,"DF,MF",35,34,1.0,2.0,2008-2009,32aa932,Albacete,"3,025",33.6,14.0,2.0,58.0,1.0,,Albacete
+,Diego Costa,es ESP,FW,35,34,4.0,10.0,2008-2009,190d597,Albacete,"2,983",33.1,13.0,2.0,58.0,1.0,,Albacete
+,Ritchie Kitoko,be BEL,MF,33,30,0.0,2.0,2008-2009,d403d81a,Albacete,"2,657",29.5,9.0,1.0,58.0,27.0,,Albacete
+,Carlos Merino,es ESP,MF,36,29,2.0,6.0,2008-2009,443c8c9a,Albacete,"2,238",24.9,6.0,1.0,58.0,1.0,,Albacete
+,Diego Trotta,ar ARG,DF,28,27,0.0,0.0,2008-2009,7ec1faf,Albacete,"2,425",26.9,12.0,3.0,58.0,5.0,,Albacete
+,Diego Mainz,es ESP,DF,27,26,0.0,1.0,2008-2009,95db62b7,Albacete,"2,354",26.2,9.0,1.0,58.0,1.0,,Albacete
+,Jaime Romero,es ESP,"FW,MF",36,25,5.0,3.0,2008-2009,28205f4,Albacete,"2,294",25.5,7.0,1.0,58.0,1.0,,Albacete
+,Alberto Aguilar,es ESP,"DF,MF",31,23,1.0,1.0,2008-2009,1627a,Albacete,"2,098",23.3,6.0,2.0,58.0,1.0,,Albacete
+,Jonathan López,es ESP,GK,22,22,0.0,0.0,2008-2009,5f872f11,Albacete,"1,908",21.2,2.0,1.0,58.0,1.0,3740.0,Albacete
+,Verza,es ESP,MF,33,21,1.0,4.0,2008-2009,f972b073,Albacete,"1,999",22.2,7.0,0.0,58.0,1.0,,Albacete
+,Jesús Cabrero,es ESP,GK,21,20,0.0,0.0,2008-2009,d5e95d46,Albacete,"1,872",20.8,0.0,0.0,58.0,1.0,,Albacete
+,Javier Tarantino,es ESP,DF,24,20,0.0,1.0,2008-2009,0bf40bdb,Albacete,"1,758",19.5,5.0,1.0,58.0,1.0,,Albacete
+,Marco Navas,es ESP,MF,31,19,3.0,1.0,2008-2009,194ed492,Albacete,"1,710",19.0,3.0,0.0,58.0,1.0,,Albacete
+,Pablo Gil,es ESP,DF,17,17,0.0,1.0,2008-2009,7dde0752,Albacete,"1,429",15.9,4.0,0.0,58.0,1.0,3743.0,Albacete
+,Kike Tortosa,es ESP,DF,19,16,0.0,0.0,2008-2009,d517d259,Albacete,"1,497",16.6,7.0,0.0,58.0,1.0,3736.0,Albacete
+,Toché,es ESP,FW,22,15,1.0,5.0,2008-2009,64e35e11,Albacete,"1,381",15.3,0.0,0.0,58.0,1.0,,Albacete
+,Ibón Gutiérrez,es ESP,MF,20,14,1.0,0.0,2008-2009,2354802e,Albacete,"1,188",13.2,3.0,0.0,58.0,1.0,,Albacete
+,Javi Jiménez,es ESP,MF,20,13,1.0,1.0,2008-2009,f3e8d231,Albacete,"1,149",12.8,7.0,0.0,58.0,1.0,,Albacete
+,Diego Alegre,es ESP,DF,8,8,0.0,0.0,2008-2009,4b2b43d5,Albacete,592,6.6,2.0,0.0,58.0,1.0,3733.0,Albacete
+,Álex Pérez,es ESP,MF,15,8,2.0,1.0,2008-2009,0048483c,Albacete,577,6.4,2.0,0.0,58.0,1.0,3747.0,Albacete
+,Juan Belencoso,es ESP,FW,20,4,1.0,1.0,2008-2009,24cc8928,Albacete,567,6.3,0.0,0.0,58.0,1.0,3748.0,Albacete
+,Jonathan Soriano,es ESP,FW,11,3,0.0,1.0,2008-2009,036fb721,Albacete,387,4.3,0.0,0.0,58.0,1.0,,Albacete
+,Alfredo Ortuño,es ESP,"DF,FW",1,0,0.0,0.0,2008-2009,b5077003,Albacete,36,0.4,0.0,0.0,58.0,1.0,,Albacete
+,Nicolás Corvetto,cl CHI,"DF,MF",3,0,0.0,0.0,2008-2009,830fd801,Albacete,33,0.4,0.0,0.0,58.0,31.0,3749.0,Albacete
+,Guillaume N'Kendo,cm CMR,FW,1,0,0.0,0.0,2008-2009,d8ce4cd2,Albacete,22,0.2,0.0,0.0,58.0,36.0,3750.0,Albacete
+,Albert Cano López,es ESP,MF,1,0,0.0,0.0,2008-2009,07942271,Albacete,18,0.2,0.0,0.0,58.0,1.0,,Albacete
+,Nico,es ESP,MF,1,0,0.0,0.0,2008-2009,d31ca300,Albacete,15,0.2,0.0,0.0,58.0,1.0,3751.0,Albacete
+,Carletes,es ESP,FW,1,0,0.0,0.0,2008-2009,4f3dbd2,Albacete,5,0.1,0.0,0.0,58.0,1.0,3764.0,Albacete
+,﻿Alberto Aguilar,es ESP,"DF,MF",38,38,5.0,2.0,2009-2010,1627a,Albacete,"3,343",37.1,13.0,2.0,58.0,1.0,,Albacete
+,Cristhian Stuani,uy URU,"FW,MF",39,38,4.0,22.0,2009-2010,220c11f1,Albacete,"3,189",35.4,8.0,1.0,58.0,8.0,,Albacete
+,Fernando Sales,es ESP,MF,35,34,3.0,5.0,2009-2010,24486536,Albacete,"2,820",31.3,4.0,0.0,58.0,1.0,,Albacete
+,Verza,es ESP,MF,34,33,1.0,2.0,2009-2010,f972b073,Albacete,"2,929",32.5,10.0,0.0,58.0,1.0,,Albacete
+,Javier Tarantino,es ESP,DF,32,32,0.0,1.0,2009-2010,0bf40bdb,Albacete,"2,846",31.6,9.0,2.0,58.0,1.0,,Albacete
+,David Sousa,es ESP,MF,35,32,4.0,3.0,2009-2010,292a8dbe,Albacete,"2,804",31.2,9.0,1.0,58.0,1.0,,Albacete
+,Kike Tortosa,es ESP,DF,32,31,0.0,0.0,2009-2010,d517d259,Albacete,"2,774",30.8,9.0,2.0,58.0,1.0,3736.0,Albacete
+,Jesús Cabrero,es ESP,GK,29,29,0.0,0.0,2009-2010,d5e95d46,Albacete,"2,548",28.3,4.0,1.0,58.0,1.0,,Albacete
+,Daniel López Ramos,es ESP,DF,27,25,0.0,0.0,2009-2010,915cea2d,Albacete,"2,220",24.7,8.0,0.0,58.0,1.0,3752.0,Albacete
+,Antonio López,es ESP,MF,25,24,5.0,5.0,2009-2010,1fdd5ff7,Albacete,"1,814",20.2,6.0,0.0,58.0,1.0,,Albacete
+,Juanmi Callejón,es ESP,MF,29,19,2.0,1.0,2009-2010,60bb7e62,Albacete,"1,686",18.7,4.0,0.0,58.0,1.0,,Albacete
+,Antonio Hidalgo,es ESP,MF,33,18,2.0,9.0,2009-2010,b5b88d6c,Albacete,"1,627",18.1,5.0,0.0,58.0,1.0,,Albacete
+,Antonio Notario,es ESP,GK,13,13,0.0,0.0,2009-2010,b49f31c5,Albacete,"1,169",13.0,3.0,1.0,58.0,1.0,,Albacete
+,Salva Ballesta,es ESP,FW,23,11,2.0,5.0,2009-2010,bd42bcb8,Albacete,"1,091",12.1,7.0,1.0,58.0,1.0,,Albacete
+,Manuel Blanco,es ESP,DF,14,9,1.0,0.0,2009-2010,3dadb16d,Albacete,858,9.5,5.0,0.0,58.0,1.0,3753.0,Albacete
+,Pablo Gil,es ESP,DF,12,9,0.0,0.0,2009-2010,7dde0752,Albacete,826,9.2,8.0,0.0,58.0,1.0,3743.0,Albacete
+,Leonel Altobelli,ar ARG,FW,26,8,2.0,0.0,2009-2010,bc4431d,Albacete,"1,025",11.4,4.0,0.0,58.0,5.0,3754.0,Albacete
+,César Ortiz,es ESP,DF,10,8,0.0,0.0,2009-2010,5e981cfc,Albacete,729,8.1,3.0,0.0,58.0,1.0,3755.0,Albacete
+,Mariano Uglessich,ar ARG,DF,9,8,0.0,0.0,2009-2010,cb5b0eea,Albacete,703,7.8,4.0,0.0,58.0,5.0,3756.0,Albacete
+,Carlos Merino,es ESP,MF,21,7,0.0,1.0,2009-2010,443c8c9a,Albacete,819,9.1,2.0,0.0,58.0,1.0,,Albacete
+,Mikel Amantegui,es ESP,DF,8,7,0.0,0.0,2009-2010,f92f842f,Albacete,672,7.5,2.0,0.0,58.0,1.0,3757.0,Albacete
+,Joe Bizera,uy URU,DF,7,7,0.0,0.0,2009-2010,c3c94c0f,Albacete,585,6.5,2.0,0.0,58.0,8.0,3758.0,Albacete
+,Miguel Núñez,,MF,12,7,1.0,2.0,2009-2010,24da7a90,Albacete,567,6.3,2.0,0.0,58.0,,,Albacete
+,Juanjo Pereira,es ESP,MF,11,6,0.0,0.0,2009-2010,f42ac8a1,Albacete,619,6.9,2.0,0.0,58.0,1.0,3759.0,Albacete
+,Juan Belencoso,es ESP,FW,14,6,0.0,1.0,2009-2010,24cc8928,Albacete,535,5.9,1.0,1.0,58.0,1.0,3748.0,Albacete
+,Javi Castellano,es ESP,"DF,MF",3,2,0.0,0.0,2009-2010,dac68523,Albacete,186,2.1,1.0,0.0,58.0,1.0,3760.0,Albacete
+,Miguel Ángel Guerrero,es ESP,"FW,MF",2,1,0.0,0.0,2009-2010,b35db3f6,Albacete,55,0.6,0.0,0.0,58.0,1.0,,Albacete
+,Guillermo Roldán,es ESP,MF,6,0,0.0,0.0,2009-2010,b18cad28,Albacete,149,1.7,1.0,0.0,58.0,1.0,3761.0,Albacete
+,Sergio Arenas,es ESP,GK,1,0,0.0,0.0,2009-2010,739f49c9,Albacete,62,0.7,0.0,0.0,58.0,1.0,3762.0,Albacete
+,Ismael Rangel León,es ESP,MF,4,0,0.0,0.0,2009-2010,76e7bdd7,Albacete,31,0.3,1.0,0.0,58.0,1.0,3763.0,Albacete
+,Carletes,es ESP,FW,1,0,0.0,0.0,2009-2010,4f3dbd2,Albacete,22,0.2,1.0,0.0,58.0,1.0,3764.0,Albacete
+,Roberto Batres,es ESP,"FW,MF",1,0,0.0,0.0,2009-2010,065b8dd2,Albacete,17,0.2,0.0,0.0,58.0,1.0,3765.0,Albacete
+,﻿Kike Tortosa,es ESP,DF,38,38,0.0,0.0,2010-2011,d517d259,Albacete,"3,368",37.4,11.0,3.0,58.0,1.0,3736.0,Albacete
+,Keylor Navas,cr CRC,GK,36,36,0.0,0.0,2010-2011,cada4fc,Albacete,"3,240",36.0,2.0,0.0,58.0,22.0,132.0,Albacete
+,Jesús Tato,es ESP,FW,37,32,2.0,13.0,2010-2011,50e2af8c,Albacete,"2,639",29.3,3.0,0.0,58.0,1.0,,Albacete
+,Verza,es ESP,MF,33,28,1.0,6.0,2010-2011,f972b073,Albacete,"2,529",28.1,12.0,0.0,58.0,1.0,,Albacete
+,José de la Cuesta,co COL,DF,27,26,0.0,1.0,2010-2011,664cac36,Albacete,"2,316",25.7,8.0,0.0,58.0,19.0,,Albacete
+,Javier Tarantino,es ESP,DF,28,26,0.0,1.0,2010-2011,0bf40bdb,Albacete,"2,203",24.5,7.0,1.0,58.0,1.0,,Albacete
+,Miguel Núñez,,MF,25,24,2.0,0.0,2010-2011,24da7a90,Albacete,"1,983",22.0,15.0,0.0,58.0,,,Albacete
+,Antonio López,es ESP,MF,31,23,4.0,0.0,2010-2011,1fdd5ff7,Albacete,"1,838",20.4,5.0,0.0,58.0,1.0,,Albacete
+,David Sousa,es ESP,MF,28,21,0.0,2.0,2010-2011,292a8dbe,Albacete,"1,897",21.1,8.0,0.0,58.0,1.0,,Albacete
+,Daniel Fragoso,es ESP,"DF,MF",22,20,1.0,0.0,2010-2011,91811cee,Albacete,"1,852",20.6,3.0,0.0,58.0,1.0,3766.0,Albacete
+,Alan Baró,es ESP,"DF,MF",24,19,0.0,0.0,2010-2011,44bdd1f9,Albacete,"1,641",18.2,8.0,1.0,58.0,1.0,,Albacete
+,Asen,es ESP,FW,18,16,1.0,4.0,2010-2011,5725f8c6,Albacete,"1,248",13.9,3.0,0.0,58.0,1.0,,Albacete
+,Toni,es ESP,DF,21,15,1.0,1.0,2010-2011,248cc93a,Albacete,"1,492",16.6,8.0,2.0,58.0,1.0,,Albacete
+,Diego Camacho,es ESP,MF,15,15,2.0,0.0,2010-2011,ba4b3cf3,Albacete,"1,242",13.8,5.0,1.0,58.0,1.0,,Albacete
+,Carlos de Lerma,es ESP,MF,26,14,0.0,0.0,2010-2011,7cb2c8a4,Albacete,"1,487",16.5,5.0,1.0,58.0,1.0,3767.0,Albacete
+,Antonio Calle,es ESP,FW,13,13,2.0,4.0,2010-2011,3d3d63b9,Albacete,"1,036",11.5,3.0,1.0,58.0,1.0,,Albacete
+,Adrià Granell,es ESP,MF,19,11,0.0,0.0,2010-2011,33257930,Albacete,"1,132",12.6,2.0,0.0,58.0,1.0,,Albacete
+,Soumaïla Konaré,ml MLI,MF,11,9,0.0,0.0,2010-2011,2488d456,Albacete,802,8.9,1.0,0.0,58.0,12.0,3768.0,Albacete
+,Walid Cherfa,dz ALG,DF,9,9,0.0,0.0,2010-2011,7a170385,Albacete,762,8.5,1.0,0.0,58.0,37.0,3769.0,Albacete
+,Iban Zubiaurre,es ESP,DF,10,8,0.0,0.0,2010-2011,be3e3e7e,Albacete,756,8.4,1.0,0.0,58.0,1.0,,Albacete
+,Ramón Blázquez,es ESP,DF,9,8,0.0,0.0,2010-2011,0efac3d0,Albacete,739,8.2,2.0,0.0,58.0,1.0,3770.0,Albacete
+,Miguel Martínez,es ESP,GK,6,6,0.0,0.0,2010-2011,29d6d13c,Albacete,540,6.0,0.0,0.0,58.0,1.0,,Albacete
+,Javier Balboa,gq EQG,"FW,MF",7,6,0.0,0.0,2010-2011,cf0dbde3,Albacete,382,4.2,0.0,0.0,58.0,10.0,48.0,Albacete
+,Cristian Fernández,ar ARG,DF,9,5,0.0,1.0,2010-2011,57c9f9c4,Albacete,513,5.7,1.0,0.0,58.0,5.0,3771.0,Albacete
+,Jorge Pina Roldán,es ESP,MF,10,5,0.0,0.0,2010-2011,c8ab4ea9,Albacete,458,5.1,1.0,0.0,58.0,1.0,,Albacete
+,Gonzalo Verdú,es ESP,DF,6,5,0.0,0.0,2010-2011,1c2c55fc,Albacete,456,5.1,1.0,0.0,58.0,1.0,3772.0,Albacete
+,Pedro,es ESP,MF,7,4,1.0,0.0,2010-2011,484acb34,Albacete,413,4.6,0.0,0.0,58.0,1.0,3773.0,Albacete
+,Vladimir Gluščević,me MNE,FW,5,4,1.0,0.0,2010-2011,88ec4c7a,Albacete,337,3.7,2.0,0.0,58.0,33.0,3774.0,Albacete
+,Franck Songo'o,cm CMR,"FW,MF",6,4,0.0,0.0,2010-2011,835c259d,Albacete,309,3.4,0.0,0.0,58.0,36.0,,Albacete
+,Alfredo Ortuño,es ESP,"DF,FW",24,3,1.0,0.0,2010-2011,b5077003,Albacete,603,6.7,1.0,0.0,58.0,1.0,,Albacete
+,Alberto Abengózar,es ESP,FW,4,3,0.0,1.0,2010-2011,806253f6,Albacete,279,3.1,0.0,0.0,58.0,1.0,3775.0,Albacete
+,Perico,es ESP,MF,2,2,0.0,0.0,2010-2011,1f38fcbc,Albacete,175,1.9,0.0,0.0,58.0,1.0,,Albacete
+,Guti,es ESP,MF,2,2,1.0,0.0,2010-2011,c58701e8,Albacete,110,1.2,0.0,0.0,58.0,1.0,3776.0,Albacete
+,Nelson Cuevas,py PAR,FW,11,1,0.0,1.0,2010-2011,c51238e5,Albacete,327,3.6,0.0,0.0,58.0,43.0,3777.0,Albacete
+,Roberto Sánchez,es ESP,MF,3,1,0.0,0.0,2010-2011,b1f5ecde,Albacete,122,1.4,0.0,0.0,58.0,1.0,3778.0,Albacete
+,Guille,es ESP,MF,3,0,0.0,0.0,2010-2011,9881a438,Albacete,71,0.8,1.0,0.0,58.0,1.0,3779.0,Albacete
+,Fran Amado,es ESP,FW,1,0,0.0,0.0,2010-2011,dd11b971,Albacete,34,0.4,0.0,0.0,58.0,1.0,3780.0,Albacete
+,﻿Portu,es ESP,"FW,MF",36,33,2.0,6.0,2014-2015,1bda5842,Albacete,"2,945",32.7,7.0,0.0,58.0,1.0,,Albacete
+,Antoñito,es ESP,"DF,MF",33,33,3.0,0.0,2014-2015,dbe519cf,Albacete,"2,828",31.4,10.0,0.0,58.0,1.0,,Albacete
+,Edu Ramos,es ESP,MF,32,31,1.0,0.0,2014-2015,6793b40,Albacete,"2,590",28.8,6.0,1.0,58.0,1.0,,Albacete
+,Keko,es ESP,"FW,MF",33,29,4.0,6.0,2014-2015,1512328c,Albacete,"2,531",28.1,3.0,0.0,58.0,1.0,,Albacete
+,Gonzalo,es ESP,DF,29,29,0.0,1.0,2014-2015,deeda5ab,Albacete,"2,473",27.5,6.0,0.0,58.0,1.0,3781.0,Albacete
+,Mario Ortiz Ruiz,es ESP,MF,31,28,0.0,0.0,2014-2015,82661dc4,Albacete,"2,506",27.8,8.0,0.0,58.0,1.0,,Albacete
+,Miguel Núñez,,MF,27,27,1.0,1.0,2014-2015,24da7a90,Albacete,"2,371",26.3,10.0,0.0,58.0,,,Albacete
+,Francisco Dorronsoro,es ESP,GK,25,25,0.0,0.0,2014-2015,d4442eb9,Albacete,"2,205",24.5,2.0,0.0,58.0,1.0,3782.0,Albacete
+,Rubén Cruz Gil,es ESP,MF,37,22,4.0,10.0,2014-2015,365d25bb,Albacete,"2,141",23.8,5.0,0.0,58.0,1.0,,Albacete
+,Javier Paredes,es ESP,DF,21,21,2.0,0.0,2014-2015,488a9ade,Albacete,"1,869",20.8,10.0,1.0,58.0,1.0,,Albacete
+,César Díaz,es ESP,FW,33,20,1.0,6.0,2014-2015,7717b1b5,Albacete,"1,850",20.6,4.0,0.0,58.0,1.0,,Albacete
+,Jorge Pulido,es ESP,DF,19,19,0.0,3.0,2014-2015,978cd030,Albacete,"1,710",19.0,5.0,0.0,58.0,1.0,,Albacete
+,Jorge Diaz,uy URU,"FW,MF",32,18,0.0,5.0,2014-2015,d3248912,Albacete,"1,750",19.4,5.0,0.0,58.0,8.0,,Albacete
+,Samu Delgado,es ESP,MF,34,18,5.0,4.0,2014-2015,3b233353,Albacete,"1,682",18.7,5.0,0.0,58.0,1.0,3783.0,Albacete
+,Diego Benito Rey,es ESP,MF,17,14,0.0,0.0,2014-2015,049c2adb,Albacete,"1,083",12.0,1.0,0.0,58.0,1.0,,Albacete
+,Chumbi,,,33,13,0.0,6.0,2014-2015,0119a54c,Albacete,"1,401",15.6,3.0,0.0,58.0,,,Albacete
+,Francisco Noguerol,es ESP,DF,12,12,0.0,0.0,2014-2015,73bdd0b1,Albacete,"1,035",11.5,4.0,0.0,58.0,1.0,,Albacete
+,Sergio Cidoncha,es ESP,MF,27,11,5.0,3.0,2014-2015,05837e63,Albacete,"1,168",13.0,2.0,0.0,58.0,1.0,,Albacete
+,Carlos Moreno,es ESP,DF,14,10,0.0,0.0,2014-2015,beae2a31,Albacete,984,10.9,2.0,0.0,58.0,1.0,3784.0,Albacete
+,Alberto Domínguez,es ESP,GK,10,10,0.0,0.0,2014-2015,c5ada735,Albacete,900,10.0,0.0,0.0,58.0,1.0,3785.0,Albacete
+,Thierry Moutinho,pt POR,MF,16,7,1.0,2.0,2014-2015,8e928063,Albacete,699,7.8,1.0,0.0,58.0,3.0,,Albacete
+,Diego Rivas Rego,es ESP,GK,8,7,0.0,0.0,2014-2015,c3a6fb7d,Albacete,675,7.5,0.0,0.0,58.0,1.0,3786.0,Albacete
+,José Rojas,es ESP,DF,6,6,0.0,0.0,2014-2015,5854c775,Albacete,522,5.8,3.0,0.0,58.0,1.0,3787.0,Albacete
+,Fran García,es ESP,DF,6,6,0.0,0.0,2014-2015,5616927,Albacete,447,5.0,2.0,1.0,58.0,1.0,3788.0,Albacete
+,Pol Bueso,es ESP,DF,7,5,0.0,0.0,2014-2015,7fd2c75e,Albacete,534,5.9,0.0,0.0,58.0,1.0,3789.0,Albacete
+,Carlos Indiano,es ESP,MF,6,4,0.0,0.0,2014-2015,521c811e,Albacete,255,2.8,2.0,0.0,58.0,1.0,3790.0,Albacete
+,Juanra,es ESP,DF,3,3,0.0,0.0,2014-2015,883c7798,Albacete,270,3.0,1.0,0.0,58.0,1.0,3791.0,Albacete
+,Manuel Miquel,es ESP,MF,1,1,0.0,0.0,2014-2015,97e5daab,Albacete,90,1.0,0.0,0.0,58.0,1.0,3792.0,Albacete
+,José Manuel Ruiz Carrasco,es ESP,MF,0,0,,,2014-2015,84aa61bf,Albacete,,,,,58.0,1.0,3793.0,Albacete
+,Chumbi,es ESP,FW,0,0,,,2014-2015,c903501,Albacete,,,,,58.0,1.0,3794.0,Albacete
+,Iván Cifuentes,es ESP,FW,0,0,,,2014-2015,5448d40e,Albacete,,,,,58.0,1.0,3795.0,Albacete
+,Miguel Núñez,es ESP,MF,0,0,,,2014-2015,6c70f2f,Albacete,,,,,58.0,1.0,,Albacete
+,Héctor Pizana,es ESP,GK,0,0,,,2014-2015,75e2b34a,Albacete,,,,,58.0,1.0,3796.0,Albacete
+,﻿Portu,es ESP,"FW,MF",39,38,2.0,6.0,2015-2016,1bda5842,Albacete,"3,421",38.0,10.0,0.0,58.0,1.0,,Albacete
+,Javier Paredes,es ESP,DF,37,37,1.0,3.0,2015-2016,488a9ade,Albacete,"3,301",36.7,16.0,1.0,58.0,1.0,,Albacete
+,Juan Carlos,es ESP,GK,34,34,0.0,0.0,2015-2016,bc5adc98,Albacete,"3,060",34.0,4.0,0.0,58.0,1.0,,Albacete
+,Antoñito,es ESP,"DF,MF",35,33,2.0,1.0,2015-2016,dbe519cf,Albacete,"2,865",31.8,8.0,1.0,58.0,1.0,,Albacete
+,Miguel Núñez,,MF,31,30,0.0,0.0,2015-2016,24da7a90,Albacete,"2,371",26.3,14.0,2.0,58.0,,,Albacete
+,Edu Ramos,es ESP,MF,27,26,0.0,1.0,2015-2016,6793b40,Albacete,"2,197",24.4,9.0,0.0,58.0,1.0,,Albacete
+,Jorge Pulido,es ESP,DF,27,25,0.0,4.0,2015-2016,978cd030,Albacete,"2,167",24.1,8.0,0.0,58.0,1.0,,Albacete
+,Mario Ortiz Ruiz,es ESP,MF,26,22,0.0,0.0,2015-2016,82661dc4,Albacete,"1,928",21.4,11.0,1.0,58.0,1.0,,Albacete
+,Jona,hn HON,FW,29,22,2.0,5.0,2015-2016,840dd8a7,Albacete,"1,875",20.8,1.0,0.0,58.0,107.0,3797.0,Albacete
+,Gonzalo,es ESP,DF,22,21,1.0,0.0,2015-2016,deeda5ab,Albacete,"1,799",20.0,5.0,0.0,58.0,1.0,3781.0,Albacete
+,Samu Delgado,es ESP,MF,27,18,1.0,2.0,2015-2016,3b233353,Albacete,"1,689",18.8,5.0,0.0,58.0,1.0,3783.0,Albacete
+,Rubén Cruz Gil,es ESP,MF,32,17,2.0,7.0,2015-2016,365d25bb,Albacete,"1,907",21.2,5.0,0.0,58.0,1.0,,Albacete
+,César Díaz,es ESP,FW,35,17,1.0,2.0,2015-2016,7717b1b5,Albacete,"1,719",19.1,6.0,0.0,58.0,1.0,,Albacete
+,Santi Jara,es ESP,"FW,MF",24,15,2.0,0.0,2015-2016,40a78f59,Albacete,"1,431",15.9,3.0,0.0,58.0,1.0,3798.0,Albacete
+,David Córcoles,es ESP,DF,16,14,0.0,0.0,2015-2016,929ea912,Albacete,"1,272",14.1,7.0,0.0,58.0,1.0,,Albacete
+,Adrián Gómez,es ESP,MF,16,14,0.0,1.0,2015-2016,f6d94b97,Albacete,"1,230",13.7,1.0,0.0,58.0,1.0,3799.0,Albacete
+,Adrià Carmona,es ESP,"FW,MF",22,14,2.0,1.0,2015-2016,9e95dc9e,Albacete,"1,060",11.8,5.0,0.0,58.0,1.0,,Albacete
+,Diego Benito Rey,es ESP,MF,22,12,1.0,0.0,2015-2016,049c2adb,Albacete,"1,130",12.6,6.0,0.0,58.0,1.0,,Albacete
+,Víctor Curto,es ESP,FW,15,9,3.0,2.0,2015-2016,83cd8962,Albacete,887,9.9,4.0,0.0,58.0,1.0,3800.0,Albacete
+,Fede Vico,es ESP,MF,13,9,1.0,1.0,2015-2016,f681a8ef,Albacete,714,7.9,2.0,0.0,58.0,1.0,3801.0,Albacete
+,Jason Davidson,au AUS,"DF,MF",20,8,1.0,2.0,2015-2016,46bcd68d,Albacete,800,8.9,3.0,1.0,58.0,42.0,3802.0,Albacete
+,Fran García,es ESP,DF,9,8,0.0,0.0,2015-2016,5616927,Albacete,737,8.2,1.0,0.0,58.0,1.0,3788.0,Albacete
+,Agus,es ESP,"DF,FW",9,8,0.0,0.0,2015-2016,f7a542c,Albacete,671,7.5,1.0,0.0,58.0,1.0,,Albacete
+,Francisco Dorronsoro,es ESP,GK,3,3,0.0,0.0,2015-2016,d4442eb9,Albacete,270,3.0,0.0,0.0,58.0,1.0,3782.0,Albacete
+,Dani Mallo,es ESP,GK,3,3,0.0,0.0,2015-2016,c965e3d0,Albacete,270,3.0,0.0,0.0,58.0,1.0,,Albacete
+,Sergio Cidoncha,es ESP,MF,6,2,1.0,0.0,2015-2016,05837e63,Albacete,230,2.6,1.0,0.0,58.0,1.0,,Albacete
+,Hugo Eyre,es ESP,GK,2,1,0.0,0.0,2015-2016,4271ace2,Albacete,145,1.6,0.0,0.0,58.0,1.0,3803.0,Albacete
+,Manuel Miquel,es ESP,MF,2,1,0.0,0.0,2015-2016,97e5daab,Albacete,72,0.8,0.0,0.0,58.0,1.0,3792.0,Albacete
+,Héctor Pizana,es ESP,GK,1,1,0.0,0.0,2015-2016,75e2b34a,Albacete,33,0.4,0.0,1.0,58.0,1.0,3796.0,Albacete
+,Iván Cifuentes,es ESP,FW,1,0,0.0,0.0,2015-2016,5448d40e,Albacete,45,0.5,0.0,0.0,58.0,1.0,3795.0,Albacete
+,Jose Carrasco,,,2,0,0.0,0.0,2015-2016,,Albacete,39,0.4,0.0,0.0,58.0,,,Albacete
+,José Manuel Ruiz Carrasco,es ESP,MF,0,0,,,2015-2016,84aa61bf,Albacete,,,,,58.0,1.0,3793.0,Albacete
+,Alberto Domínguez,es ESP,GK,0,0,,,2015-2016,c5ada735,Albacete,,,,,58.0,1.0,3785.0,Albacete
+,Jason,es ESP,"FW,MF",0,0,,,2015-2016,9038c2a1,Albacete,,,,,58.0,1.0,,Albacete
+,Lado Mokhevishvili,ge GEO,MF,0,0,,,2015-2016,8dd5e86f,Albacete,,,,,58.0,76.0,3813.0,Albacete
+,Neuton,br BRA,DF,0,0,,,2015-2016,274e3e73,Albacete,,,,,58.0,2.0,3804.0,Albacete
+,Miguel Núñez,es ESP,MF,0,0,,,2015-2016,6c70f2f,Albacete,,,,,58.0,1.0,,Albacete
+,﻿Álvaro Arroyo,es ESP,DF,3,3,0.0,0.0,2016-2017,b2fa39c5,Albacete,300.0,3.3,0.0,0.0,58.0,1.0,3805.0,Albacete
+,Mickaël Gaffoor,fr FRA,DF,3,3,0.0,0.0,2016-2017,7ab63f1e,Albacete,300.0,3.3,1.0,0.0,58.0,4.0,3806.0,Albacete
+,Héctor Pizana,es ESP,GK,3,3,0.0,0.0,2016-2017,75e2b34a,Albacete,300.0,3.3,0.0,0.0,58.0,1.0,3796.0,Albacete
+,Dani Rodríguez,es ESP,"FW,MF",3,2,0.0,0.0,2016-2017,70f8e0bd,Albacete,247.0,2.7,2.0,0.0,58.0,1.0,,Albacete
+,Fran Carnicer,es ESP,MF,3,2,0.0,0.0,2016-2017,2888a995,Albacete,206.0,2.3,2.0,0.0,58.0,1.0,3807.0,Albacete
+,Eloy Gila,es ESP,FW,3,2,0.0,0.0,2016-2017,d41067ce,Albacete,197.0,2.2,0.0,0.0,58.0,1.0,3808.0,Albacete
+,Diego Manzano,es ESP,MF,2,2,0.0,0.0,2016-2017,59560ddf,Albacete,180.0,2.0,1.0,0.0,58.0,1.0,3809.0,Albacete
+,Marc Rovirola,es ESP,MF,2,2,0.0,0.0,2016-2017,38d28d92,Albacete,180.0,2.0,2.0,0.0,58.0,1.0,3810.0,Albacete
+,Héctor,es ESP,"DF,FW",2,2,0.0,0.0,2016-2017,6294bc9d,Albacete,168.0,1.9,0.0,0.0,58.0,1.0,,Albacete
+,Aridane,es ESP,FW,2,2,0.0,1.0,2016-2017,3e601a74,Albacete,159.0,1.8,1.0,0.0,58.0,1.0,3811.0,Albacete
+,Rafa Gálvez,es ESP,"DF,MF",2,2,0.0,0.0,2016-2017,445ca2c1,Albacete,159.0,1.8,1.0,0.0,58.0,1.0,3812.0,Albacete
+,Lado Mokhevishvili,ge GEO,MF,2,2,0.0,0.0,2016-2017,8dd5e86f,Albacete,147.0,1.6,0.0,0.0,58.0,76.0,3813.0,Albacete
+,Cristian Galas,es ESP,DF,3,1,0.0,0.0,2016-2017,7021b9ca,Albacete,185.0,2.1,1.0,0.0,58.0,1.0,3814.0,Albacete
+,Isaac Aketxe,es ESP,"FW,MF",2,1,0.0,2.0,2016-2017,2085323,Albacete,141.0,1.6,1.0,0.0,58.0,1.0,,Albacete
+,Josan,es ESP,"DF,MF",3,1,0.0,0.0,2016-2017,5b28b2f6,Albacete,112.0,1.2,0.0,0.0,58.0,1.0,3815.0,Albacete
+,Ángel Moreno,es ESP,DF,1,1,0.0,0.0,2016-2017,508e94d2,Albacete,76.0,0.8,0.0,0.0,58.0,1.0,3816.0,Albacete
+,José Fran,es ESP,MF,1,1,0.0,1.0,2016-2017,9da2a2b2,Albacete,64.0,0.7,0.0,0.0,58.0,1.0,3817.0,Albacete
+,Carlos Delgado,es ESP,DF,1,1,0.0,0.0,2016-2017,294afef4,Albacete,57.0,0.6,2.0,1.0,58.0,1.0,,Albacete
+,Adrián Gómez,es ESP,MF,1,0,0.0,0.0,2016-2017,f6d94b97,Albacete,59.0,0.7,0.0,0.0,58.0,1.0,3799.0,Albacete
+,Jesús Cabañas,es ESP,MF,0,0,,,2016-2017,09fe803,Albacete,,,,,58.0,1.0,3818.0,Albacete
+,Eneko Eizmendi,es ESP,MF,0,0,,,2016-2017,6858ade9,Albacete,,,,,58.0,1.0,3819.0,Albacete
+,Tomeu Nadal,es ESP,GK,0,0,,,2016-2017,37452c75,Albacete,,,,,58.0,1.0,,Albacete
+,﻿Tomeu Nadal,es ESP,GK,40,40,0.0,0.0,2017-2018,37452c75,Albacete,"3,600",40.0,2.0,0.0,58.0,1.0,,Albacete
+,Dani Rodríguez,es ESP,MF,38,36,4.0,6.0,2017-2018,70f8e0bd,Albacete,"3,135",34.8,14.0,0.0,58.0,1.0,,Albacete
+,Álvaro Arroyo,es ESP,"DF,MF",36,34,2.0,0.0,2017-2018,b2fa39c5,Albacete,"3,037",33.7,5.0,2.0,58.0,1.0,3805.0,Albacete
+,Jon Erice,es ESP,MF,37,33,3.0,1.0,2017-2018,39da8b1f,Albacete,"3,027",33.6,10.0,0.0,58.0,1.0,,Albacete
+,Mickaël Gaffoor,fr FRA,DF,36,33,0.0,1.0,2017-2018,7ab63f1e,Albacete,"2,907",32.3,8.0,0.0,58.0,4.0,3806.0,Albacete
+,Chus Herrero,es ESP,DF,30,30,2.0,0.0,2017-2018,c34a4f0,Albacete,"2,545",28.3,10.0,0.0,58.0,1.0,,Albacete
+,Esteban Saveljich,me MNE,DF,29,29,0.0,0.0,2017-2018,79f2a5f5,Albacete,"2,545",28.3,7.0,2.0,58.0,33.0,,Albacete
+,Roman Zozulya,ua UKR,FW,30,27,2.0,9.0,2017-2018,cc862ec7,Albacete,"2,289",25.4,10.0,0.0,58.0,29.0,,Albacete
+,Néstor Susaeta,es ESP,MF,30,27,4.0,1.0,2017-2018,ff0c8ca6,Albacete,"2,019",22.4,1.0,0.0,58.0,1.0,,Albacete
+,Mariano Bíttolo,ar ARG,"DF,MF",27,25,1.0,0.0,2017-2018,61120693,Albacete,"2,158",24.0,11.0,0.0,58.0,5.0,3820.0,Albacete
+,Jérémie Bela,ao ANG,FW,33,23,0.0,5.0,2017-2018,5680bf3f,Albacete,"2,051",22.8,4.0,0.0,58.0,48.0,3821.0,Albacete
+,David Morillas,es ESP,"DF,MF",26,17,1.0,0.0,2017-2018,9605a60a,Albacete,"1,670",18.6,2.0,0.0,58.0,1.0,3822.0,Albacete
+,Rafa Gálvez,es ESP,MF,20,17,1.0,0.0,2017-2018,445ca2c1,Albacete,"1,490",16.6,4.0,0.0,58.0,1.0,3812.0,Albacete
+,César de la Hoz,es ESP,MF,33,15,0.0,4.0,2017-2018,60abea75,Albacete,"1,705",18.9,6.0,0.0,58.0,1.0,,Albacete
+,Carlos Delgado,es ESP,DF,17,14,0.0,0.0,2017-2018,294afef4,Albacete,"1,291",14.3,5.0,0.0,58.0,1.0,,Albacete
+,Aridane,es ESP,FW,26,13,2.0,3.0,2017-2018,3e601a74,Albacete,"1,188",13.2,6.0,0.0,58.0,1.0,3811.0,Albacete
+,Nicolás Gorosito,ar ARG,DF,13,12,0.0,0.0,2017-2018,073db7e5,Albacete,"1,041",11.6,2.0,0.0,58.0,5.0,3823.0,Albacete
+,Héctor,es ESP,"FW,MF",16,8,0.0,2.0,2017-2018,6294bc9d,Albacete,603,6.7,2.0,0.0,58.0,1.0,,Albacete
+,Cifu,es ESP,"DF,MF",9,6,0.0,0.0,2017-2018,90f83973,Albacete,618,6.9,1.0,0.0,58.0,1.0,,Albacete
+,Fabián Espíndola,ar ARG,"FW,MF",12,6,0.0,0.0,2017-2018,201b194a,Albacete,515,5.7,1.0,0.0,58.0,5.0,3824.0,Albacete
+,Nili,es ESP,"DF,MF",9,5,0.0,1.0,2017-2018,6f1cce9a,Albacete,499,5.5,4.0,0.0,58.0,1.0,,Albacete
+,Josan,es ESP,MF,4,3,0.0,0.0,2017-2018,5b28b2f6,Albacete,235,2.6,0.0,0.0,58.0,1.0,3815.0,Albacete
+,Danny Carvajal,cr CRC,GK,2,2,0.0,0.0,2017-2018,b97a55c5,Albacete,180,2.0,1.0,0.0,58.0,22.0,3825.0,Albacete
+,Pelayo,es ESP,MF,2,2,0.0,0.0,2017-2018,bdda8ebd,Albacete,135,1.5,1.0,0.0,58.0,1.0,3826.0,Albacete
+,Javier Acuña,py PAR,FW,16,1,0.0,1.0,2017-2018,993ff7aa,Albacete,449,5.0,2.0,0.0,58.0,43.0,,Albacete
+,Quim Araujo,es ESP,MF,7,1,0.0,1.0,2017-2018,1ba60662,Albacete,194,2.2,0.0,0.0,58.0,1.0,3827.0,Albacete
+,Ángel Moreno,es ESP,DF,3,1,0.0,0.0,2017-2018,508e94d2,Albacete,143,1.6,1.0,0.0,58.0,1.0,3816.0,Albacete
+,José Fran,es ESP,FW,3,1,0.0,0.0,2017-2018,9da2a2b2,Albacete,111,1.2,1.0,0.0,58.0,1.0,3817.0,Albacete
+,Álvaro Gómez,es ESP,FW,1,1,0.0,0.0,2017-2018,5d31d742,Albacete,63,0.7,0.0,0.0,58.0,1.0,3828.0,Albacete
+,Adrián Gómez,es ESP,MF,1,0,0.0,0.0,2017-2018,f6d94b97,Albacete,45,0.5,0.0,0.0,58.0,1.0,3799.0,Albacete
+,Javi Forján,es ESP,FW,1,0,0.0,0.0,2017-2018,d95171ce,Albacete,12,0.1,0.0,0.0,58.0,1.0,3829.0,Albacete
+,Alfon,es ESP,FW,0,0,,,2017-2018,1c772b46,Albacete,,,,,58.0,1.0,,Albacete
+,Hugo Eyre,es ESP,GK,0,0,,,2017-2018,4271ace2,Albacete,,,,,58.0,1.0,3803.0,Albacete
+,Álvaro García,es ESP,DF,0,0,,,2017-2018,11184fa7,Albacete,,,,,58.0,1.0,,Albacete
+,Eloy Gila,es ESP,FW,0,0,,,2017-2018,d41067ce,Albacete,,,,,58.0,1.0,3808.0,Albacete
+,Godino,es ESP,GK,0,0,,,2017-2018,44b7a60,Albacete,,,,,58.0,1.0,3830.0,Albacete
+,Rubén Miño,es ESP,GK,0,0,,,2017-2018,60afe7a3,Albacete,,,,,58.0,1.0,,Albacete
+,﻿Tomeu Nadal,es ESP,GK,39,39,0.0,0.0,2018-2019,37452c75,Albacete,"3,510",39.0,1.0,0.0,58.0,1.0,,Albacete
+,Álvaro Tejero,es ESP,DF,38,38,10.0,1.0,2018-2019,868ce848,Albacete,"3,419",38.0,8.0,0.0,58.0,1.0,141.0,Albacete
+,Aleix Febas,es ESP,MF,38,38,2.0,3.0,2018-2019,38126309,Albacete,"3,149",35.0,8.0,0.0,58.0,1.0,,Albacete
+,Álvaro Arroyo,es ESP,DF,35,35,1.0,0.0,2018-2019,b2fa39c5,Albacete,"3,071",34.1,7.0,1.0,58.0,1.0,3805.0,Albacete
+,Roman Zozulya,ua UKR,FW,35,35,2.0,11.0,2018-2019,cc862ec7,Albacete,"2,992",33.2,8.0,3.0,58.0,29.0,,Albacete
+,Eugeni Valderrama,es ESP,MF,33,30,4.0,8.0,2018-2019,75b4071,Albacete,"2,328",25.9,5.0,0.0,58.0,1.0,,Albacete
+,Jérémie Bela,ao ANG,"MF,FW",34,29,2.0,11.0,2018-2019,5680bf3f,Albacete,"2,582",28.7,6.0,1.0,58.0,48.0,3821.0,Albacete
+,Santiago Gentiletti,ar ARG,DF,29,27,0.0,0.0,2018-2019,4ac07e1b,Albacete,"2,437",27.1,9.0,0.0,58.0,5.0,3831.0,Albacete
+,Néstor Susaeta,es ESP,MF,35,26,8.0,1.0,2018-2019,ff0c8ca6,Albacete,"2,333",25.9,5.0,0.0,58.0,1.0,,Albacete
+,Fran García,es ESP,DF,22,20,3.0,0.0,2018-2019,5616927,Albacete,"1,782",19.8,6.0,1.0,58.0,1.0,3788.0,Albacete
+,Jon Erice,es ESP,MF,18,18,1.0,0.0,2018-2019,39da8b1f,Albacete,"1,586",17.6,3.0,0.0,58.0,1.0,,Albacete
+,Daniel Torres,co COL,MF,16,16,0.0,0.0,2018-2019,87882adc,Albacete,"1,414",15.7,7.0,1.0,58.0,19.0,,Albacete
+,Mathías Olivera,uy URU,DF,15,14,0.0,1.0,2018-2019,41c12f75,Albacete,"1,269",14.1,1.0,0.0,58.0,8.0,3832.0,Albacete
+,José Antonio Caro,es ESP,DF,17,14,0.0,2.0,2018-2019,02e4da70,Albacete,"1,243",13.8,2.0,1.0,58.0,1.0,,Albacete
+,Rey Manaj,al ALB,FW,27,14,0.0,6.0,2018-2019,7703afb6,Albacete,"1,113",12.4,4.0,0.0,58.0,78.0,,Albacete
+,Javier Acuña,py PAR,"FW,MF",31,13,1.0,4.0,2018-2019,993ff7aa,Albacete,"1,212",13.5,7.0,0.0,58.0,43.0,,Albacete
+,Álvaro Peña,es ESP,MF,17,9,1.0,0.0,2018-2019,c5456acc,Albacete,838,9.3,1.0,0.0,58.0,1.0,,Albacete
+,Borja Herrera,es ESP,DF,9,7,0.0,0.0,2018-2019,4f6d9bcd,Albacete,635,7.1,3.0,0.0,58.0,1.0,,Albacete
+,Alfredo Ortuño,es ESP,FW,15,6,0.0,1.0,2018-2019,b5077003,Albacete,643,7.1,0.0,0.0,58.0,1.0,,Albacete
+,Nicolás Gorosito,ar ARG,DF,10,6,0.0,0.0,2018-2019,073db7e5,Albacete,469,5.2,1.0,0.0,58.0,5.0,3823.0,Albacete
+,Mickael Malsa,mq MTQ,MF,30,5,0.0,0.0,2018-2019,bbc19252,Albacete,962,10.7,5.0,0.0,58.0,104.0,3833.0,Albacete
+,Barri,es ESP,MF,14,5,0.0,0.0,2018-2019,9704b62b,Albacete,587,6.5,3.0,0.0,58.0,1.0,3834.0,Albacete
+,Ángel Moreno,es ESP,DF,3,2,0.0,0.0,2018-2019,508e94d2,Albacete,255,2.8,3.0,0.0,58.0,1.0,3816.0,Albacete
+,Churripi,es ESP,GK,2,2,0.0,0.0,2018-2019,81a606fc,Albacete,180,2.0,1.0,0.0,58.0,1.0,,Albacete
+,Chus Herrero,es ESP,DF,2,1,0.0,0.0,2018-2019,c34a4f0,Albacete,104,1.2,0.0,0.0,58.0,1.0,,Albacete
+,Miguel Ángel,es ESP,FW,2,1,0.0,0.0,2018-2019,24b66747,Albacete,95,1.1,0.0,0.0,58.0,1.0,3835.0,Albacete
+,Sulley Muntari,gh GHA,MF,2,1,1.0,0.0,2018-2019,185aa52,Albacete,70,0.8,1.0,0.0,58.0,17.0,,Albacete
+,Ballou Tabla,ca CAN,MF,2,0,0.0,0.0,2018-2019,018bd079,Albacete,38,0.4,0.0,0.0,58.0,44.0,3836.0,Albacete
+,Juan Boselli,uy URU,FW,1,0,0.0,0.0,2018-2019,6195d416,Albacete,31,0.3,0.0,0.0,58.0,8.0,3837.0,Albacete
+,Jean Sepp Mvondo,cm CMR,MF,2,0,0.0,0.0,2018-2019,7d04809f,Albacete,30,0.3,0.0,0.0,58.0,36.0,3838.0,Albacete
+,Paulo Vitor,br BRA,FW,1,0,0.0,0.0,2018-2019,3ace4e2d,Albacete,16,0.2,0.0,0.0,58.0,2.0,3839.0,Albacete
+,Dani García,es ESP,MF,0,0,,,2018-2019,db8a5ee6,Albacete,,,,,58.0,1.0,3840.0,Albacete
+,Lado Mokhevishvili,ge GEO,MF,0,0,,,2018-2019,8dd5e86f,Albacete,,,,,58.0,76.0,3813.0,Albacete
+,Dario Ramos,es ESP,GK,0,0,,,2018-2019,d2f94ed9,Albacete,,,,,58.0,1.0,3841.0,Albacete
+,﻿Álvaro Arroyo,es ESP,DF,39,37,0.0,0.0,2019-2020,b2fa39c5,Albacete,"3,439",38.2,7.0,0.0,58.0,1.0,3805.0,Albacete
+,Tomeu Nadal,es ESP,GK,37,37,0.0,0.0,2019-2020,37452c75,Albacete,"3,330",37.0,4.0,0.0,58.0,1.0,,Albacete
+,Roman Zozulya,ua UKR,FW,38,35,2.0,4.0,2019-2020,cc862ec7,Albacete,"3,166",35.2,10.0,0.0,58.0,29.0,,Albacete
+,Alberto Benito,es ESP,DF,34,32,0.0,0.0,2019-2020,b8779803,Albacete,"2,858",31.8,6.0,0.0,58.0,1.0,,Albacete
+,Fran García,es ESP,DF,31,31,1.0,0.0,2019-2020,5616927,Albacete,"2,708",30.1,7.0,1.0,58.0,1.0,3788.0,Albacete
+,Pedro,es ESP,"MF,DF",35,30,6.0,4.0,2019-2020,b642c79,Albacete,"2,704",30.0,11.0,0.0,58.0,1.0,,Albacete
+,Dani Ojeda,es ESP,MF,35,28,0.0,8.0,2019-2020,375a669e,Albacete,"2,155",23.9,4.0,0.0,58.0,1.0,3842.0,Albacete
+,Ivan Kecojević,me MNE,DF,27,23,0.0,0.0,2019-2020,83e49f90,Albacete,"2,088",23.2,11.0,0.0,58.0,33.0,3843.0,Albacete
+,Eddy Silvestre,az AZE,MF,29,22,0.0,1.0,2019-2020,15ac2dc2,Albacete,"1,941",21.6,10.0,1.0,58.0,108.0,3844.0,Albacete
+,Karim Azamoum,fr FRA,MF,28,20,0.0,0.0,2019-2020,f71a5e,Albacete,"1,746",19.4,10.0,0.0,58.0,4.0,3845.0,Albacete
+,José Antonio Caro,es ESP,DF,22,19,0.0,0.0,2019-2020,02e4da70,Albacete,"1,727",19.2,5.0,0.0,58.0,1.0,,Albacete
+,Manuel Fuster,es ESP,"FW,MF",31,19,4.0,4.0,2019-2020,618f396a,Albacete,"1,615",17.9,4.0,1.0,58.0,1.0,3846.0,Albacete
+,Álvaro Jiménez,es ESP,MF,26,17,1.0,2.0,2019-2020,5f5501ed,Albacete,"1,439",16.0,6.0,0.0,58.0,1.0,3856.0,Albacete
+,Barri,es ESP,MF,24,15,1.0,0.0,2019-2020,9704b62b,Albacete,"1,346",15.0,6.0,0.0,58.0,1.0,3834.0,Albacete
+,Néstor Susaeta,es ESP,MF,27,14,1.0,3.0,2019-2020,ff0c8ca6,Albacete,"1,352",15.0,4.0,0.0,58.0,1.0,,Albacete
+,Jon Erice,es ESP,MF,15,13,0.0,0.0,2019-2020,39da8b1f,Albacete,"1,064",11.8,3.0,0.0,58.0,1.0,,Albacete
+,Javier Acuña,py PAR,"FW,MF",32,12,1.0,2.0,2019-2020,993ff7aa,Albacete,"1,202",13.4,5.0,0.0,58.0,43.0,,Albacete
+,Maikel Mesa,es ESP,MF,14,9,0.0,3.0,2019-2020,2afb7b21,Albacete,938,10.4,7.0,0.0,58.0,1.0,,Albacete
+,Diego Caballo Alonso,es ESP,DF,14,9,0.0,0.0,2019-2020,2f4848f5,Albacete,888,9.9,0.0,1.0,58.0,1.0,,Albacete
+,Roberto Olabe del Arco,es ESP,MF,16,9,0.0,0.0,2019-2020,b91883b7,Albacete,803,8.9,9.0,1.0,58.0,1.0,,Albacete
+,Chema Núñez,es ESP,"FW,MF",12,8,2.0,0.0,2019-2020,5b1ec540,Albacete,704,7.8,2.0,0.0,58.0,1.0,3847.0,Albacete
+,Nicolás Gorosito,ar ARG,DF,8,8,1.0,1.0,2019-2020,073db7e5,Albacete,601,6.7,1.0,0.0,58.0,5.0,3823.0,Albacete
+,Gabriel Brazão,br BRA,GK,5,5,0.0,0.0,2019-2020,18c697e8,Albacete,450,5.0,0.0,0.0,58.0,2.0,3848.0,Albacete
+,Rey Manaj,al ALB,FW,10,4,0.0,3.0,2019-2020,7703afb6,Albacete,515,5.7,4.0,0.0,58.0,78.0,,Albacete
+,Leonardo Capezzi,it ITA,MF,7,4,0.0,0.0,2019-2020,07ea0ef2,Albacete,381,4.2,3.0,0.0,58.0,9.0,3849.0,Albacete
+,Sergio Sánchez,es ESP,DF,1,1,0.0,0.0,2019-2020,83a83b0a,Albacete,90,1.0,1.0,0.0,58.0,1.0,,Albacete
+,Robert Ergas,uy URU,DF,1,1,0.0,0.0,2019-2020,b7cdda99,Albacete,45,0.5,0.0,0.0,58.0,8.0,3850.0,Albacete
+,Miguel Ángel,es ESP,FW,4,0,0.0,0.0,2019-2020,24b66747,Albacete,69,0.8,0.0,0.0,58.0,1.0,3835.0,Albacete
+,David Querol,es ESP,"FW,MF",2,0,0.0,0.0,2019-2020,260a29e9,Albacete,51,0.6,0.0,0.0,58.0,1.0,3851.0,Albacete
+,Álvaro Peña,es ESP,MF,1,0,0.0,0.0,2019-2020,c5456acc,Albacete,14,0.2,1.0,0.0,58.0,1.0,,Albacete
+,Abdul Awudu,gh GHA,MF,0,0,,,2019-2020,fe0670bd,Albacete,,,,,58.0,17.0,3852.0,Albacete
+,Francisco Castillo,es ESP,MF,0,0,,,2019-2020,0c0f0c5b,Albacete,,,,,58.0,1.0,3853.0,Albacete
+,Fernando Navarro,es ESP,DF,0,0,,,2019-2020,2ff8746,Albacete,,,,,58.0,1.0,3854.0,Albacete
+,Adrian Rodriguez,es ESP,GK,0,0,,,2019-2020,bf17fb4a,Albacete,,,,,58.0,1.0,,Albacete
+,Víctor Segura,es ESP,MF,0,0,,,2019-2020,09b2563,Albacete,,,,,58.0,1.0,3855.0,Albacete
+,﻿Tomeu Nadal,es ESP,GK,36,36,0.0,0.0,2020-2021,37452c75,Albacete,"3,240",36.0,1.0,0.0,58.0,1.0,,Albacete
+,Manuel Fuster,es ESP,"MF,FW",38,34,1.0,2.0,2020-2021,618f396a,Albacete,"2,712",30.1,3.0,1.0,58.0,1.0,3846.0,Albacete
+,Álvaro Jiménez,es ESP,MF,35,31,3.0,5.0,2020-2021,5f5501ed,Albacete,"2,818",31.3,7.0,1.0,58.0,1.0,3856.0,Albacete
+,Eddy Silvestre,az AZE,MF,34,30,0.0,2.0,2020-2021,15ac2dc2,Albacete,"2,434",27.0,9.0,0.0,58.0,108.0,3844.0,Albacete
+,Flavien Boyomo,fr FRA,DF,31,28,0.0,1.0,2020-2021,3a99bc13,Albacete,"2,478",27.5,8.0,1.0,58.0,4.0,3869.0,Albacete
+,Nicolás Gorosito,ar ARG,DF,27,27,1.0,0.0,2020-2021,073db7e5,Albacete,"2,294",25.5,12.0,1.0,58.0,5.0,3823.0,Albacete
+,Ivan Kecojević,me MNE,DF,32,26,0.0,0.0,2020-2021,83e49f90,Albacete,"2,401",26.7,9.0,1.0,58.0,33.0,3843.0,Albacete
+,Alfredo Ortuño,es ESP,FW,37,25,5.0,7.0,2020-2021,b5077003,Albacete,"2,389",26.5,3.0,0.0,58.0,1.0,,Albacete
+,Diego Caballo Alonso,es ESP,"DF,MF",32,24,3.0,0.0,2020-2021,2f4848f5,Albacete,"2,138",23.8,1.0,0.0,58.0,1.0,,Albacete
+,Roman Zozulya,ua UKR,FW,37,23,1.0,2.0,2020-2021,cc862ec7,Albacete,"2,156",24.0,6.0,0.0,58.0,29.0,,Albacete
+,Álvaro Peña,es ESP,"MF,FW",34,23,0.0,2.0,2020-2021,c5456acc,Albacete,"1,900",21.1,4.0,1.0,58.0,1.0,,Albacete
+,Fran García,es ESP,DF,24,20,0.0,1.0,2020-2021,5616927,Albacete,"1,696",18.8,5.0,0.0,58.0,1.0,3788.0,Albacete
+,Carlos Isaac,es ESP,"DF,MF",24,19,2.0,0.0,2020-2021,3e5a168c,Albacete,"1,748",19.4,2.0,1.0,58.0,1.0,,Albacete
+,Jean Sepp Mvondo,cm CMR,MF,28,18,0.0,1.0,2020-2021,7d04809f,Albacete,"1,630",18.1,5.0,0.0,58.0,36.0,3838.0,Albacete
+,Alberto Benito,es ESP,"DF,MF",23,17,0.0,0.0,2020-2021,b8779803,Albacete,"1,431",15.9,7.0,0.0,58.0,1.0,,Albacete
+,Pape Maly Diamanka,sn SEN,MF,27,16,2.0,2.0,2020-2021,5d289e13,Albacete,"1,526",17.0,4.0,0.0,58.0,34.0,,Albacete
+,Álvaro Arroyo,es ESP,DF,20,15,0.0,1.0,2020-2021,b2fa39c5,Albacete,"1,436",16.0,4.0,2.0,58.0,1.0,3805.0,Albacete
+,Daniel Torres,co COL,MF,17,14,0.0,1.0,2020-2021,87882adc,Albacete,"1,249",13.9,5.0,0.0,58.0,19.0,,Albacete
+,Karim Azamoum,fr FRA,MF,17,10,0.0,0.0,2020-2021,f71a5e,Albacete,900,10.0,5.0,0.0,58.0,4.0,3845.0,Albacete
+,Bernabé Barragán,es ESP,GK,6,6,1.0,0.0,2020-2021,3cd0078,Albacete,540,6.0,1.0,0.0,58.0,1.0,,Albacete
+,Javier Jiménez García,es ESP,DF,6,6,0.0,0.0,2020-2021,f30d7505,Albacete,474,5.3,1.0,0.0,58.0,1.0,,Albacete
+,Liberto Beltrán,es ESP,"MF,FW",8,4,0.0,1.0,2020-2021,cab58ffe,Albacete,322,3.6,0.0,0.0,58.0,1.0,3857.0,Albacete
+,Tana,es ESP,"FW,MF",9,3,0.0,1.0,2020-2021,f345601,Albacete,304,3.4,1.0,0.0,58.0,1.0,3858.0,Albacete
+,Cédric Teguia,es ESP,MF,11,2,1.0,0.0,2020-2021,83fd9572,Albacete,353,3.9,3.0,0.0,58.0,1.0,3859.0,Albacete
+,Emiliano Gómez,uy URU,"MF,FW",4,2,0.0,1.0,2020-2021,6c1b4a8d,Albacete,144,1.6,0.0,0.0,58.0,8.0,3860.0,Albacete
+,Chema Núñez,es ESP,MF,13,1,0.0,0.0,2020-2021,5b1ec540,Albacete,330,3.7,1.0,0.0,58.0,1.0,3847.0,Albacete
+,Nahuel Arroyo,es ESP,MF,9,1,0.0,0.0,2020-2021,d5873,Albacete,167,1.9,0.0,0.0,58.0,1.0,3861.0,Albacete
+,Javier Navarro,es ESP,MF,3,1,0.0,0.0,2020-2021,d6626d37,Albacete,100,1.1,1.0,0.0,58.0,1.0,3862.0,Albacete
+,David Del Pozo,es ESP,MF,4,0,0.0,0.0,2020-2021,8e5c86a5,Albacete,70,0.8,0.0,0.0,58.0,1.0,3863.0,Albacete
+,Diego Cortés,es ESP,FW,6,0,0.0,0.0,2020-2021,dc5bd223,Albacete,49,0.5,1.0,0.0,58.0,1.0,3864.0,Albacete
+,Miguel Ángel,es ESP,FW,2,0,0.0,0.0,2020-2021,24b66747,Albacete,16,0.2,0.0,0.0,58.0,1.0,3835.0,Albacete
+,Ismael De Andrés,es ESP,GK,0,0,,,2020-2021,7da9fa8f,Albacete,,,,,58.0,1.0,3865.0,Albacete
+,Samuel González,es ESP,DF,0,0,,,2020-2021,588eccc8,Albacete,,,,,58.0,1.0,3866.0,Albacete
+,Jesús Parada,es ESP,MF,0,0,,,2020-2021,8a433d50,Albacete,,,,,58.0,1.0,,Albacete
+,Samuel Vazquez,es ESP,FW,0,0,,,2020-2021,81bca102,Albacete,,,,,58.0,1.0,3867.0,Albacete
+,Javier Verdú,es ESP,FW,0,0,,,2020-2021,66b836be,Albacete,,,,,58.0,1.0,3868.0,Albacete
+,﻿Flavien Boyomo,fr FRA,DF,2,2,0.0,0.0,2021-2022,3a99bc13,Albacete,210.0,2.3,0.0,0.0,58.0,4.0,3869.0,Albacete
+,Dragan Rosić,rs SRB,GK,2,2,0.0,0.0,2021-2022,b614c059,Albacete,209.0,2.3,0.0,1.0,58.0,28.0,,Albacete
+,David Del Pozo,es ESP,MF,2,2,0.0,0.0,2021-2022,8e5c86a5,Albacete,199.0,2.2,0.0,0.0,58.0,1.0,3863.0,Albacete
+,Andreu Arasa,es ESP,"MF,DF",2,2,0.0,0.0,2021-2022,d066b0ea,Albacete,153.0,1.7,2.0,0.0,58.0,1.0,3870.0,Albacete
+,Eric Montes,es ESP,"MF,DF",2,2,0.0,1.0,2021-2022,9873ff3,Albacete,147.0,1.6,0.0,0.0,58.0,1.0,3871.0,Albacete
+,Emiliano Gómez,uy URU,"MF,FW",2,2,0.0,0.0,2021-2022,6c1b4a8d,Albacete,135.0,1.5,0.0,0.0,58.0,8.0,3860.0,Albacete
+,Nando,es ESP,MF,2,2,0.0,0.0,2021-2022,6c041474,Albacete,135.0,1.5,0.0,0.0,58.0,1.0,,Albacete
+,Julio Alonso,es ESP,DF,1,1,0.0,0.0,2021-2022,8fcea8a1,Albacete,120.0,1.3,1.0,0.0,58.0,1.0,,Albacete
+,Rafa Gálvez,es ESP,DF,1,1,0.0,0.0,2021-2022,445ca2c1,Albacete,120.0,1.3,0.0,0.0,58.0,1.0,3812.0,Albacete
+,Jordi Sánchez,es ESP,FW,2,1,0.0,0.0,2021-2022,658117b6,Albacete,119.0,1.3,2.0,0.0,58.0,1.0,3872.0,Albacete
+,Marc Llinares,es ESP,DF,2,1,0.0,0.0,2021-2022,4ff1d88c,Albacete,108.0,1.2,1.0,0.0,58.0,1.0,3873.0,Albacete
+,Sergi García,es ESP,MF,1,1,0.0,0.0,2021-2022,039d52e,Albacete,102.0,1.1,0.0,0.0,58.0,1.0,,Albacete
+,Mohammed Djetei,cm CMR,DF,1,1,0.0,0.0,2021-2022,209c123e,Albacete,90.0,1.0,0.0,0.0,58.0,36.0,3874.0,Albacete
+,Pau Resta,es ESP,MF,1,1,0.0,0.0,2021-2022,19170de2,Albacete,90.0,1.0,0.0,0.0,58.0,1.0,3875.0,Albacete
+,Fran Álvarez,es ESP,MF,2,1,0.0,0.0,2021-2022,f0101a48,Albacete,86.0,1.0,0.0,0.0,58.0,1.0,,Albacete
+,Diego Johannesson,is ISL,"DF,MF",2,0,1.0,0.0,2021-2022,8ef4eceb,Albacete,120.0,1.3,0.0,0.0,58.0,40.0,3876.0,Albacete
+,Manuel Fuster,es ESP,"FW,MF",2,0,0.0,0.0,2021-2022,618f396a,Albacete,75.0,0.8,0.0,0.0,58.0,1.0,3846.0,Albacete
+,Daniel González,es ESP,FW,1,0,0.0,1.0,2021-2022,73a0e128,Albacete,46.0,0.5,0.0,0.0,58.0,1.0,3877.0,Albacete
+,Sergi Maestre,es ESP,MF,1,0,0.0,0.0,2021-2022,1d7bd5c5,Albacete,18.0,0.2,0.0,0.0,58.0,1.0,3878.0,Albacete
+,Rubén Martínez,es ESP,MF,1,0,0.0,0.0,2021-2022,f8af27ce,Albacete,16.0,0.2,1.0,0.0,58.0,1.0,3879.0,Albacete
+,Jeisson Martínez,pe PER,FW,1,0,0.0,0.0,2021-2022,f9d16d9a,Albacete,11.0,0.1,0.0,0.0,58.0,57.0,3880.0,Albacete
+,Bernabé Barragán,es ESP,GK,0,0,,,2021-2022,3cd0078,Albacete,,,,,58.0,1.0,,Albacete
+,Rubén Cantero,,DF,0,0,,,2021-2022,f64627b1,Albacete,,,,,58.0,,,Albacete
+,Nacho Córdoba,es ESP,GK,0,0,,,2021-2022,be8796ec,Albacete,,,,,58.0,1.0,3881.0,Albacete
+,Luis Roldán,es ESP,MF,0,0,,,2021-2022,c340d20f,Albacete,,,,,58.0,1.0,,Albacete

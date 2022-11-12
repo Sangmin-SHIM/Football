@@ -1,0 +1,601 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Albano Bizzarri,ar ARG,GK,38,38,0.0,0.0,2002-2003,32b9b5fa,Valladolid,"3,420",38.0,4.0,0.0,50.0,5.0,2502.0,Valladolid
+,Gonzalo Colsa,es ESP,MF,37,37,3.0,5.0,2002-2003,6fa12b44,Valladolid,"3,186",35.4,6.0,1.0,50.0,1.0,,Valladolid
+,Javier Torres Gómez,es ESP,DF,35,35,3.0,0.0,2002-2003,677aa169,Valladolid,"3,142",34.9,10.0,0.0,50.0,1.0,2503.0,Valladolid
+,Fernando Sales,es ESP,MF,35,35,3.0,6.0,2002-2003,24486536,Valladolid,"3,135",34.8,2.0,0.0,50.0,1.0,,Valladolid
+,Juan Manuel Peña,bo BOL,DF,29,28,0.0,0.0,2002-2003,0f7909da,Valladolid,"2,497",27.7,10.0,1.0,50.0,64.0,,Valladolid
+,Alberto Marcos Rey,es ESP,DF,28,28,1.0,0.0,2002-2003,7fd2179f,Valladolid,"2,406",26.7,4.0,1.0,50.0,1.0,2504.0,Valladolid
+,David Aganzo,es ESP,FW,30,23,1.0,9.0,2002-2003,97e3ba49,Valladolid,"2,062",22.9,6.0,1.0,50.0,1.0,2505.0,Valladolid
+,Óscar,es ESP,MF,30,22,3.0,3.0,2002-2003,627650df,Valladolid,"2,051",22.8,4.0,0.0,50.0,1.0,2506.0,Valladolid
+,Gaspar,es ESP,DF,24,21,0.0,0.0,2002-2003,75e5329b,Valladolid,"1,809",20.1,6.0,0.0,50.0,1.0,,Valladolid
+,Nicolás Olivera,uy URU,"FW,MF",20,17,4.0,4.0,2002-2003,691fd00c,Valladolid,"1,351",15.0,2.0,0.0,50.0,8.0,2507.0,Valladolid
+,Mario,es ESP,DF,17,15,0.0,1.0,2002-2003,6ede7f4,Valladolid,"1,346",15.0,0.0,0.0,50.0,1.0,,Valladolid
+,Óscar Sánchez,es ESP,DF,17,14,0.0,0.0,2002-2003,fe4c5d4e,Valladolid,"1,286",14.3,3.0,0.0,50.0,1.0,2508.0,Valladolid
+,José Luis Caminero,es ESP,"FW,MF",22,14,0.0,0.0,2002-2003,f9199e3b,Valladolid,"1,231",13.7,5.0,0.0,50.0,1.0,2509.0,Valladolid
+,Chema,es ESP,MF,24,12,0.0,1.0,2002-2003,6c53d111,Valladolid,"1,198",13.3,1.0,0.0,50.0,1.0,2510.0,Valladolid
+,Jonathan Martín,es ESP,DF,16,12,0.0,1.0,2002-2003,79e046e0,Valladolid,"1,113",12.4,3.0,1.0,50.0,1.0,2511.0,Valladolid
+,Sergio Pachón,es ESP,FW,24,12,1.0,2.0,2002-2003,85fca9,Valladolid,"1,073",11.9,2.0,0.0,50.0,1.0,2512.0,Valladolid
+,Jesús Sánchez,es ESP,MF,14,11,1.0,0.0,2002-2003,92bade1,Valladolid,909,10.1,4.0,0.0,50.0,1.0,2513.0,Valladolid
+,Javier Muñoz,ar ARG,DF,13,10,0.0,0.0,2002-2003,492e1cd3,Valladolid,972,10.8,5.0,1.0,50.0,5.0,2514.0,Valladolid
+,Dragan Ćirić,rs SRB,MF,19,9,2.0,1.0,2002-2003,680a7e96,Valladolid,804,8.9,0.0,0.0,50.0,28.0,2515.0,Valladolid
+,Antonio López,es ESP,MF,11,9,1.0,2.0,2002-2003,1fdd5ff7,Valladolid,781,8.7,2.0,0.0,50.0,1.0,,Valladolid
+,Pablo Ricchetti,ar ARG,"DF,MF",10,7,0.0,0.0,2002-2003,69952e6a,Valladolid,671,7.5,3.0,0.0,50.0,5.0,2516.0,Valladolid
+,David Sousa,es ESP,MF,19,5,2.0,0.0,2002-2003,292a8dbe,Valladolid,586,6.5,3.0,1.0,50.0,1.0,2517.0,Valladolid
+,Xavier Moré,es ESP,"FW,MF",3,2,0.0,0.0,2002-2003,3557d107,Valladolid,200,2.2,0.0,0.0,50.0,1.0,2518.0,Valladolid
+,José Luis Santamaría,es ESP,DF,2,1,0.0,0.0,2002-2003,495f0364,Valladolid,110,1.2,0.0,0.0,50.0,1.0,2519.0,Valladolid
+,Álvaro Antón,es ESP,MF,1,1,,0.0,2002-2003,90041d71,Valladolid,65,0.7,0.0,0.0,50.0,1.0,2520.0,Valladolid
+,Javier Jiménez,es ESP,MF,2,0,0.0,0.0,2002-2003,ba83479,Valladolid,51,0.6,0.0,0.0,50.0,1.0,2521.0,Valladolid
+,Agustín Villar,es ESP,MF,1,0,,0.0,2002-2003,108ca6ae,Valladolid,25,0.3,0.0,0.0,50.0,1.0,2522.0,Valladolid
+,﻿Albano Bizzarri,ar ARG,GK,38,38,0.0,0.0,2003-2004,32b9b5fa,Valladolid,"3,375",37.5,4.0,1.0,50.0,5.0,2502.0,Valladolid
+,Fernando Sales,es ESP,MF,35,35,8.0,3.0,2003-2004,24486536,Valladolid,"3,020",33.6,8.0,0.0,50.0,1.0,,Valladolid
+,Javier Torres Gómez,es ESP,DF,34,34,1.0,0.0,2003-2004,677aa169,Valladolid,"3,024",33.6,10.0,1.0,50.0,1.0,2503.0,Valladolid
+,Alberto Marcos Rey,es ESP,DF,33,33,1.0,0.0,2003-2004,7fd2179f,Valladolid,"2,855",31.7,8.0,1.0,50.0,1.0,2504.0,Valladolid
+,Óscar,es ESP,MF,37,33,1.0,10.0,2003-2004,627650df,Valladolid,"2,849",31.7,4.0,0.0,50.0,1.0,2506.0,Valladolid
+,Jesús Sánchez,es ESP,MF,27,27,0.0,4.0,2003-2004,92bade1,Valladolid,"2,277",25.3,9.0,1.0,50.0,1.0,2513.0,Valladolid
+,Júlio César,br BRA,DF,28,26,0.0,1.0,2003-2004,754ac76b,Valladolid,"2,296",25.5,8.0,1.0,50.0,2.0,2523.0,Valladolid
+,Pablo Ricchetti,ar ARG,"DF,MF",30,24,1.0,1.0,2003-2004,69952e6a,Valladolid,"2,293",25.5,12.0,2.0,50.0,5.0,2516.0,Valladolid
+,Jonathan Martín,es ESP,DF,31,24,0.0,2.0,2003-2004,79e046e0,Valladolid,"2,276",25.3,6.0,0.0,50.0,1.0,2511.0,Valladolid
+,David Sousa,es ESP,MF,24,23,4.0,3.0,2003-2004,292a8dbe,Valladolid,"1,752",19.5,10.0,0.0,50.0,1.0,2517.0,Valladolid
+,José Luis Caminero,es ESP,"FW,MF",27,22,1.0,1.0,2003-2004,f9199e3b,Valladolid,"1,833",20.4,7.0,0.0,50.0,1.0,2509.0,Valladolid
+,Roberto Losada,es ESP,FW,27,19,2.0,8.0,2003-2004,547ccdd5,Valladolid,"1,849",20.5,2.0,0.0,50.0,1.0,2524.0,Valladolid
+,Juan Manuel Peña,bo BOL,DF,21,19,0.0,0.0,2003-2004,0f7909da,Valladolid,"1,672",18.6,7.0,2.0,50.0,64.0,,Valladolid
+,Ariza Makukula,pt POR,FW,18,18,3.0,8.0,2003-2004,62ce8bd7,Valladolid,"1,474",16.4,6.0,0.0,50.0,3.0,,Valladolid
+,Víctor Zapata,ar ARG,MF,25,17,3.0,2.0,2003-2004,889a705f,Valladolid,"1,453",16.1,2.0,0.0,50.0,5.0,2525.0,Valladolid
+,Chema,es ESP,MF,23,11,2.0,2.0,2003-2004,6c53d111,Valladolid,"1,078",12.0,4.0,1.0,50.0,1.0,2510.0,Valladolid
+,Pablo Paz,ar ARG,DF,9,4,0.0,0.0,2003-2004,3eaddf7e,Valladolid,514,5.7,3.0,0.0,50.0,5.0,2526.0,Valladolid
+,Óscar Sánchez,es ESP,DF,10,3,0.0,0.0,2003-2004,fe4c5d4e,Valladolid,363,4.0,2.0,0.0,50.0,1.0,2508.0,Valladolid
+,Diego Figueredo,py PAR,MF,8,3,0.0,0.0,2003-2004,5848acb3,Valladolid,311,3.5,2.0,0.0,50.0,43.0,2527.0,Valladolid
+,Rafa,es ESP,"DF,MF",3,2,,0.0,2003-2004,0b89dbcc,Valladolid,98,1.1,0.0,0.0,50.0,1.0,2528.0,Valladolid
+,Xavier Moré,es ESP,"FW,MF",4,1,0.0,0.0,2003-2004,3557d107,Valladolid,140,1.6,0.0,0.0,50.0,1.0,2518.0,Valladolid
+,Sergio Pachón,es ESP,FW,3,1,0.0,0.0,2003-2004,85fca9,Valladolid,98,1.1,0.0,0.0,50.0,1.0,2512.0,Valladolid
+,Javier Jiménez,es ESP,MF,4,1,0.0,0.0,2003-2004,ba83479,Valladolid,54,0.6,1.0,0.0,50.0,1.0,2521.0,Valladolid
+,Martín Cardetti,ar ARG,FW,11,0,0.0,0.0,2003-2004,4fc03ad,Valladolid,195,2.2,0.0,0.0,50.0,5.0,2529.0,Valladolid
+,Dragan Ćirić,rs SRB,MF,8,0,0.0,1.0,2003-2004,680a7e96,Valladolid,153,1.7,0.0,0.0,50.0,28.0,2515.0,Valladolid
+,Catriel Orcellet,ar ARG,GK,1,0,0.0,0.0,2003-2004,41f308e4,Valladolid,45,0.5,0.0,0.0,50.0,5.0,2530.0,Valladolid
+,﻿Albano Bizzarri,ar ARG,GK,39,38,0.0,0.0,2004-2005,32b9b5fa,Valladolid,"3,475",38.6,3.0,0.0,50.0,5.0,2502.0,Valladolid
+,José Manuel Mateo,es ESP,DF,38,38,4.0,2.0,2004-2005,d7458f0a,Valladolid,"3,420",38.0,9.0,0.0,50.0,1.0,,Valladolid
+,Óscar Sánchez,es ESP,DF,39,36,1.0,6.0,2004-2005,fe4c5d4e,Valladolid,"3,148",35.0,11.0,0.0,50.0,1.0,2508.0,Valladolid
+,David Sousa,es ESP,MF,31,30,6.0,3.0,2004-2005,292a8dbe,Valladolid,"2,268",25.2,11.0,0.0,50.0,1.0,2517.0,Valladolid
+,Julián Robles,es ESP,MF,34,27,0.0,1.0,2004-2005,9b429a7,Valladolid,"2,482",27.6,7.0,0.0,50.0,1.0,,Valladolid
+,Aritz Aduriz,es ESP,FW,32,27,5.0,14.0,2004-2005,293211e1,Valladolid,"2,437",27.1,9.0,1.0,50.0,1.0,,Valladolid
+,Alberto Marcos Rey,es ESP,DF,27,27,0.0,0.0,2004-2005,7fd2179f,Valladolid,"2,155",23.9,10.0,1.0,50.0,1.0,2504.0,Valladolid
+,Mario,es ESP,DF,26,26,1.0,0.0,2004-2005,6ede7f4,Valladolid,"2,291",25.5,9.0,0.0,50.0,1.0,,Valladolid
+,Diego Figueredo,py PAR,MF,28,26,2.0,3.0,2004-2005,5848acb3,Valladolid,"2,047",22.7,5.0,0.0,50.0,43.0,2527.0,Valladolid
+,Chema,es ESP,MF,31,23,0.0,2.0,2004-2005,6c53d111,Valladolid,"2,070",23.0,8.0,0.0,50.0,1.0,2510.0,Valladolid
+,Jonathan Martín,es ESP,DF,26,23,0.0,0.0,2004-2005,79e046e0,Valladolid,"2,060",22.9,10.0,0.0,50.0,1.0,2511.0,Valladolid
+,Javier Torres Gómez,es ESP,DF,25,22,0.0,0.0,2004-2005,677aa169,Valladolid,"1,781",19.8,6.0,1.0,50.0,1.0,2503.0,Valladolid
+,Víctor,es ESP,FW,33,20,8.0,8.0,2004-2005,00979380,Valladolid,"1,885",20.9,3.0,0.0,50.0,1.0,,Valladolid
+,Pablo Ricchetti,ar ARG,"DF,MF",17,17,1.0,0.0,2004-2005,69952e6a,Valladolid,"1,348",15.0,5.0,1.0,50.0,5.0,2516.0,Valladolid
+,Diego Mateo,ar ARG,"DF,MF",18,14,0.0,0.0,2004-2005,6ff0efaa,Valladolid,"1,314",14.6,4.0,0.0,50.0,5.0,2532.0,Valladolid
+,Germán Hornos,uy URU,FW,16,10,1.0,8.0,2004-2005,232366ec,Valladolid,"1,028",11.4,2.0,0.0,50.0,8.0,,Valladolid
+,Jesús Sánchez,es ESP,MF,13,9,0.0,1.0,2004-2005,92bade1,Valladolid,820,9.1,5.0,0.0,50.0,1.0,2513.0,Valladolid
+,Roberto Losada,es ESP,FW,17,9,1.0,3.0,2004-2005,547ccdd5,Valladolid,791,8.8,2.0,0.0,50.0,1.0,2524.0,Valladolid
+,Jairo Castillo,co COL,FW,12,8,1.0,2.0,2004-2005,01c1b0cf,Valladolid,772,8.6,1.0,0.0,50.0,19.0,2533.0,Valladolid
+,Álvaro Antón,es ESP,MF,18,6,0.0,3.0,2004-2005,90041d71,Valladolid,836,9.3,5.0,0.0,50.0,1.0,2520.0,Valladolid
+,Iván Zarandona,gq EQG,MF,15,6,0.0,0.0,2004-2005,cf38c51d,Valladolid,712,7.9,2.0,0.0,50.0,10.0,2534.0,Valladolid
+,Óscar,es ESP,DF,5,5,1.0,0.0,2004-2005,87631dde,Valladolid,450,5.0,1.0,0.0,50.0,1.0,,Valladolid
+,Iñaki Bea Jauregi,es ESP,DF,10,4,0.0,0.0,2004-2005,bbcd4ab0,Valladolid,336,3.7,2.0,0.0,50.0,1.0,2535.0,Valladolid
+,Francisco Lledó,es ESP,GK,4,4,0.0,0.0,2004-2005,4401f0c3,Valladolid,305,3.4,0.0,1.0,50.0,1.0,2536.0,Valladolid
+,R Ortiz,,,5,3,0.0,0.0,2004-2005,,Valladolid,300,3.3,1.0,0.0,50.0,,,Valladolid
+,Xavier Moré,es ESP,"FW,MF",15,1,1.0,0.0,2004-2005,3557d107,Valladolid,449,5.0,0.0,0.0,50.0,1.0,2518.0,Valladolid
+,Teodoro García,es ESP,MF,3,1,0.0,0.0,2004-2005,28c7dc00,Valladolid,152,1.7,1.0,0.0,50.0,1.0,2537.0,Valladolid
+,Rafa,es ESP,"DF,MF",3,1,0.0,0.0,2004-2005,0b89dbcc,Valladolid,124,1.4,0.0,0.0,50.0,1.0,2528.0,Valladolid
+,Angel Martínez,py PAR,DF,1,0,0.0,0.0,2004-2005,c3a9e553,Valladolid,43,0.5,0.0,0.0,50.0,43.0,2538.0,Valladolid
+,﻿Albano Bizzarri,ar ARG,GK,33,33,0.0,0.0,2005-2006,32b9b5fa,Valladolid,"2,914",32.4,4.0,1.0,50.0,5.0,2502.0,Valladolid
+,Joseba Llorente,es ESP,FW,37,31,2.0,12.0,2005-2006,ddb98947,Valladolid,"2,682",29.8,6.0,0.0,50.0,1.0,,Valladolid
+,Javier Baraja,es ESP,"DF,MF",31,30,3.0,0.0,2005-2006,6514cd55,Valladolid,"2,692",29.9,10.0,0.0,50.0,1.0,2539.0,Valladolid
+,Iván Ramis,es ESP,DF,30,30,0.0,0.0,2005-2006,d2be40f2,Valladolid,"2,577",28.6,11.0,1.0,50.0,1.0,,Valladolid
+,Mario,es ESP,DF,30,30,0.0,2.0,2005-2006,6ede7f4,Valladolid,"2,496",27.7,8.0,0.0,50.0,1.0,,Valladolid
+,José Luis Capdevila,es ESP,MF,35,27,9.0,6.0,2005-2006,dde616c5,Valladolid,"2,528",28.1,8.0,0.0,50.0,1.0,2540.0,Valladolid
+,David Sousa,es ESP,MF,29,27,2.0,5.0,2005-2006,292a8dbe,Valladolid,"2,274",25.3,9.0,1.0,50.0,1.0,2517.0,Valladolid
+,O.J. Morales,uy URU,MF,30,23,2.0,0.0,2005-2006,64e731cd,Valladolid,"2,120",23.6,8.0,2.0,50.0,8.0,,Valladolid
+,Julián Robles,es ESP,MF,25,23,0.0,0.0,2005-2006,9b429a7,Valladolid,"1,996",22.2,4.0,0.0,50.0,1.0,,Valladolid
+,Víctor,es ESP,FW,34,22,1.0,10.0,2005-2006,00979380,Valladolid,"2,080",23.1,6.0,1.0,50.0,1.0,,Valladolid
+,Óscar Sánchez,es ESP,DF,25,20,1.0,1.0,2005-2006,fe4c5d4e,Valladolid,"1,730",19.2,10.0,0.0,50.0,1.0,2508.0,Valladolid
+,Iván Hernández,es ESP,DF,19,18,0.0,0.0,2005-2006,09a1ed52,Valladolid,"1,665",18.5,5.0,0.0,50.0,1.0,2541.0,Valladolid
+,Alberto Marcos Rey,es ESP,DF,18,18,0.0,0.0,2005-2006,7fd2179f,Valladolid,"1,556",17.3,8.0,0.0,50.0,1.0,2504.0,Valladolid
+,Tote,es ESP,"FW,MF",30,17,3.0,3.0,2005-2006,3e74421,Valladolid,"1,608",17.9,3.0,0.0,50.0,1.0,22.0,Valladolid
+,Álvaro Antón,es ESP,MF,25,16,0.0,4.0,2005-2006,90041d71,Valladolid,"1,524",16.9,5.0,0.0,50.0,1.0,2520.0,Valladolid
+,Pedro López Muñoz,es ESP,DF,18,15,4.0,0.0,2005-2006,60823a4,Valladolid,"1,165",12.9,7.0,1.0,50.0,1.0,2542.0,Valladolid
+,Chema,es ESP,MF,24,14,1.0,0.0,2005-2006,6c53d111,Valladolid,"1,222",13.6,3.0,0.0,50.0,1.0,2510.0,Valladolid
+,Aritz Aduriz,es ESP,FW,14,13,1.0,6.0,2005-2006,293211e1,Valladolid,"1,202",13.4,3.0,2.0,50.0,1.0,,Valladolid
+,Marcelo Broli,uy URU,MF,16,13,0.0,0.0,2005-2006,383cc69a,Valladolid,914,10.2,2.0,0.0,50.0,8.0,2543.0,Valladolid
+,Jorge Curbelo,uy URU,DF,12,9,0.0,2.0,2005-2006,2ea7e358,Valladolid,866,9.6,6.0,1.0,50.0,8.0,2544.0,Valladolid
+,Pablo Casar,es ESP,DF,8,7,0.0,0.0,2005-2006,6c5d2f,Valladolid,670,7.4,0.0,0.0,50.0,1.0,2545.0,Valladolid
+,Carlos Carmona,es ESP,"FW,MF",15,7,1.0,0.0,2005-2006,d161184f,Valladolid,652,7.2,2.0,1.0,50.0,1.0,,Valladolid
+,Francisco Lledó,es ESP,GK,8,6,0.0,0.0,2005-2006,4401f0c3,Valladolid,596,6.6,0.0,0.0,50.0,1.0,2536.0,Valladolid
+,Roberto Losada,es ESP,FW,21,5,2.0,2.0,2005-2006,547ccdd5,Valladolid,702,7.8,1.0,0.0,50.0,1.0,2524.0,Valladolid
+,Jacobo,es ESP,GK,3,3,0.0,0.0,2005-2006,bb575fe7,Valladolid,270,3.0,1.0,0.0,50.0,1.0,2546.0,Valladolid
+,Cristobal Carreno,,,5,2,0.0,0.0,2005-2006,,Valladolid,235,2.6,0.0,0.0,50.0,,,Valladolid
+,Teodoro García,es ESP,MF,3,2,0.0,0.0,2005-2006,28c7dc00,Valladolid,207,2.3,0.0,0.0,50.0,1.0,2537.0,Valladolid
+,Fernando Correa,uy URU,FW,6,0,0.0,1.0,2005-2006,9c2c5331,Valladolid,122,1.4,0.0,0.0,50.0,8.0,,Valladolid
+,﻿Víctor,es ESP,FW,40,40,13.0,19.0,2006-2007,00979380,Valladolid,"3,380",37.6,11.0,0.0,50.0,1.0,,Valladolid
+,Pedro López Muñoz,es ESP,DF,36,36,4.0,0.0,2006-2007,60823a4,Valladolid,"3,101",34.5,6.0,0.0,50.0,1.0,2542.0,Valladolid
+,Sisi,es ESP,"FW,MF",40,36,6.0,4.0,2006-2007,dd7ec92,Valladolid,"2,916",32.4,6.0,1.0,50.0,1.0,,Valladolid
+,Alberto,es ESP,GK,36,35,0.0,0.0,2006-2007,9335367b,Valladolid,"3,195",35.5,3.0,0.0,50.0,1.0,,Valladolid
+,Iñaki Bea Jauregi,es ESP,DF,35,35,0.0,3.0,2006-2007,bbcd4ab0,Valladolid,"3,027",33.6,10.0,0.0,50.0,1.0,2535.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",34,33,4.0,2.0,2006-2007,149770b8,Valladolid,"2,929",32.5,8.0,1.0,50.0,1.0,2547.0,Valladolid
+,Borja Fernández,es ESP,MF,37,30,3.0,2.0,2006-2007,9127f9ce,Valladolid,"2,538",28.2,15.0,0.0,50.0,1.0,26.0,Valladolid
+,Alberto Marcos Rey,es ESP,DF,29,27,2.0,1.0,2006-2007,7fd2179f,Valladolid,"2,430",27.0,10.0,0.0,50.0,1.0,2504.0,Valladolid
+,Joseba Llorente,es ESP,FW,27,27,4.0,17.0,2006-2007,ddb98947,Valladolid,"2,311",25.7,9.0,1.0,50.0,1.0,,Valladolid
+,José Luis Capdevila,es ESP,MF,35,27,5.0,4.0,2006-2007,dde616c5,Valladolid,"2,245",24.9,8.0,0.0,50.0,1.0,2540.0,Valladolid
+,Javier Baraja,es ESP,"DF,MF",28,19,1.0,0.0,2006-2007,6514cd55,Valladolid,"1,909",21.2,7.0,1.0,50.0,1.0,2539.0,Valladolid
+,Gonzalo Vicente,uy URU,DF,19,17,2.0,0.0,2006-2007,f3c66117,Valladolid,"1,433",15.9,9.0,1.0,50.0,8.0,2548.0,Valladolid
+,Iván Hernández,es ESP,DF,26,13,0.0,0.0,2006-2007,09a1ed52,Valladolid,"1,284",14.3,3.0,1.0,50.0,1.0,2541.0,Valladolid
+,José García Calvo,es ESP,DF,15,13,0.0,1.0,2006-2007,c79150ab,Valladolid,"1,134",12.6,5.0,0.0,50.0,1.0,,Valladolid
+,Vladimir Manchev,bg BUL,FW,17,12,2.0,6.0,2006-2007,005a9b28,Valladolid,"1,137",12.6,4.0,0.0,50.0,65.0,,Valladolid
+,Asier,es ESP,MF,16,12,0.0,0.0,2006-2007,c599392e,Valladolid,925,10.3,4.0,0.0,50.0,1.0,2549.0,Valladolid
+,Rafa,es ESP,"DF,MF",13,11,0.0,0.0,2006-2007,0b89dbcc,Valladolid,972,10.8,0.0,0.0,50.0,1.0,2528.0,Valladolid
+,José de la Cuesta,co COL,DF,10,10,0.0,2.0,2006-2007,664cac36,Valladolid,900,10.0,2.0,0.0,50.0,19.0,2550.0,Valladolid
+,Álvaro Antón,es ESP,MF,21,9,5.0,2.0,2006-2007,90041d71,Valladolid,904,10.0,2.0,0.0,50.0,1.0,2520.0,Valladolid
+,Mario Suárez,es ESP,MF,23,7,1.0,3.0,2006-2007,7106f0a0,Valladolid,990,11.0,7.0,0.0,50.0,1.0,,Valladolid
+,Jacobo,es ESP,GK,7,7,0.0,0.0,2006-2007,bb575fe7,Valladolid,585,6.5,1.0,0.0,50.0,1.0,2546.0,Valladolid
+,Chema,es ESP,MF,13,3,2.0,0.0,2006-2007,6c53d111,Valladolid,394,4.4,2.0,0.0,50.0,1.0,2510.0,Valladolid
+,Toché,es ESP,FW,15,2,0.0,4.0,2006-2007,64e35e11,Valladolid,400,4.4,1.0,0.0,50.0,1.0,,Valladolid
+,Daniel N'Gom Kome,cm CMR,MF,2,1,0.0,0.0,2006-2007,8076455d,Valladolid,110,1.2,0.0,0.0,50.0,36.0,,Valladolid
+,Óscar Sánchez,es ESP,DF,11,0,1.0,0.0,2006-2007,fe4c5d4e,Valladolid,302,3.4,1.0,0.0,50.0,1.0,2508.0,Valladolid
+,﻿Álvaro Rubio,es ESP,"DF,MF",37,35,0.0,3.0,2007-2008,149770b8,Valladolid,"3,131",34.8,2.0,0.0,50.0,1.0,2547.0,Valladolid
+,Joseba Llorente,es ESP,FW,36,35,4.0,17.0,2007-2008,ddb98947,Valladolid,"3,020",33.6,7.0,1.0,50.0,1.0,,Valladolid
+,José García Calvo,es ESP,DF,33,33,0.0,1.0,2007-2008,c79150ab,Valladolid,"2,887",32.1,6.0,1.0,50.0,1.0,,Valladolid
+,Sisi,es ESP,"FW,MF",36,31,1.0,2.0,2007-2008,dd7ec92,Valladolid,"2,466",27.4,3.0,0.0,50.0,1.0,,Valladolid
+,Alberto Marcos Rey,es ESP,DF,30,29,0.0,0.0,2007-2008,7fd2179f,Valladolid,"2,573",28.6,12.0,0.0,50.0,1.0,2504.0,Valladolid
+,Pedro López Muñoz,es ESP,DF,28,28,1.0,1.0,2007-2008,60823a4,Valladolid,"2,476",27.5,4.0,1.0,50.0,1.0,2542.0,Valladolid
+,Víctor,es ESP,FW,33,26,3.0,9.0,2007-2008,00979380,Valladolid,"2,316",25.7,2.0,0.0,50.0,1.0,,Valladolid
+,Jonathan Sesma,es ESP,"FW,MF",33,25,2.0,3.0,2007-2008,7484a7cc,Valladolid,"2,205",24.5,4.0,0.0,50.0,1.0,2551.0,Valladolid
+,Sergio Asenjo,es ESP,GK,24,24,0.0,0.0,2007-2008,9f0ea33f,Valladolid,"2,143",23.8,2.0,1.0,50.0,1.0,,Valladolid
+,Ángel Vivar Dorado,es ESP,MF,30,23,0.0,2.0,2007-2008,c6d027e,Valladolid,"2,238",24.9,3.0,0.0,50.0,1.0,2552.0,Valladolid
+,Rafa,es ESP,"DF,MF",21,21,1.0,0.0,2007-2008,0b89dbcc,Valladolid,"1,842",20.5,3.0,0.0,50.0,1.0,2528.0,Valladolid
+,Borja Fernández,es ESP,MF,31,16,1.0,1.0,2007-2008,9127f9ce,Valladolid,"1,508",16.8,8.0,0.0,50.0,1.0,26.0,Valladolid
+,Óscar Sánchez,es ESP,DF,21,13,0.0,0.0,2007-2008,fe4c5d4e,Valladolid,"1,251",13.9,6.0,0.0,50.0,1.0,2508.0,Valladolid
+,Daniel N'Gom Kome,cm CMR,MF,15,12,3.0,1.0,2007-2008,8076455d,Valladolid,889,9.9,1.0,0.0,50.0,36.0,,Valladolid
+,Javier Baraja,es ESP,"DF,MF",17,11,0.0,0.0,2007-2008,6514cd55,Valladolid,"1,125",12.5,5.0,0.0,50.0,1.0,2539.0,Valladolid
+,Ludovic Butelle,fr FRA,GK,8,8,0.0,0.0,2007-2008,26975a92,Valladolid,662,7.4,1.0,1.0,50.0,4.0,,Valladolid
+,José Luis Capdevila,es ESP,MF,14,8,2.0,0.0,2007-2008,dde616c5,Valladolid,651,7.2,0.0,0.0,50.0,1.0,2540.0,Valladolid
+,Daniel Cifuentes,es ESP,DF,9,8,0.0,0.0,2007-2008,488a3de8,Valladolid,647,7.2,2.0,2.0,50.0,1.0,,Valladolid
+,Alberto,es ESP,GK,7,6,0.0,0.0,2007-2008,9335367b,Valladolid,599,6.7,0.0,0.0,50.0,1.0,,Valladolid
+,Alexis,es ESP,DF,11,6,0.0,0.0,2007-2008,b9efd503,Valladolid,576,6.4,2.0,0.0,50.0,1.0,2553.0,Valladolid
+,Iñaki Bea Jauregi,es ESP,DF,7,6,0.0,0.0,2007-2008,bbcd4ab0,Valladolid,554,6.2,0.0,0.0,50.0,1.0,2535.0,Valladolid
+,Diego Camacho,es ESP,MF,9,6,0.0,0.0,2007-2008,ba4b3cf3,Valladolid,541,6.0,3.0,0.0,50.0,1.0,2554.0,Valladolid
+,Bartholomew Ogbeche,ng NGA,FW,19,3,1.0,2.0,2007-2008,616cc0f7,Valladolid,483,5.4,2.0,0.0,50.0,52.0,2555.0,Valladolid
+,Marcos Aguirre,ar ARG,MF,8,3,0.0,0.0,2007-2008,fd6c5e71,Valladolid,342,3.8,0.0,0.0,50.0,5.0,2556.0,Valladolid
+,Vladimir Manchev,bg BUL,FW,5,1,0.0,0.0,2007-2008,005a9b28,Valladolid,147,1.6,0.0,0.0,50.0,65.0,,Valladolid
+,Fabián Estoyanoff,uy URU,"FW,MF",4,1,0.0,0.0,2007-2008,7ac6198d,Valladolid,106,1.2,0.0,0.0,50.0,8.0,,Valladolid
+,Kike López,es ESP,FW,3,0,0.0,0.0,2007-2008,8a29a124,Valladolid,39,0.4,0.0,0.0,50.0,1.0,2557.0,Valladolid
+,﻿Álvaro Rubio,es ESP,"DF,MF",34,34,2.0,1.0,2008-2009,149770b8,Valladolid,"3,005",33.4,4.0,2.0,50.0,1.0,2547.0,Valladolid
+,Alberto Marcos Rey,es ESP,DF,33,33,1.0,0.0,2008-2009,7fd2179f,Valladolid,"2,885",32.1,11.0,1.0,50.0,1.0,2504.0,Valladolid
+,Jonathan Sesma,es ESP,"FW,MF",33,32,4.0,7.0,2008-2009,7484a7cc,Valladolid,"2,661",29.6,3.0,0.0,50.0,1.0,2551.0,Valladolid
+,Pedro León,es ESP,"FW,MF",33,31,8.0,4.0,2008-2009,d66b9872,Valladolid,"2,529",28.1,8.0,0.0,50.0,1.0,96.0,Valladolid
+,Pedro López Muñoz,es ESP,DF,30,30,0.0,1.0,2008-2009,60823a4,Valladolid,"2,494",27.7,2.0,2.0,50.0,1.0,2542.0,Valladolid
+,Luis Prieto Zalbidegoitia,es ESP,DF,28,28,0.0,2.0,2008-2009,8ae9541e,Valladolid,"2,377",26.4,8.0,1.0,50.0,1.0,,Valladolid
+,Borja Fernández,es ESP,MF,29,24,0.0,0.0,2008-2009,9127f9ce,Valladolid,"1,923",21.4,5.0,0.0,50.0,1.0,26.0,Valladolid
+,Sergio Asenjo,es ESP,GK,23,23,0.0,0.0,2008-2009,9f0ea33f,Valladolid,"2,070",23.0,1.0,0.0,50.0,1.0,,Valladolid
+,Henok Goitom,er ERI,FW,29,23,0.0,10.0,2008-2009,c3680236,Valladolid,"2,016",22.4,3.0,1.0,50.0,91.0,2558.0,Valladolid
+,Víctor,es ESP,FW,29,21,4.0,5.0,2008-2009,00979380,Valladolid,"1,956",21.7,2.0,0.0,50.0,1.0,,Valladolid
+,José García Calvo,es ESP,DF,19,19,0.0,2.0,2008-2009,c79150ab,Valladolid,"1,561",17.3,5.0,0.0,50.0,1.0,,Valladolid
+,Fabián Canobbio,uy URU,MF,29,17,0.0,4.0,2008-2009,8a010a9b,Valladolid,"1,618",18.0,2.0,0.0,50.0,8.0,,Valladolid
+,Javier Baraja,es ESP,"DF,MF",22,17,0.0,1.0,2008-2009,6514cd55,Valladolid,"1,615",17.9,3.0,0.0,50.0,1.0,2539.0,Valladolid
+,Ángel Vivar Dorado,es ESP,MF,23,17,1.0,3.0,2008-2009,c6d027e,Valladolid,"1,612",17.9,5.0,0.0,50.0,1.0,2552.0,Valladolid
+,Justo Villar,py PAR,GK,15,15,0.0,0.0,2008-2009,f30779d,Valladolid,"1,350",15.0,0.0,0.0,50.0,43.0,2559.0,Valladolid
+,Iñaki Bea Jauregi,es ESP,DF,17,14,0.0,0.0,2008-2009,bbcd4ab0,Valladolid,"1,326",14.7,5.0,2.0,50.0,1.0,2535.0,Valladolid
+,Nano,es ESP,DF,12,7,0.0,0.0,2008-2009,3d6dd9f9,Valladolid,713,7.9,4.0,1.0,50.0,1.0,,Valladolid
+,Damián Escudero,ar ARG,MF,15,7,0.0,0.0,2008-2009,8c16b37a,Valladolid,645,7.2,0.0,0.0,50.0,5.0,2560.0,Valladolid
+,Haris Medunjanin,ba BIH,MF,18,7,1.0,1.0,2008-2009,de5d5d41,Valladolid,593,6.6,2.0,0.0,50.0,49.0,,Valladolid
+,Óscar Sánchez,es ESP,DF,17,6,0.0,0.0,2008-2009,fe4c5d4e,Valladolid,690,7.7,3.0,0.0,50.0,1.0,2508.0,Valladolid
+,Marcos Aguirre,ar ARG,MF,15,5,0.0,1.0,2008-2009,fd6c5e71,Valladolid,649,7.2,2.0,0.0,50.0,5.0,2556.0,Valladolid
+,Bartholomew Ogbeche,ng NGA,FW,16,5,0.0,1.0,2008-2009,616cc0f7,Valladolid,627,7.0,2.0,0.0,50.0,52.0,2555.0,Valladolid
+,Pedro Oldoni,br BRA,FW,6,2,0.0,1.0,2008-2009,079b5ab6,Valladolid,205,2.3,0.0,0.0,50.0,2.0,2561.0,Valladolid
+,Kike López,es ESP,FW,3,1,0.0,0.0,2008-2009,8a29a124,Valladolid,180,2.0,0.0,0.0,50.0,1.0,2557.0,Valladolid
+,Jesús Rueda,es ESP,"DF,MF",2,0,0.0,0.0,2008-2009,9d8ba8ec,Valladolid,58,0.6,0.0,0.0,50.0,1.0,2562.0,Valladolid
+,Alberto,es ESP,GK,0,0,0.0,0.0,2008-2009,9335367b,Valladolid,,0.0,0.0,0.0,50.0,1.0,,Valladolid
+,﻿Diego Costa,es ESP,FW,34,32,4.0,8.0,2009-2010,190d597,Valladolid,"2,858",31.8,9.0,1.0,50.0,1.0,,Valladolid
+,Pedro López Muñoz,es ESP,DF,31,30,0.0,0.0,2009-2010,60823a4,Valladolid,"2,602",28.9,5.0,0.0,50.0,1.0,2542.0,Valladolid
+,Borja Fernández,es ESP,MF,31,30,0.0,0.0,2009-2010,9127f9ce,Valladolid,"2,456",27.3,11.0,2.0,50.0,1.0,26.0,Valladolid
+,Justo Villar,py PAR,GK,23,23,0.0,0.0,2009-2010,f30779d,Valladolid,"2,005",22.3,1.0,1.0,50.0,43.0,2559.0,Valladolid
+,Nivaldo,br BRA,DF,25,23,0.0,3.0,2009-2010,f5d83616,Valladolid,"1,973",21.9,7.0,2.0,50.0,2.0,2563.0,Valladolid
+,Fabián Canobbio,uy URU,MF,24,21,1.0,1.0,2009-2010,8a010a9b,Valladolid,"1,784",19.8,2.0,0.0,50.0,8.0,,Valladolid
+,Nauzet Alemán,es ESP,MF,26,21,3.0,6.0,2009-2010,4cf8242b,Valladolid,"1,622",18.0,8.0,0.0,50.0,1.0,2564.0,Valladolid
+,Manucho,ao ANG,FW,28,20,2.0,4.0,2009-2010,89b18034,Valladolid,"1,728",19.2,5.0,1.0,50.0,48.0,2565.0,Valladolid
+,Luis Prieto Zalbidegoitia,es ESP,DF,20,19,0.0,0.0,2009-2010,8ae9541e,Valladolid,"1,547",17.2,4.0,1.0,50.0,1.0,,Valladolid
+,Javier Baraja,es ESP,"DF,MF",25,18,0.0,2.0,2009-2010,6514cd55,Valladolid,"1,654",18.4,5.0,0.0,50.0,1.0,2539.0,Valladolid
+,Alberto Marcos Rey,es ESP,DF,21,18,1.0,0.0,2009-2010,7fd2179f,Valladolid,"1,556",17.3,4.0,1.0,50.0,1.0,2504.0,Valladolid
+,César Arzo,es ESP,"DF,MF",22,17,1.0,1.0,2009-2010,0ea37b10,Valladolid,"1,722",19.1,7.0,1.0,50.0,1.0,2566.0,Valladolid
+,Pelé,pt POR,MF,23,17,0.0,0.0,2009-2010,54bf0bc3,Valladolid,"1,696",18.8,10.0,0.0,50.0,3.0,2567.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",16,16,0.0,0.0,2009-2010,149770b8,Valladolid,"1,334",14.8,1.0,0.0,50.0,1.0,2547.0,Valladolid
+,Jacobo,es ESP,GK,15,14,0.0,0.0,2009-2010,bb575fe7,Valladolid,"1,305",14.5,2.0,0.0,50.0,1.0,2546.0,Valladolid
+,Antonio Barragán,es ESP,"DF,MF",17,14,0.0,0.0,2009-2010,487d9b09,Valladolid,"1,247",13.9,4.0,0.0,50.0,1.0,,Valladolid
+,Jonathan Sesma,es ESP,"FW,MF",17,14,2.0,1.0,2009-2010,7484a7cc,Valladolid,988,11.0,1.0,0.0,50.0,1.0,2551.0,Valladolid
+,Asier del Horno,es ESP,DF,13,13,0.0,0.0,2009-2010,b525f4a,Valladolid,"1,165",12.9,6.0,1.0,50.0,1.0,,Valladolid
+,Henrique Sereno,pt POR,DF,12,12,0.0,0.0,2009-2010,70b198d8,Valladolid,"1,080",12.0,2.0,0.0,50.0,3.0,2568.0,Valladolid
+,Marquitos,es ESP,"FW,MF",19,10,1.0,2.0,2009-2010,b5e3874c,Valladolid,807,9.0,1.0,0.0,50.0,1.0,2569.0,Valladolid
+,Haris Medunjanin,ba BIH,MF,24,9,1.0,5.0,2009-2010,de5d5d41,Valladolid,"1,106",12.3,3.0,0.0,50.0,49.0,,Valladolid
+,Alberto Bueno,es ESP,"FW,MF",20,7,0.0,1.0,2009-2010,9b878773,Valladolid,863,9.6,0.0,0.0,50.0,1.0,78.0,Valladolid
+,Carlos Lázaro,es ESP,MF,8,6,0.0,0.0,2009-2010,785894a8,Valladolid,575,6.4,1.0,0.0,50.0,1.0,2570.0,Valladolid
+,Keko,es ESP,"FW,MF",13,4,1.0,0.0,2009-2010,1512328c,Valladolid,533,5.9,0.0,0.0,50.0,1.0,,Valladolid
+,Héctor Font,es ESP,MF,10,3,0.0,0.0,2009-2010,9982593d,Valladolid,363,4.0,2.0,0.0,50.0,1.0,,Valladolid
+,Sisi,es ESP,"FW,MF",5,3,0.0,1.0,2009-2010,dd7ec92,Valladolid,288,3.2,1.0,0.0,50.0,1.0,,Valladolid
+,Yuri Berchiche,es ESP,DF,1,1,0.0,0.0,2009-2010,b6e50615,Valladolid,90,1.0,1.0,0.0,50.0,1.0,,Valladolid
+,Fabricio,es ESP,GK,1,1,0.0,0.0,2009-2010,f245161,Valladolid,90,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Raúl Navas,es ESP,DF,1,1,,0.0,2009-2010,d178594,Valladolid,90,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Asier,es ESP,MF,1,1,0.0,0.0,2009-2010,c599392e,Valladolid,74,0.8,0.0,0.0,50.0,1.0,2549.0,Valladolid
+,Sergio García,es ESP,FW,1,0,0.0,0.0,2009-2010,caf2dc95,Valladolid,57,0.6,0.0,0.0,50.0,1.0,2571.0,Valladolid
+,﻿Javi Guerra,es ESP,FW,41,41,3.0,28.0,2010-2011,386464,Valladolid,"3,585",39.8,7.0,0.0,50.0,1.0,,Valladolid
+,Nauzet Alemán,es ESP,MF,33,33,14.0,7.0,2010-2011,4cf8242b,Valladolid,"2,701",30.0,12.0,1.0,50.0,1.0,2564.0,Valladolid
+,Sisi,es ESP,"FW,MF",35,31,2.0,2.0,2010-2011,dd7ec92,Valladolid,"2,677",29.7,9.0,0.0,50.0,1.0,,Valladolid
+,Carlos Peña,es ESP,DF,29,28,1.0,0.0,2010-2011,26a03602,Valladolid,"2,537",28.2,5.0,0.0,50.0,1.0,2572.0,Valladolid
+,Jordi,es ESP,DF,23,22,0.0,2.0,2010-2011,744a8a7c,Valladolid,"2,012",22.4,4.0,0.0,50.0,1.0,,Valladolid
+,Pedro López Muñoz,es ESP,DF,24,22,0.0,1.0,2010-2011,60823a4,Valladolid,"1,917",21.3,6.0,1.0,50.0,1.0,2542.0,Valladolid
+,Marc Valiente,es ESP,DF,24,21,0.0,2.0,2010-2011,fd333066,Valladolid,"1,921",21.3,4.0,0.0,50.0,1.0,,Valladolid
+,Javier Baraja,es ESP,"DF,MF",29,20,3.0,0.0,2010-2011,6514cd55,Valladolid,"1,927",21.4,7.0,1.0,50.0,1.0,2539.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",26,20,0.0,0.0,2010-2011,149770b8,Valladolid,"1,821",20.2,5.0,0.0,50.0,1.0,2547.0,Valladolid
+,Antonio Barragán,es ESP,"DF,MF",23,20,0.0,0.0,2010-2011,487d9b09,Valladolid,"1,803",20.0,9.0,0.0,50.0,1.0,,Valladolid
+,Jacobo,es ESP,GK,21,20,0.0,0.0,2010-2011,bb575fe7,Valladolid,"1,790",19.9,2.0,0.0,50.0,1.0,2546.0,Valladolid
+,Jorge Alonso,es ESP,MF,29,19,3.0,4.0,2010-2011,2c619fad,Valladolid,"1,738",19.3,5.0,0.0,50.0,1.0,2573.0,Valladolid
+,Óscar,es ESP,MF,27,19,2.0,7.0,2010-2011,627650df,Valladolid,"1,592",17.7,4.0,1.0,50.0,1.0,2506.0,Valladolid
+,Mehdi Nafti,tn TUN,MF,18,18,1.0,1.0,2010-2011,93e31883,Valladolid,"1,429",15.9,7.0,0.0,50.0,46.0,2574.0,Valladolid
+,Javi Jiménez,es ESP,GK,17,16,0.0,0.0,2010-2011,9fe99e45,Valladolid,"1,448",16.1,3.0,1.0,50.0,1.0,2575.0,Valladolid
+,César Arzo,es ESP,"DF,MF",16,16,0.0,1.0,2010-2011,0ea37b10,Valladolid,"1,440",16.0,10.0,0.0,50.0,1.0,2566.0,Valladolid
+,Juanito,es ESP,DF,16,16,0.0,0.0,2010-2011,3a6a5b63,Valladolid,"1,369",15.2,5.0,1.0,50.0,1.0,,Valladolid
+,Álvaro Antón,es ESP,MF,32,15,3.0,1.0,2010-2011,90041d71,Valladolid,"1,349",15.0,2.0,0.0,50.0,1.0,2520.0,Valladolid
+,Jofre,es ESP,MF,32,14,4.0,2.0,2010-2011,90bf887c,Valladolid,"1,453",16.1,1.0,0.0,50.0,1.0,2576.0,Valladolid
+,Guilherme Santos,br BRA,"DF,MF",15,13,0.0,0.0,2010-2011,ffd78d3d,Valladolid,"1,173",13.0,5.0,2.0,50.0,2.0,,Valladolid
+,Jesús Rueda,es ESP,"DF,MF",11,9,0.0,0.0,2010-2011,9d8ba8ec,Valladolid,768,8.5,1.0,0.0,50.0,1.0,2562.0,Valladolid
+,Antonio Calle,es ESP,FW,15,8,0.0,4.0,2010-2011,3d3d63b9,Valladolid,711,7.9,2.0,0.0,50.0,1.0,2577.0,Valladolid
+,Sergio Matabuena,es ESP,MF,14,6,1.0,0.0,2010-2011,93faf8c3,Valladolid,606,6.7,5.0,1.0,50.0,1.0,2578.0,Valladolid
+,Justo Villar,py PAR,GK,6,6,0.0,0.0,2010-2011,f30779d,Valladolid,517,5.7,2.0,0.0,50.0,43.0,2559.0,Valladolid
+,Fábio Faria,pt POR,DF,4,4,0.0,0.0,2010-2011,08d53bff,Valladolid,360,4.0,2.0,0.0,50.0,3.0,2579.0,Valladolid
+,Raúl Navas,es ESP,DF,3,3,0.0,0.0,2010-2011,d178594,Valladolid,270,3.0,1.0,0.0,50.0,1.0,,Valladolid
+,Alhassane Keita,gn GUI,FW,6,1,0.0,0.0,2010-2011,7676df3f,Valladolid,179,2.0,0.0,0.0,50.0,74.0,,Valladolid
+,Martinez Quique,,,6,1,0.0,0.0,2010-2011,,Valladolid,150,1.7,0.0,0.0,50.0,,,Valladolid
+,Bacari,gm GAM,FW,8,0,0.0,1.0,2010-2011,318ad79c,Valladolid,139,1.5,0.0,0.0,50.0,92.0,2580.0,Valladolid
+,José Salcedo,es ESP,GK,1,0,0.0,0.0,2010-2011,f21b3f06,Valladolid,26,0.3,0.0,0.0,50.0,1.0,2581.0,Valladolid
+,﻿Jaime,es ESP,GK,41,41,0.0,0.0,2011-2012,d7f052c3,Valladolid,"3,609",40.1,1.0,1.0,50.0,1.0,2582.0,Valladolid
+,Jesús Rueda,es ESP,"DF,MF",39,39,0.0,1.0,2011-2012,9d8ba8ec,Valladolid,"3,507",39.0,7.0,1.0,50.0,1.0,2562.0,Valladolid
+,Víctor Pérez,es ESP,MF,39,36,2.0,6.0,2011-2012,5918a484,Valladolid,"3,327",37.0,9.0,0.0,50.0,1.0,2583.0,Valladolid
+,Mikel Balenziaga,es ESP,DF,36,36,0.0,0.0,2011-2012,1fe67e86,Valladolid,"3,240",36.0,6.0,0.0,50.0,1.0,,Valladolid
+,Javi Guerra,es ESP,FW,36,34,6.0,17.0,2011-2012,386464,Valladolid,"2,922",32.5,6.0,0.0,50.0,1.0,,Valladolid
+,Carlos Peña,es ESP,DF,35,33,1.0,1.0,2011-2012,26a03602,Valladolid,"3,040",33.8,3.0,0.0,50.0,1.0,2572.0,Valladolid
+,Marc Valiente,es ESP,DF,33,33,0.0,1.0,2011-2012,fd333066,Valladolid,"2,911",32.3,6.0,0.0,50.0,1.0,,Valladolid
+,Óscar,es ESP,MF,34,32,8.0,13.0,2011-2012,627650df,Valladolid,"2,526",28.1,1.0,0.0,50.0,1.0,2506.0,Valladolid
+,Sisi,es ESP,"FW,MF",36,30,5.0,5.0,2011-2012,dd7ec92,Valladolid,"2,575",28.6,10.0,0.0,50.0,1.0,,Valladolid
+,Nauzet Alemán,es ESP,MF,31,26,8.0,9.0,2011-2012,4cf8242b,Valladolid,"2,303",25.6,12.0,1.0,50.0,1.0,2564.0,Valladolid
+,Mehdi Nafti,tn TUN,MF,33,25,2.0,0.0,2011-2012,93e31883,Valladolid,"2,122",23.6,11.0,1.0,50.0,46.0,2574.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",24,20,0.0,0.0,2011-2012,149770b8,Valladolid,"1,559",17.3,7.0,1.0,50.0,1.0,2547.0,Valladolid
+,Alberto Bueno,es ESP,"FW,MF",32,17,0.0,7.0,2011-2012,9b878773,Valladolid,"1,568",17.4,3.0,0.0,50.0,1.0,78.0,Valladolid
+,Jofre,es ESP,MF,37,16,3.0,3.0,2011-2012,90bf887c,Valladolid,"1,550",17.2,3.0,0.0,50.0,1.0,2576.0,Valladolid
+,Marquitos,es ESP,"FW,MF",24,10,2.0,1.0,2011-2012,b5e3874c,Valladolid,867,9.6,1.0,0.0,50.0,1.0,2569.0,Valladolid
+,Tekio,es ESP,DF,9,9,0.0,0.0,2011-2012,4ec9c7a9,Valladolid,746,8.3,3.0,1.0,50.0,1.0,2584.0,Valladolid
+,Juanito,es ESP,DF,8,8,0.0,0.0,2011-2012,3a6a5b63,Valladolid,701,7.8,3.0,0.0,50.0,1.0,,Valladolid
+,Víctor Mongil,es ESP,DF,7,5,0.0,0.0,2011-2012,dc9068d6,Valladolid,531,5.9,0.0,0.0,50.0,1.0,2585.0,Valladolid
+,Manucho,ao ANG,FW,18,3,0.0,4.0,2011-2012,89b18034,Valladolid,580,6.4,1.0,0.0,50.0,48.0,2565.0,Valladolid
+,Javier Baraja,es ESP,"DF,MF",21,3,0.0,0.0,2011-2012,6514cd55,Valladolid,534,5.9,4.0,0.0,50.0,1.0,2539.0,Valladolid
+,Jorge Alonso,es ESP,MF,5,3,1.0,1.0,2011-2012,2c619fad,Valladolid,237,2.6,1.0,0.0,50.0,1.0,2573.0,Valladolid
+,Dani Hernández,ve VEN,GK,2,1,0.0,0.0,2011-2012,ba02295e,Valladolid,172,1.9,0.0,0.0,50.0,53.0,2586.0,Valladolid
+,Antonio Barragán,es ESP,"DF,MF",1,1,0.0,0.0,2011-2012,487d9b09,Valladolid,90,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Felipe Alfonso,es ESP,DF,1,1,0.0,0.0,2011-2012,82d1a0c8,Valladolid,79,0.9,0.0,0.0,50.0,1.0,2587.0,Valladolid
+,Lassana Camará,gw GNB,MF,2,0,0.0,0.0,2011-2012,56ad26a6,Valladolid,35,0.4,0.0,0.0,50.0,93.0,2588.0,Valladolid
+,Javi Navas,es ESP,MF,1,0,0.0,0.0,2011-2012,b8a12de6,Valladolid,32,0.4,0.0,0.0,50.0,1.0,2589.0,Valladolid
+,Dani Aquino,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,060a66fb,Valladolid,17,0.2,0.0,0.0,50.0,1.0,,Valladolid
+,﻿Antonio Rukavina,rs SRB,DF,37,37,2.0,1.0,2012-2013,12d7851,Valladolid,"3,314",36.8,5.0,1.0,50.0,28.0,2590.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",35,34,2.0,0.0,2012-2013,149770b8,Valladolid,"2,809",31.2,8.0,0.0,50.0,1.0,2547.0,Valladolid
+,Óscar,es ESP,MF,35,33,8.0,12.0,2012-2013,627650df,Valladolid,"2,937",32.6,6.0,0.0,50.0,1.0,2506.0,Valladolid
+,Mikel Balenziaga,es ESP,DF,32,32,1.0,0.0,2012-2013,1fe67e86,Valladolid,"2,867",31.9,3.0,0.0,50.0,1.0,,Valladolid
+,Omar Ramos,es ESP,"FW,MF",34,29,3.0,1.0,2012-2013,0657888a,Valladolid,"2,411",26.8,5.0,0.0,50.0,1.0,2591.0,Valladolid
+,Marc Valiente,es ESP,DF,28,28,0.0,0.0,2012-2013,fd333066,Valladolid,"2,404",26.7,4.0,0.0,50.0,1.0,,Valladolid
+,Jesús Rueda,es ESP,"DF,MF",28,26,0.0,0.0,2012-2013,9d8ba8ec,Valladolid,"2,414",26.8,3.0,0.0,50.0,1.0,2562.0,Valladolid
+,Víctor Pérez,es ESP,MF,25,24,1.0,4.0,2012-2013,5918a484,Valladolid,"2,166",24.1,4.0,0.0,50.0,1.0,2583.0,Valladolid
+,Dani Hernández,ve VEN,GK,24,24,0.0,0.0,2012-2013,ba02295e,Valladolid,"2,160",24.0,1.0,0.0,50.0,53.0,2586.0,Valladolid
+,Patrick Ebert,de GER,"FW,MF",23,22,8.0,6.0,2012-2013,92d24319,Valladolid,"1,791",19.9,4.0,0.0,50.0,13.0,2592.0,Valladolid
+,Henrique Sereno,pt POR,DF,20,19,0.0,1.0,2012-2013,70b198d8,Valladolid,"1,671",18.6,6.0,1.0,50.0,3.0,2568.0,Valladolid
+,Manucho,ao ANG,FW,25,19,2.0,8.0,2012-2013,89b18034,Valladolid,"1,648",18.3,4.0,1.0,50.0,48.0,2565.0,Valladolid
+,Javi Guerra,es ESP,FW,30,17,0.0,8.0,2012-2013,386464,Valladolid,"1,612",17.9,4.0,0.0,50.0,1.0,,Valladolid
+,Daniel Larsson,se SWE,"FW,MF",18,17,1.0,0.0,2012-2013,43833b31,Valladolid,"1,352",15.0,2.0,0.0,50.0,41.0,2593.0,Valladolid
+,Alberto Bueno,es ESP,"FW,MF",33,14,3.0,5.0,2012-2013,9b878773,Valladolid,"1,516",16.8,4.0,0.0,50.0,1.0,78.0,Valladolid
+,Jaime,es ESP,GK,14,14,0.0,0.0,2012-2013,d7f052c3,Valladolid,"1,260",14.0,1.0,0.0,50.0,1.0,2582.0,Valladolid
+,Lluís Sastre,es ESP,MF,29,13,0.0,1.0,2012-2013,5f186f5c,Valladolid,"1,392",15.5,10.0,0.0,50.0,1.0,2594.0,Valladolid
+,Carlos Peña,es ESP,DF,17,11,1.0,0.0,2012-2013,26a03602,Valladolid,"1,065",11.8,3.0,0.0,50.0,1.0,2572.0,Valladolid
+,Javier Baraja,es ESP,"DF,MF",12,3,0.0,1.0,2012-2013,6514cd55,Valladolid,344,3.8,1.0,0.0,50.0,1.0,2539.0,Valladolid
+,Valdet Rama,al ALB,"FW,MF",5,1,0.0,0.0,2012-2013,00b159ff,Valladolid,139,1.5,0.0,0.0,50.0,78.0,2595.0,Valladolid
+,Juan Neira,ar ARG,"FW,MF",7,1,0.0,0.0,2012-2013,12d25112,Valladolid,108,1.2,1.0,0.0,50.0,5.0,2596.0,Valladolid
+,Lolo,es ESP,"FW,MF",7,0,0.0,0.0,2012-2013,7754566,Valladolid,105,1.2,1.0,0.0,50.0,1.0,2597.0,Valladolid
+,Rubén Peña,es ESP,"DF,MF",4,0,0.0,0.0,2012-2013,1f079188,Valladolid,75,0.8,0.0,0.0,50.0,1.0,,Valladolid
+,﻿Carlos Peña,es ESP,DF,37,37,4.0,1.0,2013-2014,26a03602,Valladolid,"3,324",36.9,5.0,0.0,50.0,1.0,2572.0,Valladolid
+,Javi Guerra,es ESP,FW,37,37,1.0,15.0,2013-2014,386464,Valladolid,"3,132",34.8,9.0,0.0,50.0,1.0,,Valladolid
+,Antonio Rukavina,rs SRB,DF,34,34,1.0,1.0,2013-2014,12d7851,Valladolid,"3,060",34.0,6.0,0.0,50.0,28.0,2590.0,Valladolid
+,Jesús Rueda,es ESP,"DF,MF",35,33,0.0,1.0,2013-2014,9d8ba8ec,Valladolid,"2,993",33.3,6.0,0.0,50.0,1.0,2562.0,Valladolid
+,Diego Mariño,es ESP,GK,28,28,0.0,0.0,2013-2014,d9235a45,Valladolid,"2,520",28.0,2.0,0.0,50.0,1.0,2598.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",31,28,0.0,0.0,2013-2014,149770b8,Valladolid,"2,457",27.3,9.0,0.0,50.0,1.0,2547.0,Valladolid
+,Marc Valiente,es ESP,DF,29,27,1.0,1.0,2013-2014,fd333066,Valladolid,"2,378",26.4,5.0,0.0,50.0,1.0,,Valladolid
+,Fausto Rossi,it ITA,MF,31,25,3.0,1.0,2013-2014,79a8fa04,Valladolid,"2,253",25.0,10.0,0.0,50.0,9.0,2599.0,Valladolid
+,Daniel Larsson,se SWE,"FW,MF",28,21,1.0,3.0,2013-2014,43833b31,Valladolid,"1,643",18.3,1.0,0.0,50.0,41.0,2593.0,Valladolid
+,Zakarya Bergdich,ma MAR,"DF,MF",22,19,2.0,0.0,2013-2014,833676b4,Valladolid,"1,514",16.8,6.0,1.0,50.0,26.0,2600.0,Valladolid
+,Óscar,es ESP,MF,22,17,4.0,1.0,2013-2014,627650df,Valladolid,"1,630",18.1,2.0,0.0,50.0,1.0,2506.0,Valladolid
+,Stefan Mitrović,rs SRB,DF,16,16,0.0,0.0,2013-2014,6777e6b,Valladolid,"1,440",16.0,9.0,0.0,50.0,28.0,2601.0,Valladolid
+,Omar Ramos,es ESP,"FW,MF",25,14,1.0,0.0,2013-2014,0657888a,Valladolid,"1,301",14.5,3.0,0.0,50.0,1.0,2591.0,Valladolid
+,Víctor Pérez,es ESP,MF,19,13,0.0,1.0,2013-2014,5918a484,Valladolid,"1,140",12.7,3.0,0.0,50.0,1.0,2583.0,Valladolid
+,Patrick Ebert,de GER,"FW,MF",13,13,5.0,3.0,2013-2014,92d24319,Valladolid,990,11.0,7.0,1.0,50.0,13.0,2592.0,Valladolid
+,Lluís Sastre,es ESP,MF,14,10,0.0,0.0,2013-2014,5f186f5c,Valladolid,941,10.5,6.0,0.0,50.0,1.0,2594.0,Valladolid
+,Jaime,es ESP,GK,10,10,0.0,0.0,2013-2014,d7f052c3,Valladolid,900,10.0,1.0,0.0,50.0,1.0,2582.0,Valladolid
+,Valdet Rama,al ALB,"FW,MF",26,9,1.0,1.0,2013-2014,00b159ff,Valladolid,"1,036",11.5,3.0,0.0,50.0,78.0,2595.0,Valladolid
+,Manucho,ao ANG,FW,26,8,2.0,3.0,2013-2014,89b18034,Valladolid,914,10.2,4.0,0.0,50.0,48.0,2565.0,Valladolid
+,Javier Baraja,es ESP,"DF,MF",12,6,1.0,0.0,2013-2014,6514cd55,Valladolid,520,5.8,4.0,0.0,50.0,1.0,2539.0,Valladolid
+,Jeffrén Suárez,ve VEN,"FW,MF",11,5,1.0,0.0,2013-2014,01e9c0a6,Valladolid,479,5.3,0.0,0.0,50.0,53.0,,Valladolid
+,Gilberto García,co COL,"DF,MF",8,4,0.0,1.0,2013-2014,d283458e,Valladolid,377,4.2,0.0,0.0,50.0,19.0,2602.0,Valladolid
+,Humberto Osorio,co COL,FW,16,3,0.0,4.0,2013-2014,72ada906,Valladolid,532,5.9,0.0,0.0,50.0,19.0,2603.0,Valladolid
+,Heinz Barmettler,do DOM,DF,1,1,0.0,0.0,2013-2014,cf153d8e,Valladolid,90,1.0,0.0,0.0,50.0,25.0,2604.0,Valladolid
+,Zubi,es ESP,MF,1,0,0.0,0.0,2013-2014,fa3d45ba,Valladolid,6,0.1,0.0,0.0,50.0,1.0,2605.0,Valladolid
+,﻿Javi Varas,es ESP,GK,38,38,0.0,0.0,2014-2015,6db3da37,Valladolid,"3,407",37.9,0.0,1.0,50.0,1.0,,Valladolid
+,Óscar,es ESP,MF,39,38,9.0,16.0,2014-2015,627650df,Valladolid,"3,169",35.2,4.0,0.0,50.0,1.0,2506.0,Valladolid
+,Carlos Peña,es ESP,DF,37,36,1.0,1.0,2014-2015,26a03602,Valladolid,"3,274",36.4,7.0,0.0,50.0,1.0,2572.0,Valladolid
+,Javier Chica,es ESP,DF,34,33,2.0,0.0,2014-2015,991b2cec,Valladolid,"2,969",33.0,9.0,1.0,50.0,1.0,,Valladolid
+,André Leão,pt POR,MF,35,33,4.0,0.0,2014-2015,f22be090,Valladolid,"2,912",32.4,7.0,1.0,50.0,3.0,2606.0,Valladolid
+,Jesús Rueda,es ESP,"DF,MF",32,31,1.0,1.0,2014-2015,9d8ba8ec,Valladolid,"2,786",31.0,9.0,0.0,50.0,1.0,2562.0,Valladolid
+,Marc Valiente,es ESP,DF,31,31,1.0,1.0,2014-2015,fd333066,Valladolid,"2,696",30.0,10.0,0.0,50.0,1.0,,Valladolid
+,David Timor,es ESP,"DF,MF",35,29,2.0,5.0,2014-2015,174651c8,Valladolid,"2,569",28.5,11.0,0.0,50.0,1.0,,Valladolid
+,Johan Mojica,co COL,"DF,MF",33,29,6.0,7.0,2014-2015,608f2092,Valladolid,"2,455",27.3,3.0,0.0,50.0,19.0,2607.0,Valladolid
+,Jeffrén Suárez,ve VEN,"FW,MF",35,19,2.0,3.0,2014-2015,01e9c0a6,Valladolid,"1,638",18.2,3.0,0.0,50.0,53.0,,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",28,17,4.0,2.0,2014-2015,149770b8,Valladolid,"1,619",18.0,3.0,0.0,50.0,1.0,2547.0,Valladolid
+,Samuel Llorca,es ESP,DF,18,16,0.0,0.0,2014-2015,9c3d54f0,Valladolid,"1,386",15.4,6.0,0.0,50.0,1.0,,Valladolid
+,Óscar Díaz,es ESP,"FW,MF",27,15,2.0,2.0,2014-2015,5a5ed410,Valladolid,"1,427",15.9,4.0,0.0,50.0,1.0,,Valladolid
+,Chus Herrero,es ESP,DF,16,14,0.0,0.0,2014-2015,c34a4f0,Valladolid,"1,174",13.0,4.0,0.0,50.0,1.0,2608.0,Valladolid
+,Roger Martí,es ESP,FW,16,13,1.0,6.0,2014-2015,0ae4e09a,Valladolid,"1,107",12.3,4.0,0.0,50.0,1.0,2609.0,Valladolid
+,Omar Ramos,es ESP,"FW,MF",32,12,0.0,0.0,2014-2015,0657888a,Valladolid,"1,262",14.0,5.0,0.0,50.0,1.0,2591.0,Valladolid
+,Hernán Pérez,py PAR,"FW,MF",14,12,2.0,3.0,2014-2015,1cea3f7,Valladolid,"1,096",12.2,3.0,0.0,50.0,43.0,2610.0,Valladolid
+,Jonathan Pereira,es ESP,FW,19,12,3.0,6.0,2014-2015,806ab4b6,Valladolid,999,11.1,5.0,1.0,50.0,1.0,,Valladolid
+,Zakarya Bergdich,ma MAR,"DF,MF",17,12,0.0,5.0,2014-2015,833676b4,Valladolid,946,10.5,3.0,0.0,50.0,26.0,2600.0,Valladolid
+,Lluís Sastre,es ESP,MF,19,11,0.0,0.0,2014-2015,5f186f5c,Valladolid,995,11.1,5.0,0.0,50.0,1.0,2594.0,Valladolid
+,Túlio de Melo,br BRA,FW,10,3,0.0,2.0,2014-2015,2a9ab91,Valladolid,373,4.1,1.0,0.0,50.0,2.0,2611.0,Valladolid
+,Dani Hernández,ve VEN,GK,3,3,0.0,0.0,2014-2015,ba02295e,Valladolid,270,3.0,1.0,0.0,50.0,53.0,2586.0,Valladolid
+,Alejandro Alfaro,es ESP,"FW,MF",6,2,0.0,0.0,2014-2015,7c293728,Valladolid,357,4.0,1.0,0.0,50.0,1.0,,Valladolid
+,Brian Herrero,,DF,2,1,0.0,0.0,2014-2015,99edbc78,Valladolid,125,1.4,0.0,0.0,50.0,,,Valladolid
+,Xavier Carmona,es ESP,DF,1,1,0.0,0.0,2014-2015,573653ac,Valladolid,90,1.0,1.0,0.0,50.0,1.0,2612.0,Valladolid
+,Iván Casado Ortiz,es ESP,DF,1,1,0.0,0.0,2014-2015,749ad57,Valladolid,90,1.0,0.0,0.0,50.0,1.0,2613.0,Valladolid
+,Raúl Fernández,es ESP,GK,1,1,0.0,0.0,2014-2015,6fb59070,Valladolid,90,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Guille Andrés,es ESP,FW,6,0,0.0,0.0,2014-2015,dbd2e313,Valladolid,115,1.3,0.0,0.0,50.0,1.0,2614.0,Valladolid
+,Jorge Hernández,es ESP,MF,3,0,0.0,0.0,2014-2015,618433,Valladolid,50,0.6,0.0,0.0,50.0,1.0,2615.0,Valladolid
+,Julio Iricibar,es ESP,GK,1,0,0.0,0.0,2014-2015,c1d01bd5,Valladolid,13,0.1,0.0,0.0,50.0,1.0,2616.0,Valladolid
+,Brian Oliván,es ESP,DF,0,0,,,2014-2015,3e4bf46,Valladolid,,,,,50.0,1.0,,Valladolid
+,﻿Kepa Arrizabalaga,es ESP,GK,39,39,0.0,0.0,2015-2016,28d596a0,Valladolid,"3,510",39.0,4.0,0.0,50.0,1.0,,Valladolid
+,Juan Villar,es ESP,"FW,MF",39,35,5.0,15.0,2015-2016,c33ee247,Valladolid,"3,017",33.5,9.0,1.0,50.0,1.0,,Valladolid
+,Juanpe,es ESP,DF,33,31,0.0,0.0,2015-2016,1633fc8a,Valladolid,"2,710",30.1,7.0,1.0,50.0,1.0,2617.0,Valladolid
+,Marcelo Silva,uy URU,DF,31,31,0.0,2.0,2015-2016,b9596515,Valladolid,"2,669",29.7,8.0,1.0,50.0,8.0,2618.0,Valladolid
+,Mario Hermoso,es ESP,DF,31,30,2.0,0.0,2015-2016,555f3a0b,Valladolid,"2,673",29.7,8.0,0.0,50.0,1.0,,Valladolid
+,André Leão,pt POR,MF,31,26,1.0,0.0,2015-2016,f22be090,Valladolid,"2,203",24.5,11.0,0.0,50.0,3.0,2606.0,Valladolid
+,Johan Mojica,co COL,"DF,MF",31,25,7.0,1.0,2015-2016,608f2092,Valladolid,"2,226",24.7,5.0,1.0,50.0,19.0,2607.0,Valladolid
+,Javi Moyano,es ESP,DF,24,24,1.0,0.0,2015-2016,933e8c8a,Valladolid,"2,112",23.5,4.0,1.0,50.0,1.0,2619.0,Valladolid
+,Álvaro Rubio,es ESP,"DF,MF",29,23,1.0,0.0,2015-2016,149770b8,Valladolid,"1,937",21.5,5.0,0.0,50.0,1.0,2547.0,Valladolid
+,Javier Chica,es ESP,DF,24,22,0.0,0.0,2015-2016,991b2cec,Valladolid,"1,991",22.1,7.0,0.0,50.0,1.0,,Valladolid
+,Rodri,es ESP,FW,34,20,2.0,4.0,2015-2016,5200dce9,Valladolid,"1,814",20.2,9.0,0.0,50.0,1.0,,Valladolid
+,Manu del Moral,es ESP,FW,25,19,1.0,3.0,2015-2016,1026f88d,Valladolid,"1,497",16.6,2.0,0.0,50.0,1.0,,Valladolid
+,Pedro Tiba,pt POR,"FW,MF",28,17,2.0,0.0,2015-2016,2e594b84,Valladolid,"1,584",17.6,5.0,0.0,50.0,3.0,2620.0,Valladolid
+,Roger Martí,es ESP,FW,19,17,2.0,8.0,2015-2016,0ae4e09a,Valladolid,"1,487",16.5,4.0,0.0,50.0,1.0,2609.0,Valladolid
+,Óscar,es ESP,MF,24,17,1.0,4.0,2015-2016,627650df,Valladolid,"1,425",15.8,2.0,0.0,50.0,1.0,2506.0,Valladolid
+,David Timor,es ESP,"DF,MF",18,15,1.0,0.0,2015-2016,174651c8,Valladolid,"1,409",15.7,7.0,0.0,50.0,1.0,,Valladolid
+,Samuel Llorca,es ESP,DF,18,14,0.0,1.0,2015-2016,9c3d54f0,Valladolid,"1,404",15.6,8.0,1.0,50.0,1.0,,Valladolid
+,Borja Fernández,es ESP,MF,17,13,0.0,0.0,2015-2016,9127f9ce,Valladolid,"1,255",13.9,9.0,0.0,50.0,1.0,26.0,Valladolid
+,Nikolaos Karabelas,gr GRE,DF,11,11,1.0,0.0,2015-2016,41c6410,Valladolid,905,10.1,4.0,0.0,50.0,55.0,2621.0,Valladolid
+,Vincenzo Rennella,it ITA,FW,14,10,1.0,3.0,2015-2016,b3c467b4,Valladolid,883,9.8,2.0,0.0,50.0,9.0,,Valladolid
+,Alejandro Alfaro,es ESP,"FW,MF",12,8,1.0,0.0,2015-2016,7c293728,Valladolid,704,7.8,2.0,0.0,50.0,1.0,,Valladolid
+,Guzmán Casaseca,es ESP,MF,27,6,0.0,3.0,2015-2016,f05d4004,Valladolid,817,9.1,1.0,0.0,50.0,1.0,2622.0,Valladolid
+,Diego Rubio,cl CHI,"FW,MF",13,3,2.0,0.0,2015-2016,3f082234,Valladolid,422,4.7,3.0,0.0,50.0,31.0,2623.0,Valladolid
+,Ángel,es ESP,"DF,MF",3,3,0.0,1.0,2015-2016,4a7078f9,Valladolid,270,3.0,1.0,0.0,50.0,1.0,2624.0,Valladolid
+,Julio Iricibar,es ESP,GK,2,2,0.0,0.0,2015-2016,c1d01bd5,Valladolid,180,2.0,1.0,0.0,50.0,1.0,2616.0,Valladolid
+,Bruno Varela,pt POR,GK,1,1,0.0,0.0,2015-2016,2bea06e0,Valladolid,90,1.0,0.0,0.0,50.0,3.0,2625.0,Valladolid
+,José Arnaiz,es ESP,"FW,MF",5,0,0.0,0.0,2015-2016,46e07328,Valladolid,89,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Caye Quintana,es ESP,FW,1,0,0.0,0.0,2015-2016,42b47114,Valladolid,30,0.3,1.0,0.0,50.0,1.0,,Valladolid
+,Anuar,ma MAR,MF,1,0,0.0,0.0,2015-2016,c93231dc,Valladolid,24,0.3,0.0,0.0,50.0,26.0,2626.0,Valladolid
+,Erik Moreno,co COL,FW,1,0,0.0,0.0,2015-2016,918e1545,Valladolid,18,0.2,0.0,0.0,50.0,19.0,2627.0,Valladolid
+,Dani Espinar,es ESP,MF,0,0,,,2015-2016,4896d481,Valladolid,,,,,50.0,1.0,2628.0,Valladolid
+,Óscar Font,es ESP,DF,0,0,,,2015-2016,dd6990fd,Valladolid,,,,,50.0,1.0,2629.0,Valladolid
+,Dani Hernández,es ESP,GK,0,0,,,2015-2016,d4d7e40f,Valladolid,,,,,50.0,1.0,2630.0,Valladolid
+,Jorge Hernández,es ESP,MF,0,0,,,2015-2016,618433,Valladolid,,,,,50.0,1.0,2615.0,Valladolid
+,Diego Mariño,es ESP,GK,0,0,,,2015-2016,d9235a45,Valladolid,,,,,50.0,1.0,2598.0,Valladolid
+,Cristian Moreno,es ESP,DF,0,0,,,2015-2016,30a57,Valladolid,,,,,50.0,1.0,2631.0,Valladolid
+,Rody Zambrano,ec ECU,"DF,MF",0,0,,,2015-2016,32015774,Valladolid,,,,,50.0,61.0,2632.0,Valladolid
+,﻿Javi Moyano,es ESP,DF,41,41,3.0,0.0,2016-2017,933e8c8a,Valladolid,"3,652",40.6,8.0,0.0,50.0,1.0,2619.0,Valladolid
+,Luciano Balbi,ar ARG,DF,40,40,4.0,0.0,2016-2017,8b93b1b4,Valladolid,"3,432",38.1,7.0,0.0,50.0,5.0,2633.0,Valladolid
+,Míchel,es ESP,"MF,FW",42,38,6.0,3.0,2016-2017,418f8f61,Valladolid,"3,307",36.7,4.0,0.0,50.0,1.0,,Valladolid
+,André Leão,pt POR,MF,37,37,0.0,0.0,2016-2017,f22be090,Valladolid,"3,151",35.0,7.0,0.0,50.0,3.0,2606.0,Valladolid
+,Joan Jordán,es ESP,MF,35,35,4.0,3.0,2016-2017,2a0c8ba4,Valladolid,"2,964",32.9,5.0,0.0,50.0,1.0,,Valladolid
+,Isaac Becerra,es ESP,GK,34,34,0.0,0.0,2016-2017,bee5d245,Valladolid,"3,049",33.9,2.0,0.0,50.0,1.0,2634.0,Valladolid
+,José Arnaiz,es ESP,"MF,FW",35,33,3.0,12.0,2016-2017,46e07328,Valladolid,"2,700",30.0,3.0,0.0,50.0,1.0,,Valladolid
+,Álex Pérez,es ESP,DF,35,32,0.0,1.0,2016-2017,8dac6f70,Valladolid,"2,912",32.4,2.0,0.0,50.0,1.0,2635.0,Valladolid
+,Alberto Guitián,es ESP,"DF,MF",32,28,0.0,0.0,2016-2017,0eaaa3b0,Valladolid,"2,566",28.5,3.0,0.0,50.0,1.0,2636.0,Valladolid
+,Álex López,es ESP,MF,30,24,2.0,1.0,2016-2017,30b44896,Valladolid,"2,153",23.9,5.0,0.0,50.0,1.0,,Valladolid
+,Juan Villar,es ESP,"FW,MF",31,21,4.0,10.0,2016-2017,c33ee247,Valladolid,"1,809",20.1,7.0,2.0,50.0,1.0,,Valladolid
+,Raúl de Tomás,es ESP,FW,36,20,2.0,14.0,2016-2017,02ef8778,Valladolid,"1,955",21.7,5.0,0.0,50.0,1.0,131.0,Valladolid
+,Jaime Mata,es ESP,"FW,MF",28,18,2.0,5.0,2016-2017,02319ad7,Valladolid,"1,623",18.0,4.0,2.0,50.0,1.0,2637.0,Valladolid
+,Rafa,es ESP,DF,19,16,2.0,0.0,2016-2017,0b89dbcc,Valladolid,"1,393",15.5,3.0,0.0,50.0,1.0,2528.0,Valladolid
+,Igor Lichnovsky,cl CHI,DF,18,15,0.0,1.0,2016-2017,3947fa95,Valladolid,"1,383",15.4,5.0,0.0,50.0,31.0,2638.0,Valladolid
+,Pau Torres,es ESP,GK,9,8,0.0,0.0,2016-2017,2912fea1,Valladolid,731,8.1,2.0,0.0,50.0,1.0,2639.0,Valladolid
+,Cristian Espinoza,ar ARG,MF,9,7,3.0,0.0,2016-2017,9c794a80,Valladolid,503,5.6,2.0,0.0,50.0,5.0,2640.0,Valladolid
+,Iván Salvador,gq EQG,"MF,FW",10,5,0.0,1.0,2016-2017,dafba16,Valladolid,386,4.3,0.0,0.0,50.0,10.0,2641.0,Valladolid
+,Sergio Marcos,es ESP,MF,22,4,0.0,0.0,2016-2017,331be23,Valladolid,581,6.5,0.0,0.0,50.0,1.0,2642.0,Valladolid
+,Ángel,es ESP,DF,16,2,0.0,0.0,2016-2017,4a7078f9,Valladolid,537,6.0,2.0,0.0,50.0,1.0,2624.0,Valladolid
+,Dejan Dražić,rs SRB,FW,13,1,0.0,0.0,2016-2017,9457fb9,Valladolid,305,3.4,1.0,0.0,50.0,28.0,,Valladolid
+,Markel Etxeberria,es ESP,DF,5,1,1.0,0.0,2016-2017,da688437,Valladolid,187,2.1,0.0,0.0,50.0,1.0,2643.0,Valladolid
+,Renzo Zambrano,ve VEN,MF,2,1,0.0,0.0,2016-2017,526bf96c,Valladolid,90,1.0,0.0,0.0,50.0,53.0,2644.0,Valladolid
+,Luismi Quezada,do DOM,DF,4,0,0.0,0.0,2016-2017,53440b3c,Valladolid,102,1.1,0.0,0.0,50.0,25.0,152.0,Valladolid
+,Anuar,ma MAR,MF,2,0,0.0,0.0,2016-2017,c93231dc,Valladolid,55,0.6,0.0,0.0,50.0,26.0,2626.0,Valladolid
+,Guzmán Casaseca,es ESP,MF,1,0,0.0,0.0,2016-2017,f05d4004,Valladolid,12,0.1,0.0,0.0,50.0,1.0,2622.0,Valladolid
+,David Mayoral,es ESP,MF,1,0,0.0,0.0,2016-2017,481b83fc,Valladolid,3,0.0,0.0,0.0,50.0,1.0,2654.0,Valladolid
+,Dani Hernández,es ESP,GK,0,0,,,2016-2017,d4d7e40f,Valladolid,,,,,50.0,1.0,2630.0,Valladolid
+,Luismi,es ESP,"DF,MF",0,0,,,2016-2017,c2cfbfc9,Valladolid,,,,,50.0,1.0,,Valladolid
+,﻿Jordi Masip,es ESP,GK,42,42,1.0,0.0,2017-2018,8fae77ea,Valladolid,"3,780",42.0,3.0,0.0,50.0,1.0,,Valladolid
+,Jaime Mata,es ESP,FW,39,38,5.0,33.0,2017-2018,02319ad7,Valladolid,"3,388",37.6,12.0,0.0,50.0,1.0,2637.0,Valladolid
+,Borja Fernández,es ESP,MF,37,36,2.0,3.0,2017-2018,9127f9ce,Valladolid,"3,186",35.4,16.0,0.0,50.0,1.0,26.0,Valladolid
+,Antoñito,es ESP,DF,35,33,1.0,0.0,2017-2018,dbe519cf,Valladolid,"2,984",33.2,4.0,0.0,50.0,1.0,2645.0,Valladolid
+,Kiko Olivas,es ESP,DF,34,33,2.0,0.0,2017-2018,72b07a9c,Valladolid,"2,900",32.2,4.0,4.0,50.0,1.0,,Valladolid
+,Óscar Plano,es ESP,MF,40,32,8.0,4.0,2017-2018,7c388b20,Valladolid,"2,747",30.5,5.0,0.0,50.0,1.0,2646.0,Valladolid
+,Pablo Hervías,es ESP,MF,38,28,5.0,4.0,2017-2018,ba5a9545,Valladolid,"2,385",26.5,3.0,0.0,50.0,1.0,,Valladolid
+,Luismi,es ESP,MF,29,28,3.0,3.0,2017-2018,c2cfbfc9,Valladolid,"2,345",26.1,9.0,2.0,50.0,1.0,,Valladolid
+,Javi Moyano,es ESP,DF,26,26,0.0,1.0,2017-2018,933e8c8a,Valladolid,"2,284",25.4,6.0,0.0,50.0,1.0,2619.0,Valladolid
+,Deivid,es ESP,DF,24,24,0.0,1.0,2017-2018,c1c76662,Valladolid,"2,048",22.8,4.0,0.0,50.0,1.0,,Valladolid
+,Fernando Calero,es ESP,DF,23,21,0.0,1.0,2017-2018,41b3069f,Valladolid,"1,984",22.0,6.0,0.0,50.0,1.0,2647.0,Valladolid
+,Toni Villa,es ESP,MF,30,19,2.0,2.0,2017-2018,636eae97,Valladolid,"1,657",18.4,4.0,0.0,50.0,1.0,2648.0,Valladolid
+,Míchel,es ESP,MF,29,17,4.0,5.0,2017-2018,418f8f61,Valladolid,"1,729",19.2,6.0,2.0,50.0,1.0,,Valladolid
+,Nacho,es ESP,DF,18,17,3.0,0.0,2017-2018,29d1111,Valladolid,"1,560",17.3,5.0,0.0,50.0,1.0,2649.0,Valladolid
+,Anuar,ma MAR,MF,25,17,1.0,1.0,2017-2018,c93231dc,Valladolid,"1,488",16.5,4.0,0.0,50.0,26.0,2626.0,Valladolid
+,Iván Salvador,gq EQG,MF,19,14,1.0,3.0,2017-2018,dafba16,Valladolid,"1,079",12.0,7.0,0.0,50.0,10.0,2641.0,Valladolid
+,Javier Ontiveros,es ESP,MF,14,8,1.0,0.0,2017-2018,83d8b0c,Valladolid,637,7.1,2.0,0.0,50.0,1.0,,Valladolid
+,Ángel,es ESP,DF,7,7,0.0,1.0,2017-2018,4a7078f9,Valladolid,614,6.8,2.0,0.0,50.0,1.0,2624.0,Valladolid
+,Giannis Gianniotas,gr GRE,MF,27,6,3.0,2.0,2017-2018,fe2d2289,Valladolid,888,9.9,8.0,0.0,50.0,55.0,2650.0,Valladolid
+,Alberto Guitián,es ESP,"DF,MF",5,5,0.0,1.0,2017-2018,0eaaa3b0,Valladolid,450,5.0,1.0,0.0,50.0,1.0,2636.0,Valladolid
+,Borja Herrera,es ESP,DF,5,4,1.0,0.0,2017-2018,4f6d9bcd,Valladolid,362,4.0,2.0,0.0,50.0,1.0,2651.0,Valladolid
+,Antonio Cotán,es ESP,MF,8,3,1.0,0.0,2017-2018,d92dd30e,Valladolid,277,3.1,0.0,0.0,50.0,1.0,,Valladolid
+,Toni Martínez,es ESP,FW,10,2,0.0,1.0,2017-2018,f3945e07,Valladolid,220,2.4,5.0,0.0,50.0,1.0,2652.0,Valladolid
+,Chris Ramos,es ESP,FW,6,1,0.0,0.0,2017-2018,44e07fac,Valladolid,149,1.7,0.0,0.0,50.0,1.0,2653.0,Valladolid
+,José Arnaiz,es ESP,MF,1,1,0.0,0.0,2017-2018,46e07328,Valladolid,90,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Asier Villalibre,es ESP,FW,13,0,0.0,0.0,2017-2018,57be54ec,Valladolid,235,2.6,1.0,0.0,50.0,1.0,,Valladolid
+,David Mayoral,es ESP,MF,3,0,0.0,0.0,2017-2018,481b83fc,Valladolid,14,0.2,0.0,0.0,50.0,1.0,2654.0,Valladolid
+,Isaac Becerra,es ESP,GK,1,0,,,2017-2018,bee5d245,Valladolid,,,,,50.0,1.0,2634.0,Valladolid
+,Luis Javier Suárez,co COL,FW,0,0,,,2017-2018,ba07f8,Valladolid,,,,,50.0,19.0,2655.0,Valladolid
+,Sergio Marcos,es ESP,MF,0,0,,,2017-2018,331be23,Valladolid,,,,,50.0,1.0,2642.0,Valladolid
+,Sulayman Marreh,gm GAM,"DF,MF",0,0,,,2017-2018,44b49036,Valladolid,,,,,50.0,92.0,2656.0,Valladolid
+,Lukas Rotpuller,at AUT,DF,0,0,,,2017-2018,8498e43e,Valladolid,,,,,50.0,24.0,2657.0,Valladolid
+,﻿Jordi Masip,es ESP,GK,35,35,0.0,0.0,2018-2019,8fae77ea,Valladolid,"3,150",35.0,1.0,0.0,50.0,1.0,,Valladolid
+,Nacho,es ESP,DF,35,35,3.0,1.0,2018-2019,29d1111,Valladolid,"3,150",35.0,10.0,0.0,50.0,1.0,2649.0,Valladolid
+,Fernando Calero,es ESP,DF,36,35,0.0,1.0,2018-2019,41b3069f,Valladolid,"3,130",34.8,7.0,0.0,50.0,1.0,2647.0,Valladolid
+,Kiko Olivas,es ESP,DF,35,35,0.0,0.0,2018-2019,72b07a9c,Valladolid,"3,100",34.4,6.0,0.0,50.0,1.0,,Valladolid
+,Rubén Alcaraz,es ESP,MF,34,34,2.0,3.0,2018-2019,036bba5f,Valladolid,"2,976",33.1,13.0,0.0,50.0,1.0,2658.0,Valladolid
+,Óscar Plano,es ESP,"MF,FW",33,30,4.0,3.0,2018-2019,7c388b20,Valladolid,"2,693",29.9,8.0,0.0,50.0,1.0,2646.0,Valladolid
+,Míchel,es ESP,MF,35,27,2.0,1.0,2018-2019,418f8f61,Valladolid,"2,553",28.4,9.0,0.0,50.0,1.0,,Valladolid
+,Javi Moyano,es ESP,DF,27,25,0.0,0.0,2018-2019,933e8c8a,Valladolid,"2,098",23.3,3.0,0.0,50.0,1.0,2619.0,Valladolid
+,Enes Ünal,tr TUR,FW,33,24,3.0,6.0,2018-2019,f8eca1b6,Valladolid,"2,148",23.9,7.0,0.0,50.0,15.0,2659.0,Valladolid
+,Toni Villa,es ESP,"MF,FW",26,21,2.0,2.0,2018-2019,636eae97,Valladolid,"1,762",19.6,3.0,0.0,50.0,1.0,2648.0,Valladolid
+,Keko,es ESP,MF,26,20,1.0,2.0,2018-2019,1512328c,Valladolid,"1,533",17.0,2.0,0.0,50.0,1.0,,Valladolid
+,Antoñito,es ESP,"DF,MF",30,18,1.0,2.0,2018-2019,dbe519cf,Valladolid,"1,863",20.7,5.0,0.0,50.0,1.0,2645.0,Valladolid
+,Sergi Guardiola,es ESP,FW,17,17,1.0,3.0,2018-2019,32974271,Valladolid,"1,514",16.8,0.0,0.0,50.0,1.0,2660.0,Valladolid
+,Anuar,ma MAR,"MF,FW",19,12,0.0,1.0,2018-2019,c93231dc,Valladolid,"1,081",12.0,6.0,0.0,50.0,26.0,2626.0,Valladolid
+,Borja Fernández,es ESP,"MF,DF",19,10,0.0,0.0,2018-2019,9127f9ce,Valladolid,841,9.3,4.0,0.0,50.0,1.0,26.0,Valladolid
+,Joaquín Fernández,es ESP,"DF,MF",13,9,0.0,1.0,2018-2019,b86a64b2,Valladolid,839,9.3,2.0,0.0,50.0,1.0,2661.0,Valladolid
+,Leonardo Suárez,ar ARG,"FW,MF",12,7,0.0,2.0,2018-2019,25c72b36,Valladolid,517,5.7,0.0,0.0,50.0,5.0,,Valladolid
+,Duje Čop,hr CRO,FW,18,6,0.0,0.0,2018-2019,8b0b02c9,Valladolid,687,7.6,2.0,0.0,50.0,16.0,,Valladolid
+,Waldo Rubio,es ESP,MF,8,5,0.0,1.0,2018-2019,ccaa5728,Valladolid,492,5.5,1.0,0.0,50.0,1.0,2662.0,Valladolid
+,Daniele Verde,it ITA,"MF,FW",22,4,0.0,2.0,2018-2019,d3298c99,Valladolid,657,7.3,1.0,0.0,50.0,9.0,2663.0,Valladolid
+,Moisés Delgado,es ESP,DF,3,3,0.0,0.0,2018-2019,248c409d,Valladolid,270,3.0,1.0,0.0,50.0,1.0,,Valladolid
+,Yoel,es ESP,GK,3,3,0.0,0.0,2018-2019,61bb7498,Valladolid,270,3.0,0.0,0.0,50.0,1.0,,Valladolid
+,Pablo Hervías,es ESP,MF,3,2,0.0,0.0,2018-2019,ba5a9545,Valladolid,160,1.8,1.0,0.0,50.0,1.0,,Valladolid
+,Chris Ramos,es ESP,FW,1,1,0.0,0.0,2018-2019,44e07fac,Valladolid,63,0.7,0.0,0.0,50.0,1.0,2653.0,Valladolid
+,Stiven Plaza,ec ECU,"MF,FW",2,0,0.0,0.0,2018-2019,f4b7f2ec,Valladolid,38,0.4,0.0,0.0,50.0,61.0,2664.0,Valladolid
+,Ivi,es ESP,MF,3,0,0.0,0.0,2018-2019,d2fa73e7,Valladolid,20,0.2,0.0,0.0,50.0,1.0,,Valladolid
+,Miguel,es ESP,FW,2,0,0.0,0.0,2018-2019,6763373d,Valladolid,12,0.1,0.0,0.0,50.0,1.0,2665.0,Valladolid
+,Hacen,mr MTN,MF,1,0,0.0,0.0,2018-2019,7c689c48,Valladolid,3,0.0,0.0,0.0,50.0,94.0,2666.0,Valladolid
+,Javier Aparicio,es ESP,DF,0,0,,,2018-2019,659d1792,Valladolid,,,,,50.0,1.0,2667.0,Valladolid
+,Luismi,es ESP,"DF,MF",0,0,,,2018-2019,c2cfbfc9,Valladolid,,,,,50.0,1.0,,Valladolid
+,Samu Pérez,es ESP,GK,0,0,,,2018-2019,17c81,Valladolid,,,,,50.0,1.0,2668.0,Valladolid
+,Mohammed Salisu,gh GHA,DF,0,0,,,2018-2019,0b33f6ad,Valladolid,,,,,50.0,17.0,2669.0,Valladolid
+,﻿Jordi Masip,es ESP,GK,35,35,0.0,0.0,2019-2020,8fae77ea,Valladolid,"3,150",35.0,2.0,0.0,50.0,1.0,,Valladolid
+,Kiko Olivas,es ESP,DF,35,33,0.0,2.0,2019-2020,72b07a9c,Valladolid,"2,943",32.7,2.0,0.0,50.0,1.0,,Valladolid
+,Sergi Guardiola,es ESP,FW,35,31,2.0,8.0,2019-2020,32974271,Valladolid,"2,655",29.5,6.0,0.0,50.0,1.0,2660.0,Valladolid
+,Mohammed Salisu,gh GHA,DF,31,30,1.0,1.0,2019-2020,0b33f6ad,Valladolid,"2,725",30.3,4.0,0.0,50.0,17.0,2669.0,Valladolid
+,Óscar Plano,es ESP,MF,36,28,2.0,4.0,2019-2020,7c388b20,Valladolid,"2,505",27.8,6.0,0.0,50.0,1.0,2646.0,Valladolid
+,Míchel,es ESP,MF,29,27,2.0,1.0,2019-2020,418f8f61,Valladolid,"2,178",24.2,6.0,0.0,50.0,1.0,,Valladolid
+,Javi Moyano,es ESP,DF,26,26,0.0,0.0,2019-2020,933e8c8a,Valladolid,"2,227",24.7,4.0,0.0,50.0,1.0,2619.0,Valladolid
+,Enes Ünal,tr TUR,FW,35,23,2.0,6.0,2019-2020,f8eca1b6,Valladolid,"2,344",26.0,4.0,0.0,50.0,15.0,2659.0,Valladolid
+,Nacho,es ESP,DF,23,21,2.0,0.0,2019-2020,29d1111,Valladolid,"1,893",21.0,2.0,0.0,50.0,1.0,2649.0,Valladolid
+,Rubén Alcaraz,es ESP,MF,27,20,2.0,2.0,2019-2020,036bba5f,Valladolid,"1,927",21.4,10.0,0.0,50.0,1.0,2658.0,Valladolid
+,Fede San Emeterio,es ESP,MF,25,20,0.0,0.0,2019-2020,fecd633,Valladolid,"1,751",19.5,4.0,0.0,50.0,1.0,2670.0,Valladolid
+,Joaquín Fernández,es ESP,"MF,DF",20,19,0.0,2.0,2019-2020,b86a64b2,Valladolid,"1,659",18.4,9.0,0.0,50.0,1.0,2661.0,Valladolid
+,Toni Villa,es ESP,MF,23,18,1.0,0.0,2019-2020,636eae97,Valladolid,"1,354",15.0,4.0,0.0,50.0,1.0,2648.0,Valladolid
+,Sandro Ramírez,es ESP,"FW,MF",24,15,1.0,3.0,2019-2020,833fb62e,Valladolid,"1,306",14.5,2.0,0.0,50.0,1.0,,Valladolid
+,Raúl García,es ESP,"DF,MF",12,12,1.0,0.0,2019-2020,1a317a1b,Valladolid,"1,012",11.2,2.0,0.0,50.0,1.0,,Valladolid
+,Antoñito,es ESP,"DF,MF",15,11,0.0,0.0,2019-2020,dbe519cf,Valladolid,"1,029",11.4,1.0,0.0,50.0,1.0,2645.0,Valladolid
+,Pablo Hervías,es ESP,MF,25,9,0.0,1.0,2019-2020,ba5a9545,Valladolid,"1,017",11.3,1.0,0.0,50.0,1.0,,Valladolid
+,Waldo Rubio,es ESP,"MF,FW",21,9,2.0,0.0,2019-2020,ccaa5728,Valladolid,878,9.8,6.0,0.0,50.0,1.0,2662.0,Valladolid
+,Pedro Porro,es ESP,"DF,MF",13,7,0.0,0.0,2019-2020,27d0a506,Valladolid,739,8.2,1.0,0.0,50.0,1.0,2671.0,Valladolid
+,Javi Sánchez,es ESP,DF,8,6,1.0,0.0,2019-2020,60359288,Valladolid,497,5.5,1.0,0.0,50.0,1.0,159.0,Valladolid
+,Federico Barba,it ITA,DF,5,5,0.0,0.0,2019-2020,c010b898,Valladolid,450,5.0,3.0,0.0,50.0,9.0,2672.0,Valladolid
+,Churripi,es ESP,GK,3,3,0.0,0.0,2019-2020,81a606fc,Valladolid,244,2.7,0.0,0.0,50.0,1.0,,Valladolid
+,Miguel,es ESP,FW,7,2,0.0,0.0,2019-2020,6763373d,Valladolid,232,2.6,1.0,0.0,50.0,1.0,2665.0,Valladolid
+,Kike Pérez,es ESP,"MF,FW",6,2,0.0,0.0,2019-2020,237a3851,Valladolid,218,2.4,1.0,0.0,50.0,1.0,2679.0,Valladolid
+,Matheus Fernandes,br BRA,"MF,FW",3,2,0.0,0.0,2019-2020,f76fdcd2,Valladolid,166,1.8,0.0,0.0,50.0,2.0,,Valladolid
+,Hatem Ben Arfa,fr FRA,"MF,FW",5,2,0.0,0.0,2019-2020,74dc806c,Valladolid,159,1.8,1.0,0.0,50.0,4.0,2673.0,Valladolid
+,Anuar,ma MAR,"MF,FW",11,1,0.0,0.0,2019-2020,c93231dc,Valladolid,189,2.1,1.0,0.0,50.0,26.0,2626.0,Valladolid
+,Víctor García,es ESP,MF,2,1,0.0,1.0,2019-2020,6636496a,Valladolid,88,1.0,0.0,0.0,50.0,1.0,,Valladolid
+,Jorge de Frutos,es ESP,"MF,DF",3,0,0.0,0.0,2019-2020,38ce1150,Valladolid,59,0.7,0.0,0.0,50.0,1.0,2674.0,Valladolid
+,Samu Pérez,es ESP,GK,1,0,0.0,0.0,2019-2020,17c81,Valladolid,26,0.3,0.0,0.0,50.0,1.0,2668.0,Valladolid
+,Diego Alende,es ESP,DF,0,0,,,2019-2020,9af88279,Valladolid,,,,,50.0,1.0,,Valladolid
+,Hacen,mr MTN,MF,0,0,,,2019-2020,7c689c48,Valladolid,,,,,50.0,94.0,2666.0,Valladolid
+,Andriy Lunin,ua UKR,GK,0,0,,,2019-2020,3061e1ec,Valladolid,,,,,50.0,29.0,180.0,Valladolid
+,Stiven Plaza,ec ECU,FW,0,0,,,2019-2020,f4b7f2ec,Valladolid,,,,,50.0,61.0,2664.0,Valladolid
+,﻿Óscar Plano,es ESP,MF,36,30,5.0,5.0,2020-2021,7c388b20,Valladolid,"2,517",28.0,1.0,1.0,50.0,1.0,2646.0,Valladolid
+,Fabián Orellana,cl CHI,MF,30,27,2.0,6.0,2020-2021,c90977db,Valladolid,"2,138",23.8,5.0,0.0,50.0,31.0,,Valladolid
+,Bruno González,es ESP,DF,27,25,0.0,1.0,2020-2021,f11fe861,Valladolid,"2,263",25.1,8.0,0.0,50.0,1.0,,Valladolid
+,Jordi Masip,es ESP,GK,25,25,0.0,0.0,2020-2021,8fae77ea,Valladolid,"2,250",25.0,3.0,0.0,50.0,1.0,,Valladolid
+,Rubén Alcaraz,es ESP,MF,30,25,0.0,1.0,2020-2021,036bba5f,Valladolid,"2,165",24.1,10.0,0.0,50.0,1.0,2658.0,Valladolid
+,Shon Weissman,il ISR,FW,32,24,1.0,6.0,2020-2021,379dc075,Valladolid,"2,133",23.7,3.0,0.0,50.0,45.0,2675.0,Valladolid
+,Joaquín Fernández,es ESP,DF,25,24,0.0,1.0,2020-2021,b86a64b2,Valladolid,"2,073",23.0,8.0,0.0,50.0,1.0,2661.0,Valladolid
+,Nacho,es ESP,DF,23,21,1.0,0.0,2020-2021,29d1111,Valladolid,"1,813",20.1,3.0,1.0,50.0,1.0,2649.0,Valladolid
+,Roque Mesa,es ESP,MF,25,21,0.0,1.0,2020-2021,7c4243d4,Valladolid,"1,761",19.6,4.0,1.0,50.0,1.0,,Valladolid
+,Sergi Guardiola,es ESP,FW,29,19,2.0,1.0,2020-2021,32974271,Valladolid,"1,795",19.9,5.0,0.0,50.0,1.0,2660.0,Valladolid
+,Fede San Emeterio,es ESP,MF,24,17,0.0,0.0,2020-2021,fecd633,Valladolid,"1,460",16.2,7.0,0.0,50.0,1.0,2670.0,Valladolid
+,Jawad El Yamiq,ma MAR,DF,19,15,1.0,0.0,2020-2021,f6f6b6e8,Valladolid,"1,379",15.3,6.0,0.0,50.0,26.0,2676.0,Valladolid
+,Luis Pérez,es ESP,DF,22,15,0.0,0.0,2020-2021,b7c04927,Valladolid,"1,297",14.4,1.0,0.0,50.0,1.0,2677.0,Valladolid
+,Lucas Olaza,uy URU,DF,14,14,1.0,1.0,2020-2021,4cee5954,Valladolid,"1,260",14.0,4.0,0.0,50.0,8.0,,Valladolid
+,Saidy Janko,gm GAM,DF,19,14,1.0,0.0,2020-2021,689c9cf4,Valladolid,"1,220",13.6,4.0,0.0,50.0,92.0,2678.0,Valladolid
+,Roberto,es ESP,GK,13,13,0.0,0.0,2020-2021,ba3ca78f,Valladolid,"1,170",13.0,0.0,1.0,50.0,1.0,,Valladolid
+,Kike Pérez,es ESP,MF,24,12,0.0,0.0,2020-2021,237a3851,Valladolid,"1,159",12.9,3.0,0.0,50.0,1.0,2679.0,Valladolid
+,Maranhão,br BRA,FW,23,11,1.0,4.0,2020-2021,86d473,Valladolid,"1,177",13.1,3.0,0.0,50.0,2.0,,Valladolid
+,Javi Sánchez,es ESP,DF,16,11,0.0,0.0,2020-2021,60359288,Valladolid,921,10.2,3.0,0.0,50.0,1.0,159.0,Valladolid
+,Pablo Hervías,es ESP,"DF,MF",27,10,5.0,0.0,2020-2021,ba5a9545,Valladolid,"1,204",13.4,1.0,0.0,50.0,1.0,,Valladolid
+,Toni Villa,es ESP,"MF,FW",21,10,0.0,2.0,2020-2021,636eae97,Valladolid,969,10.8,2.0,0.0,50.0,1.0,2648.0,Valladolid
+,Míchel,es ESP,MF,22,10,0.0,2.0,2020-2021,418f8f61,Valladolid,946,10.5,3.0,0.0,50.0,1.0,,Valladolid
+,Jota,pt POR,"MF,FW",17,7,0.0,1.0,2020-2021,2b65fe46,Valladolid,668,7.4,1.0,0.0,50.0,3.0,2680.0,Valladolid
+,Raúl García,es ESP,"DF,MF",8,5,0.0,1.0,2020-2021,1a317a1b,Valladolid,504,5.6,2.0,0.0,50.0,1.0,,Valladolid
+,Waldo Rubio,es ESP,MF,10,5,0.0,1.0,2020-2021,ccaa5728,Valladolid,375,4.2,1.0,0.0,50.0,1.0,2662.0,Valladolid
+,Kenan Kodro,ba BIH,"FW,MF",14,4,0.0,0.0,2020-2021,82d2807,Valladolid,459,5.1,1.0,0.0,50.0,49.0,,Valladolid
+,Javi Moyano,es ESP,DF,2,2,0.0,0.0,2020-2021,933e8c8a,Valladolid,103,1.1,0.0,0.0,50.0,1.0,2619.0,Valladolid
+,Kiko Olivas,es ESP,DF,5,1,0.0,0.0,2020-2021,72b07a9c,Valladolid,177,2.0,1.0,0.0,50.0,1.0,,Valladolid
+,Miguel Ángel Rubio,es ESP,DF,2,1,0.0,0.0,2020-2021,56cafd0a,Valladolid,135,1.5,0.0,0.0,50.0,1.0,2681.0,Valladolid
+,Kuki,es ESP,MF,2,0,1.0,0.0,2020-2021,2b6dc4d7,Valladolid,30,0.3,0.0,0.0,50.0,1.0,2682.0,Valladolid
+,Oriol Rey,es ESP,MF,1,0,0.0,0.0,2020-2021,8a0d2f7,Valladolid,15,0.2,0.0,0.0,50.0,1.0,2683.0,Valladolid
+,Sergio Benito,es ESP,FW,1,0,0.0,0.0,2020-2021,608bcb88,Valladolid,2,0.0,0.0,0.0,50.0,1.0,2684.0,Valladolid
+,Fran Álvarez,es ESP,MF,0,0,,,2020-2021,f0101a48,Valladolid,,,,,50.0,1.0,2685.0,Valladolid
+,Gaizka Campos Bahillo,es ESP,GK,0,0,,,2020-2021,54a9bc73,Valladolid,,,,,50.0,1.0,,Valladolid
+,Lucas Freitas,br BRA,DF,0,0,,,2020-2021,92be6c1,Valladolid,,,,,50.0,2.0,2686.0,Valladolid
+,Sergio López,es ESP,DF,0,0,,,2020-2021,939f02ec,Valladolid,,,,,50.0,1.0,2687.0,Valladolid
+,Luismi,es ESP,"DF,MF",0,0,,,2020-2021,c2cfbfc9,Valladolid,,,,,50.0,1.0,,Valladolid
+,Mohamed Moukhliss ,es ESP,MF,0,0,,,2020-2021,347aa693,Valladolid,,,,,50.0,1.0,2688.0,Valladolid
+,Samu Pérez,es ESP,GK,0,0,,,2020-2021,17c81,Valladolid,,,,,50.0,1.0,2668.0,Valladolid
+,Ignasi Vilarrasa,es ESP,DF,0,0,,,2020-2021,b261ed19,Valladolid,,,,,50.0,1.0,2689.0,Valladolid
+,﻿Shon Weissman,il ISR,FW,38,37,3.0,20.0,2021-2022,379dc075,Valladolid,"3,146",35.0,3.0,1.0,50.0,45.0,2675.0,Valladolid
+,Roque Mesa,es ESP,MF,39,37,7.0,3.0,2021-2022,7c4243d4,Valladolid,"2,973",33.0,14.0,0.0,50.0,1.0,,Valladolid
+,Luis Pérez,es ESP,"DF,MF",37,35,2.0,2.0,2021-2022,b7c04927,Valladolid,"3,029",33.7,5.0,0.0,50.0,1.0,2677.0,Valladolid
+,Álvaro Aguado,es ESP,MF,41,34,3.0,4.0,2021-2022,014aa7bd,Valladolid,"2,869",31.9,7.0,0.0,50.0,1.0,2690.0,Valladolid
+,Nacho,es ESP,DF,34,30,4.0,2.0,2021-2022,29d1111,Valladolid,"2,763",30.7,6.0,0.0,50.0,1.0,2649.0,Valladolid
+,Toni Villa,es ESP,"MF,FW",37,29,3.0,5.0,2021-2022,636eae97,Valladolid,"2,231",24.8,5.0,0.0,50.0,1.0,2648.0,Valladolid
+,Óscar Plano,es ESP,"MF,FW",32,28,4.0,3.0,2021-2022,7c388b20,Valladolid,"2,152",23.9,4.0,1.0,50.0,1.0,2646.0,Valladolid
+,Joaquín Fernández,es ESP,DF,26,24,1.0,0.0,2021-2022,b86a64b2,Valladolid,"2,090",23.2,8.0,0.0,50.0,1.0,2661.0,Valladolid
+,Javi Sánchez,es ESP,DF,28,24,0.0,2.0,2021-2022,60359288,Valladolid,"2,058",22.9,10.0,0.0,50.0,1.0,159.0,Valladolid
+,Jordi Masip,es ESP,GK,23,23,0.0,0.0,2021-2022,8fae77ea,Valladolid,"2,070",23.0,0.0,0.0,50.0,1.0,,Valladolid
+,Gonzalo Plata,ec ECU,"MF,FW",30,23,5.0,6.0,2021-2022,54bcdeb0,Valladolid,"1,878",20.9,2.0,1.0,50.0,61.0,2691.0,Valladolid
+,Jawad El Yamiq,ma MAR,DF,25,22,1.0,2.0,2021-2022,f6f6b6e8,Valladolid,"1,892",21.0,5.0,0.0,50.0,26.0,2676.0,Valladolid
+,Sergio León,es ESP,FW,32,20,4.0,7.0,2021-2022,0a0cc13c,Valladolid,"1,775",19.7,3.0,0.0,50.0,1.0,,Valladolid
+,Roberto,es ESP,GK,19,19,0.0,0.0,2021-2022,ba3ca78f,Valladolid,"1,710",19.0,2.0,0.0,50.0,1.0,,Valladolid
+,Kiko Olivas,es ESP,DF,22,14,0.0,0.0,2021-2022,72b07a9c,Valladolid,"1,312",14.6,0.0,0.0,50.0,1.0,,Valladolid
+,Lucas Olaza,uy URU,"MF,DF",11,8,0.0,0.0,2021-2022,4cee5954,Valladolid,762,8.5,3.0,0.0,50.0,8.0,,Valladolid
+,Iván Sánchez,es ESP,"MF,FW",12,8,0.0,2.0,2021-2022,70107d4d,Valladolid,682,7.6,0.0,0.0,50.0,1.0,2692.0,Valladolid
+,Cristo González,es ESP,FW,29,7,1.0,2.0,2021-2022,896b5df2,Valladolid,880,9.8,1.0,0.0,50.0,1.0,160.0,Valladolid
+,Monchu,es ESP,MF,15,6,4.0,2.0,2021-2022,8ac501f5,Valladolid,709,7.9,0.0,1.0,50.0,1.0,,Valladolid
+,Saidy Janko,gm GAM,"DF,MF",15,6,0.0,0.0,2021-2022,689c9cf4,Valladolid,631,7.0,1.0,0.0,50.0,92.0,2678.0,Valladolid
+,Anuar,ma MAR,"MF,FW",34,5,2.0,3.0,2021-2022,c93231dc,Valladolid,980,10.9,4.0,0.0,50.0,26.0,2626.0,Valladolid
+,Rubén Alcaraz,es ESP,"MF,DF",14,5,3.0,1.0,2021-2022,036bba5f,Valladolid,524,5.8,1.0,0.0,50.0,1.0,2658.0,Valladolid
+,Raúl García,es ESP,DF,6,4,1.0,0.0,2021-2022,1a317a1b,Valladolid,273,3.0,0.0,1.0,50.0,1.0,,Valladolid
+,Diogo Queirós,pt POR,DF,5,3,0.0,0.0,2021-2022,27ea1df6,Valladolid,352,3.9,0.0,1.0,50.0,3.0,2693.0,Valladolid
+,Fede San Emeterio,es ESP,MF,16,2,0.0,1.0,2021-2022,fecd633,Valladolid,364,4.0,1.0,0.0,50.0,1.0,2670.0,Valladolid
+,Kike Pérez,es ESP,MF,14,2,1.0,1.0,2021-2022,237a3851,Valladolid,351,3.9,2.0,0.0,50.0,1.0,2679.0,Valladolid
+,Josema,es ESP,DF,5,2,0.0,0.0,2021-2022,d3f5f4c,Valladolid,276,3.1,0.0,0.0,50.0,1.0,2694.0,Valladolid
+,Jon Morcillo,es ESP,MF,11,2,2.0,1.0,2021-2022,b7d7f3bf,Valladolid,237,2.6,0.0,0.0,50.0,1.0,,Valladolid
+,Iván Fresneda,es ESP,DF,1,1,0.0,0.0,2021-2022,29d0f2ac,Valladolid,90,1.0,0.0,0.0,50.0,1.0,2695.0,Valladolid
+,Maranhão,br BRA,FW,1,1,0.0,1.0,2021-2022,86d473,Valladolid,90,1.0,1.0,0.0,50.0,2.0,,Valladolid
+,Sékou Gassama,sn SEN,FW,1,1,0.0,0.0,2021-2022,475a738b,Valladolid,45,0.5,0.0,0.0,50.0,34.0,,Valladolid
+,Pablo Hervías,es ESP,MF,6,0,0.0,0.0,2021-2022,ba5a9545,Valladolid,72,0.8,0.0,0.0,50.0,1.0,,Valladolid
+,Hugo Vallejo,es ESP,FW,2,0,0.0,0.0,2021-2022,0140385,Valladolid,64,0.7,1.0,0.0,50.0,1.0,,Valladolid
+,Víctor Narro,es ESP,FW,3,0,0.0,0.0,2021-2022,43ad8bbc,Valladolid,33,0.4,0.0,0.0,50.0,1.0,2696.0,Valladolid
+,Bruno González,es ESP,DF,1,0,0.0,0.0,2021-2022,f11fe861,Valladolid,15,0.2,0.0,0.0,50.0,1.0,,Valladolid
+,Slavy,bg BUL,FW,1,0,0.0,0.0,2021-2022,d2ce3a1,Valladolid,2,0.0,0.0,0.0,50.0,65.0,2697.0,Valladolid
+,Mikel Carro,es ESP,MF,0,0,,,2021-2022,1820276,Valladolid,,,,,50.0,1.0,,Valladolid
+,Samuel Casado,es ESP,GK,0,0,,,2021-2022,1e457af5,Valladolid,,,,,50.0,1.0,2698.0,Valladolid
+,Dali,es ESP,FW,0,0,,,2021-2022,df96cb8a,Valladolid,,,,,50.0,1.0,2699.0,Valladolid
+,Sergio Ortuño,es ESP,MF,0,0,,,2021-2022,6b992837,Valladolid,,,,,50.0,1.0,2700.0,Valladolid
+,Kike Ríos,es ESP,DF,0,0,,,2021-2022,cfcc386e,Valladolid,,,,,50.0,1.0,2701.0,Valladolid

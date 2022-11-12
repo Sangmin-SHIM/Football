@@ -1,0 +1,568 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Frank Lampard,eng ENG,MF,38,37,3.0,6.0,2002-2003,268df6b1,Chelsea,"3,307",36.7,3.0,0.0,122.0,6.0,6131.0,Chelsea
+,William Gallas,fr FRA,DF,38,36,1.0,4.0,2002-2003,286fb7e0,Chelsea,"3,241",36.0,5.0,0.0,122.0,4.0,,Chelsea
+,Carlo Cudicini,it ITA,GK,36,36,0.0,0.0,2002-2003,df77463a,Chelsea,"3,240",36.0,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,Mario Melchiot,nl NED,DF,34,31,2.0,0.0,2002-2003,1f5e2ed9,Chelsea,"2,829",31.4,4.0,0.0,122.0,11.0,6133.0,Chelsea
+,Gianfranco Zola,it ITA,FW,38,30,7.0,14.0,2002-2003,59883773,Chelsea,"2,695",29.9,0.0,0.0,122.0,9.0,6134.0,Chelsea
+,Marcel Desailly,fr FRA,"DF,MF",31,30,0.0,2.0,2002-2003,9dfb97aa,Chelsea,"2,694",29.9,6.0,0.0,122.0,4.0,6135.0,Chelsea
+,Jimmy Floyd Hasselbaink,nl NED,FW,36,27,7.0,12.0,2002-2003,db8a04d1,Chelsea,"2,382",26.5,4.0,0.0,122.0,11.0,6136.0,Chelsea
+,Graeme Le Saux,eng ENG,DF,28,27,4.0,2.0,2002-2003,0bd42c09,Chelsea,"2,180",24.2,4.0,0.0,122.0,6.0,6137.0,Chelsea
+,Emmanuel Petit,fr FRA,"DF,MF",24,23,5.0,1.0,2002-2003,291358c4,Chelsea,"2,056",22.8,6.0,0.0,122.0,4.0,6138.0,Chelsea
+,Eiður Guðjohnsen,is ISL,"FW,MF",35,20,2.0,10.0,2002-2003,32fc9ff2,Chelsea,"2,027",22.5,1.0,0.0,122.0,40.0,,Chelsea
+,Jesper Grønkjær,dk DEN,"FW,MF",30,20,4.0,4.0,2002-2003,fe43b0f,Chelsea,"1,735",19.3,5.0,0.0,122.0,7.0,,Chelsea
+,Jody Morris,eng ENG,MF,25,19,1.0,0.0,2002-2003,c5002fd1,Chelsea,"1,798",20.0,3.0,0.0,122.0,6.0,6139.0,Chelsea
+,Enrique de Lucas,es ESP,"FW,MF",25,17,0.0,0.0,2002-2003,61cc61,Chelsea,"1,550",17.2,7.0,0.0,122.0,1.0,,Chelsea
+,Celestine Babayaro,ng NGA,"DF,MF",19,16,0.0,1.0,2002-2003,dd4e6b97,Chelsea,"1,478",16.4,3.0,1.0,122.0,52.0,,Chelsea
+,John Terry,eng ENG,DF,20,16,2.0,3.0,2002-2003,68517cfd,Chelsea,"1,415",15.7,3.0,0.0,122.0,6.0,6140.0,Chelsea
+,Mario Stanić,hr CRO,"FW,MF",18,13,2.0,4.0,2002-2003,c5c88be5,Chelsea,"1,019",11.3,4.0,0.0,122.0,16.0,6141.0,Chelsea
+,Boudewijn Zenden,nl NED,"DF,FW",21,11,5.0,1.0,2002-2003,4e27a622,Chelsea,988,11.0,2.0,0.0,122.0,11.0,6142.0,Chelsea
+,Albert Ferrer,es ESP,DF,3,3,0.0,0.0,2002-2003,70c5725,Chelsea,225,2.5,0.0,0.0,122.0,1.0,6143.0,Chelsea
+,Carlton Cole,eng ENG,FW,13,2,2.0,3.0,2002-2003,51b2effb,Chelsea,388,4.3,3.0,0.0,122.0,6.0,6144.0,Chelsea
+,Ed de Goey,nl NED,GK,2,2,0.0,0.0,2002-2003,5a7b2f65,Chelsea,180,2.0,0.0,0.0,122.0,11.0,6145.0,Chelsea
+,Robert Huth,de GER,DF,2,2,0.0,0.0,2002-2003,0bd1ea64,Chelsea,180,2.0,1.0,0.0,122.0,13.0,6146.0,Chelsea
+,Filipe Oliveira,pt POR,"DF,MF",3,0,0.0,0.0,2002-2003,d0351477,Chelsea,4,0.0,0.0,0.0,122.0,3.0,6147.0,Chelsea
+,Joe Keenan,eng ENG,MF,1,0,0.0,0.0,2002-2003,67c6886,Chelsea,1,0.0,0.0,0.0,122.0,6.0,6148.0,Chelsea
+,﻿Frank Lampard,eng ENG,MF,38,38,5.0,10.0,2003-2004,268df6b1,Chelsea,"3,374",37.5,3.0,0.0,122.0,6.0,6131.0,Chelsea
+,John Terry,eng ENG,DF,33,33,2.0,2.0,2003-2004,68517cfd,Chelsea,"2,965",32.9,5.0,0.0,122.0,6.0,6140.0,Chelsea
+,Wayne Bridge,eng ENG,DF,33,33,4.0,1.0,2003-2004,86b982bc,Chelsea,"2,964",32.9,1.0,0.0,122.0,6.0,6149.0,Chelsea
+,Claude Makélélé,fr FRA,MF,30,26,0.0,0.0,2003-2004,c27d01de,Chelsea,"2,398",26.6,2.0,0.0,122.0,4.0,8.0,Chelsea
+,Carlo Cudicini,it ITA,GK,26,26,0.0,0.0,2003-2004,df77463a,Chelsea,"2,340",26.0,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,William Gallas,fr FRA,DF,29,23,1.0,0.0,2003-2004,286fb7e0,Chelsea,"2,091",23.2,1.0,0.0,122.0,4.0,,Chelsea
+,Jimmy Floyd Hasselbaink,nl NED,FW,30,22,5.0,13.0,2003-2004,db8a04d1,Chelsea,"1,990",22.1,6.0,0.0,122.0,11.0,6136.0,Chelsea
+,Adrian Mutu,ro ROU,"FW,MF",25,21,4.0,6.0,2003-2004,7af7fbd8,Chelsea,"1,759",19.5,5.0,0.0,122.0,51.0,6150.0,Chelsea
+,Mario Melchiot,nl NED,DF,23,20,0.0,2.0,2003-2004,1f5e2ed9,Chelsea,"1,838",20.4,1.0,0.0,122.0,11.0,6133.0,Chelsea
+,Geremi,cm CMR,"DF,MF",25,19,4.0,1.0,2003-2004,3571f3d1,Chelsea,"1,745",19.4,0.0,1.0,122.0,36.0,,Chelsea
+,Jesper Grønkjær,dk DEN,"FW,MF",31,19,2.0,2.0,2003-2004,fe43b0f,Chelsea,"1,656",18.4,5.0,0.0,122.0,7.0,,Chelsea
+,Joe Cole,eng ENG,MF,35,18,5.0,1.0,2003-2004,2c2f117b,Chelsea,"1,648",18.3,3.0,0.0,122.0,6.0,6151.0,Chelsea
+,Eiður Guðjohnsen,is ISL,"FW,MF",26,17,2.0,6.0,2003-2004,32fc9ff2,Chelsea,"1,557",17.3,1.0,1.0,122.0,40.0,,Chelsea
+,Glen Johnson,eng ENG,DF,19,17,1.0,3.0,2003-2004,8cceca90,Chelsea,"1,505",16.7,3.0,0.0,122.0,6.0,6152.0,Chelsea
+,Damien Duff,ie IRL,"FW,MF",23,17,9.0,5.0,2003-2004,057a6936,Chelsea,"1,459",16.2,0.0,0.0,122.0,99.0,,Chelsea
+,Marcel Desailly,fr FRA,"DF,MF",15,15,1.0,0.0,2003-2004,9dfb97aa,Chelsea,"1,331",14.8,0.0,0.0,122.0,4.0,6135.0,Chelsea
+,Hernán Crespo,ar ARG,FW,19,13,0.0,10.0,2003-2004,09089343,Chelsea,"1,146",12.7,1.0,0.0,122.0,5.0,,Chelsea
+,Robert Huth,de GER,DF,16,8,0.0,0.0,2003-2004,0bd1ea64,Chelsea,788,8.8,7.0,1.0,122.0,13.0,6146.0,Chelsea
+,Marco Ambrosio,it ITA,GK,8,8,0.0,0.0,2003-2004,055b2cff,Chelsea,720,8.0,0.0,0.0,122.0,9.0,6154.0,Chelsea
+,Scott Parker,eng ENG,MF,11,7,2.0,1.0,2003-2004,65faf2a1,Chelsea,603,6.7,2.0,0.0,122.0,6.0,,Chelsea
+,Juan Sebastián Verón,ar ARG,MF,7,5,0.0,1.0,2003-2004,f11a57c1,Chelsea,483,5.4,0.0,0.0,122.0,5.0,,Chelsea
+,Celestine Babayaro,ng NGA,"DF,MF",6,5,2.0,1.0,2003-2004,dd4e6b97,Chelsea,440,4.9,0.0,0.0,122.0,52.0,,Chelsea
+,Neil Sullivan,sct SCO,GK,4,4,0.0,0.0,2003-2004,2ea16583,Chelsea,360,4.0,0.0,0.0,122.0,67.0,6155.0,Chelsea
+,Emmanuel Petit,fr FRA,"DF,MF",4,3,1.0,0.0,2003-2004,291358c4,Chelsea,264,2.9,1.0,0.0,122.0,4.0,6138.0,Chelsea
+,Alexis Nicolas,cy CYP,MF,2,1,0.0,0.0,2003-2004,18d30fa,Chelsea,91,1.0,0.0,0.0,122.0,63.0,6156.0,Chelsea
+,Mario Stanić,hr CRO,"FW,MF",2,0,0.0,0.0,2003-2004,c5c88be5,Chelsea,25,0.3,0.0,0.0,122.0,16.0,6141.0,Chelsea
+,Filipe Oliveira,pt POR,"DF,MF",1,0,0.0,0.0,2003-2004,d0351477,Chelsea,11,0.1,0.0,0.0,122.0,3.0,6147.0,Chelsea
+,﻿Frank Lampard,eng ENG,MF,38,38,18.0,13.0,2004-2005,268df6b1,Chelsea,"3,413",37.9,6.0,0.0,122.0,6.0,6131.0,Chelsea
+,Claude Makélélé,fr FRA,MF,36,36,2.0,1.0,2004-2005,c27d01de,Chelsea,"3,240",36.0,6.0,0.0,122.0,4.0,8.0,Chelsea
+,John Terry,eng ENG,DF,36,36,1.0,3.0,2004-2005,68517cfd,Chelsea,"3,240",36.0,7.0,0.0,122.0,6.0,6140.0,Chelsea
+,Petr Čech,cz CZE,GK,35,35,0.0,0.0,2004-2005,71672fa0,Chelsea,"3,150",35.0,0.0,0.0,122.0,84.0,,Chelsea
+,Eiður Guðjohnsen,is ISL,"FW,MF",37,30,6.0,12.0,2004-2005,32fc9ff2,Chelsea,"2,507",27.9,1.0,0.0,122.0,40.0,,Chelsea
+,Paulo Ferreira,pt POR,DF,29,29,0.0,0.0,2004-2005,4ca16d65,Chelsea,"2,610",29.0,2.0,0.0,122.0,3.0,6157.0,Chelsea
+,William Gallas,fr FRA,DF,28,28,1.0,2.0,2004-2005,286fb7e0,Chelsea,"2,446",27.2,1.0,0.0,122.0,4.0,,Chelsea
+,Damien Duff,ie IRL,"FW,MF",30,28,7.0,6.0,2004-2005,057a6936,Chelsea,"2,396",26.6,1.0,0.0,122.0,99.0,,Chelsea
+,Ricardo Carvalho,pt POR,DF,25,22,2.0,1.0,2004-2005,57e7081e,Chelsea,"1,969",21.9,2.0,0.0,122.0,3.0,89.0,Chelsea
+,Tiago Mendes,pt POR,MF,34,21,3.0,4.0,2004-2005,5e0f7b89,Chelsea,"1,968",21.9,4.0,0.0,122.0,3.0,,Chelsea
+,Joe Cole,eng ENG,MF,28,19,2.0,8.0,2004-2005,2c2f117b,Chelsea,"1,629",18.1,5.0,0.0,122.0,6.0,6151.0,Chelsea
+,Didier Drogba,ci CIV,FW,26,18,5.0,10.0,2004-2005,945dea33,Chelsea,"1,632",18.1,2.0,0.0,122.0,35.0,6158.0,Chelsea
+,Arjen Robben,nl NED,"FW,MF",18,14,9.0,7.0,2004-2005,09586899,Chelsea,"1,259",14.0,5.0,0.0,122.0,11.0,,Chelsea
+,Glen Johnson,eng ENG,DF,17,13,2.0,0.0,2004-2005,8cceca90,Chelsea,"1,159",12.9,2.0,0.0,122.0,6.0,6152.0,Chelsea
+,Wayne Bridge,eng ENG,DF,15,12,0.0,0.0,2004-2005,86b982bc,Chelsea,"1,150",12.8,0.0,0.0,122.0,6.0,6149.0,Chelsea
+,Alexey Smertin,ru RUS,MF,16,11,0.0,0.0,2004-2005,006d419b,Chelsea,782,8.7,2.0,0.0,122.0,23.0,6159.0,Chelsea
+,Mateja Kežman,rs SRB,FW,25,6,0.0,4.0,2004-2005,41985204,Chelsea,739,8.2,3.0,0.0,122.0,28.0,,Chelsea
+,Geremi,cm CMR,"DF,MF",13,6,0.0,0.0,2004-2005,3571f3d1,Chelsea,592,6.6,1.0,0.0,122.0,36.0,,Chelsea
+,Robert Huth,de GER,DF,10,6,0.0,0.0,2004-2005,0bd1ea64,Chelsea,541,6.0,0.0,0.0,122.0,13.0,6146.0,Chelsea
+,Mikael Forssell,fi FIN,FW,5,4,1.0,0.0,2004-2005,1454df8d,Chelsea,351,3.9,0.0,0.0,122.0,83.0,6160.0,Chelsea
+,Jiří Jarošík,cz CZE,"DF,MF",14,3,0.0,0.0,2004-2005,55ea6bb4,Chelsea,436,4.8,1.0,0.0,122.0,84.0,,Chelsea
+,Celestine Babayaro,ng NGA,"DF,MF",4,3,1.0,0.0,2004-2005,dd4e6b97,Chelsea,292,3.2,1.0,0.0,122.0,52.0,,Chelsea
+,Carlo Cudicini,it ITA,GK,3,3,0.0,0.0,2004-2005,df77463a,Chelsea,270,3.0,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,Scott Parker,eng ENG,MF,4,1,0.0,0.0,2004-2005,65faf2a1,Chelsea,128,1.4,1.0,0.0,122.0,6.0,,Chelsea
+,Adrian Mutu,ro ROU,"FW,MF",2,0,1.0,0.0,2004-2005,7af7fbd8,Chelsea,51,0.6,0.0,0.0,122.0,51.0,6150.0,Chelsea
+,Lenny Pidgeley,eng ENG,GK,1,0,,0.0,2004-2005,c2469d4e,Chelsea,9,0.1,0.0,0.0,122.0,6.0,6161.0,Chelsea
+,Filipe Oliveira,pt POR,"DF,MF",1,0,,0.0,2004-2005,d0351477,Chelsea,7,0.1,0.0,0.0,122.0,3.0,6147.0,Chelsea
+,Nuno Morais,pt POR,"DF,MF",2,0,0.0,0.0,2004-2005,b6170459,Chelsea,5,0.1,0.0,0.0,122.0,3.0,6162.0,Chelsea
+,Anthony Grant,jm JAM,"DF,MF",1,0,,0.0,2004-2005,79b041fa,Chelsea,1,0.0,0.0,0.0,122.0,127.0,6163.0,Chelsea
+,Steven Watt,sct SCO,DF,1,0,0.0,0.0,2004-2005,8b45e651,Chelsea,1,0.0,0.0,0.0,122.0,67.0,6164.0,Chelsea
+,﻿John Terry,eng ENG,DF,36,36,0.0,4.0,2005-2006,68517cfd,Chelsea,"3,240",36.0,3.0,0.0,122.0,6.0,6140.0,Chelsea
+,Frank Lampard,eng ENG,MF,35,35,8.0,16.0,2005-2006,268df6b1,Chelsea,"3,150",35.0,4.0,0.0,122.0,6.0,6131.0,Chelsea
+,Petr Čech,cz CZE,GK,34,34,0.0,0.0,2005-2006,71672fa0,Chelsea,"3,015",33.5,1.0,0.0,122.0,84.0,,Chelsea
+,William Gallas,fr FRA,DF,34,33,1.0,5.0,2005-2006,286fb7e0,Chelsea,"2,927",32.5,5.0,1.0,122.0,4.0,,Chelsea
+,Claude Makélélé,fr FRA,MF,31,29,2.0,0.0,2005-2006,c27d01de,Chelsea,"2,544",28.3,7.0,0.0,122.0,4.0,8.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",31,27,1.0,2.0,2005-2006,d6577282,Chelsea,"2,459",27.3,5.0,0.0,122.0,17.0,110.0,Chelsea
+,Joe Cole,eng ENG,MF,34,26,4.0,7.0,2005-2006,2c2f117b,Chelsea,"2,112",23.5,7.0,0.0,122.0,6.0,6151.0,Chelsea
+,Asier del Horno,es ESP,DF,25,25,5.0,1.0,2005-2006,b525f4a,Chelsea,"2,046",22.7,1.0,0.0,122.0,1.0,,Chelsea
+,Ricardo Carvalho,pt POR,DF,24,22,1.0,1.0,2005-2006,57e7081e,Chelsea,"1,975",21.9,6.0,1.0,122.0,3.0,89.0,Chelsea
+,Arjen Robben,nl NED,"FW,MF",28,21,3.0,6.0,2005-2006,09586899,Chelsea,"1,759",19.5,3.0,2.0,122.0,11.0,,Chelsea
+,Didier Drogba,ci CIV,FW,29,20,11.0,12.0,2005-2006,945dea33,Chelsea,"1,990",22.1,8.0,0.0,122.0,35.0,6158.0,Chelsea
+,Hernán Crespo,ar ARG,FW,30,20,1.0,10.0,2005-2006,09089343,Chelsea,"1,673",18.6,1.0,0.0,122.0,5.0,,Chelsea
+,Paulo Ferreira,pt POR,DF,21,18,1.0,0.0,2005-2006,4ca16d65,Chelsea,"1,666",18.5,1.0,0.0,122.0,3.0,6157.0,Chelsea
+,Damien Duff,ie IRL,"FW,MF",28,18,4.0,3.0,2005-2006,057a6936,Chelsea,"1,586",17.6,3.0,0.0,122.0,99.0,,Chelsea
+,Eiður Guðjohnsen,is ISL,"FW,MF",26,16,5.0,2.0,2005-2006,32fc9ff2,Chelsea,"1,547",17.2,2.0,0.0,122.0,40.0,,Chelsea
+,Shaun Wright-Phillips,eng ENG,"FW,MF",27,10,3.0,0.0,2005-2006,1e0b05f,Chelsea,"1,009",11.2,0.0,0.0,122.0,6.0,6165.0,Chelsea
+,Geremi,cm CMR,"DF,MF",15,8,0.0,2.0,2005-2006,3571f3d1,Chelsea,774,8.6,1.0,0.0,122.0,36.0,,Chelsea
+,Robert Huth,de GER,DF,13,7,1.0,0.0,2005-2006,0bd1ea64,Chelsea,532,5.9,3.0,0.0,122.0,13.0,6146.0,Chelsea
+,Glen Johnson,eng ENG,DF,4,4,0.0,0.0,2005-2006,8cceca90,Chelsea,330,3.7,1.0,0.0,122.0,6.0,6152.0,Chelsea
+,Maniche,pt POR,MF,8,3,0.0,0.0,2005-2006,0355c8b5,Chelsea,334,3.7,0.0,1.0,122.0,3.0,,Chelsea
+,Carlo Cudicini,it ITA,GK,4,3,0.0,0.0,2005-2006,df77463a,Chelsea,315,3.5,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,Lassana Diarra,fr FRA,MF,3,2,0.0,0.0,2005-2006,79584585,Chelsea,186,2.1,0.0,0.0,122.0,4.0,70.0,Chelsea
+,Lenny Pidgeley,eng ENG,GK,1,1,0.0,0.0,2005-2006,c2469d4e,Chelsea,90,1.0,0.0,0.0,122.0,6.0,6161.0,Chelsea
+,Carlton Cole,eng ENG,FW,9,0,0.0,0.0,2005-2006,51b2effb,Chelsea,224,2.5,2.0,0.0,122.0,6.0,6144.0,Chelsea
+,Jimmy Smith,eng ENG,MF,1,0,,0.0,2005-2006,5ed1816c,Chelsea,10,0.1,0.0,0.0,122.0,6.0,6166.0,Chelsea
+,﻿Frank Lampard,eng ENG,MF,37,36,10.0,11.0,2006-2007,268df6b1,Chelsea,"3,244",36.0,3.0,0.0,122.0,6.0,6131.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",33,33,3.0,2.0,2006-2007,d6577282,Chelsea,"2,970",33.0,5.0,0.0,122.0,17.0,110.0,Chelsea
+,Didier Drogba,ci CIV,FW,36,32,4.0,20.0,2006-2007,945dea33,Chelsea,"2,944",32.7,9.0,0.0,122.0,35.0,6158.0,Chelsea
+,Ricardo Carvalho,pt POR,DF,31,31,1.0,3.0,2006-2007,57e7081e,Chelsea,"2,641",29.3,6.0,0.0,122.0,3.0,89.0,Chelsea
+,John Terry,eng ENG,DF,28,27,1.0,1.0,2006-2007,68517cfd,Chelsea,"2,414",26.8,3.0,1.0,122.0,6.0,6140.0,Chelsea
+,Claude Makélélé,fr FRA,MF,29,26,0.0,1.0,2006-2007,c27d01de,Chelsea,"2,275",25.3,5.0,0.0,122.0,4.0,8.0,Chelsea
+,Michael Ballack,de GER,MF,26,23,1.0,4.0,2006-2007,9d1b8b6b,Chelsea,"2,016",22.4,7.0,1.0,122.0,13.0,6167.0,Chelsea
+,Andriy Shevchenko,ua UKR,FW,30,22,6.0,4.0,2006-2007,32eb0f30,Chelsea,"1,807",20.1,1.0,0.0,122.0,29.0,6168.0,Chelsea
+,Ashley Cole,eng ENG,DF,23,21,2.0,0.0,2006-2007,be091289,Chelsea,"1,848",20.5,4.0,0.0,122.0,6.0,,Chelsea
+,Petr Čech,cz CZE,GK,20,20,0.0,0.0,2006-2007,71672fa0,Chelsea,"1,715",19.1,1.0,0.0,122.0,84.0,,Chelsea
+,Salomon Kalou,ci CIV,"FW,MF",33,19,2.0,7.0,2006-2007,2042d931,Chelsea,"1,937",21.5,0.0,0.0,122.0,35.0,6169.0,Chelsea
+,Paulo Ferreira,pt POR,DF,24,18,0.0,0.0,2006-2007,4ca16d65,Chelsea,"1,711",19.0,5.0,0.0,122.0,3.0,6157.0,Chelsea
+,Wayne Bridge,eng ENG,DF,22,17,4.0,0.0,2006-2007,86b982bc,Chelsea,"1,547",17.2,1.0,0.0,122.0,6.0,6149.0,Chelsea
+,Arjen Robben,nl NED,"FW,MF",21,16,4.0,2.0,2006-2007,09586899,Chelsea,"1,350",15.0,1.0,0.0,122.0,11.0,,Chelsea
+,Geremi,cm CMR,"DF,MF",19,15,1.0,1.0,2006-2007,3571f3d1,Chelsea,"1,161",12.9,0.0,0.0,122.0,36.0,,Chelsea
+,Shaun Wright-Phillips,eng ENG,"FW,MF",27,13,4.0,2.0,2006-2007,1e0b05f,Chelsea,"1,263",14.0,1.0,0.0,122.0,6.0,6165.0,Chelsea
+,Henrique Hilário,pt POR,GK,11,11,0.0,0.0,2006-2007,0fbcbed1,Chelsea,990,11.0,0.0,0.0,122.0,3.0,6170.0,Chelsea
+,John Obi Mikel,ng NGA,MF,22,10,3.0,0.0,2006-2007,424d5f72,Chelsea,952,10.6,5.0,1.0,122.0,52.0,6171.0,Chelsea
+,Khalid Boulahrouz,nl NED,DF,13,10,0.0,0.0,2006-2007,9ccceabb,Chelsea,812,9.0,2.0,1.0,122.0,11.0,,Chelsea
+,Carlo Cudicini,it ITA,GK,7,7,0.0,0.0,2006-2007,df77463a,Chelsea,630,7.0,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,Lassana Diarra,fr FRA,MF,10,7,0.0,0.0,2006-2007,79584585,Chelsea,557,6.2,3.0,0.0,122.0,4.0,70.0,Chelsea
+,Joe Cole,eng ENG,MF,13,3,0.0,0.0,2006-2007,2c2f117b,Chelsea,472,5.2,3.0,0.0,122.0,6.0,6151.0,Chelsea
+,Scott Sinclair,eng ENG,"FW,MF",2,1,0.0,0.0,2006-2007,273c483b,Chelsea,64,0.7,0.0,0.0,122.0,6.0,6172.0,Chelsea
+,Ben Sahar,il ISR,"FW,MF",3,0,0.0,0.0,2006-2007,b87ec70,Chelsea,64,0.7,0.0,0.0,122.0,45.0,,Chelsea
+,Nuno Morais,pt POR,"DF,MF",2,0,0.0,0.0,2006-2007,b6170459,Chelsea,18,0.2,0.0,0.0,122.0,3.0,6162.0,Chelsea
+,Sam Hutchinson,eng ENG,"DF,MF",1,0,,0.0,2006-2007,800a3404,Chelsea,2,0.0,0.0,0.0,122.0,6.0,6173.0,Chelsea
+,﻿Joe Cole,eng ENG,MF,33,28,5.0,7.0,2007-2008,2c2f117b,Chelsea,"2,468",27.4,5.0,0.0,122.0,6.0,6151.0,Chelsea
+,Ashley Cole,eng ENG,DF,27,27,1.0,1.0,2007-2008,be091289,Chelsea,"2,413",26.8,4.0,1.0,122.0,6.0,,Chelsea
+,Petr Čech,cz CZE,GK,26,26,0.0,0.0,2007-2008,71672fa0,Chelsea,"2,313",25.7,0.0,0.0,122.0,84.0,,Chelsea
+,Salomon Kalou,ci CIV,"FW,MF",30,24,10.0,7.0,2007-2008,2042d931,Chelsea,"2,133",23.7,1.0,0.0,122.0,35.0,6169.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",27,23,3.0,6.0,2007-2008,d6577282,Chelsea,"2,096",23.3,5.0,1.0,122.0,17.0,110.0,Chelsea
+,Frank Lampard,eng ENG,MF,24,23,8.0,10.0,2007-2008,268df6b1,Chelsea,"1,955",21.7,4.0,1.0,122.0,6.0,6131.0,Chelsea
+,John Terry,eng ENG,DF,23,23,1.0,1.0,2007-2008,68517cfd,Chelsea,"1,895",21.1,6.0,0.0,122.0,6.0,6140.0,Chelsea
+,Alex,br BRA,DF,28,22,1.0,2.0,2007-2008,58721835,Chelsea,"2,072",23.0,4.0,0.0,122.0,2.0,6184.0,Chelsea
+,John Obi Mikel,ng NGA,MF,29,21,0.0,0.0,2007-2008,424d5f72,Chelsea,"1,954",21.7,5.0,1.0,122.0,52.0,6171.0,Chelsea
+,Ricardo Carvalho,pt POR,DF,21,21,0.0,1.0,2007-2008,57e7081e,Chelsea,"1,746",19.4,6.0,1.0,122.0,3.0,89.0,Chelsea
+,Juliano Belletti,br BRA,"DF,MF",23,20,1.0,2.0,2007-2008,4432ca2,Chelsea,"1,919",21.3,5.0,0.0,122.0,2.0,,Chelsea
+,Shaun Wright-Phillips,eng ENG,"FW,MF",27,20,4.0,2.0,2007-2008,1e0b05f,Chelsea,"1,647",18.3,1.0,0.0,122.0,6.0,6165.0,Chelsea
+,Didier Drogba,ci CIV,FW,19,17,6.0,8.0,2007-2008,945dea33,Chelsea,"1,525",16.9,6.0,1.0,122.0,35.0,6158.0,Chelsea
+,Michael Ballack,de GER,MF,18,16,1.0,7.0,2007-2008,9d1b8b6b,Chelsea,"1,410",15.7,5.0,0.0,122.0,13.0,6167.0,Chelsea
+,Florent Malouda,fr FRA,"FW,MF",21,16,1.0,2.0,2007-2008,6fe6d820,Chelsea,"1,391",15.5,2.0,0.0,122.0,4.0,6174.0,Chelsea
+,Paulo Ferreira,pt POR,DF,18,15,1.0,0.0,2007-2008,4ca16d65,Chelsea,"1,292",14.4,1.0,0.0,122.0,3.0,6157.0,Chelsea
+,Claude Makélélé,fr FRA,MF,18,15,0.0,0.0,2007-2008,c27d01de,Chelsea,"1,221",13.6,1.0,0.0,122.0,4.0,8.0,Chelsea
+,Tal Ben Haim,il ISR,DF,13,10,0.0,0.0,2007-2008,2277a390,Chelsea,"1,018",11.3,2.0,0.0,122.0,45.0,6175.0,Chelsea
+,Nicolas Anelka,fr FRA,FW,14,10,5.0,1.0,2007-2008,931ed5e9,Chelsea,964,10.7,0.0,0.0,122.0,4.0,6176.0,Chelsea
+,Carlo Cudicini,it ITA,GK,10,10,0.0,0.0,2007-2008,df77463a,Chelsea,900,10.0,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,Wayne Bridge,eng ENG,DF,11,9,1.0,0.0,2007-2008,86b982bc,Chelsea,818,9.1,0.0,0.0,122.0,6.0,6149.0,Chelsea
+,Andriy Shevchenko,ua UKR,FW,17,8,1.0,5.0,2007-2008,32eb0f30,Chelsea,745,8.3,0.0,0.0,122.0,29.0,6168.0,Chelsea
+,Steve Sidwell,eng ENG,MF,15,7,1.0,0.0,2007-2008,d083afd,Chelsea,518,5.8,1.0,0.0,122.0,6.0,6177.0,Chelsea
+,Claudio Pizarro,pe PER,FW,21,4,1.0,2.0,2007-2008,54b6ee79,Chelsea,693,7.7,1.0,0.0,122.0,57.0,6178.0,Chelsea
+,Henrique Hilário,pt POR,GK,3,2,0.0,0.0,2007-2008,0fbcbed1,Chelsea,207,2.3,0.0,0.0,122.0,3.0,6170.0,Chelsea
+,Scott Sinclair,eng ENG,"FW,MF",1,0,0.0,0.0,2007-2008,273c483b,Chelsea,15,0.2,0.0,0.0,122.0,6.0,6172.0,Chelsea
+,﻿Frank Lampard,eng ENG,MF,37,37,10.0,12.0,2008-2009,268df6b1,Chelsea,"3,257",36.2,3.0,1.0,122.0,6.0,6131.0,Chelsea
+,Petr Čech,cz CZE,GK,35,35,0.0,0.0,2008-2009,71672fa0,Chelsea,"3,150",35.0,0.0,0.0,122.0,84.0,,Chelsea
+,John Terry,eng ENG,DF,35,35,0.0,1.0,2008-2009,68517cfd,Chelsea,"3,076",34.2,7.0,2.0,122.0,6.0,6140.0,Chelsea
+,José Bosingwa,pt POR,DF,34,34,3.0,2.0,2008-2009,13dd442f,Chelsea,"2,906",32.3,6.0,0.0,122.0,3.0,6179.0,Chelsea
+,Ashley Cole,eng ENG,DF,34,33,1.0,1.0,2008-2009,be091289,Chelsea,"2,940",32.7,5.0,0.0,122.0,6.0,,Chelsea
+,Nicolas Anelka,fr FRA,FW,37,33,2.0,19.0,2008-2009,931ed5e9,Chelsea,"2,913",32.4,0.0,0.0,122.0,4.0,6176.0,Chelsea
+,John Obi Mikel,ng NGA,MF,34,33,2.0,0.0,2008-2009,424d5f72,Chelsea,"2,877",32.0,6.0,0.0,122.0,52.0,6171.0,Chelsea
+,Florent Malouda,fr FRA,"FW,MF",31,24,5.0,6.0,2008-2009,6fe6d820,Chelsea,"2,021",22.5,3.0,0.0,122.0,4.0,6174.0,Chelsea
+,Michael Ballack,de GER,MF,29,22,4.0,1.0,2008-2009,9d1b8b6b,Chelsea,"2,030",22.6,6.0,0.0,122.0,13.0,6167.0,Chelsea
+,Alex,br BRA,DF,24,22,1.0,2.0,2008-2009,58721835,Chelsea,"1,972",21.9,1.0,0.0,122.0,2.0,6184.0,Chelsea
+,Deco,pt POR,MF,24,17,2.0,3.0,2008-2009,8a2f283,Chelsea,"1,547",17.2,3.0,0.0,122.0,3.0,,Chelsea
+,Salomon Kalou,ci CIV,"FW,MF",27,17,4.0,6.0,2008-2009,2042d931,Chelsea,"1,501",16.7,0.0,0.0,122.0,35.0,6169.0,Chelsea
+,Didier Drogba,ci CIV,FW,24,15,4.0,5.0,2008-2009,945dea33,Chelsea,"1,550",17.2,1.0,0.0,122.0,35.0,6158.0,Chelsea
+,Joe Cole,eng ENG,MF,14,14,4.0,2.0,2008-2009,2c2f117b,Chelsea,960,10.7,2.0,0.0,122.0,6.0,6151.0,Chelsea
+,Branislav Ivanović,rs SRB,DF,16,11,1.0,0.0,2008-2009,85f8571a,Chelsea,"1,101",12.2,2.0,0.0,122.0,28.0,6180.0,Chelsea
+,Ricardo Carvalho,pt POR,DF,12,11,1.0,1.0,2008-2009,57e7081e,Chelsea,965,10.7,2.0,0.0,122.0,3.0,89.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",11,10,0.0,1.0,2008-2009,d6577282,Chelsea,767,8.5,0.0,0.0,122.0,17.0,110.0,Chelsea
+,Juliano Belletti,br BRA,"DF,MF",20,5,0.0,3.0,2008-2009,4432ca2,Chelsea,718,8.0,2.0,0.0,122.0,2.0,,Chelsea
+,Wayne Bridge,eng ENG,DF,6,3,0.0,0.0,2008-2009,86b982bc,Chelsea,311,3.5,0.0,0.0,122.0,6.0,6149.0,Chelsea
+,Carlo Cudicini,it ITA,GK,2,2,0.0,0.0,2008-2009,df77463a,Chelsea,180,2.0,0.0,0.0,122.0,9.0,6132.0,Chelsea
+,Michael Mancienne,sc SEY,"DF,MF",4,2,0.0,0.0,2008-2009,2db3ae0a,Chelsea,176,2.0,1.0,0.0,122.0,128.0,6181.0,Chelsea
+,Paulo Ferreira,pt POR,DF,7,1,0.0,0.0,2008-2009,4ca16d65,Chelsea,141,1.6,0.0,0.0,122.0,3.0,6157.0,Chelsea
+,Ricardo Quaresma,pt POR,"FW,MF",4,1,0.0,0.0,2008-2009,6b6d252d,Chelsea,133,1.5,0.0,0.0,122.0,3.0,,Chelsea
+,Henrique Hilário,pt POR,GK,1,1,0.0,0.0,2008-2009,0fbcbed1,Chelsea,90,1.0,0.0,0.0,122.0,3.0,6170.0,Chelsea
+,Franco Di Santo,ar ARG,FW,8,0,1.0,0.0,2008-2009,549c6ba7,Chelsea,163,1.8,0.0,0.0,122.0,5.0,,Chelsea
+,Miroslav Stoch,sk SVK,"FW,MF",4,0,0.0,0.0,2008-2009,0f7da7,Chelsea,28,0.3,0.0,0.0,122.0,70.0,6182.0,Chelsea
+,Scott Sinclair,eng ENG,"FW,MF",2,0,0.0,0.0,2008-2009,273c483b,Chelsea,20,0.2,0.0,0.0,122.0,6.0,6172.0,Chelsea
+,Mineiro,br BRA,MF,1,0,0.0,0.0,2008-2009,654a77f,Chelsea,16,0.2,0.0,0.0,122.0,2.0,6183.0,Chelsea
+,Shaun Wright-Phillips,eng ENG,"FW,MF",1,0,0.0,0.0,2008-2009,1e0b05f,Chelsea,13,0.1,0.0,0.0,122.0,6.0,6165.0,Chelsea
+,﻿John Terry,eng ENG,DF,37,37,2.0,2.0,2009-2010,68517cfd,Chelsea,"3,258",36.2,8.0,1.0,122.0,6.0,6140.0,Chelsea
+,Frank Lampard,eng ENG,MF,36,36,14.0,22.0,2009-2010,268df6b1,Chelsea,"3,218",35.8,0.0,0.0,122.0,6.0,6131.0,Chelsea
+,Petr Čech,cz CZE,GK,34,34,1.0,0.0,2009-2010,71672fa0,Chelsea,"3,021",33.6,0.0,1.0,122.0,84.0,,Chelsea
+,Didier Drogba,ci CIV,FW,32,31,10.0,29.0,2009-2010,945dea33,Chelsea,"2,770",30.8,7.0,0.0,122.0,35.0,6158.0,Chelsea
+,Nicolas Anelka,fr FRA,FW,33,31,7.0,11.0,2009-2010,931ed5e9,Chelsea,"2,688",29.9,0.0,0.0,122.0,4.0,6176.0,Chelsea
+,Michael Ballack,de GER,MF,32,26,5.0,4.0,2009-2010,9d1b8b6b,Chelsea,"2,363",26.3,3.0,1.0,122.0,13.0,6167.0,Chelsea
+,Florent Malouda,fr FRA,"FW,MF",33,26,8.0,12.0,2009-2010,6fe6d820,Chelsea,"2,304",25.6,4.0,1.0,122.0,4.0,6174.0,Chelsea
+,Branislav Ivanović,rs SRB,DF,28,25,5.0,1.0,2009-2010,85f8571a,Chelsea,"2,254",25.0,6.0,0.0,122.0,28.0,6180.0,Chelsea
+,Ashley Cole,eng ENG,DF,27,25,3.0,4.0,2009-2010,be091289,Chelsea,"2,153",23.9,4.0,0.0,122.0,6.0,,Chelsea
+,Ricardo Carvalho,pt POR,DF,22,22,1.0,0.0,2009-2010,57e7081e,Chelsea,"1,846",20.5,4.0,0.0,122.0,3.0,89.0,Chelsea
+,John Obi Mikel,ng NGA,MF,25,21,1.0,0.0,2009-2010,424d5f72,Chelsea,"1,740",19.3,3.0,0.0,122.0,52.0,6171.0,Chelsea
+,Joe Cole,eng ENG,MF,26,14,5.0,2.0,2009-2010,2c2f117b,Chelsea,"1,286",14.3,2.0,0.0,122.0,6.0,6151.0,Chelsea
+,Deco,pt POR,MF,19,14,2.0,2.0,2009-2010,8a2f283,Chelsea,"1,238",13.8,4.0,0.0,122.0,3.0,,Chelsea
+,Alex,br BRA,DF,16,13,0.0,1.0,2009-2010,58721835,Chelsea,"1,270",14.1,2.0,0.0,122.0,2.0,6184.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",14,13,0.0,3.0,2009-2010,d6577282,Chelsea,"1,195",13.3,2.0,0.0,122.0,17.0,110.0,Chelsea
+,Salomon Kalou,ci CIV,"FW,MF",23,11,3.0,5.0,2009-2010,2042d931,Chelsea,958,10.6,2.0,0.0,122.0,35.0,6169.0,Chelsea
+,Paulo Ferreira,pt POR,DF,13,11,0.0,0.0,2009-2010,4ca16d65,Chelsea,949,10.5,2.0,0.0,122.0,3.0,6157.0,Chelsea
+,Yuri Zhirkov,ru RUS,"DF,MF",17,10,2.0,0.0,2009-2010,d2b33cb,Chelsea,954,10.6,4.0,0.0,122.0,23.0,6185.0,Chelsea
+,José Bosingwa,pt POR,DF,8,8,1.0,0.0,2009-2010,13dd442f,Chelsea,645,7.2,0.0,0.0,122.0,3.0,6179.0,Chelsea
+,Juliano Belletti,br BRA,"DF,MF",11,4,1.0,0.0,2009-2010,4432ca2,Chelsea,490,5.4,1.0,1.0,122.0,2.0,,Chelsea
+,Daniel Sturridge,eng ENG,"FW,MF",13,2,0.0,1.0,2009-2010,1b7ec703,Chelsea,298,3.3,0.0,0.0,122.0,6.0,6186.0,Chelsea
+,Henrique Hilário,pt POR,GK,3,2,0.0,0.0,2009-2010,0fbcbed1,Chelsea,219,2.4,0.0,0.0,122.0,3.0,6170.0,Chelsea
+,Ross Turnbull,eng ENG,GK,2,2,0.0,0.0,2009-2010,6db380ef,Chelsea,180,2.0,0.0,0.0,122.0,6.0,6187.0,Chelsea
+,Jeffrey Bruma,nl NED,DF,2,0,0.0,0.0,2009-2010,fbffc4b1,Chelsea,59,0.7,0.0,0.0,122.0,11.0,6188.0,Chelsea
+,Nemanja Matić,rs SRB,MF,2,0,0.0,0.0,2009-2010,b7822d7,Chelsea,43,0.5,0.0,0.0,122.0,28.0,,Chelsea
+,Fabio Borini,it ITA,"FW,MF",4,0,0.0,0.0,2009-2010,f5b337e,Chelsea,37,0.4,0.0,0.0,122.0,9.0,6189.0,Chelsea
+,Patrick van Aanholt,nl NED,DF,2,0,0.0,0.0,2009-2010,5f09991f,Chelsea,35,0.4,0.0,0.0,122.0,11.0,,Chelsea
+,Gaël Kakuta,cd COD,"FW,MF",1,0,0.0,0.0,2009-2010,5b1bf5e3,Chelsea,32,0.4,0.0,0.0,122.0,50.0,,Chelsea
+,Sam Hutchinson,eng ENG,"DF,MF",2,0,1.0,0.0,2009-2010,800a3404,Chelsea,23,0.3,0.0,0.0,122.0,6.0,6173.0,Chelsea
+,Andriy Shevchenko,ua UKR,FW,1,0,0.0,0.0,2009-2010,32eb0f30,Chelsea,5,0.1,0.0,0.0,122.0,29.0,6168.0,Chelsea
+,﻿Petr Čech,cz CZE,GK,38,38,1.0,0.0,2010-2011,71672fa0,Chelsea,"3,420",38.0,0.0,0.0,122.0,84.0,,Chelsea
+,Ashley Cole,eng ENG,DF,38,38,3.0,0.0,2010-2011,be091289,Chelsea,"3,385",37.6,4.0,0.0,122.0,6.0,,Chelsea
+,John Terry,eng ENG,DF,33,33,1.0,3.0,2010-2011,68517cfd,Chelsea,"2,961",32.9,6.0,0.0,122.0,6.0,6140.0,Chelsea
+,Florent Malouda,fr FRA,"FW,MF",38,33,4.0,13.0,2010-2011,6fe6d820,Chelsea,"2,799",31.1,1.0,0.0,122.0,4.0,6174.0,Chelsea
+,Branislav Ivanović,rs SRB,DF,34,32,4.0,4.0,2010-2011,85f8571a,Chelsea,"2,827",31.4,12.0,0.0,122.0,28.0,6180.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",33,32,2.0,3.0,2010-2011,d6577282,Chelsea,"2,797",31.1,5.0,1.0,122.0,17.0,110.0,Chelsea
+,Didier Drogba,ci CIV,FW,36,30,13.0,11.0,2010-2011,945dea33,Chelsea,"2,791",31.0,6.0,0.0,122.0,35.0,6158.0,Chelsea
+,John Obi Mikel,ng NGA,MF,28,28,1.0,0.0,2010-2011,424d5f72,Chelsea,"2,204",24.5,3.0,0.0,122.0,52.0,6171.0,Chelsea
+,Nicolas Anelka,fr FRA,FW,32,27,4.0,6.0,2010-2011,931ed5e9,Chelsea,"2,356",26.2,0.0,0.0,122.0,4.0,6176.0,Chelsea
+,Frank Lampard,eng ENG,MF,24,23,2.0,10.0,2010-2011,268df6b1,Chelsea,"2,024",22.5,2.0,0.0,122.0,6.0,6131.0,Chelsea
+,Ramires,br BRA,MF,29,22,0.0,2.0,2010-2011,4cce2c67,Chelsea,"1,933",21.5,7.0,0.0,122.0,2.0,6190.0,Chelsea
+,Salomon Kalou,ci CIV,"FW,MF",31,16,3.0,10.0,2010-2011,2042d931,Chelsea,"1,570",17.4,1.0,0.0,122.0,35.0,6169.0,Chelsea
+,José Bosingwa,pt POR,DF,20,13,0.0,0.0,2010-2011,13dd442f,Chelsea,"1,262",14.0,1.0,0.0,122.0,3.0,6179.0,Chelsea
+,Alex,br BRA,DF,15,12,0.0,2.0,2010-2011,58721835,Chelsea,"1,109",12.3,3.0,0.0,122.0,2.0,6184.0,Chelsea
+,Paulo Ferreira,pt POR,DF,21,12,2.0,0.0,2010-2011,4ca16d65,Chelsea,"1,039",11.5,2.0,0.0,122.0,3.0,6157.0,Chelsea
+,David Luiz,br BRA,"DF,MF",12,11,0.0,2.0,2010-2011,c0e27d1a,Chelsea,953,10.6,3.0,0.0,122.0,2.0,,Chelsea
+,Fernando Torres,es ESP,FW,14,8,2.0,1.0,2010-2011,bdf7b97d,Chelsea,765,8.5,1.0,0.0,122.0,1.0,,Chelsea
+,Yuri Zhirkov,ru RUS,"DF,MF",12,6,2.0,0.0,2010-2011,d2b33cb,Chelsea,608,6.8,1.0,0.0,122.0,23.0,6185.0,Chelsea
+,Yossi Benayoun,il ISR,MF,7,1,0.0,1.0,2010-2011,8414bb13,Chelsea,209,2.3,0.0,0.0,122.0,45.0,,Chelsea
+,Josh McEachran,eng ENG,MF,9,1,0.0,0.0,2010-2011,48565585,Chelsea,180,2.0,1.0,0.0,122.0,6.0,6191.0,Chelsea
+,Gaël Kakuta,cd COD,"FW,MF",5,1,0.0,0.0,2010-2011,5b1bf5e3,Chelsea,123,1.4,0.0,0.0,122.0,50.0,,Chelsea
+,Jeffrey Bruma,nl NED,DF,2,1,0.0,0.0,2010-2011,fbffc4b1,Chelsea,110,1.2,0.0,0.0,122.0,11.0,6188.0,Chelsea
+,Daniel Sturridge,eng ENG,"FW,MF",13,0,0.0,0.0,2010-2011,1b7ec703,Chelsea,160,1.8,0.0,0.0,122.0,6.0,6186.0,Chelsea
+,Ryan Bertrand,eng ENG,"DF,MF",1,0,1.0,0.0,2010-2011,01226327,Chelsea,35,0.4,0.0,0.0,122.0,6.0,,Chelsea
+,﻿Petr Čech,cz CZE,GK,34,34,0.0,0.0,2011-2012,71672fa0,Chelsea,"3,060",34.0,0.0,0.0,122.0,84.0,,Chelsea
+,John Terry,eng ENG,DF,31,31,1.0,6.0,2011-2012,68517cfd,Chelsea,"2,790",31.0,8.0,0.0,122.0,6.0,6140.0,Chelsea
+,Ashley Cole,eng ENG,DF,32,31,6.0,0.0,2011-2012,be091289,Chelsea,"2,786",31.0,8.0,1.0,122.0,6.0,,Chelsea
+,Juan Mata,es ESP,"FW,MF",34,29,13.0,6.0,2011-2012,29733c72,Chelsea,"2,515",27.9,2.0,0.0,122.0,1.0,,Chelsea
+,Ramires,br BRA,MF,30,28,1.0,5.0,2011-2012,4cce2c67,Chelsea,"2,471",27.5,4.0,0.0,122.0,2.0,6190.0,Chelsea
+,Daniel Sturridge,eng ENG,"FW,MF",30,28,3.0,11.0,2011-2012,1b7ec703,Chelsea,"2,251",25.0,3.0,0.0,122.0,6.0,6186.0,Chelsea
+,Branislav Ivanović,rs SRB,DF,29,26,1.0,3.0,2011-2012,85f8571a,Chelsea,"2,265",25.2,6.0,0.0,122.0,28.0,6180.0,Chelsea
+,Frank Lampard,eng ENG,MF,30,26,5.0,11.0,2011-2012,268df6b1,Chelsea,"2,248",25.0,5.0,0.0,122.0,6.0,6131.0,Chelsea
+,José Bosingwa,pt POR,DF,27,24,2.0,1.0,2011-2012,13dd442f,Chelsea,"2,114",23.5,5.0,1.0,122.0,3.0,6179.0,Chelsea
+,Raul Meireles,pt POR,MF,28,23,3.0,2.0,2011-2012,767cd27,Chelsea,"1,928",21.4,8.0,0.0,122.0,3.0,6193.0,Chelsea
+,Fernando Torres,es ESP,FW,32,20,4.0,6.0,2011-2012,bdf7b97d,Chelsea,"1,913",21.3,4.0,1.0,122.0,1.0,,Chelsea
+,David Luiz,br BRA,"DF,MF",19,18,1.0,2.0,2011-2012,c0e27d1a,Chelsea,"1,619",18.0,5.0,0.0,122.0,2.0,,Chelsea
+,Didier Drogba,ci CIV,FW,24,16,1.0,5.0,2011-2012,945dea33,Chelsea,"1,480",16.4,1.0,1.0,122.0,35.0,6158.0,Chelsea
+,John Obi Mikel,ng NGA,MF,22,15,0.0,0.0,2011-2012,424d5f72,Chelsea,"1,325",14.7,4.0,0.0,122.0,52.0,6171.0,Chelsea
+,Florent Malouda,fr FRA,"FW,MF",26,11,3.0,2.0,2011-2012,6fe6d820,Chelsea,"1,163",12.9,3.0,0.0,122.0,4.0,6174.0,Chelsea
+,Oriol Romeu,es ESP,MF,16,11,0.0,0.0,2011-2012,4b511457,Chelsea,955,10.6,2.0,0.0,122.0,1.0,,Chelsea
+,Michael Essien,gh GHA,"DF,MF",14,10,1.0,0.0,2011-2012,d6577282,Chelsea,919,10.2,3.0,0.0,122.0,17.0,110.0,Chelsea
+,Gary Cahill,eng ENG,DF,10,9,0.0,1.0,2011-2012,7914b9fe,Chelsea,856,9.5,2.0,0.0,122.0,6.0,6194.0,Chelsea
+,Salomon Kalou,ci CIV,"FW,MF",12,7,1.0,1.0,2011-2012,2042d931,Chelsea,574,6.4,0.0,0.0,122.0,35.0,6169.0,Chelsea
+,Ryan Bertrand,eng ENG,"DF,MF",7,6,0.0,0.0,2011-2012,01226327,Chelsea,540,6.0,1.0,0.0,122.0,6.0,,Chelsea
+,Nicolas Anelka,fr FRA,FW,9,3,1.0,1.0,2011-2012,931ed5e9,Chelsea,421,4.7,0.0,0.0,122.0,4.0,6176.0,Chelsea
+,Paulo Ferreira,pt POR,DF,6,3,0.0,0.0,2011-2012,4ca16d65,Chelsea,369,4.1,1.0,0.0,122.0,3.0,6157.0,Chelsea
+,Alex,br BRA,DF,3,3,0.0,0.0,2011-2012,58721835,Chelsea,245,2.7,0.0,0.0,122.0,2.0,6184.0,Chelsea
+,Henrique Hilário,pt POR,GK,2,2,0.0,0.0,2011-2012,0fbcbed1,Chelsea,180,2.0,0.0,0.0,122.0,3.0,6170.0,Chelsea
+,Ross Turnbull,eng ENG,GK,2,2,0.0,0.0,2011-2012,6db380ef,Chelsea,180,2.0,0.0,0.0,122.0,6.0,6187.0,Chelsea
+,Romelu Lukaku,be BEL,FW,8,1,1.0,0.0,2011-2012,5eae500a,Chelsea,165,1.8,0.0,0.0,122.0,27.0,,Chelsea
+,Sam Hutchinson,eng ENG,"DF,MF",2,1,0.0,0.0,2011-2012,800a3404,Chelsea,78,0.9,0.0,0.0,122.0,6.0,6173.0,Chelsea
+,Josh McEachran,eng ENG,MF,2,0,0.0,0.0,2011-2012,48565585,Chelsea,16,0.2,0.0,0.0,122.0,6.0,6191.0,Chelsea
+,Yossi Benayoun,il ISR,MF,1,0,0.0,0.0,2011-2012,8414bb13,Chelsea,2,0.0,0.0,0.0,122.0,45.0,,Chelsea
+,﻿Petr Čech,cz CZE,GK,36,36,0.0,0.0,2012-2013,71672fa0,Chelsea,"3,195",35.5,1.0,0.0,122.0,84.0,,Chelsea
+,Branislav Ivanović,rs SRB,DF,34,33,1.0,5.0,2012-2013,85f8571a,Chelsea,"2,946",32.7,4.0,1.0,122.0,28.0,6180.0,Chelsea
+,Ashley Cole,eng ENG,DF,31,31,2.0,1.0,2012-2013,be091289,Chelsea,"2,790",31.0,3.0,0.0,122.0,6.0,,Chelsea
+,Juan Mata,es ESP,"FW,MF",35,31,12.0,11.0,2012-2013,29733c72,Chelsea,"2,727",30.3,3.0,0.0,122.0,1.0,,Chelsea
+,Eden Hazard,be BEL,"FW,MF",34,31,11.0,9.0,2012-2013,39bb753,Chelsea,"2,624",29.2,2.0,0.0,122.0,27.0,163.0,Chelsea
+,David Luiz,br BRA,"DF,MF",30,29,2.0,2.0,2012-2013,c0e27d1a,Chelsea,"2,632",29.2,8.0,0.0,122.0,2.0,,Chelsea
+,Fernando Torres,es ESP,FW,36,28,6.0,8.0,2012-2013,bdf7b97d,Chelsea,"2,572",28.6,5.0,1.0,122.0,1.0,,Chelsea
+,Ramires,br BRA,MF,35,28,1.0,5.0,2012-2013,4cce2c67,Chelsea,"2,524",28.0,9.0,1.0,122.0,2.0,6190.0,Chelsea
+,Oscar,br BRA,MF,34,24,5.0,4.0,2012-2013,57fe98dd,Chelsea,"2,292",25.5,2.0,0.0,122.0,2.0,6195.0,Chelsea
+,Gary Cahill,eng ENG,DF,26,24,2.0,2.0,2012-2013,7914b9fe,Chelsea,"2,219",24.7,1.0,0.0,122.0,6.0,6194.0,Chelsea
+,César Azpilicueta,es ESP,"DF,MF",27,24,4.0,0.0,2012-2013,53cad200,Chelsea,"2,199",24.4,4.0,0.0,122.0,1.0,,Chelsea
+,Frank Lampard,eng ENG,MF,29,21,1.0,15.0,2012-2013,268df6b1,Chelsea,"1,904",21.2,2.0,0.0,122.0,6.0,6131.0,Chelsea
+,John Obi Mikel,ng NGA,MF,22,19,0.0,0.0,2012-2013,424d5f72,Chelsea,"1,620",18.0,3.0,0.0,122.0,52.0,6171.0,Chelsea
+,Ryan Bertrand,eng ENG,"DF,MF",19,14,0.0,0.0,2012-2013,01226327,Chelsea,"1,286",14.3,1.0,0.0,122.0,6.0,,Chelsea
+,Victor Moses,ng NGA,"DF,FW",23,12,1.0,1.0,2012-2013,726e11e,Chelsea,"1,125",12.5,0.0,0.0,122.0,52.0,6196.0,Chelsea
+,John Terry,eng ENG,DF,14,11,0.0,4.0,2012-2013,68517cfd,Chelsea,950,10.6,1.0,0.0,122.0,6.0,6140.0,Chelsea
+,Demba Ba,sn SEN,FW,14,11,0.0,2.0,2012-2013,8b683d09,Chelsea,868,9.6,0.0,0.0,122.0,34.0,,Chelsea
+,Oriol Romeu,es ESP,MF,6,4,0.0,0.0,2012-2013,4b511457,Chelsea,236,2.6,1.0,0.0,122.0,1.0,,Chelsea
+,Ross Turnbull,eng ENG,GK,3,2,0.0,0.0,2012-2013,6db380ef,Chelsea,225,2.5,0.0,0.0,122.0,6.0,6187.0,Chelsea
+,Marko Marin,de GER,"FW,MF",6,2,1.0,1.0,2012-2013,022e78c,Chelsea,144,1.6,2.0,0.0,122.0,13.0,,Chelsea
+,Daniel Sturridge,eng ENG,"FW,MF",7,1,0.0,1.0,2012-2013,1b7ec703,Chelsea,168,1.9,0.0,0.0,122.0,6.0,6186.0,Chelsea
+,Raul Meireles,pt POR,MF,3,1,0.0,0.0,2012-2013,767cd27,Chelsea,102,1.1,0.0,0.0,122.0,3.0,6193.0,Chelsea
+,Nathan Aké,nl NED,"DF,MF",3,1,0.0,0.0,2012-2013,ca114,Chelsea,92,1.0,0.0,0.0,122.0,11.0,6197.0,Chelsea
+,Yossi Benayoun,il ISR,MF,6,0,0.0,0.0,2012-2013,8414bb13,Chelsea,59,0.7,0.0,0.0,122.0,45.0,,Chelsea
+,Lucas Piazon,br BRA,"FW,MF",1,0,1.0,0.0,2012-2013,f201798c,Chelsea,17,0.2,0.0,0.0,122.0,2.0,,Chelsea
+,Paulo Ferreira,pt POR,DF,2,0,0.0,0.0,2012-2013,4ca16d65,Chelsea,11,0.1,0.0,0.0,122.0,3.0,6157.0,Chelsea
+,﻿Branislav Ivanović,rs SRB,DF,36,36,1.0,3.0,2013-2014,85f8571a,Chelsea,"3,179",35.3,8.0,0.0,122.0,28.0,6180.0,Chelsea
+,Petr Čech,cz CZE,GK,34,34,0.0,0.0,2013-2014,71672fa0,Chelsea,"3,060",34.0,0.0,0.0,122.0,84.0,,Chelsea
+,John Terry,eng ENG,DF,34,34,1.0,2.0,2013-2014,68517cfd,Chelsea,"3,060",34.0,3.0,0.0,122.0,6.0,6140.0,Chelsea
+,Eden Hazard,be BEL,"FW,MF",35,32,7.0,14.0,2013-2014,39bb753,Chelsea,"2,888",32.1,2.0,0.0,122.0,27.0,163.0,Chelsea
+,Gary Cahill,eng ENG,DF,30,29,1.0,1.0,2013-2014,7914b9fe,Chelsea,"2,624",29.2,2.0,0.0,122.0,6.0,6194.0,Chelsea
+,Ramires,br BRA,MF,30,29,2.0,1.0,2013-2014,4cce2c67,Chelsea,"2,607",29.0,8.0,1.0,122.0,2.0,6190.0,Chelsea
+,César Azpilicueta,es ESP,"DF,MF",29,26,0.0,0.0,2013-2014,53cad200,Chelsea,"2,325",25.8,1.0,0.0,122.0,1.0,,Chelsea
+,Oscar,br BRA,MF,33,24,2.0,8.0,2013-2014,57fe98dd,Chelsea,"2,134",23.7,4.0,0.0,122.0,2.0,6195.0,Chelsea
+,Frank Lampard,eng ENG,MF,26,20,3.0,6.0,2013-2014,268df6b1,Chelsea,"1,703",18.9,4.0,0.0,122.0,6.0,6131.0,Chelsea
+,Willian,br BRA,"FW,MF",25,18,2.0,4.0,2013-2014,8b9ebd03,Chelsea,"1,677",18.6,4.0,1.0,122.0,2.0,,Chelsea
+,Fernando Torres,es ESP,FW,28,16,5.0,5.0,2013-2014,bdf7b97d,Chelsea,"1,574",17.5,4.0,1.0,122.0,1.0,,Chelsea
+,Samuel Eto'o,cm CMR,FW,21,16,2.0,9.0,2013-2014,06420c93,Chelsea,"1,298",14.4,1.0,0.0,122.0,36.0,,Chelsea
+,Ashley Cole,eng ENG,DF,17,15,2.0,0.0,2013-2014,be091289,Chelsea,"1,386",15.4,1.0,0.0,122.0,6.0,,Chelsea
+,Nemanja Matić,rs SRB,MF,17,15,4.0,0.0,2013-2014,b7822d7,Chelsea,"1,365",15.2,3.0,0.0,122.0,28.0,,Chelsea
+,David Luiz,br BRA,"DF,MF",19,15,1.0,0.0,2013-2014,c0e27d1a,Chelsea,"1,360",15.1,6.0,0.0,122.0,2.0,,Chelsea
+,André Schürrle,de GER,"FW,MF",30,15,2.0,8.0,2013-2014,cbb3fdf,Chelsea,"1,329",14.8,1.0,0.0,122.0,13.0,6198.0,Chelsea
+,John Obi Mikel,ng NGA,MF,24,11,1.0,1.0,2013-2014,424d5f72,Chelsea,"1,072",11.9,3.0,0.0,122.0,52.0,6171.0,Chelsea
+,Juan Mata,es ESP,"FW,MF",13,11,2.0,0.0,2013-2014,29733c72,Chelsea,826,9.2,0.0,0.0,122.0,1.0,,Chelsea
+,Mohamed Salah,eg EGY,"FW,MF",10,6,1.0,2.0,2013-2014,342ad68,Chelsea,501,5.6,1.0,0.0,122.0,59.0,6199.0,Chelsea
+,Demba Ba,sn SEN,FW,19,5,1.0,5.0,2013-2014,8b683d09,Chelsea,669,7.4,0.0,0.0,122.0,34.0,,Chelsea
+,Mark Schwarzer,au AUS,GK,4,4,0.0,0.0,2013-2014,da409c6f,Chelsea,360,4.0,0.0,0.0,122.0,42.0,6200.0,Chelsea
+,Tomáš Kalas,cz CZE,DF,2,2,0.0,0.0,2013-2014,df618867,Chelsea,180,2.0,0.0,0.0,122.0,84.0,6201.0,Chelsea
+,Michael Essien,gh GHA,"DF,MF",5,2,0.0,0.0,2013-2014,d6577282,Chelsea,149,1.7,2.0,0.0,122.0,17.0,110.0,Chelsea
+,Kevin De Bruyne,be BEL,"FW,MF",3,2,1.0,0.0,2013-2014,46012d4,Chelsea,131,1.5,1.0,0.0,122.0,27.0,6202.0,Chelsea
+,Ryan Bertrand,eng ENG,"DF,MF",1,1,0.0,0.0,2013-2014,01226327,Chelsea,63,0.7,0.0,0.0,122.0,6.0,,Chelsea
+,Romelu Lukaku,be BEL,FW,2,0,0.0,0.0,2013-2014,5eae500a,Chelsea,42,0.5,0.0,0.0,122.0,27.0,,Chelsea
+,Marco van Ginkel,nl NED,MF,2,0,0.0,0.0,2013-2014,47681787,Chelsea,13,0.1,0.0,0.0,122.0,11.0,6203.0,Chelsea
+,Nathan Aké,nl NED,"DF,MF",1,0,0.0,0.0,2013-2014,ca114,Chelsea,12,0.1,0.0,0.0,122.0,11.0,6197.0,Chelsea
+,John Swift,eng ENG,MF,1,0,0.0,0.0,2013-2014,646ee278,Chelsea,2,0.0,0.0,0.0,122.0,6.0,6204.0,Chelsea
+,﻿Branislav Ivanović,rs SRB,DF,38,38,5.0,4.0,2014-2015,85f8571a,Chelsea,"3,420",38.0,11.0,1.0,122.0,28.0,6180.0,Chelsea
+,John Terry,eng ENG,DF,38,38,0.0,5.0,2014-2015,68517cfd,Chelsea,"3,420",38.0,2.0,0.0,122.0,6.0,6140.0,Chelsea
+,Eden Hazard,be BEL,"FW,MF",38,38,9.0,14.0,2014-2015,39bb753,Chelsea,"3,367",37.4,2.0,0.0,122.0,27.0,163.0,Chelsea
+,Nemanja Matić,rs SRB,MF,36,35,3.0,1.0,2014-2015,b7822d7,Chelsea,"3,123",34.7,10.0,1.0,122.0,28.0,,Chelsea
+,Gary Cahill,eng ENG,DF,36,33,1.0,1.0,2014-2015,7914b9fe,Chelsea,"2,986",33.2,5.0,0.0,122.0,6.0,6194.0,Chelsea
+,Cesc Fàbregas,es ESP,"FW,MF",34,33,18.0,3.0,2014-2015,33508c78,Chelsea,"2,883",32.0,11.0,1.0,122.0,1.0,,Chelsea
+,Thibaut Courtois,be BEL,GK,32,32,0.0,0.0,2014-2015,1840e36d,Chelsea,"2,813",31.3,1.0,0.0,122.0,27.0,154.0,Chelsea
+,César Azpilicueta,es ESP,"DF,MF",29,29,3.0,0.0,2014-2015,53cad200,Chelsea,"2,482",27.6,1.0,1.0,122.0,1.0,,Chelsea
+,Willian,br BRA,"FW,MF",36,28,3.0,2.0,2014-2015,8b9ebd03,Chelsea,"2,402",26.7,3.0,0.0,122.0,2.0,,Chelsea
+,Oscar,br BRA,MF,28,26,8.0,6.0,2014-2015,57fe98dd,Chelsea,"2,020",22.4,5.0,0.0,122.0,2.0,6195.0,Chelsea
+,Diego Costa,es ESP,FW,26,24,3.0,20.0,2014-2015,190d597,Chelsea,"2,068",23.0,8.0,0.0,122.0,1.0,,Chelsea
+,Ramires,br BRA,MF,23,11,4.0,2.0,2014-2015,4cce2c67,Chelsea,"1,107",12.3,4.0,0.0,122.0,2.0,6190.0,Chelsea
+,Filipe Luís,br BRA,DF,15,9,0.0,0.0,2014-2015,4ed2628,Chelsea,942,10.5,1.0,0.0,122.0,2.0,,Chelsea
+,Didier Drogba,ci CIV,FW,28,8,1.0,4.0,2014-2015,945dea33,Chelsea,869,9.7,5.0,0.0,122.0,35.0,6158.0,Chelsea
+,Kurt Zouma,fr FRA,DF,15,7,0.0,0.0,2014-2015,ce4246f5,Chelsea,647,7.2,0.0,0.0,122.0,4.0,6205.0,Chelsea
+,John Obi Mikel,ng NGA,MF,18,6,1.0,0.0,2014-2015,424d5f72,Chelsea,702,7.8,1.0,0.0,122.0,52.0,6171.0,Chelsea
+,Loïc Rémy,fr FRA,FW,19,6,0.0,7.0,2014-2015,5c2da10f,Chelsea,672,7.5,0.0,0.0,122.0,4.0,,Chelsea
+,Petr Čech,cz CZE,GK,7,6,0.0,0.0,2014-2015,71672fa0,Chelsea,607,6.7,0.0,0.0,122.0,84.0,,Chelsea
+,André Schürrle,de GER,"FW,MF",14,5,0.0,3.0,2014-2015,cbb3fdf,Chelsea,436,4.8,2.0,0.0,122.0,13.0,6198.0,Chelsea
+,Juan Cuadrado,co COL,"DF,FW",12,4,0.0,0.0,2014-2015,0ab1f153,Chelsea,315,3.5,2.0,0.0,122.0,19.0,6206.0,Chelsea
+,Ruben Loftus-Cheek,eng ENG,MF,3,2,0.0,0.0,2014-2015,97fd090,Chelsea,132,1.5,0.0,0.0,122.0,6.0,6207.0,Chelsea
+,Mohamed Salah,eg EGY,"FW,MF",3,0,0.0,0.0,2014-2015,342ad68,Chelsea,33,0.4,0.0,0.0,122.0,59.0,6199.0,Chelsea
+,Nathan Aké,nl NED,"DF,MF",1,0,0.0,0.0,2014-2015,ca114,Chelsea,18,0.2,0.0,0.0,122.0,11.0,6197.0,Chelsea
+,Andreas Christensen,dk DEN,DF,1,0,0.0,0.0,2014-2015,1cb49278,Chelsea,13,0.1,0.0,0.0,122.0,7.0,6208.0,Chelsea
+,Izzy Brown,eng ENG,"FW,MF",1,0,0.0,0.0,2014-2015,bf54c8cc,Chelsea,12,0.1,0.0,0.0,122.0,6.0,6209.0,Chelsea
+,Lewis Baker,eng ENG,MF,0,0,,,2014-2015,1b278bf5,Chelsea,,,,,122.0,6.0,6210.0,Chelsea
+,Mitchell Beeney,eng ENG,GK,0,0,,,2014-2015,dc630911,Chelsea,,,,,122.0,6.0,6211.0,Chelsea
+,Jamal Blackman,eng ENG,GK,0,0,,,2014-2015,dd26b605,Chelsea,,,,,122.0,6.0,6212.0,Chelsea
+,Jeremie Boga,ci CIV,"FW,MF",0,0,,,2014-2015,fe012aca,Chelsea,,,,,122.0,35.0,,Chelsea
+,Mark Schwarzer,au AUS,GK,0,0,,,2014-2015,da409c6f,Chelsea,,,,,122.0,42.0,6200.0,Chelsea
+,Dominic Solanke,eng ENG,FW,0,0,,,2014-2015,77dc3b2,Chelsea,,,,,122.0,6.0,6213.0,Chelsea
+,Fernando Torres,es ESP,FW,0,0,,,2014-2015,bdf7b97d,Chelsea,,,,,122.0,1.0,,Chelsea
+,﻿César Azpilicueta,es ESP,DF,37,36,3.0,2.0,2015-2016,53cad200,Chelsea,"3,199",35.5,7.0,0.0,122.0,1.0,,Chelsea
+,Branislav Ivanović,rs SRB,DF,33,33,2.0,2.0,2015-2016,85f8571a,Chelsea,"2,916",32.4,5.0,0.0,122.0,28.0,6180.0,Chelsea
+,Cesc Fàbregas,es ESP,MF,37,33,7.0,5.0,2015-2016,33508c78,Chelsea,"2,895",32.2,5.0,0.0,122.0,1.0,,Chelsea
+,Willian,br BRA,MF,35,32,6.0,5.0,2015-2016,8b9ebd03,Chelsea,"2,739",30.4,5.0,0.0,122.0,2.0,,Chelsea
+,Nemanja Matić,rs SRB,MF,33,28,2.0,2.0,2015-2016,b7822d7,Chelsea,"2,415",26.8,5.0,1.0,122.0,28.0,,Chelsea
+,Diego Costa,es ESP,FW,28,27,6.0,12.0,2015-2016,190d597,Chelsea,"2,373",26.4,8.0,0.0,122.0,1.0,,Chelsea
+,Eden Hazard,be BEL,"MF,FW",31,25,3.0,4.0,2015-2016,39bb753,Chelsea,"2,191",24.3,2.0,0.0,122.0,27.0,163.0,Chelsea
+,Pedro,es ESP,MF,29,24,3.0,7.0,2015-2016,3ca7254a,Chelsea,"2,033",22.6,3.0,0.0,122.0,1.0,,Chelsea
+,John Terry,eng ENG,DF,24,24,0.0,1.0,2015-2016,68517cfd,Chelsea,"1,988",22.1,3.0,2.0,122.0,6.0,6140.0,Chelsea
+,Thibaut Courtois,be BEL,GK,23,23,0.0,0.0,2015-2016,1840e36d,Chelsea,"2,020",22.4,1.0,2.0,122.0,27.0,154.0,Chelsea
+,Gary Cahill,eng ENG,DF,23,21,1.0,2.0,2015-2016,7914b9fe,Chelsea,"1,957",21.7,2.0,0.0,122.0,6.0,6194.0,Chelsea
+,Kurt Zouma,fr FRA,DF,23,21,1.0,1.0,2015-2016,ce4246f5,Chelsea,"1,918",21.3,0.0,0.0,122.0,4.0,6205.0,Chelsea
+,Oscar,br BRA,MF,27,20,3.0,3.0,2015-2016,57fe98dd,Chelsea,"1,769",19.7,4.0,0.0,122.0,2.0,6195.0,Chelsea
+,John Obi Mikel,ng NGA,"MF,DF",25,19,1.0,0.0,2015-2016,424d5f72,Chelsea,"1,782",19.8,6.0,0.0,122.0,52.0,6171.0,Chelsea
+,Asmir Begović,ba BIH,GK,17,15,0.0,0.0,2015-2016,7b4de647,Chelsea,"1,399",15.5,0.0,0.0,122.0,49.0,6214.0,Chelsea
+,Baba Rahman,gh GHA,DF,15,11,1.0,0.0,2015-2016,4086af3,Chelsea,"1,018",11.3,1.0,0.0,122.0,17.0,,Chelsea
+,Ramires,br BRA,MF,12,7,0.0,2.0,2015-2016,4cce2c67,Chelsea,609,6.8,1.0,0.0,122.0,2.0,6190.0,Chelsea
+,Kenedy,br BRA,"DF,MF",14,4,0.0,1.0,2015-2016,5eebbfdf,Chelsea,556,6.2,0.0,0.0,122.0,2.0,,Chelsea
+,Ruben Loftus-Cheek,eng ENG,MF,13,4,0.0,1.0,2015-2016,97fd090,Chelsea,412,4.6,0.0,0.0,122.0,6.0,6207.0,Chelsea
+,Bertrand Traoré,bf BFA,"FW,MF",10,4,1.0,2.0,2015-2016,c47541e0,Chelsea,375,4.2,0.0,0.0,122.0,62.0,6215.0,Chelsea
+,Loïc Rémy,fr FRA,FW,13,3,0.0,1.0,2015-2016,5c2da10f,Chelsea,291,3.2,0.0,0.0,122.0,4.0,,Chelsea
+,Matt Miazga,us USA,DF,2,2,0.0,0.0,2015-2016,9fc0f253,Chelsea,135,1.5,1.0,0.0,122.0,75.0,,Chelsea
+,Radamel Falcao,co COL,FW,10,1,0.0,1.0,2015-2016,66116290,Chelsea,237,2.6,1.0,0.0,122.0,19.0,,Chelsea
+,Alexandre Pato,br BRA,FW,2,1,0.0,1.0,2015-2016,7dd83c7d,Chelsea,131,1.5,0.0,0.0,122.0,2.0,,Chelsea
+,Tammy Abraham,eng ENG,FW,2,0,0.0,0.0,2015-2016,f586779e,Chelsea,55,0.6,0.0,0.0,122.0,6.0,6216.0,Chelsea
+,Fikayo Tomori,eng ENG,DF,1,0,0.0,0.0,2015-2016,7edfbb8a,Chelsea,31,0.3,0.0,0.0,122.0,6.0,6217.0,Chelsea
+,Juan Cuadrado,co COL,"DF,FW",1,0,0.0,0.0,2015-2016,0ab1f153,Chelsea,27,0.3,0.0,0.0,122.0,19.0,6206.0,Chelsea
+,Jake Clarke-Salter,eng ENG,DF,1,0,0.0,0.0,2015-2016,0df092d3,Chelsea,17,0.2,0.0,0.0,122.0,6.0,6218.0,Chelsea
+,Ola Aina,ng NGA,"DF,MF",0,0,,,2015-2016,246d153b,Chelsea,,,,,122.0,52.0,6219.0,Chelsea
+,Marco Amelia,it ITA,GK,0,0,,,2015-2016,54da8e59,Chelsea,,,,,122.0,9.0,6220.0,Chelsea
+,Jamal Blackman,eng ENG,GK,0,0,,,2015-2016,dd26b605,Chelsea,,,,,122.0,6.0,6212.0,Chelsea
+,Charlie Colkett,eng ENG,MF,0,0,,,2015-2016,cf151ac,Chelsea,,,,,122.0,6.0,6221.0,Chelsea
+,Papy Djilobodji,sn SEN,DF,0,0,,,2015-2016,083525e5,Chelsea,,,,,122.0,34.0,,Chelsea
+,Victor Moses,ng NGA,"DF,FW",0,0,,,2015-2016,726e11e,Chelsea,,,,,122.0,52.0,6196.0,Chelsea
+,Kasey Palmer,jm JAM,MF,0,0,,,2015-2016,453f566a,Chelsea,,,,,122.0,127.0,6223.0,Chelsea
+,﻿César Azpilicueta,es ESP,DF,38,38,4.0,1.0,2016-2017,53cad200,Chelsea,"3,420",38.0,4.0,0.0,122.0,1.0,,Chelsea
+,Gary Cahill,eng ENG,DF,37,36,0.0,6.0,2016-2017,7914b9fe,Chelsea,"3,296",36.6,5.0,0.0,122.0,6.0,6194.0,Chelsea
+,Thibaut Courtois,be BEL,GK,36,36,0.0,0.0,2016-2017,1840e36d,Chelsea,"3,240",36.0,1.0,0.0,122.0,27.0,154.0,Chelsea
+,Eden Hazard,be BEL,"FW,MF",36,36,5.0,16.0,2016-2017,39bb753,Chelsea,"2,982",33.1,3.0,0.0,122.0,27.0,163.0,Chelsea
+,N'Golo Kanté,fr FRA,MF,35,35,1.0,1.0,2016-2017,b9fbae28,Chelsea,"3,138",34.9,9.0,0.0,122.0,4.0,6224.0,Chelsea
+,Diego Costa,es ESP,FW,35,35,7.0,20.0,2016-2017,190d597,Chelsea,"3,082",34.2,10.0,0.0,122.0,1.0,,Chelsea
+,David Luiz,br BRA,DF,33,33,0.0,1.0,2016-2017,c0e27d1a,Chelsea,"2,954",32.8,6.0,0.0,122.0,2.0,,Chelsea
+,Nemanja Matić,rs SRB,MF,35,30,7.0,1.0,2016-2017,b7822d7,Chelsea,"2,694",29.9,4.0,0.0,122.0,28.0,,Chelsea
+,Marcos Alonso,es ESP,MF,31,30,3.0,6.0,2016-2017,f4290206,Chelsea,"2,693",29.9,2.0,0.0,122.0,1.0,87.0,Chelsea
+,Victor Moses,ng NGA,MF,34,29,2.0,3.0,2016-2017,726e11e,Chelsea,"2,483",27.6,4.0,0.0,122.0,52.0,6196.0,Chelsea
+,Pedro,es ESP,"FW,MF",35,26,9.0,9.0,2016-2017,3ca7254a,Chelsea,"2,140",23.8,6.0,0.0,122.0,1.0,,Chelsea
+,Willian,br BRA,"FW,MF",34,15,2.0,8.0,2016-2017,8b9ebd03,Chelsea,"1,534",17.0,3.0,0.0,122.0,2.0,,Chelsea
+,Cesc Fàbregas,es ESP,MF,29,13,12.0,5.0,2016-2017,33508c78,Chelsea,"1,339",14.9,8.0,0.0,122.0,1.0,,Chelsea
+,Branislav Ivanović,rs SRB,DF,13,6,0.0,0.0,2016-2017,85f8571a,Chelsea,589,6.5,2.0,0.0,122.0,28.0,6180.0,Chelsea
+,John Terry,eng ENG,DF,9,6,0.0,1.0,2016-2017,68517cfd,Chelsea,496,5.5,1.0,0.0,122.0,6.0,6140.0,Chelsea
+,Oscar,br BRA,MF,9,5,1.0,0.0,2016-2017,57fe98dd,Chelsea,455,5.1,1.0,0.0,122.0,2.0,6195.0,Chelsea
+,Kurt Zouma,fr FRA,DF,9,3,0.0,0.0,2016-2017,ce4246f5,Chelsea,250,2.8,0.0,0.0,122.0,4.0,6205.0,Chelsea
+,Asmir Begović,ba BIH,GK,2,2,0.0,0.0,2016-2017,7b4de647,Chelsea,180,2.0,0.0,0.0,122.0,49.0,6214.0,Chelsea
+,Michy Batshuayi,be BEL,FW,20,1,1.0,5.0,2016-2017,2973d8ff,Chelsea,254,2.8,0.0,0.0,122.0,27.0,,Chelsea
+,Nathaniel Chalobah,eng ENG,MF,10,1,0.0,0.0,2016-2017,422862ea,Chelsea,167,1.9,2.0,0.0,122.0,6.0,6225.0,Chelsea
+,Nathan Aké,nl NED,DF,2,1,0.0,0.0,2016-2017,ca114,Chelsea,99,1.1,1.0,0.0,122.0,11.0,6197.0,Chelsea
+,Kenedy,br BRA,MF,1,1,0.0,0.0,2016-2017,5eebbfdf,Chelsea,74,0.8,0.0,0.0,122.0,2.0,,Chelsea
+,Ruben Loftus-Cheek,eng ENG,MF,6,0,0.0,0.0,2016-2017,97fd090,Chelsea,35,0.4,0.0,0.0,122.0,6.0,6207.0,Chelsea
+,Ola Aina,ng NGA,"DF,MF",3,0,0.0,0.0,2016-2017,246d153b,Chelsea,26,0.3,0.0,0.0,122.0,52.0,6219.0,Chelsea
+,Eduardo Carvalho,pt POR,GK,0,0,,,2016-2017,81b906e7,Chelsea,,,,,122.0,3.0,6226.0,Chelsea
+,Dominic Solanke,eng ENG,FW,0,0,,,2016-2017,77dc3b2,Chelsea,,,,,122.0,6.0,6213.0,Chelsea
+,﻿César Azpilicueta,es ESP,DF,37,37,6.0,2.0,2017-2018,53cad200,Chelsea,"3,330",37.0,1.0,0.0,122.0,1.0,,Chelsea
+,Thibaut Courtois,be BEL,GK,35,35,0.0,0.0,2017-2018,1840e36d,Chelsea,"3,150",35.0,2.0,0.0,122.0,27.0,154.0,Chelsea
+,N'Golo Kanté,fr FRA,MF,34,34,1.0,1.0,2017-2018,b9fbae28,Chelsea,"2,994",33.3,3.0,0.0,122.0,4.0,6224.0,Chelsea
+,Marcos Alonso,es ESP,"DF,MF",33,33,2.0,7.0,2017-2018,f4290206,Chelsea,"2,855",31.7,6.0,0.0,122.0,1.0,87.0,Chelsea
+,Eden Hazard,be BEL,"FW,MF",34,28,4.0,12.0,2017-2018,39bb753,Chelsea,"2,422",26.9,2.0,0.0,122.0,27.0,163.0,Chelsea
+,Antonio Rüdiger,de GER,DF,27,25,1.0,2.0,2017-2018,18b896d6,Chelsea,"2,338",26.0,4.0,0.0,122.0,13.0,6227.0,Chelsea
+,Cesc Fàbregas,es ESP,MF,32,25,4.0,2.0,2017-2018,33508c78,Chelsea,"2,307",25.6,5.0,2.0,122.0,1.0,,Chelsea
+,Victor Moses,ng NGA,"DF,MF",28,25,3.0,3.0,2017-2018,726e11e,Chelsea,"2,110",23.4,3.0,0.0,122.0,52.0,6196.0,Chelsea
+,Tiemoué Bakayoko,fr FRA,MF,29,24,2.0,2.0,2017-2018,59bf127b,Chelsea,"2,126",23.6,4.0,2.0,122.0,4.0,6228.0,Chelsea
+,Gary Cahill,eng ENG,DF,27,24,0.0,0.0,2017-2018,7914b9fe,Chelsea,"2,086",23.2,1.0,1.0,122.0,6.0,6194.0,Chelsea
+,Álvaro Morata,es ESP,FW,31,24,6.0,11.0,2017-2018,129af0db,Chelsea,"2,061",22.9,7.0,0.0,122.0,1.0,102.0,Chelsea
+,Andreas Christensen,dk DEN,DF,27,23,0.0,0.0,2017-2018,1cb49278,Chelsea,"2,086",23.2,0.0,0.0,122.0,7.0,6208.0,Chelsea
+,Willian,br BRA,"MF,FW",36,20,7.0,6.0,2017-2018,8b9ebd03,Chelsea,"1,890",21.0,1.0,0.0,122.0,2.0,,Chelsea
+,Pedro,es ESP,"MF,FW",31,17,2.0,4.0,2017-2018,3ca7254a,Chelsea,"1,523",16.9,1.0,0.0,122.0,1.0,,Chelsea
+,Davide Zappacosta,it ITA,"DF,MF",22,12,1.0,1.0,2017-2018,7fe90ccd,Chelsea,"1,098",12.2,0.0,0.0,122.0,9.0,6229.0,Chelsea
+,David Luiz,br BRA,"DF,MF",10,9,0.0,1.0,2017-2018,c0e27d1a,Chelsea,840,9.3,4.0,1.0,122.0,2.0,,Chelsea
+,Olivier Giroud,fr FRA,FW,13,6,1.0,3.0,2017-2018,16ceb862,Chelsea,613,6.8,0.0,0.0,122.0,4.0,,Chelsea
+,Danny Drinkwater,eng ENG,MF,12,5,0.0,1.0,2017-2018,2649ff32,Chelsea,527,5.9,0.0,0.0,122.0,6.0,6230.0,Chelsea
+,Michy Batshuayi,be BEL,FW,12,3,1.0,2.0,2017-2018,2973d8ff,Chelsea,360,4.0,0.0,0.0,122.0,27.0,,Chelsea
+,Emerson Palmieri,it ITA,DF,5,3,1.0,0.0,2017-2018,0bc6fdc,Chelsea,280,3.1,0.0,0.0,122.0,9.0,6231.0,Chelsea
+,Willy Caballero,ar ARG,GK,3,3,0.0,0.0,2017-2018,179d516,Chelsea,270,3.0,0.0,0.0,122.0,5.0,,Chelsea
+,Ross Barkley,eng ENG,MF,2,2,0.0,0.0,2017-2018,3a24769f,Chelsea,129,1.4,0.0,0.0,122.0,6.0,6232.0,Chelsea
+,Jeremie Boga,ci CIV,MF,1,1,0.0,0.0,2017-2018,fe012aca,Chelsea,17,0.2,0.0,0.0,122.0,35.0,,Chelsea
+,Charly Musonda Jr.,be BEL,FW,3,0,0.0,0.0,2017-2018,62a0089e,Chelsea,37,0.4,0.0,0.0,122.0,27.0,,Chelsea
+,Callum Hudson-Odoi,eng ENG,"FW,DF",2,0,0.0,0.0,2017-2018,15f3ec41,Chelsea,29,0.3,0.0,0.0,122.0,6.0,6233.0,Chelsea
+,Ethan Ampadu,wls WAL,DF,1,0,0.0,0.0,2017-2018,10b9fa99,Chelsea,11,0.1,0.0,0.0,122.0,18.0,6234.0,Chelsea
+,Eduardo Carvalho,pt POR,GK,0,0,,,2017-2018,81b906e7,Chelsea,,,,,122.0,3.0,6226.0,Chelsea
+,Trevoh Chalobah,eng ENG,"DF,MF",0,0,,,2017-2018,5515376c,Chelsea,,,,,122.0,6.0,6235.0,Chelsea
+,Kenedy,br BRA,"FW,MF",0,0,,,2017-2018,5eebbfdf,Chelsea,,,,,122.0,2.0,,Chelsea
+,Kyle Scott,eng ENG,MF,0,0,,,2017-2018,1c24aacf,Chelsea,,,,,122.0,6.0,6236.0,Chelsea
+,Dujon Sterling,eng ENG,DF,0,0,,,2017-2018,54dd7308,Chelsea,,,,,122.0,6.0,6237.0,Chelsea
+,Fikayo Tomori,eng ENG,DF,0,0,,,2017-2018,7edfbb8a,Chelsea,,,,,122.0,6.0,6217.0,Chelsea
+,﻿César Azpilicueta,es ESP,DF,38,38,5.0,1.0,2018-2019,53cad200,Chelsea,"3,402",37.8,4.0,0.0,122.0,1.0,,Chelsea
+,Jorginho,it ITA,MF,37,37,0.0,2.0,2018-2019,45db685d,Chelsea,"3,156",35.1,8.0,0.0,122.0,9.0,6238.0,Chelsea
+,Kepa Arrizabalaga,es ESP,GK,36,36,0.0,0.0,2018-2019,28d596a0,Chelsea,"3,240",36.0,2.0,0.0,122.0,1.0,,Chelsea
+,David Luiz,br BRA,DF,36,36,2.0,3.0,2018-2019,c0e27d1a,Chelsea,"3,238",36.0,3.0,0.0,122.0,2.0,,Chelsea
+,N'Golo Kanté,fr FRA,MF,36,36,4.0,4.0,2018-2019,b9fbae28,Chelsea,"3,092",34.4,3.0,0.0,122.0,4.0,6224.0,Chelsea
+,Antonio Rüdiger,de GER,DF,33,33,0.0,1.0,2018-2019,18b896d6,Chelsea,"2,871",31.9,7.0,0.0,122.0,13.0,6227.0,Chelsea
+,Eden Hazard,be BEL,FW,37,32,15.0,16.0,2018-2019,39bb753,Chelsea,"2,923",32.5,2.0,0.0,122.0,27.0,163.0,Chelsea
+,Marcos Alonso,es ESP,DF,31,31,4.0,2.0,2018-2019,f4290206,Chelsea,"2,759",30.7,6.0,0.0,122.0,1.0,87.0,Chelsea
+,Willian,br BRA,FW,32,26,6.0,3.0,2018-2019,8b9ebd03,Chelsea,"2,097",23.3,2.0,0.0,122.0,2.0,,Chelsea
+,Pedro,es ESP,FW,31,21,2.0,8.0,2018-2019,3ca7254a,Chelsea,"1,778",19.8,2.0,0.0,122.0,1.0,,Chelsea
+,Mateo Kovačić,hr CRO,MF,32,21,2.0,0.0,2018-2019,79c0821a,Chelsea,"1,735",19.3,3.0,0.0,122.0,16.0,135.0,Chelsea
+,Ross Barkley,eng ENG,MF,27,13,5.0,3.0,2018-2019,3a24769f,Chelsea,"1,245",13.8,1.0,0.0,122.0,6.0,6232.0,Chelsea
+,Gonzalo Higuaín,ar ARG,FW,14,13,0.0,5.0,2018-2019,8a08491a,Chelsea,"1,085",12.1,0.0,0.0,122.0,5.0,57.0,Chelsea
+,Álvaro Morata,es ESP,FW,16,11,0.0,5.0,2018-2019,129af0db,Chelsea,941,10.5,3.0,0.0,122.0,1.0,102.0,Chelsea
+,Olivier Giroud,fr FRA,FW,27,7,4.0,2.0,2018-2019,16ceb862,Chelsea,847,9.4,1.0,0.0,122.0,4.0,,Chelsea
+,Emerson Palmieri,it ITA,DF,10,7,0.0,0.0,2018-2019,0bc6fdc,Chelsea,663,7.4,0.0,0.0,122.0,9.0,6231.0,Chelsea
+,Ruben Loftus-Cheek,eng ENG,"MF,FW",24,6,2.0,6.0,2018-2019,97fd090,Chelsea,998,11.1,0.0,0.0,122.0,6.0,6207.0,Chelsea
+,Andreas Christensen,dk DEN,DF,8,6,0.0,0.0,2018-2019,1cb49278,Chelsea,617,6.9,1.0,0.0,122.0,7.0,6208.0,Chelsea
+,Callum Hudson-Odoi,eng ENG,"FW,MF",10,4,1.0,0.0,2018-2019,15f3ec41,Chelsea,393,4.4,0.0,0.0,122.0,6.0,6233.0,Chelsea
+,Willy Caballero,ar ARG,GK,2,2,0.0,0.0,2018-2019,179d516,Chelsea,180,2.0,0.0,0.0,122.0,5.0,,Chelsea
+,Cesc Fàbregas,es ESP,MF,6,1,0.0,0.0,2018-2019,33508c78,Chelsea,180,2.0,1.0,0.0,122.0,1.0,,Chelsea
+,Davide Zappacosta,it ITA,DF,4,1,0.0,0.0,2018-2019,7fe90ccd,Chelsea,128,1.4,0.0,0.0,122.0,9.0,6229.0,Chelsea
+,Victor Moses,ng NGA,FW,2,0,0.0,0.0,2018-2019,726e11e,Chelsea,28,0.3,0.0,0.0,122.0,52.0,6196.0,Chelsea
+,Gary Cahill,eng ENG,DF,2,0,0.0,0.0,2018-2019,7914b9fe,Chelsea,24,0.3,0.0,0.0,122.0,6.0,6194.0,Chelsea
+,Ethan Ampadu,wls WAL,"DF,MF",0,0,,,2018-2019,10b9fa99,Chelsea,,,,,122.0,18.0,6234.0,Chelsea
+,Danny Drinkwater,eng ENG,MF,0,0,,,2018-2019,2649ff32,Chelsea,,,,,122.0,6.0,6230.0,Chelsea
+,Marc Guéhi,eng ENG,DF,0,0,,,2018-2019,d0706b27,Chelsea,,,,,122.0,6.0,6239.0,Chelsea
+,﻿César Azpilicueta,es ESP,DF,36,36,6.0,2.0,2019-2020,53cad200,Chelsea,"3,229",35.9,1.0,0.0,122.0,1.0,,Chelsea
+,Kepa Arrizabalaga,es ESP,GK,33,33,0.0,0.0,2019-2020,28d596a0,Chelsea,"2,970",33.0,0.0,0.0,122.0,1.0,,Chelsea
+,Mason Mount,eng ENG,"MF,FW",37,32,5.0,7.0,2019-2020,9674002f,Chelsea,"2,867",31.9,3.0,0.0,122.0,6.0,6240.0,Chelsea
+,Willian,br BRA,"FW,MF",36,29,7.0,9.0,2019-2020,8b9ebd03,Chelsea,"2,600",28.9,4.0,0.0,122.0,2.0,,Chelsea
+,Jorginho,it ITA,MF,31,27,2.0,4.0,2019-2020,45db685d,Chelsea,"2,379",26.4,10.0,0.0,122.0,9.0,6238.0,Chelsea
+,Kurt Zouma,fr FRA,DF,28,25,0.0,0.0,2019-2020,ce4246f5,Chelsea,"2,344",26.0,6.0,0.0,122.0,4.0,6205.0,Chelsea
+,Tammy Abraham,eng ENG,FW,34,25,3.0,15.0,2019-2020,f586779e,Chelsea,"2,215",24.6,2.0,0.0,122.0,6.0,6216.0,Chelsea
+,Mateo Kovačić,hr CRO,MF,31,23,3.0,1.0,2019-2020,79c0821a,Chelsea,"2,073",23.0,8.0,0.0,122.0,16.0,135.0,Chelsea
+,Andreas Christensen,dk DEN,DF,21,21,0.0,0.0,2019-2020,1cb49278,Chelsea,"1,751",19.5,5.0,0.0,122.0,7.0,6208.0,Chelsea
+,N'Golo Kanté,fr FRA,MF,22,20,0.0,3.0,2019-2020,b9fbae28,Chelsea,"1,732",19.2,4.0,0.0,122.0,4.0,6224.0,Chelsea
+,Christian Pulisic,us USA,"FW,MF",25,19,4.0,9.0,2019-2020,1bf33a9a,Chelsea,"1,722",19.1,0.0,0.0,122.0,75.0,6241.0,Chelsea
+,Antonio Rüdiger,de GER,DF,20,19,0.0,2.0,2019-2020,18b896d6,Chelsea,"1,710",19.0,3.0,0.0,122.0,13.0,6227.0,Chelsea
+,Reece James,eng ENG,DF,24,16,2.0,0.0,2019-2020,1265a93a,Chelsea,"1,515",16.8,1.0,0.0,122.0,6.0,6242.0,Chelsea
+,Marcos Alonso,es ESP,DF,18,15,2.0,4.0,2019-2020,f4290206,Chelsea,"1,430",15.9,4.0,0.0,122.0,1.0,87.0,Chelsea
+,Fikayo Tomori,eng ENG,DF,15,15,0.0,1.0,2019-2020,7edfbb8a,Chelsea,"1,291",14.3,3.0,0.0,122.0,6.0,6217.0,Chelsea
+,Ross Barkley,eng ENG,MF,21,13,4.0,1.0,2019-2020,3a24769f,Chelsea,"1,103",12.3,0.0,0.0,122.0,6.0,6232.0,Chelsea
+,Emerson Palmieri,it ITA,DF,15,13,0.0,0.0,2019-2020,0bc6fdc,Chelsea,"1,024",11.4,3.0,0.0,122.0,9.0,6231.0,Chelsea
+,Olivier Giroud,fr FRA,FW,18,12,0.0,8.0,2019-2020,16ceb862,Chelsea,993,11.0,1.0,0.0,122.0,4.0,,Chelsea
+,Pedro,es ESP,"FW,MF",11,8,1.0,1.0,2019-2020,3ca7254a,Chelsea,661,7.3,1.0,0.0,122.0,1.0,,Chelsea
+,Callum Hudson-Odoi,eng ENG,"FW,MF",22,7,5.0,1.0,2019-2020,15f3ec41,Chelsea,863,9.6,1.0,0.0,122.0,6.0,6233.0,Chelsea
+,Willy Caballero,ar ARG,GK,5,5,0.0,0.0,2019-2020,179d516,Chelsea,450,5.0,0.0,0.0,122.0,5.0,,Chelsea
+,Ruben Loftus-Cheek,eng ENG,"MF,FW",7,2,1.0,0.0,2019-2020,97fd090,Chelsea,208,2.3,0.0,0.0,122.0,6.0,6207.0,Chelsea
+,Billy Gilmour,sct SCO,MF,6,2,0.0,0.0,2019-2020,df10e27c,Chelsea,194,2.2,0.0,0.0,122.0,67.0,6243.0,Chelsea
+,Michy Batshuayi,be BEL,FW,16,1,1.0,1.0,2019-2020,2973d8ff,Chelsea,239,2.7,0.0,0.0,122.0,27.0,,Chelsea
+,Tariq Lamptey,gh GHA,DF,1,0,0.0,0.0,2019-2020,f4e433d4,Chelsea,32,0.4,0.0,0.0,122.0,17.0,6244.0,Chelsea
+,Faustino Anjorin,eng ENG,FW,1,0,0.0,0.0,2019-2020,b105919e,Chelsea,20,0.2,0.0,0.0,122.0,6.0,6245.0,Chelsea
+,Armando Broja,al ALB,FW,1,0,0.0,0.0,2019-2020,97220da2,Chelsea,5,0.1,0.0,0.0,122.0,78.0,6246.0,Chelsea
+,Lewis Bate,eng ENG,MF,0,0,,,2019-2020,cd4256d3,Chelsea,,,,,122.0,6.0,6247.0,Chelsea
+,Marc Guéhi,eng ENG,DF,0,0,,,2019-2020,d0706b27,Chelsea,,,,,122.0,6.0,6239.0,Chelsea
+,Kenedy,br BRA,"FW,MF",0,0,,,2019-2020,5eebbfdf,Chelsea,,,,,122.0,2.0,,Chelsea
+,﻿Mason Mount,eng ENG,MF,36,32,5.0,6.0,2020-2021,9674002f,Chelsea,"2,890",32.1,2.0,0.0,122.0,6.0,6240.0,Chelsea
+,Edouard Mendy,sn SEN,GK,31,31,0.0,0.0,2020-2021,33887998,Chelsea,"2,745",30.5,2.0,0.0,122.0,34.0,6248.0,Chelsea
+,Timo Werner,de GER,"FW,MF",35,29,8.0,6.0,2020-2021,49fe9070,Chelsea,"2,602",28.9,2.0,0.0,122.0,13.0,6249.0,Chelsea
+,Ben Chilwell,eng ENG,DF,27,27,5.0,3.0,2020-2021,d2424d1b,Chelsea,"2,286",25.4,3.0,0.0,122.0,6.0,6250.0,Chelsea
+,Reece James,eng ENG,DF,32,25,2.0,1.0,2020-2021,1265a93a,Chelsea,"2,373",26.4,3.0,0.0,122.0,6.0,6242.0,Chelsea
+,César Azpilicueta,es ESP,DF,26,24,2.0,1.0,2020-2021,53cad200,Chelsea,"2,188",24.3,5.0,1.0,122.0,1.0,,Chelsea
+,N'Golo Kanté,fr FRA,MF,30,24,2.0,0.0,2020-2021,b9fbae28,Chelsea,"2,146",23.8,7.0,0.0,122.0,4.0,6224.0,Chelsea
+,Jorginho,it ITA,MF,28,23,1.0,7.0,2020-2021,45db685d,Chelsea,"2,010",22.3,2.0,0.0,122.0,9.0,6238.0,Chelsea
+,Thiago Silva,br BRA,DF,23,23,0.0,2.0,2020-2021,86e7deaf,Chelsea,"1,935",21.5,5.0,1.0,122.0,2.0,6251.0,Chelsea
+,Kurt Zouma,fr FRA,DF,24,22,0.0,5.0,2020-2021,ce4246f5,Chelsea,"2,029",22.5,3.0,0.0,122.0,4.0,6205.0,Chelsea
+,Mateo Kovačić,hr CRO,MF,27,21,1.0,0.0,2020-2021,79c0821a,Chelsea,"1,815",20.2,4.0,0.0,122.0,16.0,135.0,Chelsea
+,Antonio Rüdiger,de GER,DF,19,19,0.0,1.0,2020-2021,18b896d6,Chelsea,"1,710",19.0,0.0,0.0,122.0,13.0,6227.0,Chelsea
+,Christian Pulisic,us USA,"MF,FW",27,18,2.0,4.0,2020-2021,1bf33a9a,Chelsea,"1,738",19.3,2.0,0.0,122.0,75.0,6241.0,Chelsea
+,Kai Havertz,de GER,"MF,FW",27,18,3.0,4.0,2020-2021,fed7cb61,Chelsea,"1,520",16.9,2.0,0.0,122.0,13.0,6252.0,Chelsea
+,Andreas Christensen,dk DEN,DF,17,15,0.0,0.0,2020-2021,1cb49278,Chelsea,"1,371",15.2,2.0,1.0,122.0,7.0,6208.0,Chelsea
+,Hakim Ziyech,ma MAR,"MF,FW",23,15,3.0,2.0,2020-2021,6622454d,Chelsea,"1,172",13.0,3.0,0.0,122.0,26.0,6253.0,Chelsea
+,Tammy Abraham,eng ENG,FW,22,12,1.0,6.0,2020-2021,f586779e,Chelsea,"1,040",11.6,0.0,0.0,122.0,6.0,6216.0,Chelsea
+,Marcos Alonso,es ESP,DF,13,11,0.0,2.0,2020-2021,f4290206,Chelsea,960,10.7,2.0,0.0,122.0,1.0,87.0,Chelsea
+,Callum Hudson-Odoi,eng ENG,"MF,DF",23,10,3.0,2.0,2020-2021,15f3ec41,Chelsea,"1,059",11.8,0.0,0.0,122.0,6.0,6233.0,Chelsea
+,Olivier Giroud,fr FRA,FW,17,8,0.0,4.0,2020-2021,16ceb862,Chelsea,748,8.3,1.0,0.0,122.0,4.0,,Chelsea
+,Kepa Arrizabalaga,es ESP,GK,7,6,0.0,0.0,2020-2021,28d596a0,Chelsea,585,6.5,1.0,0.0,122.0,1.0,,Chelsea
+,Billy Gilmour,sct SCO,MF,5,3,0.0,0.0,2020-2021,df10e27c,Chelsea,261,2.9,0.0,0.0,122.0,67.0,6243.0,Chelsea
+,Willy Caballero,ar ARG,GK,1,1,0.0,0.0,2020-2021,179d516,Chelsea,90,1.0,0.0,0.0,122.0,5.0,,Chelsea
+,Ruben Loftus-Cheek,eng ENG,FW,1,1,0.0,0.0,2020-2021,97fd090,Chelsea,60,0.7,0.0,0.0,122.0,6.0,6207.0,Chelsea
+,Emerson Palmieri,it ITA,DF,2,0,0.0,0.0,2020-2021,0bc6fdc,Chelsea,90,1.0,0.0,0.0,122.0,9.0,6231.0,Chelsea
+,Fikayo Tomori,eng ENG,DF,1,0,0.0,0.0,2020-2021,7edfbb8a,Chelsea,45,0.5,0.0,0.0,122.0,6.0,6217.0,Chelsea
+,Ross Barkley,eng ENG,"FW,MF",2,0,0.0,0.0,2020-2021,3a24769f,Chelsea,42,0.5,0.0,0.0,122.0,6.0,6232.0,Chelsea
+,Faustino Anjorin,eng ENG,MF,0,0,,,2020-2021,b105919e,Chelsea,,,,,122.0,6.0,6245.0,Chelsea
+,Valentino Livramento,eng ENG,"DF,MF",0,0,,,2020-2021,fed6722,Chelsea,,,,,122.0,6.0,6254.0,Chelsea
+,Karlo Ziger,hr CRO,GK,0,0,,,2020-2021,53b781b9,Chelsea,,,,,122.0,16.0,6255.0,Chelsea
+,﻿Edouard Mendy,sn SEN,GK,34,34,0.0,0.0,2021-2022,33887998,Chelsea,"3,060",34.0,3.0,0.0,122.0,34.0,6248.0,Chelsea
+,Antonio Rüdiger,de GER,DF,34,34,0.0,3.0,2021-2022,18b896d6,Chelsea,"3,035",33.7,9.0,0.0,122.0,13.0,6227.0,Chelsea
+,Thiago Silva,br BRA,DF,32,28,0.0,3.0,2021-2022,86e7deaf,Chelsea,"2,650",29.4,2.0,0.0,122.0,2.0,6251.0,Chelsea
+,Mason Mount,eng ENG,MF,32,27,10.0,11.0,2021-2022,9674002f,Chelsea,"2,363",26.3,4.0,0.0,122.0,6.0,6240.0,Chelsea
+,Jorginho,it ITA,MF,29,26,2.0,6.0,2021-2022,45db685d,Chelsea,"2,273",25.3,5.0,0.0,122.0,9.0,6238.0,Chelsea
+,Marcos Alonso,es ESP,DF,28,25,4.0,4.0,2021-2022,f4290206,Chelsea,"2,167",24.1,8.0,0.0,122.0,1.0,87.0,Chelsea
+,César Azpilicueta,es ESP,DF,27,24,2.0,1.0,2021-2022,53cad200,Chelsea,"2,070",23.0,3.0,0.0,122.0,1.0,,Chelsea
+,Reece James,eng ENG,DF,26,22,9.0,5.0,2021-2022,1265a93a,Chelsea,"1,864",20.7,4.0,1.0,122.0,6.0,6242.0,Chelsea
+,Kai Havertz,de GER,"FW,MF",29,22,3.0,8.0,2021-2022,fed7cb61,Chelsea,"1,809",20.1,3.0,0.0,122.0,13.0,6252.0,Chelsea
+,N'Golo Kanté,fr FRA,MF,26,21,4.0,2.0,2021-2022,b9fbae28,Chelsea,"1,773",19.7,2.0,0.0,122.0,4.0,6224.0,Chelsea
+,Andreas Christensen,dk DEN,DF,19,17,0.0,0.0,2021-2022,1cb49278,Chelsea,"1,496",16.6,2.0,0.0,122.0,7.0,6208.0,Chelsea
+,Trevoh Chalobah,eng ENG,DF,20,17,1.0,3.0,2021-2022,5515376c,Chelsea,"1,449",16.1,2.0,0.0,122.0,6.0,6235.0,Chelsea
+,Romelu Lukaku,be BEL,FW,26,16,0.0,8.0,2021-2022,5eae500a,Chelsea,"1,589",17.7,1.0,0.0,122.0,27.0,,Chelsea
+,Mateo Kovačić,hr CRO,MF,25,16,5.0,2.0,2021-2022,79c0821a,Chelsea,"1,558",17.3,4.0,0.0,122.0,16.0,135.0,Chelsea
+,Timo Werner,de GER,"FW,MF",21,15,1.0,4.0,2021-2022,49fe9070,Chelsea,"1,283",14.3,1.0,0.0,122.0,13.0,6249.0,Chelsea
+,Hakim Ziyech,ma MAR,"MF,FW",23,14,3.0,4.0,2021-2022,6622454d,Chelsea,"1,319",14.7,3.0,0.0,122.0,26.0,6253.0,Chelsea
+,Ruben Loftus-Cheek,eng ENG,"MF,DF",24,13,2.0,0.0,2021-2022,97fd090,Chelsea,"1,394",15.5,1.0,0.0,122.0,6.0,6207.0,Chelsea
+,Christian Pulisic,us USA,"MF,FW",22,13,2.0,6.0,2021-2022,1bf33a9a,Chelsea,"1,290",14.3,2.0,0.0,122.0,75.0,6241.0,Chelsea
+,Callum Hudson-Odoi,eng ENG,"MF,FW",15,11,2.0,1.0,2021-2022,15f3ec41,Chelsea,962,10.7,1.0,0.0,122.0,6.0,6233.0,Chelsea
+,Malang Sarr,fr FRA,DF,8,6,0.0,0.0,2021-2022,4315f30d,Chelsea,546,6.1,2.0,0.0,122.0,4.0,6256.0,Chelsea
+,Ben Chilwell,eng ENG,DF,7,6,1.0,3.0,2021-2022,d2424d1b,Chelsea,542,6.0,0.0,0.0,122.0,6.0,6250.0,Chelsea
+,Saúl Ñíguez,es ESP,"DF,MF",10,5,0.0,0.0,2021-2022,c14bc029,Chelsea,480,5.3,1.0,0.0,122.0,1.0,,Chelsea
+,Kepa Arrizabalaga,es ESP,GK,4,4,0.0,0.0,2021-2022,28d596a0,Chelsea,360,4.0,0.0,0.0,122.0,1.0,,Chelsea
+,Ross Barkley,eng ENG,"MF,FW",6,1,0.0,1.0,2021-2022,3a24769f,Chelsea,179,2.0,0.0,0.0,122.0,6.0,6232.0,Chelsea
+,Kenedy,br BRA,DF,1,1,1.0,0.0,2021-2022,5eebbfdf,Chelsea,58,0.6,0.0,0.0,122.0,2.0,,Chelsea
+,Emerson Palmieri,it ITA,DF,1,0,0.0,0.0,2021-2022,0bc6fdc,Chelsea,5,0.1,0.0,0.0,122.0,9.0,6231.0,Chelsea
+,Tammy Abraham,eng ENG,FW,0,0,,,2021-2022,f586779e,Chelsea,,,,,122.0,6.0,6216.0,Chelsea
+,Marcus Bettinelli,eng ENG,GK,0,0,,,2021-2022,0d85a4e8,Chelsea,,,,,122.0,6.0,6257.0,Chelsea
+,Lewis Hall,eng ENG,MF,0,0,,,2021-2022,da011f18,Chelsea,,,,,122.0,6.0,6258.0,Chelsea
+,Harvey Vale,eng ENG,MF,0,0,,,2021-2022,70182a5,Chelsea,,,,,122.0,6.0,6259.0,Chelsea
+,Kurt Zouma,fr FRA,DF,0,0,,,2021-2022,ce4246f5,Chelsea,,,,,122.0,4.0,6205.0,Chelsea

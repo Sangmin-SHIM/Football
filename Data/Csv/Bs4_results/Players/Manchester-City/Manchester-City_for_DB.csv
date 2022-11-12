@@ -1,0 +1,554 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Nicolas Anelka,fr FRA,FW,38,38,5.0,14.0,2002-2003,931ed5e9,Manchester-City,"3,381",37.6,0.0,0.0,127.0,4.0,,Manchester-City
+,Marc-Vivien Foé,cm CMR,MF,35,35,2.0,9.0,2002-2003,f98e429e,Manchester-City,"3,107",34.5,7.0,0.0,127.0,36.0,6935.0,Manchester-City
+,Sylvain Distin,fr FRA,DF,34,34,1.0,0.0,2002-2003,002d06bb,Manchester-City,"3,060",34.0,6.0,0.0,127.0,4.0,,Manchester-City
+,Niclas Jensen,dk DEN,DF,33,32,1.0,1.0,2002-2003,b71569d2,Manchester-City,"2,855",31.7,6.0,1.0,127.0,7.0,6936.0,Manchester-City
+,Peter Schmeichel,dk DEN,GK,29,29,0.0,0.0,2002-2003,f1fe7ffe,Manchester-City,"2,610",29.0,1.0,0.0,127.0,7.0,6937.0,Manchester-City
+,Eyal Berkovic,il ISR,MF,27,27,8.0,1.0,2002-2003,10e485ae,Manchester-City,"2,162",24.0,2.0,0.0,127.0,45.0,6938.0,Manchester-City
+,Sun Jihai,cn CHN,DF,28,25,2.0,2.0,2002-2003,fd08c217,Manchester-City,"2,225",24.7,5.0,1.0,127.0,101.0,6939.0,Manchester-City
+,Richard Dunne,ie IRL,DF,25,24,1.0,0.0,2002-2003,6cbc015d,Manchester-City,"2,058",22.9,5.0,0.0,127.0,99.0,6940.0,Manchester-City
+,Steve Howey,eng ENG,DF,24,24,1.0,2.0,2002-2003,c1dd78cb,Manchester-City,"2,013",22.4,1.0,0.0,127.0,6.0,6941.0,Manchester-City
+,Shaun Wright-Phillips,eng ENG,"FW,MF",31,23,3.0,1.0,2002-2003,1e0b05f,Manchester-City,"2,129",23.7,3.0,2.0,127.0,6.0,,Manchester-City
+,Kevin Horlock,nir NIR,MF,30,22,3.0,0.0,2002-2003,2bd566d6,Manchester-City,"2,049",22.8,4.0,0.0,127.0,121.0,6942.0,Manchester-City
+,Ali Benarbia,dz ALG,MF,33,21,6.0,3.0,2002-2003,43b3c8bd,Manchester-City,"2,059",22.9,4.0,1.0,127.0,37.0,6943.0,Manchester-City
+,Shaun Goater,bm BER,FW,26,14,2.0,7.0,2002-2003,1e14a14f,Manchester-City,"1,315",14.6,0.0,0.0,127.0,137.0,6944.0,Manchester-City
+,David Sommeil,gp GLP,DF,14,14,0.0,1.0,2002-2003,f4c68930,Manchester-City,"1,260",14.0,2.0,0.0,127.0,56.0,6945.0,Manchester-City
+,Robbie Fowler,eng ENG,FW,13,12,1.0,2.0,2002-2003,7cd34266,Manchester-City,966,10.7,0.0,0.0,127.0,6.0,,Manchester-City
+,Danny Tiatto,au AUS,"DF,MF",13,10,0.0,0.0,2002-2003,98538ebb,Manchester-City,891,9.9,3.0,1.0,127.0,42.0,6946.0,Manchester-City
+,Carlo Nash,eng ENG,GK,9,9,0.0,0.0,2002-2003,bd9670b3,Manchester-City,810,9.0,0.0,0.0,127.0,6.0,6947.0,Manchester-City
+,Joey Barton,eng ENG,MF,7,7,0.0,1.0,2002-2003,93bfa675,Manchester-City,610,6.8,2.0,0.0,127.0,6.0,,Manchester-City
+,Darren Huckerby,eng ENG,"FW,MF",16,6,0.0,1.0,2002-2003,906c8f78,Manchester-City,577,6.4,0.0,0.0,127.0,6.0,6948.0,Manchester-City
+,Gerard Wiekens,nl NED,DF,6,5,0.0,0.0,2002-2003,5e22707e,Manchester-City,424,4.7,3.0,0.0,127.0,11.0,6949.0,Manchester-City
+,Lucien Mettomo,cm CMR,DF,4,3,0.0,0.0,2002-2003,4d72172a,Manchester-City,320,3.6,1.0,0.0,127.0,36.0,6950.0,Manchester-City
+,Djamel Belmadi,dz ALG,MF,8,2,2.0,0.0,2002-2003,fa0f8351,Manchester-City,330,3.7,0.0,0.0,127.0,37.0,,Manchester-City
+,Chris Shuker,eng ENG,MF,3,1,0.0,0.0,2002-2003,c9fd80f9,Manchester-City,108,1.2,0.0,0.0,127.0,6.0,6951.0,Manchester-City
+,Mikkel Bischoff,dk DEN,DF,1,1,0.0,0.0,2002-2003,966c92b5,Manchester-City,61,0.7,0.0,0.0,127.0,7.0,6952.0,Manchester-City
+,Jon Macken,ie IRL,FW,5,0,0.0,0.0,2002-2003,b3e2544a,Manchester-City,96,1.1,0.0,0.0,127.0,99.0,6953.0,Manchester-City
+,Stephen Jordan,eng ENG,DF,1,0,0.0,0.0,2002-2003,1a3d94b5,Manchester-City,21,0.2,0.0,0.0,127.0,6.0,6954.0,Manchester-City
+,﻿Sylvain Distin,fr FRA,DF,38,38,0.0,2.0,2003-2004,002d06bb,Manchester-City,"3,420",38.0,6.0,0.0,127.0,4.0,,Manchester-City
+,Michael Tarnat,de GER,"DF,MF",32,32,5.0,3.0,2003-2004,2572fceb,Manchester-City,"2,861",31.8,5.0,0.0,127.0,13.0,6955.0,Manchester-City
+,Shaun Wright-Phillips,eng ENG,"FW,MF",34,32,2.0,7.0,2003-2004,1e0b05f,Manchester-City,"2,847",31.6,3.0,2.0,127.0,6.0,,Manchester-City
+,Nicolas Anelka,fr FRA,FW,32,31,4.0,16.0,2003-2004,931ed5e9,Manchester-City,"2,740",30.4,1.0,1.0,127.0,4.0,,Manchester-City
+,Sun Jihai,cn CHN,DF,33,29,5.0,1.0,2003-2004,fd08c217,Manchester-City,"2,635",29.3,8.0,0.0,127.0,101.0,6939.0,Manchester-City
+,Richard Dunne,ie IRL,DF,29,28,1.0,0.0,2003-2004,6cbc015d,Manchester-City,"2,500",27.8,5.0,0.0,127.0,99.0,6940.0,Manchester-City
+,Joey Barton,eng ENG,MF,28,24,2.0,1.0,2003-2004,93bfa675,Manchester-City,"2,188",24.3,9.0,0.0,127.0,6.0,,Manchester-City
+,Robbie Fowler,eng ENG,FW,31,23,0.0,7.0,2003-2004,7cd34266,Manchester-City,"1,911",21.2,2.0,0.0,127.0,6.0,,Manchester-City
+,Paul Bosvelt,nl NED,"DF,MF",25,22,1.0,0.0,2003-2004,56d1e956,Manchester-City,"1,914",21.3,3.0,0.0,127.0,11.0,6956.0,Manchester-City
+,Trevor Sinclair,eng ENG,MF,29,20,2.0,1.0,2003-2004,d2f7373c,Manchester-City,"1,993",22.1,2.0,0.0,127.0,6.0,6957.0,Manchester-City
+,Steve McManaman,eng ENG,MF,22,20,1.0,0.0,2003-2004,9be05f40,Manchester-City,"1,615",17.9,1.0,0.0,127.0,6.0,16.0,Manchester-City
+,Antoine Sibierski,fr FRA,"FW,MF",32,19,4.0,5.0,2003-2004,22936ff2,Manchester-City,"1,734",19.3,1.0,0.0,127.0,4.0,,Manchester-City
+,David Seaman,eng ENG,GK,19,19,0.0,0.0,2003-2004,2d578837,Manchester-City,"1,595",17.7,0.0,0.0,127.0,6.0,,Manchester-City
+,Claudio Reyna,us USA,MF,23,19,1.0,1.0,2003-2004,75a3a799,Manchester-City,"1,564",17.4,0.0,0.0,127.0,75.0,6958.0,Manchester-City
+,David Sommeil,gp GLP,DF,18,18,1.0,1.0,2003-2004,f4c68930,Manchester-City,"1,620",18.0,3.0,0.0,127.0,56.0,6945.0,Manchester-City
+,David James,eng ENG,GK,17,17,0.0,0.0,2003-2004,86841dfb,Manchester-City,"1,530",17.0,0.0,0.0,127.0,6.0,6959.0,Manchester-City
+,Paulo Wanchope,cr CRC,FW,22,12,2.0,6.0,2003-2004,3ab888b3,Manchester-City,"1,195",13.3,1.0,0.0,127.0,22.0,,Manchester-City
+,Jon Macken,ie IRL,FW,15,7,2.0,1.0,2003-2004,b3e2544a,Manchester-City,658,7.3,0.0,0.0,127.0,99.0,6953.0,Manchester-City
+,Daniel Van Buyten,be BEL,DF,5,5,0.0,0.0,2003-2004,18a7d190,Manchester-City,435,4.8,0.0,1.0,127.0,27.0,6960.0,Manchester-City
+,Kevin Stuhr Ellegaard,dk DEN,GK,4,2,0.0,0.0,2003-2004,040f6bc4,Manchester-City,295,3.3,0.0,0.0,127.0,7.0,6961.0,Manchester-City
+,Danny Tiatto,au AUS,"DF,MF",5,1,1.0,0.0,2003-2004,98538ebb,Manchester-City,148,1.6,1.0,0.0,127.0,42.0,6946.0,Manchester-City
+,Eyal Berkovic,il ISR,MF,3,0,0.0,0.0,2003-2004,10e485ae,Manchester-City,141,1.6,0.0,0.0,127.0,45.0,6938.0,Manchester-City
+,Stephen Elliott,ie IRL,FW,2,0,0.0,0.0,2003-2004,605d320e,Manchester-City,18,0.2,0.0,0.0,127.0,99.0,6962.0,Manchester-City
+,Stephen Jordan,eng ENG,DF,2,0,0.0,0.0,2003-2004,1a3d94b5,Manchester-City,10,0.1,0.0,0.0,127.0,6.0,6954.0,Manchester-City
+,﻿David James,eng ENG,GK,38,38,0.0,0.0,2004-2005,86841dfb,Manchester-City,"3,420",38.0,0.0,0.0,127.0,6.0,6959.0,Manchester-City
+,Sylvain Distin,fr FRA,DF,38,38,0.0,1.0,2004-2005,002d06bb,Manchester-City,"3,402",37.8,3.0,0.0,127.0,4.0,,Manchester-City
+,Richard Dunne,ie IRL,DF,35,35,3.0,1.0,2004-2005,6cbc015d,Manchester-City,"3,120",34.7,6.0,1.0,127.0,99.0,6940.0,Manchester-City
+,Antoine Sibierski,fr FRA,"FW,MF",35,34,1.0,4.0,2004-2005,22936ff2,Manchester-City,"2,867",31.9,3.0,0.0,127.0,4.0,,Manchester-City
+,Shaun Wright-Phillips,eng ENG,"FW,MF",34,33,4.0,10.0,2004-2005,1e0b05f,Manchester-City,"2,998",33.3,0.0,0.0,127.0,6.0,,Manchester-City
+,Danny Mills,eng ENG,DF,32,29,3.0,0.0,2004-2005,240e4301,Manchester-City,"2,607",29.0,5.0,1.0,127.0,6.0,6963.0,Manchester-City
+,Joey Barton,eng ENG,MF,31,28,5.0,1.0,2004-2005,93bfa675,Manchester-City,"2,502",27.8,9.0,0.0,127.0,6.0,,Manchester-City
+,Robbie Fowler,eng ENG,FW,31,28,5.0,10.0,2004-2005,7cd34266,Manchester-City,"2,500",27.8,3.0,0.0,127.0,6.0,,Manchester-City
+,Paul Bosvelt,nl NED,"DF,MF",28,28,0.0,2.0,2004-2005,56d1e956,Manchester-City,"2,435",27.1,6.0,0.0,127.0,11.0,6956.0,Manchester-City
+,Stephen Jordan,eng ENG,DF,19,19,0.0,0.0,2004-2005,1a3d94b5,Manchester-City,"1,620",18.0,5.0,0.0,127.0,6.0,6954.0,Manchester-City
+,Nicolas Anelka,fr FRA,FW,19,18,2.0,7.0,2004-2005,931ed5e9,Manchester-City,"1,510",16.8,0.0,0.0,127.0,4.0,,Manchester-City
+,Ben Thatcher,wls WAL,DF,18,17,0.0,0.0,2004-2005,dc5460f9,Manchester-City,"1,546",17.2,2.0,0.0,127.0,18.0,6964.0,Manchester-City
+,Claudio Reyna,us USA,MF,17,16,1.0,2.0,2004-2005,75a3a799,Manchester-City,"1,463",16.3,0.0,0.0,127.0,75.0,6958.0,Manchester-City
+,Jon Macken,ie IRL,FW,23,16,3.0,1.0,2004-2005,b3e2544a,Manchester-City,"1,395",15.5,0.0,0.0,127.0,99.0,6953.0,Manchester-City
+,Kiki Musampa,nl NED,"FW,MF",14,14,2.0,3.0,2004-2005,4095895b,Manchester-City,"1,240",13.8,0.0,0.0,127.0,11.0,,Manchester-City
+,Nedum Onuoha,eng ENG,DF,17,11,0.0,0.0,2004-2005,b28a0b5a,Manchester-City,"1,068",11.9,0.0,0.0,127.0,6.0,6965.0,Manchester-City
+,Steve McManaman,eng ENG,MF,13,5,1.0,0.0,2004-2005,9be05f40,Manchester-City,637,7.1,1.0,0.0,127.0,6.0,16.0,Manchester-City
+,Willo Flood,ie IRL,"DF,MF",9,4,0.0,1.0,2004-2005,be9f7bbe,Manchester-City,381,4.2,1.0,0.0,127.0,99.0,6966.0,Manchester-City
+,Sun Jihai,cn CHN,DF,6,4,0.0,0.0,2004-2005,fd08c217,Manchester-City,333,3.7,0.0,0.0,127.0,101.0,6939.0,Manchester-City
+,Trevor Sinclair,eng ENG,MF,4,2,0.0,1.0,2004-2005,d2f7373c,Manchester-City,194,2.2,0.0,0.0,127.0,6.0,6957.0,Manchester-City
+,David Sommeil,gp GLP,DF,1,1,0.0,0.0,2004-2005,f4c68930,Manchester-City,90,1.0,0.0,0.0,127.0,56.0,6945.0,Manchester-City
+,Bradley Wright-Phillips,eng ENG,FW,14,0,0.0,1.0,2004-2005,9bb42ab8,Manchester-City,190,2.1,0.0,0.0,127.0,6.0,,Manchester-City
+,Lee Croft,eng ENG,MF,7,0,1.0,0.0,2004-2005,02f652d8,Manchester-City,77,0.9,0.0,0.0,127.0,6.0,6967.0,Manchester-City
+,Christian Negouai,fr FRA,"DF,MF",1,0,0.0,0.0,2004-2005,f32556f9,Manchester-City,3,0.0,0.0,1.0,127.0,4.0,6968.0,Manchester-City
+,Nicky Weaver,eng ENG,GK,1,0,,0.0,2004-2005,44509649,Manchester-City,3,0.0,0.0,0.0,127.0,6.0,6969.0,Manchester-City
+,﻿David James,eng ENG,GK,38,38,0.0,0.0,2005-2006,86841dfb,Manchester-City,"3,420",38.0,1.0,0.0,127.0,6.0,6959.0,Manchester-City
+,Darius Vassell,eng ENG,"FW,MF",36,36,7.0,8.0,2005-2006,342b5e7,Manchester-City,"3,043",33.8,4.0,0.0,127.0,6.0,6970.0,Manchester-City
+,Richard Dunne,ie IRL,DF,32,31,0.0,3.0,2005-2006,6cbc015d,Manchester-City,"2,793",31.0,9.0,0.0,127.0,99.0,6940.0,Manchester-City
+,Sylvain Distin,fr FRA,DF,31,31,1.0,0.0,2005-2006,002d06bb,Manchester-City,"2,736",30.4,3.0,1.0,127.0,4.0,,Manchester-City
+,Joey Barton,eng ENG,MF,31,31,4.0,6.0,2005-2006,93bfa675,Manchester-City,"2,731",30.3,10.0,1.0,127.0,6.0,,Manchester-City
+,Trevor Sinclair,eng ENG,MF,31,29,3.0,3.0,2005-2006,d2f7373c,Manchester-City,"2,400",26.7,5.0,0.0,127.0,6.0,6957.0,Manchester-City
+,Kiki Musampa,nl NED,"FW,MF",27,24,1.0,0.0,2005-2006,4095895b,Manchester-City,"1,993",22.1,4.0,0.0,127.0,11.0,,Manchester-City
+,Claudio Reyna,us USA,MF,22,22,1.0,1.0,2005-2006,75a3a799,Manchester-City,"1,807",20.1,3.0,0.0,127.0,75.0,6958.0,Manchester-City
+,Andy Cole,eng ENG,FW,22,20,5.0,9.0,2005-2006,b6638a2c,Manchester-City,"1,759",19.5,5.0,1.0,127.0,6.0,,Manchester-City
+,Ben Thatcher,wls WAL,DF,18,18,0.0,0.0,2005-2006,dc5460f9,Manchester-City,"1,571",17.5,5.0,0.0,127.0,18.0,6964.0,Manchester-City
+,Stephen Jordan,eng ENG,DF,18,18,0.0,0.0,2005-2006,1a3d94b5,Manchester-City,"1,565",17.4,3.0,1.0,127.0,6.0,6954.0,Manchester-City
+,Danny Mills,eng ENG,DF,18,18,0.0,1.0,2005-2006,240e4301,Manchester-City,"1,486",16.5,6.0,0.0,127.0,6.0,6963.0,Manchester-City
+,Sun Jihai,cn CHN,DF,29,16,0.0,0.0,2005-2006,fd08c217,Manchester-City,"1,719",19.1,3.0,0.0,127.0,101.0,6939.0,Manchester-City
+,David Sommeil,gp GLP,DF,16,14,1.0,2.0,2005-2006,f4c68930,Manchester-City,"1,197",13.3,2.0,0.0,127.0,56.0,6945.0,Manchester-City
+,Stephen Ireland,ie IRL,MF,24,13,2.0,0.0,2005-2006,bcf30f17,Manchester-City,"1,275",14.2,0.0,0.0,127.0,99.0,,Manchester-City
+,Antoine Sibierski,fr FRA,"FW,MF",24,12,1.0,2.0,2005-2006,22936ff2,Manchester-City,"1,109",12.3,0.0,0.0,127.0,4.0,,Manchester-City
+,Albert Riera,es ESP,"DF,FW",15,12,0.0,1.0,2005-2006,3a0a5056,Manchester-City,"1,069",11.9,2.0,0.0,127.0,1.0,,Manchester-City
+,Micah Richards,eng ENG,DF,13,11,1.0,0.0,2005-2006,ff87875a,Manchester-City,"1,007",11.2,2.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Georgios Samaras,gr GRE,"FW,MF",14,10,1.0,4.0,2005-2006,1b77cb6a,Manchester-City,946,10.5,1.0,0.0,127.0,55.0,,Manchester-City
+,Nedum Onuoha,eng ENG,DF,10,8,0.0,0.0,2005-2006,b28a0b5a,Manchester-City,720,8.0,1.0,0.0,127.0,6.0,6965.0,Manchester-City
+,Lee Croft,eng ENG,MF,21,4,1.0,1.0,2005-2006,02f652d8,Manchester-City,634,7.0,1.0,0.0,127.0,6.0,6967.0,Manchester-City
+,Bradley Wright-Phillips,eng ENG,FW,18,1,0.0,1.0,2005-2006,9bb42ab8,Manchester-City,323,3.6,1.0,0.0,127.0,6.0,,Manchester-City
+,Willo Flood,ie IRL,"DF,MF",5,1,0.0,0.0,2005-2006,be9f7bbe,Manchester-City,134,1.5,0.0,0.0,127.0,99.0,6966.0,Manchester-City
+,Robbie Fowler,eng ENG,FW,4,0,,1.0,2005-2006,7cd34266,Manchester-City,64,0.7,1.0,0.0,127.0,6.0,,Manchester-City
+,Ishmael Miller,eng ENG,FW,1,0,0.0,0.0,2005-2006,58f1973e,Manchester-City,29,0.3,0.0,0.0,127.0,6.0,6972.0,Manchester-City
+,Matt Mills,eng ENG,DF,1,0,0.0,0.0,2005-2006,593f52b7,Manchester-City,6,0.1,0.0,0.0,127.0,6.0,,Manchester-City
+,﻿Richard Dunne,ie IRL,DF,38,38,0.0,1.0,2006-2007,6cbc015d,Manchester-City,"3,420",38.0,4.0,0.0,127.0,99.0,6940.0,Manchester-City
+,Sylvain Distin,fr FRA,DF,37,37,0.0,2.0,2006-2007,002d06bb,Manchester-City,"3,256",36.2,1.0,0.0,127.0,4.0,,Manchester-City
+,Joey Barton,eng ENG,MF,33,33,4.0,6.0,2006-2007,93bfa675,Manchester-City,"2,967",33.0,10.0,1.0,127.0,6.0,,Manchester-City
+,Darius Vassell,eng ENG,"FW,MF",32,28,1.0,3.0,2006-2007,342b5e7,Manchester-City,"2,562",28.5,6.0,0.0,127.0,6.0,6970.0,Manchester-City
+,Micah Richards,eng ENG,DF,28,28,0.0,1.0,2006-2007,ff87875a,Manchester-City,"2,346",26.1,2.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Nicky Weaver,eng ENG,GK,25,25,0.0,0.0,2006-2007,44509649,Manchester-City,"2,151",23.9,0.0,0.0,127.0,6.0,6969.0,Manchester-City
+,Bernardo Corradi,it ITA,FW,25,19,2.0,3.0,2006-2007,d50232c1,Manchester-City,"1,585",17.6,4.0,2.0,127.0,9.0,,Manchester-City
+,Georgios Samaras,gr GRE,"FW,MF",36,16,6.0,4.0,2006-2007,1b77cb6a,Manchester-City,"1,696",18.8,0.0,0.0,127.0,55.0,,Manchester-City
+,Hatem Trabelsi,tn TUN,DF,20,16,1.0,1.0,2006-2007,5df07fda,Manchester-City,"1,366",15.2,2.0,0.0,127.0,46.0,6973.0,Manchester-City
+,Nedum Onuoha,eng ENG,DF,18,15,0.0,0.0,2006-2007,b28a0b5a,Manchester-City,"1,326",14.7,0.0,0.0,127.0,6.0,6965.0,Manchester-City
+,Stephen Ireland,ie IRL,MF,24,14,1.0,1.0,2006-2007,bcf30f17,Manchester-City,"1,338",14.9,0.0,0.0,127.0,99.0,,Manchester-City
+,Trevor Sinclair,eng ENG,MF,18,14,0.0,0.0,2006-2007,d2f7373c,Manchester-City,"1,293",14.4,4.0,0.0,127.0,6.0,6957.0,Manchester-City
+,Andreas Isaksson,se SWE,GK,14,12,0.0,0.0,2006-2007,61219b93,Manchester-City,"1,179",13.1,0.0,0.0,127.0,41.0,6974.0,Manchester-City
+,Michael Ball,eng ENG,DF,12,12,0.0,0.0,2006-2007,cde17c0f,Manchester-City,"1,076",12.0,1.0,0.0,127.0,6.0,6975.0,Manchester-City
+,Stephen Jordan,eng ENG,DF,13,12,0.0,0.0,2006-2007,1a3d94b5,Manchester-City,"1,041",11.6,2.0,0.0,127.0,6.0,6954.0,Manchester-City
+,Dietmar Hamann,de GER,MF,16,12,1.0,0.0,2006-2007,01c05efb,Manchester-City,985,10.9,5.0,0.0,127.0,13.0,,Manchester-City
+,Claudio Reyna,us USA,MF,15,12,,0.0,2006-2007,75a3a799,Manchester-City,955,10.6,2.0,0.0,127.0,75.0,6958.0,Manchester-City
+,DaMarcus Beasley,us USA,"DF,FW",18,11,1.0,3.0,2006-2007,4d6e7d9,Manchester-City,"1,026",11.4,1.0,0.0,127.0,75.0,6976.0,Manchester-City
+,Sun Jihai,cn CHN,DF,13,10,0.0,0.0,2006-2007,fd08c217,Manchester-City,999,11.1,1.0,0.0,127.0,101.0,6939.0,Manchester-City
+,Michael Johnson,eng ENG,MF,10,10,2.0,0.0,2006-2007,b44ee3cd,Manchester-City,900,10.0,1.0,0.0,127.0,6.0,6977.0,Manchester-City
+,Ousmane Dabo,fr FRA,MF,13,10,0.0,0.0,2006-2007,9af295a5,Manchester-City,882,9.8,3.0,1.0,127.0,4.0,6978.0,Manchester-City
+,Émile Mpenza,be BEL,FW,10,9,1.0,3.0,2006-2007,4745cfd0,Manchester-City,826,9.2,1.0,0.0,127.0,27.0,6979.0,Manchester-City
+,Paul Dickov,sct SCO,FW,16,9,2.0,0.0,2006-2007,1ea43e27,Manchester-City,816,9.1,4.0,0.0,127.0,67.0,,Manchester-City
+,Ishmael Miller,eng ENG,FW,16,3,0.0,0.0,2006-2007,58f1973e,Manchester-City,447,5.0,1.0,0.0,127.0,6.0,6972.0,Manchester-City
+,Joe Hart,eng ENG,GK,1,1,0.0,0.0,2006-2007,cb4f24c6,Manchester-City,90,1.0,0.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Matt Mills,eng ENG,DF,1,1,,0.0,2006-2007,593f52b7,Manchester-City,59,0.7,0.0,0.0,127.0,6.0,,Manchester-City
+,Daniel Sturridge,eng ENG,"FW,MF",2,0,0.0,0.0,2006-2007,1b7ec703,Manchester-City,20,0.2,0.0,0.0,127.0,6.0,,Manchester-City
+,Danny Mills,eng ENG,DF,1,0,0.0,0.0,2006-2007,240e4301,Manchester-City,10,0.1,0.0,0.0,127.0,6.0,6963.0,Manchester-City
+,﻿Richard Dunne,ie IRL,DF,36,36,0.0,0.0,2007-2008,6cbc015d,Manchester-City,"3,039",33.8,4.0,2.0,127.0,99.0,6940.0,Manchester-City
+,Martin Petrov,bg BUL,"FW,MF",34,34,8.0,5.0,2007-2008,011360ce,Manchester-City,"2,972",33.0,2.0,1.0,127.0,65.0,,Manchester-City
+,Vedran Ćorluka,hr CRO,DF,35,34,2.0,0.0,2007-2008,6ceef869,Manchester-City,"2,970",33.0,4.0,0.0,127.0,16.0,6981.0,Manchester-City
+,Stephen Ireland,ie IRL,MF,33,32,4.0,4.0,2007-2008,bcf30f17,Manchester-City,"2,548",28.3,1.0,1.0,127.0,99.0,,Manchester-City
+,Elano,br BRA,MF,34,29,9.0,8.0,2007-2008,1db88b29,Manchester-City,"2,437",27.1,3.0,0.0,127.0,2.0,6988.0,Manchester-City
+,Joe Hart,eng ENG,GK,26,26,0.0,0.0,2007-2008,cb4f24c6,Manchester-City,"2,340",26.0,0.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Dietmar Hamann,de GER,MF,29,26,0.0,0.0,2007-2008,01c05efb,Manchester-City,"2,203",24.5,8.0,0.0,127.0,13.0,,Manchester-City
+,Micah Richards,eng ENG,DF,25,25,0.0,0.0,2007-2008,ff87875a,Manchester-City,"2,250",25.0,4.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Michael Johnson,eng ENG,MF,23,23,2.0,2.0,2007-2008,b44ee3cd,Manchester-City,"1,930",21.4,4.0,0.0,127.0,6.0,6977.0,Manchester-City
+,Gelson Fernandes,ch SUI,MF,26,21,0.0,2.0,2007-2008,8e58987d,Manchester-City,"1,961",21.8,5.0,0.0,127.0,39.0,6982.0,Manchester-City
+,Javier Garrido,es ESP,DF,27,21,1.0,0.0,2007-2008,3b142ce5,Manchester-City,"1,898",21.1,4.0,0.0,127.0,1.0,,Manchester-City
+,Darius Vassell,eng ENG,"FW,MF",27,21,3.0,6.0,2007-2008,342b5e7,Manchester-City,"1,767",19.6,2.0,0.0,127.0,6.0,6970.0,Manchester-City
+,Michael Ball,eng ENG,DF,28,19,0.0,0.0,2007-2008,cde17c0f,Manchester-City,"1,875",20.8,2.0,0.0,127.0,6.0,6975.0,Manchester-City
+,Nedum Onuoha,eng ENG,DF,16,13,1.0,1.0,2007-2008,b28a0b5a,Manchester-City,"1,222",13.6,0.0,0.0,127.0,6.0,6965.0,Manchester-City
+,Benjani Mwaruwari,zw ZIM,FW,13,13,1.0,3.0,2007-2008,9fc277ee,Manchester-City,"1,063",11.8,0.0,0.0,127.0,131.0,,Manchester-City
+,Émile Mpenza,be BEL,FW,15,8,0.0,2.0,2007-2008,4745cfd0,Manchester-City,743,8.3,0.0,0.0,127.0,27.0,6979.0,Manchester-City
+,Sun Jihai,cn CHN,DF,14,7,0.0,0.0,2007-2008,fd08c217,Manchester-City,817,9.1,2.0,0.0,127.0,101.0,6939.0,Manchester-City
+,Rolando Bianchi,it ITA,FW,19,7,1.0,4.0,2007-2008,11fcbfe7,Manchester-City,769,8.5,0.0,0.0,127.0,9.0,,Manchester-City
+,Kasper Schmeichel,dk DEN,GK,7,7,0.0,0.0,2007-2008,53af52f3,Manchester-City,630,7.0,0.0,0.0,127.0,7.0,6983.0,Manchester-City
+,Andreas Isaksson,se SWE,GK,5,5,0.0,0.0,2007-2008,61219b93,Manchester-City,450,5.0,0.0,0.0,127.0,41.0,6974.0,Manchester-City
+,Geovanni,br BRA,"FW,MF",19,2,1.0,3.0,2007-2008,ffeaaebe,Manchester-City,412,4.6,4.0,0.0,127.0,2.0,,Manchester-City
+,Nery Castillo,mx MEX,"DF,FW",7,2,0.0,0.0,2007-2008,bb34761d,Manchester-City,296,3.3,0.0,0.0,127.0,20.0,,Manchester-City
+,Georgios Samaras,gr GRE,"FW,MF",5,2,0.0,0.0,2007-2008,1b77cb6a,Manchester-City,255,2.8,0.0,0.0,127.0,55.0,,Manchester-City
+,Kelvin Etuhu,ng NGA,"FW,MF",6,2,1.0,1.0,2007-2008,803e286e,Manchester-City,204,2.3,1.0,0.0,127.0,52.0,6984.0,Manchester-City
+,Daniel Sturridge,eng ENG,"FW,MF",3,2,0.0,1.0,2007-2008,1b7ec703,Manchester-City,150,1.7,0.0,0.0,127.0,6.0,,Manchester-City
+,Valeri Bojinov,bg BUL,FW,3,1,0.0,0.0,2007-2008,7c0d35bc,Manchester-City,50,0.6,0.0,0.0,127.0,65.0,6985.0,Manchester-City
+,Felipe Caicedo,ec ECU,"FW,MF",10,0,0.0,0.0,2007-2008,93b891d1,Manchester-City,222,2.5,1.0,0.0,127.0,61.0,,Manchester-City
+,Sam Williamson,eng ENG,"DF,MF",1,0,0.0,0.0,2007-2008,241ffd0f,Manchester-City,37,0.4,1.0,0.0,127.0,6.0,6986.0,Manchester-City
+,﻿Stephen Ireland,ie IRL,MF,35,34,9.0,9.0,2008-2009,bcf30f17,Manchester-City,"3,030",33.7,8.0,0.0,127.0,99.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,34,34,3.0,1.0,2008-2009,d2bff301,Manchester-City,"2,990",33.2,8.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Micah Richards,eng ENG,DF,34,33,1.0,1.0,2008-2009,ff87875a,Manchester-City,"2,704",30.0,2.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Richard Dunne,ie IRL,DF,31,31,0.0,1.0,2008-2009,6cbc015d,Manchester-City,"2,732",30.4,4.0,2.0,127.0,99.0,6940.0,Manchester-City
+,Robinho,br BRA,"FW,MF",31,30,5.0,14.0,2008-2009,f034613c,Manchester-City,"2,623",29.1,3.0,0.0,127.0,2.0,39.0,Manchester-City
+,Shaun Wright-Phillips,eng ENG,"FW,MF",27,27,3.0,5.0,2008-2009,1e0b05f,Manchester-City,"2,423",26.9,3.0,0.0,127.0,6.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",29,26,2.0,1.0,2008-2009,6813ac34,Manchester-City,"2,373",26.4,3.0,1.0,127.0,5.0,,Manchester-City
+,Joe Hart,eng ENG,GK,23,23,0.0,0.0,2008-2009,cb4f24c6,Manchester-City,"1,998",22.2,0.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Elano,br BRA,MF,28,21,3.0,6.0,2008-2009,1db88b29,Manchester-City,"1,868",20.8,3.0,0.0,127.0,2.0,6988.0,Manchester-City
+,Nedum Onuoha,eng ENG,DF,23,20,1.0,1.0,2008-2009,b28a0b5a,Manchester-City,"1,872",20.8,1.0,0.0,127.0,6.0,6965.0,Manchester-City
+,Wayne Bridge,eng ENG,DF,16,16,0.0,0.0,2008-2009,86b982bc,Manchester-City,"1,359",15.1,0.0,0.0,127.0,6.0,,Manchester-City
+,Nigel de Jong,nl NED,MF,16,16,1.0,0.0,2008-2009,0e209bc,Manchester-City,"1,344",14.9,3.0,0.0,127.0,11.0,6989.0,Manchester-City
+,Shay Given,ie IRL,GK,15,15,0.0,0.0,2008-2009,0db918ff,Manchester-City,"1,350",15.0,0.0,0.0,127.0,99.0,,Manchester-City
+,Javier Garrido,es ESP,DF,13,11,1.0,1.0,2008-2009,3b142ce5,Manchester-City,998,11.1,1.0,0.0,127.0,1.0,,Manchester-City
+,Felipe Caicedo,ec ECU,"FW,MF",17,10,0.0,4.0,2008-2009,93b891d1,Manchester-City,819,9.1,2.0,0.0,127.0,61.0,,Manchester-City
+,Tal Ben Haim,il ISR,DF,9,8,0.0,0.0,2008-2009,2277a390,Manchester-City,765,8.5,2.0,0.0,127.0,45.0,,Manchester-City
+,Michael Ball,eng ENG,DF,8,8,1.0,0.0,2008-2009,cde17c0f,Manchester-City,713,7.9,0.0,0.0,127.0,6.0,6975.0,Manchester-City
+,Craig Bellamy,wls WAL,FW,8,7,0.0,2.0,2008-2009,b9eae55b,Manchester-City,631,7.0,1.0,0.0,127.0,18.0,,Manchester-City
+,Benjani Mwaruwari,zw ZIM,FW,8,7,1.0,1.0,2008-2009,9fc277ee,Manchester-City,550,6.1,0.0,0.0,127.0,131.0,,Manchester-City
+,Jô,br BRA,FW,9,6,2.0,1.0,2008-2009,47d11f8,Manchester-City,587,6.5,0.0,0.0,127.0,2.0,,Manchester-City
+,Darius Vassell,eng ENG,"FW,MF",8,6,0.0,0.0,2008-2009,342b5e7,Manchester-City,446,5.0,1.0,0.0,127.0,6.0,6970.0,Manchester-City
+,Dietmar Hamann,de GER,MF,9,5,0.0,0.0,2008-2009,01c05efb,Manchester-City,476,5.3,0.0,0.0,127.0,13.0,,Manchester-City
+,Martin Petrov,bg BUL,"FW,MF",9,4,0.0,0.0,2008-2009,011360ce,Manchester-City,339,3.8,0.0,0.0,127.0,65.0,,Manchester-City
+,Gelson Fernandes,ch SUI,MF,17,3,0.0,1.0,2008-2009,8e58987d,Manchester-City,501,5.6,3.0,1.0,127.0,39.0,6982.0,Manchester-City
+,Daniel Sturridge,eng ENG,"FW,MF",16,3,3.0,4.0,2008-2009,1b7ec703,Manchester-City,449,5.0,0.0,0.0,127.0,6.0,,Manchester-City
+,Ched Evans,wls WAL,FW,16,3,1.0,1.0,2008-2009,bb770c52,Manchester-City,414,4.6,1.0,0.0,127.0,18.0,6990.0,Manchester-City
+,Vedran Ćorluka,hr CRO,DF,3,3,0.0,1.0,2008-2009,6ceef869,Manchester-City,270,3.0,0.0,0.0,127.0,16.0,6981.0,Manchester-City
+,Michael Johnson,eng ENG,MF,3,3,1.0,0.0,2008-2009,b44ee3cd,Manchester-City,260,2.9,0.0,0.0,127.0,6.0,6977.0,Manchester-City
+,Valeri Bojinov,bg BUL,FW,8,2,1.0,1.0,2008-2009,7c0d35bc,Manchester-City,225,2.5,1.0,0.0,127.0,65.0,6985.0,Manchester-City
+,Kelvin Etuhu,ng NGA,"FW,MF",4,2,0.0,0.0,2008-2009,803e286e,Manchester-City,192,2.1,0.0,0.0,127.0,52.0,6984.0,Manchester-City
+,Shay Logan,eng ENG,DF,1,1,0.0,0.0,2008-2009,5895f93,Manchester-City,90,1.0,0.0,0.0,127.0,6.0,6991.0,Manchester-City
+,Kasper Schmeichel,dk DEN,GK,1,0,0.0,0.0,2008-2009,53af52f3,Manchester-City,72,0.8,0.0,0.0,127.0,7.0,6983.0,Manchester-City
+,Vladimír Weiss,sk SVK,"FW,MF",1,0,0.0,0.0,2008-2009,1e17dfc7,Manchester-City,20,0.2,0.0,0.0,127.0,70.0,,Manchester-City
+,Gláuber,br BRA,DF,1,0,0.0,0.0,2008-2009,68ea0c50,Manchester-City,7,0.1,0.0,0.0,127.0,2.0,6992.0,Manchester-City
+,﻿Shay Given,ie IRL,GK,35,35,0.0,0.0,2009-2010,0db918ff,Manchester-City,"3,132",34.8,2.0,0.0,127.0,99.0,,Manchester-City
+,Gareth Barry,eng ENG,MF,34,34,7.0,2.0,2009-2010,7dbbe367,Manchester-City,"2,994",33.3,4.0,0.0,127.0,6.0,,Manchester-City
+,Carlos Tevez,ar ARG,"FW,MF",35,32,7.0,23.0,2009-2010,c1a26d43,Manchester-City,"2,861",31.8,6.0,0.0,127.0,5.0,,Manchester-City
+,Kolo Touré,ci CIV,DF,31,31,0.0,1.0,2009-2010,3301c9f4,Manchester-City,"2,708",30.1,1.0,0.0,127.0,35.0,,Manchester-City
+,Nigel de Jong,nl NED,MF,34,30,0.0,0.0,2009-2010,0e209bc,Manchester-City,"2,627",29.2,7.0,0.0,127.0,11.0,6989.0,Manchester-City
+,Craig Bellamy,wls WAL,FW,32,26,8.0,10.0,2009-2010,b9eae55b,Manchester-City,"2,380",26.4,4.0,1.0,127.0,18.0,,Manchester-City
+,Emmanuel Adebayor,tg TOG,FW,26,25,3.0,14.0,2009-2010,936d9e3e,Manchester-City,"2,207",24.5,1.0,0.0,127.0,109.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",27,23,1.0,0.0,2009-2010,6813ac34,Manchester-City,"2,102",23.4,9.0,1.0,127.0,5.0,,Manchester-City
+,Wayne Bridge,eng ENG,DF,23,23,0.0,0.0,2009-2010,86b982bc,Manchester-City,"1,890",21.0,2.0,0.0,127.0,6.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,25,21,1.0,2.0,2009-2010,d2bff301,Manchester-City,"1,915",21.3,2.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Shaun Wright-Phillips,eng ENG,"FW,MF",30,19,7.0,4.0,2009-2010,1e0b05f,Manchester-City,"1,752",19.5,2.0,0.0,127.0,6.0,,Manchester-City
+,Micah Richards,eng ENG,DF,23,19,1.0,3.0,2009-2010,ff87875a,Manchester-City,"1,645",18.3,2.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Joleon Lescott,eng ENG,DF,18,17,1.0,1.0,2009-2010,62393d3b,Manchester-City,"1,566",17.4,1.0,0.0,127.0,6.0,,Manchester-City
+,Stephen Ireland,ie IRL,MF,22,16,2.0,2.0,2009-2010,bcf30f17,Manchester-City,"1,453",16.1,0.0,0.0,127.0,99.0,,Manchester-City
+,Adam Johnson,eng ENG,MF,16,14,5.0,1.0,2009-2010,1ba61951,Manchester-City,"1,168",13.0,1.0,0.0,127.0,6.0,6993.0,Manchester-City
+,Patrick Vieira,fr FRA,MF,13,8,1.0,1.0,2009-2010,f90f1086,Manchester-City,815,9.1,2.0,0.0,127.0,4.0,,Manchester-City
+,Martin Petrov,bg BUL,"FW,MF",16,8,3.0,4.0,2009-2010,011360ce,Manchester-City,727,8.1,0.0,0.0,127.0,65.0,,Manchester-City
+,Javier Garrido,es ESP,DF,9,7,0.0,1.0,2009-2010,3b142ce5,Manchester-City,633,7.0,1.0,0.0,127.0,1.0,,Manchester-City
+,Roque Santa Cruz,py PAR,FW,19,6,0.0,3.0,2009-2010,7f2107eb,Manchester-City,649,7.2,1.0,0.0,127.0,43.0,,Manchester-City
+,Robinho,br BRA,"FW,MF",10,6,3.0,0.0,2009-2010,f034613c,Manchester-City,538,6.0,0.0,0.0,127.0,2.0,39.0,Manchester-City
+,Sylvinho,br BRA,DF,10,6,0.0,0.0,2009-2010,b46e497d,Manchester-City,485,5.4,2.0,0.0,127.0,2.0,,Manchester-City
+,Nedum Onuoha,eng ENG,DF,10,5,1.0,1.0,2009-2010,b28a0b5a,Manchester-City,575,6.4,0.0,0.0,127.0,6.0,6965.0,Manchester-City
+,Márton Fülöp,hu HUN,GK,3,3,0.0,0.0,2009-2010,3267fa3b,Manchester-City,270,3.0,0.0,0.0,127.0,87.0,6994.0,Manchester-City
+,Richard Dunne,ie IRL,DF,2,2,0.0,0.0,2009-2010,6cbc015d,Manchester-City,180,2.0,0.0,0.0,127.0,99.0,6940.0,Manchester-City
+,Dedryck Boyata,be BEL,DF,3,1,0.0,0.0,2009-2010,7c473e12,Manchester-City,126,1.4,1.0,0.0,127.0,27.0,6995.0,Manchester-City
+,Benjani Mwaruwari,zw ZIM,FW,2,1,0.0,0.0,2009-2010,9fc277ee,Manchester-City,125,1.4,0.0,0.0,127.0,131.0,,Manchester-City
+,Gunnar Nielsen,fo FRO,GK,1,0,0.0,0.0,2009-2010,72997b6e,Manchester-City,18,0.2,0.0,0.0,127.0,138.0,6996.0,Manchester-City
+,Abdisalam Ibrahim,no NOR,"DF,MF",1,0,0.0,0.0,2009-2010,477bc5db,Manchester-City,16,0.2,0.0,0.0,127.0,21.0,6997.0,Manchester-City
+,Alex Nimely,eng ENG,FW,1,0,0.0,0.0,2009-2010,5597a4d,Manchester-City,8,0.1,0.0,0.0,127.0,6.0,6998.0,Manchester-City
+,Greg Cunningham,ie IRL,"DF,MF",2,0,0.0,0.0,2009-2010,dc10b26c,Manchester-City,3,0.0,0.0,0.0,127.0,99.0,,Manchester-City
+,Michael Johnson,eng ENG,MF,1,0,0.0,0.0,2009-2010,b44ee3cd,Manchester-City,2,0.0,0.0,0.0,127.0,6.0,6977.0,Manchester-City
+,﻿Joe Hart,eng ENG,GK,38,38,0.0,0.0,2010-2011,cb4f24c6,Manchester-City,"3,420",38.0,1.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Vincent Kompany,be BEL,DF,37,37,1.0,0.0,2010-2011,d2bff301,Manchester-City,"3,330",37.0,6.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Yaya Touré,ci CIV,MF,35,35,4.0,6.0,2010-2011,c204f844,Manchester-City,"2,965",32.9,3.0,0.0,127.0,35.0,,Manchester-City
+,Gareth Barry,eng ENG,MF,33,31,2.0,2.0,2010-2011,7dbbe367,Manchester-City,"2,702",30.0,8.0,0.0,127.0,6.0,,Manchester-City
+,Nigel de Jong,nl NED,MF,32,30,1.0,1.0,2010-2011,0e209bc,Manchester-City,"2,610",29.0,9.0,0.0,127.0,11.0,6989.0,Manchester-City
+,David Silva,es ESP,"FW,MF",35,30,7.0,4.0,2010-2011,2716bd0,Manchester-City,"2,550",28.3,2.0,0.0,127.0,1.0,,Manchester-City
+,Carlos Tevez,ar ARG,"FW,MF",31,30,6.0,20.0,2010-2011,c1a26d43,Manchester-City,"2,511",27.9,6.0,0.0,127.0,5.0,,Manchester-City
+,James Milner,eng ENG,"DF,MF",32,23,6.0,0.0,2010-2011,2f90f6b8,Manchester-City,"2,050",22.8,4.0,0.0,127.0,6.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",26,21,2.0,2.0,2010-2011,6813ac34,Manchester-City,"1,948",21.6,8.0,1.0,127.0,5.0,,Manchester-City
+,Kolo Touré,ci CIV,DF,22,21,0.0,1.0,2010-2011,3301c9f4,Manchester-City,"1,846",20.5,3.0,1.0,127.0,35.0,,Manchester-City
+,Joleon Lescott,eng ENG,DF,22,20,1.0,3.0,2010-2011,62393d3b,Manchester-City,"1,884",20.9,1.0,0.0,127.0,6.0,,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,24,20,1.0,1.0,2010-2011,da40760,Manchester-City,"1,720",19.1,6.0,1.0,127.0,28.0,6999.0,Manchester-City
+,Micah Richards,eng ENG,DF,18,16,1.0,1.0,2010-2011,ff87875a,Manchester-City,"1,399",15.5,4.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Adam Johnson,eng ENG,MF,31,15,5.0,4.0,2010-2011,1ba61951,Manchester-City,"1,542",17.1,2.0,0.0,127.0,6.0,6993.0,Manchester-City
+,Jérôme Boateng,de GER,DF,16,14,0.0,0.0,2010-2011,2db2fd7b,Manchester-City,"1,238",13.8,1.0,0.0,127.0,13.0,7000.0,Manchester-City
+,Mario Balotelli,it ITA,FW,17,12,0.0,6.0,2010-2011,8ff07990,Manchester-City,"1,091",12.1,6.0,1.0,127.0,9.0,,Manchester-City
+,Edin Džeko,ba BIH,FW,15,8,2.0,2.0,2010-2011,3bb7f478,Manchester-City,854,9.5,0.0,0.0,127.0,49.0,7001.0,Manchester-City
+,Dedryck Boyata,be BEL,DF,7,5,0.0,0.0,2010-2011,7c473e12,Manchester-City,345,3.8,1.0,1.0,127.0,27.0,6995.0,Manchester-City
+,Patrick Vieira,fr FRA,MF,15,4,0.0,2.0,2010-2011,f90f1086,Manchester-City,495,5.5,2.0,0.0,127.0,4.0,,Manchester-City
+,Jô,br BRA,FW,12,3,0.0,0.0,2010-2011,47d11f8,Manchester-City,348,3.9,0.0,0.0,127.0,2.0,,Manchester-City
+,Emmanuel Adebayor,tg TOG,FW,8,2,0.0,1.0,2010-2011,936d9e3e,Manchester-City,244,2.7,0.0,0.0,127.0,109.0,,Manchester-City
+,Shaun Wright-Phillips,eng ENG,"FW,MF",7,2,0.0,0.0,2010-2011,1e0b05f,Manchester-City,205,2.3,0.0,0.0,127.0,6.0,,Manchester-City
+,Wayne Bridge,eng ENG,DF,3,1,0.0,0.0,2010-2011,86b982bc,Manchester-City,149,1.7,0.0,0.0,127.0,6.0,,Manchester-City
+,Roque Santa Cruz,py PAR,FW,1,0,0.0,0.0,2010-2011,7f2107eb,Manchester-City,25,0.3,0.0,0.0,127.0,43.0,,Manchester-City
+,Ryan McGivern,nir NIR,DF,1,0,0.0,0.0,2010-2011,4c2e7e85,Manchester-City,21,0.2,0.0,0.0,127.0,121.0,7002.0,Manchester-City
+,Reece Wabara,eng ENG,DF,1,0,0.0,0.0,2010-2011,0c7d15af,Manchester-City,4,0.0,0.0,0.0,127.0,6.0,7003.0,Manchester-City
+,Abdul Razak,ci CIV,MF,1,0,0.0,0.0,2010-2011,5e61927c,Manchester-City,1,0.0,0.0,0.0,127.0,35.0,7004.0,Manchester-City
+,﻿Joe Hart,eng ENG,GK,38,38,0.0,0.0,2011-2012,cb4f24c6,Manchester-City,"3,420",38.0,0.0,0.0,127.0,6.0,6980.0,Manchester-City
+,David Silva,es ESP,"FW,MF",36,33,15.0,6.0,2011-2012,2716bd0,Manchester-City,"2,800",31.1,0.0,0.0,127.0,1.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,31,31,1.0,3.0,2011-2012,d2bff301,Manchester-City,"2,774",30.8,5.0,1.0,127.0,27.0,6987.0,Manchester-City
+,Gareth Barry,eng ENG,MF,34,31,3.0,1.0,2011-2012,7dbbe367,Manchester-City,"2,734",30.4,10.0,1.0,127.0,6.0,,Manchester-City
+,Yaya Touré,ci CIV,MF,32,31,6.0,6.0,2011-2012,c204f844,Manchester-City,"2,643",29.4,8.0,0.0,127.0,35.0,,Manchester-City
+,Sergio Agüero,ar ARG,FW,34,31,8.0,23.0,2011-2012,4d034881,Manchester-City,"2,575",28.6,2.0,0.0,127.0,5.0,,Manchester-City
+,Joleon Lescott,eng ENG,DF,31,30,1.0,2.0,2011-2012,62393d3b,Manchester-City,"2,686",29.8,1.0,0.0,127.0,6.0,,Manchester-City
+,Gaël Clichy,fr FRA,DF,28,28,4.0,0.0,2011-2012,450ad405,Manchester-City,"2,488",27.6,2.0,1.0,127.0,4.0,,Manchester-City
+,Samir Nasri,fr FRA,"FW,MF",30,26,9.0,5.0,2011-2012,165bed61,Manchester-City,"2,159",24.0,2.0,0.0,127.0,4.0,,Manchester-City
+,Micah Richards,eng ENG,DF,29,23,5.0,1.0,2011-2012,ff87875a,Manchester-City,"2,044",22.7,2.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",21,18,0.0,1.0,2011-2012,6813ac34,Manchester-City,"1,549",17.2,5.0,0.0,127.0,5.0,,Manchester-City
+,James Milner,eng ENG,"DF,MF",26,17,5.0,3.0,2011-2012,2f90f6b8,Manchester-City,"1,586",17.6,3.0,0.0,127.0,6.0,,Manchester-City
+,Edin Džeko,ba BIH,FW,30,16,3.0,14.0,2011-2012,3bb7f478,Manchester-City,"1,509",16.8,1.0,0.0,127.0,49.0,7001.0,Manchester-City
+,Mario Balotelli,it ITA,FW,23,14,1.0,13.0,2011-2012,8ff07990,Manchester-City,"1,328",14.8,6.0,2.0,127.0,9.0,,Manchester-City
+,Nigel de Jong,nl NED,MF,21,11,0.0,0.0,2011-2012,0e209bc,Manchester-City,"1,077",12.0,5.0,0.0,127.0,11.0,6989.0,Manchester-City
+,Adam Johnson,eng ENG,MF,26,10,2.0,6.0,2011-2012,1ba61951,Manchester-City,"1,147",12.7,1.0,0.0,127.0,6.0,6993.0,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,12,9,4.0,2.0,2011-2012,da40760,Manchester-City,823,9.1,1.0,0.0,127.0,28.0,6999.0,Manchester-City
+,Kolo Touré,ci CIV,DF,14,8,0.0,0.0,2011-2012,3301c9f4,Manchester-City,853,9.5,0.0,0.0,127.0,35.0,,Manchester-City
+,Carlos Tevez,ar ARG,"FW,MF",13,7,3.0,4.0,2011-2012,c1a26d43,Manchester-City,601,6.7,1.0,0.0,127.0,5.0,,Manchester-City
+,Stefan Savić,me MNE,"DF,MF",11,5,0.0,1.0,2011-2012,f6ac68c1,Manchester-City,550,6.1,1.0,0.0,127.0,33.0,,Manchester-City
+,David Pizarro,cl CHI,MF,5,1,1.0,0.0,2011-2012,8b92c119,Manchester-City,165,1.8,0.0,0.0,127.0,31.0,7005.0,Manchester-City
+,Owen Hargreaves,eng ENG,MF,1,0,0.0,0.0,2011-2012,1b2b5b86,Manchester-City,14,0.2,0.0,0.0,127.0,6.0,,Manchester-City
+,Abdul Razak,ci CIV,MF,1,0,0.0,0.0,2011-2012,5e61927c,Manchester-City,11,0.1,0.0,0.0,127.0,35.0,7004.0,Manchester-City
+,Nedum Onuoha,eng ENG,DF,1,0,0.0,0.0,2011-2012,b28a0b5a,Manchester-City,10,0.1,0.0,0.0,127.0,6.0,6965.0,Manchester-City
+,﻿Joe Hart,eng ENG,GK,38,38,0.0,0.0,2012-2013,cb4f24c6,Manchester-City,"3,420",38.0,1.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Yaya Touré,ci CIV,MF,32,32,5.0,6.0,2012-2013,c204f844,Manchester-City,"2,828",31.4,6.0,0.0,127.0,35.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",30,29,2.0,2.0,2012-2013,6813ac34,Manchester-City,"2,649",29.4,7.0,0.0,127.0,5.0,,Manchester-City
+,David Silva,es ESP,"FW,MF",32,29,8.0,4.0,2012-2013,2716bd0,Manchester-City,"2,508",27.9,2.0,0.0,127.0,1.0,,Manchester-City
+,Carlos Tevez,ar ARG,"FW,MF",34,28,8.0,11.0,2012-2013,c1a26d43,Manchester-City,"2,393",26.6,3.0,0.0,127.0,5.0,,Manchester-City
+,Gareth Barry,eng ENG,MF,31,27,2.0,1.0,2012-2013,7dbbe367,Manchester-City,"2,398",26.6,6.0,0.0,127.0,6.0,,Manchester-City
+,Gaël Clichy,fr FRA,DF,28,26,2.0,0.0,2012-2013,450ad405,Manchester-City,"2,334",25.9,3.0,0.0,127.0,4.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,26,26,0.0,1.0,2012-2013,d2bff301,Manchester-City,"2,237",24.9,3.0,1.0,127.0,27.0,6987.0,Manchester-City
+,Sergio Agüero,ar ARG,FW,30,22,2.0,12.0,2012-2013,4d034881,Manchester-City,"1,941",21.6,2.0,0.0,127.0,5.0,,Manchester-City
+,Samir Nasri,fr FRA,"FW,MF",28,22,7.0,2.0,2012-2013,165bed61,Manchester-City,"1,798",20.0,3.0,1.0,127.0,4.0,,Manchester-City
+,Matija Nastasić,rs SRB,DF,21,21,0.0,0.0,2012-2013,f35430a4,Manchester-City,"1,820",20.2,1.0,0.0,127.0,28.0,7006.0,Manchester-City
+,James Milner,eng ENG,"DF,MF",26,19,3.0,4.0,2012-2013,2f90f6b8,Manchester-City,"1,725",19.2,1.0,1.0,127.0,6.0,,Manchester-City
+,Joleon Lescott,eng ENG,DF,26,17,0.0,1.0,2012-2013,62393d3b,Manchester-City,"1,551",17.2,3.0,0.0,127.0,6.0,,Manchester-City
+,Javi García,es ESP,"DF,MF",24,17,0.0,2.0,2012-2013,167c1bb0,Manchester-City,"1,494",16.6,5.0,0.0,127.0,1.0,35.0,Manchester-City
+,Edin Džeko,ba BIH,FW,32,16,3.0,14.0,2012-2013,3bb7f478,Manchester-City,"1,822",20.2,4.0,0.0,127.0,49.0,7001.0,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,20,11,2.0,1.0,2012-2013,da40760,Manchester-City,"1,056",11.7,5.0,0.0,127.0,28.0,6999.0,Manchester-City
+,Kolo Touré,ci CIV,DF,15,10,0.0,0.0,2012-2013,3301c9f4,Manchester-City,922,10.2,2.0,0.0,127.0,35.0,,Manchester-City
+,Micah Richards,eng ENG,DF,7,7,0.0,0.0,2012-2013,ff87875a,Manchester-City,612,6.8,2.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Mario Balotelli,it ITA,FW,14,7,0.0,1.0,2012-2013,8ff07990,Manchester-City,590,6.6,2.0,0.0,127.0,9.0,,Manchester-City
+,Jack Rodwell,eng ENG,"DF,MF",11,6,0.0,2.0,2012-2013,07579ee,Manchester-City,498,5.5,2.0,0.0,127.0,6.0,,Manchester-City
+,Maicon Sisenando,br BRA,DF,9,4,0.0,0.0,2012-2013,fbc5d136,Manchester-City,521,5.8,0.0,0.0,127.0,2.0,7007.0,Manchester-City
+,Scott Sinclair,eng ENG,"FW,MF",11,2,0.0,0.0,2012-2013,273c483b,Manchester-City,198,2.2,0.0,0.0,127.0,6.0,,Manchester-City
+,Nigel de Jong,nl NED,MF,1,1,0.0,0.0,2012-2013,0e209bc,Manchester-City,90,1.0,0.0,0.0,127.0,11.0,6989.0,Manchester-City
+,Karim Rekik,nl NED,DF,1,1,0.0,0.0,2012-2013,3376a776,Manchester-City,83,0.9,0.0,0.0,127.0,11.0,,Manchester-City
+,Abdul Razak,ci CIV,MF,3,0,0.0,0.0,2012-2013,5e61927c,Manchester-City,4,0.0,0.0,0.0,127.0,35.0,7004.0,Manchester-City
+,﻿Yaya Touré,ci CIV,MF,35,35,9.0,20.0,2013-2014,c204f844,Manchester-City,"2,917",32.4,4.0,0.0,127.0,35.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",35,34,6.0,1.0,2013-2014,6813ac34,Manchester-City,"3,080",34.2,11.0,0.0,127.0,5.0,,Manchester-City
+,Joe Hart,eng ENG,GK,31,31,0.0,0.0,2013-2014,cb4f24c6,Manchester-City,"2,790",31.0,1.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Fernandinho,br BRA,"DF,MF",33,29,3.0,5.0,2013-2014,101da2b5,Manchester-City,"2,608",29.0,8.0,0.0,127.0,2.0,7008.0,Manchester-City
+,Samir Nasri,fr FRA,"FW,MF",34,29,7.0,7.0,2013-2014,165bed61,Manchester-City,"2,487",27.6,3.0,0.0,127.0,4.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,28,28,1.0,4.0,2013-2014,d2bff301,Manchester-City,"2,363",26.3,6.0,1.0,127.0,27.0,6987.0,Manchester-City
+,Martín Demichelis,ar ARG,"DF,MF",27,27,1.0,2.0,2013-2014,9c7102a,Manchester-City,"2,430",27.0,6.0,0.0,127.0,5.0,,Manchester-City
+,David Silva,es ESP,"FW,MF",27,26,9.0,7.0,2013-2014,2716bd0,Manchester-City,"2,161",24.0,5.0,0.0,127.0,1.0,,Manchester-City
+,Edin Džeko,ba BIH,FW,31,23,1.0,16.0,2013-2014,3bb7f478,Manchester-City,"1,986",22.1,4.0,0.0,127.0,49.0,7001.0,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,30,21,7.0,1.0,2013-2014,da40760,Manchester-City,"1,977",22.0,2.0,0.0,127.0,28.0,6999.0,Manchester-City
+,Álvaro Negredo,es ESP,FW,32,21,3.0,9.0,2013-2014,63b0ca6b,Manchester-City,"1,723",19.1,1.0,0.0,127.0,1.0,,Manchester-City
+,Sergio Agüero,ar ARG,FW,23,20,6.0,17.0,2013-2014,4d034881,Manchester-City,"1,528",17.0,4.0,0.0,127.0,5.0,,Manchester-City
+,Jesús Navas,es ESP,"DF,MF",29,18,7.0,4.0,2013-2014,3f10bd22,Manchester-City,"1,750",19.4,0.0,0.0,127.0,1.0,,Manchester-City
+,Gaël Clichy,fr FRA,DF,20,18,0.0,0.0,2013-2014,450ad405,Manchester-City,"1,662",18.5,1.0,0.0,127.0,4.0,,Manchester-City
+,Javi García,es ESP,"DF,MF",29,14,0.0,0.0,2013-2014,167c1bb0,Manchester-City,"1,545",17.2,7.0,0.0,127.0,1.0,35.0,Manchester-City
+,James Milner,eng ENG,"DF,MF",31,12,4.0,1.0,2013-2014,2f90f6b8,Manchester-City,"1,374",15.3,3.0,0.0,127.0,6.0,,Manchester-City
+,Matija Nastasić,rs SRB,DF,13,11,0.0,0.0,2013-2014,f35430a4,Manchester-City,"1,029",11.4,4.0,0.0,127.0,28.0,7006.0,Manchester-City
+,Joleon Lescott,eng ENG,DF,10,8,0.0,0.0,2013-2014,62393d3b,Manchester-City,785,8.7,0.0,0.0,127.0,6.0,,Manchester-City
+,Costel Pantilimon,ro ROU,GK,7,7,0.0,0.0,2013-2014,d24e154c,Manchester-City,630,7.0,1.0,0.0,127.0,51.0,,Manchester-City
+,Stevan Jovetić,me MNE,"FW,MF",13,2,1.0,3.0,2013-2014,f36c432f,Manchester-City,389,4.3,1.0,0.0,127.0,33.0,,Manchester-City
+,Micah Richards,eng ENG,DF,2,2,0.0,0.0,2013-2014,ff87875a,Manchester-City,160,1.8,0.0,0.0,127.0,6.0,6971.0,Manchester-City
+,Jack Rodwell,eng ENG,"DF,MF",5,1,0.0,0.0,2013-2014,07579ee,Manchester-City,112,1.2,0.0,0.0,127.0,6.0,,Manchester-City
+,Dedryck Boyata,be BEL,DF,1,1,0.0,0.0,2013-2014,7c473e12,Manchester-City,54,0.6,0.0,0.0,127.0,27.0,6995.0,Manchester-City
+,﻿Joe Hart,eng ENG,GK,36,36,0.0,0.0,2014-2015,cb4f24c6,Manchester-City,"3,240",36.0,1.0,0.0,127.0,6.0,6980.0,Manchester-City
+,David Silva,es ESP,"FW,MF",32,32,7.0,12.0,2014-2015,2716bd0,Manchester-City,"2,646",29.4,8.0,0.0,127.0,1.0,,Manchester-City
+,Sergio Agüero,ar ARG,FW,33,30,8.0,26.0,2014-2015,4d034881,Manchester-City,"2,531",28.1,4.0,0.0,127.0,5.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",29,29,4.0,1.0,2014-2015,6813ac34,Manchester-City,"2,586",28.7,7.0,1.0,127.0,5.0,,Manchester-City
+,Martín Demichelis,ar ARG,"DF,MF",31,28,0.0,1.0,2014-2015,9c7102a,Manchester-City,"2,562",28.5,6.0,0.0,127.0,5.0,,Manchester-City
+,Yaya Touré,ci CIV,MF,29,27,2.0,10.0,2014-2015,c204f844,Manchester-City,"2,353",26.1,5.0,0.0,127.0,35.0,,Manchester-City
+,Fernandinho,br BRA,"DF,MF",33,25,3.0,3.0,2014-2015,101da2b5,Manchester-City,"2,267",25.2,7.0,0.0,127.0,2.0,7008.0,Manchester-City
+,Eliaquim Mangala,fr FRA,DF,25,24,2.0,0.0,2014-2015,f520049f,Manchester-City,"2,189",24.3,4.0,1.0,127.0,4.0,,Manchester-City
+,Jesús Navas,es ESP,"DF,MF",35,23,8.0,0.0,2014-2015,3f10bd22,Manchester-City,"2,254",25.0,3.0,0.0,127.0,1.0,,Manchester-City
+,Gaël Clichy,fr FRA,DF,23,23,3.0,1.0,2014-2015,450ad405,Manchester-City,"2,057",22.9,1.0,0.0,127.0,4.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,25,23,0.0,0.0,2014-2015,d2bff301,Manchester-City,"2,034",22.6,7.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Fernando,br BRA,MF,25,22,2.0,2.0,2014-2015,41f32541,Manchester-City,"1,879",20.9,6.0,0.0,127.0,2.0,,Manchester-City
+,James Milner,eng ENG,"DF,MF",32,18,7.0,5.0,2014-2015,2f90f6b8,Manchester-City,"1,749",19.4,6.0,0.0,127.0,6.0,,Manchester-City
+,Samir Nasri,fr FRA,"FW,MF",24,18,5.0,2.0,2014-2015,165bed61,Manchester-City,"1,569",17.4,5.0,0.0,127.0,4.0,,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,21,16,3.0,2.0,2014-2015,da40760,Manchester-City,"1,489",16.5,4.0,0.0,127.0,28.0,6999.0,Manchester-City
+,Edin Džeko,ba BIH,FW,22,11,2.0,4.0,2014-2015,3bb7f478,Manchester-City,932,10.4,1.0,0.0,127.0,49.0,7001.0,Manchester-City
+,Frank Lampard,eng ENG,MF,32,10,1.0,6.0,2014-2015,268df6b1,Manchester-City,"1,002",11.1,1.0,0.0,127.0,6.0,,Manchester-City
+,Stevan Jovetić,me MNE,"FW,MF",17,9,3.0,5.0,2014-2015,f36c432f,Manchester-City,784,8.7,0.0,0.0,127.0,33.0,,Manchester-City
+,Bacary Sagna,fr FRA,DF,9,8,0.0,0.0,2014-2015,6ef56efd,Manchester-City,741,8.2,1.0,0.0,127.0,4.0,,Manchester-City
+,Wilfried Bony,ci CIV,FW,10,2,1.0,2.0,2014-2015,61abe9b6,Manchester-City,302,3.4,1.0,0.0,127.0,35.0,7009.0,Manchester-City
+,Willy Caballero,ar ARG,GK,2,2,0.0,0.0,2014-2015,179d516,Manchester-City,180,2.0,0.0,0.0,127.0,5.0,,Manchester-City
+,José Pozo,es ESP,"FW,MF",3,1,0.0,0.0,2014-2015,fc8b614b,Manchester-City,137,1.5,0.0,0.0,127.0,1.0,,Manchester-City
+,Dedryck Boyata,be BEL,DF,2,1,0.0,0.0,2014-2015,7c473e12,Manchester-City,92,1.0,1.0,0.0,127.0,27.0,6995.0,Manchester-City
+,Scott Sinclair,eng ENG,"FW,MF",2,0,0.0,0.0,2014-2015,273c483b,Manchester-City,5,0.1,0.0,0.0,127.0,6.0,,Manchester-City
+,Thierry Ambrose,gp GLP,"FW,MF",0,0,,,2014-2015,2945f4b7,Manchester-City,,,,,127.0,56.0,7010.0,Manchester-City
+,Angeliño,es ESP,"DF,MF",0,0,,,2014-2015,30941e96,Manchester-City,,,,,127.0,1.0,,Manchester-City
+,﻿Joe Hart,eng ENG,GK,35,35,0.0,0.0,2015-2016,cb4f24c6,Manchester-City,"3,109",34.5,0.0,0.0,127.0,6.0,6980.0,Manchester-City
+,Fernandinho,br BRA,MF,33,31,2.0,2.0,2015-2016,101da2b5,Manchester-City,"2,729",30.3,8.0,0.0,127.0,2.0,7008.0,Manchester-City
+,Nicolás Otamendi,ar ARG,DF,30,30,0.0,1.0,2015-2016,0d267745,Manchester-City,"2,671",29.7,9.0,0.0,127.0,5.0,,Manchester-City
+,Sergio Agüero,ar ARG,FW,30,29,2.0,24.0,2015-2016,4d034881,Manchester-City,"2,360",26.2,1.0,0.0,127.0,5.0,,Manchester-City
+,Yaya Touré,ci CIV,MF,32,28,5.0,6.0,2015-2016,c204f844,Manchester-City,"2,325",25.8,3.0,0.0,127.0,35.0,,Manchester-City
+,Bacary Sagna,fr FRA,DF,28,27,3.0,0.0,2015-2016,6ef56efd,Manchester-City,"2,448",27.2,4.0,0.0,127.0,4.0,,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,29,25,3.0,3.0,2015-2016,da40760,Manchester-City,"2,283",25.4,3.0,0.0,127.0,28.0,6999.0,Manchester-City
+,Jesús Navas,es ESP,MF,34,24,7.0,0.0,2015-2016,3f10bd22,Manchester-City,"2,282",25.4,1.0,0.0,127.0,1.0,,Manchester-City
+,Eliaquim Mangala,fr FRA,DF,23,23,0.0,0.0,2015-2016,f520049f,Manchester-City,"2,009",22.3,8.0,0.0,127.0,4.0,,Manchester-City
+,Raheem Sterling,eng ENG,MF,31,23,2.0,6.0,2015-2016,b400bde0,Manchester-City,"1,920",21.3,1.0,0.0,127.0,6.0,,Manchester-City
+,Kevin De Bruyne,be BEL,MF,25,22,9.0,7.0,2015-2016,46012d4,Manchester-City,"2,002",22.2,2.0,0.0,127.0,27.0,,Manchester-City
+,David Silva,es ESP,MF,24,22,11.0,2.0,2015-2016,2716bd0,Manchester-City,"1,791",19.9,1.0,0.0,127.0,1.0,,Manchester-City
+,Fernando,br BRA,MF,24,17,0.0,2.0,2015-2016,41f32541,Manchester-City,"1,715",19.1,4.0,0.0,127.0,2.0,,Manchester-City
+,Wilfried Bony,ci CIV,FW,26,13,3.0,4.0,2015-2016,61abe9b6,Manchester-City,"1,226",13.6,1.0,0.0,127.0,35.0,7009.0,Manchester-City
+,Vincent Kompany,be BEL,DF,14,13,0.0,2.0,2015-2016,d2bff301,Manchester-City,"1,179",13.1,5.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Gaël Clichy,fr FRA,DF,14,12,1.0,0.0,2015-2016,450ad405,Manchester-City,"1,087",12.1,0.0,0.0,127.0,4.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,DF,13,12,1.0,0.0,2015-2016,6813ac34,Manchester-City,"1,062",11.8,3.0,0.0,127.0,5.0,,Manchester-City
+,Martín Demichelis,ar ARG,DF,20,10,0.0,0.0,2015-2016,9c7102a,Manchester-City,"1,021",11.3,3.0,0.0,127.0,5.0,,Manchester-City
+,Fabian Delph,eng ENG,MF,17,8,0.0,2.0,2015-2016,111c3236,Manchester-City,753,8.4,0.0,0.0,127.0,6.0,,Manchester-City
+,Kelechi Iheanacho,ng NGA,"FW,MF",26,7,1.0,8.0,2015-2016,c92e1a31,Manchester-City,766,8.5,1.0,0.0,127.0,52.0,7011.0,Manchester-City
+,Samir Nasri,fr FRA,"MF,FW",12,4,2.0,2.0,2015-2016,165bed61,Manchester-City,541,6.0,3.0,0.0,127.0,4.0,,Manchester-City
+,Willy Caballero,ar ARG,GK,4,3,0.0,0.0,2015-2016,179d516,Manchester-City,311,3.5,0.0,0.0,127.0,5.0,,Manchester-City
+,Bersant Celina,xk KVX,"FW,MF",1,0,1.0,0.0,2015-2016,3043d33f,Manchester-City,14,0.2,0.0,0.0,127.0,82.0,7012.0,Manchester-City
+,Manu García,es ESP,"FW,MF",1,0,0.0,0.0,2015-2016,6ed1a2a2,Manchester-City,11,0.1,0.0,0.0,127.0,1.0,,Manchester-City
+,Patrick Roberts,eng ENG,"FW,MF",1,0,0.0,0.0,2015-2016,59d93937,Manchester-City,5,0.1,0.0,0.0,127.0,6.0,,Manchester-City
+,Angeliño,es ESP,"DF,MF",0,0,,,2015-2016,30941e96,Manchester-City,,,,,127.0,1.0,,Manchester-City
+,Brandon Barker,eng ENG,"FW,MF",0,0,,,2015-2016,3098c0df,Manchester-City,,,,,127.0,6.0,7013.0,Manchester-City
+,Jason Denayer,be BEL,DF,0,0,,,2015-2016,47af88b8,Manchester-City,,,,,127.0,27.0,7014.0,Manchester-City
+,George Evans,eng ENG,"DF,MF",0,0,,,2015-2016,40302e12,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Aleix García,es ESP,MF,0,0,,,2015-2016,10361d2,Manchester-City,,,,,127.0,1.0,,Manchester-City
+,James Horsfield,eng ENG,"DF,MF",0,0,,,2015-2016,95b9d647,Manchester-City,,,,,127.0,6.0,7016.0,Manchester-City
+,Cameron Humphreys,eng ENG,DF,0,0,,,2015-2016,28e65539,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Pablo Maffeo,es ESP,"DF,MF",0,0,,,2015-2016,5db04597,Manchester-City,,,,,127.0,1.0,,Manchester-City
+,Richard Wright,eng ENG,GK,0,0,,,2015-2016,d9e2e2ae,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,﻿Kevin De Bruyne,be BEL,MF,36,33,17.0,6.0,2016-2017,46012d4,Manchester-City,"2,877",32.0,4.0,0.0,127.0,27.0,,Manchester-City
+,David Silva,es ESP,MF,34,31,7.0,4.0,2016-2017,2716bd0,Manchester-City,"2,759",30.7,6.0,0.0,127.0,1.0,,Manchester-City
+,Fernandinho,br BRA,"MF,DF",32,31,1.0,2.0,2016-2017,101da2b5,Manchester-City,"2,756",30.6,4.0,2.0,127.0,2.0,7008.0,Manchester-City
+,Nicolás Otamendi,ar ARG,DF,30,29,0.0,1.0,2016-2017,0d267745,Manchester-City,"2,592",28.8,9.0,0.0,127.0,5.0,,Manchester-City
+,Raheem Sterling,eng ENG,"MF,FW",33,29,8.0,7.0,2016-2017,b400bde0,Manchester-City,"2,508",27.9,7.0,0.0,127.0,6.0,,Manchester-City
+,Aleksandar Kolarov,rs SRB,DF,29,27,2.0,1.0,2016-2017,da40760,Manchester-City,"2,535",28.2,6.0,0.0,127.0,28.0,6999.0,Manchester-City
+,Sergio Agüero,ar ARG,FW,31,25,4.0,20.0,2016-2017,4d034881,Manchester-City,"2,403",26.7,4.0,1.0,127.0,5.0,,Manchester-City
+,Gaël Clichy,fr FRA,DF,25,24,0.0,1.0,2016-2017,450ad405,Manchester-City,"2,123",23.6,2.0,0.0,127.0,4.0,,Manchester-City
+,John Stones,eng ENG,DF,27,23,0.0,0.0,2016-2017,5eecec3d,Manchester-City,"2,014",22.4,1.0,0.0,127.0,6.0,,Manchester-City
+,Claudio Bravo,cl CHI,GK,22,22,0.0,0.0,2016-2017,10072610,Manchester-City,"1,968",21.9,0.0,0.0,127.0,31.0,,Manchester-City
+,Yaya Touré,ci CIV,MF,25,22,0.0,5.0,2016-2017,c204f844,Manchester-City,"1,941",21.6,4.0,0.0,127.0,35.0,,Manchester-City
+,Leroy Sané,de GER,"MF,FW",26,20,2.0,5.0,2016-2017,2b114be3,Manchester-City,"1,781",19.8,4.0,0.0,127.0,13.0,7017.0,Manchester-City
+,Willy Caballero,ar ARG,GK,17,16,0.0,0.0,2016-2017,179d516,Manchester-City,"1,452",16.1,0.0,0.0,127.0,5.0,,Manchester-City
+,Bacary Sagna,fr FRA,DF,17,14,1.0,0.0,2016-2017,6ef56efd,Manchester-City,"1,346",15.0,2.0,0.0,127.0,4.0,,Manchester-City
+,Jesús Navas,es ESP,"MF,DF",24,12,1.0,0.0,2016-2017,3f10bd22,Manchester-City,"1,064",11.8,2.0,0.0,127.0,1.0,,Manchester-City
+,Pablo Zabaleta,ar ARG,"DF,MF",19,11,1.0,1.0,2016-2017,6813ac34,Manchester-City,"1,036",11.5,2.0,0.0,127.0,5.0,,Manchester-City
+,Vincent Kompany,be BEL,DF,11,10,0.0,3.0,2016-2017,d2bff301,Manchester-City,820,9.1,5.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Nolito,es ESP,"MF,FW",19,9,2.0,4.0,2016-2017,b2d0ec1b,Manchester-City,778,8.6,3.0,1.0,127.0,1.0,,Manchester-City
+,İlkay Gündoğan,de GER,MF,10,9,1.0,3.0,2016-2017,819b3158,Manchester-City,704,7.8,0.0,0.0,127.0,13.0,7018.0,Manchester-City
+,Gabriel Jesus,br BRA,"FW,MF",10,8,4.0,7.0,2016-2017,b66315ae,Manchester-City,650,7.2,2.0,0.0,127.0,2.0,7019.0,Manchester-City
+,Fernando,br BRA,"MF,DF",15,5,0.0,0.0,2016-2017,41f32541,Manchester-City,568,6.3,3.0,0.0,127.0,2.0,,Manchester-City
+,Kelechi Iheanacho,ng NGA,FW,20,5,3.0,4.0,2016-2017,c92e1a31,Manchester-City,537,6.0,0.0,0.0,127.0,52.0,7011.0,Manchester-City
+,Fabian Delph,eng ENG,MF,7,2,0.0,1.0,2016-2017,111c3236,Manchester-City,224,2.5,1.0,0.0,127.0,6.0,,Manchester-City
+,Aleix García,es ESP,MF,4,1,0.0,0.0,2016-2017,10361d2,Manchester-City,77,0.9,0.0,0.0,127.0,1.0,,Manchester-City
+,Samir Nasri,fr FRA,"FW,MF",1,0,0.0,0.0,2016-2017,165bed61,Manchester-City,16,0.2,0.0,0.0,127.0,4.0,,Manchester-City
+,Tosin Adarabioyo,eng ENG,DF,0,0,,,2016-2017,c81d773d,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Angus Gunn,eng ENG,GK,0,0,,,2016-2017,082af5b,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Joe Hart,eng ENG,GK,0,0,,,2016-2017,cb4f24c6,Manchester-City,,,,,127.0,6.0,6980.0,Manchester-City
+,Pablo Maffeo,es ESP,"DF,MF",0,0,,,2016-2017,5db04597,Manchester-City,,,,,127.0,1.0,,Manchester-City
+,﻿Ederson,br BRA,GK,36,36,0.0,0.0,2017-2018,3bb7b8b4,Manchester-City,"3,194",35.5,1.0,0.0,127.0,2.0,7020.0,Manchester-City
+,Kevin De Bruyne,be BEL,MF,37,36,16.0,8.0,2017-2018,46012d4,Manchester-City,"3,073",34.1,2.0,0.0,127.0,27.0,,Manchester-City
+,Nicolás Otamendi,ar ARG,DF,34,33,0.0,4.0,2017-2018,0d267745,Manchester-City,"2,967",33.0,9.0,0.0,127.0,5.0,,Manchester-City
+,Fernandinho,br BRA,MF,34,33,3.0,5.0,2017-2018,101da2b5,Manchester-City,"2,881",32.0,7.0,0.0,127.0,2.0,7008.0,Manchester-City
+,Kyle Walker,eng ENG,DF,32,32,6.0,0.0,2017-2018,86dd77d1,Manchester-City,"2,785",30.9,3.0,2.0,127.0,6.0,7021.0,Manchester-City
+,Raheem Sterling,eng ENG,FW,33,29,11.0,18.0,2017-2018,b400bde0,Manchester-City,"2,587",28.7,4.0,2.0,127.0,6.0,,Manchester-City
+,David Silva,es ESP,MF,29,28,11.0,9.0,2017-2018,2716bd0,Manchester-City,"2,430",27.0,5.0,0.0,127.0,1.0,,Manchester-City
+,Leroy Sané,de GER,FW,32,27,15.0,10.0,2017-2018,2b114be3,Manchester-City,"2,419",26.9,4.0,0.0,127.0,13.0,7017.0,Manchester-City
+,Sergio Agüero,ar ARG,FW,25,22,6.0,21.0,2017-2018,4d034881,Manchester-City,"1,963",21.8,2.0,0.0,127.0,5.0,,Manchester-City
+,Fabian Delph,eng ENG,DF,22,21,2.0,1.0,2017-2018,111c3236,Manchester-City,"1,741",19.3,2.0,0.0,127.0,6.0,,Manchester-City
+,Gabriel Jesus,br BRA,FW,29,19,3.0,13.0,2017-2018,b66315ae,Manchester-City,"1,668",18.5,6.0,0.0,127.0,2.0,7019.0,Manchester-City
+,Vincent Kompany,be BEL,DF,17,17,1.0,1.0,2017-2018,d2bff301,Manchester-City,"1,394",15.5,6.0,0.0,127.0,27.0,6987.0,Manchester-City
+,John Stones,eng ENG,DF,18,16,0.0,0.0,2017-2018,5eecec3d,Manchester-City,"1,302",14.5,0.0,0.0,127.0,6.0,,Manchester-City
+,Bernardo Silva,pt POR,"FW,MF",35,15,4.0,6.0,2017-2018,3eb22ec9,Manchester-City,"1,533",17.0,0.0,0.0,127.0,3.0,7022.0,Manchester-City
+,İlkay Gündoğan,de GER,MF,30,15,1.0,4.0,2017-2018,819b3158,Manchester-City,"1,517",16.9,3.0,0.0,127.0,13.0,7018.0,Manchester-City
+,Danilo,br BRA,DF,23,13,2.0,3.0,2017-2018,94b2001f,Manchester-City,"1,349",15.0,2.0,0.0,127.0,2.0,133.0,Manchester-City
+,Aymeric Laporte,es ESP,DF,9,9,0.0,0.0,2017-2018,119b9a8e,Manchester-City,806,9.0,1.0,0.0,127.0,1.0,,Manchester-City
+,Oleksandr Zinchenko,ua UKR,DF,8,6,0.0,0.0,2017-2018,51cf8561,Manchester-City,532,5.9,1.0,0.0,127.0,29.0,7023.0,Manchester-City
+,Eliaquim Mangala,fr FRA,DF,9,4,0.0,0.0,2017-2018,f520049f,Manchester-City,488,5.4,0.0,0.0,127.0,4.0,,Manchester-City
+,Benjamin Mendy,fr FRA,"DF,FW",7,4,1.0,0.0,2017-2018,5271c8f1,Manchester-City,363,4.0,2.0,0.0,127.0,4.0,7024.0,Manchester-City
+,Claudio Bravo,cl CHI,GK,3,2,0.0,0.0,2017-2018,10072610,Manchester-City,226,2.5,0.0,0.0,127.0,31.0,,Manchester-City
+,Yaya Touré,ci CIV,MF,10,1,2.0,0.0,2017-2018,c204f844,Manchester-City,236,2.6,1.0,0.0,127.0,35.0,,Manchester-City
+,Brahim Díaz,es ESP,"FW,DF",5,0,0.0,0.0,2017-2018,407feb71,Manchester-City,55,0.6,0.0,0.0,127.0,1.0,158.0,Manchester-City
+,Phil Foden,eng ENG,"MF,FW",5,0,1.0,0.0,2017-2018,d1e53f3,Manchester-City,49,0.5,0.0,0.0,127.0,6.0,7025.0,Manchester-City
+,Lukas Nmecha,de GER,FW,2,0,0.0,0.0,2017-2018,0cc5f4a5,Manchester-City,16,0.2,0.0,0.0,127.0,13.0,7026.0,Manchester-City
+,Tosin Adarabioyo,eng ENG,DF,0,0,,,2017-2018,c81d773d,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,﻿Ederson,br BRA,GK,38,38,1.0,0.0,2018-2019,3bb7b8b4,Manchester-City,"3,420",38.0,2.0,0.0,127.0,2.0,7020.0,Manchester-City
+,Aymeric Laporte,es ESP,DF,35,34,3.0,3.0,2018-2019,119b9a8e,Manchester-City,"3,057",34.0,3.0,0.0,127.0,1.0,,Manchester-City
+,Bernardo Silva,pt POR,"MF,FW",36,31,7.0,7.0,2018-2019,3eb22ec9,Manchester-City,"2,854",31.7,3.0,0.0,127.0,3.0,7022.0,Manchester-City
+,Raheem Sterling,eng ENG,"FW,MF",34,31,9.0,17.0,2018-2019,b400bde0,Manchester-City,"2,771",30.8,3.0,0.0,127.0,6.0,,Manchester-City
+,Sergio Agüero,ar ARG,FW,33,31,8.0,21.0,2018-2019,4d034881,Manchester-City,"2,459",27.3,4.0,0.0,127.0,5.0,,Manchester-City
+,Kyle Walker,eng ENG,DF,33,30,1.0,1.0,2018-2019,86dd77d1,Manchester-City,"2,779",30.9,3.0,0.0,127.0,6.0,7021.0,Manchester-City
+,David Silva,es ESP,MF,33,28,8.0,6.0,2018-2019,2716bd0,Manchester-City,"2,401",26.7,2.0,0.0,127.0,1.0,,Manchester-City
+,Fernandinho,br BRA,MF,29,27,3.0,1.0,2018-2019,101da2b5,Manchester-City,"2,377",26.4,5.0,0.0,127.0,2.0,7008.0,Manchester-City
+,İlkay Gündoğan,de GER,MF,31,23,3.0,6.0,2018-2019,819b3158,Manchester-City,"2,137",23.7,3.0,0.0,127.0,13.0,7018.0,Manchester-City
+,Leroy Sané,de GER,FW,31,21,10.0,10.0,2018-2019,2b114be3,Manchester-City,"1,867",20.7,1.0,0.0,127.0,13.0,7017.0,Manchester-City
+,John Stones,eng ENG,DF,24,20,0.0,0.0,2018-2019,5eecec3d,Manchester-City,"1,764",19.6,1.0,0.0,127.0,6.0,,Manchester-City
+,Riyad Mahrez,dz ALG,"FW,MF",27,14,4.0,7.0,2018-2019,892d5bb1,Manchester-City,"1,343",14.9,0.0,0.0,127.0,37.0,7027.0,Manchester-City
+,Nicolás Otamendi,ar ARG,DF,18,14,0.0,0.0,2018-2019,0d267745,Manchester-City,"1,236",13.7,1.0,0.0,127.0,5.0,,Manchester-City
+,Oleksandr Zinchenko,ua UKR,DF,14,14,3.0,0.0,2018-2019,51cf8561,Manchester-City,"1,151",12.8,1.0,0.0,127.0,29.0,7023.0,Manchester-City
+,Vincent Kompany,be BEL,DF,17,13,0.0,1.0,2018-2019,d2bff301,Manchester-City,"1,224",13.6,6.0,0.0,127.0,27.0,6987.0,Manchester-City
+,Kevin De Bruyne,be BEL,MF,19,11,2.0,2.0,2018-2019,46012d4,Manchester-City,975,10.8,2.0,0.0,127.0,27.0,,Manchester-City
+,Benjamin Mendy,fr FRA,DF,10,10,5.0,0.0,2018-2019,5271c8f1,Manchester-City,900,10.0,1.0,0.0,127.0,4.0,7024.0,Manchester-City
+,Danilo,br BRA,DF,11,9,0.0,1.0,2018-2019,94b2001f,Manchester-City,807,9.0,1.0,0.0,127.0,2.0,133.0,Manchester-City
+,Gabriel Jesus,br BRA,FW,29,8,3.0,7.0,2018-2019,b66315ae,Manchester-City,"1,036",11.5,1.0,0.0,127.0,2.0,7019.0,Manchester-City
+,Fabian Delph,eng ENG,DF,11,8,1.0,0.0,2018-2019,111c3236,Manchester-City,725,8.1,1.0,1.0,127.0,6.0,,Manchester-City
+,Phil Foden,eng ENG,MF,13,3,0.0,1.0,2018-2019,d1e53f3,Manchester-City,335,3.7,0.0,0.0,127.0,6.0,7025.0,Manchester-City
+,Claudio Bravo,cl CHI,GK,0,0,,,2018-2019,10072610,Manchester-City,,,,,127.0,31.0,,Manchester-City
+,Arijanet Muric,xk KVX,GK,0,0,,,2018-2019,99aa1a84,Manchester-City,,,,,127.0,82.0,,Manchester-City
+,Philippe Sandler,nl NED,DF,0,0,,,2018-2019,60740e70,Manchester-City,,,,,127.0,11.0,,Manchester-City
+,﻿Ederson,br BRA,GK,35,35,0.0,0.0,2019-2020,3bb7b8b4,Manchester-City,"3,071",34.1,3.0,1.0,127.0,2.0,7020.0,Manchester-City
+,Kevin De Bruyne,be BEL,MF,35,32,20.0,13.0,2019-2020,46012d4,Manchester-City,"2,791",31.0,3.0,0.0,127.0,27.0,,Manchester-City
+,Raheem Sterling,eng ENG,"FW,MF",33,30,1.0,20.0,2019-2020,b400bde0,Manchester-City,"2,651",29.5,5.0,0.0,127.0,6.0,,Manchester-City
+,Rodri,es ESP,MF,35,29,2.0,3.0,2019-2020,6434f10d,Manchester-City,"2,486",27.6,8.0,0.0,127.0,1.0,,Manchester-City
+,Kyle Walker,eng ENG,DF,29,28,4.0,1.0,2019-2020,86dd77d1,Manchester-City,"2,392",26.6,5.0,0.0,127.0,6.0,7021.0,Manchester-City
+,Fernandinho,br BRA,DF,30,26,1.0,0.0,2019-2020,101da2b5,Manchester-City,"2,397",26.6,9.0,2.0,127.0,2.0,7008.0,Manchester-City
+,Bernardo Silva,pt POR,"MF,FW",34,23,7.0,6.0,2019-2020,3eb22ec9,Manchester-City,"2,030",22.6,5.0,0.0,127.0,3.0,7022.0,Manchester-City
+,David Silva,es ESP,MF,27,22,10.0,6.0,2019-2020,2716bd0,Manchester-City,"1,826",20.3,0.0,0.0,127.0,1.0,,Manchester-City
+,Gabriel Jesus,br BRA,FW,34,21,7.0,14.0,2019-2020,b66315ae,Manchester-City,"2,030",22.6,3.0,0.0,127.0,2.0,7019.0,Manchester-City
+,İlkay Gündoğan,de GER,MF,31,21,1.0,2.0,2019-2020,819b3158,Manchester-City,"2,020",22.4,7.0,0.0,127.0,13.0,7018.0,Manchester-City
+,Riyad Mahrez,dz ALG,"FW,MF",33,21,9.0,11.0,2019-2020,892d5bb1,Manchester-City,"1,944",21.6,0.0,0.0,127.0,37.0,7027.0,Manchester-City
+,Nicolás Otamendi,ar ARG,DF,24,18,0.0,2.0,2019-2020,0d267745,Manchester-City,"1,715",19.1,3.0,0.0,127.0,5.0,,Manchester-City
+,Benjamin Mendy,fr FRA,DF,19,18,2.0,0.0,2019-2020,5271c8f1,Manchester-City,"1,492",16.6,3.0,0.0,127.0,4.0,7024.0,Manchester-City
+,Sergio Agüero,ar ARG,FW,24,18,3.0,16.0,2019-2020,4d034881,Manchester-City,"1,452",16.1,1.0,0.0,127.0,5.0,,Manchester-City
+,Aymeric Laporte,es ESP,DF,15,14,0.0,1.0,2019-2020,119b9a8e,Manchester-City,"1,097",12.2,1.0,0.0,127.0,1.0,,Manchester-City
+,Oleksandr Zinchenko,ua UKR,DF,19,13,0.0,0.0,2019-2020,51cf8561,Manchester-City,"1,276",14.2,2.0,1.0,127.0,29.0,7023.0,Manchester-City
+,João Cancelo,pt POR,DF,17,13,0.0,0.0,2019-2020,bd6351cd,Manchester-City,"1,208",13.4,4.0,0.0,127.0,3.0,,Manchester-City
+,John Stones,eng ENG,DF,16,12,0.0,0.0,2019-2020,5eecec3d,Manchester-City,"1,122",12.5,0.0,0.0,127.0,6.0,,Manchester-City
+,Phil Foden,eng ENG,"MF,FW",23,9,2.0,5.0,2019-2020,d1e53f3,Manchester-City,901,10.0,0.0,0.0,127.0,6.0,7025.0,Manchester-City
+,Eric García,es ESP,DF,13,8,0.0,0.0,2019-2020,2bed3eab,Manchester-City,793,8.8,1.0,0.0,127.0,1.0,,Manchester-City
+,Angeliño,es ESP,DF,6,4,0.0,0.0,2019-2020,30941e96,Manchester-City,423,4.7,1.0,0.0,127.0,1.0,,Manchester-City
+,Claudio Bravo,cl CHI,GK,4,3,0.0,0.0,2019-2020,10072610,Manchester-City,347,3.9,0.0,0.0,127.0,31.0,,Manchester-City
+,Thomas Doyle,eng ENG,MF,1,0,0.0,0.0,2019-2020,5526deb1,Manchester-City,16,0.2,0.0,0.0,127.0,6.0,7028.0,Manchester-City
+,Leroy Sané,de GER,FW,1,0,0.0,0.0,2019-2020,2b114be3,Manchester-City,12,0.1,0.0,0.0,127.0,13.0,7017.0,Manchester-City
+,Scott Carson,eng ENG,GK,0,0,,,2019-2020,3e1550ee,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Taylor Harwood-Bellis,eng ENG,DF,0,0,,,2019-2020,47327321,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Cole Palmer,eng ENG,MF,0,0,,,2019-2020,dc7f8a28,Manchester-City,,,,,127.0,6.0,7035.0,Manchester-City
+,﻿Ederson,br BRA,GK,36,36,1.0,0.0,2020-2021,3bb7b8b4,Manchester-City,"3,240",36.0,3.0,0.0,127.0,2.0,7020.0,Manchester-City
+,Rúben Dias,pt POR,DF,32,32,0.0,1.0,2020-2021,31c69ef1,Manchester-City,"2,843",31.6,4.0,0.0,127.0,3.0,7029.0,Manchester-City
+,Rodri,es ESP,MF,34,31,2.0,2.0,2020-2021,6434f10d,Manchester-City,"2,748",30.5,6.0,0.0,127.0,1.0,,Manchester-City
+,Raheem Sterling,eng ENG,"FW,MF",31,28,7.0,10.0,2020-2021,b400bde0,Manchester-City,"2,536",28.2,4.0,0.0,127.0,6.0,,Manchester-City
+,João Cancelo,pt POR,"DF,MF",28,27,3.0,2.0,2020-2021,bd6351cd,Manchester-City,"2,299",25.5,5.0,1.0,127.0,3.0,,Manchester-City
+,Bernardo Silva,pt POR,"MF,FW",26,24,6.0,2.0,2020-2021,3eb22ec9,Manchester-City,"2,065",22.9,5.0,0.0,127.0,3.0,7022.0,Manchester-City
+,İlkay Gündoğan,de GER,MF,28,23,2.0,13.0,2020-2021,819b3158,Manchester-City,"2,029",22.5,1.0,0.0,127.0,13.0,7018.0,Manchester-City
+,Kevin De Bruyne,be BEL,MF,25,23,12.0,6.0,2020-2021,46012d4,Manchester-City,"1,997",22.2,1.0,0.0,127.0,27.0,,Manchester-City
+,Riyad Mahrez,dz ALG,"FW,MF",27,23,6.0,9.0,2020-2021,892d5bb1,Manchester-City,"1,949",21.7,0.0,0.0,127.0,37.0,7027.0,Manchester-City
+,Gabriel Jesus,br BRA,FW,29,22,4.0,9.0,2020-2021,b66315ae,Manchester-City,"2,063",22.9,2.0,0.0,127.0,2.0,7019.0,Manchester-City
+,Kyle Walker,eng ENG,DF,24,22,1.0,1.0,2020-2021,86dd77d1,Manchester-City,"1,946",21.6,1.0,0.0,127.0,6.0,7021.0,Manchester-City
+,John Stones,eng ENG,DF,22,22,0.0,4.0,2020-2021,5eecec3d,Manchester-City,"1,933",21.5,0.0,1.0,127.0,6.0,,Manchester-City
+,Phil Foden,eng ENG,"FW,MF",28,17,5.0,9.0,2020-2021,d1e53f3,Manchester-City,"1,616",18.0,0.0,0.0,127.0,6.0,7025.0,Manchester-City
+,Oleksandr Zinchenko,ua UKR,DF,20,15,0.0,0.0,2020-2021,51cf8561,Manchester-City,"1,478",16.4,0.0,0.0,127.0,29.0,7023.0,Manchester-City
+,Ferrán Torres,es ESP,"FW,MF",24,15,2.0,7.0,2020-2021,9e1035f8,Manchester-City,"1,306",14.5,1.0,0.0,127.0,1.0,,Manchester-City
+,Aymeric Laporte,es ESP,DF,16,14,0.0,0.0,2020-2021,119b9a8e,Manchester-City,"1,344",14.9,1.0,0.0,127.0,1.0,,Manchester-City
+,Fernandinho,br BRA,MF,21,12,2.0,0.0,2020-2021,101da2b5,Manchester-City,"1,188",13.2,6.0,0.0,127.0,2.0,7008.0,Manchester-City
+,Benjamin Mendy,fr FRA,DF,13,11,1.0,2.0,2020-2021,5271c8f1,Manchester-City,953,10.6,2.0,0.0,127.0,4.0,7024.0,Manchester-City
+,Nathan Aké,nl NED,DF,10,9,0.0,1.0,2020-2021,ca114,Manchester-City,797,8.9,4.0,0.0,127.0,11.0,,Manchester-City
+,Sergio Agüero,ar ARG,FW,12,7,1.0,4.0,2020-2021,4d034881,Manchester-City,559,6.2,0.0,0.0,127.0,5.0,,Manchester-City
+,Eric García,es ESP,DF,6,3,0.0,0.0,2020-2021,2bed3eab,Manchester-City,383,4.3,0.0,0.0,127.0,1.0,,Manchester-City
+,Scott Carson,eng ENG,GK,1,1,0.0,0.0,2020-2021,3e1550ee,Manchester-City,90,1.0,0.0,0.0,127.0,6.0,,Manchester-City
+,Zack Steffen,us USA,GK,1,1,0.0,0.0,2020-2021,42130443,Manchester-City,90,1.0,0.0,0.0,127.0,75.0,7030.0,Manchester-City
+,Liam Delap,eng ENG,FW,1,0,0.0,0.0,2020-2021,dd897ee7,Manchester-City,40,0.4,0.0,0.0,127.0,6.0,7031.0,Manchester-City
+,Adrian Bernabe,es ESP,MF,0,0,,,2020-2021,548672b4,Manchester-City,,,,,127.0,1.0,7032.0,Manchester-City
+,Thomas Doyle,eng ENG,MF,0,0,,,2020-2021,5526deb1,Manchester-City,,,,,127.0,6.0,7028.0,Manchester-City
+,Claudio Gomes,fr FRA,MF,0,0,,,2020-2021,22f6ed2c,Manchester-City,,,,,127.0,4.0,,Manchester-City
+,Taylor Harwood-Bellis,eng ENG,DF,0,0,,,2020-2021,47327321,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Felix Kalu Nmecha,de GER,MF,0,0,,,2020-2021,091c86e2,Manchester-City,,,,,127.0,13.0,7033.0,Manchester-City
+,Luke Mbete-Tatu,eng ENG,DF,0,0,,,2020-2021,387e1d35,Manchester-City,,,,,127.0,6.0,7034.0,Manchester-City
+,Nicolás Otamendi,ar ARG,DF,0,0,,,2020-2021,0d267745,Manchester-City,,,,,127.0,5.0,,Manchester-City
+,Cole Palmer,eng ENG,MF,0,0,,,2020-2021,dc7f8a28,Manchester-City,,,,,127.0,6.0,7035.0,Manchester-City
+,James Trafford,eng ENG,GK,0,0,,,2020-2021,259fea27,Manchester-City,,,,,127.0,6.0,7036.0,Manchester-City
+,﻿Ederson,br BRA,GK,37,37,0.0,0.0,2021-2022,3bb7b8b4,Manchester-City,"3,330",37.0,3.0,0.0,127.0,2.0,7020.0,Manchester-City
+,João Cancelo,pt POR,DF,36,36,7.0,1.0,2021-2022,bd6351cd,Manchester-City,"3,227",35.9,7.0,0.0,127.0,3.0,,Manchester-City
+,Rodri,es ESP,MF,33,33,2.0,7.0,2021-2022,6434f10d,Manchester-City,"2,884",32.0,5.0,0.0,127.0,1.0,,Manchester-City
+,Bernardo Silva,pt POR,"MF,FW",35,33,4.0,8.0,2021-2022,3eb22ec9,Manchester-City,"2,857",31.7,6.0,0.0,127.0,3.0,7022.0,Manchester-City
+,Aymeric Laporte,es ESP,DF,33,33,0.0,4.0,2021-2022,119b9a8e,Manchester-City,"2,828",31.4,5.0,1.0,127.0,1.0,,Manchester-City
+,Rúben Dias,pt POR,DF,29,27,4.0,2.0,2021-2022,31c69ef1,Manchester-City,"2,402",26.7,5.0,0.0,127.0,3.0,7029.0,Manchester-City
+,Kevin De Bruyne,be BEL,MF,30,25,8.0,15.0,2021-2022,46012d4,Manchester-City,"2,201",24.5,2.0,0.0,127.0,27.0,,Manchester-City
+,Phil Foden,eng ENG,"FW,MF",28,24,5.0,9.0,2021-2022,d1e53f3,Manchester-City,"2,128",23.6,1.0,0.0,127.0,6.0,7025.0,Manchester-City
+,Raheem Sterling,eng ENG,"FW,MF",30,23,5.0,13.0,2021-2022,b400bde0,Manchester-City,"2,128",23.6,1.0,0.0,127.0,6.0,,Manchester-City
+,Jack Grealish,eng ENG,"FW,MF",26,22,3.0,3.0,2021-2022,b0b4fd3e,Manchester-City,"1,914",21.3,3.0,0.0,127.0,6.0,7037.0,Manchester-City
+,Gabriel Jesus,br BRA,FW,28,21,8.0,8.0,2021-2022,b66315ae,Manchester-City,"1,877",20.9,1.0,0.0,127.0,2.0,7019.0,Manchester-City
+,İlkay Gündoğan,de GER,MF,27,20,4.0,8.0,2021-2022,819b3158,Manchester-City,"1,857",20.6,1.0,0.0,127.0,13.0,7018.0,Manchester-City
+,Kyle Walker,eng ENG,DF,20,20,2.0,0.0,2021-2022,86dd77d1,Manchester-City,"1,755",19.5,1.0,0.0,127.0,6.0,7021.0,Manchester-City
+,Riyad Mahrez,dz ALG,"FW,MF",28,15,5.0,11.0,2021-2022,892d5bb1,Manchester-City,"1,498",16.6,0.0,0.0,127.0,37.0,7027.0,Manchester-City
+,John Stones,eng ENG,DF,14,12,0.0,1.0,2021-2022,5eecec3d,Manchester-City,"1,119",12.4,0.0,0.0,127.0,6.0,,Manchester-City
+,Oleksandr Zinchenko,ua UKR,DF,15,10,4.0,0.0,2021-2022,51cf8561,Manchester-City,"1,047",11.6,0.0,0.0,127.0,29.0,7023.0,Manchester-City
+,Fernandinho,br BRA,"MF,DF",19,10,1.0,2.0,2021-2022,101da2b5,Manchester-City,964,10.7,1.0,0.0,127.0,2.0,7008.0,Manchester-City
+,Nathan Aké,nl NED,DF,14,10,0.0,2.0,2021-2022,ca114,Manchester-City,923,10.3,0.0,0.0,127.0,11.0,,Manchester-City
+,Ferrán Torres,es ESP,FW,4,4,1.0,2.0,2021-2022,9e1035f8,Manchester-City,303,3.4,0.0,0.0,127.0,1.0,,Manchester-City
+,Cole Palmer,eng ENG,"FW,MF",4,1,0.0,0.0,2021-2022,dc7f8a28,Manchester-City,123,1.4,0.0,0.0,127.0,6.0,7035.0,Manchester-City
+,Zack Steffen,us USA,GK,1,1,0.0,0.0,2021-2022,42130443,Manchester-City,90,1.0,0.0,0.0,127.0,75.0,7030.0,Manchester-City
+,Benjamin Mendy,fr FRA,DF,1,1,0.0,0.0,2021-2022,5271c8f1,Manchester-City,78,0.9,0.0,0.0,127.0,4.0,7024.0,Manchester-City
+,James Mcatee,eng ENG,"MF,FW",2,0,0.0,0.0,2021-2022,96593e89,Manchester-City,20,0.2,0.0,0.0,127.0,6.0,,Manchester-City
+,Liam Delap,eng ENG,FW,1,0,0.0,0.0,2021-2022,dd897ee7,Manchester-City,10,0.1,0.0,0.0,127.0,6.0,7031.0,Manchester-City
+,Kayky Chagas,br BRA,FW,1,0,0.0,0.0,2021-2022,17734ea0,Manchester-City,7,0.1,0.0,0.0,127.0,2.0,7039.0,Manchester-City
+,CJ Egan-Riley,eng ENG,DF,1,0,0.0,0.0,2021-2022,d313e8ff,Manchester-City,4,0.0,0.0,0.0,127.0,6.0,7040.0,Manchester-City
+,Scott Carson,eng ENG,GK,0,0,,,2021-2022,3e1550ee,Manchester-City,,,,,127.0,6.0,,Manchester-City
+,Thomas Doyle,eng ENG,MF,0,0,,,2021-2022,5526deb1,Manchester-City,,,,,127.0,6.0,7028.0,Manchester-City
+,Samuel Edozie,eng ENG,FW,0,0,,,2021-2022,007414dd,Manchester-City,,,,,127.0,6.0,7041.0,Manchester-City
+,Roméo Lavia,be BEL,MF,0,0,,,2021-2022,cad9aa5,Manchester-City,,,,,127.0,27.0,7042.0,Manchester-City
+,Luke Mbete-Tatu,eng ENG,DF,0,0,,,2021-2022,387e1d35,Manchester-City,,,,,127.0,6.0,7034.0,Manchester-City
+,Cieran Slicker,sct SCO,GK,0,0,,,2021-2022,02aed921,Manchester-City,,,,,127.0,67.0,7043.0,Manchester-City
+,Josh Wilson-Esbrand,eng ENG,DF,0,0,,,2021-2022,c19a2df1,Manchester-City,,,,,127.0,6.0,7044.0,Manchester-City

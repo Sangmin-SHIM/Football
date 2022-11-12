@@ -1,0 +1,582 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿César Cruchaga,es ESP,DF,36,36,3.0,0.0,2002-2003,8ba9d44,Osasuna,"3,219",35.8,10.0,1.0,47.0,1.0,1977.0,Osasuna
+,Antonio López,es ESP,"DF,MF",36,36,3.0,2.0,2002-2003,55190d5,Osasuna,"3,169",35.2,7.0,0.0,47.0,1.0,,Osasuna
+,Ricardo Sanzol,es ESP,GK,34,33,0.0,0.0,2002-2003,1aa419de,Osasuna,"2,985",33.2,3.0,0.0,47.0,1.0,1978.0,Osasuna
+,Iván Rosado,es ESP,FW,32,32,4.0,6.0,2002-2003,21bbfc0b,Osasuna,"2,606",29.0,4.0,0.0,47.0,1.0,1979.0,Osasuna
+,Francisco Puñal,es ESP,MF,34,31,1.0,2.0,2002-2003,408ec22e,Osasuna,"2,566",28.5,13.0,1.0,47.0,1.0,1980.0,Osasuna
+,Gerardo Rivero,ar ARG,MF,33,29,2.0,7.0,2002-2003,fec0ded5,Osasuna,"2,447",27.2,6.0,1.0,47.0,5.0,1981.0,Osasuna
+,José Manuel Mateo,es ESP,DF,27,26,0.0,1.0,2002-2003,d7458f0a,Osasuna,"2,332",25.9,6.0,0.0,47.0,1.0,1982.0,Osasuna
+,John Aloisi,au AUS,FW,32,25,3.0,8.0,2002-2003,747e3a0d,Osasuna,"2,268",25.2,3.0,1.0,47.0,42.0,1983.0,Osasuna
+,Alfredo,es ESP,MF,31,21,2.0,1.0,2002-2003,f150686a,Osasuna,"1,908",21.2,8.0,0.0,47.0,1.0,1984.0,Osasuna
+,Josetxo,es ESP,DF,21,21,0.0,0.0,2002-2003,c1a297b4,Osasuna,"1,869",20.8,7.0,0.0,47.0,1.0,1985.0,Osasuna
+,Pablo García,uy URU,"DF,MF",21,20,5.0,1.0,2002-2003,911299ca,Osasuna,"1,665",18.5,9.0,1.0,47.0,8.0,41.0,Osasuna
+,Moha,ma MAR,"DF,FW",27,16,1.0,3.0,2002-2003,3d09e03,Osasuna,"1,410",15.7,4.0,0.0,47.0,26.0,,Osasuna
+,Leonel Gancedo,ar ARG,MF,28,15,0.0,1.0,2002-2003,cc525f3d,Osasuna,"1,496",16.6,5.0,0.0,47.0,5.0,1986.0,Osasuna
+,José Manuel Yanguas,es ESP,DF,15,15,0.0,0.0,2002-2003,3a7b7e,Osasuna,"1,321",14.7,3.0,0.0,47.0,1.0,1987.0,Osasuna
+,José Izquierdo,es ESP,DF,13,12,0.0,0.0,2002-2003,f6a5a723,Osasuna,"1,066",11.8,2.0,0.0,47.0,1.0,1988.0,Osasuna
+,Valdo,cv CPV,"FW,MF",13,10,0.0,1.0,2002-2003,5d34e206,Osasuna,914,10.2,3.0,0.0,47.0,85.0,1989.0,Osasuna
+,Iñaki Muñoz,es ESP,MF,20,9,0.0,3.0,2002-2003,47a19ca1,Osasuna,887,9.9,4.0,1.0,47.0,1.0,,Osasuna
+,Christian Manfredini,ci CIV,MF,11,9,0.0,1.0,2002-2003,339ae404,Osasuna,675,7.5,1.0,0.0,47.0,35.0,1990.0,Osasuna
+,Richard Morales,uy URU,FW,14,5,0.0,0.0,2002-2003,6ec5c12a,Osasuna,526,5.8,3.0,0.0,47.0,8.0,1991.0,Osasuna
+,Manuel Vidrio,mx MEX,DF,5,5,,1.0,2002-2003,902aa75f,Osasuna,450,5.0,0.0,0.0,47.0,20.0,1992.0,Osasuna
+,Juan Carlos Unzué,es ESP,GK,5,5,0.0,0.0,2002-2003,d3cfa24a,Osasuna,435,4.8,0.0,0.0,47.0,1.0,1993.0,Osasuna
+,Paqui,es ESP,DF,6,4,1.0,0.0,2002-2003,cf8ddf0b,Osasuna,317,3.5,4.0,1.0,47.0,1.0,1994.0,Osasuna
+,César Palacios,es ESP,MF,16,3,1.0,1.0,2002-2003,dc32054b,Osasuna,398,4.4,1.0,0.0,47.0,1.0,1995.0,Osasuna
+,Gorka Brit,es ESP,FW,13,2,0.0,1.0,2002-2003,18fea665,Osasuna,421,4.7,0.0,0.0,47.0,1.0,1996.0,Osasuna
+,Carlos Ochoa,mx MEX,FW,3,0,0.0,0.0,2002-2003,cfc2e8c9,Osasuna,64,0.7,0.0,0.0,47.0,20.0,1997.0,Osasuna
+,Gorka de Carlos,es ESP,FW,3,0,0.0,0.0,2002-2003,d0ebf2ea,Osasuna,28,0.3,0.0,0.0,47.0,1.0,1998.0,Osasuna
+,Ángel Lekumberri,es ESP,MF,1,0,0.0,0.0,2002-2003,7f69653,Osasuna,7,0.1,0.0,0.0,47.0,1.0,1999.0,Osasuna
+,﻿José Izquierdo,es ESP,DF,35,35,2.0,1.0,2003-2004,f6a5a723,Osasuna,"3,130",34.8,10.0,0.0,47.0,1.0,1988.0,Osasuna
+,Antonio López,es ESP,"DF,MF",35,35,2.0,0.0,2003-2004,55190d5,Osasuna,"3,105",34.5,9.0,1.0,47.0,1.0,,Osasuna
+,Francisco Puñal,es ESP,MF,35,35,5.0,4.0,2003-2004,408ec22e,Osasuna,"3,039",33.8,15.0,0.0,47.0,1.0,1980.0,Osasuna
+,Ricardo Sanzol,es ESP,GK,34,34,0.0,0.0,2003-2004,1aa419de,Osasuna,"3,060",34.0,1.0,0.0,47.0,1.0,1978.0,Osasuna
+,César Cruchaga,es ESP,DF,34,34,0.0,1.0,2003-2004,8ba9d44,Osasuna,"3,031",33.7,5.0,1.0,47.0,1.0,1977.0,Osasuna
+,Valdo,cv CPV,"FW,MF",35,33,4.0,5.0,2003-2004,5d34e206,Osasuna,"2,755",30.6,5.0,0.0,47.0,85.0,1989.0,Osasuna
+,Josetxo,es ESP,DF,32,32,0.0,0.0,2003-2004,c1a297b4,Osasuna,"2,823",31.4,8.0,0.0,47.0,1.0,1985.0,Osasuna
+,Moha,ma MAR,"DF,FW",30,30,1.0,2.0,2003-2004,3d09e03,Osasuna,"2,400",26.7,6.0,2.0,47.0,26.0,,Osasuna
+,John Aloisi,au AUS,FW,33,30,4.0,6.0,2003-2004,747e3a0d,Osasuna,"2,364",26.3,5.0,0.0,47.0,42.0,1983.0,Osasuna
+,Pablo García,uy URU,"DF,MF",27,27,2.0,4.0,2003-2004,911299ca,Osasuna,"2,394",26.6,14.0,1.0,47.0,8.0,41.0,Osasuna
+,Ibrahima Bakayoko,ci CIV,FW,26,20,3.0,4.0,2003-2004,db4c20fe,Osasuna,"1,679",18.7,3.0,1.0,47.0,35.0,2000.0,Osasuna
+,Iñaki Muñoz,es ESP,MF,29,15,1.0,1.0,2003-2004,47a19ca1,Osasuna,"1,590",17.7,3.0,0.0,47.0,1.0,,Osasuna
+,Pierre Webó,cm CMR,FW,28,12,1.0,4.0,2003-2004,3d6f05ea,Osasuna,"1,186",13.2,3.0,0.0,47.0,36.0,,Osasuna
+,Alfredo,es ESP,MF,15,7,0.0,0.0,2003-2004,f150686a,Osasuna,758,8.4,8.0,2.0,47.0,1.0,1984.0,Osasuna
+,Gerardo Rivero,ar ARG,MF,16,6,0.0,0.0,2003-2004,fec0ded5,Osasuna,651,7.2,0.0,0.0,47.0,5.0,1981.0,Osasuna
+,José Manuel Mateo,es ESP,DF,9,6,0.0,0.0,2003-2004,d7458f0a,Osasuna,642,7.1,1.0,0.0,47.0,1.0,1982.0,Osasuna
+,Richard Morales,uy URU,FW,12,6,0.0,2.0,2003-2004,6ec5c12a,Osasuna,554,6.2,3.0,1.0,47.0,8.0,1991.0,Osasuna
+,Iván Rosado,es ESP,FW,15,4,0.0,1.0,2003-2004,21bbfc0b,Osasuna,508,5.6,0.0,0.0,47.0,1.0,1979.0,Osasuna
+,Gorka García,es ESP,DF,10,4,0.0,0.0,2003-2004,07adf7c8,Osasuna,492,5.5,2.0,0.0,47.0,1.0,2001.0,Osasuna
+,Carlos Cuéllar,es ESP,DF,5,4,0.0,0.0,2003-2004,1222ab35,Osasuna,368,4.1,1.0,0.0,47.0,1.0,2002.0,Osasuna
+,Juan Elía,es ESP,GK,4,4,0.0,0.0,2003-2004,50ce646b,Osasuna,360,4.0,0.0,0.0,47.0,1.0,2003.0,Osasuna
+,Unai Expósito,es ESP,DF,3,3,0.0,0.0,2003-2004,3aca2200,Osasuna,207,2.3,0.0,0.0,47.0,1.0,,Osasuna
+,César Palacios,es ESP,MF,15,1,0.0,0.0,2003-2004,dc32054b,Osasuna,191,2.1,0.0,0.0,47.0,1.0,1995.0,Osasuna
+,Julio César Pinheiro,br BRA,MF,6,1,0.0,0.0,2003-2004,669d5615,Osasuna,175,1.9,2.0,1.0,47.0,2.0,2004.0,Osasuna
+,Juan Ángel Seguro,mx MEX,MF,2,0,0.0,0.0,2003-2004,241f0a81,Osasuna,28,0.3,0.0,0.0,47.0,20.0,2005.0,Osasuna
+,﻿Francisco Puñal,es ESP,MF,35,33,1.0,3.0,2004-2005,408ec22e,Osasuna,"2,778",30.9,12.0,0.0,47.0,1.0,1980.0,Osasuna
+,César Cruchaga,es ESP,DF,30,30,0.0,0.0,2004-2005,8ba9d44,Osasuna,"2,624",29.2,6.0,1.0,47.0,1.0,1977.0,Osasuna
+,Josetxo,es ESP,DF,29,29,0.0,0.0,2004-2005,c1a297b4,Osasuna,"2,610",29.0,9.0,1.0,47.0,1.0,1985.0,Osasuna
+,Pablo García,uy URU,"DF,MF",29,27,3.0,1.0,2004-2005,911299ca,Osasuna,"2,441",27.1,19.0,1.0,47.0,8.0,41.0,Osasuna
+,Enrique Corrales,es ESP,DF,27,27,2.0,1.0,2004-2005,8dbcf66,Osasuna,"2,430",27.0,7.0,0.0,47.0,1.0,,Osasuna
+,Moha,ma MAR,"DF,FW",35,23,2.0,3.0,2004-2005,3d09e03,Osasuna,"2,152",23.9,8.0,1.0,47.0,26.0,,Osasuna
+,Juan Elía,es ESP,GK,22,22,0.0,0.0,2004-2005,50ce646b,Osasuna,"1,980",22.0,2.0,0.0,47.0,1.0,2003.0,Osasuna
+,Valdo,cv CPV,"FW,MF",27,21,3.0,5.0,2004-2005,5d34e206,Osasuna,"1,791",19.9,2.0,0.0,47.0,85.0,1989.0,Osasuna
+,Pierre Webó,cm CMR,FW,24,21,1.0,6.0,2004-2005,3d6f05ea,Osasuna,"1,636",18.2,2.0,0.0,47.0,36.0,,Osasuna
+,Unai Expósito,es ESP,DF,20,19,2.0,0.0,2004-2005,3aca2200,Osasuna,"1,737",19.3,5.0,0.0,47.0,1.0,,Osasuna
+,José Izquierdo,es ESP,DF,20,19,0.0,0.0,2004-2005,f6a5a723,Osasuna,"1,707",19.0,5.0,3.0,47.0,1.0,1988.0,Osasuna
+,Richard Morales,uy URU,FW,24,19,2.0,9.0,2004-2005,6ec5c12a,Osasuna,"1,682",18.7,6.0,0.0,47.0,8.0,1991.0,Osasuna
+,Savo Milošević,rs SRB,FW,27,17,1.0,6.0,2004-2005,bab73c39,Osasuna,"1,580",17.6,4.0,0.0,47.0,28.0,,Osasuna
+,Ricardo Sanzol,es ESP,GK,16,16,0.0,0.0,2004-2005,1aa419de,Osasuna,"1,440",16.0,0.0,0.0,47.0,1.0,1978.0,Osasuna
+,Ludovic Delporte,fr FRA,MF,28,16,7.0,0.0,2004-2005,7c2c4c3e,Osasuna,"1,434",15.9,8.0,0.0,47.0,4.0,2006.0,Osasuna
+,Iñaki Muñoz,es ESP,MF,26,15,4.0,1.0,2004-2005,47a19ca1,Osasuna,"1,538",17.1,5.0,0.0,47.0,1.0,,Osasuna
+,John Aloisi,au AUS,FW,26,15,3.0,6.0,2004-2005,747e3a0d,Osasuna,"1,315",14.6,3.0,0.0,47.0,42.0,1983.0,Osasuna
+,Juan Manuel Ortiz,es ESP,"DF,MF",22,15,1.0,2.0,2004-2005,77513881,Osasuna,"1,137",12.6,3.0,0.0,47.0,1.0,2007.0,Osasuna
+,Carlos Cuéllar,es ESP,DF,14,12,0.0,0.0,2004-2005,1222ab35,Osasuna,"1,178",13.1,5.0,1.0,47.0,1.0,2002.0,Osasuna
+,Rafael Clavero,es ESP,DF,11,11,0.0,0.0,2004-2005,1590d66a,Osasuna,990,11.0,5.0,0.0,47.0,1.0,2008.0,Osasuna
+,David López,es ESP,MF,13,5,1.0,1.0,2004-2005,698164e,Osasuna,600,6.7,1.0,0.0,47.0,1.0,,Osasuna
+,Miguel Flaño,es ESP,DF,7,5,0.0,0.0,2004-2005,1662668d,Osasuna,512,5.7,1.0,0.0,47.0,1.0,2009.0,Osasuna
+,Iván Rosado,es ESP,FW,7,1,0.0,0.0,2004-2005,21bbfc0b,Osasuna,212,2.4,0.0,0.0,47.0,1.0,1979.0,Osasuna
+,Raúl García,es ESP,"FW,MF",2,0,0.0,0.0,2004-2005,b418dbd4,Osasuna,37,0.4,1.0,0.0,47.0,1.0,,Osasuna
+,Luis Alfonso Sota Yoldi,,,1,0,,0.0,2004-2005,01acddf7,Osasuna,33,0.4,0.0,0.0,47.0,,,Osasuna
+,﻿Francisco Puñal,es ESP,MF,34,32,3.0,4.0,2005-2006,408ec22e,Osasuna,"2,778",30.9,10.0,1.0,47.0,1.0,1980.0,Osasuna
+,Savo Milošević,rs SRB,FW,32,31,6.0,11.0,2005-2006,bab73c39,Osasuna,"2,548",28.3,4.0,0.0,47.0,28.0,,Osasuna
+,Ricardo,es ESP,GK,30,30,0.0,0.0,2005-2006,2fe713ed,Osasuna,"2,700",30.0,5.0,0.0,47.0,1.0,2010.0,Osasuna
+,Javier Flaño,es ESP,DF,30,30,1.0,0.0,2005-2006,8e9ccfb8,Osasuna,"2,633",29.3,6.0,0.0,47.0,1.0,2011.0,Osasuna
+,David López,es ESP,MF,34,29,5.0,6.0,2005-2006,698164e,Osasuna,"2,534",28.2,2.0,0.0,47.0,1.0,,Osasuna
+,Raúl García,es ESP,"FW,MF",33,28,2.0,5.0,2005-2006,b418dbd4,Osasuna,"2,471",27.5,8.0,0.0,47.0,1.0,,Osasuna
+,Josetxo,es ESP,DF,29,28,0.0,0.0,2005-2006,c1a297b4,Osasuna,"2,450",27.2,8.0,0.0,47.0,1.0,1985.0,Osasuna
+,Carlos Cuéllar,es ESP,DF,29,27,1.0,1.0,2005-2006,1222ab35,Osasuna,"2,455",27.3,6.0,0.0,47.0,1.0,2002.0,Osasuna
+,Rafael Clavero,es ESP,DF,22,21,0.0,0.0,2005-2006,1590d66a,Osasuna,"1,833",20.4,7.0,2.0,47.0,1.0,2008.0,Osasuna
+,Ludovic Delporte,fr FRA,MF,27,21,8.0,3.0,2005-2006,7c2c4c3e,Osasuna,"1,795",19.9,8.0,1.0,47.0,4.0,2006.0,Osasuna
+,Bernardo Romeo,ar ARG,FW,24,19,2.0,4.0,2005-2006,d46625bb,Osasuna,"1,419",15.8,6.0,0.0,47.0,5.0,,Osasuna
+,Pierre Webó,cm CMR,FW,31,17,3.0,6.0,2005-2006,3d6f05ea,Osasuna,"1,771",19.7,4.0,0.0,47.0,36.0,,Osasuna
+,Enrique Corrales,es ESP,DF,18,17,0.0,0.0,2005-2006,8dbcf66,Osasuna,"1,561",17.3,8.0,0.0,47.0,1.0,,Osasuna
+,Iñaki Muñoz,es ESP,MF,29,16,2.0,5.0,2005-2006,47a19ca1,Osasuna,"1,586",17.6,6.0,1.0,47.0,1.0,,Osasuna
+,Moha,ma MAR,"DF,FW",27,15,1.0,2.0,2005-2006,3d09e03,Osasuna,"1,341",14.9,8.0,1.0,47.0,26.0,,Osasuna
+,César Cruchaga,es ESP,DF,20,12,0.0,0.0,2005-2006,8ba9d44,Osasuna,"1,217",13.5,2.0,0.0,47.0,1.0,1977.0,Osasuna
+,Valdo,cv CPV,"FW,MF",19,12,0.0,2.0,2005-2006,5d34e206,Osasuna,"1,102",12.2,2.0,0.0,47.0,85.0,1989.0,Osasuna
+,Miguel Flaño,es ESP,DF,13,10,0.0,0.0,2005-2006,1662668d,Osasuna,962,10.7,4.0,1.0,47.0,1.0,2009.0,Osasuna
+,Juan Elía,es ESP,GK,8,8,0.0,0.0,2005-2006,50ce646b,Osasuna,720,8.0,3.0,0.0,47.0,1.0,2003.0,Osasuna
+,José Izquierdo,es ESP,DF,7,7,0.0,0.0,2005-2006,f6a5a723,Osasuna,566,6.3,2.0,0.0,47.0,1.0,1988.0,Osasuna
+,Marcelo Sosa,uy URU,MF,11,3,0.0,0.0,2005-2006,08ada3d0,Osasuna,428,4.8,4.0,0.0,47.0,8.0,2012.0,Osasuna
+,Juan Manuel Ortiz,es ESP,"DF,MF",8,3,0.0,0.0,2005-2006,77513881,Osasuna,315,3.5,1.0,0.0,47.0,1.0,2007.0,Osasuna
+,Fran Moreno,es ESP,MF,7,2,0.0,0.0,2005-2006,12096092,Osasuna,192,2.1,1.0,0.0,47.0,1.0,2013.0,Osasuna
+,Gorka Brit,es ESP,FW,4,0,0.0,0.0,2005-2006,18fea665,Osasuna,75,0.8,0.0,0.0,47.0,1.0,1996.0,Osasuna
+,﻿Ricardo,es ESP,GK,36,35,0.0,0.0,2006-2007,2fe713ed,Osasuna,"3,180",35.3,4.0,1.0,47.0,1.0,2010.0,Osasuna
+,Enrique Corrales,es ESP,DF,28,28,1.0,0.0,2006-2007,8dbcf66,Osasuna,"2,504",27.8,10.0,0.0,47.0,1.0,,Osasuna
+,Francisco Puñal,es ESP,MF,32,28,8.0,3.0,2006-2007,408ec22e,Osasuna,"2,420",26.9,6.0,0.0,47.0,1.0,1980.0,Osasuna
+,Javier Flaño,es ESP,DF,27,27,0.0,1.0,2006-2007,8e9ccfb8,Osasuna,"2,341",26.0,9.0,0.0,47.0,1.0,2011.0,Osasuna
+,Raúl García,es ESP,"FW,MF",33,26,1.0,4.0,2006-2007,b418dbd4,Osasuna,"2,467",27.4,8.0,1.0,47.0,1.0,,Osasuna
+,David López,es ESP,MF,31,26,5.0,4.0,2006-2007,698164e,Osasuna,"2,350",26.1,2.0,0.0,47.0,1.0,,Osasuna
+,Carlos Cuéllar,es ESP,DF,23,23,0.0,1.0,2006-2007,1222ab35,Osasuna,"2,016",22.4,10.0,1.0,47.0,1.0,2002.0,Osasuna
+,Valdo,cv CPV,"FW,MF",26,21,4.0,6.0,2006-2007,5d34e206,Osasuna,"1,932",21.5,7.0,0.0,47.0,85.0,1989.0,Osasuna
+,Roberto Soldado,es ESP,FW,30,21,2.0,11.0,2006-2007,9d66fbe3,Osasuna,"1,790",19.9,6.0,1.0,47.0,1.0,46.0,Osasuna
+,Javad Nekounam,ir IRN,MF,24,20,2.0,2.0,2006-2007,baccd726,Osasuna,"1,836",20.4,5.0,0.0,47.0,86.0,2014.0,Osasuna
+,Josetxo,es ESP,DF,19,19,0.0,0.0,2006-2007,c1a297b4,Osasuna,"1,691",18.8,7.0,1.0,47.0,1.0,1985.0,Osasuna
+,Savo Milošević,rs SRB,FW,23,18,2.0,4.0,2006-2007,bab73c39,Osasuna,"1,541",17.1,3.0,0.0,47.0,28.0,,Osasuna
+,César Cruchaga,es ESP,DF,18,17,0.0,2.0,2006-2007,8ba9d44,Osasuna,"1,540",17.1,3.0,0.0,47.0,1.0,1977.0,Osasuna
+,Miguel Flaño,es ESP,DF,17,17,0.0,1.0,2006-2007,1662668d,Osasuna,"1,530",17.0,2.0,0.0,47.0,1.0,2009.0,Osasuna
+,Juanfran,es ESP,"DF,MF",28,16,2.0,2.0,2006-2007,cfd8d664,Osasuna,"1,593",17.7,5.0,0.0,47.0,1.0,27.0,Osasuna
+,Pierre Webó,cm CMR,FW,31,13,1.0,4.0,2006-2007,3d6f05ea,Osasuna,"1,302",14.5,1.0,0.0,47.0,36.0,,Osasuna
+,José Izquierdo,es ESP,DF,11,11,1.0,1.0,2006-2007,f6a5a723,Osasuna,964,10.7,2.0,0.0,47.0,1.0,1988.0,Osasuna
+,Nacho Monreal,es ESP,DF,10,10,0.0,0.0,2006-2007,d4cb83cc,Osasuna,900,10.0,3.0,0.0,47.0,1.0,,Osasuna
+,Iñaki Muñoz,es ESP,MF,20,9,1.0,1.0,2006-2007,47a19ca1,Osasuna,744,8.3,3.0,0.0,47.0,1.0,,Osasuna
+,Juanlu,es ESP,MF,18,8,0.0,1.0,2006-2007,94b88487,Osasuna,708,7.9,1.0,0.0,47.0,1.0,,Osasuna
+,Héctor Font,es ESP,MF,17,7,3.0,0.0,2006-2007,9982593d,Osasuna,706,7.8,6.0,0.0,47.0,1.0,2015.0,Osasuna
+,Ludovic Delporte,fr FRA,MF,8,7,0.0,0.0,2006-2007,7c2c4c3e,Osasuna,555,6.2,4.0,0.0,47.0,4.0,2006.0,Osasuna
+,Jon Erice,es ESP,MF,5,4,0.0,0.0,2006-2007,39da8b1f,Osasuna,369,4.1,0.0,0.0,47.0,1.0,2016.0,Osasuna
+,Bernardo Romeo,ar ARG,FW,8,4,0.0,0.0,2006-2007,d46625bb,Osasuna,295,3.3,1.0,0.0,47.0,5.0,,Osasuna
+,Juan Elía,es ESP,GK,3,3,0.0,0.0,2006-2007,50ce646b,Osasuna,240,2.7,0.0,0.0,47.0,1.0,2003.0,Osasuna
+,Enrique Sola,es ESP,FW,2,0,0.0,2.0,2006-2007,bef2e50e,Osasuna,42,0.5,1.0,0.0,47.0,1.0,,Osasuna
+,César Azpilicueta,es ESP,"DF,MF",1,0,,0.0,2006-2007,53cad200,Osasuna,25,0.3,0.0,0.0,47.0,1.0,2017.0,Osasuna
+,Jokin Esparza,es ESP,"FW,MF",1,0,,0.0,2006-2007,04db7b72,Osasuna,7,0.1,0.0,0.0,47.0,1.0,2018.0,Osasuna
+,﻿Ricardo,es ESP,GK,37,37,0.0,0.0,2007-2008,2fe713ed,Osasuna,"3,247",36.1,6.0,2.0,47.0,1.0,2010.0,Osasuna
+,Francisco Puñal,es ESP,MF,35,34,3.0,2.0,2007-2008,408ec22e,Osasuna,"2,983",33.1,13.0,0.0,47.0,1.0,1980.0,Osasuna
+,Juanfran,es ESP,"DF,MF",34,31,2.0,3.0,2007-2008,cfd8d664,Osasuna,"2,592",28.8,7.0,0.0,47.0,1.0,27.0,Osasuna
+,Jaroslav Plašil,cz CZE,MF,34,30,5.0,4.0,2007-2008,516dc25b,Osasuna,"2,608",29.0,4.0,0.0,47.0,84.0,2019.0,Osasuna
+,César Azpilicueta,es ESP,"DF,MF",29,28,1.0,0.0,2007-2008,53cad200,Osasuna,"2,585",28.7,8.0,0.0,47.0,1.0,2017.0,Osasuna
+,Miguel Flaño,es ESP,DF,28,28,0.0,1.0,2007-2008,1662668d,Osasuna,"2,475",27.5,10.0,0.0,47.0,1.0,2009.0,Osasuna
+,Nacho Monreal,es ESP,DF,27,27,1.0,1.0,2007-2008,d4cb83cc,Osasuna,"2,430",27.0,6.0,0.0,47.0,1.0,,Osasuna
+,César Cruchaga,es ESP,DF,28,26,0.0,2.0,2007-2008,8ba9d44,Osasuna,"2,373",26.4,5.0,1.0,47.0,1.0,1977.0,Osasuna
+,Carlos Vela,mx MEX,"FW,MF",33,21,4.0,3.0,2007-2008,0cd04e0,Osasuna,"1,977",22.0,6.0,0.0,47.0,20.0,,Osasuna
+,Javi García,es ESP,"DF,MF",25,21,0.0,2.0,2007-2008,167c1bb0,Osasuna,"1,828",20.3,5.0,2.0,47.0,1.0,35.0,Osasuna
+,Josetxo,es ESP,DF,21,21,1.0,0.0,2007-2008,c1a297b4,Osasuna,"1,747",19.4,13.0,2.0,47.0,1.0,1985.0,Osasuna
+,Dady,cv CPV,FW,30,19,1.0,7.0,2007-2008,00d9c74d,Osasuna,"1,822",20.2,6.0,0.0,47.0,85.0,2020.0,Osasuna
+,Héctor Font,es ESP,MF,32,15,1.0,2.0,2007-2008,9982593d,Osasuna,"1,682",18.7,3.0,0.0,47.0,1.0,2015.0,Osasuna
+,Enrique Sola,es ESP,FW,20,12,0.0,3.0,2007-2008,bef2e50e,Osasuna,"1,084",12.0,2.0,0.0,47.0,1.0,,Osasuna
+,Enrique Corrales,es ESP,DF,12,11,0.0,0.0,2007-2008,8dbcf66,Osasuna,982,10.9,3.0,1.0,47.0,1.0,,Osasuna
+,Xavier Margairaz,ch SUI,MF,13,11,0.0,0.0,2007-2008,6335f692,Osasuna,716,8.0,2.0,0.0,47.0,39.0,2021.0,Osasuna
+,Martín Astudillo,ar ARG,MF,13,10,0.0,1.0,2007-2008,fda30cfc,Osasuna,904,10.0,2.0,0.0,47.0,5.0,2022.0,Osasuna
+,Javier Portillo,es ESP,FW,18,9,0.0,2.0,2007-2008,99058498,Osasuna,838,9.3,1.0,1.0,47.0,1.0,19.0,Osasuna
+,José Izquierdo,es ESP,DF,9,9,0.0,0.0,2007-2008,f6a5a723,Osasuna,810,9.0,2.0,0.0,47.0,1.0,1988.0,Osasuna
+,Walter Pandiani,uy URU,FW,18,7,0.0,2.0,2007-2008,11899bb1,Osasuna,719,8.0,3.0,0.0,47.0,8.0,,Osasuna
+,Javier Flaño,es ESP,DF,4,4,0.0,0.0,2007-2008,8e9ccfb8,Osasuna,266,3.0,0.0,0.0,47.0,1.0,2011.0,Osasuna
+,Jon Erice,es ESP,MF,5,2,0.0,0.0,2007-2008,39da8b1f,Osasuna,179,2.0,1.0,0.0,47.0,1.0,2016.0,Osasuna
+,Ludovic Delporte,fr FRA,MF,9,2,0.0,0.0,2007-2008,7c2c4c3e,Osasuna,172,1.9,0.0,0.0,47.0,4.0,2006.0,Osasuna
+,Hugo Viana,pt POR,MF,9,1,1.0,1.0,2007-2008,9a5542cc,Osasuna,248,2.8,2.0,0.0,47.0,3.0,,Osasuna
+,Juan Elía,es ESP,GK,3,1,0.0,0.0,2007-2008,50ce646b,Osasuna,123,1.4,1.0,1.0,47.0,1.0,2003.0,Osasuna
+,Jokin Esparza,es ESP,"FW,MF",2,1,0.0,0.0,2007-2008,04db7b72,Osasuna,48,0.5,0.0,0.0,47.0,1.0,2018.0,Osasuna
+,Andrés Fernández,es ESP,GK,1,0,,0.0,2007-2008,307fcd26,Osasuna,41,0.5,0.0,0.0,47.0,1.0,2023.0,Osasuna
+,Javad Nekounam,ir IRN,MF,2,0,0.0,0.0,2007-2008,baccd726,Osasuna,26,0.3,0.0,0.0,47.0,86.0,2014.0,Osasuna
+,Ion Echaide,es ESP,DF,1,0,,0.0,2007-2008,2ad367bb,Osasuna,20,0.2,0.0,0.0,47.0,1.0,2024.0,Osasuna
+,﻿César Azpilicueta,es ESP,"DF,MF",36,36,0.0,0.0,2008-2009,53cad200,Osasuna,"3,190",35.4,8.0,1.0,47.0,1.0,2017.0,Osasuna
+,Javad Nekounam,ir IRN,MF,35,35,0.0,9.0,2008-2009,baccd726,Osasuna,"3,104",34.5,7.0,1.0,47.0,86.0,2014.0,Osasuna
+,Juanfran,es ESP,"DF,MF",35,34,4.0,2.0,2008-2009,cfd8d664,Osasuna,"2,631",29.2,7.0,1.0,47.0,1.0,27.0,Osasuna
+,Miguel Flaño,es ESP,DF,33,33,1.0,3.0,2008-2009,1662668d,Osasuna,"2,890",32.1,5.0,2.0,47.0,1.0,2009.0,Osasuna
+,Jaroslav Plašil,cz CZE,MF,32,32,7.0,4.0,2008-2009,516dc25b,Osasuna,"2,672",29.7,8.0,1.0,47.0,84.0,2019.0,Osasuna
+,Francisco Puñal,es ESP,MF,32,29,2.0,0.0,2008-2009,408ec22e,Osasuna,"2,420",26.9,13.0,1.0,47.0,1.0,1980.0,Osasuna
+,Nacho Monreal,es ESP,DF,28,28,2.0,0.0,2008-2009,d4cb83cc,Osasuna,"2,318",25.8,4.0,0.0,47.0,1.0,,Osasuna
+,Roberto,es ESP,GK,26,26,0.0,0.0,2008-2009,95cf42ac,Osasuna,"2,340",26.0,3.0,0.0,47.0,1.0,2025.0,Osasuna
+,Masoud Shojaei,ir IRN,MF,33,20,5.0,3.0,2008-2009,898d91e,Osasuna,"1,939",21.5,9.0,0.0,47.0,86.0,2026.0,Osasuna
+,Walter Pandiani,uy URU,FW,24,20,2.0,11.0,2008-2009,11899bb1,Osasuna,"1,797",20.0,9.0,1.0,47.0,8.0,,Osasuna
+,Sergio,es ESP,DF,15,15,0.0,1.0,2008-2009,7688c579,Osasuna,"1,267",14.1,2.0,2.0,47.0,1.0,,Osasuna
+,Krisztián Vadócz,hu HUN,MF,20,12,0.0,1.0,2008-2009,b4b0e333,Osasuna,"1,090",12.1,2.0,1.0,47.0,87.0,2027.0,Osasuna
+,Ricardo,es ESP,GK,12,12,0.0,0.0,2008-2009,2fe713ed,Osasuna,"1,080",12.0,2.0,0.0,47.0,1.0,2010.0,Osasuna
+,Josetxo,es ESP,DF,14,10,0.0,0.0,2008-2009,c1a297b4,Osasuna,"1,013",11.3,5.0,1.0,47.0,1.0,1985.0,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",10,9,1.0,0.0,2008-2009,466824fb,Osasuna,891,9.9,2.0,0.0,47.0,1.0,,Osasuna
+,César Cruchaga,es ESP,DF,10,9,0.0,0.0,2008-2009,8ba9d44,Osasuna,824,9.2,1.0,0.0,47.0,1.0,1977.0,Osasuna
+,Rovérsio,br BRA,DF,9,9,0.0,0.0,2008-2009,ba50a22c,Osasuna,759,8.4,1.0,1.0,47.0,2.0,,Osasuna
+,Enrique Sola,es ESP,FW,16,8,0.0,0.0,2008-2009,bef2e50e,Osasuna,780,8.7,1.0,0.0,47.0,1.0,,Osasuna
+,Dady,cv CPV,FW,14,8,0.0,3.0,2008-2009,00d9c74d,Osasuna,706,7.8,2.0,0.0,47.0,85.0,2020.0,Osasuna
+,Santiago Ezquerro,es ESP,FW,11,8,1.0,1.0,2008-2009,c836203d,Osasuna,646,7.2,0.0,0.0,47.0,1.0,,Osasuna
+,Javier Portillo,es ESP,FW,20,6,0.0,1.0,2008-2009,99058498,Osasuna,725,8.1,0.0,0.0,47.0,1.0,19.0,Osasuna
+,Javier Flaño,es ESP,DF,10,6,0.0,0.0,2008-2009,8e9ccfb8,Osasuna,586,6.5,4.0,0.0,47.0,1.0,2011.0,Osasuna
+,Héctor Font,es ESP,MF,20,5,0.0,1.0,2008-2009,9982593d,Osasuna,623,6.9,1.0,0.0,47.0,1.0,2015.0,Osasuna
+,Antonio Hidalgo,es ESP,MF,12,4,0.0,0.0,2008-2009,b5b88d6c,Osasuna,381,4.2,2.0,0.0,47.0,1.0,2028.0,Osasuna
+,Jokin Esparza,es ESP,"FW,MF",3,3,0.0,0.0,2008-2009,04db7b72,Osasuna,185,2.1,2.0,0.0,47.0,1.0,2018.0,Osasuna
+,Ludovic Delporte,fr FRA,MF,15,1,1.0,0.0,2008-2009,7c2c4c3e,Osasuna,384,4.3,5.0,0.0,47.0,4.0,2006.0,Osasuna
+,Sunny,ng NGA,MF,4,0,0.0,0.0,2008-2009,1eb38665,Osasuna,33,0.4,1.0,0.0,47.0,52.0,,Osasuna
+,Rúper,es ESP,MF,1,0,,0.0,2008-2009,570c4db3,Osasuna,3,0.0,0.0,0.0,47.0,1.0,2029.0,Osasuna
+,﻿Ricardo,es ESP,GK,36,36,0.0,0.0,2009-2010,2fe713ed,Osasuna,"3,240",36.0,4.0,0.0,47.0,1.0,2010.0,Osasuna
+,Javier Camuñas,es ESP,"FW,MF",36,34,6.0,3.0,2009-2010,bbc1db07,Osasuna,"3,036",33.7,4.0,0.0,47.0,1.0,,Osasuna
+,César Azpilicueta,es ESP,"DF,MF",33,33,0.0,0.0,2009-2010,53cad200,Osasuna,"2,970",33.0,7.0,0.0,47.0,1.0,2017.0,Osasuna
+,Juanfran,es ESP,"DF,MF",33,32,2.0,4.0,2009-2010,cfd8d664,Osasuna,"2,594",28.8,5.0,0.0,47.0,1.0,27.0,Osasuna
+,Miguel Flaño,es ESP,DF,32,31,0.0,1.0,2009-2010,1662668d,Osasuna,"2,804",31.2,5.0,1.0,47.0,1.0,2009.0,Osasuna
+,Nacho Monreal,es ESP,DF,31,31,0.0,1.0,2009-2010,d4cb83cc,Osasuna,"2,747",30.5,7.0,1.0,47.0,1.0,,Osasuna
+,Javad Nekounam,ir IRN,MF,31,31,0.0,3.0,2009-2010,baccd726,Osasuna,"2,598",28.9,4.0,2.0,47.0,86.0,2014.0,Osasuna
+,Walter Pandiani,uy URU,FW,29,28,1.0,11.0,2009-2010,11899bb1,Osasuna,"2,399",26.7,5.0,1.0,47.0,8.0,,Osasuna
+,Carlos Aranda,es ESP,FW,29,28,5.0,5.0,2009-2010,2b60c45d,Osasuna,"2,093",23.3,10.0,0.0,47.0,1.0,,Osasuna
+,Francisco Puñal,es ESP,MF,33,27,2.0,0.0,2009-2010,408ec22e,Osasuna,"2,452",27.2,11.0,0.0,47.0,1.0,1980.0,Osasuna
+,Sergio,es ESP,DF,24,24,0.0,0.0,2009-2010,7688c579,Osasuna,"2,099",23.3,1.0,2.0,47.0,1.0,,Osasuna
+,Masoud Shojaei,ir IRN,MF,36,18,1.0,2.0,2009-2010,898d91e,Osasuna,"1,668",18.5,4.0,0.0,47.0,86.0,2026.0,Osasuna
+,Josetxo,es ESP,DF,19,18,0.0,0.0,2009-2010,c1a297b4,Osasuna,"1,665",18.5,7.0,0.0,47.0,1.0,1985.0,Osasuna
+,Rúper,es ESP,MF,27,11,1.0,0.0,2009-2010,570c4db3,Osasuna,"1,120",12.4,2.0,2.0,47.0,1.0,2029.0,Osasuna
+,Krisztián Vadócz,hu HUN,MF,20,11,0.0,4.0,2009-2010,b4b0e333,Osasuna,"1,052",11.7,1.0,0.0,47.0,87.0,2027.0,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",11,8,0.0,0.0,2009-2010,466824fb,Osasuna,736,8.2,2.0,0.0,47.0,1.0,,Osasuna
+,Javier Calleja,es ESP,MF,22,6,1.0,0.0,2009-2010,3c99e7de,Osasuna,702,7.8,3.0,0.0,47.0,1.0,2030.0,Osasuna
+,Dady,cv CPV,FW,10,4,1.0,1.0,2009-2010,00d9c74d,Osasuna,346,3.8,1.0,0.0,47.0,85.0,2020.0,Osasuna
+,Rovérsio,br BRA,DF,3,3,0.0,0.0,2009-2010,ba50a22c,Osasuna,248,2.8,0.0,0.0,47.0,2.0,,Osasuna
+,Roberto,es ESP,GK,2,2,0.0,0.0,2009-2010,95cf42ac,Osasuna,180,2.0,0.0,0.0,47.0,1.0,2025.0,Osasuna
+,Ion Echaide,es ESP,DF,2,2,0.0,0.0,2009-2010,2ad367bb,Osasuna,166,1.8,1.0,0.0,47.0,1.0,2024.0,Osasuna
+,Jorge Galán,es ESP,FW,20,0,0.0,1.0,2009-2010,48a,Osasuna,390,4.3,0.0,0.0,47.0,1.0,2031.0,Osasuna
+,Jokin Esparza,es ESP,"FW,MF",5,0,0.0,0.0,2009-2010,04db7b72,Osasuna,96,1.1,0.0,0.0,47.0,1.0,2018.0,Osasuna
+,Javier Portillo,es ESP,FW,2,0,0.0,0.0,2009-2010,99058498,Osasuna,41,0.5,0.0,0.0,47.0,1.0,19.0,Osasuna
+,Alan Baró,es ESP,"DF,MF",1,0,0.0,0.0,2009-2010,44bdd1f9,Osasuna,2,0.0,0.0,0.0,47.0,1.0,2032.0,Osasuna
+,﻿Ricardo,es ESP,GK,38,38,0.0,0.0,2010-2011,2fe713ed,Osasuna,"3,420",38.0,2.0,0.0,47.0,1.0,2010.0,Osasuna
+,Francisco Puñal,es ESP,MF,33,32,3.0,0.0,2010-2011,408ec22e,Osasuna,"2,825",31.4,16.0,0.0,47.0,1.0,1980.0,Osasuna
+,Nacho Monreal,es ESP,DF,31,31,1.0,1.0,2010-2011,d4cb83cc,Osasuna,"2,754",30.6,7.0,1.0,47.0,1.0,,Osasuna
+,Javier Camuñas,es ESP,"FW,MF",31,30,4.0,4.0,2010-2011,bbc1db07,Osasuna,"2,542",28.2,4.0,1.0,47.0,1.0,,Osasuna
+,Miguel Flaño,es ESP,DF,30,28,0.0,2.0,2010-2011,1662668d,Osasuna,"2,571",28.6,5.0,0.0,47.0,1.0,2009.0,Osasuna
+,Javad Nekounam,ir IRN,MF,26,26,1.0,6.0,2010-2011,baccd726,Osasuna,"2,220",24.7,10.0,0.0,47.0,86.0,2014.0,Osasuna
+,Nélson Marcos,pt POR,DF,29,25,0.0,1.0,2010-2011,d0d41afb,Osasuna,"2,262",25.1,3.0,0.0,47.0,3.0,,Osasuna
+,Lolo,es ESP,"DF,MF",27,23,0.0,2.0,2010-2011,31c71140,Osasuna,"2,037",22.6,6.0,1.0,47.0,1.0,,Osasuna
+,Fernando Soriano,es ESP,MF,30,23,4.0,2.0,2010-2011,1aa72854,Osasuna,"1,858",20.6,12.0,1.0,47.0,1.0,2033.0,Osasuna
+,Damià Abella,es ESP,"DF,MF",27,22,0.0,0.0,2010-2011,35b4a15,Osasuna,"1,934",21.5,7.0,1.0,47.0,1.0,,Osasuna
+,Sergio,es ESP,DF,22,22,2.0,2.0,2010-2011,7688c579,Osasuna,"1,934",21.5,6.0,2.0,47.0,1.0,,Osasuna
+,Juanfran,es ESP,"DF,MF",18,18,2.0,1.0,2010-2011,cfd8d664,Osasuna,"1,544",17.2,3.0,0.0,47.0,1.0,27.0,Osasuna
+,Carlos Aranda,es ESP,FW,20,15,2.0,4.0,2010-2011,2b60c45d,Osasuna,"1,193",13.3,4.0,0.0,47.0,1.0,,Osasuna
+,Masoud Shojaei,ir IRN,MF,18,14,4.0,2.0,2010-2011,898d91e,Osasuna,"1,198",13.3,1.0,0.0,47.0,86.0,2026.0,Osasuna
+,Walter Pandiani,uy URU,FW,21,13,0.0,3.0,2010-2011,11899bb1,Osasuna,"1,285",14.3,4.0,0.0,47.0,8.0,,Osasuna
+,Álvaro Cejudo,es ESP,MF,13,13,1.0,1.0,2010-2011,39b23eb,Osasuna,"1,011",11.2,2.0,0.0,47.0,1.0,,Osasuna
+,Krisztián Vadócz,hu HUN,MF,31,12,1.0,3.0,2010-2011,b4b0e333,Osasuna,"1,353",15.0,3.0,0.0,47.0,87.0,2027.0,Osasuna
+,Enrique Sola,es ESP,FW,16,12,0.0,7.0,2010-2011,bef2e50e,Osasuna,"1,063",11.8,4.0,0.0,47.0,1.0,,Osasuna
+,Josetxo,es ESP,DF,9,6,0.0,0.0,2010-2011,c1a297b4,Osasuna,583,6.5,2.0,0.0,47.0,1.0,1985.0,Osasuna
+,Dejan Lekić,rs SRB,FW,27,5,0.0,2.0,2010-2011,f73b1a65,Osasuna,774,8.6,3.0,0.0,47.0,28.0,2042.0,Osasuna
+,Javier Calleja,es ESP,MF,18,4,2.0,1.0,2010-2011,3c99e7de,Osasuna,425,4.7,3.0,0.0,47.0,1.0,2030.0,Osasuna
+,Ferran Corominas,es ESP,"FW,MF",6,4,0.0,0.0,2010-2011,46d0c528,Osasuna,334,3.7,1.0,0.0,47.0,1.0,,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",3,2,0.0,0.0,2010-2011,466824fb,Osasuna,209,2.3,2.0,0.0,47.0,1.0,,Osasuna
+,Rúper,es ESP,MF,4,0,0.0,0.0,2010-2011,570c4db3,Osasuna,85,0.9,0.0,0.0,47.0,1.0,2029.0,Osasuna
+,David Timor,es ESP,"DF,MF",1,0,0.0,0.0,2010-2011,174651c8,Osasuna,12,0.1,1.0,0.0,47.0,1.0,2034.0,Osasuna
+,Xavi Annunziata,es ESP,"FW,MF",1,0,0.0,0.0,2010-2011,146dbda,Osasuna,9,0.1,0.0,0.0,47.0,1.0,2035.0,Osasuna
+,﻿Andrés Fernández,es ESP,GK,38,37,0.0,0.0,2011-2012,307fcd26,Osasuna,"3,378",37.5,3.0,0.0,47.0,1.0,2023.0,Osasuna
+,Francisco Puñal,es ESP,MF,35,35,2.0,0.0,2011-2012,408ec22e,Osasuna,"3,052",33.9,11.0,1.0,47.0,1.0,1980.0,Osasuna
+,Nino,es ESP,"FW,MF",36,32,2.0,6.0,2011-2012,03dc5b1f,Osasuna,"2,793",31.0,2.0,0.0,47.0,1.0,2036.0,Osasuna
+,Raúl García,es ESP,"FW,MF",33,30,8.0,11.0,2011-2012,b418dbd4,Osasuna,"2,561",28.5,10.0,1.0,47.0,1.0,,Osasuna
+,Javad Nekounam,ir IRN,MF,31,28,0.0,5.0,2011-2012,baccd726,Osasuna,"2,505",27.8,11.0,0.0,47.0,86.0,2014.0,Osasuna
+,Álvaro Cejudo,es ESP,MF,34,28,6.0,4.0,2011-2012,39b23eb,Osasuna,"2,359",26.2,5.0,1.0,47.0,1.0,,Osasuna
+,Miguel Flaño,es ESP,DF,30,27,0.0,1.0,2011-2012,1662668d,Osasuna,"2,495",27.7,7.0,0.0,47.0,1.0,2009.0,Osasuna
+,Marc Bertrán,es ESP,DF,28,27,2.0,0.0,2011-2012,89a12cef,Osasuna,"2,350",26.1,3.0,0.0,47.0,1.0,2037.0,Osasuna
+,Damià Abella,es ESP,"DF,MF",30,24,0.0,0.0,2011-2012,35b4a15,Osasuna,"2,255",25.1,11.0,0.0,47.0,1.0,,Osasuna
+,Roland Lamah,be BEL,"FW,MF",30,23,1.0,1.0,2011-2012,336a36fb,Osasuna,"1,967",21.9,6.0,2.0,47.0,27.0,2038.0,Osasuna
+,Sergio,es ESP,DF,20,20,1.0,1.0,2011-2012,7688c579,Osasuna,"1,696",18.8,2.0,0.0,47.0,1.0,,Osasuna
+,Lolo,es ESP,"DF,MF",28,16,1.0,1.0,2011-2012,31c71140,Osasuna,"1,558",17.3,4.0,0.0,47.0,1.0,,Osasuna
+,Rovérsio,br BRA,DF,16,14,0.0,2.0,2011-2012,ba50a22c,Osasuna,"1,200",13.3,5.0,0.0,47.0,2.0,,Osasuna
+,Ibrahima Baldé,sn SEN,FW,22,13,2.0,7.0,2011-2012,573b6680,Osasuna,"1,364",15.2,2.0,0.0,47.0,34.0,2039.0,Osasuna
+,Jukka Raitala,fi FIN,DF,17,13,0.0,0.0,2011-2012,67b054d1,Osasuna,"1,064",11.8,2.0,0.0,47.0,83.0,2040.0,Osasuna
+,Eneko Satrústegui,es ESP,DF,10,10,0.0,0.0,2011-2012,b7ce700f,Osasuna,773,8.6,5.0,2.0,47.0,1.0,2041.0,Osasuna
+,Dejan Lekić,rs SRB,FW,18,9,1.0,4.0,2011-2012,f73b1a65,Osasuna,796,8.8,2.0,1.0,47.0,28.0,2042.0,Osasuna
+,Rubén,es ESP,DF,11,8,0.0,0.0,2011-2012,d0c06281,Osasuna,697,7.7,3.0,0.0,47.0,1.0,21.0,Osasuna
+,David Timor,es ESP,"DF,MF",24,7,3.0,0.0,2011-2012,174651c8,Osasuna,834,9.3,6.0,0.0,47.0,1.0,2034.0,Osasuna
+,Enrique Sola,es ESP,FW,7,6,1.0,0.0,2011-2012,bef2e50e,Osasuna,505,5.6,1.0,0.0,47.0,1.0,,Osasuna
+,Raoul Loé,cm CMR,MF,8,5,0.0,0.0,2011-2012,fcf961b,Osasuna,511,5.7,1.0,0.0,47.0,36.0,2043.0,Osasuna
+,Xavi Annunziata,es ESP,"FW,MF",6,2,0.0,0.0,2011-2012,146dbda,Osasuna,148,1.6,0.0,0.0,47.0,1.0,2035.0,Osasuna
+,Javier Calleja,es ESP,MF,6,1,0.0,0.0,2011-2012,3c99e7de,Osasuna,199,2.2,2.0,0.0,47.0,1.0,2030.0,Osasuna
+,Manuel Onwu,es ESP,FW,4,1,0.0,0.0,2011-2012,344376b6,Osasuna,142,1.6,0.0,0.0,47.0,1.0,2044.0,Osasuna
+,Ion Echaide,es ESP,DF,3,1,0.0,0.0,2011-2012,2ad367bb,Osasuna,106,1.2,0.0,0.0,47.0,1.0,2024.0,Osasuna
+,Asier Riesgo,es ESP,GK,1,1,0.0,0.0,2011-2012,581c5276,Osasuna,42,0.5,0.0,0.0,47.0,1.0,,Osasuna
+,Roberto Torres,es ESP,MF,2,0,0.0,0.0,2011-2012,d733aa38,Osasuna,40,0.4,0.0,0.0,47.0,1.0,2045.0,Osasuna
+,Marcos,es ESP,DF,1,0,0.0,0.0,2011-2012,b2b79f32,Osasuna,33,0.4,0.0,0.0,47.0,1.0,2046.0,Osasuna
+,﻿Andrés Fernández,es ESP,GK,37,37,0.0,0.0,2012-2013,307fcd26,Osasuna,"3,330",37.0,2.0,0.0,47.0,1.0,2023.0,Osasuna
+,Alejandro Arribas,es ESP,DF,34,32,0.0,2.0,2012-2013,cc29324e,Osasuna,"2,744",30.5,12.0,3.0,47.0,1.0,,Osasuna
+,Emiliano Armenteros,ar ARG,MF,30,30,5.0,3.0,2012-2013,66475fb9,Osasuna,"2,613",29.0,11.0,1.0,47.0,5.0,,Osasuna
+,Damià Abella,es ESP,"DF,MF",29,29,1.0,0.0,2012-2013,35b4a15,Osasuna,"2,471",27.5,15.0,0.0,47.0,1.0,,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",31,25,0.0,0.0,2012-2013,466824fb,Osasuna,"2,311",25.7,12.0,0.0,47.0,1.0,,Osasuna
+,Álvaro Cejudo,es ESP,MF,32,25,6.0,3.0,2012-2013,39b23eb,Osasuna,"1,985",22.1,3.0,0.0,47.0,1.0,,Osasuna
+,Enrique Sola,es ESP,FW,31,24,1.0,8.0,2012-2013,bef2e50e,Osasuna,"2,056",22.8,4.0,0.0,47.0,1.0,,Osasuna
+,Miguel Flaño,es ESP,DF,22,22,0.0,0.0,2012-2013,1662668d,Osasuna,"1,912",21.2,5.0,0.0,47.0,1.0,2009.0,Osasuna
+,Marc Bertrán,es ESP,DF,23,20,1.0,0.0,2012-2013,89a12cef,Osasuna,"1,860",20.7,8.0,0.0,47.0,1.0,2037.0,Osasuna
+,Raoul Loé,cm CMR,MF,23,18,1.0,2.0,2012-2013,fcf961b,Osasuna,"1,572",17.5,3.0,0.0,47.0,36.0,2043.0,Osasuna
+,Nino,es ESP,"FW,MF",25,17,1.0,3.0,2012-2013,03dc5b1f,Osasuna,"1,620",18.0,1.0,0.0,47.0,1.0,2036.0,Osasuna
+,Lolo,es ESP,"DF,MF",22,17,1.0,1.0,2012-2013,31c71140,Osasuna,"1,604",17.8,6.0,0.0,47.0,1.0,,Osasuna
+,Nano,es ESP,"DF,FW",18,16,0.0,0.0,2012-2013,51fbb7e2,Osasuna,"1,399",15.5,5.0,1.0,47.0,1.0,,Osasuna
+,Rubén,es ESP,DF,16,15,0.0,1.0,2012-2013,d0c06281,Osasuna,"1,325",14.7,6.0,1.0,47.0,1.0,21.0,Osasuna
+,Miguel de las Cuevas,es ESP,MF,16,15,0.0,1.0,2012-2013,2e1cf3d2,Osasuna,"1,123",12.5,1.0,0.0,47.0,1.0,2047.0,Osasuna
+,Francisco Silva,cl CHI,"DF,MF",16,14,1.0,1.0,2012-2013,11d68e60,Osasuna,"1,301",14.5,3.0,1.0,47.0,31.0,2048.0,Osasuna
+,Francisco Puñal,es ESP,MF,22,13,1.0,1.0,2012-2013,408ec22e,Osasuna,"1,388",15.4,5.0,1.0,47.0,1.0,1980.0,Osasuna
+,Sisi,es ESP,"FW,MF",11,11,0.0,0.0,2012-2013,dd7ec92,Osasuna,781,8.7,3.0,0.0,47.0,1.0,2049.0,Osasuna
+,David Timor,es ESP,"DF,MF",16,10,2.0,1.0,2012-2013,174651c8,Osasuna,937,10.4,3.0,1.0,47.0,1.0,2034.0,Osasuna
+,Joseba Llorente,es ESP,FW,24,10,0.0,1.0,2012-2013,ddb98947,Osasuna,909,10.1,2.0,1.0,47.0,1.0,,Osasuna
+,Roland Lamah,be BEL,"FW,MF",15,7,2.0,2.0,2012-2013,336a36fb,Osasuna,781,8.7,2.0,0.0,47.0,27.0,2038.0,Osasuna
+,Anthony Annan,gh GHA,MF,6,5,0.0,0.0,2012-2013,1c524d4a,Osasuna,382,4.2,1.0,0.0,47.0,17.0,2050.0,Osasuna
+,Masoud Shojaei,ir IRN,MF,14,2,0.0,1.0,2012-2013,898d91e,Osasuna,418,4.6,1.0,0.0,47.0,86.0,2026.0,Osasuna
+,Roberto Torres,es ESP,MF,5,1,0.0,1.0,2012-2013,d733aa38,Osasuna,176,2.0,0.0,0.0,47.0,1.0,2045.0,Osasuna
+,Unai García,es ESP,DF,1,1,0.0,0.0,2012-2013,4a633cfe,Osasuna,90,1.0,1.0,0.0,47.0,1.0,2051.0,Osasuna
+,Asier Riesgo,es ESP,GK,1,1,0.0,0.0,2012-2013,581c5276,Osasuna,74,0.8,0.0,0.0,47.0,1.0,,Osasuna
+,Ion Echaide,es ESP,DF,1,1,0.0,0.0,2012-2013,2ad367bb,Osasuna,58,0.6,0.0,0.0,47.0,1.0,2024.0,Osasuna
+,Manuel Onwu,es ESP,FW,6,0,1.0,1.0,2012-2013,344376b6,Osasuna,138,1.5,0.0,0.0,47.0,1.0,2044.0,Osasuna
+,Ricardo,es ESP,GK,1,0,0.0,0.0,2012-2013,2fe713ed,Osasuna,16,0.2,0.0,0.0,47.0,1.0,2010.0,Osasuna
+,Maikel Mesa,es ESP,MF,1,0,0.0,0.0,2012-2013,2afb7b21,Osasuna,13,0.1,0.0,0.0,47.0,1.0,2052.0,Osasuna
+,﻿Andrés Fernández,es ESP,GK,37,37,0.0,0.0,2013-2014,307fcd26,Osasuna,"3,299",36.7,2.0,1.0,47.0,1.0,2023.0,Osasuna
+,Alejandro Arribas,es ESP,DF,36,36,1.0,1.0,2013-2014,cc29324e,Osasuna,"3,196",35.5,10.0,1.0,47.0,1.0,,Osasuna
+,Oriol Riera,es ESP,FW,37,35,0.0,13.0,2013-2014,d742ed9,Osasuna,"2,997",33.3,5.0,0.0,47.0,1.0,,Osasuna
+,Damià Abella,es ESP,"DF,MF",34,32,1.0,0.0,2013-2014,35b4a15,Osasuna,"2,821",31.3,10.0,1.0,47.0,1.0,,Osasuna
+,Jordan Lotiès,fr FRA,DF,30,30,0.0,0.0,2013-2014,64864d05,Osasuna,"2,633",29.3,5.0,1.0,47.0,4.0,2053.0,Osasuna
+,Francisco Silva,cl CHI,"DF,MF",31,29,0.0,0.0,2013-2014,11d68e60,Osasuna,"2,541",28.2,11.0,1.0,47.0,31.0,2048.0,Osasuna
+,Marc Bertrán,es ESP,DF,29,28,3.0,0.0,2013-2014,89a12cef,Osasuna,"2,454",27.3,5.0,0.0,47.0,1.0,2037.0,Osasuna
+,Emiliano Armenteros,ar ARG,MF,29,27,3.0,4.0,2013-2014,66475fb9,Osasuna,"2,268",25.2,5.0,0.0,47.0,5.0,,Osasuna
+,Álvaro Cejudo,es ESP,MF,30,27,0.0,2.0,2013-2014,39b23eb,Osasuna,"2,019",22.4,5.0,1.0,47.0,1.0,,Osasuna
+,Roberto Torres,es ESP,MF,33,25,3.0,5.0,2013-2014,d733aa38,Osasuna,"2,234",24.8,5.0,0.0,47.0,1.0,2045.0,Osasuna
+,Miguel de las Cuevas,es ESP,MF,24,21,0.0,0.0,2013-2014,2e1cf3d2,Osasuna,"1,590",17.7,2.0,1.0,47.0,1.0,2047.0,Osasuna
+,Francisco Puñal,es ESP,MF,26,18,2.0,1.0,2013-2014,408ec22e,Osasuna,"1,602",17.8,7.0,1.0,47.0,1.0,1980.0,Osasuna
+,Lolo,es ESP,"DF,MF",21,18,1.0,0.0,2013-2014,31c71140,Osasuna,"1,489",16.5,3.0,0.0,47.0,1.0,,Osasuna
+,Raoul Loé,cm CMR,MF,19,14,1.0,0.0,2013-2014,fcf961b,Osasuna,"1,194",13.3,4.0,0.0,47.0,36.0,2043.0,Osasuna
+,Miguel Flaño,es ESP,DF,13,10,0.0,0.0,2013-2014,1662668d,Osasuna,962,10.7,2.0,0.0,47.0,1.0,2009.0,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",28,9,0.0,2.0,2013-2014,466824fb,Osasuna,"1,152",12.8,3.0,0.0,47.0,1.0,,Osasuna
+,Joan Oriol,es ESP,DF,11,8,0.0,0.0,2013-2014,7ccb2ef6,Osasuna,745,8.3,0.0,0.0,47.0,1.0,,Osasuna
+,Sisi,es ESP,"FW,MF",9,7,0.0,0.0,2013-2014,dd7ec92,Osasuna,598,6.6,1.0,0.0,47.0,1.0,2049.0,Osasuna
+,Javier Acuña,py PAR,FW,16,3,0.0,3.0,2013-2014,993ff7aa,Osasuna,549,6.1,2.0,0.0,47.0,43.0,,Osasuna
+,José Ariel Núñez,py PAR,"FW,MF",6,2,0.0,0.0,2013-2014,c98a821e,Osasuna,252,2.8,0.0,0.0,47.0,43.0,2054.0,Osasuna
+,Cristian Lobato,es ESP,"FW,MF",12,1,0.0,0.0,2013-2014,7ac9c6d,Osasuna,332,3.7,0.0,0.0,47.0,1.0,2055.0,Osasuna
+,Asier Riesgo,es ESP,GK,2,1,0.0,0.0,2013-2014,581c5276,Osasuna,120,1.3,0.0,0.0,47.0,1.0,,Osasuna
+,Manuel Onwu,es ESP,FW,12,0,0.0,0.0,2013-2014,344376b6,Osasuna,235,2.6,1.0,0.0,47.0,1.0,2044.0,Osasuna
+,Nino,es ESP,"FW,MF",4,0,0.0,0.0,2013-2014,03dc5b1f,Osasuna,58,0.6,0.0,0.0,47.0,1.0,2036.0,Osasuna
+,José García,es ESP,"FW,MF",1,0,0.0,0.0,2013-2014,9463b38c,Osasuna,26,0.3,0.0,0.0,47.0,1.0,2056.0,Osasuna
+,﻿Nino,es ESP,"FW,MF",41,40,4.0,11.0,2014-2015,03dc5b1f,Osasuna,"3,576",39.7,8.0,0.0,47.0,1.0,2036.0,Osasuna
+,Sisi,es ESP,"FW,MF",38,35,1.0,0.0,2014-2015,dd7ec92,Osasuna,"3,141",34.9,9.0,0.0,47.0,1.0,2049.0,Osasuna
+,Javier Flaño,es ESP,DF,36,34,2.0,2.0,2014-2015,8e9ccfb8,Osasuna,"2,937",32.6,9.0,2.0,47.0,1.0,2011.0,Osasuna
+,Miguel Flaño,es ESP,DF,32,32,0.0,2.0,2014-2015,1662668d,Osasuna,"2,865",31.8,9.0,1.0,47.0,1.0,2009.0,Osasuna
+,Raoul Loé,cm CMR,MF,33,30,2.0,3.0,2014-2015,fcf961b,Osasuna,"2,763",30.7,11.0,0.0,47.0,36.0,2043.0,Osasuna
+,Roberto Torres,es ESP,MF,37,30,8.0,3.0,2014-2015,d733aa38,Osasuna,"2,674",29.7,9.0,0.0,47.0,1.0,2045.0,Osasuna
+,David García,es ESP,"DF,MF",28,26,1.0,2.0,2014-2015,3e42f707,Osasuna,"2,314",25.7,6.0,0.0,47.0,1.0,2057.0,Osasuna
+,Nikola Vujadinović,me MNE,DF,25,25,0.0,2.0,2014-2015,c6b17f4f,Osasuna,"2,152",23.9,9.0,2.0,47.0,33.0,2058.0,Osasuna
+,Mikel Merino,es ESP,MF,29,22,3.0,1.0,2014-2015,d080ed5e,Osasuna,"1,824",20.3,9.0,1.0,47.0,1.0,,Osasuna
+,Asier Riesgo,es ESP,GK,22,21,0.0,0.0,2014-2015,581c5276,Osasuna,"1,935",21.5,5.0,0.0,47.0,1.0,,Osasuna
+,Roberto Santamaría,es ESP,GK,21,21,0.0,0.0,2014-2015,bca21ef3,Osasuna,"1,845",20.5,2.0,0.0,47.0,1.0,,Osasuna
+,Javad Nekounam,ir IRN,MF,22,20,0.0,5.0,2014-2015,baccd726,Osasuna,"1,722",19.1,5.0,2.0,47.0,86.0,2014.0,Osasuna
+,Miguel de las Cuevas,es ESP,MF,20,20,2.0,4.0,2014-2015,2e1cf3d2,Osasuna,"1,643",18.3,4.0,2.0,47.0,1.0,2047.0,Osasuna
+,Cedrick Mabwati,cd COD,"FW,MF",30,15,1.0,0.0,2014-2015,6518bc18,Osasuna,"1,558",17.3,4.0,1.0,47.0,50.0,,Osasuna
+,Kenan Kodro,ba BIH,FW,32,14,2.0,2.0,2014-2015,82d2807,Osasuna,"1,270",14.1,1.0,0.0,47.0,49.0,,Osasuna
+,Ion Echaide,es ESP,DF,20,14,0.0,0.0,2014-2015,2ad367bb,Osasuna,"1,248",13.9,6.0,0.0,47.0,1.0,2024.0,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",12,12,0.0,1.0,2014-2015,466824fb,Osasuna,931,10.3,5.0,0.0,47.0,1.0,,Osasuna
+,Liassine Cadamuro,dz ALG,DF,15,11,0.0,0.0,2014-2015,3a83cb9,Osasuna,"1,107",12.3,8.0,0.0,47.0,37.0,,Osasuna
+,Karim Ansarifard,ir IRN,FW,16,8,1.0,0.0,2014-2015,50cddd19,Osasuna,680,7.6,0.0,0.0,47.0,86.0,2059.0,Osasuna
+,Jordan Lotiès,fr FRA,DF,8,7,0.0,0.0,2014-2015,64864d05,Osasuna,584,6.5,3.0,0.0,47.0,4.0,2053.0,Osasuna
+,Miguel Olavide,es ESP,MF,17,5,0.0,0.0,2014-2015,4bed972b,Osasuna,562,6.2,3.0,1.0,47.0,1.0,2060.0,Osasuna
+,José García,es ESP,"FW,MF",15,5,0.0,0.0,2014-2015,9463b38c,Osasuna,477,5.3,3.0,0.0,47.0,1.0,2056.0,Osasuna
+,Álex Berenguer,es ESP,"FW,MF",13,4,0.0,0.0,2014-2015,dc1c2fce,Osasuna,464,5.2,2.0,1.0,47.0,1.0,,Osasuna
+,Pablo Hervías,es ESP,MF,6,4,1.0,1.0,2014-2015,ba5a9545,Osasuna,348,3.9,1.0,0.0,47.0,1.0,,Osasuna
+,Unai García,es ESP,DF,2,2,0.0,0.0,2014-2015,4a633cfe,Osasuna,180,2.0,0.0,0.0,47.0,1.0,2051.0,Osasuna
+,Manuel Onwu,es ESP,FW,9,1,0.0,1.0,2014-2015,344376b6,Osasuna,162,1.8,1.0,0.0,47.0,1.0,2044.0,Osasuna
+,Maikel Mesa,es ESP,MF,4,1,0.0,0.0,2014-2015,2afb7b21,Osasuna,112,1.2,0.0,0.0,47.0,1.0,2052.0,Osasuna
+,Francisco Silva,cl CHI,"DF,MF",1,1,0.0,0.0,2014-2015,11d68e60,Osasuna,90,1.0,0.0,0.0,47.0,31.0,2048.0,Osasuna
+,Yoel Sola,es ESP,MF,1,1,0.0,0.0,2014-2015,ff9b498c,Osasuna,74,0.8,0.0,0.0,47.0,1.0,2061.0,Osasuna
+,Aitor Buñuel,es ESP,DF,1,1,0.0,0.0,2014-2015,6555c592,Osasuna,57,0.6,0.0,0.0,47.0,1.0,2062.0,Osasuna
+,Kike Barja,es ESP,MF,0,0,,,2014-2015,d53e64,Osasuna,,,,,47.0,1.0,2063.0,Osasuna
+,Jokin Ezkieta,es ESP,GK,0,0,,,2014-2015,0f7dbaf6,Osasuna,,,,,47.0,1.0,,Osasuna
+,De Frutos,es ESP,DF,0,0,,,2014-2015,18454316,Osasuna,,,,,47.0,1.0,2064.0,Osasuna
+,Antonio Otegui,es ESP,MF,0,0,,,2014-2015,b7d5bc5e,Osasuna,,,,,47.0,1.0,2065.0,Osasuna
+,Juan Pérez,es ESP,GK,0,0,,,2014-2015,8f29e08b,Osasuna,,,,,47.0,1.0,2066.0,Osasuna
+,Alexander Satrústegui,es ESP,FW,0,0,,,2014-2015,800ae875,Osasuna,,,,,47.0,1.0,2067.0,Osasuna
+,﻿Nauzet Pérez,es ESP,GK,42,42,0.0,0.0,2015-2016,d7ffd345,Osasuna,"3,780",42.0,4.0,0.0,47.0,1.0,2068.0,Osasuna
+,Oier Sanjurjo,es ESP,"DF,MF",38,38,2.0,3.0,2015-2016,466824fb,Osasuna,"3,378",37.5,14.0,0.0,47.0,1.0,,Osasuna
+,Roberto Torres,es ESP,MF,38,38,11.0,12.0,2015-2016,d733aa38,Osasuna,"3,278",36.4,12.0,0.0,47.0,1.0,2045.0,Osasuna
+,Javier Flaño,es ESP,DF,38,37,2.0,0.0,2015-2016,8e9ccfb8,Osasuna,"3,185",35.4,8.0,1.0,47.0,1.0,2011.0,Osasuna
+,David García,es ESP,"DF,MF",36,35,0.0,1.0,2015-2016,3e42f707,Osasuna,"3,197",35.5,10.0,1.0,47.0,1.0,2057.0,Osasuna
+,Nino,es ESP,"FW,MF",37,34,6.0,7.0,2015-2016,03dc5b1f,Osasuna,"3,010",33.4,6.0,0.0,47.0,1.0,2036.0,Osasuna
+,Miguel Flaño,es ESP,DF,34,34,0.0,0.0,2015-2016,1662668d,Osasuna,"2,980",33.1,7.0,1.0,47.0,1.0,2009.0,Osasuna
+,Mikel Merino,es ESP,MF,34,32,0.0,4.0,2015-2016,d080ed5e,Osasuna,"2,903",32.3,12.0,1.0,47.0,1.0,,Osasuna
+,Unai García,es ESP,DF,27,27,0.0,2.0,2015-2016,4a633cfe,Osasuna,"2,354",26.2,5.0,0.0,47.0,1.0,2051.0,Osasuna
+,Tano Bonnín,do DOM,DF,26,23,0.0,0.0,2015-2016,1a6f612d,Osasuna,"2,065",22.9,4.0,0.0,47.0,25.0,2069.0,Osasuna
+,Álex Berenguer,es ESP,"FW,MF",38,19,4.0,3.0,2015-2016,dc1c2fce,Osasuna,"1,839",20.4,9.0,1.0,47.0,1.0,,Osasuna
+,Matej Pučko,si SVN,"FW,MF",31,18,1.0,4.0,2015-2016,4078b9b1,Osasuna,"1,702",18.9,3.0,0.0,47.0,32.0,2070.0,Osasuna
+,Urko Vera,es ESP,FW,19,12,0.0,3.0,2015-2016,d8cf0115,Osasuna,"1,112",12.4,4.0,0.0,47.0,1.0,,Osasuna
+,Miguel Olavide,es ESP,MF,30,11,0.0,0.0,2015-2016,4bed972b,Osasuna,"1,347",15.0,4.0,0.0,47.0,1.0,2060.0,Osasuna
+,José García,es ESP,"FW,MF",12,8,0.0,0.0,2015-2016,9463b38c,Osasuna,514,5.7,2.0,0.0,47.0,1.0,2056.0,Osasuna
+,Miguel de las Cuevas,es ESP,MF,14,7,2.0,1.0,2015-2016,2e1cf3d2,Osasuna,734,8.2,2.0,0.0,47.0,1.0,2047.0,Osasuna
+,Kenan Kodro,ba BIH,FW,20,7,1.0,3.0,2015-2016,82d2807,Osasuna,662,7.4,4.0,0.0,47.0,49.0,,Osasuna
+,Maikel Mesa,es ESP,MF,13,7,0.0,1.0,2015-2016,2afb7b21,Osasuna,622,6.9,6.0,0.0,47.0,1.0,2052.0,Osasuna
+,Aitor Buñuel,es ESP,DF,11,7,0.0,1.0,2015-2016,6555c592,Osasuna,608,6.8,2.0,0.0,47.0,1.0,2062.0,Osasuna
+,Antonio Otegui,es ESP,MF,11,7,0.0,0.0,2015-2016,b7d5bc5e,Osasuna,467,5.2,0.0,0.0,47.0,1.0,2065.0,Osasuna
+,Manuel,es ESP,MF,8,6,0.0,0.0,2015-2016,b43437c4,Osasuna,532,5.9,4.0,1.0,47.0,1.0,2071.0,Osasuna
+,Jordan Lotiès,fr FRA,DF,6,5,0.0,0.0,2015-2016,64864d05,Osasuna,396,4.4,1.0,0.0,47.0,4.0,2053.0,Osasuna
+,Luís Martins,pt POR,DF,9,4,0.0,0.0,2015-2016,56b7c09b,Osasuna,348,3.9,2.0,0.0,47.0,3.0,2072.0,Osasuna
+,Bogdan Milić,me MNE,FW,5,2,0.0,0.0,2015-2016,cfd0299b,Osasuna,169,1.9,0.0,0.0,47.0,33.0,2073.0,Osasuna
+,Javi Martínez,es ESP,FW,2,1,0.0,0.0,2015-2016,7a2ea84d,Osasuna,72,0.8,0.0,0.0,47.0,1.0,2074.0,Osasuna
+,Adrián Cruz,es ESP,MF,3,1,0.0,0.0,2015-2016,c39bc7cb,Osasuna,69,0.8,1.0,0.0,47.0,1.0,2075.0,Osasuna
+,Álex Sánchez,es ESP,FW,4,0,0.0,0.0,2015-2016,927c7264,Osasuna,74,0.8,0.0,0.0,47.0,1.0,2076.0,Osasuna
+,Miguel Díaz,es ESP,MF,0,0,,,2015-2016,4fc0311a,Osasuna,,,,,47.0,1.0,2077.0,Osasuna
+,Mario Fernández,es ESP,GK,0,0,,,2015-2016,02c89cb6,Osasuna,,,,,47.0,1.0,2078.0,Osasuna
+,Juan Pérez,es ESP,GK,0,0,,,2015-2016,8f29e08b,Osasuna,,,,,47.0,1.0,2066.0,Osasuna
+,﻿Oier Sanjurjo,es ESP,"DF,MF",36,36,2.0,0.0,2016-2017,466824fb,Osasuna,"3,148",35.0,11.0,1.0,47.0,1.0,,Osasuna
+,Sergio León,es ESP,FW,33,27,0.0,10.0,2016-2017,0a0cc13c,Osasuna,"2,393",26.6,4.0,0.0,47.0,1.0,,Osasuna
+,Roberto Torres,es ESP,MF,32,26,3.0,7.0,2016-2017,d733aa38,Osasuna,"2,307",25.6,7.0,0.0,47.0,1.0,2045.0,Osasuna
+,David García,es ESP,DF,25,23,0.0,1.0,2016-2017,3e42f707,Osasuna,"2,191",24.3,8.0,0.0,47.0,1.0,2057.0,Osasuna
+,Álex Berenguer,es ESP,"DF,MF",29,22,6.0,1.0,2016-2017,dc1c2fce,Osasuna,"2,120",23.6,3.0,0.0,47.0,1.0,,Osasuna
+,Goran Čaušić,rs SRB,MF,26,22,2.0,1.0,2016-2017,6938d79b,Osasuna,"2,008",22.3,4.0,0.0,47.0,28.0,2079.0,Osasuna
+,Carlos Clerc,es ESP,"DF,MF",25,22,0.0,1.0,2016-2017,33a61a52,Osasuna,"1,947",21.6,2.0,0.0,47.0,1.0,2080.0,Osasuna
+,Unai García,es ESP,DF,22,20,0.0,0.0,2016-2017,4a633cfe,Osasuna,"1,872",20.8,4.0,0.0,47.0,1.0,2051.0,Osasuna
+,Miguel de las Cuevas,es ESP,MF,28,20,1.0,0.0,2016-2017,2e1cf3d2,Osasuna,"1,796",20.0,3.0,0.0,47.0,1.0,2047.0,Osasuna
+,Salvatore Sirigu,it ITA,GK,18,18,0.0,0.0,2016-2017,10dc46f0,Osasuna,"1,620",18.0,1.0,0.0,47.0,9.0,,Osasuna
+,Oriol Riera,es ESP,FW,22,18,1.0,4.0,2016-2017,d742ed9,Osasuna,"1,459",16.2,3.0,0.0,47.0,1.0,,Osasuna
+,Kenan Kodro,ba BIH,FW,28,17,1.0,7.0,2016-2017,82d2807,Osasuna,"1,469",16.3,4.0,0.0,47.0,49.0,,Osasuna
+,Juan Rafael Fuentes,es ESP,DF,17,16,1.0,0.0,2016-2017,5b54a75f,Osasuna,"1,283",14.3,5.0,0.0,47.0,1.0,2081.0,Osasuna
+,Fausto Tienza,es ESP,MF,19,16,0.0,0.0,2016-2017,039783d3,Osasuna,"1,224",13.6,8.0,0.0,47.0,1.0,,Osasuna
+,Nauzet Pérez,es ESP,GK,13,13,0.0,0.0,2016-2017,d7ffd345,Osasuna,"1,170",13.0,1.0,0.0,47.0,1.0,2068.0,Osasuna
+,Miguel Flaño,es ESP,DF,12,12,0.0,1.0,2016-2017,1662668d,Osasuna,"1,035",11.5,3.0,0.0,47.0,1.0,2009.0,Osasuna
+,Aitor Buñuel,es ESP,"DF,MF",15,10,0.0,0.0,2016-2017,6555c592,Osasuna,"1,030",11.4,3.0,0.0,47.0,1.0,2062.0,Osasuna
+,Nikola Vujadinović,me MNE,DF,10,10,0.0,0.0,2016-2017,c6b17f4f,Osasuna,787,8.7,0.0,0.0,47.0,33.0,2058.0,Osasuna
+,Fran Mérida,es ESP,MF,15,9,0.0,1.0,2016-2017,0e50f929,Osasuna,812,9.0,5.0,0.0,47.0,1.0,,Osasuna
+,Tano Bonnín,do DOM,DF,11,9,1.0,0.0,2016-2017,1a6f612d,Osasuna,734,8.2,2.0,1.0,47.0,25.0,2069.0,Osasuna
+,Jaime Romero,es ESP,"MF,FW",19,8,4.0,0.0,2016-2017,28205f4,Osasuna,904,10.0,1.0,0.0,47.0,1.0,2082.0,Osasuna
+,Emmanuel Rivière,fr FRA,"FW,MF",15,8,1.0,0.0,2016-2017,2bae5658,Osasuna,799,8.9,3.0,1.0,47.0,4.0,2083.0,Osasuna
+,Mario Fernández,es ESP,GK,7,7,0.0,0.0,2016-2017,02c89cb6,Osasuna,585,6.5,3.0,0.0,47.0,1.0,2078.0,Osasuna
+,Raoul Loé,cm CMR,MF,7,6,0.0,0.0,2016-2017,fcf961b,Osasuna,570,6.3,2.0,0.0,47.0,36.0,2043.0,Osasuna
+,Imanol García,es ESP,"MF,DF",8,6,0.0,0.0,2016-2017,90ed68c,Osasuna,526,5.8,1.0,0.0,47.0,1.0,2084.0,Osasuna
+,Miguel Olavide,es ESP,"MF,DF",14,4,0.0,1.0,2016-2017,4bed972b,Osasuna,496,5.5,3.0,0.0,47.0,1.0,2060.0,Osasuna
+,Jhon Steven,co COL,DF,5,4,0.0,2.0,2016-2017,c67b3538,Osasuna,429,4.8,0.0,0.0,47.0,19.0,2085.0,Osasuna
+,Iván Márquez,es ESP,DF,4,4,1.0,0.0,2016-2017,691d6a54,Osasuna,360,4.0,4.0,0.0,47.0,1.0,2086.0,Osasuna
+,Didier Digard,fr FRA,MF,3,3,0.0,0.0,2016-2017,557f1466,Osasuna,192,2.1,1.0,0.0,47.0,4.0,,Osasuna
+,Javier Flaño,es ESP,DF,4,2,0.0,0.0,2016-2017,8e9ccfb8,Osasuna,131,1.5,0.0,0.0,47.0,1.0,2011.0,Osasuna
+,Antonio Otegui,es ESP,MF,3,0,0.0,0.0,2016-2017,b7d5bc5e,Osasuna,47,0.5,0.0,0.0,47.0,1.0,2065.0,Osasuna
+,Álvaro Fernández,es ESP,GK,1,0,0.0,0.0,2016-2017,f127d782,Osasuna,45,0.5,0.0,0.0,47.0,1.0,2087.0,Osasuna
+,Luis Perea,es ESP,MF,1,0,0.0,0.0,2016-2017,8dc6dbb3,Osasuna,20,0.2,0.0,0.0,47.0,1.0,2088.0,Osasuna
+,Kike Barja,es ESP,MF,1,0,0.0,0.0,2016-2017,d53e64,Osasuna,17,0.2,0.0,0.0,47.0,1.0,2063.0,Osasuna
+,Javi Álamo,es ESP,"FW,MF",2,0,0.0,0.0,2016-2017,ffd69308,Osasuna,13,0.1,0.0,0.0,47.0,1.0,2089.0,Osasuna
+,Juan Pérez,es ESP,GK,0,0,,,2016-2017,8f29e08b,Osasuna,,,,,47.0,1.0,2066.0,Osasuna
+,﻿Sergio Herrera,es ESP,GK,40,40,0.0,0.0,2017-2018,4995f48,Osasuna,"3,559",39.5,3.0,0.0,47.0,1.0,2090.0,Osasuna
+,Oier Sanjurjo,es ESP,DF,39,39,0.0,2.0,2017-2018,466824fb,Osasuna,"3,395",37.7,13.0,2.0,47.0,1.0,,Osasuna
+,Lillo,es ESP,DF,37,37,3.0,0.0,2017-2018,476ca810,Osasuna,"3,276",36.4,14.0,2.0,47.0,1.0,,Osasuna
+,Quique,es ESP,"FW,MF",42,36,2.0,5.0,2017-2018,c966fce1,Osasuna,"3,308",36.8,2.0,0.0,47.0,1.0,,Osasuna
+,Lucas Torró,es ESP,MF,37,33,6.0,1.0,2017-2018,0e4fef6e,Osasuna,"2,996",33.3,10.0,0.0,47.0,1.0,2091.0,Osasuna
+,Fran Mérida,es ESP,MF,35,33,5.0,7.0,2017-2018,0e50f929,Osasuna,"2,920",32.4,18.0,2.0,47.0,1.0,,Osasuna
+,Carlos Clerc,es ESP,"DF,MF",31,31,3.0,0.0,2017-2018,33a61a52,Osasuna,"2,715",30.2,6.0,2.0,47.0,1.0,2080.0,Osasuna
+,David Rodríguez,es ESP,"FW,MF",36,27,2.0,7.0,2017-2018,bae862bf,Osasuna,"2,177",24.2,3.0,0.0,47.0,1.0,,Osasuna
+,Aridane Hernández,gq EQG,DF,29,26,1.0,1.0,2017-2018,132ac341,Osasuna,"2,374",26.4,5.0,0.0,47.0,10.0,2092.0,Osasuna
+,Roberto Torres,es ESP,MF,35,24,3.0,1.0,2017-2018,d733aa38,Osasuna,"1,977",22.0,8.0,0.0,47.0,1.0,2045.0,Osasuna
+,Unai García,es ESP,DF,30,22,0.0,4.0,2017-2018,4a633cfe,Osasuna,"2,153",23.9,6.0,0.0,47.0,1.0,2051.0,Osasuna
+,Xisco,es ESP,FW,32,20,2.0,8.0,2017-2018,d2790f7a,Osasuna,"2,051",22.8,6.0,2.0,47.0,1.0,,Osasuna
+,Borja Lasso,es ESP,MF,19,17,0.0,2.0,2017-2018,d9faee7e,Osasuna,"1,375",15.3,5.0,0.0,47.0,1.0,,Osasuna
+,Sebas Coris,es ESP,MF,26,15,3.0,2.0,2017-2018,b18da471,Osasuna,"1,275",14.2,3.0,0.0,47.0,1.0,2093.0,Osasuna
+,Kike Barja,es ESP,MF,19,15,1.0,1.0,2017-2018,d53e64,Osasuna,"1,265",14.1,2.0,0.0,47.0,1.0,2063.0,Osasuna
+,Joaquín Arzura,ar ARG,MF,28,13,0.0,0.0,2017-2018,0eeb0b2f,Osasuna,"1,388",15.4,4.0,0.0,47.0,5.0,2094.0,Osasuna
+,Robert Ibáñez,es ESP,MF,17,10,0.0,2.0,2017-2018,c7429db3,Osasuna,909,10.1,3.0,0.0,47.0,1.0,,Osasuna
+,Mateo García,ar ARG,MF,11,5,0.0,0.0,2017-2018,62db2015,Osasuna,562,6.2,2.0,0.0,47.0,5.0,2095.0,Osasuna
+,Miguel Flaño,es ESP,DF,5,5,0.0,0.0,2017-2018,1662668d,Osasuna,440,4.9,2.0,0.0,47.0,1.0,2009.0,Osasuna
+,Javier Flaño,es ESP,DF,6,5,0.0,0.0,2017-2018,8e9ccfb8,Osasuna,396,4.4,2.0,0.0,47.0,1.0,2011.0,Osasuna
+,Miguel de las Cuevas,es ESP,MF,16,3,0.0,1.0,2017-2018,2e1cf3d2,Osasuna,423,4.7,2.0,0.0,47.0,1.0,2047.0,Osasuna
+,Fausto Tienza,es ESP,MF,5,3,0.0,0.0,2017-2018,039783d3,Osasuna,279,3.1,3.0,0.0,47.0,1.0,,Osasuna
+,Manu Herrera,es ESP,GK,4,2,0.0,0.0,2017-2018,d2acc39,Osasuna,221,2.5,2.0,0.0,47.0,1.0,,Osasuna
+,Tano Bonnín,do DOM,DF,3,1,0.0,0.0,2017-2018,1a6f612d,Osasuna,63,0.7,0.0,0.0,47.0,25.0,2069.0,Osasuna
+,David García,es ESP,"DF,MF",1,0,0.0,0.0,2017-2018,3e42f707,Osasuna,2,0.0,0.0,0.0,47.0,1.0,2057.0,Osasuna
+,Aitor Buñuel,es ESP,DF,0,0,,,2017-2018,6555c592,Osasuna,,,,,47.0,1.0,2062.0,Osasuna
+,Miguel Díaz,es ESP,MF,0,0,,,2017-2018,4fc0311a,Osasuna,,,,,47.0,1.0,2077.0,Osasuna
+,Juan Pérez,es ESP,GK,0,0,,,2017-2018,8f29e08b,Osasuna,,,,,47.0,1.0,2066.0,Osasuna
+,﻿Carlos Clerc,es ESP,DF,40,40,2.0,0.0,2018-2019,33a61a52,Osasuna,"3,542",39.4,4.0,1.0,47.0,1.0,2080.0,Osasuna
+,Rubén García,es ESP,"MF,FW",37,37,11.0,7.0,2018-2019,5c96b017,Osasuna,"3,233",35.9,4.0,0.0,47.0,1.0,2096.0,Osasuna
+,Oier Sanjurjo,es ESP,MF,37,36,0.0,3.0,2018-2019,466824fb,Osasuna,"3,230",35.9,12.0,0.0,47.0,1.0,,Osasuna
+,Unai García,es ESP,DF,37,36,0.0,3.0,2018-2019,4a633cfe,Osasuna,"3,197",35.5,5.0,0.0,47.0,1.0,2051.0,Osasuna
+,Rubén,es ESP,GK,35,35,0.0,0.0,2018-2019,24279b8b,Osasuna,"3,150",35.0,2.0,0.0,47.0,1.0,,Osasuna
+,Roberto Torres,es ESP,MF,39,34,3.0,12.0,2018-2019,d733aa38,Osasuna,"3,032",33.7,5.0,0.0,47.0,1.0,2045.0,Osasuna
+,Nacho Vidal,es ESP,DF,38,30,5.0,0.0,2018-2019,3a9c4b7b,Osasuna,"2,864",31.8,7.0,0.0,47.0,1.0,,Osasuna
+,Fran Mérida,es ESP,MF,31,27,1.0,1.0,2018-2019,0e50f929,Osasuna,"2,414",26.8,10.0,0.0,47.0,1.0,,Osasuna
+,David García,es ESP,DF,29,26,1.0,2.0,2018-2019,3e42f707,Osasuna,"2,324",25.8,7.0,1.0,47.0,1.0,2057.0,Osasuna
+,Juan Villar,es ESP,"FW,MF",29,25,2.0,12.0,2018-2019,c33ee247,Osasuna,"1,925",21.4,6.0,0.0,47.0,1.0,2097.0,Osasuna
+,Brandon,es ESP,"FW,MF",36,23,0.0,5.0,2018-2019,3e016e5a,Osasuna,"2,091",23.2,5.0,0.0,47.0,1.0,,Osasuna
+,Kike Barja,es ESP,MF,34,20,6.0,3.0,2018-2019,d53e64,Osasuna,"1,651",18.3,5.0,0.0,47.0,1.0,2063.0,Osasuna
+,Aridane Hernández,gq EQG,DF,21,18,0.0,0.0,2018-2019,132ac341,Osasuna,"1,597",17.7,8.0,1.0,47.0,10.0,2092.0,Osasuna
+,Iñigo Pérez,es ESP,MF,21,14,4.0,1.0,2018-2019,bc61cc65,Osasuna,"1,344",14.9,2.0,0.0,47.0,1.0,,Osasuna
+,Lillo,es ESP,DF,19,13,0.0,0.0,2018-2019,476ca810,Osasuna,"1,221",13.6,3.0,1.0,47.0,1.0,,Osasuna
+,Robert Ibáñez,es ESP,MF,13,11,2.0,2.0,2018-2019,c7429db3,Osasuna,951,10.6,4.0,0.0,47.0,1.0,,Osasuna
+,Luis Perea,es ESP,MF,15,6,0.0,1.0,2018-2019,8dc6dbb3,Osasuna,569,6.3,0.0,0.0,47.0,1.0,2088.0,Osasuna
+,Xisco,es ESP,FW,29,5,0.0,5.0,2018-2019,d2790f7a,Osasuna,686,7.6,0.0,1.0,47.0,1.0,,Osasuna
+,David Rodríguez,es ESP,FW,12,4,0.0,0.0,2018-2019,bae862bf,Osasuna,459,5.1,0.0,0.0,47.0,1.0,,Osasuna
+,Sergio Herrera,es ESP,GK,4,4,0.0,0.0,2018-2019,4995f48,Osasuna,360,4.0,2.0,0.0,47.0,1.0,2090.0,Osasuna
+,Miguel Olavide,es ESP,MF,6,4,0.0,0.0,2018-2019,4bed972b,Osasuna,307,3.4,0.0,0.0,47.0,1.0,2060.0,Osasuna
+,Juan Pérez,es ESP,GK,2,2,0.0,0.0,2018-2019,8f29e08b,Osasuna,180,2.0,0.0,0.0,47.0,1.0,2066.0,Osasuna
+,Imanol García,es ESP,MF,3,1,0.0,0.0,2018-2019,90ed68c,Osasuna,118,1.3,0.0,0.0,47.0,1.0,2084.0,Osasuna
+,Endika Irigoyen,es ESP,DF,2,0,0.0,0.0,2018-2019,f24700f7,Osasuna,52,0.6,0.0,0.0,47.0,1.0,2098.0,Osasuna
+,Miguel Flaño,es ESP,DF,2,0,0.0,0.0,2018-2019,1662668d,Osasuna,8,0.1,0.0,0.0,47.0,1.0,2009.0,Osasuna
+,Javi Martínez,es ESP,MF,1,0,0.0,0.0,2018-2019,3672b352,Osasuna,8,0.1,0.0,0.0,47.0,1.0,2099.0,Osasuna
+,Aimar Oroz,es ESP,MF,1,0,0.0,0.0,2018-2019,7c363088,Osasuna,1,0.0,0.0,0.0,47.0,1.0,2100.0,Osasuna
+,Barbero,es ESP,FW,0,0,,,2018-2019,981c1863,Osasuna,,,,,47.0,1.0,2101.0,Osasuna
+,Iván Martínez,es ESP,GK,0,0,,,2018-2019,4916ebd8,Osasuna,,,,,47.0,1.0,2102.0,Osasuna
+,Jon Moncayola,es ESP,MF,0,0,,,2018-2019,9939e168,Osasuna,,,,,47.0,1.0,,Osasuna
+,﻿Pervis Estupiñán,ec ECU,DF,36,32,5.0,1.0,2019-2020,d38fdf53,Osasuna,"2,979",33.1,8.0,0.0,47.0,61.0,,Osasuna
+,David García,es ESP,DF,32,31,0.0,0.0,2019-2020,3e42f707,Osasuna,"2,793",31.0,7.0,0.0,47.0,1.0,2057.0,Osasuna
+,Roberto Torres,es ESP,MF,36,31,8.0,7.0,2019-2020,d733aa38,Osasuna,"2,717",30.2,1.0,0.0,47.0,1.0,2045.0,Osasuna
+,Aridane Hernández,gq EQG,DF,29,29,0.0,3.0,2019-2020,132ac341,Osasuna,"2,610",29.0,8.0,0.0,47.0,10.0,2092.0,Osasuna
+,Oier Sanjurjo,es ESP,MF,29,27,1.0,2.0,2019-2020,466824fb,Osasuna,"2,320",25.8,15.0,1.0,47.0,1.0,,Osasuna
+,Darko Brašanac,rs SRB,MF,31,27,1.0,0.0,2019-2020,4accb7e0,Osasuna,"2,245",24.9,8.0,0.0,47.0,28.0,,Osasuna
+,Nacho Vidal,es ESP,DF,30,26,0.0,0.0,2019-2020,3a9c4b7b,Osasuna,"2,332",25.9,5.0,0.0,47.0,1.0,,Osasuna
+,Rubén García,es ESP,"MF,FW",30,25,2.0,8.0,2019-2020,5c96b017,Osasuna,"2,188",24.3,6.0,0.0,47.0,1.0,2096.0,Osasuna
+,Sergio Herrera,es ESP,GK,19,18,0.0,0.0,2019-2020,4995f48,Osasuna,"1,655",18.4,2.0,1.0,47.0,1.0,2090.0,Osasuna
+,Ezequiel Ávila,ar ARG,FW,20,18,2.0,9.0,2019-2020,253a06b9,Osasuna,"1,591",17.7,6.0,0.0,47.0,5.0,2104.0,Osasuna
+,Rubén,es ESP,GK,19,18,0.0,0.0,2019-2020,24279b8b,Osasuna,"1,583",17.6,0.0,0.0,47.0,1.0,,Osasuna
+,Adrián López,es ESP,"FW,MF",26,17,0.0,2.0,2019-2020,88a359d4,Osasuna,"1,443",16.0,0.0,0.0,47.0,1.0,,Osasuna
+,Jon Moncayola,es ESP,"MF,DF",27,15,0.0,1.0,2019-2020,9939e168,Osasuna,"1,496",16.6,4.0,0.0,47.0,1.0,,Osasuna
+,Facundo Roncaglia,ar ARG,DF,16,15,0.0,1.0,2019-2020,51e3954c,Osasuna,"1,277",14.2,4.0,2.0,47.0,5.0,,Osasuna
+,Fran Mérida,es ESP,MF,23,12,1.0,0.0,2019-2020,0e50f929,Osasuna,"1,161",12.9,9.0,1.0,47.0,1.0,,Osasuna
+,Iñigo Pérez,es ESP,MF,22,11,1.0,2.0,2019-2020,bc61cc65,Osasuna,"1,082",12.0,4.0,0.0,47.0,1.0,,Osasuna
+,Enric Gallego,es ESP,FW,14,9,0.0,3.0,2019-2020,82e9b89d,Osasuna,880,9.8,5.0,1.0,47.0,1.0,2105.0,Osasuna
+,Marc Cardona,es ESP,"FW,MF",19,9,2.0,1.0,2019-2020,b92b456a,Osasuna,705,7.8,1.0,0.0,47.0,1.0,,Osasuna
+,José Arnaiz,es ESP,"FW,MF",14,8,1.0,2.0,2019-2020,46e07328,Osasuna,791,8.8,2.0,0.0,47.0,1.0,,Osasuna
+,Raúl Navas,es ESP,DF,9,8,0.0,0.0,2019-2020,d178594,Osasuna,711,7.9,2.0,0.0,47.0,1.0,,Osasuna
+,Unai García,es ESP,DF,8,6,0.0,1.0,2019-2020,4a633cfe,Osasuna,536,6.0,0.0,0.0,47.0,1.0,2051.0,Osasuna
+,Toni Lato,es ESP,"DF,MF",8,6,0.0,1.0,2019-2020,8e088e04,Osasuna,470,5.2,3.0,0.0,47.0,1.0,,Osasuna
+,Robert Ibáñez,es ESP,"MF,FW",14,5,0.0,1.0,2019-2020,c7429db3,Osasuna,537,6.0,3.0,0.0,47.0,1.0,,Osasuna
+,Brandon,es ESP,"FW,MF",8,5,1.0,0.0,2019-2020,3e016e5a,Osasuna,406,4.5,4.0,0.0,47.0,1.0,,Osasuna
+,Kike Barja,es ESP,"MF,FW",8,4,1.0,0.0,2019-2020,d53e64,Osasuna,313,3.5,0.0,0.0,47.0,1.0,2063.0,Osasuna
+,Juan Villar,es ESP,"FW,MF",10,2,0.0,1.0,2019-2020,c33ee247,Osasuna,240,2.7,1.0,0.0,47.0,1.0,2097.0,Osasuna
+,Lillo,es ESP,DF,4,2,0.0,0.0,2019-2020,476ca810,Osasuna,195,2.2,2.0,0.0,47.0,1.0,,Osasuna
+,Juan Pérez,es ESP,GK,2,2,0.0,0.0,2019-2020,8f29e08b,Osasuna,180,2.0,0.0,0.0,47.0,1.0,2066.0,Osasuna
+,Luis Perea,es ESP,FW,2,0,0.0,0.0,2019-2020,8dc6dbb3,Osasuna,21,0.2,0.0,0.0,47.0,1.0,2088.0,Osasuna
+,Aimar Oroz,es ESP,FW,1,0,0.0,0.0,2019-2020,7c363088,Osasuna,11,0.1,0.0,0.0,47.0,1.0,2100.0,Osasuna
+,Javi Martínez,es ESP,MF,1,0,0.0,0.0,2019-2020,3672b352,Osasuna,10,0.1,0.0,0.0,47.0,1.0,2099.0,Osasuna
+,José Hualde,es ESP,MF,0,0,,,2019-2020,2e5c0b73,Osasuna,,,,,47.0,1.0,2106.0,Osasuna
+,Iñaki,es ESP,GK,0,0,,,2019-2020,036336ce,Osasuna,,,,,47.0,1.0,2107.0,Osasuna
+,Antonio Otegui,es ESP,MF,0,0,,,2019-2020,b7d5bc5e,Osasuna,,,,,47.0,1.0,2065.0,Osasuna
+,﻿David García,es ESP,DF,35,35,0.0,1.0,2020-2021,3e42f707,Osasuna,"3,150",35.0,8.0,0.0,47.0,1.0,2057.0,Osasuna
+,Rubén García,es ESP,"MF,FW",37,33,5.0,3.0,2020-2021,5c96b017,Osasuna,"2,718",30.2,2.0,0.0,47.0,1.0,2096.0,Osasuna
+,Sergio Herrera,es ESP,GK,33,32,0.0,0.0,2020-2021,4995f48,Osasuna,"2,958",32.9,2.0,0.0,47.0,1.0,2090.0,Osasuna
+,Jon Moncayola,es ESP,MF,36,28,0.0,2.0,2020-2021,9939e168,Osasuna,"2,660",29.6,7.0,1.0,47.0,1.0,,Osasuna
+,Nacho Vidal,es ESP,DF,34,25,0.0,0.0,2020-2021,3a9c4b7b,Osasuna,"2,348",26.1,10.0,0.0,47.0,1.0,,Osasuna
+,Oier Sanjurjo,es ESP,MF,32,24,2.0,0.0,2020-2021,466824fb,Osasuna,"2,084",23.2,10.0,0.0,47.0,1.0,,Osasuna
+,Aridane Hernández,gq EQG,DF,24,24,0.0,0.0,2020-2021,132ac341,Osasuna,"2,026",22.5,3.0,1.0,47.0,10.0,2092.0,Osasuna
+,Juan Cruz Armada,es ESP,DF,26,23,0.0,0.0,2020-2021,56da3ba,Osasuna,"1,962",21.8,4.0,0.0,47.0,1.0,2108.0,Osasuna
+,Jonathan Calleri,ar ARG,FW,25,20,2.0,5.0,2020-2021,6922f806,Osasuna,"1,544",17.2,4.0,0.0,47.0,5.0,2109.0,Osasuna
+,Roberto Torres,es ESP,"MF,FW",35,19,1.0,7.0,2020-2021,d733aa38,Osasuna,"1,894",21.0,0.0,0.0,47.0,1.0,2045.0,Osasuna
+,Ante Budimir,hr CRO,FW,30,18,0.0,11.0,2020-2021,8f3565b3,Osasuna,"1,625",18.1,3.0,0.0,47.0,16.0,,Osasuna
+,Lucas Torró,es ESP,MF,25,17,1.0,0.0,2020-2021,0e4fef6e,Osasuna,"1,548",17.2,4.0,0.0,47.0,1.0,2091.0,Osasuna
+,Kike Barja,es ESP,"MF,FW",33,17,3.0,2.0,2020-2021,d53e64,Osasuna,"1,433",15.9,2.0,0.0,47.0,1.0,2063.0,Osasuna
+,Iñigo Pérez,es ESP,"MF,DF",22,16,0.0,0.0,2020-2021,bc61cc65,Osasuna,"1,347",15.0,4.0,1.0,47.0,1.0,,Osasuna
+,Facundo Roncaglia,ar ARG,DF,17,14,1.0,1.0,2020-2021,51e3954c,Osasuna,"1,232",13.7,3.0,1.0,47.0,5.0,,Osasuna
+,Unai García,es ESP,DF,17,13,0.0,0.0,2020-2021,4a633cfe,Osasuna,"1,242",13.8,3.0,0.0,47.0,1.0,2051.0,Osasuna
+,Manuel Sánchez,es ESP,DF,16,10,4.0,0.0,2020-2021,ffacd3d5,Osasuna,976,10.8,4.0,0.0,47.0,1.0,2110.0,Osasuna
+,Darko Brašanac,rs SRB,MF,16,9,0.0,2.0,2020-2021,4accb7e0,Osasuna,909,10.1,4.0,0.0,47.0,28.0,,Osasuna
+,Jony,es ESP,"MF,FW",22,9,2.0,0.0,2020-2021,244f57b9,Osasuna,871,9.7,0.0,0.0,47.0,1.0,2111.0,Osasuna
+,Enric Gallego,es ESP,FW,22,8,2.0,0.0,2020-2021,82e9b89d,Osasuna,806,9.0,2.0,0.0,47.0,1.0,2105.0,Osasuna
+,Javi Martínez,es ESP,"MF,FW",13,6,1.0,1.0,2020-2021,3672b352,Osasuna,460,5.1,1.0,0.0,47.0,1.0,2099.0,Osasuna
+,Adrián López,es ESP,"FW,MF",17,5,1.0,1.0,2020-2021,88a359d4,Osasuna,481,5.3,0.0,0.0,47.0,1.0,,Osasuna
+,Jonás Ramalho,es ESP,DF,5,3,0.0,0.0,2020-2021,be3a0121,Osasuna,304,3.4,0.0,0.0,47.0,1.0,,Osasuna
+,Juan Pérez,es ESP,GK,3,3,0.0,0.0,2020-2021,8f29e08b,Osasuna,270,3.0,0.0,0.0,47.0,1.0,2066.0,Osasuna
+,Rubén,es ESP,GK,3,3,0.0,0.0,2020-2021,24279b8b,Osasuna,187,2.1,0.0,1.0,47.0,1.0,,Osasuna
+,Ezequiel Ávila,ar ARG,"FW,MF",8,2,0.0,0.0,2020-2021,253a06b9,Osasuna,202,2.2,0.0,0.0,47.0,5.0,2104.0,Osasuna
+,Raúl Navas,es ESP,DF,2,2,0.0,0.0,2020-2021,d178594,Osasuna,168,1.9,0.0,0.0,47.0,1.0,,Osasuna
+,Marc Cardona,es ESP,"FW,DF",3,0,0.0,0.0,2020-2021,b92b456a,Osasuna,53,0.6,0.0,0.0,47.0,1.0,,Osasuna
+,Brandon,es ESP,"FW,MF",0,0,,,2020-2021,3e016e5a,Osasuna,,,,,47.0,1.0,,Osasuna
+,Asier Córdoba,es ESP,FW,0,0,,,2020-2021,5ff577e6,Osasuna,,,,,47.0,1.0,2112.0,Osasuna
+,Iñaki,es ESP,GK,0,0,,,2020-2021,036336ce,Osasuna,,,,,47.0,1.0,2107.0,Osasuna
+,Iván Martínez,es ESP,GK,0,0,,,2020-2021,4916ebd8,Osasuna,,,,,47.0,1.0,2102.0,Osasuna
+,Aimar Oroz,es ESP,MF,0,0,,,2020-2021,7c363088,Osasuna,,,,,47.0,1.0,2100.0,Osasuna
+,Kike Saverio,es ESP,FW,0,0,,,2020-2021,1af67930,Osasuna,,,,,47.0,1.0,,Osasuna
+,Gorka Zabarte,es ESP,DF,0,0,,,2020-2021,31f33499,Osasuna,,,,,47.0,1.0,2113.0,Osasuna
+,﻿Sergio Herrera,es ESP,GK,36,36,0.0,0.0,2021-2022,4995f48,Osasuna,"3,240",36.0,3.0,0.0,47.0,1.0,2090.0,Osasuna
+,David García,es ESP,DF,35,35,0.0,4.0,2021-2022,3e42f707,Osasuna,"3,105",34.5,8.0,0.0,47.0,1.0,2057.0,Osasuna
+,Jon Moncayola,es ESP,MF,36,33,3.0,2.0,2021-2022,9939e168,Osasuna,"2,915",32.4,2.0,0.0,47.0,1.0,,Osasuna
+,Nacho Vidal,es ESP,DF,35,33,1.0,0.0,2021-2022,3a9c4b7b,Osasuna,"2,902",32.2,9.0,0.0,47.0,1.0,,Osasuna
+,Lucas Torró,es ESP,MF,33,32,0.0,1.0,2021-2022,0e4fef6e,Osasuna,"2,725",30.3,10.0,0.0,47.0,1.0,2091.0,Osasuna
+,Rubén García,es ESP,"MF,FW",37,30,6.0,1.0,2021-2022,5c96b017,Osasuna,"2,375",26.4,1.0,0.0,47.0,1.0,2096.0,Osasuna
+,Darko Brašanac,rs SRB,MF,35,27,2.0,1.0,2021-2022,4accb7e0,Osasuna,"2,405",26.7,8.0,0.0,47.0,28.0,,Osasuna
+,Manuel Sánchez,es ESP,DF,33,25,3.0,1.0,2021-2022,ffacd3d5,Osasuna,"2,257",25.1,6.0,0.0,47.0,1.0,2110.0,Osasuna
+,Juan Cruz Armada,es ESP,DF,23,22,0.0,0.0,2021-2022,56da3ba,Osasuna,"1,934",21.5,4.0,0.0,47.0,1.0,2108.0,Osasuna
+,Ezequiel Ávila,ar ARG,"FW,MF",36,22,1.0,6.0,2021-2022,253a06b9,Osasuna,"1,870",20.8,9.0,1.0,47.0,5.0,2104.0,Osasuna
+,Ante Budimir,hr CRO,FW,28,20,2.0,8.0,2021-2022,8f3565b3,Osasuna,"1,738",19.3,3.0,0.0,47.0,16.0,,Osasuna
+,Kike,es ESP,FW,33,18,1.0,5.0,2021-2022,897d8ba,Osasuna,"1,862",20.7,2.0,0.0,47.0,1.0,2114.0,Osasuna
+,Unai García,es ESP,DF,18,15,0.0,0.0,2021-2022,4a633cfe,Osasuna,"1,408",15.6,5.0,0.0,47.0,1.0,2051.0,Osasuna
+,Aridane Hernández,gq EQG,DF,15,12,0.0,0.0,2021-2022,132ac341,Osasuna,"1,159",12.9,1.0,0.0,47.0,10.0,2092.0,Osasuna
+,José Ángel,es ESP,DF,23,12,1.0,1.0,2021-2022,3024e383,Osasuna,"1,083",12.0,2.0,1.0,47.0,1.0,,Osasuna
+,Javi Martínez,es ESP,"MF,FW",26,9,1.0,1.0,2021-2022,3672b352,Osasuna,879,9.8,1.0,0.0,47.0,1.0,2099.0,Osasuna
+,Kike Barja,es ESP,"MF,FW",21,9,0.0,2.0,2021-2022,d53e64,Osasuna,865,9.6,2.0,0.0,47.0,1.0,2063.0,Osasuna
+,Oier Sanjurjo,es ESP,MF,25,8,0.0,1.0,2021-2022,466824fb,Osasuna,758,8.4,3.0,0.0,47.0,1.0,,Osasuna
+,Roberto Torres,es ESP,"MF,FW",28,6,2.0,2.0,2021-2022,d733aa38,Osasuna,809,9.0,3.0,0.0,47.0,1.0,2045.0,Osasuna
+,Iñigo Pérez,es ESP,MF,10,4,0.0,1.0,2021-2022,bc61cc65,Osasuna,338,3.8,0.0,0.0,47.0,1.0,,Osasuna
+,Jonás Ramalho,es ESP,DF,3,3,0.0,0.0,2021-2022,be3a0121,Osasuna,243,2.7,0.0,0.0,47.0,1.0,,Osasuna
+,Jesús Areso,es ESP,DF,3,2,0.0,0.0,2021-2022,94e01ec6,Osasuna,188,2.1,1.0,0.0,47.0,1.0,2115.0,Osasuna
+,Juan Pérez,es ESP,GK,2,2,0.0,0.0,2021-2022,8f29e08b,Osasuna,180,2.0,0.0,0.0,47.0,1.0,2066.0,Osasuna
+,Iker Benito,es ESP,"MF,FW",4,1,0.0,0.0,2021-2022,50cbc806,Osasuna,118,1.3,1.0,0.0,47.0,1.0,2116.0,Osasuna
+,Robert Ibáñez,es ESP,"MF,FW",4,1,0.0,0.0,2021-2022,c7429db3,Osasuna,93,1.0,0.0,0.0,47.0,1.0,,Osasuna
+,Unai Dufur,es ESP,DF,1,1,0.0,0.0,2021-2022,c261b5dd,Osasuna,90,1.0,0.0,0.0,47.0,1.0,2117.0,Osasuna
+,Javier Ontiveros,es ESP,"FW,MF",3,0,0.0,0.0,2021-2022,83d8b0c,Osasuna,39,0.4,0.0,0.0,47.0,1.0,2118.0,Osasuna
+,Barbero,es ESP,"FW,MF",6,0,0.0,0.0,2021-2022,981c1863,Osasuna,21,0.2,0.0,0.0,47.0,1.0,2101.0,Osasuna
+,Jaume Grau,es ESP,MF,1,0,0.0,0.0,2021-2022,fc3d2006,Osasuna,3,0.0,0.0,0.0,47.0,1.0,2119.0,Osasuna
+,Pau Martínez,es ESP,FW,0,0,,,2021-2022,bf01474e,Osasuna,,,,,47.0,1.0,2120.0,Osasuna
+,Yoel Ramírez,es ESP,GK,0,0,,,2021-2022,bcd2dac9,Osasuna,,,,,47.0,1.0,2121.0,Osasuna
+,Dario Ramos,es ESP,GK,0,0,,,2021-2022,d2f94ed9,Osasuna,,,,,47.0,1.0,,Osasuna

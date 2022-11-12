@@ -1,0 +1,510 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Javier Jauregui,es ESP,GK,42,42,0.0,0.0,2002-2003,d654aceb,Cordoba,"3,780",42.0,1.0,0.0,73.0,1.0,5280.0,Cordoba
+,Daniel López Ramos,es ESP,DF,38,38,0.0,1.0,2002-2003,915cea2d,Cordoba,"3,323",36.9,3.0,0.0,73.0,1.0,,Cordoba
+,Ramón,es ESP,DF,36,34,0.0,2.0,2002-2003,6892efc4,Cordoba,"3,055",33.9,14.0,0.0,73.0,1.0,,Cordoba
+,Gorka García,es ESP,DF,37,34,1.0,3.0,2002-2003,07adf7c8,Cordoba,"2,951",32.8,4.0,0.0,73.0,1.0,,Cordoba
+,Ariel Montenegro,ar ARG,MF,26,25,3.0,10.0,2002-2003,d5835cca,Cordoba,"2,185",24.3,2.0,0.0,73.0,5.0,,Cordoba
+,Moisés,es ESP,FW,23,23,3.0,6.0,2002-2003,3415193,Cordoba,"2,063",22.9,5.0,0.0,73.0,1.0,,Cordoba
+,Andrés Pato Bernal,es ESP,DF,33,22,0.0,0.0,2002-2003,7405d294,Cordoba,"2,213",24.6,2.0,0.0,73.0,1.0,5281.0,Cordoba
+,Miguel Ángel Soria,es ESP,DF,21,21,1.0,0.0,2002-2003,22ab6697,Cordoba,"1,854",20.6,5.0,1.0,73.0,1.0,,Cordoba
+,Eloy Jiménez,es ESP,FW,26,20,0.0,0.0,2002-2003,facaf56c,Cordoba,"1,524",16.9,5.0,0.0,73.0,1.0,5282.0,Cordoba
+,Francisco Lama,es ESP,MF,21,19,0.0,0.0,2002-2003,39e2db59,Cordoba,"1,722",19.1,7.0,0.0,73.0,1.0,,Cordoba
+,Dennis Șerban,ro ROU,MF,21,18,6.0,3.0,2002-2003,c8abdfcc,Cordoba,"1,523",16.9,6.0,0.0,73.0,51.0,5283.0,Cordoba
+,Alfonso Sanchez,,,28,17,1.0,3.0,2002-2003,,Cordoba,"1,554",17.3,7.0,0.0,73.0,,,Cordoba
+,Iñaki Berruet,es ESP,DF,16,16,0.0,1.0,2002-2003,9fd5c7b8,Cordoba,"1,421",15.8,6.0,1.0,73.0,1.0,,Cordoba
+,Adil Ramzi,ma MAR,"FW,MF",20,16,2.0,2.0,2002-2003,48316f9e,Cordoba,"1,371",15.2,3.0,1.0,73.0,26.0,5284.0,Cordoba
+,Daniel Platero,,,22,14,0.0,1.0,2002-2003,,Cordoba,"1,345",14.9,1.0,0.0,73.0,,,Cordoba
+,Antonio Sarmiento,es ESP,MF,16,13,0.0,0.0,2002-2003,8e2af521,Cordoba,"1,099",12.2,5.0,0.0,73.0,1.0,5285.0,Cordoba
+,Marquez Sandro,,,13,13,0.0,0.0,2002-2003,,Cordoba,"1,019",11.3,1.0,2.0,73.0,,,Cordoba
+,M Soto,,,16,11,0.0,0.0,2002-2003,,Cordoba,963,10.7,5.0,0.0,73.0,,,Cordoba
+,Javi Gracia,es ESP,MF,17,9,0.0,0.0,2002-2003,f46017c3,Cordoba,841,9.3,3.0,0.0,73.0,1.0,,Cordoba
+,Garrido,es ESP,DF,9,9,0.0,0.0,2002-2003,32852179,Cordoba,809,9.0,3.0,0.0,73.0,1.0,,Cordoba
+,Manuel Ruano,es ESP,MF,15,9,0.0,0.0,2002-2003,67eb7267,Cordoba,697,7.7,3.0,0.0,73.0,1.0,5286.0,Cordoba
+,Juanlu,es ESP,"FW,MF",14,8,1.0,1.0,2002-2003,431ac3e7,Cordoba,814,9.0,0.0,0.0,73.0,1.0,,Cordoba
+,Whelliton,br BRA,FW,17,6,1.0,1.0,2002-2003,40e9437f,Cordoba,745,8.3,4.0,1.0,73.0,2.0,5287.0,Cordoba
+,Marcos Márquez,es ESP,FW,13,6,0.0,1.0,2002-2003,914f774e,Cordoba,586,6.5,1.0,0.0,73.0,1.0,5288.0,Cordoba
+,Fernando,es ESP,MF,6,6,2.0,1.0,2002-2003,b1255243,Cordoba,455,5.1,2.0,0.0,73.0,1.0,5289.0,Cordoba
+,Gomez Manolo,,,8,5,0.0,0.0,2002-2003,,Cordoba,493,5.5,1.0,0.0,73.0,,,Cordoba
+,Grajales Salva,,,4,3,0.0,0.0,2002-2003,,Cordoba,304,3.4,0.0,0.0,73.0,,,Cordoba
+,Gonzalez Juanito,,,5,3,0.0,0.0,2002-2003,,Cordoba,240,2.7,0.0,0.0,73.0,,,Cordoba
+,Alfonso Gutierrez,,,7,1,0.0,0.0,2002-2003,,Cordoba,247,2.7,0.0,0.0,73.0,,,Cordoba
+,Emmanuel David,no NOR,,4,1,0.0,0.0,2002-2003,79064d56,Cordoba,134,1.5,1.0,0.0,73.0,21.0,,Cordoba
+,David Feito,es ESP,DF,1,0,0.0,0.0,2002-2003,87973eb0,Cordoba,28,0.3,0.0,0.0,73.0,1.0,5290.0,Cordoba
+,Rafa Navarro,,,1,0,0.0,0.0,2002-2003,,Cordoba,16,0.2,0.0,0.0,73.0,,,Cordoba
+,Casado Alfonso,,,1,0,0.0,0.0,2002-2003,,Cordoba,8,0.1,0.0,0.0,73.0,,,Cordoba
+,﻿Silvio González,ar ARG,FW,40,40,4.0,11.0,2003-2004,6db4e9a5,Cordoba,"3,463",38.5,6.0,0.0,73.0,5.0,,Cordoba
+,Javier Jauregui,es ESP,GK,38,38,0.0,0.0,2003-2004,d654aceb,Cordoba,"3,420",38.0,3.0,0.0,73.0,1.0,5280.0,Cordoba
+,Iñaki Berruet,es ESP,DF,37,37,0.0,1.0,2003-2004,9fd5c7b8,Cordoba,"3,267",36.3,12.0,0.0,73.0,1.0,,Cordoba
+,Pablo Sierra,es ESP,MF,39,36,5.0,3.0,2003-2004,224f3a5f,Cordoba,"3,108",34.5,4.0,0.0,73.0,1.0,,Cordoba
+,Juanmi Gelabert,es ESP,DF,35,35,0.0,0.0,2003-2004,2603ea8e,Cordoba,"3,121",34.7,10.0,1.0,73.0,1.0,,Cordoba
+,Iñigo Larrainzar,es ESP,DF,34,34,1.0,0.0,2003-2004,4c7b1e6c,Cordoba,"3,054",33.9,6.0,3.0,73.0,1.0,,Cordoba
+,Ramón,es ESP,DF,33,33,1.0,1.0,2003-2004,6892efc4,Cordoba,"2,874",31.9,13.0,0.0,73.0,1.0,,Cordoba
+,Nicolás Olivera,uy URU,"FW,MF",38,31,5.0,9.0,2003-2004,691fd00c,Cordoba,"2,752",30.6,9.0,1.0,73.0,8.0,,Cordoba
+,Ariel Montenegro,ar ARG,MF,35,28,3.0,4.0,2003-2004,d5835cca,Cordoba,"2,449",27.2,4.0,0.0,73.0,5.0,,Cordoba
+,Francisco Lama,es ESP,MF,31,22,1.0,0.0,2003-2004,39e2db59,Cordoba,"1,950",21.7,13.0,1.0,73.0,1.0,,Cordoba
+,Pablo Villa,es ESP,FW,37,18,1.0,4.0,2003-2004,c6b66eea,Cordoba,"1,857",20.6,6.0,0.0,73.0,1.0,5291.0,Cordoba
+,Daniel López Ramos,es ESP,DF,22,18,2.0,0.0,2003-2004,915cea2d,Cordoba,"1,608",17.9,6.0,2.0,73.0,1.0,,Cordoba
+,Christer George,no NOR,MF,29,16,2.0,1.0,2003-2004,07bd582b,Cordoba,"1,304",14.5,2.0,0.0,73.0,21.0,5292.0,Cordoba
+,Andrés Fleurquin,uy URU,MF,27,15,0.0,1.0,2003-2004,bf3705e6,Cordoba,"1,321",14.7,10.0,0.0,73.0,8.0,,Cordoba
+,Txiki,es ESP,MF,19,14,2.0,1.0,2003-2004,c52d35e,Cordoba,"1,279",14.2,3.0,0.0,73.0,1.0,,Cordoba
+,Miguel Ángel Soria,es ESP,DF,14,12,1.0,1.0,2003-2004,22ab6697,Cordoba,"1,093",12.1,3.0,1.0,73.0,1.0,,Cordoba
+,Javi Gracia,es ESP,MF,21,11,0.0,0.0,2003-2004,f46017c3,Cordoba,"1,117",12.4,4.0,0.0,73.0,1.0,,Cordoba
+,Ángel Pérez,es ESP,DF,9,8,0.0,0.0,2003-2004,706bad3,Cordoba,665,7.4,1.0,0.0,73.0,1.0,,Cordoba
+,Dante López,py PAR,FW,14,4,0.0,0.0,2003-2004,c0ba22cc,Cordoba,561,6.2,2.0,0.0,73.0,43.0,5293.0,Cordoba
+,Daniel Platero,,,14,4,1.0,0.0,2003-2004,,Cordoba,420,4.7,2.0,0.0,73.0,,,Cordoba
+,Xavi Valero,es ESP,GK,4,4,0.0,0.0,2003-2004,3db74cf4,Cordoba,360,4.0,1.0,0.0,73.0,1.0,,Cordoba
+,Alfonso Sanchez,,,10,3,0.0,0.0,2003-2004,,Cordoba,321,3.6,4.0,0.0,73.0,,,Cordoba
+,Antonio Estevez,,,3,1,0.0,0.0,2003-2004,ffcf0c2,Cordoba,98,1.1,1.0,0.0,73.0,,,Cordoba
+,Rafael Ocana,,,1,0,0.0,0.0,2003-2004,,Cordoba,7,0.1,0.0,0.0,73.0,,,Cordoba
+,﻿Jose Selu,,,39,36,0.0,2.0,2004-2005,,Cordoba,"3,071",34.1,4.0,1.0,73.0,,,Cordoba
+,Txiki,es ESP,MF,37,27,3.0,3.0,2004-2005,c52d35e,Cordoba,"2,516",28.0,1.0,0.0,73.0,1.0,,Cordoba
+,Pablo Villa,es ESP,FW,34,24,2.0,7.0,2004-2005,c6b66eea,Cordoba,"2,368",26.3,10.0,0.0,73.0,1.0,5291.0,Cordoba
+,Sebastián Saja,ar ARG,GK,23,23,0.0,0.0,2004-2005,50a2cb6d,Cordoba,"2,070",23.0,2.0,0.0,73.0,5.0,,Cordoba
+,Cristian Álvarez,ar ARG,"DF,MF",23,23,5.0,9.0,2004-2005,c7c82f11,Cordoba,"1,940",21.6,9.0,0.0,73.0,5.0,,Cordoba
+,Mate Bilić,hr CRO,FW,31,22,0.0,3.0,2004-2005,37e6a4eb,Cordoba,"2,054",22.8,5.0,0.0,73.0,16.0,,Cordoba
+,Juan Ramón Ruano,es ESP,MF,24,22,3.0,1.0,2004-2005,fe3bdf87,Cordoba,"1,963",21.8,3.0,0.0,73.0,1.0,,Cordoba
+,Marc Bertrán,es ESP,DF,21,21,1.0,1.0,2004-2005,89a12cef,Cordoba,"1,823",20.3,4.0,2.0,73.0,1.0,,Cordoba
+,Daniel López Ramos,es ESP,DF,23,21,0.0,0.0,2004-2005,915cea2d,Cordoba,"1,767",19.6,4.0,0.0,73.0,1.0,,Cordoba
+,Ariel Montenegro,ar ARG,MF,25,18,0.0,1.0,2004-2005,d5835cca,Cordoba,"1,548",17.2,6.0,0.0,73.0,5.0,,Cordoba
+,Iñaki Berruet,es ESP,DF,21,17,0.0,2.0,2004-2005,9fd5c7b8,Cordoba,"1,515",16.8,8.0,0.0,73.0,1.0,,Cordoba
+,Fernando Marchiori,br BRA,MF,21,17,0.0,1.0,2004-2005,dae6e39f,Cordoba,"1,508",16.8,3.0,0.0,73.0,2.0,5294.0,Cordoba
+,Juanmi Gelabert,es ESP,DF,17,16,2.0,0.0,2004-2005,2603ea8e,Cordoba,"1,458",16.2,2.0,0.0,73.0,1.0,,Cordoba
+,Javier Jauregui,es ESP,GK,16,16,0.0,0.0,2004-2005,d654aceb,Cordoba,"1,440",16.0,0.0,0.0,73.0,1.0,5280.0,Cordoba
+,Alessandro Pierini,it ITA,DF,16,16,0.0,1.0,2004-2005,8e313f0,Cordoba,"1,359",15.1,5.0,1.0,73.0,9.0,,Cordoba
+,Leopoldo Jiménez,ve VEN,MF,18,14,0.0,0.0,2004-2005,72582bf3,Cordoba,"1,170",13.0,7.0,0.0,73.0,53.0,5295.0,Cordoba
+,Fernando Cáceres,ar ARG,DF,12,11,0.0,0.0,2004-2005,fab1ce6d,Cordoba,"1,000",11.1,3.0,0.0,73.0,5.0,,Cordoba
+,Boris,es ESP,DF,11,10,0.0,0.0,2004-2005,6f531b7d,Cordoba,742,8.2,5.0,0.0,73.0,1.0,202.0,Cordoba
+,Mariano Armentano,ar ARG,FW,18,9,0.0,2.0,2004-2005,5819b50b,Cordoba,"1,032",11.5,2.0,0.0,73.0,5.0,,Cordoba
+,Rafa Moreno,,,11,9,0.0,0.0,2004-2005,,Cordoba,778,8.6,2.0,0.0,73.0,,,Cordoba
+,Jonay Hernández,ve VEN,DF,11,9,2.0,0.0,2004-2005,446038aa,Cordoba,717,8.0,2.0,0.0,73.0,53.0,5296.0,Cordoba
+,Anderson Costa,br BRA,FW,14,8,0.0,7.0,2004-2005,589fcba7,Cordoba,776,8.6,3.0,0.0,73.0,2.0,5297.0,Cordoba
+,Pablo Sierra,es ESP,MF,10,8,1.0,0.0,2004-2005,224f3a5f,Cordoba,745,8.3,2.0,0.0,73.0,1.0,,Cordoba
+,Fredrik Söderström,se SWE,MF,9,8,0.0,0.0,2004-2005,4a09c714,Cordoba,711,7.9,6.0,0.0,73.0,41.0,5298.0,Cordoba
+,Gorka García,es ESP,DF,9,8,0.0,0.0,2004-2005,07adf7c8,Cordoba,639,7.1,1.0,0.0,73.0,1.0,,Cordoba
+,Francisco Lama,es ESP,MF,10,8,2.0,0.0,2004-2005,39e2db59,Cordoba,565,6.3,1.0,1.0,73.0,1.0,,Cordoba
+,Silvio González,ar ARG,FW,14,7,1.0,0.0,2004-2005,6db4e9a5,Cordoba,748,8.3,3.0,0.0,73.0,5.0,,Cordoba
+,Iñigo Larrainzar,es ESP,DF,6,6,0.0,0.0,2004-2005,4c7b1e6c,Cordoba,530,5.9,3.0,0.0,73.0,1.0,,Cordoba
+,Munoz Servulo,,,10,5,0.0,1.0,2004-2005,,Cordoba,540,6.0,2.0,0.0,73.0,,,Cordoba
+,Óscar Pérez,es ESP,MF,11,4,0.0,0.0,2004-2005,4ae5f6a,Cordoba,603,6.7,6.0,0.0,73.0,1.0,,Cordoba
+,Antonio Sarmiento,es ESP,MF,7,4,0.0,0.0,2004-2005,8e2af521,Cordoba,305,3.4,0.0,0.0,73.0,1.0,5285.0,Cordoba
+,Ángel Guirado,ph PHI,"FW,MF",8,4,0.0,0.0,2004-2005,2fde6ff7,Cordoba,302,3.4,1.0,0.0,73.0,90.0,5299.0,Cordoba
+,Ángel Pérez,es ESP,DF,4,3,0.0,0.0,2004-2005,706bad3,Cordoba,306,3.4,1.0,0.0,73.0,1.0,,Cordoba
+,Sebastián Gómez,ad AND,"FW,GK",3,3,0.0,0.0,2004-2005,75ee086f,Cordoba,270,3.0,0.0,0.0,73.0,96.0,5300.0,Cordoba
+,Jorge Pérez Sáenz,es ESP,MF,6,2,0.0,0.0,2004-2005,70355cf3,Cordoba,240,2.7,0.0,0.0,73.0,1.0,,Cordoba
+,Oscar Osuna,,,1,1,0.0,0.0,2004-2005,,Cordoba,73,0.8,1.0,0.0,73.0,,,Cordoba
+,Germán Rojas,es ESP,DF,3,0,0.0,0.0,2004-2005,811fcf99,Cordoba,25,0.3,0.0,0.0,73.0,1.0,5301.0,Cordoba
+,Fali,es ESP,"DF,MF",1,0,0.0,0.0,2004-2005,65c75bfe,Cordoba,17,0.2,0.0,0.0,73.0,1.0,,Cordoba
+,﻿Alessandro Pierini,it ITA,DF,37,37,0.0,3.0,2007-2008,8e313f0,Cordoba,"3,207",35.6,7.0,0.0,73.0,9.0,,Cordoba
+,Asen,es ESP,FW,42,36,2.0,8.0,2007-2008,5725f8c6,Cordoba,"3,174",35.3,4.0,0.0,73.0,1.0,,Cordoba
+,Ito,es ESP,MF,33,32,1.0,0.0,2007-2008,dc620005,Cordoba,"2,664",29.6,16.0,2.0,73.0,1.0,,Cordoba
+,Pablo Ruiz,es ESP,DF,33,31,0.0,1.0,2007-2008,9fb57e68,Cordoba,"2,736",30.4,13.0,3.0,73.0,1.0,,Cordoba
+,Diego Reyes Muñoz,es ESP,DF,32,31,1.0,0.0,2007-2008,f52444a7,Cordoba,"2,661",29.6,10.0,0.0,73.0,1.0,,Cordoba
+,David Arteaga,es ESP,MF,35,27,10.0,4.0,2007-2008,86d9a411,Cordoba,"2,340",26.0,9.0,1.0,73.0,1.0,,Cordoba
+,Cristian Álvarez,ar ARG,"DF,MF",31,27,4.0,4.0,2007-2008,c7c82f11,Cordoba,"2,279",25.3,5.0,0.0,73.0,5.0,,Cordoba
+,Dani González,es ESP,FW,26,24,0.0,0.0,2007-2008,3f5737da,Cordoba,"2,086",23.2,10.0,1.0,73.0,1.0,,Cordoba
+,David Valle,es ESP,GK,23,22,0.0,0.0,2007-2008,9870d851,Cordoba,"2,064",22.9,3.0,0.0,73.0,1.0,5302.0,Cordoba
+,Arthuro,br BRA,FW,34,22,3.0,10.0,2007-2008,f5bfaa6,Cordoba,"1,927",21.4,11.0,2.0,73.0,2.0,,Cordoba
+,José Acciari,ar ARG,MF,28,21,0.0,1.0,2007-2008,9e98922b,Cordoba,"1,973",21.9,12.0,0.0,73.0,5.0,,Cordoba
+,Juanlu,es ESP,MF,30,21,1.0,5.0,2007-2008,94b88487,Cordoba,"1,893",21.0,7.0,2.0,73.0,1.0,,Cordoba
+,Julio Iglesias,es ESP,GK,20,20,0.0,0.0,2007-2008,7b1bc63c,Cordoba,"1,716",19.1,2.0,0.0,73.0,1.0,,Cordoba
+,Endika Bordas,es ESP,MF,22,16,0.0,1.0,2007-2008,ce394cc6,Cordoba,"1,467",16.3,9.0,0.0,73.0,1.0,,Cordoba
+,Javi Moreno,es ESP,FW,27,16,1.0,7.0,2007-2008,64497d05,Cordoba,"1,438",16.0,4.0,0.0,73.0,1.0,,Cordoba
+,Mario Gómez Atanet,es ESP,DF,16,16,0.0,0.0,2007-2008,f8f74950,Cordoba,"1,428",15.9,1.0,0.0,73.0,1.0,,Cordoba
+,Francisco Javier Cachorro,es ESP,,24,15,2.0,0.0,2007-2008,2c18e,Cordoba,"1,469",16.3,10.0,0.0,73.0,1.0,,Cordoba
+,Rubén Párraga,es ESP,DF,17,14,0.0,1.0,2007-2008,c8a5798c,Cordoba,"1,359",15.1,4.0,0.0,73.0,1.0,,Cordoba
+,Guzmán Casaseca,es ESP,MF,27,13,1.0,0.0,2007-2008,f05d4004,Cordoba,"1,239",13.8,4.0,0.0,73.0,1.0,,Cordoba
+,Suarez Aurelio,,,9,9,0.0,0.0,2007-2008,,Cordoba,793,8.8,5.0,1.0,73.0,,,Cordoba
+,Julio Pineda,es ESP,FW,21,6,1.0,3.0,2007-2008,09fc23e7,Cordoba,703,7.8,6.0,0.0,73.0,1.0,,Cordoba
+,Antonio González,es ESP,DF,12,6,0.0,0.0,2007-2008,89f9eead,Cordoba,683,7.6,2.0,0.0,73.0,1.0,,Cordoba
+,Juan Navarro,,,3,0,0.0,0.0,2007-2008,,Cordoba,45,0.5,1.0,0.0,73.0,,,Cordoba
+,Javi Flores,es ESP,MF,2,0,0.0,0.0,2007-2008,867f9ede,Cordoba,17,0.2,0.0,0.0,73.0,1.0,,Cordoba
+,﻿Alessandro Pierini,it ITA,DF,39,39,0.0,6.0,2008-2009,8e313f0,Cordoba,"3,510",39.0,3.0,0.0,73.0,9.0,,Cordoba
+,Raúl Navas,es ESP,GK,39,39,0.0,0.0,2008-2009,7bb77368,Cordoba,"3,465",38.5,5.0,1.0,73.0,1.0,,Cordoba
+,Rubén Párraga,es ESP,DF,39,38,1.0,1.0,2008-2009,c8a5798c,Cordoba,"3,433",38.1,14.0,0.0,73.0,1.0,,Cordoba
+,Asen,es ESP,FW,42,33,2.0,9.0,2008-2009,5725f8c6,Cordoba,"2,936",32.6,3.0,0.0,73.0,1.0,,Cordoba
+,Cristian Álvarez,ar ARG,"DF,MF",34,30,11.0,3.0,2008-2009,c7c82f11,Cordoba,"2,679",29.8,12.0,2.0,73.0,5.0,,Cordoba
+,David Arteaga,es ESP,MF,38,30,4.0,4.0,2008-2009,86d9a411,Cordoba,"2,509",27.9,4.0,0.0,73.0,1.0,,Cordoba
+,Ito,es ESP,MF,32,25,0.0,2.0,2008-2009,dc620005,Cordoba,"2,101",23.3,11.0,1.0,73.0,1.0,,Cordoba
+,Gaspar,es ESP,DF,25,23,1.0,1.0,2008-2009,75e5329b,Cordoba,"1,973",21.9,7.0,1.0,73.0,1.0,,Cordoba
+,Santiago Carpintero,es ESP,MF,26,22,0.0,1.0,2008-2009,139b88a8,Cordoba,"1,847",20.5,5.0,0.0,73.0,1.0,,Cordoba
+,Javi Flores,es ESP,MF,31,21,2.0,1.0,2008-2009,867f9ede,Cordoba,"1,980",22.0,8.0,2.0,73.0,1.0,,Cordoba
+,Juan Carlos Ceballos,es ESP,DF,21,19,1.0,1.0,2008-2009,c304dce,Cordoba,"1,674",18.6,6.0,3.0,73.0,1.0,,Cordoba
+,Natalio,es ESP,FW,20,18,2.0,2.0,2008-2009,239425b9,Cordoba,"1,588",17.6,2.0,0.0,73.0,1.0,,Cordoba
+,Yordi,es ESP,FW,27,16,3.0,5.0,2008-2009,8cbb78fb,Cordoba,"1,398",15.5,6.0,1.0,73.0,1.0,,Cordoba
+,Francisco Javier Cachorro,es ESP,,25,15,0.0,1.0,2008-2009,2c18e,Cordoba,"1,502",16.7,3.0,0.0,73.0,1.0,,Cordoba
+,Endika Bordas,es ESP,MF,19,15,0.0,1.0,2008-2009,ce394cc6,Cordoba,"1,255",13.9,2.0,0.0,73.0,1.0,,Cordoba
+,José Vega Díez,es ESP,MF,29,14,2.0,1.0,2008-2009,c9e78e4a,Cordoba,"1,419",15.8,3.0,2.0,73.0,1.0,,Cordoba
+,Pablo Ruiz,es ESP,DF,16,14,0.0,2.0,2008-2009,9fb57e68,Cordoba,"1,349",15.0,3.0,0.0,73.0,1.0,,Cordoba
+,Guzmán Casaseca,es ESP,MF,15,9,1.0,1.0,2008-2009,f05d4004,Cordoba,788,8.8,5.0,0.0,73.0,1.0,,Cordoba
+,Suarez Aurelio,,,11,9,1.0,0.0,2008-2009,,Cordoba,771,8.6,5.0,0.0,73.0,,,Cordoba
+,Gustavo Oberman,ar ARG,"FW,MF",14,8,0.0,0.0,2008-2009,d524c525,Cordoba,682,7.6,2.0,0.0,73.0,5.0,5303.0,Cordoba
+,Gastón Casas,ar ARG,FW,13,8,0.0,2.0,2008-2009,66258864,Cordoba,659,7.3,4.0,0.0,73.0,5.0,,Cordoba
+,Mario Gómez Atanet,es ESP,DF,8,7,0.0,0.0,2008-2009,f8f74950,Cordoba,595,6.6,2.0,0.0,73.0,1.0,,Cordoba
+,Pepe Díaz,es ESP,FW,15,4,0.0,2.0,2008-2009,d1af5864,Cordoba,566,6.3,3.0,0.0,73.0,1.0,5304.0,Cordoba
+,Javier Casas,es ESP,DF,3,3,0.0,0.0,2008-2009,269e763d,Cordoba,270,3.0,1.0,0.0,73.0,1.0,,Cordoba
+,Fernando,es ESP,GK,2,2,0.0,0.0,2008-2009,97e5a04b,Cordoba,180,2.0,0.0,0.0,73.0,1.0,5305.0,Cordoba
+,David Valle,es ESP,GK,3,1,0.0,0.0,2008-2009,9870d851,Cordoba,148,1.6,0.0,0.0,73.0,1.0,5302.0,Cordoba
+,Javi Pérez,es ESP,DF,1,0,0.0,0.0,2008-2009,13cd3035,Cordoba,13,0.1,0.0,0.0,73.0,1.0,5306.0,Cordoba
+,﻿Agus,es ESP,"DF,FW",38,37,0.0,2.0,2009-2010,f7a542c,Cordoba,"3,225",35.8,9.0,1.0,73.0,1.0,,Cordoba
+,Raúl Navas,es ESP,GK,35,35,0.0,0.0,2009-2010,7bb77368,Cordoba,"3,150",35.0,1.0,0.0,73.0,1.0,,Cordoba
+,Pepe Díaz,es ESP,FW,38,35,3.0,14.0,2009-2010,d1af5864,Cordoba,"2,992",33.2,5.0,0.0,73.0,1.0,5304.0,Cordoba
+,Gerardo,es ESP,"DF,MF",33,32,1.0,0.0,2009-2010,07c345de,Cordoba,"2,857",31.7,9.0,0.0,73.0,1.0,,Cordoba
+,Gaspar,es ESP,DF,32,30,0.0,0.0,2009-2010,75e5329b,Cordoba,"2,676",29.7,13.0,0.0,73.0,1.0,,Cordoba
+,David Arteaga,es ESP,MF,31,30,7.0,6.0,2009-2010,86d9a411,Cordoba,"2,602",28.9,6.0,1.0,73.0,1.0,,Cordoba
+,Jesús Rueda,es ESP,"DF,MF",30,30,0.0,2.0,2009-2010,9d8ba8ec,Cordoba,"2,523",28.0,5.0,1.0,73.0,1.0,,Cordoba
+,Asen,es ESP,FW,41,26,2.0,7.0,2009-2010,5725f8c6,Cordoba,"2,520",28.0,2.0,0.0,73.0,1.0,,Cordoba
+,Juan Rafael Fuentes,es ESP,DF,26,26,0.0,0.0,2009-2010,5b54a75f,Cordoba,"2,205",24.5,3.0,0.0,73.0,1.0,,Cordoba
+,Jorge Luque,es ESP,MF,34,25,5.0,1.0,2009-2010,8ca3ef48,Cordoba,"2,370",26.3,9.0,0.0,73.0,1.0,,Cordoba
+,Santiago Carpintero,es ESP,MF,29,22,1.0,1.0,2009-2010,139b88a8,Cordoba,"1,826",20.3,11.0,0.0,73.0,1.0,,Cordoba
+,Javi Flores,es ESP,MF,25,20,0.0,1.0,2009-2010,867f9ede,Cordoba,"1,687",18.7,4.0,0.0,73.0,1.0,,Cordoba
+,Juanjo Expósito,es ESP,FW,29,17,2.0,1.0,2009-2010,f0a0b756,Cordoba,"1,531",17.0,9.0,0.0,73.0,1.0,,Cordoba
+,José Vega Díez,es ESP,MF,28,16,2.0,3.0,2009-2010,c9e78e4a,Cordoba,"1,548",17.2,3.0,0.0,73.0,1.0,,Cordoba
+,Diego Scotti,uy URU,MF,19,14,1.0,0.0,2009-2010,7026c7b7,Cordoba,"1,298",14.4,2.0,0.0,73.0,8.0,5307.0,Cordoba
+,David Lopes,br BRA,DF,14,13,0.0,1.0,2009-2010,824b97,Cordoba,"1,181",13.1,3.0,1.0,73.0,2.0,5308.0,Cordoba
+,Richy,es ESP,DF,12,10,0.0,0.0,2009-2010,1d5089f0,Cordoba,914,10.2,1.0,0.0,73.0,1.0,,Cordoba
+,Mikel Dañobeitia,es ESP,"DF,FW",18,10,2.0,0.0,2009-2010,79ef0c96,Cordoba,788,8.8,4.0,0.0,73.0,1.0,,Cordoba
+,Juan Carlos Ceballos,es ESP,DF,8,7,0.0,0.0,2009-2010,c304dce,Cordoba,633,7.0,1.0,0.0,73.0,1.0,,Cordoba
+,Alberto García,es ESP,GK,7,7,0.0,0.0,2009-2010,17d9e354,Cordoba,630,7.0,0.0,0.0,73.0,1.0,,Cordoba
+,Javier Herreros,es ESP,DF,11,7,0.0,0.0,2009-2010,d63b7912,Cordoba,617,6.9,4.0,0.0,73.0,1.0,5309.0,Cordoba
+,Damián Lizio,bo BOL,"FW,MF",14,5,1.0,0.0,2009-2010,152df1c3,Cordoba,627,7.0,3.0,0.0,73.0,64.0,5310.0,Cordoba
+,András Simon,hu HUN,FW,9,2,0.0,0.0,2009-2010,84bfcad5,Cordoba,374,4.2,2.0,0.0,73.0,87.0,5311.0,Cordoba
+,Lauren,cm CMR,DF,4,2,0.0,0.0,2009-2010,0c662413,Cordoba,181,2.0,1.0,0.0,73.0,36.0,5312.0,Cordoba
+,Antonio Pascual,,,2,2,0.0,0.0,2009-2010,,Cordoba,174,1.9,0.0,0.0,73.0,,,Cordoba
+,José Cabrera,es ESP,MF,6,2,0.0,0.0,2009-2010,c7bf7830,Cordoba,151,1.7,0.0,0.0,73.0,1.0,,Cordoba
+,Gustavo Savoia,ar ARG,FW,13,0,0.0,0.0,2009-2010,220cc268,Cordoba,285,3.2,1.0,0.0,73.0,5.0,5313.0,Cordoba
+,﻿Miguel Ángel Tena,es ESP,DF,34,34,0.0,4.0,2010-2011,6389c2b,Cordoba,"3,014",33.5,13.0,0.0,73.0,1.0,,Cordoba
+,Richy,es ESP,DF,32,32,0.0,2.0,2010-2011,1d5089f0,Cordoba,"2,829",31.4,4.0,0.0,73.0,1.0,,Cordoba
+,Charles,br BRA,FW,36,31,2.0,15.0,2010-2011,c4b8bcf4,Cordoba,"2,544",28.3,9.0,1.0,73.0,2.0,,Cordoba
+,David de Coz,es ESP,DF,30,30,0.0,1.0,2010-2011,bf33fc94,Cordoba,"2,654",29.5,15.0,0.0,73.0,1.0,,Cordoba
+,Samuel Camille,mq MTQ,DF,32,30,1.0,0.0,2010-2011,5279c822,Cordoba,"2,583",28.7,9.0,0.0,73.0,104.0,,Cordoba
+,Juanmi Callejón,es ESP,MF,33,28,7.0,4.0,2010-2011,60bb7e62,Cordoba,"2,407",26.7,5.0,0.0,73.0,1.0,,Cordoba
+,David Arteaga,es ESP,MF,29,27,0.0,3.0,2010-2011,86d9a411,Cordoba,"2,257",25.1,4.0,0.0,73.0,1.0,,Cordoba
+,Fernando Usero,es ESP,MF,34,26,0.0,3.0,2010-2011,6eab305,Cordoba,"2,361",26.2,9.0,0.0,73.0,1.0,,Cordoba
+,Oriol Riera,es ESP,FW,37,25,4.0,6.0,2010-2011,d742ed9,Cordoba,"2,178",24.2,6.0,1.0,73.0,1.0,,Cordoba
+,Alberto García,es ESP,GK,25,24,0.0,0.0,2010-2011,17d9e354,Cordoba,"2,198",24.4,2.0,0.0,73.0,1.0,,Cordoba
+,Jorge Luque,es ESP,MF,31,24,0.0,3.0,2010-2011,8ca3ef48,Cordoba,"2,101",23.3,8.0,1.0,73.0,1.0,,Cordoba
+,Alberto Aguilar,es ESP,"DF,MF",31,23,1.0,3.0,2010-2011,1627a,Cordoba,"2,070",23.0,7.0,0.0,73.0,1.0,,Cordoba
+,Juan Rafael Fuentes,es ESP,DF,22,22,0.0,0.0,2010-2011,5b54a75f,Cordoba,"1,870",20.8,2.0,0.0,73.0,1.0,,Cordoba
+,Pepe Díaz,es ESP,FW,36,21,2.0,6.0,2010-2011,d1af5864,Cordoba,"2,072",23.0,5.0,0.0,73.0,1.0,5304.0,Cordoba
+,Raúl Navas,es ESP,GK,17,17,0.0,0.0,2010-2011,7bb77368,Cordoba,"1,492",16.6,2.0,0.0,73.0,1.0,,Cordoba
+,Agus,es ESP,"DF,FW",18,16,0.0,1.0,2010-2011,f7a542c,Cordoba,"1,422",15.8,7.0,0.0,73.0,1.0,,Cordoba
+,Javi Flores,es ESP,MF,25,14,3.0,1.0,2010-2011,867f9ede,Cordoba,"1,393",15.5,7.0,0.0,73.0,1.0,,Cordoba
+,Jonathan Sesma,es ESP,"FW,MF",22,9,4.0,2.0,2010-2011,7484a7cc,Cordoba,"1,048",11.6,1.0,0.0,73.0,1.0,,Cordoba
+,Gerardo,es ESP,"DF,MF",12,9,0.0,0.0,2010-2011,07c345de,Cordoba,886,9.8,1.0,0.0,73.0,1.0,,Cordoba
+,Jagoba Beobide,es ESP,MF,13,8,0.0,0.0,2010-2011,08dee721,Cordoba,721,8.0,2.0,1.0,73.0,1.0,,Cordoba
+,José Manuel Fernández,es ESP,DF,8,4,1.0,0.0,2010-2011,4af68c24,Cordoba,424,4.7,2.0,0.0,73.0,1.0,,Cordoba
+,Iñigo Díaz de Cerio,es ESP,FW,8,3,1.0,1.0,2010-2011,757bd109,Cordoba,290,3.2,0.0,0.0,73.0,1.0,,Cordoba
+,Mikel Dañobeitia,es ESP,"DF,FW",6,1,0.0,1.0,2010-2011,79ef0c96,Cordoba,180,2.0,1.0,0.0,73.0,1.0,,Cordoba
+,José Cabrera,es ESP,MF,6,1,0.0,0.0,2010-2011,c7bf7830,Cordoba,156,1.7,0.0,0.0,73.0,1.0,,Cordoba
+,Coca,es ESP,GK,1,1,0.0,0.0,2010-2011,7afff89,Cordoba,90,1.0,0.0,0.0,73.0,1.0,5314.0,Cordoba
+,Javier Hervás,es ESP,MF,1,1,0.0,0.0,2010-2011,04b8d5c8,Cordoba,90,1.0,0.0,0.0,73.0,1.0,,Cordoba
+,Gaspar,es ESP,DF,1,1,0.0,0.0,2010-2011,75e5329b,Cordoba,78,0.9,0.0,0.0,73.0,1.0,,Cordoba
+,Jesus Mane,,,5,0,1.0,0.0,2010-2011,,Cordoba,98,1.1,0.0,0.0,73.0,,,Cordoba
+,Fede Vico,es ESP,MF,1,0,0.0,0.0,2010-2011,f681a8ef,Cordoba,8,0.1,0.0,0.0,73.0,1.0,,Cordoba
+,﻿José López Silva,es ESP,MF,39,38,7.0,4.0,2011-2012,60d6ed20,Cordoba,"3,161",35.1,12.0,0.0,73.0,1.0,,Cordoba
+,Borja García,es ESP,"FW,MF",38,37,5.0,17.0,2011-2012,7f4603c,Cordoba,"3,204",35.6,5.0,0.0,73.0,1.0,,Cordoba
+,Alberto García,es ESP,GK,36,36,0.0,0.0,2011-2012,17d9e354,Cordoba,"3,194",35.5,4.0,0.0,73.0,1.0,,Cordoba
+,Aritz López Garai,es ESP,MF,39,35,1.0,0.0,2011-2012,59b0c4a0,Cordoba,"3,131",34.8,8.0,0.0,73.0,1.0,,Cordoba
+,Gaspar,es ESP,DF,33,33,2.0,1.0,2011-2012,75e5329b,Cordoba,"2,776",30.8,8.0,1.0,73.0,1.0,,Cordoba
+,Javier Hervás,es ESP,MF,32,31,0.0,3.0,2011-2012,04b8d5c8,Cordoba,"2,636",29.3,7.0,0.0,73.0,1.0,,Cordoba
+,Juan Rafael Fuentes,es ESP,DF,30,30,0.0,0.0,2011-2012,5b54a75f,Cordoba,"2,481",27.6,7.0,1.0,73.0,1.0,,Cordoba
+,Charles,br BRA,FW,30,29,4.0,7.0,2011-2012,c4b8bcf4,Cordoba,"2,505",27.8,9.0,1.0,73.0,2.0,,Cordoba
+,José Manuel Fernández,es ESP,DF,32,28,0.0,0.0,2011-2012,4af68c24,Cordoba,"2,678",29.8,2.0,0.0,73.0,1.0,,Cordoba
+,Javier Patiño,ph PHI,FW,35,24,0.0,8.0,2011-2012,38510249,Cordoba,"2,033",22.6,3.0,0.0,73.0,90.0,,Cordoba
+,David Prieto,es ESP,"DF,MF",22,21,0.0,1.0,2011-2012,8f24e,Cordoba,"1,699",18.9,6.0,2.0,73.0,1.0,,Cordoba
+,Miguel Ángel Tena,es ESP,DF,21,19,0.0,0.0,2011-2012,6389c2b,Cordoba,"1,674",18.6,8.0,1.0,73.0,1.0,,Cordoba
+,Ximo Navarro,es ESP,DF,17,15,0.0,0.0,2011-2012,8db394aa,Cordoba,"1,257",14.0,4.0,1.0,73.0,1.0,,Cordoba
+,Carlos Caballero,es ESP,MF,21,15,1.0,0.0,2011-2012,38afdbc5,Cordoba,"1,208",13.4,5.0,0.0,73.0,1.0,,Cordoba
+,Sebastián Dubarbier,ar ARG,"DF,FW",17,12,3.0,1.0,2011-2012,83877c7c,Cordoba,"1,108",12.3,5.0,0.0,73.0,5.0,,Cordoba
+,David Cerrajería,es ESP,DF,15,11,1.0,0.0,2011-2012,2ebb9df6,Cordoba,"1,052",11.7,4.0,1.0,73.0,1.0,,Cordoba
+,Alberto Aguilar,es ESP,"DF,MF",29,9,1.0,0.0,2011-2012,1627a,Cordoba,"1,230",13.7,6.0,0.0,73.0,1.0,,Cordoba
+,Pepe Díaz,es ESP,FW,26,9,2.0,5.0,2011-2012,d1af5864,Cordoba,"1,041",11.6,4.0,0.0,73.0,1.0,5304.0,Cordoba
+,Airam,es ESP,FW,16,8,1.0,3.0,2011-2012,130471ce,Cordoba,762,8.5,4.0,0.0,73.0,1.0,,Cordoba
+,Juan Quero,es ESP,MF,18,6,1.0,0.0,2011-2012,42107bed,Cordoba,631,7.0,1.0,0.0,73.0,1.0,,Cordoba
+,Carlos Erwin Arias,bo BOL,GK,7,6,0.0,0.0,2011-2012,12ca6099,Cordoba,586,6.5,0.0,0.0,73.0,64.0,5315.0,Cordoba
+,Fede Vico,es ESP,MF,24,5,0.0,2.0,2011-2012,f681a8ef,Cordoba,843,9.4,0.0,0.0,73.0,1.0,,Cordoba
+,Cristian García Ramos,es ESP,DF,3,3,0.0,0.0,2011-2012,73620865,Cordoba,216,2.4,0.0,0.0,73.0,1.0,,Cordoba
+,Afonso Taira,pt POR,MF,2,2,0.0,0.0,2011-2012,d5696a58,Cordoba,135,1.5,0.0,0.0,73.0,3.0,5316.0,Cordoba
+,Sebastián Balsas,uy URU,FW,4,0,0.0,0.0,2011-2012,5752180c,Cordoba,48,0.5,0.0,0.0,73.0,8.0,5317.0,Cordoba
+,Javi López,es ESP,FW,1,0,0.0,0.0,2011-2012,39e6cbab,Cordoba,24,0.3,0.0,0.0,73.0,1.0,,Cordoba
+,Ismael,es ESP,DF,1,0,0.0,0.0,2011-2012,3076ea08,Cordoba,14,0.2,1.0,0.0,73.0,1.0,5318.0,Cordoba
+,﻿Aritz López Garai,es ESP,MF,41,41,2.0,6.0,2012-2013,59b0c4a0,Cordoba,"3,670",40.8,9.0,0.0,73.0,1.0,,Cordoba
+,Alberto García,es ESP,GK,40,40,0.0,0.0,2012-2013,17d9e354,Cordoba,"3,600",40.0,3.0,0.0,73.0,1.0,,Cordoba
+,Juan Rafael Fuentes,es ESP,DF,35,33,2.0,2.0,2012-2013,5b54a75f,Cordoba,"2,787",31.0,6.0,1.0,73.0,1.0,,Cordoba
+,Pedro,es ESP,"FW,MF",39,33,7.0,5.0,2012-2013,b642c79,Cordoba,"2,786",31.0,7.0,0.0,73.0,1.0,,Cordoba
+,Abel Gómez Moreno,es ESP,MF,37,30,7.0,2.0,2012-2013,b09801d8,Cordoba,"2,565",28.5,6.0,0.0,73.0,1.0,,Cordoba
+,Sebastián Dubarbier,ar ARG,"DF,FW",34,28,1.0,2.0,2012-2013,83877c7c,Cordoba,"2,567",28.5,12.0,0.0,73.0,5.0,,Cordoba
+,Kiko Olivas,es ESP,DF,29,28,1.0,0.0,2012-2013,72b07a9c,Cordoba,"2,380",26.4,4.0,0.0,73.0,1.0,,Cordoba
+,José López Silva,es ESP,MF,35,27,4.0,4.0,2012-2013,60d6ed20,Cordoba,"2,463",27.4,6.0,2.0,73.0,1.0,,Cordoba
+,Vincenzo Rennella,it ITA,FW,33,25,1.0,7.0,2012-2013,b3c467b4,Cordoba,"2,001",22.2,7.0,1.0,73.0,9.0,,Cordoba
+,Carlos Caballero,es ESP,MF,37,24,5.0,1.0,2012-2013,38afdbc5,Cordoba,"2,206",24.5,9.0,0.0,73.0,1.0,,Cordoba
+,Alberto Aguilar,es ESP,"DF,MF",23,20,0.0,2.0,2012-2013,1627a,Cordoba,"1,942",21.6,5.0,2.0,73.0,1.0,,Cordoba
+,Cristian García Ramos,es ESP,DF,23,20,0.0,2.0,2012-2013,73620865,Cordoba,"1,698",18.9,9.0,1.0,73.0,1.0,,Cordoba
+,Fede Vico,es ESP,MF,33,19,4.0,6.0,2012-2013,f681a8ef,Cordoba,"1,877",20.9,5.0,0.0,73.0,1.0,,Cordoba
+,Armando Lozano,es ESP,DF,19,19,1.0,1.0,2012-2013,2daac0b,Cordoba,"1,570",17.4,6.0,0.0,73.0,1.0,,Cordoba
+,José Manuel Fernández,es ESP,DF,16,14,1.0,0.0,2012-2013,4af68c24,Cordoba,"1,301",14.5,5.0,0.0,73.0,1.0,,Cordoba
+,Xisco,es ESP,FW,14,13,2.0,8.0,2012-2013,d2790f7a,Cordoba,"1,119",12.4,2.0,0.0,73.0,1.0,,Cordoba
+,Gaspar,es ESP,DF,12,12,0.0,0.0,2012-2013,75e5329b,Cordoba,914,10.2,6.0,1.0,73.0,1.0,,Cordoba
+,Diego Seoane,es ESP,DF,13,11,0.0,0.0,2012-2013,71c7d503,Cordoba,"1,031",11.5,2.0,0.0,73.0,1.0,,Cordoba
+,Javier Patiño,ph PHI,FW,17,9,0.0,2.0,2012-2013,38510249,Cordoba,724,8.0,3.0,0.0,73.0,90.0,,Cordoba
+,Joselu,es ESP,FW,26,7,0.0,3.0,2012-2013,5e9c273,Cordoba,"1,056",11.7,0.0,0.0,73.0,1.0,,Cordoba
+,Miguel Ángel Tena,es ESP,DF,4,4,0.0,0.0,2012-2013,6389c2b,Cordoba,280,3.1,2.0,1.0,73.0,1.0,,Cordoba
+,Mikel Saizar,es ESP,GK,2,2,0.0,0.0,2012-2013,b9ddfda6,Cordoba,180,2.0,0.0,0.0,73.0,1.0,,Cordoba
+,Pepe Díaz,es ESP,FW,8,1,0.0,0.0,2012-2013,d1af5864,Cordoba,230,2.6,1.0,0.0,73.0,1.0,5304.0,Cordoba
+,Paulinho,br BRA,"FW,MF",6,1,0.0,0.0,2012-2013,c758139,Cordoba,226,2.5,1.0,0.0,73.0,2.0,,Cordoba
+,Manuel Miquel,es ESP,MF,2,1,0.0,0.0,2012-2013,97e5daab,Cordoba,126,1.4,0.0,0.0,73.0,1.0,,Cordoba
+,Javi Cabezas,es ESP,MF,2,0,0.0,0.0,2012-2013,18fce040,Cordoba,24,0.3,0.0,0.0,73.0,1.0,5319.0,Cordoba
+,Damián Petkoff,ar ARG,MF,1,0,0.0,0.0,2012-2013,d94c090,Cordoba,19,0.2,0.0,0.0,73.0,5.0,5320.0,Cordoba
+,John-Christophe Ayina,fr FRA,FW,2,0,0.0,0.0,2012-2013,9a1e16f3,Cordoba,9,0.1,0.0,0.0,73.0,4.0,5321.0,Cordoba
+,Fran Cruz,es ESP,"DF,MF",1,0,0.0,0.0,2012-2013,ff7923bf,Cordoba,2,0.0,0.0,0.0,73.0,1.0,5322.0,Cordoba
+,﻿Abel Gómez Moreno,es ESP,MF,39,36,4.0,5.0,2013-2014,b09801d8,Cordoba,"3,159",35.1,5.0,0.0,73.0,1.0,,Cordoba
+,José López Silva,es ESP,MF,38,35,7.0,3.0,2013-2014,60d6ed20,Cordoba,"2,969",33.0,14.0,1.0,73.0,1.0,,Cordoba
+,Mikel Saizar,es ESP,GK,31,31,0.0,0.0,2013-2014,b9ddfda6,Cordoba,"2,790",31.0,3.0,0.0,73.0,1.0,,Cordoba
+,Xisco,es ESP,FW,35,30,2.0,10.0,2013-2014,d2790f7a,Cordoba,"2,510",27.9,7.0,0.0,73.0,1.0,,Cordoba
+,Raúl Bravo,es ESP,DF,29,29,0.0,0.0,2013-2014,65b9e56b,Cordoba,"2,533",28.1,5.0,0.0,73.0,1.0,20.0,Cordoba
+,Pedro,es ESP,"FW,MF",32,29,3.0,7.0,2013-2014,b642c79,Cordoba,"2,443",27.1,9.0,2.0,73.0,1.0,,Cordoba
+,Luso,es ESP,"DF,MF",34,28,1.0,0.0,2013-2014,9cd41fda,Cordoba,"2,488",27.6,8.0,2.0,73.0,1.0,5323.0,Cordoba
+,Iago Bouzón,es ESP,DF,28,27,0.0,1.0,2013-2014,2b687c98,Cordoba,"2,372",26.4,11.0,1.0,73.0,1.0,,Cordoba
+,Fran Cruz,es ESP,"DF,MF",29,24,0.0,0.0,2013-2014,ff7923bf,Cordoba,"2,136",23.7,6.0,0.0,73.0,1.0,5322.0,Cordoba
+,Carlos Caballero,es ESP,MF,25,21,0.0,4.0,2013-2014,38afdbc5,Cordoba,"1,863",20.7,5.0,0.0,73.0,1.0,,Cordoba
+,Ulises Dávila,mx MEX,"FW,MF",33,21,2.0,6.0,2013-2014,0e774d3a,Cordoba,"1,793",19.9,4.0,0.0,73.0,20.0,,Cordoba
+,Samuel de los Reyes,es ESP,DF,24,19,1.0,0.0,2013-2014,43d6c7ab,Cordoba,"1,740",19.3,7.0,1.0,73.0,1.0,5324.0,Cordoba
+,Bernardo,,DF,15,14,0.0,0.0,2013-2014,4067e9d6,Cordoba,"1,280",14.2,3.0,0.0,73.0,,,Cordoba
+,Adrián Gunino,uy URU,DF,14,14,0.0,0.0,2013-2014,05652d7c,Cordoba,"1,260",14.0,1.0,0.0,73.0,8.0,,Cordoba
+,Edu Caballer,es ESP,DF,16,13,0.0,0.0,2013-2014,2e7586bb,Cordoba,"1,168",13.0,2.0,0.0,73.0,1.0,5325.0,Cordoba
+,Daniel Pinillos,es ESP,DF,12,12,0.0,1.0,2013-2014,09d26c80,Cordoba,"1,080",12.0,3.0,0.0,73.0,1.0,5326.0,Cordoba
+,Juan Carlos,es ESP,GK,11,11,0.0,0.0,2013-2014,688b96e3,Cordoba,990,11.0,2.0,0.0,73.0,1.0,,Cordoba
+,Jens Janse,nl NED,DF,11,11,0.0,0.0,2013-2014,46616a7b,Cordoba,884,9.8,4.0,0.0,73.0,11.0,5327.0,Cordoba
+,Pelayo,es ESP,MF,22,9,2.0,1.0,2013-2014,bdda8ebd,Cordoba,995,11.1,7.0,0.0,73.0,1.0,,Cordoba
+,Miguel Ángel Nieto,es ESP,MF,14,9,0.0,1.0,2013-2014,3a935b70,Cordoba,819,9.1,0.0,0.0,73.0,1.0,60.0,Cordoba
+,Juanlu,es ESP,MF,13,7,1.0,0.0,2013-2014,94b88487,Cordoba,718,8.0,3.0,0.0,73.0,1.0,,Cordoba
+,Armando Lozano,es ESP,DF,8,7,0.0,1.0,2013-2014,2daac0b,Cordoba,698,7.8,2.0,1.0,73.0,1.0,,Cordoba
+,Arturo,es ESP,FW,15,7,0.0,2.0,2013-2014,b83cc9ed,Cordoba,636,7.1,3.0,0.0,73.0,1.0,5328.0,Cordoba
+,Germán Pacheco,ar ARG,"FW,MF",12,5,4.0,0.0,2013-2014,4a8b43e0,Cordoba,533,5.9,2.0,0.0,73.0,5.0,,Cordoba
+,Nwankwo Obiora,ng NGA,"DF,MF",6,5,0.0,0.0,2013-2014,284b5f0d,Cordoba,343,3.8,3.0,0.0,73.0,52.0,5329.0,Cordoba
+,Aritz López Garai,es ESP,MF,6,4,0.0,0.0,2013-2014,59b0c4a0,Cordoba,346,3.8,1.0,0.0,73.0,1.0,,Cordoba
+,Eial Strahman,ar ARG,FW,9,2,1.0,1.0,2013-2014,5d70dcaa,Cordoba,315,3.5,1.0,0.0,73.0,5.0,5330.0,Cordoba
+,Dani Espejo,es ESP,"DF,MF",3,2,0.0,0.0,2013-2014,4ab411d,Cordoba,156,1.7,0.0,0.0,73.0,1.0,5331.0,Cordoba
+,Sergio Mendiguchia,,FW,6,0,0.0,2.0,2013-2014,080b0164,Cordoba,173,1.9,2.0,1.0,73.0,,,Cordoba
+,Joselu,es ESP,"FW,MF",5,0,0.0,0.0,2013-2014,8f7dd1d2,Cordoba,102,1.1,1.0,0.0,73.0,1.0,,Cordoba
+,Rafa Gálvez,es ESP,"DF,MF",5,0,0.0,0.0,2013-2014,445ca2c1,Cordoba,81,0.9,0.0,0.0,73.0,1.0,,Cordoba
+,John-Christophe Ayina,fr FRA,FW,3,0,0.0,0.0,2013-2014,9a1e16f3,Cordoba,34,0.4,0.0,0.0,73.0,4.0,5321.0,Cordoba
+,Juan Guerra,es ESP,MF,2,0,0.0,0.0,2013-2014,212d440,Cordoba,28,0.3,0.0,0.0,73.0,1.0,5332.0,Cordoba
+,﻿Juan Carlos,es ESP,GK,32,32,0.0,0.0,2014-2015,688b96e3,Cordoba,"2,880",32.0,4.0,0.0,73.0,1.0,,Cordoba
+,Aleksandar Pantić,rs SRB,DF,29,27,0.0,0.0,2014-2015,70e5566a,Cordoba,"2,415",26.8,6.0,1.0,73.0,28.0,,Cordoba
+,José Ángel Crespo,es ESP,DF,27,26,0.0,0.0,2014-2015,8ec4c2f7,Cordoba,"2,163",24.0,6.0,0.0,73.0,1.0,,Cordoba
+,Federico Cartabia,ar ARG,MF,30,24,4.0,4.0,2014-2015,8e6bebf,Cordoba,"2,159",24.0,11.0,2.0,73.0,5.0,,Cordoba
+,Nabil Ghilas,dz ALG,"FW,MF",27,23,0.0,7.0,2014-2015,cee627f6,Cordoba,"2,100",23.3,1.0,0.0,73.0,37.0,,Cordoba
+,Borja García,es ESP,"FW,MF",28,22,3.0,1.0,2014-2015,7f4603c,Cordoba,"1,970",21.9,2.0,1.0,73.0,1.0,,Cordoba
+,Adrián Gunino,uy URU,DF,23,21,1.0,0.0,2014-2015,05652d7c,Cordoba,"1,944",21.6,4.0,0.0,73.0,8.0,,Cordoba
+,Deivid,es ESP,"DF,MF",21,21,0.0,0.0,2014-2015,c1c76662,Cordoba,"1,797",20.0,4.0,0.0,73.0,1.0,,Cordoba
+,Íñigo López,es ESP,DF,21,21,0.0,0.0,2014-2015,8c61ca86,Cordoba,"1,787",19.9,8.0,2.0,73.0,1.0,,Cordoba
+,Florin Andone,ro ROU,FW,20,17,0.0,5.0,2014-2015,dc008610,Cordoba,"1,519",16.9,5.0,0.0,73.0,51.0,,Cordoba
+,Edimar Fraga,br BRA,"DF,MF",17,17,0.0,0.0,2014-2015,1bcce4c,Cordoba,"1,497",16.6,1.0,0.0,73.0,2.0,5333.0,Cordoba
+,Fidel,es ESP,MF,25,17,1.0,1.0,2014-2015,b82b6f1,Cordoba,"1,425",15.8,1.0,0.0,73.0,1.0,,Cordoba
+,Fausto Rossi,it ITA,MF,24,16,0.0,0.0,2014-2015,79a8fa04,Cordoba,"1,463",16.3,5.0,0.0,73.0,9.0,,Cordoba
+,Bebé,cv CPV,"FW,MF",18,16,2.0,0.0,2014-2015,d8712bf9,Cordoba,"1,461",16.2,5.0,0.0,73.0,85.0,,Cordoba
+,Luso,es ESP,"DF,MF",18,16,0.0,1.0,2014-2015,9cd41fda,Cordoba,"1,395",15.5,4.0,0.0,73.0,1.0,5323.0,Cordoba
+,Abel Gómez Moreno,es ESP,MF,22,14,0.0,0.0,2014-2015,b09801d8,Cordoba,"1,253",13.9,2.0,0.0,73.0,1.0,,Cordoba
+,Rene Krhin,si SVN,"FW,MF",14,14,0.0,0.0,2014-2015,9a506145,Cordoba,"1,201",13.3,4.0,0.0,73.0,32.0,,Cordoba
+,Edu Caballer,es ESP,DF,14,12,0.0,0.0,2014-2015,2e7586bb,Cordoba,"1,085",12.1,5.0,1.0,73.0,1.0,5325.0,Cordoba
+,Daniel Pinillos,es ESP,DF,12,9,0.0,0.0,2014-2015,09d26c80,Cordoba,865,9.6,5.0,1.0,73.0,1.0,5326.0,Cordoba
+,Fede Vico,es ESP,MF,20,8,0.0,0.0,2014-2015,f681a8ef,Cordoba,919,10.2,2.0,0.0,73.0,1.0,,Cordoba
+,Patrick Ekeng,cm CMR,MF,14,8,1.0,1.0,2014-2015,3bcb7df2,Cordoba,756,8.4,3.0,1.0,73.0,36.0,5334.0,Cordoba
+,Mikel Saizar,es ESP,GK,6,6,0.0,0.0,2014-2015,b9ddfda6,Cordoba,540,6.0,0.0,0.0,73.0,1.0,,Cordoba
+,Héldon Ramos,cv CPV,"FW,MF",14,6,0.0,0.0,2014-2015,64ded08c,Cordoba,532,5.9,4.0,0.0,73.0,85.0,5335.0,Cordoba
+,Bruno Zuculini,ar ARG,MF,8,5,0.0,0.0,2014-2015,17cddb4d,Cordoba,384,4.3,2.0,0.0,73.0,5.0,,Cordoba
+,Aritz López Garai,es ESP,MF,6,5,0.0,0.0,2014-2015,59b0c4a0,Cordoba,380,4.2,1.0,0.0,73.0,1.0,,Cordoba
+,José López Silva,es ESP,MF,8,4,0.0,0.0,2014-2015,60d6ed20,Cordoba,350,3.9,1.0,0.0,73.0,1.0,,Cordoba
+,Mike Havenaar,jp JPN,FW,5,4,0.0,0.0,2014-2015,2475a31d,Cordoba,289,3.2,1.0,0.0,73.0,54.0,5336.0,Cordoba
+,Iago Bouzón,es ESP,DF,3,3,0.0,0.0,2014-2015,2b687c98,Cordoba,225,2.5,2.0,0.0,73.0,1.0,,Cordoba
+,Ryder Matos,br BRA,"FW,MF",3,2,0.0,0.0,2014-2015,7280b54f,Cordoba,145,1.6,0.0,0.0,73.0,2.0,5337.0,Cordoba
+,Xisco,es ESP,FW,9,1,0.0,1.0,2014-2015,d2790f7a,Cordoba,241,2.7,0.0,0.0,73.0,1.0,,Cordoba
+,Fran Serrano,es ESP,DF,2,1,0.0,0.0,2014-2015,1eeef2c,Cordoba,140,1.6,0.0,0.0,73.0,1.0,5338.0,Cordoba
+,José Carlos,es ESP,"FW,MF",1,0,0.0,0.0,2014-2015,6738f3c6,Cordoba,20,0.2,0.0,0.0,73.0,1.0,,Cordoba
+,Carlos Caballero,es ESP,MF,2,0,0.0,0.0,2014-2015,38afdbc5,Cordoba,9,0.1,0.0,0.0,73.0,1.0,,Cordoba
+,Eduard Campabadal,es ESP,DF,0,0,,,2014-2015,bbf23a57,Cordoba,,,,,73.0,1.0,,Cordoba
+,José Fran,es ESP,MF,0,0,,,2014-2015,9da2a2b2,Cordoba,,,,,73.0,1.0,,Cordoba
+,﻿Deivid,es ESP,"DF,MF",38,38,0.0,0.0,2015-2016,c1c76662,Cordoba,"3,330",37.0,11.0,2.0,73.0,1.0,,Cordoba
+,Marius Stankevičius,lt LTU,"DF,MF",37,37,3.0,0.0,2015-2016,7c3a4a58,Cordoba,"3,161",35.1,10.0,1.0,73.0,72.0,,Cordoba
+,Brimah Razak,gh GHA,GK,36,36,0.0,0.0,2015-2016,cd8b22b8,Cordoba,"3,233",35.9,7.0,1.0,73.0,17.0,5339.0,Cordoba
+,Florin Andone,ro ROU,FW,36,36,5.0,21.0,2015-2016,dc008610,Cordoba,"3,211",35.7,10.0,0.0,73.0,51.0,,Cordoba
+,Héctor Rodas,es ESP,DF,33,33,1.0,0.0,2015-2016,dcdd3a95,Cordoba,"2,870",31.9,16.0,1.0,73.0,1.0,,Cordoba
+,Fidel,es ESP,MF,39,32,8.0,11.0,2015-2016,b82b6f1,Cordoba,"2,831",31.5,10.0,0.0,73.0,1.0,,Cordoba
+,Luso,es ESP,"DF,MF",34,31,3.0,0.0,2015-2016,9cd41fda,Cordoba,"2,652",29.5,13.0,1.0,73.0,1.0,5323.0,Cordoba
+,Domingo Cisma,es ESP,DF,29,29,1.0,1.0,2015-2016,4d85b73c,Cordoba,"2,594",28.8,11.0,0.0,73.0,1.0,,Cordoba
+,Pedro Ríos,es ESP,MF,37,28,6.0,6.0,2015-2016,96ef8f9f,Cordoba,"2,544",28.3,4.0,0.0,73.0,1.0,,Cordoba
+,Xisco,es ESP,FW,32,27,1.0,8.0,2015-2016,d2790f7a,Cordoba,"2,163",24.0,8.0,0.0,73.0,1.0,,Cordoba
+,Saša Marković,rs SRB,MF,35,21,6.0,3.0,2015-2016,25e8594b,Cordoba,"2,000",22.2,8.0,1.0,73.0,28.0,5340.0,Cordoba
+,Nando,es ESP,"FW,MF",35,20,1.0,1.0,2015-2016,6c041474,Cordoba,"1,752",19.5,5.0,0.0,73.0,1.0,,Cordoba
+,Carlos Caballero,es ESP,MF,19,14,1.0,0.0,2015-2016,38afdbc5,Cordoba,"1,332",14.8,5.0,0.0,73.0,1.0,,Cordoba
+,Víctor Pérez,es ESP,MF,21,14,2.0,1.0,2015-2016,5918a484,Cordoba,"1,287",14.3,4.0,0.0,73.0,1.0,,Cordoba
+,Abel Gómez Moreno,es ESP,MF,13,13,1.0,0.0,2015-2016,b09801d8,Cordoba,"1,136",12.6,2.0,0.0,73.0,1.0,,Cordoba
+,Raúl de Tomás,es ESP,FW,24,11,2.0,6.0,2015-2016,02ef8778,Cordoba,876,9.7,3.0,0.0,73.0,1.0,131.0,Cordoba
+,Eddy Silvestre,az AZE,MF,14,10,0.0,0.0,2015-2016,15ac2dc2,Cordoba,901,10.0,7.0,0.0,73.0,108.0,,Cordoba
+,Rafa Gálvez,es ESP,"DF,MF",20,9,0.0,0.0,2015-2016,445ca2c1,Cordoba,936,10.4,4.0,0.0,73.0,1.0,,Cordoba
+,Jonathan Bijimine,cd COD,"DF,MF",8,7,0.0,0.0,2015-2016,d7cd475e,Cordoba,688,7.6,2.0,0.0,73.0,50.0,5341.0,Cordoba
+,Ismael Falcón,es ESP,GK,6,6,0.0,0.0,2015-2016,5d2574f2,Cordoba,540,6.0,0.0,0.0,73.0,1.0,,Cordoba
+,Albert Dalmau,es ESP,DF,8,5,0.0,0.0,2015-2016,86b6281,Cordoba,564,6.3,1.0,0.0,73.0,1.0,,Cordoba
+,José López Silva,es ESP,MF,10,3,0.0,0.0,2015-2016,60d6ed20,Cordoba,281,3.1,0.0,0.0,73.0,1.0,,Cordoba
+,Jean Paul Pineda,cl CHI,FW,20,2,2.0,1.0,2015-2016,58adf401,Cordoba,447,5.0,0.0,1.0,73.0,31.0,5342.0,Cordoba
+,Arturo,es ESP,FW,2,0,0.0,0.0,2015-2016,b83cc9ed,Cordoba,58,0.6,0.0,0.0,73.0,1.0,5328.0,Cordoba
+,Moha,es ESP,FW,1,0,0.0,0.0,2015-2016,2a54afab,Cordoba,45,0.5,0.0,0.0,73.0,1.0,,Cordoba
+,Fran Cruz,es ESP,"DF,MF",0,0,,,2015-2016,ff7923bf,Cordoba,,,,,73.0,1.0,5322.0,Cordoba
+,Javi Galán,es ESP,"DF,MF",0,0,,,2015-2016,4b00319,Cordoba,,,,,73.0,1.0,,Cordoba
+,Abel Moreno Zorrero,es ESP,DF,0,0,,,2015-2016,722295d1,Cordoba,,,,,73.0,1.0,5343.0,Cordoba
+,Fran Serrano,es ESP,DF,0,0,,,2015-2016,1eeef2c,Cordoba,,,,,73.0,1.0,5338.0,Cordoba
+,Antonio Sillero,es ESP,GK,0,0,,,2015-2016,0cce2c7f,Cordoba,,,,,73.0,1.0,5344.0,Cordoba
+,﻿Paweł Kieszek,pl POL,GK,38,38,0.0,0.0,2016-2017,8dbddd2b,Cordoba,"3,420",38.0,2.0,0.0,73.0,14.0,,Cordoba
+,Rodri,es ESP,FW,40,32,2.0,11.0,2016-2017,5200dce9,Cordoba,"2,978",33.1,14.0,0.0,73.0,1.0,,Cordoba
+,José Antonio Caro,es ESP,DF,32,32,0.0,3.0,2016-2017,02e4da70,Cordoba,"2,845",31.6,3.0,0.0,73.0,1.0,,Cordoba
+,Juli,es ESP,MF,31,27,2.0,3.0,2016-2017,f3541f8a,Cordoba,"2,508",27.9,3.0,0.0,73.0,1.0,,Cordoba
+,Héctor Rodas,es ESP,DF,28,27,1.0,2.0,2016-2017,dcdd3a95,Cordoba,"2,258",25.1,7.0,0.0,73.0,1.0,,Cordoba
+,Antoñito,es ESP,DF,27,26,3.0,0.0,2016-2017,dbe519cf,Cordoba,"2,301",25.6,7.0,0.0,73.0,1.0,,Cordoba
+,Domingo Cisma,es ESP,DF,25,25,0.0,0.0,2016-2017,4d85b73c,Cordoba,"2,109",23.4,5.0,2.0,73.0,1.0,,Cordoba
+,Edu Ramos,es ESP,MF,32,25,0.0,0.0,2016-2017,6793b40,Cordoba,"2,055",22.8,7.0,1.0,73.0,1.0,,Cordoba
+,Luso,es ESP,"MF,DF",30,23,2.0,1.0,2016-2017,9cd41fda,Cordoba,"2,165",24.1,7.0,0.0,73.0,1.0,5323.0,Cordoba
+,Alejandro Alfaro,es ESP,"MF,FW",31,23,1.0,7.0,2016-2017,7c293728,Cordoba,"2,038",22.6,1.0,0.0,73.0,1.0,,Cordoba
+,Pedro Ríos,es ESP,MF,28,21,2.0,2.0,2016-2017,96ef8f9f,Cordoba,"1,547",17.2,3.0,1.0,73.0,1.0,,Cordoba
+,Javi Lara,es ESP,MF,21,20,2.0,1.0,2016-2017,bd1babf1,Cordoba,"1,803",20.0,3.0,0.0,73.0,1.0,,Cordoba
+,Jonathan Bijimine,cd COD,DF,20,18,1.0,0.0,2016-2017,d7cd475e,Cordoba,"1,654",18.4,2.0,0.0,73.0,50.0,5341.0,Cordoba
+,Deivid,es ESP,DF,17,17,0.0,0.0,2016-2017,c1c76662,Cordoba,"1,511",16.8,3.0,0.0,73.0,1.0,,Cordoba
+,Javi Galán,es ESP,MF,17,16,5.0,2.0,2016-2017,4b00319,Cordoba,"1,401",15.6,2.0,0.0,73.0,1.0,,Cordoba
+,Sergio Aguza,es ESP,MF,16,16,1.0,0.0,2016-2017,b8e26df0,Cordoba,"1,390",15.4,5.0,2.0,73.0,1.0,127.0,Cordoba
+,Mariano Bíttolo,ar ARG,"DF,MF",15,15,0.0,0.0,2016-2017,61120693,Cordoba,"1,311",14.6,1.0,0.0,73.0,5.0,,Cordoba
+,Guillermo Donoso,es ESP,MF,22,13,1.0,1.0,2016-2017,699a605f,Cordoba,"1,135",12.6,2.0,0.0,73.0,1.0,5345.0,Cordoba
+,Federico Piovaccari,it ITA,FW,28,9,2.0,4.0,2016-2017,fa49f136,Cordoba,"1,088",12.1,8.0,0.0,73.0,9.0,,Cordoba
+,Carlos Caballero,es ESP,MF,18,8,0.0,1.0,2016-2017,38afdbc5,Cordoba,837,9.3,3.0,0.0,73.0,1.0,,Cordoba
+,Borja Domínguez,es ESP,MF,14,7,0.0,1.0,2016-2017,caf3058a,Cordoba,592,6.6,3.0,0.0,73.0,1.0,5346.0,Cordoba
+,Zakarya Bergdich,ma MAR,"MF,DF",20,6,2.0,0.0,2016-2017,833676b4,Cordoba,771,8.6,0.0,0.0,73.0,26.0,,Cordoba
+,Saša Marković,rs SRB,MF,13,6,0.0,2.0,2016-2017,25e8594b,Cordoba,497,5.5,1.0,0.0,73.0,28.0,5340.0,Cordoba
+,Samuel de los Reyes,es ESP,DF,6,5,0.0,0.0,2016-2017,43d6c7ab,Cordoba,443,4.9,2.0,0.0,73.0,1.0,5324.0,Cordoba
+,Brimah Razak,gh GHA,GK,5,4,0.0,0.0,2016-2017,cd8b22b8,Cordoba,360,4.0,2.0,0.0,73.0,17.0,5339.0,Cordoba
+,Esteve Monterde,es ESP,MF,7,2,0.0,0.0,2016-2017,9a7655e6,Cordoba,280,3.1,1.0,0.0,73.0,1.0,5347.0,Cordoba
+,Moha,es ESP,FW,3,0,1.0,0.0,2016-2017,2a54afab,Cordoba,99,1.1,0.0,0.0,73.0,1.0,,Cordoba
+,Alberto Quiles,es ESP,FW,2,0,0.0,0.0,2016-2017,25233d1b,Cordoba,28,0.3,1.0,0.0,73.0,1.0,,Cordoba
+,Sebas Moyano,,,1,0,0.0,0.0,2016-2017,fa952bd0,Cordoba,19,0.2,0.0,0.0,73.0,,,Cordoba
+,Pedro Moreno,es ESP,GK,0,0,,,2016-2017,c1360a44,Cordoba,,,,,73.0,1.0,5348.0,Cordoba
+,Antonio Pacheco,es ESP,FW,0,0,,,2016-2017,58eb3554,Cordoba,,,,,73.0,1.0,5349.0,Cordoba
+,Pablo Vázquez,es ESP,"DF,MF",0,0,,,2016-2017,54f87ac5,Cordoba,,,,,73.0,1.0,,Cordoba
+,Marc Vito,es ESP,GK,0,0,,,2016-2017,33a86671,Cordoba,,,,,73.0,1.0,5350.0,Cordoba
+,﻿Paweł Kieszek,pl POL,GK,38,38,0.0,0.0,2017-2018,8dbddd2b,Cordoba,"3,420",38.0,2.0,0.0,73.0,14.0,,Cordoba
+,Sergi Guardiola,es ESP,FW,40,37,8.0,22.0,2017-2018,32974271,Cordoba,"3,368",37.4,10.0,0.0,73.0,1.0,,Cordoba
+,Edu Ramos,es ESP,MF,37,37,1.0,1.0,2017-2018,6793b40,Cordoba,"3,161",35.1,12.0,2.0,73.0,1.0,,Cordoba
+,Javi Galán,es ESP,"MF,DF",40,35,3.0,2.0,2017-2018,4b00319,Cordoba,"3,248",36.1,8.0,2.0,73.0,1.0,,Cordoba
+,José Manuel Fernández,es ESP,DF,30,29,1.0,1.0,2017-2018,4af68c24,Cordoba,"2,492",27.7,5.0,0.0,73.0,1.0,,Cordoba
+,Sergio Aguza,es ESP,MF,32,25,3.0,3.0,2017-2018,b8e26df0,Cordoba,"2,232",24.8,7.0,0.0,73.0,1.0,127.0,Cordoba
+,Saša Jovanović,rs SRB,"MF,FW",31,23,6.0,3.0,2017-2018,73c56892,Cordoba,"2,051",22.8,4.0,0.0,73.0,28.0,,Cordoba
+,João Afonso,pt POR,DF,21,21,1.0,0.0,2017-2018,8f07c8f,Cordoba,"1,678",18.6,6.0,0.0,73.0,3.0,5351.0,Cordoba
+,Javi Lara,es ESP,MF,24,20,5.0,0.0,2017-2018,bd1babf1,Cordoba,"1,801",20.0,1.0,0.0,73.0,1.0,,Cordoba
+,José Antonio Caro,es ESP,DF,20,18,0.0,2.0,2017-2018,02e4da70,Cordoba,"1,690",18.8,3.0,0.0,73.0,1.0,,Cordoba
+,Aythami Artiles,es ESP,DF,17,17,2.0,4.0,2017-2018,01ae64cd,Cordoba,"1,529",17.0,5.0,2.0,73.0,1.0,,Cordoba
+,Daniel Pinillos,es ESP,DF,16,15,0.0,0.0,2017-2018,09d26c80,Cordoba,"1,328",14.8,1.0,0.0,73.0,1.0,5326.0,Cordoba
+,Carlos Caballero,es ESP,MF,17,14,1.0,1.0,2017-2018,38afdbc5,Cordoba,"1,098",12.2,2.0,0.0,73.0,1.0,,Cordoba
+,Alex Quintanilla,es ESP,DF,13,13,1.0,2.0,2017-2018,6a2cf49f,Cordoba,"1,103",12.3,4.0,0.0,73.0,1.0,,Cordoba
+,Josema,es ESP,DF,12,12,0.0,0.0,2017-2018,d3f5f4c,Cordoba,996,11.1,3.0,0.0,73.0,1.0,,Cordoba
+,Juanjo Narváez,co COL,"MF,FW",16,12,0.0,5.0,2017-2018,485e4939,Cordoba,971,10.8,1.0,0.0,73.0,19.0,,Cordoba
+,Alejandro Alfaro,es ESP,"MF,FW",28,11,2.0,1.0,2017-2018,7c293728,Cordoba,"1,142",12.7,2.0,0.0,73.0,1.0,,Cordoba
+,Álex Vallejo,es ESP,"MF,DF",18,11,0.0,0.0,2017-2018,017b4247,Cordoba,"1,051",11.7,2.0,0.0,73.0,1.0,,Cordoba
+,Jona,hn HON,FW,18,11,0.0,3.0,2017-2018,840dd8a7,Cordoba,"1,038",11.5,1.0,0.0,73.0,107.0,,Cordoba
+,Miguel Loureiro,es ESP,DF,14,11,1.0,0.0,2017-2018,8611e214,Cordoba,"1,025",11.4,6.0,0.0,73.0,1.0,,Cordoba
+,Jesús Valentín,es ESP,"DF,MF",11,11,0.0,0.0,2017-2018,2594ee7d,Cordoba,977,10.9,2.0,0.0,73.0,1.0,,Cordoba
+,Jaime Romero,es ESP,"MF,FW",17,10,1.0,0.0,2017-2018,28205f4,Cordoba,834,9.3,0.0,0.0,73.0,1.0,,Cordoba
+,José Antonio Reyes,es ESP,"MF,FW",17,10,4.0,1.0,2017-2018,19058f02,Cordoba,827,9.2,4.0,0.0,73.0,1.0,56.0,Cordoba
+,Álvaro Aguado,es ESP,MF,16,6,0.0,1.0,2017-2018,014aa7bd,Cordoba,802,8.9,2.0,0.0,73.0,1.0,,Cordoba
+,Saša Marković,rs SRB,MF,16,5,0.0,2.0,2017-2018,25e8594b,Cordoba,551,6.1,0.0,0.0,73.0,28.0,5340.0,Cordoba
+,Igor Stefanović,rs SRB,GK,4,4,0.0,0.0,2017-2018,8a79b075,Cordoba,360,4.0,0.0,0.0,73.0,28.0,5353.0,Cordoba
+,Víctor Mena,es ESP,DF,2,2,0.0,0.0,2017-2018,8b4fa7fa,Cordoba,172,1.9,1.0,0.0,73.0,1.0,5354.0,Cordoba
+,Quim Araujo,es ESP,MF,7,1,0.0,1.0,2017-2018,1ba60662,Cordoba,206,2.3,0.0,0.0,73.0,1.0,,Cordoba
+,Javier Soler,es ESP,DF,1,1,0.0,0.0,2017-2018,d357252c,Cordoba,90,1.0,0.0,0.0,73.0,1.0,5355.0,Cordoba
+,Javi Noblejas,es ESP,DF,1,1,0.0,0.0,2017-2018,34d08919,Cordoba,45,0.5,0.0,0.0,73.0,1.0,,Cordoba
+,Alberto Quiles,es ESP,MF,1,1,0.0,0.0,2017-2018,25233d1b,Cordoba,45,0.5,0.0,0.0,73.0,1.0,,Cordoba
+,Eneko Jauregi,es ESP,FW,11,0,1.0,0.0,2017-2018,9b608841,Cordoba,201,2.2,2.0,0.0,73.0,1.0,5356.0,Cordoba
+,Waldo Rubio,es ESP,MF,2,0,0.0,0.0,2017-2018,ccaa5728,Cordoba,37,0.4,0.0,0.0,73.0,1.0,,Cordoba
+,Marcos Lavín,es ESP,GK,0,0,,,2017-2018,666e283e,Cordoba,,,,,73.0,1.0,,Cordoba
+,Andrés Martín,es ESP,"FW,MF",0,0,,,2017-2018,2ae30661,Cordoba,,,,,73.0,1.0,,Cordoba
+,Esteve Monterde,es ESP,MF,0,0,,,2017-2018,9a7655e6,Cordoba,,,,,73.0,1.0,5347.0,Cordoba
+,Sebas Moyano,es ESP,MF,0,0,,,2017-2018,8c87339e,Cordoba,,,,,73.0,1.0,5357.0,Cordoba
+,Jesús Sillero,es ESP,FW,0,0,,,2017-2018,086bee8c,Cordoba,,,,,73.0,1.0,,Cordoba
+,﻿Miguel de las Cuevas,es ESP,"MF,FW",32,29,2.0,9.0,2018-2019,2e1cf3d2,Cordoba,"2,283",25.4,4.0,1.0,73.0,1.0,,Cordoba
+,Carlos Abad,es ESP,GK,28,28,1.0,0.0,2018-2019,6970bedb,Cordoba,"2,520",28.0,1.0,0.0,73.0,1.0,,Cordoba
+,Álex Vallejo,es ESP,MF,28,27,0.0,0.0,2018-2019,017b4247,Cordoba,"2,362",26.2,5.0,0.0,73.0,1.0,,Cordoba
+,Alex Quintanilla,es ESP,DF,30,26,1.0,0.0,2018-2019,6a2cf49f,Cordoba,"2,312",25.7,8.0,0.0,73.0,1.0,,Cordoba
+,José Manuel Fernández,es ESP,"DF,MF",25,25,3.0,0.0,2018-2019,4af68c24,Cordoba,"2,224",24.7,6.0,0.0,73.0,1.0,,Cordoba
+,Luis Muñoz,es ESP,"DF,MF",26,25,0.0,0.0,2018-2019,8cfd90fe,Cordoba,"2,218",24.6,10.0,0.0,73.0,1.0,,Cordoba
+,Jaime Romero,es ESP,"MF,FW",30,22,2.0,2.0,2018-2019,28205f4,Cordoba,"1,972",21.9,5.0,0.0,73.0,1.0,,Cordoba
+,Federico Piovaccari,it ITA,FW,35,19,1.0,12.0,2018-2019,fa49f136,Cordoba,"1,900",21.1,8.0,1.0,73.0,9.0,,Cordoba
+,Miguel Loureiro,es ESP,"DF,MF",19,19,0.0,0.0,2018-2019,8611e214,Cordoba,"1,678",18.6,9.0,1.0,73.0,1.0,,Cordoba
+,Andrés Martín,es ESP,"FW,MF",29,18,4.0,6.0,2018-2019,2ae30661,Cordoba,"1,719",19.1,2.0,0.0,73.0,1.0,,Cordoba
+,Álvaro Aguado,es ESP,MF,25,17,2.0,1.0,2018-2019,014aa7bd,Cordoba,"1,567",17.4,2.0,0.0,73.0,1.0,,Cordoba
+,Javi Galán,es ESP,"DF,MF",20,17,2.0,0.0,2018-2019,4b00319,Cordoba,"1,527",17.0,6.0,0.0,73.0,1.0,,Cordoba
+,Aythami Artiles,es ESP,DF,16,15,0.0,3.0,2018-2019,01ae64cd,Cordoba,"1,399",15.5,7.0,2.0,73.0,1.0,,Cordoba
+,Álex Menéndez,es ESP,"DF,MF",15,14,1.0,0.0,2018-2019,ddab8ee4,Cordoba,"1,273",14.1,2.0,0.0,73.0,1.0,,Cordoba
+,Blati Touré,bf BFA,MF,22,13,0.0,0.0,2018-2019,6b4871a2,Cordoba,"1,238",13.8,6.0,0.0,73.0,62.0,5358.0,Cordoba
+,Yann Bodiger,fr FRA,MF,14,13,0.0,0.0,2018-2019,8c2c48a9,Cordoba,"1,140",12.7,7.0,1.0,73.0,4.0,,Cordoba
+,Quim Araujo,es ESP,MF,17,13,1.0,0.0,2018-2019,1ba60662,Cordoba,981,10.9,1.0,0.0,73.0,1.0,,Cordoba
+,Alejandro Alfaro,es ESP,"MF,FW",20,12,3.0,5.0,2018-2019,7c293728,Cordoba,"1,156",12.8,3.0,0.0,73.0,1.0,,Cordoba
+,Saša Jovanović,rs SRB,"FW,MF",18,12,2.0,3.0,2018-2019,73c56892,Cordoba,"1,074",11.9,4.0,0.0,73.0,28.0,,Cordoba
+,Javi Lara,es ESP,MF,20,12,4.0,2.0,2018-2019,bd1babf1,Cordoba,"1,057",11.7,2.0,0.0,73.0,1.0,,Cordoba
+,Luismi Quezada,do DOM,"DF,MF",14,11,0.0,0.0,2018-2019,53440b3c,Cordoba,"1,063",11.8,5.0,0.0,73.0,25.0,152.0,Cordoba
+,Chus Herrero,es ESP,DF,12,11,0.0,1.0,2018-2019,c34a4f0,Cordoba,981,10.9,1.0,0.0,73.0,1.0,,Cordoba
+,Marcos Lavín,es ESP,GK,10,10,0.0,0.0,2018-2019,666e283e,Cordoba,900,10.0,1.0,0.0,73.0,1.0,,Cordoba
+,Miguel Flaño,es ESP,DF,9,9,1.0,0.0,2018-2019,1662668d,Cordoba,765,8.5,1.0,0.0,73.0,1.0,,Cordoba
+,José Ángel Carrillo,es ESP,FW,10,8,0.0,2.0,2018-2019,7beb6364,Cordoba,688,7.6,2.0,0.0,73.0,1.0,,Cordoba
+,Franck-Yves Bambock,fr FRA,MF,7,7,0.0,1.0,2018-2019,7240e475,Cordoba,540,6.0,4.0,0.0,73.0,4.0,5359.0,Cordoba
+,Jesús Valentín,es ESP,DF,8,6,0.0,0.0,2018-2019,2594ee7d,Cordoba,488,5.4,0.0,0.0,73.0,1.0,,Cordoba
+,Àlex Carbonell,es ESP,MF,9,4,0.0,0.0,2018-2019,d99f27,Cordoba,451,5.0,3.0,0.0,73.0,1.0,,Cordoba
+,Sebas Moyano,es ESP,FW,6,4,1.0,0.0,2018-2019,8c87339e,Cordoba,282,3.1,0.0,0.0,73.0,1.0,5357.0,Cordoba
+,Erik Expósito,es ESP,FW,7,2,0.0,0.0,2018-2019,07d67579,Cordoba,250,2.8,0.0,0.0,73.0,1.0,,Cordoba
+,Igor Stefanović,rs SRB,GK,2,2,0.0,0.0,2018-2019,8a79b075,Cordoba,180,2.0,0.0,0.0,73.0,28.0,5353.0,Cordoba
+,Alberto González,es ESP,GK,1,1,0.0,0.0,2018-2019,63dc82b3,Cordoba,90,1.0,0.0,0.0,73.0,1.0,5360.0,Cordoba
+,Neftali Manzambi,ao ANG,MF,4,0,0.0,0.0,2018-2019,da2ced9c,Cordoba,81,0.9,2.0,0.0,73.0,48.0,,Cordoba
+,Antonio Moyano,es ESP,MF,2,0,0.0,0.0,2018-2019,dae880d4,Cordoba,38,0.4,0.0,0.0,73.0,1.0,5361.0,Cordoba
+,Rafael Rodríguez,es ESP,FW,3,0,0.0,0.0,2018-2019,07c4053f,Cordoba,36,0.4,0.0,0.0,73.0,1.0,5362.0,Cordoba
+,Kevin,es ESP,MF,0,0,,,2018-2019,b0b34497,Cordoba,,,,,73.0,1.0,5363.0,Cordoba
+,Juan Llamas,es ESP,GK,0,0,,,2018-2019,5600abe2,Cordoba,,,,,73.0,1.0,5364.0,Cordoba
+,﻿Farrando,es ESP,DF,3,3,0.0,0.0,2020-2021,8b3c2a59,Cordoba,270.0,3.0,2.0,0.0,73.0,1.0,5365.0,Cordoba
+,Xavi Molina,es ESP,DF,3,3,0.0,0.0,2020-2021,dd088a95,Cordoba,270.0,3.0,1.0,0.0,73.0,1.0,,Cordoba
+,Alberto Del Moral,es ESP,"MF,FW",3,3,0.0,0.0,2020-2021,84a85b48,Cordoba,266.0,3.0,3.0,1.0,73.0,1.0,5366.0,Cordoba
+,Djakaridja Traoré,ci CIV,MF,3,3,0.0,0.0,2020-2021,5fd2e685,Cordoba,244.0,2.7,0.0,0.0,73.0,35.0,5367.0,Cordoba
+,Mario Ortiz Ruiz,es ESP,MF,3,3,0.0,0.0,2020-2021,82661dc4,Cordoba,232.0,2.6,1.0,0.0,73.0,1.0,,Cordoba
+,Mohammed Djetei,cm CMR,DF,2,2,0.0,0.0,2020-2021,209c123e,Cordoba,180.0,2.0,1.0,0.0,73.0,36.0,,Cordoba
+,Alberto Espeso,es ESP,"MF,DF",2,2,0.0,0.0,2020-2021,79bb9a5d,Cordoba,180.0,2.0,1.0,0.0,73.0,1.0,,Cordoba
+,Eduardo Frías,es ESP,GK,2,2,0.0,0.0,2020-2021,0dce7191,Cordoba,180.0,2.0,0.0,0.0,73.0,1.0,,Cordoba
+,Samu Delgado,es ESP,"MF,FW",2,2,0.0,0.0,2020-2021,3b233353,Cordoba,161.0,1.8,0.0,0.0,73.0,1.0,,Cordoba
+,Thierry Moutinho,pt POR,MF,2,2,1.0,0.0,2020-2021,8e928063,Cordoba,138.0,1.5,0.0,0.0,73.0,3.0,,Cordoba
+,Alain Oyarzun,es ESP,MF,3,2,0.0,0.0,2020-2021,8159c16a,Cordoba,121.0,1.3,0.0,0.0,73.0,1.0,,Cordoba
+,Willy,es ESP,FW,2,2,0.0,1.0,2020-2021,c3c599ba,Cordoba,117.0,1.3,1.0,0.0,73.0,1.0,5368.0,Cordoba
+,Federico Piovaccari,it ITA,DF,3,1,0.0,0.0,2020-2021,fa49f136,Cordoba,133.0,1.5,0.0,0.0,73.0,9.0,,Cordoba
+,Jesús Álvaro,es ESP,DF,1,1,0.0,0.0,2020-2021,201b183d,Cordoba,90.0,1.0,0.0,0.0,73.0,1.0,,Cordoba
+,Isaac Becerra,es ESP,GK,1,1,0.0,0.0,2020-2021,bee5d245,Cordoba,90.0,1.0,0.0,0.0,73.0,1.0,,Cordoba
+,Álex Robles,es ESP,DF,1,1,0.0,0.0,2020-2021,df9326db,Cordoba,90.0,1.0,0.0,0.0,73.0,1.0,,Cordoba
+,Carlos Valverde,es ESP,DF,3,0,0.0,0.0,2020-2021,319aa98f,Cordoba,111.0,1.2,0.0,0.0,73.0,1.0,5369.0,Cordoba
+,Javi Flores,es ESP,MF,1,0,0.0,0.0,2020-2021,867f9ede,Cordoba,38.0,0.4,0.0,0.0,73.0,1.0,,Cordoba
+,Luismi,es ESP,FW,2,0,0.0,0.0,2020-2021,87e5826,Cordoba,29.0,0.3,0.0,0.0,73.0,1.0,5370.0,Cordoba
+,Miguel de las Cuevas,es ESP,MF,1,0,0.0,0.0,2020-2021,2e1cf3d2,Cordoba,26.0,0.3,0.0,0.0,73.0,1.0,,Cordoba
+,Bernardo Cruz,es ESP,DF,1,0,0.0,0.0,2020-2021,47872f21,Cordoba,1.0,0.0,0.0,0.0,73.0,1.0,,Cordoba
+,Alejandro Meléndez,es ESP,DF,0,0,,,2020-2021,1e27aaad,Cordoba,,,,,73.0,1.0,5371.0,Cordoba
+,Darren Sidoel,bg BUL,"DF,MF",0,0,,,2020-2021,90c887a0,Cordoba,,,,,73.0,65.0,5372.0,Cordoba
+,﻿José Alonso,es ESP,DF,1,1,0.0,0.0,2021-2022,361ee4d4,Cordoba,120.0,1.3,0.0,0.0,73.0,1.0,5373.0,Cordoba
+,José Miguel Ruiz del Amo,es ESP,DF,1,1,0.0,0.0,2021-2022,41217d36,Cordoba,120.0,1.3,0.0,0.0,73.0,1.0,,Cordoba
+,José Cruz,es ESP,DF,1,1,0.0,0.0,2021-2022,dff35885,Cordoba,120.0,1.3,0.0,0.0,73.0,1.0,5374.0,Cordoba
+,Ekaitz,es ESP,DF,1,1,0.0,0.0,2021-2022,93d96114,Cordoba,120.0,1.3,0.0,0.0,73.0,1.0,5375.0,Cordoba
+,Javi Flores,es ESP,MF,1,1,0.0,0.0,2021-2022,867f9ede,Cordoba,120.0,1.3,1.0,0.0,73.0,1.0,,Cordoba
+,Felipe Ramos Sánchez,es ESP,GK,1,1,0.0,0.0,2021-2022,5c27611c,Cordoba,120.0,1.3,0.0,0.0,73.0,1.0,5376.0,Cordoba
+,Toni Arranz,es ESP,MF,1,1,0.0,0.0,2021-2022,96c76d3,Cordoba,110.0,1.2,1.0,0.0,73.0,1.0,5377.0,Cordoba
+,Mohamed Bouzaidi Diouri,ma MAR,FW,1,1,0.0,0.0,2021-2022,59165b43,Cordoba,110.0,1.2,0.0,0.0,73.0,26.0,5378.0,Cordoba
+,Antonio Casas,es ESP,FW,1,1,0.0,0.0,2021-2022,85c05bac,Cordoba,68.0,0.8,0.0,0.0,73.0,1.0,5379.0,Cordoba
+,Adrián Fuentes,es ESP,FW,1,1,0.0,0.0,2021-2022,5052b1bc,Cordoba,61.0,0.7,0.0,0.0,73.0,1.0,5380.0,Cordoba
+,Puga,es ESP,MF,1,1,0.0,0.0,2021-2022,38daeede,Cordoba,61.0,0.7,0.0,0.0,73.0,1.0,5381.0,Cordoba
+,Luismi,es ESP,FW,1,0,0.0,0.0,2021-2022,87e5826,Cordoba,59.0,0.7,0.0,0.0,73.0,1.0,5370.0,Cordoba
+,Willy,es ESP,FW,1,0,0.0,0.0,2021-2022,c3c599ba,Cordoba,59.0,0.7,0.0,0.0,73.0,1.0,5368.0,Cordoba
+,Omar Perdomo,es ESP,MF,1,0,0.0,0.0,2021-2022,5290eb66,Cordoba,52.0,0.6,0.0,0.0,73.0,1.0,,Cordoba
+,Christian,es ESP,MF,1,0,0.0,0.0,2021-2022,b2115759,Cordoba,10.0,0.1,1.0,0.0,73.0,1.0,5382.0,Cordoba
+,Alejandro Meléndez,es ESP,DF,1,0,0.0,0.0,2021-2022,1e27aaad,Cordoba,10.0,0.1,0.0,0.0,73.0,1.0,5371.0,Cordoba
+,Abreu,es ESP,MF,0,0,,,2021-2022,5986f12,Cordoba,,,,,73.0,1.0,5383.0,Cordoba
+,Rafa Castillo,es ESP,DF,0,0,,,2021-2022,41d26bba,Cordoba,,,,,73.0,1.0,5384.0,Cordoba
+,Bernardo Cruz,es ESP,DF,0,0,,,2021-2022,47872f21,Cordoba,,,,,73.0,1.0,,Cordoba
+,Jaylan Hankins,gi GIB,GK,0,0,,,2021-2022,1372964b,Cordoba,,,,,73.0,134.0,,Cordoba
+,Tala,es ESP,DF,0,0,,,2021-2022,57ef6e74,Cordoba,,,,,73.0,1.0,5385.0,Cordoba
+,Ricardo Visus,,,0,0,,,2021-2022,35f1a7a2,Cordoba,,,,,73.0,,,Cordoba

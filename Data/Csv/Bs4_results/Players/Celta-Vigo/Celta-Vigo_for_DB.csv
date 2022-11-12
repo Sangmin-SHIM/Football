@@ -1,0 +1,586 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Pablo Cavallero,ar ARG,GK,36,36,0.0,0.0,2002-2003,754d4db5,Celta-Vigo,"3,160",35.1,4.0,1.0,40.0,5.0,616.0,Celta-Vigo
+,Peter Luccin,fr FRA,MF,35,35,3.0,1.0,2002-2003,3270f1b5,Celta-Vigo,"3,011",33.5,13.0,1.0,40.0,4.0,617.0,Celta-Vigo
+,Fernando Cáceres,ar ARG,DF,34,33,1.0,0.0,2002-2003,fab1ce6d,Celta-Vigo,"3,000",33.3,10.0,0.0,40.0,5.0,618.0,Celta-Vigo
+,Edu,br BRA,"FW,MF",36,32,5.0,11.0,2002-2003,71a2b3ed,Celta-Vigo,"2,756",30.6,0.0,0.0,40.0,2.0,619.0,Celta-Vigo
+,Juan Velasco Damas,es ESP,DF,31,31,2.0,0.0,2002-2003,6630e590,Celta-Vigo,"2,617",29.1,3.0,0.0,40.0,1.0,620.0,Celta-Vigo
+,Gustavo López,ar ARG,"FW,MF",33,29,5.0,1.0,2002-2003,bbd74f67,Celta-Vigo,"2,226",24.7,2.0,0.0,40.0,5.0,621.0,Celta-Vigo
+,Sylvinho,br BRA,DF,32,28,3.0,1.0,2002-2003,b46e497d,Celta-Vigo,"2,626",29.2,1.0,0.0,40.0,2.0,622.0,Celta-Vigo
+,José Ignacio,es ESP,MF,33,27,0.0,3.0,2002-2003,4477d395,Celta-Vigo,"2,440",27.1,12.0,0.0,40.0,1.0,623.0,Celta-Vigo
+,Eduardo Berizzo,ar ARG,DF,27,25,1.0,2.0,2002-2003,d28dbfe9,Celta-Vigo,"2,352",26.1,11.0,0.0,40.0,5.0,624.0,Celta-Vigo
+,Aleksandr Mostovoi,ru RUS,MF,27,24,4.0,6.0,2002-2003,6d215bed,Celta-Vigo,"2,042",22.7,6.0,1.0,40.0,23.0,625.0,Celta-Vigo
+,Catanha,es ESP,FW,31,18,3.0,4.0,2002-2003,69349680,Celta-Vigo,"1,648",18.3,2.0,0.0,40.0,1.0,626.0,Celta-Vigo
+,Juanfran,es ESP,DF,25,17,2.0,1.0,2002-2003,d8a22e59,Celta-Vigo,"1,494",16.6,9.0,0.0,40.0,1.0,627.0,Celta-Vigo
+,Jesuli,es ESP,MF,29,14,2.0,7.0,2002-2003,3bfc833a,Celta-Vigo,"1,468",16.3,4.0,1.0,40.0,1.0,,Celta-Vigo
+,Ángel López,es ESP,"DF,MF",15,13,0.0,0.0,2002-2003,93cdc601,Celta-Vigo,"1,130",12.6,5.0,1.0,40.0,1.0,628.0,Celta-Vigo
+,Sergio,es ESP,DF,13,12,0.0,0.0,2002-2003,7688c579,Celta-Vigo,"1,043",11.6,1.0,0.0,40.0,1.0,629.0,Celta-Vigo
+,Everton Giovanella,br BRA,MF,16,10,0.0,0.0,2002-2003,6a5d427,Celta-Vigo,865,9.6,2.0,0.0,40.0,2.0,630.0,Celta-Vigo
+,Vágner,br BRA,MF,23,8,0.0,1.0,2002-2003,c0efb885,Celta-Vigo,997,11.1,4.0,0.0,40.0,2.0,631.0,Celta-Vigo
+,Mido,eg EGY,FW,8,8,,4.0,2002-2003,91d87d09,Celta-Vigo,594,6.6,3.0,1.0,40.0,59.0,632.0,Celta-Vigo
+,Sebastián Méndez,ar ARG,DF,7,7,1.0,0.0,2002-2003,b38347a,Celta-Vigo,540,6.0,2.0,0.0,40.0,5.0,633.0,Celta-Vigo
+,Eduardo Coudet,ar ARG,MF,9,4,0.0,0.0,2002-2003,097ab8cb,Celta-Vigo,335,3.7,0.0,0.0,40.0,5.0,634.0,Celta-Vigo
+,Benni McCarthy,za RSA,FW,14,2,0.0,2.0,2002-2003,6f401c6,Celta-Vigo,321,3.6,1.0,1.0,40.0,60.0,635.0,Celta-Vigo
+,José Manuel Pinto,es ESP,GK,3,2,0.0,0.0,2002-2003,4a3cd9b7,Celta-Vigo,225,2.5,0.0,0.0,40.0,1.0,636.0,Celta-Vigo
+,Pablo Coira,es ESP,DF,5,2,0.0,0.0,2002-2003,7099e844,Celta-Vigo,220,2.4,0.0,0.0,40.0,1.0,637.0,Celta-Vigo
+,Jorge Rodríguez,es ESP,DF,1,1,0.0,0.0,2002-2003,6b8ad2c5,Celta-Vigo,90,1.0,0.0,0.0,40.0,1.0,638.0,Celta-Vigo
+,Doriva,br BRA,MF,3,0,0.0,0.0,2002-2003,6b8ab05e,Celta-Vigo,36,0.4,1.0,0.0,40.0,2.0,639.0,Celta-Vigo
+,Iván Kaviedes,ec ECU,FW,1,0,0.0,0.0,2002-2003,94c89cb3,Celta-Vigo,36,0.4,0.0,0.0,40.0,61.0,640.0,Celta-Vigo
+,José Juan Figueras,es ESP,GK,1,0,0.0,0.0,2002-2003,c7f01276,Celta-Vigo,35,0.4,0.0,0.0,40.0,1.0,641.0,Celta-Vigo
+,Jandro,es ESP,MF,1,0,0.0,0.0,2002-2003,453a1fcd,Celta-Vigo,17,0.2,0.0,0.0,40.0,1.0,642.0,Celta-Vigo
+,﻿Savo Milošević,rs SRB,FW,37,34,2.0,14.0,2003-2004,bab73c39,Celta-Vigo,"2,945",32.7,8.0,0.0,40.0,28.0,643.0,Celta-Vigo
+,Pablo Cavallero,ar ARG,GK,32,32,0.0,0.0,2003-2004,754d4db5,Celta-Vigo,"2,880",32.0,2.0,0.0,40.0,5.0,616.0,Celta-Vigo
+,Peter Luccin,fr FRA,MF,29,28,3.0,5.0,2003-2004,3270f1b5,Celta-Vigo,"2,514",27.9,7.0,2.0,40.0,4.0,617.0,Celta-Vigo
+,Sylvinho,br BRA,DF,29,26,3.0,0.0,2003-2004,b46e497d,Celta-Vigo,"2,301",25.6,7.0,1.0,40.0,2.0,622.0,Celta-Vigo
+,Eduardo Berizzo,ar ARG,DF,27,26,1.0,1.0,2003-2004,d28dbfe9,Celta-Vigo,"2,237",24.9,8.0,4.0,40.0,5.0,624.0,Celta-Vigo
+,José Ignacio,es ESP,MF,29,26,2.0,4.0,2003-2004,4477d395,Celta-Vigo,"2,024",22.5,4.0,1.0,40.0,1.0,623.0,Celta-Vigo
+,Juan Velasco Damas,es ESP,DF,25,25,1.0,0.0,2003-2004,6630e590,Celta-Vigo,"2,235",24.8,4.0,1.0,40.0,1.0,620.0,Celta-Vigo
+,Ángel López,es ESP,"DF,MF",31,24,4.0,0.0,2003-2004,93cdc601,Celta-Vigo,"2,150",23.9,5.0,0.0,40.0,1.0,628.0,Celta-Vigo
+,Gustavo López,ar ARG,"FW,MF",30,24,4.0,2.0,2003-2004,bbd74f67,Celta-Vigo,"1,842",20.5,8.0,0.0,40.0,5.0,621.0,Celta-Vigo
+,Fernando Cáceres,ar ARG,DF,24,23,0.0,0.0,2003-2004,fab1ce6d,Celta-Vigo,"2,019",22.4,4.0,1.0,40.0,5.0,618.0,Celta-Vigo
+,Jesuli,es ESP,MF,30,21,5.0,6.0,2003-2004,3bfc833a,Celta-Vigo,"1,866",20.7,6.0,0.0,40.0,1.0,,Celta-Vigo
+,Juanfran,es ESP,DF,21,18,1.0,1.0,2003-2004,d8a22e59,Celta-Vigo,"1,697",18.9,10.0,0.0,40.0,1.0,627.0,Celta-Vigo
+,Sergio,es ESP,DF,19,17,1.0,0.0,2003-2004,7688c579,Celta-Vigo,"1,455",16.2,4.0,1.0,40.0,1.0,629.0,Celta-Vigo
+,Aleksandr Mostovoi,ru RUS,MF,24,16,3.0,6.0,2003-2004,6d215bed,Celta-Vigo,"1,519",16.9,4.0,0.0,40.0,23.0,625.0,Celta-Vigo
+,Edu,br BRA,"FW,MF",18,12,1.0,3.0,2003-2004,71a2b3ed,Celta-Vigo,"1,284",14.3,0.0,0.0,40.0,2.0,619.0,Celta-Vigo
+,Sebastián Méndez,ar ARG,DF,12,11,0.0,0.0,2003-2004,b38347a,Celta-Vigo,943,10.5,5.0,0.0,40.0,5.0,633.0,Celta-Vigo
+,Saša Ilić,rs SRB,MF,13,10,1.0,1.0,2003-2004,504a654c,Celta-Vigo,891,9.9,4.0,0.0,40.0,28.0,644.0,Celta-Vigo
+,Everton Giovanella,br BRA,MF,16,10,0.0,1.0,2003-2004,6a5d427,Celta-Vigo,852,9.5,5.0,0.0,40.0,2.0,630.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,12,9,0.0,0.0,2003-2004,df441c0d,Celta-Vigo,863,9.6,3.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Vágner,br BRA,MF,19,7,0.0,0.0,2003-2004,c0efb885,Celta-Vigo,833,9.3,2.0,0.0,40.0,2.0,631.0,Celta-Vigo
+,José Manuel Pinto,es ESP,GK,6,6,0.0,0.0,2003-2004,4a3cd9b7,Celta-Vigo,540,6.0,0.0,0.0,40.0,1.0,636.0,Celta-Vigo
+,Pablo Contreras,cl CHI,DF,6,5,0.0,1.0,2003-2004,1cba86c6,Celta-Vigo,469,5.2,1.0,0.0,40.0,31.0,646.0,Celta-Vigo
+,Catanha,es ESP,FW,10,3,1.0,1.0,2003-2004,69349680,Celta-Vigo,320,3.6,2.0,0.0,40.0,1.0,626.0,Celta-Vigo
+,Jandro,es ESP,MF,12,2,1.0,2.0,2003-2004,453a1fcd,Celta-Vigo,235,2.6,0.0,0.0,40.0,1.0,642.0,Celta-Vigo
+,Israel Delgado,es ESP,DF,2,1,,0.0,2003-2004,1e33a0ca,Celta-Vigo,151,1.7,0.0,0.0,40.0,1.0,647.0,Celta-Vigo
+,Jonathan Aspas,es ESP,MF,3,1,0.0,0.0,2003-2004,f76cd534,Celta-Vigo,76,0.8,0.0,0.0,40.0,1.0,648.0,Celta-Vigo
+,Iago Bouzón,es ESP,DF,2,1,0.0,0.0,2003-2004,2b687c98,Celta-Vigo,56,0.6,1.0,0.0,40.0,1.0,649.0,Celta-Vigo
+,Mauricio Pinilla,cl CHI,FW,6,0,0.0,0.0,2003-2004,33bd231e,Celta-Vigo,149,1.7,0.0,0.0,40.0,31.0,650.0,Celta-Vigo
+,Manolo Sánchez,es ESP,MF,1,0,0.0,0.0,2003-2004,b40c4904,Celta-Vigo,35,0.4,1.0,0.0,40.0,1.0,651.0,Celta-Vigo
+,Nacho Franco,es ESP,FW,2,0,0.0,0.0,2003-2004,24d32601,Celta-Vigo,13,0.1,0.0,0.0,40.0,1.0,652.0,Celta-Vigo
+,﻿Ángel López,es ESP,"DF,MF",41,41,2.0,2.0,2004-2005,93cdc601,Celta-Vigo,"3,671",40.8,9.0,1.0,40.0,1.0,628.0,Celta-Vigo
+,José Manuel Pinto,es ESP,GK,40,40,0.0,0.0,2004-2005,4a3cd9b7,Celta-Vigo,"3,554",39.5,5.0,1.0,40.0,1.0,636.0,Celta-Vigo
+,Jandro,es ESP,MF,38,38,5.0,12.0,2004-2005,453a1fcd,Celta-Vigo,"3,199",35.5,8.0,0.0,40.0,1.0,642.0,Celta-Vigo
+,Fabián Canobbio,uy URU,MF,38,37,8.0,12.0,2004-2005,8a010a9b,Celta-Vigo,"3,253",36.1,4.0,1.0,40.0,8.0,653.0,Celta-Vigo
+,Pablo Contreras,cl CHI,DF,33,33,1.0,1.0,2004-2005,1cba86c6,Celta-Vigo,"2,873",31.9,9.0,0.0,40.0,31.0,646.0,Celta-Vigo
+,Israel Delgado,es ESP,DF,28,28,0.0,0.0,2004-2005,1e33a0ca,Celta-Vigo,"2,478",27.5,6.0,0.0,40.0,1.0,647.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,30,28,3.0,1.0,2004-2005,df441c0d,Celta-Vigo,"2,444",27.2,8.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Zisis Vryzas,gr GRE,FW,32,25,2.0,7.0,2004-2005,477030a,Celta-Vigo,"2,272",25.2,5.0,2.0,40.0,55.0,654.0,Celta-Vigo
+,Sergio,es ESP,DF,25,25,2.0,1.0,2004-2005,7688c579,Celta-Vigo,"2,185",24.3,8.0,0.0,40.0,1.0,629.0,Celta-Vigo
+,Gustavo López,ar ARG,"FW,MF",33,25,5.0,1.0,2004-2005,bbd74f67,Celta-Vigo,"1,947",21.6,5.0,0.0,40.0,5.0,621.0,Celta-Vigo
+,Txomin Nagore,es ESP,MF,30,19,0.0,2.0,2004-2005,41a60718,Celta-Vigo,"1,823",20.3,5.0,2.0,40.0,1.0,655.0,Celta-Vigo
+,Jonathan Aspas,es ESP,MF,25,17,1.0,2.0,2004-2005,f76cd534,Celta-Vigo,"1,441",16.0,5.0,1.0,40.0,1.0,648.0,Celta-Vigo
+,Capucho,pt POR,MF,19,16,2.0,0.0,2004-2005,9b54153d,Celta-Vigo,"1,149",12.8,1.0,0.0,40.0,3.0,656.0,Celta-Vigo
+,Roger Guerreiro,pl POL,MF,13,12,0.0,0.0,2004-2005,6f63913c,Celta-Vigo,"1,100",12.2,2.0,0.0,40.0,14.0,657.0,Celta-Vigo
+,Facundo Sava,ar ARG,FW,26,10,3.0,3.0,2004-2005,bbc6102c,Celta-Vigo,"1,092",12.1,7.0,0.0,40.0,5.0,658.0,Celta-Vigo
+,Sebastián Méndez,ar ARG,DF,16,10,0.0,0.0,2004-2005,b38347a,Celta-Vigo,"1,034",11.5,5.0,0.0,40.0,5.0,633.0,Celta-Vigo
+,Eduardo Berizzo,ar ARG,DF,11,8,0.0,0.0,2004-2005,d28dbfe9,Celta-Vigo,811,9.0,7.0,1.0,40.0,5.0,624.0,Celta-Vigo
+,José Ignacio,es ESP,MF,11,7,0.0,1.0,2004-2005,4477d395,Celta-Vigo,577,6.4,3.0,0.0,40.0,1.0,623.0,Celta-Vigo
+,José Jesús Perera,es ESP,FW,14,6,1.0,7.0,2004-2005,39a1bc8,Celta-Vigo,654,7.3,2.0,1.0,40.0,1.0,659.0,Celta-Vigo
+,Iago Bouzón,es ESP,DF,7,6,0.0,0.0,2004-2005,2b687c98,Celta-Vigo,564,6.3,4.0,0.0,40.0,1.0,649.0,Celta-Vigo
+,Yago Yao,gq EQG,DF,7,6,0.0,0.0,2004-2005,25c8b6c,Celta-Vigo,420,4.7,0.0,0.0,40.0,10.0,660.0,Celta-Vigo
+,Toni Moral,es ESP,MF,6,6,1.0,1.0,2004-2005,5c3bf3f9,Celta-Vigo,396,4.4,1.0,0.0,40.0,1.0,661.0,Celta-Vigo
+,Juan Sánchez,es ESP,FW,20,5,2.0,5.0,2004-2005,58c2f75c,Celta-Vigo,823,9.1,1.0,1.0,40.0,1.0,662.0,Celta-Vigo
+,Manolo Sánchez,es ESP,MF,12,5,0.0,0.0,2004-2005,b40c4904,Celta-Vigo,499,5.5,1.0,0.0,40.0,1.0,651.0,Celta-Vigo
+,Everton Giovanella,br BRA,MF,12,3,0.0,0.0,2004-2005,6a5d427,Celta-Vigo,395,4.4,6.0,1.0,40.0,2.0,630.0,Celta-Vigo
+,Orlando Quintana,es ESP,GK,3,2,0.0,0.0,2004-2005,bdb7b026,Celta-Vigo,226,2.5,0.0,0.0,40.0,1.0,663.0,Celta-Vigo
+,Nacho Franco,es ESP,FW,2,2,0.0,0.0,2004-2005,24d32601,Celta-Vigo,129,1.4,0.0,0.0,40.0,1.0,652.0,Celta-Vigo
+,Isaac Fernández Vila,,,10,1,0.0,0.0,2004-2005,396b2239,Celta-Vigo,359,4.0,0.0,0.0,40.0,,,Celta-Vigo
+,Jorge Rodríguez,es ESP,DF,1,1,0.0,0.0,2004-2005,6b8ad2c5,Celta-Vigo,90,1.0,0.0,0.0,40.0,1.0,638.0,Celta-Vigo
+,﻿Ángel López,es ESP,"DF,MF",37,37,2.0,2.0,2005-2006,93cdc601,Celta-Vigo,"3,323",36.9,8.0,0.0,40.0,1.0,628.0,Celta-Vigo
+,José Manuel Pinto,es ESP,GK,37,37,0.0,0.0,2005-2006,4a3cd9b7,Celta-Vigo,"3,262",36.2,4.0,1.0,40.0,1.0,636.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,36,36,1.0,1.0,2005-2006,df441c0d,Celta-Vigo,"3,176",35.3,6.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Fernando Baiano,br BRA,FW,33,32,3.0,13.0,2005-2006,253f2715,Celta-Vigo,"2,630",29.2,4.0,0.0,40.0,2.0,664.0,Celta-Vigo
+,Fabián Canobbio,uy URU,MF,32,32,4.0,8.0,2005-2006,8a010a9b,Celta-Vigo,"2,564",28.5,2.0,0.0,40.0,8.0,653.0,Celta-Vigo
+,David Silva,es ESP,"FW,MF",34,31,3.0,4.0,2005-2006,2716bd0,Celta-Vigo,"2,659",29.5,2.0,0.0,40.0,1.0,,Celta-Vigo
+,Matías Lequi,ar ARG,DF,29,26,0.0,2.0,2005-2006,dd0c806c,Celta-Vigo,"2,433",27.0,8.0,0.0,40.0,5.0,665.0,Celta-Vigo
+,Iriney,br BRA,MF,29,26,1.0,0.0,2005-2006,09296fcc,Celta-Vigo,"2,325",25.8,5.0,0.0,40.0,2.0,666.0,Celta-Vigo
+,Sergio,es ESP,DF,26,26,0.0,0.0,2005-2006,7688c579,Celta-Vigo,"2,283",25.4,10.0,0.0,40.0,1.0,629.0,Celta-Vigo
+,Antonio Núñez,es ESP,MF,32,26,3.0,2.0,2005-2006,df89070b,Celta-Vigo,"2,191",24.3,6.0,0.0,40.0,1.0,30.0,Celta-Vigo
+,Diego Placente,ar ARG,DF,25,25,4.0,0.0,2005-2006,f6bcca5d,Celta-Vigo,"2,205",24.5,5.0,0.0,40.0,5.0,667.0,Celta-Vigo
+,Pablo Contreras,cl CHI,DF,29,23,0.0,4.0,2005-2006,1cba86c6,Celta-Vigo,"2,048",22.8,10.0,1.0,40.0,31.0,646.0,Celta-Vigo
+,Jorge Larena,es ESP,MF,26,19,4.0,2.0,2005-2006,3de25195,Celta-Vigo,"1,273",14.1,2.0,0.0,40.0,1.0,668.0,Celta-Vigo
+,José Enrique,es ESP,DF,14,12,0.0,0.0,2005-2006,d56364d5,Celta-Vigo,"1,127",12.5,1.0,0.0,40.0,1.0,669.0,Celta-Vigo
+,Daniël de Ridder,nl NED,"FW,MF",17,9,0.0,1.0,2005-2006,18bd458f,Celta-Vigo,774,8.6,0.0,0.0,40.0,11.0,670.0,Celta-Vigo
+,Gustavo López,ar ARG,"FW,MF",16,6,2.0,1.0,2005-2006,bbd74f67,Celta-Vigo,611,6.8,2.0,0.0,40.0,5.0,621.0,Celta-Vigo
+,Jonathan Aspas,es ESP,MF,15,5,0.0,1.0,2005-2006,f76cd534,Celta-Vigo,675,7.5,1.0,0.0,40.0,1.0,648.0,Celta-Vigo
+,Javi Guerrero,es ESP,FW,19,3,0.0,0.0,2005-2006,bd4345ec,Celta-Vigo,595,6.6,0.0,0.0,40.0,1.0,671.0,Celta-Vigo
+,José Jesús Perera,es ESP,FW,17,2,1.0,4.0,2005-2006,39a1bc8,Celta-Vigo,460,5.1,0.0,0.0,40.0,1.0,659.0,Celta-Vigo
+,Sebastián Méndez,ar ARG,DF,10,1,0.0,0.0,2005-2006,b38347a,Celta-Vigo,303,3.4,3.0,0.0,40.0,5.0,633.0,Celta-Vigo
+,Roberto Sousa,br BRA,"DF,MF",8,1,0.0,0.0,2005-2006,40a22d49,Celta-Vigo,262,2.9,3.0,0.0,40.0,2.0,672.0,Celta-Vigo
+,Esteban,es ESP,GK,2,1,0.0,0.0,2005-2006,4fc2638,Celta-Vigo,159,1.8,0.0,0.0,40.0,1.0,673.0,Celta-Vigo
+,Everton Giovanella,br BRA,MF,2,1,0.0,0.0,2005-2006,6a5d427,Celta-Vigo,125,1.4,0.0,0.0,40.0,2.0,630.0,Celta-Vigo
+,Juan Sánchez,es ESP,FW,3,1,,0.0,2005-2006,58c2f75c,Celta-Vigo,56,0.6,0.0,0.0,40.0,1.0,662.0,Celta-Vigo
+,﻿Nenê,br BRA,"FW,MF",38,36,3.0,8.0,2006-2007,265ebd37,Celta-Vigo,"2,975",33.1,4.0,0.0,40.0,2.0,674.0,Celta-Vigo
+,Ángel López,es ESP,"DF,MF",35,35,4.0,2.0,2006-2007,93cdc601,Celta-Vigo,"3,133",34.8,8.0,1.0,40.0,1.0,628.0,Celta-Vigo
+,Fernando Baiano,br BRA,FW,35,35,3.0,15.0,2006-2007,253f2715,Celta-Vigo,"2,983",33.1,6.0,0.0,40.0,2.0,664.0,Celta-Vigo
+,José Manuel Pinto,es ESP,GK,34,34,0.0,0.0,2006-2007,4a3cd9b7,Celta-Vigo,"3,060",34.0,6.0,0.0,40.0,1.0,636.0,Celta-Vigo
+,Diego Placente,ar ARG,DF,34,33,0.0,0.0,2006-2007,f6bcca5d,Celta-Vigo,"2,863",31.8,9.0,0.0,40.0,5.0,667.0,Celta-Vigo
+,Fabián Canobbio,uy URU,MF,34,32,4.0,2.0,2006-2007,8a010a9b,Celta-Vigo,"2,549",28.3,5.0,2.0,40.0,8.0,653.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,30,30,1.0,1.0,2006-2007,df441c0d,Celta-Vigo,"2,673",29.7,5.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Pablo Contreras,cl CHI,DF,30,29,0.0,0.0,2006-2007,1cba86c6,Celta-Vigo,"2,553",28.4,9.0,1.0,40.0,31.0,646.0,Celta-Vigo
+,Gustavo López,ar ARG,"FW,MF",31,28,6.0,3.0,2006-2007,bbd74f67,Celta-Vigo,"2,185",24.3,5.0,1.0,40.0,5.0,621.0,Celta-Vigo
+,Gabriel Tamaș,ro ROU,DF,29,25,1.0,0.0,2006-2007,5d2c2f2b,Celta-Vigo,"2,199",24.4,11.0,2.0,40.0,51.0,675.0,Celta-Vigo
+,Iriney,br BRA,MF,26,25,1.0,2.0,2006-2007,09296fcc,Celta-Vigo,"2,020",22.4,8.0,1.0,40.0,2.0,666.0,Celta-Vigo
+,Matías Lequi,ar ARG,DF,26,22,1.0,1.0,2006-2007,dd0c806c,Celta-Vigo,"2,057",22.9,8.0,1.0,40.0,5.0,665.0,Celta-Vigo
+,Pablo García,uy URU,"DF,MF",14,11,1.0,0.0,2006-2007,911299ca,Celta-Vigo,989,11.0,9.0,2.0,40.0,8.0,41.0,Celta-Vigo
+,Antonio Núñez,es ESP,MF,24,10,0.0,0.0,2006-2007,df89070b,Celta-Vigo,994,11.0,2.0,0.0,40.0,1.0,30.0,Celta-Vigo
+,Jonathan Aspas,es ESP,MF,22,8,0.0,0.0,2006-2007,f76cd534,Celta-Vigo,"1,020",11.3,3.0,0.0,40.0,1.0,648.0,Celta-Vigo
+,Jorge Larena,es ESP,MF,15,5,0.0,1.0,2006-2007,3de25195,Celta-Vigo,478,5.3,1.0,0.0,40.0,1.0,668.0,Celta-Vigo
+,Habib Bamogo,bf BFA,FW,15,4,1.0,2.0,2006-2007,db50d95f,Celta-Vigo,663,7.4,0.0,0.0,40.0,62.0,676.0,Celta-Vigo
+,Yago Yao,gq EQG,DF,6,4,0.0,1.0,2006-2007,25c8b6c,Celta-Vigo,448,5.0,0.0,0.0,40.0,10.0,660.0,Celta-Vigo
+,Esteban,es ESP,GK,4,4,0.0,0.0,2006-2007,4fc2638,Celta-Vigo,360,4.0,0.0,0.0,40.0,1.0,673.0,Celta-Vigo
+,Antonio Guayre,es ESP,"FW,MF",10,2,0.0,1.0,2006-2007,82cf603f,Celta-Vigo,336,3.7,1.0,0.0,40.0,1.0,677.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",7,2,0.0,0.0,2006-2007,7c3a3425,Celta-Vigo,190,2.1,1.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,George Lucas Coser,br BRA,DF,2,2,0.0,0.0,2006-2007,8a4dce52,Celta-Vigo,147,1.6,0.0,0.0,40.0,2.0,679.0,Celta-Vigo
+,José Jesús Perera,es ESP,FW,18,1,1.0,1.0,2006-2007,39a1bc8,Celta-Vigo,438,4.9,2.0,0.0,40.0,1.0,659.0,Celta-Vigo
+,Miguel Areias,pt POR,DF,1,1,0.0,0.0,2006-2007,4143fba4,Celta-Vigo,90,1.0,0.0,0.0,40.0,3.0,680.0,Celta-Vigo
+,Daniël de Ridder,nl NED,"FW,MF",3,0,0.0,0.0,2006-2007,18bd458f,Celta-Vigo,37,0.4,0.0,0.0,40.0,11.0,670.0,Celta-Vigo
+,Dani Abalo,es ESP,"FW,MF",1,0,,0.0,2006-2007,d1b04adb,Celta-Vigo,13,0.1,0.0,0.0,40.0,1.0,681.0,Celta-Vigo
+,﻿Rubén,es ESP,DF,37,37,0.0,1.0,2007-2008,d0c06281,Celta-Vigo,"3,245",36.1,11.0,1.0,40.0,1.0,21.0,Celta-Vigo
+,Antonio Núñez,es ESP,MF,40,37,3.0,5.0,2007-2008,df89070b,Celta-Vigo,"2,931",32.6,5.0,0.0,40.0,1.0,30.0,Celta-Vigo
+,Roberto Lago,es ESP,"DF,MF",34,31,2.0,1.0,2007-2008,98e0ad35,Celta-Vigo,"2,801",31.1,3.0,0.0,40.0,1.0,682.0,Celta-Vigo
+,George Lucas Coser,br BRA,DF,30,29,1.0,0.0,2007-2008,8a4dce52,Celta-Vigo,"2,545",28.3,6.0,1.0,40.0,2.0,679.0,Celta-Vigo
+,Vitolo,es ESP,MF,34,28,0.0,0.0,2007-2008,0785296e,Celta-Vigo,"2,592",28.8,10.0,0.0,40.0,1.0,683.0,Celta-Vigo
+,Esteban,es ESP,GK,27,26,0.0,0.0,2007-2008,4fc2638,Celta-Vigo,"2,428",27.0,0.0,0.0,40.0,1.0,673.0,Celta-Vigo
+,José Jesús Perera,es ESP,FW,33,26,2.0,15.0,2007-2008,39a1bc8,Celta-Vigo,"2,352",26.1,8.0,0.0,40.0,1.0,659.0,Celta-Vigo
+,Jorge Larena,es ESP,MF,35,26,9.0,5.0,2007-2008,3de25195,Celta-Vigo,"2,189",24.3,8.0,0.0,40.0,1.0,668.0,Celta-Vigo
+,Matías Lequi,ar ARG,DF,26,25,0.0,2.0,2007-2008,dd0c806c,Celta-Vigo,"2,179",24.2,9.0,4.0,40.0,5.0,665.0,Celta-Vigo
+,Fabián Canobbio,uy URU,MF,27,25,6.0,6.0,2007-2008,8a010a9b,Celta-Vigo,"2,031",22.6,5.0,0.0,40.0,8.0,653.0,Celta-Vigo
+,Agus,es ESP,"DF,FW",29,24,1.0,1.0,2007-2008,f7a542c,Celta-Vigo,"2,282",25.4,8.0,0.0,40.0,1.0,684.0,Celta-Vigo
+,Diego Costa,es ESP,FW,30,19,3.0,6.0,2007-2008,190d597,Celta-Vigo,"1,757",19.5,8.0,2.0,40.0,1.0,685.0,Celta-Vigo
+,José Manuel Pinto,es ESP,GK,16,16,0.0,0.0,2007-2008,4a3cd9b7,Celta-Vigo,"1,352",15.0,3.0,1.0,40.0,1.0,636.0,Celta-Vigo
+,Quincy Owusu-Abeyie,gh GHA,"FW,MF",21,15,0.0,4.0,2007-2008,1d1f404,Celta-Vigo,"1,293",14.4,6.0,0.0,40.0,17.0,686.0,Celta-Vigo
+,Ioannis Okkas,cy CYP,FW,24,14,1.0,6.0,2007-2008,2d9544d,Celta-Vigo,"1,241",13.8,1.0,1.0,40.0,63.0,687.0,Celta-Vigo
+,Michu,es ESP,"FW,MF",14,13,0.0,1.0,2007-2008,98429b7b,Celta-Vigo,"1,139",12.7,2.0,0.0,40.0,1.0,688.0,Celta-Vigo
+,Mario Suárez,es ESP,MF,26,12,1.0,2.0,2007-2008,7106f0a0,Celta-Vigo,"1,321",14.7,4.0,0.0,40.0,1.0,689.0,Celta-Vigo
+,Ariel Rosada,ar ARG,MF,12,11,0.0,0.0,2007-2008,04e5057b,Celta-Vigo,852,9.5,6.0,0.0,40.0,5.0,690.0,Celta-Vigo
+,Juan Manuel Peña,bo BOL,DF,11,10,0.0,0.0,2007-2008,0f7909da,Celta-Vigo,806,9.0,2.0,1.0,40.0,64.0,691.0,Celta-Vigo
+,Julián Vara,es ESP,"DF,FW",13,9,1.0,0.0,2007-2008,5c92e249,Celta-Vigo,886,9.8,1.0,0.0,40.0,1.0,692.0,Celta-Vigo
+,Fernando Sales,es ESP,MF,13,6,1.0,0.0,2007-2008,24486536,Celta-Vigo,642,7.1,0.0,1.0,40.0,1.0,693.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",9,4,0.0,0.0,2007-2008,7c3a3425,Celta-Vigo,495,5.5,2.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,Roberto Sousa,br BRA,"DF,MF",4,3,0.0,0.0,2007-2008,40a22d49,Celta-Vigo,289,3.2,2.0,0.0,40.0,2.0,672.0,Celta-Vigo
+,Antonio Guayre,es ESP,"FW,MF",10,3,0.0,0.0,2007-2008,82cf603f,Celta-Vigo,275,3.1,0.0,0.0,40.0,1.0,677.0,Celta-Vigo
+,Pablo Contreras,cl CHI,DF,3,3,0.0,0.0,2007-2008,1cba86c6,Celta-Vigo,269,3.0,3.0,1.0,40.0,31.0,646.0,Celta-Vigo
+,Vladimir Manchev,bg BUL,FW,10,2,0.0,0.0,2007-2008,005a9b28,Celta-Vigo,303,3.4,0.0,0.0,40.0,65.0,694.0,Celta-Vigo
+,Noel Alonso,es ESP,DF,3,2,0.0,0.0,2007-2008,6991e767,Celta-Vigo,189,2.1,0.0,0.0,40.0,1.0,695.0,Celta-Vigo
+,Petar Zanev,bg BUL,DF,3,2,0.0,0.0,2007-2008,8ee7161d,Celta-Vigo,155,1.7,0.0,0.0,40.0,65.0,696.0,Celta-Vigo
+,Adrián González,es ESP,MF,3,1,0.0,0.0,2007-2008,57ebd662,Celta-Vigo,96,1.1,0.0,0.0,40.0,1.0,697.0,Celta-Vigo
+,Richy,es ESP,DF,1,1,0.0,0.0,2007-2008,1d5089f0,Celta-Vigo,90,1.0,0.0,0.0,40.0,1.0,698.0,Celta-Vigo
+,Javi Guerrero,es ESP,FW,1,1,0.0,0.0,2007-2008,bd4345ec,Celta-Vigo,62,0.7,0.0,0.0,40.0,1.0,671.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,1,1,0.0,0.0,2007-2008,df441c0d,Celta-Vigo,58,0.6,1.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Dani Abalo,es ESP,"FW,MF",2,0,0.0,0.0,2007-2008,d1b04adb,Celta-Vigo,38,0.4,0.0,0.0,40.0,1.0,681.0,Celta-Vigo
+,Ferrán Tacón,es ESP,MF,1,0,0.0,0.0,2007-2008,554253f5,Celta-Vigo,34,0.4,0.0,0.0,40.0,1.0,699.0,Celta-Vigo
+,Goran Marić,es ESP,FW,1,0,0.0,0.0,2007-2008,71251e74,Celta-Vigo,31,0.3,0.0,0.0,40.0,1.0,,Celta-Vigo
+,﻿Ariel Rosada,ar ARG,MF,37,35,2.0,0.0,2008-2009,04e5057b,Celta-Vigo,"3,079",34.2,13.0,1.0,40.0,5.0,690.0,Celta-Vigo
+,Rubén,es ESP,DF,33,33,0.0,0.0,2008-2009,d0c06281,Celta-Vigo,"2,970",33.0,14.0,0.0,40.0,1.0,21.0,Celta-Vigo
+,Dinei,br BRA,FW,37,32,6.0,10.0,2008-2009,8a9fbd03,Celta-Vigo,"2,769",30.8,6.0,1.0,40.0,2.0,701.0,Celta-Vigo
+,Antonio Notario,es ESP,GK,30,30,0.0,0.0,2008-2009,b49f31c5,Celta-Vigo,"2,622",29.1,5.0,0.0,40.0,1.0,702.0,Celta-Vigo
+,Edu Moya,es ESP,"DF,MF",31,28,2.0,1.0,2008-2009,7da62f29,Celta-Vigo,"2,522",28.0,12.0,3.0,40.0,1.0,703.0,Celta-Vigo
+,Kamel Ghilas,dz ALG,FW,33,27,1.0,13.0,2008-2009,7b144fc2,Celta-Vigo,"2,461",27.3,4.0,0.0,40.0,37.0,704.0,Celta-Vigo
+,Roberto Trashorras,es ESP,MF,33,25,3.0,3.0,2008-2009,5252fdf5,Celta-Vigo,"2,271",25.2,6.0,0.0,40.0,1.0,705.0,Celta-Vigo
+,Dani Abalo,es ESP,"FW,MF",35,25,0.0,2.0,2008-2009,d1b04adb,Celta-Vigo,"2,170",24.1,7.0,1.0,40.0,1.0,681.0,Celta-Vigo
+,David Rodríguez,es ESP,FW,36,23,2.0,8.0,2008-2009,bae862bf,Celta-Vigo,"2,110",23.4,3.0,1.0,40.0,1.0,706.0,Celta-Vigo
+,Óscar Díaz,es ESP,"FW,MF",34,22,2.0,2.0,2008-2009,5a5ed410,Celta-Vigo,"1,934",21.5,5.0,0.0,40.0,1.0,707.0,Celta-Vigo
+,Juan Manuel Peña,bo BOL,DF,22,21,0.0,0.0,2008-2009,0f7909da,Celta-Vigo,"1,851",20.6,5.0,3.0,40.0,64.0,691.0,Celta-Vigo
+,Francisco Noguerol,es ESP,DF,24,20,0.0,0.0,2008-2009,73bdd0b1,Celta-Vigo,"1,832",20.4,7.0,0.0,40.0,1.0,708.0,Celta-Vigo
+,Roberto Lago,es ESP,"DF,MF",24,20,2.0,0.0,2008-2009,98e0ad35,Celta-Vigo,"1,814",20.2,6.0,0.0,40.0,1.0,682.0,Celta-Vigo
+,Fernando Fajardo,uy URU,DF,22,20,1.0,1.0,2008-2009,5d586062,Celta-Vigo,"1,718",19.1,5.0,0.0,40.0,8.0,709.0,Celta-Vigo
+,Michu,es ESP,"FW,MF",26,18,0.0,1.0,2008-2009,98429b7b,Celta-Vigo,"1,646",18.3,4.0,0.0,40.0,1.0,688.0,Celta-Vigo
+,Jordi,es ESP,DF,15,15,0.0,0.0,2008-2009,744a8a7c,Celta-Vigo,"1,289",14.3,3.0,0.0,40.0,1.0,710.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",26,14,1.0,0.0,2008-2009,7c3a3425,Celta-Vigo,"1,331",14.8,1.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,Renan Garcia,br BRA,MF,17,14,3.0,2.0,2008-2009,b5a5e775,Celta-Vigo,"1,198",13.3,1.0,0.0,40.0,2.0,711.0,Celta-Vigo
+,Ismael Falcón,es ESP,GK,13,12,0.0,0.0,2008-2009,5d2574f2,Celta-Vigo,"1,158",12.9,0.0,0.0,40.0,1.0,712.0,Celta-Vigo
+,Fabiano,br BRA,DF,10,9,0.0,0.0,2008-2009,2db8eed9,Celta-Vigo,762,8.5,3.0,0.0,40.0,2.0,713.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,15,8,2.0,0.0,2008-2009,df441c0d,Celta-Vigo,748,8.3,4.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,George Lucas Coser,br BRA,DF,8,6,0.0,0.0,2008-2009,8a4dce52,Celta-Vigo,526,5.8,2.0,0.0,40.0,2.0,679.0,Celta-Vigo
+,Iago Iglesias,es ESP,MF,3,2,0.0,2.0,2008-2009,3fc7655e,Celta-Vigo,177,2.0,1.0,0.0,40.0,1.0,,Celta-Vigo
+,Danilo Sacramento,br BRA,MF,8,1,0.0,0.0,2008-2009,315991b7,Celta-Vigo,199,2.2,2.0,0.0,40.0,2.0,714.0,Celta-Vigo
+,Māris Verpakovskis,lv LVA,"FW,MF",8,1,0.0,0.0,2008-2009,9f8f8a29,Celta-Vigo,185,2.1,2.0,0.0,40.0,66.0,715.0,Celta-Vigo
+,Candela,es ESP,MF,1,1,0.0,0.0,2008-2009,fc36e493,Celta-Vigo,45,0.5,0.0,0.0,40.0,1.0,716.0,Celta-Vigo
+,Joselu,es ESP,FW,2,0,0.0,0.0,2008-2009,6265208f,Celta-Vigo,45,0.5,0.0,0.0,40.0,1.0,100.0,Celta-Vigo
+,﻿Aritz López Garai,es ESP,MF,40,37,0.0,1.0,2009-2010,59b0c4a0,Celta-Vigo,"3,288",36.5,11.0,0.0,40.0,1.0,717.0,Celta-Vigo
+,Ismael Falcón,es ESP,GK,35,35,0.0,0.0,2009-2010,5d2574f2,Celta-Vigo,"3,150",35.0,5.0,0.0,40.0,1.0,712.0,Celta-Vigo
+,Roberto Trashorras,es ESP,MF,38,33,5.0,9.0,2009-2010,5252fdf5,Celta-Vigo,"2,790",31.0,8.0,0.0,40.0,1.0,705.0,Celta-Vigo
+,Roberto Lago,es ESP,"DF,MF",32,29,1.0,1.0,2009-2010,98e0ad35,Celta-Vigo,"2,569",28.5,8.0,0.0,40.0,1.0,682.0,Celta-Vigo
+,Francisco Noguerol,es ESP,DF,28,27,0.0,0.0,2009-2010,73bdd0b1,Celta-Vigo,"2,419",26.9,9.0,0.0,40.0,1.0,708.0,Celta-Vigo
+,Iago Iglesias,es ESP,MF,36,26,2.0,5.0,2009-2010,3fc7655e,Celta-Vigo,"2,313",25.7,8.0,1.0,40.0,1.0,,Celta-Vigo
+,Vasco Fernandes,pt POR,DF,28,24,1.0,0.0,2009-2010,4a0a3759,Celta-Vigo,"2,205",24.5,13.0,0.0,40.0,3.0,718.0,Celta-Vigo
+,Cristian Bustos,es ESP,MF,28,24,0.0,0.0,2009-2010,ccb6ae73,Celta-Vigo,"2,093",23.3,8.0,0.0,40.0,1.0,719.0,Celta-Vigo
+,David Català,es ESP,DF,22,22,0.0,1.0,2009-2010,d54971a,Celta-Vigo,"1,980",22.0,12.0,0.0,40.0,1.0,720.0,Celta-Vigo
+,Dani Abalo,es ESP,"FW,MF",29,21,1.0,2.0,2009-2010,d1b04adb,Celta-Vigo,"1,728",19.2,3.0,0.0,40.0,1.0,681.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,25,19,3.0,0.0,2009-2010,cb574619,Celta-Vigo,"1,699",18.9,13.0,1.0,40.0,1.0,721.0,Celta-Vigo
+,Michu,es ESP,"FW,MF",30,18,1.0,6.0,2009-2010,98429b7b,Celta-Vigo,"1,691",18.8,5.0,1.0,40.0,1.0,688.0,Celta-Vigo
+,Pedro Botelho,br BRA,"DF,MF",27,18,2.0,1.0,2009-2010,1f933029,Celta-Vigo,"1,672",18.6,9.0,0.0,40.0,2.0,722.0,Celta-Vigo
+,Joselu,es ESP,FW,24,16,2.0,4.0,2009-2010,6265208f,Celta-Vigo,"1,594",17.7,4.0,1.0,40.0,1.0,100.0,Celta-Vigo
+,Andrés Túñez,ve VEN,DF,16,16,0.0,1.0,2009-2010,6520cb34,Celta-Vigo,"1,411",15.7,5.0,0.0,40.0,53.0,723.0,Celta-Vigo
+,Jordi,es ESP,DF,15,15,0.0,1.0,2009-2010,744a8a7c,Celta-Vigo,"1,350",15.0,4.0,0.0,40.0,1.0,710.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",17,13,0.0,0.0,2009-2010,7c3a3425,Celta-Vigo,"1,124",12.5,7.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,Dimitris Papadopoulos,gr GRE,FW,14,12,0.0,0.0,2009-2010,63c519e1,Celta-Vigo,923,10.3,4.0,1.0,40.0,55.0,724.0,Celta-Vigo
+,Saulo,br BRA,FW,18,11,1.0,1.0,2009-2010,600412e9,Celta-Vigo,959,10.7,4.0,0.0,40.0,2.0,,Celta-Vigo
+,Danilo Sacramento,br BRA,MF,18,7,0.0,1.0,2009-2010,315991b7,Celta-Vigo,770,8.6,4.0,0.0,40.0,2.0,714.0,Celta-Vigo
+,Toni Dovale,es ESP,"DF,MF",12,7,0.0,2.0,2009-2010,d4b9adcf,Celta-Vigo,632,7.0,1.0,0.0,40.0,1.0,726.0,Celta-Vigo
+,Yoel,es ESP,GK,7,7,0.0,0.0,2009-2010,61bb7498,Celta-Vigo,630,7.0,1.0,0.0,40.0,1.0,727.0,Celta-Vigo
+,Gastón Cellerino,ar ARG,FW,12,7,0.0,1.0,2009-2010,73ddd8,Celta-Vigo,607,6.7,2.0,0.0,40.0,5.0,728.0,Celta-Vigo
+,Arthuro,br BRA,FW,11,5,0.0,0.0,2009-2010,f5bfaa6,Celta-Vigo,524,5.8,2.0,0.0,40.0,2.0,729.0,Celta-Vigo
+,Aarón Ñíguez,es ESP,"FW,MF",11,4,0.0,0.0,2009-2010,5d720396,Celta-Vigo,545,6.1,3.0,0.0,40.0,1.0,730.0,Celta-Vigo
+,Oriol Riera,es ESP,FW,5,4,0.0,0.0,2009-2010,d742ed9,Celta-Vigo,344,3.8,1.0,0.0,40.0,1.0,,Celta-Vigo
+,Sergio Ortega,es ESP,DF,5,3,0.0,0.0,2009-2010,5e498ef7,Celta-Vigo,294,3.3,1.0,0.0,40.0,1.0,731.0,Celta-Vigo
+,Álex López,es ESP,MF,2,1,0.0,0.0,2009-2010,30b44896,Celta-Vigo,81,0.9,0.0,0.0,40.0,1.0,732.0,Celta-Vigo
+,Mateo Míguez Adán,es ESP,FW,1,1,0.0,0.0,2009-2010,772a670,Celta-Vigo,54,0.6,0.0,0.0,40.0,1.0,733.0,Celta-Vigo
+,Víctor Vázquez,es ESP,DF,1,0,0.0,0.0,2009-2010,936adff,Celta-Vigo,24,0.3,0.0,0.0,40.0,1.0,734.0,Celta-Vigo
+,﻿Cristian Bustos,es ESP,MF,38,37,1.0,0.0,2010-2011,ccb6ae73,Celta-Vigo,"3,347",37.2,8.0,0.0,40.0,1.0,719.0,Celta-Vigo
+,David Català,es ESP,DF,37,37,3.0,2.0,2010-2011,d54971a,Celta-Vigo,"3,330",37.0,4.0,0.0,40.0,1.0,720.0,Celta-Vigo
+,David Rodríguez,es ESP,FW,37,36,3.0,17.0,2010-2011,bae862bf,Celta-Vigo,"2,882",32.0,6.0,0.0,40.0,1.0,706.0,Celta-Vigo
+,Aritz López Garai,es ESP,MF,36,35,0.0,0.0,2010-2011,59b0c4a0,Celta-Vigo,"3,008",33.4,10.0,1.0,40.0,1.0,717.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",35,34,0.0,0.0,2010-2011,7c3a3425,Celta-Vigo,"3,083",34.3,7.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,Roberto Lago,es ESP,"DF,MF",35,34,0.0,3.0,2010-2011,98e0ad35,Celta-Vigo,"2,974",33.0,7.0,3.0,40.0,1.0,682.0,Celta-Vigo
+,Ismael Falcón,es ESP,GK,33,33,0.0,0.0,2010-2011,5d2574f2,Celta-Vigo,"2,894",32.2,3.0,1.0,40.0,1.0,712.0,Celta-Vigo
+,Álex López,es ESP,MF,35,32,2.0,3.0,2010-2011,30b44896,Celta-Vigo,"2,651",29.5,9.0,0.0,40.0,1.0,732.0,Celta-Vigo
+,Enrique de Lucas,es ESP,"FW,MF",37,32,11.0,9.0,2010-2011,61cc61,Celta-Vigo,"2,628",29.2,10.0,0.0,40.0,1.0,735.0,Celta-Vigo
+,Roberto Trashorras,es ESP,MF,36,31,8.0,5.0,2010-2011,5252fdf5,Celta-Vigo,"2,514",27.9,7.0,1.0,40.0,1.0,705.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,28,28,4.0,1.0,2010-2011,cb574619,Celta-Vigo,"2,419",26.9,9.0,1.0,40.0,1.0,721.0,Celta-Vigo
+,Michu,es ESP,"FW,MF",31,18,1.0,6.0,2010-2011,98429b7b,Celta-Vigo,"1,683",18.7,2.0,0.0,40.0,1.0,688.0,Celta-Vigo
+,Ander Murillo,es ESP,DF,23,18,2.0,0.0,2010-2011,878aa987,Celta-Vigo,"1,626",18.1,9.0,1.0,40.0,1.0,736.0,Celta-Vigo
+,Iago Aspas,es ESP,"FW,MF",28,9,0.0,4.0,2010-2011,7dcf86f6,Celta-Vigo,"1,108",12.3,2.0,1.0,40.0,1.0,737.0,Celta-Vigo
+,Sergio Ortega,es ESP,DF,13,9,0.0,0.0,2010-2011,5e498ef7,Celta-Vigo,877,9.7,3.0,0.0,40.0,1.0,731.0,Celta-Vigo
+,Dani Abalo,es ESP,"FW,MF",33,8,1.0,3.0,2010-2011,d1b04adb,Celta-Vigo,"1,025",11.4,2.0,0.0,40.0,1.0,681.0,Celta-Vigo
+,Yoel,es ESP,GK,10,8,0.0,0.0,2010-2011,61bb7498,Celta-Vigo,795,8.8,2.0,0.0,40.0,1.0,727.0,Celta-Vigo
+,Andrés Túñez,ve VEN,DF,7,6,0.0,1.0,2010-2011,6520cb34,Celta-Vigo,561,6.2,1.0,0.0,40.0,53.0,723.0,Celta-Vigo
+,Joan Tomàs,es ESP,"FW,MF",26,4,3.0,5.0,2010-2011,9ada6f1d,Celta-Vigo,699,7.8,3.0,0.0,40.0,1.0,738.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,4,4,0.0,0.0,2010-2011,df441c0d,Celta-Vigo,294,3.3,0.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Víctor Vázquez,es ESP,DF,4,3,0.0,0.0,2010-2011,936adff,Celta-Vigo,295,3.3,1.0,0.0,40.0,1.0,734.0,Celta-Vigo
+,Dimitris Papadopoulos,gr GRE,FW,11,2,0.0,0.0,2010-2011,63c519e1,Celta-Vigo,282,3.1,0.0,0.0,40.0,55.0,724.0,Celta-Vigo
+,Jota,es ESP,MF,4,1,1.0,0.0,2010-2011,9f351459,Celta-Vigo,145,1.6,2.0,0.0,40.0,1.0,739.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,1,1,0.0,0.0,2010-2011,8875b8c9,Celta-Vigo,90,1.0,0.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Víctor Fernández,es ESP,DF,1,1,0.0,0.0,2010-2011,67624c5,Celta-Vigo,90,1.0,1.0,0.0,40.0,1.0,741.0,Celta-Vigo
+,David Soto Sánchez,es ESP,DF,1,1,0.0,0.0,2010-2011,7460beb4,Celta-Vigo,45,0.5,0.0,0.0,40.0,1.0,742.0,Celta-Vigo
+,Mateo Míguez Adán,es ESP,FW,2,0,0.0,0.0,2010-2011,772a670,Celta-Vigo,44,0.5,1.0,1.0,40.0,1.0,733.0,Celta-Vigo
+,Ikechi Anya,sct SCO,"FW,MF",1,0,0.0,0.0,2010-2011,c55e973d,Celta-Vigo,8,0.1,0.0,0.0,40.0,67.0,743.0,Celta-Vigo
+,﻿Álex López,es ESP,MF,36,36,1.0,6.0,2011-2012,30b44896,Celta-Vigo,"3,025",33.6,10.0,0.0,40.0,1.0,732.0,Celta-Vigo
+,Roberto Lago,es ESP,"DF,MF",35,35,0.0,1.0,2011-2012,98e0ad35,Celta-Vigo,"3,052",33.9,5.0,0.0,40.0,1.0,682.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,34,34,1.0,0.0,2011-2012,cb574619,Celta-Vigo,"2,970",33.0,9.0,1.0,40.0,1.0,721.0,Celta-Vigo
+,Enrique de Lucas,es ESP,"FW,MF",37,34,11.0,9.0,2011-2012,61cc61,Celta-Vigo,"2,770",30.8,10.0,0.0,40.0,1.0,735.0,Celta-Vigo
+,Oier Sanjurjo,es ESP,"DF,MF",33,33,0.0,0.0,2011-2012,466824fb,Celta-Vigo,"2,938",32.6,5.0,0.0,40.0,1.0,744.0,Celta-Vigo
+,Fabián Orellana,cl CHI,"FW,MF",37,31,13.0,13.0,2011-2012,c90977db,Celta-Vigo,"2,720",30.2,7.0,0.0,40.0,31.0,745.0,Celta-Vigo
+,Mario Bermejo,es ESP,FW,35,30,3.0,8.0,2011-2012,c8dcfee8,Celta-Vigo,"2,135",23.7,4.0,0.0,40.0,1.0,746.0,Celta-Vigo
+,Andrés Túñez,ve VEN,DF,29,29,0.0,1.0,2011-2012,6520cb34,Celta-Vigo,"2,610",29.0,4.0,0.0,40.0,53.0,723.0,Celta-Vigo
+,Iago Aspas,es ESP,"FW,MF",35,28,7.0,23.0,2011-2012,7dcf86f6,Celta-Vigo,"2,317",25.7,7.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Yoel,es ESP,GK,25,24,0.0,0.0,2011-2012,61bb7498,Celta-Vigo,"2,190",24.3,1.0,0.0,40.0,1.0,727.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,28,24,2.0,0.0,2011-2012,df441c0d,Celta-Vigo,"2,121",23.6,4.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Cristian Bustos,es ESP,MF,24,18,1.0,0.0,2011-2012,ccb6ae73,Celta-Vigo,"1,775",19.7,8.0,0.0,40.0,1.0,719.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,19,18,0.0,0.0,2011-2012,8875b8c9,Celta-Vigo,"1,591",17.7,0.0,1.0,40.0,1.0,740.0,Celta-Vigo
+,Natxo Insa,my MAS,MF,28,18,0.0,1.0,2011-2012,28ccefcd,Celta-Vigo,"1,562",17.4,7.0,0.0,40.0,68.0,747.0,Celta-Vigo
+,David Rodríguez,es ESP,FW,28,17,1.0,9.0,2011-2012,bae862bf,Celta-Vigo,"1,466",16.3,0.0,0.0,40.0,1.0,706.0,Celta-Vigo
+,David Català,es ESP,DF,18,15,2.0,2.0,2011-2012,d54971a,Celta-Vigo,"1,460",16.2,2.0,0.0,40.0,1.0,720.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",15,13,0.0,0.0,2011-2012,7c3a3425,Celta-Vigo,"1,185",13.2,4.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,Carlos Bellvís,es ESP,DF,21,10,1.0,0.0,2011-2012,fbe35ca3,Celta-Vigo,"1,050",11.7,5.0,0.0,40.0,1.0,748.0,Celta-Vigo
+,Toni Dovale,es ESP,"DF,MF",30,9,1.0,2.0,2011-2012,d4b9adcf,Celta-Vigo,"1,157",12.9,5.0,0.0,40.0,1.0,726.0,Celta-Vigo
+,Joan Tomàs,es ESP,"FW,MF",37,6,1.0,5.0,2011-2012,9ada6f1d,Celta-Vigo,"1,330",14.8,4.0,0.0,40.0,1.0,738.0,Celta-Vigo
+,Dani Abalo,es ESP,"FW,MF",4,0,0.0,0.0,2011-2012,d1b04adb,Celta-Vigo,71,0.8,0.0,0.0,40.0,1.0,681.0,Celta-Vigo
+,﻿Borja Oubiña,es ESP,MF,36,36,0.0,1.0,2012-2013,df441c0d,Celta-Vigo,"3,231",35.9,9.0,0.0,40.0,1.0,645.0,Celta-Vigo
+,Augusto Fernández,ar ARG,MF,36,36,5.0,6.0,2012-2013,78c40e94,Celta-Vigo,"2,855",31.7,9.0,1.0,40.0,5.0,749.0,Celta-Vigo
+,Javi Varas,es ESP,GK,35,35,0.0,0.0,2012-2013,6db3da37,Celta-Vigo,"3,103",34.5,4.0,0.0,40.0,1.0,750.0,Celta-Vigo
+,Iago Aspas,es ESP,"FW,MF",34,34,7.0,12.0,2012-2013,7dcf86f6,Celta-Vigo,"2,789",31.0,5.0,1.0,40.0,1.0,737.0,Celta-Vigo
+,Roberto Lago,es ESP,"DF,MF",34,32,3.0,0.0,2012-2013,98e0ad35,Celta-Vigo,"2,821",31.3,11.0,0.0,40.0,1.0,682.0,Celta-Vigo
+,Michael Krohn-Dehli,dk DEN,"FW,MF",34,32,6.0,1.0,2012-2013,1c8dc17d,Celta-Vigo,"2,812",31.2,7.0,0.0,40.0,7.0,,Celta-Vigo
+,Andrés Túñez,ve VEN,DF,30,30,0.0,0.0,2012-2013,6520cb34,Celta-Vigo,"2,700",30.0,5.0,0.0,40.0,53.0,723.0,Celta-Vigo
+,Álex López,es ESP,MF,33,30,1.0,2.0,2012-2013,30b44896,Celta-Vigo,"2,434",27.0,5.0,0.0,40.0,1.0,732.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,27,26,1.0,2.0,2012-2013,92b4a127,Celta-Vigo,"2,238",24.9,11.0,2.0,40.0,5.0,751.0,Celta-Vigo
+,Jonny Castro,es ESP,"DF,MF",19,19,0.0,0.0,2012-2013,28868f3,Celta-Vigo,"1,618",18.0,6.0,0.0,40.0,1.0,752.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,17,17,0.0,0.0,2012-2013,cb574619,Celta-Vigo,"1,530",17.0,3.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Mario Bermejo,es ESP,FW,33,16,0.0,5.0,2012-2013,c8dcfee8,Celta-Vigo,"1,618",18.0,4.0,0.0,40.0,1.0,746.0,Celta-Vigo
+,Natxo Insa,my MAS,MF,18,14,0.0,2.0,2012-2013,28ccefcd,Celta-Vigo,"1,136",12.6,6.0,0.0,40.0,68.0,747.0,Celta-Vigo
+,Vadim Demidov,no NOR,"DF,MF",12,12,0.0,0.0,2012-2013,59f3b22d,Celta-Vigo,"1,018",11.3,2.0,0.0,40.0,21.0,,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",14,10,0.0,0.0,2012-2013,7c3a3425,Celta-Vigo,"1,011",11.2,5.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,Carlos Bellvís,es ESP,DF,13,8,0.0,0.0,2012-2013,fbe35ca3,Celta-Vigo,821,9.1,1.0,0.0,40.0,1.0,748.0,Celta-Vigo
+,Park Chu-young,kr KOR,"FW,MF",21,8,1.0,3.0,2012-2013,d9fa272a,Celta-Vigo,744,8.3,3.0,0.0,40.0,30.0,753.0,Celta-Vigo
+,Fabián Orellana,cl CHI,"FW,MF",14,7,3.0,0.0,2012-2013,c90977db,Celta-Vigo,695,7.7,2.0,0.0,40.0,31.0,745.0,Celta-Vigo
+,Enrique de Lucas,es ESP,"FW,MF",24,6,0.0,3.0,2012-2013,61cc61,Celta-Vigo,738,8.2,1.0,0.0,40.0,1.0,735.0,Celta-Vigo
+,Danijel Pranjić,hr CRO,"DF,MF",10,4,0.0,0.0,2012-2013,38929ff9,Celta-Vigo,438,4.9,0.0,0.0,40.0,16.0,754.0,Celta-Vigo
+,Cristian Bustos,es ESP,MF,7,2,0.0,0.0,2012-2013,ccb6ae73,Celta-Vigo,218,2.4,1.0,0.0,40.0,1.0,719.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,2,2,0.0,0.0,2012-2013,8875b8c9,Celta-Vigo,180,2.0,0.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Lévy Madinda,ga GAB,MF,5,1,0.0,0.0,2012-2013,26e99f,Celta-Vigo,165,1.8,0.0,0.0,40.0,69.0,755.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,2,1,0.0,0.0,2012-2013,967f34d3,Celta-Vigo,137,1.5,0.0,0.0,40.0,1.0,756.0,Celta-Vigo
+,Toni Dovale,es ESP,"DF,MF",14,0,0.0,0.0,2012-2013,d4b9adcf,Celta-Vigo,270,3.0,2.0,0.0,40.0,1.0,726.0,Celta-Vigo
+,Joan Tomàs,es ESP,"FW,MF",4,0,0.0,0.0,2012-2013,9ada6f1d,Celta-Vigo,38,0.4,0.0,0.0,40.0,1.0,738.0,Celta-Vigo
+,Samuel Llorca,es ESP,DF,1,0,0.0,0.0,2012-2013,9c3d54f0,Celta-Vigo,37,0.4,0.0,0.0,40.0,1.0,757.0,Celta-Vigo
+,Santi Mina,es ESP,FW,1,0,0.0,0.0,2012-2013,0b90bb97,Celta-Vigo,32,0.4,0.0,0.0,40.0,1.0,758.0,Celta-Vigo
+,﻿Yoel,es ESP,GK,35,35,0.0,0.0,2013-2014,61bb7498,Celta-Vigo,"3,150",35.0,1.0,0.0,40.0,1.0,727.0,Celta-Vigo
+,Andreu Fontàs,es ESP,DF,35,35,0.0,0.0,2013-2014,0f138d5a,Celta-Vigo,"3,086",34.3,4.0,1.0,40.0,1.0,759.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,33,32,1.0,0.0,2013-2014,cb574619,Celta-Vigo,"2,835",31.5,9.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Augusto Fernández,ar ARG,MF,33,29,4.0,2.0,2013-2014,78c40e94,Celta-Vigo,"2,317",25.7,6.0,0.0,40.0,5.0,749.0,Celta-Vigo
+,Charles,br BRA,FW,30,29,3.0,12.0,2013-2014,c4b8bcf4,Celta-Vigo,"2,315",25.7,5.0,1.0,40.0,2.0,760.0,Celta-Vigo
+,Rafinha,br BRA,MF,32,27,5.0,4.0,2013-2014,0c2ac3cb,Celta-Vigo,"2,431",27.0,7.0,0.0,40.0,2.0,,Celta-Vigo
+,Nolito,es ESP,"FW,MF",35,24,2.0,14.0,2013-2014,b2d0ec1b,Celta-Vigo,"2,263",25.1,7.0,0.0,40.0,1.0,761.0,Celta-Vigo
+,Borja Oubiña,es ESP,MF,25,24,0.0,1.0,2013-2014,df441c0d,Celta-Vigo,"2,037",22.6,5.0,1.0,40.0,1.0,645.0,Celta-Vigo
+,Álex López,es ESP,MF,31,24,1.0,5.0,2013-2014,30b44896,Celta-Vigo,"1,987",22.1,6.0,0.0,40.0,1.0,732.0,Celta-Vigo
+,Jonny Castro,es ESP,"DF,MF",26,23,2.0,0.0,2013-2014,28868f3,Celta-Vigo,"2,169",24.1,4.0,0.0,40.0,1.0,752.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,23,23,0.0,1.0,2013-2014,92b4a127,Celta-Vigo,"1,950",21.7,8.0,0.0,40.0,5.0,751.0,Celta-Vigo
+,Fabián Orellana,cl CHI,"FW,MF",31,22,6.0,5.0,2013-2014,c90977db,Celta-Vigo,"2,002",22.2,4.0,0.0,40.0,31.0,745.0,Celta-Vigo
+,Michael Krohn-Dehli,dk DEN,"FW,MF",31,21,3.0,0.0,2013-2014,1c8dc17d,Celta-Vigo,"1,949",21.7,5.0,0.0,40.0,7.0,,Celta-Vigo
+,Jon Aurtenetxe,es ESP,DF,20,17,2.0,0.0,2013-2014,74b0e3ce,Celta-Vigo,"1,565",17.4,6.0,1.0,40.0,1.0,762.0,Celta-Vigo
+,David Costas,es ESP,DF,17,13,0.0,0.0,2013-2014,545e2f01,Celta-Vigo,"1,210",13.4,1.0,0.0,40.0,1.0,763.0,Celta-Vigo
+,Santi Mina,es ESP,FW,29,12,0.0,2.0,2013-2014,0b90bb97,Celta-Vigo,"1,237",13.7,1.0,0.0,40.0,1.0,758.0,Celta-Vigo
+,Toni Dovale,es ESP,"DF,MF",12,11,2.0,0.0,2013-2014,d4b9adcf,Celta-Vigo,994,11.0,1.0,0.0,40.0,1.0,726.0,Celta-Vigo
+,Lévy Madinda,ga GAB,MF,18,5,0.0,0.0,2013-2014,26e99f,Celta-Vigo,666,7.4,1.0,0.0,40.0,69.0,755.0,Celta-Vigo
+,Íñigo López,es ESP,DF,9,5,0.0,1.0,2013-2014,8c61ca86,Celta-Vigo,570,6.3,0.0,0.0,40.0,1.0,,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,3,3,0.0,0.0,2013-2014,8875b8c9,Celta-Vigo,270,3.0,0.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Mario Bermejo,es ESP,FW,13,2,0.0,0.0,2013-2014,c8dcfee8,Celta-Vigo,340,3.8,1.0,0.0,40.0,1.0,746.0,Celta-Vigo
+,David Rodríguez,es ESP,FW,5,1,1.0,0.0,2013-2014,bae862bf,Celta-Vigo,130,1.4,1.0,0.0,40.0,1.0,706.0,Celta-Vigo
+,Carlos Bellvís,es ESP,DF,1,1,0.0,0.0,2013-2014,fbe35ca3,Celta-Vigo,16,0.2,0.0,0.0,40.0,1.0,748.0,Celta-Vigo
+,David Goldar,es ESP,DF,1,0,0.0,0.0,2013-2014,56a787a6,Celta-Vigo,15,0.2,0.0,0.0,40.0,1.0,764.0,Celta-Vigo
+,Welliton,br BRA,FW,1,0,0.0,0.0,2013-2014,17082008,Celta-Vigo,5,0.1,0.0,0.0,40.0,2.0,765.0,Celta-Vigo
+,Jonathan Vila,es ESP,"DF,MF",1,0,0.0,0.0,2013-2014,7c3a3425,Celta-Vigo,2,0.0,0.0,0.0,40.0,1.0,678.0,Celta-Vigo
+,﻿Sergio Álvarez,es ESP,GK,38,38,0.0,0.0,2014-2015,8875b8c9,Celta-Vigo,"3,350",37.2,1.0,1.0,40.0,1.0,740.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,35,35,0.0,1.0,2014-2015,92b4a127,Celta-Vigo,"3,078",34.2,9.0,1.0,40.0,5.0,751.0,Celta-Vigo
+,Michael Krohn-Dehli,dk DEN,"FW,MF",36,35,4.0,1.0,2014-2015,1c8dc17d,Celta-Vigo,"3,077",34.2,7.0,0.0,40.0,7.0,,Celta-Vigo
+,Fabián Orellana,cl CHI,"FW,MF",35,34,6.0,5.0,2014-2015,c90977db,Celta-Vigo,"2,953",32.8,13.0,1.0,40.0,31.0,745.0,Celta-Vigo
+,Andreu Fontàs,es ESP,DF,34,33,0.0,0.0,2014-2015,0f138d5a,Celta-Vigo,"2,985",33.2,8.0,1.0,40.0,1.0,759.0,Celta-Vigo
+,Jonny Castro,es ESP,"DF,MF",36,32,1.0,0.0,2014-2015,28868f3,Celta-Vigo,"2,970",33.0,9.0,0.0,40.0,1.0,752.0,Celta-Vigo
+,Nolito,es ESP,"FW,MF",36,32,13.0,13.0,2014-2015,b2d0ec1b,Celta-Vigo,"2,966",33.0,11.0,0.0,40.0,1.0,761.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,28,27,0.0,1.0,2014-2015,cb574619,Celta-Vigo,"2,330",25.9,6.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Joaquín Larrivey,ar ARG,FW,35,26,2.0,11.0,2014-2015,7ae94e67,Celta-Vigo,"2,196",24.4,5.0,0.0,40.0,5.0,766.0,Celta-Vigo
+,Augusto Fernández,ar ARG,MF,30,24,0.0,1.0,2014-2015,78c40e94,Celta-Vigo,"2,114",23.5,10.0,0.0,40.0,5.0,749.0,Celta-Vigo
+,Nemanja Radoja,rs SRB,"DF,MF",28,23,0.0,0.0,2014-2015,b5dd3469,Celta-Vigo,"2,005",22.3,5.0,0.0,40.0,28.0,767.0,Celta-Vigo
+,Pablo Hernández,cl CHI,"FW,MF",29,15,1.0,2.0,2014-2015,6c2f5996,Celta-Vigo,"1,349",15.0,5.0,0.0,40.0,31.0,768.0,Celta-Vigo
+,Sergi Gómez,es ESP,DF,22,14,0.0,0.0,2014-2015,bc6f5f06,Celta-Vigo,"1,286",14.3,5.0,0.0,40.0,1.0,769.0,Celta-Vigo
+,Santi Mina,es ESP,FW,20,14,1.0,7.0,2014-2015,0b90bb97,Celta-Vigo,"1,148",12.8,6.0,0.0,40.0,1.0,758.0,Celta-Vigo
+,Álex López,es ESP,MF,25,12,0.0,1.0,2014-2015,30b44896,Celta-Vigo,"1,121",12.5,5.0,0.0,40.0,1.0,732.0,Celta-Vigo
+,Charles,br BRA,FW,28,12,3.0,3.0,2014-2015,c4b8bcf4,Celta-Vigo,"1,117",12.4,6.0,0.0,40.0,2.0,760.0,Celta-Vigo
+,Carles Planas,es ESP,DF,11,10,1.0,0.0,2014-2015,72b92c4e,Celta-Vigo,817,9.1,3.0,1.0,40.0,1.0,770.0,Celta-Vigo
+,Borja Fernández,es ESP,MF,6,1,0.0,0.0,2014-2015,3ebe8651,Celta-Vigo,202,2.2,1.0,0.0,40.0,1.0,771.0,Celta-Vigo
+,David Costas,es ESP,DF,1,1,0.0,0.0,2014-2015,545e2f01,Celta-Vigo,90,1.0,1.0,0.0,40.0,1.0,763.0,Celta-Vigo
+,Theo Bongonda,cd COD,"FW,MF",8,0,1.0,1.0,2014-2015,0da6a13e,Celta-Vigo,140,1.6,0.0,0.0,40.0,50.0,772.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,1,0,0.0,0.0,2014-2015,967f34d3,Celta-Vigo,70,0.8,0.0,0.0,40.0,1.0,756.0,Celta-Vigo
+,Lévy Madinda,ga GAB,MF,5,0,0.0,0.0,2014-2015,26e99f,Celta-Vigo,61,0.7,1.0,0.0,40.0,69.0,755.0,Celta-Vigo
+,Borja Iglesias,es ESP,FW,1,0,0.0,0.0,2014-2015,75645f0e,Celta-Vigo,13,0.1,0.0,0.0,40.0,1.0,773.0,Celta-Vigo
+,Diego Alende,es ESP,DF,0,0,,,2014-2015,9af88279,Celta-Vigo,,,,,40.0,1.0,774.0,Celta-Vigo
+,Samu Araújo,es ESP,DF,0,0,,,2014-2015,89b1919,Celta-Vigo,,,,,40.0,1.0,775.0,Celta-Vigo
+,Pape Cheikh Diop,sn SEN,MF,0,0,,,2014-2015,873ce3a2,Celta-Vigo,,,,,40.0,34.0,776.0,Celta-Vigo
+,Kevin Vázquez,es ESP,DF,0,0,,,2014-2015,923664,Celta-Vigo,,,,,40.0,1.0,777.0,Celta-Vigo
+,﻿Jonny Castro,es ESP,DF,36,34,4.0,1.0,2015-2016,28868f3,Celta-Vigo,"2,956",32.8,10.0,2.0,40.0,1.0,752.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,34,33,4.0,1.0,2015-2016,cb574619,Celta-Vigo,"2,942",32.7,8.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Fabián Orellana,cl CHI,"MF,FW",33,33,6.0,7.0,2015-2016,c90977db,Celta-Vigo,"2,910",32.3,11.0,1.0,40.0,31.0,745.0,Celta-Vigo
+,Daniel Wass,dk DEN,MF,36,31,5.0,2.0,2015-2016,d83bbc54,Celta-Vigo,"2,693",29.9,3.0,0.0,40.0,7.0,778.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,31,31,0.0,0.0,2015-2016,92b4a127,Celta-Vigo,"2,672",29.7,13.0,3.0,40.0,5.0,751.0,Celta-Vigo
+,Iago Aspas,es ESP,"FW,MF",35,31,3.0,13.0,2015-2016,7dcf86f6,Celta-Vigo,"2,654",29.5,8.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,31,30,0.0,0.0,2015-2016,8875b8c9,Celta-Vigo,"2,726",30.3,0.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Sergi Gómez,es ESP,DF,31,29,1.0,0.0,2015-2016,bc6f5f06,Celta-Vigo,"2,617",29.1,6.0,0.0,40.0,1.0,769.0,Celta-Vigo
+,Pablo Hernández,cl CHI,MF,33,28,4.0,2.0,2015-2016,6c2f5996,Celta-Vigo,"2,304",25.6,15.0,1.0,40.0,31.0,768.0,Celta-Vigo
+,Nolito,es ESP,"MF,FW",29,27,6.0,12.0,2015-2016,b2d0ec1b,Celta-Vigo,"2,470",27.4,9.0,0.0,40.0,1.0,761.0,Celta-Vigo
+,Carles Planas,es ESP,DF,26,18,2.0,0.0,2015-2016,72b92c4e,Celta-Vigo,"1,683",18.7,4.0,0.0,40.0,1.0,770.0,Celta-Vigo
+,Nemanja Radoja,rs SRB,MF,30,15,1.0,0.0,2015-2016,b5dd3469,Celta-Vigo,"1,458",16.2,5.0,0.0,40.0,28.0,767.0,Celta-Vigo
+,Augusto Fernández,ar ARG,MF,15,15,1.0,1.0,2015-2016,78c40e94,Celta-Vigo,"1,337",14.9,6.0,0.0,40.0,5.0,749.0,Celta-Vigo
+,Theo Bongonda,cd COD,"MF,FW",23,14,1.0,2.0,2015-2016,0da6a13e,Celta-Vigo,"1,193",13.3,5.0,0.0,40.0,50.0,772.0,Celta-Vigo
+,John Guidetti,se SWE,FW,35,12,1.0,7.0,2015-2016,99bebd12,Celta-Vigo,"1,246",13.8,2.0,0.0,40.0,41.0,779.0,Celta-Vigo
+,Marcelo Díaz,cl CHI,MF,14,10,1.0,0.0,2015-2016,955b2e8a,Celta-Vigo,985,10.9,3.0,0.0,40.0,31.0,780.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,8,8,0.0,0.0,2015-2016,967f34d3,Celta-Vigo,688,7.6,1.0,1.0,40.0,1.0,756.0,Celta-Vigo
+,Andreu Fontàs,es ESP,DF,7,6,0.0,1.0,2015-2016,0f138d5a,Celta-Vigo,540,6.0,1.0,0.0,40.0,1.0,759.0,Celta-Vigo
+,Claudio Beauvue,gp GLP,"MF,FW",10,6,0.0,1.0,2015-2016,8ca253a3,Celta-Vigo,506,5.6,2.0,0.0,40.0,56.0,,Celta-Vigo
+,Josep Señé,es ESP,"MF,FW",8,4,1.0,0.0,2015-2016,8fc259d7,Celta-Vigo,385,4.3,1.0,0.0,40.0,1.0,781.0,Celta-Vigo
+,Borja Fernández,es ESP,MF,4,1,0.0,0.0,2015-2016,3ebe8651,Celta-Vigo,133,1.5,0.0,0.0,40.0,1.0,771.0,Celta-Vigo
+,Dejan Dražić,rs SRB,MF,6,1,0.0,0.0,2015-2016,9457fb9,Celta-Vigo,105,1.2,1.0,0.0,40.0,28.0,782.0,Celta-Vigo
+,David Goldar,es ESP,DF,1,1,0.0,0.0,2015-2016,56a787a6,Celta-Vigo,90,1.0,1.0,0.0,40.0,1.0,764.0,Celta-Vigo
+,Pape Cheikh Diop,sn SEN,MF,6,0,0.0,0.0,2015-2016,873ce3a2,Celta-Vigo,64,0.7,0.0,0.0,40.0,34.0,776.0,Celta-Vigo
+,Diego Alende,es ESP,DF,1,0,0.0,0.0,2015-2016,9af88279,Celta-Vigo,40,0.4,0.0,0.0,40.0,1.0,774.0,Celta-Vigo
+,Néstor Díaz,es ESP,GK,1,0,0.0,0.0,2015-2016,6a3a6617,Celta-Vigo,5,0.1,0.0,0.0,40.0,1.0,783.0,Celta-Vigo
+,Lévy Madinda,ga GAB,MF,1,0,0.0,0.0,2015-2016,26e99f,Celta-Vigo,1,0.0,0.0,0.0,40.0,69.0,755.0,Celta-Vigo
+,Borja Iglesias,es ESP,FW,0,0,,,2015-2016,75645f0e,Celta-Vigo,,,,,40.0,1.0,773.0,Celta-Vigo
+,﻿Facundo Roncaglia,ar ARG,DF,32,30,0.0,2.0,2016-2017,51e3954c,Celta-Vigo,"2,715",30.2,8.0,1.0,40.0,5.0,784.0,Celta-Vigo
+,Daniel Wass,dk DEN,MF,32,29,4.0,3.0,2016-2017,d83bbc54,Celta-Vigo,"2,380",26.4,4.0,0.0,40.0,7.0,778.0,Celta-Vigo
+,Nemanja Radoja,rs SRB,MF,31,27,0.0,1.0,2016-2017,b5dd3469,Celta-Vigo,"2,417",26.9,3.0,0.0,40.0,28.0,767.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,26,26,1.0,0.0,2016-2017,8875b8c9,Celta-Vigo,"2,340",26.0,0.0,1.0,40.0,1.0,740.0,Celta-Vigo
+,Theo Bongonda,cd COD,"MF,FW",30,26,3.0,1.0,2016-2017,0da6a13e,Celta-Vigo,"2,160",24.0,3.0,0.0,40.0,50.0,772.0,Celta-Vigo
+,Iago Aspas,es ESP,"FW,MF",32,25,3.0,19.0,2016-2017,7dcf86f6,Celta-Vigo,"2,315",25.7,9.0,1.0,40.0,1.0,737.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,25,25,1.0,2.0,2016-2017,92b4a127,Celta-Vigo,"2,177",24.2,6.0,0.0,40.0,5.0,751.0,Celta-Vigo
+,Jonny Castro,es ESP,DF,30,23,3.0,0.0,2016-2017,28868f3,Celta-Vigo,"2,213",24.6,8.0,0.0,40.0,1.0,752.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,23,22,1.0,2.0,2016-2017,cb574619,Celta-Vigo,"1,988",22.1,10.0,1.0,40.0,1.0,721.0,Celta-Vigo
+,Sergi Gómez,es ESP,DF,25,21,0.0,0.0,2016-2017,bc6f5f06,Celta-Vigo,"1,904",21.2,4.0,2.0,40.0,1.0,769.0,Celta-Vigo
+,Pablo Hernández,cl CHI,MF,26,20,0.0,1.0,2016-2017,6c2f5996,Celta-Vigo,"1,901",21.1,10.0,1.0,40.0,31.0,768.0,Celta-Vigo
+,Pione Sisto,dk DEN,"MF,FW",30,19,3.0,3.0,2016-2017,fd9c4805,Celta-Vigo,"1,667",18.5,1.0,0.0,40.0,7.0,785.0,Celta-Vigo
+,Marcelo Díaz,cl CHI,MF,26,17,2.0,1.0,2016-2017,955b2e8a,Celta-Vigo,"1,648",18.3,5.0,0.0,40.0,31.0,780.0,Celta-Vigo
+,Andreu Fontàs,es ESP,DF,17,17,1.0,1.0,2016-2017,0f138d5a,Celta-Vigo,"1,460",16.2,7.0,1.0,40.0,1.0,759.0,Celta-Vigo
+,John Guidetti,se SWE,FW,23,14,1.0,4.0,2016-2017,99bebd12,Celta-Vigo,"1,065",11.8,9.0,0.0,40.0,41.0,779.0,Celta-Vigo
+,Jozabed,es ESP,MF,19,12,2.0,2.0,2016-2017,9b337c7c,Celta-Vigo,"1,092",12.1,2.0,0.0,40.0,1.0,786.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,11,11,0.0,0.0,2016-2017,967f34d3,Celta-Vigo,990,11.0,2.0,0.0,40.0,1.0,756.0,Celta-Vigo
+,Carles Planas,es ESP,DF,12,11,0.0,0.0,2016-2017,72b92c4e,Celta-Vigo,946,10.5,3.0,0.0,40.0,1.0,770.0,Celta-Vigo
+,Giuseppe Rossi,it ITA,FW,18,9,1.0,4.0,2016-2017,fe48a073,Celta-Vigo,795,8.8,1.0,0.0,40.0,9.0,787.0,Celta-Vigo
+,Josep Señé,es ESP,"MF,FW",13,8,2.0,0.0,2016-2017,8fc259d7,Celta-Vigo,663,7.4,1.0,0.0,40.0,1.0,781.0,Celta-Vigo
+,Fabián Orellana,cl CHI,"MF,FW",7,6,2.0,2.0,2016-2017,c90977db,Celta-Vigo,522,5.8,2.0,0.0,40.0,31.0,745.0,Celta-Vigo
+,Claudio Beauvue,gp GLP,FW,13,5,2.0,1.0,2016-2017,8ca253a3,Celta-Vigo,658,7.3,1.0,0.0,40.0,56.0,,Celta-Vigo
+,Pape Cheikh Diop,sn SEN,"MF,FW",16,5,0.0,1.0,2016-2017,873ce3a2,Celta-Vigo,571,6.3,3.0,0.0,40.0,34.0,776.0,Celta-Vigo
+,Álvaro Lemos,es ESP,"DF,MF",5,5,0.0,1.0,2016-2017,31d45cc8,Celta-Vigo,438,4.9,2.0,0.0,40.0,1.0,788.0,Celta-Vigo
+,Andrew Hjulsager,dk DEN,MF,7,3,0.0,1.0,2016-2017,2ef16f06,Celta-Vigo,260,2.9,0.0,0.0,40.0,7.0,789.0,Celta-Vigo
+,David Costas,es ESP,DF,1,1,1.0,0.0,2016-2017,545e2f01,Celta-Vigo,90,1.0,1.0,0.0,40.0,1.0,763.0,Celta-Vigo
+,Iván Villar,es ESP,GK,1,1,0.0,0.0,2016-2017,cde52ef5,Celta-Vigo,90,1.0,0.0,0.0,40.0,1.0,790.0,Celta-Vigo
+,Naranjo,es ESP,"FW,MF",0,0,,,2016-2017,2a70c756,Celta-Vigo,,,,,40.0,1.0,791.0,Celta-Vigo
+,﻿Jonny Castro,es ESP,DF,36,36,1.0,2.0,2017-2018,28868f3,Celta-Vigo,"3,202",35.6,10.0,0.0,40.0,1.0,752.0,Celta-Vigo
+,Maxi Gómez,uy URU,FW,36,35,4.0,17.0,2017-2018,4c2e9442,Celta-Vigo,"3,068",34.1,12.0,0.0,40.0,8.0,792.0,Celta-Vigo
+,Stanislav Lobotka,sk SVK,MF,38,34,0.0,0.0,2017-2018,1cbb531,Celta-Vigo,"3,061",34.0,2.0,0.0,40.0,70.0,793.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,34,34,5.0,0.0,2017-2018,cb574619,Celta-Vigo,"2,999",33.3,12.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Daniel Wass,dk DEN,"MF,DF",35,34,8.0,4.0,2017-2018,d83bbc54,Celta-Vigo,"2,932",32.6,3.0,0.0,40.0,7.0,778.0,Celta-Vigo
+,Iago Aspas,es ESP,FW,34,33,5.0,22.0,2017-2018,7dcf86f6,Celta-Vigo,"2,936",32.6,9.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Sergi Gómez,es ESP,DF,33,31,0.0,1.0,2017-2018,bc6f5f06,Celta-Vigo,"2,680",29.8,3.0,0.0,40.0,1.0,769.0,Celta-Vigo
+,Pione Sisto,dk DEN,"FW,MF",34,31,10.0,5.0,2017-2018,fd9c4805,Celta-Vigo,"2,517",28.0,2.0,0.0,40.0,7.0,785.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,22,22,0.0,0.0,2017-2018,967f34d3,Celta-Vigo,"1,941",21.6,3.0,1.0,40.0,1.0,756.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,26,20,1.0,1.0,2017-2018,92b4a127,Celta-Vigo,"1,891",21.0,5.0,0.0,40.0,5.0,751.0,Celta-Vigo
+,Pablo Hernández,cl CHI,MF,30,18,2.0,3.0,2017-2018,6c2f5996,Celta-Vigo,"1,819",20.2,4.0,0.0,40.0,31.0,768.0,Celta-Vigo
+,Jozabed,es ESP,MF,24,18,4.0,0.0,2017-2018,9b337c7c,Celta-Vigo,"1,473",16.4,7.0,0.0,40.0,1.0,786.0,Celta-Vigo
+,Facundo Roncaglia,ar ARG,DF,21,17,0.0,0.0,2017-2018,51e3954c,Celta-Vigo,"1,492",16.6,2.0,0.0,40.0,5.0,784.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,17,16,0.0,0.0,2017-2018,8875b8c9,Celta-Vigo,"1,476",16.4,0.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Brais Méndez,es ESP,"MF,FW",20,12,1.0,1.0,2017-2018,c9e39d91,Celta-Vigo,948,10.5,0.0,0.0,40.0,1.0,794.0,Celta-Vigo
+,Nemanja Radoja,rs SRB,MF,26,11,1.0,0.0,2017-2018,b5dd3469,Celta-Vigo,"1,105",12.3,3.0,0.0,40.0,28.0,767.0,Celta-Vigo
+,Andreu Fontàs,es ESP,DF,12,9,1.0,0.0,2017-2018,0f138d5a,Celta-Vigo,885,9.8,2.0,0.0,40.0,1.0,759.0,Celta-Vigo
+,Emre Mor,tr TUR,"FW,MF",23,4,2.0,1.0,2017-2018,0c3f7197,Celta-Vigo,665,7.4,4.0,0.0,40.0,15.0,795.0,Celta-Vigo
+,Lucas Boyé,ar ARG,"FW,MF",13,2,0.0,0.0,2017-2018,d49f3e6b,Celta-Vigo,276,3.1,2.0,0.0,40.0,5.0,,Celta-Vigo
+,Róbert Mazáň,sk SVK,DF,2,1,0.0,0.0,2017-2018,30672832,Celta-Vigo,81,0.9,0.0,0.0,40.0,70.0,796.0,Celta-Vigo
+,John Guidetti,se SWE,"FW,MF",8,0,0.0,0.0,2017-2018,99bebd12,Celta-Vigo,115,1.3,0.0,0.0,40.0,41.0,779.0,Celta-Vigo
+,Andrew Hjulsager,dk DEN,"DF,MF",2,0,0.0,0.0,2017-2018,2ef16f06,Celta-Vigo,14,0.2,0.0,0.0,40.0,7.0,789.0,Celta-Vigo
+,Daniel Molina Orta,es ESP,MF,1,0,0.0,0.0,2017-2018,102fda08,Celta-Vigo,5,0.1,0.0,0.0,40.0,1.0,797.0,Celta-Vigo
+,Diego Alende,es ESP,DF,0,0,,,2017-2018,9af88279,Celta-Vigo,,,,,40.0,1.0,774.0,Celta-Vigo
+,Francisco Barbosa,es ESP,GK,0,0,,,2017-2018,2ae958ab,Celta-Vigo,,,,,40.0,1.0,798.0,Celta-Vigo
+,Claudio Beauvue,gp GLP,"FW,MF",0,0,,,2017-2018,8ca253a3,Celta-Vigo,,,,,40.0,56.0,,Celta-Vigo
+,Dejan Dražić,rs SRB,MF,0,0,,,2017-2018,9457fb9,Celta-Vigo,,,,,40.0,28.0,782.0,Celta-Vigo
+,Dennis Eckert,de GER,FW,0,0,,,2017-2018,7f8fb807,Celta-Vigo,,,,,40.0,13.0,799.0,Celta-Vigo
+,Diego Pampín,es ESP,DF,0,0,,,2017-2018,c748a0b2,Celta-Vigo,,,,,40.0,1.0,800.0,Celta-Vigo
+,Víctor Pastrana,es ESP,MF,0,0,,,2017-2018,c5b93003,Celta-Vigo,,,,,40.0,1.0,801.0,Celta-Vigo
+,Daniel Sotres,es ESP,GK,0,0,,,2017-2018,0a02a8fa,Celta-Vigo,,,,,40.0,1.0,802.0,Celta-Vigo
+,Iván Villar,es ESP,GK,0,0,,,2017-2018,cde52ef5,Celta-Vigo,,,,,40.0,1.0,790.0,Celta-Vigo
+,﻿Hugo Mallo,es ESP,DF,35,35,4.0,1.0,2018-2019,cb574619,Celta-Vigo,"3,092",34.4,11.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Maxi Gómez,uy URU,FW,35,33,5.0,13.0,2018-2019,4c2e9442,Celta-Vigo,"2,960",32.9,6.0,1.0,40.0,8.0,792.0,Celta-Vigo
+,Néstor Araujo,mx MEX,DF,32,30,0.0,3.0,2018-2019,27a013f7,Celta-Vigo,"2,682",29.8,3.0,1.0,40.0,20.0,803.0,Celta-Vigo
+,Stanislav Lobotka,sk SVK,MF,31,27,1.0,0.0,2018-2019,1cbb531,Celta-Vigo,"2,489",27.7,1.0,0.0,40.0,70.0,793.0,Celta-Vigo
+,Brais Méndez,es ESP,MF,31,27,7.0,6.0,2018-2019,c9e39d91,Celta-Vigo,"2,349",26.1,5.0,0.0,40.0,1.0,794.0,Celta-Vigo
+,Iago Aspas,es ESP,"FW,MF",27,26,6.0,20.0,2018-2019,7dcf86f6,Celta-Vigo,"2,251",25.0,5.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Okay Yokuşlu,tr TUR,MF,30,26,0.0,2.0,2018-2019,49ce451,Celta-Vigo,"2,198",24.4,10.0,0.0,40.0,15.0,804.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,25,25,0.0,0.0,2018-2019,967f34d3,Celta-Vigo,"2,250",25.0,2.0,0.0,40.0,1.0,756.0,Celta-Vigo
+,Sofiane Boufal,ma MAR,MF,35,25,3.0,3.0,2018-2019,b0c71810,Celta-Vigo,"2,085",23.2,6.0,0.0,40.0,26.0,805.0,Celta-Vigo
+,Gustavo Cabral,ar ARG,DF,24,21,0.0,0.0,2018-2019,92b4a127,Celta-Vigo,"1,897",21.1,6.0,2.0,40.0,5.0,751.0,Celta-Vigo
+,David Juncà,es ESP,DF,21,21,3.0,0.0,2018-2019,de7d40d6,Celta-Vigo,"1,754",19.5,6.0,0.0,40.0,1.0,806.0,Celta-Vigo
+,Fran Beltrán,es ESP,MF,30,16,0.0,1.0,2018-2019,d5c5fa3,Celta-Vigo,"1,517",16.9,3.0,0.0,40.0,1.0,807.0,Celta-Vigo
+,Jozabed,es ESP,MF,20,14,0.0,0.0,2018-2019,9b337c7c,Celta-Vigo,"1,155",12.8,1.0,0.0,40.0,1.0,786.0,Celta-Vigo
+,David Costas,es ESP,DF,15,13,0.0,0.0,2018-2019,545e2f01,Celta-Vigo,"1,173",13.0,4.0,0.0,40.0,1.0,763.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,13,13,0.0,0.0,2018-2019,8875b8c9,Celta-Vigo,"1,170",13.0,1.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Facundo Roncaglia,ar ARG,DF,12,12,0.0,0.0,2018-2019,51e3954c,Celta-Vigo,"1,070",11.9,3.0,0.0,40.0,5.0,784.0,Celta-Vigo
+,Lucas Olaza,uy URU,DF,10,10,2.0,0.0,2018-2019,4cee5954,Celta-Vigo,897,10.0,2.0,0.0,40.0,8.0,808.0,Celta-Vigo
+,Wesley Hoedt,nl NED,DF,10,9,0.0,0.0,2018-2019,875898c7,Celta-Vigo,893,9.9,3.0,1.0,40.0,11.0,809.0,Celta-Vigo
+,Pione Sisto,dk DEN,"MF,FW",25,8,1.0,2.0,2018-2019,fd9c4805,Celta-Vigo,844,9.4,0.0,0.0,40.0,7.0,785.0,Celta-Vigo
+,Ryad Boudebouz,dz ALG,MF,11,8,2.0,1.0,2018-2019,1001ae82,Celta-Vigo,717,8.0,2.0,1.0,40.0,37.0,810.0,Celta-Vigo
+,Júnior Alonso,py PAR,"DF,MF",9,6,0.0,0.0,2018-2019,b18a3023,Celta-Vigo,536,6.0,2.0,0.0,40.0,43.0,811.0,Celta-Vigo
+,Emre Mor,tr TUR,"MF,FW",10,4,0.0,0.0,2018-2019,0c3f7197,Celta-Vigo,369,4.1,1.0,0.0,40.0,15.0,795.0,Celta-Vigo
+,Mathias Jensen,dk DEN,MF,6,3,0.0,0.0,2018-2019,0f134faf,Celta-Vigo,235,2.6,0.0,0.0,40.0,7.0,812.0,Celta-Vigo
+,Andrew Hjulsager,dk DEN,MF,15,2,3.0,0.0,2018-2019,2ef16f06,Celta-Vigo,359,4.0,1.0,0.0,40.0,7.0,789.0,Celta-Vigo
+,Kevin Vázquez,es ESP,DF,4,2,0.0,0.0,2018-2019,923664,Celta-Vigo,220,2.4,0.0,0.0,40.0,1.0,777.0,Celta-Vigo
+,Dennis Eckert,de GER,"FW,MF",9,1,0.0,0.0,2018-2019,7f8fb807,Celta-Vigo,216,2.4,0.0,0.0,40.0,13.0,799.0,Celta-Vigo
+,Róbert Mazáň,sk SVK,DF,1,1,0.0,0.0,2018-2019,30672832,Celta-Vigo,90,1.0,0.0,0.0,40.0,70.0,796.0,Celta-Vigo
+,Emmanuel Apeh,ng NGA,"FW,MF",2,0,0.0,0.0,2018-2019,230ebcc,Celta-Vigo,14,0.2,0.0,0.0,40.0,52.0,813.0,Celta-Vigo
+,Iván Villar,es ESP,GK,0,0,,,2018-2019,cde52ef5,Celta-Vigo,,,,,40.0,1.0,790.0,Celta-Vigo
+,﻿Iago Aspas,es ESP,FW,37,37,3.0,14.0,2019-2020,7dcf86f6,Celta-Vigo,"3,262",36.2,9.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Lucas Olaza,uy URU,DF,35,35,3.0,1.0,2019-2020,4cee5954,Celta-Vigo,"3,144",34.9,5.0,0.0,40.0,8.0,808.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,33,33,0.0,0.0,2019-2020,967f34d3,Celta-Vigo,"2,960",32.9,4.0,0.0,40.0,1.0,756.0,Celta-Vigo
+,Néstor Araujo,mx MEX,DF,34,32,2.0,1.0,2019-2020,27a013f7,Celta-Vigo,"2,888",32.1,10.0,0.0,40.0,20.0,803.0,Celta-Vigo
+,Joseph Aidoo,gh GHA,DF,32,27,1.0,0.0,2019-2020,18abe173,Celta-Vigo,"2,502",27.8,4.0,0.0,40.0,17.0,814.0,Celta-Vigo
+,Rafinha,br BRA,MF,29,25,1.0,4.0,2019-2020,0c2ac3cb,Celta-Vigo,"2,111",23.5,5.0,0.0,40.0,2.0,,Celta-Vigo
+,Okay Yokuşlu,tr TUR,MF,26,24,2.0,0.0,2019-2020,49ce451,Celta-Vigo,"1,973",21.9,6.0,0.0,40.0,15.0,804.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,27,22,1.0,0.0,2019-2020,cb574619,Celta-Vigo,"1,965",21.8,7.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Fran Beltrán,es ESP,MF,28,22,0.0,1.0,2019-2020,d5c5fa3,Celta-Vigo,"1,830",20.3,2.0,1.0,40.0,1.0,807.0,Celta-Vigo
+,Santi Mina,es ESP,"FW,MF",34,21,3.0,6.0,2019-2020,0b90bb97,Celta-Vigo,"1,944",21.6,4.0,0.0,40.0,1.0,758.0,Celta-Vigo
+,Denis Suárez,es ESP,"MF,FW",26,20,5.0,1.0,2019-2020,12c50af5,Celta-Vigo,"1,630",18.1,2.0,0.0,40.0,1.0,815.0,Celta-Vigo
+,Jeison Murillo,co COL,DF,18,17,0.0,1.0,2019-2020,b233e8e4,Celta-Vigo,"1,529",17.0,5.0,0.0,40.0,19.0,816.0,Celta-Vigo
+,Stanislav Lobotka,sk SVK,MF,17,17,0.0,0.0,2019-2020,1cbb531,Celta-Vigo,"1,383",15.4,1.0,0.0,40.0,70.0,793.0,Celta-Vigo
+,Kevin Vázquez,es ESP,DF,17,16,0.0,0.0,2019-2020,923664,Celta-Vigo,"1,325",14.7,6.0,0.0,40.0,1.0,777.0,Celta-Vigo
+,Brais Méndez,es ESP,"MF,FW",31,15,2.0,0.0,2019-2020,c9e39d91,Celta-Vigo,"1,477",16.4,4.0,0.0,40.0,1.0,794.0,Celta-Vigo
+,Fyodor Smolov,ru RUS,FW,14,10,0.0,2.0,2019-2020,cbbfa2e7,Celta-Vigo,743,8.3,4.0,0.0,40.0,23.0,,Celta-Vigo
+,Pione Sisto,dk DEN,"MF,FW",21,8,0.0,2.0,2019-2020,fd9c4805,Celta-Vigo,891,9.9,2.0,0.0,40.0,7.0,785.0,Celta-Vigo
+,Filip Bradarić,hr CRO,MF,14,7,0.0,0.0,2019-2020,605873e1,Celta-Vigo,706,7.8,2.0,1.0,40.0,16.0,,Celta-Vigo
+,Pape Cheikh Diop,sn SEN,MF,16,6,1.0,0.0,2019-2020,873ce3a2,Celta-Vigo,599,6.7,5.0,1.0,40.0,34.0,776.0,Celta-Vigo
+,Gabriel Fernández,uy URU,"FW,MF",20,5,1.0,1.0,2019-2020,36c5f77b,Celta-Vigo,561,6.2,5.0,1.0,40.0,8.0,818.0,Celta-Vigo
+,Jorge Sáenz,es ESP,DF,7,5,0.0,0.0,2019-2020,bfca375c,Celta-Vigo,371,4.1,3.0,1.0,40.0,1.0,819.0,Celta-Vigo
+,David Costas,es ESP,DF,6,3,0.0,0.0,2019-2020,545e2f01,Celta-Vigo,338,3.8,1.0,0.0,40.0,1.0,763.0,Celta-Vigo
+,Iván Villar,es ESP,GK,4,3,0.0,0.0,2019-2020,cde52ef5,Celta-Vigo,280,3.1,0.0,0.0,40.0,1.0,790.0,Celta-Vigo
+,David Juncà,es ESP,DF,3,3,0.0,0.0,2019-2020,de7d40d6,Celta-Vigo,258,2.9,1.0,0.0,40.0,1.0,806.0,Celta-Vigo
+,Sergio Álvarez,es ESP,GK,2,2,0.0,0.0,2019-2020,8875b8c9,Celta-Vigo,180,2.0,3.0,0.0,40.0,1.0,740.0,Celta-Vigo
+,Nolito,es ESP,"MF,FW",7,1,1.0,2.0,2019-2020,b2d0ec1b,Celta-Vigo,324,3.6,3.0,1.0,40.0,1.0,761.0,Celta-Vigo
+,Juan Hernández,es ESP,"FW,MF",5,1,0.0,0.0,2019-2020,1fc3c3d7,Celta-Vigo,87,1.0,0.0,0.0,40.0,1.0,820.0,Celta-Vigo
+,Jacobo,es ESP,"DF,MF",2,1,0.0,0.0,2019-2020,09e81276,Celta-Vigo,83,0.9,1.0,0.0,40.0,1.0,821.0,Celta-Vigo
+,Losada,es ESP,"MF,FW",2,0,0.0,1.0,2019-2020,41521385,Celta-Vigo,13,0.1,0.0,0.0,40.0,1.0,822.0,Celta-Vigo
+,Sergio Bermejo,es ESP,MF,1,0,0.0,0.0,2019-2020,d166c007,Celta-Vigo,5,0.1,0.0,0.0,40.0,1.0,823.0,Celta-Vigo
+,Francisco Barbosa,es ESP,GK,0,0,,,2019-2020,2ae958ab,Celta-Vigo,,,,,40.0,1.0,798.0,Celta-Vigo
+,Sergio Carreira,es ESP,DF,0,0,,,2019-2020,8d6a9c93,Celta-Vigo,,,,,40.0,1.0,824.0,Celta-Vigo
+,Iago Domínguez,es ESP,GK,0,0,,,2019-2020,557fcc50,Celta-Vigo,,,,,40.0,1.0,825.0,Celta-Vigo
+,José Fontán,es ESP,DF,0,0,,,2019-2020,1827a42d,Celta-Vigo,,,,,40.0,1.0,826.0,Celta-Vigo
+,Dragan Rosić,rs SRB,GK,0,0,,,2019-2020,b614c059,Celta-Vigo,,,,,40.0,28.0,827.0,Celta-Vigo
+,﻿Nolito,es ESP,MF,36,35,5.0,7.0,2020-2021,b2d0ec1b,Celta-Vigo,"2,597",28.9,7.0,0.0,40.0,1.0,761.0,Celta-Vigo
+,Denis Suárez,es ESP,MF,35,34,9.0,0.0,2020-2021,12c50af5,Celta-Vigo,"2,852",31.7,10.0,0.0,40.0,1.0,815.0,Celta-Vigo
+,Iago Aspas,es ESP,FW,33,33,13.0,14.0,2020-2021,7dcf86f6,Celta-Vigo,"2,864",31.8,9.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Renato Tapia,pe PER,MF,32,32,1.0,0.0,2020-2021,34269bdf,Celta-Vigo,"2,701",30.0,11.0,0.0,40.0,57.0,828.0,Celta-Vigo
+,Jeison Murillo,co COL,DF,31,31,0.0,2.0,2020-2021,b233e8e4,Celta-Vigo,"2,699",30.0,11.0,1.0,40.0,19.0,816.0,Celta-Vigo
+,Brais Méndez,es ESP,"MF,FW",34,30,0.0,9.0,2020-2021,c9e39d91,Celta-Vigo,"2,671",29.7,8.0,0.0,40.0,1.0,794.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,31,30,1.0,3.0,2020-2021,cb574619,Celta-Vigo,"2,602",28.9,8.0,0.0,40.0,1.0,721.0,Celta-Vigo
+,Santi Mina,es ESP,FW,34,29,3.0,12.0,2020-2021,0b90bb97,Celta-Vigo,"2,412",26.8,4.0,0.0,40.0,1.0,758.0,Celta-Vigo
+,Néstor Araujo,mx MEX,DF,33,26,0.0,0.0,2020-2021,27a013f7,Celta-Vigo,"2,426",27.0,5.0,0.0,40.0,20.0,803.0,Celta-Vigo
+,Iván Villar,es ESP,GK,21,19,0.0,0.0,2020-2021,cde52ef5,Celta-Vigo,"1,781",19.8,1.0,0.0,40.0,1.0,790.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,19,19,0.0,0.0,2020-2021,967f34d3,Celta-Vigo,"1,637",18.2,0.0,1.0,40.0,1.0,756.0,Celta-Vigo
+,Lucas Olaza,uy URU,DF,18,18,2.0,0.0,2020-2021,4cee5954,Celta-Vigo,"1,615",17.9,4.0,0.0,40.0,8.0,808.0,Celta-Vigo
+,Aarón Martín,es ESP,DF,19,17,3.0,0.0,2020-2021,2f3e911a,Celta-Vigo,"1,540",17.1,1.0,0.0,40.0,1.0,829.0,Celta-Vigo
+,Joseph Aidoo,gh GHA,DF,25,14,0.0,0.0,2020-2021,18abe173,Celta-Vigo,"1,289",14.3,3.0,0.0,40.0,17.0,814.0,Celta-Vigo
+,Fran Beltrán,es ESP,"MF,FW",32,13,0.0,3.0,2020-2021,d5c5fa3,Celta-Vigo,"1,399",15.5,3.0,0.0,40.0,1.0,807.0,Celta-Vigo
+,José Fontán,es ESP,DF,14,7,0.0,0.0,2020-2021,1827a42d,Celta-Vigo,652,7.2,3.0,1.0,40.0,1.0,826.0,Celta-Vigo
+,Emre Mor,tr TUR,"FW,MF",11,6,0.0,0.0,2020-2021,0c3f7197,Celta-Vigo,500,5.6,2.0,0.0,40.0,15.0,795.0,Celta-Vigo
+,Kevin Vázquez,es ESP,DF,8,5,0.0,0.0,2020-2021,923664,Celta-Vigo,562,6.2,3.0,0.0,40.0,1.0,777.0,Celta-Vigo
+,Miguel Baeza,es ESP,"MF,FW",22,4,0.0,1.0,2020-2021,98f3cbf,Celta-Vigo,543,6.0,0.0,0.0,40.0,1.0,830.0,Celta-Vigo
+,Carlos Dominguez,es ESP,DF,4,4,0.0,0.0,2020-2021,3521abfe,Celta-Vigo,360,4.0,2.0,0.0,40.0,1.0,831.0,Celta-Vigo
+,Augusto Solari,ar ARG,MF,16,3,2.0,2.0,2020-2021,3ca6106c,Celta-Vigo,486,5.4,2.0,0.0,40.0,5.0,832.0,Celta-Vigo
+,Okay Yokuşlu,tr TUR,MF,12,3,0.0,0.0,2020-2021,49ce451,Celta-Vigo,462,5.1,4.0,1.0,40.0,15.0,804.0,Celta-Vigo
+,Sergio Carreira,es ESP,DF,3,3,0.0,1.0,2020-2021,8d6a9c93,Celta-Vigo,259,2.9,0.0,0.0,40.0,1.0,824.0,Celta-Vigo
+,Facundo Ferreyra,ar ARG,FW,13,2,0.0,1.0,2020-2021,b39a793e,Celta-Vigo,300,3.3,5.0,1.0,40.0,5.0,833.0,Celta-Vigo
+,Gabriel Veiga,es ESP,"MF,DF",6,1,0.0,0.0,2020-2021,35a6e5c7,Celta-Vigo,118,1.3,0.0,0.0,40.0,1.0,834.0,Celta-Vigo
+,Jordan Holsgrove,sct SCO,MF,5,0,0.0,0.0,2020-2021,8a6daac3,Celta-Vigo,145,1.6,0.0,0.0,40.0,67.0,835.0,Celta-Vigo
+,Alfon,es ESP,MF,2,0,0.0,0.0,2020-2021,1c772b46,Celta-Vigo,34,0.4,0.0,0.0,40.0,1.0,836.0,Celta-Vigo
+,Miguel Rodríguez,es ESP,"FW,MF",4,0,0.0,0.0,2020-2021,958d67bb,Celta-Vigo,30,0.3,2.0,0.0,40.0,1.0,837.0,Celta-Vigo
+,Lauti,uy URU,FW,1,0,0.0,0.0,2020-2021,f934c5c9,Celta-Vigo,14,0.2,0.0,0.0,40.0,8.0,838.0,Celta-Vigo
+,Hugo Sotelo,es ESP,MF,1,0,0.0,0.0,2020-2021,3aa74860,Celta-Vigo,1,0.0,0.0,0.0,40.0,1.0,839.0,Celta-Vigo
+,David Juncà,es ESP,DF,0,0,0.0,0.0,2020-2021,de7d40d6,Celta-Vigo,,0.0,1.0,0.0,40.0,1.0,806.0,Celta-Vigo
+,Gael Alonso,es ESP,DF,0,0,,,2020-2021,45b33119,Celta-Vigo,,,,,40.0,1.0,840.0,Celta-Vigo
+,Raúl Blanco,es ESP,MF,0,0,,,2020-2021,8f3cbe57,Celta-Vigo,,,,,40.0,1.0,841.0,Celta-Vigo
+,David Costas,es ESP,DF,0,0,,,2020-2021,545e2f01,Celta-Vigo,,,,,40.0,1.0,763.0,Celta-Vigo
+,Iago Domínguez,es ESP,GK,0,0,,,2020-2021,557fcc50,Celta-Vigo,,,,,40.0,1.0,825.0,Celta-Vigo
+,Álvaro Fernández,es ESP,GK,0,0,,,2020-2021,39a0b3f2,Celta-Vigo,,,,,40.0,1.0,842.0,Celta-Vigo
+,Diego Pampín,es ESP,DF,0,0,,,2020-2021,c748a0b2,Celta-Vigo,,,,,40.0,1.0,800.0,Celta-Vigo
+,Jorge Sáenz,es ESP,DF,0,0,,,2020-2021,bfca375c,Celta-Vigo,,,,,40.0,1.0,819.0,Celta-Vigo
+,Patrick Sequeira,cr CRC,GK,0,0,,,2020-2021,6f21e773,Celta-Vigo,,,,,40.0,22.0,843.0,Celta-Vigo
+,Álvaro Vadillo,es ESP,"FW,MF",0,0,,,2020-2021,61b62b33,Celta-Vigo,,,,,40.0,1.0,844.0,Celta-Vigo
+,﻿Matías Dituro,ar ARG,GK,38,38,0.0,0.0,2021-2022,b6160ad0,Celta-Vigo,"3,420",38.0,1.0,0.0,40.0,5.0,845.0,Celta-Vigo
+,Javi Galán,es ESP,DF,37,37,3.0,0.0,2021-2022,4b00319,Celta-Vigo,"3,298",36.6,8.0,0.0,40.0,1.0,846.0,Celta-Vigo
+,Iago Aspas,es ESP,FW,37,36,5.0,18.0,2021-2022,7dcf86f6,Celta-Vigo,"3,087",34.3,9.0,0.0,40.0,1.0,737.0,Celta-Vigo
+,Brais Méndez,es ESP,MF,37,36,5.0,4.0,2021-2022,c9e39d91,Celta-Vigo,"3,021",33.6,8.0,0.0,40.0,1.0,794.0,Celta-Vigo
+,Denis Suárez,es ESP,MF,38,33,6.0,4.0,2021-2022,12c50af5,Celta-Vigo,"2,819",31.3,4.0,0.0,40.0,1.0,815.0,Celta-Vigo
+,Fran Beltrán,es ESP,MF,37,31,0.0,1.0,2021-2022,d5c5fa3,Celta-Vigo,"2,597",28.9,4.0,0.0,40.0,1.0,807.0,Celta-Vigo
+,Joseph Aidoo,gh GHA,DF,32,30,0.0,0.0,2021-2022,18abe173,Celta-Vigo,"2,637",29.3,1.0,0.0,40.0,17.0,814.0,Celta-Vigo
+,Santi Mina,es ESP,FW,33,30,3.0,7.0,2021-2022,0b90bb97,Celta-Vigo,"2,367",26.3,4.0,0.0,40.0,1.0,758.0,Celta-Vigo
+,Néstor Araujo,mx MEX,DF,34,29,0.0,0.0,2021-2022,27a013f7,Celta-Vigo,"2,617",29.1,4.0,0.0,40.0,20.0,803.0,Celta-Vigo
+,Hugo Mallo,es ESP,DF,21,21,1.0,1.0,2021-2022,cb574619,Celta-Vigo,"1,826",20.3,5.0,2.0,40.0,1.0,721.0,Celta-Vigo
+,Franco Cervi,ar ARG,MF,33,21,3.0,4.0,2021-2022,5e1028e5,Celta-Vigo,"1,801",20.0,5.0,0.0,40.0,5.0,847.0,Celta-Vigo
+,Kevin Vázquez,es ESP,DF,17,16,1.0,0.0,2021-2022,923664,Celta-Vigo,"1,334",14.8,3.0,0.0,40.0,1.0,777.0,Celta-Vigo
+,Nolito,es ESP,MF,32,15,0.0,2.0,2021-2022,b2d0ec1b,Celta-Vigo,"1,384",15.4,2.0,0.0,40.0,1.0,761.0,Celta-Vigo
+,Renato Tapia,pe PER,MF,29,13,0.0,0.0,2021-2022,34269bdf,Celta-Vigo,"1,412",15.7,10.0,0.0,40.0,57.0,828.0,Celta-Vigo
+,Jeison Murillo,co COL,DF,19,12,0.0,0.0,2021-2022,b233e8e4,Celta-Vigo,"1,117",12.4,5.0,1.0,40.0,19.0,816.0,Celta-Vigo
+,Thiago Galhardo,br BRA,"FW,MF",31,9,2.0,2.0,2021-2022,766f48dd,Celta-Vigo,"1,148",12.8,5.0,0.0,40.0,2.0,848.0,Celta-Vigo
+,Augusto Solari,ar ARG,"MF,DF",26,4,0.0,0.0,2021-2022,3ca6106c,Celta-Vigo,714,7.9,5.0,0.0,40.0,5.0,832.0,Celta-Vigo
+,Carlos Dominguez,es ESP,DF,8,3,0.0,0.0,2021-2022,3521abfe,Celta-Vigo,344,3.8,1.0,0.0,40.0,1.0,831.0,Celta-Vigo
+,José Fontán,es ESP,DF,9,3,0.0,0.0,2021-2022,1827a42d,Celta-Vigo,276,3.1,3.0,0.0,40.0,1.0,826.0,Celta-Vigo
+,Okay Yokuşlu,tr TUR,"DF,MF",8,1,0.0,0.0,2021-2022,49ce451,Celta-Vigo,140,1.6,0.0,0.0,40.0,15.0,804.0,Celta-Vigo
+,Gabriel Veiga,es ESP,MF,7,0,0.0,0.0,2021-2022,35a6e5c7,Celta-Vigo,108,1.2,0.0,0.0,40.0,1.0,834.0,Celta-Vigo
+,Orbelín Pineda,mx MEX,"MF,FW",7,0,0.0,0.0,2021-2022,411fabd7,Celta-Vigo,99,1.1,0.0,0.0,40.0,20.0,849.0,Celta-Vigo
+,Hugo Álvarez,es ESP,FW,1,0,0.0,0.0,2021-2022,6f392eb8,Celta-Vigo,11,0.1,0.0,0.0,40.0,1.0,850.0,Celta-Vigo
+,Miguel Baeza,es ESP,DF,1,0,0.0,0.0,2021-2022,98f3cbf,Celta-Vigo,2,0.0,0.0,0.0,40.0,1.0,830.0,Celta-Vigo
+,Hugo Sotelo,es ESP,FW,1,0,0.0,0.0,2021-2022,3aa74860,Celta-Vigo,2,0.0,0.0,0.0,40.0,1.0,839.0,Celta-Vigo
+,Alfon,es ESP,FW,0,0,,,2021-2022,1c772b46,Celta-Vigo,,,,,40.0,1.0,836.0,Celta-Vigo
+,Rubén Blanco,es ESP,GK,0,0,,,2021-2022,967f34d3,Celta-Vigo,,,,,40.0,1.0,756.0,Celta-Vigo
+,Gaizka Campos Bahillo,es ESP,GK,0,0,,,2021-2022,54a9bc73,Celta-Vigo,,,,,40.0,1.0,851.0,Celta-Vigo
+,Coke Carrillo,es ESP,GK,0,0,,,2021-2022,4e9bcf57,Celta-Vigo,,,,,40.0,1.0,852.0,Celta-Vigo
+,Thomas Carrique,fr FRA,DF,0,0,,,2021-2022,23b6ab66,Celta-Vigo,,,,,40.0,4.0,,Celta-Vigo
+,Javier Castro,es ESP,DF,0,0,,,2021-2022,7e1a736b,Celta-Vigo,,,,,40.0,1.0,853.0,Celta-Vigo
+,César Fernández,es ESP,GK,0,0,,,2021-2022,4e9548a4,Celta-Vigo,,,,,40.0,1.0,854.0,Celta-Vigo
+,Fernando Medrano,es ESP,DF,0,0,,,2021-2022,d854c9d0,Celta-Vigo,,,,,40.0,1.0,855.0,Celta-Vigo
+,Damián Rodríguez,es ESP,MF,0,0,,,2021-2022,22371dee,Celta-Vigo,,,,,40.0,1.0,856.0,Celta-Vigo

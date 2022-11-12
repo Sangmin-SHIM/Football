@@ -1,0 +1,431 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Jonathan Sesma,es ESP,"FW,MF",41,40,3.0,9.0,2003-2004,7484a7cc,Cadiz,"3,560",39.6,5.0,0.0,63.0,1.0,,Cadiz
+,Suárez,es ESP,MF,39,39,1.0,2.0,2003-2004,7a4e91d6,Cadiz,"3,335",37.1,7.0,1.0,63.0,1.0,4326.0,Cadiz
+,Ramón de Quintana,es ESP,DF,37,37,2.0,2.0,2003-2004,657ad2f1,Cadiz,"3,274",36.4,12.0,1.0,63.0,1.0,,Cadiz
+,Raúl López,es ESP,DF,37,37,1.0,0.0,2003-2004,47b23e44,Cadiz,"3,248",36.1,9.0,1.0,63.0,1.0,4327.0,Cadiz
+,Oli,es ESP,FW,37,35,0.0,11.0,2003-2004,656bea4c,Cadiz,"2,858",31.8,9.0,1.0,63.0,1.0,4328.0,Cadiz
+,Manolo Pérez,es ESP,MF,38,35,5.0,4.0,2003-2004,4ac8dad5,Cadiz,"2,836",31.5,7.0,0.0,63.0,1.0,4329.0,Cadiz
+,Jesús Velázquez,es ESP,DF,35,33,2.0,0.0,2003-2004,d22908de,Cadiz,"2,915",32.4,13.0,1.0,63.0,1.0,4330.0,Cadiz
+,Daniel Navarrete,es ESP,,38,33,7.0,4.0,2003-2004,4f6911a4,Cadiz,"2,714",30.2,11.0,0.0,63.0,1.0,,Cadiz
+,Abraham Paz,es ESP,DF,35,32,0.0,3.0,2003-2004,15ec0042,Cadiz,"2,833",31.5,11.0,2.0,63.0,1.0,4331.0,Cadiz
+,Raúl Navas,es ESP,GK,27,27,0.0,0.0,2003-2004,7bb77368,Cadiz,"2,430",27.0,1.0,0.0,63.0,1.0,4332.0,Cadiz
+,Matías Pavoni,ar ARG,MF,25,22,3.0,5.0,2003-2004,3b9b8fb9,Cadiz,"1,866",20.7,7.0,1.0,63.0,5.0,4333.0,Cadiz
+,Alejandro Varela,es ESP,DF,26,19,0.0,0.0,2003-2004,4b48b6b,Cadiz,"1,788",19.9,1.0,0.0,63.0,1.0,4334.0,Cadiz
+,Armando,es ESP,GK,15,15,0.0,0.0,2003-2004,f8f7643,Cadiz,"1,350",15.0,0.0,0.0,63.0,1.0,,Cadiz
+,Mario Rosas,es ESP,MF,28,13,1.0,1.0,2003-2004,81718397,Cadiz,"1,170",13.0,5.0,0.0,63.0,1.0,,Cadiz
+,Ibán Espadas,es ESP,FW,16,10,1.0,4.0,2003-2004,1e764654,Cadiz,980,10.9,1.0,0.0,63.0,1.0,,Cadiz
+,José de la Cuesta,co COL,DF,10,10,0.0,0.0,2003-2004,664cac36,Cadiz,829,9.2,3.0,0.0,63.0,19.0,,Cadiz
+,James Obiorah,ng NGA,"FW,MF",16,7,0.0,2.0,2003-2004,694b9928,Cadiz,823,9.1,1.0,0.0,63.0,52.0,4335.0,Cadiz
+,Antonio Sambruno,es ESP,DF,8,5,0.0,1.0,2003-2004,5b216be5,Cadiz,479,5.3,1.0,0.0,63.0,1.0,4336.0,Cadiz
+,Sergio Iglesias,,,14,4,0.0,0.0,2003-2004,,Cadiz,535,5.9,0.0,0.0,63.0,,,Cadiz
+,Enrique,es ESP,"FW,MF",8,2,0.0,1.0,2003-2004,feb97da2,Cadiz,252,2.8,1.0,0.0,63.0,1.0,4337.0,Cadiz
+,Zafra,es ESP,FW,3,2,0.0,0.0,2003-2004,4d47630e,Cadiz,152,1.7,0.0,0.0,63.0,1.0,,Cadiz
+,Mami Quevedo,es ESP,MF,15,1,0.0,0.0,2003-2004,2c1d71b5,Cadiz,372,4.1,1.0,0.0,63.0,1.0,,Cadiz
+,Haruna Babangida,ng NGA,"FW,MF",14,1,1.0,0.0,2003-2004,d9e515,Cadiz,296,3.3,0.0,0.0,63.0,52.0,4338.0,Cadiz
+,Ezequiel Arana,es ESP,DF,1,1,0.0,0.0,2003-2004,815760c4,Cadiz,90,1.0,0.0,0.0,63.0,1.0,4339.0,Cadiz
+,Roberto Rodiel,,,1,1,0.0,0.0,2003-2004,,Cadiz,52,0.6,0.0,0.0,63.0,,,Cadiz
+,Victor García,,,5,0,1.0,0.0,2003-2004,,Cadiz,88,1.0,0.0,0.0,63.0,,,Cadiz
+,Pablo Sánchez,es ESP,"FW,MF",4,0,0.0,1.0,2003-2004,8c3fe4bb,Cadiz,76,0.8,0.0,0.0,63.0,1.0,,Cadiz
+,Javi Guerra,es ESP,FW,2,0,0.0,0.0,2003-2004,386464,Cadiz,35,0.4,0.0,0.0,63.0,1.0,,Cadiz
+,Alves Carlitos,,,2,0,0.0,1.0,2003-2004,,Cadiz,33,0.4,1.0,0.0,63.0,,,Cadiz
+,﻿Jonathan Sesma,es ESP,"FW,MF",42,42,5.0,13.0,2004-2005,7484a7cc,Cadiz,"3,736",41.5,3.0,0.0,63.0,1.0,,Cadiz
+,Armando,es ESP,GK,40,40,0.0,0.0,2004-2005,f8f7643,Cadiz,"3,600",40.0,5.0,0.0,63.0,1.0,,Cadiz
+,Alejandro Varela,es ESP,DF,40,40,2.0,1.0,2004-2005,4b48b6b,Cadiz,"3,569",39.7,5.0,0.0,63.0,1.0,4334.0,Cadiz
+,Ramón de Quintana,es ESP,DF,39,39,0.0,3.0,2004-2005,657ad2f1,Cadiz,"3,395",37.7,13.0,1.0,63.0,1.0,,Cadiz
+,Oli,es ESP,FW,40,39,9.0,10.0,2004-2005,656bea4c,Cadiz,"3,258",36.2,8.0,0.0,63.0,1.0,4328.0,Cadiz
+,Abraham Paz,es ESP,DF,39,38,1.0,4.0,2004-2005,15ec0042,Cadiz,"3,390",37.7,7.0,1.0,63.0,1.0,4331.0,Cadiz
+,Matías Pavoni,ar ARG,MF,39,36,3.0,8.0,2004-2005,3b9b8fb9,Cadiz,"3,010",33.4,4.0,1.0,63.0,5.0,4333.0,Cadiz
+,Manolo Pérez,es ESP,MF,39,29,8.0,7.0,2004-2005,4ac8dad5,Cadiz,"2,679",29.8,7.0,0.0,63.0,1.0,4329.0,Cadiz
+,Raúl López,es ESP,DF,31,29,1.0,0.0,2004-2005,47b23e44,Cadiz,"2,549",28.3,8.0,0.0,63.0,1.0,4327.0,Cadiz
+,Suárez,es ESP,MF,31,26,0.0,0.0,2004-2005,7a4e91d6,Cadiz,"2,206",24.5,7.0,0.0,63.0,1.0,4326.0,Cadiz
+,Daniel Navarrete,es ESP,,29,24,2.0,5.0,2004-2005,4f6911a4,Cadiz,"1,843",20.5,1.0,0.0,63.0,1.0,,Cadiz
+,Andrés Fleurquin,uy URU,MF,28,17,1.0,5.0,2004-2005,bf3705e6,Cadiz,"1,726",19.2,12.0,0.0,63.0,8.0,4341.0,Cadiz
+,Enrique,es ESP,"FW,MF",28,17,5.0,2.0,2004-2005,feb97da2,Cadiz,"1,558",17.3,4.0,0.0,63.0,1.0,4337.0,Cadiz
+,Juanjo Bezares,es ESP,MF,35,17,0.0,0.0,2004-2005,6d8e0587,Cadiz,"1,509",16.8,9.0,0.0,63.0,1.0,,Cadiz
+,Jesús Velázquez,es ESP,DF,22,15,0.0,0.0,2004-2005,d22908de,Cadiz,"1,425",15.8,4.0,0.0,63.0,1.0,4330.0,Cadiz
+,José de la Cuesta,co COL,DF,13,7,0.0,2.0,2004-2005,664cac36,Cadiz,711,7.9,1.0,0.0,63.0,19.0,,Cadiz
+,Nenad Mirosavljević,rs SRB,FW,25,4,0.0,5.0,2004-2005,50dd4311,Cadiz,646,7.2,1.0,0.0,63.0,28.0,4340.0,Cadiz
+,Raúl Navas,es ESP,GK,2,2,0.0,0.0,2004-2005,7bb77368,Cadiz,180,2.0,0.0,0.0,63.0,1.0,4332.0,Cadiz
+,Fredi Lobeiras,es ESP,MF,10,1,0.0,0.0,2004-2005,9e85ab41,Cadiz,190,2.1,2.0,0.0,63.0,1.0,,Cadiz
+,Manuel De,,,12,0,0.0,2.0,2004-2005,,Cadiz,238,2.6,3.0,0.0,63.0,,,Cadiz
+,Mario Rosas,es ESP,MF,4,0,0.0,0.0,2004-2005,81718397,Cadiz,124,1.4,2.0,0.0,63.0,1.0,,Cadiz
+,﻿Alejandro Varela,es ESP,DF,35,34,0.0,0.0,2005-2006,4b48b6b,Cadiz,"2,963",32.9,3.0,1.0,63.0,1.0,4334.0,Cadiz
+,Jonathan Sesma,es ESP,"FW,MF",36,29,5.0,7.0,2005-2006,7484a7cc,Cadiz,"2,732",30.4,4.0,0.0,63.0,1.0,,Cadiz
+,Enrique,es ESP,"FW,MF",36,29,3.0,4.0,2005-2006,feb97da2,Cadiz,"2,248",25.0,4.0,0.0,63.0,1.0,4337.0,Cadiz
+,Ramón de Quintana,es ESP,DF,28,28,1.0,0.0,2005-2006,657ad2f1,Cadiz,"2,520",28.0,4.0,0.0,63.0,1.0,,Cadiz
+,Andrés Fleurquin,uy URU,MF,30,27,1.0,1.0,2005-2006,bf3705e6,Cadiz,"2,494",27.7,10.0,0.0,63.0,8.0,4341.0,Cadiz
+,Raúl López,es ESP,DF,27,27,1.0,1.0,2005-2006,47b23e44,Cadiz,"2,375",26.4,7.0,0.0,63.0,1.0,4327.0,Cadiz
+,Matías Pavoni,ar ARG,MF,29,26,1.0,4.0,2005-2006,3b9b8fb9,Cadiz,"1,996",22.2,3.0,1.0,63.0,5.0,4333.0,Cadiz
+,Armando,es ESP,GK,25,25,0.0,0.0,2005-2006,f8f7643,Cadiz,"2,250",25.0,0.0,0.0,63.0,1.0,,Cadiz
+,Suárez,es ESP,MF,23,21,0.0,0.0,2005-2006,7a4e91d6,Cadiz,"1,535",17.1,3.0,0.0,63.0,1.0,4326.0,Cadiz
+,Juanjo Bezares,es ESP,MF,27,20,0.0,0.0,2005-2006,6d8e0587,Cadiz,"1,855",20.6,10.0,0.0,63.0,1.0,,Cadiz
+,Abraham Paz,es ESP,DF,22,20,1.0,1.0,2005-2006,15ec0042,Cadiz,"1,822",20.2,3.0,0.0,63.0,1.0,4331.0,Cadiz
+,Oli,es ESP,FW,29,15,1.0,1.0,2005-2006,656bea4c,Cadiz,"1,453",16.1,4.0,1.0,63.0,1.0,4328.0,Cadiz
+,José de la Cuesta,co COL,DF,15,15,0.0,0.0,2005-2006,664cac36,Cadiz,"1,303",14.5,1.0,0.0,63.0,19.0,,Cadiz
+,Lucas Lobos,mx MEX,"FW,MF",20,14,2.0,7.0,2005-2006,4539f247,Cadiz,"1,323",14.7,1.0,0.0,63.0,20.0,4342.0,Cadiz
+,Alexander Medina,uy URU,FW,19,13,0.0,4.0,2005-2006,986318c1,Cadiz,"1,241",13.8,8.0,1.0,63.0,8.0,4343.0,Cadiz
+,Eduardo Berizzo,ar ARG,DF,14,13,0.0,0.0,2005-2006,d28dbfe9,Cadiz,"1,174",13.0,3.0,0.0,63.0,5.0,,Cadiz
+,Alejandro Limia,ar ARG,GK,13,13,0.0,0.0,2005-2006,7e844eb1,Cadiz,"1,170",13.0,0.0,0.0,63.0,5.0,4344.0,Cadiz
+,Fabián Estoyanoff,uy URU,"FW,MF",29,10,2.0,2.0,2005-2006,7ac6198d,Cadiz,"1,276",14.2,7.0,1.0,63.0,8.0,,Cadiz
+,Luciano Vella,ar ARG,DF,10,8,0.0,0.0,2005-2006,71c8f2ca,Cadiz,758,8.4,3.0,0.0,63.0,5.0,4345.0,Cadiz
+,Nenad Mirosavljević,rs SRB,FW,12,8,1.0,3.0,2005-2006,50dd4311,Cadiz,623,6.9,1.0,0.0,63.0,28.0,4340.0,Cadiz
+,Benjamín Zarandona,gq EQG,MF,14,7,1.0,0.0,2005-2006,4922ac7a,Cadiz,708,7.9,3.0,0.0,63.0,10.0,,Cadiz
+,Mário Silva,pt POR,DF,7,6,1.0,0.0,2005-2006,f5f7fa5f,Cadiz,552,6.1,1.0,0.0,63.0,3.0,,Cadiz
+,Iván Ania,es ESP,MF,9,5,0.0,0.0,2005-2006,12d37503,Cadiz,347,3.9,2.0,0.0,63.0,1.0,,Cadiz
+,Fernando Morán,es ESP,MF,15,4,0.0,0.0,2005-2006,0fce6e4c,Cadiz,642,7.1,2.0,0.0,63.0,1.0,,Cadiz
+,Marc Bertrán,es ESP,DF,1,1,0.0,0.0,2005-2006,89a12cef,Cadiz,90,1.0,0.0,0.0,63.0,1.0,,Cadiz
+,Manolo Pérez,es ESP,MF,4,0,0.0,1.0,2005-2006,4ac8dad5,Cadiz,105,1.2,1.0,0.0,63.0,1.0,4329.0,Cadiz
+,﻿César Caneda,es ESP,DF,38,38,1.0,0.0,2006-2007,1013adcf,Cadiz,"3,402",37.8,5.0,0.0,63.0,1.0,,Cadiz
+,Armando,es ESP,GK,36,36,0.0,0.0,2006-2007,f8f7643,Cadiz,"3,240",36.0,2.0,0.0,63.0,1.0,,Cadiz
+,Ramón de Quintana,es ESP,DF,35,34,0.0,1.0,2006-2007,657ad2f1,Cadiz,"2,996",33.3,9.0,2.0,63.0,1.0,,Cadiz
+,Raúl López,es ESP,DF,32,32,0.0,1.0,2006-2007,47b23e44,Cadiz,"2,853",31.7,6.0,1.0,63.0,1.0,4327.0,Cadiz
+,Jonathan Sesma,es ESP,"FW,MF",38,30,6.0,9.0,2006-2007,7484a7cc,Cadiz,"2,743",30.5,6.0,0.0,63.0,1.0,,Cadiz
+,Miguel García,es ESP,MF,31,29,6.0,4.0,2006-2007,4260ce15,Cadiz,"2,389",26.5,18.0,1.0,63.0,1.0,4346.0,Cadiz
+,Luciano Vella,ar ARG,DF,30,28,1.0,2.0,2006-2007,71c8f2ca,Cadiz,"2,612",29.0,6.0,0.0,63.0,5.0,4345.0,Cadiz
+,Andrés Fleurquin,uy URU,MF,31,28,1.0,1.0,2006-2007,bf3705e6,Cadiz,"2,360",26.2,15.0,3.0,63.0,8.0,4341.0,Cadiz
+,Óscar de Paula,es ESP,FW,30,22,2.0,4.0,2006-2007,4b7217c8,Cadiz,"1,837",20.4,2.0,0.0,63.0,1.0,,Cadiz
+,Juanjo Bezares,es ESP,MF,32,20,2.0,0.0,2006-2007,6d8e0587,Cadiz,"1,885",20.9,9.0,1.0,63.0,1.0,,Cadiz
+,Pablo Hernández,es ESP,"FW,MF",22,20,1.0,4.0,2006-2007,c0398aca,Cadiz,"1,692",18.8,6.0,0.0,63.0,1.0,,Cadiz
+,Lucas Lobos,mx MEX,"FW,MF",26,19,3.0,8.0,2006-2007,4539f247,Cadiz,"1,637",18.2,7.0,0.0,63.0,20.0,4342.0,Cadiz
+,Matías Pavoni,ar ARG,MF,21,15,2.0,3.0,2006-2007,3b9b8fb9,Cadiz,"1,445",16.1,5.0,0.0,63.0,5.0,4333.0,Cadiz
+,Alexander Medina,uy URU,FW,28,15,0.0,2.0,2006-2007,986318c1,Cadiz,"1,386",15.4,4.0,0.0,63.0,8.0,4343.0,Cadiz
+,Nano,es ESP,"DF,FW",24,15,5.0,2.0,2006-2007,51fbb7e2,Cadiz,"1,350",15.0,4.0,0.0,63.0,1.0,,Cadiz
+,Abraham Paz,es ESP,DF,14,14,0.0,5.0,2006-2007,15ec0042,Cadiz,"1,183",13.1,4.0,0.0,63.0,1.0,4331.0,Cadiz
+,Enrique,es ESP,"FW,MF",25,11,4.0,1.0,2006-2007,feb97da2,Cadiz,"1,016",11.3,6.0,0.0,63.0,1.0,4337.0,Cadiz
+,Javier Acuña,py PAR,FW,23,10,0.0,2.0,2006-2007,993ff7aa,Cadiz,"1,045",11.6,1.0,0.0,63.0,43.0,,Cadiz
+,Jesús Velázquez,es ESP,DF,12,10,0.0,0.0,2006-2007,d22908de,Cadiz,885,9.8,4.0,0.0,63.0,1.0,4330.0,Cadiz
+,Sergio Rodríguez,es ESP,MF,12,8,1.0,0.0,2006-2007,44e3ae1a,Cadiz,653,7.3,4.0,0.0,63.0,1.0,,Cadiz
+,Abel Buades,es ESP,MF,10,7,0.0,1.0,2006-2007,89efb84b,Cadiz,585,6.5,3.0,0.0,63.0,1.0,4347.0,Cadiz
+,Neru,es ESP,DF,7,6,0.0,0.0,2006-2007,1c8dd214,Cadiz,552,6.1,1.0,0.0,63.0,1.0,,Cadiz
+,Alejandro Limia,ar ARG,GK,6,6,0.0,0.0,2006-2007,7e844eb1,Cadiz,540,6.0,0.0,0.0,63.0,5.0,4344.0,Cadiz
+,Juan Lucas,,,5,5,0.0,0.0,2006-2007,,Cadiz,450,5.0,2.0,0.0,63.0,,,Cadiz
+,Fernando Morán,es ESP,MF,13,3,0.0,0.0,2006-2007,0fce6e4c,Cadiz,479,5.3,2.0,0.0,63.0,1.0,,Cadiz
+,Chico,es ESP,DF,4,1,0.0,0.0,2006-2007,95825cf2,Cadiz,138,1.5,0.0,0.0,63.0,1.0,,Cadiz
+,﻿Pedro Contreras,es ESP,GK,36,36,0.0,0.0,2007-2008,7d21afdb,Cadiz,"3,240",36.0,4.0,0.0,63.0,1.0,,Cadiz
+,Cristian García Ramos,es ESP,DF,33,30,0.0,2.0,2007-2008,73620865,Cadiz,"2,587",28.7,5.0,1.0,63.0,1.0,4348.0,Cadiz
+,Andrés Fleurquin,uy URU,MF,34,29,0.0,1.0,2007-2008,bf3705e6,Cadiz,"2,660",29.6,14.0,1.0,63.0,8.0,4341.0,Cadiz
+,César Caneda,es ESP,DF,31,29,1.0,0.0,2007-2008,1013adcf,Cadiz,"2,590",28.8,4.0,1.0,63.0,1.0,,Cadiz
+,Gustavo López,ar ARG,"FW,MF",33,26,4.0,3.0,2007-2008,bbd74f67,Cadiz,"2,391",26.6,6.0,0.0,63.0,5.0,,Cadiz
+,Daniel Martín,es ESP,FW,36,26,3.0,10.0,2007-2008,c8d2987f,Cadiz,"2,309",25.7,4.0,0.0,63.0,1.0,,Cadiz
+,Abraham Paz,es ESP,DF,26,26,0.0,3.0,2007-2008,15ec0042,Cadiz,"2,304",25.6,5.0,1.0,63.0,1.0,4331.0,Cadiz
+,Enrique,es ESP,"FW,MF",37,26,3.0,2.0,2007-2008,feb97da2,Cadiz,"2,248",25.0,8.0,0.0,63.0,1.0,4337.0,Cadiz
+,José de la Cuesta,co COL,DF,25,23,0.0,1.0,2007-2008,664cac36,Cadiz,"1,991",22.1,3.0,0.0,63.0,19.0,,Cadiz
+,Juanjo Bezares,es ESP,MF,25,23,0.0,0.0,2007-2008,6d8e0587,Cadiz,"1,691",18.8,13.0,2.0,63.0,1.0,,Cadiz
+,Raúl López,es ESP,DF,24,22,0.0,0.0,2007-2008,47b23e44,Cadiz,"2,019",22.4,5.0,0.0,63.0,1.0,4327.0,Cadiz
+,Gonzalo Vicente,uy URU,DF,21,21,0.0,0.0,2007-2008,f3c66117,Cadiz,"1,827",20.3,5.0,2.0,63.0,8.0,,Cadiz
+,Natalio,es ESP,FW,21,20,1.0,5.0,2007-2008,239425b9,Cadiz,"1,685",18.7,3.0,0.0,63.0,1.0,,Cadiz
+,Diego Rivas,es ESP,MF,20,17,0.0,0.0,2007-2008,cf46bc,Cadiz,"1,351",15.0,7.0,0.0,63.0,1.0,,Cadiz
+,Lucas Lobos,mx MEX,"FW,MF",17,16,4.0,2.0,2007-2008,4539f247,Cadiz,"1,336",14.8,2.0,1.0,63.0,20.0,4342.0,Cadiz
+,Gastón Casas,ar ARG,FW,30,14,0.0,5.0,2007-2008,66258864,Cadiz,"1,453",16.1,2.0,1.0,63.0,5.0,,Cadiz
+,Líbero Parri,es ESP,MF,22,12,5.0,3.0,2007-2008,203ff743,Cadiz,"1,203",13.4,4.0,0.0,63.0,1.0,,Cadiz
+,Miguel García,es ESP,MF,14,11,0.0,1.0,2007-2008,4260ce15,Cadiz,899,10.0,4.0,1.0,63.0,1.0,4346.0,Cadiz
+,Kamil Kosowski,pl POL,MF,17,9,2.0,0.0,2007-2008,fdefe4c,Cadiz,825,9.2,1.0,0.0,63.0,14.0,4349.0,Cadiz
+,Nano,es ESP,"DF,FW",13,7,1.0,0.0,2007-2008,51fbb7e2,Cadiz,641,7.1,4.0,0.0,63.0,1.0,,Cadiz
+,Luciano Vella,ar ARG,DF,8,7,0.0,0.0,2007-2008,71c8f2ca,Cadiz,615,6.8,2.0,0.0,63.0,5.0,4345.0,Cadiz
+,Sambégou Bangoura,gn GUI,"FW,MF",10,7,2.0,1.0,2007-2008,8c6d9dd,Cadiz,613,6.8,1.0,0.0,63.0,74.0,4350.0,Cadiz
+,Yago Yao,gq EQG,DF,7,7,1.0,0.0,2007-2008,25c8b6c,Cadiz,605,6.7,1.0,0.0,63.0,10.0,,Cadiz
+,Ramón de Quintana,es ESP,DF,9,6,0.0,0.0,2007-2008,657ad2f1,Cadiz,683,7.6,1.0,1.0,63.0,1.0,,Cadiz
+,Matías Pavoni,ar ARG,MF,13,6,0.0,0.0,2007-2008,3b9b8fb9,Cadiz,632,7.0,2.0,0.0,63.0,5.0,4333.0,Cadiz
+,Alejandro Limia,ar ARG,GK,6,6,0.0,0.0,2007-2008,7e844eb1,Cadiz,540,6.0,0.0,0.0,63.0,5.0,4344.0,Cadiz
+,Manu Barreiro,es ESP,FW,6,0,0.0,1.0,2007-2008,028608d9,Cadiz,136,1.5,0.0,0.0,63.0,1.0,,Cadiz
+,Fran Cortés,es ESP,MF,5,0,0.0,0.0,2007-2008,9efc89b7,Cadiz,112,1.2,0.0,0.0,63.0,1.0,4351.0,Cadiz
+,Bienve,es ESP,MF,3,0,0.0,0.0,2007-2008,d58f5380,Cadiz,61,0.7,0.0,0.0,63.0,1.0,4352.0,Cadiz
+,Daniel Fornell,,,2,0,0.0,0.0,2007-2008,,Cadiz,51,0.6,0.0,0.0,63.0,,,Cadiz
+,﻿Daniel Fragoso,es ESP,"DF,MF",40,39,2.0,1.0,2009-2010,91811cee,Cadiz,"3,502",38.9,9.0,0.0,63.0,1.0,,Cadiz
+,Cristian García Ramos,es ESP,DF,37,37,4.0,2.0,2009-2010,73620865,Cadiz,"3,304",36.7,9.0,1.0,63.0,1.0,4348.0,Cadiz
+,Enrique,es ESP,"FW,MF",36,34,4.0,8.0,2009-2010,feb97da2,Cadiz,"2,549",28.3,10.0,1.0,63.0,1.0,4337.0,Cadiz
+,Daniel Cifuentes,es ESP,DF,34,33,0.0,0.0,2009-2010,488a3de8,Cadiz,"2,912",32.4,6.0,1.0,63.0,1.0,,Cadiz
+,Kiko Casilla,es ESP,GK,31,31,0.0,0.0,2009-2010,58bc7d18,Cadiz,"2,744",30.5,3.0,1.0,63.0,1.0,136.0,Cadiz
+,Jon Erice,es ESP,MF,36,31,2.0,0.0,2009-2010,39da8b1f,Cadiz,"2,692",29.9,8.0,1.0,63.0,1.0,,Cadiz
+,José López Silva,es ESP,MF,34,27,2.0,3.0,2009-2010,60d6ed20,Cadiz,"2,418",26.9,10.0,2.0,63.0,1.0,4353.0,Cadiz
+,Álvaro Silva,ph PHI,DF,28,25,1.0,0.0,2009-2010,40817456,Cadiz,"2,313",25.7,7.0,0.0,63.0,90.0,,Cadiz
+,Abraham González,es ESP,MF,32,25,1.0,2.0,2009-2010,682bd745,Cadiz,"2,089",23.2,5.0,0.0,63.0,1.0,,Cadiz
+,Bartholomew Ogbeche,ng NGA,FW,28,22,2.0,9.0,2009-2010,616cc0f7,Cadiz,"2,031",22.6,6.0,0.0,63.0,52.0,,Cadiz
+,Víctor Ormazábal,ar ARG,MF,29,19,2.0,1.0,2009-2010,6841b52,Cadiz,"1,748",19.4,4.0,1.0,63.0,5.0,,Cadiz
+,Mariano Toedtli,ar ARG,FW,29,19,2.0,6.0,2009-2010,dc1fd8a8,Cadiz,"1,746",19.4,4.0,0.0,63.0,5.0,,Cadiz
+,Raúl López,es ESP,DF,16,14,0.0,0.0,2009-2010,47b23e44,Cadiz,"1,250",13.9,8.0,0.0,63.0,1.0,4327.0,Cadiz
+,José de la Cuesta,co COL,DF,14,14,2.0,2.0,2009-2010,664cac36,Cadiz,"1,244",13.8,3.0,0.0,63.0,19.0,,Cadiz
+,Diego Tristán,es ESP,FW,29,14,1.0,8.0,2009-2010,63209c5,Cadiz,"1,207",13.4,4.0,0.0,63.0,1.0,,Cadiz
+,Nano,es ESP,"DF,MF",25,13,1.0,3.0,2009-2010,5578668a,Cadiz,"1,223",13.6,2.0,1.0,63.0,1.0,4354.0,Cadiz
+,Carlos Caballero,es ESP,MF,20,13,1.0,0.0,2009-2010,38afdbc5,Cadiz,"1,199",13.3,4.0,0.0,63.0,1.0,4355.0,Cadiz
+,Andrés Fleurquin,uy URU,MF,17,13,0.0,1.0,2009-2010,bf3705e6,Cadiz,"1,183",13.1,4.0,0.0,63.0,8.0,4341.0,Cadiz
+,Dani Miguélez,es ESP,GK,10,10,0.0,0.0,2009-2010,b4bd039,Cadiz,900,10.0,1.0,0.0,63.0,1.0,4356.0,Cadiz
+,Roberto Mansilla,es ESP,DF,10,9,0.0,0.0,2009-2010,da08ddb0,Cadiz,812,9.0,4.0,0.0,63.0,1.0,4357.0,Cadiz
+,Jaume Costa,es ESP,DF,14,8,0.0,0.0,2009-2010,808d48f3,Cadiz,681,7.6,5.0,0.0,63.0,1.0,,Cadiz
+,Jonathan Ramis,uy URU,"FW,MF",12,6,0.0,1.0,2009-2010,1e278026,Cadiz,559,6.2,1.0,0.0,63.0,8.0,4358.0,Cadiz
+,Fran Cortés,es ESP,MF,10,4,1.0,2.0,2009-2010,9efc89b7,Cadiz,490,5.4,1.0,0.0,63.0,1.0,4351.0,Cadiz
+,Fernando Velasco,es ESP,MF,4,1,0.0,0.0,2009-2010,7a44f25b,Cadiz,148,1.6,0.0,0.0,63.0,1.0,4359.0,Cadiz
+,Zdeněk Zlámal,cz CZE,GK,2,1,0.0,0.0,2009-2010,fcd24f5f,Cadiz,136,1.5,1.0,0.0,63.0,84.0,4360.0,Cadiz
+,Joseba Arriaga,es ESP,FW,5,0,0.0,0.0,2009-2010,5819e0da,Cadiz,102,1.1,0.0,0.0,63.0,1.0,,Cadiz
+,Miloš Bogunović,rs SRB,"FW,MF",3,0,0.0,0.0,2009-2010,c21bb69a,Cadiz,100,1.1,1.0,0.0,63.0,28.0,4361.0,Cadiz
+,﻿Josete,es ESP,DF,5,5,0.0,0.0,2014-2015,c3a79d87,Cadiz,450,5.0,2.0,0.0,63.0,1.0,4362.0,Cadiz
+,Jon Ander Garrido,es ESP,MF,5,5,0.0,0.0,2014-2015,c46736ab,Cadiz,402,4.5,0.0,0.0,63.0,1.0,4363.0,Cadiz
+,Fran Machado,es ESP,MF,5,5,0.0,0.0,2014-2015,285976d5,Cadiz,377,4.2,0.0,0.0,63.0,1.0,4364.0,Cadiz
+,Ricky Alonso,es ESP,GK,4,4,0.0,0.0,2014-2015,fab5e877,Cadiz,360,4.0,0.0,0.0,63.0,1.0,,Cadiz
+,Aitor Arregi,es ESP,DF,4,4,0.0,1.0,2014-2015,37680d06,Cadiz,360,4.0,2.0,0.0,63.0,1.0,4365.0,Cadiz
+,Tomás Sánchez Mesa,es ESP,DF,4,4,0.0,1.0,2014-2015,d6841c32,Cadiz,360,4.0,1.0,0.0,63.0,1.0,4366.0,Cadiz
+,Miguel Alberto García Díaz,es ESP,MF,5,4,0.0,1.0,2014-2015,57ecb2b9,Cadiz,322,3.6,1.0,0.0,63.0,1.0,4367.0,Cadiz
+,Airam,es ESP,FW,4,4,0.0,2.0,2014-2015,130471ce,Cadiz,316,3.5,1.0,0.0,63.0,1.0,,Cadiz
+,Kike López,es ESP,FW,4,4,0.0,0.0,2014-2015,8a29a124,Cadiz,264,2.9,1.0,0.0,63.0,1.0,,Cadiz
+,Gerardo Navarrete,cl CHI,MF,3,3,0.0,1.0,2014-2015,5cabc7a,Cadiz,270,3.0,1.0,0.0,63.0,31.0,4368.0,Cadiz
+,Óscar Rubio Fauria,es ESP,"DF,MF",3,3,0.0,0.0,2014-2015,d220bc16,Cadiz,187,2.1,1.0,0.0,63.0,1.0,,Cadiz
+,Juan Villar,es ESP,"FW,MF",4,2,0.0,1.0,2014-2015,c33ee247,Cadiz,265,2.9,1.0,0.0,63.0,1.0,,Cadiz
+,Juanma,es ESP,MF,4,2,0.0,0.0,2014-2015,2700600a,Cadiz,200,2.2,0.0,0.0,63.0,1.0,4369.0,Cadiz
+,Andrés Sánchez Franco,es ESP,MF,2,2,0.0,0.0,2014-2015,2408dd33,Cadiz,180,2.0,1.0,0.0,63.0,1.0,4370.0,Cadiz
+,Sergio Mantecón,es ESP,MF,3,1,0.0,0.0,2014-2015,71eaddb6,Cadiz,194,2.2,1.0,0.0,63.0,1.0,4371.0,Cadiz
+,Kike,es ESP,"FW,MF",2,1,0.0,1.0,2014-2015,40b38d21,Cadiz,135,1.5,2.0,0.0,63.0,1.0,4372.0,Cadiz
+,Oinatz Aulestia,es ESP,GK,1,1,0.0,0.0,2014-2015,be681aab,Cadiz,90,1.0,0.0,0.0,63.0,1.0,4373.0,Cadiz
+,Servando Sánchez,es ESP,DF,1,1,0.0,0.0,2014-2015,9e18df6,Cadiz,90,1.0,1.0,0.0,63.0,1.0,4374.0,Cadiz
+,Ale Galindo,es ESP,MF,2,0,0.0,0.0,2014-2015,71dcce86,Cadiz,40,0.4,0.0,0.0,63.0,1.0,4375.0,Cadiz
+,Jona,hn HON,FW,2,0,0.0,0.0,2014-2015,840dd8a7,Cadiz,33,0.4,0.0,0.0,63.0,107.0,,Cadiz
+,Diego González,es ESP,DF,1,0,0.0,0.0,2014-2015,4ac7608e,Cadiz,31,0.3,0.0,0.0,63.0,1.0,,Cadiz
+,José Mari,es ESP,FW,2,0,0.0,0.0,2014-2015,9a8ea,Cadiz,24,0.3,0.0,0.0,63.0,1.0,4376.0,Cadiz
+,﻿Pol Ballesté,es ESP,GK,6,6,0.0,0.0,2015-2016,95cdcb3,Cadiz,570.0,6.3,1.0,0.0,63.0,1.0,4377.0,Cadiz
+,Sergio Mantecón,es ESP,MF,6,6,0.0,0.0,2015-2016,71eaddb6,Cadiz,570.0,6.3,1.0,0.0,63.0,1.0,4371.0,Cadiz
+,Aridane Hernández,gq EQG,DF,5,5,0.0,0.0,2015-2016,132ac341,Cadiz,460.0,5.1,0.0,0.0,63.0,10.0,,Cadiz
+,Lolo,es ESP,"FW,MF",5,5,0.0,0.0,2015-2016,7754566,Cadiz,415.0,4.6,2.0,0.0,63.0,1.0,,Cadiz
+,Álvaro García,es ESP,MF,5,4,0.0,0.0,2015-2016,90bbd822,Cadiz,379.0,4.2,0.0,0.0,63.0,1.0,,Cadiz
+,Josete,es ESP,DF,5,4,0.0,0.0,2015-2016,c3a79d87,Cadiz,362.0,4.0,0.0,0.0,63.0,1.0,4362.0,Cadiz
+,Wilson Cuero,co COL,FW,4,4,0.0,0.0,2015-2016,0e531376,Cadiz,351.0,3.9,0.0,0.0,63.0,19.0,,Cadiz
+,Tomás Sánchez Mesa,es ESP,DF,4,4,0.0,0.0,2015-2016,d6841c32,Cadiz,345.0,3.8,0.0,0.0,63.0,1.0,4366.0,Cadiz
+,Servando Sánchez,es ESP,DF,5,3,0.0,2.0,2015-2016,9e18df6,Cadiz,328.0,3.6,1.0,0.0,63.0,1.0,4374.0,Cadiz
+,Cristian Márquez,es ESP,DF,3,3,0.0,0.0,2015-2016,b2dddf60,Cadiz,300.0,3.3,0.0,0.0,63.0,1.0,4378.0,Cadiz
+,Salvi,es ESP,MF,5,3,0.0,0.0,2015-2016,405f267a,Cadiz,297.0,3.3,0.0,0.0,63.0,1.0,4379.0,Cadiz
+,Alberto Quintana,es ESP,MF,4,3,0.0,0.0,2015-2016,bf5b0450,Cadiz,287.0,3.2,1.0,0.0,63.0,1.0,4380.0,Cadiz
+,Jon Ander Garrido,es ESP,MF,3,3,0.0,0.0,2015-2016,c46736ab,Cadiz,270.0,3.0,2.0,0.0,63.0,1.0,4363.0,Cadiz
+,Abel Gómez Moreno,es ESP,MF,3,2,0.0,0.0,2015-2016,b09801d8,Cadiz,226.0,2.5,1.0,0.0,63.0,1.0,,Cadiz
+,Luis Pavez Muñoz,cl CHI,DF,3,2,0.0,0.0,2015-2016,0ca56107,Cadiz,203.0,2.3,0.0,0.0,63.0,31.0,4381.0,Cadiz
+,Hugo,es ESP,MF,3,2,0.0,1.0,2015-2016,12c19fda,Cadiz,179.0,2.0,1.0,0.0,63.0,1.0,4382.0,Cadiz
+,Andrés Sánchez Franco,es ESP,MF,2,2,0.0,0.0,2015-2016,2408dd33,Cadiz,169.0,1.9,1.0,0.0,63.0,1.0,4370.0,Cadiz
+,Fran Machado,es ESP,MF,2,1,0.0,0.0,2015-2016,285976d5,Cadiz,107.0,1.2,0.0,0.0,63.0,1.0,4364.0,Cadiz
+,Juanjo,es ESP,DF,1,1,0.0,0.0,2015-2016,2ed0d371,Cadiz,82.0,0.9,1.0,0.0,63.0,1.0,4383.0,Cadiz
+,Jandro,es ESP,MF,1,1,0.0,0.0,2015-2016,453a1fcd,Cadiz,67.0,0.7,0.0,0.0,63.0,1.0,,Cadiz
+,Manuel Román,es ESP,FW,1,1,0.0,0.0,2015-2016,15aace7c,Cadiz,59.0,0.7,0.0,0.0,63.0,1.0,4384.0,Cadiz
+,David Rodríguez,es ESP,MF,1,1,0.0,0.0,2015-2016,9de5aeaa,Cadiz,55.0,0.6,0.0,0.0,63.0,1.0,,Cadiz
+,Kike,es ESP,"FW,MF",2,0,0.0,1.0,2015-2016,40b38d21,Cadiz,81.0,0.9,0.0,0.0,63.0,1.0,4372.0,Cadiz
+,Dani Güiza,es ESP,FW,3,0,0.0,0.0,2015-2016,d863ea53,Cadiz,66.0,0.7,0.0,0.0,63.0,1.0,,Cadiz
+,Manu Vallejo,es ESP,"FW,MF",1,0,0.0,0.0,2015-2016,0bc4e720,Cadiz,31.0,0.3,0.0,0.0,63.0,1.0,,Cadiz
+,Juan Romero,es ESP,MF,1,0,0.0,0.0,2015-2016,caf6bfee,Cadiz,11.0,0.1,0.0,0.0,63.0,1.0,4385.0,Cadiz
+,Alberto Cifuentes,es ESP,GK,0,0,,,2015-2016,94084f83,Cadiz,,,,,63.0,1.0,,Cadiz
+,Alejandro Lázaro,es ESP,GK,0,0,,,2015-2016,5e4055e,Cadiz,,,,,63.0,1.0,,Cadiz
+,Juanpe Lele,es ESP,MF,0,0,,,2015-2016,731b58b9,Cadiz,,,,,63.0,1.0,4386.0,Cadiz
+,﻿Alberto Cifuentes,es ESP,GK,41,41,0.0,0.0,2016-2017,94084f83,Cadiz,"3,690",41.0,3.0,0.0,63.0,1.0,,Cadiz
+,Alfredo Ortuño,es ESP,FW,40,40,2.0,17.0,2016-2017,b5077003,Cadiz,"3,407",37.9,3.0,1.0,63.0,1.0,,Cadiz
+,Javier Carpio,es ESP,DF,38,38,0.0,0.0,2016-2017,5158c08a,Cadiz,"3,345",37.2,5.0,0.0,63.0,1.0,,Cadiz
+,Álvaro García,es ESP,MF,38,38,9.0,5.0,2016-2017,90bbd822,Cadiz,"3,312",36.8,5.0,0.0,63.0,1.0,,Cadiz
+,Aridane Hernández,gq EQG,DF,37,37,0.0,2.0,2016-2017,132ac341,Cadiz,"3,292",36.6,10.0,1.0,63.0,10.0,,Cadiz
+,Khalifa Sankaré,sn SEN,DF,32,31,0.0,3.0,2016-2017,4bc904e7,Cadiz,"2,741",30.5,8.0,2.0,63.0,34.0,4387.0,Cadiz
+,Brian Herrero,,DF,30,30,2.0,0.0,2016-2017,99edbc78,Cadiz,"2,584",28.7,6.0,0.0,63.0,,,Cadiz
+,Rafidine Abdullah,km COM,MF,33,27,1.0,3.0,2016-2017,4d9ee090,Cadiz,"2,393",26.6,5.0,0.0,63.0,111.0,4388.0,Cadiz
+,Salvi,es ESP,MF,34,27,4.0,8.0,2016-2017,405f267a,Cadiz,"2,055",22.8,2.0,0.0,63.0,1.0,4379.0,Cadiz
+,José Mari,es ESP,MF,30,26,1.0,0.0,2016-2017,6f4c734d,Cadiz,"2,312",25.7,11.0,0.0,63.0,1.0,,Cadiz
+,Jon Ander Garrido,es ESP,MF,30,26,1.0,1.0,2016-2017,c46736ab,Cadiz,"2,178",24.2,7.0,0.0,63.0,1.0,4363.0,Cadiz
+,Rubén Cruz Gil,es ESP,"MF,FW",24,15,4.0,0.0,2016-2017,365d25bb,Cadiz,"1,396",15.5,4.0,0.0,63.0,1.0,,Cadiz
+,Luis Ruiz Sayago,es ESP,DF,13,12,1.0,0.0,2016-2017,7451b305,Cadiz,"1,040",11.6,3.0,0.0,63.0,1.0,,Cadiz
+,Servando Sánchez,es ESP,DF,16,10,1.0,0.0,2016-2017,9e18df6,Cadiz,"1,080",12.0,1.0,0.0,63.0,1.0,4374.0,Cadiz
+,Ager Aketxe,es ESP,MF,15,10,3.0,4.0,2016-2017,c5eaff5c,Cadiz,969,10.8,2.0,0.0,63.0,1.0,,Cadiz
+,Nico Hidalgo,es ESP,MF,24,9,1.0,1.0,2016-2017,9798f0d5,Cadiz,947,10.5,0.0,0.0,63.0,1.0,,Cadiz
+,Eddy Silvestre,az AZE,MF,20,9,0.0,1.0,2016-2017,15ac2dc2,Cadiz,939,10.4,5.0,1.0,63.0,108.0,,Cadiz
+,Migue,es ESP,DF,6,6,0.0,0.0,2016-2017,13575a4c,Cadiz,515,5.7,0.0,0.0,63.0,1.0,,Cadiz
+,Aitor García,es ESP,MF,27,4,1.0,5.0,2016-2017,9121816b,Cadiz,713,7.9,2.0,0.0,63.0,1.0,,Cadiz
+,Gorka Santamaría,es ESP,"MF,FW",16,4,0.0,2.0,2016-2017,d3b668f,Cadiz,407,4.5,1.0,2.0,63.0,1.0,4389.0,Cadiz
+,Iván Malón,es ESP,DF,6,4,0.0,0.0,2016-2017,c568d934,Cadiz,403,4.5,0.0,0.0,63.0,1.0,,Cadiz
+,Jesús Imaz,es ESP,"MF,FW",6,4,0.0,1.0,2016-2017,7278d31a,Cadiz,337,3.7,0.0,0.0,63.0,1.0,4390.0,Cadiz
+,Sergio Mantecón,es ESP,MF,4,4,0.0,0.0,2016-2017,71eaddb6,Cadiz,301,3.3,2.0,0.0,63.0,1.0,4371.0,Cadiz
+,Abel Gómez Moreno,es ESP,MF,4,3,0.0,0.0,2016-2017,b09801d8,Cadiz,211,2.3,0.0,0.0,63.0,1.0,,Cadiz
+,Carlos Calvo,es ESP,MF,3,3,1.0,0.0,2016-2017,444d33f,Cadiz,201,2.2,2.0,2.0,63.0,1.0,4391.0,Cadiz
+,Dani Güiza,es ESP,FW,12,2,2.0,2.0,2016-2017,d863ea53,Cadiz,352,3.9,2.0,0.0,63.0,1.0,,Cadiz
+,Juanjo,es ESP,DF,2,1,0.0,0.0,2016-2017,2ed0d371,Cadiz,116,1.3,1.0,0.0,63.0,1.0,4383.0,Cadiz
+,Jesús,es ESP,GK,1,1,0.0,0.0,2016-2017,fba3c8c1,Cadiz,90,1.0,0.0,0.0,63.0,1.0,97.0,Cadiz
+,Gastón del Castillo,ar ARG,FW,1,0,0.0,0.0,2016-2017,d3939f40,Cadiz,32,0.4,0.0,0.0,63.0,5.0,4392.0,Cadiz
+,Alberto Quintana,es ESP,MF,1,0,0.0,0.0,2016-2017,bf5b0450,Cadiz,25,0.3,0.0,0.0,63.0,1.0,4380.0,Cadiz
+,Juanpe Lele,es ESP,MF,1,0,0.0,0.0,2016-2017,731b58b9,Cadiz,14,0.2,0.0,0.0,63.0,1.0,4386.0,Cadiz
+,Alejandro Lázaro,es ESP,GK,0,0,,,2016-2017,5e4055e,Cadiz,,,,,63.0,1.0,,Cadiz
+,Brian Oliván,es ESP,DF,0,0,,,2016-2017,3e4bf46,Cadiz,,,,,63.0,1.0,,Cadiz
+,﻿Alberto Cifuentes,es ESP,GK,42,42,0.0,0.0,2017-2018,94084f83,Cadiz,"3,780",42.0,1.0,0.0,63.0,1.0,,Cadiz
+,Jon Ander Garrido,es ESP,MF,36,35,2.0,2.0,2017-2018,c46736ab,Cadiz,"2,955",32.8,10.0,2.0,63.0,1.0,4363.0,Cadiz
+,Salvi,es ESP,MF,36,35,6.0,4.0,2017-2018,405f267a,Cadiz,"2,907",32.3,2.0,0.0,63.0,1.0,4379.0,Cadiz
+,Servando Sánchez,es ESP,DF,35,34,0.0,3.0,2017-2018,9e18df6,Cadiz,"3,068",34.1,4.0,0.0,63.0,1.0,4374.0,Cadiz
+,Álvaro García,es ESP,MF,36,34,3.0,10.0,2017-2018,90bbd822,Cadiz,"2,968",33.0,6.0,0.0,63.0,1.0,,Cadiz
+,Álex Fernández,es ESP,MF,37,32,3.0,3.0,2017-2018,677a35,Cadiz,"2,894",32.2,7.0,0.0,63.0,1.0,101.0,Cadiz
+,Ivan Kecojević,me MNE,DF,26,24,0.0,2.0,2017-2018,83e49f90,Cadiz,"2,157",24.0,5.0,0.0,63.0,33.0,,Cadiz
+,Rafidine Abdullah,km COM,MF,31,23,1.0,0.0,2017-2018,4d9ee090,Cadiz,"2,017",22.4,6.0,0.0,63.0,111.0,4388.0,Cadiz
+,Javier Carpio,es ESP,DF,24,23,0.0,0.0,2017-2018,5158c08a,Cadiz,"1,996",22.2,3.0,0.0,63.0,1.0,,Cadiz
+,Marcos Mauro López Gutiérrez,ar ARG,DF,23,22,0.0,0.0,2017-2018,b3b62f94,Cadiz,"2,054",22.8,4.0,0.0,63.0,5.0,4393.0,Cadiz
+,Lucas Bijker,nl NED,DF,22,22,1.0,0.0,2017-2018,1ab17497,Cadiz,"1,980",22.0,6.0,0.0,63.0,11.0,4394.0,Cadiz
+,José Ángel Carrillo,es ESP,"FW,MF",31,17,2.0,5.0,2017-2018,7beb6364,Cadiz,"1,843",20.5,2.0,0.0,63.0,1.0,,Cadiz
+,Brian Herrero,,DF,17,17,1.0,0.0,2017-2018,99edbc78,Cadiz,"1,500",16.7,6.0,0.0,63.0,,,Cadiz
+,David Barral,es ESP,"FW,MF",28,17,0.0,6.0,2017-2018,d99f9282,Cadiz,"1,420",15.8,4.0,3.0,63.0,1.0,,Cadiz
+,Rober Correa,es ESP,DF,16,15,0.0,0.0,2017-2018,46bd3a5b,Cadiz,"1,311",14.6,4.0,2.0,63.0,1.0,,Cadiz
+,Mikel Villanueva,ve VEN,DF,13,11,1.0,0.0,2017-2018,65f90a76,Cadiz,949,10.5,2.0,0.0,63.0,53.0,,Cadiz
+,Alberto Perea,es ESP,MF,22,10,1.0,2.0,2017-2018,5496cc91,Cadiz,980,10.9,2.0,0.0,63.0,1.0,,Cadiz
+,Aitor García,es ESP,MF,18,10,0.0,0.0,2017-2018,9121816b,Cadiz,934,10.4,1.0,0.0,63.0,1.0,,Cadiz
+,Dani Romera,es ESP,"FW,MF",20,9,1.0,2.0,2017-2018,b2855ce9,Cadiz,800,8.9,1.0,0.0,63.0,1.0,4395.0,Cadiz
+,Jona,hn HON,FW,14,9,1.0,0.0,2017-2018,840dd8a7,Cadiz,728,8.1,0.0,0.0,63.0,107.0,,Cadiz
+,José Mari,es ESP,MF,10,8,3.0,0.0,2017-2018,6f4c734d,Cadiz,660,7.3,3.0,0.0,63.0,1.0,,Cadiz
+,Nico Hidalgo,es ESP,MF,11,4,0.0,0.0,2017-2018,9798f0d5,Cadiz,444,4.9,0.0,0.0,63.0,1.0,,Cadiz
+,Rubén Cruz Gil,es ESP,MF,7,4,0.0,0.0,2017-2018,365d25bb,Cadiz,351,3.9,0.0,0.0,63.0,1.0,,Cadiz
+,Eugeni Valderrama,es ESP,MF,13,3,0.0,1.0,2017-2018,75b4071,Cadiz,450,5.0,2.0,0.0,63.0,1.0,,Cadiz
+,Fausto Tienza,es ESP,MF,5,2,0.0,0.0,2017-2018,039783d3,Cadiz,173,1.9,2.0,0.0,63.0,1.0,,Cadiz
+,Moha,es ESP,FW,11,0,0.0,1.0,2017-2018,2a54afab,Cadiz,180,2.0,1.0,0.0,63.0,1.0,4396.0,Cadiz
+,Seth Airam Vega,es ESP,FW,1,0,0.0,0.0,2017-2018,50ac5e20,Cadiz,38,0.4,0.0,0.0,63.0,1.0,4397.0,Cadiz
+,David del Toro Jiménez,es ESP,FW,1,0,0.0,0.0,2017-2018,97be091,Cadiz,12,0.1,1.0,0.0,63.0,1.0,4398.0,Cadiz
+,Manu Vallejo,es ESP,"FW,MF",1,0,0.0,0.0,2017-2018,0bc4e720,Cadiz,7,0.1,0.0,0.0,63.0,1.0,,Cadiz
+,David Gil,es ESP,GK,0,0,,,2017-2018,fea23125,Cadiz,,,,,63.0,1.0,,Cadiz
+,Rubén Yáñez,es ESP,GK,0,0,,,2017-2018,039ae103,Cadiz,,,,,63.0,1.0,142.0,Cadiz
+,﻿Alberto Cifuentes,es ESP,GK,41,41,0.0,0.0,2018-2019,94084f83,Cadiz,"3,690",41.0,4.0,0.0,63.0,1.0,,Cadiz
+,Rober Correa,es ESP,DF,37,37,3.0,1.0,2018-2019,46bd3a5b,Cadiz,"3,153",35.0,9.0,0.0,63.0,1.0,,Cadiz
+,José Mari,es ESP,MF,34,32,0.0,1.0,2018-2019,6f4c734d,Cadiz,"2,745",30.5,12.0,1.0,63.0,1.0,,Cadiz
+,Manu Vallejo,es ESP,"MF,FW",33,31,3.0,8.0,2018-2019,0bc4e720,Cadiz,"2,660",29.6,3.0,0.0,63.0,1.0,,Cadiz
+,Ivan Kecojević,me MNE,DF,30,29,0.0,2.0,2018-2019,83e49f90,Cadiz,"2,518",28.0,4.0,1.0,63.0,33.0,,Cadiz
+,Jairo Izquierdo,es ESP,MF,31,27,4.0,3.0,2018-2019,2ceb58ab,Cadiz,"2,481",27.6,2.0,1.0,63.0,1.0,,Cadiz
+,Álex Fernández,es ESP,MF,40,26,6.0,6.0,2018-2019,677a35,Cadiz,"2,603",28.9,3.0,0.0,63.0,1.0,101.0,Cadiz
+,Marcos Mauro López Gutiérrez,ar ARG,DF,25,24,0.0,2.0,2018-2019,b3b62f94,Cadiz,"2,124",23.6,3.0,1.0,63.0,5.0,4393.0,Cadiz
+,Sergio Sánchez,es ESP,DF,22,22,1.0,1.0,2018-2019,83a83b0a,Cadiz,"1,915",21.3,5.0,0.0,63.0,1.0,,Cadiz
+,Jose Matos,es ESP,DF,21,21,0.0,0.0,2018-2019,19fdd28f,Cadiz,"1,736",19.3,4.0,0.0,63.0,1.0,,Cadiz
+,Jon Ander Garrido,es ESP,MF,22,20,1.0,1.0,2018-2019,c46736ab,Cadiz,"1,848",20.5,10.0,0.0,63.0,1.0,4363.0,Cadiz
+,Dejan Lekić,rs SRB,FW,29,20,3.0,4.0,2018-2019,f73b1a65,Cadiz,"1,620",18.0,5.0,0.0,63.0,28.0,,Cadiz
+,Ager Aketxe,es ESP,MF,33,19,4.0,4.0,2018-2019,c5eaff5c,Cadiz,"1,801",20.0,4.0,0.0,63.0,1.0,,Cadiz
+,Salvi,es ESP,MF,32,18,3.0,2.0,2018-2019,405f267a,Cadiz,"1,807",20.1,4.0,0.0,63.0,1.0,4379.0,Cadiz
+,Edu Ramos,es ESP,"MF,DF",24,17,0.0,1.0,2018-2019,6793b40,Cadiz,"1,411",15.7,6.0,0.0,63.0,1.0,,Cadiz
+,Brian Oliván,es ESP,DF,15,15,0.0,0.0,2018-2019,3e4bf46,Cadiz,"1,271",14.1,3.0,0.0,63.0,1.0,,Cadiz
+,Darwin Machís,ve VEN,"MF,FW",15,14,1.0,8.0,2018-2019,d6ea4d9,Cadiz,"1,215",13.5,3.0,0.0,63.0,53.0,4399.0,Cadiz
+,David Querol,es ESP,"FW,MF",12,7,1.0,1.0,2018-2019,260a29e9,Cadiz,669,7.4,3.0,0.0,63.0,1.0,,Cadiz
+,Mario Barco,es ESP,FW,8,6,1.0,0.0,2018-2019,8a9b6d5,Cadiz,436,4.8,1.0,0.0,63.0,1.0,4400.0,Cadiz
+,Alfonso Espino,uy URU,DF,5,5,1.0,0.0,2018-2019,db001fa9,Cadiz,429,4.8,0.0,0.0,63.0,8.0,4401.0,Cadiz
+,David Carmona,es ESP,DF,7,4,0.0,0.0,2018-2019,d922d43,Cadiz,418,4.6,2.0,0.0,63.0,1.0,,Cadiz
+,Fali,es ESP,"DF,MF",4,4,0.0,0.0,2018-2019,72a84002,Cadiz,360,4.0,1.0,0.0,63.0,1.0,4402.0,Cadiz
+,Salvador Agra,pt POR,MF,6,4,0.0,0.0,2018-2019,130741a,Cadiz,262,2.9,1.0,0.0,63.0,3.0,,Cadiz
+,Alberto Perea,es ESP,MF,7,2,1.0,0.0,2018-2019,5496cc91,Cadiz,224,2.5,0.0,0.0,63.0,1.0,,Cadiz
+,José Ángel Carrillo,es ESP,FW,11,1,0.0,1.0,2018-2019,7beb6364,Cadiz,274,3.0,1.0,0.0,63.0,1.0,,Cadiz
+,Vincenzo Rennella,it ITA,FW,7,1,1.0,1.0,2018-2019,b3c467b4,Cadiz,234,2.6,3.0,0.0,63.0,9.0,,Cadiz
+,Đorđe Jovanović,rs SRB,FW,6,1,1.0,0.0,2018-2019,8e19242c,Cadiz,157,1.7,1.0,0.0,63.0,28.0,4403.0,Cadiz
+,Dani Romera,es ESP,FW,8,1,0.0,2.0,2018-2019,b2855ce9,Cadiz,126,1.4,1.0,0.0,63.0,1.0,4395.0,Cadiz
+,Servando Sánchez,es ESP,DF,2,1,0.0,0.0,2018-2019,9e18df6,Cadiz,121,1.3,0.0,0.0,63.0,1.0,4374.0,Cadiz
+,Sergio González,es ESP,DF,2,1,0.0,0.0,2018-2019,5dd16ace,Cadiz,103,1.1,0.0,0.0,63.0,1.0,4404.0,Cadiz
+,Juan Hernández,es ESP,MF,2,0,0.0,0.0,2018-2019,1fc3c3d7,Cadiz,41,0.5,0.0,0.0,63.0,1.0,,Cadiz
+,Karim Azamoum,fr FRA,MF,3,0,0.0,0.0,2018-2019,f71a5e,Cadiz,31,0.3,0.0,0.0,63.0,4.0,,Cadiz
+,Cristian Arco,es ESP,GK,0,0,,,2018-2019,b2c5d4c8,Cadiz,,,,,63.0,1.0,4405.0,Cadiz
+,Saturday Erimuya,ng NGA,DF,0,0,,,2018-2019,925ddcd7,Cadiz,,,,,63.0,52.0,4406.0,Cadiz
+,David Gil,es ESP,GK,0,0,,,2018-2019,fea23125,Cadiz,,,,,63.0,1.0,,Cadiz
+,Javier Navarro,es ESP,MF,0,0,,,2018-2019,d6626d37,Cadiz,,,,,63.0,1.0,,Cadiz
+,Aleksandar Pantić,rs SRB,DF,0,0,,,2018-2019,70e5566a,Cadiz,,,,,63.0,28.0,,Cadiz
+,Israel Peter,ng NGA,FW,0,0,,,2018-2019,2057f4b2,Cadiz,,,,,63.0,52.0,4407.0,Cadiz
+,﻿Isaac Carcelen,es ESP,DF,39,39,1.0,2.0,2019-2020,c4b888df,Cadiz,"3,459",38.4,6.0,0.0,63.0,1.0,,Cadiz
+,Álex Fernández,es ESP,MF,41,38,6.0,13.0,2019-2020,677a35,Cadiz,"3,452",38.4,5.0,0.0,63.0,1.0,101.0,Cadiz
+,Alberto Cifuentes,es ESP,GK,39,38,0.0,0.0,2019-2020,94084f83,Cadiz,"3,381",37.6,2.0,1.0,63.0,1.0,,Cadiz
+,Alfonso Espino,uy URU,DF,36,36,2.0,1.0,2019-2020,db001fa9,Cadiz,"3,094",34.4,7.0,1.0,63.0,8.0,4401.0,Cadiz
+,Salvi,es ESP,MF,37,30,7.0,0.0,2019-2020,405f267a,Cadiz,"2,790",31.0,3.0,1.0,63.0,1.0,4379.0,Cadiz
+,Fali,es ESP,DF,30,28,0.0,1.0,2019-2020,72a84002,Cadiz,"2,525",28.1,13.0,0.0,63.0,1.0,4402.0,Cadiz
+,Alberto Perea,es ESP,MF,33,28,2.0,5.0,2019-2020,5496cc91,Cadiz,"2,212",24.6,6.0,2.0,63.0,1.0,,Cadiz
+,Cala,es ESP,DF,27,27,1.0,2.0,2019-2020,fe05804b,Cadiz,"2,369",26.3,9.0,0.0,63.0,1.0,,Cadiz
+,Anthony Lozano,hn HON,FW,33,27,1.0,10.0,2019-2020,38699c72,Cadiz,"2,226",24.7,10.0,1.0,63.0,107.0,4408.0,Cadiz
+,José Mari,es ESP,MF,29,24,1.0,1.0,2019-2020,6f4c734d,Cadiz,"1,986",22.1,9.0,2.0,63.0,1.0,,Cadiz
+,Jon Ander Garrido,es ESP,MF,24,22,1.0,1.0,2019-2020,c46736ab,Cadiz,"1,793",19.9,7.0,0.0,63.0,1.0,4363.0,Cadiz
+,Marcos Mauro López Gutiérrez,ar ARG,DF,17,15,0.0,2.0,2019-2020,b3b62f94,Cadiz,"1,381",15.3,4.0,1.0,63.0,5.0,4393.0,Cadiz
+,Yann Bodiger,fr FRA,MF,21,15,0.0,0.0,2019-2020,8c2c48a9,Cadiz,"1,091",12.1,5.0,1.0,63.0,4.0,4409.0,Cadiz
+,Edu Ramos,es ESP,MF,17,14,0.0,0.0,2019-2020,6793b40,Cadiz,"1,199",13.3,3.0,0.0,63.0,1.0,,Cadiz
+,Iván Alejo,es ESP,MF,31,12,2.0,1.0,2019-2020,3d7e48ce,Cadiz,"1,169",13.0,6.0,0.0,63.0,1.0,,Cadiz
+,Nano,es ESP,"FW,MF",29,12,4.0,3.0,2019-2020,217011a0,Cadiz,"1,151",12.8,2.0,0.0,63.0,1.0,,Cadiz
+,Sergio González,es ESP,"MF,DF",17,11,0.0,0.0,2019-2020,5dd16ace,Cadiz,"1,075",11.9,2.0,0.0,63.0,1.0,4404.0,Cadiz
+,Jean-Pierre Rhyner,ch SUI,DF,8,8,0.0,1.0,2019-2020,5459a36e,Cadiz,654,7.3,3.0,1.0,63.0,39.0,4410.0,Cadiz
+,Álvaro Giménez,es ESP,"FW,MF",13,5,0.0,1.0,2019-2020,18017beb,Cadiz,574,6.4,2.0,0.0,63.0,1.0,,Cadiz
+,Caye Quintana,es ESP,"FW,MF",13,5,0.0,1.0,2019-2020,42b47114,Cadiz,564,6.3,0.0,0.0,63.0,1.0,,Cadiz
+,José Manuel Jurado,es ESP,MF,15,4,0.0,0.0,2019-2020,71d4e271,Cadiz,486,5.4,1.0,0.0,63.0,1.0,50.0,Cadiz
+,Carlos Akapo,gq EQG,DF,7,4,0.0,0.0,2019-2020,f2a68b97,Cadiz,431,4.8,2.0,0.0,63.0,10.0,,Cadiz
+,Jorge Pombo,es ESP,MF,12,3,1.0,0.0,2019-2020,0a8bcb23,Cadiz,384,4.3,1.0,0.0,63.0,1.0,,Cadiz
+,David Gil,es ESP,GK,4,3,0.0,0.0,2019-2020,fea23125,Cadiz,303,3.4,1.0,0.0,63.0,1.0,,Cadiz
+,Filip Malbašić,rs SRB,"MF,FW",7,3,1.0,0.0,2019-2020,04981123,Cadiz,238,2.6,1.0,0.0,63.0,28.0,,Cadiz
+,Javier Navarro,es ESP,MF,8,2,0.0,1.0,2019-2020,d6626d37,Cadiz,262,2.9,0.0,0.0,63.0,1.0,,Cadiz
+,Luismi Quezada,do DOM,DF,4,2,0.0,0.0,2019-2020,53440b3c,Cadiz,181,2.0,2.0,1.0,63.0,25.0,152.0,Cadiz
+,Marc Baró,es ESP,DF,2,2,0.0,0.0,2019-2020,74aa6ab7,Cadiz,113,1.3,0.0,0.0,63.0,1.0,4412.0,Cadiz
+,David Querol,es ESP,FW,6,1,0.0,2.0,2019-2020,260a29e9,Cadiz,159,1.8,0.0,0.0,63.0,1.0,,Cadiz
+,Augusto Fernández,ar ARG,MF,4,1,0.0,0.0,2019-2020,78c40e94,Cadiz,154,1.7,0.0,0.0,63.0,5.0,,Cadiz
+,Juan Flere,ar ARG,GK,1,1,0.0,0.0,2019-2020,5d2b6df0,Cadiz,90,1.0,0.0,0.0,63.0,5.0,4413.0,Cadiz
+,Franco,es ESP,DF,1,1,0.0,0.0,2019-2020,8c6d136b,Cadiz,90,1.0,0.0,0.0,63.0,1.0,4414.0,Cadiz
+,Sergio Sánchez,es ESP,DF,1,1,0.0,0.0,2019-2020,83a83b0a,Cadiz,90,1.0,0.0,0.0,63.0,1.0,,Cadiz
+,Moisés Laínez,es ESP,DF,1,0,0.0,0.0,2019-2020,2357b9df,Cadiz,67,0.7,1.0,0.0,63.0,1.0,4415.0,Cadiz
+,Javi Duarte,es ESP,MF,1,0,0.0,0.0,2019-2020,2284c43e,Cadiz,36,0.4,0.0,0.0,63.0,1.0,4416.0,Cadiz
+,Seth Airam Vega,es ESP,FW,0,0,,,2019-2020,50ac5e20,Cadiz,,,,,63.0,1.0,4397.0,Cadiz
+,Cristian Arco,es ESP,GK,0,0,,,2019-2020,b2c5d4c8,Cadiz,,,,,63.0,1.0,4405.0,Cadiz
+,Mamady Diarra,ml MLI,FW,0,0,,,2019-2020,80211dc5,Cadiz,,,,,63.0,12.0,4417.0,Cadiz
+,Saturday Erimuya,ng NGA,DF,0,0,,,2019-2020,925ddcd7,Cadiz,,,,,63.0,52.0,4406.0,Cadiz
+,Nieto,es ESP,FW,0,0,,,2019-2020,3afeb49f,Cadiz,,,,,63.0,1.0,4418.0,Cadiz
+,﻿Jens Jønsson,dk DEN,MF,35,33,0.0,0.0,2020-2021,53520a67,Cadiz,"2,615",29.1,6.0,0.0,63.0,7.0,4419.0,Cadiz
+,Jeremías Ledesma,ar ARG,GK,32,32,0.0,0.0,2020-2021,6c4776b1,Cadiz,"2,880",32.0,0.0,0.0,63.0,5.0,4420.0,Cadiz
+,Alfonso Espino,uy URU,DF,32,31,3.0,0.0,2020-2021,db001fa9,Cadiz,"2,601",28.9,6.0,0.0,63.0,8.0,4401.0,Cadiz
+,Isaac Carcelen,es ESP,DF,32,31,1.0,0.0,2020-2021,c4b888df,Cadiz,"2,581",28.7,3.0,0.0,63.0,1.0,,Cadiz
+,Fali,es ESP,"DF,MF",34,29,0.0,0.0,2020-2021,72a84002,Cadiz,"2,637",29.3,11.0,0.0,63.0,1.0,4402.0,Cadiz
+,Álvaro Negredo,es ESP,FW,35,29,4.0,8.0,2020-2021,63b0ca6b,Cadiz,"2,198",24.4,5.0,1.0,63.0,1.0,,Cadiz
+,Cala,es ESP,DF,28,26,0.0,3.0,2020-2021,fe05804b,Cadiz,"2,272",25.2,8.0,0.0,63.0,1.0,,Cadiz
+,Salvi,es ESP,"MF,DF",28,25,0.0,2.0,2020-2021,405f267a,Cadiz,"1,933",21.5,5.0,0.0,63.0,1.0,4379.0,Cadiz
+,Marcos Mauro López Gutiérrez,ar ARG,DF,24,22,0.0,2.0,2020-2021,b3b62f94,Cadiz,"1,825",20.3,2.0,1.0,63.0,5.0,4393.0,Cadiz
+,Álex Fernández,es ESP,MF,25,21,1.0,4.0,2020-2021,677a35,Cadiz,"1,946",21.6,1.0,0.0,63.0,1.0,101.0,Cadiz
+,Anthony Lozano,hn HON,FW,29,18,1.0,3.0,2020-2021,38699c72,Cadiz,"1,523",16.9,5.0,0.0,63.0,107.0,4408.0,Cadiz
+,José Mari,es ESP,MF,22,18,0.0,1.0,2020-2021,6f4c734d,Cadiz,"1,451",16.1,5.0,0.0,63.0,1.0,,Cadiz
+,Alberto Perea,es ESP,MF,27,16,3.0,2.0,2020-2021,5496cc91,Cadiz,"1,549",17.2,0.0,0.0,63.0,1.0,,Cadiz
+,Jairo Izquierdo,es ESP,"MF,DF",30,11,0.0,1.0,2020-2021,2ceb58ab,Cadiz,"1,277",14.2,4.0,0.0,63.0,1.0,,Cadiz
+,Rubén Sobrino,es ESP,"FW,MF",16,11,0.0,1.0,2020-2021,19b776e9,Cadiz,"1,113",12.4,3.0,0.0,63.0,1.0,,Cadiz
+,Carlos Akapo,gq EQG,DF,13,10,0.0,1.0,2020-2021,f2a68b97,Cadiz,865,9.6,3.0,1.0,63.0,10.0,,Cadiz
+,Pedro Alcalá,es ESP,DF,13,8,0.0,0.0,2020-2021,ba71d071,Cadiz,909,10.1,2.0,0.0,63.0,1.0,,Cadiz
+,Filip Malbašić,rs SRB,"FW,MF",28,8,1.0,0.0,2020-2021,04981123,Cadiz,860,9.6,2.0,0.0,63.0,28.0,,Cadiz
+,Jon Ander Garrido,es ESP,MF,23,7,0.0,0.0,2020-2021,c46736ab,Cadiz,800,8.9,1.0,0.0,63.0,1.0,4363.0,Cadiz
+,Iván Alejo,es ESP,MF,22,6,1.0,1.0,2020-2021,3d7e48ce,Cadiz,827,9.2,5.0,0.0,63.0,1.0,,Cadiz
+,Jorge Pombo,es ESP,"MF,FW",12,5,0.0,1.0,2020-2021,0a8bcb23,Cadiz,523,5.8,1.0,0.0,63.0,1.0,,Cadiz
+,Augusto Fernández,ar ARG,MF,12,4,0.0,0.0,2020-2021,78c40e94,Cadiz,369,4.1,1.0,0.0,63.0,5.0,,Cadiz
+,David Gil,es ESP,GK,4,4,0.0,0.0,2020-2021,fea23125,Cadiz,360,4.0,0.0,0.0,63.0,1.0,,Cadiz
+,Álvaro Giménez,es ESP,FW,11,3,1.0,2.0,2020-2021,18017beb,Cadiz,407,4.5,0.0,0.0,63.0,1.0,,Cadiz
+,Ivan Šaponjić,rs SRB,FW,9,3,0.0,1.0,2020-2021,d2aea9ac,Cadiz,388,4.3,2.0,0.0,63.0,28.0,,Cadiz
+,Yann Bodiger,fr FRA,MF,9,2,0.0,0.0,2020-2021,8c2c48a9,Cadiz,251,2.8,0.0,0.0,63.0,4.0,4409.0,Cadiz
+,Alberto Cifuentes,es ESP,GK,2,2,0.0,0.0,2020-2021,94084f83,Cadiz,180,2.0,0.0,0.0,63.0,1.0,,Cadiz
+,Álex Martín,es ESP,DF,2,1,0.0,0.0,2020-2021,80153344,Cadiz,96,1.1,0.0,0.0,63.0,1.0,4421.0,Cadiz
+,Marc Baró,es ESP,DF,1,1,0.0,0.0,2020-2021,74aa6ab7,Cadiz,90,1.0,0.0,0.0,63.0,1.0,4412.0,Cadiz
+,Sergio González,es ESP,"MF,DF",1,1,0.0,0.0,2020-2021,5dd16ace,Cadiz,90,1.0,0.0,0.0,63.0,1.0,4404.0,Cadiz
+,Bobby Adekanye,nl NED,"FW,MF",3,0,0.0,0.0,2020-2021,3ed84b2c,Cadiz,36,0.4,0.0,0.0,63.0,11.0,4422.0,Cadiz
+,Álvaro Bastida,es ESP,MF,1,0,0.0,0.0,2020-2021,42a028c5,Cadiz,35,0.4,0.0,0.0,63.0,1.0,4423.0,Cadiz
+,Nieto,es ESP,"FW,DF",2,0,0.0,0.0,2020-2021,3afeb49f,Cadiz,14,0.2,0.0,0.0,63.0,1.0,4418.0,Cadiz
+,Nano,es ESP,FW,1,0,0.0,0.0,2020-2021,217011a0,Cadiz,9,0.1,0.0,0.0,63.0,1.0,,Cadiz
+,Mamady Diarra,ml MLI,FW,0,0,,,2020-2021,80211dc5,Cadiz,,,,,63.0,12.0,4417.0,Cadiz
+,Saturday Erimuya,ng NGA,DF,0,0,,,2020-2021,925ddcd7,Cadiz,,,,,63.0,52.0,4406.0,Cadiz
+,Juan Flere,ar ARG,GK,0,0,,,2020-2021,5d2b6df0,Cadiz,,,,,63.0,5.0,4413.0,Cadiz
+,Juanjo Garrancho,es ESP,GK,0,0,,,2020-2021,bc7d4,Cadiz,,,,,63.0,1.0,4424.0,Cadiz
+,Kike,es ESP,DF,0,0,,,2020-2021,b2aa30ce,Cadiz,,,,,63.0,1.0,4425.0,Cadiz
+,Javier Martín,es ESP,DF,0,0,,,2020-2021,789773d9,Cadiz,,,,,63.0,1.0,4426.0,Cadiz
+,Mamadou Mbaye,sn SEN,DF,0,0,,,2020-2021,8aae94b9,Cadiz,,,,,63.0,34.0,,Cadiz
+,Jean-Pierre Rhyner,ch SUI,DF,0,0,,,2020-2021,5459a36e,Cadiz,,,,,63.0,39.0,4410.0,Cadiz
+,﻿Jeremías Ledesma,ar ARG,GK,38,38,0.0,0.0,2021-2022,6c4776b1,Cadiz,"3,420",38.0,4.0,0.0,63.0,5.0,4420.0,Cadiz
+,Alfonso Espino,uy URU,DF,37,37,2.0,2.0,2021-2022,db001fa9,Cadiz,"3,329",37.0,6.0,0.0,63.0,8.0,4401.0,Cadiz
+,Álvaro Negredo,es ESP,FW,34,24,2.0,7.0,2021-2022,63b0ca6b,Cadiz,"2,157",24.0,3.0,0.0,63.0,1.0,,Cadiz
+,Fali,es ESP,"DF,MF",28,23,2.0,0.0,2021-2022,72a84002,Cadiz,"1,803",20.0,6.0,0.0,63.0,1.0,4402.0,Cadiz
+,Álex Fernández,es ESP,MF,32,22,2.0,3.0,2021-2022,677a35,Cadiz,"2,051",22.8,2.0,0.0,63.0,1.0,101.0,Cadiz
+,Carlos Akapo,gq EQG,DF,25,21,0.0,0.0,2021-2022,f2a68b97,Cadiz,"1,844",20.5,4.0,0.0,63.0,10.0,,Cadiz
+,Anthony Lozano,hn HON,"FW,MF",31,21,2.0,7.0,2021-2022,38699c72,Cadiz,"1,672",18.6,8.0,0.0,63.0,107.0,4408.0,Cadiz
+,Víctor Chust,es ESP,DF,25,20,0.0,0.0,2021-2022,c1a731e,Cadiz,"1,830",20.3,2.0,0.0,63.0,1.0,175.0,Cadiz
+,Rubén Sobrino,es ESP,"MF,FW",33,19,1.0,4.0,2021-2022,19b776e9,Cadiz,"1,861",20.7,4.0,0.0,63.0,1.0,,Cadiz
+,Isaac Carcelen,es ESP,"DF,MF",25,17,1.0,0.0,2021-2022,c4b888df,Cadiz,"1,544",17.2,2.0,0.0,63.0,1.0,,Cadiz
+,Salvi,es ESP,MF,23,17,1.0,2.0,2021-2022,405f267a,Cadiz,"1,395",15.5,3.0,1.0,63.0,1.0,4379.0,Cadiz
+,Jens Jønsson,dk DEN,MF,22,17,1.0,0.0,2021-2022,53520a67,Cadiz,"1,303",14.5,3.0,0.0,63.0,7.0,4419.0,Cadiz
+,Varazdat Haroyan,am ARM,DF,17,16,0.0,1.0,2021-2022,be32269e,Cadiz,"1,437",16.0,9.0,0.0,63.0,105.0,4427.0,Cadiz
+,Tomás Alarcón,cl CHI,MF,23,16,1.0,0.0,2021-2022,99ea2ddd,Cadiz,"1,425",15.8,5.0,0.0,63.0,31.0,4428.0,Cadiz
+,Luis Hernández,es ESP,DF,16,15,0.0,0.0,2021-2022,02d2c436,Cadiz,"1,366",15.2,5.0,0.0,63.0,1.0,,Cadiz
+,Rubén Alcaraz,es ESP,MF,14,12,0.0,2.0,2021-2022,036bba5f,Cadiz,"1,105",12.3,7.0,0.0,63.0,1.0,,Cadiz
+,Iván Alejo,es ESP,MF,20,11,2.0,2.0,2021-2022,3d7e48ce,Cadiz,"1,065",11.8,7.0,0.0,63.0,1.0,,Cadiz
+,Lucas Pérez,es ESP,"FW,MF",15,11,2.0,3.0,2021-2022,300ac7e,Cadiz,"1,060",11.8,1.0,0.0,63.0,1.0,,Cadiz
+,Oussama Idrissi,ma MAR,MF,12,11,1.0,1.0,2021-2022,34caa4b3,Cadiz,902,10.0,2.0,0.0,63.0,26.0,,Cadiz
+,Cala,es ESP,DF,14,10,0.0,0.0,2021-2022,fe05804b,Cadiz,947,10.5,8.0,1.0,63.0,1.0,,Cadiz
+,Fede San Emeterio,es ESP,MF,12,10,0.0,0.0,2021-2022,fecd633,Cadiz,830,9.2,3.0,0.0,63.0,1.0,,Cadiz
+,Alberto Perea,es ESP,MF,18,8,1.0,0.0,2021-2022,5496cc91,Cadiz,777,8.6,2.0,0.0,63.0,1.0,,Cadiz
+,Santiago Arzamendia,py PAR,MF,14,5,0.0,1.0,2021-2022,759d8dd7,Cadiz,469,5.2,2.0,0.0,63.0,43.0,4429.0,Cadiz
+,Chapela,es ESP,MF,9,4,0.0,0.0,2021-2022,9ed40a69,Cadiz,398,4.4,0.0,0.0,63.0,1.0,4430.0,Cadiz
+,José Mari,es ESP,MF,11,4,0.0,0.0,2021-2022,6f4c734d,Cadiz,386,4.3,3.0,1.0,63.0,1.0,,Cadiz
+,Milutin Osmajić,me MNE,"FW,MF",10,2,0.0,0.0,2021-2022,375ed9d7,Cadiz,257,2.9,0.0,0.0,63.0,33.0,4431.0,Cadiz
+,Álvaro Bastida,es ESP,MF,6,2,0.0,0.0,2021-2022,42a028c5,Cadiz,197,2.2,1.0,0.0,63.0,1.0,4423.0,Cadiz
+,Álvaro Jiménez,es ESP,"MF,FW",9,1,0.0,0.0,2021-2022,5f5501ed,Cadiz,234,2.6,0.0,0.0,63.0,1.0,,Cadiz
+,Florin Andone,ro ROU,FW,5,1,0.0,0.0,2021-2022,dc008610,Cadiz,176,2.0,1.0,0.0,63.0,51.0,,Cadiz
+,Marcos Mauro López Gutiérrez,ar ARG,DF,3,1,0.0,0.0,2021-2022,b3b62f94,Cadiz,136,1.5,1.0,0.0,63.0,5.0,4393.0,Cadiz
+,Martín,es ESP,MF,6,1,0.0,0.0,2021-2022,cbec0059,Cadiz,115,1.3,1.0,0.0,63.0,1.0,4432.0,Cadiz
+,Raúl Parra,es ESP,DF,2,1,0.0,0.0,2021-2022,647d39d2,Cadiz,88,1.0,0.0,0.0,63.0,1.0,4433.0,Cadiz
+,Pedro Benito,es ESP,FW,1,0,0.0,0.0,2021-2022,7416105,Cadiz,31,0.3,0.0,0.0,63.0,1.0,4434.0,Cadiz
+,Juan Flere,ar ARG,GK,0,0,,,2021-2022,5d2b6df0,Cadiz,,,,,63.0,5.0,4413.0,Cadiz
+,David Gil,es ESP,GK,0,0,,,2021-2022,fea23125,Cadiz,,,,,63.0,1.0,,Cadiz
+,Victor Wehbi,br BRA,GK,0,0,,,2021-2022,7378ea1b,Cadiz,,,,,63.0,2.0,4435.0,Cadiz

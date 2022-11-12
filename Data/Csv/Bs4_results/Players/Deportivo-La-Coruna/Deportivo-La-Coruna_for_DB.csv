@@ -1,0 +1,571 @@
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Roy Makaay,nl NED,FW,38,38,3.0,29.0,2002-2003,22cd2356,Deportivo-La-Coruna,"3,232",35.9,0.0,0.0,39.0,11.0,363.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,37,34,11.0,3.0,2002-2003,c6ed9815,Deportivo-La-Coruna,"2,939",32.7,4.0,0.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Mauro Silva,br BRA,MF,32,32,1.0,0.0,2002-2003,0c2beece,Deportivo-La-Coruna,"2,851",31.7,10.0,0.0,39.0,2.0,365.0,Deportivo-La-Coruna
+,Enrique Romero,es ESP,DF,31,31,4.0,1.0,2002-2003,7714c21a,Deportivo-La-Coruna,"2,710",30.1,2.0,1.0,39.0,1.0,366.0,Deportivo-La-Coruna
+,Juanmi,es ESP,GK,27,27,0.0,0.0,2002-2003,9c6886e6,Deportivo-La-Coruna,"2,410",26.8,0.0,0.0,39.0,1.0,367.0,Deportivo-La-Coruna
+,Fran,es ESP,MF,28,26,4.0,1.0,2002-2003,5a8170c0,Deportivo-La-Coruna,"1,945",21.6,4.0,0.0,39.0,1.0,368.0,Deportivo-La-Coruna
+,Lionel Scaloni,ar ARG,"DF,MF",32,25,2.0,3.0,2002-2003,6cc4990c,Deportivo-La-Coruna,"2,403",26.7,5.0,0.0,39.0,5.0,369.0,Deportivo-La-Coruna
+,Víctor Sánchez,es ESP,MF,30,25,13.0,4.0,2002-2003,811bc23c,Deportivo-La-Coruna,"2,118",23.5,8.0,0.0,39.0,1.0,370.0,Deportivo-La-Coruna
+,Noureddine Naybet,ma MAR,DF,25,25,0.0,1.0,2002-2003,fa01d80f,Deportivo-La-Coruna,"2,085",23.2,5.0,1.0,39.0,26.0,371.0,Deportivo-La-Coruna
+,César Martín,es ESP,DF,20,20,0.0,0.0,2002-2003,f29d6eb0,Deportivo-La-Coruna,"1,698",18.9,7.0,1.0,39.0,1.0,372.0,Deportivo-La-Coruna
+,Héctor Berenguel,es ESP,DF,22,18,1.0,0.0,2002-2003,ff6f0518,Deportivo-La-Coruna,"1,679",18.7,5.0,0.0,39.0,1.0,373.0,Deportivo-La-Coruna
+,Aldo Duscher,ar ARG,MF,31,16,0.0,0.0,2002-2003,44944ca7,Deportivo-La-Coruna,"1,670",18.6,8.0,0.0,39.0,5.0,374.0,Deportivo-La-Coruna
+,Diego Tristán,es ESP,FW,23,16,0.0,9.0,2002-2003,63209c5,Deportivo-La-Coruna,"1,251",13.9,2.0,1.0,39.0,1.0,375.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,23,14,6.0,2.0,2002-2003,71e8d6b0,Deportivo-La-Coruna,"1,343",14.9,1.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Donato,es ESP,"DF,MF",16,14,0.0,3.0,2002-2003,78f034ac,Deportivo-La-Coruna,"1,288",14.3,1.0,0.0,39.0,1.0,377.0,Deportivo-La-Coruna
+,Joan Capdevila,es ESP,DF,25,12,1.0,3.0,2002-2003,69697a6d,Deportivo-La-Coruna,"1,375",15.3,3.0,0.0,39.0,1.0,378.0,Deportivo-La-Coruna
+,Jorge Andrade,pt POR,DF,11,11,0.0,0.0,2002-2003,8704272f,Deportivo-La-Coruna,907,10.1,2.0,0.0,39.0,3.0,379.0,Deportivo-La-Coruna
+,José Amavisca,es ESP,"FW,MF",19,11,0.0,0.0,2002-2003,2cf17c90,Deportivo-La-Coruna,859,9.5,2.0,0.0,39.0,1.0,380.0,Deportivo-La-Coruna
+,José Molina,es ESP,GK,10,10,0.0,0.0,2002-2003,b0d136e8,Deportivo-La-Coruna,900,10.0,0.0,0.0,39.0,1.0,381.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,10,7,0.0,0.0,2002-2003,c1776cef,Deportivo-La-Coruna,567,6.3,1.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Albert Luque,es ESP,"FW,MF",32,5,4.0,8.0,2002-2003,80a6b1d8,Deportivo-La-Coruna,982,10.9,0.0,0.0,39.0,1.0,383.0,Deportivo-La-Coruna
+,Dani Mallo,es ESP,GK,2,1,0.0,0.0,2002-2003,c965e3d0,Deportivo-La-Coruna,110,1.2,0.0,0.0,39.0,1.0,384.0,Deportivo-La-Coruna
+,Roberto Acuña,py PAR,MF,7,0,0.0,0.0,2002-2003,8b70bf2f,Deportivo-La-Coruna,144,1.6,0.0,0.0,39.0,43.0,385.0,Deportivo-La-Coruna
+,Goran Đorović,rs SRB,DF,1,0,0.0,0.0,2002-2003,1b5c999,Deportivo-La-Coruna,45,0.5,0.0,0.0,39.0,28.0,386.0,Deportivo-La-Coruna
+,﻿Jorge Andrade,pt POR,DF,37,37,0.0,0.0,2003-2004,8704272f,Deportivo-La-Coruna,"3,330",37.0,8.0,0.0,39.0,3.0,379.0,Deportivo-La-Coruna
+,José Molina,es ESP,GK,33,33,0.0,0.0,2003-2004,b0d136e8,Deportivo-La-Coruna,"2,970",33.0,4.0,0.0,39.0,1.0,381.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,34,33,5.0,3.0,2003-2004,71e8d6b0,Deportivo-La-Coruna,"2,617",29.1,1.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,37,32,3.0,3.0,2003-2004,c6ed9815,Deportivo-La-Coruna,"2,705",30.1,7.0,0.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Albert Luque,es ESP,"FW,MF",32,28,5.0,8.0,2003-2004,80a6b1d8,Deportivo-La-Coruna,"2,112",23.5,4.0,0.0,39.0,1.0,383.0,Deportivo-La-Coruna
+,Mauro Silva,br BRA,MF,27,27,1.0,0.0,2003-2004,0c2beece,Deportivo-La-Coruna,"2,255",25.1,9.0,2.0,39.0,2.0,365.0,Deportivo-La-Coruna
+,Joan Capdevila,es ESP,DF,27,26,1.0,4.0,2003-2004,69697a6d,Deportivo-La-Coruna,"2,316",25.7,2.0,0.0,39.0,1.0,378.0,Deportivo-La-Coruna
+,Víctor Sánchez,es ESP,MF,31,26,10.0,6.0,2003-2004,811bc23c,Deportivo-La-Coruna,"2,112",23.5,8.0,0.0,39.0,1.0,370.0,Deportivo-La-Coruna
+,Diego Tristán,es ESP,FW,34,22,4.0,8.0,2003-2004,63209c5,Deportivo-La-Coruna,"1,898",21.1,1.0,0.0,39.0,1.0,375.0,Deportivo-La-Coruna
+,César Martín,es ESP,DF,16,16,0.0,0.0,2003-2004,f29d6eb0,Deportivo-La-Coruna,"1,424",15.8,6.0,1.0,39.0,1.0,372.0,Deportivo-La-Coruna
+,Héctor Berenguel,es ESP,DF,17,16,1.0,0.0,2003-2004,ff6f0518,Deportivo-La-Coruna,"1,423",15.8,1.0,2.0,39.0,1.0,373.0,Deportivo-La-Coruna
+,Noureddine Naybet,ma MAR,DF,16,16,0.0,1.0,2003-2004,fa01d80f,Deportivo-La-Coruna,"1,409",15.7,4.0,0.0,39.0,26.0,371.0,Deportivo-La-Coruna
+,Walter Pandiani,uy URU,FW,28,15,2.0,14.0,2003-2004,11899bb1,Deportivo-La-Coruna,"1,539",17.1,3.0,0.0,39.0,8.0,387.0,Deportivo-La-Coruna
+,Aldo Duscher,ar ARG,MF,25,15,1.0,0.0,2003-2004,44944ca7,Deportivo-La-Coruna,"1,476",16.4,6.0,0.0,39.0,5.0,374.0,Deportivo-La-Coruna
+,Lionel Scaloni,ar ARG,"DF,MF",23,15,1.0,2.0,2003-2004,6cc4990c,Deportivo-La-Coruna,"1,428",15.9,7.0,1.0,39.0,5.0,369.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,18,15,0.0,0.0,2003-2004,c1776cef,Deportivo-La-Coruna,"1,395",15.5,3.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Enrique Romero,es ESP,DF,17,14,3.0,1.0,2003-2004,7714c21a,Deportivo-La-Coruna,"1,323",14.7,3.0,0.0,39.0,1.0,366.0,Deportivo-La-Coruna
+,Fran,es ESP,MF,31,13,3.0,1.0,2003-2004,5a8170c0,Deportivo-La-Coruna,"1,433",15.9,5.0,0.0,39.0,1.0,368.0,Deportivo-La-Coruna
+,Pedro Munitis,es ESP,FW,21,6,1.0,2.0,2003-2004,61b5cd53,Deportivo-La-Coruna,859,9.5,2.0,0.0,39.0,1.0,388.0,Deportivo-La-Coruna
+,Pablo Amo,es ESP,DF,5,5,0.0,0.0,2003-2004,2ee60d39,Deportivo-La-Coruna,450,5.0,0.0,0.0,39.0,1.0,389.0,Deportivo-La-Coruna
+,Gustavo Munúa,uy URU,GK,5,5,0.0,0.0,2003-2004,7e384992,Deportivo-La-Coruna,443,4.9,1.0,0.0,39.0,8.0,390.0,Deportivo-La-Coruna
+,Djalminha,br BRA,"FW,MF",11,2,0.0,2.0,2003-2004,1dce6791,Deportivo-La-Coruna,366,4.1,2.0,0.0,39.0,2.0,391.0,Deportivo-La-Coruna
+,José Amavisca,es ESP,"FW,MF",4,1,0.0,0.0,2003-2004,2cf17c90,Deportivo-La-Coruna,148,1.6,0.0,0.0,39.0,1.0,380.0,Deportivo-La-Coruna
+,Iván Pérez Muñoz,es ESP,FW,2,0,0.0,0.0,2003-2004,08087521,Deportivo-La-Coruna,39,0.4,0.0,0.0,39.0,1.0,,Deportivo-La-Coruna
+,Jacques Songo'o,cm CMR,GK,1,0,0.0,0.0,2003-2004,1d51be3b,Deportivo-La-Coruna,7,0.1,0.0,0.0,39.0,36.0,393.0,Deportivo-La-Coruna
+,﻿Juan Carlos Valerón,es ESP,MF,38,36,8.0,1.0,2004-2005,71e8d6b0,Deportivo-La-Coruna,"3,115",34.6,3.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Jorge Andrade,pt POR,DF,35,35,0.0,1.0,2004-2005,8704272f,Deportivo-La-Coruna,"3,150",35.0,6.0,0.0,39.0,3.0,379.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,34,33,1.0,3.0,2004-2005,c6ed9815,Deportivo-La-Coruna,"2,749",30.5,3.0,0.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,30,30,0.0,0.0,2004-2005,c1776cef,Deportivo-La-Coruna,"2,479",27.5,3.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Enrique Romero,es ESP,DF,29,27,1.0,0.0,2004-2005,7714c21a,Deportivo-La-Coruna,"2,286",25.4,4.0,0.0,39.0,1.0,366.0,Deportivo-La-Coruna
+,Albert Luque,es ESP,"FW,MF",37,26,2.0,11.0,2004-2005,80a6b1d8,Deportivo-La-Coruna,"2,267",25.2,4.0,0.0,39.0,1.0,383.0,Deportivo-La-Coruna
+,Lionel Scaloni,ar ARG,"DF,MF",27,22,1.0,1.0,2004-2005,6cc4990c,Deportivo-La-Coruna,"1,945",21.6,5.0,1.0,39.0,5.0,369.0,Deportivo-La-Coruna
+,Pedro Munitis,es ESP,FW,36,21,7.0,1.0,2004-2005,61b5cd53,Deportivo-La-Coruna,"1,893",21.0,8.0,0.0,39.0,1.0,388.0,Deportivo-La-Coruna
+,José Molina,es ESP,GK,21,21,0.0,0.0,2004-2005,b0d136e8,Deportivo-La-Coruna,"1,890",21.0,1.0,0.0,39.0,1.0,381.0,Deportivo-La-Coruna
+,Aldo Duscher,ar ARG,MF,29,20,1.0,0.0,2004-2005,44944ca7,Deportivo-La-Coruna,"1,869",20.8,9.0,0.0,39.0,5.0,374.0,Deportivo-La-Coruna
+,Víctor Sánchez,es ESP,MF,30,18,2.0,3.0,2004-2005,811bc23c,Deportivo-La-Coruna,"1,710",19.0,5.0,0.0,39.0,1.0,370.0,Deportivo-La-Coruna
+,Diego Tristán,es ESP,FW,23,18,3.0,9.0,2004-2005,63209c5,Deportivo-La-Coruna,"1,414",15.7,1.0,0.0,39.0,1.0,375.0,Deportivo-La-Coruna
+,Gustavo Munúa,uy URU,GK,16,16,0.0,0.0,2004-2005,7e384992,Deportivo-La-Coruna,"1,440",16.0,2.0,0.0,39.0,8.0,390.0,Deportivo-La-Coruna
+,Fabricio Coloccini,ar ARG,"DF,MF",15,15,0.0,1.0,2004-2005,78b3399f,Deportivo-La-Coruna,"1,337",14.9,4.0,1.0,39.0,5.0,394.0,Deportivo-La-Coruna
+,Joan Capdevila,es ESP,DF,21,14,3.0,1.0,2004-2005,69697a6d,Deportivo-La-Coruna,"1,350",15.0,4.0,0.0,39.0,1.0,378.0,Deportivo-La-Coruna
+,Mauro Silva,br BRA,MF,20,14,0.0,0.0,2004-2005,0c2beece,Deportivo-La-Coruna,"1,099",12.2,0.0,0.0,39.0,2.0,365.0,Deportivo-La-Coruna
+,César Martín,es ESP,DF,14,14,0.0,0.0,2004-2005,f29d6eb0,Deportivo-La-Coruna,"1,072",11.9,8.0,1.0,39.0,1.0,372.0,Deportivo-La-Coruna
+,Walter Pandiani,uy URU,FW,15,11,1.0,6.0,2004-2005,11899bb1,Deportivo-La-Coruna,975,10.8,3.0,0.0,39.0,8.0,387.0,Deportivo-La-Coruna
+,Fran,es ESP,MF,29,10,0.0,1.0,2004-2005,5a8170c0,Deportivo-La-Coruna,"1,128",12.5,2.0,0.0,39.0,1.0,368.0,Deportivo-La-Coruna
+,Pablo Amo,es ESP,DF,13,10,0.0,2.0,2004-2005,2ee60d39,Deportivo-La-Coruna,759,8.4,0.0,0.0,39.0,1.0,389.0,Deportivo-La-Coruna
+,Xisco,es ESP,FW,7,4,0.0,2.0,2004-2005,d2790f7a,Deportivo-La-Coruna,344,3.8,1.0,0.0,39.0,1.0,395.0,Deportivo-La-Coruna
+,Héctor Berenguel,es ESP,DF,6,2,0.0,0.0,2004-2005,ff6f0518,Deportivo-La-Coruna,232,2.6,0.0,0.0,39.0,1.0,373.0,Deportivo-La-Coruna
+,Dani Mallo,es ESP,GK,1,1,0.0,0.0,2004-2005,c965e3d0,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,1.0,384.0,Deportivo-La-Coruna
+,Roberto Acuña,py PAR,MF,2,0,0.0,0.0,2004-2005,8b70bf2f,Deportivo-La-Coruna,44,0.5,0.0,0.0,39.0,43.0,385.0,Deportivo-La-Coruna
+,Changui,es ESP,FW,2,0,0.0,0.0,2004-2005,5fab2c25,Deportivo-La-Coruna,14,0.2,0.0,0.0,39.0,1.0,396.0,Deportivo-La-Coruna
+,Carlos Pita,es ESP,"DF,MF",1,0,,0.0,2004-2005,d2cee2aa,Deportivo-La-Coruna,12,0.1,0.0,0.0,39.0,1.0,397.0,Deportivo-La-Coruna
+,﻿José Molina,es ESP,GK,38,38,0.0,0.0,2005-2006,b0d136e8,Deportivo-La-Coruna,"3,420",38.0,3.0,0.0,39.0,1.0,381.0,Deportivo-La-Coruna
+,Joan Capdevila,es ESP,DF,36,36,1.0,4.0,2005-2006,69697a6d,Deportivo-La-Coruna,"3,205",35.6,10.0,0.0,39.0,1.0,378.0,Deportivo-La-Coruna
+,Pedro Munitis,es ESP,FW,33,32,7.0,2.0,2005-2006,61b5cd53,Deportivo-La-Coruna,"2,728",30.3,10.0,1.0,39.0,1.0,388.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,36,31,5.0,3.0,2005-2006,c6ed9815,Deportivo-La-Coruna,"2,711",30.1,7.0,0.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Aldo Duscher,ar ARG,MF,31,31,2.0,0.0,2005-2006,44944ca7,Deportivo-La-Coruna,"2,664",29.6,16.0,0.0,39.0,5.0,374.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,31,28,1.0,0.0,2005-2006,c1776cef,Deportivo-La-Coruna,"2,575",28.6,7.0,1.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Diego Tristán,es ESP,FW,36,27,2.0,11.0,2005-2006,63209c5,Deportivo-La-Coruna,"2,300",25.6,6.0,0.0,39.0,1.0,375.0,Deportivo-La-Coruna
+,Fabricio Coloccini,ar ARG,"DF,MF",26,23,0.0,0.0,2005-2006,78b3399f,Deportivo-La-Coruna,"2,127",23.6,6.0,2.0,39.0,5.0,394.0,Deportivo-La-Coruna
+,Juanma,es ESP,DF,23,22,0.0,4.0,2005-2006,209581c1,Deportivo-La-Coruna,"1,966",21.8,8.0,0.0,39.0,1.0,398.0,Deportivo-La-Coruna
+,Jorge Andrade,pt POR,DF,18,18,3.0,1.0,2005-2006,8704272f,Deportivo-La-Coruna,"1,533",17.0,8.0,0.0,39.0,3.0,379.0,Deportivo-La-Coruna
+,Víctor Sánchez,es ESP,MF,21,18,2.0,4.0,2005-2006,811bc23c,Deportivo-La-Coruna,"1,473",16.4,5.0,0.0,39.0,1.0,370.0,Deportivo-La-Coruna
+,Enrique Romero,es ESP,DF,20,17,1.0,0.0,2005-2006,7714c21a,Deportivo-La-Coruna,"1,536",17.1,2.0,0.0,39.0,1.0,366.0,Deportivo-La-Coruna
+,Julian de Guzmán,ca CAN,MF,22,17,2.0,1.0,2005-2006,755bf6b4,Deportivo-La-Coruna,"1,470",16.3,8.0,1.0,39.0,44.0,399.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,20,17,2.0,4.0,2005-2006,71e8d6b0,Deportivo-La-Coruna,"1,467",16.3,0.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Héctor Berenguel,es ESP,DF,15,15,2.0,0.0,2005-2006,ff6f0518,Deportivo-La-Coruna,"1,278",14.2,3.0,0.0,39.0,1.0,373.0,Deportivo-La-Coruna
+,Rubén Castro,es ESP,"FW,MF",24,13,0.0,3.0,2005-2006,d109f62b,Deportivo-La-Coruna,"1,080",12.0,2.0,0.0,39.0,1.0,400.0,Deportivo-La-Coruna
+,Javier Arizmendi,es ESP,"FW,MF",17,12,1.0,2.0,2005-2006,14a6c075,Deportivo-La-Coruna,"1,072",11.9,2.0,0.0,39.0,1.0,401.0,Deportivo-La-Coruna
+,Lionel Scaloni,ar ARG,"DF,MF",15,8,0.0,0.0,2005-2006,6cc4990c,Deportivo-La-Coruna,724,8.0,3.0,0.0,39.0,5.0,369.0,Deportivo-La-Coruna
+,Iago Iglesias,es ESP,MF,11,8,0.0,2.0,2005-2006,3fc7655e,Deportivo-La-Coruna,660,7.3,2.0,0.0,39.0,1.0,402.0,Deportivo-La-Coruna
+,César Martín,es ESP,DF,7,2,0.0,0.0,2005-2006,f29d6eb0,Deportivo-La-Coruna,204,2.3,3.0,0.0,39.0,1.0,372.0,Deportivo-La-Coruna
+,Iván Carril,es ESP,"FW,MF",10,1,2.0,1.0,2005-2006,cffba7fc,Deportivo-La-Coruna,302,3.4,1.0,0.0,39.0,1.0,403.0,Deportivo-La-Coruna
+,Xisco,es ESP,FW,12,1,1.0,1.0,2005-2006,d2790f7a,Deportivo-La-Coruna,296,3.3,1.0,0.0,39.0,1.0,395.0,Deportivo-La-Coruna
+,Francisco Gallardo,es ESP,MF,7,1,0.0,0.0,2005-2006,be80c87c,Deportivo-La-Coruna,213,2.4,2.0,0.0,39.0,1.0,404.0,Deportivo-La-Coruna
+,Momo,es ESP,MF,5,1,1.0,0.0,2005-2006,9857e65d,Deportivo-La-Coruna,156,1.7,1.0,0.0,39.0,1.0,405.0,Deportivo-La-Coruna
+,Senel,es ESP,"FW,MF",3,1,0.0,0.0,2005-2006,4452ea0e,Deportivo-La-Coruna,76,0.8,0.0,0.0,39.0,1.0,406.0,Deportivo-La-Coruna
+,Sebastián Taborda,uy URU,FW,9,0,0.0,1.0,2005-2006,c26f57a6,Deportivo-La-Coruna,205,2.3,1.0,0.0,39.0,8.0,407.0,Deportivo-La-Coruna
+,Roberto Acuña,py PAR,MF,5,0,0.0,0.0,2005-2006,8b70bf2f,Deportivo-La-Coruna,82,0.9,0.0,0.0,39.0,43.0,385.0,Deportivo-La-Coruna
+,Jesús Muñoz,es ESP,MF,1,0,,0.0,2005-2006,336a06bd,Deportivo-La-Coruna,17,0.2,0.0,0.0,39.0,1.0,408.0,Deportivo-La-Coruna
+,﻿Dudu Aouate,il ISR,GK,38,38,0.0,0.0,2006-2007,4d1b3701,Deportivo-La-Coruna,"3,420",38.0,3.0,0.0,39.0,45.0,409.0,Deportivo-La-Coruna
+,Joan Capdevila,es ESP,DF,34,34,3.0,4.0,2006-2007,69697a6d,Deportivo-La-Coruna,"3,034",33.7,9.0,1.0,39.0,1.0,378.0,Deportivo-La-Coruna
+,Javier Arizmendi,es ESP,"FW,MF",33,32,3.0,5.0,2006-2007,14a6c075,Deportivo-La-Coruna,"2,711",30.1,4.0,1.0,39.0,1.0,401.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,31,30,0.0,1.0,2006-2007,17cd5bb7,Deportivo-La-Coruna,"2,695",29.9,10.0,1.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,33,29,3.0,3.0,2006-2007,b21507f,Deportivo-La-Coruna,"2,217",24.6,5.0,0.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Fabricio Coloccini,ar ARG,"DF,MF",26,26,0.0,0.0,2006-2007,78b3399f,Deportivo-La-Coruna,"2,201",24.5,8.0,0.0,39.0,5.0,394.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,28,26,1.0,2.0,2006-2007,c6ed9815,Deportivo-La-Coruna,"1,953",21.7,7.0,0.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Cristian Hidalgo,es ESP,"FW,MF",29,25,2.0,1.0,2006-2007,262b9f04,Deportivo-La-Coruna,"2,006",22.3,7.0,1.0,39.0,1.0,427.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,MF,31,22,0.0,4.0,2006-2007,25c3c939,Deportivo-La-Coruna,"2,178",24.2,7.0,0.0,39.0,1.0,412.0,Deportivo-La-Coruna
+,Jorge Andrade,pt POR,DF,22,22,0.0,0.0,2006-2007,8704272f,Deportivo-La-Coruna,"1,904",21.2,8.0,1.0,39.0,3.0,379.0,Deportivo-La-Coruna
+,Álvaro Arbeloa,es ESP,DF,20,20,0.0,0.0,2006-2007,6dc73abd,Deportivo-La-Coruna,"1,761",19.6,5.0,0.0,39.0,1.0,34.0,Deportivo-La-Coruna
+,Fabián Estoyanoff,uy URU,"FW,MF",28,18,0.0,1.0,2006-2007,7ac6198d,Deportivo-La-Coruna,"1,631",18.1,9.0,1.0,39.0,8.0,413.0,Deportivo-La-Coruna
+,Julian de Guzmán,ca CAN,MF,20,17,0.0,0.0,2006-2007,755bf6b4,Deportivo-La-Coruna,"1,444",16.0,6.0,1.0,39.0,44.0,399.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,15,12,0.0,0.0,2006-2007,c1776cef,Deportivo-La-Coruna,"1,185",13.2,1.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Aldo Duscher,ar ARG,MF,15,12,0.0,0.0,2006-2007,44944ca7,Deportivo-La-Coruna,937,10.4,5.0,0.0,39.0,5.0,374.0,Deportivo-La-Coruna
+,Antonio Barragán,es ESP,"DF,MF",16,11,0.0,2.0,2006-2007,487d9b09,Deportivo-La-Coruna,917,10.2,4.0,0.0,39.0,1.0,414.0,Deportivo-La-Coruna
+,Joan Verdú,es ESP,MF,27,10,0.0,1.0,2006-2007,61508522,Deportivo-La-Coruna,"1,373",15.3,3.0,0.0,39.0,1.0,415.0,Deportivo-La-Coruna
+,Filipe Luís,br BRA,DF,19,10,2.0,0.0,2006-2007,4ed2628,Deportivo-La-Coruna,999,11.1,2.0,1.0,39.0,2.0,416.0,Deportivo-La-Coruna
+,Juanma,es ESP,DF,7,7,0.0,0.0,2006-2007,209581c1,Deportivo-La-Coruna,568,6.3,4.0,2.0,39.0,1.0,398.0,Deportivo-La-Coruna
+,Adrián López,es ESP,"FW,MF",15,6,1.0,1.0,2006-2007,88a359d4,Deportivo-La-Coruna,758,8.4,2.0,0.0,39.0,1.0,417.0,Deportivo-La-Coruna
+,Pablo Álvarez,es ESP,MF,7,4,0.0,0.0,2006-2007,08af8dbe,Deportivo-La-Coruna,343,3.8,2.0,0.0,39.0,1.0,418.0,Deportivo-La-Coruna
+,Sebastián Taborda,uy URU,FW,16,2,2.0,2.0,2006-2007,c26f57a6,Deportivo-La-Coruna,526,5.8,2.0,1.0,39.0,8.0,407.0,Deportivo-La-Coruna
+,Iago Iglesias,es ESP,MF,9,2,0.0,2.0,2006-2007,3fc7655e,Deportivo-La-Coruna,270,3.0,0.0,0.0,39.0,1.0,402.0,Deportivo-La-Coruna
+,Rodolfo Bodipo,gq EQG,FW,7,2,1.0,2.0,2006-2007,6cf2bc0e,Deportivo-La-Coruna,267,3.0,2.0,0.0,39.0,10.0,419.0,Deportivo-La-Coruna
+,Rubén Rivera,es ESP,FW,1,1,0.0,0.0,2006-2007,3c383831,Deportivo-La-Coruna,55,0.6,0.0,0.0,39.0,1.0,420.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,2,0,,0.0,2006-2007,71e8d6b0,Deportivo-La-Coruna,5,0.1,0.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Rodri,es ESP,DF,1,0,,0.0,2006-2007,7fa4aa89,Deportivo-La-Coruna,2,0.0,0.0,0.0,39.0,1.0,421.0,Deportivo-La-Coruna
+,﻿Fabricio Coloccini,ar ARG,"DF,MF",38,38,0.0,4.0,2007-2008,78b3399f,Deportivo-La-Coruna,"3,420",38.0,2.0,0.0,39.0,5.0,394.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,34,34,3.0,0.0,2007-2008,c1776cef,Deportivo-La-Coruna,"2,985",33.2,5.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Julian de Guzmán,ca CAN,MF,35,33,0.0,0.0,2007-2008,755bf6b4,Deportivo-La-Coruna,"2,914",32.4,9.0,0.0,39.0,44.0,399.0,Deportivo-La-Coruna
+,Filipe Luís,br BRA,DF,33,32,1.0,1.0,2007-2008,4ed2628,Deportivo-La-Coruna,"2,870",31.9,4.0,1.0,39.0,2.0,416.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,32,29,4.0,5.0,2007-2008,c6ed9815,Deportivo-La-Coruna,"2,566",28.5,7.0,1.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Dudu Aouate,il ISR,GK,28,28,0.0,0.0,2007-2008,4d1b3701,Deportivo-La-Coruna,"2,520",28.0,1.0,0.0,39.0,45.0,409.0,Deportivo-La-Coruna
+,Xisco,es ESP,FW,25,23,1.0,9.0,2007-2008,d2790f7a,Deportivo-La-Coruna,"1,605",17.8,3.0,0.0,39.0,1.0,395.0,Deportivo-La-Coruna
+,Andrés Guardado,mx MEX,"DF,FW",26,22,3.0,5.0,2007-2008,f322658,Deportivo-La-Coruna,"1,939",21.5,4.0,0.0,39.0,20.0,422.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,21,21,0.0,1.0,2007-2008,17cd5bb7,Deportivo-La-Coruna,"1,838",20.4,6.0,0.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Pablo Amo,es ESP,DF,19,19,0.0,3.0,2007-2008,2ee60d39,Deportivo-La-Coruna,"1,691",18.8,3.0,1.0,39.0,1.0,389.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,MF,26,18,0.0,1.0,2007-2008,25c3c939,Deportivo-La-Coruna,"1,521",16.9,2.0,0.0,39.0,1.0,412.0,Deportivo-La-Coruna
+,Ángel Lafita,es ESP,"FW,MF",24,18,2.0,3.0,2007-2008,0b68c35a,Deportivo-La-Coruna,"1,412",15.7,5.0,0.0,39.0,1.0,423.0,Deportivo-La-Coruna
+,Joan Verdú,es ESP,MF,24,16,2.0,1.0,2007-2008,61508522,Deportivo-La-Coruna,"1,522",16.9,0.0,0.0,39.0,1.0,415.0,Deportivo-La-Coruna
+,Adrián López,es ESP,DF,13,13,0.0,0.0,2007-2008,70392341,Deportivo-La-Coruna,"1,165",12.9,2.0,0.0,39.0,1.0,424.0,Deportivo-La-Coruna
+,Christian Wilhelmsson,se SWE,MF,15,13,2.0,1.0,2007-2008,98823f2,Deportivo-La-Coruna,"1,108",12.3,3.0,0.0,39.0,41.0,425.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,32,8,2.0,5.0,2007-2008,b21507f,Deportivo-La-Coruna,"1,108",12.3,8.0,1.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Antonio Barragán,es ESP,"DF,MF",10,8,1.0,0.0,2007-2008,487d9b09,Deportivo-La-Coruna,675,7.5,2.0,0.0,39.0,1.0,414.0,Deportivo-La-Coruna
+,Antonio Tomás,es ESP,MF,12,8,0.0,0.0,2007-2008,668d4e93,Deportivo-La-Coruna,657,7.3,2.0,0.0,39.0,1.0,426.0,Deportivo-La-Coruna
+,Rodolfo Bodipo,gq EQG,FW,19,7,0.0,1.0,2007-2008,6cf2bc0e,Deportivo-La-Coruna,823,9.1,1.0,0.0,39.0,10.0,419.0,Deportivo-La-Coruna
+,Cristian Hidalgo,es ESP,"FW,MF",14,7,0.0,1.0,2007-2008,262b9f04,Deportivo-La-Coruna,686,7.6,2.0,0.0,39.0,1.0,427.0,Deportivo-La-Coruna
+,Fabricio,es ESP,GK,6,6,0.0,0.0,2007-2008,f245161,Deportivo-La-Coruna,540,6.0,2.0,0.0,39.0,1.0,428.0,Deportivo-La-Coruna
+,Adrián López,es ESP,"FW,MF",9,5,0.0,0.0,2007-2008,88a359d4,Deportivo-La-Coruna,487,5.4,2.0,0.0,39.0,1.0,417.0,Deportivo-La-Coruna
+,Gustavo Munúa,uy URU,GK,4,4,0.0,0.0,2007-2008,7e384992,Deportivo-La-Coruna,360,4.0,1.0,0.0,39.0,8.0,390.0,Deportivo-La-Coruna
+,Sebastián Taborda,uy URU,FW,16,3,0.0,2.0,2007-2008,c26f57a6,Deportivo-La-Coruna,515,5.7,1.0,0.0,39.0,8.0,407.0,Deportivo-La-Coruna
+,Rubén Castro,es ESP,"FW,MF",7,2,0.0,1.0,2007-2008,d109f62b,Deportivo-La-Coruna,249,2.8,0.0,0.0,39.0,1.0,400.0,Deportivo-La-Coruna
+,Aythami Artiles,es ESP,DF,1,1,0.0,0.0,2007-2008,01ae64cd,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,1.0,429.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,1,1,0.0,0.0,2007-2008,256f3aa9,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Rodri,es ESP,DF,1,1,0.0,0.0,2007-2008,7fa4aa89,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,1.0,421.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,5,0,0.0,0.0,2007-2008,71e8d6b0,Deportivo-La-Coruna,86,1.0,0.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Chapi,es ESP,DF,1,0,0.0,0.0,2007-2008,b35e319d,Deportivo-La-Coruna,47,0.5,1.0,1.0,39.0,1.0,431.0,Deportivo-La-Coruna
+,Pablo Álvarez,es ESP,MF,1,0,0.0,0.0,2007-2008,08af8dbe,Deportivo-La-Coruna,12,0.1,0.0,0.0,39.0,1.0,418.0,Deportivo-La-Coruna
+,﻿Filipe Luís,br BRA,DF,38,38,2.0,2.0,2008-2009,4ed2628,Deportivo-La-Coruna,"3,420",38.0,4.0,0.0,39.0,2.0,416.0,Deportivo-La-Coruna
+,Daniel Aranzubia,es ESP,GK,37,37,0.0,0.0,2008-2009,0e9ce3e0,Deportivo-La-Coruna,"3,323",36.9,3.0,1.0,39.0,1.0,432.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,32,32,0.0,2.0,2008-2009,17cd5bb7,Deportivo-La-Coruna,"2,833",31.5,13.0,0.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,MF,37,31,1.0,2.0,2008-2009,25c3c939,Deportivo-La-Coruna,"2,924",32.5,10.0,0.0,39.0,1.0,412.0,Deportivo-La-Coruna
+,Zé Castro,pt POR,DF,29,29,0.0,1.0,2008-2009,2434db,Deportivo-La-Coruna,"2,523",28.0,7.0,0.0,39.0,3.0,433.0,Deportivo-La-Coruna
+,Joan Verdú,es ESP,MF,34,29,4.0,7.0,2008-2009,61508522,Deportivo-La-Coruna,"2,479",27.5,5.0,0.0,39.0,1.0,415.0,Deportivo-La-Coruna
+,Andrés Guardado,mx MEX,"DF,FW",29,29,6.0,2.0,2008-2009,f322658,Deportivo-La-Coruna,"2,419",26.9,1.0,0.0,39.0,20.0,422.0,Deportivo-La-Coruna
+,Ángel Lafita,es ESP,"FW,MF",32,25,3.0,8.0,2008-2009,0b68c35a,Deportivo-La-Coruna,"2,299",25.5,3.0,0.0,39.0,1.0,423.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,23,23,0.0,0.0,2008-2009,c1776cef,Deportivo-La-Coruna,"2,060",22.9,4.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,28,22,2.0,4.0,2008-2009,c6ed9815,Deportivo-La-Coruna,"2,158",24.0,7.0,0.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Julian de Guzmán,ca CAN,MF,20,17,0.0,0.0,2008-2009,755bf6b4,Deportivo-La-Coruna,"1,341",14.9,5.0,1.0,39.0,44.0,399.0,Deportivo-La-Coruna
+,Pablo Álvarez,es ESP,MF,21,14,1.0,2.0,2008-2009,08af8dbe,Deportivo-La-Coruna,"1,094",12.2,3.0,0.0,39.0,1.0,418.0,Deportivo-La-Coruna
+,Rodolfo Bodipo,gq EQG,FW,21,14,0.0,5.0,2008-2009,6cf2bc0e,Deportivo-La-Coruna,"1,085",12.1,3.0,0.0,39.0,10.0,419.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,14,13,0.0,0.0,2008-2009,256f3aa9,Deportivo-La-Coruna,"1,180",13.1,4.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Antonio Tomás,es ESP,MF,12,11,0.0,0.0,2008-2009,668d4e93,Deportivo-La-Coruna,687,7.6,5.0,0.0,39.0,1.0,426.0,Deportivo-La-Coruna
+,Lassad Nouioui,tn TUN,FW,14,10,0.0,3.0,2008-2009,fca860e6,Deportivo-La-Coruna,850,9.4,0.0,0.0,39.0,46.0,434.0,Deportivo-La-Coruna
+,Diego Colotto,ar ARG,DF,11,9,0.0,0.0,2008-2009,d9d4e0c0,Deportivo-La-Coruna,869,9.7,4.0,1.0,39.0,5.0,435.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,28,7,3.0,6.0,2008-2009,b21507f,Deportivo-La-Coruna,"1,094",12.2,2.0,0.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Adrián López,es ESP,DF,8,7,0.0,1.0,2008-2009,70392341,Deportivo-La-Coruna,648,7.2,2.0,0.0,39.0,1.0,424.0,Deportivo-La-Coruna
+,Mista,es ESP,FW,13,7,0.0,1.0,2008-2009,257c27e2,Deportivo-La-Coruna,545,6.1,3.0,0.0,39.0,1.0,436.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,22,6,1.0,0.0,2008-2009,71e8d6b0,Deportivo-La-Coruna,830,9.2,0.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Cristian Hidalgo,es ESP,"FW,MF",13,3,0.0,0.0,2008-2009,262b9f04,Deportivo-La-Coruna,285,3.2,0.0,0.0,39.0,1.0,427.0,Deportivo-La-Coruna
+,Omar Bravo,mx MEX,FW,9,2,1.0,1.0,2008-2009,52f5c9d0,Deportivo-La-Coruna,299,3.3,0.0,1.0,39.0,20.0,437.0,Deportivo-La-Coruna
+,Pablo Amo,es ESP,DF,3,2,0.0,0.0,2008-2009,2ee60d39,Deportivo-La-Coruna,161,1.8,1.0,0.0,39.0,1.0,389.0,Deportivo-La-Coruna
+,Gustavo Munúa,uy URU,GK,1,1,0.0,0.0,2008-2009,7e384992,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,8.0,390.0,Deportivo-La-Coruna
+,﻿Daniel Aranzubia,es ESP,GK,36,36,0.0,0.0,2009-2010,0e9ce3e0,Deportivo-La-Coruna,"3,161",35.1,2.0,1.0,39.0,1.0,432.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,34,34,1.0,1.0,2009-2010,17cd5bb7,Deportivo-La-Coruna,"3,058",34.0,6.0,1.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,MF,35,34,2.0,3.0,2009-2010,25c3c939,Deportivo-La-Coruna,"3,025",33.6,9.0,0.0,39.0,1.0,412.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,33,33,0.0,0.0,2009-2010,c1776cef,Deportivo-La-Coruna,"2,970",33.0,5.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Diego Colotto,ar ARG,DF,30,30,0.0,3.0,2009-2010,d9d4e0c0,Deportivo-La-Coruna,"2,700",30.0,5.0,0.0,39.0,5.0,435.0,Deportivo-La-Coruna
+,Antonio Tomás,es ESP,MF,30,28,0.0,0.0,2009-2010,668d4e93,Deportivo-La-Coruna,"2,402",26.7,7.0,1.0,39.0,1.0,426.0,Deportivo-La-Coruna
+,Adrián López,es ESP,"FW,MF",34,25,0.0,4.0,2009-2010,88a359d4,Deportivo-La-Coruna,"2,044",22.7,2.0,0.0,39.0,1.0,417.0,Deportivo-La-Coruna
+,Andrés Guardado,mx MEX,"DF,FW",26,23,3.0,3.0,2009-2010,f322658,Deportivo-La-Coruna,"2,000",22.2,1.0,0.0,39.0,20.0,422.0,Deportivo-La-Coruna
+,Sergio,es ESP,MF,24,21,1.0,0.0,2009-2010,c6ed9815,Deportivo-La-Coruna,"1,859",20.7,2.0,1.0,39.0,1.0,364.0,Deportivo-La-Coruna
+,Filipe Luís,br BRA,DF,21,20,0.0,3.0,2009-2010,4ed2628,Deportivo-La-Coruna,"1,787",19.9,0.0,0.0,39.0,2.0,416.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,20,19,0.0,0.0,2009-2010,256f3aa9,Deportivo-La-Coruna,"1,717",19.1,5.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,26,18,1.0,8.0,2009-2010,b21507f,Deportivo-La-Coruna,"1,483",16.5,4.0,1.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Pablo Álvarez,es ESP,MF,28,17,0.0,2.0,2009-2010,08af8dbe,Deportivo-La-Coruna,"1,413",15.7,4.0,1.0,39.0,1.0,418.0,Deportivo-La-Coruna
+,Juca,br BRA,MF,16,14,2.0,3.0,2009-2010,cb0057e,Deportivo-La-Coruna,"1,121",12.5,4.0,0.0,39.0,2.0,438.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,24,12,4.0,1.0,2009-2010,71e8d6b0,Deportivo-La-Coruna,"1,223",13.6,0.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Lassad Nouioui,tn TUN,FW,19,10,0.0,2.0,2009-2010,fca860e6,Deportivo-La-Coruna,788,8.8,1.0,0.0,39.0,46.0,434.0,Deportivo-La-Coruna
+,Juan Domínguez,es ESP,MF,13,8,0.0,0.0,2009-2010,b85adf53,Deportivo-La-Coruna,782,8.7,2.0,0.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Zé Castro,pt POR,DF,10,8,0.0,0.0,2009-2010,2434db,Deportivo-La-Coruna,704,7.8,1.0,0.0,39.0,3.0,433.0,Deportivo-La-Coruna
+,Rodolfo Bodipo,gq EQG,FW,15,6,1.0,0.0,2009-2010,6cf2bc0e,Deportivo-La-Coruna,510,5.7,1.0,0.0,39.0,10.0,419.0,Deportivo-La-Coruna
+,Mista,es ESP,FW,13,5,0.0,1.0,2009-2010,257c27e2,Deportivo-La-Coruna,497,5.5,3.0,0.0,39.0,1.0,436.0,Deportivo-La-Coruna
+,Raúl García,es ESP,DF,5,4,0.0,0.0,2009-2010,1a317a1b,Deportivo-La-Coruna,342,3.8,1.0,0.0,39.0,1.0,440.0,Deportivo-La-Coruna
+,Iván Pérez Maceira,es ESP,MF,20,3,0.0,0.0,2009-2010,6772776e,Deportivo-La-Coruna,724,8.0,0.0,0.0,39.0,1.0,441.0,Deportivo-La-Coruna
+,David Rochela,es ESP,DF,4,3,0.0,0.0,2009-2010,c3499f5,Deportivo-La-Coruna,315,3.5,0.0,0.0,39.0,1.0,442.0,Deportivo-La-Coruna
+,Adrián López,es ESP,DF,3,3,0.0,0.0,2009-2010,70392341,Deportivo-La-Coruna,270,3.0,0.0,0.0,39.0,1.0,424.0,Deportivo-La-Coruna
+,Manu,es ESP,GK,3,2,0.0,0.0,2009-2010,6c6988d,Deportivo-La-Coruna,259,2.9,0.0,0.0,39.0,1.0,443.0,Deportivo-La-Coruna
+,David Añón,es ESP,FW,3,1,0.0,0.0,2009-2010,b087dd0f,Deportivo-La-Coruna,97,1.1,1.0,0.0,39.0,1.0,444.0,Deportivo-La-Coruna
+,Diego Seoane,es ESP,DF,1,1,0.0,0.0,2009-2010,71c7d503,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,1.0,445.0,Deportivo-La-Coruna
+,Ángel Lafita,es ESP,"FW,MF",1,0,0.0,0.0,2009-2010,0b68c35a,Deportivo-La-Coruna,28,0.3,1.0,0.0,39.0,1.0,423.0,Deportivo-La-Coruna
+,﻿Diego Colotto,ar ARG,DF,36,36,2.0,2.0,2010-2011,d9d4e0c0,Deportivo-La-Coruna,"3,191",35.5,6.0,1.0,39.0,5.0,435.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,33,33,0.0,2.0,2010-2011,17cd5bb7,Deportivo-La-Coruna,"2,894",32.2,14.0,1.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Daniel Aranzubia,es ESP,GK,32,32,1.0,1.0,2010-2011,0e9ce3e0,Deportivo-La-Coruna,"2,880",32.0,4.0,0.0,39.0,1.0,432.0,Deportivo-La-Coruna
+,Rubén Pérez,es ESP,MF,32,31,1.0,0.0,2010-2011,3c7bc9bd,Deportivo-La-Coruna,"2,742",30.5,12.0,0.0,39.0,1.0,446.0,Deportivo-La-Coruna
+,Adrián López,es ESP,"FW,MF",36,31,3.0,8.0,2010-2011,88a359d4,Deportivo-La-Coruna,"2,647",29.4,2.0,0.0,39.0,1.0,417.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,30,30,1.0,0.0,2010-2011,c1776cef,Deportivo-La-Coruna,"2,639",29.3,2.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,MF,31,29,2.0,1.0,2010-2011,25c3c939,Deportivo-La-Coruna,"2,563",28.5,9.0,1.0,39.0,1.0,412.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,22,21,0.0,1.0,2010-2011,256f3aa9,Deportivo-La-Coruna,"1,891",21.0,8.0,1.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Antonio Tomás,es ESP,MF,21,20,0.0,0.0,2010-2011,668d4e93,Deportivo-La-Coruna,"1,670",18.6,2.0,0.0,39.0,1.0,426.0,Deportivo-La-Coruna
+,Andrés Guardado,mx MEX,"DF,FW",20,18,2.0,2.0,2010-2011,f322658,Deportivo-La-Coruna,"1,469",16.3,4.0,0.0,39.0,20.0,422.0,Deportivo-La-Coruna
+,Aythami Artiles,es ESP,DF,19,17,0.0,2.0,2010-2011,01ae64cd,Deportivo-La-Coruna,"1,523",16.9,5.0,0.0,39.0,1.0,429.0,Deportivo-La-Coruna
+,Lassad Nouioui,tn TUN,FW,33,16,1.0,5.0,2010-2011,fca860e6,Deportivo-La-Coruna,"1,454",16.2,3.0,0.0,39.0,46.0,434.0,Deportivo-La-Coruna
+,Claudio Morel Rodríguez,py PAR,DF,15,14,0.0,0.0,2010-2011,2a5c8856,Deportivo-La-Coruna,"1,245",13.8,1.0,0.0,39.0,43.0,447.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,21,9,1.0,0.0,2010-2011,71e8d6b0,Deportivo-La-Coruna,"1,082",12.0,0.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Juan Domínguez,es ESP,MF,20,9,0.0,0.0,2010-2011,b85adf53,Deportivo-La-Coruna,"1,009",11.2,1.0,0.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Yves Desmarets,ht HAI,MF,12,9,0.0,0.0,2010-2011,dcacfba,Deportivo-La-Coruna,685,7.6,1.0,0.0,39.0,47.0,448.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,19,8,3.0,3.0,2010-2011,b21507f,Deportivo-La-Coruna,850,9.4,2.0,0.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Diego Seoane,es ESP,DF,11,8,0.0,0.0,2010-2011,71c7d503,Deportivo-La-Coruna,839,9.3,2.0,0.0,39.0,1.0,445.0,Deportivo-La-Coruna
+,Saúl,es ESP,MF,13,8,1.0,0.0,2010-2011,4a317b2,Deportivo-La-Coruna,634,7.0,1.0,0.0,39.0,1.0,449.0,Deportivo-La-Coruna
+,Míchel,es ESP,MF,8,7,1.0,0.0,2010-2011,418f8f61,Deportivo-La-Coruna,441,4.9,1.0,0.0,39.0,1.0,450.0,Deportivo-La-Coruna
+,Manu,es ESP,GK,6,6,0.0,0.0,2010-2011,6c6988d,Deportivo-La-Coruna,540,6.0,0.0,0.0,39.0,1.0,443.0,Deportivo-La-Coruna
+,Xisco,es ESP,FW,9,5,0.0,2.0,2010-2011,d2790f7a,Deportivo-La-Coruna,399,4.4,1.0,0.0,39.0,1.0,395.0,Deportivo-La-Coruna
+,Jonathan Urretaviscaya,uy URU,"FW,MF",6,5,0.0,0.0,2010-2011,6465d159,Deportivo-La-Coruna,373,4.1,0.0,0.0,39.0,8.0,451.0,Deportivo-La-Coruna
+,Zé Castro,pt POR,DF,6,4,0.0,0.0,2010-2011,2434db,Deportivo-La-Coruna,390,4.3,3.0,0.0,39.0,3.0,433.0,Deportivo-La-Coruna
+,Pablo Álvarez,es ESP,MF,17,3,1.0,1.0,2010-2011,08af8dbe,Deportivo-La-Coruna,403,4.5,1.0,1.0,39.0,1.0,418.0,Deportivo-La-Coruna
+,Knut Olav Rindarøy,no NOR,DF,4,3,0.0,0.0,2010-2011,9609a506,Deportivo-La-Coruna,243,2.7,1.0,0.0,39.0,21.0,452.0,Deportivo-La-Coruna
+,José Sand,ar ARG,FW,5,2,0.0,0.0,2010-2011,29cf8777,Deportivo-La-Coruna,209,2.3,2.0,0.0,39.0,5.0,453.0,Deportivo-La-Coruna
+,David Rochela,es ESP,DF,2,2,0.0,0.0,2010-2011,c3499f5,Deportivo-La-Coruna,146,1.6,0.0,0.0,39.0,1.0,442.0,Deportivo-La-Coruna
+,Juca,br BRA,MF,8,1,1.0,0.0,2010-2011,cb0057e,Deportivo-La-Coruna,221,2.5,0.0,0.0,39.0,2.0,438.0,Deportivo-La-Coruna
+,Dioni,es ESP,FW,4,1,0.0,0.0,2010-2011,c8c5ac,Deportivo-La-Coruna,130,1.4,2.0,0.0,39.0,1.0,454.0,Deportivo-La-Coruna
+,﻿Álex Bergantiños,es ESP,MF,42,41,0.0,3.0,2011-2012,65ea8868,Deportivo-La-Coruna,"3,584",39.8,4.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Daniel Aranzubia,es ESP,GK,38,38,0.0,0.0,2011-2012,0e9ce3e0,Deportivo-La-Coruna,"3,420",38.0,4.0,0.0,39.0,1.0,432.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,39,37,11.0,5.0,2011-2012,71e8d6b0,Deportivo-La-Coruna,"2,883",32.0,2.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Andrés Guardado,mx MEX,"DF,FW",36,36,12.0,11.0,2011-2012,f322658,Deportivo-La-Coruna,"3,065",34.1,4.0,0.0,39.0,20.0,422.0,Deportivo-La-Coruna
+,Diego Colotto,ar ARG,DF,36,36,2.0,3.0,2011-2012,d9d4e0c0,Deportivo-La-Coruna,"3,061",34.0,9.0,3.0,39.0,5.0,435.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,38,35,2.0,1.0,2011-2012,256f3aa9,Deportivo-La-Coruna,"3,110",34.6,11.0,1.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Juan Domínguez,es ESP,MF,35,29,1.0,4.0,2011-2012,b85adf53,Deportivo-La-Coruna,"2,607",29.0,6.0,0.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Bruno Gama,pt POR,"FW,MF",29,26,7.0,7.0,2011-2012,6cffc9df,Deportivo-La-Coruna,"2,138",23.8,6.0,0.0,39.0,3.0,456.0,Deportivo-La-Coruna
+,Zé Castro,pt POR,DF,27,25,0.0,0.0,2011-2012,2434db,Deportivo-La-Coruna,"2,161",24.0,5.0,2.0,39.0,3.0,433.0,Deportivo-La-Coruna
+,Ayoze Díaz Díaz,es ESP,"DF,MF",27,25,1.0,0.0,2011-2012,b7209bcc,Deportivo-La-Coruna,"2,135",23.7,11.0,1.0,39.0,1.0,457.0,Deportivo-La-Coruna
+,Lassad Nouioui,tn TUN,FW,33,23,1.0,14.0,2011-2012,fca860e6,Deportivo-La-Coruna,"2,012",22.4,2.0,0.0,39.0,46.0,434.0,Deportivo-La-Coruna
+,Aythami Artiles,es ESP,DF,23,20,1.0,2.0,2011-2012,01ae64cd,Deportivo-La-Coruna,"1,813",20.1,6.0,0.0,39.0,1.0,429.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,30,18,4.0,14.0,2011-2012,b21507f,Deportivo-La-Coruna,"1,655",18.4,6.0,0.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Claudio Morel Rodríguez,py PAR,DF,18,16,0.0,0.0,2011-2012,2a5c8856,Deportivo-La-Coruna,"1,481",16.5,7.0,0.0,39.0,43.0,447.0,Deportivo-La-Coruna
+,Diogo Salomão,pt POR,"FW,MF",29,16,3.0,4.0,2011-2012,45e4d136,Deportivo-La-Coruna,"1,477",16.4,5.0,0.0,39.0,3.0,458.0,Deportivo-La-Coruna
+,Jesús Vázquez,es ESP,MF,15,12,2.0,0.0,2011-2012,96b3239f,Deportivo-La-Coruna,"1,029",11.4,5.0,0.0,39.0,1.0,459.0,Deportivo-La-Coruna
+,Diego Seoane,es ESP,DF,6,5,0.0,0.0,2011-2012,71c7d503,Deportivo-La-Coruna,462,5.1,2.0,0.0,39.0,1.0,445.0,Deportivo-La-Coruna
+,Borja Fernández,es ESP,MF,22,4,0.0,2.0,2011-2012,9127f9ce,Deportivo-La-Coruna,749,8.3,6.0,0.0,39.0,1.0,26.0,Deportivo-La-Coruna
+,Saúl,es ESP,MF,16,4,0.0,0.0,2011-2012,4a317b2,Deportivo-La-Coruna,589,6.5,0.0,0.0,39.0,1.0,449.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,8,4,0.0,0.0,2011-2012,c1776cef,Deportivo-La-Coruna,364,4.0,0.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Germán Lux,ar ARG,GK,4,4,0.0,0.0,2011-2012,14ed837f,Deportivo-La-Coruna,360,4.0,0.0,0.0,39.0,5.0,460.0,Deportivo-La-Coruna
+,Xisco,es ESP,FW,16,3,0.0,3.0,2011-2012,d2790f7a,Deportivo-La-Coruna,527,5.9,3.0,0.0,39.0,1.0,395.0,Deportivo-La-Coruna
+,Pablo Álvarez,es ESP,MF,11,3,0.0,0.0,2011-2012,08af8dbe,Deportivo-La-Coruna,336,3.7,0.0,0.0,39.0,1.0,418.0,Deportivo-La-Coruna
+,David Rochela,es ESP,DF,3,2,0.0,0.0,2011-2012,c3499f5,Deportivo-La-Coruna,195,2.2,0.0,0.0,39.0,1.0,442.0,Deportivo-La-Coruna
+,Rodolfo Bodipo,gq EQG,FW,6,0,0.0,1.0,2011-2012,6cf2bc0e,Deportivo-La-Coruna,92,1.0,0.0,0.0,39.0,10.0,419.0,Deportivo-La-Coruna
+,Juan Carlos,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,82803509,Deportivo-La-Coruna,29,0.3,0.0,0.0,39.0,1.0,461.0,Deportivo-La-Coruna
+,﻿Bruno Gama,pt POR,"FW,MF",38,38,6.0,6.0,2012-2013,6cffc9df,Deportivo-La-Coruna,"3,127",34.7,4.0,0.0,39.0,3.0,456.0,Deportivo-La-Coruna
+,Riki,es ESP,FW,36,36,1.0,13.0,2012-2013,b21507f,Deportivo-La-Coruna,"2,673",29.7,5.0,0.0,39.0,1.0,411.0,Deportivo-La-Coruna
+,Daniel Aranzubia,es ESP,GK,35,35,0.0,0.0,2012-2013,0e9ce3e0,Deportivo-La-Coruna,"3,084",34.3,4.0,1.0,39.0,1.0,432.0,Deportivo-La-Coruna
+,Pizzi,pt POR,"FW,MF",35,35,4.0,8.0,2012-2013,96094cbc,Deportivo-La-Coruna,"3,084",34.3,6.0,1.0,39.0,3.0,462.0,Deportivo-La-Coruna
+,Juan Carlos Valerón,es ESP,MF,33,28,7.0,1.0,2012-2013,71e8d6b0,Deportivo-La-Coruna,"2,250",25.0,2.0,0.0,39.0,1.0,376.0,Deportivo-La-Coruna
+,Abel Aguilar,co COL,MF,28,27,3.0,3.0,2012-2013,6936b41b,Deportivo-La-Coruna,"2,411",26.8,13.0,1.0,39.0,19.0,463.0,Deportivo-La-Coruna
+,Aythami Artiles,es ESP,DF,26,24,1.0,0.0,2012-2013,01ae64cd,Deportivo-La-Coruna,"2,172",24.1,10.0,0.0,39.0,1.0,429.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,24,24,2.0,0.0,2012-2013,c1776cef,Deportivo-La-Coruna,"2,106",23.4,6.0,1.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,MF,29,22,0.0,1.0,2012-2013,65ea8868,Deportivo-La-Coruna,"2,060",22.9,4.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Carlos Marchena,es ESP,"DF,MF",22,22,0.0,2.0,2012-2013,48ddb821,Deportivo-La-Coruna,"1,849",20.5,8.0,1.0,39.0,1.0,464.0,Deportivo-La-Coruna
+,Juan Domínguez,es ESP,MF,24,21,0.0,1.0,2012-2013,b85adf53,Deportivo-La-Coruna,"1,864",20.7,4.0,0.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Zé Castro,pt POR,DF,24,20,0.0,0.0,2012-2013,2434db,Deportivo-La-Coruna,"1,791",19.9,4.0,0.0,39.0,3.0,433.0,Deportivo-La-Coruna
+,Sílvio,pt POR,DF,17,16,0.0,2.0,2012-2013,c6e2549,Deportivo-La-Coruna,"1,340",14.9,2.0,1.0,39.0,3.0,465.0,Deportivo-La-Coruna
+,Evaldo Fabiano,br BRA,DF,15,14,1.0,0.0,2012-2013,74ea03bb,Deportivo-La-Coruna,"1,208",13.4,5.0,1.0,39.0,2.0,466.0,Deportivo-La-Coruna
+,Ayoze Díaz Díaz,es ESP,"DF,MF",14,11,0.0,0.0,2012-2013,b7209bcc,Deportivo-La-Coruna,"1,003",11.1,4.0,0.0,39.0,1.0,457.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,11,10,1.0,0.0,2012-2013,256f3aa9,Deportivo-La-Coruna,945,10.5,4.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Paulo Assunção,br BRA,MF,9,7,0.0,0.0,2012-2013,41b7a8cf,Deportivo-La-Coruna,619,6.9,2.0,1.0,39.0,2.0,467.0,Deportivo-La-Coruna
+,Kaká,br BRA,DF,6,5,0.0,0.0,2012-2013,9ca27339,Deportivo-La-Coruna,432,4.8,0.0,0.0,39.0,2.0,468.0,Deportivo-La-Coruna
+,Javier Camuñas,es ESP,"FW,MF",23,4,0.0,1.0,2012-2013,bbc1db07,Deportivo-La-Coruna,673,7.5,5.0,0.0,39.0,1.0,469.0,Deportivo-La-Coruna
+,André Santos,pt POR,MF,13,4,0.0,0.0,2012-2013,4e6642e1,Deportivo-La-Coruna,346,3.8,3.0,0.0,39.0,3.0,470.0,Deportivo-La-Coruna
+,Germán Lux,ar ARG,GK,4,3,0.0,0.0,2012-2013,14ed837f,Deportivo-La-Coruna,315,3.5,0.0,0.0,39.0,5.0,460.0,Deportivo-La-Coruna
+,Roderick Miranda,pt POR,DF,3,3,0.0,0.0,2012-2013,390ab439,Deportivo-La-Coruna,238,2.6,0.0,0.0,39.0,3.0,471.0,Deportivo-La-Coruna
+,Nélson Oliveira,pt POR,FW,30,2,0.0,4.0,2012-2013,f716e4e4,Deportivo-La-Coruna,878,9.8,5.0,0.0,39.0,3.0,472.0,Deportivo-La-Coruna
+,Diogo Salomão,pt POR,"FW,MF",14,2,0.0,2.0,2012-2013,45e4d136,Deportivo-La-Coruna,447,5.0,1.0,0.0,39.0,3.0,458.0,Deportivo-La-Coruna
+,Pablo Insua,es ESP,DF,3,2,0.0,0.0,2012-2013,4b5e7e90,Deportivo-La-Coruna,192,2.1,0.0,0.0,39.0,1.0,473.0,Deportivo-La-Coruna
+,Jesús Vázquez,es ESP,MF,5,2,0.0,0.0,2012-2013,96b3239f,Deportivo-La-Coruna,177,2.0,1.0,0.0,39.0,1.0,459.0,Deportivo-La-Coruna
+,Tiago Pinto,pt POR,DF,1,1,0.0,0.0,2012-2013,7bfde19,Deportivo-La-Coruna,90,1.0,1.0,0.0,39.0,3.0,474.0,Deportivo-La-Coruna
+,Rodolfo Bodipo,gq EQG,FW,6,0,0.0,1.0,2012-2013,6cf2bc0e,Deportivo-La-Coruna,91,1.0,0.0,0.0,39.0,10.0,419.0,Deportivo-La-Coruna
+,﻿Juan Domínguez,es ESP,MF,39,39,5.0,4.0,2013-2014,b85adf53,Deportivo-La-Coruna,"3,491",38.8,7.0,1.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Pablo Insua,es ESP,DF,39,39,0.0,3.0,2013-2014,4b5e7e90,Deportivo-La-Coruna,"3,463",38.5,13.0,0.0,39.0,1.0,473.0,Deportivo-La-Coruna
+,Germán Lux,ar ARG,GK,37,37,0.0,0.0,2013-2014,14ed837f,Deportivo-La-Coruna,"3,279",36.4,3.0,0.0,39.0,5.0,460.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,MF,37,36,2.0,0.0,2013-2014,65ea8868,Deportivo-La-Coruna,"3,193",35.5,9.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,36,35,4.0,1.0,2013-2014,256f3aa9,Deportivo-La-Coruna,"3,125",34.7,10.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Luisinho,pt POR,DF,31,30,5.0,3.0,2013-2014,7f00c8c,Deportivo-La-Coruna,"2,628",29.2,9.0,2.0,39.0,3.0,475.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,26,23,1.0,0.0,2013-2014,c1776cef,Deportivo-La-Coruna,"2,025",22.5,2.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Borja Bastón,es ESP,FW,33,21,3.0,10.0,2013-2014,8c44e37b,Deportivo-La-Coruna,"1,909",21.2,3.0,0.0,39.0,1.0,476.0,Deportivo-La-Coruna
+,Diego Seoane,es ESP,DF,24,21,0.0,0.0,2013-2014,71c7d503,Deportivo-La-Coruna,"1,865",20.7,2.0,0.0,39.0,1.0,445.0,Deportivo-La-Coruna
+,Emmanuel Culio,ar ARG,MF,18,18,2.0,2.0,2013-2014,170eb35b,Deportivo-La-Coruna,"1,565",17.4,10.0,1.0,39.0,5.0,477.0,Deportivo-La-Coruna
+,Bryan Rabello,cl CHI,MF,19,18,4.0,0.0,2013-2014,d052490,Deportivo-La-Coruna,"1,487",16.5,1.0,0.0,39.0,31.0,478.0,Deportivo-La-Coruna
+,Juan Carlos,es ESP,"FW,MF",28,17,6.0,3.0,2013-2014,82803509,Deportivo-La-Coruna,"1,371",15.2,2.0,0.0,39.0,1.0,461.0,Deportivo-La-Coruna
+,Carlos Marchena,es ESP,"DF,MF",22,16,0.0,3.0,2013-2014,48ddb821,Deportivo-La-Coruna,"1,547",17.2,7.0,0.0,39.0,1.0,464.0,Deportivo-La-Coruna
+,Cezary Wilk,pl POL,MF,19,14,0.0,0.0,2013-2014,bf526c15,Deportivo-La-Coruna,"1,236",13.7,5.0,0.0,39.0,14.0,479.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,16,13,0.0,2.0,2013-2014,17cd5bb7,Deportivo-La-Coruna,"1,262",14.0,5.0,0.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Javier Arizmendi,es ESP,"FW,MF",17,12,1.0,2.0,2013-2014,14a6c075,Deportivo-La-Coruna,957,10.6,3.0,0.0,39.0,1.0,401.0,Deportivo-La-Coruna
+,Luis Fernández,es ESP,"FW,MF",28,11,1.0,5.0,2013-2014,63b1f7df,Deportivo-La-Coruna,"1,110",12.3,3.0,0.0,39.0,1.0,480.0,Deportivo-La-Coruna
+,Ibrahim Sissoko,ci CIV,FW,16,11,1.0,1.0,2013-2014,77ac4b7a,Deportivo-La-Coruna,"1,000",11.1,4.0,0.0,39.0,35.0,481.0,Deportivo-La-Coruna
+,Rudy,ao ANG,"FW,MF",18,11,1.0,0.0,2013-2014,2c0e2076,Deportivo-La-Coruna,919,10.2,2.0,0.0,39.0,48.0,482.0,Deportivo-La-Coruna
+,Antonio Núñez,es ESP,MF,22,7,3.0,0.0,2013-2014,df89070b,Deportivo-La-Coruna,822,9.1,3.0,1.0,39.0,1.0,30.0,Deportivo-La-Coruna
+,Kaká,br BRA,DF,11,7,0.0,0.0,2013-2014,9ca27339,Deportivo-La-Coruna,750,8.3,2.0,0.0,39.0,2.0,468.0,Deportivo-La-Coruna
+,Diego Ifrán,uy URU,FW,11,7,0.0,4.0,2013-2014,59e3e40f,Deportivo-La-Coruna,586,6.5,1.0,0.0,39.0,8.0,,Deportivo-La-Coruna
+,Toché,es ESP,FW,12,5,0.0,4.0,2013-2014,64e35e11,Deportivo-La-Coruna,586,6.5,1.0,0.0,39.0,1.0,483.0,Deportivo-La-Coruna
+,Fabricio,es ESP,GK,6,5,0.0,0.0,2013-2014,f245161,Deportivo-La-Coruna,501,5.6,0.0,0.0,39.0,1.0,428.0,Deportivo-La-Coruna
+,Diogo Salomão,pt POR,"FW,MF",6,5,1.0,1.0,2013-2014,45e4d136,Deportivo-La-Coruna,363,4.0,0.0,0.0,39.0,3.0,458.0,Deportivo-La-Coruna
+,David Díaz Mangano,es ESP,MF,6,1,0.0,0.0,2013-2014,98d76caf,Deportivo-La-Coruna,130,1.4,0.0,0.0,39.0,1.0,484.0,Deportivo-La-Coruna
+,Uxío Marcos,es ESP,DF,2,1,0.0,0.0,2013-2014,0d5563cb,Deportivo-La-Coruna,102,1.1,1.0,0.0,39.0,1.0,485.0,Deportivo-La-Coruna
+,Paulo Teles,pt POR,MF,4,1,0.0,0.0,2013-2014,3e5e7d70,Deportivo-La-Coruna,93,1.0,0.0,0.0,39.0,3.0,486.0,Deportivo-La-Coruna
+,Bruno Gama,pt POR,"FW,MF",1,1,0.0,0.0,2013-2014,6cffc9df,Deportivo-La-Coruna,86,1.0,0.0,0.0,39.0,3.0,456.0,Deportivo-La-Coruna
+,Edu Sousa,es ESP,GK,1,0,0.0,0.0,2013-2014,280307c5,Deportivo-La-Coruna,14,0.2,0.0,0.0,39.0,1.0,487.0,Deportivo-La-Coruna
+,﻿Luisinho,pt POR,DF,35,34,1.0,0.0,2014-2015,7f00c8c,Deportivo-La-Coruna,"2,986",33.2,11.0,1.0,39.0,3.0,475.0,Deportivo-La-Coruna
+,Juanfran,es ESP,"DF,FW",34,33,1.0,1.0,2014-2015,9ba48d64,Deportivo-La-Coruna,"2,743",30.5,4.0,0.0,39.0,1.0,86.0,Deportivo-La-Coruna
+,Sidnei,br BRA,DF,32,32,2.0,0.0,2014-2015,b14d0c5d,Deportivo-La-Coruna,"2,878",32.0,10.0,0.0,39.0,2.0,488.0,Deportivo-La-Coruna
+,Fabricio,es ESP,GK,31,31,0.0,0.0,2014-2015,f245161,Deportivo-La-Coruna,"2,790",31.0,2.0,0.0,39.0,1.0,428.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,30,30,0.0,2.0,2014-2015,17cd5bb7,Deportivo-La-Coruna,"2,675",29.7,15.0,1.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,MF,33,29,1.0,0.0,2014-2015,65ea8868,Deportivo-La-Coruna,"2,647",29.4,5.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Ivan Cavaleiro,pt POR,"FW,MF",34,27,3.0,3.0,2014-2015,979b811d,Deportivo-La-Coruna,"2,384",26.5,6.0,0.0,39.0,3.0,,Deportivo-La-Coruna
+,Lucas Pérez,es ESP,"FW,MF",21,20,3.0,6.0,2014-2015,300ac7e,Deportivo-La-Coruna,"1,543",17.1,6.0,0.0,39.0,1.0,489.0,Deportivo-La-Coruna
+,Oriol Riera,es ESP,FW,21,18,1.0,4.0,2014-2015,d742ed9,Deportivo-La-Coruna,"1,507",16.7,3.0,0.0,39.0,1.0,490.0,Deportivo-La-Coruna
+,José Rodríguez,es ESP,MF,25,17,1.0,2.0,2014-2015,55e81c76,Deportivo-La-Coruna,"1,493",16.6,6.0,0.0,39.0,1.0,115.0,Deportivo-La-Coruna
+,Celso Borges,cr CRC,"FW,MF",17,17,0.0,3.0,2014-2015,b8836910,Deportivo-La-Coruna,"1,468",16.3,6.0,0.0,39.0,22.0,491.0,Deportivo-La-Coruna
+,Haris Medunjanin,ba BIH,MF,24,16,0.0,2.0,2014-2015,de5d5d41,Deportivo-La-Coruna,"1,484",16.5,5.0,0.0,39.0,49.0,492.0,Deportivo-La-Coruna
+,Luis Fariña,ar ARG,"FW,MF",21,15,0.0,1.0,2014-2015,2a8b21d4,Deportivo-La-Coruna,"1,186",13.2,1.0,1.0,39.0,5.0,493.0,Deportivo-La-Coruna
+,Isaac Cuenca,es ESP,"FW,MF",27,14,2.0,2.0,2014-2015,24e9421b,Deportivo-La-Coruna,"1,456",16.2,1.0,0.0,39.0,1.0,494.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,19,14,0.0,0.0,2014-2015,256f3aa9,Deportivo-La-Coruna,"1,364",15.2,4.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Pablo Insua,es ESP,DF,17,14,0.0,0.0,2014-2015,4b5e7e90,Deportivo-La-Coruna,"1,227",13.6,6.0,0.0,39.0,1.0,473.0,Deportivo-La-Coruna
+,Juan Domínguez,es ESP,MF,22,13,0.0,1.0,2014-2015,b85adf53,Deportivo-La-Coruna,"1,256",14.0,3.0,0.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Toché,es ESP,FW,25,9,1.0,4.0,2014-2015,64e35e11,Deportivo-La-Coruna,986,11.0,5.0,0.0,39.0,1.0,483.0,Deportivo-La-Coruna
+,Hélder Postiga,pt POR,FW,14,8,1.0,1.0,2014-2015,c8504093,Deportivo-La-Coruna,721,8.0,4.0,1.0,39.0,3.0,495.0,Deportivo-La-Coruna
+,Germán Lux,ar ARG,GK,7,7,0.0,0.0,2014-2015,14ed837f,Deportivo-La-Coruna,630,7.0,1.0,0.0,39.0,5.0,460.0,Deportivo-La-Coruna
+,Cezary Wilk,pl POL,MF,11,6,0.0,0.0,2014-2015,bf526c15,Deportivo-La-Coruna,610,6.8,2.0,0.0,39.0,14.0,479.0,Deportivo-La-Coruna
+,Roberto Canella,es ESP,DF,9,5,0.0,0.0,2014-2015,18c74b8d,Deportivo-La-Coruna,446,5.0,0.0,0.0,39.0,1.0,496.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,5,5,0.0,0.0,2014-2015,c1776cef,Deportivo-La-Coruna,340,3.8,1.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Diogo Salomão,pt POR,"FW,MF",6,2,0.0,1.0,2014-2015,45e4d136,Deportivo-La-Coruna,292,3.2,0.0,0.0,39.0,3.0,458.0,Deportivo-La-Coruna
+,Modibo Diakité,fr FRA,DF,2,2,0.0,0.0,2014-2015,5eb4ab4,Deportivo-La-Coruna,180,2.0,0.0,0.0,39.0,4.0,497.0,Deportivo-La-Coruna
+,Hélder Costa,ao ANG,"FW,MF",6,0,0.0,0.0,2014-2015,f13d02a6,Deportivo-La-Coruna,150,1.7,0.0,0.0,39.0,48.0,498.0,Deportivo-La-Coruna
+,Juan Carlos,es ESP,"FW,MF",2,0,0.0,0.0,2014-2015,82803509,Deportivo-La-Coruna,71,0.8,0.0,0.0,39.0,1.0,461.0,Deportivo-La-Coruna
+,David Gómez,es ESP,GK,0,0,,,2014-2015,f7f79fef,Deportivo-La-Coruna,,,,,39.0,1.0,499.0,Deportivo-La-Coruna
+,Dani Iglesias,es ESP,FW,0,0,,,2014-2015,d857853,Deportivo-La-Coruna,,,,,39.0,1.0,500.0,Deportivo-La-Coruna
+,Borja López,es ESP,DF,0,0,,,2014-2015,d02d04ea,Deportivo-La-Coruna,,,,,39.0,1.0,501.0,Deportivo-La-Coruna
+,Iago López,es ESP,DF,0,0,,,2014-2015,fe5b65,Deportivo-La-Coruna,,,,,39.0,1.0,502.0,Deportivo-La-Coruna
+,Marcos Remeseiro,es ESP,MF,0,0,,,2014-2015,0551d202,Deportivo-La-Coruna,,,,,39.0,1.0,503.0,Deportivo-La-Coruna
+,﻿Pedro Mosquera,es ESP,MF,37,37,2.0,0.0,2015-2016,c5fa58ea,Deportivo-La-Coruna,"3,286",36.5,10.0,0.0,39.0,1.0,88.0,Deportivo-La-Coruna
+,Lucas Pérez,es ESP,FW,36,35,7.0,17.0,2015-2016,300ac7e,Deportivo-La-Coruna,"3,137",34.9,2.0,0.0,39.0,1.0,489.0,Deportivo-La-Coruna
+,Fernando Navarro,es ESP,DF,35,35,2.0,0.0,2015-2016,5a3f6fae,Deportivo-La-Coruna,"2,953",32.8,5.0,0.0,39.0,1.0,518.0,Deportivo-La-Coruna
+,Sidnei,br BRA,DF,33,33,0.0,0.0,2015-2016,b14d0c5d,Deportivo-La-Coruna,"2,895",32.2,2.0,0.0,39.0,2.0,488.0,Deportivo-La-Coruna
+,Fayçal Fajr,ma MAR,MF,38,31,3.0,5.0,2015-2016,79135368,Deportivo-La-Coruna,"2,843",31.6,3.0,0.0,39.0,26.0,504.0,Deportivo-La-Coruna
+,Alejandro Arribas,es ESP,DF,31,31,0.0,2.0,2015-2016,cc29324e,Deportivo-La-Coruna,"2,734",30.4,11.0,1.0,39.0,1.0,505.0,Deportivo-La-Coruna
+,Juanfran,es ESP,"DF,MF",35,30,2.0,1.0,2015-2016,9ba48d64,Deportivo-La-Coruna,"2,677",29.7,4.0,0.0,39.0,1.0,86.0,Deportivo-La-Coruna
+,Germán Lux,ar ARG,GK,29,29,0.0,0.0,2015-2016,14ed837f,Deportivo-La-Coruna,"2,556",28.4,5.0,1.0,39.0,5.0,460.0,Deportivo-La-Coruna
+,Luis Alberto,es ESP,"MF,FW",29,25,7.0,6.0,2015-2016,5294a83f,Deportivo-La-Coruna,"2,098",23.3,3.0,0.0,39.0,1.0,506.0,Deportivo-La-Coruna
+,Celso Borges,cr CRC,MF,24,21,2.0,3.0,2015-2016,b8836910,Deportivo-La-Coruna,"1,908",21.2,5.0,1.0,39.0,22.0,491.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,MF,22,20,1.0,2.0,2015-2016,65ea8868,Deportivo-La-Coruna,"1,749",19.4,3.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,23,16,0.0,0.0,2015-2016,256f3aa9,Deportivo-La-Coruna,"1,549",17.2,6.0,0.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Federico Cartabia,ar ARG,"MF,FW",26,15,3.0,3.0,2015-2016,8e6bebf,Deportivo-La-Coruna,"1,353",15.0,3.0,0.0,39.0,5.0,507.0,Deportivo-La-Coruna
+,Cani,es ESP,MF,18,12,0.0,0.0,2015-2016,b493db11,Deportivo-La-Coruna,885,9.8,2.0,0.0,39.0,1.0,508.0,Deportivo-La-Coruna
+,Luisinho,pt POR,"MF,DF",20,11,0.0,0.0,2015-2016,7f00c8c,Deportivo-La-Coruna,"1,095",12.2,7.0,1.0,39.0,3.0,475.0,Deportivo-La-Coruna
+,Alberto Lopo,es ESP,DF,10,8,0.0,0.0,2015-2016,17cd5bb7,Deportivo-La-Coruna,743,8.3,6.0,0.0,39.0,1.0,410.0,Deportivo-La-Coruna
+,Oriol Riera,es ESP,FW,22,7,0.0,2.0,2015-2016,d742ed9,Deportivo-La-Coruna,799,8.9,3.0,0.0,39.0,1.0,490.0,Deportivo-La-Coruna
+,Manu,es ESP,GK,8,7,0.0,0.0,2015-2016,6c6988d,Deportivo-La-Coruna,683,7.6,2.0,0.0,39.0,1.0,443.0,Deportivo-La-Coruna
+,Jonathan Rodríguez,uy URU,FW,13,6,0.0,0.0,2015-2016,86ca9bca,Deportivo-La-Coruna,567,6.3,2.0,0.0,39.0,8.0,509.0,Deportivo-La-Coruna
+,Jonás Gutiérrez,ar ARG,MF,15,3,1.0,0.0,2015-2016,816fd91c,Deportivo-La-Coruna,400,4.4,2.0,0.0,39.0,5.0,510.0,Deportivo-La-Coruna
+,Juan Domínguez,es ESP,MF,5,2,0.0,0.0,2015-2016,b85adf53,Deportivo-La-Coruna,185,2.1,0.0,0.0,39.0,1.0,439.0,Deportivo-La-Coruna
+,Stipe Pletikosa,hr CRO,GK,2,2,0.0,0.0,2015-2016,38a1b57c,Deportivo-La-Coruna,180,2.0,0.0,0.0,39.0,16.0,511.0,Deportivo-La-Coruna
+,Manuel Pablo,es ESP,DF,3,2,0.0,0.0,2015-2016,c1776cef,Deportivo-La-Coruna,175,1.9,0.0,0.0,39.0,1.0,382.0,Deportivo-La-Coruna
+,Rober,es ESP,DF,2,0,0.0,0.0,2015-2016,c00097d2,Deportivo-La-Coruna,52,0.6,0.0,0.0,39.0,1.0,512.0,Deportivo-La-Coruna
+,Miguel Filipe Nunes Cardoso,pt POR,"FW,MF",3,0,1.0,0.0,2015-2016,f9c7bf18,Deportivo-La-Coruna,44,0.5,0.0,0.0,39.0,3.0,513.0,Deportivo-La-Coruna
+,Fabricio,es ESP,GK,0,0,,,2015-2016,f245161,Deportivo-La-Coruna,,,,,39.0,1.0,428.0,Deportivo-La-Coruna
+,David Gómez,es ESP,GK,0,0,,,2015-2016,f7f79fef,Deportivo-La-Coruna,,,,,39.0,1.0,499.0,Deportivo-La-Coruna
+,Haris Medunjanin,ba BIH,MF,0,0,,,2015-2016,de5d5d41,Deportivo-La-Coruna,,,,,39.0,49.0,492.0,Deportivo-La-Coruna
+,Pinchi,es ESP,"FW,MF",0,0,,,2015-2016,53bf02db,Deportivo-La-Coruna,,,,,39.0,1.0,514.0,Deportivo-La-Coruna
+,﻿Juanfran,es ESP,DF,34,34,6.0,0.0,2016-2017,9ba48d64,Deportivo-La-Coruna,"2,956",32.8,3.0,1.0,39.0,1.0,86.0,Deportivo-La-Coruna
+,Florin Andone,ro ROU,FW,37,32,2.0,12.0,2016-2017,dc008610,Deportivo-La-Coruna,"2,893",32.1,6.0,0.0,39.0,51.0,531.0,Deportivo-La-Coruna
+,Celso Borges,cr CRC,MF,34,30,0.0,6.0,2016-2017,b8836910,Deportivo-La-Coruna,"2,722",30.2,5.0,0.0,39.0,22.0,491.0,Deportivo-La-Coruna
+,Sidnei,br BRA,DF,29,29,0.0,1.0,2016-2017,b14d0c5d,Deportivo-La-Coruna,"2,488",27.6,2.0,0.0,39.0,2.0,488.0,Deportivo-La-Coruna
+,Emre Çolak,tr TUR,MF,33,29,6.0,3.0,2016-2017,643b39a6,Deportivo-La-Coruna,"2,466",27.4,5.0,0.0,39.0,15.0,515.0,Deportivo-La-Coruna
+,Raúl Albentosa,es ESP,DF,27,26,1.0,1.0,2016-2017,348e4809,Deportivo-La-Coruna,"2,335",25.9,10.0,1.0,39.0,1.0,516.0,Deportivo-La-Coruna
+,Guilherme,br BRA,MF,30,26,1.0,2.0,2016-2017,8754c7ca,Deportivo-La-Coruna,"2,277",25.3,6.0,0.0,39.0,2.0,517.0,Deportivo-La-Coruna
+,Germán Lux,ar ARG,GK,25,25,0.0,0.0,2016-2017,14ed837f,Deportivo-La-Coruna,"2,204",24.5,5.0,0.0,39.0,5.0,460.0,Deportivo-La-Coruna
+,Fernando Navarro,es ESP,DF,25,22,0.0,0.0,2016-2017,5a3f6fae,Deportivo-La-Coruna,"2,053",22.8,6.0,0.0,39.0,1.0,518.0,Deportivo-La-Coruna
+,Alejandro Arribas,es ESP,DF,23,20,0.0,0.0,2016-2017,cc29324e,Deportivo-La-Coruna,"1,910",21.2,7.0,0.0,39.0,1.0,505.0,Deportivo-La-Coruna
+,Luisinho,pt POR,"DF,MF",26,20,2.0,0.0,2016-2017,7f00c8c,Deportivo-La-Coruna,"1,907",21.2,6.0,0.0,39.0,3.0,475.0,Deportivo-La-Coruna
+,Bruno Gama,pt POR,MF,22,18,0.0,0.0,2016-2017,6cffc9df,Deportivo-La-Coruna,"1,442",16.0,3.0,0.0,39.0,3.0,456.0,Deportivo-La-Coruna
+,Pedro Mosquera,es ESP,MF,23,17,0.0,3.0,2016-2017,c5fa58ea,Deportivo-La-Coruna,"1,564",17.4,7.0,0.0,39.0,1.0,88.0,Deportivo-La-Coruna
+,Carles Gil,es ESP,MF,23,16,4.0,1.0,2016-2017,11c30a46,Deportivo-La-Coruna,"1,408",15.6,7.0,0.0,39.0,1.0,519.0,Deportivo-La-Coruna
+,Fayçal Fajr,ma MAR,MF,24,14,2.0,0.0,2016-2017,79135368,Deportivo-La-Coruna,"1,207",13.4,3.0,1.0,39.0,26.0,504.0,Deportivo-La-Coruna
+,Przemysław Tytoń,pl POL,GK,13,12,0.0,0.0,2016-2017,1fa85681,Deportivo-La-Coruna,"1,126",12.5,1.0,0.0,39.0,14.0,520.0,Deportivo-La-Coruna
+,Joselu,es ESP,FW,20,9,1.0,5.0,2016-2017,6265208f,Deportivo-La-Coruna,901,10.0,7.0,0.0,39.0,1.0,100.0,Deportivo-La-Coruna
+,Marlos Moreno,co COL,"MF,FW",19,9,0.0,0.0,2016-2017,8499c713,Deportivo-La-Coruna,793,8.8,0.0,0.0,39.0,19.0,521.0,Deportivo-La-Coruna
+,Gaël Kakuta,cd COD,MF,10,8,1.0,2.0,2016-2017,5b1bf5e3,Deportivo-La-Coruna,538,6.0,0.0,0.0,39.0,50.0,522.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,"MF,DF",8,6,0.0,1.0,2016-2017,65ea8868,Deportivo-La-Coruna,553,6.1,2.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Ryan Babel,nl NED,"MF,FW",11,5,1.0,4.0,2016-2017,6438d426,Deportivo-La-Coruna,562,6.2,3.0,0.0,39.0,11.0,523.0,Deportivo-La-Coruna
+,Laure,es ESP,DF,7,4,0.0,0.0,2016-2017,256f3aa9,Deportivo-La-Coruna,427,4.7,0.0,1.0,39.0,1.0,430.0,Deportivo-La-Coruna
+,Ola John,nl NED,"MF,FW",11,3,1.0,0.0,2016-2017,82b2a290,Deportivo-La-Coruna,353,3.9,1.0,0.0,39.0,11.0,524.0,Deportivo-La-Coruna
+,Borja Valle,es ESP,MF,7,1,0.0,0.0,2016-2017,3a6a49f7,Deportivo-La-Coruna,207,2.3,0.0,0.0,39.0,1.0,525.0,Deportivo-La-Coruna
+,Lucas Pérez,es ESP,FW,1,1,1.0,1.0,2016-2017,300ac7e,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,1.0,489.0,Deportivo-La-Coruna
+,Davy Roef,be BEL,GK,1,1,0.0,0.0,2016-2017,6fe2aba3,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,27.0,526.0,Deportivo-La-Coruna
+,Edu Expósito,es ESP,MF,1,1,0.0,0.0,2016-2017,283c7121,Deportivo-La-Coruna,44,0.5,0.0,0.0,39.0,1.0,527.0,Deportivo-La-Coruna
+,Pinchi,es ESP,"FW,MF",1,0,0.0,0.0,2016-2017,53bf02db,Deportivo-La-Coruna,1,0.0,0.0,0.0,39.0,1.0,514.0,Deportivo-La-Coruna
+,Nacho Monsalve,es ESP,DF,0,0,,,2016-2017,8246c61e,Deportivo-La-Coruna,,,,,39.0,1.0,528.0,Deportivo-La-Coruna
+,﻿Juanfran,es ESP,DF,35,34,1.0,0.0,2017-2018,9ba48d64,Deportivo-La-Coruna,"3,057",34.0,3.0,0.0,39.0,1.0,86.0,Deportivo-La-Coruna
+,Lucas Pérez,es ESP,"FW,MF",35,31,6.0,8.0,2017-2018,300ac7e,Deportivo-La-Coruna,"2,797",31.1,3.0,0.0,39.0,1.0,489.0,Deportivo-La-Coruna
+,Guilherme,br BRA,MF,31,31,0.0,0.0,2017-2018,8754c7ca,Deportivo-La-Coruna,"2,639",29.3,11.0,0.0,39.0,2.0,517.0,Deportivo-La-Coruna
+,Luisinho,pt POR,DF,30,29,1.0,1.0,2017-2018,7f00c8c,Deportivo-La-Coruna,"2,622",29.1,12.0,0.0,39.0,3.0,475.0,Deportivo-La-Coruna
+,Rubén,es ESP,GK,28,27,0.0,0.0,2017-2018,24279b8b,Deportivo-La-Coruna,"2,478",27.5,3.0,0.0,39.0,1.0,529.0,Deportivo-La-Coruna
+,Adrián López,es ESP,"MF,FW",30,26,6.0,9.0,2017-2018,88a359d4,Deportivo-La-Coruna,"2,345",26.1,1.0,0.0,39.0,1.0,417.0,Deportivo-La-Coruna
+,Celso Borges,cr CRC,MF,32,26,3.0,3.0,2017-2018,b8836910,Deportivo-La-Coruna,"2,300",25.6,4.0,1.0,39.0,22.0,491.0,Deportivo-La-Coruna
+,Fabian Schär,ch SUI,DF,25,25,2.0,2.0,2017-2018,c8aa95da,Deportivo-La-Coruna,"2,219",24.7,10.0,0.0,39.0,39.0,530.0,Deportivo-La-Coruna
+,Sidnei,br BRA,DF,21,21,1.0,1.0,2017-2018,b14d0c5d,Deportivo-La-Coruna,"1,778",19.8,4.0,0.0,39.0,2.0,488.0,Deportivo-La-Coruna
+,Raúl Albentosa,es ESP,DF,20,19,0.0,1.0,2017-2018,348e4809,Deportivo-La-Coruna,"1,748",19.4,5.0,0.0,39.0,1.0,516.0,Deportivo-La-Coruna
+,Emre Çolak,tr TUR,MF,26,17,1.0,1.0,2017-2018,643b39a6,Deportivo-La-Coruna,"1,449",16.1,4.0,0.0,39.0,15.0,515.0,Deportivo-La-Coruna
+,Florin Andone,ro ROU,FW,29,16,3.0,7.0,2017-2018,dc008610,Deportivo-La-Coruna,"1,636",18.2,6.0,0.0,39.0,51.0,531.0,Deportivo-La-Coruna
+,Pedro Mosquera,es ESP,MF,23,16,2.0,0.0,2017-2018,c5fa58ea,Deportivo-La-Coruna,"1,396",15.5,7.0,0.0,39.0,1.0,88.0,Deportivo-La-Coruna
+,Federico Cartabia,ar ARG,MF,20,16,1.0,2.0,2017-2018,8e6bebf,Deportivo-La-Coruna,"1,324",14.7,6.0,0.0,39.0,5.0,507.0,Deportivo-La-Coruna
+,Federico Valverde,uy URU,MF,24,12,0.0,0.0,2017-2018,0959c2a2,Deportivo-La-Coruna,"1,233",13.7,0.0,0.0,39.0,8.0,157.0,Deportivo-La-Coruna
+,Fernando Navarro,es ESP,DF,15,11,0.0,0.0,2017-2018,5a3f6fae,Deportivo-La-Coruna,"1,046",11.6,5.0,0.0,39.0,1.0,518.0,Deportivo-La-Coruna
+,Zakaria Bakkali,be BEL,MF,23,10,0.0,0.0,2017-2018,c3efd7f,Deportivo-La-Coruna,909,10.1,5.0,0.0,39.0,27.0,532.0,Deportivo-La-Coruna
+,Michael Krohn-Dehli,dk DEN,MF,11,10,0.0,0.0,2017-2018,1c8dc17d,Deportivo-La-Coruna,728,8.1,2.0,0.0,39.0,7.0,533.0,Deportivo-La-Coruna
+,Eneko Bóveda,es ESP,DF,8,7,0.0,0.0,2017-2018,1771f2c1,Deportivo-La-Coruna,667,7.4,2.0,0.0,39.0,1.0,534.0,Deportivo-La-Coruna
+,Costel Pantilimon,ro ROU,GK,6,6,0.0,0.0,2017-2018,d24e154c,Deportivo-La-Coruna,540,6.0,0.0,0.0,39.0,51.0,535.0,Deportivo-La-Coruna
+,Carles Gil,es ESP,"MF,FW",10,6,1.0,0.0,2017-2018,11c30a46,Deportivo-La-Coruna,476,5.3,0.0,0.0,39.0,1.0,519.0,Deportivo-La-Coruna
+,Sulley Muntari,gh GHA,MF,8,6,0.0,0.0,2017-2018,185aa52,Deportivo-La-Coruna,405,4.5,3.0,0.0,39.0,17.0,536.0,Deportivo-La-Coruna
+,Borja Valle,es ESP,"FW,MF",17,3,2.0,3.0,2017-2018,3a6a49f7,Deportivo-La-Coruna,486,5.4,1.0,0.0,39.0,1.0,525.0,Deportivo-La-Coruna
+,Alejandro Arribas,es ESP,DF,3,3,0.0,0.0,2017-2018,cc29324e,Deportivo-La-Coruna,270,3.0,0.0,0.0,39.0,1.0,505.0,Deportivo-La-Coruna
+,Francis Uzoho,ng NGA,GK,2,2,0.0,0.0,2017-2018,cfd68aa7,Deportivo-La-Coruna,180,2.0,0.0,0.0,39.0,52.0,537.0,Deportivo-La-Coruna
+,Gerard Valentín,es ESP,"DF,MF",3,2,0.0,0.0,2017-2018,9d4c3227,Deportivo-La-Coruna,158,1.8,0.0,0.0,39.0,1.0,538.0,Deportivo-La-Coruna
+,Maksym Koval,ua UKR,GK,2,2,0.0,0.0,2017-2018,60713cb3,Deportivo-La-Coruna,120,1.3,0.0,1.0,39.0,29.0,539.0,Deportivo-La-Coruna
+,Bruno Gama,pt POR,"MF,FW",6,1,0.0,0.0,2017-2018,6cffc9df,Deportivo-La-Coruna,115,1.3,1.0,0.0,39.0,3.0,456.0,Deportivo-La-Coruna
+,Mujaid Sadick,es ESP,DF,2,1,0.0,0.0,2017-2018,21164a21,Deportivo-La-Coruna,106,1.2,0.0,0.0,39.0,1.0,540.0,Deportivo-La-Coruna
+,Przemysław Tytoń,pl POL,GK,2,1,0.0,0.0,2017-2018,1fa85681,Deportivo-La-Coruna,98,1.1,0.0,0.0,39.0,14.0,520.0,Deportivo-La-Coruna
+,Steve Aldo One,cm CMR,DF,1,1,0.0,0.0,2017-2018,8599c17,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,36.0,,Deportivo-La-Coruna
+,Edu Expósito,es ESP,MF,3,0,0.0,0.0,2017-2018,283c7121,Deportivo-La-Coruna,96,1.1,1.0,0.0,39.0,1.0,527.0,Deportivo-La-Coruna
+,Quique Fornos,es ESP,DF,0,0,,,2017-2018,29d06a49,Deportivo-La-Coruna,,,,,39.0,1.0,541.0,Deportivo-La-Coruna
+,﻿Dani Giménez,es ESP,GK,41,41,0.0,0.0,2018-2019,7c218bf9,Deportivo-La-Coruna,"3,690",41.0,1.0,0.0,39.0,1.0,542.0,Deportivo-La-Coruna
+,Domingos Duarte,pt POR,DF,39,39,0.0,4.0,2018-2019,93090f69,Deportivo-La-Coruna,"3,478",38.6,13.0,0.0,39.0,3.0,543.0,Deportivo-La-Coruna
+,Pablo Marí,es ESP,DF,37,35,0.0,2.0,2018-2019,54ec6f,Deportivo-La-Coruna,"3,174",35.3,10.0,1.0,39.0,1.0,544.0,Deportivo-La-Coruna
+,Quique,es ESP,FW,36,33,2.0,16.0,2018-2019,c966fce1,Deportivo-La-Coruna,"2,873",31.9,0.0,1.0,39.0,1.0,545.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,MF,35,32,3.0,1.0,2018-2019,65ea8868,Deportivo-La-Coruna,"2,719",30.2,5.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Edu Expósito,es ESP,MF,35,29,4.0,2.0,2018-2019,283c7121,Deportivo-La-Coruna,"2,584",28.7,3.0,1.0,39.0,1.0,527.0,Deportivo-La-Coruna
+,David Simón,es ESP,DF,28,26,1.0,0.0,2018-2019,251336da,Deportivo-La-Coruna,"2,334",25.9,7.0,0.0,39.0,1.0,546.0,Deportivo-La-Coruna
+,Vicente Gómez,es ESP,MF,30,22,1.0,0.0,2018-2019,cefb32b1,Deportivo-La-Coruna,"1,983",22.0,7.0,0.0,39.0,1.0,547.0,Deportivo-La-Coruna
+,Carlos Fernández,es ESP,FW,24,22,2.0,8.0,2018-2019,08647d6,Deportivo-La-Coruna,"1,891",21.0,7.0,0.0,39.0,1.0,,Deportivo-La-Coruna
+,Diego Caballo Alonso,es ESP,DF,25,21,1.0,0.0,2018-2019,2f4848f5,Deportivo-La-Coruna,"1,975",21.9,4.0,0.0,39.0,1.0,548.0,Deportivo-La-Coruna
+,Borja Valle,es ESP,"FW,MF",31,20,3.0,7.0,2018-2019,3a6a49f7,Deportivo-La-Coruna,"1,883",20.9,1.0,1.0,39.0,1.0,525.0,Deportivo-La-Coruna
+,Saúl García,es ESP,DF,20,20,3.0,0.0,2018-2019,dafa5038,Deportivo-La-Coruna,"1,709",19.0,4.0,1.0,39.0,1.0,549.0,Deportivo-La-Coruna
+,Federico Cartabia,ar ARG,"MF,FW",30,18,7.0,2.0,2018-2019,8e6bebf,Deportivo-La-Coruna,"1,600",17.8,3.0,0.0,39.0,5.0,507.0,Deportivo-La-Coruna
+,Eneko Bóveda,es ESP,DF,20,18,1.0,0.0,2018-2019,1771f2c1,Deportivo-La-Coruna,"1,547",17.2,0.0,0.0,39.0,1.0,534.0,Deportivo-La-Coruna
+,Pedro,es ESP,"MF,FW",21,13,2.0,3.0,2018-2019,b642c79,Deportivo-La-Coruna,"1,210",13.4,3.0,0.0,39.0,1.0,550.0,Deportivo-La-Coruna
+,Didier Moreno,co COL,MF,21,12,2.0,0.0,2018-2019,71849534,Deportivo-La-Coruna,"1,114",12.4,7.0,0.0,39.0,19.0,551.0,Deportivo-La-Coruna
+,Pedro Mosquera,es ESP,MF,16,12,1.0,0.0,2018-2019,c5fa58ea,Deportivo-La-Coruna,"1,014",11.3,2.0,0.0,39.0,1.0,88.0,Deportivo-La-Coruna
+,Carles Gil,es ESP,"MF,FW",18,12,1.0,0.0,2018-2019,11c30a46,Deportivo-La-Coruna,960,10.7,0.0,0.0,39.0,1.0,519.0,Deportivo-La-Coruna
+,Michael Krohn-Dehli,dk DEN,MF,14,8,1.0,0.0,2018-2019,1c8dc17d,Deportivo-La-Coruna,823,9.1,2.0,2.0,39.0,7.0,533.0,Deportivo-La-Coruna
+,Christian Santos,ve VEN,FW,21,6,0.0,3.0,2018-2019,4efd29bb,Deportivo-La-Coruna,702,7.8,3.0,0.0,39.0,53.0,552.0,Deportivo-La-Coruna
+,Michele Somma,it ITA,DF,10,6,0.0,1.0,2018-2019,9c6e1296,Deportivo-La-Coruna,531,5.9,2.0,1.0,39.0,9.0,553.0,Deportivo-La-Coruna
+,Matías Nahuel,es ESP,"MF,FW",13,5,0.0,0.0,2018-2019,48e4c485,Deportivo-La-Coruna,539,6.0,1.0,1.0,39.0,1.0,554.0,Deportivo-La-Coruna
+,Vítor,pt POR,FW,4,1,0.0,0.0,2018-2019,54fab1d4,Deportivo-La-Coruna,127,1.4,2.0,0.0,39.0,3.0,555.0,Deportivo-La-Coruna
+,Joni Montiel,es ESP,MF,1,0,0.0,0.0,2018-2019,535771bb,Deportivo-La-Coruna,26,0.3,0.0,0.0,39.0,1.0,556.0,Deportivo-La-Coruna
+,Íñigo López,es ESP,DF,1,0,0.0,0.0,2018-2019,8c61ca86,Deportivo-La-Coruna,19,0.2,0.0,0.0,39.0,1.0,557.0,Deportivo-La-Coruna
+,Gerard Valentín,es ESP,"DF,MF",1,0,0.0,0.0,2018-2019,9d4c3227,Deportivo-La-Coruna,14,0.2,1.0,0.0,39.0,1.0,538.0,Deportivo-La-Coruna
+,Adrián Ortolá,es ESP,GK,0,0,0.0,0.0,2018-2019,6a22fe38,Deportivo-La-Coruna,,0.0,1.0,0.0,39.0,1.0,558.0,Deportivo-La-Coruna
+,Sebastián Dubarbier,ar ARG,"DF,FW",0,0,,,2018-2019,83877c7c,Deportivo-La-Coruna,,,,,39.0,5.0,559.0,Deportivo-La-Coruna
+,﻿Dani Giménez,es ESP,GK,41,41,0.0,0.0,2019-2020,7c218bf9,Deportivo-La-Coruna,"3,690",41.0,0.0,0.0,39.0,1.0,542.0,Deportivo-La-Coruna
+,Ager Aketxe,es ESP,"MF,FW",39,34,4.0,7.0,2019-2020,c5eaff5c,Deportivo-La-Coruna,"3,042",33.8,3.0,0.0,39.0,1.0,560.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,"MF,DF",38,32,1.0,1.0,2019-2020,65ea8868,Deportivo-La-Coruna,"2,988",33.2,2.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Eneko Bóveda,es ESP,"DF,MF",31,31,2.0,1.0,2019-2020,1771f2c1,Deportivo-La-Coruna,"2,629",29.2,10.0,0.0,39.0,1.0,534.0,Deportivo-La-Coruna
+,Victor Mollejo,es ESP,"MF,FW",36,29,4.0,6.0,2019-2020,23fffc06,Deportivo-La-Coruna,"2,531",28.1,13.0,0.0,39.0,1.0,561.0,Deportivo-La-Coruna
+,Francisco Montero,es ESP,DF,30,29,1.0,0.0,2019-2020,3e96f3e7,Deportivo-La-Coruna,"2,470",27.4,10.0,1.0,39.0,1.0,562.0,Deportivo-La-Coruna
+,Mujaid Sadick,es ESP,DF,28,27,0.0,0.0,2019-2020,21164a21,Deportivo-La-Coruna,"2,336",26.0,4.0,0.0,39.0,1.0,540.0,Deportivo-La-Coruna
+,Peru Nolaskoain,es ESP,"MF,DF",28,26,0.0,2.0,2019-2020,857cb4f3,Deportivo-La-Coruna,"2,314",25.7,6.0,0.0,39.0,1.0,563.0,Deportivo-La-Coruna
+,Gaku Shibasaki,jp JPN,MF,26,25,2.0,0.0,2019-2020,d2ac648c,Deportivo-La-Coruna,"1,944",21.6,5.0,2.0,39.0,54.0,564.0,Deportivo-La-Coruna
+,Salva Ruiz,es ESP,"DF,MF",25,24,1.0,0.0,2019-2020,36f9794,Deportivo-La-Coruna,"1,965",21.8,1.0,0.0,39.0,1.0,565.0,Deportivo-La-Coruna
+,Vassilis Lambropoulos,gr GRE,DF,17,17,1.0,0.0,2019-2020,591477c9,Deportivo-La-Coruna,"1,501",16.7,2.0,0.0,39.0,55.0,566.0,Deportivo-La-Coruna
+,Mamadou Koné,ci CIV,"FW,MF",22,17,4.0,4.0,2019-2020,85b9dca0,Deportivo-La-Coruna,"1,446",16.1,5.0,1.0,39.0,35.0,567.0,Deportivo-La-Coruna
+,Borja Valle,es ESP,"MF,FW",24,15,0.0,2.0,2019-2020,3a6a49f7,Deportivo-La-Coruna,"1,483",16.5,1.0,0.0,39.0,1.0,525.0,Deportivo-La-Coruna
+,Vicente Gómez,es ESP,MF,25,15,0.0,0.0,2019-2020,cefb32b1,Deportivo-La-Coruna,"1,287",14.3,5.0,1.0,39.0,1.0,547.0,Deportivo-La-Coruna
+,Sabin Merino,es ESP,FW,18,14,0.0,5.0,2019-2020,1d5f96d9,Deportivo-La-Coruna,"1,202",13.4,2.0,0.0,39.0,1.0,568.0,Deportivo-La-Coruna
+,Michele Somma,it ITA,DF,14,14,0.0,1.0,2019-2020,9c6e1296,Deportivo-La-Coruna,"1,154",12.8,4.0,1.0,39.0,9.0,553.0,Deportivo-La-Coruna
+,Emre Çolak,tr TUR,"MF,FW",16,10,0.0,2.0,2019-2020,643b39a6,Deportivo-La-Coruna,891,9.9,4.0,1.0,39.0,15.0,515.0,Deportivo-La-Coruna
+,David Simón,es ESP,"DF,MF",10,8,0.0,1.0,2019-2020,251336da,Deportivo-La-Coruna,695,7.7,2.0,0.0,39.0,1.0,546.0,Deportivo-La-Coruna
+,Luis Ruiz Sayago,es ESP,DF,14,7,0.0,0.0,2019-2020,7451b305,Deportivo-La-Coruna,725,8.1,4.0,0.0,39.0,1.0,569.0,Deportivo-La-Coruna
+,Samuele Longo,it ITA,FW,13,7,0.0,0.0,2019-2020,1163de29,Deportivo-La-Coruna,642,7.1,3.0,0.0,39.0,9.0,570.0,Deportivo-La-Coruna
+,Borja Galán,es ESP,"MF,FW",13,7,0.0,0.0,2019-2020,3d8d4593,Deportivo-La-Coruna,623,6.9,1.0,0.0,39.0,1.0,571.0,Deportivo-La-Coruna
+,Christian Santos,ve VEN,FW,27,6,2.0,6.0,2019-2020,4efd29bb,Deportivo-La-Coruna,"1,016",11.3,3.0,0.0,39.0,53.0,552.0,Deportivo-La-Coruna
+,Uche Henry Agbo,ng NGA,MF,9,6,0.0,0.0,2019-2020,98554bfd,Deportivo-La-Coruna,504,5.6,2.0,0.0,39.0,52.0,572.0,Deportivo-La-Coruna
+,Claudio Beauvue,gp GLP,"FW,MF",10,5,0.0,2.0,2019-2020,8ca253a3,Deportivo-La-Coruna,423,4.7,2.0,0.0,39.0,56.0,573.0,Deportivo-La-Coruna
+,Saša Jovanović,rs SRB,"MF,FW",11,4,0.0,1.0,2019-2020,73c56892,Deportivo-La-Coruna,394,4.4,1.0,0.0,39.0,28.0,574.0,Deportivo-La-Coruna
+,Abdoulaye Ba,sn SEN,"DF,MF",3,3,0.0,0.0,2019-2020,1f54ed90,Deportivo-La-Coruna,180,2.0,1.0,0.0,39.0,34.0,,Deportivo-La-Coruna
+,Hugo Vallejo,es ESP,"MF,FW",13,2,1.0,1.0,2019-2020,0140385,Deportivo-La-Coruna,480,5.3,0.0,0.0,39.0,1.0,,Deportivo-La-Coruna
+,Diego Caballo Alonso,es ESP,DF,2,2,0.0,0.0,2019-2020,2f4848f5,Deportivo-La-Coruna,180,2.0,1.0,0.0,39.0,1.0,548.0,Deportivo-La-Coruna
+,Jorge Valín,es ESP,"MF,DF",2,2,0.0,0.0,2019-2020,79f9c105,Deportivo-La-Coruna,151,1.7,0.0,0.0,39.0,1.0,576.0,Deportivo-La-Coruna
+,Keko,es ESP,MF,7,1,2.0,0.0,2019-2020,1512328c,Deportivo-La-Coruna,228,2.5,2.0,0.0,39.0,1.0,577.0,Deportivo-La-Coruna
+,Aleksandar Jovanović,rs SRB,GK,1,1,0.0,0.0,2019-2020,129dd8e7,Deportivo-La-Coruna,90,1.0,0.0,0.0,39.0,28.0,578.0,Deportivo-La-Coruna
+,Pedro,es ESP,MF,1,1,0.0,0.0,2019-2020,b642c79,Deportivo-La-Coruna,54,0.6,1.0,0.0,39.0,1.0,550.0,Deportivo-La-Coruna
+,Beto da Silva,pe PER,"FW,MF",7,0,1.0,0.0,2019-2020,8184304e,Deportivo-La-Coruna,126,1.4,0.0,0.0,39.0,57.0,579.0,Deportivo-La-Coruna
+,Yago Gandoy,es ESP,MF,4,0,0.0,0.0,2019-2020,182d895d,Deportivo-La-Coruna,41,0.5,0.0,0.0,39.0,1.0,580.0,Deportivo-La-Coruna
+,David Sánchez,es ESP,DF,1,0,0.0,0.0,2019-2020,4ba08153,Deportivo-La-Coruna,19,0.2,0.0,0.0,39.0,1.0,581.0,Deportivo-La-Coruna
+,Tomás Bourdal,ar ARG,DF,0,0,,,2019-2020,75216418,Deportivo-La-Coruna,,,,,39.0,5.0,582.0,Deportivo-La-Coruna
+,Álex Cobo,es ESP,GK,0,0,,,2019-2020,b137ff49,Deportivo-La-Coruna,,,,,39.0,1.0,583.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,DF,0,0,,,2019-2020,f97ab95a,Deportivo-La-Coruna,,,,,39.0,1.0,584.0,Deportivo-La-Coruna
+,Alberto Sánchez,es ESP,GK,0,0,,,2019-2020,cfc4ddd0,Deportivo-La-Coruna,,,,,39.0,1.0,585.0,Deportivo-La-Coruna
+,Javi Sánchez,es ESP,MF,0,0,,,2019-2020,76778808,Deportivo-La-Coruna,,,,,39.0,1.0,586.0,Deportivo-La-Coruna
+,Koke Vegas,es ESP,GK,0,0,,,2019-2020,bfb15d99,Deportivo-La-Coruna,,,,,39.0,1.0,587.0,Deportivo-La-Coruna
+,﻿Álex Bergantiños,es ESP,MF,2,2,0.0,0.0,2020-2021,65ea8868,Deportivo-La-Coruna,180.0,2.0,0.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Celso Borges,cr CRC,MF,2,2,0.0,0.0,2020-2021,b8836910,Deportivo-La-Coruna,180.0,2.0,1.0,0.0,39.0,22.0,491.0,Deportivo-La-Coruna
+,Eneko Bóveda,es ESP,DF,2,2,0.0,0.0,2020-2021,1771f2c1,Deportivo-La-Coruna,180.0,2.0,0.0,0.0,39.0,1.0,534.0,Deportivo-La-Coruna
+,Luis Alberto García Pacheco,co COL,GK,2,2,0.0,0.0,2020-2021,5e9d0e32,Deportivo-La-Coruna,180.0,2.0,0.0,0.0,39.0,19.0,588.0,Deportivo-La-Coruna
+,Mujaid Sadick,es ESP,DF,2,2,0.0,0.0,2020-2021,21164a21,Deportivo-La-Coruna,180.0,2.0,0.0,0.0,39.0,1.0,540.0,Deportivo-La-Coruna
+,José Alonso Lara,es ESP,MF,2,2,1.0,0.0,2020-2021,7e28d6f7,Deportivo-La-Coruna,122.0,1.4,0.0,0.0,39.0,1.0,589.0,Deportivo-La-Coruna
+,Claudio Beauvue,gp GLP,FW,2,2,0.0,0.0,2020-2021,8ca253a3,Deportivo-La-Coruna,104.0,1.2,0.0,0.0,39.0,56.0,573.0,Deportivo-La-Coruna
+,Héctor Hernández,es ESP,DF,2,1,0.0,1.0,2020-2021,76ee80ee,Deportivo-La-Coruna,121.0,1.3,0.0,0.0,39.0,1.0,,Deportivo-La-Coruna
+,Rui Costa,pt POR,FW,2,1,0.0,0.0,2020-2021,43adcd,Deportivo-La-Coruna,104.0,1.2,0.0,0.0,39.0,3.0,590.0,Deportivo-La-Coruna
+,Jorge Valín,es ESP,DF,1,1,0.0,0.0,2020-2021,79f9c105,Deportivo-La-Coruna,90.0,1.0,0.0,0.0,39.0,1.0,576.0,Deportivo-La-Coruna
+,Yago Gandoy,es ESP,MF,1,1,0.0,0.0,2020-2021,182d895d,Deportivo-La-Coruna,73.0,0.8,0.0,0.0,39.0,1.0,580.0,Deportivo-La-Coruna
+,Keko,es ESP,MF,1,1,0.0,0.0,2020-2021,1512328c,Deportivo-La-Coruna,67.0,0.7,0.0,0.0,39.0,1.0,577.0,Deportivo-La-Coruna
+,Salva Ruiz,es ESP,DF,1,1,0.0,0.0,2020-2021,36f9794,Deportivo-La-Coruna,67.0,0.7,0.0,0.0,39.0,1.0,565.0,Deportivo-La-Coruna
+,Mosquera,es ESP,MF,1,1,0.0,0.0,2020-2021,863431bc,Deportivo-La-Coruna,59.0,0.7,1.0,0.0,39.0,1.0,591.0,Deportivo-La-Coruna
+,Borja Granero,es ESP,DF,1,1,0.0,0.0,2020-2021,080b1c1,Deportivo-La-Coruna,33.0,0.4,0.0,1.0,39.0,1.0,592.0,Deportivo-La-Coruna
+,Borja Galán,es ESP,MF,1,0,0.0,0.0,2020-2021,3d8d4593,Deportivo-La-Coruna,45.0,0.5,1.0,0.0,39.0,1.0,571.0,Deportivo-La-Coruna
+,Juan Ignacio González Brazeiro,uy URU,MF,1,0,0.0,0.0,2020-2021,77f570be,Deportivo-La-Coruna,31.0,0.3,0.0,0.0,39.0,8.0,593.0,Deportivo-La-Coruna
+,Derik Osede,es ESP,DF,1,0,0.0,0.0,2020-2021,fdccf078,Deportivo-La-Coruna,27.0,0.3,0.0,0.0,39.0,1.0,594.0,Deportivo-La-Coruna
+,Alejandro Barba,,MF,1,0,0.0,0.0,2020-2021,391f7828,Deportivo-La-Coruna,23.0,0.3,0.0,0.0,39.0,,,Deportivo-La-Coruna
+,Diego Rolán,uy URU,"FW,MF",1,0,0.0,0.0,2020-2021,d1491e00,Deportivo-La-Coruna,23.0,0.3,0.0,0.0,39.0,8.0,595.0,Deportivo-La-Coruna
+,Uche Henry Agbo,ng NGA,MF,1,0,0.0,0.0,2020-2021,98554bfd,Deportivo-La-Coruna,17.0,0.2,0.0,0.0,39.0,52.0,572.0,Deportivo-La-Coruna
+,Miku,ve VEN,FW,1,0,0.0,0.0,2020-2021,4eba9598,Deportivo-La-Coruna,17.0,0.2,0.0,0.0,39.0,53.0,596.0,Deportivo-La-Coruna
+,Carlos Abad,es ESP,GK,0,0,,,2020-2021,6970bedb,Deportivo-La-Coruna,,,,,39.0,1.0,597.0,Deportivo-La-Coruna
+,Iván Guerrero,es ESP,DF,0,0,,,2020-2021,6d67afc4,Deportivo-La-Coruna,,,,,39.0,1.0,598.0,Deportivo-La-Coruna
+,Yeremay Hernández,es ESP,MF,0,0,,,2020-2021,dee186db,Deportivo-La-Coruna,,,,,39.0,1.0,599.0,Deportivo-La-Coruna
+,Juan Rodríguez,es ESP,DF,0,0,,,2020-2021,f97ab95a,Deportivo-La-Coruna,,,,,39.0,1.0,584.0,Deportivo-La-Coruna
+,﻿Diego Aguirre,es ESP,DF,2,2,0.0,0.0,2021-2022,45b8139c,Deportivo-La-Coruna,210.0,2.3,0.0,0.0,39.0,1.0,600.0,Deportivo-La-Coruna
+,Josep Calavera,es ESP,MF,2,2,0.0,0.0,2021-2022,69216171,Deportivo-La-Coruna,210.0,2.3,0.0,0.0,39.0,1.0,601.0,Deportivo-La-Coruna
+,Borja Granero,es ESP,DF,2,2,0.0,0.0,2021-2022,080b1c1,Deportivo-La-Coruna,210.0,2.3,1.0,0.0,39.0,1.0,592.0,Deportivo-La-Coruna
+,Rafael de Vicente Hernández,es ESP,MF,2,2,1.0,0.0,2021-2022,bde52d2c,Deportivo-La-Coruna,210.0,2.3,0.0,0.0,39.0,1.0,602.0,Deportivo-La-Coruna
+,Trilli,es ESP,DF,2,2,0.0,0.0,2021-2022,0a483139,Deportivo-La-Coruna,202.0,2.2,0.0,0.0,39.0,1.0,603.0,Deportivo-La-Coruna
+,Noel López,es ESP,FW,2,2,0.0,0.0,2021-2022,36b8ecd9,Deportivo-La-Coruna,201.0,2.2,0.0,0.0,39.0,1.0,604.0,Deportivo-La-Coruna
+,Pablo Trigueros,es ESP,DF,2,2,0.0,0.0,2021-2022,9cdb0015,Deportivo-La-Coruna,189.0,2.1,0.0,0.0,39.0,1.0,605.0,Deportivo-La-Coruna
+,Mario Soriano,es ESP,MF,2,2,0.0,0.0,2021-2022,b41a8b01,Deportivo-La-Coruna,138.0,1.5,0.0,0.0,39.0,1.0,606.0,Deportivo-La-Coruna
+,Pablo Brea,es ESP,GK,1,1,0.0,0.0,2021-2022,bdddd546,Deportivo-La-Coruna,120.0,1.3,0.0,0.0,39.0,1.0,607.0,Deportivo-La-Coruna
+,William,br BRA,MF,2,1,0.0,1.0,2021-2022,09bc547d,Deportivo-La-Coruna,109.0,1.2,0.0,0.0,39.0,2.0,608.0,Deportivo-La-Coruna
+,Ian Mackay,ee EST,GK,1,1,0.0,0.0,2021-2022,30740261,Deportivo-La-Coruna,90.0,1.0,0.0,0.0,39.0,58.0,609.0,Deportivo-La-Coruna
+,Carlos Doncel,es ESP,MF,1,1,0.0,1.0,2021-2022,82328d34,Deportivo-La-Coruna,82.0,0.9,0.0,0.0,39.0,1.0,610.0,Deportivo-La-Coruna
+,Juan Carlos Menudo Domínguez,es ESP,MF,1,1,0.0,0.0,2021-2022,b6be6142,Deportivo-La-Coruna,66.0,0.7,1.0,0.0,39.0,1.0,611.0,Deportivo-La-Coruna
+,Villares,es ESP,FW,1,1,0.0,0.0,2021-2022,610e6e05,Deportivo-La-Coruna,57.0,0.6,0.0,0.0,39.0,1.0,612.0,Deportivo-La-Coruna
+,Alberto Quiles,es ESP,FW,2,0,0.0,2.0,2021-2022,25233d1b,Deportivo-La-Coruna,58.0,0.6,1.0,0.0,39.0,1.0,,Deportivo-La-Coruna
+,Yeremay Hernández,es ESP,MF,1,0,1.0,1.0,2021-2022,dee186db,Deportivo-La-Coruna,54.0,0.6,0.0,0.0,39.0,1.0,599.0,Deportivo-La-Coruna
+,Álex Bergantiños,es ESP,MF,1,0,0.0,0.0,2021-2022,65ea8868,Deportivo-La-Coruna,33.0,0.4,0.0,0.0,39.0,1.0,455.0,Deportivo-La-Coruna
+,Víctor García,es ESP,MF,1,0,0.0,0.0,2021-2022,6636496a,Deportivo-La-Coruna,33.0,0.4,0.0,0.0,39.0,1.0,613.0,Deportivo-La-Coruna
+,Adrián Lapeña,es ESP,DF,1,0,0.0,0.0,2021-2022,2e23679,Deportivo-La-Coruna,21.0,0.2,0.0,0.0,39.0,1.0,614.0,Deportivo-La-Coruna
+,Alberto Benito,es ESP,DF,1,0,0.0,0.0,2021-2022,b8779803,Deportivo-La-Coruna,9.0,0.1,0.0,0.0,39.0,1.0,615.0,Deportivo-La-Coruna
+,Miku,ve VEN,FW,1,0,0.0,0.0,2021-2022,4eba9598,Deportivo-La-Coruna,8.0,0.1,0.0,0.0,39.0,53.0,596.0,Deportivo-La-Coruna
+,Héctor Hernández,es ESP,DF,0,0,,,2021-2022,76ee80ee,Deportivo-La-Coruna,,,,,39.0,1.0,,Deportivo-La-Coruna
+,Alberto Sánchez,es ESP,GK,0,0,,,2021-2022,cfc4ddd0,Deportivo-La-Coruna,,,,,39.0,1.0,585.0,Deportivo-La-Coruna
+,Jorge Valín,es ESP,DF,0,0,,,2021-2022,79f9c105,Deportivo-La-Coruna,,,,,39.0,1.0,576.0,Deportivo-La-Coruna

@@ -1,255 +1,255 @@
-﻿,Player,Link,Player_id,Player_name,Nationality,Position
-0,﻿José Mari,/en/players/b56835b1/Jose-Mari,b56835b1,Jose-Mari,es ESP,FW
-1,Fernando Torres,/en/players/bdf7b97d/Fernando-Torres,bdf7b97d,Fernando-To,es ESP,FW
-2,Cosmin Contra,/en/players/9bdc0e80/Cosmin-Contra,9bdc0e80,Cosmin-Cont,ro ROU,"DF,MF"
-3,Fabricio Coloccini,/en/players/78b3399f/Fabricio-Coloccini,78b3399f,Fabricio-Coloccini,ar ARG,"DF,MF"
-4,Sergi Barjuán,/en/players/906a398c/Sergi-Barjuan,906a398c,Sergi-Barju,es ESP,DF
-5,Demetrio Albertini,/en/players/91a9535a/Demetrio-Albertini,91a9535a,Demetrio-Albertini,it ITA,"FW,MF"
-6,Emerson,/en/players/7b167dbb/Emerson,7b167dbb,Emerso,br BRA,MF
-7,Luis García,/en/players/a5c8d2b7/Luis-Garcia,5c8d2b7,Luis-Garci,es ESP,MF
-8,Mirsad Hibić,/en/players/35bfc1b5/Mirsad-Hibic,35bfc1b5,Mirsad-Hibic,ba BIH,DF
-9,Esteban,/en/players/e4fc2638/Esteban,4fc2638,Esteb,es ESP,GK
-10,José García Calvo,/en/players/c79150ab/Jose-Garcia-Calvo,c79150ab,Jose-Garcia-Calvo,es ESP,DF
-11,Carlos Aguilera,/en/players/1bb900d7/Carlos-Aguilera,1bb900d7,Carlos-Agui,es ESP,DF
-12,José María Movilla,/en/players/1ac170a8/Jose-Maria-Movilla,1ac170a8,Jose-Maria-Movi,es ESP,MF
-13,Jorge Otero,/en/players/b2f887d4/Jorge-Otero,b2f887d4,Jorge-Otero,es ESP,DF
-14,Germán Burgos,/en/players/53028dd9/German-Burgos,53028dd9,German-Burgo,ar ARG,GK
-15,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,41a60718,Txomin-Nago,es ESP,MF
-16,Fernando Correa,/en/players/9c2c5331/Fernando-Correa,9c2c5331,Fernando-Co,uy URU,FW
-17,Jorge Larena,/en/players/3de25195/Jorge-Larena,3de25195,Jorge-L,es ESP,MF
-18,Jovan Stanković,/en/players/6985b8f9/Jovan-Stankovic,6985b8f9,Jovan-Stankovic,rs SRB,MF
-19,Javi Moreno,/en/players/64497d05/Javi-Moreno,64497d05,Javi-Moreno,es ESP,FW
-20,Santi,/en/players/98eab2b3/Santi,98eab2b3,Santi,es ESP,DF
-21,Lluís Carreras,/en/players/4e1b59cf/Lluis-Carreras,4e1b59cf,Lluis-C,es ESP,DF
-22,Juanma,/en/players/943f79f6/Juanma,943f79f6,Juanm,es ESP,GK
-23,Dani,/en/players/8215fbee/Dani,8215fbee,Dani,pt POR,"FW,MF"
-24,Armando Álvarez,/en/players/a28ae3ef/Armando-Alvarez,28ae3ef,Armando-Alvarez,es ESP,DF
-26,Matías Lequi,/en/players/dd0c806c/Matias-Lequi,dd0c806c,Matias-Lequi,ar ARG,DF
-27,Gonzalo de los Santos,/en/players/1855302a/Gonzalo-de-los-Santos,1855302a,Gonzalo-de-los-Santo,uy URU,MF
-28,Gaspar,/en/players/75e5329b/Gaspar,75e5329b,G,es ESP,DF
-29,Ariel Ibagaza,/en/players/bd513ca4/Ariel-Ibagaza,bd513ca4,Ariel-Ibagaz,ar ARG,MF
-30,Álvaro Novo,/en/players/e2b88098/Alvaro-Novo,2b88098,Alvaro-Novo,es ESP,MF
-31,Diego Simeone,/en/players/4b58d1e3/Diego-Simeone,4b58d1e3,Diego-Simeo,ar ARG,MF
-32,Nano,/en/players/51fbb7e2/Nano,51fbb7e2,Nano,es ESP,"DF,FW"
-33,Kiki Musampa,/en/players/4095895b/Kiki-Musampa,4095895b,Kiki-Musam,nl NED,"FW,MF"
-34,Demis Nikolaidis,/en/players/7bb7562d/Demis-Nikolaidis,7bb7562d,Demis-Nikolaidi,gr GRE,FW
-35,Veljko Paunović,/en/players/7d0ae66f/Veljko-Paunovic,7d0ae66f,Veljko-Paunovic,es ESP,"FW,MF"
-36,Sergio Aragoneses,/en/players/8e8258f5/Sergio-Aragoneses,8e8258f5,Sergio-Arago,es ESP,GK
-37,Rodrigo Fabri,/en/players/c1a0a9e2/Rodrigo-Fabri,c1a0a9e2,Rodrigo-Fabri,br BRA,MF
-38,Juan Manuel Ortiz,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Juan-Manuel-Ortiz,es ESP,"DF,MF"
-39,Diego Rivas,/en/players/eecf46bc/Diego-Rivas,cf46bc,Diego-Riv,es ESP,MF
-40,Javier Pinola,/en/players/faa5ffa8/Javier-Pinola,faa5ffa8,Javier-Pino,ar ARG,DF
-41,Javier Arizmendi,/en/players/14a6c075/Javier-Arizmendi,14a6c075,Javier-Arizmendi,es ESP,"FW,MF"
-42,Iván Romero,/en/players/4ecdc16d/Ivan-Romero,4ecdc16d,Ivan-Romero,es ESP,DF
-43,Rubén Olivera,/en/players/74b94461/Ruben-Olivera,74b94461,Ruben-Oliv,uy URU,MF
-44,Toché,/en/players/64e35e11/Toche,64e35e11,Toch,es ESP,FW
-45,Gabi,/en/players/65d750b5/Gabi,65d750b5,Gabi,es ESP,MF
-46,Leo Franco,/en/players/c39a5c6b/Leo-Franco,c39a5c6b,Leo-Franco,ar ARG,GK
-47,Pablo Ibáñez,/en/players/23ca89f2/Pablo-Ibanez,23ca89f2,Pablo-Ibanez,es ESP,DF
-48,Luis Amaranto Perea,/en/players/ff1988a5/Luis-Amaranto-Perea,ff1988a5,Luis-Amaranto-P,co COL,DF
-49,Antonio López,/en/players/e55190d5/Antonio-Lopez,55190d5,Antonio-Lopez,es ESP,"DF,MF"
-50,Peter Luccin,/en/players/3270f1b5/Peter-Luccin,3270f1b5,Peter-Lucci,fr FRA,MF
-51,Gonzalo Colsa,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Gonzalo-Co,es ESP,MF
-52,Juan Velasco Damas,/en/players/6630e590/Juan-Velasco-Damas,6630e590,Juan-Velasco-Dam,es ESP,DF
-53,Marcelo Sosa,/en/players/08ada3d0/Marcelo-Sosa,08ada3d0,Marcelo-So,uy URU,MF
-54,Salva Ballesta,/en/players/bd42bcb8/Salva-Ballesta,bd42bcb8,Salva-Ballest,es ESP,FW
-55,Jesper Grønkjær,/en/players/afe43b0f/Jesper-Gronkjaer,fe43b0f,Jesper-Gronkj,dk DEN,"FW,MF"
-56,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,2cea96ce,Francisco-Molinero,es ESP,DF
-57,Richard Núñez,/en/players/686f9128/Richard-Nunez,686f9128,Richard-Nunez,uy URU,"FW,MF"
-58,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,6e02869d,Braulio-Nobreg,es ESP,FW
-59,Iván Cuéllar,/en/players/75751c99/Ivan-Cuellar,75751c99,Ivan-Cu,es ESP,GK
-60,Raúl Medina Zamora,/en/players/003e7fcf/Raul-Medina-Zamora,003e7fcf,Raul-Medina-Zamo,es ESP,MF
-61,José Zahínos,/en/players/6a78fdc0/Jose-Zahinos,6a78fdc0,Jose-Zahino,es ESP,MF
-62,Martin Petrov,/en/players/011360ce/Martin-Petrov,011360ce,Martin-Petrov,bg BUL,"FW,MF"
-63,Mateja Kežman,/en/players/41985204/Mateja-Kezman,41985204,Mateja-Kezm,rs SRB,FW
-64,Maxi Rodríguez,/en/players/4f06b1e0/Maxi-Rodriguez,4f06b1e0,Maxi-Rodriguez,ar ARG,"FW,MF"
-65,Luciano Galletti,/en/players/2760ef74/Luciano-Galletti,2760ef74,Luciano-Galletti,ar ARG,MF
-66,Juan Valera Espín,/en/players/947fa33c/Juan-Valera-Espin,947fa33c,Juan-Valera-Espi,es ESP,"DF,MF"
-67,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Ismael-Falco,es ESP,GK
-68,Fernando Marqués,/en/players/71cccc52/Fernando-Marques,71cccc52,Fernando-Marqu,es ESP,MF
-69,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,1026f88d,Manu-del-Mo,es ESP,FW
-70,Mario Suárez,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Mario-Suarez,es ESP,MF
-71,Roberto,/en/players/ba3ca78f/Roberto,ba3ca78f,Roberto,es ESP,GK
-72,Rufino,/en/players/60edc577/Rufino,60edc577,Rufino,es ESP,FW
-73,Julián Vara,/en/players/5c92e249/Julian-Vara,5c92e249,Julian-V,es ESP,"DF,FW"
-74,Pablo Sicilia,/en/players/56bdf1b5/Pablo-Sicilia,56bdf1b5,Pablo-Sicili,es ESP,DF
-75,Antonio Moreno,/en/players/9004085d/Antonio-Moreno,9004085d,Antonio-Moreno,es ESP,DF
-76,Giourkas Seitaridis,/en/players/2dd41560/Giourkas-Seitaridis,2dd41560,Giourkas-Seitaridi,gr GRE,DF
-77,Sergio Agüero,/en/players/4d034881/Sergio-Aguero,4d034881,Sergio-Aguero,ar ARG,FW
-78,Maniche,/en/players/0355c8b5/Maniche,0355c8b5,Manich,pt POR,MF
-79,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,71d4e271,Jose-Manuel-Jurado,es ESP,MF
-80,Zé Castro,/en/players/ea2434db/Ze-Castro,2434db,Ze-Castro,pt POR,DF
-81,Mariano Pernía,/en/players/5f28a2f7/Mariano-Pernia,5f28a2f7,Mariano-Perni,es ESP,DF
-82,Costinha,/en/players/88e9ba29/Costinha,88e9ba29,Costinh,pt POR,MF
-83,Mista,/en/players/257c27e2/Mista,257c27e2,Mist,es ESP,FW
-84,Fabiano Eller,/en/players/ae7246f1/Fabiano-Eller,7246f1,Fabiano-E,br BRA,DF
-85,Víctor Bravo,/en/players/778c65b8/Victor-Bravo,778c65b8,Victor-Bravo,es ESP,MF
-86,Pollo,/en/players/a21f9971/Pollo,21f9971,Pollo,es ESP,MF
-87,Jacobo Ynclán,/en/players/68078edd/Jacobo-Ynclan,68078edd,Jacobo-Ync,es ESP,"FW,MF"
-88,﻿Diego Forlán,/en/players/d87d0dfc/Diego-Forlan,d87d0dfc,Diego-Fo,uy URU,"FW,MF"
-89,Raúl García,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Raul-Garci,es ESP,"FW,MF"
-90,Simão Sabrosa,/en/players/76a65612/Simao-Sabrosa,76a65612,Simao-Sabro,pt POR,MF
-91,Christian Abbiati,/en/players/322421c2/Christian-Abbiati,322421c2,Christian-Abbiati,it ITA,GK
-92,Cléber Santana,/en/players/bed73c6e/Cleber-Santana,bed73c6e,Cleber-Sant,br BRA,MF
-93,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,19058f02,Jose-Antonio-R,es ESP,MF
-94,Ignacio Camacho,/en/players/8ed9b33a/Ignacio-Camacho,8ed9b33a,Ignacio-Camacho,es ESP,MF
-95,Thiago Motta,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Thiago-Mott,it ITA,MF
-96,Miguel de las Cuevas,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,2e1cf3d2,Miguel-de-las-Cuev,es ESP,MF
-97,Joshua Zapata,/en/players/2f1ba921/Joshua-Zapata,2f1ba921,Joshua-Zapat,es ESP,MF
-98,Paulo Assunção,/en/players/41b7a8cf/Paulo-Assuncao,41b7a8cf,Paulo-Assuncao,br BRA,MF
-99,Tomáš Ujfaluši,/en/players/37d34e0a/Tomas-Ujfalusi,37d34e0a,Tomas-Ujfalusi,cz CZE,DF
-100,John Heitinga,/en/players/2661360d/John-Heitinga,2661360d,John-Heiting,nl NED,"DF,MF"
-101,Florent Sinama Pongolle,/en/players/f222974d/Florent-Sinama-Pongolle,f222974d,Florent-Sinama-Pongo,fr FRA,FW
-102,Grégory Coupet,/en/players/80e389fb/Gregory-Coupet,80e389fb,Gregory-Coupet,fr FRA,GK
-103,Éver Banega,/en/players/fa937f7a/Ever-Banega,fa937f7a,Ever-Baneg,ar ARG,MF
-104,Álvaro Domínguez,/en/players/cd0a9411/Alvaro-Dominguez,cd0a9411,Alvaro-Dominguez,es ESP,DF
-105,David de Gea,/en/players/7ba6d84e/David-de-Gea,7ba6d84e,David-de-G,es ESP,GK
-106,Tiago Mendes,/en/players/5e0f7b89/Tiago-Mendes,5e0f7b89,Tiago-Mend,pt POR,MF
-107,Juanito,/en/players/3a6a5b63/Juanito,3a6a5b63,Juanito,es ESP,DF
-108,Sergio Asenjo,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Sergio-Asenjo,es ESP,GK
-109,Eduardo Salvio,/en/players/5f424f35/Eduardo-Salvio,5f424f35,Eduardo-Salvio,ar ARG,"FW,MF"
-110,Ibrahima Baldé,/en/players/573b6680/Ibrahima-Balde,573b6680,Ibrahima-Bald,sn SEN,FW
-111,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,69cbc8b6,Leandro-Cab,uy URU,DF
-112,Joel Robles,/en/players/cda0b317/Joel-Robles,cda0b317,Joel-Rob,es ESP,GK
-113,Koke,/en/players/55126f3b/Koke,55126f3b,Kok,es ESP,MF
-114,Keko,/en/players/1512328c/Keko,1512328c,Keko,es ESP,"FW,MF"
-115,Borja Bastón,/en/players/8c44e37b/Borja-Baston,8c44e37b,Borja-Basto,es ESP,FW
-116,Rubén Pérez,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Ruben-Perez,es ESP,MF
-117,Jorge Molino,/en/players/02d31c66/Jorge-Molino,02d31c66,Jorge-Molino,es ESP,FW
-118,Diego Godín,/en/players/fc4f85b1/Diego-Godin,fc4f85b1,Diego-Godi,uy URU,DF
-119,Filipe Luís,/en/players/e4ed2628/Filipe-Luis,4ed2628,Filipe-Lui,br BRA,DF
-120,Diego Costa,/en/players/a190d597/Diego-Costa,190d597,Diego-Cost,es ESP,FW
-121,Elías,/en/players/97ce8f24/Elias,97ce8f24,Eli,br BRA,MF
-122,Fran Mérida,/en/players/0e50f929/Fran-Merida,0e50f929,Fran-Merid,es ESP,MF
-123,Juanfran,/en/players/cfd8d664/Juanfran,cfd8d664,Juanf,es ESP,"DF,MF"
-124,Jorge Pulido,/en/players/978cd030/Jorge-Pulido,978cd030,Jorge-Pulido,es ESP,DF
-125,Alberto Noguera,/en/players/8a46f4c8/Alberto-Noguera,8a46f4c8,Alberto-Nogu,es ESP,MF
-126,﻿Thibaut Courtois,/en/players/1840e36d/Thibaut-Courtois,1840e36d,Thibaut-Courtoi,be BEL,GK
-127,Radamel Falcao,/en/players/66116290/Radamel-Falcao,66116290,Radamel-Falcao,co COL,FW
-128,Adrián López,/en/players/88a359d4/Adrian-Lopez,88a359d4,Adrian-Lopez,es ESP,"FW,MF"
-129,Diego,/en/players/255a478a/Diego,255a478a,Diego,br BRA,MF
-130,Miranda,/en/players/314f2124/Miranda,314f2124,Mirand,br BRA,DF
-131,Arda Turan,/en/players/017ab4d4/Arda-Turan,017ab4d4,Arda-Tu,tr TUR,"FW,MF"
-132,Sílvio,/en/players/ec6e2549/Silvio,c6e2549,Silvio,pt POR,DF
-133,Pizzi,/en/players/96094cbc/Pizzi,96094cbc,Pizzi,pt POR,"FW,MF"
-134,Pedro Martín,/en/players/99ee29b5/Pedro-Martin,99ee29b5,Pedro-Marti,es ESP,FW
-135,Cristian Rodríguez,/en/players/dcd67568/Cristian-Rodriguez,dcd67568,Cristian-Rodriguez,uy URU,MF
-136,Cata Díaz,/en/players/c9112443/Cata-Diaz,c9112443,Cata-Diaz,ar ARG,DF
-137,Emre Belözoğlu,/en/players/48add958/Emre-Belozoglu,48add958,Emre-Belozoglu,tr TUR,MF
-138,Emiliano Insúa,/en/players/f3cccffe/Emiliano-Insua,f3cccffe,Emiliano-Insu,ar ARG,DF
-139,Javier Manquillo,/en/players/758dd7f0/Javier-Manquillo,758dd7f0,Javier-Manquillo,es ESP,DF
-140,Domingo Cisma,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Domingo-Cism,es ESP,DF
-141,Abdelkader Oueslati,/en/players/dc90d163/Abdelkader-Oueslati,dc90d163,Abdelkader-Oueslati,tn TUN,"DF,FW"
-142,Saúl Ñíguez,/en/players/c14bc029/Saul-Niguez,c14bc029,Saul-Niguez,es ESP,"DF,MF"
-143,Dani Aquino,/en/players/060a66fb/Dani-Aquino,060a66fb,Dani-Aquino,es ESP,"FW,MF"
-144,David Villa,/en/players/ade08a67/David-Villa,de08a67,David-Vi,es ESP,"FW,MF"
-145,Toby Alderweireld,/en/players/f7d50789/Toby-Alderweireld,f7d50789,Toby-Alderweireld,be BEL,DF
-146,José Sosa,/en/players/1eecc0c6/Jose-Sosa,1eecc0c6,Jose-So,ar ARG,MF
-147,Óliver Torres,/en/players/58a9a4d9/Oliver-Torres,58a9a4d9,Oliver-To,es ESP,MF
-148,Léo Baptistão,/en/players/35f6db55/Leo-Baptistao,35f6db55,Leo-Baptistao,br BRA,"FW,MF"
-149,José María Giménez,/en/players/f0da930c/Jose-Maria-Gimenez,f0da930c,Jose-Maria-Gimenez,uy URU,DF
-150,Daniel Aranzubia,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Daniel-Aranzubi,es ESP,GK
-151,Josuha Guilavogui,/en/players/e6c43eec/Josuha-Guilavogui,6c43eec,Josuha-Guilavogui,fr FRA,"DF,MF"
-152,Antoine Griezmann,/en/players/df69b544/Antoine-Griezmann,df69b544,Antoine-Griezm,fr FRA,"FW,MF"
-153,Miguel Ángel Moyá,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Miguel-Angel-Mo,es ESP,GK
-154,Guilherme Siqueira,/en/players/3770a135/Guilherme-Siqueira,3770a135,Guilherme-Siquei,br BRA,"DF,MF"
-155,Mario Mandžukić,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Mario-Mandzukic,hr CRO,"FW,MF"
-156,Jesús Gámez,/en/players/bd1d1cbb/Jesus-Gamez,bd1d1cbb,Jesus-Gamez,es ESP,DF
-157,Jan Oblak,/en/players/ee8508c0/Jan-Oblak,8508c0,Jan-Oblak,si SVN,GK
-158,Cristian Ansaldi,/en/players/bbafc0c4/Cristian-Ansaldi,bbafc0c4,Cristian-Ansaldi,ar ARG,"DF,MF"
-159,Raúl Jiménez,/en/players/b561db50/Raul-Jimenez,b561db50,Raul-Jimenez,mx MEX,FW
-160,Alessio Cerci,/en/players/5370cba7/Alessio-Cerci,5370cba7,Alessio-Cerci,it ITA,"FW,MF"
-161,Cani,/en/players/b493db11/Cani,b493db11,Cani,es ESP,MF
-162,Héctor,/en/players/6294bc9d/Hector,6294bc9d,Hecto,es ESP,"DF,FW"
-163,Lucas Hernández,/en/players/c3ee18ef/Lucas-Hernandez,c3ee18ef,Lucas-Hernandez,fr FRA,DF
-164,Bernabé Barragán,/en/players/a3cd0078/Bernabe-Barragan,3cd0078,Bernabe-Barrag,es ESP,GK
-165,Sekou Keita,/en/players/4b044256/Sekou-Keita,4b044256,Sekou-Keit,gn GUI,FW
-166,Yannick Carrasco,/en/players/de39485a/Yannick-Carrasco,de39485a,Yannick-Carrasco,be BEL,"MF,FW"
-167,Luciano Vietto,/en/players/2513a588/Luciano-Vietto,2513a588,Luciano-Vietto,ar ARG,FW
-168,Augusto Fernández,/en/players/78c40e94/Augusto-Fernandez,78c40e94,Augusto-Fernandez,ar ARG,MF
-169,Stefan Savić,/en/players/f6ac68c1/Stefan-Savic,f6ac68c1,Stefan-Savic,me MNE,DF
-170,Ángel Correa,/en/players/01eb744d/Angel-Correa,01eb744d,Angel-Co,ar ARG,"MF,FW"
-171,Jackson Martínez,/en/players/89fbacc3/Jackson-Martinez,89fbacc3,Jackson-Martinez,co COL,FW
-172,Thomas Partey,/en/players/529f49ab/Thomas-Partey,529f49ab,Thomas-Part,gh GHA,MF
-173,Matías Kranevitter,/en/players/314bdac5/Matias-Kranevitter,314bdac5,Matias-Kranevitt,ar ARG,MF
-174,Nacho Monsalve,/en/players/8246c61e/Nacho-Monsalve,8246c61e,Nacho-Monsalv,es ESP,DF
-175,Amath,/en/players/f3b1d9a2/Amath,f3b1d9a2,Amath,sn SEN,"FW,MF"
-176,Theo Hernández,/en/players/d4c9725f/Theo-Hernandez,d4c9725f,Theo-Hernandez,fr FRA,DF
-177,Samuel Villa,/en/players/25a41cbb/Samuel-Villa,25a41cbb,Samuel-Vi,es ESP,MF
-178,Kévin Gameiro,/en/players/42276181/Kevin-Gameiro,42276181,Kevin-Gameiro,fr FRA,FW
-179,Nicolás Gaitán,/en/players/7ebfac0f/Nicolas-Gaitan,7ebfac0f,Nicolas-Gait,ar ARG,MF
-180,Šime Vrsaljko,/en/players/46a8347f/Sime-Vrsaljko,46a8347f,Sime-Vrsaljko,hr CRO,DF
-181,Roberto Olabe del Arco,/en/players/b91883b7/Roberto-Olabe-del-Arco,b91883b7,Roberto-Olabe-del-Arco,es ESP,MF
-182,Keidi Bare,/en/players/03049c8c/Keidi-Bare,03049c8c,Keidi-B,al ALB,MF
-183,Zakaria Boulahia,/en/players/2ab14bcd/Zakaria-Boulahia,2ab14bcd,Zakaria-Boulahi,dz ALG,FW
-184,André Moreira,/en/players/52ca50bf/Andre-Moreira,52ca50bf,Andre-Morei,pt POR,GK
-185,Juan Moreno Fernández,/en/players/b6789501/Juan-Moreno-Fernandez,b6789501,Juan-Moreno-Fernandez,es ESP,MF
-186,Toni Moya,/en/players/9e098912/Toni-Moya,9e098912,Toni-Mo,es ESP,MF
-187,Rafael Muñoz,/en/players/57dd4a4e/Rafael-Munoz,57dd4a4e,Rafael-Munoz,es ESP,DF
-188,Roberto Núñez Mañas,/en/players/c6470be6/Roberto-Nunez-Manas,c6470be6,Roberto-Nunez-M,es ESP,FW
-189,Caio Henrique Oliveira Silva,/en/players/30af8b93/Caio-Henrique-Oliveira-Silva,30af8b93,Caio-Henrique-Oliveira-Silv,br BRA,"DF,MF"
-190,Tachi,/en/players/8b625720/Tachi,8b625720,Tachi,es ESP,DF
-191,Vitolo,/en/players/db750822/Vitolo,db750822,Vitolo,es ESP,MF
-192,Axel Werner,/en/players/c0b1a6da/Axel-Werner,c0b1a6da,Axel-W,ar ARG,GK
-193,Carlos Isaac,/en/players/3e5a168c/Carlos-Isaac,3e5a168c,Carlos-Isaac,es ESP,DF
-194,Arona Sané,/en/players/22df75d8/Arona-Sane,22df75d8,Arona-S,sn SEN,"MF,FW"
-195,Alex,/en/players/8c9e7571/Alex,8c9e7571,Alex,es ESP,GK
-196,Giovanni,/en/players/3a1703eb/Giovanni,3a1703eb,Giovanni,es ESP,FW
-197,Sergi González,/en/players/b4541446/Sergi-Gonzalez,b4541446,Sergi-Gonzalez,es ESP,DF
-198,Antonio Montoro,/en/players/80a0c8c7/Antonio-Montoro,80a0c8c7,Antonio-Montoro,es ESP,DF
-199,Rodri,/en/players/6434f10d/Rodri,6434f10d,Rodri,es ESP,MF
-200,Thomas Lemar,/en/players/4dbd0916/Thomas-Lemar,4dbd0916,Thomas-Lem,fr FRA,MF
-201,Santiago Arias,/en/players/fdd60087/Santiago-Arias,fdd60087,Santiago-Ari,co COL,DF
-202,Álvaro Morata,/en/players/129af0db/Alvaro-Morata,129af0db,Alvaro-Morat,es ESP,FW
-203,Nikola Kalinić,/en/players/d4931a5a/Nikola-Kalinic,d4931a5a,Nikola-Kalinic,hr CRO,FW
-204,Francisco Montero,/en/players/3e96f3e7/Francisco-Montero,3e96f3e7,Francisco-Montero,es ESP,DF
-205,Gelson Martins,/en/players/3ef0fa48/Gelson-Martins,3ef0fa48,Gelson-Marti,pt POR,"FW,MF"
-206,Andrés Solano,/en/players/c8764028/Andres-Solano,c8764028,Andres-Solano,co COL,DF
-207,Victor Mollejo,/en/players/23fffc06/Victor-Mollejo,23fffc06,Victor-Mollejo,es ESP,"FW,DF"
-208,Sergio Camello,/en/players/873619c6/Sergio-Camello,873619c6,Sergio-Camello,es ESP,FW
-209,Borja Garcés,/en/players/bc39454c/Borja-Garces,bc39454c,Borja-Garc,es ESP,FW
-210,Joaquín Muñoz,/en/players/e9fbcc21/Joaquin-Munoz,9fbcc21,Joaquin-Munoz,es ESP,MF
-211,Gustavo Assuncao,/en/players/065c8786/Gustavo-Assuncao,065c8786,Gustavo-Assuncao,pt POR,MF
-212,Mikel Carro,/en/players/e1820276/Mikel-Carro,1820276,Mikel-Carro,es ESP,MF
-213,Nehuén Pérez,/en/players/f7c491f1/Nehuen-Perez,f7c491f1,Nehuen-Perez,ar ARG,DF
-214,Cristian Rodríguez,/en/players/a7187e71/Cristian-Rodriguez,7187e71,Cristian-Rodriguez,es ESP,MF
-215,Manuel Sánchez,/en/players/ffacd3d5/Manuel-Sanchez,ffacd3d5,Manuel-Sanchez,es ESP,DF
-216,Renan Lodi,/en/players/ed9f7cfe/Renan-Lodi,d9f7cfe,Renan-Lodi,br BRA,DF
-217,Felipe,/en/players/51a3c4c8/Felipe,51a3c4c8,Feli,br BRA,DF
-218,Kieran Trippier,/en/players/21512407/Kieran-Trippier,21512407,Kieran-Trippi,eng ENG,DF
-219,João Félix,/en/players/8aafd64f/Joao-Felix,8aafd64f,Joao-Felix,pt POR,"FW,MF"
-220,Marcos Llorente,/en/players/02c15616/Marcos-Llorente,02c15616,Marcos-Llorent,es ESP,"MF,FW"
-221,Mario Hermoso,/en/players/555f3a0b/Mario-Hermoso,555f3a0b,Mario-Hermoso,es ESP,DF
-222,Héctor Herrera,/en/players/a8542814/Hector-Herrera,8542814,Hector-H,mx MEX,MF
-223,Antonio Adán,/en/players/65d62814/Antonio-Adan,65d62814,Antonio-Ad,es ESP,GK
-224,Rodrigo Riquelme,/en/players/65154df0/Rodrigo-Riquelme,65154df0,Rodrigo-Riquelm,es ESP,MF
-225,Darío Poveda,/en/players/cbdf7d5c/Dario-Poveda,cbdf7d5c,Dario-Poved,es ESP,MF
-226,Ivan Šaponjić,/en/players/d2aea9ac/Ivan-Saponjic,d2aea9ac,Ivan-Saponjic,rs SRB,"DF,FW"
-227,Óscar Clemente,/en/players/9dfdbdeb/Oscar-Clemente,9dfdbdeb,Oscar-Clement,es ESP,MF
-228,Germán Valera,/en/players/84f55b4a/German-Valera,84f55b4a,German-V,es ESP,FW
-229,Álvaro García,/en/players/11184fa7/Alvaro-Garcia,11184fa7,Alvaro-Garci,es ESP,DF
-230,Ricard,/en/players/fce521d7/Ricard,fce521d7,Ricard,es ESP,DF
-231,Luis Suárez,/en/players/a6154613/Luis-Suarez,6154613,Luis-Suarez,uy URU,FW
-232,Geoffrey Kondogbia,/en/players/cce181df/Geoffrey-Kondogbia,cce181df,Geoffrey-Kondogbi,cf CTA,MF
-233,Lucas Torreira,/en/players/52611641/Lucas-Torreira,52611641,Lucas-Torrei,uy URU,MF
-234,Moussa Dembélé,/en/players/e7986081/Moussa-Dembele,7986081,Moussa-Demb,fr FRA,FW
-235,Óscar Castro,/en/players/8dc4c8af/Oscar-Castro,8dc4c8af,Oscar-Castro,es ESP,MF
-236,Ivo Grbić,/en/players/3f034750/Ivo-Grbic,3f034750,Ivo-Grbic,hr CRO,GK
-237,San Román,/en/players/f08ccd2d/San-Roman,f08ccd2d,San-Rom,es ESP,GK
-238,Juan Sanabria,/en/players/f1d74479/Juan-Sanabria,f1d74479,Juan-Sanabri,uy URU,MF
-239,Mario Soriano,/en/players/b41a8b01/Mario-Soriano,b41a8b01,Mario-Soriano,es ESP,FW
-240,Rodrigo De Paul,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Rodrigo-De-Pau,ar ARG,MF
-241,Reinildo Mandava,/en/players/c20bdcd7/Reinildo-Mandava,c20bdcd7,Reinildo-Mandav,mz MOZ,DF
-242,Matheus Cunha,/en/players/dc62b55d/Matheus-Cunha,dc62b55d,Matheus-Cunh,br BRA,FW
-243,Javier Serrano,/en/players/0a8fd9cb/Javier-Serrano,0a8fd9cb,Javier-Serrano,es ESP,MF
-244,Daniel Wass,/en/players/d83bbc54/Daniel-Wass,d83bbc54,Daniel-W,dk DEN,"DF,FW"
-245,Carlos Martín,/en/players/64035864/Carlos-Martin,64035864,Carlos-Marti,es ESP,DF
-246,Giuliano Simeone,/en/players/a6536561/Giuliano-Simeone,6536561,Giuliano-Simeo,ar ARG,MF
-247,Benjamin Lecomte,/en/players/2fa2a875/Benjamin-Lecomte,2fa2a875,Benjamin-Lecomt,fr FRA,GK
-248,Pablo Barrios,/en/players/45736cec/Pablo-Barrios,45736cec,Pablo-Barrio,es ESP,MF
-249,Ibrahima Camara,/en/players/9c4b9442/Ibrahima-Camara,9c4b9442,Ibrahima-Cam,es ESP,DF
-250,Sergio Diez Roldan,/en/players/255f7a08/Sergio-Diez-Roldan,255f7a08,Sergio-Diez-Rold,es ESP,DF
-251,Antonio Gomis,/en/players/f0f4671c/Antonio-Gomis,f0f4671c,Antonio-Gomi,es ESP,GK
-252,Manu Lama,/en/players/2bf3c2c8/Manu-Lama,2bf3c2c8,Manu-Lam,es ESP,DF
-253,Marco Moreno,/en/players/9602ef3b/Marco-Moreno,9602ef3b,Marco-Moreno,es ESP,DF
-254,Joan Rojas,/en/players/9933d2a6/Joan-Rojas,9933d2a6,Joan-Roj,es ESP,DF
+﻿Unnamed: 0,Player,Link,Player_id,Player_name,Nationality,Position,club
+0,﻿José Mari,/en/players/b56835b1/Jose-Mari,b56835b1,Jose-Mari,es ESP,FW,Atletico-Madrid
+1,Fernando Torres,/en/players/bdf7b97d/Fernando-Torres,bdf7b97d,Fernando-To,es ESP,FW,Atletico-Madrid
+2,Cosmin Contra,/en/players/9bdc0e80/Cosmin-Contra,9bdc0e80,Cosmin-Cont,ro ROU,"DF,MF",Atletico-Madrid
+3,Fabricio Coloccini,/en/players/78b3399f/Fabricio-Coloccini,78b3399f,Fabricio-Coloccini,ar ARG,"DF,MF",Atletico-Madrid
+4,Sergi Barjuán,/en/players/906a398c/Sergi-Barjuan,906a398c,Sergi-Barju,es ESP,DF,Atletico-Madrid
+5,Demetrio Albertini,/en/players/91a9535a/Demetrio-Albertini,91a9535a,Demetrio-Albertini,it ITA,"FW,MF",Atletico-Madrid
+6,Emerson,/en/players/7b167dbb/Emerson,7b167dbb,Emerso,br BRA,MF,Atletico-Madrid
+7,Luis García,/en/players/a5c8d2b7/Luis-Garcia,5c8d2b7,Luis-Garci,es ESP,MF,Atletico-Madrid
+8,Mirsad Hibić,/en/players/35bfc1b5/Mirsad-Hibic,35bfc1b5,Mirsad-Hibic,ba BIH,DF,Atletico-Madrid
+9,Esteban,/en/players/e4fc2638/Esteban,4fc2638,Esteb,es ESP,GK,Atletico-Madrid
+10,José García Calvo,/en/players/c79150ab/Jose-Garcia-Calvo,c79150ab,Jose-Garcia-Calvo,es ESP,DF,Atletico-Madrid
+11,Carlos Aguilera,/en/players/1bb900d7/Carlos-Aguilera,1bb900d7,Carlos-Agui,es ESP,DF,Atletico-Madrid
+12,José María Movilla,/en/players/1ac170a8/Jose-Maria-Movilla,1ac170a8,Jose-Maria-Movi,es ESP,MF,Atletico-Madrid
+13,Jorge Otero,/en/players/b2f887d4/Jorge-Otero,b2f887d4,Jorge-Otero,es ESP,DF,Atletico-Madrid
+14,Germán Burgos,/en/players/53028dd9/German-Burgos,53028dd9,German-Burgo,ar ARG,GK,Atletico-Madrid
+15,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,41a60718,Txomin-Nago,es ESP,MF,Atletico-Madrid
+16,Fernando Correa,/en/players/9c2c5331/Fernando-Correa,9c2c5331,Fernando-Co,uy URU,FW,Atletico-Madrid
+17,Jorge Larena,/en/players/3de25195/Jorge-Larena,3de25195,Jorge-L,es ESP,MF,Atletico-Madrid
+18,Jovan Stanković,/en/players/6985b8f9/Jovan-Stankovic,6985b8f9,Jovan-Stankovic,rs SRB,MF,Atletico-Madrid
+19,Javi Moreno,/en/players/64497d05/Javi-Moreno,64497d05,Javi-Moreno,es ESP,FW,Atletico-Madrid
+20,Santi,/en/players/98eab2b3/Santi,98eab2b3,Santi,es ESP,DF,Atletico-Madrid
+21,Lluís Carreras,/en/players/4e1b59cf/Lluis-Carreras,4e1b59cf,Lluis-C,es ESP,DF,Atletico-Madrid
+22,Juanma,/en/players/943f79f6/Juanma,943f79f6,Juanm,es ESP,GK,Atletico-Madrid
+23,Dani,/en/players/8215fbee/Dani,8215fbee,Dani,pt POR,"FW,MF",Atletico-Madrid
+24,Armando Álvarez,/en/players/a28ae3ef/Armando-Alvarez,28ae3ef,Armando-Alvarez,es ESP,DF,Atletico-Madrid
+26,Matías Lequi,/en/players/dd0c806c/Matias-Lequi,dd0c806c,Matias-Lequi,ar ARG,DF,Atletico-Madrid
+27,Gonzalo de los Santos,/en/players/1855302a/Gonzalo-de-los-Santos,1855302a,Gonzalo-de-los-Santo,uy URU,MF,Atletico-Madrid
+28,Gaspar,/en/players/75e5329b/Gaspar,75e5329b,G,es ESP,DF,Atletico-Madrid
+29,Ariel Ibagaza,/en/players/bd513ca4/Ariel-Ibagaza,bd513ca4,Ariel-Ibagaz,ar ARG,MF,Atletico-Madrid
+30,Álvaro Novo,/en/players/e2b88098/Alvaro-Novo,2b88098,Alvaro-Novo,es ESP,MF,Atletico-Madrid
+31,Diego Simeone,/en/players/4b58d1e3/Diego-Simeone,4b58d1e3,Diego-Simeo,ar ARG,MF,Atletico-Madrid
+32,Nano,/en/players/51fbb7e2/Nano,51fbb7e2,Nano,es ESP,"DF,FW",Atletico-Madrid
+33,Kiki Musampa,/en/players/4095895b/Kiki-Musampa,4095895b,Kiki-Musam,nl NED,"FW,MF",Atletico-Madrid
+34,Demis Nikolaidis,/en/players/7bb7562d/Demis-Nikolaidis,7bb7562d,Demis-Nikolaidi,gr GRE,FW,Atletico-Madrid
+35,Veljko Paunović,/en/players/7d0ae66f/Veljko-Paunovic,7d0ae66f,Veljko-Paunovic,es ESP,"FW,MF",Atletico-Madrid
+36,Sergio Aragoneses,/en/players/8e8258f5/Sergio-Aragoneses,8e8258f5,Sergio-Arago,es ESP,GK,Atletico-Madrid
+37,Rodrigo Fabri,/en/players/c1a0a9e2/Rodrigo-Fabri,c1a0a9e2,Rodrigo-Fabri,br BRA,MF,Atletico-Madrid
+38,Juan Manuel Ortiz,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Juan-Manuel-Ortiz,es ESP,"DF,MF",Atletico-Madrid
+39,Diego Rivas,/en/players/eecf46bc/Diego-Rivas,cf46bc,Diego-Riv,es ESP,MF,Atletico-Madrid
+40,Javier Pinola,/en/players/faa5ffa8/Javier-Pinola,faa5ffa8,Javier-Pino,ar ARG,DF,Atletico-Madrid
+41,Javier Arizmendi,/en/players/14a6c075/Javier-Arizmendi,14a6c075,Javier-Arizmendi,es ESP,"FW,MF",Atletico-Madrid
+42,Iván Romero,/en/players/4ecdc16d/Ivan-Romero,4ecdc16d,Ivan-Romero,es ESP,DF,Atletico-Madrid
+43,Rubén Olivera,/en/players/74b94461/Ruben-Olivera,74b94461,Ruben-Oliv,uy URU,MF,Atletico-Madrid
+44,Toché,/en/players/64e35e11/Toche,64e35e11,Toch,es ESP,FW,Atletico-Madrid
+45,Gabi,/en/players/65d750b5/Gabi,65d750b5,Gabi,es ESP,MF,Atletico-Madrid
+46,Leo Franco,/en/players/c39a5c6b/Leo-Franco,c39a5c6b,Leo-Franco,ar ARG,GK,Atletico-Madrid
+47,Pablo Ibáñez,/en/players/23ca89f2/Pablo-Ibanez,23ca89f2,Pablo-Ibanez,es ESP,DF,Atletico-Madrid
+48,Luis Amaranto Perea,/en/players/ff1988a5/Luis-Amaranto-Perea,ff1988a5,Luis-Amaranto-P,co COL,DF,Atletico-Madrid
+49,Antonio López,/en/players/e55190d5/Antonio-Lopez,55190d5,Antonio-Lopez,es ESP,"DF,MF",Atletico-Madrid
+50,Peter Luccin,/en/players/3270f1b5/Peter-Luccin,3270f1b5,Peter-Lucci,fr FRA,MF,Atletico-Madrid
+51,Gonzalo Colsa,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Gonzalo-Co,es ESP,MF,Atletico-Madrid
+52,Juan Velasco Damas,/en/players/6630e590/Juan-Velasco-Damas,6630e590,Juan-Velasco-Dam,es ESP,DF,Atletico-Madrid
+53,Marcelo Sosa,/en/players/08ada3d0/Marcelo-Sosa,08ada3d0,Marcelo-So,uy URU,MF,Atletico-Madrid
+54,Salva Ballesta,/en/players/bd42bcb8/Salva-Ballesta,bd42bcb8,Salva-Ballest,es ESP,FW,Atletico-Madrid
+55,Jesper Grønkjær,/en/players/afe43b0f/Jesper-Gronkjaer,fe43b0f,Jesper-Gronkj,dk DEN,"FW,MF",Atletico-Madrid
+56,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,2cea96ce,Francisco-Molinero,es ESP,DF,Atletico-Madrid
+57,Richard Núñez,/en/players/686f9128/Richard-Nunez,686f9128,Richard-Nunez,uy URU,"FW,MF",Atletico-Madrid
+58,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,6e02869d,Braulio-Nobreg,es ESP,FW,Atletico-Madrid
+59,Iván Cuéllar,/en/players/75751c99/Ivan-Cuellar,75751c99,Ivan-Cu,es ESP,GK,Atletico-Madrid
+60,Raúl Medina Zamora,/en/players/003e7fcf/Raul-Medina-Zamora,003e7fcf,Raul-Medina-Zamo,es ESP,MF,Atletico-Madrid
+61,José Zahínos,/en/players/6a78fdc0/Jose-Zahinos,6a78fdc0,Jose-Zahino,es ESP,MF,Atletico-Madrid
+62,Martin Petrov,/en/players/011360ce/Martin-Petrov,011360ce,Martin-Petrov,bg BUL,"FW,MF",Atletico-Madrid
+63,Mateja Kežman,/en/players/41985204/Mateja-Kezman,41985204,Mateja-Kezm,rs SRB,FW,Atletico-Madrid
+64,Maxi Rodríguez,/en/players/4f06b1e0/Maxi-Rodriguez,4f06b1e0,Maxi-Rodriguez,ar ARG,"FW,MF",Atletico-Madrid
+65,Luciano Galletti,/en/players/2760ef74/Luciano-Galletti,2760ef74,Luciano-Galletti,ar ARG,MF,Atletico-Madrid
+66,Juan Valera Espín,/en/players/947fa33c/Juan-Valera-Espin,947fa33c,Juan-Valera-Espi,es ESP,"DF,MF",Atletico-Madrid
+67,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Ismael-Falco,es ESP,GK,Atletico-Madrid
+68,Fernando Marqués,/en/players/71cccc52/Fernando-Marques,71cccc52,Fernando-Marqu,es ESP,MF,Atletico-Madrid
+69,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,1026f88d,Manu-del-Mo,es ESP,FW,Atletico-Madrid
+70,Mario Suárez,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Mario-Suarez,es ESP,MF,Atletico-Madrid
+71,Roberto,/en/players/ba3ca78f/Roberto,ba3ca78f,Roberto,es ESP,GK,Atletico-Madrid
+72,Rufino,/en/players/60edc577/Rufino,60edc577,Rufino,es ESP,FW,Atletico-Madrid
+73,Julián Vara,/en/players/5c92e249/Julian-Vara,5c92e249,Julian-V,es ESP,"DF,FW",Atletico-Madrid
+74,Pablo Sicilia,/en/players/56bdf1b5/Pablo-Sicilia,56bdf1b5,Pablo-Sicili,es ESP,DF,Atletico-Madrid
+75,Antonio Moreno,/en/players/9004085d/Antonio-Moreno,9004085d,Antonio-Moreno,es ESP,DF,Atletico-Madrid
+76,Giourkas Seitaridis,/en/players/2dd41560/Giourkas-Seitaridis,2dd41560,Giourkas-Seitaridi,gr GRE,DF,Atletico-Madrid
+77,Sergio Agüero,/en/players/4d034881/Sergio-Aguero,4d034881,Sergio-Aguero,ar ARG,FW,Atletico-Madrid
+78,Maniche,/en/players/0355c8b5/Maniche,0355c8b5,Manich,pt POR,MF,Atletico-Madrid
+79,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,71d4e271,Jose-Manuel-Jurado,es ESP,MF,Atletico-Madrid
+80,Zé Castro,/en/players/ea2434db/Ze-Castro,2434db,Ze-Castro,pt POR,DF,Atletico-Madrid
+81,Mariano Pernía,/en/players/5f28a2f7/Mariano-Pernia,5f28a2f7,Mariano-Perni,es ESP,DF,Atletico-Madrid
+82,Costinha,/en/players/88e9ba29/Costinha,88e9ba29,Costinh,pt POR,MF,Atletico-Madrid
+83,Mista,/en/players/257c27e2/Mista,257c27e2,Mist,es ESP,FW,Atletico-Madrid
+84,Fabiano Eller,/en/players/ae7246f1/Fabiano-Eller,7246f1,Fabiano-E,br BRA,DF,Atletico-Madrid
+85,Víctor Bravo,/en/players/778c65b8/Victor-Bravo,778c65b8,Victor-Bravo,es ESP,MF,Atletico-Madrid
+86,Pollo,/en/players/a21f9971/Pollo,21f9971,Pollo,es ESP,MF,Atletico-Madrid
+87,Jacobo Ynclán,/en/players/68078edd/Jacobo-Ynclan,68078edd,Jacobo-Ync,es ESP,"FW,MF",Atletico-Madrid
+88,﻿Diego Forlán,/en/players/d87d0dfc/Diego-Forlan,d87d0dfc,Diego-Fo,uy URU,"FW,MF",Atletico-Madrid
+89,Raúl García,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Raul-Garci,es ESP,"FW,MF",Atletico-Madrid
+90,Simão Sabrosa,/en/players/76a65612/Simao-Sabrosa,76a65612,Simao-Sabro,pt POR,MF,Atletico-Madrid
+91,Christian Abbiati,/en/players/322421c2/Christian-Abbiati,322421c2,Christian-Abbiati,it ITA,GK,Atletico-Madrid
+92,Cléber Santana,/en/players/bed73c6e/Cleber-Santana,bed73c6e,Cleber-Sant,br BRA,MF,Atletico-Madrid
+93,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,19058f02,Jose-Antonio-R,es ESP,MF,Atletico-Madrid
+94,Ignacio Camacho,/en/players/8ed9b33a/Ignacio-Camacho,8ed9b33a,Ignacio-Camacho,es ESP,MF,Atletico-Madrid
+95,Thiago Motta,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Thiago-Mott,it ITA,MF,Atletico-Madrid
+96,Miguel de las Cuevas,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,2e1cf3d2,Miguel-de-las-Cuev,es ESP,MF,Atletico-Madrid
+97,Joshua Zapata,/en/players/2f1ba921/Joshua-Zapata,2f1ba921,Joshua-Zapat,es ESP,MF,Atletico-Madrid
+98,Paulo Assunção,/en/players/41b7a8cf/Paulo-Assuncao,41b7a8cf,Paulo-Assuncao,br BRA,MF,Atletico-Madrid
+99,Tomáš Ujfaluši,/en/players/37d34e0a/Tomas-Ujfalusi,37d34e0a,Tomas-Ujfalusi,cz CZE,DF,Atletico-Madrid
+100,John Heitinga,/en/players/2661360d/John-Heitinga,2661360d,John-Heiting,nl NED,"DF,MF",Atletico-Madrid
+101,Florent Sinama Pongolle,/en/players/f222974d/Florent-Sinama-Pongolle,f222974d,Florent-Sinama-Pongo,fr FRA,FW,Atletico-Madrid
+102,Grégory Coupet,/en/players/80e389fb/Gregory-Coupet,80e389fb,Gregory-Coupet,fr FRA,GK,Atletico-Madrid
+103,Éver Banega,/en/players/fa937f7a/Ever-Banega,fa937f7a,Ever-Baneg,ar ARG,MF,Atletico-Madrid
+104,Álvaro Domínguez,/en/players/cd0a9411/Alvaro-Dominguez,cd0a9411,Alvaro-Dominguez,es ESP,DF,Atletico-Madrid
+105,David de Gea,/en/players/7ba6d84e/David-de-Gea,7ba6d84e,David-de-G,es ESP,GK,Atletico-Madrid
+106,Tiago Mendes,/en/players/5e0f7b89/Tiago-Mendes,5e0f7b89,Tiago-Mend,pt POR,MF,Atletico-Madrid
+107,Juanito,/en/players/3a6a5b63/Juanito,3a6a5b63,Juanito,es ESP,DF,Atletico-Madrid
+108,Sergio Asenjo,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Sergio-Asenjo,es ESP,GK,Atletico-Madrid
+109,Eduardo Salvio,/en/players/5f424f35/Eduardo-Salvio,5f424f35,Eduardo-Salvio,ar ARG,"FW,MF",Atletico-Madrid
+110,Ibrahima Baldé,/en/players/573b6680/Ibrahima-Balde,573b6680,Ibrahima-Bald,sn SEN,FW,Atletico-Madrid
+111,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,69cbc8b6,Leandro-Cab,uy URU,DF,Atletico-Madrid
+112,Joel Robles,/en/players/cda0b317/Joel-Robles,cda0b317,Joel-Rob,es ESP,GK,Atletico-Madrid
+113,Koke,/en/players/55126f3b/Koke,55126f3b,Kok,es ESP,MF,Atletico-Madrid
+114,Keko,/en/players/1512328c/Keko,1512328c,Keko,es ESP,"FW,MF",Atletico-Madrid
+115,Borja Bastón,/en/players/8c44e37b/Borja-Baston,8c44e37b,Borja-Basto,es ESP,FW,Atletico-Madrid
+116,Rubén Pérez,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Ruben-Perez,es ESP,MF,Atletico-Madrid
+117,Jorge Molino,/en/players/02d31c66/Jorge-Molino,02d31c66,Jorge-Molino,es ESP,FW,Atletico-Madrid
+118,Diego Godín,/en/players/fc4f85b1/Diego-Godin,fc4f85b1,Diego-Godi,uy URU,DF,Atletico-Madrid
+119,Filipe Luís,/en/players/e4ed2628/Filipe-Luis,4ed2628,Filipe-Lui,br BRA,DF,Atletico-Madrid
+120,Diego Costa,/en/players/a190d597/Diego-Costa,190d597,Diego-Cost,es ESP,FW,Atletico-Madrid
+121,Elías,/en/players/97ce8f24/Elias,97ce8f24,Eli,br BRA,MF,Atletico-Madrid
+122,Fran Mérida,/en/players/0e50f929/Fran-Merida,0e50f929,Fran-Merid,es ESP,MF,Atletico-Madrid
+123,Juanfran,/en/players/cfd8d664/Juanfran,cfd8d664,Juanf,es ESP,"DF,MF",Atletico-Madrid
+124,Jorge Pulido,/en/players/978cd030/Jorge-Pulido,978cd030,Jorge-Pulido,es ESP,DF,Atletico-Madrid
+125,Alberto Noguera,/en/players/8a46f4c8/Alberto-Noguera,8a46f4c8,Alberto-Nogu,es ESP,MF,Atletico-Madrid
+126,﻿Thibaut Courtois,/en/players/1840e36d/Thibaut-Courtois,1840e36d,Thibaut-Courtoi,be BEL,GK,Atletico-Madrid
+127,Radamel Falcao,/en/players/66116290/Radamel-Falcao,66116290,Radamel-Falcao,co COL,FW,Atletico-Madrid
+128,Adrián López,/en/players/88a359d4/Adrian-Lopez,88a359d4,Adrian-Lopez,es ESP,"FW,MF",Atletico-Madrid
+129,Diego,/en/players/255a478a/Diego,255a478a,Diego,br BRA,MF,Atletico-Madrid
+130,Miranda,/en/players/314f2124/Miranda,314f2124,Mirand,br BRA,DF,Atletico-Madrid
+131,Arda Turan,/en/players/017ab4d4/Arda-Turan,017ab4d4,Arda-Tu,tr TUR,"FW,MF",Atletico-Madrid
+132,Sílvio,/en/players/ec6e2549/Silvio,c6e2549,Silvio,pt POR,DF,Atletico-Madrid
+133,Pizzi,/en/players/96094cbc/Pizzi,96094cbc,Pizzi,pt POR,"FW,MF",Atletico-Madrid
+134,Pedro Martín,/en/players/99ee29b5/Pedro-Martin,99ee29b5,Pedro-Marti,es ESP,FW,Atletico-Madrid
+135,Cristian Rodríguez,/en/players/dcd67568/Cristian-Rodriguez,dcd67568,Cristian-Rodriguez,uy URU,MF,Atletico-Madrid
+136,Cata Díaz,/en/players/c9112443/Cata-Diaz,c9112443,Cata-Diaz,ar ARG,DF,Atletico-Madrid
+137,Emre Belözoğlu,/en/players/48add958/Emre-Belozoglu,48add958,Emre-Belozoglu,tr TUR,MF,Atletico-Madrid
+138,Emiliano Insúa,/en/players/f3cccffe/Emiliano-Insua,f3cccffe,Emiliano-Insu,ar ARG,DF,Atletico-Madrid
+139,Javier Manquillo,/en/players/758dd7f0/Javier-Manquillo,758dd7f0,Javier-Manquillo,es ESP,DF,Atletico-Madrid
+140,Domingo Cisma,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Domingo-Cism,es ESP,DF,Atletico-Madrid
+141,Abdelkader Oueslati,/en/players/dc90d163/Abdelkader-Oueslati,dc90d163,Abdelkader-Oueslati,tn TUN,"DF,FW",Atletico-Madrid
+142,Saúl Ñíguez,/en/players/c14bc029/Saul-Niguez,c14bc029,Saul-Niguez,es ESP,"DF,MF",Atletico-Madrid
+143,Dani Aquino,/en/players/060a66fb/Dani-Aquino,060a66fb,Dani-Aquino,es ESP,"FW,MF",Atletico-Madrid
+144,David Villa,/en/players/ade08a67/David-Villa,de08a67,David-Vi,es ESP,"FW,MF",Atletico-Madrid
+145,Toby Alderweireld,/en/players/f7d50789/Toby-Alderweireld,f7d50789,Toby-Alderweireld,be BEL,DF,Atletico-Madrid
+146,José Sosa,/en/players/1eecc0c6/Jose-Sosa,1eecc0c6,Jose-So,ar ARG,MF,Atletico-Madrid
+147,Óliver Torres,/en/players/58a9a4d9/Oliver-Torres,58a9a4d9,Oliver-To,es ESP,MF,Atletico-Madrid
+148,Léo Baptistão,/en/players/35f6db55/Leo-Baptistao,35f6db55,Leo-Baptistao,br BRA,"FW,MF",Atletico-Madrid
+149,José María Giménez,/en/players/f0da930c/Jose-Maria-Gimenez,f0da930c,Jose-Maria-Gimenez,uy URU,DF,Atletico-Madrid
+150,Daniel Aranzubia,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Daniel-Aranzubi,es ESP,GK,Atletico-Madrid
+151,Josuha Guilavogui,/en/players/e6c43eec/Josuha-Guilavogui,6c43eec,Josuha-Guilavogui,fr FRA,"DF,MF",Atletico-Madrid
+152,Antoine Griezmann,/en/players/df69b544/Antoine-Griezmann,df69b544,Antoine-Griezm,fr FRA,"FW,MF",Atletico-Madrid
+153,Miguel Ángel Moyá,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Miguel-Angel-Mo,es ESP,GK,Atletico-Madrid
+154,Guilherme Siqueira,/en/players/3770a135/Guilherme-Siqueira,3770a135,Guilherme-Siquei,br BRA,"DF,MF",Atletico-Madrid
+155,Mario Mandžukić,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Mario-Mandzukic,hr CRO,"FW,MF",Atletico-Madrid
+156,Jesús Gámez,/en/players/bd1d1cbb/Jesus-Gamez,bd1d1cbb,Jesus-Gamez,es ESP,DF,Atletico-Madrid
+157,Jan Oblak,/en/players/ee8508c0/Jan-Oblak,8508c0,Jan-Oblak,si SVN,GK,Atletico-Madrid
+158,Cristian Ansaldi,/en/players/bbafc0c4/Cristian-Ansaldi,bbafc0c4,Cristian-Ansaldi,ar ARG,"DF,MF",Atletico-Madrid
+159,Raúl Jiménez,/en/players/b561db50/Raul-Jimenez,b561db50,Raul-Jimenez,mx MEX,FW,Atletico-Madrid
+160,Alessio Cerci,/en/players/5370cba7/Alessio-Cerci,5370cba7,Alessio-Cerci,it ITA,"FW,MF",Atletico-Madrid
+161,Cani,/en/players/b493db11/Cani,b493db11,Cani,es ESP,MF,Atletico-Madrid
+162,Héctor,/en/players/6294bc9d/Hector,6294bc9d,Hecto,es ESP,"DF,FW",Atletico-Madrid
+163,Lucas Hernández,/en/players/c3ee18ef/Lucas-Hernandez,c3ee18ef,Lucas-Hernandez,fr FRA,DF,Atletico-Madrid
+164,Bernabé Barragán,/en/players/a3cd0078/Bernabe-Barragan,3cd0078,Bernabe-Barrag,es ESP,GK,Atletico-Madrid
+165,Sekou Keita,/en/players/4b044256/Sekou-Keita,4b044256,Sekou-Keit,gn GUI,FW,Atletico-Madrid
+166,Yannick Carrasco,/en/players/de39485a/Yannick-Carrasco,de39485a,Yannick-Carrasco,be BEL,"MF,FW",Atletico-Madrid
+167,Luciano Vietto,/en/players/2513a588/Luciano-Vietto,2513a588,Luciano-Vietto,ar ARG,FW,Atletico-Madrid
+168,Augusto Fernández,/en/players/78c40e94/Augusto-Fernandez,78c40e94,Augusto-Fernandez,ar ARG,MF,Atletico-Madrid
+169,Stefan Savić,/en/players/f6ac68c1/Stefan-Savic,f6ac68c1,Stefan-Savic,me MNE,DF,Atletico-Madrid
+170,Ángel Correa,/en/players/01eb744d/Angel-Correa,01eb744d,Angel-Co,ar ARG,"MF,FW",Atletico-Madrid
+171,Jackson Martínez,/en/players/89fbacc3/Jackson-Martinez,89fbacc3,Jackson-Martinez,co COL,FW,Atletico-Madrid
+172,Thomas Partey,/en/players/529f49ab/Thomas-Partey,529f49ab,Thomas-Part,gh GHA,MF,Atletico-Madrid
+173,Matías Kranevitter,/en/players/314bdac5/Matias-Kranevitter,314bdac5,Matias-Kranevitt,ar ARG,MF,Atletico-Madrid
+174,Nacho Monsalve,/en/players/8246c61e/Nacho-Monsalve,8246c61e,Nacho-Monsalv,es ESP,DF,Atletico-Madrid
+175,Amath,/en/players/f3b1d9a2/Amath,f3b1d9a2,Amath,sn SEN,"FW,MF",Atletico-Madrid
+176,Theo Hernández,/en/players/d4c9725f/Theo-Hernandez,d4c9725f,Theo-Hernandez,fr FRA,DF,Atletico-Madrid
+177,Samuel Villa,/en/players/25a41cbb/Samuel-Villa,25a41cbb,Samuel-Vi,es ESP,MF,Atletico-Madrid
+178,Kévin Gameiro,/en/players/42276181/Kevin-Gameiro,42276181,Kevin-Gameiro,fr FRA,FW,Atletico-Madrid
+179,Nicolás Gaitán,/en/players/7ebfac0f/Nicolas-Gaitan,7ebfac0f,Nicolas-Gait,ar ARG,MF,Atletico-Madrid
+180,Šime Vrsaljko,/en/players/46a8347f/Sime-Vrsaljko,46a8347f,Sime-Vrsaljko,hr CRO,DF,Atletico-Madrid
+181,Roberto Olabe del Arco,/en/players/b91883b7/Roberto-Olabe-del-Arco,b91883b7,Roberto-Olabe-del-Arco,es ESP,MF,Atletico-Madrid
+182,Keidi Bare,/en/players/03049c8c/Keidi-Bare,03049c8c,Keidi-B,al ALB,MF,Atletico-Madrid
+183,Zakaria Boulahia,/en/players/2ab14bcd/Zakaria-Boulahia,2ab14bcd,Zakaria-Boulahi,dz ALG,FW,Atletico-Madrid
+184,André Moreira,/en/players/52ca50bf/Andre-Moreira,52ca50bf,Andre-Morei,pt POR,GK,Atletico-Madrid
+185,Juan Moreno Fernández,/en/players/b6789501/Juan-Moreno-Fernandez,b6789501,Juan-Moreno-Fernandez,es ESP,MF,Atletico-Madrid
+186,Toni Moya,/en/players/9e098912/Toni-Moya,9e098912,Toni-Mo,es ESP,MF,Atletico-Madrid
+187,Rafael Muñoz,/en/players/57dd4a4e/Rafael-Munoz,57dd4a4e,Rafael-Munoz,es ESP,DF,Atletico-Madrid
+188,Roberto Núñez Mañas,/en/players/c6470be6/Roberto-Nunez-Manas,c6470be6,Roberto-Nunez-M,es ESP,FW,Atletico-Madrid
+189,Caio Henrique Oliveira Silva,/en/players/30af8b93/Caio-Henrique-Oliveira-Silva,30af8b93,Caio-Henrique-Oliveira-Silv,br BRA,"DF,MF",Atletico-Madrid
+190,Tachi,/en/players/8b625720/Tachi,8b625720,Tachi,es ESP,DF,Atletico-Madrid
+191,Vitolo,/en/players/db750822/Vitolo,db750822,Vitolo,es ESP,MF,Atletico-Madrid
+192,Axel Werner,/en/players/c0b1a6da/Axel-Werner,c0b1a6da,Axel-W,ar ARG,GK,Atletico-Madrid
+193,Carlos Isaac,/en/players/3e5a168c/Carlos-Isaac,3e5a168c,Carlos-Isaac,es ESP,DF,Atletico-Madrid
+194,Arona Sané,/en/players/22df75d8/Arona-Sane,22df75d8,Arona-S,sn SEN,"MF,FW",Atletico-Madrid
+195,Alex,/en/players/8c9e7571/Alex,8c9e7571,Alex,es ESP,GK,Atletico-Madrid
+196,Giovanni,/en/players/3a1703eb/Giovanni,3a1703eb,Giovanni,es ESP,FW,Atletico-Madrid
+197,Sergi González,/en/players/b4541446/Sergi-Gonzalez,b4541446,Sergi-Gonzalez,es ESP,DF,Atletico-Madrid
+198,Antonio Montoro,/en/players/80a0c8c7/Antonio-Montoro,80a0c8c7,Antonio-Montoro,es ESP,DF,Atletico-Madrid
+199,Rodri,/en/players/6434f10d/Rodri,6434f10d,Rodri,es ESP,MF,Atletico-Madrid
+200,Thomas Lemar,/en/players/4dbd0916/Thomas-Lemar,4dbd0916,Thomas-Lem,fr FRA,MF,Atletico-Madrid
+201,Santiago Arias,/en/players/fdd60087/Santiago-Arias,fdd60087,Santiago-Ari,co COL,DF,Atletico-Madrid
+202,Álvaro Morata,/en/players/129af0db/Alvaro-Morata,129af0db,Alvaro-Morat,es ESP,FW,Atletico-Madrid
+203,Nikola Kalinić,/en/players/d4931a5a/Nikola-Kalinic,d4931a5a,Nikola-Kalinic,hr CRO,FW,Atletico-Madrid
+204,Francisco Montero,/en/players/3e96f3e7/Francisco-Montero,3e96f3e7,Francisco-Montero,es ESP,DF,Atletico-Madrid
+205,Gelson Martins,/en/players/3ef0fa48/Gelson-Martins,3ef0fa48,Gelson-Marti,pt POR,"FW,MF",Atletico-Madrid
+206,Andrés Solano,/en/players/c8764028/Andres-Solano,c8764028,Andres-Solano,co COL,DF,Atletico-Madrid
+207,Victor Mollejo,/en/players/23fffc06/Victor-Mollejo,23fffc06,Victor-Mollejo,es ESP,"FW,DF",Atletico-Madrid
+208,Sergio Camello,/en/players/873619c6/Sergio-Camello,873619c6,Sergio-Camello,es ESP,FW,Atletico-Madrid
+209,Borja Garcés,/en/players/bc39454c/Borja-Garces,bc39454c,Borja-Garc,es ESP,FW,Atletico-Madrid
+210,Joaquín Muñoz,/en/players/e9fbcc21/Joaquin-Munoz,9fbcc21,Joaquin-Munoz,es ESP,MF,Atletico-Madrid
+211,Gustavo Assuncao,/en/players/065c8786/Gustavo-Assuncao,065c8786,Gustavo-Assuncao,pt POR,MF,Atletico-Madrid
+212,Mikel Carro,/en/players/e1820276/Mikel-Carro,1820276,Mikel-Carro,es ESP,MF,Atletico-Madrid
+213,Nehuén Pérez,/en/players/f7c491f1/Nehuen-Perez,f7c491f1,Nehuen-Perez,ar ARG,DF,Atletico-Madrid
+214,Cristian Rodríguez,/en/players/a7187e71/Cristian-Rodriguez,7187e71,Cristian-Rodriguez,es ESP,MF,Atletico-Madrid
+215,Manuel Sánchez,/en/players/ffacd3d5/Manuel-Sanchez,ffacd3d5,Manuel-Sanchez,es ESP,DF,Atletico-Madrid
+216,Renan Lodi,/en/players/ed9f7cfe/Renan-Lodi,d9f7cfe,Renan-Lodi,br BRA,DF,Atletico-Madrid
+217,Felipe,/en/players/51a3c4c8/Felipe,51a3c4c8,Feli,br BRA,DF,Atletico-Madrid
+218,Kieran Trippier,/en/players/21512407/Kieran-Trippier,21512407,Kieran-Trippi,eng ENG,DF,Atletico-Madrid
+219,João Félix,/en/players/8aafd64f/Joao-Felix,8aafd64f,Joao-Felix,pt POR,"FW,MF",Atletico-Madrid
+220,Marcos Llorente,/en/players/02c15616/Marcos-Llorente,02c15616,Marcos-Llorent,es ESP,"MF,FW",Atletico-Madrid
+221,Mario Hermoso,/en/players/555f3a0b/Mario-Hermoso,555f3a0b,Mario-Hermoso,es ESP,DF,Atletico-Madrid
+222,Héctor Herrera,/en/players/a8542814/Hector-Herrera,8542814,Hector-H,mx MEX,MF,Atletico-Madrid
+223,Antonio Adán,/en/players/65d62814/Antonio-Adan,65d62814,Antonio-Ad,es ESP,GK,Atletico-Madrid
+224,Rodrigo Riquelme,/en/players/65154df0/Rodrigo-Riquelme,65154df0,Rodrigo-Riquelm,es ESP,MF,Atletico-Madrid
+225,Darío Poveda,/en/players/cbdf7d5c/Dario-Poveda,cbdf7d5c,Dario-Poved,es ESP,MF,Atletico-Madrid
+226,Ivan Šaponjić,/en/players/d2aea9ac/Ivan-Saponjic,d2aea9ac,Ivan-Saponjic,rs SRB,"DF,FW",Atletico-Madrid
+227,Óscar Clemente,/en/players/9dfdbdeb/Oscar-Clemente,9dfdbdeb,Oscar-Clement,es ESP,MF,Atletico-Madrid
+228,Germán Valera,/en/players/84f55b4a/German-Valera,84f55b4a,German-V,es ESP,FW,Atletico-Madrid
+229,Álvaro García,/en/players/11184fa7/Alvaro-Garcia,11184fa7,Alvaro-Garci,es ESP,DF,Atletico-Madrid
+230,Ricard,/en/players/fce521d7/Ricard,fce521d7,Ricard,es ESP,DF,Atletico-Madrid
+231,Luis Suárez,/en/players/a6154613/Luis-Suarez,6154613,Luis-Suarez,uy URU,FW,Atletico-Madrid
+232,Geoffrey Kondogbia,/en/players/cce181df/Geoffrey-Kondogbia,cce181df,Geoffrey-Kondogbi,cf CTA,MF,Atletico-Madrid
+233,Lucas Torreira,/en/players/52611641/Lucas-Torreira,52611641,Lucas-Torrei,uy URU,MF,Atletico-Madrid
+234,Moussa Dembélé,/en/players/e7986081/Moussa-Dembele,7986081,Moussa-Demb,fr FRA,FW,Atletico-Madrid
+235,Óscar Castro,/en/players/8dc4c8af/Oscar-Castro,8dc4c8af,Oscar-Castro,es ESP,MF,Atletico-Madrid
+236,Ivo Grbić,/en/players/3f034750/Ivo-Grbic,3f034750,Ivo-Grbic,hr CRO,GK,Atletico-Madrid
+237,San Román,/en/players/f08ccd2d/San-Roman,f08ccd2d,San-Rom,es ESP,GK,Atletico-Madrid
+238,Juan Sanabria,/en/players/f1d74479/Juan-Sanabria,f1d74479,Juan-Sanabri,uy URU,MF,Atletico-Madrid
+239,Mario Soriano,/en/players/b41a8b01/Mario-Soriano,b41a8b01,Mario-Soriano,es ESP,FW,Atletico-Madrid
+240,Rodrigo De Paul,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Rodrigo-De-Pau,ar ARG,MF,Atletico-Madrid
+241,Reinildo Mandava,/en/players/c20bdcd7/Reinildo-Mandava,c20bdcd7,Reinildo-Mandav,mz MOZ,DF,Atletico-Madrid
+242,Matheus Cunha,/en/players/dc62b55d/Matheus-Cunha,dc62b55d,Matheus-Cunh,br BRA,FW,Atletico-Madrid
+243,Javier Serrano,/en/players/0a8fd9cb/Javier-Serrano,0a8fd9cb,Javier-Serrano,es ESP,MF,Atletico-Madrid
+244,Daniel Wass,/en/players/d83bbc54/Daniel-Wass,d83bbc54,Daniel-W,dk DEN,"DF,FW",Atletico-Madrid
+245,Carlos Martín,/en/players/64035864/Carlos-Martin,64035864,Carlos-Marti,es ESP,DF,Atletico-Madrid
+246,Giuliano Simeone,/en/players/a6536561/Giuliano-Simeone,6536561,Giuliano-Simeo,ar ARG,MF,Atletico-Madrid
+247,Benjamin Lecomte,/en/players/2fa2a875/Benjamin-Lecomte,2fa2a875,Benjamin-Lecomt,fr FRA,GK,Atletico-Madrid
+248,Pablo Barrios,/en/players/45736cec/Pablo-Barrios,45736cec,Pablo-Barrio,es ESP,MF,Atletico-Madrid
+249,Ibrahima Camara,/en/players/9c4b9442/Ibrahima-Camara,9c4b9442,Ibrahima-Cam,es ESP,DF,Atletico-Madrid
+250,Sergio Diez Roldan,/en/players/255f7a08/Sergio-Diez-Roldan,255f7a08,Sergio-Diez-Rold,es ESP,DF,Atletico-Madrid
+251,Antonio Gomis,/en/players/f0f4671c/Antonio-Gomis,f0f4671c,Antonio-Gomi,es ESP,GK,Atletico-Madrid
+252,Manu Lama,/en/players/2bf3c2c8/Manu-Lama,2bf3c2c8,Manu-Lam,es ESP,DF,Atletico-Madrid
+253,Marco Moreno,/en/players/9602ef3b/Marco-Moreno,9602ef3b,Marco-Moreno,es ESP,DF,Atletico-Madrid
+254,Joan Rojas,/en/players/9933d2a6/Joan-Rojas,9933d2a6,Joan-Roj,es ESP,DF,Atletico-Madrid

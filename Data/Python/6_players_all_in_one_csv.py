@@ -15,7 +15,10 @@ for enter_club in clubs_list:
     os.chdir(f'{club_name}/')
 
     df_this_club_players=pd.read_csv(f'{club_name}_Players.csv')
-    df_this_club_players=df_this_club_players[["Player","Link","Player_name","Player_id","Nationality","Position"]]
+    df_this_club_players=df_this_club_players[["Player","Link","Player_name","Player_id","Nationality","Position","club"]]
+    # If player has more than two positions or two club, so the id has been created for same player,
+    # We have to remove this duplicated. It can be done very simply in excel, with 
+    # ["Player","Link","Player_name","Player_id","Nationality"]
 
     df_list.append(df_this_club_players)
     print(f'{enter_club} appended !')
