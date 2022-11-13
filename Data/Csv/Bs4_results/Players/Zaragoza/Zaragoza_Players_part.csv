@@ -1,170 +1,318 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-3527.0,﻿César Láinez,/en/players/c27fe765/Cesar-Lainez,Cesar-Lainez,c27fe765,es ESP,GK,Zaragoza
-3528.0,Miguel Rebosio,/en/players/306e0437/Miguel-Rebosio,Miguel-Rebosio,306e0437,pe PER,DF,Zaragoza
-3529.0,Jordi Ferrón,/en/players/cd37881d/Jordi-Ferron,Jordi-Ferro,cd37881d,es ESP,DF,Zaragoza
-3530.0,Delio Toledo,/en/players/916beb71/Delio-Toledo,Delio-Toledo,916beb71,py PAR,DF,Zaragoza
-3531.0,Martín Vellisca,/en/players/d859d8c2/Martin-Vellisca,Martin-Vellisc,d859d8c2,es ESP,MF,Zaragoza
-3532.0,David Pirri,/en/players/e84f523d/David-Pirri,David-Pirri,84f523d,es ESP,MF,Zaragoza
-3533.0,Santiago Aragón,/en/players/eca1bef0/Santiago-Aragon,Santiago-Arago,ca1bef0,es ESP,MF,Zaragoza
-3534.0,Slobodan Komljenović,/en/players/a8e80766/Slobodan-Komljenovic,Slobodan-Komljenovic,8e80766,rs SRB,DF,Zaragoza
-3535.0,Corona,/en/players/4798bc33/Corona,Coro,4798bc33,es ESP,MF,Zaragoza
-3536.0,Ibán Espadas,/en/players/1e764654/Iban-Espadas,Iban-Espad,1e764654,es ESP,FW,Zaragoza
-3537.0,Juanele,/en/players/d0927870/Juanele,Ju,d0927870,es ESP,FW,Zaragoza
-3538.0,Luis Cuartero,/en/players/8180abbf/Luis-Cuartero,Luis-Cuartero,8180abbf,es ESP,DF,Zaragoza
-3539.0,Goran Drulić,/en/players/aa5e81ad/Goran-Drulic,Goran-Drulic,5e81ad, SCG,FW,Zaragoza
-3540.0,Iñaki Hurtado,/en/players/354a89df/Inaki-Hurtado,Inaki-Hurtado,354a89df,es ESP,"FW,MF",Zaragoza
-3541.0,Pablo Díaz Stalla,/en/players/a42419f7/Pablo-Diaz-Stalla,Pablo-Diaz-St,42419f7,es ESP,DF,Zaragoza
-3542.0,Miguel Martínez,/en/players/29d6d13c/Miguel-Martinez,Miguel-Martinez,29d6d13c,es ESP,GK,Zaragoza
-3543.0,Paulo Jamelli,/en/players/e9cdf4c1/Paulo-Jamelli,Paulo-Jamelli,9cdf4c1,br BRA,FW,Zaragoza
-3544.0,Raúl Valbuena,/en/players/d711ab5a/Raul-Valbuena,Raul-Valbu,d711ab5a,es ESP,GK,Zaragoza
-3545.0,Alen Peternac,/en/players/c0b4ee52/Alen-Peternac,Alen-Peternac,c0b4ee52,hr CRO,FW,Zaragoza
-3546.0,Leonardo Ponzio,/en/players/6f3a6343/Leonardo-Ponzio,Leonardo-Ponzio,6f3a6343,ar ARG,MF,Zaragoza
-3547.0,Jorge Zaparaín,/en/players/e78b4d1e/Jorge-Zaparain,Jorge-Zaparai,78b4d1e,es ESP,GK,Zaragoza
-3548.0,Capi,/en/players/7ba110d0/Capi,Capi,7ba110d0,es ESP,DF,Zaragoza
-3549.0,﻿Luis García,/en/players/a716e5a4/Luis-Garcia,Luis-Garci,716e5a4,es ESP,GK,Zaragoza
-3550.0,Álvaro,/en/players/3bb76c65/Alvaro,Alvaro,3bb76c65,br BRA,DF,Zaragoza
-3551.0,Alberto Zapater,/en/players/1a7d5ffe/Alberto-Zapater,Alberto-Zapat,1a7d5ffe,es ESP,MF,Zaragoza
-3552.0,César Jiménez,/en/players/efc6342b/Cesar-Jimenez,Cesar-Jimenez,fc6342b,es ESP,DF,Zaragoza
-3553.0,Juan García Granero,/en/players/febf4db0/Juan-Garcia-Granero,Juan-Garcia-Granero,febf4db0,es ESP,MF,Zaragoza
-3554.0,Juanjo Camacho,/en/players/1a1609ab/Juanjo-Camacho,Juanjo-Camacho,1a1609ab,es ESP,MF,Zaragoza
-3555.0,Diego Milito,/en/players/2188289f/Diego-Milito,Diego-Milito,2188289f,ar ARG,FW,Zaragoza
-3556.0,Andrés D'Alessandro,/en/players/6a11048a/Andres-DAlessandro,Andres-DAlessandro,6a11048a,ar ARG,"FW,MF",Zaragoza
-3557.0,Gustavo Nery,/en/players/c7ca6fb1/Gustavo-Nery,Gustavo-N,c7ca6fb1,br BRA,DF,Zaragoza
-3558.0,Javier Paredes,/en/players/488a9ade/Javier-Paredes,Javier-Pared,488a9ade,es ESP,DF,Zaragoza
-3559.0,Matuzalém,/en/players/5ba2fc63/Matuzalem,Matuzalem,5ba2fc63,br BRA,MF,Zaragoza
-3560.0,Óscar Valero,/en/players/ec2c8491/Oscar-Valero,Oscar-Valero,c2c8491,es ESP,DF,Zaragoza
-3561.0,Vicente Pascual,/en/players/41ee1744/Vicente-Pascual,Vicente-Pascu,41ee1744,es ESP,MF,Zaragoza
-3562.0,Alberto Montejo,/en/players/655af7e4/Alberto-Montejo,Alberto-Montejo,655af7e4,es ESP,MF,Zaragoza
-3563.0,Stéphane Pignol,/en/players/ca3ae27c/Stephane-Pignol,Stephane-Pigno,ca3ae27c,fr FRA,DF,Zaragoza
-3564.0,Raúl Goni,/en/players/03a4a101/Raul-Goni,Raul-Goni,03a4a101,es ESP,DF,Zaragoza
-3565.0,Adrià Granell,/en/players/33257930/Adria-Granell,Adria-G,33257930,es ESP,MF,Zaragoza
-3566.0,Humberto Suazo,/en/players/c54d3799/Humberto-Suazo,Humberto-Suazo,c54d3799,cl CHI,FW,Zaragoza
-3567.0,Juan Pablo Carrizo,/en/players/04e6e152/Juan-Pablo-Carrizo,Juan-Pablo-Carrizo,04e6e152,ar ARG,GK,Zaragoza
-3568.0,Matteo Contini,/en/players/dec20583/Matteo-Contini,Matteo-Contini,dec20583,it ITA,DF,Zaragoza
-3569.0,Jermaine Pennant,/en/players/c6043950/Jermaine-Pennant,Jermaine-Pennant,c6043950,eng ENG,MF,Zaragoza
-3570.0,Ivan Obradović,/en/players/f6ddac8f/Ivan-Obradovic,Ivan-Obradovic,f6ddac8f,rs SRB,DF,Zaragoza
-3571.0,Kevin Lacruz,/en/players/b930ede6/Kevin-Lacruz,Kevin-Lacruz,b930ede6,es ESP,MF,Zaragoza
-3572.0,Nicolás Bertolo,/en/players/089f82b2/Nicolas-Bertolo,Nicolas-Bertolo,089f82b2,ar ARG,MF,Zaragoza
-3573.0,Maurizio Lanzaro,/en/players/52eacf54/Maurizio-Lanzaro,Maurizio-Lanzaro,52eacf54,it ITA,DF,Zaragoza
-3574.0,Saïd Boutahar,/en/players/2a33b1a7/Said-Boutahar,Said-Boutah,2a33b1a7,nl NED,MF,Zaragoza
-3575.0,Paulo da Silva,/en/players/47560da8/Paulo-da-Silva,Paulo-da-Silv,47560da8,py PAR,DF,Zaragoza
-3576.0,Ádám Pintér,/en/players/fdbcd938/Adam-Pinter,Adam-Pint,fdbcd938,hu HUN,"DF,MF",Zaragoza
-3577.0,Marco Pérez,/en/players/2264e79b/Marco-Perez,Marco-Perez,2264e79b,co COL,"FW,MF",Zaragoza
-3578.0,Guirane N'Daw,/en/players/cc61ee7a/Guirane-NDaw,Guirane-NDaw,cc61ee7a,sn SEN,"DF,MF",Zaragoza
-3579.0,Rúben Micael,/en/players/107c6fbd/Ruben-Micael,Ruben-Mic,107c6fbd,pt POR,MF,Zaragoza
-3580.0,Efraín Juárez,/en/players/8c1b4056/Efrain-Juarez,Efrain-Juarez,8c1b4056,mx MEX,"DF,MF",Zaragoza
-3581.0,Pablo Álvarez,/en/players/1226cc4f/Pablo-Alvarez,Pablo-Alvarez,1226cc4f,ar ARG,DF,Zaragoza
-3582.0,David Mateos,/en/players/ddee7ba5/David-Mateos,David-Mateo,ddee7ba5,es ESP,DF,Zaragoza
-3583.0,Pablo Barrera,/en/players/ff70b131/Pablo-Barrera,Pablo-B,ff70b131,mx MEX,"FW,MF",Zaragoza
-3584.0,Fernando Meira,/en/players/415bd344/Fernando-Meira,Fernando-Mei,415bd344,pt POR,"DF,MF",Zaragoza
-3585.0,Franco Zuculini,/en/players/9c31bb89/Franco-Zuculini,Franco-Zuculini,9c31bb89,ar ARG,MF,Zaragoza
-3586.0,Edu Oriol,/en/players/94c9f17a/Edu-Oriol,Edu-Orio,94c9f17a,es ESP,"FW,MF",Zaragoza
-3587.0,Tomislav Dujmović,/en/players/1bd0a8fe/Tomislav-Dujmovic,Tomislav-Dujmovic,1bd0a8fe,hr CRO,MF,Zaragoza
-3588.0,Jorge Ortí,/en/players/5d67b085/Jorge-Orti,Jorge-Orti,5d67b085,es ESP,FW,Zaragoza
-3589.0,Joel Valencia,/en/players/03904ca0/Joel-Valencia,Joel-Valenci,03904ca0,ec ECU,MF,Zaragoza
-3590.0,Cristian Săpunaru,/en/players/906d58bc/Cristian-Sapunaru,Cristian-Sapunaru,906d58bc,ro ROU,DF,Zaragoza
-3591.0,Víctor Rodríguez,/en/players/15781606/Victor-Rodriguez,Victor-Rodriguez,15781606,es ESP,"FW,MF",Zaragoza
-3592.0,Glenn Loovens,/en/players/3245e023/Glenn-Loovens,Glenn-Loov,3.25E+26,nl NED,DF,Zaragoza
-3593.0,José Mari,/en/players/6f4c734d/Jose-Mari,Jose-Mari,6f4c734d,es ESP,MF,Zaragoza
-3594.0,José Manuel Fernández,/en/players/4af68c24/Jose-Manuel-Fernandez,Jose-Manuel-Fernandez,4af68c24,es ESP,DF,Zaragoza
-3595.0,Rubén Rochina,/en/players/ecd8c01e/Ruben-Rochina,Ruben-Rochi,cd8c01e,es ESP,"FW,MF",Zaragoza
-3596.0,Stefan Babović,/en/players/efb3ce2a/Stefan-Babovic,Stefan-Babovic,fb3ce2a,rs SRB,MF,Zaragoza
-3597.0,Henri Bienvenu,/en/players/df6b9707/Henri-Bienvenu,Henri-Bienvenu,df6b9707,cm CMR,FW,Zaragoza
-3598.0,Lucas Wilchez,/en/players/199c2648/Lucas-Wilchez,Lucas-Wilchez,199c2648,ar ARG,"FW,MF",Zaragoza
-3599.0,Pablo Alcolea,/en/players/7d093d18/Pablo-Alcolea,Pablo-Alco,7d093d18,es ESP,GK,Zaragoza
-3600.0,Tarsicio Aguado,/en/players/345ebb78/Tarsicio-Aguado,Tarsicio-Aguado,345ebb78,es ESP,MF,Zaragoza
-3601.0,Adrià Carmona,/en/players/9e95dc9e/Adria-Carmona,Adria-Carmo,9e95dc9e,es ESP,"FW,MF",Zaragoza
-3602.0,Mario Paglialunga,/en/players/eda5ea84/Mario-Paglialunga,Mario-Paglialung,da5ea84,ar ARG,MF,Zaragoza
-3603.0,Ángelo Henríquez,/en/players/6f3a433e/Angelo-Henriquez,Angelo-Henriquez,6f3a433e,cl CHI,FW,Zaragoza
-3604.0,Sergio Cidoncha,/en/players/05837e63/Sergio-Cidoncha,Sergio-Cidonch,5.84E+66,es ESP,MF,Zaragoza
-3605.0,Walter Acevedo,/en/players/393613e2/Walter-Acevedo,Walter-Acevedo,3.94E+07,ar ARG,MF,Zaragoza
-3606.0,Álvaro Tierno,/en/players/f11f1246/Alvaro-Tierno,Alvaro-Tierno,f11f1246,es ESP,MF,Zaragoza
-3607.0,Óscar Whalley,/en/players/3d763902/Oscar-Whalley,Oscar-Wh,3d763902,es ESP,GK,Zaragoza
-3608.0,Diego Suárez Hernández,/en/players/8d9fda26/Diego-Suarez-Hernandez,Diego-Suarez-Hernandez,8d9fda26,es ESP,FW,Zaragoza
-3609.0,Lucas Porcar,/en/players/c3eadfec/Lucas-Porcar,Lucas-Porc,c3eadfec,es ESP,"FW,MF",Zaragoza
-3610.0,Juan Esnáider Ruiz,/en/players/11894e8c/Juan-Esnaider-Ruiz,Juan-Esnaider-Ruiz,11894e8c,es ESP,FW,Zaragoza
-3611.0,Eldin Hadžić,/en/players/2e2d7785/Eldin-Hadzic,Eldin-Hadzic,2e2d7785,ba BIH,"FW,MF",Zaragoza
-3612.0,Vullnet Basha,/en/players/9b31bd32/Vullnet-Basha,Vullnet-Bash,9b31bd32,al ALB,MF,Zaragoza
-3613.0,David Muñoz Pueyo,/en/players/0e457a8c/David-Munoz-Pueyo,David-Munoz-Pueyo,0e457a8c,es ESP,FW,Zaragoza
-3614.0,Jesús Tato,/en/players/50e2af8c/Jesus-Tato,Jesus-Tato,50e2af8c,es ESP,FW,Zaragoza
-3615.0,Sergio Gil Latorre,/en/players/94d9e243/Sergio-Gil-Latorre,Sergio-Gil-Lato,94d9e243,es ESP,MF,Zaragoza
-3616.0,Álvaro Meseguer,/en/players/84bb7e43/Alvaro-Meseguer,Alvaro-Mesegu,84bb7e43,es ESP,DF,Zaragoza
-3617.0,Carlos Javier Rodríguez,/en/players/4adbcf21/Carlos-Javier-Rodriguez,Carlos-Javier-Rodriguez,4adbcf21,es ESP,MF,Zaragoza
-3618.0,Pablo Moreno,/en/players/13d53247/Pablo-Moreno,Pablo-Moreno,13d53247,es ESP,MF,Zaragoza
-3619.0,Carlos Nieto,/en/players/91738147/Carlos-Nieto,Carlos-Nieto,91738147,es ESP,DF,Zaragoza
-3620.0,Jorge Pombo,/en/players/0a8bcb23/Jorge-Pombo,Jorge-Pombo,0a8bcb23,es ESP,"FW,MF",Zaragoza
-3621.0,Fredy Hinestroza,/en/players/ac330d8c/Fredy-Hinestroza,Fredy-Hinestroz,c330d8c,co COL,MF,Zaragoza
-3622.0,Isaac Carcelen,/en/players/c4b888df/Isaac-Carcelen,Isaac-Carc,c4b888df,es ESP,"DF,MF",Zaragoza
-3623.0,Joan Campins,/en/players/f0ce419d/Joan-Campins,Joan-Campi,f0ce419d,es ESP,DF,Zaragoza
-3624.0,Jorge Diaz,/en/players/d3248912/Jorge-Diaz,Jorge-Diaz,d3248912,uy URU,"FW,MF",Zaragoza
-3625.0,Ariajasuru Hasegawa,/en/players/b147af0d/Ariajasuru-Hasegawa,Ariajasuru-Hasegaw,b147af0d,jp JPN,MF,Zaragoza
-3626.0,Kilian Grant,/en/players/744e8a52/Kilian-Grant,Kilian-Grant,744e8a52,es ESP,FW,Zaragoza
-3627.0,Álvaro Ratón,/en/players/64a816ff/Alvaro-Raton,Alvaro-Rato,64a816ff,es ESP,GK,Zaragoza
-3628.0,Xabi Irureta,/en/players/ad11657f/Xabi-Irureta,Xabi-Iruret,d11657f,es ESP,GK,Zaragoza
-3629.0,Jordi Xumetra,/en/players/3b79dbdb/Jordi-Xumetra,Jordi-Xumet,3b79dbdb,es ESP,"MF,FW",Zaragoza
-3630.0,Fran Rodríguez,/en/players/e1cfe8e6/Fran-Rodriguez,Fran-Rodriguez,1cfe8e6,es ESP,DF,Zaragoza
-3631.0,Jesús Valentín,/en/players/2594ee7d/Jesus-Valentin,Jesus-Valenti,2594ee7d,es ESP,"DF,MF",Zaragoza
-3632.0,Rolf Feltscher,/en/players/27baf026/Rolf-Feltscher,Rolf-Feltsch,27baf026,ve VEN,DF,Zaragoza
-3633.0,Edu Garcia,/en/players/9725eb96/Edu-Garcia,Edu-Garci,9725eb96,es ESP,"MF,FW",Zaragoza
-3634.0,Álex Barrera,/en/players/59533f80/Alex-Barrera,Alex-B,59533f80,es ESP,MF,Zaragoza
-3635.0,Macky Bagnack,/en/players/7b9efbd4/Macky-Bagnack,Macky-Bagnack,7b9efbd4,cm CMR,DF,Zaragoza
-3636.0,Xiscu,/en/players/5a481bbe/Xiscu,Xiscu,5a481bbe,es ESP,MF,Zaragoza
-3637.0,Georgios Samaras,/en/players/1b77cb6a/Georgios-Samaras,Georgios-Sam,1b77cb6a,gr GRE,MF,Zaragoza
-3638.0,Raí,/en/players/909aff69/Rai,Rai,909aff69,br BRA,FW,Zaragoza
-3639.0,Daniel Lasure,/en/players/b74d54d6/Daniel-Lasure,Daniel-Lasu,b74d54d6,es ESP,DF,Zaragoza
-3640.0,Răzvan Popa,/en/players/0a37dc1a/Razvan-Popa,Razvan-Po,0a37dc1a,ro ROU,"DF,MF",Zaragoza
-3641.0,Aitor Chueca,/en/players/c917b367/Aitor-Chueca,Aitor-Chuec,c917b367,es ESP,GK,Zaragoza
-3642.0,Guti,/en/players/125b98b0/Guti,Guti,125b98b0,es ESP,DF,Zaragoza
-3643.0,Raúl Guti,/en/players/0b2c8585/Raul-Guti,Raul-Guti,0b2c8585,es ESP,MF,Zaragoza
-3644.0,Íñigo Eguaras,/en/players/3e93f8cf/Inigo-Eguaras,Inigo-Egu,3e93f8cf,es ESP,MF,Zaragoza
-3645.0,Diogo Verdasca,/en/players/6c06d7c1/Diogo-Verdasca,Diogo-Verdasc,6c06d7c1,pt POR,DF,Zaragoza
-3646.0,Simone Grippo,/en/players/8f2d246e/Simone-Grippo,Simone-Grippo,8f2d246e,ch SUI,DF,Zaragoza
-3647.0,Julián Delmás,/en/players/70283ec6/Julian-Delmas,Julian-Delm,70283ec6,es ESP,DF,Zaragoza
-3648.0,Ángel Martínez,/en/players/c44ce9ae/Angel-Martinez,Angel-Martinez,c44ce9ae,es ESP,DF,Zaragoza
-3649.0,Oliver Buff,/en/players/7cc49159/Oliver-Buff,Oliver-Buff,7cc49159,ch SUI,"MF,FW",Zaragoza
-3650.0,Bruno Perone,/en/players/58591790/Bruno-Perone,Bruno-Pero,58591790,br BRA,DF,Zaragoza
-3651.0,Jesús Alfaro,/en/players/d04b8fd9/Jesus-Alfaro,Jesus-Alfaro,d04b8fd9,es ESP,FW,Zaragoza
-3652.0,Pep Biel,/en/players/1c59240b/Pep-Biel,Pep-Bi,1c59240b,es ESP,"FW,MF",Zaragoza
-3653.0,Pedro Alejandro Zalaya,/en/players/f7ddfb93/Pedro-Alejandro-Zalaya,Pedro-Alejandro-Z,f7ddfb93,es ESP,DF,Zaragoza
-3654.0,Sergio García,/en/players/5ddc211a/Sergio-Garcia,Sergio-Garci,5ddc211a,es ESP,GK,Zaragoza
-3655.0,James Igbekeme,/en/players/c9ce0fc8/James-Igbekeme,James-Igbekem,c9ce0fc8,ng NGA,MF,Zaragoza
-3656.0,Marc Gual,/en/players/c2bdbd22/Marc-Gual,Marc-Gu,c2bdbd22,es ESP,FW,Zaragoza
-3657.0,Alberto Soro,/en/players/452c3055/Alberto-Soro,Alberto-Soro,452c3055,es ESP,"MF,FW",Zaragoza
-3658.0,Jeison Medina,/en/players/f94eb3da/Jeison-Medina,Jeison-Medi,f94eb3da,co COL,FW,Zaragoza
-3659.0,Albert Crespo,/en/players/06a9a610/Albert-Crespo,Albert-Crespo,06a9a610,es ESP,MF,Zaragoza
-3660.0,Jannick,/en/players/a0e315c6/Jannick,Jannick,0e315c6,gq EQG,MF,Zaragoza
-3661.0,Jesús ÁLVAREZ,/en/players/0fc3aade/Jesus-ALVAREZ,Jesus-ALVAREZ,0fc3aade,es ESP,DF,Zaragoza
-3662.0,David Vicente,/en/players/0d16396e/David-Vicente,David-Vicent,0d16396e,es ESP,MF,Zaragoza
-3663.0,Pichu Atienza,/en/players/aaeacaca/Pichu-Atienza,Pichu-Atienz,caca,es ESP,DF,Zaragoza
-3664.0,Shinji Kagawa,/en/players/5afafbfe/Shinji-Kagawa,Shinji-Kagaw,5afafbfe,jp JPN,"MF,FW",Zaragoza
-3665.0,Raphael Dwamena,/en/players/525f9bf4/Raphael-Dwamena,Raphael-Dwam,525f9bf4,gh GHA,FW,Zaragoza
-3666.0,Alejandro Francés,/en/players/3e78a188/Alejandro-Frances,Alejandro-Franc,3e78a188,es ESP,DF,Zaragoza
-3667.0,André Pereira,/en/players/4515f00d/Andre-Pereira,Andre-Perei,4515f00d,pt POR,MF,Zaragoza
-3668.0,Marcos Baselga,/en/players/d9c0a57d/Marcos-Baselga,Marcos-Baselg,d9c0a57d,es ESP,FW,Zaragoza
-3669.0,Juan Azón,/en/players/0e9d43ef/Juan-Azon,Juan-Azo,0e9d43ef,es ESP,GK,Zaragoza
-3670.0,Ahmed Belhadji,/en/players/8b3b6471/Ahmed-Belhadji,Ahmed-Belhadji,8b3b6471,es ESP,FW,Zaragoza
-3671.0,Federico Bikoro,/en/players/ed28f256/Federico-Bikoro,Federico-Bikoro,d28f256,gq EQG,"DF,MF",Zaragoza
-3672.0,Andrés Martín,/en/players/a3308f22/Andres-Martin,Andres-Marti,3308f22,es ESP,DF,Zaragoza
-3673.0,Pep Chavarría,/en/players/63c5e56b/Pep-Chavarria,Pep-Chavarri,63c5e56b,es ESP,"DF,MF",Zaragoza
-3674.0,Jair Amador,/en/players/82b27ccb/Jair-Amador,Jair-Amado,82b27ccb,gq EQG,DF,Zaragoza
-3675.0,Luca Zanimacchia,/en/players/5e834dce/Luca-Zanimacchia,Luca-Zanimacchi,5e834dce,it ITA,MF,Zaragoza
-3676.0,Ivan Monzón,/en/players/9b2779f5/Ivan-Monzon,Ivan-Monzo,9b2779f5,es ESP,FW,Zaragoza
-3677.0,Haris Vučkić,/en/players/a8f4dfb9/Haris-Vuckic,Haris-Vuckic,8f4dfb9,si SVN,FW,Zaragoza
-3678.0,Antonio Sola Villalba,/en/players/6fb53f9b/Antonio-Sola-Villalba,Antonio-Sola-Villalb,6fb53f9b,es ESP,DF,Zaragoza
-3679.0,Luis Carbonell Artajona,/en/players/a5388395/Luis-Carbonell-Artajona,Luis-Carbonell-Artajo,5388395,es ESP,FW,Zaragoza
-3680.0,Javier Hernández Tarroc,/en/players/96e3d64b/Javier-Hernandez-Tarroc,Javier-Hernandez-Tarroc,96e3d64b,es ESP,DF,Zaragoza
-3681.0,Iván Castillo Jiménez,/en/players/6a1cf00e/Ivan-Castillo-Jimenez,Ivan-Castillo-Jimenez,6a1cf00e,es ESP,MF,Zaragoza
-3682.0,Enrique Clemente,/en/players/21bf9d41/Enrique-Clemente,Enrique-Clement,21bf9d41,es ESP,DF,Zaragoza
-3683.0,Guillermo Labrador,/en/players/74c18daf/Guillermo-Labrador,Guillermo-Labrado,74c18daf,es ESP,GK,Zaragoza
-3684.0,Jaime Sancho González,/en/players/8b788040/Jaime-Sancho-Gonzalez,Jaime-Sancho-Gonzalez,8b788040,es ESP,FW,Zaragoza
-3685.0,Francho Serrano Gracia,/en/players/36a88831/Francho-Serrano-Gracia,Francho-Serrano-Graci,36a88831,es ESP,MF,Zaragoza
-3686.0,Radosav Petrović,/en/players/7214c684/Radosav-Petrovic,Radosav-Petrovic,7214c684,rs SRB,MF,Zaragoza
-3687.0,Valentín Vada,/en/players/dcf7cf44/Valentin-Vada,Valentin-Vad,dcf7cf44,ar ARG,MF,Zaragoza
-3688.0,Nano,/en/players/217011a0/Nano,Nano,217011a0,es ESP,"FW,MF",Zaragoza
-3689.0,Miguel Puche García,/en/players/3d1f1458/Miguel-Puche-Garcia,Miguel-Puche-Garci,3d1f1458,es ESP,FW,Zaragoza
-3690.0,César Yanis,/en/players/d6cc3b04/Cesar-Yanis,Cesar-Yani,d6cc3b04,pa PAN,MF,Zaragoza
-3691.0,Angel López Ramón,/en/players/86e3c315/Angel-Lopez-Ramon,Angel-Lopez-Ramo,86e3c315,es ESP,DF,Zaragoza
-3692.0,Raúl Rubio,/en/players/a8028cf9/Raul-Rubio,Raul-Rubio,8028cf9,es ESP,FW,Zaragoza
-3693.0,Isaiah Navarro,/en/players/c2069db9/Isaiah-Navarro,Isaiah-Navarro,c2069db9,es ESP,MF,Zaragoza
-3694.0,Miguel Sanz,/en/players/9a49e53c/Miguel-Sanz,Miguel-Sanz,9a49e53c,es ESP,GK,Zaragoza
-3695.0,Alberto Vaquero,/en/players/b4f73340/Alberto-Vaquero,Alberto-Vaquero,b4f73340,es ESP,MF,Zaragoza
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+4883.0,﻿César Láinez,/en/players/c27fe765/Cesar-Lainez,Cesar-Lainez,c27fe765,es ESP,GK,Zaragoza
+4884.0,Fernando Soriano,/en/players/1aa72854/Fernando-Soriano,Fernando-Soriano,1aa72854,es ESP,MF,Zaragoza
+4885.0,Miguel Rebosio,/en/players/306e0437/Miguel-Rebosio,Miguel-Rebosio,306e0437,pe PER,DF,Zaragoza
+4886.0,Paco,/en/players/e52392a7/Paco,Paco,52392a7,es ESP,DF,Zaragoza
+4887.0,Jordi Ferrón,/en/players/cd37881d/Jordi-Ferron,Jordi-Ferro,cd37881d,es ESP,DF,Zaragoza
+4888.0,Luciano Galletti,/en/players/2760ef74/Luciano-Galletti,Luciano-Galletti,2760ef74,ar ARG,MF,Zaragoza
+4889.0,Delio Toledo,/en/players/916beb71/Delio-Toledo,Delio-Toledo,916beb71,py PAR,DF,Zaragoza
+4890.0,Martín Vellisca,/en/players/d859d8c2/Martin-Vellisca,Martin-Vellisc,d859d8c2,es ESP,MF,Zaragoza
+4891.0,Constantin Gâlcă,/en/players/624ddea0/Constantin-Galca,Constantin-Galc,624ddea0,ro ROU,MF,Zaragoza
+4892.0,David Pirri,/en/players/e84f523d/David-Pirri,David-Pirri,84f523d,es ESP,MF,Zaragoza
+4893.0,Yordi,/en/players/8cbb78fb/Yordi,Yordi,8cbb78fb,es ESP,FW,Zaragoza
+4894.0,Santiago Aragón,/en/players/eca1bef0/Santiago-Aragon,Santiago-Arago,ca1bef0,es ESP,MF,Zaragoza
+4895.0,Slobodan Komljenović,/en/players/a8e80766/Slobodan-Komljenovic,Slobodan-Komljenovic,8e80766,rs SRB,DF,Zaragoza
+4896.0,Corona,/en/players/4798bc33/Corona,Coro,4798bc33,es ESP,MF,Zaragoza
+4897.0,Cani,/en/players/b493db11/Cani,Cani,b493db11,es ESP,MF,Zaragoza
+4898.0,Ibán Espadas,/en/players/1e764654/Iban-Espadas,Iban-Espad,1e764654,es ESP,FW,Zaragoza
+4899.0,Juanele,/en/players/d0927870/Juanele,Ju,d0927870,es ESP,FW,Zaragoza
+4900.0,Luis Cuartero,/en/players/8180abbf/Luis-Cuartero,Luis-Cuartero,8180abbf,es ESP,DF,Zaragoza
+4901.0,Jesús Muñoz,/en/players/336a06bd/Jesus-Munoz,Jesus-Munoz,336a06bd,es ESP,MF,Zaragoza
+4902.0,Goran Drulić,/en/players/aa5e81ad/Goran-Drulic,Goran-Drulic,5e81ad, SCG,FW,Zaragoza
+4903.0,Iñaki Hurtado,/en/players/354a89df/Inaki-Hurtado,Inaki-Hurtado,354a89df,es ESP,"FW,MF",Zaragoza
+4904.0,Pablo Díaz Stalla,/en/players/a42419f7/Pablo-Diaz-Stalla,Pablo-Diaz-St,42419f7,es ESP,DF,Zaragoza
+4905.0,Miguel Martínez,/en/players/29d6d13c/Miguel-Martinez,Miguel-Martinez,29d6d13c,es ESP,GK,Zaragoza
+4906.0,David Generelo,/en/players/2ae48997/David-Generelo,David-Generelo,2ae48997,es ESP,MF,Zaragoza
+4907.0,Paulo Jamelli,/en/players/e9cdf4c1/Paulo-Jamelli,Paulo-Jamelli,9cdf4c1,br BRA,FW,Zaragoza
+4908.0,Raúl Valbuena,/en/players/d711ab5a/Raul-Valbuena,Raul-Valbu,d711ab5a,es ESP,GK,Zaragoza
+4909.0,Alen Peternac,/en/players/c0b4ee52/Alen-Peternac,Alen-Peternac,c0b4ee52,hr CRO,FW,Zaragoza
+4910.0,﻿David Villa,/en/players/ade08a67/David-Villa,David-Vi,de08a67,es ESP,"FW,MF",Zaragoza
+4911.0,Gabriel Milito,/en/players/095009cc/Gabriel-Milito,Gabriel-Milito,095009cc,ar ARG,DF,Zaragoza
+4912.0,Leonardo Ponzio,/en/players/6f3a6343/Leonardo-Ponzio,Leonardo-Ponzio,6f3a6343,ar ARG,MF,Zaragoza
+4913.0,Sávio,/en/players/4abe5c93/Savio,Savio,4abe5c93,br BRA,MF,Zaragoza
+4914.0,José María Movilla,/en/players/1ac170a8/Jose-Maria-Movilla,Jose-Maria-Movi,1ac170a8,es ESP,MF,Zaragoza
+4915.0,Dani García,/en/players/68411ed5/Dani-Garcia,Dani-Garci,68411ed5,es ESP,FW,Zaragoza
+4916.0,Jorge Zaparaín,/en/players/e78b4d1e/Jorge-Zaparain,Jorge-Zaparai,78b4d1e,es ESP,GK,Zaragoza
+4917.0,Capi,/en/players/7ba110d0/Capi,Capi,7ba110d0,es ESP,DF,Zaragoza
+4918.0,﻿Luis García,/en/players/a716e5a4/Luis-Garcia,Luis-Garci,716e5a4,es ESP,GK,Zaragoza
+4919.0,Álvaro,/en/players/3bb76c65/Alvaro,Alvaro,3bb76c65,br BRA,DF,Zaragoza
+4920.0,Alberto Zapater,/en/players/1a7d5ffe/Alberto-Zapater,Alberto-Zapat,1a7d5ffe,es ESP,MF,Zaragoza
+4921.0,Óscar,/en/players/627650df/Oscar,Osc,627650df,es ESP,MF,Zaragoza
+4922.0,Agustín Aranzábal,/en/players/ee65d657/Agustin-Aranzabal,Agustin-Aranzab,65d657,es ESP,DF,Zaragoza
+4923.0,Javi Moreno,/en/players/64497d05/Javi-Moreno,Javi-Moreno,64497d05,es ESP,FW,Zaragoza
+4924.0,Rubén Falcón,/en/players/bf651b09/Ruben-Falcon,Ruben-Falco,bf651b09,es ESP,GK,Zaragoza
+4925.0,César Jiménez,/en/players/efc6342b/Cesar-Jimenez,Cesar-Jimenez,fc6342b,es ESP,DF,Zaragoza
+4926.0,Juan García Granero,/en/players/febf4db0/Juan-Garcia-Granero,Juan-Garcia-Granero,febf4db0,es ESP,MF,Zaragoza
+4927.0,Juanjo Camacho,/en/players/1a1609ab/Juanjo-Camacho,Juanjo-Camacho,1a1609ab,es ESP,MF,Zaragoza
+4928.0,Piti,/en/players/ab530738/Piti,Piti,b530738,es ESP,"FW,MF",Zaragoza
+4929.0,César Sánchez,/en/players/c6e6e5d6/Cesar-Sanchez,Cesar-Sanchez,c6e6e5d6,es ESP,GK,Zaragoza
+4930.0,Diego Milito,/en/players/2188289f/Diego-Milito,Diego-Milito,2188289f,ar ARG,FW,Zaragoza
+4931.0,Ewerthon,/en/players/00e15acb/Ewerthon,Ewertho,00e15acb,br BRA,FW,Zaragoza
+4932.0,Albert Celades,/en/players/61796b1f/Albert-Celades,Albert-Celad,61796b1f,es ESP,MF,Zaragoza
+4933.0,Sergio García,/en/players/2bee98fd/Sergio-Garcia,Sergio-Garci,2bee98fd,es ESP,"FW,MF",Zaragoza
+4934.0,Chus Herrero,/en/players/ac34a4f0/Chus-Herrero,Chus-Herrero,c34a4f0,es ESP,DF,Zaragoza
+4935.0,Ángel Lafita,/en/players/0b68c35a/Angel-Lafita,Angel-Lafit,0b68c35a,es ESP,"FW,MF",Zaragoza
+4936.0,Andrés D'Alessandro,/en/players/6a11048a/Andres-DAlessandro,Andres-DAlessandro,6a11048a,ar ARG,"FW,MF",Zaragoza
+4937.0,Juanfran,/en/players/d8a22e59/Juanfran,Juanf,d8a22e59,es ESP,DF,Zaragoza
+4938.0,Pablo Aimar,/en/players/ab6c00d3/Pablo-Aimar,Pablo-Aim,b6c00d3,ar ARG,MF,Zaragoza
+4939.0,Carlos Diogo,/en/players/8da138d9/Carlos-Diogo,Carlos-Diogo,8da138d9,uy URU,"DF,MF",Zaragoza
+4940.0,Sergio,/en/players/7688c579/Sergio,Sergio,7688c579,es ESP,DF,Zaragoza
+4941.0,Gerard Piqué,/en/players/adfc9123/Gerard-Pique,Gerard-Piqu,dfc9123,es ESP,DF,Zaragoza
+4942.0,Antonio Longás,/en/players/d7821711/Antonio-Longas,Antonio-Long,d7821711,es ESP,MF,Zaragoza
+4943.0,Gustavo Nery,/en/players/c7ca6fb1/Gustavo-Nery,Gustavo-N,c7ca6fb1,br BRA,DF,Zaragoza
+4944.0,Roberto Ayala,/en/players/561d182e/Roberto-Ayala,Roberto-A,561d182e,ar ARG,DF,Zaragoza
+4945.0,Ricardo Oliveira,/en/players/420c1246/Ricardo-Oliveira,Ricardo-Olivei,420c1246,br BRA,FW,Zaragoza
+4946.0,Peter Luccin,/en/players/3270f1b5/Peter-Luccin,Peter-Lucci,3270f1b5,fr FRA,MF,Zaragoza
+4947.0,Gabi,/en/players/65d750b5/Gabi,Gabi,65d750b5,es ESP,MF,Zaragoza
+4948.0,Javier Paredes,/en/players/488a9ade/Javier-Paredes,Javier-Pared,488a9ade,es ESP,DF,Zaragoza
+4949.0,Matuzalém,/en/players/5ba2fc63/Matuzalem,Matuzalem,5ba2fc63,br BRA,MF,Zaragoza
+4950.0,Francisco Pavón,/en/players/a222a596/Francisco-Pavon,Francisco-Pavo,222a596,es ESP,DF,Zaragoza
+4951.0,Óscar Valero,/en/players/ec2c8491/Oscar-Valero,Oscar-Valero,c2c8491,es ESP,DF,Zaragoza
+4952.0,Javier López Vallejo,/en/players/54562263/Javier-Lopez-Vallejo,Javier-Lopez-Vallejo,54562263,es ESP,GK,Zaragoza
+4953.0,Vicente Pascual,/en/players/41ee1744/Vicente-Pascual,Vicente-Pascu,41ee1744,es ESP,MF,Zaragoza
+4954.0,Alberto Montejo,/en/players/655af7e4/Alberto-Montejo,Alberto-Montejo,655af7e4,es ESP,MF,Zaragoza
+4955.0,﻿Jorge López,/en/players/cf66479e/Jorge-Lopez,Jorge-Lopez,cf66479e,es ESP,MF,Zaragoza
+4956.0,Javier Arizmendi,/en/players/14a6c075/Javier-Arizmendi,Javier-Arizmendi,14a6c075,es ESP,"FW,MF",Zaragoza
+4957.0,Juan Pablo Caffa,/en/players/9a241b77/Juan-Pablo-Caffa,Juan-Pablo-Caff,9a241b77,ar ARG,MF,Zaragoza
+4958.0,Stéphane Pignol,/en/players/ca3ae27c/Stephane-Pignol,Stephane-Pigno,ca3ae27c,fr FRA,DF,Zaragoza
+4959.0,Rubén Pulido,/en/players/3a8be98c/Ruben-Pulido,Ruben-Pulido,3a8be98c,es ESP,DF,Zaragoza
+4960.0,Toni Doblas,/en/players/d5c35223/Toni-Doblas,Toni-Dob,d5c35223,es ESP,GK,Zaragoza
+4961.0,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,Braulio-Nobreg,6e02869d,es ESP,FW,Zaragoza
+4962.0,Ander Herrera,/en/players/436a9dd0/Ander-Herrera,Ander-H,436a9dd0,es ESP,MF,Zaragoza
+4963.0,Antonio Hidalgo,/en/players/b5b88d6c/Antonio-Hidalgo,Antonio-Hidalgo,b5b88d6c,es ESP,MF,Zaragoza
+4964.0,Franck Songo'o,/en/players/835c259d/Franck-Songoo,Franck-Songoo,835c259d,cm CMR,"FW,MF",Zaragoza
+4965.0,Raúl Goni,/en/players/03a4a101/Raul-Goni,Raul-Goni,03a4a101,es ESP,DF,Zaragoza
+4966.0,Adrià Granell,/en/players/33257930/Adria-Granell,Adria-G,33257930,es ESP,MF,Zaragoza
+4967.0,Jiří Jarošík,/en/players/55ea6bb4/Jiri-Jarosik,Jiri-Jarosik,55ea6bb4,cz CZE,"DF,MF",Zaragoza
+4968.0,Abel Aguilar,/en/players/6936b41b/Abel-Aguilar,Abel-Agui,6936b41b,co COL,MF,Zaragoza
+4969.0,Eliseu,/en/players/981869fc/Eliseu,Eliseu,981869fc,pt POR,"DF,MF",Zaragoza
+4970.0,Humberto Suazo,/en/players/c54d3799/Humberto-Suazo,Humberto-Suazo,c54d3799,cl CHI,FW,Zaragoza
+4971.0,Juan Pablo Carrizo,/en/players/04e6e152/Juan-Pablo-Carrizo,Juan-Pablo-Carrizo,04e6e152,ar ARG,GK,Zaragoza
+4972.0,Roberto,/en/players/ba3ca78f/Roberto,Roberto,ba3ca78f,es ESP,GK,Zaragoza
+4973.0,Matteo Contini,/en/players/dec20583/Matteo-Contini,Matteo-Contini,dec20583,it ITA,DF,Zaragoza
+4974.0,Edmílson,/en/players/13853c88/Edmilson,Edmilso,13853c88,br BRA,"DF,MF",Zaragoza
+4975.0,Jermaine Pennant,/en/players/c6043950/Jermaine-Pennant,Jermaine-Pennant,c6043950,eng ENG,MF,Zaragoza
+4976.0,Adrián Colunga,/en/players/2212dd4e/Adrian-Colunga,Adrian-Colung,2212dd4e,es ESP,"FW,MF",Zaragoza
+4977.0,Pablo Amo,/en/players/2ee60d39/Pablo-Amo,Pablo-Amo,2ee60d39,es ESP,DF,Zaragoza
+4978.0,Marko Babić,/en/players/1b4b049b/Marko-Babic,Marko-Babic,1b4b049b,hr CRO,"DF,MF",Zaragoza
+4979.0,Ivan Obradović,/en/players/f6ddac8f/Ivan-Obradovic,Ivan-Obradovic,f6ddac8f,rs SRB,DF,Zaragoza
+4980.0,Víctor Laguardia,/en/players/b7c99b9b/Victor-Laguardia,Victor-Laguardi,b7c99b9b,es ESP,DF,Zaragoza
+4981.0,Ikechukwu Uche,/en/players/ba7c6d25/Ikechukwu-Uche,Ikechukwu-Uch,ba7c6d25,ng NGA,FW,Zaragoza
+4982.0,Álex Sánchez,/en/players/927c7264/Alex-Sanchez,Alex-Sanchez,927c7264,es ESP,FW,Zaragoza
+4983.0,Kevin Lacruz,/en/players/b930ede6/Kevin-Lacruz,Kevin-Lacruz,b930ede6,es ESP,MF,Zaragoza
+4984.0,Nicolás Bertolo,/en/players/089f82b2/Nicolas-Bertolo,Nicolas-Bertolo,089f82b2,ar ARG,MF,Zaragoza
+4985.0,Leo Franco,/en/players/c39a5c6b/Leo-Franco,Leo-Franco,c39a5c6b,ar ARG,GK,Zaragoza
+4986.0,Maurizio Lanzaro,/en/players/52eacf54/Maurizio-Lanzaro,Maurizio-Lanzaro,52eacf54,it ITA,DF,Zaragoza
+4987.0,Florent Sinama Pongolle,/en/players/f222974d/Florent-Sinama-Pongolle,Florent-Sinama-Pongo,f222974d,fr FRA,FW,Zaragoza
+4988.0,Saïd Boutahar,/en/players/2a33b1a7/Said-Boutahar,Said-Boutah,2a33b1a7,nl NED,MF,Zaragoza
+4989.0,Paulo da Silva,/en/players/47560da8/Paulo-da-Silva,Paulo-da-Silv,47560da8,py PAR,DF,Zaragoza
+4990.0,Ádám Pintér,/en/players/fdbcd938/Adam-Pinter,Adam-Pint,fdbcd938,hu HUN,"DF,MF",Zaragoza
+4991.0,Marco Pérez,/en/players/2264e79b/Marco-Perez,Marco-Perez,2264e79b,co COL,"FW,MF",Zaragoza
+4992.0,Guirane N'Daw,/en/players/cc61ee7a/Guirane-NDaw,Guirane-NDaw,cc61ee7a,sn SEN,"DF,MF",Zaragoza
+4993.0,Hélder Postiga,/en/players/c8504093/Helder-Postiga,Helder-Postig,c8504093,pt POR,FW,Zaragoza
+4994.0,Luis García,/en/players/70df8d7c/Luis-Garcia,Luis-Garci,70df8d7c,es ESP,"FW,MF",Zaragoza
+4995.0,Rúben Micael,/en/players/107c6fbd/Ruben-Micael,Ruben-Mic,107c6fbd,pt POR,MF,Zaragoza
+4996.0,Abraham Minero,/en/players/ce2c56fc/Abraham-Minero,Abraham-Minero,ce2c56fc,es ESP,"DF,MF",Zaragoza
+4997.0,Apoño,/en/players/02503ca3/Apono,Apono,02503ca3,es ESP,MF,Zaragoza
+4998.0,Efraín Juárez,/en/players/8c1b4056/Efrain-Juarez,Efrain-Juarez,8c1b4056,mx MEX,"DF,MF",Zaragoza
+4999.0,Pablo Álvarez,/en/players/1226cc4f/Pablo-Alvarez,Pablo-Alvarez,1226cc4f,ar ARG,DF,Zaragoza
+5000.0,David Mateos,/en/players/ddee7ba5/David-Mateos,David-Mateo,ddee7ba5,es ESP,DF,Zaragoza
+5001.0,Pablo Barrera,/en/players/ff70b131/Pablo-Barrera,Pablo-B,ff70b131,mx MEX,"FW,MF",Zaragoza
+5002.0,Fernando Meira,/en/players/415bd344/Fernando-Meira,Fernando-Mei,415bd344,pt POR,"DF,MF",Zaragoza
+5003.0,Franco Zuculini,/en/players/9c31bb89/Franco-Zuculini,Franco-Zuculini,9c31bb89,ar ARG,MF,Zaragoza
+5004.0,Edu Oriol,/en/players/94c9f17a/Edu-Oriol,Edu-Orio,94c9f17a,es ESP,"FW,MF",Zaragoza
+5005.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Zaragoza
+5006.0,Tomislav Dujmović,/en/players/1bd0a8fe/Tomislav-Dujmovic,Tomislav-Dujmovic,1bd0a8fe,hr CRO,MF,Zaragoza
+5007.0,Juankar,/en/players/e9a12436/Juankar,Juank,9a12436,es ESP,"DF,FW",Zaragoza
+5008.0,Antonio Tomás,/en/players/668d4e93/Antonio-Tomas,Antonio-Tom,668d4e93,es ESP,MF,Zaragoza
+5009.0,Jorge Ortí,/en/players/5d67b085/Jorge-Orti,Jorge-Orti,5d67b085,es ESP,FW,Zaragoza
+5010.0,Joel Valencia,/en/players/03904ca0/Joel-Valencia,Joel-Valenci,03904ca0,ec ECU,MF,Zaragoza
+5011.0,﻿Paco Montañés,/en/players/9cc493b1/Paco-Montanes,Paco-Mont,9cc493b1,es ESP,"FW,MF",Zaragoza
+5012.0,Álvaro González,/en/players/42dcf26d/Alvaro-Gonzalez,Alvaro-Gonzalez,42dcf26d,es ESP,DF,Zaragoza
+5013.0,Cristian Săpunaru,/en/players/906d58bc/Cristian-Sapunaru,Cristian-Sapunaru,906d58bc,ro ROU,DF,Zaragoza
+5014.0,Víctor Rodríguez,/en/players/15781606/Victor-Rodriguez,Victor-Rodriguez,15781606,es ESP,"FW,MF",Zaragoza
+5015.0,Glenn Loovens,/en/players/3245e023/Glenn-Loovens,Glenn-Loov,3245e023,nl NED,DF,Zaragoza
+5016.0,José Mari,/en/players/6f4c734d/Jose-Mari,Jose-Mari,6f4c734d,es ESP,MF,Zaragoza
+5017.0,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9,es ESP,FW,Zaragoza
+5018.0,José Manuel Fernández,/en/players/4af68c24/Jose-Manuel-Fernandez,Jose-Manuel-Fernandez,4af68c24,es ESP,DF,Zaragoza
+5019.0,Romaric,/en/players/9bb5c5e0/Romaric,Romaric,9bb5c5e0,ci CIV,MF,Zaragoza
+5020.0,Rubén Rochina,/en/players/ecd8c01e/Ruben-Rochina,Ruben-Rochi,cd8c01e,es ESP,"FW,MF",Zaragoza
+5021.0,Stefan Babović,/en/players/efb3ce2a/Stefan-Babovic,Stefan-Babovic,fb3ce2a,rs SRB,MF,Zaragoza
+5022.0,Henri Bienvenu,/en/players/df6b9707/Henri-Bienvenu,Henri-Bienvenu,df6b9707,cm CMR,FW,Zaragoza
+5023.0,Lucas Wilchez,/en/players/199c2648/Lucas-Wilchez,Lucas-Wilchez,199c2648,ar ARG,"FW,MF",Zaragoza
+5024.0,Pablo Alcolea,/en/players/7d093d18/Pablo-Alcolea,Pablo-Alco,7d093d18,es ESP,GK,Zaragoza
+5025.0,Héctor Hernández,/en/players/76ee80ee/Hector-Hernandez,Hector-Hernandez,76ee80ee,es ESP,DF,Zaragoza
+5026.0,Javi Álamo,/en/players/ffd69308/Javi-Alamo,Javi-Alamo,ffd69308,es ESP,"FW,MF",Zaragoza
+5027.0,Tarsicio Aguado,/en/players/345ebb78/Tarsicio-Aguado,Tarsicio-Aguado,345ebb78,es ESP,MF,Zaragoza
+5028.0,Adrià Carmona,/en/players/9e95dc9e/Adria-Carmona,Adria-Carmo,9e95dc9e,es ESP,"FW,MF",Zaragoza
+5029.0,Roger Martí,/en/players/0ae4e09a/Roger-Marti,Roger-Marti,0ae4e09a,es ESP,FW,Zaragoza
+5030.0,Diego Rico,/en/players/d9ba39fc/Diego-Rico,Diego-Rico,d9ba39fc,es ESP,DF,Zaragoza
+5031.0,José Barkero,/en/players/89a1b23c/Jose-Barkero,Jose-Barkero,89a1b23c,es ESP,MF,Zaragoza
+5032.0,Mario Paglialunga,/en/players/eda5ea84/Mario-Paglialunga,Mario-Paglialung,da5ea84,ar ARG,MF,Zaragoza
+5033.0,David Cortés,/en/players/99d15abd/David-Cortes,David-Cort,99d15abd,es ESP,DF,Zaragoza
+5034.0,Ángelo Henríquez,/en/players/6f3a433e/Angelo-Henriquez,Angelo-Henriquez,6f3a433e,cl CHI,FW,Zaragoza
+5035.0,César Arzo,/en/players/0ea37b10/Cesar-Arzo,Cesar-Arzo,0ea37b10,es ESP,"DF,MF",Zaragoza
+5036.0,Sergio Cidoncha,/en/players/05837e63/Sergio-Cidoncha,Sergio-Cidonch,05837e63,es ESP,MF,Zaragoza
+5037.0,Walter Acevedo,/en/players/393613e2/Walter-Acevedo,Walter-Acevedo,393613e2,ar ARG,MF,Zaragoza
+5038.0,Álvaro Tierno,/en/players/f11f1246/Alvaro-Tierno,Alvaro-Tierno,f11f1246,es ESP,MF,Zaragoza
+5039.0,Óscar Whalley,/en/players/3d763902/Oscar-Whalley,Oscar-Wh,3d763902,es ESP,GK,Zaragoza
+5040.0,Diego Suárez Hernández,/en/players/8d9fda26/Diego-Suarez-Hernandez,Diego-Suarez-Hernandez,8d9fda26,es ESP,FW,Zaragoza
+5041.0,Lucas Porcar,/en/players/c3eadfec/Lucas-Porcar,Lucas-Porc,c3eadfec,es ESP,"FW,MF",Zaragoza
+5042.0,Juan Esnáider Ruiz,/en/players/11894e8c/Juan-Esnaider-Ruiz,Juan-Esnaider-Ruiz,11894e8c,es ESP,FW,Zaragoza
+5043.0,Anton Shvets,/en/players/de5c4781/Anton-Shvets,Anton-Shvet,de5c4781,ru RUS,MF,Zaragoza
+5044.0,﻿Albert Dorca,/en/players/01c3b68a/Albert-Dorca,Albert-Dorc,01c3b68a,es ESP,MF,Zaragoza
+5045.0,Borja Bastón,/en/players/8c44e37b/Borja-Baston,Borja-Basto,8c44e37b,es ESP,FW,Zaragoza
+5046.0,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,Leandro-Cab,69cbc8b6,uy URU,DF,Zaragoza
+5047.0,Pedro,/en/players/eb642c79/Pedro,Pedro,b642c79,es ESP,"FW,MF",Zaragoza
+5048.0,Iñigo Ruiz de Galarreta,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,Inigo-Ruiz-de-Galarret,91f7631f,es ESP,MF,Zaragoza
+5049.0,Mario,/en/players/e6ede7f4/Mario,Mario,6ede7f4,es ESP,DF,Zaragoza
+5050.0,Jesús Vallejo,/en/players/c2111b45/Jesus-Vallejo,Jesus-Vallejo,c2111b45,es ESP,DF,Zaragoza
+5051.0,Eldin Hadžić,/en/players/2e2d7785/Eldin-Hadzic,Eldin-Hadzic,2e2d7785,ba BIH,"FW,MF",Zaragoza
+5052.0,Willian José,/en/players/d87e2cae/Willian-Jose,Willian-Jo,d87e2cae,br BRA,FW,Zaragoza
+5053.0,Jaime Romero,/en/players/e28205f4/Jaime-Romero,Jaime-Romero,28205f4,es ESP,"FW,MF",Zaragoza
+5054.0,Yassine Bounou,/en/players/f6798fc3/Yassine-Bounou,Yassine-Bounou,f6798fc3,ma MAR,GK,Zaragoza
+5055.0,Vullnet Basha,/en/players/9b31bd32/Vullnet-Basha,Vullnet-Bash,9b31bd32,al ALB,MF,Zaragoza
+5056.0,Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Zaragoza
+5057.0,Lolo,/en/players/e7754566/Lolo,Lolo,7754566,es ESP,"FW,MF",Zaragoza
+5058.0,Natxo Insa,/en/players/28ccefcd/Natxo-Insa,Natxo-I,28ccefcd,my MAS,MF,Zaragoza
+5059.0,David Muñoz Pueyo,/en/players/0e457a8c/David-Munoz-Pueyo,David-Munoz-Pueyo,0e457a8c,es ESP,FW,Zaragoza
+5060.0,Jesús Tato,/en/players/50e2af8c/Jesus-Tato,Jesus-Tato,50e2af8c,es ESP,FW,Zaragoza
+5061.0,Sergio Gil Latorre,/en/players/94d9e243/Sergio-Gil-Latorre,Sergio-Gil-Lato,94d9e243,es ESP,MF,Zaragoza
+5062.0,Adán Pérez,/en/players/0d1ce336/Adan-Perez,Adan-Perez,0d1ce336,es ESP,MF,Zaragoza
+5063.0,Álvaro Meseguer,/en/players/84bb7e43/Alvaro-Meseguer,Alvaro-Mesegu,84bb7e43,es ESP,DF,Zaragoza
+5064.0,Carlos Javier Rodríguez,/en/players/4adbcf21/Carlos-Javier-Rodriguez,Carlos-Javier-Rodriguez,4adbcf21,es ESP,MF,Zaragoza
+5065.0,Lolo,/en/players/31c71140/Lolo,Lolo,31c71140,es ESP,"DF,MF",Zaragoza
+5066.0,Pablo Moreno,/en/players/13d53247/Pablo-Moreno,Pablo-Moreno,13d53247,es ESP,MF,Zaragoza
+5067.0,Carlos Nieto,/en/players/91738147/Carlos-Nieto,Carlos-Nieto,91738147,es ESP,DF,Zaragoza
+5068.0,Jorge Pombo,/en/players/0a8bcb23/Jorge-Pombo,Jorge-Pombo,0a8bcb23,es ESP,"FW,MF",Zaragoza
+5069.0,Erik Morán,/en/players/6941883f/Erik-Moran,Erik-Mo,6941883f,es ESP,MF,Zaragoza
+5070.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,FW,Zaragoza
+5071.0,Fredy Hinestroza,/en/players/ac330d8c/Fredy-Hinestroza,Fredy-Hinestroz,c330d8c,co COL,MF,Zaragoza
+5072.0,Manu Herrera,/en/players/ad2acc39/Manu-Herrera,Manu-H,d2acc39,es ESP,GK,Zaragoza
+5073.0,Isaac Carcelen,/en/players/c4b888df/Isaac-Carcelen,Isaac-Carc,c4b888df,es ESP,"DF,MF",Zaragoza
+5074.0,Alberto Guitián,/en/players/0eaaa3b0/Alberto-Guitian,Alberto-Guiti,0eaaa3b0,es ESP,DF,Zaragoza
+5075.0,Javier Ros,/en/players/6b2f1a78/Javier-Ros,Javier-Ro,6b2f1a78,es ESP,MF,Zaragoza
+5076.0,Pape Maly Diamanka,/en/players/5d289e13/Pape-Maly-Diamanka,Pape-Maly-Diamank,5d289e13,sn SEN,MF,Zaragoza
+5077.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,"DF,FW",Zaragoza
+5078.0,Manuel Lanzarote,/en/players/dff353fb/Manuel-Lanzarote,Manuel-Lanzarot,dff353fb,es ESP,MF,Zaragoza
+5079.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Zaragoza
+5080.0,Emmanuel Culio,/en/players/170eb35b/Emmanuel-Culio,Emmanuel-Culio,170eb35b,ar ARG,MF,Zaragoza
+5081.0,Joan Campins,/en/players/f0ce419d/Joan-Campins,Joan-Campi,f0ce419d,es ESP,DF,Zaragoza
+5082.0,Jean Marie Dongou,/en/players/fd0bb7d2/Jean-Marie-Dongou,Jean-Marie-Dongou,fd0bb7d2,cm CMR,FW,Zaragoza
+5083.0,Cezary Wilk,/en/players/bf526c15/Cezary-Wilk,Cezary-Wilk,bf526c15,pl POL,MF,Zaragoza
+5084.0,Jorge Diaz,/en/players/d3248912/Jorge-Diaz,Jorge-Diaz,d3248912,uy URU,"FW,MF",Zaragoza
+5085.0,Ariajasuru Hasegawa,/en/players/b147af0d/Ariajasuru-Hasegawa,Ariajasuru-Hasegaw,b147af0d,jp JPN,MF,Zaragoza
+5086.0,Iñaki Olaortua,/en/players/72d5e137/Inaki-Olaortua,Inaki-Olaortu,72d5e137,es ESP,DF,Zaragoza
+5087.0,Kilian Grant,/en/players/744e8a52/Kilian-Grant,Kilian-Grant,744e8a52,es ESP,FW,Zaragoza
+5088.0,Sergio Buenacasa,/en/players/f989b37f/Sergio-Buenacasa,Sergio-Buenac,f989b37f,es ESP,FW,Zaragoza
+5089.0,Marcelo Silva,/en/players/b9596515/Marcelo-Silva,Marcelo-Silv,b9596515,uy URU,DF,Zaragoza
+5090.0,José Enrique,/en/players/d56364d5/Jose-Enrique,Jose-Enriqu,d56364d5,es ESP,DF,Zaragoza
+5091.0,Álvaro Ratón,/en/players/64a816ff/Alvaro-Raton,Alvaro-Rato,64a816ff,es ESP,GK,Zaragoza
+5092.0,Xabi Irureta,/en/players/ad11657f/Xabi-Irureta,Xabi-Iruret,d11657f,es ESP,GK,Zaragoza
+5093.0,Jordi Xumetra,/en/players/3b79dbdb/Jordi-Xumetra,Jordi-Xumet,3b79dbdb,es ESP,"MF,FW",Zaragoza
+5094.0,Jorge Casado,/en/players/2ef06d6b/Jorge-Casado,Jorge-Casado,2ef06d6b,es ESP,DF,Zaragoza
+5095.0,Fran Rodríguez,/en/players/e1cfe8e6/Fran-Rodriguez,Fran-Rodriguez,1cfe8e6,es ESP,DF,Zaragoza
+5096.0,Edu Bedia,/en/players/2dc8077c/Edu-Bedia,Edu-Bedi,2dc8077c,es ESP,MF,Zaragoza
+5097.0,Jesús Valentín,/en/players/2594ee7d/Jesus-Valentin,Jesus-Valenti,2594ee7d,es ESP,"DF,MF",Zaragoza
+5098.0,Rolf Feltscher,/en/players/27baf026/Rolf-Feltscher,Rolf-Feltsch,27baf026,ve VEN,DF,Zaragoza
+5099.0,Edu Garcia,/en/players/9725eb96/Edu-Garcia,Edu-Garci,9725eb96,es ESP,"MF,FW",Zaragoza
+5100.0,Sebastián Saja,/en/players/50a2cb6d/Sebastian-Saja,Sebastian-Saj,50a2cb6d,ar ARG,GK,Zaragoza
+5101.0,Álex Barrera,/en/players/59533f80/Alex-Barrera,Alex-B,59533f80,es ESP,MF,Zaragoza
+5102.0,Macky Bagnack,/en/players/7b9efbd4/Macky-Bagnack,Macky-Bagnack,7b9efbd4,cm CMR,DF,Zaragoza
+5103.0,Xiscu,/en/players/5a481bbe/Xiscu,Xiscu,5a481bbe,es ESP,MF,Zaragoza
+5104.0,Georgios Samaras,/en/players/1b77cb6a/Georgios-Samaras,Georgios-Sam,1b77cb6a,gr GRE,MF,Zaragoza
+5105.0,Raí,/en/players/909aff69/Rai,Rai,909aff69,br BRA,FW,Zaragoza
+5106.0,Daniel Lasure,/en/players/b74d54d6/Daniel-Lasure,Daniel-Lasu,b74d54d6,es ESP,DF,Zaragoza
+5107.0,Răzvan Popa,/en/players/0a37dc1a/Razvan-Popa,Razvan-Po,0a37dc1a,ro ROU,"DF,MF",Zaragoza
+5108.0,Aitor Chueca,/en/players/c917b367/Aitor-Chueca,Aitor-Chuec,c917b367,es ESP,GK,Zaragoza
+5109.0,Guti,/en/players/125b98b0/Guti,Guti,125b98b0,es ESP,DF,Zaragoza
+5110.0,Raúl Guti,/en/players/0b2c8585/Raul-Guti,Raul-Guti,0b2c8585,es ESP,MF,Zaragoza
+5111.0,﻿Borja Iglesias,/en/players/75645f0e/Borja-Iglesias,Borja-Iglesi,75645f0e,es ESP,FW,Zaragoza
+5112.0,Cristian Álvarez,/en/players/87e89eb4/Cristian-Alvarez,Cristian-Alvarez,87e89eb4,ar ARG,GK,Zaragoza
+5113.0,Íñigo Eguaras,/en/players/3e93f8cf/Inigo-Eguaras,Inigo-Egu,3e93f8cf,es ESP,MF,Zaragoza
+5114.0,Diogo Verdasca,/en/players/6c06d7c1/Diogo-Verdasca,Diogo-Verdasc,6c06d7c1,pt POR,DF,Zaragoza
+5115.0,Aleix Febas,/en/players/38126309/Aleix-Febas,Aleix-Feb,38126309,es ESP,"MF,FW",Zaragoza
+5116.0,Alberto Benito,/en/players/b8779803/Alberto-Benito,Alberto-Benito,b8779803,es ESP,DF,Zaragoza
+5117.0,Simone Grippo,/en/players/8f2d246e/Simone-Grippo,Simone-Grippo,8f2d246e,ch SUI,DF,Zaragoza
+5118.0,Mikel González,/en/players/7cc5bd9c/Mikel-Gonzalez,Mikel-Gonzalez,7cc5bd9c,es ESP,DF,Zaragoza
+5119.0,Julián Delmás,/en/players/70283ec6/Julian-Delmas,Julian-Delm,70283ec6,es ESP,DF,Zaragoza
+5120.0,Gaizka Toquero,/en/players/b78144a6/Gaizka-Toquero,Gaizka-Toquero,b78144a6,es ESP,"MF,FW",Zaragoza
+5121.0,Ángel Martínez,/en/players/c44ce9ae/Angel-Martinez,Angel-Martinez,c44ce9ae,es ESP,DF,Zaragoza
+5122.0,Oliver Buff,/en/players/7cc49159/Oliver-Buff,Oliver-Buff,7cc49159,ch SUI,"MF,FW",Zaragoza
+5123.0,Giorgi Papunashvili,/en/players/95fa6d08/Giorgi-Papunashvili,Giorgi-Papunashvili,95fa6d08,ge GEO,"MF,FW",Zaragoza
+5124.0,Bruno Perone,/en/players/58591790/Bruno-Perone,Bruno-Pero,58591790,br BRA,DF,Zaragoza
+5125.0,Vinícius Araújo,/en/players/5d6b9376/Vinicius-Araujo,Vinicius-Araujo,5d6b9376,br BRA,"FW,MF",Zaragoza
+5126.0,Alain Oyarzun,/en/players/8159c16a/Alain-Oyarzun,Alain-Oyarzu,8159c16a,es ESP,"DF,MF",Zaragoza
+5127.0,Jesús Alfaro,/en/players/d04b8fd9/Jesus-Alfaro,Jesus-Alfaro,d04b8fd9,es ESP,FW,Zaragoza
+5128.0,Pep Biel,/en/players/1c59240b/Pep-Biel,Pep-Bi,1c59240b,es ESP,"FW,MF",Zaragoza
+5129.0,Pedro Alejandro Zalaya,/en/players/f7ddfb93/Pedro-Alejandro-Zalaya,Pedro-Alejandro-Z,f7ddfb93,es ESP,DF,Zaragoza
+5130.0,Sergio García,/en/players/5ddc211a/Sergio-Garcia,Sergio-Garci,5ddc211a,es ESP,GK,Zaragoza
+5131.0,James Igbekeme,/en/players/c9ce0fc8/James-Igbekeme,James-Igbekem,c9ce0fc8,ng NGA,MF,Zaragoza
+5132.0,Álvaro Vázquez,/en/players/d2d8675a/Alvaro-Vazquez,Alvaro-Vazquez,d2d8675a,es ESP,"FW,MF",Zaragoza
+5133.0,Marc Gual,/en/players/c2bdbd22/Marc-Gual,Marc-Gu,c2bdbd22,es ESP,FW,Zaragoza
+5134.0,Álex Muñoz,/en/players/853f211e/Alex-Munoz,Alex-Munoz,853f211e,es ESP,DF,Zaragoza
+5135.0,Alberto Soro,/en/players/452c3055/Alberto-Soro,Alberto-Soro,452c3055,es ESP,"MF,FW",Zaragoza
+5136.0,Chechu,/en/players/e98f3a6a/Chechu,Chechu,98f3a6a,es ESP,DF,Zaragoza
+5137.0,Miguel Linares,/en/players/e3cfbf9a/Miguel-Linares,Miguel-Li,3cfbf9a,es ESP,FW,Zaragoza
+5138.0,Diego Aguirre,/en/players/45b8139c/Diego-Aguirre,Diego-Agui,45b8139c,es ESP,"MF,FW",Zaragoza
+5139.0,Jeison Medina,/en/players/f94eb3da/Jeison-Medina,Jeison-Medi,f94eb3da,co COL,FW,Zaragoza
+5140.0,Albert Crespo,/en/players/06a9a610/Albert-Crespo,Albert-Crespo,06a9a610,es ESP,MF,Zaragoza
+5141.0,Jannick,/en/players/a0e315c6/Jannick,Jannick,0e315c6,gq EQG,MF,Zaragoza
+5142.0,Jesús ÁLVAREZ,/en/players/0fc3aade/Jesus-ALVAREZ,Jesus-ALVAREZ,0fc3aade,es ESP,DF,Zaragoza
+5143.0,David Vicente,/en/players/0d16396e/David-Vicente,David-Vicent,0d16396e,es ESP,MF,Zaragoza
+5144.0,Luis Javier Suárez,/en/players/eeba07f8/Luis-Javier-Suarez,Luis-Javier-Suarez,ba07f8,co COL,FW,Zaragoza
+5145.0,Pichu Atienza,/en/players/aaeacaca/Pichu-Atienza,Pichu-Atienz,caca,es ESP,DF,Zaragoza
+5146.0,Carlos Vigaray,/en/players/f69d934e/Carlos-Vigaray,Carlos-Vig,f69d934e,es ESP,DF,Zaragoza
+5147.0,Shinji Kagawa,/en/players/5afafbfe/Shinji-Kagawa,Shinji-Kagaw,5afafbfe,jp JPN,"MF,FW",Zaragoza
+5148.0,Javi Puado,/en/players/2683eda7/Javi-Puado,Javi-Puado,2683eda7,es ESP,"MF,FW",Zaragoza
+5149.0,Jawad El Yamiq,/en/players/f6f6b6e8/Jawad-El-Yamiq,Jawad-El-Yamiq,f6f6b6e8,ma MAR,DF,Zaragoza
+5150.0,Burgui,/en/players/45e304c8/Burgui,Burgui,45e304c8,es ESP,MF,Zaragoza
+5151.0,Raphael Dwamena,/en/players/525f9bf4/Raphael-Dwamena,Raphael-Dwam,525f9bf4,gh GHA,FW,Zaragoza
+5152.0,Daniel Torres,/en/players/87882adc/Daniel-Torres,Daniel-To,87882adc,co COL,MF,Zaragoza
+5153.0,Alejandro Blanco,/en/players/c4dce677/Alejandro-Blanco,Alejandro-Blanco,c4dce677,es ESP,MF,Zaragoza
+5154.0,Alejandro Francés,/en/players/3e78a188/Alejandro-Frances,Alejandro-Franc,3e78a188,es ESP,DF,Zaragoza
+5155.0,André Pereira,/en/players/4515f00d/Andre-Pereira,Andre-Perei,4515f00d,pt POR,MF,Zaragoza
+5156.0,Marcos Baselga,/en/players/d9c0a57d/Marcos-Baselga,Marcos-Baselg,d9c0a57d,es ESP,FW,Zaragoza
+5157.0,Juan Azón,/en/players/0e9d43ef/Juan-Azon,Juan-Azo,0e9d43ef,es ESP,GK,Zaragoza
+5158.0,Ahmed Belhadji,/en/players/8b3b6471/Ahmed-Belhadji,Ahmed-Belhadji,8b3b6471,es ESP,FW,Zaragoza
+5159.0,Federico Bikoro,/en/players/ed28f256/Federico-Bikoro,Federico-Bikoro,d28f256,gq EQG,"DF,MF",Zaragoza
+5160.0,Andrés Martín,/en/players/a3308f22/Andres-Martin,Andres-Marti,3308f22,es ESP,DF,Zaragoza
+5161.0,﻿Juanjo Narváez,/en/players/485e4939/Juanjo-Narvaez,Juanjo-Narvaez,485e4939,co COL,"FW,MF",Zaragoza
+5162.0,Pep Chavarría,/en/players/63c5e56b/Pep-Chavarria,Pep-Chavarri,63c5e56b,es ESP,"DF,MF",Zaragoza
+5163.0,Jair Amador,/en/players/82b27ccb/Jair-Amador,Jair-Amado,82b27ccb,gq EQG,DF,Zaragoza
+5164.0,Sergio Bermejo,/en/players/d166c007/Sergio-Bermejo,Sergio-Bermejo,d166c007,es ESP,"MF,FW",Zaragoza
+5165.0,Álvaro Tejero,/en/players/868ce848/Alvaro-Tejero,Alvaro-Tejero,868ce848,es ESP,DF,Zaragoza
+5166.0,Gabriel Fernández,/en/players/36c5f77b/Gabriel-Fernandez,Gabriel-Fernandez,36c5f77b,uy URU,FW,Zaragoza
+5167.0,Luca Zanimacchia,/en/players/5e834dce/Luca-Zanimacchia,Luca-Zanimacchi,5e834dce,it ITA,MF,Zaragoza
+5168.0,Álex Alegría,/en/players/46166b49/Alex-Alegria,Alex-Alegri,46166b49,es ESP,FW,Zaragoza
+5169.0,Ivan Monzón,/en/players/9b2779f5/Ivan-Monzon,Ivan-Monzo,9b2779f5,es ESP,FW,Zaragoza
+5170.0,Mathieu Peybernes,/en/players/34c872d2/Mathieu-Peybernes,Mathieu-Peyb,34c872d2,fr FRA,DF,Zaragoza
+5171.0,Adrián González,/en/players/57ebd662/Adrian-Gonzalez,Adrian-Gonzalez,57ebd662,es ESP,MF,Zaragoza
+5172.0,Juan Sanabria,/en/players/f1d74479/Juan-Sanabria,Juan-Sanabri,f1d74479,uy URU,MF,Zaragoza
+5173.0,Haris Vučkić,/en/players/a8f4dfb9/Haris-Vuckic,Haris-Vuckic,8f4dfb9,si SVN,FW,Zaragoza
+5174.0,Larra,/en/players/0d690336/Larra,L,0d690336,es ESP,MF,Zaragoza
+5175.0,Antonio Sola Villalba,/en/players/6fb53f9b/Antonio-Sola-Villalba,Antonio-Sola-Villalb,6fb53f9b,es ESP,DF,Zaragoza
+5176.0,Luis Carbonell Artajona,/en/players/a5388395/Luis-Carbonell-Artajona,Luis-Carbonell-Artajo,5388395,es ESP,FW,Zaragoza
+5177.0,Javier Hernández Tarroc,/en/players/96e3d64b/Javier-Hernandez-Tarroc,Javier-Hernandez-Tarroc,96e3d64b,es ESP,DF,Zaragoza
+5178.0,Iván Castillo Jiménez,/en/players/6a1cf00e/Ivan-Castillo-Jimenez,Ivan-Castillo-Jimenez,6a1cf00e,es ESP,MF,Zaragoza
+5179.0,Enrique Clemente,/en/players/21bf9d41/Enrique-Clemente,Enrique-Clement,21bf9d41,es ESP,DF,Zaragoza
+5180.0,Guillermo Labrador,/en/players/74c18daf/Guillermo-Labrador,Guillermo-Labrado,74c18daf,es ESP,GK,Zaragoza
+5181.0,Jaime Sancho González,/en/players/8b788040/Jaime-Sancho-Gonzalez,Jaime-Sancho-Gonzalez,8b788040,es ESP,FW,Zaragoza
+5182.0,Fran Gámez,/en/players/2e3406ae/Fran-Gamez,Fran-Gamez,2e3406ae,es ESP,DF,Zaragoza
+5183.0,Francho Serrano Gracia,/en/players/36a88831/Francho-Serrano-Gracia,Francho-Serrano-Graci,36a88831,es ESP,MF,Zaragoza
+5184.0,Álvaro Giménez,/en/players/18017beb/Alvaro-Gimenez,Alvaro-Gimenez,18017beb,es ESP,FW,Zaragoza
+5185.0,Lluis López,/en/players/a685f013/Lluis-Lopez,Lluis-Lopez,685f013,es ESP,DF,Zaragoza
+5186.0,Radosav Petrović,/en/players/7214c684/Radosav-Petrovic,Radosav-Petrovic,7214c684,rs SRB,MF,Zaragoza
+5187.0,Borja Sainz,/en/players/1b40049a/Borja-Sainz,Borja-Sainz,1b40049a,es ESP,"FW,MF",Zaragoza
+5188.0,Eugeni Valderrama,/en/players/a75b4071/Eugeni-Valderrama,Eugeni-Valderram,75b4071,es ESP,MF,Zaragoza
+5189.0,Valentín Vada,/en/players/dcf7cf44/Valentin-Vada,Valentin-Vad,dcf7cf44,ar ARG,MF,Zaragoza
+5190.0,Sabin Merino,/en/players/1d5f96d9/Sabin-Merino,Sabin-Merino,1d5f96d9,es ESP,"FW,MF",Zaragoza
+5191.0,Nano,/en/players/217011a0/Nano,Nano,217011a0,es ESP,"FW,MF",Zaragoza
+5192.0,Jaume Grau,/en/players/fc3d2006/Jaume-Grau,Jaume-Grau,fc3d2006,es ESP,MF,Zaragoza
+5193.0,Miguel Puche García,/en/players/3d1f1458/Miguel-Puche-Garcia,Miguel-Puche-Garci,3d1f1458,es ESP,FW,Zaragoza
+5194.0,César Yanis,/en/players/d6cc3b04/Cesar-Yanis,Cesar-Yani,d6cc3b04,pa PAN,MF,Zaragoza
+5195.0,Angel López Ramón,/en/players/86e3c315/Angel-Lopez-Ramon,Angel-Lopez-Ramo,86e3c315,es ESP,DF,Zaragoza
+5196.0,Raúl Rubio,/en/players/a8028cf9/Raul-Rubio,Raul-Rubio,8028cf9,es ESP,FW,Zaragoza
+5197.0,Isaiah Navarro,/en/players/c2069db9/Isaiah-Navarro,Isaiah-Navarro,c2069db9,es ESP,MF,Zaragoza
+5198.0,Miguel Sanz,/en/players/9a49e53c/Miguel-Sanz,Miguel-Sanz,9a49e53c,es ESP,GK,Zaragoza
+5199.0,Alberto Vaquero,/en/players/b4f73340/Alberto-Vaquero,Alberto-Vaquero,b4f73340,es ESP,MF,Zaragoza

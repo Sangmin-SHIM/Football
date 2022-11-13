@@ -1,603 +1,603 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Toni Prats,es ESP,GK,38,38,0.0,0.0,2002-2003,b40adcd0,Real-Betis,"3,420",38.0,3.0,0.0,44.0,1.0,1348.0,Real-Betis
-,Joaquín,es ESP,"FW,MF",37,36,11.0,9.0,2002-2003,4c5b14d2,Real-Betis,"3,139",34.9,2.0,1.0,44.0,1.0,,Real-Betis
-,Fernando Varela,es ESP,"DF,MF",34,31,1.0,1.0,2002-2003,d7b759af,Real-Betis,"2,834",31.5,17.0,1.0,44.0,1.0,1349.0,Real-Betis
-,Arzu,es ESP,"DF,MF",35,30,2.0,4.0,2002-2003,41e01ff,Real-Betis,"2,650",29.4,6.0,0.0,44.0,1.0,1350.0,Real-Betis
-,Luis Fernández,es ESP,DF,30,29,0.0,0.0,2002-2003,2e6263ab,Real-Betis,"2,507",27.9,12.0,1.0,44.0,1.0,1351.0,Real-Betis
-,Capi,es ESP,MF,33,28,3.0,5.0,2002-2003,523503fe,Real-Betis,"2,583",28.7,3.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Marcos Assunção,br BRA,MF,30,27,6.0,5.0,2002-2003,2c563885,Real-Betis,"2,386",26.5,9.0,0.0,44.0,2.0,1353.0,Real-Betis
-,Fernando,es ESP,"FW,MF",35,26,4.0,15.0,2002-2003,2a81fa5d,Real-Betis,"2,440",27.1,7.0,0.0,44.0,1.0,1354.0,Real-Betis
-,Juanito,es ESP,DF,26,26,0.0,2.0,2002-2003,3a6a5b63,Real-Betis,"2,313",25.7,5.0,0.0,44.0,1.0,1355.0,Real-Betis
-,Denílson,br BRA,MF,25,23,5.0,2.0,2002-2003,87582241,Real-Betis,"1,953",21.7,5.0,2.0,44.0,2.0,1356.0,Real-Betis
-,Ito,es ESP,MF,26,21,1.0,0.0,2002-2003,dc620005,Real-Betis,"1,911",21.2,9.0,0.0,44.0,1.0,1357.0,Real-Betis
-,Iulian Filipescu,ro ROU,DF,19,18,0.0,2.0,2002-2003,4ba41443,Real-Betis,"1,459",16.2,7.0,2.0,44.0,51.0,1358.0,Real-Betis
-,David Rivas,es ESP,DF,19,16,0.0,0.0,2002-2003,56da6c6e,Real-Betis,"1,502",16.7,2.0,0.0,44.0,1.0,1359.0,Real-Betis
-,Alfonso Pérez,es ESP,FW,15,11,2.0,6.0,2002-2003,22a2f25e,Real-Betis,"1,053",11.7,8.0,0.0,44.0,1.0,1360.0,Real-Betis
-,Mingo,es ESP,DF,12,8,1.0,0.0,2002-2003,6fc287d5,Real-Betis,673,7.5,2.0,0.0,44.0,1.0,1361.0,Real-Betis
-,Gastón Casas,ar ARG,FW,19,7,2.0,1.0,2002-2003,66258864,Real-Betis,664,7.4,3.0,1.0,44.0,5.0,1362.0,Real-Betis
-,Melli,es ESP,DF,8,7,0.0,0.0,2002-2003,83215889,Real-Betis,648,7.2,4.0,0.0,44.0,1.0,1363.0,Real-Betis
-,Daniel Martín,es ESP,FW,10,7,,4.0,2002-2003,c8d2987f,Real-Betis,546,6.1,1.0,0.0,44.0,1.0,1364.0,Real-Betis
-,Washington Tais,uy URU,DF,8,7,0.0,0.0,2002-2003,6b310a03,Real-Betis,543,6.0,3.0,0.0,44.0,8.0,1365.0,Real-Betis
-,Benjamín Zarandona,gq EQG,MF,16,7,0.0,0.0,2002-2003,4922ac7a,Real-Betis,512,5.7,2.0,0.0,44.0,10.0,1366.0,Real-Betis
-,João Tomás,pt POR,FW,11,5,0.0,0.0,2002-2003,74b3eb9d,Real-Betis,548,6.1,1.0,0.0,44.0,3.0,1367.0,Real-Betis
-,Juan José Cañas,es ESP,MF,11,4,0.0,0.0,2002-2003,72a2e37e,Real-Betis,438,4.9,1.0,0.0,44.0,1.0,1368.0,Real-Betis
-,David Belenguer,es ESP,DF,3,3,0.0,0.0,2002-2003,68c448f7,Real-Betis,270,3.0,0.0,0.0,44.0,1.0,1369.0,Real-Betis
-,César de Loma,es ESP,MF,6,1,,0.0,2002-2003,bd95bcc9,Real-Betis,155,1.7,1.0,0.0,44.0,1.0,1370.0,Real-Betis
-,José Calado,pt POR,MF,8,1,0.0,0.0,2002-2003,51bb57da,Real-Betis,144,1.6,2.0,0.0,44.0,3.0,1371.0,Real-Betis
-,Tati Maldonado,es ESP,FW,3,1,0.0,0.0,2002-2003,57dc3c00,Real-Betis,113,1.3,0.0,0.0,44.0,1.0,1372.0,Real-Betis
-,Francisco Javier Flores Sánchez,es ESP,,1,0,0.0,0.0,2002-2003,090ac9c8,Real-Betis,15,0.2,0.0,0.0,44.0,1.0,,Real-Betis
-,Joey Guðjónsson,is ISL,MF,1,0,0.0,0.0,2002-2003,b79e0fde,Real-Betis,3,0.0,0.0,0.0,44.0,40.0,1373.0,Real-Betis
-,﻿Joaquín,es ESP,"FW,MF",36,36,7.0,8.0,2003-2004,4c5b14d2,Real-Betis,"3,178",35.3,5.0,1.0,44.0,1.0,,Real-Betis
-,Juanito,es ESP,DF,35,35,0.0,4.0,2003-2004,3a6a5b63,Real-Betis,"3,083",34.3,3.0,0.0,44.0,1.0,1355.0,Real-Betis
-,Alejandro Lembo,uy URU,DF,29,28,2.0,1.0,2003-2004,2d08dd6,Real-Betis,"2,474",27.5,14.0,1.0,44.0,8.0,1374.0,Real-Betis
-,Fernando Varela,es ESP,"DF,MF",28,25,0.0,1.0,2003-2004,d7b759af,Real-Betis,"2,273",25.3,9.0,0.0,44.0,1.0,1349.0,Real-Betis
-,Denílson,br BRA,MF,29,24,4.0,2.0,2003-2004,87582241,Real-Betis,"1,890",21.0,3.0,0.0,44.0,2.0,1356.0,Real-Betis
-,Pedro Contreras,es ESP,GK,22,22,0.0,0.0,2003-2004,7d21afdb,Real-Betis,"1,971",21.9,2.0,0.0,44.0,1.0,1375.0,Real-Betis
-,Ito,es ESP,MF,30,22,1.0,0.0,2003-2004,dc620005,Real-Betis,"1,909",21.2,6.0,1.0,44.0,1.0,1357.0,Real-Betis
-,Fernando,es ESP,"FW,MF",31,22,3.0,4.0,2003-2004,2a81fa5d,Real-Betis,"1,810",20.1,2.0,0.0,44.0,1.0,1354.0,Real-Betis
-,Arzu,es ESP,"DF,MF",30,20,4.0,0.0,2003-2004,41e01ff,Real-Betis,"1,952",21.7,9.0,0.0,44.0,1.0,1350.0,Real-Betis
-,Luis Fernández,es ESP,DF,20,19,0.0,0.0,2003-2004,2e6263ab,Real-Betis,"1,756",19.5,8.0,1.0,44.0,1.0,1351.0,Real-Betis
-,David Rivas,es ESP,DF,25,18,0.0,0.0,2003-2004,56da6c6e,Real-Betis,"1,747",19.4,6.0,0.0,44.0,1.0,1359.0,Real-Betis
-,Benjamín Zarandona,gq EQG,MF,22,18,0.0,3.0,2003-2004,4922ac7a,Real-Betis,"1,655",18.4,2.0,1.0,44.0,10.0,1366.0,Real-Betis
-,Marcos Assunção,br BRA,MF,19,18,2.0,7.0,2003-2004,2c563885,Real-Betis,"1,533",17.0,2.0,0.0,44.0,2.0,1353.0,Real-Betis
-,Toni Prats,es ESP,GK,16,16,0.0,0.0,2003-2004,b40adcd0,Real-Betis,"1,440",16.0,1.0,0.0,44.0,1.0,1348.0,Real-Betis
-,Ismael Santiago,es ESP,MF,32,14,1.0,1.0,2003-2004,59c55e77,Real-Betis,"1,520",16.9,1.0,0.0,44.0,1.0,1376.0,Real-Betis
-,Alfonso Pérez,es ESP,FW,20,14,2.0,4.0,2003-2004,22a2f25e,Real-Betis,"1,308",14.5,1.0,0.0,44.0,1.0,1360.0,Real-Betis
-,Daniel Martín,es ESP,FW,19,13,2.0,4.0,2003-2004,c8d2987f,Real-Betis,"1,120",12.4,2.0,0.0,44.0,1.0,1364.0,Real-Betis
-,Capi,es ESP,MF,24,12,0.0,2.0,2003-2004,523503fe,Real-Betis,"1,290",14.3,6.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Mingo,es ESP,DF,12,12,0.0,1.0,2003-2004,6fc287d5,Real-Betis,"1,009",11.2,2.0,0.0,44.0,1.0,1361.0,Real-Betis
-,Tote,es ESP,"FW,MF",17,9,2.0,2.0,2003-2004,3e74421,Real-Betis,823,9.1,1.0,0.0,44.0,1.0,22.0,Real-Betis
-,Washington Tais,uy URU,DF,8,8,0.0,0.0,2003-2004,6b310a03,Real-Betis,691,7.7,3.0,1.0,44.0,8.0,1365.0,Real-Betis
-,Martín Palermo,ar ARG,FW,11,7,0.0,2.0,2003-2004,02aa1dbe,Real-Betis,618,6.9,1.0,0.0,44.0,5.0,1377.0,Real-Betis
-,Melli,es ESP,DF,4,4,0.0,0.0,2003-2004,83215889,Real-Betis,287,3.2,2.0,0.0,44.0,1.0,1363.0,Real-Betis
-,Juan José Cañas,es ESP,MF,7,1,0.0,0.0,2003-2004,72a2e37e,Real-Betis,144,1.6,0.0,0.0,44.0,1.0,1368.0,Real-Betis
-,Tati Maldonado,es ESP,FW,1,0,,0.0,2003-2004,57dc3c00,Real-Betis,21,0.2,0.0,0.0,44.0,1.0,1372.0,Real-Betis
-,Antonio Román,es ESP,MF,1,0,0.0,0.0,2003-2004,c518d89e,Real-Betis,16,0.2,0.0,0.0,44.0,1.0,1378.0,Real-Betis
-,David Relaño Luque,es ESP,GK,1,0,0.0,0.0,2003-2004,0fa393b5,Real-Betis,9,0.1,0.0,0.0,44.0,1.0,1379.0,Real-Betis
-,﻿Ricardo Oliveira,br BRA,FW,37,37,5.0,22.0,2004-2005,420c1246,Real-Betis,"3,283",36.5,5.0,1.0,44.0,2.0,,Real-Betis
-,Joaquín,es ESP,"FW,MF",38,37,15.0,5.0,2004-2005,4c5b14d2,Real-Betis,"3,257",36.2,2.0,0.0,44.0,1.0,,Real-Betis
-,Juanito,es ESP,DF,33,33,1.0,4.0,2004-2005,3a6a5b63,Real-Betis,"2,949",32.8,10.0,1.0,44.0,1.0,1355.0,Real-Betis
-,David Rivas,es ESP,DF,32,32,2.0,4.0,2004-2005,56da6c6e,Real-Betis,"2,836",31.5,6.0,1.0,44.0,1.0,1359.0,Real-Betis
-,Edu,br BRA,"FW,MF",32,32,4.0,11.0,2004-2005,71a2b3ed,Real-Betis,"2,652",29.5,4.0,0.0,44.0,2.0,,Real-Betis
-,Fernando,es ESP,"FW,MF",34,31,4.0,5.0,2004-2005,2a81fa5d,Real-Betis,"2,426",27.0,3.0,0.0,44.0,1.0,1354.0,Real-Betis
-,Marcos Assunção,br BRA,MF,34,29,4.0,8.0,2004-2005,2c563885,Real-Betis,"2,679",29.8,7.0,1.0,44.0,2.0,1353.0,Real-Betis
-,Toni Doblas,es ESP,GK,29,29,0.0,0.0,2004-2005,d5c35223,Real-Betis,"2,610",29.0,3.0,0.0,44.0,1.0,1380.0,Real-Betis
-,Melli,es ESP,DF,29,28,1.0,1.0,2004-2005,83215889,Real-Betis,"2,518",28.0,8.0,0.0,44.0,1.0,1363.0,Real-Betis
-,Arzu,es ESP,"DF,MF",30,23,1.0,0.0,2004-2005,41e01ff,Real-Betis,"2,022",22.5,6.0,0.0,44.0,1.0,1350.0,Real-Betis
-,Luis Fernández,es ESP,DF,22,20,0.0,0.0,2004-2005,2e6263ab,Real-Betis,"1,714",19.0,7.0,1.0,44.0,1.0,1351.0,Real-Betis
-,Juan José Cañas,es ESP,MF,24,18,0.0,0.0,2004-2005,72a2e37e,Real-Betis,"1,515",16.8,8.0,0.0,44.0,1.0,1368.0,Real-Betis
-,Fernando Varela,es ESP,"DF,MF",24,16,3.0,0.0,2004-2005,d7b759af,Real-Betis,"1,627",18.1,7.0,0.0,44.0,1.0,1349.0,Real-Betis
-,Washington Tais,uy URU,DF,11,11,0.0,0.0,2004-2005,6b310a03,Real-Betis,958,10.6,2.0,0.0,44.0,8.0,1365.0,Real-Betis
-,Benjamín Zarandona,gq EQG,MF,26,9,0.0,0.0,2004-2005,4922ac7a,Real-Betis,968,10.8,2.0,0.0,44.0,10.0,1366.0,Real-Betis
-,Toni Prats,es ESP,GK,9,9,0.0,0.0,2004-2005,b40adcd0,Real-Betis,810,9.0,1.0,0.0,44.0,1.0,1348.0,Real-Betis
-,Alejandro Lembo,uy URU,DF,13,7,1.0,0.0,2004-2005,2d08dd6,Real-Betis,759,8.4,5.0,2.0,44.0,8.0,1374.0,Real-Betis
-,Paolo Castellini,it ITA,DF,6,6,0.0,0.0,2004-2005,be445f85,Real-Betis,540,6.0,2.0,0.0,44.0,9.0,1381.0,Real-Betis
-,Capi,es ESP,MF,11,3,1.0,0.0,2004-2005,523503fe,Real-Betis,345,3.8,2.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Denílson,br BRA,MF,10,3,0.0,0.0,2004-2005,87582241,Real-Betis,289,3.2,0.0,0.0,44.0,2.0,1356.0,Real-Betis
-,Pablo Niño,es ESP,MF,6,3,0.0,0.0,2004-2005,b477bff,Real-Betis,266,3.0,2.0,0.0,44.0,1.0,1382.0,Real-Betis
-,Israel,es ESP,MF,8,1,0.0,0.0,2004-2005,bf6d20c9,Real-Betis,215,2.4,1.0,0.0,44.0,1.0,1383.0,Real-Betis
-,Ismael Santiago,es ESP,MF,4,1,,0.0,2004-2005,59c55e77,Real-Betis,118,1.3,1.0,0.0,44.0,1.0,1376.0,Real-Betis
-,Alfonso Pérez,es ESP,FW,10,0,0.0,0.0,2004-2005,22a2f25e,Real-Betis,186,2.1,1.0,0.0,44.0,1.0,1360.0,Real-Betis
-,Daniel Martín,es ESP,FW,7,0,0.0,1.0,2004-2005,c8d2987f,Real-Betis,86,1.0,0.0,0.0,44.0,1.0,1364.0,Real-Betis
-,﻿Joaquín,es ESP,"FW,MF",35,35,6.0,3.0,2005-2006,4c5b14d2,Real-Betis,"3,047",33.9,6.0,1.0,44.0,1.0,,Real-Betis
-,Juanito,es ESP,DF,34,34,0.0,2.0,2005-2006,3a6a5b63,Real-Betis,"3,060",34.0,6.0,0.0,44.0,1.0,1355.0,Real-Betis
-,Edu,br BRA,"FW,MF",34,34,6.0,3.0,2005-2006,71a2b3ed,Real-Betis,"2,971",33.0,5.0,0.0,44.0,2.0,,Real-Betis
-,Melli,es ESP,DF,31,30,1.0,0.0,2005-2006,83215889,Real-Betis,"2,577",28.6,10.0,1.0,44.0,1.0,1363.0,Real-Betis
-,Alberto Rivera,es ESP,MF,34,28,0.0,0.0,2005-2006,7002b605,Real-Betis,"2,648",29.4,7.0,1.0,44.0,1.0,1384.0,Real-Betis
-,Fernando Varela,es ESP,"DF,MF",29,26,0.0,1.0,2005-2006,d7b759af,Real-Betis,"2,318",25.8,3.0,1.0,44.0,1.0,1349.0,Real-Betis
-,Toni Doblas,es ESP,GK,24,23,0.0,0.0,2005-2006,d5c35223,Real-Betis,"2,009",22.3,3.0,0.0,44.0,1.0,1380.0,Real-Betis
-,Marcos Assunção,br BRA,MF,25,21,4.0,1.0,2005-2006,2c563885,Real-Betis,"1,830",20.3,3.0,0.0,44.0,2.0,1353.0,Real-Betis
-,David Rivas,es ESP,DF,21,19,0.0,1.0,2005-2006,56da6c6e,Real-Betis,"1,618",18.0,6.0,0.0,44.0,1.0,1359.0,Real-Betis
-,Arzu,es ESP,"DF,MF",29,19,0.0,1.0,2005-2006,41e01ff,Real-Betis,"1,616",18.0,3.0,0.0,44.0,1.0,1350.0,Real-Betis
-,Luis Fernández,es ESP,DF,19,19,0.0,1.0,2005-2006,2e6263ab,Real-Betis,"1,524",16.9,6.0,0.0,44.0,1.0,1351.0,Real-Betis
-,Óscar López,es ESP,DF,18,18,0.0,0.0,2005-2006,14ae8df8,Real-Betis,"1,610",17.9,7.0,1.0,44.0,1.0,,Real-Betis
-,Xisco,es ESP,"FW,MF",25,16,2.0,1.0,2005-2006,faaae13,Real-Betis,"1,357",15.1,5.0,0.0,44.0,1.0,,Real-Betis
-,Pedro Contreras,es ESP,GK,17,15,0.0,0.0,2005-2006,7d21afdb,Real-Betis,"1,411",15.7,0.0,1.0,44.0,1.0,1375.0,Real-Betis
-,Capi,es ESP,MF,21,14,1.0,1.0,2005-2006,523503fe,Real-Betis,"1,216",13.5,4.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Robert,br BRA,FW,19,13,1.0,7.0,2005-2006,05ac7500,Real-Betis,"1,225",13.6,5.0,0.0,44.0,2.0,1385.0,Real-Betis
-,Daniel Martín,es ESP,FW,25,12,1.0,5.0,2005-2006,c8d2987f,Real-Betis,"1,135",12.6,3.0,0.0,44.0,1.0,1364.0,Real-Betis
-,Nano,es ESP,DF,13,10,1.0,0.0,2005-2006,3d6dd9f9,Real-Betis,932,10.4,6.0,0.0,44.0,1.0,1386.0,Real-Betis
-,Ricardo Oliveira,br BRA,FW,9,9,0.0,4.0,2005-2006,420c1246,Real-Betis,718,8.0,4.0,1.0,44.0,2.0,,Real-Betis
-,Paolo Castellini,it ITA,DF,7,6,0.0,0.0,2005-2006,be445f85,Real-Betis,556,6.2,2.0,0.0,44.0,9.0,1381.0,Real-Betis
-,Miguel Ángel,es ESP,MF,10,6,0.0,0.0,2005-2006,7542ce83,Real-Betis,526,5.8,5.0,0.0,44.0,1.0,1387.0,Real-Betis
-,Diego Tardelli,br BRA,"FW,MF",12,5,2.0,0.0,2005-2006,98682f30,Real-Betis,551,6.1,1.0,0.0,44.0,2.0,1388.0,Real-Betis
-,Fernando,es ESP,"FW,MF",13,3,1.0,1.0,2005-2006,2a81fa5d,Real-Betis,468,5.2,0.0,0.0,44.0,1.0,1354.0,Real-Betis
-,Israel,es ESP,MF,8,1,0.0,0.0,2005-2006,bf6d20c9,Real-Betis,231,2.6,1.0,0.0,44.0,1.0,1383.0,Real-Betis
-,Alejandro Lembo,uy URU,DF,2,1,,0.0,2005-2006,2d08dd6,Real-Betis,92,1.0,0.0,0.0,44.0,8.0,1374.0,Real-Betis
-,Juan José Cañas,es ESP,MF,3,1,0.0,0.0,2005-2006,72a2e37e,Real-Betis,60,0.7,0.0,0.0,44.0,1.0,1368.0,Real-Betis
-,Juanlu,es ESP,MF,3,0,0.0,0.0,2005-2006,94b88487,Real-Betis,97,1.1,0.0,0.0,44.0,1.0,1389.0,Real-Betis
-,﻿Juanito,es ESP,DF,34,34,0.0,3.0,2006-2007,3a6a5b63,Real-Betis,"3,051",33.9,5.0,0.0,44.0,1.0,1355.0,Real-Betis
-,Melli,es ESP,DF,27,26,0.0,0.0,2006-2007,83215889,Real-Betis,"2,325",25.8,9.0,0.0,44.0,1.0,1363.0,Real-Betis
-,Edu,br BRA,"FW,MF",29,25,2.0,8.0,2006-2007,71a2b3ed,Real-Betis,"2,212",24.6,4.0,2.0,44.0,2.0,,Real-Betis
-,Rafael Sóbis,br BRA,"FW,MF",31,24,0.0,4.0,2006-2007,d1e36b,Real-Betis,"2,162",24.0,2.0,1.0,44.0,2.0,1390.0,Real-Betis
-,Toni Doblas,es ESP,GK,22,22,0.0,0.0,2006-2007,d5c35223,Real-Betis,"1,980",22.0,4.0,0.0,44.0,1.0,1380.0,Real-Betis
-,Alberto Rivera,es ESP,MF,27,22,1.0,1.0,2006-2007,7002b605,Real-Betis,"1,888",21.0,4.0,0.0,44.0,1.0,1384.0,Real-Betis
-,Marcos Assunção,br BRA,MF,27,21,5.0,2.0,2006-2007,2c563885,Real-Betis,"1,978",22.0,8.0,0.0,44.0,2.0,1353.0,Real-Betis
-,Robert,br BRA,FW,29,20,3.0,9.0,2006-2007,05ac7500,Real-Betis,"1,817",20.2,3.0,0.0,44.0,2.0,1385.0,Real-Betis
-,Nano,es ESP,DF,21,20,2.0,0.0,2006-2007,3d6dd9f9,Real-Betis,"1,750",19.4,5.0,2.0,44.0,1.0,1386.0,Real-Betis
-,Capi,es ESP,MF,29,19,2.0,2.0,2006-2007,523503fe,Real-Betis,"1,702",18.9,7.0,1.0,44.0,1.0,1352.0,Real-Betis
-,Enrique Romero,es ESP,DF,17,17,1.0,0.0,2006-2007,7714c21a,Real-Betis,"1,476",16.4,3.0,0.0,44.0,1.0,,Real-Betis
-,Miguel Ángel,es ESP,MF,23,16,2.0,0.0,2006-2007,7542ce83,Real-Betis,"1,489",16.5,8.0,1.0,44.0,1.0,1387.0,Real-Betis
-,Pedro Contreras,es ESP,GK,16,16,0.0,0.0,2006-2007,7d21afdb,Real-Betis,"1,440",16.0,2.0,1.0,44.0,1.0,1375.0,Real-Betis
-,Arzu,es ESP,"DF,MF",16,15,1.0,1.0,2006-2007,41e01ff,Real-Betis,"1,134",12.6,2.0,0.0,44.0,1.0,1350.0,Real-Betis
-,Johann Vogel,ch SUI,MF,17,14,0.0,0.0,2006-2007,6b002e31,Real-Betis,"1,248",13.9,4.0,1.0,44.0,39.0,1391.0,Real-Betis
-,Fernando Vega,es ESP,DF,17,13,0.0,0.0,2006-2007,4a5e41f8,Real-Betis,"1,289",14.3,4.0,0.0,44.0,1.0,1392.0,Real-Betis
-,Branko Ilić,si SVN,DF,13,13,2.0,0.0,2006-2007,5e607b28,Real-Betis,"1,120",12.4,2.0,0.0,44.0,32.0,1393.0,Real-Betis
-,Fernando,es ESP,"FW,MF",25,12,0.0,2.0,2006-2007,2a81fa5d,Real-Betis,"1,316",14.6,2.0,0.0,44.0,1.0,1354.0,Real-Betis
-,David Rivas,es ESP,DF,11,11,0.0,0.0,2006-2007,56da6c6e,Real-Betis,937,10.4,1.0,0.0,44.0,1.0,1359.0,Real-Betis
-,Xisco,es ESP,"FW,MF",17,9,1.0,3.0,2006-2007,faaae13,Real-Betis,848,9.4,2.0,0.0,44.0,1.0,,Real-Betis
-,David Odonkor,de GER,"FW,MF",13,8,1.0,0.0,2006-2007,60b041db,Real-Betis,674,7.5,3.0,0.0,44.0,13.0,1394.0,Real-Betis
-,Tati Maldonado,es ESP,FW,15,8,1.0,0.0,2006-2007,57dc3c00,Real-Betis,636,7.1,2.0,0.0,44.0,1.0,1372.0,Real-Betis
-,José Isidoro,es ESP,DF,8,7,0.0,0.0,2006-2007,bb00a819,Real-Betis,635,7.1,4.0,0.0,44.0,1.0,1395.0,Real-Betis
-,Juande,es ESP,MF,7,6,0.0,0.0,2006-2007,4e8f9951,Real-Betis,540,6.0,3.0,0.0,44.0,1.0,1396.0,Real-Betis
-,Jorge Wagner,br BRA,MF,10,6,0.0,0.0,2006-2007,8b30ffd7,Real-Betis,406,4.5,1.0,0.0,44.0,2.0,1397.0,Real-Betis
-,Fabrice Pancrate,fr FRA,"FW,MF",7,5,0.0,1.0,2006-2007,70d29079,Real-Betis,401,4.5,0.0,0.0,44.0,4.0,1398.0,Real-Betis
-,Daniel Martín,es ESP,FW,14,3,0.0,0.0,2006-2007,c8d2987f,Real-Betis,483,5.4,2.0,0.0,44.0,1.0,1364.0,Real-Betis
-,Juan Pablo Caffa,ar ARG,MF,7,3,0.0,0.0,2006-2007,9a241b77,Real-Betis,300,3.3,0.0,0.0,44.0,5.0,1399.0,Real-Betis
-,Alejandro Lembo,uy URU,DF,2,2,0.0,0.0,2006-2007,2d08dd6,Real-Betis,124,1.4,0.0,1.0,44.0,8.0,1374.0,Real-Betis
-,﻿Juanito,es ESP,DF,33,33,0.0,1.0,2007-2008,3a6a5b63,Real-Betis,"2,930",32.6,9.0,2.0,44.0,1.0,1355.0,Real-Betis
-,Fernando Vega,es ESP,DF,31,29,0.0,0.0,2007-2008,4a5e41f8,Real-Betis,"2,622",29.1,6.0,0.0,44.0,1.0,1392.0,Real-Betis
-,Edu,br BRA,"FW,MF",30,29,3.0,12.0,2007-2008,71a2b3ed,Real-Betis,"2,488",27.6,3.0,0.0,44.0,2.0,,Real-Betis
-,Ricardo,pt POR,GK,28,28,0.0,0.0,2007-2008,14086c90,Real-Betis,"2,520",28.0,1.0,0.0,44.0,3.0,1400.0,Real-Betis
-,Capi,es ESP,MF,27,26,0.0,2.0,2007-2008,523503fe,Real-Betis,"2,067",23.0,5.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Damià Abella,es ESP,"DF,MF",26,24,0.0,0.0,2007-2008,35b4a15,Real-Betis,"2,230",24.8,6.0,0.0,44.0,1.0,,Real-Betis
-,Arzu,es ESP,"DF,MF",26,24,1.0,1.0,2007-2008,41e01ff,Real-Betis,"2,131",23.7,7.0,1.0,44.0,1.0,1350.0,Real-Betis
-,Mariano Pavone,ar ARG,FW,30,23,3.0,8.0,2007-2008,7eb1f7c2,Real-Betis,"2,114",23.5,7.0,0.0,44.0,5.0,1401.0,Real-Betis
-,Melli,es ESP,DF,26,22,0.0,0.0,2007-2008,83215889,Real-Betis,"2,081",23.1,11.0,1.0,44.0,1.0,1363.0,Real-Betis
-,Alberto Rivera,es ESP,MF,26,22,1.0,1.0,2007-2008,7002b605,Real-Betis,"1,874",20.8,2.0,0.0,44.0,1.0,1384.0,Real-Betis
-,Mark González,cl CHI,"FW,MF",24,18,2.0,6.0,2007-2008,d8c62450,Real-Betis,"1,470",16.3,3.0,0.0,44.0,31.0,,Real-Betis
-,Juande,es ESP,MF,22,17,0.0,1.0,2007-2008,4e8f9951,Real-Betis,"1,545",17.2,7.0,0.0,44.0,1.0,1396.0,Real-Betis
-,Rafael Sóbis,br BRA,"FW,MF",26,17,1.0,4.0,2007-2008,d1e36b,Real-Betis,"1,544",17.2,2.0,0.0,44.0,2.0,1390.0,Real-Betis
-,Branko Ilić,si SVN,DF,18,17,1.0,0.0,2007-2008,5e607b28,Real-Betis,"1,514",16.8,5.0,0.0,44.0,32.0,1393.0,Real-Betis
-,Xisco,es ESP,"FW,MF",22,13,4.0,3.0,2007-2008,faaae13,Real-Betis,"1,052",11.7,6.0,0.0,44.0,1.0,,Real-Betis
-,Juan Pablo Caffa,ar ARG,MF,20,11,5.0,0.0,2007-2008,9a241b77,Real-Betis,970,10.8,3.0,0.0,44.0,5.0,1399.0,Real-Betis
-,Leandro Somoza,ar ARG,MF,15,10,1.0,0.0,2007-2008,63bd55fe,Real-Betis,965,10.7,4.0,0.0,44.0,5.0,1402.0,Real-Betis
-,David Odonkor,de GER,"FW,MF",20,9,0.0,1.0,2007-2008,60b041db,Real-Betis,978,10.9,1.0,0.0,44.0,13.0,1394.0,Real-Betis
-,Casto,es ESP,GK,9,9,0.0,0.0,2007-2008,95b4ffb3,Real-Betis,810,9.0,0.0,0.0,44.0,1.0,1403.0,Real-Betis
-,David Rivas,es ESP,DF,11,9,0.0,0.0,2007-2008,56da6c6e,Real-Betis,757,8.4,1.0,0.0,44.0,1.0,1359.0,Real-Betis
-,José Mari,es ESP,FW,13,6,0.0,0.0,2007-2008,b56835b1,Real-Betis,593,6.6,4.0,0.0,44.0,1.0,1404.0,Real-Betis
-,Lima,br BRA,DF,9,6,0.0,0.0,2007-2008,6501cb4a,Real-Betis,509,5.7,1.0,0.0,44.0,2.0,1405.0,Real-Betis
-,Marko Babić,hr CRO,"DF,MF",10,5,0.0,0.0,2007-2008,1b4b049b,Real-Betis,474,5.3,3.0,0.0,44.0,16.0,1406.0,Real-Betis
-,Nano,es ESP,DF,6,5,0.0,2.0,2007-2008,3d6dd9f9,Real-Betis,401,4.5,2.0,0.0,44.0,1.0,1386.0,Real-Betis
-,Fernando,es ESP,"FW,MF",10,3,1.0,1.0,2007-2008,2a81fa5d,Real-Betis,369,4.1,0.0,0.0,44.0,1.0,1354.0,Real-Betis
-,Toni Doblas,es ESP,GK,1,1,0.0,0.0,2007-2008,d5c35223,Real-Betis,90,1.0,0.0,0.0,44.0,1.0,1380.0,Real-Betis
-,Álex Ortiz,es ESP,DF,1,1,0.0,0.0,2007-2008,c07dc79e,Real-Betis,90,1.0,0.0,0.0,44.0,1.0,1407.0,Real-Betis
-,Alejandro Zamora,es ESP,"DF,MF",1,1,0.0,0.0,2007-2008,b3848769,Real-Betis,90,1.0,0.0,0.0,44.0,1.0,1408.0,Real-Betis
-,Toni,es ESP,DF,1,0,0.0,0.0,2007-2008,248cc93a,Real-Betis,63,0.7,0.0,0.0,44.0,1.0,1409.0,Real-Betis
-,﻿Juanito,es ESP,DF,35,35,1.0,1.0,2008-2009,3a6a5b63,Real-Betis,"3,029",33.7,9.0,0.0,44.0,1.0,1355.0,Real-Betis
-,Arzu,es ESP,"DF,MF",34,34,0.0,2.0,2008-2009,41e01ff,Real-Betis,"2,950",32.8,11.0,1.0,44.0,1.0,1350.0,Real-Betis
-,Nélson Marcos,pt POR,DF,35,32,0.0,0.0,2008-2009,d0d41afb,Real-Betis,"2,815",31.3,8.0,1.0,44.0,3.0,1410.0,Real-Betis
-,Achille Emaná,cm CMR,MF,35,32,7.0,11.0,2008-2009,2d23ed,Real-Betis,"2,666",29.6,8.0,1.0,44.0,36.0,1411.0,Real-Betis
-,Fernando Vega,es ESP,DF,31,31,1.0,0.0,2008-2009,4a5e41f8,Real-Betis,"2,758",30.6,5.0,0.0,44.0,1.0,1392.0,Real-Betis
-,Mehmet Aurélio,tr TUR,MF,29,29,2.0,4.0,2008-2009,c1c7e8f,Real-Betis,"2,530",28.1,6.0,0.0,44.0,15.0,1412.0,Real-Betis
-,Sergio García,es ESP,"FW,MF",28,28,5.0,9.0,2008-2009,2bee98fd,Real-Betis,"2,369",26.3,5.0,3.0,44.0,1.0,,Real-Betis
-,Capi,es ESP,MF,26,24,2.0,1.0,2008-2009,523503fe,Real-Betis,"1,831",20.3,4.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Ricardo,pt POR,GK,20,20,0.0,0.0,2008-2009,14086c90,Real-Betis,"1,799",20.0,1.0,1.0,44.0,3.0,1400.0,Real-Betis
-,Damià Abella,es ESP,"DF,MF",25,20,0.0,2.0,2008-2009,35b4a15,Real-Betis,"1,788",19.9,7.0,0.0,44.0,1.0,,Real-Betis
-,Mark González,cl CHI,"FW,MF",20,19,3.0,4.0,2008-2009,d8c62450,Real-Betis,"1,483",16.5,6.0,0.0,44.0,31.0,,Real-Betis
-,Melli,es ESP,DF,26,18,0.0,1.0,2008-2009,83215889,Real-Betis,"1,712",19.0,7.0,1.0,44.0,1.0,1363.0,Real-Betis
-,Casto,es ESP,GK,18,18,0.0,0.0,2008-2009,95b4ffb3,Real-Betis,"1,620",18.0,0.0,0.0,44.0,1.0,1403.0,Real-Betis
-,Ricardo Oliveira,br BRA,FW,16,15,1.0,6.0,2008-2009,420c1246,Real-Betis,"1,353",15.0,6.0,0.0,44.0,2.0,,Real-Betis
-,Juanma,es ESP,MF,27,14,2.0,2.0,2008-2009,f4f22926,Real-Betis,"1,244",13.8,3.0,0.0,44.0,1.0,1413.0,Real-Betis
-,Edu,br BRA,"FW,MF",11,8,2.0,2.0,2008-2009,71a2b3ed,Real-Betis,853,9.5,1.0,0.0,44.0,2.0,,Real-Betis
-,Mariano Pavone,ar ARG,FW,18,8,0.0,2.0,2008-2009,7eb1f7c2,Real-Betis,823,9.1,2.0,0.0,44.0,5.0,1401.0,Real-Betis
-,Fabián Monzón,ar ARG,DF,13,7,0.0,2.0,2008-2009,f115d48,Real-Betis,801,8.9,1.0,0.0,44.0,5.0,1414.0,Real-Betis
-,Alberto Rivera,es ESP,MF,20,6,0.0,0.0,2008-2009,7002b605,Real-Betis,854,9.5,2.0,0.0,44.0,1.0,1384.0,Real-Betis
-,David Rivas,es ESP,DF,9,5,0.0,0.0,2008-2009,56da6c6e,Real-Betis,523,5.8,2.0,0.0,44.0,1.0,1359.0,Real-Betis
-,Juande,es ESP,MF,9,5,0.0,0.0,2008-2009,4e8f9951,Real-Betis,326,3.6,2.0,1.0,44.0,1.0,1396.0,Real-Betis
-,José Mari,es ESP,FW,8,3,0.0,1.0,2008-2009,b56835b1,Real-Betis,374,4.2,1.0,0.0,44.0,1.0,1404.0,Real-Betis
-,Xisco,es ESP,"FW,MF",9,2,0.0,1.0,2008-2009,faaae13,Real-Betis,317,3.5,2.0,0.0,44.0,1.0,,Real-Betis
-,José Cañas,es ESP,MF,2,2,0.0,0.0,2008-2009,b77f2d9,Real-Betis,143,1.6,0.0,0.0,44.0,1.0,1415.0,Real-Betis
-,David Odonkor,de GER,"FW,MF",7,1,0.0,0.0,2008-2009,60b041db,Real-Betis,122,1.4,1.0,0.0,44.0,13.0,1394.0,Real-Betis
-,Branko Ilić,si SVN,DF,3,1,0.0,0.0,2008-2009,5e607b28,Real-Betis,109,1.2,0.0,0.0,44.0,32.0,1393.0,Real-Betis
-,Marko Babić,hr CRO,"DF,MF",2,1,0.0,0.0,2008-2009,1b4b049b,Real-Betis,106,1.2,0.0,0.0,44.0,16.0,1406.0,Real-Betis
-,Diego Segura,es ESP,FW,3,0,0.0,0.0,2008-2009,38e4a9f,Real-Betis,93,1.0,0.0,0.0,44.0,1.0,1416.0,Real-Betis
-,Lima,br BRA,DF,1,0,0.0,0.0,2008-2009,6501cb4a,Real-Betis,36,0.4,0.0,0.0,44.0,2.0,1405.0,Real-Betis
-,﻿Iñaki Goitia,es ESP,GK,42,42,0.0,0.0,2009-2010,2f10b901,Real-Betis,"3,780",42.0,4.0,0.0,44.0,1.0,1417.0,Real-Betis
-,Arzu,es ESP,"DF,MF",38,37,0.0,0.0,2009-2010,41e01ff,Real-Betis,"3,255",36.2,7.0,2.0,44.0,1.0,1350.0,Real-Betis
-,Sergio García,es ESP,"FW,MF",34,34,5.0,12.0,2009-2010,2bee98fd,Real-Betis,"2,795",31.1,3.0,0.0,44.0,1.0,,Real-Betis
-,Carlos García,es ESP,DF,33,33,0.0,1.0,2009-2010,2f21a57c,Real-Betis,"2,806",31.2,11.0,2.0,44.0,1.0,1418.0,Real-Betis
-,Nacho,es ESP,"DF,MF",33,32,0.0,0.0,2009-2010,07537011,Real-Betis,"2,815",31.3,3.0,0.0,44.0,1.0,,Real-Betis
-,Fernando Vega,es ESP,DF,30,27,0.0,2.0,2009-2010,4a5e41f8,Real-Betis,"2,376",26.4,6.0,0.0,44.0,1.0,1392.0,Real-Betis
-,Iriney,br BRA,MF,33,25,0.0,0.0,2009-2010,09296fcc,Real-Betis,"2,378",26.4,8.0,0.0,44.0,2.0,,Real-Betis
-,Melli,es ESP,DF,26,24,1.0,2.0,2009-2010,83215889,Real-Betis,"2,151",23.9,9.0,0.0,44.0,1.0,1363.0,Real-Betis
-,Achille Emaná,cm CMR,MF,28,24,5.0,10.0,2009-2010,2d23ed,Real-Betis,"2,082",23.1,6.0,0.0,44.0,36.0,1411.0,Real-Betis
-,Juanma,es ESP,MF,31,24,3.0,3.0,2009-2010,f4f22926,Real-Betis,"1,968",21.9,4.0,0.0,44.0,1.0,1413.0,Real-Betis
-,Damià Abella,es ESP,"DF,MF",28,23,0.0,0.0,2009-2010,35b4a15,Real-Betis,"1,847",20.5,9.0,1.0,44.0,1.0,,Real-Betis
-,Nélson Marcos,pt POR,DF,22,22,0.0,0.0,2009-2010,d0d41afb,Real-Betis,"1,821",20.2,2.0,1.0,44.0,3.0,1410.0,Real-Betis
-,Mariano Pavone,ar ARG,FW,28,21,2.0,6.0,2009-2010,7eb1f7c2,Real-Betis,"1,954",21.7,8.0,0.0,44.0,5.0,1401.0,Real-Betis
-,Mehmet Aurélio,tr TUR,MF,26,19,0.0,2.0,2009-2010,c1c7e8f,Real-Betis,"1,638",18.2,8.0,0.0,44.0,15.0,1412.0,Real-Betis
-,Jonathan Pereira,es ESP,FW,22,18,2.0,9.0,2009-2010,806ab4b6,Real-Betis,"1,492",16.6,3.0,0.0,44.0,1.0,1427.0,Real-Betis
-,Juande,es ESP,MF,19,15,1.0,2.0,2009-2010,4e8f9951,Real-Betis,"1,230",13.7,4.0,1.0,44.0,1.0,1396.0,Real-Betis
-,Capi,es ESP,MF,26,12,1.0,1.0,2009-2010,523503fe,Real-Betis,"1,165",12.9,4.0,0.0,44.0,1.0,1352.0,Real-Betis
-,Juan Pablo Caffa,ar ARG,MF,32,10,4.0,7.0,2009-2010,9a241b77,Real-Betis,"1,169",13.0,3.0,0.0,44.0,5.0,1399.0,Real-Betis
-,David Rivas,es ESP,DF,11,7,0.0,1.0,2009-2010,56da6c6e,Real-Betis,762,8.5,4.0,1.0,44.0,1.0,1359.0,Real-Betis
-,Rodri,es ESP,MF,23,5,2.0,1.0,2009-2010,f368a99,Real-Betis,905,10.1,5.0,0.0,44.0,1.0,1419.0,Real-Betis
-,David Odonkor,de GER,"FW,MF",11,4,0.0,2.0,2009-2010,60b041db,Real-Betis,450,5.0,1.0,0.0,44.0,13.0,1394.0,Real-Betis
-,Sunny,ng NGA,MF,7,4,0.0,0.0,2009-2010,1eb38665,Real-Betis,283,3.1,2.0,1.0,44.0,52.0,,Real-Betis
-,Israel,es ESP,MF,2,0,0.0,0.0,2009-2010,bf6d20c9,Real-Betis,37,0.4,0.0,0.0,44.0,1.0,1383.0,Real-Betis
-,Nano,es ESP,DF,1,0,0.0,0.0,2009-2010,3d6dd9f9,Real-Betis,19,0.2,0.0,0.0,44.0,1.0,1386.0,Real-Betis
-,Daniel Martín,es ESP,FW,1,0,0.0,0.0,2009-2010,c8d2987f,Real-Betis,11,0.1,0.0,0.0,44.0,1.0,1364.0,Real-Betis
-,﻿Rubén Castro,es ESP,"FW,MF",42,42,5.0,27.0,2010-2011,d109f62b,Real-Betis,"3,738",41.5,2.0,0.0,44.0,1.0,,Real-Betis
-,Iriney,br BRA,MF,36,35,1.0,3.0,2010-2011,09296fcc,Real-Betis,"3,013",33.5,18.0,1.0,44.0,2.0,,Real-Betis
-,Nacho,es ESP,"DF,MF",34,34,1.0,0.0,2010-2011,07537011,Real-Betis,"3,055",33.9,8.0,1.0,44.0,1.0,,Real-Betis
-,Chechu,es ESP,DF,33,33,4.0,2.0,2010-2011,98f3a6a,Real-Betis,"2,913",32.4,2.0,0.0,44.0,1.0,1420.0,Real-Betis
-,Salva Sevilla,es ESP,MF,33,31,13.0,3.0,2010-2011,75bd85ea,Real-Betis,"2,555",28.4,6.0,0.0,44.0,1.0,1421.0,Real-Betis
-,Beñat Etxebarria,es ESP,MF,36,30,8.0,4.0,2010-2011,b037bd4f,Real-Betis,"2,516",28.0,16.0,1.0,44.0,1.0,,Real-Betis
-,Jorge Molina,es ESP,FW,34,29,3.0,18.0,2010-2011,43f71e77,Real-Betis,"2,608",29.0,2.0,0.0,44.0,1.0,1422.0,Real-Betis
-,José Isidoro,es ESP,DF,31,29,2.0,1.0,2010-2011,bb00a819,Real-Betis,"2,600",28.9,7.0,0.0,44.0,1.0,1395.0,Real-Betis
-,Achille Emaná,cm CMR,MF,28,26,7.0,13.0,2010-2011,2d23ed,Real-Betis,"2,205",24.5,6.0,1.0,44.0,36.0,1411.0,Real-Betis
-,Iñaki Goitia,es ESP,GK,25,25,0.0,0.0,2010-2011,2f10b901,Real-Betis,"2,250",25.0,2.0,0.0,44.0,1.0,1417.0,Real-Betis
-,David Belenguer,es ESP,DF,20,19,0.0,0.0,2010-2011,68c448f7,Real-Betis,"1,691",18.8,5.0,3.0,44.0,1.0,1369.0,Real-Betis
-,Rovérsio,br BRA,DF,22,19,0.0,3.0,2010-2011,ba50a22c,Real-Betis,"1,650",18.3,5.0,1.0,44.0,2.0,1423.0,Real-Betis
-,Casto,es ESP,GK,17,17,0.0,0.0,2010-2011,95b4ffb3,Real-Betis,"1,530",17.0,3.0,0.0,44.0,1.0,1403.0,Real-Betis
-,Miguel Lopes,pt POR,DF,21,17,3.0,0.0,2010-2011,258b0d9b,Real-Betis,"1,400",15.6,7.0,0.0,44.0,3.0,1424.0,Real-Betis
-,Momo,es ESP,MF,18,13,1.0,0.0,2010-2011,9857e65d,Real-Betis,975,10.8,1.0,0.0,44.0,1.0,,Real-Betis
-,Ezequiel Calvente,es ESP,"FW,MF",29,10,1.0,1.0,2010-2011,633ea214,Real-Betis,"1,088",12.1,5.0,0.0,44.0,1.0,1425.0,Real-Betis
-,Miki Roqué,es ESP,"DF,MF",12,10,0.0,2.0,2010-2011,f27b5761,Real-Betis,932,10.4,2.0,1.0,44.0,1.0,1426.0,Real-Betis
-,Arzu,es ESP,"DF,MF",17,8,0.0,1.0,2010-2011,41e01ff,Real-Betis,785,8.7,1.0,0.0,44.0,1.0,1350.0,Real-Betis
-,Jonathan Pereira,es ESP,FW,18,7,1.0,3.0,2010-2011,806ab4b6,Real-Betis,792,8.8,2.0,1.0,44.0,1.0,1427.0,Real-Betis
-,Juanma,es ESP,MF,14,6,2.0,0.0,2010-2011,f4f22926,Real-Betis,609,6.8,1.0,0.0,44.0,1.0,1413.0,Real-Betis
-,Juan Pablo Caffa,ar ARG,MF,6,6,1.0,1.0,2010-2011,9a241b77,Real-Betis,399,4.4,0.0,0.0,44.0,5.0,1399.0,Real-Betis
-,Israel,es ESP,MF,21,4,1.0,1.0,2010-2011,bf6d20c9,Real-Betis,656,7.3,1.0,0.0,44.0,1.0,1383.0,Real-Betis
-,José Cañas,es ESP,MF,15,4,0.0,0.0,2010-2011,b77f2d9,Real-Betis,478,5.3,1.0,1.0,44.0,1.0,1415.0,Real-Betis
-,Juande,es ESP,MF,12,3,0.0,0.0,2010-2011,4e8f9951,Real-Betis,463,5.1,3.0,0.0,44.0,1.0,1396.0,Real-Betis
-,Fernando Vega,es ESP,DF,6,3,1.0,0.0,2010-2011,4a5e41f8,Real-Betis,274,3.0,3.0,0.0,44.0,1.0,1392.0,Real-Betis
-,Álex Martínez,es ESP,"DF,MF",2,2,0.0,0.0,2010-2011,1c805cf,Real-Betis,180,2.0,0.0,0.0,44.0,1.0,1428.0,Real-Betis
-,Sergio,es ESP,MF,2,0,0.0,0.0,2010-2011,6c6e9460,Real-Betis,34,0.4,0.0,0.0,44.0,1.0,1429.0,Real-Betis
-,Manu Palancar,es ESP,DF,2,0,0.0,0.0,2010-2011,4c51ce3,Real-Betis,33,0.4,0.0,0.0,44.0,1.0,1430.0,Real-Betis
-,Rodri,es ESP,MF,2,0,0.0,0.0,2010-2011,f368a99,Real-Betis,9,0.1,0.0,0.0,44.0,1.0,1419.0,Real-Betis
-,﻿Nacho,es ESP,"DF,MF",37,37,0.0,1.0,2011-2012,07537011,Real-Betis,"3,307",36.7,8.0,0.0,44.0,1.0,,Real-Betis
-,Rubén Castro,es ESP,"FW,MF",34,33,5.0,16.0,2011-2012,d109f62b,Real-Betis,"2,950",32.8,5.0,0.0,44.0,1.0,,Real-Betis
-,Chechu,es ESP,DF,33,32,0.0,1.0,2011-2012,98f3a6a,Real-Betis,"2,891",32.1,5.0,1.0,44.0,1.0,1420.0,Real-Betis
-,Beñat Etxebarria,es ESP,MF,35,30,5.0,6.0,2011-2012,b037bd4f,Real-Betis,"2,626",29.2,11.0,0.0,44.0,1.0,,Real-Betis
-,Iriney,br BRA,MF,31,30,0.0,0.0,2011-2012,09296fcc,Real-Betis,"2,540",28.2,12.0,0.0,44.0,2.0,,Real-Betis
-,Jefferson Montero,ec ECU,"FW,MF",32,26,2.0,1.0,2011-2012,fa6561bf,Real-Betis,"2,009",22.3,2.0,0.0,44.0,61.0,1431.0,Real-Betis
-,Casto,es ESP,GK,22,22,0.0,0.0,2011-2012,95b4ffb3,Real-Betis,"1,960",21.8,3.0,1.0,44.0,1.0,1403.0,Real-Betis
-,Roque Santa Cruz,py PAR,FW,33,20,2.0,7.0,2011-2012,7f2107eb,Real-Betis,"1,964",21.8,2.0,0.0,44.0,43.0,1432.0,Real-Betis
-,Salva Sevilla,es ESP,MF,26,19,2.0,2.0,2011-2012,75bd85ea,Real-Betis,"1,437",16.0,6.0,0.0,44.0,1.0,1421.0,Real-Betis
-,José Cañas,es ESP,MF,22,17,0.0,0.0,2011-2012,b77f2d9,Real-Betis,"1,604",17.8,6.0,0.0,44.0,1.0,1415.0,Real-Betis
-,Paulão,br BRA,DF,17,17,0.0,0.0,2011-2012,63783925,Real-Betis,"1,492",16.6,4.0,0.0,44.0,2.0,1433.0,Real-Betis
-,Fabricio,es ESP,GK,15,15,0.0,0.0,2011-2012,f245161,Real-Betis,"1,350",15.0,3.0,0.0,44.0,1.0,,Real-Betis
-,Jonathan Pereira,es ESP,FW,31,14,3.0,4.0,2011-2012,806ab4b6,Real-Betis,"1,481",16.5,8.0,0.0,44.0,1.0,1427.0,Real-Betis
-,Jorge Molina,es ESP,FW,26,14,2.0,6.0,2011-2012,43f71e77,Real-Betis,"1,271",14.1,2.0,1.0,44.0,1.0,1422.0,Real-Betis
-,Javier Chica,es ESP,DF,15,14,2.0,0.0,2011-2012,991b2cec,Real-Betis,"1,233",13.7,3.0,0.0,44.0,1.0,1434.0,Real-Betis
-,Nélson Marcos,pt POR,DF,14,14,0.0,1.0,2011-2012,d0d41afb,Real-Betis,"1,209",13.4,2.0,0.0,44.0,3.0,1410.0,Real-Betis
-,Mario,es ESP,DF,12,12,0.0,0.0,2011-2012,6ede7f4,Real-Betis,900,10.0,6.0,3.0,44.0,1.0,,Real-Betis
-,Alejandro Pozuelo,es ESP,"FW,MF",18,10,1.0,2.0,2011-2012,5e1280ff,Real-Betis,"1,025",11.4,1.0,1.0,44.0,1.0,1435.0,Real-Betis
-,José Isidoro,es ESP,DF,11,10,0.0,0.0,2011-2012,bb00a819,Real-Betis,892,9.9,4.0,0.0,44.0,1.0,1395.0,Real-Betis
-,Antonio Amaya,es ESP,DF,12,9,0.0,0.0,2011-2012,cfe5ba41,Real-Betis,941,10.5,4.0,0.0,44.0,1.0,1436.0,Real-Betis
-,Juanma,es ESP,MF,14,8,1.0,0.0,2011-2012,f4f22926,Real-Betis,782,8.7,2.0,0.0,44.0,1.0,1413.0,Real-Betis
-,Ustaritz,es ESP,DF,7,6,0.0,0.0,2011-2012,49f85a05,Real-Betis,514,5.7,0.0,0.0,44.0,1.0,,Real-Betis
-,Javier Matilla,es ESP,MF,14,4,0.0,0.0,2011-2012,35fa45cc,Real-Betis,387,4.3,2.0,0.0,44.0,1.0,1437.0,Real-Betis
-,Álvaro Vadillo,es ESP,"FW,MF",4,2,0.0,0.0,2011-2012,61b62b33,Real-Betis,113,1.3,0.0,0.0,44.0,1.0,,Real-Betis
-,Álex Martínez,es ESP,"DF,MF",3,1,0.0,0.0,2011-2012,1c805cf,Real-Betis,119,1.3,0.0,0.0,44.0,1.0,1428.0,Real-Betis
-,Iñaki Goitia,es ESP,GK,2,1,0.0,0.0,2011-2012,2f10b901,Real-Betis,110,1.2,0.0,0.0,44.0,1.0,1417.0,Real-Betis
-,Nono,es ESP,MF,2,1,0.0,0.0,2011-2012,0bd57693,Real-Betis,100,1.1,1.0,0.0,44.0,1.0,1438.0,Real-Betis
-,Sergio,es ESP,MF,3,0,0.0,0.0,2011-2012,6c6e9460,Real-Betis,119,1.3,0.0,0.0,44.0,1.0,1429.0,Real-Betis
-,Ezequiel Calvente,es ESP,"FW,MF",4,0,0.0,0.0,2011-2012,633ea214,Real-Betis,109,1.2,1.0,0.0,44.0,1.0,1425.0,Real-Betis
-,Duško Tošić,rs SRB,DF,1,0,0.0,0.0,2011-2012,523057ea,Real-Betis,35,0.4,0.0,0.0,44.0,28.0,1439.0,Real-Betis
-,Momo,es ESP,MF,2,0,0.0,0.0,2011-2012,9857e65d,Real-Betis,25,0.3,1.0,0.0,44.0,1.0,,Real-Betis
-,﻿Beñat Etxebarria,es ESP,MF,34,33,9.0,4.0,2012-2013,b037bd4f,Real-Betis,"2,843",31.6,16.0,0.0,44.0,1.0,,Real-Betis
-,Rubén Castro,es ESP,"FW,MF",34,32,6.0,18.0,2012-2013,d109f62b,Real-Betis,"2,952",32.8,3.0,0.0,44.0,1.0,,Real-Betis
-,Adrián,es ESP,GK,32,31,0.0,0.0,2012-2013,f76e6b4e,Real-Betis,"2,869",31.9,5.0,0.0,44.0,1.0,1440.0,Real-Betis
-,Nacho,es ESP,"DF,MF",30,26,4.0,0.0,2012-2013,07537011,Real-Betis,"2,368",26.3,11.0,0.0,44.0,1.0,,Real-Betis
-,Antonio Amaya,es ESP,DF,28,26,0.0,0.0,2012-2013,cfe5ba41,Real-Betis,"2,353",26.1,7.0,2.0,44.0,1.0,1436.0,Real-Betis
-,José Cañas,es ESP,MF,27,26,1.0,0.0,2012-2013,b77f2d9,Real-Betis,"2,259",25.1,10.0,0.0,44.0,1.0,1415.0,Real-Betis
-,Jorge Molina,es ESP,FW,32,22,1.0,13.0,2012-2013,43f71e77,Real-Betis,"2,118",23.5,3.0,0.0,44.0,1.0,1422.0,Real-Betis
-,Javier Chica,es ESP,DF,22,21,1.0,0.0,2012-2013,991b2cec,Real-Betis,"1,898",21.1,4.0,0.0,44.0,1.0,1434.0,Real-Betis
-,Joel Campbell,cr CRC,"FW,MF",28,21,3.0,2.0,2012-2013,895ff3ca,Real-Betis,"1,582",17.6,8.0,1.0,44.0,22.0,1441.0,Real-Betis
-,Juankar,es ESP,"DF,FW",25,21,3.0,0.0,2012-2013,9a12436,Real-Betis,"1,485",16.5,4.0,0.0,44.0,1.0,98.0,Real-Betis
-,Paulão,br BRA,DF,22,19,0.0,2.0,2012-2013,63783925,Real-Betis,"1,737",19.3,6.0,0.0,44.0,2.0,1433.0,Real-Betis
-,Mario,es ESP,DF,20,19,0.0,1.0,2012-2013,6ede7f4,Real-Betis,"1,590",17.7,1.0,1.0,44.0,1.0,,Real-Betis
-,Rubén Pérez,es ESP,MF,25,18,1.0,1.0,2012-2013,3c7bc9bd,Real-Betis,"1,624",18.0,11.0,1.0,44.0,1.0,,Real-Betis
-,Salva Sevilla,es ESP,MF,17,15,2.0,2.0,2012-2013,75bd85ea,Real-Betis,"1,078",12.0,3.0,0.0,44.0,1.0,1421.0,Real-Betis
-,Dorlan Pabón,co COL,"FW,MF",17,14,4.0,8.0,2012-2013,4eb45683,Real-Betis,"1,253",13.9,0.0,0.0,44.0,19.0,,Real-Betis
-,Álex Martínez,es ESP,"DF,MF",13,11,2.0,0.0,2012-2013,1c805cf,Real-Betis,"1,041",11.6,1.0,0.0,44.0,1.0,1428.0,Real-Betis
-,Nélson Marcos,pt POR,DF,10,10,0.0,0.0,2012-2013,d0d41afb,Real-Betis,896,10.0,2.0,0.0,44.0,3.0,1410.0,Real-Betis
-,Ángel López,es ESP,"DF,MF",11,8,0.0,1.0,2012-2013,93cdc601,Real-Betis,742,8.2,3.0,0.0,44.0,1.0,,Real-Betis
-,Damien Perquis,pl POL,DF,10,7,0.0,0.0,2012-2013,c33b3de1,Real-Betis,651,7.2,2.0,1.0,44.0,14.0,1442.0,Real-Betis
-,Nosa Igiebor,ng NGA,MF,16,7,1.0,1.0,2012-2013,79d9bbd4,Real-Betis,578,6.4,2.0,0.0,44.0,52.0,1454.0,Real-Betis
-,Salvador Agra,pt POR,"FW,MF",10,7,0.0,1.0,2012-2013,130741a,Real-Betis,506,5.6,3.0,0.0,44.0,3.0,1443.0,Real-Betis
-,Chechu,es ESP,DF,7,5,0.0,0.0,2012-2013,98f3a6a,Real-Betis,499,5.5,1.0,0.0,44.0,1.0,1420.0,Real-Betis
-,Casto,es ESP,GK,5,5,0.0,0.0,2012-2013,95b4ffb3,Real-Betis,371,4.1,2.0,1.0,44.0,1.0,1403.0,Real-Betis
-,Nono,es ESP,MF,15,4,0.0,0.0,2012-2013,0bd57693,Real-Betis,596,6.6,4.0,0.0,44.0,1.0,1438.0,Real-Betis
-,Alejandro Pozuelo,es ESP,"FW,MF",11,4,0.0,1.0,2012-2013,5e1280ff,Real-Betis,433,4.8,1.0,0.0,44.0,1.0,1435.0,Real-Betis
-,Álvaro Vadillo,es ESP,"FW,MF",14,3,2.0,0.0,2012-2013,61b62b33,Real-Betis,507,5.6,3.0,0.0,44.0,1.0,,Real-Betis
-,Fabricio,es ESP,GK,2,2,0.0,0.0,2012-2013,f245161,Real-Betis,180,2.0,0.0,0.0,44.0,1.0,,Real-Betis
-,Jonathan Pereira,es ESP,FW,6,1,1.0,0.0,2012-2013,806ab4b6,Real-Betis,253,2.8,2.0,0.0,44.0,1.0,1427.0,Real-Betis
-,Guillermo Molins,se SWE,"FW,MF",4,0,0.0,0.0,2012-2013,cda49f68,Real-Betis,56,0.6,0.0,0.0,44.0,41.0,1444.0,Real-Betis
-,Eder Vilarchao,es ESP,MF,1,0,0.0,0.0,2012-2013,9ea0bf80,Real-Betis,34,0.4,0.0,0.0,44.0,1.0,1445.0,Real-Betis
-,Sergio,es ESP,MF,1,0,0.0,0.0,2012-2013,6c6e9460,Real-Betis,14,0.2,0.0,0.0,44.0,1.0,1429.0,Real-Betis
-,Fausto Tienza,es ESP,MF,1,0,0.0,0.0,2012-2013,039783d3,Real-Betis,6,0.1,0.0,0.0,44.0,1.0,1446.0,Real-Betis
-,Carlos García,es ESP,MF,1,0,0.0,0.0,2012-2013,1e64709e,Real-Betis,3,0.0,0.0,0.0,44.0,1.0,1447.0,Real-Betis
-,﻿Juanfran,es ESP,"DF,FW",34,28,2.0,1.0,2013-2014,9ba48d64,Real-Betis,"2,551",28.3,2.0,0.0,44.0,1.0,86.0,Real-Betis
-,Jorge Molina,es ESP,FW,32,25,1.0,9.0,2013-2014,43f71e77,Real-Betis,"2,347",26.1,4.0,0.0,44.0,1.0,1422.0,Real-Betis
-,Lorenzo Reyes,cl CHI,MF,26,23,0.0,1.0,2013-2014,d47cd62c,Real-Betis,"2,006",22.3,7.0,1.0,44.0,31.0,1448.0,Real-Betis
-,Antonio Amaya,es ESP,DF,24,22,1.0,1.0,2013-2014,cfe5ba41,Real-Betis,"2,027",22.5,10.0,1.0,44.0,1.0,1436.0,Real-Betis
-,Rubén Castro,es ESP,"FW,MF",25,22,1.0,10.0,2013-2014,d109f62b,Real-Betis,"2,014",22.4,4.0,0.0,44.0,1.0,,Real-Betis
-,Javier Chica,es ESP,DF,25,22,0.0,2.0,2013-2014,991b2cec,Real-Betis,"1,944",21.6,8.0,1.0,44.0,1.0,1434.0,Real-Betis
-,Jordi,es ESP,DF,25,20,0.0,1.0,2013-2014,744a8a7c,Real-Betis,"2,006",22.3,5.0,0.0,44.0,1.0,,Real-Betis
-,Paulão,br BRA,DF,20,20,0.0,0.0,2013-2014,63783925,Real-Betis,"1,647",18.3,3.0,1.0,44.0,2.0,1433.0,Real-Betis
-,Juankar,es ESP,"DF,FW",20,18,2.0,0.0,2013-2014,9a12436,Real-Betis,"1,392",15.5,4.0,1.0,44.0,1.0,98.0,Real-Betis
-,Antonio Adán,es ESP,GK,17,17,0.0,0.0,2013-2014,65d62814,Real-Betis,"1,522",16.9,1.0,0.0,44.0,1.0,94.0,Real-Betis
-,Alfred N'Diaye,sn SEN,"DF,MF",16,16,1.0,0.0,2013-2014,7789bf63,Real-Betis,"1,412",15.7,5.0,0.0,44.0,34.0,1449.0,Real-Betis
-,Salva Sevilla,es ESP,MF,21,16,5.0,4.0,2013-2014,75bd85ea,Real-Betis,"1,337",14.9,8.0,0.0,44.0,1.0,1421.0,Real-Betis
-,Javier Matilla,es ESP,MF,23,15,0.0,0.0,2013-2014,35fa45cc,Real-Betis,"1,367",15.2,8.0,0.0,44.0,1.0,1437.0,Real-Betis
-,Joan Verdú,es ESP,MF,20,15,1.0,2.0,2013-2014,61508522,Real-Betis,"1,359",15.1,1.0,0.0,44.0,1.0,,Real-Betis
-,Nacho,es ESP,"DF,MF",16,15,0.0,0.0,2013-2014,07537011,Real-Betis,"1,306",14.5,2.0,0.0,44.0,1.0,,Real-Betis
-,Guillermo Sara,ar ARG,GK,15,15,0.0,0.0,2013-2014,fd66e36,Real-Betis,"1,305",14.5,1.0,0.0,44.0,5.0,1450.0,Real-Betis
-,Nono,es ESP,MF,22,14,0.0,0.0,2013-2014,0bd57693,Real-Betis,"1,297",14.4,9.0,1.0,44.0,1.0,1438.0,Real-Betis
-,Álvaro Vadillo,es ESP,"FW,MF",21,13,2.0,0.0,2013-2014,61b62b33,Real-Betis,"1,094",12.2,3.0,0.0,44.0,1.0,,Real-Betis
-,Léo Baptistão,br BRA,"FW,MF",17,13,1.0,1.0,2013-2014,35f6db55,Real-Betis,"1,003",11.1,3.0,0.0,44.0,2.0,1451.0,Real-Betis
-,Damien Perquis,pl POL,DF,13,13,0.0,0.0,2013-2014,c33b3de1,Real-Betis,914,10.2,3.0,1.0,44.0,14.0,1442.0,Real-Betis
-,Cedrick Mabwati,cd COD,"FW,MF",23,12,1.0,0.0,2013-2014,6518bc18,Real-Betis,"1,132",12.6,5.0,1.0,44.0,50.0,1452.0,Real-Betis
-,Dídac Vilà,es ESP,DF,12,11,1.0,0.0,2013-2014,bad38a94,Real-Betis,917,10.2,2.0,0.0,44.0,1.0,1453.0,Real-Betis
-,Xavi Torres,es ESP,MF,10,9,0.0,0.0,2013-2014,1b51ad2f,Real-Betis,777,8.6,5.0,0.0,44.0,1.0,,Real-Betis
-,Nosa Igiebor,ng NGA,MF,12,6,0.0,1.0,2013-2014,79d9bbd4,Real-Betis,663,7.4,3.0,0.0,44.0,52.0,1454.0,Real-Betis
-,Stephan Andersen,dk DEN,GK,7,6,0.0,0.0,2013-2014,314c2af0,Real-Betis,585,6.5,0.0,0.0,44.0,7.0,1455.0,Real-Betis
-,Chuli,es ESP,"FW,MF",11,4,1.0,0.0,2013-2014,24efffbf,Real-Betis,445,4.9,2.0,0.0,44.0,1.0,1456.0,Real-Betis
-,Braian Rodríguez,uy URU,FW,12,4,1.0,2.0,2013-2014,ba32a26f,Real-Betis,436,4.8,3.0,1.0,44.0,8.0,1457.0,Real-Betis
-,Markus Steinhöfer,de GER,"DF,MF",3,2,0.0,0.0,2013-2014,f4765e02,Real-Betis,161,1.8,0.0,0.0,44.0,13.0,1458.0,Real-Betis
-,José Antonio Caro,es ESP,DF,4,1,0.0,0.0,2013-2014,02e4da70,Real-Betis,171,1.9,0.0,0.0,44.0,1.0,1459.0,Real-Betis
-,Juanma,es ESP,FW,3,1,0.0,0.0,2013-2014,21a7aebb,Real-Betis,82,0.9,0.0,0.0,44.0,1.0,1460.0,Real-Betis
-,Agustín Pastoriza,ar ARG,,1,0,,0.0,2013-2014,66dd8945,Real-Betis,37,0.4,0.0,0.0,44.0,5.0,,Real-Betis
-,Dani Ceballos,es ESP,MF,1,0,0.0,0.0,2013-2014,c0617e2b,Real-Betis,11,0.1,0.0,0.0,44.0,1.0,148.0,Real-Betis
-,Pedro López,es ESP,GK,1,0,0.0,0.0,2013-2014,bfa29677,Real-Betis,8,0.1,0.0,0.0,44.0,1.0,1461.0,Real-Betis
-,﻿Rubén Castro,es ESP,"FW,MF",42,42,10.0,32.0,2014-2015,d109f62b,Real-Betis,"3,705",41.2,1.0,0.0,44.0,1.0,,Real-Betis
-,Antonio Adán,es ESP,GK,40,40,0.0,0.0,2014-2015,65d62814,Real-Betis,"3,600",40.0,4.0,0.0,44.0,1.0,94.0,Real-Betis
-,Jordi,es ESP,DF,39,39,0.0,0.0,2014-2015,744a8a7c,Real-Betis,"3,464",38.5,15.0,0.0,44.0,1.0,,Real-Betis
-,Francisco Molinero,es ESP,DF,37,35,4.0,1.0,2014-2015,2cea96ce,Real-Betis,"2,922",32.5,11.0,0.0,44.0,1.0,1462.0,Real-Betis
-,Bruno González,es ESP,DF,33,31,0.0,2.0,2014-2015,f11fe861,Real-Betis,"2,852",31.7,7.0,2.0,44.0,1.0,1463.0,Real-Betis
-,Jorge Molina,es ESP,FW,33,25,5.0,19.0,2014-2015,43f71e77,Real-Betis,"2,122",23.6,7.0,0.0,44.0,1.0,1422.0,Real-Betis
-,Dani Ceballos,es ESP,MF,33,24,3.0,5.0,2014-2015,c0617e2b,Real-Betis,"2,280",25.3,4.0,0.0,44.0,1.0,148.0,Real-Betis
-,Xavi Torres,es ESP,MF,26,23,2.0,2.0,2014-2015,1b51ad2f,Real-Betis,"2,020",22.4,12.0,0.0,44.0,1.0,,Real-Betis
-,Alfred N'Diaye,sn SEN,"DF,MF",28,22,2.0,1.0,2014-2015,7789bf63,Real-Betis,"2,008",22.3,14.0,0.0,44.0,34.0,1449.0,Real-Betis
-,Francisco Varela,es ESP,DF,22,22,3.0,0.0,2014-2015,15b2386c,Real-Betis,"1,956",21.7,6.0,0.0,44.0,1.0,1464.0,Real-Betis
-,Lorenzo Reyes,cl CHI,MF,32,21,1.0,0.0,2014-2015,d47cd62c,Real-Betis,"1,971",21.9,13.0,1.0,44.0,31.0,1448.0,Real-Betis
-,Foued Kadir,dz ALG,MF,24,20,4.0,1.0,2014-2015,0136606c,Real-Betis,"1,678",18.6,5.0,0.0,44.0,37.0,1465.0,Real-Betis
-,Francisco Portillo,es ESP,MF,21,18,4.0,0.0,2014-2015,8e010ff4,Real-Betis,"1,548",17.2,4.0,0.0,44.0,1.0,1466.0,Real-Betis
-,Álvaro Cejudo,es ESP,MF,30,18,2.0,1.0,2014-2015,39b23eb,Real-Betis,"1,525",16.9,6.0,0.0,44.0,1.0,1477.0,Real-Betis
-,Vincenzo Rennella,it ITA,FW,34,14,3.0,6.0,2014-2015,b3c467b4,Real-Betis,"1,480",16.4,6.0,0.0,44.0,9.0,1467.0,Real-Betis
-,Jorge Casado,es ESP,DF,15,14,0.0,0.0,2014-2015,2ef06d6b,Real-Betis,"1,292",14.4,2.0,0.0,44.0,1.0,1468.0,Real-Betis
-,Javier Matilla,es ESP,MF,15,14,2.0,1.0,2014-2015,35fa45cc,Real-Betis,"1,177",13.1,3.0,0.0,44.0,1.0,1437.0,Real-Betis
-,Daniel Pacheco,es ESP,"FW,MF",23,10,1.0,0.0,2014-2015,5b2a4b8d,Real-Betis,890,9.9,3.0,0.0,44.0,1.0,1469.0,Real-Betis
-,Damien Perquis,pl POL,DF,9,8,0.0,0.0,2014-2015,c33b3de1,Real-Betis,724,8.0,5.0,1.0,44.0,14.0,1442.0,Real-Betis
-,Cristiano Piccini,it ITA,DF,12,8,0.0,0.0,2014-2015,32c0491f,Real-Betis,711,7.9,2.0,1.0,44.0,9.0,,Real-Betis
-,Álex Martínez,es ESP,"DF,MF",8,6,0.0,0.0,2014-2015,1c805cf,Real-Betis,485,5.4,2.0,0.0,44.0,1.0,1428.0,Real-Betis
-,Héctor Rodas,es ESP,DF,5,4,0.0,0.0,2014-2015,dcdd3a95,Real-Betis,319,3.5,1.0,0.0,44.0,1.0,1470.0,Real-Betis
-,Dani Giménez,es ESP,GK,2,2,0.0,0.0,2014-2015,7c218bf9,Real-Betis,180,2.0,0.0,0.0,44.0,1.0,,Real-Betis
-,Álvaro Vadillo,es ESP,"FW,MF",7,1,0.0,0.0,2014-2015,61b62b33,Real-Betis,168,1.9,2.0,0.0,44.0,1.0,,Real-Betis
-,José Antonio Caro,es ESP,DF,4,1,0.0,0.0,2014-2015,02e4da70,Real-Betis,167,1.9,0.0,0.0,44.0,1.0,1459.0,Real-Betis
-,Fabián Ruiz Peña,es ESP,MF,6,0,0.0,0.0,2014-2015,c0c7ff58,Real-Betis,110,1.2,0.0,0.0,44.0,1.0,1471.0,Real-Betis
-,Nono,es ESP,MF,4,0,0.0,0.0,2014-2015,0bd57693,Real-Betis,106,1.2,0.0,0.0,44.0,1.0,1438.0,Real-Betis
-,Chuli,es ESP,"FW,MF",3,0,1.0,0.0,2014-2015,24efffbf,Real-Betis,68,0.8,0.0,0.0,44.0,1.0,1456.0,Real-Betis
-,Álex Alegría,es ESP,FW,1,0,0.0,0.0,2014-2015,46166b49,Real-Betis,13,0.1,0.0,0.0,44.0,1.0,1472.0,Real-Betis
-,José Carlos,es ESP,DF,0,0,,,2014-2015,0e03f80,Real-Betis,,,,,44.0,1.0,1473.0,Real-Betis
-,Carlos García,es ESP,MF,0,0,,,2014-2015,1e64709e,Real-Betis,,,,,44.0,1.0,1447.0,Real-Betis
-,Javi Montoya,es ESP,GK,0,0,,,2014-2015,da33567f,Real-Betis,,,,,44.0,1.0,1474.0,Real-Betis
-,﻿Rubén Castro,es ESP,FW,38,38,4.0,19.0,2015-2016,d109f62b,Real-Betis,"3,373",37.5,2.0,0.0,44.0,1.0,,Real-Betis
-,Antonio Adán,es ESP,GK,36,36,0.0,0.0,2015-2016,65d62814,Real-Betis,"3,212",35.7,5.0,0.0,44.0,1.0,94.0,Real-Betis
-,Alfred N'Diaye,sn SEN,MF,34,34,0.0,2.0,2015-2016,7789bf63,Real-Betis,"3,007",33.4,6.0,0.0,44.0,34.0,1449.0,Real-Betis
-,Bruno González,es ESP,DF,32,32,0.0,0.0,2015-2016,f11fe861,Real-Betis,"2,795",31.1,10.0,0.0,44.0,1.0,1463.0,Real-Betis
-,Petros,br BRA,MF,30,27,1.0,1.0,2015-2016,7773f73b,Real-Betis,"2,326",25.8,9.0,1.0,44.0,2.0,1475.0,Real-Betis
-,Germán Pezzella,ar ARG,DF,25,23,1.0,3.0,2015-2016,8c725b43,Real-Betis,"2,166",24.1,8.0,0.0,44.0,5.0,1476.0,Real-Betis
-,Dani Ceballos,es ESP,MF,34,22,2.0,0.0,2015-2016,c0617e2b,Real-Betis,"2,132",23.7,11.0,1.0,44.0,1.0,148.0,Real-Betis
-,Joaquín,es ESP,MF,30,22,5.0,1.0,2015-2016,4c5b14d2,Real-Betis,"1,956",21.7,3.0,0.0,44.0,1.0,,Real-Betis
-,Álvaro Cejudo,es ESP,MF,30,21,2.0,1.0,2015-2016,39b23eb,Real-Betis,"1,873",20.8,10.0,0.0,44.0,1.0,1477.0,Real-Betis
-,Juan Manuel Vargas,pe PER,DF,20,20,2.0,2.0,2015-2016,d6804f6a,Real-Betis,"1,717",19.1,8.0,1.0,44.0,57.0,1478.0,Real-Betis
-,Heiko Westermann,de GER,DF,20,20,0.0,1.0,2015-2016,7beecde1,Real-Betis,"1,628",18.1,7.0,2.0,44.0,13.0,1479.0,Real-Betis
-,Cristiano Piccini,it ITA,DF,16,16,0.0,0.0,2015-2016,32c0491f,Real-Betis,"1,419",15.8,4.0,0.0,44.0,9.0,,Real-Betis
-,Francisco Molinero,es ESP,DF,21,15,1.0,0.0,2015-2016,2cea96ce,Real-Betis,"1,189",13.2,5.0,0.0,44.0,1.0,1462.0,Real-Betis
-,Charly Musonda Jr.,be BEL,MF,16,13,1.0,1.0,2015-2016,62a0089e,Real-Betis,"1,226",13.6,2.0,0.0,44.0,27.0,1480.0,Real-Betis
-,Martín Montoya,es ESP,DF,13,13,1.0,0.0,2015-2016,5cec2487,Real-Betis,"1,166",13.0,4.0,0.0,44.0,1.0,,Real-Betis
-,Francisco Portillo,es ESP,MF,19,11,0.0,0.0,2015-2016,8e010ff4,Real-Betis,968,10.8,4.0,0.0,44.0,1.0,1466.0,Real-Betis
-,Jorge Molina,es ESP,FW,23,10,1.0,1.0,2015-2016,43f71e77,Real-Betis,920,10.2,4.0,0.0,44.0,1.0,1422.0,Real-Betis
-,Francisco Varela,es ESP,DF,14,10,1.0,0.0,2015-2016,15b2386c,Real-Betis,911,10.1,3.0,0.0,44.0,1.0,1464.0,Real-Betis
-,Xavi Torres,es ESP,MF,12,6,0.0,0.0,2015-2016,1b51ad2f,Real-Betis,637,7.1,2.0,0.0,44.0,1.0,,Real-Betis
-,Foued Kadir,dz ALG,MF,8,6,0.0,0.0,2015-2016,0136606c,Real-Betis,481,5.3,1.0,0.0,44.0,37.0,1465.0,Real-Betis
-,Fabián Ruiz Peña,es ESP,MF,12,6,1.0,0.0,2015-2016,c0c7ff58,Real-Betis,429,4.8,0.0,0.0,44.0,1.0,1471.0,Real-Betis
-,Ricky van Wolfswinkel,nl NED,FW,16,5,2.0,1.0,2015-2016,dbe16ade,Real-Betis,621,6.9,2.0,0.0,44.0,11.0,1481.0,Real-Betis
-,Didier Digard,fr FRA,MF,8,2,0.0,0.0,2015-2016,557f1466,Real-Betis,298,3.3,2.0,0.0,44.0,4.0,1482.0,Real-Betis
-,Dani Giménez,es ESP,GK,3,2,0.0,0.0,2015-2016,7c218bf9,Real-Betis,208,2.3,0.0,0.0,44.0,1.0,,Real-Betis
-,Vincenzo Rennella,it ITA,FW,6,2,0.0,1.0,2015-2016,b3c467b4,Real-Betis,193,2.1,1.0,0.0,44.0,9.0,1467.0,Real-Betis
-,Rafael van der Vaart,nl NED,MF,7,2,0.0,0.0,2015-2016,41473b67,Real-Betis,180,2.0,0.0,0.0,44.0,11.0,71.0,Real-Betis
-,Jordi,es ESP,DF,3,2,0.0,0.0,2015-2016,744a8a7c,Real-Betis,167,1.9,1.0,0.0,44.0,1.0,,Real-Betis
-,Leandro Damião,br BRA,FW,3,1,0.0,0.0,2015-2016,8e0eac01,Real-Betis,130,1.4,0.0,0.0,44.0,2.0,1483.0,Real-Betis
-,Álvaro Vadillo,es ESP,MF,3,1,0.0,0.0,2015-2016,61b62b33,Real-Betis,86,1.0,0.0,0.0,44.0,1.0,,Real-Betis
-,De La Calzada,es ESP,GK,0,0,,,2015-2016,7f416479,Real-Betis,,,,,44.0,1.0,1484.0,Real-Betis
-,Pedro López,es ESP,GK,0,0,,,2015-2016,bfa29677,Real-Betis,,,,,44.0,1.0,1461.0,Real-Betis
-,﻿Antonio Adán,es ESP,GK,37,37,0.0,0.0,2016-2017,65d62814,Real-Betis,"3,330",37.0,5.0,0.0,44.0,1.0,94.0,Real-Betis
-,Germán Pezzella,ar ARG,DF,36,36,0.0,1.0,2016-2017,8c725b43,Real-Betis,"3,099",34.4,10.0,0.0,44.0,5.0,1476.0,Real-Betis
-,Rubén Castro,es ESP,FW,35,32,3.0,13.0,2016-2017,d109f62b,Real-Betis,"2,777",30.9,3.0,0.0,44.0,1.0,,Real-Betis
-,Riza Durmisi,dk DEN,DF,27,27,4.0,1.0,2016-2017,5cd9da6,Real-Betis,"2,385",26.5,4.0,0.0,44.0,7.0,1485.0,Real-Betis
-,Aïssa Mandi,dz ALG,DF,26,25,1.0,2.0,2016-2017,fbd6378b,Real-Betis,"2,215",24.6,4.0,0.0,44.0,37.0,1486.0,Real-Betis
-,Dani Ceballos,es ESP,MF,30,24,2.0,2.0,2016-2017,c0617e2b,Real-Betis,"2,339",26.0,8.0,0.0,44.0,1.0,148.0,Real-Betis
-,Petros,br BRA,MF,32,24,2.0,1.0,2016-2017,7773f73b,Real-Betis,"2,142",23.8,9.0,1.0,44.0,2.0,1475.0,Real-Betis
-,Cristiano Piccini,it ITA,DF,23,21,3.0,2.0,2016-2017,32c0491f,Real-Betis,"1,738",19.3,6.0,2.0,44.0,9.0,,Real-Betis
-,Joaquín,es ESP,"FW,MF",28,19,3.0,3.0,2016-2017,4c5b14d2,Real-Betis,"1,673",18.6,2.0,0.0,44.0,1.0,,Real-Betis
-,Darko Brašanac,rs SRB,MF,25,19,1.0,1.0,2016-2017,4accb7e0,Real-Betis,"1,621",18.0,7.0,0.0,44.0,28.0,1487.0,Real-Betis
-,Alin Toșca,ro ROU,DF,17,17,0.0,0.0,2016-2017,322ba2df,Real-Betis,"1,501",16.7,2.0,0.0,44.0,51.0,1501.0,Real-Betis
-,Antonio Sanabria,py PAR,FW,22,16,1.0,4.0,2016-2017,0a447501,Real-Betis,"1,490",16.6,2.0,0.0,44.0,43.0,1488.0,Real-Betis
-,Álex Alegría,es ESP,FW,25,15,2.0,3.0,2016-2017,46166b49,Real-Betis,"1,438",16.0,2.0,0.0,44.0,1.0,1472.0,Real-Betis
-,Bruno González,es ESP,DF,16,15,0.0,1.0,2016-2017,f11fe861,Real-Betis,"1,331",14.8,9.0,0.0,44.0,1.0,1463.0,Real-Betis
-,Rubén Pardo,es ESP,MF,16,15,0.0,1.0,2016-2017,2306bfde,Real-Betis,"1,265",14.1,2.0,0.0,44.0,1.0,,Real-Betis
-,Jonas Martin,fr FRA,MF,20,15,0.0,2.0,2016-2017,468fdbad,Real-Betis,"1,153",12.8,5.0,0.0,44.0,4.0,1489.0,Real-Betis
-,Rafa Navarro,es ESP,DF,18,14,2.0,2.0,2016-2017,83627094,Real-Betis,"1,280",14.2,3.0,0.0,44.0,1.0,1490.0,Real-Betis
-,Álex Martínez,es ESP,DF,14,11,0.0,0.0,2016-2017,1c805cf,Real-Betis,967,10.7,2.0,0.0,44.0,1.0,1428.0,Real-Betis
-,Ryan Donk,sr SUR,"MF,DF",16,9,1.0,0.0,2016-2017,d072a976,Real-Betis,859,9.5,3.0,0.0,44.0,79.0,1491.0,Real-Betis
-,Felipe Gutiérrez,cl CHI,MF,14,9,0.0,1.0,2016-2017,80ae314a,Real-Betis,757,8.4,3.0,0.0,44.0,31.0,1492.0,Real-Betis
-,Álvaro Cejudo,es ESP,"MF,FW",17,6,1.0,1.0,2016-2017,39b23eb,Real-Betis,815,9.1,8.0,0.0,44.0,1.0,1477.0,Real-Betis
-,José Carlos,es ESP,DF,6,6,0.0,0.0,2016-2017,0e03f80,Real-Betis,496,5.5,0.0,0.0,44.0,1.0,1473.0,Real-Betis
-,Fabián Ruiz Peña,es ESP,MF,4,3,0.0,0.0,2016-2017,c0c7ff58,Real-Betis,152,1.7,0.0,0.0,44.0,1.0,1471.0,Real-Betis
-,Charly Musonda Jr.,be BEL,MF,8,1,1.0,0.0,2016-2017,62a0089e,Real-Betis,284,3.2,2.0,0.0,44.0,27.0,1480.0,Real-Betis
-,Roman Zozulya,ua UKR,FW,6,1,0.0,0.0,2016-2017,cc862ec7,Real-Betis,155,1.7,1.0,0.0,44.0,29.0,1493.0,Real-Betis
-,Dani Giménez,es ESP,GK,1,1,0.0,0.0,2016-2017,7c218bf9,Real-Betis,90,1.0,1.0,1.0,44.0,1.0,,Real-Betis
-,Matías Nahuel,es ESP,"FW,MF",10,0,0.0,0.0,2016-2017,48e4c485,Real-Betis,156,1.7,0.0,1.0,44.0,1.0,,Real-Betis
-,Manu Herrera,es ESP,GK,0,0,,,2016-2017,d2acc39,Real-Betis,,,,,44.0,1.0,1494.0,Real-Betis
-,﻿Aïssa Mandi,dz ALG,DF,34,34,0.0,1.0,2017-2018,fbd6378b,Real-Betis,"3,024",33.6,9.0,1.0,44.0,37.0,1486.0,Real-Betis
-,Antonio Adán,es ESP,GK,30,30,2.0,0.0,2017-2018,65d62814,Real-Betis,"2,700",30.0,4.0,0.0,44.0,1.0,94.0,Real-Betis
-,Fabián Ruiz Peña,es ESP,MF,34,30,6.0,3.0,2017-2018,c0c7ff58,Real-Betis,"2,659",29.5,3.0,0.0,44.0,1.0,1471.0,Real-Betis
-,Joaquín,es ESP,"MF,FW",35,29,7.0,4.0,2017-2018,4c5b14d2,Real-Betis,"2,479",27.5,7.0,0.0,44.0,1.0,,Real-Betis
-,Antonio Barragán,es ESP,DF,29,28,6.0,0.0,2017-2018,487d9b09,Real-Betis,"2,373",26.4,7.0,0.0,44.0,1.0,,Real-Betis
-,Javi García,es ESP,"MF,DF",32,27,0.0,1.0,2017-2018,167c1bb0,Real-Betis,"2,410",26.8,7.0,0.0,44.0,1.0,35.0,Real-Betis
-,Andrés Guardado,mx MEX,MF,29,25,8.0,2.0,2017-2018,f322658,Real-Betis,"2,264",25.2,7.0,0.0,44.0,20.0,,Real-Betis
-,Jordi Amat,es ESP,"DF,MF",25,24,0.0,0.0,2017-2018,d70a2141,Real-Betis,"2,045",22.7,7.0,2.0,44.0,1.0,1495.0,Real-Betis
-,Riza Durmisi,dk DEN,DF,24,23,3.0,2.0,2017-2018,5cd9da6,Real-Betis,"2,080",23.1,4.0,0.0,44.0,7.0,1485.0,Real-Betis
-,Sergio León,es ESP,FW,31,23,1.0,11.0,2017-2018,0a0cc13c,Real-Betis,"1,978",22.0,5.0,0.0,44.0,1.0,1496.0,Real-Betis
-,Cristian Tello,es ESP,"MF,FW",32,16,3.0,4.0,2017-2018,72a99e38,Real-Betis,"1,693",18.8,2.0,0.0,44.0,1.0,,Real-Betis
-,Marc Bartra,es ESP,DF,16,16,0.0,1.0,2017-2018,b742cc0d,Real-Betis,"1,420",15.8,6.0,0.0,44.0,1.0,,Real-Betis
-,Ryad Boudebouz,dz ALG,"MF,FW",27,15,3.0,2.0,2017-2018,1001ae82,Real-Betis,"1,360",15.1,2.0,0.0,44.0,37.0,,Real-Betis
-,Zouhair Feddal,ma MAR,DF,15,14,0.0,3.0,2017-2018,89151b16,Real-Betis,"1,257",14.0,7.0,0.0,44.0,26.0,1497.0,Real-Betis
-,Víctor Camarasa,es ESP,MF,24,14,0.0,1.0,2017-2018,b2d03887,Real-Betis,"1,252",13.9,1.0,0.0,44.0,1.0,1498.0,Real-Betis
-,Junior Firpo,es ESP,DF,14,14,2.0,2.0,2017-2018,24f59bb2,Real-Betis,"1,189",13.2,4.0,0.0,44.0,1.0,,Real-Betis
-,Loren Morón,es ESP,FW,15,12,0.0,7.0,2017-2018,3aa4a3be,Real-Betis,"1,060",11.8,3.0,0.0,44.0,1.0,1499.0,Real-Betis
-,Francis Guerrero,es ESP,"DF,MF",14,10,0.0,1.0,2017-2018,59d53e8a,Real-Betis,993,11.0,2.0,0.0,44.0,1.0,1500.0,Real-Betis
-,Antonio Sanabria,py PAR,FW,17,8,0.0,8.0,2017-2018,0a447501,Real-Betis,853,9.5,0.0,0.0,44.0,43.0,1488.0,Real-Betis
-,Alin Toșca,ro ROU,DF,6,5,0.0,0.0,2017-2018,322ba2df,Real-Betis,423,4.7,0.0,0.0,44.0,51.0,1501.0,Real-Betis
-,Pedro López,es ESP,GK,5,4,0.0,0.0,2017-2018,bfa29677,Real-Betis,412,4.6,0.0,0.0,44.0,1.0,1461.0,Real-Betis
-,Dani Giménez,es ESP,GK,4,4,0.0,0.0,2017-2018,7c218bf9,Real-Betis,308,3.4,0.0,0.0,44.0,1.0,,Real-Betis
-,Juanjo Narváez,co COL,MF,7,4,0.0,0.0,2017-2018,485e4939,Real-Betis,304,3.4,0.0,0.0,44.0,19.0,1502.0,Real-Betis
-,Rubén Castro,es ESP,FW,10,3,1.0,1.0,2017-2018,d109f62b,Real-Betis,359,4.0,0.0,0.0,44.0,1.0,,Real-Betis
-,Matías Nahuel,es ESP,"MF,FW",7,3,0.0,0.0,2017-2018,48e4c485,Real-Betis,251,2.8,2.0,0.0,44.0,1.0,,Real-Betis
-,Joel Campbell,cr CRC,"MF,FW",8,2,1.0,2.0,2017-2018,895ff3ca,Real-Betis,214,2.4,1.0,0.0,44.0,22.0,1441.0,Real-Betis
-,Rafa Navarro,es ESP,DF,3,1,0.0,0.0,2017-2018,83627094,Real-Betis,134,1.5,0.0,0.0,44.0,1.0,1490.0,Real-Betis
-,Julio Gracia,es ESP,"DF,MF",2,0,0.0,0.0,2017-2018,314eeab1,Real-Betis,23,0.3,0.0,0.0,44.0,1.0,1503.0,Real-Betis
-,Aitor Ruibal,es ESP,MF,2,0,0.0,0.0,2017-2018,55d8df5,Real-Betis,9,0.1,0.0,0.0,44.0,1.0,1504.0,Real-Betis
-,Rebollo,es ESP,GK,0,0,,,2017-2018,3c251970,Real-Betis,,,,,44.0,1.0,1505.0,Real-Betis
-,Redru,es ESP,DF,0,0,,,2017-2018,70a6ce32,Real-Betis,,,,,44.0,1.0,1506.0,Real-Betis
-,﻿Aïssa Mandi,dz ALG,DF,35,34,1.0,1.0,2018-2019,fbd6378b,Real-Betis,"3,059",34.0,10.0,0.0,44.0,37.0,1486.0,Real-Betis
-,Pau López,es ESP,GK,33,33,0.0,0.0,2018-2019,20b9f052,Real-Betis,"2,970",33.0,3.0,0.0,44.0,1.0,1507.0,Real-Betis
-,Marc Bartra,es ESP,DF,33,33,0.0,1.0,2018-2019,b742cc0d,Real-Betis,"2,928",32.5,4.0,0.0,44.0,1.0,,Real-Betis
-,Sergio Canales,es ESP,MF,32,30,2.0,7.0,2018-2019,6de370d,Real-Betis,"2,655",29.5,5.0,0.0,44.0,1.0,93.0,Real-Betis
-,Giovani Lo Celso,ar ARG,"MF,FW",32,27,4.0,9.0,2018-2019,d7553721,Real-Betis,"2,397",26.6,5.0,0.0,44.0,5.0,1508.0,Real-Betis
-,Andrés Guardado,mx MEX,"MF,DF",31,27,4.0,0.0,2018-2019,f322658,Real-Betis,"2,335",25.9,8.0,0.0,44.0,20.0,,Real-Betis
-,William Carvalho,pt POR,MF,30,26,5.0,0.0,2018-2019,dee86451,Real-Betis,"2,385",26.5,7.0,0.0,44.0,3.0,1509.0,Real-Betis
-,Loren Morón,es ESP,FW,33,22,0.0,6.0,2018-2019,3aa4a3be,Real-Betis,"1,957",21.7,4.0,0.0,44.0,1.0,1499.0,Real-Betis
-,Junior Firpo,es ESP,"DF,FW",24,22,4.0,3.0,2018-2019,24f59bb2,Real-Betis,"1,937",21.5,7.0,0.0,44.0,1.0,,Real-Betis
-,Francis Guerrero,es ESP,"DF,FW",22,22,1.0,0.0,2018-2019,59d53e8a,Real-Betis,"1,778",19.8,2.0,0.0,44.0,1.0,1500.0,Real-Betis
-,Sidnei,br BRA,DF,24,20,0.0,1.0,2018-2019,b14d0c5d,Real-Betis,"1,742",19.4,4.0,0.0,44.0,2.0,,Real-Betis
-,Zouhair Feddal,ma MAR,DF,21,19,1.0,1.0,2018-2019,89151b16,Real-Betis,"1,702",18.9,7.0,0.0,44.0,26.0,1497.0,Real-Betis
-,Joaquín,es ESP,"FW,MF",30,17,0.0,6.0,2018-2019,4c5b14d2,Real-Betis,"1,696",18.8,5.0,0.0,44.0,1.0,,Real-Betis
-,Cristian Tello,es ESP,"DF,MF",29,13,6.0,4.0,2018-2019,72a99e38,Real-Betis,"1,573",17.5,3.0,0.0,44.0,1.0,,Real-Betis
-,Antonio Barragán,es ESP,"DF,FW",14,12,0.0,0.0,2018-2019,487d9b09,Real-Betis,934,10.4,4.0,0.0,44.0,1.0,,Real-Betis
-,Jesé,es ESP,"FW,MF",14,9,0.0,2.0,2018-2019,4a537185,Real-Betis,779,8.7,2.0,0.0,44.0,1.0,108.0,Real-Betis
-,Wilfrid Kaptoum,cm CMR,MF,10,9,0.0,0.0,2018-2019,d717630e,Real-Betis,773,8.6,2.0,0.0,44.0,36.0,,Real-Betis
-,Antonio Sanabria,py PAR,FW,15,8,0.0,2.0,2018-2019,0a447501,Real-Betis,811,9.0,2.0,0.0,44.0,43.0,1488.0,Real-Betis
-,Sergio León,es ESP,"FW,MF",16,6,1.0,0.0,2018-2019,0a0cc13c,Real-Betis,638,7.1,1.0,0.0,44.0,1.0,1496.0,Real-Betis
-,Ryad Boudebouz,dz ALG,"MF,FW",9,6,0.0,0.0,2018-2019,1001ae82,Real-Betis,539,6.0,1.0,0.0,44.0,37.0,,Real-Betis
-,Javi García,es ESP,"DF,MF",13,6,0.0,0.0,2018-2019,167c1bb0,Real-Betis,524,5.8,0.0,1.0,44.0,1.0,35.0,Real-Betis
-,Joel Robles,es ESP,GK,5,5,0.0,0.0,2018-2019,cda0b317,Real-Betis,450,5.0,0.0,0.0,44.0,1.0,1510.0,Real-Betis
-,Takashi Inui,jp JPN,MF,8,5,0.0,0.0,2018-2019,61bd33d0,Real-Betis,377,4.2,0.0,0.0,44.0,54.0,1511.0,Real-Betis
-,Emerson,br BRA,"FW,DF",6,4,0.0,0.0,2018-2019,df8b52a5,Real-Betis,317,3.5,1.0,0.0,44.0,2.0,,Real-Betis
-,Diego Lainez,mx MEX,"MF,FW",12,3,1.0,0.0,2018-2019,bf12926c,Real-Betis,353,3.9,2.0,0.0,44.0,20.0,1512.0,Real-Betis
-,Paul Akouokou,ci CIV,MF,0,0,,,2018-2019,31f5b89b,Real-Betis,,,,,44.0,35.0,1513.0,Real-Betis
-,Julio Alonso,es ESP,DF,0,0,,,2018-2019,8fcea8a1,Real-Betis,,,,,44.0,1.0,1514.0,Real-Betis
-,Diego Altamirano,es ESP,FW,0,0,,,2018-2019,d7752b89,Real-Betis,,,,,44.0,1.0,1515.0,Real-Betis
-,Darko Brašanac,rs SRB,MF,0,0,,,2018-2019,4accb7e0,Real-Betis,,,,,44.0,28.0,1487.0,Real-Betis
-,Roberto González,es ESP,MF,0,0,,,2018-2019,56545648,Real-Betis,,,,,44.0,1.0,1516.0,Real-Betis
-,Adrián Tellado,es ESP,MF,0,0,,,2018-2019,1fc9a88f,Real-Betis,,,,,44.0,1.0,1517.0,Real-Betis
-,﻿Sergio Canales,es ESP,MF,36,36,6.0,6.0,2019-2020,6de370d,Real-Betis,"3,163",35.1,5.0,0.0,44.0,1.0,93.0,Real-Betis
-,Joel Robles,es ESP,GK,33,33,0.0,0.0,2019-2020,cda0b317,Real-Betis,"2,887",32.1,3.0,1.0,44.0,1.0,1510.0,Real-Betis
-,Emerson,br BRA,DF,33,32,6.0,3.0,2019-2020,df8b52a5,Real-Betis,"2,839",31.5,11.0,0.0,44.0,2.0,,Real-Betis
-,Nabil Fekir,fr FRA,"MF,FW",32,31,4.0,7.0,2019-2020,bece776f,Real-Betis,"2,638",29.3,10.0,2.0,44.0,4.0,1518.0,Real-Betis
-,Aïssa Mandi,dz ALG,DF,29,29,0.0,0.0,2019-2020,fbd6378b,Real-Betis,"2,576",28.6,9.0,0.0,44.0,37.0,1486.0,Real-Betis
-,Marc Bartra,es ESP,"DF,MF",30,29,1.0,3.0,2019-2020,b742cc0d,Real-Betis,"2,524",28.0,8.0,0.0,44.0,1.0,,Real-Betis
-,Álex Moreno,es ESP,DF,31,25,4.0,0.0,2019-2020,16e9d0ea,Real-Betis,"2,265",25.2,5.0,0.0,44.0,1.0,1519.0,Real-Betis
-,Joaquín,es ESP,MF,34,25,3.0,8.0,2019-2020,4c5b14d2,Real-Betis,"2,060",22.9,4.0,0.0,44.0,1.0,,Real-Betis
-,Andrés Guardado,mx MEX,MF,28,25,3.0,0.0,2019-2020,f322658,Real-Betis,"2,046",22.7,9.0,0.0,44.0,20.0,,Real-Betis
-,Loren Morón,es ESP,FW,36,21,3.0,10.0,2019-2020,3aa4a3be,Real-Betis,"2,031",22.6,2.0,1.0,44.0,1.0,1499.0,Real-Betis
-,Borja Iglesias,es ESP,FW,35,21,2.0,3.0,2019-2020,75645f0e,Real-Betis,"1,922",21.4,3.0,1.0,44.0,1.0,,Real-Betis
-,Zouhair Feddal,ma MAR,DF,17,16,2.0,1.0,2019-2020,89151b16,Real-Betis,"1,431",15.9,10.0,2.0,44.0,26.0,1497.0,Real-Betis
-,Alfonso Pedraza,es ESP,DF,21,15,0.0,1.0,2019-2020,63f04c6c,Real-Betis,"1,349",15.0,3.0,0.0,44.0,1.0,1520.0,Real-Betis
-,Sidnei,br BRA,DF,14,14,0.0,1.0,2019-2020,b14d0c5d,Real-Betis,"1,175",13.1,1.0,0.0,44.0,2.0,,Real-Betis
-,Guido Rodríguez,ar ARG,MF,14,11,0.0,1.0,2019-2020,34e393f2,Real-Betis,936,10.4,5.0,0.0,44.0,5.0,1521.0,Real-Betis
-,William Carvalho,pt POR,MF,13,11,0.0,0.0,2019-2020,dee86451,Real-Betis,892,9.9,6.0,1.0,44.0,3.0,1509.0,Real-Betis
-,Édgar González,es ESP,MF,10,9,0.0,0.0,2019-2020,49d028db,Real-Betis,681,7.6,3.0,0.0,44.0,1.0,1522.0,Real-Betis
-,Carles Aleñá,es ESP,MF,17,7,0.0,1.0,2019-2020,6c811eb7,Real-Betis,735,8.2,1.0,0.0,44.0,1.0,,Real-Betis
-,Antonio Barragán,es ESP,DF,12,7,1.0,0.0,2019-2020,487d9b09,Real-Betis,641,7.1,3.0,0.0,44.0,1.0,,Real-Betis
-,Cristian Tello,es ESP,"MF,FW",27,5,0.0,2.0,2019-2020,72a99e38,Real-Betis,787,8.7,1.0,0.0,44.0,1.0,,Real-Betis
-,Daniel Martín,es ESP,GK,6,5,0.0,0.0,2019-2020,4df0dff8,Real-Betis,531,5.9,0.0,0.0,44.0,1.0,1523.0,Real-Betis
-,Javi García,es ESP,MF,8,4,0.0,0.0,2019-2020,167c1bb0,Real-Betis,377,4.2,2.0,0.0,44.0,1.0,35.0,Real-Betis
-,Diego Lainez,mx MEX,"MF,FW",15,2,0.0,0.0,2019-2020,bf12926c,Real-Betis,348,3.9,0.0,0.0,44.0,20.0,1512.0,Real-Betis
-,Juanmi,es ESP,MF,8,2,0.0,1.0,2019-2020,84399660,Real-Betis,264,2.9,2.0,1.0,44.0,1.0,,Real-Betis
-,Wilfrid Kaptoum,cm CMR,MF,5,2,0.0,0.0,2019-2020,d717630e,Real-Betis,194,2.2,1.0,0.0,44.0,36.0,,Real-Betis
-,Ismael,es ESP,MF,3,1,0.0,0.0,2019-2020,19cdceb0,Real-Betis,83,0.9,1.0,0.0,44.0,1.0,1524.0,Real-Betis
-,Raúl,es ESP,"FW,MF",3,0,0.0,0.0,2019-2020,18f0a9f0,Real-Betis,19,0.2,0.0,0.0,44.0,1.0,1525.0,Real-Betis
-,Baena,es ESP,FW,0,0,,,2019-2020,89e9bdcc,Real-Betis,,,,,44.0,1.0,1526.0,Real-Betis
-,Nil Garrido,es ESP,MF,0,0,,,2019-2020,da263c16,Real-Betis,,,,,44.0,1.0,1527.0,Real-Betis
-,Jime,es ESP,MF,0,0,,,2019-2020,227c27df,Real-Betis,,,,,44.0,1.0,1528.0,Real-Betis
-,José Luis Trápaga,es ESP,DF,0,0,,,2019-2020,3b40d0c0,Real-Betis,,,,,44.0,1.0,1529.0,Real-Betis
-,Carlos Marín,es ESP,GK,0,0,,,2019-2020,36ba66aa,Real-Betis,,,,,44.0,1.0,1530.0,Real-Betis
-,David Ramos,es ESP,MF,0,0,,,2019-2020,1ba96fea,Real-Betis,,,,,44.0,1.0,1531.0,Real-Betis
-,Rebollo,es ESP,GK,0,0,,,2019-2020,3c251970,Real-Betis,,,,,44.0,1.0,1505.0,Real-Betis
-,Rodrigo,es ESP,MF,0,0,,,2019-2020,85bed4ee,Real-Betis,,,,,44.0,1.0,1532.0,Real-Betis
-,Ricardo Visus,,,0,0,,,2019-2020,35f1a7a2,Real-Betis,,,,,44.0,,,Real-Betis
-,﻿Emerson,br BRA,DF,34,34,4.0,1.0,2020-2021,df8b52a5,Real-Betis,"2,991",33.2,9.0,1.0,44.0,2.0,,Real-Betis
-,Guido Rodríguez,ar ARG,MF,35,34,0.0,1.0,2020-2021,34e393f2,Real-Betis,"2,864",31.8,10.0,0.0,44.0,5.0,1521.0,Real-Betis
-,Nabil Fekir,fr FRA,"MF,FW",33,33,6.0,5.0,2020-2021,bece776f,Real-Betis,"2,622",29.1,5.0,1.0,44.0,4.0,1518.0,Real-Betis
-,Sergio Canales,es ESP,MF,31,28,6.0,8.0,2020-2021,6de370d,Real-Betis,"2,498",27.8,4.0,0.0,44.0,1.0,93.0,Real-Betis
-,Aïssa Mandi,dz ALG,DF,28,27,1.0,3.0,2020-2021,fbd6378b,Real-Betis,"2,392",26.6,6.0,2.0,44.0,37.0,1486.0,Real-Betis
-,Víctor Ruiz,es ESP,DF,27,24,0.0,2.0,2020-2021,b3dc6eca,Real-Betis,"2,157",24.0,9.0,0.0,44.0,1.0,,Real-Betis
-,Aitor Ruibal,es ESP,MF,28,21,2.0,2.0,2020-2021,55d8df5,Real-Betis,"1,593",17.7,2.0,0.0,44.0,1.0,1504.0,Real-Betis
-,Claudio Bravo,cl CHI,GK,20,20,0.0,0.0,2020-2021,10072610,Real-Betis,"1,800",20.0,3.0,0.0,44.0,31.0,,Real-Betis
-,Álex Moreno,es ESP,DF,23,20,2.0,0.0,2020-2021,16e9d0ea,Real-Betis,"1,786",19.8,4.0,0.0,44.0,1.0,1519.0,Real-Betis
-,Marc Bartra,es ESP,DF,19,19,1.0,0.0,2020-2021,b742cc0d,Real-Betis,"1,694",18.8,3.0,0.0,44.0,1.0,,Real-Betis
-,Juan Miranda,es ESP,DF,22,18,2.0,1.0,2020-2021,d61f73,Real-Betis,"1,652",18.4,4.0,0.0,44.0,1.0,,Real-Betis
-,Joel Robles,es ESP,GK,18,18,0.0,0.0,2020-2021,cda0b317,Real-Betis,"1,620",18.0,2.0,0.0,44.0,1.0,1510.0,Real-Betis
-,Andrés Guardado,mx MEX,MF,24,17,0.0,1.0,2020-2021,f322658,Real-Betis,"1,318",14.6,4.0,0.0,44.0,20.0,,Real-Betis
-,Joaquín,es ESP,MF,27,16,6.0,2.0,2020-2021,4c5b14d2,Real-Betis,"1,291",14.3,2.0,0.0,44.0,1.0,,Real-Betis
-,Borja Iglesias,es ESP,FW,28,15,0.0,11.0,2020-2021,75645f0e,Real-Betis,"1,411",15.7,2.0,0.0,44.0,1.0,,Real-Betis
-,Cristian Tello,es ESP,MF,29,12,3.0,5.0,2020-2021,72a99e38,Real-Betis,"1,283",14.3,2.0,1.0,44.0,1.0,,Real-Betis
-,William Carvalho,pt POR,MF,27,12,0.0,2.0,2020-2021,dee86451,Real-Betis,"1,223",13.6,6.0,1.0,44.0,3.0,1509.0,Real-Betis
-,Antonio Sanabria,py PAR,FW,16,10,0.0,3.0,2020-2021,0a447501,Real-Betis,932,10.4,2.0,0.0,44.0,43.0,1488.0,Real-Betis
-,Loren Morón,es ESP,FW,26,9,0.0,1.0,2020-2021,3aa4a3be,Real-Betis,991,11.0,2.0,0.0,44.0,1.0,1499.0,Real-Betis
-,Diego Lainez,mx MEX,MF,21,8,2.0,0.0,2020-2021,bf12926c,Real-Betis,862,9.6,5.0,0.0,44.0,20.0,1512.0,Real-Betis
-,Sidnei,br BRA,DF,11,7,0.0,0.0,2020-2021,b14d0c5d,Real-Betis,697,7.7,1.0,0.0,44.0,2.0,,Real-Betis
-,Juanmi,es ESP,"MF,FW",16,5,0.0,2.0,2020-2021,84399660,Real-Betis,604,6.7,1.0,0.0,44.0,1.0,,Real-Betis
-,Rodrigo,es ESP,MF,15,5,0.0,0.0,2020-2021,85bed4ee,Real-Betis,537,6.0,0.0,0.0,44.0,1.0,1532.0,Real-Betis
-,Paul Akouokou,ci CIV,MF,10,4,0.0,0.0,2020-2021,31f5b89b,Real-Betis,378,4.2,5.0,1.0,44.0,35.0,1513.0,Real-Betis
-,Martín Montoya,es ESP,DF,5,2,0.0,0.0,2020-2021,5cec2487,Real-Betis,239,2.7,0.0,1.0,44.0,1.0,,Real-Betis
-,Fran Delgado,es ESP,DF,0,0,,,2020-2021,7d2a50b,Real-Betis,,,,,44.0,1.0,1533.0,Real-Betis
-,Yassin Fekir,fr FRA,FW,0,0,,,2020-2021,6644712a,Real-Betis,,,,,44.0,4.0,1534.0,Real-Betis
-,Geovanni,es ESP,DF,0,0,,,2020-2021,66e73b1,Real-Betis,,,,,44.0,1.0,1535.0,Real-Betis
-,Carlos Marín,es ESP,GK,0,0,,,2020-2021,36ba66aa,Real-Betis,,,,,44.0,1.0,1530.0,Real-Betis
-,Daniel Martín,es ESP,GK,0,0,,,2020-2021,4df0dff8,Real-Betis,,,,,44.0,1.0,1523.0,Real-Betis
-,Rebollo,es ESP,GK,0,0,,,2020-2021,3c251970,Real-Betis,,,,,44.0,1.0,1505.0,Real-Betis
-,﻿Nabil Fekir,fr FRA,MF,34,33,8.0,6.0,2021-2022,bece776f,Real-Betis,"2,794",31.0,7.0,1.0,44.0,4.0,1518.0,Real-Betis
-,Sergio Canales,es ESP,MF,34,33,8.0,5.0,2021-2022,6de370d,Real-Betis,"2,791",31.0,6.0,0.0,44.0,1.0,93.0,Real-Betis
-,Guido Rodríguez,ar ARG,MF,32,29,2.0,1.0,2021-2022,34e393f2,Real-Betis,"2,529",28.1,9.0,1.0,44.0,5.0,1521.0,Real-Betis
-,Álex Moreno,es ESP,DF,30,28,3.0,5.0,2021-2022,16e9d0ea,Real-Betis,"2,404",26.7,3.0,1.0,44.0,1.0,1519.0,Real-Betis
-,Juanmi,es ESP,MF,33,26,4.0,16.0,2021-2022,84399660,Real-Betis,"2,131",23.7,5.0,0.0,44.0,1.0,,Real-Betis
-,Marc Bartra,es ESP,DF,23,23,0.0,1.0,2021-2022,b742cc0d,Real-Betis,"1,993",22.1,5.0,0.0,44.0,1.0,,Real-Betis
-,Germán Pezzella,ar ARG,DF,23,22,0.0,1.0,2021-2022,8c725b43,Real-Betis,"1,988",22.1,5.0,1.0,44.0,5.0,1476.0,Real-Betis
-,Héctor Bellerín,es ESP,DF,23,22,2.0,0.0,2021-2022,f874dd44,Real-Betis,"1,979",22.0,2.0,1.0,44.0,1.0,1536.0,Real-Betis
-,Rui Silva,pt POR,GK,22,21,0.0,0.0,2021-2022,83bfa6,Real-Betis,"1,964",21.8,2.0,0.0,44.0,3.0,1537.0,Real-Betis
-,William Carvalho,pt POR,MF,33,20,3.0,2.0,2021-2022,dee86451,Real-Betis,"1,805",20.1,6.0,0.0,44.0,3.0,1509.0,Real-Betis
-,Willian José,br BRA,FW,32,19,4.0,8.0,2021-2022,d87e2cae,Real-Betis,"1,604",17.8,2.0,0.0,44.0,2.0,120.0,Real-Betis
-,Borja Iglesias,es ESP,FW,33,18,0.0,10.0,2021-2022,75645f0e,Real-Betis,"1,573",17.5,4.0,0.0,44.0,1.0,,Real-Betis
-,Claudio Bravo,cl CHI,GK,17,17,0.0,0.0,2021-2022,10072610,Real-Betis,"1,456",16.2,2.0,0.0,44.0,31.0,,Real-Betis
-,Víctor Ruiz,es ESP,DF,18,17,0.0,0.0,2021-2022,b3dc6eca,Real-Betis,"1,424",15.8,2.0,0.0,44.0,1.0,,Real-Betis
-,Andrés Guardado,mx MEX,MF,28,17,1.0,0.0,2021-2022,f322658,Real-Betis,"1,393",15.5,4.0,0.0,44.0,20.0,,Real-Betis
-,Édgar González,es ESP,DF,21,14,1.0,1.0,2021-2022,49d028db,Real-Betis,"1,464",16.3,6.0,0.0,44.0,1.0,1522.0,Real-Betis
-,Rodrigo,es ESP,MF,21,10,2.0,1.0,2021-2022,85bed4ee,Real-Betis,881,9.8,1.0,0.0,44.0,1.0,1532.0,Real-Betis
-,Aitor Ruibal,es ESP,"MF,DF",19,9,0.0,0.0,2021-2022,55d8df5,Real-Betis,856,9.5,6.0,0.0,44.0,1.0,1504.0,Real-Betis
-,Youssouf Sabaly,sn SEN,DF,10,9,1.0,0.0,2021-2022,fbbb9269,Real-Betis,788,8.8,1.0,0.0,44.0,34.0,1538.0,Real-Betis
-,Juan Miranda,es ESP,DF,13,9,2.0,0.0,2021-2022,d61f73,Real-Betis,783,8.7,3.0,0.0,44.0,1.0,,Real-Betis
-,Martín Montoya,es ESP,DF,6,6,1.0,0.0,2021-2022,5cec2487,Real-Betis,518,5.8,2.0,0.0,44.0,1.0,,Real-Betis
-,Paul Akouokou,ci CIV,MF,8,6,0.0,0.0,2021-2022,31f5b89b,Real-Betis,516,5.7,2.0,1.0,44.0,35.0,1513.0,Real-Betis
-,Cristian Tello,es ESP,MF,23,5,2.0,2.0,2021-2022,72a99e38,Real-Betis,819,9.1,2.0,0.0,44.0,1.0,,Real-Betis
-,Joaquín,es ESP,MF,21,2,1.0,0.0,2021-2022,4c5b14d2,Real-Betis,471,5.2,0.0,0.0,44.0,1.0,,Real-Betis
-,Diego Lainez,mx MEX,MF,7,1,0.0,0.0,2021-2022,bf12926c,Real-Betis,140,1.6,0.0,0.0,44.0,20.0,1512.0,Real-Betis
-,Roberto González,es ESP,MF,4,1,0.0,0.0,2021-2022,56545648,Real-Betis,135,1.5,0.0,0.0,44.0,1.0,1516.0,Real-Betis
-,Kike Hermoso,es ESP,DF,1,1,0.0,1.0,2021-2022,dea912dc,Real-Betis,90,1.0,0.0,0.0,44.0,1.0,1539.0,Real-Betis
-,Víctor Camarasa,es ESP,"MF,FW",7,0,0.0,0.0,2021-2022,b2d03887,Real-Betis,108,1.2,0.0,0.0,44.0,1.0,1498.0,Real-Betis
-,Calderón,es ESP,DF,1,0,0.0,0.0,2021-2022,da4e70e5,Real-Betis,65,0.7,0.0,0.0,44.0,1.0,1540.0,Real-Betis
-,Loren Morón,es ESP,FW,1,0,0.0,0.0,2021-2022,3aa4a3be,Real-Betis,4,0.0,0.0,0.0,44.0,1.0,1499.0,Real-Betis
-,Raúl,es ESP,"MF,DF",1,0,0.0,0.0,2021-2022,18f0a9f0,Real-Betis,1,0.0,0.0,0.0,44.0,1.0,1525.0,Real-Betis
-,Fran Delgado,es ESP,DF,0,0,,,2021-2022,7d2a50b,Real-Betis,,,,,44.0,1.0,1533.0,Real-Betis
-,Yassin Fekir,fr FRA,FW,0,0,,,2021-2022,6644712a,Real-Betis,,,,,44.0,4.0,1534.0,Real-Betis
-,Marchena,es ESP,MF,0,0,,,2021-2022,c0178833,Real-Betis,,,,,44.0,1.0,1541.0,Real-Betis
-,Rebollo,es ESP,GK,0,0,,,2021-2022,3c251970,Real-Betis,,,,,44.0,1.0,1505.0,Real-Betis
-,Joel Robles,es ESP,GK,0,0,,,2021-2022,cda0b317,Real-Betis,,,,,44.0,1.0,1510.0,Real-Betis
-,Sidnei,br BRA,DF,0,0,,,2021-2022,b14d0c5d,Real-Betis,,,,,44.0,2.0,,Real-Betis
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Toni Prats,es ESP,GK,38,38,0.0,0.0,2002-2003,/en/players/b40adcd0/Toni-Prats,b40adcd0,Real-Betis,"3,420",38.0,3.0,0.0,44,1.0,1348,Real-Betis
+,Joaquín,es ESP,"FW,MF",37,36,11.0,9.0,2002-2003,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"3,139",34.9,2.0,1.0,44,1.0,907,Real-Betis
+,Fernando Varela,es ESP,"DF,MF",34,31,1.0,1.0,2002-2003,/en/players/d7b759af/Fernando-Varela,d7b759af,Real-Betis,"2,834",31.5,17.0,1.0,44,1.0,1349,Real-Betis
+,Arzu,es ESP,"DF,MF",35,30,2.0,4.0,2002-2003,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"2,650",29.4,6.0,0.0,44,1.0,1350,Real-Betis
+,Luis Fernández,es ESP,DF,30,29,0.0,0.0,2002-2003,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Real-Betis,"2,507",27.9,12.0,1.0,44,1.0,1351,Real-Betis
+,Capi,es ESP,MF,33,28,3.0,5.0,2002-2003,/en/players/523503fe/Capi,523503fe,Real-Betis,"2,583",28.7,3.0,0.0,44,1.0,1352,Real-Betis
+,Marcos Assunção,br BRA,MF,30,27,6.0,5.0,2002-2003,/en/players/2c563885/Marcos-Assuncao,2c563885,Real-Betis,"2,386",26.5,9.0,0.0,44,2.0,1353,Real-Betis
+,Fernando,es ESP,"FW,MF",35,26,4.0,15.0,2002-2003,/en/players/2a81fa5d/Fernando,2a81fa5d,Real-Betis,"2,440",27.1,7.0,0.0,44,1.0,1354,Real-Betis
+,Juanito,es ESP,DF,26,26,0.0,2.0,2002-2003,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"2,313",25.7,5.0,0.0,44,1.0,1355,Real-Betis
+,Denílson,br BRA,MF,25,23,5.0,2.0,2002-2003,/en/players/87582241/Denilson,87582241,Real-Betis,"1,953",21.7,5.0,2.0,44,2.0,1356,Real-Betis
+,Ito,es ESP,MF,26,21,1.0,0.0,2002-2003,/en/players/dc620005/Ito,dc620005,Real-Betis,"1,911",21.2,9.0,0.0,44,1.0,1357,Real-Betis
+,Iulian Filipescu,ro ROU,DF,19,18,0.0,2.0,2002-2003,/en/players/4ba41443/Iulian-Filipescu,4ba41443,Real-Betis,"1,459",16.2,7.0,2.0,44,51.0,1358,Real-Betis
+,David Rivas,es ESP,DF,19,16,0.0,0.0,2002-2003,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,"1,502",16.7,2.0,0.0,44,1.0,1359,Real-Betis
+,Alfonso Pérez,es ESP,FW,15,11,2.0,6.0,2002-2003,/en/players/22a2f25e/Alfonso-Perez,22a2f25e,Real-Betis,"1,053",11.7,8.0,0.0,44,1.0,1360,Real-Betis
+,Mingo,es ESP,DF,12,8,1.0,0.0,2002-2003,/en/players/6fc287d5/Mingo,6fc287d5,Real-Betis,673,7.5,2.0,0.0,44,1.0,1361,Real-Betis
+,Gastón Casas,ar ARG,FW,19,7,2.0,1.0,2002-2003,/en/players/66258864/Gaston-Casas,66258864,Real-Betis,664,7.4,3.0,1.0,44,5.0,1362,Real-Betis
+,Melli,es ESP,DF,8,7,0.0,0.0,2002-2003,/en/players/83215889/Melli,83215889,Real-Betis,648,7.2,4.0,0.0,44,1.0,1363,Real-Betis
+,Daniel Martín,es ESP,FW,10,7,,4.0,2002-2003,/en/players/c8d2987f/Daniel-Martin,c8d2987f,Real-Betis,546,6.1,1.0,0.0,44,1.0,1364,Real-Betis
+,Washington Tais,uy URU,DF,8,7,0.0,0.0,2002-2003,/en/players/6b310a03/Washington-Tais,6b310a03,Real-Betis,543,6.0,3.0,0.0,44,8.0,1365,Real-Betis
+,Benjamín Zarandona,gq EQG,MF,16,7,0.0,0.0,2002-2003,/en/players/4922ac7a/Benjamin-Zarandona,4922ac7a,Real-Betis,512,5.7,2.0,0.0,44,10.0,1366,Real-Betis
+,João Tomás,pt POR,FW,11,5,0.0,0.0,2002-2003,/en/players/74b3eb9d/Joao-Tomas,74b3eb9d,Real-Betis,548,6.1,1.0,0.0,44,3.0,1367,Real-Betis
+,Juan José Cañas,es ESP,MF,11,4,0.0,0.0,2002-2003,/en/players/72a2e37e/Juan-Jose-Canas,72a2e37e,Real-Betis,438,4.9,1.0,0.0,44,1.0,1368,Real-Betis
+,David Belenguer,es ESP,DF,3,3,0.0,0.0,2002-2003,/en/players/68c448f7/David-Belenguer,68c448f7,Real-Betis,270,3.0,0.0,0.0,44,1.0,1369,Real-Betis
+,César de Loma,es ESP,MF,6,1,,0.0,2002-2003,/en/players/bd95bcc9/Cesar-de-Loma,bd95bcc9,Real-Betis,155,1.7,1.0,0.0,44,1.0,1370,Real-Betis
+,José Calado,pt POR,MF,8,1,0.0,0.0,2002-2003,/en/players/51bb57da/Jose-Calado,51bb57da,Real-Betis,144,1.6,2.0,0.0,44,3.0,1371,Real-Betis
+,Tati Maldonado,es ESP,FW,3,1,0.0,0.0,2002-2003,/en/players/57dc3c00/Tati-Maldonado,57dc3c00,Real-Betis,113,1.3,0.0,0.0,44,1.0,1372,Real-Betis
+,Francisco Javier Flores Sánchez,es ESP,,1,0,0.0,0.0,2002-2003,/en/players/090ac9c8/Francisco-Javier-Flores-Sanchez,090ac9c8,Real-Betis,15,0.2,0.0,0.0,44,1.0,90009,Real-Betis
+,Joey Guðjónsson,is ISL,MF,1,0,0.0,0.0,2002-2003,/en/players/b79e0fde/Joey-Gudjonsson,b79e0fde,Real-Betis,3,0.0,0.0,0.0,44,40.0,1373,Real-Betis
+,﻿Joaquín,es ESP,"FW,MF",36,36,7.0,8.0,2003-2004,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"3,178",35.3,5.0,1.0,44,1.0,907,Real-Betis
+,Juanito,es ESP,DF,35,35,0.0,4.0,2003-2004,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"3,083",34.3,3.0,0.0,44,1.0,1355,Real-Betis
+,Alejandro Lembo,uy URU,DF,29,28,2.0,1.0,2003-2004,/en/players/e2d08dd6/Alejandro-Lembo,2d08dd6,Real-Betis,"2,474",27.5,14.0,1.0,44,8.0,1374,Real-Betis
+,Fernando Varela,es ESP,"DF,MF",28,25,0.0,1.0,2003-2004,/en/players/d7b759af/Fernando-Varela,d7b759af,Real-Betis,"2,273",25.3,9.0,0.0,44,1.0,1349,Real-Betis
+,Denílson,br BRA,MF,29,24,4.0,2.0,2003-2004,/en/players/87582241/Denilson,87582241,Real-Betis,"1,890",21.0,3.0,0.0,44,2.0,1356,Real-Betis
+,Pedro Contreras,es ESP,GK,22,22,0.0,0.0,2003-2004,/en/players/7d21afdb/Pedro-Contreras,7d21afdb,Real-Betis,"1,971",21.9,2.0,0.0,44,1.0,1375,Real-Betis
+,Ito,es ESP,MF,30,22,1.0,0.0,2003-2004,/en/players/dc620005/Ito,dc620005,Real-Betis,"1,909",21.2,6.0,1.0,44,1.0,1357,Real-Betis
+,Fernando,es ESP,"FW,MF",31,22,3.0,4.0,2003-2004,/en/players/2a81fa5d/Fernando,2a81fa5d,Real-Betis,"1,810",20.1,2.0,0.0,44,1.0,1354,Real-Betis
+,Arzu,es ESP,"DF,MF",30,20,4.0,0.0,2003-2004,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"1,952",21.7,9.0,0.0,44,1.0,1350,Real-Betis
+,Luis Fernández,es ESP,DF,20,19,0.0,0.0,2003-2004,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Real-Betis,"1,756",19.5,8.0,1.0,44,1.0,1351,Real-Betis
+,David Rivas,es ESP,DF,25,18,0.0,0.0,2003-2004,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,"1,747",19.4,6.0,0.0,44,1.0,1359,Real-Betis
+,Benjamín Zarandona,gq EQG,MF,22,18,0.0,3.0,2003-2004,/en/players/4922ac7a/Benjamin-Zarandona,4922ac7a,Real-Betis,"1,655",18.4,2.0,1.0,44,10.0,1366,Real-Betis
+,Marcos Assunção,br BRA,MF,19,18,2.0,7.0,2003-2004,/en/players/2c563885/Marcos-Assuncao,2c563885,Real-Betis,"1,533",17.0,2.0,0.0,44,2.0,1353,Real-Betis
+,Toni Prats,es ESP,GK,16,16,0.0,0.0,2003-2004,/en/players/b40adcd0/Toni-Prats,b40adcd0,Real-Betis,"1,440",16.0,1.0,0.0,44,1.0,1348,Real-Betis
+,Ismael Santiago,es ESP,MF,32,14,1.0,1.0,2003-2004,/en/players/59c55e77/Ismael-Santiago,59c55e77,Real-Betis,"1,520",16.9,1.0,0.0,44,1.0,1376,Real-Betis
+,Alfonso Pérez,es ESP,FW,20,14,2.0,4.0,2003-2004,/en/players/22a2f25e/Alfonso-Perez,22a2f25e,Real-Betis,"1,308",14.5,1.0,0.0,44,1.0,1360,Real-Betis
+,Daniel Martín,es ESP,FW,19,13,2.0,4.0,2003-2004,/en/players/c8d2987f/Daniel-Martin,c8d2987f,Real-Betis,"1,120",12.4,2.0,0.0,44,1.0,1364,Real-Betis
+,Capi,es ESP,MF,24,12,0.0,2.0,2003-2004,/en/players/523503fe/Capi,523503fe,Real-Betis,"1,290",14.3,6.0,0.0,44,1.0,1352,Real-Betis
+,Mingo,es ESP,DF,12,12,0.0,1.0,2003-2004,/en/players/6fc287d5/Mingo,6fc287d5,Real-Betis,"1,009",11.2,2.0,0.0,44,1.0,1361,Real-Betis
+,Tote,es ESP,"FW,MF",17,9,2.0,2.0,2003-2004,/en/players/e3e74421/Tote,3e74421,Real-Betis,823,9.1,1.0,0.0,44,1.0,22,Real-Betis
+,Washington Tais,uy URU,DF,8,8,0.0,0.0,2003-2004,/en/players/6b310a03/Washington-Tais,6b310a03,Real-Betis,691,7.7,3.0,1.0,44,8.0,1365,Real-Betis
+,Martín Palermo,ar ARG,FW,11,7,0.0,2.0,2003-2004,/en/players/02aa1dbe/Martin-Palermo,02aa1dbe,Real-Betis,618,6.9,1.0,0.0,44,5.0,1377,Real-Betis
+,Melli,es ESP,DF,4,4,0.0,0.0,2003-2004,/en/players/83215889/Melli,83215889,Real-Betis,287,3.2,2.0,0.0,44,1.0,1363,Real-Betis
+,Juan José Cañas,es ESP,MF,7,1,0.0,0.0,2003-2004,/en/players/72a2e37e/Juan-Jose-Canas,72a2e37e,Real-Betis,144,1.6,0.0,0.0,44,1.0,1368,Real-Betis
+,Tati Maldonado,es ESP,FW,1,0,,0.0,2003-2004,/en/players/57dc3c00/Tati-Maldonado,57dc3c00,Real-Betis,21,0.2,0.0,0.0,44,1.0,1372,Real-Betis
+,Antonio Román,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/c518d89e/Antonio-Roman,c518d89e,Real-Betis,16,0.2,0.0,0.0,44,1.0,1378,Real-Betis
+,David Relaño Luque,es ESP,GK,1,0,0.0,0.0,2003-2004,/en/players/0fa393b5/David-Relano-Luque,0fa393b5,Real-Betis,9,0.1,0.0,0.0,44,1.0,1379,Real-Betis
+,﻿Ricardo Oliveira,br BRA,FW,37,37,5.0,22.0,2004-2005,/en/players/420c1246/Ricardo-Oliveira,420c1246,Real-Betis,"3,283",36.5,5.0,1.0,44,2.0,885,Real-Betis
+,Joaquín,es ESP,"FW,MF",38,37,15.0,5.0,2004-2005,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"3,257",36.2,2.0,0.0,44,1.0,907,Real-Betis
+,Juanito,es ESP,DF,33,33,1.0,4.0,2004-2005,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"2,949",32.8,10.0,1.0,44,1.0,1355,Real-Betis
+,David Rivas,es ESP,DF,32,32,2.0,4.0,2004-2005,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,"2,836",31.5,6.0,1.0,44,1.0,1359,Real-Betis
+,Edu,br BRA,"FW,MF",32,32,4.0,11.0,2004-2005,/en/players/71a2b3ed/Edu,71a2b3ed,Real-Betis,"2,652",29.5,4.0,0.0,44,2.0,619,Real-Betis
+,Fernando,es ESP,"FW,MF",34,31,4.0,5.0,2004-2005,/en/players/2a81fa5d/Fernando,2a81fa5d,Real-Betis,"2,426",27.0,3.0,0.0,44,1.0,1354,Real-Betis
+,Marcos Assunção,br BRA,MF,34,29,4.0,8.0,2004-2005,/en/players/2c563885/Marcos-Assuncao,2c563885,Real-Betis,"2,679",29.8,7.0,1.0,44,2.0,1353,Real-Betis
+,Toni Doblas,es ESP,GK,29,29,0.0,0.0,2004-2005,/en/players/d5c35223/Toni-Doblas,d5c35223,Real-Betis,"2,610",29.0,3.0,0.0,44,1.0,1380,Real-Betis
+,Melli,es ESP,DF,29,28,1.0,1.0,2004-2005,/en/players/83215889/Melli,83215889,Real-Betis,"2,518",28.0,8.0,0.0,44,1.0,1363,Real-Betis
+,Arzu,es ESP,"DF,MF",30,23,1.0,0.0,2004-2005,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"2,022",22.5,6.0,0.0,44,1.0,1350,Real-Betis
+,Luis Fernández,es ESP,DF,22,20,0.0,0.0,2004-2005,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Real-Betis,"1,714",19.0,7.0,1.0,44,1.0,1351,Real-Betis
+,Juan José Cañas,es ESP,MF,24,18,0.0,0.0,2004-2005,/en/players/72a2e37e/Juan-Jose-Canas,72a2e37e,Real-Betis,"1,515",16.8,8.0,0.0,44,1.0,1368,Real-Betis
+,Fernando Varela,es ESP,"DF,MF",24,16,3.0,0.0,2004-2005,/en/players/d7b759af/Fernando-Varela,d7b759af,Real-Betis,"1,627",18.1,7.0,0.0,44,1.0,1349,Real-Betis
+,Washington Tais,uy URU,DF,11,11,0.0,0.0,2004-2005,/en/players/6b310a03/Washington-Tais,6b310a03,Real-Betis,958,10.6,2.0,0.0,44,8.0,1365,Real-Betis
+,Benjamín Zarandona,gq EQG,MF,26,9,0.0,0.0,2004-2005,/en/players/4922ac7a/Benjamin-Zarandona,4922ac7a,Real-Betis,968,10.8,2.0,0.0,44,10.0,1366,Real-Betis
+,Toni Prats,es ESP,GK,9,9,0.0,0.0,2004-2005,/en/players/b40adcd0/Toni-Prats,b40adcd0,Real-Betis,810,9.0,1.0,0.0,44,1.0,1348,Real-Betis
+,Alejandro Lembo,uy URU,DF,13,7,1.0,0.0,2004-2005,/en/players/e2d08dd6/Alejandro-Lembo,2d08dd6,Real-Betis,759,8.4,5.0,2.0,44,8.0,1374,Real-Betis
+,Paolo Castellini,it ITA,DF,6,6,0.0,0.0,2004-2005,/en/players/be445f85/Paolo-Castellini,be445f85,Real-Betis,540,6.0,2.0,0.0,44,9.0,1381,Real-Betis
+,Capi,es ESP,MF,11,3,1.0,0.0,2004-2005,/en/players/523503fe/Capi,523503fe,Real-Betis,345,3.8,2.0,0.0,44,1.0,1352,Real-Betis
+,Denílson,br BRA,MF,10,3,0.0,0.0,2004-2005,/en/players/87582241/Denilson,87582241,Real-Betis,289,3.2,0.0,0.0,44,2.0,1356,Real-Betis
+,Pablo Niño,es ESP,MF,6,3,0.0,0.0,2004-2005,/en/players/eb477bff/Pablo-Nino,b477bff,Real-Betis,266,3.0,2.0,0.0,44,1.0,1382,Real-Betis
+,Israel,es ESP,MF,8,1,0.0,0.0,2004-2005,/en/players/bf6d20c9/Israel,bf6d20c9,Real-Betis,215,2.4,1.0,0.0,44,1.0,1383,Real-Betis
+,Ismael Santiago,es ESP,MF,4,1,,0.0,2004-2005,/en/players/59c55e77/Ismael-Santiago,59c55e77,Real-Betis,118,1.3,1.0,0.0,44,1.0,1376,Real-Betis
+,Alfonso Pérez,es ESP,FW,10,0,0.0,0.0,2004-2005,/en/players/22a2f25e/Alfonso-Perez,22a2f25e,Real-Betis,186,2.1,1.0,0.0,44,1.0,1360,Real-Betis
+,Daniel Martín,es ESP,FW,7,0,0.0,1.0,2004-2005,/en/players/c8d2987f/Daniel-Martin,c8d2987f,Real-Betis,86,1.0,0.0,0.0,44,1.0,1364,Real-Betis
+,﻿Joaquín,es ESP,"FW,MF",35,35,6.0,3.0,2005-2006,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"3,047",33.9,6.0,1.0,44,1.0,907,Real-Betis
+,Juanito,es ESP,DF,34,34,0.0,2.0,2005-2006,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"3,060",34.0,6.0,0.0,44,1.0,1355,Real-Betis
+,Edu,br BRA,"FW,MF",34,34,6.0,3.0,2005-2006,/en/players/71a2b3ed/Edu,71a2b3ed,Real-Betis,"2,971",33.0,5.0,0.0,44,2.0,619,Real-Betis
+,Melli,es ESP,DF,31,30,1.0,0.0,2005-2006,/en/players/83215889/Melli,83215889,Real-Betis,"2,577",28.6,10.0,1.0,44,1.0,1363,Real-Betis
+,Alberto Rivera,es ESP,MF,34,28,0.0,0.0,2005-2006,/en/players/7002b605/Alberto-Rivera,7002b605,Real-Betis,"2,648",29.4,7.0,1.0,44,1.0,1384,Real-Betis
+,Fernando Varela,es ESP,"DF,MF",29,26,0.0,1.0,2005-2006,/en/players/d7b759af/Fernando-Varela,d7b759af,Real-Betis,"2,318",25.8,3.0,1.0,44,1.0,1349,Real-Betis
+,Toni Doblas,es ESP,GK,24,23,0.0,0.0,2005-2006,/en/players/d5c35223/Toni-Doblas,d5c35223,Real-Betis,"2,009",22.3,3.0,0.0,44,1.0,1380,Real-Betis
+,Marcos Assunção,br BRA,MF,25,21,4.0,1.0,2005-2006,/en/players/2c563885/Marcos-Assuncao,2c563885,Real-Betis,"1,830",20.3,3.0,0.0,44,2.0,1353,Real-Betis
+,David Rivas,es ESP,DF,21,19,0.0,1.0,2005-2006,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,"1,618",18.0,6.0,0.0,44,1.0,1359,Real-Betis
+,Arzu,es ESP,"DF,MF",29,19,0.0,1.0,2005-2006,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"1,616",18.0,3.0,0.0,44,1.0,1350,Real-Betis
+,Luis Fernández,es ESP,DF,19,19,0.0,1.0,2005-2006,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Real-Betis,"1,524",16.9,6.0,0.0,44,1.0,1351,Real-Betis
+,Óscar López,es ESP,DF,18,18,0.0,0.0,2005-2006,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Real-Betis,"1,610",17.9,7.0,1.0,44,1.0,1069,Real-Betis
+,Xisco,es ESP,"FW,MF",25,16,2.0,1.0,2005-2006,/en/players/efaaae13/Xisco,faaae13,Real-Betis,"1,357",15.1,5.0,0.0,44,1.0,887,Real-Betis
+,Pedro Contreras,es ESP,GK,17,15,0.0,0.0,2005-2006,/en/players/7d21afdb/Pedro-Contreras,7d21afdb,Real-Betis,"1,411",15.7,0.0,1.0,44,1.0,1375,Real-Betis
+,Capi,es ESP,MF,21,14,1.0,1.0,2005-2006,/en/players/523503fe/Capi,523503fe,Real-Betis,"1,216",13.5,4.0,0.0,44,1.0,1352,Real-Betis
+,Robert,br BRA,FW,19,13,1.0,7.0,2005-2006,/en/players/05ac7500/Robert,05ac7500,Real-Betis,"1,225",13.6,5.0,0.0,44,2.0,1385,Real-Betis
+,Daniel Martín,es ESP,FW,25,12,1.0,5.0,2005-2006,/en/players/c8d2987f/Daniel-Martin,c8d2987f,Real-Betis,"1,135",12.6,3.0,0.0,44,1.0,1364,Real-Betis
+,Nano,es ESP,DF,13,10,1.0,0.0,2005-2006,/en/players/3d6dd9f9/Nano,3d6dd9f9,Real-Betis,932,10.4,6.0,0.0,44,1.0,1386,Real-Betis
+,Ricardo Oliveira,br BRA,FW,9,9,0.0,4.0,2005-2006,/en/players/420c1246/Ricardo-Oliveira,420c1246,Real-Betis,718,8.0,4.0,1.0,44,2.0,885,Real-Betis
+,Paolo Castellini,it ITA,DF,7,6,0.0,0.0,2005-2006,/en/players/be445f85/Paolo-Castellini,be445f85,Real-Betis,556,6.2,2.0,0.0,44,9.0,1381,Real-Betis
+,Miguel Ángel,es ESP,MF,10,6,0.0,0.0,2005-2006,/en/players/7542ce83/Miguel-Angel,7542ce83,Real-Betis,526,5.8,5.0,0.0,44,1.0,1387,Real-Betis
+,Diego Tardelli,br BRA,"FW,MF",12,5,2.0,0.0,2005-2006,/en/players/98682f30/Diego-Tardelli,98682f30,Real-Betis,551,6.1,1.0,0.0,44,2.0,1388,Real-Betis
+,Fernando,es ESP,"FW,MF",13,3,1.0,1.0,2005-2006,/en/players/2a81fa5d/Fernando,2a81fa5d,Real-Betis,468,5.2,0.0,0.0,44,1.0,1354,Real-Betis
+,Israel,es ESP,MF,8,1,0.0,0.0,2005-2006,/en/players/bf6d20c9/Israel,bf6d20c9,Real-Betis,231,2.6,1.0,0.0,44,1.0,1383,Real-Betis
+,Alejandro Lembo,uy URU,DF,2,1,,0.0,2005-2006,/en/players/e2d08dd6/Alejandro-Lembo,2d08dd6,Real-Betis,92,1.0,0.0,0.0,44,8.0,1374,Real-Betis
+,Juan José Cañas,es ESP,MF,3,1,0.0,0.0,2005-2006,/en/players/72a2e37e/Juan-Jose-Canas,72a2e37e,Real-Betis,60,0.7,0.0,0.0,44,1.0,1368,Real-Betis
+,Juanlu,es ESP,MF,3,0,0.0,0.0,2005-2006,/en/players/94b88487/Juanlu,94b88487,Real-Betis,97,1.1,0.0,0.0,44,1.0,1389,Real-Betis
+,﻿Juanito,es ESP,DF,34,34,0.0,3.0,2006-2007,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"3,051",33.9,5.0,0.0,44,1.0,1355,Real-Betis
+,Melli,es ESP,DF,27,26,0.0,0.0,2006-2007,/en/players/83215889/Melli,83215889,Real-Betis,"2,325",25.8,9.0,0.0,44,1.0,1363,Real-Betis
+,Edu,br BRA,"FW,MF",29,25,2.0,8.0,2006-2007,/en/players/71a2b3ed/Edu,71a2b3ed,Real-Betis,"2,212",24.6,4.0,2.0,44,2.0,619,Real-Betis
+,Rafael Sóbis,br BRA,"FW,MF",31,24,0.0,4.0,2006-2007,/en/players/aed1e36b/Rafael-Sobis,d1e36b,Real-Betis,"2,162",24.0,2.0,1.0,44,2.0,1390,Real-Betis
+,Toni Doblas,es ESP,GK,22,22,0.0,0.0,2006-2007,/en/players/d5c35223/Toni-Doblas,d5c35223,Real-Betis,"1,980",22.0,4.0,0.0,44,1.0,1380,Real-Betis
+,Alberto Rivera,es ESP,MF,27,22,1.0,1.0,2006-2007,/en/players/7002b605/Alberto-Rivera,7002b605,Real-Betis,"1,888",21.0,4.0,0.0,44,1.0,1384,Real-Betis
+,Marcos Assunção,br BRA,MF,27,21,5.0,2.0,2006-2007,/en/players/2c563885/Marcos-Assuncao,2c563885,Real-Betis,"1,978",22.0,8.0,0.0,44,2.0,1353,Real-Betis
+,Robert,br BRA,FW,29,20,3.0,9.0,2006-2007,/en/players/05ac7500/Robert,05ac7500,Real-Betis,"1,817",20.2,3.0,0.0,44,2.0,1385,Real-Betis
+,Nano,es ESP,DF,21,20,2.0,0.0,2006-2007,/en/players/3d6dd9f9/Nano,3d6dd9f9,Real-Betis,"1,750",19.4,5.0,2.0,44,1.0,1386,Real-Betis
+,Capi,es ESP,MF,29,19,2.0,2.0,2006-2007,/en/players/523503fe/Capi,523503fe,Real-Betis,"1,702",18.9,7.0,1.0,44,1.0,1352,Real-Betis
+,Enrique Romero,es ESP,DF,17,17,1.0,0.0,2006-2007,/en/players/7714c21a/Enrique-Romero,7714c21a,Real-Betis,"1,476",16.4,3.0,0.0,44,1.0,366,Real-Betis
+,Miguel Ángel,es ESP,MF,23,16,2.0,0.0,2006-2007,/en/players/7542ce83/Miguel-Angel,7542ce83,Real-Betis,"1,489",16.5,8.0,1.0,44,1.0,1387,Real-Betis
+,Pedro Contreras,es ESP,GK,16,16,0.0,0.0,2006-2007,/en/players/7d21afdb/Pedro-Contreras,7d21afdb,Real-Betis,"1,440",16.0,2.0,1.0,44,1.0,1375,Real-Betis
+,Arzu,es ESP,"DF,MF",16,15,1.0,1.0,2006-2007,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"1,134",12.6,2.0,0.0,44,1.0,1350,Real-Betis
+,Johann Vogel,ch SUI,MF,17,14,0.0,0.0,2006-2007,/en/players/6b002e31/Johann-Vogel,6b002e31,Real-Betis,"1,248",13.9,4.0,1.0,44,39.0,1391,Real-Betis
+,Fernando Vega,es ESP,DF,17,13,0.0,0.0,2006-2007,/en/players/4a5e41f8/Fernando-Vega,4a5e41f8,Real-Betis,"1,289",14.3,4.0,0.0,44,1.0,1392,Real-Betis
+,Branko Ilić,si SVN,DF,13,13,2.0,0.0,2006-2007,/en/players/5e607b28/Branko-Ilic,5e607b28,Real-Betis,"1,120",12.4,2.0,0.0,44,32.0,1393,Real-Betis
+,Fernando,es ESP,"FW,MF",25,12,0.0,2.0,2006-2007,/en/players/2a81fa5d/Fernando,2a81fa5d,Real-Betis,"1,316",14.6,2.0,0.0,44,1.0,1354,Real-Betis
+,David Rivas,es ESP,DF,11,11,0.0,0.0,2006-2007,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,937,10.4,1.0,0.0,44,1.0,1359,Real-Betis
+,Xisco,es ESP,"FW,MF",17,9,1.0,3.0,2006-2007,/en/players/efaaae13/Xisco,faaae13,Real-Betis,848,9.4,2.0,0.0,44,1.0,887,Real-Betis
+,David Odonkor,de GER,"FW,MF",13,8,1.0,0.0,2006-2007,/en/players/60b041db/David-Odonkor,60b041db,Real-Betis,674,7.5,3.0,0.0,44,13.0,1394,Real-Betis
+,Tati Maldonado,es ESP,FW,15,8,1.0,0.0,2006-2007,/en/players/57dc3c00/Tati-Maldonado,57dc3c00,Real-Betis,636,7.1,2.0,0.0,44,1.0,1372,Real-Betis
+,José Isidoro,es ESP,DF,8,7,0.0,0.0,2006-2007,/en/players/bb00a819/Jose-Isidoro,bb00a819,Real-Betis,635,7.1,4.0,0.0,44,1.0,1395,Real-Betis
+,Juande,es ESP,MF,7,6,0.0,0.0,2006-2007,/en/players/4e8f9951/Juande,4e8f9951,Real-Betis,540,6.0,3.0,0.0,44,1.0,1396,Real-Betis
+,Jorge Wagner,br BRA,MF,10,6,0.0,0.0,2006-2007,/en/players/8b30ffd7/Jorge-Wagner,8b30ffd7,Real-Betis,406,4.5,1.0,0.0,44,2.0,1397,Real-Betis
+,Fabrice Pancrate,fr FRA,"FW,MF",7,5,0.0,1.0,2006-2007,/en/players/70d29079/Fabrice-Pancrate,70d29079,Real-Betis,401,4.5,0.0,0.0,44,4.0,1398,Real-Betis
+,Daniel Martín,es ESP,FW,14,3,0.0,0.0,2006-2007,/en/players/c8d2987f/Daniel-Martin,c8d2987f,Real-Betis,483,5.4,2.0,0.0,44,1.0,1364,Real-Betis
+,Juan Pablo Caffa,ar ARG,MF,7,3,0.0,0.0,2006-2007,/en/players/9a241b77/Juan-Pablo-Caffa,9a241b77,Real-Betis,300,3.3,0.0,0.0,44,5.0,1399,Real-Betis
+,Alejandro Lembo,uy URU,DF,2,2,0.0,0.0,2006-2007,/en/players/e2d08dd6/Alejandro-Lembo,2d08dd6,Real-Betis,124,1.4,0.0,1.0,44,8.0,1374,Real-Betis
+,﻿Juanito,es ESP,DF,33,33,0.0,1.0,2007-2008,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"2,930",32.6,9.0,2.0,44,1.0,1355,Real-Betis
+,Fernando Vega,es ESP,DF,31,29,0.0,0.0,2007-2008,/en/players/4a5e41f8/Fernando-Vega,4a5e41f8,Real-Betis,"2,622",29.1,6.0,0.0,44,1.0,1392,Real-Betis
+,Edu,br BRA,"FW,MF",30,29,3.0,12.0,2007-2008,/en/players/71a2b3ed/Edu,71a2b3ed,Real-Betis,"2,488",27.6,3.0,0.0,44,2.0,619,Real-Betis
+,Ricardo,pt POR,GK,28,28,0.0,0.0,2007-2008,/en/players/14086c90/Ricardo,14086c90,Real-Betis,"2,520",28.0,1.0,0.0,44,3.0,1400,Real-Betis
+,Capi,es ESP,MF,27,26,0.0,2.0,2007-2008,/en/players/523503fe/Capi,523503fe,Real-Betis,"2,067",23.0,5.0,0.0,44,1.0,1352,Real-Betis
+,Damià Abella,es ESP,"DF,MF",26,24,0.0,0.0,2007-2008,/en/players/e35b4a15/Damia-Abella,35b4a15,Real-Betis,"2,230",24.8,6.0,0.0,44,1.0,1090,Real-Betis
+,Arzu,es ESP,"DF,MF",26,24,1.0,1.0,2007-2008,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"2,131",23.7,7.0,1.0,44,1.0,1350,Real-Betis
+,Mariano Pavone,ar ARG,FW,30,23,3.0,8.0,2007-2008,/en/players/7eb1f7c2/Mariano-Pavone,7eb1f7c2,Real-Betis,"2,114",23.5,7.0,0.0,44,5.0,1401,Real-Betis
+,Melli,es ESP,DF,26,22,0.0,0.0,2007-2008,/en/players/83215889/Melli,83215889,Real-Betis,"2,081",23.1,11.0,1.0,44,1.0,1363,Real-Betis
+,Alberto Rivera,es ESP,MF,26,22,1.0,1.0,2007-2008,/en/players/7002b605/Alberto-Rivera,7002b605,Real-Betis,"1,874",20.8,2.0,0.0,44,1.0,1384,Real-Betis
+,Mark González,cl CHI,"FW,MF",24,18,2.0,6.0,2007-2008,/en/players/d8c62450/Mark-Gonzalez,d8c62450,Real-Betis,"1,470",16.3,3.0,0.0,44,31.0,234,Real-Betis
+,Juande,es ESP,MF,22,17,0.0,1.0,2007-2008,/en/players/4e8f9951/Juande,4e8f9951,Real-Betis,"1,545",17.2,7.0,0.0,44,1.0,1396,Real-Betis
+,Rafael Sóbis,br BRA,"FW,MF",26,17,1.0,4.0,2007-2008,/en/players/aed1e36b/Rafael-Sobis,d1e36b,Real-Betis,"1,544",17.2,2.0,0.0,44,2.0,1390,Real-Betis
+,Branko Ilić,si SVN,DF,18,17,1.0,0.0,2007-2008,/en/players/5e607b28/Branko-Ilic,5e607b28,Real-Betis,"1,514",16.8,5.0,0.0,44,32.0,1393,Real-Betis
+,Xisco,es ESP,"FW,MF",22,13,4.0,3.0,2007-2008,/en/players/efaaae13/Xisco,faaae13,Real-Betis,"1,052",11.7,6.0,0.0,44,1.0,887,Real-Betis
+,Juan Pablo Caffa,ar ARG,MF,20,11,5.0,0.0,2007-2008,/en/players/9a241b77/Juan-Pablo-Caffa,9a241b77,Real-Betis,970,10.8,3.0,0.0,44,5.0,1399,Real-Betis
+,Leandro Somoza,ar ARG,MF,15,10,1.0,0.0,2007-2008,/en/players/63bd55fe/Leandro-Somoza,63bd55fe,Real-Betis,965,10.7,4.0,0.0,44,5.0,1402,Real-Betis
+,David Odonkor,de GER,"FW,MF",20,9,0.0,1.0,2007-2008,/en/players/60b041db/David-Odonkor,60b041db,Real-Betis,978,10.9,1.0,0.0,44,13.0,1394,Real-Betis
+,Casto,es ESP,GK,9,9,0.0,0.0,2007-2008,/en/players/95b4ffb3/Casto,95b4ffb3,Real-Betis,810,9.0,0.0,0.0,44,1.0,1403,Real-Betis
+,David Rivas,es ESP,DF,11,9,0.0,0.0,2007-2008,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,757,8.4,1.0,0.0,44,1.0,1359,Real-Betis
+,José Mari,es ESP,FW,13,6,0.0,0.0,2007-2008,/en/players/b56835b1/Jose-Mari,b56835b1,Real-Betis,593,6.6,4.0,0.0,44,1.0,1404,Real-Betis
+,Lima,br BRA,DF,9,6,0.0,0.0,2007-2008,/en/players/6501cb4a/Lima,6501cb4a,Real-Betis,509,5.7,1.0,0.0,44,2.0,1405,Real-Betis
+,Marko Babić,hr CRO,"DF,MF",10,5,0.0,0.0,2007-2008,/en/players/1b4b049b/Marko-Babic,1b4b049b,Real-Betis,474,5.3,3.0,0.0,44,16.0,1406,Real-Betis
+,Nano,es ESP,DF,6,5,0.0,2.0,2007-2008,/en/players/3d6dd9f9/Nano,3d6dd9f9,Real-Betis,401,4.5,2.0,0.0,44,1.0,1386,Real-Betis
+,Fernando,es ESP,"FW,MF",10,3,1.0,1.0,2007-2008,/en/players/2a81fa5d/Fernando,2a81fa5d,Real-Betis,369,4.1,0.0,0.0,44,1.0,1354,Real-Betis
+,Toni Doblas,es ESP,GK,1,1,0.0,0.0,2007-2008,/en/players/d5c35223/Toni-Doblas,d5c35223,Real-Betis,90,1.0,0.0,0.0,44,1.0,1380,Real-Betis
+,Álex Ortiz,es ESP,DF,1,1,0.0,0.0,2007-2008,/en/players/c07dc79e/Alex-Ortiz,c07dc79e,Real-Betis,90,1.0,0.0,0.0,44,1.0,1407,Real-Betis
+,Alejandro Zamora,es ESP,"DF,MF",1,1,0.0,0.0,2007-2008,/en/players/b3848769/Alejandro-Zamora,b3848769,Real-Betis,90,1.0,0.0,0.0,44,1.0,1408,Real-Betis
+,Toni,es ESP,DF,1,0,0.0,0.0,2007-2008,/en/players/248cc93a/Toni,248cc93a,Real-Betis,63,0.7,0.0,0.0,44,1.0,1409,Real-Betis
+,﻿Juanito,es ESP,DF,35,35,1.0,1.0,2008-2009,/en/players/3a6a5b63/Juanito,3a6a5b63,Real-Betis,"3,029",33.7,9.0,0.0,44,1.0,1355,Real-Betis
+,Arzu,es ESP,"DF,MF",34,34,0.0,2.0,2008-2009,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"2,950",32.8,11.0,1.0,44,1.0,1350,Real-Betis
+,Nélson Marcos,pt POR,DF,35,32,0.0,0.0,2008-2009,/en/players/d0d41afb/Nelson-Marcos,d0d41afb,Real-Betis,"2,815",31.3,8.0,1.0,44,3.0,1410,Real-Betis
+,Achille Emaná,cm CMR,MF,35,32,7.0,11.0,2008-2009,/en/players/aa2d23ed/Achille-Emana,2d23ed,Real-Betis,"2,666",29.6,8.0,1.0,44,36.0,1411,Real-Betis
+,Fernando Vega,es ESP,DF,31,31,1.0,0.0,2008-2009,/en/players/4a5e41f8/Fernando-Vega,4a5e41f8,Real-Betis,"2,758",30.6,5.0,0.0,44,1.0,1392,Real-Betis
+,Mehmet Aurélio,tr TUR,MF,29,29,2.0,4.0,2008-2009,/en/players/ec1c7e8f/Mehmet-Aurelio,c1c7e8f,Real-Betis,"2,530",28.1,6.0,0.0,44,15.0,1412,Real-Betis
+,Sergio García,es ESP,"FW,MF",28,28,5.0,9.0,2008-2009,/en/players/2bee98fd/Sergio-Garcia,2bee98fd,Real-Betis,"2,369",26.3,5.0,3.0,44,1.0,1081,Real-Betis
+,Capi,es ESP,MF,26,24,2.0,1.0,2008-2009,/en/players/523503fe/Capi,523503fe,Real-Betis,"1,831",20.3,4.0,0.0,44,1.0,1352,Real-Betis
+,Ricardo,pt POR,GK,20,20,0.0,0.0,2008-2009,/en/players/14086c90/Ricardo,14086c90,Real-Betis,"1,799",20.0,1.0,1.0,44,3.0,1400,Real-Betis
+,Damià Abella,es ESP,"DF,MF",25,20,0.0,2.0,2008-2009,/en/players/e35b4a15/Damia-Abella,35b4a15,Real-Betis,"1,788",19.9,7.0,0.0,44,1.0,1090,Real-Betis
+,Mark González,cl CHI,"FW,MF",20,19,3.0,4.0,2008-2009,/en/players/d8c62450/Mark-Gonzalez,d8c62450,Real-Betis,"1,483",16.5,6.0,0.0,44,31.0,234,Real-Betis
+,Melli,es ESP,DF,26,18,0.0,1.0,2008-2009,/en/players/83215889/Melli,83215889,Real-Betis,"1,712",19.0,7.0,1.0,44,1.0,1363,Real-Betis
+,Casto,es ESP,GK,18,18,0.0,0.0,2008-2009,/en/players/95b4ffb3/Casto,95b4ffb3,Real-Betis,"1,620",18.0,0.0,0.0,44,1.0,1403,Real-Betis
+,Ricardo Oliveira,br BRA,FW,16,15,1.0,6.0,2008-2009,/en/players/420c1246/Ricardo-Oliveira,420c1246,Real-Betis,"1,353",15.0,6.0,0.0,44,2.0,885,Real-Betis
+,Juanma,es ESP,MF,27,14,2.0,2.0,2008-2009,/en/players/f4f22926/Juanma,f4f22926,Real-Betis,"1,244",13.8,3.0,0.0,44,1.0,1413,Real-Betis
+,Edu,br BRA,"FW,MF",11,8,2.0,2.0,2008-2009,/en/players/71a2b3ed/Edu,71a2b3ed,Real-Betis,853,9.5,1.0,0.0,44,2.0,619,Real-Betis
+,Mariano Pavone,ar ARG,FW,18,8,0.0,2.0,2008-2009,/en/players/7eb1f7c2/Mariano-Pavone,7eb1f7c2,Real-Betis,823,9.1,2.0,0.0,44,5.0,1401,Real-Betis
+,Fabián Monzón,ar ARG,DF,13,7,0.0,2.0,2008-2009,/en/players/ef115d48/Fabian-Monzon,f115d48,Real-Betis,801,8.9,1.0,0.0,44,5.0,1414,Real-Betis
+,Alberto Rivera,es ESP,MF,20,6,0.0,0.0,2008-2009,/en/players/7002b605/Alberto-Rivera,7002b605,Real-Betis,854,9.5,2.0,0.0,44,1.0,1384,Real-Betis
+,David Rivas,es ESP,DF,9,5,0.0,0.0,2008-2009,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,523,5.8,2.0,0.0,44,1.0,1359,Real-Betis
+,Juande,es ESP,MF,9,5,0.0,0.0,2008-2009,/en/players/4e8f9951/Juande,4e8f9951,Real-Betis,326,3.6,2.0,1.0,44,1.0,1396,Real-Betis
+,José Mari,es ESP,FW,8,3,0.0,1.0,2008-2009,/en/players/b56835b1/Jose-Mari,b56835b1,Real-Betis,374,4.2,1.0,0.0,44,1.0,1404,Real-Betis
+,Xisco,es ESP,"FW,MF",9,2,0.0,1.0,2008-2009,/en/players/efaaae13/Xisco,faaae13,Real-Betis,317,3.5,2.0,0.0,44,1.0,887,Real-Betis
+,José Cañas,es ESP,MF,2,2,0.0,0.0,2008-2009,/en/players/ab77f2d9/Jose-Canas,b77f2d9,Real-Betis,143,1.6,0.0,0.0,44,1.0,1415,Real-Betis
+,David Odonkor,de GER,"FW,MF",7,1,0.0,0.0,2008-2009,/en/players/60b041db/David-Odonkor,60b041db,Real-Betis,122,1.4,1.0,0.0,44,13.0,1394,Real-Betis
+,Branko Ilić,si SVN,DF,3,1,0.0,0.0,2008-2009,/en/players/5e607b28/Branko-Ilic,5e607b28,Real-Betis,109,1.2,0.0,0.0,44,32.0,1393,Real-Betis
+,Marko Babić,hr CRO,"DF,MF",2,1,0.0,0.0,2008-2009,/en/players/1b4b049b/Marko-Babic,1b4b049b,Real-Betis,106,1.2,0.0,0.0,44,16.0,1406,Real-Betis
+,Diego Segura,es ESP,FW,3,0,0.0,0.0,2008-2009,/en/players/e38e4a9f/Diego-Segura,38e4a9f,Real-Betis,93,1.0,0.0,0.0,44,1.0,1416,Real-Betis
+,Lima,br BRA,DF,1,0,0.0,0.0,2008-2009,/en/players/6501cb4a/Lima,6501cb4a,Real-Betis,36,0.4,0.0,0.0,44,2.0,1405,Real-Betis
+,﻿Iñaki Goitia,es ESP,GK,42,42,0.0,0.0,2009-2010,/en/players/2f10b901/Inaki-Goitia,2f10b901,Real-Betis,"3,780",42.0,4.0,0.0,44,1.0,1417,Real-Betis
+,Arzu,es ESP,"DF,MF",38,37,0.0,0.0,2009-2010,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,"3,255",36.2,7.0,2.0,44,1.0,1350,Real-Betis
+,Sergio García,es ESP,"FW,MF",34,34,5.0,12.0,2009-2010,/en/players/2bee98fd/Sergio-Garcia,2bee98fd,Real-Betis,"2,795",31.1,3.0,0.0,44,1.0,1081,Real-Betis
+,Carlos García,es ESP,DF,33,33,0.0,1.0,2009-2010,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Real-Betis,"2,806",31.2,11.0,2.0,44,1.0,1418,Real-Betis
+,Nacho,es ESP,"DF,MF",33,32,0.0,0.0,2009-2010,/en/players/07537011/Nacho,07537011,Real-Betis,"2,815",31.3,3.0,0.0,44,1.0,255,Real-Betis
+,Fernando Vega,es ESP,DF,30,27,0.0,2.0,2009-2010,/en/players/4a5e41f8/Fernando-Vega,4a5e41f8,Real-Betis,"2,376",26.4,6.0,0.0,44,1.0,1392,Real-Betis
+,Iriney,br BRA,MF,33,25,0.0,0.0,2009-2010,/en/players/09296fcc/Iriney,09296fcc,Real-Betis,"2,378",26.4,8.0,0.0,44,2.0,666,Real-Betis
+,Melli,es ESP,DF,26,24,1.0,2.0,2009-2010,/en/players/83215889/Melli,83215889,Real-Betis,"2,151",23.9,9.0,0.0,44,1.0,1363,Real-Betis
+,Achille Emaná,cm CMR,MF,28,24,5.0,10.0,2009-2010,/en/players/aa2d23ed/Achille-Emana,2d23ed,Real-Betis,"2,082",23.1,6.0,0.0,44,36.0,1411,Real-Betis
+,Juanma,es ESP,MF,31,24,3.0,3.0,2009-2010,/en/players/f4f22926/Juanma,f4f22926,Real-Betis,"1,968",21.9,4.0,0.0,44,1.0,1413,Real-Betis
+,Damià Abella,es ESP,"DF,MF",28,23,0.0,0.0,2009-2010,/en/players/e35b4a15/Damia-Abella,35b4a15,Real-Betis,"1,847",20.5,9.0,1.0,44,1.0,1090,Real-Betis
+,Nélson Marcos,pt POR,DF,22,22,0.0,0.0,2009-2010,/en/players/d0d41afb/Nelson-Marcos,d0d41afb,Real-Betis,"1,821",20.2,2.0,1.0,44,3.0,1410,Real-Betis
+,Mariano Pavone,ar ARG,FW,28,21,2.0,6.0,2009-2010,/en/players/7eb1f7c2/Mariano-Pavone,7eb1f7c2,Real-Betis,"1,954",21.7,8.0,0.0,44,5.0,1401,Real-Betis
+,Mehmet Aurélio,tr TUR,MF,26,19,0.0,2.0,2009-2010,/en/players/ec1c7e8f/Mehmet-Aurelio,c1c7e8f,Real-Betis,"1,638",18.2,8.0,0.0,44,15.0,1412,Real-Betis
+,Jonathan Pereira,es ESP,FW,22,18,2.0,9.0,2009-2010,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Real-Betis,"1,492",16.6,3.0,0.0,44,1.0,1427,Real-Betis
+,Juande,es ESP,MF,19,15,1.0,2.0,2009-2010,/en/players/4e8f9951/Juande,4e8f9951,Real-Betis,"1,230",13.7,4.0,1.0,44,1.0,1396,Real-Betis
+,Capi,es ESP,MF,26,12,1.0,1.0,2009-2010,/en/players/523503fe/Capi,523503fe,Real-Betis,"1,165",12.9,4.0,0.0,44,1.0,1352,Real-Betis
+,Juan Pablo Caffa,ar ARG,MF,32,10,4.0,7.0,2009-2010,/en/players/9a241b77/Juan-Pablo-Caffa,9a241b77,Real-Betis,"1,169",13.0,3.0,0.0,44,5.0,1399,Real-Betis
+,David Rivas,es ESP,DF,11,7,0.0,1.0,2009-2010,/en/players/56da6c6e/David-Rivas,56da6c6e,Real-Betis,762,8.5,4.0,1.0,44,1.0,1359,Real-Betis
+,Rodri,es ESP,MF,23,5,2.0,1.0,2009-2010,/en/players/af368a99/Rodri,f368a99,Real-Betis,905,10.1,5.0,0.0,44,1.0,1419,Real-Betis
+,David Odonkor,de GER,"FW,MF",11,4,0.0,2.0,2009-2010,/en/players/60b041db/David-Odonkor,60b041db,Real-Betis,450,5.0,1.0,0.0,44,13.0,1394,Real-Betis
+,Sunny,ng NGA,MF,7,4,0.0,0.0,2009-2010,/en/players/1eb38665/Sunny,1eb38665,Real-Betis,283,3.1,2.0,1.0,44,52.0,918,Real-Betis
+,Israel,es ESP,MF,2,0,0.0,0.0,2009-2010,/en/players/bf6d20c9/Israel,bf6d20c9,Real-Betis,37,0.4,0.0,0.0,44,1.0,1383,Real-Betis
+,Nano,es ESP,DF,1,0,0.0,0.0,2009-2010,/en/players/3d6dd9f9/Nano,3d6dd9f9,Real-Betis,19,0.2,0.0,0.0,44,1.0,1386,Real-Betis
+,Daniel Martín,es ESP,FW,1,0,0.0,0.0,2009-2010,/en/players/c8d2987f/Daniel-Martin,c8d2987f,Real-Betis,11,0.1,0.0,0.0,44,1.0,1364,Real-Betis
+,﻿Rubén Castro,es ESP,"FW,MF",42,42,5.0,27.0,2010-2011,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"3,738",41.5,2.0,0.0,44,1.0,400,Real-Betis
+,Iriney,br BRA,MF,36,35,1.0,3.0,2010-2011,/en/players/09296fcc/Iriney,09296fcc,Real-Betis,"3,013",33.5,18.0,1.0,44,2.0,666,Real-Betis
+,Nacho,es ESP,"DF,MF",34,34,1.0,0.0,2010-2011,/en/players/07537011/Nacho,07537011,Real-Betis,"3,055",33.9,8.0,1.0,44,1.0,255,Real-Betis
+,Chechu,es ESP,DF,33,33,4.0,2.0,2010-2011,/en/players/e98f3a6a/Chechu,98f3a6a,Real-Betis,"2,913",32.4,2.0,0.0,44,1.0,1420,Real-Betis
+,Salva Sevilla,es ESP,MF,33,31,13.0,3.0,2010-2011,/en/players/75bd85ea/Salva-Sevilla,75bd85ea,Real-Betis,"2,555",28.4,6.0,0.0,44,1.0,1421,Real-Betis
+,Beñat Etxebarria,es ESP,MF,36,30,8.0,4.0,2010-2011,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Real-Betis,"2,516",28.0,16.0,1.0,44,1.0,1269,Real-Betis
+,Jorge Molina,es ESP,FW,34,29,3.0,18.0,2010-2011,/en/players/43f71e77/Jorge-Molina,43f71e77,Real-Betis,"2,608",29.0,2.0,0.0,44,1.0,1422,Real-Betis
+,José Isidoro,es ESP,DF,31,29,2.0,1.0,2010-2011,/en/players/bb00a819/Jose-Isidoro,bb00a819,Real-Betis,"2,600",28.9,7.0,0.0,44,1.0,1395,Real-Betis
+,Achille Emaná,cm CMR,MF,28,26,7.0,13.0,2010-2011,/en/players/aa2d23ed/Achille-Emana,2d23ed,Real-Betis,"2,205",24.5,6.0,1.0,44,36.0,1411,Real-Betis
+,Iñaki Goitia,es ESP,GK,25,25,0.0,0.0,2010-2011,/en/players/2f10b901/Inaki-Goitia,2f10b901,Real-Betis,"2,250",25.0,2.0,0.0,44,1.0,1417,Real-Betis
+,David Belenguer,es ESP,DF,20,19,0.0,0.0,2010-2011,/en/players/68c448f7/David-Belenguer,68c448f7,Real-Betis,"1,691",18.8,5.0,3.0,44,1.0,1369,Real-Betis
+,Rovérsio,br BRA,DF,22,19,0.0,3.0,2010-2011,/en/players/ba50a22c/Roversio,ba50a22c,Real-Betis,"1,650",18.3,5.0,1.0,44,2.0,1423,Real-Betis
+,Casto,es ESP,GK,17,17,0.0,0.0,2010-2011,/en/players/95b4ffb3/Casto,95b4ffb3,Real-Betis,"1,530",17.0,3.0,0.0,44,1.0,1403,Real-Betis
+,Miguel Lopes,pt POR,DF,21,17,3.0,0.0,2010-2011,/en/players/258b0d9b/Miguel-Lopes,258b0d9b,Real-Betis,"1,400",15.6,7.0,0.0,44,3.0,1424,Real-Betis
+,Momo,es ESP,MF,18,13,1.0,0.0,2010-2011,/en/players/9857e65d/Momo,9857e65d,Real-Betis,975,10.8,1.0,0.0,44,1.0,405,Real-Betis
+,Ezequiel Calvente,es ESP,"FW,MF",29,10,1.0,1.0,2010-2011,/en/players/633ea214/Ezequiel-Calvente,633ea214,Real-Betis,"1,088",12.1,5.0,0.0,44,1.0,1425,Real-Betis
+,Miki Roqué,es ESP,"DF,MF",12,10,0.0,2.0,2010-2011,/en/players/f27b5761/Miki-Roque,f27b5761,Real-Betis,932,10.4,2.0,1.0,44,1.0,1426,Real-Betis
+,Arzu,es ESP,"DF,MF",17,8,0.0,1.0,2010-2011,/en/players/a41e01ff/Arzu,41e01ff,Real-Betis,785,8.7,1.0,0.0,44,1.0,1350,Real-Betis
+,Jonathan Pereira,es ESP,FW,18,7,1.0,3.0,2010-2011,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Real-Betis,792,8.8,2.0,1.0,44,1.0,1427,Real-Betis
+,Juanma,es ESP,MF,14,6,2.0,0.0,2010-2011,/en/players/f4f22926/Juanma,f4f22926,Real-Betis,609,6.8,1.0,0.0,44,1.0,1413,Real-Betis
+,Juan Pablo Caffa,ar ARG,MF,6,6,1.0,1.0,2010-2011,/en/players/9a241b77/Juan-Pablo-Caffa,9a241b77,Real-Betis,399,4.4,0.0,0.0,44,5.0,1399,Real-Betis
+,Israel,es ESP,MF,21,4,1.0,1.0,2010-2011,/en/players/bf6d20c9/Israel,bf6d20c9,Real-Betis,656,7.3,1.0,0.0,44,1.0,1383,Real-Betis
+,José Cañas,es ESP,MF,15,4,0.0,0.0,2010-2011,/en/players/ab77f2d9/Jose-Canas,b77f2d9,Real-Betis,478,5.3,1.0,1.0,44,1.0,1415,Real-Betis
+,Juande,es ESP,MF,12,3,0.0,0.0,2010-2011,/en/players/4e8f9951/Juande,4e8f9951,Real-Betis,463,5.1,3.0,0.0,44,1.0,1396,Real-Betis
+,Fernando Vega,es ESP,DF,6,3,1.0,0.0,2010-2011,/en/players/4a5e41f8/Fernando-Vega,4a5e41f8,Real-Betis,274,3.0,3.0,0.0,44,1.0,1392,Real-Betis
+,Álex Martínez,es ESP,"DF,MF",2,2,0.0,0.0,2010-2011,/en/players/e1c805cf/Alex-Martinez,1c805cf,Real-Betis,180,2.0,0.0,0.0,44,1.0,1428,Real-Betis
+,Sergio,es ESP,MF,2,0,0.0,0.0,2010-2011,/en/players/6c6e9460/Sergio,6c6e9460,Real-Betis,34,0.4,0.0,0.0,44,1.0,1429,Real-Betis
+,Manu Palancar,es ESP,DF,2,0,0.0,0.0,2010-2011,/en/players/e4c51ce3/Manu-Palancar,4c51ce3,Real-Betis,33,0.4,0.0,0.0,44,1.0,1430,Real-Betis
+,Rodri,es ESP,MF,2,0,0.0,0.0,2010-2011,/en/players/af368a99/Rodri,f368a99,Real-Betis,9,0.1,0.0,0.0,44,1.0,1419,Real-Betis
+,﻿Nacho,es ESP,"DF,MF",37,37,0.0,1.0,2011-2012,/en/players/07537011/Nacho,07537011,Real-Betis,"3,307",36.7,8.0,0.0,44,1.0,255,Real-Betis
+,Rubén Castro,es ESP,"FW,MF",34,33,5.0,16.0,2011-2012,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"2,950",32.8,5.0,0.0,44,1.0,400,Real-Betis
+,Chechu,es ESP,DF,33,32,0.0,1.0,2011-2012,/en/players/e98f3a6a/Chechu,98f3a6a,Real-Betis,"2,891",32.1,5.0,1.0,44,1.0,1420,Real-Betis
+,Beñat Etxebarria,es ESP,MF,35,30,5.0,6.0,2011-2012,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Real-Betis,"2,626",29.2,11.0,0.0,44,1.0,1269,Real-Betis
+,Iriney,br BRA,MF,31,30,0.0,0.0,2011-2012,/en/players/09296fcc/Iriney,09296fcc,Real-Betis,"2,540",28.2,12.0,0.0,44,2.0,666,Real-Betis
+,Jefferson Montero,ec ECU,"FW,MF",32,26,2.0,1.0,2011-2012,/en/players/fa6561bf/Jefferson-Montero,fa6561bf,Real-Betis,"2,009",22.3,2.0,0.0,44,61.0,1431,Real-Betis
+,Casto,es ESP,GK,22,22,0.0,0.0,2011-2012,/en/players/95b4ffb3/Casto,95b4ffb3,Real-Betis,"1,960",21.8,3.0,1.0,44,1.0,1403,Real-Betis
+,Roque Santa Cruz,py PAR,FW,33,20,2.0,7.0,2011-2012,/en/players/7f2107eb/Roque-Santa-Cruz,7f2107eb,Real-Betis,"1,964",21.8,2.0,0.0,44,43.0,1432,Real-Betis
+,Salva Sevilla,es ESP,MF,26,19,2.0,2.0,2011-2012,/en/players/75bd85ea/Salva-Sevilla,75bd85ea,Real-Betis,"1,437",16.0,6.0,0.0,44,1.0,1421,Real-Betis
+,José Cañas,es ESP,MF,22,17,0.0,0.0,2011-2012,/en/players/ab77f2d9/Jose-Canas,b77f2d9,Real-Betis,"1,604",17.8,6.0,0.0,44,1.0,1415,Real-Betis
+,Paulão,br BRA,DF,17,17,0.0,0.0,2011-2012,/en/players/63783925/Paulao,63783925,Real-Betis,"1,492",16.6,4.0,0.0,44,2.0,1433,Real-Betis
+,Fabricio,es ESP,GK,15,15,0.0,0.0,2011-2012,/en/players/af245161/Fabricio,f245161,Real-Betis,"1,350",15.0,3.0,0.0,44,1.0,428,Real-Betis
+,Jonathan Pereira,es ESP,FW,31,14,3.0,4.0,2011-2012,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Real-Betis,"1,481",16.5,8.0,0.0,44,1.0,1427,Real-Betis
+,Jorge Molina,es ESP,FW,26,14,2.0,6.0,2011-2012,/en/players/43f71e77/Jorge-Molina,43f71e77,Real-Betis,"1,271",14.1,2.0,1.0,44,1.0,1422,Real-Betis
+,Javier Chica,es ESP,DF,15,14,2.0,0.0,2011-2012,/en/players/991b2cec/Javier-Chica,991b2cec,Real-Betis,"1,233",13.7,3.0,0.0,44,1.0,1434,Real-Betis
+,Nélson Marcos,pt POR,DF,14,14,0.0,1.0,2011-2012,/en/players/d0d41afb/Nelson-Marcos,d0d41afb,Real-Betis,"1,209",13.4,2.0,0.0,44,3.0,1410,Real-Betis
+,Mario,es ESP,DF,12,12,0.0,0.0,2011-2012,/en/players/e6ede7f4/Mario,6ede7f4,Real-Betis,900,10.0,6.0,3.0,44,1.0,1084,Real-Betis
+,Alejandro Pozuelo,es ESP,"FW,MF",18,10,1.0,2.0,2011-2012,/en/players/5e1280ff/Alejandro-Pozuelo,5e1280ff,Real-Betis,"1,025",11.4,1.0,1.0,44,1.0,1435,Real-Betis
+,José Isidoro,es ESP,DF,11,10,0.0,0.0,2011-2012,/en/players/bb00a819/Jose-Isidoro,bb00a819,Real-Betis,892,9.9,4.0,0.0,44,1.0,1395,Real-Betis
+,Antonio Amaya,es ESP,DF,12,9,0.0,0.0,2011-2012,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Real-Betis,941,10.5,4.0,0.0,44,1.0,1436,Real-Betis
+,Juanma,es ESP,MF,14,8,1.0,0.0,2011-2012,/en/players/f4f22926/Juanma,f4f22926,Real-Betis,782,8.7,2.0,0.0,44,1.0,1413,Real-Betis
+,Ustaritz,es ESP,DF,7,6,0.0,0.0,2011-2012,/en/players/49f85a05/Ustaritz,49f85a05,Real-Betis,514,5.7,0.0,0.0,44,1.0,1259,Real-Betis
+,Javier Matilla,es ESP,MF,14,4,0.0,0.0,2011-2012,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Real-Betis,387,4.3,2.0,0.0,44,1.0,1437,Real-Betis
+,Álvaro Vadillo,es ESP,"FW,MF",4,2,0.0,0.0,2011-2012,/en/players/61b62b33/Alvaro-Vadillo,61b62b33,Real-Betis,113,1.3,0.0,0.0,44,1.0,844,Real-Betis
+,Álex Martínez,es ESP,"DF,MF",3,1,0.0,0.0,2011-2012,/en/players/e1c805cf/Alex-Martinez,1c805cf,Real-Betis,119,1.3,0.0,0.0,44,1.0,1428,Real-Betis
+,Iñaki Goitia,es ESP,GK,2,1,0.0,0.0,2011-2012,/en/players/2f10b901/Inaki-Goitia,2f10b901,Real-Betis,110,1.2,0.0,0.0,44,1.0,1417,Real-Betis
+,Nono,es ESP,MF,2,1,0.0,0.0,2011-2012,/en/players/0bd57693/Nono,0bd57693,Real-Betis,100,1.1,1.0,0.0,44,1.0,1438,Real-Betis
+,Sergio,es ESP,MF,3,0,0.0,0.0,2011-2012,/en/players/6c6e9460/Sergio,6c6e9460,Real-Betis,119,1.3,0.0,0.0,44,1.0,1429,Real-Betis
+,Ezequiel Calvente,es ESP,"FW,MF",4,0,0.0,0.0,2011-2012,/en/players/633ea214/Ezequiel-Calvente,633ea214,Real-Betis,109,1.2,1.0,0.0,44,1.0,1425,Real-Betis
+,Duško Tošić,rs SRB,DF,1,0,0.0,0.0,2011-2012,/en/players/523057ea/Dusko-Tosic,523057ea,Real-Betis,35,0.4,0.0,0.0,44,28.0,1439,Real-Betis
+,Momo,es ESP,MF,2,0,0.0,0.0,2011-2012,/en/players/9857e65d/Momo,9857e65d,Real-Betis,25,0.3,1.0,0.0,44,1.0,405,Real-Betis
+,﻿Beñat Etxebarria,es ESP,MF,34,33,9.0,4.0,2012-2013,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Real-Betis,"2,843",31.6,16.0,0.0,44,1.0,1269,Real-Betis
+,Rubén Castro,es ESP,"FW,MF",34,32,6.0,18.0,2012-2013,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"2,952",32.8,3.0,0.0,44,1.0,400,Real-Betis
+,Adrián,es ESP,GK,32,31,0.0,0.0,2012-2013,/en/players/f76e6b4e/Adrian,f76e6b4e,Real-Betis,"2,869",31.9,5.0,0.0,44,1.0,1440,Real-Betis
+,Nacho,es ESP,"DF,MF",30,26,4.0,0.0,2012-2013,/en/players/07537011/Nacho,07537011,Real-Betis,"2,368",26.3,11.0,0.0,44,1.0,255,Real-Betis
+,Antonio Amaya,es ESP,DF,28,26,0.0,0.0,2012-2013,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Real-Betis,"2,353",26.1,7.0,2.0,44,1.0,1436,Real-Betis
+,José Cañas,es ESP,MF,27,26,1.0,0.0,2012-2013,/en/players/ab77f2d9/Jose-Canas,b77f2d9,Real-Betis,"2,259",25.1,10.0,0.0,44,1.0,1415,Real-Betis
+,Jorge Molina,es ESP,FW,32,22,1.0,13.0,2012-2013,/en/players/43f71e77/Jorge-Molina,43f71e77,Real-Betis,"2,118",23.5,3.0,0.0,44,1.0,1422,Real-Betis
+,Javier Chica,es ESP,DF,22,21,1.0,0.0,2012-2013,/en/players/991b2cec/Javier-Chica,991b2cec,Real-Betis,"1,898",21.1,4.0,0.0,44,1.0,1434,Real-Betis
+,Joel Campbell,cr CRC,"FW,MF",28,21,3.0,2.0,2012-2013,/en/players/895ff3ca/Joel-Campbell,895ff3ca,Real-Betis,"1,582",17.6,8.0,1.0,44,22.0,1441,Real-Betis
+,Juankar,es ESP,"DF,FW",25,21,3.0,0.0,2012-2013,/en/players/e9a12436/Juankar,9a12436,Real-Betis,"1,485",16.5,4.0,0.0,44,1.0,98,Real-Betis
+,Paulão,br BRA,DF,22,19,0.0,2.0,2012-2013,/en/players/63783925/Paulao,63783925,Real-Betis,"1,737",19.3,6.0,0.0,44,2.0,1433,Real-Betis
+,Mario,es ESP,DF,20,19,0.0,1.0,2012-2013,/en/players/e6ede7f4/Mario,6ede7f4,Real-Betis,"1,590",17.7,1.0,1.0,44,1.0,1084,Real-Betis
+,Rubén Pérez,es ESP,MF,25,18,1.0,1.0,2012-2013,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Real-Betis,"1,624",18.0,11.0,1.0,44,1.0,446,Real-Betis
+,Salva Sevilla,es ESP,MF,17,15,2.0,2.0,2012-2013,/en/players/75bd85ea/Salva-Sevilla,75bd85ea,Real-Betis,"1,078",12.0,3.0,0.0,44,1.0,1421,Real-Betis
+,Dorlan Pabón,co COL,"FW,MF",17,14,4.0,8.0,2012-2013,/en/players/4eb45683/Dorlan-Pabon,4eb45683,Real-Betis,"1,253",13.9,0.0,0.0,44,19.0,952,Real-Betis
+,Álex Martínez,es ESP,"DF,MF",13,11,2.0,0.0,2012-2013,/en/players/e1c805cf/Alex-Martinez,1c805cf,Real-Betis,"1,041",11.6,1.0,0.0,44,1.0,1428,Real-Betis
+,Nélson Marcos,pt POR,DF,10,10,0.0,0.0,2012-2013,/en/players/d0d41afb/Nelson-Marcos,d0d41afb,Real-Betis,896,10.0,2.0,0.0,44,3.0,1410,Real-Betis
+,Ángel López,es ESP,"DF,MF",11,8,0.0,1.0,2012-2013,/en/players/93cdc601/Angel-Lopez,93cdc601,Real-Betis,742,8.2,3.0,0.0,44,1.0,628,Real-Betis
+,Damien Perquis,pl POL,DF,10,7,0.0,0.0,2012-2013,/en/players/c33b3de1/Damien-Perquis,c33b3de1,Real-Betis,651,7.2,2.0,1.0,44,14.0,1442,Real-Betis
+,Nosa Igiebor,ng NGA,MF,16,7,1.0,1.0,2012-2013,/en/players/79d9bbd4/Nosa-Igiebor,79d9bbd4,Real-Betis,578,6.4,2.0,0.0,44,52.0,1454,Real-Betis
+,Salvador Agra,pt POR,"FW,MF",10,7,0.0,1.0,2012-2013,/en/players/a130741a/Salvador-Agra,130741a,Real-Betis,506,5.6,3.0,0.0,44,3.0,1443,Real-Betis
+,Chechu,es ESP,DF,7,5,0.0,0.0,2012-2013,/en/players/e98f3a6a/Chechu,98f3a6a,Real-Betis,499,5.5,1.0,0.0,44,1.0,1420,Real-Betis
+,Casto,es ESP,GK,5,5,0.0,0.0,2012-2013,/en/players/95b4ffb3/Casto,95b4ffb3,Real-Betis,371,4.1,2.0,1.0,44,1.0,1403,Real-Betis
+,Nono,es ESP,MF,15,4,0.0,0.0,2012-2013,/en/players/0bd57693/Nono,0bd57693,Real-Betis,596,6.6,4.0,0.0,44,1.0,1438,Real-Betis
+,Alejandro Pozuelo,es ESP,"FW,MF",11,4,0.0,1.0,2012-2013,/en/players/5e1280ff/Alejandro-Pozuelo,5e1280ff,Real-Betis,433,4.8,1.0,0.0,44,1.0,1435,Real-Betis
+,Álvaro Vadillo,es ESP,"FW,MF",14,3,2.0,0.0,2012-2013,/en/players/61b62b33/Alvaro-Vadillo,61b62b33,Real-Betis,507,5.6,3.0,0.0,44,1.0,844,Real-Betis
+,Fabricio,es ESP,GK,2,2,0.0,0.0,2012-2013,/en/players/af245161/Fabricio,f245161,Real-Betis,180,2.0,0.0,0.0,44,1.0,428,Real-Betis
+,Jonathan Pereira,es ESP,FW,6,1,1.0,0.0,2012-2013,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Real-Betis,253,2.8,2.0,0.0,44,1.0,1427,Real-Betis
+,Guillermo Molins,se SWE,"FW,MF",4,0,0.0,0.0,2012-2013,/en/players/cda49f68/Guillermo-Molins,cda49f68,Real-Betis,56,0.6,0.0,0.0,44,41.0,1444,Real-Betis
+,Eder Vilarchao,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/9ea0bf80/Eder-Vilarchao,9ea0bf80,Real-Betis,34,0.4,0.0,0.0,44,1.0,1445,Real-Betis
+,Sergio,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/6c6e9460/Sergio,6c6e9460,Real-Betis,14,0.2,0.0,0.0,44,1.0,1429,Real-Betis
+,Fausto Tienza,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/039783d3/Fausto-Tienza,039783d3,Real-Betis,6,0.1,0.0,0.0,44,1.0,1446,Real-Betis
+,Carlos García,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/1e64709e/Carlos-Garcia,1e64709e,Real-Betis,3,0.0,0.0,0.0,44,1.0,1447,Real-Betis
+,﻿Juanfran,es ESP,"DF,FW",34,28,2.0,1.0,2013-2014,/en/players/9ba48d64/Juanfran,9ba48d64,Real-Betis,"2,551",28.3,2.0,0.0,44,1.0,86,Real-Betis
+,Jorge Molina,es ESP,FW,32,25,1.0,9.0,2013-2014,/en/players/43f71e77/Jorge-Molina,43f71e77,Real-Betis,"2,347",26.1,4.0,0.0,44,1.0,1422,Real-Betis
+,Lorenzo Reyes,cl CHI,MF,26,23,0.0,1.0,2013-2014,/en/players/d47cd62c/Lorenzo-Reyes,d47cd62c,Real-Betis,"2,006",22.3,7.0,1.0,44,31.0,1448,Real-Betis
+,Antonio Amaya,es ESP,DF,24,22,1.0,1.0,2013-2014,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Real-Betis,"2,027",22.5,10.0,1.0,44,1.0,1436,Real-Betis
+,Rubén Castro,es ESP,"FW,MF",25,22,1.0,10.0,2013-2014,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"2,014",22.4,4.0,0.0,44,1.0,400,Real-Betis
+,Javier Chica,es ESP,DF,25,22,0.0,2.0,2013-2014,/en/players/991b2cec/Javier-Chica,991b2cec,Real-Betis,"1,944",21.6,8.0,1.0,44,1.0,1434,Real-Betis
+,Jordi,es ESP,DF,25,20,0.0,1.0,2013-2014,/en/players/744a8a7c/Jordi,744a8a7c,Real-Betis,"2,006",22.3,5.0,0.0,44,1.0,710,Real-Betis
+,Paulão,br BRA,DF,20,20,0.0,0.0,2013-2014,/en/players/63783925/Paulao,63783925,Real-Betis,"1,647",18.3,3.0,1.0,44,2.0,1433,Real-Betis
+,Juankar,es ESP,"DF,FW",20,18,2.0,0.0,2013-2014,/en/players/e9a12436/Juankar,9a12436,Real-Betis,"1,392",15.5,4.0,1.0,44,1.0,98,Real-Betis
+,Antonio Adán,es ESP,GK,17,17,0.0,0.0,2013-2014,/en/players/65d62814/Antonio-Adan,65d62814,Real-Betis,"1,522",16.9,1.0,0.0,44,1.0,94,Real-Betis
+,Alfred N'Diaye,sn SEN,"DF,MF",16,16,1.0,0.0,2013-2014,/en/players/7789bf63/Alfred-NDiaye,7789bf63,Real-Betis,"1,412",15.7,5.0,0.0,44,34.0,1449,Real-Betis
+,Salva Sevilla,es ESP,MF,21,16,5.0,4.0,2013-2014,/en/players/75bd85ea/Salva-Sevilla,75bd85ea,Real-Betis,"1,337",14.9,8.0,0.0,44,1.0,1421,Real-Betis
+,Javier Matilla,es ESP,MF,23,15,0.0,0.0,2013-2014,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Real-Betis,"1,367",15.2,8.0,0.0,44,1.0,1437,Real-Betis
+,Joan Verdú,es ESP,MF,20,15,1.0,2.0,2013-2014,/en/players/61508522/Joan-Verdu,61508522,Real-Betis,"1,359",15.1,1.0,0.0,44,1.0,415,Real-Betis
+,Nacho,es ESP,"DF,MF",16,15,0.0,0.0,2013-2014,/en/players/07537011/Nacho,07537011,Real-Betis,"1,306",14.5,2.0,0.0,44,1.0,255,Real-Betis
+,Guillermo Sara,ar ARG,GK,15,15,0.0,0.0,2013-2014,/en/players/efd66e36/Guillermo-Sara,fd66e36,Real-Betis,"1,305",14.5,1.0,0.0,44,5.0,1450,Real-Betis
+,Nono,es ESP,MF,22,14,0.0,0.0,2013-2014,/en/players/0bd57693/Nono,0bd57693,Real-Betis,"1,297",14.4,9.0,1.0,44,1.0,1438,Real-Betis
+,Álvaro Vadillo,es ESP,"FW,MF",21,13,2.0,0.0,2013-2014,/en/players/61b62b33/Alvaro-Vadillo,61b62b33,Real-Betis,"1,094",12.2,3.0,0.0,44,1.0,844,Real-Betis
+,Léo Baptistão,br BRA,"FW,MF",17,13,1.0,1.0,2013-2014,/en/players/35f6db55/Leo-Baptistao,35f6db55,Real-Betis,"1,003",11.1,3.0,0.0,44,2.0,1451,Real-Betis
+,Damien Perquis,pl POL,DF,13,13,0.0,0.0,2013-2014,/en/players/c33b3de1/Damien-Perquis,c33b3de1,Real-Betis,914,10.2,3.0,1.0,44,14.0,1442,Real-Betis
+,Cedrick Mabwati,cd COD,"FW,MF",23,12,1.0,0.0,2013-2014,/en/players/6518bc18/Cedrick-Mabwati,6518bc18,Real-Betis,"1,132",12.6,5.0,1.0,44,50.0,1452,Real-Betis
+,Dídac Vilà,es ESP,DF,12,11,1.0,0.0,2013-2014,/en/players/bad38a94/Didac-Vila,bad38a94,Real-Betis,917,10.2,2.0,0.0,44,1.0,1453,Real-Betis
+,Xavi Torres,es ESP,MF,10,9,0.0,0.0,2013-2014,/en/players/1b51ad2f/Xavi-Torres,1b51ad2f,Real-Betis,777,8.6,5.0,0.0,44,1.0,1125,Real-Betis
+,Nosa Igiebor,ng NGA,MF,12,6,0.0,1.0,2013-2014,/en/players/79d9bbd4/Nosa-Igiebor,79d9bbd4,Real-Betis,663,7.4,3.0,0.0,44,52.0,1454,Real-Betis
+,Stephan Andersen,dk DEN,GK,7,6,0.0,0.0,2013-2014,/en/players/314c2af0/Stephan-Andersen,314c2af0,Real-Betis,585,6.5,0.0,0.0,44,7.0,1455,Real-Betis
+,Chuli,es ESP,"FW,MF",11,4,1.0,0.0,2013-2014,/en/players/24efffbf/Chuli,24efffbf,Real-Betis,445,4.9,2.0,0.0,44,1.0,1456,Real-Betis
+,Braian Rodríguez,uy URU,FW,12,4,1.0,2.0,2013-2014,/en/players/ba32a26f/Braian-Rodriguez,ba32a26f,Real-Betis,436,4.8,3.0,1.0,44,8.0,1457,Real-Betis
+,Markus Steinhöfer,de GER,"DF,MF",3,2,0.0,0.0,2013-2014,/en/players/f4765e02/Markus-Steinhofer,f4765e02,Real-Betis,161,1.8,0.0,0.0,44,13.0,1458,Real-Betis
+,José Antonio Caro,es ESP,DF,4,1,0.0,0.0,2013-2014,/en/players/02e4da70/Jose-Antonio-Caro,02e4da70,Real-Betis,171,1.9,0.0,0.0,44,1.0,1459,Real-Betis
+,Juanma,es ESP,FW,3,1,0.0,0.0,2013-2014,/en/players/21a7aebb/Juanma,21a7aebb,Real-Betis,82,0.9,0.0,0.0,44,1.0,1460,Real-Betis
+,Agustín Pastoriza,ar ARG,,1,0,,0.0,2013-2014,/en/players/66dd8945/Agustin-Pastoriza,66dd8945,Real-Betis,37,0.4,0.0,0.0,44,5.0,90010,Real-Betis
+,Dani Ceballos,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/c0617e2b/Dani-Ceballos,c0617e2b,Real-Betis,11,0.1,0.0,0.0,44,1.0,148,Real-Betis
+,Pedro López,es ESP,GK,1,0,0.0,0.0,2013-2014,/en/players/bfa29677/Pedro-Lopez,bfa29677,Real-Betis,8,0.1,0.0,0.0,44,1.0,1461,Real-Betis
+,﻿Rubén Castro,es ESP,"FW,MF",42,42,10.0,32.0,2014-2015,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"3,705",41.2,1.0,0.0,44,1.0,400,Real-Betis
+,Antonio Adán,es ESP,GK,40,40,0.0,0.0,2014-2015,/en/players/65d62814/Antonio-Adan,65d62814,Real-Betis,"3,600",40.0,4.0,0.0,44,1.0,94,Real-Betis
+,Jordi,es ESP,DF,39,39,0.0,0.0,2014-2015,/en/players/744a8a7c/Jordi,744a8a7c,Real-Betis,"3,464",38.5,15.0,0.0,44,1.0,710,Real-Betis
+,Francisco Molinero,es ESP,DF,37,35,4.0,1.0,2014-2015,/en/players/2cea96ce/Francisco-Molinero,2cea96ce,Real-Betis,"2,922",32.5,11.0,0.0,44,1.0,1462,Real-Betis
+,Bruno González,es ESP,DF,33,31,0.0,2.0,2014-2015,/en/players/f11fe861/Bruno-Gonzalez,f11fe861,Real-Betis,"2,852",31.7,7.0,2.0,44,1.0,1463,Real-Betis
+,Jorge Molina,es ESP,FW,33,25,5.0,19.0,2014-2015,/en/players/43f71e77/Jorge-Molina,43f71e77,Real-Betis,"2,122",23.6,7.0,0.0,44,1.0,1422,Real-Betis
+,Dani Ceballos,es ESP,MF,33,24,3.0,5.0,2014-2015,/en/players/c0617e2b/Dani-Ceballos,c0617e2b,Real-Betis,"2,280",25.3,4.0,0.0,44,1.0,148,Real-Betis
+,Xavi Torres,es ESP,MF,26,23,2.0,2.0,2014-2015,/en/players/1b51ad2f/Xavi-Torres,1b51ad2f,Real-Betis,"2,020",22.4,12.0,0.0,44,1.0,1125,Real-Betis
+,Alfred N'Diaye,sn SEN,"DF,MF",28,22,2.0,1.0,2014-2015,/en/players/7789bf63/Alfred-NDiaye,7789bf63,Real-Betis,"2,008",22.3,14.0,0.0,44,34.0,1449,Real-Betis
+,Francisco Varela,es ESP,DF,22,22,3.0,0.0,2014-2015,/en/players/15b2386c/Francisco-Varela,15b2386c,Real-Betis,"1,956",21.7,6.0,0.0,44,1.0,1464,Real-Betis
+,Lorenzo Reyes,cl CHI,MF,32,21,1.0,0.0,2014-2015,/en/players/d47cd62c/Lorenzo-Reyes,d47cd62c,Real-Betis,"1,971",21.9,13.0,1.0,44,31.0,1448,Real-Betis
+,Foued Kadir,dz ALG,MF,24,20,4.0,1.0,2014-2015,/en/players/0136606c/Foued-Kadir,0136606c,Real-Betis,"1,678",18.6,5.0,0.0,44,37.0,1465,Real-Betis
+,Francisco Portillo,es ESP,MF,21,18,4.0,0.0,2014-2015,/en/players/8e010ff4/Francisco-Portillo,8e010ff4,Real-Betis,"1,548",17.2,4.0,0.0,44,1.0,1466,Real-Betis
+,Álvaro Cejudo,es ESP,MF,30,18,2.0,1.0,2014-2015,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Real-Betis,"1,525",16.9,6.0,0.0,44,1.0,1477,Real-Betis
+,Vincenzo Rennella,it ITA,FW,34,14,3.0,6.0,2014-2015,/en/players/b3c467b4/Vincenzo-Rennella,b3c467b4,Real-Betis,"1,480",16.4,6.0,0.0,44,9.0,1467,Real-Betis
+,Jorge Casado,es ESP,DF,15,14,0.0,0.0,2014-2015,/en/players/2ef06d6b/Jorge-Casado,2ef06d6b,Real-Betis,"1,292",14.4,2.0,0.0,44,1.0,1468,Real-Betis
+,Javier Matilla,es ESP,MF,15,14,2.0,1.0,2014-2015,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Real-Betis,"1,177",13.1,3.0,0.0,44,1.0,1437,Real-Betis
+,Daniel Pacheco,es ESP,"FW,MF",23,10,1.0,0.0,2014-2015,/en/players/5b2a4b8d/Daniel-Pacheco,5b2a4b8d,Real-Betis,890,9.9,3.0,0.0,44,1.0,1469,Real-Betis
+,Damien Perquis,pl POL,DF,9,8,0.0,0.0,2014-2015,/en/players/c33b3de1/Damien-Perquis,c33b3de1,Real-Betis,724,8.0,5.0,1.0,44,14.0,1442,Real-Betis
+,Cristiano Piccini,it ITA,DF,12,8,0.0,0.0,2014-2015,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Real-Betis,711,7.9,2.0,1.0,44,9.0,1001,Real-Betis
+,Álex Martínez,es ESP,"DF,MF",8,6,0.0,0.0,2014-2015,/en/players/e1c805cf/Alex-Martinez,1c805cf,Real-Betis,485,5.4,2.0,0.0,44,1.0,1428,Real-Betis
+,Héctor Rodas,es ESP,DF,5,4,0.0,0.0,2014-2015,/en/players/dcdd3a95/Hector-Rodas,dcdd3a95,Real-Betis,319,3.5,1.0,0.0,44,1.0,1470,Real-Betis
+,Dani Giménez,es ESP,GK,2,2,0.0,0.0,2014-2015,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Real-Betis,180,2.0,0.0,0.0,44,1.0,542,Real-Betis
+,Álvaro Vadillo,es ESP,"FW,MF",7,1,0.0,0.0,2014-2015,/en/players/61b62b33/Alvaro-Vadillo,61b62b33,Real-Betis,168,1.9,2.0,0.0,44,1.0,844,Real-Betis
+,José Antonio Caro,es ESP,DF,4,1,0.0,0.0,2014-2015,/en/players/02e4da70/Jose-Antonio-Caro,02e4da70,Real-Betis,167,1.9,0.0,0.0,44,1.0,1459,Real-Betis
+,Fabián Ruiz Peña,es ESP,MF,6,0,0.0,0.0,2014-2015,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Real-Betis,110,1.2,0.0,0.0,44,1.0,1471,Real-Betis
+,Nono,es ESP,MF,4,0,0.0,0.0,2014-2015,/en/players/0bd57693/Nono,0bd57693,Real-Betis,106,1.2,0.0,0.0,44,1.0,1438,Real-Betis
+,Chuli,es ESP,"FW,MF",3,0,1.0,0.0,2014-2015,/en/players/24efffbf/Chuli,24efffbf,Real-Betis,68,0.8,0.0,0.0,44,1.0,1456,Real-Betis
+,Álex Alegría,es ESP,FW,1,0,0.0,0.0,2014-2015,/en/players/46166b49/Alex-Alegria,46166b49,Real-Betis,13,0.1,0.0,0.0,44,1.0,1472,Real-Betis
+,José Carlos,es ESP,DF,0,0,,,2014-2015,/en/players/e0e03f80/Jose-Carlos,0e03f80,Real-Betis,,,,,44,1.0,1473,Real-Betis
+,Carlos García,es ESP,MF,0,0,,,2014-2015,/en/players/1e64709e/Carlos-Garcia,1e64709e,Real-Betis,,,,,44,1.0,1447,Real-Betis
+,Javi Montoya,es ESP,GK,0,0,,,2014-2015,/en/players/da33567f/Javi-Montoya,da33567f,Real-Betis,,,,,44,1.0,1474,Real-Betis
+,﻿Rubén Castro,es ESP,FW,38,38,4.0,19.0,2015-2016,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"3,373",37.5,2.0,0.0,44,1.0,400,Real-Betis
+,Antonio Adán,es ESP,GK,36,36,0.0,0.0,2015-2016,/en/players/65d62814/Antonio-Adan,65d62814,Real-Betis,"3,212",35.7,5.0,0.0,44,1.0,94,Real-Betis
+,Alfred N'Diaye,sn SEN,MF,34,34,0.0,2.0,2015-2016,/en/players/7789bf63/Alfred-NDiaye,7789bf63,Real-Betis,"3,007",33.4,6.0,0.0,44,34.0,1449,Real-Betis
+,Bruno González,es ESP,DF,32,32,0.0,0.0,2015-2016,/en/players/f11fe861/Bruno-Gonzalez,f11fe861,Real-Betis,"2,795",31.1,10.0,0.0,44,1.0,1463,Real-Betis
+,Petros,br BRA,MF,30,27,1.0,1.0,2015-2016,/en/players/7773f73b/Petros,7773f73b,Real-Betis,"2,326",25.8,9.0,1.0,44,2.0,1475,Real-Betis
+,Germán Pezzella,ar ARG,DF,25,23,1.0,3.0,2015-2016,/en/players/8c725b43/German-Pezzella,8c725b43,Real-Betis,"2,166",24.1,8.0,0.0,44,5.0,1476,Real-Betis
+,Dani Ceballos,es ESP,MF,34,22,2.0,0.0,2015-2016,/en/players/c0617e2b/Dani-Ceballos,c0617e2b,Real-Betis,"2,132",23.7,11.0,1.0,44,1.0,148,Real-Betis
+,Joaquín,es ESP,MF,30,22,5.0,1.0,2015-2016,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"1,956",21.7,3.0,0.0,44,1.0,907,Real-Betis
+,Álvaro Cejudo,es ESP,MF,30,21,2.0,1.0,2015-2016,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Real-Betis,"1,873",20.8,10.0,0.0,44,1.0,1477,Real-Betis
+,Juan Manuel Vargas,pe PER,DF,20,20,2.0,2.0,2015-2016,/en/players/d6804f6a/Juan-Manuel-Vargas,d6804f6a,Real-Betis,"1,717",19.1,8.0,1.0,44,57.0,1478,Real-Betis
+,Heiko Westermann,de GER,DF,20,20,0.0,1.0,2015-2016,/en/players/7beecde1/Heiko-Westermann,7beecde1,Real-Betis,"1,628",18.1,7.0,2.0,44,13.0,1479,Real-Betis
+,Cristiano Piccini,it ITA,DF,16,16,0.0,0.0,2015-2016,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Real-Betis,"1,419",15.8,4.0,0.0,44,9.0,1001,Real-Betis
+,Francisco Molinero,es ESP,DF,21,15,1.0,0.0,2015-2016,/en/players/2cea96ce/Francisco-Molinero,2cea96ce,Real-Betis,"1,189",13.2,5.0,0.0,44,1.0,1462,Real-Betis
+,Charly Musonda Jr.,be BEL,MF,16,13,1.0,1.0,2015-2016,/en/players/62a0089e/Charly-Musonda-Jr,62a0089e,Real-Betis,"1,226",13.6,2.0,0.0,44,27.0,1480,Real-Betis
+,Martín Montoya,es ESP,DF,13,13,1.0,0.0,2015-2016,/en/players/5cec2487/Martin-Montoya,5cec2487,Real-Betis,"1,166",13.0,4.0,0.0,44,1.0,984,Real-Betis
+,Francisco Portillo,es ESP,MF,19,11,0.0,0.0,2015-2016,/en/players/8e010ff4/Francisco-Portillo,8e010ff4,Real-Betis,968,10.8,4.0,0.0,44,1.0,1466,Real-Betis
+,Jorge Molina,es ESP,FW,23,10,1.0,1.0,2015-2016,/en/players/43f71e77/Jorge-Molina,43f71e77,Real-Betis,920,10.2,4.0,0.0,44,1.0,1422,Real-Betis
+,Francisco Varela,es ESP,DF,14,10,1.0,0.0,2015-2016,/en/players/15b2386c/Francisco-Varela,15b2386c,Real-Betis,911,10.1,3.0,0.0,44,1.0,1464,Real-Betis
+,Xavi Torres,es ESP,MF,12,6,0.0,0.0,2015-2016,/en/players/1b51ad2f/Xavi-Torres,1b51ad2f,Real-Betis,637,7.1,2.0,0.0,44,1.0,1125,Real-Betis
+,Foued Kadir,dz ALG,MF,8,6,0.0,0.0,2015-2016,/en/players/0136606c/Foued-Kadir,0136606c,Real-Betis,481,5.3,1.0,0.0,44,37.0,1465,Real-Betis
+,Fabián Ruiz Peña,es ESP,MF,12,6,1.0,0.0,2015-2016,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Real-Betis,429,4.8,0.0,0.0,44,1.0,1471,Real-Betis
+,Ricky van Wolfswinkel,nl NED,FW,16,5,2.0,1.0,2015-2016,/en/players/dbe16ade/Ricky-van-Wolfswinkel,dbe16ade,Real-Betis,621,6.9,2.0,0.0,44,11.0,1481,Real-Betis
+,Didier Digard,fr FRA,MF,8,2,0.0,0.0,2015-2016,/en/players/557f1466/Didier-Digard,557f1466,Real-Betis,298,3.3,2.0,0.0,44,4.0,1482,Real-Betis
+,Dani Giménez,es ESP,GK,3,2,0.0,0.0,2015-2016,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Real-Betis,208,2.3,0.0,0.0,44,1.0,542,Real-Betis
+,Vincenzo Rennella,it ITA,FW,6,2,0.0,1.0,2015-2016,/en/players/b3c467b4/Vincenzo-Rennella,b3c467b4,Real-Betis,193,2.1,1.0,0.0,44,9.0,1467,Real-Betis
+,Rafael van der Vaart,nl NED,MF,7,2,0.0,0.0,2015-2016,/en/players/41473b67/Rafael-van-der-Vaart,41473b67,Real-Betis,180,2.0,0.0,0.0,44,11.0,71,Real-Betis
+,Jordi,es ESP,DF,3,2,0.0,0.0,2015-2016,/en/players/744a8a7c/Jordi,744a8a7c,Real-Betis,167,1.9,1.0,0.0,44,1.0,710,Real-Betis
+,Leandro Damião,br BRA,FW,3,1,0.0,0.0,2015-2016,/en/players/8e0eac01/Leandro-Damiao,8e0eac01,Real-Betis,130,1.4,0.0,0.0,44,2.0,1483,Real-Betis
+,Álvaro Vadillo,es ESP,MF,3,1,0.0,0.0,2015-2016,/en/players/61b62b33/Alvaro-Vadillo,61b62b33,Real-Betis,86,1.0,0.0,0.0,44,1.0,844,Real-Betis
+,De La Calzada,es ESP,GK,0,0,,,2015-2016,/en/players/7f416479/De-La-Calzada,7f416479,Real-Betis,,,,,44,1.0,1484,Real-Betis
+,Pedro López,es ESP,GK,0,0,,,2015-2016,/en/players/bfa29677/Pedro-Lopez,bfa29677,Real-Betis,,,,,44,1.0,1461,Real-Betis
+,﻿Antonio Adán,es ESP,GK,37,37,0.0,0.0,2016-2017,/en/players/65d62814/Antonio-Adan,65d62814,Real-Betis,"3,330",37.0,5.0,0.0,44,1.0,94,Real-Betis
+,Germán Pezzella,ar ARG,DF,36,36,0.0,1.0,2016-2017,/en/players/8c725b43/German-Pezzella,8c725b43,Real-Betis,"3,099",34.4,10.0,0.0,44,5.0,1476,Real-Betis
+,Rubén Castro,es ESP,FW,35,32,3.0,13.0,2016-2017,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,"2,777",30.9,3.0,0.0,44,1.0,400,Real-Betis
+,Riza Durmisi,dk DEN,DF,27,27,4.0,1.0,2016-2017,/en/players/e5cd9da6/Riza-Durmisi,5cd9da6,Real-Betis,"2,385",26.5,4.0,0.0,44,7.0,1485,Real-Betis
+,Aïssa Mandi,dz ALG,DF,26,25,1.0,2.0,2016-2017,/en/players/fbd6378b/Aissa-Mandi,fbd6378b,Real-Betis,"2,215",24.6,4.0,0.0,44,37.0,1486,Real-Betis
+,Dani Ceballos,es ESP,MF,30,24,2.0,2.0,2016-2017,/en/players/c0617e2b/Dani-Ceballos,c0617e2b,Real-Betis,"2,339",26.0,8.0,0.0,44,1.0,148,Real-Betis
+,Petros,br BRA,MF,32,24,2.0,1.0,2016-2017,/en/players/7773f73b/Petros,7773f73b,Real-Betis,"2,142",23.8,9.0,1.0,44,2.0,1475,Real-Betis
+,Cristiano Piccini,it ITA,DF,23,21,3.0,2.0,2016-2017,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Real-Betis,"1,738",19.3,6.0,2.0,44,9.0,1001,Real-Betis
+,Joaquín,es ESP,"FW,MF",28,19,3.0,3.0,2016-2017,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"1,673",18.6,2.0,0.0,44,1.0,907,Real-Betis
+,Darko Brašanac,rs SRB,MF,25,19,1.0,1.0,2016-2017,/en/players/4accb7e0/Darko-Brasanac,4accb7e0,Real-Betis,"1,621",18.0,7.0,0.0,44,28.0,1487,Real-Betis
+,Alin Toșca,ro ROU,DF,17,17,0.0,0.0,2016-2017,/en/players/322ba2df/Alin-Tosca,322ba2df,Real-Betis,"1,501",16.7,2.0,0.0,44,51.0,1501,Real-Betis
+,Antonio Sanabria,py PAR,FW,22,16,1.0,4.0,2016-2017,/en/players/0a447501/Antonio-Sanabria,0a447501,Real-Betis,"1,490",16.6,2.0,0.0,44,43.0,1488,Real-Betis
+,Álex Alegría,es ESP,FW,25,15,2.0,3.0,2016-2017,/en/players/46166b49/Alex-Alegria,46166b49,Real-Betis,"1,438",16.0,2.0,0.0,44,1.0,1472,Real-Betis
+,Bruno González,es ESP,DF,16,15,0.0,1.0,2016-2017,/en/players/f11fe861/Bruno-Gonzalez,f11fe861,Real-Betis,"1,331",14.8,9.0,0.0,44,1.0,1463,Real-Betis
+,Rubén Pardo,es ESP,MF,16,15,0.0,1.0,2016-2017,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Betis,"1,265",14.1,2.0,0.0,44,1.0,289,Real-Betis
+,Jonas Martin,fr FRA,MF,20,15,0.0,2.0,2016-2017,/en/players/468fdbad/Jonas-Martin,468fdbad,Real-Betis,"1,153",12.8,5.0,0.0,44,4.0,1489,Real-Betis
+,Rafa Navarro,es ESP,DF,18,14,2.0,2.0,2016-2017,/en/players/83627094/Rafa-Navarro,83627094,Real-Betis,"1,280",14.2,3.0,0.0,44,1.0,1490,Real-Betis
+,Álex Martínez,es ESP,DF,14,11,0.0,0.0,2016-2017,/en/players/e1c805cf/Alex-Martinez,1c805cf,Real-Betis,967,10.7,2.0,0.0,44,1.0,1428,Real-Betis
+,Ryan Donk,sr SUR,"MF,DF",16,9,1.0,0.0,2016-2017,/en/players/d072a976/Ryan-Donk,d072a976,Real-Betis,859,9.5,3.0,0.0,44,79.0,1491,Real-Betis
+,Felipe Gutiérrez,cl CHI,MF,14,9,0.0,1.0,2016-2017,/en/players/80ae314a/Felipe-Gutierrez,80ae314a,Real-Betis,757,8.4,3.0,0.0,44,31.0,1492,Real-Betis
+,Álvaro Cejudo,es ESP,"MF,FW",17,6,1.0,1.0,2016-2017,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Real-Betis,815,9.1,8.0,0.0,44,1.0,1477,Real-Betis
+,José Carlos,es ESP,DF,6,6,0.0,0.0,2016-2017,/en/players/e0e03f80/Jose-Carlos,0e03f80,Real-Betis,496,5.5,0.0,0.0,44,1.0,1473,Real-Betis
+,Fabián Ruiz Peña,es ESP,MF,4,3,0.0,0.0,2016-2017,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Real-Betis,152,1.7,0.0,0.0,44,1.0,1471,Real-Betis
+,Charly Musonda Jr.,be BEL,MF,8,1,1.0,0.0,2016-2017,/en/players/62a0089e/Charly-Musonda-Jr,62a0089e,Real-Betis,284,3.2,2.0,0.0,44,27.0,1480,Real-Betis
+,Roman Zozulya,ua UKR,FW,6,1,0.0,0.0,2016-2017,/en/players/cc862ec7/Roman-Zozulya,cc862ec7,Real-Betis,155,1.7,1.0,0.0,44,29.0,1493,Real-Betis
+,Dani Giménez,es ESP,GK,1,1,0.0,0.0,2016-2017,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Real-Betis,90,1.0,1.0,1.0,44,1.0,542,Real-Betis
+,Matías Nahuel,es ESP,"FW,MF",10,0,0.0,0.0,2016-2017,/en/players/48e4c485/Matias-Nahuel,48e4c485,Real-Betis,156,1.7,0.0,1.0,44,1.0,554,Real-Betis
+,Manu Herrera,es ESP,GK,0,0,,,2016-2017,/en/players/ad2acc39/Manu-Herrera,d2acc39,Real-Betis,,,,,44,1.0,1494,Real-Betis
+,﻿Aïssa Mandi,dz ALG,DF,34,34,0.0,1.0,2017-2018,/en/players/fbd6378b/Aissa-Mandi,fbd6378b,Real-Betis,"3,024",33.6,9.0,1.0,44,37.0,1486,Real-Betis
+,Antonio Adán,es ESP,GK,30,30,2.0,0.0,2017-2018,/en/players/65d62814/Antonio-Adan,65d62814,Real-Betis,"2,700",30.0,4.0,0.0,44,1.0,94,Real-Betis
+,Fabián Ruiz Peña,es ESP,MF,34,30,6.0,3.0,2017-2018,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Real-Betis,"2,659",29.5,3.0,0.0,44,1.0,1471,Real-Betis
+,Joaquín,es ESP,"MF,FW",35,29,7.0,4.0,2017-2018,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"2,479",27.5,7.0,0.0,44,1.0,907,Real-Betis
+,Antonio Barragán,es ESP,DF,29,28,6.0,0.0,2017-2018,/en/players/487d9b09/Antonio-Barragan,487d9b09,Real-Betis,"2,373",26.4,7.0,0.0,44,1.0,414,Real-Betis
+,Javi García,es ESP,"MF,DF",32,27,0.0,1.0,2017-2018,/en/players/167c1bb0/Javi-Garcia,167c1bb0,Real-Betis,"2,410",26.8,7.0,0.0,44,1.0,35,Real-Betis
+,Andrés Guardado,mx MEX,MF,29,25,8.0,2.0,2017-2018,/en/players/ef322658/Andres-Guardado,f322658,Real-Betis,"2,264",25.2,7.0,0.0,44,20.0,422,Real-Betis
+,Jordi Amat,es ESP,"DF,MF",25,24,0.0,0.0,2017-2018,/en/players/d70a2141/Jordi-Amat,d70a2141,Real-Betis,"2,045",22.7,7.0,2.0,44,1.0,1495,Real-Betis
+,Riza Durmisi,dk DEN,DF,24,23,3.0,2.0,2017-2018,/en/players/e5cd9da6/Riza-Durmisi,5cd9da6,Real-Betis,"2,080",23.1,4.0,0.0,44,7.0,1485,Real-Betis
+,Sergio León,es ESP,FW,31,23,1.0,11.0,2017-2018,/en/players/0a0cc13c/Sergio-Leon,0a0cc13c,Real-Betis,"1,978",22.0,5.0,0.0,44,1.0,1496,Real-Betis
+,Cristian Tello,es ESP,"MF,FW",32,16,3.0,4.0,2017-2018,/en/players/72a99e38/Cristian-Tello,72a99e38,Real-Betis,"1,693",18.8,2.0,0.0,44,1.0,1142,Real-Betis
+,Marc Bartra,es ESP,DF,16,16,0.0,1.0,2017-2018,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Real-Betis,"1,420",15.8,6.0,0.0,44,1.0,1135,Real-Betis
+,Ryad Boudebouz,dz ALG,"MF,FW",27,15,3.0,2.0,2017-2018,/en/players/1001ae82/Ryad-Boudebouz,1001ae82,Real-Betis,"1,360",15.1,2.0,0.0,44,37.0,810,Real-Betis
+,Zouhair Feddal,ma MAR,DF,15,14,0.0,3.0,2017-2018,/en/players/89151b16/Zouhair-Feddal,89151b16,Real-Betis,"1,257",14.0,7.0,0.0,44,26.0,1497,Real-Betis
+,Víctor Camarasa,es ESP,MF,24,14,0.0,1.0,2017-2018,/en/players/b2d03887/Victor-Camarasa,b2d03887,Real-Betis,"1,252",13.9,1.0,0.0,44,1.0,1498,Real-Betis
+,Junior Firpo,es ESP,DF,14,14,2.0,2.0,2017-2018,/en/players/24f59bb2/Junior-Firpo,24f59bb2,Real-Betis,"1,189",13.2,4.0,0.0,44,1.0,1189,Real-Betis
+,Loren Morón,es ESP,FW,15,12,0.0,7.0,2017-2018,/en/players/3aa4a3be/Loren-Moron,3aa4a3be,Real-Betis,"1,060",11.8,3.0,0.0,44,1.0,1499,Real-Betis
+,Francis Guerrero,es ESP,"DF,MF",14,10,0.0,1.0,2017-2018,/en/players/59d53e8a/Francis-Guerrero,59d53e8a,Real-Betis,993,11.0,2.0,0.0,44,1.0,1500,Real-Betis
+,Antonio Sanabria,py PAR,FW,17,8,0.0,8.0,2017-2018,/en/players/0a447501/Antonio-Sanabria,0a447501,Real-Betis,853,9.5,0.0,0.0,44,43.0,1488,Real-Betis
+,Alin Toșca,ro ROU,DF,6,5,0.0,0.0,2017-2018,/en/players/322ba2df/Alin-Tosca,322ba2df,Real-Betis,423,4.7,0.0,0.0,44,51.0,1501,Real-Betis
+,Pedro López,es ESP,GK,5,4,0.0,0.0,2017-2018,/en/players/bfa29677/Pedro-Lopez,bfa29677,Real-Betis,412,4.6,0.0,0.0,44,1.0,1461,Real-Betis
+,Dani Giménez,es ESP,GK,4,4,0.0,0.0,2017-2018,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Real-Betis,308,3.4,0.0,0.0,44,1.0,542,Real-Betis
+,Juanjo Narváez,co COL,MF,7,4,0.0,0.0,2017-2018,/en/players/485e4939/Juanjo-Narvaez,485e4939,Real-Betis,304,3.4,0.0,0.0,44,19.0,1502,Real-Betis
+,Rubén Castro,es ESP,FW,10,3,1.0,1.0,2017-2018,/en/players/d109f62b/Ruben-Castro,d109f62b,Real-Betis,359,4.0,0.0,0.0,44,1.0,400,Real-Betis
+,Matías Nahuel,es ESP,"MF,FW",7,3,0.0,0.0,2017-2018,/en/players/48e4c485/Matias-Nahuel,48e4c485,Real-Betis,251,2.8,2.0,0.0,44,1.0,554,Real-Betis
+,Joel Campbell,cr CRC,"MF,FW",8,2,1.0,2.0,2017-2018,/en/players/895ff3ca/Joel-Campbell,895ff3ca,Real-Betis,214,2.4,1.0,0.0,44,22.0,1441,Real-Betis
+,Rafa Navarro,es ESP,DF,3,1,0.0,0.0,2017-2018,/en/players/83627094/Rafa-Navarro,83627094,Real-Betis,134,1.5,0.0,0.0,44,1.0,1490,Real-Betis
+,Julio Gracia,es ESP,"DF,MF",2,0,0.0,0.0,2017-2018,/en/players/314eeab1/Julio-Gracia,314eeab1,Real-Betis,23,0.3,0.0,0.0,44,1.0,1503,Real-Betis
+,Aitor Ruibal,es ESP,MF,2,0,0.0,0.0,2017-2018,/en/players/a55d8df5/Aitor-Ruibal,55d8df5,Real-Betis,9,0.1,0.0,0.0,44,1.0,1504,Real-Betis
+,Rebollo,es ESP,GK,0,0,,,2017-2018,/en/players/3c251970/Rebollo,3c251970,Real-Betis,,,,,44,1.0,1505,Real-Betis
+,Redru,es ESP,DF,0,0,,,2017-2018,/en/players/70a6ce32/Redru,70a6ce32,Real-Betis,,,,,44,1.0,1506,Real-Betis
+,﻿Aïssa Mandi,dz ALG,DF,35,34,1.0,1.0,2018-2019,/en/players/fbd6378b/Aissa-Mandi,fbd6378b,Real-Betis,"3,059",34.0,10.0,0.0,44,37.0,1486,Real-Betis
+,Pau López,es ESP,GK,33,33,0.0,0.0,2018-2019,/en/players/20b9f052/Pau-Lopez,20b9f052,Real-Betis,"2,970",33.0,3.0,0.0,44,1.0,1507,Real-Betis
+,Marc Bartra,es ESP,DF,33,33,0.0,1.0,2018-2019,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Real-Betis,"2,928",32.5,4.0,0.0,44,1.0,1135,Real-Betis
+,Sergio Canales,es ESP,MF,32,30,2.0,7.0,2018-2019,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Betis,"2,655",29.5,5.0,0.0,44,1.0,93,Real-Betis
+,Giovani Lo Celso,ar ARG,"MF,FW",32,27,4.0,9.0,2018-2019,/en/players/d7553721/Giovani-Lo-Celso,d7553721,Real-Betis,"2,397",26.6,5.0,0.0,44,5.0,1508,Real-Betis
+,Andrés Guardado,mx MEX,"MF,DF",31,27,4.0,0.0,2018-2019,/en/players/ef322658/Andres-Guardado,f322658,Real-Betis,"2,335",25.9,8.0,0.0,44,20.0,422,Real-Betis
+,William Carvalho,pt POR,MF,30,26,5.0,0.0,2018-2019,/en/players/dee86451/William-Carvalho,dee86451,Real-Betis,"2,385",26.5,7.0,0.0,44,3.0,1509,Real-Betis
+,Loren Morón,es ESP,FW,33,22,0.0,6.0,2018-2019,/en/players/3aa4a3be/Loren-Moron,3aa4a3be,Real-Betis,"1,957",21.7,4.0,0.0,44,1.0,1499,Real-Betis
+,Junior Firpo,es ESP,"DF,FW",24,22,4.0,3.0,2018-2019,/en/players/24f59bb2/Junior-Firpo,24f59bb2,Real-Betis,"1,937",21.5,7.0,0.0,44,1.0,1189,Real-Betis
+,Francis Guerrero,es ESP,"DF,FW",22,22,1.0,0.0,2018-2019,/en/players/59d53e8a/Francis-Guerrero,59d53e8a,Real-Betis,"1,778",19.8,2.0,0.0,44,1.0,1500,Real-Betis
+,Sidnei,br BRA,DF,24,20,0.0,1.0,2018-2019,/en/players/b14d0c5d/Sidnei,b14d0c5d,Real-Betis,"1,742",19.4,4.0,0.0,44,2.0,488,Real-Betis
+,Zouhair Feddal,ma MAR,DF,21,19,1.0,1.0,2018-2019,/en/players/89151b16/Zouhair-Feddal,89151b16,Real-Betis,"1,702",18.9,7.0,0.0,44,26.0,1497,Real-Betis
+,Joaquín,es ESP,"FW,MF",30,17,0.0,6.0,2018-2019,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"1,696",18.8,5.0,0.0,44,1.0,907,Real-Betis
+,Cristian Tello,es ESP,"DF,MF",29,13,6.0,4.0,2018-2019,/en/players/72a99e38/Cristian-Tello,72a99e38,Real-Betis,"1,573",17.5,3.0,0.0,44,1.0,1142,Real-Betis
+,Antonio Barragán,es ESP,"DF,FW",14,12,0.0,0.0,2018-2019,/en/players/487d9b09/Antonio-Barragan,487d9b09,Real-Betis,934,10.4,4.0,0.0,44,1.0,414,Real-Betis
+,Jesé,es ESP,"FW,MF",14,9,0.0,2.0,2018-2019,/en/players/4a537185/Jese,4a537185,Real-Betis,779,8.7,2.0,0.0,44,1.0,108,Real-Betis
+,Wilfrid Kaptoum,cm CMR,MF,10,9,0.0,0.0,2018-2019,/en/players/d717630e/Wilfrid-Kaptoum,d717630e,Real-Betis,773,8.6,2.0,0.0,44,36.0,1165,Real-Betis
+,Antonio Sanabria,py PAR,FW,15,8,0.0,2.0,2018-2019,/en/players/0a447501/Antonio-Sanabria,0a447501,Real-Betis,811,9.0,2.0,0.0,44,43.0,1488,Real-Betis
+,Sergio León,es ESP,"FW,MF",16,6,1.0,0.0,2018-2019,/en/players/0a0cc13c/Sergio-Leon,0a0cc13c,Real-Betis,638,7.1,1.0,0.0,44,1.0,1496,Real-Betis
+,Ryad Boudebouz,dz ALG,"MF,FW",9,6,0.0,0.0,2018-2019,/en/players/1001ae82/Ryad-Boudebouz,1001ae82,Real-Betis,539,6.0,1.0,0.0,44,37.0,810,Real-Betis
+,Javi García,es ESP,"DF,MF",13,6,0.0,0.0,2018-2019,/en/players/167c1bb0/Javi-Garcia,167c1bb0,Real-Betis,524,5.8,0.0,1.0,44,1.0,35,Real-Betis
+,Joel Robles,es ESP,GK,5,5,0.0,0.0,2018-2019,/en/players/cda0b317/Joel-Robles,cda0b317,Real-Betis,450,5.0,0.0,0.0,44,1.0,1510,Real-Betis
+,Takashi Inui,jp JPN,MF,8,5,0.0,0.0,2018-2019,/en/players/61bd33d0/Takashi-Inui,61bd33d0,Real-Betis,377,4.2,0.0,0.0,44,54.0,1511,Real-Betis
+,Emerson,br BRA,"FW,DF",6,4,0.0,0.0,2018-2019,/en/players/df8b52a5/Emerson,df8b52a5,Real-Betis,317,3.5,1.0,0.0,44,2.0,1221,Real-Betis
+,Diego Lainez,mx MEX,"MF,FW",12,3,1.0,0.0,2018-2019,/en/players/bf12926c/Diego-Lainez,bf12926c,Real-Betis,353,3.9,2.0,0.0,44,20.0,1512,Real-Betis
+,Paul Akouokou,ci CIV,MF,0,0,,,2018-2019,/en/players/31f5b89b/Paul-Akouokou,31f5b89b,Real-Betis,,,,,44,35.0,1513,Real-Betis
+,Julio Alonso,es ESP,DF,0,0,,,2018-2019,/en/players/8fcea8a1/Julio-Alonso,8fcea8a1,Real-Betis,,,,,44,1.0,1514,Real-Betis
+,Diego Altamirano,es ESP,FW,0,0,,,2018-2019,/en/players/d7752b89/Diego-Altamirano,d7752b89,Real-Betis,,,,,44,1.0,1515,Real-Betis
+,Darko Brašanac,rs SRB,MF,0,0,,,2018-2019,/en/players/4accb7e0/Darko-Brasanac,4accb7e0,Real-Betis,,,,,44,28.0,1487,Real-Betis
+,Roberto González,es ESP,MF,0,0,,,2018-2019,/en/players/56545648/Roberto-Gonzalez,56545648,Real-Betis,,,,,44,1.0,1516,Real-Betis
+,Adrián Tellado,es ESP,MF,0,0,,,2018-2019,/en/players/1fc9a88f/Adrian-Tellado,1fc9a88f,Real-Betis,,,,,44,1.0,1517,Real-Betis
+,﻿Sergio Canales,es ESP,MF,36,36,6.0,6.0,2019-2020,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Betis,"3,163",35.1,5.0,0.0,44,1.0,93,Real-Betis
+,Joel Robles,es ESP,GK,33,33,0.0,0.0,2019-2020,/en/players/cda0b317/Joel-Robles,cda0b317,Real-Betis,"2,887",32.1,3.0,1.0,44,1.0,1510,Real-Betis
+,Emerson,br BRA,DF,33,32,6.0,3.0,2019-2020,/en/players/df8b52a5/Emerson,df8b52a5,Real-Betis,"2,839",31.5,11.0,0.0,44,2.0,1221,Real-Betis
+,Nabil Fekir,fr FRA,"MF,FW",32,31,4.0,7.0,2019-2020,/en/players/bece776f/Nabil-Fekir,bece776f,Real-Betis,"2,638",29.3,10.0,2.0,44,4.0,1518,Real-Betis
+,Aïssa Mandi,dz ALG,DF,29,29,0.0,0.0,2019-2020,/en/players/fbd6378b/Aissa-Mandi,fbd6378b,Real-Betis,"2,576",28.6,9.0,0.0,44,37.0,1486,Real-Betis
+,Marc Bartra,es ESP,"DF,MF",30,29,1.0,3.0,2019-2020,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Real-Betis,"2,524",28.0,8.0,0.0,44,1.0,1135,Real-Betis
+,Álex Moreno,es ESP,DF,31,25,4.0,0.0,2019-2020,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Real-Betis,"2,265",25.2,5.0,0.0,44,1.0,1519,Real-Betis
+,Joaquín,es ESP,MF,34,25,3.0,8.0,2019-2020,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"2,060",22.9,4.0,0.0,44,1.0,907,Real-Betis
+,Andrés Guardado,mx MEX,MF,28,25,3.0,0.0,2019-2020,/en/players/ef322658/Andres-Guardado,f322658,Real-Betis,"2,046",22.7,9.0,0.0,44,20.0,422,Real-Betis
+,Loren Morón,es ESP,FW,36,21,3.0,10.0,2019-2020,/en/players/3aa4a3be/Loren-Moron,3aa4a3be,Real-Betis,"2,031",22.6,2.0,1.0,44,1.0,1499,Real-Betis
+,Borja Iglesias,es ESP,FW,35,21,2.0,3.0,2019-2020,/en/players/75645f0e/Borja-Iglesias,75645f0e,Real-Betis,"1,922",21.4,3.0,1.0,44,1.0,773,Real-Betis
+,Zouhair Feddal,ma MAR,DF,17,16,2.0,1.0,2019-2020,/en/players/89151b16/Zouhair-Feddal,89151b16,Real-Betis,"1,431",15.9,10.0,2.0,44,26.0,1497,Real-Betis
+,Alfonso Pedraza,es ESP,DF,21,15,0.0,1.0,2019-2020,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Real-Betis,"1,349",15.0,3.0,0.0,44,1.0,1520,Real-Betis
+,Sidnei,br BRA,DF,14,14,0.0,1.0,2019-2020,/en/players/b14d0c5d/Sidnei,b14d0c5d,Real-Betis,"1,175",13.1,1.0,0.0,44,2.0,488,Real-Betis
+,Guido Rodríguez,ar ARG,MF,14,11,0.0,1.0,2019-2020,/en/players/34e393f2/Guido-Rodriguez,34e393f2,Real-Betis,936,10.4,5.0,0.0,44,5.0,1521,Real-Betis
+,William Carvalho,pt POR,MF,13,11,0.0,0.0,2019-2020,/en/players/dee86451/William-Carvalho,dee86451,Real-Betis,892,9.9,6.0,1.0,44,3.0,1509,Real-Betis
+,Édgar González,es ESP,MF,10,9,0.0,0.0,2019-2020,/en/players/49d028db/Edgar-Gonzalez,49d028db,Real-Betis,681,7.6,3.0,0.0,44,1.0,1522,Real-Betis
+,Carles Aleñá,es ESP,MF,17,7,0.0,1.0,2019-2020,/en/players/6c811eb7/Carles-Alena,6c811eb7,Real-Betis,735,8.2,1.0,0.0,44,1.0,1162,Real-Betis
+,Antonio Barragán,es ESP,DF,12,7,1.0,0.0,2019-2020,/en/players/487d9b09/Antonio-Barragan,487d9b09,Real-Betis,641,7.1,3.0,0.0,44,1.0,414,Real-Betis
+,Cristian Tello,es ESP,"MF,FW",27,5,0.0,2.0,2019-2020,/en/players/72a99e38/Cristian-Tello,72a99e38,Real-Betis,787,8.7,1.0,0.0,44,1.0,1142,Real-Betis
+,Daniel Martín,es ESP,GK,6,5,0.0,0.0,2019-2020,/en/players/4df0dff8/Daniel-Martin,4df0dff8,Real-Betis,531,5.9,0.0,0.0,44,1.0,1523,Real-Betis
+,Javi García,es ESP,MF,8,4,0.0,0.0,2019-2020,/en/players/167c1bb0/Javi-Garcia,167c1bb0,Real-Betis,377,4.2,2.0,0.0,44,1.0,35,Real-Betis
+,Diego Lainez,mx MEX,"MF,FW",15,2,0.0,0.0,2019-2020,/en/players/bf12926c/Diego-Lainez,bf12926c,Real-Betis,348,3.9,0.0,0.0,44,20.0,1512,Real-Betis
+,Juanmi,es ESP,MF,8,2,0.0,1.0,2019-2020,/en/players/84399660/Juanmi,84399660,Real-Betis,264,2.9,2.0,1.0,44,1.0,315,Real-Betis
+,Wilfrid Kaptoum,cm CMR,MF,5,2,0.0,0.0,2019-2020,/en/players/d717630e/Wilfrid-Kaptoum,d717630e,Real-Betis,194,2.2,1.0,0.0,44,36.0,1165,Real-Betis
+,Ismael,es ESP,MF,3,1,0.0,0.0,2019-2020,/en/players/19cdceb0/Ismael,19cdceb0,Real-Betis,83,0.9,1.0,0.0,44,1.0,1524,Real-Betis
+,Raúl,es ESP,"FW,MF",3,0,0.0,0.0,2019-2020,/en/players/18f0a9f0/Raul,18f0a9f0,Real-Betis,19,0.2,0.0,0.0,44,1.0,1525,Real-Betis
+,Baena,es ESP,FW,0,0,,,2019-2020,/en/players/89e9bdcc/Baena,89e9bdcc,Real-Betis,,,,,44,1.0,1526,Real-Betis
+,Nil Garrido,es ESP,MF,0,0,,,2019-2020,/en/players/da263c16/Nil-Garrido,da263c16,Real-Betis,,,,,44,1.0,1527,Real-Betis
+,Jime,es ESP,MF,0,0,,,2019-2020,/en/players/227c27df/Jime,227c27df,Real-Betis,,,,,44,1.0,1528,Real-Betis
+,José Luis Trápaga,es ESP,DF,0,0,,,2019-2020,/en/players/3b40d0c0/Jose-Luis-Trapaga,3b40d0c0,Real-Betis,,,,,44,1.0,1529,Real-Betis
+,Carlos Marín,es ESP,GK,0,0,,,2019-2020,/en/players/36ba66aa/Carlos-Marin,36ba66aa,Real-Betis,,,,,44,1.0,1530,Real-Betis
+,David Ramos,es ESP,MF,0,0,,,2019-2020,/en/players/1ba96fea/David-Ramos,1ba96fea,Real-Betis,,,,,44,1.0,1531,Real-Betis
+,Rebollo,es ESP,GK,0,0,,,2019-2020,/en/players/3c251970/Rebollo,3c251970,Real-Betis,,,,,44,1.0,1505,Real-Betis
+,Rodrigo,es ESP,MF,0,0,,,2019-2020,/en/players/85bed4ee/Rodrigo,85bed4ee,Real-Betis,,,,,44,1.0,1532,Real-Betis
+,Ricardo Visus,,,0,0,,,2019-2020,/en/players/35f1a7a2/Ricardo-Visus,35f1a7a2,Real-Betis,,,,,44,,90011,Real-Betis
+,﻿Emerson,br BRA,DF,34,34,4.0,1.0,2020-2021,/en/players/df8b52a5/Emerson,df8b52a5,Real-Betis,"2,991",33.2,9.0,1.0,44,2.0,1221,Real-Betis
+,Guido Rodríguez,ar ARG,MF,35,34,0.0,1.0,2020-2021,/en/players/34e393f2/Guido-Rodriguez,34e393f2,Real-Betis,"2,864",31.8,10.0,0.0,44,5.0,1521,Real-Betis
+,Nabil Fekir,fr FRA,"MF,FW",33,33,6.0,5.0,2020-2021,/en/players/bece776f/Nabil-Fekir,bece776f,Real-Betis,"2,622",29.1,5.0,1.0,44,4.0,1518,Real-Betis
+,Sergio Canales,es ESP,MF,31,28,6.0,8.0,2020-2021,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Betis,"2,498",27.8,4.0,0.0,44,1.0,93,Real-Betis
+,Aïssa Mandi,dz ALG,DF,28,27,1.0,3.0,2020-2021,/en/players/fbd6378b/Aissa-Mandi,fbd6378b,Real-Betis,"2,392",26.6,6.0,2.0,44,37.0,1486,Real-Betis
+,Víctor Ruiz,es ESP,DF,27,24,0.0,2.0,2020-2021,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Real-Betis,"2,157",24.0,9.0,0.0,44,1.0,940,Real-Betis
+,Aitor Ruibal,es ESP,MF,28,21,2.0,2.0,2020-2021,/en/players/a55d8df5/Aitor-Ruibal,55d8df5,Real-Betis,"1,593",17.7,2.0,0.0,44,1.0,1504,Real-Betis
+,Claudio Bravo,cl CHI,GK,20,20,0.0,0.0,2020-2021,/en/players/10072610/Claudio-Bravo,10072610,Real-Betis,"1,800",20.0,3.0,0.0,44,31.0,240,Real-Betis
+,Álex Moreno,es ESP,DF,23,20,2.0,0.0,2020-2021,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Real-Betis,"1,786",19.8,4.0,0.0,44,1.0,1519,Real-Betis
+,Marc Bartra,es ESP,DF,19,19,1.0,0.0,2020-2021,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Real-Betis,"1,694",18.8,3.0,0.0,44,1.0,1135,Real-Betis
+,Juan Miranda,es ESP,DF,22,18,2.0,1.0,2020-2021,/en/players/ead61f73/Juan-Miranda,d61f73,Real-Betis,"1,652",18.4,4.0,0.0,44,1.0,1185,Real-Betis
+,Joel Robles,es ESP,GK,18,18,0.0,0.0,2020-2021,/en/players/cda0b317/Joel-Robles,cda0b317,Real-Betis,"1,620",18.0,2.0,0.0,44,1.0,1510,Real-Betis
+,Andrés Guardado,mx MEX,MF,24,17,0.0,1.0,2020-2021,/en/players/ef322658/Andres-Guardado,f322658,Real-Betis,"1,318",14.6,4.0,0.0,44,20.0,422,Real-Betis
+,Joaquín,es ESP,MF,27,16,6.0,2.0,2020-2021,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,"1,291",14.3,2.0,0.0,44,1.0,907,Real-Betis
+,Borja Iglesias,es ESP,FW,28,15,0.0,11.0,2020-2021,/en/players/75645f0e/Borja-Iglesias,75645f0e,Real-Betis,"1,411",15.7,2.0,0.0,44,1.0,773,Real-Betis
+,Cristian Tello,es ESP,MF,29,12,3.0,5.0,2020-2021,/en/players/72a99e38/Cristian-Tello,72a99e38,Real-Betis,"1,283",14.3,2.0,1.0,44,1.0,1142,Real-Betis
+,William Carvalho,pt POR,MF,27,12,0.0,2.0,2020-2021,/en/players/dee86451/William-Carvalho,dee86451,Real-Betis,"1,223",13.6,6.0,1.0,44,3.0,1509,Real-Betis
+,Antonio Sanabria,py PAR,FW,16,10,0.0,3.0,2020-2021,/en/players/0a447501/Antonio-Sanabria,0a447501,Real-Betis,932,10.4,2.0,0.0,44,43.0,1488,Real-Betis
+,Loren Morón,es ESP,FW,26,9,0.0,1.0,2020-2021,/en/players/3aa4a3be/Loren-Moron,3aa4a3be,Real-Betis,991,11.0,2.0,0.0,44,1.0,1499,Real-Betis
+,Diego Lainez,mx MEX,MF,21,8,2.0,0.0,2020-2021,/en/players/bf12926c/Diego-Lainez,bf12926c,Real-Betis,862,9.6,5.0,0.0,44,20.0,1512,Real-Betis
+,Sidnei,br BRA,DF,11,7,0.0,0.0,2020-2021,/en/players/b14d0c5d/Sidnei,b14d0c5d,Real-Betis,697,7.7,1.0,0.0,44,2.0,488,Real-Betis
+,Juanmi,es ESP,"MF,FW",16,5,0.0,2.0,2020-2021,/en/players/84399660/Juanmi,84399660,Real-Betis,604,6.7,1.0,0.0,44,1.0,315,Real-Betis
+,Rodrigo,es ESP,MF,15,5,0.0,0.0,2020-2021,/en/players/85bed4ee/Rodrigo,85bed4ee,Real-Betis,537,6.0,0.0,0.0,44,1.0,1532,Real-Betis
+,Paul Akouokou,ci CIV,MF,10,4,0.0,0.0,2020-2021,/en/players/31f5b89b/Paul-Akouokou,31f5b89b,Real-Betis,378,4.2,5.0,1.0,44,35.0,1513,Real-Betis
+,Martín Montoya,es ESP,DF,5,2,0.0,0.0,2020-2021,/en/players/5cec2487/Martin-Montoya,5cec2487,Real-Betis,239,2.7,0.0,1.0,44,1.0,984,Real-Betis
+,Fran Delgado,es ESP,DF,0,0,,,2020-2021,/en/players/e7d2a50b/Fran-Delgado,7d2a50b,Real-Betis,,,,,44,1.0,1533,Real-Betis
+,Yassin Fekir,fr FRA,FW,0,0,,,2020-2021,/en/players/6644712a/Yassin-Fekir,6644712a,Real-Betis,,,,,44,4.0,1534,Real-Betis
+,Geovanni,es ESP,DF,0,0,,,2020-2021,/en/players/e66e73b1/Geovanni,66e73b1,Real-Betis,,,,,44,1.0,1535,Real-Betis
+,Carlos Marín,es ESP,GK,0,0,,,2020-2021,/en/players/36ba66aa/Carlos-Marin,36ba66aa,Real-Betis,,,,,44,1.0,1530,Real-Betis
+,Daniel Martín,es ESP,GK,0,0,,,2020-2021,/en/players/4df0dff8/Daniel-Martin,4df0dff8,Real-Betis,,,,,44,1.0,1523,Real-Betis
+,Rebollo,es ESP,GK,0,0,,,2020-2021,/en/players/3c251970/Rebollo,3c251970,Real-Betis,,,,,44,1.0,1505,Real-Betis
+,﻿Nabil Fekir,fr FRA,MF,34,33,8.0,6.0,2021-2022,/en/players/bece776f/Nabil-Fekir,bece776f,Real-Betis,"2,794",31.0,7.0,1.0,44,4.0,1518,Real-Betis
+,Sergio Canales,es ESP,MF,34,33,8.0,5.0,2021-2022,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Betis,"2,791",31.0,6.0,0.0,44,1.0,93,Real-Betis
+,Guido Rodríguez,ar ARG,MF,32,29,2.0,1.0,2021-2022,/en/players/34e393f2/Guido-Rodriguez,34e393f2,Real-Betis,"2,529",28.1,9.0,1.0,44,5.0,1521,Real-Betis
+,Álex Moreno,es ESP,DF,30,28,3.0,5.0,2021-2022,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Real-Betis,"2,404",26.7,3.0,1.0,44,1.0,1519,Real-Betis
+,Juanmi,es ESP,MF,33,26,4.0,16.0,2021-2022,/en/players/84399660/Juanmi,84399660,Real-Betis,"2,131",23.7,5.0,0.0,44,1.0,315,Real-Betis
+,Marc Bartra,es ESP,DF,23,23,0.0,1.0,2021-2022,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Real-Betis,"1,993",22.1,5.0,0.0,44,1.0,1135,Real-Betis
+,Germán Pezzella,ar ARG,DF,23,22,0.0,1.0,2021-2022,/en/players/8c725b43/German-Pezzella,8c725b43,Real-Betis,"1,988",22.1,5.0,1.0,44,5.0,1476,Real-Betis
+,Héctor Bellerín,es ESP,DF,23,22,2.0,0.0,2021-2022,/en/players/f874dd44/Hector-Bellerin,f874dd44,Real-Betis,"1,979",22.0,2.0,1.0,44,1.0,1536,Real-Betis
+,Rui Silva,pt POR,GK,22,21,0.0,0.0,2021-2022,/en/players/ea83bfa6/Rui-Silva,83bfa6,Real-Betis,"1,964",21.8,2.0,0.0,44,3.0,1537,Real-Betis
+,William Carvalho,pt POR,MF,33,20,3.0,2.0,2021-2022,/en/players/dee86451/William-Carvalho,dee86451,Real-Betis,"1,805",20.1,6.0,0.0,44,3.0,1509,Real-Betis
+,Willian José,br BRA,FW,32,19,4.0,8.0,2021-2022,/en/players/d87e2cae/Willian-Jose,d87e2cae,Real-Betis,"1,604",17.8,2.0,0.0,44,2.0,120,Real-Betis
+,Borja Iglesias,es ESP,FW,33,18,0.0,10.0,2021-2022,/en/players/75645f0e/Borja-Iglesias,75645f0e,Real-Betis,"1,573",17.5,4.0,0.0,44,1.0,773,Real-Betis
+,Claudio Bravo,cl CHI,GK,17,17,0.0,0.0,2021-2022,/en/players/10072610/Claudio-Bravo,10072610,Real-Betis,"1,456",16.2,2.0,0.0,44,31.0,240,Real-Betis
+,Víctor Ruiz,es ESP,DF,18,17,0.0,0.0,2021-2022,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Real-Betis,"1,424",15.8,2.0,0.0,44,1.0,940,Real-Betis
+,Andrés Guardado,mx MEX,MF,28,17,1.0,0.0,2021-2022,/en/players/ef322658/Andres-Guardado,f322658,Real-Betis,"1,393",15.5,4.0,0.0,44,20.0,422,Real-Betis
+,Édgar González,es ESP,DF,21,14,1.0,1.0,2021-2022,/en/players/49d028db/Edgar-Gonzalez,49d028db,Real-Betis,"1,464",16.3,6.0,0.0,44,1.0,1522,Real-Betis
+,Rodrigo,es ESP,MF,21,10,2.0,1.0,2021-2022,/en/players/85bed4ee/Rodrigo,85bed4ee,Real-Betis,881,9.8,1.0,0.0,44,1.0,1532,Real-Betis
+,Aitor Ruibal,es ESP,"MF,DF",19,9,0.0,0.0,2021-2022,/en/players/a55d8df5/Aitor-Ruibal,55d8df5,Real-Betis,856,9.5,6.0,0.0,44,1.0,1504,Real-Betis
+,Youssouf Sabaly,sn SEN,DF,10,9,1.0,0.0,2021-2022,/en/players/fbbb9269/Youssouf-Sabaly,fbbb9269,Real-Betis,788,8.8,1.0,0.0,44,34.0,1538,Real-Betis
+,Juan Miranda,es ESP,DF,13,9,2.0,0.0,2021-2022,/en/players/ead61f73/Juan-Miranda,d61f73,Real-Betis,783,8.7,3.0,0.0,44,1.0,1185,Real-Betis
+,Martín Montoya,es ESP,DF,6,6,1.0,0.0,2021-2022,/en/players/5cec2487/Martin-Montoya,5cec2487,Real-Betis,518,5.8,2.0,0.0,44,1.0,984,Real-Betis
+,Paul Akouokou,ci CIV,MF,8,6,0.0,0.0,2021-2022,/en/players/31f5b89b/Paul-Akouokou,31f5b89b,Real-Betis,516,5.7,2.0,1.0,44,35.0,1513,Real-Betis
+,Cristian Tello,es ESP,MF,23,5,2.0,2.0,2021-2022,/en/players/72a99e38/Cristian-Tello,72a99e38,Real-Betis,819,9.1,2.0,0.0,44,1.0,1142,Real-Betis
+,Joaquín,es ESP,MF,21,2,1.0,0.0,2021-2022,/en/players/4c5b14d2/Joaquin,4c5b14d2,Real-Betis,471,5.2,0.0,0.0,44,1.0,907,Real-Betis
+,Diego Lainez,mx MEX,MF,7,1,0.0,0.0,2021-2022,/en/players/bf12926c/Diego-Lainez,bf12926c,Real-Betis,140,1.6,0.0,0.0,44,20.0,1512,Real-Betis
+,Roberto González,es ESP,MF,4,1,0.0,0.0,2021-2022,/en/players/56545648/Roberto-Gonzalez,56545648,Real-Betis,135,1.5,0.0,0.0,44,1.0,1516,Real-Betis
+,Kike Hermoso,es ESP,DF,1,1,0.0,1.0,2021-2022,/en/players/dea912dc/Kike-Hermoso,dea912dc,Real-Betis,90,1.0,0.0,0.0,44,1.0,1539,Real-Betis
+,Víctor Camarasa,es ESP,"MF,FW",7,0,0.0,0.0,2021-2022,/en/players/b2d03887/Victor-Camarasa,b2d03887,Real-Betis,108,1.2,0.0,0.0,44,1.0,1498,Real-Betis
+,Calderón,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/da4e70e5/Calderon,da4e70e5,Real-Betis,65,0.7,0.0,0.0,44,1.0,1540,Real-Betis
+,Loren Morón,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/3aa4a3be/Loren-Moron,3aa4a3be,Real-Betis,4,0.0,0.0,0.0,44,1.0,1499,Real-Betis
+,Raúl,es ESP,"MF,DF",1,0,0.0,0.0,2021-2022,/en/players/18f0a9f0/Raul,18f0a9f0,Real-Betis,1,0.0,0.0,0.0,44,1.0,1525,Real-Betis
+,Fran Delgado,es ESP,DF,0,0,,,2021-2022,/en/players/e7d2a50b/Fran-Delgado,7d2a50b,Real-Betis,,,,,44,1.0,1533,Real-Betis
+,Yassin Fekir,fr FRA,FW,0,0,,,2021-2022,/en/players/6644712a/Yassin-Fekir,6644712a,Real-Betis,,,,,44,4.0,1534,Real-Betis
+,Marchena,es ESP,MF,0,0,,,2021-2022,/en/players/c0178833/Marchena,c0178833,Real-Betis,,,,,44,1.0,1541,Real-Betis
+,Rebollo,es ESP,GK,0,0,,,2021-2022,/en/players/3c251970/Rebollo,3c251970,Real-Betis,,,,,44,1.0,1505,Real-Betis
+,Joel Robles,es ESP,GK,0,0,,,2021-2022,/en/players/cda0b317/Joel-Robles,cda0b317,Real-Betis,,,,,44,1.0,1510,Real-Betis
+,Sidnei,br BRA,DF,0,0,,,2021-2022,/en/players/b14d0c5d/Sidnei,b14d0c5d,Real-Betis,,,,,44,2.0,488,Real-Betis

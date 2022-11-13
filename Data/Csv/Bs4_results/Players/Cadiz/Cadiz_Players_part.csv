@@ -1,111 +1,232 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-4326.0,Suárez,/en/players/7a4e91d6/Suarez,Suarez,7a4e91d6,es ESP,MF,Cadiz
-4327.0,Raúl López,/en/players/47b23e44/Raul-Lopez,Raul-Lopez,47b23e44,es ESP,DF,Cadiz
-4328.0,Oli,/en/players/656bea4c/Oli,Oli,656bea4c,es ESP,FW,Cadiz
-4329.0,Manolo Pérez,/en/players/4ac8dad5/Manolo-Perez,Manolo-Perez,4ac8dad5,es ESP,MF,Cadiz
-4330.0,Jesús Velázquez,/en/players/d22908de/Jesus-Velazquez,Jesus-Velazquez,d22908de,es ESP,DF,Cadiz
-4331.0,Abraham Paz,/en/players/15ec0042/Abraham-Paz,Abraham-Paz,15ec0042,es ESP,DF,Cadiz
-4332.0,Raúl Navas,/en/players/7bb77368/Raul-Navas,Raul-Nav,7bb77368,es ESP,GK,Cadiz
-4333.0,Matías Pavoni,/en/players/3b9b8fb9/Matias-Pavoni,Matias-Pavoni,3b9b8fb9,ar ARG,MF,Cadiz
-4334.0,Alejandro Varela,/en/players/a4b48b6b/Alejandro-Varela,Alejandro-V,4b48b6b,es ESP,DF,Cadiz
-4335.0,James Obiorah,/en/players/694b9928/James-Obiorah,James-Obiorah,694b9928,ng NGA,"FW,MF",Cadiz
-4336.0,Antonio Sambruno,/en/players/5b216be5/Antonio-Sambruno,Antonio-Sambruno,5b216be5,es ESP,DF,Cadiz
-4337.0,Enrique,/en/players/feb97da2/Enrique,Enriqu,feb97da2,es ESP,"FW,MF",Cadiz
-4338.0,Haruna Babangida,/en/players/ead9e515/Haruna-Babangida,Haruna-Babangid,d9e515,ng NGA,"FW,MF",Cadiz
-4339.0,Ezequiel Arana,/en/players/815760c4/Ezequiel-Arana,Ezequiel-A,815760c4,es ESP,DF,Cadiz
-4340.0,Nenad Mirosavljević,/en/players/50dd4311/Nenad-Mirosavljevic,Nenad-Mirosavljevic,50dd4311,rs SRB,FW,Cadiz
-4341.0,Andrés Fleurquin,/en/players/bf3705e6/Andres-Fleurquin,Andres-Fleurqui,bf3705e6,uy URU,MF,Cadiz
-4342.0,Lucas Lobos,/en/players/4539f247/Lucas-Lobos,Lucas-Lobo,4539f247,mx MEX,"FW,MF",Cadiz
-4343.0,Alexander Medina,/en/players/986318c1/Alexander-Medina,Alexander-Medi,986318c1,uy URU,FW,Cadiz
-4344.0,Alejandro Limia,/en/players/7e844eb1/Alejandro-Limia,Alejandro-Limi,7e844eb1,ar ARG,GK,Cadiz
-4345.0,Luciano Vella,/en/players/71c8f2ca/Luciano-Vella,Luciano-V,71c8f2ca,ar ARG,DF,Cadiz
-4346.0,Miguel García,/en/players/4260ce15/Miguel-Garcia,Miguel-Garci,4260ce15,es ESP,MF,Cadiz
-4347.0,Abel Buades,/en/players/89efb84b/Abel-Buades,Abel-Buad,89efb84b,es ESP,MF,Cadiz
-4348.0,Cristian García Ramos,/en/players/73620865/Cristian-Garcia-Ramos,Cristian-Garcia-Ramo,73620865,es ESP,DF,Cadiz
-4349.0,Kamil Kosowski,/en/players/efdefe4c/Kamil-Kosowski,Kamil-Kosowski,fdefe4c,pl POL,MF,Cadiz
-4350.0,Sambégou Bangoura,/en/players/a8c6d9dd/Sambegou-Bangoura,Sambegou-Bangou,8c6d9dd,gn GUI,"FW,MF",Cadiz
-4351.0,Fran Cortés,/en/players/9efc89b7/Fran-Cortes,Fran-Cort,9efc89b7,es ESP,MF,Cadiz
-4352.0,Bienve,/en/players/d58f5380/Bienve,Bienv,d58f5380,es ESP,MF,Cadiz
-4353.0,José López Silva,/en/players/60d6ed20/Jose-Lopez-Silva,Jose-Lopez-Silv,60d6ed20,es ESP,MF,Cadiz
-4354.0,Nano,/en/players/5578668a/Nano,Nano,5578668a,es ESP,"DF,MF",Cadiz
-4355.0,Carlos Caballero,/en/players/38afdbc5/Carlos-Caballero,Carlos-Caballero,38afdbc5,es ESP,MF,Cadiz
-4356.0,Dani Miguélez,/en/players/ab4bd039/Dani-Miguelez,Dani-Miguelez,b4bd039,es ESP,GK,Cadiz
-4357.0,Roberto Mansilla,/en/players/da08ddb0/Roberto-Mansilla,Roberto-Mansi,da08ddb0,es ESP,DF,Cadiz
-4358.0,Jonathan Ramis,/en/players/1e278026/Jonathan-Ramis,Jonathan-Rami,1e278026,uy URU,"FW,MF",Cadiz
-4359.0,Fernando Velasco,/en/players/7a44f25b/Fernando-Velasco,Fernando-Velasco,7a44f25b,es ESP,MF,Cadiz
-4360.0,Zdeněk Zlámal,/en/players/fcd24f5f/Zdenek-Zlamal,Zdenek-Zlam,fcd24f5f,cz CZE,GK,Cadiz
-4361.0,Miloš Bogunović,/en/players/c21bb69a/Milos-Bogunovic,Milos-Bogunovic,c21bb69a,rs SRB,"FW,MF",Cadiz
-4362.0,﻿Josete,/en/players/c3a79d87/Josete,Joset,c3a79d87,es ESP,DF,Cadiz
-4363.0,Jon Ander Garrido,/en/players/c46736ab/Jon-Ander-Garrido,Jon-Ander-Garrido,c46736ab,es ESP,MF,Cadiz
-4364.0,Fran Machado,/en/players/285976d5/Fran-Machado,Fran-Machado,285976d5,es ESP,MF,Cadiz
-4365.0,Aitor Arregi,/en/players/37680d06/Aitor-Arregi,Aitor-Arregi,37680d06,es ESP,DF,Cadiz
-4366.0,Tomás Sánchez Mesa,/en/players/d6841c32/Tomas-Sanchez-Mesa,Tomas-Sanchez-M,d6841c32,es ESP,DF,Cadiz
-4367.0,Miguel Alberto García Díaz,/en/players/57ecb2b9/Miguel-Alberto-Garcia-Diaz,Miguel-Alberto-Garcia-Diaz,57ecb2b9,es ESP,MF,Cadiz
-4368.0,Gerardo Navarrete,/en/players/e5cabc7a/Gerardo-Navarrete,Gerardo-Navarret,5cabc7a,cl CHI,MF,Cadiz
-4369.0,Juanma,/en/players/2700600a/Juanma,Juanm,2700600a,es ESP,MF,Cadiz
-4370.0,Andrés Sánchez Franco,/en/players/2408dd33/Andres-Sanchez-Franco,Andres-Sanchez-Franco,2408dd33,es ESP,MF,Cadiz
-4371.0,Sergio Mantecón,/en/players/71eaddb6/Sergio-Mantecon,Sergio-Manteco,71eaddb6,es ESP,MF,Cadiz
-4372.0,Kike,/en/players/40b38d21/Kike,Kik,40b38d21,es ESP,"FW,MF",Cadiz
-4373.0,Oinatz Aulestia,/en/players/be681aab/Oinatz-Aulestia,Oinatz-Aulesti,be681aab,es ESP,GK,Cadiz
-4374.0,Servando Sánchez,/en/players/e9e18df6/Servando-Sanchez,Servando-Sanchez,9e18df6,es ESP,DF,Cadiz
-4375.0,Ale Galindo,/en/players/71dcce86/Ale-Galindo,Ale-Galindo,71dcce86,es ESP,MF,Cadiz
-4376.0,José Mari,/en/players/aee9a8ea/Jose-Mari,Jose-Mari,9a8ea,es ESP,FW,Cadiz
-4377.0,﻿Pol Ballesté,/en/players/a95cdcb3/Pol-Balleste,Pol-Ballest,95cdcb3,es ESP,GK,Cadiz
-4378.0,Cristian Márquez,/en/players/b2dddf60/Cristian-Marquez,Cristian-Marquez,b2dddf60,es ESP,DF,Cadiz
-4379.0,Salvi,/en/players/405f267a/Salvi,Salvi,405f267a,es ESP,MF,Cadiz
-4380.0,Alberto Quintana,/en/players/bf5b0450/Alberto-Quintana,Alberto-Quint,bf5b0450,es ESP,MF,Cadiz
-4381.0,Luis Pavez Muñoz,/en/players/0ca56107/Luis-Pavez-Munoz,Luis-Pavez-Munoz,0ca56107,cl CHI,DF,Cadiz
-4382.0,Hugo,/en/players/12c19fda/Hugo,Hugo,12c19fda,es ESP,MF,Cadiz
-4383.0,Juanjo,/en/players/2ed0d371/Juanjo,Juanjo,2ed0d371,es ESP,DF,Cadiz
-4384.0,Manuel Román,/en/players/15aace7c/Manuel-Roman,Manuel-Rom,15aace7c,es ESP,FW,Cadiz
-4385.0,Juan Romero,/en/players/caf6bfee/Juan-Romero,Juan-Romero,caf6bfee,es ESP,MF,Cadiz
-4386.0,Juanpe Lele,/en/players/731b58b9/Juanpe-Lele,Juanpe-L,731b58b9,es ESP,MF,Cadiz
-4387.0,Khalifa Sankaré,/en/players/4bc904e7/Khalifa-Sankare,Khalifa-Sank,4bc904e7,sn SEN,DF,Cadiz
-4388.0,Rafidine Abdullah,/en/players/4d9ee090/Rafidine-Abdullah,Rafidine-Abdullah,4d9ee090,km COM,MF,Cadiz
-4389.0,Gorka Santamaría,/en/players/ad3b668f/Gorka-Santamaria,Gorka-Santamari,d3b668f,es ESP,"MF,FW",Cadiz
-4390.0,Jesús Imaz,/en/players/7278d31a/Jesus-Imaz,Jesus-Imaz,7278d31a,es ESP,"MF,FW",Cadiz
-4391.0,Carlos Calvo,/en/players/a444d33f/Carlos-Calvo,Carlos-Calvo,444d33f,es ESP,MF,Cadiz
-4392.0,Gastón del Castillo,/en/players/d3939f40/Gaston-del-Castillo,Gaston-del-Castillo,d3939f40,ar ARG,FW,Cadiz
-4393.0,Marcos Mauro López Gutiérrez,/en/players/b3b62f94/Marcos-Mauro-Lopez-Gutierrez,Marcos-Mauro-Lopez-Gutierrez,b3b62f94,ar ARG,DF,Cadiz
-4394.0,Lucas Bijker,/en/players/1ab17497/Lucas-Bijker,Lucas-Bijk,1ab17497,nl NED,DF,Cadiz
-4395.0,Dani Romera,/en/players/b2855ce9/Dani-Romera,Dani-Rom,b2855ce9,es ESP,"FW,MF",Cadiz
-4396.0,Moha,/en/players/2a54afab/Moha,Moh,2a54afab,es ESP,FW,Cadiz
-4397.0,Seth Airam Vega,/en/players/50ac5e20/Seth-Airam-Vega,Seth-Airam-Veg,50ac5e20,es ESP,FW,Cadiz
-4398.0,David del Toro Jiménez,/en/players/a97be091/David-del-Toro-Jimenez,David-del-Toro-Jimenez,97be091,es ESP,FW,Cadiz
-4399.0,Darwin Machís,/en/players/ed6ea4d9/Darwin-Machis,Darwin-Machi,d6ea4d9,ve VEN,"MF,FW",Cadiz
-4400.0,Mario Barco,/en/players/e8a9b6d5/Mario-Barco,Mario-Barco,8a9b6d5,es ESP,FW,Cadiz
-4401.0,Alfonso Espino,/en/players/db001fa9/Alfonso-Espino,Alfonso-Espino,db001fa9,uy URU,DF,Cadiz
-4402.0,Fali,/en/players/72a84002/Fali,Fali,72a84002,es ESP,"DF,MF",Cadiz
-4403.0,Đorđe Jovanović,/en/players/8e19242c/Djordje-Jovanovic,Djordje-Jovanovic,8e19242c,rs SRB,FW,Cadiz
-4404.0,Sergio González,/en/players/5dd16ace/Sergio-Gonzalez,Sergio-Gonzalez,5dd16ace,es ESP,DF,Cadiz
-4405.0,Cristian Arco,/en/players/b2c5d4c8/Cristian-Arco,Cristian-Arco,b2c5d4c8,es ESP,GK,Cadiz
-4406.0,Saturday Erimuya,/en/players/925ddcd7/Saturday-Erimuya,Saturday-Erimu,925ddcd7,ng NGA,DF,Cadiz
-4407.0,Israel Peter,/en/players/2057f4b2/Israel-Peter,Israel-Pet,2057f4b2,ng NGA,FW,Cadiz
-4408.0,Anthony Lozano,/en/players/38699c72/Anthony-Lozano,Anthony-Lozano,38699c72,hn HON,FW,Cadiz
-4409.0,Yann Bodiger,/en/players/8c2c48a9/Yann-Bodiger,Yann-Bodig,8c2c48a9,fr FRA,MF,Cadiz
-4410.0,Jean-Pierre Rhyner,/en/players/5459a36e/Jean-Pierre-Rhyner,Jean-Pierre-Rh,5459a36e,ch SUI,DF,Cadiz
-4411.0,Filip Malbašić,/en/players/04981123/Filip-Malbasic,Filip-Malbasic,4981123,rs SRB,"MF,FW",Cadiz
-4412.0,Marc Baró,/en/players/74aa6ab7/Marc-Baro,Marc-Baro,74aa6ab7,es ESP,DF,Cadiz
-4413.0,Juan Flere,/en/players/5d2b6df0/Juan-Flere,Juan-F,5d2b6df0,ar ARG,GK,Cadiz
-4414.0,Franco,/en/players/8c6d136b/Franco,Franco,8c6d136b,es ESP,DF,Cadiz
-4415.0,Moisés Laínez,/en/players/2357b9df/Moises-Lainez,Moises-Lainez,2357b9df,es ESP,DF,Cadiz
-4416.0,Javi Duarte,/en/players/2284c43e/Javi-Duarte,Javi-Duart,2284c43e,es ESP,MF,Cadiz
-4417.0,Mamady Diarra,/en/players/80211dc5/Mamady-Diarra,Mamady-Di,80211dc5,ml MLI,FW,Cadiz
-4418.0,Nieto,/en/players/3afeb49f/Nieto,Nieto,3afeb49f,es ESP,FW,Cadiz
-4419.0,﻿Jens Jønsson,/en/players/53520a67/Jens-Jonsson,Jens-Jonsso,53520a67,dk DEN,MF,Cadiz
-4420.0,Jeremías Ledesma,/en/players/6c4776b1/Jeremias-Ledesma,Jeremias-Ledesm,6c4776b1,ar ARG,GK,Cadiz
-4421.0,Álex Martín,/en/players/80153344/Alex-Martin,Alex-Marti,80153344,es ESP,DF,Cadiz
-4422.0,Bobby Adekanye,/en/players/3ed84b2c/Bobby-Adekanye,Bobby-Adek,3ed84b2c,nl NED,"FW,MF",Cadiz
-4423.0,Álvaro Bastida,/en/players/42a028c5/Alvaro-Bastida,Alvaro-Bastid,42a028c5,es ESP,MF,Cadiz
-4424.0,Juanjo Garrancho,/en/players/aeebc7d4/Juanjo-Garrancho,Juanjo-Garrancho,bc7d4,es ESP,GK,Cadiz
-4425.0,Kike,/en/players/b2aa30ce/Kike,Kik,b2aa30ce,es ESP,DF,Cadiz
-4426.0,Javier Martín,/en/players/789773d9/Javier-Martin,Javier-Marti,789773d9,es ESP,DF,Cadiz
-4427.0,Varazdat Haroyan,/en/players/be32269e/Varazdat-Haroyan,Varazdat-Haro,be32269e,am ARM,DF,Cadiz
-4428.0,Tomás Alarcón,/en/players/99ea2ddd/Tomas-Alarcon,Tomas-Alarco,99ea2ddd,cl CHI,MF,Cadiz
-4429.0,Santiago Arzamendia,/en/players/759d8dd7/Santiago-Arzamendia,Santiago-Arzamendi,759d8dd7,py PAR,MF,Cadiz
-4430.0,Chapela,/en/players/9ed40a69/Chapela,Ch,9ed40a69,es ESP,MF,Cadiz
-4431.0,Milutin Osmajić,/en/players/375ed9d7/Milutin-Osmajic,Milutin-Osmajic,375ed9d7,me MNE,"FW,MF",Cadiz
-4432.0,Martín,/en/players/cbec0059/Martin,Marti,cbec0059,es ESP,MF,Cadiz
-4433.0,Raúl Parra,/en/players/647d39d2/Raul-Parra,Raul-P,647d39d2,es ESP,DF,Cadiz
-4434.0,Pedro Benito,/en/players/a7416105/Pedro-Benito,Pedro-Benito,7416105,es ESP,FW,Cadiz
-4435.0,Victor Wehbi,/en/players/7378ea1b/Victor-Wehbi,Victor-Wehbi,7378ea1b,br BRA,GK,Cadiz
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+6549.0,﻿Jonathan Sesma,/en/players/7484a7cc/Jonathan-Sesma,Jonathan-Sesm,7484a7cc,es ESP,"FW,MF",Cadiz
+6550.0,Suárez,/en/players/7a4e91d6/Suarez,Suarez,7a4e91d6,es ESP,MF,Cadiz
+6551.0,Ramón de Quintana,/en/players/657ad2f1/Ramon-de-Quintana,Ramon-de-Quint,657ad2f1,es ESP,DF,Cadiz
+6552.0,Raúl López,/en/players/47b23e44/Raul-Lopez,Raul-Lopez,47b23e44,es ESP,DF,Cadiz
+6553.0,Oli,/en/players/656bea4c/Oli,Oli,656bea4c,es ESP,FW,Cadiz
+6554.0,Manolo Pérez,/en/players/4ac8dad5/Manolo-Perez,Manolo-Perez,4ac8dad5,es ESP,MF,Cadiz
+6555.0,Jesús Velázquez,/en/players/d22908de/Jesus-Velazquez,Jesus-Velazquez,d22908de,es ESP,DF,Cadiz
+6556.0,Abraham Paz,/en/players/15ec0042/Abraham-Paz,Abraham-Paz,15ec0042,es ESP,DF,Cadiz
+6557.0,Raúl Navas,/en/players/7bb77368/Raul-Navas,Raul-Nav,7bb77368,es ESP,GK,Cadiz
+6558.0,Matías Pavoni,/en/players/3b9b8fb9/Matias-Pavoni,Matias-Pavoni,3b9b8fb9,ar ARG,MF,Cadiz
+6559.0,Alejandro Varela,/en/players/a4b48b6b/Alejandro-Varela,Alejandro-V,4b48b6b,es ESP,DF,Cadiz
+6560.0,Armando,/en/players/af8f7643/Armando,Armando,f8f7643,es ESP,GK,Cadiz
+6561.0,Mario Rosas,/en/players/81718397/Mario-Rosas,Mario-Ro,81718397,es ESP,MF,Cadiz
+6562.0,Ibán Espadas,/en/players/1e764654/Iban-Espadas,Iban-Espad,1e764654,es ESP,FW,Cadiz
+6563.0,José de la Cuesta,/en/players/664cac36/Jose-de-la-Cuesta,Jose-de-la-Cuest,664cac36,co COL,DF,Cadiz
+6564.0,James Obiorah,/en/players/694b9928/James-Obiorah,James-Obiorah,694b9928,ng NGA,"FW,MF",Cadiz
+6565.0,Antonio Sambruno,/en/players/5b216be5/Antonio-Sambruno,Antonio-Sambruno,5b216be5,es ESP,DF,Cadiz
+6566.0,Enrique,/en/players/feb97da2/Enrique,Enriqu,feb97da2,es ESP,"FW,MF",Cadiz
+6567.0,Mami Quevedo,/en/players/2c1d71b5/Mami-Quevedo,Mami-Quevedo,2c1d71b5,es ESP,MF,Cadiz
+6568.0,Haruna Babangida,/en/players/ead9e515/Haruna-Babangida,Haruna-Babangid,d9e515,ng NGA,"FW,MF",Cadiz
+6569.0,Ezequiel Arana,/en/players/815760c4/Ezequiel-Arana,Ezequiel-A,815760c4,es ESP,DF,Cadiz
+6570.0,Pablo Sánchez,/en/players/8c3fe4bb/Pablo-Sanchez,Pablo-Sanchez,8c3fe4bb,es ESP,"FW,MF",Cadiz
+6571.0,Javi Guerra,/en/players/aa386464/Javi-Guerra,Javi-Gu,386464,es ESP,FW,Cadiz
+6572.0,Juanjo Bezares,/en/players/6d8e0587/Juanjo-Bezares,Juanjo-Bez,6d8e0587,es ESP,MF,Cadiz
+6573.0,Nenad Mirosavljević,/en/players/50dd4311/Nenad-Mirosavljevic,Nenad-Mirosavljevic,50dd4311,rs SRB,FW,Cadiz
+6574.0,Fredi Lobeiras,/en/players/9e85ab41/Fredi-Lobeiras,Fredi-Lobei,9e85ab41,es ESP,MF,Cadiz
+6575.0,Andrés Fleurquin,/en/players/bf3705e6/Andres-Fleurquin,Andres-Fleurqui,bf3705e6,uy URU,MF,Cadiz
+6576.0,Lucas Lobos,/en/players/4539f247/Lucas-Lobos,Lucas-Lobo,4539f247,mx MEX,"FW,MF",Cadiz
+6577.0,Alexander Medina,/en/players/986318c1/Alexander-Medina,Alexander-Medi,986318c1,uy URU,FW,Cadiz
+6578.0,Eduardo Berizzo,/en/players/d28dbfe9/Eduardo-Berizzo,Eduardo-Berizzo,d28dbfe9,ar ARG,DF,Cadiz
+6579.0,Alejandro Limia,/en/players/7e844eb1/Alejandro-Limia,Alejandro-Limi,7e844eb1,ar ARG,GK,Cadiz
+6580.0,Fabián Estoyanoff,/en/players/7ac6198d/Fabian-Estoyanoff,Fabian-Estoyanoff,7ac6198d,uy URU,"FW,MF",Cadiz
+6581.0,Luciano Vella,/en/players/71c8f2ca/Luciano-Vella,Luciano-V,71c8f2ca,ar ARG,DF,Cadiz
+6582.0,Benjamín Zarandona,/en/players/4922ac7a/Benjamin-Zarandona,Benjamin-Zarando,4922ac7a,gq EQG,MF,Cadiz
+6583.0,Mário Silva,/en/players/f5f7fa5f/Mario-Silva,Mario-Silv,f5f7fa5f,pt POR,DF,Cadiz
+6584.0,Iván Ania,/en/players/12d37503/Ivan-Ania,Ivan-Ani,12d37503,es ESP,MF,Cadiz
+6585.0,Fernando Morán,/en/players/0fce6e4c/Fernando-Moran,Fernando-Mo,0fce6e4c,es ESP,MF,Cadiz
+6586.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Cadiz
+6587.0,﻿César Caneda,/en/players/1013adcf/Cesar-Caneda,Cesar-Caned,1013adcf,es ESP,DF,Cadiz
+6588.0,Miguel García,/en/players/4260ce15/Miguel-Garcia,Miguel-Garci,4260ce15,es ESP,MF,Cadiz
+6589.0,Óscar de Paula,/en/players/4b7217c8/Oscar-de-Paula,Oscar-de-Pau,4b7217c8,es ESP,FW,Cadiz
+6590.0,Pablo Hernández,/en/players/c0398aca/Pablo-Hernandez,Pablo-Hernandez,c0398aca,es ESP,"FW,MF",Cadiz
+6591.0,Nano,/en/players/51fbb7e2/Nano,Nano,51fbb7e2,es ESP,"DF,FW",Cadiz
+6592.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Cadiz
+6593.0,Sergio Rodríguez,/en/players/44e3ae1a/Sergio-Rodriguez,Sergio-Rodriguez,44e3ae1a,es ESP,MF,Cadiz
+6594.0,Abel Buades,/en/players/89efb84b/Abel-Buades,Abel-Buad,89efb84b,es ESP,MF,Cadiz
+6595.0,Neru,/en/players/1c8dd214/Neru,Neru,1c8dd214,es ESP,DF,Cadiz
+6596.0,Chico,/en/players/95825cf2/Chico,Chico,95825cf2,es ESP,DF,Cadiz
+6597.0,﻿Pedro Contreras,/en/players/7d21afdb/Pedro-Contreras,Pedro-Cont,7d21afdb,es ESP,GK,Cadiz
+6598.0,Cristian García Ramos,/en/players/73620865/Cristian-Garcia-Ramos,Cristian-Garcia-Ramo,73620865,es ESP,DF,Cadiz
+6599.0,Gustavo López,/en/players/bbd74f67/Gustavo-Lopez,Gustavo-Lopez,bbd74f67,ar ARG,"FW,MF",Cadiz
+6600.0,Daniel Martín,/en/players/c8d2987f/Daniel-Martin,Daniel-Marti,c8d2987f,es ESP,FW,Cadiz
+6601.0,Gonzalo Vicente,/en/players/f3c66117/Gonzalo-Vicente,Gonzalo-Vicent,f3c66117,uy URU,DF,Cadiz
+6602.0,Natalio,/en/players/239425b9/Natalio,Natalio,239425b9,es ESP,FW,Cadiz
+6603.0,Diego Rivas,/en/players/eecf46bc/Diego-Rivas,Diego-Riv,cf46bc,es ESP,MF,Cadiz
+6604.0,Gastón Casas,/en/players/66258864/Gaston-Casas,Gaston-C,66258864,ar ARG,FW,Cadiz
+6605.0,Líbero Parri,/en/players/203ff743/Libero-Parri,Libero-Parri,203ff743,es ESP,MF,Cadiz
+6606.0,Kamil Kosowski,/en/players/efdefe4c/Kamil-Kosowski,Kamil-Kosowski,fdefe4c,pl POL,MF,Cadiz
+6607.0,Sambégou Bangoura,/en/players/a8c6d9dd/Sambegou-Bangoura,Sambegou-Bangou,8c6d9dd,gn GUI,"FW,MF",Cadiz
+6608.0,Yago Yao,/en/players/a25c8b6c/Yago-Yao,Yago-Yao,25c8b6c,gq EQG,DF,Cadiz
+6609.0,Manu Barreiro,/en/players/028608d9/Manu-Barreiro,Manu-Barreiro,028608d9,es ESP,FW,Cadiz
+6610.0,Fran Cortés,/en/players/9efc89b7/Fran-Cortes,Fran-Cort,9efc89b7,es ESP,MF,Cadiz
+6611.0,Bienve,/en/players/d58f5380/Bienve,Bienv,d58f5380,es ESP,MF,Cadiz
+6612.0,﻿Daniel Fragoso,/en/players/91811cee/Daniel-Fragoso,Daniel-Fragoso,91811cee,es ESP,"DF,MF",Cadiz
+6613.0,Daniel Cifuentes,/en/players/488a3de8/Daniel-Cifuentes,Daniel-Cifuent,488a3de8,es ESP,DF,Cadiz
+6614.0,Kiko Casilla,/en/players/58bc7d18/Kiko-Casilla,Kiko-Casi,58bc7d18,es ESP,GK,Cadiz
+6615.0,Jon Erice,/en/players/39da8b1f/Jon-Erice,Jon-Eric,39da8b1f,es ESP,MF,Cadiz
+6616.0,José López Silva,/en/players/60d6ed20/Jose-Lopez-Silva,Jose-Lopez-Silv,60d6ed20,es ESP,MF,Cadiz
+6617.0,Álvaro Silva,/en/players/40817456/Alvaro-Silva,Alvaro-Silv,40817456,ph PHI,DF,Cadiz
+6618.0,Abraham González,/en/players/682bd745/Abraham-Gonzalez,Abraham-Gonzalez,682bd745,es ESP,MF,Cadiz
+6619.0,Bartholomew Ogbeche,/en/players/616cc0f7/Bartholomew-Ogbeche,Bartholomew-Ogbech,616cc0f7,ng NGA,FW,Cadiz
+6620.0,Mariano Toedtli,/en/players/dc1fd8a8/Mariano-Toedtli,Mariano-Toedtli,dc1fd8a8,ar ARG,FW,Cadiz
+6621.0,Diego Tristán,/en/players/e63209c5/Diego-Tristan,Diego-Trist,63209c5,es ESP,FW,Cadiz
+6622.0,Nano,/en/players/5578668a/Nano,Nano,5578668a,es ESP,"DF,MF",Cadiz
+6623.0,Carlos Caballero,/en/players/38afdbc5/Carlos-Caballero,Carlos-Caballero,38afdbc5,es ESP,MF,Cadiz
+6624.0,Dani Miguélez,/en/players/ab4bd039/Dani-Miguelez,Dani-Miguelez,b4bd039,es ESP,GK,Cadiz
+6625.0,Roberto Mansilla,/en/players/da08ddb0/Roberto-Mansilla,Roberto-Mansi,da08ddb0,es ESP,DF,Cadiz
+6626.0,Jaume Costa,/en/players/808d48f3/Jaume-Costa,Jaume-Cost,808d48f3,es ESP,DF,Cadiz
+6627.0,Jonathan Ramis,/en/players/1e278026/Jonathan-Ramis,Jonathan-Rami,1e278026,uy URU,"FW,MF",Cadiz
+6628.0,Fernando Velasco,/en/players/7a44f25b/Fernando-Velasco,Fernando-Velasco,7a44f25b,es ESP,MF,Cadiz
+6629.0,Zdeněk Zlámal,/en/players/fcd24f5f/Zdenek-Zlamal,Zdenek-Zlam,fcd24f5f,cz CZE,GK,Cadiz
+6630.0,Joseba Arriaga,/en/players/5819e0da/Joseba-Arriaga,Joseba-Arriag,5819e0da,es ESP,FW,Cadiz
+6631.0,Miloš Bogunović,/en/players/c21bb69a/Milos-Bogunovic,Milos-Bogunovic,c21bb69a,rs SRB,"FW,MF",Cadiz
+6632.0,﻿Josete,/en/players/c3a79d87/Josete,Joset,c3a79d87,es ESP,DF,Cadiz
+6633.0,Jon Ander Garrido,/en/players/c46736ab/Jon-Ander-Garrido,Jon-Ander-Garrido,c46736ab,es ESP,MF,Cadiz
+6634.0,Fran Machado,/en/players/285976d5/Fran-Machado,Fran-Machado,285976d5,es ESP,MF,Cadiz
+6635.0,Aitor Arregi,/en/players/37680d06/Aitor-Arregi,Aitor-Arregi,37680d06,es ESP,DF,Cadiz
+6636.0,Tomás Sánchez Mesa,/en/players/d6841c32/Tomas-Sanchez-Mesa,Tomas-Sanchez-M,d6841c32,es ESP,DF,Cadiz
+6637.0,Miguel Alberto García Díaz,/en/players/57ecb2b9/Miguel-Alberto-Garcia-Diaz,Miguel-Alberto-Garcia-Diaz,57ecb2b9,es ESP,MF,Cadiz
+6638.0,Airam,/en/players/130471ce/Airam,Airam,130471ce,es ESP,FW,Cadiz
+6639.0,Kike López,/en/players/8a29a124/Kike-Lopez,Kike-Lopez,8a29a124,es ESP,FW,Cadiz
+6640.0,Gerardo Navarrete,/en/players/e5cabc7a/Gerardo-Navarrete,Gerardo-Navarret,5cabc7a,cl CHI,MF,Cadiz
+6641.0,Óscar Rubio Fauria,/en/players/d220bc16/Oscar-Rubio-Fauria,Oscar-Rubio-Fauri,d220bc16,es ESP,"DF,MF",Cadiz
+6642.0,Juan Villar,/en/players/c33ee247/Juan-Villar,Juan-Vi,c33ee247,es ESP,"FW,MF",Cadiz
+6643.0,Juanma,/en/players/2700600a/Juanma,Juanm,2700600a,es ESP,MF,Cadiz
+6644.0,Andrés Sánchez Franco,/en/players/2408dd33/Andres-Sanchez-Franco,Andres-Sanchez-Franco,2408dd33,es ESP,MF,Cadiz
+6645.0,Sergio Mantecón,/en/players/71eaddb6/Sergio-Mantecon,Sergio-Manteco,71eaddb6,es ESP,MF,Cadiz
+6646.0,Kike,/en/players/40b38d21/Kike,Kik,40b38d21,es ESP,"FW,MF",Cadiz
+6647.0,Oinatz Aulestia,/en/players/be681aab/Oinatz-Aulestia,Oinatz-Aulesti,be681aab,es ESP,GK,Cadiz
+6648.0,Servando Sánchez,/en/players/e9e18df6/Servando-Sanchez,Servando-Sanchez,9e18df6,es ESP,DF,Cadiz
+6649.0,Ale Galindo,/en/players/71dcce86/Ale-Galindo,Ale-Galindo,71dcce86,es ESP,MF,Cadiz
+6650.0,Jona,/en/players/840dd8a7/Jona,Jo,840dd8a7,hn HON,FW,Cadiz
+6651.0,Diego González,/en/players/4ac7608e/Diego-Gonzalez,Diego-Gonzalez,4ac7608e,es ESP,DF,Cadiz
+6652.0,José Mari,/en/players/aee9a8ea/Jose-Mari,Jose-Mari,9a8ea,es ESP,FW,Cadiz
+6653.0,﻿Pol Ballesté,/en/players/a95cdcb3/Pol-Balleste,Pol-Ballest,95cdcb3,es ESP,GK,Cadiz
+6654.0,Aridane Hernández,/en/players/132ac341/Aridane-Hernandez,Aridane-Hernandez,132ac341,gq EQG,DF,Cadiz
+6655.0,Lolo,/en/players/e7754566/Lolo,Lolo,7754566,es ESP,"FW,MF",Cadiz
+6656.0,Álvaro García,/en/players/90bbd822/Alvaro-Garcia,Alvaro-Garci,90bbd822,es ESP,MF,Cadiz
+6657.0,Wilson Cuero,/en/players/0e531376/Wilson-Cuero,Wilson-Cuero,0e531376,co COL,FW,Cadiz
+6658.0,Cristian Márquez,/en/players/b2dddf60/Cristian-Marquez,Cristian-Marquez,b2dddf60,es ESP,DF,Cadiz
+6659.0,Salvi,/en/players/405f267a/Salvi,Salvi,405f267a,es ESP,MF,Cadiz
+6660.0,Alberto Quintana,/en/players/bf5b0450/Alberto-Quintana,Alberto-Quint,bf5b0450,es ESP,MF,Cadiz
+6661.0,Abel Gómez Moreno,/en/players/b09801d8/Abel-Gomez-Moreno,Abel-Gomez-Moreno,b09801d8,es ESP,MF,Cadiz
+6662.0,Luis Pavez Muñoz,/en/players/0ca56107/Luis-Pavez-Munoz,Luis-Pavez-Munoz,0ca56107,cl CHI,DF,Cadiz
+6663.0,Hugo,/en/players/12c19fda/Hugo,Hugo,12c19fda,es ESP,MF,Cadiz
+6664.0,Juanjo,/en/players/2ed0d371/Juanjo,Juanjo,2ed0d371,es ESP,DF,Cadiz
+6665.0,Jandro,/en/players/453a1fcd/Jandro,Jandro,453a1fcd,es ESP,MF,Cadiz
+6666.0,Manuel Román,/en/players/15aace7c/Manuel-Roman,Manuel-Rom,15aace7c,es ESP,FW,Cadiz
+6667.0,David Rodríguez,/en/players/9de5aeaa/David-Rodriguez,David-Rodriguez,9de5aeaa,es ESP,MF,Cadiz
+6668.0,Manu Vallejo,/en/players/0bc4e720/Manu-Vallejo,Manu-Vallejo,0bc4e720,es ESP,"FW,MF",Cadiz
+6669.0,Juan Romero,/en/players/caf6bfee/Juan-Romero,Juan-Romero,caf6bfee,es ESP,MF,Cadiz
+6670.0,Alberto Cifuentes,/en/players/94084f83/Alberto-Cifuentes,Alberto-Cifuent,94084f83,es ESP,GK,Cadiz
+6671.0,Alejandro Lázaro,/en/players/e5e4055e/Alejandro-Lazaro,Alejandro-Lazaro,5e4055e,es ESP,GK,Cadiz
+6672.0,Juanpe Lele,/en/players/731b58b9/Juanpe-Lele,Juanpe-L,731b58b9,es ESP,MF,Cadiz
+6673.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,FW,Cadiz
+6674.0,Javier Carpio,/en/players/5158c08a/Javier-Carpio,Javier-Carpio,5158c08a,es ESP,DF,Cadiz
+6675.0,Khalifa Sankaré,/en/players/4bc904e7/Khalifa-Sankare,Khalifa-Sank,4bc904e7,sn SEN,DF,Cadiz
+6676.0,Rafidine Abdullah,/en/players/4d9ee090/Rafidine-Abdullah,Rafidine-Abdullah,4d9ee090,km COM,MF,Cadiz
+6677.0,José Mari,/en/players/6f4c734d/Jose-Mari,Jose-Mari,6f4c734d,es ESP,MF,Cadiz
+6678.0,Rubén Cruz Gil,/en/players/365d25bb/Ruben-Cruz-Gil,Ruben-Cruz-Gi,365d25bb,es ESP,"MF,FW",Cadiz
+6679.0,Luis Ruiz Sayago,/en/players/7451b305/Luis-Ruiz-Sayago,Luis-Ruiz-Sayago,7451b305,es ESP,DF,Cadiz
+6680.0,Nico Hidalgo,/en/players/9798f0d5/Nico-Hidalgo,Nico-Hidalgo,9798f0d5,es ESP,MF,Cadiz
+6681.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Cadiz
+6682.0,Migue,/en/players/13575a4c/Migue,Migu,13575a4c,es ESP,DF,Cadiz
+6683.0,Aitor García,/en/players/9121816b/Aitor-Garcia,Aitor-Garci,9121816b,es ESP,MF,Cadiz
+6684.0,Gorka Santamaría,/en/players/ad3b668f/Gorka-Santamaria,Gorka-Santamari,d3b668f,es ESP,"MF,FW",Cadiz
+6685.0,Iván Malón,/en/players/c568d934/Ivan-Malon,Ivan-Malo,c568d934,es ESP,DF,Cadiz
+6686.0,Jesús Imaz,/en/players/7278d31a/Jesus-Imaz,Jesus-Imaz,7278d31a,es ESP,"MF,FW",Cadiz
+6687.0,Carlos Calvo,/en/players/a444d33f/Carlos-Calvo,Carlos-Calvo,444d33f,es ESP,MF,Cadiz
+6688.0,Dani Güiza,/en/players/d863ea53/Dani-Guiza,Dani-Guiz,d863ea53,es ESP,FW,Cadiz
+6689.0,Jesús,/en/players/fba3c8c1/Jesus,Jesu,fba3c8c1,es ESP,GK,Cadiz
+6690.0,Gastón del Castillo,/en/players/d3939f40/Gaston-del-Castillo,Gaston-del-Castillo,d3939f40,ar ARG,FW,Cadiz
+6691.0,Brian Oliván,/en/players/a3e4bf46/Brian-Olivan,Brian-Oliv,3e4bf46,es ESP,DF,Cadiz
+6692.0,Álex Fernández,/en/players/aa677a35/Alex-Fernandez,Alex-Fernandez,677a35,es ESP,MF,Cadiz
+6693.0,Ivan Kecojević,/en/players/83e49f90/Ivan-Kecojevic,Ivan-Kecojevic,83e49f90,me MNE,DF,Cadiz
+6694.0,Marcos Mauro López Gutiérrez,/en/players/b3b62f94/Marcos-Mauro-Lopez-Gutierrez,Marcos-Mauro-Lopez-Gutierrez,b3b62f94,ar ARG,DF,Cadiz
+6695.0,Lucas Bijker,/en/players/1ab17497/Lucas-Bijker,Lucas-Bijk,1ab17497,nl NED,DF,Cadiz
+6696.0,José Ángel Carrillo,/en/players/7beb6364/Jose-Angel-Carrillo,Jose-Angel-Carrillo,7beb6364,es ESP,"FW,MF",Cadiz
+6697.0,David Barral,/en/players/d99f9282/David-Barral,David-B,d99f9282,es ESP,"FW,MF",Cadiz
+6698.0,Rober Correa,/en/players/46bd3a5b/Rober-Correa,Rober-Co,46bd3a5b,es ESP,DF,Cadiz
+6699.0,Mikel Villanueva,/en/players/65f90a76/Mikel-Villanueva,Mikel-Villanuev,65f90a76,ve VEN,DF,Cadiz
+6700.0,Alberto Perea,/en/players/5496cc91/Alberto-Perea,Alberto-P,5496cc91,es ESP,MF,Cadiz
+6701.0,Dani Romera,/en/players/b2855ce9/Dani-Romera,Dani-Rom,b2855ce9,es ESP,"FW,MF",Cadiz
+6702.0,Fausto Tienza,/en/players/039783d3/Fausto-Tienza,Fausto-Tienz,039783d3,es ESP,MF,Cadiz
+6703.0,Moha,/en/players/2a54afab/Moha,Moh,2a54afab,es ESP,FW,Cadiz
+6704.0,Seth Airam Vega,/en/players/50ac5e20/Seth-Airam-Vega,Seth-Airam-Veg,50ac5e20,es ESP,FW,Cadiz
+6705.0,David del Toro Jiménez,/en/players/a97be091/David-del-Toro-Jimenez,David-del-Toro-Jimenez,97be091,es ESP,FW,Cadiz
+6706.0,David Gil,/en/players/fea23125/David-Gil,David-Gi,fea23125,es ESP,GK,Cadiz
+6707.0,Rubén Yáñez,/en/players/039ae103/Ruben-Yanez,Ruben-Yanez,039ae103,es ESP,GK,Cadiz
+6708.0,Jairo Izquierdo,/en/players/2ceb58ab/Jairo-Izquierdo,Jairo-Izquierdo,2ceb58ab,es ESP,MF,Cadiz
+6709.0,Sergio Sánchez,/en/players/83a83b0a/Sergio-Sanchez,Sergio-Sanchez,83a83b0a,es ESP,DF,Cadiz
+6710.0,Jose Matos,/en/players/19fdd28f/Jose-Matos,Jose-Mato,19fdd28f,es ESP,DF,Cadiz
+6711.0,Dejan Lekić,/en/players/f73b1a65/Dejan-Lekic,Dejan-Lekic,f73b1a65,rs SRB,FW,Cadiz
+6712.0,Edu Ramos,/en/players/e6793b40/Edu-Ramos,Edu-Ramo,6793b40,es ESP,"MF,DF",Cadiz
+6713.0,Darwin Machís,/en/players/ed6ea4d9/Darwin-Machis,Darwin-Machi,d6ea4d9,ve VEN,"MF,FW",Cadiz
+6714.0,David Querol,/en/players/260a29e9/David-Querol,David-Quero,260a29e9,es ESP,"FW,MF",Cadiz
+6715.0,Mario Barco,/en/players/e8a9b6d5/Mario-Barco,Mario-Barco,8a9b6d5,es ESP,FW,Cadiz
+6716.0,Alfonso Espino,/en/players/db001fa9/Alfonso-Espino,Alfonso-Espino,db001fa9,uy URU,DF,Cadiz
+6717.0,David Carmona,/en/players/ed922d43/David-Carmona,David-Carmo,d922d43,es ESP,DF,Cadiz
+6718.0,Fali,/en/players/72a84002/Fali,Fali,72a84002,es ESP,"DF,MF",Cadiz
+6719.0,Salvador Agra,/en/players/a130741a/Salvador-Agra,Salvador-Ag,130741a,pt POR,MF,Cadiz
+6720.0,Vincenzo Rennella,/en/players/b3c467b4/Vincenzo-Rennella,Vincenzo-R,b3c467b4,it ITA,FW,Cadiz
+6721.0,Đorđe Jovanović,/en/players/8e19242c/Djordje-Jovanovic,Djordje-Jovanovic,8e19242c,rs SRB,FW,Cadiz
+6722.0,Sergio González,/en/players/5dd16ace/Sergio-Gonzalez,Sergio-Gonzalez,5dd16ace,es ESP,DF,Cadiz
+6723.0,Juan Hernández,/en/players/1fc3c3d7/Juan-Hernandez,Juan-Hernandez,1fc3c3d7,es ESP,MF,Cadiz
+6724.0,Karim Azamoum,/en/players/eaf71a5e/Karim-Azamoum,Karim-Azamoum,f71a5e,fr FRA,MF,Cadiz
+6725.0,Cristian Arco,/en/players/b2c5d4c8/Cristian-Arco,Cristian-Arco,b2c5d4c8,es ESP,GK,Cadiz
+6726.0,Saturday Erimuya,/en/players/925ddcd7/Saturday-Erimuya,Saturday-Erimu,925ddcd7,ng NGA,DF,Cadiz
+6727.0,Javier Navarro,/en/players/d6626d37/Javier-Navarro,Javier-Navarro,d6626d37,es ESP,MF,Cadiz
+6728.0,Aleksandar Pantić,/en/players/70e5566a/Aleksandar-Pantic,Aleksandar-Pantic,70e5566a,rs SRB,DF,Cadiz
+6729.0,Israel Peter,/en/players/2057f4b2/Israel-Peter,Israel-Pet,2057f4b2,ng NGA,FW,Cadiz
+6730.0,﻿Isaac Carcelen,/en/players/c4b888df/Isaac-Carcelen,Isaac-Carc,c4b888df,es ESP,DF,Cadiz
+6731.0,Cala,/en/players/fe05804b/Cala,C,fe05804b,es ESP,DF,Cadiz
+6732.0,Anthony Lozano,/en/players/38699c72/Anthony-Lozano,Anthony-Lozano,38699c72,hn HON,FW,Cadiz
+6733.0,Yann Bodiger,/en/players/8c2c48a9/Yann-Bodiger,Yann-Bodig,8c2c48a9,fr FRA,MF,Cadiz
+6734.0,Iván Alejo,/en/players/3d7e48ce/Ivan-Alejo,Ivan-Alejo,3d7e48ce,es ESP,MF,Cadiz
+6735.0,Nano,/en/players/217011a0/Nano,Nano,217011a0,es ESP,"FW,MF",Cadiz
+6736.0,Jean-Pierre Rhyner,/en/players/5459a36e/Jean-Pierre-Rhyner,Jean-Pierre-Rh,5459a36e,ch SUI,DF,Cadiz
+6737.0,Álvaro Giménez,/en/players/18017beb/Alvaro-Gimenez,Alvaro-Gimenez,18017beb,es ESP,"FW,MF",Cadiz
+6738.0,Caye Quintana,/en/players/42b47114/Caye-Quintana,Caye-Quint,42b47114,es ESP,"FW,MF",Cadiz
+6739.0,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,Jose-Manuel-Jurado,71d4e271,es ESP,MF,Cadiz
+6740.0,Carlos Akapo,/en/players/f2a68b97/Carlos-Akapo,Carlos-Akapo,f2a68b97,gq EQG,DF,Cadiz
+6741.0,Jorge Pombo,/en/players/0a8bcb23/Jorge-Pombo,Jorge-Pombo,0a8bcb23,es ESP,MF,Cadiz
+6742.0,Filip Malbašić,/en/players/04981123/Filip-Malbasic,Filip-Malbasic,04981123,rs SRB,"MF,FW",Cadiz
+6743.0,Luismi Quezada,/en/players/53440b3c/Luismi-Quezada,Luismi-Quezad,53440b3c,do DOM,DF,Cadiz
+6744.0,Marc Baró,/en/players/74aa6ab7/Marc-Baro,Marc-Baro,74aa6ab7,es ESP,DF,Cadiz
+6745.0,Augusto Fernández,/en/players/78c40e94/Augusto-Fernandez,Augusto-Fernandez,78c40e94,ar ARG,MF,Cadiz
+6746.0,Juan Flere,/en/players/5d2b6df0/Juan-Flere,Juan-F,5d2b6df0,ar ARG,GK,Cadiz
+6747.0,Franco,/en/players/8c6d136b/Franco,Franco,8c6d136b,es ESP,DF,Cadiz
+6748.0,Moisés Laínez,/en/players/2357b9df/Moises-Lainez,Moises-Lainez,2357b9df,es ESP,DF,Cadiz
+6749.0,Javi Duarte,/en/players/2284c43e/Javi-Duarte,Javi-Duart,2284c43e,es ESP,MF,Cadiz
+6750.0,Mamady Diarra,/en/players/80211dc5/Mamady-Diarra,Mamady-Di,80211dc5,ml MLI,FW,Cadiz
+6751.0,Nieto,/en/players/3afeb49f/Nieto,Nieto,3afeb49f,es ESP,FW,Cadiz
+6752.0,﻿Jens Jønsson,/en/players/53520a67/Jens-Jonsson,Jens-Jonsso,53520a67,dk DEN,MF,Cadiz
+6753.0,Jeremías Ledesma,/en/players/6c4776b1/Jeremias-Ledesma,Jeremias-Ledesm,6c4776b1,ar ARG,GK,Cadiz
+6754.0,Álvaro Negredo,/en/players/63b0ca6b/Alvaro-Negredo,Alvaro-Negredo,63b0ca6b,es ESP,FW,Cadiz
+6755.0,Rubén Sobrino,/en/players/19b776e9/Ruben-Sobrino,Ruben-Sobrino,19b776e9,es ESP,"FW,MF",Cadiz
+6756.0,Pedro Alcalá,/en/players/ba71d071/Pedro-Alcala,Pedro-Alc,ba71d071,es ESP,DF,Cadiz
+6757.0,Ivan Šaponjić,/en/players/d2aea9ac/Ivan-Saponjic,Ivan-Saponjic,d2aea9ac,rs SRB,FW,Cadiz
+6758.0,Álex Martín,/en/players/80153344/Alex-Martin,Alex-Marti,80153344,es ESP,DF,Cadiz
+6759.0,Bobby Adekanye,/en/players/3ed84b2c/Bobby-Adekanye,Bobby-Adek,3ed84b2c,nl NED,"FW,MF",Cadiz
+6760.0,Álvaro Bastida,/en/players/42a028c5/Alvaro-Bastida,Alvaro-Bastid,42a028c5,es ESP,MF,Cadiz
+6761.0,Juanjo Garrancho,/en/players/aeebc7d4/Juanjo-Garrancho,Juanjo-Garrancho,bc7d4,es ESP,GK,Cadiz
+6762.0,Kike,/en/players/b2aa30ce/Kike,Kik,b2aa30ce,es ESP,DF,Cadiz
+6763.0,Javier Martín,/en/players/789773d9/Javier-Martin,Javier-Marti,789773d9,es ESP,DF,Cadiz
+6764.0,Víctor Chust,/en/players/ec1a731e/Victor-Chust,Victor-Chust,c1a731e,es ESP,DF,Cadiz
+6765.0,Varazdat Haroyan,/en/players/be32269e/Varazdat-Haroyan,Varazdat-Haro,be32269e,am ARM,DF,Cadiz
+6766.0,Tomás Alarcón,/en/players/99ea2ddd/Tomas-Alarcon,Tomas-Alarco,99ea2ddd,cl CHI,MF,Cadiz
+6767.0,Luis Hernández,/en/players/02d2c436/Luis-Hernandez,Luis-Hernandez,02d2c436,es ESP,DF,Cadiz
+6768.0,Rubén Alcaraz,/en/players/036bba5f/Ruben-Alcaraz,Ruben-Alcaraz,036bba5f,es ESP,MF,Cadiz
+6769.0,Lucas Pérez,/en/players/a300ac7e/Lucas-Perez,Lucas-Perez,300ac7e,es ESP,"FW,MF",Cadiz
+6770.0,Fede San Emeterio,/en/players/efecd633/Fede-San-Emeterio,Fede-San-Emeterio,fecd633,es ESP,MF,Cadiz
+6771.0,Santiago Arzamendia,/en/players/759d8dd7/Santiago-Arzamendia,Santiago-Arzamendi,759d8dd7,py PAR,MF,Cadiz
+6772.0,Chapela,/en/players/9ed40a69/Chapela,Ch,9ed40a69,es ESP,MF,Cadiz
+6773.0,Milutin Osmajić,/en/players/375ed9d7/Milutin-Osmajic,Milutin-Osmajic,375ed9d7,me MNE,"FW,MF",Cadiz
+6774.0,Álvaro Jiménez,/en/players/5f5501ed/Alvaro-Jimenez,Alvaro-Jimenez,5f5501ed,es ESP,"MF,FW",Cadiz
+6775.0,Florin Andone,/en/players/dc008610/Florin-Andone,Florin-Ando,dc008610,ro ROU,FW,Cadiz
+6776.0,Martín,/en/players/cbec0059/Martin,Marti,cbec0059,es ESP,MF,Cadiz
+6777.0,Raúl Parra,/en/players/647d39d2/Raul-Parra,Raul-P,647d39d2,es ESP,DF,Cadiz
+6778.0,Pedro Benito,/en/players/a7416105/Pedro-Benito,Pedro-Benito,7416105,es ESP,FW,Cadiz
+6779.0,Victor Wehbi,/en/players/7378ea1b/Victor-Wehbi,Victor-Wehbi,7378ea1b,br BRA,GK,Cadiz

@@ -1,433 +1,433 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿David García,es ESP,DF,39,39,0.0,0.0,2004-2005,5641e4d5,Gimnastic,"3,510",39.0,10.0,0.0,64.0,1.0,4436.0,Gimnastic
-,Abel Buades,es ESP,MF,40,37,3.0,4.0,2004-2005,89efb84b,Gimnastic,"3,184",35.4,9.0,0.0,64.0,1.0,,Gimnastic
-,Bolo,es ESP,FW,41,36,3.0,7.0,2004-2005,ca7589a9,Gimnastic,"2,837",31.5,3.0,0.0,64.0,1.0,,Gimnastic
-,Manolo Martínez,es ESP,"DF,MF",32,31,1.0,3.0,2004-2005,7b9876e4,Gimnastic,"2,709",30.1,11.0,0.0,64.0,1.0,,Gimnastic
-,Iván Ania,es ESP,MF,35,30,12.0,3.0,2004-2005,12d37503,Gimnastic,"2,267",25.2,6.0,0.0,64.0,1.0,,Gimnastic
-,Juan José Valencia,es ESP,GK,30,29,0.0,0.0,2004-2005,75a2676d,Gimnastic,"2,640",29.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Txus Serrano,es ESP,MF,32,28,0.0,1.0,2004-2005,5f6334aa,Gimnastic,"2,574",28.6,12.0,0.0,64.0,1.0,4437.0,Gimnastic
-,Marco Ortega,es ESP,DF,28,26,1.0,0.0,2004-2005,8e5ce0,Gimnastic,"2,306",25.6,9.0,1.0,64.0,1.0,4438.0,Gimnastic
-,David Cuéllar,es ESP,MF,32,24,4.0,3.0,2004-2005,d386f165,Gimnastic,"2,131",23.7,1.0,0.0,64.0,1.0,,Gimnastic
-,Antonio Pinilla,es ESP,FW,36,22,1.0,7.0,2004-2005,4c7c3632,Gimnastic,"2,215",24.6,9.0,0.0,64.0,1.0,4439.0,Gimnastic
-,Diego Torres,es ESP,FW,39,22,1.0,11.0,2004-2005,cc7b386d,Gimnastic,"2,147",23.9,2.0,1.0,64.0,1.0,4440.0,Gimnastic
-,Dani Tortolero,es ESP,DF,23,22,1.0,1.0,2004-2005,42481fd5,Gimnastic,"1,923",21.4,8.0,0.0,64.0,1.0,4441.0,Gimnastic
-,Lluis Codina,es ESP,MF,33,21,2.0,2.0,2004-2005,c83fd93a,Gimnastic,"2,039",22.7,4.0,0.0,64.0,1.0,4442.0,Gimnastic
-,Luis Carrión,es ESP,DF,18,17,0.0,0.0,2004-2005,4bb31b93,Gimnastic,"1,542",17.1,1.0,0.0,64.0,1.0,4443.0,Gimnastic
-,Ibon Begoña,es ESP,DF,18,16,0.0,2.0,2004-2005,301f6f65,Gimnastic,"1,433",15.9,4.0,1.0,64.0,1.0,,Gimnastic
-,Felip Ortiz,es ESP,GK,14,13,0.0,0.0,2004-2005,2c845dc,Gimnastic,"1,140",12.7,0.0,0.0,64.0,1.0,4444.0,Gimnastic
-,Alfonso Vera,es ESP,MF,13,13,0.0,1.0,2004-2005,d0b31ce2,Gimnastic,"1,129",12.5,5.0,2.0,64.0,1.0,,Gimnastic
-,David Medina,es ESP,MF,20,12,2.0,0.0,2004-2005,b5fc02b6,Gimnastic,978,10.9,7.0,0.0,64.0,1.0,4445.0,Gimnastic
-,Alfonso Sanchez,,,14,10,1.0,0.0,2004-2005,,Gimnastic,959,10.7,2.0,0.0,64.0,,,Gimnastic
-,Pablo Lusarreta,,,6,6,0.0,1.0,2004-2005,,Gimnastic,473,5.3,2.0,0.0,64.0,,,Gimnastic
-,Igor Angulo,es ESP,"FW,MF",11,5,0.0,1.0,2004-2005,5715f988,Gimnastic,481,5.3,2.0,0.0,64.0,1.0,,Gimnastic
-,Sergio Francisco,es ESP,FW,18,2,0.0,3.0,2004-2005,bb97c683,Gimnastic,481,5.3,0.0,0.0,64.0,1.0,,Gimnastic
-,R Lopez,,,9,1,0.0,0.0,2004-2005,,Gimnastic,214,2.4,1.0,1.0,64.0,,,Gimnastic
-,Diego Ribera,es ESP,FW,3,0,0.0,0.0,2004-2005,b5d6d258,Gimnastic,58,0.6,0.0,0.0,64.0,1.0,4446.0,Gimnastic
-,Ñoño,es ESP,"DF,FW",2,0,0.0,0.0,2004-2005,c845dfce,Gimnastic,48,0.5,0.0,0.0,64.0,1.0,4447.0,Gimnastic
-,Carlos Moreno,ar ARG,MF,1,0,0.0,0.0,2004-2005,83ed06d,Gimnastic,11,0.1,0.0,0.0,64.0,5.0,4448.0,Gimnastic
-,Patricio Edgar,,,1,0,0.0,0.0,2004-2005,,Gimnastic,6,0.1,0.0,0.0,64.0,,,Gimnastic
-,﻿Manuel Ruz,es ESP,DF,37,37,0.0,0.0,2005-2006,0bd93f6a,Gimnastic,"3,330",37.0,12.0,0.0,64.0,1.0,,Gimnastic
-,Abel Buades,es ESP,MF,35,35,7.0,5.0,2005-2006,89efb84b,Gimnastic,"3,150",35.0,7.0,0.0,64.0,1.0,,Gimnastic
-,Irurzun,es ESP,FW,37,34,3.0,11.0,2005-2006,08243062,Gimnastic,"2,620",29.1,2.0,0.0,64.0,1.0,,Gimnastic
-,Egoitz Jaio Gabiola,es ESP,DF,30,28,0.0,1.0,2005-2006,4e84787e,Gimnastic,"2,596",28.8,10.0,0.0,64.0,1.0,,Gimnastic
-,David Cuéllar,es ESP,MF,32,28,4.0,3.0,2005-2006,d386f165,Gimnastic,"2,489",27.7,2.0,1.0,64.0,1.0,,Gimnastic
-,David García,es ESP,DF,28,28,1.0,0.0,2005-2006,5641e4d5,Gimnastic,"2,475",27.5,9.0,0.0,64.0,1.0,4436.0,Gimnastic
-,Diego Reyes Muñoz,es ESP,DF,31,28,0.0,0.0,2005-2006,f52444a7,Gimnastic,"2,212",24.6,2.0,0.0,64.0,1.0,4450.0,Gimnastic
-,Miguel Llera,es ESP,DF,27,27,5.0,3.0,2005-2006,b58a6d72,Gimnastic,"2,430",27.0,9.0,0.0,64.0,1.0,4451.0,Gimnastic
-,Carlos Merino,es ESP,MF,37,23,0.0,3.0,2005-2006,443c8c9a,Gimnastic,"2,352",26.1,4.0,0.0,64.0,1.0,,Gimnastic
-,Bolo,es ESP,FW,38,21,2.0,4.0,2005-2006,ca7589a9,Gimnastic,"1,836",20.4,3.0,1.0,64.0,1.0,,Gimnastic
-,Álvaro Iglesias,es ESP,GK,18,18,0.0,0.0,2005-2006,d325c894,Gimnastic,"1,575",17.5,3.0,0.0,64.0,1.0,4452.0,Gimnastic
-,Marco Ortega,es ESP,DF,17,17,0.0,0.0,2005-2006,8e5ce0,Gimnastic,"1,499",16.7,5.0,0.0,64.0,1.0,4438.0,Gimnastic
-,Ángel Morales,es ESP,MF,22,17,0.0,2.0,2005-2006,ba7ae976,Gimnastic,"1,425",15.8,4.0,0.0,64.0,1.0,,Gimnastic
-,Diego Torres,es ESP,FW,36,16,0.0,7.0,2005-2006,cc7b386d,Gimnastic,"1,694",18.8,2.0,0.0,64.0,1.0,4440.0,Gimnastic
-,Rubén Falcón,es ESP,GK,17,16,0.0,0.0,2005-2006,bf651b09,Gimnastic,"1,485",16.5,3.0,0.0,64.0,1.0,,Gimnastic
-,Antonio Pinilla,es ESP,FW,27,14,0.0,6.0,2005-2006,4c7c3632,Gimnastic,"1,480",16.4,2.0,1.0,64.0,1.0,4439.0,Gimnastic
-,Manolo Martínez,es ESP,"DF,MF",12,11,1.0,0.0,2005-2006,7b9876e4,Gimnastic,901,10.0,3.0,0.0,64.0,1.0,,Gimnastic
-,Abdulrazak Ekpoki,my MAS,FW,26,10,0.0,2.0,2005-2006,fe61e391,Gimnastic,"1,180",13.1,4.0,0.0,64.0,68.0,4453.0,Gimnastic
-,Txus Serrano,es ESP,MF,17,8,0.0,1.0,2005-2006,5f6334aa,Gimnastic,885,9.8,3.0,0.0,64.0,1.0,4437.0,Gimnastic
-,Juan José Valencia,es ESP,GK,8,8,0.0,0.0,2005-2006,75a2676d,Gimnastic,720,8.0,0.0,0.0,64.0,1.0,,Gimnastic
-,Cristian Lupidio,ar ARG,MF,8,8,0.0,1.0,2005-2006,2be82e13,Gimnastic,689,7.7,4.0,0.0,64.0,5.0,4454.0,Gimnastic
-,Iván Romero,es ESP,DF,8,8,0.0,0.0,2005-2006,4ecdc16d,Gimnastic,606,6.7,1.0,0.0,64.0,1.0,,Gimnastic
-,Lluis Codina,es ESP,MF,21,7,5.0,0.0,2005-2006,c83fd93a,Gimnastic,776,8.6,0.0,0.0,64.0,1.0,4442.0,Gimnastic
-,Miguel Pérez,es ESP,MF,7,6,0.0,0.0,2005-2006,b3f9e645,Gimnastic,441,4.9,0.0,0.0,64.0,1.0,,Gimnastic
-,Óscar Álvarez,es ESP,DF,4,4,0.0,0.0,2005-2006,d6b5c64f,Gimnastic,253,2.8,2.0,2.0,64.0,1.0,4455.0,Gimnastic
-,Luis Carrión,es ESP,DF,3,3,0.0,0.0,2005-2006,4bb31b93,Gimnastic,216,2.4,0.0,0.0,64.0,1.0,4443.0,Gimnastic
-,Nano,es ESP,"DF,MF",5,3,0.0,0.0,2005-2006,5578668a,Gimnastic,198,2.2,0.0,0.0,64.0,1.0,,Gimnastic
-,Alfonso Vera,es ESP,MF,1,1,0.0,0.0,2005-2006,d0b31ce2,Gimnastic,90,1.0,0.0,0.0,64.0,1.0,,Gimnastic
-,﻿Javier Portillo,es ESP,FW,34,30,2.0,11.0,2006-2007,99058498,Gimnastic,"2,720",30.2,2.0,0.0,64.0,1.0,19.0,Gimnastic
-,Aníbal Matellán,ar ARG,DF,26,24,0.0,0.0,2006-2007,82945b54,Gimnastic,"2,209",24.5,6.0,0.0,64.0,5.0,,Gimnastic
-,Juan Díaz Prendes,es ESP,MF,30,23,1.0,0.0,2006-2007,6d573420,Gimnastic,"1,834",20.4,7.0,0.0,64.0,1.0,4456.0,Gimnastic
-,Alejandro Campano,es ESP,MF,29,23,5.0,3.0,2006-2007,42a8f3e1,Gimnastic,"1,809",20.1,0.0,1.0,64.0,1.0,,Gimnastic
-,Albano Bizzarri,ar ARG,GK,22,22,0.0,0.0,2006-2007,32b9b5fa,Gimnastic,"1,980",22.0,3.0,0.0,64.0,5.0,,Gimnastic
-,David Cuéllar,es ESP,MF,28,20,2.0,2.0,2006-2007,d386f165,Gimnastic,"1,926",21.4,0.0,0.0,64.0,1.0,,Gimnastic
-,Ángel Morales,es ESP,MF,24,20,0.0,0.0,2006-2007,ba7ae976,Gimnastic,"1,640",18.2,6.0,0.0,64.0,1.0,,Gimnastic
-,Antonio Pinilla,es ESP,FW,28,20,2.0,2.0,2006-2007,4c7c3632,Gimnastic,"1,604",17.8,9.0,0.0,64.0,1.0,4439.0,Gimnastic
-,José María Calvo,ar ARG,DF,19,19,2.0,0.0,2006-2007,745b3a99,Gimnastic,"1,694",18.8,6.0,0.0,64.0,5.0,,Gimnastic
-,David Generelo,es ESP,MF,26,19,2.0,0.0,2006-2007,2ae48997,Gimnastic,"1,630",18.1,3.0,0.0,64.0,1.0,,Gimnastic
-,César Navas,es ESP,DF,19,19,0.0,2.0,2006-2007,9f7ceb30,Gimnastic,"1,625",18.1,3.0,1.0,64.0,1.0,,Gimnastic
-,Rubén Pérez,es ESP,GK,16,16,0.0,0.0,2006-2007,b1bdfe5,Gimnastic,"1,440",16.0,1.0,0.0,64.0,1.0,4457.0,Gimnastic
-,Abel Buades,es ESP,MF,18,16,1.0,1.0,2006-2007,89efb84b,Gimnastic,"1,421",15.8,1.0,0.0,64.0,1.0,,Gimnastic
-,Manuel Ruz,es ESP,DF,17,16,0.0,0.0,2006-2007,0bd93f6a,Gimnastic,"1,393",15.5,6.0,1.0,64.0,1.0,,Gimnastic
-,Mingo,es ESP,DF,16,16,0.0,0.0,2006-2007,6fc287d5,Gimnastic,"1,357",15.1,7.0,1.0,64.0,1.0,,Gimnastic
-,David García,es ESP,DF,16,15,0.0,1.0,2006-2007,5641e4d5,Gimnastic,"1,367",15.2,5.0,0.0,64.0,1.0,4436.0,Gimnastic
-,Sébastien Chabaud,fr FRA,MF,16,15,0.0,0.0,2006-2007,315a826d,Gimnastic,"1,285",14.3,4.0,0.0,64.0,4.0,4458.0,Gimnastic
-,Marco Ortega,es ESP,DF,14,14,0.0,0.0,2006-2007,8e5ce0,Gimnastic,"1,260",14.0,2.0,0.0,64.0,1.0,4438.0,Gimnastic
-,Rubén Castro,es ESP,"FW,MF",20,13,1.0,4.0,2006-2007,d109f62b,Gimnastic,"1,163",12.9,2.0,0.0,64.0,1.0,,Gimnastic
-,Miguel Llera,es ESP,DF,12,12,1.0,2.0,2006-2007,b58a6d72,Gimnastic,"1,071",11.9,5.0,1.0,64.0,1.0,4451.0,Gimnastic
-,Julio César Cáceres,py PAR,DF,11,11,0.0,0.0,2006-2007,5875453b,Gimnastic,990,11.0,1.0,0.0,64.0,43.0,4459.0,Gimnastic
-,Gil,br BRA,FW,19,10,2.0,0.0,2006-2007,f8e47e,Gimnastic,"1,032",11.5,3.0,0.0,64.0,2.0,4460.0,Gimnastic
-,Irurzun,es ESP,FW,22,9,1.0,2.0,2006-2007,08243062,Gimnastic,999,11.1,2.0,0.0,64.0,1.0,,Gimnastic
-,Carlos Merino,es ESP,MF,18,6,0.0,0.0,2006-2007,443c8c9a,Gimnastic,737,8.2,3.0,0.0,64.0,1.0,,Gimnastic
-,Ariza Makukula,pt POR,FW,12,5,0.0,1.0,2006-2007,62ce8bd7,Gimnastic,556,6.2,0.0,1.0,64.0,3.0,,Gimnastic
-,Óscar López,es ESP,DF,3,3,0.0,0.0,2006-2007,14ae8df8,Gimnastic,270,3.0,2.0,0.0,64.0,1.0,,Gimnastic
-,Tobias Grahn,se SWE,"FW,MF",9,1,0.0,2.0,2006-2007,538f2add,Gimnastic,228,2.5,0.0,0.0,64.0,41.0,4461.0,Gimnastic
-,Txus Serrano,es ESP,MF,2,1,0.0,0.0,2006-2007,5f6334aa,Gimnastic,120,1.3,1.0,0.0,64.0,1.0,4437.0,Gimnastic
-,Manolo Martínez,es ESP,"DF,MF",3,1,0.0,0.0,2006-2007,7b9876e4,Gimnastic,108,1.2,1.0,0.0,64.0,1.0,,Gimnastic
-,﻿David Abraham,ar ARG,DF,36,36,0.0,3.0,2007-2008,565bf0da,Gimnastic,"3,137",34.9,9.0,1.0,64.0,5.0,,Gimnastic
-,Abel Buades,es ESP,MF,32,31,2.0,2.0,2007-2008,89efb84b,Gimnastic,"2,572",28.6,11.0,1.0,64.0,1.0,,Gimnastic
-,Alejandro Campano,es ESP,MF,32,30,8.0,7.0,2007-2008,42a8f3e1,Gimnastic,"2,687",29.9,2.0,0.0,64.0,1.0,,Gimnastic
-,Jandro,es ESP,MF,35,30,3.0,6.0,2007-2008,453a1fcd,Gimnastic,"2,655",29.5,4.0,0.0,64.0,1.0,,Gimnastic
-,Roberto,es ESP,GK,29,28,0.0,0.0,2007-2008,ba3ca78f,Gimnastic,"2,431",27.0,2.0,1.0,64.0,1.0,,Gimnastic
-,Óscar Rubio Fauria,es ESP,"DF,MF",29,28,0.0,1.0,2007-2008,d220bc16,Gimnastic,"2,408",26.8,8.0,2.0,64.0,1.0,,Gimnastic
-,Dani Tortolero,es ESP,DF,27,26,1.0,3.0,2007-2008,42481fd5,Gimnastic,"2,246",25.0,5.0,1.0,64.0,1.0,4441.0,Gimnastic
-,Antonio López,es ESP,MF,27,26,3.0,0.0,2007-2008,1fdd5ff7,Gimnastic,"2,226",24.7,7.0,0.0,64.0,1.0,,Gimnastic
-,Tati Maldonado,es ESP,FW,31,24,3.0,4.0,2007-2008,57dc3c00,Gimnastic,"2,213",24.6,9.0,2.0,64.0,1.0,,Gimnastic
-,Miku,ve VEN,FW,29,21,0.0,2.0,2007-2008,4eba9598,Gimnastic,"1,787",19.9,6.0,0.0,64.0,53.0,,Gimnastic
-,Mingo,es ESP,DF,21,21,0.0,0.0,2007-2008,6fc287d5,Gimnastic,"1,699",18.9,12.0,1.0,64.0,1.0,,Gimnastic
-,David Medina,es ESP,MF,25,20,0.0,0.0,2007-2008,b5fc02b6,Gimnastic,"1,928",21.4,10.0,0.0,64.0,1.0,4445.0,Gimnastic
-,Óscar Arpón,es ESP,MF,27,19,1.0,2.0,2007-2008,705d238d,Gimnastic,"1,570",17.4,7.0,1.0,64.0,1.0,,Gimnastic
-,Pedro Mairata,es ESP,DF,17,13,0.0,2.0,2007-2008,de9e9405,Gimnastic,"1,267",14.1,7.0,0.0,64.0,1.0,4462.0,Gimnastic
-,Óscar López,es ESP,DF,13,13,0.0,0.0,2007-2008,14ae8df8,Gimnastic,"1,051",11.7,7.0,2.0,64.0,1.0,,Gimnastic
-,Antonio Calle,es ESP,FW,27,12,1.0,4.0,2007-2008,3d3d63b9,Gimnastic,"1,312",14.6,2.0,0.0,64.0,1.0,,Gimnastic
-,Moisés,es ESP,FW,17,11,1.0,5.0,2007-2008,3415193,Gimnastic,"1,072",11.9,4.0,1.0,64.0,1.0,,Gimnastic
-,Rubén Pérez,es ESP,GK,10,10,0.0,0.0,2007-2008,b1bdfe5,Gimnastic,900,10.0,2.0,0.0,64.0,1.0,4457.0,Gimnastic
-,David Sánchez,es ESP,MF,17,10,1.0,1.0,2007-2008,bb05af1a,Gimnastic,858,9.5,4.0,0.0,64.0,1.0,,Gimnastic
-,Papakouli Diop,sn SEN,MF,12,10,0.0,0.0,2007-2008,7329018e,Gimnastic,823,9.1,3.0,0.0,64.0,34.0,,Gimnastic
-,Adrián González,es ESP,MF,17,9,0.0,2.0,2007-2008,57ebd662,Gimnastic,777,8.6,2.0,0.0,64.0,1.0,,Gimnastic
-,David García,es ESP,DF,8,8,0.0,1.0,2007-2008,5641e4d5,Gimnastic,720,8.0,2.0,0.0,64.0,1.0,4436.0,Gimnastic
-,Federico Bessone,ar ARG,DF,10,8,0.0,0.0,2007-2008,7570ed49,Gimnastic,704,7.8,1.0,0.0,64.0,5.0,4463.0,Gimnastic
-,Gorka de Carlos,es ESP,FW,15,6,1.0,1.0,2007-2008,d0ebf2ea,Gimnastic,639,7.1,2.0,0.0,64.0,1.0,,Gimnastic
-,Juanmi,es ESP,GK,4,4,0.0,0.0,2007-2008,9c6886e6,Gimnastic,359,4.0,0.0,0.0,64.0,1.0,,Gimnastic
-,Antonio Pinilla,es ESP,FW,27,3,2.0,2.0,2007-2008,4c7c3632,Gimnastic,645,7.2,0.0,0.0,64.0,1.0,4439.0,Gimnastic
-,Sébastien Chabaud,fr FRA,MF,4,1,0.0,0.0,2007-2008,315a826d,Gimnastic,170,1.9,1.0,0.0,64.0,4.0,4458.0,Gimnastic
-,Mohammed Rabiu,gh GHA,MF,2,1,0.0,0.0,2007-2008,f4a9eb92,Gimnastic,76,0.8,0.0,0.0,64.0,17.0,4464.0,Gimnastic
-,﻿David Bauzá,es ESP,MF,41,41,1.0,2.0,2008-2009,8969dfa6,Gimnastic,"3,645",40.5,4.0,0.0,64.0,1.0,,Gimnastic
-,Rubén Pérez,es ESP,GK,33,33,0.0,0.0,2008-2009,b1bdfe5,Gimnastic,"2,970",33.0,3.0,0.0,64.0,1.0,4457.0,Gimnastic
-,Alejandro Campano,es ESP,MF,33,33,4.0,4.0,2008-2009,42a8f3e1,Gimnastic,"2,844",31.6,4.0,0.0,64.0,1.0,,Gimnastic
-,Dani Tortolero,es ESP,DF,32,30,0.0,2.0,2008-2009,42481fd5,Gimnastic,"2,807",31.2,13.0,0.0,64.0,1.0,4441.0,Gimnastic
-,Víctor Casadesús,es ESP,FW,36,30,8.0,14.0,2008-2009,73cd0a2a,Gimnastic,"2,647",29.4,9.0,0.0,64.0,1.0,,Gimnastic
-,Pedro Mairata,es ESP,DF,30,30,0.0,1.0,2008-2009,de9e9405,Gimnastic,"2,643",29.4,4.0,0.0,64.0,1.0,4462.0,Gimnastic
-,Mingo,es ESP,DF,29,28,1.0,0.0,2008-2009,6fc287d5,Gimnastic,"2,488",27.6,10.0,1.0,64.0,1.0,,Gimnastic
-,Papakouli Diop,sn SEN,MF,30,28,0.0,4.0,2008-2009,7329018e,Gimnastic,"2,377",26.4,11.0,0.0,64.0,34.0,,Gimnastic
-,David Medina,es ESP,MF,28,26,0.0,0.0,2008-2009,b5fc02b6,Gimnastic,"2,242",24.9,5.0,2.0,64.0,1.0,4445.0,Gimnastic
-,Jandro,es ESP,MF,32,23,5.0,6.0,2008-2009,453a1fcd,Gimnastic,"1,957",21.7,7.0,0.0,64.0,1.0,,Gimnastic
-,Jordi Alba,es ESP,"DF,MF",35,22,3.0,4.0,2008-2009,4601e194,Gimnastic,"2,141",23.8,9.0,0.0,64.0,1.0,,Gimnastic
-,Pablo Redondo,es ESP,MF,30,22,2.0,3.0,2008-2009,da98fdb0,Gimnastic,"2,052",22.8,5.0,0.0,64.0,1.0,,Gimnastic
-,José Izquierdo,es ESP,DF,20,19,1.0,0.0,2008-2009,f6a5a723,Gimnastic,"1,539",17.1,3.0,0.0,64.0,1.0,,Gimnastic
-,José Mari,es ESP,FW,15,14,3.0,2.0,2008-2009,b56835b1,Gimnastic,"1,228",13.6,5.0,0.0,64.0,1.0,,Gimnastic
-,Serge N'Gal,cm CMR,FW,31,13,2.0,8.0,2008-2009,ba29405f,Gimnastic,"1,367",15.2,6.0,0.0,64.0,36.0,4465.0,Gimnastic
-,Walid Cherfa,dz ALG,DF,14,13,2.0,0.0,2008-2009,7a170385,Gimnastic,"1,180",13.1,5.0,1.0,64.0,37.0,,Gimnastic
-,Moisés,es ESP,FW,35,12,1.0,7.0,2008-2009,3415193,Gimnastic,"1,369",15.2,8.0,2.0,64.0,1.0,,Gimnastic
-,Mario Gibanel,es ESP,MF,21,10,2.0,1.0,2008-2009,2cc38c41,Gimnastic,937,10.4,5.0,0.0,64.0,1.0,4466.0,Gimnastic
-,Óscar Arpón,es ESP,MF,18,9,1.0,1.0,2008-2009,705d238d,Gimnastic,756,8.4,0.0,0.0,64.0,1.0,,Gimnastic
-,Felip Ortiz,es ESP,GK,7,7,0.0,0.0,2008-2009,2c845dc,Gimnastic,630,7.0,1.0,0.0,64.0,1.0,4444.0,Gimnastic
-,Gabriel,br BRA,"DF,MF",6,6,1.0,0.0,2008-2009,83a53b05,Gimnastic,540,6.0,3.0,0.0,64.0,2.0,4467.0,Gimnastic
-,Manuel Yedra,,,4,4,0.0,1.0,2008-2009,,Gimnastic,296,3.3,2.0,1.0,64.0,,,Gimnastic
-,Nebojša Marinković,rs SRB,MF,10,2,2.0,0.0,2008-2009,2996fc8b,Gimnastic,209,2.3,0.0,0.0,64.0,28.0,4468.0,Gimnastic
-,Xabi Pascual,es ESP,GK,2,2,0.0,0.0,2008-2009,52147d09,Gimnastic,180,2.0,0.0,0.0,64.0,1.0,4469.0,Gimnastic
-,Maximiliano Caire,ar ARG,DF,2,2,0.0,0.0,2008-2009,01f790d,Gimnastic,98,1.1,1.0,1.0,64.0,5.0,4470.0,Gimnastic
-,Aimar Sagastibelza,es ESP,DF,2,1,1.0,0.0,2008-2009,733643ba,Gimnastic,102,1.1,1.0,0.0,64.0,1.0,4471.0,Gimnastic
-,Álex Cruz,es ESP,MF,1,1,0.0,0.0,2008-2009,5e9d1e31,Gimnastic,90,1.0,1.0,0.0,64.0,1.0,4472.0,Gimnastic
-,Antonio López,es ESP,MF,3,1,1.0,0.0,2008-2009,1fdd5ff7,Gimnastic,86,1.0,0.0,0.0,64.0,1.0,,Gimnastic
-,Sergio Juste,es ESP,DF,1,0,0.0,0.0,2008-2009,5afe7024,Gimnastic,33,0.4,0.0,0.0,64.0,1.0,4473.0,Gimnastic
-,Ton Alcover,es ESP,MF,1,0,0.0,0.0,2008-2009,4100f6c7,Gimnastic,14,0.2,0.0,0.0,64.0,1.0,4474.0,Gimnastic
-,Juan Antonio Osado,es ESP,FW,1,0,0.0,0.0,2008-2009,6d4a804c,Gimnastic,2,0.0,0.0,0.0,64.0,1.0,4475.0,Gimnastic
-,﻿Rubén Pérez,es ESP,GK,41,41,0.0,0.0,2009-2010,b1bdfe5,Gimnastic,"3,645",40.5,3.0,0.0,64.0,1.0,4457.0,Gimnastic
-,Fernando Morán,es ESP,MF,39,38,3.0,7.0,2009-2010,0fce6e4c,Gimnastic,"3,259",36.2,9.0,1.0,64.0,1.0,,Gimnastic
-,David Medina,es ESP,MF,37,37,1.0,0.0,2009-2010,b5fc02b6,Gimnastic,"3,146",35.0,14.0,2.0,64.0,1.0,4445.0,Gimnastic
-,Jorge García,es ESP,DF,34,33,0.0,3.0,2009-2010,d1bd08ef,Gimnastic,"3,037",33.7,10.0,0.0,64.0,1.0,,Gimnastic
-,Alejandro Campano,es ESP,MF,32,32,7.0,7.0,2009-2010,42a8f3e1,Gimnastic,"2,604",28.9,4.0,1.0,64.0,1.0,,Gimnastic
-,José Mari,es ESP,FW,33,31,2.0,6.0,2009-2010,b56835b1,Gimnastic,"2,461",27.3,11.0,1.0,64.0,1.0,,Gimnastic
-,David Bauzá,es ESP,MF,31,28,2.0,0.0,2009-2010,8969dfa6,Gimnastic,"2,438",27.1,2.0,0.0,64.0,1.0,,Gimnastic
-,Mingo,es ESP,DF,28,28,0.0,0.0,2009-2010,6fc287d5,Gimnastic,"2,409",26.8,15.0,1.0,64.0,1.0,,Gimnastic
-,Miguel Ángel,es ESP,MF,29,28,2.0,2.0,2009-2010,7542ce83,Gimnastic,"2,275",25.3,14.0,1.0,64.0,1.0,,Gimnastic
-,Pedro Mairata,es ESP,DF,24,24,0.0,2.0,2009-2010,de9e9405,Gimnastic,"2,042",22.7,4.0,0.0,64.0,1.0,4462.0,Gimnastic
-,Walter Fernández,es ESP,MF,34,21,2.0,0.0,2009-2010,32d90c95,Gimnastic,"1,998",22.2,2.0,0.0,64.0,1.0,4476.0,Gimnastic
-,Marc Fachan,fr FRA,DF,23,20,0.0,0.0,2009-2010,09587596,Gimnastic,"1,848",20.5,9.0,0.0,64.0,4.0,,Gimnastic
-,Roberto,es ESP,FW,34,18,1.0,4.0,2009-2010,ce05814a,Gimnastic,"1,788",19.9,4.0,0.0,64.0,1.0,4478.0,Gimnastic
-,Walid Cherfa,dz ALG,DF,16,14,1.0,1.0,2009-2010,7a170385,Gimnastic,"1,363",15.1,7.0,0.0,64.0,37.0,,Gimnastic
-,Vicente Pérez,es ESP,MF,23,13,1.0,1.0,2009-2010,f4927d11,Gimnastic,"1,036",11.5,2.0,0.0,64.0,1.0,,Gimnastic
-,Pablo,br BRA,"DF,FW",14,13,0.0,0.0,2009-2010,806a6cc,Gimnastic,987,11.0,0.0,0.0,64.0,2.0,4479.0,Gimnastic
-,Rubén Navarro,es ESP,FW,22,11,1.0,4.0,2009-2010,59cc2821,Gimnastic,"1,142",12.7,3.0,0.0,64.0,1.0,,Gimnastic
-,Biel Medina,es ESP,DF,11,10,0.0,1.0,2009-2010,6339d366,Gimnastic,907,10.1,2.0,0.0,64.0,1.0,4480.0,Gimnastic
-,Pablo Redondo,es ESP,MF,11,7,0.0,1.0,2009-2010,da98fdb0,Gimnastic,653,7.3,1.0,0.0,64.0,1.0,,Gimnastic
-,Álex Cruz,es ESP,MF,25,5,1.0,3.0,2009-2010,5e9d1e31,Gimnastic,937,10.4,6.0,0.0,64.0,1.0,4472.0,Gimnastic
-,Fran Vélez,es ESP,"DF,MF",4,4,0.0,0.0,2009-2010,9d619e08,Gimnastic,218,2.4,2.0,1.0,64.0,1.0,4481.0,Gimnastic
-,Serge N'Gal,cm CMR,FW,19,3,1.0,0.0,2009-2010,ba29405f,Gimnastic,626,7.0,3.0,0.0,64.0,36.0,4465.0,Gimnastic
-,Líbero Parri,es ESP,MF,14,1,0.0,0.0,2009-2010,203ff743,Gimnastic,291,3.2,2.0,1.0,64.0,1.0,,Gimnastic
-,Mauricio Arroyo,co COL,MF,2,1,0.0,0.0,2009-2010,d61afc59,Gimnastic,100,1.1,0.0,0.0,64.0,19.0,4482.0,Gimnastic
-,Felip Ortiz,es ESP,GK,1,1,0.0,0.0,2009-2010,2c845dc,Gimnastic,90,1.0,0.0,0.0,64.0,1.0,4444.0,Gimnastic
-,Xabi Pascual,es ESP,GK,1,0,0.0,0.0,2009-2010,52147d09,Gimnastic,45,0.5,0.0,0.0,64.0,1.0,4469.0,Gimnastic
-,Wellington Saci,br BRA,DF,1,0,0.0,0.0,2009-2010,8e99139e,Gimnastic,11,0.1,0.0,0.0,64.0,2.0,4483.0,Gimnastic
-,Aitor Casas,es ESP,DF,1,0,0.0,0.0,2009-2010,df7abe6,Gimnastic,4,0.0,0.0,0.0,64.0,1.0,4484.0,Gimnastic
-,César Diop,sn SEN,MF,1,0,0.0,0.0,2009-2010,4913f4b5,Gimnastic,4,0.0,0.0,0.0,64.0,34.0,4485.0,Gimnastic
-,﻿Rubén Pérez,es ESP,GK,41,41,0.0,0.0,2010-2011,b1bdfe5,Gimnastic,"3,686",41.0,1.0,1.0,64.0,1.0,4457.0,Gimnastic
-,Fernando Seoane,es ESP,MF,38,37,0.0,0.0,2010-2011,48084614,Gimnastic,"3,173",35.3,8.0,0.0,64.0,1.0,4486.0,Gimnastic
-,Francisco Ibáñez,cl CHI,FW,34,34,0.0,0.0,2010-2011,8743a346,Gimnastic,"3,015",33.5,8.0,0.0,64.0,31.0,,Gimnastic
-,Pedro Mairata,es ESP,DF,33,33,0.0,2.0,2010-2011,de9e9405,Gimnastic,"2,907",32.3,5.0,1.0,64.0,1.0,4462.0,Gimnastic
-,Fernando Morán,es ESP,MF,33,30,9.0,4.0,2010-2011,0fce6e4c,Gimnastic,"2,554",28.4,5.0,0.0,64.0,1.0,,Gimnastic
-,Berry Powel,nl NED,FW,40,27,3.0,11.0,2010-2011,0d9836e0,Gimnastic,"2,515",27.9,5.0,0.0,64.0,11.0,4487.0,Gimnastic
-,Mingo,es ESP,DF,24,22,1.0,0.0,2010-2011,6fc287d5,Gimnastic,"1,984",22.0,9.0,2.0,64.0,1.0,,Gimnastic
-,David Medina,es ESP,MF,26,21,0.0,0.0,2010-2011,b5fc02b6,Gimnastic,"1,997",22.2,4.0,0.0,64.0,1.0,4445.0,Gimnastic
-,Sergio Díaz,es ESP,DF,21,21,1.0,0.0,2010-2011,f8183181,Gimnastic,"1,876",20.8,11.0,1.0,64.0,1.0,4488.0,Gimnastic
-,Daniel Berg Hestad,,,22,20,0.0,1.0,2010-2011,,Gimnastic,"1,865",20.7,6.0,0.0,64.0,,,Gimnastic
-,Raúl Fuster,es ESP,DF,19,19,0.0,0.0,2010-2011,807d26b5,Gimnastic,"1,616",18.0,3.0,1.0,64.0,1.0,4489.0,Gimnastic
-,Felipe Sanchón,es ESP,MF,18,18,1.0,4.0,2010-2011,f62ff94e,Gimnastic,"1,513",16.8,1.0,0.0,64.0,1.0,4490.0,Gimnastic
-,Rodri,es ESP,MF,19,17,0.0,2.0,2010-2011,b8462bd6,Gimnastic,"1,410",15.7,7.0,0.0,64.0,1.0,,Gimnastic
-,Álex Cruz,es ESP,MF,19,17,0.0,0.0,2010-2011,5e9d1e31,Gimnastic,"1,327",14.7,5.0,0.0,64.0,1.0,4472.0,Gimnastic
-,Gerardo Noriega,es ESP,MF,24,15,3.0,0.0,2010-2011,48ff4cab,Gimnastic,"1,440",16.0,0.0,0.0,64.0,1.0,4491.0,Gimnastic
-,Álex Ortiz,es ESP,DF,15,14,0.0,0.0,2010-2011,c07dc79e,Gimnastic,"1,263",14.0,4.0,0.0,64.0,1.0,,Gimnastic
-,Eloy Gila,es ESP,FW,35,13,2.0,5.0,2010-2011,d41067ce,Gimnastic,"1,315",14.6,2.0,0.0,64.0,1.0,,Gimnastic
-,Rubén Navarro,es ESP,FW,18,12,2.0,2.0,2010-2011,59cc2821,Gimnastic,"1,120",12.4,2.0,0.0,64.0,1.0,,Gimnastic
-,Miquel Martínez,es ESP,MF,16,11,1.0,1.0,2010-2011,64a5dbe,Gimnastic,"1,040",11.6,1.0,0.0,64.0,1.0,,Gimnastic
-,Álvaro Rey,eng ENG,MF,29,8,1.0,0.0,2010-2011,87f1f9b9,Gimnastic,"1,049",11.7,3.0,0.0,64.0,6.0,4492.0,Gimnastic
-,Tuni,es ESP,"DF,MF",11,7,1.0,0.0,2010-2011,77175c5,Gimnastic,555,6.2,0.0,0.0,64.0,1.0,,Gimnastic
-,Juan Domínguez,es ESP,FW,11,6,0.0,0.0,2010-2011,3cf63263,Gimnastic,445,4.9,2.0,0.0,64.0,1.0,,Gimnastic
-,Manuel Ruz,es ESP,DF,5,5,0.0,0.0,2010-2011,0bd93f6a,Gimnastic,421,4.7,3.0,0.0,64.0,1.0,,Gimnastic
-,Ludovic Delporte,fr FRA,MF,10,5,0.0,0.0,2010-2011,7c2c4c3e,Gimnastic,358,4.0,2.0,0.0,64.0,4.0,,Gimnastic
-,Borja Viguera,es ESP,FW,5,4,0.0,2.0,2010-2011,d906a703,Gimnastic,322,3.6,0.0,0.0,64.0,1.0,,Gimnastic
-,Walter Fernández,es ESP,MF,10,2,0.0,0.0,2010-2011,32d90c95,Gimnastic,302,3.4,0.0,0.0,64.0,1.0,4476.0,Gimnastic
-,Abraham González,es ESP,MF,4,1,0.0,0.0,2010-2011,682bd745,Gimnastic,149,1.7,0.0,0.0,64.0,1.0,,Gimnastic
-,Vicente Pérez,es ESP,MF,2,1,0.0,0.0,2010-2011,f4927d11,Gimnastic,111,1.2,0.0,0.0,64.0,1.0,,Gimnastic
-,José Moragón,es ESP,GK,1,1,0.0,0.0,2010-2011,95611ff8,Gimnastic,90,1.0,0.0,0.0,64.0,1.0,4493.0,Gimnastic
-,Albert Virgili,es ESP,FW,5,0,0.0,1.0,2010-2011,debe95ca,Gimnastic,94,1.0,0.0,0.0,64.0,1.0,4494.0,Gimnastic
-,﻿Rubén Pérez,es ESP,GK,42,42,0.0,0.0,2011-2012,b1bdfe5,Gimnastic,"3,780",42.0,3.0,0.0,64.0,1.0,4457.0,Gimnastic
-,Antonio Longás,es ESP,MF,39,35,4.0,2.0,2011-2012,d7821711,Gimnastic,"3,162",35.1,8.0,0.0,64.0,1.0,,Gimnastic
-,Fernando Seoane,es ESP,MF,37,34,0.0,0.0,2011-2012,48084614,Gimnastic,"3,079",34.2,6.0,0.0,64.0,1.0,4486.0,Gimnastic
-,Rodri,es ESP,MF,34,34,0.0,2.0,2011-2012,b8462bd6,Gimnastic,"2,839",31.5,9.0,1.0,64.0,1.0,,Gimnastic
-,Fernando Morán,es ESP,MF,33,30,5.0,8.0,2011-2012,0fce6e4c,Gimnastic,"2,446",27.2,7.0,0.0,64.0,1.0,,Gimnastic
-,Francisco Ibáñez,cl CHI,FW,30,29,0.0,1.0,2011-2012,8743a346,Gimnastic,"2,633",29.3,10.0,0.0,64.0,31.0,,Gimnastic
-,Pedro Mairata,es ESP,DF,29,28,0.0,1.0,2011-2012,de9e9405,Gimnastic,"2,499",27.8,5.0,1.0,64.0,1.0,4462.0,Gimnastic
-,Arzu,es ESP,"DF,MF",29,27,0.0,0.0,2011-2012,41e01ff,Gimnastic,"2,391",26.6,6.0,0.0,64.0,1.0,,Gimnastic
-,Mingo,es ESP,DF,30,27,0.0,0.0,2011-2012,6fc287d5,Gimnastic,"2,225",24.7,10.0,0.0,64.0,1.0,,Gimnastic
-,Sergio Juste,es ESP,DF,24,23,0.0,0.0,2011-2012,5afe7024,Gimnastic,"2,030",22.6,3.0,0.0,64.0,1.0,4473.0,Gimnastic
-,Roberto Peragón,es ESP,FW,30,21,1.0,1.0,2011-2012,c1dbaa18,Gimnastic,"1,802",20.0,2.0,0.0,64.0,1.0,,Gimnastic
-,Berry Powel,nl NED,FW,20,18,1.0,9.0,2011-2012,0d9836e0,Gimnastic,"1,540",17.1,3.0,0.0,64.0,11.0,4487.0,Gimnastic
-,Manuel Ruz,es ESP,DF,18,15,1.0,0.0,2011-2012,0bd93f6a,Gimnastic,"1,309",14.5,4.0,0.0,64.0,1.0,,Gimnastic
-,Dani Abalo,es ESP,"FW,MF",17,14,0.0,0.0,2011-2012,d1b04adb,Gimnastic,"1,025",11.4,1.0,0.0,64.0,1.0,,Gimnastic
-,Álex Ortiz,es ESP,DF,17,13,1.0,3.0,2011-2012,c07dc79e,Gimnastic,"1,255",13.9,3.0,0.0,64.0,1.0,,Gimnastic
-,Raúl Fuster,es ESP,DF,16,13,0.0,1.0,2011-2012,807d26b5,Gimnastic,"1,240",13.8,8.0,0.0,64.0,1.0,4489.0,Gimnastic
-,Álvaro Rey,eng ENG,MF,25,10,2.0,1.0,2011-2012,87f1f9b9,Gimnastic,"1,184",13.2,4.0,0.0,64.0,6.0,4492.0,Gimnastic
-,Tuni,es ESP,"DF,MF",26,9,1.0,3.0,2011-2012,77175c5,Gimnastic,"1,272",14.1,4.0,0.0,64.0,1.0,,Gimnastic
-,Eloy Gila,es ESP,FW,13,8,1.0,0.0,2011-2012,d41067ce,Gimnastic,566,6.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Borja Viguera,es ESP,FW,10,6,0.0,0.0,2011-2012,d906a703,Gimnastic,480,5.3,1.0,0.0,64.0,1.0,,Gimnastic
-,Samuel Galindo,bo BOL,MF,12,6,0.0,0.0,2011-2012,30cf013d,Gimnastic,452,5.0,1.0,0.0,64.0,64.0,4495.0,Gimnastic
-,Juan Millán,es ESP,FW,8,5,0.0,0.0,2011-2012,0dd1af5b,Gimnastic,411,4.6,1.0,0.0,64.0,1.0,4496.0,Gimnastic
-,Adrián Luna,uy URU,"FW,MF",18,4,1.0,2.0,2011-2012,0c2a2a73,Gimnastic,726,8.1,3.0,0.0,64.0,8.0,4497.0,Gimnastic
-,Mikel Orbegozo,es ESP,FW,11,4,1.0,0.0,2011-2012,45a7dca3,Gimnastic,440,4.9,1.0,0.0,64.0,1.0,4498.0,Gimnastic
-,Hugo Bargas,fr FRA,FW,5,3,0.0,0.0,2011-2012,0640a66,Gimnastic,289,3.2,0.0,0.0,64.0,4.0,4499.0,Gimnastic
-,José Ángel Bueno,es ESP,MF,5,2,0.0,0.0,2011-2012,ba452ed2,Gimnastic,195,2.2,0.0,0.0,64.0,1.0,4500.0,Gimnastic
-,Eugeni Valderrama,es ESP,MF,5,1,0.0,0.0,2011-2012,75b4071,Gimnastic,200,2.2,1.0,0.0,64.0,1.0,,Gimnastic
-,Joan Sabaté,es ESP,MF,1,1,0.0,0.0,2011-2012,9edfeca5,Gimnastic,44,0.5,0.0,0.0,64.0,1.0,4501.0,Gimnastic
-,Sergi Gestí Cano,es ESP,FW,1,0,0.0,0.0,2011-2012,cfcd8596,Gimnastic,31,0.3,0.0,0.0,64.0,1.0,4502.0,Gimnastic
-,Julio Rico,es ESP,"DF,MF",2,0,0.0,0.0,2011-2012,2c41abc,Gimnastic,27,0.3,0.0,0.0,64.0,1.0,4503.0,Gimnastic
-,﻿Pablo Marí,es ESP,DF,2,2,0.0,0.0,2014-2015,54ec6f,Gimnastic,210.0,2.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Manolo Martínez,es ESP,"DF,MF",2,2,0.0,0.0,2014-2015,7b9876e4,Gimnastic,210.0,2.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Tomeu Nadal,es ESP,GK,2,2,0.0,0.0,2014-2015,37452c75,Gimnastic,210.0,2.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Ramón Verdú Montes,es ESP,DF,2,2,0.0,0.0,2014-2015,db7ff69c,Gimnastic,210.0,2.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Javi Martínez,es ESP,MF,2,2,0.0,0.0,2014-2015,59359d6b,Gimnastic,184.0,2.0,0.0,0.0,64.0,1.0,4504.0,Gimnastic
-,Marcos,es ESP,FW,2,2,0.0,0.0,2014-2015,d567ccd6,Gimnastic,150.0,1.7,1.0,0.0,64.0,1.0,4505.0,Gimnastic
-,Gerard Valentín,es ESP,"DF,MF",2,2,0.0,0.0,2014-2015,9d4c3227,Gimnastic,133.0,1.5,0.0,0.0,64.0,1.0,,Gimnastic
-,Marc Martínez,es ESP,MF,2,1,0.0,0.0,2014-2015,7c4764d7,Gimnastic,167.0,1.9,1.0,0.0,64.0,1.0,4506.0,Gimnastic
-,Ferrán Giner Peris,es ESP,FW,2,1,0.0,0.0,2014-2015,de3ce0,Gimnastic,146.0,1.6,0.0,0.0,64.0,1.0,,Gimnastic
-,Xisco Campos,es ESP,DF,1,1,0.0,0.0,2014-2015,bd3b9a9f,Gimnastic,120.0,1.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Cristóbal Gil Martín,es ESP,MF,1,1,0.0,0.0,2014-2015,5135cd80,Gimnastic,120.0,1.3,0.0,0.0,64.0,1.0,4507.0,Gimnastic
-,Lago Junior,ci CIV,"FW,MF",1,1,0.0,0.0,2014-2015,360d70f8,Gimnastic,90.0,1.0,1.0,0.0,64.0,35.0,,Gimnastic
-,Xavi Molina,es ESP,"DF,MF",1,1,0.0,0.0,2014-2015,dd088a95,Gimnastic,72.0,0.8,0.0,0.0,64.0,1.0,4508.0,Gimnastic
-,Rayco García Dauta,es ESP,FW,1,1,0.0,0.0,2014-2015,018ce429,Gimnastic,69.0,0.8,0.0,0.0,64.0,1.0,,Gimnastic
-,Luismi,es ESP,MF,1,1,0.0,0.0,2014-2015,315b221b,Gimnastic,68.0,0.8,1.0,0.0,64.0,1.0,,Gimnastic
-,Gorka Azkorra,es ESP,FW,2,0,0.0,0.0,2014-2015,b6ba90f9,Gimnastic,82.0,0.9,0.0,0.0,64.0,1.0,,Gimnastic
-,Jean Luc Gbayara,ci CIV,MF,1,0,0.0,0.0,2014-2015,98afb06c,Gimnastic,51.0,0.6,0.0,0.0,64.0,35.0,4509.0,Gimnastic
-,David Rocha,es ESP,MF,1,0,0.0,0.0,2014-2015,39d4e7a1,Gimnastic,18.0,0.2,0.0,0.0,64.0,1.0,4510.0,Gimnastic
-,Manolo Reina,es ESP,GK,0,0,,,2014-2015,605eb473,Gimnastic,,,,,64.0,1.0,,Gimnastic
-,﻿Manolo Reina,es ESP,GK,41,41,0.0,0.0,2015-2016,605eb473,Gimnastic,"3,690",41.0,7.0,0.0,64.0,1.0,,Gimnastic
-,Mossa,es ESP,"DF,MF",38,38,4.0,2.0,2015-2016,cbfa9c63,Gimnastic,"3,297",36.6,11.0,0.0,64.0,1.0,,Gimnastic
-,Xavi Molina,es ESP,"DF,MF",33,31,1.0,3.0,2015-2016,dd088a95,Gimnastic,"2,800",31.1,6.0,0.0,64.0,1.0,4508.0,Gimnastic
-,Achille Emaná,cm CMR,MF,37,31,5.0,9.0,2015-2016,2d23ed,Gimnastic,"2,653",29.5,9.0,0.0,64.0,36.0,,Gimnastic
-,Sergio Tejera,es ESP,MF,34,29,4.0,0.0,2015-2016,3d5734ef,Gimnastic,"2,533",28.1,18.0,0.0,64.0,1.0,,Gimnastic
-,Iago Bouzón,es ESP,DF,29,27,1.0,1.0,2015-2016,2b687c98,Gimnastic,"2,441",27.1,10.0,0.0,64.0,1.0,,Gimnastic
-,Naranjo,es ESP,"FW,MF",34,27,6.0,15.0,2015-2016,2a70c756,Gimnastic,"2,419",26.9,9.0,0.0,64.0,1.0,,Gimnastic
-,Pablo Marí,es ESP,DF,25,25,0.0,1.0,2015-2016,54ec6f,Gimnastic,"2,217",24.6,7.0,1.0,64.0,1.0,,Gimnastic
-,Jean Luc Gbayara,ci CIV,MF,33,23,3.0,5.0,2015-2016,98afb06c,Gimnastic,"2,252",25.0,9.0,0.0,64.0,35.0,4509.0,Gimnastic
-,Francisco Ibáñez,cl CHI,FW,23,20,1.0,0.0,2015-2016,8743a346,Gimnastic,"1,780",19.8,6.0,0.0,64.0,31.0,,Gimnastic
-,David Rocha,es ESP,MF,20,20,0.0,0.0,2015-2016,39d4e7a1,Gimnastic,"1,744",19.4,7.0,0.0,64.0,1.0,4510.0,Gimnastic
-,Lévy Madinda,ga GAB,MF,20,15,0.0,1.0,2015-2016,26e99f,Gimnastic,"1,447",16.1,3.0,0.0,64.0,69.0,,Gimnastic
-,Giorgi Aburjania,ge GEO,MF,16,15,2.0,2.0,2015-2016,0921a46c,Gimnastic,"1,287",14.3,3.0,0.0,64.0,76.0,4511.0,Gimnastic
-,Daisuke Suzuki,jp JPN,DF,13,13,0.0,0.0,2015-2016,fb8a11ca,Gimnastic,"1,170",13.0,2.0,0.0,64.0,54.0,4512.0,Gimnastic
-,Cristian Lobato,es ESP,"FW,MF",18,12,0.0,1.0,2015-2016,7ac9c6d,Gimnastic,836,9.3,1.0,0.0,64.0,1.0,,Gimnastic
-,Marcos,es ESP,FW,23,11,0.0,4.0,2015-2016,d567ccd6,Gimnastic,"1,078",12.0,1.0,0.0,64.0,1.0,4505.0,Gimnastic
-,Miguel Palanca,es ESP,"FW,MF",19,11,2.0,1.0,2015-2016,005ade52,Gimnastic,938,10.4,4.0,0.0,64.0,1.0,74.0,Gimnastic
-,Aníbal Zurdo,mx MEX,FW,15,10,1.0,2.0,2015-2016,f01453a0,Gimnastic,855,9.5,2.0,0.0,64.0,20.0,4513.0,Gimnastic
-,Rayco García Dauta,es ESP,FW,14,10,1.0,0.0,2015-2016,018ce429,Gimnastic,836,9.3,0.0,0.0,64.0,1.0,,Gimnastic
-,Gerard Valentín,es ESP,"DF,MF",12,10,0.0,0.0,2015-2016,9d4c3227,Gimnastic,800,8.9,2.0,0.0,64.0,1.0,,Gimnastic
-,Ferrán Giner Peris,es ESP,FW,17,9,2.0,0.0,2015-2016,de3ce0,Gimnastic,920,10.2,2.0,0.0,64.0,1.0,,Gimnastic
-,Álex López,es ESP,FW,13,9,0.0,2.0,2015-2016,8e492949,Gimnastic,827,9.2,1.0,0.0,64.0,1.0,,Gimnastic
-,Jordi Calavera,es ESP,DF,9,7,0.0,1.0,2015-2016,bdef8cdb,Gimnastic,706,7.8,2.0,0.0,64.0,1.0,4514.0,Gimnastic
-,Juan Muñiz,es ESP,MF,13,5,4.0,0.0,2015-2016,1533d658,Gimnastic,435,4.8,4.0,0.0,64.0,1.0,4515.0,Gimnastic
-,Fali,es ESP,"DF,MF",7,4,0.0,1.0,2015-2016,72a84002,Gimnastic,393,4.4,2.0,0.0,64.0,1.0,,Gimnastic
-,Manolo Martínez,es ESP,"DF,MF",5,3,0.0,0.0,2015-2016,7b9876e4,Gimnastic,255,2.8,2.0,1.0,64.0,1.0,,Gimnastic
-,Moussa Bandeh,es ESP,DF,3,3,0.0,0.0,2015-2016,28c9ce9e,Gimnastic,246,2.7,0.0,0.0,64.0,1.0,4516.0,Gimnastic
-,Xisco,es ESP,"FW,MF",11,1,2.0,1.0,2015-2016,faaae13,Gimnastic,327,3.6,1.0,0.0,64.0,1.0,,Gimnastic
-,Alberto Varo,es ESP,GK,1,1,0.0,0.0,2015-2016,59de37ab,Gimnastic,90,1.0,0.0,0.0,64.0,1.0,,Gimnastic
-,Gal Arel,il ISR,"DF,MF",4,1,0.0,0.0,2015-2016,d5c6a98a,Gimnastic,70,0.8,0.0,0.0,64.0,45.0,4517.0,Gimnastic
-,Stephane Emaná,cm CMR,FW,5,0,0.0,2.0,2015-2016,39f30611,Gimnastic,193,2.1,2.0,0.0,64.0,36.0,4518.0,Gimnastic
-,Carlos García,es ESP,MF,1,0,0.0,0.0,2015-2016,1e64709e,Gimnastic,10,0.1,0.0,0.0,64.0,1.0,,Gimnastic
-,Mousa Bandeh,ml MLI,DF,0,0,,,2015-2016,c238d951,Gimnastic,,,,,64.0,12.0,4519.0,Gimnastic
-,Xisco Campos,es ESP,DF,0,0,,,2015-2016,bd3b9a9f,Gimnastic,,,,,64.0,1.0,,Gimnastic
-,Xisco Hernández,es ESP,MF,0,0,,,2015-2016,501aaa9b,Gimnastic,,,,,64.0,1.0,4520.0,Gimnastic
-,Tomeu Nadal,es ESP,GK,0,0,,,2015-2016,37452c75,Gimnastic,,,,,64.0,1.0,,Gimnastic
-,Fabrice Ondoa,cm CMR,GK,0,0,,,2015-2016,c5b2b9b2,Gimnastic,,,,,64.0,36.0,4521.0,Gimnastic
-,﻿Mossa,es ESP,"DF,MF",39,39,1.0,0.0,2016-2017,cbfa9c63,Gimnastic,"3,447",38.3,13.0,2.0,64.0,1.0,,Gimnastic
-,Sergio Tejera,es ESP,MF,36,35,4.0,6.0,2016-2017,3d5734ef,Gimnastic,"3,172",35.2,16.0,1.0,64.0,1.0,,Gimnastic
-,Daisuke Suzuki,jp JPN,DF,34,32,0.0,1.0,2016-2017,fb8a11ca,Gimnastic,"2,816",31.3,5.0,2.0,64.0,54.0,4512.0,Gimnastic
-,Gerard Valentín,es ESP,DF,33,29,3.0,0.0,2016-2017,9d4c3227,Gimnastic,"2,477",27.5,5.0,2.0,64.0,1.0,,Gimnastic
-,Xavi Molina,es ESP,"DF,MF",29,28,1.0,1.0,2016-2017,dd088a95,Gimnastic,"2,505",27.8,13.0,2.0,64.0,1.0,4508.0,Gimnastic
-,Manolo Reina,es ESP,GK,23,23,0.0,0.0,2016-2017,605eb473,Gimnastic,"2,070",23.0,4.0,0.0,64.0,1.0,,Gimnastic
-,Lévy Madinda,ga GAB,MF,27,22,1.0,0.0,2016-2017,26e99f,Gimnastic,"1,834",20.4,5.0,0.0,64.0,69.0,,Gimnastic
-,Iago Bouzón,es ESP,DF,22,22,0.0,0.0,2016-2017,2b687c98,Gimnastic,"1,831",20.3,10.0,2.0,64.0,1.0,,Gimnastic
-,Álex López,es ESP,FW,32,20,5.0,3.0,2016-2017,8e492949,Gimnastic,"1,832",20.4,4.0,0.0,64.0,1.0,,Gimnastic
-,Cristian Lobato,es ESP,"MF,DF",27,19,3.0,1.0,2016-2017,7ac9c6d,Gimnastic,"1,733",19.3,1.0,0.0,64.0,1.0,,Gimnastic
-,Juan Muñiz,es ESP,MF,24,19,2.0,4.0,2016-2017,1533d658,Gimnastic,"1,615",17.9,7.0,0.0,64.0,1.0,4515.0,Gimnastic
-,Bruno Perone,br BRA,DF,19,17,1.0,2.0,2016-2017,58591790,Gimnastic,"1,531",17.0,3.0,0.0,64.0,2.0,,Gimnastic
-,Juan Delgado,cl CHI,"FW,MF",24,17,0.0,4.0,2016-2017,45a91d07,Gimnastic,"1,523",16.9,5.0,1.0,64.0,31.0,4529.0,Gimnastic
-,Ikechukwu Uche,ng NGA,FW,24,15,3.0,8.0,2016-2017,ba7c6d25,Gimnastic,"1,351",15.0,2.0,1.0,64.0,52.0,,Gimnastic
-,Achille Emaná,cm CMR,"FW,MF",16,14,2.0,4.0,2016-2017,2d23ed,Gimnastic,"1,140",12.7,4.0,0.0,64.0,36.0,,Gimnastic
-,Miguel Cordero,es ESP,MF,17,14,0.0,1.0,2016-2017,196c33d,Gimnastic,"1,118",12.4,6.0,0.0,64.0,1.0,4522.0,Gimnastic
-,Luismi Quezada,do DOM,DF,13,13,1.0,1.0,2016-2017,53440b3c,Gimnastic,"1,072",11.9,1.0,0.0,64.0,25.0,152.0,Gimnastic
-,Manu Barreiro,es ESP,FW,19,11,0.0,5.0,2016-2017,028608d9,Gimnastic,"1,003",11.1,3.0,2.0,64.0,1.0,,Gimnastic
-,Wilfried Zahibo,cf CTA,MF,15,11,0.0,0.0,2016-2017,784ec3de,Gimnastic,856,9.5,8.0,0.0,64.0,73.0,,Gimnastic
-,Sebastián Saja,ar ARG,GK,10,10,0.0,0.0,2016-2017,50a2cb6d,Gimnastic,900,10.0,1.0,0.0,64.0,5.0,,Gimnastic
-,Ferrán Giner Peris,es ESP,"MF,DF",13,9,1.0,0.0,2016-2017,de3ce0,Gimnastic,813,9.0,3.0,0.0,64.0,1.0,,Gimnastic
-,Stole Dimitrievski,mk MKD,GK,9,9,0.0,0.0,2016-2017,fc70e345,Gimnastic,810,9.0,1.0,0.0,64.0,81.0,,Gimnastic
-,Jean Luc Gbayara,ci CIV,"MF,DF",23,8,1.0,2.0,2016-2017,98afb06c,Gimnastic,"1,064",11.8,3.0,0.0,64.0,35.0,4509.0,Gimnastic
-,Mohammed Djetei,cm CMR,DF,9,7,0.0,0.0,2016-2017,209c123e,Gimnastic,675,7.5,2.0,0.0,64.0,36.0,,Gimnastic
-,Alberto Lopo,es ESP,DF,5,5,0.0,0.0,2016-2017,17cd5bb7,Gimnastic,450,5.0,0.0,1.0,64.0,1.0,,Gimnastic
-,Stephane Emaná,cm CMR,"FW,MF",15,4,1.0,2.0,2016-2017,39f30611,Gimnastic,610,6.8,4.0,2.0,64.0,36.0,4518.0,Gimnastic
-,José Carlos,es ESP,MF,11,4,0.0,1.0,2016-2017,6738f3c6,Gimnastic,407,4.5,1.0,0.0,64.0,1.0,,Gimnastic
-,Otar Kakabadze,ge GEO,DF,6,3,0.0,0.0,2016-2017,2ea12fc4,Gimnastic,322,3.6,1.0,0.0,64.0,76.0,4523.0,Gimnastic
-,Moha Rharsalla,ma MAR,MF,8,2,0.0,1.0,2016-2017,82e3586c,Gimnastic,284,3.2,0.0,0.0,64.0,26.0,4524.0,Gimnastic
-,Elvir Maloku,al ALB,FW,3,0,0.0,0.0,2016-2017,86f93e72,Gimnastic,77,0.9,0.0,0.0,64.0,78.0,4525.0,Gimnastic
-,Amadou Boiro,sn SEN,MF,1,0,0.0,0.0,2016-2017,95055f14,Gimnastic,2,0.0,0.0,0.0,64.0,34.0,4526.0,Gimnastic
-,Luismi,es ESP,"MF,DF",0,0,,,2016-2017,c2cfbfc9,Gimnastic,,,,,64.0,1.0,,Gimnastic
-,Dani Ojeda,es ESP,"FW,MF",0,0,,,2016-2017,375a669e,Gimnastic,,,,,64.0,1.0,,Gimnastic
-,José Perales,es ESP,GK,0,0,,,2016-2017,d4a3f67b,Gimnastic,,,,,64.0,1.0,4527.0,Gimnastic
-,Ruxi,es ESP,DF,0,0,,,2016-2017,bf0a02be,Gimnastic,,,,,64.0,1.0,4528.0,Gimnastic
-,Marc Vadillo,es ESP,DF,0,0,,,2016-2017,300fd40,Gimnastic,,,,,64.0,1.0,,Gimnastic
-,﻿Stole Dimitrievski,mk MKD,GK,39,39,1.0,0.0,2017-2018,fc70e345,Gimnastic,"3,510",39.0,3.0,0.0,64.0,81.0,,Gimnastic
-,Xavi Molina,es ESP,"DF,MF",38,38,0.0,1.0,2017-2018,dd088a95,Gimnastic,"3,398",37.8,12.0,0.0,64.0,1.0,4508.0,Gimnastic
-,Otar Kakabadze,ge GEO,DF,36,36,6.0,1.0,2017-2018,2ea12fc4,Gimnastic,"3,194",35.5,8.0,0.0,64.0,76.0,4523.0,Gimnastic
-,Manu Barreiro,es ESP,FW,39,32,5.0,10.0,2017-2018,028608d9,Gimnastic,"2,887",32.1,4.0,0.0,64.0,1.0,,Gimnastic
-,Maikel Mesa,es ESP,MF,36,32,1.0,8.0,2017-2018,2afb7b21,Gimnastic,"2,623",29.1,7.0,0.0,64.0,1.0,,Gimnastic
-,Abraham Minero,es ESP,"DF,MF",30,26,1.0,0.0,2017-2018,ce2c56fc,Gimnastic,"2,325",25.8,13.0,2.0,64.0,1.0,,Gimnastic
-,Javier Jiménez,es ESP,DF,29,26,3.0,0.0,2017-2018,d7af6f5b,Gimnastic,"2,323",25.8,6.0,0.0,64.0,1.0,,Gimnastic
-,Jon Gaztañaga,es ESP,MF,27,24,0.0,0.0,2017-2018,806872d2,Gimnastic,"2,103",23.4,6.0,0.0,64.0,1.0,,Gimnastic
-,Sergio Tejera,es ESP,MF,26,23,2.0,1.0,2017-2018,3d5734ef,Gimnastic,"1,984",22.0,12.0,0.0,64.0,1.0,,Gimnastic
-,Daisuke Suzuki,jp JPN,DF,20,20,0.0,0.0,2017-2018,fb8a11ca,Gimnastic,"1,777",19.7,6.0,2.0,64.0,54.0,4512.0,Gimnastic
-,Tete Morente,es ESP,MF,25,18,1.0,2.0,2017-2018,004d185e,Gimnastic,"1,661",18.5,6.0,0.0,64.0,1.0,,Gimnastic
-,Ikechukwu Uche,ng NGA,FW,24,14,1.0,8.0,2017-2018,ba7c6d25,Gimnastic,"1,287",14.3,2.0,0.0,64.0,52.0,,Gimnastic
-,Bruno Perone,br BRA,DF,15,13,0.0,0.0,2017-2018,58591790,Gimnastic,"1,207",13.4,1.0,0.0,64.0,2.0,,Gimnastic
-,Álvaro Vázquez,es ESP,"FW,MF",18,13,2.0,6.0,2017-2018,d2d8675a,Gimnastic,"1,156",12.8,4.0,1.0,64.0,1.0,,Gimnastic
-,Juan Delgado,cl CHI,MF,17,13,1.0,1.0,2017-2018,45a91d07,Gimnastic,"1,120",12.4,1.0,0.0,64.0,31.0,4529.0,Gimnastic
-,Juan Muñiz,es ESP,MF,23,12,1.0,1.0,2017-2018,1533d658,Gimnastic,"1,068",11.9,9.0,0.0,64.0,1.0,4515.0,Gimnastic
-,Fali,es ESP,MF,14,12,1.0,0.0,2017-2018,72a84002,Gimnastic,995,11.1,4.0,0.0,64.0,1.0,,Gimnastic
-,Jean Luc Gbayara,ci CIV,MF,17,11,1.0,1.0,2017-2018,98afb06c,Gimnastic,"1,019",11.3,3.0,0.0,64.0,35.0,4509.0,Gimnastic
-,Julio Pleguezuelo,es ESP,DF,10,10,0.0,0.0,2017-2018,2950c47b,Gimnastic,893,9.9,4.0,0.0,64.0,1.0,,Gimnastic
-,César Arzo,es ESP,DF,10,9,0.0,0.0,2017-2018,0ea37b10,Gimnastic,829,9.2,4.0,2.0,64.0,1.0,,Gimnastic
-,Javi Márquez,es ESP,MF,13,8,0.0,0.0,2017-2018,40c7cdd2,Gimnastic,578,6.4,4.0,0.0,64.0,1.0,,Gimnastic
-,Omar Perdomo,es ESP,MF,16,7,0.0,2.0,2017-2018,5290eb66,Gimnastic,710,7.9,0.0,0.0,64.0,1.0,4530.0,Gimnastic
-,Eddy Silvestre,az AZE,MF,11,6,1.0,0.0,2017-2018,15ac2dc2,Gimnastic,529,5.9,2.0,0.0,64.0,108.0,,Gimnastic
-,Javier Matilla,es ESP,MF,10,5,0.0,0.0,2017-2018,35fa45cc,Gimnastic,568,6.3,4.0,0.0,64.0,1.0,,Gimnastic
-,Carlos Blanco,es ESP,DF,4,4,0.0,0.0,2017-2018,6eb7068f,Gimnastic,336,3.7,0.0,0.0,64.0,1.0,4531.0,Gimnastic
-,Wilfried Zahibo,cf CTA,MF,6,4,0.0,0.0,2017-2018,784ec3de,Gimnastic,333,3.7,3.0,0.0,64.0,73.0,,Gimnastic
-,Nicolao Dumitru,it ITA,"MF,FW",10,2,0.0,1.0,2017-2018,1a5d127b,Gimnastic,340,3.8,0.0,0.0,64.0,9.0,4532.0,Gimnastic
-,Bernabé Barragán,es ESP,GK,2,2,0.0,0.0,2017-2018,3cd0078,Gimnastic,154,1.7,1.0,0.0,64.0,1.0,,Gimnastic
-,Stephane Emaná,cm CMR,FW,4,1,0.0,0.0,2017-2018,39f30611,Gimnastic,187,2.1,0.0,0.0,64.0,36.0,4518.0,Gimnastic
-,José Perales,es ESP,GK,2,1,0.0,0.0,2017-2018,d4a3f67b,Gimnastic,116,1.3,1.0,0.0,64.0,1.0,4527.0,Gimnastic
-,Pol Valentín,es ESP,DF,1,1,0.0,0.0,2017-2018,1043a909,Gimnastic,90,1.0,0.0,0.0,64.0,1.0,4533.0,Gimnastic
-,Jean Marie Dongou,cm CMR,FW,8,0,0.0,0.0,2017-2018,fd0bb7d2,Gimnastic,154,1.7,0.0,0.0,64.0,36.0,,Gimnastic
-,Álvaro Bustos,es ESP,MF,4,0,0.0,0.0,2017-2018,6163c2ae,Gimnastic,74,0.8,0.0,0.0,64.0,1.0,4534.0,Gimnastic
-,Brugui,es ESP,MF,3,0,0.0,0.0,2017-2018,66d0860c,Gimnastic,42,0.5,0.0,0.0,64.0,1.0,4535.0,Gimnastic
-,Mohammed Djetei,cm CMR,DF,0,0,,,2017-2018,209c123e,Gimnastic,,,,,64.0,36.0,,Gimnastic
-,Roger Figueras,es ESP,DF,0,0,,,2017-2018,de6b6465,Gimnastic,,,,,64.0,1.0,4536.0,Gimnastic
-,Pol Prats Moragrega,es ESP,FW,0,0,,,2017-2018,d5dcfafe,Gimnastic,,,,,64.0,1.0,4537.0,Gimnastic
-,Rayco Rodríguez Medina,es ESP,MF,0,0,,,2017-2018,7039121a,Gimnastic,,,,,64.0,1.0,4538.0,Gimnastic
-,Ivan Ruiz,es ESP,DF,0,0,,,2017-2018,d51cc703,Gimnastic,,,,,64.0,1.0,4539.0,Gimnastic
-,Alexandro Toscano,it ITA,MF,0,0,,,2017-2018,4b688a71,Gimnastic,,,,,64.0,9.0,4540.0,Gimnastic
-,﻿Abraham Minero,es ESP,"DF,MF",34,34,2.0,0.0,2018-2019,ce2c56fc,Gimnastic,"2,953",32.8,11.0,0.0,64.0,1.0,,Gimnastic
-,Luis Javier Suárez,co COL,FW,36,27,1.0,7.0,2018-2019,ba07f8,Gimnastic,"2,288",25.4,7.0,1.0,64.0,19.0,,Gimnastic
-,Fali,es ESP,"DF,MF",28,27,0.0,3.0,2018-2019,72a84002,Gimnastic,"2,190",24.3,11.0,2.0,64.0,1.0,,Gimnastic
-,Imanol García,es ESP,MF,24,24,0.0,1.0,2018-2019,90ed68c,Gimnastic,"2,144",23.8,4.0,0.0,64.0,1.0,,Gimnastic
-,Bernabé Barragán,es ESP,GK,23,23,0.0,0.0,2018-2019,3cd0078,Gimnastic,"2,070",23.0,1.0,0.0,64.0,1.0,,Gimnastic
-,Mohammed Djetei,cm CMR,DF,23,19,0.0,0.0,2018-2019,209c123e,Gimnastic,"1,690",18.8,3.0,0.0,64.0,36.0,,Gimnastic
-,Isaac Becerra,es ESP,GK,18,18,0.0,0.0,2018-2019,bee5d245,Gimnastic,"1,620",18.0,2.0,0.0,64.0,1.0,,Gimnastic
-,Ikechukwu Uche,ng NGA,FW,27,17,0.0,5.0,2018-2019,ba7c6d25,Gimnastic,"1,553",17.3,4.0,0.0,64.0,52.0,,Gimnastic
-,Ousseynou Thioune,sn SEN,MF,18,17,1.0,0.0,2018-2019,4518eb60,Gimnastic,"1,517",16.9,10.0,1.0,64.0,34.0,4541.0,Gimnastic
-,Javi Márquez,es ESP,"MF,FW",24,17,3.0,1.0,2018-2019,40c7cdd2,Gimnastic,"1,446",16.1,7.0,0.0,64.0,1.0,,Gimnastic
-,Pipa,es ESP,MF,18,17,0.0,0.0,2018-2019,10f1cd17,Gimnastic,"1,425",15.8,2.0,0.0,64.0,1.0,,Gimnastic
-,Mikel Villanueva,ve VEN,DF,17,16,1.0,0.0,2018-2019,65f90a76,Gimnastic,"1,462",16.2,4.0,0.0,64.0,53.0,,Gimnastic
-,Fabián Noguera,ar ARG,DF,16,16,0.0,0.0,2018-2019,20352705,Gimnastic,"1,440",16.0,3.0,0.0,64.0,5.0,4542.0,Gimnastic
-,Sebas Coris,es ESP,MF,17,16,1.0,0.0,2018-2019,b18da471,Gimnastic,"1,309",14.5,1.0,0.0,64.0,1.0,,Gimnastic
-,Salvador Ferrer,es ESP,DF,21,15,0.0,0.0,2018-2019,b76987d,Gimnastic,"1,534",17.0,2.0,0.0,64.0,1.0,4543.0,Gimnastic
-,Manu Barreiro,es ESP,FW,20,15,0.0,1.0,2018-2019,028608d9,Gimnastic,"1,437",16.0,4.0,0.0,64.0,1.0,,Gimnastic
-,David Rocha,es ESP,MF,18,12,2.0,0.0,2018-2019,39d4e7a1,Gimnastic,"1,170",13.0,5.0,0.0,64.0,1.0,4510.0,Gimnastic
-,Víctor Martínez,es ESP,MF,14,12,0.0,0.0,2018-2019,c1cb9001,Gimnastic,"1,026",11.4,5.0,0.0,64.0,1.0,4544.0,Gimnastic
-,Tete Morente,es ESP,MF,14,12,1.0,1.0,2018-2019,004d185e,Gimnastic,"1,014",11.3,4.0,1.0,64.0,1.0,,Gimnastic
-,Raúl Albentosa,es ESP,DF,11,11,0.0,2.0,2018-2019,348e4809,Gimnastic,990,11.0,5.0,0.0,64.0,1.0,,Gimnastic
-,Manu del Moral,es ESP,"MF,FW",15,9,0.0,2.0,2018-2019,1026f88d,Gimnastic,842,9.4,0.0,0.0,64.0,1.0,,Gimnastic
-,Liassine Cadamuro,dz ALG,DF,9,9,0.0,0.0,2018-2019,3a83cb9,Gimnastic,792,8.8,3.0,1.0,64.0,37.0,,Gimnastic
-,José Kanté,gn GUI,"FW,MF",14,7,2.0,3.0,2018-2019,0bb78a04,Gimnastic,724,8.0,2.0,0.0,64.0,74.0,4545.0,Gimnastic
-,Brugui,es ESP,"MF,FW",14,7,1.0,0.0,2018-2019,66d0860c,Gimnastic,648,7.2,1.0,0.0,64.0,1.0,4535.0,Gimnastic
-,Josua Mejías,ve VEN,DF,7,7,0.0,0.0,2018-2019,f472365d,Gimnastic,630,7.0,2.0,0.0,64.0,53.0,,Gimnastic
-,Iván López,es ESP,"DF,MF",7,6,0.0,0.0,2018-2019,576575e5,Gimnastic,501,5.6,0.0,0.0,64.0,1.0,,Gimnastic
-,Antonio Cotán,es ESP,MF,10,5,0.0,0.0,2018-2019,d92dd30e,Gimnastic,466,5.2,2.0,0.0,64.0,1.0,,Gimnastic
-,Miguel Palanca,es ESP,MF,8,5,1.0,0.0,2018-2019,005ade52,Gimnastic,462,5.1,1.0,0.0,64.0,1.0,74.0,Gimnastic
-,Javier Jiménez,es ESP,"MF,DF",7,4,0.0,0.0,2018-2019,d7af6f5b,Gimnastic,334,3.7,0.0,0.0,64.0,1.0,,Gimnastic
-,Josema,es ESP,DF,4,4,0.0,0.0,2018-2019,d3f5f4c,Gimnastic,279,3.1,1.0,0.0,64.0,1.0,,Gimnastic
-,Pol Valentín,es ESP,MF,10,3,0.0,0.0,2018-2019,1043a909,Gimnastic,416,4.6,1.0,1.0,64.0,1.0,4533.0,Gimnastic
-,Berat Sadik,fi FIN,FW,11,3,0.0,1.0,2018-2019,d253e5,Gimnastic,384,4.3,1.0,0.0,64.0,83.0,4546.0,Gimnastic
-,Pol Prats Moragrega,es ESP,"MF,FW",4,3,1.0,1.0,2018-2019,d5dcfafe,Gimnastic,260,2.9,1.0,0.0,64.0,1.0,4537.0,Gimnastic
-,Roger Figueras,es ESP,DF,3,3,0.0,0.0,2018-2019,de6b6465,Gimnastic,215,2.4,2.0,0.0,64.0,1.0,4536.0,Gimnastic
-,Ramiro Guerra,uy URU,MF,3,3,0.0,0.0,2018-2019,07a0baa9,Gimnastic,209,2.3,0.0,0.0,64.0,8.0,,Gimnastic
-,Otar Kakabadze,ge GEO,DF,2,2,0.0,0.0,2018-2019,2ea12fc4,Gimnastic,180,2.0,0.0,0.0,64.0,76.0,4523.0,Gimnastic
-,César Arzo,es ESP,DF,2,2,0.0,0.0,2018-2019,0ea37b10,Gimnastic,118,1.3,0.0,1.0,64.0,1.0,,Gimnastic
-,Omar Perdomo,es ESP,MF,8,1,0.0,0.0,2018-2019,5290eb66,Gimnastic,189,2.1,2.0,0.0,64.0,1.0,4530.0,Gimnastic
-,Abdelaziz Barrada,ma MAR,MF,4,1,0.0,0.0,2018-2019,89dac314,Gimnastic,144,1.6,0.0,0.0,64.0,26.0,,Gimnastic
-,Nicolao Dumitru,it ITA,MF,3,1,0.0,0.0,2018-2019,1a5d127b,Gimnastic,115,1.3,1.0,0.0,64.0,9.0,4532.0,Gimnastic
-,Sergio Montero,es ESP,MF,1,1,1.0,0.0,2018-2019,24c9f88d,Gimnastic,77,0.9,0.0,0.0,64.0,1.0,4547.0,Gimnastic
-,Nacho Abeledo,es ESP,MF,3,0,0.0,0.0,2018-2019,5cd91b46,Gimnastic,70,0.8,0.0,0.0,64.0,1.0,4548.0,Gimnastic
-,Sergi Cardona,es ESP,DF,1,0,0.0,0.0,2018-2019,74e90475,Gimnastic,28,0.3,0.0,0.0,64.0,1.0,4549.0,Gimnastic
-,Sun Bernard,cn CHN,MF,2,0,0.0,0.0,2018-2019,3b00fe89,Gimnastic,26,0.3,1.0,0.0,64.0,101.0,4550.0,Gimnastic
-,Bernat Guiu,ee EST,MF,0,0,,,2018-2019,b3676a86,Gimnastic,,,,,64.0,58.0,4551.0,Gimnastic
-,Ivan Ruiz,es ESP,DF,0,0,,,2018-2019,d51cc703,Gimnastic,,,,,64.0,1.0,4539.0,Gimnastic
-,﻿Aythami Artiles,es ESP,DF,1,1,0.0,0.0,2021-2022,01ae64cd,Gimnastic,120.0,1.3,1.0,0.0,64.0,1.0,,Gimnastic
-,Gonzi,es ESP,GK,1,1,0.0,0.0,2021-2022,dcf342f2,Gimnastic,120.0,1.3,0.0,0.0,64.0,1.0,4552.0,Gimnastic
-,Edgar Hernández,es ESP,FW,1,1,0.0,0.0,2021-2022,3877d76f,Gimnastic,120.0,1.3,1.0,0.0,64.0,1.0,4553.0,Gimnastic
-,Pedro,es ESP,MF,1,1,0.0,0.0,2021-2022,2d7bb1c3,Gimnastic,120.0,1.3,0.0,0.0,64.0,1.0,4554.0,Gimnastic
-,Ribelles,es ESP,MF,1,1,0.0,0.0,2021-2022,dc0f2b09,Gimnastic,120.0,1.3,0.0,0.0,64.0,1.0,4555.0,Gimnastic
-,Marc Trilles,es ESP,DF,1,1,0.0,0.0,2021-2022,1da88678,Gimnastic,120.0,1.3,1.0,0.0,64.0,1.0,4556.0,Gimnastic
-,Javi Bonilla,es ESP,MF,1,1,0.0,0.0,2021-2022,3d67cc6e,Gimnastic,71.0,0.8,0.0,0.0,64.0,1.0,,Gimnastic
-,Nil Jiménez,es ESP,DF,1,1,0.0,0.0,2021-2022,6cfb56b6,Gimnastic,71.0,0.8,0.0,0.0,64.0,1.0,4557.0,Gimnastic
-,Fran Carbià,es ESP,MF,1,1,0.0,0.0,2021-2022,0cd53332,Gimnastic,60.0,0.7,0.0,0.0,64.0,1.0,4558.0,Gimnastic
-,Pol Domingo,es ESP,DF,1,1,0.0,0.0,2021-2022,f44af8a9,Gimnastic,60.0,0.7,0.0,0.0,64.0,1.0,4559.0,Gimnastic
-,Robert Simón,es ESP,MF,1,1,0.0,0.0,2021-2022,65bc4e48,Gimnastic,31.0,0.3,0.0,0.0,64.0,1.0,4560.0,Gimnastic
-,Pol Ballesteros,es ESP,FW,1,0,0.0,0.0,2021-2022,5ea5d373,Gimnastic,89.0,1.0,1.0,0.0,64.0,1.0,4561.0,Gimnastic
-,Albarrán,es ESP,DF,1,0,0.0,0.0,2021-2022,fdaaeda4,Gimnastic,60.0,0.7,0.0,0.0,64.0,1.0,4562.0,Gimnastic
-,Jannick,gq EQG,MF,1,0,0.0,0.0,2021-2022,0e315c6,Gimnastic,49.0,0.5,0.0,0.0,64.0,10.0,,Gimnastic
-,Joan Oriol,es ESP,DF,1,0,0.0,0.0,2021-2022,7ccb2ef6,Gimnastic,49.0,0.5,1.0,0.0,64.0,1.0,,Gimnastic
-,Pedro Martín,es ESP,FW,1,0,0.0,0.0,2021-2022,99ee29b5,Gimnastic,30.0,0.3,1.0,0.0,64.0,1.0,,Gimnastic
-,Pol Prats Moragrega,es ESP,FW,1,0,0.0,0.0,2021-2022,d5dcfafe,Gimnastic,30.0,0.3,0.0,0.0,64.0,1.0,4537.0,Gimnastic
-,Pablo Fernández,es ESP,MF,0,0,,,2021-2022,8825e1fc,Gimnastic,,,,,64.0,1.0,4563.0,Gimnastic
-,Fullana,es ESP,MF,0,0,,,2021-2022,9bc61c29,Gimnastic,,,,,64.0,1.0,4564.0,Gimnastic
-,Manuel García,es ESP,GK,0,0,,,2021-2022,9dc4e14e,Gimnastic,,,,,64.0,1.0,4565.0,Gimnastic
-,Alex Quintanilla,es ESP,DF,0,0,,,2021-2022,6a2cf49f,Gimnastic,,,,,64.0,1.0,4566.0,Gimnastic
-,Oscar Sanz,es ESP,MF,0,0,,,2021-2022,89eeedf6,Gimnastic,,,,,64.0,1.0,4567.0,Gimnastic
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿David García,es ESP,DF,39,39,0.0,0.0,2004-2005,/en/players/5641e4d5/David-Garcia,5641e4d5,Gimnastic,"3,510",39.0,10.0,0.0,64,1.0,4436,Gimnastic
+,Abel Buades,es ESP,MF,40,37,3.0,4.0,2004-2005,/en/players/89efb84b/Abel-Buades,89efb84b,Gimnastic,"3,184",35.4,9.0,0.0,64,1.0,4347,Gimnastic
+,Bolo,es ESP,FW,41,36,3.0,7.0,2004-2005,/en/players/ca7589a9/Bolo,ca7589a9,Gimnastic,"2,837",31.5,3.0,0.0,64,1.0,3409,Gimnastic
+,Manolo Martínez,es ESP,"DF,MF",32,31,1.0,3.0,2004-2005,/en/players/7b9876e4/Manolo-Martinez,7b9876e4,Gimnastic,"2,709",30.1,11.0,0.0,64,1.0,3190,Gimnastic
+,Iván Ania,es ESP,MF,35,30,12.0,3.0,2004-2005,/en/players/12d37503/Ivan-Ania,12d37503,Gimnastic,"2,267",25.2,6.0,0.0,64,1.0,3426,Gimnastic
+,Juan José Valencia,es ESP,GK,30,29,0.0,0.0,2004-2005,/en/players/75a2676d/Juan-Jose-Valencia,75a2676d,Gimnastic,"2,640",29.3,0.0,0.0,64,1.0,2865,Gimnastic
+,Txus Serrano,es ESP,MF,32,28,0.0,1.0,2004-2005,/en/players/5f6334aa/Txus-Serrano,5f6334aa,Gimnastic,"2,574",28.6,12.0,0.0,64,1.0,4437,Gimnastic
+,Marco Ortega,es ESP,DF,28,26,1.0,0.0,2004-2005,/en/players/ee8e5ce0/Marco-Ortega,8e5ce0,Gimnastic,"2,306",25.6,9.0,1.0,64,1.0,4438,Gimnastic
+,David Cuéllar,es ESP,MF,32,24,4.0,3.0,2004-2005,/en/players/d386f165/David-Cuellar,d386f165,Gimnastic,"2,131",23.7,1.0,0.0,64,1.0,1278,Gimnastic
+,Antonio Pinilla,es ESP,FW,36,22,1.0,7.0,2004-2005,/en/players/4c7c3632/Antonio-Pinilla,4c7c3632,Gimnastic,"2,215",24.6,9.0,0.0,64,1.0,4439,Gimnastic
+,Diego Torres,es ESP,FW,39,22,1.0,11.0,2004-2005,/en/players/cc7b386d/Diego-Torres,cc7b386d,Gimnastic,"2,147",23.9,2.0,1.0,64,1.0,4440,Gimnastic
+,Dani Tortolero,es ESP,DF,23,22,1.0,1.0,2004-2005,/en/players/42481fd5/Dani-Tortolero,42481fd5,Gimnastic,"1,923",21.4,8.0,0.0,64,1.0,4441,Gimnastic
+,Lluis Codina,es ESP,MF,33,21,2.0,2.0,2004-2005,/en/players/c83fd93a/Lluis-Codina,c83fd93a,Gimnastic,"2,039",22.7,4.0,0.0,64,1.0,4442,Gimnastic
+,Luis Carrión,es ESP,DF,18,17,0.0,0.0,2004-2005,/en/players/4bb31b93/Luis-Carrion,4bb31b93,Gimnastic,"1,542",17.1,1.0,0.0,64,1.0,4443,Gimnastic
+,Ibon Begoña,es ESP,DF,18,16,0.0,2.0,2004-2005,/en/players/301f6f65/Ibon-Begona,301f6f65,Gimnastic,"1,433",15.9,4.0,1.0,64,1.0,3265,Gimnastic
+,Felip Ortiz,es ESP,GK,14,13,0.0,0.0,2004-2005,/en/players/a2c845dc/Felip-Ortiz,2c845dc,Gimnastic,"1,140",12.7,0.0,0.0,64,1.0,4444,Gimnastic
+,Alfonso Vera,es ESP,MF,13,13,0.0,1.0,2004-2005,/en/players/d0b31ce2/Alfonso-Vera,d0b31ce2,Gimnastic,"1,129",12.5,5.0,2.0,64,1.0,1791,Gimnastic
+,David Medina,es ESP,MF,20,12,2.0,0.0,2004-2005,/en/players/b5fc02b6/David-Medina,b5fc02b6,Gimnastic,978,10.9,7.0,0.0,64,1.0,4445,Gimnastic
+,Alfonso Sanchez,,,14,10,1.0,0.0,2004-2005,No detected,,Gimnastic,959,10.7,2.0,0.0,64,,90141,Gimnastic
+,Pablo Lusarreta,,,6,6,0.0,1.0,2004-2005,No detected,,Gimnastic,473,5.3,2.0,0.0,64,,90142,Gimnastic
+,Igor Angulo,es ESP,"FW,MF",11,5,0.0,1.0,2004-2005,/en/players/5715f988/Igor-Angulo,5715f988,Gimnastic,481,5.3,2.0,0.0,64,1.0,1248,Gimnastic
+,Sergio Francisco,es ESP,FW,18,2,0.0,3.0,2004-2005,/en/players/bb97c683/Sergio-Francisco,bb97c683,Gimnastic,481,5.3,0.0,0.0,64,1.0,90143,Gimnastic
+,R Lopez,,,9,1,0.0,0.0,2004-2005,No detected,,Gimnastic,214,2.4,1.0,1.0,64,,90144,Gimnastic
+,Diego Ribera,es ESP,FW,3,0,0.0,0.0,2004-2005,/en/players/b5d6d258/Diego-Ribera,b5d6d258,Gimnastic,58,0.6,0.0,0.0,64,1.0,4446,Gimnastic
+,Ñoño,es ESP,"DF,FW",2,0,0.0,0.0,2004-2005,/en/players/c845dfce/Nono,c845dfce,Gimnastic,48,0.5,0.0,0.0,64,1.0,4447,Gimnastic
+,Carlos Moreno,ar ARG,MF,1,0,0.0,0.0,2004-2005,/en/players/a83ed06d/Carlos-Moreno,83ed06d,Gimnastic,11,0.1,0.0,0.0,64,5.0,4448,Gimnastic
+,Patricio Edgar,,,1,0,0.0,0.0,2004-2005,No detected,,Gimnastic,6,0.1,0.0,0.0,64,,90145,Gimnastic
+,﻿Manuel Ruz,es ESP,DF,37,37,0.0,0.0,2005-2006,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Gimnastic,"3,330",37.0,12.0,0.0,64,1.0,894,Gimnastic
+,Abel Buades,es ESP,MF,35,35,7.0,5.0,2005-2006,/en/players/89efb84b/Abel-Buades,89efb84b,Gimnastic,"3,150",35.0,7.0,0.0,64,1.0,4347,Gimnastic
+,Irurzun,es ESP,FW,37,34,3.0,11.0,2005-2006,/en/players/08243062/Irurzun,08243062,Gimnastic,"2,620",29.1,2.0,0.0,64,1.0,4449,Gimnastic
+,Egoitz Jaio Gabiola,es ESP,DF,30,28,0.0,1.0,2005-2006,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Gimnastic,"2,596",28.8,10.0,0.0,64,1.0,4253,Gimnastic
+,David Cuéllar,es ESP,MF,32,28,4.0,3.0,2005-2006,/en/players/d386f165/David-Cuellar,d386f165,Gimnastic,"2,489",27.7,2.0,1.0,64,1.0,1278,Gimnastic
+,David García,es ESP,DF,28,28,1.0,0.0,2005-2006,/en/players/5641e4d5/David-Garcia,5641e4d5,Gimnastic,"2,475",27.5,9.0,0.0,64,1.0,4436,Gimnastic
+,Diego Reyes Muñoz,es ESP,DF,31,28,0.0,0.0,2005-2006,/en/players/f52444a7/Diego-Reyes-Munoz,f52444a7,Gimnastic,"2,212",24.6,2.0,0.0,64,1.0,4450,Gimnastic
+,Miguel Llera,es ESP,DF,27,27,5.0,3.0,2005-2006,/en/players/b58a6d72/Miguel-Llera,b58a6d72,Gimnastic,"2,430",27.0,9.0,0.0,64,1.0,4451,Gimnastic
+,Carlos Merino,es ESP,MF,37,23,0.0,3.0,2005-2006,/en/players/443c8c9a/Carlos-Merino,443c8c9a,Gimnastic,"2,352",26.1,4.0,0.0,64,1.0,1252,Gimnastic
+,Bolo,es ESP,FW,38,21,2.0,4.0,2005-2006,/en/players/ca7589a9/Bolo,ca7589a9,Gimnastic,"1,836",20.4,3.0,1.0,64,1.0,3409,Gimnastic
+,Álvaro Iglesias,es ESP,GK,18,18,0.0,0.0,2005-2006,/en/players/d325c894/Alvaro-Iglesias,d325c894,Gimnastic,"1,575",17.5,3.0,0.0,64,1.0,4452,Gimnastic
+,Marco Ortega,es ESP,DF,17,17,0.0,0.0,2005-2006,/en/players/ee8e5ce0/Marco-Ortega,8e5ce0,Gimnastic,"1,499",16.7,5.0,0.0,64,1.0,4438,Gimnastic
+,Ángel Morales,es ESP,MF,22,17,0.0,2.0,2005-2006,/en/players/ba7ae976/Angel-Morales,ba7ae976,Gimnastic,"1,425",15.8,4.0,0.0,64,1.0,2998,Gimnastic
+,Diego Torres,es ESP,FW,36,16,0.0,7.0,2005-2006,/en/players/cc7b386d/Diego-Torres,cc7b386d,Gimnastic,"1,694",18.8,2.0,0.0,64,1.0,4440,Gimnastic
+,Rubén Falcón,es ESP,GK,17,16,0.0,0.0,2005-2006,/en/players/bf651b09/Ruben-Falcon,bf651b09,Gimnastic,"1,485",16.5,3.0,0.0,64,1.0,3438,Gimnastic
+,Antonio Pinilla,es ESP,FW,27,14,0.0,6.0,2005-2006,/en/players/4c7c3632/Antonio-Pinilla,4c7c3632,Gimnastic,"1,480",16.4,2.0,1.0,64,1.0,4439,Gimnastic
+,Manolo Martínez,es ESP,"DF,MF",12,11,1.0,0.0,2005-2006,/en/players/7b9876e4/Manolo-Martinez,7b9876e4,Gimnastic,901,10.0,3.0,0.0,64,1.0,3190,Gimnastic
+,Abdulrazak Ekpoki,my MAS,FW,26,10,0.0,2.0,2005-2006,/en/players/fe61e391/Abdulrazak-Ekpoki,fe61e391,Gimnastic,"1,180",13.1,4.0,0.0,64,68.0,4453,Gimnastic
+,Txus Serrano,es ESP,MF,17,8,0.0,1.0,2005-2006,/en/players/5f6334aa/Txus-Serrano,5f6334aa,Gimnastic,885,9.8,3.0,0.0,64,1.0,4437,Gimnastic
+,Juan José Valencia,es ESP,GK,8,8,0.0,0.0,2005-2006,/en/players/75a2676d/Juan-Jose-Valencia,75a2676d,Gimnastic,720,8.0,0.0,0.0,64,1.0,2865,Gimnastic
+,Cristian Lupidio,ar ARG,MF,8,8,0.0,1.0,2005-2006,/en/players/2be82e13/Cristian-Lupidio,2be82e13,Gimnastic,689,7.7,4.0,0.0,64,5.0,4454,Gimnastic
+,Iván Romero,es ESP,DF,8,8,0.0,0.0,2005-2006,/en/players/4ecdc16d/Ivan-Romero,4ecdc16d,Gimnastic,606,6.7,1.0,0.0,64,1.0,2146,Gimnastic
+,Lluis Codina,es ESP,MF,21,7,5.0,0.0,2005-2006,/en/players/c83fd93a/Lluis-Codina,c83fd93a,Gimnastic,776,8.6,0.0,0.0,64,1.0,4442,Gimnastic
+,Miguel Pérez,es ESP,MF,7,6,0.0,0.0,2005-2006,/en/players/b3f9e645/Miguel-Perez,b3f9e645,Gimnastic,441,4.9,0.0,0.0,64,1.0,3300,Gimnastic
+,Óscar Álvarez,es ESP,DF,4,4,0.0,0.0,2005-2006,/en/players/d6b5c64f/Oscar-Alvarez,d6b5c64f,Gimnastic,253,2.8,2.0,2.0,64,1.0,4455,Gimnastic
+,Luis Carrión,es ESP,DF,3,3,0.0,0.0,2005-2006,/en/players/4bb31b93/Luis-Carrion,4bb31b93,Gimnastic,216,2.4,0.0,0.0,64,1.0,4443,Gimnastic
+,Nano,es ESP,"DF,MF",5,3,0.0,0.0,2005-2006,/en/players/5578668a/Nano,5578668a,Gimnastic,198,2.2,0.0,0.0,64,1.0,4354,Gimnastic
+,Alfonso Vera,es ESP,MF,1,1,0.0,0.0,2005-2006,/en/players/d0b31ce2/Alfonso-Vera,d0b31ce2,Gimnastic,90,1.0,0.0,0.0,64,1.0,1791,Gimnastic
+,﻿Javier Portillo,es ESP,FW,34,30,2.0,11.0,2006-2007,/en/players/99058498/Javier-Portillo,99058498,Gimnastic,"2,720",30.2,2.0,0.0,64,1.0,19,Gimnastic
+,Aníbal Matellán,ar ARG,DF,26,24,0.0,0.0,2006-2007,/en/players/82945b54/Anibal-Matellan,82945b54,Gimnastic,"2,209",24.5,6.0,0.0,64,5.0,4018,Gimnastic
+,Juan Díaz Prendes,es ESP,MF,30,23,1.0,0.0,2006-2007,/en/players/6d573420/Juan-Diaz-Prendes,6d573420,Gimnastic,"1,834",20.4,7.0,0.0,64,1.0,4456,Gimnastic
+,Alejandro Campano,es ESP,MF,29,23,5.0,3.0,2006-2007,/en/players/42a8f3e1/Alejandro-Campano,42a8f3e1,Gimnastic,"1,809",20.1,0.0,1.0,64,1.0,1552,Gimnastic
+,Albano Bizzarri,ar ARG,GK,22,22,0.0,0.0,2006-2007,/en/players/32b9b5fa/Albano-Bizzarri,32b9b5fa,Gimnastic,"1,980",22.0,3.0,0.0,64,5.0,2502,Gimnastic
+,David Cuéllar,es ESP,MF,28,20,2.0,2.0,2006-2007,/en/players/d386f165/David-Cuellar,d386f165,Gimnastic,"1,926",21.4,0.0,0.0,64,1.0,1278,Gimnastic
+,Ángel Morales,es ESP,MF,24,20,0.0,0.0,2006-2007,/en/players/ba7ae976/Angel-Morales,ba7ae976,Gimnastic,"1,640",18.2,6.0,0.0,64,1.0,2998,Gimnastic
+,Antonio Pinilla,es ESP,FW,28,20,2.0,2.0,2006-2007,/en/players/4c7c3632/Antonio-Pinilla,4c7c3632,Gimnastic,"1,604",17.8,9.0,0.0,64,1.0,4439,Gimnastic
+,José María Calvo,ar ARG,DF,19,19,2.0,0.0,2006-2007,/en/players/745b3a99/Jose-Maria-Calvo,745b3a99,Gimnastic,"1,694",18.8,6.0,0.0,64,5.0,3168,Gimnastic
+,David Generelo,es ESP,MF,26,19,2.0,0.0,2006-2007,/en/players/2ae48997/David-Generelo,2ae48997,Gimnastic,"1,630",18.1,3.0,0.0,64,1.0,1651,Gimnastic
+,César Navas,es ESP,DF,19,19,0.0,2.0,2006-2007,/en/players/9f7ceb30/Cesar-Navas,9f7ceb30,Gimnastic,"1,625",18.1,3.0,1.0,64,1.0,2317,Gimnastic
+,Rubén Pérez,es ESP,GK,16,16,0.0,0.0,2006-2007,/en/players/ab1bdfe5/Ruben-Perez,b1bdfe5,Gimnastic,"1,440",16.0,1.0,0.0,64,1.0,4457,Gimnastic
+,Abel Buades,es ESP,MF,18,16,1.0,1.0,2006-2007,/en/players/89efb84b/Abel-Buades,89efb84b,Gimnastic,"1,421",15.8,1.0,0.0,64,1.0,4347,Gimnastic
+,Manuel Ruz,es ESP,DF,17,16,0.0,0.0,2006-2007,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Gimnastic,"1,393",15.5,6.0,1.0,64,1.0,894,Gimnastic
+,Mingo,es ESP,DF,16,16,0.0,0.0,2006-2007,/en/players/6fc287d5/Mingo,6fc287d5,Gimnastic,"1,357",15.1,7.0,1.0,64,1.0,1361,Gimnastic
+,David García,es ESP,DF,16,15,0.0,1.0,2006-2007,/en/players/5641e4d5/David-Garcia,5641e4d5,Gimnastic,"1,367",15.2,5.0,0.0,64,1.0,4436,Gimnastic
+,Sébastien Chabaud,fr FRA,MF,16,15,0.0,0.0,2006-2007,/en/players/315a826d/Sebastien-Chabaud,315a826d,Gimnastic,"1,285",14.3,4.0,0.0,64,4.0,4458,Gimnastic
+,Marco Ortega,es ESP,DF,14,14,0.0,0.0,2006-2007,/en/players/ee8e5ce0/Marco-Ortega,8e5ce0,Gimnastic,"1,260",14.0,2.0,0.0,64,1.0,4438,Gimnastic
+,Rubén Castro,es ESP,"FW,MF",20,13,1.0,4.0,2006-2007,/en/players/d109f62b/Ruben-Castro,d109f62b,Gimnastic,"1,163",12.9,2.0,0.0,64,1.0,400,Gimnastic
+,Miguel Llera,es ESP,DF,12,12,1.0,2.0,2006-2007,/en/players/b58a6d72/Miguel-Llera,b58a6d72,Gimnastic,"1,071",11.9,5.0,1.0,64,1.0,4451,Gimnastic
+,Julio César Cáceres,py PAR,DF,11,11,0.0,0.0,2006-2007,/en/players/5875453b/Julio-Cesar-Caceres,5875453b,Gimnastic,990,11.0,1.0,0.0,64,43.0,4459,Gimnastic
+,Gil,br BRA,FW,19,10,2.0,0.0,2006-2007,/en/players/aaf8e47e/Gil,f8e47e,Gimnastic,"1,032",11.5,3.0,0.0,64,2.0,4460,Gimnastic
+,Irurzun,es ESP,FW,22,9,1.0,2.0,2006-2007,/en/players/08243062/Irurzun,08243062,Gimnastic,999,11.1,2.0,0.0,64,1.0,4449,Gimnastic
+,Carlos Merino,es ESP,MF,18,6,0.0,0.0,2006-2007,/en/players/443c8c9a/Carlos-Merino,443c8c9a,Gimnastic,737,8.2,3.0,0.0,64,1.0,1252,Gimnastic
+,Ariza Makukula,pt POR,FW,12,5,0.0,1.0,2006-2007,/en/players/62ce8bd7/Ariza-Makukula,62ce8bd7,Gimnastic,556,6.2,0.0,1.0,64,3.0,1811,Gimnastic
+,Óscar López,es ESP,DF,3,3,0.0,0.0,2006-2007,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Gimnastic,270,3.0,2.0,0.0,64,1.0,1069,Gimnastic
+,Tobias Grahn,se SWE,"FW,MF",9,1,0.0,2.0,2006-2007,/en/players/538f2add/Tobias-Grahn,538f2add,Gimnastic,228,2.5,0.0,0.0,64,41.0,4461,Gimnastic
+,Txus Serrano,es ESP,MF,2,1,0.0,0.0,2006-2007,/en/players/5f6334aa/Txus-Serrano,5f6334aa,Gimnastic,120,1.3,1.0,0.0,64,1.0,4437,Gimnastic
+,Manolo Martínez,es ESP,"DF,MF",3,1,0.0,0.0,2006-2007,/en/players/7b9876e4/Manolo-Martinez,7b9876e4,Gimnastic,108,1.2,1.0,0.0,64,1.0,3190,Gimnastic
+,﻿David Abraham,ar ARG,DF,36,36,0.0,3.0,2007-2008,/en/players/565bf0da/David-Abraham,565bf0da,Gimnastic,"3,137",34.9,9.0,1.0,64,5.0,18143,Gimnastic
+,Abel Buades,es ESP,MF,32,31,2.0,2.0,2007-2008,/en/players/89efb84b/Abel-Buades,89efb84b,Gimnastic,"2,572",28.6,11.0,1.0,64,1.0,4347,Gimnastic
+,Alejandro Campano,es ESP,MF,32,30,8.0,7.0,2007-2008,/en/players/42a8f3e1/Alejandro-Campano,42a8f3e1,Gimnastic,"2,687",29.9,2.0,0.0,64,1.0,1552,Gimnastic
+,Jandro,es ESP,MF,35,30,3.0,6.0,2007-2008,/en/players/453a1fcd/Jandro,453a1fcd,Gimnastic,"2,655",29.5,4.0,0.0,64,1.0,642,Gimnastic
+,Roberto,es ESP,GK,29,28,0.0,0.0,2007-2008,/en/players/ba3ca78f/Roberto,ba3ca78f,Gimnastic,"2,431",27.0,2.0,1.0,64,1.0,2162,Gimnastic
+,Óscar Rubio Fauria,es ESP,"DF,MF",29,28,0.0,1.0,2007-2008,/en/players/d220bc16/Oscar-Rubio-Fauria,d220bc16,Gimnastic,"2,408",26.8,8.0,2.0,64,1.0,3323,Gimnastic
+,Dani Tortolero,es ESP,DF,27,26,1.0,3.0,2007-2008,/en/players/42481fd5/Dani-Tortolero,42481fd5,Gimnastic,"2,246",25.0,5.0,1.0,64,1.0,4441,Gimnastic
+,Antonio López,es ESP,MF,27,26,3.0,0.0,2007-2008,/en/players/1fdd5ff7/Antonio-Lopez,1fdd5ff7,Gimnastic,"2,226",24.7,7.0,0.0,64,1.0,1800,Gimnastic
+,Tati Maldonado,es ESP,FW,31,24,3.0,4.0,2007-2008,/en/players/57dc3c00/Tati-Maldonado,57dc3c00,Gimnastic,"2,213",24.6,9.0,2.0,64,1.0,1372,Gimnastic
+,Miku,ve VEN,FW,29,21,0.0,2.0,2007-2008,/en/players/4eba9598/Miku,4eba9598,Gimnastic,"1,787",19.9,6.0,0.0,64,53.0,596,Gimnastic
+,Mingo,es ESP,DF,21,21,0.0,0.0,2007-2008,/en/players/6fc287d5/Mingo,6fc287d5,Gimnastic,"1,699",18.9,12.0,1.0,64,1.0,1361,Gimnastic
+,David Medina,es ESP,MF,25,20,0.0,0.0,2007-2008,/en/players/b5fc02b6/David-Medina,b5fc02b6,Gimnastic,"1,928",21.4,10.0,0.0,64,1.0,4445,Gimnastic
+,Óscar Arpón,es ESP,MF,27,19,1.0,2.0,2007-2008,/en/players/705d238d/Oscar-Arpon,705d238d,Gimnastic,"1,570",17.4,7.0,1.0,64,1.0,3138,Gimnastic
+,Pedro Mairata,es ESP,DF,17,13,0.0,2.0,2007-2008,/en/players/de9e9405/Pedro-Mairata,de9e9405,Gimnastic,"1,267",14.1,7.0,0.0,64,1.0,4462,Gimnastic
+,Óscar López,es ESP,DF,13,13,0.0,0.0,2007-2008,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Gimnastic,"1,051",11.7,7.0,2.0,64,1.0,1069,Gimnastic
+,Antonio Calle,es ESP,FW,27,12,1.0,4.0,2007-2008,/en/players/3d3d63b9/Antonio-Calle,3d3d63b9,Gimnastic,"1,312",14.6,2.0,0.0,64,1.0,2577,Gimnastic
+,Moisés,es ESP,FW,17,11,1.0,5.0,2007-2008,/en/players/e3415193/Moises,3415193,Gimnastic,"1,072",11.9,4.0,1.0,64,1.0,1790,Gimnastic
+,Rubén Pérez,es ESP,GK,10,10,0.0,0.0,2007-2008,/en/players/ab1bdfe5/Ruben-Perez,b1bdfe5,Gimnastic,900,10.0,2.0,0.0,64,1.0,4457,Gimnastic
+,David Sánchez,es ESP,MF,17,10,1.0,1.0,2007-2008,/en/players/bb05af1a/David-Sanchez,bb05af1a,Gimnastic,858,9.5,4.0,0.0,64,1.0,3285,Gimnastic
+,Papakouli Diop,sn SEN,MF,12,10,0.0,0.0,2007-2008,/en/players/7329018e/Papakouli-Diop,7329018e,Gimnastic,823,9.1,3.0,0.0,64,34.0,2884,Gimnastic
+,Adrián González,es ESP,MF,17,9,0.0,2.0,2007-2008,/en/players/57ebd662/Adrian-Gonzalez,57ebd662,Gimnastic,777,8.6,2.0,0.0,64,1.0,697,Gimnastic
+,David García,es ESP,DF,8,8,0.0,1.0,2007-2008,/en/players/5641e4d5/David-Garcia,5641e4d5,Gimnastic,720,8.0,2.0,0.0,64,1.0,4436,Gimnastic
+,Federico Bessone,ar ARG,DF,10,8,0.0,0.0,2007-2008,/en/players/7570ed49/Federico-Bessone,7570ed49,Gimnastic,704,7.8,1.0,0.0,64,5.0,4463,Gimnastic
+,Gorka de Carlos,es ESP,FW,15,6,1.0,1.0,2007-2008,/en/players/d0ebf2ea/Gorka-de-Carlos,d0ebf2ea,Gimnastic,639,7.1,2.0,0.0,64,1.0,1998,Gimnastic
+,Juanmi,es ESP,GK,4,4,0.0,0.0,2007-2008,/en/players/9c6886e6/Juanmi,9c6886e6,Gimnastic,359,4.0,0.0,0.0,64,1.0,367,Gimnastic
+,Antonio Pinilla,es ESP,FW,27,3,2.0,2.0,2007-2008,/en/players/4c7c3632/Antonio-Pinilla,4c7c3632,Gimnastic,645,7.2,0.0,0.0,64,1.0,4439,Gimnastic
+,Sébastien Chabaud,fr FRA,MF,4,1,0.0,0.0,2007-2008,/en/players/315a826d/Sebastien-Chabaud,315a826d,Gimnastic,170,1.9,1.0,0.0,64,4.0,4458,Gimnastic
+,Mohammed Rabiu,gh GHA,MF,2,1,0.0,0.0,2007-2008,/en/players/f4a9eb92/Mohammed-Rabiu,f4a9eb92,Gimnastic,76,0.8,0.0,0.0,64,17.0,4464,Gimnastic
+,﻿David Bauzá,es ESP,MF,41,41,1.0,2.0,2008-2009,/en/players/8969dfa6/David-Bauza,8969dfa6,Gimnastic,"3,645",40.5,4.0,0.0,64,1.0,3730,Gimnastic
+,Rubén Pérez,es ESP,GK,33,33,0.0,0.0,2008-2009,/en/players/ab1bdfe5/Ruben-Perez,b1bdfe5,Gimnastic,"2,970",33.0,3.0,0.0,64,1.0,4457,Gimnastic
+,Alejandro Campano,es ESP,MF,33,33,4.0,4.0,2008-2009,/en/players/42a8f3e1/Alejandro-Campano,42a8f3e1,Gimnastic,"2,844",31.6,4.0,0.0,64,1.0,1552,Gimnastic
+,Dani Tortolero,es ESP,DF,32,30,0.0,2.0,2008-2009,/en/players/42481fd5/Dani-Tortolero,42481fd5,Gimnastic,"2,807",31.2,13.0,0.0,64,1.0,4441,Gimnastic
+,Víctor Casadesús,es ESP,FW,36,30,8.0,14.0,2008-2009,/en/players/73cd0a2a/Victor-Casadesus,73cd0a2a,Gimnastic,"2,647",29.4,9.0,0.0,64,1.0,256,Gimnastic
+,Pedro Mairata,es ESP,DF,30,30,0.0,1.0,2008-2009,/en/players/de9e9405/Pedro-Mairata,de9e9405,Gimnastic,"2,643",29.4,4.0,0.0,64,1.0,4462,Gimnastic
+,Mingo,es ESP,DF,29,28,1.0,0.0,2008-2009,/en/players/6fc287d5/Mingo,6fc287d5,Gimnastic,"2,488",27.6,10.0,1.0,64,1.0,1361,Gimnastic
+,Papakouli Diop,sn SEN,MF,30,28,0.0,4.0,2008-2009,/en/players/7329018e/Papakouli-Diop,7329018e,Gimnastic,"2,377",26.4,11.0,0.0,64,34.0,2884,Gimnastic
+,David Medina,es ESP,MF,28,26,0.0,0.0,2008-2009,/en/players/b5fc02b6/David-Medina,b5fc02b6,Gimnastic,"2,242",24.9,5.0,2.0,64,1.0,4445,Gimnastic
+,Jandro,es ESP,MF,32,23,5.0,6.0,2008-2009,/en/players/453a1fcd/Jandro,453a1fcd,Gimnastic,"1,957",21.7,7.0,0.0,64,1.0,642,Gimnastic
+,Jordi Alba,es ESP,"DF,MF",35,22,3.0,4.0,2008-2009,/en/players/4601e194/Jordi-Alba,4601e194,Gimnastic,"2,141",23.8,9.0,0.0,64,1.0,928,Gimnastic
+,Pablo Redondo,es ESP,MF,30,22,2.0,3.0,2008-2009,/en/players/da98fdb0/Pablo-Redondo,da98fdb0,Gimnastic,"2,052",22.8,5.0,0.0,64,1.0,3714,Gimnastic
+,José Izquierdo,es ESP,DF,20,19,1.0,0.0,2008-2009,/en/players/f6a5a723/Jose-Izquierdo,f6a5a723,Gimnastic,"1,539",17.1,3.0,0.0,64,1.0,1988,Gimnastic
+,José Mari,es ESP,FW,15,14,3.0,2.0,2008-2009,/en/players/b56835b1/Jose-Mari,b56835b1,Gimnastic,"1,228",13.6,5.0,0.0,64,1.0,1404,Gimnastic
+,Serge N'Gal,cm CMR,FW,31,13,2.0,8.0,2008-2009,/en/players/ba29405f/Serge-NGal,ba29405f,Gimnastic,"1,367",15.2,6.0,0.0,64,36.0,4465,Gimnastic
+,Walid Cherfa,dz ALG,DF,14,13,2.0,0.0,2008-2009,/en/players/7a170385/Walid-Cherfa,7a170385,Gimnastic,"1,180",13.1,5.0,1.0,64,37.0,3769,Gimnastic
+,Moisés,es ESP,FW,35,12,1.0,7.0,2008-2009,/en/players/e3415193/Moises,3415193,Gimnastic,"1,369",15.2,8.0,2.0,64,1.0,1790,Gimnastic
+,Mario Gibanel,es ESP,MF,21,10,2.0,1.0,2008-2009,/en/players/2cc38c41/Mario-Gibanel,2cc38c41,Gimnastic,937,10.4,5.0,0.0,64,1.0,4466,Gimnastic
+,Óscar Arpón,es ESP,MF,18,9,1.0,1.0,2008-2009,/en/players/705d238d/Oscar-Arpon,705d238d,Gimnastic,756,8.4,0.0,0.0,64,1.0,3138,Gimnastic
+,Felip Ortiz,es ESP,GK,7,7,0.0,0.0,2008-2009,/en/players/a2c845dc/Felip-Ortiz,2c845dc,Gimnastic,630,7.0,1.0,0.0,64,1.0,4444,Gimnastic
+,Gabriel,br BRA,"DF,MF",6,6,1.0,0.0,2008-2009,/en/players/83a53b05/Gabriel,83a53b05,Gimnastic,540,6.0,3.0,0.0,64,2.0,4467,Gimnastic
+,Manuel Yedra,,,4,4,0.0,1.0,2008-2009,No detected,,Gimnastic,296,3.3,2.0,1.0,64,,90146,Gimnastic
+,Nebojša Marinković,rs SRB,MF,10,2,2.0,0.0,2008-2009,/en/players/2996fc8b/Nebojsa-Marinkovic,2996fc8b,Gimnastic,209,2.3,0.0,0.0,64,28.0,4468,Gimnastic
+,Xabi Pascual,es ESP,GK,2,2,0.0,0.0,2008-2009,/en/players/52147d09/Xabi-Pascual,52147d09,Gimnastic,180,2.0,0.0,0.0,64,1.0,4469,Gimnastic
+,Maximiliano Caire,ar ARG,DF,2,2,0.0,0.0,2008-2009,/en/players/a01f790d/Maximiliano-Caire,01f790d,Gimnastic,98,1.1,1.0,1.0,64,5.0,4470,Gimnastic
+,Aimar Sagastibelza,es ESP,DF,2,1,1.0,0.0,2008-2009,/en/players/733643ba/Aimar-Sagastibelza,733643ba,Gimnastic,102,1.1,1.0,0.0,64,1.0,4471,Gimnastic
+,Álex Cruz,es ESP,MF,1,1,0.0,0.0,2008-2009,/en/players/5e9d1e31/Alex-Cruz,5e9d1e31,Gimnastic,90,1.0,1.0,0.0,64,1.0,4472,Gimnastic
+,Antonio López,es ESP,MF,3,1,1.0,0.0,2008-2009,/en/players/1fdd5ff7/Antonio-Lopez,1fdd5ff7,Gimnastic,86,1.0,0.0,0.0,64,1.0,1800,Gimnastic
+,Sergio Juste,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/5afe7024/Sergio-Juste,5afe7024,Gimnastic,33,0.4,0.0,0.0,64,1.0,4473,Gimnastic
+,Ton Alcover,es ESP,MF,1,0,0.0,0.0,2008-2009,/en/players/4100f6c7/Ton-Alcover,4100f6c7,Gimnastic,14,0.2,0.0,0.0,64,1.0,4474,Gimnastic
+,Juan Antonio Osado,es ESP,FW,1,0,0.0,0.0,2008-2009,/en/players/6d4a804c/Juan-Antonio-Osado,6d4a804c,Gimnastic,2,0.0,0.0,0.0,64,1.0,4475,Gimnastic
+,﻿Rubén Pérez,es ESP,GK,41,41,0.0,0.0,2009-2010,/en/players/ab1bdfe5/Ruben-Perez,b1bdfe5,Gimnastic,"3,645",40.5,3.0,0.0,64,1.0,4457,Gimnastic
+,Fernando Morán,es ESP,MF,39,38,3.0,7.0,2009-2010,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Gimnastic,"3,259",36.2,9.0,1.0,64,1.0,2841,Gimnastic
+,David Medina,es ESP,MF,37,37,1.0,0.0,2009-2010,/en/players/b5fc02b6/David-Medina,b5fc02b6,Gimnastic,"3,146",35.0,14.0,2.0,64,1.0,4445,Gimnastic
+,Jorge García,es ESP,DF,34,33,0.0,3.0,2009-2010,/en/players/d1bd08ef/Jorge-Garcia,d1bd08ef,Gimnastic,"3,037",33.7,10.0,0.0,64,1.0,3939,Gimnastic
+,Alejandro Campano,es ESP,MF,32,32,7.0,7.0,2009-2010,/en/players/42a8f3e1/Alejandro-Campano,42a8f3e1,Gimnastic,"2,604",28.9,4.0,1.0,64,1.0,1552,Gimnastic
+,José Mari,es ESP,FW,33,31,2.0,6.0,2009-2010,/en/players/b56835b1/Jose-Mari,b56835b1,Gimnastic,"2,461",27.3,11.0,1.0,64,1.0,1404,Gimnastic
+,David Bauzá,es ESP,MF,31,28,2.0,0.0,2009-2010,/en/players/8969dfa6/David-Bauza,8969dfa6,Gimnastic,"2,438",27.1,2.0,0.0,64,1.0,3730,Gimnastic
+,Mingo,es ESP,DF,28,28,0.0,0.0,2009-2010,/en/players/6fc287d5/Mingo,6fc287d5,Gimnastic,"2,409",26.8,15.0,1.0,64,1.0,1361,Gimnastic
+,Miguel Ángel,es ESP,MF,29,28,2.0,2.0,2009-2010,/en/players/7542ce83/Miguel-Angel,7542ce83,Gimnastic,"2,275",25.3,14.0,1.0,64,1.0,1387,Gimnastic
+,Pedro Mairata,es ESP,DF,24,24,0.0,2.0,2009-2010,/en/players/de9e9405/Pedro-Mairata,de9e9405,Gimnastic,"2,042",22.7,4.0,0.0,64,1.0,4462,Gimnastic
+,Walter Fernández,es ESP,MF,34,21,2.0,0.0,2009-2010,/en/players/32d90c95/Walter-Fernandez,32d90c95,Gimnastic,"1,998",22.2,2.0,0.0,64,1.0,4476,Gimnastic
+,Marc Fachan,fr FRA,DF,23,20,0.0,0.0,2009-2010,/en/players/09587596/Marc-Fachan,09587596,Gimnastic,"1,848",20.5,9.0,0.0,64,4.0,4477,Gimnastic
+,Roberto,es ESP,FW,34,18,1.0,4.0,2009-2010,/en/players/ce05814a/Roberto,ce05814a,Gimnastic,"1,788",19.9,4.0,0.0,64,1.0,4478,Gimnastic
+,Walid Cherfa,dz ALG,DF,16,14,1.0,1.0,2009-2010,/en/players/7a170385/Walid-Cherfa,7a170385,Gimnastic,"1,363",15.1,7.0,0.0,64,37.0,3769,Gimnastic
+,Vicente Pérez,es ESP,MF,23,13,1.0,1.0,2009-2010,/en/players/f4927d11/Vicente-Perez,f4927d11,Gimnastic,"1,036",11.5,2.0,0.0,64,1.0,4275,Gimnastic
+,Pablo,br BRA,"DF,FW",14,13,0.0,0.0,2009-2010,/en/players/e806a6cc/Pablo,806a6cc,Gimnastic,987,11.0,0.0,0.0,64,2.0,4479,Gimnastic
+,Rubén Navarro,es ESP,FW,22,11,1.0,4.0,2009-2010,/en/players/59cc2821/Ruben-Navarro,59cc2821,Gimnastic,"1,142",12.7,3.0,0.0,64,1.0,3264,Gimnastic
+,Biel Medina,es ESP,DF,11,10,0.0,1.0,2009-2010,/en/players/6339d366/Biel-Medina,6339d366,Gimnastic,907,10.1,2.0,0.0,64,1.0,4480,Gimnastic
+,Pablo Redondo,es ESP,MF,11,7,0.0,1.0,2009-2010,/en/players/da98fdb0/Pablo-Redondo,da98fdb0,Gimnastic,653,7.3,1.0,0.0,64,1.0,3714,Gimnastic
+,Álex Cruz,es ESP,MF,25,5,1.0,3.0,2009-2010,/en/players/5e9d1e31/Alex-Cruz,5e9d1e31,Gimnastic,937,10.4,6.0,0.0,64,1.0,4472,Gimnastic
+,Fran Vélez,es ESP,"DF,MF",4,4,0.0,0.0,2009-2010,/en/players/9d619e08/Fran-Velez,9d619e08,Gimnastic,218,2.4,2.0,1.0,64,1.0,4481,Gimnastic
+,Serge N'Gal,cm CMR,FW,19,3,1.0,0.0,2009-2010,/en/players/ba29405f/Serge-NGal,ba29405f,Gimnastic,626,7.0,3.0,0.0,64,36.0,4465,Gimnastic
+,Líbero Parri,es ESP,MF,14,1,0.0,0.0,2009-2010,/en/players/203ff743/Libero-Parri,203ff743,Gimnastic,291,3.2,2.0,1.0,64,1.0,3700,Gimnastic
+,Mauricio Arroyo,co COL,MF,2,1,0.0,0.0,2009-2010,/en/players/d61afc59/Mauricio-Arroyo,d61afc59,Gimnastic,100,1.1,0.0,0.0,64,19.0,4482,Gimnastic
+,Felip Ortiz,es ESP,GK,1,1,0.0,0.0,2009-2010,/en/players/a2c845dc/Felip-Ortiz,2c845dc,Gimnastic,90,1.0,0.0,0.0,64,1.0,4444,Gimnastic
+,Xabi Pascual,es ESP,GK,1,0,0.0,0.0,2009-2010,/en/players/52147d09/Xabi-Pascual,52147d09,Gimnastic,45,0.5,0.0,0.0,64,1.0,4469,Gimnastic
+,Wellington Saci,br BRA,DF,1,0,0.0,0.0,2009-2010,/en/players/8e99139e/Wellington-Saci,8e99139e,Gimnastic,11,0.1,0.0,0.0,64,2.0,4483,Gimnastic
+,Aitor Casas,es ESP,DF,1,0,0.0,0.0,2009-2010,/en/players/edf7abe6/Aitor-Casas,df7abe6,Gimnastic,4,0.0,0.0,0.0,64,1.0,4484,Gimnastic
+,César Diop,sn SEN,MF,1,0,0.0,0.0,2009-2010,/en/players/4913f4b5/Cesar-Diop,4913f4b5,Gimnastic,4,0.0,0.0,0.0,64,34.0,4485,Gimnastic
+,﻿Rubén Pérez,es ESP,GK,41,41,0.0,0.0,2010-2011,/en/players/ab1bdfe5/Ruben-Perez,b1bdfe5,Gimnastic,"3,686",41.0,1.0,1.0,64,1.0,4457,Gimnastic
+,Fernando Seoane,es ESP,MF,38,37,0.0,0.0,2010-2011,/en/players/48084614/Fernando-Seoane,48084614,Gimnastic,"3,173",35.3,8.0,0.0,64,1.0,4486,Gimnastic
+,Francisco Ibáñez,cl CHI,FW,34,34,0.0,0.0,2010-2011,/en/players/8743a346/Francisco-Ibanez,8743a346,Gimnastic,"3,015",33.5,8.0,0.0,64,31.0,3923,Gimnastic
+,Pedro Mairata,es ESP,DF,33,33,0.0,2.0,2010-2011,/en/players/de9e9405/Pedro-Mairata,de9e9405,Gimnastic,"2,907",32.3,5.0,1.0,64,1.0,4462,Gimnastic
+,Fernando Morán,es ESP,MF,33,30,9.0,4.0,2010-2011,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Gimnastic,"2,554",28.4,5.0,0.0,64,1.0,2841,Gimnastic
+,Berry Powel,nl NED,FW,40,27,3.0,11.0,2010-2011,/en/players/0d9836e0/Berry-Powel,0d9836e0,Gimnastic,"2,515",27.9,5.0,0.0,64,11.0,4487,Gimnastic
+,Mingo,es ESP,DF,24,22,1.0,0.0,2010-2011,/en/players/6fc287d5/Mingo,6fc287d5,Gimnastic,"1,984",22.0,9.0,2.0,64,1.0,1361,Gimnastic
+,David Medina,es ESP,MF,26,21,0.0,0.0,2010-2011,/en/players/b5fc02b6/David-Medina,b5fc02b6,Gimnastic,"1,997",22.2,4.0,0.0,64,1.0,4445,Gimnastic
+,Sergio Díaz,es ESP,DF,21,21,1.0,0.0,2010-2011,/en/players/f8183181/Sergio-Diaz,f8183181,Gimnastic,"1,876",20.8,11.0,1.0,64,1.0,4488,Gimnastic
+,Daniel Berg Hestad,,,22,20,0.0,1.0,2010-2011,No detected,,Gimnastic,"1,865",20.7,6.0,0.0,64,,90147,Gimnastic
+,Raúl Fuster,es ESP,DF,19,19,0.0,0.0,2010-2011,/en/players/807d26b5/Raul-Fuster,807d26b5,Gimnastic,"1,616",18.0,3.0,1.0,64,1.0,4489,Gimnastic
+,Felipe Sanchón,es ESP,MF,18,18,1.0,4.0,2010-2011,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Gimnastic,"1,513",16.8,1.0,0.0,64,1.0,4490,Gimnastic
+,Rodri,es ESP,MF,19,17,0.0,2.0,2010-2011,/en/players/b8462bd6/Rodri,b8462bd6,Gimnastic,"1,410",15.7,7.0,0.0,64,1.0,3710,Gimnastic
+,Álex Cruz,es ESP,MF,19,17,0.0,0.0,2010-2011,/en/players/5e9d1e31/Alex-Cruz,5e9d1e31,Gimnastic,"1,327",14.7,5.0,0.0,64,1.0,4472,Gimnastic
+,Gerardo Noriega,es ESP,MF,24,15,3.0,0.0,2010-2011,/en/players/48ff4cab/Gerardo-Noriega,48ff4cab,Gimnastic,"1,440",16.0,0.0,0.0,64,1.0,4491,Gimnastic
+,Álex Ortiz,es ESP,DF,15,14,0.0,0.0,2010-2011,/en/players/c07dc79e/Alex-Ortiz,c07dc79e,Gimnastic,"1,263",14.0,4.0,0.0,64,1.0,1407,Gimnastic
+,Eloy Gila,es ESP,FW,35,13,2.0,5.0,2010-2011,/en/players/d41067ce/Eloy-Gila,d41067ce,Gimnastic,"1,315",14.6,2.0,0.0,64,1.0,3808,Gimnastic
+,Rubén Navarro,es ESP,FW,18,12,2.0,2.0,2010-2011,/en/players/59cc2821/Ruben-Navarro,59cc2821,Gimnastic,"1,120",12.4,2.0,0.0,64,1.0,3264,Gimnastic
+,Miquel Martínez,es ESP,MF,16,11,1.0,1.0,2010-2011,/en/players/a64a5dbe/Miquel-Martinez,64a5dbe,Gimnastic,"1,040",11.6,1.0,0.0,64,1.0,3035,Gimnastic
+,Álvaro Rey,eng ENG,MF,29,8,1.0,0.0,2010-2011,/en/players/87f1f9b9/Alvaro-Rey,87f1f9b9,Gimnastic,"1,049",11.7,3.0,0.0,64,6.0,4492,Gimnastic
+,Tuni,es ESP,"DF,MF",11,7,1.0,0.0,2010-2011,/en/players/e77175c5/Tuni,77175c5,Gimnastic,555,6.2,0.0,0.0,64,1.0,1563,Gimnastic
+,Juan Domínguez,es ESP,FW,11,6,0.0,0.0,2010-2011,/en/players/3cf63263/Juan-Dominguez,3cf63263,Gimnastic,445,4.9,2.0,0.0,64,1.0,228,Gimnastic
+,Manuel Ruz,es ESP,DF,5,5,0.0,0.0,2010-2011,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Gimnastic,421,4.7,3.0,0.0,64,1.0,894,Gimnastic
+,Ludovic Delporte,fr FRA,MF,10,5,0.0,0.0,2010-2011,/en/players/7c2c4c3e/Ludovic-Delporte,7c2c4c3e,Gimnastic,358,4.0,2.0,0.0,64,4.0,2006,Gimnastic
+,Borja Viguera,es ESP,FW,5,4,0.0,2.0,2010-2011,/en/players/d906a703/Borja-Viguera,d906a703,Gimnastic,322,3.6,0.0,0.0,64,1.0,261,Gimnastic
+,Walter Fernández,es ESP,MF,10,2,0.0,0.0,2010-2011,/en/players/32d90c95/Walter-Fernandez,32d90c95,Gimnastic,302,3.4,0.0,0.0,64,1.0,4476,Gimnastic
+,Abraham González,es ESP,MF,4,1,0.0,0.0,2010-2011,/en/players/682bd745/Abraham-Gonzalez,682bd745,Gimnastic,149,1.7,0.0,0.0,64,1.0,1130,Gimnastic
+,Vicente Pérez,es ESP,MF,2,1,0.0,0.0,2010-2011,/en/players/f4927d11/Vicente-Perez,f4927d11,Gimnastic,111,1.2,0.0,0.0,64,1.0,4275,Gimnastic
+,José Moragón,es ESP,GK,1,1,0.0,0.0,2010-2011,/en/players/95611ff8/Jose-Moragon,95611ff8,Gimnastic,90,1.0,0.0,0.0,64,1.0,4493,Gimnastic
+,Albert Virgili,es ESP,FW,5,0,0.0,1.0,2010-2011,/en/players/debe95ca/Albert-Virgili,debe95ca,Gimnastic,94,1.0,0.0,0.0,64,1.0,4494,Gimnastic
+,﻿Rubén Pérez,es ESP,GK,42,42,0.0,0.0,2011-2012,/en/players/ab1bdfe5/Ruben-Perez,b1bdfe5,Gimnastic,"3,780",42.0,3.0,0.0,64,1.0,4457,Gimnastic
+,Antonio Longás,es ESP,MF,39,35,4.0,2.0,2011-2012,/en/players/d7821711/Antonio-Longas,d7821711,Gimnastic,"3,162",35.1,8.0,0.0,64,1.0,2914,Gimnastic
+,Fernando Seoane,es ESP,MF,37,34,0.0,0.0,2011-2012,/en/players/48084614/Fernando-Seoane,48084614,Gimnastic,"3,079",34.2,6.0,0.0,64,1.0,4486,Gimnastic
+,Rodri,es ESP,MF,34,34,0.0,2.0,2011-2012,/en/players/b8462bd6/Rodri,b8462bd6,Gimnastic,"2,839",31.5,9.0,1.0,64,1.0,3710,Gimnastic
+,Fernando Morán,es ESP,MF,33,30,5.0,8.0,2011-2012,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Gimnastic,"2,446",27.2,7.0,0.0,64,1.0,2841,Gimnastic
+,Francisco Ibáñez,cl CHI,FW,30,29,0.0,1.0,2011-2012,/en/players/8743a346/Francisco-Ibanez,8743a346,Gimnastic,"2,633",29.3,10.0,0.0,64,31.0,3923,Gimnastic
+,Pedro Mairata,es ESP,DF,29,28,0.0,1.0,2011-2012,/en/players/de9e9405/Pedro-Mairata,de9e9405,Gimnastic,"2,499",27.8,5.0,1.0,64,1.0,4462,Gimnastic
+,Arzu,es ESP,"DF,MF",29,27,0.0,0.0,2011-2012,/en/players/a41e01ff/Arzu,41e01ff,Gimnastic,"2,391",26.6,6.0,0.0,64,1.0,1350,Gimnastic
+,Mingo,es ESP,DF,30,27,0.0,0.0,2011-2012,/en/players/6fc287d5/Mingo,6fc287d5,Gimnastic,"2,225",24.7,10.0,0.0,64,1.0,1361,Gimnastic
+,Sergio Juste,es ESP,DF,24,23,0.0,0.0,2011-2012,/en/players/5afe7024/Sergio-Juste,5afe7024,Gimnastic,"2,030",22.6,3.0,0.0,64,1.0,4473,Gimnastic
+,Roberto Peragón,es ESP,FW,30,21,1.0,1.0,2011-2012,/en/players/c1dbaa18/Roberto-Peragon,c1dbaa18,Gimnastic,"1,802",20.0,2.0,0.0,64,1.0,2346,Gimnastic
+,Berry Powel,nl NED,FW,20,18,1.0,9.0,2011-2012,/en/players/0d9836e0/Berry-Powel,0d9836e0,Gimnastic,"1,540",17.1,3.0,0.0,64,11.0,4487,Gimnastic
+,Manuel Ruz,es ESP,DF,18,15,1.0,0.0,2011-2012,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Gimnastic,"1,309",14.5,4.0,0.0,64,1.0,894,Gimnastic
+,Dani Abalo,es ESP,"FW,MF",17,14,0.0,0.0,2011-2012,/en/players/d1b04adb/Dani-Abalo,d1b04adb,Gimnastic,"1,025",11.4,1.0,0.0,64,1.0,681,Gimnastic
+,Álex Ortiz,es ESP,DF,17,13,1.0,3.0,2011-2012,/en/players/c07dc79e/Alex-Ortiz,c07dc79e,Gimnastic,"1,255",13.9,3.0,0.0,64,1.0,1407,Gimnastic
+,Raúl Fuster,es ESP,DF,16,13,0.0,1.0,2011-2012,/en/players/807d26b5/Raul-Fuster,807d26b5,Gimnastic,"1,240",13.8,8.0,0.0,64,1.0,4489,Gimnastic
+,Álvaro Rey,eng ENG,MF,25,10,2.0,1.0,2011-2012,/en/players/87f1f9b9/Alvaro-Rey,87f1f9b9,Gimnastic,"1,184",13.2,4.0,0.0,64,6.0,4492,Gimnastic
+,Tuni,es ESP,"DF,MF",26,9,1.0,3.0,2011-2012,/en/players/e77175c5/Tuni,77175c5,Gimnastic,"1,272",14.1,4.0,0.0,64,1.0,1563,Gimnastic
+,Eloy Gila,es ESP,FW,13,8,1.0,0.0,2011-2012,/en/players/d41067ce/Eloy-Gila,d41067ce,Gimnastic,566,6.3,0.0,0.0,64,1.0,3808,Gimnastic
+,Borja Viguera,es ESP,FW,10,6,0.0,0.0,2011-2012,/en/players/d906a703/Borja-Viguera,d906a703,Gimnastic,480,5.3,1.0,0.0,64,1.0,261,Gimnastic
+,Samuel Galindo,bo BOL,MF,12,6,0.0,0.0,2011-2012,/en/players/30cf013d/Samuel-Galindo,30cf013d,Gimnastic,452,5.0,1.0,0.0,64,64.0,4495,Gimnastic
+,Juan Millán,es ESP,FW,8,5,0.0,0.0,2011-2012,/en/players/0dd1af5b/Juan-Millan,0dd1af5b,Gimnastic,411,4.6,1.0,0.0,64,1.0,4496,Gimnastic
+,Adrián Luna,uy URU,"FW,MF",18,4,1.0,2.0,2011-2012,/en/players/0c2a2a73/Adrian-Luna,0c2a2a73,Gimnastic,726,8.1,3.0,0.0,64,8.0,4497,Gimnastic
+,Mikel Orbegozo,es ESP,FW,11,4,1.0,0.0,2011-2012,/en/players/45a7dca3/Mikel-Orbegozo,45a7dca3,Gimnastic,440,4.9,1.0,0.0,64,1.0,4498,Gimnastic
+,Hugo Bargas,fr FRA,FW,5,3,0.0,0.0,2011-2012,/en/players/a0640a66/Hugo-Bargas,0640a66,Gimnastic,289,3.2,0.0,0.0,64,4.0,4499,Gimnastic
+,José Ángel Bueno,es ESP,MF,5,2,0.0,0.0,2011-2012,/en/players/ba452ed2/Jose-Angel-Bueno,ba452ed2,Gimnastic,195,2.2,0.0,0.0,64,1.0,4500,Gimnastic
+,Eugeni Valderrama,es ESP,MF,5,1,0.0,0.0,2011-2012,/en/players/a75b4071/Eugeni-Valderrama,75b4071,Gimnastic,200,2.2,1.0,0.0,64,1.0,988,Gimnastic
+,Joan Sabaté,es ESP,MF,1,1,0.0,0.0,2011-2012,/en/players/9edfeca5/Joan-Sabate,9edfeca5,Gimnastic,44,0.5,0.0,0.0,64,1.0,4501,Gimnastic
+,Sergi Gestí Cano,es ESP,FW,1,0,0.0,0.0,2011-2012,/en/players/cfcd8596/Sergi-Gesti-Cano,cfcd8596,Gimnastic,31,0.3,0.0,0.0,64,1.0,4502,Gimnastic
+,Julio Rico,es ESP,"DF,MF",2,0,0.0,0.0,2011-2012,/en/players/e2c41abc/Julio-Rico,2c41abc,Gimnastic,27,0.3,0.0,0.0,64,1.0,4503,Gimnastic
+,﻿Pablo Marí,es ESP,DF,2,2,0.0,0.0,2014-2015,/en/players/aa54ec6f/Pablo-Mari,54ec6f,Gimnastic,210.0,2.3,0.0,0.0,64,1.0,544,Gimnastic
+,Manolo Martínez,es ESP,"DF,MF",2,2,0.0,0.0,2014-2015,/en/players/7b9876e4/Manolo-Martinez,7b9876e4,Gimnastic,210.0,2.3,0.0,0.0,64,1.0,3190,Gimnastic
+,Tomeu Nadal,es ESP,GK,2,2,0.0,0.0,2014-2015,/en/players/37452c75/Tomeu-Nadal,37452c75,Gimnastic,210.0,2.3,0.0,0.0,64,1.0,1691,Gimnastic
+,Ramón Verdú Montes,es ESP,DF,2,2,0.0,0.0,2014-2015,/en/players/db7ff69c/Ramon-Verdu-Montes,db7ff69c,Gimnastic,210.0,2.3,0.0,0.0,64,1.0,90148,Gimnastic
+,Javi Martínez,es ESP,MF,2,2,0.0,0.0,2014-2015,/en/players/59359d6b/Javi-Martinez,59359d6b,Gimnastic,184.0,2.0,0.0,0.0,64,1.0,4504,Gimnastic
+,Marcos,es ESP,FW,2,2,0.0,0.0,2014-2015,/en/players/d567ccd6/Marcos,d567ccd6,Gimnastic,150.0,1.7,1.0,0.0,64,1.0,4505,Gimnastic
+,Gerard Valentín,es ESP,"DF,MF",2,2,0.0,0.0,2014-2015,/en/players/9d4c3227/Gerard-Valentin,9d4c3227,Gimnastic,133.0,1.5,0.0,0.0,64,1.0,538,Gimnastic
+,Marc Martínez,es ESP,MF,2,1,0.0,0.0,2014-2015,/en/players/7c4764d7/Marc-Martinez,7c4764d7,Gimnastic,167.0,1.9,1.0,0.0,64,1.0,4506,Gimnastic
+,Ferrán Giner Peris,es ESP,FW,2,1,0.0,0.0,2014-2015,/en/players/aede3ce0/Ferran-Giner-Peris,de3ce0,Gimnastic,146.0,1.6,0.0,0.0,64,1.0,1712,Gimnastic
+,Xisco Campos,es ESP,DF,1,1,0.0,0.0,2014-2015,/en/players/bd3b9a9f/Xisco-Campos,bd3b9a9f,Gimnastic,120.0,1.3,0.0,0.0,64,1.0,1584,Gimnastic
+,Cristóbal Gil Martín,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/5135cd80/Cristobal-Gil-Martin,5135cd80,Gimnastic,120.0,1.3,0.0,0.0,64,1.0,4507,Gimnastic
+,Lago Junior,ci CIV,"FW,MF",1,1,0.0,0.0,2014-2015,/en/players/360d70f8/Lago-Junior,360d70f8,Gimnastic,90.0,1.0,1.0,0.0,64,35.0,1681,Gimnastic
+,Xavi Molina,es ESP,"DF,MF",1,1,0.0,0.0,2014-2015,/en/players/dd088a95/Xavi-Molina,dd088a95,Gimnastic,72.0,0.8,0.0,0.0,64,1.0,4508,Gimnastic
+,Rayco García Dauta,es ESP,FW,1,1,0.0,0.0,2014-2015,/en/players/018ce429/Rayco-Garcia-Dauta,018ce429,Gimnastic,69.0,0.8,0.0,0.0,64,1.0,3456,Gimnastic
+,Luismi,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/315b221b/Luismi,315b221b,Gimnastic,68.0,0.8,1.0,0.0,64,1.0,3027,Gimnastic
+,Gorka Azkorra,es ESP,FW,2,0,0.0,0.0,2014-2015,/en/players/b6ba90f9/Gorka-Azkorra,b6ba90f9,Gimnastic,82.0,0.9,0.0,0.0,64,1.0,1256,Gimnastic
+,Jean Luc Gbayara,ci CIV,MF,1,0,0.0,0.0,2014-2015,/en/players/98afb06c/Jean-Luc-Gbayara,98afb06c,Gimnastic,51.0,0.6,0.0,0.0,64,35.0,4509,Gimnastic
+,David Rocha,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/39d4e7a1/David-Rocha,39d4e7a1,Gimnastic,18.0,0.2,0.0,0.0,64,1.0,4510,Gimnastic
+,Manolo Reina,es ESP,GK,0,0,,,2014-2015,/en/players/605eb473/Manolo-Reina,605eb473,Gimnastic,,,,,64,1.0,1713,Gimnastic
+,﻿Manolo Reina,es ESP,GK,41,41,0.0,0.0,2015-2016,/en/players/605eb473/Manolo-Reina,605eb473,Gimnastic,"3,690",41.0,7.0,0.0,64,1.0,1713,Gimnastic
+,Mossa,es ESP,"DF,MF",38,38,4.0,2.0,2015-2016,/en/players/cbfa9c63/Mossa,cbfa9c63,Gimnastic,"3,297",36.6,11.0,0.0,64,1.0,4143,Gimnastic
+,Xavi Molina,es ESP,"DF,MF",33,31,1.0,3.0,2015-2016,/en/players/dd088a95/Xavi-Molina,dd088a95,Gimnastic,"2,800",31.1,6.0,0.0,64,1.0,4508,Gimnastic
+,Achille Emaná,cm CMR,MF,37,31,5.0,9.0,2015-2016,/en/players/aa2d23ed/Achille-Emana,2d23ed,Gimnastic,"2,653",29.5,9.0,0.0,64,36.0,1411,Gimnastic
+,Sergio Tejera,es ESP,MF,34,29,4.0,0.0,2015-2016,/en/players/3d5734ef/Sergio-Tejera,3d5734ef,Gimnastic,"2,533",28.1,18.0,0.0,64,1.0,1622,Gimnastic
+,Iago Bouzón,es ESP,DF,29,27,1.0,1.0,2015-2016,/en/players/2b687c98/Iago-Bouzon,2b687c98,Gimnastic,"2,441",27.1,10.0,0.0,64,1.0,649,Gimnastic
+,Naranjo,es ESP,"FW,MF",34,27,6.0,15.0,2015-2016,/en/players/2a70c756/Naranjo,2a70c756,Gimnastic,"2,419",26.9,9.0,0.0,64,1.0,791,Gimnastic
+,Pablo Marí,es ESP,DF,25,25,0.0,1.0,2015-2016,/en/players/aa54ec6f/Pablo-Mari,54ec6f,Gimnastic,"2,217",24.6,7.0,1.0,64,1.0,544,Gimnastic
+,Jean Luc Gbayara,ci CIV,MF,33,23,3.0,5.0,2015-2016,/en/players/98afb06c/Jean-Luc-Gbayara,98afb06c,Gimnastic,"2,252",25.0,9.0,0.0,64,35.0,4509,Gimnastic
+,Francisco Ibáñez,cl CHI,FW,23,20,1.0,0.0,2015-2016,/en/players/8743a346/Francisco-Ibanez,8743a346,Gimnastic,"1,780",19.8,6.0,0.0,64,31.0,3923,Gimnastic
+,David Rocha,es ESP,MF,20,20,0.0,0.0,2015-2016,/en/players/39d4e7a1/David-Rocha,39d4e7a1,Gimnastic,"1,744",19.4,7.0,0.0,64,1.0,4510,Gimnastic
+,Lévy Madinda,ga GAB,MF,20,15,0.0,1.0,2015-2016,/en/players/ea26e99f/Levy-Madinda,26e99f,Gimnastic,"1,447",16.1,3.0,0.0,64,69.0,755,Gimnastic
+,Giorgi Aburjania,ge GEO,MF,16,15,2.0,2.0,2015-2016,/en/players/0921a46c/Giorgi-Aburjania,0921a46c,Gimnastic,"1,287",14.3,3.0,0.0,64,76.0,4511,Gimnastic
+,Daisuke Suzuki,jp JPN,DF,13,13,0.0,0.0,2015-2016,/en/players/fb8a11ca/Daisuke-Suzuki,fb8a11ca,Gimnastic,"1,170",13.0,2.0,0.0,64,54.0,4512,Gimnastic
+,Cristian Lobato,es ESP,"FW,MF",18,12,0.0,1.0,2015-2016,/en/players/a7ac9c6d/Cristian-Lobato,7ac9c6d,Gimnastic,836,9.3,1.0,0.0,64,1.0,2055,Gimnastic
+,Marcos,es ESP,FW,23,11,0.0,4.0,2015-2016,/en/players/d567ccd6/Marcos,d567ccd6,Gimnastic,"1,078",12.0,1.0,0.0,64,1.0,4505,Gimnastic
+,Miguel Palanca,es ESP,"FW,MF",19,11,2.0,1.0,2015-2016,/en/players/005ade52/Miguel-Palanca,005ade52,Gimnastic,938,10.4,4.0,0.0,64,1.0,74,Gimnastic
+,Aníbal Zurdo,mx MEX,FW,15,10,1.0,2.0,2015-2016,/en/players/f01453a0/Anibal-Zurdo,f01453a0,Gimnastic,855,9.5,2.0,0.0,64,20.0,4513,Gimnastic
+,Rayco García Dauta,es ESP,FW,14,10,1.0,0.0,2015-2016,/en/players/018ce429/Rayco-Garcia-Dauta,018ce429,Gimnastic,836,9.3,0.0,0.0,64,1.0,3456,Gimnastic
+,Gerard Valentín,es ESP,"DF,MF",12,10,0.0,0.0,2015-2016,/en/players/9d4c3227/Gerard-Valentin,9d4c3227,Gimnastic,800,8.9,2.0,0.0,64,1.0,538,Gimnastic
+,Ferrán Giner Peris,es ESP,FW,17,9,2.0,0.0,2015-2016,/en/players/aede3ce0/Ferran-Giner-Peris,de3ce0,Gimnastic,920,10.2,2.0,0.0,64,1.0,1712,Gimnastic
+,Álex López,es ESP,FW,13,9,0.0,2.0,2015-2016,/en/players/8e492949/Alex-Lopez,8e492949,Gimnastic,827,9.2,1.0,0.0,64,1.0,1722,Gimnastic
+,Jordi Calavera,es ESP,DF,9,7,0.0,1.0,2015-2016,/en/players/bdef8cdb/Jordi-Calavera,bdef8cdb,Gimnastic,706,7.8,2.0,0.0,64,1.0,4514,Gimnastic
+,Juan Muñiz,es ESP,MF,13,5,4.0,0.0,2015-2016,/en/players/1533d658/Juan-Muniz,1533d658,Gimnastic,435,4.8,4.0,0.0,64,1.0,4515,Gimnastic
+,Fali,es ESP,"DF,MF",7,4,0.0,1.0,2015-2016,/en/players/72a84002/Fali,72a84002,Gimnastic,393,4.4,2.0,0.0,64,1.0,4402,Gimnastic
+,Manolo Martínez,es ESP,"DF,MF",5,3,0.0,0.0,2015-2016,/en/players/7b9876e4/Manolo-Martinez,7b9876e4,Gimnastic,255,2.8,2.0,1.0,64,1.0,3190,Gimnastic
+,Moussa Bandeh,es ESP,DF,3,3,0.0,0.0,2015-2016,/en/players/28c9ce9e/Moussa-Bandeh,28c9ce9e,Gimnastic,246,2.7,0.0,0.0,64,1.0,4516,Gimnastic
+,Xisco,es ESP,"FW,MF",11,1,2.0,1.0,2015-2016,/en/players/efaaae13/Xisco,faaae13,Gimnastic,327,3.6,1.0,0.0,64,1.0,887,Gimnastic
+,Alberto Varo,es ESP,GK,1,1,0.0,0.0,2015-2016,/en/players/59de37ab/Alberto-Varo,59de37ab,Gimnastic,90,1.0,0.0,0.0,64,1.0,90149,Gimnastic
+,Gal Arel,il ISR,"DF,MF",4,1,0.0,0.0,2015-2016,/en/players/d5c6a98a/Gal-Arel,d5c6a98a,Gimnastic,70,0.8,0.0,0.0,64,45.0,4517,Gimnastic
+,Stephane Emaná,cm CMR,FW,5,0,0.0,2.0,2015-2016,/en/players/39f30611/Stephane-Emana,39f30611,Gimnastic,193,2.1,2.0,0.0,64,36.0,4518,Gimnastic
+,Carlos García,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/1e64709e/Carlos-Garcia,1e64709e,Gimnastic,10,0.1,0.0,0.0,64,1.0,1447,Gimnastic
+,Mousa Bandeh,ml MLI,DF,0,0,,,2015-2016,/en/players/c238d951/Mousa-Bandeh,c238d951,Gimnastic,,,,,64,12.0,4519,Gimnastic
+,Xisco Campos,es ESP,DF,0,0,,,2015-2016,/en/players/bd3b9a9f/Xisco-Campos,bd3b9a9f,Gimnastic,,,,,64,1.0,1584,Gimnastic
+,Xisco Hernández,es ESP,MF,0,0,,,2015-2016,/en/players/501aaa9b/Xisco-Hernandez,501aaa9b,Gimnastic,,,,,64,1.0,4520,Gimnastic
+,Tomeu Nadal,es ESP,GK,0,0,,,2015-2016,/en/players/37452c75/Tomeu-Nadal,37452c75,Gimnastic,,,,,64,1.0,1691,Gimnastic
+,Fabrice Ondoa,cm CMR,GK,0,0,,,2015-2016,/en/players/c5b2b9b2/Fabrice-Ondoa,c5b2b9b2,Gimnastic,,,,,64,36.0,4521,Gimnastic
+,﻿Mossa,es ESP,"DF,MF",39,39,1.0,0.0,2016-2017,/en/players/cbfa9c63/Mossa,cbfa9c63,Gimnastic,"3,447",38.3,13.0,2.0,64,1.0,4143,Gimnastic
+,Sergio Tejera,es ESP,MF,36,35,4.0,6.0,2016-2017,/en/players/3d5734ef/Sergio-Tejera,3d5734ef,Gimnastic,"3,172",35.2,16.0,1.0,64,1.0,1622,Gimnastic
+,Daisuke Suzuki,jp JPN,DF,34,32,0.0,1.0,2016-2017,/en/players/fb8a11ca/Daisuke-Suzuki,fb8a11ca,Gimnastic,"2,816",31.3,5.0,2.0,64,54.0,4512,Gimnastic
+,Gerard Valentín,es ESP,DF,33,29,3.0,0.0,2016-2017,/en/players/9d4c3227/Gerard-Valentin,9d4c3227,Gimnastic,"2,477",27.5,5.0,2.0,64,1.0,538,Gimnastic
+,Xavi Molina,es ESP,"DF,MF",29,28,1.0,1.0,2016-2017,/en/players/dd088a95/Xavi-Molina,dd088a95,Gimnastic,"2,505",27.8,13.0,2.0,64,1.0,4508,Gimnastic
+,Manolo Reina,es ESP,GK,23,23,0.0,0.0,2016-2017,/en/players/605eb473/Manolo-Reina,605eb473,Gimnastic,"2,070",23.0,4.0,0.0,64,1.0,1713,Gimnastic
+,Lévy Madinda,ga GAB,MF,27,22,1.0,0.0,2016-2017,/en/players/ea26e99f/Levy-Madinda,26e99f,Gimnastic,"1,834",20.4,5.0,0.0,64,69.0,755,Gimnastic
+,Iago Bouzón,es ESP,DF,22,22,0.0,0.0,2016-2017,/en/players/2b687c98/Iago-Bouzon,2b687c98,Gimnastic,"1,831",20.3,10.0,2.0,64,1.0,649,Gimnastic
+,Álex López,es ESP,FW,32,20,5.0,3.0,2016-2017,/en/players/8e492949/Alex-Lopez,8e492949,Gimnastic,"1,832",20.4,4.0,0.0,64,1.0,1722,Gimnastic
+,Cristian Lobato,es ESP,"MF,DF",27,19,3.0,1.0,2016-2017,/en/players/a7ac9c6d/Cristian-Lobato,7ac9c6d,Gimnastic,"1,733",19.3,1.0,0.0,64,1.0,2055,Gimnastic
+,Juan Muñiz,es ESP,MF,24,19,2.0,4.0,2016-2017,/en/players/1533d658/Juan-Muniz,1533d658,Gimnastic,"1,615",17.9,7.0,0.0,64,1.0,4515,Gimnastic
+,Bruno Perone,br BRA,DF,19,17,1.0,2.0,2016-2017,/en/players/58591790/Bruno-Perone,58591790,Gimnastic,"1,531",17.0,3.0,0.0,64,2.0,3650,Gimnastic
+,Juan Delgado,cl CHI,"FW,MF",24,17,0.0,4.0,2016-2017,/en/players/45a91d07/Juan-Delgado,45a91d07,Gimnastic,"1,523",16.9,5.0,1.0,64,31.0,4529,Gimnastic
+,Ikechukwu Uche,ng NGA,FW,24,15,3.0,8.0,2016-2017,/en/players/ba7c6d25/Ikechukwu-Uche,ba7c6d25,Gimnastic,"1,351",15.0,2.0,1.0,64,52.0,2414,Gimnastic
+,Achille Emaná,cm CMR,"FW,MF",16,14,2.0,4.0,2016-2017,/en/players/aa2d23ed/Achille-Emana,2d23ed,Gimnastic,"1,140",12.7,4.0,0.0,64,36.0,1411,Gimnastic
+,Miguel Cordero,es ESP,MF,17,14,0.0,1.0,2016-2017,/en/players/e196c33d/Miguel-Cordero,196c33d,Gimnastic,"1,118",12.4,6.0,0.0,64,1.0,4522,Gimnastic
+,Luismi Quezada,do DOM,DF,13,13,1.0,1.0,2016-2017,/en/players/53440b3c/Luismi-Quezada,53440b3c,Gimnastic,"1,072",11.9,1.0,0.0,64,25.0,152,Gimnastic
+,Manu Barreiro,es ESP,FW,19,11,0.0,5.0,2016-2017,/en/players/028608d9/Manu-Barreiro,028608d9,Gimnastic,"1,003",11.1,3.0,2.0,64,1.0,3333,Gimnastic
+,Wilfried Zahibo,cf CTA,MF,15,11,0.0,0.0,2016-2017,/en/players/784ec3de/Wilfried-Zahibo,784ec3de,Gimnastic,856,9.5,8.0,0.0,64,73.0,975,Gimnastic
+,Sebastián Saja,ar ARG,GK,10,10,0.0,0.0,2016-2017,/en/players/50a2cb6d/Sebastian-Saja,50a2cb6d,Gimnastic,900,10.0,1.0,0.0,64,5.0,3422,Gimnastic
+,Ferrán Giner Peris,es ESP,"MF,DF",13,9,1.0,0.0,2016-2017,/en/players/aede3ce0/Ferran-Giner-Peris,de3ce0,Gimnastic,813,9.0,3.0,0.0,64,1.0,1712,Gimnastic
+,Stole Dimitrievski,mk MKD,GK,9,9,0.0,0.0,2016-2017,/en/players/fc70e345/Stole-Dimitrievski,fc70e345,Gimnastic,810,9.0,1.0,0.0,64,81.0,3487,Gimnastic
+,Jean Luc Gbayara,ci CIV,"MF,DF",23,8,1.0,2.0,2016-2017,/en/players/98afb06c/Jean-Luc-Gbayara,98afb06c,Gimnastic,"1,064",11.8,3.0,0.0,64,35.0,4509,Gimnastic
+,Mohammed Djetei,cm CMR,DF,9,7,0.0,0.0,2016-2017,/en/players/209c123e/Mohammed-Djetei,209c123e,Gimnastic,675,7.5,2.0,0.0,64,36.0,3874,Gimnastic
+,Alberto Lopo,es ESP,DF,5,5,0.0,0.0,2016-2017,/en/players/17cd5bb7/Alberto-Lopo,17cd5bb7,Gimnastic,450,5.0,0.0,1.0,64,1.0,410,Gimnastic
+,Stephane Emaná,cm CMR,"FW,MF",15,4,1.0,2.0,2016-2017,/en/players/39f30611/Stephane-Emana,39f30611,Gimnastic,610,6.8,4.0,2.0,64,36.0,4518,Gimnastic
+,José Carlos,es ESP,MF,11,4,0.0,1.0,2016-2017,/en/players/6738f3c6/Jose-Carlos,6738f3c6,Gimnastic,407,4.5,1.0,0.0,64,1.0,1846,Gimnastic
+,Otar Kakabadze,ge GEO,DF,6,3,0.0,0.0,2016-2017,/en/players/2ea12fc4/Otar-Kakabadze,2ea12fc4,Gimnastic,322,3.6,1.0,0.0,64,76.0,4523,Gimnastic
+,Moha Rharsalla,ma MAR,MF,8,2,0.0,1.0,2016-2017,/en/players/82e3586c/Moha-Rharsalla,82e3586c,Gimnastic,284,3.2,0.0,0.0,64,26.0,4524,Gimnastic
+,Elvir Maloku,al ALB,FW,3,0,0.0,0.0,2016-2017,/en/players/86f93e72/Elvir-Maloku,86f93e72,Gimnastic,77,0.9,0.0,0.0,64,78.0,4525,Gimnastic
+,Amadou Boiro,sn SEN,MF,1,0,0.0,0.0,2016-2017,/en/players/95055f14/Amadou-Boiro,95055f14,Gimnastic,2,0.0,0.0,0.0,64,34.0,4526,Gimnastic
+,Luismi,es ESP,"MF,DF",0,0,,,2016-2017,/en/players/c2cfbfc9/Luismi,c2cfbfc9,Gimnastic,,,,,64,1.0,1893,Gimnastic
+,Dani Ojeda,es ESP,"FW,MF",0,0,,,2016-2017,/en/players/375a669e/Dani-Ojeda,375a669e,Gimnastic,,,,,64,1.0,3842,Gimnastic
+,José Perales,es ESP,GK,0,0,,,2016-2017,/en/players/d4a3f67b/Jose-Perales,d4a3f67b,Gimnastic,,,,,64,1.0,4527,Gimnastic
+,Ruxi,es ESP,DF,0,0,,,2016-2017,/en/players/bf0a02be/Ruxi,bf0a02be,Gimnastic,,,,,64,1.0,4528,Gimnastic
+,Marc Vadillo,es ESP,DF,0,0,,,2016-2017,/en/players/e300fd40/Marc-Vadillo,300fd40,Gimnastic,,,,,64,1.0,90150,Gimnastic
+,﻿Stole Dimitrievski,mk MKD,GK,39,39,1.0,0.0,2017-2018,/en/players/fc70e345/Stole-Dimitrievski,fc70e345,Gimnastic,"3,510",39.0,3.0,0.0,64,81.0,3487,Gimnastic
+,Xavi Molina,es ESP,"DF,MF",38,38,0.0,1.0,2017-2018,/en/players/dd088a95/Xavi-Molina,dd088a95,Gimnastic,"3,398",37.8,12.0,0.0,64,1.0,4508,Gimnastic
+,Otar Kakabadze,ge GEO,DF,36,36,6.0,1.0,2017-2018,/en/players/2ea12fc4/Otar-Kakabadze,2ea12fc4,Gimnastic,"3,194",35.5,8.0,0.0,64,76.0,4523,Gimnastic
+,Manu Barreiro,es ESP,FW,39,32,5.0,10.0,2017-2018,/en/players/028608d9/Manu-Barreiro,028608d9,Gimnastic,"2,887",32.1,4.0,0.0,64,1.0,3333,Gimnastic
+,Maikel Mesa,es ESP,MF,36,32,1.0,8.0,2017-2018,/en/players/2afb7b21/Maikel-Mesa,2afb7b21,Gimnastic,"2,623",29.1,7.0,0.0,64,1.0,2052,Gimnastic
+,Abraham Minero,es ESP,"DF,MF",30,26,1.0,0.0,2017-2018,/en/players/ce2c56fc/Abraham-Minero,ce2c56fc,Gimnastic,"2,325",25.8,13.0,2.0,64,1.0,2971,Gimnastic
+,Javier Jiménez,es ESP,DF,29,26,3.0,0.0,2017-2018,/en/players/d7af6f5b/Javier-Jimenez,d7af6f5b,Gimnastic,"2,323",25.8,6.0,0.0,64,1.0,2495,Gimnastic
+,Jon Gaztañaga,es ESP,MF,27,24,0.0,0.0,2017-2018,/en/players/806872d2/Jon-Gaztanaga,806872d2,Gimnastic,"2,103",23.4,6.0,0.0,64,1.0,294,Gimnastic
+,Sergio Tejera,es ESP,MF,26,23,2.0,1.0,2017-2018,/en/players/3d5734ef/Sergio-Tejera,3d5734ef,Gimnastic,"1,984",22.0,12.0,0.0,64,1.0,1622,Gimnastic
+,Daisuke Suzuki,jp JPN,DF,20,20,0.0,0.0,2017-2018,/en/players/fb8a11ca/Daisuke-Suzuki,fb8a11ca,Gimnastic,"1,777",19.7,6.0,2.0,64,54.0,4512,Gimnastic
+,Tete Morente,es ESP,MF,25,18,1.0,2.0,2017-2018,/en/players/004d185e/Tete-Morente,004d185e,Gimnastic,"1,661",18.5,6.0,0.0,64,1.0,2457,Gimnastic
+,Ikechukwu Uche,ng NGA,FW,24,14,1.0,8.0,2017-2018,/en/players/ba7c6d25/Ikechukwu-Uche,ba7c6d25,Gimnastic,"1,287",14.3,2.0,0.0,64,52.0,2414,Gimnastic
+,Bruno Perone,br BRA,DF,15,13,0.0,0.0,2017-2018,/en/players/58591790/Bruno-Perone,58591790,Gimnastic,"1,207",13.4,1.0,0.0,64,2.0,3650,Gimnastic
+,Álvaro Vázquez,es ESP,"FW,MF",18,13,2.0,6.0,2017-2018,/en/players/d2d8675a/Alvaro-Vazquez,d2d8675a,Gimnastic,"1,156",12.8,4.0,1.0,64,1.0,3060,Gimnastic
+,Juan Delgado,cl CHI,MF,17,13,1.0,1.0,2017-2018,/en/players/45a91d07/Juan-Delgado,45a91d07,Gimnastic,"1,120",12.4,1.0,0.0,64,31.0,4529,Gimnastic
+,Juan Muñiz,es ESP,MF,23,12,1.0,1.0,2017-2018,/en/players/1533d658/Juan-Muniz,1533d658,Gimnastic,"1,068",11.9,9.0,0.0,64,1.0,4515,Gimnastic
+,Fali,es ESP,MF,14,12,1.0,0.0,2017-2018,/en/players/72a84002/Fali,72a84002,Gimnastic,995,11.1,4.0,0.0,64,1.0,4402,Gimnastic
+,Jean Luc Gbayara,ci CIV,MF,17,11,1.0,1.0,2017-2018,/en/players/98afb06c/Jean-Luc-Gbayara,98afb06c,Gimnastic,"1,019",11.3,3.0,0.0,64,35.0,4509,Gimnastic
+,Julio Pleguezuelo,es ESP,DF,10,10,0.0,0.0,2017-2018,/en/players/2950c47b/Julio-Pleguezuelo,2950c47b,Gimnastic,893,9.9,4.0,0.0,64,1.0,1698,Gimnastic
+,César Arzo,es ESP,DF,10,9,0.0,0.0,2017-2018,/en/players/0ea37b10/Cesar-Arzo,0ea37b10,Gimnastic,829,9.2,4.0,2.0,64,1.0,2566,Gimnastic
+,Javi Márquez,es ESP,MF,13,8,0.0,0.0,2017-2018,/en/players/40c7cdd2/Javi-Marquez,40c7cdd2,Gimnastic,578,6.4,4.0,0.0,64,1.0,1640,Gimnastic
+,Omar Perdomo,es ESP,MF,16,7,0.0,2.0,2017-2018,/en/players/5290eb66/Omar-Perdomo,5290eb66,Gimnastic,710,7.9,0.0,0.0,64,1.0,4530,Gimnastic
+,Eddy Silvestre,az AZE,MF,11,6,1.0,0.0,2017-2018,/en/players/15ac2dc2/Eddy-Silvestre,15ac2dc2,Gimnastic,529,5.9,2.0,0.0,64,108.0,3844,Gimnastic
+,Javier Matilla,es ESP,MF,10,5,0.0,0.0,2017-2018,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Gimnastic,568,6.3,4.0,0.0,64,1.0,1437,Gimnastic
+,Carlos Blanco,es ESP,DF,4,4,0.0,0.0,2017-2018,/en/players/6eb7068f/Carlos-Blanco,6eb7068f,Gimnastic,336,3.7,0.0,0.0,64,1.0,4531,Gimnastic
+,Wilfried Zahibo,cf CTA,MF,6,4,0.0,0.0,2017-2018,/en/players/784ec3de/Wilfried-Zahibo,784ec3de,Gimnastic,333,3.7,3.0,0.0,64,73.0,975,Gimnastic
+,Nicolao Dumitru,it ITA,"MF,FW",10,2,0.0,1.0,2017-2018,/en/players/1a5d127b/Nicolao-Dumitru,1a5d127b,Gimnastic,340,3.8,0.0,0.0,64,9.0,4532,Gimnastic
+,Bernabé Barragán,es ESP,GK,2,2,0.0,0.0,2017-2018,/en/players/a3cd0078/Bernabe-Barragan,3cd0078,Gimnastic,154,1.7,1.0,0.0,64,1.0,2220,Gimnastic
+,Stephane Emaná,cm CMR,FW,4,1,0.0,0.0,2017-2018,/en/players/39f30611/Stephane-Emana,39f30611,Gimnastic,187,2.1,0.0,0.0,64,36.0,4518,Gimnastic
+,José Perales,es ESP,GK,2,1,0.0,0.0,2017-2018,/en/players/d4a3f67b/Jose-Perales,d4a3f67b,Gimnastic,116,1.3,1.0,0.0,64,1.0,4527,Gimnastic
+,Pol Valentín,es ESP,DF,1,1,0.0,0.0,2017-2018,/en/players/1043a909/Pol-Valentin,1043a909,Gimnastic,90,1.0,0.0,0.0,64,1.0,4533,Gimnastic
+,Jean Marie Dongou,cm CMR,FW,8,0,0.0,0.0,2017-2018,/en/players/fd0bb7d2/Jean-Marie-Dongou,fd0bb7d2,Gimnastic,154,1.7,0.0,0.0,64,36.0,1147,Gimnastic
+,Álvaro Bustos,es ESP,MF,4,0,0.0,0.0,2017-2018,/en/players/6163c2ae/Alvaro-Bustos,6163c2ae,Gimnastic,74,0.8,0.0,0.0,64,1.0,4534,Gimnastic
+,Brugui,es ESP,MF,3,0,0.0,0.0,2017-2018,/en/players/66d0860c/Brugui,66d0860c,Gimnastic,42,0.5,0.0,0.0,64,1.0,4535,Gimnastic
+,Mohammed Djetei,cm CMR,DF,0,0,,,2017-2018,/en/players/209c123e/Mohammed-Djetei,209c123e,Gimnastic,,,,,64,36.0,3874,Gimnastic
+,Roger Figueras,es ESP,DF,0,0,,,2017-2018,/en/players/de6b6465/Roger-Figueras,de6b6465,Gimnastic,,,,,64,1.0,4536,Gimnastic
+,Pol Prats Moragrega,es ESP,FW,0,0,,,2017-2018,/en/players/d5dcfafe/Pol-Prats-Moragrega,d5dcfafe,Gimnastic,,,,,64,1.0,4537,Gimnastic
+,Rayco Rodríguez Medina,es ESP,MF,0,0,,,2017-2018,/en/players/7039121a/Rayco-Rodriguez-Medina,7039121a,Gimnastic,,,,,64,1.0,4538,Gimnastic
+,Ivan Ruiz,es ESP,DF,0,0,,,2017-2018,/en/players/d51cc703/Ivan-Ruiz,d51cc703,Gimnastic,,,,,64,1.0,4539,Gimnastic
+,Alexandro Toscano,it ITA,MF,0,0,,,2017-2018,/en/players/4b688a71/Alexandro-Toscano,4b688a71,Gimnastic,,,,,64,9.0,4540,Gimnastic
+,﻿Abraham Minero,es ESP,"DF,MF",34,34,2.0,0.0,2018-2019,/en/players/ce2c56fc/Abraham-Minero,ce2c56fc,Gimnastic,"2,953",32.8,11.0,0.0,64,1.0,2971,Gimnastic
+,Luis Javier Suárez,co COL,FW,36,27,1.0,7.0,2018-2019,/en/players/eeba07f8/Luis-Javier-Suarez,ba07f8,Gimnastic,"2,288",25.4,7.0,1.0,64,19.0,2655,Gimnastic
+,Fali,es ESP,"DF,MF",28,27,0.0,3.0,2018-2019,/en/players/72a84002/Fali,72a84002,Gimnastic,"2,190",24.3,11.0,2.0,64,1.0,4402,Gimnastic
+,Imanol García,es ESP,MF,24,24,0.0,1.0,2018-2019,/en/players/a90ed68c/Imanol-Garcia,90ed68c,Gimnastic,"2,144",23.8,4.0,0.0,64,1.0,2084,Gimnastic
+,Bernabé Barragán,es ESP,GK,23,23,0.0,0.0,2018-2019,/en/players/a3cd0078/Bernabe-Barragan,3cd0078,Gimnastic,"2,070",23.0,1.0,0.0,64,1.0,2220,Gimnastic
+,Mohammed Djetei,cm CMR,DF,23,19,0.0,0.0,2018-2019,/en/players/209c123e/Mohammed-Djetei,209c123e,Gimnastic,"1,690",18.8,3.0,0.0,64,36.0,3874,Gimnastic
+,Isaac Becerra,es ESP,GK,18,18,0.0,0.0,2018-2019,/en/players/bee5d245/Isaac-Becerra,bee5d245,Gimnastic,"1,620",18.0,2.0,0.0,64,1.0,2634,Gimnastic
+,Ikechukwu Uche,ng NGA,FW,27,17,0.0,5.0,2018-2019,/en/players/ba7c6d25/Ikechukwu-Uche,ba7c6d25,Gimnastic,"1,553",17.3,4.0,0.0,64,52.0,2414,Gimnastic
+,Ousseynou Thioune,sn SEN,MF,18,17,1.0,0.0,2018-2019,/en/players/4518eb60/Ousseynou-Thioune,4518eb60,Gimnastic,"1,517",16.9,10.0,1.0,64,34.0,4541,Gimnastic
+,Javi Márquez,es ESP,"MF,FW",24,17,3.0,1.0,2018-2019,/en/players/40c7cdd2/Javi-Marquez,40c7cdd2,Gimnastic,"1,446",16.1,7.0,0.0,64,1.0,1640,Gimnastic
+,Pipa,es ESP,MF,18,17,0.0,0.0,2018-2019,/en/players/10f1cd17/Pipa,10f1cd17,Gimnastic,"1,425",15.8,2.0,0.0,64,1.0,3103,Gimnastic
+,Mikel Villanueva,ve VEN,DF,17,16,1.0,0.0,2018-2019,/en/players/65f90a76/Mikel-Villanueva,65f90a76,Gimnastic,"1,462",16.2,4.0,0.0,64,53.0,2420,Gimnastic
+,Fabián Noguera,ar ARG,DF,16,16,0.0,0.0,2018-2019,/en/players/20352705/Fabian-Noguera,20352705,Gimnastic,"1,440",16.0,3.0,0.0,64,5.0,4542,Gimnastic
+,Sebas Coris,es ESP,MF,17,16,1.0,0.0,2018-2019,/en/players/b18da471/Sebas-Coris,b18da471,Gimnastic,"1,309",14.5,1.0,0.0,64,1.0,2093,Gimnastic
+,Salvador Ferrer,es ESP,DF,21,15,0.0,0.0,2018-2019,/en/players/eb76987d/Salvador-Ferrer,b76987d,Gimnastic,"1,534",17.0,2.0,0.0,64,1.0,4543,Gimnastic
+,Manu Barreiro,es ESP,FW,20,15,0.0,1.0,2018-2019,/en/players/028608d9/Manu-Barreiro,028608d9,Gimnastic,"1,437",16.0,4.0,0.0,64,1.0,3333,Gimnastic
+,David Rocha,es ESP,MF,18,12,2.0,0.0,2018-2019,/en/players/39d4e7a1/David-Rocha,39d4e7a1,Gimnastic,"1,170",13.0,5.0,0.0,64,1.0,4510,Gimnastic
+,Víctor Martínez,es ESP,MF,14,12,0.0,0.0,2018-2019,/en/players/c1cb9001/Victor-Martinez,c1cb9001,Gimnastic,"1,026",11.4,5.0,0.0,64,1.0,4544,Gimnastic
+,Tete Morente,es ESP,MF,14,12,1.0,1.0,2018-2019,/en/players/004d185e/Tete-Morente,004d185e,Gimnastic,"1,014",11.3,4.0,1.0,64,1.0,2457,Gimnastic
+,Raúl Albentosa,es ESP,DF,11,11,0.0,2.0,2018-2019,/en/players/348e4809/Raul-Albentosa,348e4809,Gimnastic,990,11.0,5.0,0.0,64,1.0,516,Gimnastic
+,Manu del Moral,es ESP,"MF,FW",15,9,0.0,2.0,2018-2019,/en/players/1026f88d/Manu-del-Moral,1026f88d,Gimnastic,842,9.4,0.0,0.0,64,1.0,1859,Gimnastic
+,Liassine Cadamuro,dz ALG,DF,9,9,0.0,0.0,2018-2019,/en/players/e3a83cb9/Liassine-Cadamuro,3a83cb9,Gimnastic,792,8.8,3.0,1.0,64,37.0,287,Gimnastic
+,José Kanté,gn GUI,"FW,MF",14,7,2.0,3.0,2018-2019,/en/players/0bb78a04/Jose-Kante,0bb78a04,Gimnastic,724,8.0,2.0,0.0,64,74.0,4545,Gimnastic
+,Brugui,es ESP,"MF,FW",14,7,1.0,0.0,2018-2019,/en/players/66d0860c/Brugui,66d0860c,Gimnastic,648,7.2,1.0,0.0,64,1.0,4535,Gimnastic
+,Josua Mejías,ve VEN,DF,7,7,0.0,0.0,2018-2019,/en/players/f472365d/Josua-Mejias,f472365d,Gimnastic,630,7.0,2.0,0.0,64,53.0,2475,Gimnastic
+,Iván López,es ESP,"DF,MF",7,6,0.0,0.0,2018-2019,/en/players/576575e5/Ivan-Lopez,576575e5,Gimnastic,501,5.6,0.0,0.0,64,1.0,4167,Gimnastic
+,Antonio Cotán,es ESP,MF,10,5,0.0,0.0,2018-2019,/en/players/d92dd30e/Antonio-Cotan,d92dd30e,Gimnastic,466,5.2,2.0,0.0,64,1.0,1884,Gimnastic
+,Miguel Palanca,es ESP,MF,8,5,1.0,0.0,2018-2019,/en/players/005ade52/Miguel-Palanca,005ade52,Gimnastic,462,5.1,1.0,0.0,64,1.0,74,Gimnastic
+,Javier Jiménez,es ESP,"MF,DF",7,4,0.0,0.0,2018-2019,/en/players/d7af6f5b/Javier-Jimenez,d7af6f5b,Gimnastic,334,3.7,0.0,0.0,64,1.0,2495,Gimnastic
+,Josema,es ESP,DF,4,4,0.0,0.0,2018-2019,/en/players/ed3f5f4c/Josema,d3f5f4c,Gimnastic,279,3.1,1.0,0.0,64,1.0,2694,Gimnastic
+,Pol Valentín,es ESP,MF,10,3,0.0,0.0,2018-2019,/en/players/1043a909/Pol-Valentin,1043a909,Gimnastic,416,4.6,1.0,1.0,64,1.0,4533,Gimnastic
+,Berat Sadik,fi FIN,FW,11,3,0.0,1.0,2018-2019,/en/players/aed253e5/Berat-Sadik,d253e5,Gimnastic,384,4.3,1.0,0.0,64,83.0,4546,Gimnastic
+,Pol Prats Moragrega,es ESP,"MF,FW",4,3,1.0,1.0,2018-2019,/en/players/d5dcfafe/Pol-Prats-Moragrega,d5dcfafe,Gimnastic,260,2.9,1.0,0.0,64,1.0,4537,Gimnastic
+,Roger Figueras,es ESP,DF,3,3,0.0,0.0,2018-2019,/en/players/de6b6465/Roger-Figueras,de6b6465,Gimnastic,215,2.4,2.0,0.0,64,1.0,4536,Gimnastic
+,Ramiro Guerra,uy URU,MF,3,3,0.0,0.0,2018-2019,/en/players/07a0baa9/Ramiro-Guerra,07a0baa9,Gimnastic,209,2.3,0.0,0.0,64,8.0,2795,Gimnastic
+,Otar Kakabadze,ge GEO,DF,2,2,0.0,0.0,2018-2019,/en/players/2ea12fc4/Otar-Kakabadze,2ea12fc4,Gimnastic,180,2.0,0.0,0.0,64,76.0,4523,Gimnastic
+,César Arzo,es ESP,DF,2,2,0.0,0.0,2018-2019,/en/players/0ea37b10/Cesar-Arzo,0ea37b10,Gimnastic,118,1.3,0.0,1.0,64,1.0,2566,Gimnastic
+,Omar Perdomo,es ESP,MF,8,1,0.0,0.0,2018-2019,/en/players/5290eb66/Omar-Perdomo,5290eb66,Gimnastic,189,2.1,2.0,0.0,64,1.0,4530,Gimnastic
+,Abdelaziz Barrada,ma MAR,MF,4,1,0.0,0.0,2018-2019,/en/players/89dac314/Abdelaziz-Barrada,89dac314,Gimnastic,144,1.6,0.0,0.0,64,26.0,4033,Gimnastic
+,Nicolao Dumitru,it ITA,MF,3,1,0.0,0.0,2018-2019,/en/players/1a5d127b/Nicolao-Dumitru,1a5d127b,Gimnastic,115,1.3,1.0,0.0,64,9.0,4532,Gimnastic
+,Sergio Montero,es ESP,MF,1,1,1.0,0.0,2018-2019,/en/players/24c9f88d/Sergio-Montero,24c9f88d,Gimnastic,77,0.9,0.0,0.0,64,1.0,4547,Gimnastic
+,Nacho Abeledo,es ESP,MF,3,0,0.0,0.0,2018-2019,/en/players/5cd91b46/Nacho-Abeledo,5cd91b46,Gimnastic,70,0.8,0.0,0.0,64,1.0,4548,Gimnastic
+,Sergi Cardona,es ESP,DF,1,0,0.0,0.0,2018-2019,/en/players/74e90475/Sergi-Cardona,74e90475,Gimnastic,28,0.3,0.0,0.0,64,1.0,4549,Gimnastic
+,Sun Bernard,cn CHN,MF,2,0,0.0,0.0,2018-2019,/en/players/3b00fe89/Sun-Bernard,3b00fe89,Gimnastic,26,0.3,1.0,0.0,64,101.0,4550,Gimnastic
+,Bernat Guiu,ee EST,MF,0,0,,,2018-2019,/en/players/b3676a86/Bernat-Guiu,b3676a86,Gimnastic,,,,,64,58.0,4551,Gimnastic
+,Ivan Ruiz,es ESP,DF,0,0,,,2018-2019,/en/players/d51cc703/Ivan-Ruiz,d51cc703,Gimnastic,,,,,64,1.0,4539,Gimnastic
+,﻿Aythami Artiles,es ESP,DF,1,1,0.0,0.0,2021-2022,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Gimnastic,120.0,1.3,1.0,0.0,64,1.0,429,Gimnastic
+,Gonzi,es ESP,GK,1,1,0.0,0.0,2021-2022,/en/players/dcf342f2/Gonzi,dcf342f2,Gimnastic,120.0,1.3,0.0,0.0,64,1.0,4552,Gimnastic
+,Edgar Hernández,es ESP,FW,1,1,0.0,0.0,2021-2022,/en/players/3877d76f/Edgar-Hernandez,3877d76f,Gimnastic,120.0,1.3,1.0,0.0,64,1.0,4553,Gimnastic
+,Pedro,es ESP,MF,1,1,0.0,0.0,2021-2022,/en/players/2d7bb1c3/Pedro,2d7bb1c3,Gimnastic,120.0,1.3,0.0,0.0,64,1.0,4554,Gimnastic
+,Ribelles,es ESP,MF,1,1,0.0,0.0,2021-2022,/en/players/dc0f2b09/Ribelles,dc0f2b09,Gimnastic,120.0,1.3,0.0,0.0,64,1.0,4555,Gimnastic
+,Marc Trilles,es ESP,DF,1,1,0.0,0.0,2021-2022,/en/players/1da88678/Marc-Trilles,1da88678,Gimnastic,120.0,1.3,1.0,0.0,64,1.0,4556,Gimnastic
+,Javi Bonilla,es ESP,MF,1,1,0.0,0.0,2021-2022,/en/players/3d67cc6e/Javi-Bonilla,3d67cc6e,Gimnastic,71.0,0.8,0.0,0.0,64,1.0,4265,Gimnastic
+,Nil Jiménez,es ESP,DF,1,1,0.0,0.0,2021-2022,/en/players/6cfb56b6/Nil-Jimenez,6cfb56b6,Gimnastic,71.0,0.8,0.0,0.0,64,1.0,4557,Gimnastic
+,Fran Carbià,es ESP,MF,1,1,0.0,0.0,2021-2022,/en/players/0cd53332/Fran-Carbia,0cd53332,Gimnastic,60.0,0.7,0.0,0.0,64,1.0,4558,Gimnastic
+,Pol Domingo,es ESP,DF,1,1,0.0,0.0,2021-2022,/en/players/f44af8a9/Pol-Domingo,f44af8a9,Gimnastic,60.0,0.7,0.0,0.0,64,1.0,4559,Gimnastic
+,Robert Simón,es ESP,MF,1,1,0.0,0.0,2021-2022,/en/players/65bc4e48/Robert-Simon,65bc4e48,Gimnastic,31.0,0.3,0.0,0.0,64,1.0,4560,Gimnastic
+,Pol Ballesteros,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/5ea5d373/Pol-Ballesteros,5ea5d373,Gimnastic,89.0,1.0,1.0,0.0,64,1.0,4561,Gimnastic
+,Albarrán,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/fdaaeda4/Albarran,fdaaeda4,Gimnastic,60.0,0.7,0.0,0.0,64,1.0,4562,Gimnastic
+,Jannick,gq EQG,MF,1,0,0.0,0.0,2021-2022,/en/players/a0e315c6/Jannick,0e315c6,Gimnastic,49.0,0.5,0.0,0.0,64,10.0,3660,Gimnastic
+,Joan Oriol,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/7ccb2ef6/Joan-Oriol,7ccb2ef6,Gimnastic,49.0,0.5,1.0,0.0,64,1.0,1676,Gimnastic
+,Pedro Martín,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/99ee29b5/Pedro-Martin,99ee29b5,Gimnastic,30.0,0.3,1.0,0.0,64,1.0,2198,Gimnastic
+,Pol Prats Moragrega,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/d5dcfafe/Pol-Prats-Moragrega,d5dcfafe,Gimnastic,30.0,0.3,0.0,0.0,64,1.0,4537,Gimnastic
+,Pablo Fernández,es ESP,MF,0,0,,,2021-2022,/en/players/8825e1fc/Pablo-Fernandez,8825e1fc,Gimnastic,,,,,64,1.0,4563,Gimnastic
+,Fullana,es ESP,MF,0,0,,,2021-2022,/en/players/9bc61c29/Fullana,9bc61c29,Gimnastic,,,,,64,1.0,4564,Gimnastic
+,Manuel García,es ESP,GK,0,0,,,2021-2022,/en/players/9dc4e14e/Manuel-Garcia,9dc4e14e,Gimnastic,,,,,64,1.0,4565,Gimnastic
+,Alex Quintanilla,es ESP,DF,0,0,,,2021-2022,/en/players/6a2cf49f/Alex-Quintanilla,6a2cf49f,Gimnastic,,,,,64,1.0,4566,Gimnastic
+,Oscar Sanz,es ESP,MF,0,0,,,2021-2022,/en/players/89eeedf6/Oscar-Sanz,89eeedf6,Gimnastic,,,,,64,1.0,4567,Gimnastic

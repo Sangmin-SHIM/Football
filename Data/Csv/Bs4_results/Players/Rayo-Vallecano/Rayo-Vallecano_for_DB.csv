@@ -1,500 +1,500 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Patricio Graff,ar ARG,DF,34,34,1.0,0.0,2002-2003,b4a2cf8b,Rayo-Vallecano,"2,932",32.6,13.0,1.0,56.0,5.0,3402.0,Rayo-Vallecano
-,Roberto Peragón,es ESP,FW,36,31,1.0,4.0,2002-2003,c1dbaa18,Rayo-Vallecano,"2,749",30.5,10.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Míchel,es ESP,MF,29,27,5.0,2.0,2002-2003,19b3b837,Rayo-Vallecano,"2,411",26.8,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Imanol Etxeberria,es ESP,GK,27,27,0.0,0.0,2002-2003,4f6433c,Rayo-Vallecano,"2,364",26.3,1.0,0.0,56.0,1.0,3403.0,Rayo-Vallecano
-,Viktor Onopko,ru RUS,DF,28,26,1.0,1.0,2002-2003,bf6223cc,Rayo-Vallecano,"2,347",26.1,5.0,0.0,56.0,23.0,3404.0,Rayo-Vallecano
-,Mario Gómez Atanet,es ESP,DF,26,26,0.0,0.0,2002-2003,f8f74950,Rayo-Vallecano,"2,224",24.7,4.0,0.0,56.0,1.0,3405.0,Rayo-Vallecano
-,Ramón de Quintana,es ESP,DF,24,23,0.0,2.0,2002-2003,657ad2f1,Rayo-Vallecano,"2,056",22.8,10.0,0.0,56.0,1.0,3406.0,Rayo-Vallecano
-,Jorge Azkoitia,es ESP,MF,25,23,0.0,2.0,2002-2003,4ac3dade,Rayo-Vallecano,"1,902",21.1,9.0,2.0,56.0,1.0,3407.0,Rayo-Vallecano
-,Julio Álvarez,ve VEN,MF,26,23,3.0,8.0,2002-2003,17b1a0ee,Rayo-Vallecano,"1,765",19.6,1.0,0.0,56.0,53.0,,Rayo-Vallecano
-,Elvir Bolić,ba BIH,FW,32,21,1.0,3.0,2002-2003,779df1aa,Rayo-Vallecano,"1,977",22.0,4.0,0.0,56.0,49.0,3408.0,Rayo-Vallecano
-,Bolo,es ESP,FW,31,19,2.0,4.0,2002-2003,ca7589a9,Rayo-Vallecano,"1,775",19.7,4.0,0.0,56.0,1.0,3409.0,Rayo-Vallecano
-,Mami Quevedo,es ESP,MF,19,19,0.0,0.0,2002-2003,2c1d71b5,Rayo-Vallecano,"1,623",18.0,3.0,1.0,56.0,1.0,3410.0,Rayo-Vallecano
-,Sergio Corino,es ESP,DF,22,18,0.0,1.0,2002-2003,bc624052,Rayo-Vallecano,"1,632",18.1,7.0,1.0,56.0,1.0,3411.0,Rayo-Vallecano
-,Diego Mainz,es ESP,DF,18,18,0.0,0.0,2002-2003,95db62b7,Rayo-Vallecano,"1,563",17.4,4.0,0.0,56.0,1.0,3412.0,Rayo-Vallecano
-,Sergio Mora,es ESP,MF,21,15,1.0,0.0,2002-2003,f0a31c00,Rayo-Vallecano,"1,148",12.8,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Iriney,br BRA,MF,14,13,0.0,0.0,2002-2003,09296fcc,Rayo-Vallecano,"1,186",13.2,6.0,2.0,56.0,2.0,,Rayo-Vallecano
-,Sergio Segura,es ESP,GK,12,11,0.0,0.0,2002-2003,0cf1c41e,Rayo-Vallecano,"1,022",11.4,1.0,0.0,56.0,1.0,3413.0,Rayo-Vallecano
-,Pablo Sanz Iniesta,es ESP,MF,12,11,0.0,0.0,2002-2003,f56d83dd,Rayo-Vallecano,797,8.9,3.0,0.0,56.0,1.0,3414.0,Rayo-Vallecano
-,Mauro García,es ESP,DF,12,10,0.0,0.0,2002-2003,9171c383,Rayo-Vallecano,926,10.3,5.0,0.0,56.0,1.0,3415.0,Rayo-Vallecano
-,Hélder Baptista,pt POR,MF,10,8,0.0,0.0,2002-2003,d4a788b4,Rayo-Vallecano,674,7.5,2.0,0.0,56.0,3.0,3416.0,Rayo-Vallecano
-,Javier Dorado,es ESP,DF,12,6,0.0,0.0,2002-2003,1cfbd665,Rayo-Vallecano,719,8.0,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Luis Cembranos,es ESP,MF,18,3,1.0,3.0,2002-2003,bf313a5c,Rayo-Vallecano,652,7.2,3.0,0.0,56.0,1.0,3417.0,Rayo-Vallecano
-,Javier Camuñas,es ESP,"FW,MF",17,3,2.0,0.0,2002-2003,bbc1db07,Rayo-Vallecano,383,4.3,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Idan Tal,il ISR,MF,6,3,1.0,0.0,2002-2003,0c9029e5,Rayo-Vallecano,264,2.9,0.0,0.0,56.0,45.0,3418.0,Rayo-Vallecano
-,Fernando Marqués,es ESP,MF,10,0,0.0,0.0,2002-2003,71cccc52,Rayo-Vallecano,220,2.4,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Míchel,es ESP,FW,3,0,0.0,0.0,2002-2003,5f68b183,Rayo-Vallecano,122,1.4,0.0,0.0,56.0,1.0,3419.0,Rayo-Vallecano
-,Óscar Aparicio,,GK,1,0,0.0,0.0,2002-2003,11e7fc6,Rayo-Vallecano,34,0.4,0.0,0.0,56.0,,,Rayo-Vallecano
-,Carlos de la Vega,es ESP,DF,1,0,,0.0,2002-2003,c1763238,Rayo-Vallecano,4,0.0,0.0,0.0,56.0,1.0,3420.0,Rayo-Vallecano
-,﻿Bolo,es ESP,FW,41,38,3.0,9.0,2003-2004,ca7589a9,Rayo-Vallecano,"3,097",34.4,4.0,0.0,56.0,1.0,3409.0,Rayo-Vallecano
-,Iriney,br BRA,MF,37,36,0.0,0.0,2003-2004,09296fcc,Rayo-Vallecano,"3,166",35.2,11.0,4.0,56.0,2.0,,Rayo-Vallecano
-,Roberto Peragón,es ESP,FW,37,36,2.0,8.0,2003-2004,c1dbaa18,Rayo-Vallecano,"2,945",32.7,7.0,3.0,56.0,1.0,,Rayo-Vallecano
-,Rubén Pulido,es ESP,DF,34,33,0.0,4.0,2003-2004,3a8be98c,Rayo-Vallecano,"2,877",32.0,10.0,0.0,56.0,1.0,3421.0,Rayo-Vallecano
-,Mario Gómez Atanet,es ESP,DF,33,33,2.0,0.0,2003-2004,f8f74950,Rayo-Vallecano,"2,865",31.8,14.0,0.0,56.0,1.0,3405.0,Rayo-Vallecano
-,Ricardo Cavas,es ESP,DF,30,29,0.0,0.0,2003-2004,639b2723,Rayo-Vallecano,"2,502",27.8,17.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Pablo Sanz Iniesta,es ESP,MF,31,27,1.0,3.0,2003-2004,f56d83dd,Rayo-Vallecano,"2,139",23.8,6.0,1.0,56.0,1.0,3414.0,Rayo-Vallecano
-,Sergio Corino,es ESP,DF,26,26,0.0,0.0,2003-2004,bc624052,Rayo-Vallecano,"2,314",25.7,19.0,0.0,56.0,1.0,3411.0,Rayo-Vallecano
-,Jorge Azkoitia,es ESP,MF,28,22,1.0,3.0,2003-2004,4ac3dade,Rayo-Vallecano,"1,863",20.7,11.0,2.0,56.0,1.0,3407.0,Rayo-Vallecano
-,Leonardo Biagini,ar ARG,FW,28,20,2.0,6.0,2003-2004,44793331,Rayo-Vallecano,"1,823",20.3,2.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Sebastián Saja,ar ARG,GK,20,20,0.0,0.0,2003-2004,50a2cb6d,Rayo-Vallecano,"1,800",20.0,5.0,0.0,56.0,5.0,3422.0,Rayo-Vallecano
-,Paco,es ESP,DF,17,16,0.0,0.0,2003-2004,52392a7,Rayo-Vallecano,"1,466",16.3,2.0,0.0,56.0,1.0,3423.0,Rayo-Vallecano
-,Patricio Graff,ar ARG,DF,20,16,0.0,0.0,2003-2004,b4a2cf8b,Rayo-Vallecano,"1,404",15.6,12.0,2.0,56.0,5.0,3402.0,Rayo-Vallecano
-,Iñigo Idiakez,es ESP,"FW,MF",29,14,5.0,5.0,2003-2004,caf38c72,Rayo-Vallecano,"1,492",16.6,5.0,1.0,56.0,1.0,3424.0,Rayo-Vallecano
-,Sergio Segura,es ESP,GK,14,14,0.0,0.0,2003-2004,0cf1c41e,Rayo-Vallecano,"1,260",14.0,1.0,0.0,56.0,1.0,3413.0,Rayo-Vallecano
-,Fernando Marqués,es ESP,MF,25,12,1.0,2.0,2003-2004,71cccc52,Rayo-Vallecano,"1,374",15.3,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,David Palacios,es ESP,MF,12,12,1.0,0.0,2003-2004,8779db47,Rayo-Vallecano,845,9.4,3.0,0.0,56.0,1.0,3425.0,Rayo-Vallecano
-,Diego Mainz,es ESP,DF,11,10,0.0,0.0,2003-2004,95db62b7,Rayo-Vallecano,902,10.0,7.0,0.0,56.0,1.0,3412.0,Rayo-Vallecano
-,Hélder Baptista,pt POR,MF,15,10,1.0,0.0,2003-2004,d4a788b4,Rayo-Vallecano,891,9.9,2.0,0.0,56.0,3.0,3416.0,Rayo-Vallecano
-,Luis Cembranos,es ESP,MF,21,8,6.0,3.0,2003-2004,bf313a5c,Rayo-Vallecano,"1,000",11.1,7.0,0.0,56.0,1.0,3417.0,Rayo-Vallecano
-,Imanol Etxeberria,es ESP,GK,8,8,0.0,0.0,2003-2004,4f6433c,Rayo-Vallecano,720,8.0,0.0,0.0,56.0,1.0,3403.0,Rayo-Vallecano
-,Iván Ania,es ESP,MF,12,6,1.0,0.0,2003-2004,12d37503,Rayo-Vallecano,469,5.2,3.0,0.0,56.0,1.0,3426.0,Rayo-Vallecano
-,Roberto Fresnedoso,es ESP,MF,10,5,0.0,1.0,2003-2004,16cc4352,Rayo-Vallecano,471,5.2,3.0,0.0,56.0,1.0,3427.0,Rayo-Vallecano
-,Geni,es ESP,FW,29,3,1.0,0.0,2003-2004,2a46bc48,Rayo-Vallecano,829,9.2,1.0,0.0,56.0,1.0,3428.0,Rayo-Vallecano
-,Xavier Roca,es ESP,DF,3,3,0.0,0.0,2003-2004,d58118a4,Rayo-Vallecano,200,2.2,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Ivan Tomić,rs SRB,MF,5,2,0.0,0.0,2003-2004,dff4f3f2,Rayo-Vallecano,209,2.3,0.0,0.0,56.0,28.0,,Rayo-Vallecano
-,Jorge Valdivia,cl CHI,MF,5,2,0.0,0.0,2003-2004,11f1e522,Rayo-Vallecano,143,1.6,1.0,0.0,56.0,31.0,3429.0,Rayo-Vallecano
-,Albert Crusat,es ESP,"FW,MF",5,1,0.0,1.0,2003-2004,ba027002,Rayo-Vallecano,210,2.3,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,﻿David Cobeño,es ESP,GK,40,40,0.0,1.0,2008-2009,df7b0840,Rayo-Vallecano,"3,575",39.7,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Miguel Albiol,es ESP,MF,39,37,10.0,1.0,2008-2009,ca8aa471,Rayo-Vallecano,"3,258",36.2,14.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Mohamed Diamé,sn SEN,MF,35,34,0.0,2.0,2008-2009,b7d082af,Rayo-Vallecano,"2,954",32.8,11.0,1.0,56.0,34.0,3430.0,Rayo-Vallecano
-,Míchel,es ESP,MF,35,34,2.0,3.0,2008-2009,19b3b837,Rayo-Vallecano,"2,647",29.4,8.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Coke,es ESP,DF,33,32,0.0,3.0,2008-2009,6d8f8441,Rayo-Vallecano,"2,891",32.1,8.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Salva,es ESP,DF,32,32,0.0,1.0,2008-2009,dfbb5412,Rayo-Vallecano,"2,880",32.0,9.0,0.0,56.0,1.0,3431.0,Rayo-Vallecano
-,Jofre,es ESP,MF,33,28,7.0,3.0,2008-2009,90bf887c,Rayo-Vallecano,"2,228",24.8,8.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Manuel Tena,es ESP,DF,27,27,0.0,0.0,2008-2009,515e2eee,Rayo-Vallecano,"2,430",27.0,2.0,0.0,56.0,1.0,3432.0,Rayo-Vallecano
-,Piti,es ESP,"FW,MF",37,27,4.0,8.0,2008-2009,b530738,Rayo-Vallecano,"2,400",26.7,6.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,Sergio Pachón,es ESP,FW,38,26,3.0,9.0,2008-2009,85fca9,Rayo-Vallecano,"2,519",28.0,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Carlos Llorens,es ESP,DF,24,24,1.0,1.0,2008-2009,cc1c44b3,Rayo-Vallecano,"2,142",23.8,11.0,2.0,56.0,1.0,,Rayo-Vallecano
-,David Aganzo,es ESP,FW,30,24,1.0,12.0,2008-2009,97e3ba49,Rayo-Vallecano,"1,898",21.1,8.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Ximo Enguix,es ESP,MF,30,20,1.0,2.0,2008-2009,cfadea36,Rayo-Vallecano,"2,010",22.3,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Antonio Amaya,es ESP,DF,18,18,0.0,1.0,2008-2009,cfe5ba41,Rayo-Vallecano,"1,620",18.0,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Juan Collantes,es ESP,"FW,MF",32,18,1.0,4.0,2008-2009,d8d9186b,Rayo-Vallecano,"1,608",17.9,4.0,0.0,56.0,1.0,3434.0,Rayo-Vallecano
-,Carlos de la Vega,es ESP,DF,12,12,0.0,0.0,2008-2009,c1763238,Rayo-Vallecano,"1,019",11.3,1.0,0.0,56.0,1.0,3420.0,Rayo-Vallecano
-,Rubén Reyes,es ESP,MF,16,7,2.0,0.0,2008-2009,770a119c,Rayo-Vallecano,664,7.4,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,José Serrano,es ESP,DF,8,7,1.0,0.0,2008-2009,9bc30fb8,Rayo-Vallecano,621,6.9,2.0,0.0,56.0,1.0,3435.0,Rayo-Vallecano
-,David Sousa,es ESP,MF,17,4,0.0,1.0,2008-2009,292a8dbe,Rayo-Vallecano,638,7.1,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Yuma,es ESP,"DF,MF",12,3,0.0,0.0,2008-2009,ffc2f60e,Rayo-Vallecano,310,3.4,1.0,0.0,56.0,1.0,3436.0,Rayo-Vallecano
-,José Jesús Perera,es ESP,FW,15,2,1.0,3.0,2008-2009,39a1bc8,Rayo-Vallecano,452,5.0,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Manolo,es ESP,MF,14,2,1.0,0.0,2008-2009,10f05c4,Rayo-Vallecano,292,3.2,1.0,0.0,56.0,1.0,3437.0,Rayo-Vallecano
-,Rubén Falcón,es ESP,GK,2,2,0.0,0.0,2008-2009,bf651b09,Rayo-Vallecano,180,2.0,0.0,0.0,56.0,1.0,3438.0,Rayo-Vallecano
-,Juanma,es ESP,DF,3,2,0.0,0.0,2008-2009,396b863a,Rayo-Vallecano,169,1.9,1.0,0.0,56.0,1.0,3439.0,Rayo-Vallecano
-,Jorge Sáez,es ESP,MF,3,0,0.0,0.0,2008-2009,2c8f451b,Rayo-Vallecano,54,0.6,0.0,0.0,56.0,1.0,3440.0,Rayo-Vallecano
-,Alfonso Tete,,,1,0,0.0,0.0,2008-2009,,Rayo-Vallecano,25,0.3,0.0,0.0,56.0,,,Rayo-Vallecano
-,Borja García,es ESP,"FW,MF",1,0,0.0,0.0,2008-2009,7f4603c,Rayo-Vallecano,12,0.1,0.0,0.0,56.0,1.0,3441.0,Rayo-Vallecano
-,﻿José María Movilla,es ESP,MF,40,40,0.0,1.0,2009-2010,1ac170a8,Rayo-Vallecano,"3,423",38.0,8.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Rubén Castro,es ESP,"FW,MF",40,39,5.0,14.0,2009-2010,d109f62b,Rayo-Vallecano,"3,370",37.4,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Coke,es ESP,DF,35,35,1.0,8.0,2009-2010,6d8f8441,Rayo-Vallecano,"3,148",35.0,13.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Pelegrín,es ESP,DF,36,35,1.0,2.0,2009-2010,360782f,Rayo-Vallecano,"3,096",34.4,11.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Piti,es ESP,"FW,MF",35,31,4.0,7.0,2009-2010,b530738,Rayo-Vallecano,"2,609",29.0,9.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,Edu Albácar,es ESP,DF,30,29,7.0,2.0,2009-2010,fc8a84b8,Rayo-Vallecano,"2,485",27.6,13.0,1.0,56.0,1.0,,Rayo-Vallecano
-,David Cobeño,es ESP,GK,25,25,0.0,0.0,2009-2010,df7b0840,Rayo-Vallecano,"2,250",25.0,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Jofre,es ESP,MF,32,25,4.0,2.0,2009-2010,90bf887c,Rayo-Vallecano,"1,990",22.1,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Míchel,es ESP,MF,35,24,2.0,2.0,2009-2010,19b3b837,Rayo-Vallecano,"1,979",22.0,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Salva,es ESP,DF,24,22,1.0,0.0,2009-2010,dfbb5412,Rayo-Vallecano,"1,976",22.0,8.0,3.0,56.0,1.0,3431.0,Rayo-Vallecano
-,Néstor Susaeta,es ESP,"FW,MF",31,21,2.0,5.0,2009-2010,ff0c8ca6,Rayo-Vallecano,"1,846",20.5,4.0,0.0,56.0,1.0,3442.0,Rayo-Vallecano
-,Ángel Martínez,es ESP,MF,27,21,1.0,2.0,2009-2010,7eb2bab9,Rayo-Vallecano,"1,805",20.1,4.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Juan Quero,es ESP,MF,31,19,2.0,2.0,2009-2010,42107bed,Rayo-Vallecano,"1,747",19.4,2.0,0.0,56.0,1.0,3443.0,Rayo-Vallecano
-,Dani Giménez,es ESP,GK,17,17,0.0,0.0,2009-2010,7c218bf9,Rayo-Vallecano,"1,530",17.0,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Tito,es ESP,DF,17,15,3.0,1.0,2009-2010,7cefa219,Rayo-Vallecano,"1,363",15.1,7.0,1.0,56.0,1.0,3444.0,Rayo-Vallecano
-,José Serrano,es ESP,DF,12,12,0.0,0.0,2009-2010,9bc30fb8,Rayo-Vallecano,"1,080",12.0,4.0,0.0,56.0,1.0,3435.0,Rayo-Vallecano
-,Rafa García,es ESP,MF,24,11,1.0,1.0,2009-2010,bebdff6f,Rayo-Vallecano,"1,219",13.5,9.0,1.0,56.0,1.0,,Rayo-Vallecano
-,David Aganzo,es ESP,FW,19,10,2.0,9.0,2009-2010,97e3ba49,Rayo-Vallecano,900,10.0,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Pachón,es ESP,FW,27,8,2.0,4.0,2009-2010,85fca9,Rayo-Vallecano,960,10.7,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Manuel Tena,es ESP,DF,7,7,0.0,0.0,2009-2010,515e2eee,Rayo-Vallecano,630,7.0,2.0,0.0,56.0,1.0,3432.0,Rayo-Vallecano
-,Ibán Cuadrado,es ESP,DF,6,6,0.0,0.0,2009-2010,8db7ef49,Rayo-Vallecano,540,6.0,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Samuel Camille,mq MTQ,DF,4,4,0.0,0.0,2009-2010,5279c822,Rayo-Vallecano,360,4.0,2.0,0.0,56.0,104.0,3445.0,Rayo-Vallecano
-,Germán Pacheco,ar ARG,"FW,MF",9,2,1.0,1.0,2009-2010,4a8b43e0,Rayo-Vallecano,297,3.3,1.0,0.0,56.0,5.0,3446.0,Rayo-Vallecano
-,Rubén Reyes,es ESP,MF,9,1,1.0,1.0,2009-2010,770a119c,Rayo-Vallecano,276,3.1,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Alejandro Arribas,es ESP,DF,2,1,0.0,1.0,2009-2010,cc29324e,Rayo-Vallecano,135,1.5,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Jorge Sáez,es ESP,MF,1,1,0.0,0.0,2009-2010,2c8f451b,Rayo-Vallecano,90,1.0,0.0,0.0,56.0,1.0,3440.0,Rayo-Vallecano
-,Yuma,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,ffc2f60e,Rayo-Vallecano,59,0.7,0.0,0.0,56.0,1.0,3436.0,Rayo-Vallecano
-,Juan Collantes,es ESP,"FW,MF",4,0,0.0,0.0,2009-2010,d8d9186b,Rayo-Vallecano,70,0.8,0.0,0.0,56.0,1.0,3434.0,Rayo-Vallecano
-,Lucas Pérez,es ESP,"FW,MF",2,0,0.0,0.0,2009-2010,300ac7e,Rayo-Vallecano,49,0.5,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Daniel Provencio,es ESP,MF,3,0,0.0,0.0,2009-2010,998d51a2,Rayo-Vallecano,42,0.5,0.0,0.0,56.0,1.0,3447.0,Rayo-Vallecano
-,Nono,es ESP,MF,1,0,0.0,0.0,2009-2010,13289422,Rayo-Vallecano,15,0.2,0.0,0.0,56.0,1.0,3448.0,Rayo-Vallecano
-,﻿José María Movilla,es ESP,MF,41,39,4.0,2.0,2010-2011,1ac170a8,Rayo-Vallecano,"3,258",36.2,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Alejandro Arribas,es ESP,DF,38,38,0.0,0.0,2010-2011,cc29324e,Rayo-Vallecano,"3,414",37.9,11.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Coke,es ESP,DF,38,38,3.0,5.0,2010-2011,6d8f8441,Rayo-Vallecano,"3,368",37.4,5.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Óscar Trejo,ar ARG,"FW,MF",40,37,8.0,9.0,2010-2011,fc647b34,Rayo-Vallecano,"3,004",33.4,9.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Javi Fuego,es ESP,MF,37,36,5.0,1.0,2010-2011,2e8fc160,Rayo-Vallecano,"3,264",36.3,16.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Emiliano Armenteros,ar ARG,MF,37,36,4.0,20.0,2010-2011,66475fb9,Rayo-Vallecano,"3,221",35.8,11.0,1.0,56.0,5.0,,Rayo-Vallecano
-,José Manuel Casado,es ESP,DF,36,36,2.0,1.0,2010-2011,d0b6d20e,Rayo-Vallecano,"3,207",35.6,13.0,1.0,56.0,1.0,,Rayo-Vallecano
-,David Cobeño,es ESP,GK,34,34,0.0,0.0,2010-2011,df7b0840,Rayo-Vallecano,"3,060",34.0,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Antonio Amaya,es ESP,DF,28,28,0.0,0.0,2010-2011,cfe5ba41,Rayo-Vallecano,"2,442",27.1,15.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Piti,es ESP,"FW,MF",34,25,10.0,9.0,2010-2011,b530738,Rayo-Vallecano,"2,224",24.7,10.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,David Aganzo,es ESP,FW,23,18,1.0,7.0,2010-2011,97e3ba49,Rayo-Vallecano,"1,462",16.2,7.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Borja Gómez Pérez,es ESP,DF,14,14,0.0,1.0,2010-2011,95abfdfd,Rayo-Vallecano,"1,180",13.1,5.0,0.0,56.0,1.0,3449.0,Rayo-Vallecano
-,Borja García,es ESP,"FW,MF",26,12,0.0,2.0,2010-2011,7f4603c,Rayo-Vallecano,"1,086",12.1,1.0,0.0,56.0,1.0,3441.0,Rayo-Vallecano
-,Andrija Delibašić,me MNE,FW,30,11,4.0,7.0,2010-2011,4de03033,Rayo-Vallecano,"1,190",13.2,5.0,0.0,56.0,33.0,,Rayo-Vallecano
-,Míchel,es ESP,MF,20,9,2.0,2.0,2010-2011,19b3b837,Rayo-Vallecano,849,9.4,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Tito,es ESP,DF,10,9,0.0,1.0,2010-2011,7cefa219,Rayo-Vallecano,820,9.1,3.0,0.0,56.0,1.0,3444.0,Rayo-Vallecano
-,Rafa García,es ESP,MF,17,9,2.0,0.0,2010-2011,bebdff6f,Rayo-Vallecano,787,8.7,3.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Juli,es ESP,MF,27,8,1.0,1.0,2010-2011,f3541f8a,Rayo-Vallecano,904,10.0,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Dani Giménez,es ESP,GK,7,7,0.0,0.0,2010-2011,7c218bf9,Rayo-Vallecano,630,7.0,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Brayan Angulo,co COL,"DF,MF",4,4,0.0,0.0,2010-2011,f31b77b,Rayo-Vallecano,360,4.0,1.0,0.0,56.0,19.0,3450.0,Rayo-Vallecano
-,Lucas Pérez,es ESP,"FW,MF",5,4,0.0,1.0,2010-2011,300ac7e,Rayo-Vallecano,276,3.1,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Néstor Susaeta,es ESP,"FW,MF",14,3,1.0,3.0,2010-2011,ff0c8ca6,Rayo-Vallecano,484,5.4,1.0,0.0,56.0,1.0,3442.0,Rayo-Vallecano
-,Yuma,es ESP,"DF,MF",7,3,0.0,0.0,2010-2011,ffc2f60e,Rayo-Vallecano,344,3.8,5.0,0.0,56.0,1.0,3436.0,Rayo-Vallecano
-,José Manuel Alcañiz,es ESP,DF,2,2,0.0,0.0,2010-2011,6e33030c,Rayo-Vallecano,149,1.7,0.0,1.0,56.0,1.0,3451.0,Rayo-Vallecano
-,Carlos de la Vega,es ESP,DF,5,1,0.0,0.0,2010-2011,c1763238,Rayo-Vallecano,127,1.4,0.0,0.0,56.0,1.0,3420.0,Rayo-Vallecano
-,Juan Carlos,es ESP,GK,1,1,0.0,0.0,2010-2011,688b96e3,Rayo-Vallecano,90,1.0,0.0,0.0,56.0,1.0,3452.0,Rayo-Vallecano
-,Daniel Provencio,es ESP,MF,7,0,0.0,0.0,2010-2011,998d51a2,Rayo-Vallecano,73,0.8,1.0,0.0,56.0,1.0,3447.0,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",4,0,0.0,0.0,2010-2011,740f39d4,Rayo-Vallecano,69,0.8,0.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Diego Benito Rey,es ESP,MF,2,0,0.0,0.0,2010-2011,049c2adb,Rayo-Vallecano,37,0.4,0.0,0.0,56.0,1.0,3454.0,Rayo-Vallecano
-,﻿Michu,es ESP,"FW,MF",37,37,3.0,15.0,2011-2012,98429b7b,Rayo-Vallecano,"3,280",36.4,9.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Tito,es ESP,DF,36,36,2.0,1.0,2011-2012,7cefa219,Rayo-Vallecano,"3,158",35.1,11.0,0.0,56.0,1.0,3444.0,Rayo-Vallecano
-,José María Movilla,es ESP,MF,38,36,3.0,2.0,2011-2012,1ac170a8,Rayo-Vallecano,"2,784",30.9,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Alejandro Arribas,es ESP,DF,34,34,0.0,1.0,2011-2012,cc29324e,Rayo-Vallecano,"2,992",33.2,17.0,0.0,56.0,1.0,,Rayo-Vallecano
-,José Manuel Casado,es ESP,DF,32,32,1.0,0.0,2011-2012,d0b6d20e,Rayo-Vallecano,"2,768",30.8,17.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Javi Fuego,es ESP,MF,31,31,0.0,0.0,2011-2012,2e8fc160,Rayo-Vallecano,"2,740",30.4,8.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Piti,es ESP,"FW,MF",35,29,4.0,3.0,2011-2012,b530738,Rayo-Vallecano,"2,358",26.2,6.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,Roberto Trashorras,es ESP,MF,29,18,5.0,2.0,2011-2012,5252fdf5,Rayo-Vallecano,"1,672",18.6,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Raúl Tamudo,es ESP,FW,32,17,1.0,9.0,2011-2012,c026089c,Rayo-Vallecano,"1,623",18.0,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Jordi,es ESP,DF,17,17,0.0,0.0,2011-2012,744a8a7c,Rayo-Vallecano,"1,530",17.0,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",28,15,0.0,3.0,2011-2012,740f39d4,Rayo-Vallecano,"1,559",17.3,7.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Diego Costa,es ESP,FW,16,15,4.0,9.0,2011-2012,190d597,Rayo-Vallecano,"1,310",14.6,9.0,0.0,56.0,1.0,,Rayo-Vallecano
-,David Cobeño,es ESP,GK,15,14,0.0,0.0,2011-2012,df7b0840,Rayo-Vallecano,"1,297",14.4,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Joel Robles,es ESP,GK,13,13,0.0,0.0,2011-2012,cda0b317,Rayo-Vallecano,"1,170",13.0,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Jorge Pulido,es ESP,DF,14,13,0.0,0.0,2011-2012,978cd030,Rayo-Vallecano,"1,129",12.5,8.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Emiliano Armenteros,ar ARG,MF,13,12,0.0,2.0,2011-2012,66475fb9,Rayo-Vallecano,984,10.9,1.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Mikel Labaka,es ESP,DF,13,12,0.0,1.0,2011-2012,83de90d,Rayo-Vallecano,981,10.9,0.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Dani Giménez,es ESP,GK,11,11,0.0,0.0,2011-2012,7c218bf9,Rayo-Vallecano,953,10.6,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Pedro Botelho,br BRA,"DF,MF",11,8,1.0,1.0,2011-2012,1f933029,Rayo-Vallecano,710,7.9,4.0,1.0,56.0,2.0,,Rayo-Vallecano
-,Andrija Delibašić,me MNE,FW,19,5,0.0,1.0,2011-2012,4de03033,Rayo-Vallecano,625,6.9,3.0,0.0,56.0,33.0,,Rayo-Vallecano
-,Raúl Bravo,es ESP,DF,6,5,1.0,0.0,2011-2012,65b9e56b,Rayo-Vallecano,394,4.4,0.0,0.0,56.0,1.0,20.0,Rayo-Vallecano
-,Pape Maly Diamanka,sn SEN,MF,7,2,0.0,0.0,2011-2012,5d289e13,Rayo-Vallecano,293,3.3,2.0,0.0,56.0,34.0,3455.0,Rayo-Vallecano
-,Míchel,es ESP,MF,9,2,1.0,0.0,2011-2012,19b3b837,Rayo-Vallecano,251,2.8,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Rober Correa,es ESP,DF,2,2,0.0,0.0,2011-2012,46bd3a5b,Rayo-Vallecano,89,1.0,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Rayco García Dauta,es ESP,FW,6,1,0.0,0.0,2011-2012,018ce429,Rayo-Vallecano,217,2.4,1.0,0.0,56.0,1.0,3456.0,Rayo-Vallecano
-,Rafa García,es ESP,MF,4,1,0.0,0.0,2011-2012,bebdff6f,Rayo-Vallecano,150,1.7,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Daniel Pacheco,es ESP,"FW,MF",11,0,0.0,0.0,2011-2012,5b2a4b8d,Rayo-Vallecano,284,3.2,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Koke,es ESP,FW,5,0,0.0,1.0,2011-2012,9ce4fff8,Rayo-Vallecano,146,1.6,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Aitor Núñez,es ESP,DF,1,0,0.0,0.0,2011-2012,511e3986,Rayo-Vallecano,63,0.7,0.0,0.0,56.0,1.0,3457.0,Rayo-Vallecano
-,Diego Benito Rey,es ESP,MF,4,0,0.0,0.0,2011-2012,049c2adb,Rayo-Vallecano,40,0.4,0.0,0.0,56.0,1.0,3454.0,Rayo-Vallecano
-,Néstor Susaeta,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,ff0c8ca6,Rayo-Vallecano,25,0.3,0.0,0.0,56.0,1.0,3442.0,Rayo-Vallecano
-,Alberto Perea,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,5496cc91,Rayo-Vallecano,12,0.1,0.0,0.0,56.0,1.0,3458.0,Rayo-Vallecano
-,﻿Javi Fuego,es ESP,MF,36,36,1.0,0.0,2012-2013,2e8fc160,Rayo-Vallecano,"3,209",35.7,14.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Piti,es ESP,"FW,MF",35,33,2.0,18.0,2012-2013,b530738,Rayo-Vallecano,"2,808",31.2,9.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,Chori Domínguez,ar ARG,"FW,MF",33,32,4.0,5.0,2012-2013,bbb66f34,Rayo-Vallecano,"2,695",29.9,12.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Tito,es ESP,DF,33,31,0.0,1.0,2012-2013,7cefa219,Rayo-Vallecano,"2,744",30.5,9.0,0.0,56.0,1.0,3444.0,Rayo-Vallecano
-,Roberto Trashorras,es ESP,MF,35,31,4.0,1.0,2012-2013,5252fdf5,Rayo-Vallecano,"2,727",30.3,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Rubén,es ESP,GK,30,29,0.0,0.0,2012-2013,24279b8b,Rayo-Vallecano,"2,614",29.0,8.0,1.0,56.0,1.0,,Rayo-Vallecano
-,José Manuel Casado,es ESP,DF,28,28,4.0,0.0,2012-2013,d0b6d20e,Rayo-Vallecano,"2,270",25.2,12.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Léo Baptistão,br BRA,"FW,MF",28,26,7.0,7.0,2012-2013,35f6db55,Rayo-Vallecano,"2,238",24.9,5.0,0.0,56.0,2.0,,Rayo-Vallecano
-,Jordi Amat,es ESP,DF,27,26,0.0,1.0,2012-2013,d70a2141,Rayo-Vallecano,"2,193",24.4,12.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Álex Gálvez,es ESP,"DF,MF",28,24,0.0,0.0,2012-2013,960fb42d,Rayo-Vallecano,"2,246",25.0,12.0,1.0,56.0,1.0,3459.0,Rayo-Vallecano
-,José Carlos,es ESP,"FW,MF",32,21,1.0,2.0,2012-2013,6738f3c6,Rayo-Vallecano,"2,118",23.5,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",32,20,5.0,3.0,2012-2013,740f39d4,Rayo-Vallecano,"1,772",19.7,6.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Jordi,es ESP,DF,14,13,0.0,0.0,2012-2013,744a8a7c,Rayo-Vallecano,"1,183",13.1,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Andrija Delibašić,me MNE,FW,32,11,1.0,6.0,2012-2013,4de03033,Rayo-Vallecano,"1,284",14.3,6.0,0.0,56.0,33.0,,Rayo-Vallecano
-,Adrián González,es ESP,MF,21,8,1.0,0.0,2012-2013,57ebd662,Rayo-Vallecano,806,9.0,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Anaitz Arbilla,es ESP,DF,11,8,0.0,0.0,2012-2013,850c0a0d,Rayo-Vallecano,788,8.8,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Nacho,es ESP,DF,10,8,0.0,1.0,2012-2013,29d1111,Rayo-Vallecano,753,8.4,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Franco Vázquez,ar ARG,"FW,MF",18,8,0.0,3.0,2012-2013,467bae22,Rayo-Vallecano,748,8.3,2.0,0.0,56.0,5.0,,Rayo-Vallecano
-,David Cobeño,es ESP,GK,8,8,0.0,0.0,2012-2013,df7b0840,Rayo-Vallecano,695,7.7,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Mikel Labaka,es ESP,DF,10,7,0.0,0.0,2012-2013,83de90d,Rayo-Vallecano,648,7.2,4.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Nicki Bille Nielsen,dk DEN,FW,9,4,0.0,0.0,2012-2013,c0a57418,Rayo-Vallecano,397,4.4,1.0,0.0,56.0,7.0,,Rayo-Vallecano
-,Rodri,es ESP,DF,4,3,0.0,0.0,2012-2013,7fa4aa89,Rayo-Vallecano,211,2.3,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Alberto Perea,es ESP,"FW,MF",4,1,0.0,0.0,2012-2013,5496cc91,Rayo-Vallecano,142,1.6,0.0,0.0,56.0,1.0,3458.0,Rayo-Vallecano
-,Dani Giménez,es ESP,GK,2,1,0.0,0.0,2012-2013,7c218bf9,Rayo-Vallecano,111,1.2,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Mohammed Abu,gh GHA,"FW,MF",1,1,0.0,0.0,2012-2013,c1f17b17,Rayo-Vallecano,56,0.6,0.0,0.0,56.0,17.0,3460.0,Rayo-Vallecano
-,Raúl Tamudo,es ESP,FW,4,0,0.0,1.0,2012-2013,c026089c,Rayo-Vallecano,63,0.7,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Rubén Ramiro,es ESP,FW,1,0,0.0,0.0,2012-2013,9de36b0a,Rayo-Vallecano,29,0.3,0.0,0.0,56.0,1.0,3461.0,Rayo-Vallecano
-,Manuel Arana,es ESP,MF,2,0,0.0,0.0,2012-2013,81fac4d9,Rayo-Vallecano,17,0.2,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Isaac Gómez,es ESP,MF,1,0,0.0,0.0,2012-2013,2f235f73,Rayo-Vallecano,8,0.1,0.0,0.0,56.0,1.0,3462.0,Rayo-Vallecano
-,﻿Roberto Trashorras,es ESP,MF,37,36,8.0,1.0,2013-2014,5252fdf5,Rayo-Vallecano,"3,144",34.9,7.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Saúl Ñíguez,es ESP,"DF,MF",34,34,1.0,2.0,2013-2014,c14bc029,Rayo-Vallecano,"3,003",33.4,13.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Rubén,es ESP,GK,34,34,0.0,0.0,2013-2014,24279b8b,Rayo-Vallecano,"2,994",33.3,2.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Alberto Bueno,es ESP,"FW,MF",37,31,4.0,11.0,2013-2014,9b878773,Rayo-Vallecano,"2,475",27.5,3.0,0.0,56.0,1.0,78.0,Rayo-Vallecano
-,Anaitz Arbilla,es ESP,DF,30,26,0.0,1.0,2013-2014,850c0a0d,Rayo-Vallecano,"2,382",26.5,9.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Álex Gálvez,es ESP,"DF,MF",26,26,1.0,2.0,2013-2014,960fb42d,Rayo-Vallecano,"2,209",24.5,14.0,1.0,56.0,1.0,3459.0,Rayo-Vallecano
-,Iago Falque,es ESP,"FW,MF",28,26,2.0,3.0,2013-2014,440c84ed,Rayo-Vallecano,"1,972",21.9,2.0,0.0,56.0,1.0,3463.0,Rayo-Vallecano
-,Joaquín Larrivey,ar ARG,FW,35,24,4.0,12.0,2013-2014,7ae94e67,Rayo-Vallecano,"2,417",26.9,4.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Tito,es ESP,DF,24,22,1.0,0.0,2013-2014,7cefa219,Rayo-Vallecano,"1,882",20.9,6.0,0.0,56.0,1.0,3444.0,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",28,19,0.0,0.0,2013-2014,740f39d4,Rayo-Vallecano,"1,785",19.8,4.0,1.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Zé Castro,pt POR,DF,19,19,0.0,0.0,2013-2014,2434db,Rayo-Vallecano,"1,700",18.9,5.0,0.0,56.0,3.0,,Rayo-Vallecano
-,Nacho,es ESP,DF,23,19,1.0,0.0,2013-2014,29d1111,Rayo-Vallecano,"1,683",18.7,7.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Jonathan Viera,es ESP,"FW,MF",26,18,7.0,5.0,2013-2014,fa708aa,Rayo-Vallecano,"1,730",19.2,3.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Raúl Baena,es ESP,MF,20,15,0.0,0.0,2013-2014,df9c9276,Rayo-Vallecano,"1,222",13.6,4.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Rubén Rochina,es ESP,"FW,MF",17,15,0.0,3.0,2013-2014,cd8c01e,Rayo-Vallecano,"1,097",12.2,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Adrián González,es ESP,MF,17,10,0.0,1.0,2013-2014,57ebd662,Rayo-Vallecano,982,10.9,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Răzvan Raț,ro ROU,DF,10,9,0.0,0.0,2013-2014,0a0ee36e,Rayo-Vallecano,836,9.3,1.0,1.0,56.0,51.0,3464.0,Rayo-Vallecano
-,Johan Mojica,co COL,"DF,MF",12,7,0.0,0.0,2013-2014,608f2092,Rayo-Vallecano,741,8.2,2.0,0.0,56.0,19.0,,Rayo-Vallecano
-,Leonel Galeano,ar ARG,DF,7,7,0.0,0.0,2013-2014,53144c79,Rayo-Vallecano,486,5.4,4.0,0.0,56.0,5.0,3465.0,Rayo-Vallecano
-,Nery Castillo,mx MEX,"DF,FW",11,5,0.0,2.0,2013-2014,bb34761d,Rayo-Vallecano,456,5.1,0.0,0.0,56.0,20.0,3466.0,Rayo-Vallecano
-,Alberto Perea,es ESP,"FW,MF",8,5,0.0,1.0,2013-2014,5496cc91,Rayo-Vallecano,432,4.8,0.0,0.0,56.0,1.0,3458.0,Rayo-Vallecano
-,David Cobeño,es ESP,GK,5,4,0.0,0.0,2013-2014,df7b0840,Rayo-Vallecano,426,4.7,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Borja López,es ESP,DF,3,3,0.0,0.0,2013-2014,d02d04ea,Rayo-Vallecano,192,2.1,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Seba Fernández,uy URU,FW,9,2,0.0,1.0,2013-2014,8ea14d54,Rayo-Vallecano,303,3.4,0.0,0.0,56.0,8.0,,Rayo-Vallecano
-,José Carlos,es ESP,"FW,MF",3,1,0.0,0.0,2013-2014,6738f3c6,Rayo-Vallecano,126,1.4,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Rodri,es ESP,DF,1,1,0.0,0.0,2013-2014,7fa4aa89,Rayo-Vallecano,90,1.0,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Adri Embarba,es ESP,"FW,MF",11,0,1.0,0.0,2013-2014,db8f0eba,Rayo-Vallecano,351,3.9,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Samuele Longo,it ITA,FW,9,0,0.0,0.0,2013-2014,1163de29,Rayo-Vallecano,136,1.5,1.0,0.0,56.0,9.0,,Rayo-Vallecano
-,Christian Cueva,pe PER,MF,1,0,0.0,0.0,2013-2014,57376761,Rayo-Vallecano,29,0.3,0.0,0.0,56.0,57.0,3467.0,Rayo-Vallecano
-,Rubén Ramiro,es ESP,FW,1,0,0.0,0.0,2013-2014,9de36b0a,Rayo-Vallecano,9,0.1,0.0,0.0,56.0,1.0,3461.0,Rayo-Vallecano
-,﻿Gaël Kakuta,cd COD,"FW,MF",35,35,7.0,5.0,2014-2015,5b1bf5e3,Rayo-Vallecano,"3,053",33.9,1.0,0.0,56.0,50.0,,Rayo-Vallecano
-,Alberto Bueno,es ESP,"FW,MF",36,35,4.0,17.0,2014-2015,9b878773,Rayo-Vallecano,"2,864",31.8,4.0,0.0,56.0,1.0,78.0,Rayo-Vallecano
-,Roberto Trashorras,es ESP,MF,33,33,4.0,1.0,2014-2015,5252fdf5,Rayo-Vallecano,"2,883",32.0,11.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Tito,es ESP,DF,33,31,2.0,0.0,2014-2015,7cefa219,Rayo-Vallecano,"2,838",31.5,11.0,1.0,56.0,1.0,3444.0,Rayo-Vallecano
-,Zé Castro,pt POR,DF,28,28,3.0,0.0,2014-2015,2434db,Rayo-Vallecano,"2,409",26.8,6.0,0.0,56.0,3.0,,Rayo-Vallecano
-,Raúl Baena,es ESP,MF,28,28,0.0,2.0,2014-2015,df9c9276,Rayo-Vallecano,"2,330",25.9,14.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Léo Baptistão,br BRA,"FW,MF",25,22,1.0,7.0,2014-2015,35f6db55,Rayo-Vallecano,"1,776",19.7,3.0,0.0,56.0,2.0,,Rayo-Vallecano
-,Emiliano Insúa,ar ARG,DF,24,21,1.0,1.0,2014-2015,f3cccffe,Rayo-Vallecano,"1,798",20.0,7.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Toño,es ESP,GK,21,20,0.0,0.0,2014-2015,2ed4ea81,Rayo-Vallecano,"1,724",19.2,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Abdoulaye Ba,sn SEN,DF,20,20,0.0,0.0,2014-2015,1f54ed90,Rayo-Vallecano,"1,609",17.9,10.0,0.0,56.0,34.0,3468.0,Rayo-Vallecano
-,Antonio Amaya,es ESP,DF,19,19,0.0,1.0,2014-2015,cfe5ba41,Rayo-Vallecano,"1,587",17.6,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Licá,pt POR,"FW,MF",21,17,3.0,0.0,2014-2015,41d84fed,Rayo-Vallecano,"1,294",14.4,2.0,0.0,56.0,3.0,3469.0,Rayo-Vallecano
-,Cristian Álvarez,ar ARG,GK,17,16,0.0,0.0,2014-2015,87e89eb4,Rayo-Vallecano,"1,440",16.0,2.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Javier Aquino,mx MEX,"DF,MF",24,13,2.0,0.0,2014-2015,215104cc,Rayo-Vallecano,"1,270",14.1,2.0,2.0,56.0,20.0,,Rayo-Vallecano
-,Manucho,ao ANG,FW,37,12,1.0,5.0,2014-2015,89b18034,Rayo-Vallecano,"1,651",18.3,5.0,0.0,56.0,48.0,,Rayo-Vallecano
-,Nacho,es ESP,DF,13,11,1.0,0.0,2014-2015,29d1111,Rayo-Vallecano,936,10.4,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Jozabed,es ESP,MF,23,10,1.0,1.0,2014-2015,9b337c7c,Rayo-Vallecano,"1,185",13.2,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Quini,es ESP,"DF,MF",17,10,0.0,0.0,2014-2015,7a538238,Rayo-Vallecano,"1,156",12.8,5.0,0.0,56.0,1.0,3470.0,Rayo-Vallecano
-,Adri Embarba,es ESP,"FW,MF",14,9,3.0,3.0,2014-2015,db8f0eba,Rayo-Vallecano,836,9.3,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Mohammed Fatau,gh GHA,MF,10,9,0.0,0.0,2014-2015,b4dd30a0,Rayo-Vallecano,699,7.8,4.0,0.0,56.0,17.0,3471.0,Rayo-Vallecano
-,Jorge Morcillo,es ESP,DF,13,7,0.0,1.0,2014-2015,bbbf1dd,Rayo-Vallecano,744,8.3,4.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Álex Moreno,es ESP,"DF,MF",11,4,0.0,0.0,2014-2015,16e9d0ea,Rayo-Vallecano,463,5.1,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Alejandro Pozuelo,es ESP,"FW,MF",11,3,0.0,0.0,2014-2015,5e1280ff,Rayo-Vallecano,434,4.8,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,David Cobeño,es ESP,GK,3,2,0.0,0.0,2014-2015,df7b0840,Rayo-Vallecano,246,2.7,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Miku,ve VEN,FW,7,2,0.0,2.0,2014-2015,4eba9598,Rayo-Vallecano,227,2.5,0.0,0.0,56.0,53.0,,Rayo-Vallecano
-,Jonathan Pereira,es ESP,FW,3,1,0.0,0.0,2014-2015,806ab4b6,Rayo-Vallecano,116,1.3,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",1,0,0.0,0.0,2014-2015,740f39d4,Rayo-Vallecano,16,0.2,0.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Pablo Clavería,es ESP,MF,1,0,0.0,0.0,2014-2015,1624d75b,Rayo-Vallecano,11,0.1,0.0,0.0,56.0,1.0,3472.0,Rayo-Vallecano
-,Álex Campos,es ESP,GK,0,0,,,2014-2015,24ad632c,Rayo-Vallecano,,,,,56.0,1.0,3473.0,Rayo-Vallecano
-,﻿Roberto Trashorras,es ESP,MF,36,35,7.0,2.0,2015-2016,5252fdf5,Rayo-Vallecano,"3,116",34.6,10.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Diego Llorente,es ESP,"DF,MF",33,33,0.0,2.0,2015-2016,bba30585,Rayo-Vallecano,"2,874",31.9,10.0,1.0,56.0,1.0,114.0,Rayo-Vallecano
-,Tito,es ESP,DF,29,29,4.0,1.0,2015-2016,7cefa219,Rayo-Vallecano,"2,483",27.6,6.0,2.0,56.0,1.0,3444.0,Rayo-Vallecano
-,Bebé,cv CPV,MF,34,27,7.0,3.0,2015-2016,d8712bf9,Rayo-Vallecano,"2,237",24.9,3.0,0.0,56.0,85.0,3484.0,Rayo-Vallecano
-,Jozabed,es ESP,MF,27,24,2.0,10.0,2015-2016,9b337c7c,Rayo-Vallecano,"2,059",22.9,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Pablo Hernández,es ESP,MF,27,24,4.0,3.0,2015-2016,c0398aca,Rayo-Vallecano,"1,908",21.2,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Javi Guerra,es ESP,FW,30,23,0.0,12.0,2015-2016,386464,Rayo-Vallecano,"2,090",23.2,8.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Quini,es ESP,DF,27,22,2.0,0.0,2015-2016,7a538238,Rayo-Vallecano,"2,049",22.8,7.0,0.0,56.0,1.0,3470.0,Rayo-Vallecano
-,Raúl Baena,es ESP,MF,24,22,1.0,1.0,2015-2016,df9c9276,Rayo-Vallecano,"1,836",20.4,12.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Zé Castro,pt POR,DF,22,22,0.0,2.0,2015-2016,2434db,Rayo-Vallecano,"1,714",19.0,8.0,1.0,56.0,3.0,,Rayo-Vallecano
-,Nacho,es ESP,DF,22,22,0.0,0.0,2015-2016,29d1111,Rayo-Vallecano,"1,706",19.0,7.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Adri Embarba,es ESP,MF,28,19,3.0,2.0,2015-2016,db8f0eba,Rayo-Vallecano,"1,832",20.4,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Juan Carlos,es ESP,GK,21,19,0.0,0.0,2015-2016,688b96e3,Rayo-Vallecano,"1,803",20.0,1.0,0.0,56.0,1.0,3452.0,Rayo-Vallecano
-,Miku,ve VEN,"FW,MF",22,18,4.0,9.0,2015-2016,4eba9598,Rayo-Vallecano,"1,545",17.2,4.0,0.0,56.0,53.0,,Rayo-Vallecano
-,Antonio Amaya,es ESP,DF,17,10,1.0,1.0,2015-2016,cfe5ba41,Rayo-Vallecano,"1,033",11.5,6.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Toño,es ESP,GK,10,10,0.0,0.0,2015-2016,2ed4ea81,Rayo-Vallecano,806,9.0,0.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Yoel,es ESP,GK,9,9,0.0,0.0,2015-2016,61bb7498,Rayo-Vallecano,810,9.0,1.0,1.0,56.0,1.0,,Rayo-Vallecano
-,José Ángel Crespo,es ESP,DF,9,9,0.0,0.0,2015-2016,8ec4c2f7,Rayo-Vallecano,715,7.9,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Răzvan Raț,ro ROU,DF,10,8,0.0,0.0,2015-2016,0a0ee36e,Rayo-Vallecano,736,8.2,3.0,0.0,56.0,51.0,3464.0,Rayo-Vallecano
-,Lass Bangoura,gn GUI,MF,16,7,1.0,0.0,2015-2016,740f39d4,Rayo-Vallecano,805,8.9,2.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Patrick Ebert,de GER,MF,9,7,0.0,0.0,2015-2016,92d24319,Rayo-Vallecano,555,6.2,3.0,1.0,56.0,13.0,,Rayo-Vallecano
-,Manucho,ao ANG,FW,28,5,1.0,4.0,2015-2016,89b18034,Rayo-Vallecano,949,10.5,3.0,0.0,56.0,48.0,,Rayo-Vallecano
-,Chechu,es ESP,DF,10,4,0.0,0.0,2015-2016,98f3a6a,Rayo-Vallecano,470,5.2,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Manuel Iturra,cl CHI,MF,6,4,0.0,0.0,2015-2016,000b3da6,Rayo-Vallecano,383,4.3,2.0,1.0,56.0,31.0,,Rayo-Vallecano
-,Piti,es ESP,MF,8,4,0.0,0.0,2015-2016,b530738,Rayo-Vallecano,337,3.7,1.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,Joni Montiel,es ESP,MF,8,1,0.0,0.0,2015-2016,535771bb,Rayo-Vallecano,215,2.4,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Aras Özbiliz,am ARM,MF,3,1,1.0,0.0,2015-2016,5c081e18,Rayo-Vallecano,100,1.1,1.0,0.0,56.0,105.0,3474.0,Rayo-Vallecano
-,Luis Fariña,ar ARG,"FW,MF",3,0,0.0,0.0,2015-2016,2a8b21d4,Rayo-Vallecano,55,0.6,0.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Zhang Chengdong,cn CHN,"DF,FW",1,0,0.0,0.0,2015-2016,891016f1,Rayo-Vallecano,9,0.1,0.0,0.0,56.0,101.0,3475.0,Rayo-Vallecano
-,Sergio Akieme,es ESP,DF,0,0,,,2015-2016,06efa9dc,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,Álex Campos,es ESP,GK,0,0,,,2015-2016,24ad632c,Rayo-Vallecano,,,,,56.0,1.0,3473.0,Rayo-Vallecano
-,Ousseynou Cissé,ml MLI,"DF,MF",0,0,,,2015-2016,d42d12b7,Rayo-Vallecano,,,,,56.0,12.0,3476.0,Rayo-Vallecano
-,Pablo Clavería,es ESP,MF,0,0,,,2015-2016,1624d75b,Rayo-Vallecano,,,,,56.0,1.0,3472.0,Rayo-Vallecano
-,David Cobeño,es ESP,GK,0,0,,,2015-2016,df7b0840,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,Juancho,co COL,FW,0,0,,,2015-2016,c81ad5b,Rayo-Vallecano,,,,,56.0,19.0,3477.0,Rayo-Vallecano
-,﻿Paulo Gazzaniga,ar ARG,GK,32,32,0.0,0.0,2016-2017,63d17038,Rayo-Vallecano,"2,880",32.0,6.0,0.0,56.0,5.0,3478.0,Rayo-Vallecano
-,Antonio Amaya,es ESP,DF,32,32,1.0,2.0,2016-2017,cfe5ba41,Rayo-Vallecano,"2,816",31.3,14.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Roberto Trashorras,es ESP,MF,34,32,1.0,1.0,2016-2017,5252fdf5,Rayo-Vallecano,"2,699",30.0,10.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Adri Embarba,es ESP,MF,33,31,4.0,7.0,2016-2017,db8f0eba,Rayo-Vallecano,"2,683",29.8,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Álex Moreno,es ESP,"DF,MF",37,29,3.0,4.0,2016-2017,16e9d0ea,Rayo-Vallecano,"2,689",29.9,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Javi Guerra,es ESP,FW,34,27,3.0,9.0,2016-2017,386464,Rayo-Vallecano,"2,329",25.9,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Patrick Ebert,de GER,MF,27,26,4.0,5.0,2016-2017,92d24319,Rayo-Vallecano,"1,933",21.5,7.0,0.0,56.0,13.0,,Rayo-Vallecano
-,Fran Beltrán,es ESP,MF,31,23,0.0,1.0,2016-2017,d5c5fa3,Rayo-Vallecano,"2,170",24.1,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Chechu,es ESP,DF,23,23,0.0,0.0,2016-2017,98f3a6a,Rayo-Vallecano,"2,012",22.4,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Quini,es ESP,DF,27,22,1.0,0.0,2016-2017,7a538238,Rayo-Vallecano,"2,105",23.4,6.0,0.0,56.0,1.0,3470.0,Rayo-Vallecano
-,Zé Castro,pt POR,DF,23,22,0.0,0.0,2016-2017,2434db,Rayo-Vallecano,"1,985",22.1,5.0,0.0,56.0,3.0,,Rayo-Vallecano
-,Ernesto Galán,es ESP,DF,22,21,0.0,2.0,2016-2017,7e4af593,Rayo-Vallecano,"1,843",20.5,3.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Manucho,ao ANG,FW,38,16,0.0,5.0,2016-2017,89b18034,Rayo-Vallecano,"1,870",20.8,4.0,0.0,56.0,48.0,,Rayo-Vallecano
-,Răzvan Raț,ro ROU,DF,16,14,0.0,0.0,2016-2017,0a0ee36e,Rayo-Vallecano,"1,175",13.1,5.0,0.0,56.0,51.0,3464.0,Rayo-Vallecano
-,Raúl Baena,es ESP,MF,19,14,0.0,1.0,2016-2017,df9c9276,Rayo-Vallecano,"1,138",12.6,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Diego Aguirre,es ESP,MF,18,12,1.0,0.0,2016-2017,45b8139c,Rayo-Vallecano,"1,125",12.5,3.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Lass Bangoura,gn GUI,MF,22,11,2.0,1.0,2016-2017,740f39d4,Rayo-Vallecano,"1,061",11.8,3.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Nacho,es ESP,DF,11,11,2.0,0.0,2016-2017,29d1111,Rayo-Vallecano,949,10.5,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Santi Comesaña,es ESP,MF,17,11,1.0,2.0,2016-2017,5ae499d0,Rayo-Vallecano,830,9.2,3.0,2.0,56.0,1.0,3482.0,Rayo-Vallecano
-,Miku,ve VEN,"FW,MF",14,9,1.0,2.0,2016-2017,4eba9598,Rayo-Vallecano,835,9.3,3.0,2.0,56.0,53.0,,Rayo-Vallecano
-,Toño,es ESP,GK,8,8,0.0,0.0,2016-2017,2ed4ea81,Rayo-Vallecano,720,8.0,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Jordi Gómez,es ESP,MF,12,7,0.0,0.0,2016-2017,d92b0327,Rayo-Vallecano,674,7.5,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Bruno Zuculini,ar ARG,MF,9,7,0.0,0.0,2016-2017,17cddb4d,Rayo-Vallecano,590,6.6,3.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Franco Cristaldo,ar ARG,MF,12,6,0.0,1.0,2016-2017,25b26e2e,Rayo-Vallecano,635,7.1,1.0,0.0,56.0,5.0,3479.0,Rayo-Vallecano
-,Pablo Íñiguez,es ESP,DF,6,6,1.0,0.0,2016-2017,dd55192d,Rayo-Vallecano,540,6.0,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Johan Mojica,co COL,MF,6,4,1.0,0.0,2016-2017,608f2092,Rayo-Vallecano,335,3.7,0.0,0.0,56.0,19.0,,Rayo-Vallecano
-,Pablo Clavería,es ESP,MF,8,3,0.0,0.0,2016-2017,1624d75b,Rayo-Vallecano,367,4.1,0.0,0.0,56.0,1.0,3472.0,Rayo-Vallecano
-,Tomás Mejías,es ESP,GK,2,2,0.0,0.0,2016-2017,dc0c0fd9,Rayo-Vallecano,180,2.0,0.0,0.0,56.0,1.0,99.0,Rayo-Vallecano
-,Piti,es ESP,MF,7,1,0.0,0.0,2016-2017,b530738,Rayo-Vallecano,208,2.3,0.0,0.0,56.0,1.0,3433.0,Rayo-Vallecano
-,Toni Dovale,es ESP,"DF,MF",2,0,0.0,0.0,2016-2017,d4b9adcf,Rayo-Vallecano,59,0.7,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Joni Montiel,es ESP,MF,2,0,0.0,0.0,2016-2017,535771bb,Rayo-Vallecano,32,0.4,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Akieme,es ESP,DF,0,0,,,2016-2017,06efa9dc,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,Juancho,co COL,FW,0,0,,,2016-2017,c81ad5b,Rayo-Vallecano,,,,,56.0,19.0,3477.0,Rayo-Vallecano
-,Luis Alberto García Pacheco,co COL,GK,0,0,,,2016-2017,5e9d0e32,Rayo-Vallecano,,,,,56.0,19.0,,Rayo-Vallecano
-,﻿Alberto García,es ESP,GK,41,41,0.0,0.0,2017-2018,17d9e354,Rayo-Vallecano,"3,690",41.0,3.0,0.0,56.0,1.0,3480.0,Rayo-Vallecano
-,Adri Embarba,es ESP,"MF,FW",42,41,14.0,8.0,2017-2018,db8f0eba,Rayo-Vallecano,"3,435",38.2,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Álex Moreno,es ESP,DF,40,39,2.0,3.0,2017-2018,16e9d0ea,Rayo-Vallecano,"3,501",38.9,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Chechu,es ESP,DF,38,38,0.0,1.0,2017-2018,98f3a6a,Rayo-Vallecano,"3,326",37.0,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Fran Beltrán,es ESP,MF,40,37,1.0,0.0,2017-2018,d5c5fa3,Rayo-Vallecano,"3,190",35.4,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Unai López,es ESP,MF,39,37,3.0,3.0,2017-2018,88050721,Rayo-Vallecano,"3,185",35.4,12.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Óscar Trejo,ar ARG,"MF,FW",36,36,5.0,12.0,2017-2018,fc647b34,Rayo-Vallecano,"3,014",33.5,10.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Baiano,br BRA,DF,36,35,1.0,0.0,2017-2018,6c3ec833,Rayo-Vallecano,"3,131",34.8,9.0,0.0,56.0,2.0,3481.0,Rayo-Vallecano
-,Raúl de Tomás,es ESP,FW,32,30,3.0,24.0,2017-2018,02ef8778,Rayo-Vallecano,"2,496",27.7,8.0,0.0,56.0,1.0,131.0,Rayo-Vallecano
-,Santi Comesaña,es ESP,MF,33,30,2.0,2.0,2017-2018,5ae499d0,Rayo-Vallecano,"2,301",25.6,5.0,1.0,56.0,1.0,3482.0,Rayo-Vallecano
-,Emiliano Velázquez,uy URU,DF,25,21,2.0,2.0,2017-2018,5efb80d5,Rayo-Vallecano,"1,857",20.6,3.0,3.0,56.0,8.0,3483.0,Rayo-Vallecano
-,Abdoulaye Ba,sn SEN,DF,18,15,0.0,0.0,2017-2018,1f54ed90,Rayo-Vallecano,"1,418",15.8,5.0,0.0,56.0,34.0,3468.0,Rayo-Vallecano
-,Antonio Amaya,es ESP,DF,17,11,0.0,1.0,2017-2018,cfe5ba41,Rayo-Vallecano,"1,053",11.7,3.0,2.0,56.0,1.0,,Rayo-Vallecano
-,Diego Aguirre,es ESP,"MF,FW",19,10,1.0,3.0,2017-2018,45b8139c,Rayo-Vallecano,819,9.1,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Bebé,cv CPV,"MF,FW",17,9,1.0,3.0,2017-2018,d8712bf9,Rayo-Vallecano,899,10.0,3.0,0.0,56.0,85.0,3484.0,Rayo-Vallecano
-,Chori Domínguez,ar ARG,"FW,MF",19,9,3.0,2.0,2017-2018,bbb66f34,Rayo-Vallecano,853,9.5,3.0,2.0,56.0,5.0,,Rayo-Vallecano
-,Ernesto Galán,es ESP,DF,7,6,0.0,0.0,2017-2018,7e4af593,Rayo-Vallecano,514,5.7,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Roberto Trashorras,es ESP,MF,7,5,0.0,0.0,2017-2018,5252fdf5,Rayo-Vallecano,459,5.1,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Gorka Elustondo,es ESP,MF,14,3,0.0,0.0,2017-2018,7b309e55,Rayo-Vallecano,472,5.2,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Akieme,es ESP,DF,3,3,0.0,0.0,2017-2018,06efa9dc,Rayo-Vallecano,270,3.0,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Javi Guerra,es ESP,FW,18,2,0.0,3.0,2017-2018,386464,Rayo-Vallecano,491,5.5,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Francisco Cerro,ar ARG,MF,12,2,0.0,0.0,2017-2018,dce69a7c,Rayo-Vallecano,325,3.6,2.0,0.0,56.0,5.0,3485.0,Rayo-Vallecano
-,Lass Bangoura,gn GUI,MF,9,1,0.0,0.0,2017-2018,740f39d4,Rayo-Vallecano,203,2.3,0.0,0.0,56.0,74.0,3453.0,Rayo-Vallecano
-,Mario Fernández,es ESP,GK,1,1,0.0,0.0,2017-2018,02c89cb6,Rayo-Vallecano,90,1.0,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Emiliano Armenteros,ar ARG,MF,11,0,0.0,0.0,2017-2018,66475fb9,Rayo-Vallecano,282,3.1,1.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Manucho,ao ANG,FW,9,0,0.0,0.0,2017-2018,89b18034,Rayo-Vallecano,164,1.8,1.0,0.0,56.0,48.0,,Rayo-Vallecano
-,Joni Montiel,es ESP,MF,1,0,0.0,0.0,2017-2018,535771bb,Rayo-Vallecano,45,0.5,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Benito,es ESP,FW,0,0,,,2017-2018,608bcb88,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,Kike Hermoso,es ESP,DF,0,0,,,2017-2018,dea912dc,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,Luis Alberto García Pacheco,co COL,GK,0,0,,,2017-2018,5e9d0e32,Rayo-Vallecano,,,,,56.0,19.0,,Rayo-Vallecano
-,﻿Álex Moreno,es ESP,"DF,MF",36,36,1.0,1.0,2018-2019,16e9d0ea,Rayo-Vallecano,"3,136",34.8,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Raúl de Tomás,es ESP,FW,33,32,1.0,14.0,2018-2019,02ef8778,Rayo-Vallecano,"2,813",31.3,5.0,0.0,56.0,1.0,131.0,Rayo-Vallecano
-,Jordi Amat,es ESP,DF,31,31,0.0,0.0,2018-2019,d70a2141,Rayo-Vallecano,"2,763",30.7,9.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Luis Advíncula,pe PER,DF,28,27,3.0,1.0,2018-2019,cacadf4f,Rayo-Vallecano,"2,389",26.5,6.0,2.0,56.0,57.0,3486.0,Rayo-Vallecano
-,Adri Embarba,es ESP,"MF,FW",36,27,6.0,5.0,2018-2019,db8f0eba,Rayo-Vallecano,"2,282",25.4,5.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Abdoulaye Ba,sn SEN,DF,26,25,0.0,1.0,2018-2019,1f54ed90,Rayo-Vallecano,"2,110",23.4,4.0,2.0,56.0,34.0,3468.0,Rayo-Vallecano
-,Santi Comesaña,es ESP,MF,25,23,1.0,1.0,2018-2019,5ae499d0,Rayo-Vallecano,"2,032",22.6,6.0,0.0,56.0,1.0,3482.0,Rayo-Vallecano
-,Óscar Trejo,ar ARG,"MF,FW",26,22,4.0,1.0,2018-2019,fc647b34,Rayo-Vallecano,"1,764",19.6,7.0,1.0,56.0,5.0,,Rayo-Vallecano
-,Stole Dimitrievski,mk MKD,GK,21,21,0.0,0.0,2018-2019,fc70e345,Rayo-Vallecano,"1,890",21.0,3.0,0.0,56.0,81.0,3487.0,Rayo-Vallecano
-,Giannelli Imbula,cd COD,MF,22,21,1.0,1.0,2018-2019,b86fe156,Rayo-Vallecano,"1,732",19.2,7.0,0.0,56.0,50.0,3488.0,Rayo-Vallecano
-,Álvaro García,es ESP,"MF,FW",35,17,2.0,4.0,2018-2019,90bbd822,Rayo-Vallecano,"1,766",19.6,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Alberto García,es ESP,GK,17,17,0.0,0.0,2018-2019,17d9e354,Rayo-Vallecano,"1,530",17.0,1.0,0.0,56.0,1.0,3480.0,Rayo-Vallecano
-,Álex Gálvez,es ESP,DF,17,17,0.0,1.0,2018-2019,960fb42d,Rayo-Vallecano,"1,412",15.7,6.0,0.0,56.0,1.0,3459.0,Rayo-Vallecano
-,José Pozo,es ESP,MF,29,16,0.0,3.0,2018-2019,fc8b614b,Rayo-Vallecano,"1,617",18.0,4.0,0.0,56.0,1.0,3489.0,Rayo-Vallecano
-,Emiliano Velázquez,uy URU,DF,18,14,2.0,0.0,2018-2019,5efb80d5,Rayo-Vallecano,"1,277",14.2,8.0,0.0,56.0,8.0,3483.0,Rayo-Vallecano
-,Bebé,cv CPV,"MF,FW",27,13,1.0,1.0,2018-2019,d8712bf9,Rayo-Vallecano,"1,302",14.5,6.0,0.0,56.0,85.0,3484.0,Rayo-Vallecano
-,Álvaro Medrán,es ESP,MF,21,12,0.0,3.0,2018-2019,31223bcf,Rayo-Vallecano,"1,149",12.8,8.0,1.0,56.0,1.0,126.0,Rayo-Vallecano
-,Tito,es ESP,DF,15,12,0.0,0.0,2018-2019,7cefa219,Rayo-Vallecano,"1,098",12.2,2.0,0.0,56.0,1.0,3444.0,Rayo-Vallecano
-,Mario Suárez,es ESP,MF,14,11,0.0,2.0,2018-2019,7106f0a0,Rayo-Vallecano,"1,026",11.4,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Gaël Kakuta,cd COD,"MF,FW",12,9,0.0,1.0,2018-2019,5b1bf5e3,Rayo-Vallecano,717,8.0,1.0,0.0,56.0,50.0,,Rayo-Vallecano
-,Uche Henry Agbo,ng NGA,MF,6,5,0.0,0.0,2018-2019,98554bfd,Rayo-Vallecano,372,4.1,2.0,0.0,56.0,52.0,,Rayo-Vallecano
-,Gorka Elustondo,es ESP,"MF,DF",5,3,0.0,0.0,2018-2019,7b309e55,Rayo-Vallecano,285,3.2,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Akieme,es ESP,DF,2,2,1.0,0.0,2018-2019,06efa9dc,Rayo-Vallecano,180,2.0,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Catena,es ESP,DF,2,2,0.0,0.0,2018-2019,274ab13c,Rayo-Vallecano,176,2.0,1.0,0.0,56.0,1.0,3490.0,Rayo-Vallecano
-,Javi Guerra,es ESP,"FW,MF",8,1,1.0,0.0,2018-2019,386464,Rayo-Vallecano,236,2.6,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Franco Di Santo,ar ARG,"FW,MF",6,1,0.0,0.0,2018-2019,549c6ba7,Rayo-Vallecano,172,1.9,1.0,1.0,56.0,5.0,3491.0,Rayo-Vallecano
-,Chechu,es ESP,DF,1,1,0.0,0.0,2018-2019,98f3a6a,Rayo-Vallecano,90,1.0,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Álex Alegría,es ESP,"FW,MF",9,0,0.0,0.0,2018-2019,46166b49,Rayo-Vallecano,140,1.6,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Sergio Moreno,es ESP,FW,1,0,0.0,0.0,2018-2019,014b57f5,Rayo-Vallecano,14,0.2,0.0,0.0,56.0,1.0,3514.0,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",0,0,,,2018-2019,740f39d4,Rayo-Vallecano,,,,,56.0,74.0,3453.0,Rayo-Vallecano
-,Morro,es ESP,GK,0,0,,,2018-2019,117cd0a8,Rayo-Vallecano,,,,,56.0,1.0,3492.0,Rayo-Vallecano
-,﻿Catena,es ESP,DF,39,37,0.0,3.0,2019-2020,274ab13c,Rayo-Vallecano,"3,388",37.6,13.0,0.0,56.0,1.0,3490.0,Rayo-Vallecano
-,Óscar Trejo,ar ARG,MF,37,36,0.0,5.0,2019-2020,fc647b34,Rayo-Vallecano,"2,980",33.1,15.0,2.0,56.0,5.0,,Rayo-Vallecano
-,Stole Dimitrievski,mk MKD,GK,32,32,0.0,0.0,2019-2020,fc70e345,Rayo-Vallecano,"2,880",32.0,6.0,0.0,56.0,81.0,3487.0,Rayo-Vallecano
-,Mario Suárez,es ESP,MF,34,30,2.0,7.0,2019-2020,7106f0a0,Rayo-Vallecano,"2,597",28.9,13.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Luis Advíncula,pe PER,DF,35,28,0.0,1.0,2019-2020,cacadf4f,Rayo-Vallecano,"2,664",29.6,9.0,0.0,56.0,57.0,3486.0,Rayo-Vallecano
-,Esteban Saveljich,me MNE,DF,32,28,0.0,3.0,2019-2020,79f2a5f5,Rayo-Vallecano,"2,489",27.7,7.0,0.0,56.0,33.0,3493.0,Rayo-Vallecano
-,Adri Embarba,es ESP,MF,23,23,11.0,7.0,2019-2020,db8f0eba,Rayo-Vallecano,"2,008",22.3,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Álvaro García,es ESP,MF,35,22,3.0,4.0,2019-2020,90bbd822,Rayo-Vallecano,"2,099",23.3,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Tito,es ESP,DF,25,21,0.0,0.0,2019-2020,7cefa219,Rayo-Vallecano,"1,848",20.5,1.0,1.0,56.0,1.0,3444.0,Rayo-Vallecano
-,José Pozo,es ESP,MF,23,21,2.0,3.0,2019-2020,fc8b614b,Rayo-Vallecano,"1,661",18.5,5.0,0.0,56.0,1.0,3489.0,Rayo-Vallecano
-,Antonio Luna,es ESP,DF,21,18,1.0,0.0,2019-2020,d239245,Rayo-Vallecano,"1,500",16.7,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Andrés Martín,es ESP,"MF,FW",27,17,1.0,2.0,2019-2020,2ae30661,Rayo-Vallecano,"1,516",16.8,4.0,0.0,56.0,1.0,3494.0,Rayo-Vallecano
-,Leonardo Ulloa,ar ARG,FW,17,17,2.0,6.0,2019-2020,d56f6c,Rayo-Vallecano,"1,511",16.8,9.0,1.0,56.0,5.0,3495.0,Rayo-Vallecano
-,Óscar Valentín,es ESP,MF,29,15,0.0,0.0,2019-2020,592f3158,Rayo-Vallecano,"1,338",14.9,7.0,0.0,56.0,1.0,3496.0,Rayo-Vallecano
-,Jorge de Frutos,es ESP,MF,17,14,1.0,2.0,2019-2020,38ce1150,Rayo-Vallecano,"1,273",14.1,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Antonio Milić,hr CRO,DF,18,14,0.0,0.0,2019-2020,d3bd981b,Rayo-Vallecano,"1,250",13.9,5.0,0.0,56.0,16.0,3497.0,Rayo-Vallecano
-,Santi Comesaña,es ESP,MF,20,13,1.0,1.0,2019-2020,5ae499d0,Rayo-Vallecano,"1,204",13.4,4.0,0.0,56.0,1.0,3482.0,Rayo-Vallecano
-,Saúl García,es ESP,DF,16,13,1.0,0.0,2019-2020,dafa5038,Rayo-Vallecano,"1,031",11.5,1.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Yacine Qasmi,ma MAR,FW,15,12,1.0,2.0,2019-2020,3b3cbebb,Rayo-Vallecano,"1,115",12.4,3.0,0.0,56.0,26.0,3498.0,Rayo-Vallecano
-,Isaac Palazón Camacho,es ESP,MF,14,9,2.0,1.0,2019-2020,49dbab27,Rayo-Vallecano,754,8.4,2.0,1.0,56.0,1.0,3499.0,Rayo-Vallecano
-,Juan Villar,es ESP,"FW,MF",14,7,2.0,7.0,2019-2020,c33ee247,Rayo-Vallecano,749,8.3,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Bebé,cv CPV,MF,12,7,1.0,3.0,2019-2020,d8712bf9,Rayo-Vallecano,637,7.1,1.0,0.0,56.0,85.0,3484.0,Rayo-Vallecano
-,Alberto García,es ESP,GK,7,7,0.0,0.0,2019-2020,17d9e354,Rayo-Vallecano,630,7.0,0.0,0.0,56.0,1.0,3480.0,Rayo-Vallecano
-,Joni Montiel,es ESP,MF,25,6,1.0,2.0,2019-2020,535771bb,Rayo-Vallecano,772,8.6,5.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Federico Piovaccari,it ITA,FW,13,5,0.0,0.0,2019-2020,fa49f136,Rayo-Vallecano,612,6.8,2.0,0.0,56.0,9.0,3500.0,Rayo-Vallecano
-,Martín Pascual,es ESP,"DF,MF",9,4,0.0,0.0,2019-2020,12efd7f9,Rayo-Vallecano,277,3.1,5.0,2.0,56.0,1.0,3501.0,Rayo-Vallecano
-,Morro,es ESP,GK,3,3,0.0,0.0,2019-2020,117cd0a8,Rayo-Vallecano,270,3.0,0.0,0.0,56.0,1.0,3492.0,Rayo-Vallecano
-,Sergio Akieme,es ESP,DF,3,2,0.0,0.0,2019-2020,06efa9dc,Rayo-Vallecano,186,2.1,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Emiliano Velázquez,uy URU,DF,2,1,0.0,0.0,2019-2020,5efb80d5,Rayo-Vallecano,100,1.1,0.0,0.0,56.0,8.0,3483.0,Rayo-Vallecano
-,Marc,es ESP,FW,1,0,0.0,0.0,2019-2020,83d21f5b,Rayo-Vallecano,14,0.2,0.0,0.0,56.0,1.0,3502.0,Rayo-Vallecano
-,Joséto González,es ESP,GK,0,0,,,2019-2020,602d6480,Rayo-Vallecano,,,,,56.0,1.0,3503.0,Rayo-Vallecano
-,José León Bernal,es ESP,"DF,MF",0,0,,,2019-2020,bea8d8b7,Rayo-Vallecano,,,,,56.0,1.0,3504.0,Rayo-Vallecano
-,Mario de Luis,es ESP,GK,0,0,,,2019-2020,3813d6d4,Rayo-Vallecano,,,,,56.0,1.0,3505.0,Rayo-Vallecano
-,Daniel Merino,es ESP,GK,0,0,,,2019-2020,0c97c43c,Rayo-Vallecano,,,,,56.0,1.0,3506.0,Rayo-Vallecano
-,Daniel Moreno,es ESP,FW,0,0,,,2019-2020,f2919da9,Rayo-Vallecano,,,,,56.0,1.0,3507.0,Rayo-Vallecano
-,Javier Rubio,es ESP,MF,0,0,,,2019-2020,7e05e54f,Rayo-Vallecano,,,,,56.0,1.0,3508.0,Rayo-Vallecano
-,Roberto Santamaría,es ESP,GK,0,0,,,2019-2020,bca21ef3,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,﻿Catena,es ESP,DF,39,39,1.0,2.0,2020-2021,274ab13c,Rayo-Vallecano,"3,509",39.0,12.0,1.0,56.0,1.0,3490.0,Rayo-Vallecano
-,Álvaro García,es ESP,MF,39,38,9.0,2.0,2020-2021,90bbd822,Rayo-Vallecano,"3,307",36.7,7.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Francisco Garcia,es ESP,DF,37,37,2.0,1.0,2020-2021,7226539b,Rayo-Vallecano,"3,286",36.5,3.0,0.0,56.0,1.0,3509.0,Rayo-Vallecano
-,Luis Advíncula,pe PER,DF,37,32,3.0,1.0,2020-2021,cacadf4f,Rayo-Vallecano,"2,793",31.0,7.0,1.0,56.0,57.0,3486.0,Rayo-Vallecano
-,Óscar Trejo,ar ARG,"MF,FW",38,32,1.0,4.0,2020-2021,fc647b34,Rayo-Vallecano,"2,641",29.3,13.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Óscar Valentín,es ESP,MF,35,31,0.0,0.0,2020-2021,592f3158,Rayo-Vallecano,"2,648",29.4,13.0,0.0,56.0,1.0,3496.0,Rayo-Vallecano
-,Stole Dimitrievski,mk MKD,GK,28,28,0.0,0.0,2020-2021,fc70e345,Rayo-Vallecano,"2,492",27.7,2.0,1.0,56.0,81.0,3487.0,Rayo-Vallecano
-,Isaac Palazón Camacho,es ESP,MF,39,28,3.0,9.0,2020-2021,49dbab27,Rayo-Vallecano,"2,420",26.9,6.0,0.0,56.0,1.0,3499.0,Rayo-Vallecano
-,Santi Comesaña,es ESP,MF,35,24,0.0,3.0,2020-2021,5ae499d0,Rayo-Vallecano,"2,252",25.0,7.0,0.0,56.0,1.0,3482.0,Rayo-Vallecano
-,Esteban Saveljich,me MNE,DF,25,22,0.0,1.0,2020-2021,79f2a5f5,Rayo-Vallecano,"1,957",21.7,10.0,1.0,56.0,33.0,3493.0,Rayo-Vallecano
-,José Pozo,es ESP,"MF,FW",32,21,1.0,3.0,2020-2021,fc8b614b,Rayo-Vallecano,"1,672",18.6,2.0,0.0,56.0,1.0,3489.0,Rayo-Vallecano
-,Emiliano Velázquez,uy URU,DF,22,18,0.0,0.0,2020-2021,5efb80d5,Rayo-Vallecano,"1,486",16.5,6.0,0.0,56.0,8.0,3483.0,Rayo-Vallecano
-,Andrés Martín,es ESP,"MF,FW",38,16,5.0,4.0,2020-2021,2ae30661,Rayo-Vallecano,"1,715",19.1,3.0,0.0,56.0,1.0,3494.0,Rayo-Vallecano
-,Yacine Qasmi,ma MAR,FW,36,16,2.0,4.0,2020-2021,3b3cbebb,Rayo-Vallecano,"1,542",17.1,4.0,0.0,56.0,26.0,3498.0,Rayo-Vallecano
-,Antonio Cortés,es ESP,"FW,MF",27,16,0.0,6.0,2020-2021,31a1288d,Rayo-Vallecano,"1,359",15.1,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Mario Suárez,es ESP,MF,27,11,0.0,2.0,2020-2021,7106f0a0,Rayo-Vallecano,994,11.0,6.0,1.0,56.0,1.0,,Rayo-Vallecano
-,Mario Hernández,es ESP,DF,13,10,0.0,0.0,2020-2021,90162357,Rayo-Vallecano,987,11.0,3.0,0.0,56.0,1.0,3510.0,Rayo-Vallecano
-,Luca Zidane,fr FRA,GK,11,10,0.0,0.0,2020-2021,c818c4d9,Rayo-Vallecano,925,10.3,0.0,0.0,56.0,4.0,149.0,Rayo-Vallecano
-,Bebé,cv CPV,"MF,FW",24,9,2.0,4.0,2020-2021,d8712bf9,Rayo-Vallecano,850,9.4,3.0,0.0,56.0,85.0,3484.0,Rayo-Vallecano
-,Iván Martos,es ESP,DF,12,7,0.0,0.0,2020-2021,fc1724bd,Rayo-Vallecano,640,7.1,3.0,0.0,56.0,1.0,3511.0,Rayo-Vallecano
-,Miguel Ángel Guerrero,es ESP,FW,15,6,0.0,1.0,2020-2021,b35db3f6,Rayo-Vallecano,572,6.4,0.0,0.0,56.0,1.0,3512.0,Rayo-Vallecano
-,Morro,es ESP,GK,4,4,0.0,0.0,2020-2021,117cd0a8,Rayo-Vallecano,360,4.0,0.0,0.0,56.0,1.0,3492.0,Rayo-Vallecano
-,Martín Pascual,es ESP,DF,6,4,0.0,0.0,2020-2021,12efd7f9,Rayo-Vallecano,308,3.4,1.0,0.0,56.0,1.0,3501.0,Rayo-Vallecano
-,Joni Montiel,es ESP,MF,23,2,1.0,1.0,2020-2021,535771bb,Rayo-Vallecano,527,5.9,4.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Leonardo Ulloa,ar ARG,FW,11,1,0.0,0.0,2020-2021,d56f6c,Rayo-Vallecano,204,2.3,2.0,0.0,56.0,5.0,3495.0,Rayo-Vallecano
-,Manuel Navarro,es ESP,MF,1,0,0.0,0.0,2020-2021,5c103e63,Rayo-Vallecano,6,0.1,0.0,0.0,56.0,1.0,3513.0,Rayo-Vallecano
-,Sergio Moreno,es ESP,FW,1,0,0.0,0.0,2020-2021,014b57f5,Rayo-Vallecano,4,0.0,0.0,0.0,56.0,1.0,3514.0,Rayo-Vallecano
-,Sergio Arratia,es ESP,DF,0,0,,,2020-2021,f0526b78,Rayo-Vallecano,,,,,56.0,1.0,3515.0,Rayo-Vallecano
-,Abdoulaye Ba,sn SEN,DF,0,0,,,2020-2021,1f54ed90,Rayo-Vallecano,,,,,56.0,34.0,3468.0,Rayo-Vallecano
-,Lass Bangoura,gn GUI,"FW,MF",0,0,,,2020-2021,740f39d4,Rayo-Vallecano,,,,,56.0,74.0,3453.0,Rayo-Vallecano
-,Sergio Benito,es ESP,FW,0,0,,,2020-2021,608bcb88,Rayo-Vallecano,,,,,56.0,1.0,,Rayo-Vallecano
-,Roberto González,es ESP,GK,0,0,,,2020-2021,258fee15,Rayo-Vallecano,,,,,56.0,1.0,3516.0,Rayo-Vallecano
-,Daniel Moreno,es ESP,FW,0,0,,,2020-2021,f2919da9,Rayo-Vallecano,,,,,56.0,1.0,3507.0,Rayo-Vallecano
-,Iker Recio,es ESP,DF,0,0,,,2020-2021,84b7090a,Rayo-Vallecano,,,,,56.0,1.0,3517.0,Rayo-Vallecano
-,﻿Catena,es ESP,DF,36,36,2.0,2.0,2021-2022,274ab13c,Rayo-Vallecano,"3,240",36.0,8.0,0.0,56.0,1.0,3490.0,Rayo-Vallecano
-,Iván Balliu,al ALB,DF,35,35,2.0,1.0,2021-2022,cee88597,Rayo-Vallecano,"3,147",35.0,10.0,1.0,56.0,78.0,3518.0,Rayo-Vallecano
-,Francisco Garcia,es ESP,DF,34,34,0.0,1.0,2021-2022,7226539b,Rayo-Vallecano,"3,025",33.6,4.0,0.0,56.0,1.0,3509.0,Rayo-Vallecano
-,Álvaro García,es ESP,MF,36,34,4.0,7.0,2021-2022,90bbd822,Rayo-Vallecano,"2,998",33.3,6.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Santi Comesaña,es ESP,MF,35,32,2.0,1.0,2021-2022,5ae499d0,Rayo-Vallecano,"2,682",29.8,12.0,1.0,56.0,1.0,3482.0,Rayo-Vallecano
-,Stole Dimitrievski,mk MKD,GK,31,30,0.0,0.0,2021-2022,fc70e345,Rayo-Vallecano,"2,772",30.8,0.0,0.0,56.0,81.0,3487.0,Rayo-Vallecano
-,Óscar Valentín,es ESP,MF,35,29,0.0,0.0,2021-2022,592f3158,Rayo-Vallecano,"2,569",28.5,8.0,0.0,56.0,1.0,3496.0,Rayo-Vallecano
-,Isaac Palazón Camacho,es ESP,MF,34,27,4.0,2.0,2021-2022,49dbab27,Rayo-Vallecano,"2,288",25.4,7.0,0.0,56.0,1.0,3499.0,Rayo-Vallecano
-,Óscar Trejo,ar ARG,MF,32,24,9.0,3.0,2021-2022,fc647b34,Rayo-Vallecano,"2,007",22.3,13.0,0.0,56.0,5.0,,Rayo-Vallecano
-,Esteban Saveljich,me MNE,DF,21,21,0.0,0.0,2021-2022,79f2a5f5,Rayo-Vallecano,"1,700",18.9,4.0,0.0,56.0,33.0,3493.0,Rayo-Vallecano
-,Sergi Guardiola,es ESP,FW,32,20,2.0,8.0,2021-2022,32974271,Rayo-Vallecano,"1,710",19.0,3.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Randy Ntekja,fr FRA,"FW,MF",34,16,0.0,3.0,2021-2022,6103274,Rayo-Vallecano,"1,462",16.2,2.0,0.0,56.0,4.0,3519.0,Rayo-Vallecano
-,Unai López,es ESP,MF,27,13,0.0,0.0,2021-2022,88050721,Rayo-Vallecano,"1,160",12.9,5.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Pathé Ciss,sn SEN,MF,31,11,1.0,2.0,2021-2022,9a0408b6,Rayo-Vallecano,"1,097",12.2,5.0,0.0,56.0,34.0,3520.0,Rayo-Vallecano
-,Nikola Maraš,rs SRB,DF,16,11,0.0,0.0,2021-2022,b9d0446f,Rayo-Vallecano,"1,044",11.6,4.0,0.0,56.0,28.0,3521.0,Rayo-Vallecano
-,Radamel Falcao,co COL,FW,22,8,0.0,6.0,2021-2022,66116290,Rayo-Vallecano,838,9.3,1.0,0.0,56.0,19.0,,Rayo-Vallecano
-,Mario Suárez,es ESP,DF,14,8,0.0,0.0,2021-2022,7106f0a0,Rayo-Vallecano,712,7.9,2.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Luca Zidane,fr FRA,GK,8,8,0.0,0.0,2021-2022,c818c4d9,Rayo-Vallecano,645,7.2,0.0,1.0,56.0,4.0,149.0,Rayo-Vallecano
-,Bebé,cv CPV,"MF,FW",29,6,2.0,1.0,2021-2022,d8712bf9,Rayo-Vallecano,867,9.6,2.0,0.0,56.0,85.0,3484.0,Rayo-Vallecano
-,Kévin Rodrigues,pt POR,"DF,MF",13,5,0.0,0.0,2021-2022,f1bed920,Rayo-Vallecano,435,4.8,0.0,0.0,56.0,3.0,,Rayo-Vallecano
-,Mario Hernández,es ESP,"DF,MF",9,5,0.0,1.0,2021-2022,90162357,Rayo-Vallecano,395,4.4,3.0,0.0,56.0,1.0,3510.0,Rayo-Vallecano
-,Martín Merquelanz,es ESP,MF,4,3,0.0,0.0,2021-2022,ddd5348b,Rayo-Vallecano,173,1.9,0.0,0.0,56.0,1.0,,Rayo-Vallecano
-,Mamadou Sylla,sn SEN,"MF,FW",12,1,0.0,0.0,2021-2022,5ec95f8,Rayo-Vallecano,253,2.8,2.0,0.0,56.0,34.0,,Rayo-Vallecano
-,Andrés Martín,es ESP,"MF,FW",7,1,0.0,0.0,2021-2022,2ae30661,Rayo-Vallecano,186,2.1,0.0,0.0,56.0,1.0,3494.0,Rayo-Vallecano
-,José Pozo,es ESP,"MF,DF",5,0,0.0,0.0,2021-2022,fc8b614b,Rayo-Vallecano,72,0.8,0.0,0.0,56.0,1.0,3489.0,Rayo-Vallecano
-,Alejandro Asensio,es ESP,MF,2,0,0.0,0.0,2021-2022,b4c23f36,Rayo-Vallecano,12,0.1,0.0,0.0,56.0,1.0,3522.0,Rayo-Vallecano
-,Álvaro Aguirre,es ESP,MF,1,0,0.0,0.0,2021-2022,93b054dc,Rayo-Vallecano,9,0.1,0.0,0.0,56.0,1.0,3523.0,Rayo-Vallecano
-,Yacine Qasmi,ma MAR,FW,1,0,0.0,0.0,2021-2022,3b3cbebb,Rayo-Vallecano,4,0.0,0.0,0.0,56.0,26.0,3498.0,Rayo-Vallecano
-,Iván Arboleda,co COL,GK,0,0,,,2021-2022,f8cfae1f,Rayo-Vallecano,,,,,56.0,19.0,3524.0,Rayo-Vallecano
-,Jorge Moreno,es ESP,DF,0,0,,,2021-2022,1f875ef8,Rayo-Vallecano,,,,,56.0,1.0,3525.0,Rayo-Vallecano
-,Sergio Moreno,es ESP,FW,0,0,,,2021-2022,014b57f5,Rayo-Vallecano,,,,,56.0,1.0,3514.0,Rayo-Vallecano
-,Morro,es ESP,GK,0,0,,,2021-2022,117cd0a8,Rayo-Vallecano,,,,,56.0,1.0,3492.0,Rayo-Vallecano
-,Manuel Navarro,es ESP,MF,0,0,,,2021-2022,5c103e63,Rayo-Vallecano,,,,,56.0,1.0,3513.0,Rayo-Vallecano
-,Adrian Quintela,es ESP,GK,0,0,,,2021-2022,86e0d803,Rayo-Vallecano,,,,,56.0,1.0,3526.0,Rayo-Vallecano
-,Iker Recio,es ESP,DF,0,0,,,2021-2022,84b7090a,Rayo-Vallecano,,,,,56.0,1.0,3517.0,Rayo-Vallecano
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Patricio Graff,ar ARG,DF,34,34,1.0,0.0,2002-2003,/en/players/b4a2cf8b/Patricio-Graff,b4a2cf8b,Rayo-Vallecano,"2,932",32.6,13.0,1.0,56,5.0,3402,Rayo-Vallecano
+,Roberto Peragón,es ESP,FW,36,31,1.0,4.0,2002-2003,/en/players/c1dbaa18/Roberto-Peragon,c1dbaa18,Rayo-Vallecano,"2,749",30.5,10.0,0.0,56,1.0,2346,Rayo-Vallecano
+,Míchel,es ESP,MF,29,27,5.0,2.0,2002-2003,/en/players/19b3b837/Michel,19b3b837,Rayo-Vallecano,"2,411",26.8,0.0,0.0,56,1.0,2320,Rayo-Vallecano
+,Imanol Etxeberria,es ESP,GK,27,27,0.0,0.0,2002-2003,/en/players/a4f6433c/Imanol-Etxeberria,4f6433c,Rayo-Vallecano,"2,364",26.3,1.0,0.0,56,1.0,3403,Rayo-Vallecano
+,Viktor Onopko,ru RUS,DF,28,26,1.0,1.0,2002-2003,/en/players/bf6223cc/Viktor-Onopko,bf6223cc,Rayo-Vallecano,"2,347",26.1,5.0,0.0,56,23.0,3404,Rayo-Vallecano
+,Mario Gómez Atanet,es ESP,DF,26,26,0.0,0.0,2002-2003,/en/players/f8f74950/Mario-Gomez-Atanet,f8f74950,Rayo-Vallecano,"2,224",24.7,4.0,0.0,56,1.0,3405,Rayo-Vallecano
+,Ramón de Quintana,es ESP,DF,24,23,0.0,2.0,2002-2003,/en/players/657ad2f1/Ramon-de-Quintana,657ad2f1,Rayo-Vallecano,"2,056",22.8,10.0,0.0,56,1.0,3406,Rayo-Vallecano
+,Jorge Azkoitia,es ESP,MF,25,23,0.0,2.0,2002-2003,/en/players/4ac3dade/Jorge-Azkoitia,4ac3dade,Rayo-Vallecano,"1,902",21.1,9.0,2.0,56,1.0,3407,Rayo-Vallecano
+,Julio Álvarez,ve VEN,MF,26,23,3.0,8.0,2002-2003,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Rayo-Vallecano,"1,765",19.6,1.0,0.0,56,53.0,1612,Rayo-Vallecano
+,Elvir Bolić,ba BIH,FW,32,21,1.0,3.0,2002-2003,/en/players/779df1aa/Elvir-Bolic,779df1aa,Rayo-Vallecano,"1,977",22.0,4.0,0.0,56,49.0,3408,Rayo-Vallecano
+,Bolo,es ESP,FW,31,19,2.0,4.0,2002-2003,/en/players/ca7589a9/Bolo,ca7589a9,Rayo-Vallecano,"1,775",19.7,4.0,0.0,56,1.0,3409,Rayo-Vallecano
+,Mami Quevedo,es ESP,MF,19,19,0.0,0.0,2002-2003,/en/players/2c1d71b5/Mami-Quevedo,2c1d71b5,Rayo-Vallecano,"1,623",18.0,3.0,1.0,56,1.0,3410,Rayo-Vallecano
+,Sergio Corino,es ESP,DF,22,18,0.0,1.0,2002-2003,/en/players/bc624052/Sergio-Corino,bc624052,Rayo-Vallecano,"1,632",18.1,7.0,1.0,56,1.0,3411,Rayo-Vallecano
+,Diego Mainz,es ESP,DF,18,18,0.0,0.0,2002-2003,/en/players/95db62b7/Diego-Mainz,95db62b7,Rayo-Vallecano,"1,563",17.4,4.0,0.0,56,1.0,3412,Rayo-Vallecano
+,Sergio Mora,es ESP,MF,21,15,1.0,0.0,2002-2003,/en/players/f0a31c00/Sergio-Mora,f0a31c00,Rayo-Vallecano,"1,148",12.8,5.0,0.0,56,1.0,3340,Rayo-Vallecano
+,Iriney,br BRA,MF,14,13,0.0,0.0,2002-2003,/en/players/09296fcc/Iriney,09296fcc,Rayo-Vallecano,"1,186",13.2,6.0,2.0,56,2.0,666,Rayo-Vallecano
+,Sergio Segura,es ESP,GK,12,11,0.0,0.0,2002-2003,/en/players/0cf1c41e/Sergio-Segura,0cf1c41e,Rayo-Vallecano,"1,022",11.4,1.0,0.0,56,1.0,3413,Rayo-Vallecano
+,Pablo Sanz Iniesta,es ESP,MF,12,11,0.0,0.0,2002-2003,/en/players/f56d83dd/Pablo-Sanz-Iniesta,f56d83dd,Rayo-Vallecano,797,8.9,3.0,0.0,56,1.0,3414,Rayo-Vallecano
+,Mauro García,es ESP,DF,12,10,0.0,0.0,2002-2003,/en/players/9171c383/Mauro-Garcia,9171c383,Rayo-Vallecano,926,10.3,5.0,0.0,56,1.0,3415,Rayo-Vallecano
+,Hélder Baptista,pt POR,MF,10,8,0.0,0.0,2002-2003,/en/players/d4a788b4/Helder-Baptista,d4a788b4,Rayo-Vallecano,674,7.5,2.0,0.0,56,3.0,3416,Rayo-Vallecano
+,Javier Dorado,es ESP,DF,12,6,0.0,0.0,2002-2003,/en/players/1cfbd665/Javier-Dorado,1cfbd665,Rayo-Vallecano,719,8.0,2.0,0.0,56,1.0,1601,Rayo-Vallecano
+,Luis Cembranos,es ESP,MF,18,3,1.0,3.0,2002-2003,/en/players/bf313a5c/Luis-Cembranos,bf313a5c,Rayo-Vallecano,652,7.2,3.0,0.0,56,1.0,3417,Rayo-Vallecano
+,Javier Camuñas,es ESP,"FW,MF",17,3,2.0,0.0,2002-2003,/en/players/bbc1db07/Javier-Camunas,bbc1db07,Rayo-Vallecano,383,4.3,2.0,0.0,56,1.0,469,Rayo-Vallecano
+,Idan Tal,il ISR,MF,6,3,1.0,0.0,2002-2003,/en/players/0c9029e5/Idan-Tal,0c9029e5,Rayo-Vallecano,264,2.9,0.0,0.0,56,45.0,3418,Rayo-Vallecano
+,Fernando Marqués,es ESP,MF,10,0,0.0,0.0,2002-2003,/en/players/71cccc52/Fernando-Marques,71cccc52,Rayo-Vallecano,220,2.4,2.0,0.0,56,1.0,2161,Rayo-Vallecano
+,Míchel,es ESP,FW,3,0,0.0,0.0,2002-2003,/en/players/5f68b183/Michel,5f68b183,Rayo-Vallecano,122,1.4,0.0,0.0,56,1.0,3419,Rayo-Vallecano
+,Óscar Aparicio,,GK,1,0,0.0,0.0,2002-2003,/en/players/e11e7fc6/Oscar-Aparicio,11e7fc6,Rayo-Vallecano,34,0.4,0.0,0.0,56,,90048,Rayo-Vallecano
+,Carlos de la Vega,es ESP,DF,1,0,,0.0,2002-2003,/en/players/c1763238/Carlos-de-la-Vega,c1763238,Rayo-Vallecano,4,0.0,0.0,0.0,56,1.0,3420,Rayo-Vallecano
+,﻿Bolo,es ESP,FW,41,38,3.0,9.0,2003-2004,/en/players/ca7589a9/Bolo,ca7589a9,Rayo-Vallecano,"3,097",34.4,4.0,0.0,56,1.0,3409,Rayo-Vallecano
+,Iriney,br BRA,MF,37,36,0.0,0.0,2003-2004,/en/players/09296fcc/Iriney,09296fcc,Rayo-Vallecano,"3,166",35.2,11.0,4.0,56,2.0,666,Rayo-Vallecano
+,Roberto Peragón,es ESP,FW,37,36,2.0,8.0,2003-2004,/en/players/c1dbaa18/Roberto-Peragon,c1dbaa18,Rayo-Vallecano,"2,945",32.7,7.0,3.0,56,1.0,2346,Rayo-Vallecano
+,Rubén Pulido,es ESP,DF,34,33,0.0,4.0,2003-2004,/en/players/3a8be98c/Ruben-Pulido,3a8be98c,Rayo-Vallecano,"2,877",32.0,10.0,0.0,56,1.0,3421,Rayo-Vallecano
+,Mario Gómez Atanet,es ESP,DF,33,33,2.0,0.0,2003-2004,/en/players/f8f74950/Mario-Gomez-Atanet,f8f74950,Rayo-Vallecano,"2,865",31.8,14.0,0.0,56,1.0,3405,Rayo-Vallecano
+,Ricardo Cavas,es ESP,DF,30,29,0.0,0.0,2003-2004,/en/players/639b2723/Ricardo-Cavas,639b2723,Rayo-Vallecano,"2,502",27.8,17.0,1.0,56,1.0,3012,Rayo-Vallecano
+,Pablo Sanz Iniesta,es ESP,MF,31,27,1.0,3.0,2003-2004,/en/players/f56d83dd/Pablo-Sanz-Iniesta,f56d83dd,Rayo-Vallecano,"2,139",23.8,6.0,1.0,56,1.0,3414,Rayo-Vallecano
+,Sergio Corino,es ESP,DF,26,26,0.0,0.0,2003-2004,/en/players/bc624052/Sergio-Corino,bc624052,Rayo-Vallecano,"2,314",25.7,19.0,0.0,56,1.0,3411,Rayo-Vallecano
+,Jorge Azkoitia,es ESP,MF,28,22,1.0,3.0,2003-2004,/en/players/4ac3dade/Jorge-Azkoitia,4ac3dade,Rayo-Vallecano,"1,863",20.7,11.0,2.0,56,1.0,3407,Rayo-Vallecano
+,Leonardo Biagini,ar ARG,FW,28,20,2.0,6.0,2003-2004,/en/players/44793331/Leonardo-Biagini,44793331,Rayo-Vallecano,"1,823",20.3,2.0,0.0,56,5.0,1560,Rayo-Vallecano
+,Sebastián Saja,ar ARG,GK,20,20,0.0,0.0,2003-2004,/en/players/50a2cb6d/Sebastian-Saja,50a2cb6d,Rayo-Vallecano,"1,800",20.0,5.0,0.0,56,5.0,3422,Rayo-Vallecano
+,Paco,es ESP,DF,17,16,0.0,0.0,2003-2004,/en/players/e52392a7/Paco,52392a7,Rayo-Vallecano,"1,466",16.3,2.0,0.0,56,1.0,3423,Rayo-Vallecano
+,Patricio Graff,ar ARG,DF,20,16,0.0,0.0,2003-2004,/en/players/b4a2cf8b/Patricio-Graff,b4a2cf8b,Rayo-Vallecano,"1,404",15.6,12.0,2.0,56,5.0,3402,Rayo-Vallecano
+,Iñigo Idiakez,es ESP,"FW,MF",29,14,5.0,5.0,2003-2004,/en/players/caf38c72/Inigo-Idiakez,caf38c72,Rayo-Vallecano,"1,492",16.6,5.0,1.0,56,1.0,3424,Rayo-Vallecano
+,Sergio Segura,es ESP,GK,14,14,0.0,0.0,2003-2004,/en/players/0cf1c41e/Sergio-Segura,0cf1c41e,Rayo-Vallecano,"1,260",14.0,1.0,0.0,56,1.0,3413,Rayo-Vallecano
+,Fernando Marqués,es ESP,MF,25,12,1.0,2.0,2003-2004,/en/players/71cccc52/Fernando-Marques,71cccc52,Rayo-Vallecano,"1,374",15.3,6.0,0.0,56,1.0,2161,Rayo-Vallecano
+,David Palacios,es ESP,MF,12,12,1.0,0.0,2003-2004,/en/players/8779db47/David-Palacios,8779db47,Rayo-Vallecano,845,9.4,3.0,0.0,56,1.0,3425,Rayo-Vallecano
+,Diego Mainz,es ESP,DF,11,10,0.0,0.0,2003-2004,/en/players/95db62b7/Diego-Mainz,95db62b7,Rayo-Vallecano,902,10.0,7.0,0.0,56,1.0,3412,Rayo-Vallecano
+,Hélder Baptista,pt POR,MF,15,10,1.0,0.0,2003-2004,/en/players/d4a788b4/Helder-Baptista,d4a788b4,Rayo-Vallecano,891,9.9,2.0,0.0,56,3.0,3416,Rayo-Vallecano
+,Luis Cembranos,es ESP,MF,21,8,6.0,3.0,2003-2004,/en/players/bf313a5c/Luis-Cembranos,bf313a5c,Rayo-Vallecano,"1,000",11.1,7.0,0.0,56,1.0,3417,Rayo-Vallecano
+,Imanol Etxeberria,es ESP,GK,8,8,0.0,0.0,2003-2004,/en/players/a4f6433c/Imanol-Etxeberria,4f6433c,Rayo-Vallecano,720,8.0,0.0,0.0,56,1.0,3403,Rayo-Vallecano
+,Iván Ania,es ESP,MF,12,6,1.0,0.0,2003-2004,/en/players/12d37503/Ivan-Ania,12d37503,Rayo-Vallecano,469,5.2,3.0,0.0,56,1.0,3426,Rayo-Vallecano
+,Roberto Fresnedoso,es ESP,MF,10,5,0.0,1.0,2003-2004,/en/players/16cc4352/Roberto-Fresnedoso,16cc4352,Rayo-Vallecano,471,5.2,3.0,0.0,56,1.0,3427,Rayo-Vallecano
+,Geni,es ESP,FW,29,3,1.0,0.0,2003-2004,/en/players/2a46bc48/Geni,2a46bc48,Rayo-Vallecano,829,9.2,1.0,0.0,56,1.0,3428,Rayo-Vallecano
+,Xavier Roca,es ESP,DF,3,3,0.0,0.0,2003-2004,/en/players/d58118a4/Xavier-Roca,d58118a4,Rayo-Vallecano,200,2.2,1.0,0.0,56,1.0,3015,Rayo-Vallecano
+,Ivan Tomić,rs SRB,MF,5,2,0.0,0.0,2003-2004,/en/players/dff4f3f2/Ivan-Tomic,dff4f3f2,Rayo-Vallecano,209,2.3,0.0,0.0,56,28.0,3273,Rayo-Vallecano
+,Jorge Valdivia,cl CHI,MF,5,2,0.0,0.0,2003-2004,/en/players/11f1e522/Jorge-Valdivia,11f1e522,Rayo-Vallecano,143,1.6,1.0,0.0,56,31.0,3429,Rayo-Vallecano
+,Albert Crusat,es ESP,"FW,MF",5,1,0.0,1.0,2003-2004,/en/players/ba027002/Albert-Crusat,ba027002,Rayo-Vallecano,210,2.3,0.0,0.0,56,1.0,3013,Rayo-Vallecano
+,﻿David Cobeño,es ESP,GK,40,40,0.0,1.0,2008-2009,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,"3,575",39.7,4.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Miguel Albiol,es ESP,MF,39,37,10.0,1.0,2008-2009,/en/players/ca8aa471/Miguel-Albiol,ca8aa471,Rayo-Vallecano,"3,258",36.2,14.0,0.0,56,1.0,883,Rayo-Vallecano
+,Mohamed Diamé,sn SEN,MF,35,34,0.0,2.0,2008-2009,/en/players/b7d082af/Mohamed-Diame,b7d082af,Rayo-Vallecano,"2,954",32.8,11.0,1.0,56,34.0,3430,Rayo-Vallecano
+,Míchel,es ESP,MF,35,34,2.0,3.0,2008-2009,/en/players/19b3b837/Michel,19b3b837,Rayo-Vallecano,"2,647",29.4,8.0,0.0,56,1.0,2320,Rayo-Vallecano
+,Coke,es ESP,DF,33,32,0.0,3.0,2008-2009,/en/players/6d8f8441/Coke,6d8f8441,Rayo-Vallecano,"2,891",32.1,8.0,0.0,56,1.0,1860,Rayo-Vallecano
+,Salva,es ESP,DF,32,32,0.0,1.0,2008-2009,/en/players/dfbb5412/Salva,dfbb5412,Rayo-Vallecano,"2,880",32.0,9.0,0.0,56,1.0,3431,Rayo-Vallecano
+,Jofre,es ESP,MF,33,28,7.0,3.0,2008-2009,/en/players/90bf887c/Jofre,90bf887c,Rayo-Vallecano,"2,228",24.8,8.0,1.0,56,1.0,2576,Rayo-Vallecano
+,Manuel Tena,es ESP,DF,27,27,0.0,0.0,2008-2009,/en/players/515e2eee/Manuel-Tena,515e2eee,Rayo-Vallecano,"2,430",27.0,2.0,0.0,56,1.0,3432,Rayo-Vallecano
+,Piti,es ESP,"FW,MF",37,27,4.0,8.0,2008-2009,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,"2,400",26.7,6.0,0.0,56,1.0,3433,Rayo-Vallecano
+,Sergio Pachón,es ESP,FW,38,26,3.0,9.0,2008-2009,/en/players/ae85fca9/Sergio-Pachon,85fca9,Rayo-Vallecano,"2,519",28.0,4.0,0.0,56,1.0,2512,Rayo-Vallecano
+,Carlos Llorens,es ESP,DF,24,24,1.0,1.0,2008-2009,/en/players/cc1c44b3/Carlos-Llorens,cc1c44b3,Rayo-Vallecano,"2,142",23.8,11.0,2.0,56,1.0,3258,Rayo-Vallecano
+,David Aganzo,es ESP,FW,30,24,1.0,12.0,2008-2009,/en/players/97e3ba49/David-Aganzo,97e3ba49,Rayo-Vallecano,"1,898",21.1,8.0,1.0,56,1.0,2505,Rayo-Vallecano
+,Ximo Enguix,es ESP,MF,30,20,1.0,2.0,2008-2009,/en/players/cfadea36/Ximo-Enguix,cfadea36,Rayo-Vallecano,"2,010",22.3,4.0,0.0,56,1.0,879,Rayo-Vallecano
+,Antonio Amaya,es ESP,DF,18,18,0.0,1.0,2008-2009,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Rayo-Vallecano,"1,620",18.0,3.0,0.0,56,1.0,1436,Rayo-Vallecano
+,Juan Collantes,es ESP,"FW,MF",32,18,1.0,4.0,2008-2009,/en/players/d8d9186b/Juan-Collantes,d8d9186b,Rayo-Vallecano,"1,608",17.9,4.0,0.0,56,1.0,3434,Rayo-Vallecano
+,Carlos de la Vega,es ESP,DF,12,12,0.0,0.0,2008-2009,/en/players/c1763238/Carlos-de-la-Vega,c1763238,Rayo-Vallecano,"1,019",11.3,1.0,0.0,56,1.0,3420,Rayo-Vallecano
+,Rubén Reyes,es ESP,MF,16,7,2.0,0.0,2008-2009,/en/players/770a119c/Ruben-Reyes,770a119c,Rayo-Vallecano,664,7.4,4.0,0.0,56,1.0,2716,Rayo-Vallecano
+,José Serrano,es ESP,DF,8,7,1.0,0.0,2008-2009,/en/players/9bc30fb8/Jose-Serrano,9bc30fb8,Rayo-Vallecano,621,6.9,2.0,0.0,56,1.0,3435,Rayo-Vallecano
+,David Sousa,es ESP,MF,17,4,0.0,1.0,2008-2009,/en/players/292a8dbe/David-Sousa,292a8dbe,Rayo-Vallecano,638,7.1,3.0,0.0,56,1.0,2517,Rayo-Vallecano
+,Yuma,es ESP,"DF,MF",12,3,0.0,0.0,2008-2009,/en/players/ffc2f60e/Yuma,ffc2f60e,Rayo-Vallecano,310,3.4,1.0,0.0,56,1.0,3436,Rayo-Vallecano
+,José Jesús Perera,es ESP,FW,15,2,1.0,3.0,2008-2009,/en/players/a39a1bc8/Jose-Jesus-Perera,39a1bc8,Rayo-Vallecano,452,5.0,0.0,0.0,56,1.0,659,Rayo-Vallecano
+,Manolo,es ESP,MF,14,2,1.0,0.0,2008-2009,/en/players/a10f05c4/Manolo,10f05c4,Rayo-Vallecano,292,3.2,1.0,0.0,56,1.0,3437,Rayo-Vallecano
+,Rubén Falcón,es ESP,GK,2,2,0.0,0.0,2008-2009,/en/players/bf651b09/Ruben-Falcon,bf651b09,Rayo-Vallecano,180,2.0,0.0,0.0,56,1.0,3438,Rayo-Vallecano
+,Juanma,es ESP,DF,3,2,0.0,0.0,2008-2009,/en/players/396b863a/Juanma,396b863a,Rayo-Vallecano,169,1.9,1.0,0.0,56,1.0,3439,Rayo-Vallecano
+,Jorge Sáez,es ESP,MF,3,0,0.0,0.0,2008-2009,/en/players/2c8f451b/Jorge-Saez,2c8f451b,Rayo-Vallecano,54,0.6,0.0,0.0,56,1.0,3440,Rayo-Vallecano
+,Alfonso Tete,,,1,0,0.0,0.0,2008-2009,No detected,,Rayo-Vallecano,25,0.3,0.0,0.0,56,,90049,Rayo-Vallecano
+,Borja García,es ESP,"FW,MF",1,0,0.0,0.0,2008-2009,/en/players/e7f4603c/Borja-Garcia,7f4603c,Rayo-Vallecano,12,0.1,0.0,0.0,56,1.0,3441,Rayo-Vallecano
+,﻿José María Movilla,es ESP,MF,40,40,0.0,1.0,2009-2010,/en/players/1ac170a8/Jose-Maria-Movilla,1ac170a8,Rayo-Vallecano,"3,423",38.0,8.0,1.0,56,1.0,2129,Rayo-Vallecano
+,Rubén Castro,es ESP,"FW,MF",40,39,5.0,14.0,2009-2010,/en/players/d109f62b/Ruben-Castro,d109f62b,Rayo-Vallecano,"3,370",37.4,2.0,0.0,56,1.0,400,Rayo-Vallecano
+,Coke,es ESP,DF,35,35,1.0,8.0,2009-2010,/en/players/6d8f8441/Coke,6d8f8441,Rayo-Vallecano,"3,148",35.0,13.0,1.0,56,1.0,1860,Rayo-Vallecano
+,Sergio Pelegrín,es ESP,DF,36,35,1.0,2.0,2009-2010,/en/players/e360782f/Sergio-Pelegrin,360782f,Rayo-Vallecano,"3,096",34.4,11.0,1.0,56,1.0,3342,Rayo-Vallecano
+,Piti,es ESP,"FW,MF",35,31,4.0,7.0,2009-2010,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,"2,609",29.0,9.0,0.0,56,1.0,3433,Rayo-Vallecano
+,Edu Albácar,es ESP,DF,30,29,7.0,2.0,2009-2010,/en/players/fc8a84b8/Edu-Albacar,fc8a84b8,Rayo-Vallecano,"2,485",27.6,13.0,1.0,56,1.0,3311,Rayo-Vallecano
+,David Cobeño,es ESP,GK,25,25,0.0,0.0,2009-2010,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,"2,250",25.0,4.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Jofre,es ESP,MF,32,25,4.0,2.0,2009-2010,/en/players/90bf887c/Jofre,90bf887c,Rayo-Vallecano,"1,990",22.1,4.0,0.0,56,1.0,2576,Rayo-Vallecano
+,Míchel,es ESP,MF,35,24,2.0,2.0,2009-2010,/en/players/19b3b837/Michel,19b3b837,Rayo-Vallecano,"1,979",22.0,5.0,0.0,56,1.0,2320,Rayo-Vallecano
+,Salva,es ESP,DF,24,22,1.0,0.0,2009-2010,/en/players/dfbb5412/Salva,dfbb5412,Rayo-Vallecano,"1,976",22.0,8.0,3.0,56,1.0,3431,Rayo-Vallecano
+,Néstor Susaeta,es ESP,"FW,MF",31,21,2.0,5.0,2009-2010,/en/players/ff0c8ca6/Nestor-Susaeta,ff0c8ca6,Rayo-Vallecano,"1,846",20.5,4.0,0.0,56,1.0,3442,Rayo-Vallecano
+,Ángel Martínez,es ESP,MF,27,21,1.0,2.0,2009-2010,/en/players/7eb2bab9/Angel-Martinez,7eb2bab9,Rayo-Vallecano,"1,805",20.1,4.0,2.0,56,1.0,3038,Rayo-Vallecano
+,Juan Quero,es ESP,MF,31,19,2.0,2.0,2009-2010,/en/players/42107bed/Juan-Quero,42107bed,Rayo-Vallecano,"1,747",19.4,2.0,0.0,56,1.0,3443,Rayo-Vallecano
+,Dani Giménez,es ESP,GK,17,17,0.0,0.0,2009-2010,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Rayo-Vallecano,"1,530",17.0,1.0,0.0,56,1.0,542,Rayo-Vallecano
+,Tito,es ESP,DF,17,15,3.0,1.0,2009-2010,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"1,363",15.1,7.0,1.0,56,1.0,3444,Rayo-Vallecano
+,José Serrano,es ESP,DF,12,12,0.0,0.0,2009-2010,/en/players/9bc30fb8/Jose-Serrano,9bc30fb8,Rayo-Vallecano,"1,080",12.0,4.0,0.0,56,1.0,3435,Rayo-Vallecano
+,Rafa García,es ESP,MF,24,11,1.0,1.0,2009-2010,/en/players/bebdff6f/Rafa-Garcia,bebdff6f,Rayo-Vallecano,"1,219",13.5,9.0,1.0,56,1.0,3336,Rayo-Vallecano
+,David Aganzo,es ESP,FW,19,10,2.0,9.0,2009-2010,/en/players/97e3ba49/David-Aganzo,97e3ba49,Rayo-Vallecano,900,10.0,5.0,0.0,56,1.0,2505,Rayo-Vallecano
+,Sergio Pachón,es ESP,FW,27,8,2.0,4.0,2009-2010,/en/players/ae85fca9/Sergio-Pachon,85fca9,Rayo-Vallecano,960,10.7,4.0,0.0,56,1.0,2512,Rayo-Vallecano
+,Manuel Tena,es ESP,DF,7,7,0.0,0.0,2009-2010,/en/players/515e2eee/Manuel-Tena,515e2eee,Rayo-Vallecano,630,7.0,2.0,0.0,56,1.0,3432,Rayo-Vallecano
+,Ibán Cuadrado,es ESP,DF,6,6,0.0,0.0,2009-2010,/en/players/8db7ef49/Iban-Cuadrado,8db7ef49,Rayo-Vallecano,540,6.0,5.0,0.0,56,1.0,2349,Rayo-Vallecano
+,Samuel Camille,mq MTQ,DF,4,4,0.0,0.0,2009-2010,/en/players/5279c822/Samuel-Camille,5279c822,Rayo-Vallecano,360,4.0,2.0,0.0,56,104.0,3445,Rayo-Vallecano
+,Germán Pacheco,ar ARG,"FW,MF",9,2,1.0,1.0,2009-2010,/en/players/4a8b43e0/German-Pacheco,4a8b43e0,Rayo-Vallecano,297,3.3,1.0,0.0,56,5.0,3446,Rayo-Vallecano
+,Rubén Reyes,es ESP,MF,9,1,1.0,1.0,2009-2010,/en/players/770a119c/Ruben-Reyes,770a119c,Rayo-Vallecano,276,3.1,3.0,0.0,56,1.0,2716,Rayo-Vallecano
+,Alejandro Arribas,es ESP,DF,2,1,0.0,1.0,2009-2010,/en/players/cc29324e/Alejandro-Arribas,cc29324e,Rayo-Vallecano,135,1.5,1.0,0.0,56,1.0,505,Rayo-Vallecano
+,Jorge Sáez,es ESP,MF,1,1,0.0,0.0,2009-2010,/en/players/2c8f451b/Jorge-Saez,2c8f451b,Rayo-Vallecano,90,1.0,0.0,0.0,56,1.0,3440,Rayo-Vallecano
+,Yuma,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,/en/players/ffc2f60e/Yuma,ffc2f60e,Rayo-Vallecano,59,0.7,0.0,0.0,56,1.0,3436,Rayo-Vallecano
+,Juan Collantes,es ESP,"FW,MF",4,0,0.0,0.0,2009-2010,/en/players/d8d9186b/Juan-Collantes,d8d9186b,Rayo-Vallecano,70,0.8,0.0,0.0,56,1.0,3434,Rayo-Vallecano
+,Lucas Pérez,es ESP,"FW,MF",2,0,0.0,0.0,2009-2010,/en/players/a300ac7e/Lucas-Perez,300ac7e,Rayo-Vallecano,49,0.5,0.0,0.0,56,1.0,489,Rayo-Vallecano
+,Daniel Provencio,es ESP,MF,3,0,0.0,0.0,2009-2010,/en/players/998d51a2/Daniel-Provencio,998d51a2,Rayo-Vallecano,42,0.5,0.0,0.0,56,1.0,3447,Rayo-Vallecano
+,Nono,es ESP,MF,1,0,0.0,0.0,2009-2010,/en/players/13289422/Nono,13289422,Rayo-Vallecano,15,0.2,0.0,0.0,56,1.0,3448,Rayo-Vallecano
+,﻿José María Movilla,es ESP,MF,41,39,4.0,2.0,2010-2011,/en/players/1ac170a8/Jose-Maria-Movilla,1ac170a8,Rayo-Vallecano,"3,258",36.2,5.0,0.0,56,1.0,2129,Rayo-Vallecano
+,Alejandro Arribas,es ESP,DF,38,38,0.0,0.0,2010-2011,/en/players/cc29324e/Alejandro-Arribas,cc29324e,Rayo-Vallecano,"3,414",37.9,11.0,2.0,56,1.0,505,Rayo-Vallecano
+,Coke,es ESP,DF,38,38,3.0,5.0,2010-2011,/en/players/6d8f8441/Coke,6d8f8441,Rayo-Vallecano,"3,368",37.4,5.0,1.0,56,1.0,1860,Rayo-Vallecano
+,Óscar Trejo,ar ARG,"FW,MF",40,37,8.0,9.0,2010-2011,/en/players/fc647b34/Oscar-Trejo,fc647b34,Rayo-Vallecano,"3,004",33.4,9.0,0.0,56,5.0,1602,Rayo-Vallecano
+,Javi Fuego,es ESP,MF,37,36,5.0,1.0,2010-2011,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Rayo-Vallecano,"3,264",36.3,16.0,1.0,56,1.0,949,Rayo-Vallecano
+,Emiliano Armenteros,ar ARG,MF,37,36,4.0,20.0,2010-2011,/en/players/66475fb9/Emiliano-Armenteros,66475fb9,Rayo-Vallecano,"3,221",35.8,11.0,1.0,56,5.0,1843,Rayo-Vallecano
+,José Manuel Casado,es ESP,DF,36,36,2.0,1.0,2010-2011,/en/players/d0b6d20e/Jose-Manuel-Casado,d0b6d20e,Rayo-Vallecano,"3,207",35.6,13.0,1.0,56,1.0,1837,Rayo-Vallecano
+,David Cobeño,es ESP,GK,34,34,0.0,0.0,2010-2011,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,"3,060",34.0,4.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Antonio Amaya,es ESP,DF,28,28,0.0,0.0,2010-2011,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Rayo-Vallecano,"2,442",27.1,15.0,2.0,56,1.0,1436,Rayo-Vallecano
+,Piti,es ESP,"FW,MF",34,25,10.0,9.0,2010-2011,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,"2,224",24.7,10.0,0.0,56,1.0,3433,Rayo-Vallecano
+,David Aganzo,es ESP,FW,23,18,1.0,7.0,2010-2011,/en/players/97e3ba49/David-Aganzo,97e3ba49,Rayo-Vallecano,"1,462",16.2,7.0,1.0,56,1.0,2505,Rayo-Vallecano
+,Borja Gómez Pérez,es ESP,DF,14,14,0.0,1.0,2010-2011,/en/players/95abfdfd/Borja-Gomez-Perez,95abfdfd,Rayo-Vallecano,"1,180",13.1,5.0,0.0,56,1.0,3449,Rayo-Vallecano
+,Borja García,es ESP,"FW,MF",26,12,0.0,2.0,2010-2011,/en/players/e7f4603c/Borja-Garcia,7f4603c,Rayo-Vallecano,"1,086",12.1,1.0,0.0,56,1.0,3441,Rayo-Vallecano
+,Andrija Delibašić,me MNE,FW,30,11,4.0,7.0,2010-2011,/en/players/4de03033/Andrija-Delibasic,4de03033,Rayo-Vallecano,"1,190",13.2,5.0,0.0,56,33.0,252,Rayo-Vallecano
+,Míchel,es ESP,MF,20,9,2.0,2.0,2010-2011,/en/players/19b3b837/Michel,19b3b837,Rayo-Vallecano,849,9.4,4.0,0.0,56,1.0,2320,Rayo-Vallecano
+,Tito,es ESP,DF,10,9,0.0,1.0,2010-2011,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,820,9.1,3.0,0.0,56,1.0,3444,Rayo-Vallecano
+,Rafa García,es ESP,MF,17,9,2.0,0.0,2010-2011,/en/players/bebdff6f/Rafa-Garcia,bebdff6f,Rayo-Vallecano,787,8.7,3.0,1.0,56,1.0,3336,Rayo-Vallecano
+,Juli,es ESP,MF,27,8,1.0,1.0,2010-2011,/en/players/f3541f8a/Juli,f3541f8a,Rayo-Vallecano,904,10.0,2.0,0.0,56,1.0,3334,Rayo-Vallecano
+,Dani Giménez,es ESP,GK,7,7,0.0,0.0,2010-2011,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Rayo-Vallecano,630,7.0,1.0,0.0,56,1.0,542,Rayo-Vallecano
+,Brayan Angulo,co COL,"DF,MF",4,4,0.0,0.0,2010-2011,/en/players/af31b77b/Brayan-Angulo,f31b77b,Rayo-Vallecano,360,4.0,1.0,0.0,56,19.0,3450,Rayo-Vallecano
+,Lucas Pérez,es ESP,"FW,MF",5,4,0.0,1.0,2010-2011,/en/players/a300ac7e/Lucas-Perez,300ac7e,Rayo-Vallecano,276,3.1,0.0,0.0,56,1.0,489,Rayo-Vallecano
+,Néstor Susaeta,es ESP,"FW,MF",14,3,1.0,3.0,2010-2011,/en/players/ff0c8ca6/Nestor-Susaeta,ff0c8ca6,Rayo-Vallecano,484,5.4,1.0,0.0,56,1.0,3442,Rayo-Vallecano
+,Yuma,es ESP,"DF,MF",7,3,0.0,0.0,2010-2011,/en/players/ffc2f60e/Yuma,ffc2f60e,Rayo-Vallecano,344,3.8,5.0,0.0,56,1.0,3436,Rayo-Vallecano
+,José Manuel Alcañiz,es ESP,DF,2,2,0.0,0.0,2010-2011,/en/players/6e33030c/Jose-Manuel-Alcaniz,6e33030c,Rayo-Vallecano,149,1.7,0.0,1.0,56,1.0,3451,Rayo-Vallecano
+,Carlos de la Vega,es ESP,DF,5,1,0.0,0.0,2010-2011,/en/players/c1763238/Carlos-de-la-Vega,c1763238,Rayo-Vallecano,127,1.4,0.0,0.0,56,1.0,3420,Rayo-Vallecano
+,Juan Carlos,es ESP,GK,1,1,0.0,0.0,2010-2011,/en/players/688b96e3/Juan-Carlos,688b96e3,Rayo-Vallecano,90,1.0,0.0,0.0,56,1.0,3452,Rayo-Vallecano
+,Daniel Provencio,es ESP,MF,7,0,0.0,0.0,2010-2011,/en/players/998d51a2/Daniel-Provencio,998d51a2,Rayo-Vallecano,73,0.8,1.0,0.0,56,1.0,3447,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",4,0,0.0,0.0,2010-2011,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,69,0.8,0.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Diego Benito Rey,es ESP,MF,2,0,0.0,0.0,2010-2011,/en/players/049c2adb/Diego-Benito-Rey,049c2adb,Rayo-Vallecano,37,0.4,0.0,0.0,56,1.0,3454,Rayo-Vallecano
+,﻿Michu,es ESP,"FW,MF",37,37,3.0,15.0,2011-2012,/en/players/98429b7b/Michu,98429b7b,Rayo-Vallecano,"3,280",36.4,9.0,1.0,56,1.0,688,Rayo-Vallecano
+,Tito,es ESP,DF,36,36,2.0,1.0,2011-2012,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"3,158",35.1,11.0,0.0,56,1.0,3444,Rayo-Vallecano
+,José María Movilla,es ESP,MF,38,36,3.0,2.0,2011-2012,/en/players/1ac170a8/Jose-Maria-Movilla,1ac170a8,Rayo-Vallecano,"2,784",30.9,4.0,0.0,56,1.0,2129,Rayo-Vallecano
+,Alejandro Arribas,es ESP,DF,34,34,0.0,1.0,2011-2012,/en/players/cc29324e/Alejandro-Arribas,cc29324e,Rayo-Vallecano,"2,992",33.2,17.0,0.0,56,1.0,505,Rayo-Vallecano
+,José Manuel Casado,es ESP,DF,32,32,1.0,0.0,2011-2012,/en/players/d0b6d20e/Jose-Manuel-Casado,d0b6d20e,Rayo-Vallecano,"2,768",30.8,17.0,1.0,56,1.0,1837,Rayo-Vallecano
+,Javi Fuego,es ESP,MF,31,31,0.0,0.0,2011-2012,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Rayo-Vallecano,"2,740",30.4,8.0,0.0,56,1.0,949,Rayo-Vallecano
+,Piti,es ESP,"FW,MF",35,29,4.0,3.0,2011-2012,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,"2,358",26.2,6.0,0.0,56,1.0,3433,Rayo-Vallecano
+,Roberto Trashorras,es ESP,MF,29,18,5.0,2.0,2011-2012,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,"1,672",18.6,4.0,0.0,56,1.0,705,Rayo-Vallecano
+,Raúl Tamudo,es ESP,FW,32,17,1.0,9.0,2011-2012,/en/players/c026089c/Raul-Tamudo,c026089c,Rayo-Vallecano,"1,623",18.0,6.0,0.0,56,1.0,280,Rayo-Vallecano
+,Jordi,es ESP,DF,17,17,0.0,0.0,2011-2012,/en/players/744a8a7c/Jordi,744a8a7c,Rayo-Vallecano,"1,530",17.0,6.0,0.0,56,1.0,710,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",28,15,0.0,3.0,2011-2012,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,"1,559",17.3,7.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Diego Costa,es ESP,FW,16,15,4.0,9.0,2011-2012,/en/players/a190d597/Diego-Costa,190d597,Rayo-Vallecano,"1,310",14.6,9.0,0.0,56,1.0,685,Rayo-Vallecano
+,David Cobeño,es ESP,GK,15,14,0.0,0.0,2011-2012,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,"1,297",14.4,1.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Joel Robles,es ESP,GK,13,13,0.0,0.0,2011-2012,/en/players/cda0b317/Joel-Robles,cda0b317,Rayo-Vallecano,"1,170",13.0,1.0,0.0,56,1.0,1510,Rayo-Vallecano
+,Jorge Pulido,es ESP,DF,14,13,0.0,0.0,2011-2012,/en/players/978cd030/Jorge-Pulido,978cd030,Rayo-Vallecano,"1,129",12.5,8.0,0.0,56,1.0,2193,Rayo-Vallecano
+,Emiliano Armenteros,ar ARG,MF,13,12,0.0,2.0,2011-2012,/en/players/66475fb9/Emiliano-Armenteros,66475fb9,Rayo-Vallecano,984,10.9,1.0,0.0,56,5.0,1843,Rayo-Vallecano
+,Mikel Labaka,es ESP,DF,13,12,0.0,1.0,2011-2012,/en/players/e83de90d/Mikel-Labaka,83de90d,Rayo-Vallecano,981,10.9,0.0,1.0,56,1.0,219,Rayo-Vallecano
+,Dani Giménez,es ESP,GK,11,11,0.0,0.0,2011-2012,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Rayo-Vallecano,953,10.6,1.0,0.0,56,1.0,542,Rayo-Vallecano
+,Pedro Botelho,br BRA,"DF,MF",11,8,1.0,1.0,2011-2012,/en/players/1f933029/Pedro-Botelho,1f933029,Rayo-Vallecano,710,7.9,4.0,1.0,56,2.0,722,Rayo-Vallecano
+,Andrija Delibašić,me MNE,FW,19,5,0.0,1.0,2011-2012,/en/players/4de03033/Andrija-Delibasic,4de03033,Rayo-Vallecano,625,6.9,3.0,0.0,56,33.0,252,Rayo-Vallecano
+,Raúl Bravo,es ESP,DF,6,5,1.0,0.0,2011-2012,/en/players/65b9e56b/Raul-Bravo,65b9e56b,Rayo-Vallecano,394,4.4,0.0,0.0,56,1.0,20,Rayo-Vallecano
+,Pape Maly Diamanka,sn SEN,MF,7,2,0.0,0.0,2011-2012,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Rayo-Vallecano,293,3.3,2.0,0.0,56,34.0,3455,Rayo-Vallecano
+,Míchel,es ESP,MF,9,2,1.0,0.0,2011-2012,/en/players/19b3b837/Michel,19b3b837,Rayo-Vallecano,251,2.8,0.0,0.0,56,1.0,2320,Rayo-Vallecano
+,Rober Correa,es ESP,DF,2,2,0.0,0.0,2011-2012,/en/players/46bd3a5b/Rober-Correa,46bd3a5b,Rayo-Vallecano,89,1.0,1.0,0.0,56,1.0,3085,Rayo-Vallecano
+,Rayco García Dauta,es ESP,FW,6,1,0.0,0.0,2011-2012,/en/players/018ce429/Rayco-Garcia-Dauta,018ce429,Rayo-Vallecano,217,2.4,1.0,0.0,56,1.0,3456,Rayo-Vallecano
+,Rafa García,es ESP,MF,4,1,0.0,0.0,2011-2012,/en/players/bebdff6f/Rafa-Garcia,bebdff6f,Rayo-Vallecano,150,1.7,1.0,0.0,56,1.0,3336,Rayo-Vallecano
+,Daniel Pacheco,es ESP,"FW,MF",11,0,0.0,0.0,2011-2012,/en/players/5b2a4b8d/Daniel-Pacheco,5b2a4b8d,Rayo-Vallecano,284,3.2,0.0,0.0,56,1.0,1469,Rayo-Vallecano
+,Koke,es ESP,FW,5,0,0.0,1.0,2011-2012,/en/players/9ce4fff8/Koke,9ce4fff8,Rayo-Vallecano,146,1.6,0.0,0.0,56,1.0,2306,Rayo-Vallecano
+,Aitor Núñez,es ESP,DF,1,0,0.0,0.0,2011-2012,/en/players/511e3986/Aitor-Nunez,511e3986,Rayo-Vallecano,63,0.7,0.0,0.0,56,1.0,3457,Rayo-Vallecano
+,Diego Benito Rey,es ESP,MF,4,0,0.0,0.0,2011-2012,/en/players/049c2adb/Diego-Benito-Rey,049c2adb,Rayo-Vallecano,40,0.4,0.0,0.0,56,1.0,3454,Rayo-Vallecano
+,Néstor Susaeta,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,/en/players/ff0c8ca6/Nestor-Susaeta,ff0c8ca6,Rayo-Vallecano,25,0.3,0.0,0.0,56,1.0,3442,Rayo-Vallecano
+,Alberto Perea,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,/en/players/5496cc91/Alberto-Perea,5496cc91,Rayo-Vallecano,12,0.1,0.0,0.0,56,1.0,3458,Rayo-Vallecano
+,﻿Javi Fuego,es ESP,MF,36,36,1.0,0.0,2012-2013,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Rayo-Vallecano,"3,209",35.7,14.0,0.0,56,1.0,949,Rayo-Vallecano
+,Piti,es ESP,"FW,MF",35,33,2.0,18.0,2012-2013,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,"2,808",31.2,9.0,0.0,56,1.0,3433,Rayo-Vallecano
+,Chori Domínguez,ar ARG,"FW,MF",33,32,4.0,5.0,2012-2013,/en/players/bbb66f34/Chori-Dominguez,bbb66f34,Rayo-Vallecano,"2,695",29.9,12.0,0.0,56,5.0,929,Rayo-Vallecano
+,Tito,es ESP,DF,33,31,0.0,1.0,2012-2013,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"2,744",30.5,9.0,0.0,56,1.0,3444,Rayo-Vallecano
+,Roberto Trashorras,es ESP,MF,35,31,4.0,1.0,2012-2013,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,"2,727",30.3,6.0,0.0,56,1.0,705,Rayo-Vallecano
+,Rubén,es ESP,GK,30,29,0.0,0.0,2012-2013,/en/players/24279b8b/Ruben,24279b8b,Rayo-Vallecano,"2,614",29.0,8.0,1.0,56,1.0,529,Rayo-Vallecano
+,José Manuel Casado,es ESP,DF,28,28,4.0,0.0,2012-2013,/en/players/d0b6d20e/Jose-Manuel-Casado,d0b6d20e,Rayo-Vallecano,"2,270",25.2,12.0,1.0,56,1.0,1837,Rayo-Vallecano
+,Léo Baptistão,br BRA,"FW,MF",28,26,7.0,7.0,2012-2013,/en/players/35f6db55/Leo-Baptistao,35f6db55,Rayo-Vallecano,"2,238",24.9,5.0,0.0,56,2.0,1451,Rayo-Vallecano
+,Jordi Amat,es ESP,DF,27,26,0.0,1.0,2012-2013,/en/players/d70a2141/Jordi-Amat,d70a2141,Rayo-Vallecano,"2,193",24.4,12.0,0.0,56,1.0,1495,Rayo-Vallecano
+,Álex Gálvez,es ESP,"DF,MF",28,24,0.0,0.0,2012-2013,/en/players/960fb42d/Alex-Galvez,960fb42d,Rayo-Vallecano,"2,246",25.0,12.0,1.0,56,1.0,3459,Rayo-Vallecano
+,José Carlos,es ESP,"FW,MF",32,21,1.0,2.0,2012-2013,/en/players/6738f3c6/Jose-Carlos,6738f3c6,Rayo-Vallecano,"2,118",23.5,4.0,0.0,56,1.0,1846,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",32,20,5.0,3.0,2012-2013,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,"1,772",19.7,6.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Jordi,es ESP,DF,14,13,0.0,0.0,2012-2013,/en/players/744a8a7c/Jordi,744a8a7c,Rayo-Vallecano,"1,183",13.1,5.0,0.0,56,1.0,710,Rayo-Vallecano
+,Andrija Delibašić,me MNE,FW,32,11,1.0,6.0,2012-2013,/en/players/4de03033/Andrija-Delibasic,4de03033,Rayo-Vallecano,"1,284",14.3,6.0,0.0,56,33.0,252,Rayo-Vallecano
+,Adrián González,es ESP,MF,21,8,1.0,0.0,2012-2013,/en/players/57ebd662/Adrian-Gonzalez,57ebd662,Rayo-Vallecano,806,9.0,5.0,0.0,56,1.0,697,Rayo-Vallecano
+,Anaitz Arbilla,es ESP,DF,11,8,0.0,0.0,2012-2013,/en/players/850c0a0d/Anaitz-Arbilla,850c0a0d,Rayo-Vallecano,788,8.8,1.0,0.0,56,1.0,3079,Rayo-Vallecano
+,Nacho,es ESP,DF,10,8,0.0,1.0,2012-2013,/en/players/e29d1111/Nacho,29d1111,Rayo-Vallecano,753,8.4,3.0,0.0,56,1.0,2649,Rayo-Vallecano
+,Franco Vázquez,ar ARG,"FW,MF",18,8,0.0,3.0,2012-2013,/en/players/467bae22/Franco-Vazquez,467bae22,Rayo-Vallecano,748,8.3,2.0,0.0,56,5.0,1908,Rayo-Vallecano
+,David Cobeño,es ESP,GK,8,8,0.0,0.0,2012-2013,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,695,7.7,1.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Mikel Labaka,es ESP,DF,10,7,0.0,0.0,2012-2013,/en/players/e83de90d/Mikel-Labaka,83de90d,Rayo-Vallecano,648,7.2,4.0,1.0,56,1.0,219,Rayo-Vallecano
+,Nicki Bille Nielsen,dk DEN,FW,9,4,0.0,0.0,2012-2013,/en/players/c0a57418/Nicki-Bille-Nielsen,c0a57418,Rayo-Vallecano,397,4.4,1.0,0.0,56,7.0,2758,Rayo-Vallecano
+,Rodri,es ESP,DF,4,3,0.0,0.0,2012-2013,/en/players/7fa4aa89/Rodri,7fa4aa89,Rayo-Vallecano,211,2.3,2.0,0.0,56,1.0,421,Rayo-Vallecano
+,Alberto Perea,es ESP,"FW,MF",4,1,0.0,0.0,2012-2013,/en/players/5496cc91/Alberto-Perea,5496cc91,Rayo-Vallecano,142,1.6,0.0,0.0,56,1.0,3458,Rayo-Vallecano
+,Dani Giménez,es ESP,GK,2,1,0.0,0.0,2012-2013,/en/players/7c218bf9/Dani-Gimenez,7c218bf9,Rayo-Vallecano,111,1.2,0.0,0.0,56,1.0,542,Rayo-Vallecano
+,Mohammed Abu,gh GHA,"FW,MF",1,1,0.0,0.0,2012-2013,/en/players/c1f17b17/Mohammed-Abu,c1f17b17,Rayo-Vallecano,56,0.6,0.0,0.0,56,17.0,3460,Rayo-Vallecano
+,Raúl Tamudo,es ESP,FW,4,0,0.0,1.0,2012-2013,/en/players/c026089c/Raul-Tamudo,c026089c,Rayo-Vallecano,63,0.7,0.0,0.0,56,1.0,280,Rayo-Vallecano
+,Rubén Ramiro,es ESP,FW,1,0,0.0,0.0,2012-2013,/en/players/9de36b0a/Ruben-Ramiro,9de36b0a,Rayo-Vallecano,29,0.3,0.0,0.0,56,1.0,3461,Rayo-Vallecano
+,Manuel Arana,es ESP,MF,2,0,0.0,0.0,2012-2013,/en/players/81fac4d9/Manuel-Arana,81fac4d9,Rayo-Vallecano,17,0.2,0.0,0.0,56,1.0,1659,Rayo-Vallecano
+,Isaac Gómez,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/2f235f73/Isaac-Gomez,2f235f73,Rayo-Vallecano,8,0.1,0.0,0.0,56,1.0,3462,Rayo-Vallecano
+,﻿Roberto Trashorras,es ESP,MF,37,36,8.0,1.0,2013-2014,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,"3,144",34.9,7.0,0.0,56,1.0,705,Rayo-Vallecano
+,Saúl Ñíguez,es ESP,"DF,MF",34,34,1.0,2.0,2013-2014,/en/players/c14bc029/Saul-Niguez,c14bc029,Rayo-Vallecano,"3,003",33.4,13.0,1.0,56,1.0,2206,Rayo-Vallecano
+,Rubén,es ESP,GK,34,34,0.0,0.0,2013-2014,/en/players/24279b8b/Ruben,24279b8b,Rayo-Vallecano,"2,994",33.3,2.0,1.0,56,1.0,529,Rayo-Vallecano
+,Alberto Bueno,es ESP,"FW,MF",37,31,4.0,11.0,2013-2014,/en/players/9b878773/Alberto-Bueno,9b878773,Rayo-Vallecano,"2,475",27.5,3.0,0.0,56,1.0,78,Rayo-Vallecano
+,Anaitz Arbilla,es ESP,DF,30,26,0.0,1.0,2013-2014,/en/players/850c0a0d/Anaitz-Arbilla,850c0a0d,Rayo-Vallecano,"2,382",26.5,9.0,1.0,56,1.0,3079,Rayo-Vallecano
+,Álex Gálvez,es ESP,"DF,MF",26,26,1.0,2.0,2013-2014,/en/players/960fb42d/Alex-Galvez,960fb42d,Rayo-Vallecano,"2,209",24.5,14.0,1.0,56,1.0,3459,Rayo-Vallecano
+,Iago Falque,es ESP,"FW,MF",28,26,2.0,3.0,2013-2014,/en/players/440c84ed/Iago-Falque,440c84ed,Rayo-Vallecano,"1,972",21.9,2.0,0.0,56,1.0,3463,Rayo-Vallecano
+,Joaquín Larrivey,ar ARG,FW,35,24,4.0,12.0,2013-2014,/en/players/7ae94e67/Joaquin-Larrivey,7ae94e67,Rayo-Vallecano,"2,417",26.9,4.0,0.0,56,5.0,766,Rayo-Vallecano
+,Tito,es ESP,DF,24,22,1.0,0.0,2013-2014,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"1,882",20.9,6.0,0.0,56,1.0,3444,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",28,19,0.0,0.0,2013-2014,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,"1,785",19.8,4.0,1.0,56,74.0,3453,Rayo-Vallecano
+,Zé Castro,pt POR,DF,19,19,0.0,0.0,2013-2014,/en/players/ea2434db/Ze-Castro,2434db,Rayo-Vallecano,"1,700",18.9,5.0,0.0,56,3.0,433,Rayo-Vallecano
+,Nacho,es ESP,DF,23,19,1.0,0.0,2013-2014,/en/players/e29d1111/Nacho,29d1111,Rayo-Vallecano,"1,683",18.7,7.0,1.0,56,1.0,2649,Rayo-Vallecano
+,Jonathan Viera,es ESP,"FW,MF",26,18,7.0,5.0,2013-2014,/en/players/efa708aa/Jonathan-Viera,fa708aa,Rayo-Vallecano,"1,730",19.2,3.0,1.0,56,1.0,947,Rayo-Vallecano
+,Raúl Baena,es ESP,MF,20,15,0.0,0.0,2013-2014,/en/players/df9c9276/Raul-Baena,df9c9276,Rayo-Vallecano,"1,222",13.6,4.0,1.0,56,1.0,3053,Rayo-Vallecano
+,Rubén Rochina,es ESP,"FW,MF",17,15,0.0,3.0,2013-2014,/en/players/ecd8c01e/Ruben-Rochina,cd8c01e,Rayo-Vallecano,"1,097",12.2,2.0,0.0,56,1.0,3595,Rayo-Vallecano
+,Adrián González,es ESP,MF,17,10,0.0,1.0,2013-2014,/en/players/57ebd662/Adrian-Gonzalez,57ebd662,Rayo-Vallecano,982,10.9,5.0,0.0,56,1.0,697,Rayo-Vallecano
+,Răzvan Raț,ro ROU,DF,10,9,0.0,0.0,2013-2014,/en/players/0a0ee36e/Razvan-Rat,0a0ee36e,Rayo-Vallecano,836,9.3,1.0,1.0,56,51.0,3464,Rayo-Vallecano
+,Johan Mojica,co COL,"DF,MF",12,7,0.0,0.0,2013-2014,/en/players/608f2092/Johan-Mojica,608f2092,Rayo-Vallecano,741,8.2,2.0,0.0,56,19.0,2607,Rayo-Vallecano
+,Leonel Galeano,ar ARG,DF,7,7,0.0,0.0,2013-2014,/en/players/53144c79/Leonel-Galeano,53144c79,Rayo-Vallecano,486,5.4,4.0,0.0,56,5.0,3465,Rayo-Vallecano
+,Nery Castillo,mx MEX,"DF,FW",11,5,0.0,2.0,2013-2014,/en/players/bb34761d/Nery-Castillo,bb34761d,Rayo-Vallecano,456,5.1,0.0,0.0,56,20.0,3466,Rayo-Vallecano
+,Alberto Perea,es ESP,"FW,MF",8,5,0.0,1.0,2013-2014,/en/players/5496cc91/Alberto-Perea,5496cc91,Rayo-Vallecano,432,4.8,0.0,0.0,56,1.0,3458,Rayo-Vallecano
+,David Cobeño,es ESP,GK,5,4,0.0,0.0,2013-2014,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,426,4.7,0.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Borja López,es ESP,DF,3,3,0.0,0.0,2013-2014,/en/players/d02d04ea/Borja-Lopez,d02d04ea,Rayo-Vallecano,192,2.1,0.0,0.0,56,1.0,501,Rayo-Vallecano
+,Seba Fernández,uy URU,FW,9,2,0.0,1.0,2013-2014,/en/players/8ea14d54/Seba-Fernandez,8ea14d54,Rayo-Vallecano,303,3.4,0.0,0.0,56,8.0,2370,Rayo-Vallecano
+,José Carlos,es ESP,"FW,MF",3,1,0.0,0.0,2013-2014,/en/players/6738f3c6/Jose-Carlos,6738f3c6,Rayo-Vallecano,126,1.4,0.0,0.0,56,1.0,1846,Rayo-Vallecano
+,Rodri,es ESP,DF,1,1,0.0,0.0,2013-2014,/en/players/7fa4aa89/Rodri,7fa4aa89,Rayo-Vallecano,90,1.0,1.0,0.0,56,1.0,421,Rayo-Vallecano
+,Adri Embarba,es ESP,"FW,MF",11,0,1.0,0.0,2013-2014,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,351,3.9,0.0,0.0,56,1.0,3104,Rayo-Vallecano
+,Samuele Longo,it ITA,FW,9,0,0.0,0.0,2013-2014,/en/players/1163de29/Samuele-Longo,1163de29,Rayo-Vallecano,136,1.5,1.0,0.0,56,9.0,570,Rayo-Vallecano
+,Christian Cueva,pe PER,MF,1,0,0.0,0.0,2013-2014,/en/players/57376761/Christian-Cueva,57376761,Rayo-Vallecano,29,0.3,0.0,0.0,56,57.0,3467,Rayo-Vallecano
+,Rubén Ramiro,es ESP,FW,1,0,0.0,0.0,2013-2014,/en/players/9de36b0a/Ruben-Ramiro,9de36b0a,Rayo-Vallecano,9,0.1,0.0,0.0,56,1.0,3461,Rayo-Vallecano
+,﻿Gaël Kakuta,cd COD,"FW,MF",35,35,7.0,5.0,2014-2015,/en/players/5b1bf5e3/Gael-Kakuta,5b1bf5e3,Rayo-Vallecano,"3,053",33.9,1.0,0.0,56,50.0,522,Rayo-Vallecano
+,Alberto Bueno,es ESP,"FW,MF",36,35,4.0,17.0,2014-2015,/en/players/9b878773/Alberto-Bueno,9b878773,Rayo-Vallecano,"2,864",31.8,4.0,0.0,56,1.0,78,Rayo-Vallecano
+,Roberto Trashorras,es ESP,MF,33,33,4.0,1.0,2014-2015,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,"2,883",32.0,11.0,0.0,56,1.0,705,Rayo-Vallecano
+,Tito,es ESP,DF,33,31,2.0,0.0,2014-2015,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"2,838",31.5,11.0,1.0,56,1.0,3444,Rayo-Vallecano
+,Zé Castro,pt POR,DF,28,28,3.0,0.0,2014-2015,/en/players/ea2434db/Ze-Castro,2434db,Rayo-Vallecano,"2,409",26.8,6.0,0.0,56,3.0,433,Rayo-Vallecano
+,Raúl Baena,es ESP,MF,28,28,0.0,2.0,2014-2015,/en/players/df9c9276/Raul-Baena,df9c9276,Rayo-Vallecano,"2,330",25.9,14.0,1.0,56,1.0,3053,Rayo-Vallecano
+,Léo Baptistão,br BRA,"FW,MF",25,22,1.0,7.0,2014-2015,/en/players/35f6db55/Leo-Baptistao,35f6db55,Rayo-Vallecano,"1,776",19.7,3.0,0.0,56,2.0,1451,Rayo-Vallecano
+,Emiliano Insúa,ar ARG,DF,24,21,1.0,1.0,2014-2015,/en/players/f3cccffe/Emiliano-Insua,f3cccffe,Rayo-Vallecano,"1,798",20.0,7.0,0.0,56,5.0,2202,Rayo-Vallecano
+,Toño,es ESP,GK,21,20,0.0,0.0,2014-2015,/en/players/2ed4ea81/Tono,2ed4ea81,Rayo-Vallecano,"1,724",19.2,2.0,0.0,56,1.0,2857,Rayo-Vallecano
+,Abdoulaye Ba,sn SEN,DF,20,20,0.0,0.0,2014-2015,/en/players/1f54ed90/Abdoulaye-Ba,1f54ed90,Rayo-Vallecano,"1,609",17.9,10.0,0.0,56,34.0,3468,Rayo-Vallecano
+,Antonio Amaya,es ESP,DF,19,19,0.0,1.0,2014-2015,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Rayo-Vallecano,"1,587",17.6,6.0,0.0,56,1.0,1436,Rayo-Vallecano
+,Licá,pt POR,"FW,MF",21,17,3.0,0.0,2014-2015,/en/players/41d84fed/Lica,41d84fed,Rayo-Vallecano,"1,294",14.4,2.0,0.0,56,3.0,3469,Rayo-Vallecano
+,Cristian Álvarez,ar ARG,GK,17,16,0.0,0.0,2014-2015,/en/players/87e89eb4/Cristian-Alvarez,87e89eb4,Rayo-Vallecano,"1,440",16.0,2.0,0.0,56,5.0,3050,Rayo-Vallecano
+,Javier Aquino,mx MEX,"DF,MF",24,13,2.0,0.0,2014-2015,/en/players/215104cc/Javier-Aquino,215104cc,Rayo-Vallecano,"1,270",14.1,2.0,2.0,56,20.0,2767,Rayo-Vallecano
+,Manucho,ao ANG,FW,37,12,1.0,5.0,2014-2015,/en/players/89b18034/Manucho,89b18034,Rayo-Vallecano,"1,651",18.3,5.0,0.0,56,48.0,2565,Rayo-Vallecano
+,Nacho,es ESP,DF,13,11,1.0,0.0,2014-2015,/en/players/e29d1111/Nacho,29d1111,Rayo-Vallecano,936,10.4,5.0,0.0,56,1.0,2649,Rayo-Vallecano
+,Jozabed,es ESP,MF,23,10,1.0,1.0,2014-2015,/en/players/9b337c7c/Jozabed,9b337c7c,Rayo-Vallecano,"1,185",13.2,2.0,0.0,56,1.0,786,Rayo-Vallecano
+,Quini,es ESP,"DF,MF",17,10,0.0,0.0,2014-2015,/en/players/7a538238/Quini,7a538238,Rayo-Vallecano,"1,156",12.8,5.0,0.0,56,1.0,3470,Rayo-Vallecano
+,Adri Embarba,es ESP,"FW,MF",14,9,3.0,3.0,2014-2015,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,836,9.3,1.0,0.0,56,1.0,3104,Rayo-Vallecano
+,Mohammed Fatau,gh GHA,MF,10,9,0.0,0.0,2014-2015,/en/players/b4dd30a0/Mohammed-Fatau,b4dd30a0,Rayo-Vallecano,699,7.8,4.0,0.0,56,17.0,3471,Rayo-Vallecano
+,Jorge Morcillo,es ESP,DF,13,7,0.0,1.0,2014-2015,/en/players/ebbbf1dd/Jorge-Morcillo,bbbf1dd,Rayo-Vallecano,744,8.3,4.0,2.0,56,1.0,3205,Rayo-Vallecano
+,Álex Moreno,es ESP,"DF,MF",11,4,0.0,0.0,2014-2015,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Rayo-Vallecano,463,5.1,0.0,0.0,56,1.0,1519,Rayo-Vallecano
+,Alejandro Pozuelo,es ESP,"FW,MF",11,3,0.0,0.0,2014-2015,/en/players/5e1280ff/Alejandro-Pozuelo,5e1280ff,Rayo-Vallecano,434,4.8,0.0,0.0,56,1.0,1435,Rayo-Vallecano
+,David Cobeño,es ESP,GK,3,2,0.0,0.0,2014-2015,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,246,2.7,1.0,0.0,56,1.0,1827,Rayo-Vallecano
+,Miku,ve VEN,FW,7,2,0.0,2.0,2014-2015,/en/players/4eba9598/Miku,4eba9598,Rayo-Vallecano,227,2.5,0.0,0.0,56,53.0,596,Rayo-Vallecano
+,Jonathan Pereira,es ESP,FW,3,1,0.0,0.0,2014-2015,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Rayo-Vallecano,116,1.3,1.0,0.0,56,1.0,1427,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",1,0,0.0,0.0,2014-2015,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,16,0.2,0.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Pablo Clavería,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/1624d75b/Pablo-Claveria,1624d75b,Rayo-Vallecano,11,0.1,0.0,0.0,56,1.0,3472,Rayo-Vallecano
+,Álex Campos,es ESP,GK,0,0,,,2014-2015,/en/players/24ad632c/Alex-Campos,24ad632c,Rayo-Vallecano,,,,,56,1.0,3473,Rayo-Vallecano
+,﻿Roberto Trashorras,es ESP,MF,36,35,7.0,2.0,2015-2016,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,"3,116",34.6,10.0,0.0,56,1.0,705,Rayo-Vallecano
+,Diego Llorente,es ESP,"DF,MF",33,33,0.0,2.0,2015-2016,/en/players/bba30585/Diego-Llorente,bba30585,Rayo-Vallecano,"2,874",31.9,10.0,1.0,56,1.0,114,Rayo-Vallecano
+,Tito,es ESP,DF,29,29,4.0,1.0,2015-2016,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"2,483",27.6,6.0,2.0,56,1.0,3444,Rayo-Vallecano
+,Bebé,cv CPV,MF,34,27,7.0,3.0,2015-2016,/en/players/d8712bf9/Bebe,d8712bf9,Rayo-Vallecano,"2,237",24.9,3.0,0.0,56,85.0,3484,Rayo-Vallecano
+,Jozabed,es ESP,MF,27,24,2.0,10.0,2015-2016,/en/players/9b337c7c/Jozabed,9b337c7c,Rayo-Vallecano,"2,059",22.9,3.0,0.0,56,1.0,786,Rayo-Vallecano
+,Pablo Hernández,es ESP,MF,27,24,4.0,3.0,2015-2016,/en/players/c0398aca/Pablo-Hernandez,c0398aca,Rayo-Vallecano,"1,908",21.2,3.0,0.0,56,1.0,906,Rayo-Vallecano
+,Javi Guerra,es ESP,FW,30,23,0.0,12.0,2015-2016,/en/players/aa386464/Javi-Guerra,386464,Rayo-Vallecano,"2,090",23.2,8.0,0.0,56,1.0,912,Rayo-Vallecano
+,Quini,es ESP,DF,27,22,2.0,0.0,2015-2016,/en/players/7a538238/Quini,7a538238,Rayo-Vallecano,"2,049",22.8,7.0,0.0,56,1.0,3470,Rayo-Vallecano
+,Raúl Baena,es ESP,MF,24,22,1.0,1.0,2015-2016,/en/players/df9c9276/Raul-Baena,df9c9276,Rayo-Vallecano,"1,836",20.4,12.0,1.0,56,1.0,3053,Rayo-Vallecano
+,Zé Castro,pt POR,DF,22,22,0.0,2.0,2015-2016,/en/players/ea2434db/Ze-Castro,2434db,Rayo-Vallecano,"1,714",19.0,8.0,1.0,56,3.0,433,Rayo-Vallecano
+,Nacho,es ESP,DF,22,22,0.0,0.0,2015-2016,/en/players/e29d1111/Nacho,29d1111,Rayo-Vallecano,"1,706",19.0,7.0,0.0,56,1.0,2649,Rayo-Vallecano
+,Adri Embarba,es ESP,MF,28,19,3.0,2.0,2015-2016,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,"1,832",20.4,5.0,0.0,56,1.0,3104,Rayo-Vallecano
+,Juan Carlos,es ESP,GK,21,19,0.0,0.0,2015-2016,/en/players/688b96e3/Juan-Carlos,688b96e3,Rayo-Vallecano,"1,803",20.0,1.0,0.0,56,1.0,3452,Rayo-Vallecano
+,Miku,ve VEN,"FW,MF",22,18,4.0,9.0,2015-2016,/en/players/4eba9598/Miku,4eba9598,Rayo-Vallecano,"1,545",17.2,4.0,0.0,56,53.0,596,Rayo-Vallecano
+,Antonio Amaya,es ESP,DF,17,10,1.0,1.0,2015-2016,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Rayo-Vallecano,"1,033",11.5,6.0,1.0,56,1.0,1436,Rayo-Vallecano
+,Toño,es ESP,GK,10,10,0.0,0.0,2015-2016,/en/players/2ed4ea81/Tono,2ed4ea81,Rayo-Vallecano,806,9.0,0.0,1.0,56,1.0,2857,Rayo-Vallecano
+,Yoel,es ESP,GK,9,9,0.0,0.0,2015-2016,/en/players/61bb7498/Yoel,61bb7498,Rayo-Vallecano,810,9.0,1.0,1.0,56,1.0,727,Rayo-Vallecano
+,José Ángel Crespo,es ESP,DF,9,9,0.0,0.0,2015-2016,/en/players/8ec4c2f7/Jose-Angel-Crespo,8ec4c2f7,Rayo-Vallecano,715,7.9,4.0,0.0,56,1.0,1821,Rayo-Vallecano
+,Răzvan Raț,ro ROU,DF,10,8,0.0,0.0,2015-2016,/en/players/0a0ee36e/Razvan-Rat,0a0ee36e,Rayo-Vallecano,736,8.2,3.0,0.0,56,51.0,3464,Rayo-Vallecano
+,Lass Bangoura,gn GUI,MF,16,7,1.0,0.0,2015-2016,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,805,8.9,2.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Patrick Ebert,de GER,MF,9,7,0.0,0.0,2015-2016,/en/players/92d24319/Patrick-Ebert,92d24319,Rayo-Vallecano,555,6.2,3.0,1.0,56,13.0,2592,Rayo-Vallecano
+,Manucho,ao ANG,FW,28,5,1.0,4.0,2015-2016,/en/players/89b18034/Manucho,89b18034,Rayo-Vallecano,949,10.5,3.0,0.0,56,48.0,2565,Rayo-Vallecano
+,Chechu,es ESP,DF,10,4,0.0,0.0,2015-2016,/en/players/e98f3a6a/Chechu,98f3a6a,Rayo-Vallecano,470,5.2,2.0,0.0,56,1.0,1420,Rayo-Vallecano
+,Manuel Iturra,cl CHI,MF,6,4,0.0,0.0,2015-2016,/en/players/000b3da6/Manuel-Iturra,000b3da6,Rayo-Vallecano,383,4.3,2.0,1.0,56,31.0,2382,Rayo-Vallecano
+,Piti,es ESP,MF,8,4,0.0,0.0,2015-2016,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,337,3.7,1.0,0.0,56,1.0,3433,Rayo-Vallecano
+,Joni Montiel,es ESP,MF,8,1,0.0,0.0,2015-2016,/en/players/535771bb/Joni-Montiel,535771bb,Rayo-Vallecano,215,2.4,0.0,0.0,56,1.0,556,Rayo-Vallecano
+,Aras Özbiliz,am ARM,MF,3,1,1.0,0.0,2015-2016,/en/players/5c081e18/Aras-Ozbiliz,5c081e18,Rayo-Vallecano,100,1.1,1.0,0.0,56,105.0,3474,Rayo-Vallecano
+,Luis Fariña,ar ARG,"FW,MF",3,0,0.0,0.0,2015-2016,/en/players/2a8b21d4/Luis-Farina,2a8b21d4,Rayo-Vallecano,55,0.6,0.0,0.0,56,5.0,493,Rayo-Vallecano
+,Zhang Chengdong,cn CHN,"DF,FW",1,0,0.0,0.0,2015-2016,/en/players/891016f1/Zhang-Chengdong,891016f1,Rayo-Vallecano,9,0.1,0.0,0.0,56,101.0,3475,Rayo-Vallecano
+,Sergio Akieme,es ESP,DF,0,0,,,2015-2016,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Rayo-Vallecano,,,,,56,1.0,1192,Rayo-Vallecano
+,Álex Campos,es ESP,GK,0,0,,,2015-2016,/en/players/24ad632c/Alex-Campos,24ad632c,Rayo-Vallecano,,,,,56,1.0,3473,Rayo-Vallecano
+,Ousseynou Cissé,ml MLI,"DF,MF",0,0,,,2015-2016,/en/players/d42d12b7/Ousseynou-Cisse,d42d12b7,Rayo-Vallecano,,,,,56,12.0,3476,Rayo-Vallecano
+,Pablo Clavería,es ESP,MF,0,0,,,2015-2016,/en/players/1624d75b/Pablo-Claveria,1624d75b,Rayo-Vallecano,,,,,56,1.0,3472,Rayo-Vallecano
+,David Cobeño,es ESP,GK,0,0,,,2015-2016,/en/players/df7b0840/David-Cobeno,df7b0840,Rayo-Vallecano,,,,,56,1.0,1827,Rayo-Vallecano
+,Juancho,co COL,FW,0,0,,,2015-2016,/en/players/ec81ad5b/Juancho,c81ad5b,Rayo-Vallecano,,,,,56,19.0,3477,Rayo-Vallecano
+,﻿Paulo Gazzaniga,ar ARG,GK,32,32,0.0,0.0,2016-2017,/en/players/63d17038/Paulo-Gazzaniga,63d17038,Rayo-Vallecano,"2,880",32.0,6.0,0.0,56,5.0,3478,Rayo-Vallecano
+,Antonio Amaya,es ESP,DF,32,32,1.0,2.0,2016-2017,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Rayo-Vallecano,"2,816",31.3,14.0,0.0,56,1.0,1436,Rayo-Vallecano
+,Roberto Trashorras,es ESP,MF,34,32,1.0,1.0,2016-2017,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,"2,699",30.0,10.0,0.0,56,1.0,705,Rayo-Vallecano
+,Adri Embarba,es ESP,MF,33,31,4.0,7.0,2016-2017,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,"2,683",29.8,6.0,0.0,56,1.0,3104,Rayo-Vallecano
+,Álex Moreno,es ESP,"DF,MF",37,29,3.0,4.0,2016-2017,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Rayo-Vallecano,"2,689",29.9,2.0,0.0,56,1.0,1519,Rayo-Vallecano
+,Javi Guerra,es ESP,FW,34,27,3.0,9.0,2016-2017,/en/players/aa386464/Javi-Guerra,386464,Rayo-Vallecano,"2,329",25.9,2.0,0.0,56,1.0,912,Rayo-Vallecano
+,Patrick Ebert,de GER,MF,27,26,4.0,5.0,2016-2017,/en/players/92d24319/Patrick-Ebert,92d24319,Rayo-Vallecano,"1,933",21.5,7.0,0.0,56,13.0,2592,Rayo-Vallecano
+,Fran Beltrán,es ESP,MF,31,23,0.0,1.0,2016-2017,/en/players/ed5c5fa3/Fran-Beltran,d5c5fa3,Rayo-Vallecano,"2,170",24.1,4.0,0.0,56,1.0,807,Rayo-Vallecano
+,Chechu,es ESP,DF,23,23,0.0,0.0,2016-2017,/en/players/e98f3a6a/Chechu,98f3a6a,Rayo-Vallecano,"2,012",22.4,3.0,0.0,56,1.0,1420,Rayo-Vallecano
+,Quini,es ESP,DF,27,22,1.0,0.0,2016-2017,/en/players/7a538238/Quini,7a538238,Rayo-Vallecano,"2,105",23.4,6.0,0.0,56,1.0,3470,Rayo-Vallecano
+,Zé Castro,pt POR,DF,23,22,0.0,0.0,2016-2017,/en/players/ea2434db/Ze-Castro,2434db,Rayo-Vallecano,"1,985",22.1,5.0,0.0,56,3.0,433,Rayo-Vallecano
+,Ernesto Galán,es ESP,DF,22,21,0.0,2.0,2016-2017,/en/players/7e4af593/Ernesto-Galan,7e4af593,Rayo-Vallecano,"1,843",20.5,3.0,2.0,56,1.0,3059,Rayo-Vallecano
+,Manucho,ao ANG,FW,38,16,0.0,5.0,2016-2017,/en/players/89b18034/Manucho,89b18034,Rayo-Vallecano,"1,870",20.8,4.0,0.0,56,48.0,2565,Rayo-Vallecano
+,Răzvan Raț,ro ROU,DF,16,14,0.0,0.0,2016-2017,/en/players/0a0ee36e/Razvan-Rat,0a0ee36e,Rayo-Vallecano,"1,175",13.1,5.0,0.0,56,51.0,3464,Rayo-Vallecano
+,Raúl Baena,es ESP,MF,19,14,0.0,1.0,2016-2017,/en/players/df9c9276/Raul-Baena,df9c9276,Rayo-Vallecano,"1,138",12.6,4.0,0.0,56,1.0,3053,Rayo-Vallecano
+,Diego Aguirre,es ESP,MF,18,12,1.0,0.0,2016-2017,/en/players/45b8139c/Diego-Aguirre,45b8139c,Rayo-Vallecano,"1,125",12.5,3.0,2.0,56,1.0,600,Rayo-Vallecano
+,Lass Bangoura,gn GUI,MF,22,11,2.0,1.0,2016-2017,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,"1,061",11.8,3.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Nacho,es ESP,DF,11,11,2.0,0.0,2016-2017,/en/players/e29d1111/Nacho,29d1111,Rayo-Vallecano,949,10.5,4.0,0.0,56,1.0,2649,Rayo-Vallecano
+,Santi Comesaña,es ESP,MF,17,11,1.0,2.0,2016-2017,/en/players/5ae499d0/Santi-Comesana,5ae499d0,Rayo-Vallecano,830,9.2,3.0,2.0,56,1.0,3482,Rayo-Vallecano
+,Miku,ve VEN,"FW,MF",14,9,1.0,2.0,2016-2017,/en/players/4eba9598/Miku,4eba9598,Rayo-Vallecano,835,9.3,3.0,2.0,56,53.0,596,Rayo-Vallecano
+,Toño,es ESP,GK,8,8,0.0,0.0,2016-2017,/en/players/2ed4ea81/Tono,2ed4ea81,Rayo-Vallecano,720,8.0,2.0,0.0,56,1.0,2857,Rayo-Vallecano
+,Jordi Gómez,es ESP,MF,12,7,0.0,0.0,2016-2017,/en/players/d92b0327/Jordi-Gomez,d92b0327,Rayo-Vallecano,674,7.5,3.0,0.0,56,1.0,3044,Rayo-Vallecano
+,Bruno Zuculini,ar ARG,MF,9,7,0.0,0.0,2016-2017,/en/players/17cddb4d/Bruno-Zuculini,17cddb4d,Rayo-Vallecano,590,6.6,3.0,0.0,56,5.0,968,Rayo-Vallecano
+,Franco Cristaldo,ar ARG,MF,12,6,0.0,1.0,2016-2017,/en/players/25b26e2e/Franco-Cristaldo,25b26e2e,Rayo-Vallecano,635,7.1,1.0,0.0,56,5.0,3479,Rayo-Vallecano
+,Pablo Íñiguez,es ESP,DF,6,6,1.0,0.0,2016-2017,/en/players/dd55192d/Pablo-Iniguez,dd55192d,Rayo-Vallecano,540,6.0,0.0,0.0,56,1.0,2772,Rayo-Vallecano
+,Johan Mojica,co COL,MF,6,4,1.0,0.0,2016-2017,/en/players/608f2092/Johan-Mojica,608f2092,Rayo-Vallecano,335,3.7,0.0,0.0,56,19.0,2607,Rayo-Vallecano
+,Pablo Clavería,es ESP,MF,8,3,0.0,0.0,2016-2017,/en/players/1624d75b/Pablo-Claveria,1624d75b,Rayo-Vallecano,367,4.1,0.0,0.0,56,1.0,3472,Rayo-Vallecano
+,Tomás Mejías,es ESP,GK,2,2,0.0,0.0,2016-2017,/en/players/dc0c0fd9/Tomas-Mejias,dc0c0fd9,Rayo-Vallecano,180,2.0,0.0,0.0,56,1.0,99,Rayo-Vallecano
+,Piti,es ESP,MF,7,1,0.0,0.0,2016-2017,/en/players/ab530738/Piti,b530738,Rayo-Vallecano,208,2.3,0.0,0.0,56,1.0,3433,Rayo-Vallecano
+,Toni Dovale,es ESP,"DF,MF",2,0,0.0,0.0,2016-2017,/en/players/d4b9adcf/Toni-Dovale,d4b9adcf,Rayo-Vallecano,59,0.7,0.0,0.0,56,1.0,726,Rayo-Vallecano
+,Joni Montiel,es ESP,MF,2,0,0.0,0.0,2016-2017,/en/players/535771bb/Joni-Montiel,535771bb,Rayo-Vallecano,32,0.4,0.0,0.0,56,1.0,556,Rayo-Vallecano
+,Sergio Akieme,es ESP,DF,0,0,,,2016-2017,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Rayo-Vallecano,,,,,56,1.0,1192,Rayo-Vallecano
+,Juancho,co COL,FW,0,0,,,2016-2017,/en/players/ec81ad5b/Juancho,c81ad5b,Rayo-Vallecano,,,,,56,19.0,3477,Rayo-Vallecano
+,Luis Alberto García Pacheco,co COL,GK,0,0,,,2016-2017,/en/players/5e9d0e32/Luis-Alberto-Garcia-Pacheco,5e9d0e32,Rayo-Vallecano,,,,,56,19.0,588,Rayo-Vallecano
+,﻿Alberto García,es ESP,GK,41,41,0.0,0.0,2017-2018,/en/players/17d9e354/Alberto-Garcia,17d9e354,Rayo-Vallecano,"3,690",41.0,3.0,0.0,56,1.0,3480,Rayo-Vallecano
+,Adri Embarba,es ESP,"MF,FW",42,41,14.0,8.0,2017-2018,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,"3,435",38.2,3.0,0.0,56,1.0,3104,Rayo-Vallecano
+,Álex Moreno,es ESP,DF,40,39,2.0,3.0,2017-2018,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Rayo-Vallecano,"3,501",38.9,2.0,0.0,56,1.0,1519,Rayo-Vallecano
+,Chechu,es ESP,DF,38,38,0.0,1.0,2017-2018,/en/players/e98f3a6a/Chechu,98f3a6a,Rayo-Vallecano,"3,326",37.0,3.0,0.0,56,1.0,1420,Rayo-Vallecano
+,Fran Beltrán,es ESP,MF,40,37,1.0,0.0,2017-2018,/en/players/ed5c5fa3/Fran-Beltran,d5c5fa3,Rayo-Vallecano,"3,190",35.4,5.0,0.0,56,1.0,807,Rayo-Vallecano
+,Unai López,es ESP,MF,39,37,3.0,3.0,2017-2018,/en/players/88050721/Unai-Lopez,88050721,Rayo-Vallecano,"3,185",35.4,12.0,0.0,56,1.0,1310,Rayo-Vallecano
+,Óscar Trejo,ar ARG,"MF,FW",36,36,5.0,12.0,2017-2018,/en/players/fc647b34/Oscar-Trejo,fc647b34,Rayo-Vallecano,"3,014",33.5,10.0,0.0,56,5.0,1602,Rayo-Vallecano
+,Baiano,br BRA,DF,36,35,1.0,0.0,2017-2018,/en/players/6c3ec833/Baiano,6c3ec833,Rayo-Vallecano,"3,131",34.8,9.0,0.0,56,2.0,3481,Rayo-Vallecano
+,Raúl de Tomás,es ESP,FW,32,30,3.0,24.0,2017-2018,/en/players/02ef8778/Raul-de-Tomas,02ef8778,Rayo-Vallecano,"2,496",27.7,8.0,0.0,56,1.0,131,Rayo-Vallecano
+,Santi Comesaña,es ESP,MF,33,30,2.0,2.0,2017-2018,/en/players/5ae499d0/Santi-Comesana,5ae499d0,Rayo-Vallecano,"2,301",25.6,5.0,1.0,56,1.0,3482,Rayo-Vallecano
+,Emiliano Velázquez,uy URU,DF,25,21,2.0,2.0,2017-2018,/en/players/5efb80d5/Emiliano-Velazquez,5efb80d5,Rayo-Vallecano,"1,857",20.6,3.0,3.0,56,8.0,3483,Rayo-Vallecano
+,Abdoulaye Ba,sn SEN,DF,18,15,0.0,0.0,2017-2018,/en/players/1f54ed90/Abdoulaye-Ba,1f54ed90,Rayo-Vallecano,"1,418",15.8,5.0,0.0,56,34.0,3468,Rayo-Vallecano
+,Antonio Amaya,es ESP,DF,17,11,0.0,1.0,2017-2018,/en/players/cfe5ba41/Antonio-Amaya,cfe5ba41,Rayo-Vallecano,"1,053",11.7,3.0,2.0,56,1.0,1436,Rayo-Vallecano
+,Diego Aguirre,es ESP,"MF,FW",19,10,1.0,3.0,2017-2018,/en/players/45b8139c/Diego-Aguirre,45b8139c,Rayo-Vallecano,819,9.1,2.0,0.0,56,1.0,600,Rayo-Vallecano
+,Bebé,cv CPV,"MF,FW",17,9,1.0,3.0,2017-2018,/en/players/d8712bf9/Bebe,d8712bf9,Rayo-Vallecano,899,10.0,3.0,0.0,56,85.0,3484,Rayo-Vallecano
+,Chori Domínguez,ar ARG,"FW,MF",19,9,3.0,2.0,2017-2018,/en/players/bbb66f34/Chori-Dominguez,bbb66f34,Rayo-Vallecano,853,9.5,3.0,2.0,56,5.0,929,Rayo-Vallecano
+,Ernesto Galán,es ESP,DF,7,6,0.0,0.0,2017-2018,/en/players/7e4af593/Ernesto-Galan,7e4af593,Rayo-Vallecano,514,5.7,0.0,0.0,56,1.0,3059,Rayo-Vallecano
+,Roberto Trashorras,es ESP,MF,7,5,0.0,0.0,2017-2018,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Rayo-Vallecano,459,5.1,2.0,0.0,56,1.0,705,Rayo-Vallecano
+,Gorka Elustondo,es ESP,MF,14,3,0.0,0.0,2017-2018,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Rayo-Vallecano,472,5.2,0.0,0.0,56,1.0,249,Rayo-Vallecano
+,Sergio Akieme,es ESP,DF,3,3,0.0,0.0,2017-2018,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Rayo-Vallecano,270,3.0,0.0,0.0,56,1.0,1192,Rayo-Vallecano
+,Javi Guerra,es ESP,FW,18,2,0.0,3.0,2017-2018,/en/players/aa386464/Javi-Guerra,386464,Rayo-Vallecano,491,5.5,1.0,0.0,56,1.0,912,Rayo-Vallecano
+,Francisco Cerro,ar ARG,MF,12,2,0.0,0.0,2017-2018,/en/players/dce69a7c/Francisco-Cerro,dce69a7c,Rayo-Vallecano,325,3.6,2.0,0.0,56,5.0,3485,Rayo-Vallecano
+,Lass Bangoura,gn GUI,MF,9,1,0.0,0.0,2017-2018,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,203,2.3,0.0,0.0,56,74.0,3453,Rayo-Vallecano
+,Mario Fernández,es ESP,GK,1,1,0.0,0.0,2017-2018,/en/players/02c89cb6/Mario-Fernandez,02c89cb6,Rayo-Vallecano,90,1.0,0.0,0.0,56,1.0,2078,Rayo-Vallecano
+,Emiliano Armenteros,ar ARG,MF,11,0,0.0,0.0,2017-2018,/en/players/66475fb9/Emiliano-Armenteros,66475fb9,Rayo-Vallecano,282,3.1,1.0,0.0,56,5.0,1843,Rayo-Vallecano
+,Manucho,ao ANG,FW,9,0,0.0,0.0,2017-2018,/en/players/89b18034/Manucho,89b18034,Rayo-Vallecano,164,1.8,1.0,0.0,56,48.0,2565,Rayo-Vallecano
+,Joni Montiel,es ESP,MF,1,0,0.0,0.0,2017-2018,/en/players/535771bb/Joni-Montiel,535771bb,Rayo-Vallecano,45,0.5,0.0,0.0,56,1.0,556,Rayo-Vallecano
+,Sergio Benito,es ESP,FW,0,0,,,2017-2018,/en/players/608bcb88/Sergio-Benito,608bcb88,Rayo-Vallecano,,,,,56,1.0,2684,Rayo-Vallecano
+,Kike Hermoso,es ESP,DF,0,0,,,2017-2018,/en/players/dea912dc/Kike-Hermoso,dea912dc,Rayo-Vallecano,,,,,56,1.0,1539,Rayo-Vallecano
+,Luis Alberto García Pacheco,co COL,GK,0,0,,,2017-2018,/en/players/5e9d0e32/Luis-Alberto-Garcia-Pacheco,5e9d0e32,Rayo-Vallecano,,,,,56,19.0,588,Rayo-Vallecano
+,﻿Álex Moreno,es ESP,"DF,MF",36,36,1.0,1.0,2018-2019,/en/players/16e9d0ea/Alex-Moreno,16e9d0ea,Rayo-Vallecano,"3,136",34.8,5.0,0.0,56,1.0,1519,Rayo-Vallecano
+,Raúl de Tomás,es ESP,FW,33,32,1.0,14.0,2018-2019,/en/players/02ef8778/Raul-de-Tomas,02ef8778,Rayo-Vallecano,"2,813",31.3,5.0,0.0,56,1.0,131,Rayo-Vallecano
+,Jordi Amat,es ESP,DF,31,31,0.0,0.0,2018-2019,/en/players/d70a2141/Jordi-Amat,d70a2141,Rayo-Vallecano,"2,763",30.7,9.0,0.0,56,1.0,1495,Rayo-Vallecano
+,Luis Advíncula,pe PER,DF,28,27,3.0,1.0,2018-2019,/en/players/cacadf4f/Luis-Advincula,cacadf4f,Rayo-Vallecano,"2,389",26.5,6.0,2.0,56,57.0,3486,Rayo-Vallecano
+,Adri Embarba,es ESP,"MF,FW",36,27,6.0,5.0,2018-2019,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,"2,282",25.4,5.0,1.0,56,1.0,3104,Rayo-Vallecano
+,Abdoulaye Ba,sn SEN,DF,26,25,0.0,1.0,2018-2019,/en/players/1f54ed90/Abdoulaye-Ba,1f54ed90,Rayo-Vallecano,"2,110",23.4,4.0,2.0,56,34.0,3468,Rayo-Vallecano
+,Santi Comesaña,es ESP,MF,25,23,1.0,1.0,2018-2019,/en/players/5ae499d0/Santi-Comesana,5ae499d0,Rayo-Vallecano,"2,032",22.6,6.0,0.0,56,1.0,3482,Rayo-Vallecano
+,Óscar Trejo,ar ARG,"MF,FW",26,22,4.0,1.0,2018-2019,/en/players/fc647b34/Oscar-Trejo,fc647b34,Rayo-Vallecano,"1,764",19.6,7.0,1.0,56,5.0,1602,Rayo-Vallecano
+,Stole Dimitrievski,mk MKD,GK,21,21,0.0,0.0,2018-2019,/en/players/fc70e345/Stole-Dimitrievski,fc70e345,Rayo-Vallecano,"1,890",21.0,3.0,0.0,56,81.0,3487,Rayo-Vallecano
+,Giannelli Imbula,cd COD,MF,22,21,1.0,1.0,2018-2019,/en/players/b86fe156/Giannelli-Imbula,b86fe156,Rayo-Vallecano,"1,732",19.2,7.0,0.0,56,50.0,3488,Rayo-Vallecano
+,Álvaro García,es ESP,"MF,FW",35,17,2.0,4.0,2018-2019,/en/players/90bbd822/Alvaro-Garcia,90bbd822,Rayo-Vallecano,"1,766",19.6,3.0,0.0,56,1.0,2923,Rayo-Vallecano
+,Alberto García,es ESP,GK,17,17,0.0,0.0,2018-2019,/en/players/17d9e354/Alberto-Garcia,17d9e354,Rayo-Vallecano,"1,530",17.0,1.0,0.0,56,1.0,3480,Rayo-Vallecano
+,Álex Gálvez,es ESP,DF,17,17,0.0,1.0,2018-2019,/en/players/960fb42d/Alex-Galvez,960fb42d,Rayo-Vallecano,"1,412",15.7,6.0,0.0,56,1.0,3459,Rayo-Vallecano
+,José Pozo,es ESP,MF,29,16,0.0,3.0,2018-2019,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Rayo-Vallecano,"1,617",18.0,4.0,0.0,56,1.0,3489,Rayo-Vallecano
+,Emiliano Velázquez,uy URU,DF,18,14,2.0,0.0,2018-2019,/en/players/5efb80d5/Emiliano-Velazquez,5efb80d5,Rayo-Vallecano,"1,277",14.2,8.0,0.0,56,8.0,3483,Rayo-Vallecano
+,Bebé,cv CPV,"MF,FW",27,13,1.0,1.0,2018-2019,/en/players/d8712bf9/Bebe,d8712bf9,Rayo-Vallecano,"1,302",14.5,6.0,0.0,56,85.0,3484,Rayo-Vallecano
+,Álvaro Medrán,es ESP,MF,21,12,0.0,3.0,2018-2019,/en/players/31223bcf/Alvaro-Medran,31223bcf,Rayo-Vallecano,"1,149",12.8,8.0,1.0,56,1.0,126,Rayo-Vallecano
+,Tito,es ESP,DF,15,12,0.0,0.0,2018-2019,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"1,098",12.2,2.0,0.0,56,1.0,3444,Rayo-Vallecano
+,Mario Suárez,es ESP,MF,14,11,0.0,2.0,2018-2019,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Rayo-Vallecano,"1,026",11.4,5.0,0.0,56,1.0,689,Rayo-Vallecano
+,Gaël Kakuta,cd COD,"MF,FW",12,9,0.0,1.0,2018-2019,/en/players/5b1bf5e3/Gael-Kakuta,5b1bf5e3,Rayo-Vallecano,717,8.0,1.0,0.0,56,50.0,522,Rayo-Vallecano
+,Uche Henry Agbo,ng NGA,MF,6,5,0.0,0.0,2018-2019,/en/players/98554bfd/Uche-Henry-Agbo,98554bfd,Rayo-Vallecano,372,4.1,2.0,0.0,56,52.0,572,Rayo-Vallecano
+,Gorka Elustondo,es ESP,"MF,DF",5,3,0.0,0.0,2018-2019,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Rayo-Vallecano,285,3.2,1.0,0.0,56,1.0,249,Rayo-Vallecano
+,Sergio Akieme,es ESP,DF,2,2,1.0,0.0,2018-2019,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Rayo-Vallecano,180,2.0,0.0,0.0,56,1.0,1192,Rayo-Vallecano
+,Catena,es ESP,DF,2,2,0.0,0.0,2018-2019,/en/players/274ab13c/Catena,274ab13c,Rayo-Vallecano,176,2.0,1.0,0.0,56,1.0,3490,Rayo-Vallecano
+,Javi Guerra,es ESP,"FW,MF",8,1,1.0,0.0,2018-2019,/en/players/aa386464/Javi-Guerra,386464,Rayo-Vallecano,236,2.6,0.0,0.0,56,1.0,912,Rayo-Vallecano
+,Franco Di Santo,ar ARG,"FW,MF",6,1,0.0,0.0,2018-2019,/en/players/549c6ba7/Franco-Di-Santo,549c6ba7,Rayo-Vallecano,172,1.9,1.0,1.0,56,5.0,3491,Rayo-Vallecano
+,Chechu,es ESP,DF,1,1,0.0,0.0,2018-2019,/en/players/e98f3a6a/Chechu,98f3a6a,Rayo-Vallecano,90,1.0,0.0,0.0,56,1.0,1420,Rayo-Vallecano
+,Álex Alegría,es ESP,"FW,MF",9,0,0.0,0.0,2018-2019,/en/players/46166b49/Alex-Alegria,46166b49,Rayo-Vallecano,140,1.6,0.0,0.0,56,1.0,1472,Rayo-Vallecano
+,Sergio Moreno,es ESP,FW,1,0,0.0,0.0,2018-2019,/en/players/014b57f5/Sergio-Moreno,014b57f5,Rayo-Vallecano,14,0.2,0.0,0.0,56,1.0,3514,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",0,0,,,2018-2019,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,,,,,56,74.0,3453,Rayo-Vallecano
+,Morro,es ESP,GK,0,0,,,2018-2019,/en/players/117cd0a8/Morro,117cd0a8,Rayo-Vallecano,,,,,56,1.0,3492,Rayo-Vallecano
+,﻿Catena,es ESP,DF,39,37,0.0,3.0,2019-2020,/en/players/274ab13c/Catena,274ab13c,Rayo-Vallecano,"3,388",37.6,13.0,0.0,56,1.0,3490,Rayo-Vallecano
+,Óscar Trejo,ar ARG,MF,37,36,0.0,5.0,2019-2020,/en/players/fc647b34/Oscar-Trejo,fc647b34,Rayo-Vallecano,"2,980",33.1,15.0,2.0,56,5.0,1602,Rayo-Vallecano
+,Stole Dimitrievski,mk MKD,GK,32,32,0.0,0.0,2019-2020,/en/players/fc70e345/Stole-Dimitrievski,fc70e345,Rayo-Vallecano,"2,880",32.0,6.0,0.0,56,81.0,3487,Rayo-Vallecano
+,Mario Suárez,es ESP,MF,34,30,2.0,7.0,2019-2020,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Rayo-Vallecano,"2,597",28.9,13.0,0.0,56,1.0,689,Rayo-Vallecano
+,Luis Advíncula,pe PER,DF,35,28,0.0,1.0,2019-2020,/en/players/cacadf4f/Luis-Advincula,cacadf4f,Rayo-Vallecano,"2,664",29.6,9.0,0.0,56,57.0,3486,Rayo-Vallecano
+,Esteban Saveljich,me MNE,DF,32,28,0.0,3.0,2019-2020,/en/players/79f2a5f5/Esteban-Saveljich,79f2a5f5,Rayo-Vallecano,"2,489",27.7,7.0,0.0,56,33.0,3493,Rayo-Vallecano
+,Adri Embarba,es ESP,MF,23,23,11.0,7.0,2019-2020,/en/players/db8f0eba/Adri-Embarba,db8f0eba,Rayo-Vallecano,"2,008",22.3,4.0,0.0,56,1.0,3104,Rayo-Vallecano
+,Álvaro García,es ESP,MF,35,22,3.0,4.0,2019-2020,/en/players/90bbd822/Alvaro-Garcia,90bbd822,Rayo-Vallecano,"2,099",23.3,5.0,0.0,56,1.0,2923,Rayo-Vallecano
+,Tito,es ESP,DF,25,21,0.0,0.0,2019-2020,/en/players/7cefa219/Tito,7cefa219,Rayo-Vallecano,"1,848",20.5,1.0,1.0,56,1.0,3444,Rayo-Vallecano
+,José Pozo,es ESP,MF,23,21,2.0,3.0,2019-2020,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Rayo-Vallecano,"1,661",18.5,5.0,0.0,56,1.0,3489,Rayo-Vallecano
+,Antonio Luna,es ESP,DF,21,18,1.0,0.0,2019-2020,/en/players/ed239245/Antonio-Luna,d239245,Rayo-Vallecano,"1,500",16.7,4.0,0.0,56,1.0,1644,Rayo-Vallecano
+,Andrés Martín,es ESP,"MF,FW",27,17,1.0,2.0,2019-2020,/en/players/2ae30661/Andres-Martin,2ae30661,Rayo-Vallecano,"1,516",16.8,4.0,0.0,56,1.0,3494,Rayo-Vallecano
+,Leonardo Ulloa,ar ARG,FW,17,17,2.0,6.0,2019-2020,/en/players/eed56f6c/Leonardo-Ulloa,d56f6c,Rayo-Vallecano,"1,511",16.8,9.0,1.0,56,5.0,3495,Rayo-Vallecano
+,Óscar Valentín,es ESP,MF,29,15,0.0,0.0,2019-2020,/en/players/592f3158/Oscar-Valentin,592f3158,Rayo-Vallecano,"1,338",14.9,7.0,0.0,56,1.0,3496,Rayo-Vallecano
+,Jorge de Frutos,es ESP,MF,17,14,1.0,2.0,2019-2020,/en/players/38ce1150/Jorge-de-Frutos,38ce1150,Rayo-Vallecano,"1,273",14.1,3.0,0.0,56,1.0,2674,Rayo-Vallecano
+,Antonio Milić,hr CRO,DF,18,14,0.0,0.0,2019-2020,/en/players/d3bd981b/Antonio-Milic,d3bd981b,Rayo-Vallecano,"1,250",13.9,5.0,0.0,56,16.0,3497,Rayo-Vallecano
+,Santi Comesaña,es ESP,MF,20,13,1.0,1.0,2019-2020,/en/players/5ae499d0/Santi-Comesana,5ae499d0,Rayo-Vallecano,"1,204",13.4,4.0,0.0,56,1.0,3482,Rayo-Vallecano
+,Saúl García,es ESP,DF,16,13,1.0,0.0,2019-2020,/en/players/dafa5038/Saul-Garcia,dafa5038,Rayo-Vallecano,"1,031",11.5,1.0,0.0,56,1.0,549,Rayo-Vallecano
+,Yacine Qasmi,ma MAR,FW,15,12,1.0,2.0,2019-2020,/en/players/3b3cbebb/Yacine-Qasmi,3b3cbebb,Rayo-Vallecano,"1,115",12.4,3.0,0.0,56,26.0,3498,Rayo-Vallecano
+,Isaac Palazón Camacho,es ESP,MF,14,9,2.0,1.0,2019-2020,/en/players/49dbab27/Isaac-Palazon-Camacho,49dbab27,Rayo-Vallecano,754,8.4,2.0,1.0,56,1.0,3499,Rayo-Vallecano
+,Juan Villar,es ESP,"FW,MF",14,7,2.0,7.0,2019-2020,/en/players/c33ee247/Juan-Villar,c33ee247,Rayo-Vallecano,749,8.3,3.0,0.0,56,1.0,2097,Rayo-Vallecano
+,Bebé,cv CPV,MF,12,7,1.0,3.0,2019-2020,/en/players/d8712bf9/Bebe,d8712bf9,Rayo-Vallecano,637,7.1,1.0,0.0,56,85.0,3484,Rayo-Vallecano
+,Alberto García,es ESP,GK,7,7,0.0,0.0,2019-2020,/en/players/17d9e354/Alberto-Garcia,17d9e354,Rayo-Vallecano,630,7.0,0.0,0.0,56,1.0,3480,Rayo-Vallecano
+,Joni Montiel,es ESP,MF,25,6,1.0,2.0,2019-2020,/en/players/535771bb/Joni-Montiel,535771bb,Rayo-Vallecano,772,8.6,5.0,1.0,56,1.0,556,Rayo-Vallecano
+,Federico Piovaccari,it ITA,FW,13,5,0.0,0.0,2019-2020,/en/players/fa49f136/Federico-Piovaccari,fa49f136,Rayo-Vallecano,612,6.8,2.0,0.0,56,9.0,3500,Rayo-Vallecano
+,Martín Pascual,es ESP,"DF,MF",9,4,0.0,0.0,2019-2020,/en/players/12efd7f9/Martin-Pascual,12efd7f9,Rayo-Vallecano,277,3.1,5.0,2.0,56,1.0,3501,Rayo-Vallecano
+,Morro,es ESP,GK,3,3,0.0,0.0,2019-2020,/en/players/117cd0a8/Morro,117cd0a8,Rayo-Vallecano,270,3.0,0.0,0.0,56,1.0,3492,Rayo-Vallecano
+,Sergio Akieme,es ESP,DF,3,2,0.0,0.0,2019-2020,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Rayo-Vallecano,186,2.1,0.0,0.0,56,1.0,1192,Rayo-Vallecano
+,Emiliano Velázquez,uy URU,DF,2,1,0.0,0.0,2019-2020,/en/players/5efb80d5/Emiliano-Velazquez,5efb80d5,Rayo-Vallecano,100,1.1,0.0,0.0,56,8.0,3483,Rayo-Vallecano
+,Marc,es ESP,FW,1,0,0.0,0.0,2019-2020,/en/players/83d21f5b/Marc,83d21f5b,Rayo-Vallecano,14,0.2,0.0,0.0,56,1.0,3502,Rayo-Vallecano
+,Joséto González,es ESP,GK,0,0,,,2019-2020,/en/players/602d6480/Joseto-Gonzalez,602d6480,Rayo-Vallecano,,,,,56,1.0,3503,Rayo-Vallecano
+,José León Bernal,es ESP,"DF,MF",0,0,,,2019-2020,/en/players/bea8d8b7/Jose-Leon-Bernal,bea8d8b7,Rayo-Vallecano,,,,,56,1.0,3504,Rayo-Vallecano
+,Mario de Luis,es ESP,GK,0,0,,,2019-2020,/en/players/3813d6d4/Mario-de-Luis,3813d6d4,Rayo-Vallecano,,,,,56,1.0,3505,Rayo-Vallecano
+,Daniel Merino,es ESP,GK,0,0,,,2019-2020,/en/players/0c97c43c/Daniel-Merino,0c97c43c,Rayo-Vallecano,,,,,56,1.0,3506,Rayo-Vallecano
+,Daniel Moreno,es ESP,FW,0,0,,,2019-2020,/en/players/f2919da9/Daniel-Moreno,f2919da9,Rayo-Vallecano,,,,,56,1.0,3507,Rayo-Vallecano
+,Javier Rubio,es ESP,MF,0,0,,,2019-2020,/en/players/7e05e54f/Javier-Rubio,7e05e54f,Rayo-Vallecano,,,,,56,1.0,3508,Rayo-Vallecano
+,Roberto Santamaría,es ESP,GK,0,0,,,2019-2020,/en/players/bca21ef3/Roberto-Santamaria,bca21ef3,Rayo-Vallecano,,,,,56,1.0,1695,Rayo-Vallecano
+,﻿Catena,es ESP,DF,39,39,1.0,2.0,2020-2021,/en/players/274ab13c/Catena,274ab13c,Rayo-Vallecano,"3,509",39.0,12.0,1.0,56,1.0,3490,Rayo-Vallecano
+,Álvaro García,es ESP,MF,39,38,9.0,2.0,2020-2021,/en/players/90bbd822/Alvaro-Garcia,90bbd822,Rayo-Vallecano,"3,307",36.7,7.0,0.0,56,1.0,2923,Rayo-Vallecano
+,Francisco Garcia,es ESP,DF,37,37,2.0,1.0,2020-2021,/en/players/7226539b/Francisco-Garcia,7226539b,Rayo-Vallecano,"3,286",36.5,3.0,0.0,56,1.0,3509,Rayo-Vallecano
+,Luis Advíncula,pe PER,DF,37,32,3.0,1.0,2020-2021,/en/players/cacadf4f/Luis-Advincula,cacadf4f,Rayo-Vallecano,"2,793",31.0,7.0,1.0,56,57.0,3486,Rayo-Vallecano
+,Óscar Trejo,ar ARG,"MF,FW",38,32,1.0,4.0,2020-2021,/en/players/fc647b34/Oscar-Trejo,fc647b34,Rayo-Vallecano,"2,641",29.3,13.0,0.0,56,5.0,1602,Rayo-Vallecano
+,Óscar Valentín,es ESP,MF,35,31,0.0,0.0,2020-2021,/en/players/592f3158/Oscar-Valentin,592f3158,Rayo-Vallecano,"2,648",29.4,13.0,0.0,56,1.0,3496,Rayo-Vallecano
+,Stole Dimitrievski,mk MKD,GK,28,28,0.0,0.0,2020-2021,/en/players/fc70e345/Stole-Dimitrievski,fc70e345,Rayo-Vallecano,"2,492",27.7,2.0,1.0,56,81.0,3487,Rayo-Vallecano
+,Isaac Palazón Camacho,es ESP,MF,39,28,3.0,9.0,2020-2021,/en/players/49dbab27/Isaac-Palazon-Camacho,49dbab27,Rayo-Vallecano,"2,420",26.9,6.0,0.0,56,1.0,3499,Rayo-Vallecano
+,Santi Comesaña,es ESP,MF,35,24,0.0,3.0,2020-2021,/en/players/5ae499d0/Santi-Comesana,5ae499d0,Rayo-Vallecano,"2,252",25.0,7.0,0.0,56,1.0,3482,Rayo-Vallecano
+,Esteban Saveljich,me MNE,DF,25,22,0.0,1.0,2020-2021,/en/players/79f2a5f5/Esteban-Saveljich,79f2a5f5,Rayo-Vallecano,"1,957",21.7,10.0,1.0,56,33.0,3493,Rayo-Vallecano
+,José Pozo,es ESP,"MF,FW",32,21,1.0,3.0,2020-2021,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Rayo-Vallecano,"1,672",18.6,2.0,0.0,56,1.0,3489,Rayo-Vallecano
+,Emiliano Velázquez,uy URU,DF,22,18,0.0,0.0,2020-2021,/en/players/5efb80d5/Emiliano-Velazquez,5efb80d5,Rayo-Vallecano,"1,486",16.5,6.0,0.0,56,8.0,3483,Rayo-Vallecano
+,Andrés Martín,es ESP,"MF,FW",38,16,5.0,4.0,2020-2021,/en/players/2ae30661/Andres-Martin,2ae30661,Rayo-Vallecano,"1,715",19.1,3.0,0.0,56,1.0,3494,Rayo-Vallecano
+,Yacine Qasmi,ma MAR,FW,36,16,2.0,4.0,2020-2021,/en/players/3b3cbebb/Yacine-Qasmi,3b3cbebb,Rayo-Vallecano,"1,542",17.1,4.0,0.0,56,26.0,3498,Rayo-Vallecano
+,Antonio Cortés,es ESP,"FW,MF",27,16,0.0,6.0,2020-2021,/en/players/31a1288d/Antonio-Cortes,31a1288d,Rayo-Vallecano,"1,359",15.1,2.0,0.0,56,1.0,2456,Rayo-Vallecano
+,Mario Suárez,es ESP,MF,27,11,0.0,2.0,2020-2021,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Rayo-Vallecano,994,11.0,6.0,1.0,56,1.0,689,Rayo-Vallecano
+,Mario Hernández,es ESP,DF,13,10,0.0,0.0,2020-2021,/en/players/90162357/Mario-Hernandez,90162357,Rayo-Vallecano,987,11.0,3.0,0.0,56,1.0,3510,Rayo-Vallecano
+,Luca Zidane,fr FRA,GK,11,10,0.0,0.0,2020-2021,/en/players/c818c4d9/Luca-Zidane,c818c4d9,Rayo-Vallecano,925,10.3,0.0,0.0,56,4.0,149,Rayo-Vallecano
+,Bebé,cv CPV,"MF,FW",24,9,2.0,4.0,2020-2021,/en/players/d8712bf9/Bebe,d8712bf9,Rayo-Vallecano,850,9.4,3.0,0.0,56,85.0,3484,Rayo-Vallecano
+,Iván Martos,es ESP,DF,12,7,0.0,0.0,2020-2021,/en/players/fc1724bd/Ivan-Martos,fc1724bd,Rayo-Vallecano,640,7.1,3.0,0.0,56,1.0,3511,Rayo-Vallecano
+,Miguel Ángel Guerrero,es ESP,FW,15,6,0.0,1.0,2020-2021,/en/players/b35db3f6/Miguel-Angel-Guerrero,b35db3f6,Rayo-Vallecano,572,6.4,0.0,0.0,56,1.0,3512,Rayo-Vallecano
+,Morro,es ESP,GK,4,4,0.0,0.0,2020-2021,/en/players/117cd0a8/Morro,117cd0a8,Rayo-Vallecano,360,4.0,0.0,0.0,56,1.0,3492,Rayo-Vallecano
+,Martín Pascual,es ESP,DF,6,4,0.0,0.0,2020-2021,/en/players/12efd7f9/Martin-Pascual,12efd7f9,Rayo-Vallecano,308,3.4,1.0,0.0,56,1.0,3501,Rayo-Vallecano
+,Joni Montiel,es ESP,MF,23,2,1.0,1.0,2020-2021,/en/players/535771bb/Joni-Montiel,535771bb,Rayo-Vallecano,527,5.9,4.0,0.0,56,1.0,556,Rayo-Vallecano
+,Leonardo Ulloa,ar ARG,FW,11,1,0.0,0.0,2020-2021,/en/players/eed56f6c/Leonardo-Ulloa,d56f6c,Rayo-Vallecano,204,2.3,2.0,0.0,56,5.0,3495,Rayo-Vallecano
+,Manuel Navarro,es ESP,MF,1,0,0.0,0.0,2020-2021,/en/players/5c103e63/Manuel-Navarro,5c103e63,Rayo-Vallecano,6,0.1,0.0,0.0,56,1.0,3513,Rayo-Vallecano
+,Sergio Moreno,es ESP,FW,1,0,0.0,0.0,2020-2021,/en/players/014b57f5/Sergio-Moreno,014b57f5,Rayo-Vallecano,4,0.0,0.0,0.0,56,1.0,3514,Rayo-Vallecano
+,Sergio Arratia,es ESP,DF,0,0,,,2020-2021,/en/players/f0526b78/Sergio-Arratia,f0526b78,Rayo-Vallecano,,,,,56,1.0,3515,Rayo-Vallecano
+,Abdoulaye Ba,sn SEN,DF,0,0,,,2020-2021,/en/players/1f54ed90/Abdoulaye-Ba,1f54ed90,Rayo-Vallecano,,,,,56,34.0,3468,Rayo-Vallecano
+,Lass Bangoura,gn GUI,"FW,MF",0,0,,,2020-2021,/en/players/740f39d4/Lass-Bangoura,740f39d4,Rayo-Vallecano,,,,,56,74.0,3453,Rayo-Vallecano
+,Sergio Benito,es ESP,FW,0,0,,,2020-2021,/en/players/608bcb88/Sergio-Benito,608bcb88,Rayo-Vallecano,,,,,56,1.0,2684,Rayo-Vallecano
+,Roberto González,es ESP,GK,0,0,,,2020-2021,/en/players/258fee15/Roberto-Gonzalez,258fee15,Rayo-Vallecano,,,,,56,1.0,3516,Rayo-Vallecano
+,Daniel Moreno,es ESP,FW,0,0,,,2020-2021,/en/players/f2919da9/Daniel-Moreno,f2919da9,Rayo-Vallecano,,,,,56,1.0,3507,Rayo-Vallecano
+,Iker Recio,es ESP,DF,0,0,,,2020-2021,/en/players/84b7090a/Iker-Recio,84b7090a,Rayo-Vallecano,,,,,56,1.0,3517,Rayo-Vallecano
+,﻿Catena,es ESP,DF,36,36,2.0,2.0,2021-2022,/en/players/274ab13c/Catena,274ab13c,Rayo-Vallecano,"3,240",36.0,8.0,0.0,56,1.0,3490,Rayo-Vallecano
+,Iván Balliu,al ALB,DF,35,35,2.0,1.0,2021-2022,/en/players/cee88597/Ivan-Balliu,cee88597,Rayo-Vallecano,"3,147",35.0,10.0,1.0,56,78.0,3518,Rayo-Vallecano
+,Francisco Garcia,es ESP,DF,34,34,0.0,1.0,2021-2022,/en/players/7226539b/Francisco-Garcia,7226539b,Rayo-Vallecano,"3,025",33.6,4.0,0.0,56,1.0,3509,Rayo-Vallecano
+,Álvaro García,es ESP,MF,36,34,4.0,7.0,2021-2022,/en/players/90bbd822/Alvaro-Garcia,90bbd822,Rayo-Vallecano,"2,998",33.3,6.0,0.0,56,1.0,2923,Rayo-Vallecano
+,Santi Comesaña,es ESP,MF,35,32,2.0,1.0,2021-2022,/en/players/5ae499d0/Santi-Comesana,5ae499d0,Rayo-Vallecano,"2,682",29.8,12.0,1.0,56,1.0,3482,Rayo-Vallecano
+,Stole Dimitrievski,mk MKD,GK,31,30,0.0,0.0,2021-2022,/en/players/fc70e345/Stole-Dimitrievski,fc70e345,Rayo-Vallecano,"2,772",30.8,0.0,0.0,56,81.0,3487,Rayo-Vallecano
+,Óscar Valentín,es ESP,MF,35,29,0.0,0.0,2021-2022,/en/players/592f3158/Oscar-Valentin,592f3158,Rayo-Vallecano,"2,569",28.5,8.0,0.0,56,1.0,3496,Rayo-Vallecano
+,Isaac Palazón Camacho,es ESP,MF,34,27,4.0,2.0,2021-2022,/en/players/49dbab27/Isaac-Palazon-Camacho,49dbab27,Rayo-Vallecano,"2,288",25.4,7.0,0.0,56,1.0,3499,Rayo-Vallecano
+,Óscar Trejo,ar ARG,MF,32,24,9.0,3.0,2021-2022,/en/players/fc647b34/Oscar-Trejo,fc647b34,Rayo-Vallecano,"2,007",22.3,13.0,0.0,56,5.0,1602,Rayo-Vallecano
+,Esteban Saveljich,me MNE,DF,21,21,0.0,0.0,2021-2022,/en/players/79f2a5f5/Esteban-Saveljich,79f2a5f5,Rayo-Vallecano,"1,700",18.9,4.0,0.0,56,33.0,3493,Rayo-Vallecano
+,Sergi Guardiola,es ESP,FW,32,20,2.0,8.0,2021-2022,/en/players/32974271/Sergi-Guardiola,32974271,Rayo-Vallecano,"1,710",19.0,3.0,0.0,56,1.0,2660,Rayo-Vallecano
+,Randy Ntekja,fr FRA,"FW,MF",34,16,0.0,3.0,2021-2022,/en/players/a6103274/Randy-Ntekja,6103274,Rayo-Vallecano,"1,462",16.2,2.0,0.0,56,4.0,3519,Rayo-Vallecano
+,Unai López,es ESP,MF,27,13,0.0,0.0,2021-2022,/en/players/88050721/Unai-Lopez,88050721,Rayo-Vallecano,"1,160",12.9,5.0,0.0,56,1.0,1310,Rayo-Vallecano
+,Pathé Ciss,sn SEN,MF,31,11,1.0,2.0,2021-2022,/en/players/9a0408b6/Pathe-Ciss,9a0408b6,Rayo-Vallecano,"1,097",12.2,5.0,0.0,56,34.0,3520,Rayo-Vallecano
+,Nikola Maraš,rs SRB,DF,16,11,0.0,0.0,2021-2022,/en/players/b9d0446f/Nikola-Maras,b9d0446f,Rayo-Vallecano,"1,044",11.6,4.0,0.0,56,28.0,3521,Rayo-Vallecano
+,Radamel Falcao,co COL,FW,22,8,0.0,6.0,2021-2022,/en/players/66116290/Radamel-Falcao,66116290,Rayo-Vallecano,838,9.3,1.0,0.0,56,19.0,2195,Rayo-Vallecano
+,Mario Suárez,es ESP,DF,14,8,0.0,0.0,2021-2022,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Rayo-Vallecano,712,7.9,2.0,0.0,56,1.0,689,Rayo-Vallecano
+,Luca Zidane,fr FRA,GK,8,8,0.0,0.0,2021-2022,/en/players/c818c4d9/Luca-Zidane,c818c4d9,Rayo-Vallecano,645,7.2,0.0,1.0,56,4.0,149,Rayo-Vallecano
+,Bebé,cv CPV,"MF,FW",29,6,2.0,1.0,2021-2022,/en/players/d8712bf9/Bebe,d8712bf9,Rayo-Vallecano,867,9.6,2.0,0.0,56,85.0,3484,Rayo-Vallecano
+,Kévin Rodrigues,pt POR,"DF,MF",13,5,0.0,0.0,2021-2022,/en/players/f1bed920/Kevin-Rodrigues,f1bed920,Rayo-Vallecano,435,4.8,0.0,0.0,56,3.0,317,Rayo-Vallecano
+,Mario Hernández,es ESP,"DF,MF",9,5,0.0,1.0,2021-2022,/en/players/90162357/Mario-Hernandez,90162357,Rayo-Vallecano,395,4.4,3.0,0.0,56,1.0,3510,Rayo-Vallecano
+,Martín Merquelanz,es ESP,MF,4,3,0.0,0.0,2021-2022,/en/players/ddd5348b/Martin-Merquelanz,ddd5348b,Rayo-Vallecano,173,1.9,0.0,0.0,56,1.0,334,Rayo-Vallecano
+,Mamadou Sylla,sn SEN,"MF,FW",12,1,0.0,0.0,2021-2022,/en/players/e5ec95f8/Mamadou-Sylla,5ec95f8,Rayo-Vallecano,253,2.8,2.0,0.0,56,34.0,2926,Rayo-Vallecano
+,Andrés Martín,es ESP,"MF,FW",7,1,0.0,0.0,2021-2022,/en/players/2ae30661/Andres-Martin,2ae30661,Rayo-Vallecano,186,2.1,0.0,0.0,56,1.0,3494,Rayo-Vallecano
+,José Pozo,es ESP,"MF,DF",5,0,0.0,0.0,2021-2022,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Rayo-Vallecano,72,0.8,0.0,0.0,56,1.0,3489,Rayo-Vallecano
+,Alejandro Asensio,es ESP,MF,2,0,0.0,0.0,2021-2022,/en/players/b4c23f36/Alejandro-Asensio,b4c23f36,Rayo-Vallecano,12,0.1,0.0,0.0,56,1.0,3522,Rayo-Vallecano
+,Álvaro Aguirre,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/93b054dc/Alvaro-Aguirre,93b054dc,Rayo-Vallecano,9,0.1,0.0,0.0,56,1.0,3523,Rayo-Vallecano
+,Yacine Qasmi,ma MAR,FW,1,0,0.0,0.0,2021-2022,/en/players/3b3cbebb/Yacine-Qasmi,3b3cbebb,Rayo-Vallecano,4,0.0,0.0,0.0,56,26.0,3498,Rayo-Vallecano
+,Iván Arboleda,co COL,GK,0,0,,,2021-2022,/en/players/f8cfae1f/Ivan-Arboleda,f8cfae1f,Rayo-Vallecano,,,,,56,19.0,3524,Rayo-Vallecano
+,Jorge Moreno,es ESP,DF,0,0,,,2021-2022,/en/players/1f875ef8/Jorge-Moreno,1f875ef8,Rayo-Vallecano,,,,,56,1.0,3525,Rayo-Vallecano
+,Sergio Moreno,es ESP,FW,0,0,,,2021-2022,/en/players/014b57f5/Sergio-Moreno,014b57f5,Rayo-Vallecano,,,,,56,1.0,3514,Rayo-Vallecano
+,Morro,es ESP,GK,0,0,,,2021-2022,/en/players/117cd0a8/Morro,117cd0a8,Rayo-Vallecano,,,,,56,1.0,3492,Rayo-Vallecano
+,Manuel Navarro,es ESP,MF,0,0,,,2021-2022,/en/players/5c103e63/Manuel-Navarro,5c103e63,Rayo-Vallecano,,,,,56,1.0,3513,Rayo-Vallecano
+,Adrian Quintela,es ESP,GK,0,0,,,2021-2022,/en/players/86e0d803/Adrian-Quintela,86e0d803,Rayo-Vallecano,,,,,56,1.0,3526,Rayo-Vallecano
+,Iker Recio,es ESP,DF,0,0,,,2021-2022,/en/players/84b7090a/Iker-Recio,84b7090a,Rayo-Vallecano,,,,,56,1.0,3517,Rayo-Vallecano

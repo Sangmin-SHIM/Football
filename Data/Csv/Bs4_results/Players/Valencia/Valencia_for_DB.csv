@@ -1,595 +1,595 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Roberto Ayala,ar ARG,DF,31,31,0.0,1.0,2002-2003,561d182e,Valencia,"2,684",29.8,11.0,2.0,41.0,5.0,857.0,Valencia
-,Santiago Cañizares,es ESP,GK,31,31,0.0,0.0,2002-2003,104f31c,Valencia,"2,667",29.6,2.0,1.0,41.0,1.0,858.0,Valencia
-,Rubén Baraja,es ESP,MF,35,30,4.0,5.0,2002-2003,31a8e5c3,Valencia,"2,591",28.8,14.0,1.0,41.0,1.0,859.0,Valencia
-,Pablo Aimar,ar ARG,MF,31,29,2.0,8.0,2002-2003,b6c00d3,Valencia,"2,333",25.9,7.0,1.0,41.0,5.0,860.0,Valencia
-,Mauricio Pellegrino,ar ARG,DF,28,26,0.0,1.0,2002-2003,8b3d6528,Valencia,"2,204",24.5,6.0,0.0,41.0,5.0,861.0,Valencia
-,Francisco Rufete,es ESP,MF,28,26,2.0,3.0,2002-2003,95aca6cd,Valencia,"2,115",23.5,2.0,0.0,41.0,1.0,862.0,Valencia
-,John Carew,no NOR,FW,32,25,3.0,8.0,2002-2003,91ef929d,Valencia,"2,105",23.4,1.0,1.0,41.0,21.0,863.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",27,25,4.0,1.0,2002-2003,73b8c719,Valencia,"1,941",21.6,6.0,0.0,41.0,1.0,864.0,Valencia
-,Amedeo Carboni,it ITA,DF,29,24,0.0,0.0,2002-2003,5c66ca76,Valencia,"2,177",24.2,8.0,1.0,41.0,9.0,865.0,Valencia
-,David Albelda,es ESP,"DF,MF",27,24,2.0,0.0,2002-2003,def14f68,Valencia,"2,086",23.2,11.0,0.0,41.0,1.0,866.0,Valencia
-,Fábio Aurélio,br BRA,"DF,MF",27,23,3.0,8.0,2002-2003,68f0ce09,Valencia,"2,139",23.8,4.0,0.0,41.0,2.0,867.0,Valencia
-,Carlos Marchena,es ESP,"DF,MF",26,22,1.0,0.0,2002-2003,48ddb821,Valencia,"2,004",22.3,8.0,1.0,41.0,1.0,,Valencia
-,Anthony Réveillère,fr FRA,DF,18,17,1.0,1.0,2002-2003,8ad24039,Valencia,"1,470",16.3,5.0,0.0,41.0,4.0,868.0,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",24,15,3.0,4.0,2002-2003,434f4055,Valencia,"1,436",16.0,4.0,0.0,41.0,1.0,869.0,Valencia
-,Curro Torres,es ESP,DF,14,14,1.0,0.0,2002-2003,49b88407,Valencia,"1,183",13.1,5.0,0.0,41.0,1.0,870.0,Valencia
-,Gonzalo de los Santos,uy URU,MF,17,11,0.0,1.0,2002-2003,1855302a,Valencia,"1,001",11.1,0.0,0.0,41.0,8.0,871.0,Valencia
-,Mista,es ESP,FW,27,10,3.0,7.0,2002-2003,257c27e2,Valencia,"1,128",12.5,5.0,1.0,41.0,1.0,,Valencia
-,Juan Sánchez,es ESP,FW,26,9,4.0,5.0,2002-2003,58c2f75c,Valencia,"1,028",11.4,1.0,0.0,41.0,1.0,,Valencia
-,Andrés Palop,es ESP,GK,9,7,0.0,0.0,2002-2003,9ab4e785,Valencia,752,8.4,1.0,0.0,41.0,1.0,872.0,Valencia
-,Miroslav Đukić,rs SRB,DF,8,6,0.0,0.0,2002-2003,3e76b49,Valencia,567,6.3,0.0,0.0,41.0,28.0,873.0,Valencia
-,Garrido,es ESP,DF,6,5,1.0,0.0,2002-2003,32852179,Valencia,496,5.5,1.0,0.0,41.0,1.0,874.0,Valencia
-,Kily González,ar ARG,"FW,MF",13,4,0.0,0.0,2002-2003,69966620,Valencia,548,6.1,1.0,0.0,41.0,5.0,875.0,Valencia
-,David Navarro,es ESP,DF,3,2,0.0,0.0,2002-2003,5dbdb37b,Valencia,246,2.7,0.0,0.0,41.0,1.0,876.0,Valencia
-,Borja Criado,es ESP,FW,3,1,0.0,0.0,2002-2003,495f54a,Valencia,115,1.3,1.0,0.0,41.0,1.0,877.0,Valencia
-,Salva Ballesta,es ESP,FW,2,1,0.0,0.0,2002-2003,bd42bcb8,Valencia,82,0.9,0.0,0.0,41.0,1.0,878.0,Valencia
-,Ximo Enguix,es ESP,MF,2,0,0.0,0.0,2002-2003,cfadea36,Valencia,67,0.7,0.0,0.0,41.0,1.0,879.0,Valencia
-,Jaime Gavilán,es ESP,MF,2,0,0.0,0.0,2002-2003,95de0931,Valencia,38,0.4,1.0,0.0,41.0,1.0,880.0,Valencia
-,Jean-Félix Dorothée,fr FRA,DF,1,0,0.0,0.0,2002-2003,7376fc8e,Valencia,26,0.3,0.0,0.0,41.0,4.0,881.0,Valencia
-,César Soriano,es ESP,DF,1,0,,0.0,2002-2003,0e41fc77,Valencia,26,0.3,0.0,0.0,41.0,1.0,882.0,Valencia
-,Pablo Redondo,es ESP,MF,1,0,0.0,0.0,2002-2003,da98fdb0,Valencia,22,0.2,0.0,0.0,41.0,1.0,,Valencia
-,Miguel Albiol,es ESP,MF,1,0,0.0,0.0,2002-2003,ca8aa471,Valencia,13,0.1,0.0,0.0,41.0,1.0,883.0,Valencia
-,﻿Santiago Cañizares,es ESP,GK,37,37,0.0,0.0,2003-2004,104f31c,Valencia,"3,330",37.0,3.0,0.0,41.0,1.0,858.0,Valencia
-,Amedeo Carboni,it ITA,DF,33,33,2.0,0.0,2003-2004,5c66ca76,Valencia,"2,936",32.6,11.0,2.0,41.0,9.0,865.0,Valencia
-,David Albelda,es ESP,"DF,MF",33,32,4.0,1.0,2003-2004,def14f68,Valencia,"2,734",30.4,12.0,0.0,41.0,1.0,866.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",33,32,9.0,12.0,2003-2004,73b8c719,Valencia,"2,633",29.3,8.0,0.0,41.0,1.0,864.0,Valencia
-,Roberto Ayala,ar ARG,DF,30,30,1.0,1.0,2003-2004,561d182e,Valencia,"2,688",29.9,8.0,1.0,41.0,5.0,857.0,Valencia
-,Rubén Baraja,es ESP,MF,35,29,2.0,8.0,2003-2004,31a8e5c3,Valencia,"2,619",29.1,9.0,0.0,41.0,1.0,859.0,Valencia
-,Curro Torres,es ESP,DF,30,29,1.0,1.0,2003-2004,49b88407,Valencia,"2,530",28.1,4.0,0.0,41.0,1.0,870.0,Valencia
-,Mista,es ESP,FW,33,29,4.0,19.0,2003-2004,257c27e2,Valencia,"2,419",26.9,5.0,0.0,41.0,1.0,,Valencia
-,Carlos Marchena,es ESP,"DF,MF",31,28,2.0,2.0,2003-2004,48ddb821,Valencia,"2,558",28.4,6.0,0.0,41.0,1.0,,Valencia
-,Jorge López,es ESP,MF,26,23,6.0,4.0,2003-2004,cf66479e,Valencia,"1,938",21.5,4.0,0.0,41.0,1.0,884.0,Valencia
-,Pablo Aimar,ar ARG,MF,25,18,9.0,4.0,2003-2004,b6c00d3,Valencia,"1,628",18.1,5.0,0.0,41.0,5.0,860.0,Valencia
-,Mauricio Pellegrino,ar ARG,DF,20,16,0.0,2.0,2003-2004,8b3d6528,Valencia,"1,387",15.4,3.0,0.0,41.0,5.0,861.0,Valencia
-,Francisco Rufete,es ESP,MF,27,15,2.0,2.0,2003-2004,95aca6cd,Valencia,"1,430",15.9,3.0,0.0,41.0,1.0,862.0,Valencia
-,Ricardo Oliveira,br BRA,FW,21,14,3.0,8.0,2003-2004,420c1246,Valencia,"1,152",12.8,0.0,0.0,41.0,2.0,885.0,Valencia
-,Garrido,es ESP,DF,15,13,1.0,0.0,2003-2004,32852179,Valencia,"1,113",12.4,4.0,0.0,41.0,1.0,874.0,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",22,12,2.0,2.0,2003-2004,434f4055,Valencia,"1,172",13.0,2.0,0.0,41.0,1.0,869.0,Valencia
-,Mohamed Sissoko,ml MLI,MF,21,9,1.0,0.0,2003-2004,2c1a819e,Valencia,985,10.9,3.0,0.0,41.0,12.0,886.0,Valencia
-,David Navarro,es ESP,DF,12,7,0.0,0.0,2003-2004,5dbdb37b,Valencia,734,8.2,2.0,0.0,41.0,1.0,876.0,Valencia
-,Xisco,es ESP,"FW,MF",22,5,2.0,1.0,2003-2004,faaae13,Valencia,711,7.9,3.0,0.0,41.0,1.0,887.0,Valencia
-,Fabián Canobbio,uy URU,MF,11,3,0.0,1.0,2003-2004,8a010a9b,Valencia,424,4.7,1.0,0.0,41.0,8.0,,Valencia
-,Juan Sánchez,es ESP,FW,10,3,0.0,1.0,2003-2004,58c2f75c,Valencia,355,3.9,0.0,0.0,41.0,1.0,,Valencia
-,David Rangel Pastor,es ESP,GK,1,1,0.0,0.0,2003-2004,51041a4d,Valencia,90,1.0,0.0,0.0,41.0,1.0,888.0,Valencia
-,Fábio Aurélio,br BRA,"DF,MF",2,0,0.0,0.0,2003-2004,68f0ce09,Valencia,38,0.4,0.0,0.0,41.0,2.0,867.0,Valencia
-,﻿Carlos Marchena,es ESP,"DF,MF",32,31,1.0,2.0,2004-2005,48ddb821,Valencia,"2,835",31.5,13.0,1.0,41.0,1.0,,Valencia
-,Santiago Cañizares,es ESP,GK,29,28,0.0,0.0,2004-2005,104f31c,Valencia,"2,542",28.2,3.0,0.0,41.0,1.0,858.0,Valencia
-,David Albelda,es ESP,"DF,MF",28,27,0.0,1.0,2004-2005,def14f68,Valencia,"2,428",27.0,11.0,0.0,41.0,1.0,866.0,Valencia
-,Amedeo Carboni,it ITA,DF,28,26,1.0,0.0,2004-2005,5c66ca76,Valencia,"2,147",23.9,3.0,0.0,41.0,9.0,865.0,Valencia
-,Rubén Baraja,es ESP,MF,25,24,2.0,7.0,2004-2005,31a8e5c3,Valencia,"2,038",22.6,8.0,1.0,41.0,1.0,859.0,Valencia
-,David Navarro,es ESP,DF,23,23,1.0,1.0,2004-2005,5dbdb37b,Valencia,"2,070",23.0,9.0,0.0,41.0,1.0,876.0,Valencia
-,Pablo Aimar,ar ARG,MF,31,22,6.0,4.0,2004-2005,b6c00d3,Valencia,"1,967",21.9,4.0,0.0,41.0,5.0,860.0,Valencia
-,Marco Di Vaio,it ITA,FW,30,20,2.0,11.0,2004-2005,dfa05223,Valencia,"1,764",19.6,3.0,0.0,41.0,9.0,889.0,Valencia
-,Marco Caneira,pt POR,DF,22,20,,1.0,2004-2005,2ad9feb,Valencia,"1,705",18.9,6.0,1.0,41.0,3.0,890.0,Valencia
-,Francisco Rufete,es ESP,MF,25,20,4.0,3.0,2004-2005,95aca6cd,Valencia,"1,581",17.6,2.0,0.0,41.0,1.0,862.0,Valencia
-,Curro Torres,es ESP,DF,19,19,1.0,0.0,2004-2005,49b88407,Valencia,"1,685",18.7,4.0,0.0,41.0,1.0,870.0,Valencia
-,Mista,es ESP,FW,29,18,1.0,8.0,2004-2005,257c27e2,Valencia,"1,763",19.6,4.0,0.0,41.0,1.0,,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",25,17,2.0,3.0,2004-2005,434f4055,Valencia,"1,612",17.9,4.0,0.0,41.0,1.0,869.0,Valencia
-,Roberto Ayala,ar ARG,DF,17,17,0.0,0.0,2004-2005,561d182e,Valencia,"1,433",15.9,3.0,0.0,41.0,5.0,857.0,Valencia
-,Emiliano Moretti,it ITA,DF,23,16,0.0,1.0,2004-2005,55667895,Valencia,"1,620",18.0,2.0,0.0,41.0,9.0,891.0,Valencia
-,Fábio Aurélio,br BRA,"DF,MF",21,16,3.0,0.0,2004-2005,68f0ce09,Valencia,"1,392",15.5,2.0,0.0,41.0,2.0,867.0,Valencia
-,Mohamed Sissoko,ml MLI,MF,24,15,0.0,0.0,2004-2005,2c1a819e,Valencia,"1,418",15.8,5.0,0.0,41.0,12.0,886.0,Valencia
-,Stefano Fiore,it ITA,MF,20,15,5.0,2.0,2004-2005,2eb707d3,Valencia,"1,378",15.3,3.0,0.0,41.0,9.0,892.0,Valencia
-,Bernardo Corradi,it ITA,FW,21,13,2.0,3.0,2004-2005,d50232c1,Valencia,"1,188",13.2,6.0,0.0,41.0,9.0,893.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",12,10,5.0,3.0,2004-2005,73b8c719,Valencia,901,10.0,0.0,0.0,41.0,1.0,864.0,Valencia
-,Andrés Palop,es ESP,GK,11,10,0.0,0.0,2004-2005,9ab4e785,Valencia,868,9.6,0.0,1.0,41.0,1.0,872.0,Valencia
-,Xisco,es ESP,"FW,MF",22,5,0.0,3.0,2004-2005,faaae13,Valencia,649,7.2,1.0,0.0,41.0,1.0,887.0,Valencia
-,Manuel Ruz,es ESP,DF,3,3,0.0,0.0,2004-2005,0bd93f6a,Valencia,265,2.9,1.0,0.0,41.0,1.0,894.0,Valencia
-,Mauricio Pellegrino,ar ARG,DF,1,1,,0.0,2004-2005,8b3d6528,Valencia,90,1.0,0.0,0.0,41.0,5.0,861.0,Valencia
-,Rafael Santacruz,es ESP,DF,1,1,,0.0,2004-2005,cac1e3e,Valencia,90,1.0,1.0,0.0,41.0,1.0,895.0,Valencia
-,Gonzalo de los Santos,uy URU,MF,1,1,0.0,0.0,2004-2005,1855302a,Valencia,45,0.5,0.0,0.0,41.0,8.0,871.0,Valencia
-,Juanlu,es ESP,"FW,MF",1,0,0.0,0.0,2004-2005,431ac3e7,Valencia,37,0.4,0.0,0.0,41.0,1.0,896.0,Valencia
-,Miguel Pallardó,es ESP,MF,1,0,0.0,0.0,2004-2005,6c3dfe68,Valencia,10,0.1,0.0,0.0,41.0,1.0,897.0,Valencia
-,﻿Santiago Cañizares,es ESP,GK,36,36,0.0,0.0,2005-2006,104f31c,Valencia,"3,240",36.0,7.0,0.0,41.0,1.0,858.0,Valencia
-,David Villa,es ESP,"FW,MF",37,35,2.0,25.0,2005-2006,de08a67,Valencia,"2,992",33.2,4.0,1.0,41.0,1.0,898.0,Valencia
-,Emiliano Moretti,it ITA,DF,33,33,2.0,0.0,2005-2006,55667895,Valencia,"2,892",32.1,5.0,0.0,41.0,9.0,891.0,Valencia
-,David Albelda,es ESP,"DF,MF",32,32,1.0,2.0,2005-2006,def14f68,Valencia,"2,833",31.5,16.0,1.0,41.0,1.0,866.0,Valencia
-,Miguel Monteiro,pt POR,DF,31,31,0.0,1.0,2005-2006,930ef69d,Valencia,"2,763",30.7,1.0,0.0,41.0,3.0,899.0,Valencia
-,Rubén Baraja,es ESP,MF,31,31,3.0,4.0,2005-2006,31a8e5c3,Valencia,"2,532",28.1,6.0,1.0,41.0,1.0,859.0,Valencia
-,Raúl Albiol,es ESP,DF,29,29,1.0,1.0,2005-2006,4bd414c1,Valencia,"2,610",29.0,5.0,0.0,41.0,1.0,80.0,Valencia
-,Pablo Aimar,ar ARG,MF,32,28,3.0,5.0,2005-2006,b6c00d3,Valencia,"2,429",27.0,3.0,0.0,41.0,5.0,860.0,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",32,26,7.0,6.0,2005-2006,434f4055,Valencia,"2,343",26.0,6.0,1.0,41.0,1.0,869.0,Valencia
-,Roberto Ayala,ar ARG,DF,23,23,0.0,2.0,2005-2006,561d182e,Valencia,"1,987",22.1,4.0,1.0,41.0,5.0,857.0,Valencia
-,Carlos Marchena,es ESP,"DF,MF",25,21,0.0,0.0,2005-2006,48ddb821,Valencia,"1,823",20.3,6.0,1.0,41.0,1.0,,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",21,19,5.0,3.0,2005-2006,73b8c719,Valencia,"1,616",18.0,2.0,0.0,41.0,1.0,864.0,Valencia
-,Mario Regueiro,uy URU,"FW,MF",24,18,4.0,3.0,2005-2006,c792d665,Valencia,"1,615",17.9,2.0,0.0,41.0,8.0,900.0,Valencia
-,Fábio Aurélio,br BRA,"DF,MF",24,11,1.0,2.0,2005-2006,68f0ce09,Valencia,"1,096",12.2,3.0,0.0,41.0,2.0,867.0,Valencia
-,Mista,es ESP,FW,29,10,5.0,1.0,2005-2006,257c27e2,Valencia,"1,065",11.8,3.0,0.0,41.0,1.0,,Valencia
-,Francisco Rufete,es ESP,MF,19,9,2.0,0.0,2005-2006,95aca6cd,Valencia,751,8.3,1.0,0.0,41.0,1.0,862.0,Valencia
-,David Navarro,es ESP,DF,8,7,0.0,2.0,2005-2006,5dbdb37b,Valencia,651,7.2,3.0,0.0,41.0,1.0,876.0,Valencia
-,Hugo Viana,pt POR,MF,18,4,0.0,0.0,2005-2006,9a5542cc,Valencia,566,6.3,2.0,0.0,41.0,3.0,901.0,Valencia
-,Marco Caneira,pt POR,DF,5,4,0.0,0.0,2005-2006,2ad9feb,Valencia,388,4.3,2.0,0.0,41.0,3.0,890.0,Valencia
-,Amedeo Carboni,it ITA,DF,5,3,0.0,0.0,2005-2006,5c66ca76,Valencia,315,3.5,0.0,0.0,41.0,9.0,865.0,Valencia
-,Marco Di Vaio,it ITA,FW,5,2,1.0,0.0,2005-2006,dfa05223,Valencia,159,1.8,0.0,0.0,41.0,9.0,889.0,Valencia
-,Patrick Kluivert,nl NED,FW,10,1,1.0,1.0,2005-2006,6c3b0583,Valencia,209,2.3,2.0,0.0,41.0,11.0,902.0,Valencia
-,Edu Gaspar,br BRA,MF,6,1,0.0,0.0,2005-2006,0471f2a2,Valencia,203,2.3,2.0,0.0,41.0,2.0,903.0,Valencia
-,Jorge López,es ESP,MF,5,1,0.0,0.0,2005-2006,cf66479e,Valencia,116,1.3,0.0,0.0,41.0,1.0,884.0,Valencia
-,Curro Torres,es ESP,DF,3,1,0.0,0.0,2005-2006,49b88407,Valencia,97,1.1,0.0,0.0,41.0,1.0,870.0,Valencia
-,Ludovic Butelle,fr FRA,GK,1,1,0.0,0.0,2005-2006,26975a92,Valencia,90,1.0,0.0,0.0,41.0,4.0,904.0,Valencia
-,Juan Luis Mora,es ESP,GK,1,1,0.0,0.0,2005-2006,2e1a7599,Valencia,90,1.0,0.0,0.0,41.0,1.0,905.0,Valencia
-,Pablo Hernández,es ESP,"FW,MF",1,0,,0.0,2005-2006,c0398aca,Valencia,21,0.2,0.0,0.0,41.0,1.0,906.0,Valencia
-,﻿Raúl Albiol,es ESP,DF,36,35,0.0,1.0,2006-2007,4bd414c1,Valencia,"3,185",35.4,9.0,0.0,41.0,1.0,80.0,Valencia
-,David Villa,es ESP,"FW,MF",36,35,11.0,16.0,2006-2007,de08a67,Valencia,"2,921",32.5,9.0,0.0,41.0,1.0,898.0,Valencia
-,Santiago Cañizares,es ESP,GK,32,32,0.0,0.0,2006-2007,104f31c,Valencia,"2,786",31.0,3.0,1.0,41.0,1.0,858.0,Valencia
-,David Silva,es ESP,"FW,MF",36,31,6.0,5.0,2006-2007,2716bd0,Valencia,"2,640",29.3,5.0,1.0,41.0,1.0,,Valencia
-,Roberto Ayala,ar ARG,DF,29,29,0.0,2.0,2006-2007,561d182e,Valencia,"2,572",28.6,10.0,1.0,41.0,5.0,857.0,Valencia
-,Miguel Monteiro,pt POR,DF,30,27,0.0,0.0,2006-2007,930ef69d,Valencia,"2,486",27.6,5.0,0.0,41.0,3.0,899.0,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",36,27,3.0,5.0,2006-2007,434f4055,Valencia,"2,256",25.1,2.0,0.0,41.0,1.0,869.0,Valencia
-,David Albelda,es ESP,"DF,MF",25,25,0.0,0.0,2006-2007,def14f68,Valencia,"2,005",22.3,6.0,1.0,41.0,1.0,866.0,Valencia
-,Emiliano Moretti,it ITA,DF,23,23,0.0,2.0,2006-2007,55667895,Valencia,"2,039",22.7,5.0,1.0,41.0,9.0,891.0,Valencia
-,Joaquín,es ESP,"FW,MF",35,22,3.0,5.0,2006-2007,4c5b14d2,Valencia,"2,137",23.7,5.0,0.0,41.0,1.0,907.0,Valencia
-,Carlos Marchena,es ESP,"DF,MF",22,19,1.0,0.0,2006-2007,48ddb821,Valencia,"1,586",17.6,7.0,1.0,41.0,1.0,,Valencia
-,Fernando Morientes,es ESP,FW,24,17,1.0,13.0,2006-2007,bceebb25,Valencia,"1,606",17.8,0.0,0.0,41.0,1.0,18.0,Valencia
-,Curro Torres,es ESP,DF,17,17,0.0,0.0,2006-2007,49b88407,Valencia,"1,371",15.2,4.0,0.0,41.0,1.0,870.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",16,13,5.0,4.0,2006-2007,73b8c719,Valencia,"1,131",12.6,2.0,0.0,41.0,1.0,864.0,Valencia
-,David Navarro,es ESP,DF,13,12,0.0,1.0,2006-2007,5dbdb37b,Valencia,"1,006",11.2,5.0,0.0,41.0,1.0,876.0,Valencia
-,Edu Gaspar,br BRA,MF,10,9,1.0,0.0,2006-2007,0471f2a2,Valencia,824,9.2,2.0,0.0,41.0,2.0,903.0,Valencia
-,Rubén Baraja,es ESP,MF,14,9,3.0,1.0,2006-2007,31a8e5c3,Valencia,803,8.9,6.0,0.0,41.0,1.0,859.0,Valencia
-,Hugo Viana,pt POR,MF,25,7,1.0,2.0,2006-2007,9a5542cc,Valencia,950,10.6,4.0,0.0,41.0,3.0,901.0,Valencia
-,Ludovic Butelle,fr FRA,GK,8,6,0.0,0.0,2006-2007,26975a92,Valencia,634,7.0,2.0,0.0,41.0,4.0,904.0,Valencia
-,Asier del Horno,es ESP,DF,6,6,0.0,0.0,2006-2007,b525f4a,Valencia,531,5.9,2.0,0.0,41.0,1.0,908.0,Valencia
-,Miguel Pallardó,es ESP,MF,10,5,0.0,0.0,2006-2007,6c3dfe68,Valencia,427,4.7,1.0,0.0,41.0,1.0,897.0,Valencia
-,Jaime Gavilán,es ESP,MF,12,4,2.0,0.0,2006-2007,95de0931,Valencia,404,4.5,2.0,1.0,41.0,1.0,880.0,Valencia
-,David Cerrajería,es ESP,DF,5,4,0.0,0.0,2006-2007,2ebb9df6,Valencia,353,3.9,3.0,0.0,41.0,1.0,909.0,Valencia
-,Jorge López,es ESP,MF,14,2,1.0,0.0,2006-2007,cf66479e,Valencia,300,3.3,3.0,1.0,41.0,1.0,884.0,Valencia
-,Mario Regueiro,uy URU,"FW,MF",6,1,0.0,0.0,2006-2007,c792d665,Valencia,233,2.6,2.0,0.0,41.0,8.0,900.0,Valencia
-,David Córcoles,es ESP,DF,1,1,0.0,0.0,2006-2007,929ea912,Valencia,90,1.0,0.0,0.0,41.0,1.0,910.0,Valencia
-,Francesco Tavano,it ITA,FW,3,0,0.0,0.0,2006-2007,d4a26b3a,Valencia,47,0.5,0.0,0.0,41.0,9.0,911.0,Valencia
-,Javi Guerra,es ESP,FW,2,0,0.0,0.0,2006-2007,386464,Valencia,17,0.2,0.0,0.0,41.0,1.0,912.0,Valencia
-,Natxo Insa,my MAS,MF,1,0,,0.0,2006-2007,28ccefcd,Valencia,7,0.1,0.0,0.0,41.0,68.0,,Valencia
-,﻿Raúl Albiol,es ESP,DF,32,32,0.0,1.0,2007-2008,4bd414c1,Valencia,"2,863",31.8,7.0,1.0,41.0,1.0,80.0,Valencia
-,David Silva,es ESP,"FW,MF",34,32,4.0,4.0,2007-2008,2716bd0,Valencia,"2,751",30.6,6.0,1.0,41.0,1.0,,Valencia
-,Emiliano Moretti,it ITA,DF,28,28,0.0,1.0,2007-2008,55667895,Valencia,"2,500",27.8,5.0,0.0,41.0,9.0,891.0,Valencia
-,Joaquín,es ESP,"FW,MF",34,26,4.0,3.0,2007-2008,4c5b14d2,Valencia,"2,451",27.2,3.0,1.0,41.0,1.0,907.0,Valencia
-,Timo Hildebrand,de GER,GK,26,26,0.0,0.0,2007-2008,672b5171,Valencia,"2,340",26.0,1.0,0.0,41.0,13.0,,Valencia
-,Carlos Marchena,es ESP,"DF,MF",28,26,1.0,0.0,2007-2008,48ddb821,Valencia,"2,274",25.3,13.0,0.0,41.0,1.0,,Valencia
-,David Villa,es ESP,"FW,MF",28,26,5.0,18.0,2007-2008,de08a67,Valencia,"2,029",22.5,2.0,2.0,41.0,1.0,898.0,Valencia
-,Miguel Monteiro,pt POR,DF,26,23,1.0,1.0,2007-2008,930ef69d,Valencia,"2,121",23.6,7.0,0.0,41.0,3.0,899.0,Valencia
-,Iván Helguera,es ESP,"DF,MF",24,22,0.0,1.0,2007-2008,44151558,Valencia,"2,046",22.7,7.0,1.0,41.0,1.0,4.0,Valencia
-,Rubén Baraja,es ESP,MF,25,22,2.0,2.0,2007-2008,31a8e5c3,Valencia,"1,886",21.0,8.0,0.0,41.0,1.0,859.0,Valencia
-,Marco Caneira,pt POR,DF,19,19,0.0,0.0,2007-2008,2ad9feb,Valencia,"1,558",17.3,8.0,0.0,41.0,3.0,890.0,Valencia
-,Javier Arizmendi,es ESP,"FW,MF",30,18,3.0,1.0,2007-2008,14a6c075,Valencia,"1,542",17.1,5.0,0.0,41.0,1.0,,Valencia
-,Juan Mata,es ESP,"FW,MF",24,17,1.0,5.0,2007-2008,29733c72,Valencia,"1,338",14.9,1.0,0.0,41.0,1.0,913.0,Valencia
-,Alexis,es ESP,DF,14,12,0.0,0.0,2007-2008,db0cd1ae,Valencia,"1,028",11.4,2.0,0.0,41.0,1.0,914.0,Valencia
-,Fernando Morientes,es ESP,FW,22,11,0.0,6.0,2007-2008,bceebb25,Valencia,"1,178",13.1,3.0,0.0,41.0,1.0,18.0,Valencia
-,David Albelda,es ESP,"DF,MF",15,11,1.0,0.0,2007-2008,def14f68,Valencia,"1,026",11.4,5.0,0.0,41.0,1.0,866.0,Valencia
-,Hedwiges Maduro,nl NED,"DF,MF",11,11,0.0,0.0,2007-2008,5918cc84,Valencia,771,8.6,2.0,1.0,41.0,11.0,915.0,Valencia
-,Santiago Cañizares,es ESP,GK,10,10,0.0,0.0,2007-2008,104f31c,Valencia,900,10.0,1.0,0.0,41.0,1.0,858.0,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",16,9,0.0,2.0,2007-2008,434f4055,Valencia,867,9.6,2.0,0.0,41.0,1.0,869.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",17,7,0.0,0.0,2007-2008,73b8c719,Valencia,724,8.0,1.0,0.0,41.0,1.0,864.0,Valencia
-,Éver Banega,ar ARG,MF,12,7,0.0,0.0,2007-2008,fa937f7a,Valencia,679,7.5,3.0,0.0,41.0,5.0,916.0,Valencia
-,Manuel Fernandes,pt POR,MF,7,5,0.0,0.0,2007-2008,13ac19de,Valencia,396,4.4,1.0,0.0,41.0,3.0,917.0,Valencia
-,Sunny,ng NGA,MF,10,4,0.0,0.0,2007-2008,1eb38665,Valencia,447,5.0,0.0,0.0,41.0,52.0,918.0,Valencia
-,Edu Gaspar,br BRA,MF,13,3,1.0,0.0,2007-2008,0471f2a2,Valencia,525,5.8,1.0,0.0,41.0,2.0,903.0,Valencia
-,Nikola Žigić,rs SRB,FW,15,3,0.0,1.0,2007-2008,d584e0,Valencia,501,5.6,2.0,1.0,41.0,28.0,919.0,Valencia
-,Ángel Montoro,es ESP,MF,4,3,0.0,0.0,2007-2008,719384c1,Valencia,235,2.6,1.0,0.0,41.0,1.0,920.0,Valencia
-,Juan Luis Mora,es ESP,GK,2,2,0.0,0.0,2007-2008,2e1a7599,Valencia,180,2.0,0.0,0.0,41.0,1.0,905.0,Valencia
-,Jaime Gavilán,es ESP,MF,3,2,0.0,0.0,2007-2008,95de0931,Valencia,163,1.8,0.0,0.0,41.0,1.0,880.0,Valencia
-,David Lombán,es ESP,DF,3,1,0.0,0.0,2007-2008,b43b81f1,Valencia,151,1.7,0.0,0.0,41.0,1.0,921.0,Valencia
-,﻿Juan Mata,es ESP,"FW,MF",37,35,11.0,11.0,2008-2009,29733c72,Valencia,"3,022",33.6,5.0,0.0,41.0,1.0,913.0,Valencia
-,Raúl Albiol,es ESP,DF,34,33,1.0,2.0,2008-2009,4bd414c1,Valencia,"2,940",32.7,8.0,0.0,41.0,1.0,80.0,Valencia
-,David Villa,es ESP,"FW,MF",33,33,4.0,28.0,2008-2009,de08a67,Valencia,"2,878",32.0,6.0,1.0,41.0,1.0,898.0,Valencia
-,Miguel Monteiro,pt POR,DF,29,27,0.0,0.0,2008-2009,930ef69d,Valencia,"2,474",27.5,5.0,0.0,41.0,3.0,899.0,Valencia
-,Joaquín,es ESP,"FW,MF",31,27,3.0,4.0,2008-2009,4c5b14d2,Valencia,"2,246",25.0,1.0,0.0,41.0,1.0,907.0,Valencia
-,David Albelda,es ESP,"DF,MF",30,25,0.0,0.0,2008-2009,def14f68,Valencia,"2,273",25.3,12.0,0.0,41.0,1.0,866.0,Valencia
-,Emiliano Moretti,it ITA,DF,28,25,0.0,0.0,2008-2009,55667895,Valencia,"2,137",23.7,7.0,0.0,41.0,9.0,891.0,Valencia
-,Carlos Marchena,es ESP,"DF,MF",26,24,0.0,1.0,2008-2009,48ddb821,Valencia,"2,085",23.2,13.0,3.0,41.0,1.0,,Valencia
-,Alexis,es ESP,DF,24,24,0.0,1.0,2008-2009,db0cd1ae,Valencia,"2,051",22.8,8.0,1.0,41.0,1.0,914.0,Valencia
-,Rubén Baraja,es ESP,MF,28,22,0.0,3.0,2008-2009,31a8e5c3,Valencia,"1,853",20.6,13.0,0.0,41.0,1.0,859.0,Valencia
-,Manuel Fernandes,pt POR,MF,27,20,2.0,2.0,2008-2009,13ac19de,Valencia,"1,715",19.1,7.0,1.0,41.0,3.0,917.0,Valencia
-,Renan Brito Soares,br BRA,GK,19,19,0.0,0.0,2008-2009,ca409f2e,Valencia,"1,661",18.5,2.0,0.0,41.0,2.0,922.0,Valencia
-,Hedwiges Maduro,nl NED,"DF,MF",22,18,0.0,1.0,2008-2009,5918cc84,Valencia,"1,632",18.1,4.0,0.0,41.0,11.0,915.0,Valencia
-,César Sánchez,es ESP,GK,18,18,0.0,0.0,2008-2009,c6e6e5d6,Valencia,"1,620",18.0,3.0,0.0,41.0,1.0,29.0,Valencia
-,David Silva,es ESP,"FW,MF",19,17,5.0,4.0,2008-2009,2716bd0,Valencia,"1,475",16.4,5.0,0.0,41.0,1.0,,Valencia
-,Pablo Hernández,es ESP,"FW,MF",21,12,2.0,3.0,2008-2009,c0398aca,Valencia,"1,044",11.6,4.0,0.0,41.0,1.0,906.0,Valencia
-,Edu Gaspar,br BRA,MF,21,9,1.0,1.0,2008-2009,0471f2a2,Valencia,865,9.6,4.0,0.0,41.0,2.0,903.0,Valencia
-,Fernando Morientes,es ESP,FW,20,7,1.0,1.0,2008-2009,bceebb25,Valencia,816,9.1,3.0,0.0,41.0,1.0,18.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",27,6,0.0,6.0,2008-2009,73b8c719,Valencia,846,9.4,1.0,0.0,41.0,1.0,864.0,Valencia
-,Asier del Horno,es ESP,DF,9,6,0.0,0.0,2008-2009,b525f4a,Valencia,563,6.3,3.0,0.0,41.0,1.0,908.0,Valencia
-,Miguel Ángel Angulo,es ESP,"FW,MF",11,5,1.0,0.0,2008-2009,434f4055,Valencia,524,5.8,0.0,0.0,41.0,1.0,869.0,Valencia
-,Míchel,es ESP,MF,13,4,0.0,0.0,2008-2009,418f8f61,Valencia,514,5.7,3.0,0.0,41.0,1.0,,Valencia
-,Vicente Guaita,es ESP,GK,2,1,0.0,0.0,2008-2009,b13a5aa,Valencia,139,1.5,0.0,0.0,41.0,1.0,923.0,Valencia
-,Iván Helguera,es ESP,"DF,MF",1,1,0.0,0.0,2008-2009,44151558,Valencia,90,1.0,0.0,0.0,41.0,1.0,4.0,Valencia
-,Thiago Carleto,br BRA,"DF,MF",1,0,0.0,0.0,2008-2009,1c50ba0b,Valencia,77,0.9,0.0,0.0,41.0,2.0,924.0,Valencia
-,Curro Torres,es ESP,DF,1,0,0.0,0.0,2008-2009,49b88407,Valencia,2,0.0,0.0,0.0,41.0,1.0,870.0,Valencia
-,﻿Éver Banega,ar ARG,MF,36,33,6.0,2.0,2009-2010,fa937f7a,Valencia,"2,806",31.2,11.0,0.0,41.0,5.0,916.0,Valencia
-,David Villa,es ESP,"FW,MF",32,31,3.0,21.0,2009-2010,de08a67,Valencia,"2,703",30.0,5.0,0.0,41.0,1.0,898.0,Valencia
-,César Sánchez,es ESP,GK,30,30,0.0,0.0,2009-2010,c6e6e5d6,Valencia,"2,700",30.0,5.0,0.0,41.0,1.0,29.0,Valencia
-,Juan Mata,es ESP,"FW,MF",35,30,4.0,9.0,2009-2010,29733c72,Valencia,"2,570",28.6,1.0,0.0,41.0,1.0,913.0,Valencia
-,David Silva,es ESP,"FW,MF",30,28,6.0,8.0,2009-2010,2716bd0,Valencia,"2,409",26.8,6.0,0.0,41.0,1.0,,Valencia
-,Pablo Hernández,es ESP,"FW,MF",33,25,4.0,5.0,2009-2010,c0398aca,Valencia,"2,181",24.2,1.0,0.0,41.0,1.0,906.0,Valencia
-,Bruno,es ESP,DF,26,25,0.0,0.0,2009-2010,78803d03,Valencia,"2,136",23.7,10.0,0.0,41.0,1.0,925.0,Valencia
-,David Albelda,es ESP,"DF,MF",28,22,1.0,1.0,2009-2010,def14f68,Valencia,"2,037",22.6,12.0,0.0,41.0,1.0,866.0,Valencia
-,Ángel Dealbert,es ESP,DF,24,22,0.0,0.0,2009-2010,8242a7ad,Valencia,"1,989",22.1,2.0,0.0,41.0,1.0,926.0,Valencia
-,Alexis,es ESP,DF,24,21,0.0,1.0,2009-2010,db0cd1ae,Valencia,"1,912",21.2,8.0,1.0,41.0,1.0,914.0,Valencia
-,Miguel Monteiro,pt POR,DF,25,20,1.0,0.0,2009-2010,930ef69d,Valencia,"1,756",19.5,4.0,1.0,41.0,3.0,899.0,Valencia
-,David Navarro,es ESP,DF,19,19,0.0,2.0,2009-2010,5dbdb37b,Valencia,"1,610",17.9,7.0,0.0,41.0,1.0,876.0,Valencia
-,Joaquín,es ESP,"FW,MF",28,17,2.0,2.0,2009-2010,4c5b14d2,Valencia,"1,620",18.0,2.0,0.0,41.0,1.0,907.0,Valencia
-,Carlos Marchena,es ESP,"DF,MF",24,17,0.0,2.0,2009-2010,48ddb821,Valencia,"1,492",16.6,6.0,1.0,41.0,1.0,,Valencia
-,Jérémy Mathieu,fr FRA,DF,17,14,0.0,1.0,2009-2010,5b887c7a,Valencia,"1,227",13.6,2.0,0.0,41.0,4.0,927.0,Valencia
-,Hedwiges Maduro,nl NED,"DF,MF",18,12,0.0,0.0,2009-2010,5918cc84,Valencia,"1,131",12.6,7.0,1.0,41.0,11.0,915.0,Valencia
-,Jordi Alba,es ESP,"DF,MF",15,12,0.0,1.0,2009-2010,4601e194,Valencia,"1,123",12.5,3.0,0.0,41.0,1.0,,Valencia
-,Manuel Fernandes,pt POR,MF,15,8,0.0,0.0,2009-2010,13ac19de,Valencia,799,8.9,3.0,1.0,41.0,3.0,917.0,Valencia
-,Miguel Ángel Moyá,es ESP,GK,8,8,0.0,0.0,2009-2010,011d8c56,Valencia,720,8.0,0.0,0.0,41.0,1.0,,Valencia
-,Rubén Baraja,es ESP,MF,18,7,1.0,0.0,2009-2010,31a8e5c3,Valencia,779,8.7,3.0,0.0,41.0,1.0,859.0,Valencia
-,Nikola Žigić,rs SRB,FW,13,5,1.0,4.0,2009-2010,d584e0,Valencia,561,6.2,8.0,1.0,41.0,28.0,919.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",11,5,1.0,0.0,2009-2010,73b8c719,Valencia,501,5.6,1.0,0.0,41.0,1.0,864.0,Valencia
-,Chori Domínguez,ar ARG,"FW,MF",13,4,2.0,0.0,2009-2010,bbb66f34,Valencia,459,5.1,2.0,0.0,41.0,5.0,929.0,Valencia
-,Joel Johnson,lr LBR,"DF,MF",1,1,0.0,0.0,2009-2010,29a972e4,Valencia,90,1.0,0.0,0.0,41.0,71.0,930.0,Valencia
-,Miku,ve VEN,FW,2,1,0.0,0.0,2009-2010,4eba9598,Valencia,70,0.8,0.0,0.0,41.0,53.0,,Valencia
-,Lillo,es ESP,DF,1,1,0.0,0.0,2009-2010,476ca810,Valencia,45,0.5,1.0,0.0,41.0,1.0,931.0,Valencia
-,Míchel,es ESP,MF,3,0,0.0,0.0,2009-2010,418f8f61,Valencia,32,0.4,0.0,0.0,41.0,1.0,,Valencia
-,﻿Juan Mata,es ESP,"FW,MF",33,31,11.0,8.0,2010-2011,29733c72,Valencia,"2,567",28.5,3.0,0.0,41.0,1.0,913.0,Valencia
-,Ricardo Costa,pt POR,DF,29,29,0.0,0.0,2010-2011,cd7325e1,Valencia,"2,491",27.7,8.0,1.0,41.0,3.0,932.0,Valencia
-,Jérémy Mathieu,fr FRA,DF,29,27,3.0,1.0,2010-2011,5b887c7a,Valencia,"2,198",24.4,4.0,0.0,41.0,4.0,927.0,Valencia
-,Roberto Soldado,es ESP,FW,34,26,4.0,18.0,2010-2011,9d66fbe3,Valencia,"2,410",26.8,8.0,0.0,41.0,1.0,46.0,Valencia
-,Joaquín,es ESP,"FW,MF",30,24,6.0,4.0,2010-2011,4c5b14d2,Valencia,"2,069",23.0,6.0,0.0,41.0,1.0,907.0,Valencia
-,Mehmet Topal,tr TUR,"DF,MF",23,21,1.0,1.0,2010-2011,f93c876b,Valencia,"1,828",20.3,5.0,1.0,41.0,15.0,933.0,Valencia
-,Aritz Aduriz,es ESP,FW,29,20,2.0,10.0,2010-2011,293211e1,Valencia,"1,846",20.5,6.0,1.0,41.0,1.0,,Valencia
-,Miguel Monteiro,pt POR,DF,24,20,2.0,0.0,2010-2011,930ef69d,Valencia,"1,827",20.3,1.0,0.0,41.0,3.0,899.0,Valencia
-,Pablo Hernández,es ESP,"FW,MF",27,20,6.0,5.0,2010-2011,c0398aca,Valencia,"1,769",19.7,3.0,0.0,41.0,1.0,906.0,Valencia
-,Vicente Guaita,es ESP,GK,21,19,0.0,0.0,2010-2011,b13a5aa,Valencia,"1,795",19.9,2.0,0.0,41.0,1.0,923.0,Valencia
-,Éver Banega,ar ARG,MF,28,19,3.0,2.0,2010-2011,fa937f7a,Valencia,"1,737",19.3,8.0,0.0,41.0,5.0,916.0,Valencia
-,Marius Stankevičius,lt LTU,"DF,MF",21,19,0.0,2.0,2010-2011,7c3a4a58,Valencia,"1,701",18.9,6.0,2.0,41.0,72.0,935.0,Valencia
-,Tino Costa,ar ARG,MF,24,17,1.0,4.0,2010-2011,8f747a86,Valencia,"1,628",18.1,11.0,0.0,41.0,5.0,936.0,Valencia
-,Bruno,es ESP,DF,19,17,1.0,0.0,2010-2011,78803d03,Valencia,"1,532",17.0,6.0,0.0,41.0,1.0,925.0,Valencia
-,Hedwiges Maduro,nl NED,"DF,MF",18,17,0.0,1.0,2010-2011,5918cc84,Valencia,"1,476",16.4,5.0,0.0,41.0,11.0,915.0,Valencia
-,David Navarro,es ESP,DF,17,16,0.0,1.0,2010-2011,5dbdb37b,Valencia,"1,285",14.3,7.0,1.0,41.0,1.0,876.0,Valencia
-,César Sánchez,es ESP,GK,15,15,0.0,0.0,2010-2011,c6e6e5d6,Valencia,"1,265",14.1,5.0,0.0,41.0,1.0,29.0,Valencia
-,Jordi Alba,es ESP,"DF,MF",27,14,1.0,2.0,2010-2011,4601e194,Valencia,"1,428",15.9,6.0,0.0,41.0,1.0,,Valencia
-,David Albelda,es ESP,"DF,MF",16,12,1.0,0.0,2010-2011,def14f68,Valencia,"1,044",11.6,8.0,1.0,41.0,1.0,866.0,Valencia
-,Ángel Dealbert,es ESP,DF,14,10,0.0,0.0,2010-2011,8242a7ad,Valencia,"1,000",11.1,2.0,0.0,41.0,1.0,926.0,Valencia
-,Jonas,br BRA,FW,13,8,4.0,3.0,2010-2011,9bcd6455,Valencia,683,7.6,2.0,0.0,41.0,2.0,937.0,Valencia
-,Vicente Rodríguez,es ESP,"FW,MF",14,5,0.0,1.0,2010-2011,73b8c719,Valencia,569,6.3,1.0,0.0,41.0,1.0,864.0,Valencia
-,Manuel Fernandes,pt POR,MF,7,5,1.0,0.0,2010-2011,13ac19de,Valencia,485,5.4,1.0,0.0,41.0,3.0,917.0,Valencia
-,Miguel Ángel Moyá,es ESP,GK,4,4,0.0,0.0,2010-2011,011d8c56,Valencia,360,4.0,0.0,0.0,41.0,1.0,,Valencia
-,Chori Domínguez,ar ARG,"FW,MF",9,3,0.0,0.0,2010-2011,bbb66f34,Valencia,325,3.6,1.0,0.0,41.0,5.0,929.0,Valencia
-,Isco,es ESP,"FW,MF",4,0,0.0,0.0,2010-2011,0b4bb3e,Valencia,68,0.8,0.0,0.0,41.0,1.0,118.0,Valencia
-,Sofiane Feghouli,dz ALG,"FW,MF",3,0,0.0,0.0,2010-2011,691f64f5,Valencia,33,0.4,0.0,0.0,41.0,37.0,938.0,Valencia
-,﻿Adil Rami,fr FRA,DF,33,33,0.0,2.0,2011-2012,8dbff17c,Valencia,"2,970",33.0,9.0,0.0,41.0,4.0,939.0,Valencia
-,Roberto Soldado,es ESP,FW,32,29,4.0,17.0,2011-2012,9d66fbe3,Valencia,"2,441",27.1,11.0,0.0,41.0,1.0,46.0,Valencia
-,Jordi Alba,es ESP,"DF,MF",32,27,5.0,2.0,2011-2012,4601e194,Valencia,"2,543",28.3,13.0,1.0,41.0,1.0,,Valencia
-,Jérémy Mathieu,fr FRA,DF,31,27,2.0,0.0,2011-2012,5b887c7a,Valencia,"2,350",26.1,5.0,0.0,41.0,4.0,927.0,Valencia
-,Vicente Guaita,es ESP,GK,26,26,0.0,0.0,2011-2012,b13a5aa,Valencia,"2,340",26.0,1.0,0.0,41.0,1.0,923.0,Valencia
-,Sofiane Feghouli,dz ALG,"FW,MF",30,25,5.0,6.0,2011-2012,691f64f5,Valencia,"2,080",23.1,8.0,1.0,41.0,37.0,938.0,Valencia
-,Jonas,br BRA,FW,34,23,4.0,10.0,2011-2012,9bcd6455,Valencia,"2,095",23.3,4.0,0.0,41.0,2.0,937.0,Valencia
-,Tino Costa,ar ARG,MF,27,22,3.0,5.0,2011-2012,8f747a86,Valencia,"2,029",22.5,12.0,1.0,41.0,5.0,936.0,Valencia
-,Víctor Ruiz,es ESP,"DF,MF",22,22,0.0,0.0,2011-2012,b3dc6eca,Valencia,"1,960",21.8,7.0,0.0,41.0,1.0,940.0,Valencia
-,Pablo Hernández,es ESP,"FW,MF",30,19,3.0,2.0,2011-2012,c0398aca,Valencia,"1,786",19.8,5.0,0.0,41.0,1.0,906.0,Valencia
-,David Albelda,es ESP,"DF,MF",21,19,0.0,0.0,2011-2012,def14f68,Valencia,"1,586",17.6,10.0,1.0,41.0,1.0,866.0,Valencia
-,Antonio Barragán,es ESP,"DF,MF",18,15,0.0,0.0,2011-2012,487d9b09,Valencia,"1,417",15.7,6.0,0.0,41.0,1.0,,Valencia
-,Pablo Piatti,ar ARG,"FW,MF",30,14,2.0,2.0,2011-2012,48e89655,Valencia,"1,231",13.7,3.0,0.0,41.0,5.0,941.0,Valencia
-,Mehmet Topal,tr TUR,"DF,MF",20,13,0.0,0.0,2011-2012,f93c876b,Valencia,"1,287",14.3,4.0,0.0,41.0,15.0,933.0,Valencia
-,Éver Banega,ar ARG,MF,13,13,1.0,0.0,2011-2012,fa937f7a,Valencia,"1,053",11.7,3.0,0.0,41.0,5.0,916.0,Valencia
-,Diego Alves,br BRA,GK,12,12,0.0,0.0,2011-2012,12421a7c,Valencia,"1,080",12.0,3.0,0.0,41.0,2.0,942.0,Valencia
-,Daniel Parejo,es ESP,MF,16,12,0.0,0.0,2011-2012,7460ca0d,Valencia,999,11.1,4.0,0.0,41.0,1.0,75.0,Valencia
-,Aritz Aduriz,es ESP,FW,29,11,1.0,7.0,2011-2012,293211e1,Valencia,"1,302",14.5,5.0,1.0,41.0,1.0,,Valencia
-,Ricardo Costa,pt POR,DF,12,11,0.0,0.0,2011-2012,cd7325e1,Valencia,"1,010",11.2,4.0,1.0,41.0,3.0,932.0,Valencia
-,Ángel Dealbert,es ESP,DF,11,11,0.0,0.0,2011-2012,8242a7ad,Valencia,990,11.0,1.0,0.0,41.0,1.0,926.0,Valencia
-,Miguel Monteiro,pt POR,DF,11,11,1.0,1.0,2011-2012,930ef69d,Valencia,923,10.3,3.0,0.0,41.0,3.0,899.0,Valencia
-,Bruno,es ESP,DF,14,11,1.0,0.0,2011-2012,78803d03,Valencia,893,9.9,5.0,0.0,41.0,1.0,925.0,Valencia
-,Sergio Canales,es ESP,MF,11,6,2.0,1.0,2011-2012,6de370d,Valencia,571,6.3,1.0,0.0,41.0,1.0,93.0,Valencia
-,Hedwiges Maduro,nl NED,"DF,MF",7,4,0.0,0.0,2011-2012,5918cc84,Valencia,394,4.4,1.0,0.0,41.0,11.0,915.0,Valencia
-,Juan Bernat,es ESP,"DF,FW",7,2,0.0,0.0,2011-2012,433dc9a2,Valencia,190,2.1,0.0,0.0,41.0,1.0,943.0,Valencia
-,Paco Alcácer,es ESP,FW,3,0,0.0,0.0,2011-2012,7a9d95a,Valencia,40,0.4,0.0,0.0,41.0,1.0,944.0,Valencia
-,﻿Roberto Soldado,es ESP,FW,35,33,5.0,24.0,2012-2013,9d66fbe3,Valencia,"2,919",32.4,10.0,0.0,41.0,1.0,46.0,Valencia
-,Jonas,br BRA,FW,35,30,3.0,13.0,2012-2013,9bcd6455,Valencia,"2,399",26.7,5.0,2.0,41.0,2.0,937.0,Valencia
-,João Pereira,pt POR,"DF,MF",30,28,4.0,0.0,2012-2013,fd0c5b,Valencia,"2,502",27.8,9.0,0.0,41.0,3.0,945.0,Valencia
-,Andrés Guardado,mx MEX,"DF,FW",32,26,3.0,1.0,2012-2013,f322658,Valencia,"2,365",26.3,6.0,0.0,41.0,20.0,,Valencia
-,Tino Costa,ar ARG,MF,31,26,5.0,1.0,2012-2013,8f747a86,Valencia,"2,271",25.2,7.0,1.0,41.0,5.0,936.0,Valencia
-,Ricardo Costa,pt POR,DF,26,25,0.0,4.0,2012-2013,cd7325e1,Valencia,"2,157",24.0,10.0,2.0,41.0,3.0,932.0,Valencia
-,Diego Alves,br BRA,GK,24,24,0.0,0.0,2012-2013,12421a7c,Valencia,"2,160",24.0,0.0,0.0,41.0,2.0,942.0,Valencia
-,Adil Rami,fr FRA,DF,25,24,2.0,0.0,2012-2013,8dbff17c,Valencia,"2,076",23.1,6.0,1.0,41.0,4.0,939.0,Valencia
-,Sofiane Feghouli,dz ALG,"FW,MF",27,23,6.0,3.0,2012-2013,691f64f5,Valencia,"2,102",23.4,8.0,1.0,41.0,37.0,938.0,Valencia
-,Éver Banega,ar ARG,MF,29,22,4.0,4.0,2012-2013,fa937f7a,Valencia,"1,983",22.0,6.0,0.0,41.0,5.0,916.0,Valencia
-,Daniel Parejo,es ESP,MF,27,20,3.0,1.0,2012-2013,7460ca0d,Valencia,"1,971",21.9,10.0,0.0,41.0,1.0,75.0,Valencia
-,Aly Cissokho,fr FRA,DF,25,18,2.0,2.0,2012-2013,83a2bb30,Valencia,"1,691",18.8,6.0,1.0,41.0,4.0,946.0,Valencia
-,Víctor Ruiz,es ESP,"DF,MF",26,17,2.0,0.0,2012-2013,b3dc6eca,Valencia,"1,640",18.2,7.0,0.0,41.0,1.0,940.0,Valencia
-,Jérémy Mathieu,fr FRA,DF,17,16,0.0,1.0,2012-2013,5b887c7a,Valencia,"1,417",15.7,4.0,0.0,41.0,4.0,927.0,Valencia
-,David Albelda,es ESP,"DF,MF",18,16,0.0,0.0,2012-2013,def14f68,Valencia,"1,188",13.2,11.0,0.0,41.0,1.0,866.0,Valencia
-,Vicente Guaita,es ESP,GK,14,14,0.0,0.0,2012-2013,b13a5aa,Valencia,"1,260",14.0,1.0,0.0,41.0,1.0,923.0,Valencia
-,Fernando Gago,ar ARG,MF,13,11,0.0,0.0,2012-2013,86337bd,Valencia,898,10.0,2.0,0.0,41.0,5.0,58.0,Valencia
-,Pablo Piatti,ar ARG,"FW,MF",14,10,2.0,1.0,2012-2013,48e89655,Valencia,828,9.2,4.0,0.0,41.0,5.0,941.0,Valencia
-,Antonio Barragán,es ESP,"DF,MF",14,9,0.0,0.0,2012-2013,487d9b09,Valencia,927,10.3,4.0,0.0,41.0,1.0,,Valencia
-,Jonathan Viera,es ESP,"FW,MF",17,7,3.0,2.0,2012-2013,fa708aa,Valencia,772,8.6,2.0,0.0,41.0,1.0,947.0,Valencia
-,Sergio Canales,es ESP,MF,13,7,2.0,2.0,2012-2013,6de370d,Valencia,570,6.3,1.0,0.0,41.0,1.0,93.0,Valencia
-,Nelson Valdez,py PAR,FW,28,6,0.0,6.0,2012-2013,040d8500,Valencia,785,8.7,4.0,0.0,41.0,43.0,948.0,Valencia
-,Juan Bernat,es ESP,"DF,FW",12,6,2.0,0.0,2012-2013,433dc9a2,Valencia,502,5.6,1.0,0.0,41.0,1.0,943.0,Valencia
-,﻿Jérémy Mathieu,fr FRA,DF,32,32,0.0,3.0,2013-2014,5b887c7a,Valencia,"2,817",31.3,7.0,1.0,41.0,4.0,927.0,Valencia
-,Daniel Parejo,es ESP,MF,31,28,5.0,4.0,2013-2014,7460ca0d,Valencia,"2,410",26.8,7.0,0.0,41.0,1.0,75.0,Valencia
-,Diego Alves,br BRA,GK,27,27,0.0,0.0,2013-2014,12421a7c,Valencia,"2,280",25.3,3.0,0.0,41.0,2.0,942.0,Valencia
-,Juan Bernat,es ESP,"DF,FW",32,26,2.0,1.0,2013-2014,433dc9a2,Valencia,"2,493",27.7,2.0,0.0,41.0,1.0,943.0,Valencia
-,Javi Fuego,es ESP,MF,27,25,0.0,2.0,2013-2014,2e8fc160,Valencia,"2,220",24.7,6.0,0.0,41.0,1.0,949.0,Valencia
-,Jonas,br BRA,FW,31,23,1.0,10.0,2013-2014,9bcd6455,Valencia,"2,097",23.3,4.0,0.0,41.0,2.0,937.0,Valencia
-,João Pereira,pt POR,"DF,MF",25,23,2.0,0.0,2013-2014,fd0c5b,Valencia,"2,076",23.1,7.0,0.0,41.0,3.0,945.0,Valencia
-,Sofiane Feghouli,dz ALG,"FW,MF",32,22,8.0,4.0,2013-2014,691f64f5,Valencia,"2,066",23.0,4.0,0.0,41.0,37.0,938.0,Valencia
-,Ricardo Costa,pt POR,DF,20,20,0.0,3.0,2013-2014,cd7325e1,Valencia,"1,710",19.0,7.0,1.0,41.0,3.0,932.0,Valencia
-,Paco Alcácer,es ESP,FW,23,17,2.0,6.0,2013-2014,7a9d95a,Valencia,"1,531",17.0,5.0,0.0,41.0,1.0,944.0,Valencia
-,Antonio Barragán,es ESP,"DF,MF",20,17,3.0,0.0,2013-2014,487d9b09,Valencia,"1,493",16.6,3.0,2.0,41.0,1.0,,Valencia
-,Federico Cartabia,ar ARG,MF,25,16,1.0,0.0,2013-2014,8e6bebf,Valencia,"1,410",15.7,4.0,0.0,41.0,5.0,,Valencia
-,Éver Banega,ar ARG,MF,18,14,3.0,1.0,2013-2014,fa937f7a,Valencia,"1,149",12.8,6.0,0.0,41.0,5.0,916.0,Valencia
-,Pablo Piatti,ar ARG,"FW,MF",17,13,2.0,5.0,2013-2014,48e89655,Valencia,"1,110",12.3,3.0,0.0,41.0,5.0,941.0,Valencia
-,Eduardo Vargas,cl CHI,"FW,MF",17,13,1.0,3.0,2013-2014,bd603c00,Valencia,"1,098",12.2,3.0,0.0,41.0,31.0,950.0,Valencia
-,Andrés Guardado,mx MEX,"DF,FW",16,12,0.0,0.0,2013-2014,f322658,Valencia,"1,045",11.6,3.0,0.0,41.0,20.0,,Valencia
-,Vicente Guaita,es ESP,GK,13,11,0.0,0.0,2013-2014,b13a5aa,Valencia,"1,140",12.7,1.0,0.0,41.0,1.0,923.0,Valencia
-,Oriol Romeu,es ESP,MF,13,11,0.0,0.0,2013-2014,4b511457,Valencia,999,11.1,3.0,0.0,41.0,1.0,951.0,Valencia
-,Dorlan Pabón,co COL,"FW,MF",13,11,0.0,3.0,2013-2014,4eb45683,Valencia,901,10.0,0.0,0.0,41.0,19.0,952.0,Valencia
-,Hélder Postiga,pt POR,FW,15,9,0.0,3.0,2013-2014,c8504093,Valencia,856,9.5,1.0,0.0,41.0,3.0,,Valencia
-,Seydou Keita,ml MLI,MF,11,9,0.0,1.0,2013-2014,500c4e9b,Valencia,756,8.4,4.0,0.0,41.0,12.0,,Valencia
-,Víctor Ruiz,es ESP,"DF,MF",11,8,0.0,1.0,2013-2014,b3dc6eca,Valencia,775,8.6,3.0,0.0,41.0,1.0,940.0,Valencia
-,Sergio Canales,es ESP,MF,19,7,2.0,0.0,2013-2014,6de370d,Valencia,835,9.3,1.0,0.0,41.0,1.0,93.0,Valencia
-,Philippe Senderos,ch SUI,DF,8,7,0.0,0.0,2013-2014,b1d82fc2,Valencia,659,7.3,4.0,0.0,41.0,39.0,953.0,Valencia
-,Míchel,es ESP,MF,13,6,2.0,0.0,2013-2014,418f8f61,Valencia,537,6.0,3.0,0.0,41.0,1.0,,Valencia
-,Rúben Vezo,pt POR,DF,8,5,0.0,1.0,2013-2014,c67cd65c,Valencia,490,5.4,0.0,0.0,41.0,3.0,954.0,Valencia
-,Adil Rami,fr FRA,DF,3,3,0.0,0.0,2013-2014,8dbff17c,Valencia,270,3.0,1.0,0.0,41.0,4.0,939.0,Valencia
-,José Luis Gayà,es ESP,"DF,MF",1,1,0.0,0.0,2013-2014,b05e2dbd,Valencia,90,1.0,0.0,0.0,41.0,1.0,955.0,Valencia
-,Jonathan Viera,es ESP,"FW,MF",1,1,0.0,0.0,2013-2014,fa708aa,Valencia,77,0.9,0.0,0.0,41.0,1.0,947.0,Valencia
-,Portu,es ESP,"FW,MF",1,1,0.0,0.0,2013-2014,1bda5842,Valencia,68,0.8,1.0,0.0,41.0,1.0,,Valencia
-,Vinícius Araújo,br BRA,FW,6,0,1.0,0.0,2013-2014,5d6b9376,Valencia,105,1.2,0.0,0.0,41.0,2.0,956.0,Valencia
-,﻿Diego Alves,br BRA,GK,37,37,0.0,0.0,2014-2015,12421a7c,Valencia,"3,311",36.8,4.0,0.0,41.0,2.0,942.0,Valencia
-,Nicolás Otamendi,ar ARG,DF,35,35,0.0,6.0,2014-2015,0d267745,Valencia,"3,098",34.4,9.0,1.0,41.0,5.0,957.0,Valencia
-,Javi Fuego,es ESP,MF,35,34,1.0,3.0,2014-2015,2e8fc160,Valencia,"2,998",33.3,9.0,1.0,41.0,1.0,949.0,Valencia
-,Daniel Parejo,es ESP,MF,34,33,5.0,12.0,2014-2015,7460ca0d,Valencia,"2,917",32.4,14.0,1.0,41.0,1.0,75.0,Valencia
-,Shkodran Mustafi,de GER,DF,33,33,0.0,4.0,2014-2015,3f2d59fe,Valencia,"2,910",32.3,8.0,0.0,41.0,13.0,958.0,Valencia
-,José Luis Gayà,es ESP,"DF,MF",35,32,6.0,1.0,2014-2015,b05e2dbd,Valencia,"2,918",32.4,10.0,0.0,41.0,1.0,955.0,Valencia
-,Antonio Barragán,es ESP,"DF,MF",34,32,3.0,1.0,2014-2015,487d9b09,Valencia,"2,845",31.6,8.0,0.0,41.0,1.0,,Valencia
-,André Gomes,pt POR,MF,33,31,1.0,4.0,2014-2015,1961b2aa,Valencia,"2,539",28.2,9.0,1.0,41.0,3.0,959.0,Valencia
-,Paco Alcácer,es ESP,FW,32,26,5.0,11.0,2014-2015,7a9d95a,Valencia,"2,155",23.9,2.0,1.0,41.0,1.0,944.0,Valencia
-,Pablo Piatti,ar ARG,"FW,MF",28,26,6.0,7.0,2014-2015,48e89655,Valencia,"1,879",20.9,2.0,0.0,41.0,5.0,941.0,Valencia
-,Rodrigo,es ESP,"FW,MF",31,24,5.0,3.0,2014-2015,1fb1c435,Valencia,"2,072",23.0,6.0,2.0,41.0,1.0,960.0,Valencia
-,Sofiane Feghouli,dz ALG,"FW,MF",33,20,6.0,6.0,2014-2015,691f64f5,Valencia,"1,928",21.4,5.0,0.0,41.0,37.0,938.0,Valencia
-,Álvaro Negredo,es ESP,FW,30,14,4.0,5.0,2014-2015,63b0ca6b,Valencia,"1,549",17.2,4.0,0.0,41.0,1.0,961.0,Valencia
-,Enzo Pérez,ar ARG,MF,14,12,1.0,0.0,2014-2015,6d27cfc2,Valencia,"1,033",11.5,7.0,0.0,41.0,5.0,962.0,Valencia
-,Lucas Orbán,ar ARG,DF,22,8,1.0,1.0,2014-2015,8ff1d70e,Valencia,910,10.1,4.0,0.0,41.0,5.0,963.0,Valencia
-,Rodrigo De Paul,ar ARG,"FW,MF",25,6,4.0,1.0,2014-2015,162efffd,Valencia,743,8.3,3.0,1.0,41.0,5.0,964.0,Valencia
-,Rúben Vezo,pt POR,DF,7,6,0.0,0.0,2014-2015,c67cd65c,Valencia,556,6.2,0.0,0.0,41.0,3.0,954.0,Valencia
-,João Cancelo,pt POR,"DF,MF",10,5,0.0,0.0,2014-2015,bd6351cd,Valencia,525,5.8,2.0,1.0,41.0,3.0,965.0,Valencia
-,Carles Gil,es ESP,"FW,MF",8,2,0.0,1.0,2014-2015,11c30a46,Valencia,276,3.1,0.0,0.0,41.0,1.0,,Valencia
-,Filipe Augusto,br BRA,MF,6,1,0.0,0.0,2014-2015,0e34de55,Valencia,149,1.7,2.0,0.0,41.0,2.0,966.0,Valencia
-,Yoel,es ESP,GK,2,1,0.0,0.0,2014-2015,61bb7498,Valencia,109,1.2,0.0,0.0,41.0,1.0,,Valencia
-,Robert Ibáñez,es ESP,"FW,MF",4,0,0.0,0.0,2014-2015,c7429db3,Valencia,46,0.5,0.0,0.0,41.0,1.0,967.0,Valencia
-,Bruno Zuculini,ar ARG,MF,1,0,0.0,0.0,2014-2015,17cddb4d,Valencia,45,0.5,0.0,0.0,41.0,5.0,968.0,Valencia
-,Tropi,es ESP,MF,1,0,0.0,0.0,2014-2015,50f1ed37,Valencia,2,0.0,0.0,0.0,41.0,1.0,969.0,Valencia
-,Salva Ruiz,es ESP,DF,0,0,,,2014-2015,36f9794,Valencia,,,,,41.0,1.0,,Valencia
-,﻿Daniel Parejo,es ESP,MF,33,30,5.0,8.0,2015-2016,7460ca0d,Valencia,"2,734",30.4,8.0,0.0,41.0,1.0,75.0,Valencia
-,Shkodran Mustafi,de GER,DF,30,30,0.0,2.0,2015-2016,3f2d59fe,Valencia,"2,681",29.8,12.0,0.0,41.0,13.0,958.0,Valencia
-,André Gomes,pt POR,MF,30,27,3.0,2.0,2015-2016,1961b2aa,Valencia,"2,375",26.4,10.0,0.0,41.0,3.0,959.0,Valencia
-,Paco Alcácer,es ESP,FW,34,25,6.0,13.0,2015-2016,7a9d95a,Valencia,"2,419",26.9,2.0,0.0,41.0,1.0,944.0,Valencia
-,João Cancelo,pt POR,"DF,FW",28,25,4.0,1.0,2015-2016,bd6351cd,Valencia,"2,118",23.5,7.0,1.0,41.0,3.0,965.0,Valencia
-,Javi Fuego,es ESP,MF,26,23,0.0,0.0,2015-2016,2e8fc160,Valencia,"2,044",22.7,12.0,1.0,41.0,1.0,949.0,Valencia
-,Aymen Abdennour,tn TUN,DF,22,22,0.0,0.0,2015-2016,2f798b41,Valencia,"1,851",20.6,4.0,0.0,41.0,46.0,970.0,Valencia
-,Antonio Barragán,es ESP,DF,24,19,0.0,0.0,2015-2016,487d9b09,Valencia,"1,658",18.4,7.0,1.0,41.0,1.0,,Valencia
-,Santi Mina,es ESP,"FW,MF",27,19,1.0,4.0,2015-2016,0b90bb97,Valencia,"1,652",18.4,2.0,0.0,41.0,1.0,,Valencia
-,Jaume Doménech,es ESP,GK,17,17,0.0,0.0,2015-2016,c9cb972b,Valencia,"1,530",17.0,0.0,0.0,41.0,1.0,971.0,Valencia
-,Aderlan Santos,br BRA,DF,17,17,0.0,0.0,2015-2016,847e4cd8,Valencia,"1,519",16.9,2.0,1.0,41.0,2.0,972.0,Valencia
-,Danilo Barbosa,br BRA,MF,19,16,0.0,0.0,2015-2016,0557ff4f,Valencia,"1,362",15.1,4.0,0.0,41.0,2.0,973.0,Valencia
-,Enzo Pérez,ar ARG,MF,20,16,0.0,0.0,2015-2016,6d27cfc2,Valencia,"1,258",14.0,10.0,0.0,41.0,5.0,962.0,Valencia
-,José Luis Gayà,es ESP,DF,20,15,0.0,0.0,2015-2016,b05e2dbd,Valencia,"1,442",16.0,7.0,1.0,41.0,1.0,955.0,Valencia
-,Rodrigo,es ESP,"FW,MF",25,15,3.0,2.0,2015-2016,1fb1c435,Valencia,"1,365",15.2,1.0,1.0,41.0,1.0,960.0,Valencia
-,Guilherme Siqueira,br BRA,DF,14,14,0.0,0.0,2015-2016,3770a135,Valencia,"1,093",12.1,1.0,0.0,41.0,2.0,974.0,Valencia
-,Sofiane Feghouli,dz ALG,"FW,MF",21,13,1.0,1.0,2015-2016,691f64f5,Valencia,"1,262",14.0,3.0,0.0,41.0,37.0,938.0,Valencia
-,Diego Alves,br BRA,GK,13,13,0.0,0.0,2015-2016,12421a7c,Valencia,"1,170",13.0,1.0,0.0,41.0,2.0,942.0,Valencia
-,Álvaro Negredo,es ESP,FW,25,12,1.0,5.0,2015-2016,63b0ca6b,Valencia,"1,157",12.9,0.0,0.0,41.0,1.0,961.0,Valencia
-,Rúben Vezo,pt POR,DF,15,10,0.0,0.0,2015-2016,c67cd65c,Valencia,"1,087",12.1,2.0,0.0,41.0,3.0,954.0,Valencia
-,Pablo Piatti,ar ARG,"FW,MF",21,9,0.0,0.0,2015-2016,48e89655,Valencia,793,8.8,3.0,0.0,41.0,5.0,941.0,Valencia
-,Mathew Ryan,au AUS,GK,8,8,0.0,0.0,2015-2016,4535e4bb,Valencia,720,8.0,0.0,0.0,41.0,42.0,,Valencia
-,Rodrigo De Paul,ar ARG,"MF,FW",9,6,0.0,0.0,2015-2016,162efffd,Valencia,521,5.8,3.0,0.0,41.0,5.0,964.0,Valencia
-,Lucas Orbán,ar ARG,DF,7,6,0.0,0.0,2015-2016,8ff1d70e,Valencia,521,5.8,4.0,1.0,41.0,5.0,963.0,Valencia
-,Denis Cheryshev,ru RUS,"MF,FW",7,6,0.0,3.0,2015-2016,0ac94a23,Valencia,478,5.3,2.0,0.0,41.0,23.0,137.0,Valencia
-,Zakaria Bakkali,be BEL,"MF,FW",16,4,3.0,1.0,2015-2016,c3efd7f,Valencia,566,6.3,1.0,0.0,41.0,27.0,,Valencia
-,Wilfried Zahibo,cf CTA,MF,2,2,0.0,0.0,2015-2016,784ec3de,Valencia,134,1.5,1.0,0.0,41.0,73.0,975.0,Valencia
-,Sito,es ESP,MF,1,0,0.0,0.0,2015-2016,59504479,Valencia,52,0.6,0.0,0.0,41.0,1.0,976.0,Valencia
-,Fran Villalba,es ESP,MF,1,0,0.0,0.0,2015-2016,0d2603b5,Valencia,4,0.0,1.0,0.0,41.0,1.0,977.0,Valencia
-,Tropi,es ESP,MF,1,0,0.0,0.0,2015-2016,50f1ed37,Valencia,3,0.0,0.0,0.0,41.0,1.0,969.0,Valencia
-,Diego Caballo Alonso,es ESP,DF,0,0,,,2015-2016,2f4848f5,Valencia,,,,,41.0,1.0,,Valencia
-,Ibrahim Diallo,ml MLI,DF,0,0,,,2015-2016,26cab774,Valencia,,,,,41.0,12.0,978.0,Valencia
-,Nacho Gil,es ESP,MF,0,0,,,2015-2016,87ec1a2a,Valencia,,,,,41.0,1.0,979.0,Valencia
-,Toni Lato,es ESP,DF,0,0,,,2015-2016,8e088e04,Valencia,,,,,41.0,1.0,980.0,Valencia
-,Rafa Mir,es ESP,FW,0,0,,,2015-2016,bbf5c11b,Valencia,,,,,41.0,1.0,981.0,Valencia
-,Carlos Soler,es ESP,MF,0,0,,,2015-2016,fed17f5a,Valencia,,,,,41.0,1.0,982.0,Valencia
-,Yoel,es ESP,GK,0,0,,,2015-2016,61bb7498,Valencia,,,,,41.0,1.0,,Valencia
-,﻿Daniel Parejo,es ESP,MF,36,36,8.0,5.0,2016-2017,7460ca0d,Valencia,"3,192",35.5,12.0,0.0,41.0,1.0,75.0,Valencia
-,Diego Alves,br BRA,GK,33,33,0.0,0.0,2016-2017,12421a7c,Valencia,"2,970",33.0,4.0,0.0,41.0,2.0,942.0,Valencia
-,Eliaquim Mangala,fr FRA,DF,30,30,0.0,2.0,2016-2017,f520049f,Valencia,"2,644",29.4,11.0,1.0,41.0,4.0,983.0,Valencia
-,João Cancelo,pt POR,"DF,MF",35,27,4.0,1.0,2016-2017,bd6351cd,Valencia,"2,428",27.0,6.0,1.0,41.0,3.0,965.0,Valencia
-,Ezequiel Garay,ar ARG,DF,27,27,0.0,4.0,2016-2017,c3fb1be,Valencia,"2,338",26.0,7.0,0.0,41.0,5.0,84.0,Valencia
-,Martín Montoya,es ESP,DF,29,26,1.0,2.0,2016-2017,5cec2487,Valencia,"2,219",24.7,7.0,0.0,41.0,1.0,984.0,Valencia
-,Enzo Pérez,ar ARG,MF,27,26,1.0,0.0,2016-2017,6d27cfc2,Valencia,"2,190",24.3,14.0,1.0,41.0,5.0,962.0,Valencia
-,José Luis Gayà,es ESP,DF,27,24,2.0,1.0,2016-2017,b05e2dbd,Valencia,"2,089",23.2,4.0,0.0,41.0,1.0,955.0,Valencia
-,Munir El Haddadi,ma MAR,"FW,MF",33,22,3.0,6.0,2016-2017,8696bc90,Valencia,"2,031",22.6,5.0,1.0,41.0,26.0,985.0,Valencia
-,Nani,pt POR,"MF,FW",25,22,8.0,5.0,2016-2017,15e9c7e6,Valencia,"1,867",20.7,6.0,0.0,41.0,3.0,986.0,Valencia
-,Carlos Soler,es ESP,MF,23,19,1.0,3.0,2016-2017,fed17f5a,Valencia,"1,723",19.1,4.0,1.0,41.0,1.0,982.0,Valencia
-,Mario Suárez,es ESP,MF,21,17,0.0,3.0,2016-2017,7106f0a0,Valencia,"1,496",16.6,3.0,0.0,41.0,1.0,,Valencia
-,Rodrigo,es ESP,"FW,MF",19,17,3.0,5.0,2016-2017,1fb1c435,Valencia,"1,387",15.4,1.0,0.0,41.0,1.0,960.0,Valencia
-,Simone Zaza,it ITA,FW,20,15,1.0,6.0,2016-2017,9592289a,Valencia,"1,377",15.3,7.0,0.0,41.0,9.0,987.0,Valencia
-,Santi Mina,es ESP,"FW,MF",29,13,2.0,6.0,2016-2017,0b90bb97,Valencia,"1,410",15.7,2.0,0.0,41.0,1.0,,Valencia
-,Fabián Orellana,cl CHI,"MF,FW",16,13,1.0,1.0,2016-2017,c90977db,Valencia,"1,137",12.6,4.0,1.0,41.0,31.0,,Valencia
-,Aderlan Santos,br BRA,DF,12,11,0.0,0.0,2016-2017,847e4cd8,Valencia,"1,000",11.1,1.0,0.0,41.0,2.0,972.0,Valencia
-,Álvaro Medrán,es ESP,MF,16,10,0.0,2.0,2016-2017,31223bcf,Valencia,950,10.6,3.0,0.0,41.0,1.0,126.0,Valencia
-,Aymen Abdennour,tn TUN,DF,13,9,0.0,0.0,2016-2017,2f798b41,Valencia,879,9.8,4.0,0.0,41.0,46.0,970.0,Valencia
-,Guilherme Siqueira,br BRA,"DF,MF",10,7,1.0,0.0,2016-2017,3770a135,Valencia,540,6.0,2.0,0.0,41.0,2.0,974.0,Valencia
-,Toni Lato,es ESP,DF,8,4,1.0,0.0,2016-2017,8e088e04,Valencia,483,5.4,2.0,0.0,41.0,1.0,980.0,Valencia
-,Jaume Doménech,es ESP,GK,3,3,0.0,0.0,2016-2017,c9cb972b,Valencia,270,3.0,0.0,0.0,41.0,1.0,971.0,Valencia
-,Mathew Ryan,au AUS,GK,2,2,0.0,0.0,2016-2017,4535e4bb,Valencia,180,2.0,0.0,0.0,41.0,42.0,,Valencia
-,Federico Cartabia,ar ARG,"MF,FW",4,2,0.0,0.0,2016-2017,8e6bebf,Valencia,152,1.7,0.0,0.0,41.0,5.0,,Valencia
-,Zakaria Bakkali,be BEL,FW,18,1,0.0,1.0,2016-2017,c3efd7f,Valencia,288,3.2,2.0,0.0,41.0,27.0,,Valencia
-,Paco Alcácer,es ESP,FW,1,1,0.0,0.0,2016-2017,7a9d95a,Valencia,90,1.0,0.0,0.0,41.0,1.0,944.0,Valencia
-,Rúben Vezo,pt POR,DF,1,1,1.0,0.0,2016-2017,c67cd65c,Valencia,45,0.5,0.0,0.0,41.0,3.0,954.0,Valencia
-,Shkodran Mustafi,de GER,DF,1,0,0.0,0.0,2016-2017,3f2d59fe,Valencia,45,0.5,0.0,0.0,41.0,13.0,958.0,Valencia
-,Rafa Mir,es ESP,FW,2,0,0.0,0.0,2016-2017,bbf5c11b,Valencia,7,0.1,0.0,0.0,41.0,1.0,981.0,Valencia
-,Nacho Gil,es ESP,MF,2,0,0.0,0.0,2016-2017,87ec1a2a,Valencia,4,0.0,0.0,0.0,41.0,1.0,979.0,Valencia
-,Sito,es ESP,MF,1,0,0.0,0.0,2016-2017,59504479,Valencia,3,0.0,0.0,0.0,41.0,1.0,976.0,Valencia
-,Vinícius Araújo,br BRA,FW,0,0,,,2016-2017,5d6b9376,Valencia,,,,,41.0,2.0,956.0,Valencia
-,Robert Ibáñez,es ESP,"FW,MF",0,0,,,2016-2017,c7429db3,Valencia,,,,,41.0,1.0,967.0,Valencia
-,Eugeni Valderrama,es ESP,MF,0,0,,,2016-2017,75b4071,Valencia,,,,,41.0,1.0,988.0,Valencia
-,Nacho Vidal,es ESP,DF,0,0,,,2016-2017,3a9c4b7b,Valencia,,,,,41.0,1.0,989.0,Valencia
-,﻿Daniel Parejo,es ESP,MF,34,34,7.0,7.0,2017-2018,7460ca0d,Valencia,"3,001",33.3,15.0,1.0,41.0,1.0,75.0,Valencia
-,Neto,br BRA,GK,33,33,0.0,0.0,2017-2018,9dc785c,Valencia,"2,970",33.0,2.0,0.0,41.0,2.0,990.0,Valencia
-,José Luis Gayà,es ESP,DF,34,33,3.0,0.0,2017-2018,b05e2dbd,Valencia,"2,916",32.4,11.0,0.0,41.0,1.0,955.0,Valencia
-,Rodrigo,es ESP,FW,37,31,4.0,16.0,2017-2018,1fb1c435,Valencia,"2,684",29.8,4.0,0.0,41.0,1.0,960.0,Valencia
-,Geoffrey Kondogbia,cf CTA,MF,31,30,4.0,4.0,2017-2018,cce181df,Valencia,"2,614",29.0,12.0,1.0,41.0,73.0,991.0,Valencia
-,Gabriel Paulista,br BRA,DF,30,29,0.0,0.0,2017-2018,b7ca5c51,Valencia,"2,584",28.7,6.0,1.0,41.0,2.0,992.0,Valencia
-,Gonçalo Guedes,pt POR,MF,33,27,9.0,5.0,2017-2018,6bc67d7,Valencia,"2,439",27.1,2.0,0.0,41.0,3.0,993.0,Valencia
-,Carlos Soler,es ESP,MF,33,27,4.0,1.0,2017-2018,fed17f5a,Valencia,"2,365",26.3,4.0,0.0,41.0,1.0,982.0,Valencia
-,Martín Montoya,es ESP,DF,25,24,4.0,0.0,2017-2018,5cec2487,Valencia,"2,152",23.9,7.0,0.0,41.0,1.0,984.0,Valencia
-,Simone Zaza,it ITA,FW,33,23,1.0,13.0,2017-2018,9592289a,Valencia,"2,077",23.1,9.0,1.0,41.0,9.0,987.0,Valencia
-,Ezequiel Garay,ar ARG,DF,24,23,0.0,0.0,2017-2018,c3fb1be,Valencia,"2,028",22.5,5.0,0.0,41.0,5.0,84.0,Valencia
-,Rúben Vezo,pt POR,DF,19,17,0.0,0.0,2017-2018,c67cd65c,Valencia,"1,555",17.3,2.0,1.0,41.0,3.0,954.0,Valencia
-,Santi Mina,es ESP,FW,32,17,2.0,12.0,2017-2018,0b90bb97,Valencia,"1,554",17.3,4.0,0.0,41.0,1.0,,Valencia
-,Jeison Murillo,co COL,DF,17,15,0.0,0.0,2017-2018,b233e8e4,Valencia,"1,374",15.3,4.0,0.0,41.0,19.0,,Valencia
-,Andreas Pereira,br BRA,MF,23,12,3.0,1.0,2017-2018,6639e500,Valencia,"1,078",12.0,5.0,0.0,41.0,2.0,994.0,Valencia
-,Toni Lato,es ESP,"DF,MF",16,9,1.0,0.0,2017-2018,8e088e04,Valencia,797,8.9,4.0,0.0,41.0,1.0,980.0,Valencia
-,Francis Coquelin,fr FRA,"MF,DF",9,7,0.0,1.0,2017-2018,6951bf8,Valencia,657,7.3,2.0,0.0,41.0,4.0,995.0,Valencia
-,Nemanja Maksimović,rs SRB,MF,15,6,0.0,0.0,2017-2018,00b28772,Valencia,557,6.2,1.0,0.0,41.0,28.0,996.0,Valencia
-,Luciano Vietto,ar ARG,FW,14,5,1.0,2.0,2017-2018,2513a588,Valencia,528,5.9,1.0,0.0,41.0,5.0,997.0,Valencia
-,Jaume Doménech,es ESP,GK,5,5,0.0,0.0,2017-2018,c9cb972b,Valencia,450,5.0,2.0,0.0,41.0,1.0,971.0,Valencia
-,Nacho Vidal,es ESP,DF,7,5,0.0,1.0,2017-2018,3a9c4b7b,Valencia,447,5.0,1.0,0.0,41.0,1.0,989.0,Valencia
-,Ferrán Torres,es ESP,MF,13,2,1.0,0.0,2017-2018,9e1035f8,Valencia,311,3.5,0.0,0.0,41.0,1.0,998.0,Valencia
-,Nacho Gil,es ESP,MF,6,2,1.0,0.0,2017-2018,87ec1a2a,Valencia,229,2.5,0.0,0.0,41.0,1.0,979.0,Valencia
-,João Cancelo,pt POR,MF,1,1,0.0,0.0,2017-2018,bd6351cd,Valencia,90,1.0,0.0,0.0,41.0,3.0,965.0,Valencia
-,Álvaro Medrán,es ESP,MF,1,1,0.0,0.0,2017-2018,31223bcf,Valencia,72,0.8,0.0,0.0,41.0,1.0,126.0,Valencia
-,Robert Ibáñez,es ESP,"FW,MF",0,0,,,2017-2018,c7429db3,Valencia,,,,,41.0,1.0,967.0,Valencia
-,Javier Jiménez García,es ESP,DF,0,0,,,2017-2018,f30d7505,Valencia,,,,,41.0,1.0,999.0,Valencia
-,Fabián Orellana,cl CHI,"FW,MF",0,0,,,2017-2018,c90977db,Valencia,,,,,41.0,31.0,,Valencia
-,Gonzalo Villar,es ESP,MF,0,0,,,2017-2018,bdc74a8f,Valencia,,,,,41.0,1.0,1000.0,Valencia
-,﻿José Luis Gayà,es ESP,DF,35,35,1.0,1.0,2018-2019,b05e2dbd,Valencia,"3,137",34.9,10.0,0.0,41.0,1.0,955.0,Valencia
-,Daniel Parejo,es ESP,MF,36,35,7.0,9.0,2018-2019,7460ca0d,Valencia,"3,061",34.0,5.0,1.0,41.0,1.0,75.0,Valencia
-,Neto,br BRA,GK,34,34,0.0,0.0,2018-2019,9dc785c,Valencia,"3,060",34.0,2.0,0.0,41.0,2.0,990.0,Valencia
-,Gabriel Paulista,br BRA,DF,30,30,1.0,0.0,2018-2019,b7ca5c51,Valencia,"2,623",29.1,6.0,0.0,41.0,2.0,992.0,Valencia
-,Rodrigo,es ESP,FW,33,29,6.0,8.0,2018-2019,1fb1c435,Valencia,"2,528",28.1,5.0,1.0,41.0,1.0,960.0,Valencia
-,Carlos Soler,es ESP,MF,31,27,6.0,2.0,2018-2019,fed17f5a,Valencia,"2,460",27.3,9.0,0.0,41.0,1.0,982.0,Valencia
-,Daniel Wass,dk DEN,"DF,MF",32,26,3.0,1.0,2018-2019,d83bbc54,Valencia,"2,354",26.2,4.0,0.0,41.0,7.0,,Valencia
-,Ezequiel Garay,ar ARG,DF,24,24,0.0,2.0,2018-2019,c3fb1be,Valencia,"2,136",23.7,4.0,0.0,41.0,5.0,84.0,Valencia
-,Santi Mina,es ESP,FW,30,23,5.0,7.0,2018-2019,0b90bb97,Valencia,"1,852",20.6,4.0,0.0,41.0,1.0,,Valencia
-,Cristiano Piccini,it ITA,DF,23,21,0.0,1.0,2018-2019,32c0491f,Valencia,"1,868",20.8,3.0,0.0,41.0,9.0,1001.0,Valencia
-,Francis Coquelin,fr FRA,MF,26,20,1.0,0.0,2018-2019,6951bf8,Valencia,"1,761",19.6,5.0,0.0,41.0,4.0,995.0,Valencia
-,Denis Cheryshev,ru RUS,MF,27,19,2.0,2.0,2018-2019,0ac94a23,Valencia,"1,706",19.0,2.0,0.0,41.0,23.0,137.0,Valencia
-,Gonçalo Guedes,pt POR,"MF,FW",25,18,3.0,5.0,2018-2019,6bc67d7,Valencia,"1,465",16.3,2.0,0.0,41.0,3.0,993.0,Valencia
-,Kévin Gameiro,fr FRA,FW,33,16,1.0,6.0,2018-2019,42276181,Valencia,"1,612",17.9,1.0,0.0,41.0,4.0,1002.0,Valencia
-,Mouctar Diakhaby,gn GUI,DF,22,16,0.0,2.0,2018-2019,d2110326,Valencia,"1,580",17.6,9.0,0.0,41.0,74.0,1003.0,Valencia
-,Geoffrey Kondogbia,cf CTA,MF,19,14,1.0,1.0,2018-2019,cce181df,Valencia,"1,245",13.8,1.0,0.0,41.0,73.0,991.0,Valencia
-,Ferrán Torres,es ESP,MF,24,8,1.0,2.0,2018-2019,9e1035f8,Valencia,850,9.4,5.0,0.0,41.0,1.0,998.0,Valencia
-,Facundo Roncaglia,ar ARG,DF,7,7,0.0,0.0,2018-2019,51e3954c,Valencia,601,6.7,5.0,1.0,41.0,5.0,,Valencia
-,Michy Batshuayi,be BEL,FW,15,4,0.0,1.0,2018-2019,2973d8ff,Valencia,527,5.9,3.0,0.0,41.0,27.0,1004.0,Valencia
-,Jaume Doménech,es ESP,GK,4,4,0.0,0.0,2018-2019,c9cb972b,Valencia,360,4.0,0.0,0.0,41.0,1.0,971.0,Valencia
-,Toni Lato,es ESP,DF,4,3,0.0,0.0,2018-2019,8e088e04,Valencia,270,3.0,1.0,0.0,41.0,1.0,980.0,Valencia
-,Rúben Vezo,pt POR,DF,4,2,0.0,0.0,2018-2019,c67cd65c,Valencia,196,2.2,2.0,0.0,41.0,3.0,954.0,Valencia
-,Rubén Sobrino,es ESP,"FW,MF",4,2,0.0,0.0,2018-2019,19b776e9,Valencia,193,2.1,1.0,0.0,41.0,1.0,1005.0,Valencia
-,Jeison Murillo,co COL,DF,1,1,0.0,0.0,2018-2019,b233e8e4,Valencia,90,1.0,0.0,0.0,41.0,19.0,,Valencia
-,Lee Kangin,kr KOR,"MF,FW",3,0,0.0,0.0,2018-2019,8455ad90,Valencia,24,0.3,1.0,0.0,41.0,30.0,1006.0,Valencia
-,Cristian,es ESP,GK,0,0,,,2018-2019,9ad74b4d,Valencia,,,,,41.0,1.0,1007.0,Valencia
-,Fran Navarro,es ESP,FW,0,0,,,2018-2019,02a5618e,Valencia,,,,,41.0,1.0,1008.0,Valencia
-,Uroš Račić,rs SRB,MF,0,0,,,2018-2019,faed84db,Valencia,,,,,41.0,28.0,1009.0,Valencia
-,Sito,es ESP,MF,0,0,,,2018-2019,59504479,Valencia,,,,,41.0,1.0,976.0,Valencia
-,﻿Daniel Parejo,es ESP,MF,35,35,3.0,8.0,2019-2020,7460ca0d,Valencia,"3,024",33.6,6.0,1.0,41.0,1.0,75.0,Valencia
-,Gabriel Paulista,br BRA,DF,33,31,1.0,1.0,2019-2020,b7ca5c51,Valencia,"2,801",31.1,5.0,0.0,41.0,2.0,992.0,Valencia
-,Daniel Wass,dk DEN,"DF,MF",35,30,6.0,1.0,2019-2020,d83bbc54,Valencia,"2,733",30.4,7.0,0.0,41.0,7.0,,Valencia
-,Ferrán Torres,es ESP,MF,34,26,5.0,4.0,2019-2020,9e1035f8,Valencia,"2,251",25.0,5.0,0.0,41.0,1.0,998.0,Valencia
-,Maxi Gómez,uy URU,FW,33,25,2.0,10.0,2019-2020,4c2e9442,Valencia,"2,143",23.8,5.0,0.0,41.0,8.0,,Valencia
-,Jasper Cillessen,nl NED,GK,24,24,1.0,0.0,2019-2020,04ac8285,Valencia,"2,096",23.3,1.0,0.0,41.0,11.0,1010.0,Valencia
-,Carlos Soler,es ESP,MF,28,24,0.0,2.0,2019-2020,fed17f5a,Valencia,"2,066",23.0,4.0,0.0,41.0,1.0,982.0,Valencia
-,José Luis Gayà,es ESP,DF,24,23,1.0,0.0,2019-2020,b05e2dbd,Valencia,"1,988",22.1,5.0,0.0,41.0,1.0,955.0,Valencia
-,Rodrigo,es ESP,FW,27,23,7.0,4.0,2019-2020,1fb1c435,Valencia,"1,880",20.9,2.0,1.0,41.0,1.0,960.0,Valencia
-,Francis Coquelin,fr FRA,MF,26,21,0.0,0.0,2019-2020,6951bf8,Valencia,"1,905",21.2,8.0,1.0,41.0,4.0,995.0,Valencia
-,Geoffrey Kondogbia,cf CTA,MF,27,21,1.0,1.0,2019-2020,cce181df,Valencia,"1,807",20.1,5.0,0.0,41.0,73.0,991.0,Valencia
-,Kévin Gameiro,fr FRA,FW,29,17,2.0,6.0,2019-2020,42276181,Valencia,"1,581",17.6,0.0,0.0,41.0,4.0,1002.0,Valencia
-,Ezequiel Garay,ar ARG,DF,17,17,0.0,0.0,2019-2020,c3fb1be,Valencia,"1,437",16.0,2.0,0.0,41.0,5.0,84.0,Valencia
-,Mouctar Diakhaby,gn GUI,DF,21,15,0.0,0.0,2019-2020,d2110326,Valencia,"1,444",16.0,5.0,0.0,41.0,74.0,1003.0,Valencia
-,Jaume Costa,es ESP,DF,19,15,1.0,0.0,2019-2020,808d48f3,Valencia,"1,389",15.4,2.0,1.0,41.0,1.0,1011.0,Valencia
-,Jaume Doménech,es ESP,GK,15,14,0.0,0.0,2019-2020,c9cb972b,Valencia,"1,324",14.7,1.0,0.0,41.0,1.0,971.0,Valencia
-,Gonçalo Guedes,pt POR,"MF,FW",21,14,2.0,2.0,2019-2020,6bc67d7,Valencia,"1,266",14.1,3.0,0.0,41.0,3.0,993.0,Valencia
-,Denis Cheryshev,ru RUS,MF,24,9,2.0,1.0,2019-2020,0ac94a23,Valencia,926,10.3,5.0,0.0,41.0,23.0,137.0,Valencia
-,Alessandro Florenzi,it ITA,DF,12,9,0.0,0.0,2019-2020,288d4b3,Valencia,752,8.4,1.0,1.0,41.0,9.0,1012.0,Valencia
-,Eliaquim Mangala,fr FRA,DF,8,8,0.0,0.0,2019-2020,f520049f,Valencia,673,7.5,3.0,1.0,41.0,4.0,983.0,Valencia
-,Hugo Guillamón,es ESP,DF,6,5,0.0,0.0,2019-2020,f7c12fbf,Valencia,495,5.5,3.0,0.0,41.0,1.0,1013.0,Valencia
-,Lee Kangin,kr KOR,"MF,FW",17,3,0.0,2.0,2019-2020,8455ad90,Valencia,454,5.0,1.0,2.0,41.0,30.0,1006.0,Valencia
-,Manu Vallejo,es ESP,"MF,FW",11,3,0.0,2.0,2019-2020,0bc4e720,Valencia,418,4.6,0.0,0.0,41.0,1.0,1014.0,Valencia
-,Thierry Correia,pt POR,DF,4,3,0.0,0.0,2019-2020,c78b352d,Valencia,259,2.9,0.0,0.0,41.0,3.0,1015.0,Valencia
-,Rubén Sobrino,es ESP,"FW,MF",13,1,0.0,1.0,2019-2020,19b776e9,Valencia,170,1.9,0.0,0.0,41.0,1.0,1005.0,Valencia
-,Adrián Guerrero,es ESP,DF,2,1,0.0,0.0,2019-2020,58a3a572,Valencia,126,1.4,1.0,0.0,41.0,1.0,1016.0,Valencia
-,Cristiano Piccini,it ITA,DF,2,1,0.0,0.0,2019-2020,32c0491f,Valencia,75,0.8,0.0,0.0,41.0,9.0,1001.0,Valencia
-,Vicente Esquerdo,es ESP,"MF,FW",3,0,0.0,0.0,2019-2020,ced26057,Valencia,15,0.2,0.0,0.0,41.0,1.0,1017.0,Valencia
-,Cristian,es ESP,GK,0,0,,,2019-2020,9ad74b4d,Valencia,,,,,41.0,1.0,1007.0,Valencia
-,Pablo Gozalbez,es ESP,MF,0,0,,,2019-2020,f33b6ee6,Valencia,,,,,41.0,1.0,1018.0,Valencia
-,Javier Jiménez García,es ESP,DF,0,0,,,2019-2020,f30d7505,Valencia,,,,,41.0,1.0,999.0,Valencia
-,Koba Koindredi,fr FRA,MF,0,0,,,2019-2020,3a58d075,Valencia,,,,,41.0,4.0,1019.0,Valencia
-,﻿Daniel Wass,dk DEN,"MF,DF",35,35,1.0,4.0,2020-2021,d83bbc54,Valencia,"2,979",33.1,8.0,0.0,41.0,7.0,,Valencia
-,José Luis Gayà,es ESP,DF,33,32,7.0,1.0,2020-2021,b05e2dbd,Valencia,"2,846",31.6,6.0,0.0,41.0,1.0,955.0,Valencia
-,Carlos Soler,es ESP,MF,32,31,8.0,11.0,2020-2021,fed17f5a,Valencia,"2,735",30.4,7.0,0.0,41.0,1.0,982.0,Valencia
-,Gabriel Paulista,br BRA,DF,31,31,1.0,4.0,2020-2021,b7ca5c51,Valencia,"2,716",30.2,6.0,0.0,41.0,2.0,992.0,Valencia
-,Maxi Gómez,uy URU,FW,31,31,1.0,7.0,2020-2021,4c2e9442,Valencia,"2,689",29.9,7.0,1.0,41.0,8.0,,Valencia
-,Jaume Doménech,es ESP,GK,28,28,0.0,0.0,2020-2021,c9cb972b,Valencia,"2,520",28.0,1.0,0.0,41.0,1.0,971.0,Valencia
-,Gonçalo Guedes,pt POR,"MF,FW",31,27,5.0,5.0,2020-2021,6bc67d7,Valencia,"2,287",25.4,3.0,1.0,41.0,3.0,993.0,Valencia
-,Uroš Račić,rs SRB,MF,31,25,1.0,1.0,2020-2021,faed84db,Valencia,"2,187",24.3,6.0,0.0,41.0,28.0,1009.0,Valencia
-,Thierry Correia,pt POR,DF,29,25,1.0,1.0,2020-2021,c78b352d,Valencia,"2,137",23.7,6.0,1.0,41.0,3.0,1015.0,Valencia
-,Mouctar Diakhaby,gn GUI,DF,26,24,0.0,1.0,2020-2021,d2110326,Valencia,"2,079",23.1,4.0,1.0,41.0,74.0,1003.0,Valencia
-,Hugo Guillamón,es ESP,DF,25,21,0.0,1.0,2020-2021,f7c12fbf,Valencia,"1,988",22.1,8.0,0.0,41.0,1.0,1013.0,Valencia
-,Yunus Musah,us USA,MF,32,17,0.0,1.0,2020-2021,b51b1b9c,Valencia,"1,530",17.0,2.0,0.0,41.0,75.0,1020.0,Valencia
-,Lee Kangin,kr KOR,"FW,MF",24,15,4.0,0.0,2020-2021,8455ad90,Valencia,"1,262",14.0,1.0,0.0,41.0,30.0,1006.0,Valencia
-,Denis Cheryshev,ru RUS,MF,21,13,3.0,0.0,2020-2021,0ac94a23,Valencia,"1,101",12.2,3.0,0.0,41.0,23.0,137.0,Valencia
-,Kévin Gameiro,fr FRA,FW,27,10,1.0,4.0,2020-2021,42276181,Valencia,"1,077",12.0,0.0,0.0,41.0,4.0,1002.0,Valencia
-,Jasper Cillessen,nl NED,GK,10,10,0.0,0.0,2020-2021,04ac8285,Valencia,900,10.0,0.0,0.0,41.0,11.0,1010.0,Valencia
-,Manu Vallejo,es ESP,"FW,MF",30,9,0.0,5.0,2020-2021,0bc4e720,Valencia,950,10.6,2.0,0.0,41.0,1.0,1014.0,Valencia
-,Toni Lato,es ESP,DF,15,8,0.0,1.0,2020-2021,8e088e04,Valencia,728,8.1,3.0,0.0,41.0,1.0,980.0,Valencia
-,Alejandro Blanco,es ESP,MF,13,6,0.0,1.0,2020-2021,c4dce677,Valencia,580,6.4,1.0,0.0,41.0,1.0,1021.0,Valencia
-,Geoffrey Kondogbia,cf CTA,MF,5,5,0.0,0.0,2020-2021,cce181df,Valencia,440,4.9,1.0,0.0,41.0,73.0,991.0,Valencia
-,Jason,es ESP,"MF,DF",17,4,0.0,0.0,2020-2021,9038c2a1,Valencia,441,4.9,4.0,1.0,41.0,1.0,1022.0,Valencia
-,Eliaquim Mangala,fr FRA,DF,7,4,0.0,0.0,2020-2021,f520049f,Valencia,321,3.6,1.0,0.0,41.0,4.0,983.0,Valencia
-,Vicente Esquerdo,es ESP,MF,4,3,0.0,0.0,2020-2021,ced26057,Valencia,231,2.6,1.0,0.0,41.0,1.0,1017.0,Valencia
-,Francisco Reis Ferreira,pt POR,DF,3,2,0.0,0.0,2020-2021,4b3c863f,Valencia,181,2.0,0.0,0.0,41.0,3.0,1023.0,Valencia
-,Christian Oliva,uy URU,MF,9,1,2.0,0.0,2020-2021,d3b888e3,Valencia,198,2.2,0.0,0.0,41.0,8.0,1024.0,Valencia
-,Guillem Molina,es ESP,DF,2,1,0.0,0.0,2020-2021,0bbab654,Valencia,153,1.7,1.0,0.0,41.0,1.0,1025.0,Valencia
-,Patrick Cutrone,it ITA,FW,7,0,0.0,0.0,2020-2021,4fe8cda,Valencia,108,1.2,0.0,0.0,41.0,9.0,1026.0,Valencia
-,Cristiano Piccini,it ITA,DF,3,0,0.0,0.0,2020-2021,32c0491f,Valencia,67,0.7,0.0,0.0,41.0,9.0,1001.0,Valencia
-,Rubén Sobrino,es ESP,"MF,FW",5,0,0.0,0.0,2020-2021,19b776e9,Valencia,49,0.5,0.0,0.0,41.0,1.0,1005.0,Valencia
-,Koba Koindredi,fr FRA,MF,2,0,0.0,0.0,2020-2021,3a58d075,Valencia,15,0.2,0.0,0.0,41.0,4.0,1019.0,Valencia
-,Álex Centelles,es ESP,DF,0,0,,,2020-2021,852b7d,Valencia,,,,,41.0,1.0,1027.0,Valencia
-,Cristian,es ESP,GK,0,0,,,2020-2021,9ad74b4d,Valencia,,,,,41.0,1.0,1007.0,Valencia
-,Etxebarría,es ESP,GK,0,0,,,2020-2021,5c56ca54,Valencia,,,,,41.0,1.0,1028.0,Valencia
-,Jesus Vazquez,es ESP,DF,0,0,,,2020-2021,106c142c,Valencia,,,,,41.0,1.0,1029.0,Valencia
-,﻿Gonçalo Guedes,pt POR,"FW,MF",36,30,6.0,11.0,2021-2022,6bc67d7,Valencia,"2,606",29.0,3.0,0.0,41.0,3.0,993.0,Valencia
-,Carlos Soler,es ESP,MF,32,28,5.0,11.0,2021-2022,fed17f5a,Valencia,"2,474",27.5,4.0,0.0,41.0,1.0,982.0,Valencia
-,Omar Alderete,py PAR,DF,29,28,0.0,2.0,2021-2022,bb08bce9,Valencia,"2,403",26.7,15.0,0.0,41.0,43.0,1030.0,Valencia
-,Hugo Guillamón,es ESP,"MF,DF",31,28,0.0,1.0,2021-2022,f7c12fbf,Valencia,"2,361",26.2,11.0,2.0,41.0,1.0,1013.0,Valencia
-,Dimitri Foulquier,fr FRA,DF,29,25,1.0,0.0,2021-2022,45e17712,Valencia,"2,342",26.0,11.0,0.0,41.0,4.0,1031.0,Valencia
-,José Luis Gayà,es ESP,DF,24,22,4.0,2.0,2021-2022,b05e2dbd,Valencia,"1,871",20.8,8.0,2.0,41.0,1.0,955.0,Valencia
-,Hugo Duro,es ESP,"FW,MF",30,22,1.0,7.0,2021-2022,37e103f8,Valencia,"1,834",20.4,3.0,1.0,41.0,1.0,177.0,Valencia
-,Maxi Gómez,uy URU,FW,29,21,1.0,5.0,2021-2022,4c2e9442,Valencia,"1,956",21.7,7.0,1.0,41.0,8.0,,Valencia
-,Mouctar Diakhaby,gn GUI,DF,29,21,1.0,0.0,2021-2022,d2110326,Valencia,"1,948",21.6,11.0,0.0,41.0,74.0,1003.0,Valencia
-,Gabriel Paulista,br BRA,DF,19,19,1.0,2.0,2021-2022,b7ca5c51,Valencia,"1,592",17.7,2.0,0.0,41.0,2.0,992.0,Valencia
-,Daniel Wass,dk DEN,MF,19,19,1.0,1.0,2021-2022,d83bbc54,Valencia,"1,582",17.6,6.0,0.0,41.0,7.0,,Valencia
-,Giorgi Mamardashvili,ge GEO,GK,18,18,0.0,0.0,2021-2022,d4b73232,Valencia,"1,620",18.0,2.0,0.0,41.0,76.0,1032.0,Valencia
-,Thierry Correia,pt POR,DF,19,18,1.0,0.0,2021-2022,c78b352d,Valencia,"1,414",15.7,5.0,0.0,41.0,3.0,1015.0,Valencia
-,Jasper Cillessen,nl NED,GK,17,17,1.0,0.0,2021-2022,04ac8285,Valencia,"1,457",16.2,1.0,0.0,41.0,11.0,1010.0,Valencia
-,Yunus Musah,us USA,"MF,FW",29,13,0.0,1.0,2021-2022,b51b1b9c,Valencia,"1,259",14.0,5.0,0.0,41.0,75.0,1020.0,Valencia
-,Uroš Račić,rs SRB,MF,28,13,0.0,0.0,2021-2022,faed84db,Valencia,"1,206",13.4,3.0,1.0,41.0,28.0,1009.0,Valencia
-,Hélder Costa,ao ANG,"MF,FW",22,13,1.0,0.0,2021-2022,f13d02a6,Valencia,"1,118",12.4,3.0,0.0,41.0,48.0,,Valencia
-,Ilaix Moriba,gn GUI,MF,14,9,0.0,0.0,2021-2022,f4c69aa6,Valencia,818,9.1,9.0,1.0,41.0,74.0,1033.0,Valencia
-,Bryan,es ESP,"MF,FW",13,9,1.0,0.0,2021-2022,7b5ab7f2,Valencia,753,8.4,3.0,0.0,41.0,1.0,1034.0,Valencia
-,Maranhão,br BRA,"FW,MF",29,8,3.0,1.0,2021-2022,86d473,Valencia,973,10.8,3.0,0.0,41.0,2.0,1035.0,Valencia
-,Jesus Vazquez,es ESP,DF,15,8,0.0,0.0,2021-2022,106c142c,Valencia,813,9.0,0.0,0.0,41.0,1.0,1029.0,Valencia
-,Toni Lato,es ESP,DF,11,7,1.0,0.0,2021-2022,8e088e04,Valencia,590,6.6,5.0,0.0,41.0,1.0,980.0,Valencia
-,Denis Cheryshev,ru RUS,MF,17,5,1.0,0.0,2021-2022,0ac94a23,Valencia,563,6.3,1.0,0.0,41.0,23.0,137.0,Valencia
-,Eray Cömert,ch SUI,DF,8,5,0.0,0.0,2021-2022,15937e17,Valencia,408,4.5,2.0,0.0,41.0,39.0,,Valencia
-,Jaume Doménech,es ESP,GK,4,3,0.0,0.0,2021-2022,c9cb972b,Valencia,343,3.8,1.0,0.0,41.0,1.0,971.0,Valencia
-,Cristiano Piccini,it ITA,DF,6,3,0.0,1.0,2021-2022,32c0491f,Valencia,322,3.6,1.0,0.0,41.0,9.0,1001.0,Valencia
-,Cristhian Mosquera,co COL,DF,6,3,0.0,0.0,2021-2022,dc1ce4f5,Valencia,212,2.4,1.0,0.0,41.0,19.0,1037.0,Valencia
-,Koba Koindredi,fr FRA,MF,10,1,0.0,0.0,2021-2022,3a58d075,Valencia,181,2.0,1.0,0.0,41.0,4.0,1019.0,Valencia
-,Ruben Lendinez,es ESP,DF,4,1,0.0,0.0,2021-2022,755da865,Valencia,137,1.5,2.0,0.0,41.0,1.0,1038.0,Valencia
-,Jason,es ESP,"MF,DF",5,1,0.0,0.0,2021-2022,9038c2a1,Valencia,75,0.8,2.0,0.0,41.0,1.0,1022.0,Valencia
-,Manu Vallejo,es ESP,"FW,MF",9,0,0.0,0.0,2021-2022,0bc4e720,Valencia,98,1.1,3.0,0.0,41.0,1.0,1014.0,Valencia
-,Jesús Santiago,es ESP,MF,3,0,0.0,0.0,2021-2022,bc49fd34,Valencia,82,0.9,0.0,0.0,41.0,1.0,,Valencia
-,Mario Dominguez,es ESP,FW,2,0,0.0,0.0,2021-2022,d709cd5c,Valencia,25,0.3,0.0,0.0,41.0,1.0,1039.0,Valencia
-,Rubén Sobrino,es ESP,MF,1,0,0.0,0.0,2021-2022,19b776e9,Valencia,14,0.2,0.0,0.0,41.0,1.0,1005.0,Valencia
-,Pedro Alemañ,es ESP,MF,0,0,,,2021-2022,f0ac14b1,Valencia,,,,,41.0,1.0,1040.0,Valencia
-,Alejandro Blanco,es ESP,MF,0,0,,,2021-2022,c4dce677,Valencia,,,,,41.0,1.0,1021.0,Valencia
-,Alessandro Burlamaqui,pe PER,MF,0,0,,,2021-2022,2ae026d4,Valencia,,,,,41.0,57.0,1041.0,Valencia
-,Cristian,es ESP,GK,0,0,,,2021-2022,9ad74b4d,Valencia,,,,,41.0,1.0,1007.0,Valencia
-,Hugo González,es ESP,MF,0,0,,,2021-2022,2cfb6e88,Valencia,,,,,41.0,1.0,1042.0,Valencia
-,Javier Guerra,es ESP,MF,0,0,,,2021-2022,3828f130,Valencia,,,,,41.0,1.0,1043.0,Valencia
-,José Menargues ,es ESP,DF,0,0,,,2021-2022,f601ba27,Valencia,,,,,41.0,1.0,1044.0,Valencia
-,Diego Noguerol,es ESP,DF,0,0,,,2021-2022,c487901c,Valencia,,,,,41.0,1.0,1045.0,Valencia
-,Charlie Perez,es ESP,GK,0,0,,,2021-2022,7f638fc5,Valencia,,,,,41.0,1.0,1046.0,Valencia
-,Lassina Sangare,ci CIV,MF,0,0,,,2021-2022,4428c0fc,Valencia,,,,,41.0,35.0,1047.0,Valencia
-,César Tárrega,es ESP,DF,0,0,,,2021-2022,59c29820,Valencia,,,,,41.0,1.0,1048.0,Valencia
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Roberto Ayala,ar ARG,DF,31,31,0.0,1.0,2002-2003,/en/players/561d182e/Roberto-Ayala,561d182e,Valencia,"2,684",29.8,11.0,2.0,41,5.0,857,Valencia
+,Santiago Cañizares,es ESP,GK,31,31,0.0,0.0,2002-2003,/en/players/e104f31c/Santiago-Canizares,104f31c,Valencia,"2,667",29.6,2.0,1.0,41,1.0,858,Valencia
+,Rubén Baraja,es ESP,MF,35,30,4.0,5.0,2002-2003,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,"2,591",28.8,14.0,1.0,41,1.0,859,Valencia
+,Pablo Aimar,ar ARG,MF,31,29,2.0,8.0,2002-2003,/en/players/ab6c00d3/Pablo-Aimar,b6c00d3,Valencia,"2,333",25.9,7.0,1.0,41,5.0,860,Valencia
+,Mauricio Pellegrino,ar ARG,DF,28,26,0.0,1.0,2002-2003,/en/players/8b3d6528/Mauricio-Pellegrino,8b3d6528,Valencia,"2,204",24.5,6.0,0.0,41,5.0,861,Valencia
+,Francisco Rufete,es ESP,MF,28,26,2.0,3.0,2002-2003,/en/players/95aca6cd/Francisco-Rufete,95aca6cd,Valencia,"2,115",23.5,2.0,0.0,41,1.0,862,Valencia
+,John Carew,no NOR,FW,32,25,3.0,8.0,2002-2003,/en/players/91ef929d/John-Carew,91ef929d,Valencia,"2,105",23.4,1.0,1.0,41,21.0,863,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",27,25,4.0,1.0,2002-2003,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,"1,941",21.6,6.0,0.0,41,1.0,864,Valencia
+,Amedeo Carboni,it ITA,DF,29,24,0.0,0.0,2002-2003,/en/players/5c66ca76/Amedeo-Carboni,5c66ca76,Valencia,"2,177",24.2,8.0,1.0,41,9.0,865,Valencia
+,David Albelda,es ESP,"DF,MF",27,24,2.0,0.0,2002-2003,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,086",23.2,11.0,0.0,41,1.0,866,Valencia
+,Fábio Aurélio,br BRA,"DF,MF",27,23,3.0,8.0,2002-2003,/en/players/68f0ce09/Fabio-Aurelio,68f0ce09,Valencia,"2,139",23.8,4.0,0.0,41,2.0,867,Valencia
+,Carlos Marchena,es ESP,"DF,MF",26,22,1.0,0.0,2002-2003,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"2,004",22.3,8.0,1.0,41,1.0,464,Valencia
+,Anthony Réveillère,fr FRA,DF,18,17,1.0,1.0,2002-2003,/en/players/8ad24039/Anthony-Reveillere,8ad24039,Valencia,"1,470",16.3,5.0,0.0,41,4.0,868,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",24,15,3.0,4.0,2002-2003,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,"1,436",16.0,4.0,0.0,41,1.0,869,Valencia
+,Curro Torres,es ESP,DF,14,14,1.0,0.0,2002-2003,/en/players/49b88407/Curro-Torres,49b88407,Valencia,"1,183",13.1,5.0,0.0,41,1.0,870,Valencia
+,Gonzalo de los Santos,uy URU,MF,17,11,0.0,1.0,2002-2003,/en/players/1855302a/Gonzalo-de-los-Santos,1855302a,Valencia,"1,001",11.1,0.0,0.0,41,8.0,871,Valencia
+,Mista,es ESP,FW,27,10,3.0,7.0,2002-2003,/en/players/257c27e2/Mista,257c27e2,Valencia,"1,128",12.5,5.0,1.0,41,1.0,436,Valencia
+,Juan Sánchez,es ESP,FW,26,9,4.0,5.0,2002-2003,/en/players/58c2f75c/Juan-Sanchez,58c2f75c,Valencia,"1,028",11.4,1.0,0.0,41,1.0,662,Valencia
+,Andrés Palop,es ESP,GK,9,7,0.0,0.0,2002-2003,/en/players/9ab4e785/Andres-Palop,9ab4e785,Valencia,752,8.4,1.0,0.0,41,1.0,872,Valencia
+,Miroslav Đukić,rs SRB,DF,8,6,0.0,0.0,2002-2003,/en/players/a3e76b49/Miroslav-Djukic,3e76b49,Valencia,567,6.3,0.0,0.0,41,28.0,873,Valencia
+,Garrido,es ESP,DF,6,5,1.0,0.0,2002-2003,/en/players/32852179/Garrido,32852179,Valencia,496,5.5,1.0,0.0,41,1.0,874,Valencia
+,Kily González,ar ARG,"FW,MF",13,4,0.0,0.0,2002-2003,/en/players/69966620/Kily-Gonzalez,69966620,Valencia,548,6.1,1.0,0.0,41,5.0,875,Valencia
+,David Navarro,es ESP,DF,3,2,0.0,0.0,2002-2003,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,246,2.7,0.0,0.0,41,1.0,876,Valencia
+,Borja Criado,es ESP,FW,3,1,0.0,0.0,2002-2003,/en/players/a495f54a/Borja-Criado,495f54a,Valencia,115,1.3,1.0,0.0,41,1.0,877,Valencia
+,Salva Ballesta,es ESP,FW,2,1,0.0,0.0,2002-2003,/en/players/bd42bcb8/Salva-Ballesta,bd42bcb8,Valencia,82,0.9,0.0,0.0,41,1.0,878,Valencia
+,Ximo Enguix,es ESP,MF,2,0,0.0,0.0,2002-2003,/en/players/cfadea36/Ximo-Enguix,cfadea36,Valencia,67,0.7,0.0,0.0,41,1.0,879,Valencia
+,Jaime Gavilán,es ESP,MF,2,0,0.0,0.0,2002-2003,/en/players/95de0931/Jaime-Gavilan,95de0931,Valencia,38,0.4,1.0,0.0,41,1.0,880,Valencia
+,Jean-Félix Dorothée,fr FRA,DF,1,0,0.0,0.0,2002-2003,/en/players/7376fc8e/Jean-Felix-Dorothee,7376fc8e,Valencia,26,0.3,0.0,0.0,41,4.0,881,Valencia
+,César Soriano,es ESP,DF,1,0,,0.0,2002-2003,/en/players/0e41fc77/Cesar-Soriano,0e41fc77,Valencia,26,0.3,0.0,0.0,41,1.0,882,Valencia
+,Pablo Redondo,es ESP,MF,1,0,0.0,0.0,2002-2003,/en/players/da98fdb0/Pablo-Redondo,da98fdb0,Valencia,22,0.2,0.0,0.0,41,1.0,3714,Valencia
+,Miguel Albiol,es ESP,MF,1,0,0.0,0.0,2002-2003,/en/players/ca8aa471/Miguel-Albiol,ca8aa471,Valencia,13,0.1,0.0,0.0,41,1.0,883,Valencia
+,﻿Santiago Cañizares,es ESP,GK,37,37,0.0,0.0,2003-2004,/en/players/e104f31c/Santiago-Canizares,104f31c,Valencia,"3,330",37.0,3.0,0.0,41,1.0,858,Valencia
+,Amedeo Carboni,it ITA,DF,33,33,2.0,0.0,2003-2004,/en/players/5c66ca76/Amedeo-Carboni,5c66ca76,Valencia,"2,936",32.6,11.0,2.0,41,9.0,865,Valencia
+,David Albelda,es ESP,"DF,MF",33,32,4.0,1.0,2003-2004,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,734",30.4,12.0,0.0,41,1.0,866,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",33,32,9.0,12.0,2003-2004,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,"2,633",29.3,8.0,0.0,41,1.0,864,Valencia
+,Roberto Ayala,ar ARG,DF,30,30,1.0,1.0,2003-2004,/en/players/561d182e/Roberto-Ayala,561d182e,Valencia,"2,688",29.9,8.0,1.0,41,5.0,857,Valencia
+,Rubén Baraja,es ESP,MF,35,29,2.0,8.0,2003-2004,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,"2,619",29.1,9.0,0.0,41,1.0,859,Valencia
+,Curro Torres,es ESP,DF,30,29,1.0,1.0,2003-2004,/en/players/49b88407/Curro-Torres,49b88407,Valencia,"2,530",28.1,4.0,0.0,41,1.0,870,Valencia
+,Mista,es ESP,FW,33,29,4.0,19.0,2003-2004,/en/players/257c27e2/Mista,257c27e2,Valencia,"2,419",26.9,5.0,0.0,41,1.0,436,Valencia
+,Carlos Marchena,es ESP,"DF,MF",31,28,2.0,2.0,2003-2004,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"2,558",28.4,6.0,0.0,41,1.0,464,Valencia
+,Jorge López,es ESP,MF,26,23,6.0,4.0,2003-2004,/en/players/cf66479e/Jorge-Lopez,cf66479e,Valencia,"1,938",21.5,4.0,0.0,41,1.0,884,Valencia
+,Pablo Aimar,ar ARG,MF,25,18,9.0,4.0,2003-2004,/en/players/ab6c00d3/Pablo-Aimar,b6c00d3,Valencia,"1,628",18.1,5.0,0.0,41,5.0,860,Valencia
+,Mauricio Pellegrino,ar ARG,DF,20,16,0.0,2.0,2003-2004,/en/players/8b3d6528/Mauricio-Pellegrino,8b3d6528,Valencia,"1,387",15.4,3.0,0.0,41,5.0,861,Valencia
+,Francisco Rufete,es ESP,MF,27,15,2.0,2.0,2003-2004,/en/players/95aca6cd/Francisco-Rufete,95aca6cd,Valencia,"1,430",15.9,3.0,0.0,41,1.0,862,Valencia
+,Ricardo Oliveira,br BRA,FW,21,14,3.0,8.0,2003-2004,/en/players/420c1246/Ricardo-Oliveira,420c1246,Valencia,"1,152",12.8,0.0,0.0,41,2.0,885,Valencia
+,Garrido,es ESP,DF,15,13,1.0,0.0,2003-2004,/en/players/32852179/Garrido,32852179,Valencia,"1,113",12.4,4.0,0.0,41,1.0,874,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",22,12,2.0,2.0,2003-2004,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,"1,172",13.0,2.0,0.0,41,1.0,869,Valencia
+,Mohamed Sissoko,ml MLI,MF,21,9,1.0,0.0,2003-2004,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Valencia,985,10.9,3.0,0.0,41,12.0,886,Valencia
+,David Navarro,es ESP,DF,12,7,0.0,0.0,2003-2004,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,734,8.2,2.0,0.0,41,1.0,876,Valencia
+,Xisco,es ESP,"FW,MF",22,5,2.0,1.0,2003-2004,/en/players/efaaae13/Xisco,faaae13,Valencia,711,7.9,3.0,0.0,41,1.0,887,Valencia
+,Fabián Canobbio,uy URU,MF,11,3,0.0,1.0,2003-2004,/en/players/8a010a9b/Fabian-Canobbio,8a010a9b,Valencia,424,4.7,1.0,0.0,41,8.0,653,Valencia
+,Juan Sánchez,es ESP,FW,10,3,0.0,1.0,2003-2004,/en/players/58c2f75c/Juan-Sanchez,58c2f75c,Valencia,355,3.9,0.0,0.0,41,1.0,662,Valencia
+,David Rangel Pastor,es ESP,GK,1,1,0.0,0.0,2003-2004,/en/players/51041a4d/David-Rangel-Pastor,51041a4d,Valencia,90,1.0,0.0,0.0,41,1.0,888,Valencia
+,Fábio Aurélio,br BRA,"DF,MF",2,0,0.0,0.0,2003-2004,/en/players/68f0ce09/Fabio-Aurelio,68f0ce09,Valencia,38,0.4,0.0,0.0,41,2.0,867,Valencia
+,﻿Carlos Marchena,es ESP,"DF,MF",32,31,1.0,2.0,2004-2005,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"2,835",31.5,13.0,1.0,41,1.0,464,Valencia
+,Santiago Cañizares,es ESP,GK,29,28,0.0,0.0,2004-2005,/en/players/e104f31c/Santiago-Canizares,104f31c,Valencia,"2,542",28.2,3.0,0.0,41,1.0,858,Valencia
+,David Albelda,es ESP,"DF,MF",28,27,0.0,1.0,2004-2005,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,428",27.0,11.0,0.0,41,1.0,866,Valencia
+,Amedeo Carboni,it ITA,DF,28,26,1.0,0.0,2004-2005,/en/players/5c66ca76/Amedeo-Carboni,5c66ca76,Valencia,"2,147",23.9,3.0,0.0,41,9.0,865,Valencia
+,Rubén Baraja,es ESP,MF,25,24,2.0,7.0,2004-2005,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,"2,038",22.6,8.0,1.0,41,1.0,859,Valencia
+,David Navarro,es ESP,DF,23,23,1.0,1.0,2004-2005,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,"2,070",23.0,9.0,0.0,41,1.0,876,Valencia
+,Pablo Aimar,ar ARG,MF,31,22,6.0,4.0,2004-2005,/en/players/ab6c00d3/Pablo-Aimar,b6c00d3,Valencia,"1,967",21.9,4.0,0.0,41,5.0,860,Valencia
+,Marco Di Vaio,it ITA,FW,30,20,2.0,11.0,2004-2005,/en/players/dfa05223/Marco-Di-Vaio,dfa05223,Valencia,"1,764",19.6,3.0,0.0,41,9.0,889,Valencia
+,Marco Caneira,pt POR,DF,22,20,,1.0,2004-2005,/en/players/e2ad9feb/Marco-Caneira,2ad9feb,Valencia,"1,705",18.9,6.0,1.0,41,3.0,890,Valencia
+,Francisco Rufete,es ESP,MF,25,20,4.0,3.0,2004-2005,/en/players/95aca6cd/Francisco-Rufete,95aca6cd,Valencia,"1,581",17.6,2.0,0.0,41,1.0,862,Valencia
+,Curro Torres,es ESP,DF,19,19,1.0,0.0,2004-2005,/en/players/49b88407/Curro-Torres,49b88407,Valencia,"1,685",18.7,4.0,0.0,41,1.0,870,Valencia
+,Mista,es ESP,FW,29,18,1.0,8.0,2004-2005,/en/players/257c27e2/Mista,257c27e2,Valencia,"1,763",19.6,4.0,0.0,41,1.0,436,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",25,17,2.0,3.0,2004-2005,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,"1,612",17.9,4.0,0.0,41,1.0,869,Valencia
+,Roberto Ayala,ar ARG,DF,17,17,0.0,0.0,2004-2005,/en/players/561d182e/Roberto-Ayala,561d182e,Valencia,"1,433",15.9,3.0,0.0,41,5.0,857,Valencia
+,Emiliano Moretti,it ITA,DF,23,16,0.0,1.0,2004-2005,/en/players/55667895/Emiliano-Moretti,55667895,Valencia,"1,620",18.0,2.0,0.0,41,9.0,891,Valencia
+,Fábio Aurélio,br BRA,"DF,MF",21,16,3.0,0.0,2004-2005,/en/players/68f0ce09/Fabio-Aurelio,68f0ce09,Valencia,"1,392",15.5,2.0,0.0,41,2.0,867,Valencia
+,Mohamed Sissoko,ml MLI,MF,24,15,0.0,0.0,2004-2005,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Valencia,"1,418",15.8,5.0,0.0,41,12.0,886,Valencia
+,Stefano Fiore,it ITA,MF,20,15,5.0,2.0,2004-2005,/en/players/2eb707d3/Stefano-Fiore,2eb707d3,Valencia,"1,378",15.3,3.0,0.0,41,9.0,892,Valencia
+,Bernardo Corradi,it ITA,FW,21,13,2.0,3.0,2004-2005,/en/players/d50232c1/Bernardo-Corradi,d50232c1,Valencia,"1,188",13.2,6.0,0.0,41,9.0,893,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",12,10,5.0,3.0,2004-2005,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,901,10.0,0.0,0.0,41,1.0,864,Valencia
+,Andrés Palop,es ESP,GK,11,10,0.0,0.0,2004-2005,/en/players/9ab4e785/Andres-Palop,9ab4e785,Valencia,868,9.6,0.0,1.0,41,1.0,872,Valencia
+,Xisco,es ESP,"FW,MF",22,5,0.0,3.0,2004-2005,/en/players/efaaae13/Xisco,faaae13,Valencia,649,7.2,1.0,0.0,41,1.0,887,Valencia
+,Manuel Ruz,es ESP,DF,3,3,0.0,0.0,2004-2005,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Valencia,265,2.9,1.0,0.0,41,1.0,894,Valencia
+,Mauricio Pellegrino,ar ARG,DF,1,1,,0.0,2004-2005,/en/players/8b3d6528/Mauricio-Pellegrino,8b3d6528,Valencia,90,1.0,0.0,0.0,41,5.0,861,Valencia
+,Rafael Santacruz,es ESP,DF,1,1,,0.0,2004-2005,/en/players/ecac1e3e/Rafael-Santacruz,cac1e3e,Valencia,90,1.0,1.0,0.0,41,1.0,895,Valencia
+,Gonzalo de los Santos,uy URU,MF,1,1,0.0,0.0,2004-2005,/en/players/1855302a/Gonzalo-de-los-Santos,1855302a,Valencia,45,0.5,0.0,0.0,41,8.0,871,Valencia
+,Juanlu,es ESP,"FW,MF",1,0,0.0,0.0,2004-2005,/en/players/431ac3e7/Juanlu,431ac3e7,Valencia,37,0.4,0.0,0.0,41,1.0,896,Valencia
+,Miguel Pallardó,es ESP,MF,1,0,0.0,0.0,2004-2005,/en/players/6c3dfe68/Miguel-Pallardo,6c3dfe68,Valencia,10,0.1,0.0,0.0,41,1.0,897,Valencia
+,﻿Santiago Cañizares,es ESP,GK,36,36,0.0,0.0,2005-2006,/en/players/e104f31c/Santiago-Canizares,104f31c,Valencia,"3,240",36.0,7.0,0.0,41,1.0,858,Valencia
+,David Villa,es ESP,"FW,MF",37,35,2.0,25.0,2005-2006,/en/players/ade08a67/David-Villa,de08a67,Valencia,"2,992",33.2,4.0,1.0,41,1.0,898,Valencia
+,Emiliano Moretti,it ITA,DF,33,33,2.0,0.0,2005-2006,/en/players/55667895/Emiliano-Moretti,55667895,Valencia,"2,892",32.1,5.0,0.0,41,9.0,891,Valencia
+,David Albelda,es ESP,"DF,MF",32,32,1.0,2.0,2005-2006,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,833",31.5,16.0,1.0,41,1.0,866,Valencia
+,Miguel Monteiro,pt POR,DF,31,31,0.0,1.0,2005-2006,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,"2,763",30.7,1.0,0.0,41,3.0,899,Valencia
+,Rubén Baraja,es ESP,MF,31,31,3.0,4.0,2005-2006,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,"2,532",28.1,6.0,1.0,41,1.0,859,Valencia
+,Raúl Albiol,es ESP,DF,29,29,1.0,1.0,2005-2006,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Valencia,"2,610",29.0,5.0,0.0,41,1.0,80,Valencia
+,Pablo Aimar,ar ARG,MF,32,28,3.0,5.0,2005-2006,/en/players/ab6c00d3/Pablo-Aimar,b6c00d3,Valencia,"2,429",27.0,3.0,0.0,41,5.0,860,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",32,26,7.0,6.0,2005-2006,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,"2,343",26.0,6.0,1.0,41,1.0,869,Valencia
+,Roberto Ayala,ar ARG,DF,23,23,0.0,2.0,2005-2006,/en/players/561d182e/Roberto-Ayala,561d182e,Valencia,"1,987",22.1,4.0,1.0,41,5.0,857,Valencia
+,Carlos Marchena,es ESP,"DF,MF",25,21,0.0,0.0,2005-2006,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"1,823",20.3,6.0,1.0,41,1.0,464,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",21,19,5.0,3.0,2005-2006,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,"1,616",18.0,2.0,0.0,41,1.0,864,Valencia
+,Mario Regueiro,uy URU,"FW,MF",24,18,4.0,3.0,2005-2006,/en/players/c792d665/Mario-Regueiro,c792d665,Valencia,"1,615",17.9,2.0,0.0,41,8.0,900,Valencia
+,Fábio Aurélio,br BRA,"DF,MF",24,11,1.0,2.0,2005-2006,/en/players/68f0ce09/Fabio-Aurelio,68f0ce09,Valencia,"1,096",12.2,3.0,0.0,41,2.0,867,Valencia
+,Mista,es ESP,FW,29,10,5.0,1.0,2005-2006,/en/players/257c27e2/Mista,257c27e2,Valencia,"1,065",11.8,3.0,0.0,41,1.0,436,Valencia
+,Francisco Rufete,es ESP,MF,19,9,2.0,0.0,2005-2006,/en/players/95aca6cd/Francisco-Rufete,95aca6cd,Valencia,751,8.3,1.0,0.0,41,1.0,862,Valencia
+,David Navarro,es ESP,DF,8,7,0.0,2.0,2005-2006,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,651,7.2,3.0,0.0,41,1.0,876,Valencia
+,Hugo Viana,pt POR,MF,18,4,0.0,0.0,2005-2006,/en/players/9a5542cc/Hugo-Viana,9a5542cc,Valencia,566,6.3,2.0,0.0,41,3.0,901,Valencia
+,Marco Caneira,pt POR,DF,5,4,0.0,0.0,2005-2006,/en/players/e2ad9feb/Marco-Caneira,2ad9feb,Valencia,388,4.3,2.0,0.0,41,3.0,890,Valencia
+,Amedeo Carboni,it ITA,DF,5,3,0.0,0.0,2005-2006,/en/players/5c66ca76/Amedeo-Carboni,5c66ca76,Valencia,315,3.5,0.0,0.0,41,9.0,865,Valencia
+,Marco Di Vaio,it ITA,FW,5,2,1.0,0.0,2005-2006,/en/players/dfa05223/Marco-Di-Vaio,dfa05223,Valencia,159,1.8,0.0,0.0,41,9.0,889,Valencia
+,Patrick Kluivert,nl NED,FW,10,1,1.0,1.0,2005-2006,/en/players/6c3b0583/Patrick-Kluivert,6c3b0583,Valencia,209,2.3,2.0,0.0,41,11.0,902,Valencia
+,Edu Gaspar,br BRA,MF,6,1,0.0,0.0,2005-2006,/en/players/0471f2a2/Edu-Gaspar,0471f2a2,Valencia,203,2.3,2.0,0.0,41,2.0,903,Valencia
+,Jorge López,es ESP,MF,5,1,0.0,0.0,2005-2006,/en/players/cf66479e/Jorge-Lopez,cf66479e,Valencia,116,1.3,0.0,0.0,41,1.0,884,Valencia
+,Curro Torres,es ESP,DF,3,1,0.0,0.0,2005-2006,/en/players/49b88407/Curro-Torres,49b88407,Valencia,97,1.1,0.0,0.0,41,1.0,870,Valencia
+,Ludovic Butelle,fr FRA,GK,1,1,0.0,0.0,2005-2006,/en/players/26975a92/Ludovic-Butelle,26975a92,Valencia,90,1.0,0.0,0.0,41,4.0,904,Valencia
+,Juan Luis Mora,es ESP,GK,1,1,0.0,0.0,2005-2006,/en/players/2e1a7599/Juan-Luis-Mora,2e1a7599,Valencia,90,1.0,0.0,0.0,41,1.0,905,Valencia
+,Pablo Hernández,es ESP,"FW,MF",1,0,,0.0,2005-2006,/en/players/c0398aca/Pablo-Hernandez,c0398aca,Valencia,21,0.2,0.0,0.0,41,1.0,906,Valencia
+,﻿Raúl Albiol,es ESP,DF,36,35,0.0,1.0,2006-2007,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Valencia,"3,185",35.4,9.0,0.0,41,1.0,80,Valencia
+,David Villa,es ESP,"FW,MF",36,35,11.0,16.0,2006-2007,/en/players/ade08a67/David-Villa,de08a67,Valencia,"2,921",32.5,9.0,0.0,41,1.0,898,Valencia
+,Santiago Cañizares,es ESP,GK,32,32,0.0,0.0,2006-2007,/en/players/e104f31c/Santiago-Canizares,104f31c,Valencia,"2,786",31.0,3.0,1.0,41,1.0,858,Valencia
+,David Silva,es ESP,"FW,MF",36,31,6.0,5.0,2006-2007,/en/players/e2716bd0/David-Silva,2716bd0,Valencia,"2,640",29.3,5.0,1.0,41,1.0,345,Valencia
+,Roberto Ayala,ar ARG,DF,29,29,0.0,2.0,2006-2007,/en/players/561d182e/Roberto-Ayala,561d182e,Valencia,"2,572",28.6,10.0,1.0,41,5.0,857,Valencia
+,Miguel Monteiro,pt POR,DF,30,27,0.0,0.0,2006-2007,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,"2,486",27.6,5.0,0.0,41,3.0,899,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",36,27,3.0,5.0,2006-2007,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,"2,256",25.1,2.0,0.0,41,1.0,869,Valencia
+,David Albelda,es ESP,"DF,MF",25,25,0.0,0.0,2006-2007,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,005",22.3,6.0,1.0,41,1.0,866,Valencia
+,Emiliano Moretti,it ITA,DF,23,23,0.0,2.0,2006-2007,/en/players/55667895/Emiliano-Moretti,55667895,Valencia,"2,039",22.7,5.0,1.0,41,9.0,891,Valencia
+,Joaquín,es ESP,"FW,MF",35,22,3.0,5.0,2006-2007,/en/players/4c5b14d2/Joaquin,4c5b14d2,Valencia,"2,137",23.7,5.0,0.0,41,1.0,907,Valencia
+,Carlos Marchena,es ESP,"DF,MF",22,19,1.0,0.0,2006-2007,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"1,586",17.6,7.0,1.0,41,1.0,464,Valencia
+,Fernando Morientes,es ESP,FW,24,17,1.0,13.0,2006-2007,/en/players/bceebb25/Fernando-Morientes,bceebb25,Valencia,"1,606",17.8,0.0,0.0,41,1.0,18,Valencia
+,Curro Torres,es ESP,DF,17,17,0.0,0.0,2006-2007,/en/players/49b88407/Curro-Torres,49b88407,Valencia,"1,371",15.2,4.0,0.0,41,1.0,870,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",16,13,5.0,4.0,2006-2007,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,"1,131",12.6,2.0,0.0,41,1.0,864,Valencia
+,David Navarro,es ESP,DF,13,12,0.0,1.0,2006-2007,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,"1,006",11.2,5.0,0.0,41,1.0,876,Valencia
+,Edu Gaspar,br BRA,MF,10,9,1.0,0.0,2006-2007,/en/players/0471f2a2/Edu-Gaspar,0471f2a2,Valencia,824,9.2,2.0,0.0,41,2.0,903,Valencia
+,Rubén Baraja,es ESP,MF,14,9,3.0,1.0,2006-2007,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,803,8.9,6.0,0.0,41,1.0,859,Valencia
+,Hugo Viana,pt POR,MF,25,7,1.0,2.0,2006-2007,/en/players/9a5542cc/Hugo-Viana,9a5542cc,Valencia,950,10.6,4.0,0.0,41,3.0,901,Valencia
+,Ludovic Butelle,fr FRA,GK,8,6,0.0,0.0,2006-2007,/en/players/26975a92/Ludovic-Butelle,26975a92,Valencia,634,7.0,2.0,0.0,41,4.0,904,Valencia
+,Asier del Horno,es ESP,DF,6,6,0.0,0.0,2006-2007,/en/players/eb525f4a/Asier-del-Horno,b525f4a,Valencia,531,5.9,2.0,0.0,41,1.0,908,Valencia
+,Miguel Pallardó,es ESP,MF,10,5,0.0,0.0,2006-2007,/en/players/6c3dfe68/Miguel-Pallardo,6c3dfe68,Valencia,427,4.7,1.0,0.0,41,1.0,897,Valencia
+,Jaime Gavilán,es ESP,MF,12,4,2.0,0.0,2006-2007,/en/players/95de0931/Jaime-Gavilan,95de0931,Valencia,404,4.5,2.0,1.0,41,1.0,880,Valencia
+,David Cerrajería,es ESP,DF,5,4,0.0,0.0,2006-2007,/en/players/2ebb9df6/David-Cerrajeria,2ebb9df6,Valencia,353,3.9,3.0,0.0,41,1.0,909,Valencia
+,Jorge López,es ESP,MF,14,2,1.0,0.0,2006-2007,/en/players/cf66479e/Jorge-Lopez,cf66479e,Valencia,300,3.3,3.0,1.0,41,1.0,884,Valencia
+,Mario Regueiro,uy URU,"FW,MF",6,1,0.0,0.0,2006-2007,/en/players/c792d665/Mario-Regueiro,c792d665,Valencia,233,2.6,2.0,0.0,41,8.0,900,Valencia
+,David Córcoles,es ESP,DF,1,1,0.0,0.0,2006-2007,/en/players/929ea912/David-Corcoles,929ea912,Valencia,90,1.0,0.0,0.0,41,1.0,910,Valencia
+,Francesco Tavano,it ITA,FW,3,0,0.0,0.0,2006-2007,/en/players/d4a26b3a/Francesco-Tavano,d4a26b3a,Valencia,47,0.5,0.0,0.0,41,9.0,911,Valencia
+,Javi Guerra,es ESP,FW,2,0,0.0,0.0,2006-2007,/en/players/aa386464/Javi-Guerra,386464,Valencia,17,0.2,0.0,0.0,41,1.0,912,Valencia
+,Natxo Insa,my MAS,MF,1,0,,0.0,2006-2007,/en/players/28ccefcd/Natxo-Insa,28ccefcd,Valencia,7,0.1,0.0,0.0,41,68.0,747,Valencia
+,﻿Raúl Albiol,es ESP,DF,32,32,0.0,1.0,2007-2008,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Valencia,"2,863",31.8,7.0,1.0,41,1.0,80,Valencia
+,David Silva,es ESP,"FW,MF",34,32,4.0,4.0,2007-2008,/en/players/e2716bd0/David-Silva,2716bd0,Valencia,"2,751",30.6,6.0,1.0,41,1.0,345,Valencia
+,Emiliano Moretti,it ITA,DF,28,28,0.0,1.0,2007-2008,/en/players/55667895/Emiliano-Moretti,55667895,Valencia,"2,500",27.8,5.0,0.0,41,9.0,891,Valencia
+,Joaquín,es ESP,"FW,MF",34,26,4.0,3.0,2007-2008,/en/players/4c5b14d2/Joaquin,4c5b14d2,Valencia,"2,451",27.2,3.0,1.0,41,1.0,907,Valencia
+,Timo Hildebrand,de GER,GK,26,26,0.0,0.0,2007-2008,/en/players/672b5171/Timo-Hildebrand,672b5171,Valencia,"2,340",26.0,1.0,0.0,41,13.0,15539,Valencia
+,Carlos Marchena,es ESP,"DF,MF",28,26,1.0,0.0,2007-2008,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"2,274",25.3,13.0,0.0,41,1.0,464,Valencia
+,David Villa,es ESP,"FW,MF",28,26,5.0,18.0,2007-2008,/en/players/ade08a67/David-Villa,de08a67,Valencia,"2,029",22.5,2.0,2.0,41,1.0,898,Valencia
+,Miguel Monteiro,pt POR,DF,26,23,1.0,1.0,2007-2008,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,"2,121",23.6,7.0,0.0,41,3.0,899,Valencia
+,Iván Helguera,es ESP,"DF,MF",24,22,0.0,1.0,2007-2008,/en/players/44151558/Ivan-Helguera,44151558,Valencia,"2,046",22.7,7.0,1.0,41,1.0,4,Valencia
+,Rubén Baraja,es ESP,MF,25,22,2.0,2.0,2007-2008,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,"1,886",21.0,8.0,0.0,41,1.0,859,Valencia
+,Marco Caneira,pt POR,DF,19,19,0.0,0.0,2007-2008,/en/players/e2ad9feb/Marco-Caneira,2ad9feb,Valencia,"1,558",17.3,8.0,0.0,41,3.0,890,Valencia
+,Javier Arizmendi,es ESP,"FW,MF",30,18,3.0,1.0,2007-2008,/en/players/14a6c075/Javier-Arizmendi,14a6c075,Valencia,"1,542",17.1,5.0,0.0,41,1.0,401,Valencia
+,Juan Mata,es ESP,"FW,MF",24,17,1.0,5.0,2007-2008,/en/players/29733c72/Juan-Mata,29733c72,Valencia,"1,338",14.9,1.0,0.0,41,1.0,913,Valencia
+,Alexis,es ESP,DF,14,12,0.0,0.0,2007-2008,/en/players/db0cd1ae/Alexis,db0cd1ae,Valencia,"1,028",11.4,2.0,0.0,41,1.0,914,Valencia
+,Fernando Morientes,es ESP,FW,22,11,0.0,6.0,2007-2008,/en/players/bceebb25/Fernando-Morientes,bceebb25,Valencia,"1,178",13.1,3.0,0.0,41,1.0,18,Valencia
+,David Albelda,es ESP,"DF,MF",15,11,1.0,0.0,2007-2008,/en/players/def14f68/David-Albelda,def14f68,Valencia,"1,026",11.4,5.0,0.0,41,1.0,866,Valencia
+,Hedwiges Maduro,nl NED,"DF,MF",11,11,0.0,0.0,2007-2008,/en/players/5918cc84/Hedwiges-Maduro,5918cc84,Valencia,771,8.6,2.0,1.0,41,11.0,915,Valencia
+,Santiago Cañizares,es ESP,GK,10,10,0.0,0.0,2007-2008,/en/players/e104f31c/Santiago-Canizares,104f31c,Valencia,900,10.0,1.0,0.0,41,1.0,858,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",16,9,0.0,2.0,2007-2008,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,867,9.6,2.0,0.0,41,1.0,869,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",17,7,0.0,0.0,2007-2008,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,724,8.0,1.0,0.0,41,1.0,864,Valencia
+,Éver Banega,ar ARG,MF,12,7,0.0,0.0,2007-2008,/en/players/fa937f7a/Ever-Banega,fa937f7a,Valencia,679,7.5,3.0,0.0,41,5.0,916,Valencia
+,Manuel Fernandes,pt POR,MF,7,5,0.0,0.0,2007-2008,/en/players/13ac19de/Manuel-Fernandes,13ac19de,Valencia,396,4.4,1.0,0.0,41,3.0,917,Valencia
+,Sunny,ng NGA,MF,10,4,0.0,0.0,2007-2008,/en/players/1eb38665/Sunny,1eb38665,Valencia,447,5.0,0.0,0.0,41,52.0,918,Valencia
+,Edu Gaspar,br BRA,MF,13,3,1.0,0.0,2007-2008,/en/players/0471f2a2/Edu-Gaspar,0471f2a2,Valencia,525,5.8,1.0,0.0,41,2.0,903,Valencia
+,Nikola Žigić,rs SRB,FW,15,3,0.0,1.0,2007-2008,/en/players/aad584e0/Nikola-Zigic,d584e0,Valencia,501,5.6,2.0,1.0,41,28.0,919,Valencia
+,Ángel Montoro,es ESP,MF,4,3,0.0,0.0,2007-2008,/en/players/719384c1/Angel-Montoro,719384c1,Valencia,235,2.6,1.0,0.0,41,1.0,920,Valencia
+,Juan Luis Mora,es ESP,GK,2,2,0.0,0.0,2007-2008,/en/players/2e1a7599/Juan-Luis-Mora,2e1a7599,Valencia,180,2.0,0.0,0.0,41,1.0,905,Valencia
+,Jaime Gavilán,es ESP,MF,3,2,0.0,0.0,2007-2008,/en/players/95de0931/Jaime-Gavilan,95de0931,Valencia,163,1.8,0.0,0.0,41,1.0,880,Valencia
+,David Lombán,es ESP,DF,3,1,0.0,0.0,2007-2008,/en/players/b43b81f1/David-Lomban,b43b81f1,Valencia,151,1.7,0.0,0.0,41,1.0,921,Valencia
+,﻿Juan Mata,es ESP,"FW,MF",37,35,11.0,11.0,2008-2009,/en/players/29733c72/Juan-Mata,29733c72,Valencia,"3,022",33.6,5.0,0.0,41,1.0,913,Valencia
+,Raúl Albiol,es ESP,DF,34,33,1.0,2.0,2008-2009,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Valencia,"2,940",32.7,8.0,0.0,41,1.0,80,Valencia
+,David Villa,es ESP,"FW,MF",33,33,4.0,28.0,2008-2009,/en/players/ade08a67/David-Villa,de08a67,Valencia,"2,878",32.0,6.0,1.0,41,1.0,898,Valencia
+,Miguel Monteiro,pt POR,DF,29,27,0.0,0.0,2008-2009,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,"2,474",27.5,5.0,0.0,41,3.0,899,Valencia
+,Joaquín,es ESP,"FW,MF",31,27,3.0,4.0,2008-2009,/en/players/4c5b14d2/Joaquin,4c5b14d2,Valencia,"2,246",25.0,1.0,0.0,41,1.0,907,Valencia
+,David Albelda,es ESP,"DF,MF",30,25,0.0,0.0,2008-2009,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,273",25.3,12.0,0.0,41,1.0,866,Valencia
+,Emiliano Moretti,it ITA,DF,28,25,0.0,0.0,2008-2009,/en/players/55667895/Emiliano-Moretti,55667895,Valencia,"2,137",23.7,7.0,0.0,41,9.0,891,Valencia
+,Carlos Marchena,es ESP,"DF,MF",26,24,0.0,1.0,2008-2009,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"2,085",23.2,13.0,3.0,41,1.0,464,Valencia
+,Alexis,es ESP,DF,24,24,0.0,1.0,2008-2009,/en/players/db0cd1ae/Alexis,db0cd1ae,Valencia,"2,051",22.8,8.0,1.0,41,1.0,914,Valencia
+,Rubén Baraja,es ESP,MF,28,22,0.0,3.0,2008-2009,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,"1,853",20.6,13.0,0.0,41,1.0,859,Valencia
+,Manuel Fernandes,pt POR,MF,27,20,2.0,2.0,2008-2009,/en/players/13ac19de/Manuel-Fernandes,13ac19de,Valencia,"1,715",19.1,7.0,1.0,41,3.0,917,Valencia
+,Renan Brito Soares,br BRA,GK,19,19,0.0,0.0,2008-2009,/en/players/ca409f2e/Renan-Brito-Soares,ca409f2e,Valencia,"1,661",18.5,2.0,0.0,41,2.0,922,Valencia
+,Hedwiges Maduro,nl NED,"DF,MF",22,18,0.0,1.0,2008-2009,/en/players/5918cc84/Hedwiges-Maduro,5918cc84,Valencia,"1,632",18.1,4.0,0.0,41,11.0,915,Valencia
+,César Sánchez,es ESP,GK,18,18,0.0,0.0,2008-2009,/en/players/c6e6e5d6/Cesar-Sanchez,c6e6e5d6,Valencia,"1,620",18.0,3.0,0.0,41,1.0,29,Valencia
+,David Silva,es ESP,"FW,MF",19,17,5.0,4.0,2008-2009,/en/players/e2716bd0/David-Silva,2716bd0,Valencia,"1,475",16.4,5.0,0.0,41,1.0,345,Valencia
+,Pablo Hernández,es ESP,"FW,MF",21,12,2.0,3.0,2008-2009,/en/players/c0398aca/Pablo-Hernandez,c0398aca,Valencia,"1,044",11.6,4.0,0.0,41,1.0,906,Valencia
+,Edu Gaspar,br BRA,MF,21,9,1.0,1.0,2008-2009,/en/players/0471f2a2/Edu-Gaspar,0471f2a2,Valencia,865,9.6,4.0,0.0,41,2.0,903,Valencia
+,Fernando Morientes,es ESP,FW,20,7,1.0,1.0,2008-2009,/en/players/bceebb25/Fernando-Morientes,bceebb25,Valencia,816,9.1,3.0,0.0,41,1.0,18,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",27,6,0.0,6.0,2008-2009,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,846,9.4,1.0,0.0,41,1.0,864,Valencia
+,Asier del Horno,es ESP,DF,9,6,0.0,0.0,2008-2009,/en/players/eb525f4a/Asier-del-Horno,b525f4a,Valencia,563,6.3,3.0,0.0,41,1.0,908,Valencia
+,Miguel Ángel Angulo,es ESP,"FW,MF",11,5,1.0,0.0,2008-2009,/en/players/434f4055/Miguel-Angel-Angulo,434f4055,Valencia,524,5.8,0.0,0.0,41,1.0,869,Valencia
+,Míchel,es ESP,MF,13,4,0.0,0.0,2008-2009,/en/players/418f8f61/Michel,418f8f61,Valencia,514,5.7,3.0,0.0,41,1.0,450,Valencia
+,Vicente Guaita,es ESP,GK,2,1,0.0,0.0,2008-2009,/en/players/ab13a5aa/Vicente-Guaita,b13a5aa,Valencia,139,1.5,0.0,0.0,41,1.0,923,Valencia
+,Iván Helguera,es ESP,"DF,MF",1,1,0.0,0.0,2008-2009,/en/players/44151558/Ivan-Helguera,44151558,Valencia,90,1.0,0.0,0.0,41,1.0,4,Valencia
+,Thiago Carleto,br BRA,"DF,MF",1,0,0.0,0.0,2008-2009,/en/players/1c50ba0b/Thiago-Carleto,1c50ba0b,Valencia,77,0.9,0.0,0.0,41,2.0,924,Valencia
+,Curro Torres,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/49b88407/Curro-Torres,49b88407,Valencia,2,0.0,0.0,0.0,41,1.0,870,Valencia
+,﻿Éver Banega,ar ARG,MF,36,33,6.0,2.0,2009-2010,/en/players/fa937f7a/Ever-Banega,fa937f7a,Valencia,"2,806",31.2,11.0,0.0,41,5.0,916,Valencia
+,David Villa,es ESP,"FW,MF",32,31,3.0,21.0,2009-2010,/en/players/ade08a67/David-Villa,de08a67,Valencia,"2,703",30.0,5.0,0.0,41,1.0,898,Valencia
+,César Sánchez,es ESP,GK,30,30,0.0,0.0,2009-2010,/en/players/c6e6e5d6/Cesar-Sanchez,c6e6e5d6,Valencia,"2,700",30.0,5.0,0.0,41,1.0,29,Valencia
+,Juan Mata,es ESP,"FW,MF",35,30,4.0,9.0,2009-2010,/en/players/29733c72/Juan-Mata,29733c72,Valencia,"2,570",28.6,1.0,0.0,41,1.0,913,Valencia
+,David Silva,es ESP,"FW,MF",30,28,6.0,8.0,2009-2010,/en/players/e2716bd0/David-Silva,2716bd0,Valencia,"2,409",26.8,6.0,0.0,41,1.0,345,Valencia
+,Pablo Hernández,es ESP,"FW,MF",33,25,4.0,5.0,2009-2010,/en/players/c0398aca/Pablo-Hernandez,c0398aca,Valencia,"2,181",24.2,1.0,0.0,41,1.0,906,Valencia
+,Bruno,es ESP,DF,26,25,0.0,0.0,2009-2010,/en/players/78803d03/Bruno,78803d03,Valencia,"2,136",23.7,10.0,0.0,41,1.0,925,Valencia
+,David Albelda,es ESP,"DF,MF",28,22,1.0,1.0,2009-2010,/en/players/def14f68/David-Albelda,def14f68,Valencia,"2,037",22.6,12.0,0.0,41,1.0,866,Valencia
+,Ángel Dealbert,es ESP,DF,24,22,0.0,0.0,2009-2010,/en/players/8242a7ad/Angel-Dealbert,8242a7ad,Valencia,"1,989",22.1,2.0,0.0,41,1.0,926,Valencia
+,Alexis,es ESP,DF,24,21,0.0,1.0,2009-2010,/en/players/db0cd1ae/Alexis,db0cd1ae,Valencia,"1,912",21.2,8.0,1.0,41,1.0,914,Valencia
+,Miguel Monteiro,pt POR,DF,25,20,1.0,0.0,2009-2010,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,"1,756",19.5,4.0,1.0,41,3.0,899,Valencia
+,David Navarro,es ESP,DF,19,19,0.0,2.0,2009-2010,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,"1,610",17.9,7.0,0.0,41,1.0,876,Valencia
+,Joaquín,es ESP,"FW,MF",28,17,2.0,2.0,2009-2010,/en/players/4c5b14d2/Joaquin,4c5b14d2,Valencia,"1,620",18.0,2.0,0.0,41,1.0,907,Valencia
+,Carlos Marchena,es ESP,"DF,MF",24,17,0.0,2.0,2009-2010,/en/players/48ddb821/Carlos-Marchena,48ddb821,Valencia,"1,492",16.6,6.0,1.0,41,1.0,464,Valencia
+,Jérémy Mathieu,fr FRA,DF,17,14,0.0,1.0,2009-2010,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Valencia,"1,227",13.6,2.0,0.0,41,4.0,927,Valencia
+,Hedwiges Maduro,nl NED,"DF,MF",18,12,0.0,0.0,2009-2010,/en/players/5918cc84/Hedwiges-Maduro,5918cc84,Valencia,"1,131",12.6,7.0,1.0,41,11.0,915,Valencia
+,Jordi Alba,es ESP,"DF,MF",15,12,0.0,1.0,2009-2010,/en/players/4601e194/Jordi-Alba,4601e194,Valencia,"1,123",12.5,3.0,0.0,41,1.0,928,Valencia
+,Manuel Fernandes,pt POR,MF,15,8,0.0,0.0,2009-2010,/en/players/13ac19de/Manuel-Fernandes,13ac19de,Valencia,799,8.9,3.0,1.0,41,3.0,917,Valencia
+,Miguel Ángel Moyá,es ESP,GK,8,8,0.0,0.0,2009-2010,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Valencia,720,8.0,0.0,0.0,41,1.0,320,Valencia
+,Rubén Baraja,es ESP,MF,18,7,1.0,0.0,2009-2010,/en/players/31a8e5c3/Ruben-Baraja,31a8e5c3,Valencia,779,8.7,3.0,0.0,41,1.0,859,Valencia
+,Nikola Žigić,rs SRB,FW,13,5,1.0,4.0,2009-2010,/en/players/aad584e0/Nikola-Zigic,d584e0,Valencia,561,6.2,8.0,1.0,41,28.0,919,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",11,5,1.0,0.0,2009-2010,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,501,5.6,1.0,0.0,41,1.0,864,Valencia
+,Chori Domínguez,ar ARG,"FW,MF",13,4,2.0,0.0,2009-2010,/en/players/bbb66f34/Chori-Dominguez,bbb66f34,Valencia,459,5.1,2.0,0.0,41,5.0,929,Valencia
+,Joel Johnson,lr LBR,"DF,MF",1,1,0.0,0.0,2009-2010,/en/players/29a972e4/Joel-Johnson,29a972e4,Valencia,90,1.0,0.0,0.0,41,71.0,930,Valencia
+,Miku,ve VEN,FW,2,1,0.0,0.0,2009-2010,/en/players/4eba9598/Miku,4eba9598,Valencia,70,0.8,0.0,0.0,41,53.0,596,Valencia
+,Lillo,es ESP,DF,1,1,0.0,0.0,2009-2010,/en/players/476ca810/Lillo,476ca810,Valencia,45,0.5,1.0,0.0,41,1.0,931,Valencia
+,Míchel,es ESP,MF,3,0,0.0,0.0,2009-2010,/en/players/418f8f61/Michel,418f8f61,Valencia,32,0.4,0.0,0.0,41,1.0,450,Valencia
+,﻿Juan Mata,es ESP,"FW,MF",33,31,11.0,8.0,2010-2011,/en/players/29733c72/Juan-Mata,29733c72,Valencia,"2,567",28.5,3.0,0.0,41,1.0,913,Valencia
+,Ricardo Costa,pt POR,DF,29,29,0.0,0.0,2010-2011,/en/players/cd7325e1/Ricardo-Costa,cd7325e1,Valencia,"2,491",27.7,8.0,1.0,41,3.0,932,Valencia
+,Jérémy Mathieu,fr FRA,DF,29,27,3.0,1.0,2010-2011,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Valencia,"2,198",24.4,4.0,0.0,41,4.0,927,Valencia
+,Roberto Soldado,es ESP,FW,34,26,4.0,18.0,2010-2011,/en/players/9d66fbe3/Roberto-Soldado,9d66fbe3,Valencia,"2,410",26.8,8.0,0.0,41,1.0,46,Valencia
+,Joaquín,es ESP,"FW,MF",30,24,6.0,4.0,2010-2011,/en/players/4c5b14d2/Joaquin,4c5b14d2,Valencia,"2,069",23.0,6.0,0.0,41,1.0,907,Valencia
+,Mehmet Topal,tr TUR,"DF,MF",23,21,1.0,1.0,2010-2011,/en/players/f93c876b/Mehmet-Topal,f93c876b,Valencia,"1,828",20.3,5.0,1.0,41,15.0,933,Valencia
+,Aritz Aduriz,es ESP,FW,29,20,2.0,10.0,2010-2011,/en/players/293211e1/Aritz-Aduriz,293211e1,Valencia,"1,846",20.5,6.0,1.0,41,1.0,934,Valencia
+,Miguel Monteiro,pt POR,DF,24,20,2.0,0.0,2010-2011,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,"1,827",20.3,1.0,0.0,41,3.0,899,Valencia
+,Pablo Hernández,es ESP,"FW,MF",27,20,6.0,5.0,2010-2011,/en/players/c0398aca/Pablo-Hernandez,c0398aca,Valencia,"1,769",19.7,3.0,0.0,41,1.0,906,Valencia
+,Vicente Guaita,es ESP,GK,21,19,0.0,0.0,2010-2011,/en/players/ab13a5aa/Vicente-Guaita,b13a5aa,Valencia,"1,795",19.9,2.0,0.0,41,1.0,923,Valencia
+,Éver Banega,ar ARG,MF,28,19,3.0,2.0,2010-2011,/en/players/fa937f7a/Ever-Banega,fa937f7a,Valencia,"1,737",19.3,8.0,0.0,41,5.0,916,Valencia
+,Marius Stankevičius,lt LTU,"DF,MF",21,19,0.0,2.0,2010-2011,/en/players/7c3a4a58/Marius-Stankevicius,7c3a4a58,Valencia,"1,701",18.9,6.0,2.0,41,72.0,935,Valencia
+,Tino Costa,ar ARG,MF,24,17,1.0,4.0,2010-2011,/en/players/8f747a86/Tino-Costa,8f747a86,Valencia,"1,628",18.1,11.0,0.0,41,5.0,936,Valencia
+,Bruno,es ESP,DF,19,17,1.0,0.0,2010-2011,/en/players/78803d03/Bruno,78803d03,Valencia,"1,532",17.0,6.0,0.0,41,1.0,925,Valencia
+,Hedwiges Maduro,nl NED,"DF,MF",18,17,0.0,1.0,2010-2011,/en/players/5918cc84/Hedwiges-Maduro,5918cc84,Valencia,"1,476",16.4,5.0,0.0,41,11.0,915,Valencia
+,David Navarro,es ESP,DF,17,16,0.0,1.0,2010-2011,/en/players/5dbdb37b/David-Navarro,5dbdb37b,Valencia,"1,285",14.3,7.0,1.0,41,1.0,876,Valencia
+,César Sánchez,es ESP,GK,15,15,0.0,0.0,2010-2011,/en/players/c6e6e5d6/Cesar-Sanchez,c6e6e5d6,Valencia,"1,265",14.1,5.0,0.0,41,1.0,29,Valencia
+,Jordi Alba,es ESP,"DF,MF",27,14,1.0,2.0,2010-2011,/en/players/4601e194/Jordi-Alba,4601e194,Valencia,"1,428",15.9,6.0,0.0,41,1.0,928,Valencia
+,David Albelda,es ESP,"DF,MF",16,12,1.0,0.0,2010-2011,/en/players/def14f68/David-Albelda,def14f68,Valencia,"1,044",11.6,8.0,1.0,41,1.0,866,Valencia
+,Ángel Dealbert,es ESP,DF,14,10,0.0,0.0,2010-2011,/en/players/8242a7ad/Angel-Dealbert,8242a7ad,Valencia,"1,000",11.1,2.0,0.0,41,1.0,926,Valencia
+,Jonas,br BRA,FW,13,8,4.0,3.0,2010-2011,/en/players/9bcd6455/Jonas,9bcd6455,Valencia,683,7.6,2.0,0.0,41,2.0,937,Valencia
+,Vicente Rodríguez,es ESP,"FW,MF",14,5,0.0,1.0,2010-2011,/en/players/73b8c719/Vicente-Rodriguez,73b8c719,Valencia,569,6.3,1.0,0.0,41,1.0,864,Valencia
+,Manuel Fernandes,pt POR,MF,7,5,1.0,0.0,2010-2011,/en/players/13ac19de/Manuel-Fernandes,13ac19de,Valencia,485,5.4,1.0,0.0,41,3.0,917,Valencia
+,Miguel Ángel Moyá,es ESP,GK,4,4,0.0,0.0,2010-2011,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Valencia,360,4.0,0.0,0.0,41,1.0,320,Valencia
+,Chori Domínguez,ar ARG,"FW,MF",9,3,0.0,0.0,2010-2011,/en/players/bbb66f34/Chori-Dominguez,bbb66f34,Valencia,325,3.6,1.0,0.0,41,5.0,929,Valencia
+,Isco,es ESP,"FW,MF",4,0,0.0,0.0,2010-2011,/en/players/a0b4bb3e/Isco,0b4bb3e,Valencia,68,0.8,0.0,0.0,41,1.0,118,Valencia
+,Sofiane Feghouli,dz ALG,"FW,MF",3,0,0.0,0.0,2010-2011,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Valencia,33,0.4,0.0,0.0,41,37.0,938,Valencia
+,﻿Adil Rami,fr FRA,DF,33,33,0.0,2.0,2011-2012,/en/players/8dbff17c/Adil-Rami,8dbff17c,Valencia,"2,970",33.0,9.0,0.0,41,4.0,939,Valencia
+,Roberto Soldado,es ESP,FW,32,29,4.0,17.0,2011-2012,/en/players/9d66fbe3/Roberto-Soldado,9d66fbe3,Valencia,"2,441",27.1,11.0,0.0,41,1.0,46,Valencia
+,Jordi Alba,es ESP,"DF,MF",32,27,5.0,2.0,2011-2012,/en/players/4601e194/Jordi-Alba,4601e194,Valencia,"2,543",28.3,13.0,1.0,41,1.0,928,Valencia
+,Jérémy Mathieu,fr FRA,DF,31,27,2.0,0.0,2011-2012,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Valencia,"2,350",26.1,5.0,0.0,41,4.0,927,Valencia
+,Vicente Guaita,es ESP,GK,26,26,0.0,0.0,2011-2012,/en/players/ab13a5aa/Vicente-Guaita,b13a5aa,Valencia,"2,340",26.0,1.0,0.0,41,1.0,923,Valencia
+,Sofiane Feghouli,dz ALG,"FW,MF",30,25,5.0,6.0,2011-2012,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Valencia,"2,080",23.1,8.0,1.0,41,37.0,938,Valencia
+,Jonas,br BRA,FW,34,23,4.0,10.0,2011-2012,/en/players/9bcd6455/Jonas,9bcd6455,Valencia,"2,095",23.3,4.0,0.0,41,2.0,937,Valencia
+,Tino Costa,ar ARG,MF,27,22,3.0,5.0,2011-2012,/en/players/8f747a86/Tino-Costa,8f747a86,Valencia,"2,029",22.5,12.0,1.0,41,5.0,936,Valencia
+,Víctor Ruiz,es ESP,"DF,MF",22,22,0.0,0.0,2011-2012,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Valencia,"1,960",21.8,7.0,0.0,41,1.0,940,Valencia
+,Pablo Hernández,es ESP,"FW,MF",30,19,3.0,2.0,2011-2012,/en/players/c0398aca/Pablo-Hernandez,c0398aca,Valencia,"1,786",19.8,5.0,0.0,41,1.0,906,Valencia
+,David Albelda,es ESP,"DF,MF",21,19,0.0,0.0,2011-2012,/en/players/def14f68/David-Albelda,def14f68,Valencia,"1,586",17.6,10.0,1.0,41,1.0,866,Valencia
+,Antonio Barragán,es ESP,"DF,MF",18,15,0.0,0.0,2011-2012,/en/players/487d9b09/Antonio-Barragan,487d9b09,Valencia,"1,417",15.7,6.0,0.0,41,1.0,414,Valencia
+,Pablo Piatti,ar ARG,"FW,MF",30,14,2.0,2.0,2011-2012,/en/players/48e89655/Pablo-Piatti,48e89655,Valencia,"1,231",13.7,3.0,0.0,41,5.0,941,Valencia
+,Mehmet Topal,tr TUR,"DF,MF",20,13,0.0,0.0,2011-2012,/en/players/f93c876b/Mehmet-Topal,f93c876b,Valencia,"1,287",14.3,4.0,0.0,41,15.0,933,Valencia
+,Éver Banega,ar ARG,MF,13,13,1.0,0.0,2011-2012,/en/players/fa937f7a/Ever-Banega,fa937f7a,Valencia,"1,053",11.7,3.0,0.0,41,5.0,916,Valencia
+,Diego Alves,br BRA,GK,12,12,0.0,0.0,2011-2012,/en/players/12421a7c/Diego-Alves,12421a7c,Valencia,"1,080",12.0,3.0,0.0,41,2.0,942,Valencia
+,Daniel Parejo,es ESP,MF,16,12,0.0,0.0,2011-2012,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,999,11.1,4.0,0.0,41,1.0,75,Valencia
+,Aritz Aduriz,es ESP,FW,29,11,1.0,7.0,2011-2012,/en/players/293211e1/Aritz-Aduriz,293211e1,Valencia,"1,302",14.5,5.0,1.0,41,1.0,934,Valencia
+,Ricardo Costa,pt POR,DF,12,11,0.0,0.0,2011-2012,/en/players/cd7325e1/Ricardo-Costa,cd7325e1,Valencia,"1,010",11.2,4.0,1.0,41,3.0,932,Valencia
+,Ángel Dealbert,es ESP,DF,11,11,0.0,0.0,2011-2012,/en/players/8242a7ad/Angel-Dealbert,8242a7ad,Valencia,990,11.0,1.0,0.0,41,1.0,926,Valencia
+,Miguel Monteiro,pt POR,DF,11,11,1.0,1.0,2011-2012,/en/players/930ef69d/Miguel-Monteiro,930ef69d,Valencia,923,10.3,3.0,0.0,41,3.0,899,Valencia
+,Bruno,es ESP,DF,14,11,1.0,0.0,2011-2012,/en/players/78803d03/Bruno,78803d03,Valencia,893,9.9,5.0,0.0,41,1.0,925,Valencia
+,Sergio Canales,es ESP,MF,11,6,2.0,1.0,2011-2012,/en/players/a6de370d/Sergio-Canales,6de370d,Valencia,571,6.3,1.0,0.0,41,1.0,93,Valencia
+,Hedwiges Maduro,nl NED,"DF,MF",7,4,0.0,0.0,2011-2012,/en/players/5918cc84/Hedwiges-Maduro,5918cc84,Valencia,394,4.4,1.0,0.0,41,11.0,915,Valencia
+,Juan Bernat,es ESP,"DF,FW",7,2,0.0,0.0,2011-2012,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Valencia,190,2.1,0.0,0.0,41,1.0,943,Valencia
+,Paco Alcácer,es ESP,FW,3,0,0.0,0.0,2011-2012,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Valencia,40,0.4,0.0,0.0,41,1.0,944,Valencia
+,﻿Roberto Soldado,es ESP,FW,35,33,5.0,24.0,2012-2013,/en/players/9d66fbe3/Roberto-Soldado,9d66fbe3,Valencia,"2,919",32.4,10.0,0.0,41,1.0,46,Valencia
+,Jonas,br BRA,FW,35,30,3.0,13.0,2012-2013,/en/players/9bcd6455/Jonas,9bcd6455,Valencia,"2,399",26.7,5.0,2.0,41,2.0,937,Valencia
+,João Pereira,pt POR,"DF,MF",30,28,4.0,0.0,2012-2013,/en/players/aefd0c5b/Joao-Pereira,fd0c5b,Valencia,"2,502",27.8,9.0,0.0,41,3.0,945,Valencia
+,Andrés Guardado,mx MEX,"DF,FW",32,26,3.0,1.0,2012-2013,/en/players/ef322658/Andres-Guardado,f322658,Valencia,"2,365",26.3,6.0,0.0,41,20.0,422,Valencia
+,Tino Costa,ar ARG,MF,31,26,5.0,1.0,2012-2013,/en/players/8f747a86/Tino-Costa,8f747a86,Valencia,"2,271",25.2,7.0,1.0,41,5.0,936,Valencia
+,Ricardo Costa,pt POR,DF,26,25,0.0,4.0,2012-2013,/en/players/cd7325e1/Ricardo-Costa,cd7325e1,Valencia,"2,157",24.0,10.0,2.0,41,3.0,932,Valencia
+,Diego Alves,br BRA,GK,24,24,0.0,0.0,2012-2013,/en/players/12421a7c/Diego-Alves,12421a7c,Valencia,"2,160",24.0,0.0,0.0,41,2.0,942,Valencia
+,Adil Rami,fr FRA,DF,25,24,2.0,0.0,2012-2013,/en/players/8dbff17c/Adil-Rami,8dbff17c,Valencia,"2,076",23.1,6.0,1.0,41,4.0,939,Valencia
+,Sofiane Feghouli,dz ALG,"FW,MF",27,23,6.0,3.0,2012-2013,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Valencia,"2,102",23.4,8.0,1.0,41,37.0,938,Valencia
+,Éver Banega,ar ARG,MF,29,22,4.0,4.0,2012-2013,/en/players/fa937f7a/Ever-Banega,fa937f7a,Valencia,"1,983",22.0,6.0,0.0,41,5.0,916,Valencia
+,Daniel Parejo,es ESP,MF,27,20,3.0,1.0,2012-2013,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"1,971",21.9,10.0,0.0,41,1.0,75,Valencia
+,Aly Cissokho,fr FRA,DF,25,18,2.0,2.0,2012-2013,/en/players/83a2bb30/Aly-Cissokho,83a2bb30,Valencia,"1,691",18.8,6.0,1.0,41,4.0,946,Valencia
+,Víctor Ruiz,es ESP,"DF,MF",26,17,2.0,0.0,2012-2013,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Valencia,"1,640",18.2,7.0,0.0,41,1.0,940,Valencia
+,Jérémy Mathieu,fr FRA,DF,17,16,0.0,1.0,2012-2013,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Valencia,"1,417",15.7,4.0,0.0,41,4.0,927,Valencia
+,David Albelda,es ESP,"DF,MF",18,16,0.0,0.0,2012-2013,/en/players/def14f68/David-Albelda,def14f68,Valencia,"1,188",13.2,11.0,0.0,41,1.0,866,Valencia
+,Vicente Guaita,es ESP,GK,14,14,0.0,0.0,2012-2013,/en/players/ab13a5aa/Vicente-Guaita,b13a5aa,Valencia,"1,260",14.0,1.0,0.0,41,1.0,923,Valencia
+,Fernando Gago,ar ARG,MF,13,11,0.0,0.0,2012-2013,/en/players/e86337bd/Fernando-Gago,86337bd,Valencia,898,10.0,2.0,0.0,41,5.0,58,Valencia
+,Pablo Piatti,ar ARG,"FW,MF",14,10,2.0,1.0,2012-2013,/en/players/48e89655/Pablo-Piatti,48e89655,Valencia,828,9.2,4.0,0.0,41,5.0,941,Valencia
+,Antonio Barragán,es ESP,"DF,MF",14,9,0.0,0.0,2012-2013,/en/players/487d9b09/Antonio-Barragan,487d9b09,Valencia,927,10.3,4.0,0.0,41,1.0,414,Valencia
+,Jonathan Viera,es ESP,"FW,MF",17,7,3.0,2.0,2012-2013,/en/players/efa708aa/Jonathan-Viera,fa708aa,Valencia,772,8.6,2.0,0.0,41,1.0,947,Valencia
+,Sergio Canales,es ESP,MF,13,7,2.0,2.0,2012-2013,/en/players/a6de370d/Sergio-Canales,6de370d,Valencia,570,6.3,1.0,0.0,41,1.0,93,Valencia
+,Nelson Valdez,py PAR,FW,28,6,0.0,6.0,2012-2013,/en/players/040d8500/Nelson-Valdez,040d8500,Valencia,785,8.7,4.0,0.0,41,43.0,948,Valencia
+,Juan Bernat,es ESP,"DF,FW",12,6,2.0,0.0,2012-2013,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Valencia,502,5.6,1.0,0.0,41,1.0,943,Valencia
+,﻿Jérémy Mathieu,fr FRA,DF,32,32,0.0,3.0,2013-2014,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Valencia,"2,817",31.3,7.0,1.0,41,4.0,927,Valencia
+,Daniel Parejo,es ESP,MF,31,28,5.0,4.0,2013-2014,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"2,410",26.8,7.0,0.0,41,1.0,75,Valencia
+,Diego Alves,br BRA,GK,27,27,0.0,0.0,2013-2014,/en/players/12421a7c/Diego-Alves,12421a7c,Valencia,"2,280",25.3,3.0,0.0,41,2.0,942,Valencia
+,Juan Bernat,es ESP,"DF,FW",32,26,2.0,1.0,2013-2014,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Valencia,"2,493",27.7,2.0,0.0,41,1.0,943,Valencia
+,Javi Fuego,es ESP,MF,27,25,0.0,2.0,2013-2014,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Valencia,"2,220",24.7,6.0,0.0,41,1.0,949,Valencia
+,Jonas,br BRA,FW,31,23,1.0,10.0,2013-2014,/en/players/9bcd6455/Jonas,9bcd6455,Valencia,"2,097",23.3,4.0,0.0,41,2.0,937,Valencia
+,João Pereira,pt POR,"DF,MF",25,23,2.0,0.0,2013-2014,/en/players/aefd0c5b/Joao-Pereira,fd0c5b,Valencia,"2,076",23.1,7.0,0.0,41,3.0,945,Valencia
+,Sofiane Feghouli,dz ALG,"FW,MF",32,22,8.0,4.0,2013-2014,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Valencia,"2,066",23.0,4.0,0.0,41,37.0,938,Valencia
+,Ricardo Costa,pt POR,DF,20,20,0.0,3.0,2013-2014,/en/players/cd7325e1/Ricardo-Costa,cd7325e1,Valencia,"1,710",19.0,7.0,1.0,41,3.0,932,Valencia
+,Paco Alcácer,es ESP,FW,23,17,2.0,6.0,2013-2014,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Valencia,"1,531",17.0,5.0,0.0,41,1.0,944,Valencia
+,Antonio Barragán,es ESP,"DF,MF",20,17,3.0,0.0,2013-2014,/en/players/487d9b09/Antonio-Barragan,487d9b09,Valencia,"1,493",16.6,3.0,2.0,41,1.0,414,Valencia
+,Federico Cartabia,ar ARG,MF,25,16,1.0,0.0,2013-2014,/en/players/a8e6bebf/Federico-Cartabia,8e6bebf,Valencia,"1,410",15.7,4.0,0.0,41,5.0,507,Valencia
+,Éver Banega,ar ARG,MF,18,14,3.0,1.0,2013-2014,/en/players/fa937f7a/Ever-Banega,fa937f7a,Valencia,"1,149",12.8,6.0,0.0,41,5.0,916,Valencia
+,Pablo Piatti,ar ARG,"FW,MF",17,13,2.0,5.0,2013-2014,/en/players/48e89655/Pablo-Piatti,48e89655,Valencia,"1,110",12.3,3.0,0.0,41,5.0,941,Valencia
+,Eduardo Vargas,cl CHI,"FW,MF",17,13,1.0,3.0,2013-2014,/en/players/bd603c00/Eduardo-Vargas,bd603c00,Valencia,"1,098",12.2,3.0,0.0,41,31.0,950,Valencia
+,Andrés Guardado,mx MEX,"DF,FW",16,12,0.0,0.0,2013-2014,/en/players/ef322658/Andres-Guardado,f322658,Valencia,"1,045",11.6,3.0,0.0,41,20.0,422,Valencia
+,Vicente Guaita,es ESP,GK,13,11,0.0,0.0,2013-2014,/en/players/ab13a5aa/Vicente-Guaita,b13a5aa,Valencia,"1,140",12.7,1.0,0.0,41,1.0,923,Valencia
+,Oriol Romeu,es ESP,MF,13,11,0.0,0.0,2013-2014,/en/players/4b511457/Oriol-Romeu,4b511457,Valencia,999,11.1,3.0,0.0,41,1.0,951,Valencia
+,Dorlan Pabón,co COL,"FW,MF",13,11,0.0,3.0,2013-2014,/en/players/4eb45683/Dorlan-Pabon,4eb45683,Valencia,901,10.0,0.0,0.0,41,19.0,952,Valencia
+,Hélder Postiga,pt POR,FW,15,9,0.0,3.0,2013-2014,/en/players/c8504093/Helder-Postiga,c8504093,Valencia,856,9.5,1.0,0.0,41,3.0,495,Valencia
+,Seydou Keita,ml MLI,MF,11,9,0.0,1.0,2013-2014,/en/players/500c4e9b/Seydou-Keita,500c4e9b,Valencia,756,8.4,4.0,0.0,41,12.0,1121,Valencia
+,Víctor Ruiz,es ESP,"DF,MF",11,8,0.0,1.0,2013-2014,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Valencia,775,8.6,3.0,0.0,41,1.0,940,Valencia
+,Sergio Canales,es ESP,MF,19,7,2.0,0.0,2013-2014,/en/players/a6de370d/Sergio-Canales,6de370d,Valencia,835,9.3,1.0,0.0,41,1.0,93,Valencia
+,Philippe Senderos,ch SUI,DF,8,7,0.0,0.0,2013-2014,/en/players/b1d82fc2/Philippe-Senderos,b1d82fc2,Valencia,659,7.3,4.0,0.0,41,39.0,953,Valencia
+,Míchel,es ESP,MF,13,6,2.0,0.0,2013-2014,/en/players/418f8f61/Michel,418f8f61,Valencia,537,6.0,3.0,0.0,41,1.0,450,Valencia
+,Rúben Vezo,pt POR,DF,8,5,0.0,1.0,2013-2014,/en/players/c67cd65c/Ruben-Vezo,c67cd65c,Valencia,490,5.4,0.0,0.0,41,3.0,954,Valencia
+,Adil Rami,fr FRA,DF,3,3,0.0,0.0,2013-2014,/en/players/8dbff17c/Adil-Rami,8dbff17c,Valencia,270,3.0,1.0,0.0,41,4.0,939,Valencia
+,José Luis Gayà,es ESP,"DF,MF",1,1,0.0,0.0,2013-2014,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,90,1.0,0.0,0.0,41,1.0,955,Valencia
+,Jonathan Viera,es ESP,"FW,MF",1,1,0.0,0.0,2013-2014,/en/players/efa708aa/Jonathan-Viera,fa708aa,Valencia,77,0.9,0.0,0.0,41,1.0,947,Valencia
+,Portu,es ESP,"FW,MF",1,1,0.0,0.0,2013-2014,/en/players/1bda5842/Portu,1bda5842,Valencia,68,0.8,1.0,0.0,41,1.0,338,Valencia
+,Vinícius Araújo,br BRA,FW,6,0,1.0,0.0,2013-2014,/en/players/5d6b9376/Vinicius-Araujo,5d6b9376,Valencia,105,1.2,0.0,0.0,41,2.0,956,Valencia
+,﻿Diego Alves,br BRA,GK,37,37,0.0,0.0,2014-2015,/en/players/12421a7c/Diego-Alves,12421a7c,Valencia,"3,311",36.8,4.0,0.0,41,2.0,942,Valencia
+,Nicolás Otamendi,ar ARG,DF,35,35,0.0,6.0,2014-2015,/en/players/0d267745/Nicolas-Otamendi,0d267745,Valencia,"3,098",34.4,9.0,1.0,41,5.0,957,Valencia
+,Javi Fuego,es ESP,MF,35,34,1.0,3.0,2014-2015,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Valencia,"2,998",33.3,9.0,1.0,41,1.0,949,Valencia
+,Daniel Parejo,es ESP,MF,34,33,5.0,12.0,2014-2015,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"2,917",32.4,14.0,1.0,41,1.0,75,Valencia
+,Shkodran Mustafi,de GER,DF,33,33,0.0,4.0,2014-2015,/en/players/3f2d59fe/Shkodran-Mustafi,3f2d59fe,Valencia,"2,910",32.3,8.0,0.0,41,13.0,958,Valencia
+,José Luis Gayà,es ESP,"DF,MF",35,32,6.0,1.0,2014-2015,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"2,918",32.4,10.0,0.0,41,1.0,955,Valencia
+,Antonio Barragán,es ESP,"DF,MF",34,32,3.0,1.0,2014-2015,/en/players/487d9b09/Antonio-Barragan,487d9b09,Valencia,"2,845",31.6,8.0,0.0,41,1.0,414,Valencia
+,André Gomes,pt POR,MF,33,31,1.0,4.0,2014-2015,/en/players/1961b2aa/Andre-Gomes,1961b2aa,Valencia,"2,539",28.2,9.0,1.0,41,3.0,959,Valencia
+,Paco Alcácer,es ESP,FW,32,26,5.0,11.0,2014-2015,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Valencia,"2,155",23.9,2.0,1.0,41,1.0,944,Valencia
+,Pablo Piatti,ar ARG,"FW,MF",28,26,6.0,7.0,2014-2015,/en/players/48e89655/Pablo-Piatti,48e89655,Valencia,"1,879",20.9,2.0,0.0,41,5.0,941,Valencia
+,Rodrigo,es ESP,"FW,MF",31,24,5.0,3.0,2014-2015,/en/players/1fb1c435/Rodrigo,1fb1c435,Valencia,"2,072",23.0,6.0,2.0,41,1.0,960,Valencia
+,Sofiane Feghouli,dz ALG,"FW,MF",33,20,6.0,6.0,2014-2015,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Valencia,"1,928",21.4,5.0,0.0,41,37.0,938,Valencia
+,Álvaro Negredo,es ESP,FW,30,14,4.0,5.0,2014-2015,/en/players/63b0ca6b/Alvaro-Negredo,63b0ca6b,Valencia,"1,549",17.2,4.0,0.0,41,1.0,961,Valencia
+,Enzo Pérez,ar ARG,MF,14,12,1.0,0.0,2014-2015,/en/players/6d27cfc2/Enzo-Perez,6d27cfc2,Valencia,"1,033",11.5,7.0,0.0,41,5.0,962,Valencia
+,Lucas Orbán,ar ARG,DF,22,8,1.0,1.0,2014-2015,/en/players/8ff1d70e/Lucas-Orban,8ff1d70e,Valencia,910,10.1,4.0,0.0,41,5.0,963,Valencia
+,Rodrigo De Paul,ar ARG,"FW,MF",25,6,4.0,1.0,2014-2015,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Valencia,743,8.3,3.0,1.0,41,5.0,964,Valencia
+,Rúben Vezo,pt POR,DF,7,6,0.0,0.0,2014-2015,/en/players/c67cd65c/Ruben-Vezo,c67cd65c,Valencia,556,6.2,0.0,0.0,41,3.0,954,Valencia
+,João Cancelo,pt POR,"DF,MF",10,5,0.0,0.0,2014-2015,/en/players/bd6351cd/Joao-Cancelo,bd6351cd,Valencia,525,5.8,2.0,1.0,41,3.0,965,Valencia
+,Carles Gil,es ESP,"FW,MF",8,2,0.0,1.0,2014-2015,/en/players/11c30a46/Carles-Gil,11c30a46,Valencia,276,3.1,0.0,0.0,41,1.0,519,Valencia
+,Filipe Augusto,br BRA,MF,6,1,0.0,0.0,2014-2015,/en/players/0e34de55/Filipe-Augusto,0e34de55,Valencia,149,1.7,2.0,0.0,41,2.0,966,Valencia
+,Yoel,es ESP,GK,2,1,0.0,0.0,2014-2015,/en/players/61bb7498/Yoel,61bb7498,Valencia,109,1.2,0.0,0.0,41,1.0,727,Valencia
+,Robert Ibáñez,es ESP,"FW,MF",4,0,0.0,0.0,2014-2015,/en/players/c7429db3/Robert-Ibanez,c7429db3,Valencia,46,0.5,0.0,0.0,41,1.0,967,Valencia
+,Bruno Zuculini,ar ARG,MF,1,0,0.0,0.0,2014-2015,/en/players/17cddb4d/Bruno-Zuculini,17cddb4d,Valencia,45,0.5,0.0,0.0,41,5.0,968,Valencia
+,Tropi,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/50f1ed37/Tropi,50f1ed37,Valencia,2,0.0,0.0,0.0,41,1.0,969,Valencia
+,Salva Ruiz,es ESP,DF,0,0,,,2014-2015,/en/players/e36f9794/Salva-Ruiz,36f9794,Valencia,,,,,41,1.0,565,Valencia
+,﻿Daniel Parejo,es ESP,MF,33,30,5.0,8.0,2015-2016,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"2,734",30.4,8.0,0.0,41,1.0,75,Valencia
+,Shkodran Mustafi,de GER,DF,30,30,0.0,2.0,2015-2016,/en/players/3f2d59fe/Shkodran-Mustafi,3f2d59fe,Valencia,"2,681",29.8,12.0,0.0,41,13.0,958,Valencia
+,André Gomes,pt POR,MF,30,27,3.0,2.0,2015-2016,/en/players/1961b2aa/Andre-Gomes,1961b2aa,Valencia,"2,375",26.4,10.0,0.0,41,3.0,959,Valencia
+,Paco Alcácer,es ESP,FW,34,25,6.0,13.0,2015-2016,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Valencia,"2,419",26.9,2.0,0.0,41,1.0,944,Valencia
+,João Cancelo,pt POR,"DF,FW",28,25,4.0,1.0,2015-2016,/en/players/bd6351cd/Joao-Cancelo,bd6351cd,Valencia,"2,118",23.5,7.0,1.0,41,3.0,965,Valencia
+,Javi Fuego,es ESP,MF,26,23,0.0,0.0,2015-2016,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Valencia,"2,044",22.7,12.0,1.0,41,1.0,949,Valencia
+,Aymen Abdennour,tn TUN,DF,22,22,0.0,0.0,2015-2016,/en/players/2f798b41/Aymen-Abdennour,2f798b41,Valencia,"1,851",20.6,4.0,0.0,41,46.0,970,Valencia
+,Antonio Barragán,es ESP,DF,24,19,0.0,0.0,2015-2016,/en/players/487d9b09/Antonio-Barragan,487d9b09,Valencia,"1,658",18.4,7.0,1.0,41,1.0,414,Valencia
+,Santi Mina,es ESP,"FW,MF",27,19,1.0,4.0,2015-2016,/en/players/0b90bb97/Santi-Mina,0b90bb97,Valencia,"1,652",18.4,2.0,0.0,41,1.0,758,Valencia
+,Jaume Doménech,es ESP,GK,17,17,0.0,0.0,2015-2016,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,"1,530",17.0,0.0,0.0,41,1.0,971,Valencia
+,Aderlan Santos,br BRA,DF,17,17,0.0,0.0,2015-2016,/en/players/847e4cd8/Aderlan-Santos,847e4cd8,Valencia,"1,519",16.9,2.0,1.0,41,2.0,972,Valencia
+,Danilo Barbosa,br BRA,MF,19,16,0.0,0.0,2015-2016,/en/players/0557ff4f/Danilo-Barbosa,0557ff4f,Valencia,"1,362",15.1,4.0,0.0,41,2.0,973,Valencia
+,Enzo Pérez,ar ARG,MF,20,16,0.0,0.0,2015-2016,/en/players/6d27cfc2/Enzo-Perez,6d27cfc2,Valencia,"1,258",14.0,10.0,0.0,41,5.0,962,Valencia
+,José Luis Gayà,es ESP,DF,20,15,0.0,0.0,2015-2016,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"1,442",16.0,7.0,1.0,41,1.0,955,Valencia
+,Rodrigo,es ESP,"FW,MF",25,15,3.0,2.0,2015-2016,/en/players/1fb1c435/Rodrigo,1fb1c435,Valencia,"1,365",15.2,1.0,1.0,41,1.0,960,Valencia
+,Guilherme Siqueira,br BRA,DF,14,14,0.0,0.0,2015-2016,/en/players/3770a135/Guilherme-Siqueira,3770a135,Valencia,"1,093",12.1,1.0,0.0,41,2.0,974,Valencia
+,Sofiane Feghouli,dz ALG,"FW,MF",21,13,1.0,1.0,2015-2016,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Valencia,"1,262",14.0,3.0,0.0,41,37.0,938,Valencia
+,Diego Alves,br BRA,GK,13,13,0.0,0.0,2015-2016,/en/players/12421a7c/Diego-Alves,12421a7c,Valencia,"1,170",13.0,1.0,0.0,41,2.0,942,Valencia
+,Álvaro Negredo,es ESP,FW,25,12,1.0,5.0,2015-2016,/en/players/63b0ca6b/Alvaro-Negredo,63b0ca6b,Valencia,"1,157",12.9,0.0,0.0,41,1.0,961,Valencia
+,Rúben Vezo,pt POR,DF,15,10,0.0,0.0,2015-2016,/en/players/c67cd65c/Ruben-Vezo,c67cd65c,Valencia,"1,087",12.1,2.0,0.0,41,3.0,954,Valencia
+,Pablo Piatti,ar ARG,"FW,MF",21,9,0.0,0.0,2015-2016,/en/players/48e89655/Pablo-Piatti,48e89655,Valencia,793,8.8,3.0,0.0,41,5.0,941,Valencia
+,Mathew Ryan,au AUS,GK,8,8,0.0,0.0,2015-2016,/en/players/4535e4bb/Mathew-Ryan,4535e4bb,Valencia,720,8.0,0.0,0.0,41,42.0,356,Valencia
+,Rodrigo De Paul,ar ARG,"MF,FW",9,6,0.0,0.0,2015-2016,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Valencia,521,5.8,3.0,0.0,41,5.0,964,Valencia
+,Lucas Orbán,ar ARG,DF,7,6,0.0,0.0,2015-2016,/en/players/8ff1d70e/Lucas-Orban,8ff1d70e,Valencia,521,5.8,4.0,1.0,41,5.0,963,Valencia
+,Denis Cheryshev,ru RUS,"MF,FW",7,6,0.0,3.0,2015-2016,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Valencia,478,5.3,2.0,0.0,41,23.0,137,Valencia
+,Zakaria Bakkali,be BEL,"MF,FW",16,4,3.0,1.0,2015-2016,/en/players/ec3efd7f/Zakaria-Bakkali,c3efd7f,Valencia,566,6.3,1.0,0.0,41,27.0,532,Valencia
+,Wilfried Zahibo,cf CTA,MF,2,2,0.0,0.0,2015-2016,/en/players/784ec3de/Wilfried-Zahibo,784ec3de,Valencia,134,1.5,1.0,0.0,41,73.0,975,Valencia
+,Sito,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/59504479/Sito,59504479,Valencia,52,0.6,0.0,0.0,41,1.0,976,Valencia
+,Fran Villalba,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/0d2603b5/Fran-Villalba,0d2603b5,Valencia,4,0.0,1.0,0.0,41,1.0,977,Valencia
+,Tropi,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/50f1ed37/Tropi,50f1ed37,Valencia,3,0.0,0.0,0.0,41,1.0,969,Valencia
+,Diego Caballo Alonso,es ESP,DF,0,0,,,2015-2016,/en/players/2f4848f5/Diego-Caballo-Alonso,2f4848f5,Valencia,,,,,41,1.0,548,Valencia
+,Ibrahim Diallo,ml MLI,DF,0,0,,,2015-2016,/en/players/26cab774/Ibrahim-Diallo,26cab774,Valencia,,,,,41,12.0,978,Valencia
+,Nacho Gil,es ESP,MF,0,0,,,2015-2016,/en/players/87ec1a2a/Nacho-Gil,87ec1a2a,Valencia,,,,,41,1.0,979,Valencia
+,Toni Lato,es ESP,DF,0,0,,,2015-2016,/en/players/8e088e04/Toni-Lato,8e088e04,Valencia,,,,,41,1.0,980,Valencia
+,Rafa Mir,es ESP,FW,0,0,,,2015-2016,/en/players/bbf5c11b/Rafa-Mir,bbf5c11b,Valencia,,,,,41,1.0,981,Valencia
+,Carlos Soler,es ESP,MF,0,0,,,2015-2016,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,,,,,41,1.0,982,Valencia
+,Yoel,es ESP,GK,0,0,,,2015-2016,/en/players/61bb7498/Yoel,61bb7498,Valencia,,,,,41,1.0,727,Valencia
+,﻿Daniel Parejo,es ESP,MF,36,36,8.0,5.0,2016-2017,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"3,192",35.5,12.0,0.0,41,1.0,75,Valencia
+,Diego Alves,br BRA,GK,33,33,0.0,0.0,2016-2017,/en/players/12421a7c/Diego-Alves,12421a7c,Valencia,"2,970",33.0,4.0,0.0,41,2.0,942,Valencia
+,Eliaquim Mangala,fr FRA,DF,30,30,0.0,2.0,2016-2017,/en/players/f520049f/Eliaquim-Mangala,f520049f,Valencia,"2,644",29.4,11.0,1.0,41,4.0,983,Valencia
+,João Cancelo,pt POR,"DF,MF",35,27,4.0,1.0,2016-2017,/en/players/bd6351cd/Joao-Cancelo,bd6351cd,Valencia,"2,428",27.0,6.0,1.0,41,3.0,965,Valencia
+,Ezequiel Garay,ar ARG,DF,27,27,0.0,4.0,2016-2017,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Valencia,"2,338",26.0,7.0,0.0,41,5.0,84,Valencia
+,Martín Montoya,es ESP,DF,29,26,1.0,2.0,2016-2017,/en/players/5cec2487/Martin-Montoya,5cec2487,Valencia,"2,219",24.7,7.0,0.0,41,1.0,984,Valencia
+,Enzo Pérez,ar ARG,MF,27,26,1.0,0.0,2016-2017,/en/players/6d27cfc2/Enzo-Perez,6d27cfc2,Valencia,"2,190",24.3,14.0,1.0,41,5.0,962,Valencia
+,José Luis Gayà,es ESP,DF,27,24,2.0,1.0,2016-2017,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"2,089",23.2,4.0,0.0,41,1.0,955,Valencia
+,Munir El Haddadi,ma MAR,"FW,MF",33,22,3.0,6.0,2016-2017,/en/players/8696bc90/Munir-El-Haddadi,8696bc90,Valencia,"2,031",22.6,5.0,1.0,41,26.0,985,Valencia
+,Nani,pt POR,"MF,FW",25,22,8.0,5.0,2016-2017,/en/players/15e9c7e6/Nani,15e9c7e6,Valencia,"1,867",20.7,6.0,0.0,41,3.0,986,Valencia
+,Carlos Soler,es ESP,MF,23,19,1.0,3.0,2016-2017,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,"1,723",19.1,4.0,1.0,41,1.0,982,Valencia
+,Mario Suárez,es ESP,MF,21,17,0.0,3.0,2016-2017,/en/players/7106f0a0/Mario-Suarez,7106f0a0,Valencia,"1,496",16.6,3.0,0.0,41,1.0,689,Valencia
+,Rodrigo,es ESP,"FW,MF",19,17,3.0,5.0,2016-2017,/en/players/1fb1c435/Rodrigo,1fb1c435,Valencia,"1,387",15.4,1.0,0.0,41,1.0,960,Valencia
+,Simone Zaza,it ITA,FW,20,15,1.0,6.0,2016-2017,/en/players/9592289a/Simone-Zaza,9592289a,Valencia,"1,377",15.3,7.0,0.0,41,9.0,987,Valencia
+,Santi Mina,es ESP,"FW,MF",29,13,2.0,6.0,2016-2017,/en/players/0b90bb97/Santi-Mina,0b90bb97,Valencia,"1,410",15.7,2.0,0.0,41,1.0,758,Valencia
+,Fabián Orellana,cl CHI,"MF,FW",16,13,1.0,1.0,2016-2017,/en/players/c90977db/Fabian-Orellana,c90977db,Valencia,"1,137",12.6,4.0,1.0,41,31.0,745,Valencia
+,Aderlan Santos,br BRA,DF,12,11,0.0,0.0,2016-2017,/en/players/847e4cd8/Aderlan-Santos,847e4cd8,Valencia,"1,000",11.1,1.0,0.0,41,2.0,972,Valencia
+,Álvaro Medrán,es ESP,MF,16,10,0.0,2.0,2016-2017,/en/players/31223bcf/Alvaro-Medran,31223bcf,Valencia,950,10.6,3.0,0.0,41,1.0,126,Valencia
+,Aymen Abdennour,tn TUN,DF,13,9,0.0,0.0,2016-2017,/en/players/2f798b41/Aymen-Abdennour,2f798b41,Valencia,879,9.8,4.0,0.0,41,46.0,970,Valencia
+,Guilherme Siqueira,br BRA,"DF,MF",10,7,1.0,0.0,2016-2017,/en/players/3770a135/Guilherme-Siqueira,3770a135,Valencia,540,6.0,2.0,0.0,41,2.0,974,Valencia
+,Toni Lato,es ESP,DF,8,4,1.0,0.0,2016-2017,/en/players/8e088e04/Toni-Lato,8e088e04,Valencia,483,5.4,2.0,0.0,41,1.0,980,Valencia
+,Jaume Doménech,es ESP,GK,3,3,0.0,0.0,2016-2017,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,270,3.0,0.0,0.0,41,1.0,971,Valencia
+,Mathew Ryan,au AUS,GK,2,2,0.0,0.0,2016-2017,/en/players/4535e4bb/Mathew-Ryan,4535e4bb,Valencia,180,2.0,0.0,0.0,41,42.0,356,Valencia
+,Federico Cartabia,ar ARG,"MF,FW",4,2,0.0,0.0,2016-2017,/en/players/a8e6bebf/Federico-Cartabia,8e6bebf,Valencia,152,1.7,0.0,0.0,41,5.0,507,Valencia
+,Zakaria Bakkali,be BEL,FW,18,1,0.0,1.0,2016-2017,/en/players/ec3efd7f/Zakaria-Bakkali,c3efd7f,Valencia,288,3.2,2.0,0.0,41,27.0,532,Valencia
+,Paco Alcácer,es ESP,FW,1,1,0.0,0.0,2016-2017,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Valencia,90,1.0,0.0,0.0,41,1.0,944,Valencia
+,Rúben Vezo,pt POR,DF,1,1,1.0,0.0,2016-2017,/en/players/c67cd65c/Ruben-Vezo,c67cd65c,Valencia,45,0.5,0.0,0.0,41,3.0,954,Valencia
+,Shkodran Mustafi,de GER,DF,1,0,0.0,0.0,2016-2017,/en/players/3f2d59fe/Shkodran-Mustafi,3f2d59fe,Valencia,45,0.5,0.0,0.0,41,13.0,958,Valencia
+,Rafa Mir,es ESP,FW,2,0,0.0,0.0,2016-2017,/en/players/bbf5c11b/Rafa-Mir,bbf5c11b,Valencia,7,0.1,0.0,0.0,41,1.0,981,Valencia
+,Nacho Gil,es ESP,MF,2,0,0.0,0.0,2016-2017,/en/players/87ec1a2a/Nacho-Gil,87ec1a2a,Valencia,4,0.0,0.0,0.0,41,1.0,979,Valencia
+,Sito,es ESP,MF,1,0,0.0,0.0,2016-2017,/en/players/59504479/Sito,59504479,Valencia,3,0.0,0.0,0.0,41,1.0,976,Valencia
+,Vinícius Araújo,br BRA,FW,0,0,,,2016-2017,/en/players/5d6b9376/Vinicius-Araujo,5d6b9376,Valencia,,,,,41,2.0,956,Valencia
+,Robert Ibáñez,es ESP,"FW,MF",0,0,,,2016-2017,/en/players/c7429db3/Robert-Ibanez,c7429db3,Valencia,,,,,41,1.0,967,Valencia
+,Eugeni Valderrama,es ESP,MF,0,0,,,2016-2017,/en/players/a75b4071/Eugeni-Valderrama,75b4071,Valencia,,,,,41,1.0,988,Valencia
+,Nacho Vidal,es ESP,DF,0,0,,,2016-2017,/en/players/3a9c4b7b/Nacho-Vidal,3a9c4b7b,Valencia,,,,,41,1.0,989,Valencia
+,﻿Daniel Parejo,es ESP,MF,34,34,7.0,7.0,2017-2018,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"3,001",33.3,15.0,1.0,41,1.0,75,Valencia
+,Neto,br BRA,GK,33,33,0.0,0.0,2017-2018,/en/players/a9dc785c/Neto,9dc785c,Valencia,"2,970",33.0,2.0,0.0,41,2.0,990,Valencia
+,José Luis Gayà,es ESP,DF,34,33,3.0,0.0,2017-2018,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"2,916",32.4,11.0,0.0,41,1.0,955,Valencia
+,Rodrigo,es ESP,FW,37,31,4.0,16.0,2017-2018,/en/players/1fb1c435/Rodrigo,1fb1c435,Valencia,"2,684",29.8,4.0,0.0,41,1.0,960,Valencia
+,Geoffrey Kondogbia,cf CTA,MF,31,30,4.0,4.0,2017-2018,/en/players/cce181df/Geoffrey-Kondogbia,cce181df,Valencia,"2,614",29.0,12.0,1.0,41,73.0,991,Valencia
+,Gabriel Paulista,br BRA,DF,30,29,0.0,0.0,2017-2018,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Valencia,"2,584",28.7,6.0,1.0,41,2.0,992,Valencia
+,Gonçalo Guedes,pt POR,MF,33,27,9.0,5.0,2017-2018,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Valencia,"2,439",27.1,2.0,0.0,41,3.0,993,Valencia
+,Carlos Soler,es ESP,MF,33,27,4.0,1.0,2017-2018,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,"2,365",26.3,4.0,0.0,41,1.0,982,Valencia
+,Martín Montoya,es ESP,DF,25,24,4.0,0.0,2017-2018,/en/players/5cec2487/Martin-Montoya,5cec2487,Valencia,"2,152",23.9,7.0,0.0,41,1.0,984,Valencia
+,Simone Zaza,it ITA,FW,33,23,1.0,13.0,2017-2018,/en/players/9592289a/Simone-Zaza,9592289a,Valencia,"2,077",23.1,9.0,1.0,41,9.0,987,Valencia
+,Ezequiel Garay,ar ARG,DF,24,23,0.0,0.0,2017-2018,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Valencia,"2,028",22.5,5.0,0.0,41,5.0,84,Valencia
+,Rúben Vezo,pt POR,DF,19,17,0.0,0.0,2017-2018,/en/players/c67cd65c/Ruben-Vezo,c67cd65c,Valencia,"1,555",17.3,2.0,1.0,41,3.0,954,Valencia
+,Santi Mina,es ESP,FW,32,17,2.0,12.0,2017-2018,/en/players/0b90bb97/Santi-Mina,0b90bb97,Valencia,"1,554",17.3,4.0,0.0,41,1.0,758,Valencia
+,Jeison Murillo,co COL,DF,17,15,0.0,0.0,2017-2018,/en/players/b233e8e4/Jeison-Murillo,b233e8e4,Valencia,"1,374",15.3,4.0,0.0,41,19.0,816,Valencia
+,Andreas Pereira,br BRA,MF,23,12,3.0,1.0,2017-2018,/en/players/6639e500/Andreas-Pereira,6639e500,Valencia,"1,078",12.0,5.0,0.0,41,2.0,994,Valencia
+,Toni Lato,es ESP,"DF,MF",16,9,1.0,0.0,2017-2018,/en/players/8e088e04/Toni-Lato,8e088e04,Valencia,797,8.9,4.0,0.0,41,1.0,980,Valencia
+,Francis Coquelin,fr FRA,"MF,DF",9,7,0.0,1.0,2017-2018,/en/players/a6951bf8/Francis-Coquelin,6951bf8,Valencia,657,7.3,2.0,0.0,41,4.0,995,Valencia
+,Nemanja Maksimović,rs SRB,MF,15,6,0.0,0.0,2017-2018,/en/players/00b28772/Nemanja-Maksimovic,00b28772,Valencia,557,6.2,1.0,0.0,41,28.0,996,Valencia
+,Luciano Vietto,ar ARG,FW,14,5,1.0,2.0,2017-2018,/en/players/2513a588/Luciano-Vietto,2513a588,Valencia,528,5.9,1.0,0.0,41,5.0,997,Valencia
+,Jaume Doménech,es ESP,GK,5,5,0.0,0.0,2017-2018,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,450,5.0,2.0,0.0,41,1.0,971,Valencia
+,Nacho Vidal,es ESP,DF,7,5,0.0,1.0,2017-2018,/en/players/3a9c4b7b/Nacho-Vidal,3a9c4b7b,Valencia,447,5.0,1.0,0.0,41,1.0,989,Valencia
+,Ferrán Torres,es ESP,MF,13,2,1.0,0.0,2017-2018,/en/players/9e1035f8/Ferran-Torres,9e1035f8,Valencia,311,3.5,0.0,0.0,41,1.0,998,Valencia
+,Nacho Gil,es ESP,MF,6,2,1.0,0.0,2017-2018,/en/players/87ec1a2a/Nacho-Gil,87ec1a2a,Valencia,229,2.5,0.0,0.0,41,1.0,979,Valencia
+,João Cancelo,pt POR,MF,1,1,0.0,0.0,2017-2018,/en/players/bd6351cd/Joao-Cancelo,bd6351cd,Valencia,90,1.0,0.0,0.0,41,3.0,965,Valencia
+,Álvaro Medrán,es ESP,MF,1,1,0.0,0.0,2017-2018,/en/players/31223bcf/Alvaro-Medran,31223bcf,Valencia,72,0.8,0.0,0.0,41,1.0,126,Valencia
+,Robert Ibáñez,es ESP,"FW,MF",0,0,,,2017-2018,/en/players/c7429db3/Robert-Ibanez,c7429db3,Valencia,,,,,41,1.0,967,Valencia
+,Javier Jiménez García,es ESP,DF,0,0,,,2017-2018,/en/players/f30d7505/Javier-Jimenez-Garcia,f30d7505,Valencia,,,,,41,1.0,999,Valencia
+,Fabián Orellana,cl CHI,"FW,MF",0,0,,,2017-2018,/en/players/c90977db/Fabian-Orellana,c90977db,Valencia,,,,,41,31.0,745,Valencia
+,Gonzalo Villar,es ESP,MF,0,0,,,2017-2018,/en/players/bdc74a8f/Gonzalo-Villar,bdc74a8f,Valencia,,,,,41,1.0,1000,Valencia
+,﻿José Luis Gayà,es ESP,DF,35,35,1.0,1.0,2018-2019,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"3,137",34.9,10.0,0.0,41,1.0,955,Valencia
+,Daniel Parejo,es ESP,MF,36,35,7.0,9.0,2018-2019,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"3,061",34.0,5.0,1.0,41,1.0,75,Valencia
+,Neto,br BRA,GK,34,34,0.0,0.0,2018-2019,/en/players/a9dc785c/Neto,9dc785c,Valencia,"3,060",34.0,2.0,0.0,41,2.0,990,Valencia
+,Gabriel Paulista,br BRA,DF,30,30,1.0,0.0,2018-2019,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Valencia,"2,623",29.1,6.0,0.0,41,2.0,992,Valencia
+,Rodrigo,es ESP,FW,33,29,6.0,8.0,2018-2019,/en/players/1fb1c435/Rodrigo,1fb1c435,Valencia,"2,528",28.1,5.0,1.0,41,1.0,960,Valencia
+,Carlos Soler,es ESP,MF,31,27,6.0,2.0,2018-2019,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,"2,460",27.3,9.0,0.0,41,1.0,982,Valencia
+,Daniel Wass,dk DEN,"DF,MF",32,26,3.0,1.0,2018-2019,/en/players/d83bbc54/Daniel-Wass,d83bbc54,Valencia,"2,354",26.2,4.0,0.0,41,7.0,778,Valencia
+,Ezequiel Garay,ar ARG,DF,24,24,0.0,2.0,2018-2019,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Valencia,"2,136",23.7,4.0,0.0,41,5.0,84,Valencia
+,Santi Mina,es ESP,FW,30,23,5.0,7.0,2018-2019,/en/players/0b90bb97/Santi-Mina,0b90bb97,Valencia,"1,852",20.6,4.0,0.0,41,1.0,758,Valencia
+,Cristiano Piccini,it ITA,DF,23,21,0.0,1.0,2018-2019,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Valencia,"1,868",20.8,3.0,0.0,41,9.0,1001,Valencia
+,Francis Coquelin,fr FRA,MF,26,20,1.0,0.0,2018-2019,/en/players/a6951bf8/Francis-Coquelin,6951bf8,Valencia,"1,761",19.6,5.0,0.0,41,4.0,995,Valencia
+,Denis Cheryshev,ru RUS,MF,27,19,2.0,2.0,2018-2019,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Valencia,"1,706",19.0,2.0,0.0,41,23.0,137,Valencia
+,Gonçalo Guedes,pt POR,"MF,FW",25,18,3.0,5.0,2018-2019,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Valencia,"1,465",16.3,2.0,0.0,41,3.0,993,Valencia
+,Kévin Gameiro,fr FRA,FW,33,16,1.0,6.0,2018-2019,/en/players/42276181/Kevin-Gameiro,42276181,Valencia,"1,612",17.9,1.0,0.0,41,4.0,1002,Valencia
+,Mouctar Diakhaby,gn GUI,DF,22,16,0.0,2.0,2018-2019,/en/players/d2110326/Mouctar-Diakhaby,d2110326,Valencia,"1,580",17.6,9.0,0.0,41,74.0,1003,Valencia
+,Geoffrey Kondogbia,cf CTA,MF,19,14,1.0,1.0,2018-2019,/en/players/cce181df/Geoffrey-Kondogbia,cce181df,Valencia,"1,245",13.8,1.0,0.0,41,73.0,991,Valencia
+,Ferrán Torres,es ESP,MF,24,8,1.0,2.0,2018-2019,/en/players/9e1035f8/Ferran-Torres,9e1035f8,Valencia,850,9.4,5.0,0.0,41,1.0,998,Valencia
+,Facundo Roncaglia,ar ARG,DF,7,7,0.0,0.0,2018-2019,/en/players/51e3954c/Facundo-Roncaglia,51e3954c,Valencia,601,6.7,5.0,1.0,41,5.0,784,Valencia
+,Michy Batshuayi,be BEL,FW,15,4,0.0,1.0,2018-2019,/en/players/2973d8ff/Michy-Batshuayi,2973d8ff,Valencia,527,5.9,3.0,0.0,41,27.0,1004,Valencia
+,Jaume Doménech,es ESP,GK,4,4,0.0,0.0,2018-2019,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,360,4.0,0.0,0.0,41,1.0,971,Valencia
+,Toni Lato,es ESP,DF,4,3,0.0,0.0,2018-2019,/en/players/8e088e04/Toni-Lato,8e088e04,Valencia,270,3.0,1.0,0.0,41,1.0,980,Valencia
+,Rúben Vezo,pt POR,DF,4,2,0.0,0.0,2018-2019,/en/players/c67cd65c/Ruben-Vezo,c67cd65c,Valencia,196,2.2,2.0,0.0,41,3.0,954,Valencia
+,Rubén Sobrino,es ESP,"FW,MF",4,2,0.0,0.0,2018-2019,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Valencia,193,2.1,1.0,0.0,41,1.0,1005,Valencia
+,Jeison Murillo,co COL,DF,1,1,0.0,0.0,2018-2019,/en/players/b233e8e4/Jeison-Murillo,b233e8e4,Valencia,90,1.0,0.0,0.0,41,19.0,816,Valencia
+,Lee Kangin,kr KOR,"MF,FW",3,0,0.0,0.0,2018-2019,/en/players/8455ad90/Lee-Kangin,8455ad90,Valencia,24,0.3,1.0,0.0,41,30.0,1006,Valencia
+,Cristian,es ESP,GK,0,0,,,2018-2019,/en/players/9ad74b4d/Cristian,9ad74b4d,Valencia,,,,,41,1.0,1007,Valencia
+,Fran Navarro,es ESP,FW,0,0,,,2018-2019,/en/players/02a5618e/Fran-Navarro,02a5618e,Valencia,,,,,41,1.0,1008,Valencia
+,Uroš Račić,rs SRB,MF,0,0,,,2018-2019,/en/players/faed84db/Uros-Racic,faed84db,Valencia,,,,,41,28.0,1009,Valencia
+,Sito,es ESP,MF,0,0,,,2018-2019,/en/players/59504479/Sito,59504479,Valencia,,,,,41,1.0,976,Valencia
+,﻿Daniel Parejo,es ESP,MF,35,35,3.0,8.0,2019-2020,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Valencia,"3,024",33.6,6.0,1.0,41,1.0,75,Valencia
+,Gabriel Paulista,br BRA,DF,33,31,1.0,1.0,2019-2020,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Valencia,"2,801",31.1,5.0,0.0,41,2.0,992,Valencia
+,Daniel Wass,dk DEN,"DF,MF",35,30,6.0,1.0,2019-2020,/en/players/d83bbc54/Daniel-Wass,d83bbc54,Valencia,"2,733",30.4,7.0,0.0,41,7.0,778,Valencia
+,Ferrán Torres,es ESP,MF,34,26,5.0,4.0,2019-2020,/en/players/9e1035f8/Ferran-Torres,9e1035f8,Valencia,"2,251",25.0,5.0,0.0,41,1.0,998,Valencia
+,Maxi Gómez,uy URU,FW,33,25,2.0,10.0,2019-2020,/en/players/4c2e9442/Maxi-Gomez,4c2e9442,Valencia,"2,143",23.8,5.0,0.0,41,8.0,792,Valencia
+,Jasper Cillessen,nl NED,GK,24,24,1.0,0.0,2019-2020,/en/players/04ac8285/Jasper-Cillessen,04ac8285,Valencia,"2,096",23.3,1.0,0.0,41,11.0,1010,Valencia
+,Carlos Soler,es ESP,MF,28,24,0.0,2.0,2019-2020,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,"2,066",23.0,4.0,0.0,41,1.0,982,Valencia
+,José Luis Gayà,es ESP,DF,24,23,1.0,0.0,2019-2020,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"1,988",22.1,5.0,0.0,41,1.0,955,Valencia
+,Rodrigo,es ESP,FW,27,23,7.0,4.0,2019-2020,/en/players/1fb1c435/Rodrigo,1fb1c435,Valencia,"1,880",20.9,2.0,1.0,41,1.0,960,Valencia
+,Francis Coquelin,fr FRA,MF,26,21,0.0,0.0,2019-2020,/en/players/a6951bf8/Francis-Coquelin,6951bf8,Valencia,"1,905",21.2,8.0,1.0,41,4.0,995,Valencia
+,Geoffrey Kondogbia,cf CTA,MF,27,21,1.0,1.0,2019-2020,/en/players/cce181df/Geoffrey-Kondogbia,cce181df,Valencia,"1,807",20.1,5.0,0.0,41,73.0,991,Valencia
+,Kévin Gameiro,fr FRA,FW,29,17,2.0,6.0,2019-2020,/en/players/42276181/Kevin-Gameiro,42276181,Valencia,"1,581",17.6,0.0,0.0,41,4.0,1002,Valencia
+,Ezequiel Garay,ar ARG,DF,17,17,0.0,0.0,2019-2020,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Valencia,"1,437",16.0,2.0,0.0,41,5.0,84,Valencia
+,Mouctar Diakhaby,gn GUI,DF,21,15,0.0,0.0,2019-2020,/en/players/d2110326/Mouctar-Diakhaby,d2110326,Valencia,"1,444",16.0,5.0,0.0,41,74.0,1003,Valencia
+,Jaume Costa,es ESP,DF,19,15,1.0,0.0,2019-2020,/en/players/808d48f3/Jaume-Costa,808d48f3,Valencia,"1,389",15.4,2.0,1.0,41,1.0,1011,Valencia
+,Jaume Doménech,es ESP,GK,15,14,0.0,0.0,2019-2020,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,"1,324",14.7,1.0,0.0,41,1.0,971,Valencia
+,Gonçalo Guedes,pt POR,"MF,FW",21,14,2.0,2.0,2019-2020,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Valencia,"1,266",14.1,3.0,0.0,41,3.0,993,Valencia
+,Denis Cheryshev,ru RUS,MF,24,9,2.0,1.0,2019-2020,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Valencia,926,10.3,5.0,0.0,41,23.0,137,Valencia
+,Alessandro Florenzi,it ITA,DF,12,9,0.0,0.0,2019-2020,/en/players/e288d4b3/Alessandro-Florenzi,288d4b3,Valencia,752,8.4,1.0,1.0,41,9.0,1012,Valencia
+,Eliaquim Mangala,fr FRA,DF,8,8,0.0,0.0,2019-2020,/en/players/f520049f/Eliaquim-Mangala,f520049f,Valencia,673,7.5,3.0,1.0,41,4.0,983,Valencia
+,Hugo Guillamón,es ESP,DF,6,5,0.0,0.0,2019-2020,/en/players/f7c12fbf/Hugo-Guillamon,f7c12fbf,Valencia,495,5.5,3.0,0.0,41,1.0,1013,Valencia
+,Lee Kangin,kr KOR,"MF,FW",17,3,0.0,2.0,2019-2020,/en/players/8455ad90/Lee-Kangin,8455ad90,Valencia,454,5.0,1.0,2.0,41,30.0,1006,Valencia
+,Manu Vallejo,es ESP,"MF,FW",11,3,0.0,2.0,2019-2020,/en/players/0bc4e720/Manu-Vallejo,0bc4e720,Valencia,418,4.6,0.0,0.0,41,1.0,1014,Valencia
+,Thierry Correia,pt POR,DF,4,3,0.0,0.0,2019-2020,/en/players/c78b352d/Thierry-Correia,c78b352d,Valencia,259,2.9,0.0,0.0,41,3.0,1015,Valencia
+,Rubén Sobrino,es ESP,"FW,MF",13,1,0.0,1.0,2019-2020,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Valencia,170,1.9,0.0,0.0,41,1.0,1005,Valencia
+,Adrián Guerrero,es ESP,DF,2,1,0.0,0.0,2019-2020,/en/players/58a3a572/Adrian-Guerrero,58a3a572,Valencia,126,1.4,1.0,0.0,41,1.0,1016,Valencia
+,Cristiano Piccini,it ITA,DF,2,1,0.0,0.0,2019-2020,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Valencia,75,0.8,0.0,0.0,41,9.0,1001,Valencia
+,Vicente Esquerdo,es ESP,"MF,FW",3,0,0.0,0.0,2019-2020,/en/players/ced26057/Vicente-Esquerdo,ced26057,Valencia,15,0.2,0.0,0.0,41,1.0,1017,Valencia
+,Cristian,es ESP,GK,0,0,,,2019-2020,/en/players/9ad74b4d/Cristian,9ad74b4d,Valencia,,,,,41,1.0,1007,Valencia
+,Pablo Gozalbez,es ESP,MF,0,0,,,2019-2020,/en/players/f33b6ee6/Pablo-Gozalbez,f33b6ee6,Valencia,,,,,41,1.0,1018,Valencia
+,Javier Jiménez García,es ESP,DF,0,0,,,2019-2020,/en/players/f30d7505/Javier-Jimenez-Garcia,f30d7505,Valencia,,,,,41,1.0,999,Valencia
+,Koba Koindredi,fr FRA,MF,0,0,,,2019-2020,/en/players/3a58d075/Koba-Koindredi,3a58d075,Valencia,,,,,41,4.0,1019,Valencia
+,﻿Daniel Wass,dk DEN,"MF,DF",35,35,1.0,4.0,2020-2021,/en/players/d83bbc54/Daniel-Wass,d83bbc54,Valencia,"2,979",33.1,8.0,0.0,41,7.0,778,Valencia
+,José Luis Gayà,es ESP,DF,33,32,7.0,1.0,2020-2021,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"2,846",31.6,6.0,0.0,41,1.0,955,Valencia
+,Carlos Soler,es ESP,MF,32,31,8.0,11.0,2020-2021,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,"2,735",30.4,7.0,0.0,41,1.0,982,Valencia
+,Gabriel Paulista,br BRA,DF,31,31,1.0,4.0,2020-2021,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Valencia,"2,716",30.2,6.0,0.0,41,2.0,992,Valencia
+,Maxi Gómez,uy URU,FW,31,31,1.0,7.0,2020-2021,/en/players/4c2e9442/Maxi-Gomez,4c2e9442,Valencia,"2,689",29.9,7.0,1.0,41,8.0,792,Valencia
+,Jaume Doménech,es ESP,GK,28,28,0.0,0.0,2020-2021,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,"2,520",28.0,1.0,0.0,41,1.0,971,Valencia
+,Gonçalo Guedes,pt POR,"MF,FW",31,27,5.0,5.0,2020-2021,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Valencia,"2,287",25.4,3.0,1.0,41,3.0,993,Valencia
+,Uroš Račić,rs SRB,MF,31,25,1.0,1.0,2020-2021,/en/players/faed84db/Uros-Racic,faed84db,Valencia,"2,187",24.3,6.0,0.0,41,28.0,1009,Valencia
+,Thierry Correia,pt POR,DF,29,25,1.0,1.0,2020-2021,/en/players/c78b352d/Thierry-Correia,c78b352d,Valencia,"2,137",23.7,6.0,1.0,41,3.0,1015,Valencia
+,Mouctar Diakhaby,gn GUI,DF,26,24,0.0,1.0,2020-2021,/en/players/d2110326/Mouctar-Diakhaby,d2110326,Valencia,"2,079",23.1,4.0,1.0,41,74.0,1003,Valencia
+,Hugo Guillamón,es ESP,DF,25,21,0.0,1.0,2020-2021,/en/players/f7c12fbf/Hugo-Guillamon,f7c12fbf,Valencia,"1,988",22.1,8.0,0.0,41,1.0,1013,Valencia
+,Yunus Musah,us USA,MF,32,17,0.0,1.0,2020-2021,/en/players/b51b1b9c/Yunus-Musah,b51b1b9c,Valencia,"1,530",17.0,2.0,0.0,41,75.0,1020,Valencia
+,Lee Kangin,kr KOR,"FW,MF",24,15,4.0,0.0,2020-2021,/en/players/8455ad90/Lee-Kangin,8455ad90,Valencia,"1,262",14.0,1.0,0.0,41,30.0,1006,Valencia
+,Denis Cheryshev,ru RUS,MF,21,13,3.0,0.0,2020-2021,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Valencia,"1,101",12.2,3.0,0.0,41,23.0,137,Valencia
+,Kévin Gameiro,fr FRA,FW,27,10,1.0,4.0,2020-2021,/en/players/42276181/Kevin-Gameiro,42276181,Valencia,"1,077",12.0,0.0,0.0,41,4.0,1002,Valencia
+,Jasper Cillessen,nl NED,GK,10,10,0.0,0.0,2020-2021,/en/players/04ac8285/Jasper-Cillessen,04ac8285,Valencia,900,10.0,0.0,0.0,41,11.0,1010,Valencia
+,Manu Vallejo,es ESP,"FW,MF",30,9,0.0,5.0,2020-2021,/en/players/0bc4e720/Manu-Vallejo,0bc4e720,Valencia,950,10.6,2.0,0.0,41,1.0,1014,Valencia
+,Toni Lato,es ESP,DF,15,8,0.0,1.0,2020-2021,/en/players/8e088e04/Toni-Lato,8e088e04,Valencia,728,8.1,3.0,0.0,41,1.0,980,Valencia
+,Alejandro Blanco,es ESP,MF,13,6,0.0,1.0,2020-2021,/en/players/c4dce677/Alejandro-Blanco,c4dce677,Valencia,580,6.4,1.0,0.0,41,1.0,1021,Valencia
+,Geoffrey Kondogbia,cf CTA,MF,5,5,0.0,0.0,2020-2021,/en/players/cce181df/Geoffrey-Kondogbia,cce181df,Valencia,440,4.9,1.0,0.0,41,73.0,991,Valencia
+,Jason,es ESP,"MF,DF",17,4,0.0,0.0,2020-2021,/en/players/9038c2a1/Jason,9038c2a1,Valencia,441,4.9,4.0,1.0,41,1.0,1022,Valencia
+,Eliaquim Mangala,fr FRA,DF,7,4,0.0,0.0,2020-2021,/en/players/f520049f/Eliaquim-Mangala,f520049f,Valencia,321,3.6,1.0,0.0,41,4.0,983,Valencia
+,Vicente Esquerdo,es ESP,MF,4,3,0.0,0.0,2020-2021,/en/players/ced26057/Vicente-Esquerdo,ced26057,Valencia,231,2.6,1.0,0.0,41,1.0,1017,Valencia
+,Francisco Reis Ferreira,pt POR,DF,3,2,0.0,0.0,2020-2021,/en/players/4b3c863f/Francisco-Reis-Ferreira,4b3c863f,Valencia,181,2.0,0.0,0.0,41,3.0,1023,Valencia
+,Christian Oliva,uy URU,MF,9,1,2.0,0.0,2020-2021,/en/players/d3b888e3/Christian-Oliva,d3b888e3,Valencia,198,2.2,0.0,0.0,41,8.0,1024,Valencia
+,Guillem Molina,es ESP,DF,2,1,0.0,0.0,2020-2021,/en/players/0bbab654/Guillem-Molina,0bbab654,Valencia,153,1.7,1.0,0.0,41,1.0,1025,Valencia
+,Patrick Cutrone,it ITA,FW,7,0,0.0,0.0,2020-2021,/en/players/a4fe8cda/Patrick-Cutrone,4fe8cda,Valencia,108,1.2,0.0,0.0,41,9.0,1026,Valencia
+,Cristiano Piccini,it ITA,DF,3,0,0.0,0.0,2020-2021,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Valencia,67,0.7,0.0,0.0,41,9.0,1001,Valencia
+,Rubén Sobrino,es ESP,"MF,FW",5,0,0.0,0.0,2020-2021,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Valencia,49,0.5,0.0,0.0,41,1.0,1005,Valencia
+,Koba Koindredi,fr FRA,MF,2,0,0.0,0.0,2020-2021,/en/players/3a58d075/Koba-Koindredi,3a58d075,Valencia,15,0.2,0.0,0.0,41,4.0,1019,Valencia
+,Álex Centelles,es ESP,DF,0,0,,,2020-2021,/en/players/ae852b7d/Alex-Centelles,852b7d,Valencia,,,,,41,1.0,1027,Valencia
+,Cristian,es ESP,GK,0,0,,,2020-2021,/en/players/9ad74b4d/Cristian,9ad74b4d,Valencia,,,,,41,1.0,1007,Valencia
+,Etxebarría,es ESP,GK,0,0,,,2020-2021,/en/players/5c56ca54/Etxebarria,5c56ca54,Valencia,,,,,41,1.0,1028,Valencia
+,Jesus Vazquez,es ESP,DF,0,0,,,2020-2021,/en/players/106c142c/Jesus-Vazquez,106c142c,Valencia,,,,,41,1.0,1029,Valencia
+,﻿Gonçalo Guedes,pt POR,"FW,MF",36,30,6.0,11.0,2021-2022,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Valencia,"2,606",29.0,3.0,0.0,41,3.0,993,Valencia
+,Carlos Soler,es ESP,MF,32,28,5.0,11.0,2021-2022,/en/players/fed17f5a/Carlos-Soler,fed17f5a,Valencia,"2,474",27.5,4.0,0.0,41,1.0,982,Valencia
+,Omar Alderete,py PAR,DF,29,28,0.0,2.0,2021-2022,/en/players/bb08bce9/Omar-Alderete,bb08bce9,Valencia,"2,403",26.7,15.0,0.0,41,43.0,1030,Valencia
+,Hugo Guillamón,es ESP,"MF,DF",31,28,0.0,1.0,2021-2022,/en/players/f7c12fbf/Hugo-Guillamon,f7c12fbf,Valencia,"2,361",26.2,11.0,2.0,41,1.0,1013,Valencia
+,Dimitri Foulquier,fr FRA,DF,29,25,1.0,0.0,2021-2022,/en/players/45e17712/Dimitri-Foulquier,45e17712,Valencia,"2,342",26.0,11.0,0.0,41,4.0,1031,Valencia
+,José Luis Gayà,es ESP,DF,24,22,4.0,2.0,2021-2022,/en/players/b05e2dbd/Jose-Luis-Gaya,b05e2dbd,Valencia,"1,871",20.8,8.0,2.0,41,1.0,955,Valencia
+,Hugo Duro,es ESP,"FW,MF",30,22,1.0,7.0,2021-2022,/en/players/37e103f8/Hugo-Duro,37e103f8,Valencia,"1,834",20.4,3.0,1.0,41,1.0,177,Valencia
+,Maxi Gómez,uy URU,FW,29,21,1.0,5.0,2021-2022,/en/players/4c2e9442/Maxi-Gomez,4c2e9442,Valencia,"1,956",21.7,7.0,1.0,41,8.0,792,Valencia
+,Mouctar Diakhaby,gn GUI,DF,29,21,1.0,0.0,2021-2022,/en/players/d2110326/Mouctar-Diakhaby,d2110326,Valencia,"1,948",21.6,11.0,0.0,41,74.0,1003,Valencia
+,Gabriel Paulista,br BRA,DF,19,19,1.0,2.0,2021-2022,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Valencia,"1,592",17.7,2.0,0.0,41,2.0,992,Valencia
+,Daniel Wass,dk DEN,MF,19,19,1.0,1.0,2021-2022,/en/players/d83bbc54/Daniel-Wass,d83bbc54,Valencia,"1,582",17.6,6.0,0.0,41,7.0,778,Valencia
+,Giorgi Mamardashvili,ge GEO,GK,18,18,0.0,0.0,2021-2022,/en/players/d4b73232/Giorgi-Mamardashvili,d4b73232,Valencia,"1,620",18.0,2.0,0.0,41,76.0,1032,Valencia
+,Thierry Correia,pt POR,DF,19,18,1.0,0.0,2021-2022,/en/players/c78b352d/Thierry-Correia,c78b352d,Valencia,"1,414",15.7,5.0,0.0,41,3.0,1015,Valencia
+,Jasper Cillessen,nl NED,GK,17,17,1.0,0.0,2021-2022,/en/players/04ac8285/Jasper-Cillessen,04ac8285,Valencia,"1,457",16.2,1.0,0.0,41,11.0,1010,Valencia
+,Yunus Musah,us USA,"MF,FW",29,13,0.0,1.0,2021-2022,/en/players/b51b1b9c/Yunus-Musah,b51b1b9c,Valencia,"1,259",14.0,5.0,0.0,41,75.0,1020,Valencia
+,Uroš Račić,rs SRB,MF,28,13,0.0,0.0,2021-2022,/en/players/faed84db/Uros-Racic,faed84db,Valencia,"1,206",13.4,3.0,1.0,41,28.0,1009,Valencia
+,Hélder Costa,ao ANG,"MF,FW",22,13,1.0,0.0,2021-2022,/en/players/f13d02a6/Helder-Costa,f13d02a6,Valencia,"1,118",12.4,3.0,0.0,41,48.0,498,Valencia
+,Ilaix Moriba,gn GUI,MF,14,9,0.0,0.0,2021-2022,/en/players/f4c69aa6/Ilaix-Moriba,f4c69aa6,Valencia,818,9.1,9.0,1.0,41,74.0,1033,Valencia
+,Bryan,es ESP,"MF,FW",13,9,1.0,0.0,2021-2022,/en/players/7b5ab7f2/Bryan,7b5ab7f2,Valencia,753,8.4,3.0,0.0,41,1.0,1034,Valencia
+,Maranhão,br BRA,"FW,MF",29,8,3.0,1.0,2021-2022,/en/players/ae86d473/Maranhao,86d473,Valencia,973,10.8,3.0,0.0,41,2.0,1035,Valencia
+,Jesus Vazquez,es ESP,DF,15,8,0.0,0.0,2021-2022,/en/players/106c142c/Jesus-Vazquez,106c142c,Valencia,813,9.0,0.0,0.0,41,1.0,1029,Valencia
+,Toni Lato,es ESP,DF,11,7,1.0,0.0,2021-2022,/en/players/8e088e04/Toni-Lato,8e088e04,Valencia,590,6.6,5.0,0.0,41,1.0,980,Valencia
+,Denis Cheryshev,ru RUS,MF,17,5,1.0,0.0,2021-2022,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Valencia,563,6.3,1.0,0.0,41,23.0,137,Valencia
+,Eray Cömert,ch SUI,DF,8,5,0.0,0.0,2021-2022,/en/players/15937e17/Eray-Comert,15937e17,Valencia,408,4.5,2.0,0.0,41,39.0,1036,Valencia
+,Jaume Doménech,es ESP,GK,4,3,0.0,0.0,2021-2022,/en/players/c9cb972b/Jaume-Domenech,c9cb972b,Valencia,343,3.8,1.0,0.0,41,1.0,971,Valencia
+,Cristiano Piccini,it ITA,DF,6,3,0.0,1.0,2021-2022,/en/players/32c0491f/Cristiano-Piccini,32c0491f,Valencia,322,3.6,1.0,0.0,41,9.0,1001,Valencia
+,Cristhian Mosquera,co COL,DF,6,3,0.0,0.0,2021-2022,/en/players/dc1ce4f5/Cristhian-Mosquera,dc1ce4f5,Valencia,212,2.4,1.0,0.0,41,19.0,1037,Valencia
+,Koba Koindredi,fr FRA,MF,10,1,0.0,0.0,2021-2022,/en/players/3a58d075/Koba-Koindredi,3a58d075,Valencia,181,2.0,1.0,0.0,41,4.0,1019,Valencia
+,Ruben Lendinez,es ESP,DF,4,1,0.0,0.0,2021-2022,/en/players/755da865/Ruben-Lendinez,755da865,Valencia,137,1.5,2.0,0.0,41,1.0,1038,Valencia
+,Jason,es ESP,"MF,DF",5,1,0.0,0.0,2021-2022,/en/players/9038c2a1/Jason,9038c2a1,Valencia,75,0.8,2.0,0.0,41,1.0,1022,Valencia
+,Manu Vallejo,es ESP,"FW,MF",9,0,0.0,0.0,2021-2022,/en/players/0bc4e720/Manu-Vallejo,0bc4e720,Valencia,98,1.1,3.0,0.0,41,1.0,1014,Valencia
+,Jesús Santiago,es ESP,MF,3,0,0.0,0.0,2021-2022,/en/players/bc49fd34/Jesus-Santiago,bc49fd34,Valencia,82,0.9,0.0,0.0,41,1.0,90005,Valencia
+,Mario Dominguez,es ESP,FW,2,0,0.0,0.0,2021-2022,/en/players/d709cd5c/Mario-Dominguez,d709cd5c,Valencia,25,0.3,0.0,0.0,41,1.0,1039,Valencia
+,Rubén Sobrino,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Valencia,14,0.2,0.0,0.0,41,1.0,1005,Valencia
+,Pedro Alemañ,es ESP,MF,0,0,,,2021-2022,/en/players/f0ac14b1/Pedro-Aleman,f0ac14b1,Valencia,,,,,41,1.0,1040,Valencia
+,Alejandro Blanco,es ESP,MF,0,0,,,2021-2022,/en/players/c4dce677/Alejandro-Blanco,c4dce677,Valencia,,,,,41,1.0,1021,Valencia
+,Alessandro Burlamaqui,pe PER,MF,0,0,,,2021-2022,/en/players/2ae026d4/Alessandro-Burlamaqui,2ae026d4,Valencia,,,,,41,57.0,1041,Valencia
+,Cristian,es ESP,GK,0,0,,,2021-2022,/en/players/9ad74b4d/Cristian,9ad74b4d,Valencia,,,,,41,1.0,1007,Valencia
+,Hugo González,es ESP,MF,0,0,,,2021-2022,/en/players/2cfb6e88/Hugo-Gonzalez,2cfb6e88,Valencia,,,,,41,1.0,1042,Valencia
+,Javier Guerra,es ESP,MF,0,0,,,2021-2022,/en/players/3828f130/Javier-Guerra,3828f130,Valencia,,,,,41,1.0,1043,Valencia
+,José Menargues ,es ESP,DF,0,0,,,2021-2022,/en/players/f601ba27/Jose-Menargues,f601ba27,Valencia,,,,,41,1.0,1044,Valencia
+,Diego Noguerol,es ESP,DF,0,0,,,2021-2022,/en/players/c487901c/Diego-Noguerol,c487901c,Valencia,,,,,41,1.0,1045,Valencia
+,Charlie Perez,es ESP,GK,0,0,,,2021-2022,/en/players/7f638fc5/Charlie-Perez,7f638fc5,Valencia,,,,,41,1.0,1046,Valencia
+,Lassina Sangare,ci CIV,MF,0,0,,,2021-2022,/en/players/4428c0fc/Lassina-Sangare,4428c0fc,Valencia,,,,,41,35.0,1047,Valencia
+,César Tárrega,es ESP,DF,0,0,,,2021-2022,/en/players/59c29820/Cesar-Tarrega,59c29820,Valencia,,,,,41,1.0,1048,Valencia

@@ -1,117 +1,265 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-5386.0,﻿Baiano,/en/players/26a7618d/Baiano,Baiano,26a7618d,br BRA,"DF,MF",Las-Palmas
-5387.0,Javi Martel,/en/players/f5db3525/Javi-Martel,Javi-Mart,f5db3525,es ESP,DF,Las-Palmas
-5388.0,Bo Braastrup Andersen,/en/players/1947dd0d/Bo-Braastrup-Andersen,Bo-Braastrup-And,1947dd0d,dk DEN,GK,Las-Palmas
-5389.0,Ildefons Lima,/en/players/e4f64f08/Ildefons-Lima,Ildefons-Lim,4f64f08,ad AND,DF,Las-Palmas
-5390.0,Orlando Suárez,/en/players/ed1316be/Orlando-Suarez,Orlando-Suarez,d1316be,es ESP,FW,Las-Palmas
-5391.0,Álex,/en/players/4512fa60/Alex,Alex,4512fa60,es ESP,MF,Las-Palmas
-5392.0,Edier Frejd,/en/players/7727127b/Edier-Frejd,Edier-Frejd,7727127b,se SWE,DF,Las-Palmas
-5393.0,Alain N'Kong,/en/players/bc8192a1/Alain-NKong,Alain-NKong,bc8192a1,cm CMR,"FW,MF",Las-Palmas
-5394.0,Rafael Maceratesi,/en/players/97868bb0/Rafael-Maceratesi,Rafael-Maceratesi,97868bb0,ar ARG,FW,Las-Palmas
-5395.0,Željko Cicović,/en/players/62803fde/Zeljko-Cicovic,Zeljko-Cicovic,62803fde,rs SRB,GK,Las-Palmas
-5396.0,José Silvano,/en/players/a735acbb/Jose-Silvano,Jose-Silvano,735acbb,es ESP,MF,Las-Palmas
-5397.0,Juan Carlos Socorro,/en/players/45588437/Juan-Carlos-Socorro,Juan-Carlos-Socorro,45588437,ve VEN,MF,Las-Palmas
-5398.0,Miguel Ángel Molina,/en/players/f0a68573/Miguel-Angel-Molina,Miguel-Angel-Moli,f0a68573,pe PER,FW,Las-Palmas
-5399.0,Guillermo Castro,/en/players/7f3d2662/Guillermo-Castro,Guillermo-Castro,7f3d2662,es ESP,DF,Las-Palmas
-5400.0,Mariano Bogliacino,/en/players/ab028814/Mariano-Bogliacino,Mariano-Bogliacino,b028814,uy URU,MF,Las-Palmas
-5401.0,Sanel Jahić,/en/players/60e95fa4/Sanel-Jahic,Sanel-Jahic,60e95fa4,ba BIH,"DF,FW",Las-Palmas
-5402.0,Gastón Sessa,/en/players/0a798ba0/Gaston-Sessa,Gaston-S,0a798ba0,ar ARG,GK,Las-Palmas
-5403.0,Nicolás Frutos,/en/players/0fc7518c/Nicolas-Frutos,Nicolas-Fruto,0fc7518c,ar ARG,FW,Las-Palmas
-5404.0,Janne Hietanen,/en/players/f386d256/Janne-Hietanen,Janne-Hiet,f386d256,fi FIN,DF,Las-Palmas
-5405.0,Matheus Vivian,/en/players/72a87101/Matheus-Vivian,Matheus-Vivi,72a87101,br BRA,DF,Las-Palmas
-5406.0,David García,/en/players/1250086e/David-Garcia,David-Garci,1250086e,es ESP,DF,Las-Palmas
-5407.0,Aridani Arbelo,/en/players/bc62fd29/Aridani-Arbelo,Aridani-Arbelo,bc62fd29,es ESP,DF,Las-Palmas
-5408.0,Acorán,/en/players/aa1ecac3/Acoran,Aco,1ecac3,es ESP,MF,Las-Palmas
-5409.0,Siro Darino,/en/players/5a4e45be/Siro-Darino,Siro-Darino,5a4e45be,ar ARG,"DF,MF",Las-Palmas
-5410.0,Ione Cabrera,/en/players/a1b97b7c/Ione-Cabrera,Ione-Cab,1b97b7c,es ESP,DF,Las-Palmas
-5411.0,Víctor Afonso,/en/players/43946a7f/Victor-Afonso,Victor-Afonso,43946a7f,es ESP,DF,Las-Palmas
-5412.0,Nacho González,/en/players/0c99d0e9/Nacho-Gonzalez,Nacho-Gonzalez,0c99d0e9,ar ARG,GK,Las-Palmas
-5413.0,Nacho Casanova,/en/players/5621fc5b/Nacho-Casanova,Nacho-Casanov,5621fc5b,es ESP,FW,Las-Palmas
-5414.0,Francisco Alberoni,/en/players/1004e28d/Francisco-Alberoni,Francisco-Alberoni,1004e28d,br BRA,MF,Las-Palmas
-5415.0,Francis Suárez,/en/players/213227f5/Francis-Suarez,Francis-Suarez,213227f5,es ESP,MF,Las-Palmas
-5416.0,Sergio Suárez,/en/players/e7c64834/Sergio-Suarez,Sergio-Suarez,7c64834,es ESP,MF,Las-Palmas
-5417.0,Esteban González,/en/players/3b3381db/Esteban-Gonzalez,Esteban-Gonzalez,3b3381db,ar ARG,MF,Las-Palmas
-5418.0,Yuri de Souza,/en/players/75e74213/Yuri-de-Souza,Yuri-de-Souz,75e74213,br BRA,FW,Las-Palmas
-5419.0,Juan Viyuela,/en/players/888234e9/Juan-Viyuela,Juan-Viyu,8.88E+14,es ESP,MF,Las-Palmas
-5420.0,Juan Manuel Azconzábal,/en/players/90336cf6/Juan-Manuel-Azconzabal,Juan-Manuel-Azconzab,90336cf6,ar ARG,DF,Las-Palmas
-5421.0,Iván Benítez,/en/players/ba34fbb2/Ivan-Benitez,Ivan-Benitez,ba34fbb2,es ESP,DF,Las-Palmas
-5422.0,Gustavo,/en/players/9a555f42/Gustavo,Gustavo,9a555f42,es ESP,MF,Las-Palmas
-5423.0,Amaral,/en/players/f491cca7/Amaral,Am,f491cca7,br BRA,DF,Las-Palmas
-5424.0,Iban Iyanga,/en/players/e3985fc6/Iban-Iyanga,Iban-Iyang,3985fc6,gq EQG,"DF,FW",Las-Palmas
-5425.0,Armiche Ortega,/en/players/1f828e72/Armiche-Ortega,Armiche-Orteg,1f828e72,es ESP,"FW,MF",Las-Palmas
-5426.0,Fabián Assmann,/en/players/151bb523/Fabian-Assmann,Fabian-Assm,151bb523,ar ARG,GK,Las-Palmas
-5427.0,Diego León,/en/players/457cdc9c/Diego-Leon,Diego-Leo,457cdc9c,es ESP,MF,Las-Palmas
-5428.0,Aythami Álvarez,/en/players/3bf6578a/Aythami-Alvarez,Aythami-Alvarez,3bf6578a,es ESP,DF,Las-Palmas
-5429.0,Edixon Perea,/en/players/4079294e/Edixon-Perea,Edixon-P,4079294e,co COL,FW,Las-Palmas
-5430.0,Diego Herner,/en/players/8fd75cd3/Diego-Herner,Diego-H,8fd75cd3,ar ARG,DF,Las-Palmas
-5431.0,Raúl Lizoain,/en/players/f69e9eee/Raul-Lizoain,Raul-Lizoai,f69e9eee,es ESP,GK,Las-Palmas
-5432.0,Juan Guerra,/en/players/598b47bf/Juan-Guerra,Juan-Gu,598b47bf,ve VEN,MF,Las-Palmas
-5433.0,Macauley Chrisantus,/en/players/80d82696/Macauley-Chrisantus,Macauley-Chrisantu,80d82696,ng NGA,"FW,MF",Las-Palmas
-5434.0,Timothée Atouba,/en/players/8c0c6e13/Timothee-Atouba,Timothee-Atoub,8c0c6e13,cm CMR,DF,Las-Palmas
-5435.0,Ale Martín,/en/players/f1c6e9c2/Ale-Martin,Ale-Marti,f1c6e9c2,es ESP,GK,Las-Palmas
-5436.0,Andy Pando,/en/players/34893ff6/Andy-Pando,Andy-Pando,34893ff6,pe PER,FW,Las-Palmas
-5437.0,Asdrúbal Padrón,/en/players/1719aa30/Asdrubal-Padron,Asdrubal-Padro,1719aa30,es ESP,"FW,MF",Las-Palmas
-5438.0,Spas Delev,/en/players/d99830de/Spas-Delev,Spas-Delev,d99830de,bg BUL,"FW,MF",Las-Palmas
-5439.0,Héctor Figueroa,/en/players/b73db047/Hector-Figueroa,Hector-Figuero,b73db047,es ESP,FW,Las-Palmas
-5440.0,Leo Rodríguez,/en/players/49e0c327/Leo-Rodriguez,Leo-Rodriguez,49e0c327,es ESP,MF,Las-Palmas
-5441.0,Sergio Araujo,/en/players/080ac8d8/Sergio-Araujo,Sergio-Araujo,080ac8d8,ar ARG,"FW,MF",Las-Palmas
-5442.0,Dani Lorenzo,/en/players/4ed19997/Dani-Lorenzo,Dani-Lorenzo,4ed19997,es ESP,GK,Las-Palmas
-5443.0,Antolín Alcaraz,/en/players/cee38e27/Antolin-Alcaraz,Antolin-Alcaraz,cee38e27,py PAR,DF,Las-Palmas
-5444.0,Matías Dumpiérrez,/en/players/f31f689e/Matias-Dumpierrez,Matias-Dumpierrez,f31f689e,es ESP,MF,Las-Palmas
-5445.0,Carlos González,/en/players/8c6b3d5e/Carlos-Gonzalez,Carlos-Gonzalez,8c6b3d5e,es ESP,FW,Las-Palmas
-5446.0,Mauricio Lemos,/en/players/dbe5a587/Mauricio-Lemos,Mauricio-Lemo,dbe5a587,uy URU,DF,Las-Palmas
-5447.0,Marko Livaja,/en/players/6e5497ca/Marko-Livaja,Marko-Livaj,6e5497ca,hr CRO,FW,Las-Palmas
-5448.0,Hélder Lopes,/en/players/9a34c46d/Helder-Lopes,Helder-Lo,9a34c46d,pt POR,DF,Las-Palmas
-5449.0,Erik Expósito,/en/players/07d67579/Erik-Exposito,Erik-Exposito,07d67579,es ESP,FW,Las-Palmas
-5450.0,Benito Ramírez,/en/players/db714daf/Benito-Ramirez,Benito-Ramirez,db714daf,es ESP,"DF,MF",Las-Palmas
-5451.0,Eric Curbelo,/en/players/34e39a18/Eric-Curbelo,Eric-Curbelo,34e39a18,es ESP,DF,Las-Palmas
-5452.0,Alberto Aquilani,/en/players/ad340e17/Alberto-Aquilani,Alberto-Aquilani,d340e17,it ITA,MF,Las-Palmas
-5453.0,Matías Aguirregaray,/en/players/8617e3d9/Matias-Aguirregaray,Matias-Aguirreg,8617e3d9,uy URU,DF,Las-Palmas
-5454.0,Oussama Tannane,/en/players/730bd100/Oussama-Tannane,Oussama-T,730bd100,ma MAR,"MF,FW",Las-Palmas
-5455.0,Gabriel Peñalba,/en/players/e7375367/Gabriel-Penalba,Gabriel-Penalb,7375367,ar ARG,MF,Las-Palmas
-5456.0,Hernán Toledo,/en/players/93568a16/Hernan-Toledo,Hernan-Toledo,93568a16,ar ARG,"MF,FW",Las-Palmas
-5457.0,Imoh Ezekiel,/en/players/9243fea6/Imoh-Ezekiel,Imoh-Ezeki,9243fea6,ng NGA,MF,Las-Palmas
-5458.0,Fabio González,/en/players/5418d47c/Fabio-Gonzalez,Fabio-Gonzalez,5418d47c,es ESP,MF,Las-Palmas
-5459.0,Danny Blum,/en/players/eb61713c/Danny-Blum,Danny-Blum,b61713c,de GER,"MF,FW",Las-Palmas
-5460.0,Martín Mantovani,/en/players/4ffb647d/Martin-Mantovani,Martin-Mantovani,4ffb647d,ar ARG,DF,Las-Palmas
-5461.0,Josep Martinez,/en/players/11d8aff0/Josep-Martinez,Josep-Martinez,11d8aff0,es ESP,GK,Las-Palmas
-5462.0,Cristian Cedrés,/en/players/1b8d0b59/Cristian-Cedres,Cristian-Ced,1b8d0b59,es ESP,MF,Las-Palmas
-5463.0,Slavoljub Srnić,/en/players/cf8ef0a1/Slavoljub-Srnic,Slavoljub-Srnic,cf8ef0a1,rs SRB,MF,Las-Palmas
-5464.0,Toni Segura,/en/players/590e2aa6/Toni-Segura,Toni-Segu,590e2aa6,es ESP,"MF,FW",Las-Palmas
-5465.0,Kirian Rodríguez,/en/players/9b130479/Kirian-Rodriguez,Kirian-Rodriguez,9b130479,es ESP,MF,Las-Palmas
-5466.0,Jesús Fortes,/en/players/ba822ad0/Jesus-Fortes,Jesus-Fort,ba822ad0,es ESP,DF,Las-Palmas
-5467.0,Tomáš Pekhart,/en/players/20dbf9e0/Tomas-Pekhart,Tomas-Pekhart,20dbf9e0,cz CZE,FW,Las-Palmas
-5468.0,Hadi Sacko,/en/players/8747700e/Hadi-Sacko,Hadi-Sacko,8747700e,ml MLI,"FW,MF",Las-Palmas
-5469.0,Diego Parras,/en/players/3073ff6a/Diego-Parras,Diego-P,3073ff6a,es ESP,DF,Las-Palmas
-5470.0,Álvaro Vallés,/en/players/0166a73e/Alvaro-Valles,Alvaro-V,0166a73e,es ESP,GK,Las-Palmas
-5471.0,Álex Suárez,/en/players/9c137b36/Alex-Suarez,Alex-Suarez,9c137b36,es ESP,DF,Las-Palmas
-5472.0,Federico Varela,/en/players/9ef0d693/Federico-Varela,Federico-V,9ef0d693,ar ARG,"MF,FW",Las-Palmas
-5473.0,Cristian López,/en/players/c76577a0/Cristian-Lopez,Cristian-Lopez,c76577a0,es ESP,FW,Las-Palmas
-5474.0,Jean-Armel Drolé,/en/players/eb5cc175/Jean-Armel-Drole,Jean-Armel-Dro,b5cc175,ci CIV,MF,Las-Palmas
-5475.0,Dani Martín,/en/players/9ddec4fb/Dani-Martin,Dani-Marti,9ddec4fb,es ESP,DF,Las-Palmas
-5476.0,Juan Fernández,/en/players/794cb89e/Juan-Fernandez,Juan-Fernandez,794cb89e,es ESP,FW,Las-Palmas
-5477.0,Pablo Haro,/en/players/a75a4b2d/Pablo-Haro,Pablo-Haro,75a4b2d,es ESP,MF,Las-Palmas
-5478.0,Pol,/en/players/54badf9e/Pol,Po,54badf9e,es ESP,MF,Las-Palmas
-5479.0,Boris Rapaić,/en/players/0d77e355/Boris-Rapaic,Boris-Rapaic,0d77e355,hr CRO,FW,Las-Palmas
-5480.0,Claudio Mendes,/en/players/c47fe6cb/Claudio-Mendes,Claudio-Mend,c47fe6cb,es ESP,FW,Las-Palmas
-5481.0,David Herrera,/en/players/1052e8c5/David-Herrera,David-H,1052e8c5,es ESP,DF,Las-Palmas
-5482.0,Francisco Jesús Crespo García,/en/players/8c4e56cb/Francisco-Jesus-Crespo-Garcia,Francisco-Jesus-Crespo-Garci,8c4e56cb,es ESP,MF,Las-Palmas
-5483.0,Enzo Loiodice,/en/players/6bca20fe/Enzo-Loiodice,Enzo-Loiodic,6bca20fe,fr FRA,MF,Las-Palmas
-5484.0,ALex Salomón,/en/players/1c9e16d1/ALex-Salomon,ALex-Salomo,1c9e16d1,es ESP,DF,Las-Palmas
-5485.0,Eduardo Espiau,/en/players/872befe6/Eduardo-Espiau,Eduardo-Espiau,872befe6,es ESP,FW,Las-Palmas
-5486.0,Tomás Cardona,/en/players/e5cabba3/Tomas-Cardona,Tomas-Cardo,5cabba3,ar ARG,DF,Las-Palmas
-5487.0,Rafa Mújica,/en/players/04a67d5b/Rafa-Mujica,Rafa-Mujic,04a67d5b,es ESP,"FW,MF",Las-Palmas
-5488.0,Pietro Iemmello,/en/players/0861b8d6/Pietro-Iemmello,Pietro-Iemmello,0861b8d6,it ITA,FW,Las-Palmas
-5489.0,Ismael Athuman,/en/players/fdebc935/Ismael-Athuman,Ismael-Athum,fdebc935,ke KEN,DF,Las-Palmas
-5490.0,Diego Gutiérrez,/en/players/e75cf11d/Diego-Gutierrez,Diego-Gutierrez,75cf11d,es ESP,MF,Las-Palmas
-5491.0,Saúl Coco,/en/players/d0ee1652/Saul-Coco,Saul-Coco,d0ee1652,gq EQG,DF,Las-Palmas
-5492.0,Pau Miguélez,/en/players/3c8efb6a/Pau-Miguelez,Pau-Miguelez,3c8efb6a,es ESP,MF,Las-Palmas
-5493.0,Iñaki Elejalde,/en/players/28d9dddb/Inaki-Elejalde,Inaki-Elejald,28d9dddb,es ESP,FW,Las-Palmas
-5494.0,Alberto Moleiro,/en/players/c2c8897d/Alberto-Moleiro,Alberto-Moleiro,c2c8897d,es ESP,MF,Las-Palmas
-5495.0,Sergi Puig,/en/players/77951f80/Sergi-Puig,Sergi-Puig,77951f80,es ESP,GK,Las-Palmas
-5496.0,Juan Satoca,/en/players/d6315e0a/Juan-Satoca,Juan-Satoc,d6315e0a,es ESP,MF,Las-Palmas
-5497.0,Erick Ferigra,/en/players/67cddecb/Erick-Ferigra,Erick-Ferig,67cddecb,ec ECU,DF,Las-Palmas
-5498.0,Pedro Alejandro García Mejías,/en/players/65217387/Pedro-Alejandro-Garcia-Mejias,Pedro-Alejandro-Garcia-Meji,65217387,es ESP,MF,Las-Palmas
-5499.0,Unai Veiga,/en/players/d085ffac/Unai-Veiga,Unai-Veig,d085ffac,es ESP,MF,Las-Palmas
-5500.0,Alfonso,/en/players/970ed894/Alfonso,Alfonso,970ed894,es ESP,GK,Las-Palmas
-5501.0,Cendón,/en/players/4b4cd163/Cendon,Cendo,4b4cd163,es ESP,GK,Las-Palmas
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+9253.0,﻿Baiano,/en/players/26a7618d/Baiano,Baiano,26a7618d,br BRA,"DF,MF",Las-Palmas
+9254.0,Rubén Castro,/en/players/d109f62b/Ruben-Castro,Ruben-Castro,d109f62b,es ESP,"FW,MF",Las-Palmas
+9255.0,Alberto Monteagudo,/en/players/eaf8a40b/Alberto-Monteagudo,Alberto-Monteagudo,f8a40b,es ESP,MF,Las-Palmas
+9256.0,Álvaro,/en/players/3bb76c65/Alvaro,Alvaro,3bb76c65,br BRA,DF,Las-Palmas
+9257.0,Javi Martel,/en/players/f5db3525/Javi-Martel,Javi-Mart,f5db3525,es ESP,DF,Las-Palmas
+9258.0,Gustavo Reggi,/en/players/877bbcf1/Gustavo-Reggi,Gustavo-Reggi,877bbcf1,ar ARG,FW,Las-Palmas
+9259.0,Carmelo González,/en/players/27f4e837/Carmelo-Gonzalez,Carmelo-Gonzalez,27f4e837,es ESP,MF,Las-Palmas
+9260.0,Pedro Vega,/en/players/aec634a0/Pedro-Vega,Pedro-Veg,c634a0,es ESP,MF,Las-Palmas
+9261.0,José Antonio,/en/players/a1b47d18/Jose-Antonio,Jose-Antonio,1b47d18,es ESP,DF,Las-Palmas
+9262.0,Marc Bernaus,/en/players/761ecc1f/Marc-Bernaus,Marc-Bernau,761ecc1f,ad AND,DF,Las-Palmas
+9263.0,Bo Braastrup Andersen,/en/players/1947dd0d/Bo-Braastrup-Andersen,Bo-Braastrup-And,1947dd0d,dk DEN,GK,Las-Palmas
+9264.0,Ildefons Lima,/en/players/e4f64f08/Ildefons-Lima,Ildefons-Lim,4f64f08,ad AND,DF,Las-Palmas
+9265.0,Diego Trotta,/en/players/e7ec1faf/Diego-Trotta,Diego-Trott,7ec1faf,ar ARG,DF,Las-Palmas
+9266.0,Mario Cotelo,/en/players/bb049a1f/Mario-Cotelo,Mario-Cotelo,bb049a1f,es ESP,MF,Las-Palmas
+9267.0,Ángel López,/en/players/93cdc601/Angel-Lopez,Angel-Lopez,93cdc601,es ESP,"DF,MF",Las-Palmas
+9268.0,Orlando Suárez,/en/players/ed1316be/Orlando-Suarez,Orlando-Suarez,d1316be,es ESP,FW,Las-Palmas
+9269.0,Orlando Quintana,/en/players/bdb7b026/Orlando-Quintana,Orlando-Quint,bdb7b026,es ESP,GK,Las-Palmas
+9270.0,Álex,/en/players/4512fa60/Alex,Alex,4512fa60,es ESP,MF,Las-Palmas
+9271.0,Tomás Hervás,/en/players/9f1f6292/Tomas-Hervas,Tomas-Herv,9f1f6292,es ESP,MF,Las-Palmas
+9272.0,Alberto,/en/players/cbd5eb5f/Alberto,Alberto,cbd5eb5f,es ESP,MF,Las-Palmas
+9273.0,Edier Frejd,/en/players/7727127b/Edier-Frejd,Edier-Frejd,7727127b,se SWE,DF,Las-Palmas
+9274.0,Alain N'Kong,/en/players/bc8192a1/Alain-NKong,Alain-NKong,bc8192a1,cm CMR,"FW,MF",Las-Palmas
+9275.0,Rafael Maceratesi,/en/players/97868bb0/Rafael-Maceratesi,Rafael-Maceratesi,97868bb0,ar ARG,FW,Las-Palmas
+9276.0,Željko Cicović,/en/players/62803fde/Zeljko-Cicovic,Zeljko-Cicovic,62803fde,rs SRB,GK,Las-Palmas
+9277.0,José Silvano,/en/players/a735acbb/Jose-Silvano,Jose-Silvano,735acbb,es ESP,MF,Las-Palmas
+9278.0,Juan Carlos Socorro,/en/players/45588437/Juan-Carlos-Socorro,Juan-Carlos-Socorro,45588437,ve VEN,MF,Las-Palmas
+9279.0,David González,/en/players/d65705c4/David-Gonzalez,David-Gonzalez,d65705c4,es ESP,MF,Las-Palmas
+9280.0,Miguel Ángel Molina,/en/players/f0a68573/Miguel-Angel-Molina,Miguel-Angel-Moli,f0a68573,pe PER,FW,Las-Palmas
+9281.0,Guillermo Castro,/en/players/7f3d2662/Guillermo-Castro,Guillermo-Castro,7f3d2662,es ESP,DF,Las-Palmas
+9282.0,Momo,/en/players/9857e65d/Momo,Momo,9857e65d,es ESP,MF,Las-Palmas
+9283.0,Kily González,/en/players/69966620/Kily-Gonzalez,Kily-Gonzalez,69966620,ar ARG,"FW,MF",Las-Palmas
+9284.0,Mariano Bogliacino,/en/players/ab028814/Mariano-Bogliacino,Mariano-Bogliacino,b028814,uy URU,MF,Las-Palmas
+9285.0,Sanel Jahić,/en/players/60e95fa4/Sanel-Jahic,Sanel-Jahic,60e95fa4,ba BIH,"DF,FW",Las-Palmas
+9286.0,Jotha,/en/players/bed4387d/Jotha,Joth,bed4387d,es ESP,MF,Las-Palmas
+9287.0,Gastón Sessa,/en/players/0a798ba0/Gaston-Sessa,Gaston-S,0a798ba0,ar ARG,GK,Las-Palmas
+9288.0,Changui,/en/players/5fab2c25/Changui,Changui,5fab2c25,es ESP,FW,Las-Palmas
+9289.0,Nicolás Frutos,/en/players/0fc7518c/Nicolas-Frutos,Nicolas-Fruto,0fc7518c,ar ARG,FW,Las-Palmas
+9290.0,Janne Hietanen,/en/players/f386d256/Janne-Hietanen,Janne-Hiet,f386d256,fi FIN,DF,Las-Palmas
+9291.0,Paqui,/en/players/cf8ddf0b/Paqui,Paqui,cf8ddf0b,es ESP,DF,Las-Palmas
+9292.0,Matheus Vivian,/en/players/72a87101/Matheus-Vivian,Matheus-Vivi,72a87101,br BRA,DF,Las-Palmas
+9293.0,David García,/en/players/1250086e/David-Garcia,David-Garci,1250086e,es ESP,DF,Las-Palmas
+9294.0,Juanma,/en/players/396b863a/Juanma,Juanm,396b863a,es ESP,DF,Las-Palmas
+9295.0,Adrián Martín,/en/players/53eabc97/Adrian-Martin,Adrian-Marti,53eabc97,es ESP,MF,Las-Palmas
+9296.0,Aridani Arbelo,/en/players/bc62fd29/Aridani-Arbelo,Aridani-Arbelo,bc62fd29,es ESP,DF,Las-Palmas
+9297.0,André Schei Lindbæk,/en/players/198eb259/Andre-Schei-Lindbaek,Andre-Schei-Lindbaek,198eb259,no NOR,FW,Las-Palmas
+9298.0,David Medina,/en/players/b5fc02b6/David-Medina,David-Medi,b5fc02b6,es ESP,MF,Las-Palmas
+9299.0,Acorán,/en/players/aa1ecac3/Acoran,Aco,1ecac3,es ESP,MF,Las-Palmas
+9300.0,﻿Marcos Márquez,/en/players/914f774e/Marcos-Marquez,Marcos-Marquez,914f774e,es ESP,FW,Las-Palmas
+9301.0,Aythami Artiles,/en/players/01ae64cd/Aythami-Artiles,Aythami-Arti,01ae64cd,es ESP,DF,Las-Palmas
+9302.0,Siro Darino,/en/players/5a4e45be/Siro-Darino,Siro-Darino,5a4e45be,ar ARG,"DF,MF",Las-Palmas
+9303.0,Xabier Castillo,/en/players/638dc43b/Xabier-Castillo,Xabier-Castillo,638dc43b,hr CRO,DF,Las-Palmas
+9304.0,Nacho Garro,/en/players/9f6a2843/Nacho-Garro,Nacho-Garro,9f6a2843,es ESP,MF,Las-Palmas
+9305.0,Roberto Trashorras,/en/players/5252fdf5/Roberto-Trashorras,Roberto-Trasho,5252fdf5,es ESP,MF,Las-Palmas
+9306.0,Ángel Pindado,/en/players/6b44da65/Angel-Pindado,Angel-Pindado,6b44da65,es ESP,GK,Las-Palmas
+9307.0,Nauzet Alemán,/en/players/4cf8242b/Nauzet-Aleman,Nauzet-Alem,4cf8242b,es ESP,MF,Las-Palmas
+9308.0,Ione Cabrera,/en/players/a1b97b7c/Ione-Cabrera,Ione-Cab,1b97b7c,es ESP,DF,Las-Palmas
+9309.0,Víctor Afonso,/en/players/43946a7f/Victor-Afonso,Victor-Afonso,43946a7f,es ESP,DF,Las-Palmas
+9310.0,Miguel Cobas,/en/players/86244575/Miguel-Cobas,Miguel-Cob,86244575,es ESP,MF,Las-Palmas
+9311.0,Nacho González,/en/players/0c99d0e9/Nacho-Gonzalez,Nacho-Gonzalez,0c99d0e9,ar ARG,GK,Las-Palmas
+9312.0,Joseba Arriaga,/en/players/5819e0da/Joseba-Arriaga,Joseba-Arriag,5819e0da,es ESP,FW,Las-Palmas
+9313.0,Fredi Lobeiras,/en/players/9e85ab41/Fredi-Lobeiras,Fredi-Lobei,9e85ab41,es ESP,MF,Las-Palmas
+9314.0,Roberto Losada,/en/players/547ccdd5/Roberto-Losada,Roberto-Losad,547ccdd5,es ESP,FW,Las-Palmas
+9315.0,Goran Marić,/en/players/71251e74/Goran-Maric,Goran-Maric,71251e74,es ESP,FW,Las-Palmas
+9316.0,Nacho Casanova,/en/players/5621fc5b/Nacho-Casanova,Nacho-Casanov,5621fc5b,es ESP,FW,Las-Palmas
+9317.0,Francisco Alberoni,/en/players/1004e28d/Francisco-Alberoni,Francisco-Alberoni,1004e28d,br BRA,MF,Las-Palmas
+9318.0,Francis Suárez,/en/players/213227f5/Francis-Suarez,Francis-Suarez,213227f5,es ESP,MF,Las-Palmas
+9319.0,Daniel López Ramos,/en/players/915cea2d/Daniel-Lopez-Ramos,Daniel-Lopez-Ramo,915cea2d,es ESP,DF,Las-Palmas
+9320.0,Christian,/en/players/1d5a68fe/Christian,Christi,1d5a68fe,es ESP,DF,Las-Palmas
+9321.0,Samuel,/en/players/a7055133/Samuel,Samu,7055133,es ESP,DF,Las-Palmas
+9322.0,Adrián Colunga,/en/players/2212dd4e/Adrian-Colunga,Adrian-Colung,2212dd4e,es ESP,"FW,MF",Las-Palmas
+9323.0,Sergio Suárez,/en/players/e7c64834/Sergio-Suarez,Sergio-Suarez,7c64834,es ESP,MF,Las-Palmas
+9324.0,Roberto Santamaría,/en/players/bca21ef3/Roberto-Santamaria,Roberto-Santamari,bca21ef3,es ESP,GK,Las-Palmas
+9325.0,Juanpa,/en/players/75ef1517/Juanpa,Ju,75ef1517,es ESP,DF,Las-Palmas
+9326.0,Pitu,/en/players/ed6ee013/Pitu,Pitu,d6ee013,es ESP,MF,Las-Palmas
+9327.0,Carlos Merino,/en/players/443c8c9a/Carlos-Merino,Carlos-Merino,443c8c9a,es ESP,MF,Las-Palmas
+9328.0,Esteban González,/en/players/3b3381db/Esteban-Gonzalez,Esteban-Gonzalez,3b3381db,ar ARG,MF,Las-Palmas
+9329.0,Capi,/en/players/7ba110d0/Capi,Capi,7ba110d0,es ESP,DF,Las-Palmas
+9330.0,Yuri de Souza,/en/players/75e74213/Yuri-de-Souza,Yuri-de-Souz,75e74213,br BRA,FW,Las-Palmas
+9331.0,Kenji Fukuda,/en/players/889fd1fe/Kenji-Fukuda,Kenji-Fukud,889fd1fe,jp JPN,FW,Las-Palmas
+9332.0,Juan Viyuela,/en/players/888234e9/Juan-Viyuela,Juan-Viyu,888234e9,es ESP,MF,Las-Palmas
+9333.0,Ruymán Hernández,/en/players/4d598125/Ruyman-Hernandez,Ruyman-Hernandez,4d598125,es ESP,DF,Las-Palmas
+9334.0,Juan Manuel Azconzábal,/en/players/90336cf6/Juan-Manuel-Azconzabal,Juan-Manuel-Azconzab,90336cf6,ar ARG,DF,Las-Palmas
+9335.0,Iván Benítez,/en/players/ba34fbb2/Ivan-Benitez,Ivan-Benitez,ba34fbb2,es ESP,DF,Las-Palmas
+9336.0,Dani López,/en/players/da8aa199/Dani-Lopez,Dani-Lopez,da8aa199,es ESP,DF,Las-Palmas
+9337.0,Jorge Larena,/en/players/3de25195/Jorge-Larena,Jorge-L,3de25195,es ESP,MF,Las-Palmas
+9338.0,Pablo Sánchez,/en/players/8c3fe4bb/Pablo-Sanchez,Pablo-Sanchez,8c3fe4bb,es ESP,"FW,MF",Las-Palmas
+9339.0,Miguel García,/en/players/4260ce15/Miguel-Garcia,Miguel-Garci,4260ce15,es ESP,MF,Las-Palmas
+9340.0,Saúl Berjón,/en/players/59e3e14b/Saul-Berjon,Saul-Berjo,59e3e14b,es ESP,"FW,MF",Las-Palmas
+9341.0,Gustavo,/en/players/9a555f42/Gustavo,Gustavo,9a555f42,es ESP,MF,Las-Palmas
+9342.0,Salomón Rondón,/en/players/b318a643/Salomon-Rondon,Salomon-Rondo,b318a643,ve VEN,FW,Las-Palmas
+9343.0,Amaral,/en/players/f491cca7/Amaral,Am,f491cca7,br BRA,DF,Las-Palmas
+9344.0,Iban Iyanga,/en/players/e3985fc6/Iban-Iyanga,Iban-Iyang,3985fc6,gq EQG,"DF,FW",Las-Palmas
+9345.0,Armiche Ortega,/en/players/1f828e72/Armiche-Ortega,Armiche-Orteg,1f828e72,es ESP,"FW,MF",Las-Palmas
+9346.0,Vicente Gómez,/en/players/cefb32b1/Vicente-Gomez,Vicente-Gomez,cefb32b1,es ESP,MF,Las-Palmas
+9347.0,Juanpe,/en/players/1633fc8a/Juanpe,Ju,1633fc8a,es ESP,DF,Las-Palmas
+9348.0,Álvaro Cejudo,/en/players/a39b23eb/Alvaro-Cejudo,Alvaro-Cejudo,39b23eb,es ESP,MF,Las-Palmas
+9349.0,Stéphane Pignol,/en/players/ca3ae27c/Stephane-Pignol,Stephane-Pigno,ca3ae27c,fr FRA,DF,Las-Palmas
+9350.0,Fabián Assmann,/en/players/151bb523/Fabian-Assmann,Fabian-Assm,151bb523,ar ARG,GK,Las-Palmas
+9351.0,Andrés Lamas,/en/players/4b204e6d/Andres-Lamas,Andres-Lam,4b204e6d,uy URU,DF,Las-Palmas
+9352.0,Javi Guerrero,/en/players/bd4345ec/Javi-Guerrero,Javi-Guerrero,bd4345ec,es ESP,FW,Las-Palmas
+9353.0,Diego León,/en/players/457cdc9c/Diego-Leon,Diego-Leo,457cdc9c,es ESP,MF,Las-Palmas
+9354.0,Josico,/en/players/1d2fe5a5/Josico,Josico,1d2fe5a5,es ESP,"FW,MF",Las-Palmas
+9355.0,Antonio Guayre,/en/players/82cf603f/Antonio-Guayre,Antonio-Gu,82cf603f,es ESP,"FW,MF",Las-Palmas
+9356.0,Pollo,/en/players/a21f9971/Pollo,Pollo,21f9971,es ESP,MF,Las-Palmas
+9357.0,﻿Mariano Barbosa,/en/players/aad4f74f/Mariano-Barbosa,Mariano-Barbo,d4f74f,ar ARG,GK,Las-Palmas
+9358.0,Jonathan Viera,/en/players/efa708aa/Jonathan-Viera,Jonathan-Vi,fa708aa,es ESP,"FW,MF",Las-Palmas
+9359.0,Aythami Álvarez,/en/players/3bf6578a/Aythami-Alvarez,Aythami-Alvarez,3bf6578a,es ESP,DF,Las-Palmas
+9360.0,Matías Lequi,/en/players/dd0c806c/Matias-Lequi,Matias-Lequi,dd0c806c,ar ARG,DF,Las-Palmas
+9361.0,Juan Quero,/en/players/42107bed/Juan-Quero,Juan-Quero,42107bed,es ESP,MF,Las-Palmas
+9362.0,Vitolo,/en/players/db750822/Vitolo,Vitolo,db750822,es ESP,"FW,MF",Las-Palmas
+9363.0,Dani Carril,/en/players/718167d2/Dani-Carril,Dani-Carri,718167d2,es ESP,DF,Las-Palmas
+9364.0,Mauro Quiroga,/en/players/1643c897/Mauro-Quiroga,Mauro-Quirog,1643c897,ar ARG,FW,Las-Palmas
+9365.0,Edixon Perea,/en/players/4079294e/Edixon-Perea,Edixon-P,4079294e,co COL,FW,Las-Palmas
+9366.0,Leonardo Borzani,/en/players/c61d56c1/Leonardo-Borzani,Leonardo-Borzani,c61d56c1,ar ARG,MF,Las-Palmas
+9367.0,Hernán,/en/players/8c83efb6/Hernan,H,8c83efb6,es ESP,"DF,MF",Las-Palmas
+9368.0,Tyronne,/en/players/f76bbf9c/Tyronne,Tyro,f76bbf9c,es ESP,"FW,MF",Las-Palmas
+9369.0,﻿Javi Castellano,/en/players/dac68523/Javi-Castellano,Javi-Castellano,dac68523,es ESP,"DF,MF",Las-Palmas
+9370.0,Diego Herner,/en/players/8fd75cd3/Diego-Herner,Diego-H,8fd75cd3,ar ARG,DF,Las-Palmas
+9371.0,Víctor Laguardia,/en/players/b7c99b9b/Victor-Laguardia,Victor-Laguardi,b7c99b9b,es ESP,DF,Las-Palmas
+9372.0,Javier Portillo,/en/players/99058498/Javier-Portillo,Javier-Portillo,99058498,es ESP,FW,Las-Palmas
+9373.0,Enrique Corrales,/en/players/a8dbcf66/Enrique-Corrales,Enrique-Co,8dbcf66,es ESP,DF,Las-Palmas
+9374.0,Roque Mesa,/en/players/7c4243d4/Roque-Mesa,Roque-M,7c4243d4,es ESP,MF,Las-Palmas
+9375.0,Dani Castellano,/en/players/21d4e122/Dani-Castellano,Dani-Castellano,21d4e122,es ESP,"DF,MF",Las-Palmas
+9376.0,Raúl Lizoain,/en/players/f69e9eee/Raul-Lizoain,Raul-Lizoai,f69e9eee,es ESP,GK,Las-Palmas
+9377.0,José Artiles,/en/players/913e81fb/Jose-Artiles,Jose-Arti,913e81fb,es ESP,"FW,MF",Las-Palmas
+9378.0,Juan Guerra,/en/players/598b47bf/Juan-Guerra,Juan-Gu,598b47bf,ve VEN,MF,Las-Palmas
+9379.0,Jeison Murillo,/en/players/b233e8e4/Jeison-Murillo,Jeison-Murillo,b233e8e4,co COL,DF,Las-Palmas
+9380.0,Deivid,/en/players/c1c76662/Deivid,Deivid,c1c76662,es ESP,"DF,MF",Las-Palmas
+9381.0,Thievy Bifouma,/en/players/5978dc3c/Thievy-Bifouma,Thievy-Bifoum,5978dc3c,cg CGO,"FW,MF",Las-Palmas
+9382.0,Macauley Chrisantus,/en/players/80d82696/Macauley-Chrisantus,Macauley-Chrisantu,80d82696,ng NGA,"FW,MF",Las-Palmas
+9383.0,Jesús Tato,/en/players/50e2af8c/Jesus-Tato,Jesus-Tato,50e2af8c,es ESP,FW,Las-Palmas
+9384.0,Timothée Atouba,/en/players/8c0c6e13/Timothee-Atouba,Timothee-Atoub,8c0c6e13,cm CMR,DF,Las-Palmas
+9385.0,Ale Martín,/en/players/f1c6e9c2/Ale-Martin,Ale-Marti,f1c6e9c2,es ESP,GK,Las-Palmas
+9386.0,Andy Pando,/en/players/34893ff6/Andy-Pando,Andy-Pando,34893ff6,pe PER,FW,Las-Palmas
+9387.0,Juan Carlos Valerón,/en/players/71e8d6b0/Juan-Carlos-Valeron,Juan-Carlos-Valero,71e8d6b0,es ESP,MF,Las-Palmas
+9388.0,Apoño,/en/players/02503ca3/Apono,Apono,02503ca3,es ESP,MF,Las-Palmas
+9389.0,Masoud Shojaei,/en/players/a898d91e/Masoud-Shojaei,Masoud-Shojaei,898d91e,ir IRN,MF,Las-Palmas
+9390.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Las-Palmas
+9391.0,Asdrúbal Padrón,/en/players/1719aa30/Asdrubal-Padron,Asdrubal-Padro,1719aa30,es ESP,"FW,MF",Las-Palmas
+9392.0,Tana,/en/players/ef345601/Tana,T,f345601,es ESP,"FW,MF",Las-Palmas
+9393.0,Ernesto Galán,/en/players/7e4af593/Ernesto-Galan,Ernesto-G,7e4af593,es ESP,DF,Las-Palmas
+9394.0,Spas Delev,/en/players/d99830de/Spas-Delev,Spas-Delev,d99830de,bg BUL,"FW,MF",Las-Palmas
+9395.0,Héctor Figueroa,/en/players/b73db047/Hector-Figueroa,Hector-Figuero,b73db047,es ESP,FW,Las-Palmas
+9396.0,Leo Rodríguez,/en/players/49e0c327/Leo-Rodriguez,Leo-Rodriguez,49e0c327,es ESP,MF,Las-Palmas
+9397.0,Benja,/en/players/f04bc5bc/Benja,Benj,f04bc5bc,es ESP,DF,Las-Palmas
+9398.0,Sergio Araujo,/en/players/080ac8d8/Sergio-Araujo,Sergio-Araujo,080ac8d8,ar ARG,"FW,MF",Las-Palmas
+9399.0,David Simón,/en/players/251336da/David-Simon,David-Simo,251336da,es ESP,DF,Las-Palmas
+9400.0,Casto,/en/players/95b4ffb3/Casto,Casto,95b4ffb3,es ESP,GK,Las-Palmas
+9401.0,Emmanuel Culio,/en/players/170eb35b/Emmanuel-Culio,Emmanuel-Culio,170eb35b,ar ARG,MF,Las-Palmas
+9402.0,Marcelo Silva,/en/players/b9596515/Marcelo-Silva,Marcelo-Silv,b9596515,uy URU,DF,Las-Palmas
+9403.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,"DF,FW",Las-Palmas
+9404.0,Guzmán Casaseca,/en/players/f05d4004/Guzman-Casaseca,Guzman-Casasec,f05d4004,es ESP,MF,Las-Palmas
+9405.0,Jesús Valentín,/en/players/2594ee7d/Jesus-Valentin,Jesus-Valenti,2594ee7d,es ESP,DF,Las-Palmas
+9406.0,Nili,/en/players/6f1cce9a/Nili,Nili,6f1cce9a,es ESP,DF,Las-Palmas
+9407.0,Dani Lorenzo,/en/players/4ed19997/Dani-Lorenzo,Dani-Lorenzo,4ed19997,es ESP,GK,Las-Palmas
+9408.0,Benjamín Martínez,/en/players/4ca76f91/Benjamin-Martinez,Benjamin-Martinez,4ca76f91,es ESP,FW,Las-Palmas
+9409.0,Javi Varas,/en/players/6db3da37/Javi-Varas,Javi-V,6db3da37,es ESP,GK,Las-Palmas
+9410.0,Pedro Bigas,/en/players/697295b1/Pedro-Bigas,Pedro-Big,697295b1,es ESP,DF,Las-Palmas
+9411.0,Willian José,/en/players/d87e2cae/Willian-Jose,Willian-Jo,d87e2cae,br BRA,FW,Las-Palmas
+9412.0,Javier Garrido,/en/players/3b142ce5/Javier-Garrido,Javier-Garrido,3b142ce5,es ESP,DF,Las-Palmas
+9413.0,Nabil El Zhar,/en/players/37f96552/Nabil-El-Zhar,Nabil-El-Zh,37f96552,ma MAR,MF,Las-Palmas
+9414.0,Wakaso,/en/players/999908af/Wakaso,Wakaso,999908af,gh GHA,MF,Las-Palmas
+9415.0,Antolín Alcaraz,/en/players/cee38e27/Antolin-Alcaraz,Antolin-Alcaraz,cee38e27,py PAR,DF,Las-Palmas
+9416.0,Ángel Montoro,/en/players/719384c1/Angel-Montoro,Angel-Montoro,719384c1,es ESP,MF,Las-Palmas
+9417.0,Jefté Betancor,/en/players/f88c9890/Jefte-Betancor,Jefte-Betanco,f88c9890,es ESP,FW,Las-Palmas
+9418.0,Matías Dumpiérrez,/en/players/f31f689e/Matias-Dumpierrez,Matias-Dumpierrez,f31f689e,es ESP,MF,Las-Palmas
+9419.0,Carlos González,/en/players/8c6b3d5e/Carlos-Gonzalez,Carlos-Gonzalez,8c6b3d5e,es ESP,FW,Las-Palmas
+9420.0,Kevin-Prince Boateng,/en/players/f4ec4fd0/Kevin-Prince-Boateng,Kevin-Prince-Boateng,f4ec4fd0,gh GHA,"FW,MF",Las-Palmas
+9421.0,Michel,/en/players/05384ea1/Michel,Mich,05384ea1,br BRA,DF,Las-Palmas
+9422.0,Mauricio Lemos,/en/players/dbe5a587/Mauricio-Lemos,Mauricio-Lemo,dbe5a587,uy URU,DF,Las-Palmas
+9423.0,Marko Livaja,/en/players/6e5497ca/Marko-Livaja,Marko-Livaj,6e5497ca,hr CRO,FW,Las-Palmas
+9424.0,Hélder Lopes,/en/players/9a34c46d/Helder-Lopes,Helder-Lo,9a34c46d,pt POR,DF,Las-Palmas
+9425.0,Jesé,/en/players/4a537185/Jese,J,4a537185,es ESP,"MF,FW",Las-Palmas
+9426.0,Mateo García,/en/players/62db2015/Mateo-Garcia,Mateo-Garci,62db2015,ar ARG,"FW,MF",Las-Palmas
+9427.0,Alen Halilović,/en/players/a6b9bd00/Alen-Halilovic,Alen-Halilovic,6b9bd00,hr CRO,"MF,FW",Las-Palmas
+9428.0,Erik Expósito,/en/players/07d67579/Erik-Exposito,Erik-Exposito,07d67579,es ESP,FW,Las-Palmas
+9429.0,Benito Ramírez,/en/players/db714daf/Benito-Ramirez,Benito-Ramirez,db714daf,es ESP,"DF,MF",Las-Palmas
+9430.0,Eric Curbelo,/en/players/34e39a18/Eric-Curbelo,Eric-Curbelo,34e39a18,es ESP,DF,Las-Palmas
+9431.0,﻿Jonathan Calleri,/en/players/6922f806/Jonathan-Calleri,Jonathan-Calleri,6922f806,ar ARG,FW,Las-Palmas
+9432.0,Ximo Navarro,/en/players/8db394aa/Ximo-Navarro,Ximo-Navarro,8db394aa,es ESP,DF,Las-Palmas
+9433.0,Leandro Chichizola,/en/players/8d957256/Leandro-Chichizola,Leandro-Chichizo,8d957256,ar ARG,GK,Las-Palmas
+9434.0,Álex Gálvez,/en/players/960fb42d/Alex-Galvez,Alex-Galvez,960fb42d,es ESP,DF,Las-Palmas
+9435.0,Alberto Aquilani,/en/players/ad340e17/Alberto-Aquilani,Alberto-Aquilani,d340e17,it ITA,MF,Las-Palmas
+9436.0,Matías Aguirregaray,/en/players/8617e3d9/Matias-Aguirregaray,Matias-Aguirreg,8617e3d9,uy URU,DF,Las-Palmas
+9437.0,Nacho Gil,/en/players/87ec1a2a/Nacho-Gil,Nacho-Gi,87ec1a2a,es ESP,"MF,FW",Las-Palmas
+9438.0,Oussama Tannane,/en/players/730bd100/Oussama-Tannane,Oussama-T,730bd100,ma MAR,"MF,FW",Las-Palmas
+9439.0,Gabriel Peñalba,/en/players/e7375367/Gabriel-Penalba,Gabriel-Penalb,7375367,ar ARG,MF,Las-Palmas
+9440.0,Loïc Rémy,/en/players/5c2da10f/Loic-Remy,Loic-Rem,5c2da10f,fr FRA,"FW,MF",Las-Palmas
+9441.0,Hernán Toledo,/en/players/93568a16/Hernan-Toledo,Hernan-Toledo,93568a16,ar ARG,"MF,FW",Las-Palmas
+9442.0,Jairo Samperio,/en/players/c0a0c18f/Jairo-Samperio,Jairo-Samperio,c0a0c18f,es ESP,"MF,FW",Las-Palmas
+9443.0,Imoh Ezekiel,/en/players/9243fea6/Imoh-Ezekiel,Imoh-Ezeki,9243fea6,ng NGA,MF,Las-Palmas
+9444.0,Borja Herrera,/en/players/4f6d9bcd/Borja-Herrera,Borja-H,4f6d9bcd,es ESP,DF,Las-Palmas
+9445.0,Sergi Samper,/en/players/6a7586f4/Sergi-Samper,Sergi-Sam,6a7586f4,es ESP,MF,Las-Palmas
+9446.0,Fabio González,/en/players/5418d47c/Fabio-Gonzalez,Fabio-Gonzalez,5418d47c,es ESP,MF,Las-Palmas
+9447.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,MF,Las-Palmas
+9448.0,Álvaro Lemos,/en/players/31d45cc8/Alvaro-Lemos,Alvaro-Lemo,31d45cc8,es ESP,"DF,MF",Las-Palmas
+9449.0,Iñigo Ruiz de Galarreta,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,Inigo-Ruiz-de-Galarret,91f7631f,es ESP,MF,Las-Palmas
+9450.0,Raúl Fernández,/en/players/6fb59070/Raul-Fernandez,Raul-Fernandez,6fb59070,es ESP,GK,Las-Palmas
+9451.0,Cala,/en/players/fe05804b/Cala,C,fe05804b,es ESP,DF,Las-Palmas
+9452.0,Rafa Mir,/en/players/bbf5c11b/Rafa-Mir,Rafa-Mi,bbf5c11b,es ESP,"MF,FW",Las-Palmas
+9453.0,Fidel,/en/players/eb82b6f1/Fidel,Fid,b82b6f1,es ESP,"MF,FW",Las-Palmas
+9454.0,Maikel Mesa,/en/players/2afb7b21/Maikel-Mesa,Maikel-M,2afb7b21,es ESP,MF,Las-Palmas
+9455.0,Danny Blum,/en/players/eb61713c/Danny-Blum,Danny-Blum,b61713c,de GER,"MF,FW",Las-Palmas
+9456.0,Martín Mantovani,/en/players/4ffb647d/Martin-Mantovani,Martin-Mantovani,4ffb647d,ar ARG,DF,Las-Palmas
+9457.0,Josep Martinez,/en/players/11d8aff0/Josep-Martinez,Josep-Martinez,11d8aff0,es ESP,GK,Las-Palmas
+9458.0,Cristian Cedrés,/en/players/1b8d0b59/Cristian-Cedres,Cristian-Ced,1b8d0b59,es ESP,MF,Las-Palmas
+9459.0,Slavoljub Srnić,/en/players/cf8ef0a1/Slavoljub-Srnic,Slavoljub-Srnic,cf8ef0a1,rs SRB,MF,Las-Palmas
+9460.0,Nauzet Pérez,/en/players/d7ffd345/Nauzet-Perez,Nauzet-Perez,d7ffd345,es ESP,GK,Las-Palmas
+9461.0,Toni Segura,/en/players/590e2aa6/Toni-Segura,Toni-Segu,590e2aa6,es ESP,"MF,FW",Las-Palmas
+9462.0,Cristian Rivera,/en/players/8ef81d2d/Cristian-Rivera,Cristian-Riv,8ef81d2d,es ESP,MF,Las-Palmas
+9463.0,Kirian Rodríguez,/en/players/9b130479/Kirian-Rodriguez,Kirian-Rodriguez,9b130479,es ESP,MF,Las-Palmas
+9464.0,Jesús Fortes,/en/players/ba822ad0/Jesus-Fortes,Jesus-Fort,ba822ad0,es ESP,DF,Las-Palmas
+9465.0,Tomáš Pekhart,/en/players/20dbf9e0/Tomas-Pekhart,Tomas-Pekhart,20dbf9e0,cz CZE,FW,Las-Palmas
+9466.0,Hadi Sacko,/en/players/8747700e/Hadi-Sacko,Hadi-Sacko,8747700e,ml MLI,"FW,MF",Las-Palmas
+9467.0,Diego Parras,/en/players/3073ff6a/Diego-Parras,Diego-P,3073ff6a,es ESP,DF,Las-Palmas
+9468.0,Álvaro Vallés,/en/players/0166a73e/Alvaro-Valles,Alvaro-V,0166a73e,es ESP,GK,Las-Palmas
+9469.0,﻿Pedri,/en/players/0d9b2d31/Pedri,Pedri,0d9b2d31,es ESP,MF,Las-Palmas
+9470.0,Alberto de la Bella,/en/players/8497faf7/Alberto-de-la-Bella,Alberto-de-la-B,8497faf7,es ESP,DF,Las-Palmas
+9471.0,Juanjo Narváez,/en/players/485e4939/Juanjo-Narvaez,Juanjo-Narvaez,485e4939,co COL,"FW,MF",Las-Palmas
+9472.0,Álex Suárez,/en/players/9c137b36/Alex-Suarez,Alex-Suarez,9c137b36,es ESP,DF,Las-Palmas
+9473.0,Federico Varela,/en/players/9ef0d693/Federico-Varela,Federico-V,9ef0d693,ar ARG,"MF,FW",Las-Palmas
+9474.0,Ariday Cabrera,/en/players/206b11c5/Ariday-Cabrera,Ariday-Cab,206b11c5,es ESP,MF,Las-Palmas
+9475.0,Cristian López,/en/players/c76577a0/Cristian-Lopez,Cristian-Lopez,c76577a0,es ESP,FW,Las-Palmas
+9476.0,Jean-Armel Drolé,/en/players/eb5cc175/Jean-Armel-Drole,Jean-Armel-Dro,b5cc175,ci CIV,MF,Las-Palmas
+9477.0,José Castañeda,/en/players/c8be009f/Jose-Castaneda,Jose-Castaned,c8be009f,es ESP,MF,Las-Palmas
+9478.0,Álex Domínguez,/en/players/f240be08/Alex-Dominguez,Alex-Dominguez,f240be08,es ESP,GK,Las-Palmas
+9479.0,Dani Martín,/en/players/9ddec4fb/Dani-Martin,Dani-Marti,9ddec4fb,es ESP,DF,Las-Palmas
+9480.0,Juan Fernández,/en/players/794cb89e/Juan-Fernandez,Juan-Fernandez,794cb89e,es ESP,FW,Las-Palmas
+9481.0,Pablo Haro,/en/players/a75a4b2d/Pablo-Haro,Pablo-Haro,75a4b2d,es ESP,MF,Las-Palmas
+9482.0,Pol,/en/players/54badf9e/Pol,Po,54badf9e,es ESP,MF,Las-Palmas
+9483.0,Boris Rapaić,/en/players/0d77e355/Boris-Rapaic,Boris-Rapaic,0d77e355,hr CRO,FW,Las-Palmas
+9484.0,Claudio Mendes,/en/players/c47fe6cb/Claudio-Mendes,Claudio-Mend,c47fe6cb,es ESP,FW,Las-Palmas
+9485.0,David Herrera,/en/players/1052e8c5/David-Herrera,David-H,1052e8c5,es ESP,DF,Las-Palmas
+9486.0,Sergio Ruiz,/en/players/1f423a54/Sergio-Ruiz,Sergio-Ruiz,1f423a54,es ESP,MF,Las-Palmas
+9487.0,Roberto González,/en/players/56545648/Roberto-Gonzalez,Roberto-Gonzalez,56545648,es ESP,"MF,FW",Las-Palmas
+9488.0,Francisco Jesús Crespo García,/en/players/8c4e56cb/Francisco-Jesus-Crespo-Garcia,Francisco-Jesus-Crespo-Garci,8c4e56cb,es ESP,MF,Las-Palmas
+9489.0,Enzo Loiodice,/en/players/6bca20fe/Enzo-Loiodice,Enzo-Loiodic,6bca20fe,fr FRA,MF,Las-Palmas
+9490.0,Óscar Clemente,/en/players/9dfdbdeb/Oscar-Clemente,Oscar-Clement,9dfdbdeb,es ESP,"MF,FW",Las-Palmas
+9491.0,ALex Salomón,/en/players/1c9e16d1/ALex-Salomon,ALex-Salomo,1c9e16d1,es ESP,DF,Las-Palmas
+9492.0,Eduardo Espiau,/en/players/872befe6/Eduardo-Espiau,Eduardo-Espiau,872befe6,es ESP,FW,Las-Palmas
+9493.0,Jonathan,/en/players/f3f60814/Jonathan,Jonath,f3f60814,br BRA,DF,Las-Palmas
+9494.0,Tomás Cardona,/en/players/e5cabba3/Tomas-Cardona,Tomas-Cardo,5cabba3,ar ARG,DF,Las-Palmas
+9495.0,Rafa Mújica,/en/players/04a67d5b/Rafa-Mujica,Rafa-Mujic,04a67d5b,es ESP,"FW,MF",Las-Palmas
+9496.0,Pietro Iemmello,/en/players/0861b8d6/Pietro-Iemmello,Pietro-Iemmello,0861b8d6,it ITA,FW,Las-Palmas
+9497.0,Ismael Athuman,/en/players/fdebc935/Ismael-Athuman,Ismael-Athum,fdebc935,ke KEN,DF,Las-Palmas
+9498.0,Diego Gutiérrez,/en/players/e75cf11d/Diego-Gutierrez,Diego-Gutierrez,75cf11d,es ESP,MF,Las-Palmas
+9499.0,Sergi Cardona,/en/players/74e90475/Sergi-Cardona,Sergi-Cardo,74e90475,es ESP,DF,Las-Palmas
+9500.0,Saúl Coco,/en/players/d0ee1652/Saul-Coco,Saul-Coco,d0ee1652,gq EQG,DF,Las-Palmas
+9501.0,Pau Miguélez,/en/players/3c8efb6a/Pau-Miguelez,Pau-Miguelez,3c8efb6a,es ESP,MF,Las-Palmas
+9502.0,Iñaki Elejalde,/en/players/28d9dddb/Inaki-Elejalde,Inaki-Elejald,28d9dddb,es ESP,FW,Las-Palmas
+9503.0,Alberto Moleiro,/en/players/c2c8897d/Alberto-Moleiro,Alberto-Moleiro,c2c8897d,es ESP,MF,Las-Palmas
+9504.0,Sergi Puig,/en/players/77951f80/Sergi-Puig,Sergi-Puig,77951f80,es ESP,GK,Las-Palmas
+9505.0,Juan Satoca,/en/players/d6315e0a/Juan-Satoca,Juan-Satoc,d6315e0a,es ESP,MF,Las-Palmas
+9506.0,David Vicente,/en/players/0d16396e/David-Vicente,David-Vicent,0d16396e,es ESP,MF,Las-Palmas
+9507.0,Omenuke Mfulu,/en/players/bdc14559/Omenuke-Mfulu,Omenuke-Mfulu,bdc14559,cd COD,MF,Las-Palmas
+9508.0,Armando Sadiku,/en/players/8b6d1830/Armando-Sadiku,Armando-Sadiku,8b6d1830,al ALB,FW,Las-Palmas
+9509.0,Erick Ferigra,/en/players/67cddecb/Erick-Ferigra,Erick-Ferig,67cddecb,ec ECU,DF,Las-Palmas
+9510.0,Adalberto Peñaranda,/en/players/4b3f2936/Adalberto-Penaranda,Adalberto-Penarand,4b3f2936,ve VEN,"MF,FW",Las-Palmas
+9511.0,Pinchi,/en/players/53bf02db/Pinchi,Pinchi,53bf02db,es ESP,MF,Las-Palmas
+9512.0,Hernâni Fortes,/en/players/2327c29e/Hernani-Fortes,Hernani-Fort,2327c29e,pt POR,"FW,MF",Las-Palmas
+9513.0,Pedro Alejandro García Mejías,/en/players/65217387/Pedro-Alejandro-Garcia-Mejias,Pedro-Alejandro-Garcia-Meji,65217387,es ESP,MF,Las-Palmas
+9514.0,Unai Veiga,/en/players/d085ffac/Unai-Veiga,Unai-Veig,d085ffac,es ESP,MF,Las-Palmas
+9515.0,Alfonso,/en/players/970ed894/Alfonso,Alfonso,970ed894,es ESP,GK,Las-Palmas
+9516.0,Cendón,/en/players/4b4cd163/Cendon,Cendo,4b4cd163,es ESP,GK,Las-Palmas

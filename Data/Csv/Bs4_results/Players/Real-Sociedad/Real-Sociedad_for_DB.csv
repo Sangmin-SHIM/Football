@@ -1,573 +1,573 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿López Rekarte,es ESP,DF,37,37,6.0,0.0,2002-2003,346b3104,Real-Sociedad,"3,330",37.0,8.0,0.0,38,1.0,191.0,Real-Sociedad
-,Sander Westerveld,nl NED,GK,37,37,0.0,0.0,2002-2003,dc8d38a2,Real-Sociedad,"3,330",37.0,1.0,0.0,38,11.0,192.0,Real-Sociedad
-,Valeri Karpin,ru RUS,MF,36,36,3.0,8.0,2002-2003,c88a6bc0,Real-Sociedad,"3,182",35.4,5.0,0.0,38,23.0,193.0,Real-Sociedad
-,Igor Jauregi,es ESP,"DF,MF",36,36,0.0,1.0,2002-2003,1f011af5,Real-Sociedad,"3,147",35.0,8.0,1.0,38,1.0,194.0,Real-Sociedad
-,Darko Kovačević,rs SRB,FW,36,36,4.0,20.0,2002-2003,12c6ec44,Real-Sociedad,"3,034",33.7,6.0,1.0,38,28.0,195.0,Real-Sociedad
-,Nihat Kahveci,tr TUR,FW,35,35,5.0,23.0,2002-2003,41e774bd,Real-Sociedad,"2,998",33.3,5.0,1.0,38,15.0,196.0,Real-Sociedad
-,Xabi Alonso,es ESP,MF,33,33,2.0,3.0,2002-2003,dc001a06,Real-Sociedad,"2,769",30.8,8.0,0.0,38,1.0,,Real-Sociedad
-,Agustín Aranzábal,es ESP,DF,32,32,3.0,0.0,2002-2003,65d657,Real-Sociedad,"2,879",32.0,5.0,0.0,38,1.0,197.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,34,27,1.0,2.0,2002-2003,9452d85a,Real-Sociedad,"2,483",27.6,7.0,0.0,38,1.0,198.0,Real-Sociedad
-,Javier de Pedro,es ESP,MF,29,26,15.0,6.0,2002-2003,0023e354,Real-Sociedad,"2,058",22.9,2.0,0.0,38,1.0,199.0,Real-Sociedad
-,Gabriel Schürrer,ar ARG,DF,23,23,1.0,0.0,2002-2003,350391,Real-Sociedad,"2,061",22.9,3.0,0.0,38,5.0,200.0,Real-Sociedad
-,Bjørn Tore Kvarme,no NOR,DF,20,18,1.0,0.0,2002-2003,7965324,Real-Sociedad,"1,667",18.5,2.0,0.0,38,21.0,201.0,Real-Sociedad
-,Boris,es ESP,DF,25,15,0.0,0.0,2002-2003,6f531b7d,Real-Sociedad,"1,412",15.7,1.0,0.0,38,1.0,202.0,Real-Sociedad
-,Igor Gabilondo,es ESP,MF,24,8,5.0,1.0,2002-2003,4ce0dff0,Real-Sociedad,814,9.0,4.0,0.0,38,1.0,203.0,Real-Sociedad
-,Tayfun Korkut,tr TUR,"DF,MF",22,6,0.0,2.0,2002-2003,8fafc61c,Real-Sociedad,758,8.4,1.0,0.0,38,15.0,204.0,Real-Sociedad
-,Dmitri Khokhlov,ru RUS,MF,18,5,1.0,2.0,2002-2003,1168dd23,Real-Sociedad,606,6.7,1.0,0.0,38,23.0,205.0,Real-Sociedad
-,José Barkero,es ESP,MF,11,5,1.0,0.0,2002-2003,89a1b23c,Real-Sociedad,571,6.3,1.0,0.0,38,1.0,206.0,Real-Sociedad
-,Mikel Alonso,es ESP,MF,9,1,0.0,1.0,2002-2003,b32eb2,Real-Sociedad,155,1.7,0.0,0.0,38,1.0,207.0,Real-Sociedad
-,Zuhaitz Gurrutxaga,es ESP,DF,2,1,0.0,0.0,2002-2003,b366fa6e,Real-Sociedad,91,1.0,0.0,0.0,38,1.0,208.0,Real-Sociedad
-,Alberto,es ESP,GK,1,1,0.0,0.0,2002-2003,9335367b,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,209.0,Real-Sociedad
-,Óscar de Paula,es ESP,FW,11,0,1.0,0.0,2002-2003,4b7217c8,Real-Sociedad,137,1.5,0.0,0.0,38,1.0,210.0,Real-Sociedad
-,Joseba Llorente,es ESP,FW,2,0,0.0,1.0,2002-2003,ddb98947,Real-Sociedad,22,0.2,0.0,0.0,38,1.0,211.0,Real-Sociedad
-,﻿Valeri Karpin,ru RUS,MF,38,37,5.0,7.0,2003-2004,c88a6bc0,Real-Sociedad,"3,205",35.6,4.0,0.0,38,23.0,193.0,Real-Sociedad
-,López Rekarte,es ESP,DF,35,35,6.0,1.0,2003-2004,346b3104,Real-Sociedad,"3,150",35.0,9.0,0.0,38,1.0,191.0,Real-Sociedad
-,Gabriel Schürrer,ar ARG,DF,33,33,0.0,1.0,2003-2004,350391,Real-Sociedad,"2,962",32.9,13.0,0.0,38,5.0,200.0,Real-Sociedad
-,Xabi Alonso,es ESP,MF,35,33,1.0,3.0,2003-2004,dc001a06,Real-Sociedad,"2,761",30.7,10.0,0.0,38,1.0,,Real-Sociedad
-,Darko Kovačević,rs SRB,FW,36,32,3.0,8.0,2003-2004,12c6ec44,Real-Sociedad,"2,799",31.1,6.0,0.0,38,28.0,195.0,Real-Sociedad
-,Nihat Kahveci,tr TUR,FW,32,30,2.0,13.0,2003-2004,41e774bd,Real-Sociedad,"2,601",28.9,4.0,0.0,38,15.0,196.0,Real-Sociedad
-,Bjørn Tore Kvarme,no NOR,DF,29,29,0.0,0.0,2003-2004,7965324,Real-Sociedad,"2,566",28.5,12.0,0.0,38,21.0,201.0,Real-Sociedad
-,Igor Gabilondo,es ESP,MF,33,27,2.0,5.0,2003-2004,4ce0dff0,Real-Sociedad,"2,217",24.6,3.0,0.0,38,1.0,203.0,Real-Sociedad
-,Agustín Aranzábal,es ESP,DF,24,23,1.0,0.0,2003-2004,65d657,Real-Sociedad,"2,076",23.1,4.0,1.0,38,1.0,197.0,Real-Sociedad
-,Bittor Alkiza,es ESP,MF,28,21,2.0,0.0,2003-2004,bfebd236,Real-Sociedad,"1,851",20.6,10.0,1.0,38,1.0,212.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,32,20,1.0,0.0,2003-2004,9452d85a,Real-Sociedad,"1,897",21.1,7.0,1.0,38,1.0,198.0,Real-Sociedad
-,Sander Westerveld,nl NED,GK,20,20,0.0,0.0,2003-2004,dc8d38a2,Real-Sociedad,"1,800",20.0,1.0,0.0,38,11.0,192.0,Real-Sociedad
-,Lionel Potillon,fr FRA,DF,20,18,0.0,0.0,2003-2004,be54ffd6,Real-Sociedad,"1,676",18.6,5.0,0.0,38,4.0,213.0,Real-Sociedad
-,Alberto,es ESP,GK,18,18,0.0,0.0,2003-2004,9335367b,Real-Sociedad,"1,620",18.0,1.0,0.0,38,1.0,209.0,Real-Sociedad
-,Igor Jauregi,es ESP,"DF,MF",17,14,0.0,1.0,2003-2004,1f011af5,Real-Sociedad,"1,289",14.3,2.0,0.0,38,1.0,194.0,Real-Sociedad
-,Óscar de Paula,es ESP,FW,27,10,0.0,5.0,2003-2004,4b7217c8,Real-Sociedad,"1,064",11.8,4.0,0.0,38,1.0,210.0,Real-Sociedad
-,Javier de Pedro,es ESP,MF,13,9,3.0,1.0,2003-2004,0023e354,Real-Sociedad,797,8.9,1.0,0.0,38,1.0,199.0,Real-Sociedad
-,Lee Chun-soo,kr KOR,"FW,MF",13,4,2.0,0.0,2003-2004,956c973,Real-Sociedad,494,5.5,1.0,0.0,38,30.0,214.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,10,2,0.0,2.0,2003-2004,d054d8b0,Real-Sociedad,275,3.1,1.0,0.0,38,1.0,215.0,Real-Sociedad
-,Boris,es ESP,DF,7,2,0.0,0.0,2003-2004,6f531b7d,Real-Sociedad,243,2.7,0.0,0.0,38,1.0,202.0,Real-Sociedad
-,Ignacio Azpilikueta Rodríguez,,,1,1,,0.0,2003-2004,064cd979,Real-Sociedad,90,1.0,0.0,0.0,38,,,Real-Sociedad
-,José Barkero,es ESP,MF,3,0,0.0,0.0,2003-2004,89a1b23c,Real-Sociedad,61,0.7,0.0,0.0,38,1.0,206.0,Real-Sociedad
-,Mikel Alonso,es ESP,MF,2,0,0.0,0.0,2003-2004,b32eb2,Real-Sociedad,49,0.5,0.0,0.0,38,1.0,207.0,Real-Sociedad
-,Gorka Larrea,es ESP,MF,1,0,0.0,0.0,2003-2004,242e09b6,Real-Sociedad,20,0.2,0.0,0.0,38,1.0,216.0,Real-Sociedad
-,Oskitz Estefanía,es ESP,FW,1,0,0.0,0.0,2003-2004,357b97d7,Real-Sociedad,16,0.2,0.0,0.0,38,1.0,217.0,Real-Sociedad
-,﻿Asier Riesgo,es ESP,GK,36,36,0.0,0.0,2004-2005,581c5276,Real-Sociedad,"3,171",35.2,4.0,1.0,38,1.0,218.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,36,33,3.0,3.0,2004-2005,9452d85a,Real-Sociedad,"2,932",32.6,6.0,0.0,38,1.0,198.0,Real-Sociedad
-,Valeri Karpin,ru RUS,MF,34,31,8.0,5.0,2004-2005,c88a6bc0,Real-Sociedad,"2,722",30.2,7.0,1.0,38,23.0,193.0,Real-Sociedad
-,Mikel Labaka,es ESP,DF,30,30,0.0,3.0,2004-2005,83de90d,Real-Sociedad,"2,700",30.0,3.0,0.0,38,1.0,219.0,Real-Sociedad
-,Mikel Alonso,es ESP,MF,35,30,1.0,0.0,2004-2005,b32eb2,Real-Sociedad,"2,631",29.2,4.0,0.0,38,1.0,207.0,Real-Sociedad
-,Darko Kovačević,rs SRB,FW,30,30,4.0,8.0,2004-2005,12c6ec44,Real-Sociedad,"2,583",28.7,5.0,0.0,38,28.0,195.0,Real-Sociedad
-,Luiz Alberto,br BRA,DF,28,27,0.0,0.0,2004-2005,5b803ce4,Real-Sociedad,"2,440",27.1,5.0,0.0,38,2.0,220.0,Real-Sociedad
-,Javier Garrido,es ESP,DF,28,27,1.0,0.0,2004-2005,3b142ce5,Real-Sociedad,"2,267",25.2,2.0,0.0,38,1.0,229.0,Real-Sociedad
-,López Rekarte,es ESP,DF,25,24,0.0,0.0,2004-2005,346b3104,Real-Sociedad,"2,163",24.0,5.0,0.0,38,1.0,191.0,Real-Sociedad
-,Nihat Kahveci,tr TUR,FW,23,22,4.0,13.0,2004-2005,41e774bd,Real-Sociedad,"1,880",20.9,5.0,0.0,38,15.0,196.0,Real-Sociedad
-,Adriano Rossato,br BRA,DF,22,17,3.0,1.0,2004-2005,38c090c1,Real-Sociedad,"1,495",16.6,2.0,1.0,38,2.0,221.0,Real-Sociedad
-,Igor Gabilondo,es ESP,MF,26,16,2.0,1.0,2004-2005,4ce0dff0,Real-Sociedad,"1,336",14.8,0.0,0.0,38,1.0,203.0,Real-Sociedad
-,Gari Uranga,es ESP,MF,28,15,0.0,5.0,2004-2005,2a701b9e,Real-Sociedad,"1,409",15.7,2.0,0.0,38,1.0,222.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,23,14,3.0,0.0,2004-2005,d054d8b0,Real-Sociedad,"1,282",14.2,3.0,1.0,38,1.0,215.0,Real-Sociedad
-,Jérémie Bréchet,fr FRA,"DF,MF",17,14,0.0,0.0,2004-2005,2a13c80b,Real-Sociedad,"1,265",14.1,1.0,0.0,38,4.0,223.0,Real-Sociedad
-,Iban Zubiaurre,es ESP,DF,14,14,0.0,0.0,2004-2005,be3e3e7e,Real-Sociedad,"1,257",14.0,0.0,0.0,38,1.0,224.0,Real-Sociedad
-,Bittor Alkiza,es ESP,MF,10,9,0.0,0.0,2004-2005,bfebd236,Real-Sociedad,709,7.9,5.0,0.0,38,1.0,212.0,Real-Sociedad
-,Óscar de Paula,es ESP,FW,19,7,0.0,3.0,2004-2005,4b7217c8,Real-Sociedad,843,9.4,1.0,0.0,38,1.0,210.0,Real-Sociedad
-,José Barkero,es ESP,MF,13,7,1.0,3.0,2004-2005,89a1b23c,Real-Sociedad,699,7.8,2.0,0.0,38,1.0,206.0,Real-Sociedad
-,Igor Jauregi,es ESP,"DF,MF",5,5,0.0,0.0,2004-2005,1f011af5,Real-Sociedad,450,5.0,3.0,0.0,38,1.0,194.0,Real-Sociedad
-,Dragan Mladenović,rs SRB,MF,12,5,0.0,0.0,2004-2005,1e661c8a,Real-Sociedad,437,4.9,2.0,0.0,38,28.0,225.0,Real-Sociedad
-,Mikel Arteta,es ESP,MF,15,3,0.0,1.0,2004-2005,d934d1e6,Real-Sociedad,444,4.9,2.0,0.0,38,1.0,226.0,Real-Sociedad
-,Alberto,es ESP,GK,4,2,0.0,0.0,2004-2005,9335367b,Real-Sociedad,259,2.9,0.0,0.0,38,1.0,209.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,3,0,,1.0,2004-2005,c84c1afc,Real-Sociedad,67,0.7,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,Oskitz Estefanía,es ESP,FW,3,0,0.0,0.0,2004-2005,357b97d7,Real-Sociedad,63,0.7,0.0,0.0,38,1.0,217.0,Real-Sociedad
-,Gorka Larrea,es ESP,MF,3,0,,0.0,2004-2005,242e09b6,Real-Sociedad,30,0.3,0.0,0.0,38,1.0,216.0,Real-Sociedad
-,Juan Domínguez,es ESP,FW,2,0,,0.0,2004-2005,3cf63263,Real-Sociedad,24,0.3,0.0,0.0,38,1.0,228.0,Real-Sociedad
-,﻿Mikel Alonso,es ESP,MF,37,34,2.0,1.0,2005-2006,b32eb2,Real-Sociedad,"2,953",32.8,5.0,0.0,38,1.0,207.0,Real-Sociedad
-,Asier Riesgo,es ESP,GK,33,33,0.0,0.0,2005-2006,581c5276,Real-Sociedad,"2,905",32.3,2.0,0.0,38,1.0,218.0,Real-Sociedad
-,Javier Garrido,es ESP,DF,33,33,2.0,0.0,2005-2006,3b142ce5,Real-Sociedad,"2,818",31.3,7.0,0.0,38,1.0,229.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,38,32,2.0,9.0,2005-2006,d054d8b0,Real-Sociedad,"2,734",30.4,4.0,0.0,38,1.0,215.0,Real-Sociedad
-,Mikel Labaka,es ESP,DF,33,31,1.0,1.0,2005-2006,83de90d,Real-Sociedad,"2,851",31.7,2.0,0.0,38,1.0,219.0,Real-Sociedad
-,López Rekarte,es ESP,DF,31,29,1.0,0.0,2005-2006,346b3104,Real-Sociedad,"2,673",29.7,4.0,1.0,38,1.0,191.0,Real-Sociedad
-,Álvaro Novo,es ESP,MF,33,27,2.0,2.0,2005-2006,2b88098,Real-Sociedad,"2,310",25.7,8.0,0.0,38,1.0,230.0,Real-Sociedad
-,Nihat Kahveci,tr TUR,FW,32,24,5.0,7.0,2005-2006,41e774bd,Real-Sociedad,"2,128",23.6,3.0,1.0,38,15.0,196.0,Real-Sociedad
-,Igor Jauregi,es ESP,"DF,MF",23,23,0.0,1.0,2005-2006,1f011af5,Real-Sociedad,"2,070",23.0,4.0,0.0,38,1.0,194.0,Real-Sociedad
-,Gaizka Garitano,es ESP,MF,19,17,0.0,3.0,2005-2006,0f5ededa,Real-Sociedad,"1,470",16.3,8.0,2.0,38,1.0,231.0,Real-Sociedad
-,Morten Skoubo,dk DEN,FW,18,16,4.0,5.0,2005-2006,b2a3515,Real-Sociedad,"1,376",15.3,3.0,0.0,38,7.0,232.0,Real-Sociedad
-,Gari Uranga,es ESP,MF,33,15,2.0,0.0,2005-2006,2a701b9e,Real-Sociedad,"1,491",16.6,1.0,2.0,38,1.0,222.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,13,13,0.0,1.0,2005-2006,72b26e8e,Real-Sociedad,"1,112",12.4,2.0,0.0,38,1.0,233.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,13,13,3.0,1.0,2005-2006,9452d85a,Real-Sociedad,"1,038",11.5,2.0,1.0,38,1.0,198.0,Real-Sociedad
-,Mark González,cl CHI,"FW,MF",16,12,3.0,4.0,2005-2006,d8c62450,Real-Sociedad,"1,058",11.8,3.0,0.0,38,31.0,234.0,Real-Sociedad
-,Daniel Cifuentes,es ESP,DF,13,12,1.0,0.0,2005-2006,488a3de8,Real-Sociedad,973,10.8,3.0,1.0,38,1.0,235.0,Real-Sociedad
-,Jhon Viáfara,co COL,MF,11,10,0.0,0.0,2005-2006,79344ebf,Real-Sociedad,808,9.0,2.0,2.0,38,19.0,236.0,Real-Sociedad
-,Darko Kovačević,rs SRB,FW,9,9,1.0,4.0,2005-2006,12c6ec44,Real-Sociedad,797,8.9,2.0,0.0,38,28.0,195.0,Real-Sociedad
-,Dalibor Stevanović,si SVN,MF,14,7,0.0,1.0,2005-2006,da8e51,Real-Sociedad,680,7.6,4.0,0.0,38,32.0,237.0,Real-Sociedad
-,Igor Gabilondo,es ESP,MF,16,6,1.0,1.0,2005-2006,4ce0dff0,Real-Sociedad,693,7.7,2.0,0.0,38,1.0,203.0,Real-Sociedad
-,Alberto,es ESP,GK,6,5,0.0,0.0,2005-2006,9335367b,Real-Sociedad,515,5.7,0.0,0.0,38,1.0,209.0,Real-Sociedad
-,José Barkero,es ESP,MF,17,3,0.0,2.0,2005-2006,89a1b23c,Real-Sociedad,641,7.1,2.0,0.0,38,1.0,206.0,Real-Sociedad
-,Gorka Larrea,es ESP,MF,12,3,0.0,0.0,2005-2006,242e09b6,Real-Sociedad,312,3.5,1.0,0.0,38,1.0,216.0,Real-Sociedad
-,Óscar de Paula,es ESP,FW,6,3,0.0,3.0,2005-2006,4b7217c8,Real-Sociedad,281,3.1,0.0,0.0,38,1.0,210.0,Real-Sociedad
-,Jérémie Bréchet,fr FRA,"DF,MF",3,3,0.0,0.0,2005-2006,2a13c80b,Real-Sociedad,270,3.0,1.0,0.0,38,4.0,223.0,Real-Sociedad
-,Mikel González,es ESP,DF,3,3,0.0,0.0,2005-2006,7cc5bd9c,Real-Sociedad,263,2.9,2.0,0.0,38,1.0,238.0,Real-Sociedad
-,Boris,es ESP,DF,3,1,0.0,0.0,2005-2006,6f531b7d,Real-Sociedad,136,1.5,0.0,0.0,38,1.0,202.0,Real-Sociedad
-,Iñigo Díaz de Cerio,es ESP,FW,3,1,,0.0,2005-2006,757bd109,Real-Sociedad,64,0.7,0.0,0.0,38,1.0,239.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,1,0,,0.0,2005-2006,c84c1afc,Real-Sociedad,12,0.1,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,﻿Xabi Prieto,es ESP,MF,33,31,2.0,4.0,2006-2007,d054d8b0,Real-Sociedad,"2,689",29.9,4.0,0.0,38,1.0,215.0,Real-Sociedad
-,Claudio Bravo,cl CHI,GK,29,29,0.0,0.0,2006-2007,10072610,Real-Sociedad,"2,610",29.0,5.0,0.0,38,31.0,240.0,Real-Sociedad
-,Gerardo,es ESP,"DF,MF",30,28,1.0,0.0,2006-2007,07c345de,Real-Sociedad,"2,410",26.8,9.0,1.0,38,1.0,241.0,Real-Sociedad
-,Darko Kovačević,rs SRB,FW,33,27,1.0,3.0,2006-2007,12c6ec44,Real-Sociedad,"2,394",26.6,6.0,0.0,38,28.0,195.0,Real-Sociedad
-,López Rekarte,es ESP,DF,28,25,3.0,1.0,2006-2007,346b3104,Real-Sociedad,"2,248",25.0,5.0,0.0,38,1.0,191.0,Real-Sociedad
-,Juanito,es ESP,"DF,MF",28,25,0.0,1.0,2006-2007,47176127,Real-Sociedad,"2,180",24.2,5.0,0.0,38,1.0,242.0,Real-Sociedad
-,Javier Garrido,es ESP,DF,25,23,1.0,1.0,2006-2007,3b142ce5,Real-Sociedad,"2,036",22.6,4.0,0.0,38,1.0,229.0,Real-Sociedad
-,Gaizka Garitano,es ESP,MF,31,22,1.0,2.0,2006-2007,0f5ededa,Real-Sociedad,"2,172",24.1,12.0,0.0,38,1.0,231.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,29,21,1.0,3.0,2006-2007,9452d85a,Real-Sociedad,"1,899",21.1,1.0,1.0,38,1.0,198.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,20,19,0.0,2.0,2006-2007,72b26e8e,Real-Sociedad,"1,727",19.2,2.0,0.0,38,1.0,233.0,Real-Sociedad
-,Diego Rivas,es ESP,MF,21,19,0.0,1.0,2006-2007,cf46bc,Real-Sociedad,"1,495",16.6,6.0,1.0,38,1.0,243.0,Real-Sociedad
-,Sávio,br BRA,MF,19,18,2.0,5.0,2006-2007,4abe5c93,Real-Sociedad,"1,617",18.0,2.0,0.0,38,2.0,244.0,Real-Sociedad
-,Mikel González,es ESP,DF,19,18,0.0,0.0,2006-2007,7cc5bd9c,Real-Sociedad,"1,610",17.9,6.0,1.0,38,1.0,238.0,Real-Sociedad
-,Víctor López,ar ARG,DF,17,17,2.0,0.0,2006-2007,cc7c8a52,Real-Sociedad,"1,530",17.0,5.0,0.0,38,5.0,245.0,Real-Sociedad
-,Gari Uranga,es ESP,MF,20,17,1.0,2.0,2006-2007,2a701b9e,Real-Sociedad,"1,470",16.3,5.0,0.0,38,1.0,222.0,Real-Sociedad
-,Mikel Labaka,es ESP,DF,11,11,1.0,0.0,2006-2007,83de90d,Real-Sociedad,990,11.0,2.0,0.0,38,1.0,219.0,Real-Sociedad
-,Iñigo Díaz de Cerio,es ESP,FW,27,10,0.0,4.0,2006-2007,757bd109,Real-Sociedad,"1,070",11.9,4.0,0.0,38,1.0,239.0,Real-Sociedad
-,Asier Riesgo,es ESP,GK,9,9,0.0,0.0,2006-2007,581c5276,Real-Sociedad,810,9.0,0.0,0.0,38,1.0,218.0,Real-Sociedad
-,Germán Herrera,ar ARG,FW,19,9,1.0,1.0,2006-2007,2c72c960,Real-Sociedad,804,8.9,3.0,0.0,38,5.0,246.0,Real-Sociedad
-,Jesuli,es ESP,MF,11,9,1.0,0.0,2006-2007,3bfc833a,Real-Sociedad,695,7.7,1.0,0.0,38,1.0,247.0,Real-Sociedad
-,Mikel Alonso,es ESP,MF,18,7,0.0,0.0,2006-2007,b32eb2,Real-Sociedad,776,8.6,0.0,0.0,38,1.0,207.0,Real-Sociedad
-,Álvaro Novo,es ESP,MF,11,6,0.0,1.0,2006-2007,2b88098,Real-Sociedad,470,5.2,2.0,0.0,38,1.0,230.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",8,5,1.0,0.0,2006-2007,519412fd,Real-Sociedad,476,5.3,1.0,0.0,38,1.0,248.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",6,5,0.0,0.0,2006-2007,7b309e55,Real-Sociedad,427,4.7,0.0,0.0,38,1.0,249.0,Real-Sociedad
-,Fábio Felício,pt POR,"FW,MF",10,4,0.0,0.0,2006-2007,8d8dc0d,Real-Sociedad,383,4.3,2.0,0.0,38,3.0,250.0,Real-Sociedad
-,Morten Skoubo,dk DEN,FW,5,1,0.0,0.0,2006-2007,b2a3515,Real-Sociedad,173,1.9,0.0,0.0,38,7.0,232.0,Real-Sociedad
-,Dalibor Stevanović,si SVN,MF,1,1,0.0,0.0,2006-2007,da8e51,Real-Sociedad,71,0.8,0.0,0.0,38,32.0,237.0,Real-Sociedad
-,Daniel Cifuentes,es ESP,DF,1,1,0.0,0.0,2006-2007,488a3de8,Real-Sociedad,54,0.6,1.0,0.0,38,1.0,235.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,6,0,0.0,0.0,2006-2007,c84c1afc,Real-Sociedad,79,0.9,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,Adriano Rossato,br BRA,DF,2,0,0.0,0.0,2006-2007,38c090c1,Real-Sociedad,60,0.7,0.0,0.0,38,2.0,221.0,Real-Sociedad
-,﻿Asier Riesgo,es ESP,GK,42,42,0.0,0.0,2007-2008,581c5276,Real-Sociedad,"3,780",42.0,1.0,0.0,38,1.0,218.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,38,38,1.0,2.0,2007-2008,9452d85a,Real-Sociedad,"3,165",35.2,11.0,0.0,38,1.0,198.0,Real-Sociedad
-,Xabier Castillo,hr CRO,DF,35,34,0.0,0.0,2007-2008,638dc43b,Real-Sociedad,"3,089",34.3,6.0,0.0,38,16.0,251.0,Real-Sociedad
-,Gerardo,es ESP,"DF,MF",34,33,1.0,3.0,2007-2008,07c345de,Real-Sociedad,"2,799",31.1,14.0,1.0,38,1.0,241.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,36,32,8.0,4.0,2007-2008,d054d8b0,Real-Sociedad,"2,938",32.6,4.0,0.0,38,1.0,215.0,Real-Sociedad
-,Iñigo Díaz de Cerio,es ESP,FW,36,30,2.0,16.0,2007-2008,757bd109,Real-Sociedad,"2,576",28.6,6.0,1.0,38,1.0,239.0,Real-Sociedad
-,Mikel González,es ESP,DF,32,29,1.0,0.0,2007-2008,7cc5bd9c,Real-Sociedad,"2,652",29.5,6.0,1.0,38,1.0,238.0,Real-Sociedad
-,Gaizka Garitano,es ESP,MF,31,26,0.0,4.0,2007-2008,0f5ededa,Real-Sociedad,"2,348",26.1,12.0,0.0,38,1.0,231.0,Real-Sociedad
-,Mikel Labaka,es ESP,DF,25,24,0.0,2.0,2007-2008,83de90d,Real-Sociedad,"2,136",23.7,3.0,0.0,38,1.0,219.0,Real-Sociedad
-,Andrija Delibašić,me MNE,FW,33,23,1.0,6.0,2007-2008,4de03033,Real-Sociedad,"1,936",21.5,7.0,0.0,38,33.0,252.0,Real-Sociedad
-,José Luis Martí,es ESP,MF,21,20,4.0,2.0,2007-2008,111c668a,Real-Sociedad,"1,834",20.4,4.0,0.0,38,1.0,253.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,18,17,0.0,0.0,2007-2008,72b26e8e,Real-Sociedad,"1,568",17.4,2.0,0.0,38,1.0,233.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",19,15,1.0,2.0,2007-2008,7b309e55,Real-Sociedad,"1,355",15.1,1.0,0.0,38,1.0,249.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,15,15,0.0,2.0,2007-2008,d9b0cc38,Real-Sociedad,"1,284",14.3,1.0,0.0,38,1.0,254.0,Real-Sociedad
-,Víctor López,ar ARG,DF,14,14,0.0,1.0,2007-2008,cc7c8a52,Real-Sociedad,"1,214",13.5,5.0,1.0,38,5.0,245.0,Real-Sociedad
-,Nacho,es ESP,"DF,MF",16,13,1.0,1.0,2007-2008,7537011,Real-Sociedad,"1,060",11.8,2.0,0.0,38,1.0,255.0,Real-Sociedad
-,Gari Uranga,es ESP,MF,34,12,1.0,2.0,2007-2008,2a701b9e,Real-Sociedad,"1,422",15.8,8.0,0.0,38,1.0,222.0,Real-Sociedad
-,Víctor Casadesús,es ESP,FW,19,10,3.0,6.0,2007-2008,73cd0a2a,Real-Sociedad,928,10.3,3.0,0.0,38,1.0,256.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",18,8,2.0,0.0,2007-2008,519412fd,Real-Sociedad,737,8.2,1.0,0.0,38,1.0,248.0,Real-Sociedad
-,Fran Mérida,es ESP,MF,17,7,0.0,1.0,2007-2008,0e50f929,Real-Sociedad,729,8.1,2.0,0.0,38,1.0,257.0,Real-Sociedad
-,David Vaughan,wls WAL,MF,9,7,1.0,1.0,2007-2008,b950cb68,Real-Sociedad,595,6.6,2.0,0.0,38,18.0,258.0,Real-Sociedad
-,Gorka Larrea,es ESP,MF,9,6,1.0,0.0,2007-2008,242e09b6,Real-Sociedad,396,4.4,0.0,0.0,38,1.0,216.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,4,3,0.0,0.0,2007-2008,04a65a8f,Real-Sociedad,254,2.8,1.0,0.0,38,1.0,259.0,Real-Sociedad
-,Álvaro Novo,es ESP,MF,8,1,1.0,0.0,2007-2008,2b88098,Real-Sociedad,181,2.0,0.0,0.0,38,1.0,230.0,Real-Sociedad
-,Dalibor Stevanović,si SVN,MF,3,1,0.0,0.0,2007-2008,da8e51,Real-Sociedad,152,1.7,0.0,0.0,38,32.0,237.0,Real-Sociedad
-,Iñigo Sarasola,es ESP,DF,1,1,0.0,0.0,2007-2008,6998e6da,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,260.0,Real-Sociedad
-,Morten Skoubo,dk DEN,FW,7,0,0.0,0.0,2007-2008,b2a3515,Real-Sociedad,108,1.2,0.0,0.0,38,7.0,232.0,Real-Sociedad
-,Borja Viguera,es ESP,FW,3,0,0.0,0.0,2007-2008,d906a703,Real-Sociedad,53,0.6,0.0,0.0,38,1.0,261.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,2,0,0.0,0.0,2007-2008,c84c1afc,Real-Sociedad,7,0.1,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,﻿Mikel Labaka,es ESP,DF,35,35,1.0,2.0,2008-2009,83de90d,Real-Sociedad,"3,126",34.7,6.0,1.0,38,1.0,219.0,Real-Sociedad
-,Xabier Castillo,hr CRO,DF,36,33,2.0,1.0,2008-2009,638dc43b,Real-Sociedad,"2,968",33.0,8.0,0.0,38,16.0,251.0,Real-Sociedad
-,Claudio Bravo,cl CHI,GK,32,32,0.0,0.0,2008-2009,10072610,Real-Sociedad,"2,880",32.0,3.0,0.0,38,31.0,240.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,32,32,4.0,5.0,2008-2009,9452d85a,Real-Sociedad,"2,816",31.3,10.0,0.0,38,1.0,198.0,Real-Sociedad
-,Marquitos,es ESP,"FW,MF",38,32,1.0,4.0,2008-2009,b5e3874c,Real-Sociedad,"2,719",30.2,6.0,2.0,38,1.0,,Real-Sociedad
-,Gerardo,es ESP,"DF,MF",32,30,1.0,0.0,2008-2009,07c345de,Real-Sociedad,"2,676",29.7,7.0,0.0,38,1.0,241.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,32,30,4.0,3.0,2008-2009,d054d8b0,Real-Sociedad,"2,632",29.2,6.0,0.0,38,1.0,215.0,Real-Sociedad
-,Mikel González,es ESP,DF,29,28,0.0,0.0,2008-2009,7cc5bd9c,Real-Sociedad,"2,462",27.4,11.0,1.0,38,1.0,238.0,Real-Sociedad
-,Diego Rivas,es ESP,MF,34,26,1.0,0.0,2008-2009,cf46bc,Real-Sociedad,"2,375",26.4,8.0,0.0,38,1.0,243.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,26,24,0.0,1.0,2008-2009,72b26e8e,Real-Sociedad,"2,174",24.2,4.0,0.0,38,1.0,233.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,25,23,0.0,0.0,2008-2009,04a65a8f,Real-Sociedad,"1,879",20.9,6.0,3.0,38,1.0,259.0,Real-Sociedad
-,Moha,ma MAR,"DF,FW",34,20,3.0,1.0,2008-2009,3d09e03,Real-Sociedad,"1,726",19.2,7.0,1.0,38,26.0,262.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,22,19,3.0,0.0,2008-2009,d9b0cc38,Real-Sociedad,"1,649",18.3,6.0,0.0,38,1.0,254.0,Real-Sociedad
-,Sergio Rodríguez,es ESP,MF,24,17,4.0,3.0,2008-2009,44e3ae1a,Real-Sociedad,"1,436",16.0,7.0,0.0,38,1.0,263.0,Real-Sociedad
-,Sebastián Abreu,uy URU,FW,18,16,2.0,11.0,2008-2009,b310aab,Real-Sociedad,"1,359",15.1,1.0,0.0,38,8.0,264.0,Real-Sociedad
-,Necati Ateş,tr TUR,"FW,MF",35,12,0.0,1.0,2008-2009,c82fa989,Real-Sociedad,"1,444",16.0,4.0,0.0,38,15.0,265.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,28,11,0.0,9.0,2008-2009,c84c1afc,Real-Sociedad,"1,203",13.4,3.0,0.0,38,1.0,227.0,Real-Sociedad
-,Iñigo Díaz de Cerio,es ESP,FW,11,11,1.0,4.0,2008-2009,757bd109,Real-Sociedad,960,10.7,2.0,0.0,38,1.0,239.0,Real-Sociedad
-,Eñaut Zubikarai,es ESP,GK,9,9,0.0,0.0,2008-2009,5e92d0ec,Real-Sociedad,758,8.4,0.0,1.0,38,1.0,266.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",25,8,1.0,0.0,2008-2009,519412fd,Real-Sociedad,843,9.4,4.0,0.0,38,1.0,248.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",8,7,0.0,1.0,2008-2009,7b309e55,Real-Sociedad,583,6.5,2.0,0.0,38,1.0,249.0,Real-Sociedad
-,Javier Ros,es ESP,MF,5,4,0.0,0.0,2008-2009,6b2f1a78,Real-Sociedad,380,4.2,1.0,0.0,38,1.0,267.0,Real-Sociedad
-,Toño Ramírez,es ESP,GK,2,1,0.0,0.0,2008-2009,dc4511f3,Real-Sociedad,142,1.6,0.0,0.0,38,1.0,268.0,Real-Sociedad
-,Boukary Dramé,sn SEN,"DF,MF",1,1,0.0,0.0,2008-2009,5cd894b,Real-Sociedad,90,1.0,1.0,0.0,38,34.0,269.0,Real-Sociedad
-,Iñigo Sarasola,es ESP,DF,1,1,0.0,0.0,2008-2009,6998e6da,Real-Sociedad,65,0.7,0.0,0.0,38,1.0,260.0,Real-Sociedad
-,Borja Viguera,es ESP,FW,2,0,1.0,0.0,2008-2009,d906a703,Real-Sociedad,27,0.3,0.0,0.0,38,1.0,261.0,Real-Sociedad
-,Alain Eizmendi,es ESP,"DF,MF",1,0,0.0,0.0,2008-2009,d59d0a17,Real-Sociedad,24,0.3,0.0,0.0,38,1.0,270.0,Real-Sociedad
-,Giovanni Sio,ci CIV,"FW,MF",2,0,0.0,0.0,2008-2009,0fe7f7bc,Real-Sociedad,10,0.1,1.0,0.0,38,35.0,271.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,1,0,0.0,0.0,2008-2009,d9bda115,Real-Sociedad,10,0.1,0.0,0.0,38,1.0,272.0,Real-Sociedad
-,﻿Ion Ansotegi,es ESP,DF,40,40,3.0,4.0,2009-2010,72b26e8e,Real-Sociedad,"3,600",40.0,6.0,0.0,38,1.0,233.0,Real-Sociedad
-,Diego Rivas,es ESP,MF,37,36,1.0,0.0,2009-2010,cf46bc,Real-Sociedad,"3,113",34.6,14.0,0.0,38,1.0,243.0,Real-Sociedad
-,Mikel González,es ESP,DF,35,35,0.0,1.0,2009-2010,7cc5bd9c,Real-Sociedad,"3,049",33.9,8.0,1.0,38,1.0,238.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,35,34,9.0,7.0,2009-2010,d054d8b0,Real-Sociedad,"2,998",33.3,7.0,1.0,38,1.0,215.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,35,31,1.0,2.0,2009-2010,9452d85a,Real-Sociedad,"2,690",29.9,12.0,1.0,38,1.0,198.0,Real-Sociedad
-,Antoine Griezmann,fr FRA,"FW,MF",39,30,5.0,6.0,2009-2010,df69b544,Real-Sociedad,"2,583",28.7,5.0,0.0,38,4.0,273.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,30,28,0.0,1.0,2009-2010,8497faf7,Real-Sociedad,"2,548",28.3,4.0,0.0,38,1.0,274.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",30,26,0.0,1.0,2009-2010,7b309e55,Real-Sociedad,"2,214",24.6,4.0,0.0,38,1.0,249.0,Real-Sociedad
-,Claudio Bravo,cl CHI,GK,25,25,0.0,1.0,2009-2010,10072610,Real-Sociedad,"2,156",24.0,1.0,1.0,38,31.0,240.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,23,22,2.0,0.0,2009-2010,d9b0cc38,Real-Sociedad,"1,985",22.1,3.0,1.0,38,1.0,254.0,Real-Sociedad
-,Mikel Labaka,es ESP,DF,25,21,0.0,3.0,2009-2010,83de90d,Real-Sociedad,"1,939",21.5,6.0,0.0,38,1.0,219.0,Real-Sociedad
-,Carlos Bueno,uy URU,FW,33,21,1.0,12.0,2009-2010,2f57aca3,Real-Sociedad,"1,924",21.4,9.0,0.0,38,8.0,275.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,36,20,1.0,6.0,2009-2010,c84c1afc,Real-Sociedad,"1,877",20.9,1.0,0.0,38,1.0,227.0,Real-Sociedad
-,Emilio Nsue,gq EQG,"DF,FW",33,19,3.0,5.0,2009-2010,1c9bc4fa,Real-Sociedad,"1,704",18.9,2.0,0.0,38,10.0,276.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,28,18,1.0,4.0,2009-2010,d9bda115,Real-Sociedad,"1,632",18.1,3.0,0.0,38,1.0,272.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",18,17,1.0,0.0,2009-2010,519412fd,Real-Sociedad,"1,539",17.1,7.0,1.0,38,1.0,248.0,Real-Sociedad
-,Eñaut Zubikarai,es ESP,GK,12,10,0.0,0.0,2009-2010,5e92d0ec,Real-Sociedad,994,11.0,0.0,1.0,38,1.0,266.0,Real-Sociedad
-,Asier Riesgo,es ESP,GK,7,7,0.0,0.0,2009-2010,581c5276,Real-Sociedad,630,7.0,0.0,0.0,38,1.0,218.0,Real-Sociedad
-,Sergio Rodríguez,es ESP,MF,15,6,0.0,0.0,2009-2010,44e3ae1a,Real-Sociedad,516,5.7,2.0,0.0,38,1.0,263.0,Real-Sociedad
-,Jonathan Estrada,co COL,MF,11,6,1.0,0.0,2009-2010,8873a3e2,Real-Sociedad,458,5.1,1.0,0.0,38,19.0,277.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,19,3,0.0,0.0,2009-2010,04a65a8f,Real-Sociedad,481,5.3,3.0,0.0,38,1.0,259.0,Real-Sociedad
-,Iñigo Sarasola,es ESP,DF,4,3,0.0,0.0,2009-2010,6998e6da,Real-Sociedad,285,3.2,1.0,0.0,38,1.0,260.0,Real-Sociedad
-,Josu Esnaola,,DF,2,2,0.0,0.0,2009-2010,8c4a5306,Real-Sociedad,180,2.0,0.0,0.0,38,,,Real-Sociedad
-,Franck Songo'o,cm CMR,"FW,MF",8,1,0.0,0.0,2009-2010,835c259d,Real-Sociedad,235,2.6,3.0,0.0,38,36.0,278.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,1,1,0.0,0.0,2009-2010,5ce0b5ba,Real-Sociedad,32,0.4,0.0,0.0,38,1.0,,Real-Sociedad
-,Alex Albistegi,es ESP,MF,1,0,0.0,0.0,2009-2010,48be1e34,Real-Sociedad,58,0.6,0.0,0.0,38,1.0,279.0,Real-Sociedad
-,Borja Viguera,es ESP,FW,4,0,0.0,0.0,2009-2010,d906a703,Real-Sociedad,25,0.3,1.0,0.0,38,1.0,261.0,Real-Sociedad
-,﻿Claudio Bravo,cl CHI,GK,38,38,0.0,0.0,2010-2011,10072610,Real-Sociedad,"3,420",38.0,1.0,0.0,38,31.0,240.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,37,36,9.0,7.0,2010-2011,d054d8b0,Real-Sociedad,"3,235",35.9,6.0,0.0,38,1.0,215.0,Real-Sociedad
-,Antoine Griezmann,fr FRA,"FW,MF",37,34,2.0,7.0,2010-2011,df69b544,Real-Sociedad,"2,832",31.5,7.0,0.0,38,4.0,273.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,32,32,1.0,1.0,2010-2011,72b26e8e,Real-Sociedad,"2,808",31.2,3.0,0.0,38,1.0,233.0,Real-Sociedad
-,Diego Rivas,es ESP,MF,32,31,0.0,2.0,2010-2011,cf46bc,Real-Sociedad,"2,564",28.5,9.0,0.0,38,1.0,243.0,Real-Sociedad
-,Mikel González,es ESP,DF,32,30,1.0,0.0,2010-2011,7cc5bd9c,Real-Sociedad,"2,671",29.7,5.0,0.0,38,1.0,238.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,36,30,1.0,2.0,2010-2011,d9bda115,Real-Sociedad,"2,502",27.8,6.0,0.0,38,1.0,272.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,30,28,1.0,0.0,2010-2011,8497faf7,Real-Sociedad,"2,526",28.1,4.0,0.0,38,1.0,274.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,32,27,2.0,5.0,2010-2011,9452d85a,Real-Sociedad,"2,306",25.6,6.0,0.0,38,1.0,198.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,25,25,2.0,0.0,2010-2011,d9b0cc38,Real-Sociedad,"2,205",24.5,1.0,0.0,38,1.0,254.0,Real-Sociedad
-,Raúl Tamudo,es ESP,FW,31,20,1.0,7.0,2010-2011,c026089c,Real-Sociedad,"1,813",20.1,5.0,0.0,38,1.0,280.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",19,18,2.0,1.0,2010-2011,519412fd,Real-Sociedad,"1,627",18.1,4.0,0.0,38,1.0,248.0,Real-Sociedad
-,Joseba Llorente,es ESP,FW,18,15,7.0,5.0,2010-2011,ddb98947,Real-Sociedad,"1,264",14.0,4.0,0.0,38,1.0,211.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",18,13,0.0,0.0,2010-2011,7b309e55,Real-Sociedad,"1,184",13.2,3.0,0.0,38,1.0,249.0,Real-Sociedad
-,Vadim Demidov,no NOR,"DF,MF",13,12,1.0,0.0,2010-2011,59f3b22d,Real-Sociedad,"1,094",12.2,2.0,0.0,38,21.0,281.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,19,9,0.0,0.0,2010-2011,04a65a8f,Real-Sociedad,962,10.7,5.0,0.0,38,1.0,259.0,Real-Sociedad
-,Mikel Labaka,es ESP,DF,14,9,1.0,0.0,2010-2011,83de90d,Real-Sociedad,926,10.3,3.0,0.0,38,1.0,219.0,Real-Sociedad
-,Francisco Sutil,es ESP,"DF,FW",17,4,1.0,2.0,2010-2011,51b44d11,Real-Sociedad,524,5.8,1.0,0.0,38,1.0,282.0,Real-Sociedad
-,Diego Ifrán,uy URU,FW,10,3,0.0,2.0,2010-2011,59e3e40f,Real-Sociedad,332,3.7,2.0,0.0,38,8.0,283.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,3,2,0.0,0.0,2010-2011,5ce0b5ba,Real-Sociedad,190,2.1,2.0,0.0,38,1.0,,Real-Sociedad
-,Jeffrey Sarpong,nl NED,MF,16,1,0.0,1.0,2010-2011,cabfd01c,Real-Sociedad,348,3.9,1.0,0.0,38,11.0,284.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,11,1,0.0,3.0,2010-2011,c84c1afc,Real-Sociedad,214,2.4,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,Borja Viguera,es ESP,FW,5,0,0.0,0.0,2010-2011,d906a703,Real-Sociedad,73,0.8,0.0,0.0,38,1.0,261.0,Real-Sociedad
-,﻿Claudio Bravo,cl CHI,GK,37,37,0.0,0.0,2011-2012,10072610,Real-Sociedad,"3,330",37.0,2.0,0.0,38,31.0,240.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,33,30,1.0,3.0,2011-2012,d9bda115,Real-Sociedad,"2,514",27.9,4.0,0.0,38,1.0,272.0,Real-Sociedad
-,Antoine Griezmann,fr FRA,"FW,MF",35,28,3.0,7.0,2011-2012,df69b544,Real-Sociedad,"2,621",29.1,5.0,0.0,38,4.0,273.0,Real-Sociedad
-,Carlos Vela,mx MEX,"FW,MF",35,28,5.0,12.0,2011-2012,0cd04e0,Real-Sociedad,"2,473",27.5,2.0,0.0,38,20.0,285.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,36,27,3.0,10.0,2011-2012,c84c1afc,Real-Sociedad,"2,183",24.3,1.0,0.0,38,1.0,227.0,Real-Sociedad
-,Iñigo Martínez,es ESP,DF,26,26,0.0,3.0,2011-2012,3fc45c73,Real-Sociedad,"2,200",24.4,9.0,2.0,38,1.0,286.0,Real-Sociedad
-,Mikel Aranburu,es ESP,MF,29,26,2.0,2.0,2011-2012,9452d85a,Real-Sociedad,"2,146",23.8,3.0,0.0,38,1.0,198.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,34,25,7.0,2.0,2011-2012,d054d8b0,Real-Sociedad,"2,302",25.6,1.0,0.0,38,1.0,215.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",29,25,1.0,2.0,2011-2012,519412fd,Real-Sociedad,"2,260",25.1,8.0,0.0,38,1.0,248.0,Real-Sociedad
-,Mikel González,es ESP,DF,28,25,0.0,1.0,2011-2012,7cc5bd9c,Real-Sociedad,"2,209",24.5,8.0,1.0,38,1.0,238.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,21,21,1.0,0.0,2011-2012,8497faf7,Real-Sociedad,"1,817",20.2,4.0,0.0,38,1.0,274.0,Real-Sociedad
-,Vadim Demidov,no NOR,"DF,MF",23,20,1.0,0.0,2011-2012,59f3b22d,Real-Sociedad,"1,836",20.4,5.0,0.0,38,21.0,281.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,21,19,0.0,0.0,2011-2012,d9b0cc38,Real-Sociedad,"1,686",18.7,2.0,1.0,38,1.0,254.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",17,16,1.0,1.0,2011-2012,7b309e55,Real-Sociedad,"1,408",15.6,4.0,2.0,38,1.0,249.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,18,16,1.0,0.0,2011-2012,5ce0b5ba,Real-Sociedad,"1,400",15.6,3.0,1.0,38,1.0,,Real-Sociedad
-,Liassine Cadamuro,dz ALG,DF,19,13,0.0,0.0,2011-2012,3a83cb9,Real-Sociedad,"1,232",13.7,6.0,0.0,38,37.0,287.0,Real-Sociedad
-,McDonald Mariga,ke KEN,MF,14,10,0.0,0.0,2011-2012,88e5e34,Real-Sociedad,950,10.6,1.0,0.0,38,38.0,288.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,11,9,0.0,0.0,2011-2012,04a65a8f,Real-Sociedad,698,7.8,4.0,0.0,38,1.0,259.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,9,8,0.0,0.0,2011-2012,72b26e8e,Real-Sociedad,745,8.3,2.0,0.0,38,1.0,233.0,Real-Sociedad
-,Diego Ifrán,uy URU,FW,16,4,0.0,1.0,2011-2012,59e3e40f,Real-Sociedad,489,5.4,4.0,0.0,38,8.0,283.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,15,2,0.0,1.0,2011-2012,2306bfde,Real-Sociedad,357,4.0,0.0,0.0,38,1.0,289.0,Real-Sociedad
-,Joseba Llorente,es ESP,FW,17,1,1.0,0.0,2011-2012,ddb98947,Real-Sociedad,294,3.3,3.0,0.0,38,1.0,211.0,Real-Sociedad
-,Eñaut Zubikarai,es ESP,GK,1,1,0.0,0.0,2011-2012,5e92d0ec,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,266.0,Real-Sociedad
-,Jeffrey Sarpong,nl NED,MF,3,1,0.0,0.0,2011-2012,cabfd01c,Real-Sociedad,87,1.0,0.0,0.0,38,11.0,284.0,Real-Sociedad
-,﻿Alberto de la Bella,es ESP,DF,36,36,2.0,3.0,2012-2013,8497faf7,Real-Sociedad,"3,202",35.6,7.0,0.0,38,1.0,274.0,Real-Sociedad
-,Mikel González,es ESP,DF,34,34,1.0,2.0,2012-2013,7cc5bd9c,Real-Sociedad,"3,060",34.0,10.0,0.0,38,1.0,238.0,Real-Sociedad
-,Iñigo Martínez,es ESP,DF,34,34,0.0,4.0,2012-2013,3fc45c73,Real-Sociedad,"3,060",34.0,9.0,0.0,38,1.0,286.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,35,33,3.0,9.0,2012-2013,d054d8b0,Real-Sociedad,"2,836",31.5,2.0,0.0,38,1.0,215.0,Real-Sociedad
-,Antoine Griezmann,fr FRA,"FW,MF",34,32,3.0,10.0,2012-2013,df69b544,Real-Sociedad,"2,848",31.6,8.0,0.0,38,4.0,273.0,Real-Sociedad
-,Carlos Vela,mx MEX,"FW,MF",35,32,10.0,14.0,2012-2013,0cd04e0,Real-Sociedad,"2,689",29.9,10.0,0.0,38,20.0,285.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,32,32,5.0,0.0,2012-2013,5ce0b5ba,Real-Sociedad,"2,683",29.8,11.0,0.0,38,1.0,,Real-Sociedad
-,Claudio Bravo,cl CHI,GK,31,31,0.0,0.0,2012-2013,10072610,Real-Sociedad,"2,790",31.0,0.0,0.0,38,31.0,240.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,29,29,4.0,1.0,2012-2013,d9b0cc38,Real-Sociedad,"2,583",28.7,4.0,0.0,38,1.0,254.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,28,27,0.0,0.0,2012-2013,04a65a8f,Real-Sociedad,"2,357",26.2,8.0,1.0,38,1.0,259.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,34,22,6.0,13.0,2012-2013,c84c1afc,Real-Sociedad,"2,060",22.9,2.0,0.0,38,1.0,227.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,21,14,3.0,2.0,2012-2013,d9bda115,Real-Sociedad,"1,151",12.8,2.0,0.0,38,1.0,272.0,Real-Sociedad
-,Chory Castro,uy URU,"FW,MF",31,13,3.0,7.0,2012-2013,8cc3d96e,Real-Sociedad,"1,324",14.7,3.0,0.0,38,8.0,290.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,25,10,4.0,0.0,2012-2013,2306bfde,Real-Sociedad,"1,095",12.2,4.0,0.0,38,1.0,289.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",19,10,0.0,0.0,2012-2013,519412fd,Real-Sociedad,982,10.9,4.0,1.0,38,1.0,248.0,Real-Sociedad
-,Diego Ifrán,uy URU,FW,26,9,3.0,2.0,2012-2013,59e3e40f,Real-Sociedad,920,10.2,2.0,0.0,38,8.0,283.0,Real-Sociedad
-,Eñaut Zubikarai,es ESP,GK,7,7,0.0,0.0,2012-2013,5e92d0ec,Real-Sociedad,630,7.0,0.0,0.0,38,1.0,266.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",8,5,1.0,1.0,2012-2013,7b309e55,Real-Sociedad,443,4.9,2.0,0.0,38,1.0,249.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,7,4,1.0,0.0,2012-2013,72b26e8e,Real-Sociedad,371,4.1,4.0,0.0,38,1.0,233.0,Real-Sociedad
-,José Ángel,es ESP,DF,11,2,0.0,0.0,2012-2013,3024e383,Real-Sociedad,248,2.8,2.0,0.0,38,1.0,291.0,Real-Sociedad
-,Liassine Cadamuro,dz ALG,DF,4,2,0.0,0.0,2012-2013,3a83cb9,Real-Sociedad,194,2.2,2.0,0.0,38,37.0,287.0,Real-Sociedad
-,Javier Ros,es ESP,MF,6,0,0.0,0.0,2012-2013,6b2f1a78,Real-Sociedad,77,0.9,0.0,0.0,38,1.0,267.0,Real-Sociedad
-,﻿Claudio Bravo,cl CHI,GK,37,37,0.0,0.0,2013-2014,10072610,Real-Sociedad,"3,330",37.0,3.0,0.0,38,31.0,240.0,Real-Sociedad
-,Iñigo Martínez,es ESP,DF,35,35,0.0,2.0,2013-2014,3fc45c73,Real-Sociedad,"3,120",34.7,11.0,0.0,38,1.0,286.0,Real-Sociedad
-,Carlos Vela,mx MEX,"FW,MF",37,35,12.0,16.0,2013-2014,0cd04e0,Real-Sociedad,"3,108",34.5,4.0,0.0,38,20.0,285.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,32,32,2.0,1.0,2013-2014,04a65a8f,Real-Sociedad,"2,717",30.2,4.0,0.0,38,1.0,259.0,Real-Sociedad
-,Antoine Griezmann,fr FRA,"FW,MF",35,31,3.0,16.0,2013-2014,df69b544,Real-Sociedad,"2,651",29.5,5.0,0.0,38,4.0,273.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,24,24,0.0,0.0,2013-2014,d9b0cc38,Real-Sociedad,"2,108",23.4,2.0,0.0,38,1.0,254.0,Real-Sociedad
-,José Ángel,es ESP,DF,22,22,5.0,1.0,2013-2014,3024e383,Real-Sociedad,"1,906",21.2,5.0,0.0,38,1.0,291.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,31,21,1.0,8.0,2013-2014,c84c1afc,Real-Sociedad,"1,942",21.6,1.0,0.0,38,1.0,227.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,35,21,8.0,3.0,2013-2014,2306bfde,Real-Sociedad,"1,885",20.9,5.0,0.0,38,1.0,289.0,Real-Sociedad
-,Mikel González,es ESP,DF,21,20,0.0,0.0,2013-2014,7cc5bd9c,Real-Sociedad,"1,733",19.3,7.0,1.0,38,1.0,238.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,28,19,2.0,1.0,2013-2014,d9bda115,Real-Sociedad,"1,671",18.6,4.0,0.0,38,1.0,272.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,30,18,3.0,2.0,2013-2014,d054d8b0,Real-Sociedad,"1,795",19.9,6.0,0.0,38,1.0,215.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,24,18,0.0,2.0,2013-2014,72b26e8e,Real-Sociedad,"1,790",19.9,1.0,0.0,38,1.0,233.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,17,16,2.0,1.0,2013-2014,8497faf7,Real-Sociedad,"1,465",16.3,4.0,0.0,38,1.0,274.0,Real-Sociedad
-,Sergio Canales,es ESP,MF,16,13,0.0,2.0,2013-2014,6de370d,Real-Sociedad,"1,032",11.5,3.0,0.0,38,1.0,,Real-Sociedad
-,Chory Castro,uy URU,"FW,MF",23,12,3.0,2.0,2013-2014,8cc3d96e,Real-Sociedad,"1,026",11.4,1.0,0.0,38,8.0,290.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",20,11,0.0,0.0,2013-2014,7b309e55,Real-Sociedad,"1,077",12.0,2.0,0.0,38,1.0,249.0,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,10,10,0.0,0.0,2013-2014,5ca20b7a,Real-Sociedad,888,9.9,2.0,0.0,38,1.0,292.0,Real-Sociedad
-,Haris Seferović,ch SUI,FW,24,9,2.0,2.0,2013-2014,45eac1f,Real-Sociedad,887,9.9,2.0,0.0,38,39.0,293.0,Real-Sociedad
-,Liassine Cadamuro,dz ALG,DF,4,4,0.0,0.0,2013-2014,3a83cb9,Real-Sociedad,360,4.0,0.0,0.0,38,37.0,287.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",3,3,0.0,0.0,2013-2014,519412fd,Real-Sociedad,225,2.5,0.0,0.0,38,1.0,248.0,Real-Sociedad
-,Javier Ros,es ESP,MF,9,2,0.0,0.0,2013-2014,6b2f1a78,Real-Sociedad,270,3.0,2.0,0.0,38,1.0,267.0,Real-Sociedad
-,Esteban Granero,es ESP,MF,4,2,1.0,0.0,2013-2014,1b17ed86,Real-Sociedad,246,2.7,1.0,0.0,38,1.0,,Real-Sociedad
-,Jon Gaztañaga,es ESP,"DF,MF",3,1,0.0,0.0,2013-2014,806872d2,Real-Sociedad,143,1.6,1.0,0.0,38,1.0,294.0,Real-Sociedad
-,Marco Sangalli,es ESP,"FW,MF",2,1,0.0,0.0,2013-2014,0bf0e5b1,Real-Sociedad,104,1.2,0.0,0.0,38,1.0,295.0,Real-Sociedad
-,Eñaut Zubikarai,es ESP,GK,1,1,0.0,0.0,2013-2014,5e92d0ec,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,266.0,Real-Sociedad
-,Pablo Hervías,es ESP,MF,1,0,0.0,0.0,2013-2014,ba5a9545,Real-Sociedad,17,0.2,0.0,0.0,38,1.0,296.0,Real-Sociedad
-,﻿Iñigo Martínez,es ESP,DF,34,34,0.0,3.0,2014-2015,3fc45c73,Real-Sociedad,"3,026",33.6,6.0,0.0,38,1.0,286.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,35,33,6.0,4.0,2014-2015,d054d8b0,Real-Sociedad,"2,982",33.1,5.0,0.0,38,1.0,215.0,Real-Sociedad
-,Sergio Canales,es ESP,MF,36,31,3.0,4.0,2014-2015,6de370d,Real-Sociedad,"2,532",28.1,3.0,0.0,38,1.0,,Real-Sociedad
-,Esteban Granero,es ESP,MF,33,29,3.0,0.0,2014-2015,1b17ed86,Real-Sociedad,"2,496",27.7,10.0,0.0,38,1.0,,Real-Sociedad
-,Markel Bergara,es ESP,MF,30,24,1.0,1.0,2014-2015,04a65a8f,Real-Sociedad,"2,128",23.6,9.0,0.0,38,1.0,259.0,Real-Sociedad
-,Carlos Vela,mx MEX,"FW,MF",29,23,3.0,9.0,2014-2015,0cd04e0,Real-Sociedad,"2,056",22.8,5.0,0.0,38,20.0,285.0,Real-Sociedad
-,Gerónimo Rulli,ar ARG,GK,22,22,0.0,0.0,2014-2015,625c144a,Real-Sociedad,"1,980",22.0,5.0,0.0,38,5.0,297.0,Real-Sociedad
-,Chory Castro,uy URU,"FW,MF",32,22,4.0,4.0,2014-2015,8cc3d96e,Real-Sociedad,"1,810",20.1,2.0,0.0,38,8.0,290.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,31,21,1.0,7.0,2014-2015,c84c1afc,Real-Sociedad,"1,946",21.6,2.0,0.0,38,1.0,227.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,28,21,6.0,1.0,2014-2015,2306bfde,Real-Sociedad,"1,921",21.3,5.0,0.0,38,1.0,289.0,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,23,21,2.0,0.0,2014-2015,5ca20b7a,Real-Sociedad,"1,921",21.3,5.0,0.0,38,1.0,292.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,23,21,2.0,1.0,2014-2015,8497faf7,Real-Sociedad,"1,906",21.2,4.0,0.0,38,1.0,274.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,19,19,0.0,0.0,2014-2015,72b26e8e,Real-Sociedad,"1,710",19.0,6.0,0.0,38,1.0,233.0,Real-Sociedad
-,Yuri Berchiche,es ESP,DF,21,17,1.0,0.0,2014-2015,b6e50615,Real-Sociedad,"1,469",16.3,7.0,0.0,38,1.0,298.0,Real-Sociedad
-,Eñaut Zubikarai,es ESP,GK,16,16,0.0,0.0,2014-2015,5e92d0ec,Real-Sociedad,"1,440",16.0,0.0,0.0,38,1.0,266.0,Real-Sociedad
-,Mikel González,es ESP,DF,16,14,0.0,0.0,2014-2015,7cc5bd9c,Real-Sociedad,"1,240",13.8,5.0,1.0,38,1.0,238.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,15,13,2.0,0.0,2014-2015,d9b0cc38,Real-Sociedad,"1,178",13.1,0.0,0.0,38,1.0,254.0,Real-Sociedad
-,Gorka Elustondo,es ESP,"DF,MF",19,12,0.0,1.0,2014-2015,7b309e55,Real-Sociedad,"1,162",12.9,1.0,0.0,38,1.0,249.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,16,12,0.0,2.0,2014-2015,d9bda115,Real-Sociedad,982,10.9,2.0,0.0,38,1.0,272.0,Real-Sociedad
-,Alfreð Finnbogason,is ISL,FW,25,6,1.0,2.0,2014-2015,f9e7c4ac,Real-Sociedad,817,9.1,3.0,0.0,38,40.0,299.0,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,4,4,0.0,1.0,2014-2015,f7dc2ae5,Real-Sociedad,316,3.5,2.0,0.0,38,1.0,305.0,Real-Sociedad
-,Pablo Hervías,es ESP,MF,15,2,0.0,1.0,2014-2015,ba5a9545,Real-Sociedad,388,4.3,0.0,0.0,38,1.0,296.0,Real-Sociedad
-,Jon Gaztañaga,es ESP,"DF,MF",3,1,0.0,0.0,2014-2015,806872d2,Real-Sociedad,149,1.7,1.0,0.0,38,1.0,294.0,Real-Sociedad
-,Eneko Capilla,es ESP,MF,2,0,0.0,0.0,2014-2015,54bed007,Real-Sociedad,13,0.1,0.0,0.0,38,1.0,300.0,Real-Sociedad
-,Iker Hernández,es ESP,FW,1,0,0.0,0.0,2014-2015,c9ee1793,Real-Sociedad,12,0.1,0.0,0.0,38,1.0,301.0,Real-Sociedad
-,Ander Bardají,es ESP,GK,0,0,,,2014-2015,73687f30,Real-Sociedad,,,,,38,1.0,302.0,Real-Sociedad
-,Dani Estrada,es ESP,"DF,MF",0,0,,,2014-2015,519412fd,Real-Sociedad,,,,,38,1.0,248.0,Real-Sociedad
-,Alain Oyarzun,es ESP,"FW,MF",0,0,,,2014-2015,8159c16a,Real-Sociedad,,,,,38,1.0,303.0,Real-Sociedad
-,Alejandro Sanz,es ESP,MF,0,0,,,2014-2015,514ee96,Real-Sociedad,,,,,38,1.0,304.0,Real-Sociedad
-,﻿Gerónimo Rulli,ar ARG,GK,36,36,0.0,0.0,2015-2016,625c144a,Real-Sociedad,"3,191",35.5,4.0,1.0,38,5.0,297.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,33,32,1.0,1.0,2015-2016,5ce0b5ba,Real-Sociedad,"2,845",31.6,16.0,0.0,38,1.0,,Real-Sociedad
-,Carlos Vela,mx MEX,"MF,FW",35,32,4.0,5.0,2015-2016,0cd04e0,Real-Sociedad,"2,755",30.6,5.0,0.0,38,20.0,285.0,Real-Sociedad
-,Iñigo Martínez,es ESP,DF,30,30,0.0,1.0,2015-2016,3fc45c73,Real-Sociedad,"2,700",30.0,7.0,0.0,38,1.0,286.0,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,31,30,0.0,1.0,2015-2016,f7dc2ae5,Real-Sociedad,"2,593",28.8,8.0,0.0,38,1.0,305.0,Real-Sociedad
-,Xabi Prieto,es ESP,MF,36,27,3.0,3.0,2015-2016,d054d8b0,Real-Sociedad,"2,382",26.5,3.0,0.0,38,1.0,215.0,Real-Sociedad
-,Diego Reyes,mx MEX,"DF,MF",27,26,0.0,2.0,2015-2016,d4f46475,Real-Sociedad,"2,310",25.7,5.0,1.0,38,20.0,306.0,Real-Sociedad
-,Yuri Berchiche,es ESP,DF,21,21,4.0,0.0,2015-2016,b6e50615,Real-Sociedad,"1,847",20.5,10.0,0.0,38,1.0,298.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,28,19,5.0,0.0,2015-2016,2306bfde,Real-Sociedad,"1,786",19.8,7.0,0.0,38,1.0,289.0,Real-Sociedad
-,Jonathas,br BRA,FW,27,17,2.0,7.0,2015-2016,531807b3,Real-Sociedad,"1,607",17.9,7.0,1.0,38,2.0,307.0,Real-Sociedad
-,Mikel González,es ESP,DF,19,17,0.0,0.0,2015-2016,7cc5bd9c,Real-Sociedad,"1,552",17.2,1.0,0.0,38,1.0,238.0,Real-Sociedad
-,Mikel Oyarzabal,es ESP,"FW,MF",22,16,1.0,6.0,2015-2016,8c3c640c,Real-Sociedad,"1,500",16.7,1.0,0.0,38,1.0,308.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,20,15,0.0,1.0,2015-2016,04a65a8f,Real-Sociedad,"1,354",15.0,8.0,1.0,38,1.0,259.0,Real-Sociedad
-,Bruma,pt POR,"MF,FW",32,14,1.0,2.0,2015-2016,5caa62a7,Real-Sociedad,"1,454",16.2,0.0,0.0,38,3.0,309.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,15,14,2.0,0.0,2015-2016,8497faf7,Real-Sociedad,"1,248",13.9,5.0,0.0,38,1.0,274.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,16,14,0.0,13.0,2015-2016,c84c1afc,Real-Sociedad,"1,170",13.0,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,David Zurutuza,es ESP,"MF,FW",16,14,3.0,1.0,2015-2016,d9bda115,Real-Sociedad,"1,122",12.5,1.0,0.0,38,1.0,272.0,Real-Sociedad
-,Sergio Canales,es ESP,"MF,FW",16,11,0.0,0.0,2015-2016,6de370d,Real-Sociedad,899,10.0,3.0,0.0,38,1.0,,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,13,10,0.0,0.0,2015-2016,5ca20b7a,Real-Sociedad,918,10.2,5.0,0.0,38,1.0,292.0,Real-Sociedad
-,Esteban Granero,es ESP,MF,15,9,0.0,0.0,2015-2016,1b17ed86,Real-Sociedad,837,9.3,7.0,1.0,38,1.0,,Real-Sociedad
-,Carlos Martínez,es ESP,DF,10,6,2.0,0.0,2015-2016,d9b0cc38,Real-Sociedad,539,6.0,2.0,0.0,38,1.0,254.0,Real-Sociedad
-,Héctor Hernández,es ESP,"DF,FW",13,4,1.0,0.0,2015-2016,76ee80ee,Real-Sociedad,401,4.5,1.0,0.0,38,1.0,310.0,Real-Sociedad
-,Oier Olazábal,es ESP,GK,3,2,0.0,0.0,2015-2016,b5bdf144,Real-Sociedad,228,2.5,1.0,0.0,38,1.0,311.0,Real-Sociedad
-,Chory Castro,uy URU,MF,8,1,2.0,0.0,2015-2016,8cc3d96e,Real-Sociedad,158,1.8,0.0,0.0,38,8.0,290.0,Real-Sociedad
-,Jon Bautista,es ESP,FW,4,1,0.0,1.0,2015-2016,debc6b55,Real-Sociedad,118,1.3,2.0,0.0,38,1.0,312.0,Real-Sociedad
-,Eneko Capilla,es ESP,MF,1,0,0.0,0.0,2015-2016,54bed007,Real-Sociedad,9,0.1,0.0,0.0,38,1.0,300.0,Real-Sociedad
-,Igor Zubeldia,es ESP,"DF,MF",1,0,0.0,0.0,2015-2016,5c7845f6,Real-Sociedad,7,0.1,0.0,0.0,38,1.0,313.0,Real-Sociedad
-,Ion Ansotegi,es ESP,DF,0,0,,,2015-2016,72b26e8e,Real-Sociedad,,,,,38,1.0,233.0,Real-Sociedad
-,Ander Bardají,es ESP,GK,0,0,,,2015-2016,73687f30,Real-Sociedad,,,,,38,1.0,302.0,Real-Sociedad
-,Álvaro Odriozola,es ESP,DF,0,0,,,2015-2016,1d1691ad,Real-Sociedad,,,,,38,1.0,,Real-Sociedad
-,﻿Gerónimo Rulli,ar ARG,GK,38,38,0.0,0.0,2016-2017,625c144a,Real-Sociedad,"3,420",38.0,4.0,0.0,38,5.0,297.0,Real-Sociedad
-,Yuri Berchiche,es ESP,DF,35,35,2.0,3.0,2016-2017,b6e50615,Real-Sociedad,"3,088",34.3,9.0,0.0,38,1.0,298.0,Real-Sociedad
-,Iñigo Martínez,es ESP,DF,34,34,2.0,3.0,2016-2017,3fc45c73,Real-Sociedad,"2,997",33.3,10.0,1.0,38,1.0,286.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,34,33,2.0,1.0,2016-2017,5ce0b5ba,Real-Sociedad,"3,006",33.4,13.0,0.0,38,1.0,,Real-Sociedad
-,Xabi Prieto,es ESP,MF,38,32,6.0,8.0,2016-2017,d054d8b0,Real-Sociedad,"2,816",31.3,2.0,0.0,38,1.0,215.0,Real-Sociedad
-,Raúl Navas,es ESP,DF,32,31,1.0,1.0,2016-2017,d178594,Real-Sociedad,"2,800",31.1,5.0,0.0,38,1.0,314.0,Real-Sociedad
-,Carlos Vela,mx MEX,"FW,MF",35,31,2.0,9.0,2016-2017,0cd04e0,Real-Sociedad,"2,545",28.3,6.0,0.0,38,20.0,285.0,Real-Sociedad
-,Mikel Oyarzabal,es ESP,"FW,MF",38,30,7.0,2.0,2016-2017,8c3c640c,Real-Sociedad,"2,719",30.2,0.0,0.0,38,1.0,308.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,31,29,1.0,3.0,2016-2017,d9bda115,Real-Sociedad,"2,496",27.7,8.0,1.0,38,1.0,272.0,Real-Sociedad
-,Willian José,br BRA,FW,28,27,4.0,12.0,2016-2017,d87e2cae,Real-Sociedad,"2,064",22.9,4.0,0.0,38,2.0,,Real-Sociedad
-,Juanmi,es ESP,"FW,MF",35,19,0.0,11.0,2016-2017,84399660,Real-Sociedad,"1,808",20.1,7.0,1.0,38,1.0,315.0,Real-Sociedad
-,Álvaro Odriozola,es ESP,DF,15,15,4.0,0.0,2016-2017,1d1691ad,Real-Sociedad,"1,282",14.2,0.0,0.0,38,1.0,,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,14,12,1.0,0.0,2016-2017,5ca20b7a,Real-Sociedad,"1,103",12.3,2.0,1.0,38,1.0,292.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,10,10,2.0,0.0,2016-2017,d9b0cc38,Real-Sociedad,869,9.7,2.0,0.0,38,1.0,254.0,Real-Sociedad
-,Esteban Granero,es ESP,MF,19,8,1.0,0.0,2016-2017,1b17ed86,Real-Sociedad,696,7.7,5.0,1.0,38,1.0,,Real-Sociedad
-,Mikel González,es ESP,DF,9,8,0.0,0.0,2016-2017,7cc5bd9c,Real-Sociedad,664,7.4,2.0,0.0,38,1.0,238.0,Real-Sociedad
-,Sergio Canales,es ESP,"MF,FW",31,7,4.0,0.0,2016-2017,6de370d,Real-Sociedad,"1,011",11.2,2.0,0.0,38,1.0,,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,9,4,0.0,0.0,2016-2017,f7dc2ae5,Real-Sociedad,462,5.1,0.0,1.0,38,1.0,305.0,Real-Sociedad
-,Markel Bergara,es ESP,MF,6,3,0.0,0.0,2016-2017,04a65a8f,Real-Sociedad,288,3.2,0.0,0.0,38,1.0,259.0,Real-Sociedad
-,Igor Zubeldia,es ESP,MF,4,3,0.0,0.0,2016-2017,5c7845f6,Real-Sociedad,254,2.8,1.0,0.0,38,1.0,313.0,Real-Sociedad
-,Jon Bautista,es ESP,FW,12,2,0.0,3.0,2016-2017,debc6b55,Real-Sociedad,312,3.5,0.0,0.0,38,1.0,312.0,Real-Sociedad
-,Héctor Hernández,es ESP,DF,4,2,0.0,0.0,2016-2017,76ee80ee,Real-Sociedad,254,2.8,0.0,0.0,38,1.0,310.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,3,2,0.0,0.0,2016-2017,2306bfde,Real-Sociedad,159,1.8,0.0,0.0,38,1.0,289.0,Real-Sociedad
-,David Concha,es ESP,MF,8,1,0.0,0.0,2016-2017,c8355268,Real-Sociedad,116,1.3,0.0,0.0,38,1.0,316.0,Real-Sociedad
-,Kévin Rodrigues,pt POR,DF,2,1,0.0,0.0,2016-2017,f1bed920,Real-Sociedad,104,1.2,1.0,0.0,38,3.0,317.0,Real-Sociedad
-,Jon Guridi,es ESP,MF,1,1,0.0,0.0,2016-2017,4c0a6a48,Real-Sociedad,75,0.8,0.0,0.0,38,1.0,318.0,Real-Sociedad
-,Jon Gaztañaga,es ESP,"DF,MF",2,0,0.0,0.0,2016-2017,806872d2,Real-Sociedad,26,0.3,1.0,0.0,38,1.0,294.0,Real-Sociedad
-,Ander Bardají,es ESP,GK,0,0,,,2016-2017,73687f30,Real-Sociedad,,,,,38,1.0,302.0,Real-Sociedad
-,Toño Ramírez,es ESP,GK,0,0,,,2016-2017,dc4511f3,Real-Sociedad,,,,,38,1.0,268.0,Real-Sociedad
-,﻿Asier Illarramendi,es ESP,MF,36,35,5.0,7.0,2017-2018,5ce0b5ba,Real-Sociedad,"3,163",35.1,10.0,1.0,38,1.0,,Real-Sociedad
-,Álvaro Odriozola,es ESP,DF,35,32,4.0,0.0,2017-2018,1d1691ad,Real-Sociedad,"2,918",32.4,3.0,1.0,38,1.0,,Real-Sociedad
-,Willian José,br BRA,FW,34,32,4.0,15.0,2017-2018,d87e2cae,Real-Sociedad,"2,770",30.8,4.0,0.0,38,2.0,,Real-Sociedad
-,Mikel Oyarzabal,es ESP,"FW,MF",35,31,5.0,12.0,2017-2018,8c3c640c,Real-Sociedad,"2,772",30.8,3.0,0.0,38,1.0,308.0,Real-Sociedad
-,Gerónimo Rulli,ar ARG,GK,26,26,0.0,0.0,2017-2018,625c144a,Real-Sociedad,"2,340",26.0,3.0,0.0,38,5.0,297.0,Real-Sociedad
-,Diego Llorente,es ESP,DF,27,26,0.0,3.0,2017-2018,bba30585,Real-Sociedad,"2,326",25.8,9.0,1.0,38,1.0,,Real-Sociedad
-,David Zurutuza,es ESP,MF,31,26,2.0,0.0,2017-2018,d9bda115,Real-Sociedad,"2,242",24.9,2.0,0.0,38,1.0,272.0,Real-Sociedad
-,Xabi Prieto,es ESP,"MF,FW",26,24,5.0,3.0,2017-2018,d054d8b0,Real-Sociedad,"1,929",21.4,1.0,0.0,38,1.0,215.0,Real-Sociedad
-,Sergio Canales,es ESP,"MF,FW",36,20,5.0,4.0,2017-2018,6de370d,Real-Sociedad,"1,928",21.4,4.0,0.0,38,1.0,,Real-Sociedad
-,Raúl Navas,es ESP,DF,20,20,1.0,0.0,2017-2018,d178594,Real-Sociedad,"1,791",19.9,4.0,0.0,38,1.0,314.0,Real-Sociedad
-,Kévin Rodrigues,pt POR,DF,20,18,2.0,1.0,2017-2018,f1bed920,Real-Sociedad,"1,635",18.2,1.0,0.0,38,3.0,317.0,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,19,18,2.0,3.0,2017-2018,f7dc2ae5,Real-Sociedad,"1,596",17.7,1.0,0.0,38,1.0,305.0,Real-Sociedad
-,Adnan Januzaj,be BEL,"FW,MF",28,18,5.0,3.0,2017-2018,4737cebe,Real-Sociedad,"1,573",17.5,4.0,0.0,38,27.0,319.0,Real-Sociedad
-,Juanmi,es ESP,"FW,MF",30,18,2.0,8.0,2017-2018,84399660,Real-Sociedad,"1,489",16.5,3.0,0.0,38,1.0,315.0,Real-Sociedad
-,Alberto de la Bella,es ESP,DF,17,17,1.0,0.0,2017-2018,8497faf7,Real-Sociedad,"1,528",17.0,4.0,0.0,38,1.0,274.0,Real-Sociedad
-,Igor Zubeldia,es ESP,MF,25,16,2.0,1.0,2017-2018,5c7845f6,Real-Sociedad,"1,582",17.6,3.0,1.0,38,1.0,313.0,Real-Sociedad
-,Iñigo Martínez,es ESP,DF,12,12,1.0,1.0,2017-2018,3fc45c73,Real-Sociedad,"1,055",11.7,0.0,0.0,38,1.0,286.0,Real-Sociedad
-,Miguel Ángel Moyá,es ESP,GK,9,9,0.0,0.0,2017-2018,011d8c56,Real-Sociedad,764,8.5,0.0,0.0,38,1.0,320.0,Real-Sociedad
-,Héctor Moreno,mx MEX,DF,8,8,0.0,1.0,2017-2018,5d311e8d,Real-Sociedad,720,8.0,1.0,0.0,38,20.0,321.0,Real-Sociedad
-,Toño Ramírez,es ESP,GK,4,3,0.0,0.0,2017-2018,dc4511f3,Real-Sociedad,316,3.5,0.0,0.0,38,1.0,268.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,6,3,1.0,0.0,2017-2018,2306bfde,Real-Sociedad,221,2.5,0.0,1.0,38,1.0,289.0,Real-Sociedad
-,Carlos Vela,mx MEX,"FW,MF",13,2,0.0,1.0,2017-2018,0cd04e0,Real-Sociedad,382,4.2,0.0,0.0,38,20.0,285.0,Real-Sociedad
-,Imanol Agirretxe,es ESP,FW,11,2,0.0,0.0,2017-2018,c84c1afc,Real-Sociedad,232,2.6,0.0,0.0,38,1.0,227.0,Real-Sociedad
-,Jon Bautista,es ESP,"FW,MF",11,1,0.0,1.0,2017-2018,debc6b55,Real-Sociedad,181,2.0,0.0,0.0,38,1.0,312.0,Real-Sociedad
-,Andoni Gorosabel,es ESP,DF,2,1,0.0,0.0,2017-2018,6f5f82c0,Real-Sociedad,76,0.8,0.0,0.0,38,1.0,322.0,Real-Sociedad
-,Jon Guridi,es ESP,MF,4,0,0.0,0.0,2017-2018,4c0a6a48,Real-Sociedad,54,0.6,0.0,0.0,38,1.0,318.0,Real-Sociedad
-,Carlos Martínez,es ESP,DF,1,0,0.0,0.0,2017-2018,d9b0cc38,Real-Sociedad,3,0.0,0.0,0.0,38,1.0,254.0,Real-Sociedad
-,Ander Guevara,es ESP,MF,0,0,,,2017-2018,8e48dc61,Real-Sociedad,,,,,38,1.0,323.0,Real-Sociedad
-,Andoni Zubiaurre,es ESP,GK,0,0,,,2017-2018,cba84991,Real-Sociedad,,,,,38,1.0,324.0,Real-Sociedad
-,﻿Mikel Oyarzabal,es ESP,"MF,FW",37,36,2.0,13.0,2018-2019,8c3c640c,Real-Sociedad,"3,153",35.0,2.0,0.0,38,1.0,308.0,Real-Sociedad
-,Igor Zubeldia,es ESP,MF,33,29,1.0,0.0,2018-2019,5c7845f6,Real-Sociedad,"2,549",28.3,7.0,0.0,38,1.0,313.0,Real-Sociedad
-,Willian José,br BRA,FW,31,28,5.0,11.0,2018-2019,d87e2cae,Real-Sociedad,"2,367",26.3,5.0,1.0,38,2.0,,Real-Sociedad
-,Gerónimo Rulli,ar ARG,GK,27,27,0.0,0.0,2018-2019,625c144a,Real-Sociedad,"2,430",27.0,3.0,0.0,38,5.0,297.0,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,26,25,2.0,1.0,2018-2019,5ca20b7a,Real-Sociedad,"2,139",23.8,7.0,0.0,38,1.0,292.0,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,27,24,0.0,1.0,2018-2019,f7dc2ae5,Real-Sociedad,"2,254",25.0,5.0,0.0,38,1.0,305.0,Real-Sociedad
-,Mikel Merino,es ESP,MF,29,24,3.0,3.0,2018-2019,d080ed5e,Real-Sociedad,"2,055",22.8,10.0,1.0,38,1.0,325.0,Real-Sociedad
-,Theo Hernández,fr FRA,DF,24,22,2.0,1.0,2018-2019,d4c9725f,Real-Sociedad,"1,976",22.0,5.0,1.0,38,4.0,,Real-Sociedad
-,Héctor Moreno,mx MEX,DF,25,21,0.0,1.0,2018-2019,5d311e8d,Real-Sociedad,"1,933",21.5,2.0,0.0,38,20.0,321.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,23,20,1.0,1.0,2018-2019,5ce0b5ba,Real-Sociedad,"1,821",20.2,8.0,0.0,38,1.0,,Real-Sociedad
-,Diego Llorente,es ESP,DF,21,20,0.0,0.0,2018-2019,bba30585,Real-Sociedad,"1,752",19.5,5.0,0.0,38,1.0,,Real-Sociedad
-,Juanmi,es ESP,"FW,MF",30,16,2.0,5.0,2018-2019,84399660,Real-Sociedad,"1,523",16.9,5.0,1.0,38,1.0,315.0,Real-Sociedad
-,Rubén Pardo,es ESP,"MF,FW",24,16,2.0,1.0,2018-2019,2306bfde,Real-Sociedad,"1,368",15.2,3.0,0.0,38,1.0,289.0,Real-Sociedad
-,Raúl Navas,es ESP,DF,16,15,0.0,0.0,2018-2019,d178594,Real-Sociedad,"1,310",14.6,4.0,0.0,38,1.0,314.0,Real-Sociedad
-,Adnan Januzaj,be BEL,"MF,FW",20,13,3.0,1.0,2018-2019,4737cebe,Real-Sociedad,"1,254",13.9,1.0,0.0,38,27.0,319.0,Real-Sociedad
-,David Zurutuza,es ESP,MF,21,13,0.0,2.0,2018-2019,d9bda115,Real-Sociedad,"1,222",13.6,2.0,0.0,38,1.0,272.0,Real-Sociedad
-,Luca Sangalli,es ESP,MF,18,12,3.0,1.0,2018-2019,7958dc65,Real-Sociedad,999,11.1,0.0,0.0,38,1.0,326.0,Real-Sociedad
-,Miguel Ángel Moyá,es ESP,GK,11,11,0.0,0.0,2018-2019,011d8c56,Real-Sociedad,990,11.0,1.0,0.0,38,1.0,320.0,Real-Sociedad
-,Aihen Muñoz,es ESP,DF,11,11,0.0,0.0,2018-2019,228b0d9d,Real-Sociedad,951,10.6,0.0,0.0,38,1.0,327.0,Real-Sociedad
-,Sandro Ramírez,es ESP,"MF,FW",24,10,0.0,0.0,2018-2019,833fb62e,Real-Sociedad,"1,055",11.7,4.0,0.0,38,1.0,328.0,Real-Sociedad
-,Andoni Gorosabel,es ESP,DF,7,6,0.0,0.0,2018-2019,6f5f82c0,Real-Sociedad,455,5.1,0.0,0.0,38,1.0,322.0,Real-Sociedad
-,Kévin Rodrigues,pt POR,DF,7,5,0.0,0.0,2018-2019,f1bed920,Real-Sociedad,484,5.4,1.0,0.0,38,3.0,317.0,Real-Sociedad
-,Ander Barrenetxea,es ESP,MF,9,5,0.0,1.0,2018-2019,200e89e1,Real-Sociedad,399,4.4,0.0,0.0,38,1.0,329.0,Real-Sociedad
-,Jon Bautista,es ESP,FW,18,4,0.0,1.0,2018-2019,debc6b55,Real-Sociedad,597,6.6,1.0,0.0,38,1.0,312.0,Real-Sociedad
-,Robin Le Normand,fr FRA,DF,4,3,1.0,0.0,2018-2019,9a64e67e,Real-Sociedad,284,3.2,1.0,0.0,38,4.0,330.0,Real-Sociedad
-,Ander Guevara,es ESP,MF,1,1,0.0,0.0,2018-2019,8e48dc61,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,323.0,Real-Sociedad
-,Alex Sola,es ESP,DF,1,1,0.0,0.0,2018-2019,5fa714d5,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,331.0,Real-Sociedad
-,Roberto López,es ESP,MF,1,0,0.0,0.0,2018-2019,2a8c9f98,Real-Sociedad,29,0.3,0.0,0.0,38,1.0,332.0,Real-Sociedad
-,Martín Zubimendi,es ESP,MF,1,0,0.0,0.0,2018-2019,3ee0dd59,Real-Sociedad,7,0.1,0.0,0.0,38,1.0,333.0,Real-Sociedad
-,Martín Merquelanz,es ESP,MF,1,0,0.0,0.0,2018-2019,ddd5348b,Real-Sociedad,6,0.1,0.0,0.0,38,1.0,334.0,Real-Sociedad
-,Naïs Djouahra,fr FRA,MF,0,0,,,2018-2019,3594a357,Real-Sociedad,,,,,38,4.0,335.0,Real-Sociedad
-,Zourdine Mouhemed Thior,sn SEN,FW,0,0,,,2018-2019,c95b4e,Real-Sociedad,,,,,38,34.0,336.0,Real-Sociedad
-,Andoni Zubiaurre,es ESP,GK,0,0,,,2018-2019,cba84991,Real-Sociedad,,,,,38,1.0,324.0,Real-Sociedad
-,﻿Mikel Oyarzabal,es ESP,"MF,FW",37,36,11.0,10.0,2019-2020,8c3c640c,Real-Sociedad,"3,051",33.9,4.0,0.0,38,1.0,308.0,Real-Sociedad
-,Mikel Merino,es ESP,MF,36,35,1.0,5.0,2019-2020,d080ed5e,Real-Sociedad,"3,139",34.9,9.0,0.0,38,1.0,325.0,Real-Sociedad
-,Igor Zubeldia,es ESP,"MF,DF",33,29,1.0,0.0,2019-2020,5c7845f6,Real-Sociedad,"2,640",29.3,9.0,0.0,38,1.0,313.0,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,30,29,2.0,0.0,2019-2020,5ca20b7a,Real-Sociedad,"2,545",28.3,8.0,1.0,38,1.0,292.0,Real-Sociedad
-,Martin Ødegaard,no NOR,MF,31,29,6.0,4.0,2019-2020,79300479,Real-Sociedad,"2,527",28.1,3.0,0.0,38,21.0,,Real-Sociedad
-,Nacho Monreal,es ESP,DF,29,27,0.0,2.0,2019-2020,d4cb83cc,Real-Sociedad,"2,390",26.6,3.0,0.0,38,1.0,337.0,Real-Sociedad
-,Diego Llorente,es ESP,DF,29,27,1.0,1.0,2019-2020,bba30585,Real-Sociedad,"2,327",25.9,7.0,1.0,38,1.0,,Real-Sociedad
-,Robin Le Normand,fr FRA,DF,31,25,0.0,1.0,2019-2020,9a64e67e,Real-Sociedad,"2,394",26.6,6.0,0.0,38,4.0,330.0,Real-Sociedad
-,Portu,es ESP,"MF,FW",35,25,7.0,7.0,2019-2020,1bda5842,Real-Sociedad,"2,393",26.6,5.0,0.0,38,1.0,338.0,Real-Sociedad
-,Álex Remiro,es ESP,GK,25,25,0.0,0.0,2019-2020,374ee424,Real-Sociedad,"2,250",25.0,0.0,0.0,38,1.0,339.0,Real-Sociedad
-,Willian José,br BRA,FW,37,24,1.0,11.0,2019-2020,d87e2cae,Real-Sociedad,"2,011",22.3,4.0,0.0,38,2.0,,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,22,17,1.0,0.0,2019-2020,f7dc2ae5,Real-Sociedad,"1,510",16.8,4.0,0.0,38,1.0,305.0,Real-Sociedad
-,Alexander Isak,se SWE,FW,37,14,1.0,9.0,2019-2020,8e92be30,Real-Sociedad,"1,507",16.7,3.0,0.0,38,41.0,340.0,Real-Sociedad
-,Miguel Ángel Moyá,es ESP,GK,13,13,0.0,0.0,2019-2020,011d8c56,Real-Sociedad,"1,170",13.0,0.0,0.0,38,1.0,320.0,Real-Sociedad
-,Adnan Januzaj,be BEL,"MF,FW",24,13,3.0,3.0,2019-2020,4737cebe,Real-Sociedad,"1,167",13.0,3.0,0.0,38,27.0,319.0,Real-Sociedad
-,Aihen Muñoz,es ESP,DF,15,11,0.0,0.0,2019-2020,228b0d9d,Real-Sociedad,981,10.9,1.0,0.0,38,1.0,327.0,Real-Sociedad
-,Ander Guevara,es ESP,MF,14,11,0.0,0.0,2019-2020,8e48dc61,Real-Sociedad,939,10.4,4.0,0.0,38,1.0,323.0,Real-Sociedad
-,Andoni Gorosabel,es ESP,DF,14,8,0.0,0.0,2019-2020,6f5f82c0,Real-Sociedad,714,7.9,2.0,0.0,38,1.0,322.0,Real-Sociedad
-,Martín Zubimendi,es ESP,MF,9,6,0.0,0.0,2019-2020,3ee0dd59,Real-Sociedad,524,5.8,3.0,0.0,38,1.0,333.0,Real-Sociedad
-,Luca Sangalli,es ESP,MF,11,5,1.0,0.0,2019-2020,7958dc65,Real-Sociedad,372,4.1,0.0,0.0,38,1.0,326.0,Real-Sociedad
-,Ander Barrenetxea,es ESP,"MF,FW",17,3,0.0,1.0,2019-2020,200e89e1,Real-Sociedad,442,4.9,1.0,0.0,38,1.0,329.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,3,3,0.0,0.0,2019-2020,5ce0b5ba,Real-Sociedad,216,2.4,0.0,0.0,38,1.0,,Real-Sociedad
-,David Zurutuza,es ESP,MF,5,2,0.0,0.0,2019-2020,d9bda115,Real-Sociedad,157,1.7,0.0,0.0,38,1.0,272.0,Real-Sociedad
-,Jon Pacheco,es ESP,DF,1,1,0.0,0.0,2019-2020,44150beb,Real-Sociedad,77,0.9,0.0,0.0,38,1.0,341.0,Real-Sociedad
-,Roberto López,es ESP,MF,3,0,1.0,0.0,2019-2020,2a8c9f98,Real-Sociedad,51,0.6,0.0,0.0,38,1.0,332.0,Real-Sociedad
-,Naïs Djouahra,fr FRA,MF,2,0,1.0,0.0,2019-2020,3594a357,Real-Sociedad,29,0.3,0.0,0.0,38,4.0,335.0,Real-Sociedad
-,Kévin Rodrigues,pt POR,DF,1,0,0.0,0.0,2019-2020,f1bed920,Real-Sociedad,6,0.1,0.0,0.0,38,3.0,317.0,Real-Sociedad
-,Aritz Arambarri,es ESP,DF,0,0,,,2019-2020,f28876e5,Real-Sociedad,,,,,38,1.0,342.0,Real-Sociedad
-,Julen Lobete,es ESP,FW,0,0,,,2019-2020,952a529,Real-Sociedad,,,,,38,1.0,343.0,Real-Sociedad
-,Rubén Pardo,es ESP,MF,0,0,,,2019-2020,2306bfde,Real-Sociedad,,,,,38,1.0,289.0,Real-Sociedad
-,Modibo Sagnan,fr FRA,DF,0,0,,,2019-2020,76d679c7,Real-Sociedad,,,,,38,4.0,344.0,Real-Sociedad
-,Andoni Zubiaurre,es ESP,GK,0,0,,,2019-2020,cba84991,Real-Sociedad,,,,,38,1.0,324.0,Real-Sociedad
-,﻿Álex Remiro,es ESP,GK,38,38,0.0,0.0,2020-2021,374ee424,Real-Sociedad,"3,420",38.0,0.0,0.0,38,1.0,339.0,Real-Sociedad
-,Robin Le Normand,fr FRA,DF,33,30,1.0,0.0,2020-2021,9a64e67e,Real-Sociedad,"2,747",30.5,5.0,1.0,38,4.0,330.0,Real-Sociedad
-,Mikel Oyarzabal,es ESP,"MF,FW",33,30,8.0,11.0,2020-2021,8c3c640c,Real-Sociedad,"2,408",26.8,1.0,0.0,38,1.0,308.0,Real-Sociedad
-,Alexander Isak,se SWE,FW,34,30,2.0,17.0,2020-2021,8e92be30,Real-Sociedad,"2,340",26.0,4.0,0.0,38,41.0,340.0,Real-Sociedad
-,Andoni Gorosabel,es ESP,DF,32,28,1.0,0.0,2020-2021,6f5f82c0,Real-Sociedad,"2,382",26.5,3.0,0.0,38,1.0,322.0,Real-Sociedad
-,Mikel Merino,es ESP,MF,26,25,4.0,2.0,2020-2021,d080ed5e,Real-Sociedad,"2,154",23.9,5.0,0.0,38,1.0,325.0,Real-Sociedad
-,Ander Guevara,es ESP,MF,31,25,1.0,1.0,2020-2021,8e48dc61,Real-Sociedad,"2,081",23.1,5.0,0.0,38,1.0,323.0,Real-Sociedad
-,Portu,es ESP,"MF,FW",37,24,3.0,8.0,2020-2021,1bda5842,Real-Sociedad,"2,184",24.3,3.0,0.0,38,1.0,338.0,Real-Sociedad
-,Nacho Monreal,es ESP,DF,26,23,1.0,1.0,2020-2021,d4cb83cc,Real-Sociedad,"2,082",23.1,1.0,0.0,38,1.0,337.0,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,23,22,0.0,1.0,2020-2021,f7dc2ae5,Real-Sociedad,"1,884",20.9,5.0,0.0,38,1.0,305.0,Real-Sociedad
-,Igor Zubeldia,es ESP,DF,24,21,1.0,1.0,2020-2021,5c7845f6,Real-Sociedad,"1,959",21.8,5.0,0.0,38,1.0,313.0,Real-Sociedad
-,Martín Zubimendi,es ESP,MF,31,17,0.0,0.0,2020-2021,3ee0dd59,Real-Sociedad,"1,882",20.9,6.0,0.0,38,1.0,333.0,Real-Sociedad
-,David Silva,es ESP,MF,21,17,5.0,2.0,2020-2021,2716bd0,Real-Sociedad,"1,399",15.5,4.0,0.0,38,1.0,345.0,Real-Sociedad
-,Aihen Muñoz,es ESP,DF,16,14,1.0,0.0,2020-2021,228b0d9d,Real-Sociedad,"1,210",13.4,6.0,0.0,38,1.0,327.0,Real-Sociedad
-,Ander Barrenetxea,es ESP,"MF,FW",31,13,0.0,3.0,2020-2021,200e89e1,Real-Sociedad,"1,307",14.5,7.0,0.0,38,1.0,329.0,Real-Sociedad
-,Adnan Januzaj,be BEL,"MF,FW",27,12,5.0,4.0,2020-2021,4737cebe,Real-Sociedad,"1,014",11.3,2.0,0.0,38,27.0,319.0,Real-Sociedad
-,Jon Guridi,es ESP,MF,17,8,1.0,0.0,2020-2021,4c0a6a48,Real-Sociedad,831,9.2,2.0,0.0,38,1.0,318.0,Real-Sociedad
-,Willian José,br BRA,FW,13,8,1.0,3.0,2020-2021,d87e2cae,Real-Sociedad,689,7.7,0.0,0.0,38,2.0,,Real-Sociedad
-,Modibo Sagnan,fr FRA,DF,16,7,0.0,0.0,2020-2021,76d679c7,Real-Sociedad,622,6.9,3.0,0.0,38,4.0,344.0,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,12,6,0.0,0.0,2020-2021,5ca20b7a,Real-Sociedad,639,7.1,3.0,0.0,38,1.0,292.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,6,6,0.0,0.0,2020-2021,5ce0b5ba,Real-Sociedad,337,3.7,2.0,0.0,38,1.0,,Real-Sociedad
-,Martín Merquelanz,es ESP,MF,13,4,1.0,0.0,2020-2021,ddd5348b,Real-Sociedad,549,6.1,0.0,0.0,38,1.0,334.0,Real-Sociedad
-,Roberto López,es ESP,"MF,FW",17,4,0.0,3.0,2020-2021,2a8c9f98,Real-Sociedad,505,5.6,0.0,0.0,38,1.0,332.0,Real-Sociedad
-,Carlos Fernández,es ESP,"FW,MF",11,4,2.0,1.0,2020-2021,08647d6,Real-Sociedad,390,4.3,5.0,0.0,38,1.0,346.0,Real-Sociedad
-,Diego Llorente,es ESP,DF,1,1,0.0,0.0,2020-2021,bba30585,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,,Real-Sociedad
-,Urko González,es ESP,MF,2,1,0.0,0.0,2020-2021,c4f5eb61,Real-Sociedad,47,0.5,1.0,0.0,38,1.0,347.0,Real-Sociedad
-,Jon Bautista,es ESP,"FW,MF",21,0,1.0,0.0,2020-2021,debc6b55,Real-Sociedad,370,4.1,3.0,0.0,38,1.0,312.0,Real-Sociedad
-,Roberto Navarro,es ESP,MF,1,0,0.0,0.0,2020-2021,c997b942,Real-Sociedad,35,0.4,0.0,0.0,38,1.0,348.0,Real-Sociedad
-,Jon Pacheco,es ESP,DF,1,0,0.0,0.0,2020-2021,44150beb,Real-Sociedad,32,0.4,0.0,0.0,38,1.0,341.0,Real-Sociedad
-,Aritz Arambarri,es ESP,DF,1,0,0.0,0.0,2020-2021,f28876e5,Real-Sociedad,26,0.3,0.0,0.0,38,1.0,342.0,Real-Sociedad
-,Miguel Ángel Moyá,es ESP,GK,0,0,,,2020-2021,011d8c56,Real-Sociedad,,,,,38,1.0,320.0,Real-Sociedad
-,Gaizka Ayesa,es ESP,GK,0,0,,,2020-2021,495b4d5,Real-Sociedad,,,,,38,1.0,349.0,Real-Sociedad
-,Jérémy Blasco,fr FRA,DF,0,0,,,2020-2021,346feec5,Real-Sociedad,,,,,38,4.0,350.0,Real-Sociedad
-,Julen Lobete,es ESP,FW,0,0,,,2020-2021,952a529,Real-Sociedad,,,,,38,1.0,343.0,Real-Sociedad
-,Unai Marrero,es ESP,GK,0,0,,,2020-2021,f0fe87dc,Real-Sociedad,,,,,38,1.0,351.0,Real-Sociedad
-,Olasagasti,es ESP,MF,0,0,,,2020-2021,3d99999d,Real-Sociedad,,,,,38,1.0,352.0,Real-Sociedad
-,Beñat Turrientes,es ESP,MF,0,0,,,2020-2021,068f4dec,Real-Sociedad,,,,,38,1.0,357.0,Real-Sociedad
-,Andoni Zubiaurre,es ESP,GK,0,0,,,2020-2021,cba84991,Real-Sociedad,,,,,38,1.0,324.0,Real-Sociedad
-,﻿Robin Le Normand,fr FRA,DF,37,37,1.0,1.0,2021-2022,9a64e67e,Real-Sociedad,"3,330",37.0,6.0,0.0,38,4.0,330.0,Real-Sociedad
-,Álex Remiro,es ESP,GK,35,35,0.0,0.0,2021-2022,374ee424,Real-Sociedad,"3,150",35.0,1.0,0.0,38,1.0,339.0,Real-Sociedad
-,Mikel Merino,es ESP,MF,34,33,2.0,3.0,2021-2022,d080ed5e,Real-Sociedad,"2,890",32.1,8.0,0.0,38,1.0,325.0,Real-Sociedad
-,Martín Zubimendi,es ESP,MF,36,26,1.0,2.0,2021-2022,3ee0dd59,Real-Sociedad,"2,591",28.8,4.0,0.0,38,1.0,333.0,Real-Sociedad
-,Alexander Isak,se SWE,FW,32,26,2.0,6.0,2021-2022,8e92be30,Real-Sociedad,"2,140",23.8,6.0,0.0,38,41.0,340.0,Real-Sociedad
-,Andoni Gorosabel,es ESP,DF,32,25,4.0,0.0,2021-2022,6f5f82c0,Real-Sociedad,"2,289",25.4,4.0,0.0,38,1.0,322.0,Real-Sociedad
-,Aritz Elustondo,es ESP,DF,30,22,1.0,4.0,2021-2022,f7dc2ae5,Real-Sociedad,"2,105",23.4,3.0,1.0,38,1.0,305.0,Real-Sociedad
-,David Silva,es ESP,MF,25,22,4.0,2.0,2021-2022,2716bd0,Real-Sociedad,"1,720",19.1,4.0,1.0,38,1.0,345.0,Real-Sociedad
-,Alexander Sørloth,no NOR,FW,33,20,0.0,4.0,2021-2022,92cd3f7,Real-Sociedad,"1,763",19.6,2.0,0.0,38,21.0,353.0,Real-Sociedad
-,Mikel Oyarzabal,es ESP,"MF,FW",22,19,3.0,9.0,2021-2022,8c3c640c,Real-Sociedad,"1,671",18.6,0.0,1.0,38,1.0,308.0,Real-Sociedad
-,Igor Zubeldia,es ESP,DF,26,19,1.0,0.0,2021-2022,5c7845f6,Real-Sociedad,"1,648",18.3,7.0,0.0,38,1.0,313.0,Real-Sociedad
-,Diego Rico,es ESP,DF,21,19,0.0,0.0,2021-2022,d9ba39fc,Real-Sociedad,"1,644",18.3,4.0,0.0,38,1.0,354.0,Real-Sociedad
-,Adnan Januzaj,be BEL,"MF,FW",33,17,0.0,3.0,2021-2022,4737cebe,Real-Sociedad,"1,625",18.1,5.0,0.0,38,27.0,319.0,Real-Sociedad
-,Portu,es ESP,"MF,FW",37,17,2.0,1.0,2021-2022,1bda5842,Real-Sociedad,"1,590",17.7,5.0,0.0,38,1.0,338.0,Real-Sociedad
-,Aihen Muñoz,es ESP,DF,20,15,0.0,0.0,2021-2022,228b0d9d,Real-Sociedad,"1,342",14.9,4.0,1.0,38,1.0,327.0,Real-Sociedad
-,Joseba Zaldúa,es ESP,DF,24,14,0.0,0.0,2021-2022,5ca20b7a,Real-Sociedad,"1,172",13.0,6.0,0.0,38,1.0,292.0,Real-Sociedad
-,Rafinha,br BRA,MF,17,13,0.0,1.0,2021-2022,0c2ac3cb,Real-Sociedad,"1,050",11.7,3.0,0.0,38,2.0,355.0,Real-Sociedad
-,Ander Guevara,es ESP,MF,17,11,0.0,0.0,2021-2022,8e48dc61,Real-Sociedad,867,9.6,2.0,0.0,38,1.0,323.0,Real-Sociedad
-,Ander Barrenetxea,es ESP,"MF,FW",11,6,1.0,1.0,2021-2022,200e89e1,Real-Sociedad,547,6.1,0.0,0.0,38,1.0,329.0,Real-Sociedad
-,Asier Illarramendi,es ESP,MF,8,6,0.0,0.0,2021-2022,5ce0b5ba,Real-Sociedad,374,4.2,1.0,0.0,38,1.0,,Real-Sociedad
-,Jon Pacheco,es ESP,DF,10,4,0.0,0.0,2021-2022,44150beb,Real-Sociedad,381,4.2,1.0,0.0,38,1.0,341.0,Real-Sociedad
-,Mathew Ryan,au AUS,GK,3,3,0.0,0.0,2021-2022,4535e4bb,Real-Sociedad,270,3.0,0.0,0.0,38,42.0,356.0,Real-Sociedad
-,Roberto Navarro,es ESP,"MF,FW",6,3,0.0,0.0,2021-2022,c997b942,Real-Sociedad,199,2.2,0.0,0.0,38,1.0,348.0,Real-Sociedad
-,Julen Lobete,es ESP,"FW,MF",13,2,0.0,2.0,2021-2022,952a529,Real-Sociedad,284,3.2,0.0,0.0,38,1.0,343.0,Real-Sociedad
-,Naïs Djouahra,fr FRA,"MF,FW",7,1,0.0,0.0,2021-2022,3594a357,Real-Sociedad,219,2.4,0.0,0.0,38,4.0,335.0,Real-Sociedad
-,Beñat Turrientes,es ESP,MF,8,1,0.0,0.0,2021-2022,068f4dec,Real-Sociedad,207,2.3,1.0,0.0,38,1.0,357.0,Real-Sociedad
-,Jon Guridi,es ESP,MF,8,1,0.0,1.0,2021-2022,4c0a6a48,Real-Sociedad,206,2.3,0.0,0.0,38,1.0,318.0,Real-Sociedad
-,Ander Martin,es ESP,MF,5,1,0.0,0.0,2021-2022,1e75690,Real-Sociedad,88,1.0,0.0,0.0,38,1.0,358.0,Real-Sociedad
-,Germán Valera,es ESP,"FW,MF",3,0,0.0,0.0,2021-2022,84f55b4a,Real-Sociedad,51,0.6,0.0,0.0,38,1.0,359.0,Real-Sociedad
-,Jon Bautista,es ESP,MF,1,0,0.0,0.0,2021-2022,debc6b55,Real-Sociedad,45,0.5,0.0,0.0,38,1.0,312.0,Real-Sociedad
-,Alex Sola,es ESP,"DF,MF",2,0,0.0,0.0,2021-2022,5fa714d5,Real-Sociedad,41,0.5,0.0,0.0,38,1.0,331.0,Real-Sociedad
-,Cristo,es ESP,DF,1,0,0.0,0.0,2021-2022,d81ba78,Real-Sociedad,17,0.2,0.0,0.0,38,1.0,360.0,Real-Sociedad
-,Gaizka Ayesa,es ESP,GK,0,0,,,2021-2022,495b4d5,Real-Sociedad,,,,,38,1.0,349.0,Real-Sociedad
-,Jonathan Gomez,mx MEX,DF,0,0,,,2021-2022,9cdc85e5,Real-Sociedad,,,,,38,20.0,361.0,Real-Sociedad
-,Urko González,es ESP,DF,0,0,,,2021-2022,c4f5eb61,Real-Sociedad,,,,,38,1.0,347.0,Real-Sociedad
-,Jon Karrikaburu,es ESP,FW,0,0,,,2021-2022,211589b8,Real-Sociedad,,,,,38,1.0,362.0,Real-Sociedad
-,Unai Marrero,es ESP,GK,0,0,,,2021-2022,f0fe87dc,Real-Sociedad,,,,,38,1.0,351.0,Real-Sociedad
-,Olasagasti,es ESP,MF,0,0,,,2021-2022,3d99999d,Real-Sociedad,,,,,38,1.0,352.0,Real-Sociedad
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿López Rekarte,es ESP,DF,37,37,6.0,0.0,2002-2003,/en/players/346b3104/Lopez-Rekarte,346b3104,Real-Sociedad,"3,330",37.0,8.0,0.0,38,1.0,191,Real-Sociedad
+,Sander Westerveld,nl NED,GK,37,37,0.0,0.0,2002-2003,/en/players/dc8d38a2/Sander-Westerveld,dc8d38a2,Real-Sociedad,"3,330",37.0,1.0,0.0,38,11.0,192,Real-Sociedad
+,Valeri Karpin,ru RUS,MF,36,36,3.0,8.0,2002-2003,/en/players/c88a6bc0/Valeri-Karpin,c88a6bc0,Real-Sociedad,"3,182",35.4,5.0,0.0,38,23.0,193,Real-Sociedad
+,Igor Jauregi,es ESP,"DF,MF",36,36,0.0,1.0,2002-2003,/en/players/1f011af5/Igor-Jauregi,1f011af5,Real-Sociedad,"3,147",35.0,8.0,1.0,38,1.0,194,Real-Sociedad
+,Darko Kovačević,rs SRB,FW,36,36,4.0,20.0,2002-2003,/en/players/12c6ec44/Darko-Kovacevic,12c6ec44,Real-Sociedad,"3,034",33.7,6.0,1.0,38,28.0,195,Real-Sociedad
+,Nihat Kahveci,tr TUR,FW,35,35,5.0,23.0,2002-2003,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Real-Sociedad,"2,998",33.3,5.0,1.0,38,15.0,196,Real-Sociedad
+,Xabi Alonso,es ESP,MF,33,33,2.0,3.0,2002-2003,/en/players/dc001a06/Xabi-Alonso,dc001a06,Real-Sociedad,"2,769",30.8,8.0,0.0,38,1.0,79,Real-Sociedad
+,Agustín Aranzábal,es ESP,DF,32,32,3.0,0.0,2002-2003,/en/players/ee65d657/Agustin-Aranzabal,65d657,Real-Sociedad,"2,879",32.0,5.0,0.0,38,1.0,197,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,34,27,1.0,2.0,2002-2003,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"2,483",27.6,7.0,0.0,38,1.0,198,Real-Sociedad
+,Javier de Pedro,es ESP,MF,29,26,15.0,6.0,2002-2003,/en/players/0023e354/Javier-de-Pedro,0023e354,Real-Sociedad,"2,058",22.9,2.0,0.0,38,1.0,199,Real-Sociedad
+,Gabriel Schürrer,ar ARG,DF,23,23,1.0,0.0,2002-2003,/en/players/ae350391/Gabriel-Schurrer,350391,Real-Sociedad,"2,061",22.9,3.0,0.0,38,5.0,200,Real-Sociedad
+,Bjørn Tore Kvarme,no NOR,DF,20,18,1.0,0.0,2002-2003,/en/players/07965324/Bjorn-Tore-Kvarme,07965324,Real-Sociedad,"1,667",18.5,2.0,0.0,38,21.0,201,Real-Sociedad
+,Boris,es ESP,DF,25,15,0.0,0.0,2002-2003,/en/players/6f531b7d/Boris,6f531b7d,Real-Sociedad,"1,412",15.7,1.0,0.0,38,1.0,202,Real-Sociedad
+,Igor Gabilondo,es ESP,MF,24,8,5.0,1.0,2002-2003,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Real-Sociedad,814,9.0,4.0,0.0,38,1.0,203,Real-Sociedad
+,Tayfun Korkut,tr TUR,"DF,MF",22,6,0.0,2.0,2002-2003,/en/players/8fafc61c/Tayfun-Korkut,8fafc61c,Real-Sociedad,758,8.4,1.0,0.0,38,15.0,204,Real-Sociedad
+,Dmitri Khokhlov,ru RUS,MF,18,5,1.0,2.0,2002-2003,/en/players/1168dd23/Dmitri-Khokhlov,1168dd23,Real-Sociedad,606,6.7,1.0,0.0,38,23.0,205,Real-Sociedad
+,José Barkero,es ESP,MF,11,5,1.0,0.0,2002-2003,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Real-Sociedad,571,6.3,1.0,0.0,38,1.0,206,Real-Sociedad
+,Mikel Alonso,es ESP,MF,9,1,0.0,1.0,2002-2003,/en/players/eab32eb2/Mikel-Alonso,b32eb2,Real-Sociedad,155,1.7,0.0,0.0,38,1.0,207,Real-Sociedad
+,Zuhaitz Gurrutxaga,es ESP,DF,2,1,0.0,0.0,2002-2003,/en/players/b366fa6e/Zuhaitz-Gurrutxaga,b366fa6e,Real-Sociedad,91,1.0,0.0,0.0,38,1.0,208,Real-Sociedad
+,Alberto,es ESP,GK,1,1,0.0,0.0,2002-2003,/en/players/9335367b/Alberto,9335367b,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,209,Real-Sociedad
+,Óscar de Paula,es ESP,FW,11,0,1.0,0.0,2002-2003,/en/players/4b7217c8/Oscar-de-Paula,4b7217c8,Real-Sociedad,137,1.5,0.0,0.0,38,1.0,210,Real-Sociedad
+,Joseba Llorente,es ESP,FW,2,0,0.0,1.0,2002-2003,/en/players/ddb98947/Joseba-Llorente,ddb98947,Real-Sociedad,22,0.2,0.0,0.0,38,1.0,211,Real-Sociedad
+,﻿Valeri Karpin,ru RUS,MF,38,37,5.0,7.0,2003-2004,/en/players/c88a6bc0/Valeri-Karpin,c88a6bc0,Real-Sociedad,"3,205",35.6,4.0,0.0,38,23.0,193,Real-Sociedad
+,López Rekarte,es ESP,DF,35,35,6.0,1.0,2003-2004,/en/players/346b3104/Lopez-Rekarte,346b3104,Real-Sociedad,"3,150",35.0,9.0,0.0,38,1.0,191,Real-Sociedad
+,Gabriel Schürrer,ar ARG,DF,33,33,0.0,1.0,2003-2004,/en/players/ae350391/Gabriel-Schurrer,350391,Real-Sociedad,"2,962",32.9,13.0,0.0,38,5.0,200,Real-Sociedad
+,Xabi Alonso,es ESP,MF,35,33,1.0,3.0,2003-2004,/en/players/dc001a06/Xabi-Alonso,dc001a06,Real-Sociedad,"2,761",30.7,10.0,0.0,38,1.0,79,Real-Sociedad
+,Darko Kovačević,rs SRB,FW,36,32,3.0,8.0,2003-2004,/en/players/12c6ec44/Darko-Kovacevic,12c6ec44,Real-Sociedad,"2,799",31.1,6.0,0.0,38,28.0,195,Real-Sociedad
+,Nihat Kahveci,tr TUR,FW,32,30,2.0,13.0,2003-2004,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Real-Sociedad,"2,601",28.9,4.0,0.0,38,15.0,196,Real-Sociedad
+,Bjørn Tore Kvarme,no NOR,DF,29,29,0.0,0.0,2003-2004,/en/players/07965324/Bjorn-Tore-Kvarme,07965324,Real-Sociedad,"2,566",28.5,12.0,0.0,38,21.0,201,Real-Sociedad
+,Igor Gabilondo,es ESP,MF,33,27,2.0,5.0,2003-2004,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Real-Sociedad,"2,217",24.6,3.0,0.0,38,1.0,203,Real-Sociedad
+,Agustín Aranzábal,es ESP,DF,24,23,1.0,0.0,2003-2004,/en/players/ee65d657/Agustin-Aranzabal,65d657,Real-Sociedad,"2,076",23.1,4.0,1.0,38,1.0,197,Real-Sociedad
+,Bittor Alkiza,es ESP,MF,28,21,2.0,0.0,2003-2004,/en/players/bfebd236/Bittor-Alkiza,bfebd236,Real-Sociedad,"1,851",20.6,10.0,1.0,38,1.0,212,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,32,20,1.0,0.0,2003-2004,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"1,897",21.1,7.0,1.0,38,1.0,198,Real-Sociedad
+,Sander Westerveld,nl NED,GK,20,20,0.0,0.0,2003-2004,/en/players/dc8d38a2/Sander-Westerveld,dc8d38a2,Real-Sociedad,"1,800",20.0,1.0,0.0,38,11.0,192,Real-Sociedad
+,Lionel Potillon,fr FRA,DF,20,18,0.0,0.0,2003-2004,/en/players/be54ffd6/Lionel-Potillon,be54ffd6,Real-Sociedad,"1,676",18.6,5.0,0.0,38,4.0,213,Real-Sociedad
+,Alberto,es ESP,GK,18,18,0.0,0.0,2003-2004,/en/players/9335367b/Alberto,9335367b,Real-Sociedad,"1,620",18.0,1.0,0.0,38,1.0,209,Real-Sociedad
+,Igor Jauregi,es ESP,"DF,MF",17,14,0.0,1.0,2003-2004,/en/players/1f011af5/Igor-Jauregi,1f011af5,Real-Sociedad,"1,289",14.3,2.0,0.0,38,1.0,194,Real-Sociedad
+,Óscar de Paula,es ESP,FW,27,10,0.0,5.0,2003-2004,/en/players/4b7217c8/Oscar-de-Paula,4b7217c8,Real-Sociedad,"1,064",11.8,4.0,0.0,38,1.0,210,Real-Sociedad
+,Javier de Pedro,es ESP,MF,13,9,3.0,1.0,2003-2004,/en/players/0023e354/Javier-de-Pedro,0023e354,Real-Sociedad,797,8.9,1.0,0.0,38,1.0,199,Real-Sociedad
+,Lee Chun-soo,kr KOR,"FW,MF",13,4,2.0,0.0,2003-2004,/en/players/e956c973/Lee-Chun-soo,956c973,Real-Sociedad,494,5.5,1.0,0.0,38,30.0,214,Real-Sociedad
+,Xabi Prieto,es ESP,MF,10,2,0.0,2.0,2003-2004,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,275,3.1,1.0,0.0,38,1.0,215,Real-Sociedad
+,Boris,es ESP,DF,7,2,0.0,0.0,2003-2004,/en/players/6f531b7d/Boris,6f531b7d,Real-Sociedad,243,2.7,0.0,0.0,38,1.0,202,Real-Sociedad
+,Ignacio Azpilikueta Rodríguez,,,1,1,,0.0,2003-2004,/en/players/064cd979/Ignacio-Azpilikueta-Rodriguez,064cd979,Real-Sociedad,90,1.0,0.0,0.0,38,,90000,Real-Sociedad
+,José Barkero,es ESP,MF,3,0,0.0,0.0,2003-2004,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Real-Sociedad,61,0.7,0.0,0.0,38,1.0,206,Real-Sociedad
+,Mikel Alonso,es ESP,MF,2,0,0.0,0.0,2003-2004,/en/players/eab32eb2/Mikel-Alonso,b32eb2,Real-Sociedad,49,0.5,0.0,0.0,38,1.0,207,Real-Sociedad
+,Gorka Larrea,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/242e09b6/Gorka-Larrea,242e09b6,Real-Sociedad,20,0.2,0.0,0.0,38,1.0,216,Real-Sociedad
+,Oskitz Estefanía,es ESP,FW,1,0,0.0,0.0,2003-2004,/en/players/357b97d7/Oskitz-Estefania,357b97d7,Real-Sociedad,16,0.2,0.0,0.0,38,1.0,217,Real-Sociedad
+,﻿Asier Riesgo,es ESP,GK,36,36,0.0,0.0,2004-2005,/en/players/581c5276/Asier-Riesgo,581c5276,Real-Sociedad,"3,171",35.2,4.0,1.0,38,1.0,218,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,36,33,3.0,3.0,2004-2005,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"2,932",32.6,6.0,0.0,38,1.0,198,Real-Sociedad
+,Valeri Karpin,ru RUS,MF,34,31,8.0,5.0,2004-2005,/en/players/c88a6bc0/Valeri-Karpin,c88a6bc0,Real-Sociedad,"2,722",30.2,7.0,1.0,38,23.0,193,Real-Sociedad
+,Mikel Labaka,es ESP,DF,30,30,0.0,3.0,2004-2005,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,"2,700",30.0,3.0,0.0,38,1.0,219,Real-Sociedad
+,Mikel Alonso,es ESP,MF,35,30,1.0,0.0,2004-2005,/en/players/eab32eb2/Mikel-Alonso,b32eb2,Real-Sociedad,"2,631",29.2,4.0,0.0,38,1.0,207,Real-Sociedad
+,Darko Kovačević,rs SRB,FW,30,30,4.0,8.0,2004-2005,/en/players/12c6ec44/Darko-Kovacevic,12c6ec44,Real-Sociedad,"2,583",28.7,5.0,0.0,38,28.0,195,Real-Sociedad
+,Luiz Alberto,br BRA,DF,28,27,0.0,0.0,2004-2005,/en/players/5b803ce4/Luiz-Alberto,5b803ce4,Real-Sociedad,"2,440",27.1,5.0,0.0,38,2.0,220,Real-Sociedad
+,Javier Garrido,es ESP,DF,28,27,1.0,0.0,2004-2005,/en/players/3b142ce5/Javier-Garrido,3b142ce5,Real-Sociedad,"2,267",25.2,2.0,0.0,38,1.0,229,Real-Sociedad
+,López Rekarte,es ESP,DF,25,24,0.0,0.0,2004-2005,/en/players/346b3104/Lopez-Rekarte,346b3104,Real-Sociedad,"2,163",24.0,5.0,0.0,38,1.0,191,Real-Sociedad
+,Nihat Kahveci,tr TUR,FW,23,22,4.0,13.0,2004-2005,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Real-Sociedad,"1,880",20.9,5.0,0.0,38,15.0,196,Real-Sociedad
+,Adriano Rossato,br BRA,DF,22,17,3.0,1.0,2004-2005,/en/players/38c090c1/Adriano-Rossato,38c090c1,Real-Sociedad,"1,495",16.6,2.0,1.0,38,2.0,221,Real-Sociedad
+,Igor Gabilondo,es ESP,MF,26,16,2.0,1.0,2004-2005,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Real-Sociedad,"1,336",14.8,0.0,0.0,38,1.0,203,Real-Sociedad
+,Gari Uranga,es ESP,MF,28,15,0.0,5.0,2004-2005,/en/players/2a701b9e/Gari-Uranga,2a701b9e,Real-Sociedad,"1,409",15.7,2.0,0.0,38,1.0,222,Real-Sociedad
+,Xabi Prieto,es ESP,MF,23,14,3.0,0.0,2004-2005,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"1,282",14.2,3.0,1.0,38,1.0,215,Real-Sociedad
+,Jérémie Bréchet,fr FRA,"DF,MF",17,14,0.0,0.0,2004-2005,/en/players/2a13c80b/Jeremie-Brechet,2a13c80b,Real-Sociedad,"1,265",14.1,1.0,0.0,38,4.0,223,Real-Sociedad
+,Iban Zubiaurre,es ESP,DF,14,14,0.0,0.0,2004-2005,/en/players/be3e3e7e/Iban-Zubiaurre,be3e3e7e,Real-Sociedad,"1,257",14.0,0.0,0.0,38,1.0,224,Real-Sociedad
+,Bittor Alkiza,es ESP,MF,10,9,0.0,0.0,2004-2005,/en/players/bfebd236/Bittor-Alkiza,bfebd236,Real-Sociedad,709,7.9,5.0,0.0,38,1.0,212,Real-Sociedad
+,Óscar de Paula,es ESP,FW,19,7,0.0,3.0,2004-2005,/en/players/4b7217c8/Oscar-de-Paula,4b7217c8,Real-Sociedad,843,9.4,1.0,0.0,38,1.0,210,Real-Sociedad
+,José Barkero,es ESP,MF,13,7,1.0,3.0,2004-2005,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Real-Sociedad,699,7.8,2.0,0.0,38,1.0,206,Real-Sociedad
+,Igor Jauregi,es ESP,"DF,MF",5,5,0.0,0.0,2004-2005,/en/players/1f011af5/Igor-Jauregi,1f011af5,Real-Sociedad,450,5.0,3.0,0.0,38,1.0,194,Real-Sociedad
+,Dragan Mladenović,rs SRB,MF,12,5,0.0,0.0,2004-2005,/en/players/1e661c8a/Dragan-Mladenovic,1e661c8a,Real-Sociedad,437,4.9,2.0,0.0,38,28.0,225,Real-Sociedad
+,Mikel Arteta,es ESP,MF,15,3,0.0,1.0,2004-2005,/en/players/d934d1e6/Mikel-Arteta,d934d1e6,Real-Sociedad,444,4.9,2.0,0.0,38,1.0,226,Real-Sociedad
+,Alberto,es ESP,GK,4,2,0.0,0.0,2004-2005,/en/players/9335367b/Alberto,9335367b,Real-Sociedad,259,2.9,0.0,0.0,38,1.0,209,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,3,0,,1.0,2004-2005,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,67,0.7,0.0,0.0,38,1.0,227,Real-Sociedad
+,Oskitz Estefanía,es ESP,FW,3,0,0.0,0.0,2004-2005,/en/players/357b97d7/Oskitz-Estefania,357b97d7,Real-Sociedad,63,0.7,0.0,0.0,38,1.0,217,Real-Sociedad
+,Gorka Larrea,es ESP,MF,3,0,,0.0,2004-2005,/en/players/242e09b6/Gorka-Larrea,242e09b6,Real-Sociedad,30,0.3,0.0,0.0,38,1.0,216,Real-Sociedad
+,Juan Domínguez,es ESP,FW,2,0,,0.0,2004-2005,/en/players/3cf63263/Juan-Dominguez,3cf63263,Real-Sociedad,24,0.3,0.0,0.0,38,1.0,228,Real-Sociedad
+,﻿Mikel Alonso,es ESP,MF,37,34,2.0,1.0,2005-2006,/en/players/eab32eb2/Mikel-Alonso,b32eb2,Real-Sociedad,"2,953",32.8,5.0,0.0,38,1.0,207,Real-Sociedad
+,Asier Riesgo,es ESP,GK,33,33,0.0,0.0,2005-2006,/en/players/581c5276/Asier-Riesgo,581c5276,Real-Sociedad,"2,905",32.3,2.0,0.0,38,1.0,218,Real-Sociedad
+,Javier Garrido,es ESP,DF,33,33,2.0,0.0,2005-2006,/en/players/3b142ce5/Javier-Garrido,3b142ce5,Real-Sociedad,"2,818",31.3,7.0,0.0,38,1.0,229,Real-Sociedad
+,Xabi Prieto,es ESP,MF,38,32,2.0,9.0,2005-2006,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,734",30.4,4.0,0.0,38,1.0,215,Real-Sociedad
+,Mikel Labaka,es ESP,DF,33,31,1.0,1.0,2005-2006,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,"2,851",31.7,2.0,0.0,38,1.0,219,Real-Sociedad
+,López Rekarte,es ESP,DF,31,29,1.0,0.0,2005-2006,/en/players/346b3104/Lopez-Rekarte,346b3104,Real-Sociedad,"2,673",29.7,4.0,1.0,38,1.0,191,Real-Sociedad
+,Álvaro Novo,es ESP,MF,33,27,2.0,2.0,2005-2006,/en/players/e2b88098/Alvaro-Novo,2b88098,Real-Sociedad,"2,310",25.7,8.0,0.0,38,1.0,230,Real-Sociedad
+,Nihat Kahveci,tr TUR,FW,32,24,5.0,7.0,2005-2006,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Real-Sociedad,"2,128",23.6,3.0,1.0,38,15.0,196,Real-Sociedad
+,Igor Jauregi,es ESP,"DF,MF",23,23,0.0,1.0,2005-2006,/en/players/1f011af5/Igor-Jauregi,1f011af5,Real-Sociedad,"2,070",23.0,4.0,0.0,38,1.0,194,Real-Sociedad
+,Gaizka Garitano,es ESP,MF,19,17,0.0,3.0,2005-2006,/en/players/0f5ededa/Gaizka-Garitano,0f5ededa,Real-Sociedad,"1,470",16.3,8.0,2.0,38,1.0,231,Real-Sociedad
+,Morten Skoubo,dk DEN,FW,18,16,4.0,5.0,2005-2006,/en/players/ab2a3515/Morten-Skoubo,b2a3515,Real-Sociedad,"1,376",15.3,3.0,0.0,38,7.0,232,Real-Sociedad
+,Gari Uranga,es ESP,MF,33,15,2.0,0.0,2005-2006,/en/players/2a701b9e/Gari-Uranga,2a701b9e,Real-Sociedad,"1,491",16.6,1.0,2.0,38,1.0,222,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,13,13,0.0,1.0,2005-2006,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"1,112",12.4,2.0,0.0,38,1.0,233,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,13,13,3.0,1.0,2005-2006,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"1,038",11.5,2.0,1.0,38,1.0,198,Real-Sociedad
+,Mark González,cl CHI,"FW,MF",16,12,3.0,4.0,2005-2006,/en/players/d8c62450/Mark-Gonzalez,d8c62450,Real-Sociedad,"1,058",11.8,3.0,0.0,38,31.0,234,Real-Sociedad
+,Daniel Cifuentes,es ESP,DF,13,12,1.0,0.0,2005-2006,/en/players/488a3de8/Daniel-Cifuentes,488a3de8,Real-Sociedad,973,10.8,3.0,1.0,38,1.0,235,Real-Sociedad
+,Jhon Viáfara,co COL,MF,11,10,0.0,0.0,2005-2006,/en/players/79344ebf/Jhon-Viafara,79344ebf,Real-Sociedad,808,9.0,2.0,2.0,38,19.0,236,Real-Sociedad
+,Darko Kovačević,rs SRB,FW,9,9,1.0,4.0,2005-2006,/en/players/12c6ec44/Darko-Kovacevic,12c6ec44,Real-Sociedad,797,8.9,2.0,0.0,38,28.0,195,Real-Sociedad
+,Dalibor Stevanović,si SVN,MF,14,7,0.0,1.0,2005-2006,/en/players/aeda8e51/Dalibor-Stevanovic,da8e51,Real-Sociedad,680,7.6,4.0,0.0,38,32.0,237,Real-Sociedad
+,Igor Gabilondo,es ESP,MF,16,6,1.0,1.0,2005-2006,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Real-Sociedad,693,7.7,2.0,0.0,38,1.0,203,Real-Sociedad
+,Alberto,es ESP,GK,6,5,0.0,0.0,2005-2006,/en/players/9335367b/Alberto,9335367b,Real-Sociedad,515,5.7,0.0,0.0,38,1.0,209,Real-Sociedad
+,José Barkero,es ESP,MF,17,3,0.0,2.0,2005-2006,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Real-Sociedad,641,7.1,2.0,0.0,38,1.0,206,Real-Sociedad
+,Gorka Larrea,es ESP,MF,12,3,0.0,0.0,2005-2006,/en/players/242e09b6/Gorka-Larrea,242e09b6,Real-Sociedad,312,3.5,1.0,0.0,38,1.0,216,Real-Sociedad
+,Óscar de Paula,es ESP,FW,6,3,0.0,3.0,2005-2006,/en/players/4b7217c8/Oscar-de-Paula,4b7217c8,Real-Sociedad,281,3.1,0.0,0.0,38,1.0,210,Real-Sociedad
+,Jérémie Bréchet,fr FRA,"DF,MF",3,3,0.0,0.0,2005-2006,/en/players/2a13c80b/Jeremie-Brechet,2a13c80b,Real-Sociedad,270,3.0,1.0,0.0,38,4.0,223,Real-Sociedad
+,Mikel González,es ESP,DF,3,3,0.0,0.0,2005-2006,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,263,2.9,2.0,0.0,38,1.0,238,Real-Sociedad
+,Boris,es ESP,DF,3,1,0.0,0.0,2005-2006,/en/players/6f531b7d/Boris,6f531b7d,Real-Sociedad,136,1.5,0.0,0.0,38,1.0,202,Real-Sociedad
+,Iñigo Díaz de Cerio,es ESP,FW,3,1,,0.0,2005-2006,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Real-Sociedad,64,0.7,0.0,0.0,38,1.0,239,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,1,0,,0.0,2005-2006,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,12,0.1,0.0,0.0,38,1.0,227,Real-Sociedad
+,﻿Xabi Prieto,es ESP,MF,33,31,2.0,4.0,2006-2007,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,689",29.9,4.0,0.0,38,1.0,215,Real-Sociedad
+,Claudio Bravo,cl CHI,GK,29,29,0.0,0.0,2006-2007,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"2,610",29.0,5.0,0.0,38,31.0,240,Real-Sociedad
+,Gerardo,es ESP,"DF,MF",30,28,1.0,0.0,2006-2007,/en/players/07c345de/Gerardo,07c345de,Real-Sociedad,"2,410",26.8,9.0,1.0,38,1.0,241,Real-Sociedad
+,Darko Kovačević,rs SRB,FW,33,27,1.0,3.0,2006-2007,/en/players/12c6ec44/Darko-Kovacevic,12c6ec44,Real-Sociedad,"2,394",26.6,6.0,0.0,38,28.0,195,Real-Sociedad
+,López Rekarte,es ESP,DF,28,25,3.0,1.0,2006-2007,/en/players/346b3104/Lopez-Rekarte,346b3104,Real-Sociedad,"2,248",25.0,5.0,0.0,38,1.0,191,Real-Sociedad
+,Juanito,es ESP,"DF,MF",28,25,0.0,1.0,2006-2007,/en/players/47176127/Juanito,47176127,Real-Sociedad,"2,180",24.2,5.0,0.0,38,1.0,242,Real-Sociedad
+,Javier Garrido,es ESP,DF,25,23,1.0,1.0,2006-2007,/en/players/3b142ce5/Javier-Garrido,3b142ce5,Real-Sociedad,"2,036",22.6,4.0,0.0,38,1.0,229,Real-Sociedad
+,Gaizka Garitano,es ESP,MF,31,22,1.0,2.0,2006-2007,/en/players/0f5ededa/Gaizka-Garitano,0f5ededa,Real-Sociedad,"2,172",24.1,12.0,0.0,38,1.0,231,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,29,21,1.0,3.0,2006-2007,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"1,899",21.1,1.0,1.0,38,1.0,198,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,20,19,0.0,2.0,2006-2007,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"1,727",19.2,2.0,0.0,38,1.0,233,Real-Sociedad
+,Diego Rivas,es ESP,MF,21,19,0.0,1.0,2006-2007,/en/players/eecf46bc/Diego-Rivas,cf46bc,Real-Sociedad,"1,495",16.6,6.0,1.0,38,1.0,243,Real-Sociedad
+,Sávio,br BRA,MF,19,18,2.0,5.0,2006-2007,/en/players/4abe5c93/Savio,4abe5c93,Real-Sociedad,"1,617",18.0,2.0,0.0,38,2.0,244,Real-Sociedad
+,Mikel González,es ESP,DF,19,18,0.0,0.0,2006-2007,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"1,610",17.9,6.0,1.0,38,1.0,238,Real-Sociedad
+,Víctor López,ar ARG,DF,17,17,2.0,0.0,2006-2007,/en/players/cc7c8a52/Victor-Lopez,cc7c8a52,Real-Sociedad,"1,530",17.0,5.0,0.0,38,5.0,245,Real-Sociedad
+,Gari Uranga,es ESP,MF,20,17,1.0,2.0,2006-2007,/en/players/2a701b9e/Gari-Uranga,2a701b9e,Real-Sociedad,"1,470",16.3,5.0,0.0,38,1.0,222,Real-Sociedad
+,Mikel Labaka,es ESP,DF,11,11,1.0,0.0,2006-2007,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,990,11.0,2.0,0.0,38,1.0,219,Real-Sociedad
+,Iñigo Díaz de Cerio,es ESP,FW,27,10,0.0,4.0,2006-2007,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Real-Sociedad,"1,070",11.9,4.0,0.0,38,1.0,239,Real-Sociedad
+,Asier Riesgo,es ESP,GK,9,9,0.0,0.0,2006-2007,/en/players/581c5276/Asier-Riesgo,581c5276,Real-Sociedad,810,9.0,0.0,0.0,38,1.0,218,Real-Sociedad
+,Germán Herrera,ar ARG,FW,19,9,1.0,1.0,2006-2007,/en/players/2c72c960/German-Herrera,2c72c960,Real-Sociedad,804,8.9,3.0,0.0,38,5.0,246,Real-Sociedad
+,Jesuli,es ESP,MF,11,9,1.0,0.0,2006-2007,/en/players/3bfc833a/Jesuli,3bfc833a,Real-Sociedad,695,7.7,1.0,0.0,38,1.0,247,Real-Sociedad
+,Mikel Alonso,es ESP,MF,18,7,0.0,0.0,2006-2007,/en/players/eab32eb2/Mikel-Alonso,b32eb2,Real-Sociedad,776,8.6,0.0,0.0,38,1.0,207,Real-Sociedad
+,Álvaro Novo,es ESP,MF,11,6,0.0,1.0,2006-2007,/en/players/e2b88098/Alvaro-Novo,2b88098,Real-Sociedad,470,5.2,2.0,0.0,38,1.0,230,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",8,5,1.0,0.0,2006-2007,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,476,5.3,1.0,0.0,38,1.0,248,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",6,5,0.0,0.0,2006-2007,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,427,4.7,0.0,0.0,38,1.0,249,Real-Sociedad
+,Fábio Felício,pt POR,"FW,MF",10,4,0.0,0.0,2006-2007,/en/players/a8d8dc0d/Fabio-Felicio,8d8dc0d,Real-Sociedad,383,4.3,2.0,0.0,38,3.0,250,Real-Sociedad
+,Morten Skoubo,dk DEN,FW,5,1,0.0,0.0,2006-2007,/en/players/ab2a3515/Morten-Skoubo,b2a3515,Real-Sociedad,173,1.9,0.0,0.0,38,7.0,232,Real-Sociedad
+,Dalibor Stevanović,si SVN,MF,1,1,0.0,0.0,2006-2007,/en/players/aeda8e51/Dalibor-Stevanovic,da8e51,Real-Sociedad,71,0.8,0.0,0.0,38,32.0,237,Real-Sociedad
+,Daniel Cifuentes,es ESP,DF,1,1,0.0,0.0,2006-2007,/en/players/488a3de8/Daniel-Cifuentes,488a3de8,Real-Sociedad,54,0.6,1.0,0.0,38,1.0,235,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,6,0,0.0,0.0,2006-2007,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,79,0.9,0.0,0.0,38,1.0,227,Real-Sociedad
+,Adriano Rossato,br BRA,DF,2,0,0.0,0.0,2006-2007,/en/players/38c090c1/Adriano-Rossato,38c090c1,Real-Sociedad,60,0.7,0.0,0.0,38,2.0,221,Real-Sociedad
+,﻿Asier Riesgo,es ESP,GK,42,42,0.0,0.0,2007-2008,/en/players/581c5276/Asier-Riesgo,581c5276,Real-Sociedad,"3,780",42.0,1.0,0.0,38,1.0,218,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,38,38,1.0,2.0,2007-2008,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"3,165",35.2,11.0,0.0,38,1.0,198,Real-Sociedad
+,Xabier Castillo,hr CRO,DF,35,34,0.0,0.0,2007-2008,/en/players/638dc43b/Xabier-Castillo,638dc43b,Real-Sociedad,"3,089",34.3,6.0,0.0,38,16.0,251,Real-Sociedad
+,Gerardo,es ESP,"DF,MF",34,33,1.0,3.0,2007-2008,/en/players/07c345de/Gerardo,07c345de,Real-Sociedad,"2,799",31.1,14.0,1.0,38,1.0,241,Real-Sociedad
+,Xabi Prieto,es ESP,MF,36,32,8.0,4.0,2007-2008,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,938",32.6,4.0,0.0,38,1.0,215,Real-Sociedad
+,Iñigo Díaz de Cerio,es ESP,FW,36,30,2.0,16.0,2007-2008,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Real-Sociedad,"2,576",28.6,6.0,1.0,38,1.0,239,Real-Sociedad
+,Mikel González,es ESP,DF,32,29,1.0,0.0,2007-2008,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"2,652",29.5,6.0,1.0,38,1.0,238,Real-Sociedad
+,Gaizka Garitano,es ESP,MF,31,26,0.0,4.0,2007-2008,/en/players/0f5ededa/Gaizka-Garitano,0f5ededa,Real-Sociedad,"2,348",26.1,12.0,0.0,38,1.0,231,Real-Sociedad
+,Mikel Labaka,es ESP,DF,25,24,0.0,2.0,2007-2008,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,"2,136",23.7,3.0,0.0,38,1.0,219,Real-Sociedad
+,Andrija Delibašić,me MNE,FW,33,23,1.0,6.0,2007-2008,/en/players/4de03033/Andrija-Delibasic,4de03033,Real-Sociedad,"1,936",21.5,7.0,0.0,38,33.0,252,Real-Sociedad
+,José Luis Martí,es ESP,MF,21,20,4.0,2.0,2007-2008,/en/players/111c668a/Jose-Luis-Marti,111c668a,Real-Sociedad,"1,834",20.4,4.0,0.0,38,1.0,253,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,18,17,0.0,0.0,2007-2008,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"1,568",17.4,2.0,0.0,38,1.0,233,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",19,15,1.0,2.0,2007-2008,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,"1,355",15.1,1.0,0.0,38,1.0,249,Real-Sociedad
+,Carlos Martínez,es ESP,DF,15,15,0.0,2.0,2007-2008,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"1,284",14.3,1.0,0.0,38,1.0,254,Real-Sociedad
+,Víctor López,ar ARG,DF,14,14,0.0,1.0,2007-2008,/en/players/cc7c8a52/Victor-Lopez,cc7c8a52,Real-Sociedad,"1,214",13.5,5.0,1.0,38,5.0,245,Real-Sociedad
+,Nacho,es ESP,"DF,MF",16,13,1.0,1.0,2007-2008,/en/players/07537011/Nacho,07537011,Real-Sociedad,"1,060",11.8,2.0,0.0,38,1.0,255,Real-Sociedad
+,Gari Uranga,es ESP,MF,34,12,1.0,2.0,2007-2008,/en/players/2a701b9e/Gari-Uranga,2a701b9e,Real-Sociedad,"1,422",15.8,8.0,0.0,38,1.0,222,Real-Sociedad
+,Víctor Casadesús,es ESP,FW,19,10,3.0,6.0,2007-2008,/en/players/73cd0a2a/Victor-Casadesus,73cd0a2a,Real-Sociedad,928,10.3,3.0,0.0,38,1.0,256,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",18,8,2.0,0.0,2007-2008,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,737,8.2,1.0,0.0,38,1.0,248,Real-Sociedad
+,Fran Mérida,es ESP,MF,17,7,0.0,1.0,2007-2008,/en/players/0e50f929/Fran-Merida,0e50f929,Real-Sociedad,729,8.1,2.0,0.0,38,1.0,257,Real-Sociedad
+,David Vaughan,wls WAL,MF,9,7,1.0,1.0,2007-2008,/en/players/b950cb68/David-Vaughan,b950cb68,Real-Sociedad,595,6.6,2.0,0.0,38,18.0,258,Real-Sociedad
+,Gorka Larrea,es ESP,MF,9,6,1.0,0.0,2007-2008,/en/players/242e09b6/Gorka-Larrea,242e09b6,Real-Sociedad,396,4.4,0.0,0.0,38,1.0,216,Real-Sociedad
+,Markel Bergara,es ESP,MF,4,3,0.0,0.0,2007-2008,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,254,2.8,1.0,0.0,38,1.0,259,Real-Sociedad
+,Álvaro Novo,es ESP,MF,8,1,1.0,0.0,2007-2008,/en/players/e2b88098/Alvaro-Novo,2b88098,Real-Sociedad,181,2.0,0.0,0.0,38,1.0,230,Real-Sociedad
+,Dalibor Stevanović,si SVN,MF,3,1,0.0,0.0,2007-2008,/en/players/aeda8e51/Dalibor-Stevanovic,da8e51,Real-Sociedad,152,1.7,0.0,0.0,38,32.0,237,Real-Sociedad
+,Iñigo Sarasola,es ESP,DF,1,1,0.0,0.0,2007-2008,/en/players/6998e6da/Inigo-Sarasola,6998e6da,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,260,Real-Sociedad
+,Morten Skoubo,dk DEN,FW,7,0,0.0,0.0,2007-2008,/en/players/ab2a3515/Morten-Skoubo,b2a3515,Real-Sociedad,108,1.2,0.0,0.0,38,7.0,232,Real-Sociedad
+,Borja Viguera,es ESP,FW,3,0,0.0,0.0,2007-2008,/en/players/d906a703/Borja-Viguera,d906a703,Real-Sociedad,53,0.6,0.0,0.0,38,1.0,261,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,2,0,0.0,0.0,2007-2008,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,7,0.1,0.0,0.0,38,1.0,227,Real-Sociedad
+,﻿Mikel Labaka,es ESP,DF,35,35,1.0,2.0,2008-2009,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,"3,126",34.7,6.0,1.0,38,1.0,219,Real-Sociedad
+,Xabier Castillo,hr CRO,DF,36,33,2.0,1.0,2008-2009,/en/players/638dc43b/Xabier-Castillo,638dc43b,Real-Sociedad,"2,968",33.0,8.0,0.0,38,16.0,251,Real-Sociedad
+,Claudio Bravo,cl CHI,GK,32,32,0.0,0.0,2008-2009,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"2,880",32.0,3.0,0.0,38,31.0,240,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,32,32,4.0,5.0,2008-2009,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"2,816",31.3,10.0,0.0,38,1.0,198,Real-Sociedad
+,Marquitos,es ESP,"FW,MF",38,32,1.0,4.0,2008-2009,/en/players/b5e3874c/Marquitos,b5e3874c,Real-Sociedad,"2,719",30.2,6.0,2.0,38,1.0,2569,Real-Sociedad
+,Gerardo,es ESP,"DF,MF",32,30,1.0,0.0,2008-2009,/en/players/07c345de/Gerardo,07c345de,Real-Sociedad,"2,676",29.7,7.0,0.0,38,1.0,241,Real-Sociedad
+,Xabi Prieto,es ESP,MF,32,30,4.0,3.0,2008-2009,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,632",29.2,6.0,0.0,38,1.0,215,Real-Sociedad
+,Mikel González,es ESP,DF,29,28,0.0,0.0,2008-2009,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"2,462",27.4,11.0,1.0,38,1.0,238,Real-Sociedad
+,Diego Rivas,es ESP,MF,34,26,1.0,0.0,2008-2009,/en/players/eecf46bc/Diego-Rivas,cf46bc,Real-Sociedad,"2,375",26.4,8.0,0.0,38,1.0,243,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,26,24,0.0,1.0,2008-2009,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"2,174",24.2,4.0,0.0,38,1.0,233,Real-Sociedad
+,Markel Bergara,es ESP,MF,25,23,0.0,0.0,2008-2009,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,"1,879",20.9,6.0,3.0,38,1.0,259,Real-Sociedad
+,Moha,ma MAR,"DF,FW",34,20,3.0,1.0,2008-2009,/en/players/e3d09e03/Moha,3d09e03,Real-Sociedad,"1,726",19.2,7.0,1.0,38,26.0,262,Real-Sociedad
+,Carlos Martínez,es ESP,DF,22,19,3.0,0.0,2008-2009,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"1,649",18.3,6.0,0.0,38,1.0,254,Real-Sociedad
+,Sergio Rodríguez,es ESP,MF,24,17,4.0,3.0,2008-2009,/en/players/44e3ae1a/Sergio-Rodriguez,44e3ae1a,Real-Sociedad,"1,436",16.0,7.0,0.0,38,1.0,263,Real-Sociedad
+,Sebastián Abreu,uy URU,FW,18,16,2.0,11.0,2008-2009,/en/players/eb310aab/Sebastian-Abreu,b310aab,Real-Sociedad,"1,359",15.1,1.0,0.0,38,8.0,264,Real-Sociedad
+,Necati Ateş,tr TUR,"FW,MF",35,12,0.0,1.0,2008-2009,/en/players/c82fa989/Necati-Ates,c82fa989,Real-Sociedad,"1,444",16.0,4.0,0.0,38,15.0,265,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,28,11,0.0,9.0,2008-2009,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"1,203",13.4,3.0,0.0,38,1.0,227,Real-Sociedad
+,Iñigo Díaz de Cerio,es ESP,FW,11,11,1.0,4.0,2008-2009,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Real-Sociedad,960,10.7,2.0,0.0,38,1.0,239,Real-Sociedad
+,Eñaut Zubikarai,es ESP,GK,9,9,0.0,0.0,2008-2009,/en/players/5e92d0ec/Enaut-Zubikarai,5e92d0ec,Real-Sociedad,758,8.4,0.0,1.0,38,1.0,266,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",25,8,1.0,0.0,2008-2009,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,843,9.4,4.0,0.0,38,1.0,248,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",8,7,0.0,1.0,2008-2009,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,583,6.5,2.0,0.0,38,1.0,249,Real-Sociedad
+,Javier Ros,es ESP,MF,5,4,0.0,0.0,2008-2009,/en/players/6b2f1a78/Javier-Ros,6b2f1a78,Real-Sociedad,380,4.2,1.0,0.0,38,1.0,267,Real-Sociedad
+,Toño Ramírez,es ESP,GK,2,1,0.0,0.0,2008-2009,/en/players/dc4511f3/Tono-Ramirez,dc4511f3,Real-Sociedad,142,1.6,0.0,0.0,38,1.0,268,Real-Sociedad
+,Boukary Dramé,sn SEN,"DF,MF",1,1,0.0,0.0,2008-2009,/en/players/a5cd894b/Boukary-Drame,5cd894b,Real-Sociedad,90,1.0,1.0,0.0,38,34.0,269,Real-Sociedad
+,Iñigo Sarasola,es ESP,DF,1,1,0.0,0.0,2008-2009,/en/players/6998e6da/Inigo-Sarasola,6998e6da,Real-Sociedad,65,0.7,0.0,0.0,38,1.0,260,Real-Sociedad
+,Borja Viguera,es ESP,FW,2,0,1.0,0.0,2008-2009,/en/players/d906a703/Borja-Viguera,d906a703,Real-Sociedad,27,0.3,0.0,0.0,38,1.0,261,Real-Sociedad
+,Alain Eizmendi,es ESP,"DF,MF",1,0,0.0,0.0,2008-2009,/en/players/d59d0a17/Alain-Eizmendi,d59d0a17,Real-Sociedad,24,0.3,0.0,0.0,38,1.0,270,Real-Sociedad
+,Giovanni Sio,ci CIV,"FW,MF",2,0,0.0,0.0,2008-2009,/en/players/0fe7f7bc/Giovanni-Sio,0fe7f7bc,Real-Sociedad,10,0.1,1.0,0.0,38,35.0,271,Real-Sociedad
+,David Zurutuza,es ESP,MF,1,0,0.0,0.0,2008-2009,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,10,0.1,0.0,0.0,38,1.0,272,Real-Sociedad
+,﻿Ion Ansotegi,es ESP,DF,40,40,3.0,4.0,2009-2010,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"3,600",40.0,6.0,0.0,38,1.0,233,Real-Sociedad
+,Diego Rivas,es ESP,MF,37,36,1.0,0.0,2009-2010,/en/players/eecf46bc/Diego-Rivas,cf46bc,Real-Sociedad,"3,113",34.6,14.0,0.0,38,1.0,243,Real-Sociedad
+,Mikel González,es ESP,DF,35,35,0.0,1.0,2009-2010,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"3,049",33.9,8.0,1.0,38,1.0,238,Real-Sociedad
+,Xabi Prieto,es ESP,MF,35,34,9.0,7.0,2009-2010,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,998",33.3,7.0,1.0,38,1.0,215,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,35,31,1.0,2.0,2009-2010,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"2,690",29.9,12.0,1.0,38,1.0,198,Real-Sociedad
+,Antoine Griezmann,fr FRA,"FW,MF",39,30,5.0,6.0,2009-2010,/en/players/df69b544/Antoine-Griezmann,df69b544,Real-Sociedad,"2,583",28.7,5.0,0.0,38,4.0,273,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,30,28,0.0,1.0,2009-2010,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"2,548",28.3,4.0,0.0,38,1.0,274,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",30,26,0.0,1.0,2009-2010,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,"2,214",24.6,4.0,0.0,38,1.0,249,Real-Sociedad
+,Claudio Bravo,cl CHI,GK,25,25,0.0,1.0,2009-2010,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"2,156",24.0,1.0,1.0,38,31.0,240,Real-Sociedad
+,Carlos Martínez,es ESP,DF,23,22,2.0,0.0,2009-2010,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"1,985",22.1,3.0,1.0,38,1.0,254,Real-Sociedad
+,Mikel Labaka,es ESP,DF,25,21,0.0,3.0,2009-2010,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,"1,939",21.5,6.0,0.0,38,1.0,219,Real-Sociedad
+,Carlos Bueno,uy URU,FW,33,21,1.0,12.0,2009-2010,/en/players/2f57aca3/Carlos-Bueno,2f57aca3,Real-Sociedad,"1,924",21.4,9.0,0.0,38,8.0,275,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,36,20,1.0,6.0,2009-2010,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"1,877",20.9,1.0,0.0,38,1.0,227,Real-Sociedad
+,Emilio Nsue,gq EQG,"DF,FW",33,19,3.0,5.0,2009-2010,/en/players/1c9bc4fa/Emilio-Nsue,1c9bc4fa,Real-Sociedad,"1,704",18.9,2.0,0.0,38,10.0,276,Real-Sociedad
+,David Zurutuza,es ESP,MF,28,18,1.0,4.0,2009-2010,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"1,632",18.1,3.0,0.0,38,1.0,272,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",18,17,1.0,0.0,2009-2010,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,"1,539",17.1,7.0,1.0,38,1.0,248,Real-Sociedad
+,Eñaut Zubikarai,es ESP,GK,12,10,0.0,0.0,2009-2010,/en/players/5e92d0ec/Enaut-Zubikarai,5e92d0ec,Real-Sociedad,994,11.0,0.0,1.0,38,1.0,266,Real-Sociedad
+,Asier Riesgo,es ESP,GK,7,7,0.0,0.0,2009-2010,/en/players/581c5276/Asier-Riesgo,581c5276,Real-Sociedad,630,7.0,0.0,0.0,38,1.0,218,Real-Sociedad
+,Sergio Rodríguez,es ESP,MF,15,6,0.0,0.0,2009-2010,/en/players/44e3ae1a/Sergio-Rodriguez,44e3ae1a,Real-Sociedad,516,5.7,2.0,0.0,38,1.0,263,Real-Sociedad
+,Jonathan Estrada,co COL,MF,11,6,1.0,0.0,2009-2010,/en/players/8873a3e2/Jonathan-Estrada,8873a3e2,Real-Sociedad,458,5.1,1.0,0.0,38,19.0,277,Real-Sociedad
+,Markel Bergara,es ESP,MF,19,3,0.0,0.0,2009-2010,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,481,5.3,3.0,0.0,38,1.0,259,Real-Sociedad
+,Iñigo Sarasola,es ESP,DF,4,3,0.0,0.0,2009-2010,/en/players/6998e6da/Inigo-Sarasola,6998e6da,Real-Sociedad,285,3.2,1.0,0.0,38,1.0,260,Real-Sociedad
+,Josu Esnaola,,DF,2,2,0.0,0.0,2009-2010,/en/players/8c4a5306/Josu-Esnaola,8c4a5306,Real-Sociedad,180,2.0,0.0,0.0,38,,90001,Real-Sociedad
+,Franck Songo'o,cm CMR,"FW,MF",8,1,0.0,0.0,2009-2010,/en/players/835c259d/Franck-Songoo,835c259d,Real-Sociedad,235,2.6,3.0,0.0,38,36.0,278,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,1,1,0.0,0.0,2009-2010,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,32,0.4,0.0,0.0,38,1.0,119,Real-Sociedad
+,Alex Albistegi,es ESP,MF,1,0,0.0,0.0,2009-2010,/en/players/48be1e34/Alex-Albistegi,48be1e34,Real-Sociedad,58,0.6,0.0,0.0,38,1.0,279,Real-Sociedad
+,Borja Viguera,es ESP,FW,4,0,0.0,0.0,2009-2010,/en/players/d906a703/Borja-Viguera,d906a703,Real-Sociedad,25,0.3,1.0,0.0,38,1.0,261,Real-Sociedad
+,﻿Claudio Bravo,cl CHI,GK,38,38,0.0,0.0,2010-2011,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"3,420",38.0,1.0,0.0,38,31.0,240,Real-Sociedad
+,Xabi Prieto,es ESP,MF,37,36,9.0,7.0,2010-2011,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"3,235",35.9,6.0,0.0,38,1.0,215,Real-Sociedad
+,Antoine Griezmann,fr FRA,"FW,MF",37,34,2.0,7.0,2010-2011,/en/players/df69b544/Antoine-Griezmann,df69b544,Real-Sociedad,"2,832",31.5,7.0,0.0,38,4.0,273,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,32,32,1.0,1.0,2010-2011,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"2,808",31.2,3.0,0.0,38,1.0,233,Real-Sociedad
+,Diego Rivas,es ESP,MF,32,31,0.0,2.0,2010-2011,/en/players/eecf46bc/Diego-Rivas,cf46bc,Real-Sociedad,"2,564",28.5,9.0,0.0,38,1.0,243,Real-Sociedad
+,Mikel González,es ESP,DF,32,30,1.0,0.0,2010-2011,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"2,671",29.7,5.0,0.0,38,1.0,238,Real-Sociedad
+,David Zurutuza,es ESP,MF,36,30,1.0,2.0,2010-2011,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"2,502",27.8,6.0,0.0,38,1.0,272,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,30,28,1.0,0.0,2010-2011,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"2,526",28.1,4.0,0.0,38,1.0,274,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,32,27,2.0,5.0,2010-2011,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"2,306",25.6,6.0,0.0,38,1.0,198,Real-Sociedad
+,Carlos Martínez,es ESP,DF,25,25,2.0,0.0,2010-2011,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"2,205",24.5,1.0,0.0,38,1.0,254,Real-Sociedad
+,Raúl Tamudo,es ESP,FW,31,20,1.0,7.0,2010-2011,/en/players/c026089c/Raul-Tamudo,c026089c,Real-Sociedad,"1,813",20.1,5.0,0.0,38,1.0,280,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",19,18,2.0,1.0,2010-2011,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,"1,627",18.1,4.0,0.0,38,1.0,248,Real-Sociedad
+,Joseba Llorente,es ESP,FW,18,15,7.0,5.0,2010-2011,/en/players/ddb98947/Joseba-Llorente,ddb98947,Real-Sociedad,"1,264",14.0,4.0,0.0,38,1.0,211,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",18,13,0.0,0.0,2010-2011,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,"1,184",13.2,3.0,0.0,38,1.0,249,Real-Sociedad
+,Vadim Demidov,no NOR,"DF,MF",13,12,1.0,0.0,2010-2011,/en/players/59f3b22d/Vadim-Demidov,59f3b22d,Real-Sociedad,"1,094",12.2,2.0,0.0,38,21.0,281,Real-Sociedad
+,Markel Bergara,es ESP,MF,19,9,0.0,0.0,2010-2011,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,962,10.7,5.0,0.0,38,1.0,259,Real-Sociedad
+,Mikel Labaka,es ESP,DF,14,9,1.0,0.0,2010-2011,/en/players/e83de90d/Mikel-Labaka,83de90d,Real-Sociedad,926,10.3,3.0,0.0,38,1.0,219,Real-Sociedad
+,Francisco Sutil,es ESP,"DF,FW",17,4,1.0,2.0,2010-2011,/en/players/51b44d11/Francisco-Sutil,51b44d11,Real-Sociedad,524,5.8,1.0,0.0,38,1.0,282,Real-Sociedad
+,Diego Ifrán,uy URU,FW,10,3,0.0,2.0,2010-2011,/en/players/59e3e40f/Diego-Ifran,59e3e40f,Real-Sociedad,332,3.7,2.0,0.0,38,8.0,283,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,3,2,0.0,0.0,2010-2011,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,190,2.1,2.0,0.0,38,1.0,119,Real-Sociedad
+,Jeffrey Sarpong,nl NED,MF,16,1,0.0,1.0,2010-2011,/en/players/cabfd01c/Jeffrey-Sarpong,cabfd01c,Real-Sociedad,348,3.9,1.0,0.0,38,11.0,284,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,11,1,0.0,3.0,2010-2011,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,214,2.4,0.0,0.0,38,1.0,227,Real-Sociedad
+,Borja Viguera,es ESP,FW,5,0,0.0,0.0,2010-2011,/en/players/d906a703/Borja-Viguera,d906a703,Real-Sociedad,73,0.8,0.0,0.0,38,1.0,261,Real-Sociedad
+,﻿Claudio Bravo,cl CHI,GK,37,37,0.0,0.0,2011-2012,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"3,330",37.0,2.0,0.0,38,31.0,240,Real-Sociedad
+,David Zurutuza,es ESP,MF,33,30,1.0,3.0,2011-2012,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"2,514",27.9,4.0,0.0,38,1.0,272,Real-Sociedad
+,Antoine Griezmann,fr FRA,"FW,MF",35,28,3.0,7.0,2011-2012,/en/players/df69b544/Antoine-Griezmann,df69b544,Real-Sociedad,"2,621",29.1,5.0,0.0,38,4.0,273,Real-Sociedad
+,Carlos Vela,mx MEX,"FW,MF",35,28,5.0,12.0,2011-2012,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,"2,473",27.5,2.0,0.0,38,20.0,285,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,36,27,3.0,10.0,2011-2012,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"2,183",24.3,1.0,0.0,38,1.0,227,Real-Sociedad
+,Iñigo Martínez,es ESP,DF,26,26,0.0,3.0,2011-2012,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"2,200",24.4,9.0,2.0,38,1.0,286,Real-Sociedad
+,Mikel Aranburu,es ESP,MF,29,26,2.0,2.0,2011-2012,/en/players/9452d85a/Mikel-Aranburu,9452d85a,Real-Sociedad,"2,146",23.8,3.0,0.0,38,1.0,198,Real-Sociedad
+,Xabi Prieto,es ESP,MF,34,25,7.0,2.0,2011-2012,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,302",25.6,1.0,0.0,38,1.0,215,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",29,25,1.0,2.0,2011-2012,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,"2,260",25.1,8.0,0.0,38,1.0,248,Real-Sociedad
+,Mikel González,es ESP,DF,28,25,0.0,1.0,2011-2012,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"2,209",24.5,8.0,1.0,38,1.0,238,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,21,21,1.0,0.0,2011-2012,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"1,817",20.2,4.0,0.0,38,1.0,274,Real-Sociedad
+,Vadim Demidov,no NOR,"DF,MF",23,20,1.0,0.0,2011-2012,/en/players/59f3b22d/Vadim-Demidov,59f3b22d,Real-Sociedad,"1,836",20.4,5.0,0.0,38,21.0,281,Real-Sociedad
+,Carlos Martínez,es ESP,DF,21,19,0.0,0.0,2011-2012,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"1,686",18.7,2.0,1.0,38,1.0,254,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",17,16,1.0,1.0,2011-2012,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,"1,408",15.6,4.0,2.0,38,1.0,249,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,18,16,1.0,0.0,2011-2012,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,"1,400",15.6,3.0,1.0,38,1.0,119,Real-Sociedad
+,Liassine Cadamuro,dz ALG,DF,19,13,0.0,0.0,2011-2012,/en/players/e3a83cb9/Liassine-Cadamuro,3a83cb9,Real-Sociedad,"1,232",13.7,6.0,0.0,38,37.0,287,Real-Sociedad
+,McDonald Mariga,ke KEN,MF,14,10,0.0,0.0,2011-2012,/en/players/e88e5e34/McDonald-Mariga,88e5e34,Real-Sociedad,950,10.6,1.0,0.0,38,38.0,288,Real-Sociedad
+,Markel Bergara,es ESP,MF,11,9,0.0,0.0,2011-2012,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,698,7.8,4.0,0.0,38,1.0,259,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,9,8,0.0,0.0,2011-2012,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,745,8.3,2.0,0.0,38,1.0,233,Real-Sociedad
+,Diego Ifrán,uy URU,FW,16,4,0.0,1.0,2011-2012,/en/players/59e3e40f/Diego-Ifran,59e3e40f,Real-Sociedad,489,5.4,4.0,0.0,38,8.0,283,Real-Sociedad
+,Rubén Pardo,es ESP,MF,15,2,0.0,1.0,2011-2012,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,357,4.0,0.0,0.0,38,1.0,289,Real-Sociedad
+,Joseba Llorente,es ESP,FW,17,1,1.0,0.0,2011-2012,/en/players/ddb98947/Joseba-Llorente,ddb98947,Real-Sociedad,294,3.3,3.0,0.0,38,1.0,211,Real-Sociedad
+,Eñaut Zubikarai,es ESP,GK,1,1,0.0,0.0,2011-2012,/en/players/5e92d0ec/Enaut-Zubikarai,5e92d0ec,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,266,Real-Sociedad
+,Jeffrey Sarpong,nl NED,MF,3,1,0.0,0.0,2011-2012,/en/players/cabfd01c/Jeffrey-Sarpong,cabfd01c,Real-Sociedad,87,1.0,0.0,0.0,38,11.0,284,Real-Sociedad
+,﻿Alberto de la Bella,es ESP,DF,36,36,2.0,3.0,2012-2013,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"3,202",35.6,7.0,0.0,38,1.0,274,Real-Sociedad
+,Mikel González,es ESP,DF,34,34,1.0,2.0,2012-2013,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"3,060",34.0,10.0,0.0,38,1.0,238,Real-Sociedad
+,Iñigo Martínez,es ESP,DF,34,34,0.0,4.0,2012-2013,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"3,060",34.0,9.0,0.0,38,1.0,286,Real-Sociedad
+,Xabi Prieto,es ESP,MF,35,33,3.0,9.0,2012-2013,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,836",31.5,2.0,0.0,38,1.0,215,Real-Sociedad
+,Antoine Griezmann,fr FRA,"FW,MF",34,32,3.0,10.0,2012-2013,/en/players/df69b544/Antoine-Griezmann,df69b544,Real-Sociedad,"2,848",31.6,8.0,0.0,38,4.0,273,Real-Sociedad
+,Carlos Vela,mx MEX,"FW,MF",35,32,10.0,14.0,2012-2013,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,"2,689",29.9,10.0,0.0,38,20.0,285,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,32,32,5.0,0.0,2012-2013,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,"2,683",29.8,11.0,0.0,38,1.0,119,Real-Sociedad
+,Claudio Bravo,cl CHI,GK,31,31,0.0,0.0,2012-2013,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"2,790",31.0,0.0,0.0,38,31.0,240,Real-Sociedad
+,Carlos Martínez,es ESP,DF,29,29,4.0,1.0,2012-2013,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"2,583",28.7,4.0,0.0,38,1.0,254,Real-Sociedad
+,Markel Bergara,es ESP,MF,28,27,0.0,0.0,2012-2013,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,"2,357",26.2,8.0,1.0,38,1.0,259,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,34,22,6.0,13.0,2012-2013,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"2,060",22.9,2.0,0.0,38,1.0,227,Real-Sociedad
+,David Zurutuza,es ESP,MF,21,14,3.0,2.0,2012-2013,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"1,151",12.8,2.0,0.0,38,1.0,272,Real-Sociedad
+,Chory Castro,uy URU,"FW,MF",31,13,3.0,7.0,2012-2013,/en/players/8cc3d96e/Chory-Castro,8cc3d96e,Real-Sociedad,"1,324",14.7,3.0,0.0,38,8.0,290,Real-Sociedad
+,Rubén Pardo,es ESP,MF,25,10,4.0,0.0,2012-2013,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,"1,095",12.2,4.0,0.0,38,1.0,289,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",19,10,0.0,0.0,2012-2013,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,982,10.9,4.0,1.0,38,1.0,248,Real-Sociedad
+,Diego Ifrán,uy URU,FW,26,9,3.0,2.0,2012-2013,/en/players/59e3e40f/Diego-Ifran,59e3e40f,Real-Sociedad,920,10.2,2.0,0.0,38,8.0,283,Real-Sociedad
+,Eñaut Zubikarai,es ESP,GK,7,7,0.0,0.0,2012-2013,/en/players/5e92d0ec/Enaut-Zubikarai,5e92d0ec,Real-Sociedad,630,7.0,0.0,0.0,38,1.0,266,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",8,5,1.0,1.0,2012-2013,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,443,4.9,2.0,0.0,38,1.0,249,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,7,4,1.0,0.0,2012-2013,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,371,4.1,4.0,0.0,38,1.0,233,Real-Sociedad
+,José Ángel,es ESP,DF,11,2,0.0,0.0,2012-2013,/en/players/3024e383/Jose-Angel,3024e383,Real-Sociedad,248,2.8,2.0,0.0,38,1.0,291,Real-Sociedad
+,Liassine Cadamuro,dz ALG,DF,4,2,0.0,0.0,2012-2013,/en/players/e3a83cb9/Liassine-Cadamuro,3a83cb9,Real-Sociedad,194,2.2,2.0,0.0,38,37.0,287,Real-Sociedad
+,Javier Ros,es ESP,MF,6,0,0.0,0.0,2012-2013,/en/players/6b2f1a78/Javier-Ros,6b2f1a78,Real-Sociedad,77,0.9,0.0,0.0,38,1.0,267,Real-Sociedad
+,﻿Claudio Bravo,cl CHI,GK,37,37,0.0,0.0,2013-2014,/en/players/10072610/Claudio-Bravo,10072610,Real-Sociedad,"3,330",37.0,3.0,0.0,38,31.0,240,Real-Sociedad
+,Iñigo Martínez,es ESP,DF,35,35,0.0,2.0,2013-2014,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"3,120",34.7,11.0,0.0,38,1.0,286,Real-Sociedad
+,Carlos Vela,mx MEX,"FW,MF",37,35,12.0,16.0,2013-2014,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,"3,108",34.5,4.0,0.0,38,20.0,285,Real-Sociedad
+,Markel Bergara,es ESP,MF,32,32,2.0,1.0,2013-2014,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,"2,717",30.2,4.0,0.0,38,1.0,259,Real-Sociedad
+,Antoine Griezmann,fr FRA,"FW,MF",35,31,3.0,16.0,2013-2014,/en/players/df69b544/Antoine-Griezmann,df69b544,Real-Sociedad,"2,651",29.5,5.0,0.0,38,4.0,273,Real-Sociedad
+,Carlos Martínez,es ESP,DF,24,24,0.0,0.0,2013-2014,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"2,108",23.4,2.0,0.0,38,1.0,254,Real-Sociedad
+,José Ángel,es ESP,DF,22,22,5.0,1.0,2013-2014,/en/players/3024e383/Jose-Angel,3024e383,Real-Sociedad,"1,906",21.2,5.0,0.0,38,1.0,291,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,31,21,1.0,8.0,2013-2014,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"1,942",21.6,1.0,0.0,38,1.0,227,Real-Sociedad
+,Rubén Pardo,es ESP,MF,35,21,8.0,3.0,2013-2014,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,"1,885",20.9,5.0,0.0,38,1.0,289,Real-Sociedad
+,Mikel González,es ESP,DF,21,20,0.0,0.0,2013-2014,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"1,733",19.3,7.0,1.0,38,1.0,238,Real-Sociedad
+,David Zurutuza,es ESP,MF,28,19,2.0,1.0,2013-2014,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"1,671",18.6,4.0,0.0,38,1.0,272,Real-Sociedad
+,Xabi Prieto,es ESP,MF,30,18,3.0,2.0,2013-2014,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"1,795",19.9,6.0,0.0,38,1.0,215,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,24,18,0.0,2.0,2013-2014,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"1,790",19.9,1.0,0.0,38,1.0,233,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,17,16,2.0,1.0,2013-2014,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"1,465",16.3,4.0,0.0,38,1.0,274,Real-Sociedad
+,Sergio Canales,es ESP,MF,16,13,0.0,2.0,2013-2014,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Sociedad,"1,032",11.5,3.0,0.0,38,1.0,93,Real-Sociedad
+,Chory Castro,uy URU,"FW,MF",23,12,3.0,2.0,2013-2014,/en/players/8cc3d96e/Chory-Castro,8cc3d96e,Real-Sociedad,"1,026",11.4,1.0,0.0,38,8.0,290,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",20,11,0.0,0.0,2013-2014,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,"1,077",12.0,2.0,0.0,38,1.0,249,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,10,10,0.0,0.0,2013-2014,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,888,9.9,2.0,0.0,38,1.0,292,Real-Sociedad
+,Haris Seferović,ch SUI,FW,24,9,2.0,2.0,2013-2014,/en/players/a45eac1f/Haris-Seferovic,45eac1f,Real-Sociedad,887,9.9,2.0,0.0,38,39.0,293,Real-Sociedad
+,Liassine Cadamuro,dz ALG,DF,4,4,0.0,0.0,2013-2014,/en/players/e3a83cb9/Liassine-Cadamuro,3a83cb9,Real-Sociedad,360,4.0,0.0,0.0,38,37.0,287,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",3,3,0.0,0.0,2013-2014,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,225,2.5,0.0,0.0,38,1.0,248,Real-Sociedad
+,Javier Ros,es ESP,MF,9,2,0.0,0.0,2013-2014,/en/players/6b2f1a78/Javier-Ros,6b2f1a78,Real-Sociedad,270,3.0,2.0,0.0,38,1.0,267,Real-Sociedad
+,Esteban Granero,es ESP,MF,4,2,1.0,0.0,2013-2014,/en/players/1b17ed86/Esteban-Granero,1b17ed86,Real-Sociedad,246,2.7,1.0,0.0,38,1.0,82,Real-Sociedad
+,Jon Gaztañaga,es ESP,"DF,MF",3,1,0.0,0.0,2013-2014,/en/players/806872d2/Jon-Gaztanaga,806872d2,Real-Sociedad,143,1.6,1.0,0.0,38,1.0,294,Real-Sociedad
+,Marco Sangalli,es ESP,"FW,MF",2,1,0.0,0.0,2013-2014,/en/players/0bf0e5b1/Marco-Sangalli,0bf0e5b1,Real-Sociedad,104,1.2,0.0,0.0,38,1.0,295,Real-Sociedad
+,Eñaut Zubikarai,es ESP,GK,1,1,0.0,0.0,2013-2014,/en/players/5e92d0ec/Enaut-Zubikarai,5e92d0ec,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,266,Real-Sociedad
+,Pablo Hervías,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/ba5a9545/Pablo-Hervias,ba5a9545,Real-Sociedad,17,0.2,0.0,0.0,38,1.0,296,Real-Sociedad
+,﻿Iñigo Martínez,es ESP,DF,34,34,0.0,3.0,2014-2015,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"3,026",33.6,6.0,0.0,38,1.0,286,Real-Sociedad
+,Xabi Prieto,es ESP,MF,35,33,6.0,4.0,2014-2015,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,982",33.1,5.0,0.0,38,1.0,215,Real-Sociedad
+,Sergio Canales,es ESP,MF,36,31,3.0,4.0,2014-2015,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Sociedad,"2,532",28.1,3.0,0.0,38,1.0,93,Real-Sociedad
+,Esteban Granero,es ESP,MF,33,29,3.0,0.0,2014-2015,/en/players/1b17ed86/Esteban-Granero,1b17ed86,Real-Sociedad,"2,496",27.7,10.0,0.0,38,1.0,82,Real-Sociedad
+,Markel Bergara,es ESP,MF,30,24,1.0,1.0,2014-2015,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,"2,128",23.6,9.0,0.0,38,1.0,259,Real-Sociedad
+,Carlos Vela,mx MEX,"FW,MF",29,23,3.0,9.0,2014-2015,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,"2,056",22.8,5.0,0.0,38,20.0,285,Real-Sociedad
+,Gerónimo Rulli,ar ARG,GK,22,22,0.0,0.0,2014-2015,/en/players/625c144a/Geronimo-Rulli,625c144a,Real-Sociedad,"1,980",22.0,5.0,0.0,38,5.0,297,Real-Sociedad
+,Chory Castro,uy URU,"FW,MF",32,22,4.0,4.0,2014-2015,/en/players/8cc3d96e/Chory-Castro,8cc3d96e,Real-Sociedad,"1,810",20.1,2.0,0.0,38,8.0,290,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,31,21,1.0,7.0,2014-2015,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"1,946",21.6,2.0,0.0,38,1.0,227,Real-Sociedad
+,Rubén Pardo,es ESP,MF,28,21,6.0,1.0,2014-2015,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,"1,921",21.3,5.0,0.0,38,1.0,289,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,23,21,2.0,0.0,2014-2015,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,"1,921",21.3,5.0,0.0,38,1.0,292,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,23,21,2.0,1.0,2014-2015,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"1,906",21.2,4.0,0.0,38,1.0,274,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,19,19,0.0,0.0,2014-2015,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,"1,710",19.0,6.0,0.0,38,1.0,233,Real-Sociedad
+,Yuri Berchiche,es ESP,DF,21,17,1.0,0.0,2014-2015,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Real-Sociedad,"1,469",16.3,7.0,0.0,38,1.0,298,Real-Sociedad
+,Eñaut Zubikarai,es ESP,GK,16,16,0.0,0.0,2014-2015,/en/players/5e92d0ec/Enaut-Zubikarai,5e92d0ec,Real-Sociedad,"1,440",16.0,0.0,0.0,38,1.0,266,Real-Sociedad
+,Mikel González,es ESP,DF,16,14,0.0,0.0,2014-2015,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"1,240",13.8,5.0,1.0,38,1.0,238,Real-Sociedad
+,Carlos Martínez,es ESP,DF,15,13,2.0,0.0,2014-2015,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,"1,178",13.1,0.0,0.0,38,1.0,254,Real-Sociedad
+,Gorka Elustondo,es ESP,"DF,MF",19,12,0.0,1.0,2014-2015,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Real-Sociedad,"1,162",12.9,1.0,0.0,38,1.0,249,Real-Sociedad
+,David Zurutuza,es ESP,MF,16,12,0.0,2.0,2014-2015,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,982,10.9,2.0,0.0,38,1.0,272,Real-Sociedad
+,Alfreð Finnbogason,is ISL,FW,25,6,1.0,2.0,2014-2015,/en/players/f9e7c4ac/Alfred-Finnbogason,f9e7c4ac,Real-Sociedad,817,9.1,3.0,0.0,38,40.0,299,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,4,4,0.0,1.0,2014-2015,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,316,3.5,2.0,0.0,38,1.0,305,Real-Sociedad
+,Pablo Hervías,es ESP,MF,15,2,0.0,1.0,2014-2015,/en/players/ba5a9545/Pablo-Hervias,ba5a9545,Real-Sociedad,388,4.3,0.0,0.0,38,1.0,296,Real-Sociedad
+,Jon Gaztañaga,es ESP,"DF,MF",3,1,0.0,0.0,2014-2015,/en/players/806872d2/Jon-Gaztanaga,806872d2,Real-Sociedad,149,1.7,1.0,0.0,38,1.0,294,Real-Sociedad
+,Eneko Capilla,es ESP,MF,2,0,0.0,0.0,2014-2015,/en/players/54bed007/Eneko-Capilla,54bed007,Real-Sociedad,13,0.1,0.0,0.0,38,1.0,300,Real-Sociedad
+,Iker Hernández,es ESP,FW,1,0,0.0,0.0,2014-2015,/en/players/c9ee1793/Iker-Hernandez,c9ee1793,Real-Sociedad,12,0.1,0.0,0.0,38,1.0,301,Real-Sociedad
+,Ander Bardají,es ESP,GK,0,0,,,2014-2015,/en/players/73687f30/Ander-Bardaji,73687f30,Real-Sociedad,,,,,38,1.0,302,Real-Sociedad
+,Dani Estrada,es ESP,"DF,MF",0,0,,,2014-2015,/en/players/519412fd/Dani-Estrada,519412fd,Real-Sociedad,,,,,38,1.0,248,Real-Sociedad
+,Alain Oyarzun,es ESP,"FW,MF",0,0,,,2014-2015,/en/players/8159c16a/Alain-Oyarzun,8159c16a,Real-Sociedad,,,,,38,1.0,303,Real-Sociedad
+,Alejandro Sanz,es ESP,MF,0,0,,,2014-2015,/en/players/e514ee96/Alejandro-Sanz,514ee96,Real-Sociedad,,,,,38,1.0,304,Real-Sociedad
+,﻿Gerónimo Rulli,ar ARG,GK,36,36,0.0,0.0,2015-2016,/en/players/625c144a/Geronimo-Rulli,625c144a,Real-Sociedad,"3,191",35.5,4.0,1.0,38,5.0,297,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,33,32,1.0,1.0,2015-2016,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,"2,845",31.6,16.0,0.0,38,1.0,119,Real-Sociedad
+,Carlos Vela,mx MEX,"MF,FW",35,32,4.0,5.0,2015-2016,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,"2,755",30.6,5.0,0.0,38,20.0,285,Real-Sociedad
+,Iñigo Martínez,es ESP,DF,30,30,0.0,1.0,2015-2016,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"2,700",30.0,7.0,0.0,38,1.0,286,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,31,30,0.0,1.0,2015-2016,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,"2,593",28.8,8.0,0.0,38,1.0,305,Real-Sociedad
+,Xabi Prieto,es ESP,MF,36,27,3.0,3.0,2015-2016,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,382",26.5,3.0,0.0,38,1.0,215,Real-Sociedad
+,Diego Reyes,mx MEX,"DF,MF",27,26,0.0,2.0,2015-2016,/en/players/d4f46475/Diego-Reyes,d4f46475,Real-Sociedad,"2,310",25.7,5.0,1.0,38,20.0,306,Real-Sociedad
+,Yuri Berchiche,es ESP,DF,21,21,4.0,0.0,2015-2016,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Real-Sociedad,"1,847",20.5,10.0,0.0,38,1.0,298,Real-Sociedad
+,Rubén Pardo,es ESP,MF,28,19,5.0,0.0,2015-2016,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,"1,786",19.8,7.0,0.0,38,1.0,289,Real-Sociedad
+,Jonathas,br BRA,FW,27,17,2.0,7.0,2015-2016,/en/players/531807b3/Jonathas,531807b3,Real-Sociedad,"1,607",17.9,7.0,1.0,38,2.0,307,Real-Sociedad
+,Mikel González,es ESP,DF,19,17,0.0,0.0,2015-2016,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,"1,552",17.2,1.0,0.0,38,1.0,238,Real-Sociedad
+,Mikel Oyarzabal,es ESP,"FW,MF",22,16,1.0,6.0,2015-2016,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"1,500",16.7,1.0,0.0,38,1.0,308,Real-Sociedad
+,Markel Bergara,es ESP,MF,20,15,0.0,1.0,2015-2016,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,"1,354",15.0,8.0,1.0,38,1.0,259,Real-Sociedad
+,Bruma,pt POR,"MF,FW",32,14,1.0,2.0,2015-2016,/en/players/5caa62a7/Bruma,5caa62a7,Real-Sociedad,"1,454",16.2,0.0,0.0,38,3.0,309,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,15,14,2.0,0.0,2015-2016,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"1,248",13.9,5.0,0.0,38,1.0,274,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,16,14,0.0,13.0,2015-2016,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,"1,170",13.0,0.0,0.0,38,1.0,227,Real-Sociedad
+,David Zurutuza,es ESP,"MF,FW",16,14,3.0,1.0,2015-2016,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"1,122",12.5,1.0,0.0,38,1.0,272,Real-Sociedad
+,Sergio Canales,es ESP,"MF,FW",16,11,0.0,0.0,2015-2016,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Sociedad,899,10.0,3.0,0.0,38,1.0,93,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,13,10,0.0,0.0,2015-2016,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,918,10.2,5.0,0.0,38,1.0,292,Real-Sociedad
+,Esteban Granero,es ESP,MF,15,9,0.0,0.0,2015-2016,/en/players/1b17ed86/Esteban-Granero,1b17ed86,Real-Sociedad,837,9.3,7.0,1.0,38,1.0,82,Real-Sociedad
+,Carlos Martínez,es ESP,DF,10,6,2.0,0.0,2015-2016,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,539,6.0,2.0,0.0,38,1.0,254,Real-Sociedad
+,Héctor Hernández,es ESP,"DF,FW",13,4,1.0,0.0,2015-2016,/en/players/76ee80ee/Hector-Hernandez,76ee80ee,Real-Sociedad,401,4.5,1.0,0.0,38,1.0,310,Real-Sociedad
+,Oier Olazábal,es ESP,GK,3,2,0.0,0.0,2015-2016,/en/players/b5bdf144/Oier-Olazabal,b5bdf144,Real-Sociedad,228,2.5,1.0,0.0,38,1.0,311,Real-Sociedad
+,Chory Castro,uy URU,MF,8,1,2.0,0.0,2015-2016,/en/players/8cc3d96e/Chory-Castro,8cc3d96e,Real-Sociedad,158,1.8,0.0,0.0,38,8.0,290,Real-Sociedad
+,Jon Bautista,es ESP,FW,4,1,0.0,1.0,2015-2016,/en/players/debc6b55/Jon-Bautista,debc6b55,Real-Sociedad,118,1.3,2.0,0.0,38,1.0,312,Real-Sociedad
+,Eneko Capilla,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/54bed007/Eneko-Capilla,54bed007,Real-Sociedad,9,0.1,0.0,0.0,38,1.0,300,Real-Sociedad
+,Igor Zubeldia,es ESP,"DF,MF",1,0,0.0,0.0,2015-2016,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,7,0.1,0.0,0.0,38,1.0,313,Real-Sociedad
+,Ion Ansotegi,es ESP,DF,0,0,,,2015-2016,/en/players/72b26e8e/Ion-Ansotegi,72b26e8e,Real-Sociedad,,,,,38,1.0,233,Real-Sociedad
+,Ander Bardají,es ESP,GK,0,0,,,2015-2016,/en/players/73687f30/Ander-Bardaji,73687f30,Real-Sociedad,,,,,38,1.0,302,Real-Sociedad
+,Álvaro Odriozola,es ESP,DF,0,0,,,2015-2016,/en/players/1d1691ad/Alvaro-Odriozola,1d1691ad,Real-Sociedad,,,,,38,1.0,168,Real-Sociedad
+,﻿Gerónimo Rulli,ar ARG,GK,38,38,0.0,0.0,2016-2017,/en/players/625c144a/Geronimo-Rulli,625c144a,Real-Sociedad,"3,420",38.0,4.0,0.0,38,5.0,297,Real-Sociedad
+,Yuri Berchiche,es ESP,DF,35,35,2.0,3.0,2016-2017,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Real-Sociedad,"3,088",34.3,9.0,0.0,38,1.0,298,Real-Sociedad
+,Iñigo Martínez,es ESP,DF,34,34,2.0,3.0,2016-2017,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"2,997",33.3,10.0,1.0,38,1.0,286,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,34,33,2.0,1.0,2016-2017,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,"3,006",33.4,13.0,0.0,38,1.0,119,Real-Sociedad
+,Xabi Prieto,es ESP,MF,38,32,6.0,8.0,2016-2017,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"2,816",31.3,2.0,0.0,38,1.0,215,Real-Sociedad
+,Raúl Navas,es ESP,DF,32,31,1.0,1.0,2016-2017,/en/players/ad178594/Raul-Navas,d178594,Real-Sociedad,"2,800",31.1,5.0,0.0,38,1.0,314,Real-Sociedad
+,Carlos Vela,mx MEX,"FW,MF",35,31,2.0,9.0,2016-2017,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,"2,545",28.3,6.0,0.0,38,20.0,285,Real-Sociedad
+,Mikel Oyarzabal,es ESP,"FW,MF",38,30,7.0,2.0,2016-2017,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"2,719",30.2,0.0,0.0,38,1.0,308,Real-Sociedad
+,David Zurutuza,es ESP,MF,31,29,1.0,3.0,2016-2017,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"2,496",27.7,8.0,1.0,38,1.0,272,Real-Sociedad
+,Willian José,br BRA,FW,28,27,4.0,12.0,2016-2017,/en/players/d87e2cae/Willian-Jose,d87e2cae,Real-Sociedad,"2,064",22.9,4.0,0.0,38,2.0,120,Real-Sociedad
+,Juanmi,es ESP,"FW,MF",35,19,0.0,11.0,2016-2017,/en/players/84399660/Juanmi,84399660,Real-Sociedad,"1,808",20.1,7.0,1.0,38,1.0,315,Real-Sociedad
+,Álvaro Odriozola,es ESP,DF,15,15,4.0,0.0,2016-2017,/en/players/1d1691ad/Alvaro-Odriozola,1d1691ad,Real-Sociedad,"1,282",14.2,0.0,0.0,38,1.0,168,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,14,12,1.0,0.0,2016-2017,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,"1,103",12.3,2.0,1.0,38,1.0,292,Real-Sociedad
+,Carlos Martínez,es ESP,DF,10,10,2.0,0.0,2016-2017,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,869,9.7,2.0,0.0,38,1.0,254,Real-Sociedad
+,Esteban Granero,es ESP,MF,19,8,1.0,0.0,2016-2017,/en/players/1b17ed86/Esteban-Granero,1b17ed86,Real-Sociedad,696,7.7,5.0,1.0,38,1.0,82,Real-Sociedad
+,Mikel González,es ESP,DF,9,8,0.0,0.0,2016-2017,/en/players/7cc5bd9c/Mikel-Gonzalez,7cc5bd9c,Real-Sociedad,664,7.4,2.0,0.0,38,1.0,238,Real-Sociedad
+,Sergio Canales,es ESP,"MF,FW",31,7,4.0,0.0,2016-2017,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Sociedad,"1,011",11.2,2.0,0.0,38,1.0,93,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,9,4,0.0,0.0,2016-2017,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,462,5.1,0.0,1.0,38,1.0,305,Real-Sociedad
+,Markel Bergara,es ESP,MF,6,3,0.0,0.0,2016-2017,/en/players/04a65a8f/Markel-Bergara,04a65a8f,Real-Sociedad,288,3.2,0.0,0.0,38,1.0,259,Real-Sociedad
+,Igor Zubeldia,es ESP,MF,4,3,0.0,0.0,2016-2017,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,254,2.8,1.0,0.0,38,1.0,313,Real-Sociedad
+,Jon Bautista,es ESP,FW,12,2,0.0,3.0,2016-2017,/en/players/debc6b55/Jon-Bautista,debc6b55,Real-Sociedad,312,3.5,0.0,0.0,38,1.0,312,Real-Sociedad
+,Héctor Hernández,es ESP,DF,4,2,0.0,0.0,2016-2017,/en/players/76ee80ee/Hector-Hernandez,76ee80ee,Real-Sociedad,254,2.8,0.0,0.0,38,1.0,310,Real-Sociedad
+,Rubén Pardo,es ESP,MF,3,2,0.0,0.0,2016-2017,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,159,1.8,0.0,0.0,38,1.0,289,Real-Sociedad
+,David Concha,es ESP,MF,8,1,0.0,0.0,2016-2017,/en/players/c8355268/David-Concha,c8355268,Real-Sociedad,116,1.3,0.0,0.0,38,1.0,316,Real-Sociedad
+,Kévin Rodrigues,pt POR,DF,2,1,0.0,0.0,2016-2017,/en/players/f1bed920/Kevin-Rodrigues,f1bed920,Real-Sociedad,104,1.2,1.0,0.0,38,3.0,317,Real-Sociedad
+,Jon Guridi,es ESP,MF,1,1,0.0,0.0,2016-2017,/en/players/4c0a6a48/Jon-Guridi,4c0a6a48,Real-Sociedad,75,0.8,0.0,0.0,38,1.0,318,Real-Sociedad
+,Jon Gaztañaga,es ESP,"DF,MF",2,0,0.0,0.0,2016-2017,/en/players/806872d2/Jon-Gaztanaga,806872d2,Real-Sociedad,26,0.3,1.0,0.0,38,1.0,294,Real-Sociedad
+,Ander Bardají,es ESP,GK,0,0,,,2016-2017,/en/players/73687f30/Ander-Bardaji,73687f30,Real-Sociedad,,,,,38,1.0,302,Real-Sociedad
+,Toño Ramírez,es ESP,GK,0,0,,,2016-2017,/en/players/dc4511f3/Tono-Ramirez,dc4511f3,Real-Sociedad,,,,,38,1.0,268,Real-Sociedad
+,﻿Asier Illarramendi,es ESP,MF,36,35,5.0,7.0,2017-2018,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,"3,163",35.1,10.0,1.0,38,1.0,119,Real-Sociedad
+,Álvaro Odriozola,es ESP,DF,35,32,4.0,0.0,2017-2018,/en/players/1d1691ad/Alvaro-Odriozola,1d1691ad,Real-Sociedad,"2,918",32.4,3.0,1.0,38,1.0,168,Real-Sociedad
+,Willian José,br BRA,FW,34,32,4.0,15.0,2017-2018,/en/players/d87e2cae/Willian-Jose,d87e2cae,Real-Sociedad,"2,770",30.8,4.0,0.0,38,2.0,120,Real-Sociedad
+,Mikel Oyarzabal,es ESP,"FW,MF",35,31,5.0,12.0,2017-2018,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"2,772",30.8,3.0,0.0,38,1.0,308,Real-Sociedad
+,Gerónimo Rulli,ar ARG,GK,26,26,0.0,0.0,2017-2018,/en/players/625c144a/Geronimo-Rulli,625c144a,Real-Sociedad,"2,340",26.0,3.0,0.0,38,5.0,297,Real-Sociedad
+,Diego Llorente,es ESP,DF,27,26,0.0,3.0,2017-2018,/en/players/bba30585/Diego-Llorente,bba30585,Real-Sociedad,"2,326",25.8,9.0,1.0,38,1.0,114,Real-Sociedad
+,David Zurutuza,es ESP,MF,31,26,2.0,0.0,2017-2018,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"2,242",24.9,2.0,0.0,38,1.0,272,Real-Sociedad
+,Xabi Prieto,es ESP,"MF,FW",26,24,5.0,3.0,2017-2018,/en/players/d054d8b0/Xabi-Prieto,d054d8b0,Real-Sociedad,"1,929",21.4,1.0,0.0,38,1.0,215,Real-Sociedad
+,Sergio Canales,es ESP,"MF,FW",36,20,5.0,4.0,2017-2018,/en/players/a6de370d/Sergio-Canales,6de370d,Real-Sociedad,"1,928",21.4,4.0,0.0,38,1.0,93,Real-Sociedad
+,Raúl Navas,es ESP,DF,20,20,1.0,0.0,2017-2018,/en/players/ad178594/Raul-Navas,d178594,Real-Sociedad,"1,791",19.9,4.0,0.0,38,1.0,314,Real-Sociedad
+,Kévin Rodrigues,pt POR,DF,20,18,2.0,1.0,2017-2018,/en/players/f1bed920/Kevin-Rodrigues,f1bed920,Real-Sociedad,"1,635",18.2,1.0,0.0,38,3.0,317,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,19,18,2.0,3.0,2017-2018,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,"1,596",17.7,1.0,0.0,38,1.0,305,Real-Sociedad
+,Adnan Januzaj,be BEL,"FW,MF",28,18,5.0,3.0,2017-2018,/en/players/4737cebe/Adnan-Januzaj,4737cebe,Real-Sociedad,"1,573",17.5,4.0,0.0,38,27.0,319,Real-Sociedad
+,Juanmi,es ESP,"FW,MF",30,18,2.0,8.0,2017-2018,/en/players/84399660/Juanmi,84399660,Real-Sociedad,"1,489",16.5,3.0,0.0,38,1.0,315,Real-Sociedad
+,Alberto de la Bella,es ESP,DF,17,17,1.0,0.0,2017-2018,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Real-Sociedad,"1,528",17.0,4.0,0.0,38,1.0,274,Real-Sociedad
+,Igor Zubeldia,es ESP,MF,25,16,2.0,1.0,2017-2018,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,"1,582",17.6,3.0,1.0,38,1.0,313,Real-Sociedad
+,Iñigo Martínez,es ESP,DF,12,12,1.0,1.0,2017-2018,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Real-Sociedad,"1,055",11.7,0.0,0.0,38,1.0,286,Real-Sociedad
+,Miguel Ángel Moyá,es ESP,GK,9,9,0.0,0.0,2017-2018,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Real-Sociedad,764,8.5,0.0,0.0,38,1.0,320,Real-Sociedad
+,Héctor Moreno,mx MEX,DF,8,8,0.0,1.0,2017-2018,/en/players/5d311e8d/Hector-Moreno,5d311e8d,Real-Sociedad,720,8.0,1.0,0.0,38,20.0,321,Real-Sociedad
+,Toño Ramírez,es ESP,GK,4,3,0.0,0.0,2017-2018,/en/players/dc4511f3/Tono-Ramirez,dc4511f3,Real-Sociedad,316,3.5,0.0,0.0,38,1.0,268,Real-Sociedad
+,Rubén Pardo,es ESP,MF,6,3,1.0,0.0,2017-2018,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,221,2.5,0.0,1.0,38,1.0,289,Real-Sociedad
+,Carlos Vela,mx MEX,"FW,MF",13,2,0.0,1.0,2017-2018,/en/players/e0cd04e0/Carlos-Vela,0cd04e0,Real-Sociedad,382,4.2,0.0,0.0,38,20.0,285,Real-Sociedad
+,Imanol Agirretxe,es ESP,FW,11,2,0.0,0.0,2017-2018,/en/players/c84c1afc/Imanol-Agirretxe,c84c1afc,Real-Sociedad,232,2.6,0.0,0.0,38,1.0,227,Real-Sociedad
+,Jon Bautista,es ESP,"FW,MF",11,1,0.0,1.0,2017-2018,/en/players/debc6b55/Jon-Bautista,debc6b55,Real-Sociedad,181,2.0,0.0,0.0,38,1.0,312,Real-Sociedad
+,Andoni Gorosabel,es ESP,DF,2,1,0.0,0.0,2017-2018,/en/players/6f5f82c0/Andoni-Gorosabel,6f5f82c0,Real-Sociedad,76,0.8,0.0,0.0,38,1.0,322,Real-Sociedad
+,Jon Guridi,es ESP,MF,4,0,0.0,0.0,2017-2018,/en/players/4c0a6a48/Jon-Guridi,4c0a6a48,Real-Sociedad,54,0.6,0.0,0.0,38,1.0,318,Real-Sociedad
+,Carlos Martínez,es ESP,DF,1,0,0.0,0.0,2017-2018,/en/players/d9b0cc38/Carlos-Martinez,d9b0cc38,Real-Sociedad,3,0.0,0.0,0.0,38,1.0,254,Real-Sociedad
+,Ander Guevara,es ESP,MF,0,0,,,2017-2018,/en/players/8e48dc61/Ander-Guevara,8e48dc61,Real-Sociedad,,,,,38,1.0,323,Real-Sociedad
+,Andoni Zubiaurre,es ESP,GK,0,0,,,2017-2018,/en/players/cba84991/Andoni-Zubiaurre,cba84991,Real-Sociedad,,,,,38,1.0,324,Real-Sociedad
+,﻿Mikel Oyarzabal,es ESP,"MF,FW",37,36,2.0,13.0,2018-2019,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"3,153",35.0,2.0,0.0,38,1.0,308,Real-Sociedad
+,Igor Zubeldia,es ESP,MF,33,29,1.0,0.0,2018-2019,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,"2,549",28.3,7.0,0.0,38,1.0,313,Real-Sociedad
+,Willian José,br BRA,FW,31,28,5.0,11.0,2018-2019,/en/players/d87e2cae/Willian-Jose,d87e2cae,Real-Sociedad,"2,367",26.3,5.0,1.0,38,2.0,120,Real-Sociedad
+,Gerónimo Rulli,ar ARG,GK,27,27,0.0,0.0,2018-2019,/en/players/625c144a/Geronimo-Rulli,625c144a,Real-Sociedad,"2,430",27.0,3.0,0.0,38,5.0,297,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,26,25,2.0,1.0,2018-2019,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,"2,139",23.8,7.0,0.0,38,1.0,292,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,27,24,0.0,1.0,2018-2019,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,"2,254",25.0,5.0,0.0,38,1.0,305,Real-Sociedad
+,Mikel Merino,es ESP,MF,29,24,3.0,3.0,2018-2019,/en/players/d080ed5e/Mikel-Merino,d080ed5e,Real-Sociedad,"2,055",22.8,10.0,1.0,38,1.0,325,Real-Sociedad
+,Theo Hernández,fr FRA,DF,24,22,2.0,1.0,2018-2019,/en/players/d4c9725f/Theo-Hernandez,d4c9725f,Real-Sociedad,"1,976",22.0,5.0,1.0,38,4.0,146,Real-Sociedad
+,Héctor Moreno,mx MEX,DF,25,21,0.0,1.0,2018-2019,/en/players/5d311e8d/Hector-Moreno,5d311e8d,Real-Sociedad,"1,933",21.5,2.0,0.0,38,20.0,321,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,23,20,1.0,1.0,2018-2019,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,"1,821",20.2,8.0,0.0,38,1.0,119,Real-Sociedad
+,Diego Llorente,es ESP,DF,21,20,0.0,0.0,2018-2019,/en/players/bba30585/Diego-Llorente,bba30585,Real-Sociedad,"1,752",19.5,5.0,0.0,38,1.0,114,Real-Sociedad
+,Juanmi,es ESP,"FW,MF",30,16,2.0,5.0,2018-2019,/en/players/84399660/Juanmi,84399660,Real-Sociedad,"1,523",16.9,5.0,1.0,38,1.0,315,Real-Sociedad
+,Rubén Pardo,es ESP,"MF,FW",24,16,2.0,1.0,2018-2019,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,"1,368",15.2,3.0,0.0,38,1.0,289,Real-Sociedad
+,Raúl Navas,es ESP,DF,16,15,0.0,0.0,2018-2019,/en/players/ad178594/Raul-Navas,d178594,Real-Sociedad,"1,310",14.6,4.0,0.0,38,1.0,314,Real-Sociedad
+,Adnan Januzaj,be BEL,"MF,FW",20,13,3.0,1.0,2018-2019,/en/players/4737cebe/Adnan-Januzaj,4737cebe,Real-Sociedad,"1,254",13.9,1.0,0.0,38,27.0,319,Real-Sociedad
+,David Zurutuza,es ESP,MF,21,13,0.0,2.0,2018-2019,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,"1,222",13.6,2.0,0.0,38,1.0,272,Real-Sociedad
+,Luca Sangalli,es ESP,MF,18,12,3.0,1.0,2018-2019,/en/players/7958dc65/Luca-Sangalli,7958dc65,Real-Sociedad,999,11.1,0.0,0.0,38,1.0,326,Real-Sociedad
+,Miguel Ángel Moyá,es ESP,GK,11,11,0.0,0.0,2018-2019,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Real-Sociedad,990,11.0,1.0,0.0,38,1.0,320,Real-Sociedad
+,Aihen Muñoz,es ESP,DF,11,11,0.0,0.0,2018-2019,/en/players/228b0d9d/Aihen-Munoz,228b0d9d,Real-Sociedad,951,10.6,0.0,0.0,38,1.0,327,Real-Sociedad
+,Sandro Ramírez,es ESP,"MF,FW",24,10,0.0,0.0,2018-2019,/en/players/833fb62e/Sandro-Ramirez,833fb62e,Real-Sociedad,"1,055",11.7,4.0,0.0,38,1.0,328,Real-Sociedad
+,Andoni Gorosabel,es ESP,DF,7,6,0.0,0.0,2018-2019,/en/players/6f5f82c0/Andoni-Gorosabel,6f5f82c0,Real-Sociedad,455,5.1,0.0,0.0,38,1.0,322,Real-Sociedad
+,Kévin Rodrigues,pt POR,DF,7,5,0.0,0.0,2018-2019,/en/players/f1bed920/Kevin-Rodrigues,f1bed920,Real-Sociedad,484,5.4,1.0,0.0,38,3.0,317,Real-Sociedad
+,Ander Barrenetxea,es ESP,MF,9,5,0.0,1.0,2018-2019,/en/players/200e89e1/Ander-Barrenetxea,200e89e1,Real-Sociedad,399,4.4,0.0,0.0,38,1.0,329,Real-Sociedad
+,Jon Bautista,es ESP,FW,18,4,0.0,1.0,2018-2019,/en/players/debc6b55/Jon-Bautista,debc6b55,Real-Sociedad,597,6.6,1.0,0.0,38,1.0,312,Real-Sociedad
+,Robin Le Normand,fr FRA,DF,4,3,1.0,0.0,2018-2019,/en/players/9a64e67e/Robin-Le-Normand,9a64e67e,Real-Sociedad,284,3.2,1.0,0.0,38,4.0,330,Real-Sociedad
+,Ander Guevara,es ESP,MF,1,1,0.0,0.0,2018-2019,/en/players/8e48dc61/Ander-Guevara,8e48dc61,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,323,Real-Sociedad
+,Alex Sola,es ESP,DF,1,1,0.0,0.0,2018-2019,/en/players/5fa714d5/Alex-Sola,5fa714d5,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,331,Real-Sociedad
+,Roberto López,es ESP,MF,1,0,0.0,0.0,2018-2019,/en/players/2a8c9f98/Roberto-Lopez,2a8c9f98,Real-Sociedad,29,0.3,0.0,0.0,38,1.0,332,Real-Sociedad
+,Martín Zubimendi,es ESP,MF,1,0,0.0,0.0,2018-2019,/en/players/3ee0dd59/Martin-Zubimendi,3ee0dd59,Real-Sociedad,7,0.1,0.0,0.0,38,1.0,333,Real-Sociedad
+,Martín Merquelanz,es ESP,MF,1,0,0.0,0.0,2018-2019,/en/players/ddd5348b/Martin-Merquelanz,ddd5348b,Real-Sociedad,6,0.1,0.0,0.0,38,1.0,334,Real-Sociedad
+,Naïs Djouahra,fr FRA,MF,0,0,,,2018-2019,/en/players/3594a357/Nais-Djouahra,3594a357,Real-Sociedad,,,,,38,4.0,335,Real-Sociedad
+,Zourdine Mouhemed Thior,sn SEN,FW,0,0,,,2018-2019,/en/players/eac95b4e/Zourdine-Mouhemed-Thior,c95b4e,Real-Sociedad,,,,,38,34.0,336,Real-Sociedad
+,Andoni Zubiaurre,es ESP,GK,0,0,,,2018-2019,/en/players/cba84991/Andoni-Zubiaurre,cba84991,Real-Sociedad,,,,,38,1.0,324,Real-Sociedad
+,﻿Mikel Oyarzabal,es ESP,"MF,FW",37,36,11.0,10.0,2019-2020,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"3,051",33.9,4.0,0.0,38,1.0,308,Real-Sociedad
+,Mikel Merino,es ESP,MF,36,35,1.0,5.0,2019-2020,/en/players/d080ed5e/Mikel-Merino,d080ed5e,Real-Sociedad,"3,139",34.9,9.0,0.0,38,1.0,325,Real-Sociedad
+,Igor Zubeldia,es ESP,"MF,DF",33,29,1.0,0.0,2019-2020,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,"2,640",29.3,9.0,0.0,38,1.0,313,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,30,29,2.0,0.0,2019-2020,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,"2,545",28.3,8.0,1.0,38,1.0,292,Real-Sociedad
+,Martin Ødegaard,no NOR,MF,31,29,6.0,4.0,2019-2020,/en/players/79300479/Martin-Odegaard,79300479,Real-Sociedad,"2,527",28.1,3.0,0.0,38,21.0,125,Real-Sociedad
+,Nacho Monreal,es ESP,DF,29,27,0.0,2.0,2019-2020,/en/players/d4cb83cc/Nacho-Monreal,d4cb83cc,Real-Sociedad,"2,390",26.6,3.0,0.0,38,1.0,337,Real-Sociedad
+,Diego Llorente,es ESP,DF,29,27,1.0,1.0,2019-2020,/en/players/bba30585/Diego-Llorente,bba30585,Real-Sociedad,"2,327",25.9,7.0,1.0,38,1.0,114,Real-Sociedad
+,Robin Le Normand,fr FRA,DF,31,25,0.0,1.0,2019-2020,/en/players/9a64e67e/Robin-Le-Normand,9a64e67e,Real-Sociedad,"2,394",26.6,6.0,0.0,38,4.0,330,Real-Sociedad
+,Portu,es ESP,"MF,FW",35,25,7.0,7.0,2019-2020,/en/players/1bda5842/Portu,1bda5842,Real-Sociedad,"2,393",26.6,5.0,0.0,38,1.0,338,Real-Sociedad
+,Álex Remiro,es ESP,GK,25,25,0.0,0.0,2019-2020,/en/players/374ee424/Alex-Remiro,374ee424,Real-Sociedad,"2,250",25.0,0.0,0.0,38,1.0,339,Real-Sociedad
+,Willian José,br BRA,FW,37,24,1.0,11.0,2019-2020,/en/players/d87e2cae/Willian-Jose,d87e2cae,Real-Sociedad,"2,011",22.3,4.0,0.0,38,2.0,120,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,22,17,1.0,0.0,2019-2020,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,"1,510",16.8,4.0,0.0,38,1.0,305,Real-Sociedad
+,Alexander Isak,se SWE,FW,37,14,1.0,9.0,2019-2020,/en/players/8e92be30/Alexander-Isak,8e92be30,Real-Sociedad,"1,507",16.7,3.0,0.0,38,41.0,340,Real-Sociedad
+,Miguel Ángel Moyá,es ESP,GK,13,13,0.0,0.0,2019-2020,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Real-Sociedad,"1,170",13.0,0.0,0.0,38,1.0,320,Real-Sociedad
+,Adnan Januzaj,be BEL,"MF,FW",24,13,3.0,3.0,2019-2020,/en/players/4737cebe/Adnan-Januzaj,4737cebe,Real-Sociedad,"1,167",13.0,3.0,0.0,38,27.0,319,Real-Sociedad
+,Aihen Muñoz,es ESP,DF,15,11,0.0,0.0,2019-2020,/en/players/228b0d9d/Aihen-Munoz,228b0d9d,Real-Sociedad,981,10.9,1.0,0.0,38,1.0,327,Real-Sociedad
+,Ander Guevara,es ESP,MF,14,11,0.0,0.0,2019-2020,/en/players/8e48dc61/Ander-Guevara,8e48dc61,Real-Sociedad,939,10.4,4.0,0.0,38,1.0,323,Real-Sociedad
+,Andoni Gorosabel,es ESP,DF,14,8,0.0,0.0,2019-2020,/en/players/6f5f82c0/Andoni-Gorosabel,6f5f82c0,Real-Sociedad,714,7.9,2.0,0.0,38,1.0,322,Real-Sociedad
+,Martín Zubimendi,es ESP,MF,9,6,0.0,0.0,2019-2020,/en/players/3ee0dd59/Martin-Zubimendi,3ee0dd59,Real-Sociedad,524,5.8,3.0,0.0,38,1.0,333,Real-Sociedad
+,Luca Sangalli,es ESP,MF,11,5,1.0,0.0,2019-2020,/en/players/7958dc65/Luca-Sangalli,7958dc65,Real-Sociedad,372,4.1,0.0,0.0,38,1.0,326,Real-Sociedad
+,Ander Barrenetxea,es ESP,"MF,FW",17,3,0.0,1.0,2019-2020,/en/players/200e89e1/Ander-Barrenetxea,200e89e1,Real-Sociedad,442,4.9,1.0,0.0,38,1.0,329,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,3,3,0.0,0.0,2019-2020,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,216,2.4,0.0,0.0,38,1.0,119,Real-Sociedad
+,David Zurutuza,es ESP,MF,5,2,0.0,0.0,2019-2020,/en/players/d9bda115/David-Zurutuza,d9bda115,Real-Sociedad,157,1.7,0.0,0.0,38,1.0,272,Real-Sociedad
+,Jon Pacheco,es ESP,DF,1,1,0.0,0.0,2019-2020,/en/players/44150beb/Jon-Pacheco,44150beb,Real-Sociedad,77,0.9,0.0,0.0,38,1.0,341,Real-Sociedad
+,Roberto López,es ESP,MF,3,0,1.0,0.0,2019-2020,/en/players/2a8c9f98/Roberto-Lopez,2a8c9f98,Real-Sociedad,51,0.6,0.0,0.0,38,1.0,332,Real-Sociedad
+,Naïs Djouahra,fr FRA,MF,2,0,1.0,0.0,2019-2020,/en/players/3594a357/Nais-Djouahra,3594a357,Real-Sociedad,29,0.3,0.0,0.0,38,4.0,335,Real-Sociedad
+,Kévin Rodrigues,pt POR,DF,1,0,0.0,0.0,2019-2020,/en/players/f1bed920/Kevin-Rodrigues,f1bed920,Real-Sociedad,6,0.1,0.0,0.0,38,3.0,317,Real-Sociedad
+,Aritz Arambarri,es ESP,DF,0,0,,,2019-2020,/en/players/f28876e5/Aritz-Arambarri,f28876e5,Real-Sociedad,,,,,38,1.0,342,Real-Sociedad
+,Julen Lobete,es ESP,FW,0,0,,,2019-2020,/en/players/a952a529/Julen-Lobete,952a529,Real-Sociedad,,,,,38,1.0,343,Real-Sociedad
+,Rubén Pardo,es ESP,MF,0,0,,,2019-2020,/en/players/2306bfde/Ruben-Pardo,2306bfde,Real-Sociedad,,,,,38,1.0,289,Real-Sociedad
+,Modibo Sagnan,fr FRA,DF,0,0,,,2019-2020,/en/players/76d679c7/Modibo-Sagnan,76d679c7,Real-Sociedad,,,,,38,4.0,344,Real-Sociedad
+,Andoni Zubiaurre,es ESP,GK,0,0,,,2019-2020,/en/players/cba84991/Andoni-Zubiaurre,cba84991,Real-Sociedad,,,,,38,1.0,324,Real-Sociedad
+,﻿Álex Remiro,es ESP,GK,38,38,0.0,0.0,2020-2021,/en/players/374ee424/Alex-Remiro,374ee424,Real-Sociedad,"3,420",38.0,0.0,0.0,38,1.0,339,Real-Sociedad
+,Robin Le Normand,fr FRA,DF,33,30,1.0,0.0,2020-2021,/en/players/9a64e67e/Robin-Le-Normand,9a64e67e,Real-Sociedad,"2,747",30.5,5.0,1.0,38,4.0,330,Real-Sociedad
+,Mikel Oyarzabal,es ESP,"MF,FW",33,30,8.0,11.0,2020-2021,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"2,408",26.8,1.0,0.0,38,1.0,308,Real-Sociedad
+,Alexander Isak,se SWE,FW,34,30,2.0,17.0,2020-2021,/en/players/8e92be30/Alexander-Isak,8e92be30,Real-Sociedad,"2,340",26.0,4.0,0.0,38,41.0,340,Real-Sociedad
+,Andoni Gorosabel,es ESP,DF,32,28,1.0,0.0,2020-2021,/en/players/6f5f82c0/Andoni-Gorosabel,6f5f82c0,Real-Sociedad,"2,382",26.5,3.0,0.0,38,1.0,322,Real-Sociedad
+,Mikel Merino,es ESP,MF,26,25,4.0,2.0,2020-2021,/en/players/d080ed5e/Mikel-Merino,d080ed5e,Real-Sociedad,"2,154",23.9,5.0,0.0,38,1.0,325,Real-Sociedad
+,Ander Guevara,es ESP,MF,31,25,1.0,1.0,2020-2021,/en/players/8e48dc61/Ander-Guevara,8e48dc61,Real-Sociedad,"2,081",23.1,5.0,0.0,38,1.0,323,Real-Sociedad
+,Portu,es ESP,"MF,FW",37,24,3.0,8.0,2020-2021,/en/players/1bda5842/Portu,1bda5842,Real-Sociedad,"2,184",24.3,3.0,0.0,38,1.0,338,Real-Sociedad
+,Nacho Monreal,es ESP,DF,26,23,1.0,1.0,2020-2021,/en/players/d4cb83cc/Nacho-Monreal,d4cb83cc,Real-Sociedad,"2,082",23.1,1.0,0.0,38,1.0,337,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,23,22,0.0,1.0,2020-2021,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,"1,884",20.9,5.0,0.0,38,1.0,305,Real-Sociedad
+,Igor Zubeldia,es ESP,DF,24,21,1.0,1.0,2020-2021,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,"1,959",21.8,5.0,0.0,38,1.0,313,Real-Sociedad
+,Martín Zubimendi,es ESP,MF,31,17,0.0,0.0,2020-2021,/en/players/3ee0dd59/Martin-Zubimendi,3ee0dd59,Real-Sociedad,"1,882",20.9,6.0,0.0,38,1.0,333,Real-Sociedad
+,David Silva,es ESP,MF,21,17,5.0,2.0,2020-2021,/en/players/e2716bd0/David-Silva,2716bd0,Real-Sociedad,"1,399",15.5,4.0,0.0,38,1.0,345,Real-Sociedad
+,Aihen Muñoz,es ESP,DF,16,14,1.0,0.0,2020-2021,/en/players/228b0d9d/Aihen-Munoz,228b0d9d,Real-Sociedad,"1,210",13.4,6.0,0.0,38,1.0,327,Real-Sociedad
+,Ander Barrenetxea,es ESP,"MF,FW",31,13,0.0,3.0,2020-2021,/en/players/200e89e1/Ander-Barrenetxea,200e89e1,Real-Sociedad,"1,307",14.5,7.0,0.0,38,1.0,329,Real-Sociedad
+,Adnan Januzaj,be BEL,"MF,FW",27,12,5.0,4.0,2020-2021,/en/players/4737cebe/Adnan-Januzaj,4737cebe,Real-Sociedad,"1,014",11.3,2.0,0.0,38,27.0,319,Real-Sociedad
+,Jon Guridi,es ESP,MF,17,8,1.0,0.0,2020-2021,/en/players/4c0a6a48/Jon-Guridi,4c0a6a48,Real-Sociedad,831,9.2,2.0,0.0,38,1.0,318,Real-Sociedad
+,Willian José,br BRA,FW,13,8,1.0,3.0,2020-2021,/en/players/d87e2cae/Willian-Jose,d87e2cae,Real-Sociedad,689,7.7,0.0,0.0,38,2.0,120,Real-Sociedad
+,Modibo Sagnan,fr FRA,DF,16,7,0.0,0.0,2020-2021,/en/players/76d679c7/Modibo-Sagnan,76d679c7,Real-Sociedad,622,6.9,3.0,0.0,38,4.0,344,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,12,6,0.0,0.0,2020-2021,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,639,7.1,3.0,0.0,38,1.0,292,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,6,6,0.0,0.0,2020-2021,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,337,3.7,2.0,0.0,38,1.0,119,Real-Sociedad
+,Martín Merquelanz,es ESP,MF,13,4,1.0,0.0,2020-2021,/en/players/ddd5348b/Martin-Merquelanz,ddd5348b,Real-Sociedad,549,6.1,0.0,0.0,38,1.0,334,Real-Sociedad
+,Roberto López,es ESP,"MF,FW",17,4,0.0,3.0,2020-2021,/en/players/2a8c9f98/Roberto-Lopez,2a8c9f98,Real-Sociedad,505,5.6,0.0,0.0,38,1.0,332,Real-Sociedad
+,Carlos Fernández,es ESP,"FW,MF",11,4,2.0,1.0,2020-2021,/en/players/e08647d6/Carlos-Fernandez,08647d6,Real-Sociedad,390,4.3,5.0,0.0,38,1.0,346,Real-Sociedad
+,Diego Llorente,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/bba30585/Diego-Llorente,bba30585,Real-Sociedad,90,1.0,0.0,0.0,38,1.0,114,Real-Sociedad
+,Urko González,es ESP,MF,2,1,0.0,0.0,2020-2021,/en/players/c4f5eb61/Urko-Gonzalez,c4f5eb61,Real-Sociedad,47,0.5,1.0,0.0,38,1.0,347,Real-Sociedad
+,Jon Bautista,es ESP,"FW,MF",21,0,1.0,0.0,2020-2021,/en/players/debc6b55/Jon-Bautista,debc6b55,Real-Sociedad,370,4.1,3.0,0.0,38,1.0,312,Real-Sociedad
+,Roberto Navarro,es ESP,MF,1,0,0.0,0.0,2020-2021,/en/players/c997b942/Roberto-Navarro,c997b942,Real-Sociedad,35,0.4,0.0,0.0,38,1.0,348,Real-Sociedad
+,Jon Pacheco,es ESP,DF,1,0,0.0,0.0,2020-2021,/en/players/44150beb/Jon-Pacheco,44150beb,Real-Sociedad,32,0.4,0.0,0.0,38,1.0,341,Real-Sociedad
+,Aritz Arambarri,es ESP,DF,1,0,0.0,0.0,2020-2021,/en/players/f28876e5/Aritz-Arambarri,f28876e5,Real-Sociedad,26,0.3,0.0,0.0,38,1.0,342,Real-Sociedad
+,Miguel Ángel Moyá,es ESP,GK,0,0,,,2020-2021,/en/players/011d8c56/Miguel-Angel-Moya,011d8c56,Real-Sociedad,,,,,38,1.0,320,Real-Sociedad
+,Gaizka Ayesa,es ESP,GK,0,0,,,2020-2021,/en/players/e495b4d5/Gaizka-Ayesa,495b4d5,Real-Sociedad,,,,,38,1.0,349,Real-Sociedad
+,Jérémy Blasco,fr FRA,DF,0,0,,,2020-2021,/en/players/346feec5/Jeremy-Blasco,346feec5,Real-Sociedad,,,,,38,4.0,350,Real-Sociedad
+,Julen Lobete,es ESP,FW,0,0,,,2020-2021,/en/players/a952a529/Julen-Lobete,952a529,Real-Sociedad,,,,,38,1.0,343,Real-Sociedad
+,Unai Marrero,es ESP,GK,0,0,,,2020-2021,/en/players/f0fe87dc/Unai-Marrero,f0fe87dc,Real-Sociedad,,,,,38,1.0,351,Real-Sociedad
+,Olasagasti,es ESP,MF,0,0,,,2020-2021,/en/players/3d99999d/Olasagasti,3d99999d,Real-Sociedad,,,,,38,1.0,352,Real-Sociedad
+,Beñat Turrientes,es ESP,MF,0,0,,,2020-2021,/en/players/068f4dec/Benat-Turrientes,068f4dec,Real-Sociedad,,,,,38,1.0,357,Real-Sociedad
+,Andoni Zubiaurre,es ESP,GK,0,0,,,2020-2021,/en/players/cba84991/Andoni-Zubiaurre,cba84991,Real-Sociedad,,,,,38,1.0,324,Real-Sociedad
+,﻿Robin Le Normand,fr FRA,DF,37,37,1.0,1.0,2021-2022,/en/players/9a64e67e/Robin-Le-Normand,9a64e67e,Real-Sociedad,"3,330",37.0,6.0,0.0,38,4.0,330,Real-Sociedad
+,Álex Remiro,es ESP,GK,35,35,0.0,0.0,2021-2022,/en/players/374ee424/Alex-Remiro,374ee424,Real-Sociedad,"3,150",35.0,1.0,0.0,38,1.0,339,Real-Sociedad
+,Mikel Merino,es ESP,MF,34,33,2.0,3.0,2021-2022,/en/players/d080ed5e/Mikel-Merino,d080ed5e,Real-Sociedad,"2,890",32.1,8.0,0.0,38,1.0,325,Real-Sociedad
+,Martín Zubimendi,es ESP,MF,36,26,1.0,2.0,2021-2022,/en/players/3ee0dd59/Martin-Zubimendi,3ee0dd59,Real-Sociedad,"2,591",28.8,4.0,0.0,38,1.0,333,Real-Sociedad
+,Alexander Isak,se SWE,FW,32,26,2.0,6.0,2021-2022,/en/players/8e92be30/Alexander-Isak,8e92be30,Real-Sociedad,"2,140",23.8,6.0,0.0,38,41.0,340,Real-Sociedad
+,Andoni Gorosabel,es ESP,DF,32,25,4.0,0.0,2021-2022,/en/players/6f5f82c0/Andoni-Gorosabel,6f5f82c0,Real-Sociedad,"2,289",25.4,4.0,0.0,38,1.0,322,Real-Sociedad
+,Aritz Elustondo,es ESP,DF,30,22,1.0,4.0,2021-2022,/en/players/f7dc2ae5/Aritz-Elustondo,f7dc2ae5,Real-Sociedad,"2,105",23.4,3.0,1.0,38,1.0,305,Real-Sociedad
+,David Silva,es ESP,MF,25,22,4.0,2.0,2021-2022,/en/players/e2716bd0/David-Silva,2716bd0,Real-Sociedad,"1,720",19.1,4.0,1.0,38,1.0,345,Real-Sociedad
+,Alexander Sørloth,no NOR,FW,33,20,0.0,4.0,2021-2022,/en/players/e92cd3f7/Alexander-Sorloth,92cd3f7,Real-Sociedad,"1,763",19.6,2.0,0.0,38,21.0,353,Real-Sociedad
+,Mikel Oyarzabal,es ESP,"MF,FW",22,19,3.0,9.0,2021-2022,/en/players/8c3c640c/Mikel-Oyarzabal,8c3c640c,Real-Sociedad,"1,671",18.6,0.0,1.0,38,1.0,308,Real-Sociedad
+,Igor Zubeldia,es ESP,DF,26,19,1.0,0.0,2021-2022,/en/players/5c7845f6/Igor-Zubeldia,5c7845f6,Real-Sociedad,"1,648",18.3,7.0,0.0,38,1.0,313,Real-Sociedad
+,Diego Rico,es ESP,DF,21,19,0.0,0.0,2021-2022,/en/players/d9ba39fc/Diego-Rico,d9ba39fc,Real-Sociedad,"1,644",18.3,4.0,0.0,38,1.0,354,Real-Sociedad
+,Adnan Januzaj,be BEL,"MF,FW",33,17,0.0,3.0,2021-2022,/en/players/4737cebe/Adnan-Januzaj,4737cebe,Real-Sociedad,"1,625",18.1,5.0,0.0,38,27.0,319,Real-Sociedad
+,Portu,es ESP,"MF,FW",37,17,2.0,1.0,2021-2022,/en/players/1bda5842/Portu,1bda5842,Real-Sociedad,"1,590",17.7,5.0,0.0,38,1.0,338,Real-Sociedad
+,Aihen Muñoz,es ESP,DF,20,15,0.0,0.0,2021-2022,/en/players/228b0d9d/Aihen-Munoz,228b0d9d,Real-Sociedad,"1,342",14.9,4.0,1.0,38,1.0,327,Real-Sociedad
+,Joseba Zaldúa,es ESP,DF,24,14,0.0,0.0,2021-2022,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Real-Sociedad,"1,172",13.0,6.0,0.0,38,1.0,292,Real-Sociedad
+,Rafinha,br BRA,MF,17,13,0.0,1.0,2021-2022,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Real-Sociedad,"1,050",11.7,3.0,0.0,38,2.0,355,Real-Sociedad
+,Ander Guevara,es ESP,MF,17,11,0.0,0.0,2021-2022,/en/players/8e48dc61/Ander-Guevara,8e48dc61,Real-Sociedad,867,9.6,2.0,0.0,38,1.0,323,Real-Sociedad
+,Ander Barrenetxea,es ESP,"MF,FW",11,6,1.0,1.0,2021-2022,/en/players/200e89e1/Ander-Barrenetxea,200e89e1,Real-Sociedad,547,6.1,0.0,0.0,38,1.0,329,Real-Sociedad
+,Asier Illarramendi,es ESP,MF,8,6,0.0,0.0,2021-2022,/en/players/5ce0b5ba/Asier-Illarramendi,5ce0b5ba,Real-Sociedad,374,4.2,1.0,0.0,38,1.0,119,Real-Sociedad
+,Jon Pacheco,es ESP,DF,10,4,0.0,0.0,2021-2022,/en/players/44150beb/Jon-Pacheco,44150beb,Real-Sociedad,381,4.2,1.0,0.0,38,1.0,341,Real-Sociedad
+,Mathew Ryan,au AUS,GK,3,3,0.0,0.0,2021-2022,/en/players/4535e4bb/Mathew-Ryan,4535e4bb,Real-Sociedad,270,3.0,0.0,0.0,38,42.0,356,Real-Sociedad
+,Roberto Navarro,es ESP,"MF,FW",6,3,0.0,0.0,2021-2022,/en/players/c997b942/Roberto-Navarro,c997b942,Real-Sociedad,199,2.2,0.0,0.0,38,1.0,348,Real-Sociedad
+,Julen Lobete,es ESP,"FW,MF",13,2,0.0,2.0,2021-2022,/en/players/a952a529/Julen-Lobete,952a529,Real-Sociedad,284,3.2,0.0,0.0,38,1.0,343,Real-Sociedad
+,Naïs Djouahra,fr FRA,"MF,FW",7,1,0.0,0.0,2021-2022,/en/players/3594a357/Nais-Djouahra,3594a357,Real-Sociedad,219,2.4,0.0,0.0,38,4.0,335,Real-Sociedad
+,Beñat Turrientes,es ESP,MF,8,1,0.0,0.0,2021-2022,/en/players/068f4dec/Benat-Turrientes,068f4dec,Real-Sociedad,207,2.3,1.0,0.0,38,1.0,357,Real-Sociedad
+,Jon Guridi,es ESP,MF,8,1,0.0,1.0,2021-2022,/en/players/4c0a6a48/Jon-Guridi,4c0a6a48,Real-Sociedad,206,2.3,0.0,0.0,38,1.0,318,Real-Sociedad
+,Ander Martin,es ESP,MF,5,1,0.0,0.0,2021-2022,/en/players/e1e75690/Ander-Martin,1e75690,Real-Sociedad,88,1.0,0.0,0.0,38,1.0,358,Real-Sociedad
+,Germán Valera,es ESP,"FW,MF",3,0,0.0,0.0,2021-2022,/en/players/84f55b4a/German-Valera,84f55b4a,Real-Sociedad,51,0.6,0.0,0.0,38,1.0,359,Real-Sociedad
+,Jon Bautista,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/debc6b55/Jon-Bautista,debc6b55,Real-Sociedad,45,0.5,0.0,0.0,38,1.0,312,Real-Sociedad
+,Alex Sola,es ESP,"DF,MF",2,0,0.0,0.0,2021-2022,/en/players/5fa714d5/Alex-Sola,5fa714d5,Real-Sociedad,41,0.5,0.0,0.0,38,1.0,331,Real-Sociedad
+,Cristo,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/ad81ba78/Cristo,d81ba78,Real-Sociedad,17,0.2,0.0,0.0,38,1.0,360,Real-Sociedad
+,Gaizka Ayesa,es ESP,GK,0,0,,,2021-2022,/en/players/e495b4d5/Gaizka-Ayesa,495b4d5,Real-Sociedad,,,,,38,1.0,349,Real-Sociedad
+,Jonathan Gomez,mx MEX,DF,0,0,,,2021-2022,/en/players/9cdc85e5/Jonathan-Gomez,9cdc85e5,Real-Sociedad,,,,,38,20.0,361,Real-Sociedad
+,Urko González,es ESP,DF,0,0,,,2021-2022,/en/players/c4f5eb61/Urko-Gonzalez,c4f5eb61,Real-Sociedad,,,,,38,1.0,347,Real-Sociedad
+,Jon Karrikaburu,es ESP,FW,0,0,,,2021-2022,/en/players/211589b8/Jon-Karrikaburu,211589b8,Real-Sociedad,,,,,38,1.0,362,Real-Sociedad
+,Unai Marrero,es ESP,GK,0,0,,,2021-2022,/en/players/f0fe87dc/Unai-Marrero,f0fe87dc,Real-Sociedad,,,,,38,1.0,351,Real-Sociedad
+,Olasagasti,es ESP,MF,0,0,,,2021-2022,/en/players/3d99999d/Olasagasti,3d99999d,Real-Sociedad,,,,,38,1.0,352,Real-Sociedad

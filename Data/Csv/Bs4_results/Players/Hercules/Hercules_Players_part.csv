@@ -1,61 +1,192 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-4959.0,Carlos Castro,/en/players/b13befad/Carlos-Castro,Carlos-Castro,b13befad,es ESP,DF,Hercules
-4960.0,Urbano Santos,/en/players/64592758/Urbano-Santos,Urbano-Santo,64592758,es ESP,DF,Hercules
-4961.0,Joaquín Moso,/en/players/e7768cf0/Joaquin-Moso,Joaquin-Moso,7768cf0,es ESP,GK,Hercules
-4962.0,Vicente Verdejo,/en/players/a7c68dc5/Vicente-Verdejo,Vicente-Verdejo,7c68dc5,es ESP,DF,Hercules
-4963.0,Rolando Schiavi,/en/players/ca018848/Rolando-Schiavi,Rolando-Schiavi,ca018848,ar ARG,DF,Hercules
-4964.0,Jimmy Schmidt,/en/players/826527ce/Jimmy-Schmidt,Jimmy-Schmidt,826527ce,uy URU,GK,Hercules
-4965.0,Sendoa Agirre,/en/players/0437c448/Sendoa-Agirre,Sendoa-Agi,0437c448,es ESP,MF,Hercules
-4966.0,Líder Mármol,/en/players/384b5f71/Lider-Marmol,Lider-Marmo,384b5f71,py PAR,DF,Hercules
-4967.0,Kossi Agassa,/en/players/14a03f68/Kossi-Agassa,Kossi-Ag,14a03f68,tg TOG,GK,Hercules
-4968.0,Aarón Galindo,/en/players/9076667f/Aaron-Galindo,Aaron-Galindo,9076667f,mx MEX,DF,Hercules
-4969.0,﻿Unai Alba,/en/players/40e34fb7/Unai-Alba,Unai-Alb,40e34fb7,es ESP,GK,Hercules
-4970.0,Juan Carlos Mariño,/en/players/464ddce7/Juan-Carlos-Marino,Juan-Carlos-Marino,464ddce7,pe PER,MF,Hercules
-4971.0,Blas Pérez,/en/players/b9c81163/Blas-Perez,Blas-Perez,b9c81163,pa PAN,FW,Hercules
-4972.0,Kiran Bechan,/en/players/bae47830/Kiran-Bechan,Kiran-Bech,bae47830,nl NED,MF,Hercules
-4973.0,Raúl Ruiz Matarín,/en/players/1ca989fb/Raul-Ruiz-Matarin,Raul-Ruiz-Matari,1ca989fb,es ESP,"FW,MF",Hercules
-4974.0,Tiago Gomes,/en/players/bd7fd1b5/Tiago-Gomes,Tiago-Gom,bd7fd1b5,pt POR,MF,Hercules
-4975.0,Ionel Dănciulescu,/en/players/c677e6f4/Ionel-Danciulescu,Ionel-Danciulescu,c677e6f4,ro ROU,FW,Hercules
-4976.0,Noé Pamarot,/en/players/6036afc6/Noe-Pamarot,Noe-Pamarot,6036afc6,fr FRA,DF,Hercules
-4977.0,David Trezeguet,/en/players/80183cb2/David-Trezeguet,David-Trezeguet,80183cb2,fr FRA,FW,Hercules
-4978.0,Matías Fritzler,/en/players/e4100467/Matias-Fritzler,Matias-Fritz,4100467,ar ARG,MF,Hercules
-4979.0,Olivier Thomert,/en/players/acda6c9d/Olivier-Thomert,Olivier-Thomert,cda6c9d,mq MTQ,"FW,MF",Hercules
-4980.0,Cristian Pulhac,/en/players/b68a705d/Cristian-Pulhac,Cristian-Pulhac,b68a705d,ro ROU,DF,Hercules
-4981.0,Piet Velthuizen,/en/players/b7a7d76a/Piet-Velthuizen,Piet-Velthuiz,b7a7d76a,nl NED,GK,Hercules
-4982.0,Mohamed Sarr,/en/players/82bf93ae/Mohamed-Sarr,Mohamed-S,82bf93ae,sn SEN,"DF,MF",Hercules
-4983.0,Luis Carlos Martín,/en/players/8cee70e5/Luis-Carlos-Martin,Luis-Carlos-Marti,8cee70e5,es ESP,MF,Hercules
-4984.0,Gilvan Gomes,/en/players/6e71e066/Gilvan-Gomes,Gilvan-Gom,6e71e066,br BRA,MF,Hercules
-4985.0,Pepe Sellés,/en/players/8ef3fc7d/Pepe-Selles,Pepe-S,8ef3fc7d,es ESP,DF,Hercules
-4986.0,Sergio Díaz,/en/players/22afdb1b/Sergio-Diaz,Sergio-Diaz,22afdb1b,es ESP,DF,Hercules
-4987.0,Jefté Betancor,/en/players/f88c9890/Jefte-Betancor,Jefte-Betanco,f88c9890,es ESP,FW,Hercules
-4988.0,Pere Martínez,/en/players/305df379/Pere-Martinez,Pere-Martinez,305df379,es ESP,DF,Hercules
-4989.0,Javito,/en/players/e54fa552/Javito,Javito,54fa552,es ESP,"FW,MF",Hercules
-4990.0,Jordi César,/en/players/7490dc27/Jordi-Cesar,Jordi-C,7490dc27,es ESP,DF,Hercules
-4991.0,Álvaro Clausí,/en/players/e620ca59/Alvaro-Clausi,Alvaro-Clausi,620ca59,es ESP,MF,Hercules
-4992.0,Borja Martínez,/en/players/22b05c05/Borja-Martinez,Borja-Martinez,22b05c05,es ESP,MF,Hercules
-4993.0,Raúl,/en/players/9b82590f/Raul,Rau,9b82590f,es ESP,FW,Hercules
-4994.0,Aitor,/en/players/f43b20cc/Aitor,Aito,f43b20cc,es ESP,DF,Hercules
-4995.0,Alberto Carbonell,/en/players/ab528015/Alberto-Carbonell,Alberto-Carbo,b528015,es ESP,DF,Hercules
-4996.0,Matías Campos,/en/players/8ff6d25a/Matias-Campos,Matias-Campo,8ff6d25a,cl CHI,"DF,MF",Hercules
-4997.0,Juanma Acevedo,/en/players/7479883c/Juanma-Acevedo,Juanma-Acevedo,7479883c,es ESP,MF,Hercules
-4998.0,Lauren Egea,/en/players/0f006190/Lauren-Egea,Lauren-Eg,0f006190,es ESP,FW,Hercules
-4999.0,Álvaro Mas,/en/players/ddcba015/Alvaro-Mas,Alvaro-M,ddcba015,es ESP,MF,Hercules
-5000.0,Iván Buigues,/en/players/79d4ffb4/Ivan-Buigues,Ivan-Buigu,79d4ffb4,es ESP,GK,Hercules
-5001.0,Baldo Santana,/en/players/bfe1969b/Baldo-Santana,Baldo-Sant,bfe1969b,es ESP,DF,Hercules
-5002.0,Mikel Martins,/en/players/f45c4513/Mikel-Martins,Mikel-Marti,f45c4513,es ESP,MF,Hercules
-5003.0,Francisco Javier González Muñoz,/en/players/79e734b2/Francisco-Javier-Gonzalez-Munoz,Francisco-Javier-Gonzalez-Munoz,79e734b2,es ESP,DF,Hercules
-5004.0,Yeray González,/en/players/95fd065d/Yeray-Gonzalez,Yeray-Gonzalez,95fd065d,es ESP,MF,Hercules
-5005.0,Connor Ruane,/en/players/ec5457a7/Connor-Ruane,Connor-Ru,c5457a7,eng ENG,MF,Hercules
-5006.0,Álex Gallar,/en/players/36d5469c/Alex-Gallar,Alex-G,36d5469c,es ESP,"FW,MF",Hercules
-5007.0,Albert Dalmau,/en/players/a86b6281/Albert-Dalmau,Albert-Dalmau,86b6281,es ESP,DF,Hercules
-5008.0,Fernando Román,/en/players/0935364e/Fernando-Roman,Fernando-Rom,0935364e,es ESP,DF,Hercules
-5009.0,David Mainz,/en/players/d4498ac2/David-Mainz,David-Mainz,d4498ac2,es ESP,FW,Hercules
-5010.0,José Gaspar,/en/players/921af048/Jose-Gaspar,Jose-G,921af048,es ESP,MF,Hercules
-5011.0,Salinas,/en/players/0c824c97/Salinas,Sali,0c824c97,es ESP,FW,Hercules
-5012.0,Omgba,/en/players/dcd32bbc/Omgba,Omgb,dcd32bbc,cm CMR,MF,Hercules
-5013.0,Javi Flores,/en/players/867f9ede/Javi-Flores,Javi-Flo,867f9ede,es ESP,MF,Hercules
-5014.0,Pedro Inglés,/en/players/2232dc1c/Pedro-Ingles,Pedro-Ing,2232dc1c,es ESP,MF,Hercules
-5015.0,Edu Lledó,/en/players/5b3ff6b7/Edu-Lledo,Edu-Lledo,5b3ff6b7,es ESP,GK,Hercules
-5016.0,﻿Carlos Fernández,/en/players/8c2a65d4/Carlos-Fernandez,Carlos-Fernandez,8c2a65d4,es ESP,FW,Hercules
-5017.0,Checa,/en/players/036727d5/Checa,Chec,036727d5,es ESP,MF,Hercules
-5018.0,Pedrag Muñoz,/en/players/33f21566/Pedrag-Munoz,Pedrag-Munoz,33f21566,es ESP,FW,Hercules
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+7988.0,﻿Sergio Díaz,/en/players/f8183181/Sergio-Diaz,Sergio-Diaz,f8183181,es ESP,DF,Hercules
+7989.0,Kike Mateo,/en/players/99508f00/Kike-Mateo,Kike-Mateo,99508f00,es ESP,MF,Hercules
+7990.0,Álvaro Cámara,/en/players/d1c514a8/Alvaro-Camara,Alvaro-Cam,d1c514a8,es ESP,MF,Hercules
+7991.0,Moisés,/en/players/e3415193/Moises,Moi,3415193,es ESP,FW,Hercules
+7992.0,Carlos Castro,/en/players/b13befad/Carlos-Castro,Carlos-Castro,b13befad,es ESP,DF,Hercules
+7993.0,Sisi,/en/players/add7ec92/Sisi,Sisi,dd7ec92,es ESP,"FW,MF",Hercules
+7994.0,Urbano Santos,/en/players/64592758/Urbano-Santos,Urbano-Santo,64592758,es ESP,DF,Hercules
+7995.0,Sergio Mora,/en/players/f0a31c00/Sergio-Mora,Sergio-Mo,f0a31c00,es ESP,MF,Hercules
+7996.0,Dani Borreguero,/en/players/c7fafcc6/Dani-Borreguero,Dani-Borreguero,c7fafcc6,es ESP,MF,Hercules
+7997.0,Joaquín Moso,/en/players/e7768cf0/Joaquin-Moso,Joaquin-Moso,7768cf0,es ESP,GK,Hercules
+7998.0,Vicente Verdejo,/en/players/a7c68dc5/Vicente-Verdejo,Vicente-Verdejo,7c68dc5,es ESP,DF,Hercules
+7999.0,Rolando Schiavi,/en/players/ca018848/Rolando-Schiavi,Rolando-Schiavi,ca018848,ar ARG,DF,Hercules
+8000.0,Jesús Turiel,/en/players/7c737496/Jesus-Turiel,Jesus-Turi,7c737496,es ESP,MF,Hercules
+8001.0,Sergio Sánchez,/en/players/2a0f94ac/Sergio-Sanchez,Sergio-Sanchez,2a0f94ac,es ESP,GK,Hercules
+8002.0,Miguel de las Cuevas,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,Miguel-de-las-Cuev,2e1cf3d2,es ESP,MF,Hercules
+8003.0,Juan Redondo,/en/players/c2bed898/Juan-Redondo,Juan-Redondo,c2bed898,es ESP,DF,Hercules
+8004.0,Manolo Pérez,/en/players/4ac8dad5/Manolo-Perez,Manolo-Perez,4ac8dad5,es ESP,MF,Hercules
+8005.0,Carlos Domínguez,/en/players/c008c1c3/Carlos-Dominguez,Carlos-Dominguez,c008c1c3,es ESP,FW,Hercules
+8006.0,Kiko Ratón,/en/players/1b4d461e/Kiko-Raton,Kiko-Rato,1b4d461e,es ESP,FW,Hercules
+8007.0,Toché,/en/players/64e35e11/Toche,Toch,64e35e11,es ESP,FW,Hercules
+8008.0,Jimmy Schmidt,/en/players/826527ce/Jimmy-Schmidt,Jimmy-Schmidt,826527ce,uy URU,GK,Hercules
+8009.0,Patri,/en/players/5281c162/Patri,Patri,5281c162,es ESP,MF,Hercules
+8010.0,Dani Tortolero,/en/players/42481fd5/Dani-Tortolero,Dani-Tortolero,42481fd5,es ESP,DF,Hercules
+8011.0,﻿Sergio Fernández,/en/players/db150f07/Sergio-Fernandez,Sergio-Fernandez,db150f07,es ESP,DF,Hercules
+8012.0,Javier Farinós,/en/players/d9b0f08e/Javier-Farinos,Javier-Farino,d9b0f08e,es ESP,MF,Hercules
+8013.0,Tote,/en/players/e3e74421/Tote,Tot,3e74421,es ESP,"FW,MF",Hercules
+8014.0,Edu Albácar,/en/players/fc8a84b8/Edu-Albacar,Edu-Albac,fc8a84b8,es ESP,DF,Hercules
+8015.0,Gonzalo de los Santos,/en/players/1855302a/Gonzalo-de-los-Santos,Gonzalo-de-los-Santo,1855302a,uy URU,MF,Hercules
+8016.0,Carmelo González,/en/players/27f4e837/Carmelo-Gonzalez,Carmelo-Gonzalez,27f4e837,es ESP,MF,Hercules
+8017.0,Ariel Montenegro,/en/players/d5835cca/Ariel-Montenegro,Ariel-Montenegro,d5835cca,ar ARG,MF,Hercules
+8018.0,Sergio Mantecón,/en/players/71eaddb6/Sergio-Mantecon,Sergio-Manteco,71eaddb6,es ESP,MF,Hercules
+8019.0,Patricio Graff,/en/players/b4a2cf8b/Patricio-Graff,Patricio-Graff,b4a2cf8b,ar ARG,DF,Hercules
+8020.0,Diego Mateo,/en/players/6ff0efaa/Diego-Mateo,Diego-Mateo,6ff0efaa,ar ARG,"DF,MF",Hercules
+8021.0,Sendoa Agirre,/en/players/0437c448/Sendoa-Agirre,Sendoa-Agi,0437c448,es ESP,MF,Hercules
+8022.0,Juanlu,/en/players/431ac3e7/Juanlu,Juanlu,431ac3e7,es ESP,"FW,MF",Hercules
+8023.0,Pablo Calandria,/en/players/9c010ae8/Pablo-Calandria,Pablo-Calandri,9c010ae8,ar ARG,FW,Hercules
+8024.0,Líder Mármol,/en/players/384b5f71/Lider-Marmol,Lider-Marmo,384b5f71,py PAR,DF,Hercules
+8025.0,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,Ismael-Falco,5d2574f2,es ESP,GK,Hercules
+8026.0,Kossi Agassa,/en/players/14a03f68/Kossi-Agassa,Kossi-Ag,14a03f68,tg TOG,GK,Hercules
+8027.0,Aarón Galindo,/en/players/9076667f/Aaron-Galindo,Aaron-Galindo,9076667f,mx MEX,DF,Hercules
+8028.0,Ignacio Benítez,/en/players/cfb8b7fc/Ignacio-Benitez,Ignacio-Benitez,cfb8b7fc,es ESP,MF,Hercules
+8029.0,Piti,/en/players/ab530738/Piti,Piti,b530738,es ESP,"FW,MF",Hercules
+8030.0,﻿Unai Alba,/en/players/40e34fb7/Unai-Alba,Unai-Alb,40e34fb7,es ESP,GK,Hercules
+8031.0,Diego Jaume,/en/players/9663d985/Diego-Jaume,Diego-Jaum,9663d985,uy URU,DF,Hercules
+8032.0,Juanma,/en/players/f3b5db81/Juanma,Juanm,f3b5db81,es ESP,DF,Hercules
+8033.0,Rodri,/en/players/b8462bd6/Rodri,Rodri,b8462bd6,es ESP,MF,Hercules
+8034.0,Ismael Santiago,/en/players/59c55e77/Ismael-Santiago,Ismael-Santiago,59c55e77,es ESP,MF,Hercules
+8035.0,César Martín,/en/players/f29d6eb0/Cesar-Martin,Cesar-Marti,f29d6eb0,es ESP,DF,Hercules
+8036.0,Juan Carlos Mariño,/en/players/464ddce7/Juan-Carlos-Marino,Juan-Carlos-Marino,464ddce7,pe PER,MF,Hercules
+8037.0,Ion Vélez,/en/players/3a6c16de/Ion-Velez,Ion-Velez,3a6c16de,es ESP,FW,Hercules
+8038.0,Blas Pérez,/en/players/b9c81163/Blas-Perez,Blas-Perez,b9c81163,pa PAN,FW,Hercules
+8039.0,Rubén Navarro,/en/players/59cc2821/Ruben-Navarro,Ruben-Navarro,59cc2821,es ESP,FW,Hercules
+8040.0,Miguel Llera,/en/players/b58a6d72/Miguel-Llera,Miguel-L,b58a6d72,es ESP,DF,Hercules
+8041.0,Toni Prats,/en/players/b40adcd0/Toni-Prats,Toni-Prat,b40adcd0,es ESP,GK,Hercules
+8042.0,Kiran Bechan,/en/players/bae47830/Kiran-Bechan,Kiran-Bech,bae47830,nl NED,MF,Hercules
+8043.0,Javi González,/en/players/b1e9277c/Javi-Gonzalez,Javi-Gonzalez,b1e9277c,es ESP,MF,Hercules
+8044.0,Manu Sánchez,/en/players/248b0b19/Manu-Sanchez,Manu-Sanchez,248b0b19,es ESP,"FW,MF",Hercules
+8045.0,Ricardo Sanzol,/en/players/1aa419de/Ricardo-Sanzol,Ricardo-Sanzo,1aa419de,es ESP,GK,Hercules
+8046.0,﻿Juan Calatayud,/en/players/f1714283/Juan-Calatayud,Juan-Calatayud,f1714283,es ESP,GK,Hercules
+8047.0,Dani Bautista,/en/players/135b0a5e/Dani-Bautista,Dani-Bautist,135b0a5e,es ESP,DF,Hercules
+8048.0,Tuni,/en/players/e77175c5/Tuni,Tuni,77175c5,es ESP,"DF,MF",Hercules
+8049.0,Abel Aguilar,/en/players/6936b41b/Abel-Aguilar,Abel-Agui,6936b41b,co COL,MF,Hercules
+8050.0,Abraham Paz,/en/players/15ec0042/Abraham-Paz,Abraham-Paz,15ec0042,es ESP,DF,Hercules
+8051.0,Andrija Delibašić,/en/players/4de03033/Andrija-Delibasic,Andrija-Delibasic,4de03033,me MNE,FW,Hercules
+8052.0,Unai Expósito,/en/players/3aca2200/Unai-Exposito,Unai-Exposito,3aca2200,es ESP,DF,Hercules
+8053.0,Manuel Ruz,/en/players/0bd93f6a/Manuel-Ruz,Manuel-Ruz,0bd93f6a,es ESP,DF,Hercules
+8054.0,Fernando Sales,/en/players/24486536/Fernando-Sales,Fernando-S,24486536,es ESP,MF,Hercules
+8055.0,Dani Carril,/en/players/718167d2/Dani-Carril,Dani-Carri,718167d2,es ESP,DF,Hercules
+8056.0,Fernando Morán,/en/players/0fce6e4c/Fernando-Moran,Fernando-Mo,0fce6e4c,es ESP,MF,Hercules
+8057.0,Raúl Ruiz Matarín,/en/players/1ca989fb/Raul-Ruiz-Matarin,Raul-Ruiz-Matari,1ca989fb,es ESP,"FW,MF",Hercules
+8058.0,Sebastián Taborda,/en/players/c26f57a6/Sebastian-Taborda,Sebastian-Tabord,c26f57a6,uy URU,FW,Hercules
+8059.0,Gerardo Noriega,/en/players/48ff4cab/Gerardo-Noriega,Gerardo-Norieg,48ff4cab,es ESP,MF,Hercules
+8060.0,Kiko Femenía,/en/players/e5d01ecf/Kiko-Femenia,Kiko-Femeni,5d01ecf,es ESP,"DF,FW",Hercules
+8061.0,Sergio Rodríguez,/en/players/44e3ae1a/Sergio-Rodriguez,Sergio-Rodriguez,44e3ae1a,es ESP,MF,Hercules
+8062.0,Tiago Gomes,/en/players/bd7fd1b5/Tiago-Gomes,Tiago-Gom,bd7fd1b5,pt POR,MF,Hercules
+8063.0,Paco Peña,/en/players/e3b01965/Paco-Pena,Paco-P,3b01965,es ESP,DF,Hercules
+8064.0,Francisco Rufete,/en/players/95aca6cd/Francisco-Rufete,Francisco-Rufet,95aca6cd,es ESP,MF,Hercules
+8065.0,Ionel Dănciulescu,/en/players/c677e6f4/Ionel-Danciulescu,Ionel-Danciulescu,c677e6f4,ro ROU,FW,Hercules
+8066.0,Jorge Alonso,/en/players/2c619fad/Jorge-Alonso,Jorge-Alonso,2c619fad,es ESP,MF,Hercules
+8067.0,Javier Portillo,/en/players/99058498/Javier-Portillo,Javier-Portillo,99058498,es ESP,FW,Hercules
+8068.0,Joseba del Olmo,/en/players/41abf0c3/Joseba-del-Olmo,Joseba-del-Olmo,41abf0c3,es ESP,MF,Hercules
+8069.0,Cristian Hidalgo,/en/players/262b9f04/Cristian-Hidalgo,Cristian-Hidalgo,262b9f04,es ESP,"FW,MF",Hercules
+8070.0,Noé Pamarot,/en/players/6036afc6/Noe-Pamarot,Noe-Pamarot,6036afc6,fr FRA,DF,Hercules
+8071.0,Edu Moya,/en/players/7da62f29/Edu-Moya,Edu-Mo,7da62f29,es ESP,"DF,MF",Hercules
+8072.0,David Cortés,/en/players/99d15abd/David-Cortes,David-Cort,99d15abd,es ESP,DF,Hercules
+8073.0,David Trezeguet,/en/players/80183cb2/David-Trezeguet,David-Trezeguet,80183cb2,fr FRA,FW,Hercules
+8074.0,Nelson Valdez,/en/players/040d8500/Nelson-Valdez,Nelson-Valdez,040d8500,py PAR,FW,Hercules
+8075.0,Matías Fritzler,/en/players/e4100467/Matias-Fritzler,Matias-Fritz,4100467,ar ARG,MF,Hercules
+8076.0,Juanra,/en/players/616d9a30/Juanra,Ju,616d9a30,es ESP,DF,Hercules
+8077.0,Olivier Thomert,/en/players/acda6c9d/Olivier-Thomert,Olivier-Thomert,cda6c9d,mq MTQ,"FW,MF",Hercules
+8078.0,Rodri,/en/players/7fa4aa89/Rodri,Rodri,7fa4aa89,es ESP,DF,Hercules
+8079.0,Cristian Pulhac,/en/players/b68a705d/Cristian-Pulhac,Cristian-Pulhac,b68a705d,ro ROU,DF,Hercules
+8080.0,Piet Velthuizen,/en/players/b7a7d76a/Piet-Velthuizen,Piet-Velthuiz,b7a7d76a,nl NED,GK,Hercules
+8081.0,Mohamed Sarr,/en/players/82bf93ae/Mohamed-Sarr,Mohamed-S,82bf93ae,sn SEN,"DF,MF",Hercules
+8082.0,Luis Carlos Martín,/en/players/8cee70e5/Luis-Carlos-Martin,Luis-Carlos-Marti,8cee70e5,es ESP,MF,Hercules
+8083.0,Samuel Llorca,/en/players/9c3d54f0/Samuel-Llorca,Samuel-Llorc,9c3d54f0,es ESP,DF,Hercules
+8084.0,José Mora,/en/players/0eff5cf7/Jose-Mora,Jose-Mo,0eff5cf7,ec ECU,FW,Hercules
+8085.0,Míchel,/en/players/418f8f61/Michel,Mich,418f8f61,es ESP,MF,Hercules
+8086.0,Carlos Calvo,/en/players/a444d33f/Carlos-Calvo,Carlos-Calvo,444d33f,es ESP,MF,Hercules
+8087.0,Diego Rivas,/en/players/eecf46bc/Diego-Rivas,Diego-Riv,cf46bc,es ESP,MF,Hercules
+8088.0,Anaitz Arbilla,/en/players/850c0a0d/Anaitz-Arbilla,Anaitz-Arbi,850c0a0d,es ESP,DF,Hercules
+8089.0,Urko Vera,/en/players/d8cf0115/Urko-Vera,Urko-V,d8cf0115,es ESP,FW,Hercules
+8090.0,Gilvan Gomes,/en/players/6e71e066/Gilvan-Gomes,Gilvan-Gom,6e71e066,br BRA,MF,Hercules
+8091.0,Adrián Sardinero,/en/players/51e9bb3f/Adrian-Sardinero,Adrian-Sardinero,51e9bb3f,es ESP,"FW,MF",Hercules
+8092.0,Felipe Sanchón,/en/players/f62ff94e/Felipe-Sanchon,Felipe-Sancho,f62ff94e,es ESP,MF,Hercules
+8093.0,Juanmi Callejón,/en/players/60bb7e62/Juanmi-Callejon,Juanmi-Callejo,60bb7e62,es ESP,MF,Hercules
+8094.0,Alberto Escassi,/en/players/154fe273/Alberto-Escassi,Alberto-Escassi,154fe273,es ESP,"DF,MF",Hercules
+8095.0,Juan Carlos,/en/players/688b96e3/Juan-Carlos,Juan-Carlo,688b96e3,es ESP,GK,Hercules
+8096.0,Pepe Sellés,/en/players/8ef3fc7d/Pepe-Selles,Pepe-S,8ef3fc7d,es ESP,DF,Hercules
+8097.0,Sergio Díaz,/en/players/22afdb1b/Sergio-Diaz,Sergio-Diaz,22afdb1b,es ESP,DF,Hercules
+8098.0,Jefté Betancor,/en/players/f88c9890/Jefte-Betancor,Jefte-Betanco,f88c9890,es ESP,FW,Hercules
+8099.0,﻿Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,Leandro-Cab,69cbc8b6,uy URU,DF,Hercules
+8100.0,Edu Bedia,/en/players/2dc8077c/Edu-Bedia,Edu-Bedi,2dc8077c,es ESP,MF,Hercules
+8101.0,Mario Paglialunga,/en/players/eda5ea84/Mario-Paglialunga,Mario-Paglialung,da5ea84,ar ARG,MF,Hercules
+8102.0,Pablo Redondo,/en/players/da98fdb0/Pablo-Redondo,Pablo-Redondo,da98fdb0,es ESP,MF,Hercules
+8103.0,Fran Mérida,/en/players/0e50f929/Fran-Merida,Fran-Merid,0e50f929,es ESP,MF,Hercules
+8104.0,Mario Rosas,/en/players/81718397/Mario-Rosas,Mario-Ro,81718397,es ESP,MF,Hercules
+8105.0,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,Braulio-Nobreg,6e02869d,es ESP,FW,Hercules
+8106.0,Pere Martínez,/en/players/305df379/Pere-Martinez,Pere-Martinez,305df379,es ESP,DF,Hercules
+8107.0,Javito,/en/players/e54fa552/Javito,Javito,54fa552,es ESP,"FW,MF",Hercules
+8108.0,Nacho González,/en/players/53031e02/Nacho-Gonzalez,Nacho-Gonzalez,53031e02,uy URU,MF,Hercules
+8109.0,Toti,/en/players/03a03057/Toti,Toti,03a03057,es ESP,"FW,MF",Hercules
+8110.0,Jeffrey Sarpong,/en/players/cabfd01c/Jeffrey-Sarpong,Jeffrey-Sarpong,cabfd01c,nl NED,MF,Hercules
+8111.0,Eldin Hadžić,/en/players/2e2d7785/Eldin-Hadzic,Eldin-Hadzic,2e2d7785,ba BIH,"FW,MF",Hercules
+8112.0,Jordi César,/en/players/7490dc27/Jordi-Cesar,Jordi-C,7490dc27,es ESP,DF,Hercules
+8113.0,Álvaro Clausí,/en/players/e620ca59/Alvaro-Clausi,Alvaro-Clausi,620ca59,es ESP,MF,Hercules
+8114.0,Borja Martínez,/en/players/22b05c05/Borja-Martinez,Borja-Martinez,22b05c05,es ESP,MF,Hercules
+8115.0,Raúl,/en/players/9b82590f/Raul,Rau,9b82590f,es ESP,FW,Hercules
+8116.0,Álex Muñoz,/en/players/853f211e/Alex-Munoz,Alex-Munoz,853f211e,es ESP,DF,Hercules
+8117.0,﻿Héctor Yuste,/en/players/f50a668a/Hector-Yuste,Hector-Yust,f50a668a,es ESP,"DF,MF",Hercules
+8118.0,Abdoul Sissoko,/en/players/f7288611/Abdoul-Sissoko,Abdoul-Sissoko,f7288611,fr FRA,MF,Hercules
+8119.0,David Ferreiro,/en/players/8970907e/David-Ferreiro,David-Ferreiro,8970907e,es ESP,"FW,MF",Hercules
+8120.0,Gai Assulin,/en/players/ba776102/Gai-Assulin,Gai-Assuli,ba776102,il ISR,MF,Hercules
+8121.0,Ion Echaide,/en/players/2ad367bb/Ion-Echaide,Ion-Echaid,2ad367bb,es ESP,DF,Hercules
+8122.0,Aitor,/en/players/f43b20cc/Aitor,Aito,f43b20cc,es ESP,DF,Hercules
+8123.0,Enrique de Lucas,/en/players/ae61cc61/Enrique-de-Lucas,Enrique-de-Luc,61cc61,es ESP,"FW,MF",Hercules
+8124.0,Javier Hervás,/en/players/04b8d5c8/Javier-Hervas,Javier-Herv,04b8d5c8,es ESP,MF,Hercules
+8125.0,Gorka Azkorra,/en/players/b6ba90f9/Gorka-Azkorra,Gorka-Azko,b6ba90f9,es ESP,FW,Hercules
+8126.0,Oinatz Aulestia,/en/players/be681aab/Oinatz-Aulestia,Oinatz-Aulesti,be681aab,es ESP,GK,Hercules
+8127.0,Borja Gómez Pérez,/en/players/95abfdfd/Borja-Gomez-Perez,Borja-Gomez-Perez,95abfdfd,es ESP,DF,Hercules
+8128.0,Héctor Font,/en/players/9982593d/Hector-Font,Hector-Font,9982593d,es ESP,MF,Hercules
+8129.0,Alberto Carbonell,/en/players/ab528015/Alberto-Carbonell,Alberto-Carbo,b528015,es ESP,DF,Hercules
+8130.0,Dioni,/en/players/aac8c5ac/Dioni,Dioni,c8c5ac,es ESP,FW,Hercules
+8131.0,Matías Campos,/en/players/8ff6d25a/Matias-Campos,Matias-Campo,8ff6d25a,cl CHI,"DF,MF",Hercules
+8132.0,Darwin Machís,/en/players/ed6ea4d9/Darwin-Machis,Darwin-Machi,d6ea4d9,ve VEN,"FW,MF",Hercules
+8133.0,Juanma Acevedo,/en/players/7479883c/Juanma-Acevedo,Juanma-Acevedo,7479883c,es ESP,MF,Hercules
+8134.0,Lauren Egea,/en/players/0f006190/Lauren-Egea,Lauren-Eg,0f006190,es ESP,FW,Hercules
+8135.0,Álvaro Mas,/en/players/ddcba015/Alvaro-Mas,Alvaro-M,ddcba015,es ESP,MF,Hercules
+8136.0,Iván Buigues,/en/players/79d4ffb4/Ivan-Buigues,Ivan-Buigu,79d4ffb4,es ESP,GK,Hercules
+8137.0,Baldo Santana,/en/players/bfe1969b/Baldo-Santana,Baldo-Sant,bfe1969b,es ESP,DF,Hercules
+8138.0,Carlos Lázaro,/en/players/785894a8/Carlos-Lazaro,Carlos-Lazaro,785894a8,es ESP,MF,Hercules
+8139.0,Mikel Martins,/en/players/f45c4513/Mikel-Martins,Mikel-Marti,f45c4513,es ESP,MF,Hercules
+8140.0,Aitor Núñez,/en/players/511e3986/Aitor-Nunez,Aitor-Nunez,511e3986,es ESP,DF,Hercules
+8141.0,José Pardo,/en/players/f9560607/Jose-Pardo,Jose-Pardo,f9560607,es ESP,DF,Hercules
+8142.0,Chechu,/en/players/3333762c/Chechu,Chechu,3333762c,es ESP,MF,Hercules
+8143.0,Adri Cuevas,/en/players/b4267df9/Adri-Cuevas,Adri-Cuev,b4267df9,es ESP,MF,Hercules
+8144.0,José Luis Miñano,/en/players/1bc88b0c/Jose-Luis-Minano,Jose-Luis-Minano,1bc88b0c,es ESP,MF,Hercules
+8145.0,Fernando Rodríguez,/en/players/31a98017/Fernando-Rodriguez,Fernando-Rodriguez,31a98017,es ESP,FW,Hercules
+8146.0,Adrià Granell,/en/players/33257930/Adria-Granell,Adria-G,33257930,es ESP,MF,Hercules
+8147.0,Chema,/en/players/4b628c9b/Chema,Chem,4b628c9b,es ESP,GK,Hercules
+8148.0,Francisco Javier González Muñoz,/en/players/79e734b2/Francisco-Javier-Gonzalez-Munoz,Francisco-Javier-Gonzalez-Munoz,79e734b2,es ESP,DF,Hercules
+8149.0,Miguel Ángel Nieto,/en/players/3a935b70/Miguel-Angel-Nieto,Miguel-Angel-Nieto,3a935b70,es ESP,MF,Hercules
+8150.0,Pichu Atienza,/en/players/aaeacaca/Pichu-Atienza,Pichu-Atienz,caca,es ESP,DF,Hercules
+8151.0,Manuel Gato,/en/players/eb137ee5/Manuel-Gato,Manuel-Gato,b137ee5,es ESP,FW,Hercules
+8152.0,Rafita,/en/players/631f177b/Rafita,Rafit,631f177b,es ESP,DF,Hercules
+8153.0,Yeray González,/en/players/95fd065d/Yeray-Gonzalez,Yeray-Gonzalez,95fd065d,es ESP,MF,Hercules
+8154.0,José Rojas,/en/players/5854c775/Jose-Rojas,Jose-Roj,5854c775,es ESP,DF,Hercules
+8155.0,Connor Ruane,/en/players/ec5457a7/Connor-Ruane,Connor-Ru,c5457a7,eng ENG,MF,Hercules
+8156.0,Carlos Indiano,/en/players/521c811e/Carlos-Indiano,Carlos-Indiano,521c811e,es ESP,MF,Hercules
+8157.0,Álex Gallar,/en/players/36d5469c/Alex-Gallar,Alex-G,36d5469c,es ESP,"FW,MF",Hercules
+8158.0,Albert Dalmau,/en/players/a86b6281/Albert-Dalmau,Albert-Dalmau,86b6281,es ESP,DF,Hercules
+8159.0,Fernando Román,/en/players/0935364e/Fernando-Roman,Fernando-Rom,0935364e,es ESP,DF,Hercules
+8160.0,David Mainz,/en/players/d4498ac2/David-Mainz,David-Mainz,d4498ac2,es ESP,FW,Hercules
+8161.0,José Gaspar,/en/players/921af048/Jose-Gaspar,Jose-G,921af048,es ESP,MF,Hercules
+8162.0,Pol Bueso,/en/players/7fd2c75e/Pol-Bueso,Pol-Bueso,7fd2c75e,es ESP,DF,Hercules
+8163.0,Juanma,/en/players/2700600a/Juanma,Juanm,2700600a,es ESP,MF,Hercules
+8164.0,Salinas,/en/players/0c824c97/Salinas,Sali,0c824c97,es ESP,FW,Hercules
+8165.0,Omgba,/en/players/dcd32bbc/Omgba,Omgb,dcd32bbc,cm CMR,MF,Hercules
+8166.0,Javi Flores,/en/players/867f9ede/Javi-Flores,Javi-Flo,867f9ede,es ESP,MF,Hercules
+8167.0,Pedro Inglés,/en/players/2232dc1c/Pedro-Ingles,Pedro-Ing,2232dc1c,es ESP,MF,Hercules
+8168.0,Jesús Berrocal,/en/players/13fba9d3/Jesus-Berrocal,Jesus-Berroc,13fba9d3,es ESP,FW,Hercules
+8169.0,Edu Lledó,/en/players/5b3ff6b7/Edu-Lledo,Edu-Lledo,5b3ff6b7,es ESP,GK,Hercules
+8170.0,﻿Carlos Fernández,/en/players/8c2a65d4/Carlos-Fernandez,Carlos-Fernandez,8c2a65d4,es ESP,FW,Hercules
+8171.0,Juanjo Nieto,/en/players/b4511ba0/Juanjo-Nieto,Juanjo-Nieto,b4511ba0,es ESP,DF,Hercules
+8172.0,Mikel Santamaría,/en/players/c809e332/Mikel-Santamaria,Mikel-Santamari,c809e332,es ESP,DF,Hercules
+8173.0,Gerardo Navarrete,/en/players/e5cabc7a/Gerardo-Navarrete,Gerardo-Navarret,5cabc7a,cl CHI,MF,Hercules
+8174.0,José Luis García Vayá,/en/players/27dc1378/Jose-Luis-Garcia-Vaya,Jose-Luis-Garcia-V,27dc1378,es ESP,MF,Hercules
+8175.0,Mohamed Ezzarfani,/en/players/3e59d360/Mohamed-Ezzarfani,Mohamed-Ezzarfani,3e59d360,ma MAR,MF,Hercules
+8176.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Hercules
+8177.0,Checa,/en/players/036727d5/Checa,Chec,036727d5,es ESP,MF,Hercules
+8178.0,Pedrag Muñoz,/en/players/33f21566/Pedrag-Munoz,Pedrag-Munoz,33f21566,es ESP,FW,Hercules

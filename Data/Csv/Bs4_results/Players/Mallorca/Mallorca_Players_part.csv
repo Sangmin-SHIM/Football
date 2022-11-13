@@ -1,235 +1,305 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-1542.0,﻿Leo Franco,/en/players/c39a5c6b/Leo-Franco,Leo-Franco,c39a5c6b,ar ARG,GK,Mallorca
-1543.0,Poli,/en/players/1e21189f/Poli,Poli,1e21189f,es ESP,DF,Mallorca
-1544.0,Albert Riera,/en/players/3a0a5056/Albert-Riera,Albert-Ri,3a0a5056,es ESP,"DF,FW",Mallorca
-1545.0,Ariel Ibagaza,/en/players/bd513ca4/Ariel-Ibagaza,Ariel-Ibagaz,bd513ca4,ar ARG,MF,Mallorca
-1546.0,David Cortés,/en/players/99d15abd/David-Cortes,David-Cort,99d15abd,es ESP,DF,Mallorca
-1547.0,John Harold Lozano,/en/players/94ccf890/John-Harold-Lozano,John-Harold-Lozano,94ccf890,co COL,MF,Mallorca
-1548.0,Miguel Ángel Nadal,/en/players/36d58178/Miguel-Angel-Nadal,Miguel-Angel-Nad,36d58178,es ESP,"DF,MF",Mallorca
-1549.0,Federico Lussenhoff,/en/players/42658559/Federico-Lussenhoff,Federico-Lussenhoff,42658559,ar ARG,DF,Mallorca
-1550.0,Marcos,/en/players/7e5d2eb1/Marcos,Marco,7e5d2eb1,es ESP,MF,Mallorca
-1551.0,Fernando Niño,/en/players/13cdd971/Fernando-Nino,Fernando-Nino,13cdd971,es ESP,DF,Mallorca
-1552.0,Alejandro Campano,/en/players/42a8f3e1/Alejandro-Campano,Alejandro-Campano,42a8f3e1,es ESP,MF,Mallorca
-1553.0,Javier Olaizola,/en/players/023fc776/Javier-Olaizola,Javier-Olaizo,023fc776,es ESP,DF,Mallorca
-1554.0,Miquel Soler,/en/players/258ef5f1/Miquel-Soler,Miquel-So,258ef5f1,es ESP,"DF,MF",Mallorca
-1555.0,Vicente Fernández,/en/players/3d4ad6ca/Vicente-Fernandez,Vicente-Fernandez,3d4ad6ca,es ESP,MF,Mallorca
-1556.0,Julián Robles,/en/players/a9b429a7/Julian-Robles,Julian-Rob,9b429a7,es ESP,MF,Mallorca
-1557.0,Carlos Domínguez,/en/players/c008c1c3/Carlos-Dominguez,Carlos-Dominguez,c008c1c3,es ESP,FW,Mallorca
-1558.0,Miki Garro,/en/players/d95befde/Miki-Garro,Miki-Garro,d95befde,es ESP,GK,Mallorca
-1559.0,Paco Soler,/en/players/1d07ab0a/Paco-Soler,Paco-So,1d07ab0a,es ESP,MF,Mallorca
-1560.0,Leonardo Biagini,/en/players/44793331/Leonardo-Biagini,Leonardo-Biagini,44793331,ar ARG,FW,Mallorca
-1561.0,Ángel Pérez,/en/players/a706bad3/Angel-Perez,Angel-Perez,706bad3,es ESP,DF,Mallorca
-1562.0,José Oscar Flores,/en/players/5c5dc0eb/Jose-Oscar-Flores,Jose-Oscar-Flo,5c5dc0eb,ar ARG,FW,Mallorca
-1563.0,Tuni,/en/players/e77175c5/Tuni,Tuni,77175c5,es ESP,"DF,MF",Mallorca
-1564.0,Raúl Martín,/en/players/f81f6fc3/Raul-Martin,Raul-Marti,f81f6fc3,es ESP,MF,Mallorca
-1565.0,Gonzalo Colsa,/en/players/6fa12b44/Gonzalo-Colsa,Gonzalo-Co,6fa12b44,es ESP,MF,Mallorca
-1566.0,Fernando Correa,/en/players/9c2c5331/Fernando-Correa,Fernando-Co,9c2c5331,uy URU,FW,Mallorca
-1567.0,Guillermo Pereyra,/en/players/0757d5ba/Guillermo-Pereyra,Guillermo-P,0757d5ba,ar ARG,MF,Mallorca
-1568.0,Arnold Bruggink,/en/players/419725a2/Arnold-Bruggink,Arnold-Bruggink,419725a2,nl NED,"FW,MF",Mallorca
-1569.0,Finidi George,/en/players/87fcf713/Finidi-George,Finidi-Georg,87fcf713,ng NGA,"FW,MF",Mallorca
-1570.0,Toni González,/en/players/1683a16d/Toni-Gonzalez,Toni-Gonzalez,1683a16d,es ESP,MF,Mallorca
-1571.0,Iván Ramis,/en/players/d2be40f2/Ivan-Ramis,Ivan-Rami,d2be40f2,es ESP,DF,Mallorca
-1572.0,Jovan Stanković,/en/players/6985b8f9/Jovan-Stankovic,Jovan-Stankovic,6985b8f9,rs SRB,MF,Mallorca
-1573.0,Martín Ligüera,/en/players/aa146d9b/Martin-Liguera,Martin-Ligu,146d9b,uy URU,MF,Mallorca
-1574.0,﻿Luis García,/en/players/70df8d7c/Luis-Garcia,Luis-Garci,70df8d7c,es ESP,"FW,MF",Mallorca
-1575.0,Juan Arango,/en/players/49c057c9/Juan-Arango,Juan-Arango,49c057c9,ve VEN,MF,Mallorca
-1576.0,Sergio Ballesteros,/en/players/29863c56/Sergio-Ballesteros,Sergio-Ballestero,29863c56,es ESP,DF,Mallorca
-1577.0,Javier Farinós,/en/players/d9b0f08e/Javier-Farinos,Javier-Farino,d9b0f08e,es ESP,MF,Mallorca
-1578.0,Mark Iuliano,/en/players/9385eaee/Mark-Iuliano,Mark-Iuliano,9385eaee,it ITA,DF,Mallorca
-1579.0,Yoshito Ōkubo,/en/players/930074bb/Yoshito-Okubo,Yoshito-Okubo,930074bb,jp JPN,"FW,MF",Mallorca
-1580.0,Bernardo Romeo,/en/players/d46625bb/Bernardo-Romeo,Bernardo-Romeo,d46625bb,ar ARG,FW,Mallorca
-1581.0,Patrick Müller,/en/players/83430692/Patrick-Muller,Patrick-Mu,83430692,ch SUI,DF,Mallorca
-1582.0,Marcos Vales,/en/players/f96c7239/Marcos-Vales,Marcos-V,f96c7239,es ESP,MF,Mallorca
-1583.0,Felipe Melo,/en/players/b14d84d3/Felipe-Melo,Felipe-Melo,b14d84d3,br BRA,"DF,MF",Mallorca
-1584.0,Xisco Campos,/en/players/bd3b9a9f/Xisco-Campos,Xisco-Campo,bd3b9a9f,es ESP,DF,Mallorca
-1585.0,Carlos Carmona,/en/players/d161184f/Carlos-Carmona,Carlos-Carmo,d161184f,es ESP,"FW,MF",Mallorca
-1586.0,Cristiano Doni,/en/players/4b6a7e60/Cristiano-Doni,Cristiano-Doni,4b6a7e60,it ITA,MF,Mallorca
-1587.0,José Nunes,/en/players/adacff32/Jose-Nunes,Jose-Nu,dacff32,pt POR,DF,Mallorca
-1588.0,Francisco Maciel,/en/players/09b9b9e6/Francisco-Maciel,Francisco-Maci,09b9b9e6,ar ARG,DF,Mallorca
-1589.0,Alessandro Potenza,/en/players/58e1cadb/Alessandro-Potenza,Alessandro-Potenz,58e1cadb,it ITA,DF,Mallorca
-1590.0,Angelos Basinas,/en/players/0d9168da/Angelos-Basinas,Angelos-Basi,0d9168da,gr GRE,MF,Mallorca
-1591.0,Leonardo Pisculichi,/en/players/3d1d62dd/Leonardo-Pisculichi,Leonardo-Pisculichi,3d1d62dd,ar ARG,"FW,MF",Mallorca
-1592.0,Eduardo Tuzzio,/en/players/096c45ee/Eduardo-Tuzzio,Eduardo-Tuzzio,096c45ee,ar ARG,DF,Mallorca
-1593.0,Yordi,/en/players/8cbb78fb/Yordi,Yordi,8cbb78fb,es ESP,FW,Mallorca
-1594.0,Adrián Peralta,/en/players/14132846/Adrian-Peralta,Adrian-Peralt,14132846,ar ARG,MF,Mallorca
-1595.0,Lampros Choutos,/en/players/0a296ab6/Lampros-Choutos,Lampros-Chouto,0a296ab6,gr GRE,"FW,MF",Mallorca
-1596.0,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,Braulio-Nobreg,6e02869d,es ESP,FW,Mallorca
-1597.0,Rafita,/en/players/631f177b/Rafita,Rafit,631f177b,es ESP,DF,Mallorca
-1598.0,Toni Muñoz,/en/players/24bc65f8/Toni-Munoz,Toni-Munoz,24bc65f8,es ESP,FW,Mallorca
-1599.0,Boško Janković,/en/players/7b17d906/Bosko-Jankovic,Bosko-Jankovic,7b17d906,rs SRB,MF,Mallorca
-1600.0,Daniel N'Gom Kome,/en/players/8076455d/Daniel-NGom-Kome,Daniel-NGom-Kom,8076455d,cm CMR,MF,Mallorca
-1601.0,Javier Dorado,/en/players/1cfbd665/Javier-Dorado,Javier-Dorado,1cfbd665,es ESP,DF,Mallorca
-1602.0,Óscar Trejo,/en/players/fc647b34/Oscar-Trejo,Oscar-Trejo,fc647b34,ar ARG,"FW,MF",Mallorca
-1603.0,Dani Güiza,/en/players/d863ea53/Dani-Guiza,Dani-Guiz,d863ea53,es ESP,FW,Mallorca
-1604.0,Pierre Webó,/en/players/3d6f05ea/Pierre-Webo,Pierre-Webo,3d6f05ea,cm CMR,FW,Mallorca
-1605.0,Alberto López Arteseros,/en/players/cccc2c32/Alberto-Lopez-Arteseros,Alberto-Lopez-Artesero,cccc2c32,es ESP,MF,Mallorca
-1606.0,Cléber Santana,/en/players/bed73c6e/Cleber-Santana,Cleber-Sant,bed73c6e,br BRA,MF,Mallorca
-1607.0,Enrique Corrales,/en/players/a8dbcf66/Enrique-Corrales,Enrique-Co,8dbcf66,es ESP,DF,Mallorca
-1608.0,Josemi,/en/players/e85dd0fc/Josemi,Josemi,85dd0fc,es ESP,DF,Mallorca
-1609.0,Alhassane Keita,/en/players/7676df3f/Alhassane-Keita,Alhassane-Keit,7676df3f,gn GUI,FW,Mallorca
-1610.0,Juanmi Callejón,/en/players/60bb7e62/Juanmi-Callejon,Juanmi-Callejo,60bb7e62,es ESP,MF,Mallorca
-1611.0,Borja Valero,/en/players/0e21fc3c/Borja-Valero,Borja-Valero,0e21fc3c,es ESP,MF,Mallorca
-1612.0,Julio Álvarez,/en/players/17b1a0ee/Julio-Alvarez,Julio-Alvarez,17b1a0ee,ve VEN,MF,Mallorca
-1613.0,Felipe Mattioni,/en/players/8dbe6343/Felipe-Mattioni,Felipe-Mattioni,8dbe6343,br BRA,DF,Mallorca
-1614.0,Bruno China,/en/players/d50f641c/Bruno-China,Bruno-Chi,d50f641c,pt POR,"DF,MF",Mallorca
-1615.0,Paulo Pezzolano,/en/players/b1c343d4/Paulo-Pezzolano,Paulo-Pezzolano,b1c343d4,uy URU,"FW,MF",Mallorca
-1616.0,Tomás Pina Isla,/en/players/e54bd0a2/Tomas-Pina-Isla,Tomas-Pina-I,54bd0a2,es ESP,MF,Mallorca
-1617.0,Jonathan de Guzmán,/en/players/1bcca8b8/Jonathan-de-Guzman,Jonathan-de-Guzm,1bcca8b8,nl NED,MF,Mallorca
-1618.0,Pau Cendrós,/en/players/9b9c9388/Pau-Cendros,Pau-Cendro,9b9c9388,es ESP,DF,Mallorca
-1619.0,Michael Pereira,/en/players/2969ccd2/Michael-Pereira,Michael-Perei,2969ccd2,fr FRA,"FW,MF",Mallorca
-1620.0,João Victor,/en/players/dbc94b4c/Joao-Victor,Joao-Victo,dbc94b4c,br BRA,"DF,MF",Mallorca
-1621.0,Kevin,/en/players/38ccaadc/Kevin,Kevi,38ccaadc,es ESP,DF,Mallorca
-1622.0,Sergio Tejera,/en/players/3d5734ef/Sergio-Tejera,Sergio-Tej,3d5734ef,es ESP,MF,Mallorca
-1623.0,Fernando Cavenaghi,/en/players/d34453a9/Fernando-Cavenaghi,Fernando-Cavenaghi,d34453a9,ar ARG,FW,Mallorca
-1624.0,Edson Ratinho,/en/players/1f59bef7/Edson-Ratinho,Edson-Ratinho,1f59bef7,br BRA,"DF,MF",Mallorca
-1625.0,Akihiro Ienaga,/en/players/69dab98d/Akihiro-Ienaga,Akihiro-Ienag,69dab98d,jp JPN,"FW,MF",Mallorca
-1626.0,Martí Crespí,/en/players/bb2d18be/Marti-Crespi,Marti-Crespi,bb2d18be,es ESP,DF,Mallorca
-1627.0,Sergi Enrich,/en/players/bb4b1242/Sergi-Enrich,Sergi-Enrich,bb4b1242,es ESP,"FW,MF",Mallorca
-1628.0,Chico,/en/players/95825cf2/Chico,Chico,95825cf2,es ESP,DF,Mallorca
-1629.0,Pablo Cáceres,/en/players/781de8f2/Pablo-Caceres,Pablo-Cac,781de8f2,uy URU,DF,Mallorca
-1630.0,Fernando Tissone,/en/players/e224238d/Fernando-Tissone,Fernando-Tisso,224238d,ar ARG,MF,Mallorca
-1631.0,Tomer Hemed,/en/players/27d7453c/Tomer-Hemed,Tomer-Hemed,27d7453c,il ISR,FW,Mallorca
-1632.0,Alejandro Alfaro,/en/players/7c293728/Alejandro-Alfaro,Alejandro-Alfaro,7c293728,es ESP,"FW,MF",Mallorca
-1633.0,Pedro Bigas,/en/players/697295b1/Pedro-Bigas,Pedro-Big,697295b1,es ESP,"DF,MF",Mallorca
-1634.0,Álvaro Giménez,/en/players/18017beb/Alvaro-Gimenez,Alvaro-Gimenez,18017beb,es ESP,"FW,MF",Mallorca
-1635.0,Gianni Zuiverloon,/en/players/22d7fe43/Gianni-Zuiverloon,Gianni-Zuiverloo,22d7fe43,nl NED,DF,Mallorca
-1636.0,Marvin Ogunjimi,/en/players/93c93fd1/Marvin-Ogunjimi,Marvin-Ogunjimi,93c93fd1,be BEL,FW,Mallorca
-1637.0,Juan Calatayud,/en/players/f1714283/Juan-Calatayud,Juan-Calatayud,f1714283,es ESP,GK,Mallorca
-1638.0,Abdón Prats,/en/players/d1b060e2/Abdon-Prats,Abdon-Prat,d1b060e2,es ESP,FW,Mallorca
-1639.0,Pedro Geromel,/en/players/78f81520/Pedro-Geromel,Pedro-Gerom,78f81520,br BRA,DF,Mallorca
-1640.0,Javi Márquez,/en/players/40c7cdd2/Javi-Marquez,Javi-Marquez,40c7cdd2,es ESP,MF,Mallorca
-1641.0,Alan Hutton,/en/players/688ae34c/Alan-Hutton,Alan-Hutto,688ae34c,sct SCO,DF,Mallorca
-1642.0,Anderson Conceição,/en/players/d50b1371/Anderson-Conceicao,Anderson-Conceicao,d50b1371,br BRA,DF,Mallorca
-1643.0,Ximo Navarro,/en/players/8db394aa/Ximo-Navarro,Ximo-Navarro,8db394aa,es ESP,DF,Mallorca
-1644.0,Antonio Luna,/en/players/ed239245/Antonio-Luna,Antonio-Lu,d239245,es ESP,DF,Mallorca
-1645.0,Antonio López,/en/players/e55190d5/Antonio-Lopez,Antonio-Lopez,55190d5,es ESP,"DF,MF",Mallorca
-1646.0,Marc Fernández,/en/players/9c3ef867/Marc-Fernandez,Marc-Fernandez,9c3ef867,es ESP,"FW,MF",Mallorca
-1647.0,Rubén Miño,/en/players/60afe7a3/Ruben-Mino,Ruben-Mino,60afe7a3,es ESP,GK,Mallorca
-1648.0,Brandon,/en/players/3e016e5a/Brandon,Brando,3e016e5a,es ESP,"FW,MF",Mallorca
-1649.0,Charlie Took,/en/players/9a7434c7/Charlie-Took,Charlie-Took,9a7434c7,cm CMR,DF,Mallorca
-1650.0,Gerard Moreno,/en/players/81f0781e/Gerard-Moreno,Gerard-Moreno,81f0781e,es ESP,FW,Mallorca
-1651.0,David Generelo,/en/players/2ae48997/David-Generelo,David-Generelo,2ae48997,es ESP,MF,Mallorca
-1652.0,Miguel Garcia,/en/players/5f164e2e/Miguel-Garcia,Miguel-Garci,5f164e2e,pt POR,DF,Mallorca
-1653.0,Martí Riverola,/en/players/4de54dcf/Marti-Riverola,Marti-Rivero,4de54dcf,es ESP,MF,Mallorca
-1654.0,Alexandre Geijo,/en/players/c0787e61/Alexandre-Geijo,Alexandre-Geijo,c0787e61,es ESP,FW,Mallorca
-1655.0,Aleksandr Valuyskiy,/en/players/1ac43026/Aleksandr-Valuyskiy,Aleksandr-Valuyski,1ac43026,ru RUS,MF,Mallorca
-1656.0,Abdoul Camara,/en/players/07296190/Abdoul-Camara,Abdoul-Cam,7296190,gn GUI,"FW,MF",Mallorca
-1657.0,Biel Company,/en/players/167890bd/Biel-Company,Biel-Com,167890bd,es ESP,DF,Mallorca
-1658.0,Nikola Gulan,/en/players/24a741ac/Nikola-Gulan,Nikola-Gu,24a741ac,rs SRB,"DF,MF",Mallorca
-1659.0,Manuel Arana,/en/players/81fac4d9/Manuel-Arana,Manuel-A,81fac4d9,es ESP,MF,Mallorca
-1660.0,Kasim Nuhu,/en/players/93a50d2c/Kasim-Nuhu,Kasim-Nuhu,93a50d2c,gh GHA,DF,Mallorca
-1661.0,Joan Truyols,/en/players/af43f64f/Joan-Truyols,Joan-Truyo,f43f64f,es ESP,DF,Mallorca
-1662.0,Héctor Yuste,/en/players/f50a668a/Hector-Yuste,Hector-Yust,f50a668a,es ESP,"DF,MF",Mallorca
-1663.0,Fofo,/en/players/f2097539/Fofo,Fofo,f2097539,es ESP,FW,Mallorca
-1664.0,Joselu,/en/players/a5e9c273/Joselu,Joselu,5e9c273,es ESP,FW,Mallorca
-1665.0,Marko Šćepović,/en/players/1eec640e/Marko-Scepovic,Marko-Scepovic,1eec640e,rs SRB,FW,Mallorca
-1666.0,Filip Marković,/en/players/f289063d/Filip-Markovic,Filip-Markovic,f289063d,rs SRB,MF,Mallorca
-1667.0,Juan Cifré Navas,/en/players/8bc78e50/Juan-Cifre-Navas,Juan-Cifre-Nav,8bc78e50,es ESP,DF,Mallorca
-1668.0,Damià Sabater,/en/players/a7a0024a/Damia-Sabater,Damia-Sabat,7a0024a,es ESP,MF,Mallorca
-1669.0,Gai Assulin,/en/players/ba776102/Gai-Assulin,Gai-Assuli,ba776102,il ISR,MF,Mallorca
-1670.0,Alexandre Coeff,/en/players/c4065f40/Alexandre-Coeff,Alexandre-Coeff,c4065f40,fr FRA,"DF,MF",Mallorca
-1671.0,Tià Sastre,/en/players/bbab5179/Tia-Sastre,Tia-Sast,bbab5179,es ESP,MF,Mallorca
-1672.0,Steve Aldo One,/en/players/a8599c17/Steve-Aldo-One,Steve-Aldo-O,8599c17,cm CMR,DF,Mallorca
-1673.0,Enrique Royo,/en/players/d4c5280b/Enrique-Royo,Enrique-Royo,d4c5280b,es ESP,GK,Mallorca
-1674.0,Álex Vallejo,/en/players/017b4247/Alex-Vallejo,Alex-Vallejo,017b4247,es ESP,MF,Mallorca
-1675.0,﻿Lucas Aveldaño,/en/players/d120357b/Lucas-Aveldano,Lucas-Aveldano,d120357b,ar ARG,DF,Mallorca
-1676.0,Joan Oriol,/en/players/7ccb2ef6/Joan-Oriol,Joan-Orio,7ccb2ef6,es ESP,DF,Mallorca
-1677.0,Timon Wellenreuther,/en/players/2f18d0b8/Timon-Wellenreuther,Timon-Wellenreuth,2f18d0b8,de GER,GK,Mallorca
-1678.0,Abdoul Sissoko,/en/players/f7288611/Abdoul-Sissoko,Abdoul-Sissoko,f7288611,fr FRA,MF,Mallorca
-1679.0,Eduard Campabadal,/en/players/bbf23a57/Eduard-Campabadal,Eduard-Campabad,bbf23a57,es ESP,DF,Mallorca
-1680.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,"DF,FW",Mallorca
-1681.0,Lago Junior,/en/players/360d70f8/Lago-Junior,Lago-Junio,360d70f8,ci CIV,"FW,MF",Mallorca
-1682.0,Thierry Moutinho,/en/players/8e928063/Thierry-Moutinho,Thierry-Moutinho,8e928063,pt POR,MF,Mallorca
-1683.0,Rolando Bianchi,/en/players/11fcbfe7/Rolando-Bianchi,Rolando-Bianchi,11fcbfe7,it ITA,FW,Mallorca
-1684.0,Jesús Cabrero,/en/players/d5e95d46/Jesus-Cabrero,Jesus-Cabrero,d5e95d46,es ESP,GK,Mallorca
-1685.0,Ferran Corominas,/en/players/46d0c528/Ferran-Corominas,Ferran-Coromi,46d0c528,es ESP,"FW,MF",Mallorca
-1686.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Mallorca
-1687.0,Pol Roigé,/en/players/508c4519/Pol-Roige,Pol-Roig,508c4519,es ESP,FW,Mallorca
-1688.0,Tobias Henneböle,/en/players/66ed6b48/Tobias-Hennebole,Tobias-Hennebo,66ed6b48,de GER,DF,Mallorca
-1689.0,James Davis Borikó,/en/players/f0412c22/James-Davis-Boriko,James-Davis-Boriko,f0412c22,gq EQG,DF,Mallorca
-1690.0,Benjamin Machini,/en/players/c81ff5d0/Benjamin-Machini,Benjamin-Machini,c81ff5d0,us USA,GK,Mallorca
-1691.0,Tomeu Nadal,/en/players/37452c75/Tomeu-Nadal,Tomeu-Nad,37452c75,es ESP,GK,Mallorca
-1692.0,Miquel Parera,/en/players/f9b42381/Miquel-Parera,Miquel-P,f9b42381,es ESP,GK,Mallorca
-1693.0,Joan Sastre Vanrell,/en/players/f9acf8bf/Joan-Sastre-Vanrell,Joan-Sastre-V,f9acf8bf,es ESP,DF,Mallorca
-1694.0,Antonio Raillo,/en/players/b857bd29/Antonio-Raillo,Antonio-Raillo,b857bd29,es ESP,DF,Mallorca
-1695.0,Roberto Santamaría,/en/players/bca21ef3/Roberto-Santamaria,Roberto-Santamari,bca21ef3,es ESP,GK,Mallorca
-1696.0,Angeliño,/en/players/30941e96/Angelino,Angelino,3.09E+100,es ESP,"DF,MF",Mallorca
-1697.0,Saša Zdjelar,/en/players/bbddc31f/Sasa-Zdjelar,Sasa-Zdj,bbddc31f,rs SRB,MF,Mallorca
-1698.0,Julio Pleguezuelo,/en/players/2950c47b/Julio-Pleguezuelo,Julio-Pleguezuelo,2950c47b,es ESP,DF,Mallorca
-1699.0,Juanjo Nieto,/en/players/b4511ba0/Juanjo-Nieto,Juanjo-Nieto,b4511ba0,es ESP,DF,Mallorca
-1700.0,Adrián Dalmau,/en/players/7330f886/Adrian-Dalmau,Adrian-Dalmau,7330f886,es ESP,"MF,FW",Mallorca
-1701.0,Adrián Colunga,/en/players/2212dd4e/Adrian-Colunga,Adrian-Colung,2212dd4e,es ESP,FW,Mallorca
-1702.0,Ángel Sánchez,/en/players/ddd83967/Angel-Sanchez,Angel-Sanchez,ddd83967,es ESP,FW,Mallorca
-1703.0,Cedric Omoigui,/en/players/29fa334d/Cedric-Omoigui,Cedric-Omoigui,29fa334d,ng NGA,FW,Mallorca
-1704.0,Jaume,/en/players/e0e65765/Jaume,Jaum,0e65765,es ESP,GK,Mallorca
-1705.0,Alberto López,/en/players/c0de5ff5/Alberto-Lopez,Alberto-Lopez,c0de5ff5,es ESP,DF,Mallorca
-1706.0,﻿José Ángel Alonso,/en/players/1950ed97/Jose-Angel-Alonso,Jose-Angel-Alonso,1950ed97,es ESP,DF,Mallorca
-1707.0,Fernando Cano,/en/players/d18b8659/Fernando-Cano,Fernando-Cano,d18b8659,es ESP,MF,Mallorca
-1708.0,Pierre Cornud,/en/players/edeb21ff/Pierre-Cornud,Pierre-Cornud,deb21ff,fr FRA,DF,Mallorca
-1709.0,Miguel Núñez,/en/players/e6c70f2f/Miguel-Nunez,Miguel-Nunez,6c70f2f,es ESP,MF,Mallorca
-1710.0,Rufo,/en/players/00174fb2/Rufo,Rufo,00174fb2,es ESP,"FW,MF",Mallorca
-1711.0,Álex Serrano,/en/players/c8b5d6d3/Alex-Serrano,Alex-Serrano,c8b5d6d3,es ESP,"FW,MF",Mallorca
-1712.0,Ferrán Giner Peris,/en/players/aede3ce0/Ferran-Giner-Peris,Ferran-Giner-Peri,de3ce0,es ESP,FW,Mallorca
-1713.0,Manolo Reina,/en/players/605eb473/Manolo-Reina,Manolo-Rei,605eb473,es ESP,GK,Mallorca
-1714.0,Brayan Reyna,/en/players/f383829b/Brayan-Reyna,Brayan-R,f383829b,pe PER,MF,Mallorca
-1715.0,Dani Rodríguez,/en/players/70f8e0bd/Dani-Rodriguez,Dani-Rodriguez,70f8e0bd,es ESP,MF,Mallorca
-1716.0,Marc Pedraza,/en/players/ff8f26ef/Marc-Pedraza,Marc-Pedraz,ff8f26ef,es ESP,MF,Mallorca
-1717.0,Martin Valjent,/en/players/f2c6ac01/Martin-Valjent,Martin-Valjent,f2c6ac01,sk SVK,DF,Mallorca
-1718.0,Ariday Cabrera,/en/players/206b11c5/Ariday-Cabrera,Ariday-Cab,206b11c5,es ESP,"MF,FW",Mallorca
-1719.0,Fran Gámez,/en/players/2e3406ae/Fran-Gamez,Fran-Gamez,2e3406ae,es ESP,DF,Mallorca
-1720.0,Ante Budimir,/en/players/8f3565b3/Ante-Budimir,Ante-Budimi,8f3565b3,hr CRO,FW,Mallorca
-1721.0,Pervis Estupiñán,/en/players/d38fdf53/Pervis-Estupinan,Pervis-Estupi,d38fdf53,ec ECU,DF,Mallorca
-1722.0,Álex López,/en/players/8e492949/Alex-Lopez,Alex-Lopez,8e492949,es ESP,FW,Mallorca
-1723.0,Iddrisu Baba,/en/players/bfd381b3/Iddrisu-Baba,Iddrisu-Bab,bfd381b3,gh GHA,MF,Mallorca
-1724.0,Leonardo Suárez,/en/players/25c72b36/Leonardo-Suarez,Leonardo-Suarez,25c72b36,ar ARG,"MF,FW",Mallorca
-1725.0,Stoichkov,/en/players/4e257184/Stoichkov,Stoichkov,4e257184,es ESP,"FW,MF",Mallorca
-1726.0,Carlos Castro,/en/players/9bf4f036/Carlos-Castro,Carlos-Castro,9bf4f036,es ESP,FW,Mallorca
-1727.0,Pablo Valcarce,/en/players/f51ee65e/Pablo-Valcarce,Pablo-Valcarc,f51ee65e,es ESP,"MF,FW",Mallorca
-1728.0,Franco Russo,/en/players/b75ac54b/Franco-Russo,Franco-Russo,b75ac54b,ar ARG,DF,Mallorca
-1729.0,Merveille Ndockyt,/en/players/32b84cec/Merveille-Ndockyt,Merveille-Ndockyt,32b84cec,cg CGO,MF,Mallorca
-1730.0,Sergio Buenacasa,/en/players/f989b37f/Sergio-Buenacasa,Sergio-Buenac,f989b37f,es ESP,MF,Mallorca
-1731.0,Alejandro Faurlín,/en/players/594d286e/Alejandro-Faurlin,Alejandro-Faurli,594d286e,ar ARG,MF,Mallorca
-1732.0,Víctor De Baunbaug,/en/players/64af0801/Victor-De-Baunbaug,Victor-De-Baunbaug,64af0801,es ESP,FW,Mallorca
-1733.0,Leandro Montagud,/en/players/48b0e9b7/Leandro-Montagud,Leandro-Montagud,48b0e9b7,es ESP,GK,Mallorca
-1734.0,Takefusa Kubo,/en/players/16aa3654/Takefusa-Kubo,Takefusa-Kubo,16aa3654,jp JPN,MF,Mallorca
-1735.0,Aleix Febas,/en/players/38126309/Aleix-Febas,Aleix-Feb,38126309,es ESP,"MF,FW",Mallorca
-1736.0,Lumor Agbenyenu,/en/players/073b1b37/Lumor-Agbenyenu,Lumor-Agbenyenu,073b1b37,gh GHA,DF,Mallorca
-1737.0,Cucho,/en/players/71b47ab9/Cucho,Cucho,71b47ab9,co COL,"FW,MF",Mallorca
-1738.0,Alejandro Pozo Pozo,/en/players/3c16d927/Alejandro-Pozo-Pozo,Alejandro-Pozo-Pozo,3c16d927,es ESP,DF,Mallorca
-1739.0,Aleksandar Sedlar,/en/players/a35134ae/Aleksandar-Sedlar,Aleksandar-Sed,35134ae,rs SRB,DF,Mallorca
-1740.0,Baba Rahman,/en/players/e4086af3/Baba-Rahman,Baba-Rahm,4086af3,gh GHA,DF,Mallorca
-1741.0,Aleksandar Trajkovski,/en/players/84bba8b6/Aleksandar-Trajkovski,Aleksandar-Trajkovski,84bba8b6,mk MKD,"MF,FW",Mallorca
-1742.0,Pablo Chavarría,/en/players/4207e578/Pablo-Chavarria,Pablo-Chavarri,4207e578,ar ARG,"FW,MF",Mallorca
-1743.0,Leonardo Koutris,/en/players/114b510e/Leonardo-Koutris,Leonardo-Koutri,114b510e,gr GRE,DF,Mallorca
-1744.0,Yannis Salibur,/en/players/bb4a42be/Yannis-Salibur,Yannis-Salibu,bb4a42be,fr FRA,"MF,FW",Mallorca
-1745.0,Ki Sung-yueng,/en/players/1d8c99b0/Ki-Sung-yueng,Ki-Sung-yueng,1d8c99b0,kr KOR,MF,Mallorca
-1746.0,Luka Romero,/en/players/ca6edaa0/Luka-Romero,Luka-Romero,ca6edaa0,ar ARG,FW,Mallorca
-1747.0,Rafel Obrador,/en/players/949c3655/Rafel-Obrador,Rafel-Obrado,949c3655,es ESP,DF,Mallorca
-1748.0,Fran González,/en/players/ea04fa41/Fran-Gonzalez,Fran-Gonzalez,04fa41,es ESP,DF,Mallorca
-1749.0,Pere Joan,/en/players/a2b1bca6/Pere-Joan,Pere-Jo,2b1bca6,es ESP,GK,Mallorca
-1750.0,Jesús Ruiz,/en/players/e999605d/Jesus-Ruiz,Jesus-Ruiz,999605d,es ESP,GK,Mallorca
-1751.0,Amath,/en/players/f3b1d9a2/Amath,Amath,f3b1d9a2,sn SEN,"MF,FW",Mallorca
-1752.0,Brian Oliván,/en/players/a3e4bf46/Brian-Olivan,Brian-Oliv,3e4bf46,es ESP,DF,Mallorca
-1753.0,Antonio Sánchez,/en/players/a254bbe0/Antonio-Sanchez,Antonio-Sanchez,254bbe0,es ESP,MF,Mallorca
-1754.0,Braian Cufré,/en/players/192c89a6/Braian-Cufre,Braian-Cuf,192c89a6,ar ARG,"DF,MF",Mallorca
-1755.0,Jordi Mboula,/en/players/4887118d/Jordi-Mboula,Jordi-Mbou,4887118d,es ESP,"MF,FW",Mallorca
-1756.0,Murilo Costa,/en/players/85733f33/Murilo-Costa,Murilo-Cost,85733f33,br BRA,MF,Mallorca
-1757.0,Ivan Bravo,/en/players/b1cdbaa2/Ivan-Bravo,Ivan-Bravo,b1cdbaa2,es ESP,DF,Mallorca
-1758.0,Ibrahim Diabaté,/en/players/41463424/Ibrahim-Diabate,Ibrahim-Diabat,41463424,ci CIV,FW,Mallorca
-1759.0,Josep Antoni Gayá,/en/players/4a5f2032/Josep-Antoni-Gaya,Josep-Antoni-G,4a5f2032,es ESP,DF,Mallorca
-1760.0,Leonardo Román,/en/players/924ff27e/Leonardo-Roman,Leonardo-Rom,924ff27e,es ESP,GK,Mallorca
-1761.0,Pablo Maffeo,/en/players/5db04597/Pablo-Maffeo,Pablo-Maffeo,5db04597,es ESP,DF,Mallorca
-1762.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,"FW,MF",Mallorca
-1763.0,Vedat Muriqi,/en/players/0cadc46d/Vedat-Muriqi,Vedat-Muriqi,0cadc46d,xk KVX,FW,Mallorca
-1764.0,Sergio Rico,/en/players/5f0241b2/Sergio-Rico,Sergio-Rico,5f0241b2,es ESP,GK,Mallorca
-1765.0,Rodrigo Battaglia,/en/players/d637fc22/Rodrigo-Battaglia,Rodrigo-Battagli,d637fc22,ar ARG,MF,Mallorca
-1766.0,Fernando Niño,/en/players/81d5c497/Fernando-Nino,Fernando-Nino,81d5c497,es ESP,FW,Mallorca
-1767.0,Giovanni González,/en/players/1fc474ae/Giovanni-Gonzalez,Giovanni-Gonzalez,1fc474ae,uy URU,DF,Mallorca
-1768.0,Matthew Hoppe,/en/players/1bc432b7/Matthew-Hoppe,Matthew-Ho,1bc432b7,us USA,"FW,MF",Mallorca
-1769.0,Dominik Greif,/en/players/30061f53/Dominik-Greif,Dominik-Greif,30061f53,sk SVK,GK,Mallorca
-1770.0,Clément Grenier,/en/players/8b298f56/Clement-Grenier,Clement-Greni,8b298f56,fr FRA,MF,Mallorca
-1771.0,Marc Carmona,/en/players/e085f0fa/Marc-Carmona,Marc-Carmo,085f0fa,es ESP,DF,Mallorca
-1772.0,Pablo Gálvez,/en/players/191a897a/Pablo-Galvez,Pablo-Galvez,191a897a,es ESP,FW,Mallorca
-1773.0,Tomás Giaquinto,/en/players/df44f120/Tomas-Giaquinto,Tomas-Giaquinto,df44f120,ar ARG,MF,Mallorca
-1774.0,Miguelito,/en/players/ebb24144/Miguelito,Miguelito,bb24144,es ESP,DF,Mallorca
-1775.0,Ferrán Quetglas,/en/players/103d9525/Ferran-Quetglas,Ferran-Quetg,103d9525,es ESP,GK,Mallorca
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+1721.0,﻿Leo Franco,/en/players/c39a5c6b/Leo-Franco,Leo-Franco,c39a5c6b,ar ARG,GK,Mallorca
+1722.0,Poli,/en/players/1e21189f/Poli,Poli,1e21189f,es ESP,DF,Mallorca
+1723.0,Albert Riera,/en/players/3a0a5056/Albert-Riera,Albert-Ri,3a0a5056,es ESP,"DF,FW",Mallorca
+1724.0,Walter Pandiani,/en/players/11899bb1/Walter-Pandiani,Walter-Pandiani,11899bb1,uy URU,FW,Mallorca
+1725.0,Álvaro Novo,/en/players/e2b88098/Alvaro-Novo,Alvaro-Novo,2b88098,es ESP,MF,Mallorca
+1726.0,Ariel Ibagaza,/en/players/bd513ca4/Ariel-Ibagaza,Ariel-Ibagaz,bd513ca4,ar ARG,MF,Mallorca
+1727.0,David Cortés,/en/players/99d15abd/David-Cortes,David-Cort,99d15abd,es ESP,DF,Mallorca
+1728.0,Samuel Eto'o,/en/players/06420c93/Samuel-Etoo,Samuel-Etoo,06420c93,cm CMR,FW,Mallorca
+1729.0,John Harold Lozano,/en/players/94ccf890/John-Harold-Lozano,John-Harold-Lozano,94ccf890,co COL,MF,Mallorca
+1730.0,Miguel Ángel Nadal,/en/players/36d58178/Miguel-Angel-Nadal,Miguel-Angel-Nad,36d58178,es ESP,"DF,MF",Mallorca
+1731.0,Federico Lussenhoff,/en/players/42658559/Federico-Lussenhoff,Federico-Lussenhoff,42658559,ar ARG,DF,Mallorca
+1732.0,Marcos,/en/players/7e5d2eb1/Marcos,Marco,7e5d2eb1,es ESP,MF,Mallorca
+1733.0,Fernando Niño,/en/players/13cdd971/Fernando-Nino,Fernando-Nino,13cdd971,es ESP,DF,Mallorca
+1734.0,Alejandro Campano,/en/players/42a8f3e1/Alejandro-Campano,Alejandro-Campano,42a8f3e1,es ESP,MF,Mallorca
+1735.0,Javier Olaizola,/en/players/023fc776/Javier-Olaizola,Javier-Olaizo,023fc776,es ESP,DF,Mallorca
+1736.0,Miquel Soler,/en/players/258ef5f1/Miquel-Soler,Miquel-So,258ef5f1,es ESP,"DF,MF",Mallorca
+1737.0,Vicente Fernández,/en/players/3d4ad6ca/Vicente-Fernandez,Vicente-Fernandez,3d4ad6ca,es ESP,MF,Mallorca
+1738.0,Julián Robles,/en/players/a9b429a7/Julian-Robles,Julian-Rob,9b429a7,es ESP,MF,Mallorca
+1739.0,Carlos Domínguez,/en/players/c008c1c3/Carlos-Dominguez,Carlos-Dominguez,c008c1c3,es ESP,FW,Mallorca
+1740.0,Miki Garro,/en/players/d95befde/Miki-Garro,Miki-Garro,d95befde,es ESP,GK,Mallorca
+1741.0,Paco Soler,/en/players/1d07ab0a/Paco-Soler,Paco-So,1d07ab0a,es ESP,MF,Mallorca
+1742.0,Leonardo Biagini,/en/players/44793331/Leonardo-Biagini,Leonardo-Biagini,44793331,ar ARG,FW,Mallorca
+1743.0,Ángel Pérez,/en/players/a706bad3/Angel-Perez,Angel-Perez,706bad3,es ESP,DF,Mallorca
+1744.0,José Oscar Flores,/en/players/5c5dc0eb/Jose-Oscar-Flores,Jose-Oscar-Flo,5c5dc0eb,ar ARG,FW,Mallorca
+1745.0,Tuni,/en/players/e77175c5/Tuni,Tuni,77175c5,es ESP,"DF,MF",Mallorca
+1746.0,Raúl Martín,/en/players/f81f6fc3/Raul-Martin,Raul-Marti,f81f6fc3,es ESP,MF,Mallorca
+1747.0,Gonzalo Colsa,/en/players/6fa12b44/Gonzalo-Colsa,Gonzalo-Co,6fa12b44,es ESP,MF,Mallorca
+1748.0,Nenê,/en/players/265ebd37/Nene,N,265ebd37,br BRA,"FW,MF",Mallorca
+1749.0,Fernando Correa,/en/players/9c2c5331/Fernando-Correa,Fernando-Co,9c2c5331,uy URU,FW,Mallorca
+1750.0,Guillermo Pereyra,/en/players/0757d5ba/Guillermo-Pereyra,Guillermo-P,0757d5ba,ar ARG,MF,Mallorca
+1751.0,Arnold Bruggink,/en/players/419725a2/Arnold-Bruggink,Arnold-Bruggink,419725a2,nl NED,"FW,MF",Mallorca
+1752.0,Andrija Delibašić,/en/players/4de03033/Andrija-Delibasic,Andrija-Delibasic,4de03033,me MNE,FW,Mallorca
+1753.0,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,Txomin-Nago,41a60718,es ESP,MF,Mallorca
+1754.0,Finidi George,/en/players/87fcf713/Finidi-George,Finidi-Georg,87fcf713,ng NGA,"FW,MF",Mallorca
+1755.0,Toni González,/en/players/1683a16d/Toni-Gonzalez,Toni-Gonzalez,1683a16d,es ESP,MF,Mallorca
+1756.0,Iván Ramis,/en/players/d2be40f2/Ivan-Ramis,Ivan-Rami,d2be40f2,es ESP,DF,Mallorca
+1757.0,Edu Moya,/en/players/7da62f29/Edu-Moya,Edu-Mo,7da62f29,es ESP,"DF,MF",Mallorca
+1758.0,José Jesús Perera,/en/players/a39a1bc8/Jose-Jesus-Perera,Jose-Jesus-P,39a1bc8,es ESP,FW,Mallorca
+1759.0,Jovan Stanković,/en/players/6985b8f9/Jovan-Stankovic,Jovan-Stankovic,6985b8f9,rs SRB,MF,Mallorca
+1760.0,Martín Ligüera,/en/players/aa146d9b/Martin-Liguera,Martin-Ligu,146d9b,uy URU,MF,Mallorca
+1761.0,﻿Luis García,/en/players/70df8d7c/Luis-Garcia,Luis-Garci,70df8d7c,es ESP,"FW,MF",Mallorca
+1762.0,Miguel Ángel Moyá,/en/players/011d8c56/Miguel-Angel-Moya,Miguel-Angel-Mo,011d8c56,es ESP,GK,Mallorca
+1763.0,Juan Arango,/en/players/49c057c9/Juan-Arango,Juan-Arango,49c057c9,ve VEN,MF,Mallorca
+1764.0,Sergio Ballesteros,/en/players/29863c56/Sergio-Ballesteros,Sergio-Ballestero,29863c56,es ESP,DF,Mallorca
+1765.0,Javier Farinós,/en/players/d9b0f08e/Javier-Farinos,Javier-Farino,d9b0f08e,es ESP,MF,Mallorca
+1766.0,Jorge López,/en/players/cf66479e/Jorge-Lopez,Jorge-Lopez,cf66479e,es ESP,MF,Mallorca
+1767.0,Mark Iuliano,/en/players/9385eaee/Mark-Iuliano,Mark-Iuliano,9385eaee,it ITA,DF,Mallorca
+1768.0,Gonzalo de los Santos,/en/players/1855302a/Gonzalo-de-los-Santos,Gonzalo-de-los-Santo,1855302a,uy URU,MF,Mallorca
+1769.0,Yoshito Ōkubo,/en/players/930074bb/Yoshito-Okubo,Yoshito-Okubo,930074bb,jp JPN,"FW,MF",Mallorca
+1770.0,Víctor Casadesús,/en/players/73cd0a2a/Victor-Casadesus,Victor-Casadesu,73cd0a2a,es ESP,FW,Mallorca
+1771.0,Bernardo Romeo,/en/players/d46625bb/Bernardo-Romeo,Bernardo-Romeo,d46625bb,ar ARG,FW,Mallorca
+1772.0,Sander Westerveld,/en/players/dc8d38a2/Sander-Westerveld,Sander-Westerveld,dc8d38a2,nl NED,GK,Mallorca
+1773.0,Patrick Müller,/en/players/83430692/Patrick-Muller,Patrick-Mu,83430692,ch SUI,DF,Mallorca
+1774.0,Marcos Vales,/en/players/f96c7239/Marcos-Vales,Marcos-V,f96c7239,es ESP,MF,Mallorca
+1775.0,Felipe Melo,/en/players/b14d84d3/Felipe-Melo,Felipe-Melo,b14d84d3,br BRA,"DF,MF",Mallorca
+1776.0,Xisco Campos,/en/players/bd3b9a9f/Xisco-Campos,Xisco-Campo,bd3b9a9f,es ESP,DF,Mallorca
+1777.0,Carlos Carmona,/en/players/d161184f/Carlos-Carmona,Carlos-Carmo,d161184f,es ESP,"FW,MF",Mallorca
+1778.0,Fernando Navarro,/en/players/5a3f6fae/Fernando-Navarro,Fernando-Navarro,5a3f6fae,es ESP,DF,Mallorca
+1779.0,Toni Prats,/en/players/b40adcd0/Toni-Prats,Toni-Prat,b40adcd0,es ESP,GK,Mallorca
+1780.0,Jonás Gutiérrez,/en/players/816fd91c/Jonas-Gutierrez,Jonas-Gutierrez,816fd91c,ar ARG,MF,Mallorca
+1781.0,Cristiano Doni,/en/players/4b6a7e60/Cristiano-Doni,Cristiano-Doni,4b6a7e60,it ITA,MF,Mallorca
+1782.0,José Nunes,/en/players/adacff32/Jose-Nunes,Jose-Nu,dacff32,pt POR,DF,Mallorca
+1783.0,Francisco Maciel,/en/players/09b9b9e6/Francisco-Maciel,Francisco-Maci,09b9b9e6,ar ARG,DF,Mallorca
+1784.0,Alessandro Potenza,/en/players/58e1cadb/Alessandro-Potenza,Alessandro-Potenz,58e1cadb,it ITA,DF,Mallorca
+1785.0,Angelos Basinas,/en/players/0d9168da/Angelos-Basinas,Angelos-Basi,0d9168da,gr GRE,MF,Mallorca
+1786.0,Leonardo Pisculichi,/en/players/3d1d62dd/Leonardo-Pisculichi,Leonardo-Pisculichi,3d1d62dd,ar ARG,"FW,MF",Mallorca
+1787.0,Eduardo Tuzzio,/en/players/096c45ee/Eduardo-Tuzzio,Eduardo-Tuzzio,096c45ee,ar ARG,DF,Mallorca
+1788.0,Borja Fernández,/en/players/9127f9ce/Borja-Fernandez,Borja-Fernandez,9127f9ce,es ESP,MF,Mallorca
+1789.0,Yordi,/en/players/8cbb78fb/Yordi,Yordi,8cbb78fb,es ESP,FW,Mallorca
+1790.0,Adrián Peralta,/en/players/14132846/Adrian-Peralta,Adrian-Peralt,14132846,ar ARG,MF,Mallorca
+1791.0,Lampros Choutos,/en/players/0a296ab6/Lampros-Choutos,Lampros-Chouto,0a296ab6,gr GRE,"FW,MF",Mallorca
+1792.0,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,Braulio-Nobreg,6e02869d,es ESP,FW,Mallorca
+1793.0,Rafita,/en/players/631f177b/Rafita,Rafit,631f177b,es ESP,DF,Mallorca
+1794.0,Toni Muñoz,/en/players/24bc65f8/Toni-Munoz,Toni-Munoz,24bc65f8,es ESP,FW,Mallorca
+1795.0,Héctor Berenguel,/en/players/ff6f0518/Hector-Berenguel,Hector-Berengu,ff6f0518,es ESP,DF,Mallorca
+1796.0,Boško Janković,/en/players/7b17d906/Bosko-Jankovic,Bosko-Jankovic,7b17d906,rs SRB,MF,Mallorca
+1797.0,Maxi López,/en/players/ad469944/Maxi-Lopez,Maxi-Lopez,d469944,ar ARG,FW,Mallorca
+1798.0,Jordi López,/en/players/b6fe8a4c/Jordi-Lopez,Jordi-Lopez,b6fe8a4c,es ESP,MF,Mallorca
+1799.0,Diego Tristán,/en/players/e63209c5/Diego-Tristan,Diego-Trist,63209c5,es ESP,FW,Mallorca
+1800.0,Daniel N'Gom Kome,/en/players/8076455d/Daniel-NGom-Kome,Daniel-NGom-Kom,8076455d,cm CMR,MF,Mallorca
+1801.0,Javier Dorado,/en/players/1cfbd665/Javier-Dorado,Javier-Dorado,1cfbd665,es ESP,DF,Mallorca
+1802.0,Óscar Trejo,/en/players/fc647b34/Oscar-Trejo,Oscar-Trejo,fc647b34,ar ARG,"FW,MF",Mallorca
+1803.0,Dani Güiza,/en/players/d863ea53/Dani-Guiza,Dani-Guiz,d863ea53,es ESP,FW,Mallorca
+1804.0,Fernando Varela,/en/players/d7b759af/Fernando-Varela,Fernando-V,d7b759af,es ESP,"DF,MF",Mallorca
+1805.0,David Navarro,/en/players/5dbdb37b/David-Navarro,David-Navarro,5dbdb37b,es ESP,DF,Mallorca
+1806.0,Germán Lux,/en/players/14ed837f/German-Lux,German-Lux,14ed837f,ar ARG,GK,Mallorca
+1807.0,Pierre Webó,/en/players/3d6f05ea/Pierre-Webo,Pierre-Webo,3d6f05ea,cm CMR,FW,Mallorca
+1808.0,Lionel Scaloni,/en/players/6cc4990c/Lionel-Scaloni,Lionel-Scaloni,6cc4990c,ar ARG,"DF,MF",Mallorca
+1809.0,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,Francisco-Molinero,2cea96ce,es ESP,DF,Mallorca
+1810.0,Chory Castro,/en/players/8cc3d96e/Chory-Castro,Chory-Castro,8cc3d96e,uy URU,"FW,MF",Mallorca
+1811.0,Emilio Nsue,/en/players/1c9bc4fa/Emilio-Nsue,Emilio-Nsu,1c9bc4fa,gq EQG,"DF,FW",Mallorca
+1812.0,Alberto López Arteseros,/en/players/cccc2c32/Alberto-Lopez-Arteseros,Alberto-Lopez-Artesero,cccc2c32,es ESP,MF,Mallorca
+1813.0,Aritz Aduriz,/en/players/293211e1/Aritz-Aduriz,Aritz-Aduriz,293211e1,es ESP,FW,Mallorca
+1814.0,José Luis Martí,/en/players/111c668a/Jose-Luis-Marti,Jose-Luis-Marti,111c668a,es ESP,MF,Mallorca
+1815.0,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,Jose-Manuel-Jurado,71d4e271,es ESP,MF,Mallorca
+1816.0,Cléber Santana,/en/players/bed73c6e/Cleber-Santana,Cleber-Sant,bed73c6e,br BRA,MF,Mallorca
+1817.0,Enrique Corrales,/en/players/a8dbcf66/Enrique-Corrales,Enrique-Co,8dbcf66,es ESP,DF,Mallorca
+1818.0,Josemi,/en/players/e85dd0fc/Josemi,Josemi,85dd0fc,es ESP,DF,Mallorca
+1819.0,Mario Suárez,/en/players/7106f0a0/Mario-Suarez,Mario-Suarez,7106f0a0,es ESP,MF,Mallorca
+1820.0,Ayoze Díaz Díaz,/en/players/b7209bcc/Ayoze-Diaz-Diaz,Ayoze-Diaz-Diaz,b7209bcc,es ESP,"DF,MF",Mallorca
+1821.0,Dudu Aouate,/en/players/4d1b3701/Dudu-Aouate,Dudu-Aouat,4d1b3701,il ISR,GK,Mallorca
+1822.0,Alhassane Keita,/en/players/7676df3f/Alhassane-Keita,Alhassane-Keit,7676df3f,gn GUI,FW,Mallorca
+1823.0,Juanmi Callejón,/en/players/60bb7e62/Juanmi-Callejon,Juanmi-Callejo,60bb7e62,es ESP,MF,Mallorca
+1824.0,Borja Valero,/en/players/0e21fc3c/Borja-Valero,Borja-Valero,0e21fc3c,es ESP,MF,Mallorca
+1825.0,Julio Álvarez,/en/players/17b1a0ee/Julio-Alvarez,Julio-Alvarez,17b1a0ee,ve VEN,MF,Mallorca
+1826.0,Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Mallorca
+1827.0,Felipe Mattioni,/en/players/8dbe6343/Felipe-Mattioni,Felipe-Mattioni,8dbe6343,br BRA,DF,Mallorca
+1828.0,Bruno China,/en/players/d50f641c/Bruno-China,Bruno-Chi,d50f641c,pt POR,"DF,MF",Mallorca
+1829.0,Paulo Pezzolano,/en/players/b1c343d4/Paulo-Pezzolano,Paulo-Pezzolano,b1c343d4,uy URU,"FW,MF",Mallorca
+1830.0,Tomás Pina Isla,/en/players/e54bd0a2/Tomas-Pina-Isla,Tomas-Pina-I,54bd0a2,es ESP,MF,Mallorca
+1831.0,Jonathan de Guzmán,/en/players/1bcca8b8/Jonathan-de-Guzman,Jonathan-de-Guzm,1bcca8b8,nl NED,MF,Mallorca
+1832.0,Pau Cendrós,/en/players/9b9c9388/Pau-Cendros,Pau-Cendro,9b9c9388,es ESP,DF,Mallorca
+1833.0,Michael Pereira,/en/players/2969ccd2/Michael-Pereira,Michael-Perei,2969ccd2,fr FRA,"FW,MF",Mallorca
+1834.0,João Victor,/en/players/dbc94b4c/Joao-Victor,Joao-Victo,dbc94b4c,br BRA,"DF,MF",Mallorca
+1835.0,Kevin,/en/players/38ccaadc/Kevin,Kevi,38ccaadc,es ESP,DF,Mallorca
+1836.0,Sergio Tejera,/en/players/3d5734ef/Sergio-Tejera,Sergio-Tej,3d5734ef,es ESP,MF,Mallorca
+1837.0,Fernando Cavenaghi,/en/players/d34453a9/Fernando-Cavenaghi,Fernando-Cavenaghi,d34453a9,ar ARG,FW,Mallorca
+1838.0,Edson Ratinho,/en/players/1f59bef7/Edson-Ratinho,Edson-Ratinho,1f59bef7,br BRA,"DF,MF",Mallorca
+1839.0,Akihiro Ienaga,/en/players/69dab98d/Akihiro-Ienaga,Akihiro-Ienag,69dab98d,jp JPN,"FW,MF",Mallorca
+1840.0,Martí Crespí,/en/players/bb2d18be/Marti-Crespi,Marti-Crespi,bb2d18be,es ESP,DF,Mallorca
+1841.0,Sergi Enrich,/en/players/bb4b1242/Sergi-Enrich,Sergi-Enrich,bb4b1242,es ESP,"FW,MF",Mallorca
+1842.0,Chico,/en/players/95825cf2/Chico,Chico,95825cf2,es ESP,DF,Mallorca
+1843.0,Pablo Cáceres,/en/players/781de8f2/Pablo-Caceres,Pablo-Cac,781de8f2,uy URU,DF,Mallorca
+1844.0,Fernando Tissone,/en/players/e224238d/Fernando-Tissone,Fernando-Tisso,224238d,ar ARG,MF,Mallorca
+1845.0,Tomer Hemed,/en/players/27d7453c/Tomer-Hemed,Tomer-Hemed,27d7453c,il ISR,FW,Mallorca
+1846.0,Alejandro Alfaro,/en/players/7c293728/Alejandro-Alfaro,Alejandro-Alfaro,7c293728,es ESP,"FW,MF",Mallorca
+1847.0,Pedro Bigas,/en/players/697295b1/Pedro-Bigas,Pedro-Big,697295b1,es ESP,"DF,MF",Mallorca
+1848.0,Álvaro Giménez,/en/players/18017beb/Alvaro-Gimenez,Alvaro-Gimenez,18017beb,es ESP,"FW,MF",Mallorca
+1849.0,Gianni Zuiverloon,/en/players/22d7fe43/Gianni-Zuiverloon,Gianni-Zuiverloo,22d7fe43,nl NED,DF,Mallorca
+1850.0,Marvin Ogunjimi,/en/players/93c93fd1/Marvin-Ogunjimi,Marvin-Ogunjimi,93c93fd1,be BEL,FW,Mallorca
+1851.0,Juan Calatayud,/en/players/f1714283/Juan-Calatayud,Juan-Calatayud,f1714283,es ESP,GK,Mallorca
+1852.0,Pablo Marí,/en/players/aa54ec6f/Pablo-Mari,Pablo-Mari,54ec6f,es ESP,DF,Mallorca
+1853.0,Abdón Prats,/en/players/d1b060e2/Abdon-Prats,Abdon-Prat,d1b060e2,es ESP,FW,Mallorca
+1854.0,Pedro Geromel,/en/players/78f81520/Pedro-Geromel,Pedro-Gerom,78f81520,br BRA,DF,Mallorca
+1855.0,Giovani dos Santos,/en/players/7dba6233/Giovani-dos-Santos,Giovani-dos-Santo,7dba6233,mx MEX,"FW,MF",Mallorca
+1856.0,Javi Márquez,/en/players/40c7cdd2/Javi-Marquez,Javi-Marquez,40c7cdd2,es ESP,MF,Mallorca
+1857.0,Alan Hutton,/en/players/688ae34c/Alan-Hutton,Alan-Hutto,688ae34c,sct SCO,DF,Mallorca
+1858.0,Anderson Conceição,/en/players/d50b1371/Anderson-Conceicao,Anderson-Conceicao,d50b1371,br BRA,DF,Mallorca
+1859.0,Ximo Navarro,/en/players/8db394aa/Ximo-Navarro,Ximo-Navarro,8db394aa,es ESP,DF,Mallorca
+1860.0,Antonio Luna,/en/players/ed239245/Antonio-Luna,Antonio-Lu,d239245,es ESP,DF,Mallorca
+1861.0,Antonio López,/en/players/e55190d5/Antonio-Lopez,Antonio-Lopez,55190d5,es ESP,"DF,MF",Mallorca
+1862.0,Javier Arizmendi,/en/players/14a6c075/Javier-Arizmendi,Javier-Arizmendi,14a6c075,es ESP,"FW,MF",Mallorca
+1863.0,Andreu Fontàs,/en/players/0f138d5a/Andreu-Fontas,Andreu-Font,0f138d5a,es ESP,DF,Mallorca
+1864.0,Marc Fernández,/en/players/9c3ef867/Marc-Fernandez,Marc-Fernandez,9c3ef867,es ESP,"FW,MF",Mallorca
+1865.0,Rubén Miño,/en/players/60afe7a3/Ruben-Mino,Ruben-Mino,60afe7a3,es ESP,GK,Mallorca
+1866.0,Brandon,/en/players/3e016e5a/Brandon,Brando,3e016e5a,es ESP,"FW,MF",Mallorca
+1867.0,Charlie Took,/en/players/9a7434c7/Charlie-Took,Charlie-Took,9a7434c7,cm CMR,DF,Mallorca
+1868.0,Gerard Moreno,/en/players/81f0781e/Gerard-Moreno,Gerard-Moreno,81f0781e,es ESP,FW,Mallorca
+1869.0,Agus,/en/players/ef7a542c/Agus,Agu,f7a542c,es ESP,"DF,FW",Mallorca
+1870.0,Álex Moreno,/en/players/16e9d0ea/Alex-Moreno,Alex-Moreno,16e9d0ea,es ESP,"DF,MF",Mallorca
+1871.0,Marco Asensio,/en/players/45af8a54/Marco-Asensio,Marco-Asensio,45af8a54,es ESP,"FW,MF",Mallorca
+1872.0,David Generelo,/en/players/2ae48997/David-Generelo,David-Generelo,2ae48997,es ESP,MF,Mallorca
+1873.0,Iñigo Pérez,/en/players/bc61cc65/Inigo-Perez,Inigo-Perez,bc61cc65,es ESP,MF,Mallorca
+1874.0,Iriney,/en/players/09296fcc/Iriney,Iri,09296fcc,br BRA,MF,Mallorca
+1875.0,Miguel Garcia,/en/players/5f164e2e/Miguel-Garcia,Miguel-Garci,5f164e2e,pt POR,DF,Mallorca
+1876.0,Liassine Cadamuro,/en/players/e3a83cb9/Liassine-Cadamuro,Liassine-Cadamuro,3a83cb9,dz ALG,DF,Mallorca
+1877.0,Martí Riverola,/en/players/4de54dcf/Marti-Riverola,Marti-Rivero,4de54dcf,es ESP,MF,Mallorca
+1878.0,Alexandre Geijo,/en/players/c0787e61/Alexandre-Geijo,Alexandre-Geijo,c0787e61,es ESP,FW,Mallorca
+1879.0,Aleksandr Valuyskiy,/en/players/1ac43026/Aleksandr-Valuyskiy,Aleksandr-Valuyski,1ac43026,ru RUS,MF,Mallorca
+1880.0,Abdoul Camara,/en/players/07296190/Abdoul-Camara,Abdoul-Cam,07296190,gn GUI,"FW,MF",Mallorca
+1881.0,Biel Company,/en/players/167890bd/Biel-Company,Biel-Com,167890bd,es ESP,DF,Mallorca
+1882.0,Nikola Gulan,/en/players/24a741ac/Nikola-Gulan,Nikola-Gu,24a741ac,rs SRB,"DF,MF",Mallorca
+1883.0,Manuel Arana,/en/players/81fac4d9/Manuel-Arana,Manuel-A,81fac4d9,es ESP,MF,Mallorca
+1884.0,Cristian Bustos,/en/players/ccb6ae73/Cristian-Bustos,Cristian-Busto,ccb6ae73,es ESP,MF,Mallorca
+1885.0,Kasim Nuhu,/en/players/93a50d2c/Kasim-Nuhu,Kasim-Nuhu,93a50d2c,gh GHA,DF,Mallorca
+1886.0,Joan Truyols,/en/players/af43f64f/Joan-Truyols,Joan-Truyo,f43f64f,es ESP,DF,Mallorca
+1887.0,Héctor Yuste,/en/players/f50a668a/Hector-Yuste,Hector-Yust,f50a668a,es ESP,"DF,MF",Mallorca
+1888.0,Xisco,/en/players/d2790f7a/Xisco,Xisco,d2790f7a,es ESP,FW,Mallorca
+1889.0,Fofo,/en/players/f2097539/Fofo,Fofo,f2097539,es ESP,FW,Mallorca
+1890.0,Joselu,/en/players/a5e9c273/Joselu,Joselu,5e9c273,es ESP,FW,Mallorca
+1891.0,Enric Saborit,/en/players/eb5bc3eb/Enric-Saborit,Enric-Saborit,b5bc3eb,es ESP,DF,Mallorca
+1892.0,Marko Šćepović,/en/players/1eec640e/Marko-Scepovic,Marko-Scepovic,1eec640e,rs SRB,FW,Mallorca
+1893.0,Javier Ros,/en/players/6b2f1a78/Javier-Ros,Javier-Ro,6b2f1a78,es ESP,MF,Mallorca
+1894.0,Filip Marković,/en/players/f289063d/Filip-Markovic,Filip-Markovic,f289063d,rs SRB,MF,Mallorca
+1895.0,Juan Cifré Navas,/en/players/8bc78e50/Juan-Cifre-Navas,Juan-Cifre-Nav,8bc78e50,es ESP,DF,Mallorca
+1896.0,Damià Sabater,/en/players/a7a0024a/Damia-Sabater,Damia-Sabat,7a0024a,es ESP,MF,Mallorca
+1897.0,Gabri García,/en/players/ed94a7aa/Gabri-Garcia,Gabri-Garci,d94a7aa,es ESP,"DF,MF",Mallorca
+1898.0,Gai Assulin,/en/players/ba776102/Gai-Assulin,Gai-Assuli,ba776102,il ISR,MF,Mallorca
+1899.0,Alexandre Coeff,/en/players/c4065f40/Alexandre-Coeff,Alexandre-Coeff,c4065f40,fr FRA,"DF,MF",Mallorca
+1900.0,Tià Sastre,/en/players/bbab5179/Tia-Sastre,Tia-Sast,bbab5179,es ESP,MF,Mallorca
+1901.0,Steve Aldo One,/en/players/a8599c17/Steve-Aldo-One,Steve-Aldo-O,8599c17,cm CMR,DF,Mallorca
+1902.0,Enrique Royo,/en/players/d4c5280b/Enrique-Royo,Enrique-Royo,d4c5280b,es ESP,GK,Mallorca
+1903.0,Álex Vallejo,/en/players/017b4247/Alex-Vallejo,Alex-Vallejo,017b4247,es ESP,MF,Mallorca
+1904.0,﻿Lucas Aveldaño,/en/players/d120357b/Lucas-Aveldano,Lucas-Aveldano,d120357b,ar ARG,DF,Mallorca
+1905.0,Joan Oriol,/en/players/7ccb2ef6/Joan-Oriol,Joan-Orio,7ccb2ef6,es ESP,DF,Mallorca
+1906.0,Timon Wellenreuther,/en/players/2f18d0b8/Timon-Wellenreuther,Timon-Wellenreuth,2f18d0b8,de GER,GK,Mallorca
+1907.0,Abdoul Sissoko,/en/players/f7288611/Abdoul-Sissoko,Abdoul-Sissoko,f7288611,fr FRA,MF,Mallorca
+1908.0,Eduard Campabadal,/en/players/bbf23a57/Eduard-Campabadal,Eduard-Campabad,bbf23a57,es ESP,DF,Mallorca
+1909.0,David Costas,/en/players/545e2f01/David-Costas,David-Cost,545e2f01,es ESP,DF,Mallorca
+1910.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,"DF,FW",Mallorca
+1911.0,Lago Junior,/en/players/360d70f8/Lago-Junior,Lago-Junio,360d70f8,ci CIV,"FW,MF",Mallorca
+1912.0,Thierry Moutinho,/en/players/8e928063/Thierry-Moutinho,Thierry-Moutinho,8e928063,pt POR,MF,Mallorca
+1913.0,Rolando Bianchi,/en/players/11fcbfe7/Rolando-Bianchi,Rolando-Bianchi,11fcbfe7,it ITA,FW,Mallorca
+1914.0,Diogo Salomão,/en/players/45e4d136/Diogo-Salomao,Diogo-Salomao,45e4d136,pt POR,"FW,MF",Mallorca
+1915.0,Jesús Cabrero,/en/players/d5e95d46/Jesus-Cabrero,Jesus-Cabrero,d5e95d46,es ESP,GK,Mallorca
+1916.0,Ferran Corominas,/en/players/46d0c528/Ferran-Corominas,Ferran-Coromi,46d0c528,es ESP,"FW,MF",Mallorca
+1917.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Mallorca
+1918.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Mallorca
+1919.0,Pol Roigé,/en/players/508c4519/Pol-Roige,Pol-Roig,508c4519,es ESP,FW,Mallorca
+1920.0,Tobias Henneböle,/en/players/66ed6b48/Tobias-Hennebole,Tobias-Hennebo,66ed6b48,de GER,DF,Mallorca
+1921.0,James Davis Borikó,/en/players/f0412c22/James-Davis-Boriko,James-Davis-Boriko,f0412c22,gq EQG,DF,Mallorca
+1922.0,Benjamin Machini,/en/players/c81ff5d0/Benjamin-Machini,Benjamin-Machini,c81ff5d0,us USA,GK,Mallorca
+1923.0,Tomeu Nadal,/en/players/37452c75/Tomeu-Nadal,Tomeu-Nad,37452c75,es ESP,GK,Mallorca
+1924.0,Miquel Parera,/en/players/f9b42381/Miquel-Parera,Miquel-P,f9b42381,es ESP,GK,Mallorca
+1925.0,Joan Sastre Vanrell,/en/players/f9acf8bf/Joan-Sastre-Vanrell,Joan-Sastre-V,f9acf8bf,es ESP,DF,Mallorca
+1926.0,Emmanuel Culio,/en/players/170eb35b/Emmanuel-Culio,Emmanuel-Culio,170eb35b,ar ARG,MF,Mallorca
+1927.0,Juan Domínguez,/en/players/b85adf53/Juan-Dominguez,Juan-Dominguez,b85adf53,es ESP,MF,Mallorca
+1928.0,Antonio Raillo,/en/players/b857bd29/Antonio-Raillo,Antonio-Raillo,b857bd29,es ESP,DF,Mallorca
+1929.0,Roberto Santamaría,/en/players/bca21ef3/Roberto-Santamaria,Roberto-Santamari,bca21ef3,es ESP,GK,Mallorca
+1930.0,Juan Rodríguez,/en/players/25c3c939/Juan-Rodriguez,Juan-Rodriguez,25c3c939,es ESP,"MF,DF",Mallorca
+1931.0,Angeliño,/en/players/30941e96/Angelino,Angelino,30941e96,es ESP,"DF,MF",Mallorca
+1932.0,Saša Zdjelar,/en/players/bbddc31f/Sasa-Zdjelar,Sasa-Zdj,bbddc31f,rs SRB,MF,Mallorca
+1933.0,Ion Ansotegi,/en/players/72b26e8e/Ion-Ansotegi,Ion-Ansotegi,72b26e8e,es ESP,DF,Mallorca
+1934.0,Julio Pleguezuelo,/en/players/2950c47b/Julio-Pleguezuelo,Julio-Pleguezuelo,2950c47b,es ESP,DF,Mallorca
+1935.0,Saúl García,/en/players/dafa5038/Saul-Garcia,Saul-Garci,dafa5038,es ESP,DF,Mallorca
+1936.0,Juanjo Nieto,/en/players/b4511ba0/Juanjo-Nieto,Juanjo-Nieto,b4511ba0,es ESP,DF,Mallorca
+1937.0,Adrián Dalmau,/en/players/7330f886/Adrian-Dalmau,Adrian-Dalmau,7330f886,es ESP,"MF,FW",Mallorca
+1938.0,Adrián Colunga,/en/players/2212dd4e/Adrian-Colunga,Adrian-Colung,2212dd4e,es ESP,FW,Mallorca
+1939.0,Ángel Sánchez,/en/players/ddd83967/Angel-Sanchez,Angel-Sanchez,ddd83967,es ESP,FW,Mallorca
+1940.0,Cedric Omoigui,/en/players/29fa334d/Cedric-Omoigui,Cedric-Omoigui,29fa334d,ng NGA,FW,Mallorca
+1941.0,Jaume,/en/players/e0e65765/Jaume,Jaum,0e65765,es ESP,GK,Mallorca
+1942.0,Alberto López,/en/players/c0de5ff5/Alberto-Lopez,Alberto-Lopez,c0de5ff5,es ESP,DF,Mallorca
+1943.0,﻿José Ángel Alonso,/en/players/1950ed97/Jose-Angel-Alonso,Jose-Angel-Alonso,1950ed97,es ESP,DF,Mallorca
+1944.0,Fernando Cano,/en/players/d18b8659/Fernando-Cano,Fernando-Cano,d18b8659,es ESP,MF,Mallorca
+1945.0,Pierre Cornud,/en/players/edeb21ff/Pierre-Cornud,Pierre-Cornud,deb21ff,fr FRA,DF,Mallorca
+1946.0,Miguel Núñez,/en/players/e6c70f2f/Miguel-Nunez,Miguel-Nunez,6c70f2f,es ESP,MF,Mallorca
+1947.0,Rufo,/en/players/00174fb2/Rufo,Rufo,00174fb2,es ESP,"FW,MF",Mallorca
+1948.0,Álex Serrano,/en/players/c8b5d6d3/Alex-Serrano,Alex-Serrano,c8b5d6d3,es ESP,"FW,MF",Mallorca
+1949.0,Ferrán Giner Peris,/en/players/aede3ce0/Ferran-Giner-Peris,Ferran-Giner-Peri,de3ce0,es ESP,FW,Mallorca
+1950.0,Salva Sevilla,/en/players/75bd85ea/Salva-Sevilla,Salva-Sevi,75bd85ea,es ESP,MF,Mallorca
+1951.0,Manolo Reina,/en/players/605eb473/Manolo-Reina,Manolo-Rei,605eb473,es ESP,GK,Mallorca
+1952.0,Brayan Reyna,/en/players/f383829b/Brayan-Reyna,Brayan-R,f383829b,pe PER,MF,Mallorca
+1953.0,Dani Rodríguez,/en/players/70f8e0bd/Dani-Rodriguez,Dani-Rodriguez,70f8e0bd,es ESP,MF,Mallorca
+1954.0,Marc Pedraza,/en/players/ff8f26ef/Marc-Pedraza,Marc-Pedraz,ff8f26ef,es ESP,MF,Mallorca
+1955.0,Martin Valjent,/en/players/f2c6ac01/Martin-Valjent,Martin-Valjent,f2c6ac01,sk SVK,DF,Mallorca
+1956.0,Ariday Cabrera,/en/players/206b11c5/Ariday-Cabrera,Ariday-Cab,206b11c5,es ESP,"MF,FW",Mallorca
+1957.0,Fran Gámez,/en/players/2e3406ae/Fran-Gamez,Fran-Gamez,2e3406ae,es ESP,DF,Mallorca
+1958.0,Salva Ruiz,/en/players/e36f9794/Salva-Ruiz,Salva-Ruiz,36f9794,es ESP,DF,Mallorca
+1959.0,Ante Budimir,/en/players/8f3565b3/Ante-Budimir,Ante-Budimi,8f3565b3,hr CRO,FW,Mallorca
+1960.0,Pervis Estupiñán,/en/players/d38fdf53/Pervis-Estupinan,Pervis-Estupi,d38fdf53,ec ECU,DF,Mallorca
+1961.0,Álex López,/en/players/8e492949/Alex-Lopez,Alex-Lopez,8e492949,es ESP,FW,Mallorca
+1962.0,Iddrisu Baba,/en/players/bfd381b3/Iddrisu-Baba,Iddrisu-Bab,bfd381b3,gh GHA,MF,Mallorca
+1963.0,Leonardo Suárez,/en/players/25c72b36/Leonardo-Suarez,Leonardo-Suarez,25c72b36,ar ARG,"MF,FW",Mallorca
+1964.0,Stoichkov,/en/players/4e257184/Stoichkov,Stoichkov,4e257184,es ESP,"FW,MF",Mallorca
+1965.0,Carlos Castro,/en/players/9bf4f036/Carlos-Castro,Carlos-Castro,9bf4f036,es ESP,FW,Mallorca
+1966.0,Pablo Valcarce,/en/players/f51ee65e/Pablo-Valcarce,Pablo-Valcarc,f51ee65e,es ESP,"MF,FW",Mallorca
+1967.0,Franco Russo,/en/players/b75ac54b/Franco-Russo,Franco-Russo,b75ac54b,ar ARG,DF,Mallorca
+1968.0,Merveille Ndockyt,/en/players/32b84cec/Merveille-Ndockyt,Merveille-Ndockyt,32b84cec,cg CGO,MF,Mallorca
+1969.0,Sergio Buenacasa,/en/players/f989b37f/Sergio-Buenacasa,Sergio-Buenac,f989b37f,es ESP,MF,Mallorca
+1970.0,Alejandro Faurlín,/en/players/594d286e/Alejandro-Faurlin,Alejandro-Faurli,594d286e,ar ARG,MF,Mallorca
+1971.0,Víctor De Baunbaug,/en/players/64af0801/Victor-De-Baunbaug,Victor-De-Baunbaug,64af0801,es ESP,FW,Mallorca
+1972.0,Leandro Montagud,/en/players/48b0e9b7/Leandro-Montagud,Leandro-Montagud,48b0e9b7,es ESP,GK,Mallorca
+1973.0,Pablo Ramon,/en/players/03cb6ca0/Pablo-Ramon,Pablo-Ramo,03cb6ca0,es ESP,DF,Mallorca
+1974.0,Takefusa Kubo,/en/players/16aa3654/Takefusa-Kubo,Takefusa-Kubo,16aa3654,jp JPN,MF,Mallorca
+1975.0,Aleix Febas,/en/players/38126309/Aleix-Febas,Aleix-Feb,38126309,es ESP,"MF,FW",Mallorca
+1976.0,Lumor Agbenyenu,/en/players/073b1b37/Lumor-Agbenyenu,Lumor-Agbenyenu,073b1b37,gh GHA,DF,Mallorca
+1977.0,Cucho,/en/players/71b47ab9/Cucho,Cucho,71b47ab9,co COL,"FW,MF",Mallorca
+1978.0,Alejandro Pozo Pozo,/en/players/3c16d927/Alejandro-Pozo-Pozo,Alejandro-Pozo-Pozo,3c16d927,es ESP,DF,Mallorca
+1979.0,Aleksandar Sedlar,/en/players/a35134ae/Aleksandar-Sedlar,Aleksandar-Sed,35134ae,rs SRB,DF,Mallorca
+1980.0,Baba Rahman,/en/players/e4086af3/Baba-Rahman,Baba-Rahm,4086af3,gh GHA,DF,Mallorca
+1981.0,Aleksandar Trajkovski,/en/players/84bba8b6/Aleksandar-Trajkovski,Aleksandar-Trajkovski,84bba8b6,mk MKD,"MF,FW",Mallorca
+1982.0,Pablo Chavarría,/en/players/4207e578/Pablo-Chavarria,Pablo-Chavarri,4207e578,ar ARG,"FW,MF",Mallorca
+1983.0,Josep Señé,/en/players/8fc259d7/Josep-Sene,Josep-S,8fc259d7,es ESP,MF,Mallorca
+1984.0,Leonardo Koutris,/en/players/114b510e/Leonardo-Koutris,Leonardo-Koutri,114b510e,gr GRE,DF,Mallorca
+1985.0,Fabricio,/en/players/af245161/Fabricio,Fabricio,f245161,es ESP,GK,Mallorca
+1986.0,Álex Alegría,/en/players/46166b49/Alex-Alegria,Alex-Alegri,46166b49,es ESP,FW,Mallorca
+1987.0,Yannis Salibur,/en/players/bb4a42be/Yannis-Salibur,Yannis-Salibu,bb4a42be,fr FRA,"MF,FW",Mallorca
+1988.0,Ki Sung-yueng,/en/players/1d8c99b0/Ki-Sung-yueng,Ki-Sung-yueng,1d8c99b0,kr KOR,MF,Mallorca
+1989.0,Luka Romero,/en/players/ca6edaa0/Luka-Romero,Luka-Romero,ca6edaa0,ar ARG,FW,Mallorca
+1990.0,Rafel Obrador,/en/players/949c3655/Rafel-Obrador,Rafel-Obrado,949c3655,es ESP,DF,Mallorca
+1991.0,Fran González,/en/players/ea04fa41/Fran-Gonzalez,Fran-Gonzalez,04fa41,es ESP,DF,Mallorca
+1992.0,Pere Joan,/en/players/a2b1bca6/Pere-Joan,Pere-Jo,2b1bca6,es ESP,GK,Mallorca
+1993.0,Jesús Ruiz,/en/players/e999605d/Jesus-Ruiz,Jesus-Ruiz,999605d,es ESP,GK,Mallorca
+1994.0,Amath,/en/players/f3b1d9a2/Amath,Amath,f3b1d9a2,sn SEN,"MF,FW",Mallorca
+1995.0,Brian Oliván,/en/players/a3e4bf46/Brian-Olivan,Brian-Oliv,3e4bf46,es ESP,DF,Mallorca
+1996.0,Antonio Sánchez,/en/players/a254bbe0/Antonio-Sanchez,Antonio-Sanchez,254bbe0,es ESP,MF,Mallorca
+1997.0,Iñigo Ruiz de Galarreta,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,Inigo-Ruiz-de-Galarret,91f7631f,es ESP,MF,Mallorca
+1998.0,Braian Cufré,/en/players/192c89a6/Braian-Cufre,Braian-Cuf,192c89a6,ar ARG,"DF,MF",Mallorca
+1999.0,Jordi Mboula,/en/players/4887118d/Jordi-Mboula,Jordi-Mbou,4887118d,es ESP,"MF,FW",Mallorca
+2000.0,Marc Cardona,/en/players/b92b456a/Marc-Cardona,Marc-Cardo,b92b456a,es ESP,FW,Mallorca
+2001.0,Murilo Costa,/en/players/85733f33/Murilo-Costa,Murilo-Cost,85733f33,br BRA,MF,Mallorca
+2002.0,Victor Mollejo,/en/players/23fffc06/Victor-Mollejo,Victor-Mollejo,23fffc06,es ESP,"MF,FW",Mallorca
+2003.0,Koke Vegas,/en/players/bfb15d99/Koke-Vegas,Koke-Veg,bfb15d99,es ESP,GK,Mallorca
+2004.0,Ivan Bravo,/en/players/b1cdbaa2/Ivan-Bravo,Ivan-Bravo,b1cdbaa2,es ESP,DF,Mallorca
+2005.0,Ibrahim Diabaté,/en/players/41463424/Ibrahim-Diabate,Ibrahim-Diabat,41463424,ci CIV,FW,Mallorca
+2006.0,Josep Antoni Gayá,/en/players/4a5f2032/Josep-Antoni-Gaya,Josep-Antoni-G,4a5f2032,es ESP,DF,Mallorca
+2007.0,Leonardo Román,/en/players/924ff27e/Leonardo-Roman,Leonardo-Rom,924ff27e,es ESP,GK,Mallorca
+2008.0,Pablo Maffeo,/en/players/5db04597/Pablo-Maffeo,Pablo-Maffeo,5db04597,es ESP,DF,Mallorca
+2009.0,Jaume Costa,/en/players/808d48f3/Jaume-Costa,Jaume-Cost,808d48f3,es ESP,DF,Mallorca
+2010.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,"FW,MF",Mallorca
+2011.0,Vedat Muriqi,/en/players/0cadc46d/Vedat-Muriqi,Vedat-Muriqi,0cadc46d,xk KVX,FW,Mallorca
+2012.0,Lee Kangin,/en/players/8455ad90/Lee-Kangin,Lee-Kangi,8455ad90,kr KOR,"MF,FW",Mallorca
+2013.0,Sergio Rico,/en/players/5f0241b2/Sergio-Rico,Sergio-Rico,5f0241b2,es ESP,GK,Mallorca
+2014.0,Rodrigo Battaglia,/en/players/d637fc22/Rodrigo-Battaglia,Rodrigo-Battagli,d637fc22,ar ARG,MF,Mallorca
+2015.0,Fernando Niño,/en/players/81d5c497/Fernando-Nino,Fernando-Nino,81d5c497,es ESP,FW,Mallorca
+2016.0,Giovanni González,/en/players/1fc474ae/Giovanni-Gonzalez,Giovanni-Gonzalez,1fc474ae,uy URU,DF,Mallorca
+2017.0,Matthew Hoppe,/en/players/1bc432b7/Matthew-Hoppe,Matthew-Ho,1bc432b7,us USA,"FW,MF",Mallorca
+2018.0,Dominik Greif,/en/players/30061f53/Dominik-Greif,Dominik-Greif,30061f53,sk SVK,GK,Mallorca
+2019.0,Clément Grenier,/en/players/8b298f56/Clement-Grenier,Clement-Greni,8b298f56,fr FRA,MF,Mallorca
+2020.0,Marc Carmona,/en/players/e085f0fa/Marc-Carmona,Marc-Carmo,085f0fa,es ESP,DF,Mallorca
+2021.0,Pablo Gálvez,/en/players/191a897a/Pablo-Galvez,Pablo-Galvez,191a897a,es ESP,FW,Mallorca
+2022.0,Tomás Giaquinto,/en/players/df44f120/Tomas-Giaquinto,Tomas-Giaquinto,df44f120,ar ARG,MF,Mallorca
+2023.0,Miguelito,/en/players/ebb24144/Miguelito,Miguelito,bb24144,es ESP,DF,Mallorca
+2024.0,Ferrán Quetglas,/en/players/103d9525/Ferran-Quetglas,Ferran-Quetg,103d9525,es ESP,GK,Mallorca

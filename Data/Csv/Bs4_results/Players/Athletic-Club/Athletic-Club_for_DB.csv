@@ -1,554 +1,554 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Joseba Etxeberria,es ESP,"FW,MF",33,32,6.0,14.0,2002-2003,756aa908,Athletic-Club,"2,736",30.4,5.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Ismael Urzaiz,es ESP,FW,31,29,4.0,14.0,2002-2003,3ceb9882,Athletic-Club,"2,638",29.3,9.0,1.0,43.0,1.0,1229.0,Athletic-Club
-,Javi González,es ESP,MF,31,29,3.0,0.0,2002-2003,b1e9277c,Athletic-Club,"2,618",29.1,3.0,0.0,43.0,1.0,1230.0,Athletic-Club
-,Bittor Alkiza,es ESP,MF,31,28,2.0,1.0,2002-2003,bfebd236,Athletic-Club,"2,585",28.7,9.0,0.0,43.0,1.0,,Athletic-Club
-,Santiago Ezquerro,es ESP,FW,35,28,3.0,11.0,2002-2003,c836203d,Athletic-Club,"2,468",27.4,5.0,0.0,43.0,1.0,,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",27,26,0.0,4.0,2002-2003,6920be59,Athletic-Club,"2,213",24.6,9.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Daniel Aranzubia,es ESP,GK,25,25,0.0,0.0,2002-2003,0e9ce3e0,Athletic-Club,"2,250",25.0,2.0,0.0,43.0,1.0,,Athletic-Club
-,Asier del Horno,es ESP,DF,24,22,2.0,4.0,2002-2003,b525f4a,Athletic-Club,"1,915",21.3,7.0,1.0,43.0,1.0,,Athletic-Club
-,Jesús María Lacruz,es ESP,DF,23,22,0.0,0.0,2002-2003,381989,Athletic-Club,"1,904",21.2,5.0,0.0,43.0,1.0,1232.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,28,22,8.0,6.0,2002-2003,8b3e6045,Athletic-Club,"1,698",18.9,5.0,0.0,43.0,1.0,1233.0,Athletic-Club
-,Aitor Karanka,es ESP,DF,24,21,1.0,2.0,2002-2003,f3bf77fc,Athletic-Club,"1,880",20.9,9.0,0.0,43.0,1.0,1234.0,Athletic-Club
-,Tiko,es ESP,MF,32,18,6.0,2.0,2002-2003,88a00d5d,Athletic-Club,"1,720",19.1,3.0,0.0,43.0,1.0,1235.0,Athletic-Club
-,Óscar Vales,es ESP,DF,23,17,0.0,0.0,2002-2003,f8ef72c8,Athletic-Club,"1,607",17.9,2.0,0.0,43.0,1.0,1236.0,Athletic-Club
-,Aitor Larrazábal,es ESP,DF,21,16,1.0,2.0,2002-2003,d84bc12f,Athletic-Club,"1,476",16.4,3.0,0.0,43.0,1.0,1237.0,Athletic-Club
-,Luis Prieto Zalbidegoitia,es ESP,DF,17,14,0.0,0.0,2002-2003,8ae9541e,Athletic-Club,"1,221",13.6,6.0,0.0,43.0,1.0,1238.0,Athletic-Club
-,Ander Murillo,es ESP,DF,18,14,1.0,0.0,2002-2003,878aa987,Athletic-Club,"1,200",13.3,2.0,0.0,43.0,1.0,,Athletic-Club
-,Joseba Arriaga,es ESP,FW,28,13,3.0,1.0,2002-2003,5819e0da,Athletic-Club,"1,389",15.4,2.0,0.0,43.0,1.0,1239.0,Athletic-Club
-,Iñaki Lafuente,es ESP,GK,13,13,0.0,0.0,2002-2003,1757556,Athletic-Club,"1,170",13.0,1.0,0.0,43.0,1.0,1240.0,Athletic-Club
-,Aitor Ocio,es ESP,DF,18,12,1.0,1.0,2002-2003,f1c8639b,Athletic-Club,"1,203",13.4,5.0,0.0,43.0,1.0,1241.0,Athletic-Club
-,César Caneda,es ESP,DF,10,8,0.0,0.0,2002-2003,1013adcf,Athletic-Club,713,7.9,6.0,0.0,43.0,1.0,1242.0,Athletic-Club
-,Julen Guerrero,es ESP,"FW,MF",14,3,0.0,0.0,2002-2003,8cb2c693,Athletic-Club,375,4.2,1.0,0.0,43.0,1.0,1243.0,Athletic-Club
-,Iñigo Larrainzar,es ESP,DF,5,3,0.0,0.0,2002-2003,4c7b1e6c,Athletic-Club,334,3.7,0.0,0.0,43.0,1.0,1244.0,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,5,3,1.0,0.0,2002-2003,3654d355,Athletic-Club,193,2.1,2.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,3,0,0.0,0.0,2002-2003,293211e1,Athletic-Club,56,0.6,0.0,0.0,43.0,1.0,,Athletic-Club
-,Felipe Guréndez,es ESP,MF,6,0,0.0,0.0,2002-2003,4f4973c3,Athletic-Club,41,0.5,1.0,0.0,43.0,1.0,1246.0,Athletic-Club
-,Carlos García,es ESP,"DF,MF",1,0,0.0,0.0,2002-2003,4227b136,Athletic-Club,4,0.0,0.0,0.0,43.0,1.0,1247.0,Athletic-Club
-,Igor Angulo,es ESP,"FW,MF",1,0,,0.0,2002-2003,5715f988,Athletic-Club,3,0.0,0.0,0.0,43.0,1.0,1248.0,Athletic-Club
-,﻿Daniel Aranzubia,es ESP,GK,34,34,0.0,0.0,2003-2004,0e9ce3e0,Athletic-Club,"3,060",34.0,3.0,0.0,43.0,1.0,,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",34,34,8.0,6.0,2003-2004,756aa908,Athletic-Club,"3,005",33.4,8.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Aitor Karanka,es ESP,DF,34,33,1.0,0.0,2003-2004,f3bf77fc,Athletic-Club,"2,922",32.5,4.0,1.0,43.0,1.0,1234.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",30,29,0.0,2.0,2003-2004,6920be59,Athletic-Club,"2,597",28.9,9.0,1.0,43.0,1.0,1231.0,Athletic-Club
-,Santiago Ezquerro,es ESP,FW,35,29,1.0,3.0,2003-2004,c836203d,Athletic-Club,"2,548",28.3,3.0,0.0,43.0,1.0,,Athletic-Club
-,Asier del Horno,es ESP,DF,31,29,3.0,5.0,2003-2004,b525f4a,Athletic-Club,"2,543",28.3,9.0,1.0,43.0,1.0,,Athletic-Club
-,Tiko,es ESP,MF,29,29,4.0,5.0,2003-2004,88a00d5d,Athletic-Club,"2,396",26.6,8.0,0.0,43.0,1.0,1235.0,Athletic-Club
-,Ismael Urzaiz,es ESP,FW,37,28,5.0,8.0,2003-2004,3ceb9882,Athletic-Club,"2,685",29.8,7.0,0.0,43.0,1.0,1229.0,Athletic-Club
-,Luis Prieto Zalbidegoitia,es ESP,DF,29,28,2.0,0.0,2003-2004,8ae9541e,Athletic-Club,"2,525",28.1,9.0,1.0,43.0,1.0,1238.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,30,24,5.0,11.0,2003-2004,8b3e6045,Athletic-Club,"2,060",22.9,8.0,0.0,43.0,1.0,1233.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",30,24,1.0,5.0,2003-2004,f4bbed41,Athletic-Club,"1,780",19.8,3.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Javi González,es ESP,MF,25,22,0.0,0.0,2003-2004,b1e9277c,Athletic-Club,"1,861",20.7,3.0,0.0,43.0,1.0,1230.0,Athletic-Club
-,Jesús María Lacruz,es ESP,DF,25,20,0.0,1.0,2003-2004,381989,Athletic-Club,"1,773",19.7,4.0,2.0,43.0,1.0,1232.0,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,25,17,2.0,0.0,2003-2004,3654d355,Athletic-Club,"1,638",18.2,3.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,Aitor Larrazábal,es ESP,DF,15,9,0.0,1.0,2003-2004,d84bc12f,Athletic-Club,854,9.5,3.0,0.0,43.0,1.0,1237.0,Athletic-Club
-,Jonan García,es ESP,MF,23,7,0.0,2.0,2003-2004,f569bf02,Athletic-Club,815,9.1,2.0,0.0,43.0,1.0,1250.0,Athletic-Club
-,César Caneda,es ESP,DF,10,7,1.0,0.0,2003-2004,1013adcf,Athletic-Club,637,7.1,2.0,0.0,43.0,1.0,1242.0,Athletic-Club
-,Iñaki Lafuente,es ESP,GK,4,4,0.0,0.0,2003-2004,1757556,Athletic-Club,360,4.0,0.0,0.0,43.0,1.0,1240.0,Athletic-Club
-,Joseba Arriaga,es ESP,FW,14,3,0.0,2.0,2003-2004,5819e0da,Athletic-Club,458,5.1,1.0,0.0,43.0,1.0,1239.0,Athletic-Club
-,Ander Murillo,es ESP,DF,4,2,0.0,0.0,2003-2004,878aa987,Athletic-Club,240,2.7,1.0,0.0,43.0,1.0,,Athletic-Club
-,Óscar Vales,es ESP,DF,2,2,0.0,0.0,2003-2004,f8ef72c8,Athletic-Club,171,1.9,2.0,0.0,43.0,1.0,1236.0,Athletic-Club
-,Julen Guerrero,es ESP,"FW,MF",14,1,0.0,1.0,2003-2004,8cb2c693,Athletic-Club,237,2.6,0.0,0.0,43.0,1.0,1243.0,Athletic-Club
-,Endika Bordas,es ESP,MF,9,1,0.0,0.0,2003-2004,ce394cc6,Athletic-Club,222,2.5,2.0,0.0,43.0,1.0,1251.0,Athletic-Club
-,Carlos Merino,es ESP,MF,1,0,0.0,0.0,2003-2004,443c8c9a,Athletic-Club,44,0.5,0.0,0.0,43.0,1.0,1252.0,Athletic-Club
-,Felipe Guréndez,es ESP,MF,2,0,0.0,0.0,2003-2004,4f4973c3,Athletic-Club,30,0.3,0.0,0.0,43.0,1.0,1246.0,Athletic-Club
-,﻿Daniel Aranzubia,es ESP,GK,37,37,0.0,0.0,2004-2005,0e9ce3e0,Athletic-Club,"3,302",36.7,3.0,1.0,43.0,1.0,,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,35,35,1.0,3.0,2004-2005,3654d355,Athletic-Club,"3,113",34.6,14.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",34,34,0.0,4.0,2004-2005,6920be59,Athletic-Club,"3,010",33.4,7.0,1.0,43.0,1.0,1231.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",34,31,6.0,4.0,2004-2005,f4bbed41,Athletic-Club,"2,747",30.5,4.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Santiago Ezquerro,es ESP,FW,32,31,2.0,11.0,2004-2005,c836203d,Athletic-Club,"2,611",29.0,1.0,0.0,43.0,1.0,,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",33,30,7.0,3.0,2004-2005,756aa908,Athletic-Club,"2,686",29.8,7.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Ander Murillo,es ESP,DF,31,29,0.0,0.0,2004-2005,878aa987,Athletic-Club,"2,577",28.6,7.0,0.0,43.0,1.0,,Athletic-Club
-,Luis Prieto Zalbidegoitia,es ESP,DF,30,28,1.0,0.0,2004-2005,8ae9541e,Athletic-Club,"2,498",27.8,9.0,1.0,43.0,1.0,1238.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,27,24,10.0,8.0,2004-2005,8b3e6045,Athletic-Club,"2,077",23.1,10.0,1.0,43.0,1.0,1233.0,Athletic-Club
-,Asier del Horno,es ESP,DF,29,23,4.0,3.0,2004-2005,b525f4a,Athletic-Club,"2,147",23.9,10.0,0.0,43.0,1.0,,Athletic-Club
-,Tiko,es ESP,MF,31,22,2.0,3.0,2004-2005,88a00d5d,Athletic-Club,"2,017",22.4,7.0,0.0,43.0,1.0,1235.0,Athletic-Club
-,Ismael Urzaiz,es ESP,FW,31,19,2.0,12.0,2004-2005,3ceb9882,Athletic-Club,"1,828",20.3,4.0,0.0,43.0,1.0,1229.0,Athletic-Club
-,Javier Casas,es ESP,DF,19,14,0.0,0.0,2004-2005,269e763d,Athletic-Club,"1,124",12.5,4.0,0.0,43.0,1.0,1253.0,Athletic-Club
-,Jesús María Lacruz,es ESP,DF,16,12,1.0,2.0,2004-2005,381989,Athletic-Club,"1,114",12.4,2.0,0.0,43.0,1.0,1232.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,15,9,0.0,3.0,2004-2005,82dbf623,Athletic-Club,818,9.1,1.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Javi González,es ESP,MF,10,7,0.0,0.0,2004-2005,b1e9277c,Athletic-Club,669,7.4,2.0,0.0,43.0,1.0,1230.0,Athletic-Club
-,Joseba Arriaga,es ESP,FW,14,7,1.0,0.0,2004-2005,5819e0da,Athletic-Club,644,7.2,0.0,0.0,43.0,1.0,1239.0,Athletic-Club
-,Jonan García,es ESP,MF,13,6,1.0,0.0,2004-2005,f569bf02,Athletic-Club,471,5.2,0.0,0.0,43.0,1.0,1250.0,Athletic-Club
-,Aitor Karanka,es ESP,DF,6,5,0.0,0.0,2004-2005,f3bf77fc,Athletic-Club,466,5.2,3.0,0.0,43.0,1.0,1234.0,Athletic-Club
-,Aritz Solabarrieta,es ESP,MF,11,3,0.0,0.0,2004-2005,d9124b81,Athletic-Club,324,3.6,1.0,0.0,43.0,1.0,1255.0,Athletic-Club
-,César Caneda,es ESP,DF,7,3,0.0,0.0,2004-2005,1013adcf,Athletic-Club,323,3.6,1.0,0.0,43.0,1.0,1242.0,Athletic-Club
-,Felipe Guréndez,es ESP,MF,4,2,0.0,0.0,2004-2005,4f4973c3,Athletic-Club,148,1.6,0.0,0.0,43.0,1.0,1246.0,Athletic-Club
-,Igor Angulo,es ESP,"FW,MF",3,2,0.0,0.0,2004-2005,5715f988,Athletic-Club,142,1.6,0.0,0.0,43.0,1.0,1248.0,Athletic-Club
-,Endika Bordas,es ESP,MF,3,2,0.0,0.0,2004-2005,ce394cc6,Athletic-Club,106,1.2,0.0,0.0,43.0,1.0,1251.0,Athletic-Club
-,Gorka Azkorra,es ESP,FW,5,1,0.0,0.0,2004-2005,b6ba90f9,Athletic-Club,144,1.6,0.0,0.0,43.0,1.0,1256.0,Athletic-Club
-,Roberto Pampin,,GK,2,1,0.0,0.0,2004-2005,6cb7de4e,Athletic-Club,118,1.3,0.0,0.0,43.0,,,Athletic-Club
-,Jon Moya,es ESP,DF,2,1,,0.0,2004-2005,cb72eae9,Athletic-Club,92,1.0,1.0,0.0,43.0,1.0,1257.0,Athletic-Club
-,Julen Guerrero,es ESP,"FW,MF",12,0,0.0,3.0,2004-2005,8cb2c693,Athletic-Club,232,2.6,1.0,0.0,43.0,1.0,1243.0,Athletic-Club
-,﻿Pablo Orbaiz,es ESP,MF,36,36,2.0,3.0,2005-2006,3654d355,Athletic-Club,"3,228",35.9,10.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,Luis Prieto Zalbidegoitia,es ESP,DF,36,36,0.0,4.0,2005-2006,8ae9541e,Athletic-Club,"2,993",33.3,7.0,0.0,43.0,1.0,1238.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",38,34,3.0,3.0,2005-2006,f4bbed41,Athletic-Club,"3,169",35.2,1.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,35,34,13.0,4.0,2005-2006,8b3e6045,Athletic-Club,"2,877",32.0,9.0,0.0,43.0,1.0,1233.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",30,30,1.0,2.0,2005-2006,6920be59,Athletic-Club,"2,602",28.9,10.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Jesús María Lacruz,es ESP,DF,28,24,0.0,4.0,2005-2006,381989,Athletic-Club,"2,128",23.6,8.0,0.0,43.0,1.0,1232.0,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",29,24,2.0,3.0,2005-2006,756aa908,Athletic-Club,"1,973",21.9,7.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Javier Casas,es ESP,DF,24,21,0.0,2.0,2005-2006,269e763d,Athletic-Club,"1,802",20.0,4.0,1.0,43.0,1.0,1253.0,Athletic-Club
-,Iñaki Lafuente,es ESP,GK,20,20,0.0,0.0,2005-2006,1757556,Athletic-Club,"1,800",20.0,0.0,0.0,43.0,1.0,1240.0,Athletic-Club
-,Ander Murillo,es ESP,DF,26,19,1.0,0.0,2005-2006,878aa987,Athletic-Club,"1,909",21.2,3.0,0.0,43.0,1.0,,Athletic-Club
-,Unai Expósito,es ESP,DF,24,19,0.0,0.0,2005-2006,3aca2200,Athletic-Club,"1,747",19.4,5.0,1.0,43.0,1.0,1258.0,Athletic-Club
-,Daniel Aranzubia,es ESP,GK,18,18,0.0,0.0,2005-2006,0e9ce3e0,Athletic-Club,"1,620",18.0,0.0,0.0,43.0,1.0,,Athletic-Club
-,Ustaritz,es ESP,DF,18,18,1.0,0.0,2005-2006,49f85a05,Athletic-Club,"1,523",16.9,2.0,0.0,43.0,1.0,1259.0,Athletic-Club
-,Ismael Urzaiz,es ESP,FW,26,16,0.0,3.0,2005-2006,3ceb9882,Athletic-Club,"1,555",17.3,1.0,1.0,43.0,1.0,1229.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,15,15,0.0,0.0,2005-2006,b2bbc0ec,Athletic-Club,"1,111",12.3,8.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,15,13,2.0,6.0,2005-2006,293211e1,Athletic-Club,"1,122",12.5,3.0,0.0,43.0,1.0,,Athletic-Club
-,Fernando Llorente,es ESP,FW,22,12,3.0,2.0,2005-2006,82dbf623,Athletic-Club,"1,087",12.1,2.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Mikel Dañobeitia,es ESP,"DF,FW",22,8,0.0,1.0,2005-2006,79ef0c96,Athletic-Club,822,9.1,2.0,0.0,43.0,1.0,1261.0,Athletic-Club
-,Tiko,es ESP,MF,28,6,0.0,1.0,2005-2006,88a00d5d,Athletic-Club,879,9.8,4.0,0.0,43.0,1.0,1235.0,Athletic-Club
-,Ibón Gutiérrez,es ESP,MF,5,5,0.0,0.0,2005-2006,2354802e,Athletic-Club,450,5.0,0.0,0.0,43.0,1.0,1262.0,Athletic-Club
-,Julen Guerrero,es ESP,"FW,MF",17,4,0.0,0.0,2005-2006,8cb2c693,Athletic-Club,499,5.5,2.0,0.0,43.0,1.0,1243.0,Athletic-Club
-,Javi González,es ESP,MF,5,3,0.0,0.0,2005-2006,b1e9277c,Athletic-Club,216,2.4,0.0,0.0,43.0,1.0,1230.0,Athletic-Club
-,Javier Tarantino,es ESP,DF,3,2,0.0,0.0,2005-2006,0bf40bdb,Athletic-Club,158,1.8,2.0,2.0,43.0,1.0,1263.0,Athletic-Club
-,Endika Bordas,es ESP,MF,2,1,,0.0,2005-2006,ce394cc6,Athletic-Club,120,1.3,0.0,0.0,43.0,1.0,1251.0,Athletic-Club
-,Felipe Guréndez,es ESP,MF,1,0,0.0,1.0,2005-2006,4f4973c3,Athletic-Club,40,0.4,0.0,0.0,43.0,1.0,1246.0,Athletic-Club
-,Urko Arroyo,es ESP,FW,1,0,,0.0,2005-2006,9100ac46,Athletic-Club,7,0.1,0.0,0.0,43.0,1.0,1264.0,Athletic-Club
-,﻿Josu Sarriegi,es ESP,DF,36,36,0.0,0.0,2006-2007,cca08d01,Athletic-Club,"3,226",35.8,9.0,0.0,43.0,1.0,,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",35,35,5.0,5.0,2006-2007,f4bbed41,Athletic-Club,"3,104",34.5,5.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Javi Martínez,es ESP,"DF,MF",35,32,1.0,3.0,2006-2007,7f97771d,Athletic-Club,"2,784",30.9,6.0,0.0,43.0,1.0,1265.0,Athletic-Club
-,Ander Murillo,es ESP,DF,34,31,1.0,1.0,2006-2007,878aa987,Athletic-Club,"2,848",31.6,16.0,1.0,43.0,1.0,,Athletic-Club
-,Francisco Yeste,es ESP,MF,38,31,9.0,5.0,2006-2007,8b3e6045,Athletic-Club,"2,720",30.2,4.0,0.0,43.0,1.0,1233.0,Athletic-Club
-,Unai Expósito,es ESP,DF,31,29,1.0,0.0,2006-2007,3aca2200,Athletic-Club,"2,713",30.1,6.0,0.0,43.0,1.0,1258.0,Athletic-Club
-,Daniel Aranzubia,es ESP,GK,28,28,0.0,0.0,2006-2007,0e9ce3e0,Athletic-Club,"2,457",27.3,2.0,0.0,43.0,1.0,,Athletic-Club
-,Aritz Aduriz,es ESP,FW,34,27,3.0,9.0,2006-2007,293211e1,Athletic-Club,"2,399",26.7,4.0,3.0,43.0,1.0,,Athletic-Club
-,Igor Gabilondo,es ESP,MF,33,27,2.0,3.0,2006-2007,4ce0dff0,Athletic-Club,"2,154",23.9,3.0,1.0,43.0,1.0,203.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,27,21,0.0,0.0,2006-2007,b2bbc0ec,Athletic-Club,"1,786",19.8,11.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Ismael Urzaiz,es ESP,FW,32,20,0.0,8.0,2006-2007,3ceb9882,Athletic-Club,"1,787",19.9,5.0,0.0,43.0,1.0,1229.0,Athletic-Club
-,Luis Prieto Zalbidegoitia,es ESP,DF,19,18,0.0,2.0,2006-2007,8ae9541e,Athletic-Club,"1,582",17.6,4.0,0.0,43.0,1.0,1238.0,Athletic-Club
-,Javier Casas,es ESP,DF,19,18,1.0,0.0,2006-2007,269e763d,Athletic-Club,"1,392",15.5,2.0,1.0,43.0,1.0,1253.0,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",28,17,4.0,3.0,2006-2007,756aa908,Athletic-Club,"1,583",17.6,2.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Ustaritz,es ESP,DF,13,10,0.0,0.0,2006-2007,49f85a05,Athletic-Club,986,11.0,3.0,0.0,43.0,1.0,1259.0,Athletic-Club
-,Iñaki Lafuente,es ESP,GK,11,10,0.0,0.0,2006-2007,1757556,Athletic-Club,963,10.7,0.0,0.0,43.0,1.0,1240.0,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,9,9,0.0,0.0,2006-2007,3654d355,Athletic-Club,672,7.5,3.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,Javi González,es ESP,MF,11,8,0.0,0.0,2006-2007,b1e9277c,Athletic-Club,760,8.4,1.0,0.0,43.0,1.0,1230.0,Athletic-Club
-,Joseba Garmendia,es ESP,"DF,MF",16,6,0.0,1.0,2006-2007,d74abbc4,Athletic-Club,624,6.9,0.0,0.0,43.0,1.0,1266.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,23,2,0.0,2.0,2006-2007,82dbf623,Athletic-Club,459,5.1,0.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Tiko,es ESP,MF,5,1,0.0,0.0,2006-2007,88a00d5d,Athletic-Club,156,1.7,2.0,0.0,43.0,1.0,1235.0,Athletic-Club
-,Javier Iturriaga,mx MEX,MF,4,1,0.0,0.0,2006-2007,6925a533,Athletic-Club,106,1.2,1.0,0.0,43.0,20.0,1267.0,Athletic-Club
-,Mikel Dañobeitia,es ESP,"DF,FW",4,1,0.0,0.0,2006-2007,79ef0c96,Athletic-Club,88,1.0,0.0,0.0,43.0,1.0,1261.0,Athletic-Club
-,Iban Zubiaurre,es ESP,DF,1,0,0.0,0.0,2006-2007,be3e3e7e,Athletic-Club,33,0.4,0.0,0.0,43.0,1.0,,Athletic-Club
-,Gaizka Bergara,es ESP,DF,1,0,0.0,0.0,2006-2007,014adf5,Athletic-Club,14,0.2,1.0,0.0,43.0,1.0,1268.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,1,0,,0.0,2006-2007,b037bd4f,Athletic-Club,7,0.1,0.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,﻿Andoni Iraola,es ESP,"DF,MF",36,35,0.0,1.0,2007-2008,f4bbed41,Athletic-Club,"3,145",34.9,6.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,34,34,1.0,0.0,2007-2008,b2bbc0ec,Athletic-Club,"2,990",33.2,13.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Javi Martínez,es ESP,"DF,MF",34,33,1.0,1.0,2007-2008,7f97771d,Athletic-Club,"2,763",30.7,13.0,0.0,43.0,1.0,1265.0,Athletic-Club
-,Aitor Ocio,es ESP,DF,27,27,0.0,0.0,2007-2008,f1c8639b,Athletic-Club,"2,316",25.7,12.0,3.0,43.0,1.0,1241.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,35,25,3.0,11.0,2007-2008,82dbf623,Athletic-Club,"2,303",25.6,4.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Koikili Lertxundi,es ESP,DF,27,25,0.0,1.0,2007-2008,066272e4,Athletic-Club,"2,204",24.5,7.0,1.0,43.0,1.0,,Athletic-Club
-,Markel Susaeta,es ESP,MF,29,23,1.0,4.0,2007-2008,6fd1ba62,Athletic-Club,"1,990",22.1,8.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,24,21,0.0,3.0,2007-2008,8b3e6045,Athletic-Club,"1,736",19.3,7.0,1.0,43.0,1.0,1233.0,Athletic-Club
-,Igor Gabilondo,es ESP,MF,26,21,2.0,4.0,2007-2008,4ce0dff0,Athletic-Club,"1,718",19.1,2.0,0.0,43.0,1.0,203.0,Athletic-Club
-,David López,es ESP,MF,31,20,2.0,2.0,2007-2008,698164e,Athletic-Club,"1,953",21.7,4.0,0.0,43.0,1.0,1272.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,33,20,4.0,7.0,2007-2008,293211e1,Athletic-Club,"1,942",21.6,4.0,0.0,43.0,1.0,,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,23,20,0.0,0.0,2007-2008,3654d355,Athletic-Club,"1,726",19.2,8.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",25,20,2.0,4.0,2007-2008,756aa908,Athletic-Club,"1,525",16.9,5.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Armando,es ESP,GK,16,16,0.0,0.0,2007-2008,f8f7643,Athletic-Club,"1,422",15.8,3.0,0.0,43.0,1.0,1273.0,Athletic-Club
-,Ustaritz,es ESP,DF,19,14,0.0,0.0,2007-2008,49f85a05,Athletic-Club,"1,283",14.3,5.0,0.0,43.0,1.0,1259.0,Athletic-Club
-,Asier del Horno,es ESP,DF,16,13,1.0,0.0,2007-2008,b525f4a,Athletic-Club,"1,160",12.9,5.0,1.0,43.0,1.0,,Athletic-Club
-,Gorka Iraizoz,es ESP,GK,13,13,0.0,0.0,2007-2008,26f2473f,Athletic-Club,"1,121",12.5,3.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Daniel Aranzubia,es ESP,GK,10,9,0.0,0.0,2007-2008,0e9ce3e0,Athletic-Club,859,9.5,1.0,0.0,43.0,1.0,,Athletic-Club
-,Joseba Garmendia,es ESP,"DF,MF",18,8,1.0,1.0,2007-2008,d74abbc4,Athletic-Club,767,8.5,2.0,0.0,43.0,1.0,1266.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",5,5,0.0,0.0,2007-2008,6920be59,Athletic-Club,450,5.0,2.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Iñaki Muñoz,es ESP,MF,13,3,0.0,0.0,2007-2008,47a19ca1,Athletic-Club,502,5.6,2.0,0.0,43.0,1.0,1275.0,Athletic-Club
-,Ion Vélez,es ESP,FW,9,2,0.0,0.0,2007-2008,3a6c16de,Athletic-Club,315,3.5,0.0,0.0,43.0,1.0,1276.0,Athletic-Club
-,Aitor Ramos,es ESP,"FW,MF",5,2,0.0,0.0,2007-2008,900029f5,Athletic-Club,223,2.5,0.0,0.0,43.0,1.0,1277.0,Athletic-Club
-,Unai Expósito,es ESP,DF,3,2,0.0,0.0,2007-2008,3aca2200,Athletic-Club,200,2.2,0.0,0.0,43.0,1.0,1258.0,Athletic-Club
-,Tiko,es ESP,MF,2,2,0.0,0.0,2007-2008,88a00d5d,Athletic-Club,121,1.3,1.0,0.0,43.0,1.0,1235.0,Athletic-Club
-,David Cuéllar,es ESP,MF,7,1,0.0,0.0,2007-2008,d386f165,Athletic-Club,212,2.4,0.0,0.0,43.0,1.0,1278.0,Athletic-Club
-,Ander Murillo,es ESP,DF,6,1,0.0,0.0,2007-2008,878aa987,Athletic-Club,134,1.5,1.0,0.0,43.0,1.0,,Athletic-Club
-,Luis Prieto Zalbidegoitia,es ESP,DF,3,1,0.0,0.0,2007-2008,8ae9541e,Athletic-Club,95,1.1,0.0,0.0,43.0,1.0,1238.0,Athletic-Club
-,Iban Zubiaurre,es ESP,DF,1,1,0.0,0.0,2007-2008,be3e3e7e,Athletic-Club,90,1.0,0.0,0.0,43.0,1.0,,Athletic-Club
-,Urko Arroyo,es ESP,FW,1,1,,0.0,2007-2008,9100ac46,Athletic-Club,44,0.5,0.0,0.0,43.0,1.0,1264.0,Athletic-Club
-,﻿Gorka Iraizoz,es ESP,GK,36,36,0.0,0.0,2008-2009,26f2473f,Athletic-Club,"3,240",36.0,2.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,34,34,1.0,14.0,2008-2009,82dbf623,Athletic-Club,"2,846",31.6,3.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",33,33,1.0,6.0,2008-2009,f4bbed41,Athletic-Club,"2,936",32.6,5.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Javi Martínez,es ESP,"DF,MF",32,30,0.0,4.0,2008-2009,7f97771d,Athletic-Club,"2,584",28.7,9.0,1.0,43.0,1.0,1265.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,29,28,0.0,0.0,2008-2009,b2bbc0ec,Athletic-Club,"2,479",27.5,14.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Aitor Ocio,es ESP,DF,28,28,0.0,1.0,2008-2009,f1c8639b,Athletic-Club,"2,409",26.8,8.0,2.0,43.0,1.0,1241.0,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,30,27,0.0,1.0,2008-2009,3654d355,Athletic-Club,"2,361",26.2,12.0,2.0,43.0,1.0,1245.0,Athletic-Club
-,David López,es ESP,MF,29,26,4.0,3.0,2008-2009,698164e,Athletic-Club,"2,014",22.4,7.0,0.0,43.0,1.0,1272.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,34,24,3.0,1.0,2008-2009,6fd1ba62,Athletic-Club,"2,256",25.1,4.0,1.0,43.0,1.0,1271.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,28,24,5.0,3.0,2008-2009,8b3e6045,Athletic-Club,"1,983",22.0,7.0,3.0,43.0,1.0,1233.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,24,21,0.0,0.0,2008-2009,1fe67e86,Athletic-Club,"1,911",21.2,7.0,1.0,43.0,1.0,1279.0,Athletic-Club
-,Koikili Lertxundi,es ESP,DF,18,18,0.0,1.0,2008-2009,066272e4,Athletic-Club,"1,550",17.2,5.0,0.0,43.0,1.0,,Athletic-Club
-,Ion Vélez,es ESP,FW,29,17,3.0,3.0,2008-2009,3a6c16de,Athletic-Club,"1,566",17.4,2.0,0.0,43.0,1.0,1276.0,Athletic-Club
-,Igor Gabilondo,es ESP,MF,17,11,1.0,2.0,2008-2009,4ce0dff0,Athletic-Club,885,9.8,2.0,0.0,43.0,1.0,203.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",20,10,2.0,2.0,2008-2009,b78144a6,Athletic-Club,"1,174",13.0,4.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",19,10,1.0,0.0,2008-2009,6920be59,Athletic-Club,975,10.8,8.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Ustaritz,es ESP,DF,11,10,0.0,0.0,2008-2009,49f85a05,Athletic-Club,836,9.3,5.0,0.0,43.0,1.0,1259.0,Athletic-Club
-,Xabier Etxeita,es ESP,DF,14,8,0.0,1.0,2008-2009,4a895384,Athletic-Club,982,10.9,3.0,1.0,43.0,1.0,1281.0,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",22,7,0.0,2.0,2008-2009,756aa908,Athletic-Club,704,7.8,2.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Joseba Garmendia,es ESP,"DF,MF",11,5,0.0,1.0,2008-2009,d74abbc4,Athletic-Club,479,5.3,1.0,0.0,43.0,1.0,1266.0,Athletic-Club
-,Joseba del Olmo,es ESP,MF,10,2,0.0,1.0,2008-2009,41abf0c3,Athletic-Club,313,3.5,0.0,0.0,43.0,1.0,1282.0,Athletic-Club
-,Iñaki Muñoz,es ESP,MF,5,2,0.0,0.0,2008-2009,47a19ca1,Athletic-Club,249,2.8,2.0,0.0,43.0,1.0,1275.0,Athletic-Club
-,Armando,es ESP,GK,2,2,0.0,0.0,2008-2009,f8f7643,Athletic-Club,180,2.0,1.0,0.0,43.0,1.0,1273.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,4,1,0.0,0.0,2008-2009,6dce77a5,Athletic-Club,126,1.4,1.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Javier Casas,es ESP,DF,2,1,0.0,0.0,2008-2009,269e763d,Athletic-Club,100,1.1,0.0,0.0,43.0,1.0,1253.0,Athletic-Club
-,Eneko Bóveda,es ESP,DF,2,1,0.0,0.0,2008-2009,1771f2c1,Athletic-Club,93,1.0,0.0,0.0,43.0,1.0,,Athletic-Club
-,Adrien Goñi,es ESP,MF,1,1,0.0,0.0,2008-2009,c14fe8f1,Athletic-Club,45,0.5,0.0,0.0,43.0,1.0,1284.0,Athletic-Club
-,Ander Murillo,es ESP,DF,2,1,0.0,0.0,2008-2009,878aa987,Athletic-Club,33,0.4,1.0,0.0,43.0,1.0,,Athletic-Club
-,Iñigo Vélez,es ESP,FW,3,0,0.0,0.0,2008-2009,08cc09ee,Athletic-Club,55,0.6,0.0,0.0,43.0,1.0,1285.0,Athletic-Club
-,Xabi Etxebarria,es ESP,"DF,FW",1,0,0.0,0.0,2008-2009,c1af46d9,Athletic-Club,2,0.0,0.0,0.0,43.0,1.0,1286.0,Athletic-Club
-,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2009-2010,26f2473f,Athletic-Club,"3,330",37.0,4.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",37,37,0.0,2.0,2009-2010,f4bbed41,Athletic-Club,"3,218",35.8,7.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,37,35,4.0,14.0,2009-2010,82dbf623,Athletic-Club,"2,843",31.6,0.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,34,34,0.0,0.0,2009-2010,b2bbc0ec,Athletic-Club,"2,990",33.2,13.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Javi Martínez,es ESP,"DF,MF",34,34,1.0,6.0,2009-2010,7f97771d,Athletic-Club,"2,990",33.2,8.0,1.0,43.0,1.0,1265.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",34,30,0.0,1.0,2009-2010,6920be59,Athletic-Club,"2,434",27.0,5.0,2.0,43.0,1.0,1231.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",31,26,4.0,8.0,2009-2010,b78144a6,Athletic-Club,"2,195",24.4,6.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Mikel San José,es ESP,"DF,MF",25,24,0.0,1.0,2009-2010,003a5c72,Athletic-Club,"2,163",24.0,8.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,35,23,2.0,4.0,2009-2010,6fd1ba62,Athletic-Club,"2,324",25.8,7.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Koikili Lertxundi,es ESP,DF,21,20,1.0,0.0,2009-2010,066272e4,Athletic-Club,"1,727",19.2,6.0,1.0,43.0,1.0,,Athletic-Club
-,Xabier Castillo,hr CRO,DF,19,18,0.0,0.0,2009-2010,638dc43b,Athletic-Club,"1,595",17.7,4.0,0.0,43.0,16.0,,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,20,17,1.0,1.0,2009-2010,3654d355,Athletic-Club,"1,344",14.9,5.0,2.0,43.0,1.0,1245.0,Athletic-Club
-,Igor Gabilondo,es ESP,MF,26,16,3.0,3.0,2009-2010,4ce0dff0,Athletic-Club,"1,341",14.9,1.0,0.0,43.0,1.0,203.0,Athletic-Club
-,Ustaritz,es ESP,DF,15,15,0.0,1.0,2009-2010,49f85a05,Athletic-Club,"1,248",13.9,2.0,2.0,43.0,1.0,1259.0,Athletic-Club
-,Francisco Yeste,es ESP,MF,22,13,2.0,2.0,2009-2010,8b3e6045,Athletic-Club,"1,120",12.4,4.0,0.0,43.0,1.0,1233.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,15,11,1.0,0.0,2009-2010,6dce77a5,Athletic-Club,872,9.7,4.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,FW",19,9,0.0,1.0,2009-2010,9f323c71,Athletic-Club,924,10.3,1.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,David López,es ESP,MF,17,7,3.0,0.0,2009-2010,698164e,Athletic-Club,646,7.2,1.0,0.0,43.0,1.0,1272.0,Athletic-Club
-,Iker Muniain,es ESP,"FW,MF",26,4,2.0,4.0,2009-2010,c05dfb74,Athletic-Club,887,9.9,2.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Aitor Ocio,es ESP,DF,3,3,0.0,0.0,2009-2010,f1c8639b,Athletic-Club,270,3.0,2.0,0.0,43.0,1.0,1241.0,Athletic-Club
-,Joseba Etxeberria,es ESP,"FW,MF",7,2,0.0,0.0,2009-2010,756aa908,Athletic-Club,273,3.0,0.0,0.0,43.0,1.0,1228.0,Athletic-Club
-,Xabier Etxeita,es ESP,DF,3,1,0.0,0.0,2009-2010,4a895384,Athletic-Club,200,2.2,1.0,0.0,43.0,1.0,1281.0,Athletic-Club
-,Ion Vélez,es ESP,FW,2,1,0.0,0.0,2009-2010,3a6c16de,Athletic-Club,111,1.2,1.0,0.0,43.0,1.0,1276.0,Athletic-Club
-,Armando,es ESP,GK,1,1,0.0,0.0,2009-2010,f8f7643,Athletic-Club,90,1.0,0.0,0.0,43.0,1.0,1273.0,Athletic-Club
-,Iñigo Díaz de Cerio,es ESP,FW,5,0,0.0,0.0,2009-2010,757bd109,Athletic-Club,100,1.1,0.0,0.0,43.0,1.0,,Athletic-Club
-,Iñigo Pérez,es ESP,MF,3,0,0.0,0.0,2009-2010,bc61cc65,Athletic-Club,48,0.5,0.0,0.0,43.0,1.0,1290.0,Athletic-Club
-,Eneko Bóveda,es ESP,DF,1,0,0.0,0.0,2009-2010,1771f2c1,Athletic-Club,33,0.4,0.0,0.0,43.0,1.0,,Athletic-Club
-,Iñaki Muñoz,es ESP,MF,1,0,0.0,0.0,2009-2010,47a19ca1,Athletic-Club,31,0.3,0.0,0.0,43.0,1.0,1275.0,Athletic-Club
-,Isaac Aketxe,es ESP,"FW,MF",1,0,0.0,0.0,2009-2010,2085323,Athletic-Club,12,0.1,0.0,0.0,43.0,1.0,1291.0,Athletic-Club
-,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2010-2011,26f2473f,Athletic-Club,"3,330",37.0,5.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",37,37,6.0,4.0,2010-2011,f4bbed41,Athletic-Club,"3,289",36.5,6.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,38,37,2.0,18.0,2010-2011,82dbf623,Athletic-Club,"3,163",35.1,4.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Javi Martínez,es ESP,"DF,MF",35,35,2.0,4.0,2010-2011,7f97771d,Athletic-Club,"2,974",33.0,11.0,0.0,43.0,1.0,1265.0,Athletic-Club
-,Mikel San José,es ESP,"DF,MF",31,30,0.0,2.0,2010-2011,003a5c72,Athletic-Club,"2,674",29.7,10.0,1.0,43.0,1.0,1287.0,Athletic-Club
-,Iker Muniain,es ESP,"FW,MF",35,30,2.0,5.0,2010-2011,c05dfb74,Athletic-Club,"2,564",28.5,6.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",31,28,0.0,2.0,2010-2011,6920be59,Athletic-Club,"2,269",25.2,16.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",30,26,3.0,7.0,2010-2011,b78144a6,Athletic-Club,"2,060",22.9,4.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Borja Ekiza,es ESP,DF,21,21,0.0,0.0,2010-2011,6465e1c9,Athletic-Club,"1,890",21.0,1.0,0.0,43.0,1.0,1292.0,Athletic-Club
-,Pablo Orbaiz,es ESP,MF,26,18,2.0,1.0,2010-2011,3654d355,Athletic-Club,"1,672",18.6,3.0,0.0,43.0,1.0,1245.0,Athletic-Club
-,David López,es ESP,MF,28,17,6.0,6.0,2010-2011,698164e,Athletic-Club,"1,606",17.8,3.0,0.0,43.0,1.0,1272.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,17,16,0.0,0.0,2010-2011,b2bbc0ec,Athletic-Club,"1,389",15.4,7.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Koikili Lertxundi,es ESP,DF,16,16,0.0,0.0,2010-2011,066272e4,Athletic-Club,"1,343",14.9,5.0,1.0,43.0,1.0,,Athletic-Club
-,Markel Susaeta,es ESP,MF,28,15,4.0,1.0,2010-2011,6fd1ba62,Athletic-Club,"1,447",16.1,3.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Igor Gabilondo,es ESP,MF,29,10,4.0,5.0,2010-2011,4ce0dff0,Athletic-Club,"1,060",11.8,1.0,0.0,43.0,1.0,203.0,Athletic-Club
-,Xabier Castillo,hr CRO,DF,11,10,0.0,0.0,2010-2011,638dc43b,Athletic-Club,859,9.5,3.0,2.0,43.0,16.0,,Athletic-Club
-,Jon Aurtenetxe,es ESP,DF,10,9,1.0,0.0,2010-2011,74b0e3ce,Athletic-Club,805,8.9,5.0,1.0,43.0,1.0,,Athletic-Club
-,Ustaritz,es ESP,DF,10,8,0.0,0.0,2010-2011,49f85a05,Athletic-Club,733,8.1,3.0,1.0,43.0,1.0,1259.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,17,5,0.0,0.0,2010-2011,6dce77a5,Athletic-Club,564,6.3,5.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Igor Martínez,es ESP,"FW,MF",8,5,2.0,0.0,2010-2011,c68990c2,Athletic-Club,358,4.0,0.0,0.0,43.0,1.0,1293.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,FW",13,3,0.0,0.0,2010-2011,9f323c71,Athletic-Club,540,6.0,3.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Aitor Ocio,es ESP,DF,4,3,0.0,0.0,2010-2011,f1c8639b,Athletic-Club,279,3.1,1.0,0.0,43.0,1.0,1241.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,1,1,0.0,0.0,2010-2011,1fe67e86,Athletic-Club,90,1.0,1.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Raúl Fernández,es ESP,GK,1,1,0.0,0.0,2010-2011,6fb59070,Athletic-Club,90,1.0,0.0,0.0,43.0,1.0,1294.0,Athletic-Club
-,Ion Vélez,es ESP,FW,5,0,0.0,0.0,2010-2011,3a6c16de,Athletic-Club,112,1.2,0.0,0.0,43.0,1.0,1276.0,Athletic-Club
-,Urko Vera,es ESP,FW,5,0,0.0,1.0,2010-2011,d8cf0115,Athletic-Club,101,1.1,0.0,0.0,43.0,1.0,1295.0,Athletic-Club
-,Iñigo Pérez,es ESP,MF,3,0,0.0,1.0,2010-2011,bc61cc65,Athletic-Club,57,0.6,0.0,0.0,43.0,1.0,1290.0,Athletic-Club
-,Ibai Gómez,es ESP,"FW,MF",3,0,0.0,0.0,2010-2011,9d2a3d5f,Athletic-Club,37,0.4,0.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Iñigo Díaz de Cerio,es ESP,FW,2,0,0.0,0.0,2010-2011,757bd109,Athletic-Club,33,0.4,0.0,0.0,43.0,1.0,,Athletic-Club
-,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2011-2012,26f2473f,Athletic-Club,"3,330",37.0,0.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,38,34,5.0,6.0,2011-2012,6fd1ba62,Athletic-Club,"2,974",33.0,4.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,FW",34,34,4.0,4.0,2011-2012,9f323c71,Athletic-Club,"2,915",32.4,9.0,1.0,43.0,1.0,1288.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",35,32,3.0,1.0,2011-2012,f4bbed41,Athletic-Club,"2,947",32.7,8.0,1.0,43.0,1.0,1249.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,35,31,0.0,1.0,2011-2012,6dce77a5,Athletic-Club,"2,715",30.2,15.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Iker Muniain,es ESP,"FW,MF",33,30,2.0,2.0,2011-2012,c05dfb74,Athletic-Club,"2,650",29.4,6.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Javi Martínez,es ESP,"DF,MF",31,30,1.0,4.0,2011-2012,7f97771d,Athletic-Club,"2,555",28.4,12.0,3.0,43.0,1.0,1265.0,Athletic-Club
-,Jon Aurtenetxe,es ESP,DF,31,30,0.0,1.0,2011-2012,74b0e3ce,Athletic-Club,"2,493",27.7,10.0,0.0,43.0,1.0,,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,28,27,0.0,3.0,2011-2012,b2bbc0ec,Athletic-Club,"2,330",25.9,11.0,2.0,43.0,53.0,1260.0,Athletic-Club
-,Ander Herrera,es ESP,MF,32,25,8.0,1.0,2011-2012,436a9dd0,Athletic-Club,"2,136",23.7,10.0,0.0,43.0,1.0,1297.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,32,24,1.0,17.0,2011-2012,82dbf623,Athletic-Club,"2,232",24.8,0.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Mikel San José,es ESP,"DF,MF",24,15,0.0,2.0,2011-2012,003a5c72,Athletic-Club,"1,640",18.2,6.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",35,15,5.0,4.0,2011-2012,b78144a6,Athletic-Club,"1,554",17.3,7.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Iñigo Pérez,es ESP,MF,22,14,2.0,0.0,2011-2012,bc61cc65,Athletic-Club,994,11.0,4.0,0.0,43.0,1.0,1290.0,Athletic-Club
-,Borja Ekiza,es ESP,DF,21,13,0.0,0.0,2011-2012,6465e1c9,Athletic-Club,"1,254",13.9,4.0,1.0,43.0,1.0,1292.0,Athletic-Club
-,Igor Gabilondo,es ESP,MF,16,8,0.0,2.0,2011-2012,4ce0dff0,Athletic-Club,744,8.3,0.0,0.0,43.0,1.0,203.0,Athletic-Club
-,Ibai Gómez,es ESP,"FW,MF",19,7,1.0,0.0,2011-2012,9d2a3d5f,Athletic-Club,893,9.9,1.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",7,6,0.0,0.0,2011-2012,6920be59,Athletic-Club,500,5.6,2.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,David López,es ESP,MF,13,4,1.0,1.0,2011-2012,698164e,Athletic-Club,409,4.5,1.0,0.0,43.0,1.0,1272.0,Athletic-Club
-,Raúl Fernández,es ESP,GK,1,1,0.0,0.0,2011-2012,6fb59070,Athletic-Club,90,1.0,0.0,0.0,43.0,1.0,1294.0,Athletic-Club
-,Jonás Ramalho,es ESP,DF,2,1,0.0,0.0,2011-2012,be3a0121,Athletic-Club,52,0.6,0.0,0.0,43.0,1.0,1300.0,Athletic-Club
-,Igor Martínez,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,c68990c2,Athletic-Club,39,0.4,0.0,0.0,43.0,1.0,1293.0,Athletic-Club
-,﻿Óscar de Marcos,es ESP,"DF,FW",36,36,4.0,6.0,2012-2013,9f323c71,Athletic-Club,"3,136",34.8,14.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,36,36,5.0,7.0,2012-2013,6fd1ba62,Athletic-Club,"3,062",34.0,8.0,1.0,43.0,1.0,1271.0,Athletic-Club
-,Gorka Iraizoz,es ESP,GK,35,35,0.0,0.0,2012-2013,26f2473f,Athletic-Club,"3,150",35.0,4.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",35,34,4.0,0.0,2012-2013,f4bbed41,Athletic-Club,"3,062",34.0,6.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,36,33,6.0,14.0,2012-2013,293211e1,Athletic-Club,"2,547",28.3,12.0,1.0,43.0,1.0,,Athletic-Club
-,Ander Herrera,es ESP,MF,29,29,2.0,1.0,2012-2013,436a9dd0,Athletic-Club,"2,417",26.9,11.0,2.0,43.0,1.0,1297.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,30,27,2.0,0.0,2012-2013,6dce77a5,Athletic-Club,"2,234",24.8,13.0,1.0,43.0,1.0,1283.0,Athletic-Club
-,Iker Muniain,es ESP,"FW,MF",33,27,1.0,1.0,2012-2013,c05dfb74,Athletic-Club,"2,178",24.2,7.0,1.0,43.0,1.0,1289.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",27,24,0.0,1.0,2012-2013,6920be59,Athletic-Club,"2,047",22.7,14.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Jon Aurtenetxe,es ESP,DF,27,24,3.0,1.0,2012-2013,74b0e3ce,Athletic-Club,"2,018",22.4,2.0,0.0,43.0,1.0,,Athletic-Club
-,Mikel San José,es ESP,"DF,MF",34,23,0.0,5.0,2012-2013,003a5c72,Athletic-Club,"2,239",24.9,8.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Borja Ekiza,es ESP,DF,24,23,0.0,0.0,2012-2013,6465e1c9,Athletic-Club,"2,060",22.9,3.0,0.0,43.0,1.0,1292.0,Athletic-Club
-,Ibai Gómez,es ESP,"FW,MF",35,17,9.0,4.0,2012-2013,9d2a3d5f,Athletic-Club,"1,958",21.8,1.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Aymeric Laporte,es ESP,DF,15,14,0.0,0.0,2012-2013,119b9a8e,Athletic-Club,"1,203",13.4,6.0,2.0,43.0,1.0,1298.0,Athletic-Club
-,Fernando Amorebieta,ve VEN,DF,11,10,0.0,0.0,2012-2013,b2bbc0ec,Athletic-Club,886,9.8,5.0,1.0,43.0,53.0,1260.0,Athletic-Club
-,Isma López,es ESP,"DF,FW",8,6,0.0,0.0,2012-2013,644a7f5,Athletic-Club,477,5.3,0.0,0.0,43.0,1.0,1299.0,Athletic-Club
-,Iñigo Pérez,es ESP,MF,5,5,1.0,0.0,2012-2013,bc61cc65,Athletic-Club,390,4.3,2.0,0.0,43.0,1.0,1290.0,Athletic-Club
-,Fernando Llorente,es ESP,FW,26,4,0.0,4.0,2012-2013,82dbf623,Athletic-Club,901,10.0,2.0,0.0,43.0,1.0,1254.0,Athletic-Club
-,Jonás Ramalho,es ESP,DF,6,4,0.0,0.0,2012-2013,be3a0121,Athletic-Club,343,3.8,0.0,0.0,43.0,1.0,1300.0,Athletic-Club
-,Xabier Castillo,hr CRO,DF,7,3,0.0,0.0,2012-2013,638dc43b,Athletic-Club,301,3.3,0.0,0.0,43.0,16.0,,Athletic-Club
-,Raúl Fernández,es ESP,GK,3,3,0.0,0.0,2012-2013,6fb59070,Athletic-Club,270,3.0,0.0,0.0,43.0,1.0,1294.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",16,1,0.0,0.0,2012-2013,b78144a6,Athletic-Club,234,2.6,1.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Iñigo Ruiz de Galarreta,es ESP,MF,3,0,1.0,0.0,2012-2013,91f7631f,Athletic-Club,143,1.6,0.0,0.0,43.0,1.0,1301.0,Athletic-Club
-,Igor Martínez,es ESP,"FW,MF",3,0,0.0,0.0,2012-2013,c68990c2,Athletic-Club,109,1.2,1.0,0.0,43.0,1.0,1293.0,Athletic-Club
-,Erik Morán,es ESP,MF,1,0,0.0,0.0,2012-2013,6941883f,Athletic-Club,11,0.1,0.0,0.0,43.0,1.0,1302.0,Athletic-Club
-,﻿Markel Susaeta,es ESP,MF,38,34,12.0,6.0,2013-2014,6fd1ba62,Athletic-Club,"2,931",32.6,1.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Aymeric Laporte,es ESP,DF,35,33,0.0,2.0,2013-2014,119b9a8e,Athletic-Club,"2,933",32.6,5.0,1.0,43.0,1.0,1298.0,Athletic-Club
-,Gorka Iraizoz,es ESP,GK,33,33,0.0,0.0,2013-2014,26f2473f,Athletic-Club,"2,925",32.5,0.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Iker Muniain,es ESP,"FW,MF",35,32,4.0,7.0,2013-2014,c05dfb74,Athletic-Club,"2,705",30.1,6.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,33,31,3.0,0.0,2013-2014,6dce77a5,Athletic-Club,"2,702",30.0,8.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,31,31,0.0,0.0,2013-2014,1fe67e86,Athletic-Club,"2,659",29.5,4.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Mikel Rico,es ESP,MF,34,31,1.0,5.0,2013-2014,def69cd0,Athletic-Club,"2,567",28.5,7.0,0.0,43.0,1.0,1303.0,Athletic-Club
-,Ander Herrera,es ESP,MF,33,31,5.0,5.0,2013-2014,436a9dd0,Athletic-Club,"2,547",28.3,7.0,0.0,43.0,1.0,1297.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",34,28,4.0,1.0,2013-2014,f4bbed41,Athletic-Club,"2,625",29.2,3.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",27,27,0.0,2.0,2013-2014,6920be59,Athletic-Club,"2,384",26.5,8.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,31,26,8.0,16.0,2013-2014,293211e1,Athletic-Club,"2,392",26.6,7.0,2.0,43.0,1.0,,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,FW",35,19,2.0,5.0,2013-2014,9f323c71,Athletic-Club,"1,982",22.0,3.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Mikel San José,es ESP,"DF,MF",25,19,1.0,5.0,2013-2014,003a5c72,Athletic-Club,"1,808",20.1,6.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,23,12,3.0,1.0,2013-2014,b037bd4f,Athletic-Club,"1,018",11.3,3.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Ibai Gómez,es ESP,"FW,MF",18,6,2.0,8.0,2013-2014,9d2a3d5f,Athletic-Club,695,7.7,0.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",20,5,1.0,0.0,2013-2014,b78144a6,Athletic-Club,609,6.8,4.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Iago Herrerín,es ESP,GK,6,5,0.0,0.0,2013-2014,9109185e,Athletic-Club,495,5.5,1.0,0.0,43.0,1.0,1304.0,Athletic-Club
-,Erik Morán,es ESP,MF,14,4,0.0,0.0,2013-2014,6941883f,Athletic-Club,584,6.5,4.0,1.0,43.0,1.0,1302.0,Athletic-Club
-,Guillermo,es ESP,FW,9,4,0.0,1.0,2013-2014,15107141,Athletic-Club,326,3.6,0.0,0.0,43.0,1.0,1305.0,Athletic-Club
-,Enrique Sola,es ESP,FW,5,2,0.0,1.0,2013-2014,bef2e50e,Athletic-Club,231,2.6,0.0,0.0,43.0,1.0,1306.0,Athletic-Club
-,Enric Saborit,es ESP,DF,5,2,0.0,0.0,2013-2014,b5bc3eb,Athletic-Club,201,2.2,1.0,0.0,43.0,1.0,1307.0,Athletic-Club
-,Xabier Etxeita,es ESP,DF,3,2,0.0,0.0,2013-2014,4a895384,Athletic-Club,187,2.1,0.0,0.0,43.0,1.0,1281.0,Athletic-Club
-,Borja Ekiza,es ESP,DF,1,1,0.0,0.0,2013-2014,6465e1c9,Athletic-Club,35,0.4,0.0,0.0,43.0,1.0,1292.0,Athletic-Club
-,Unai Albizua,es ESP,DF,4,0,0.0,0.0,2013-2014,4a2e58a3,Athletic-Club,55,0.6,0.0,0.0,43.0,1.0,1308.0,Athletic-Club
-,﻿Gorka Iraizoz,es ESP,GK,34,34,0.0,0.0,2014-2015,26f2473f,Athletic-Club,"3,060",34.0,3.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Aymeric Laporte,es ESP,DF,33,33,1.0,0.0,2014-2015,119b9a8e,Athletic-Club,"2,960",32.9,11.0,1.0,43.0,1.0,1298.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,33,33,0.0,0.0,2014-2015,1fe67e86,Athletic-Club,"2,917",32.4,9.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,FW",35,32,4.0,1.0,2014-2015,9f323c71,Athletic-Club,"2,948",32.8,6.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Mikel Rico,es ESP,MF,36,32,2.0,3.0,2014-2015,def69cd0,Athletic-Club,"2,792",31.0,3.0,0.0,43.0,1.0,1303.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,31,30,3.0,18.0,2014-2015,293211e1,Athletic-Club,"2,579",28.7,12.0,0.0,43.0,1.0,,Athletic-Club
-,Iker Muniain,es ESP,"FW,MF",25,25,1.0,1.0,2014-2015,c05dfb74,Athletic-Club,"1,997",22.2,7.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Mikel San José,es ESP,"DF,MF",28,23,1.0,5.0,2014-2015,003a5c72,Athletic-Club,"2,146",23.8,10.0,1.0,43.0,1.0,1287.0,Athletic-Club
-,Xabier Etxeita,es ESP,DF,24,22,0.0,2.0,2014-2015,4a895384,Athletic-Club,"1,971",21.9,5.0,1.0,43.0,1.0,1281.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,25,20,0.0,2.0,2014-2015,6dce77a5,Athletic-Club,"1,816",20.2,6.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,31,20,7.0,1.0,2014-2015,6fd1ba62,Athletic-Club,"1,773",19.7,2.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,28,20,2.0,2.0,2014-2015,b037bd4f,Athletic-Club,"1,711",19.0,4.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Andoni Iraola,es ESP,"DF,MF",22,16,1.0,1.0,2014-2015,f4bbed41,Athletic-Club,"1,530",17.0,5.0,0.0,43.0,1.0,1249.0,Athletic-Club
-,Carlos Gurpegui,es ESP,"DF,MF",23,15,0.0,1.0,2014-2015,6920be59,Athletic-Club,"1,450",16.1,7.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Iñaki Williams,gh GHA,"FW,MF",19,15,1.0,1.0,2014-2015,6a99e0b1,Athletic-Club,"1,313",14.6,1.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Unai López,es ESP,MF,19,11,0.0,0.0,2014-2015,88050721,Athletic-Club,828,9.2,2.0,0.0,43.0,1.0,1310.0,Athletic-Club
-,Borja Viguera,es ESP,FW,20,10,0.0,1.0,2014-2015,d906a703,Athletic-Club,969,10.8,0.0,0.0,43.0,1.0,,Athletic-Club
-,Ibai Gómez,es ESP,"FW,MF",21,9,2.0,1.0,2014-2015,9d2a3d5f,Athletic-Club,"1,010",11.2,2.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Guillermo,es ESP,FW,14,5,0.0,0.0,2014-2015,15107141,Athletic-Club,567,6.3,2.0,0.0,43.0,1.0,1305.0,Athletic-Club
-,Iago Herrerín,es ESP,GK,4,4,0.0,0.0,2014-2015,9109185e,Athletic-Club,360,4.0,0.0,0.0,43.0,1.0,1304.0,Athletic-Club
-,Ager Aketxe,es ESP,MF,8,3,1.0,1.0,2014-2015,c5eaff5c,Athletic-Club,299,3.3,1.0,0.0,43.0,1.0,,Athletic-Club
-,Jon Aurtenetxe,es ESP,DF,4,3,0.0,0.0,2014-2015,74b0e3ce,Athletic-Club,287,3.2,0.0,0.0,43.0,1.0,,Athletic-Club
-,Enrique Sola,es ESP,FW,5,1,0.0,0.0,2014-2015,bef2e50e,Athletic-Club,115,1.3,0.0,0.0,43.0,1.0,1306.0,Athletic-Club
-,Unai Bustinza,es ESP,DF,2,1,0.0,0.0,2014-2015,f3112790,Athletic-Club,98,1.1,1.0,1.0,43.0,1.0,1311.0,Athletic-Club
-,Erik Morán,es ESP,MF,2,1,0.0,0.0,2014-2015,6941883f,Athletic-Club,51,0.6,0.0,0.0,43.0,1.0,1302.0,Athletic-Club
-,Gaizka Toquero,es ESP,"FW,MF",4,0,0.0,0.0,2014-2015,b78144a6,Athletic-Club,40,0.4,0.0,0.0,43.0,1.0,1280.0,Athletic-Club
-,Álex Remiro,es ESP,GK,0,0,,,2014-2015,374ee424,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2015-2016,26f2473f,Athletic-Club,"3,243",36.0,1.0,1.0,43.0,1.0,1274.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,34,33,3.0,0.0,2015-2016,1fe67e86,Athletic-Club,"2,905",32.3,6.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,MF",34,33,3.0,1.0,2015-2016,9f323c71,Athletic-Club,"2,884",32.0,6.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,36,32,6.0,1.0,2015-2016,b037bd4f,Athletic-Club,"2,894",32.2,8.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,34,30,6.0,20.0,2015-2016,293211e1,Athletic-Club,"2,776",30.8,9.0,0.0,43.0,1.0,,Athletic-Club
-,Mikel San José,es ESP,"MF,DF",34,30,3.0,2.0,2015-2016,003a5c72,Athletic-Club,"2,690",29.9,6.0,1.0,43.0,1.0,1287.0,Athletic-Club
-,Xabier Etxeita,es ESP,DF,30,28,1.0,0.0,2015-2016,4a895384,Athletic-Club,"2,485",27.6,5.0,0.0,43.0,1.0,1281.0,Athletic-Club
-,Raúl García,es ESP,MF,30,27,6.0,7.0,2015-2016,b418dbd4,Athletic-Club,"2,370",26.3,10.0,0.0,43.0,1.0,1312.0,Athletic-Club
-,Aymeric Laporte,es ESP,DF,26,25,1.0,3.0,2015-2016,119b9a8e,Athletic-Club,"2,211",24.6,9.0,2.0,43.0,1.0,1298.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,28,22,7.0,3.0,2015-2016,6fd1ba62,Athletic-Club,"1,918",21.3,3.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Iñaki Williams,gh GHA,MF,25,21,3.0,8.0,2015-2016,6a99e0b1,Athletic-Club,"1,622",18.0,4.0,1.0,43.0,17.0,1309.0,Athletic-Club
-,Eneko Bóveda,es ESP,DF,23,15,0.0,0.0,2015-2016,1771f2c1,Athletic-Club,"1,468",16.3,1.0,0.0,43.0,1.0,,Athletic-Club
-,Sabin Merino,es ESP,"MF,FW",22,13,0.0,5.0,2015-2016,1d5f96d9,Athletic-Club,"1,131",12.6,1.0,0.0,43.0,1.0,,Athletic-Club
-,Iker Muniain,es ESP,MF,20,13,0.0,2.0,2015-2016,c05dfb74,Athletic-Club,"1,017",11.3,2.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Iñigo Lekue,es ESP,"DF,MF",20,12,0.0,1.0,2015-2016,59b7d823,Athletic-Club,"1,159",12.9,2.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Carlos Gurpegui,es ESP,DF,15,12,0.0,0.0,2015-2016,6920be59,Athletic-Club,"1,143",12.7,4.0,0.0,43.0,1.0,1231.0,Athletic-Club
-,Javier Eraso,es ESP,MF,16,8,1.0,2.0,2015-2016,c0fb6f,Athletic-Club,783,8.7,2.0,0.0,43.0,1.0,1314.0,Athletic-Club
-,Mikel Rico,es ESP,MF,17,8,1.0,1.0,2015-2016,def69cd0,Athletic-Club,698,7.8,2.0,1.0,43.0,1.0,1303.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,16,7,1.0,0.0,2015-2016,6dce77a5,Athletic-Club,701,7.8,1.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Gorka Elustondo,es ESP,"MF,DF",11,4,0.0,1.0,2015-2016,7b309e55,Athletic-Club,471,5.2,1.0,0.0,43.0,1.0,,Athletic-Club
-,Borja Viguera,es ESP,FW,9,3,0.0,0.0,2015-2016,d906a703,Athletic-Club,294,3.3,0.0,0.0,43.0,1.0,,Athletic-Club
-,Ager Aketxe,es ESP,MF,3,2,0.0,0.0,2015-2016,c5eaff5c,Athletic-Club,185,2.1,0.0,0.0,43.0,1.0,,Athletic-Club
-,Iago Herrerín,es ESP,GK,2,1,0.0,0.0,2015-2016,9109185e,Athletic-Club,175,1.9,0.0,0.0,43.0,1.0,1304.0,Athletic-Club
-,Ibai Gómez,es ESP,MF,5,1,0.0,0.0,2015-2016,9d2a3d5f,Athletic-Club,115,1.3,3.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Enrique Sola,es ESP,FW,5,1,0.0,0.0,2015-2016,bef2e50e,Athletic-Club,77,0.9,0.0,0.0,43.0,1.0,1306.0,Athletic-Club
-,Álex Remiro,es ESP,GK,0,0,,,2015-2016,374ee424,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,﻿Raúl García,es ESP,MF,36,34,4.0,10.0,2016-2017,b418dbd4,Athletic-Club,"2,869",31.9,11.0,0.0,43.0,1.0,1312.0,Athletic-Club
-,Aymeric Laporte,es ESP,DF,33,33,0.0,2.0,2016-2017,119b9a8e,Athletic-Club,"2,864",31.8,10.0,0.0,43.0,1.0,1298.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,33,33,1.0,1.0,2016-2017,1fe67e86,Athletic-Club,"2,847",31.6,3.0,1.0,43.0,1.0,1279.0,Athletic-Club
-,Iñaki Williams,gh GHA,"MF,FW",38,31,6.0,5.0,2016-2017,6a99e0b1,Athletic-Club,"2,789",31.0,4.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Mikel San José,es ESP,MF,35,30,1.0,4.0,2016-2017,003a5c72,Athletic-Club,"2,700",30.0,9.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Iker Muniain,es ESP,MF,35,28,1.0,7.0,2016-2017,c05dfb74,Athletic-Club,"2,405",26.7,5.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,32,28,5.0,1.0,2016-2017,b037bd4f,Athletic-Club,"2,399",26.7,9.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,32,27,1.0,16.0,2016-2017,293211e1,Athletic-Club,"2,458",27.3,8.0,1.0,43.0,1.0,,Athletic-Club
-,Yeray Álvarez,es ESP,DF,26,25,0.0,0.0,2016-2017,3ecc11d8,Athletic-Club,"2,271",25.2,3.0,0.0,43.0,1.0,1315.0,Athletic-Club
-,Óscar de Marcos,es ESP,DF,27,24,4.0,1.0,2016-2017,9f323c71,Athletic-Club,"2,150",23.9,3.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Kepa Arrizabalaga,es ESP,GK,23,23,0.0,0.0,2016-2017,28d596a0,Athletic-Club,"2,015",22.4,1.0,0.0,43.0,1.0,1316.0,Athletic-Club
-,Eneko Bóveda,es ESP,DF,19,18,0.0,0.0,2016-2017,1771f2c1,Athletic-Club,"1,556",17.3,1.0,0.0,43.0,1.0,,Athletic-Club
-,Iñigo Lekue,es ESP,"MF,DF",25,17,1.0,2.0,2016-2017,59b7d823,Athletic-Club,"1,575",17.5,1.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Gorka Iraizoz,es ESP,GK,16,15,0.0,0.0,2016-2017,26f2473f,Athletic-Club,"1,405",15.6,1.0,0.0,43.0,1.0,1274.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,24,12,1.0,0.0,2016-2017,6dce77a5,Athletic-Club,"1,159",12.9,3.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,26,11,2.0,1.0,2016-2017,6fd1ba62,Athletic-Club,"1,112",12.4,4.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Xabier Etxeita,es ESP,DF,10,7,0.0,0.0,2016-2017,4a895384,Athletic-Club,713,7.9,2.0,0.0,43.0,1.0,1281.0,Athletic-Club
-,Enric Saborit,es ESP,"DF,MF",9,5,0.0,0.0,2016-2017,b5bc3eb,Athletic-Club,464,5.2,1.0,0.0,43.0,1.0,1307.0,Athletic-Club
-,Sabin Merino,es ESP,"FW,MF",13,5,2.0,1.0,2016-2017,1d5f96d9,Athletic-Club,440,4.9,2.0,0.0,43.0,1.0,,Athletic-Club
-,Mikel Rico,es ESP,MF,18,4,0.0,1.0,2016-2017,def69cd0,Athletic-Club,480,5.3,4.0,0.0,43.0,1.0,1303.0,Athletic-Club
-,Javier Eraso,es ESP,MF,7,4,1.0,0.0,2016-2017,c0fb6f,Athletic-Club,379,4.2,2.0,0.0,43.0,1.0,1314.0,Athletic-Club
-,Mikel Vesga,es ESP,MF,6,3,0.0,0.0,2016-2017,b0fce72c,Athletic-Club,286,3.2,1.0,0.0,43.0,1.0,1317.0,Athletic-Club
-,Gorka Elustondo,es ESP,DF,2,1,0.0,0.0,2016-2017,7b309e55,Athletic-Club,106,1.2,0.0,0.0,43.0,1.0,,Athletic-Club
-,Asier Villalibre,es ESP,FW,6,0,1.0,0.0,2016-2017,57be54ec,Athletic-Club,78,0.9,0.0,0.0,43.0,1.0,1318.0,Athletic-Club
-,Borja Viguera,es ESP,FW,1,0,0.0,1.0,2016-2017,d906a703,Athletic-Club,27,0.3,0.0,0.0,43.0,1.0,,Athletic-Club
-,Iago Herrerín,es ESP,GK,0,0,,,2016-2017,9109185e,Athletic-Club,,,,,43.0,1.0,1304.0,Athletic-Club
-,Álex Remiro,es ESP,GK,0,0,,,2016-2017,374ee424,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,Unai Simón,es ESP,GK,0,0,,,2016-2017,5dcf3e90,Athletic-Club,,,,,43.0,1.0,1319.0,Athletic-Club
-,﻿Unai Núñez,es ESP,DF,33,33,0.0,1.0,2017-2018,be170419,Athletic-Club,"2,941",32.7,11.0,0.0,43.0,1.0,1320.0,Athletic-Club
-,Iñaki Williams,gh GHA,"MF,FW",38,31,6.0,7.0,2017-2018,6a99e0b1,Athletic-Club,"2,851",31.7,3.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Kepa Arrizabalaga,es ESP,GK,30,30,0.0,0.0,2017-2018,28d596a0,Athletic-Club,"2,700",30.0,3.0,0.0,43.0,1.0,1316.0,Athletic-Club
-,Raúl García,es ESP,MF,34,30,1.0,10.0,2017-2018,b418dbd4,Athletic-Club,"2,627",29.2,10.0,0.0,43.0,1.0,1312.0,Athletic-Club
-,Markel Susaeta,es ESP,MF,34,26,2.0,3.0,2017-2018,6fd1ba62,Athletic-Club,"2,264",25.2,2.0,0.0,43.0,1.0,1271.0,Athletic-Club
-,Mikel San José,es ESP,MF,26,24,1.0,1.0,2017-2018,003a5c72,Athletic-Club,"2,155",23.9,5.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Iñigo Lekue,es ESP,"DF,MF",32,22,1.0,0.0,2017-2018,59b7d823,Athletic-Club,"2,111",23.5,3.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,33,21,1.0,9.0,2017-2018,293211e1,Athletic-Club,"2,152",23.9,5.0,0.0,43.0,1.0,,Athletic-Club
-,Ander Iturraspe,es ESP,MF,30,20,0.0,0.0,2017-2018,6dce77a5,Athletic-Club,"1,904",21.2,7.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,MF",21,20,2.0,1.0,2017-2018,9f323c71,Athletic-Club,"1,658",18.4,5.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Aymeric Laporte,es ESP,DF,19,19,1.0,0.0,2017-2018,119b9a8e,Athletic-Club,"1,710",19.0,5.0,0.0,43.0,1.0,1298.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,18,18,2.0,0.0,2017-2018,1fe67e86,Athletic-Club,"1,549",17.2,1.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Iñigo Córdoba,es ESP,MF,30,18,1.0,1.0,2017-2018,49ea92be,Athletic-Club,"1,459",16.2,3.0,0.0,43.0,1.0,1321.0,Athletic-Club
-,Iñigo Martínez,es ESP,DF,16,16,0.0,0.0,2017-2018,3fc45c73,Athletic-Club,"1,440",16.0,6.0,0.0,43.0,1.0,,Athletic-Club
-,Enric Saborit,es ESP,DF,19,16,1.0,0.0,2017-2018,b5bc3eb,Athletic-Club,"1,428",15.9,5.0,0.0,43.0,1.0,1307.0,Athletic-Club
-,Mikel Rico,es ESP,MF,17,13,0.0,0.0,2017-2018,def69cd0,Athletic-Club,"1,171",13.0,2.0,0.0,43.0,1.0,1303.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,24,12,2.0,0.0,2017-2018,b037bd4f,Athletic-Club,"1,120",12.4,3.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Mikel Vesga,es ESP,MF,12,11,1.0,1.0,2017-2018,b0fce72c,Athletic-Club,806,9.0,6.0,0.0,43.0,1.0,1317.0,Athletic-Club
-,Iago Herrerín,es ESP,GK,8,8,0.0,0.0,2017-2018,9109185e,Athletic-Club,720,8.0,0.0,0.0,43.0,1.0,1304.0,Athletic-Club
-,Iker Muniain,es ESP,MF,14,7,2.0,4.0,2017-2018,c05dfb74,Athletic-Club,780,8.7,1.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Yeray Álvarez,es ESP,DF,8,7,0.0,0.0,2017-2018,3ecc11d8,Athletic-Club,675,7.5,2.0,0.0,43.0,1.0,1315.0,Athletic-Club
-,Eneko Bóveda,es ESP,DF,6,6,1.0,0.0,2017-2018,1771f2c1,Athletic-Club,522,5.8,1.0,0.0,43.0,1.0,,Athletic-Club
-,Xabier Etxeita,es ESP,DF,5,5,0.0,1.0,2017-2018,4a895384,Athletic-Club,376,4.2,2.0,0.0,43.0,1.0,1281.0,Athletic-Club
-,Sabin Merino,es ESP,"MF,FW",13,4,0.0,0.0,2017-2018,1d5f96d9,Athletic-Club,374,4.2,1.0,0.0,43.0,1.0,,Athletic-Club
-,Andoni López,es ESP,DF,1,1,0.0,0.0,2017-2018,fc8cb238,Athletic-Club,90,1.0,0.0,0.0,43.0,1.0,1322.0,Athletic-Club
-,Ager Aketxe,es ESP,MF,3,0,0.0,0.0,2017-2018,c5eaff5c,Athletic-Club,37,0.4,1.0,0.0,43.0,1.0,,Athletic-Club
-,Víctor San Bartolomé,es ESP,MF,0,0,,,2017-2018,8af42784,Athletic-Club,,,,,43.0,1.0,1323.0,Athletic-Club
-,Unai Simón,es ESP,GK,0,0,,,2017-2018,5dcf3e90,Athletic-Club,,,,,43.0,1.0,1319.0,Athletic-Club
-,Enrique Sola,es ESP,FW,0,0,,,2017-2018,bef2e50e,Athletic-Club,,,,,43.0,1.0,1306.0,Athletic-Club
-,Daniel Vivian,es ESP,DF,0,0,,,2017-2018,b7bf91d,Athletic-Club,,,,,43.0,1.0,1324.0,Athletic-Club
-,﻿Iñaki Williams,gh GHA,"FW,MF",38,36,4.0,13.0,2018-2019,6a99e0b1,Athletic-Club,"3,025",33.6,3.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Yuri Berchiche,es ESP,"DF,MF",35,35,2.0,2.0,2018-2019,b6e50615,Athletic-Club,"3,120",34.7,8.0,0.0,43.0,1.0,,Athletic-Club
-,Iñigo Martínez,es ESP,DF,33,33,0.0,0.0,2018-2019,3fc45c73,Athletic-Club,"2,902",32.2,12.0,0.0,43.0,1.0,,Athletic-Club
-,Iago Herrerín,es ESP,GK,31,31,1.0,0.0,2018-2019,9109185e,Athletic-Club,"2,790",31.0,1.0,0.0,43.0,1.0,1304.0,Athletic-Club
-,Yeray Álvarez,es ESP,DF,30,30,0.0,0.0,2018-2019,3ecc11d8,Athletic-Club,"2,613",29.0,10.0,0.0,43.0,1.0,1315.0,Athletic-Club
-,Dani García,es ESP,MF,29,29,1.0,0.0,2018-2019,240d3a0b,Athletic-Club,"2,476",27.5,13.0,0.0,43.0,1.0,1325.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,MF",30,28,2.0,1.0,2018-2019,9f323c71,Athletic-Club,"2,421",26.9,7.0,2.0,43.0,1.0,1288.0,Athletic-Club
-,Iker Muniain,es ESP,MF,34,27,3.0,7.0,2018-2019,c05dfb74,Athletic-Club,"2,383",26.5,7.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Raúl García,es ESP,MF,33,27,3.0,9.0,2018-2019,b418dbd4,Athletic-Club,"2,369",26.3,12.0,0.0,43.0,1.0,1312.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,27,25,2.0,1.0,2018-2019,b037bd4f,Athletic-Club,"2,031",22.6,8.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Ander Capa,es ESP,DF,25,17,0.0,0.0,2018-2019,37f1cf47,Athletic-Club,"1,642",18.2,9.0,0.0,43.0,1.0,1326.0,Athletic-Club
-,Mikel San José,es ESP,MF,33,16,0.0,0.0,2018-2019,003a5c72,Athletic-Club,"1,733",19.3,7.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Markel Susaeta,es ESP,"MF,FW",22,15,2.0,1.0,2018-2019,6fd1ba62,Athletic-Club,"1,379",15.3,4.0,1.0,43.0,1.0,1271.0,Athletic-Club
-,Iñigo Córdoba,es ESP,MF,23,15,4.0,0.0,2018-2019,49ea92be,Athletic-Club,"1,321",14.7,3.0,0.0,43.0,1.0,1321.0,Athletic-Club
-,Unai Núñez,es ESP,DF,12,11,0.0,0.0,2018-2019,be170419,Athletic-Club,"1,064",11.8,4.0,0.0,43.0,1.0,1320.0,Athletic-Club
-,Aritz Aduriz,es ESP,FW,20,10,0.0,2.0,2018-2019,293211e1,Athletic-Club,943,10.5,5.0,0.0,43.0,1.0,,Athletic-Club
-,Unai Simón,es ESP,GK,7,7,0.0,0.0,2018-2019,5dcf3e90,Athletic-Club,630,7.0,2.0,0.0,43.0,1.0,1319.0,Athletic-Club
-,Ibai Gómez,es ESP,MF,14,6,2.0,0.0,2018-2019,9d2a3d5f,Athletic-Club,580,6.4,0.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,11,6,0.0,0.0,2018-2019,1fe67e86,Athletic-Club,523,5.8,0.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Peru Nolaskoain,es ESP,DF,8,4,0.0,2.0,2018-2019,857cb4f3,Athletic-Club,464,5.2,2.0,1.0,43.0,1.0,,Athletic-Club
-,Unai López,es ESP,MF,7,3,0.0,0.0,2018-2019,88050721,Athletic-Club,328,3.6,1.0,0.0,43.0,1.0,1310.0,Athletic-Club
-,Mikel Rico,es ESP,MF,4,3,0.0,0.0,2018-2019,def69cd0,Athletic-Club,242,2.7,0.0,0.0,43.0,1.0,1303.0,Athletic-Club
-,Iñigo Lekue,es ESP,DF,4,2,0.0,0.0,2018-2019,59b7d823,Athletic-Club,211,2.3,1.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Ander Iturraspe,es ESP,MF,3,1,0.0,0.0,2018-2019,6dce77a5,Athletic-Club,98,1.1,1.0,0.0,43.0,1.0,1283.0,Athletic-Club
-,Cristian Ganea,ro ROU,DF,1,1,0.0,0.0,2018-2019,baf5665c,Athletic-Club,49,0.5,0.0,0.0,43.0,51.0,1327.0,Athletic-Club
-,Kenan Kodro,ba BIH,"FW,MF",11,0,0.0,1.0,2018-2019,82d2807,Athletic-Club,161,1.8,0.0,0.0,43.0,49.0,1328.0,Athletic-Club
-,Gorka Guruzeta,es ESP,"MF,FW",6,0,0.0,0.0,2018-2019,6b5ea2f4,Athletic-Club,50,0.6,0.0,0.0,43.0,1.0,1329.0,Athletic-Club
-,Hodei Oleaga,es ESP,GK,0,0,,,2018-2019,95230c26,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,Daniel Vivian,es ESP,DF,0,0,,,2018-2019,b7bf91d,Athletic-Club,,,,,43.0,1.0,1324.0,Athletic-Club
-,﻿Unai Simón,es ESP,GK,34,34,0.0,0.0,2019-2020,5dcf3e90,Athletic-Club,"2,991",33.2,2.0,1.0,43.0,1.0,1319.0,Athletic-Club
-,Iñaki Williams,gh GHA,"FW,MF",38,34,1.0,6.0,2019-2020,6a99e0b1,Athletic-Club,"2,939",32.7,3.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Dani García,es ESP,MF,36,33,1.0,0.0,2019-2020,240d3a0b,Athletic-Club,"3,029",33.7,11.0,0.0,43.0,1.0,1325.0,Athletic-Club
-,Iñigo Martínez,es ESP,DF,33,33,1.0,1.0,2019-2020,3fc45c73,Athletic-Club,"2,970",33.0,10.0,0.0,43.0,1.0,,Athletic-Club
-,Raúl García,es ESP,"MF,FW",35,33,1.0,15.0,2019-2020,b418dbd4,Athletic-Club,"2,869",31.9,11.0,0.0,43.0,1.0,1312.0,Athletic-Club
-,Ander Capa,es ESP,DF,35,32,4.0,3.0,2019-2020,37f1cf47,Athletic-Club,"2,872",31.9,10.0,0.0,43.0,1.0,1326.0,Athletic-Club
-,Yuri Berchiche,es ESP,DF,33,32,1.0,2.0,2019-2020,b6e50615,Athletic-Club,"2,850",31.7,7.0,0.0,43.0,1.0,,Athletic-Club
-,Yeray Álvarez,es ESP,DF,32,32,0.0,0.0,2019-2020,3ecc11d8,Athletic-Club,"2,810",31.2,2.0,0.0,43.0,1.0,1315.0,Athletic-Club
-,Iker Muniain,es ESP,MF,31,26,2.0,5.0,2019-2020,c05dfb74,Athletic-Club,"2,382",26.5,4.0,1.0,43.0,1.0,1289.0,Athletic-Club
-,Unai López,es ESP,MF,26,24,4.0,1.0,2019-2020,88050721,Athletic-Club,"1,787",19.9,6.0,0.0,43.0,1.0,1310.0,Athletic-Club
-,Iñigo Córdoba,es ESP,MF,24,21,4.0,1.0,2019-2020,49ea92be,Athletic-Club,"1,442",16.0,4.0,0.0,43.0,1.0,1321.0,Athletic-Club
-,Unai Núñez,es ESP,DF,20,16,0.0,0.0,2019-2020,be170419,Athletic-Club,"1,572",17.5,7.0,0.0,43.0,1.0,1320.0,Athletic-Club
-,Mikel Vesga,es ESP,MF,20,13,1.0,0.0,2019-2020,b0fce72c,Athletic-Club,"1,269",14.1,3.0,0.0,43.0,1.0,1317.0,Athletic-Club
-,Oihan Sancet,es ESP,MF,17,9,1.0,1.0,2019-2020,bdb624a3,Athletic-Club,741,8.2,1.0,0.0,43.0,1.0,1330.0,Athletic-Club
-,Ibai Gómez,es ESP,MF,17,6,0.0,0.0,2019-2020,9d2a3d5f,Athletic-Club,695,7.7,0.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Iñigo Lekue,es ESP,"MF,DF",14,6,1.0,0.0,2019-2020,59b7d823,Athletic-Club,623,6.9,0.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,9,6,0.0,0.0,2019-2020,1fe67e86,Athletic-Club,563,6.3,1.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Óscar de Marcos,es ESP,"MF,DF",13,6,1.0,0.0,2019-2020,9f323c71,Athletic-Club,541,6.0,1.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Asier Villalibre,es ESP,"FW,MF",19,5,0.0,3.0,2019-2020,57be54ec,Athletic-Club,531,5.9,0.0,0.0,43.0,1.0,1318.0,Athletic-Club
-,Iago Herrerín,es ESP,GK,5,4,0.0,0.0,2019-2020,9109185e,Athletic-Club,425,4.7,0.0,0.0,43.0,1.0,1304.0,Athletic-Club
-,Kenan Kodro,ba BIH,"FW,MF",12,4,0.0,1.0,2019-2020,82d2807,Athletic-Club,364,4.0,0.0,0.0,43.0,49.0,1328.0,Athletic-Club
-,Beñat Etxebarria,es ESP,MF,11,3,0.0,0.0,2019-2020,b037bd4f,Athletic-Club,394,4.4,0.0,0.0,43.0,1.0,1269.0,Athletic-Club
-,Mikel San José,es ESP,MF,9,3,0.0,0.0,2019-2020,003a5c72,Athletic-Club,359,4.0,3.0,0.0,43.0,1.0,1287.0,Athletic-Club
-,Larra,es ESP,MF,10,2,0.0,0.0,2019-2020,0d690336,Athletic-Club,250,2.8,0.0,0.0,43.0,1.0,1331.0,Athletic-Club
-,Unai Vencedor Paris,es ESP,MF,1,1,0.0,0.0,2019-2020,4112ace5,Athletic-Club,73,0.8,1.0,0.0,43.0,1.0,1332.0,Athletic-Club
-,Aritz Aduriz,es ESP,"FW,MF",14,0,0.0,1.0,2019-2020,293211e1,Athletic-Club,208,2.3,3.0,0.0,43.0,1.0,,Athletic-Club
-,Jokin Ezkieta,es ESP,GK,0,0,,,2019-2020,0f7dbaf6,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,Sillero,es ESP,DF,0,0,,,2019-2020,46e2990,Athletic-Club,,,,,43.0,1.0,1333.0,Athletic-Club
-,Daniel Vivian,es ESP,DF,0,0,,,2019-2020,b7bf91d,Athletic-Club,,,,,43.0,1.0,1324.0,Athletic-Club
-,﻿Unai Simón,es ESP,GK,37,37,0.0,0.0,2020-2021,5dcf3e90,Athletic-Club,"3,330",37.0,1.0,0.0,43.0,1.0,1319.0,Athletic-Club
-,Iñigo Martínez,es ESP,DF,28,28,0.0,1.0,2020-2021,3fc45c73,Athletic-Club,"2,519",28.0,9.0,1.0,43.0,1.0,,Athletic-Club
-,Iñaki Williams,gh GHA,"FW,MF",38,27,6.0,6.0,2020-2021,6a99e0b1,Athletic-Club,"2,387",26.5,1.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Álex Berenguer,es ESP,MF,35,27,4.0,8.0,2020-2021,dc1c2fce,Athletic-Club,"2,278",25.3,4.0,0.0,43.0,1.0,1334.0,Athletic-Club
-,Ander Capa,es ESP,DF,28,25,1.0,2.0,2020-2021,37f1cf47,Athletic-Club,"2,131",23.7,5.0,0.0,43.0,1.0,1326.0,Athletic-Club
-,Unai Núñez,es ESP,DF,25,23,1.0,1.0,2020-2021,be170419,Athletic-Club,"2,109",23.4,6.0,0.0,43.0,1.0,1320.0,Athletic-Club
-,Iker Muniain,es ESP,MF,28,23,3.0,5.0,2020-2021,c05dfb74,Athletic-Club,"1,943",21.6,1.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Yeray Álvarez,es ESP,DF,23,22,0.0,1.0,2020-2021,3ecc11d8,Athletic-Club,"1,948",21.6,6.0,0.0,43.0,1.0,1315.0,Athletic-Club
-,Dani García,es ESP,MF,27,21,1.0,0.0,2020-2021,240d3a0b,Athletic-Club,"1,920",21.3,8.0,0.0,43.0,1.0,1325.0,Athletic-Club
-,Raúl García,es ESP,"FW,MF",34,21,1.0,5.0,2020-2021,b418dbd4,Athletic-Club,"1,743",19.4,8.0,2.0,43.0,1.0,1312.0,Athletic-Club
-,Yuri Berchiche,es ESP,DF,23,21,3.0,1.0,2020-2021,b6e50615,Athletic-Club,"1,682",18.7,3.0,0.0,43.0,1.0,,Athletic-Club
-,Mikel Vesga,es ESP,MF,30,20,1.0,0.0,2020-2021,b0fce72c,Athletic-Club,"1,722",19.1,7.0,0.0,43.0,1.0,1317.0,Athletic-Club
-,Unai Vencedor Paris,es ESP,MF,28,19,0.0,0.0,2020-2021,4112ace5,Athletic-Club,"1,701",18.9,6.0,0.0,43.0,1.0,1332.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,23,17,1.0,0.0,2020-2021,1fe67e86,Athletic-Club,"1,689",18.8,0.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Óscar de Marcos,es ESP,"DF,MF",25,17,2.0,1.0,2020-2021,9f323c71,Athletic-Club,"1,520",16.9,2.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Asier Villalibre,es ESP,FW,35,16,2.0,4.0,2020-2021,57be54ec,Athletic-Club,"1,589",17.7,1.0,0.0,43.0,1.0,1318.0,Athletic-Club
-,Jon Morcillo,es ESP,MF,30,16,2.0,2.0,2020-2021,b7d7f3bf,Athletic-Club,"1,363",15.1,3.0,0.0,43.0,1.0,1335.0,Athletic-Club
-,Unai López,es ESP,MF,26,15,0.0,3.0,2020-2021,88050721,Athletic-Club,"1,424",15.8,7.0,0.0,43.0,1.0,1310.0,Athletic-Club
-,Oihan Sancet,es ESP,"FW,MF",24,11,2.0,2.0,2020-2021,bdb624a3,Athletic-Club,"1,035",11.5,2.0,0.0,43.0,1.0,1330.0,Athletic-Club
-,Iñigo Lekue,es ESP,DF,18,5,0.0,0.0,2020-2021,59b7d823,Athletic-Club,644,7.2,1.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Ibai Gómez,es ESP,MF,13,4,1.0,0.0,2020-2021,9d2a3d5f,Athletic-Club,424,4.7,0.0,0.0,43.0,1.0,1296.0,Athletic-Club
-,Oier Zarraga,es ESP,MF,5,1,0.0,0.0,2020-2021,968a1c2f,Athletic-Club,100,1.1,0.0,0.0,43.0,1.0,1336.0,Athletic-Club
-,Iñigo Córdoba,es ESP,MF,3,1,0.0,0.0,2020-2021,49ea92be,Athletic-Club,95,1.1,0.0,0.0,43.0,1.0,1321.0,Athletic-Club
-,Jokin Ezkieta,es ESP,GK,1,1,0.0,0.0,2020-2021,0f7dbaf6,Athletic-Club,90,1.0,0.0,0.0,43.0,1.0,,Athletic-Club
-,Nico Williams,es ESP,MF,2,0,0.0,0.0,2020-2021,fdc14d7,Athletic-Club,57,0.6,0.0,0.0,43.0,1.0,1337.0,Athletic-Club
-,Iñigo Vicente,es ESP,"FW,MF",3,0,0.0,0.0,2020-2021,fafac57,Athletic-Club,52,0.6,0.0,0.0,43.0,1.0,1338.0,Athletic-Club
-,Kenan Kodro,ba BIH,"FW,MF",3,0,0.0,1.0,2020-2021,82d2807,Athletic-Club,44,0.5,1.0,0.0,43.0,49.0,1328.0,Athletic-Club
-,Bernaola,es ESP,MF,0,0,,,2020-2021,1dfc426b,Athletic-Club,,,,,43.0,1.0,1339.0,Athletic-Club
-,Iago Herrerín,es ESP,GK,0,0,,,2020-2021,9109185e,Athletic-Club,,,,,43.0,1.0,1304.0,Athletic-Club
-,Peru Nolaskoain,es ESP,DF,0,0,,,2020-2021,857cb4f3,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,Aitor Paredes,es ESP,DF,0,0,,,2020-2021,b906757a,Athletic-Club,,,,,43.0,1.0,1340.0,Athletic-Club
-,Prados,es ESP,MF,0,0,,,2020-2021,1f60244a,Athletic-Club,,,,,43.0,1.0,1341.0,Athletic-Club
-,﻿Unai Simón,es ESP,GK,34,34,0.0,0.0,2021-2022,5dcf3e90,Athletic-Club,"3,060",34.0,3.0,0.0,43.0,1.0,1319.0,Athletic-Club
-,Iker Muniain,es ESP,MF,35,34,10.0,4.0,2021-2022,c05dfb74,Athletic-Club,"2,785",30.9,3.0,0.0,43.0,1.0,1289.0,Athletic-Club
-,Iñaki Williams,gh GHA,FW,38,32,5.0,8.0,2021-2022,6a99e0b1,Athletic-Club,"2,777",30.9,4.0,0.0,43.0,17.0,1309.0,Athletic-Club
-,Unai Vencedor Paris,es ESP,MF,34,29,0.0,0.0,2021-2022,4112ace5,Athletic-Club,"2,383",26.5,4.0,0.0,43.0,1.0,1332.0,Athletic-Club
-,Dani García,es ESP,MF,32,27,0.0,0.0,2021-2022,240d3a0b,Athletic-Club,"2,177",24.2,9.0,0.0,43.0,1.0,1325.0,Athletic-Club
-,Iñigo Martínez,es ESP,DF,27,26,0.0,3.0,2021-2022,3fc45c73,Athletic-Club,"2,341",26.0,9.0,2.0,43.0,1.0,,Athletic-Club
-,Álex Berenguer,es ESP,MF,34,24,6.0,3.0,2021-2022,dc1c2fce,Athletic-Club,"2,168",24.1,8.0,0.0,43.0,1.0,1334.0,Athletic-Club
-,Raúl García,es ESP,FW,35,24,2.0,6.0,2021-2022,b418dbd4,Athletic-Club,"1,802",20.0,3.0,0.0,43.0,1.0,1312.0,Athletic-Club
-,Mikel Balenziaga,es ESP,DF,26,23,0.0,0.0,2021-2022,1fe67e86,Athletic-Club,"2,027",22.5,2.0,0.0,43.0,1.0,1279.0,Athletic-Club
-,Daniel Vivian,es ESP,DF,24,22,1.0,2.0,2021-2022,b7bf91d,Athletic-Club,"1,986",22.1,2.0,0.0,43.0,1.0,1324.0,Athletic-Club
-,Iñigo Lekue,es ESP,DF,25,22,2.0,0.0,2021-2022,59b7d823,Athletic-Club,"1,925",21.4,3.0,0.0,43.0,1.0,1313.0,Athletic-Club
-,Yeray Álvarez,es ESP,DF,22,21,0.0,0.0,2021-2022,3ecc11d8,Athletic-Club,"1,860",20.7,6.0,0.0,43.0,1.0,1315.0,Athletic-Club
-,Óscar de Marcos,es ESP,DF,22,19,2.0,1.0,2021-2022,9f323c71,Athletic-Club,"1,679",18.7,5.0,0.0,43.0,1.0,1288.0,Athletic-Club
-,Mikel Vesga,es ESP,MF,32,17,0.0,2.0,2021-2022,b0fce72c,Athletic-Club,"1,358",15.1,7.0,2.0,43.0,1.0,1317.0,Athletic-Club
-,Oihan Sancet,es ESP,FW,27,16,4.0,6.0,2021-2022,bdb624a3,Athletic-Club,"1,422",15.8,2.0,0.0,43.0,1.0,1330.0,Athletic-Club
-,Nico Williams,es ESP,MF,34,11,0.0,0.0,2021-2022,fdc14d7,Athletic-Club,"1,337",14.9,4.0,0.0,43.0,1.0,1337.0,Athletic-Club
-,Yuri Berchiche,es ESP,DF,14,11,2.0,1.0,2021-2022,b6e50615,Athletic-Club,"1,015",11.3,3.0,0.0,43.0,1.0,,Athletic-Club
-,Oier Zarraga,es ESP,MF,31,8,0.0,1.0,2021-2022,968a1c2f,Athletic-Club,"1,166",13.0,5.0,0.0,43.0,1.0,1336.0,Athletic-Club
-,Unai Núñez,es ESP,DF,9,7,0.0,0.0,2021-2022,be170419,Athletic-Club,622,6.9,2.0,0.0,43.0,1.0,1320.0,Athletic-Club
-,Julen Agirrezabala,es ESP,GK,4,4,0.0,0.0,2021-2022,2c1a8d3,Athletic-Club,360,4.0,0.0,0.0,43.0,1.0,1342.0,Athletic-Club
-,Asier Villalibre,es ESP,FW,19,3,0.0,2.0,2021-2022,57be54ec,Athletic-Club,548,6.1,0.0,0.0,43.0,1.0,1318.0,Athletic-Club
-,Nicolás Serrano,es ESP,"MF,FW",14,3,0.0,1.0,2021-2022,2ad0e5e5,Athletic-Club,317,3.5,0.0,0.0,43.0,1.0,1343.0,Athletic-Club
-,Alex Petxa,es ESP,"DF,MF",17,1,0.0,0.0,2021-2022,97d08e60,Athletic-Club,412,4.6,4.0,0.0,43.0,1.0,1344.0,Athletic-Club
-,Jon Morcillo,es ESP,"MF,FW",7,0,0.0,0.0,2021-2022,b7d7f3bf,Athletic-Club,54,0.6,2.0,0.0,43.0,1.0,1335.0,Athletic-Club
-,Ander Capa,es ESP,DF,1,0,0.0,0.0,2021-2022,37f1cf47,Athletic-Club,4,0.0,0.0,0.0,43.0,1.0,1326.0,Athletic-Club
-,Peru Nolaskoain,es ESP,DF,1,0,0.0,0.0,2021-2022,857cb4f3,Athletic-Club,1,0.0,0.0,0.0,43.0,1.0,,Athletic-Club
-,Juan Artola,es ESP,FW,0,0,,,2021-2022,2e3f3462,Athletic-Club,,,,,43.0,1.0,1345.0,Athletic-Club
-,Luis Bilbao,es ESP,FW,0,0,,,2021-2022,cde0e37,Athletic-Club,,,,,43.0,1.0,1346.0,Athletic-Club
-,Jokin Ezkieta,es ESP,GK,0,0,,,2021-2022,0f7dbaf6,Athletic-Club,,,,,43.0,1.0,,Athletic-Club
-,Iru,es ESP,GK,0,0,,,2021-2022,30a31ee,Athletic-Club,,,,,43.0,1.0,1347.0,Athletic-Club
-,Aitor Paredes,es ESP,DF,0,0,,,2021-2022,b906757a,Athletic-Club,,,,,43.0,1.0,1340.0,Athletic-Club
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Joseba Etxeberria,es ESP,"FW,MF",33,32,6.0,14.0,2002-2003,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,"2,736",30.4,5.0,0.0,43,1.0,1228,Athletic-Club
+,Ismael Urzaiz,es ESP,FW,31,29,4.0,14.0,2002-2003,/en/players/3ceb9882/Ismael-Urzaiz,3ceb9882,Athletic-Club,"2,638",29.3,9.0,1.0,43,1.0,1229,Athletic-Club
+,Javi González,es ESP,MF,31,29,3.0,0.0,2002-2003,/en/players/b1e9277c/Javi-Gonzalez,b1e9277c,Athletic-Club,"2,618",29.1,3.0,0.0,43,1.0,1230,Athletic-Club
+,Bittor Alkiza,es ESP,MF,31,28,2.0,1.0,2002-2003,/en/players/bfebd236/Bittor-Alkiza,bfebd236,Athletic-Club,"2,585",28.7,9.0,0.0,43,1.0,212,Athletic-Club
+,Santiago Ezquerro,es ESP,FW,35,28,3.0,11.0,2002-2003,/en/players/c836203d/Santiago-Ezquerro,c836203d,Athletic-Club,"2,468",27.4,5.0,0.0,43,1.0,1097,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",27,26,0.0,4.0,2002-2003,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,213",24.6,9.0,0.0,43,1.0,1231,Athletic-Club
+,Daniel Aranzubia,es ESP,GK,25,25,0.0,0.0,2002-2003,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Athletic-Club,"2,250",25.0,2.0,0.0,43,1.0,432,Athletic-Club
+,Asier del Horno,es ESP,DF,24,22,2.0,4.0,2002-2003,/en/players/eb525f4a/Asier-del-Horno,b525f4a,Athletic-Club,"1,915",21.3,7.0,1.0,43,1.0,908,Athletic-Club
+,Jesús María Lacruz,es ESP,DF,23,22,0.0,0.0,2002-2003,/en/players/ee381989/Jesus-Maria-Lacruz,381989,Athletic-Club,"1,904",21.2,5.0,0.0,43,1.0,1232,Athletic-Club
+,Francisco Yeste,es ESP,MF,28,22,8.0,6.0,2002-2003,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"1,698",18.9,5.0,0.0,43,1.0,1233,Athletic-Club
+,Aitor Karanka,es ESP,DF,24,21,1.0,2.0,2002-2003,/en/players/f3bf77fc/Aitor-Karanka,f3bf77fc,Athletic-Club,"1,880",20.9,9.0,0.0,43,1.0,1234,Athletic-Club
+,Tiko,es ESP,MF,32,18,6.0,2.0,2002-2003,/en/players/88a00d5d/Tiko,88a00d5d,Athletic-Club,"1,720",19.1,3.0,0.0,43,1.0,1235,Athletic-Club
+,Óscar Vales,es ESP,DF,23,17,0.0,0.0,2002-2003,/en/players/f8ef72c8/Oscar-Vales,f8ef72c8,Athletic-Club,"1,607",17.9,2.0,0.0,43,1.0,1236,Athletic-Club
+,Aitor Larrazábal,es ESP,DF,21,16,1.0,2.0,2002-2003,/en/players/d84bc12f/Aitor-Larrazabal,d84bc12f,Athletic-Club,"1,476",16.4,3.0,0.0,43,1.0,1237,Athletic-Club
+,Luis Prieto Zalbidegoitia,es ESP,DF,17,14,0.0,0.0,2002-2003,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,8ae9541e,Athletic-Club,"1,221",13.6,6.0,0.0,43,1.0,1238,Athletic-Club
+,Ander Murillo,es ESP,DF,18,14,1.0,0.0,2002-2003,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,"1,200",13.3,2.0,0.0,43,1.0,736,Athletic-Club
+,Joseba Arriaga,es ESP,FW,28,13,3.0,1.0,2002-2003,/en/players/5819e0da/Joseba-Arriaga,5819e0da,Athletic-Club,"1,389",15.4,2.0,0.0,43,1.0,1239,Athletic-Club
+,Iñaki Lafuente,es ESP,GK,13,13,0.0,0.0,2002-2003,/en/players/a1757556/Inaki-Lafuente,1757556,Athletic-Club,"1,170",13.0,1.0,0.0,43,1.0,1240,Athletic-Club
+,Aitor Ocio,es ESP,DF,18,12,1.0,1.0,2002-2003,/en/players/f1c8639b/Aitor-Ocio,f1c8639b,Athletic-Club,"1,203",13.4,5.0,0.0,43,1.0,1241,Athletic-Club
+,César Caneda,es ESP,DF,10,8,0.0,0.0,2002-2003,/en/players/1013adcf/Cesar-Caneda,1013adcf,Athletic-Club,713,7.9,6.0,0.0,43,1.0,1242,Athletic-Club
+,Julen Guerrero,es ESP,"FW,MF",14,3,0.0,0.0,2002-2003,/en/players/8cb2c693/Julen-Guerrero,8cb2c693,Athletic-Club,375,4.2,1.0,0.0,43,1.0,1243,Athletic-Club
+,Iñigo Larrainzar,es ESP,DF,5,3,0.0,0.0,2002-2003,/en/players/4c7b1e6c/Inigo-Larrainzar,4c7b1e6c,Athletic-Club,334,3.7,0.0,0.0,43,1.0,1244,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,5,3,1.0,0.0,2002-2003,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,193,2.1,2.0,0.0,43,1.0,1245,Athletic-Club
+,Aritz Aduriz,es ESP,FW,3,0,0.0,0.0,2002-2003,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,56,0.6,0.0,0.0,43,1.0,934,Athletic-Club
+,Felipe Guréndez,es ESP,MF,6,0,0.0,0.0,2002-2003,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Athletic-Club,41,0.5,1.0,0.0,43,1.0,1246,Athletic-Club
+,Carlos García,es ESP,"DF,MF",1,0,0.0,0.0,2002-2003,/en/players/4227b136/Carlos-Garcia,4227b136,Athletic-Club,4,0.0,0.0,0.0,43,1.0,1247,Athletic-Club
+,Igor Angulo,es ESP,"FW,MF",1,0,,0.0,2002-2003,/en/players/5715f988/Igor-Angulo,5715f988,Athletic-Club,3,0.0,0.0,0.0,43,1.0,1248,Athletic-Club
+,﻿Daniel Aranzubia,es ESP,GK,34,34,0.0,0.0,2003-2004,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Athletic-Club,"3,060",34.0,3.0,0.0,43,1.0,432,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",34,34,8.0,6.0,2003-2004,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,"3,005",33.4,8.0,0.0,43,1.0,1228,Athletic-Club
+,Aitor Karanka,es ESP,DF,34,33,1.0,0.0,2003-2004,/en/players/f3bf77fc/Aitor-Karanka,f3bf77fc,Athletic-Club,"2,922",32.5,4.0,1.0,43,1.0,1234,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",30,29,0.0,2.0,2003-2004,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,597",28.9,9.0,1.0,43,1.0,1231,Athletic-Club
+,Santiago Ezquerro,es ESP,FW,35,29,1.0,3.0,2003-2004,/en/players/c836203d/Santiago-Ezquerro,c836203d,Athletic-Club,"2,548",28.3,3.0,0.0,43,1.0,1097,Athletic-Club
+,Asier del Horno,es ESP,DF,31,29,3.0,5.0,2003-2004,/en/players/eb525f4a/Asier-del-Horno,b525f4a,Athletic-Club,"2,543",28.3,9.0,1.0,43,1.0,908,Athletic-Club
+,Tiko,es ESP,MF,29,29,4.0,5.0,2003-2004,/en/players/88a00d5d/Tiko,88a00d5d,Athletic-Club,"2,396",26.6,8.0,0.0,43,1.0,1235,Athletic-Club
+,Ismael Urzaiz,es ESP,FW,37,28,5.0,8.0,2003-2004,/en/players/3ceb9882/Ismael-Urzaiz,3ceb9882,Athletic-Club,"2,685",29.8,7.0,0.0,43,1.0,1229,Athletic-Club
+,Luis Prieto Zalbidegoitia,es ESP,DF,29,28,2.0,0.0,2003-2004,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,8ae9541e,Athletic-Club,"2,525",28.1,9.0,1.0,43,1.0,1238,Athletic-Club
+,Francisco Yeste,es ESP,MF,30,24,5.0,11.0,2003-2004,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"2,060",22.9,8.0,0.0,43,1.0,1233,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",30,24,1.0,5.0,2003-2004,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"1,780",19.8,3.0,0.0,43,1.0,1249,Athletic-Club
+,Javi González,es ESP,MF,25,22,0.0,0.0,2003-2004,/en/players/b1e9277c/Javi-Gonzalez,b1e9277c,Athletic-Club,"1,861",20.7,3.0,0.0,43,1.0,1230,Athletic-Club
+,Jesús María Lacruz,es ESP,DF,25,20,0.0,1.0,2003-2004,/en/players/ee381989/Jesus-Maria-Lacruz,381989,Athletic-Club,"1,773",19.7,4.0,2.0,43,1.0,1232,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,25,17,2.0,0.0,2003-2004,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"1,638",18.2,3.0,0.0,43,1.0,1245,Athletic-Club
+,Aitor Larrazábal,es ESP,DF,15,9,0.0,1.0,2003-2004,/en/players/d84bc12f/Aitor-Larrazabal,d84bc12f,Athletic-Club,854,9.5,3.0,0.0,43,1.0,1237,Athletic-Club
+,Jonan García,es ESP,MF,23,7,0.0,2.0,2003-2004,/en/players/f569bf02/Jonan-Garcia,f569bf02,Athletic-Club,815,9.1,2.0,0.0,43,1.0,1250,Athletic-Club
+,César Caneda,es ESP,DF,10,7,1.0,0.0,2003-2004,/en/players/1013adcf/Cesar-Caneda,1013adcf,Athletic-Club,637,7.1,2.0,0.0,43,1.0,1242,Athletic-Club
+,Iñaki Lafuente,es ESP,GK,4,4,0.0,0.0,2003-2004,/en/players/a1757556/Inaki-Lafuente,1757556,Athletic-Club,360,4.0,0.0,0.0,43,1.0,1240,Athletic-Club
+,Joseba Arriaga,es ESP,FW,14,3,0.0,2.0,2003-2004,/en/players/5819e0da/Joseba-Arriaga,5819e0da,Athletic-Club,458,5.1,1.0,0.0,43,1.0,1239,Athletic-Club
+,Ander Murillo,es ESP,DF,4,2,0.0,0.0,2003-2004,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,240,2.7,1.0,0.0,43,1.0,736,Athletic-Club
+,Óscar Vales,es ESP,DF,2,2,0.0,0.0,2003-2004,/en/players/f8ef72c8/Oscar-Vales,f8ef72c8,Athletic-Club,171,1.9,2.0,0.0,43,1.0,1236,Athletic-Club
+,Julen Guerrero,es ESP,"FW,MF",14,1,0.0,1.0,2003-2004,/en/players/8cb2c693/Julen-Guerrero,8cb2c693,Athletic-Club,237,2.6,0.0,0.0,43,1.0,1243,Athletic-Club
+,Endika Bordas,es ESP,MF,9,1,0.0,0.0,2003-2004,/en/players/ce394cc6/Endika-Bordas,ce394cc6,Athletic-Club,222,2.5,2.0,0.0,43,1.0,1251,Athletic-Club
+,Carlos Merino,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/443c8c9a/Carlos-Merino,443c8c9a,Athletic-Club,44,0.5,0.0,0.0,43,1.0,1252,Athletic-Club
+,Felipe Guréndez,es ESP,MF,2,0,0.0,0.0,2003-2004,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Athletic-Club,30,0.3,0.0,0.0,43,1.0,1246,Athletic-Club
+,﻿Daniel Aranzubia,es ESP,GK,37,37,0.0,0.0,2004-2005,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Athletic-Club,"3,302",36.7,3.0,1.0,43,1.0,432,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,35,35,1.0,3.0,2004-2005,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"3,113",34.6,14.0,0.0,43,1.0,1245,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",34,34,0.0,4.0,2004-2005,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"3,010",33.4,7.0,1.0,43,1.0,1231,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",34,31,6.0,4.0,2004-2005,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"2,747",30.5,4.0,0.0,43,1.0,1249,Athletic-Club
+,Santiago Ezquerro,es ESP,FW,32,31,2.0,11.0,2004-2005,/en/players/c836203d/Santiago-Ezquerro,c836203d,Athletic-Club,"2,611",29.0,1.0,0.0,43,1.0,1097,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",33,30,7.0,3.0,2004-2005,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,"2,686",29.8,7.0,0.0,43,1.0,1228,Athletic-Club
+,Ander Murillo,es ESP,DF,31,29,0.0,0.0,2004-2005,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,"2,577",28.6,7.0,0.0,43,1.0,736,Athletic-Club
+,Luis Prieto Zalbidegoitia,es ESP,DF,30,28,1.0,0.0,2004-2005,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,8ae9541e,Athletic-Club,"2,498",27.8,9.0,1.0,43,1.0,1238,Athletic-Club
+,Francisco Yeste,es ESP,MF,27,24,10.0,8.0,2004-2005,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"2,077",23.1,10.0,1.0,43,1.0,1233,Athletic-Club
+,Asier del Horno,es ESP,DF,29,23,4.0,3.0,2004-2005,/en/players/eb525f4a/Asier-del-Horno,b525f4a,Athletic-Club,"2,147",23.9,10.0,0.0,43,1.0,908,Athletic-Club
+,Tiko,es ESP,MF,31,22,2.0,3.0,2004-2005,/en/players/88a00d5d/Tiko,88a00d5d,Athletic-Club,"2,017",22.4,7.0,0.0,43,1.0,1235,Athletic-Club
+,Ismael Urzaiz,es ESP,FW,31,19,2.0,12.0,2004-2005,/en/players/3ceb9882/Ismael-Urzaiz,3ceb9882,Athletic-Club,"1,828",20.3,4.0,0.0,43,1.0,1229,Athletic-Club
+,Javier Casas,es ESP,DF,19,14,0.0,0.0,2004-2005,/en/players/269e763d/Javier-Casas,269e763d,Athletic-Club,"1,124",12.5,4.0,0.0,43,1.0,1253,Athletic-Club
+,Jesús María Lacruz,es ESP,DF,16,12,1.0,2.0,2004-2005,/en/players/ee381989/Jesus-Maria-Lacruz,381989,Athletic-Club,"1,114",12.4,2.0,0.0,43,1.0,1232,Athletic-Club
+,Fernando Llorente,es ESP,FW,15,9,0.0,3.0,2004-2005,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,818,9.1,1.0,0.0,43,1.0,1254,Athletic-Club
+,Javi González,es ESP,MF,10,7,0.0,0.0,2004-2005,/en/players/b1e9277c/Javi-Gonzalez,b1e9277c,Athletic-Club,669,7.4,2.0,0.0,43,1.0,1230,Athletic-Club
+,Joseba Arriaga,es ESP,FW,14,7,1.0,0.0,2004-2005,/en/players/5819e0da/Joseba-Arriaga,5819e0da,Athletic-Club,644,7.2,0.0,0.0,43,1.0,1239,Athletic-Club
+,Jonan García,es ESP,MF,13,6,1.0,0.0,2004-2005,/en/players/f569bf02/Jonan-Garcia,f569bf02,Athletic-Club,471,5.2,0.0,0.0,43,1.0,1250,Athletic-Club
+,Aitor Karanka,es ESP,DF,6,5,0.0,0.0,2004-2005,/en/players/f3bf77fc/Aitor-Karanka,f3bf77fc,Athletic-Club,466,5.2,3.0,0.0,43,1.0,1234,Athletic-Club
+,Aritz Solabarrieta,es ESP,MF,11,3,0.0,0.0,2004-2005,/en/players/d9124b81/Aritz-Solabarrieta,d9124b81,Athletic-Club,324,3.6,1.0,0.0,43,1.0,1255,Athletic-Club
+,César Caneda,es ESP,DF,7,3,0.0,0.0,2004-2005,/en/players/1013adcf/Cesar-Caneda,1013adcf,Athletic-Club,323,3.6,1.0,0.0,43,1.0,1242,Athletic-Club
+,Felipe Guréndez,es ESP,MF,4,2,0.0,0.0,2004-2005,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Athletic-Club,148,1.6,0.0,0.0,43,1.0,1246,Athletic-Club
+,Igor Angulo,es ESP,"FW,MF",3,2,0.0,0.0,2004-2005,/en/players/5715f988/Igor-Angulo,5715f988,Athletic-Club,142,1.6,0.0,0.0,43,1.0,1248,Athletic-Club
+,Endika Bordas,es ESP,MF,3,2,0.0,0.0,2004-2005,/en/players/ce394cc6/Endika-Bordas,ce394cc6,Athletic-Club,106,1.2,0.0,0.0,43,1.0,1251,Athletic-Club
+,Gorka Azkorra,es ESP,FW,5,1,0.0,0.0,2004-2005,/en/players/b6ba90f9/Gorka-Azkorra,b6ba90f9,Athletic-Club,144,1.6,0.0,0.0,43,1.0,1256,Athletic-Club
+,Roberto Pampin,,GK,2,1,0.0,0.0,2004-2005,/en/players/6cb7de4e/Roberto-Pampin,6cb7de4e,Athletic-Club,118,1.3,0.0,0.0,43,,90007,Athletic-Club
+,Jon Moya,es ESP,DF,2,1,,0.0,2004-2005,/en/players/cb72eae9/Jon-Moya,cb72eae9,Athletic-Club,92,1.0,1.0,0.0,43,1.0,1257,Athletic-Club
+,Julen Guerrero,es ESP,"FW,MF",12,0,0.0,3.0,2004-2005,/en/players/8cb2c693/Julen-Guerrero,8cb2c693,Athletic-Club,232,2.6,1.0,0.0,43,1.0,1243,Athletic-Club
+,﻿Pablo Orbaiz,es ESP,MF,36,36,2.0,3.0,2005-2006,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"3,228",35.9,10.0,0.0,43,1.0,1245,Athletic-Club
+,Luis Prieto Zalbidegoitia,es ESP,DF,36,36,0.0,4.0,2005-2006,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,8ae9541e,Athletic-Club,"2,993",33.3,7.0,0.0,43,1.0,1238,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",38,34,3.0,3.0,2005-2006,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"3,169",35.2,1.0,0.0,43,1.0,1249,Athletic-Club
+,Francisco Yeste,es ESP,MF,35,34,13.0,4.0,2005-2006,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"2,877",32.0,9.0,0.0,43,1.0,1233,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",30,30,1.0,2.0,2005-2006,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,602",28.9,10.0,0.0,43,1.0,1231,Athletic-Club
+,Jesús María Lacruz,es ESP,DF,28,24,0.0,4.0,2005-2006,/en/players/ee381989/Jesus-Maria-Lacruz,381989,Athletic-Club,"2,128",23.6,8.0,0.0,43,1.0,1232,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",29,24,2.0,3.0,2005-2006,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,"1,973",21.9,7.0,0.0,43,1.0,1228,Athletic-Club
+,Javier Casas,es ESP,DF,24,21,0.0,2.0,2005-2006,/en/players/269e763d/Javier-Casas,269e763d,Athletic-Club,"1,802",20.0,4.0,1.0,43,1.0,1253,Athletic-Club
+,Iñaki Lafuente,es ESP,GK,20,20,0.0,0.0,2005-2006,/en/players/a1757556/Inaki-Lafuente,1757556,Athletic-Club,"1,800",20.0,0.0,0.0,43,1.0,1240,Athletic-Club
+,Ander Murillo,es ESP,DF,26,19,1.0,0.0,2005-2006,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,"1,909",21.2,3.0,0.0,43,1.0,736,Athletic-Club
+,Unai Expósito,es ESP,DF,24,19,0.0,0.0,2005-2006,/en/players/3aca2200/Unai-Exposito,3aca2200,Athletic-Club,"1,747",19.4,5.0,1.0,43,1.0,1258,Athletic-Club
+,Daniel Aranzubia,es ESP,GK,18,18,0.0,0.0,2005-2006,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Athletic-Club,"1,620",18.0,0.0,0.0,43,1.0,432,Athletic-Club
+,Ustaritz,es ESP,DF,18,18,1.0,0.0,2005-2006,/en/players/49f85a05/Ustaritz,49f85a05,Athletic-Club,"1,523",16.9,2.0,0.0,43,1.0,1259,Athletic-Club
+,Ismael Urzaiz,es ESP,FW,26,16,0.0,3.0,2005-2006,/en/players/3ceb9882/Ismael-Urzaiz,3ceb9882,Athletic-Club,"1,555",17.3,1.0,1.0,43,1.0,1229,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,15,15,0.0,0.0,2005-2006,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"1,111",12.3,8.0,1.0,43,53.0,1260,Athletic-Club
+,Aritz Aduriz,es ESP,FW,15,13,2.0,6.0,2005-2006,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"1,122",12.5,3.0,0.0,43,1.0,934,Athletic-Club
+,Fernando Llorente,es ESP,FW,22,12,3.0,2.0,2005-2006,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,"1,087",12.1,2.0,0.0,43,1.0,1254,Athletic-Club
+,Mikel Dañobeitia,es ESP,"DF,FW",22,8,0.0,1.0,2005-2006,/en/players/79ef0c96/Mikel-Danobeitia,79ef0c96,Athletic-Club,822,9.1,2.0,0.0,43,1.0,1261,Athletic-Club
+,Tiko,es ESP,MF,28,6,0.0,1.0,2005-2006,/en/players/88a00d5d/Tiko,88a00d5d,Athletic-Club,879,9.8,4.0,0.0,43,1.0,1235,Athletic-Club
+,Ibón Gutiérrez,es ESP,MF,5,5,0.0,0.0,2005-2006,/en/players/2354802e/Ibon-Gutierrez,2354802e,Athletic-Club,450,5.0,0.0,0.0,43,1.0,1262,Athletic-Club
+,Julen Guerrero,es ESP,"FW,MF",17,4,0.0,0.0,2005-2006,/en/players/8cb2c693/Julen-Guerrero,8cb2c693,Athletic-Club,499,5.5,2.0,0.0,43,1.0,1243,Athletic-Club
+,Javi González,es ESP,MF,5,3,0.0,0.0,2005-2006,/en/players/b1e9277c/Javi-Gonzalez,b1e9277c,Athletic-Club,216,2.4,0.0,0.0,43,1.0,1230,Athletic-Club
+,Javier Tarantino,es ESP,DF,3,2,0.0,0.0,2005-2006,/en/players/0bf40bdb/Javier-Tarantino,0bf40bdb,Athletic-Club,158,1.8,2.0,2.0,43,1.0,1263,Athletic-Club
+,Endika Bordas,es ESP,MF,2,1,,0.0,2005-2006,/en/players/ce394cc6/Endika-Bordas,ce394cc6,Athletic-Club,120,1.3,0.0,0.0,43,1.0,1251,Athletic-Club
+,Felipe Guréndez,es ESP,MF,1,0,0.0,1.0,2005-2006,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Athletic-Club,40,0.4,0.0,0.0,43,1.0,1246,Athletic-Club
+,Urko Arroyo,es ESP,FW,1,0,,0.0,2005-2006,/en/players/9100ac46/Urko-Arroyo,9100ac46,Athletic-Club,7,0.1,0.0,0.0,43,1.0,1264,Athletic-Club
+,﻿Josu Sarriegi,es ESP,DF,36,36,0.0,0.0,2006-2007,/en/players/cca08d01/Josu-Sarriegi,cca08d01,Athletic-Club,"3,226",35.8,9.0,0.0,43,1.0,3281,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",35,35,5.0,5.0,2006-2007,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"3,104",34.5,5.0,0.0,43,1.0,1249,Athletic-Club
+,Javi Martínez,es ESP,"DF,MF",35,32,1.0,3.0,2006-2007,/en/players/7f97771d/Javi-Martinez,7f97771d,Athletic-Club,"2,784",30.9,6.0,0.0,43,1.0,1265,Athletic-Club
+,Ander Murillo,es ESP,DF,34,31,1.0,1.0,2006-2007,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,"2,848",31.6,16.0,1.0,43,1.0,736,Athletic-Club
+,Francisco Yeste,es ESP,MF,38,31,9.0,5.0,2006-2007,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"2,720",30.2,4.0,0.0,43,1.0,1233,Athletic-Club
+,Unai Expósito,es ESP,DF,31,29,1.0,0.0,2006-2007,/en/players/3aca2200/Unai-Exposito,3aca2200,Athletic-Club,"2,713",30.1,6.0,0.0,43,1.0,1258,Athletic-Club
+,Daniel Aranzubia,es ESP,GK,28,28,0.0,0.0,2006-2007,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Athletic-Club,"2,457",27.3,2.0,0.0,43,1.0,432,Athletic-Club
+,Aritz Aduriz,es ESP,FW,34,27,3.0,9.0,2006-2007,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,399",26.7,4.0,3.0,43,1.0,934,Athletic-Club
+,Igor Gabilondo,es ESP,MF,33,27,2.0,3.0,2006-2007,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Athletic-Club,"2,154",23.9,3.0,1.0,43,1.0,203,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,27,21,0.0,0.0,2006-2007,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"1,786",19.8,11.0,1.0,43,53.0,1260,Athletic-Club
+,Ismael Urzaiz,es ESP,FW,32,20,0.0,8.0,2006-2007,/en/players/3ceb9882/Ismael-Urzaiz,3ceb9882,Athletic-Club,"1,787",19.9,5.0,0.0,43,1.0,1229,Athletic-Club
+,Luis Prieto Zalbidegoitia,es ESP,DF,19,18,0.0,2.0,2006-2007,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,8ae9541e,Athletic-Club,"1,582",17.6,4.0,0.0,43,1.0,1238,Athletic-Club
+,Javier Casas,es ESP,DF,19,18,1.0,0.0,2006-2007,/en/players/269e763d/Javier-Casas,269e763d,Athletic-Club,"1,392",15.5,2.0,1.0,43,1.0,1253,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",28,17,4.0,3.0,2006-2007,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,"1,583",17.6,2.0,0.0,43,1.0,1228,Athletic-Club
+,Ustaritz,es ESP,DF,13,10,0.0,0.0,2006-2007,/en/players/49f85a05/Ustaritz,49f85a05,Athletic-Club,986,11.0,3.0,0.0,43,1.0,1259,Athletic-Club
+,Iñaki Lafuente,es ESP,GK,11,10,0.0,0.0,2006-2007,/en/players/a1757556/Inaki-Lafuente,1757556,Athletic-Club,963,10.7,0.0,0.0,43,1.0,1240,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,9,9,0.0,0.0,2006-2007,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,672,7.5,3.0,0.0,43,1.0,1245,Athletic-Club
+,Javi González,es ESP,MF,11,8,0.0,0.0,2006-2007,/en/players/b1e9277c/Javi-Gonzalez,b1e9277c,Athletic-Club,760,8.4,1.0,0.0,43,1.0,1230,Athletic-Club
+,Joseba Garmendia,es ESP,"DF,MF",16,6,0.0,1.0,2006-2007,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Athletic-Club,624,6.9,0.0,0.0,43,1.0,1266,Athletic-Club
+,Fernando Llorente,es ESP,FW,23,2,0.0,2.0,2006-2007,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,459,5.1,0.0,0.0,43,1.0,1254,Athletic-Club
+,Tiko,es ESP,MF,5,1,0.0,0.0,2006-2007,/en/players/88a00d5d/Tiko,88a00d5d,Athletic-Club,156,1.7,2.0,0.0,43,1.0,1235,Athletic-Club
+,Javier Iturriaga,mx MEX,MF,4,1,0.0,0.0,2006-2007,/en/players/6925a533/Javier-Iturriaga,6925a533,Athletic-Club,106,1.2,1.0,0.0,43,20.0,1267,Athletic-Club
+,Mikel Dañobeitia,es ESP,"DF,FW",4,1,0.0,0.0,2006-2007,/en/players/79ef0c96/Mikel-Danobeitia,79ef0c96,Athletic-Club,88,1.0,0.0,0.0,43,1.0,1261,Athletic-Club
+,Iban Zubiaurre,es ESP,DF,1,0,0.0,0.0,2006-2007,/en/players/be3e3e7e/Iban-Zubiaurre,be3e3e7e,Athletic-Club,33,0.4,0.0,0.0,43,1.0,224,Athletic-Club
+,Gaizka Bergara,es ESP,DF,1,0,0.0,0.0,2006-2007,/en/players/e014adf5/Gaizka-Bergara,014adf5,Athletic-Club,14,0.2,1.0,0.0,43,1.0,1268,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,1,0,,0.0,2006-2007,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,7,0.1,0.0,0.0,43,1.0,1269,Athletic-Club
+,﻿Andoni Iraola,es ESP,"DF,MF",36,35,0.0,1.0,2007-2008,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"3,145",34.9,6.0,0.0,43,1.0,1249,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,34,34,1.0,0.0,2007-2008,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"2,990",33.2,13.0,1.0,43,53.0,1260,Athletic-Club
+,Javi Martínez,es ESP,"DF,MF",34,33,1.0,1.0,2007-2008,/en/players/7f97771d/Javi-Martinez,7f97771d,Athletic-Club,"2,763",30.7,13.0,0.0,43,1.0,1265,Athletic-Club
+,Aitor Ocio,es ESP,DF,27,27,0.0,0.0,2007-2008,/en/players/f1c8639b/Aitor-Ocio,f1c8639b,Athletic-Club,"2,316",25.7,12.0,3.0,43,1.0,1241,Athletic-Club
+,Fernando Llorente,es ESP,FW,35,25,3.0,11.0,2007-2008,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,"2,303",25.6,4.0,0.0,43,1.0,1254,Athletic-Club
+,Koikili Lertxundi,es ESP,DF,27,25,0.0,1.0,2007-2008,/en/players/066272e4/Koikili-Lertxundi,066272e4,Athletic-Club,"2,204",24.5,7.0,1.0,43,1.0,1270,Athletic-Club
+,Markel Susaeta,es ESP,MF,29,23,1.0,4.0,2007-2008,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"1,990",22.1,8.0,0.0,43,1.0,1271,Athletic-Club
+,Francisco Yeste,es ESP,MF,24,21,0.0,3.0,2007-2008,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"1,736",19.3,7.0,1.0,43,1.0,1233,Athletic-Club
+,Igor Gabilondo,es ESP,MF,26,21,2.0,4.0,2007-2008,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Athletic-Club,"1,718",19.1,2.0,0.0,43,1.0,203,Athletic-Club
+,David López,es ESP,MF,31,20,2.0,2.0,2007-2008,/en/players/a698164e/David-Lopez,698164e,Athletic-Club,"1,953",21.7,4.0,0.0,43,1.0,1272,Athletic-Club
+,Aritz Aduriz,es ESP,FW,33,20,4.0,7.0,2007-2008,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"1,942",21.6,4.0,0.0,43,1.0,934,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,23,20,0.0,0.0,2007-2008,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"1,726",19.2,8.0,0.0,43,1.0,1245,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",25,20,2.0,4.0,2007-2008,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,"1,525",16.9,5.0,0.0,43,1.0,1228,Athletic-Club
+,Armando,es ESP,GK,16,16,0.0,0.0,2007-2008,/en/players/af8f7643/Armando,f8f7643,Athletic-Club,"1,422",15.8,3.0,0.0,43,1.0,1273,Athletic-Club
+,Ustaritz,es ESP,DF,19,14,0.0,0.0,2007-2008,/en/players/49f85a05/Ustaritz,49f85a05,Athletic-Club,"1,283",14.3,5.0,0.0,43,1.0,1259,Athletic-Club
+,Asier del Horno,es ESP,DF,16,13,1.0,0.0,2007-2008,/en/players/eb525f4a/Asier-del-Horno,b525f4a,Athletic-Club,"1,160",12.9,5.0,1.0,43,1.0,908,Athletic-Club
+,Gorka Iraizoz,es ESP,GK,13,13,0.0,0.0,2007-2008,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"1,121",12.5,3.0,0.0,43,1.0,1274,Athletic-Club
+,Daniel Aranzubia,es ESP,GK,10,9,0.0,0.0,2007-2008,/en/players/0e9ce3e0/Daniel-Aranzubia,0e9ce3e0,Athletic-Club,859,9.5,1.0,0.0,43,1.0,432,Athletic-Club
+,Joseba Garmendia,es ESP,"DF,MF",18,8,1.0,1.0,2007-2008,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Athletic-Club,767,8.5,2.0,0.0,43,1.0,1266,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",5,5,0.0,0.0,2007-2008,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,450,5.0,2.0,0.0,43,1.0,1231,Athletic-Club
+,Iñaki Muñoz,es ESP,MF,13,3,0.0,0.0,2007-2008,/en/players/47a19ca1/Inaki-Munoz,47a19ca1,Athletic-Club,502,5.6,2.0,0.0,43,1.0,1275,Athletic-Club
+,Ion Vélez,es ESP,FW,9,2,0.0,0.0,2007-2008,/en/players/3a6c16de/Ion-Velez,3a6c16de,Athletic-Club,315,3.5,0.0,0.0,43,1.0,1276,Athletic-Club
+,Aitor Ramos,es ESP,"FW,MF",5,2,0.0,0.0,2007-2008,/en/players/900029f5/Aitor-Ramos,900029f5,Athletic-Club,223,2.5,0.0,0.0,43,1.0,1277,Athletic-Club
+,Unai Expósito,es ESP,DF,3,2,0.0,0.0,2007-2008,/en/players/3aca2200/Unai-Exposito,3aca2200,Athletic-Club,200,2.2,0.0,0.0,43,1.0,1258,Athletic-Club
+,Tiko,es ESP,MF,2,2,0.0,0.0,2007-2008,/en/players/88a00d5d/Tiko,88a00d5d,Athletic-Club,121,1.3,1.0,0.0,43,1.0,1235,Athletic-Club
+,David Cuéllar,es ESP,MF,7,1,0.0,0.0,2007-2008,/en/players/d386f165/David-Cuellar,d386f165,Athletic-Club,212,2.4,0.0,0.0,43,1.0,1278,Athletic-Club
+,Ander Murillo,es ESP,DF,6,1,0.0,0.0,2007-2008,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,134,1.5,1.0,0.0,43,1.0,736,Athletic-Club
+,Luis Prieto Zalbidegoitia,es ESP,DF,3,1,0.0,0.0,2007-2008,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,8ae9541e,Athletic-Club,95,1.1,0.0,0.0,43,1.0,1238,Athletic-Club
+,Iban Zubiaurre,es ESP,DF,1,1,0.0,0.0,2007-2008,/en/players/be3e3e7e/Iban-Zubiaurre,be3e3e7e,Athletic-Club,90,1.0,0.0,0.0,43,1.0,224,Athletic-Club
+,Urko Arroyo,es ESP,FW,1,1,,0.0,2007-2008,/en/players/9100ac46/Urko-Arroyo,9100ac46,Athletic-Club,44,0.5,0.0,0.0,43,1.0,1264,Athletic-Club
+,﻿Gorka Iraizoz,es ESP,GK,36,36,0.0,0.0,2008-2009,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,240",36.0,2.0,0.0,43,1.0,1274,Athletic-Club
+,Fernando Llorente,es ESP,FW,34,34,1.0,14.0,2008-2009,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,"2,846",31.6,3.0,0.0,43,1.0,1254,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",33,33,1.0,6.0,2008-2009,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"2,936",32.6,5.0,0.0,43,1.0,1249,Athletic-Club
+,Javi Martínez,es ESP,"DF,MF",32,30,0.0,4.0,2008-2009,/en/players/7f97771d/Javi-Martinez,7f97771d,Athletic-Club,"2,584",28.7,9.0,1.0,43,1.0,1265,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,29,28,0.0,0.0,2008-2009,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"2,479",27.5,14.0,1.0,43,53.0,1260,Athletic-Club
+,Aitor Ocio,es ESP,DF,28,28,0.0,1.0,2008-2009,/en/players/f1c8639b/Aitor-Ocio,f1c8639b,Athletic-Club,"2,409",26.8,8.0,2.0,43,1.0,1241,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,30,27,0.0,1.0,2008-2009,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"2,361",26.2,12.0,2.0,43,1.0,1245,Athletic-Club
+,David López,es ESP,MF,29,26,4.0,3.0,2008-2009,/en/players/a698164e/David-Lopez,698164e,Athletic-Club,"2,014",22.4,7.0,0.0,43,1.0,1272,Athletic-Club
+,Markel Susaeta,es ESP,MF,34,24,3.0,1.0,2008-2009,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"2,256",25.1,4.0,1.0,43,1.0,1271,Athletic-Club
+,Francisco Yeste,es ESP,MF,28,24,5.0,3.0,2008-2009,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"1,983",22.0,7.0,3.0,43,1.0,1233,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,24,21,0.0,0.0,2008-2009,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"1,911",21.2,7.0,1.0,43,1.0,1279,Athletic-Club
+,Koikili Lertxundi,es ESP,DF,18,18,0.0,1.0,2008-2009,/en/players/066272e4/Koikili-Lertxundi,066272e4,Athletic-Club,"1,550",17.2,5.0,0.0,43,1.0,1270,Athletic-Club
+,Ion Vélez,es ESP,FW,29,17,3.0,3.0,2008-2009,/en/players/3a6c16de/Ion-Velez,3a6c16de,Athletic-Club,"1,566",17.4,2.0,0.0,43,1.0,1276,Athletic-Club
+,Igor Gabilondo,es ESP,MF,17,11,1.0,2.0,2008-2009,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Athletic-Club,885,9.8,2.0,0.0,43,1.0,203,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",20,10,2.0,2.0,2008-2009,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,"1,174",13.0,4.0,0.0,43,1.0,1280,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",19,10,1.0,0.0,2008-2009,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,975,10.8,8.0,0.0,43,1.0,1231,Athletic-Club
+,Ustaritz,es ESP,DF,11,10,0.0,0.0,2008-2009,/en/players/49f85a05/Ustaritz,49f85a05,Athletic-Club,836,9.3,5.0,0.0,43,1.0,1259,Athletic-Club
+,Xabier Etxeita,es ESP,DF,14,8,0.0,1.0,2008-2009,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,982,10.9,3.0,1.0,43,1.0,1281,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",22,7,0.0,2.0,2008-2009,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,704,7.8,2.0,0.0,43,1.0,1228,Athletic-Club
+,Joseba Garmendia,es ESP,"DF,MF",11,5,0.0,1.0,2008-2009,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Athletic-Club,479,5.3,1.0,0.0,43,1.0,1266,Athletic-Club
+,Joseba del Olmo,es ESP,MF,10,2,0.0,1.0,2008-2009,/en/players/41abf0c3/Joseba-del-Olmo,41abf0c3,Athletic-Club,313,3.5,0.0,0.0,43,1.0,1282,Athletic-Club
+,Iñaki Muñoz,es ESP,MF,5,2,0.0,0.0,2008-2009,/en/players/47a19ca1/Inaki-Munoz,47a19ca1,Athletic-Club,249,2.8,2.0,0.0,43,1.0,1275,Athletic-Club
+,Armando,es ESP,GK,2,2,0.0,0.0,2008-2009,/en/players/af8f7643/Armando,f8f7643,Athletic-Club,180,2.0,1.0,0.0,43,1.0,1273,Athletic-Club
+,Ander Iturraspe,es ESP,MF,4,1,0.0,0.0,2008-2009,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,126,1.4,1.0,0.0,43,1.0,1283,Athletic-Club
+,Javier Casas,es ESP,DF,2,1,0.0,0.0,2008-2009,/en/players/269e763d/Javier-Casas,269e763d,Athletic-Club,100,1.1,0.0,0.0,43,1.0,1253,Athletic-Club
+,Eneko Bóveda,es ESP,DF,2,1,0.0,0.0,2008-2009,/en/players/1771f2c1/Eneko-Boveda,1771f2c1,Athletic-Club,93,1.0,0.0,0.0,43,1.0,534,Athletic-Club
+,Adrien Goñi,es ESP,MF,1,1,0.0,0.0,2008-2009,/en/players/c14fe8f1/Adrien-Goni,c14fe8f1,Athletic-Club,45,0.5,0.0,0.0,43,1.0,1284,Athletic-Club
+,Ander Murillo,es ESP,DF,2,1,0.0,0.0,2008-2009,/en/players/878aa987/Ander-Murillo,878aa987,Athletic-Club,33,0.4,1.0,0.0,43,1.0,736,Athletic-Club
+,Iñigo Vélez,es ESP,FW,3,0,0.0,0.0,2008-2009,/en/players/08cc09ee/Inigo-Velez,08cc09ee,Athletic-Club,55,0.6,0.0,0.0,43,1.0,1285,Athletic-Club
+,Xabi Etxebarria,es ESP,"DF,FW",1,0,0.0,0.0,2008-2009,/en/players/c1af46d9/Xabi-Etxebarria,c1af46d9,Athletic-Club,2,0.0,0.0,0.0,43,1.0,1286,Athletic-Club
+,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2009-2010,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,330",37.0,4.0,0.0,43,1.0,1274,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",37,37,0.0,2.0,2009-2010,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"3,218",35.8,7.0,0.0,43,1.0,1249,Athletic-Club
+,Fernando Llorente,es ESP,FW,37,35,4.0,14.0,2009-2010,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,"2,843",31.6,0.0,0.0,43,1.0,1254,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,34,34,0.0,0.0,2009-2010,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"2,990",33.2,13.0,1.0,43,53.0,1260,Athletic-Club
+,Javi Martínez,es ESP,"DF,MF",34,34,1.0,6.0,2009-2010,/en/players/7f97771d/Javi-Martinez,7f97771d,Athletic-Club,"2,990",33.2,8.0,1.0,43,1.0,1265,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",34,30,0.0,1.0,2009-2010,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,434",27.0,5.0,2.0,43,1.0,1231,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",31,26,4.0,8.0,2009-2010,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,"2,195",24.4,6.0,0.0,43,1.0,1280,Athletic-Club
+,Mikel San José,es ESP,"DF,MF",25,24,0.0,1.0,2009-2010,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,163",24.0,8.0,0.0,43,1.0,1287,Athletic-Club
+,Markel Susaeta,es ESP,MF,35,23,2.0,4.0,2009-2010,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"2,324",25.8,7.0,0.0,43,1.0,1271,Athletic-Club
+,Koikili Lertxundi,es ESP,DF,21,20,1.0,0.0,2009-2010,/en/players/066272e4/Koikili-Lertxundi,066272e4,Athletic-Club,"1,727",19.2,6.0,1.0,43,1.0,1270,Athletic-Club
+,Xabier Castillo,hr CRO,DF,19,18,0.0,0.0,2009-2010,/en/players/638dc43b/Xabier-Castillo,638dc43b,Athletic-Club,"1,595",17.7,4.0,0.0,43,16.0,251,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,20,17,1.0,1.0,2009-2010,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"1,344",14.9,5.0,2.0,43,1.0,1245,Athletic-Club
+,Igor Gabilondo,es ESP,MF,26,16,3.0,3.0,2009-2010,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Athletic-Club,"1,341",14.9,1.0,0.0,43,1.0,203,Athletic-Club
+,Ustaritz,es ESP,DF,15,15,0.0,1.0,2009-2010,/en/players/49f85a05/Ustaritz,49f85a05,Athletic-Club,"1,248",13.9,2.0,2.0,43,1.0,1259,Athletic-Club
+,Francisco Yeste,es ESP,MF,22,13,2.0,2.0,2009-2010,/en/players/8b3e6045/Francisco-Yeste,8b3e6045,Athletic-Club,"1,120",12.4,4.0,0.0,43,1.0,1233,Athletic-Club
+,Ander Iturraspe,es ESP,MF,15,11,1.0,0.0,2009-2010,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,872,9.7,4.0,0.0,43,1.0,1283,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,FW",19,9,0.0,1.0,2009-2010,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,924,10.3,1.0,0.0,43,1.0,1288,Athletic-Club
+,David López,es ESP,MF,17,7,3.0,0.0,2009-2010,/en/players/a698164e/David-Lopez,698164e,Athletic-Club,646,7.2,1.0,0.0,43,1.0,1272,Athletic-Club
+,Iker Muniain,es ESP,"FW,MF",26,4,2.0,4.0,2009-2010,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,887,9.9,2.0,0.0,43,1.0,1289,Athletic-Club
+,Aitor Ocio,es ESP,DF,3,3,0.0,0.0,2009-2010,/en/players/f1c8639b/Aitor-Ocio,f1c8639b,Athletic-Club,270,3.0,2.0,0.0,43,1.0,1241,Athletic-Club
+,Joseba Etxeberria,es ESP,"FW,MF",7,2,0.0,0.0,2009-2010,/en/players/756aa908/Joseba-Etxeberria,756aa908,Athletic-Club,273,3.0,0.0,0.0,43,1.0,1228,Athletic-Club
+,Xabier Etxeita,es ESP,DF,3,1,0.0,0.0,2009-2010,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,200,2.2,1.0,0.0,43,1.0,1281,Athletic-Club
+,Ion Vélez,es ESP,FW,2,1,0.0,0.0,2009-2010,/en/players/3a6c16de/Ion-Velez,3a6c16de,Athletic-Club,111,1.2,1.0,0.0,43,1.0,1276,Athletic-Club
+,Armando,es ESP,GK,1,1,0.0,0.0,2009-2010,/en/players/af8f7643/Armando,f8f7643,Athletic-Club,90,1.0,0.0,0.0,43,1.0,1273,Athletic-Club
+,Iñigo Díaz de Cerio,es ESP,FW,5,0,0.0,0.0,2009-2010,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Athletic-Club,100,1.1,0.0,0.0,43,1.0,239,Athletic-Club
+,Iñigo Pérez,es ESP,MF,3,0,0.0,0.0,2009-2010,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Athletic-Club,48,0.5,0.0,0.0,43,1.0,1290,Athletic-Club
+,Eneko Bóveda,es ESP,DF,1,0,0.0,0.0,2009-2010,/en/players/1771f2c1/Eneko-Boveda,1771f2c1,Athletic-Club,33,0.4,0.0,0.0,43,1.0,534,Athletic-Club
+,Iñaki Muñoz,es ESP,MF,1,0,0.0,0.0,2009-2010,/en/players/47a19ca1/Inaki-Munoz,47a19ca1,Athletic-Club,31,0.3,0.0,0.0,43,1.0,1275,Athletic-Club
+,Isaac Aketxe,es ESP,"FW,MF",1,0,0.0,0.0,2009-2010,/en/players/a2085323/Isaac-Aketxe,2085323,Athletic-Club,12,0.1,0.0,0.0,43,1.0,1291,Athletic-Club
+,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2010-2011,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,330",37.0,5.0,0.0,43,1.0,1274,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",37,37,6.0,4.0,2010-2011,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"3,289",36.5,6.0,0.0,43,1.0,1249,Athletic-Club
+,Fernando Llorente,es ESP,FW,38,37,2.0,18.0,2010-2011,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,"3,163",35.1,4.0,0.0,43,1.0,1254,Athletic-Club
+,Javi Martínez,es ESP,"DF,MF",35,35,2.0,4.0,2010-2011,/en/players/7f97771d/Javi-Martinez,7f97771d,Athletic-Club,"2,974",33.0,11.0,0.0,43,1.0,1265,Athletic-Club
+,Mikel San José,es ESP,"DF,MF",31,30,0.0,2.0,2010-2011,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,674",29.7,10.0,1.0,43,1.0,1287,Athletic-Club
+,Iker Muniain,es ESP,"FW,MF",35,30,2.0,5.0,2010-2011,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,564",28.5,6.0,0.0,43,1.0,1289,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",31,28,0.0,2.0,2010-2011,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,269",25.2,16.0,0.0,43,1.0,1231,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",30,26,3.0,7.0,2010-2011,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,"2,060",22.9,4.0,0.0,43,1.0,1280,Athletic-Club
+,Borja Ekiza,es ESP,DF,21,21,0.0,0.0,2010-2011,/en/players/6465e1c9/Borja-Ekiza,6465e1c9,Athletic-Club,"1,890",21.0,1.0,0.0,43,1.0,1292,Athletic-Club
+,Pablo Orbaiz,es ESP,MF,26,18,2.0,1.0,2010-2011,/en/players/3654d355/Pablo-Orbaiz,3654d355,Athletic-Club,"1,672",18.6,3.0,0.0,43,1.0,1245,Athletic-Club
+,David López,es ESP,MF,28,17,6.0,6.0,2010-2011,/en/players/a698164e/David-Lopez,698164e,Athletic-Club,"1,606",17.8,3.0,0.0,43,1.0,1272,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,17,16,0.0,0.0,2010-2011,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"1,389",15.4,7.0,1.0,43,53.0,1260,Athletic-Club
+,Koikili Lertxundi,es ESP,DF,16,16,0.0,0.0,2010-2011,/en/players/066272e4/Koikili-Lertxundi,066272e4,Athletic-Club,"1,343",14.9,5.0,1.0,43,1.0,1270,Athletic-Club
+,Markel Susaeta,es ESP,MF,28,15,4.0,1.0,2010-2011,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"1,447",16.1,3.0,0.0,43,1.0,1271,Athletic-Club
+,Igor Gabilondo,es ESP,MF,29,10,4.0,5.0,2010-2011,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Athletic-Club,"1,060",11.8,1.0,0.0,43,1.0,203,Athletic-Club
+,Xabier Castillo,hr CRO,DF,11,10,0.0,0.0,2010-2011,/en/players/638dc43b/Xabier-Castillo,638dc43b,Athletic-Club,859,9.5,3.0,2.0,43,16.0,251,Athletic-Club
+,Jon Aurtenetxe,es ESP,DF,10,9,1.0,0.0,2010-2011,/en/players/74b0e3ce/Jon-Aurtenetxe,74b0e3ce,Athletic-Club,805,8.9,5.0,1.0,43,1.0,762,Athletic-Club
+,Ustaritz,es ESP,DF,10,8,0.0,0.0,2010-2011,/en/players/49f85a05/Ustaritz,49f85a05,Athletic-Club,733,8.1,3.0,1.0,43,1.0,1259,Athletic-Club
+,Ander Iturraspe,es ESP,MF,17,5,0.0,0.0,2010-2011,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,564,6.3,5.0,0.0,43,1.0,1283,Athletic-Club
+,Igor Martínez,es ESP,"FW,MF",8,5,2.0,0.0,2010-2011,/en/players/c68990c2/Igor-Martinez,c68990c2,Athletic-Club,358,4.0,0.0,0.0,43,1.0,1293,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,FW",13,3,0.0,0.0,2010-2011,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,540,6.0,3.0,0.0,43,1.0,1288,Athletic-Club
+,Aitor Ocio,es ESP,DF,4,3,0.0,0.0,2010-2011,/en/players/f1c8639b/Aitor-Ocio,f1c8639b,Athletic-Club,279,3.1,1.0,0.0,43,1.0,1241,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,1,1,0.0,0.0,2010-2011,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,90,1.0,1.0,0.0,43,1.0,1279,Athletic-Club
+,Raúl Fernández,es ESP,GK,1,1,0.0,0.0,2010-2011,/en/players/6fb59070/Raul-Fernandez,6fb59070,Athletic-Club,90,1.0,0.0,0.0,43,1.0,1294,Athletic-Club
+,Ion Vélez,es ESP,FW,5,0,0.0,0.0,2010-2011,/en/players/3a6c16de/Ion-Velez,3a6c16de,Athletic-Club,112,1.2,0.0,0.0,43,1.0,1276,Athletic-Club
+,Urko Vera,es ESP,FW,5,0,0.0,1.0,2010-2011,/en/players/d8cf0115/Urko-Vera,d8cf0115,Athletic-Club,101,1.1,0.0,0.0,43,1.0,1295,Athletic-Club
+,Iñigo Pérez,es ESP,MF,3,0,0.0,1.0,2010-2011,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Athletic-Club,57,0.6,0.0,0.0,43,1.0,1290,Athletic-Club
+,Ibai Gómez,es ESP,"FW,MF",3,0,0.0,0.0,2010-2011,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,37,0.4,0.0,0.0,43,1.0,1296,Athletic-Club
+,Iñigo Díaz de Cerio,es ESP,FW,2,0,0.0,0.0,2010-2011,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Athletic-Club,33,0.4,0.0,0.0,43,1.0,239,Athletic-Club
+,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2011-2012,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,330",37.0,0.0,0.0,43,1.0,1274,Athletic-Club
+,Markel Susaeta,es ESP,MF,38,34,5.0,6.0,2011-2012,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"2,974",33.0,4.0,0.0,43,1.0,1271,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,FW",34,34,4.0,4.0,2011-2012,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"2,915",32.4,9.0,1.0,43,1.0,1288,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",35,32,3.0,1.0,2011-2012,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"2,947",32.7,8.0,1.0,43,1.0,1249,Athletic-Club
+,Ander Iturraspe,es ESP,MF,35,31,0.0,1.0,2011-2012,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,"2,715",30.2,15.0,0.0,43,1.0,1283,Athletic-Club
+,Iker Muniain,es ESP,"FW,MF",33,30,2.0,2.0,2011-2012,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,650",29.4,6.0,0.0,43,1.0,1289,Athletic-Club
+,Javi Martínez,es ESP,"DF,MF",31,30,1.0,4.0,2011-2012,/en/players/7f97771d/Javi-Martinez,7f97771d,Athletic-Club,"2,555",28.4,12.0,3.0,43,1.0,1265,Athletic-Club
+,Jon Aurtenetxe,es ESP,DF,31,30,0.0,1.0,2011-2012,/en/players/74b0e3ce/Jon-Aurtenetxe,74b0e3ce,Athletic-Club,"2,493",27.7,10.0,0.0,43,1.0,762,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,28,27,0.0,3.0,2011-2012,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,"2,330",25.9,11.0,2.0,43,53.0,1260,Athletic-Club
+,Ander Herrera,es ESP,MF,32,25,8.0,1.0,2011-2012,/en/players/436a9dd0/Ander-Herrera,436a9dd0,Athletic-Club,"2,136",23.7,10.0,0.0,43,1.0,1297,Athletic-Club
+,Fernando Llorente,es ESP,FW,32,24,1.0,17.0,2011-2012,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,"2,232",24.8,0.0,0.0,43,1.0,1254,Athletic-Club
+,Mikel San José,es ESP,"DF,MF",24,15,0.0,2.0,2011-2012,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"1,640",18.2,6.0,0.0,43,1.0,1287,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",35,15,5.0,4.0,2011-2012,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,"1,554",17.3,7.0,0.0,43,1.0,1280,Athletic-Club
+,Iñigo Pérez,es ESP,MF,22,14,2.0,0.0,2011-2012,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Athletic-Club,994,11.0,4.0,0.0,43,1.0,1290,Athletic-Club
+,Borja Ekiza,es ESP,DF,21,13,0.0,0.0,2011-2012,/en/players/6465e1c9/Borja-Ekiza,6465e1c9,Athletic-Club,"1,254",13.9,4.0,1.0,43,1.0,1292,Athletic-Club
+,Igor Gabilondo,es ESP,MF,16,8,0.0,2.0,2011-2012,/en/players/4ce0dff0/Igor-Gabilondo,4ce0dff0,Athletic-Club,744,8.3,0.0,0.0,43,1.0,203,Athletic-Club
+,Ibai Gómez,es ESP,"FW,MF",19,7,1.0,0.0,2011-2012,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,893,9.9,1.0,0.0,43,1.0,1296,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",7,6,0.0,0.0,2011-2012,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,500,5.6,2.0,0.0,43,1.0,1231,Athletic-Club
+,David López,es ESP,MF,13,4,1.0,1.0,2011-2012,/en/players/a698164e/David-Lopez,698164e,Athletic-Club,409,4.5,1.0,0.0,43,1.0,1272,Athletic-Club
+,Raúl Fernández,es ESP,GK,1,1,0.0,0.0,2011-2012,/en/players/6fb59070/Raul-Fernandez,6fb59070,Athletic-Club,90,1.0,0.0,0.0,43,1.0,1294,Athletic-Club
+,Jonás Ramalho,es ESP,DF,2,1,0.0,0.0,2011-2012,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Athletic-Club,52,0.6,0.0,0.0,43,1.0,1300,Athletic-Club
+,Igor Martínez,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,/en/players/c68990c2/Igor-Martinez,c68990c2,Athletic-Club,39,0.4,0.0,0.0,43,1.0,1293,Athletic-Club
+,﻿Óscar de Marcos,es ESP,"DF,FW",36,36,4.0,6.0,2012-2013,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"3,136",34.8,14.0,0.0,43,1.0,1288,Athletic-Club
+,Markel Susaeta,es ESP,MF,36,36,5.0,7.0,2012-2013,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"3,062",34.0,8.0,1.0,43,1.0,1271,Athletic-Club
+,Gorka Iraizoz,es ESP,GK,35,35,0.0,0.0,2012-2013,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,150",35.0,4.0,0.0,43,1.0,1274,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",35,34,4.0,0.0,2012-2013,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"3,062",34.0,6.0,0.0,43,1.0,1249,Athletic-Club
+,Aritz Aduriz,es ESP,FW,36,33,6.0,14.0,2012-2013,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,547",28.3,12.0,1.0,43,1.0,934,Athletic-Club
+,Ander Herrera,es ESP,MF,29,29,2.0,1.0,2012-2013,/en/players/436a9dd0/Ander-Herrera,436a9dd0,Athletic-Club,"2,417",26.9,11.0,2.0,43,1.0,1297,Athletic-Club
+,Ander Iturraspe,es ESP,MF,30,27,2.0,0.0,2012-2013,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,"2,234",24.8,13.0,1.0,43,1.0,1283,Athletic-Club
+,Iker Muniain,es ESP,"FW,MF",33,27,1.0,1.0,2012-2013,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,178",24.2,7.0,1.0,43,1.0,1289,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",27,24,0.0,1.0,2012-2013,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,047",22.7,14.0,0.0,43,1.0,1231,Athletic-Club
+,Jon Aurtenetxe,es ESP,DF,27,24,3.0,1.0,2012-2013,/en/players/74b0e3ce/Jon-Aurtenetxe,74b0e3ce,Athletic-Club,"2,018",22.4,2.0,0.0,43,1.0,762,Athletic-Club
+,Mikel San José,es ESP,"DF,MF",34,23,0.0,5.0,2012-2013,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,239",24.9,8.0,0.0,43,1.0,1287,Athletic-Club
+,Borja Ekiza,es ESP,DF,24,23,0.0,0.0,2012-2013,/en/players/6465e1c9/Borja-Ekiza,6465e1c9,Athletic-Club,"2,060",22.9,3.0,0.0,43,1.0,1292,Athletic-Club
+,Ibai Gómez,es ESP,"FW,MF",35,17,9.0,4.0,2012-2013,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,"1,958",21.8,1.0,0.0,43,1.0,1296,Athletic-Club
+,Aymeric Laporte,es ESP,DF,15,14,0.0,0.0,2012-2013,/en/players/119b9a8e/Aymeric-Laporte,119b9a8e,Athletic-Club,"1,203",13.4,6.0,2.0,43,1.0,1298,Athletic-Club
+,Fernando Amorebieta,ve VEN,DF,11,10,0.0,0.0,2012-2013,/en/players/b2bbc0ec/Fernando-Amorebieta,b2bbc0ec,Athletic-Club,886,9.8,5.0,1.0,43,53.0,1260,Athletic-Club
+,Isma López,es ESP,"DF,FW",8,6,0.0,0.0,2012-2013,/en/players/e644a7f5/Isma-Lopez,644a7f5,Athletic-Club,477,5.3,0.0,0.0,43,1.0,1299,Athletic-Club
+,Iñigo Pérez,es ESP,MF,5,5,1.0,0.0,2012-2013,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Athletic-Club,390,4.3,2.0,0.0,43,1.0,1290,Athletic-Club
+,Fernando Llorente,es ESP,FW,26,4,0.0,4.0,2012-2013,/en/players/82dbf623/Fernando-Llorente,82dbf623,Athletic-Club,901,10.0,2.0,0.0,43,1.0,1254,Athletic-Club
+,Jonás Ramalho,es ESP,DF,6,4,0.0,0.0,2012-2013,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Athletic-Club,343,3.8,0.0,0.0,43,1.0,1300,Athletic-Club
+,Xabier Castillo,hr CRO,DF,7,3,0.0,0.0,2012-2013,/en/players/638dc43b/Xabier-Castillo,638dc43b,Athletic-Club,301,3.3,0.0,0.0,43,16.0,251,Athletic-Club
+,Raúl Fernández,es ESP,GK,3,3,0.0,0.0,2012-2013,/en/players/6fb59070/Raul-Fernandez,6fb59070,Athletic-Club,270,3.0,0.0,0.0,43,1.0,1294,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",16,1,0.0,0.0,2012-2013,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,234,2.6,1.0,0.0,43,1.0,1280,Athletic-Club
+,Iñigo Ruiz de Galarreta,es ESP,MF,3,0,1.0,0.0,2012-2013,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,91f7631f,Athletic-Club,143,1.6,0.0,0.0,43,1.0,1301,Athletic-Club
+,Igor Martínez,es ESP,"FW,MF",3,0,0.0,0.0,2012-2013,/en/players/c68990c2/Igor-Martinez,c68990c2,Athletic-Club,109,1.2,1.0,0.0,43,1.0,1293,Athletic-Club
+,Erik Morán,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/6941883f/Erik-Moran,6941883f,Athletic-Club,11,0.1,0.0,0.0,43,1.0,1302,Athletic-Club
+,﻿Markel Susaeta,es ESP,MF,38,34,12.0,6.0,2013-2014,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"2,931",32.6,1.0,0.0,43,1.0,1271,Athletic-Club
+,Aymeric Laporte,es ESP,DF,35,33,0.0,2.0,2013-2014,/en/players/119b9a8e/Aymeric-Laporte,119b9a8e,Athletic-Club,"2,933",32.6,5.0,1.0,43,1.0,1298,Athletic-Club
+,Gorka Iraizoz,es ESP,GK,33,33,0.0,0.0,2013-2014,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"2,925",32.5,0.0,0.0,43,1.0,1274,Athletic-Club
+,Iker Muniain,es ESP,"FW,MF",35,32,4.0,7.0,2013-2014,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,705",30.1,6.0,0.0,43,1.0,1289,Athletic-Club
+,Ander Iturraspe,es ESP,MF,33,31,3.0,0.0,2013-2014,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,"2,702",30.0,8.0,0.0,43,1.0,1283,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,31,31,0.0,0.0,2013-2014,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"2,659",29.5,4.0,0.0,43,1.0,1279,Athletic-Club
+,Mikel Rico,es ESP,MF,34,31,1.0,5.0,2013-2014,/en/players/def69cd0/Mikel-Rico,def69cd0,Athletic-Club,"2,567",28.5,7.0,0.0,43,1.0,1303,Athletic-Club
+,Ander Herrera,es ESP,MF,33,31,5.0,5.0,2013-2014,/en/players/436a9dd0/Ander-Herrera,436a9dd0,Athletic-Club,"2,547",28.3,7.0,0.0,43,1.0,1297,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",34,28,4.0,1.0,2013-2014,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"2,625",29.2,3.0,0.0,43,1.0,1249,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",27,27,0.0,2.0,2013-2014,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"2,384",26.5,8.0,0.0,43,1.0,1231,Athletic-Club
+,Aritz Aduriz,es ESP,FW,31,26,8.0,16.0,2013-2014,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,392",26.6,7.0,2.0,43,1.0,934,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,FW",35,19,2.0,5.0,2013-2014,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"1,982",22.0,3.0,0.0,43,1.0,1288,Athletic-Club
+,Mikel San José,es ESP,"DF,MF",25,19,1.0,5.0,2013-2014,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"1,808",20.1,6.0,0.0,43,1.0,1287,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,23,12,3.0,1.0,2013-2014,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,"1,018",11.3,3.0,0.0,43,1.0,1269,Athletic-Club
+,Ibai Gómez,es ESP,"FW,MF",18,6,2.0,8.0,2013-2014,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,695,7.7,0.0,0.0,43,1.0,1296,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",20,5,1.0,0.0,2013-2014,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,609,6.8,4.0,0.0,43,1.0,1280,Athletic-Club
+,Iago Herrerín,es ESP,GK,6,5,0.0,0.0,2013-2014,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,495,5.5,1.0,0.0,43,1.0,1304,Athletic-Club
+,Erik Morán,es ESP,MF,14,4,0.0,0.0,2013-2014,/en/players/6941883f/Erik-Moran,6941883f,Athletic-Club,584,6.5,4.0,1.0,43,1.0,1302,Athletic-Club
+,Guillermo,es ESP,FW,9,4,0.0,1.0,2013-2014,/en/players/15107141/Guillermo,15107141,Athletic-Club,326,3.6,0.0,0.0,43,1.0,1305,Athletic-Club
+,Enrique Sola,es ESP,FW,5,2,0.0,1.0,2013-2014,/en/players/bef2e50e/Enrique-Sola,bef2e50e,Athletic-Club,231,2.6,0.0,0.0,43,1.0,1306,Athletic-Club
+,Enric Saborit,es ESP,DF,5,2,0.0,0.0,2013-2014,/en/players/eb5bc3eb/Enric-Saborit,b5bc3eb,Athletic-Club,201,2.2,1.0,0.0,43,1.0,1307,Athletic-Club
+,Xabier Etxeita,es ESP,DF,3,2,0.0,0.0,2013-2014,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,187,2.1,0.0,0.0,43,1.0,1281,Athletic-Club
+,Borja Ekiza,es ESP,DF,1,1,0.0,0.0,2013-2014,/en/players/6465e1c9/Borja-Ekiza,6465e1c9,Athletic-Club,35,0.4,0.0,0.0,43,1.0,1292,Athletic-Club
+,Unai Albizua,es ESP,DF,4,0,0.0,0.0,2013-2014,/en/players/4a2e58a3/Unai-Albizua,4a2e58a3,Athletic-Club,55,0.6,0.0,0.0,43,1.0,1308,Athletic-Club
+,﻿Gorka Iraizoz,es ESP,GK,34,34,0.0,0.0,2014-2015,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,060",34.0,3.0,0.0,43,1.0,1274,Athletic-Club
+,Aymeric Laporte,es ESP,DF,33,33,1.0,0.0,2014-2015,/en/players/119b9a8e/Aymeric-Laporte,119b9a8e,Athletic-Club,"2,960",32.9,11.0,1.0,43,1.0,1298,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,33,33,0.0,0.0,2014-2015,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"2,917",32.4,9.0,0.0,43,1.0,1279,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,FW",35,32,4.0,1.0,2014-2015,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"2,948",32.8,6.0,0.0,43,1.0,1288,Athletic-Club
+,Mikel Rico,es ESP,MF,36,32,2.0,3.0,2014-2015,/en/players/def69cd0/Mikel-Rico,def69cd0,Athletic-Club,"2,792",31.0,3.0,0.0,43,1.0,1303,Athletic-Club
+,Aritz Aduriz,es ESP,FW,31,30,3.0,18.0,2014-2015,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,579",28.7,12.0,0.0,43,1.0,934,Athletic-Club
+,Iker Muniain,es ESP,"FW,MF",25,25,1.0,1.0,2014-2015,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"1,997",22.2,7.0,0.0,43,1.0,1289,Athletic-Club
+,Mikel San José,es ESP,"DF,MF",28,23,1.0,5.0,2014-2015,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,146",23.8,10.0,1.0,43,1.0,1287,Athletic-Club
+,Xabier Etxeita,es ESP,DF,24,22,0.0,2.0,2014-2015,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,"1,971",21.9,5.0,1.0,43,1.0,1281,Athletic-Club
+,Ander Iturraspe,es ESP,MF,25,20,0.0,2.0,2014-2015,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,"1,816",20.2,6.0,0.0,43,1.0,1283,Athletic-Club
+,Markel Susaeta,es ESP,MF,31,20,7.0,1.0,2014-2015,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"1,773",19.7,2.0,0.0,43,1.0,1271,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,28,20,2.0,2.0,2014-2015,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,"1,711",19.0,4.0,0.0,43,1.0,1269,Athletic-Club
+,Andoni Iraola,es ESP,"DF,MF",22,16,1.0,1.0,2014-2015,/en/players/f4bbed41/Andoni-Iraola,f4bbed41,Athletic-Club,"1,530",17.0,5.0,0.0,43,1.0,1249,Athletic-Club
+,Carlos Gurpegui,es ESP,"DF,MF",23,15,0.0,1.0,2014-2015,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"1,450",16.1,7.0,0.0,43,1.0,1231,Athletic-Club
+,Iñaki Williams,gh GHA,"FW,MF",19,15,1.0,1.0,2014-2015,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"1,313",14.6,1.0,0.0,43,17.0,1309,Athletic-Club
+,Unai López,es ESP,MF,19,11,0.0,0.0,2014-2015,/en/players/88050721/Unai-Lopez,88050721,Athletic-Club,828,9.2,2.0,0.0,43,1.0,1310,Athletic-Club
+,Borja Viguera,es ESP,FW,20,10,0.0,1.0,2014-2015,/en/players/d906a703/Borja-Viguera,d906a703,Athletic-Club,969,10.8,0.0,0.0,43,1.0,261,Athletic-Club
+,Ibai Gómez,es ESP,"FW,MF",21,9,2.0,1.0,2014-2015,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,"1,010",11.2,2.0,0.0,43,1.0,1296,Athletic-Club
+,Guillermo,es ESP,FW,14,5,0.0,0.0,2014-2015,/en/players/15107141/Guillermo,15107141,Athletic-Club,567,6.3,2.0,0.0,43,1.0,1305,Athletic-Club
+,Iago Herrerín,es ESP,GK,4,4,0.0,0.0,2014-2015,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,360,4.0,0.0,0.0,43,1.0,1304,Athletic-Club
+,Ager Aketxe,es ESP,MF,8,3,1.0,1.0,2014-2015,/en/players/c5eaff5c/Ager-Aketxe,c5eaff5c,Athletic-Club,299,3.3,1.0,0.0,43,1.0,560,Athletic-Club
+,Jon Aurtenetxe,es ESP,DF,4,3,0.0,0.0,2014-2015,/en/players/74b0e3ce/Jon-Aurtenetxe,74b0e3ce,Athletic-Club,287,3.2,0.0,0.0,43,1.0,762,Athletic-Club
+,Enrique Sola,es ESP,FW,5,1,0.0,0.0,2014-2015,/en/players/bef2e50e/Enrique-Sola,bef2e50e,Athletic-Club,115,1.3,0.0,0.0,43,1.0,1306,Athletic-Club
+,Unai Bustinza,es ESP,DF,2,1,0.0,0.0,2014-2015,/en/players/f3112790/Unai-Bustinza,f3112790,Athletic-Club,98,1.1,1.0,1.0,43,1.0,1311,Athletic-Club
+,Erik Morán,es ESP,MF,2,1,0.0,0.0,2014-2015,/en/players/6941883f/Erik-Moran,6941883f,Athletic-Club,51,0.6,0.0,0.0,43,1.0,1302,Athletic-Club
+,Gaizka Toquero,es ESP,"FW,MF",4,0,0.0,0.0,2014-2015,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Athletic-Club,40,0.4,0.0,0.0,43,1.0,1280,Athletic-Club
+,Álex Remiro,es ESP,GK,0,0,,,2014-2015,/en/players/374ee424/Alex-Remiro,374ee424,Athletic-Club,,,,,43,1.0,339,Athletic-Club
+,﻿Gorka Iraizoz,es ESP,GK,37,37,0.0,0.0,2015-2016,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"3,243",36.0,1.0,1.0,43,1.0,1274,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,34,33,3.0,0.0,2015-2016,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"2,905",32.3,6.0,0.0,43,1.0,1279,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,MF",34,33,3.0,1.0,2015-2016,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"2,884",32.0,6.0,0.0,43,1.0,1288,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,36,32,6.0,1.0,2015-2016,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,"2,894",32.2,8.0,0.0,43,1.0,1269,Athletic-Club
+,Aritz Aduriz,es ESP,FW,34,30,6.0,20.0,2015-2016,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,776",30.8,9.0,0.0,43,1.0,934,Athletic-Club
+,Mikel San José,es ESP,"MF,DF",34,30,3.0,2.0,2015-2016,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,690",29.9,6.0,1.0,43,1.0,1287,Athletic-Club
+,Xabier Etxeita,es ESP,DF,30,28,1.0,0.0,2015-2016,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,"2,485",27.6,5.0,0.0,43,1.0,1281,Athletic-Club
+,Raúl García,es ESP,MF,30,27,6.0,7.0,2015-2016,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"2,370",26.3,10.0,0.0,43,1.0,1312,Athletic-Club
+,Aymeric Laporte,es ESP,DF,26,25,1.0,3.0,2015-2016,/en/players/119b9a8e/Aymeric-Laporte,119b9a8e,Athletic-Club,"2,211",24.6,9.0,2.0,43,1.0,1298,Athletic-Club
+,Markel Susaeta,es ESP,MF,28,22,7.0,3.0,2015-2016,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"1,918",21.3,3.0,0.0,43,1.0,1271,Athletic-Club
+,Iñaki Williams,gh GHA,MF,25,21,3.0,8.0,2015-2016,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"1,622",18.0,4.0,1.0,43,17.0,1309,Athletic-Club
+,Eneko Bóveda,es ESP,DF,23,15,0.0,0.0,2015-2016,/en/players/1771f2c1/Eneko-Boveda,1771f2c1,Athletic-Club,"1,468",16.3,1.0,0.0,43,1.0,534,Athletic-Club
+,Sabin Merino,es ESP,"MF,FW",22,13,0.0,5.0,2015-2016,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Athletic-Club,"1,131",12.6,1.0,0.0,43,1.0,568,Athletic-Club
+,Iker Muniain,es ESP,MF,20,13,0.0,2.0,2015-2016,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"1,017",11.3,2.0,0.0,43,1.0,1289,Athletic-Club
+,Iñigo Lekue,es ESP,"DF,MF",20,12,0.0,1.0,2015-2016,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,"1,159",12.9,2.0,0.0,43,1.0,1313,Athletic-Club
+,Carlos Gurpegui,es ESP,DF,15,12,0.0,0.0,2015-2016,/en/players/6920be59/Carlos-Gurpegui,6920be59,Athletic-Club,"1,143",12.7,4.0,0.0,43,1.0,1231,Athletic-Club
+,Javier Eraso,es ESP,MF,16,8,1.0,2.0,2015-2016,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Athletic-Club,783,8.7,2.0,0.0,43,1.0,1314,Athletic-Club
+,Mikel Rico,es ESP,MF,17,8,1.0,1.0,2015-2016,/en/players/def69cd0/Mikel-Rico,def69cd0,Athletic-Club,698,7.8,2.0,1.0,43,1.0,1303,Athletic-Club
+,Ander Iturraspe,es ESP,MF,16,7,1.0,0.0,2015-2016,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,701,7.8,1.0,0.0,43,1.0,1283,Athletic-Club
+,Gorka Elustondo,es ESP,"MF,DF",11,4,0.0,1.0,2015-2016,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Athletic-Club,471,5.2,1.0,0.0,43,1.0,249,Athletic-Club
+,Borja Viguera,es ESP,FW,9,3,0.0,0.0,2015-2016,/en/players/d906a703/Borja-Viguera,d906a703,Athletic-Club,294,3.3,0.0,0.0,43,1.0,261,Athletic-Club
+,Ager Aketxe,es ESP,MF,3,2,0.0,0.0,2015-2016,/en/players/c5eaff5c/Ager-Aketxe,c5eaff5c,Athletic-Club,185,2.1,0.0,0.0,43,1.0,560,Athletic-Club
+,Iago Herrerín,es ESP,GK,2,1,0.0,0.0,2015-2016,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,175,1.9,0.0,0.0,43,1.0,1304,Athletic-Club
+,Ibai Gómez,es ESP,MF,5,1,0.0,0.0,2015-2016,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,115,1.3,3.0,0.0,43,1.0,1296,Athletic-Club
+,Enrique Sola,es ESP,FW,5,1,0.0,0.0,2015-2016,/en/players/bef2e50e/Enrique-Sola,bef2e50e,Athletic-Club,77,0.9,0.0,0.0,43,1.0,1306,Athletic-Club
+,Álex Remiro,es ESP,GK,0,0,,,2015-2016,/en/players/374ee424/Alex-Remiro,374ee424,Athletic-Club,,,,,43,1.0,339,Athletic-Club
+,﻿Raúl García,es ESP,MF,36,34,4.0,10.0,2016-2017,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"2,869",31.9,11.0,0.0,43,1.0,1312,Athletic-Club
+,Aymeric Laporte,es ESP,DF,33,33,0.0,2.0,2016-2017,/en/players/119b9a8e/Aymeric-Laporte,119b9a8e,Athletic-Club,"2,864",31.8,10.0,0.0,43,1.0,1298,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,33,33,1.0,1.0,2016-2017,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"2,847",31.6,3.0,1.0,43,1.0,1279,Athletic-Club
+,Iñaki Williams,gh GHA,"MF,FW",38,31,6.0,5.0,2016-2017,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"2,789",31.0,4.0,0.0,43,17.0,1309,Athletic-Club
+,Mikel San José,es ESP,MF,35,30,1.0,4.0,2016-2017,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,700",30.0,9.0,0.0,43,1.0,1287,Athletic-Club
+,Iker Muniain,es ESP,MF,35,28,1.0,7.0,2016-2017,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,405",26.7,5.0,0.0,43,1.0,1289,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,32,28,5.0,1.0,2016-2017,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,"2,399",26.7,9.0,0.0,43,1.0,1269,Athletic-Club
+,Aritz Aduriz,es ESP,FW,32,27,1.0,16.0,2016-2017,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,458",27.3,8.0,1.0,43,1.0,934,Athletic-Club
+,Yeray Álvarez,es ESP,DF,26,25,0.0,0.0,2016-2017,/en/players/3ecc11d8/Yeray-Alvarez,3ecc11d8,Athletic-Club,"2,271",25.2,3.0,0.0,43,1.0,1315,Athletic-Club
+,Óscar de Marcos,es ESP,DF,27,24,4.0,1.0,2016-2017,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"2,150",23.9,3.0,0.0,43,1.0,1288,Athletic-Club
+,Kepa Arrizabalaga,es ESP,GK,23,23,0.0,0.0,2016-2017,/en/players/28d596a0/Kepa-Arrizabalaga,28d596a0,Athletic-Club,"2,015",22.4,1.0,0.0,43,1.0,1316,Athletic-Club
+,Eneko Bóveda,es ESP,DF,19,18,0.0,0.0,2016-2017,/en/players/1771f2c1/Eneko-Boveda,1771f2c1,Athletic-Club,"1,556",17.3,1.0,0.0,43,1.0,534,Athletic-Club
+,Iñigo Lekue,es ESP,"MF,DF",25,17,1.0,2.0,2016-2017,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,"1,575",17.5,1.0,0.0,43,1.0,1313,Athletic-Club
+,Gorka Iraizoz,es ESP,GK,16,15,0.0,0.0,2016-2017,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Athletic-Club,"1,405",15.6,1.0,0.0,43,1.0,1274,Athletic-Club
+,Ander Iturraspe,es ESP,MF,24,12,1.0,0.0,2016-2017,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,"1,159",12.9,3.0,0.0,43,1.0,1283,Athletic-Club
+,Markel Susaeta,es ESP,MF,26,11,2.0,1.0,2016-2017,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"1,112",12.4,4.0,0.0,43,1.0,1271,Athletic-Club
+,Xabier Etxeita,es ESP,DF,10,7,0.0,0.0,2016-2017,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,713,7.9,2.0,0.0,43,1.0,1281,Athletic-Club
+,Enric Saborit,es ESP,"DF,MF",9,5,0.0,0.0,2016-2017,/en/players/eb5bc3eb/Enric-Saborit,b5bc3eb,Athletic-Club,464,5.2,1.0,0.0,43,1.0,1307,Athletic-Club
+,Sabin Merino,es ESP,"FW,MF",13,5,2.0,1.0,2016-2017,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Athletic-Club,440,4.9,2.0,0.0,43,1.0,568,Athletic-Club
+,Mikel Rico,es ESP,MF,18,4,0.0,1.0,2016-2017,/en/players/def69cd0/Mikel-Rico,def69cd0,Athletic-Club,480,5.3,4.0,0.0,43,1.0,1303,Athletic-Club
+,Javier Eraso,es ESP,MF,7,4,1.0,0.0,2016-2017,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Athletic-Club,379,4.2,2.0,0.0,43,1.0,1314,Athletic-Club
+,Mikel Vesga,es ESP,MF,6,3,0.0,0.0,2016-2017,/en/players/b0fce72c/Mikel-Vesga,b0fce72c,Athletic-Club,286,3.2,1.0,0.0,43,1.0,1317,Athletic-Club
+,Gorka Elustondo,es ESP,DF,2,1,0.0,0.0,2016-2017,/en/players/7b309e55/Gorka-Elustondo,7b309e55,Athletic-Club,106,1.2,0.0,0.0,43,1.0,249,Athletic-Club
+,Asier Villalibre,es ESP,FW,6,0,1.0,0.0,2016-2017,/en/players/57be54ec/Asier-Villalibre,57be54ec,Athletic-Club,78,0.9,0.0,0.0,43,1.0,1318,Athletic-Club
+,Borja Viguera,es ESP,FW,1,0,0.0,1.0,2016-2017,/en/players/d906a703/Borja-Viguera,d906a703,Athletic-Club,27,0.3,0.0,0.0,43,1.0,261,Athletic-Club
+,Iago Herrerín,es ESP,GK,0,0,,,2016-2017,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,,,,,43,1.0,1304,Athletic-Club
+,Álex Remiro,es ESP,GK,0,0,,,2016-2017,/en/players/374ee424/Alex-Remiro,374ee424,Athletic-Club,,,,,43,1.0,339,Athletic-Club
+,Unai Simón,es ESP,GK,0,0,,,2016-2017,/en/players/5dcf3e90/Unai-Simon,5dcf3e90,Athletic-Club,,,,,43,1.0,1319,Athletic-Club
+,﻿Unai Núñez,es ESP,DF,33,33,0.0,1.0,2017-2018,/en/players/be170419/Unai-Nunez,be170419,Athletic-Club,"2,941",32.7,11.0,0.0,43,1.0,1320,Athletic-Club
+,Iñaki Williams,gh GHA,"MF,FW",38,31,6.0,7.0,2017-2018,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"2,851",31.7,3.0,0.0,43,17.0,1309,Athletic-Club
+,Kepa Arrizabalaga,es ESP,GK,30,30,0.0,0.0,2017-2018,/en/players/28d596a0/Kepa-Arrizabalaga,28d596a0,Athletic-Club,"2,700",30.0,3.0,0.0,43,1.0,1316,Athletic-Club
+,Raúl García,es ESP,MF,34,30,1.0,10.0,2017-2018,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"2,627",29.2,10.0,0.0,43,1.0,1312,Athletic-Club
+,Markel Susaeta,es ESP,MF,34,26,2.0,3.0,2017-2018,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"2,264",25.2,2.0,0.0,43,1.0,1271,Athletic-Club
+,Mikel San José,es ESP,MF,26,24,1.0,1.0,2017-2018,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"2,155",23.9,5.0,0.0,43,1.0,1287,Athletic-Club
+,Iñigo Lekue,es ESP,"DF,MF",32,22,1.0,0.0,2017-2018,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,"2,111",23.5,3.0,0.0,43,1.0,1313,Athletic-Club
+,Aritz Aduriz,es ESP,FW,33,21,1.0,9.0,2017-2018,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,"2,152",23.9,5.0,0.0,43,1.0,934,Athletic-Club
+,Ander Iturraspe,es ESP,MF,30,20,0.0,0.0,2017-2018,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,"1,904",21.2,7.0,0.0,43,1.0,1283,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,MF",21,20,2.0,1.0,2017-2018,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"1,658",18.4,5.0,0.0,43,1.0,1288,Athletic-Club
+,Aymeric Laporte,es ESP,DF,19,19,1.0,0.0,2017-2018,/en/players/119b9a8e/Aymeric-Laporte,119b9a8e,Athletic-Club,"1,710",19.0,5.0,0.0,43,1.0,1298,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,18,18,2.0,0.0,2017-2018,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"1,549",17.2,1.0,0.0,43,1.0,1279,Athletic-Club
+,Iñigo Córdoba,es ESP,MF,30,18,1.0,1.0,2017-2018,/en/players/49ea92be/Inigo-Cordoba,49ea92be,Athletic-Club,"1,459",16.2,3.0,0.0,43,1.0,1321,Athletic-Club
+,Iñigo Martínez,es ESP,DF,16,16,0.0,0.0,2017-2018,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Athletic-Club,"1,440",16.0,6.0,0.0,43,1.0,286,Athletic-Club
+,Enric Saborit,es ESP,DF,19,16,1.0,0.0,2017-2018,/en/players/eb5bc3eb/Enric-Saborit,b5bc3eb,Athletic-Club,"1,428",15.9,5.0,0.0,43,1.0,1307,Athletic-Club
+,Mikel Rico,es ESP,MF,17,13,0.0,0.0,2017-2018,/en/players/def69cd0/Mikel-Rico,def69cd0,Athletic-Club,"1,171",13.0,2.0,0.0,43,1.0,1303,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,24,12,2.0,0.0,2017-2018,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,"1,120",12.4,3.0,0.0,43,1.0,1269,Athletic-Club
+,Mikel Vesga,es ESP,MF,12,11,1.0,1.0,2017-2018,/en/players/b0fce72c/Mikel-Vesga,b0fce72c,Athletic-Club,806,9.0,6.0,0.0,43,1.0,1317,Athletic-Club
+,Iago Herrerín,es ESP,GK,8,8,0.0,0.0,2017-2018,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,720,8.0,0.0,0.0,43,1.0,1304,Athletic-Club
+,Iker Muniain,es ESP,MF,14,7,2.0,4.0,2017-2018,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,780,8.7,1.0,0.0,43,1.0,1289,Athletic-Club
+,Yeray Álvarez,es ESP,DF,8,7,0.0,0.0,2017-2018,/en/players/3ecc11d8/Yeray-Alvarez,3ecc11d8,Athletic-Club,675,7.5,2.0,0.0,43,1.0,1315,Athletic-Club
+,Eneko Bóveda,es ESP,DF,6,6,1.0,0.0,2017-2018,/en/players/1771f2c1/Eneko-Boveda,1771f2c1,Athletic-Club,522,5.8,1.0,0.0,43,1.0,534,Athletic-Club
+,Xabier Etxeita,es ESP,DF,5,5,0.0,1.0,2017-2018,/en/players/4a895384/Xabier-Etxeita,4a895384,Athletic-Club,376,4.2,2.0,0.0,43,1.0,1281,Athletic-Club
+,Sabin Merino,es ESP,"MF,FW",13,4,0.0,0.0,2017-2018,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Athletic-Club,374,4.2,1.0,0.0,43,1.0,568,Athletic-Club
+,Andoni López,es ESP,DF,1,1,0.0,0.0,2017-2018,/en/players/fc8cb238/Andoni-Lopez,fc8cb238,Athletic-Club,90,1.0,0.0,0.0,43,1.0,1322,Athletic-Club
+,Ager Aketxe,es ESP,MF,3,0,0.0,0.0,2017-2018,/en/players/c5eaff5c/Ager-Aketxe,c5eaff5c,Athletic-Club,37,0.4,1.0,0.0,43,1.0,560,Athletic-Club
+,Víctor San Bartolomé,es ESP,MF,0,0,,,2017-2018,/en/players/8af42784/Victor-San-Bartolome,8af42784,Athletic-Club,,,,,43,1.0,1323,Athletic-Club
+,Unai Simón,es ESP,GK,0,0,,,2017-2018,/en/players/5dcf3e90/Unai-Simon,5dcf3e90,Athletic-Club,,,,,43,1.0,1319,Athletic-Club
+,Enrique Sola,es ESP,FW,0,0,,,2017-2018,/en/players/bef2e50e/Enrique-Sola,bef2e50e,Athletic-Club,,,,,43,1.0,1306,Athletic-Club
+,Daniel Vivian,es ESP,DF,0,0,,,2017-2018,/en/players/ab7bf91d/Daniel-Vivian,b7bf91d,Athletic-Club,,,,,43,1.0,1324,Athletic-Club
+,﻿Iñaki Williams,gh GHA,"FW,MF",38,36,4.0,13.0,2018-2019,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"3,025",33.6,3.0,0.0,43,17.0,1309,Athletic-Club
+,Yuri Berchiche,es ESP,"DF,MF",35,35,2.0,2.0,2018-2019,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Athletic-Club,"3,120",34.7,8.0,0.0,43,1.0,298,Athletic-Club
+,Iñigo Martínez,es ESP,DF,33,33,0.0,0.0,2018-2019,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Athletic-Club,"2,902",32.2,12.0,0.0,43,1.0,286,Athletic-Club
+,Iago Herrerín,es ESP,GK,31,31,1.0,0.0,2018-2019,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,"2,790",31.0,1.0,0.0,43,1.0,1304,Athletic-Club
+,Yeray Álvarez,es ESP,DF,30,30,0.0,0.0,2018-2019,/en/players/3ecc11d8/Yeray-Alvarez,3ecc11d8,Athletic-Club,"2,613",29.0,10.0,0.0,43,1.0,1315,Athletic-Club
+,Dani García,es ESP,MF,29,29,1.0,0.0,2018-2019,/en/players/240d3a0b/Dani-Garcia,240d3a0b,Athletic-Club,"2,476",27.5,13.0,0.0,43,1.0,1325,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,MF",30,28,2.0,1.0,2018-2019,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"2,421",26.9,7.0,2.0,43,1.0,1288,Athletic-Club
+,Iker Muniain,es ESP,MF,34,27,3.0,7.0,2018-2019,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,383",26.5,7.0,0.0,43,1.0,1289,Athletic-Club
+,Raúl García,es ESP,MF,33,27,3.0,9.0,2018-2019,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"2,369",26.3,12.0,0.0,43,1.0,1312,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,27,25,2.0,1.0,2018-2019,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,"2,031",22.6,8.0,0.0,43,1.0,1269,Athletic-Club
+,Ander Capa,es ESP,DF,25,17,0.0,0.0,2018-2019,/en/players/37f1cf47/Ander-Capa,37f1cf47,Athletic-Club,"1,642",18.2,9.0,0.0,43,1.0,1326,Athletic-Club
+,Mikel San José,es ESP,MF,33,16,0.0,0.0,2018-2019,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,"1,733",19.3,7.0,0.0,43,1.0,1287,Athletic-Club
+,Markel Susaeta,es ESP,"MF,FW",22,15,2.0,1.0,2018-2019,/en/players/6fd1ba62/Markel-Susaeta,6fd1ba62,Athletic-Club,"1,379",15.3,4.0,1.0,43,1.0,1271,Athletic-Club
+,Iñigo Córdoba,es ESP,MF,23,15,4.0,0.0,2018-2019,/en/players/49ea92be/Inigo-Cordoba,49ea92be,Athletic-Club,"1,321",14.7,3.0,0.0,43,1.0,1321,Athletic-Club
+,Unai Núñez,es ESP,DF,12,11,0.0,0.0,2018-2019,/en/players/be170419/Unai-Nunez,be170419,Athletic-Club,"1,064",11.8,4.0,0.0,43,1.0,1320,Athletic-Club
+,Aritz Aduriz,es ESP,FW,20,10,0.0,2.0,2018-2019,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,943,10.5,5.0,0.0,43,1.0,934,Athletic-Club
+,Unai Simón,es ESP,GK,7,7,0.0,0.0,2018-2019,/en/players/5dcf3e90/Unai-Simon,5dcf3e90,Athletic-Club,630,7.0,2.0,0.0,43,1.0,1319,Athletic-Club
+,Ibai Gómez,es ESP,MF,14,6,2.0,0.0,2018-2019,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,580,6.4,0.0,0.0,43,1.0,1296,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,11,6,0.0,0.0,2018-2019,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,523,5.8,0.0,0.0,43,1.0,1279,Athletic-Club
+,Peru Nolaskoain,es ESP,DF,8,4,0.0,2.0,2018-2019,/en/players/857cb4f3/Peru-Nolaskoain,857cb4f3,Athletic-Club,464,5.2,2.0,1.0,43,1.0,563,Athletic-Club
+,Unai López,es ESP,MF,7,3,0.0,0.0,2018-2019,/en/players/88050721/Unai-Lopez,88050721,Athletic-Club,328,3.6,1.0,0.0,43,1.0,1310,Athletic-Club
+,Mikel Rico,es ESP,MF,4,3,0.0,0.0,2018-2019,/en/players/def69cd0/Mikel-Rico,def69cd0,Athletic-Club,242,2.7,0.0,0.0,43,1.0,1303,Athletic-Club
+,Iñigo Lekue,es ESP,DF,4,2,0.0,0.0,2018-2019,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,211,2.3,1.0,0.0,43,1.0,1313,Athletic-Club
+,Ander Iturraspe,es ESP,MF,3,1,0.0,0.0,2018-2019,/en/players/6dce77a5/Ander-Iturraspe,6dce77a5,Athletic-Club,98,1.1,1.0,0.0,43,1.0,1283,Athletic-Club
+,Cristian Ganea,ro ROU,DF,1,1,0.0,0.0,2018-2019,/en/players/baf5665c/Cristian-Ganea,baf5665c,Athletic-Club,49,0.5,0.0,0.0,43,51.0,1327,Athletic-Club
+,Kenan Kodro,ba BIH,"FW,MF",11,0,0.0,1.0,2018-2019,/en/players/e82d2807/Kenan-Kodro,82d2807,Athletic-Club,161,1.8,0.0,0.0,43,49.0,1328,Athletic-Club
+,Gorka Guruzeta,es ESP,"MF,FW",6,0,0.0,0.0,2018-2019,/en/players/6b5ea2f4/Gorka-Guruzeta,6b5ea2f4,Athletic-Club,50,0.6,0.0,0.0,43,1.0,1329,Athletic-Club
+,Hodei Oleaga,es ESP,GK,0,0,,,2018-2019,/en/players/95230c26/Hodei-Oleaga,95230c26,Athletic-Club,,,,,43,1.0,90008,Athletic-Club
+,Daniel Vivian,es ESP,DF,0,0,,,2018-2019,/en/players/ab7bf91d/Daniel-Vivian,b7bf91d,Athletic-Club,,,,,43,1.0,1324,Athletic-Club
+,﻿Unai Simón,es ESP,GK,34,34,0.0,0.0,2019-2020,/en/players/5dcf3e90/Unai-Simon,5dcf3e90,Athletic-Club,"2,991",33.2,2.0,1.0,43,1.0,1319,Athletic-Club
+,Iñaki Williams,gh GHA,"FW,MF",38,34,1.0,6.0,2019-2020,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"2,939",32.7,3.0,0.0,43,17.0,1309,Athletic-Club
+,Dani García,es ESP,MF,36,33,1.0,0.0,2019-2020,/en/players/240d3a0b/Dani-Garcia,240d3a0b,Athletic-Club,"3,029",33.7,11.0,0.0,43,1.0,1325,Athletic-Club
+,Iñigo Martínez,es ESP,DF,33,33,1.0,1.0,2019-2020,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Athletic-Club,"2,970",33.0,10.0,0.0,43,1.0,286,Athletic-Club
+,Raúl García,es ESP,"MF,FW",35,33,1.0,15.0,2019-2020,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"2,869",31.9,11.0,0.0,43,1.0,1312,Athletic-Club
+,Ander Capa,es ESP,DF,35,32,4.0,3.0,2019-2020,/en/players/37f1cf47/Ander-Capa,37f1cf47,Athletic-Club,"2,872",31.9,10.0,0.0,43,1.0,1326,Athletic-Club
+,Yuri Berchiche,es ESP,DF,33,32,1.0,2.0,2019-2020,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Athletic-Club,"2,850",31.7,7.0,0.0,43,1.0,298,Athletic-Club
+,Yeray Álvarez,es ESP,DF,32,32,0.0,0.0,2019-2020,/en/players/3ecc11d8/Yeray-Alvarez,3ecc11d8,Athletic-Club,"2,810",31.2,2.0,0.0,43,1.0,1315,Athletic-Club
+,Iker Muniain,es ESP,MF,31,26,2.0,5.0,2019-2020,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,382",26.5,4.0,1.0,43,1.0,1289,Athletic-Club
+,Unai López,es ESP,MF,26,24,4.0,1.0,2019-2020,/en/players/88050721/Unai-Lopez,88050721,Athletic-Club,"1,787",19.9,6.0,0.0,43,1.0,1310,Athletic-Club
+,Iñigo Córdoba,es ESP,MF,24,21,4.0,1.0,2019-2020,/en/players/49ea92be/Inigo-Cordoba,49ea92be,Athletic-Club,"1,442",16.0,4.0,0.0,43,1.0,1321,Athletic-Club
+,Unai Núñez,es ESP,DF,20,16,0.0,0.0,2019-2020,/en/players/be170419/Unai-Nunez,be170419,Athletic-Club,"1,572",17.5,7.0,0.0,43,1.0,1320,Athletic-Club
+,Mikel Vesga,es ESP,MF,20,13,1.0,0.0,2019-2020,/en/players/b0fce72c/Mikel-Vesga,b0fce72c,Athletic-Club,"1,269",14.1,3.0,0.0,43,1.0,1317,Athletic-Club
+,Oihan Sancet,es ESP,MF,17,9,1.0,1.0,2019-2020,/en/players/bdb624a3/Oihan-Sancet,bdb624a3,Athletic-Club,741,8.2,1.0,0.0,43,1.0,1330,Athletic-Club
+,Ibai Gómez,es ESP,MF,17,6,0.0,0.0,2019-2020,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,695,7.7,0.0,0.0,43,1.0,1296,Athletic-Club
+,Iñigo Lekue,es ESP,"MF,DF",14,6,1.0,0.0,2019-2020,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,623,6.9,0.0,0.0,43,1.0,1313,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,9,6,0.0,0.0,2019-2020,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,563,6.3,1.0,0.0,43,1.0,1279,Athletic-Club
+,Óscar de Marcos,es ESP,"MF,DF",13,6,1.0,0.0,2019-2020,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,541,6.0,1.0,0.0,43,1.0,1288,Athletic-Club
+,Asier Villalibre,es ESP,"FW,MF",19,5,0.0,3.0,2019-2020,/en/players/57be54ec/Asier-Villalibre,57be54ec,Athletic-Club,531,5.9,0.0,0.0,43,1.0,1318,Athletic-Club
+,Iago Herrerín,es ESP,GK,5,4,0.0,0.0,2019-2020,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,425,4.7,0.0,0.0,43,1.0,1304,Athletic-Club
+,Kenan Kodro,ba BIH,"FW,MF",12,4,0.0,1.0,2019-2020,/en/players/e82d2807/Kenan-Kodro,82d2807,Athletic-Club,364,4.0,0.0,0.0,43,49.0,1328,Athletic-Club
+,Beñat Etxebarria,es ESP,MF,11,3,0.0,0.0,2019-2020,/en/players/b037bd4f/Benat-Etxebarria,b037bd4f,Athletic-Club,394,4.4,0.0,0.0,43,1.0,1269,Athletic-Club
+,Mikel San José,es ESP,MF,9,3,0.0,0.0,2019-2020,/en/players/003a5c72/Mikel-San-Jose,003a5c72,Athletic-Club,359,4.0,3.0,0.0,43,1.0,1287,Athletic-Club
+,Larra,es ESP,MF,10,2,0.0,0.0,2019-2020,/en/players/0d690336/Larra,0d690336,Athletic-Club,250,2.8,0.0,0.0,43,1.0,1331,Athletic-Club
+,Unai Vencedor Paris,es ESP,MF,1,1,0.0,0.0,2019-2020,/en/players/4112ace5/Unai-Vencedor-Paris,4112ace5,Athletic-Club,73,0.8,1.0,0.0,43,1.0,1332,Athletic-Club
+,Aritz Aduriz,es ESP,"FW,MF",14,0,0.0,1.0,2019-2020,/en/players/293211e1/Aritz-Aduriz,293211e1,Athletic-Club,208,2.3,3.0,0.0,43,1.0,934,Athletic-Club
+,Jokin Ezkieta,es ESP,GK,0,0,,,2019-2020,/en/players/0f7dbaf6/Jokin-Ezkieta,0f7dbaf6,Athletic-Club,,,,,43,1.0,1184,Athletic-Club
+,Sillero,es ESP,DF,0,0,,,2019-2020,/en/players/e46e2990/Sillero,46e2990,Athletic-Club,,,,,43,1.0,1333,Athletic-Club
+,Daniel Vivian,es ESP,DF,0,0,,,2019-2020,/en/players/ab7bf91d/Daniel-Vivian,b7bf91d,Athletic-Club,,,,,43,1.0,1324,Athletic-Club
+,﻿Unai Simón,es ESP,GK,37,37,0.0,0.0,2020-2021,/en/players/5dcf3e90/Unai-Simon,5dcf3e90,Athletic-Club,"3,330",37.0,1.0,0.0,43,1.0,1319,Athletic-Club
+,Iñigo Martínez,es ESP,DF,28,28,0.0,1.0,2020-2021,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Athletic-Club,"2,519",28.0,9.0,1.0,43,1.0,286,Athletic-Club
+,Iñaki Williams,gh GHA,"FW,MF",38,27,6.0,6.0,2020-2021,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"2,387",26.5,1.0,0.0,43,17.0,1309,Athletic-Club
+,Álex Berenguer,es ESP,MF,35,27,4.0,8.0,2020-2021,/en/players/dc1c2fce/Alex-Berenguer,dc1c2fce,Athletic-Club,"2,278",25.3,4.0,0.0,43,1.0,1334,Athletic-Club
+,Ander Capa,es ESP,DF,28,25,1.0,2.0,2020-2021,/en/players/37f1cf47/Ander-Capa,37f1cf47,Athletic-Club,"2,131",23.7,5.0,0.0,43,1.0,1326,Athletic-Club
+,Unai Núñez,es ESP,DF,25,23,1.0,1.0,2020-2021,/en/players/be170419/Unai-Nunez,be170419,Athletic-Club,"2,109",23.4,6.0,0.0,43,1.0,1320,Athletic-Club
+,Iker Muniain,es ESP,MF,28,23,3.0,5.0,2020-2021,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"1,943",21.6,1.0,0.0,43,1.0,1289,Athletic-Club
+,Yeray Álvarez,es ESP,DF,23,22,0.0,1.0,2020-2021,/en/players/3ecc11d8/Yeray-Alvarez,3ecc11d8,Athletic-Club,"1,948",21.6,6.0,0.0,43,1.0,1315,Athletic-Club
+,Dani García,es ESP,MF,27,21,1.0,0.0,2020-2021,/en/players/240d3a0b/Dani-Garcia,240d3a0b,Athletic-Club,"1,920",21.3,8.0,0.0,43,1.0,1325,Athletic-Club
+,Raúl García,es ESP,"FW,MF",34,21,1.0,5.0,2020-2021,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"1,743",19.4,8.0,2.0,43,1.0,1312,Athletic-Club
+,Yuri Berchiche,es ESP,DF,23,21,3.0,1.0,2020-2021,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Athletic-Club,"1,682",18.7,3.0,0.0,43,1.0,298,Athletic-Club
+,Mikel Vesga,es ESP,MF,30,20,1.0,0.0,2020-2021,/en/players/b0fce72c/Mikel-Vesga,b0fce72c,Athletic-Club,"1,722",19.1,7.0,0.0,43,1.0,1317,Athletic-Club
+,Unai Vencedor Paris,es ESP,MF,28,19,0.0,0.0,2020-2021,/en/players/4112ace5/Unai-Vencedor-Paris,4112ace5,Athletic-Club,"1,701",18.9,6.0,0.0,43,1.0,1332,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,23,17,1.0,0.0,2020-2021,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"1,689",18.8,0.0,0.0,43,1.0,1279,Athletic-Club
+,Óscar de Marcos,es ESP,"DF,MF",25,17,2.0,1.0,2020-2021,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"1,520",16.9,2.0,0.0,43,1.0,1288,Athletic-Club
+,Asier Villalibre,es ESP,FW,35,16,2.0,4.0,2020-2021,/en/players/57be54ec/Asier-Villalibre,57be54ec,Athletic-Club,"1,589",17.7,1.0,0.0,43,1.0,1318,Athletic-Club
+,Jon Morcillo,es ESP,MF,30,16,2.0,2.0,2020-2021,/en/players/b7d7f3bf/Jon-Morcillo,b7d7f3bf,Athletic-Club,"1,363",15.1,3.0,0.0,43,1.0,1335,Athletic-Club
+,Unai López,es ESP,MF,26,15,0.0,3.0,2020-2021,/en/players/88050721/Unai-Lopez,88050721,Athletic-Club,"1,424",15.8,7.0,0.0,43,1.0,1310,Athletic-Club
+,Oihan Sancet,es ESP,"FW,MF",24,11,2.0,2.0,2020-2021,/en/players/bdb624a3/Oihan-Sancet,bdb624a3,Athletic-Club,"1,035",11.5,2.0,0.0,43,1.0,1330,Athletic-Club
+,Iñigo Lekue,es ESP,DF,18,5,0.0,0.0,2020-2021,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,644,7.2,1.0,0.0,43,1.0,1313,Athletic-Club
+,Ibai Gómez,es ESP,MF,13,4,1.0,0.0,2020-2021,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Athletic-Club,424,4.7,0.0,0.0,43,1.0,1296,Athletic-Club
+,Oier Zarraga,es ESP,MF,5,1,0.0,0.0,2020-2021,/en/players/968a1c2f/Oier-Zarraga,968a1c2f,Athletic-Club,100,1.1,0.0,0.0,43,1.0,1336,Athletic-Club
+,Iñigo Córdoba,es ESP,MF,3,1,0.0,0.0,2020-2021,/en/players/49ea92be/Inigo-Cordoba,49ea92be,Athletic-Club,95,1.1,0.0,0.0,43,1.0,1321,Athletic-Club
+,Jokin Ezkieta,es ESP,GK,1,1,0.0,0.0,2020-2021,/en/players/0f7dbaf6/Jokin-Ezkieta,0f7dbaf6,Athletic-Club,90,1.0,0.0,0.0,43,1.0,1184,Athletic-Club
+,Nico Williams,es ESP,MF,2,0,0.0,0.0,2020-2021,/en/players/afdc14d7/Nico-Williams,fdc14d7,Athletic-Club,57,0.6,0.0,0.0,43,1.0,1337,Athletic-Club
+,Iñigo Vicente,es ESP,"FW,MF",3,0,0.0,0.0,2020-2021,/en/players/afafac57/Inigo-Vicente,fafac57,Athletic-Club,52,0.6,0.0,0.0,43,1.0,1338,Athletic-Club
+,Kenan Kodro,ba BIH,"FW,MF",3,0,0.0,1.0,2020-2021,/en/players/e82d2807/Kenan-Kodro,82d2807,Athletic-Club,44,0.5,1.0,0.0,43,49.0,1328,Athletic-Club
+,Bernaola,es ESP,MF,0,0,,,2020-2021,/en/players/1dfc426b/Bernaola,1dfc426b,Athletic-Club,,,,,43,1.0,1339,Athletic-Club
+,Iago Herrerín,es ESP,GK,0,0,,,2020-2021,/en/players/9109185e/Iago-Herrerin,9109185e,Athletic-Club,,,,,43,1.0,1304,Athletic-Club
+,Peru Nolaskoain,es ESP,DF,0,0,,,2020-2021,/en/players/857cb4f3/Peru-Nolaskoain,857cb4f3,Athletic-Club,,,,,43,1.0,563,Athletic-Club
+,Aitor Paredes,es ESP,DF,0,0,,,2020-2021,/en/players/b906757a/Aitor-Paredes,b906757a,Athletic-Club,,,,,43,1.0,1340,Athletic-Club
+,Prados,es ESP,MF,0,0,,,2020-2021,/en/players/1f60244a/Prados,1f60244a,Athletic-Club,,,,,43,1.0,1341,Athletic-Club
+,﻿Unai Simón,es ESP,GK,34,34,0.0,0.0,2021-2022,/en/players/5dcf3e90/Unai-Simon,5dcf3e90,Athletic-Club,"3,060",34.0,3.0,0.0,43,1.0,1319,Athletic-Club
+,Iker Muniain,es ESP,MF,35,34,10.0,4.0,2021-2022,/en/players/c05dfb74/Iker-Muniain,c05dfb74,Athletic-Club,"2,785",30.9,3.0,0.0,43,1.0,1289,Athletic-Club
+,Iñaki Williams,gh GHA,FW,38,32,5.0,8.0,2021-2022,/en/players/6a99e0b1/Inaki-Williams,6a99e0b1,Athletic-Club,"2,777",30.9,4.0,0.0,43,17.0,1309,Athletic-Club
+,Unai Vencedor Paris,es ESP,MF,34,29,0.0,0.0,2021-2022,/en/players/4112ace5/Unai-Vencedor-Paris,4112ace5,Athletic-Club,"2,383",26.5,4.0,0.0,43,1.0,1332,Athletic-Club
+,Dani García,es ESP,MF,32,27,0.0,0.0,2021-2022,/en/players/240d3a0b/Dani-Garcia,240d3a0b,Athletic-Club,"2,177",24.2,9.0,0.0,43,1.0,1325,Athletic-Club
+,Iñigo Martínez,es ESP,DF,27,26,0.0,3.0,2021-2022,/en/players/3fc45c73/Inigo-Martinez,3fc45c73,Athletic-Club,"2,341",26.0,9.0,2.0,43,1.0,286,Athletic-Club
+,Álex Berenguer,es ESP,MF,34,24,6.0,3.0,2021-2022,/en/players/dc1c2fce/Alex-Berenguer,dc1c2fce,Athletic-Club,"2,168",24.1,8.0,0.0,43,1.0,1334,Athletic-Club
+,Raúl García,es ESP,FW,35,24,2.0,6.0,2021-2022,/en/players/b418dbd4/Raul-Garcia,b418dbd4,Athletic-Club,"1,802",20.0,3.0,0.0,43,1.0,1312,Athletic-Club
+,Mikel Balenziaga,es ESP,DF,26,23,0.0,0.0,2021-2022,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Athletic-Club,"2,027",22.5,2.0,0.0,43,1.0,1279,Athletic-Club
+,Daniel Vivian,es ESP,DF,24,22,1.0,2.0,2021-2022,/en/players/ab7bf91d/Daniel-Vivian,b7bf91d,Athletic-Club,"1,986",22.1,2.0,0.0,43,1.0,1324,Athletic-Club
+,Iñigo Lekue,es ESP,DF,25,22,2.0,0.0,2021-2022,/en/players/59b7d823/Inigo-Lekue,59b7d823,Athletic-Club,"1,925",21.4,3.0,0.0,43,1.0,1313,Athletic-Club
+,Yeray Álvarez,es ESP,DF,22,21,0.0,0.0,2021-2022,/en/players/3ecc11d8/Yeray-Alvarez,3ecc11d8,Athletic-Club,"1,860",20.7,6.0,0.0,43,1.0,1315,Athletic-Club
+,Óscar de Marcos,es ESP,DF,22,19,2.0,1.0,2021-2022,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Athletic-Club,"1,679",18.7,5.0,0.0,43,1.0,1288,Athletic-Club
+,Mikel Vesga,es ESP,MF,32,17,0.0,2.0,2021-2022,/en/players/b0fce72c/Mikel-Vesga,b0fce72c,Athletic-Club,"1,358",15.1,7.0,2.0,43,1.0,1317,Athletic-Club
+,Oihan Sancet,es ESP,FW,27,16,4.0,6.0,2021-2022,/en/players/bdb624a3/Oihan-Sancet,bdb624a3,Athletic-Club,"1,422",15.8,2.0,0.0,43,1.0,1330,Athletic-Club
+,Nico Williams,es ESP,MF,34,11,0.0,0.0,2021-2022,/en/players/afdc14d7/Nico-Williams,fdc14d7,Athletic-Club,"1,337",14.9,4.0,0.0,43,1.0,1337,Athletic-Club
+,Yuri Berchiche,es ESP,DF,14,11,2.0,1.0,2021-2022,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Athletic-Club,"1,015",11.3,3.0,0.0,43,1.0,298,Athletic-Club
+,Oier Zarraga,es ESP,MF,31,8,0.0,1.0,2021-2022,/en/players/968a1c2f/Oier-Zarraga,968a1c2f,Athletic-Club,"1,166",13.0,5.0,0.0,43,1.0,1336,Athletic-Club
+,Unai Núñez,es ESP,DF,9,7,0.0,0.0,2021-2022,/en/players/be170419/Unai-Nunez,be170419,Athletic-Club,622,6.9,2.0,0.0,43,1.0,1320,Athletic-Club
+,Julen Agirrezabala,es ESP,GK,4,4,0.0,0.0,2021-2022,/en/players/a2c1a8d3/Julen-Agirrezabala,2c1a8d3,Athletic-Club,360,4.0,0.0,0.0,43,1.0,1342,Athletic-Club
+,Asier Villalibre,es ESP,FW,19,3,0.0,2.0,2021-2022,/en/players/57be54ec/Asier-Villalibre,57be54ec,Athletic-Club,548,6.1,0.0,0.0,43,1.0,1318,Athletic-Club
+,Nicolás Serrano,es ESP,"MF,FW",14,3,0.0,1.0,2021-2022,/en/players/2ad0e5e5/Nicolas-Serrano,2ad0e5e5,Athletic-Club,317,3.5,0.0,0.0,43,1.0,1343,Athletic-Club
+,Alex Petxa,es ESP,"DF,MF",17,1,0.0,0.0,2021-2022,/en/players/97d08e60/Alex-Petxa,97d08e60,Athletic-Club,412,4.6,4.0,0.0,43,1.0,1344,Athletic-Club
+,Jon Morcillo,es ESP,"MF,FW",7,0,0.0,0.0,2021-2022,/en/players/b7d7f3bf/Jon-Morcillo,b7d7f3bf,Athletic-Club,54,0.6,2.0,0.0,43,1.0,1335,Athletic-Club
+,Ander Capa,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/37f1cf47/Ander-Capa,37f1cf47,Athletic-Club,4,0.0,0.0,0.0,43,1.0,1326,Athletic-Club
+,Peru Nolaskoain,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/857cb4f3/Peru-Nolaskoain,857cb4f3,Athletic-Club,1,0.0,0.0,0.0,43,1.0,563,Athletic-Club
+,Juan Artola,es ESP,FW,0,0,,,2021-2022,/en/players/2e3f3462/Juan-Artola,2e3f3462,Athletic-Club,,,,,43,1.0,1345,Athletic-Club
+,Luis Bilbao,es ESP,FW,0,0,,,2021-2022,/en/players/acde0e37/Luis-Bilbao,cde0e37,Athletic-Club,,,,,43,1.0,1346,Athletic-Club
+,Jokin Ezkieta,es ESP,GK,0,0,,,2021-2022,/en/players/0f7dbaf6/Jokin-Ezkieta,0f7dbaf6,Athletic-Club,,,,,43,1.0,1184,Athletic-Club
+,Iru,es ESP,GK,0,0,,,2021-2022,/en/players/a30a31ee/Iru,30a31ee,Athletic-Club,,,,,43,1.0,1347,Athletic-Club
+,Aitor Paredes,es ESP,DF,0,0,,,2021-2022,/en/players/b906757a/Aitor-Paredes,b906757a,Athletic-Club,,,,,43,1.0,1340,Athletic-Club

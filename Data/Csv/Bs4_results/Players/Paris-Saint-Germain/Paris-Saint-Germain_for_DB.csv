@@ -1,576 +1,576 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Mauricio Pochettino,ar ARG,DF,35,35,0.0,2.0,2002-2003,92c5faee,Paris-Saint-Germain,"3,085",34.3,7.0,1.0,88.0,5.0,
-,Gabriel Heinze,ar ARG,DF,35,34,2.0,2.0,2002-2003,54629cf9,Paris-Saint-Germain,"3,104",34.5,9.0,0.0,88.0,5.0,
-,Jérôme Leroy,fr FRA,MF,33,33,1.0,5.0,2002-2003,6607cb6,Paris-Saint-Germain,"2,817",31.3,11.0,1.0,88.0,4.0,
-,Cristóbal Parralo,es ESP,DF,31,31,1.0,0.0,2002-2003,814fda14,Paris-Saint-Germain,"2,713",30.1,5.0,1.0,88.0,1.0,
-,Frédéric Déhu,fr FRA,"DF,MF",31,31,2.0,1.0,2002-2003,972aae6,Paris-Saint-Germain,"2,692",29.9,6.0,1.0,88.0,4.0,
-,Fabrice Fiorèse,fr FRA,"FW,MF",32,29,4.0,3.0,2002-2003,41585f65,Paris-Saint-Germain,"2,524",28.0,4.0,0.0,88.0,4.0,
-,Lionel Letizi,fr FRA,GK,26,26,0.0,0.0,2002-2003,6b7bf7e0,Paris-Saint-Germain,"2,340",26.0,1.0,0.0,88.0,4.0,
-,Lionel Potillon,fr FRA,DF,26,24,1.0,0.0,2002-2003,be54ffd6,Paris-Saint-Germain,"2,030",22.6,4.0,0.0,88.0,4.0,
-,Ronaldinho,br BRA,"FW,MF",27,20,7.0,8.0,2002-2003,34edcab0,Paris-Saint-Germain,"1,926",21.4,3.0,1.0,88.0,2.0,
-,Aloísio,br BRA,FW,24,19,1.0,8.0,2002-2003,9a3cc558,Paris-Saint-Germain,"1,497",16.6,7.0,1.0,88.0,2.0,
-,Paulo César,br BRA,"DF,MF",22,16,1.0,4.0,2002-2003,64ba29d0,Paris-Saint-Germain,"1,495",16.6,3.0,1.0,88.0,2.0,
-,Alex Nyarko,gh GHA,MF,17,16,1.0,0.0,2002-2003,52343df1,Paris-Saint-Germain,"1,294",14.4,5.0,2.0,88.0,17.0,
-,André Luiz Moreira,br BRA,"DF,MF",17,15,3.0,1.0,2002-2003,b6a77d10,Paris-Saint-Germain,"1,182",13.1,5.0,1.0,88.0,2.0,
-,Martín Cardetti,ar ARG,FW,21,14,0.0,7.0,2002-2003,4fc03ad,Paris-Saint-Germain,"1,230",13.7,0.0,0.0,88.0,5.0,
-,Jérôme Alonzo,fr FRA,GK,12,12,0.0,0.0,2002-2003,7865d245,Paris-Saint-Germain,"1,080",12.0,1.0,0.0,88.0,4.0,
-,Stéphane Pédron,fr FRA,MF,13,11,0.0,2.0,2002-2003,2323b688,Paris-Saint-Germain,995,11.1,1.0,0.0,88.0,4.0,
-,Hugo Leal,pt POR,MF,18,10,1.0,0.0,2002-2003,68bdcc,Paris-Saint-Germain,997,11.1,3.0,1.0,88.0,3.0,
-,Talal El Karkouri,ma MAR,"DF,MF",13,8,0.0,1.0,2002-2003,6292419,Paris-Saint-Germain,812,9.0,2.0,0.0,88.0,26.0,
-,Bartholomew Ogbeche,ng NGA,FW,17,8,0.0,1.0,2002-2003,616cc0f7,Paris-Saint-Germain,776,8.6,3.0,1.0,88.0,52.0,
-,Didier Domi,fr FRA,DF,9,6,1.0,0.0,2002-2003,91736476,Paris-Saint-Germain,516,5.7,4.0,0.0,88.0,4.0,
-,Alioune Touré,fr FRA,"FW,MF",16,4,0.0,1.0,2002-2003,c2dc195,Paris-Saint-Germain,492,5.5,0.0,0.0,88.0,4.0,
-,Francis Llacer,fr FRA,DF,13,3,0.0,0.0,2002-2003,bc840273,Paris-Saint-Germain,411,4.6,1.0,1.0,88.0,4.0,
-,Selim Benachour,tn TUN,MF,9,3,,0.0,2002-2003,6d9a4c2f,Paris-Saint-Germain,333,3.7,0.0,0.0,88.0,46.0,
-,Lorik Cana,al ALB,"DF,MF",3,3,1.0,0.0,2002-2003,01ceeb0f,Paris-Saint-Germain,270,3.0,1.0,0.0,88.0,78.0,
-,Filipe Teixeira,pt POR,MF,8,3,0.0,0.0,2002-2003,fda7d82,Paris-Saint-Germain,260,2.9,1.0,0.0,88.0,3.0,
-,Romain Rocchi,fr FRA,MF,6,2,0.0,0.0,2002-2003,62f07cc1,Paris-Saint-Germain,249,2.8,2.0,0.0,88.0,4.0,
-,Laurent Leroy,fr FRA,FW,7,1,0.0,0.0,2002-2003,6db43e0,Paris-Saint-Germain,181,2.0,0.0,0.0,88.0,4.0,
-,Chiguy Lucau,cd COD,FW,3,1,0.0,0.0,2002-2003,f4dc7aa8,Paris-Saint-Germain,78,0.9,0.0,0.0,88.0,50.0,
-,﻿Frédéric Déhu,fr FRA,"DF,MF",36,36,1.0,1.0,2003-2004,972aae6,Paris-Saint-Germain,"3,159",35.1,6.0,0.0,88.0,4.0,
-,Pauleta,pt POR,FW,36,35,3.0,18.0,2003-2004,484e13e,Paris-Saint-Germain,"3,085",34.3,3.0,0.0,88.0,3.0,
-,Jérôme Alonzo,fr FRA,GK,34,34,0.0,0.0,2003-2004,7865d245,Paris-Saint-Germain,"2,981",33.1,1.0,1.0,88.0,4.0,
-,Fabrice Fiorèse,fr FRA,"FW,MF",34,34,11.0,6.0,2003-2004,41585f65,Paris-Saint-Germain,"2,956",32.8,7.0,0.0,88.0,4.0,
-,Gabriel Heinze,ar ARG,DF,33,33,2.0,2.0,2003-2004,54629cf9,Paris-Saint-Germain,"2,970",33.0,6.0,0.0,88.0,5.0,
-,José-Karl Pierre-Fanfan,mq MTQ,DF,34,33,0.0,1.0,2003-2004,f6cfc003,Paris-Saint-Germain,"2,946",32.7,6.0,0.0,88.0,104.0,
-,Bernard Mendy,fr FRA,"DF,FW",33,31,2.0,0.0,2003-2004,52a7a5,Paris-Saint-Germain,"2,763",30.7,12.0,0.0,88.0,4.0,
-,Modeste M'bami,cm CMR,MF,30,30,1.0,1.0,2003-2004,82ec2963,Paris-Saint-Germain,"2,652",29.5,6.0,1.0,88.0,36.0,
-,Lorik Cana,al ALB,"DF,MF",32,30,0.0,1.0,2003-2004,01ceeb0f,Paris-Saint-Germain,"2,597",28.9,11.0,2.0,88.0,78.0,
-,Juan Pablo Sorín,ar ARG,"DF,MF",21,21,0.0,1.0,2003-2004,239e2070,Paris-Saint-Germain,"1,791",19.9,3.0,0.0,88.0,5.0,
-,Talal El Karkouri,ma MAR,"DF,MF",26,17,0.0,0.0,2003-2004,6292419,Paris-Saint-Germain,"1,572",17.5,1.0,0.0,88.0,26.0,
-,Branko Bošković,me MNE,MF,24,15,4.0,3.0,2003-2004,4682d68d,Paris-Saint-Germain,"1,312",14.6,2.0,1.0,88.0,33.0,
-,Reinaldo,br BRA,FW,31,14,3.0,7.0,2003-2004,f2937fb8,Paris-Saint-Germain,"1,250",13.9,4.0,0.0,88.0,2.0,
-,Danijel Ljuboja,rs SRB,FW,17,14,,5.0,2003-2004,6352ab30,Paris-Saint-Germain,"1,152",12.8,2.0,0.0,88.0,28.0,
-,Hugo Leal,pt POR,MF,14,9,0.0,0.0,2003-2004,68bdcc,Paris-Saint-Germain,907,10.1,2.0,0.0,88.0,3.0,
-,Éric Cubilier,fr FRA,DF,15,7,1.0,0.0,2003-2004,1bc08c91,Paris-Saint-Germain,649,7.2,3.0,0.0,88.0,4.0,
-,Lionel Letizi,fr FRA,GK,6,4,0.0,0.0,2003-2004,6b7bf7e0,Paris-Saint-Germain,439,4.9,0.0,0.0,88.0,4.0,
-,Bartholomew Ogbeche,ng NGA,FW,13,4,,0.0,2003-2004,616cc0f7,Paris-Saint-Germain,427,4.7,3.0,0.0,88.0,52.0,
-,Selim Benachour,tn TUN,MF,9,4,1.0,0.0,2003-2004,6d9a4c2f,Paris-Saint-Germain,368,4.1,2.0,0.0,88.0,46.0,
-,Jérôme Leroy,fr FRA,MF,4,4,,1.0,2003-2004,6607cb6,Paris-Saint-Germain,297,3.3,0.0,0.0,88.0,4.0,
-,Romain Rocchi,fr FRA,MF,18,3,0.0,0.0,2003-2004,62f07cc1,Paris-Saint-Germain,456,5.1,1.0,0.0,88.0,4.0,
-,Paulo César,br BRA,"DF,MF",9,3,1.0,0.0,2003-2004,64ba29d0,Paris-Saint-Germain,317,3.5,0.0,0.0,88.0,2.0,
-,Lionel Potillon,fr FRA,DF,2,2,0.0,0.0,2003-2004,be54ffd6,Paris-Saint-Germain,180,2.0,0.0,0.0,88.0,4.0,
-,Kaba Diawara,gn GUI,FW,3,1,0.0,0.0,2003-2004,7bafc1d6,Paris-Saint-Germain,88,1.0,0.0,0.0,88.0,74.0,
-,Alioune Touré,fr FRA,"FW,MF",9,0,0.0,0.0,2003-2004,c2dc195,Paris-Saint-Germain,76,0.8,0.0,0.0,88.0,4.0,
-,Franck Dja Djédjé,ci CIV,"FW,MF",2,0,0.0,0.0,2003-2004,59feef54,Paris-Saint-Germain,19,0.2,1.0,0.0,88.0,35.0,
-,﻿Sylvain Armand,fr FRA,DF,37,37,3.0,1.0,2004-2005,cfa036c3,Paris-Saint-Germain,"3,260",36.2,3.0,1.0,88.0,4.0,
-,José-Karl Pierre-Fanfan,mq MTQ,DF,33,33,0.0,1.0,2004-2005,f6cfc003,Paris-Saint-Germain,"2,970",33.0,7.0,0.0,88.0,104.0,
-,Lionel Letizi,fr FRA,GK,33,33,0.0,0.0,2004-2005,6b7bf7e0,Paris-Saint-Germain,"2,936",32.6,1.0,0.0,88.0,4.0,
-,Mario Yepes,co COL,DF,32,32,0.0,3.0,2004-2005,7562b55,Paris-Saint-Germain,"2,812",31.2,7.0,2.0,88.0,19.0,
-,Pauleta,pt POR,FW,34,30,1.0,14.0,2004-2005,484e13e,Paris-Saint-Germain,"2,666",29.6,7.0,0.0,88.0,3.0,
-,Lorik Cana,al ALB,"DF,MF",32,30,2.0,1.0,2004-2005,01ceeb0f,Paris-Saint-Germain,"2,651",29.5,9.0,1.0,88.0,78.0,
-,Bernard Mendy,fr FRA,"DF,FW",29,26,0.0,0.0,2004-2005,52a7a5,Paris-Saint-Germain,"2,276",25.3,9.0,1.0,88.0,4.0,
-,Édouard Cissé,fr FRA,MF,30,25,1.0,1.0,2004-2005,4fe329a7,Paris-Saint-Germain,"2,315",25.7,6.0,1.0,88.0,4.0,
-,Reinaldo,br BRA,FW,32,25,4.0,3.0,2004-2005,f2937fb8,Paris-Saint-Germain,"2,194",24.4,4.0,0.0,88.0,2.0,
-,Stéphane Pichot,fr FRA,DF,25,23,0.0,0.0,2004-2005,37dd8343,Paris-Saint-Germain,"1,969",21.9,4.0,0.0,88.0,4.0,
-,Fabrice Pancrate,fr FRA,"FW,MF",29,17,2.0,5.0,2004-2005,70d29079,Paris-Saint-Germain,"1,646",18.3,1.0,0.0,88.0,4.0,
-,Modeste M'bami,cm CMR,MF,19,17,1.0,0.0,2004-2005,82ec2963,Paris-Saint-Germain,"1,538",17.1,4.0,0.0,88.0,36.0,
-,Jérôme Rothen,fr FRA,MF,17,17,6.0,1.0,2004-2005,5ad9d2bc,Paris-Saint-Germain,"1,452",16.1,2.0,0.0,88.0,4.0,
-,Charles-Édouard Coridon,mq MTQ,MF,18,14,2.0,0.0,2004-2005,35e0ff7a,Paris-Saint-Germain,"1,185",13.2,1.0,0.0,88.0,104.0,
-,Danijel Ljuboja,rs SRB,FW,25,12,3.0,2.0,2004-2005,6352ab30,Paris-Saint-Germain,"1,205",13.4,2.0,0.0,88.0,28.0,
-,Hélder,pt POR,DF,15,11,0.0,1.0,2004-2005,18231c7e,Paris-Saint-Germain,934,10.4,4.0,0.0,88.0,3.0,
-,Sergei Semak,ru RUS,MF,13,9,0.0,1.0,2004-2005,f11b6821,Paris-Saint-Germain,774,8.6,1.0,0.0,88.0,23.0,
-,Jérôme Alonzo,fr FRA,GK,6,5,0.0,0.0,2004-2005,7865d245,Paris-Saint-Germain,484,5.4,0.0,0.0,88.0,4.0,
-,Branko Bošković,me MNE,MF,12,5,0.0,0.0,2004-2005,4682d68d,Paris-Saint-Germain,336,3.7,0.0,0.0,88.0,33.0,
-,Jean-Hugues Ateba,cm CMR,"DF,MF",8,4,0.0,0.0,2004-2005,92422d30,Paris-Saint-Germain,348,3.9,1.0,0.0,88.0,36.0,
-,Jean-Michel Badiane,fr FRA,DF,7,3,0.0,0.0,2004-2005,074c3084,Paris-Saint-Germain,260,2.9,2.0,0.0,88.0,4.0,
-,Vedad Ibišević,ba BIH,FW,5,2,0.0,0.0,2004-2005,c3fd9887,Paris-Saint-Germain,204,2.3,0.0,1.0,88.0,49.0,
-,Selim Benachour,tn TUN,MF,9,1,1.0,1.0,2004-2005,6d9a4c2f,Paris-Saint-Germain,243,2.7,1.0,0.0,88.0,46.0,
-,Bartholomew Ogbeche,ng NGA,FW,5,1,0.0,1.0,2004-2005,616cc0f7,Paris-Saint-Germain,176,2.0,2.0,0.0,88.0,52.0,
-,Filipe Teixeira,pt POR,MF,10,1,1.0,0.0,2004-2005,fda7d82,Paris-Saint-Germain,125,1.4,0.0,0.0,88.0,3.0,
-,Rudy Haddad,fr FRA,MF,4,0,0.0,0.0,2004-2005,328b6607,Paris-Saint-Germain,22,0.2,0.0,0.0,88.0,4.0,
-,Sol Bamba,ci CIV,DF,1,0,,0.0,2004-2005,5534217d,Paris-Saint-Germain,2,0.0,0.0,0.0,88.0,35.0,
-,﻿David Rozehnal,cz CZE,DF,38,38,1.0,0.0,2005-2006,f97753b7,Paris-Saint-Germain,"3,401",37.8,6.0,0.0,88.0,84.0,
-,Pauleta,pt POR,FW,36,35,3.0,21.0,2005-2006,484e13e,Paris-Saint-Germain,"3,047",33.9,6.0,0.0,88.0,3.0,
-,Sylvain Armand,fr FRA,DF,35,34,1.0,0.0,2005-2006,cfa036c3,Paris-Saint-Germain,"3,098",34.4,7.0,2.0,88.0,4.0,
-,Bernard Mendy,fr FRA,"DF,FW",36,33,4.0,0.0,2005-2006,52a7a5,Paris-Saint-Germain,"2,902",32.2,7.0,0.0,88.0,4.0,
-,Mario Yepes,co COL,DF,32,32,0.0,4.0,2005-2006,7562b55,Paris-Saint-Germain,"2,834",31.5,6.0,1.0,88.0,19.0,
-,Modeste M'bami,cm CMR,MF,34,31,0.0,0.0,2005-2006,82ec2963,Paris-Saint-Germain,"2,846",31.6,10.0,0.0,88.0,36.0,
-,Vikash Dhorasoo,fr FRA,MF,34,31,5.0,0.0,2005-2006,8c803b45,Paris-Saint-Germain,"2,598",28.9,5.0,0.0,88.0,4.0,
-,Édouard Cissé,fr FRA,MF,31,29,1.0,2.0,2005-2006,4fe329a7,Paris-Saint-Germain,"2,406",26.7,7.0,2.0,88.0,4.0,
-,Jérôme Rothen,fr FRA,MF,28,27,8.0,1.0,2005-2006,5ad9d2bc,Paris-Saint-Germain,"2,145",23.8,5.0,0.0,88.0,4.0,
-,Lionel Letizi,fr FRA,GK,27,26,0.0,0.0,2005-2006,6b7bf7e0,Paris-Saint-Germain,"2,340",26.0,2.0,0.0,88.0,4.0,
-,Bonaventure Kalou,ci CIV,"FW,MF",28,24,4.0,9.0,2005-2006,30eeb24a,Paris-Saint-Germain,"2,162",24.0,9.0,0.0,88.0,35.0,
-,Christophe Landrin,fr FRA,MF,26,18,3.0,2.0,2005-2006,06fdad54,Paris-Saint-Germain,"1,588",17.6,2.0,0.0,88.0,4.0,
-,Stéphane Pichot,fr FRA,DF,21,13,0.0,0.0,2005-2006,37dd8343,Paris-Saint-Germain,"1,236",13.7,2.0,0.0,88.0,4.0,
-,Jérôme Alonzo,fr FRA,GK,13,12,0.0,0.0,2005-2006,7865d245,Paris-Saint-Germain,"1,080",12.0,0.0,0.0,88.0,4.0,
-,Fabrice Pancrate,fr FRA,"FW,MF",29,10,0.0,3.0,2005-2006,70d29079,Paris-Saint-Germain,"1,180",13.1,1.0,0.0,88.0,4.0,
-,Paulo César,br BRA,"DF,MF",9,7,0.0,1.0,2005-2006,64ba29d0,Paris-Saint-Germain,688,7.6,0.0,0.0,88.0,2.0,
-,Sergei Semak,ru RUS,MF,13,4,0.0,0.0,2005-2006,f11b6821,Paris-Saint-Germain,511,5.7,2.0,0.0,88.0,23.0,
-,Cristian Rodríguez,uy URU,MF,11,4,0.0,0.0,2005-2006,dcd67568,Paris-Saint-Germain,420,4.7,3.0,0.0,88.0,8.0,
-,Carlos Bueno,uy URU,FW,12,3,0.0,0.0,2005-2006,2f57aca3,Paris-Saint-Germain,318,3.5,2.0,0.0,88.0,8.0,
-,Jean-Michel Badiane,fr FRA,DF,3,2,0.0,0.0,2005-2006,074c3084,Paris-Saint-Germain,199,2.2,1.0,0.0,88.0,4.0,
-,Jean-Hugues Ateba,cm CMR,"DF,MF",2,2,0.0,0.0,2005-2006,92422d30,Paris-Saint-Germain,156,1.7,0.0,0.0,88.0,36.0,
-,Rudy Haddad,fr FRA,MF,5,2,0.0,0.0,2005-2006,328b6607,Paris-Saint-Germain,149,1.7,0.0,0.0,88.0,4.0,
-,Boukary Dramé,sn SEN,"DF,MF",4,1,0.0,0.0,2005-2006,5cd894b,Paris-Saint-Germain,126,1.4,0.0,0.0,88.0,34.0,
-,Hocine Ragued,tn TUN,MF,1,1,,0.0,2005-2006,1920376,Paris-Saint-Germain,60,0.7,0.0,0.0,88.0,46.0,
-,Franck Dja Djédjé,ci CIV,"FW,MF",2,0,0.0,0.0,2005-2006,59feef54,Paris-Saint-Germain,42,0.5,0.0,0.0,88.0,35.0,
-,﻿Mickaël Landreau,fr FRA,GK,38,38,0.0,0.0,2006-2007,12bf5523,Paris-Saint-Germain,"3,420",38.0,0.0,0.0,88.0,4.0,
-,David Rozehnal,cz CZE,DF,37,37,0.0,1.0,2006-2007,f97753b7,Paris-Saint-Germain,"3,330",37.0,4.0,0.0,88.0,84.0,
-,Sylvain Armand,fr FRA,DF,37,37,0.0,2.0,2006-2007,cfa036c3,Paris-Saint-Germain,"3,324",36.9,5.0,0.0,88.0,4.0,
-,Édouard Cissé,fr FRA,MF,34,32,0.0,2.0,2006-2007,4fe329a7,Paris-Saint-Germain,"2,827",31.4,9.0,0.0,88.0,4.0,
-,Pauleta,pt POR,FW,33,30,3.0,15.0,2006-2007,484e13e,Paris-Saint-Germain,"2,597",28.9,5.0,1.0,88.0,3.0,
-,Bernard Mendy,fr FRA,"DF,FW",28,27,2.0,0.0,2006-2007,52a7a5,Paris-Saint-Germain,"2,469",27.4,5.0,1.0,88.0,4.0,
-,Jérôme Rothen,fr FRA,MF,27,26,6.0,2.0,2006-2007,5ad9d2bc,Paris-Saint-Germain,"2,276",25.3,4.0,0.0,88.0,4.0,
-,Mario Yepes,co COL,DF,24,21,0.0,1.0,2006-2007,7562b55,Paris-Saint-Germain,"1,855",20.6,2.0,0.0,88.0,19.0,
-,Pierre-Alain Frau,fr FRA,"FW,MF",25,21,1.0,3.0,2006-2007,76618c1e,Paris-Saint-Germain,"1,627",18.1,2.0,1.0,88.0,4.0,
-,Bonaventure Kalou,ci CIV,"FW,MF",27,20,3.0,2.0,2006-2007,30eeb24a,Paris-Saint-Germain,"1,863",20.7,5.0,0.0,88.0,35.0,
-,Amara Diané,ci CIV,FW,33,17,2.0,5.0,2006-2007,773f26c2,Paris-Saint-Germain,"1,585",17.6,4.0,0.0,88.0,35.0,
-,Sammy Traoré,ml MLI,DF,22,16,0.0,0.0,2006-2007,6f04b42e,Paris-Saint-Germain,"1,503",16.7,5.0,0.0,88.0,12.0,
-,Boukary Dramé,sn SEN,"DF,MF",20,16,2.0,0.0,2006-2007,5cd894b,Paris-Saint-Germain,"1,379",15.3,3.0,0.0,88.0,34.0,
-,Clément Chantôme,fr FRA,MF,20,14,0.0,0.0,2006-2007,f1df248c,Paris-Saint-Germain,"1,251",13.9,4.0,0.0,88.0,4.0,
-,Péguy Luyindula,fr FRA,"FW,MF",14,12,2.0,3.0,2006-2007,cedc0a16,Paris-Saint-Germain,"1,031",11.5,2.0,1.0,88.0,4.0,
-,Youssouf Mulumbu,cd COD,MF,12,11,0.0,0.0,2006-2007,275b145,Paris-Saint-Germain,899,10.0,3.0,0.0,88.0,50.0,
-,Jérémy Clément,fr FRA,MF,9,9,1.0,0.0,2006-2007,06cb3efe,Paris-Saint-Germain,779,8.7,1.0,0.0,88.0,4.0,
-,David Hellebuyck,fr FRA,MF,12,9,0.0,1.0,2006-2007,370ae664,Paris-Saint-Germain,658,7.3,0.0,0.0,88.0,4.0,
-,Marcelo Gallardo,ar ARG,MF,13,7,1.0,2.0,2006-2007,483e1b7a,Paris-Saint-Germain,721,8.0,3.0,0.0,88.0,5.0,
-,Cristian Rodríguez,uy URU,MF,25,5,1.0,1.0,2006-2007,dcd67568,Paris-Saint-Germain,732,8.1,2.0,0.0,88.0,8.0,
-,Fabrice Pancrate,fr FRA,"FW,MF",15,5,1.0,1.0,2006-2007,70d29079,Paris-Saint-Germain,624,6.9,1.0,0.0,88.0,4.0,
-,Vikash Dhorasoo,fr FRA,MF,3,3,0.0,0.0,2006-2007,8c803b45,Paris-Saint-Germain,238,2.6,0.0,0.0,88.0,4.0,
-,Albert Baning,cm CMR,MF,1,1,0.0,0.0,2006-2007,b54fdacd,Paris-Saint-Germain,82,0.9,0.0,0.0,88.0,36.0,
-,David N'Gog,fr FRA,FW,4,0,0.0,0.0,2006-2007,beec2968,Paris-Saint-Germain,64,0.7,0.0,0.0,88.0,4.0,
-,﻿Zoumana Camara,fr FRA,DF,38,38,0.0,1.0,2007-2008,dd8ab3d6,Paris-Saint-Germain,"3,420",38.0,3.0,0.0,88.0,4.0,
-,Mickaël Landreau,fr FRA,GK,38,38,0.0,0.0,2007-2008,12bf5523,Paris-Saint-Germain,"3,420",38.0,0.0,0.0,88.0,4.0,
-,Jérémy Clément,fr FRA,MF,38,38,0.0,1.0,2007-2008,06cb3efe,Paris-Saint-Germain,"3,342",37.1,6.0,0.0,88.0,4.0,
-,Sylvain Armand,fr FRA,DF,35,35,2.0,2.0,2007-2008,cfa036c3,Paris-Saint-Germain,"3,123",34.7,6.0,0.0,88.0,4.0,
-,Jérôme Rothen,fr FRA,MF,32,32,7.0,3.0,2007-2008,5ad9d2bc,Paris-Saint-Germain,"2,743",30.5,7.0,0.0,88.0,4.0,
-,Ceará,br BRA,DF,30,28,2.0,1.0,2007-2008,1d326d9,Paris-Saint-Germain,"2,514",27.9,2.0,0.0,88.0,2.0,
-,Amara Diané,ci CIV,FW,38,25,1.0,11.0,2007-2008,773f26c2,Paris-Saint-Germain,"2,511",27.9,3.0,0.0,88.0,35.0,
-,Mario Yepes,co COL,DF,27,25,0.0,0.0,2007-2008,7562b55,Paris-Saint-Germain,"2,218",24.6,5.0,0.0,88.0,19.0,
-,Péguy Luyindula,fr FRA,"FW,MF",31,24,1.0,5.0,2007-2008,cedc0a16,Paris-Saint-Germain,"2,088",23.2,2.0,0.0,88.0,4.0,
-,Clément Chantôme,fr FRA,MF,28,21,1.0,0.0,2007-2008,f1df248c,Paris-Saint-Germain,"1,809",20.1,3.0,0.0,88.0,4.0,
-,Grégory Bourillon,fr FRA,"DF,MF",22,20,1.0,0.0,2007-2008,0e59a941,Paris-Saint-Germain,"1,758",19.5,2.0,0.0,88.0,4.0,
-,Pauleta,pt POR,FW,27,18,0.0,8.0,2007-2008,484e13e,Paris-Saint-Germain,"1,739",19.3,8.0,0.0,88.0,3.0,
-,Bernard Mendy,fr FRA,"DF,FW",23,16,1.0,1.0,2007-2008,52a7a5,Paris-Saint-Germain,"1,430",15.9,1.0,0.0,88.0,4.0,
-,Didier Digard,fr FRA,MF,16,13,0.0,0.0,2007-2008,557f1466,Paris-Saint-Germain,"1,056",11.7,1.0,0.0,88.0,4.0,
-,Loris Arnaud,fr FRA,"FW,MF",18,9,0.0,1.0,2007-2008,bf127d46,Paris-Saint-Germain,782,8.7,0.0,0.0,88.0,4.0,
-,Mamadou Sakho,fr FRA,DF,12,8,0.0,0.0,2007-2008,87935cf3,Paris-Saint-Germain,742,8.2,1.0,0.0,88.0,4.0,
-,David N'Gog,fr FRA,FW,14,8,1.0,1.0,2007-2008,beec2968,Paris-Saint-Germain,656,7.3,0.0,0.0,88.0,4.0,
-,Pierre-Alain Frau,fr FRA,"FW,MF",11,7,1.0,1.0,2007-2008,76618c1e,Paris-Saint-Germain,657,7.3,1.0,0.0,88.0,4.0,
-,Souza,br BRA,"DF,MF",12,5,0.0,0.0,2007-2008,c8c57200,Paris-Saint-Germain,528,5.9,1.0,0.0,88.0,2.0,
-,Granddi Ngoyi,cd COD,MF,7,5,0.0,0.0,2007-2008,570b6a34,Paris-Saint-Germain,412,4.6,0.0,0.0,88.0,50.0,
-,Younousse Sankharé,sn SEN,MF,9,2,0.0,0.0,2007-2008,c650629d,Paris-Saint-Germain,287,3.2,2.0,0.0,88.0,34.0,
-,Marcelo Gallardo,ar ARG,MF,9,1,0.0,0.0,2007-2008,483e1b7a,Paris-Saint-Germain,218,2.4,2.0,0.0,88.0,5.0,
-,Sammy Traoré,ml MLI,DF,1,1,0.0,0.0,2007-2008,6f04b42e,Paris-Saint-Germain,80,0.9,1.0,0.0,88.0,12.0,
-,Youssouf Mulumbu,cd COD,MF,1,1,0.0,0.0,2007-2008,275b145,Paris-Saint-Germain,45,0.5,0.0,0.0,88.0,50.0,
-,Larrys Mabiala,cd COD,DF,1,0,0.0,0.0,2007-2008,5bdec47f,Paris-Saint-Germain,21,0.2,0.0,0.0,88.0,50.0,
-,Yannick Boli,ci CIV,FW,1,0,0.0,0.0,2007-2008,9004db70,Paris-Saint-Germain,17,0.2,0.0,0.0,88.0,35.0,
-,Éverton Santos,br BRA,"FW,MF",1,0,0.0,0.0,2007-2008,d64642d9,Paris-Saint-Germain,4,0.0,0.0,0.0,88.0,2.0,
-,﻿Mickaël Landreau,fr FRA,GK,38,38,0.0,0.0,2008-2009,12bf5523,Paris-Saint-Germain,"3,420",38.0,1.0,0.0,88.0,4.0,
-,Ceará,br BRA,DF,37,37,2.0,0.0,2008-2009,1d326d9,Paris-Saint-Germain,"3,317",36.9,4.0,0.0,88.0,2.0,
-,Zoumana Camara,fr FRA,DF,36,36,0.0,0.0,2008-2009,dd8ab3d6,Paris-Saint-Germain,"3,203",35.6,3.0,1.0,88.0,4.0,
-,Sylvain Armand,fr FRA,DF,35,35,2.0,0.0,2008-2009,cfa036c3,Paris-Saint-Germain,"3,103",34.5,5.0,0.0,88.0,4.0,
-,Claude Makélélé,fr FRA,MF,34,34,0.0,0.0,2008-2009,c27d01de,Paris-Saint-Germain,"3,006",33.4,9.0,0.0,88.0,4.0,
-,Jérôme Rothen,fr FRA,MF,34,34,6.0,3.0,2008-2009,5ad9d2bc,Paris-Saint-Germain,"2,943",32.7,3.0,0.0,88.0,4.0,
-,Stéphane Sessègnon,bj BEN,"FW,MF",34,34,7.0,5.0,2008-2009,35c5f9b1,Paris-Saint-Germain,"2,899",32.2,7.0,0.0,88.0,132.0,
-,Jérémy Clément,fr FRA,MF,35,33,0.0,1.0,2008-2009,06cb3efe,Paris-Saint-Germain,"2,793",31.0,2.0,0.0,88.0,4.0,
-,Guillaume Hoarau,fr FRA,FW,33,31,2.0,17.0,2008-2009,cff7dcb0,Paris-Saint-Germain,"2,747",30.5,4.0,0.0,88.0,4.0,
-,Ludovic Giuly,fr FRA,"FW,MF",34,30,5.0,9.0,2008-2009,028d362d,Paris-Saint-Germain,"2,434",27.0,2.0,0.0,88.0,4.0,
-,Mamadou Sakho,fr FRA,DF,23,19,0.0,1.0,2008-2009,87935cf3,Paris-Saint-Germain,"1,718",19.1,1.0,0.0,88.0,4.0,
-,Péguy Luyindula,fr FRA,"FW,MF",34,17,2.0,5.0,2008-2009,cedc0a16,Paris-Saint-Germain,"1,731",19.2,1.0,0.0,88.0,4.0,
-,Sammy Traoré,ml MLI,DF,19,16,0.0,1.0,2008-2009,6f04b42e,Paris-Saint-Germain,"1,447",16.1,1.0,0.0,88.0,12.0,
-,Mateja Kežman,rs SRB,FW,21,6,1.0,3.0,2008-2009,41985204,Paris-Saint-Germain,774,8.6,2.0,0.0,88.0,28.0,
-,Fabrice Pancrate,fr FRA,"FW,MF",22,5,1.0,1.0,2008-2009,70d29079,Paris-Saint-Germain,546,6.1,1.0,0.0,88.0,4.0,
-,Clément Chantôme,fr FRA,MF,21,4,0.0,0.0,2008-2009,f1df248c,Paris-Saint-Germain,581,6.5,2.0,0.0,88.0,4.0,
-,Grégory Bourillon,fr FRA,"DF,MF",8,4,0.0,0.0,2008-2009,0e59a941,Paris-Saint-Germain,408,4.5,2.0,0.0,88.0,4.0,
-,Tripy Makonda,fr FRA,DF,4,2,0.0,0.0,2008-2009,0713cf26,Paris-Saint-Germain,227,2.5,0.0,0.0,88.0,4.0,
-,Larrys Mabiala,cd COD,DF,2,2,0.0,1.0,2008-2009,5bdec47f,Paris-Saint-Germain,180,2.0,0.0,0.0,88.0,50.0,
-,Younousse Sankharé,sn SEN,MF,2,1,0.0,0.0,2008-2009,c650629d,Paris-Saint-Germain,87,1.0,0.0,0.0,88.0,34.0,
-,Yannick Boli,ci CIV,FW,1,0,0.0,0.0,2008-2009,9004db70,Paris-Saint-Germain,9,0.1,0.0,0.0,88.0,35.0,
-,Loris Arnaud,fr FRA,"FW,MF",1,0,0.0,1.0,2008-2009,bf127d46,Paris-Saint-Germain,7,0.1,0.0,0.0,88.0,4.0,
-,Maxime Partouche,fr FRA,MF,1,0,0.0,0.0,2008-2009,51edf62b,Paris-Saint-Germain,3,0.0,0.0,0.0,88.0,4.0,
-,﻿Sylvain Armand,fr FRA,DF,33,33,0.0,2.0,2009-2010,cfa036c3,Paris-Saint-Germain,"2,966",33.0,4.0,0.0,88.0,4.0,
-,Jérémy Clément,fr FRA,MF,34,33,1.0,3.0,2009-2010,06cb3efe,Paris-Saint-Germain,"2,862",31.8,6.0,0.0,88.0,4.0,
-,Mamadou Sakho,fr FRA,DF,32,32,0.0,0.0,2009-2010,87935cf3,Paris-Saint-Germain,"2,826",31.4,6.0,1.0,88.0,4.0,
-,Claude Makélélé,fr FRA,MF,31,31,2.0,1.0,2009-2010,c27d01de,Paris-Saint-Germain,"2,702",30.0,7.0,0.0,88.0,4.0,
-,Mevlüt Erdinç,tr TUR,FW,31,30,2.0,15.0,2009-2010,3b99b9e1,Paris-Saint-Germain,"2,406",26.7,3.0,0.0,88.0,15.0,
-,Stéphane Sessègnon,bj BEN,"FW,MF",29,27,4.0,3.0,2009-2010,35c5f9b1,Paris-Saint-Germain,"2,345",26.1,3.0,1.0,88.0,132.0,
-,Ceará,br BRA,DF,29,26,1.0,0.0,2009-2010,1d326d9,Paris-Saint-Germain,"2,314",25.7,1.0,0.0,88.0,2.0,
-,Ludovic Giuly,fr FRA,"FW,MF",31,25,2.0,3.0,2009-2010,028d362d,Paris-Saint-Germain,"1,950",21.7,2.0,0.0,88.0,4.0,
-,Christophe Jallet,fr FRA,DF,35,24,6.0,3.0,2009-2010,46d50339,Paris-Saint-Germain,"2,373",26.4,2.0,0.0,88.0,4.0,
-,Péguy Luyindula,fr FRA,"FW,MF",28,23,2.0,6.0,2009-2010,cedc0a16,Paris-Saint-Germain,"2,133",23.7,1.0,0.0,88.0,4.0,
-,Zoumana Camara,fr FRA,DF,23,22,0.0,0.0,2009-2010,dd8ab3d6,Paris-Saint-Germain,"1,987",22.1,3.0,0.0,88.0,4.0,
-,Apoula Edel,am ARM,GK,23,22,0.0,0.0,2009-2010,9a4b943,Paris-Saint-Germain,"1,986",22.1,0.0,0.0,88.0,105.0,
-,Sammy Traoré,ml MLI,DF,23,22,0.0,0.0,2009-2010,6f04b42e,Paris-Saint-Germain,"1,892",21.0,4.0,0.0,88.0,12.0,
-,Guillaume Hoarau,fr FRA,FW,22,17,3.0,6.0,2009-2010,cff7dcb0,Paris-Saint-Germain,"1,542",17.1,3.0,0.0,88.0,4.0,
-,Grégory Coupet,fr FRA,GK,16,16,0.0,0.0,2009-2010,80e389fb,Paris-Saint-Germain,"1,434",15.9,0.0,0.0,88.0,4.0,
-,Clément Chantôme,fr FRA,MF,24,11,0.0,2.0,2009-2010,f1df248c,Paris-Saint-Germain,"1,017",11.3,3.0,0.0,88.0,4.0,
-,Granddi Ngoyi,cd COD,MF,16,8,0.0,0.0,2009-2010,570b6a34,Paris-Saint-Germain,780,8.7,1.0,0.0,88.0,50.0,
-,Younousse Sankharé,sn SEN,MF,22,7,2.0,1.0,2009-2010,c650629d,Paris-Saint-Germain,772,8.6,3.0,0.0,88.0,34.0,
-,Jean-Eudes Maurice,ht HAI,"FW,MF",23,3,0.0,1.0,2009-2010,089436e6,Paris-Saint-Germain,580,6.4,0.0,0.0,88.0,47.0,
-,Mateja Kežman,rs SRB,FW,13,3,1.0,2.0,2009-2010,41985204,Paris-Saint-Germain,396,4.4,2.0,0.0,88.0,28.0,
-,Grégory Bourillon,fr FRA,"DF,MF",6,2,0.0,0.0,2009-2010,0e59a941,Paris-Saint-Germain,237,2.6,1.0,0.0,88.0,4.0,
-,Tripy Makonda,fr FRA,DF,1,1,0.0,0.0,2009-2010,0713cf26,Paris-Saint-Germain,90,1.0,0.0,0.0,88.0,4.0,
-,﻿Nenê,br BRA,"FW,MF",35,35,9.0,14.0,2010-2011,265ebd37,Paris-Saint-Germain,"3,078",34.2,3.0,0.0,88.0,2.0,
-,Christophe Jallet,fr FRA,DF,35,35,0.0,1.0,2010-2011,46d50339,Paris-Saint-Germain,"3,050",33.9,4.0,1.0,88.0,4.0,
-,Mamadou Sakho,fr FRA,DF,35,35,0.0,4.0,2010-2011,87935cf3,Paris-Saint-Germain,"3,034",33.7,5.0,1.0,88.0,4.0,
-,Claude Makélélé,fr FRA,MF,33,33,2.0,0.0,2010-2011,c27d01de,Paris-Saint-Germain,"2,872",31.9,7.0,0.0,88.0,4.0,
-,Sylvain Armand,fr FRA,DF,33,31,1.0,2.0,2010-2011,cfa036c3,Paris-Saint-Germain,"2,803",31.1,5.0,0.0,88.0,4.0,
-,Guillaume Hoarau,fr FRA,FW,33,31,6.0,9.0,2010-2011,cff7dcb0,Paris-Saint-Germain,"2,629",29.2,3.0,1.0,88.0,4.0,
-,Ludovic Giuly,fr FRA,"FW,MF",35,30,8.0,4.0,2010-2011,028d362d,Paris-Saint-Germain,"2,329",25.9,4.0,0.0,88.0,4.0,
-,Mevlüt Erdinç,tr TUR,FW,34,29,1.0,8.0,2010-2011,3b99b9e1,Paris-Saint-Germain,"2,325",25.8,2.0,0.0,88.0,15.0,
-,Siaka Tiéné,ci CIV,DF,29,27,1.0,0.0,2010-2011,d57aef1b,Paris-Saint-Germain,"2,380",26.4,9.0,0.0,88.0,35.0,
-,Clément Chantôme,fr FRA,MF,26,26,0.0,2.0,2010-2011,f1df248c,Paris-Saint-Germain,"2,285",25.4,9.0,0.0,88.0,4.0,
-,Apoula Edel,am ARM,GK,24,23,0.0,0.0,2010-2011,9a4b943,Paris-Saint-Germain,"2,127",23.6,0.0,0.0,88.0,105.0,
-,Mathieu Bodmer,fr FRA,"DF,MF",28,21,3.0,5.0,2010-2011,f3642ba8,Paris-Saint-Germain,"1,751",19.5,3.0,0.0,88.0,4.0,
-,Grégory Coupet,fr FRA,GK,15,15,0.0,0.0,2010-2011,80e389fb,Paris-Saint-Germain,"1,293",14.4,0.0,0.0,88.0,4.0,
-,Zoumana Camara,fr FRA,DF,17,14,1.0,2.0,2010-2011,dd8ab3d6,Paris-Saint-Germain,"1,379",15.3,1.0,0.0,88.0,4.0,
-,Ceará,br BRA,DF,20,14,0.0,0.0,2010-2011,1d326d9,Paris-Saint-Germain,"1,240",13.8,1.0,0.0,88.0,2.0,
-,Jérémy Clément,fr FRA,MF,24,8,0.0,0.0,2010-2011,06cb3efe,Paris-Saint-Germain,962,10.7,2.0,1.0,88.0,4.0,
-,Péguy Luyindula,fr FRA,"FW,MF",23,4,1.0,0.0,2010-2011,cedc0a16,Paris-Saint-Germain,635,7.1,0.0,0.0,88.0,4.0,
-,Stéphane Sessègnon,bj BEN,"FW,MF",14,4,2.0,0.0,2010-2011,35c5f9b1,Paris-Saint-Germain,567,6.3,0.0,0.0,88.0,132.0,
-,Jean-Christophe Bahebeck,fr FRA,"FW,MF",11,1,0.0,0.0,2010-2011,8be386b,Paris-Saint-Germain,241,2.7,0.0,0.0,88.0,4.0,
-,Tripy Makonda,fr FRA,DF,4,1,0.0,0.0,2010-2011,0713cf26,Paris-Saint-Germain,122,1.4,1.0,0.0,88.0,4.0,
-,Neeskens Kebano,cd COD,"FW,MF",3,1,0.0,0.0,2010-2011,18b999f4,Paris-Saint-Germain,77,0.9,0.0,0.0,88.0,50.0,
-,Jean-Eudes Maurice,ht HAI,"FW,MF",10,0,0.0,0.0,2010-2011,089436e6,Paris-Saint-Germain,159,1.8,1.0,0.0,88.0,47.0,
-,Loïck Landre,fr FRA,DF,1,0,0.0,0.0,2010-2011,08082af0,Paris-Saint-Germain,59,0.7,0.0,0.0,88.0,4.0,
-,Mateja Kežman,rs SRB,FW,1,0,0.0,0.0,2010-2011,41985204,Paris-Saint-Germain,18,0.2,0.0,0.0,88.0,28.0,
-,Sammy Traoré,ml MLI,DF,2,0,0.0,0.0,2010-2011,6f04b42e,Paris-Saint-Germain,13,0.1,0.0,0.0,88.0,12.0,
-,﻿Salvatore Sirigu,it ITA,GK,38,38,0.0,0.0,2011-2012,10dc46f0,Paris-Saint-Germain,"3,420",38.0,1.0,0.0,88.0,9.0,
-,Nenê,br BRA,"FW,MF",35,35,11.0,21.0,2011-2012,265ebd37,Paris-Saint-Germain,"3,022",33.6,5.0,0.0,88.0,2.0,
-,Jérémy Ménez,fr FRA,"FW,MF",33,33,12.0,7.0,2011-2012,41976af1,Paris-Saint-Germain,"2,694",29.9,12.0,0.0,88.0,4.0,
-,Javier Pastore,ar ARG,MF,33,30,6.0,13.0,2011-2012,881ef58c,Paris-Saint-Germain,"2,635",29.3,4.0,0.0,88.0,5.0,
-,Kévin Gameiro,fr FRA,FW,34,27,2.0,11.0,2011-2012,42276181,Paris-Saint-Germain,"2,272",25.2,0.0,0.0,88.0,4.0,
-,Christophe Jallet,fr FRA,DF,33,26,5.0,3.0,2011-2012,46d50339,Paris-Saint-Germain,"2,404",26.7,2.0,1.0,88.0,4.0,
-,Blaise Matuidi,fr FRA,MF,29,25,0.0,1.0,2011-2012,c0cddebe,Paris-Saint-Germain,"2,159",24.0,6.0,0.0,88.0,4.0,
-,Mohamed Sissoko,ml MLI,MF,25,22,1.0,2.0,2011-2012,2c1a819e,Paris-Saint-Germain,"1,811",20.1,8.0,2.0,88.0,12.0,
-,Mathieu Bodmer,fr FRA,"DF,MF",31,21,3.0,1.0,2011-2012,f3642ba8,Paris-Saint-Germain,"2,047",22.7,2.0,0.0,88.0,4.0,
-,Mamadou Sakho,fr FRA,DF,22,20,0.0,0.0,2011-2012,87935cf3,Paris-Saint-Germain,"1,774",19.7,4.0,1.0,88.0,4.0,
-,Zoumana Camara,fr FRA,DF,19,17,0.0,0.0,2011-2012,dd8ab3d6,Paris-Saint-Germain,"1,618",18.0,4.0,0.0,88.0,4.0,
-,Milan Biševac,rs SRB,DF,19,17,1.0,1.0,2011-2012,51728e3,Paris-Saint-Germain,"1,544",17.2,3.0,0.0,88.0,28.0,
-,Ceará,br BRA,DF,24,17,0.0,1.0,2011-2012,1d326d9,Paris-Saint-Germain,"1,525",16.9,3.0,0.0,88.0,2.0,
-,Siaka Tiéné,ci CIV,DF,23,16,3.0,1.0,2011-2012,d57aef1b,Paris-Saint-Germain,"1,483",16.5,3.0,0.0,88.0,35.0,
-,Alex,br BRA,DF,15,15,1.0,2.0,2011-2012,58721835,Paris-Saint-Germain,"1,287",14.3,2.0,0.0,88.0,2.0,
-,Thiago Motta,it ITA,MF,14,14,1.0,2.0,2011-2012,57ef0d97,Paris-Saint-Germain,"1,260",14.0,6.0,0.0,88.0,9.0,
-,Maxwell,br BRA,DF,14,13,0.0,1.0,2011-2012,6f08cece,Paris-Saint-Germain,"1,123",12.5,0.0,0.0,88.0,2.0,
-,Diego Lugano,uy URU,DF,12,9,0.0,0.0,2011-2012,303ad7c3,Paris-Saint-Germain,789,8.8,7.0,0.0,88.0,8.0,
-,Sylvain Armand,fr FRA,DF,23,8,1.0,1.0,2011-2012,cfa036c3,Paris-Saint-Germain,875,9.7,3.0,0.0,88.0,4.0,
-,Clément Chantôme,fr FRA,MF,15,8,3.0,0.0,2011-2012,f1df248c,Paris-Saint-Germain,839,9.3,1.0,0.0,88.0,4.0,
-,Guillaume Hoarau,fr FRA,FW,19,7,2.0,5.0,2011-2012,cff7dcb0,Paris-Saint-Germain,733,8.1,2.0,0.0,88.0,4.0,
-,Mevlüt Erdinç,tr TUR,FW,11,0,1.0,1.0,2011-2012,3b99b9e1,Paris-Saint-Germain,143,1.6,1.0,0.0,88.0,15.0,
-,Jean-Christophe Bahebeck,fr FRA,"FW,MF",8,0,0.0,0.0,2011-2012,8be386b,Paris-Saint-Germain,76,0.8,0.0,0.0,88.0,4.0,
-,Jean-Eudes Maurice,ht HAI,"FW,MF",1,0,0.0,0.0,2011-2012,089436e6,Paris-Saint-Germain,3,0.0,0.0,0.0,88.0,47.0,
-,﻿Blaise Matuidi,fr FRA,MF,37,35,0.0,5.0,2012-2013,c0cddebe,Paris-Saint-Germain,"3,132",34.8,4.0,1.0,88.0,4.0,
-,Zlatan Ibrahimović,se SWE,FW,34,33,7.0,30.0,2012-2013,4cde5509,Paris-Saint-Germain,"2,975",33.1,9.0,1.0,88.0,41.0,
-,Maxwell,br BRA,DF,33,33,3.0,2.0,2012-2013,6f08cece,Paris-Saint-Germain,"2,933",32.6,2.0,0.0,88.0,2.0,
-,Salvatore Sirigu,it ITA,GK,33,33,0.0,0.0,2012-2013,10dc46f0,Paris-Saint-Germain,"2,927",32.5,2.0,0.0,88.0,9.0,
-,Javier Pastore,ar ARG,MF,34,30,8.0,4.0,2012-2013,881ef58c,Paris-Saint-Germain,"2,474",27.5,2.0,0.0,88.0,5.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",28,25,3.0,3.0,2012-2013,6d6456d7,Paris-Saint-Germain,"2,096",23.3,3.0,1.0,88.0,5.0,
-,Mamadou Sakho,fr FRA,DF,27,24,0.0,1.0,2012-2013,87935cf3,Paris-Saint-Germain,"2,139",23.8,3.0,1.0,88.0,4.0,
-,Jérémy Ménez,fr FRA,"FW,MF",30,24,7.0,5.0,2012-2013,41976af1,Paris-Saint-Germain,"2,042",22.7,5.0,0.0,88.0,4.0,
-,Marco Verratti,it ITA,MF,27,23,3.0,0.0,2012-2013,1467af0d,Paris-Saint-Germain,"1,766",19.6,11.0,1.0,88.0,9.0,
-,Alex,br BRA,DF,24,22,0.0,2.0,2012-2013,58721835,Paris-Saint-Germain,"2,060",22.9,2.0,0.0,88.0,2.0,
-,Thiago Silva,br BRA,DF,22,22,0.0,0.0,2012-2013,86e7deaf,Paris-Saint-Germain,"1,899",21.1,2.0,1.0,88.0,2.0,
-,Christophe Jallet,fr FRA,DF,27,20,3.0,0.0,2012-2013,46d50339,Paris-Saint-Germain,"1,886",21.0,1.0,0.0,88.0,4.0,
-,Gregory van der Wiel,nl NED,DF,22,17,1.0,1.0,2012-2013,2fb3ad46,Paris-Saint-Germain,"1,556",17.3,7.0,0.0,88.0,11.0,
-,Clément Chantôme,fr FRA,MF,28,16,2.0,1.0,2012-2013,f1df248c,Paris-Saint-Germain,"1,425",15.8,6.0,0.0,88.0,4.0,
-,Sylvain Armand,fr FRA,DF,18,11,0.0,0.0,2012-2013,cfa036c3,Paris-Saint-Germain,"1,044",11.6,1.0,0.0,88.0,4.0,
-,Thiago Motta,it ITA,MF,12,11,1.0,1.0,2012-2013,57ef0d97,Paris-Saint-Germain,894,9.9,4.0,1.0,88.0,9.0,
-,Lucas Moura,br BRA,"FW,MF",10,9,3.0,0.0,2012-2013,2b622f01,Paris-Saint-Germain,730,8.1,1.0,0.0,88.0,2.0,
-,Kévin Gameiro,fr FRA,FW,25,7,1.0,8.0,2012-2013,42276181,Paris-Saint-Germain,878,9.8,1.0,0.0,88.0,4.0,
-,Nenê,br BRA,"FW,MF",9,5,4.0,1.0,2012-2013,265ebd37,Paris-Saint-Germain,506,5.6,2.0,0.0,88.0,2.0,
-,Zoumana Camara,fr FRA,DF,6,5,0.0,0.0,2012-2013,dd8ab3d6,Paris-Saint-Germain,423,4.7,1.0,0.0,88.0,4.0,
-,Nicolas Douchez,fr FRA,GK,4,4,0.0,0.0,2012-2013,65df6f31,Paris-Saint-Germain,360,4.0,0.0,0.0,88.0,4.0,
-,David Beckham,eng ENG,MF,10,2,2.0,0.0,2012-2013,53539318,Paris-Saint-Germain,315,3.5,0.0,1.0,88.0,6.0,
-,Siaka Tiéné,ci CIV,DF,2,2,0.0,0.0,2012-2013,d57aef1b,Paris-Saint-Germain,180,2.0,0.0,0.0,88.0,35.0,
-,Adrien Rabiot,fr FRA,MF,6,1,0.0,0.0,2012-2013,8794e251,Paris-Saint-Germain,200,2.2,1.0,0.0,88.0,4.0,
-,Mathieu Bodmer,fr FRA,"DF,MF",4,1,0.0,0.0,2012-2013,f3642ba8,Paris-Saint-Germain,179,2.0,1.0,0.0,88.0,4.0,
-,Guillaume Hoarau,fr FRA,FW,6,1,0.0,1.0,2012-2013,cff7dcb0,Paris-Saint-Germain,118,1.3,0.0,0.0,88.0,4.0,
-,Alphonse Areola,fr FRA,GK,2,1,0.0,0.0,2012-2013,2f965a72,Paris-Saint-Germain,103,1.1,0.0,0.0,88.0,4.0,
-,Mohamed Sissoko,ml MLI,MF,3,1,0.0,0.0,2012-2013,2c1a819e,Paris-Saint-Germain,98,1.1,2.0,0.0,88.0,12.0,
-,Ronan Le Crom,fr FRA,GK,1,0,0.0,0.0,2012-2013,5d1b9f5b,Paris-Saint-Germain,20,0.2,0.0,1.0,88.0,4.0,
-,Antoine Conte,gn GUI,DF,1,0,0.0,0.0,2012-2013,9cdfcd02,Paris-Saint-Germain,15,0.2,0.0,0.0,88.0,74.0,
-,Kingsley Coman,fr FRA,"FW,MF",1,0,0.0,0.0,2012-2013,042e8a49,Paris-Saint-Germain,4,0.0,0.0,0.0,88.0,4.0,
-,﻿Salvatore Sirigu,it ITA,GK,37,37,0.0,0.0,2013-2014,10dc46f0,Paris-Saint-Germain,"3,330",37.0,0.0,0.0,88.0,9.0,
-,Zlatan Ibrahimović,se SWE,FW,33,32,11.0,26.0,2013-2014,4cde5509,Paris-Saint-Germain,"2,766",30.7,7.0,0.0,88.0,41.0,
-,Thiago Motta,it ITA,MF,32,31,2.0,3.0,2013-2014,57ef0d97,Paris-Saint-Germain,"2,536",28.2,7.0,1.0,88.0,9.0,
-,Alex,br BRA,DF,31,30,0.0,2.0,2013-2014,58721835,Paris-Saint-Germain,"2,605",28.9,6.0,0.0,88.0,2.0,
-,Thiago Silva,br BRA,DF,28,28,0.0,3.0,2013-2014,86e7deaf,Paris-Saint-Germain,"2,382",26.5,1.0,0.0,88.0,2.0,
-,Blaise Matuidi,fr FRA,MF,36,27,2.0,5.0,2013-2014,c0cddebe,Paris-Saint-Germain,"2,561",28.5,4.0,0.0,88.0,4.0,
-,Edinson Cavani,uy URU,"FW,MF",30,25,2.0,16.0,2013-2014,527f063d,Paris-Saint-Germain,"2,299",25.5,2.0,0.0,88.0,8.0,
-,Gregory van der Wiel,nl NED,DF,25,24,4.0,0.0,2013-2014,2fb3ad46,Paris-Saint-Germain,"2,158",24.0,2.0,0.0,88.0,11.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",32,24,0.0,9.0,2013-2014,6d6456d7,Paris-Saint-Germain,"1,874",20.8,2.0,0.0,88.0,5.0,
-,Maxwell,br BRA,DF,24,23,2.0,3.0,2013-2014,6f08cece,Paris-Saint-Germain,"2,090",23.2,2.0,0.0,88.0,2.0,
-,Marco Verratti,it ITA,MF,29,23,4.0,0.0,2013-2014,1467af0d,Paris-Saint-Germain,"1,983",22.0,10.0,0.0,88.0,9.0,
-,Lucas Moura,br BRA,"FW,MF",36,18,11.0,5.0,2013-2014,2b622f01,Paris-Saint-Germain,"1,937",21.5,2.0,0.0,88.0,2.0,
-,Javier Pastore,ar ARG,MF,29,18,3.0,1.0,2013-2014,881ef58c,Paris-Saint-Germain,"1,577",17.5,2.0,0.0,88.0,5.0,
-,Marquinhos,br BRA,"DF,MF",21,17,0.0,2.0,2013-2014,d5f2f82b,Paris-Saint-Germain,"1,654",18.4,3.0,0.0,88.0,2.0,
-,Lucas Digne,fr FRA,"DF,MF",15,15,1.0,0.0,2013-2014,1b84dbe1,Paris-Saint-Germain,"1,335",14.8,3.0,0.0,88.0,4.0,
-,Christophe Jallet,fr FRA,DF,13,13,0.0,0.0,2013-2014,46d50339,Paris-Saint-Germain,"1,083",12.0,1.0,0.0,88.0,4.0,
-,Adrien Rabiot,fr FRA,MF,25,12,0.0,2.0,2013-2014,8794e251,Paris-Saint-Germain,"1,179",13.1,2.0,0.0,88.0,4.0,
-,Yohan Cabaye,fr FRA,MF,15,9,2.0,0.0,2013-2014,d7b19ef,Paris-Saint-Germain,822,9.1,2.0,0.0,88.0,4.0,
-,Jérémy Ménez,fr FRA,"FW,MF",16,7,1.0,2.0,2013-2014,41976af1,Paris-Saint-Germain,686,7.6,2.0,0.0,88.0,4.0,
-,Zoumana Camara,fr FRA,DF,6,2,0.0,0.0,2013-2014,dd8ab3d6,Paris-Saint-Germain,342,3.8,0.0,0.0,88.0,4.0,
-,Hervin Ongenda,fr FRA,"FW,MF",6,2,1.0,0.0,2013-2014,6989b4b0,Paris-Saint-Germain,235,2.6,1.0,0.0,88.0,4.0,
-,Nicolas Douchez,fr FRA,GK,1,1,0.0,0.0,2013-2014,65df6f31,Paris-Saint-Germain,90,1.0,0.0,0.0,88.0,4.0,
-,Kingsley Coman,fr FRA,"FW,MF",2,0,0.0,0.0,2013-2014,042e8a49,Paris-Saint-Germain,37,0.4,0.0,0.0,88.0,4.0,
-,﻿Salvatore Sirigu,it ITA,GK,34,34,0.0,0.0,2014-2015,10dc46f0,Paris-Saint-Germain,"3,002",33.4,2.0,0.0,88.0,9.0,
-,Javier Pastore,ar ARG,MF,34,31,12.0,5.0,2014-2015,881ef58c,Paris-Saint-Germain,"2,746",30.5,4.0,0.0,88.0,5.0,
-,Edinson Cavani,uy URU,"FW,MF",35,30,1.0,18.0,2014-2015,527f063d,Paris-Saint-Germain,"2,628",29.2,3.0,1.0,88.0,8.0,
-,Marco Verratti,it ITA,MF,32,28,8.0,2.0,2014-2015,1467af0d,Paris-Saint-Germain,"2,454",27.3,12.0,0.0,88.0,9.0,
-,Thiago Silva,br BRA,DF,26,26,0.0,1.0,2014-2015,86e7deaf,Paris-Saint-Germain,"2,308",25.6,1.0,0.0,88.0,2.0,
-,David Luiz,br BRA,"DF,MF",28,26,0.0,2.0,2014-2015,c0e27d1a,Paris-Saint-Germain,"2,290",25.4,5.0,0.0,88.0,2.0,
-,Blaise Matuidi,fr FRA,MF,34,25,2.0,4.0,2014-2015,c0cddebe,Paris-Saint-Germain,"2,187",24.3,2.0,0.0,88.0,4.0,
-,Thiago Motta,it ITA,MF,27,25,2.0,0.0,2014-2015,57ef0d97,Paris-Saint-Germain,"2,050",22.8,9.0,0.0,88.0,9.0,
-,Maxwell,br BRA,DF,26,24,3.0,3.0,2014-2015,6f08cece,Paris-Saint-Germain,"2,164",24.0,1.0,0.0,88.0,2.0,
-,Zlatan Ibrahimović,se SWE,FW,24,23,6.0,19.0,2014-2015,4cde5509,Paris-Saint-Germain,"2,002",22.2,3.0,0.0,88.0,41.0,
-,Gregory van der Wiel,nl NED,DF,25,22,3.0,1.0,2014-2015,2fb3ad46,Paris-Saint-Germain,"2,004",22.3,3.0,1.0,88.0,11.0,
-,Lucas Moura,br BRA,"FW,MF",29,22,5.0,7.0,2014-2015,2b622f01,Paris-Saint-Germain,"1,891",21.0,2.0,0.0,88.0,2.0,
-,Marquinhos,br BRA,"DF,MF",25,21,0.0,2.0,2014-2015,d5f2f82b,Paris-Saint-Germain,"1,875",20.8,2.0,0.0,88.0,2.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",31,19,2.0,8.0,2014-2015,6d6456d7,Paris-Saint-Germain,"1,654",18.4,2.0,0.0,88.0,5.0,
-,Lucas Digne,fr FRA,"DF,MF",15,14,1.0,0.0,2014-2015,1b84dbe1,Paris-Saint-Germain,"1,271",14.1,1.0,0.0,88.0,4.0,
-,Yohan Cabaye,fr FRA,MF,24,13,1.0,1.0,2014-2015,d7b19ef,Paris-Saint-Germain,965,10.7,7.0,1.0,88.0,4.0,
-,Serge Aurier,ci CIV,"DF,MF",14,12,5.0,0.0,2014-2015,5c2b4f07,Paris-Saint-Germain,"1,136",12.6,2.0,0.0,88.0,35.0,
-,Adrien Rabiot,fr FRA,MF,21,10,1.0,4.0,2014-2015,8794e251,Paris-Saint-Germain,"1,136",12.6,1.0,0.0,88.0,4.0,
-,Zoumana Camara,fr FRA,DF,8,6,0.0,1.0,2014-2015,dd8ab3d6,Paris-Saint-Germain,595,6.6,0.0,0.0,88.0,4.0,
-,Nicolas Douchez,fr FRA,GK,5,4,0.0,0.0,2014-2015,65df6f31,Paris-Saint-Germain,418,4.6,0.0,0.0,88.0,4.0,
-,Jean-Christophe Bahebeck,fr FRA,"FW,MF",15,3,3.0,2.0,2014-2015,8be386b,Paris-Saint-Germain,555,6.2,2.0,0.0,88.0,4.0,
-,Clément Chantôme,fr FRA,MF,6,0,0.0,0.0,2014-2015,f1df248c,Paris-Saint-Germain,151,1.7,0.0,0.0,88.0,4.0,
-,Presnel Kimpembe,fr FRA,DF,1,0,0.0,0.0,2014-2015,f6e670,Paris-Saint-Germain,15,0.2,0.0,0.0,88.0,4.0,
-,Jean-Kévin Augustin,fr FRA,FW,0,0,,,2014-2015,97bfa797,Paris-Saint-Germain,,,,,88.0,4.0,
-,Romuald Lacazette,fr FRA,MF,0,0,,,2014-2015,1c11c8d9,Paris-Saint-Germain,,,,,88.0,4.0,
-,Mike Maignan,fr FRA,GK,0,0,,,2014-2015,fcb38f57,Paris-Saint-Germain,,,,,88.0,4.0,
-,Hervin Ongenda,fr FRA,"FW,MF",0,0,,,2014-2015,6989b4b0,Paris-Saint-Germain,,,,,88.0,4.0,
-,Roli Pereira de Sa,fr FRA,MF,0,0,,,2014-2015,60f58477,Paris-Saint-Germain,,,,,88.0,4.0,
-,﻿Kevin Trapp,de GER,GK,35,35,0.0,0.0,2015-2016,ce17b5eb,Paris-Saint-Germain,"3,105",34.5,0.0,0.0,88.0,13.0,
-,Thiago Silva,br BRA,DF,30,29,1.0,1.0,2015-2016,86e7deaf,Paris-Saint-Germain,"2,622",29.1,3.0,0.0,88.0,2.0,
-,Zlatan Ibrahimović,se SWE,FW,31,29,13.0,38.0,2015-2016,4cde5509,Paris-Saint-Germain,"2,549",28.3,1.0,0.0,88.0,41.0,
-,Thiago Motta,it ITA,MF,32,26,1.0,1.0,2015-2016,57ef0d97,Paris-Saint-Germain,"2,343",26.0,6.0,0.0,88.0,9.0,
-,Lucas Moura,br BRA,"FW,MF",36,26,4.0,9.0,2015-2016,2b622f01,Paris-Saint-Germain,"2,323",25.8,3.0,0.0,88.0,2.0,
-,Ángel Di María,ar ARG,"FW,MF",29,26,18.0,10.0,2015-2016,19cda00b,Paris-Saint-Germain,"2,122",23.6,0.0,0.0,88.0,5.0,
-,Edinson Cavani,uy URU,FW,32,24,5.0,19.0,2015-2016,527f063d,Paris-Saint-Germain,"2,309",25.7,3.0,0.0,88.0,8.0,
-,Maxwell,br BRA,DF,28,24,3.0,3.0,2015-2016,6f08cece,Paris-Saint-Germain,"2,226",24.7,0.0,0.0,88.0,2.0,
-,David Luiz,br BRA,DF,25,23,2.0,1.0,2015-2016,c0e27d1a,Paris-Saint-Germain,"2,089",23.2,4.0,0.0,88.0,2.0,
-,Blaise Matuidi,fr FRA,MF,31,23,6.0,4.0,2015-2016,c0cddebe,Paris-Saint-Germain,"2,060",22.9,4.0,0.0,88.0,4.0,
-,Serge Aurier,ci CIV,DF,21,21,2.0,2.0,2015-2016,5c2b4f07,Paris-Saint-Germain,"1,886",21.0,8.0,0.0,88.0,35.0,
-,Marquinhos,br BRA,DF,29,20,0.0,1.0,2015-2016,d5f2f82b,Paris-Saint-Germain,"1,925",21.4,1.0,0.0,88.0,2.0,
-,Adrien Rabiot,fr FRA,MF,24,19,1.0,1.0,2015-2016,8794e251,Paris-Saint-Germain,"1,610",17.9,4.0,1.0,88.0,4.0,
-,Benjamin Stambouli,fr FRA,MF,27,18,0.0,0.0,2015-2016,5939baa2,Paris-Saint-Germain,"1,500",16.7,2.0,0.0,88.0,4.0,
-,Gregory van der Wiel,nl NED,DF,17,16,3.0,2.0,2015-2016,2fb3ad46,Paris-Saint-Germain,"1,378",15.3,2.0,0.0,88.0,11.0,
-,Layvin Kurzawa,fr FRA,DF,16,14,3.0,3.0,2015-2016,41e7ef1c,Paris-Saint-Germain,"1,289",14.3,1.0,0.0,88.0,4.0,
-,Marco Verratti,it ITA,MF,18,11,3.0,0.0,2015-2016,1467af0d,Paris-Saint-Germain,"1,064",11.8,2.0,0.0,88.0,9.0,
-,Javier Pastore,ar ARG,MF,16,11,6.0,2.0,2015-2016,881ef58c,Paris-Saint-Germain,874,9.7,1.0,0.0,88.0,5.0,
-,Presnel Kimpembe,fr FRA,DF,6,5,0.0,0.0,2015-2016,f6e670,Paris-Saint-Germain,426,4.7,1.0,0.0,88.0,4.0,
-,Jean-Kévin Augustin,fr FRA,FW,13,4,0.0,1.0,2015-2016,97bfa797,Paris-Saint-Germain,423,4.7,1.0,0.0,88.0,4.0,
-,Hervin Ongenda,fr FRA,"MF,FW",5,4,1.0,1.0,2015-2016,6989b4b0,Paris-Saint-Germain,347,3.9,0.0,0.0,88.0,4.0,
-,Christopher Nkunku,fr FRA,MF,5,4,0.0,0.0,2015-2016,7c56da38,Paris-Saint-Germain,328,3.6,0.0,0.0,88.0,4.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",16,3,0.0,2.0,2015-2016,6d6456d7,Paris-Saint-Germain,437,4.9,0.0,0.0,88.0,5.0,
-,Salvatore Sirigu,it ITA,GK,3,2,0.0,0.0,2015-2016,10dc46f0,Paris-Saint-Germain,225,2.5,0.0,0.0,88.0,9.0,
-,Nicolas Douchez,fr FRA,GK,1,1,0.0,0.0,2015-2016,65df6f31,Paris-Saint-Germain,90,1.0,0.0,0.0,88.0,4.0,
-,Timothée Taufflieb,fr FRA,MF,1,0,0.0,0.0,2015-2016,662d15a0,Paris-Saint-Germain,4,0.0,0.0,0.0,88.0,4.0,
-,Kévin Rimane,gf GUF,"DF,MF",1,0,0.0,0.0,2015-2016,7a137df4,Paris-Saint-Germain,3,0.0,0.0,0.0,88.0,159.0,
-,Yakou Méïte,ci CIV,"FW,MF",1,0,0.0,0.0,2015-2016,c55e8ab0,Paris-Saint-Germain,1,0.0,0.0,0.0,88.0,35.0,
-,Sessi D'Almeida,bj BEN,MF,0,0,,,2015-2016,2c574121,Paris-Saint-Germain,,,,,88.0,132.0,
-,Mamadou Doucouré,fr FRA,DF,0,0,,,2015-2016,7bd5b8fd,Paris-Saint-Germain,,,,,88.0,4.0,
-,Odsonne Édouard,fr FRA,FW,0,0,,,2015-2016,0562b7f1,Paris-Saint-Germain,,,,,88.0,4.0,
-,Alec Georgen,fr FRA,DF,0,0,,,2015-2016,99295490,Paris-Saint-Germain,,,,,88.0,4.0,
-,Youssouf Sabaly,sn SEN,DF,0,0,,,2015-2016,fbbb9269,Paris-Saint-Germain,,,,,88.0,34.0,
-,﻿Edinson Cavani,uy URU,FW,36,35,4.0,35.0,2016-2017,527f063d,Paris-Saint-Germain,"2,965",32.9,5.0,0.0,88.0,8.0,
-,Lucas Moura,br BRA,"FW,MF",37,29,6.0,12.0,2016-2017,2b622f01,Paris-Saint-Germain,"2,421",26.9,0.0,0.0,88.0,2.0,
-,Marquinhos,br BRA,DF,29,27,0.0,3.0,2016-2017,d5f2f82b,Paris-Saint-Germain,"2,501",27.8,1.0,0.0,88.0,2.0,
-,Thiago Silva,br BRA,DF,27,27,1.0,3.0,2016-2017,86e7deaf,Paris-Saint-Germain,"2,385",26.5,1.0,0.0,88.0,2.0,
-,Blaise Matuidi,fr FRA,MF,34,26,4.0,4.0,2016-2017,c0cddebe,Paris-Saint-Germain,"2,415",26.8,4.0,0.0,88.0,4.0,
-,Thiago Motta,it ITA,MF,30,25,1.0,0.0,2016-2017,57ef0d97,Paris-Saint-Germain,"2,228",24.8,7.0,1.0,88.0,9.0,
-,Marco Verratti,it ITA,MF,28,25,5.0,3.0,2016-2017,1467af0d,Paris-Saint-Germain,"2,148",23.9,6.0,0.0,88.0,9.0,
-,Kevin Trapp,de GER,GK,24,24,0.0,0.0,2016-2017,ce17b5eb,Paris-Saint-Germain,"2,123",23.6,0.0,0.0,88.0,13.0,
-,Ángel Di María,ar ARG,FW,29,24,7.0,6.0,2016-2017,19cda00b,Paris-Saint-Germain,"2,036",22.6,1.0,1.0,88.0,5.0,
-,Serge Aurier,ci CIV,DF,22,21,3.0,0.0,2016-2017,5c2b4f07,Paris-Saint-Germain,"1,829",20.3,4.0,2.0,88.0,35.0,
-,Adrien Rabiot,fr FRA,MF,27,20,2.0,3.0,2016-2017,8794e251,Paris-Saint-Germain,"1,935",21.5,2.0,0.0,88.0,4.0,
-,Maxwell,br BRA,DF,20,19,6.0,0.0,2016-2017,6f08cece,Paris-Saint-Germain,"1,713",19.0,0.0,0.0,88.0,2.0,
-,Presnel Kimpembe,fr FRA,DF,19,19,0.0,0.0,2016-2017,f6e670,Paris-Saint-Germain,"1,710",19.0,7.0,0.0,88.0,4.0,
-,Thomas Meunier,be BEL,DF,22,18,4.0,1.0,2016-2017,162b013,Paris-Saint-Germain,"1,695",18.8,3.0,0.0,88.0,27.0,
-,Layvin Kurzawa,fr FRA,DF,18,18,2.0,2.0,2016-2017,41e7ef1c,Paris-Saint-Germain,"1,527",17.0,3.0,0.0,88.0,4.0,
-,Alphonse Areola,fr FRA,GK,15,14,0.0,0.0,2016-2017,2f965a72,Paris-Saint-Germain,"1,297",14.4,0.0,0.0,88.0,4.0,
-,Julian Draxler,de GER,FW,17,12,1.0,4.0,2016-2017,1a992676,Paris-Saint-Germain,"1,012",11.2,2.0,0.0,88.0,13.0,
-,Javier Pastore,ar ARG,"MF,FW",15,9,4.0,0.0,2016-2017,881ef58c,Paris-Saint-Germain,864,9.6,0.0,0.0,88.0,5.0,
-,Grzegorz Krychowiak,pl POL,MF,11,7,0.0,0.0,2016-2017,580d52dd,Paris-Saint-Germain,659,7.3,2.0,0.0,88.0,14.0,
-,Hatem Ben Arfa,fr FRA,"MF,FW",23,5,1.0,0.0,2016-2017,74dc806c,Paris-Saint-Germain,643,7.1,1.0,0.0,88.0,4.0,
-,Christopher Nkunku,fr FRA,"MF,FW",8,5,0.0,1.0,2016-2017,7c56da38,Paris-Saint-Germain,398,4.4,2.0,0.0,88.0,4.0,
-,David Luiz,br BRA,DF,3,3,0.0,0.0,2016-2017,c0e27d1a,Paris-Saint-Germain,241,2.7,1.0,0.0,88.0,2.0,
-,Jonathan Ikone,fr FRA,"MF,FW",4,2,0.0,0.0,2016-2017,42eaa028,Paris-Saint-Germain,138,1.5,0.0,0.0,88.0,4.0,
-,Jesé,es ESP,FW,9,1,0.0,1.0,2016-2017,4a537185,Paris-Saint-Germain,268,3.0,0.0,0.0,88.0,1.0,
-,Jean-Kévin Augustin,fr FRA,FW,10,1,2.0,1.0,2016-2017,97bfa797,Paris-Saint-Germain,196,2.2,0.0,0.0,88.0,4.0,
-,Gonçalo Guedes,pt POR,FW,7,1,1.0,0.0,2016-2017,6bc67d7,Paris-Saint-Germain,143,1.6,0.0,0.0,88.0,3.0,
-,Giovani Lo Celso,ar ARG,MF,4,1,0.0,0.0,2016-2017,d7553721,Paris-Saint-Germain,82,0.9,1.0,0.0,88.0,5.0,
-,Lorenzo Callegari,fr FRA,MF,1,0,0.0,0.0,2016-2017,f5aa537a,Paris-Saint-Germain,4,0.0,0.0,0.0,88.0,4.0,
-,Fodé Ballo-Touré,sn SEN,DF,0,0,,,2016-2017,f449640d,Paris-Saint-Germain,,,,,88.0,34.0,
-,Rémy Descamps,fr FRA,GK,0,0,,,2016-2017,477e50ce,Paris-Saint-Germain,,,,,88.0,4.0,
-,Gaëtan Robail,fr FRA,"FW,MF",0,0,,,2016-2017,8361b5d6,Paris-Saint-Germain,,,,,88.0,4.0,
-,﻿Alphonse Areola,fr FRA,GK,34,34,0.0,0.0,2017-2018,2f965a72,Paris-Saint-Germain,"3,060",34.0,0.0,0.0,88.0,4.0,
-,Edinson Cavani,uy URU,FW,32,30,6.0,28.0,2017-2018,527f063d,Paris-Saint-Germain,"2,581",28.7,3.0,0.0,88.0,8.0,
-,Presnel Kimpembe,fr FRA,DF,28,27,0.0,0.0,2017-2018,f6e670,Paris-Saint-Germain,"2,423",26.9,8.0,2.0,88.0,4.0,
-,Adrien Rabiot,fr FRA,MF,33,27,5.0,1.0,2017-2018,8794e251,Paris-Saint-Germain,"2,362",26.2,2.0,0.0,88.0,4.0,
-,Ángel Di María,ar ARG,FW,30,26,6.0,11.0,2017-2018,19cda00b,Paris-Saint-Germain,"2,111",23.5,1.0,0.0,88.0,5.0,
-,Marquinhos,br BRA,DF,26,25,2.0,0.0,2017-2018,d5f2f82b,Paris-Saint-Germain,"2,262",25.1,1.0,0.0,88.0,2.0,
-,Thiago Silva,br BRA,DF,25,24,0.0,1.0,2017-2018,86e7deaf,Paris-Saint-Germain,"2,115",23.5,5.0,0.0,88.0,2.0,
-,Kylian Mbappé,fr FRA,"FW,MF",27,24,8.0,13.0,2017-2018,42fd9c7f,Paris-Saint-Germain,"2,094",23.3,2.0,0.0,88.0,4.0,
-,Dani Alves,br BRA,DF,25,23,7.0,1.0,2017-2018,c9e99e49,Paris-Saint-Germain,"2,063",22.9,7.0,1.0,88.0,2.0,
-,Neymar,br BRA,"FW,MF",20,20,13.0,19.0,2017-2018,69384e5d,Paris-Saint-Germain,"1,786",19.8,5.0,1.0,88.0,2.0,
-,Marco Verratti,it ITA,MF,22,20,3.0,0.0,2017-2018,1467af0d,Paris-Saint-Germain,"1,718",19.1,9.0,1.0,88.0,9.0,
-,Yuri Berchiche,es ESP,DF,22,19,4.0,2.0,2017-2018,b6e50615,Paris-Saint-Germain,"1,716",19.1,4.0,0.0,88.0,1.0,
-,Julian Draxler,de GER,"MF,FW",30,19,5.0,4.0,2017-2018,1a992676,Paris-Saint-Germain,"1,704",18.9,1.0,0.0,88.0,13.0,
-,Layvin Kurzawa,fr FRA,DF,20,19,1.0,2.0,2017-2018,41e7ef1c,Paris-Saint-Germain,"1,704",18.9,1.0,0.0,88.0,4.0,
-,Giovani Lo Celso,ar ARG,MF,33,18,3.0,4.0,2017-2018,d7553721,Paris-Saint-Germain,"1,776",19.7,2.0,0.0,88.0,5.0,
-,Thomas Meunier,be BEL,DF,24,16,4.0,4.0,2017-2018,162b013,Paris-Saint-Germain,"1,578",17.5,3.0,0.0,88.0,27.0,
-,Javier Pastore,ar ARG,"MF,FW",25,14,5.0,4.0,2017-2018,881ef58c,Paris-Saint-Germain,"1,347",15.0,2.0,0.0,88.0,5.0,
-,Thiago Motta,it ITA,MF,19,14,1.0,1.0,2017-2018,57ef0d97,Paris-Saint-Germain,"1,154",12.8,3.0,1.0,88.0,9.0,
-,Lassana Diarra,fr FRA,MF,10,8,1.0,0.0,2017-2018,79584585,Paris-Saint-Germain,606,6.7,4.0,0.0,88.0,4.0,
-,Christopher Nkunku,fr FRA,"FW,MF",20,6,0.0,4.0,2017-2018,7c56da38,Paris-Saint-Germain,631,7.0,0.0,0.0,88.0,4.0,
-,Kevin Trapp,de GER,GK,4,4,0.0,0.0,2017-2018,ce17b5eb,Paris-Saint-Germain,360,4.0,0.0,0.0,88.0,13.0,
-,Timothy Weah,us USA,FW,3,1,0.0,0.0,2017-2018,8eec784d,Paris-Saint-Germain,122,1.4,1.0,0.0,88.0,75.0,
-,Lucas Moura,br BRA,FW,5,0,1.0,1.0,2017-2018,2b622f01,Paris-Saint-Germain,76,0.8,1.0,0.0,88.0,2.0,
-,Blaise Matuidi,fr FRA,MF,2,0,0.0,0.0,2017-2018,c0cddebe,Paris-Saint-Germain,28,0.3,0.0,0.0,88.0,4.0,
-,Stanley N'Soki,fr FRA,DF,1,0,0.0,0.0,2017-2018,61590953,Paris-Saint-Germain,26,0.3,0.0,0.0,88.0,4.0,
-,Yacine Adli,fr FRA,FW,1,0,0.0,0.0,2017-2018,26777636,Paris-Saint-Germain,8,0.1,0.0,0.0,88.0,4.0,
-,Kévin Rimane,gf GUF,DF,1,0,0.0,0.0,2017-2018,7a137df4,Paris-Saint-Germain,7,0.1,0.0,0.0,88.0,159.0,
-,Gonçalo Guedes,pt POR,FW,1,0,0.0,0.0,2017-2018,6bc67d7,Paris-Saint-Germain,5,0.1,0.0,0.0,88.0,3.0,
-,Antoine Bernede,fr FRA,MF,0,0,,,2017-2018,07a821e4,Paris-Saint-Germain,,,,,88.0,4.0,
-,Lorenzo Callegari,fr FRA,MF,0,0,,,2017-2018,f5aa537a,Paris-Saint-Germain,,,,,88.0,4.0,
-,Sébastien Cibois,fr FRA,GK,0,0,,,2017-2018,2b9b37b2,Paris-Saint-Germain,,,,,88.0,4.0,
-,Rémy Descamps,fr FRA,GK,0,0,,,2017-2018,477e50ce,Paris-Saint-Germain,,,,,88.0,4.0,
-,Alec Georgen,fr FRA,DF,0,0,,,2017-2018,99295490,Paris-Saint-Germain,,,,,88.0,4.0,
-,﻿Marquinhos,br BRA,"DF,MF",30,30,2.0,3.0,2018-2019,d5f2f82b,Paris-Saint-Germain,"2,693",29.9,2.0,1.0,88.0,2.0,
-,Ángel Di María,ar ARG,"MF,FW",30,28,11.0,12.0,2018-2019,19cda00b,Paris-Saint-Germain,"2,324",25.8,2.0,0.0,88.0,5.0,
-,Kylian Mbappé,fr FRA,"FW,MF",29,24,7.0,33.0,2018-2019,42fd9c7f,Paris-Saint-Germain,"2,343",26.0,5.0,1.0,88.0,4.0,
-,Thiago Silva,br BRA,DF,25,24,1.0,0.0,2018-2019,86e7deaf,Paris-Saint-Germain,"2,077",23.1,4.0,0.0,88.0,2.0,
-,Presnel Kimpembe,fr FRA,DF,24,23,1.0,0.0,2018-2019,f6e670,Paris-Saint-Germain,"2,005",22.3,4.0,1.0,88.0,4.0,
-,Marco Verratti,it ITA,MF,26,23,2.0,0.0,2018-2019,1467af0d,Paris-Saint-Germain,"1,879",20.9,7.0,0.0,88.0,9.0,
-,Julian Draxler,de GER,MF,31,22,7.0,3.0,2018-2019,1a992676,Paris-Saint-Germain,"2,046",22.7,6.0,0.0,88.0,13.0,
-,Alphonse Areola,fr FRA,GK,21,21,0.0,0.0,2018-2019,2f965a72,Paris-Saint-Germain,"1,890",21.0,1.0,0.0,88.0,4.0,
-,Juan Bernat,es ESP,"DF,MF",25,21,2.0,1.0,2018-2019,433dc9a2,Paris-Saint-Germain,"1,836",20.4,6.0,1.0,88.0,1.0,
-,Edinson Cavani,uy URU,FW,21,20,5.0,18.0,2018-2019,527f063d,Paris-Saint-Germain,"1,671",18.6,1.0,0.0,88.0,8.0,
-,Thilo Kehrer,de GER,DF,27,19,2.0,1.0,2018-2019,51dbeea9,Paris-Saint-Germain,"1,902",21.1,4.0,0.0,88.0,13.0,
-,Dani Alves,br BRA,"MF,DF",23,19,7.0,1.0,2018-2019,c9e99e49,Paris-Saint-Germain,"1,622",18.0,4.0,0.0,88.0,2.0,
-,Thomas Meunier,be BEL,DF,22,19,3.0,3.0,2018-2019,162b013,Paris-Saint-Germain,"1,610",17.9,2.0,0.0,88.0,27.0,
-,Gianluigi Buffon,it ITA,GK,17,17,0.0,0.0,2018-2019,40d028b,Paris-Saint-Germain,"1,530",17.0,0.0,0.0,88.0,9.0,
-,Neymar,br BRA,"MF,FW",17,16,7.0,15.0,2018-2019,69384e5d,Paris-Saint-Germain,"1,439",16.0,2.0,0.0,88.0,2.0,
-,Leandro Paredes,ar ARG,MF,16,14,2.0,0.0,2018-2019,dff153a4,Paris-Saint-Germain,"1,249",13.9,1.0,0.0,88.0,5.0,
-,Christopher Nkunku,fr FRA,"MF,FW",22,13,2.0,3.0,2018-2019,7c56da38,Paris-Saint-Germain,"1,156",12.8,0.0,0.0,88.0,4.0,
-,Adrien Rabiot,fr FRA,MF,14,12,1.0,2.0,2018-2019,8794e251,Paris-Saint-Germain,"1,063",11.8,3.0,0.0,88.0,4.0,
-,Layvin Kurzawa,fr FRA,"DF,MF",19,11,2.0,1.0,2018-2019,41e7ef1c,Paris-Saint-Germain,"1,010",11.2,4.0,0.0,88.0,4.0,
-,Moussa Diaby,fr FRA,"MF,DF",25,10,6.0,2.0,2018-2019,d5c06,Paris-Saint-Germain,"1,141",12.7,1.0,0.0,88.0,4.0,
-,Colin Dagba,fr FRA,"DF,MF",17,9,2.0,0.0,2018-2019,29c02c9f,Paris-Saint-Germain,918,10.2,2.0,0.0,88.0,4.0,
-,Eric Maxim Choupo-Moting,cm CMR,FW,22,8,0.0,3.0,2018-2019,0e6bc38c,Paris-Saint-Germain,802,8.9,0.0,0.0,88.0,36.0,
-,Stanley N'Soki,fr FRA,DF,12,8,0.0,0.0,2018-2019,61590953,Paris-Saint-Germain,698,7.8,2.0,0.0,88.0,4.0,
-,Loïc Mbe Soh,fr FRA,DF,2,2,0.0,0.0,2018-2019,8f534f8e,Paris-Saint-Germain,180,2.0,0.0,0.0,88.0,4.0,
-,Antoine Bernede,fr FRA,MF,2,2,0.0,0.0,2018-2019,07a821e4,Paris-Saint-Germain,169,1.9,0.0,0.0,88.0,4.0,
-,Lassana Diarra,fr FRA,MF,3,2,0.0,0.0,2018-2019,79584585,Paris-Saint-Germain,159,1.8,0.0,0.0,88.0,4.0,
-,Timothy Weah,us USA,FW,2,1,0.0,1.0,2018-2019,8eec784d,Paris-Saint-Germain,54,0.6,1.0,0.0,88.0,75.0,
-,Metehan Güçlü,tr TUR,MF,1,0,0.0,1.0,2018-2019,0ee664db,Paris-Saint-Germain,17,0.2,0.0,0.0,88.0,15.0,
-,Giovani Lo Celso,ar ARG,MF,1,0,0.0,0.0,2018-2019,d7553721,Paris-Saint-Germain,11,0.1,0.0,0.0,88.0,5.0,
-,Kévin Rimane,gf GUF,MF,1,0,0.0,0.0,2018-2019,7a137df4,Paris-Saint-Germain,5,0.1,0.0,0.0,88.0,159.0,
-,Sébastien Cibois,fr FRA,GK,0,0,,,2018-2019,2b9b37b2,Paris-Saint-Germain,,,,,88.0,4.0,
-,Junior Dina Ebimbe,fr FRA,MF,0,0,,,2018-2019,95bb6ddc,Paris-Saint-Germain,,,,,88.0,4.0,
-,Isaac Hemans Arday,gh GHA,DF,0,0,,,2018-2019,3a88c8e,Paris-Saint-Germain,,,,,88.0,17.0,
-,Azzeddine Toufiqui,fr FRA,MF,0,0,,,2018-2019,2c55fadb,Paris-Saint-Germain,,,,,88.0,4.0,
-,Kevin Trapp,de GER,GK,0,0,,,2018-2019,ce17b5eb,Paris-Saint-Germain,,,,,88.0,13.0,
-,Arthur Zagre,fr FRA,DF,0,0,,,2018-2019,3225654e,Paris-Saint-Germain,,,,,88.0,4.0,
-,﻿Ángel Di María,ar ARG,"MF,FW",26,23,14.0,8.0,2019-2020,19cda00b,Paris-Saint-Germain,"2,000",22.2,2.0,0.0,88.0,5.0,
-,Keylor Navas,cr CRC,GK,21,21,0.0,0.0,2019-2020,cada4fc,Paris-Saint-Germain,"1,890",21.0,0.0,0.0,88.0,22.0,
-,Thiago Silva,br BRA,DF,21,20,0.0,0.0,2019-2020,86e7deaf,Paris-Saint-Germain,"1,571",17.5,1.0,0.0,88.0,2.0,
-,Idrissa Gana Gueye,sn SEN,MF,20,19,2.0,1.0,2019-2020,72c812f3,Paris-Saint-Germain,"1,653",18.4,2.0,0.0,88.0,34.0,
-,Kylian Mbappé,fr FRA,FW,20,17,5.0,18.0,2019-2020,42fd9c7f,Paris-Saint-Germain,"1,513",16.8,0.0,0.0,88.0,4.0,
-,Juan Bernat,es ESP,"DF,MF",18,16,4.0,0.0,2019-2020,433dc9a2,Paris-Saint-Germain,"1,388",15.4,5.0,0.0,88.0,1.0,
-,Marco Verratti,it ITA,MF,20,15,5.0,0.0,2019-2020,1467af0d,Paris-Saint-Germain,"1,482",16.5,6.0,0.0,88.0,9.0,
-,Marquinhos,br BRA,"MF,DF",19,15,1.0,3.0,2019-2020,d5f2f82b,Paris-Saint-Germain,"1,476",16.4,1.0,0.0,88.0,2.0,
-,Neymar,br BRA,"MF,FW",15,15,6.0,13.0,2019-2020,69384e5d,Paris-Saint-Germain,"1,318",14.6,4.0,1.0,88.0,2.0,
-,Mauro Icardi,ar ARG,FW,20,14,2.0,12.0,2019-2020,43b78598,Paris-Saint-Germain,"1,267",14.1,0.0,0.0,88.0,5.0,
-,Thomas Meunier,be BEL,DF,16,14,1.0,0.0,2019-2020,162b013,Paris-Saint-Germain,"1,242",13.8,3.0,0.0,88.0,27.0,
-,Presnel Kimpembe,fr FRA,DF,16,14,0.0,0.0,2019-2020,f6e670,Paris-Saint-Germain,"1,225",13.6,6.0,0.0,88.0,4.0,
-,Abdou Diallo,sn SEN,DF,16,14,1.0,0.0,2019-2020,fc62f087,Paris-Saint-Germain,"1,201",13.3,4.0,0.0,88.0,34.0,
-,Pablo Sarabia,es ESP,"MF,FW",21,13,3.0,4.0,2019-2020,9744ff80,Paris-Saint-Germain,"1,164",12.9,1.0,0.0,88.0,1.0,
-,Layvin Kurzawa,fr FRA,DF,14,9,0.0,1.0,2019-2020,41e7ef1c,Paris-Saint-Germain,858,9.5,4.0,0.0,88.0,4.0,
-,Leandro Paredes,ar ARG,MF,17,8,0.0,0.0,2019-2020,dff153a4,Paris-Saint-Germain,814,9.0,2.0,0.0,88.0,5.0,
-,Julian Draxler,de GER,MF,11,7,4.0,0.0,2019-2020,1a992676,Paris-Saint-Germain,686,7.6,5.0,0.0,88.0,13.0,
-,Colin Dagba,fr FRA,DF,10,7,0.0,0.0,2019-2020,29c02c9f,Paris-Saint-Germain,668,7.4,1.0,0.0,88.0,4.0,
-,Edinson Cavani,uy URU,FW,14,7,1.0,4.0,2019-2020,527f063d,Paris-Saint-Germain,605,6.7,2.0,0.0,88.0,8.0,
-,Ander Herrera,es ESP,"MF,DF",8,6,1.0,1.0,2019-2020,436a9dd0,Paris-Saint-Germain,547,6.1,0.0,0.0,88.0,1.0,
-,Thilo Kehrer,de GER,DF,7,5,0.0,1.0,2019-2020,51dbeea9,Paris-Saint-Germain,480,5.3,0.0,0.0,88.0,13.0,
-,Eric Maxim Choupo-Moting,cm CMR,"FW,MF",9,5,1.0,3.0,2019-2020,0e6bc38c,Paris-Saint-Germain,451,5.0,0.0,0.0,88.0,36.0,
-,Tanguy Nianzou,fr FRA,"DF,MF",6,4,0.0,2.0,2019-2020,5853ac44,Paris-Saint-Germain,452,5.0,1.0,0.0,88.0,4.0,
-,Alphonse Areola,fr FRA,GK,3,3,0.0,0.0,2019-2020,2f965a72,Paris-Saint-Germain,270,3.0,0.0,0.0,88.0,4.0,
-,Sergio Rico,es ESP,GK,2,2,0.0,0.0,2019-2020,5f0241b2,Paris-Saint-Germain,180,2.0,0.0,0.0,88.0,1.0,
-,Mitchel Bakker,nl NED,DF,1,1,0.0,0.0,2019-2020,8567629,Paris-Saint-Germain,90,1.0,1.0,0.0,88.0,11.0,
-,Marcin Bułka,pl POL,GK,1,1,0.0,0.0,2019-2020,db87a2c4,Paris-Saint-Germain,90,1.0,0.0,0.0,88.0,14.0,
-,Adil Aouchiche,fr FRA,MF,1,1,0.0,0.0,2019-2020,b94b8be1,Paris-Saint-Germain,64,0.7,0.0,0.0,88.0,4.0,
-,Loïc Mbe Soh,fr FRA,DF,1,1,0.0,0.0,2019-2020,8f534f8e,Paris-Saint-Germain,58,0.6,0.0,0.0,88.0,4.0,
-,Arthur Zagre,fr FRA,MF,1,0,0.0,0.0,2019-2020,3225654e,Paris-Saint-Germain,25,0.3,0.0,0.0,88.0,4.0,
-,Jesé,es ESP,FW,1,0,0.0,0.0,2019-2020,4a537185,Paris-Saint-Germain,1,0.0,0.0,0.0,88.0,1.0,
-,Garissone Innocent,ht HAI,GK,0,0,,,2019-2020,3e6f30a9,Paris-Saint-Germain,,,,,88.0,47.0,
-,Arnaud Kalimuendo,fr FRA,FW,0,0,,,2019-2020,bf4c41f9,Paris-Saint-Germain,,,,,88.0,4.0,
-,﻿Keylor Navas,cr CRC,GK,29,29,0.0,0.0,2020-2021,cada4fc,Paris-Saint-Germain,"2,520",28.0,0.0,0.0,88.0,22.0,
-,Kylian Mbappé,fr FRA,"FW,MF",31,27,7.0,27.0,2020-2021,42fd9c7f,Paris-Saint-Germain,"2,380",26.4,5.0,0.0,88.0,4.0,
-,Presnel Kimpembe,fr FRA,DF,28,26,0.0,0.0,2020-2021,f6e670,Paris-Saint-Germain,"2,303",25.6,6.0,1.0,88.0,4.0,
-,Marquinhos,br BRA,DF,25,24,1.0,3.0,2020-2021,d5f2f82b,Paris-Saint-Germain,"2,128",23.6,2.0,0.0,88.0,2.0,
-,Ángel Di María,ar ARG,"MF,FW",27,23,9.0,4.0,2020-2021,19cda00b,Paris-Saint-Germain,"1,853",20.6,1.0,0.0,88.0,5.0,
-,Moise Kean,it ITA,FW,26,22,0.0,13.0,2020-2021,3d50bcdb,Paris-Saint-Germain,"1,698",18.9,4.0,0.0,88.0,9.0,
-,Idrissa Gana Gueye,sn SEN,MF,28,20,1.0,2.0,2020-2021,72c812f3,Paris-Saint-Germain,"1,581",17.6,3.0,0.0,88.0,34.0,
-,Ander Herrera,es ESP,MF,31,18,3.0,1.0,2020-2021,436a9dd0,Paris-Saint-Germain,"1,851",20.6,6.0,0.0,88.0,1.0,
-,Mitchel Bakker,nl NED,DF,26,18,2.0,0.0,2020-2021,8567629,Paris-Saint-Germain,"1,694",18.8,1.0,0.0,88.0,11.0,
-,Alessandro Florenzi,it ITA,DF,21,18,1.0,2.0,2020-2021,288d4b3,Paris-Saint-Germain,"1,538",17.1,1.0,0.0,88.0,9.0,
-,Abdou Diallo,sn SEN,DF,22,17,1.0,0.0,2020-2021,fc62f087,Paris-Saint-Germain,"1,490",16.6,3.0,2.0,88.0,34.0,
-,Thilo Kehrer,de GER,DF,24,16,0.0,0.0,2020-2021,51dbeea9,Paris-Saint-Germain,"1,616",18.0,3.0,0.0,88.0,13.0,
-,Marco Verratti,it ITA,MF,21,16,2.0,0.0,2020-2021,1467af0d,Paris-Saint-Germain,"1,492",16.6,7.0,0.0,88.0,9.0,
-,Danilo Pereira,pt POR,"MF,DF",23,16,1.0,2.0,2020-2021,8fd9996f,Paris-Saint-Germain,"1,430",15.9,3.0,0.0,88.0,3.0,
-,Leandro Paredes,ar ARG,MF,21,16,2.0,1.0,2020-2021,dff153a4,Paris-Saint-Germain,"1,302",14.5,7.0,1.0,88.0,5.0,
-,Neymar,br BRA,"MF,FW",18,15,5.0,9.0,2020-2021,69384e5d,Paris-Saint-Germain,"1,415",15.7,7.0,2.0,88.0,2.0,
-,Rafinha,br BRA,"MF,FW",23,15,4.0,0.0,2020-2021,0c2ac3cb,Paris-Saint-Germain,"1,361",15.1,2.0,0.0,88.0,2.0,
-,Colin Dagba,fr FRA,DF,25,15,2.0,1.0,2020-2021,29c02c9f,Paris-Saint-Germain,"1,357",15.1,3.0,0.0,88.0,4.0,
-,Layvin Kurzawa,fr FRA,DF,19,15,1.0,1.0,2020-2021,41e7ef1c,Paris-Saint-Germain,"1,278",14.2,4.0,1.0,88.0,4.0,
-,Pablo Sarabia,es ESP,"FW,MF",27,13,4.0,6.0,2020-2021,9744ff80,Paris-Saint-Germain,"1,320",14.7,2.0,0.0,88.0,1.0,
-,Julian Draxler,de GER,"MF,FW",24,12,3.0,4.0,2020-2021,1a992676,Paris-Saint-Germain,"1,064",11.8,3.0,0.0,88.0,13.0,
-,Mauro Icardi,ar ARG,FW,20,11,3.0,7.0,2020-2021,43b78598,Paris-Saint-Germain,"1,079",12.0,1.0,0.0,88.0,5.0,
-,Sergio Rico,es ESP,GK,10,8,0.0,0.0,2020-2021,5f0241b2,Paris-Saint-Germain,810,9.0,0.0,0.0,88.0,1.0,
-,Timothee Pembele,fr FRA,DF,6,3,0.0,1.0,2020-2021,f8ce97ca,Paris-Saint-Germain,383,4.3,1.0,0.0,88.0,4.0,
-,Juan Bernat,es ESP,DF,3,2,0.0,0.0,2020-2021,433dc9a2,Paris-Saint-Germain,194,2.2,2.0,0.0,88.0,1.0,
-,Kays Ruiz,ma MAR,"FW,MF",7,1,0.0,0.0,2020-2021,90a9cc01,Paris-Saint-Germain,186,2.1,1.0,0.0,88.0,26.0,
-,Marcin Bułka,pl POL,GK,1,1,0.0,0.0,2020-2021,db87a2c4,Paris-Saint-Germain,90,1.0,0.0,0.0,88.0,14.0,
-,Arnaud Kalimuendo,fr FRA,FW,1,1,0.0,0.0,2020-2021,bf4c41f9,Paris-Saint-Germain,73,0.8,0.0,0.0,88.0,4.0,
-,Bandiougou Fadiga,fr FRA,"FW,MF",6,0,0.0,0.0,2020-2021,45bb4303,Paris-Saint-Germain,63,0.7,1.0,0.0,88.0,4.0,
-,Jesé,es ESP,FW,2,0,0.0,0.0,2020-2021,4a537185,Paris-Saint-Germain,24,0.3,0.0,0.0,88.0,1.0,
-,Edouard Michut,fr FRA,MF,1,0,0.0,0.0,2020-2021,fe6c1add,Paris-Saint-Germain,2,0.0,0.0,0.0,88.0,4.0,
-,Kenny Nagera,fr FRA,MF,1,0,0.0,0.0,2020-2021,833ce5f0,Paris-Saint-Germain,2,0.0,0.0,0.0,88.0,4.0,
-,Xavi Simons,nl NED,MF,1,0,0.0,0.0,2020-2021,da4d670f,Paris-Saint-Germain,2,0.0,0.0,0.0,88.0,11.0,
-,Denis Franchi,it ITA,GK,0,0,,,2020-2021,b362e6,Paris-Saint-Germain,,,,,88.0,9.0,
-,Garissone Innocent,ht HAI,GK,0,0,,,2020-2021,3e6f30a9,Paris-Saint-Germain,,,,,88.0,47.0,
-,Maxen Kapo,fr FRA,MF,0,0,,,2020-2021,0d35ee49,Paris-Saint-Germain,,,,,88.0,4.0,
-,Alexandre Letellier,fr FRA,GK,0,0,,,2020-2021,96fcd380,Paris-Saint-Germain,,,,,88.0,4.0,
-,Mathyas Randriamamy,mg MAD,GK,0,0,,,2020-2021,060faf9d,Paris-Saint-Germain,,,,,88.0,155.0,
-,﻿Kylian Mbappé,fr FRA,FW,35,34,17.0,28.0,2021-2022,42fd9c7f,Paris-Saint-Germain,"3,023",33.6,10.0,0.0,88.0,4.0,
-,Marquinhos,br BRA,DF,32,32,0.0,5.0,2021-2022,d5f2f82b,Paris-Saint-Germain,"2,861",31.8,5.0,0.0,88.0,2.0,
-,Presnel Kimpembe,fr FRA,DF,30,29,0.0,1.0,2021-2022,f6e670,Paris-Saint-Germain,"2,576",28.6,6.0,0.0,88.0,4.0,
-,Achraf Hakimi,ma MAR,DF,32,28,6.0,4.0,2021-2022,42d61c7,Paris-Saint-Germain,"2,479",27.5,3.0,1.0,88.0,26.0,
-,Lionel Messi,ar ARG,"FW,MF",26,24,14.0,6.0,2021-2022,d70ce98e,Paris-Saint-Germain,"2,153",23.9,0.0,0.0,88.0,5.0,
-,Marco Verratti,it ITA,MF,24,23,2.0,2.0,2021-2022,1467af0d,Paris-Saint-Germain,"1,937",21.5,12.0,0.0,88.0,9.0,
-,Danilo Pereira,pt POR,MF,27,22,0.0,5.0,2021-2022,8fd9996f,Paris-Saint-Germain,"2,038",22.6,2.0,0.0,88.0,3.0,
-,Neymar,br BRA,"FW,MF",22,22,6.0,13.0,2021-2022,69384e5d,Paris-Saint-Germain,"1,851",20.6,10.0,0.0,88.0,2.0,
-,Keylor Navas,cr CRC,GK,21,21,0.0,0.0,2021-2022,cada4fc,Paris-Saint-Germain,"1,856",20.6,0.0,1.0,88.0,22.0,
-,Ángel Di María,ar ARG,"FW,MF",26,19,7.0,5.0,2021-2022,19cda00b,Paris-Saint-Germain,"1,645",18.3,2.0,0.0,88.0,5.0,
-,Nuno Mendes,pt POR,DF,27,18,1.0,0.0,2021-2022,f20e4cc9,Paris-Saint-Germain,"1,658",18.4,3.0,0.0,88.0,3.0,
-,Georginio Wijnaldum,nl NED,MF,31,18,3.0,1.0,2021-2022,b58eef0,Paris-Saint-Germain,"1,653",18.4,2.0,0.0,88.0,11.0,
-,Idrissa Gana Gueye,sn SEN,MF,26,18,1.0,3.0,2021-2022,72c812f3,Paris-Saint-Germain,"1,641",18.2,4.0,0.0,88.0,34.0,
-,Gianluigi Donnarumma,it ITA,GK,17,17,0.0,0.0,2021-2022,08f5afaa,Paris-Saint-Germain,"1,530",17.0,3.0,0.0,88.0,9.0,
-,Thilo Kehrer,de GER,DF,27,16,0.0,2.0,2021-2022,51dbeea9,Paris-Saint-Germain,"1,513",16.8,0.0,0.0,88.0,13.0,
-,Ander Herrera,es ESP,MF,19,12,2.0,3.0,2021-2022,436a9dd0,Paris-Saint-Germain,"1,091",12.1,2.0,0.0,88.0,1.0,
-,Juan Bernat,es ESP,"DF,MF",15,12,0.0,0.0,2021-2022,433dc9a2,Paris-Saint-Germain,958,10.6,2.0,0.0,88.0,1.0,
-,Mauro Icardi,ar ARG,FW,24,10,0.0,4.0,2021-2022,43b78598,Paris-Saint-Germain,"1,027",11.4,1.0,0.0,88.0,5.0,
-,Abdou Diallo,sn SEN,DF,12,10,1.0,0.0,2021-2022,fc62f087,Paris-Saint-Germain,877,9.7,1.0,0.0,88.0,34.0,
-,Leandro Paredes,ar ARG,MF,15,10,2.0,1.0,2021-2022,dff153a4,Paris-Saint-Germain,838,9.3,3.0,0.0,88.0,5.0,
-,Sergio Ramos,es ESP,DF,12,8,0.0,2.0,2021-2022,08511d65,Paris-Saint-Germain,801,8.9,3.0,1.0,88.0,1.0,
-,Julian Draxler,de GER,"FW,MF",18,5,1.0,2.0,2021-2022,1a992676,Paris-Saint-Germain,548,6.1,0.0,0.0,88.0,13.0,
-,Junior Dina Ebimbe,fr FRA,MF,10,4,0.0,0.0,2021-2022,95bb6ddc,Paris-Saint-Germain,316,3.5,2.0,0.0,88.0,4.0,
-,Rafinha,br BRA,"FW,MF",5,3,0.0,0.0,2021-2022,0c2ac3cb,Paris-Saint-Germain,220,2.4,0.0,0.0,88.0,2.0,
-,Colin Dagba,fr FRA,DF,3,2,0.0,0.0,2021-2022,29c02c9f,Paris-Saint-Germain,165,1.8,1.0,0.0,88.0,4.0,
-,Xavi Simons,nl NED,"MF,FW",6,1,0.0,0.0,2021-2022,da4d670f,Paris-Saint-Germain,132,1.5,1.0,0.0,88.0,11.0,
-,Edouard Michut,fr FRA,MF,5,0,1.0,0.0,2021-2022,fe6c1add,Paris-Saint-Germain,70,0.8,0.0,1.0,88.0,4.0,
-,Sergio Rico,es ESP,GK,1,0,0.0,0.0,2021-2022,5f0241b2,Paris-Saint-Germain,23,0.3,0.0,0.0,88.0,1.0,
-,Pablo Sarabia,es ESP,FW,2,0,0.0,1.0,2021-2022,9744ff80,Paris-Saint-Germain,22,0.2,1.0,0.0,88.0,1.0,
-,Sekou Yansané,gn GUI,FW,1,0,0.0,0.0,2021-2022,bce37ac0,Paris-Saint-Germain,16,0.2,0.0,0.0,88.0,74.0,
-,Nathan Bitu Mazala,fr FRA,DF,1,0,0.0,0.0,2021-2022,0f697e02,Paris-Saint-Germain,11,0.1,0.0,0.0,88.0,4.0,
-,Arnaud Kalimuendo,fr FRA,FW,2,0,0.0,0.0,2021-2022,bf4c41f9,Paris-Saint-Germain,8,0.1,0.0,0.0,88.0,4.0,
-,Alexandre Letellier,fr FRA,GK,1,0,0.0,0.0,2021-2022,96fcd380,Paris-Saint-Germain,8,0.1,0.0,0.0,88.0,4.0,
-,El Chadaille Bitshiabu,fr FRA,DF,1,0,0.0,0.0,2021-2022,2180c761,Paris-Saint-Germain,5,0.1,0.0,0.0,88.0,4.0,
-,Djeidi Gassama,fr FRA,FW,1,0,0.0,0.0,2021-2022,bbdb2789,Paris-Saint-Germain,2,0.0,0.0,0.0,88.0,4.0,
-,Ismaël Gharbi,es ESP,MF,1,0,0.0,0.0,2021-2022,5b3cfa12,Paris-Saint-Germain,2,0.0,0.0,0.0,88.0,1.0,
-,Denis Franchi,it ITA,GK,0,0,,,2021-2022,b362e6,Paris-Saint-Germain,,,,,88.0,9.0,
-,Layvin Kurzawa,fr FRA,DF,0,0,,,2021-2022,41e7ef1c,Paris-Saint-Germain,,,,,88.0,4.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Mauricio Pochettino,ar ARG,DF,35,35,0.0,2.0,2002-2003,/en/players/92c5faee/Mauricio-Pochettino,92c5faee,Paris-Saint-Germain,"3,085",34.3,7.0,1.0,88,5.0,3018.0,Paris-Saint-Germain
+,Gabriel Heinze,ar ARG,DF,35,34,2.0,2.0,2002-2003,/en/players/54629cf9/Gabriel-Heinze,54629cf9,Paris-Saint-Germain,"3,104",34.5,9.0,0.0,88,5.0,63.0,Paris-Saint-Germain
+,Jérôme Leroy,fr FRA,MF,33,33,1.0,5.0,2002-2003,/en/players/a6607cb6/Jerome-Leroy,6607cb6,Paris-Saint-Germain,"2,817",31.3,11.0,1.0,88,4.0,11824.0,Paris-Saint-Germain
+,Cristóbal Parralo,es ESP,DF,31,31,1.0,0.0,2002-2003,/en/players/814fda14/Cristobal-Parralo,814fda14,Paris-Saint-Germain,"2,713",30.1,5.0,1.0,88,1.0,12758.0,Paris-Saint-Germain
+,Frédéric Déhu,fr FRA,"DF,MF",31,31,2.0,1.0,2002-2003,/en/players/e972aae6/Frederic-Dehu,972aae6,Paris-Saint-Germain,"2,692",29.9,6.0,1.0,88,4.0,11534.0,Paris-Saint-Germain
+,Fabrice Fiorèse,fr FRA,"FW,MF",32,29,4.0,3.0,2002-2003,/en/players/41585f65/Fabrice-Fiorese,41585f65,Paris-Saint-Germain,"2,524",28.0,4.0,0.0,88,4.0,11535.0,Paris-Saint-Germain
+,Lionel Letizi,fr FRA,GK,26,26,0.0,0.0,2002-2003,/en/players/6b7bf7e0/Lionel-Letizi,6b7bf7e0,Paris-Saint-Germain,"2,340",26.0,1.0,0.0,88,4.0,12653.0,Paris-Saint-Germain
+,Lionel Potillon,fr FRA,DF,26,24,1.0,0.0,2002-2003,/en/players/be54ffd6/Lionel-Potillon,be54ffd6,Paris-Saint-Germain,"2,030",22.6,4.0,0.0,88,4.0,213.0,Paris-Saint-Germain
+,Ronaldinho,br BRA,"FW,MF",27,20,7.0,8.0,2002-2003,/en/players/34edcab0/Ronaldinho,34edcab0,Paris-Saint-Germain,"1,926",21.4,3.0,1.0,88,2.0,1075.0,Paris-Saint-Germain
+,Aloísio,br BRA,FW,24,19,1.0,8.0,2002-2003,/en/players/9a3cc558/Aloisio,9a3cc558,Paris-Saint-Germain,"1,497",16.6,7.0,1.0,88,2.0,12759.0,Paris-Saint-Germain
+,Paulo César,br BRA,"DF,MF",22,16,1.0,4.0,2002-2003,/en/players/64ba29d0/Paulo-Cesar,64ba29d0,Paris-Saint-Germain,"1,495",16.6,3.0,1.0,88,2.0,12760.0,Paris-Saint-Germain
+,Alex Nyarko,gh GHA,MF,17,16,1.0,0.0,2002-2003,/en/players/52343df1/Alex-Nyarko,52343df1,Paris-Saint-Germain,"1,294",14.4,5.0,2.0,88,17.0,6637.0,Paris-Saint-Germain
+,André Luiz Moreira,br BRA,"DF,MF",17,15,3.0,1.0,2002-2003,/en/players/b6a77d10/Andre-Luiz-Moreira,b6a77d10,Paris-Saint-Germain,"1,182",13.1,5.0,1.0,88,2.0,12761.0,Paris-Saint-Germain
+,Martín Cardetti,ar ARG,FW,21,14,0.0,7.0,2002-2003,/en/players/e4fc03ad/Martin-Cardetti,4fc03ad,Paris-Saint-Germain,"1,230",13.7,0.0,0.0,88,5.0,2529.0,Paris-Saint-Germain
+,Jérôme Alonzo,fr FRA,GK,12,12,0.0,0.0,2002-2003,/en/players/7865d245/Jerome-Alonzo,7865d245,Paris-Saint-Germain,"1,080",12.0,1.0,0.0,88,4.0,12506.0,Paris-Saint-Germain
+,Stéphane Pédron,fr FRA,MF,13,11,0.0,2.0,2002-2003,/en/players/2323b688/Stephane-Pedron,2323b688,Paris-Saint-Germain,995,11.1,1.0,0.0,88,4.0,12295.0,Paris-Saint-Germain
+,Hugo Leal,pt POR,MF,18,10,1.0,0.0,2002-2003,/en/players/ee68bdcc/Hugo-Leal,68bdcc,Paris-Saint-Germain,997,11.1,3.0,1.0,88,3.0,12762.0,Paris-Saint-Germain
+,Talal El Karkouri,ma MAR,"DF,MF",13,8,0.0,1.0,2002-2003,/en/players/a6292419/Talal-El-Karkouri,6292419,Paris-Saint-Germain,812,9.0,2.0,0.0,88,26.0,7360.0,Paris-Saint-Germain
+,Bartholomew Ogbeche,ng NGA,FW,17,8,0.0,1.0,2002-2003,/en/players/616cc0f7/Bartholomew-Ogbeche,616cc0f7,Paris-Saint-Germain,776,8.6,3.0,1.0,88,52.0,2555.0,Paris-Saint-Germain
+,Didier Domi,fr FRA,DF,9,6,1.0,0.0,2002-2003,/en/players/91736476/Didier-Domi,91736476,Paris-Saint-Germain,516,5.7,4.0,0.0,88,4.0,3029.0,Paris-Saint-Germain
+,Alioune Touré,fr FRA,"FW,MF",16,4,0.0,1.0,2002-2003,/en/players/ec2dc195/Alioune-Toure,c2dc195,Paris-Saint-Germain,492,5.5,0.0,0.0,88,4.0,12763.0,Paris-Saint-Germain
+,Francis Llacer,fr FRA,DF,13,3,0.0,0.0,2002-2003,/en/players/bc840273/Francis-Llacer,bc840273,Paris-Saint-Germain,411,4.6,1.0,1.0,88,4.0,12764.0,Paris-Saint-Germain
+,Selim Benachour,tn TUN,MF,9,3,,0.0,2002-2003,/en/players/6d9a4c2f/Selim-Benachour,6d9a4c2f,Paris-Saint-Germain,333,3.7,0.0,0.0,88,46.0,2356.0,Paris-Saint-Germain
+,Lorik Cana,al ALB,"DF,MF",3,3,1.0,0.0,2002-2003,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Paris-Saint-Germain,270,3.0,1.0,0.0,88,78.0,8702.0,Paris-Saint-Germain
+,Filipe Teixeira,pt POR,MF,8,3,0.0,0.0,2002-2003,/en/players/afda7d82/Filipe-Teixeira,fda7d82,Paris-Saint-Germain,260,2.9,1.0,0.0,88,3.0,8578.0,Paris-Saint-Germain
+,Romain Rocchi,fr FRA,MF,6,2,0.0,0.0,2002-2003,/en/players/62f07cc1/Romain-Rocchi,62f07cc1,Paris-Saint-Germain,249,2.8,2.0,0.0,88,4.0,12765.0,Paris-Saint-Germain
+,Laurent Leroy,fr FRA,FW,7,1,0.0,0.0,2002-2003,/en/players/a6db43e0/Laurent-Leroy,6db43e0,Paris-Saint-Germain,181,2.0,0.0,0.0,88,4.0,11682.0,Paris-Saint-Germain
+,Chiguy Lucau,cd COD,FW,3,1,0.0,0.0,2002-2003,/en/players/f4dc7aa8/Chiguy-Lucau,f4dc7aa8,Paris-Saint-Germain,78,0.9,0.0,0.0,88,50.0,12766.0,Paris-Saint-Germain
+,﻿Frédéric Déhu,fr FRA,"DF,MF",36,36,1.0,1.0,2003-2004,/en/players/e972aae6/Frederic-Dehu,972aae6,Paris-Saint-Germain,"3,159",35.1,6.0,0.0,88,4.0,11534.0,Paris-Saint-Germain
+,Pauleta,pt POR,FW,36,35,3.0,18.0,2003-2004,/en/players/a484e13e/Pauleta,484e13e,Paris-Saint-Germain,"3,085",34.3,3.0,0.0,88,3.0,11652.0,Paris-Saint-Germain
+,Jérôme Alonzo,fr FRA,GK,34,34,0.0,0.0,2003-2004,/en/players/7865d245/Jerome-Alonzo,7865d245,Paris-Saint-Germain,"2,981",33.1,1.0,1.0,88,4.0,12506.0,Paris-Saint-Germain
+,Fabrice Fiorèse,fr FRA,"FW,MF",34,34,11.0,6.0,2003-2004,/en/players/41585f65/Fabrice-Fiorese,41585f65,Paris-Saint-Germain,"2,956",32.8,7.0,0.0,88,4.0,11535.0,Paris-Saint-Germain
+,Gabriel Heinze,ar ARG,DF,33,33,2.0,2.0,2003-2004,/en/players/54629cf9/Gabriel-Heinze,54629cf9,Paris-Saint-Germain,"2,970",33.0,6.0,0.0,88,5.0,63.0,Paris-Saint-Germain
+,José-Karl Pierre-Fanfan,mq MTQ,DF,34,33,0.0,1.0,2003-2004,/en/players/f6cfc003/Jose-Karl-Pierre-Fanfan,f6cfc003,Paris-Saint-Germain,"2,946",32.7,6.0,0.0,88,104.0,11329.0,Paris-Saint-Germain
+,Bernard Mendy,fr FRA,"DF,FW",33,31,2.0,0.0,2003-2004,/en/players/ea52a7a5/Bernard-Mendy,52a7a5,Paris-Saint-Germain,"2,763",30.7,12.0,0.0,88,4.0,8226.0,Paris-Saint-Germain
+,Modeste M'bami,cm CMR,MF,30,30,1.0,1.0,2003-2004,/en/players/82ec2963/Modeste-Mbami,82ec2963,Paris-Saint-Germain,"2,652",29.5,6.0,1.0,88,36.0,4608.0,Paris-Saint-Germain
+,Lorik Cana,al ALB,"DF,MF",32,30,0.0,1.0,2003-2004,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Paris-Saint-Germain,"2,597",28.9,11.0,2.0,88,78.0,8702.0,Paris-Saint-Germain
+,Juan Pablo Sorín,ar ARG,"DF,MF",21,21,0.0,1.0,2003-2004,/en/players/239e2070/Juan-Pablo-Sorin,239e2070,Paris-Saint-Germain,"1,791",19.9,3.0,0.0,88,5.0,1062.0,Paris-Saint-Germain
+,Talal El Karkouri,ma MAR,"DF,MF",26,17,0.0,0.0,2003-2004,/en/players/a6292419/Talal-El-Karkouri,6292419,Paris-Saint-Germain,"1,572",17.5,1.0,0.0,88,26.0,7360.0,Paris-Saint-Germain
+,Branko Bošković,me MNE,MF,24,15,4.0,3.0,2003-2004,/en/players/4682d68d/Branko-Boskovic,4682d68d,Paris-Saint-Germain,"1,312",14.6,2.0,1.0,88,33.0,12767.0,Paris-Saint-Germain
+,Reinaldo,br BRA,FW,31,14,3.0,7.0,2003-2004,/en/players/f2937fb8/Reinaldo,f2937fb8,Paris-Saint-Germain,"1,250",13.9,4.0,0.0,88,2.0,12768.0,Paris-Saint-Germain
+,Danijel Ljuboja,rs SRB,FW,17,14,,5.0,2003-2004,/en/players/6352ab30/Danijel-Ljuboja,6352ab30,Paris-Saint-Germain,"1,152",12.8,2.0,0.0,88,28.0,12357.0,Paris-Saint-Germain
+,Hugo Leal,pt POR,MF,14,9,0.0,0.0,2003-2004,/en/players/ee68bdcc/Hugo-Leal,68bdcc,Paris-Saint-Germain,907,10.1,2.0,0.0,88,3.0,12762.0,Paris-Saint-Germain
+,Éric Cubilier,fr FRA,DF,15,7,1.0,0.0,2003-2004,/en/players/1bc08c91/Eric-Cubilier,1bc08c91,Paris-Saint-Germain,649,7.2,3.0,0.0,88,4.0,11324.0,Paris-Saint-Germain
+,Lionel Letizi,fr FRA,GK,6,4,0.0,0.0,2003-2004,/en/players/6b7bf7e0/Lionel-Letizi,6b7bf7e0,Paris-Saint-Germain,439,4.9,0.0,0.0,88,4.0,12653.0,Paris-Saint-Germain
+,Bartholomew Ogbeche,ng NGA,FW,13,4,,0.0,2003-2004,/en/players/616cc0f7/Bartholomew-Ogbeche,616cc0f7,Paris-Saint-Germain,427,4.7,3.0,0.0,88,52.0,2555.0,Paris-Saint-Germain
+,Selim Benachour,tn TUN,MF,9,4,1.0,0.0,2003-2004,/en/players/6d9a4c2f/Selim-Benachour,6d9a4c2f,Paris-Saint-Germain,368,4.1,2.0,0.0,88,46.0,2356.0,Paris-Saint-Germain
+,Jérôme Leroy,fr FRA,MF,4,4,,1.0,2003-2004,/en/players/a6607cb6/Jerome-Leroy,6607cb6,Paris-Saint-Germain,297,3.3,0.0,0.0,88,4.0,11824.0,Paris-Saint-Germain
+,Romain Rocchi,fr FRA,MF,18,3,0.0,0.0,2003-2004,/en/players/62f07cc1/Romain-Rocchi,62f07cc1,Paris-Saint-Germain,456,5.1,1.0,0.0,88,4.0,12765.0,Paris-Saint-Germain
+,Paulo César,br BRA,"DF,MF",9,3,1.0,0.0,2003-2004,/en/players/64ba29d0/Paulo-Cesar,64ba29d0,Paris-Saint-Germain,317,3.5,0.0,0.0,88,2.0,12760.0,Paris-Saint-Germain
+,Lionel Potillon,fr FRA,DF,2,2,0.0,0.0,2003-2004,/en/players/be54ffd6/Lionel-Potillon,be54ffd6,Paris-Saint-Germain,180,2.0,0.0,0.0,88,4.0,213.0,Paris-Saint-Germain
+,Kaba Diawara,gn GUI,FW,3,1,0.0,0.0,2003-2004,/en/players/7bafc1d6/Kaba-Diawara,7bafc1d6,Paris-Saint-Germain,88,1.0,0.0,0.0,88,74.0,12618.0,Paris-Saint-Germain
+,Alioune Touré,fr FRA,"FW,MF",9,0,0.0,0.0,2003-2004,/en/players/ec2dc195/Alioune-Toure,c2dc195,Paris-Saint-Germain,76,0.8,0.0,0.0,88,4.0,12763.0,Paris-Saint-Germain
+,Franck Dja Djédjé,ci CIV,"FW,MF",2,0,0.0,0.0,2003-2004,/en/players/59feef54/Franck-Dja-Djedje,59feef54,Paris-Saint-Germain,19,0.2,1.0,0.0,88,35.0,12672.0,Paris-Saint-Germain
+,﻿Sylvain Armand,fr FRA,DF,37,37,3.0,1.0,2004-2005,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"3,260",36.2,3.0,1.0,88,4.0,12461.0,Paris-Saint-Germain
+,José-Karl Pierre-Fanfan,mq MTQ,DF,33,33,0.0,1.0,2004-2005,/en/players/f6cfc003/Jose-Karl-Pierre-Fanfan,f6cfc003,Paris-Saint-Germain,"2,970",33.0,7.0,0.0,88,104.0,11329.0,Paris-Saint-Germain
+,Lionel Letizi,fr FRA,GK,33,33,0.0,0.0,2004-2005,/en/players/6b7bf7e0/Lionel-Letizi,6b7bf7e0,Paris-Saint-Germain,"2,936",32.6,1.0,0.0,88,4.0,12653.0,Paris-Saint-Germain
+,Mario Yepes,co COL,DF,32,32,0.0,3.0,2004-2005,/en/players/a7562b55/Mario-Yepes,7562b55,Paris-Saint-Germain,"2,812",31.2,7.0,2.0,88,19.0,12460.0,Paris-Saint-Germain
+,Pauleta,pt POR,FW,34,30,1.0,14.0,2004-2005,/en/players/a484e13e/Pauleta,484e13e,Paris-Saint-Germain,"2,666",29.6,7.0,0.0,88,3.0,11652.0,Paris-Saint-Germain
+,Lorik Cana,al ALB,"DF,MF",32,30,2.0,1.0,2004-2005,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Paris-Saint-Germain,"2,651",29.5,9.0,1.0,88,78.0,8702.0,Paris-Saint-Germain
+,Bernard Mendy,fr FRA,"DF,FW",29,26,0.0,0.0,2004-2005,/en/players/ea52a7a5/Bernard-Mendy,52a7a5,Paris-Saint-Germain,"2,276",25.3,9.0,1.0,88,4.0,8226.0,Paris-Saint-Germain
+,Édouard Cissé,fr FRA,MF,30,25,1.0,1.0,2004-2005,/en/players/4fe329a7/Edouard-Cisse,4fe329a7,Paris-Saint-Germain,"2,315",25.7,6.0,1.0,88,4.0,8417.0,Paris-Saint-Germain
+,Reinaldo,br BRA,FW,32,25,4.0,3.0,2004-2005,/en/players/f2937fb8/Reinaldo,f2937fb8,Paris-Saint-Germain,"2,194",24.4,4.0,0.0,88,2.0,12768.0,Paris-Saint-Germain
+,Stéphane Pichot,fr FRA,DF,25,23,0.0,0.0,2004-2005,/en/players/37dd8343/Stephane-Pichot,37dd8343,Paris-Saint-Germain,"1,969",21.9,4.0,0.0,88,4.0,11831.0,Paris-Saint-Germain
+,Fabrice Pancrate,fr FRA,"FW,MF",29,17,2.0,5.0,2004-2005,/en/players/70d29079/Fabrice-Pancrate,70d29079,Paris-Saint-Germain,"1,646",18.3,1.0,0.0,88,4.0,1398.0,Paris-Saint-Germain
+,Modeste M'bami,cm CMR,MF,19,17,1.0,0.0,2004-2005,/en/players/82ec2963/Modeste-Mbami,82ec2963,Paris-Saint-Germain,"1,538",17.1,4.0,0.0,88,36.0,4608.0,Paris-Saint-Germain
+,Jérôme Rothen,fr FRA,MF,17,17,6.0,1.0,2004-2005,/en/players/5ad9d2bc/Jerome-Rothen,5ad9d2bc,Paris-Saint-Germain,"1,452",16.1,2.0,0.0,88,4.0,11318.0,Paris-Saint-Germain
+,Charles-Édouard Coridon,mq MTQ,MF,18,14,2.0,0.0,2004-2005,/en/players/35e0ff7a/Charles-Edouard-Coridon,35e0ff7a,Paris-Saint-Germain,"1,185",13.2,1.0,0.0,88,104.0,12291.0,Paris-Saint-Germain
+,Danijel Ljuboja,rs SRB,FW,25,12,3.0,2.0,2004-2005,/en/players/6352ab30/Danijel-Ljuboja,6352ab30,Paris-Saint-Germain,"1,205",13.4,2.0,0.0,88,28.0,12357.0,Paris-Saint-Germain
+,Hélder,pt POR,DF,15,11,0.0,1.0,2004-2005,/en/players/18231c7e/Helder,18231c7e,Paris-Saint-Germain,934,10.4,4.0,0.0,88,3.0,12769.0,Paris-Saint-Germain
+,Sergei Semak,ru RUS,MF,13,9,0.0,1.0,2004-2005,/en/players/f11b6821/Sergei-Semak,f11b6821,Paris-Saint-Germain,774,8.6,1.0,0.0,88,23.0,12770.0,Paris-Saint-Germain
+,Jérôme Alonzo,fr FRA,GK,6,5,0.0,0.0,2004-2005,/en/players/7865d245/Jerome-Alonzo,7865d245,Paris-Saint-Germain,484,5.4,0.0,0.0,88,4.0,12506.0,Paris-Saint-Germain
+,Branko Bošković,me MNE,MF,12,5,0.0,0.0,2004-2005,/en/players/4682d68d/Branko-Boskovic,4682d68d,Paris-Saint-Germain,336,3.7,0.0,0.0,88,33.0,12767.0,Paris-Saint-Germain
+,Jean-Hugues Ateba,cm CMR,"DF,MF",8,4,0.0,0.0,2004-2005,/en/players/92422d30/Jean-Hugues-Ateba,92422d30,Paris-Saint-Germain,348,3.9,1.0,0.0,88,36.0,12470.0,Paris-Saint-Germain
+,Jean-Michel Badiane,fr FRA,DF,7,3,0.0,0.0,2004-2005,/en/players/074c3084/Jean-Michel-Badiane,074c3084,Paris-Saint-Germain,260,2.9,2.0,0.0,88,4.0,12771.0,Paris-Saint-Germain
+,Vedad Ibišević,ba BIH,FW,5,2,0.0,0.0,2004-2005,/en/players/c3fd9887/Vedad-Ibisevic,c3fd9887,Paris-Saint-Germain,204,2.3,0.0,1.0,88,49.0,12772.0,Paris-Saint-Germain
+,Selim Benachour,tn TUN,MF,9,1,1.0,1.0,2004-2005,/en/players/6d9a4c2f/Selim-Benachour,6d9a4c2f,Paris-Saint-Germain,243,2.7,1.0,0.0,88,46.0,2356.0,Paris-Saint-Germain
+,Bartholomew Ogbeche,ng NGA,FW,5,1,0.0,1.0,2004-2005,/en/players/616cc0f7/Bartholomew-Ogbeche,616cc0f7,Paris-Saint-Germain,176,2.0,2.0,0.0,88,52.0,2555.0,Paris-Saint-Germain
+,Filipe Teixeira,pt POR,MF,10,1,1.0,0.0,2004-2005,/en/players/afda7d82/Filipe-Teixeira,fda7d82,Paris-Saint-Germain,125,1.4,0.0,0.0,88,3.0,8578.0,Paris-Saint-Germain
+,Rudy Haddad,fr FRA,MF,4,0,0.0,0.0,2004-2005,/en/players/328b6607/Rudy-Haddad,328b6607,Paris-Saint-Germain,22,0.2,0.0,0.0,88,4.0,12024.0,Paris-Saint-Germain
+,Sol Bamba,ci CIV,DF,1,0,,0.0,2004-2005,/en/players/5534217d/Sol-Bamba,5534217d,Paris-Saint-Germain,2,0.0,0.0,0.0,88,35.0,7320.0,Paris-Saint-Germain
+,﻿David Rozehnal,cz CZE,DF,38,38,1.0,0.0,2005-2006,/en/players/f97753b7/David-Rozehnal,f97753b7,Paris-Saint-Germain,"3,401",37.8,6.0,0.0,88,84.0,6020.0,Paris-Saint-Germain
+,Pauleta,pt POR,FW,36,35,3.0,21.0,2005-2006,/en/players/a484e13e/Pauleta,484e13e,Paris-Saint-Germain,"3,047",33.9,6.0,0.0,88,3.0,11652.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,35,34,1.0,0.0,2005-2006,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"3,098",34.4,7.0,2.0,88,4.0,12461.0,Paris-Saint-Germain
+,Bernard Mendy,fr FRA,"DF,FW",36,33,4.0,0.0,2005-2006,/en/players/ea52a7a5/Bernard-Mendy,52a7a5,Paris-Saint-Germain,"2,902",32.2,7.0,0.0,88,4.0,8226.0,Paris-Saint-Germain
+,Mario Yepes,co COL,DF,32,32,0.0,4.0,2005-2006,/en/players/a7562b55/Mario-Yepes,7562b55,Paris-Saint-Germain,"2,834",31.5,6.0,1.0,88,19.0,12460.0,Paris-Saint-Germain
+,Modeste M'bami,cm CMR,MF,34,31,0.0,0.0,2005-2006,/en/players/82ec2963/Modeste-Mbami,82ec2963,Paris-Saint-Germain,"2,846",31.6,10.0,0.0,88,36.0,4608.0,Paris-Saint-Germain
+,Vikash Dhorasoo,fr FRA,MF,34,31,5.0,0.0,2005-2006,/en/players/8c803b45/Vikash-Dhorasoo,8c803b45,Paris-Saint-Germain,"2,598",28.9,5.0,0.0,88,4.0,11200.0,Paris-Saint-Germain
+,Édouard Cissé,fr FRA,MF,31,29,1.0,2.0,2005-2006,/en/players/4fe329a7/Edouard-Cisse,4fe329a7,Paris-Saint-Germain,"2,406",26.7,7.0,2.0,88,4.0,8417.0,Paris-Saint-Germain
+,Jérôme Rothen,fr FRA,MF,28,27,8.0,1.0,2005-2006,/en/players/5ad9d2bc/Jerome-Rothen,5ad9d2bc,Paris-Saint-Germain,"2,145",23.8,5.0,0.0,88,4.0,11318.0,Paris-Saint-Germain
+,Lionel Letizi,fr FRA,GK,27,26,0.0,0.0,2005-2006,/en/players/6b7bf7e0/Lionel-Letizi,6b7bf7e0,Paris-Saint-Germain,"2,340",26.0,2.0,0.0,88,4.0,12653.0,Paris-Saint-Germain
+,Bonaventure Kalou,ci CIV,"FW,MF",28,24,4.0,9.0,2005-2006,/en/players/30eeb24a/Bonaventure-Kalou,30eeb24a,Paris-Saint-Germain,"2,162",24.0,9.0,0.0,88,35.0,11983.0,Paris-Saint-Germain
+,Christophe Landrin,fr FRA,MF,26,18,3.0,2.0,2005-2006,/en/players/06fdad54/Christophe-Landrin,06fdad54,Paris-Saint-Germain,"1,588",17.6,2.0,0.0,88,4.0,12773.0,Paris-Saint-Germain
+,Stéphane Pichot,fr FRA,DF,21,13,0.0,0.0,2005-2006,/en/players/37dd8343/Stephane-Pichot,37dd8343,Paris-Saint-Germain,"1,236",13.7,2.0,0.0,88,4.0,11831.0,Paris-Saint-Germain
+,Jérôme Alonzo,fr FRA,GK,13,12,0.0,0.0,2005-2006,/en/players/7865d245/Jerome-Alonzo,7865d245,Paris-Saint-Germain,"1,080",12.0,0.0,0.0,88,4.0,12506.0,Paris-Saint-Germain
+,Fabrice Pancrate,fr FRA,"FW,MF",29,10,0.0,3.0,2005-2006,/en/players/70d29079/Fabrice-Pancrate,70d29079,Paris-Saint-Germain,"1,180",13.1,1.0,0.0,88,4.0,1398.0,Paris-Saint-Germain
+,Paulo César,br BRA,"DF,MF",9,7,0.0,1.0,2005-2006,/en/players/64ba29d0/Paulo-Cesar,64ba29d0,Paris-Saint-Germain,688,7.6,0.0,0.0,88,2.0,12760.0,Paris-Saint-Germain
+,Sergei Semak,ru RUS,MF,13,4,0.0,0.0,2005-2006,/en/players/f11b6821/Sergei-Semak,f11b6821,Paris-Saint-Germain,511,5.7,2.0,0.0,88,23.0,12770.0,Paris-Saint-Germain
+,Cristian Rodríguez,uy URU,MF,11,4,0.0,0.0,2005-2006,/en/players/dcd67568/Cristian-Rodriguez,dcd67568,Paris-Saint-Germain,420,4.7,3.0,0.0,88,8.0,2199.0,Paris-Saint-Germain
+,Carlos Bueno,uy URU,FW,12,3,0.0,0.0,2005-2006,/en/players/2f57aca3/Carlos-Bueno,2f57aca3,Paris-Saint-Germain,318,3.5,2.0,0.0,88,8.0,275.0,Paris-Saint-Germain
+,Jean-Michel Badiane,fr FRA,DF,3,2,0.0,0.0,2005-2006,/en/players/074c3084/Jean-Michel-Badiane,074c3084,Paris-Saint-Germain,199,2.2,1.0,0.0,88,4.0,12771.0,Paris-Saint-Germain
+,Jean-Hugues Ateba,cm CMR,"DF,MF",2,2,0.0,0.0,2005-2006,/en/players/92422d30/Jean-Hugues-Ateba,92422d30,Paris-Saint-Germain,156,1.7,0.0,0.0,88,36.0,12470.0,Paris-Saint-Germain
+,Rudy Haddad,fr FRA,MF,5,2,0.0,0.0,2005-2006,/en/players/328b6607/Rudy-Haddad,328b6607,Paris-Saint-Germain,149,1.7,0.0,0.0,88,4.0,12024.0,Paris-Saint-Germain
+,Boukary Dramé,sn SEN,"DF,MF",4,1,0.0,0.0,2005-2006,/en/players/a5cd894b/Boukary-Drame,5cd894b,Paris-Saint-Germain,126,1.4,0.0,0.0,88,34.0,269.0,Paris-Saint-Germain
+,Hocine Ragued,tn TUN,MF,1,1,,0.0,2005-2006,/en/players/e1920376/Hocine-Ragued,1920376,Paris-Saint-Germain,60,0.7,0.0,0.0,88,46.0,12774.0,Paris-Saint-Germain
+,Franck Dja Djédjé,ci CIV,"FW,MF",2,0,0.0,0.0,2005-2006,/en/players/59feef54/Franck-Dja-Djedje,59feef54,Paris-Saint-Germain,42,0.5,0.0,0.0,88,35.0,12672.0,Paris-Saint-Germain
+,﻿Mickaël Landreau,fr FRA,GK,38,38,0.0,0.0,2006-2007,/en/players/12bf5523/Mickael-Landreau,12bf5523,Paris-Saint-Germain,"3,420",38.0,0.0,0.0,88,4.0,12459.0,Paris-Saint-Germain
+,David Rozehnal,cz CZE,DF,37,37,0.0,1.0,2006-2007,/en/players/f97753b7/David-Rozehnal,f97753b7,Paris-Saint-Germain,"3,330",37.0,4.0,0.0,88,84.0,6020.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,37,37,0.0,2.0,2006-2007,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"3,324",36.9,5.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Édouard Cissé,fr FRA,MF,34,32,0.0,2.0,2006-2007,/en/players/4fe329a7/Edouard-Cisse,4fe329a7,Paris-Saint-Germain,"2,827",31.4,9.0,0.0,88,4.0,8417.0,Paris-Saint-Germain
+,Pauleta,pt POR,FW,33,30,3.0,15.0,2006-2007,/en/players/a484e13e/Pauleta,484e13e,Paris-Saint-Germain,"2,597",28.9,5.0,1.0,88,3.0,11652.0,Paris-Saint-Germain
+,Bernard Mendy,fr FRA,"DF,FW",28,27,2.0,0.0,2006-2007,/en/players/ea52a7a5/Bernard-Mendy,52a7a5,Paris-Saint-Germain,"2,469",27.4,5.0,1.0,88,4.0,8226.0,Paris-Saint-Germain
+,Jérôme Rothen,fr FRA,MF,27,26,6.0,2.0,2006-2007,/en/players/5ad9d2bc/Jerome-Rothen,5ad9d2bc,Paris-Saint-Germain,"2,276",25.3,4.0,0.0,88,4.0,11318.0,Paris-Saint-Germain
+,Mario Yepes,co COL,DF,24,21,0.0,1.0,2006-2007,/en/players/a7562b55/Mario-Yepes,7562b55,Paris-Saint-Germain,"1,855",20.6,2.0,0.0,88,19.0,12460.0,Paris-Saint-Germain
+,Pierre-Alain Frau,fr FRA,"FW,MF",25,21,1.0,3.0,2006-2007,/en/players/76618c1e/Pierre-Alain-Frau,76618c1e,Paris-Saint-Germain,"1,627",18.1,2.0,1.0,88,4.0,11224.0,Paris-Saint-Germain
+,Bonaventure Kalou,ci CIV,"FW,MF",27,20,3.0,2.0,2006-2007,/en/players/30eeb24a/Bonaventure-Kalou,30eeb24a,Paris-Saint-Germain,"1,863",20.7,5.0,0.0,88,35.0,11983.0,Paris-Saint-Germain
+,Amara Diané,ci CIV,FW,33,17,2.0,5.0,2006-2007,/en/players/773f26c2/Amara-Diane,773f26c2,Paris-Saint-Germain,"1,585",17.6,4.0,0.0,88,35.0,12775.0,Paris-Saint-Germain
+,Sammy Traoré,ml MLI,DF,22,16,0.0,0.0,2006-2007,/en/players/6f04b42e/Sammy-Traore,6f04b42e,Paris-Saint-Germain,"1,503",16.7,5.0,0.0,88,12.0,12001.0,Paris-Saint-Germain
+,Boukary Dramé,sn SEN,"DF,MF",20,16,2.0,0.0,2006-2007,/en/players/a5cd894b/Boukary-Drame,5cd894b,Paris-Saint-Germain,"1,379",15.3,3.0,0.0,88,34.0,269.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,20,14,0.0,0.0,2006-2007,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,"1,251",13.9,4.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Péguy Luyindula,fr FRA,"FW,MF",14,12,2.0,3.0,2006-2007,/en/players/cedc0a16/Peguy-Luyindula,cedc0a16,Paris-Saint-Germain,"1,031",11.5,2.0,1.0,88,4.0,4130.0,Paris-Saint-Germain
+,Youssouf Mulumbu,cd COD,MF,12,11,0.0,0.0,2006-2007,/en/players/a275b145/Youssouf-Mulumbu,275b145,Paris-Saint-Germain,899,10.0,3.0,0.0,88,50.0,8594.0,Paris-Saint-Germain
+,Jérémy Clément,fr FRA,MF,9,9,1.0,0.0,2006-2007,/en/players/06cb3efe/Jeremy-Clement,06cb3efe,Paris-Saint-Germain,779,8.7,1.0,0.0,88,4.0,11222.0,Paris-Saint-Germain
+,David Hellebuyck,fr FRA,MF,12,9,0.0,1.0,2006-2007,/en/players/370ae664/David-Hellebuyck,370ae664,Paris-Saint-Germain,658,7.3,0.0,0.0,88,4.0,12655.0,Paris-Saint-Germain
+,Marcelo Gallardo,ar ARG,MF,13,7,1.0,2.0,2006-2007,/en/players/483e1b7a/Marcelo-Gallardo,483e1b7a,Paris-Saint-Germain,721,8.0,3.0,0.0,88,5.0,11325.0,Paris-Saint-Germain
+,Cristian Rodríguez,uy URU,MF,25,5,1.0,1.0,2006-2007,/en/players/dcd67568/Cristian-Rodriguez,dcd67568,Paris-Saint-Germain,732,8.1,2.0,0.0,88,8.0,2199.0,Paris-Saint-Germain
+,Fabrice Pancrate,fr FRA,"FW,MF",15,5,1.0,1.0,2006-2007,/en/players/70d29079/Fabrice-Pancrate,70d29079,Paris-Saint-Germain,624,6.9,1.0,0.0,88,4.0,1398.0,Paris-Saint-Germain
+,Vikash Dhorasoo,fr FRA,MF,3,3,0.0,0.0,2006-2007,/en/players/8c803b45/Vikash-Dhorasoo,8c803b45,Paris-Saint-Germain,238,2.6,0.0,0.0,88,4.0,11200.0,Paris-Saint-Germain
+,Albert Baning,cm CMR,MF,1,1,0.0,0.0,2006-2007,/en/players/b54fdacd/Albert-Baning,b54fdacd,Paris-Saint-Germain,82,0.9,0.0,0.0,88,36.0,12776.0,Paris-Saint-Germain
+,David N'Gog,fr FRA,FW,4,0,0.0,0.0,2006-2007,/en/players/beec2968/David-NGog,beec2968,Paris-Saint-Germain,64,0.7,0.0,0.0,88,4.0,6301.0,Paris-Saint-Germain
+,﻿Zoumana Camara,fr FRA,DF,38,38,0.0,1.0,2007-2008,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,"3,420",38.0,3.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Mickaël Landreau,fr FRA,GK,38,38,0.0,0.0,2007-2008,/en/players/12bf5523/Mickael-Landreau,12bf5523,Paris-Saint-Germain,"3,420",38.0,0.0,0.0,88,4.0,12459.0,Paris-Saint-Germain
+,Jérémy Clément,fr FRA,MF,38,38,0.0,1.0,2007-2008,/en/players/06cb3efe/Jeremy-Clement,06cb3efe,Paris-Saint-Germain,"3,342",37.1,6.0,0.0,88,4.0,11222.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,35,35,2.0,2.0,2007-2008,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"3,123",34.7,6.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Jérôme Rothen,fr FRA,MF,32,32,7.0,3.0,2007-2008,/en/players/5ad9d2bc/Jerome-Rothen,5ad9d2bc,Paris-Saint-Germain,"2,743",30.5,7.0,0.0,88,4.0,11318.0,Paris-Saint-Germain
+,Ceará,br BRA,DF,30,28,2.0,1.0,2007-2008,/en/players/e1d326d9/Ceara,1d326d9,Paris-Saint-Germain,"2,514",27.9,2.0,0.0,88,2.0,12777.0,Paris-Saint-Germain
+,Amara Diané,ci CIV,FW,38,25,1.0,11.0,2007-2008,/en/players/773f26c2/Amara-Diane,773f26c2,Paris-Saint-Germain,"2,511",27.9,3.0,0.0,88,35.0,12775.0,Paris-Saint-Germain
+,Mario Yepes,co COL,DF,27,25,0.0,0.0,2007-2008,/en/players/a7562b55/Mario-Yepes,7562b55,Paris-Saint-Germain,"2,218",24.6,5.0,0.0,88,19.0,12460.0,Paris-Saint-Germain
+,Péguy Luyindula,fr FRA,"FW,MF",31,24,1.0,5.0,2007-2008,/en/players/cedc0a16/Peguy-Luyindula,cedc0a16,Paris-Saint-Germain,"2,088",23.2,2.0,0.0,88,4.0,4130.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,28,21,1.0,0.0,2007-2008,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,"1,809",20.1,3.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Grégory Bourillon,fr FRA,"DF,MF",22,20,1.0,0.0,2007-2008,/en/players/0e59a941/Gregory-Bourillon,0e59a941,Paris-Saint-Germain,"1,758",19.5,2.0,0.0,88,4.0,12778.0,Paris-Saint-Germain
+,Pauleta,pt POR,FW,27,18,0.0,8.0,2007-2008,/en/players/a484e13e/Pauleta,484e13e,Paris-Saint-Germain,"1,739",19.3,8.0,0.0,88,3.0,11652.0,Paris-Saint-Germain
+,Bernard Mendy,fr FRA,"DF,FW",23,16,1.0,1.0,2007-2008,/en/players/ea52a7a5/Bernard-Mendy,52a7a5,Paris-Saint-Germain,"1,430",15.9,1.0,0.0,88,4.0,8226.0,Paris-Saint-Germain
+,Didier Digard,fr FRA,MF,16,13,0.0,0.0,2007-2008,/en/players/557f1466/Didier-Digard,557f1466,Paris-Saint-Germain,"1,056",11.7,1.0,0.0,88,4.0,1482.0,Paris-Saint-Germain
+,Loris Arnaud,fr FRA,"FW,MF",18,9,0.0,1.0,2007-2008,/en/players/bf127d46/Loris-Arnaud,bf127d46,Paris-Saint-Germain,782,8.7,0.0,0.0,88,4.0,12779.0,Paris-Saint-Germain
+,Mamadou Sakho,fr FRA,DF,12,8,0.0,0.0,2007-2008,/en/players/87935cf3/Mamadou-Sakho,87935cf3,Paris-Saint-Germain,742,8.2,1.0,0.0,88,4.0,6328.0,Paris-Saint-Germain
+,David N'Gog,fr FRA,FW,14,8,1.0,1.0,2007-2008,/en/players/beec2968/David-NGog,beec2968,Paris-Saint-Germain,656,7.3,0.0,0.0,88,4.0,6301.0,Paris-Saint-Germain
+,Pierre-Alain Frau,fr FRA,"FW,MF",11,7,1.0,1.0,2007-2008,/en/players/76618c1e/Pierre-Alain-Frau,76618c1e,Paris-Saint-Germain,657,7.3,1.0,0.0,88,4.0,11224.0,Paris-Saint-Germain
+,Souza,br BRA,"DF,MF",12,5,0.0,0.0,2007-2008,/en/players/c8c57200/Souza,c8c57200,Paris-Saint-Germain,528,5.9,1.0,0.0,88,2.0,12780.0,Paris-Saint-Germain
+,Granddi Ngoyi,cd COD,MF,7,5,0.0,0.0,2007-2008,/en/players/570b6a34/Granddi-Ngoyi,570b6a34,Paris-Saint-Germain,412,4.6,0.0,0.0,88,50.0,8042.0,Paris-Saint-Germain
+,Younousse Sankharé,sn SEN,MF,9,2,0.0,0.0,2007-2008,/en/players/c650629d/Younousse-Sankhare,c650629d,Paris-Saint-Germain,287,3.2,2.0,0.0,88,34.0,11732.0,Paris-Saint-Germain
+,Marcelo Gallardo,ar ARG,MF,9,1,0.0,0.0,2007-2008,/en/players/483e1b7a/Marcelo-Gallardo,483e1b7a,Paris-Saint-Germain,218,2.4,2.0,0.0,88,5.0,11325.0,Paris-Saint-Germain
+,Sammy Traoré,ml MLI,DF,1,1,0.0,0.0,2007-2008,/en/players/6f04b42e/Sammy-Traore,6f04b42e,Paris-Saint-Germain,80,0.9,1.0,0.0,88,12.0,12001.0,Paris-Saint-Germain
+,Youssouf Mulumbu,cd COD,MF,1,1,0.0,0.0,2007-2008,/en/players/a275b145/Youssouf-Mulumbu,275b145,Paris-Saint-Germain,45,0.5,0.0,0.0,88,50.0,8594.0,Paris-Saint-Germain
+,Larrys Mabiala,cd COD,DF,1,0,0.0,0.0,2007-2008,/en/players/5bdec47f/Larrys-Mabiala,5bdec47f,Paris-Saint-Germain,21,0.2,0.0,0.0,88,50.0,12665.0,Paris-Saint-Germain
+,Yannick Boli,ci CIV,FW,1,0,0.0,0.0,2007-2008,/en/players/9004db70/Yannick-Boli,9004db70,Paris-Saint-Germain,17,0.2,0.0,0.0,88,35.0,12781.0,Paris-Saint-Germain
+,Éverton Santos,br BRA,"FW,MF",1,0,0.0,0.0,2007-2008,/en/players/d64642d9/Everton-Santos,d64642d9,Paris-Saint-Germain,4,0.0,0.0,0.0,88,2.0,12782.0,Paris-Saint-Germain
+,﻿Mickaël Landreau,fr FRA,GK,38,38,0.0,0.0,2008-2009,/en/players/12bf5523/Mickael-Landreau,12bf5523,Paris-Saint-Germain,"3,420",38.0,1.0,0.0,88,4.0,12459.0,Paris-Saint-Germain
+,Ceará,br BRA,DF,37,37,2.0,0.0,2008-2009,/en/players/e1d326d9/Ceara,1d326d9,Paris-Saint-Germain,"3,317",36.9,4.0,0.0,88,2.0,12777.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,36,36,0.0,0.0,2008-2009,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,"3,203",35.6,3.0,1.0,88,4.0,7930.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,35,35,2.0,0.0,2008-2009,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"3,103",34.5,5.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Claude Makélélé,fr FRA,MF,34,34,0.0,0.0,2008-2009,/en/players/c27d01de/Claude-Makelele,c27d01de,Paris-Saint-Germain,"3,006",33.4,9.0,0.0,88,4.0,8.0,Paris-Saint-Germain
+,Jérôme Rothen,fr FRA,MF,34,34,6.0,3.0,2008-2009,/en/players/5ad9d2bc/Jerome-Rothen,5ad9d2bc,Paris-Saint-Germain,"2,943",32.7,3.0,0.0,88,4.0,11318.0,Paris-Saint-Germain
+,Stéphane Sessègnon,bj BEN,"FW,MF",34,34,7.0,5.0,2008-2009,/en/players/35c5f9b1/Stephane-Sessegnon,35c5f9b1,Paris-Saint-Germain,"2,899",32.2,7.0,0.0,88,132.0,8611.0,Paris-Saint-Germain
+,Jérémy Clément,fr FRA,MF,35,33,0.0,1.0,2008-2009,/en/players/06cb3efe/Jeremy-Clement,06cb3efe,Paris-Saint-Germain,"2,793",31.0,2.0,0.0,88,4.0,11222.0,Paris-Saint-Germain
+,Guillaume Hoarau,fr FRA,FW,33,31,2.0,17.0,2008-2009,/en/players/cff7dcb0/Guillaume-Hoarau,cff7dcb0,Paris-Saint-Germain,"2,747",30.5,4.0,0.0,88,4.0,11704.0,Paris-Saint-Germain
+,Ludovic Giuly,fr FRA,"FW,MF",34,30,5.0,9.0,2008-2009,/en/players/028d362d/Ludovic-Giuly,028d362d,Paris-Saint-Germain,"2,434",27.0,2.0,0.0,88,4.0,1088.0,Paris-Saint-Germain
+,Mamadou Sakho,fr FRA,DF,23,19,0.0,1.0,2008-2009,/en/players/87935cf3/Mamadou-Sakho,87935cf3,Paris-Saint-Germain,"1,718",19.1,1.0,0.0,88,4.0,6328.0,Paris-Saint-Germain
+,Péguy Luyindula,fr FRA,"FW,MF",34,17,2.0,5.0,2008-2009,/en/players/cedc0a16/Peguy-Luyindula,cedc0a16,Paris-Saint-Germain,"1,731",19.2,1.0,0.0,88,4.0,4130.0,Paris-Saint-Germain
+,Sammy Traoré,ml MLI,DF,19,16,0.0,1.0,2008-2009,/en/players/6f04b42e/Sammy-Traore,6f04b42e,Paris-Saint-Germain,"1,447",16.1,1.0,0.0,88,12.0,12001.0,Paris-Saint-Germain
+,Mateja Kežman,rs SRB,FW,21,6,1.0,3.0,2008-2009,/en/players/41985204/Mateja-Kezman,41985204,Paris-Saint-Germain,774,8.6,2.0,0.0,88,28.0,2157.0,Paris-Saint-Germain
+,Fabrice Pancrate,fr FRA,"FW,MF",22,5,1.0,1.0,2008-2009,/en/players/70d29079/Fabrice-Pancrate,70d29079,Paris-Saint-Germain,546,6.1,1.0,0.0,88,4.0,1398.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,21,4,0.0,0.0,2008-2009,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,581,6.5,2.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Grégory Bourillon,fr FRA,"DF,MF",8,4,0.0,0.0,2008-2009,/en/players/0e59a941/Gregory-Bourillon,0e59a941,Paris-Saint-Germain,408,4.5,2.0,0.0,88,4.0,12778.0,Paris-Saint-Germain
+,Tripy Makonda,fr FRA,DF,4,2,0.0,0.0,2008-2009,/en/players/0713cf26/Tripy-Makonda,0713cf26,Paris-Saint-Germain,227,2.5,0.0,0.0,88,4.0,12783.0,Paris-Saint-Germain
+,Larrys Mabiala,cd COD,DF,2,2,0.0,1.0,2008-2009,/en/players/5bdec47f/Larrys-Mabiala,5bdec47f,Paris-Saint-Germain,180,2.0,0.0,0.0,88,50.0,12665.0,Paris-Saint-Germain
+,Younousse Sankharé,sn SEN,MF,2,1,0.0,0.0,2008-2009,/en/players/c650629d/Younousse-Sankhare,c650629d,Paris-Saint-Germain,87,1.0,0.0,0.0,88,34.0,11732.0,Paris-Saint-Germain
+,Yannick Boli,ci CIV,FW,1,0,0.0,0.0,2008-2009,/en/players/9004db70/Yannick-Boli,9004db70,Paris-Saint-Germain,9,0.1,0.0,0.0,88,35.0,12781.0,Paris-Saint-Germain
+,Loris Arnaud,fr FRA,"FW,MF",1,0,0.0,1.0,2008-2009,/en/players/bf127d46/Loris-Arnaud,bf127d46,Paris-Saint-Germain,7,0.1,0.0,0.0,88,4.0,12779.0,Paris-Saint-Germain
+,Maxime Partouche,fr FRA,MF,1,0,0.0,0.0,2008-2009,/en/players/51edf62b/Maxime-Partouche,51edf62b,Paris-Saint-Germain,3,0.0,0.0,0.0,88,4.0,12784.0,Paris-Saint-Germain
+,﻿Sylvain Armand,fr FRA,DF,33,33,0.0,2.0,2009-2010,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"2,966",33.0,4.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Jérémy Clément,fr FRA,MF,34,33,1.0,3.0,2009-2010,/en/players/06cb3efe/Jeremy-Clement,06cb3efe,Paris-Saint-Germain,"2,862",31.8,6.0,0.0,88,4.0,11222.0,Paris-Saint-Germain
+,Mamadou Sakho,fr FRA,DF,32,32,0.0,0.0,2009-2010,/en/players/87935cf3/Mamadou-Sakho,87935cf3,Paris-Saint-Germain,"2,826",31.4,6.0,1.0,88,4.0,6328.0,Paris-Saint-Germain
+,Claude Makélélé,fr FRA,MF,31,31,2.0,1.0,2009-2010,/en/players/c27d01de/Claude-Makelele,c27d01de,Paris-Saint-Germain,"2,702",30.0,7.0,0.0,88,4.0,8.0,Paris-Saint-Germain
+,Mevlüt Erdinç,tr TUR,FW,31,30,2.0,15.0,2009-2010,/en/players/3b99b9e1/Mevlut-Erdinc,3b99b9e1,Paris-Saint-Germain,"2,406",26.7,3.0,0.0,88,15.0,11817.0,Paris-Saint-Germain
+,Stéphane Sessègnon,bj BEN,"FW,MF",29,27,4.0,3.0,2009-2010,/en/players/35c5f9b1/Stephane-Sessegnon,35c5f9b1,Paris-Saint-Germain,"2,345",26.1,3.0,1.0,88,132.0,8611.0,Paris-Saint-Germain
+,Ceará,br BRA,DF,29,26,1.0,0.0,2009-2010,/en/players/e1d326d9/Ceara,1d326d9,Paris-Saint-Germain,"2,314",25.7,1.0,0.0,88,2.0,12777.0,Paris-Saint-Germain
+,Ludovic Giuly,fr FRA,"FW,MF",31,25,2.0,3.0,2009-2010,/en/players/028d362d/Ludovic-Giuly,028d362d,Paris-Saint-Germain,"1,950",21.7,2.0,0.0,88,4.0,1088.0,Paris-Saint-Germain
+,Christophe Jallet,fr FRA,DF,35,24,6.0,3.0,2009-2010,/en/players/46d50339/Christophe-Jallet,46d50339,Paris-Saint-Germain,"2,373",26.4,2.0,0.0,88,4.0,11259.0,Paris-Saint-Germain
+,Péguy Luyindula,fr FRA,"FW,MF",28,23,2.0,6.0,2009-2010,/en/players/cedc0a16/Peguy-Luyindula,cedc0a16,Paris-Saint-Germain,"2,133",23.7,1.0,0.0,88,4.0,4130.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,23,22,0.0,0.0,2009-2010,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,"1,987",22.1,3.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Apoula Edel,am ARM,GK,23,22,0.0,0.0,2009-2010,/en/players/a9a4b943/Apoula-Edel,9a4b943,Paris-Saint-Germain,"1,986",22.1,0.0,0.0,88,105.0,12785.0,Paris-Saint-Germain
+,Sammy Traoré,ml MLI,DF,23,22,0.0,0.0,2009-2010,/en/players/6f04b42e/Sammy-Traore,6f04b42e,Paris-Saint-Germain,"1,892",21.0,4.0,0.0,88,12.0,12001.0,Paris-Saint-Germain
+,Guillaume Hoarau,fr FRA,FW,22,17,3.0,6.0,2009-2010,/en/players/cff7dcb0/Guillaume-Hoarau,cff7dcb0,Paris-Saint-Germain,"1,542",17.1,3.0,0.0,88,4.0,11704.0,Paris-Saint-Germain
+,Grégory Coupet,fr FRA,GK,16,16,0.0,0.0,2009-2010,/en/players/80e389fb/Gregory-Coupet,80e389fb,Paris-Saint-Germain,"1,434",15.9,0.0,0.0,88,4.0,2182.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,24,11,0.0,2.0,2009-2010,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,"1,017",11.3,3.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Granddi Ngoyi,cd COD,MF,16,8,0.0,0.0,2009-2010,/en/players/570b6a34/Granddi-Ngoyi,570b6a34,Paris-Saint-Germain,780,8.7,1.0,0.0,88,50.0,8042.0,Paris-Saint-Germain
+,Younousse Sankharé,sn SEN,MF,22,7,2.0,1.0,2009-2010,/en/players/c650629d/Younousse-Sankhare,c650629d,Paris-Saint-Germain,772,8.6,3.0,0.0,88,34.0,11732.0,Paris-Saint-Germain
+,Jean-Eudes Maurice,ht HAI,"FW,MF",23,3,0.0,1.0,2009-2010,/en/players/089436e6/Jean-Eudes-Maurice,089436e6,Paris-Saint-Germain,580,6.4,0.0,0.0,88,47.0,12338.0,Paris-Saint-Germain
+,Mateja Kežman,rs SRB,FW,13,3,1.0,2.0,2009-2010,/en/players/41985204/Mateja-Kezman,41985204,Paris-Saint-Germain,396,4.4,2.0,0.0,88,28.0,2157.0,Paris-Saint-Germain
+,Grégory Bourillon,fr FRA,"DF,MF",6,2,0.0,0.0,2009-2010,/en/players/0e59a941/Gregory-Bourillon,0e59a941,Paris-Saint-Germain,237,2.6,1.0,0.0,88,4.0,12778.0,Paris-Saint-Germain
+,Tripy Makonda,fr FRA,DF,1,1,0.0,0.0,2009-2010,/en/players/0713cf26/Tripy-Makonda,0713cf26,Paris-Saint-Germain,90,1.0,0.0,0.0,88,4.0,12783.0,Paris-Saint-Germain
+,﻿Nenê,br BRA,"FW,MF",35,35,9.0,14.0,2010-2011,/en/players/265ebd37/Nene,265ebd37,Paris-Saint-Germain,"3,078",34.2,3.0,0.0,88,2.0,674.0,Paris-Saint-Germain
+,Christophe Jallet,fr FRA,DF,35,35,0.0,1.0,2010-2011,/en/players/46d50339/Christophe-Jallet,46d50339,Paris-Saint-Germain,"3,050",33.9,4.0,1.0,88,4.0,11259.0,Paris-Saint-Germain
+,Mamadou Sakho,fr FRA,DF,35,35,0.0,4.0,2010-2011,/en/players/87935cf3/Mamadou-Sakho,87935cf3,Paris-Saint-Germain,"3,034",33.7,5.0,1.0,88,4.0,6328.0,Paris-Saint-Germain
+,Claude Makélélé,fr FRA,MF,33,33,2.0,0.0,2010-2011,/en/players/c27d01de/Claude-Makelele,c27d01de,Paris-Saint-Germain,"2,872",31.9,7.0,0.0,88,4.0,8.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,33,31,1.0,2.0,2010-2011,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"2,803",31.1,5.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Guillaume Hoarau,fr FRA,FW,33,31,6.0,9.0,2010-2011,/en/players/cff7dcb0/Guillaume-Hoarau,cff7dcb0,Paris-Saint-Germain,"2,629",29.2,3.0,1.0,88,4.0,11704.0,Paris-Saint-Germain
+,Ludovic Giuly,fr FRA,"FW,MF",35,30,8.0,4.0,2010-2011,/en/players/028d362d/Ludovic-Giuly,028d362d,Paris-Saint-Germain,"2,329",25.9,4.0,0.0,88,4.0,1088.0,Paris-Saint-Germain
+,Mevlüt Erdinç,tr TUR,FW,34,29,1.0,8.0,2010-2011,/en/players/3b99b9e1/Mevlut-Erdinc,3b99b9e1,Paris-Saint-Germain,"2,325",25.8,2.0,0.0,88,15.0,11817.0,Paris-Saint-Germain
+,Siaka Tiéné,ci CIV,DF,29,27,1.0,0.0,2010-2011,/en/players/d57aef1b/Siaka-Tiene,d57aef1b,Paris-Saint-Germain,"2,380",26.4,9.0,0.0,88,35.0,12786.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,26,26,0.0,2.0,2010-2011,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,"2,285",25.4,9.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Apoula Edel,am ARM,GK,24,23,0.0,0.0,2010-2011,/en/players/a9a4b943/Apoula-Edel,9a4b943,Paris-Saint-Germain,"2,127",23.6,0.0,0.0,88,105.0,12785.0,Paris-Saint-Germain
+,Mathieu Bodmer,fr FRA,"DF,MF",28,21,3.0,5.0,2010-2011,/en/players/f3642ba8/Mathieu-Bodmer,f3642ba8,Paris-Saint-Germain,"1,751",19.5,3.0,0.0,88,4.0,11232.0,Paris-Saint-Germain
+,Grégory Coupet,fr FRA,GK,15,15,0.0,0.0,2010-2011,/en/players/80e389fb/Gregory-Coupet,80e389fb,Paris-Saint-Germain,"1,293",14.4,0.0,0.0,88,4.0,2182.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,17,14,1.0,2.0,2010-2011,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,"1,379",15.3,1.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Ceará,br BRA,DF,20,14,0.0,0.0,2010-2011,/en/players/e1d326d9/Ceara,1d326d9,Paris-Saint-Germain,"1,240",13.8,1.0,0.0,88,2.0,12777.0,Paris-Saint-Germain
+,Jérémy Clément,fr FRA,MF,24,8,0.0,0.0,2010-2011,/en/players/06cb3efe/Jeremy-Clement,06cb3efe,Paris-Saint-Germain,962,10.7,2.0,1.0,88,4.0,11222.0,Paris-Saint-Germain
+,Péguy Luyindula,fr FRA,"FW,MF",23,4,1.0,0.0,2010-2011,/en/players/cedc0a16/Peguy-Luyindula,cedc0a16,Paris-Saint-Germain,635,7.1,0.0,0.0,88,4.0,4130.0,Paris-Saint-Germain
+,Stéphane Sessègnon,bj BEN,"FW,MF",14,4,2.0,0.0,2010-2011,/en/players/35c5f9b1/Stephane-Sessegnon,35c5f9b1,Paris-Saint-Germain,567,6.3,0.0,0.0,88,132.0,8611.0,Paris-Saint-Germain
+,Jean-Christophe Bahebeck,fr FRA,"FW,MF",11,1,0.0,0.0,2010-2011,/en/players/a8be386b/Jean-Christophe-Bahebeck,8be386b,Paris-Saint-Germain,241,2.7,0.0,0.0,88,4.0,12787.0,Paris-Saint-Germain
+,Tripy Makonda,fr FRA,DF,4,1,0.0,0.0,2010-2011,/en/players/0713cf26/Tripy-Makonda,0713cf26,Paris-Saint-Germain,122,1.4,1.0,0.0,88,4.0,12783.0,Paris-Saint-Germain
+,Neeskens Kebano,cd COD,"FW,MF",3,1,0.0,0.0,2010-2011,/en/players/18b999f4/Neeskens-Kebano,18b999f4,Paris-Saint-Germain,77,0.9,0.0,0.0,88,50.0,7307.0,Paris-Saint-Germain
+,Jean-Eudes Maurice,ht HAI,"FW,MF",10,0,0.0,0.0,2010-2011,/en/players/089436e6/Jean-Eudes-Maurice,089436e6,Paris-Saint-Germain,159,1.8,1.0,0.0,88,47.0,12338.0,Paris-Saint-Germain
+,Loïck Landre,fr FRA,DF,1,0,0.0,0.0,2010-2011,/en/players/08082af0/Loick-Landre,08082af0,Paris-Saint-Germain,59,0.7,0.0,0.0,88,4.0,12356.0,Paris-Saint-Germain
+,Mateja Kežman,rs SRB,FW,1,0,0.0,0.0,2010-2011,/en/players/41985204/Mateja-Kezman,41985204,Paris-Saint-Germain,18,0.2,0.0,0.0,88,28.0,2157.0,Paris-Saint-Germain
+,Sammy Traoré,ml MLI,DF,2,0,0.0,0.0,2010-2011,/en/players/6f04b42e/Sammy-Traore,6f04b42e,Paris-Saint-Germain,13,0.1,0.0,0.0,88,12.0,12001.0,Paris-Saint-Germain
+,﻿Salvatore Sirigu,it ITA,GK,38,38,0.0,0.0,2011-2012,/en/players/10dc46f0/Salvatore-Sirigu,10dc46f0,Paris-Saint-Germain,"3,420",38.0,1.0,0.0,88,9.0,1916.0,Paris-Saint-Germain
+,Nenê,br BRA,"FW,MF",35,35,11.0,21.0,2011-2012,/en/players/265ebd37/Nene,265ebd37,Paris-Saint-Germain,"3,022",33.6,5.0,0.0,88,2.0,674.0,Paris-Saint-Germain
+,Jérémy Ménez,fr FRA,"FW,MF",33,33,12.0,7.0,2011-2012,/en/players/41976af1/Jeremy-Menez,41976af1,Paris-Saint-Germain,"2,694",29.9,12.0,0.0,88,4.0,11362.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,MF,33,30,6.0,13.0,2011-2012,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,"2,635",29.3,4.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Kévin Gameiro,fr FRA,FW,34,27,2.0,11.0,2011-2012,/en/players/42276181/Kevin-Gameiro,42276181,Paris-Saint-Germain,"2,272",25.2,0.0,0.0,88,4.0,1002.0,Paris-Saint-Germain
+,Christophe Jallet,fr FRA,DF,33,26,5.0,3.0,2011-2012,/en/players/46d50339/Christophe-Jallet,46d50339,Paris-Saint-Germain,"2,404",26.7,2.0,1.0,88,4.0,11259.0,Paris-Saint-Germain
+,Blaise Matuidi,fr FRA,MF,29,25,0.0,1.0,2011-2012,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,"2,159",24.0,6.0,0.0,88,4.0,12788.0,Paris-Saint-Germain
+,Mohamed Sissoko,ml MLI,MF,25,22,1.0,2.0,2011-2012,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Paris-Saint-Germain,"1,811",20.1,8.0,2.0,88,12.0,886.0,Paris-Saint-Germain
+,Mathieu Bodmer,fr FRA,"DF,MF",31,21,3.0,1.0,2011-2012,/en/players/f3642ba8/Mathieu-Bodmer,f3642ba8,Paris-Saint-Germain,"2,047",22.7,2.0,0.0,88,4.0,11232.0,Paris-Saint-Germain
+,Mamadou Sakho,fr FRA,DF,22,20,0.0,0.0,2011-2012,/en/players/87935cf3/Mamadou-Sakho,87935cf3,Paris-Saint-Germain,"1,774",19.7,4.0,1.0,88,4.0,6328.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,19,17,0.0,0.0,2011-2012,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,"1,618",18.0,4.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Milan Biševac,rs SRB,DF,19,17,1.0,1.0,2011-2012,/en/players/a51728e3/Milan-Bisevac,51728e3,Paris-Saint-Germain,"1,544",17.2,3.0,0.0,88,28.0,11250.0,Paris-Saint-Germain
+,Ceará,br BRA,DF,24,17,0.0,1.0,2011-2012,/en/players/e1d326d9/Ceara,1d326d9,Paris-Saint-Germain,"1,525",16.9,3.0,0.0,88,2.0,12777.0,Paris-Saint-Germain
+,Siaka Tiéné,ci CIV,DF,23,16,3.0,1.0,2011-2012,/en/players/d57aef1b/Siaka-Tiene,d57aef1b,Paris-Saint-Germain,"1,483",16.5,3.0,0.0,88,35.0,12786.0,Paris-Saint-Germain
+,Alex,br BRA,DF,15,15,1.0,2.0,2011-2012,/en/players/58721835/Alex,58721835,Paris-Saint-Germain,"1,287",14.3,2.0,0.0,88,2.0,6184.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,14,14,1.0,2.0,2011-2012,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,"1,260",14.0,6.0,0.0,88,9.0,1057.0,Paris-Saint-Germain
+,Maxwell,br BRA,DF,14,13,0.0,1.0,2011-2012,/en/players/6f08cece/Maxwell,6f08cece,Paris-Saint-Germain,"1,123",12.5,0.0,0.0,88,2.0,1131.0,Paris-Saint-Germain
+,Diego Lugano,uy URU,DF,12,9,0.0,0.0,2011-2012,/en/players/303ad7c3/Diego-Lugano,303ad7c3,Paris-Saint-Germain,789,8.8,7.0,0.0,88,8.0,2384.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,23,8,1.0,1.0,2011-2012,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,875,9.7,3.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,15,8,3.0,0.0,2011-2012,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,839,9.3,1.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Guillaume Hoarau,fr FRA,FW,19,7,2.0,5.0,2011-2012,/en/players/cff7dcb0/Guillaume-Hoarau,cff7dcb0,Paris-Saint-Germain,733,8.1,2.0,0.0,88,4.0,11704.0,Paris-Saint-Germain
+,Mevlüt Erdinç,tr TUR,FW,11,0,1.0,1.0,2011-2012,/en/players/3b99b9e1/Mevlut-Erdinc,3b99b9e1,Paris-Saint-Germain,143,1.6,1.0,0.0,88,15.0,11817.0,Paris-Saint-Germain
+,Jean-Christophe Bahebeck,fr FRA,"FW,MF",8,0,0.0,0.0,2011-2012,/en/players/a8be386b/Jean-Christophe-Bahebeck,8be386b,Paris-Saint-Germain,76,0.8,0.0,0.0,88,4.0,12787.0,Paris-Saint-Germain
+,Jean-Eudes Maurice,ht HAI,"FW,MF",1,0,0.0,0.0,2011-2012,/en/players/089436e6/Jean-Eudes-Maurice,089436e6,Paris-Saint-Germain,3,0.0,0.0,0.0,88,47.0,12338.0,Paris-Saint-Germain
+,﻿Blaise Matuidi,fr FRA,MF,37,35,0.0,5.0,2012-2013,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,"3,132",34.8,4.0,1.0,88,4.0,12788.0,Paris-Saint-Germain
+,Zlatan Ibrahimović,se SWE,FW,34,33,7.0,30.0,2012-2013,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Paris-Saint-Germain,"2,975",33.1,9.0,1.0,88,41.0,1132.0,Paris-Saint-Germain
+,Maxwell,br BRA,DF,33,33,3.0,2.0,2012-2013,/en/players/6f08cece/Maxwell,6f08cece,Paris-Saint-Germain,"2,933",32.6,2.0,0.0,88,2.0,1131.0,Paris-Saint-Germain
+,Salvatore Sirigu,it ITA,GK,33,33,0.0,0.0,2012-2013,/en/players/10dc46f0/Salvatore-Sirigu,10dc46f0,Paris-Saint-Germain,"2,927",32.5,2.0,0.0,88,9.0,1916.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,MF,34,30,8.0,4.0,2012-2013,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,"2,474",27.5,2.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Ezequiel Lavezzi,ar ARG,"FW,MF",28,25,3.0,3.0,2012-2013,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Paris-Saint-Germain,"2,096",23.3,3.0,1.0,88,5.0,12789.0,Paris-Saint-Germain
+,Mamadou Sakho,fr FRA,DF,27,24,0.0,1.0,2012-2013,/en/players/87935cf3/Mamadou-Sakho,87935cf3,Paris-Saint-Germain,"2,139",23.8,3.0,1.0,88,4.0,6328.0,Paris-Saint-Germain
+,Jérémy Ménez,fr FRA,"FW,MF",30,24,7.0,5.0,2012-2013,/en/players/41976af1/Jeremy-Menez,41976af1,Paris-Saint-Germain,"2,042",22.7,5.0,0.0,88,4.0,11362.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,27,23,3.0,0.0,2012-2013,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,766",19.6,11.0,1.0,88,9.0,12790.0,Paris-Saint-Germain
+,Alex,br BRA,DF,24,22,0.0,2.0,2012-2013,/en/players/58721835/Alex,58721835,Paris-Saint-Germain,"2,060",22.9,2.0,0.0,88,2.0,6184.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,22,22,0.0,0.0,2012-2013,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"1,899",21.1,2.0,1.0,88,2.0,6251.0,Paris-Saint-Germain
+,Christophe Jallet,fr FRA,DF,27,20,3.0,0.0,2012-2013,/en/players/46d50339/Christophe-Jallet,46d50339,Paris-Saint-Germain,"1,886",21.0,1.0,0.0,88,4.0,11259.0,Paris-Saint-Germain
+,Gregory van der Wiel,nl NED,DF,22,17,1.0,1.0,2012-2013,/en/players/2fb3ad46/Gregory-van-der-Wiel,2fb3ad46,Paris-Saint-Germain,"1,556",17.3,7.0,0.0,88,11.0,12791.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,28,16,2.0,1.0,2012-2013,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,"1,425",15.8,6.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Sylvain Armand,fr FRA,DF,18,11,0.0,0.0,2012-2013,/en/players/cfa036c3/Sylvain-Armand,cfa036c3,Paris-Saint-Germain,"1,044",11.6,1.0,0.0,88,4.0,12461.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,12,11,1.0,1.0,2012-2013,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,894,9.9,4.0,1.0,88,9.0,1057.0,Paris-Saint-Germain
+,Lucas Moura,br BRA,"FW,MF",10,9,3.0,0.0,2012-2013,/en/players/2b622f01/Lucas-Moura,2b622f01,Paris-Saint-Germain,730,8.1,1.0,0.0,88,2.0,7131.0,Paris-Saint-Germain
+,Kévin Gameiro,fr FRA,FW,25,7,1.0,8.0,2012-2013,/en/players/42276181/Kevin-Gameiro,42276181,Paris-Saint-Germain,878,9.8,1.0,0.0,88,4.0,1002.0,Paris-Saint-Germain
+,Nenê,br BRA,"FW,MF",9,5,4.0,1.0,2012-2013,/en/players/265ebd37/Nene,265ebd37,Paris-Saint-Germain,506,5.6,2.0,0.0,88,2.0,674.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,6,5,0.0,0.0,2012-2013,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,423,4.7,1.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Nicolas Douchez,fr FRA,GK,4,4,0.0,0.0,2012-2013,/en/players/65df6f31/Nicolas-Douchez,65df6f31,Paris-Saint-Germain,360,4.0,0.0,0.0,88,4.0,12378.0,Paris-Saint-Germain
+,David Beckham,eng ENG,MF,10,2,2.0,0.0,2012-2013,/en/players/53539318/David-Beckham,53539318,Paris-Saint-Germain,315,3.5,0.0,1.0,88,6.0,24.0,Paris-Saint-Germain
+,Siaka Tiéné,ci CIV,DF,2,2,0.0,0.0,2012-2013,/en/players/d57aef1b/Siaka-Tiene,d57aef1b,Paris-Saint-Germain,180,2.0,0.0,0.0,88,35.0,12786.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,6,1,0.0,0.0,2012-2013,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,200,2.2,1.0,0.0,88,4.0,12792.0,Paris-Saint-Germain
+,Mathieu Bodmer,fr FRA,"DF,MF",4,1,0.0,0.0,2012-2013,/en/players/f3642ba8/Mathieu-Bodmer,f3642ba8,Paris-Saint-Germain,179,2.0,1.0,0.0,88,4.0,11232.0,Paris-Saint-Germain
+,Guillaume Hoarau,fr FRA,FW,6,1,0.0,1.0,2012-2013,/en/players/cff7dcb0/Guillaume-Hoarau,cff7dcb0,Paris-Saint-Germain,118,1.3,0.0,0.0,88,4.0,11704.0,Paris-Saint-Germain
+,Alphonse Areola,fr FRA,GK,2,1,0.0,0.0,2012-2013,/en/players/2f965a72/Alphonse-Areola,2f965a72,Paris-Saint-Germain,103,1.1,0.0,0.0,88,4.0,167.0,Paris-Saint-Germain
+,Mohamed Sissoko,ml MLI,MF,3,1,0.0,0.0,2012-2013,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Paris-Saint-Germain,98,1.1,2.0,0.0,88,12.0,886.0,Paris-Saint-Germain
+,Ronan Le Crom,fr FRA,GK,1,0,0.0,0.0,2012-2013,/en/players/5d1b9f5b/Ronan-Le-Crom,5d1b9f5b,Paris-Saint-Germain,20,0.2,0.0,1.0,88,4.0,12144.0,Paris-Saint-Germain
+,Antoine Conte,gn GUI,DF,1,0,0.0,0.0,2012-2013,/en/players/9cdfcd02/Antoine-Conte,9cdfcd02,Paris-Saint-Germain,15,0.2,0.0,0.0,88,74.0,12793.0,Paris-Saint-Germain
+,Kingsley Coman,fr FRA,"FW,MF",1,0,0.0,0.0,2012-2013,/en/players/042e8a49/Kingsley-Coman,042e8a49,Paris-Saint-Germain,4,0.0,0.0,0.0,88,4.0,12794.0,Paris-Saint-Germain
+,﻿Salvatore Sirigu,it ITA,GK,37,37,0.0,0.0,2013-2014,/en/players/10dc46f0/Salvatore-Sirigu,10dc46f0,Paris-Saint-Germain,"3,330",37.0,0.0,0.0,88,9.0,1916.0,Paris-Saint-Germain
+,Zlatan Ibrahimović,se SWE,FW,33,32,11.0,26.0,2013-2014,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Paris-Saint-Germain,"2,766",30.7,7.0,0.0,88,41.0,1132.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,32,31,2.0,3.0,2013-2014,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,"2,536",28.2,7.0,1.0,88,9.0,1057.0,Paris-Saint-Germain
+,Alex,br BRA,DF,31,30,0.0,2.0,2013-2014,/en/players/58721835/Alex,58721835,Paris-Saint-Germain,"2,605",28.9,6.0,0.0,88,2.0,6184.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,28,28,0.0,3.0,2013-2014,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"2,382",26.5,1.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,Blaise Matuidi,fr FRA,MF,36,27,2.0,5.0,2013-2014,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,"2,561",28.5,4.0,0.0,88,4.0,12788.0,Paris-Saint-Germain
+,Edinson Cavani,uy URU,"FW,MF",30,25,2.0,16.0,2013-2014,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,"2,299",25.5,2.0,0.0,88,8.0,5831.0,Paris-Saint-Germain
+,Gregory van der Wiel,nl NED,DF,25,24,4.0,0.0,2013-2014,/en/players/2fb3ad46/Gregory-van-der-Wiel,2fb3ad46,Paris-Saint-Germain,"2,158",24.0,2.0,0.0,88,11.0,12791.0,Paris-Saint-Germain
+,Ezequiel Lavezzi,ar ARG,"FW,MF",32,24,0.0,9.0,2013-2014,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Paris-Saint-Germain,"1,874",20.8,2.0,0.0,88,5.0,12789.0,Paris-Saint-Germain
+,Maxwell,br BRA,DF,24,23,2.0,3.0,2013-2014,/en/players/6f08cece/Maxwell,6f08cece,Paris-Saint-Germain,"2,090",23.2,2.0,0.0,88,2.0,1131.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,29,23,4.0,0.0,2013-2014,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,983",22.0,10.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Lucas Moura,br BRA,"FW,MF",36,18,11.0,5.0,2013-2014,/en/players/2b622f01/Lucas-Moura,2b622f01,Paris-Saint-Germain,"1,937",21.5,2.0,0.0,88,2.0,7131.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,MF,29,18,3.0,1.0,2013-2014,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,"1,577",17.5,2.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Marquinhos,br BRA,"DF,MF",21,17,0.0,2.0,2013-2014,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"1,654",18.4,3.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Lucas Digne,fr FRA,"DF,MF",15,15,1.0,0.0,2013-2014,/en/players/1b84dbe1/Lucas-Digne,1b84dbe1,Paris-Saint-Germain,"1,335",14.8,3.0,0.0,88,4.0,1160.0,Paris-Saint-Germain
+,Christophe Jallet,fr FRA,DF,13,13,0.0,0.0,2013-2014,/en/players/46d50339/Christophe-Jallet,46d50339,Paris-Saint-Germain,"1,083",12.0,1.0,0.0,88,4.0,11259.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,25,12,0.0,2.0,2013-2014,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,"1,179",13.1,2.0,0.0,88,4.0,12792.0,Paris-Saint-Germain
+,Yohan Cabaye,fr FRA,MF,15,9,2.0,0.0,2013-2014,/en/players/ad7b19ef/Yohan-Cabaye,d7b19ef,Paris-Saint-Germain,822,9.1,2.0,0.0,88,4.0,6048.0,Paris-Saint-Germain
+,Jérémy Ménez,fr FRA,"FW,MF",16,7,1.0,2.0,2013-2014,/en/players/41976af1/Jeremy-Menez,41976af1,Paris-Saint-Germain,686,7.6,2.0,0.0,88,4.0,11362.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,6,2,0.0,0.0,2013-2014,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,342,3.8,0.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Hervin Ongenda,fr FRA,"FW,MF",6,2,1.0,0.0,2013-2014,/en/players/6989b4b0/Hervin-Ongenda,6989b4b0,Paris-Saint-Germain,235,2.6,1.0,0.0,88,4.0,12796.0,Paris-Saint-Germain
+,Nicolas Douchez,fr FRA,GK,1,1,0.0,0.0,2013-2014,/en/players/65df6f31/Nicolas-Douchez,65df6f31,Paris-Saint-Germain,90,1.0,0.0,0.0,88,4.0,12378.0,Paris-Saint-Germain
+,Kingsley Coman,fr FRA,"FW,MF",2,0,0.0,0.0,2013-2014,/en/players/042e8a49/Kingsley-Coman,042e8a49,Paris-Saint-Germain,37,0.4,0.0,0.0,88,4.0,12794.0,Paris-Saint-Germain
+,﻿Salvatore Sirigu,it ITA,GK,34,34,0.0,0.0,2014-2015,/en/players/10dc46f0/Salvatore-Sirigu,10dc46f0,Paris-Saint-Germain,"3,002",33.4,2.0,0.0,88,9.0,1916.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,MF,34,31,12.0,5.0,2014-2015,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,"2,746",30.5,4.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Edinson Cavani,uy URU,"FW,MF",35,30,1.0,18.0,2014-2015,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,"2,628",29.2,3.0,1.0,88,8.0,5831.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,32,28,8.0,2.0,2014-2015,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"2,454",27.3,12.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,26,26,0.0,1.0,2014-2015,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"2,308",25.6,1.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,David Luiz,br BRA,"DF,MF",28,26,0.0,2.0,2014-2015,/en/players/c0e27d1a/David-Luiz,c0e27d1a,Paris-Saint-Germain,"2,290",25.4,5.0,0.0,88,2.0,5940.0,Paris-Saint-Germain
+,Blaise Matuidi,fr FRA,MF,34,25,2.0,4.0,2014-2015,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,"2,187",24.3,2.0,0.0,88,4.0,12788.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,27,25,2.0,0.0,2014-2015,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,"2,050",22.8,9.0,0.0,88,9.0,1057.0,Paris-Saint-Germain
+,Maxwell,br BRA,DF,26,24,3.0,3.0,2014-2015,/en/players/6f08cece/Maxwell,6f08cece,Paris-Saint-Germain,"2,164",24.0,1.0,0.0,88,2.0,1131.0,Paris-Saint-Germain
+,Zlatan Ibrahimović,se SWE,FW,24,23,6.0,19.0,2014-2015,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Paris-Saint-Germain,"2,002",22.2,3.0,0.0,88,41.0,1132.0,Paris-Saint-Germain
+,Gregory van der Wiel,nl NED,DF,25,22,3.0,1.0,2014-2015,/en/players/2fb3ad46/Gregory-van-der-Wiel,2fb3ad46,Paris-Saint-Germain,"2,004",22.3,3.0,1.0,88,11.0,12791.0,Paris-Saint-Germain
+,Lucas Moura,br BRA,"FW,MF",29,22,5.0,7.0,2014-2015,/en/players/2b622f01/Lucas-Moura,2b622f01,Paris-Saint-Germain,"1,891",21.0,2.0,0.0,88,2.0,7131.0,Paris-Saint-Germain
+,Marquinhos,br BRA,"DF,MF",25,21,0.0,2.0,2014-2015,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"1,875",20.8,2.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Ezequiel Lavezzi,ar ARG,"FW,MF",31,19,2.0,8.0,2014-2015,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Paris-Saint-Germain,"1,654",18.4,2.0,0.0,88,5.0,12789.0,Paris-Saint-Germain
+,Lucas Digne,fr FRA,"DF,MF",15,14,1.0,0.0,2014-2015,/en/players/1b84dbe1/Lucas-Digne,1b84dbe1,Paris-Saint-Germain,"1,271",14.1,1.0,0.0,88,4.0,1160.0,Paris-Saint-Germain
+,Yohan Cabaye,fr FRA,MF,24,13,1.0,1.0,2014-2015,/en/players/ad7b19ef/Yohan-Cabaye,d7b19ef,Paris-Saint-Germain,965,10.7,7.0,1.0,88,4.0,6048.0,Paris-Saint-Germain
+,Serge Aurier,ci CIV,"DF,MF",14,12,5.0,0.0,2014-2015,/en/players/5c2b4f07/Serge-Aurier,5c2b4f07,Paris-Saint-Germain,"1,136",12.6,2.0,0.0,88,35.0,2824.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,21,10,1.0,4.0,2014-2015,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,"1,136",12.6,1.0,0.0,88,4.0,12792.0,Paris-Saint-Germain
+,Zoumana Camara,fr FRA,DF,8,6,0.0,1.0,2014-2015,/en/players/dd8ab3d6/Zoumana-Camara,dd8ab3d6,Paris-Saint-Germain,595,6.6,0.0,0.0,88,4.0,7930.0,Paris-Saint-Germain
+,Nicolas Douchez,fr FRA,GK,5,4,0.0,0.0,2014-2015,/en/players/65df6f31/Nicolas-Douchez,65df6f31,Paris-Saint-Germain,418,4.6,0.0,0.0,88,4.0,12378.0,Paris-Saint-Germain
+,Jean-Christophe Bahebeck,fr FRA,"FW,MF",15,3,3.0,2.0,2014-2015,/en/players/a8be386b/Jean-Christophe-Bahebeck,8be386b,Paris-Saint-Germain,555,6.2,2.0,0.0,88,4.0,12787.0,Paris-Saint-Germain
+,Clément Chantôme,fr FRA,MF,6,0,0.0,0.0,2014-2015,/en/players/f1df248c/Clement-Chantome,f1df248c,Paris-Saint-Germain,151,1.7,0.0,0.0,88,4.0,11713.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,1,0,0.0,0.0,2014-2015,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,15,0.2,0.0,0.0,88,4.0,12797.0,Paris-Saint-Germain
+,Jean-Kévin Augustin,fr FRA,FW,0,0,,,2014-2015,/en/players/97bfa797/Jean-Kevin-Augustin,97bfa797,Paris-Saint-Germain,,,,,88,4.0,8091.0,Paris-Saint-Germain
+,Romuald Lacazette,fr FRA,MF,0,0,,,2014-2015,/en/players/1c11c8d9/Romuald-Lacazette,1c11c8d9,Paris-Saint-Germain,,,,,88,4.0,12798.0,Paris-Saint-Germain
+,Mike Maignan,fr FRA,GK,0,0,,,2014-2015,/en/players/fcb38f57/Mike-Maignan,fcb38f57,Paris-Saint-Germain,,,,,88,4.0,12799.0,Paris-Saint-Germain
+,Hervin Ongenda,fr FRA,"FW,MF",0,0,,,2014-2015,/en/players/6989b4b0/Hervin-Ongenda,6989b4b0,Paris-Saint-Germain,,,,,88,4.0,12796.0,Paris-Saint-Germain
+,Roli Pereira de Sa,fr FRA,MF,0,0,,,2014-2015,/en/players/60f58477/Roli-Pereira-de-Sa,60f58477,Paris-Saint-Germain,,,,,88,4.0,12603.0,Paris-Saint-Germain
+,﻿Kevin Trapp,de GER,GK,35,35,0.0,0.0,2015-2016,/en/players/ce17b5eb/Kevin-Trapp,ce17b5eb,Paris-Saint-Germain,"3,105",34.5,0.0,0.0,88,13.0,12800.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,30,29,1.0,1.0,2015-2016,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"2,622",29.1,3.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,Zlatan Ibrahimović,se SWE,FW,31,29,13.0,38.0,2015-2016,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Paris-Saint-Germain,"2,549",28.3,1.0,0.0,88,41.0,1132.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,32,26,1.0,1.0,2015-2016,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,"2,343",26.0,6.0,0.0,88,9.0,1057.0,Paris-Saint-Germain
+,Lucas Moura,br BRA,"FW,MF",36,26,4.0,9.0,2015-2016,/en/players/2b622f01/Lucas-Moura,2b622f01,Paris-Saint-Germain,"2,323",25.8,3.0,0.0,88,2.0,7131.0,Paris-Saint-Germain
+,Ángel Di María,ar ARG,"FW,MF",29,26,18.0,10.0,2015-2016,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"2,122",23.6,0.0,0.0,88,5.0,91.0,Paris-Saint-Germain
+,Edinson Cavani,uy URU,FW,32,24,5.0,19.0,2015-2016,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,"2,309",25.7,3.0,0.0,88,8.0,5831.0,Paris-Saint-Germain
+,Maxwell,br BRA,DF,28,24,3.0,3.0,2015-2016,/en/players/6f08cece/Maxwell,6f08cece,Paris-Saint-Germain,"2,226",24.7,0.0,0.0,88,2.0,1131.0,Paris-Saint-Germain
+,David Luiz,br BRA,DF,25,23,2.0,1.0,2015-2016,/en/players/c0e27d1a/David-Luiz,c0e27d1a,Paris-Saint-Germain,"2,089",23.2,4.0,0.0,88,2.0,5940.0,Paris-Saint-Germain
+,Blaise Matuidi,fr FRA,MF,31,23,6.0,4.0,2015-2016,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,"2,060",22.9,4.0,0.0,88,4.0,12788.0,Paris-Saint-Germain
+,Serge Aurier,ci CIV,DF,21,21,2.0,2.0,2015-2016,/en/players/5c2b4f07/Serge-Aurier,5c2b4f07,Paris-Saint-Germain,"1,886",21.0,8.0,0.0,88,35.0,2824.0,Paris-Saint-Germain
+,Marquinhos,br BRA,DF,29,20,0.0,1.0,2015-2016,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"1,925",21.4,1.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,24,19,1.0,1.0,2015-2016,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,"1,610",17.9,4.0,1.0,88,4.0,12792.0,Paris-Saint-Germain
+,Benjamin Stambouli,fr FRA,MF,27,18,0.0,0.0,2015-2016,/en/players/5939baa2/Benjamin-Stambouli,5939baa2,Paris-Saint-Germain,"1,500",16.7,2.0,0.0,88,4.0,7116.0,Paris-Saint-Germain
+,Gregory van der Wiel,nl NED,DF,17,16,3.0,2.0,2015-2016,/en/players/2fb3ad46/Gregory-van-der-Wiel,2fb3ad46,Paris-Saint-Germain,"1,378",15.3,2.0,0.0,88,11.0,12791.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,DF,16,14,3.0,3.0,2015-2016,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,"1,289",14.3,1.0,0.0,88,4.0,11395.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,18,11,3.0,0.0,2015-2016,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,064",11.8,2.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,MF,16,11,6.0,2.0,2015-2016,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,874,9.7,1.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,6,5,0.0,0.0,2015-2016,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,426,4.7,1.0,0.0,88,4.0,12797.0,Paris-Saint-Germain
+,Jean-Kévin Augustin,fr FRA,FW,13,4,0.0,1.0,2015-2016,/en/players/97bfa797/Jean-Kevin-Augustin,97bfa797,Paris-Saint-Germain,423,4.7,1.0,0.0,88,4.0,8091.0,Paris-Saint-Germain
+,Hervin Ongenda,fr FRA,"MF,FW",5,4,1.0,1.0,2015-2016,/en/players/6989b4b0/Hervin-Ongenda,6989b4b0,Paris-Saint-Germain,347,3.9,0.0,0.0,88,4.0,12796.0,Paris-Saint-Germain
+,Christopher Nkunku,fr FRA,MF,5,4,0.0,0.0,2015-2016,/en/players/7c56da38/Christopher-Nkunku,7c56da38,Paris-Saint-Germain,328,3.6,0.0,0.0,88,4.0,12801.0,Paris-Saint-Germain
+,Ezequiel Lavezzi,ar ARG,"FW,MF",16,3,0.0,2.0,2015-2016,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Paris-Saint-Germain,437,4.9,0.0,0.0,88,5.0,12789.0,Paris-Saint-Germain
+,Salvatore Sirigu,it ITA,GK,3,2,0.0,0.0,2015-2016,/en/players/10dc46f0/Salvatore-Sirigu,10dc46f0,Paris-Saint-Germain,225,2.5,0.0,0.0,88,9.0,1916.0,Paris-Saint-Germain
+,Nicolas Douchez,fr FRA,GK,1,1,0.0,0.0,2015-2016,/en/players/65df6f31/Nicolas-Douchez,65df6f31,Paris-Saint-Germain,90,1.0,0.0,0.0,88,4.0,12378.0,Paris-Saint-Germain
+,Timothée Taufflieb,fr FRA,MF,1,0,0.0,0.0,2015-2016,/en/players/662d15a0/Timothee-Taufflieb,662d15a0,Paris-Saint-Germain,4,0.0,0.0,0.0,88,4.0,12802.0,Paris-Saint-Germain
+,Kévin Rimane,gf GUF,"DF,MF",1,0,0.0,0.0,2015-2016,/en/players/7a137df4/Kevin-Rimane,7a137df4,Paris-Saint-Germain,3,0.0,0.0,0.0,88,159.0,12803.0,Paris-Saint-Germain
+,Yakou Méïte,ci CIV,"FW,MF",1,0,0.0,0.0,2015-2016,/en/players/c55e8ab0/Yakou-Meite,c55e8ab0,Paris-Saint-Germain,1,0.0,0.0,0.0,88,35.0,9648.0,Paris-Saint-Germain
+,Sessi D'Almeida,bj BEN,MF,0,0,,,2015-2016,/en/players/2c574121/Sessi-DAlmeida,2c574121,Paris-Saint-Germain,,,,,88,132.0,10505.0,Paris-Saint-Germain
+,Mamadou Doucouré,fr FRA,DF,0,0,,,2015-2016,/en/players/7bd5b8fd/Mamadou-Doucoure,7bd5b8fd,Paris-Saint-Germain,,,,,88,4.0,17086.0,Paris-Saint-Germain
+,Odsonne Édouard,fr FRA,FW,0,0,,,2015-2016,/en/players/0562b7f1/Odsonne-Edouard,0562b7f1,Paris-Saint-Germain,,,,,88,4.0,9333.0,Paris-Saint-Germain
+,Alec Georgen,fr FRA,DF,0,0,,,2015-2016,/en/players/99295490/Alec-Georgen,99295490,Paris-Saint-Germain,,,,,88,4.0,12131.0,Paris-Saint-Germain
+,Youssouf Sabaly,sn SEN,DF,0,0,,,2015-2016,/en/players/fbbb9269/Youssouf-Sabaly,fbbb9269,Paris-Saint-Germain,,,,,88,34.0,1538.0,Paris-Saint-Germain
+,﻿Edinson Cavani,uy URU,FW,36,35,4.0,35.0,2016-2017,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,"2,965",32.9,5.0,0.0,88,8.0,5831.0,Paris-Saint-Germain
+,Lucas Moura,br BRA,"FW,MF",37,29,6.0,12.0,2016-2017,/en/players/2b622f01/Lucas-Moura,2b622f01,Paris-Saint-Germain,"2,421",26.9,0.0,0.0,88,2.0,7131.0,Paris-Saint-Germain
+,Marquinhos,br BRA,DF,29,27,0.0,3.0,2016-2017,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"2,501",27.8,1.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,27,27,1.0,3.0,2016-2017,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"2,385",26.5,1.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,Blaise Matuidi,fr FRA,MF,34,26,4.0,4.0,2016-2017,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,"2,415",26.8,4.0,0.0,88,4.0,12788.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,30,25,1.0,0.0,2016-2017,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,"2,228",24.8,7.0,1.0,88,9.0,1057.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,28,25,5.0,3.0,2016-2017,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"2,148",23.9,6.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Kevin Trapp,de GER,GK,24,24,0.0,0.0,2016-2017,/en/players/ce17b5eb/Kevin-Trapp,ce17b5eb,Paris-Saint-Germain,"2,123",23.6,0.0,0.0,88,13.0,12800.0,Paris-Saint-Germain
+,Ángel Di María,ar ARG,FW,29,24,7.0,6.0,2016-2017,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"2,036",22.6,1.0,1.0,88,5.0,91.0,Paris-Saint-Germain
+,Serge Aurier,ci CIV,DF,22,21,3.0,0.0,2016-2017,/en/players/5c2b4f07/Serge-Aurier,5c2b4f07,Paris-Saint-Germain,"1,829",20.3,4.0,2.0,88,35.0,2824.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,27,20,2.0,3.0,2016-2017,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,"1,935",21.5,2.0,0.0,88,4.0,12792.0,Paris-Saint-Germain
+,Maxwell,br BRA,DF,20,19,6.0,0.0,2016-2017,/en/players/6f08cece/Maxwell,6f08cece,Paris-Saint-Germain,"1,713",19.0,0.0,0.0,88,2.0,1131.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,19,19,0.0,0.0,2016-2017,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,"1,710",19.0,7.0,0.0,88,4.0,12797.0,Paris-Saint-Germain
+,Thomas Meunier,be BEL,DF,22,18,4.0,1.0,2016-2017,/en/players/e162b013/Thomas-Meunier,162b013,Paris-Saint-Germain,"1,695",18.8,3.0,0.0,88,27.0,12804.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,DF,18,18,2.0,2.0,2016-2017,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,"1,527",17.0,3.0,0.0,88,4.0,11395.0,Paris-Saint-Germain
+,Alphonse Areola,fr FRA,GK,15,14,0.0,0.0,2016-2017,/en/players/2f965a72/Alphonse-Areola,2f965a72,Paris-Saint-Germain,"1,297",14.4,0.0,0.0,88,4.0,167.0,Paris-Saint-Germain
+,Julian Draxler,de GER,FW,17,12,1.0,4.0,2016-2017,/en/players/1a992676/Julian-Draxler,1a992676,Paris-Saint-Germain,"1,012",11.2,2.0,0.0,88,13.0,12805.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,"MF,FW",15,9,4.0,0.0,2016-2017,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,864,9.6,0.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Grzegorz Krychowiak,pl POL,MF,11,7,0.0,0.0,2016-2017,/en/players/580d52dd/Grzegorz-Krychowiak,580d52dd,Paris-Saint-Germain,659,7.3,2.0,0.0,88,14.0,1888.0,Paris-Saint-Germain
+,Hatem Ben Arfa,fr FRA,"MF,FW",23,5,1.0,0.0,2016-2017,/en/players/74dc806c/Hatem-Ben-Arfa,74dc806c,Paris-Saint-Germain,643,7.1,1.0,0.0,88,4.0,2673.0,Paris-Saint-Germain
+,Christopher Nkunku,fr FRA,"MF,FW",8,5,0.0,1.0,2016-2017,/en/players/7c56da38/Christopher-Nkunku,7c56da38,Paris-Saint-Germain,398,4.4,2.0,0.0,88,4.0,12801.0,Paris-Saint-Germain
+,David Luiz,br BRA,DF,3,3,0.0,0.0,2016-2017,/en/players/c0e27d1a/David-Luiz,c0e27d1a,Paris-Saint-Germain,241,2.7,1.0,0.0,88,2.0,5940.0,Paris-Saint-Germain
+,Jonathan Ikone,fr FRA,"MF,FW",4,2,0.0,0.0,2016-2017,/en/players/42eaa028/Jonathan-Ikone,42eaa028,Paris-Saint-Germain,138,1.5,0.0,0.0,88,4.0,12806.0,Paris-Saint-Germain
+,Jesé,es ESP,FW,9,1,0.0,1.0,2016-2017,/en/players/4a537185/Jese,4a537185,Paris-Saint-Germain,268,3.0,0.0,0.0,88,1.0,108.0,Paris-Saint-Germain
+,Jean-Kévin Augustin,fr FRA,FW,10,1,2.0,1.0,2016-2017,/en/players/97bfa797/Jean-Kevin-Augustin,97bfa797,Paris-Saint-Germain,196,2.2,0.0,0.0,88,4.0,8091.0,Paris-Saint-Germain
+,Gonçalo Guedes,pt POR,FW,7,1,1.0,0.0,2016-2017,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Paris-Saint-Germain,143,1.6,0.0,0.0,88,3.0,993.0,Paris-Saint-Germain
+,Giovani Lo Celso,ar ARG,MF,4,1,0.0,0.0,2016-2017,/en/players/d7553721/Giovani-Lo-Celso,d7553721,Paris-Saint-Germain,82,0.9,1.0,0.0,88,5.0,1508.0,Paris-Saint-Germain
+,Lorenzo Callegari,fr FRA,MF,1,0,0.0,0.0,2016-2017,/en/players/f5aa537a/Lorenzo-Callegari,f5aa537a,Paris-Saint-Germain,4,0.0,0.0,0.0,88,4.0,12807.0,Paris-Saint-Germain
+,Fodé Ballo-Touré,sn SEN,DF,0,0,,,2016-2017,/en/players/f449640d/Fode-Ballo-Toure,f449640d,Paris-Saint-Germain,,,,,88,34.0,11471.0,Paris-Saint-Germain
+,Rémy Descamps,fr FRA,GK,0,0,,,2016-2017,/en/players/477e50ce/Remy-Descamps,477e50ce,Paris-Saint-Germain,,,,,88,4.0,12612.0,Paris-Saint-Germain
+,Gaëtan Robail,fr FRA,"FW,MF",0,0,,,2016-2017,/en/players/8361b5d6/Gaetan-Robail,8361b5d6,Paris-Saint-Germain,,,,,88,4.0,12268.0,Paris-Saint-Germain
+,﻿Alphonse Areola,fr FRA,GK,34,34,0.0,0.0,2017-2018,/en/players/2f965a72/Alphonse-Areola,2f965a72,Paris-Saint-Germain,"3,060",34.0,0.0,0.0,88,4.0,167.0,Paris-Saint-Germain
+,Edinson Cavani,uy URU,FW,32,30,6.0,28.0,2017-2018,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,"2,581",28.7,3.0,0.0,88,8.0,5831.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,28,27,0.0,0.0,2017-2018,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,"2,423",26.9,8.0,2.0,88,4.0,12797.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,33,27,5.0,1.0,2017-2018,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,"2,362",26.2,2.0,0.0,88,4.0,12792.0,Paris-Saint-Germain
+,Ángel Di María,ar ARG,FW,30,26,6.0,11.0,2017-2018,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"2,111",23.5,1.0,0.0,88,5.0,91.0,Paris-Saint-Germain
+,Marquinhos,br BRA,DF,26,25,2.0,0.0,2017-2018,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"2,262",25.1,1.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,25,24,0.0,1.0,2017-2018,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"2,115",23.5,5.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,Kylian Mbappé,fr FRA,"FW,MF",27,24,8.0,13.0,2017-2018,/en/players/42fd9c7f/Kylian-Mbappe,42fd9c7f,Paris-Saint-Germain,"2,094",23.3,2.0,0.0,88,4.0,11444.0,Paris-Saint-Germain
+,Dani Alves,br BRA,DF,25,23,7.0,1.0,2017-2018,/en/players/c9e99e49/Dani-Alves,c9e99e49,Paris-Saint-Germain,"2,063",22.9,7.0,1.0,88,2.0,1119.0,Paris-Saint-Germain
+,Neymar,br BRA,"FW,MF",20,20,13.0,19.0,2017-2018,/en/players/69384e5d/Neymar,69384e5d,Paris-Saint-Germain,"1,786",19.8,5.0,1.0,88,2.0,1145.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,22,20,3.0,0.0,2017-2018,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,718",19.1,9.0,1.0,88,9.0,12790.0,Paris-Saint-Germain
+,Yuri Berchiche,es ESP,DF,22,19,4.0,2.0,2017-2018,/en/players/b6e50615/Yuri-Berchiche,b6e50615,Paris-Saint-Germain,"1,716",19.1,4.0,0.0,88,1.0,298.0,Paris-Saint-Germain
+,Julian Draxler,de GER,"MF,FW",30,19,5.0,4.0,2017-2018,/en/players/1a992676/Julian-Draxler,1a992676,Paris-Saint-Germain,"1,704",18.9,1.0,0.0,88,13.0,12805.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,DF,20,19,1.0,2.0,2017-2018,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,"1,704",18.9,1.0,0.0,88,4.0,11395.0,Paris-Saint-Germain
+,Giovani Lo Celso,ar ARG,MF,33,18,3.0,4.0,2017-2018,/en/players/d7553721/Giovani-Lo-Celso,d7553721,Paris-Saint-Germain,"1,776",19.7,2.0,0.0,88,5.0,1508.0,Paris-Saint-Germain
+,Thomas Meunier,be BEL,DF,24,16,4.0,4.0,2017-2018,/en/players/e162b013/Thomas-Meunier,162b013,Paris-Saint-Germain,"1,578",17.5,3.0,0.0,88,27.0,12804.0,Paris-Saint-Germain
+,Javier Pastore,ar ARG,"MF,FW",25,14,5.0,4.0,2017-2018,/en/players/881ef58c/Javier-Pastore,881ef58c,Paris-Saint-Germain,"1,347",15.0,2.0,0.0,88,5.0,5203.0,Paris-Saint-Germain
+,Thiago Motta,it ITA,MF,19,14,1.0,1.0,2017-2018,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Paris-Saint-Germain,"1,154",12.8,3.0,1.0,88,9.0,1057.0,Paris-Saint-Germain
+,Lassana Diarra,fr FRA,MF,10,8,1.0,0.0,2017-2018,/en/players/79584585/Lassana-Diarra,79584585,Paris-Saint-Germain,606,6.7,4.0,0.0,88,4.0,70.0,Paris-Saint-Germain
+,Christopher Nkunku,fr FRA,"FW,MF",20,6,0.0,4.0,2017-2018,/en/players/7c56da38/Christopher-Nkunku,7c56da38,Paris-Saint-Germain,631,7.0,0.0,0.0,88,4.0,12801.0,Paris-Saint-Germain
+,Kevin Trapp,de GER,GK,4,4,0.0,0.0,2017-2018,/en/players/ce17b5eb/Kevin-Trapp,ce17b5eb,Paris-Saint-Germain,360,4.0,0.0,0.0,88,13.0,12800.0,Paris-Saint-Germain
+,Timothy Weah,us USA,FW,3,1,0.0,0.0,2017-2018,/en/players/8eec784d/Timothy-Weah,8eec784d,Paris-Saint-Germain,122,1.4,1.0,0.0,88,75.0,12816.0,Paris-Saint-Germain
+,Lucas Moura,br BRA,FW,5,0,1.0,1.0,2017-2018,/en/players/2b622f01/Lucas-Moura,2b622f01,Paris-Saint-Germain,76,0.8,1.0,0.0,88,2.0,7131.0,Paris-Saint-Germain
+,Blaise Matuidi,fr FRA,MF,2,0,0.0,0.0,2017-2018,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Paris-Saint-Germain,28,0.3,0.0,0.0,88,4.0,12788.0,Paris-Saint-Germain
+,Stanley N'Soki,fr FRA,DF,1,0,0.0,0.0,2017-2018,/en/players/61590953/Stanley-NSoki,61590953,Paris-Saint-Germain,26,0.3,0.0,0.0,88,4.0,12733.0,Paris-Saint-Germain
+,Yacine Adli,fr FRA,FW,1,0,0.0,0.0,2017-2018,/en/players/26777636/Yacine-Adli,26777636,Paris-Saint-Germain,8,0.1,0.0,0.0,88,4.0,11750.0,Paris-Saint-Germain
+,Kévin Rimane,gf GUF,DF,1,0,0.0,0.0,2017-2018,/en/players/7a137df4/Kevin-Rimane,7a137df4,Paris-Saint-Germain,7,0.1,0.0,0.0,88,159.0,12803.0,Paris-Saint-Germain
+,Gonçalo Guedes,pt POR,FW,1,0,0.0,0.0,2017-2018,/en/players/e6bc67d7/Goncalo-Guedes,6bc67d7,Paris-Saint-Germain,5,0.1,0.0,0.0,88,3.0,993.0,Paris-Saint-Germain
+,Antoine Bernede,fr FRA,MF,0,0,,,2017-2018,/en/players/07a821e4/Antoine-Bernede,07a821e4,Paris-Saint-Germain,,,,,88,4.0,12808.0,Paris-Saint-Germain
+,Lorenzo Callegari,fr FRA,MF,0,0,,,2017-2018,/en/players/f5aa537a/Lorenzo-Callegari,f5aa537a,Paris-Saint-Germain,,,,,88,4.0,12807.0,Paris-Saint-Germain
+,Sébastien Cibois,fr FRA,GK,0,0,,,2017-2018,/en/players/2b9b37b2/Sebastien-Cibois,2b9b37b2,Paris-Saint-Germain,,,,,88,4.0,12809.0,Paris-Saint-Germain
+,Rémy Descamps,fr FRA,GK,0,0,,,2017-2018,/en/players/477e50ce/Remy-Descamps,477e50ce,Paris-Saint-Germain,,,,,88,4.0,12612.0,Paris-Saint-Germain
+,Alec Georgen,fr FRA,DF,0,0,,,2017-2018,/en/players/99295490/Alec-Georgen,99295490,Paris-Saint-Germain,,,,,88,4.0,12131.0,Paris-Saint-Germain
+,﻿Marquinhos,br BRA,"DF,MF",30,30,2.0,3.0,2018-2019,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"2,693",29.9,2.0,1.0,88,2.0,12795.0,Paris-Saint-Germain
+,Ángel Di María,ar ARG,"MF,FW",30,28,11.0,12.0,2018-2019,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"2,324",25.8,2.0,0.0,88,5.0,91.0,Paris-Saint-Germain
+,Kylian Mbappé,fr FRA,"FW,MF",29,24,7.0,33.0,2018-2019,/en/players/42fd9c7f/Kylian-Mbappe,42fd9c7f,Paris-Saint-Germain,"2,343",26.0,5.0,1.0,88,4.0,11444.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,25,24,1.0,0.0,2018-2019,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"2,077",23.1,4.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,24,23,1.0,0.0,2018-2019,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,"2,005",22.3,4.0,1.0,88,4.0,12797.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,26,23,2.0,0.0,2018-2019,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,879",20.9,7.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Julian Draxler,de GER,MF,31,22,7.0,3.0,2018-2019,/en/players/1a992676/Julian-Draxler,1a992676,Paris-Saint-Germain,"2,046",22.7,6.0,0.0,88,13.0,12805.0,Paris-Saint-Germain
+,Alphonse Areola,fr FRA,GK,21,21,0.0,0.0,2018-2019,/en/players/2f965a72/Alphonse-Areola,2f965a72,Paris-Saint-Germain,"1,890",21.0,1.0,0.0,88,4.0,167.0,Paris-Saint-Germain
+,Juan Bernat,es ESP,"DF,MF",25,21,2.0,1.0,2018-2019,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Paris-Saint-Germain,"1,836",20.4,6.0,1.0,88,1.0,943.0,Paris-Saint-Germain
+,Edinson Cavani,uy URU,FW,21,20,5.0,18.0,2018-2019,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,"1,671",18.6,1.0,0.0,88,8.0,5831.0,Paris-Saint-Germain
+,Thilo Kehrer,de GER,DF,27,19,2.0,1.0,2018-2019,/en/players/51dbeea9/Thilo-Kehrer,51dbeea9,Paris-Saint-Germain,"1,902",21.1,4.0,0.0,88,13.0,12810.0,Paris-Saint-Germain
+,Dani Alves,br BRA,"MF,DF",23,19,7.0,1.0,2018-2019,/en/players/c9e99e49/Dani-Alves,c9e99e49,Paris-Saint-Germain,"1,622",18.0,4.0,0.0,88,2.0,1119.0,Paris-Saint-Germain
+,Thomas Meunier,be BEL,DF,22,19,3.0,3.0,2018-2019,/en/players/e162b013/Thomas-Meunier,162b013,Paris-Saint-Germain,"1,610",17.9,2.0,0.0,88,27.0,12804.0,Paris-Saint-Germain
+,Gianluigi Buffon,it ITA,GK,17,17,0.0,0.0,2018-2019,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Paris-Saint-Germain,"1,530",17.0,0.0,0.0,88,9.0,12811.0,Paris-Saint-Germain
+,Neymar,br BRA,"MF,FW",17,16,7.0,15.0,2018-2019,/en/players/69384e5d/Neymar,69384e5d,Paris-Saint-Germain,"1,439",16.0,2.0,0.0,88,2.0,1145.0,Paris-Saint-Germain
+,Leandro Paredes,ar ARG,MF,16,14,2.0,0.0,2018-2019,/en/players/dff153a4/Leandro-Paredes,dff153a4,Paris-Saint-Germain,"1,249",13.9,1.0,0.0,88,5.0,12812.0,Paris-Saint-Germain
+,Christopher Nkunku,fr FRA,"MF,FW",22,13,2.0,3.0,2018-2019,/en/players/7c56da38/Christopher-Nkunku,7c56da38,Paris-Saint-Germain,"1,156",12.8,0.0,0.0,88,4.0,12801.0,Paris-Saint-Germain
+,Adrien Rabiot,fr FRA,MF,14,12,1.0,2.0,2018-2019,/en/players/8794e251/Adrien-Rabiot,8794e251,Paris-Saint-Germain,"1,063",11.8,3.0,0.0,88,4.0,12792.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,"DF,MF",19,11,2.0,1.0,2018-2019,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,"1,010",11.2,4.0,0.0,88,4.0,11395.0,Paris-Saint-Germain
+,Moussa Diaby,fr FRA,"MF,DF",25,10,6.0,2.0,2018-2019,/en/players/aeed5c06/Moussa-Diaby,d5c06,Paris-Saint-Germain,"1,141",12.7,1.0,0.0,88,4.0,12813.0,Paris-Saint-Germain
+,Colin Dagba,fr FRA,"DF,MF",17,9,2.0,0.0,2018-2019,/en/players/29c02c9f/Colin-Dagba,29c02c9f,Paris-Saint-Germain,918,10.2,2.0,0.0,88,4.0,12814.0,Paris-Saint-Germain
+,Eric Maxim Choupo-Moting,cm CMR,FW,22,8,0.0,3.0,2018-2019,/en/players/0e6bc38c/Eric-Maxim-Choupo-Moting,0e6bc38c,Paris-Saint-Germain,802,8.9,0.0,0.0,88,36.0,10121.0,Paris-Saint-Germain
+,Stanley N'Soki,fr FRA,DF,12,8,0.0,0.0,2018-2019,/en/players/61590953/Stanley-NSoki,61590953,Paris-Saint-Germain,698,7.8,2.0,0.0,88,4.0,12733.0,Paris-Saint-Germain
+,Loïc Mbe Soh,fr FRA,DF,2,2,0.0,0.0,2018-2019,/en/players/8f534f8e/Loic-Mbe-Soh,8f534f8e,Paris-Saint-Germain,180,2.0,0.0,0.0,88,4.0,12815.0,Paris-Saint-Germain
+,Antoine Bernede,fr FRA,MF,2,2,0.0,0.0,2018-2019,/en/players/07a821e4/Antoine-Bernede,07a821e4,Paris-Saint-Germain,169,1.9,0.0,0.0,88,4.0,12808.0,Paris-Saint-Germain
+,Lassana Diarra,fr FRA,MF,3,2,0.0,0.0,2018-2019,/en/players/79584585/Lassana-Diarra,79584585,Paris-Saint-Germain,159,1.8,0.0,0.0,88,4.0,70.0,Paris-Saint-Germain
+,Timothy Weah,us USA,FW,2,1,0.0,1.0,2018-2019,/en/players/8eec784d/Timothy-Weah,8eec784d,Paris-Saint-Germain,54,0.6,1.0,0.0,88,75.0,12816.0,Paris-Saint-Germain
+,Metehan Güçlü,tr TUR,MF,1,0,0.0,1.0,2018-2019,/en/players/0ee664db/Metehan-Guclu,0ee664db,Paris-Saint-Germain,17,0.2,0.0,0.0,88,15.0,12817.0,Paris-Saint-Germain
+,Giovani Lo Celso,ar ARG,MF,1,0,0.0,0.0,2018-2019,/en/players/d7553721/Giovani-Lo-Celso,d7553721,Paris-Saint-Germain,11,0.1,0.0,0.0,88,5.0,1508.0,Paris-Saint-Germain
+,Kévin Rimane,gf GUF,MF,1,0,0.0,0.0,2018-2019,/en/players/7a137df4/Kevin-Rimane,7a137df4,Paris-Saint-Germain,5,0.1,0.0,0.0,88,159.0,12803.0,Paris-Saint-Germain
+,Sébastien Cibois,fr FRA,GK,0,0,,,2018-2019,/en/players/2b9b37b2/Sebastien-Cibois,2b9b37b2,Paris-Saint-Germain,,,,,88,4.0,12809.0,Paris-Saint-Germain
+,Junior Dina Ebimbe,fr FRA,MF,0,0,,,2018-2019,/en/players/95bb6ddc/Junior-Dina-Ebimbe,95bb6ddc,Paris-Saint-Germain,,,,,88,4.0,12818.0,Paris-Saint-Germain
+,Isaac Hemans Arday,gh GHA,DF,0,0,,,2018-2019,/en/players/a3a88c8e/Isaac-Hemans-Arday,3a88c8e,Paris-Saint-Germain,,,,,88,17.0,12819.0,Paris-Saint-Germain
+,Azzeddine Toufiqui,fr FRA,MF,0,0,,,2018-2019,/en/players/2c55fadb/Azzeddine-Toufiqui,2c55fadb,Paris-Saint-Germain,,,,,88,4.0,12820.0,Paris-Saint-Germain
+,Kevin Trapp,de GER,GK,0,0,,,2018-2019,/en/players/ce17b5eb/Kevin-Trapp,ce17b5eb,Paris-Saint-Germain,,,,,88,13.0,12800.0,Paris-Saint-Germain
+,Arthur Zagre,fr FRA,DF,0,0,,,2018-2019,/en/players/3225654e/Arthur-Zagre,3225654e,Paris-Saint-Germain,,,,,88,4.0,11492.0,Paris-Saint-Germain
+,﻿Ángel Di María,ar ARG,"MF,FW",26,23,14.0,8.0,2019-2020,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"2,000",22.2,2.0,0.0,88,5.0,91.0,Paris-Saint-Germain
+,Keylor Navas,cr CRC,GK,21,21,0.0,0.0,2019-2020,/en/players/ecada4fc/Keylor-Navas,cada4fc,Paris-Saint-Germain,"1,890",21.0,0.0,0.0,88,22.0,132.0,Paris-Saint-Germain
+,Thiago Silva,br BRA,DF,21,20,0.0,0.0,2019-2020,/en/players/86e7deaf/Thiago-Silva,86e7deaf,Paris-Saint-Germain,"1,571",17.5,1.0,0.0,88,2.0,6251.0,Paris-Saint-Germain
+,Idrissa Gana Gueye,sn SEN,MF,20,19,2.0,1.0,2019-2020,/en/players/72c812f3/Idrissa-Gana-Gueye,72c812f3,Paris-Saint-Germain,"1,653",18.4,2.0,0.0,88,34.0,6697.0,Paris-Saint-Germain
+,Kylian Mbappé,fr FRA,FW,20,17,5.0,18.0,2019-2020,/en/players/42fd9c7f/Kylian-Mbappe,42fd9c7f,Paris-Saint-Germain,"1,513",16.8,0.0,0.0,88,4.0,11444.0,Paris-Saint-Germain
+,Juan Bernat,es ESP,"DF,MF",18,16,4.0,0.0,2019-2020,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Paris-Saint-Germain,"1,388",15.4,5.0,0.0,88,1.0,943.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,20,15,5.0,0.0,2019-2020,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,482",16.5,6.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Marquinhos,br BRA,"MF,DF",19,15,1.0,3.0,2019-2020,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"1,476",16.4,1.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Neymar,br BRA,"MF,FW",15,15,6.0,13.0,2019-2020,/en/players/69384e5d/Neymar,69384e5d,Paris-Saint-Germain,"1,318",14.6,4.0,1.0,88,2.0,1145.0,Paris-Saint-Germain
+,Mauro Icardi,ar ARG,FW,20,14,2.0,12.0,2019-2020,/en/players/43b78598/Mauro-Icardi,43b78598,Paris-Saint-Germain,"1,267",14.1,0.0,0.0,88,5.0,12821.0,Paris-Saint-Germain
+,Thomas Meunier,be BEL,DF,16,14,1.0,0.0,2019-2020,/en/players/e162b013/Thomas-Meunier,162b013,Paris-Saint-Germain,"1,242",13.8,3.0,0.0,88,27.0,12804.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,16,14,0.0,0.0,2019-2020,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,"1,225",13.6,6.0,0.0,88,4.0,12797.0,Paris-Saint-Germain
+,Abdou Diallo,sn SEN,DF,16,14,1.0,0.0,2019-2020,/en/players/fc62f087/Abdou-Diallo,fc62f087,Paris-Saint-Germain,"1,201",13.3,4.0,0.0,88,34.0,11436.0,Paris-Saint-Germain
+,Pablo Sarabia,es ESP,"MF,FW",21,13,3.0,4.0,2019-2020,/en/players/9744ff80/Pablo-Sarabia,9744ff80,Paris-Saint-Germain,"1,164",12.9,1.0,0.0,88,1.0,1909.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,DF,14,9,0.0,1.0,2019-2020,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,858,9.5,4.0,0.0,88,4.0,11395.0,Paris-Saint-Germain
+,Leandro Paredes,ar ARG,MF,17,8,0.0,0.0,2019-2020,/en/players/dff153a4/Leandro-Paredes,dff153a4,Paris-Saint-Germain,814,9.0,2.0,0.0,88,5.0,12812.0,Paris-Saint-Germain
+,Julian Draxler,de GER,MF,11,7,4.0,0.0,2019-2020,/en/players/1a992676/Julian-Draxler,1a992676,Paris-Saint-Germain,686,7.6,5.0,0.0,88,13.0,12805.0,Paris-Saint-Germain
+,Colin Dagba,fr FRA,DF,10,7,0.0,0.0,2019-2020,/en/players/29c02c9f/Colin-Dagba,29c02c9f,Paris-Saint-Germain,668,7.4,1.0,0.0,88,4.0,12814.0,Paris-Saint-Germain
+,Edinson Cavani,uy URU,FW,14,7,1.0,4.0,2019-2020,/en/players/527f063d/Edinson-Cavani,527f063d,Paris-Saint-Germain,605,6.7,2.0,0.0,88,8.0,5831.0,Paris-Saint-Germain
+,Ander Herrera,es ESP,"MF,DF",8,6,1.0,1.0,2019-2020,/en/players/436a9dd0/Ander-Herrera,436a9dd0,Paris-Saint-Germain,547,6.1,0.0,0.0,88,1.0,1297.0,Paris-Saint-Germain
+,Thilo Kehrer,de GER,DF,7,5,0.0,1.0,2019-2020,/en/players/51dbeea9/Thilo-Kehrer,51dbeea9,Paris-Saint-Germain,480,5.3,0.0,0.0,88,13.0,12810.0,Paris-Saint-Germain
+,Eric Maxim Choupo-Moting,cm CMR,"FW,MF",9,5,1.0,3.0,2019-2020,/en/players/0e6bc38c/Eric-Maxim-Choupo-Moting,0e6bc38c,Paris-Saint-Germain,451,5.0,0.0,0.0,88,36.0,10121.0,Paris-Saint-Germain
+,Tanguy Nianzou,fr FRA,"DF,MF",6,4,0.0,2.0,2019-2020,/en/players/5853ac44/Tanguy-Nianzou,5853ac44,Paris-Saint-Germain,452,5.0,1.0,0.0,88,4.0,12822.0,Paris-Saint-Germain
+,Alphonse Areola,fr FRA,GK,3,3,0.0,0.0,2019-2020,/en/players/2f965a72/Alphonse-Areola,2f965a72,Paris-Saint-Germain,270,3.0,0.0,0.0,88,4.0,167.0,Paris-Saint-Germain
+,Sergio Rico,es ESP,GK,2,2,0.0,0.0,2019-2020,/en/players/5f0241b2/Sergio-Rico,5f0241b2,Paris-Saint-Germain,180,2.0,0.0,0.0,88,1.0,1764.0,Paris-Saint-Germain
+,Mitchel Bakker,nl NED,DF,1,1,0.0,0.0,2019-2020,/en/players/a8567629/Mitchel-Bakker,8567629,Paris-Saint-Germain,90,1.0,1.0,0.0,88,11.0,12823.0,Paris-Saint-Germain
+,Marcin Bułka,pl POL,GK,1,1,0.0,0.0,2019-2020,/en/players/db87a2c4/Marcin-Bulka,db87a2c4,Paris-Saint-Germain,90,1.0,0.0,0.0,88,14.0,12755.0,Paris-Saint-Germain
+,Adil Aouchiche,fr FRA,MF,1,1,0.0,0.0,2019-2020,/en/players/b94b8be1/Adil-Aouchiche,b94b8be1,Paris-Saint-Germain,64,0.7,0.0,0.0,88,4.0,12824.0,Paris-Saint-Germain
+,Loïc Mbe Soh,fr FRA,DF,1,1,0.0,0.0,2019-2020,/en/players/8f534f8e/Loic-Mbe-Soh,8f534f8e,Paris-Saint-Germain,58,0.6,0.0,0.0,88,4.0,12815.0,Paris-Saint-Germain
+,Arthur Zagre,fr FRA,MF,1,0,0.0,0.0,2019-2020,/en/players/3225654e/Arthur-Zagre,3225654e,Paris-Saint-Germain,25,0.3,0.0,0.0,88,4.0,11492.0,Paris-Saint-Germain
+,Jesé,es ESP,FW,1,0,0.0,0.0,2019-2020,/en/players/4a537185/Jese,4a537185,Paris-Saint-Germain,1,0.0,0.0,0.0,88,1.0,108.0,Paris-Saint-Germain
+,Garissone Innocent,ht HAI,GK,0,0,,,2019-2020,/en/players/3e6f30a9/Garissone-Innocent,3e6f30a9,Paris-Saint-Germain,,,,,88,47.0,12825.0,Paris-Saint-Germain
+,Arnaud Kalimuendo,fr FRA,FW,0,0,,,2019-2020,/en/players/bf4c41f9/Arnaud-Kalimuendo,bf4c41f9,Paris-Saint-Germain,,,,,88,4.0,12439.0,Paris-Saint-Germain
+,﻿Keylor Navas,cr CRC,GK,29,29,0.0,0.0,2020-2021,/en/players/ecada4fc/Keylor-Navas,cada4fc,Paris-Saint-Germain,"2,520",28.0,0.0,0.0,88,22.0,132.0,Paris-Saint-Germain
+,Kylian Mbappé,fr FRA,"FW,MF",31,27,7.0,27.0,2020-2021,/en/players/42fd9c7f/Kylian-Mbappe,42fd9c7f,Paris-Saint-Germain,"2,380",26.4,5.0,0.0,88,4.0,11444.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,28,26,0.0,0.0,2020-2021,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,"2,303",25.6,6.0,1.0,88,4.0,12797.0,Paris-Saint-Germain
+,Marquinhos,br BRA,DF,25,24,1.0,3.0,2020-2021,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"2,128",23.6,2.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Ángel Di María,ar ARG,"MF,FW",27,23,9.0,4.0,2020-2021,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"1,853",20.6,1.0,0.0,88,5.0,91.0,Paris-Saint-Germain
+,Moise Kean,it ITA,FW,26,22,0.0,13.0,2020-2021,/en/players/3d50bcdb/Moise-Kean,3d50bcdb,Paris-Saint-Germain,"1,698",18.9,4.0,0.0,88,9.0,6716.0,Paris-Saint-Germain
+,Idrissa Gana Gueye,sn SEN,MF,28,20,1.0,2.0,2020-2021,/en/players/72c812f3/Idrissa-Gana-Gueye,72c812f3,Paris-Saint-Germain,"1,581",17.6,3.0,0.0,88,34.0,6697.0,Paris-Saint-Germain
+,Ander Herrera,es ESP,MF,31,18,3.0,1.0,2020-2021,/en/players/436a9dd0/Ander-Herrera,436a9dd0,Paris-Saint-Germain,"1,851",20.6,6.0,0.0,88,1.0,1297.0,Paris-Saint-Germain
+,Mitchel Bakker,nl NED,DF,26,18,2.0,0.0,2020-2021,/en/players/a8567629/Mitchel-Bakker,8567629,Paris-Saint-Germain,"1,694",18.8,1.0,0.0,88,11.0,12823.0,Paris-Saint-Germain
+,Alessandro Florenzi,it ITA,DF,21,18,1.0,2.0,2020-2021,/en/players/e288d4b3/Alessandro-Florenzi,288d4b3,Paris-Saint-Germain,"1,538",17.1,1.0,0.0,88,9.0,1012.0,Paris-Saint-Germain
+,Abdou Diallo,sn SEN,DF,22,17,1.0,0.0,2020-2021,/en/players/fc62f087/Abdou-Diallo,fc62f087,Paris-Saint-Germain,"1,490",16.6,3.0,2.0,88,34.0,11436.0,Paris-Saint-Germain
+,Thilo Kehrer,de GER,DF,24,16,0.0,0.0,2020-2021,/en/players/51dbeea9/Thilo-Kehrer,51dbeea9,Paris-Saint-Germain,"1,616",18.0,3.0,0.0,88,13.0,12810.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,21,16,2.0,0.0,2020-2021,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,492",16.6,7.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Danilo Pereira,pt POR,"MF,DF",23,16,1.0,2.0,2020-2021,/en/players/8fd9996f/Danilo-Pereira,8fd9996f,Paris-Saint-Germain,"1,430",15.9,3.0,0.0,88,3.0,12826.0,Paris-Saint-Germain
+,Leandro Paredes,ar ARG,MF,21,16,2.0,1.0,2020-2021,/en/players/dff153a4/Leandro-Paredes,dff153a4,Paris-Saint-Germain,"1,302",14.5,7.0,1.0,88,5.0,12812.0,Paris-Saint-Germain
+,Neymar,br BRA,"MF,FW",18,15,5.0,9.0,2020-2021,/en/players/69384e5d/Neymar,69384e5d,Paris-Saint-Germain,"1,415",15.7,7.0,2.0,88,2.0,1145.0,Paris-Saint-Germain
+,Rafinha,br BRA,"MF,FW",23,15,4.0,0.0,2020-2021,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Paris-Saint-Germain,"1,361",15.1,2.0,0.0,88,2.0,355.0,Paris-Saint-Germain
+,Colin Dagba,fr FRA,DF,25,15,2.0,1.0,2020-2021,/en/players/29c02c9f/Colin-Dagba,29c02c9f,Paris-Saint-Germain,"1,357",15.1,3.0,0.0,88,4.0,12814.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,DF,19,15,1.0,1.0,2020-2021,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,"1,278",14.2,4.0,1.0,88,4.0,11395.0,Paris-Saint-Germain
+,Pablo Sarabia,es ESP,"FW,MF",27,13,4.0,6.0,2020-2021,/en/players/9744ff80/Pablo-Sarabia,9744ff80,Paris-Saint-Germain,"1,320",14.7,2.0,0.0,88,1.0,1909.0,Paris-Saint-Germain
+,Julian Draxler,de GER,"MF,FW",24,12,3.0,4.0,2020-2021,/en/players/1a992676/Julian-Draxler,1a992676,Paris-Saint-Germain,"1,064",11.8,3.0,0.0,88,13.0,12805.0,Paris-Saint-Germain
+,Mauro Icardi,ar ARG,FW,20,11,3.0,7.0,2020-2021,/en/players/43b78598/Mauro-Icardi,43b78598,Paris-Saint-Germain,"1,079",12.0,1.0,0.0,88,5.0,12821.0,Paris-Saint-Germain
+,Sergio Rico,es ESP,GK,10,8,0.0,0.0,2020-2021,/en/players/5f0241b2/Sergio-Rico,5f0241b2,Paris-Saint-Germain,810,9.0,0.0,0.0,88,1.0,1764.0,Paris-Saint-Germain
+,Timothee Pembele,fr FRA,DF,6,3,0.0,1.0,2020-2021,/en/players/f8ce97ca/Timothee-Pembele,f8ce97ca,Paris-Saint-Germain,383,4.3,1.0,0.0,88,4.0,11774.0,Paris-Saint-Germain
+,Juan Bernat,es ESP,DF,3,2,0.0,0.0,2020-2021,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Paris-Saint-Germain,194,2.2,2.0,0.0,88,1.0,943.0,Paris-Saint-Germain
+,Kays Ruiz,ma MAR,"FW,MF",7,1,0.0,0.0,2020-2021,/en/players/90a9cc01/Kays-Ruiz,90a9cc01,Paris-Saint-Germain,186,2.1,1.0,0.0,88,26.0,12827.0,Paris-Saint-Germain
+,Marcin Bułka,pl POL,GK,1,1,0.0,0.0,2020-2021,/en/players/db87a2c4/Marcin-Bulka,db87a2c4,Paris-Saint-Germain,90,1.0,0.0,0.0,88,14.0,12755.0,Paris-Saint-Germain
+,Arnaud Kalimuendo,fr FRA,FW,1,1,0.0,0.0,2020-2021,/en/players/bf4c41f9/Arnaud-Kalimuendo,bf4c41f9,Paris-Saint-Germain,73,0.8,0.0,0.0,88,4.0,12439.0,Paris-Saint-Germain
+,Bandiougou Fadiga,fr FRA,"FW,MF",6,0,0.0,0.0,2020-2021,/en/players/45bb4303/Bandiougou-Fadiga,45bb4303,Paris-Saint-Germain,63,0.7,1.0,0.0,88,4.0,12828.0,Paris-Saint-Germain
+,Jesé,es ESP,FW,2,0,0.0,0.0,2020-2021,/en/players/4a537185/Jese,4a537185,Paris-Saint-Germain,24,0.3,0.0,0.0,88,1.0,108.0,Paris-Saint-Germain
+,Edouard Michut,fr FRA,MF,1,0,0.0,0.0,2020-2021,/en/players/fe6c1add/Edouard-Michut,fe6c1add,Paris-Saint-Germain,2,0.0,0.0,0.0,88,4.0,12829.0,Paris-Saint-Germain
+,Kenny Nagera,fr FRA,MF,1,0,0.0,0.0,2020-2021,/en/players/833ce5f0/Kenny-Nagera,833ce5f0,Paris-Saint-Germain,2,0.0,0.0,0.0,88,4.0,12830.0,Paris-Saint-Germain
+,Xavi Simons,nl NED,MF,1,0,0.0,0.0,2020-2021,/en/players/da4d670f/Xavi-Simons,da4d670f,Paris-Saint-Germain,2,0.0,0.0,0.0,88,11.0,12831.0,Paris-Saint-Germain
+,Denis Franchi,it ITA,GK,0,0,,,2020-2021,/en/players/aab362e6/Denis-Franchi,b362e6,Paris-Saint-Germain,,,,,88,9.0,12842.0,Paris-Saint-Germain
+,Garissone Innocent,ht HAI,GK,0,0,,,2020-2021,/en/players/3e6f30a9/Garissone-Innocent,3e6f30a9,Paris-Saint-Germain,,,,,88,47.0,12825.0,Paris-Saint-Germain
+,Maxen Kapo,fr FRA,MF,0,0,,,2020-2021,/en/players/0d35ee49/Maxen-Kapo,0d35ee49,Paris-Saint-Germain,,,,,88,4.0,12832.0,Paris-Saint-Germain
+,Alexandre Letellier,fr FRA,GK,0,0,,,2020-2021,/en/players/96fcd380/Alexandre-Letellier,96fcd380,Paris-Saint-Germain,,,,,88,4.0,12833.0,Paris-Saint-Germain
+,Mathyas Randriamamy,mg MAD,GK,0,0,,,2020-2021,/en/players/060faf9d/Mathyas-Randriamamy,060faf9d,Paris-Saint-Germain,,,,,88,155.0,12834.0,Paris-Saint-Germain
+,﻿Kylian Mbappé,fr FRA,FW,35,34,17.0,28.0,2021-2022,/en/players/42fd9c7f/Kylian-Mbappe,42fd9c7f,Paris-Saint-Germain,"3,023",33.6,10.0,0.0,88,4.0,11444.0,Paris-Saint-Germain
+,Marquinhos,br BRA,DF,32,32,0.0,5.0,2021-2022,/en/players/d5f2f82b/Marquinhos,d5f2f82b,Paris-Saint-Germain,"2,861",31.8,5.0,0.0,88,2.0,12795.0,Paris-Saint-Germain
+,Presnel Kimpembe,fr FRA,DF,30,29,0.0,1.0,2021-2022,/en/players/aef6e670/Presnel-Kimpembe,f6e670,Paris-Saint-Germain,"2,576",28.6,6.0,0.0,88,4.0,12797.0,Paris-Saint-Germain
+,Achraf Hakimi,ma MAR,DF,32,28,6.0,4.0,2021-2022,/en/players/e42d61c7/Achraf-Hakimi,42d61c7,Paris-Saint-Germain,"2,479",27.5,3.0,1.0,88,26.0,145.0,Paris-Saint-Germain
+,Lionel Messi,ar ARG,"FW,MF",26,24,14.0,6.0,2021-2022,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Paris-Saint-Germain,"2,153",23.9,0.0,0.0,88,5.0,1094.0,Paris-Saint-Germain
+,Marco Verratti,it ITA,MF,24,23,2.0,2.0,2021-2022,/en/players/1467af0d/Marco-Verratti,1467af0d,Paris-Saint-Germain,"1,937",21.5,12.0,0.0,88,9.0,12790.0,Paris-Saint-Germain
+,Danilo Pereira,pt POR,MF,27,22,0.0,5.0,2021-2022,/en/players/8fd9996f/Danilo-Pereira,8fd9996f,Paris-Saint-Germain,"2,038",22.6,2.0,0.0,88,3.0,12826.0,Paris-Saint-Germain
+,Neymar,br BRA,"FW,MF",22,22,6.0,13.0,2021-2022,/en/players/69384e5d/Neymar,69384e5d,Paris-Saint-Germain,"1,851",20.6,10.0,0.0,88,2.0,1145.0,Paris-Saint-Germain
+,Keylor Navas,cr CRC,GK,21,21,0.0,0.0,2021-2022,/en/players/ecada4fc/Keylor-Navas,cada4fc,Paris-Saint-Germain,"1,856",20.6,0.0,1.0,88,22.0,132.0,Paris-Saint-Germain
+,Ángel Di María,ar ARG,"FW,MF",26,19,7.0,5.0,2021-2022,/en/players/19cda00b/Angel-Di-Maria,19cda00b,Paris-Saint-Germain,"1,645",18.3,2.0,0.0,88,5.0,91.0,Paris-Saint-Germain
+,Nuno Mendes,pt POR,DF,27,18,1.0,0.0,2021-2022,/en/players/f20e4cc9/Nuno-Mendes,f20e4cc9,Paris-Saint-Germain,"1,658",18.4,3.0,0.0,88,3.0,12835.0,Paris-Saint-Germain
+,Georginio Wijnaldum,nl NED,MF,31,18,3.0,1.0,2021-2022,/en/players/eb58eef0/Georginio-Wijnaldum,b58eef0,Paris-Saint-Germain,"1,653",18.4,2.0,0.0,88,11.0,6076.0,Paris-Saint-Germain
+,Idrissa Gana Gueye,sn SEN,MF,26,18,1.0,3.0,2021-2022,/en/players/72c812f3/Idrissa-Gana-Gueye,72c812f3,Paris-Saint-Germain,"1,641",18.2,4.0,0.0,88,34.0,6697.0,Paris-Saint-Germain
+,Gianluigi Donnarumma,it ITA,GK,17,17,0.0,0.0,2021-2022,/en/players/08f5afaa/Gianluigi-Donnarumma,08f5afaa,Paris-Saint-Germain,"1,530",17.0,3.0,0.0,88,9.0,12836.0,Paris-Saint-Germain
+,Thilo Kehrer,de GER,DF,27,16,0.0,2.0,2021-2022,/en/players/51dbeea9/Thilo-Kehrer,51dbeea9,Paris-Saint-Germain,"1,513",16.8,0.0,0.0,88,13.0,12810.0,Paris-Saint-Germain
+,Ander Herrera,es ESP,MF,19,12,2.0,3.0,2021-2022,/en/players/436a9dd0/Ander-Herrera,436a9dd0,Paris-Saint-Germain,"1,091",12.1,2.0,0.0,88,1.0,1297.0,Paris-Saint-Germain
+,Juan Bernat,es ESP,"DF,MF",15,12,0.0,0.0,2021-2022,/en/players/433dc9a2/Juan-Bernat,433dc9a2,Paris-Saint-Germain,958,10.6,2.0,0.0,88,1.0,943.0,Paris-Saint-Germain
+,Mauro Icardi,ar ARG,FW,24,10,0.0,4.0,2021-2022,/en/players/43b78598/Mauro-Icardi,43b78598,Paris-Saint-Germain,"1,027",11.4,1.0,0.0,88,5.0,12821.0,Paris-Saint-Germain
+,Abdou Diallo,sn SEN,DF,12,10,1.0,0.0,2021-2022,/en/players/fc62f087/Abdou-Diallo,fc62f087,Paris-Saint-Germain,877,9.7,1.0,0.0,88,34.0,11436.0,Paris-Saint-Germain
+,Leandro Paredes,ar ARG,MF,15,10,2.0,1.0,2021-2022,/en/players/dff153a4/Leandro-Paredes,dff153a4,Paris-Saint-Germain,838,9.3,3.0,0.0,88,5.0,12812.0,Paris-Saint-Germain
+,Sergio Ramos,es ESP,DF,12,8,0.0,2.0,2021-2022,/en/players/08511d65/Sergio-Ramos,08511d65,Paris-Saint-Germain,801,8.9,3.0,1.0,88,1.0,38.0,Paris-Saint-Germain
+,Julian Draxler,de GER,"FW,MF",18,5,1.0,2.0,2021-2022,/en/players/1a992676/Julian-Draxler,1a992676,Paris-Saint-Germain,548,6.1,0.0,0.0,88,13.0,12805.0,Paris-Saint-Germain
+,Junior Dina Ebimbe,fr FRA,MF,10,4,0.0,0.0,2021-2022,/en/players/95bb6ddc/Junior-Dina-Ebimbe,95bb6ddc,Paris-Saint-Germain,316,3.5,2.0,0.0,88,4.0,12818.0,Paris-Saint-Germain
+,Rafinha,br BRA,"FW,MF",5,3,0.0,0.0,2021-2022,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Paris-Saint-Germain,220,2.4,0.0,0.0,88,2.0,355.0,Paris-Saint-Germain
+,Colin Dagba,fr FRA,DF,3,2,0.0,0.0,2021-2022,/en/players/29c02c9f/Colin-Dagba,29c02c9f,Paris-Saint-Germain,165,1.8,1.0,0.0,88,4.0,12814.0,Paris-Saint-Germain
+,Xavi Simons,nl NED,"MF,FW",6,1,0.0,0.0,2021-2022,/en/players/da4d670f/Xavi-Simons,da4d670f,Paris-Saint-Germain,132,1.5,1.0,0.0,88,11.0,12831.0,Paris-Saint-Germain
+,Edouard Michut,fr FRA,MF,5,0,1.0,0.0,2021-2022,/en/players/fe6c1add/Edouard-Michut,fe6c1add,Paris-Saint-Germain,70,0.8,0.0,1.0,88,4.0,12829.0,Paris-Saint-Germain
+,Sergio Rico,es ESP,GK,1,0,0.0,0.0,2021-2022,/en/players/5f0241b2/Sergio-Rico,5f0241b2,Paris-Saint-Germain,23,0.3,0.0,0.0,88,1.0,1764.0,Paris-Saint-Germain
+,Pablo Sarabia,es ESP,FW,2,0,0.0,1.0,2021-2022,/en/players/9744ff80/Pablo-Sarabia,9744ff80,Paris-Saint-Germain,22,0.2,1.0,0.0,88,1.0,1909.0,Paris-Saint-Germain
+,Sekou Yansané,gn GUI,FW,1,0,0.0,0.0,2021-2022,/en/players/bce37ac0/Sekou-Yansane,bce37ac0,Paris-Saint-Germain,16,0.2,0.0,0.0,88,74.0,12837.0,Paris-Saint-Germain
+,Nathan Bitu Mazala,fr FRA,DF,1,0,0.0,0.0,2021-2022,/en/players/0f697e02/Nathan-Bitu-Mazala,0f697e02,Paris-Saint-Germain,11,0.1,0.0,0.0,88,4.0,12838.0,Paris-Saint-Germain
+,Arnaud Kalimuendo,fr FRA,FW,2,0,0.0,0.0,2021-2022,/en/players/bf4c41f9/Arnaud-Kalimuendo,bf4c41f9,Paris-Saint-Germain,8,0.1,0.0,0.0,88,4.0,12439.0,Paris-Saint-Germain
+,Alexandre Letellier,fr FRA,GK,1,0,0.0,0.0,2021-2022,/en/players/96fcd380/Alexandre-Letellier,96fcd380,Paris-Saint-Germain,8,0.1,0.0,0.0,88,4.0,12833.0,Paris-Saint-Germain
+,El Chadaille Bitshiabu,fr FRA,DF,1,0,0.0,0.0,2021-2022,/en/players/2180c761/El-Chadaille-Bitshiabu,2180c761,Paris-Saint-Germain,5,0.1,0.0,0.0,88,4.0,12839.0,Paris-Saint-Germain
+,Djeidi Gassama,fr FRA,FW,1,0,0.0,0.0,2021-2022,/en/players/bbdb2789/Djeidi-Gassama,bbdb2789,Paris-Saint-Germain,2,0.0,0.0,0.0,88,4.0,12840.0,Paris-Saint-Germain
+,Ismaël Gharbi,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/5b3cfa12/Ismael-Gharbi,5b3cfa12,Paris-Saint-Germain,2,0.0,0.0,0.0,88,1.0,12841.0,Paris-Saint-Germain
+,Denis Franchi,it ITA,GK,0,0,,,2021-2022,/en/players/aab362e6/Denis-Franchi,b362e6,Paris-Saint-Germain,,,,,88,9.0,12842.0,Paris-Saint-Germain
+,Layvin Kurzawa,fr FRA,DF,0,0,,,2021-2022,/en/players/41e7ef1c/Layvin-Kurzawa,41e7ef1c,Paris-Saint-Germain,,,,,88,4.0,11395.0,Paris-Saint-Germain

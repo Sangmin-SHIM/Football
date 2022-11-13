@@ -1,242 +1,255 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-616.0,﻿Pablo Cavallero,/en/players/754d4db5/Pablo-Cavallero,Pablo-Cavallero,754d4db5,ar ARG,GK,Celta-Vigo
-617.0,Peter Luccin,/en/players/3270f1b5/Peter-Luccin,Peter-Lucci,3270f1b5,fr FRA,MF,Celta-Vigo
-618.0,Fernando Cáceres,/en/players/fab1ce6d/Fernando-Caceres,Fernando-Cac,fab1ce6d,ar ARG,DF,Celta-Vigo
-619.0,Edu,/en/players/71a2b3ed/Edu,Edu,71a2b3ed,br BRA,"FW,MF",Celta-Vigo
-620.0,Juan Velasco Damas,/en/players/6630e590/Juan-Velasco-Damas,Juan-Velasco-Dam,6630e590,es ESP,DF,Celta-Vigo
-621.0,Gustavo López,/en/players/bbd74f67/Gustavo-Lopez,Gustavo-Lopez,bbd74f67,ar ARG,"FW,MF",Celta-Vigo
-622.0,Sylvinho,/en/players/b46e497d/Sylvinho,Sylvinho,b46e497d,br BRA,DF,Celta-Vigo
-623.0,José Ignacio,/en/players/4477d395/Jose-Ignacio,Jose-Ignacio,4477d395,es ESP,MF,Celta-Vigo
-624.0,Eduardo Berizzo,/en/players/d28dbfe9/Eduardo-Berizzo,Eduardo-Berizzo,d28dbfe9,ar ARG,DF,Celta-Vigo
-625.0,Aleksandr Mostovoi,/en/players/6d215bed/Aleksandr-Mostovoi,Aleksandr-Mostovoi,6d215bed,ru RUS,MF,Celta-Vigo
-626.0,Catanha,/en/players/69349680/Catanha,Catanh,69349680,es ESP,FW,Celta-Vigo
-627.0,Juanfran,/en/players/d8a22e59/Juanfran,Juanf,d8a22e59,es ESP,DF,Celta-Vigo
-628.0,Ángel López,/en/players/93cdc601/Angel-Lopez,Angel-Lopez,93cdc601,es ESP,"DF,MF",Celta-Vigo
-629.0,Sergio,/en/players/7688c579/Sergio,Sergio,7688c579,es ESP,DF,Celta-Vigo
-630.0,Everton Giovanella,/en/players/e6a5d427/Everton-Giovanella,Everton-Giov,6a5d427,br BRA,MF,Celta-Vigo
-631.0,Vágner,/en/players/c0efb885/Vagner,Vag,c0efb885,br BRA,MF,Celta-Vigo
-632.0,Mido,/en/players/91d87d09/Mido,Mido,91d87d09,eg EGY,FW,Celta-Vigo
-633.0,Sebastián Méndez,/en/players/ab38347a/Sebastian-Mendez,Sebastian-Mendez,b38347a,ar ARG,DF,Celta-Vigo
-634.0,Eduardo Coudet,/en/players/097ab8cb/Eduardo-Coudet,Eduardo-Coudet,097ab8cb,ar ARG,MF,Celta-Vigo
-635.0,Benni McCarthy,/en/players/a6f401c6/Benni-McCarthy,Benni-McCarth,6f401c6,za RSA,FW,Celta-Vigo
-636.0,José Manuel Pinto,/en/players/4a3cd9b7/Jose-Manuel-Pinto,Jose-Manuel-Pinto,4a3cd9b7,es ESP,GK,Celta-Vigo
-637.0,Pablo Coira,/en/players/7099e844/Pablo-Coira,Pablo-Coi,7099e844,es ESP,DF,Celta-Vigo
-638.0,Jorge Rodríguez,/en/players/6b8ad2c5/Jorge-Rodriguez,Jorge-Rodriguez,6b8ad2c5,es ESP,DF,Celta-Vigo
-639.0,Doriva,/en/players/6b8ab05e/Doriva,Doriv,6b8ab05e,br BRA,MF,Celta-Vigo
-640.0,Iván Kaviedes,/en/players/94c89cb3/Ivan-Kaviedes,Ivan-Kavied,94c89cb3,ec ECU,FW,Celta-Vigo
-641.0,José Juan Figueras,/en/players/c7f01276/Jose-Juan-Figueras,Jose-Juan-Figu,c7f01276,es ESP,GK,Celta-Vigo
-642.0,Jandro,/en/players/453a1fcd/Jandro,Jandro,453a1fcd,es ESP,MF,Celta-Vigo
-643.0,﻿Savo Milošević,/en/players/bab73c39/Savo-Milosevic,Savo-Milosevic,bab73c39,rs SRB,FW,Celta-Vigo
-644.0,Saša Ilić,/en/players/504a654c/Sasa-Ilic,Sasa-Ilic,504a654c,rs SRB,MF,Celta-Vigo
-645.0,Borja Oubiña,/en/players/df441c0d/Borja-Oubina,Borja-Oubi,df441c0d,es ESP,MF,Celta-Vigo
-646.0,Pablo Contreras,/en/players/1cba86c6/Pablo-Contreras,Pablo-Cont,1cba86c6,cl CHI,DF,Celta-Vigo
-647.0,Israel Delgado,/en/players/1e33a0ca/Israel-Delgado,Israel-Delgado,1e33a0ca,es ESP,DF,Celta-Vigo
-648.0,Jonathan Aspas,/en/players/f76cd534/Jonathan-Aspas,Jonathan-A,f76cd534,es ESP,MF,Celta-Vigo
-649.0,Iago Bouzón,/en/players/2b687c98/Iago-Bouzon,Iago-Bouzo,2b687c98,es ESP,DF,Celta-Vigo
-650.0,Mauricio Pinilla,/en/players/33bd231e/Mauricio-Pinilla,Mauricio-Pini,33bd231e,cl CHI,FW,Celta-Vigo
-651.0,Manolo Sánchez,/en/players/b40c4904/Manolo-Sanchez,Manolo-Sanchez,b40c4904,es ESP,MF,Celta-Vigo
-652.0,Nacho Franco,/en/players/24d32601/Nacho-Franco,Nacho-Franco,24d32601,es ESP,FW,Celta-Vigo
-653.0,Fabián Canobbio,/en/players/8a010a9b/Fabian-Canobbio,Fabian-Canobbio,8a010a9b,uy URU,MF,Celta-Vigo
-654.0,Zisis Vryzas,/en/players/e477030a/Zisis-Vryzas,Zisis-Vryz,477030a,gr GRE,FW,Celta-Vigo
-655.0,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,Txomin-Nago,41a60718,es ESP,MF,Celta-Vigo
-656.0,Capucho,/en/players/9b54153d/Capucho,Capucho,9b54153d,pt POR,MF,Celta-Vigo
-657.0,Roger Guerreiro,/en/players/6f63913c/Roger-Guerreiro,Roger-Guerreiro,6f63913c,pl POL,MF,Celta-Vigo
-658.0,Facundo Sava,/en/players/bbc6102c/Facundo-Sava,Facundo-Sav,bbc6102c,ar ARG,FW,Celta-Vigo
-659.0,José Jesús Perera,/en/players/a39a1bc8/Jose-Jesus-Perera,Jose-Jesus-P,39a1bc8,es ESP,FW,Celta-Vigo
-660.0,Yago Yao,/en/players/a25c8b6c/Yago-Yao,Yago-Yao,25c8b6c,gq EQG,DF,Celta-Vigo
-661.0,Toni Moral,/en/players/5c3bf3f9/Toni-Moral,Toni-Mo,5c3bf3f9,es ESP,MF,Celta-Vigo
-662.0,Juan Sánchez,/en/players/58c2f75c/Juan-Sanchez,Juan-Sanchez,58c2f75c,es ESP,FW,Celta-Vigo
-663.0,Orlando Quintana,/en/players/bdb7b026/Orlando-Quintana,Orlando-Quint,bdb7b026,es ESP,GK,Celta-Vigo
-664.0,Fernando Baiano,/en/players/253f2715/Fernando-Baiano,Fernando-Baiano,253f2715,br BRA,FW,Celta-Vigo
-665.0,Matías Lequi,/en/players/dd0c806c/Matias-Lequi,Matias-Lequi,dd0c806c,ar ARG,DF,Celta-Vigo
-666.0,Iriney,/en/players/09296fcc/Iriney,Iri,09296fcc,br BRA,MF,Celta-Vigo
-667.0,Diego Placente,/en/players/f6bcca5d/Diego-Placente,Diego-Placent,f6bcca5d,ar ARG,DF,Celta-Vigo
-668.0,Jorge Larena,/en/players/3de25195/Jorge-Larena,Jorge-L,3de25195,es ESP,MF,Celta-Vigo
-669.0,José Enrique,/en/players/d56364d5/Jose-Enrique,Jose-Enriqu,d56364d5,es ESP,DF,Celta-Vigo
-670.0,Daniël de Ridder,/en/players/18bd458f/Daniel-de-Ridder,Daniel-de-Ridd,18bd458f,nl NED,"FW,MF",Celta-Vigo
-671.0,Javi Guerrero,/en/players/bd4345ec/Javi-Guerrero,Javi-Guerrero,bd4345ec,es ESP,FW,Celta-Vigo
-672.0,Roberto Sousa,/en/players/40a22d49/Roberto-Sousa,Roberto-Sou,40a22d49,br BRA,"DF,MF",Celta-Vigo
-673.0,Esteban,/en/players/e4fc2638/Esteban,Esteb,4fc2638,es ESP,GK,Celta-Vigo
-674.0,﻿Nenê,/en/players/265ebd37/Nene,N,265ebd37,br BRA,"FW,MF",Celta-Vigo
-675.0,Gabriel Tamaș,/en/players/5d2c2f2b/Gabriel-Tamas,Gabriel-Tam,5d2c2f2b,ro ROU,DF,Celta-Vigo
-676.0,Habib Bamogo,/en/players/db50d95f/Habib-Bamogo,Habib-Bamogo,db50d95f,bf BFA,FW,Celta-Vigo
-677.0,Antonio Guayre,/en/players/82cf603f/Antonio-Guayre,Antonio-Gu,82cf603f,es ESP,"FW,MF",Celta-Vigo
-678.0,Jonathan Vila,/en/players/7c3a3425/Jonathan-Vila,Jonathan-Vi,7c3a3425,es ESP,"DF,MF",Celta-Vigo
-679.0,George Lucas Coser,/en/players/8a4dce52/George-Lucas-Coser,George-Lucas-Co,8a4dce52,br BRA,DF,Celta-Vigo
-680.0,Miguel Areias,/en/players/4143fba4/Miguel-Areias,Miguel-Arei,4143fba4,pt POR,DF,Celta-Vigo
-681.0,Dani Abalo,/en/players/d1b04adb/Dani-Abalo,Dani-Abalo,d1b04adb,es ESP,"FW,MF",Celta-Vigo
-682.0,Roberto Lago,/en/players/98e0ad35/Roberto-Lago,Roberto-Lago,98e0ad35,es ESP,"DF,MF",Celta-Vigo
-683.0,Vitolo,/en/players/0785296e/Vitolo,Vitolo,0785296e,es ESP,MF,Celta-Vigo
-684.0,Agus,/en/players/ef7a542c/Agus,Agu,f7a542c,es ESP,"DF,FW",Celta-Vigo
-685.0,Diego Costa,/en/players/a190d597/Diego-Costa,Diego-Cost,190d597,es ESP,FW,Celta-Vigo
-686.0,Quincy Owusu-Abeyie,/en/players/a1d1f404/Quincy-Owusu-Abeyie,Quincy-Owusu-Abeyi,1d1f404,gh GHA,"FW,MF",Celta-Vigo
-687.0,Ioannis Okkas,/en/players/a2d9544d/Ioannis-Okkas,Ioannis-Okk,2d9544d,cy CYP,FW,Celta-Vigo
-688.0,Michu,/en/players/98429b7b/Michu,Michu,98429b7b,es ESP,"FW,MF",Celta-Vigo
-689.0,Mario Suárez,/en/players/7106f0a0/Mario-Suarez,Mario-Suarez,7106f0a0,es ESP,MF,Celta-Vigo
-690.0,Ariel Rosada,/en/players/04e5057b/Ariel-Rosada,Ariel-Rosad,04e5057b,ar ARG,MF,Celta-Vigo
-691.0,Juan Manuel Peña,/en/players/0f7909da/Juan-Manuel-Pena,Juan-Manuel-P,0f7909da,bo BOL,DF,Celta-Vigo
-692.0,Julián Vara,/en/players/5c92e249/Julian-Vara,Julian-V,5c92e249,es ESP,"DF,FW",Celta-Vigo
-693.0,Fernando Sales,/en/players/24486536/Fernando-Sales,Fernando-S,24486536,es ESP,MF,Celta-Vigo
-694.0,Vladimir Manchev,/en/players/005a9b28/Vladimir-Manchev,Vladimir-Manchev,005a9b28,bg BUL,FW,Celta-Vigo
-695.0,Noel Alonso,/en/players/6991e767/Noel-Alonso,Noel-Alonso,6991e767,es ESP,DF,Celta-Vigo
-696.0,Petar Zanev,/en/players/8ee7161d/Petar-Zanev,Petar-Zanev,8ee7161d,bg BUL,DF,Celta-Vigo
-697.0,Adrián González,/en/players/57ebd662/Adrian-Gonzalez,Adrian-Gonzalez,57ebd662,es ESP,MF,Celta-Vigo
-698.0,Richy,/en/players/1d5089f0/Richy,Rich,1d5089f0,es ESP,DF,Celta-Vigo
-699.0,Ferrán Tacón,/en/players/554253f5/Ferran-Tacon,Ferran-Taco,554253f5,es ESP,MF,Celta-Vigo
-700.0,Goran Marić,/en/players/71251e74/Goran-Maric,Goran-Maric,7.13E+78,es ESP,FW,Celta-Vigo
-701.0,Dinei,/en/players/8a9fbd03/Dinei,Dinei,8a9fbd03,br BRA,FW,Celta-Vigo
-702.0,Antonio Notario,/en/players/b49f31c5/Antonio-Notario,Antonio-Notario,b49f31c5,es ESP,GK,Celta-Vigo
-703.0,Edu Moya,/en/players/7da62f29/Edu-Moya,Edu-Mo,7da62f29,es ESP,"DF,MF",Celta-Vigo
-704.0,Kamel Ghilas,/en/players/7b144fc2/Kamel-Ghilas,Kamel-Ghi,7b144fc2,dz ALG,FW,Celta-Vigo
-705.0,Roberto Trashorras,/en/players/5252fdf5/Roberto-Trashorras,Roberto-Trasho,5252fdf5,es ESP,MF,Celta-Vigo
-706.0,David Rodríguez,/en/players/bae862bf/David-Rodriguez,David-Rodriguez,bae862bf,es ESP,FW,Celta-Vigo
-707.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Celta-Vigo
-708.0,Francisco Noguerol,/en/players/73bdd0b1/Francisco-Noguerol,Francisco-Noguero,73bdd0b1,es ESP,DF,Celta-Vigo
-709.0,Fernando Fajardo,/en/players/5d586062/Fernando-Fajardo,Fernando-Fajardo,5d586062,uy URU,DF,Celta-Vigo
-710.0,Jordi,/en/players/744a8a7c/Jordi,Jordi,744a8a7c,es ESP,DF,Celta-Vigo
-711.0,Renan Garcia,/en/players/b5a5e775/Renan-Garcia,Renan-Garci,b5a5e775,br BRA,MF,Celta-Vigo
-712.0,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,Ismael-Falco,5d2574f2,es ESP,GK,Celta-Vigo
-713.0,Fabiano,/en/players/2db8eed9/Fabiano,Fabiano,2db8eed9,br BRA,DF,Celta-Vigo
-714.0,Danilo Sacramento,/en/players/315991b7/Danilo-Sacramento,Danilo-Sacramento,315991b7,br BRA,MF,Celta-Vigo
-715.0,Māris Verpakovskis,/en/players/9f8f8a29/Maris-Verpakovskis,Maris-Verpakovski,9f8f8a29,lv LVA,"FW,MF",Celta-Vigo
-716.0,Candela,/en/players/fc36e493/Candela,Cand,fc36e493,es ESP,MF,Celta-Vigo
-717.0,﻿Aritz López Garai,/en/players/59b0c4a0/Aritz-Lopez-Garai,Aritz-Lopez-Garai,59b0c4a0,es ESP,MF,Celta-Vigo
-718.0,Vasco Fernandes,/en/players/4a0a3759/Vasco-Fernandes,Vasco-Fernand,4a0a3759,pt POR,DF,Celta-Vigo
-719.0,Cristian Bustos,/en/players/ccb6ae73/Cristian-Bustos,Cristian-Busto,ccb6ae73,es ESP,MF,Celta-Vigo
-720.0,David Català,/en/players/ed54971a/David-Catala,David-Cat,d54971a,es ESP,DF,Celta-Vigo
-721.0,Hugo Mallo,/en/players/cb574619/Hugo-Mallo,Hugo-Mallo,cb574619,es ESP,DF,Celta-Vigo
-722.0,Pedro Botelho,/en/players/1f933029/Pedro-Botelho,Pedro-Botelho,1f933029,br BRA,"DF,MF",Celta-Vigo
-723.0,Andrés Túñez,/en/players/6520cb34/Andres-Tunez,Andres-Tunez,6520cb34,ve VEN,DF,Celta-Vigo
-724.0,Dimitris Papadopoulos,/en/players/63c519e1/Dimitris-Papadopoulos,Dimitris-Papadopoulo,63c519e1,gr GRE,FW,Celta-Vigo
-725.0,Saulo,/en/players/600412e9/Saulo,Saulo,6.00E+14,br BRA,FW,Celta-Vigo
-726.0,Toni Dovale,/en/players/d4b9adcf/Toni-Dovale,Toni-Dov,d4b9adcf,es ESP,"DF,MF",Celta-Vigo
-727.0,Yoel,/en/players/61bb7498/Yoel,Yo,61bb7498,es ESP,GK,Celta-Vigo
-728.0,Gastón Cellerino,/en/players/aa73ddd8/Gaston-Cellerino,Gaston-Cellerino,73ddd8,ar ARG,FW,Celta-Vigo
-729.0,Arthuro,/en/players/af5bfaa6/Arthuro,Arthuro,f5bfaa6,br BRA,FW,Celta-Vigo
-730.0,Aarón Ñíguez,/en/players/5d720396/Aaron-Niguez,Aaron-Niguez,5d720396,es ESP,"FW,MF",Celta-Vigo
-731.0,Sergio Ortega,/en/players/5e498ef7/Sergio-Ortega,Sergio-Orteg,5e498ef7,es ESP,DF,Celta-Vigo
-732.0,Álex López,/en/players/30b44896/Alex-Lopez,Alex-Lopez,30b44896,es ESP,MF,Celta-Vigo
-733.0,Mateo Míguez Adán,/en/players/e772a670/Mateo-Miguez-Adan,Mateo-Miguez-Ad,772a670,es ESP,FW,Celta-Vigo
-734.0,Víctor Vázquez,/en/players/e936adff/Victor-Vazquez,Victor-Vazquez,936adff,es ESP,DF,Celta-Vigo
-735.0,Enrique de Lucas,/en/players/ae61cc61/Enrique-de-Lucas,Enrique-de-Luc,61cc61,es ESP,"FW,MF",Celta-Vigo
-736.0,Ander Murillo,/en/players/878aa987/Ander-Murillo,Ander-Murillo,878aa987,es ESP,DF,Celta-Vigo
-737.0,Iago Aspas,/en/players/7dcf86f6/Iago-Aspas,Iago-A,7dcf86f6,es ESP,"FW,MF",Celta-Vigo
-738.0,Joan Tomàs,/en/players/9ada6f1d/Joan-Tomas,Joan-Tom,9ada6f1d,es ESP,"FW,MF",Celta-Vigo
-739.0,Jota,/en/players/9f351459/Jota,Jot,9f351459,es ESP,MF,Celta-Vigo
-740.0,Sergio Álvarez,/en/players/8875b8c9/Sergio-Alvarez,Sergio-Alvarez,8875b8c9,es ESP,GK,Celta-Vigo
-741.0,Víctor Fernández,/en/players/a67624c5/Victor-Fernandez,Victor-Fernandez,67624c5,es ESP,DF,Celta-Vigo
-742.0,David Soto Sánchez,/en/players/7460beb4/David-Soto-Sanchez,David-Soto-Sanchez,7460beb4,es ESP,DF,Celta-Vigo
-743.0,Ikechi Anya,/en/players/c55e973d/Ikechi-Anya,Ikechi-A,c55e973d,sct SCO,"FW,MF",Celta-Vigo
-744.0,Oier Sanjurjo,/en/players/466824fb/Oier-Sanjurjo,Oier-Sanjurjo,466824fb,es ESP,"DF,MF",Celta-Vigo
-745.0,Fabián Orellana,/en/players/c90977db/Fabian-Orellana,Fabian-O,c90977db,cl CHI,"FW,MF",Celta-Vigo
-746.0,Mario Bermejo,/en/players/c8dcfee8/Mario-Bermejo,Mario-Bermejo,c8dcfee8,es ESP,FW,Celta-Vigo
-747.0,Natxo Insa,/en/players/28ccefcd/Natxo-Insa,Natxo-I,28ccefcd,my MAS,MF,Celta-Vigo
-748.0,Carlos Bellvís,/en/players/fbe35ca3/Carlos-Bellvis,Carlos-Bellvi,fbe35ca3,es ESP,DF,Celta-Vigo
-749.0,Augusto Fernández,/en/players/78c40e94/Augusto-Fernandez,Augusto-Fernandez,78c40e94,ar ARG,MF,Celta-Vigo
-750.0,Javi Varas,/en/players/6db3da37/Javi-Varas,Javi-V,6db3da37,es ESP,GK,Celta-Vigo
-751.0,Gustavo Cabral,/en/players/92b4a127/Gustavo-Cabral,Gustavo-Cab,92b4a127,ar ARG,DF,Celta-Vigo
-752.0,Jonny Castro,/en/players/e28868f3/Jonny-Castro,Jonny-Castro,28868f3,es ESP,"DF,MF",Celta-Vigo
-753.0,Park Chu-young,/en/players/d9fa272a/Park-Chu-young,Park-Chu-young,d9fa272a,kr KOR,"FW,MF",Celta-Vigo
-754.0,Danijel Pranjić,/en/players/38929ff9/Danijel-Pranjic,Danijel-Pranjic,38929ff9,hr CRO,"DF,MF",Celta-Vigo
-755.0,Lévy Madinda,/en/players/ea26e99f/Levy-Madinda,Levy-Madind,26e99f,ga GAB,MF,Celta-Vigo
-756.0,Rubén Blanco,/en/players/967f34d3/Ruben-Blanco,Ruben-Blanco,967f34d3,es ESP,GK,Celta-Vigo
-757.0,Samuel Llorca,/en/players/9c3d54f0/Samuel-Llorca,Samuel-Llorc,9c3d54f0,es ESP,DF,Celta-Vigo
-758.0,Santi Mina,/en/players/0b90bb97/Santi-Mina,Santi-Mi,0b90bb97,es ESP,FW,Celta-Vigo
-759.0,Andreu Fontàs,/en/players/0f138d5a/Andreu-Fontas,Andreu-Font,0f138d5a,es ESP,DF,Celta-Vigo
-760.0,Charles,/en/players/c4b8bcf4/Charles,Ch,c4b8bcf4,br BRA,FW,Celta-Vigo
-761.0,Nolito,/en/players/b2d0ec1b/Nolito,Nolito,b2d0ec1b,es ESP,"FW,MF",Celta-Vigo
-762.0,Jon Aurtenetxe,/en/players/74b0e3ce/Jon-Aurtenetxe,Jon-Aurtenetx,74b0e3ce,es ESP,DF,Celta-Vigo
-763.0,David Costas,/en/players/545e2f01/David-Costas,David-Cost,545e2f01,es ESP,DF,Celta-Vigo
-764.0,David Goldar,/en/players/56a787a6/David-Goldar,David-Gold,56a787a6,es ESP,DF,Celta-Vigo
-765.0,Welliton,/en/players/17082008/Welliton,Wellito,17082008,br BRA,FW,Celta-Vigo
-766.0,Joaquín Larrivey,/en/players/7ae94e67/Joaquin-Larrivey,Joaquin-Larriv,7ae94e67,ar ARG,FW,Celta-Vigo
-767.0,Nemanja Radoja,/en/players/b5dd3469/Nemanja-Radoja,Nemanja-Radoj,b5dd3469,rs SRB,"DF,MF",Celta-Vigo
-768.0,Pablo Hernández,/en/players/6c2f5996/Pablo-Hernandez,Pablo-Hernandez,6c2f5996,cl CHI,"FW,MF",Celta-Vigo
-769.0,Sergi Gómez,/en/players/bc6f5f06/Sergi-Gomez,Sergi-Gomez,bc6f5f06,es ESP,DF,Celta-Vigo
-770.0,Carles Planas,/en/players/72b92c4e/Carles-Planas,Carles-P,72b92c4e,es ESP,DF,Celta-Vigo
-771.0,Borja Fernández,/en/players/3ebe8651/Borja-Fernandez,Borja-Fernandez,3ebe8651,es ESP,MF,Celta-Vigo
-772.0,Theo Bongonda,/en/players/0da6a13e/Theo-Bongonda,Theo-Bongond,0da6a13e,cd COD,"FW,MF",Celta-Vigo
-773.0,Borja Iglesias,/en/players/75645f0e/Borja-Iglesias,Borja-Iglesi,75645f0e,es ESP,FW,Celta-Vigo
-774.0,Diego Alende,/en/players/9af88279/Diego-Alende,Diego-Alend,9af88279,es ESP,DF,Celta-Vigo
-775.0,Samu Araújo,/en/players/e89b1919/Samu-Araujo,Samu-Araujo,89b1919,es ESP,DF,Celta-Vigo
-776.0,Pape Cheikh Diop,/en/players/873ce3a2/Pape-Cheikh-Diop,Pape-Cheikh-Dio,873ce3a2,sn SEN,MF,Celta-Vigo
-777.0,Kevin Vázquez,/en/players/ee923664/Kevin-Vazquez,Kevin-Vazquez,923664,es ESP,DF,Celta-Vigo
-778.0,Daniel Wass,/en/players/d83bbc54/Daniel-Wass,Daniel-W,d83bbc54,dk DEN,MF,Celta-Vigo
-779.0,John Guidetti,/en/players/99bebd12/John-Guidetti,John-Guidetti,99bebd12,se SWE,FW,Celta-Vigo
-780.0,Marcelo Díaz,/en/players/955b2e8a/Marcelo-Diaz,Marcelo-Diaz,955b2e8a,cl CHI,MF,Celta-Vigo
-781.0,Josep Señé,/en/players/8fc259d7/Josep-Sene,Josep-S,8fc259d7,es ESP,"MF,FW",Celta-Vigo
-782.0,Dejan Dražić,/en/players/e9457fb9/Dejan-Drazic,Dejan-Drazic,9457fb9,rs SRB,MF,Celta-Vigo
-783.0,Néstor Díaz,/en/players/6a3a6617/Nestor-Diaz,Nestor-Diaz,6a3a6617,es ESP,GK,Celta-Vigo
-784.0,﻿Facundo Roncaglia,/en/players/51e3954c/Facundo-Roncaglia,Facundo-Roncagli,51e3954c,ar ARG,DF,Celta-Vigo
-785.0,Pione Sisto,/en/players/fd9c4805/Pione-Sisto,Pione-Sisto,fd9c4805,dk DEN,"MF,FW",Celta-Vigo
-786.0,Jozabed,/en/players/9b337c7c/Jozabed,Jozabed,9b337c7c,es ESP,MF,Celta-Vigo
-787.0,Giuseppe Rossi,/en/players/fe48a073/Giuseppe-Rossi,Giuseppe-Rossi,fe48a073,it ITA,FW,Celta-Vigo
-788.0,Álvaro Lemos,/en/players/31d45cc8/Alvaro-Lemos,Alvaro-Lemo,31d45cc8,es ESP,"DF,MF",Celta-Vigo
-789.0,Andrew Hjulsager,/en/players/2ef16f06/Andrew-Hjulsager,Andrew-Hjulsag,2ef16f06,dk DEN,MF,Celta-Vigo
-790.0,Iván Villar,/en/players/cde52ef5/Ivan-Villar,Ivan-Vi,cde52ef5,es ESP,GK,Celta-Vigo
-791.0,Naranjo,/en/players/2a70c756/Naranjo,Naranjo,2a70c756,es ESP,"FW,MF",Celta-Vigo
-792.0,Maxi Gómez,/en/players/4c2e9442/Maxi-Gomez,Maxi-Gomez,4c2e9442,uy URU,FW,Celta-Vigo
-793.0,Stanislav Lobotka,/en/players/e1cbb531/Stanislav-Lobotka,Stanislav-Lobotk,1cbb531,sk SVK,MF,Celta-Vigo
-794.0,Brais Méndez,/en/players/c9e39d91/Brais-Mendez,Brais-Mendez,c9e39d91,es ESP,"MF,FW",Celta-Vigo
-795.0,Emre Mor,/en/players/0c3f7197/Emre-Mor,Emre-Mo,0c3f7197,tr TUR,"FW,MF",Celta-Vigo
-796.0,Róbert Mazáň,/en/players/30672832/Robert-Mazan,Robert-Maz,30672832,sk SVK,DF,Celta-Vigo
-797.0,Daniel Molina Orta,/en/players/102fda08/Daniel-Molina-Orta,Daniel-Molina-Ort,102fda08,es ESP,MF,Celta-Vigo
-798.0,Francisco Barbosa,/en/players/2ae958ab/Francisco-Barbosa,Francisco-Barbo,2ae958ab,es ESP,GK,Celta-Vigo
-799.0,Dennis Eckert,/en/players/7f8fb807/Dennis-Eckert,Dennis-Eckert,7f8fb807,de GER,FW,Celta-Vigo
-800.0,Diego Pampín,/en/players/c748a0b2/Diego-Pampin,Diego-Pampi,c748a0b2,es ESP,DF,Celta-Vigo
-801.0,Víctor Pastrana,/en/players/c5b93003/Victor-Pastrana,Victor-Past,c5b93003,es ESP,MF,Celta-Vigo
-802.0,Daniel Sotres,/en/players/0a02a8fa/Daniel-Sotres,Daniel-Sot,0a02a8fa,es ESP,GK,Celta-Vigo
-803.0,Néstor Araujo,/en/players/27a013f7/Nestor-Araujo,Nestor-Araujo,27a013f7,mx MEX,DF,Celta-Vigo
-804.0,Okay Yokuşlu,/en/players/e49ce451/Okay-Yokuslu,Okay-Yokuslu,49ce451,tr TUR,MF,Celta-Vigo
-805.0,Sofiane Boufal,/en/players/b0c71810/Sofiane-Boufal,Sofiane-Bouf,b0c71810,ma MAR,MF,Celta-Vigo
-806.0,David Juncà,/en/players/de7d40d6/David-Junca,David-Junc,de7d40d6,es ESP,DF,Celta-Vigo
-807.0,Fran Beltrán,/en/players/ed5c5fa3/Fran-Beltran,Fran-Belt,d5c5fa3,es ESP,MF,Celta-Vigo
-808.0,Lucas Olaza,/en/players/4cee5954/Lucas-Olaza,Lucas-Olaz,4cee5954,uy URU,DF,Celta-Vigo
-809.0,Wesley Hoedt,/en/players/875898c7/Wesley-Hoedt,Wesley-Hoedt,875898c7,nl NED,DF,Celta-Vigo
-810.0,Ryad Boudebouz,/en/players/1001ae82/Ryad-Boudebouz,Ryad-Boudebouz,1001ae82,dz ALG,MF,Celta-Vigo
-811.0,Júnior Alonso,/en/players/b18a3023/Junior-Alonso,Junior-Alonso,b18a3023,py PAR,"DF,MF",Celta-Vigo
-812.0,Mathias Jensen,/en/players/0f134faf/Mathias-Jensen,Mathias-J,0f134faf,dk DEN,MF,Celta-Vigo
-813.0,Emmanuel Apeh,/en/players/a230ebcc/Emmanuel-Apeh,Emmanuel-Apeh,230ebcc,ng NGA,"FW,MF",Celta-Vigo
-814.0,Joseph Aidoo,/en/players/18abe173/Joseph-Aidoo,Joseph-Aidoo,18abe173,gh GHA,DF,Celta-Vigo
-815.0,Denis Suárez,/en/players/12c50af5/Denis-Suarez,Denis-Suarez,12c50af5,es ESP,"MF,FW",Celta-Vigo
-816.0,Jeison Murillo,/en/players/b233e8e4/Jeison-Murillo,Jeison-Murillo,b233e8e4,co COL,DF,Celta-Vigo
-817.0,Filip Bradarić,/en/players/605873e1/Filip-Bradaric,Filip-Bradaric,6.06E+06,hr CRO,MF,Celta-Vigo
-818.0,Gabriel Fernández,/en/players/36c5f77b/Gabriel-Fernandez,Gabriel-Fernandez,36c5f77b,uy URU,"FW,MF",Celta-Vigo
-819.0,Jorge Sáenz,/en/players/bfca375c/Jorge-Saenz,Jorge-Saenz,bfca375c,es ESP,DF,Celta-Vigo
-820.0,Juan Hernández,/en/players/1fc3c3d7/Juan-Hernandez,Juan-Hernandez,1fc3c3d7,es ESP,"FW,MF",Celta-Vigo
-821.0,Jacobo,/en/players/09e81276/Jacobo,Jacobo,09e81276,es ESP,"DF,MF",Celta-Vigo
-822.0,Losada,/en/players/41521385/Losada,Losad,41521385,es ESP,"MF,FW",Celta-Vigo
-823.0,Sergio Bermejo,/en/players/d166c007/Sergio-Bermejo,Sergio-Bermejo,d166c007,es ESP,MF,Celta-Vigo
-824.0,Sergio Carreira,/en/players/8d6a9c93/Sergio-Carreira,Sergio-Carrei,8d6a9c93,es ESP,DF,Celta-Vigo
-825.0,Iago Domínguez,/en/players/557fcc50/Iago-Dominguez,Iago-Dominguez,557fcc50,es ESP,GK,Celta-Vigo
-826.0,José Fontán,/en/players/1827a42d/Jose-Fontan,Jose-Font,1827a42d,es ESP,DF,Celta-Vigo
-827.0,Dragan Rosić,/en/players/b614c059/Dragan-Rosic,Dragan-Rosic,b614c059,rs SRB,GK,Celta-Vigo
-828.0,Renato Tapia,/en/players/34269bdf/Renato-Tapia,Renato-Tapi,34269bdf,pe PER,MF,Celta-Vigo
-829.0,Aarón Martín,/en/players/2f3e911a/Aaron-Martin,Aaron-Marti,2f3e911a,es ESP,DF,Celta-Vigo
-830.0,Miguel Baeza,/en/players/a98f3cbf/Miguel-Baeza,Miguel-Baez,98f3cbf,es ESP,"MF,FW",Celta-Vigo
-831.0,Carlos Dominguez,/en/players/3521abfe/Carlos-Dominguez,Carlos-Dominguez,3521abfe,es ESP,DF,Celta-Vigo
-832.0,Augusto Solari,/en/players/3ca6106c/Augusto-Solari,Augusto-Solari,3ca6106c,ar ARG,MF,Celta-Vigo
-833.0,Facundo Ferreyra,/en/players/b39a793e/Facundo-Ferreyra,Facundo-F,b39a793e,ar ARG,FW,Celta-Vigo
-834.0,Gabriel Veiga,/en/players/35a6e5c7/Gabriel-Veiga,Gabriel-Veig,35a6e5c7,es ESP,"MF,DF",Celta-Vigo
-835.0,Jordan Holsgrove,/en/players/8a6daac3/Jordan-Holsgrove,Jordan-Holsgrov,8a6daac3,sct SCO,MF,Celta-Vigo
-836.0,Alfon,/en/players/1c772b46/Alfon,Alfo,1c772b46,es ESP,MF,Celta-Vigo
-837.0,Miguel Rodríguez,/en/players/958d67bb/Miguel-Rodriguez,Miguel-Rodriguez,958d67bb,es ESP,"FW,MF",Celta-Vigo
-838.0,Lauti,/en/players/f934c5c9/Lauti,Lauti,f934c5c9,uy URU,FW,Celta-Vigo
-839.0,Hugo Sotelo,/en/players/3aa74860/Hugo-Sotelo,Hugo-Sotelo,3aa74860,es ESP,MF,Celta-Vigo
-840.0,Gael Alonso,/en/players/45b33119/Gael-Alonso,Gael-Alonso,45b33119,es ESP,DF,Celta-Vigo
-841.0,Raúl Blanco,/en/players/8f3cbe57/Raul-Blanco,Raul-Blanco,8f3cbe57,es ESP,MF,Celta-Vigo
-842.0,Álvaro Fernández,/en/players/39a0b3f2/Alvaro-Fernandez,Alvaro-Fernandez,39a0b3f2,es ESP,GK,Celta-Vigo
-843.0,Patrick Sequeira,/en/players/6f21e773/Patrick-Sequeira,Patrick-Sequei,6f21e773,cr CRC,GK,Celta-Vigo
-844.0,Álvaro Vadillo,/en/players/61b62b33/Alvaro-Vadillo,Alvaro-Vadillo,61b62b33,es ESP,"FW,MF",Celta-Vigo
-845.0,﻿Matías Dituro,/en/players/b6160ad0/Matias-Dituro,Matias-Dituro,b6160ad0,ar ARG,GK,Celta-Vigo
-846.0,Javi Galán,/en/players/a4b00319/Javi-Galan,Javi-G,4b00319,es ESP,DF,Celta-Vigo
-847.0,Franco Cervi,/en/players/5e1028e5/Franco-Cervi,Franco-Cervi,5e1028e5,ar ARG,MF,Celta-Vigo
-848.0,Thiago Galhardo,/en/players/766f48dd/Thiago-Galhardo,Thiago-Galhardo,766f48dd,br BRA,"FW,MF",Celta-Vigo
-849.0,Orbelín Pineda,/en/players/411fabd7/Orbelin-Pineda,Orbelin-Pined,411fabd7,mx MEX,"MF,FW",Celta-Vigo
-850.0,Hugo Álvarez,/en/players/6f392eb8/Hugo-Alvarez,Hugo-Alvarez,6f392eb8,es ESP,FW,Celta-Vigo
-851.0,Gaizka Campos Bahillo,/en/players/54a9bc73/Gaizka-Campos-Bahillo,Gaizka-Campos-Bahillo,54a9bc73,es ESP,GK,Celta-Vigo
-852.0,Coke Carrillo,/en/players/4e9bcf57/Coke-Carrillo,Coke-Carrillo,4e9bcf57,es ESP,GK,Celta-Vigo
-853.0,Javier Castro,/en/players/7e1a736b/Javier-Castro,Javier-Castro,7e1a736b,es ESP,DF,Celta-Vigo
-854.0,César Fernández,/en/players/4e9548a4/Cesar-Fernandez,Cesar-Fernandez,4e9548a4,es ESP,GK,Celta-Vigo
-855.0,Fernando Medrano,/en/players/d854c9d0/Fernando-Medrano,Fernando-Medrano,d854c9d0,es ESP,DF,Celta-Vigo
-856.0,Damián Rodríguez,/en/players/22371dee/Damian-Rodriguez,Damian-Rodriguez,22371dee,es ESP,MF,Celta-Vigo
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+635.0,﻿Pablo Cavallero,/en/players/754d4db5/Pablo-Cavallero,Pablo-Cavallero,754d4db5,ar ARG,GK,Celta-Vigo
+636.0,Peter Luccin,/en/players/3270f1b5/Peter-Luccin,Peter-Lucci,3270f1b5,fr FRA,MF,Celta-Vigo
+637.0,Fernando Cáceres,/en/players/fab1ce6d/Fernando-Caceres,Fernando-Cac,fab1ce6d,ar ARG,DF,Celta-Vigo
+638.0,Edu,/en/players/71a2b3ed/Edu,Edu,71a2b3ed,br BRA,"FW,MF",Celta-Vigo
+639.0,Juan Velasco Damas,/en/players/6630e590/Juan-Velasco-Damas,Juan-Velasco-Dam,6630e590,es ESP,DF,Celta-Vigo
+640.0,Gustavo López,/en/players/bbd74f67/Gustavo-Lopez,Gustavo-Lopez,bbd74f67,ar ARG,"FW,MF",Celta-Vigo
+641.0,Sylvinho,/en/players/b46e497d/Sylvinho,Sylvinho,b46e497d,br BRA,DF,Celta-Vigo
+642.0,José Ignacio,/en/players/4477d395/Jose-Ignacio,Jose-Ignacio,4477d395,es ESP,MF,Celta-Vigo
+643.0,Eduardo Berizzo,/en/players/d28dbfe9/Eduardo-Berizzo,Eduardo-Berizzo,d28dbfe9,ar ARG,DF,Celta-Vigo
+644.0,Aleksandr Mostovoi,/en/players/6d215bed/Aleksandr-Mostovoi,Aleksandr-Mostovoi,6d215bed,ru RUS,MF,Celta-Vigo
+645.0,Catanha,/en/players/69349680/Catanha,Catanh,69349680,es ESP,FW,Celta-Vigo
+646.0,Juanfran,/en/players/d8a22e59/Juanfran,Juanf,d8a22e59,es ESP,DF,Celta-Vigo
+647.0,Jesuli,/en/players/3bfc833a/Jesuli,Jesuli,3bfc833a,es ESP,MF,Celta-Vigo
+648.0,Ángel López,/en/players/93cdc601/Angel-Lopez,Angel-Lopez,93cdc601,es ESP,"DF,MF",Celta-Vigo
+649.0,Sergio,/en/players/7688c579/Sergio,Sergio,7688c579,es ESP,DF,Celta-Vigo
+650.0,Everton Giovanella,/en/players/e6a5d427/Everton-Giovanella,Everton-Giov,6a5d427,br BRA,MF,Celta-Vigo
+651.0,Vágner,/en/players/c0efb885/Vagner,Vag,c0efb885,br BRA,MF,Celta-Vigo
+652.0,Mido,/en/players/91d87d09/Mido,Mido,91d87d09,eg EGY,FW,Celta-Vigo
+653.0,Sebastián Méndez,/en/players/ab38347a/Sebastian-Mendez,Sebastian-Mendez,b38347a,ar ARG,DF,Celta-Vigo
+654.0,Eduardo Coudet,/en/players/097ab8cb/Eduardo-Coudet,Eduardo-Coudet,097ab8cb,ar ARG,MF,Celta-Vigo
+655.0,Benni McCarthy,/en/players/a6f401c6/Benni-McCarthy,Benni-McCarth,6f401c6,za RSA,FW,Celta-Vigo
+656.0,José Manuel Pinto,/en/players/4a3cd9b7/Jose-Manuel-Pinto,Jose-Manuel-Pinto,4a3cd9b7,es ESP,GK,Celta-Vigo
+657.0,Pablo Coira,/en/players/7099e844/Pablo-Coira,Pablo-Coi,7099e844,es ESP,DF,Celta-Vigo
+658.0,Jorge Rodríguez,/en/players/6b8ad2c5/Jorge-Rodriguez,Jorge-Rodriguez,6b8ad2c5,es ESP,DF,Celta-Vigo
+659.0,Doriva,/en/players/6b8ab05e/Doriva,Doriv,6b8ab05e,br BRA,MF,Celta-Vigo
+660.0,Iván Kaviedes,/en/players/94c89cb3/Ivan-Kaviedes,Ivan-Kavied,94c89cb3,ec ECU,FW,Celta-Vigo
+661.0,José Juan Figueras,/en/players/c7f01276/Jose-Juan-Figueras,Jose-Juan-Figu,c7f01276,es ESP,GK,Celta-Vigo
+662.0,Jandro,/en/players/453a1fcd/Jandro,Jandro,453a1fcd,es ESP,MF,Celta-Vigo
+663.0,﻿Savo Milošević,/en/players/bab73c39/Savo-Milosevic,Savo-Milosevic,bab73c39,rs SRB,FW,Celta-Vigo
+664.0,Saša Ilić,/en/players/504a654c/Sasa-Ilic,Sasa-Ilic,504a654c,rs SRB,MF,Celta-Vigo
+665.0,Borja Oubiña,/en/players/df441c0d/Borja-Oubina,Borja-Oubi,df441c0d,es ESP,MF,Celta-Vigo
+666.0,Pablo Contreras,/en/players/1cba86c6/Pablo-Contreras,Pablo-Cont,1cba86c6,cl CHI,DF,Celta-Vigo
+667.0,Israel Delgado,/en/players/1e33a0ca/Israel-Delgado,Israel-Delgado,1e33a0ca,es ESP,DF,Celta-Vigo
+668.0,Jonathan Aspas,/en/players/f76cd534/Jonathan-Aspas,Jonathan-A,f76cd534,es ESP,MF,Celta-Vigo
+669.0,Iago Bouzón,/en/players/2b687c98/Iago-Bouzon,Iago-Bouzo,2b687c98,es ESP,DF,Celta-Vigo
+670.0,Mauricio Pinilla,/en/players/33bd231e/Mauricio-Pinilla,Mauricio-Pini,33bd231e,cl CHI,FW,Celta-Vigo
+671.0,Manolo Sánchez,/en/players/b40c4904/Manolo-Sanchez,Manolo-Sanchez,b40c4904,es ESP,MF,Celta-Vigo
+672.0,Nacho Franco,/en/players/24d32601/Nacho-Franco,Nacho-Franco,24d32601,es ESP,FW,Celta-Vigo
+673.0,Fabián Canobbio,/en/players/8a010a9b/Fabian-Canobbio,Fabian-Canobbio,8a010a9b,uy URU,MF,Celta-Vigo
+674.0,Zisis Vryzas,/en/players/e477030a/Zisis-Vryzas,Zisis-Vryz,477030a,gr GRE,FW,Celta-Vigo
+675.0,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,Txomin-Nago,41a60718,es ESP,MF,Celta-Vigo
+676.0,Capucho,/en/players/9b54153d/Capucho,Capucho,9b54153d,pt POR,MF,Celta-Vigo
+677.0,Roger Guerreiro,/en/players/6f63913c/Roger-Guerreiro,Roger-Guerreiro,6f63913c,pl POL,MF,Celta-Vigo
+678.0,Facundo Sava,/en/players/bbc6102c/Facundo-Sava,Facundo-Sav,bbc6102c,ar ARG,FW,Celta-Vigo
+679.0,José Jesús Perera,/en/players/a39a1bc8/Jose-Jesus-Perera,Jose-Jesus-P,39a1bc8,es ESP,FW,Celta-Vigo
+680.0,Yago Yao,/en/players/a25c8b6c/Yago-Yao,Yago-Yao,25c8b6c,gq EQG,DF,Celta-Vigo
+681.0,Toni Moral,/en/players/5c3bf3f9/Toni-Moral,Toni-Mo,5c3bf3f9,es ESP,MF,Celta-Vigo
+682.0,Juan Sánchez,/en/players/58c2f75c/Juan-Sanchez,Juan-Sanchez,58c2f75c,es ESP,FW,Celta-Vigo
+683.0,Orlando Quintana,/en/players/bdb7b026/Orlando-Quintana,Orlando-Quint,bdb7b026,es ESP,GK,Celta-Vigo
+684.0,Fernando Baiano,/en/players/253f2715/Fernando-Baiano,Fernando-Baiano,253f2715,br BRA,FW,Celta-Vigo
+685.0,David Silva,/en/players/e2716bd0/David-Silva,David-Silv,2716bd0,es ESP,"FW,MF",Celta-Vigo
+686.0,Matías Lequi,/en/players/dd0c806c/Matias-Lequi,Matias-Lequi,dd0c806c,ar ARG,DF,Celta-Vigo
+687.0,Iriney,/en/players/09296fcc/Iriney,Iri,09296fcc,br BRA,MF,Celta-Vigo
+688.0,Antonio Núñez,/en/players/df89070b/Antonio-Nunez,Antonio-Nunez,df89070b,es ESP,MF,Celta-Vigo
+689.0,Diego Placente,/en/players/f6bcca5d/Diego-Placente,Diego-Placent,f6bcca5d,ar ARG,DF,Celta-Vigo
+690.0,Jorge Larena,/en/players/3de25195/Jorge-Larena,Jorge-L,3de25195,es ESP,MF,Celta-Vigo
+691.0,José Enrique,/en/players/d56364d5/Jose-Enrique,Jose-Enriqu,d56364d5,es ESP,DF,Celta-Vigo
+692.0,Daniël de Ridder,/en/players/18bd458f/Daniel-de-Ridder,Daniel-de-Ridd,18bd458f,nl NED,"FW,MF",Celta-Vigo
+693.0,Javi Guerrero,/en/players/bd4345ec/Javi-Guerrero,Javi-Guerrero,bd4345ec,es ESP,FW,Celta-Vigo
+694.0,Roberto Sousa,/en/players/40a22d49/Roberto-Sousa,Roberto-Sou,40a22d49,br BRA,"DF,MF",Celta-Vigo
+695.0,Esteban,/en/players/e4fc2638/Esteban,Esteb,4fc2638,es ESP,GK,Celta-Vigo
+696.0,﻿Nenê,/en/players/265ebd37/Nene,N,265ebd37,br BRA,"FW,MF",Celta-Vigo
+697.0,Gabriel Tamaș,/en/players/5d2c2f2b/Gabriel-Tamas,Gabriel-Tam,5d2c2f2b,ro ROU,DF,Celta-Vigo
+698.0,Pablo García,/en/players/911299ca/Pablo-Garcia,Pablo-Garci,911299ca,uy URU,"DF,MF",Celta-Vigo
+699.0,Habib Bamogo,/en/players/db50d95f/Habib-Bamogo,Habib-Bamogo,db50d95f,bf BFA,FW,Celta-Vigo
+700.0,Antonio Guayre,/en/players/82cf603f/Antonio-Guayre,Antonio-Gu,82cf603f,es ESP,"FW,MF",Celta-Vigo
+701.0,Jonathan Vila,/en/players/7c3a3425/Jonathan-Vila,Jonathan-Vi,7c3a3425,es ESP,"DF,MF",Celta-Vigo
+702.0,George Lucas Coser,/en/players/8a4dce52/George-Lucas-Coser,George-Lucas-Co,8a4dce52,br BRA,DF,Celta-Vigo
+703.0,Miguel Areias,/en/players/4143fba4/Miguel-Areias,Miguel-Arei,4143fba4,pt POR,DF,Celta-Vigo
+704.0,Dani Abalo,/en/players/d1b04adb/Dani-Abalo,Dani-Abalo,d1b04adb,es ESP,"FW,MF",Celta-Vigo
+705.0,﻿Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Celta-Vigo
+706.0,Roberto Lago,/en/players/98e0ad35/Roberto-Lago,Roberto-Lago,98e0ad35,es ESP,"DF,MF",Celta-Vigo
+707.0,Vitolo,/en/players/0785296e/Vitolo,Vitolo,0785296e,es ESP,MF,Celta-Vigo
+708.0,Agus,/en/players/ef7a542c/Agus,Agu,f7a542c,es ESP,"DF,FW",Celta-Vigo
+709.0,Diego Costa,/en/players/a190d597/Diego-Costa,Diego-Cost,190d597,es ESP,FW,Celta-Vigo
+710.0,Quincy Owusu-Abeyie,/en/players/a1d1f404/Quincy-Owusu-Abeyie,Quincy-Owusu-Abeyi,1d1f404,gh GHA,"FW,MF",Celta-Vigo
+711.0,Ioannis Okkas,/en/players/a2d9544d/Ioannis-Okkas,Ioannis-Okk,2d9544d,cy CYP,FW,Celta-Vigo
+712.0,Michu,/en/players/98429b7b/Michu,Michu,98429b7b,es ESP,"FW,MF",Celta-Vigo
+713.0,Mario Suárez,/en/players/7106f0a0/Mario-Suarez,Mario-Suarez,7106f0a0,es ESP,MF,Celta-Vigo
+714.0,Ariel Rosada,/en/players/04e5057b/Ariel-Rosada,Ariel-Rosad,04e5057b,ar ARG,MF,Celta-Vigo
+715.0,Juan Manuel Peña,/en/players/0f7909da/Juan-Manuel-Pena,Juan-Manuel-P,0f7909da,bo BOL,DF,Celta-Vigo
+716.0,Julián Vara,/en/players/5c92e249/Julian-Vara,Julian-V,5c92e249,es ESP,"DF,FW",Celta-Vigo
+717.0,Fernando Sales,/en/players/24486536/Fernando-Sales,Fernando-S,24486536,es ESP,MF,Celta-Vigo
+718.0,Vladimir Manchev,/en/players/005a9b28/Vladimir-Manchev,Vladimir-Manchev,005a9b28,bg BUL,FW,Celta-Vigo
+719.0,Noel Alonso,/en/players/6991e767/Noel-Alonso,Noel-Alonso,6991e767,es ESP,DF,Celta-Vigo
+720.0,Petar Zanev,/en/players/8ee7161d/Petar-Zanev,Petar-Zanev,8ee7161d,bg BUL,DF,Celta-Vigo
+721.0,Adrián González,/en/players/57ebd662/Adrian-Gonzalez,Adrian-Gonzalez,57ebd662,es ESP,MF,Celta-Vigo
+722.0,Richy,/en/players/1d5089f0/Richy,Rich,1d5089f0,es ESP,DF,Celta-Vigo
+723.0,Ferrán Tacón,/en/players/554253f5/Ferran-Tacon,Ferran-Taco,554253f5,es ESP,MF,Celta-Vigo
+724.0,Goran Marić,/en/players/71251e74/Goran-Maric,Goran-Maric,71251e74,es ESP,FW,Celta-Vigo
+725.0,Dinei,/en/players/8a9fbd03/Dinei,Dinei,8a9fbd03,br BRA,FW,Celta-Vigo
+726.0,Antonio Notario,/en/players/b49f31c5/Antonio-Notario,Antonio-Notario,b49f31c5,es ESP,GK,Celta-Vigo
+727.0,Edu Moya,/en/players/7da62f29/Edu-Moya,Edu-Mo,7da62f29,es ESP,"DF,MF",Celta-Vigo
+728.0,Kamel Ghilas,/en/players/7b144fc2/Kamel-Ghilas,Kamel-Ghi,7b144fc2,dz ALG,FW,Celta-Vigo
+729.0,Roberto Trashorras,/en/players/5252fdf5/Roberto-Trashorras,Roberto-Trasho,5252fdf5,es ESP,MF,Celta-Vigo
+730.0,David Rodríguez,/en/players/bae862bf/David-Rodriguez,David-Rodriguez,bae862bf,es ESP,FW,Celta-Vigo
+731.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Celta-Vigo
+732.0,Francisco Noguerol,/en/players/73bdd0b1/Francisco-Noguerol,Francisco-Noguero,73bdd0b1,es ESP,DF,Celta-Vigo
+733.0,Fernando Fajardo,/en/players/5d586062/Fernando-Fajardo,Fernando-Fajardo,5d586062,uy URU,DF,Celta-Vigo
+734.0,Jordi,/en/players/744a8a7c/Jordi,Jordi,744a8a7c,es ESP,DF,Celta-Vigo
+735.0,Renan Garcia,/en/players/b5a5e775/Renan-Garcia,Renan-Garci,b5a5e775,br BRA,MF,Celta-Vigo
+736.0,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,Ismael-Falco,5d2574f2,es ESP,GK,Celta-Vigo
+737.0,Fabiano,/en/players/2db8eed9/Fabiano,Fabiano,2db8eed9,br BRA,DF,Celta-Vigo
+738.0,Iago Iglesias,/en/players/3fc7655e/Iago-Iglesias,Iago-Iglesi,3fc7655e,es ESP,MF,Celta-Vigo
+739.0,Danilo Sacramento,/en/players/315991b7/Danilo-Sacramento,Danilo-Sacramento,315991b7,br BRA,MF,Celta-Vigo
+740.0,Māris Verpakovskis,/en/players/9f8f8a29/Maris-Verpakovskis,Maris-Verpakovski,9f8f8a29,lv LVA,"FW,MF",Celta-Vigo
+741.0,Candela,/en/players/fc36e493/Candela,Cand,fc36e493,es ESP,MF,Celta-Vigo
+742.0,Joselu,/en/players/6265208f/Joselu,Joselu,6265208f,es ESP,FW,Celta-Vigo
+743.0,﻿Aritz López Garai,/en/players/59b0c4a0/Aritz-Lopez-Garai,Aritz-Lopez-Garai,59b0c4a0,es ESP,MF,Celta-Vigo
+744.0,Vasco Fernandes,/en/players/4a0a3759/Vasco-Fernandes,Vasco-Fernand,4a0a3759,pt POR,DF,Celta-Vigo
+745.0,Cristian Bustos,/en/players/ccb6ae73/Cristian-Bustos,Cristian-Busto,ccb6ae73,es ESP,MF,Celta-Vigo
+746.0,David Català,/en/players/ed54971a/David-Catala,David-Cat,d54971a,es ESP,DF,Celta-Vigo
+747.0,Hugo Mallo,/en/players/cb574619/Hugo-Mallo,Hugo-Mallo,cb574619,es ESP,DF,Celta-Vigo
+748.0,Pedro Botelho,/en/players/1f933029/Pedro-Botelho,Pedro-Botelho,1f933029,br BRA,"DF,MF",Celta-Vigo
+749.0,Andrés Túñez,/en/players/6520cb34/Andres-Tunez,Andres-Tunez,6520cb34,ve VEN,DF,Celta-Vigo
+750.0,Dimitris Papadopoulos,/en/players/63c519e1/Dimitris-Papadopoulos,Dimitris-Papadopoulo,63c519e1,gr GRE,FW,Celta-Vigo
+751.0,Saulo,/en/players/600412e9/Saulo,Saulo,600412e9,br BRA,FW,Celta-Vigo
+752.0,Toni Dovale,/en/players/d4b9adcf/Toni-Dovale,Toni-Dov,d4b9adcf,es ESP,"DF,MF",Celta-Vigo
+753.0,Yoel,/en/players/61bb7498/Yoel,Yo,61bb7498,es ESP,GK,Celta-Vigo
+754.0,Gastón Cellerino,/en/players/aa73ddd8/Gaston-Cellerino,Gaston-Cellerino,73ddd8,ar ARG,FW,Celta-Vigo
+755.0,Arthuro,/en/players/af5bfaa6/Arthuro,Arthuro,f5bfaa6,br BRA,FW,Celta-Vigo
+756.0,Aarón Ñíguez,/en/players/5d720396/Aaron-Niguez,Aaron-Niguez,5d720396,es ESP,"FW,MF",Celta-Vigo
+757.0,Oriol Riera,/en/players/ed742ed9/Oriol-Riera,Oriol-Ri,d742ed9,es ESP,FW,Celta-Vigo
+758.0,Sergio Ortega,/en/players/5e498ef7/Sergio-Ortega,Sergio-Orteg,5e498ef7,es ESP,DF,Celta-Vigo
+759.0,Álex López,/en/players/30b44896/Alex-Lopez,Alex-Lopez,30b44896,es ESP,MF,Celta-Vigo
+760.0,Mateo Míguez Adán,/en/players/e772a670/Mateo-Miguez-Adan,Mateo-Miguez-Ad,772a670,es ESP,FW,Celta-Vigo
+761.0,Víctor Vázquez,/en/players/e936adff/Victor-Vazquez,Victor-Vazquez,936adff,es ESP,DF,Celta-Vigo
+762.0,Enrique de Lucas,/en/players/ae61cc61/Enrique-de-Lucas,Enrique-de-Luc,61cc61,es ESP,"FW,MF",Celta-Vigo
+763.0,Ander Murillo,/en/players/878aa987/Ander-Murillo,Ander-Murillo,878aa987,es ESP,DF,Celta-Vigo
+764.0,Iago Aspas,/en/players/7dcf86f6/Iago-Aspas,Iago-A,7dcf86f6,es ESP,"FW,MF",Celta-Vigo
+765.0,Joan Tomàs,/en/players/9ada6f1d/Joan-Tomas,Joan-Tom,9ada6f1d,es ESP,"FW,MF",Celta-Vigo
+766.0,Jota,/en/players/9f351459/Jota,Jot,9f351459,es ESP,MF,Celta-Vigo
+767.0,Sergio Álvarez,/en/players/8875b8c9/Sergio-Alvarez,Sergio-Alvarez,8875b8c9,es ESP,GK,Celta-Vigo
+768.0,Víctor Fernández,/en/players/a67624c5/Victor-Fernandez,Victor-Fernandez,67624c5,es ESP,DF,Celta-Vigo
+769.0,David Soto Sánchez,/en/players/7460beb4/David-Soto-Sanchez,David-Soto-Sanchez,7460beb4,es ESP,DF,Celta-Vigo
+770.0,Ikechi Anya,/en/players/c55e973d/Ikechi-Anya,Ikechi-A,c55e973d,sct SCO,"FW,MF",Celta-Vigo
+771.0,Oier Sanjurjo,/en/players/466824fb/Oier-Sanjurjo,Oier-Sanjurjo,466824fb,es ESP,"DF,MF",Celta-Vigo
+772.0,Fabián Orellana,/en/players/c90977db/Fabian-Orellana,Fabian-O,c90977db,cl CHI,"FW,MF",Celta-Vigo
+773.0,Mario Bermejo,/en/players/c8dcfee8/Mario-Bermejo,Mario-Bermejo,c8dcfee8,es ESP,FW,Celta-Vigo
+774.0,Natxo Insa,/en/players/28ccefcd/Natxo-Insa,Natxo-I,28ccefcd,my MAS,MF,Celta-Vigo
+775.0,Carlos Bellvís,/en/players/fbe35ca3/Carlos-Bellvis,Carlos-Bellvi,fbe35ca3,es ESP,DF,Celta-Vigo
+776.0,Augusto Fernández,/en/players/78c40e94/Augusto-Fernandez,Augusto-Fernandez,78c40e94,ar ARG,MF,Celta-Vigo
+777.0,Javi Varas,/en/players/6db3da37/Javi-Varas,Javi-V,6db3da37,es ESP,GK,Celta-Vigo
+778.0,Michael Krohn-Dehli,/en/players/1c8dc17d/Michael-Krohn-Dehli,Michael-Krohn-Dehli,1c8dc17d,dk DEN,"FW,MF",Celta-Vigo
+779.0,Gustavo Cabral,/en/players/92b4a127/Gustavo-Cabral,Gustavo-Cab,92b4a127,ar ARG,DF,Celta-Vigo
+780.0,Jonny Castro,/en/players/e28868f3/Jonny-Castro,Jonny-Castro,28868f3,es ESP,"DF,MF",Celta-Vigo
+781.0,Vadim Demidov,/en/players/59f3b22d/Vadim-Demidov,Vadim-Demidov,59f3b22d,no NOR,"DF,MF",Celta-Vigo
+782.0,Park Chu-young,/en/players/d9fa272a/Park-Chu-young,Park-Chu-young,d9fa272a,kr KOR,"FW,MF",Celta-Vigo
+783.0,Danijel Pranjić,/en/players/38929ff9/Danijel-Pranjic,Danijel-Pranjic,38929ff9,hr CRO,"DF,MF",Celta-Vigo
+784.0,Lévy Madinda,/en/players/ea26e99f/Levy-Madinda,Levy-Madind,26e99f,ga GAB,MF,Celta-Vigo
+785.0,Rubén Blanco,/en/players/967f34d3/Ruben-Blanco,Ruben-Blanco,967f34d3,es ESP,GK,Celta-Vigo
+786.0,Samuel Llorca,/en/players/9c3d54f0/Samuel-Llorca,Samuel-Llorc,9c3d54f0,es ESP,DF,Celta-Vigo
+787.0,Santi Mina,/en/players/0b90bb97/Santi-Mina,Santi-Mi,0b90bb97,es ESP,FW,Celta-Vigo
+788.0,Andreu Fontàs,/en/players/0f138d5a/Andreu-Fontas,Andreu-Font,0f138d5a,es ESP,DF,Celta-Vigo
+789.0,Charles,/en/players/c4b8bcf4/Charles,Ch,c4b8bcf4,br BRA,FW,Celta-Vigo
+790.0,Rafinha,/en/players/0c2ac3cb/Rafinha,Rafinh,0c2ac3cb,br BRA,MF,Celta-Vigo
+791.0,Nolito,/en/players/b2d0ec1b/Nolito,Nolito,b2d0ec1b,es ESP,"FW,MF",Celta-Vigo
+792.0,Jon Aurtenetxe,/en/players/74b0e3ce/Jon-Aurtenetxe,Jon-Aurtenetx,74b0e3ce,es ESP,DF,Celta-Vigo
+793.0,David Costas,/en/players/545e2f01/David-Costas,David-Cost,545e2f01,es ESP,DF,Celta-Vigo
+794.0,Íñigo López,/en/players/8c61ca86/Inigo-Lopez,Inigo-Lopez,8c61ca86,es ESP,DF,Celta-Vigo
+795.0,David Goldar,/en/players/56a787a6/David-Goldar,David-Gold,56a787a6,es ESP,DF,Celta-Vigo
+796.0,Welliton,/en/players/17082008/Welliton,Wellito,17082008,br BRA,FW,Celta-Vigo
+797.0,Joaquín Larrivey,/en/players/7ae94e67/Joaquin-Larrivey,Joaquin-Larriv,7ae94e67,ar ARG,FW,Celta-Vigo
+798.0,Nemanja Radoja,/en/players/b5dd3469/Nemanja-Radoja,Nemanja-Radoj,b5dd3469,rs SRB,"DF,MF",Celta-Vigo
+799.0,Pablo Hernández,/en/players/6c2f5996/Pablo-Hernandez,Pablo-Hernandez,6c2f5996,cl CHI,"FW,MF",Celta-Vigo
+800.0,Sergi Gómez,/en/players/bc6f5f06/Sergi-Gomez,Sergi-Gomez,bc6f5f06,es ESP,DF,Celta-Vigo
+801.0,Carles Planas,/en/players/72b92c4e/Carles-Planas,Carles-P,72b92c4e,es ESP,DF,Celta-Vigo
+802.0,Borja Fernández,/en/players/3ebe8651/Borja-Fernandez,Borja-Fernandez,3ebe8651,es ESP,MF,Celta-Vigo
+803.0,Theo Bongonda,/en/players/0da6a13e/Theo-Bongonda,Theo-Bongond,0da6a13e,cd COD,"FW,MF",Celta-Vigo
+804.0,Borja Iglesias,/en/players/75645f0e/Borja-Iglesias,Borja-Iglesi,75645f0e,es ESP,FW,Celta-Vigo
+805.0,Diego Alende,/en/players/9af88279/Diego-Alende,Diego-Alend,9af88279,es ESP,DF,Celta-Vigo
+806.0,Samu Araújo,/en/players/e89b1919/Samu-Araujo,Samu-Araujo,89b1919,es ESP,DF,Celta-Vigo
+807.0,Pape Cheikh Diop,/en/players/873ce3a2/Pape-Cheikh-Diop,Pape-Cheikh-Dio,873ce3a2,sn SEN,MF,Celta-Vigo
+808.0,Kevin Vázquez,/en/players/ee923664/Kevin-Vazquez,Kevin-Vazquez,923664,es ESP,DF,Celta-Vigo
+809.0,Daniel Wass,/en/players/d83bbc54/Daniel-Wass,Daniel-W,d83bbc54,dk DEN,MF,Celta-Vigo
+810.0,John Guidetti,/en/players/99bebd12/John-Guidetti,John-Guidetti,99bebd12,se SWE,FW,Celta-Vigo
+811.0,Marcelo Díaz,/en/players/955b2e8a/Marcelo-Diaz,Marcelo-Diaz,955b2e8a,cl CHI,MF,Celta-Vigo
+812.0,Claudio Beauvue,/en/players/8ca253a3/Claudio-Beauvue,Claudio-Beauvu,8ca253a3,gp GLP,"MF,FW",Celta-Vigo
+813.0,Josep Señé,/en/players/8fc259d7/Josep-Sene,Josep-S,8fc259d7,es ESP,"MF,FW",Celta-Vigo
+814.0,Dejan Dražić,/en/players/e9457fb9/Dejan-Drazic,Dejan-Drazic,9457fb9,rs SRB,MF,Celta-Vigo
+815.0,Néstor Díaz,/en/players/6a3a6617/Nestor-Diaz,Nestor-Diaz,6a3a6617,es ESP,GK,Celta-Vigo
+816.0,﻿Facundo Roncaglia,/en/players/51e3954c/Facundo-Roncaglia,Facundo-Roncagli,51e3954c,ar ARG,DF,Celta-Vigo
+817.0,Pione Sisto,/en/players/fd9c4805/Pione-Sisto,Pione-Sisto,fd9c4805,dk DEN,"MF,FW",Celta-Vigo
+818.0,Jozabed,/en/players/9b337c7c/Jozabed,Jozabed,9b337c7c,es ESP,MF,Celta-Vigo
+819.0,Giuseppe Rossi,/en/players/fe48a073/Giuseppe-Rossi,Giuseppe-Rossi,fe48a073,it ITA,FW,Celta-Vigo
+820.0,Álvaro Lemos,/en/players/31d45cc8/Alvaro-Lemos,Alvaro-Lemo,31d45cc8,es ESP,"DF,MF",Celta-Vigo
+821.0,Andrew Hjulsager,/en/players/2ef16f06/Andrew-Hjulsager,Andrew-Hjulsag,2ef16f06,dk DEN,MF,Celta-Vigo
+822.0,Iván Villar,/en/players/cde52ef5/Ivan-Villar,Ivan-Vi,cde52ef5,es ESP,GK,Celta-Vigo
+823.0,Naranjo,/en/players/2a70c756/Naranjo,Naranjo,2a70c756,es ESP,"FW,MF",Celta-Vigo
+824.0,Maxi Gómez,/en/players/4c2e9442/Maxi-Gomez,Maxi-Gomez,4c2e9442,uy URU,FW,Celta-Vigo
+825.0,Stanislav Lobotka,/en/players/e1cbb531/Stanislav-Lobotka,Stanislav-Lobotk,1cbb531,sk SVK,MF,Celta-Vigo
+826.0,Brais Méndez,/en/players/c9e39d91/Brais-Mendez,Brais-Mendez,c9e39d91,es ESP,"MF,FW",Celta-Vigo
+827.0,Emre Mor,/en/players/0c3f7197/Emre-Mor,Emre-Mo,0c3f7197,tr TUR,"FW,MF",Celta-Vigo
+828.0,Róbert Mazáň,/en/players/30672832/Robert-Mazan,Robert-Maz,30672832,sk SVK,DF,Celta-Vigo
+829.0,Daniel Molina Orta,/en/players/102fda08/Daniel-Molina-Orta,Daniel-Molina-Ort,102fda08,es ESP,MF,Celta-Vigo
+830.0,Francisco Barbosa,/en/players/2ae958ab/Francisco-Barbosa,Francisco-Barbo,2ae958ab,es ESP,GK,Celta-Vigo
+831.0,Dennis Eckert,/en/players/7f8fb807/Dennis-Eckert,Dennis-Eckert,7f8fb807,de GER,FW,Celta-Vigo
+832.0,Diego Pampín,/en/players/c748a0b2/Diego-Pampin,Diego-Pampi,c748a0b2,es ESP,DF,Celta-Vigo
+833.0,Víctor Pastrana,/en/players/c5b93003/Victor-Pastrana,Victor-Past,c5b93003,es ESP,MF,Celta-Vigo
+834.0,Daniel Sotres,/en/players/0a02a8fa/Daniel-Sotres,Daniel-Sot,0a02a8fa,es ESP,GK,Celta-Vigo
+835.0,Néstor Araujo,/en/players/27a013f7/Nestor-Araujo,Nestor-Araujo,27a013f7,mx MEX,DF,Celta-Vigo
+836.0,Okay Yokuşlu,/en/players/e49ce451/Okay-Yokuslu,Okay-Yokuslu,49ce451,tr TUR,MF,Celta-Vigo
+837.0,Sofiane Boufal,/en/players/b0c71810/Sofiane-Boufal,Sofiane-Bouf,b0c71810,ma MAR,MF,Celta-Vigo
+838.0,David Juncà,/en/players/de7d40d6/David-Junca,David-Junc,de7d40d6,es ESP,DF,Celta-Vigo
+839.0,Fran Beltrán,/en/players/ed5c5fa3/Fran-Beltran,Fran-Belt,d5c5fa3,es ESP,MF,Celta-Vigo
+840.0,Lucas Olaza,/en/players/4cee5954/Lucas-Olaza,Lucas-Olaz,4cee5954,uy URU,DF,Celta-Vigo
+841.0,Wesley Hoedt,/en/players/875898c7/Wesley-Hoedt,Wesley-Hoedt,875898c7,nl NED,DF,Celta-Vigo
+842.0,Ryad Boudebouz,/en/players/1001ae82/Ryad-Boudebouz,Ryad-Boudebouz,1001ae82,dz ALG,MF,Celta-Vigo
+843.0,Júnior Alonso,/en/players/b18a3023/Junior-Alonso,Junior-Alonso,b18a3023,py PAR,"DF,MF",Celta-Vigo
+844.0,Mathias Jensen,/en/players/0f134faf/Mathias-Jensen,Mathias-J,0f134faf,dk DEN,MF,Celta-Vigo
+845.0,Emmanuel Apeh,/en/players/a230ebcc/Emmanuel-Apeh,Emmanuel-Apeh,230ebcc,ng NGA,"FW,MF",Celta-Vigo
+846.0,Joseph Aidoo,/en/players/18abe173/Joseph-Aidoo,Joseph-Aidoo,18abe173,gh GHA,DF,Celta-Vigo
+847.0,Denis Suárez,/en/players/12c50af5/Denis-Suarez,Denis-Suarez,12c50af5,es ESP,"MF,FW",Celta-Vigo
+848.0,Jeison Murillo,/en/players/b233e8e4/Jeison-Murillo,Jeison-Murillo,b233e8e4,co COL,DF,Celta-Vigo
+849.0,Filip Bradarić,/en/players/605873e1/Filip-Bradaric,Filip-Bradaric,605873e1,hr CRO,MF,Celta-Vigo
+850.0,Gabriel Fernández,/en/players/36c5f77b/Gabriel-Fernandez,Gabriel-Fernandez,36c5f77b,uy URU,"FW,MF",Celta-Vigo
+851.0,Jorge Sáenz,/en/players/bfca375c/Jorge-Saenz,Jorge-Saenz,bfca375c,es ESP,DF,Celta-Vigo
+852.0,Juan Hernández,/en/players/1fc3c3d7/Juan-Hernandez,Juan-Hernandez,1fc3c3d7,es ESP,"FW,MF",Celta-Vigo
+853.0,Jacobo,/en/players/09e81276/Jacobo,Jacobo,09e81276,es ESP,"DF,MF",Celta-Vigo
+854.0,Losada,/en/players/41521385/Losada,Losad,41521385,es ESP,"MF,FW",Celta-Vigo
+855.0,Sergio Bermejo,/en/players/d166c007/Sergio-Bermejo,Sergio-Bermejo,d166c007,es ESP,MF,Celta-Vigo
+856.0,Sergio Carreira,/en/players/8d6a9c93/Sergio-Carreira,Sergio-Carrei,8d6a9c93,es ESP,DF,Celta-Vigo
+857.0,Iago Domínguez,/en/players/557fcc50/Iago-Dominguez,Iago-Dominguez,557fcc50,es ESP,GK,Celta-Vigo
+858.0,José Fontán,/en/players/1827a42d/Jose-Fontan,Jose-Font,1827a42d,es ESP,DF,Celta-Vigo
+859.0,Dragan Rosić,/en/players/b614c059/Dragan-Rosic,Dragan-Rosic,b614c059,rs SRB,GK,Celta-Vigo
+860.0,Renato Tapia,/en/players/34269bdf/Renato-Tapia,Renato-Tapi,34269bdf,pe PER,MF,Celta-Vigo
+861.0,Aarón Martín,/en/players/2f3e911a/Aaron-Martin,Aaron-Marti,2f3e911a,es ESP,DF,Celta-Vigo
+862.0,Miguel Baeza,/en/players/a98f3cbf/Miguel-Baeza,Miguel-Baez,98f3cbf,es ESP,"MF,FW",Celta-Vigo
+863.0,Carlos Dominguez,/en/players/3521abfe/Carlos-Dominguez,Carlos-Dominguez,3521abfe,es ESP,DF,Celta-Vigo
+864.0,Augusto Solari,/en/players/3ca6106c/Augusto-Solari,Augusto-Solari,3ca6106c,ar ARG,MF,Celta-Vigo
+865.0,Facundo Ferreyra,/en/players/b39a793e/Facundo-Ferreyra,Facundo-F,b39a793e,ar ARG,FW,Celta-Vigo
+866.0,Gabriel Veiga,/en/players/35a6e5c7/Gabriel-Veiga,Gabriel-Veig,35a6e5c7,es ESP,"MF,DF",Celta-Vigo
+867.0,Jordan Holsgrove,/en/players/8a6daac3/Jordan-Holsgrove,Jordan-Holsgrov,8a6daac3,sct SCO,MF,Celta-Vigo
+868.0,Alfon,/en/players/1c772b46/Alfon,Alfo,1c772b46,es ESP,MF,Celta-Vigo
+869.0,Miguel Rodríguez,/en/players/958d67bb/Miguel-Rodriguez,Miguel-Rodriguez,958d67bb,es ESP,"FW,MF",Celta-Vigo
+870.0,Lauti,/en/players/f934c5c9/Lauti,Lauti,f934c5c9,uy URU,FW,Celta-Vigo
+871.0,Hugo Sotelo,/en/players/3aa74860/Hugo-Sotelo,Hugo-Sotelo,3aa74860,es ESP,MF,Celta-Vigo
+872.0,Gael Alonso,/en/players/45b33119/Gael-Alonso,Gael-Alonso,45b33119,es ESP,DF,Celta-Vigo
+873.0,Raúl Blanco,/en/players/8f3cbe57/Raul-Blanco,Raul-Blanco,8f3cbe57,es ESP,MF,Celta-Vigo
+874.0,Álvaro Fernández,/en/players/39a0b3f2/Alvaro-Fernandez,Alvaro-Fernandez,39a0b3f2,es ESP,GK,Celta-Vigo
+875.0,Patrick Sequeira,/en/players/6f21e773/Patrick-Sequeira,Patrick-Sequei,6f21e773,cr CRC,GK,Celta-Vigo
+876.0,Álvaro Vadillo,/en/players/61b62b33/Alvaro-Vadillo,Alvaro-Vadillo,61b62b33,es ESP,"FW,MF",Celta-Vigo
+877.0,﻿Matías Dituro,/en/players/b6160ad0/Matias-Dituro,Matias-Dituro,b6160ad0,ar ARG,GK,Celta-Vigo
+878.0,Javi Galán,/en/players/a4b00319/Javi-Galan,Javi-G,4b00319,es ESP,DF,Celta-Vigo
+879.0,Franco Cervi,/en/players/5e1028e5/Franco-Cervi,Franco-Cervi,5e1028e5,ar ARG,MF,Celta-Vigo
+880.0,Thiago Galhardo,/en/players/766f48dd/Thiago-Galhardo,Thiago-Galhardo,766f48dd,br BRA,"FW,MF",Celta-Vigo
+881.0,Orbelín Pineda,/en/players/411fabd7/Orbelin-Pineda,Orbelin-Pined,411fabd7,mx MEX,"MF,FW",Celta-Vigo
+882.0,Hugo Álvarez,/en/players/6f392eb8/Hugo-Alvarez,Hugo-Alvarez,6f392eb8,es ESP,FW,Celta-Vigo
+883.0,Gaizka Campos Bahillo,/en/players/54a9bc73/Gaizka-Campos-Bahillo,Gaizka-Campos-Bahillo,54a9bc73,es ESP,GK,Celta-Vigo
+884.0,Coke Carrillo,/en/players/4e9bcf57/Coke-Carrillo,Coke-Carrillo,4e9bcf57,es ESP,GK,Celta-Vigo
+885.0,Javier Castro,/en/players/7e1a736b/Javier-Castro,Javier-Castro,7e1a736b,es ESP,DF,Celta-Vigo
+886.0,César Fernández,/en/players/4e9548a4/Cesar-Fernandez,Cesar-Fernandez,4e9548a4,es ESP,GK,Celta-Vigo
+887.0,Fernando Medrano,/en/players/d854c9d0/Fernando-Medrano,Fernando-Medrano,d854c9d0,es ESP,DF,Celta-Vigo
+888.0,Damián Rodríguez,/en/players/22371dee/Damian-Rodriguez,Damian-Rodriguez,22371dee,es ESP,MF,Celta-Vigo

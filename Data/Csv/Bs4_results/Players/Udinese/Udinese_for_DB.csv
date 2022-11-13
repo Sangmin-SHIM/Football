@@ -1,640 +1,640 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2002-2003,83228343,Udinese,"3,060",34.0,1.0,0.0,165.0,9.0,
-,David Pizarro,cl CHI,MF,32,32,5.0,7.0,2002-2003,8b92c119,Udinese,"2,880",32.0,3.0,0.0,165.0,31.0,
-,Roberto Sensini,ar ARG,DF,30,30,0.0,3.0,2002-2003,5cb3d53a,Udinese,"2,625",29.2,3.0,1.0,165.0,5.0,
-,Giampiero Pinzi,it ITA,MF,28,28,1.0,3.0,2002-2003,8857991f,Udinese,"2,381",26.5,6.0,1.0,165.0,9.0,
-,Roberto Muzzi,it ITA,FW,27,26,5.0,5.0,2002-2003,1dd51eaf,Udinese,"2,289",25.4,0.0,0.0,165.0,9.0,
-,Per Krøldrup,dk DEN,DF,25,25,1.0,0.0,2002-2003,65f0ff2,Udinese,"2,178",24.2,3.0,1.0,165.0,7.0,
-,Martin Jørgensen,dk DEN,MF,27,24,2.0,4.0,2002-2003,0d955bbe,Udinese,"2,063",22.9,0.0,0.0,165.0,7.0,
-,Marek Jankulovski,cz CZE,"DF,MF",26,22,2.0,5.0,2002-2003,faef7749,Udinese,"1,993",22.1,4.0,0.0,165.0,84.0,
-,Valerio Bertotto,it ITA,DF,25,21,0.0,0.0,2002-2003,153e1fb3,Udinese,"1,860",20.7,4.0,0.0,165.0,9.0,
-,Alberto Valentim,br BRA,"DF,MF",20,20,1.0,1.0,2002-2003,64a84087,Udinese,"1,663",18.5,6.0,1.0,165.0,2.0,
-,Thomas Manfredini,it ITA,DF,21,20,0.0,0.0,2002-2003,cd2d825f,Udinese,"1,623",18.0,10.0,0.0,165.0,9.0,
-,Mirko Pieri,it ITA,"DF,MF",22,20,1.0,0.0,2002-2003,83e75ac6,Udinese,"1,610",17.9,2.0,0.0,165.0,9.0,
-,Vincenzo Iaquinta,it ITA,FW,25,16,0.0,7.0,2002-2003,69960e0c,Udinese,"1,509",16.8,3.0,1.0,165.0,9.0,
-,Carsten Jancker,de GER,FW,20,12,1.0,1.0,2002-2003,20570c32,Udinese,983,10.9,1.0,0.0,165.0,13.0,
-,Giuseppe Gemiti,de GER,"DF,MF",25,11,0.0,0.0,2002-2003,dd67558e,Udinese,"1,370",15.2,1.0,0.0,165.0,13.0,
-,Fabio Rossitto,it ITA,MF,19,7,2.0,0.0,2002-2003,84a0904c,Udinese,743,8.3,3.0,0.0,165.0,9.0,
-,Andrea Sottil,it ITA,DF,8,5,0.0,0.0,2002-2003,05d16399,Udinese,492,5.5,1.0,0.0,165.0,9.0,
-,Warley,br BRA,FW,14,4,1.0,0.0,2002-2003,7430849c,Udinese,520,5.8,1.0,0.0,165.0,2.0,
-,Samuel Caballero,hn HON,DF,4,3,0.0,0.0,2002-2003,320f06d,Udinese,281,3.1,4.0,0.0,165.0,107.0,
-,Sulley Muntari,gh GHA,MF,12,1,0.0,0.0,2002-2003,185aa52,Udinese,260,2.9,2.0,1.0,165.0,17.0,
-,Maurizio Bedin,it ITA,MF,2,1,0.0,0.0,2002-2003,f2ae1129,Udinese,98,1.1,2.0,1.0,165.0,9.0,
-,Gonzalo Martínez,co COL,DF,4,1,0.0,0.0,2002-2003,66b813e6,Udinese,92,1.0,0.0,0.0,165.0,19.0,
-,Sergio Almirón,ar ARG,MF,2,1,0.0,0.0,2002-2003,ce05fadf,Udinese,58,0.6,0.0,0.0,165.0,5.0,
-,Felipe dal Belo,br BRA,DF,4,0,0.0,0.0,2002-2003,8cea6319,Udinese,22,0.2,0.0,0.0,165.0,2.0,
-,﻿Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2003-2004,83228343,Udinese,"3,060",34.0,0.0,0.0,165.0,9.0,
-,Martin Jørgensen,dk DEN,MF,34,33,9.0,3.0,2003-2004,0d955bbe,Udinese,"2,965",32.9,1.0,0.0,165.0,7.0,
-,Marek Jankulovski,cz CZE,"DF,MF",32,32,5.0,6.0,2003-2004,faef7749,Udinese,"2,838",31.5,5.0,0.0,165.0,84.0,
-,Per Krøldrup,dk DEN,DF,30,30,0.0,2.0,2003-2004,65f0ff2,Udinese,"2,698",30.0,2.0,1.0,165.0,7.0,
-,Valerio Bertotto,it ITA,DF,29,29,1.0,0.0,2003-2004,153e1fb3,Udinese,"2,570",28.6,6.0,1.0,165.0,9.0,
-,Giampiero Pinzi,it ITA,MF,27,27,2.0,2.0,2003-2004,8857991f,Udinese,"2,248",25.0,9.0,2.0,165.0,9.0,
-,Dino Fava,it ITA,FW,31,26,3.0,12.0,2003-2004,1f4432ac,Udinese,"2,345",26.1,1.0,0.0,165.0,9.0,
-,Roberto Sensini,ar ARG,DF,25,25,2.0,2.0,2003-2004,5cb3d53a,Udinese,"2,199",24.4,1.0,0.0,165.0,5.0,
-,Vincenzo Iaquinta,it ITA,FW,29,22,4.0,10.0,2003-2004,69960e0c,Udinese,"1,910",21.2,2.0,0.0,165.0,9.0,
-,Sulley Muntari,gh GHA,MF,23,17,0.0,0.0,2003-2004,185aa52,Udinese,"1,476",16.4,2.0,0.0,165.0,17.0,
-,Alberto Valentim,br BRA,"DF,MF",21,17,1.0,0.0,2003-2004,64a84087,Udinese,"1,346",15.0,6.0,1.0,165.0,2.0,
-,Michele Pazienza,it ITA,MF,26,16,0.0,0.0,2003-2004,9f5d69e7,Udinese,"1,402",15.6,4.0,0.0,165.0,9.0,
-,David Pizarro,cl CHI,MF,13,13,3.0,3.0,2003-2004,8b92c119,Udinese,"1,124",12.5,2.0,0.0,165.0,31.0,
-,Lucas Castromán,ar ARG,"FW,MF",19,10,1.0,1.0,2003-2004,055c12e,Udinese,851,9.5,2.0,0.0,165.0,5.0,
-,Alessandro Pierini,it ITA,DF,19,9,0.0,0.0,2003-2004,8e313f0,Udinese,966,10.7,1.0,0.0,165.0,9.0,
-,Felipe dal Belo,br BRA,DF,16,9,0.0,0.0,2003-2004,8cea6319,Udinese,872,9.7,1.0,0.0,165.0,2.0,
-,Mirko Pieri,it ITA,"DF,MF",13,9,1.0,0.0,2003-2004,83e75ac6,Udinese,872,9.7,1.0,0.0,165.0,9.0,
-,Thomas Manfredini,it ITA,DF,7,6,0.0,0.0,2003-2004,cd2d825f,Udinese,462,5.1,2.0,0.0,165.0,9.0,
-,Carsten Jancker,de GER,FW,15,2,0.0,1.0,2003-2004,20570c32,Udinese,302,3.4,2.0,0.0,165.0,13.0,
-,Fabio Rossitto,it ITA,MF,6,1,0.0,0.0,2003-2004,84a0904c,Udinese,209,2.3,0.0,0.0,165.0,9.0,
-,Giuseppe Gemiti,de GER,"DF,MF",4,1,0.0,0.0,2003-2004,dd67558e,Udinese,143,1.6,0.0,0.0,165.0,13.0,
-,Siyabonga Nomvethe,za RSA,"FW,MF",5,0,0.0,0.0,2003-2004,17198692,Udinese,69,0.8,0.0,0.0,165.0,60.0,
-,Julio Gutiérrez,cl CHI,FW,3,0,0.0,0.0,2003-2004,d47e6dc9,Udinese,26,0.3,0.0,0.0,165.0,31.0,
-,Diego Gavilán,py PAR,"DF,MF",1,0,0.0,0.0,2003-2004,d177ad67,Udinese,16,0.2,0.0,0.0,165.0,43.0,
-,Mohammed Gargo,gh GHA,DF,2,0,0.0,0.0,2003-2004,35bc50fc,Udinese,12,0.1,0.0,0.0,165.0,17.0,
-,Asamoah Gyan,gh GHA,FW,1,0,0.0,0.0,2003-2004,7f7bbbc2,Udinese,7,0.1,0.0,0.0,165.0,17.0,
-,﻿Morgan De Sanctis,it ITA,GK,36,36,0.0,0.0,2004-2005,83228343,Udinese,"3,177",35.3,1.0,0.0,165.0,9.0,
-,Valerio Bertotto,it ITA,DF,35,35,1.0,0.0,2004-2005,153e1fb3,Udinese,"3,081",34.2,2.0,0.0,165.0,9.0,
-,David Pizarro,cl CHI,MF,34,32,4.0,2.0,2004-2005,8b92c119,Udinese,"2,857",31.7,2.0,0.0,165.0,31.0,
-,David Di Michele,it ITA,FW,37,32,2.0,15.0,2004-2005,0edcd05,Udinese,"2,823",31.4,3.0,0.0,165.0,9.0,
-,Marek Jankulovski,cz CZE,"DF,MF",32,32,7.0,4.0,2004-2005,faef7749,Udinese,"2,787",31.0,7.0,1.0,165.0,84.0,
-,Vincenzo Iaquinta,it ITA,FW,31,30,6.0,13.0,2004-2005,69960e0c,Udinese,"2,667",29.6,2.0,0.0,165.0,9.0,
-,Sulley Muntari,gh GHA,MF,33,30,0.0,2.0,2004-2005,185aa52,Udinese,"2,555",28.4,14.0,0.0,165.0,17.0,
-,Felipe dal Belo,br BRA,DF,31,28,1.0,0.0,2004-2005,8cea6319,Udinese,"2,496",27.7,2.0,0.0,165.0,2.0,
-,Giampiero Pinzi,it ITA,MF,30,27,1.0,1.0,2004-2005,8857991f,Udinese,"2,291",25.5,10.0,2.0,165.0,9.0,
-,Antonio Di Natale,it ITA,FW,33,22,6.0,7.0,2004-2005,45f26945,Udinese,"2,028",22.5,0.0,0.0,165.0,9.0,
-,Per Krøldrup,dk DEN,DF,25,22,1.0,0.0,2004-2005,65f0ff2,Udinese,"2,005",22.3,0.0,0.0,165.0,7.0,
-,Roberto Sensini,ar ARG,DF,21,21,0.0,1.0,2004-2005,5cb3d53a,Udinese,"1,777",19.7,1.0,0.0,165.0,5.0,
-,Stefano Mauri,it ITA,"FW,MF",31,17,2.0,5.0,2004-2005,3bb6738,Udinese,"1,610",17.9,3.0,0.0,165.0,9.0,
-,Damiano Zenoni,it ITA,"DF,MF",16,13,1.0,0.0,2004-2005,1ecfa5c5,Udinese,"1,135",12.6,3.0,0.0,165.0,9.0,
-,Michele Pazienza,it ITA,MF,26,11,1.0,0.0,2004-2005,9f5d69e7,Udinese,"1,201",13.3,8.0,0.0,165.0,9.0,
-,Dino Fava,it ITA,FW,24,8,0.0,2.0,2004-2005,1f4432ac,Udinese,826,9.2,1.0,0.0,165.0,9.0,
-,Mirko Pieri,it ITA,"DF,MF",15,7,0.0,0.0,2004-2005,83e75ac6,Udinese,736,8.2,1.0,0.0,165.0,9.0,
-,Emílson Cribari,br BRA,DF,8,6,1.0,0.0,2004-2005,0913c971,Udinese,582,6.5,2.0,0.0,165.0,2.0,
-,Manuel Belleri,it ITA,DF,21,5,0.0,0.0,2004-2005,3a990b8c,Udinese,574,6.4,0.0,0.0,165.0,9.0,
-,Samir Handanović,si SVN,GK,3,2,0.0,0.0,2004-2005,74419746,Udinese,243,2.7,0.0,0.0,165.0,32.0,
-,Alberto Valentim,br BRA,"DF,MF",2,2,0.0,0.0,2004-2005,64a84087,Udinese,116,1.3,1.0,0.0,165.0,2.0,
-,Gustavo Lazzaretti,br BRA,DF,1,0,,0.0,2004-2005,c58760f2,Udinese,26,0.3,0.0,0.0,165.0,2.0,
-,Fernando Tissone,ar ARG,MF,2,0,,0.0,2004-2005,224238d,Udinese,16,0.2,1.0,0.0,165.0,5.0,
-,Henok Goitom,er ERI,FW,1,0,0.0,1.0,2004-2005,c3680236,Udinese,7,0.1,0.0,0.0,165.0,91.0,
-,﻿Felipe dal Belo,br BRA,DF,35,35,1.0,3.0,2005-2006,8cea6319,Udinese,"3,135",34.8,8.0,0.0,165.0,2.0,
-,Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2005-2006,83228343,Udinese,"3,060",34.0,2.0,0.0,165.0,9.0,
-,Damiano Zenoni,it ITA,"DF,MF",32,31,2.0,0.0,2005-2006,1ecfa5c5,Udinese,"2,738",30.4,5.0,0.0,165.0,9.0,
-,Antonio Di Natale,it ITA,FW,35,29,2.0,8.0,2005-2006,45f26945,Udinese,"2,481",27.6,1.0,0.0,165.0,9.0,
-,Sulley Muntari,gh GHA,MF,29,29,7.0,3.0,2005-2006,185aa52,Udinese,"2,280",25.3,9.0,2.0,165.0,17.0,
-,Vincent Candela,fr FRA,"DF,MF",26,25,1.0,1.0,2005-2006,489d2628,Udinese,"2,202",24.5,2.0,1.0,165.0,4.0,
-,Christian Obodo,ng NGA,MF,28,25,2.0,1.0,2005-2006,dc97300e,Udinese,"2,156",24.0,8.0,2.0,165.0,52.0,
-,Vincenzo Iaquinta,it ITA,FW,24,22,1.0,9.0,2005-2006,69960e0c,Udinese,"1,911",21.2,2.0,1.0,165.0,9.0,
-,Cristián Zapata,co COL,DF,21,21,1.0,1.0,2005-2006,b1deecf8,Udinese,"1,885",20.9,4.0,1.0,165.0,19.0,
-,Valerio Bertotto,it ITA,DF,26,20,0.0,0.0,2005-2006,153e1fb3,Udinese,"1,960",21.8,5.0,0.0,165.0,9.0,
-,Cesare Natali,it ITA,DF,19,19,0.0,1.0,2005-2006,fcfbceaf,Udinese,"1,603",17.8,5.0,0.0,165.0,9.0,
-,Paulo Vitor Barreto,br BRA,FW,27,17,0.0,4.0,2005-2006,cdd4a7e,Udinese,"1,535",17.1,3.0,0.0,165.0,2.0,
-,Roberto Sensini,ar ARG,DF,14,14,0.0,1.0,2005-2006,5cb3d53a,Udinese,"1,260",14.0,3.0,0.0,165.0,5.0,
-,José Luís Vidigal,pt POR,MF,23,13,0.0,1.0,2005-2006,10011693,Udinese,"1,342",14.9,6.0,0.0,165.0,3.0,
-,Fernando Tissone,ar ARG,MF,24,12,0.0,0.0,2005-2006,224238d,Udinese,"1,072",11.9,5.0,0.0,165.0,5.0,
-,Stefano Mauri,it ITA,"FW,MF",16,12,,0.0,2005-2006,3bb6738,Udinese,"1,060",11.8,1.0,1.0,165.0,9.0,
-,Mirko Pieri,it ITA,"DF,MF",14,11,0.0,1.0,2005-2006,83e75ac6,Udinese,931,10.3,1.0,0.0,165.0,9.0,
-,David Di Michele,it ITA,FW,16,10,,3.0,2005-2006,0edcd05,Udinese,996,11.1,1.0,0.0,165.0,9.0,
-,Roberto Baronio,it ITA,MF,17,10,1.0,0.0,2005-2006,6888b53a,Udinese,962,10.7,4.0,1.0,165.0,9.0,
-,Giampiero Pinzi,it ITA,MF,13,10,0.0,0.0,2005-2006,8857991f,Udinese,799,8.9,4.0,2.0,165.0,9.0,
-,Fausto Rossini,it ITA,FW,14,5,0.0,0.0,2005-2006,775840f,Udinese,508,5.6,2.0,1.0,165.0,9.0,
-,Marco Motta,it ITA,DF,6,4,0.0,1.0,2005-2006,1c65a088,Udinese,418,4.6,2.0,0.0,165.0,9.0,
-,Juárez,br BRA,DF,5,4,0.0,0.0,2005-2006,860d365,Udinese,361,4.0,2.0,0.0,165.0,2.0,
-,Gabriele Paoletti,it ITA,GK,4,4,0.0,0.0,2005-2006,d62296c5,Udinese,360,4.0,1.0,0.0,165.0,9.0,
-,Simone Pepe,it ITA,"FW,MF",9,2,0.0,0.0,2005-2006,1f3674c2,Udinese,281,3.1,0.0,0.0,165.0,9.0,
-,Rodrigo Defendi,br BRA,DF,2,2,,0.0,2005-2006,6671a4c,Udinese,143,1.6,0.0,0.0,165.0,2.0,
-,Piermario Morosini,it ITA,MF,5,0,,0.0,2005-2006,29ab43b3,Udinese,133,1.5,1.0,0.0,165.0,9.0,
-,Abel Aguilar,co COL,MF,2,0,,0.0,2005-2006,6936b41b,Udinese,77,0.9,0.0,0.0,165.0,19.0,
-,Al-Saadi Gaddafi,ly LBY,"FW,MF",1,0,,0.0,2005-2006,1d6a98c1,Udinese,10,0.1,0.0,0.0,165.0,169.0,
-,Flavio Lazzari,it ITA,MF,2,0,,0.0,2005-2006,506f6ca3,Udinese,2,0.0,0.0,0.0,165.0,9.0,
-,﻿Morgan De Sanctis,it ITA,GK,36,36,0.0,0.0,2006-2007,83228343,Udinese,"3,199",35.5,2.0,0.0,165.0,9.0,
-,Cristián Zapata,co COL,DF,36,35,0.0,0.0,2006-2007,b1deecf8,Udinese,"3,153",35.0,8.0,0.0,165.0,19.0,
-,Giampiero Pinzi,it ITA,MF,32,32,1.0,1.0,2006-2007,8857991f,Udinese,"2,810",31.2,14.0,0.0,165.0,9.0,
-,Cesare Natali,it ITA,DF,32,32,0.0,0.0,2006-2007,fcfbceaf,Udinese,"2,799",31.1,10.0,0.0,165.0,9.0,
-,Antonio Di Natale,it ITA,FW,31,31,7.0,11.0,2006-2007,45f26945,Udinese,"2,571",28.6,4.0,2.0,165.0,9.0,
-,Vincenzo Iaquinta,it ITA,FW,30,29,5.0,14.0,2006-2007,69960e0c,Udinese,"2,554",28.4,2.0,1.0,165.0,9.0,
-,Christian Obodo,ng NGA,MF,30,29,0.0,5.0,2006-2007,dc97300e,Udinese,"2,552",28.4,4.0,0.0,165.0,52.0,
-,Sulley Muntari,gh GHA,MF,28,27,3.0,3.0,2006-2007,185aa52,Udinese,"2,361",26.2,9.0,3.0,165.0,17.0,
-,Andrea Dossena,it ITA,"DF,MF",28,21,0.0,0.0,2006-2007,3ae59b9c,Udinese,"1,938",21.5,3.0,1.0,165.0,9.0,
-,Andrea Coda,it ITA,DF,22,20,1.0,0.0,2006-2007,6e110b50,Udinese,"1,910",21.2,5.0,1.0,165.0,9.0,
-,Damiano Zenoni,it ITA,"DF,MF",20,20,0.0,0.0,2006-2007,1ecfa5c5,Udinese,"1,800",20.0,4.0,0.0,165.0,9.0,
-,Asamoah Gyan,gh GHA,FW,25,18,3.0,8.0,2006-2007,7f7bbbc2,Udinese,"1,556",17.3,3.0,0.0,165.0,17.0,
-,Marco Motta,it ITA,DF,16,16,0.0,0.0,2006-2007,1c65a088,Udinese,"1,240",13.8,1.0,1.0,165.0,9.0,
-,Gaetano D'Agostino,it ITA,MF,23,14,2.0,0.0,2006-2007,7a469087,Udinese,"1,404",15.6,3.0,1.0,165.0,9.0,
-,Paulo Vitor Barreto,br BRA,FW,26,14,5.0,4.0,2006-2007,cdd4a7e,Udinese,"1,368",15.2,3.0,0.0,165.0,2.0,
-,Aleksandar Luković,rs SRB,DF,14,12,3.0,0.0,2006-2007,caf327a5,Udinese,"1,003",11.1,4.0,0.0,165.0,28.0,
-,Felipe dal Belo,br BRA,DF,12,12,0.0,1.0,2006-2007,8cea6319,Udinese,895,9.9,4.0,1.0,165.0,2.0,
-,Tomáš Zápotočný,cz CZE,DF,11,8,0.0,0.0,2006-2007,3e9e526,Udinese,785,8.7,4.0,0.0,165.0,84.0,
-,Raffaele De Martino,it ITA,MF,17,7,0.0,1.0,2006-2007,3bfcd0c3,Udinese,646,7.2,5.0,1.0,165.0,9.0,
-,Tomáš Sivok,cz CZE,"DF,MF",11,6,0.0,1.0,2006-2007,597ee35c,Udinese,518,5.8,1.0,0.0,165.0,84.0,
-,Guilherme Siqueira,br BRA,"DF,MF",16,3,1.0,0.0,2006-2007,3770a135,Udinese,488,5.4,1.0,0.0,165.0,2.0,
-,José Montiel,py PAR,MF,8,1,0.0,0.0,2006-2007,954498a3,Udinese,146,1.6,0.0,0.0,165.0,43.0,
-,Massimo Gotti,it ITA,DF,4,0,0.0,0.0,2006-2007,22278aa,Udinese,117,1.3,0.0,0.0,165.0,9.0,
-,Fabrizio Casazza,it ITA,GK,1,0,,0.0,2006-2007,1660b0d6,Udinese,45,0.5,0.0,0.0,165.0,9.0,
-,Christian Tiboni,it ITA,FW,2,0,0.0,0.0,2006-2007,27ecb394,Udinese,20,0.2,0.0,0.0,165.0,9.0,
-,Federico Gerardi,it ITA,FW,1,0,,0.0,2006-2007,3ddd3185,Udinese,9,0.1,0.0,0.0,165.0,9.0,
-,Schumacher,br BRA,FW,1,0,,0.0,2006-2007,f426f214,Udinese,7,0.1,0.0,0.0,165.0,2.0,
-,Jani Tapani Virtanen,fi FIN,FW,1,0,,0.0,2006-2007,7d106222,Udinese,1,0.0,0.0,0.0,165.0,83.0,
-,﻿Gökhan Inler,ch SUI,MF,37,37,2.0,2.0,2007-2008,3200c583,Udinese,"3,314",36.8,6.0,0.0,165.0,39.0,
-,Samir Handanović,si SVN,GK,35,35,0.0,0.0,2007-2008,74419746,Udinese,"3,150",35.0,2.0,0.0,165.0,32.0,
-,Fabio Quagliarella,it ITA,FW,37,35,4.0,12.0,2007-2008,4f2f3b,Udinese,"3,070",34.1,4.0,0.0,165.0,9.0,
-,Antonio Di Natale,it ITA,FW,36,35,6.0,17.0,2007-2008,45f26945,Udinese,"3,059",34.0,4.0,0.0,165.0,9.0,
-,Andrea Dossena,it ITA,"DF,MF",35,35,2.0,2.0,2007-2008,3ae59b9c,Udinese,"3,038",33.8,7.0,2.0,165.0,9.0,
-,Gaetano D'Agostino,it ITA,MF,35,34,5.0,0.0,2007-2008,7a469087,Udinese,"2,854",31.7,6.0,0.0,165.0,9.0,
-,Aleksandar Luković,rs SRB,DF,32,29,0.0,0.0,2007-2008,caf327a5,Udinese,"2,608",29.0,3.0,0.0,165.0,28.0,
-,Giandomenico Mesto,it ITA,"DF,MF",28,26,0.0,2.0,2007-2008,6447938e,Udinese,"2,363",26.3,5.0,0.0,165.0,9.0,
-,Cristián Zapata,co COL,DF,27,26,0.0,1.0,2007-2008,b1deecf8,Udinese,"2,287",25.4,7.0,0.0,165.0,19.0,
-,Simone Pepe,it ITA,"FW,MF",33,23,5.0,3.0,2007-2008,1f3674c2,Udinese,"2,048",22.8,7.0,1.0,165.0,9.0,
-,Felipe dal Belo,br BRA,DF,22,22,0.0,1.0,2007-2008,8cea6319,Udinese,"1,810",20.1,9.0,2.0,165.0,2.0,
-,Tomáš Zápotočný,cz CZE,DF,21,20,0.0,0.0,2007-2008,3e9e526,Udinese,"1,548",17.2,4.0,1.0,165.0,84.0,
-,Andrea Coda,it ITA,DF,20,16,0.0,0.0,2007-2008,6e110b50,Udinese,"1,622",18.0,1.0,0.0,165.0,9.0,
-,Antonio Floro Flores,it ITA,FW,37,12,1.0,3.0,2007-2008,d6846501,Udinese,"1,270",14.1,1.0,0.0,165.0,9.0,
-,Damiano Ferronetti,it ITA,"DF,MF",16,11,0.0,1.0,2007-2008,b6cc6dd6,Udinese,992,11.0,2.0,0.0,165.0,9.0,
-,Asamoah Gyan,gh GHA,FW,13,9,1.0,3.0,2007-2008,7f7bbbc2,Udinese,738,8.2,1.0,0.0,165.0,17.0,
-,Roman Eremenko,fi FIN,MF,7,3,0.0,0.0,2007-2008,b220064a,Udinese,278,3.1,0.0,0.0,165.0,83.0,
-,Antonio Chimenti,it ITA,GK,3,3,0.0,0.0,2007-2008,96d5e916,Udinese,270,3.0,0.0,0.0,165.0,9.0,
-,Mauricio Isla,cl CHI,"DF,MF",10,2,0.0,0.0,2007-2008,de4517dd,Udinese,349,3.9,1.0,0.0,165.0,31.0,
-,Guilherme Siqueira,br BRA,"DF,MF",4,2,0.0,0.0,2007-2008,3770a135,Udinese,249,2.8,1.0,0.0,165.0,2.0,
-,Giampiero Pinzi,it ITA,MF,13,1,0.0,0.0,2007-2008,8857991f,Udinese,237,2.6,2.0,1.0,165.0,9.0,
-,Tomáš Sivok,cz CZE,"DF,MF",2,1,0.0,0.0,2007-2008,597ee35c,Udinese,98,1.1,1.0,0.0,165.0,84.0,
-,Viktor Budyanskiy,ru RUS,MF,1,1,0.0,0.0,2007-2008,6502280e,Udinese,47,0.5,0.0,0.0,165.0,23.0,
-,Riccardo Colombo,it ITA,DF,4,0,0.0,0.0,2007-2008,37721e1b,Udinese,43,0.5,0.0,0.0,165.0,9.0,
-,Christian Obodo,ng NGA,MF,1,0,0.0,0.0,2007-2008,dc97300e,Udinese,40,0.4,0.0,0.0,165.0,52.0,
-,Antonio Candreva,it ITA,"DF,FW",3,0,0.0,0.0,2007-2008,356c9002,Udinese,10,0.1,0.0,0.0,165.0,9.0,
-,Michele Paolucci,it ITA,"FW,MF",2,0,0.0,0.0,2007-2008,51ea3db8,Udinese,7,0.1,0.0,0.0,165.0,9.0,
-,﻿Gaetano D'Agostino,it ITA,MF,36,34,8.0,11.0,2008-2009,7a469087,Udinese,"3,033",33.7,7.0,0.0,165.0,9.0,
-,Samir Handanović,si SVN,GK,34,34,0.0,0.0,2008-2009,74419746,Udinese,"2,975",33.1,3.0,0.0,165.0,32.0,
-,Gökhan Inler,ch SUI,MF,36,32,4.0,1.0,2008-2009,3200c583,Udinese,"2,941",32.7,6.0,0.0,165.0,39.0,
-,Mauricio Isla,cl CHI,"DF,MF",32,30,1.0,0.0,2008-2009,de4517dd,Udinese,"2,592",28.8,5.0,0.0,165.0,31.0,
-,Simone Pepe,it ITA,"FW,MF",33,29,2.0,4.0,2008-2009,1f3674c2,Udinese,"2,358",26.2,8.0,0.0,165.0,9.0,
-,Fabio Quagliarella,it ITA,FW,36,24,4.0,13.0,2008-2009,4f2f3b,Udinese,"2,307",25.6,5.0,0.0,165.0,9.0,
-,Andrea Coda,it ITA,DF,24,24,0.0,0.0,2008-2009,6e110b50,Udinese,"2,160",24.0,4.0,0.0,165.0,9.0,
-,Maurizio Domizzi,it ITA,DF,25,23,0.0,1.0,2008-2009,822aad0c,Udinese,"2,095",23.3,7.0,1.0,165.0,9.0,
-,Aleksandar Luković,rs SRB,DF,27,22,0.0,0.0,2008-2009,caf327a5,Udinese,"1,991",22.1,7.0,0.0,165.0,28.0,
-,Antonio Floro Flores,it ITA,FW,33,22,5.0,7.0,2008-2009,d6846501,Udinese,"1,901",21.1,1.0,0.0,165.0,9.0,
-,Giovanni Pasquale,it ITA,DF,28,21,2.0,3.0,2008-2009,9366f242,Udinese,"1,914",21.3,3.0,0.0,165.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",20,19,0.0,2.0,2008-2009,089550f5,Udinese,"1,620",18.0,1.0,0.0,165.0,17.0,
-,Alexis Sánchez,cl CHI,"FW,MF",32,18,1.0,3.0,2008-2009,2c0f8e9e,Udinese,"1,715",19.1,5.0,1.0,165.0,31.0,
-,Cristián Zapata,co COL,DF,18,17,0.0,1.0,2008-2009,b1deecf8,Udinese,"1,609",17.9,2.0,0.0,165.0,19.0,
-,Felipe dal Belo,br BRA,DF,16,16,0.0,2.0,2008-2009,8cea6319,Udinese,"1,440",16.0,3.0,0.0,165.0,2.0,
-,Antonio Di Natale,it ITA,FW,22,15,5.0,12.0,2008-2009,45f26945,Udinese,"1,341",14.9,2.0,1.0,165.0,9.0,
-,Damiano Ferronetti,it ITA,"DF,MF",13,13,0.0,0.0,2008-2009,b6cc6dd6,Udinese,989,11.0,4.0,0.0,165.0,9.0,
-,Marco Motta,it ITA,DF,14,8,0.0,0.0,2008-2009,1c65a088,Udinese,821,9.1,1.0,0.0,165.0,9.0,
-,Christian Obodo,ng NGA,MF,18,6,1.0,0.0,2008-2009,dc97300e,Udinese,639,7.1,0.0,0.0,165.0,52.0,
-,Emanuele Belardi,it ITA,GK,4,4,0.0,0.0,2008-2009,788d51fa,Udinese,360,4.0,0.0,0.0,165.0,9.0,
-,Fernando Tissone,ar ARG,MF,5,2,0.0,0.0,2008-2009,224238d,Udinese,199,2.2,0.0,0.0,165.0,5.0,
-,Luigi Sala,it ITA,DF,2,2,0.0,0.0,2008-2009,d447541e,Udinese,180,2.0,0.0,0.0,165.0,9.0,
-,Niki Zimling,dk DEN,MF,4,2,0.0,0.0,2008-2009,80588923,Udinese,165,1.8,0.0,0.0,165.0,7.0,
-,Odion Ighalo,ng NGA,FW,6,1,1.0,1.0,2008-2009,03622183,Udinese,125,1.4,0.0,0.0,165.0,52.0,
-,Jan Koprivec,si SVN,GK,1,0,0.0,0.0,2008-2009,884e77f9,Udinese,85,0.9,0.0,0.0,165.0,32.0,
-,Alain Nef,ch SUI,DF,2,0,0.0,0.0,2008-2009,b69c4388,Udinese,16,0.2,0.0,0.0,165.0,39.0,
-,﻿Samir Handanović,si SVN,GK,37,37,0.0,0.0,2009-2010,74419746,Udinese,"3,330",37.0,4.0,0.0,165.0,32.0,
-,Antonio Di Natale,it ITA,FW,35,33,4.0,29.0,2009-2010,45f26945,Udinese,"3,010",33.4,6.0,0.0,165.0,9.0,
-,Gökhan Inler,ch SUI,MF,33,32,1.0,0.0,2009-2010,3200c583,Udinese,"2,755",30.6,6.0,0.0,165.0,39.0,
-,Aleksandar Luković,rs SRB,DF,33,31,2.0,0.0,2009-2010,caf327a5,Udinese,"2,836",31.5,8.0,0.0,165.0,28.0,
-,Cristián Zapata,co COL,DF,31,30,0.0,0.0,2009-2010,b1deecf8,Udinese,"2,642",29.4,8.0,1.0,165.0,19.0,
-,Mauricio Isla,cl CHI,"DF,MF",30,27,6.0,1.0,2009-2010,de4517dd,Udinese,"2,272",25.2,5.0,1.0,165.0,31.0,
-,Alexis Sánchez,cl CHI,"FW,MF",32,25,2.0,5.0,2009-2010,2c0f8e9e,Udinese,"2,292",25.5,5.0,0.0,165.0,31.0,
-,Simone Pepe,it ITA,"FW,MF",32,25,4.0,7.0,2009-2010,1f3674c2,Udinese,"2,191",24.3,5.0,0.0,165.0,9.0,
-,Antonio Floro Flores,it ITA,FW,32,25,2.0,9.0,2009-2010,d6846501,Udinese,"2,140",23.8,6.0,0.0,165.0,9.0,
-,Andrea Coda,it ITA,DF,26,24,0.0,0.0,2009-2010,6e110b50,Udinese,"2,172",24.1,8.0,0.0,165.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",25,24,1.0,1.0,2009-2010,089550f5,Udinese,"2,137",23.7,2.0,0.0,165.0,17.0,
-,Giovanni Pasquale,it ITA,DF,22,19,0.0,0.0,2009-2010,9366f242,Udinese,"1,553",17.3,7.0,0.0,165.0,9.0,
-,Gaetano D'Agostino,it ITA,MF,20,18,0.0,1.0,2009-2010,7a469087,Udinese,"1,593",17.7,3.0,0.0,165.0,9.0,
-,Paolo Sammarco,it ITA,MF,26,17,0.0,0.0,2009-2010,3c1e4e84,Udinese,"1,374",15.3,4.0,0.0,165.0,9.0,
-,Dušan Basta,rs SRB,"DF,MF",16,14,0.0,0.0,2009-2010,3b57f7f8,Udinese,"1,294",14.4,3.0,1.0,165.0,28.0,
-,Maurizio Domizzi,it ITA,DF,13,13,0.0,0.0,2009-2010,822aad0c,Udinese,"1,072",11.9,4.0,0.0,165.0,9.0,
-,Damiano Ferronetti,it ITA,"DF,MF",12,8,0.0,0.0,2009-2010,b6cc6dd6,Udinese,785,8.7,3.0,0.0,165.0,9.0,
-,Francesco Lodi,it ITA,MF,19,4,3.0,1.0,2009-2010,3ddc8b87,Udinese,541,6.0,1.0,0.0,165.0,9.0,
-,Juan Cuadrado,co COL,"DF,FW",11,4,0.0,0.0,2009-2010,0ab1f153,Udinese,457,5.1,1.0,0.0,165.0,19.0,
-,Felipe dal Belo,br BRA,DF,3,3,0.0,0.0,2009-2010,8cea6319,Udinese,206,2.3,1.0,0.0,165.0,2.0,
-,Bernardo Corradi,it ITA,FW,19,2,0.0,0.0,2009-2010,d50232c1,Udinese,367,4.1,1.0,0.0,165.0,9.0,
-,Jaime Romero,es ESP,"FW,MF",4,1,0.0,0.0,2009-2010,28205f4,Udinese,136,1.5,0.0,0.0,165.0,1.0,
-,Rafael Romo,ve VEN,GK,1,1,0.0,0.0,2009-2010,8827c189,Udinese,90,1.0,0.0,0.0,165.0,53.0,
-,Niki Zimling,dk DEN,MF,1,1,0.0,0.0,2009-2010,80588923,Udinese,61,0.7,1.0,0.0,165.0,7.0,
-,Alexandre Geijo,es ESP,FW,4,0,0.0,0.0,2009-2010,c0787e61,Udinese,76,0.8,0.0,0.0,165.0,1.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,5,0,0.0,0.0,2009-2010,fe0b8f0e,Udinese,69,0.8,0.0,0.0,165.0,17.0,
-,Guilherme Siqueira,br BRA,"DF,MF",3,0,0.0,0.0,2009-2010,3770a135,Udinese,66,0.7,0.0,0.0,165.0,2.0,
-,Christian Obodo,ng NGA,MF,1,0,0.0,0.0,2009-2010,dc97300e,Udinese,5,0.1,0.0,0.0,165.0,52.0,
-,﻿Kwadwo Asamoah,gh GHA,"DF,MF",38,37,3.0,2.0,2010-2011,089550f5,Udinese,"3,282",36.5,3.0,0.0,165.0,17.0,
-,Samir Handanović,si SVN,GK,35,35,0.0,0.0,2010-2011,74419746,Udinese,"3,150",35.0,4.0,0.0,165.0,32.0,
-,Cristián Zapata,co COL,DF,35,35,0.0,2.0,2010-2011,b1deecf8,Udinese,"3,105",34.5,6.0,0.0,165.0,19.0,
-,Gökhan Inler,ch SUI,MF,35,35,4.0,3.0,2010-2011,3200c583,Udinese,"2,951",32.8,5.0,1.0,165.0,39.0,
-,Antonio Di Natale,it ITA,FW,36,35,6.0,28.0,2010-2011,45f26945,Udinese,"2,917",32.4,3.0,0.0,165.0,9.0,
-,Medhi Benatia,ma MAR,DF,34,34,0.0,3.0,2010-2011,3b15ef2d,Udinese,"3,042",33.8,8.0,0.0,165.0,26.0,
-,Mauricio Isla,cl CHI,"DF,MF",34,34,6.0,2.0,2010-2011,de4517dd,Udinese,"2,859",31.8,1.0,0.0,165.0,31.0,
-,Giampiero Pinzi,it ITA,MF,34,30,3.0,1.0,2010-2011,8857991f,Udinese,"2,735",30.4,10.0,1.0,165.0,9.0,
-,Pablo Armero,co COL,"DF,MF",31,29,5.0,2.0,2010-2011,fabf74e,Udinese,"2,569",28.5,4.0,0.0,165.0,19.0,
-,Maurizio Domizzi,it ITA,DF,30,28,1.0,2.0,2010-2011,822aad0c,Udinese,"2,403",26.7,8.0,1.0,165.0,9.0,
-,Alexis Sánchez,cl CHI,"FW,MF",31,27,7.0,12.0,2010-2011,2c0f8e9e,Udinese,"2,382",26.5,6.0,1.0,165.0,31.0,
-,Andrea Coda,it ITA,DF,22,16,0.0,0.0,2010-2011,6e110b50,Udinese,"1,427",15.9,2.0,1.0,165.0,9.0,
-,Giovanni Pasquale,it ITA,DF,17,10,1.0,0.0,2010-2011,9366f242,Udinese,861,9.6,2.0,0.0,165.0,9.0,
-,Antonio Floro Flores,it ITA,FW,12,10,2.0,3.0,2010-2011,d6846501,Udinese,781,8.7,0.0,0.0,165.0,9.0,
-,Germán Denis,ar ARG,FW,25,8,2.0,4.0,2010-2011,3b64f69d,Udinese,953,10.6,1.0,0.0,165.0,5.0,
-,Almen Abdi,ch SUI,MF,19,6,0.0,0.0,2010-2011,8d425d84,Udinese,634,7.0,5.0,0.0,165.0,39.0,
-,Juan Cuadrado,co COL,"DF,FW",9,3,0.0,0.0,2010-2011,0ab1f153,Udinese,343,3.8,3.0,0.0,165.0,19.0,
-,Emanuele Belardi,it ITA,GK,3,3,0.0,0.0,2010-2011,788d51fa,Udinese,270,3.0,0.0,0.0,165.0,9.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,8,2,0.0,0.0,2010-2011,fe0b8f0e,Udinese,206,2.3,2.0,0.0,165.0,17.0,
-,Gabriele Angella,it ITA,DF,8,1,0.0,0.0,2010-2011,0c971997,Udinese,232,2.6,0.0,1.0,165.0,9.0,
-,Bernardo Corradi,it ITA,FW,18,0,1.0,1.0,2010-2011,d50232c1,Udinese,280,3.1,2.0,0.0,165.0,9.0,
-,Cristian Battocchio,it ITA,MF,1,0,0.0,0.0,2010-2011,0f9b8301,Udinese,23,0.3,0.0,0.0,165.0,9.0,
-,Joel Ekstrand,se SWE,DF,1,0,0.0,0.0,2010-2011,92617483,Udinese,22,0.2,0.0,0.0,165.0,41.0,
-,Matěj Vydra,cz CZE,"FW,MF",2,0,0.0,0.0,2010-2011,0d4ceb32,Udinese,12,0.1,0.0,0.0,165.0,84.0,
-,﻿Samir Handanović,si SVN,GK,38,38,0.0,0.0,2011-2012,74419746,Udinese,"3,420",38.0,3.0,0.0,165.0,32.0,
-,Danilo Larangeira,br BRA,DF,37,37,0.0,1.0,2011-2012,fed5f993,Udinese,"3,324",36.9,6.0,0.0,165.0,2.0,
-,Antonio Di Natale,it ITA,FW,36,35,7.0,23.0,2011-2012,45f26945,Udinese,"3,044",33.8,2.0,0.0,165.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",31,31,2.0,3.0,2011-2012,089550f5,Udinese,"2,724",30.3,3.0,0.0,165.0,17.0,
-,Dušan Basta,rs SRB,"DF,MF",31,31,4.0,5.0,2011-2012,3b57f7f8,Udinese,"2,625",29.2,2.0,0.0,165.0,28.0,
-,Maurizio Domizzi,it ITA,DF,31,30,2.0,1.0,2011-2012,822aad0c,Udinese,"2,595",28.8,7.0,0.0,165.0,9.0,
-,Medhi Benatia,ma MAR,DF,27,27,0.0,1.0,2011-2012,3b15ef2d,Udinese,"2,380",26.4,9.0,0.0,165.0,26.0,
-,Giampiero Pinzi,it ITA,MF,28,27,1.0,2.0,2011-2012,8857991f,Udinese,"2,224",24.7,11.0,1.0,165.0,9.0,
-,Pablo Armero,co COL,"DF,MF",28,25,9.0,0.0,2011-2012,fabf74e,Udinese,"2,328",25.9,7.0,0.0,165.0,19.0,
-,Mauricio Isla,cl CHI,"DF,MF",21,21,2.0,3.0,2011-2012,de4517dd,Udinese,"1,816",20.2,3.0,0.0,165.0,31.0,
-,Giovanni Pasquale,it ITA,DF,21,13,2.0,0.0,2011-2012,9366f242,Udinese,"1,185",13.2,0.0,0.0,165.0,9.0,
-,Antonio Floro Flores,it ITA,FW,26,12,3.0,4.0,2011-2012,d6846501,Udinese,"1,319",14.7,4.0,0.0,165.0,9.0,
-,Michele Pazienza,it ITA,MF,15,12,0.0,1.0,2011-2012,9f5d69e7,Udinese,"1,186",13.2,3.0,0.0,165.0,9.0,
-,Gelson Fernandes,ch SUI,MF,16,12,1.0,1.0,2011-2012,8e58987d,Udinese,"1,138",12.6,4.0,0.0,165.0,39.0,
-,Gabriel Torje,ro ROU,"FW,MF",21,12,1.0,2.0,2011-2012,9ef94c26,Udinese,895,9.9,1.0,0.0,165.0,51.0,
-,Damiano Ferronetti,it ITA,"DF,MF",15,11,0.0,1.0,2011-2012,b6cc6dd6,Udinese,"1,081",12.0,2.0,1.0,165.0,9.0,
-,Almen Abdi,ch SUI,MF,23,9,0.0,0.0,2011-2012,8d425d84,Udinese,920,10.2,3.0,0.0,165.0,39.0,
-,Diego Fabbrini,it ITA,"FW,MF",14,8,0.0,2.0,2011-2012,762cf8e4,Udinese,657,7.3,4.0,1.0,165.0,9.0,
-,Roberto Pereyra,ar ARG,"FW,MF",11,7,1.0,1.0,2011-2012,75f2c59f,Udinese,663,7.4,3.0,0.0,165.0,5.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,10,6,0.0,0.0,2011-2012,fe0b8f0e,Udinese,612,6.8,2.0,0.0,165.0,17.0,
-,Andrea Coda,it ITA,DF,7,6,0.0,0.0,2011-2012,6e110b50,Udinese,524,5.8,1.0,0.0,165.0,9.0,
-,Joel Ekstrand,se SWE,DF,11,5,0.0,0.0,2011-2012,92617483,Udinese,522,5.8,4.0,0.0,165.0,41.0,
-,Paulo Vitor Barreto,br BRA,FW,7,2,0.0,0.0,2011-2012,cdd4a7e,Udinese,216,2.4,1.0,0.0,165.0,2.0,
-,Neuton,br BRA,DF,4,1,0.0,0.0,2011-2012,274e3e73,Udinese,124,1.4,0.0,0.0,165.0,2.0,
-,Cristian Battocchio,it ITA,MF,4,0,0.0,0.0,2011-2012,0f9b8301,Udinese,39,0.4,0.0,0.0,165.0,9.0,
-,Thierry Doubai,ci CIV,MF,1,0,0.0,0.0,2011-2012,186b5cfc,Udinese,2,0.0,0.0,0.0,165.0,35.0,
-,﻿Allan,br BRA,"DF,MF",36,33,6.0,0.0,2012-2013,cc700722,Udinese,"3,039",33.8,6.0,0.0,165.0,2.0,
-,Danilo Larangeira,br BRA,DF,32,32,1.0,2.0,2012-2013,fed5f993,Udinese,"2,817",31.3,10.0,2.0,165.0,2.0,
-,Roberto Pereyra,ar ARG,"FW,MF",37,31,1.0,5.0,2012-2013,75f2c59f,Udinese,"2,806",31.2,2.0,0.0,165.0,5.0,
-,Antonio Di Natale,it ITA,FW,33,31,4.0,23.0,2012-2013,45f26945,Udinese,"2,691",29.9,4.0,0.0,165.0,9.0,
-,Željko Brkić,rs SRB,GK,31,31,0.0,0.0,2012-2013,5b8e51a8,Udinese,"2,662",29.6,1.0,1.0,165.0,28.0,
-,Maurizio Domizzi,it ITA,DF,30,29,2.0,2.0,2012-2013,822aad0c,Udinese,"2,557",28.4,12.0,0.0,165.0,9.0,
-,Dušan Basta,rs SRB,"DF,MF",28,27,3.0,1.0,2012-2013,3b57f7f8,Udinese,"2,417",26.9,2.0,0.0,165.0,28.0,
-,Andrea Lazzari,it ITA,MF,24,21,4.0,1.0,2012-2013,2d6caaa7,Udinese,"1,679",18.7,6.0,1.0,165.0,9.0,
-,Medhi Benatia,ma MAR,DF,19,19,1.0,2.0,2012-2013,3b15ef2d,Udinese,"1,621",18.0,5.0,0.0,165.0,26.0,
-,Giovanni Pasquale,it ITA,DF,18,17,1.0,1.0,2012-2013,9366f242,Udinese,"1,459",16.2,1.0,0.0,165.0,9.0,
-,Giampiero Pinzi,it ITA,MF,19,17,2.0,3.0,2012-2013,8857991f,Udinese,"1,384",15.4,9.0,0.0,165.0,9.0,
-,Luis Muriel,co COL,FW,22,15,3.0,11.0,2012-2013,b2fe5b6,Udinese,"1,386",15.4,5.0,0.0,165.0,19.0,
-,Maicosuel,br BRA,MF,20,15,2.0,2.0,2012-2013,4f5e5c13,Udinese,"1,206",13.4,4.0,0.0,165.0,2.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,25,14,1.0,0.0,2012-2013,fe0b8f0e,Udinese,"1,535",17.1,2.0,0.0,165.0,17.0,
-,Thomas Heurtaux,fr FRA,DF,17,13,0.0,0.0,2012-2013,32d1c24f,Udinese,"1,259",14.0,2.0,2.0,165.0,4.0,
-,Gabriel Silva,br BRA,"DF,MF",18,13,3.0,1.0,2012-2013,4914ed4a,Udinese,"1,231",13.7,1.0,0.0,165.0,2.0,
-,Gabriele Angella,it ITA,DF,14,11,0.0,4.0,2012-2013,0c971997,Udinese,"1,073",11.9,4.0,0.0,165.0,9.0,
-,Andrea Coda,it ITA,DF,11,10,0.0,0.0,2012-2013,6e110b50,Udinese,837,9.3,3.0,0.0,165.0,9.0,
-,Pablo Armero,co COL,"DF,MF",10,8,1.0,0.0,2012-2013,fabf74e,Udinese,753,8.4,2.0,0.0,165.0,19.0,
-,Daniele Padelli,it ITA,GK,9,7,0.0,0.0,2012-2013,cf1c23d8,Udinese,758,8.4,0.0,0.0,165.0,9.0,
-,Davide Faraoni,it ITA,"DF,MF",11,6,0.0,0.0,2012-2013,9d04a,Udinese,526,5.8,1.0,0.0,165.0,9.0,
-,Piotr Zieliński,pl POL,MF,9,4,1.0,0.0,2012-2013,5296e55,Udinese,318,3.5,1.0,0.0,165.0,14.0,
-,Diego Fabbrini,it ITA,"FW,MF",7,4,1.0,0.0,2012-2013,762cf8e4,Udinese,278,3.1,0.0,0.0,165.0,9.0,
-,Mathias Ranégie,se SWE,FW,20,3,0.0,1.0,2012-2013,064c523e,Udinese,482,5.4,1.0,0.0,165.0,41.0,
-,Willians,br BRA,MF,5,3,0.0,0.0,2012-2013,8ac0ac9c,Udinese,170,1.9,0.0,0.0,165.0,2.0,
-,Paulo Vitor Barreto,br BRA,FW,4,2,0.0,0.0,2012-2013,cdd4a7e,Udinese,152,1.7,0.0,0.0,165.0,2.0,
-,Alexander Merkel,kz KAZ,MF,5,1,0.0,0.0,2012-2013,5181e2cb,Udinese,121,1.3,0.0,0.0,165.0,149.0,
-,Cristian Battocchio,it ITA,MF,1,1,0.0,0.0,2012-2013,0f9b8301,Udinese,90,1.0,0.0,0.0,165.0,9.0,
-,Matías Campos,cl CHI,"DF,MF",4,0,0.0,0.0,2012-2013,8ff6d25a,Udinese,87,1.0,0.0,0.0,165.0,31.0,
-,Diego Rodríguez,uy URU,MF,1,0,0.0,0.0,2012-2013,f23be077,Udinese,2,0.0,0.0,0.0,165.0,8.0,
-,﻿Danilo Larangeira,br BRA,DF,36,36,0.0,1.0,2013-2014,fed5f993,Udinese,"3,240",36.0,8.0,0.0,165.0,2.0,
-,Roberto Pereyra,ar ARG,"FW,MF",36,33,6.0,2.0,2013-2014,75f2c59f,Udinese,"2,941",32.7,6.0,0.0,165.0,5.0,
-,Thomas Heurtaux,fr FRA,DF,32,31,1.0,4.0,2013-2014,32d1c24f,Udinese,"2,665",29.6,8.0,0.0,165.0,4.0,
-,Allan,br BRA,"DF,MF",33,30,2.0,0.0,2013-2014,cc700722,Udinese,"2,642",29.4,6.0,1.0,165.0,2.0,
-,Gabriel Silva,br BRA,"DF,MF",31,29,1.0,1.0,2013-2014,4914ed4a,Udinese,"2,522",28.0,4.0,1.0,165.0,2.0,
-,Antonio Di Natale,it ITA,FW,32,29,0.0,17.0,2013-2014,45f26945,Udinese,"2,394",26.6,1.0,0.0,165.0,9.0,
-,Dušan Basta,rs SRB,"DF,MF",30,26,1.0,3.0,2013-2014,3b57f7f8,Udinese,"2,268",25.2,4.0,0.0,165.0,28.0,
-,Maurizio Domizzi,it ITA,DF,26,26,0.0,0.0,2013-2014,822aad0c,Udinese,"2,226",24.7,10.0,0.0,165.0,9.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,29,20,1.0,5.0,2013-2014,fe0b8f0e,Udinese,"1,864",20.7,5.0,0.0,165.0,17.0,
-,Giampiero Pinzi,it ITA,MF,23,19,2.0,1.0,2013-2014,8857991f,Udinese,"1,669",18.5,12.0,0.0,165.0,9.0,
-,Andrea Lazzari,it ITA,MF,25,18,3.0,0.0,2013-2014,2d6caaa7,Udinese,"1,584",17.6,3.0,0.0,165.0,9.0,
-,Bruno Fernandes,pt POR,"FW,MF",24,17,5.0,4.0,2013-2014,507c7bdf,Udinese,"1,553",17.3,4.0,0.0,165.0,3.0,
-,Simone Scuffet,it ITA,GK,16,16,0.0,0.0,2013-2014,41bd99ea,Udinese,"1,440",16.0,1.0,0.0,165.0,9.0,
-,Luis Muriel,co COL,FW,24,14,1.0,4.0,2013-2014,b2fe5b6,Udinese,"1,417",15.7,3.0,0.0,165.0,19.0,
-,Naldo,br BRA,DF,16,13,0.0,0.0,2013-2014,2609621,Udinese,"1,178",13.1,2.0,0.0,165.0,2.0,
-,Željko Brkić,rs SRB,GK,12,12,0.0,0.0,2013-2014,5b8e51a8,Udinese,"1,080",12.0,0.0,0.0,165.0,28.0,
-,Silvan Widmer,ch SUI,"DF,MF",16,11,0.0,0.0,2013-2014,f68b64fc,Udinese,"1,083",12.0,2.0,0.0,165.0,39.0,
-,Ivan Kelava,hr CRO,GK,10,10,0.0,0.0,2013-2014,fc188b82,Udinese,900,10.0,2.0,0.0,165.0,16.0,
-,Nicolás López,uy URU,"FW,MF",21,7,0.0,2.0,2013-2014,8d2ee5e2,Udinese,781,8.7,1.0,0.0,165.0,8.0,
-,Maicosuel,br BRA,MF,19,7,2.0,1.0,2013-2014,4f5e5c13,Udinese,763,8.5,0.0,0.0,165.0,2.0,
-,Igor Bubnjić,hr CRO,DF,7,6,0.0,0.0,2013-2014,881d3,Udinese,515,5.7,0.0,0.0,165.0,16.0,
-,Hassan Yebda,dz ALG,MF,10,4,0.0,0.0,2013-2014,4907d688,Udinese,382,4.2,1.0,0.0,165.0,37.0,
-,Douglas Santos,br BRA,"DF,MF",3,3,0.0,0.0,2013-2014,c50e5bba,Udinese,166,1.8,0.0,0.0,165.0,2.0,
-,Giovanni Pasquale,it ITA,DF,1,1,0.0,0.0,2013-2014,9366f242,Udinese,90,1.0,0.0,0.0,165.0,9.0,
-,Piotr Zieliński,pl POL,MF,10,0,0.0,0.0,2013-2014,5296e55,Udinese,136,1.5,0.0,0.0,165.0,14.0,
-,Mathias Ranégie,se SWE,FW,4,0,0.0,0.0,2013-2014,064c523e,Udinese,39,0.4,0.0,0.0,165.0,41.0,
-,Jadson,br BRA,MF,1,0,0.0,0.0,2013-2014,05748af4,Udinese,6,0.1,0.0,0.0,165.0,2.0,
-,﻿Danilo Larangeira,br BRA,DF,37,37,0.0,2.0,2014-2015,fed5f993,Udinese,"3,330",37.0,7.0,0.0,165.0,2.0,
-,Orestis Karnezis,gr GRE,GK,37,37,0.0,0.0,2014-2015,85b011bb,Udinese,"3,267",36.3,2.0,0.0,165.0,55.0,
-,Silvan Widmer,ch SUI,"DF,MF",36,35,4.0,2.0,2014-2015,f68b64fc,Udinese,"3,007",33.4,5.0,0.0,165.0,39.0,
-,Allan,br BRA,"DF,MF",35,33,5.0,1.0,2014-2015,cc700722,Udinese,"3,001",33.3,8.0,0.0,165.0,2.0,
-,Guilherme,br BRA,MF,34,32,3.0,0.0,2014-2015,8754c7ca,Udinese,"2,719",30.2,5.0,1.0,165.0,2.0,
-,Iván Piris,py PAR,DF,31,31,0.0,0.0,2014-2015,95ced740,Udinese,"2,730",30.3,7.0,0.0,165.0,43.0,
-,Antonio Di Natale,it ITA,FW,33,27,6.0,14.0,2014-2015,45f26945,Udinese,"2,372",26.4,4.0,0.0,165.0,9.0,
-,Cyril Théréau,fr FRA,FW,37,25,0.0,10.0,2014-2015,4d3ab428,Udinese,"2,476",27.5,4.0,0.0,165.0,4.0,
-,Thomas Heurtaux,fr FRA,DF,26,24,1.0,1.0,2014-2015,32d1c24f,Udinese,"2,162",24.0,5.0,1.0,165.0,4.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,27,20,1.0,1.0,2014-2015,fe0b8f0e,Udinese,"1,874",20.8,5.0,1.0,165.0,17.0,
-,Panagiotis Kone,gr GRE,MF,28,20,3.0,1.0,2014-2015,27d34558,Udinese,"1,670",18.6,9.0,1.0,165.0,55.0,
-,Bruno Fernandes,pt POR,"FW,MF",31,16,2.0,3.0,2014-2015,507c7bdf,Udinese,"1,611",17.9,5.0,0.0,165.0,3.0,
-,Giovanni Pasquale,it ITA,DF,21,14,1.0,0.0,2014-2015,9366f242,Udinese,"1,381",15.3,6.0,0.0,165.0,9.0,
-,Giampiero Pinzi,it ITA,MF,19,14,0.0,1.0,2014-2015,8857991f,Udinese,"1,289",14.3,11.0,0.0,165.0,9.0,
-,Molla Wagué,ml MLI,DF,10,10,0.0,2.0,2014-2015,440d8ca,Udinese,892,9.9,4.0,0.0,165.0,12.0,
-,Maurizio Domizzi,it ITA,DF,11,10,0.0,0.0,2014-2015,822aad0c,Udinese,802,8.9,2.0,2.0,165.0,9.0,
-,Gabriel Silva,br BRA,"DF,MF",11,8,0.0,0.0,2014-2015,4914ed4a,Udinese,619,6.9,0.0,0.0,165.0,2.0,
-,Alexandre Geijo,es ESP,FW,13,5,0.0,1.0,2014-2015,c0787e61,Udinese,393,4.4,0.0,0.0,165.0,1.0,
-,Igor Bubnjić,hr CRO,DF,6,5,0.0,0.0,2014-2015,881d3,Udinese,383,4.3,1.0,0.0,165.0,16.0,
-,Luis Muriel,co COL,FW,11,5,1.0,0.0,2014-2015,b2fe5b6,Udinese,371,4.1,1.0,0.0,165.0,19.0,
-,Stipe Perica,hr CRO,FW,9,5,0.0,1.0,2014-2015,269b4638,Udinese,354,3.9,2.0,0.0,165.0,16.0,
-,Melker Hallberg,se SWE,MF,4,2,0.0,0.0,2014-2015,5114ff8a,Udinese,200,2.2,1.0,0.0,165.0,41.0,
-,Rodrigo Aguirre,uy URU,FW,7,1,0.0,1.0,2014-2015,b5691f5d,Udinese,222,2.5,2.0,0.0,165.0,8.0,
-,Simone Scuffet,it ITA,GK,2,1,0.0,0.0,2014-2015,41bd99ea,Udinese,153,1.7,0.0,0.0,165.0,9.0,
-,Lucas Evangelista,br BRA,MF,4,1,0.0,0.0,2014-2015,5f4ce4b6,Udinese,136,1.5,0.0,0.0,165.0,2.0,
-,Simone Pontisso,it ITA,MF,1,0,0.0,0.0,2014-2015,8a2d3fdb,Udinese,45,0.5,0.0,0.0,165.0,9.0,
-,Nicola Belmonte,it ITA,DF,2,0,0.0,0.0,2014-2015,279857a1,Udinese,14,0.2,0.0,0.0,165.0,9.0,
-,Alexis Zapata,co COL,MF,1,0,0.0,0.0,2014-2015,8f76c6,Udinese,8,0.1,0.0,0.0,165.0,19.0,
-,Željko Brkić,rs SRB,GK,0,0,,,2014-2015,5b8e51a8,Udinese,,,,,165.0,28.0,
-,Andrea Coda,it ITA,DF,0,0,,,2014-2015,6e110b50,Udinese,,,,,165.0,9.0,
-,Mauro Coppolaro,it ITA,DF,0,0,,,2014-2015,47d9821b,Udinese,,,,,165.0,9.0,
-,Davide Faraoni,it ITA,"DF,MF",0,0,,,2014-2015,9d04a,Udinese,,,,,165.0,9.0,
-,Nabil Jaadi,ma MAR,"FW,MF",0,0,,,2014-2015,95fb4934,Udinese,,,,,165.0,26.0,
-,Jadson,br BRA,MF,0,0,,,2014-2015,05748af4,Udinese,,,,,165.0,2.0,
-,Jakub Jankto,cz CZE,MF,0,0,,,2014-2015,1ea5f91c,Udinese,,,,,165.0,84.0,
-,Alex Meret,it ITA,GK,0,0,,,2014-2015,9413b19f,Udinese,,,,,165.0,9.0,
-,Neuton,br BRA,DF,0,0,,,2014-2015,274e3e73,Udinese,,,,,165.0,2.0,
-,Samuele Perisan,it ITA,GK,0,0,,,2014-2015,00a17eba,Udinese,,,,,165.0,9.0,
-,Ivan Prtajin,hr CRO,FW,0,0,,,2014-2015,f297a3f1,Udinese,,,,,165.0,16.0,
-,Antonio Vutov,bg BUL,"FW,MF",0,0,,,2014-2015,8f2bf071,Udinese,,,,,165.0,65.0,
-,﻿Orestis Karnezis,gr GRE,GK,38,38,0.0,0.0,2015-2016,85b011bb,Udinese,"3,420",38.0,0.0,0.0,165.0,55.0,
-,Danilo Larangeira,br BRA,DF,34,34,0.0,0.0,2015-2016,fed5f993,Udinese,"2,947",32.7,10.0,2.0,165.0,2.0,
-,Cyril Théréau,fr FRA,FW,36,34,3.0,11.0,2015-2016,4d3ab428,Udinese,"2,894",32.2,2.0,1.0,165.0,4.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,33,30,1.0,4.0,2015-2016,fe0b8f0e,Udinese,"2,661",29.6,6.0,0.0,165.0,17.0,
-,Edenílson,br BRA,MF,29,26,0.0,0.0,2015-2016,4e50f20e,Udinese,"2,204",24.5,3.0,0.0,165.0,2.0,
-,Felipe dal Belo,br BRA,DF,26,26,1.0,1.0,2015-2016,8cea6319,Udinese,"2,139",23.8,11.0,1.0,165.0,2.0,
-,Bruno Fernandes,pt POR,"MF,FW",31,24,4.0,3.0,2015-2016,507c7bdf,Udinese,"2,110",23.4,8.0,1.0,165.0,3.0,
-,Silvan Widmer,ch SUI,MF,27,21,2.0,0.0,2015-2016,f68b64fc,Udinese,"1,908",21.2,4.0,0.0,165.0,39.0,
-,Ali Adnan Kadhim,iq IRQ,"MF,DF",28,21,1.0,1.0,2015-2016,06050480,Udinese,"1,904",21.2,6.0,0.0,165.0,153.0,
-,Francesco Lodi,it ITA,MF,24,20,1.0,1.0,2015-2016,3ddc8b87,Udinese,"1,871",20.8,3.0,0.0,165.0,9.0,
-,Iván Piris,py PAR,DF,27,20,0.0,0.0,2015-2016,95ced740,Udinese,"1,869",20.8,5.0,0.0,165.0,43.0,
-,Molla Wagué,ml MLI,DF,21,20,0.0,0.0,2015-2016,440d8ca,Udinese,"1,691",18.8,6.0,1.0,165.0,12.0,
-,Duván Zapata,co COL,FW,25,15,2.0,8.0,2015-2016,d3de9af0,Udinese,"1,518",16.9,6.0,0.0,165.0,19.0,
-,Manuel Iturra,cl CHI,MF,17,14,1.0,0.0,2015-2016,000b3da6,Udinese,"1,023",11.4,8.0,0.0,165.0,31.0,
-,Zdravko Kuzmanović,rs SRB,MF,16,13,0.0,0.0,2015-2016,6df0dc74,Udinese,"1,131",12.6,5.0,0.0,165.0,28.0,
-,Antonio Di Natale,it ITA,FW,23,12,4.0,2.0,2015-2016,45f26945,Udinese,"1,148",12.8,0.0,0.0,165.0,9.0,
-,Thomas Heurtaux,fr FRA,DF,15,10,0.0,0.0,2015-2016,32d1c24f,Udinese,"1,075",11.9,4.0,0.0,165.0,4.0,
-,Emil Hallfreðsson,is ISL,MF,11,7,0.0,0.0,2015-2016,86015b20,Udinese,662,7.4,3.0,0.0,165.0,40.0,
-,Stipe Perica,hr CRO,FW,11,5,0.0,2.0,2015-2016,269b4638,Udinese,466,5.2,1.0,0.0,165.0,16.0,
-,Pablo Armero,co COL,MF,5,5,0.0,1.0,2015-2016,fabf74e,Udinese,417,4.6,0.0,0.0,165.0,19.0,
-,Marquinho,br BRA,MF,11,4,0.0,0.0,2015-2016,949bdc36,Udinese,451,5.0,3.0,0.0,165.0,2.0,
-,Ryder Matos,br BRA,FW,11,4,1.0,0.0,2015-2016,7280b54f,Udinese,414,4.6,1.0,0.0,165.0,2.0,
-,Guilherme,br BRA,MF,5,4,0.0,0.0,2015-2016,8754c7ca,Udinese,338,3.8,1.0,0.0,165.0,2.0,
-,Rodrigo Aguirre,uy URU,FW,10,3,1.0,0.0,2015-2016,b5691f5d,Udinese,340,3.8,1.0,0.0,165.0,8.0,
-,Maurizio Domizzi,it ITA,DF,5,3,0.0,0.0,2015-2016,822aad0c,Udinese,272,3.0,1.0,0.0,165.0,9.0,
-,Giovanni Pasquale,it ITA,MF,6,2,0.0,0.0,2015-2016,9366f242,Udinese,235,2.6,2.0,0.0,165.0,9.0,
-,Panagiotis Kone,gr GRE,MF,5,2,1.0,0.0,2015-2016,27d34558,Udinese,232,2.6,1.0,1.0,165.0,55.0,
-,Alexander Merkel,kz KAZ,MF,1,1,0.0,0.0,2015-2016,5181e2cb,Udinese,57,0.6,1.0,0.0,165.0,149.0,
-,Andrija Balić,hr CRO,MF,0,0,,,2015-2016,9be4ee80,Udinese,,,,,165.0,16.0,
-,Agostino Camigliano,it ITA,DF,0,0,,,2015-2016,52177b56,Udinese,,,,,165.0,9.0,
-,Mauro Coppolaro,it ITA,DF,0,0,,,2015-2016,47d9821b,Udinese,,,,,165.0,9.0,
-,Lucas Evangelista,br BRA,MF,0,0,,,2015-2016,5f4ce4b6,Udinese,,,,,165.0,2.0,
-,Gaspar Iñíguez,ar ARG,MF,0,0,,,2015-2016,326766d0,Udinese,,,,,165.0,5.0,
-,Emanuel Insúa,ar ARG,DF,0,0,,,2015-2016,792c7b94,Udinese,,,,,165.0,5.0,
-,Alex Meret,it ITA,GK,0,0,,,2015-2016,9413b19f,Udinese,,,,,165.0,9.0,
-,Neuton,br BRA,DF,0,0,,,2015-2016,274e3e73,Udinese,,,,,165.0,2.0,
-,Samuele Perisan,it ITA,GK,0,0,,,2015-2016,00a17eba,Udinese,,,,,165.0,9.0,
-,Giampiero Pinzi,it ITA,MF,0,0,,,2015-2016,8857991f,Udinese,,,,,165.0,9.0,
-,Simone Pontisso,it ITA,MF,0,0,,,2015-2016,8a2d3fdb,Udinese,,,,,165.0,9.0,
-,Rafael Romo,ve VEN,GK,0,0,,,2015-2016,8827c189,Udinese,,,,,165.0,53.0,
-,﻿Duván Zapata,co COL,FW,38,37,3.0,10.0,2016-2017,d3de9af0,Udinese,"3,141",34.9,3.0,0.0,165.0,19.0,
-,Danilo Larangeira,br BRA,DF,36,36,1.0,2.0,2016-2017,fed5f993,Udinese,"3,203",35.6,9.0,1.0,165.0,2.0,
-,Orestis Karnezis,gr GRE,GK,33,33,0.0,0.0,2016-2017,85b011bb,Udinese,"2,958",32.9,3.0,0.0,165.0,55.0,
-,Rodrigo De Paul,ar ARG,"FW,MF",34,32,1.0,4.0,2016-2017,162efffd,Udinese,"2,337",26.0,7.0,1.0,165.0,5.0,
-,Felipe dal Belo,br BRA,DF,32,31,0.0,1.0,2016-2017,8cea6319,Udinese,"2,813",31.3,9.0,0.0,165.0,2.0,
-,Cyril Théréau,fr FRA,FW,33,31,1.0,12.0,2016-2017,4d3ab428,Udinese,"2,483",27.6,3.0,0.0,165.0,4.0,
-,Silvan Widmer,ch SUI,DF,28,28,4.0,0.0,2016-2017,f68b64fc,Udinese,"2,490",27.7,2.0,0.0,165.0,39.0,
-,Jakub Jankto,cz CZE,MF,29,24,4.0,5.0,2016-2017,1ea5f91c,Udinese,"1,898",21.1,6.0,0.0,165.0,84.0,
-,Emil Hallfreðsson,is ISL,MF,28,23,4.0,0.0,2016-2017,86015b20,Udinese,"1,984",22.0,10.0,0.0,165.0,40.0,
-,Seko Fofana,ci CIV,MF,22,21,1.0,5.0,2016-2017,5313ed43,Udinese,"1,821",20.2,3.0,0.0,165.0,35.0,
-,Samir Santos,br BRA,DF,21,21,3.0,0.0,2016-2017,92b4758e,Udinese,"1,779",19.8,3.0,0.0,165.0,2.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,29,20,3.0,0.0,2016-2017,fe0b8f0e,Udinese,"2,033",22.6,2.0,0.0,165.0,17.0,
-,Sven Kums,be BEL,MF,29,20,1.0,0.0,2016-2017,83534f30,Udinese,"1,828",20.3,3.0,0.0,165.0,27.0,
-,Gabriele Angella,it ITA,"DF,MF",14,10,0.0,1.0,2016-2017,0c971997,Udinese,"1,017",11.3,3.0,0.0,165.0,9.0,
-,Ali Adnan Kadhim,iq IRQ,"DF,MF",14,8,0.0,0.0,2016-2017,06050480,Udinese,872,9.7,2.0,0.0,165.0,153.0,
-,Molla Wagué,ml MLI,DF,6,6,0.0,0.0,2016-2017,440d8ca,Udinese,540,6.0,2.0,0.0,165.0,12.0,
-,Thomas Heurtaux,fr FRA,DF,12,6,1.0,0.0,2016-2017,32d1c24f,Udinese,528,5.9,3.0,0.0,165.0,4.0,
-,Stipe Perica,hr CRO,"FW,MF",27,5,1.0,6.0,2016-2017,269b4638,Udinese,"1,086",12.1,4.0,0.0,165.0,16.0,
-,Simone Scuffet,it ITA,GK,6,5,0.0,0.0,2016-2017,41bd99ea,Udinese,462,5.1,0.0,0.0,165.0,9.0,
-,Ryder Matos,br BRA,"FW,MF",20,4,0.0,0.0,2016-2017,7280b54f,Udinese,556,6.2,0.0,0.0,165.0,2.0,
-,Davide Faraoni,it ITA,DF,5,4,0.0,0.0,2016-2017,9d04a,Udinese,329,3.7,2.0,0.0,165.0,9.0,
-,Panagiotis Kone,gr GRE,MF,5,3,0.0,0.0,2016-2017,27d34558,Udinese,301,3.3,1.0,0.0,165.0,55.0,
-,Andrija Balić,hr CRO,"MF,FW",4,3,0.0,1.0,2016-2017,9be4ee80,Udinese,239,2.7,1.0,0.0,165.0,16.0,
-,Gabriel Silva,br BRA,"MF,DF",5,2,0.0,0.0,2016-2017,4914ed4a,Udinese,234,2.6,2.0,0.0,165.0,2.0,
-,Lucas Evangelista,br BRA,MF,6,2,1.0,0.0,2016-2017,5f4ce4b6,Udinese,207,2.3,1.0,0.0,165.0,2.0,
-,Pablo Armero,co COL,DF,2,2,0.0,0.0,2016-2017,fabf74e,Udinese,180,2.0,1.0,0.0,165.0,19.0,
-,Adalberto Peñaranda,ve VEN,FW,6,1,0.0,0.0,2016-2017,4b3f2936,Udinese,160,1.8,0.0,0.0,165.0,53.0,
-,Ewandro,br BRA,"FW,MF",5,0,0.0,0.0,2016-2017,b11c58a,Udinese,61,0.7,0.0,0.0,165.0,2.0,
-,Francesco Lodi,it ITA,MF,1,0,0.0,0.0,2016-2017,3ddc8b87,Udinese,12,0.1,0.0,0.0,165.0,9.0,
-,Panos Armenakas,au AUS,MF,0,0,,,2016-2017,02a9fccf,Udinese,,,,,165.0,42.0,
-,Davide Borsellini,it ITA,GK,0,0,,,2016-2017,21b6d3e9,Udinese,,,,,165.0,9.0,
-,Edoardo Bovolon,it ITA,MF,0,0,,,2016-2017,7455e15,Udinese,,,,,165.0,9.0,
-,Franck Djoulou,ci CIV,FW,0,0,,,2016-2017,5443b3d,Udinese,,,,,165.0,35.0,
-,Edenílson,br BRA,MF,0,0,,,2016-2017,4e50f20e,Udinese,,,,,165.0,2.0,
-,Assane Gnoukouri,ci CIV,MF,0,0,,,2016-2017,2e2e72d5,Udinese,,,,,165.0,35.0,
-,Luca Magnino,it ITA,MF,0,0,,,2016-2017,b32345a1,Udinese,,,,,165.0,9.0,
-,Alberto Parpinel,it ITA,DF,0,0,,,2016-2017,7839d1f0,Udinese,,,,,165.0,9.0,
-,Samuele Perisan,it ITA,GK,0,0,,,2016-2017,00a17eba,Udinese,,,,,165.0,9.0,
-,Luca Scordino,it ITA,GK,0,0,,,2016-2017,d3374cca,Udinese,,,,,165.0,9.0,
-,Filip Vaško,sk SVK,DF,0,0,,,2016-2017,8ffe9134,Udinese,,,,,165.0,70.0,
-,﻿Albano Bizzarri,ar ARG,GK,32,32,0.0,0.0,2017-2018,32b9b5fa,Udinese,"2,880",32.0,0.0,1.0,165.0,5.0,
-,Danilo Larangeira,br BRA,DF,32,32,0.0,1.0,2017-2018,fed5f993,Udinese,"2,775",30.8,8.0,0.0,165.0,2.0,
-,Antonín Barák,cz CZE,MF,34,31,3.0,7.0,2017-2018,01efac19,Udinese,"2,713",30.1,5.0,0.0,165.0,84.0,
-,Samir Santos,br BRA,DF,31,30,0.0,2.0,2017-2018,92b4758e,Udinese,"2,569",28.5,7.0,1.0,165.0,2.0,
-,Jakub Jankto,cz CZE,"MF,FW",36,28,4.0,4.0,2017-2018,1ea5f91c,Udinese,"2,654",29.5,5.0,0.0,165.0,84.0,
-,Jens Stryger Larsen,dk DEN,DF,30,28,1.0,1.0,2017-2018,f91e81c9,Udinese,"2,531",28.1,5.0,0.0,165.0,7.0,
-,Bram Nuytinck,nl NED,DF,27,26,1.0,1.0,2017-2018,33f36d5,Udinese,"2,362",26.2,2.0,0.0,165.0,11.0,
-,Kevin Lasagna,it ITA,FW,29,26,2.0,12.0,2017-2018,09538fdb,Udinese,"2,130",23.7,1.0,0.0,165.0,9.0,
-,Rodrigo De Paul,ar ARG,"FW,MF",37,25,8.0,4.0,2017-2018,162efffd,Udinese,"2,319",25.8,4.0,0.0,165.0,5.0,
-,Seko Fofana,ci CIV,MF,27,22,0.0,3.0,2017-2018,5313ed43,Udinese,"1,868",20.8,4.0,1.0,165.0,35.0,
-,Maxi López,ar ARG,FW,28,20,2.0,2.0,2017-2018,d469944,Udinese,"1,684",18.7,1.0,0.0,165.0,5.0,
-,Ali Adnan Kadhim,iq IRQ,"DF,FW",23,18,1.0,0.0,2017-2018,06050480,Udinese,"1,674",18.6,4.0,0.0,165.0,153.0,
-,Silvan Widmer,ch SUI,"DF,FW",24,18,2.0,3.0,2017-2018,f68b64fc,Udinese,"1,625",18.1,2.0,0.0,165.0,39.0,
-,Valon Behrami,ch SUI,MF,20,18,0.0,1.0,2017-2018,d3d758d8,Udinese,"1,398",15.5,5.0,0.0,165.0,39.0,
-,Andrija Balić,hr CRO,MF,21,11,1.0,0.0,2017-2018,9be4ee80,Udinese,"1,083",12.0,2.0,0.0,165.0,16.0,
-,Giuseppe Pezzella,it ITA,"DF,FW",15,10,0.0,0.0,2017-2018,149c5f5d,Udinese,903,10.0,3.0,1.0,165.0,9.0,
-,Stipe Perica,hr CRO,FW,22,9,0.0,1.0,2017-2018,269b4638,Udinese,943,10.5,6.0,0.0,165.0,16.0,
-,Gabriele Angella,it ITA,DF,12,9,0.0,0.0,2017-2018,0c971997,Udinese,893,9.9,3.0,0.0,165.0,9.0,
-,Emil Hallfreðsson,is ISL,MF,19,8,0.0,0.0,2017-2018,86015b20,Udinese,764,8.5,5.0,0.0,165.0,40.0,
-,Simone Scuffet,it ITA,GK,6,6,0.0,0.0,2017-2018,41bd99ea,Udinese,540,6.0,0.0,0.0,165.0,9.0,
-,Francesco Zampano,it ITA,DF,6,4,1.0,0.0,2017-2018,8e45910b,Udinese,412,4.6,0.0,0.0,165.0,9.0,
-,Svante Ingelsson,se SWE,MF,7,3,1.0,1.0,2017-2018,4133cfcf,Udinese,325,3.6,0.0,0.0,165.0,41.0,
-,Cyril Théréau,fr FRA,"FW,MF",2,2,0.0,2.0,2017-2018,4d3ab428,Udinese,180,2.0,0.0,0.0,165.0,4.0,
-,Ryder Matos,br BRA,MF,4,1,0.0,0.0,2017-2018,7280b54f,Udinese,170,1.9,0.0,0.0,165.0,2.0,
-,Molla Wagué,ml MLI,DF,1,1,0.0,0.0,2017-2018,440d8ca,Udinese,57,0.6,0.0,0.0,165.0,12.0,
-,Riad Bajić,ba BIH,"FW,MF",5,0,0.0,0.0,2017-2018,49d399d5,Udinese,80,0.9,0.0,0.0,165.0,49.0,
-,Simone Pontisso,it ITA,MF,1,0,0.0,0.0,2017-2018,8a2d3fdb,Udinese,10,0.1,0.0,0.0,165.0,9.0,
-,Paweł Bochniewicz,pl POL,DF,0,0,,,2017-2018,9bf068be,Udinese,,,,,165.0,14.0,
-,Davide Borsellini,it ITA,GK,0,0,,,2017-2018,21b6d3e9,Udinese,,,,,165.0,9.0,
-,Aldo Caiazza,it ITA,DF,0,0,,,2017-2018,24eb64e4,Udinese,,,,,165.0,9.0,
-,Franck Djoulou,ci CIV,FW,0,0,,,2017-2018,5443b3d,Udinese,,,,,165.0,35.0,
-,Andrea Donadello,it ITA,DF,0,0,,,2017-2018,81d1603c,Udinese,,,,,165.0,9.0,
-,Ewandro,br BRA,"FW,MF",0,0,,,2017-2018,b11c58a,Udinese,,,,,165.0,2.0,
-,Manuel Gasparini,it ITA,GK,0,0,,,2017-2018,7033ca08,Udinese,,,,,165.0,9.0,
-,Nabil Jaadi,ma MAR,"FW,MF",0,0,,,2017-2018,95fb4934,Udinese,,,,,165.0,26.0,
-,Luis Ndreu,al ALB,MF,0,0,,,2017-2018,171b175,Udinese,,,,,165.0,78.0,
-,Semuel Pizzignacco,it ITA,GK,0,0,,,2017-2018,4f537cf7,Udinese,,,,,165.0,9.0,
-,Mak Varešanović,ba BIH,MF,0,0,,,2017-2018,bf4bff7b,Udinese,,,,,165.0,49.0,
-,Filip Vaško,sk SVK,DF,0,0,,,2017-2018,8ffe9134,Udinese,,,,,165.0,70.0,
-,﻿Jens Stryger Larsen,dk DEN,DF,36,36,4.0,1.0,2018-2019,f91e81c9,Udinese,"3,234",35.9,6.0,0.0,165.0,7.0,
-,Rodrigo De Paul,ar ARG,"MF,FW",36,36,9.0,9.0,2018-2019,162efffd,Udinese,"3,189",35.4,7.0,0.0,165.0,5.0,
-,William Troost-Ekong,ng NGA,DF,35,35,0.0,0.0,2018-2019,7ed4921e,Udinese,"3,064",34.0,4.0,0.0,165.0,52.0,
-,Rolando Mandragora,it ITA,MF,35,33,2.0,3.0,2018-2019,c7259b83,Udinese,"2,918",32.4,8.0,1.0,165.0,9.0,
-,Seko Fofana,ci CIV,MF,31,31,4.0,2.0,2018-2019,5313ed43,Udinese,"2,639",29.3,5.0,0.0,165.0,35.0,
-,Juan Musso,ar ARG,GK,29,29,0.0,0.0,2018-2019,111cf41,Udinese,"2,610",29.0,4.0,0.0,165.0,5.0,
-,Kevin Lasagna,it ITA,FW,36,26,2.0,6.0,2018-2019,09538fdb,Udinese,"2,453",27.3,2.0,0.0,165.0,9.0,
-,Ignacio Pussetto,ar ARG,"FW,MF",35,24,4.0,4.0,2018-2019,62437b4f,Udinese,"2,178",24.2,8.0,0.0,165.0,5.0,
-,Bram Nuytinck,nl NED,DF,27,24,0.0,0.0,2018-2019,33f36d5,Udinese,"2,127",23.6,4.0,1.0,165.0,11.0,
-,Samir Santos,br BRA,DF,21,21,0.0,2.0,2018-2019,92b4758e,Udinese,"1,797",20.0,7.0,0.0,165.0,2.0,
-,Valon Behrami,ch SUI,MF,19,17,0.0,1.0,2018-2019,d3d758d8,Udinese,"1,361",15.1,6.0,0.0,165.0,39.0,
-,Marco D'Alessandro,it ITA,DF,24,16,2.0,0.0,2018-2019,060606ec,Udinese,"1,495",16.6,3.0,0.0,165.0,9.0,
-,Sebastien De Maio,fr FRA,DF,16,13,0.0,1.0,2018-2019,952a03fe,Udinese,"1,173",13.0,1.0,1.0,165.0,4.0,
-,Hidde ter Avest,nl NED,"DF,FW",13,12,1.0,0.0,2018-2019,18f9dbd0,Udinese,973,10.8,0.0,0.0,165.0,11.0,
-,Stefano Okaka,it ITA,FW,16,11,1.0,6.0,2018-2019,601ef102,Udinese,970,10.8,4.0,0.0,165.0,9.0,
-,Marvin Zeegelaar,nl NED,DF,12,10,0.0,0.0,2018-2019,8abd0c03,Udinese,956,10.6,6.0,1.0,165.0,11.0,
-,Nicholas Opoku,gh GHA,DF,12,9,0.0,0.0,2018-2019,b871bf55,Udinese,910,10.1,5.0,0.0,165.0,17.0,
-,Simone Scuffet,it ITA,GK,9,9,0.0,0.0,2018-2019,41bd99ea,Udinese,810,9.0,0.0,0.0,165.0,9.0,
-,Sandro,br BRA,MF,12,7,0.0,0.0,2018-2019,c1c2c925,Udinese,594,6.6,5.0,0.0,165.0,2.0,
-,Darwin Machís,ve VEN,"MF,FW",13,4,1.0,0.0,2018-2019,d6ea4d9,Udinese,463,5.1,2.0,0.0,165.0,53.0,
-,Antonín Barák,cz CZE,"MF,FW",8,4,0.0,0.0,2018-2019,01efac19,Udinese,329,3.7,0.0,0.0,165.0,84.0,
-,Łukasz Teodorczyk,pl POL,FW,16,2,0.0,1.0,2018-2019,7e81a17d,Udinese,400,4.4,1.0,0.0,165.0,14.0,
-,Ben Wilmot,eng ENG,"DF,MF",5,2,0.0,0.0,2018-2019,2876eaa3,Udinese,199,2.2,1.0,0.0,165.0,6.0,
-,Giuseppe Pezzella,it ITA,DF,4,2,0.0,0.0,2018-2019,149c5f5d,Udinese,184,2.0,1.0,0.0,165.0,9.0,
-,Emmanuel Agyemang-Badu,gh GHA,MF,4,2,0.0,0.0,2018-2019,fe0b8f0e,Udinese,161,1.8,0.0,0.0,165.0,17.0,
-,Emil Hallfreðsson,is ISL,MF,3,1,0.0,1.0,2018-2019,86015b20,Udinese,137,1.5,0.0,0.0,165.0,40.0,
-,Svante Ingelsson,se SWE,"DF,MF",3,1,0.0,0.0,2018-2019,4133cfcf,Udinese,97,1.1,0.0,0.0,165.0,41.0,
-,Molla Wagué,ml MLI,DF,2,1,0.0,0.0,2018-2019,440d8ca,Udinese,95,1.1,0.0,0.0,165.0,12.0,
-,Felipe Vizeu,br BRA,"FW,DF",5,0,0.0,0.0,2018-2019,0412b9cd,Udinese,32,0.4,0.0,0.0,165.0,2.0,
-,Andrija Balić,hr CRO,"FW,MF",4,0,0.0,0.0,2018-2019,9be4ee80,Udinese,27,0.3,0.0,0.0,165.0,16.0,
-,Petar Mićin,rs SRB,MF,1,0,0.0,0.0,2018-2019,259deea9,Udinese,3,0.0,0.0,0.0,165.0,28.0,
-,Nícolas Andrade,br BRA,GK,0,0,,,2018-2019,326d09ef,Udinese,,,,,165.0,2.0,
-,Thomas Battistella,it ITA,MF,0,0,,,2018-2019,1ebee5ea,Udinese,,,,,165.0,9.0,
-,Milos Bocic,rs SRB,FW,0,0,,,2018-2019,6d74685,Udinese,,,,,165.0,28.0,
-,Álex Centelles,es ESP,DF,0,0,,,2018-2019,852b7d,Udinese,,,,,165.0,1.0,
-,Mamadou Coulibaly,sn SEN,MF,0,0,,,2018-2019,c976160c,Udinese,,,,,165.0,34.0,
-,Manuel Gasparini,it ITA,GK,0,0,,,2018-2019,7033ca08,Udinese,,,,,165.0,9.0,
-,Gaspar Iñíguez,ar ARG,MF,0,0,,,2018-2019,326766d0,Udinese,,,,,165.0,5.0,
-,Samuele Perisan,it ITA,GK,0,0,,,2018-2019,00a17eba,Udinese,,,,,165.0,9.0,
-,Simone Pontisso,it ITA,MF,0,0,,,2018-2019,8a2d3fdb,Udinese,,,,,165.0,9.0,
-,Filip Vaško,sk SVK,DF,0,0,,,2018-2019,8ffe9134,Udinese,,,,,165.0,70.0,
-,﻿Juan Musso,ar ARG,GK,38,38,0.0,0.0,2019-2020,111cf41,Udinese,"3,420",38.0,1.0,0.0,165.0,5.0,
-,Rodrigo De Paul,ar ARG,MF,34,33,6.0,7.0,2019-2020,162efffd,Udinese,"2,822",31.4,5.0,1.0,165.0,5.0,
-,Jens Stryger Larsen,dk DEN,DF,33,32,3.0,1.0,2019-2020,f91e81c9,Udinese,"2,789",31.0,5.0,0.0,165.0,7.0,
-,Ken Sema,se SWE,"DF,MF",32,30,1.0,2.0,2019-2020,1770bd68,Udinese,"2,453",27.3,6.0,0.0,165.0,41.0,
-,William Troost-Ekong,ng NGA,DF,30,29,0.0,0.0,2019-2020,7ed4921e,Udinese,"2,576",28.6,5.0,0.0,165.0,52.0,
-,Kevin Lasagna,it ITA,FW,36,28,1.0,10.0,2019-2020,09538fdb,Udinese,"2,569",28.5,1.0,0.0,165.0,9.0,
-,Stefano Okaka,it ITA,FW,33,28,2.0,8.0,2019-2020,601ef102,Udinese,"2,415",26.8,10.0,0.0,165.0,9.0,
-,Bram Nuytinck,nl NED,DF,26,26,0.0,0.0,2019-2020,33f36d5,Udinese,"2,225",24.7,2.0,0.0,165.0,11.0,
-,Seko Fofana,ci CIV,MF,32,24,7.0,3.0,2019-2020,5313ed43,Udinese,"2,249",25.0,4.0,0.0,165.0,35.0,
-,Rodrigo Becão,br BRA,DF,29,24,1.0,1.0,2019-2020,19e4eab9,Udinese,"2,213",24.6,8.0,0.0,165.0,2.0,
-,Rolando Mandragora,it ITA,MF,26,24,2.0,0.0,2019-2020,c7259b83,Udinese,"2,050",22.8,2.0,0.0,165.0,9.0,
-,Mato Jajalo,ba BIH,MF,26,19,0.0,0.0,2019-2020,8c65eb5f,Udinese,"1,649",18.3,8.0,1.0,165.0,49.0,
-,Sebastien De Maio,fr FRA,DF,21,17,0.0,0.0,2019-2020,952a03fe,Udinese,"1,500",16.7,1.0,0.0,165.0,4.0,
-,Samir Santos,br BRA,DF,21,16,0.0,1.0,2019-2020,92b4758e,Udinese,"1,546",17.2,3.0,0.0,165.0,2.0,
-,Ilija Nestorovski,mk MKD,FW,28,15,1.0,3.0,2019-2020,b1236c63,Udinese,"1,251",13.9,4.0,0.0,165.0,81.0,
-,Walace,br BRA,MF,20,12,0.0,0.0,2019-2020,26db8853,Udinese,"1,139",12.7,2.0,0.0,165.0,2.0,
-,Hidde ter Avest,nl NED,DF,20,6,0.0,0.0,2019-2020,18f9dbd0,Udinese,686,7.6,1.0,0.0,165.0,11.0,
-,Marvin Zeegelaar,nl NED,DF,13,6,1.0,0.0,2019-2020,8abd0c03,Udinese,593,6.6,3.0,0.0,165.0,11.0,
-,Nicholas Opoku,gh GHA,DF,7,6,0.0,0.0,2019-2020,b871bf55,Udinese,481,5.3,3.0,1.0,165.0,17.0,
-,Ignacio Pussetto,ar ARG,"FW,DF",12,2,0.0,1.0,2019-2020,62437b4f,Udinese,341,3.8,1.0,0.0,165.0,5.0,
-,Łukasz Teodorczyk,pl POL,FW,14,1,1.0,0.0,2019-2020,7e81a17d,Udinese,222,2.5,1.0,0.0,165.0,14.0,
-,Antonín Barák,cz CZE,"MF,FW",8,1,0.0,0.0,2019-2020,01efac19,Udinese,194,2.2,1.0,0.0,165.0,84.0,
-,Giuseppe Pezzella,it ITA,DF,1,1,0.0,0.0,2019-2020,149c5f5d,Udinese,80,0.9,0.0,0.0,165.0,9.0,
-,Marco Ballarini,it ITA,MF,1,0,0.0,0.0,2019-2020,8cb494c9,Udinese,1,0.0,0.0,0.0,165.0,9.0,
-,Martin Palumbo,no NOR,MF,1,0,0.0,0.0,2019-2020,f8d41a8c,Udinese,1,0.0,0.0,0.0,165.0,21.0,
-,Nícolas Andrade,br BRA,GK,0,0,,,2019-2020,326d09ef,Udinese,,,,,165.0,2.0,
-,Mattia Compagnon,it ITA,MF,0,0,,,2019-2020,270d0d18,Udinese,,,,,165.0,9.0,
-,Jan Kubala,cz CZE,MF,0,0,,,2019-2020,3702ae0d,Udinese,,,,,165.0,84.0,
-,Eric Lirussi,it ITA,FW,0,0,,,2019-2020,f45df035,Udinese,,,,,165.0,9.0,
-,Aly Mallé,ml MLI,FW,0,0,,,2019-2020,c50db9b5,Udinese,,,,,165.0,12.0,
-,Francesco Mazzolo,it ITA,DF,0,0,,,2019-2020,89522a73,Udinese,,,,,165.0,9.0,
-,Enrico Oviszach,it ITA,MF,0,0,,,2019-2020,0ff53d6f,Udinese,,,,,165.0,9.0,
-,Samuele Perisan,it ITA,GK,0,0,,,2019-2020,00a17eba,Udinese,,,,,165.0,9.0,
-,Francisco Sierralta,cl CHI,DF,0,0,,,2019-2020,0f933743,Udinese,,,,,165.0,31.0,
-,﻿Rodrigo De Paul,ar ARG,MF,36,36,9.0,9.0,2020-2021,162efffd,Udinese,"3,201",35.6,5.0,2.0,165.0,5.0,
-,Juan Musso,ar ARG,GK,35,35,0.0,0.0,2020-2021,111cf41,Udinese,"3,147",35.0,5.0,0.0,165.0,5.0,
-,Roberto Pereyra,ar ARG,"MF,FW",34,34,7.0,5.0,2020-2021,75f2c59f,Udinese,"2,925",32.5,8.0,0.0,165.0,5.0,
-,Rodrigo Becão,br BRA,DF,35,32,0.0,1.0,2020-2021,19e4eab9,Udinese,"2,780",30.9,5.0,0.0,165.0,2.0,
-,Jens Stryger Larsen,dk DEN,DF,33,30,0.0,2.0,2020-2021,f91e81c9,Udinese,"2,638",29.3,0.0,0.0,165.0,7.0,
-,Kevin Bonifazi,it ITA,DF,30,28,0.0,0.0,2020-2021,fb77bfef,Udinese,"2,469",27.4,4.0,0.0,165.0,9.0,
-,Tolgay Arslan,de GER,MF,30,25,0.0,3.0,2020-2021,963a328b,Udinese,"1,818",20.2,9.0,0.0,165.0,13.0,
-,Samir Santos,br BRA,DF,30,24,0.0,1.0,2020-2021,92b4758e,Udinese,"2,216",24.6,6.0,0.0,165.0,2.0,
-,Walace,br BRA,MF,30,23,0.0,0.0,2020-2021,26db8853,Udinese,"2,055",22.8,4.0,0.0,165.0,2.0,
-,Marvin Zeegelaar,nl NED,DF,24,23,0.0,1.0,2020-2021,8abd0c03,Udinese,"1,740",19.3,6.0,0.0,165.0,11.0,
-,Bram Nuytinck,nl NED,DF,20,19,0.0,1.0,2020-2021,33f36d5,Udinese,"1,641",18.2,1.0,0.0,165.0,11.0,
-,Nahuel Molina,ar ARG,DF,29,18,5.0,2.0,2020-2021,23610943,Udinese,"1,828",20.3,1.0,0.0,165.0,5.0,
-,Stefano Okaka,it ITA,FW,22,17,1.0,4.0,2020-2021,601ef102,Udinese,"1,489",16.5,2.0,0.0,165.0,9.0,
-,Kevin Lasagna,it ITA,FW,17,12,1.0,2.0,2020-2021,09538fdb,Udinese,"1,103",12.3,1.0,0.0,165.0,9.0,
-,Sebastien De Maio,fr FRA,DF,15,9,0.0,0.0,2020-2021,952a03fe,Udinese,853,9.5,1.0,0.0,165.0,4.0,
-,Ignacio Pussetto,ar ARG,FW,11,9,1.0,3.0,2020-2021,62437b4f,Udinese,754,8.4,2.0,0.0,165.0,5.0,
-,Fernando Llorente,es ESP,FW,14,8,0.0,1.0,2020-2021,82dbf623,Udinese,713,7.9,2.0,0.0,165.0,1.0,
-,Gerard Deulofeu,es ESP,"FW,MF",13,7,1.0,1.0,2020-2021,39583cfd,Udinese,598,6.6,0.0,0.0,165.0,1.0,
-,Jean-Victor Makengo,fr FRA,MF,17,5,0.0,0.0,2020-2021,22bfb57e,Udinese,522,5.8,1.0,0.0,165.0,4.0,
-,Ilija Nestorovski,mk MKD,"FW,MF",22,4,2.0,2.0,2020-2021,b1236c63,Udinese,701,7.8,1.0,0.0,165.0,81.0,
-,Hidde ter Avest,nl NED,DF,6,4,0.0,0.0,2020-2021,18f9dbd0,Udinese,351,3.9,0.0,0.0,165.0,11.0,
-,Fernando Forestieri,it ITA,"FW,MF",19,3,1.0,1.0,2020-2021,d60c26fc,Udinese,552,6.1,1.0,0.0,165.0,9.0,
-,Thomas Ouwejan,nl NED,DF,15,3,2.0,0.0,2020-2021,36d9dabe,Udinese,413,4.6,0.0,0.0,165.0,11.0,
-,Rolando Mandragora,it ITA,MF,10,3,0.0,0.0,2020-2021,c7259b83,Udinese,398,4.4,0.0,0.0,165.0,9.0,
-,Mamadou Coulibaly,sn SEN,MF,3,2,0.0,0.0,2020-2021,c976160c,Udinese,184,2.0,0.0,0.0,165.0,34.0,
-,Nícolas Andrade,br BRA,GK,2,2,0.0,0.0,2020-2021,326d09ef,Udinese,180,2.0,0.0,0.0,165.0,2.0,
-,Jayden Braaf,nl NED,"FW,MF",4,1,0.0,1.0,2020-2021,c609e90e,Udinese,116,1.3,0.0,0.0,165.0,11.0,
-,Simone Scuffet,it ITA,GK,1,1,0.0,0.0,2020-2021,41bd99ea,Udinese,90,1.0,0.0,0.0,165.0,9.0,
-,Martin Palumbo,no NOR,MF,3,1,0.0,0.0,2020-2021,f8d41a8c,Udinese,63,0.7,0.0,0.0,165.0,21.0,
-,Mato Jajalo,ba BIH,MF,1,0,0.0,0.0,2020-2021,8c65eb5f,Udinese,34,0.4,0.0,0.0,165.0,49.0,
-,Petar Mićin,rs SRB,MF,1,0,0.0,0.0,2020-2021,259deea9,Udinese,15,0.2,0.0,0.0,165.0,28.0,
-,Ryder Matos,br BRA,MF,1,0,0.0,0.0,2020-2021,7280b54f,Udinese,13,0.1,0.0,0.0,165.0,2.0,
-,Manuel Gasparini,it ITA,GK,1,0,0.0,0.0,2020-2021,7033ca08,Udinese,3,0.0,0.0,0.0,165.0,9.0,
-,Marco Ballarini,it ITA,MF,0,0,,,2020-2021,8cb494c9,Udinese,,,,,165.0,9.0,
-,Salah Basha,eg EGY,FW,0,0,,,2020-2021,bd42166,Udinese,,,,,165.0,59.0,
-,Thomas Battistella,it ITA,MF,0,0,,,2020-2021,1ebee5ea,Udinese,,,,,165.0,9.0,
-,Matteo Carnelos,it ITA,GK,0,0,,,2020-2021,7195a684,Udinese,,,,,165.0,9.0,
-,Edoardo Piana,it ITA,GK,0,0,,,2020-2021,5585dc1e,Udinese,,,,,165.0,9.0,
-,Sebastian Prödl,at AUT,"DF,MF",0,0,,,2020-2021,f5e6d08d,Udinese,,,,,165.0,24.0,
-,Alessandro Rigo,it ITA,MF,0,0,,,2020-2021,3515855b,Udinese,,,,,165.0,9.0,
-,William Troost-Ekong,ng NGA,"DF,MF",0,0,,,2020-2021,7ed4921e,Udinese,,,,,165.0,52.0,
-,﻿Marco Silvestri,it ITA,GK,35,35,0.0,0.0,2021-2022,0d422df7,Udinese,"3,150",35.0,1.0,0.0,165.0,9.0,
-,Rodrigo Becão,br BRA,DF,35,35,1.0,2.0,2021-2022,19e4eab9,Udinese,"3,130",34.8,10.0,0.0,165.0,2.0,
-,Walace,br BRA,MF,36,33,0.0,1.0,2021-2022,26db8853,Udinese,"2,970",33.0,6.0,1.0,165.0,2.0,
-,Nahuel Molina,ar ARG,DF,35,31,2.0,7.0,2021-2022,23610943,Udinese,"2,638",29.3,7.0,1.0,165.0,5.0,
-,Gerard Deulofeu,es ESP,"FW,MF",34,31,5.0,13.0,2021-2022,39583cfd,Udinese,"2,616",29.1,9.0,0.0,165.0,1.0,
-,Iyenoma Udogie,it ITA,DF,35,29,3.0,5.0,2021-2022,7cd520e8,Udinese,"2,477",27.5,4.0,0.0,165.0,9.0,
-,Jean-Victor Makengo,fr FRA,MF,33,26,3.0,1.0,2021-2022,22bfb57e,Udinese,"2,351",26.1,7.0,1.0,165.0,4.0,
-,Beto,gw GNB,FW,28,24,0.0,11.0,2021-2022,d5c0319,Udinese,"2,173",24.1,1.0,0.0,165.0,93.0,
-,Bram Nuytinck,nl NED,DF,27,23,0.0,1.0,2021-2022,33f36d5,Udinese,"2,033",22.6,2.0,0.0,165.0,11.0,
-,Roberto Pereyra,ar ARG,"MF,FW",24,22,5.0,3.0,2021-2022,75f2c59f,Udinese,"1,794",19.9,10.0,1.0,165.0,5.0,
-,Tolgay Arslan,de GER,MF,30,22,0.0,1.0,2021-2022,963a328b,Udinese,"1,658",18.4,9.0,0.0,165.0,13.0,
-,Nehuén Pérez,ar ARG,DF,20,19,1.0,0.0,2021-2022,f7c491f1,Udinese,"1,692",18.8,6.0,0.0,165.0,5.0,
-,Samir Santos,br BRA,DF,17,17,0.0,0.0,2021-2022,92b4758e,Udinese,"1,421",15.8,5.0,0.0,165.0,2.0,
-,Pablo Marí,es ESP,DF,15,15,0.0,2.0,2021-2022,54ec6f,Udinese,"1,341",14.9,2.0,1.0,165.0,1.0,
-,Ignacio Pussetto,ar ARG,"FW,MF",28,11,4.0,4.0,2021-2022,62437b4f,Udinese,"1,204",13.4,4.0,0.0,165.0,5.0,
-,Isaac Success,ng NGA,"FW,MF",22,11,6.0,2.0,2021-2022,f573a8bf,Udinese,911,10.1,1.0,1.0,165.0,52.0,
-,Jens Stryger Larsen,dk DEN,DF,11,8,1.0,0.0,2021-2022,f91e81c9,Udinese,684,7.6,0.0,0.0,165.0,7.0,
-,Brandon Soppy,fr FRA,"DF,MF",28,7,0.0,0.0,2021-2022,28f66c2e,Udinese,777,8.6,4.0,0.0,165.0,4.0,
-,Marvin Zeegelaar,nl NED,DF,14,6,0.0,0.0,2021-2022,8abd0c03,Udinese,643,7.1,2.0,0.0,165.0,11.0,
-,Mato Jajalo,ba BIH,MF,22,6,1.0,0.0,2021-2022,8c65eb5f,Udinese,629,7.0,2.0,0.0,165.0,49.0,
-,Daniele Padelli,it ITA,GK,3,3,0.0,0.0,2021-2022,cf1c23d8,Udinese,270,3.0,0.0,0.0,165.0,9.0,
-,Sebastien De Maio,fr FRA,DF,2,2,0.0,0.0,2021-2022,952a03fe,Udinese,180,2.0,0.0,0.0,165.0,4.0,
-,Lazar Samardzic,de GER,MF,22,1,2.0,2.0,2021-2022,217c93a1,Udinese,490,5.4,0.0,0.0,165.0,13.0,
-,Ilija Nestorovski,mk MKD,FW,7,1,0.0,1.0,2021-2022,b1236c63,Udinese,188,2.1,1.0,0.0,165.0,81.0,
-,Fernando Forestieri,it ITA,"FW,MF",4,0,1.0,2.0,2021-2022,d60c26fc,Udinese,58,0.6,1.0,0.0,165.0,9.0,
-,Simone Pafundi,it ITA,FW,1,0,0.0,0.0,2021-2022,8daee720,Udinese,23,0.3,0.0,0.0,165.0,9.0,
-,Stefano Okaka,it ITA,FW,2,0,1.0,0.0,2021-2022,601ef102,Udinese,22,0.2,1.0,0.0,165.0,9.0,
-,Filip Benković,hr CRO,"DF,FW",2,0,0.0,0.0,2021-2022,305a3820,Udinese,8,0.1,0.0,0.0,165.0,16.0,
-,Riccardo Pinzi,it ITA,FW,1,0,0.0,0.0,2021-2022,5dafcdce,Udinese,1,0.0,0.0,0.0,165.0,9.0,
-,Marco Ballarini,it ITA,MF,0,0,,,2021-2022,8cb494c9,Udinese,,,,,165.0,9.0,
-,Matteo Carnelos,it ITA,GK,0,0,,,2021-2022,7195a684,Udinese,,,,,165.0,9.0,
-,Riccardo Castagnaviz,it ITA,MF,0,0,,,2021-2022,cb513531,Udinese,,,,,165.0,9.0,
-,Nicolò Cocetta,it ITA,DF,0,0,,,2021-2022,1faa06d5,Udinese,,,,,165.0,9.0,
-,Lorenzo Codutti,it ITA,DF,0,0,,,2021-2022,7e56091,Udinese,,,,,165.0,9.0,
-,Mattia Damiani,it ITA,MF,0,0,,,2021-2022,62af9a62,Udinese,,,,,165.0,9.0,
-,Jacopo Fedrizzi,it ITA,MF,0,0,,,2021-2022,3dcacc7c,Udinese,,,,,165.0,9.0,
-,Manuel Gasparini,it ITA,GK,0,0,,,2021-2022,7033ca08,Udinese,,,,,165.0,9.0,
-,Cristo González,es ESP,FW,0,0,,,2021-2022,896b5df2,Udinese,,,,,165.0,1.0,
-,Simone Ianesi,it ITA,FW,0,0,,,2021-2022,4f9fe4f8,Udinese,,,,,165.0,9.0,
-,Raed Jaziri,it ITA,MF,0,0,,,2021-2022,4c2507ea,Udinese,,,,,165.0,9.0,
-,Martin Palumbo,no NOR,MF,0,0,,,2021-2022,f8d41a8c,Udinese,,,,,165.0,21.0,
-,Edoardo Piana,it ITA,GK,0,0,,,2021-2022,5585dc1e,Udinese,,,,,165.0,9.0,
-,Antonio Santurro,do DOM,GK,0,0,,,2021-2022,61228681,Udinese,,,,,165.0,25.0,
-,Simone Scuffet,it ITA,GK,0,0,,,2021-2022,41bd99ea,Udinese,,,,,165.0,9.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2002-2003,/en/players/83228343/Morgan-De-Sanctis,83228343,Udinese,"3,060",34.0,1.0,0.0,165,9.0,1832,Udinese
+,David Pizarro,cl CHI,MF,32,32,5.0,7.0,2002-2003,/en/players/8b92c119/David-Pizarro,8b92c119,Udinese,"2,880",32.0,3.0,0.0,165,31.0,7005,Udinese
+,Roberto Sensini,ar ARG,DF,30,30,0.0,3.0,2002-2003,/en/players/5cb3d53a/Roberto-Sensini,5cb3d53a,Udinese,"2,625",29.2,3.0,1.0,165,5.0,20221,Udinese
+,Giampiero Pinzi,it ITA,MF,28,28,1.0,3.0,2002-2003,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"2,381",26.5,6.0,1.0,165,9.0,20222,Udinese
+,Roberto Muzzi,it ITA,FW,27,26,5.0,5.0,2002-2003,/en/players/1dd51eaf/Roberto-Muzzi,1dd51eaf,Udinese,"2,289",25.4,0.0,0.0,165,9.0,19882,Udinese
+,Per Krøldrup,dk DEN,DF,25,25,1.0,0.0,2002-2003,/en/players/a65f0ff2/Per-Kroldrup,65f0ff2,Udinese,"2,178",24.2,3.0,1.0,165,7.0,6648,Udinese
+,Martin Jørgensen,dk DEN,MF,27,24,2.0,4.0,2002-2003,/en/players/0d955bbe/Martin-Jorgensen,0d955bbe,Udinese,"2,063",22.9,0.0,0.0,165,7.0,20223,Udinese
+,Marek Jankulovski,cz CZE,"DF,MF",26,22,2.0,5.0,2002-2003,/en/players/faef7749/Marek-Jankulovski,faef7749,Udinese,"1,993",22.1,4.0,0.0,165,84.0,19783,Udinese
+,Valerio Bertotto,it ITA,DF,25,21,0.0,0.0,2002-2003,/en/players/153e1fb3/Valerio-Bertotto,153e1fb3,Udinese,"1,860",20.7,4.0,0.0,165,9.0,20224,Udinese
+,Alberto Valentim,br BRA,"DF,MF",20,20,1.0,1.0,2002-2003,/en/players/64a84087/Alberto-Valentim,64a84087,Udinese,"1,663",18.5,6.0,1.0,165,2.0,20225,Udinese
+,Thomas Manfredini,it ITA,DF,21,20,0.0,0.0,2002-2003,/en/players/cd2d825f/Thomas-Manfredini,cd2d825f,Udinese,"1,623",18.0,10.0,0.0,165,9.0,20226,Udinese
+,Mirko Pieri,it ITA,"DF,MF",22,20,1.0,0.0,2002-2003,/en/players/83e75ac6/Mirko-Pieri,83e75ac6,Udinese,"1,610",17.9,2.0,0.0,165,9.0,20227,Udinese
+,Vincenzo Iaquinta,it ITA,FW,25,16,0.0,7.0,2002-2003,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Udinese,"1,509",16.8,3.0,1.0,165,9.0,19528,Udinese
+,Carsten Jancker,de GER,FW,20,12,1.0,1.0,2002-2003,/en/players/20570c32/Carsten-Jancker,20570c32,Udinese,983,10.9,1.0,0.0,165,13.0,17331,Udinese
+,Giuseppe Gemiti,de GER,"DF,MF",25,11,0.0,0.0,2002-2003,/en/players/dd67558e/Giuseppe-Gemiti,dd67558e,Udinese,"1,370",15.2,1.0,0.0,165,13.0,20228,Udinese
+,Fabio Rossitto,it ITA,MF,19,7,2.0,0.0,2002-2003,/en/players/84a0904c/Fabio-Rossitto,84a0904c,Udinese,743,8.3,3.0,0.0,165,9.0,20229,Udinese
+,Andrea Sottil,it ITA,DF,8,5,0.0,0.0,2002-2003,/en/players/05d16399/Andrea-Sottil,05d16399,Udinese,492,5.5,1.0,0.0,165,9.0,20230,Udinese
+,Warley,br BRA,FW,14,4,1.0,0.0,2002-2003,/en/players/7430849c/Warley,7430849c,Udinese,520,5.8,1.0,0.0,165,2.0,20231,Udinese
+,Samuel Caballero,hn HON,DF,4,3,0.0,0.0,2002-2003,/en/players/a320f06d/Samuel-Caballero,320f06d,Udinese,281,3.1,4.0,0.0,165,107.0,20232,Udinese
+,Sulley Muntari,gh GHA,MF,12,1,0.0,0.0,2002-2003,/en/players/e185aa52/Sulley-Muntari,185aa52,Udinese,260,2.9,2.0,1.0,165,17.0,536,Udinese
+,Maurizio Bedin,it ITA,MF,2,1,0.0,0.0,2002-2003,/en/players/f2ae1129/Maurizio-Bedin,f2ae1129,Udinese,98,1.1,2.0,1.0,165,9.0,20233,Udinese
+,Gonzalo Martínez,co COL,DF,4,1,0.0,0.0,2002-2003,/en/players/66b813e6/Gonzalo-Martinez,66b813e6,Udinese,92,1.0,0.0,0.0,165,19.0,20234,Udinese
+,Sergio Almirón,ar ARG,MF,2,1,0.0,0.0,2002-2003,/en/players/ce05fadf/Sergio-Almiron,ce05fadf,Udinese,58,0.6,0.0,0.0,165,5.0,11372,Udinese
+,Felipe dal Belo,br BRA,DF,4,0,0.0,0.0,2002-2003,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,22,0.2,0.0,0.0,165,2.0,19693,Udinese
+,﻿Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2003-2004,/en/players/83228343/Morgan-De-Sanctis,83228343,Udinese,"3,060",34.0,0.0,0.0,165,9.0,1832,Udinese
+,Martin Jørgensen,dk DEN,MF,34,33,9.0,3.0,2003-2004,/en/players/0d955bbe/Martin-Jorgensen,0d955bbe,Udinese,"2,965",32.9,1.0,0.0,165,7.0,20223,Udinese
+,Marek Jankulovski,cz CZE,"DF,MF",32,32,5.0,6.0,2003-2004,/en/players/faef7749/Marek-Jankulovski,faef7749,Udinese,"2,838",31.5,5.0,0.0,165,84.0,19783,Udinese
+,Per Krøldrup,dk DEN,DF,30,30,0.0,2.0,2003-2004,/en/players/a65f0ff2/Per-Kroldrup,65f0ff2,Udinese,"2,698",30.0,2.0,1.0,165,7.0,6648,Udinese
+,Valerio Bertotto,it ITA,DF,29,29,1.0,0.0,2003-2004,/en/players/153e1fb3/Valerio-Bertotto,153e1fb3,Udinese,"2,570",28.6,6.0,1.0,165,9.0,20224,Udinese
+,Giampiero Pinzi,it ITA,MF,27,27,2.0,2.0,2003-2004,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"2,248",25.0,9.0,2.0,165,9.0,20222,Udinese
+,Dino Fava,it ITA,FW,31,26,3.0,12.0,2003-2004,/en/players/1f4432ac/Dino-Fava,1f4432ac,Udinese,"2,345",26.1,1.0,0.0,165,9.0,20235,Udinese
+,Roberto Sensini,ar ARG,DF,25,25,2.0,2.0,2003-2004,/en/players/5cb3d53a/Roberto-Sensini,5cb3d53a,Udinese,"2,199",24.4,1.0,0.0,165,5.0,20221,Udinese
+,Vincenzo Iaquinta,it ITA,FW,29,22,4.0,10.0,2003-2004,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Udinese,"1,910",21.2,2.0,0.0,165,9.0,19528,Udinese
+,Sulley Muntari,gh GHA,MF,23,17,0.0,0.0,2003-2004,/en/players/e185aa52/Sulley-Muntari,185aa52,Udinese,"1,476",16.4,2.0,0.0,165,17.0,536,Udinese
+,Alberto Valentim,br BRA,"DF,MF",21,17,1.0,0.0,2003-2004,/en/players/64a84087/Alberto-Valentim,64a84087,Udinese,"1,346",15.0,6.0,1.0,165,2.0,20225,Udinese
+,Michele Pazienza,it ITA,MF,26,16,0.0,0.0,2003-2004,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Udinese,"1,402",15.6,4.0,0.0,165,9.0,19552,Udinese
+,David Pizarro,cl CHI,MF,13,13,3.0,3.0,2003-2004,/en/players/8b92c119/David-Pizarro,8b92c119,Udinese,"1,124",12.5,2.0,0.0,165,31.0,7005,Udinese
+,Lucas Castromán,ar ARG,"FW,MF",19,10,1.0,1.0,2003-2004,/en/players/a055c12e/Lucas-Castroman,055c12e,Udinese,851,9.5,2.0,0.0,165,5.0,19877,Udinese
+,Alessandro Pierini,it ITA,DF,19,9,0.0,0.0,2003-2004,/en/players/a8e313f0/Alessandro-Pierini,8e313f0,Udinese,966,10.7,1.0,0.0,165,9.0,2855,Udinese
+,Felipe dal Belo,br BRA,DF,16,9,0.0,0.0,2003-2004,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,872,9.7,1.0,0.0,165,2.0,19693,Udinese
+,Mirko Pieri,it ITA,"DF,MF",13,9,1.0,0.0,2003-2004,/en/players/83e75ac6/Mirko-Pieri,83e75ac6,Udinese,872,9.7,1.0,0.0,165,9.0,20227,Udinese
+,Thomas Manfredini,it ITA,DF,7,6,0.0,0.0,2003-2004,/en/players/cd2d825f/Thomas-Manfredini,cd2d825f,Udinese,462,5.1,2.0,0.0,165,9.0,20226,Udinese
+,Carsten Jancker,de GER,FW,15,2,0.0,1.0,2003-2004,/en/players/20570c32/Carsten-Jancker,20570c32,Udinese,302,3.4,2.0,0.0,165,13.0,17331,Udinese
+,Fabio Rossitto,it ITA,MF,6,1,0.0,0.0,2003-2004,/en/players/84a0904c/Fabio-Rossitto,84a0904c,Udinese,209,2.3,0.0,0.0,165,9.0,20229,Udinese
+,Giuseppe Gemiti,de GER,"DF,MF",4,1,0.0,0.0,2003-2004,/en/players/dd67558e/Giuseppe-Gemiti,dd67558e,Udinese,143,1.6,0.0,0.0,165,13.0,20228,Udinese
+,Siyabonga Nomvethe,za RSA,"FW,MF",5,0,0.0,0.0,2003-2004,/en/players/17198692/Siyabonga-Nomvethe,17198692,Udinese,69,0.8,0.0,0.0,165,60.0,20236,Udinese
+,Julio Gutiérrez,cl CHI,FW,3,0,0.0,0.0,2003-2004,/en/players/d47e6dc9/Julio-Gutierrez,d47e6dc9,Udinese,26,0.3,0.0,0.0,165,31.0,20237,Udinese
+,Diego Gavilán,py PAR,"DF,MF",1,0,0.0,0.0,2003-2004,/en/players/d177ad67/Diego-Gavilan,d177ad67,Udinese,16,0.2,0.0,0.0,165,43.0,20238,Udinese
+,Mohammed Gargo,gh GHA,DF,2,0,0.0,0.0,2003-2004,/en/players/35bc50fc/Mohammed-Gargo,35bc50fc,Udinese,12,0.1,0.0,0.0,165,17.0,20239,Udinese
+,Asamoah Gyan,gh GHA,FW,1,0,0.0,0.0,2003-2004,/en/players/7f7bbbc2/Asamoah-Gyan,7f7bbbc2,Udinese,7,0.1,0.0,0.0,165,17.0,8705,Udinese
+,﻿Morgan De Sanctis,it ITA,GK,36,36,0.0,0.0,2004-2005,/en/players/83228343/Morgan-De-Sanctis,83228343,Udinese,"3,177",35.3,1.0,0.0,165,9.0,1832,Udinese
+,Valerio Bertotto,it ITA,DF,35,35,1.0,0.0,2004-2005,/en/players/153e1fb3/Valerio-Bertotto,153e1fb3,Udinese,"3,081",34.2,2.0,0.0,165,9.0,20224,Udinese
+,David Pizarro,cl CHI,MF,34,32,4.0,2.0,2004-2005,/en/players/8b92c119/David-Pizarro,8b92c119,Udinese,"2,857",31.7,2.0,0.0,165,31.0,7005,Udinese
+,David Di Michele,it ITA,FW,37,32,2.0,15.0,2004-2005,/en/players/e0edcd05/David-Di-Michele,0edcd05,Udinese,"2,823",31.4,3.0,0.0,165,9.0,8452,Udinese
+,Marek Jankulovski,cz CZE,"DF,MF",32,32,7.0,4.0,2004-2005,/en/players/faef7749/Marek-Jankulovski,faef7749,Udinese,"2,787",31.0,7.0,1.0,165,84.0,19783,Udinese
+,Vincenzo Iaquinta,it ITA,FW,31,30,6.0,13.0,2004-2005,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Udinese,"2,667",29.6,2.0,0.0,165,9.0,19528,Udinese
+,Sulley Muntari,gh GHA,MF,33,30,0.0,2.0,2004-2005,/en/players/e185aa52/Sulley-Muntari,185aa52,Udinese,"2,555",28.4,14.0,0.0,165,17.0,536,Udinese
+,Felipe dal Belo,br BRA,DF,31,28,1.0,0.0,2004-2005,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,"2,496",27.7,2.0,0.0,165,2.0,19693,Udinese
+,Giampiero Pinzi,it ITA,MF,30,27,1.0,1.0,2004-2005,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"2,291",25.5,10.0,2.0,165,9.0,20222,Udinese
+,Antonio Di Natale,it ITA,FW,33,22,6.0,7.0,2004-2005,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,028",22.5,0.0,0.0,165,9.0,20240,Udinese
+,Per Krøldrup,dk DEN,DF,25,22,1.0,0.0,2004-2005,/en/players/a65f0ff2/Per-Kroldrup,65f0ff2,Udinese,"2,005",22.3,0.0,0.0,165,7.0,6648,Udinese
+,Roberto Sensini,ar ARG,DF,21,21,0.0,1.0,2004-2005,/en/players/5cb3d53a/Roberto-Sensini,5cb3d53a,Udinese,"1,777",19.7,1.0,0.0,165,5.0,20221,Udinese
+,Stefano Mauri,it ITA,"FW,MF",31,17,2.0,5.0,2004-2005,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Udinese,"1,610",17.9,3.0,0.0,165,9.0,19895,Udinese
+,Damiano Zenoni,it ITA,"DF,MF",16,13,1.0,0.0,2004-2005,/en/players/1ecfa5c5/Damiano-Zenoni,1ecfa5c5,Udinese,"1,135",12.6,3.0,0.0,165,9.0,20048,Udinese
+,Michele Pazienza,it ITA,MF,26,11,1.0,0.0,2004-2005,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Udinese,"1,201",13.3,8.0,0.0,165,9.0,19552,Udinese
+,Dino Fava,it ITA,FW,24,8,0.0,2.0,2004-2005,/en/players/1f4432ac/Dino-Fava,1f4432ac,Udinese,826,9.2,1.0,0.0,165,9.0,20235,Udinese
+,Mirko Pieri,it ITA,"DF,MF",15,7,0.0,0.0,2004-2005,/en/players/83e75ac6/Mirko-Pieri,83e75ac6,Udinese,736,8.2,1.0,0.0,165,9.0,20227,Udinese
+,Emílson Cribari,br BRA,DF,8,6,1.0,0.0,2004-2005,/en/players/0913c971/Emilson-Cribari,0913c971,Udinese,582,6.5,2.0,0.0,165,2.0,19894,Udinese
+,Manuel Belleri,it ITA,DF,21,5,0.0,0.0,2004-2005,/en/players/3a990b8c/Manuel-Belleri,3a990b8c,Udinese,574,6.4,0.0,0.0,165,9.0,19904,Udinese
+,Samir Handanović,si SVN,GK,3,2,0.0,0.0,2004-2005,/en/players/74419746/Samir-Handanovic,74419746,Udinese,243,2.7,0.0,0.0,165,32.0,19674,Udinese
+,Alberto Valentim,br BRA,"DF,MF",2,2,0.0,0.0,2004-2005,/en/players/64a84087/Alberto-Valentim,64a84087,Udinese,116,1.3,1.0,0.0,165,2.0,20225,Udinese
+,Gustavo Lazzaretti,br BRA,DF,1,0,,0.0,2004-2005,/en/players/c58760f2/Gustavo-Lazzaretti,c58760f2,Udinese,26,0.3,0.0,0.0,165,2.0,20241,Udinese
+,Fernando Tissone,ar ARG,MF,2,0,,0.0,2004-2005,/en/players/e224238d/Fernando-Tissone,224238d,Udinese,16,0.2,1.0,0.0,165,5.0,1630,Udinese
+,Henok Goitom,er ERI,FW,1,0,0.0,1.0,2004-2005,/en/players/c3680236/Henok-Goitom,c3680236,Udinese,7,0.1,0.0,0.0,165,91.0,2558,Udinese
+,﻿Felipe dal Belo,br BRA,DF,35,35,1.0,3.0,2005-2006,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,"3,135",34.8,8.0,0.0,165,2.0,19693,Udinese
+,Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2005-2006,/en/players/83228343/Morgan-De-Sanctis,83228343,Udinese,"3,060",34.0,2.0,0.0,165,9.0,1832,Udinese
+,Damiano Zenoni,it ITA,"DF,MF",32,31,2.0,0.0,2005-2006,/en/players/1ecfa5c5/Damiano-Zenoni,1ecfa5c5,Udinese,"2,738",30.4,5.0,0.0,165,9.0,20048,Udinese
+,Antonio Di Natale,it ITA,FW,35,29,2.0,8.0,2005-2006,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,481",27.6,1.0,0.0,165,9.0,20240,Udinese
+,Sulley Muntari,gh GHA,MF,29,29,7.0,3.0,2005-2006,/en/players/e185aa52/Sulley-Muntari,185aa52,Udinese,"2,280",25.3,9.0,2.0,165,17.0,536,Udinese
+,Vincent Candela,fr FRA,"DF,MF",26,25,1.0,1.0,2005-2006,/en/players/489d2628/Vincent-Candela,489d2628,Udinese,"2,202",24.5,2.0,1.0,165,4.0,8244,Udinese
+,Christian Obodo,ng NGA,MF,28,25,2.0,1.0,2005-2006,/en/players/dc97300e/Christian-Obodo,dc97300e,Udinese,"2,156",24.0,8.0,2.0,165,52.0,20242,Udinese
+,Vincenzo Iaquinta,it ITA,FW,24,22,1.0,9.0,2005-2006,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Udinese,"1,911",21.2,2.0,1.0,165,9.0,19528,Udinese
+,Cristián Zapata,co COL,DF,21,21,1.0,1.0,2005-2006,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Udinese,"1,885",20.9,4.0,1.0,165,19.0,2759,Udinese
+,Valerio Bertotto,it ITA,DF,26,20,0.0,0.0,2005-2006,/en/players/153e1fb3/Valerio-Bertotto,153e1fb3,Udinese,"1,960",21.8,5.0,0.0,165,9.0,20224,Udinese
+,Cesare Natali,it ITA,DF,19,19,0.0,1.0,2005-2006,/en/players/fcfbceaf/Cesare-Natali,fcfbceaf,Udinese,"1,603",17.8,5.0,0.0,165,9.0,20243,Udinese
+,Paulo Vitor Barreto,br BRA,FW,27,17,0.0,4.0,2005-2006,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Udinese,"1,535",17.1,3.0,0.0,165,2.0,20244,Udinese
+,Roberto Sensini,ar ARG,DF,14,14,0.0,1.0,2005-2006,/en/players/5cb3d53a/Roberto-Sensini,5cb3d53a,Udinese,"1,260",14.0,3.0,0.0,165,5.0,20221,Udinese
+,José Luís Vidigal,pt POR,MF,23,13,0.0,1.0,2005-2006,/en/players/10011693/Jose-Luis-Vidigal,10011693,Udinese,"1,342",14.9,6.0,0.0,165,3.0,20245,Udinese
+,Fernando Tissone,ar ARG,MF,24,12,0.0,0.0,2005-2006,/en/players/e224238d/Fernando-Tissone,224238d,Udinese,"1,072",11.9,5.0,0.0,165,5.0,1630,Udinese
+,Stefano Mauri,it ITA,"FW,MF",16,12,,0.0,2005-2006,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Udinese,"1,060",11.8,1.0,1.0,165,9.0,19895,Udinese
+,Mirko Pieri,it ITA,"DF,MF",14,11,0.0,1.0,2005-2006,/en/players/83e75ac6/Mirko-Pieri,83e75ac6,Udinese,931,10.3,1.0,0.0,165,9.0,20227,Udinese
+,David Di Michele,it ITA,FW,16,10,,3.0,2005-2006,/en/players/e0edcd05/David-Di-Michele,0edcd05,Udinese,996,11.1,1.0,0.0,165,9.0,8452,Udinese
+,Roberto Baronio,it ITA,MF,17,10,1.0,0.0,2005-2006,/en/players/6888b53a/Roberto-Baronio,6888b53a,Udinese,962,10.7,4.0,1.0,165,9.0,19906,Udinese
+,Giampiero Pinzi,it ITA,MF,13,10,0.0,0.0,2005-2006,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,799,8.9,4.0,2.0,165,9.0,20222,Udinese
+,Fausto Rossini,it ITA,FW,14,5,0.0,0.0,2005-2006,/en/players/e775840f/Fausto-Rossini,775840f,Udinese,508,5.6,2.0,1.0,165,9.0,20246,Udinese
+,Marco Motta,it ITA,DF,6,4,0.0,1.0,2005-2006,/en/players/1c65a088/Marco-Motta,1c65a088,Udinese,418,4.6,2.0,0.0,165,9.0,4639,Udinese
+,Juárez,br BRA,DF,5,4,0.0,0.0,2005-2006,/en/players/e860d365/Juarez,860d365,Udinese,361,4.0,2.0,0.0,165,2.0,20247,Udinese
+,Gabriele Paoletti,it ITA,GK,4,4,0.0,0.0,2005-2006,/en/players/d62296c5/Gabriele-Paoletti,d62296c5,Udinese,360,4.0,1.0,0.0,165,9.0,20248,Udinese
+,Simone Pepe,it ITA,"FW,MF",9,2,0.0,0.0,2005-2006,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Udinese,281,3.1,0.0,0.0,165,9.0,19542,Udinese
+,Rodrigo Defendi,br BRA,DF,2,2,,0.0,2005-2006,/en/players/e6671a4c/Rodrigo-Defendi,6671a4c,Udinese,143,1.6,0.0,0.0,165,2.0,20249,Udinese
+,Piermario Morosini,it ITA,MF,5,0,,0.0,2005-2006,/en/players/29ab43b3/Piermario-Morosini,29ab43b3,Udinese,133,1.5,1.0,0.0,165,9.0,20250,Udinese
+,Abel Aguilar,co COL,MF,2,0,,0.0,2005-2006,/en/players/6936b41b/Abel-Aguilar,6936b41b,Udinese,77,0.9,0.0,0.0,165,19.0,463,Udinese
+,Al-Saadi Gaddafi,ly LBY,"FW,MF",1,0,,0.0,2005-2006,/en/players/1d6a98c1/Al-Saadi-Gaddafi,1d6a98c1,Udinese,10,0.1,0.0,0.0,165,169.0,20251,Udinese
+,Flavio Lazzari,it ITA,MF,2,0,,0.0,2005-2006,/en/players/506f6ca3/Flavio-Lazzari,506f6ca3,Udinese,2,0.0,0.0,0.0,165,9.0,20252,Udinese
+,﻿Morgan De Sanctis,it ITA,GK,36,36,0.0,0.0,2006-2007,/en/players/83228343/Morgan-De-Sanctis,83228343,Udinese,"3,199",35.5,2.0,0.0,165,9.0,1832,Udinese
+,Cristián Zapata,co COL,DF,36,35,0.0,0.0,2006-2007,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Udinese,"3,153",35.0,8.0,0.0,165,19.0,2759,Udinese
+,Giampiero Pinzi,it ITA,MF,32,32,1.0,1.0,2006-2007,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"2,810",31.2,14.0,0.0,165,9.0,20222,Udinese
+,Cesare Natali,it ITA,DF,32,32,0.0,0.0,2006-2007,/en/players/fcfbceaf/Cesare-Natali,fcfbceaf,Udinese,"2,799",31.1,10.0,0.0,165,9.0,20243,Udinese
+,Antonio Di Natale,it ITA,FW,31,31,7.0,11.0,2006-2007,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,571",28.6,4.0,2.0,165,9.0,20240,Udinese
+,Vincenzo Iaquinta,it ITA,FW,30,29,5.0,14.0,2006-2007,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Udinese,"2,554",28.4,2.0,1.0,165,9.0,19528,Udinese
+,Christian Obodo,ng NGA,MF,30,29,0.0,5.0,2006-2007,/en/players/dc97300e/Christian-Obodo,dc97300e,Udinese,"2,552",28.4,4.0,0.0,165,52.0,20242,Udinese
+,Sulley Muntari,gh GHA,MF,28,27,3.0,3.0,2006-2007,/en/players/e185aa52/Sulley-Muntari,185aa52,Udinese,"2,361",26.2,9.0,3.0,165,17.0,536,Udinese
+,Andrea Dossena,it ITA,"DF,MF",28,21,0.0,0.0,2006-2007,/en/players/3ae59b9c/Andrea-Dossena,3ae59b9c,Udinese,"1,938",21.5,3.0,1.0,165,9.0,6306,Udinese
+,Andrea Coda,it ITA,DF,22,20,1.0,0.0,2006-2007,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,"1,910",21.2,5.0,1.0,165,9.0,20092,Udinese
+,Damiano Zenoni,it ITA,"DF,MF",20,20,0.0,0.0,2006-2007,/en/players/1ecfa5c5/Damiano-Zenoni,1ecfa5c5,Udinese,"1,800",20.0,4.0,0.0,165,9.0,20048,Udinese
+,Asamoah Gyan,gh GHA,FW,25,18,3.0,8.0,2006-2007,/en/players/7f7bbbc2/Asamoah-Gyan,7f7bbbc2,Udinese,"1,556",17.3,3.0,0.0,165,17.0,8705,Udinese
+,Marco Motta,it ITA,DF,16,16,0.0,0.0,2006-2007,/en/players/1c65a088/Marco-Motta,1c65a088,Udinese,"1,240",13.8,1.0,1.0,165,9.0,4639,Udinese
+,Gaetano D'Agostino,it ITA,MF,23,14,2.0,0.0,2006-2007,/en/players/7a469087/Gaetano-DAgostino,7a469087,Udinese,"1,404",15.6,3.0,1.0,165,9.0,20253,Udinese
+,Paulo Vitor Barreto,br BRA,FW,26,14,5.0,4.0,2006-2007,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Udinese,"1,368",15.2,3.0,0.0,165,2.0,20244,Udinese
+,Aleksandar Luković,rs SRB,DF,14,12,3.0,0.0,2006-2007,/en/players/caf327a5/Aleksandar-Lukovic,caf327a5,Udinese,"1,003",11.1,4.0,0.0,165,28.0,20254,Udinese
+,Felipe dal Belo,br BRA,DF,12,12,0.0,1.0,2006-2007,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,895,9.9,4.0,1.0,165,2.0,19693,Udinese
+,Tomáš Zápotočný,cz CZE,DF,11,8,0.0,0.0,2006-2007,/en/players/e3e9e526/Tomas-Zapotocny,3e9e526,Udinese,785,8.7,4.0,0.0,165,84.0,20255,Udinese
+,Raffaele De Martino,it ITA,MF,17,7,0.0,1.0,2006-2007,/en/players/3bfcd0c3/Raffaele-De-Martino,3bfcd0c3,Udinese,646,7.2,5.0,1.0,165,9.0,20576,Udinese
+,Tomáš Sivok,cz CZE,"DF,MF",11,6,0.0,1.0,2006-2007,/en/players/597ee35c/Tomas-Sivok,597ee35c,Udinese,518,5.8,1.0,0.0,165,84.0,20256,Udinese
+,Guilherme Siqueira,br BRA,"DF,MF",16,3,1.0,0.0,2006-2007,/en/players/3770a135/Guilherme-Siqueira,3770a135,Udinese,488,5.4,1.0,0.0,165,2.0,974,Udinese
+,José Montiel,py PAR,MF,8,1,0.0,0.0,2006-2007,/en/players/954498a3/Jose-Montiel,954498a3,Udinese,146,1.6,0.0,0.0,165,43.0,20257,Udinese
+,Massimo Gotti,it ITA,DF,4,0,0.0,0.0,2006-2007,/en/players/e22278aa/Massimo-Gotti,22278aa,Udinese,117,1.3,0.0,0.0,165,9.0,20258,Udinese
+,Fabrizio Casazza,it ITA,GK,1,0,,0.0,2006-2007,/en/players/1660b0d6/Fabrizio-Casazza,1660b0d6,Udinese,45,0.5,0.0,0.0,165,9.0,19892,Udinese
+,Christian Tiboni,it ITA,FW,2,0,0.0,0.0,2006-2007,/en/players/27ecb394/Christian-Tiboni,27ecb394,Udinese,20,0.2,0.0,0.0,165,9.0,20259,Udinese
+,Federico Gerardi,it ITA,FW,1,0,,0.0,2006-2007,/en/players/3ddd3185/Federico-Gerardi,3ddd3185,Udinese,9,0.1,0.0,0.0,165,9.0,20260,Udinese
+,Schumacher,br BRA,FW,1,0,,0.0,2006-2007,/en/players/f426f214/Schumacher,f426f214,Udinese,7,0.1,0.0,0.0,165,2.0,20261,Udinese
+,Jani Tapani Virtanen,fi FIN,FW,1,0,,0.0,2006-2007,/en/players/7d106222/Jani-Tapani-Virtanen,7d106222,Udinese,1,0.0,0.0,0.0,165,83.0,20262,Udinese
+,﻿Gökhan Inler,ch SUI,MF,37,37,2.0,2.0,2007-2008,/en/players/3200c583/Gokhan-Inler,3200c583,Udinese,"3,314",36.8,6.0,0.0,165,39.0,9062,Udinese
+,Samir Handanović,si SVN,GK,35,35,0.0,0.0,2007-2008,/en/players/74419746/Samir-Handanovic,74419746,Udinese,"3,150",35.0,2.0,0.0,165,32.0,19674,Udinese
+,Fabio Quagliarella,it ITA,FW,37,35,4.0,12.0,2007-2008,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Udinese,"3,070",34.1,4.0,0.0,165,9.0,19543,Udinese
+,Antonio Di Natale,it ITA,FW,36,35,6.0,17.0,2007-2008,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"3,059",34.0,4.0,0.0,165,9.0,20240,Udinese
+,Andrea Dossena,it ITA,"DF,MF",35,35,2.0,2.0,2007-2008,/en/players/3ae59b9c/Andrea-Dossena,3ae59b9c,Udinese,"3,038",33.8,7.0,2.0,165,9.0,6306,Udinese
+,Gaetano D'Agostino,it ITA,MF,35,34,5.0,0.0,2007-2008,/en/players/7a469087/Gaetano-DAgostino,7a469087,Udinese,"2,854",31.7,6.0,0.0,165,9.0,20253,Udinese
+,Aleksandar Luković,rs SRB,DF,32,29,0.0,0.0,2007-2008,/en/players/caf327a5/Aleksandar-Lukovic,caf327a5,Udinese,"2,608",29.0,3.0,0.0,165,28.0,20254,Udinese
+,Giandomenico Mesto,it ITA,"DF,MF",28,26,0.0,2.0,2007-2008,/en/players/6447938e/Giandomenico-Mesto,6447938e,Udinese,"2,363",26.3,5.0,0.0,165,9.0,20263,Udinese
+,Cristián Zapata,co COL,DF,27,26,0.0,1.0,2007-2008,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Udinese,"2,287",25.4,7.0,0.0,165,19.0,2759,Udinese
+,Simone Pepe,it ITA,"FW,MF",33,23,5.0,3.0,2007-2008,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Udinese,"2,048",22.8,7.0,1.0,165,9.0,19542,Udinese
+,Felipe dal Belo,br BRA,DF,22,22,0.0,1.0,2007-2008,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,"1,810",20.1,9.0,2.0,165,2.0,19693,Udinese
+,Tomáš Zápotočný,cz CZE,DF,21,20,0.0,0.0,2007-2008,/en/players/e3e9e526/Tomas-Zapotocny,3e9e526,Udinese,"1,548",17.2,4.0,1.0,165,84.0,20255,Udinese
+,Andrea Coda,it ITA,DF,20,16,0.0,0.0,2007-2008,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,"1,622",18.0,1.0,0.0,165,9.0,20092,Udinese
+,Antonio Floro Flores,it ITA,FW,37,12,1.0,3.0,2007-2008,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Udinese,"1,270",14.1,1.0,0.0,165,9.0,5035,Udinese
+,Damiano Ferronetti,it ITA,"DF,MF",16,11,0.0,1.0,2007-2008,/en/players/b6cc6dd6/Damiano-Ferronetti,b6cc6dd6,Udinese,992,11.0,2.0,0.0,165,9.0,20023,Udinese
+,Asamoah Gyan,gh GHA,FW,13,9,1.0,3.0,2007-2008,/en/players/7f7bbbc2/Asamoah-Gyan,7f7bbbc2,Udinese,738,8.2,1.0,0.0,165,17.0,8705,Udinese
+,Roman Eremenko,fi FIN,MF,7,3,0.0,0.0,2007-2008,/en/players/b220064a/Roman-Eremenko,b220064a,Udinese,278,3.1,0.0,0.0,165,83.0,20264,Udinese
+,Antonio Chimenti,it ITA,GK,3,3,0.0,0.0,2007-2008,/en/players/96d5e916/Antonio-Chimenti,96d5e916,Udinese,270,3.0,0.0,0.0,165,9.0,19508,Udinese
+,Mauricio Isla,cl CHI,"DF,MF",10,2,0.0,0.0,2007-2008,/en/players/de4517dd/Mauricio-Isla,de4517dd,Udinese,349,3.9,1.0,0.0,165,31.0,10725,Udinese
+,Guilherme Siqueira,br BRA,"DF,MF",4,2,0.0,0.0,2007-2008,/en/players/3770a135/Guilherme-Siqueira,3770a135,Udinese,249,2.8,1.0,0.0,165,2.0,974,Udinese
+,Giampiero Pinzi,it ITA,MF,13,1,0.0,0.0,2007-2008,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,237,2.6,2.0,1.0,165,9.0,20222,Udinese
+,Tomáš Sivok,cz CZE,"DF,MF",2,1,0.0,0.0,2007-2008,/en/players/597ee35c/Tomas-Sivok,597ee35c,Udinese,98,1.1,1.0,0.0,165,84.0,20256,Udinese
+,Viktor Budyanskiy,ru RUS,MF,1,1,0.0,0.0,2007-2008,/en/players/6502280e/Viktor-Budyanskiy,6502280e,Udinese,47,0.5,0.0,0.0,165,23.0,19512,Udinese
+,Riccardo Colombo,it ITA,DF,4,0,0.0,0.0,2007-2008,/en/players/37721e1b/Riccardo-Colombo,37721e1b,Udinese,43,0.5,0.0,0.0,165,9.0,20265,Udinese
+,Christian Obodo,ng NGA,MF,1,0,0.0,0.0,2007-2008,/en/players/dc97300e/Christian-Obodo,dc97300e,Udinese,40,0.4,0.0,0.0,165,52.0,20242,Udinese
+,Antonio Candreva,it ITA,"DF,FW",3,0,0.0,0.0,2007-2008,/en/players/356c9002/Antonio-Candreva,356c9002,Udinese,10,0.1,0.0,0.0,165,9.0,19537,Udinese
+,Michele Paolucci,it ITA,"FW,MF",2,0,0.0,0.0,2007-2008,/en/players/51ea3db8/Michele-Paolucci,51ea3db8,Udinese,7,0.1,0.0,0.0,165,9.0,19538,Udinese
+,﻿Gaetano D'Agostino,it ITA,MF,36,34,8.0,11.0,2008-2009,/en/players/7a469087/Gaetano-DAgostino,7a469087,Udinese,"3,033",33.7,7.0,0.0,165,9.0,20253,Udinese
+,Samir Handanović,si SVN,GK,34,34,0.0,0.0,2008-2009,/en/players/74419746/Samir-Handanovic,74419746,Udinese,"2,975",33.1,3.0,0.0,165,32.0,19674,Udinese
+,Gökhan Inler,ch SUI,MF,36,32,4.0,1.0,2008-2009,/en/players/3200c583/Gokhan-Inler,3200c583,Udinese,"2,941",32.7,6.0,0.0,165,39.0,9062,Udinese
+,Mauricio Isla,cl CHI,"DF,MF",32,30,1.0,0.0,2008-2009,/en/players/de4517dd/Mauricio-Isla,de4517dd,Udinese,"2,592",28.8,5.0,0.0,165,31.0,10725,Udinese
+,Simone Pepe,it ITA,"FW,MF",33,29,2.0,4.0,2008-2009,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Udinese,"2,358",26.2,8.0,0.0,165,9.0,19542,Udinese
+,Fabio Quagliarella,it ITA,FW,36,24,4.0,13.0,2008-2009,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Udinese,"2,307",25.6,5.0,0.0,165,9.0,19543,Udinese
+,Andrea Coda,it ITA,DF,24,24,0.0,0.0,2008-2009,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,"2,160",24.0,4.0,0.0,165,9.0,20092,Udinese
+,Maurizio Domizzi,it ITA,DF,25,23,0.0,1.0,2008-2009,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,"2,095",23.3,7.0,1.0,165,9.0,20266,Udinese
+,Aleksandar Luković,rs SRB,DF,27,22,0.0,0.0,2008-2009,/en/players/caf327a5/Aleksandar-Lukovic,caf327a5,Udinese,"1,991",22.1,7.0,0.0,165,28.0,20254,Udinese
+,Antonio Floro Flores,it ITA,FW,33,22,5.0,7.0,2008-2009,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Udinese,"1,901",21.1,1.0,0.0,165,9.0,5035,Udinese
+,Giovanni Pasquale,it ITA,DF,28,21,2.0,3.0,2008-2009,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,"1,914",21.3,3.0,0.0,165,9.0,19628,Udinese
+,Kwadwo Asamoah,gh GHA,"DF,MF",20,19,0.0,2.0,2008-2009,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Udinese,"1,620",18.0,1.0,0.0,165,17.0,19553,Udinese
+,Alexis Sánchez,cl CHI,"FW,MF",32,18,1.0,3.0,2008-2009,/en/players/2c0f8e9e/Alexis-Sanchez,2c0f8e9e,Udinese,"1,715",19.1,5.0,1.0,165,31.0,1141,Udinese
+,Cristián Zapata,co COL,DF,18,17,0.0,1.0,2008-2009,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Udinese,"1,609",17.9,2.0,0.0,165,19.0,2759,Udinese
+,Felipe dal Belo,br BRA,DF,16,16,0.0,2.0,2008-2009,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,"1,440",16.0,3.0,0.0,165,2.0,19693,Udinese
+,Antonio Di Natale,it ITA,FW,22,15,5.0,12.0,2008-2009,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"1,341",14.9,2.0,1.0,165,9.0,20240,Udinese
+,Damiano Ferronetti,it ITA,"DF,MF",13,13,0.0,0.0,2008-2009,/en/players/b6cc6dd6/Damiano-Ferronetti,b6cc6dd6,Udinese,989,11.0,4.0,0.0,165,9.0,20023,Udinese
+,Marco Motta,it ITA,DF,14,8,0.0,0.0,2008-2009,/en/players/1c65a088/Marco-Motta,1c65a088,Udinese,821,9.1,1.0,0.0,165,9.0,4639,Udinese
+,Christian Obodo,ng NGA,MF,18,6,1.0,0.0,2008-2009,/en/players/dc97300e/Christian-Obodo,dc97300e,Udinese,639,7.1,0.0,0.0,165,52.0,20242,Udinese
+,Emanuele Belardi,it ITA,GK,4,4,0.0,0.0,2008-2009,/en/players/788d51fa/Emanuele-Belardi,788d51fa,Udinese,360,4.0,0.0,0.0,165,9.0,19530,Udinese
+,Fernando Tissone,ar ARG,MF,5,2,0.0,0.0,2008-2009,/en/players/e224238d/Fernando-Tissone,224238d,Udinese,199,2.2,0.0,0.0,165,5.0,1630,Udinese
+,Luigi Sala,it ITA,DF,2,2,0.0,0.0,2008-2009,/en/players/d447541e/Luigi-Sala,d447541e,Udinese,180,2.0,0.0,0.0,165,9.0,20267,Udinese
+,Niki Zimling,dk DEN,MF,4,2,0.0,0.0,2008-2009,/en/players/80588923/Niki-Zimling,80588923,Udinese,165,1.8,0.0,0.0,165,7.0,18320,Udinese
+,Odion Ighalo,ng NGA,FW,6,1,1.0,1.0,2008-2009,/en/players/03622183/Odion-Ighalo,03622183,Udinese,125,1.4,0.0,0.0,165,52.0,5022,Udinese
+,Jan Koprivec,si SVN,GK,1,0,0.0,0.0,2008-2009,/en/players/884e77f9/Jan-Koprivec,884e77f9,Udinese,85,0.9,0.0,0.0,165,32.0,20268,Udinese
+,Alain Nef,ch SUI,DF,2,0,0.0,0.0,2008-2009,/en/players/b69c4388/Alain-Nef,b69c4388,Udinese,16,0.2,0.0,0.0,165,39.0,3173,Udinese
+,﻿Samir Handanović,si SVN,GK,37,37,0.0,0.0,2009-2010,/en/players/74419746/Samir-Handanovic,74419746,Udinese,"3,330",37.0,4.0,0.0,165,32.0,19674,Udinese
+,Antonio Di Natale,it ITA,FW,35,33,4.0,29.0,2009-2010,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"3,010",33.4,6.0,0.0,165,9.0,20240,Udinese
+,Gökhan Inler,ch SUI,MF,33,32,1.0,0.0,2009-2010,/en/players/3200c583/Gokhan-Inler,3200c583,Udinese,"2,755",30.6,6.0,0.0,165,39.0,9062,Udinese
+,Aleksandar Luković,rs SRB,DF,33,31,2.0,0.0,2009-2010,/en/players/caf327a5/Aleksandar-Lukovic,caf327a5,Udinese,"2,836",31.5,8.0,0.0,165,28.0,20254,Udinese
+,Cristián Zapata,co COL,DF,31,30,0.0,0.0,2009-2010,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Udinese,"2,642",29.4,8.0,1.0,165,19.0,2759,Udinese
+,Mauricio Isla,cl CHI,"DF,MF",30,27,6.0,1.0,2009-2010,/en/players/de4517dd/Mauricio-Isla,de4517dd,Udinese,"2,272",25.2,5.0,1.0,165,31.0,10725,Udinese
+,Alexis Sánchez,cl CHI,"FW,MF",32,25,2.0,5.0,2009-2010,/en/players/2c0f8e9e/Alexis-Sanchez,2c0f8e9e,Udinese,"2,292",25.5,5.0,0.0,165,31.0,1141,Udinese
+,Simone Pepe,it ITA,"FW,MF",32,25,4.0,7.0,2009-2010,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Udinese,"2,191",24.3,5.0,0.0,165,9.0,19542,Udinese
+,Antonio Floro Flores,it ITA,FW,32,25,2.0,9.0,2009-2010,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Udinese,"2,140",23.8,6.0,0.0,165,9.0,5035,Udinese
+,Andrea Coda,it ITA,DF,26,24,0.0,0.0,2009-2010,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,"2,172",24.1,8.0,0.0,165,9.0,20092,Udinese
+,Kwadwo Asamoah,gh GHA,"DF,MF",25,24,1.0,1.0,2009-2010,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Udinese,"2,137",23.7,2.0,0.0,165,17.0,19553,Udinese
+,Giovanni Pasquale,it ITA,DF,22,19,0.0,0.0,2009-2010,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,"1,553",17.3,7.0,0.0,165,9.0,19628,Udinese
+,Gaetano D'Agostino,it ITA,MF,20,18,0.0,1.0,2009-2010,/en/players/7a469087/Gaetano-DAgostino,7a469087,Udinese,"1,593",17.7,3.0,0.0,165,9.0,20253,Udinese
+,Paolo Sammarco,it ITA,MF,26,17,0.0,0.0,2009-2010,/en/players/3c1e4e84/Paolo-Sammarco,3c1e4e84,Udinese,"1,374",15.3,4.0,0.0,165,9.0,20269,Udinese
+,Dušan Basta,rs SRB,"DF,MF",16,14,0.0,0.0,2009-2010,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Udinese,"1,294",14.4,3.0,1.0,165,28.0,19938,Udinese
+,Maurizio Domizzi,it ITA,DF,13,13,0.0,0.0,2009-2010,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,"1,072",11.9,4.0,0.0,165,9.0,20266,Udinese
+,Damiano Ferronetti,it ITA,"DF,MF",12,8,0.0,0.0,2009-2010,/en/players/b6cc6dd6/Damiano-Ferronetti,b6cc6dd6,Udinese,785,8.7,3.0,0.0,165,9.0,20023,Udinese
+,Francesco Lodi,it ITA,MF,19,4,3.0,1.0,2009-2010,/en/players/3ddc8b87/Francesco-Lodi,3ddc8b87,Udinese,541,6.0,1.0,0.0,165,9.0,20102,Udinese
+,Juan Cuadrado,co COL,"DF,FW",11,4,0.0,0.0,2009-2010,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Udinese,457,5.1,1.0,0.0,165,19.0,6206,Udinese
+,Felipe dal Belo,br BRA,DF,3,3,0.0,0.0,2009-2010,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,206,2.3,1.0,0.0,165,2.0,19693,Udinese
+,Bernardo Corradi,it ITA,FW,19,2,0.0,0.0,2009-2010,/en/players/d50232c1/Bernardo-Corradi,d50232c1,Udinese,367,4.1,1.0,0.0,165,9.0,893,Udinese
+,Jaime Romero,es ESP,"FW,MF",4,1,0.0,0.0,2009-2010,/en/players/e28205f4/Jaime-Romero,28205f4,Udinese,136,1.5,0.0,0.0,165,1.0,2082,Udinese
+,Rafael Romo,ve VEN,GK,1,1,0.0,0.0,2009-2010,/en/players/8827c189/Rafael-Romo,8827c189,Udinese,90,1.0,0.0,0.0,165,53.0,20270,Udinese
+,Niki Zimling,dk DEN,MF,1,1,0.0,0.0,2009-2010,/en/players/80588923/Niki-Zimling,80588923,Udinese,61,0.7,1.0,0.0,165,7.0,18320,Udinese
+,Alexandre Geijo,es ESP,FW,4,0,0.0,0.0,2009-2010,/en/players/c0787e61/Alexandre-Geijo,c0787e61,Udinese,76,0.8,0.0,0.0,165,1.0,1654,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,5,0,0.0,0.0,2009-2010,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,69,0.8,0.0,0.0,165,17.0,20271,Udinese
+,Guilherme Siqueira,br BRA,"DF,MF",3,0,0.0,0.0,2009-2010,/en/players/3770a135/Guilherme-Siqueira,3770a135,Udinese,66,0.7,0.0,0.0,165,2.0,974,Udinese
+,Christian Obodo,ng NGA,MF,1,0,0.0,0.0,2009-2010,/en/players/dc97300e/Christian-Obodo,dc97300e,Udinese,5,0.1,0.0,0.0,165,52.0,20242,Udinese
+,﻿Kwadwo Asamoah,gh GHA,"DF,MF",38,37,3.0,2.0,2010-2011,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Udinese,"3,282",36.5,3.0,0.0,165,17.0,19553,Udinese
+,Samir Handanović,si SVN,GK,35,35,0.0,0.0,2010-2011,/en/players/74419746/Samir-Handanovic,74419746,Udinese,"3,150",35.0,4.0,0.0,165,32.0,19674,Udinese
+,Cristián Zapata,co COL,DF,35,35,0.0,2.0,2010-2011,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Udinese,"3,105",34.5,6.0,0.0,165,19.0,2759,Udinese
+,Gökhan Inler,ch SUI,MF,35,35,4.0,3.0,2010-2011,/en/players/3200c583/Gokhan-Inler,3200c583,Udinese,"2,951",32.8,5.0,1.0,165,39.0,9062,Udinese
+,Antonio Di Natale,it ITA,FW,36,35,6.0,28.0,2010-2011,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,917",32.4,3.0,0.0,165,9.0,20240,Udinese
+,Medhi Benatia,ma MAR,DF,34,34,0.0,3.0,2010-2011,/en/players/3b15ef2d/Medhi-Benatia,3b15ef2d,Udinese,"3,042",33.8,8.0,0.0,165,26.0,15354,Udinese
+,Mauricio Isla,cl CHI,"DF,MF",34,34,6.0,2.0,2010-2011,/en/players/de4517dd/Mauricio-Isla,de4517dd,Udinese,"2,859",31.8,1.0,0.0,165,31.0,10725,Udinese
+,Giampiero Pinzi,it ITA,MF,34,30,3.0,1.0,2010-2011,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"2,735",30.4,10.0,1.0,165,9.0,20222,Udinese
+,Pablo Armero,co COL,"DF,MF",31,29,5.0,2.0,2010-2011,/en/players/afabf74e/Pablo-Armero,fabf74e,Udinese,"2,569",28.5,4.0,0.0,165,19.0,8475,Udinese
+,Maurizio Domizzi,it ITA,DF,30,28,1.0,2.0,2010-2011,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,"2,403",26.7,8.0,1.0,165,9.0,20266,Udinese
+,Alexis Sánchez,cl CHI,"FW,MF",31,27,7.0,12.0,2010-2011,/en/players/2c0f8e9e/Alexis-Sanchez,2c0f8e9e,Udinese,"2,382",26.5,6.0,1.0,165,31.0,1141,Udinese
+,Andrea Coda,it ITA,DF,22,16,0.0,0.0,2010-2011,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,"1,427",15.9,2.0,1.0,165,9.0,20092,Udinese
+,Giovanni Pasquale,it ITA,DF,17,10,1.0,0.0,2010-2011,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,861,9.6,2.0,0.0,165,9.0,19628,Udinese
+,Antonio Floro Flores,it ITA,FW,12,10,2.0,3.0,2010-2011,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Udinese,781,8.7,0.0,0.0,165,9.0,5035,Udinese
+,Germán Denis,ar ARG,FW,25,8,2.0,4.0,2010-2011,/en/players/3b64f69d/German-Denis,3b64f69d,Udinese,953,10.6,1.0,0.0,165,5.0,20272,Udinese
+,Almen Abdi,ch SUI,MF,19,6,0.0,0.0,2010-2011,/en/players/8d425d84/Almen-Abdi,8d425d84,Udinese,634,7.0,5.0,0.0,165,39.0,9881,Udinese
+,Juan Cuadrado,co COL,"DF,FW",9,3,0.0,0.0,2010-2011,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Udinese,343,3.8,3.0,0.0,165,19.0,6206,Udinese
+,Emanuele Belardi,it ITA,GK,3,3,0.0,0.0,2010-2011,/en/players/788d51fa/Emanuele-Belardi,788d51fa,Udinese,270,3.0,0.0,0.0,165,9.0,19530,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,8,2,0.0,0.0,2010-2011,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,206,2.3,2.0,0.0,165,17.0,20271,Udinese
+,Gabriele Angella,it ITA,DF,8,1,0.0,0.0,2010-2011,/en/players/0c971997/Gabriele-Angella,0c971997,Udinese,232,2.6,0.0,1.0,165,9.0,9890,Udinese
+,Bernardo Corradi,it ITA,FW,18,0,1.0,1.0,2010-2011,/en/players/d50232c1/Bernardo-Corradi,d50232c1,Udinese,280,3.1,2.0,0.0,165,9.0,893,Udinese
+,Cristian Battocchio,it ITA,MF,1,0,0.0,0.0,2010-2011,/en/players/0f9b8301/Cristian-Battocchio,0f9b8301,Udinese,23,0.3,0.0,0.0,165,9.0,9885,Udinese
+,Joel Ekstrand,se SWE,DF,1,0,0.0,0.0,2010-2011,/en/players/92617483/Joel-Ekstrand,92617483,Udinese,22,0.2,0.0,0.0,165,41.0,9884,Udinese
+,Matěj Vydra,cz CZE,"FW,MF",2,0,0.0,0.0,2010-2011,/en/players/0d4ceb32/Matej-Vydra,0d4ceb32,Udinese,12,0.1,0.0,0.0,165,84.0,8612,Udinese
+,﻿Samir Handanović,si SVN,GK,38,38,0.0,0.0,2011-2012,/en/players/74419746/Samir-Handanovic,74419746,Udinese,"3,420",38.0,3.0,0.0,165,32.0,19674,Udinese
+,Danilo Larangeira,br BRA,DF,37,37,0.0,1.0,2011-2012,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"3,324",36.9,6.0,0.0,165,2.0,20204,Udinese
+,Antonio Di Natale,it ITA,FW,36,35,7.0,23.0,2011-2012,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"3,044",33.8,2.0,0.0,165,9.0,20240,Udinese
+,Kwadwo Asamoah,gh GHA,"DF,MF",31,31,2.0,3.0,2011-2012,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Udinese,"2,724",30.3,3.0,0.0,165,17.0,19553,Udinese
+,Dušan Basta,rs SRB,"DF,MF",31,31,4.0,5.0,2011-2012,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Udinese,"2,625",29.2,2.0,0.0,165,28.0,19938,Udinese
+,Maurizio Domizzi,it ITA,DF,31,30,2.0,1.0,2011-2012,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,"2,595",28.8,7.0,0.0,165,9.0,20266,Udinese
+,Medhi Benatia,ma MAR,DF,27,27,0.0,1.0,2011-2012,/en/players/3b15ef2d/Medhi-Benatia,3b15ef2d,Udinese,"2,380",26.4,9.0,0.0,165,26.0,15354,Udinese
+,Giampiero Pinzi,it ITA,MF,28,27,1.0,2.0,2011-2012,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"2,224",24.7,11.0,1.0,165,9.0,20222,Udinese
+,Pablo Armero,co COL,"DF,MF",28,25,9.0,0.0,2011-2012,/en/players/afabf74e/Pablo-Armero,fabf74e,Udinese,"2,328",25.9,7.0,0.0,165,19.0,8475,Udinese
+,Mauricio Isla,cl CHI,"DF,MF",21,21,2.0,3.0,2011-2012,/en/players/de4517dd/Mauricio-Isla,de4517dd,Udinese,"1,816",20.2,3.0,0.0,165,31.0,10725,Udinese
+,Giovanni Pasquale,it ITA,DF,21,13,2.0,0.0,2011-2012,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,"1,185",13.2,0.0,0.0,165,9.0,19628,Udinese
+,Antonio Floro Flores,it ITA,FW,26,12,3.0,4.0,2011-2012,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Udinese,"1,319",14.7,4.0,0.0,165,9.0,5035,Udinese
+,Michele Pazienza,it ITA,MF,15,12,0.0,1.0,2011-2012,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Udinese,"1,186",13.2,3.0,0.0,165,9.0,19552,Udinese
+,Gelson Fernandes,ch SUI,MF,16,12,1.0,1.0,2011-2012,/en/players/8e58987d/Gelson-Fernandes,8e58987d,Udinese,"1,138",12.6,4.0,0.0,165,39.0,6982,Udinese
+,Gabriel Torje,ro ROU,"FW,MF",21,12,1.0,2.0,2011-2012,/en/players/9ef94c26/Gabriel-Torje,9ef94c26,Udinese,895,9.9,1.0,0.0,165,51.0,3077,Udinese
+,Damiano Ferronetti,it ITA,"DF,MF",15,11,0.0,1.0,2011-2012,/en/players/b6cc6dd6/Damiano-Ferronetti,b6cc6dd6,Udinese,"1,081",12.0,2.0,1.0,165,9.0,20023,Udinese
+,Almen Abdi,ch SUI,MF,23,9,0.0,0.0,2011-2012,/en/players/8d425d84/Almen-Abdi,8d425d84,Udinese,920,10.2,3.0,0.0,165,39.0,9881,Udinese
+,Diego Fabbrini,it ITA,"FW,MF",14,8,0.0,2.0,2011-2012,/en/players/762cf8e4/Diego-Fabbrini,762cf8e4,Udinese,657,7.3,4.0,1.0,165,9.0,7262,Udinese
+,Roberto Pereyra,ar ARG,"FW,MF",11,7,1.0,1.0,2011-2012,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Udinese,663,7.4,3.0,0.0,165,5.0,9910,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,10,6,0.0,0.0,2011-2012,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,612,6.8,2.0,0.0,165,17.0,20271,Udinese
+,Andrea Coda,it ITA,DF,7,6,0.0,0.0,2011-2012,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,524,5.8,1.0,0.0,165,9.0,20092,Udinese
+,Joel Ekstrand,se SWE,DF,11,5,0.0,0.0,2011-2012,/en/players/92617483/Joel-Ekstrand,92617483,Udinese,522,5.8,4.0,0.0,165,41.0,9884,Udinese
+,Paulo Vitor Barreto,br BRA,FW,7,2,0.0,0.0,2011-2012,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Udinese,216,2.4,1.0,0.0,165,2.0,20244,Udinese
+,Neuton,br BRA,DF,4,1,0.0,0.0,2011-2012,/en/players/274e3e73/Neuton,274e3e73,Udinese,124,1.4,0.0,0.0,165,2.0,3804,Udinese
+,Cristian Battocchio,it ITA,MF,4,0,0.0,0.0,2011-2012,/en/players/0f9b8301/Cristian-Battocchio,0f9b8301,Udinese,39,0.4,0.0,0.0,165,9.0,9885,Udinese
+,Thierry Doubai,ci CIV,MF,1,0,0.0,0.0,2011-2012,/en/players/186b5cfc/Thierry-Doubai,186b5cfc,Udinese,2,0.0,0.0,0.0,165,35.0,11856,Udinese
+,﻿Allan,br BRA,"DF,MF",36,33,6.0,0.0,2012-2013,/en/players/cc700722/Allan,cc700722,Udinese,"3,039",33.8,6.0,0.0,165,2.0,6724,Udinese
+,Danilo Larangeira,br BRA,DF,32,32,1.0,2.0,2012-2013,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"2,817",31.3,10.0,2.0,165,2.0,20204,Udinese
+,Roberto Pereyra,ar ARG,"FW,MF",37,31,1.0,5.0,2012-2013,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Udinese,"2,806",31.2,2.0,0.0,165,5.0,9910,Udinese
+,Antonio Di Natale,it ITA,FW,33,31,4.0,23.0,2012-2013,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,691",29.9,4.0,0.0,165,9.0,20240,Udinese
+,Željko Brkić,rs SRB,GK,31,31,0.0,0.0,2012-2013,/en/players/5b8e51a8/Zeljko-Brkic,5b8e51a8,Udinese,"2,662",29.6,1.0,1.0,165,28.0,20273,Udinese
+,Maurizio Domizzi,it ITA,DF,30,29,2.0,2.0,2012-2013,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,"2,557",28.4,12.0,0.0,165,9.0,20266,Udinese
+,Dušan Basta,rs SRB,"DF,MF",28,27,3.0,1.0,2012-2013,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Udinese,"2,417",26.9,2.0,0.0,165,28.0,19938,Udinese
+,Andrea Lazzari,it ITA,MF,24,21,4.0,1.0,2012-2013,/en/players/2d6caaa7/Andrea-Lazzari,2d6caaa7,Udinese,"1,679",18.7,6.0,1.0,165,9.0,20274,Udinese
+,Medhi Benatia,ma MAR,DF,19,19,1.0,2.0,2012-2013,/en/players/3b15ef2d/Medhi-Benatia,3b15ef2d,Udinese,"1,621",18.0,5.0,0.0,165,26.0,15354,Udinese
+,Giovanni Pasquale,it ITA,DF,18,17,1.0,1.0,2012-2013,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,"1,459",16.2,1.0,0.0,165,9.0,19628,Udinese
+,Giampiero Pinzi,it ITA,MF,19,17,2.0,3.0,2012-2013,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"1,384",15.4,9.0,0.0,165,9.0,20222,Udinese
+,Luis Muriel,co COL,FW,22,15,3.0,11.0,2012-2013,/en/players/eb2fe5b6/Luis-Muriel,b2fe5b6,Udinese,"1,386",15.4,5.0,0.0,165,19.0,1923,Udinese
+,Maicosuel,br BRA,MF,20,15,2.0,2.0,2012-2013,/en/players/4f5e5c13/Maicosuel,4f5e5c13,Udinese,"1,206",13.4,4.0,0.0,165,2.0,18709,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,25,14,1.0,0.0,2012-2013,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,"1,535",17.1,2.0,0.0,165,17.0,20271,Udinese
+,Thomas Heurtaux,fr FRA,DF,17,13,0.0,0.0,2012-2013,/en/players/32d1c24f/Thomas-Heurtaux,32d1c24f,Udinese,"1,259",14.0,2.0,2.0,165,4.0,14309,Udinese
+,Gabriel Silva,br BRA,"DF,MF",18,13,3.0,1.0,2012-2013,/en/players/4914ed4a/Gabriel-Silva,4914ed4a,Udinese,"1,231",13.7,1.0,0.0,165,2.0,5055,Udinese
+,Gabriele Angella,it ITA,DF,14,11,0.0,4.0,2012-2013,/en/players/0c971997/Gabriele-Angella,0c971997,Udinese,"1,073",11.9,4.0,0.0,165,9.0,9890,Udinese
+,Andrea Coda,it ITA,DF,11,10,0.0,0.0,2012-2013,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,837,9.3,3.0,0.0,165,9.0,20092,Udinese
+,Pablo Armero,co COL,"DF,MF",10,8,1.0,0.0,2012-2013,/en/players/afabf74e/Pablo-Armero,fabf74e,Udinese,753,8.4,2.0,0.0,165,19.0,8475,Udinese
+,Daniele Padelli,it ITA,GK,9,7,0.0,0.0,2012-2013,/en/players/cf1c23d8/Daniele-Padelli,cf1c23d8,Udinese,758,8.4,0.0,0.0,165,9.0,6294,Udinese
+,Davide Faraoni,it ITA,"DF,MF",11,6,0.0,0.0,2012-2013,/en/players/aae9d04a/Davide-Faraoni,9d04a,Udinese,526,5.8,1.0,0.0,165,9.0,9892,Udinese
+,Piotr Zieliński,pl POL,MF,9,4,1.0,0.0,2012-2013,/en/players/a5296e55/Piotr-Zielinski,5296e55,Udinese,318,3.5,1.0,0.0,165,14.0,20275,Udinese
+,Diego Fabbrini,it ITA,"FW,MF",7,4,1.0,0.0,2012-2013,/en/players/762cf8e4/Diego-Fabbrini,762cf8e4,Udinese,278,3.1,0.0,0.0,165,9.0,7262,Udinese
+,Mathias Ranégie,se SWE,FW,20,3,0.0,1.0,2012-2013,/en/players/064c523e/Mathias-Ranegie,064c523e,Udinese,482,5.4,1.0,0.0,165,41.0,9894,Udinese
+,Willians,br BRA,MF,5,3,0.0,0.0,2012-2013,/en/players/8ac0ac9c/Willians,8ac0ac9c,Udinese,170,1.9,0.0,0.0,165,2.0,20276,Udinese
+,Paulo Vitor Barreto,br BRA,FW,4,2,0.0,0.0,2012-2013,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Udinese,152,1.7,0.0,0.0,165,2.0,20244,Udinese
+,Alexander Merkel,kz KAZ,MF,5,1,0.0,0.0,2012-2013,/en/players/5181e2cb/Alexander-Merkel,5181e2cb,Udinese,121,1.3,0.0,0.0,165,149.0,9895,Udinese
+,Cristian Battocchio,it ITA,MF,1,1,0.0,0.0,2012-2013,/en/players/0f9b8301/Cristian-Battocchio,0f9b8301,Udinese,90,1.0,0.0,0.0,165,9.0,9885,Udinese
+,Matías Campos,cl CHI,"DF,MF",4,0,0.0,0.0,2012-2013,/en/players/8ff6d25a/Matias-Campos,8ff6d25a,Udinese,87,1.0,0.0,0.0,165,31.0,4996,Udinese
+,Diego Rodríguez,uy URU,MF,1,0,0.0,0.0,2012-2013,/en/players/f23be077/Diego-Rodriguez,f23be077,Udinese,2,0.0,0.0,0.0,165,8.0,20277,Udinese
+,﻿Danilo Larangeira,br BRA,DF,36,36,0.0,1.0,2013-2014,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"3,240",36.0,8.0,0.0,165,2.0,20204,Udinese
+,Roberto Pereyra,ar ARG,"FW,MF",36,33,6.0,2.0,2013-2014,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Udinese,"2,941",32.7,6.0,0.0,165,5.0,9910,Udinese
+,Thomas Heurtaux,fr FRA,DF,32,31,1.0,4.0,2013-2014,/en/players/32d1c24f/Thomas-Heurtaux,32d1c24f,Udinese,"2,665",29.6,8.0,0.0,165,4.0,14309,Udinese
+,Allan,br BRA,"DF,MF",33,30,2.0,0.0,2013-2014,/en/players/cc700722/Allan,cc700722,Udinese,"2,642",29.4,6.0,1.0,165,2.0,6724,Udinese
+,Gabriel Silva,br BRA,"DF,MF",31,29,1.0,1.0,2013-2014,/en/players/4914ed4a/Gabriel-Silva,4914ed4a,Udinese,"2,522",28.0,4.0,1.0,165,2.0,5055,Udinese
+,Antonio Di Natale,it ITA,FW,32,29,0.0,17.0,2013-2014,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,394",26.6,1.0,0.0,165,9.0,20240,Udinese
+,Dušan Basta,rs SRB,"DF,MF",30,26,1.0,3.0,2013-2014,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Udinese,"2,268",25.2,4.0,0.0,165,28.0,19938,Udinese
+,Maurizio Domizzi,it ITA,DF,26,26,0.0,0.0,2013-2014,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,"2,226",24.7,10.0,0.0,165,9.0,20266,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,29,20,1.0,5.0,2013-2014,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,"1,864",20.7,5.0,0.0,165,17.0,20271,Udinese
+,Giampiero Pinzi,it ITA,MF,23,19,2.0,1.0,2013-2014,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"1,669",18.5,12.0,0.0,165,9.0,20222,Udinese
+,Andrea Lazzari,it ITA,MF,25,18,3.0,0.0,2013-2014,/en/players/2d6caaa7/Andrea-Lazzari,2d6caaa7,Udinese,"1,584",17.6,3.0,0.0,165,9.0,20274,Udinese
+,Bruno Fernandes,pt POR,"FW,MF",24,17,5.0,4.0,2013-2014,/en/players/507c7bdf/Bruno-Fernandes,507c7bdf,Udinese,"1,553",17.3,4.0,0.0,165,3.0,5828,Udinese
+,Simone Scuffet,it ITA,GK,16,16,0.0,0.0,2013-2014,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,"1,440",16.0,1.0,0.0,165,9.0,20278,Udinese
+,Luis Muriel,co COL,FW,24,14,1.0,4.0,2013-2014,/en/players/eb2fe5b6/Luis-Muriel,b2fe5b6,Udinese,"1,417",15.7,3.0,0.0,165,19.0,1923,Udinese
+,Naldo,br BRA,DF,16,13,0.0,0.0,2013-2014,/en/players/a2609621/Naldo,2609621,Udinese,"1,178",13.1,2.0,0.0,165,2.0,3096,Udinese
+,Željko Brkić,rs SRB,GK,12,12,0.0,0.0,2013-2014,/en/players/5b8e51a8/Zeljko-Brkic,5b8e51a8,Udinese,"1,080",12.0,0.0,0.0,165,28.0,20273,Udinese
+,Silvan Widmer,ch SUI,"DF,MF",16,11,0.0,0.0,2013-2014,/en/players/f68b64fc/Silvan-Widmer,f68b64fc,Udinese,"1,083",12.0,2.0,0.0,165,39.0,18352,Udinese
+,Ivan Kelava,hr CRO,GK,10,10,0.0,0.0,2013-2014,/en/players/fc188b82/Ivan-Kelava,fc188b82,Udinese,900,10.0,2.0,0.0,165,16.0,5048,Udinese
+,Nicolás López,uy URU,"FW,MF",21,7,0.0,2.0,2013-2014,/en/players/8d2ee5e2/Nicolas-Lopez,8d2ee5e2,Udinese,781,8.7,1.0,0.0,165,8.0,5047,Udinese
+,Maicosuel,br BRA,MF,19,7,2.0,1.0,2013-2014,/en/players/4f5e5c13/Maicosuel,4f5e5c13,Udinese,763,8.5,0.0,0.0,165,2.0,18709,Udinese
+,Igor Bubnjić,hr CRO,DF,7,6,0.0,0.0,2013-2014,/en/players/aea881d3/Igor-Bubnjic,881d3,Udinese,515,5.7,0.0,0.0,165,16.0,20279,Udinese
+,Hassan Yebda,dz ALG,MF,10,4,0.0,0.0,2013-2014,/en/players/4907d688/Hassan-Yebda,4907d688,Udinese,382,4.2,1.0,0.0,165,37.0,5029,Udinese
+,Douglas Santos,br BRA,"DF,MF",3,3,0.0,0.0,2013-2014,/en/players/c50e5bba/Douglas-Santos,c50e5bba,Udinese,166,1.8,0.0,0.0,165,2.0,15914,Udinese
+,Giovanni Pasquale,it ITA,DF,1,1,0.0,0.0,2013-2014,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,90,1.0,0.0,0.0,165,9.0,19628,Udinese
+,Piotr Zieliński,pl POL,MF,10,0,0.0,0.0,2013-2014,/en/players/a5296e55/Piotr-Zielinski,5296e55,Udinese,136,1.5,0.0,0.0,165,14.0,20275,Udinese
+,Mathias Ranégie,se SWE,FW,4,0,0.0,0.0,2013-2014,/en/players/064c523e/Mathias-Ranegie,064c523e,Udinese,39,0.4,0.0,0.0,165,41.0,9894,Udinese
+,Jadson,br BRA,MF,1,0,0.0,0.0,2013-2014,/en/players/05748af4/Jadson,05748af4,Udinese,6,0.1,0.0,0.0,165,2.0,20280,Udinese
+,﻿Danilo Larangeira,br BRA,DF,37,37,0.0,2.0,2014-2015,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"3,330",37.0,7.0,0.0,165,2.0,20204,Udinese
+,Orestis Karnezis,gr GRE,GK,37,37,0.0,0.0,2014-2015,/en/players/85b011bb/Orestis-Karnezis,85b011bb,Udinese,"3,267",36.3,2.0,0.0,165,55.0,5037,Udinese
+,Silvan Widmer,ch SUI,"DF,MF",36,35,4.0,2.0,2014-2015,/en/players/f68b64fc/Silvan-Widmer,f68b64fc,Udinese,"3,007",33.4,5.0,0.0,165,39.0,18352,Udinese
+,Allan,br BRA,"DF,MF",35,33,5.0,1.0,2014-2015,/en/players/cc700722/Allan,cc700722,Udinese,"3,001",33.3,8.0,0.0,165,2.0,6724,Udinese
+,Guilherme,br BRA,MF,34,32,3.0,0.0,2014-2015,/en/players/8754c7ca/Guilherme,8754c7ca,Udinese,"2,719",30.2,5.0,1.0,165,2.0,517,Udinese
+,Iván Piris,py PAR,DF,31,31,0.0,0.0,2014-2015,/en/players/95ced740/Ivan-Piris,95ced740,Udinese,"2,730",30.3,7.0,0.0,165,43.0,20281,Udinese
+,Antonio Di Natale,it ITA,FW,33,27,6.0,14.0,2014-2015,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"2,372",26.4,4.0,0.0,165,9.0,20240,Udinese
+,Cyril Théréau,fr FRA,FW,37,25,0.0,10.0,2014-2015,/en/players/4d3ab428/Cyril-Thereau,4d3ab428,Udinese,"2,476",27.5,4.0,0.0,165,4.0,20282,Udinese
+,Thomas Heurtaux,fr FRA,DF,26,24,1.0,1.0,2014-2015,/en/players/32d1c24f/Thomas-Heurtaux,32d1c24f,Udinese,"2,162",24.0,5.0,1.0,165,4.0,14309,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,27,20,1.0,1.0,2014-2015,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,"1,874",20.8,5.0,1.0,165,17.0,20271,Udinese
+,Panagiotis Kone,gr GRE,MF,28,20,3.0,1.0,2014-2015,/en/players/27d34558/Panagiotis-Kone,27d34558,Udinese,"1,670",18.6,9.0,1.0,165,55.0,5063,Udinese
+,Bruno Fernandes,pt POR,"FW,MF",31,16,2.0,3.0,2014-2015,/en/players/507c7bdf/Bruno-Fernandes,507c7bdf,Udinese,"1,611",17.9,5.0,0.0,165,3.0,5828,Udinese
+,Giovanni Pasquale,it ITA,DF,21,14,1.0,0.0,2014-2015,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,"1,381",15.3,6.0,0.0,165,9.0,19628,Udinese
+,Giampiero Pinzi,it ITA,MF,19,14,0.0,1.0,2014-2015,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,"1,289",14.3,11.0,0.0,165,9.0,20222,Udinese
+,Molla Wagué,ml MLI,DF,10,10,0.0,2.0,2014-2015,/en/players/a440d8ca/Molla-Wague,440d8ca,Udinese,892,9.9,4.0,0.0,165,12.0,9922,Udinese
+,Maurizio Domizzi,it ITA,DF,11,10,0.0,0.0,2014-2015,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,802,8.9,2.0,2.0,165,9.0,20266,Udinese
+,Gabriel Silva,br BRA,"DF,MF",11,8,0.0,0.0,2014-2015,/en/players/4914ed4a/Gabriel-Silva,4914ed4a,Udinese,619,6.9,0.0,0.0,165,2.0,5055,Udinese
+,Alexandre Geijo,es ESP,FW,13,5,0.0,1.0,2014-2015,/en/players/c0787e61/Alexandre-Geijo,c0787e61,Udinese,393,4.4,0.0,0.0,165,1.0,1654,Udinese
+,Igor Bubnjić,hr CRO,DF,6,5,0.0,0.0,2014-2015,/en/players/aea881d3/Igor-Bubnjic,881d3,Udinese,383,4.3,1.0,0.0,165,16.0,20279,Udinese
+,Luis Muriel,co COL,FW,11,5,1.0,0.0,2014-2015,/en/players/eb2fe5b6/Luis-Muriel,b2fe5b6,Udinese,371,4.1,1.0,0.0,165,19.0,1923,Udinese
+,Stipe Perica,hr CRO,FW,9,5,0.0,1.0,2014-2015,/en/players/269b4638/Stipe-Perica,269b4638,Udinese,354,3.9,2.0,0.0,165,16.0,9935,Udinese
+,Melker Hallberg,se SWE,MF,4,2,0.0,0.0,2014-2015,/en/players/5114ff8a/Melker-Hallberg,5114ff8a,Udinese,200,2.2,1.0,0.0,165,41.0,20283,Udinese
+,Rodrigo Aguirre,uy URU,FW,7,1,0.0,1.0,2014-2015,/en/players/b5691f5d/Rodrigo-Aguirre,b5691f5d,Udinese,222,2.5,2.0,0.0,165,8.0,20284,Udinese
+,Simone Scuffet,it ITA,GK,2,1,0.0,0.0,2014-2015,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,153,1.7,0.0,0.0,165,9.0,20278,Udinese
+,Lucas Evangelista,br BRA,MF,4,1,0.0,0.0,2014-2015,/en/players/5f4ce4b6/Lucas-Evangelista,5f4ce4b6,Udinese,136,1.5,0.0,0.0,165,2.0,12590,Udinese
+,Simone Pontisso,it ITA,MF,1,0,0.0,0.0,2014-2015,/en/players/8a2d3fdb/Simone-Pontisso,8a2d3fdb,Udinese,45,0.5,0.0,0.0,165,9.0,20285,Udinese
+,Nicola Belmonte,it ITA,DF,2,0,0.0,0.0,2014-2015,/en/players/279857a1/Nicola-Belmonte,279857a1,Udinese,14,0.2,0.0,0.0,165,9.0,20286,Udinese
+,Alexis Zapata,co COL,MF,1,0,0.0,0.0,2014-2015,/en/players/ae8f76c6/Alexis-Zapata,8f76c6,Udinese,8,0.1,0.0,0.0,165,19.0,20287,Udinese
+,Željko Brkić,rs SRB,GK,0,0,,,2014-2015,/en/players/5b8e51a8/Zeljko-Brkic,5b8e51a8,Udinese,,,,,165,28.0,20273,Udinese
+,Andrea Coda,it ITA,DF,0,0,,,2014-2015,/en/players/6e110b50/Andrea-Coda,6e110b50,Udinese,,,,,165,9.0,20092,Udinese
+,Mauro Coppolaro,it ITA,DF,0,0,,,2014-2015,/en/players/47d9821b/Mauro-Coppolaro,47d9821b,Udinese,,,,,165,9.0,20288,Udinese
+,Davide Faraoni,it ITA,"DF,MF",0,0,,,2014-2015,/en/players/aae9d04a/Davide-Faraoni,9d04a,Udinese,,,,,165,9.0,9892,Udinese
+,Nabil Jaadi,ma MAR,"FW,MF",0,0,,,2014-2015,/en/players/95fb4934/Nabil-Jaadi,95fb4934,Udinese,,,,,165,26.0,20289,Udinese
+,Jadson,br BRA,MF,0,0,,,2014-2015,/en/players/05748af4/Jadson,05748af4,Udinese,,,,,165,2.0,20280,Udinese
+,Jakub Jankto,cz CZE,MF,0,0,,,2014-2015,/en/players/1ea5f91c/Jakub-Jankto,1ea5f91c,Udinese,,,,,165,84.0,4094,Udinese
+,Alex Meret,it ITA,GK,0,0,,,2014-2015,/en/players/9413b19f/Alex-Meret,9413b19f,Udinese,,,,,165,9.0,20290,Udinese
+,Neuton,br BRA,DF,0,0,,,2014-2015,/en/players/274e3e73/Neuton,274e3e73,Udinese,,,,,165,2.0,3804,Udinese
+,Samuele Perisan,it ITA,GK,0,0,,,2014-2015,/en/players/00a17eba/Samuele-Perisan,00a17eba,Udinese,,,,,165,9.0,20291,Udinese
+,Ivan Prtajin,hr CRO,FW,0,0,,,2014-2015,/en/players/f297a3f1/Ivan-Prtajin,f297a3f1,Udinese,,,,,165,16.0,20292,Udinese
+,Antonio Vutov,bg BUL,"FW,MF",0,0,,,2014-2015,/en/players/8f2bf071/Antonio-Vutov,8f2bf071,Udinese,,,,,165,65.0,20293,Udinese
+,﻿Orestis Karnezis,gr GRE,GK,38,38,0.0,0.0,2015-2016,/en/players/85b011bb/Orestis-Karnezis,85b011bb,Udinese,"3,420",38.0,0.0,0.0,165,55.0,5037,Udinese
+,Danilo Larangeira,br BRA,DF,34,34,0.0,0.0,2015-2016,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"2,947",32.7,10.0,2.0,165,2.0,20204,Udinese
+,Cyril Théréau,fr FRA,FW,36,34,3.0,11.0,2015-2016,/en/players/4d3ab428/Cyril-Thereau,4d3ab428,Udinese,"2,894",32.2,2.0,1.0,165,4.0,20282,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,33,30,1.0,4.0,2015-2016,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,"2,661",29.6,6.0,0.0,165,17.0,20271,Udinese
+,Edenílson,br BRA,MF,29,26,0.0,0.0,2015-2016,/en/players/4e50f20e/Edenilson,4e50f20e,Udinese,"2,204",24.5,3.0,0.0,165,2.0,20294,Udinese
+,Felipe dal Belo,br BRA,DF,26,26,1.0,1.0,2015-2016,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,"2,139",23.8,11.0,1.0,165,2.0,19693,Udinese
+,Bruno Fernandes,pt POR,"MF,FW",31,24,4.0,3.0,2015-2016,/en/players/507c7bdf/Bruno-Fernandes,507c7bdf,Udinese,"2,110",23.4,8.0,1.0,165,3.0,5828,Udinese
+,Silvan Widmer,ch SUI,MF,27,21,2.0,0.0,2015-2016,/en/players/f68b64fc/Silvan-Widmer,f68b64fc,Udinese,"1,908",21.2,4.0,0.0,165,39.0,18352,Udinese
+,Ali Adnan Kadhim,iq IRQ,"MF,DF",28,21,1.0,1.0,2015-2016,/en/players/06050480/Ali-Adnan-Kadhim,06050480,Udinese,"1,904",21.2,6.0,0.0,165,153.0,20302,Udinese
+,Francesco Lodi,it ITA,MF,24,20,1.0,1.0,2015-2016,/en/players/3ddc8b87/Francesco-Lodi,3ddc8b87,Udinese,"1,871",20.8,3.0,0.0,165,9.0,20102,Udinese
+,Iván Piris,py PAR,DF,27,20,0.0,0.0,2015-2016,/en/players/95ced740/Ivan-Piris,95ced740,Udinese,"1,869",20.8,5.0,0.0,165,43.0,20281,Udinese
+,Molla Wagué,ml MLI,DF,21,20,0.0,0.0,2015-2016,/en/players/a440d8ca/Molla-Wague,440d8ca,Udinese,"1,691",18.8,6.0,1.0,165,12.0,9922,Udinese
+,Duván Zapata,co COL,FW,25,15,2.0,8.0,2015-2016,/en/players/d3de9af0/Duvan-Zapata,d3de9af0,Udinese,"1,518",16.9,6.0,0.0,165,19.0,20295,Udinese
+,Manuel Iturra,cl CHI,MF,17,14,1.0,0.0,2015-2016,/en/players/000b3da6/Manuel-Iturra,000b3da6,Udinese,"1,023",11.4,8.0,0.0,165,31.0,2382,Udinese
+,Zdravko Kuzmanović,rs SRB,MF,16,13,0.0,0.0,2015-2016,/en/players/6df0dc74/Zdravko-Kuzmanovic,6df0dc74,Udinese,"1,131",12.6,5.0,0.0,165,28.0,2425,Udinese
+,Antonio Di Natale,it ITA,FW,23,12,4.0,2.0,2015-2016,/en/players/45f26945/Antonio-Di-Natale,45f26945,Udinese,"1,148",12.8,0.0,0.0,165,9.0,20240,Udinese
+,Thomas Heurtaux,fr FRA,DF,15,10,0.0,0.0,2015-2016,/en/players/32d1c24f/Thomas-Heurtaux,32d1c24f,Udinese,"1,075",11.9,4.0,0.0,165,4.0,14309,Udinese
+,Emil Hallfreðsson,is ISL,MF,11,7,0.0,0.0,2015-2016,/en/players/86015b20/Emil-Hallfredsson,86015b20,Udinese,662,7.4,3.0,0.0,165,40.0,20296,Udinese
+,Stipe Perica,hr CRO,FW,11,5,0.0,2.0,2015-2016,/en/players/269b4638/Stipe-Perica,269b4638,Udinese,466,5.2,1.0,0.0,165,16.0,9935,Udinese
+,Pablo Armero,co COL,MF,5,5,0.0,1.0,2015-2016,/en/players/afabf74e/Pablo-Armero,fabf74e,Udinese,417,4.6,0.0,0.0,165,19.0,8475,Udinese
+,Marquinho,br BRA,MF,11,4,0.0,0.0,2015-2016,/en/players/949bdc36/Marquinho,949bdc36,Udinese,451,5.0,3.0,0.0,165,2.0,20297,Udinese
+,Ryder Matos,br BRA,FW,11,4,1.0,0.0,2015-2016,/en/players/7280b54f/Ryder-Matos,7280b54f,Udinese,414,4.6,1.0,0.0,165,2.0,5337,Udinese
+,Guilherme,br BRA,MF,5,4,0.0,0.0,2015-2016,/en/players/8754c7ca/Guilherme,8754c7ca,Udinese,338,3.8,1.0,0.0,165,2.0,517,Udinese
+,Rodrigo Aguirre,uy URU,FW,10,3,1.0,0.0,2015-2016,/en/players/b5691f5d/Rodrigo-Aguirre,b5691f5d,Udinese,340,3.8,1.0,0.0,165,8.0,20284,Udinese
+,Maurizio Domizzi,it ITA,DF,5,3,0.0,0.0,2015-2016,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Udinese,272,3.0,1.0,0.0,165,9.0,20266,Udinese
+,Giovanni Pasquale,it ITA,MF,6,2,0.0,0.0,2015-2016,/en/players/9366f242/Giovanni-Pasquale,9366f242,Udinese,235,2.6,2.0,0.0,165,9.0,19628,Udinese
+,Panagiotis Kone,gr GRE,MF,5,2,1.0,0.0,2015-2016,/en/players/27d34558/Panagiotis-Kone,27d34558,Udinese,232,2.6,1.0,1.0,165,55.0,5063,Udinese
+,Alexander Merkel,kz KAZ,MF,1,1,0.0,0.0,2015-2016,/en/players/5181e2cb/Alexander-Merkel,5181e2cb,Udinese,57,0.6,1.0,0.0,165,149.0,9895,Udinese
+,Andrija Balić,hr CRO,MF,0,0,,,2015-2016,/en/players/9be4ee80/Andrija-Balic,9be4ee80,Udinese,,,,,165,16.0,20298,Udinese
+,Agostino Camigliano,it ITA,DF,0,0,,,2015-2016,/en/players/52177b56/Agostino-Camigliano,52177b56,Udinese,,,,,165,9.0,20299,Udinese
+,Mauro Coppolaro,it ITA,DF,0,0,,,2015-2016,/en/players/47d9821b/Mauro-Coppolaro,47d9821b,Udinese,,,,,165,9.0,20288,Udinese
+,Lucas Evangelista,br BRA,MF,0,0,,,2015-2016,/en/players/5f4ce4b6/Lucas-Evangelista,5f4ce4b6,Udinese,,,,,165,2.0,12590,Udinese
+,Gaspar Iñíguez,ar ARG,MF,0,0,,,2015-2016,/en/players/326766d0/Gaspar-Iniguez,326766d0,Udinese,,,,,165,5.0,20300,Udinese
+,Emanuel Insúa,ar ARG,DF,0,0,,,2015-2016,/en/players/792c7b94/Emanuel-Insua,792c7b94,Udinese,,,,,165,5.0,5040,Udinese
+,Alex Meret,it ITA,GK,0,0,,,2015-2016,/en/players/9413b19f/Alex-Meret,9413b19f,Udinese,,,,,165,9.0,20290,Udinese
+,Neuton,br BRA,DF,0,0,,,2015-2016,/en/players/274e3e73/Neuton,274e3e73,Udinese,,,,,165,2.0,3804,Udinese
+,Samuele Perisan,it ITA,GK,0,0,,,2015-2016,/en/players/00a17eba/Samuele-Perisan,00a17eba,Udinese,,,,,165,9.0,20291,Udinese
+,Giampiero Pinzi,it ITA,MF,0,0,,,2015-2016,/en/players/8857991f/Giampiero-Pinzi,8857991f,Udinese,,,,,165,9.0,20222,Udinese
+,Simone Pontisso,it ITA,MF,0,0,,,2015-2016,/en/players/8a2d3fdb/Simone-Pontisso,8a2d3fdb,Udinese,,,,,165,9.0,20285,Udinese
+,Rafael Romo,ve VEN,GK,0,0,,,2015-2016,/en/players/8827c189/Rafael-Romo,8827c189,Udinese,,,,,165,53.0,20270,Udinese
+,﻿Duván Zapata,co COL,FW,38,37,3.0,10.0,2016-2017,/en/players/d3de9af0/Duvan-Zapata,d3de9af0,Udinese,"3,141",34.9,3.0,0.0,165,19.0,20295,Udinese
+,Danilo Larangeira,br BRA,DF,36,36,1.0,2.0,2016-2017,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"3,203",35.6,9.0,1.0,165,2.0,20204,Udinese
+,Orestis Karnezis,gr GRE,GK,33,33,0.0,0.0,2016-2017,/en/players/85b011bb/Orestis-Karnezis,85b011bb,Udinese,"2,958",32.9,3.0,0.0,165,55.0,5037,Udinese
+,Rodrigo De Paul,ar ARG,"FW,MF",34,32,1.0,4.0,2016-2017,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Udinese,"2,337",26.0,7.0,1.0,165,5.0,964,Udinese
+,Felipe dal Belo,br BRA,DF,32,31,0.0,1.0,2016-2017,/en/players/8cea6319/Felipe-dal-Belo,8cea6319,Udinese,"2,813",31.3,9.0,0.0,165,2.0,19693,Udinese
+,Cyril Théréau,fr FRA,FW,33,31,1.0,12.0,2016-2017,/en/players/4d3ab428/Cyril-Thereau,4d3ab428,Udinese,"2,483",27.6,3.0,0.0,165,4.0,20282,Udinese
+,Silvan Widmer,ch SUI,DF,28,28,4.0,0.0,2016-2017,/en/players/f68b64fc/Silvan-Widmer,f68b64fc,Udinese,"2,490",27.7,2.0,0.0,165,39.0,18352,Udinese
+,Jakub Jankto,cz CZE,MF,29,24,4.0,5.0,2016-2017,/en/players/1ea5f91c/Jakub-Jankto,1ea5f91c,Udinese,"1,898",21.1,6.0,0.0,165,84.0,4094,Udinese
+,Emil Hallfreðsson,is ISL,MF,28,23,4.0,0.0,2016-2017,/en/players/86015b20/Emil-Hallfredsson,86015b20,Udinese,"1,984",22.0,10.0,0.0,165,40.0,20296,Udinese
+,Seko Fofana,ci CIV,MF,22,21,1.0,5.0,2016-2017,/en/players/5313ed43/Seko-Fofana,5313ed43,Udinese,"1,821",20.2,3.0,0.0,165,35.0,7850,Udinese
+,Samir Santos,br BRA,DF,21,21,3.0,0.0,2016-2017,/en/players/92b4758e/Samir-Santos,92b4758e,Udinese,"1,779",19.8,3.0,0.0,165,2.0,9945,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,29,20,3.0,0.0,2016-2017,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,"2,033",22.6,2.0,0.0,165,17.0,20271,Udinese
+,Sven Kums,be BEL,MF,29,20,1.0,0.0,2016-2017,/en/players/83534f30/Sven-Kums,83534f30,Udinese,"1,828",20.3,3.0,0.0,165,27.0,20301,Udinese
+,Gabriele Angella,it ITA,"DF,MF",14,10,0.0,1.0,2016-2017,/en/players/0c971997/Gabriele-Angella,0c971997,Udinese,"1,017",11.3,3.0,0.0,165,9.0,9890,Udinese
+,Ali Adnan Kadhim,iq IRQ,"DF,MF",14,8,0.0,0.0,2016-2017,/en/players/06050480/Ali-Adnan-Kadhim,06050480,Udinese,872,9.7,2.0,0.0,165,153.0,20302,Udinese
+,Molla Wagué,ml MLI,DF,6,6,0.0,0.0,2016-2017,/en/players/a440d8ca/Molla-Wague,440d8ca,Udinese,540,6.0,2.0,0.0,165,12.0,9922,Udinese
+,Thomas Heurtaux,fr FRA,DF,12,6,1.0,0.0,2016-2017,/en/players/32d1c24f/Thomas-Heurtaux,32d1c24f,Udinese,528,5.9,3.0,0.0,165,4.0,14309,Udinese
+,Stipe Perica,hr CRO,"FW,MF",27,5,1.0,6.0,2016-2017,/en/players/269b4638/Stipe-Perica,269b4638,Udinese,"1,086",12.1,4.0,0.0,165,16.0,9935,Udinese
+,Simone Scuffet,it ITA,GK,6,5,0.0,0.0,2016-2017,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,462,5.1,0.0,0.0,165,9.0,20278,Udinese
+,Ryder Matos,br BRA,"FW,MF",20,4,0.0,0.0,2016-2017,/en/players/7280b54f/Ryder-Matos,7280b54f,Udinese,556,6.2,0.0,0.0,165,2.0,5337,Udinese
+,Davide Faraoni,it ITA,DF,5,4,0.0,0.0,2016-2017,/en/players/aae9d04a/Davide-Faraoni,9d04a,Udinese,329,3.7,2.0,0.0,165,9.0,9892,Udinese
+,Panagiotis Kone,gr GRE,MF,5,3,0.0,0.0,2016-2017,/en/players/27d34558/Panagiotis-Kone,27d34558,Udinese,301,3.3,1.0,0.0,165,55.0,5063,Udinese
+,Andrija Balić,hr CRO,"MF,FW",4,3,0.0,1.0,2016-2017,/en/players/9be4ee80/Andrija-Balic,9be4ee80,Udinese,239,2.7,1.0,0.0,165,16.0,20298,Udinese
+,Gabriel Silva,br BRA,"MF,DF",5,2,0.0,0.0,2016-2017,/en/players/4914ed4a/Gabriel-Silva,4914ed4a,Udinese,234,2.6,2.0,0.0,165,2.0,5055,Udinese
+,Lucas Evangelista,br BRA,MF,6,2,1.0,0.0,2016-2017,/en/players/5f4ce4b6/Lucas-Evangelista,5f4ce4b6,Udinese,207,2.3,1.0,0.0,165,2.0,12590,Udinese
+,Pablo Armero,co COL,DF,2,2,0.0,0.0,2016-2017,/en/players/afabf74e/Pablo-Armero,fabf74e,Udinese,180,2.0,1.0,0.0,165,19.0,8475,Udinese
+,Adalberto Peñaranda,ve VEN,FW,6,1,0.0,0.0,2016-2017,/en/players/4b3f2936/Adalberto-Penaranda,4b3f2936,Udinese,160,1.8,0.0,0.0,165,53.0,2426,Udinese
+,Ewandro,br BRA,"FW,MF",5,0,0.0,0.0,2016-2017,/en/players/ab11c58a/Ewandro,b11c58a,Udinese,61,0.7,0.0,0.0,165,2.0,20303,Udinese
+,Francesco Lodi,it ITA,MF,1,0,0.0,0.0,2016-2017,/en/players/3ddc8b87/Francesco-Lodi,3ddc8b87,Udinese,12,0.1,0.0,0.0,165,9.0,20102,Udinese
+,Panos Armenakas,au AUS,MF,0,0,,,2016-2017,/en/players/02a9fccf/Panos-Armenakas,02a9fccf,Udinese,,,,,165,42.0,20304,Udinese
+,Davide Borsellini,it ITA,GK,0,0,,,2016-2017,/en/players/21b6d3e9/Davide-Borsellini,21b6d3e9,Udinese,,,,,165,9.0,20305,Udinese
+,Edoardo Bovolon,it ITA,MF,0,0,,,2016-2017,/en/players/e7455e15/Edoardo-Bovolon,7455e15,Udinese,,,,,165,9.0,20306,Udinese
+,Franck Djoulou,ci CIV,FW,0,0,,,2016-2017,/en/players/a5443b3d/Franck-Djoulou,5443b3d,Udinese,,,,,165,35.0,20319,Udinese
+,Edenílson,br BRA,MF,0,0,,,2016-2017,/en/players/4e50f20e/Edenilson,4e50f20e,Udinese,,,,,165,2.0,20294,Udinese
+,Assane Gnoukouri,ci CIV,MF,0,0,,,2016-2017,/en/players/2e2e72d5/Assane-Gnoukouri,2e2e72d5,Udinese,,,,,165,35.0,19694,Udinese
+,Luca Magnino,it ITA,MF,0,0,,,2016-2017,/en/players/b32345a1/Luca-Magnino,b32345a1,Udinese,,,,,165,9.0,20307,Udinese
+,Alberto Parpinel,it ITA,DF,0,0,,,2016-2017,/en/players/7839d1f0/Alberto-Parpinel,7839d1f0,Udinese,,,,,165,9.0,20308,Udinese
+,Samuele Perisan,it ITA,GK,0,0,,,2016-2017,/en/players/00a17eba/Samuele-Perisan,00a17eba,Udinese,,,,,165,9.0,20291,Udinese
+,Luca Scordino,it ITA,GK,0,0,,,2016-2017,/en/players/d3374cca/Luca-Scordino,d3374cca,Udinese,,,,,165,9.0,20309,Udinese
+,Filip Vaško,sk SVK,DF,0,0,,,2016-2017,/en/players/8ffe9134/Filip-Vasko,8ffe9134,Udinese,,,,,165,70.0,20310,Udinese
+,﻿Albano Bizzarri,ar ARG,GK,32,32,0.0,0.0,2017-2018,/en/players/32b9b5fa/Albano-Bizzarri,32b9b5fa,Udinese,"2,880",32.0,0.0,1.0,165,5.0,2502,Udinese
+,Danilo Larangeira,br BRA,DF,32,32,0.0,1.0,2017-2018,/en/players/fed5f993/Danilo-Larangeira,fed5f993,Udinese,"2,775",30.8,8.0,0.0,165,2.0,20204,Udinese
+,Antonín Barák,cz CZE,MF,34,31,3.0,7.0,2017-2018,/en/players/01efac19/Antonin-Barak,01efac19,Udinese,"2,713",30.1,5.0,0.0,165,84.0,20311,Udinese
+,Samir Santos,br BRA,DF,31,30,0.0,2.0,2017-2018,/en/players/92b4758e/Samir-Santos,92b4758e,Udinese,"2,569",28.5,7.0,1.0,165,2.0,9945,Udinese
+,Jakub Jankto,cz CZE,"MF,FW",36,28,4.0,4.0,2017-2018,/en/players/1ea5f91c/Jakub-Jankto,1ea5f91c,Udinese,"2,654",29.5,5.0,0.0,165,84.0,4094,Udinese
+,Jens Stryger Larsen,dk DEN,DF,30,28,1.0,1.0,2017-2018,/en/players/f91e81c9/Jens-Stryger-Larsen,f91e81c9,Udinese,"2,531",28.1,5.0,0.0,165,7.0,20312,Udinese
+,Bram Nuytinck,nl NED,DF,27,26,1.0,1.0,2017-2018,/en/players/e33f36d5/Bram-Nuytinck,33f36d5,Udinese,"2,362",26.2,2.0,0.0,165,11.0,20313,Udinese
+,Kevin Lasagna,it ITA,FW,29,26,2.0,12.0,2017-2018,/en/players/09538fdb/Kevin-Lasagna,09538fdb,Udinese,"2,130",23.7,1.0,0.0,165,9.0,20314,Udinese
+,Rodrigo De Paul,ar ARG,"FW,MF",37,25,8.0,4.0,2017-2018,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Udinese,"2,319",25.8,4.0,0.0,165,5.0,964,Udinese
+,Seko Fofana,ci CIV,MF,27,22,0.0,3.0,2017-2018,/en/players/5313ed43/Seko-Fofana,5313ed43,Udinese,"1,868",20.8,4.0,1.0,165,35.0,7850,Udinese
+,Maxi López,ar ARG,FW,28,20,2.0,2.0,2017-2018,/en/players/ad469944/Maxi-Lopez,d469944,Udinese,"1,684",18.7,1.0,0.0,165,5.0,1092,Udinese
+,Ali Adnan Kadhim,iq IRQ,"DF,FW",23,18,1.0,0.0,2017-2018,/en/players/06050480/Ali-Adnan-Kadhim,06050480,Udinese,"1,674",18.6,4.0,0.0,165,153.0,20302,Udinese
+,Silvan Widmer,ch SUI,"DF,FW",24,18,2.0,3.0,2017-2018,/en/players/f68b64fc/Silvan-Widmer,f68b64fc,Udinese,"1,625",18.1,2.0,0.0,165,39.0,18352,Udinese
+,Valon Behrami,ch SUI,MF,20,18,0.0,1.0,2017-2018,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Udinese,"1,398",15.5,5.0,0.0,165,39.0,8451,Udinese
+,Andrija Balić,hr CRO,MF,21,11,1.0,0.0,2017-2018,/en/players/9be4ee80/Andrija-Balic,9be4ee80,Udinese,"1,083",12.0,2.0,0.0,165,16.0,20298,Udinese
+,Giuseppe Pezzella,it ITA,"DF,FW",15,10,0.0,0.0,2017-2018,/en/players/149c5f5d/Giuseppe-Pezzella,149c5f5d,Udinese,903,10.0,3.0,1.0,165,9.0,20174,Udinese
+,Stipe Perica,hr CRO,FW,22,9,0.0,1.0,2017-2018,/en/players/269b4638/Stipe-Perica,269b4638,Udinese,943,10.5,6.0,0.0,165,16.0,9935,Udinese
+,Gabriele Angella,it ITA,DF,12,9,0.0,0.0,2017-2018,/en/players/0c971997/Gabriele-Angella,0c971997,Udinese,893,9.9,3.0,0.0,165,9.0,9890,Udinese
+,Emil Hallfreðsson,is ISL,MF,19,8,0.0,0.0,2017-2018,/en/players/86015b20/Emil-Hallfredsson,86015b20,Udinese,764,8.5,5.0,0.0,165,40.0,20296,Udinese
+,Simone Scuffet,it ITA,GK,6,6,0.0,0.0,2017-2018,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,540,6.0,0.0,0.0,165,9.0,20278,Udinese
+,Francesco Zampano,it ITA,DF,6,4,1.0,0.0,2017-2018,/en/players/8e45910b/Francesco-Zampano,8e45910b,Udinese,412,4.6,0.0,0.0,165,9.0,20315,Udinese
+,Svante Ingelsson,se SWE,MF,7,3,1.0,1.0,2017-2018,/en/players/4133cfcf/Svante-Ingelsson,4133cfcf,Udinese,325,3.6,0.0,0.0,165,41.0,17295,Udinese
+,Cyril Théréau,fr FRA,"FW,MF",2,2,0.0,2.0,2017-2018,/en/players/4d3ab428/Cyril-Thereau,4d3ab428,Udinese,180,2.0,0.0,0.0,165,4.0,20282,Udinese
+,Ryder Matos,br BRA,MF,4,1,0.0,0.0,2017-2018,/en/players/7280b54f/Ryder-Matos,7280b54f,Udinese,170,1.9,0.0,0.0,165,2.0,5337,Udinese
+,Molla Wagué,ml MLI,DF,1,1,0.0,0.0,2017-2018,/en/players/a440d8ca/Molla-Wague,440d8ca,Udinese,57,0.6,0.0,0.0,165,12.0,9922,Udinese
+,Riad Bajić,ba BIH,"FW,MF",5,0,0.0,0.0,2017-2018,/en/players/49d399d5/Riad-Bajic,49d399d5,Udinese,80,0.9,0.0,0.0,165,49.0,20316,Udinese
+,Simone Pontisso,it ITA,MF,1,0,0.0,0.0,2017-2018,/en/players/8a2d3fdb/Simone-Pontisso,8a2d3fdb,Udinese,10,0.1,0.0,0.0,165,9.0,20285,Udinese
+,Paweł Bochniewicz,pl POL,DF,0,0,,,2017-2018,/en/players/9bf068be/Pawel-Bochniewicz,9bf068be,Udinese,,,,,165,14.0,20317,Udinese
+,Davide Borsellini,it ITA,GK,0,0,,,2017-2018,/en/players/21b6d3e9/Davide-Borsellini,21b6d3e9,Udinese,,,,,165,9.0,20305,Udinese
+,Aldo Caiazza,it ITA,DF,0,0,,,2017-2018,/en/players/24eb64e4/Aldo-Caiazza,24eb64e4,Udinese,,,,,165,9.0,20318,Udinese
+,Franck Djoulou,ci CIV,FW,0,0,,,2017-2018,/en/players/a5443b3d/Franck-Djoulou,5443b3d,Udinese,,,,,165,35.0,20319,Udinese
+,Andrea Donadello,it ITA,DF,0,0,,,2017-2018,/en/players/81d1603c/Andrea-Donadello,81d1603c,Udinese,,,,,165,9.0,20320,Udinese
+,Ewandro,br BRA,"FW,MF",0,0,,,2017-2018,/en/players/ab11c58a/Ewandro,b11c58a,Udinese,,,,,165,2.0,20303,Udinese
+,Manuel Gasparini,it ITA,GK,0,0,,,2017-2018,/en/players/7033ca08/Manuel-Gasparini,7033ca08,Udinese,,,,,165,9.0,20321,Udinese
+,Nabil Jaadi,ma MAR,"FW,MF",0,0,,,2017-2018,/en/players/95fb4934/Nabil-Jaadi,95fb4934,Udinese,,,,,165,26.0,20289,Udinese
+,Luis Ndreu,al ALB,MF,0,0,,,2017-2018,/en/players/a171b175/Luis-Ndreu,171b175,Udinese,,,,,165,78.0,20322,Udinese
+,Semuel Pizzignacco,it ITA,GK,0,0,,,2017-2018,/en/players/4f537cf7/Semuel-Pizzignacco,4f537cf7,Udinese,,,,,165,9.0,20323,Udinese
+,Mak Varešanović,ba BIH,MF,0,0,,,2017-2018,/en/players/bf4bff7b/Mak-Varesanovic,bf4bff7b,Udinese,,,,,165,49.0,20324,Udinese
+,Filip Vaško,sk SVK,DF,0,0,,,2017-2018,/en/players/8ffe9134/Filip-Vasko,8ffe9134,Udinese,,,,,165,70.0,20310,Udinese
+,﻿Jens Stryger Larsen,dk DEN,DF,36,36,4.0,1.0,2018-2019,/en/players/f91e81c9/Jens-Stryger-Larsen,f91e81c9,Udinese,"3,234",35.9,6.0,0.0,165,7.0,20312,Udinese
+,Rodrigo De Paul,ar ARG,"MF,FW",36,36,9.0,9.0,2018-2019,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Udinese,"3,189",35.4,7.0,0.0,165,5.0,964,Udinese
+,William Troost-Ekong,ng NGA,DF,35,35,0.0,0.0,2018-2019,/en/players/7ed4921e/William-Troost-Ekong,7ed4921e,Udinese,"3,064",34.0,4.0,0.0,165,52.0,9932,Udinese
+,Rolando Mandragora,it ITA,MF,35,33,2.0,3.0,2018-2019,/en/players/c7259b83/Rolando-Mandragora,c7259b83,Udinese,"2,918",32.4,8.0,1.0,165,9.0,19570,Udinese
+,Seko Fofana,ci CIV,MF,31,31,4.0,2.0,2018-2019,/en/players/5313ed43/Seko-Fofana,5313ed43,Udinese,"2,639",29.3,5.0,0.0,165,35.0,7850,Udinese
+,Juan Musso,ar ARG,GK,29,29,0.0,0.0,2018-2019,/en/players/a111cf41/Juan-Musso,111cf41,Udinese,"2,610",29.0,4.0,0.0,165,5.0,20325,Udinese
+,Kevin Lasagna,it ITA,FW,36,26,2.0,6.0,2018-2019,/en/players/09538fdb/Kevin-Lasagna,09538fdb,Udinese,"2,453",27.3,2.0,0.0,165,9.0,20314,Udinese
+,Ignacio Pussetto,ar ARG,"FW,MF",35,24,4.0,4.0,2018-2019,/en/players/62437b4f/Ignacio-Pussetto,62437b4f,Udinese,"2,178",24.2,8.0,0.0,165,5.0,9930,Udinese
+,Bram Nuytinck,nl NED,DF,27,24,0.0,0.0,2018-2019,/en/players/e33f36d5/Bram-Nuytinck,33f36d5,Udinese,"2,127",23.6,4.0,1.0,165,11.0,20313,Udinese
+,Samir Santos,br BRA,DF,21,21,0.0,2.0,2018-2019,/en/players/92b4758e/Samir-Santos,92b4758e,Udinese,"1,797",20.0,7.0,0.0,165,2.0,9945,Udinese
+,Valon Behrami,ch SUI,MF,19,17,0.0,1.0,2018-2019,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Udinese,"1,361",15.1,6.0,0.0,165,39.0,8451,Udinese
+,Marco D'Alessandro,it ITA,DF,24,16,2.0,0.0,2018-2019,/en/players/060606ec/Marco-DAlessandro,060606ec,Udinese,"1,495",16.6,3.0,0.0,165,9.0,20326,Udinese
+,Sebastien De Maio,fr FRA,DF,16,13,0.0,1.0,2018-2019,/en/players/952a03fe/Sebastien-De-Maio,952a03fe,Udinese,"1,173",13.0,1.0,1.0,165,4.0,20327,Udinese
+,Hidde ter Avest,nl NED,"DF,FW",13,12,1.0,0.0,2018-2019,/en/players/18f9dbd0/Hidde-ter-Avest,18f9dbd0,Udinese,973,10.8,0.0,0.0,165,11.0,20328,Udinese
+,Stefano Okaka,it ITA,FW,16,11,1.0,6.0,2018-2019,/en/players/601ef102/Stefano-Okaka,601ef102,Udinese,970,10.8,4.0,0.0,165,9.0,7815,Udinese
+,Marvin Zeegelaar,nl NED,DF,12,10,0.0,0.0,2018-2019,/en/players/8abd0c03/Marvin-Zeegelaar,8abd0c03,Udinese,956,10.6,6.0,1.0,165,11.0,9921,Udinese
+,Nicholas Opoku,gh GHA,DF,12,9,0.0,0.0,2018-2019,/en/players/b871bf55/Nicholas-Opoku,b871bf55,Udinese,910,10.1,5.0,0.0,165,17.0,15253,Udinese
+,Simone Scuffet,it ITA,GK,9,9,0.0,0.0,2018-2019,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,810,9.0,0.0,0.0,165,9.0,20278,Udinese
+,Sandro,br BRA,MF,12,7,0.0,0.0,2018-2019,/en/players/c1c2c925/Sandro,c1c2c925,Udinese,594,6.6,5.0,0.0,165,2.0,7099,Udinese
+,Darwin Machís,ve VEN,"MF,FW",13,4,1.0,0.0,2018-2019,/en/players/ed6ea4d9/Darwin-Machis,d6ea4d9,Udinese,463,5.1,2.0,0.0,165,53.0,4399,Udinese
+,Antonín Barák,cz CZE,"MF,FW",8,4,0.0,0.0,2018-2019,/en/players/01efac19/Antonin-Barak,01efac19,Udinese,329,3.7,0.0,0.0,165,84.0,20311,Udinese
+,Łukasz Teodorczyk,pl POL,FW,16,2,0.0,1.0,2018-2019,/en/players/7e81a17d/Lukasz-Teodorczyk,7e81a17d,Udinese,400,4.4,1.0,0.0,165,14.0,20329,Udinese
+,Ben Wilmot,eng ENG,"DF,MF",5,2,0.0,0.0,2018-2019,/en/players/2876eaa3/Ben-Wilmot,2876eaa3,Udinese,199,2.2,1.0,0.0,165,6.0,9928,Udinese
+,Giuseppe Pezzella,it ITA,DF,4,2,0.0,0.0,2018-2019,/en/players/149c5f5d/Giuseppe-Pezzella,149c5f5d,Udinese,184,2.0,1.0,0.0,165,9.0,20174,Udinese
+,Emmanuel Agyemang-Badu,gh GHA,MF,4,2,0.0,0.0,2018-2019,/en/players/fe0b8f0e/Emmanuel-Agyemang-Badu,fe0b8f0e,Udinese,161,1.8,0.0,0.0,165,17.0,20271,Udinese
+,Emil Hallfreðsson,is ISL,MF,3,1,0.0,1.0,2018-2019,/en/players/86015b20/Emil-Hallfredsson,86015b20,Udinese,137,1.5,0.0,0.0,165,40.0,20296,Udinese
+,Svante Ingelsson,se SWE,"DF,MF",3,1,0.0,0.0,2018-2019,/en/players/4133cfcf/Svante-Ingelsson,4133cfcf,Udinese,97,1.1,0.0,0.0,165,41.0,17295,Udinese
+,Molla Wagué,ml MLI,DF,2,1,0.0,0.0,2018-2019,/en/players/a440d8ca/Molla-Wague,440d8ca,Udinese,95,1.1,0.0,0.0,165,12.0,9922,Udinese
+,Felipe Vizeu,br BRA,"FW,DF",5,0,0.0,0.0,2018-2019,/en/players/0412b9cd/Felipe-Vizeu,0412b9cd,Udinese,32,0.4,0.0,0.0,165,2.0,20330,Udinese
+,Andrija Balić,hr CRO,"FW,MF",4,0,0.0,0.0,2018-2019,/en/players/9be4ee80/Andrija-Balic,9be4ee80,Udinese,27,0.3,0.0,0.0,165,16.0,20298,Udinese
+,Petar Mićin,rs SRB,MF,1,0,0.0,0.0,2018-2019,/en/players/259deea9/Petar-Micin,259deea9,Udinese,3,0.0,0.0,0.0,165,28.0,20331,Udinese
+,Nícolas Andrade,br BRA,GK,0,0,,,2018-2019,/en/players/326d09ef/Nicolas-Andrade,326d09ef,Udinese,,,,,165,2.0,20332,Udinese
+,Thomas Battistella,it ITA,MF,0,0,,,2018-2019,/en/players/1ebee5ea/Thomas-Battistella,1ebee5ea,Udinese,,,,,165,9.0,20333,Udinese
+,Milos Bocic,rs SRB,FW,0,0,,,2018-2019,/en/players/e6d74685/Milos-Bocic,6d74685,Udinese,,,,,165,28.0,20334,Udinese
+,Álex Centelles,es ESP,DF,0,0,,,2018-2019,/en/players/ae852b7d/Alex-Centelles,852b7d,Udinese,,,,,165,1.0,1027,Udinese
+,Mamadou Coulibaly,sn SEN,MF,0,0,,,2018-2019,/en/players/c976160c/Mamadou-Coulibaly,c976160c,Udinese,,,,,165,34.0,20335,Udinese
+,Manuel Gasparini,it ITA,GK,0,0,,,2018-2019,/en/players/7033ca08/Manuel-Gasparini,7033ca08,Udinese,,,,,165,9.0,20321,Udinese
+,Gaspar Iñíguez,ar ARG,MF,0,0,,,2018-2019,/en/players/326766d0/Gaspar-Iniguez,326766d0,Udinese,,,,,165,5.0,20300,Udinese
+,Samuele Perisan,it ITA,GK,0,0,,,2018-2019,/en/players/00a17eba/Samuele-Perisan,00a17eba,Udinese,,,,,165,9.0,20291,Udinese
+,Simone Pontisso,it ITA,MF,0,0,,,2018-2019,/en/players/8a2d3fdb/Simone-Pontisso,8a2d3fdb,Udinese,,,,,165,9.0,20285,Udinese
+,Filip Vaško,sk SVK,DF,0,0,,,2018-2019,/en/players/8ffe9134/Filip-Vasko,8ffe9134,Udinese,,,,,165,70.0,20310,Udinese
+,﻿Juan Musso,ar ARG,GK,38,38,0.0,0.0,2019-2020,/en/players/a111cf41/Juan-Musso,111cf41,Udinese,"3,420",38.0,1.0,0.0,165,5.0,20325,Udinese
+,Rodrigo De Paul,ar ARG,MF,34,33,6.0,7.0,2019-2020,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Udinese,"2,822",31.4,5.0,1.0,165,5.0,964,Udinese
+,Jens Stryger Larsen,dk DEN,DF,33,32,3.0,1.0,2019-2020,/en/players/f91e81c9/Jens-Stryger-Larsen,f91e81c9,Udinese,"2,789",31.0,5.0,0.0,165,7.0,20312,Udinese
+,Ken Sema,se SWE,"DF,MF",32,30,1.0,2.0,2019-2020,/en/players/1770bd68/Ken-Sema,1770bd68,Udinese,"2,453",27.3,6.0,0.0,165,41.0,9927,Udinese
+,William Troost-Ekong,ng NGA,DF,30,29,0.0,0.0,2019-2020,/en/players/7ed4921e/William-Troost-Ekong,7ed4921e,Udinese,"2,576",28.6,5.0,0.0,165,52.0,9932,Udinese
+,Kevin Lasagna,it ITA,FW,36,28,1.0,10.0,2019-2020,/en/players/09538fdb/Kevin-Lasagna,09538fdb,Udinese,"2,569",28.5,1.0,0.0,165,9.0,20314,Udinese
+,Stefano Okaka,it ITA,FW,33,28,2.0,8.0,2019-2020,/en/players/601ef102/Stefano-Okaka,601ef102,Udinese,"2,415",26.8,10.0,0.0,165,9.0,7815,Udinese
+,Bram Nuytinck,nl NED,DF,26,26,0.0,0.0,2019-2020,/en/players/e33f36d5/Bram-Nuytinck,33f36d5,Udinese,"2,225",24.7,2.0,0.0,165,11.0,20313,Udinese
+,Seko Fofana,ci CIV,MF,32,24,7.0,3.0,2019-2020,/en/players/5313ed43/Seko-Fofana,5313ed43,Udinese,"2,249",25.0,4.0,0.0,165,35.0,7850,Udinese
+,Rodrigo Becão,br BRA,DF,29,24,1.0,1.0,2019-2020,/en/players/19e4eab9/Rodrigo-Becao,19e4eab9,Udinese,"2,213",24.6,8.0,0.0,165,2.0,20336,Udinese
+,Rolando Mandragora,it ITA,MF,26,24,2.0,0.0,2019-2020,/en/players/c7259b83/Rolando-Mandragora,c7259b83,Udinese,"2,050",22.8,2.0,0.0,165,9.0,19570,Udinese
+,Mato Jajalo,ba BIH,MF,26,19,0.0,0.0,2019-2020,/en/players/8c65eb5f/Mato-Jajalo,8c65eb5f,Udinese,"1,649",18.3,8.0,1.0,165,49.0,18217,Udinese
+,Sebastien De Maio,fr FRA,DF,21,17,0.0,0.0,2019-2020,/en/players/952a03fe/Sebastien-De-Maio,952a03fe,Udinese,"1,500",16.7,1.0,0.0,165,4.0,20327,Udinese
+,Samir Santos,br BRA,DF,21,16,0.0,1.0,2019-2020,/en/players/92b4758e/Samir-Santos,92b4758e,Udinese,"1,546",17.2,3.0,0.0,165,2.0,9945,Udinese
+,Ilija Nestorovski,mk MKD,FW,28,15,1.0,3.0,2019-2020,/en/players/b1236c63/Ilija-Nestorovski,b1236c63,Udinese,"1,251",13.9,4.0,0.0,165,81.0,20337,Udinese
+,Walace,br BRA,MF,20,12,0.0,0.0,2019-2020,/en/players/26db8853/Walace,26db8853,Udinese,"1,139",12.7,2.0,0.0,165,2.0,15918,Udinese
+,Hidde ter Avest,nl NED,DF,20,6,0.0,0.0,2019-2020,/en/players/18f9dbd0/Hidde-ter-Avest,18f9dbd0,Udinese,686,7.6,1.0,0.0,165,11.0,20328,Udinese
+,Marvin Zeegelaar,nl NED,DF,13,6,1.0,0.0,2019-2020,/en/players/8abd0c03/Marvin-Zeegelaar,8abd0c03,Udinese,593,6.6,3.0,0.0,165,11.0,9921,Udinese
+,Nicholas Opoku,gh GHA,DF,7,6,0.0,0.0,2019-2020,/en/players/b871bf55/Nicholas-Opoku,b871bf55,Udinese,481,5.3,3.0,1.0,165,17.0,15253,Udinese
+,Ignacio Pussetto,ar ARG,"FW,DF",12,2,0.0,1.0,2019-2020,/en/players/62437b4f/Ignacio-Pussetto,62437b4f,Udinese,341,3.8,1.0,0.0,165,5.0,9930,Udinese
+,Łukasz Teodorczyk,pl POL,FW,14,1,1.0,0.0,2019-2020,/en/players/7e81a17d/Lukasz-Teodorczyk,7e81a17d,Udinese,222,2.5,1.0,0.0,165,14.0,20329,Udinese
+,Antonín Barák,cz CZE,"MF,FW",8,1,0.0,0.0,2019-2020,/en/players/01efac19/Antonin-Barak,01efac19,Udinese,194,2.2,1.0,0.0,165,84.0,20311,Udinese
+,Giuseppe Pezzella,it ITA,DF,1,1,0.0,0.0,2019-2020,/en/players/149c5f5d/Giuseppe-Pezzella,149c5f5d,Udinese,80,0.9,0.0,0.0,165,9.0,20174,Udinese
+,Marco Ballarini,it ITA,MF,1,0,0.0,0.0,2019-2020,/en/players/8cb494c9/Marco-Ballarini,8cb494c9,Udinese,1,0.0,0.0,0.0,165,9.0,20338,Udinese
+,Martin Palumbo,no NOR,MF,1,0,0.0,0.0,2019-2020,/en/players/f8d41a8c/Martin-Palumbo,f8d41a8c,Udinese,1,0.0,0.0,0.0,165,21.0,19612,Udinese
+,Nícolas Andrade,br BRA,GK,0,0,,,2019-2020,/en/players/326d09ef/Nicolas-Andrade,326d09ef,Udinese,,,,,165,2.0,20332,Udinese
+,Mattia Compagnon,it ITA,MF,0,0,,,2019-2020,/en/players/270d0d18/Mattia-Compagnon,270d0d18,Udinese,,,,,165,9.0,20339,Udinese
+,Jan Kubala,cz CZE,MF,0,0,,,2019-2020,/en/players/3702ae0d/Jan-Kubala,3702ae0d,Udinese,,,,,165,84.0,20340,Udinese
+,Eric Lirussi,it ITA,FW,0,0,,,2019-2020,/en/players/f45df035/Eric-Lirussi,f45df035,Udinese,,,,,165,9.0,20341,Udinese
+,Aly Mallé,ml MLI,FW,0,0,,,2019-2020,/en/players/c50db9b5/Aly-Malle,c50db9b5,Udinese,,,,,165,12.0,5059,Udinese
+,Francesco Mazzolo,it ITA,DF,0,0,,,2019-2020,/en/players/89522a73/Francesco-Mazzolo,89522a73,Udinese,,,,,165,9.0,20342,Udinese
+,Enrico Oviszach,it ITA,MF,0,0,,,2019-2020,/en/players/0ff53d6f/Enrico-Oviszach,0ff53d6f,Udinese,,,,,165,9.0,20343,Udinese
+,Samuele Perisan,it ITA,GK,0,0,,,2019-2020,/en/players/00a17eba/Samuele-Perisan,00a17eba,Udinese,,,,,165,9.0,20291,Udinese
+,Francisco Sierralta,cl CHI,DF,0,0,,,2019-2020,/en/players/0f933743/Francisco-Sierralta,0f933743,Udinese,,,,,165,31.0,9933,Udinese
+,﻿Rodrigo De Paul,ar ARG,MF,36,36,9.0,9.0,2020-2021,/en/players/162efffd/Rodrigo-De-Paul,162efffd,Udinese,"3,201",35.6,5.0,2.0,165,5.0,964,Udinese
+,Juan Musso,ar ARG,GK,35,35,0.0,0.0,2020-2021,/en/players/a111cf41/Juan-Musso,111cf41,Udinese,"3,147",35.0,5.0,0.0,165,5.0,20325,Udinese
+,Roberto Pereyra,ar ARG,"MF,FW",34,34,7.0,5.0,2020-2021,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Udinese,"2,925",32.5,8.0,0.0,165,5.0,9910,Udinese
+,Rodrigo Becão,br BRA,DF,35,32,0.0,1.0,2020-2021,/en/players/19e4eab9/Rodrigo-Becao,19e4eab9,Udinese,"2,780",30.9,5.0,0.0,165,2.0,20336,Udinese
+,Jens Stryger Larsen,dk DEN,DF,33,30,0.0,2.0,2020-2021,/en/players/f91e81c9/Jens-Stryger-Larsen,f91e81c9,Udinese,"2,638",29.3,0.0,0.0,165,7.0,20312,Udinese
+,Kevin Bonifazi,it ITA,DF,30,28,0.0,0.0,2020-2021,/en/players/fb77bfef/Kevin-Bonifazi,fb77bfef,Udinese,"2,469",27.4,4.0,0.0,165,9.0,20344,Udinese
+,Tolgay Arslan,de GER,MF,30,25,0.0,3.0,2020-2021,/en/players/963a328b/Tolgay-Arslan,963a328b,Udinese,"1,818",20.2,9.0,0.0,165,13.0,15867,Udinese
+,Samir Santos,br BRA,DF,30,24,0.0,1.0,2020-2021,/en/players/92b4758e/Samir-Santos,92b4758e,Udinese,"2,216",24.6,6.0,0.0,165,2.0,9945,Udinese
+,Walace,br BRA,MF,30,23,0.0,0.0,2020-2021,/en/players/26db8853/Walace,26db8853,Udinese,"2,055",22.8,4.0,0.0,165,2.0,15918,Udinese
+,Marvin Zeegelaar,nl NED,DF,24,23,0.0,1.0,2020-2021,/en/players/8abd0c03/Marvin-Zeegelaar,8abd0c03,Udinese,"1,740",19.3,6.0,0.0,165,11.0,9921,Udinese
+,Bram Nuytinck,nl NED,DF,20,19,0.0,1.0,2020-2021,/en/players/e33f36d5/Bram-Nuytinck,33f36d5,Udinese,"1,641",18.2,1.0,0.0,165,11.0,20313,Udinese
+,Nahuel Molina,ar ARG,DF,29,18,5.0,2.0,2020-2021,/en/players/23610943/Nahuel-Molina,23610943,Udinese,"1,828",20.3,1.0,0.0,165,5.0,20345,Udinese
+,Stefano Okaka,it ITA,FW,22,17,1.0,4.0,2020-2021,/en/players/601ef102/Stefano-Okaka,601ef102,Udinese,"1,489",16.5,2.0,0.0,165,9.0,7815,Udinese
+,Kevin Lasagna,it ITA,FW,17,12,1.0,2.0,2020-2021,/en/players/09538fdb/Kevin-Lasagna,09538fdb,Udinese,"1,103",12.3,1.0,0.0,165,9.0,20314,Udinese
+,Sebastien De Maio,fr FRA,DF,15,9,0.0,0.0,2020-2021,/en/players/952a03fe/Sebastien-De-Maio,952a03fe,Udinese,853,9.5,1.0,0.0,165,4.0,20327,Udinese
+,Ignacio Pussetto,ar ARG,FW,11,9,1.0,3.0,2020-2021,/en/players/62437b4f/Ignacio-Pussetto,62437b4f,Udinese,754,8.4,2.0,0.0,165,5.0,9930,Udinese
+,Fernando Llorente,es ESP,FW,14,8,0.0,1.0,2020-2021,/en/players/82dbf623/Fernando-Llorente,82dbf623,Udinese,713,7.9,2.0,0.0,165,1.0,1254,Udinese
+,Gerard Deulofeu,es ESP,"FW,MF",13,7,1.0,1.0,2020-2021,/en/players/39583cfd/Gerard-Deulofeu,39583cfd,Udinese,598,6.6,0.0,0.0,165,1.0,1143,Udinese
+,Jean-Victor Makengo,fr FRA,MF,17,5,0.0,0.0,2020-2021,/en/players/22bfb57e/Jean-Victor-Makengo,22bfb57e,Udinese,522,5.8,1.0,0.0,165,4.0,12720,Udinese
+,Ilija Nestorovski,mk MKD,"FW,MF",22,4,2.0,2.0,2020-2021,/en/players/b1236c63/Ilija-Nestorovski,b1236c63,Udinese,701,7.8,1.0,0.0,165,81.0,20337,Udinese
+,Hidde ter Avest,nl NED,DF,6,4,0.0,0.0,2020-2021,/en/players/18f9dbd0/Hidde-ter-Avest,18f9dbd0,Udinese,351,3.9,0.0,0.0,165,11.0,20328,Udinese
+,Fernando Forestieri,it ITA,"FW,MF",19,3,1.0,1.0,2020-2021,/en/players/d60c26fc/Fernando-Forestieri,d60c26fc,Udinese,552,6.1,1.0,0.0,165,9.0,2363,Udinese
+,Thomas Ouwejan,nl NED,DF,15,3,2.0,0.0,2020-2021,/en/players/36d9dabe/Thomas-Ouwejan,36d9dabe,Udinese,413,4.6,0.0,0.0,165,11.0,16355,Udinese
+,Rolando Mandragora,it ITA,MF,10,3,0.0,0.0,2020-2021,/en/players/c7259b83/Rolando-Mandragora,c7259b83,Udinese,398,4.4,0.0,0.0,165,9.0,19570,Udinese
+,Mamadou Coulibaly,sn SEN,MF,3,2,0.0,0.0,2020-2021,/en/players/c976160c/Mamadou-Coulibaly,c976160c,Udinese,184,2.0,0.0,0.0,165,34.0,20335,Udinese
+,Nícolas Andrade,br BRA,GK,2,2,0.0,0.0,2020-2021,/en/players/326d09ef/Nicolas-Andrade,326d09ef,Udinese,180,2.0,0.0,0.0,165,2.0,20332,Udinese
+,Jayden Braaf,nl NED,"FW,MF",4,1,0.0,1.0,2020-2021,/en/players/c609e90e/Jayden-Braaf,c609e90e,Udinese,116,1.3,0.0,0.0,165,11.0,20346,Udinese
+,Simone Scuffet,it ITA,GK,1,1,0.0,0.0,2020-2021,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,90,1.0,0.0,0.0,165,9.0,20278,Udinese
+,Martin Palumbo,no NOR,MF,3,1,0.0,0.0,2020-2021,/en/players/f8d41a8c/Martin-Palumbo,f8d41a8c,Udinese,63,0.7,0.0,0.0,165,21.0,19612,Udinese
+,Mato Jajalo,ba BIH,MF,1,0,0.0,0.0,2020-2021,/en/players/8c65eb5f/Mato-Jajalo,8c65eb5f,Udinese,34,0.4,0.0,0.0,165,49.0,18217,Udinese
+,Petar Mićin,rs SRB,MF,1,0,0.0,0.0,2020-2021,/en/players/259deea9/Petar-Micin,259deea9,Udinese,15,0.2,0.0,0.0,165,28.0,20331,Udinese
+,Ryder Matos,br BRA,MF,1,0,0.0,0.0,2020-2021,/en/players/7280b54f/Ryder-Matos,7280b54f,Udinese,13,0.1,0.0,0.0,165,2.0,5337,Udinese
+,Manuel Gasparini,it ITA,GK,1,0,0.0,0.0,2020-2021,/en/players/7033ca08/Manuel-Gasparini,7033ca08,Udinese,3,0.0,0.0,0.0,165,9.0,20321,Udinese
+,Marco Ballarini,it ITA,MF,0,0,,,2020-2021,/en/players/8cb494c9/Marco-Ballarini,8cb494c9,Udinese,,,,,165,9.0,20338,Udinese
+,Salah Basha,eg EGY,FW,0,0,,,2020-2021,/en/players/abd42166/Salah-Basha,bd42166,Udinese,,,,,165,59.0,20347,Udinese
+,Thomas Battistella,it ITA,MF,0,0,,,2020-2021,/en/players/1ebee5ea/Thomas-Battistella,1ebee5ea,Udinese,,,,,165,9.0,20333,Udinese
+,Matteo Carnelos,it ITA,GK,0,0,,,2020-2021,/en/players/7195a684/Matteo-Carnelos,7195a684,Udinese,,,,,165,9.0,20348,Udinese
+,Edoardo Piana,it ITA,GK,0,0,,,2020-2021,/en/players/5585dc1e/Edoardo-Piana,5585dc1e,Udinese,,,,,165,9.0,20349,Udinese
+,Sebastian Prödl,at AUT,"DF,MF",0,0,,,2020-2021,/en/players/f5e6d08d/Sebastian-Prodl,f5e6d08d,Udinese,,,,,165,24.0,9904,Udinese
+,Alessandro Rigo,it ITA,MF,0,0,,,2020-2021,/en/players/3515855b/Alessandro-Rigo,3515855b,Udinese,,,,,165,9.0,20350,Udinese
+,William Troost-Ekong,ng NGA,"DF,MF",0,0,,,2020-2021,/en/players/7ed4921e/William-Troost-Ekong,7ed4921e,Udinese,,,,,165,52.0,9932,Udinese
+,﻿Marco Silvestri,it ITA,GK,35,35,0.0,0.0,2021-2022,/en/players/0d422df7/Marco-Silvestri,0d422df7,Udinese,"3,150",35.0,1.0,0.0,165,9.0,8032,Udinese
+,Rodrigo Becão,br BRA,DF,35,35,1.0,2.0,2021-2022,/en/players/19e4eab9/Rodrigo-Becao,19e4eab9,Udinese,"3,130",34.8,10.0,0.0,165,2.0,20336,Udinese
+,Walace,br BRA,MF,36,33,0.0,1.0,2021-2022,/en/players/26db8853/Walace,26db8853,Udinese,"2,970",33.0,6.0,1.0,165,2.0,15918,Udinese
+,Nahuel Molina,ar ARG,DF,35,31,2.0,7.0,2021-2022,/en/players/23610943/Nahuel-Molina,23610943,Udinese,"2,638",29.3,7.0,1.0,165,5.0,20345,Udinese
+,Gerard Deulofeu,es ESP,"FW,MF",34,31,5.0,13.0,2021-2022,/en/players/39583cfd/Gerard-Deulofeu,39583cfd,Udinese,"2,616",29.1,9.0,0.0,165,1.0,1143,Udinese
+,Iyenoma Udogie,it ITA,DF,35,29,3.0,5.0,2021-2022,/en/players/7cd520e8/Iyenoma-Udogie,7cd520e8,Udinese,"2,477",27.5,4.0,0.0,165,9.0,20351,Udinese
+,Jean-Victor Makengo,fr FRA,MF,33,26,3.0,1.0,2021-2022,/en/players/22bfb57e/Jean-Victor-Makengo,22bfb57e,Udinese,"2,351",26.1,7.0,1.0,165,4.0,12720,Udinese
+,Beto,gw GNB,FW,28,24,0.0,11.0,2021-2022,/en/players/ed5c0319/Beto,d5c0319,Udinese,"2,173",24.1,1.0,0.0,165,93.0,20352,Udinese
+,Bram Nuytinck,nl NED,DF,27,23,0.0,1.0,2021-2022,/en/players/e33f36d5/Bram-Nuytinck,33f36d5,Udinese,"2,033",22.6,2.0,0.0,165,11.0,20313,Udinese
+,Roberto Pereyra,ar ARG,"MF,FW",24,22,5.0,3.0,2021-2022,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Udinese,"1,794",19.9,10.0,1.0,165,5.0,9910,Udinese
+,Tolgay Arslan,de GER,MF,30,22,0.0,1.0,2021-2022,/en/players/963a328b/Tolgay-Arslan,963a328b,Udinese,"1,658",18.4,9.0,0.0,165,13.0,15867,Udinese
+,Nehuén Pérez,ar ARG,DF,20,19,1.0,0.0,2021-2022,/en/players/f7c491f1/Nehuen-Perez,f7c491f1,Udinese,"1,692",18.8,6.0,0.0,165,5.0,2259,Udinese
+,Samir Santos,br BRA,DF,17,17,0.0,0.0,2021-2022,/en/players/92b4758e/Samir-Santos,92b4758e,Udinese,"1,421",15.8,5.0,0.0,165,2.0,9945,Udinese
+,Pablo Marí,es ESP,DF,15,15,0.0,2.0,2021-2022,/en/players/aa54ec6f/Pablo-Mari,54ec6f,Udinese,"1,341",14.9,2.0,1.0,165,1.0,544,Udinese
+,Ignacio Pussetto,ar ARG,"FW,MF",28,11,4.0,4.0,2021-2022,/en/players/62437b4f/Ignacio-Pussetto,62437b4f,Udinese,"1,204",13.4,4.0,0.0,165,5.0,9930,Udinese
+,Isaac Success,ng NGA,"FW,MF",22,11,6.0,2.0,2021-2022,/en/players/f573a8bf/Isaac-Success,f573a8bf,Udinese,911,10.1,1.0,1.0,165,52.0,2433,Udinese
+,Jens Stryger Larsen,dk DEN,DF,11,8,1.0,0.0,2021-2022,/en/players/f91e81c9/Jens-Stryger-Larsen,f91e81c9,Udinese,684,7.6,0.0,0.0,165,7.0,20312,Udinese
+,Brandon Soppy,fr FRA,"DF,MF",28,7,0.0,0.0,2021-2022,/en/players/28f66c2e/Brandon-Soppy,28f66c2e,Udinese,777,8.6,4.0,0.0,165,4.0,13266,Udinese
+,Marvin Zeegelaar,nl NED,DF,14,6,0.0,0.0,2021-2022,/en/players/8abd0c03/Marvin-Zeegelaar,8abd0c03,Udinese,643,7.1,2.0,0.0,165,11.0,9921,Udinese
+,Mato Jajalo,ba BIH,MF,22,6,1.0,0.0,2021-2022,/en/players/8c65eb5f/Mato-Jajalo,8c65eb5f,Udinese,629,7.0,2.0,0.0,165,49.0,18217,Udinese
+,Daniele Padelli,it ITA,GK,3,3,0.0,0.0,2021-2022,/en/players/cf1c23d8/Daniele-Padelli,cf1c23d8,Udinese,270,3.0,0.0,0.0,165,9.0,6294,Udinese
+,Sebastien De Maio,fr FRA,DF,2,2,0.0,0.0,2021-2022,/en/players/952a03fe/Sebastien-De-Maio,952a03fe,Udinese,180,2.0,0.0,0.0,165,4.0,20327,Udinese
+,Lazar Samardzic,de GER,MF,22,1,2.0,2.0,2021-2022,/en/players/217c93a1/Lazar-Samardzic,217c93a1,Udinese,490,5.4,0.0,0.0,165,13.0,16089,Udinese
+,Ilija Nestorovski,mk MKD,FW,7,1,0.0,1.0,2021-2022,/en/players/b1236c63/Ilija-Nestorovski,b1236c63,Udinese,188,2.1,1.0,0.0,165,81.0,20337,Udinese
+,Fernando Forestieri,it ITA,"FW,MF",4,0,1.0,2.0,2021-2022,/en/players/d60c26fc/Fernando-Forestieri,d60c26fc,Udinese,58,0.6,1.0,0.0,165,9.0,2363,Udinese
+,Simone Pafundi,it ITA,FW,1,0,0.0,0.0,2021-2022,/en/players/8daee720/Simone-Pafundi,8daee720,Udinese,23,0.3,0.0,0.0,165,9.0,90673,Udinese
+,Stefano Okaka,it ITA,FW,2,0,1.0,0.0,2021-2022,/en/players/601ef102/Stefano-Okaka,601ef102,Udinese,22,0.2,1.0,0.0,165,9.0,7815,Udinese
+,Filip Benković,hr CRO,"DF,FW",2,0,0.0,0.0,2021-2022,/en/players/305a3820/Filip-Benkovic,305a3820,Udinese,8,0.1,0.0,0.0,165,16.0,9089,Udinese
+,Riccardo Pinzi,it ITA,FW,1,0,0.0,0.0,2021-2022,/en/players/5dafcdce/Riccardo-Pinzi,5dafcdce,Udinese,1,0.0,0.0,0.0,165,9.0,20353,Udinese
+,Marco Ballarini,it ITA,MF,0,0,,,2021-2022,/en/players/8cb494c9/Marco-Ballarini,8cb494c9,Udinese,,,,,165,9.0,20338,Udinese
+,Matteo Carnelos,it ITA,GK,0,0,,,2021-2022,/en/players/7195a684/Matteo-Carnelos,7195a684,Udinese,,,,,165,9.0,20348,Udinese
+,Riccardo Castagnaviz,it ITA,MF,0,0,,,2021-2022,/en/players/cb513531/Riccardo-Castagnaviz,cb513531,Udinese,,,,,165,9.0,20354,Udinese
+,Nicolò Cocetta,it ITA,DF,0,0,,,2021-2022,/en/players/1faa06d5/Nicolo-Cocetta,1faa06d5,Udinese,,,,,165,9.0,20355,Udinese
+,Lorenzo Codutti,it ITA,DF,0,0,,,2021-2022,/en/players/e7e56091/Lorenzo-Codutti,7e56091,Udinese,,,,,165,9.0,20356,Udinese
+,Mattia Damiani,it ITA,MF,0,0,,,2021-2022,/en/players/62af9a62/Mattia-Damiani,62af9a62,Udinese,,,,,165,9.0,20357,Udinese
+,Jacopo Fedrizzi,it ITA,MF,0,0,,,2021-2022,/en/players/3dcacc7c/Jacopo-Fedrizzi,3dcacc7c,Udinese,,,,,165,9.0,20358,Udinese
+,Manuel Gasparini,it ITA,GK,0,0,,,2021-2022,/en/players/7033ca08/Manuel-Gasparini,7033ca08,Udinese,,,,,165,9.0,20321,Udinese
+,Cristo González,es ESP,FW,0,0,,,2021-2022,/en/players/896b5df2/Cristo-Gonzalez,896b5df2,Udinese,,,,,165,1.0,160,Udinese
+,Simone Ianesi,it ITA,FW,0,0,,,2021-2022,/en/players/4f9fe4f8/Simone-Ianesi,4f9fe4f8,Udinese,,,,,165,9.0,20359,Udinese
+,Raed Jaziri,it ITA,MF,0,0,,,2021-2022,/en/players/4c2507ea/Raed-Jaziri,4c2507ea,Udinese,,,,,165,9.0,20360,Udinese
+,Martin Palumbo,no NOR,MF,0,0,,,2021-2022,/en/players/f8d41a8c/Martin-Palumbo,f8d41a8c,Udinese,,,,,165,21.0,19612,Udinese
+,Edoardo Piana,it ITA,GK,0,0,,,2021-2022,/en/players/5585dc1e/Edoardo-Piana,5585dc1e,Udinese,,,,,165,9.0,20349,Udinese
+,Antonio Santurro,do DOM,GK,0,0,,,2021-2022,/en/players/61228681/Antonio-Santurro,61228681,Udinese,,,,,165,25.0,20361,Udinese
+,Simone Scuffet,it ITA,GK,0,0,,,2021-2022,/en/players/41bd99ea/Simone-Scuffet,41bd99ea,Udinese,,,,,165,9.0,20278,Udinese

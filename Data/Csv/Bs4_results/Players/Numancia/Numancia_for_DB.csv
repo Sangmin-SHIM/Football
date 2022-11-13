@@ -1,533 +1,533 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Carlos Cuéllar,es ESP,DF,39,39,0.0,3.0,2002-2003,1222ab35,Numancia,"3,479",38.7,9.0,1.0,62.0,1.0,,Numancia
-,Unai Expósito,es ESP,DF,38,38,0.0,1.0,2002-2003,3aca2200,Numancia,"3,420",38.0,9.0,0.0,62.0,1.0,,Numancia
-,Claudio Marini,ar ARG,MF,33,31,2.0,2.0,2002-2003,446a7d68,Numancia,"2,649",29.4,10.0,1.0,62.0,5.0,4222.0,Numancia
-,Jaime Molina,es ESP,DF,30,29,0.0,0.0,2002-2003,2e1f6f32,Numancia,"2,457",27.3,13.0,0.0,62.0,1.0,4223.0,Numancia
-,Daniel Fagiani,ar ARG,DF,28,28,1.0,4.0,2002-2003,7524ca1,Numancia,"2,307",25.6,15.0,2.0,62.0,5.0,4224.0,Numancia
-,Daniel N'Gom Kome,cm CMR,MF,32,26,4.0,5.0,2002-2003,8076455d,Numancia,"2,305",25.6,9.0,1.0,62.0,36.0,,Numancia
-,Luis García,es ESP,GK,26,26,0.0,0.0,2002-2003,716e5a4,Numancia,"2,284",25.4,4.0,2.0,62.0,1.0,,Numancia
-,Miguel Pérez,es ESP,MF,31,23,5.0,4.0,2002-2003,b3f9e645,Numancia,"2,156",24.0,1.0,0.0,62.0,1.0,,Numancia
-,Miguel Ángel Núñez Acosta,es ESP,MF,31,22,1.0,4.0,2002-2003,26030e9b,Numancia,"1,748",19.4,6.0,0.0,62.0,1.0,4225.0,Numancia
-,Pacheta,es ESP,MF,28,19,1.0,2.0,2002-2003,7545007b,Numancia,"1,670",18.6,6.0,0.0,62.0,1.0,4226.0,Numancia
-,Jesús Velasco,es ESP,DF,23,18,1.0,0.0,2002-2003,13f8074d,Numancia,"1,488",16.5,4.0,0.0,62.0,1.0,4227.0,Numancia
-,Pedro Ojeda,ar ARG,MF,26,16,3.0,2.0,2002-2003,60b2ae27,Numancia,"1,558",17.3,5.0,1.0,62.0,5.0,4228.0,Numancia
-,Diego Jaume,uy URU,DF,21,16,0.0,0.0,2002-2003,9663d985,Numancia,"1,537",17.1,12.0,0.0,62.0,8.0,4229.0,Numancia
-,Álvaro Núñez,uy URU,GK,17,16,0.0,0.0,2002-2003,4267e1a9,Numancia,"1,496",16.6,1.0,0.0,62.0,8.0,4230.0,Numancia
-,Octavio Viñals,es ESP,MF,22,15,1.0,2.0,2002-2003,c2a9f580,Numancia,"1,482",16.5,8.0,0.0,62.0,1.0,4231.0,Numancia
-,Laurențiu Roșu,ro ROU,"FW,MF",26,15,0.0,5.0,2002-2003,83e63626,Numancia,"1,454",16.2,4.0,0.0,62.0,51.0,,Numancia
-,Patrick Suffo,cm CMR,FW,18,15,2.0,4.0,2002-2003,74f84d64,Numancia,"1,337",14.9,7.0,0.0,62.0,36.0,4232.0,Numancia
-,Carlos Aranda,es ESP,FW,15,15,1.0,6.0,2002-2003,2b60c45d,Numancia,"1,124",12.5,2.0,1.0,62.0,1.0,,Numancia
-,Sergio Sestelo,es ESP,FW,26,13,0.0,3.0,2002-2003,3495d0f8,Numancia,"1,339",14.9,2.0,0.0,62.0,1.0,4233.0,Numancia
-,José Antonio Culebras,es ESP,DF,18,13,0.0,0.0,2002-2003,c8b270a2,Numancia,"1,225",13.6,2.0,0.0,62.0,1.0,,Numancia
-,Manolo Sánchez,es ESP,MF,15,9,1.0,0.0,2002-2003,b40c4904,Numancia,869,9.7,3.0,0.0,62.0,1.0,,Numancia
-,Rafael Riaño Torrecilla,es ESP,,12,7,0.0,0.0,2002-2003,d7ae2ca1,Numancia,660,7.3,2.0,0.0,62.0,1.0,,Numancia
-,Sergio Cruz,,,9,7,1.0,1.0,2002-2003,,Numancia,517,5.7,0.0,0.0,62.0,,,Numancia
-,André Schei Lindbæk,no NOR,FW,7,3,1.0,0.0,2002-2003,198eb259,Numancia,335,3.7,0.0,0.0,62.0,21.0,4234.0,Numancia
-,Gallego,es ESP,MF,4,3,0.0,0.0,2002-2003,94927f28,Numancia,272,3.0,1.0,0.0,62.0,1.0,4235.0,Numancia
-,Andres Armada,,,5,0,0.0,0.0,2002-2003,,Numancia,77,0.9,0.0,0.0,62.0,,,Numancia
-,Mario,es ESP,MF,2,0,0.0,0.0,2002-2003,4903e93a,Numancia,43,0.5,0.0,0.0,62.0,1.0,4246.0,Numancia
-,﻿Luis García,es ESP,GK,42,42,0.0,0.0,2003-2004,716e5a4,Numancia,"3,775",41.9,3.0,0.0,62.0,1.0,,Numancia
-,José Antonio Culebras,es ESP,DF,41,39,1.0,4.0,2003-2004,c8b270a2,Numancia,"3,582",39.8,8.0,0.0,62.0,1.0,,Numancia
-,Jesús Velasco,es ESP,DF,39,39,2.0,1.0,2003-2004,13f8074d,Numancia,"3,364",37.4,9.0,1.0,62.0,1.0,4227.0,Numancia
-,Juan Carlos Moreno,es ESP,MF,41,38,11.0,8.0,2003-2004,74f2988b,Numancia,"3,477",38.6,7.0,0.0,62.0,1.0,4236.0,Numancia
-,Jaime Molina,es ESP,DF,38,37,0.0,2.0,2003-2004,2e1f6f32,Numancia,"3,078",34.2,7.0,1.0,62.0,1.0,4223.0,Numancia
-,Óscar Pulido,,MF,34,34,0.0,1.0,2003-2004,7e01b9b3,Numancia,"2,949",32.8,9.0,0.0,62.0,,,Numancia
-,Daniel Fagiani,ar ARG,DF,34,34,4.0,6.0,2003-2004,7524ca1,Numancia,"2,845",31.6,19.0,2.0,62.0,5.0,4224.0,Numancia
-,Julio Pineda,es ESP,FW,36,33,3.0,11.0,2003-2004,09fc23e7,Numancia,"2,779",30.9,9.0,0.0,62.0,1.0,4237.0,Numancia
-,Antonio González,es ESP,DF,32,32,0.0,4.0,2003-2004,89f9eead,Numancia,"2,807",31.2,9.0,0.0,62.0,1.0,4238.0,Numancia
-,Miguel Pérez,es ESP,MF,35,26,1.0,2.0,2003-2004,b3f9e645,Numancia,"2,511",27.9,2.0,0.0,62.0,1.0,,Numancia
-,Laurențiu Roșu,ro ROU,"FW,MF",36,26,2.0,8.0,2003-2004,83e63626,Numancia,"2,211",24.6,5.0,0.0,62.0,51.0,,Numancia
-,Daniel N'Gom Kome,cm CMR,MF,30,24,5.0,6.0,2003-2004,8076455d,Numancia,"1,975",21.9,6.0,2.0,62.0,36.0,,Numancia
-,Octavio Viñals,es ESP,MF,16,10,1.0,0.0,2003-2004,c2a9f580,Numancia,772,8.6,0.0,1.0,62.0,1.0,4231.0,Numancia
-,Juan Navarro,,,17,8,0.0,0.0,2003-2004,,Numancia,743,8.3,2.0,0.0,62.0,,,Numancia
-,Mikel Alonso,es ESP,MF,10,7,2.0,1.0,2003-2004,b32eb2,Numancia,654,7.3,1.0,0.0,62.0,1.0,,Numancia
-,Chota,es ESP,FW,12,7,0.0,1.0,2003-2004,6e8a6c53,Numancia,617,6.9,3.0,0.0,62.0,1.0,,Numancia
-,Alberto Toril,es ESP,MF,8,7,0.0,0.0,2003-2004,437bfac6,Numancia,509,5.7,3.0,1.0,62.0,1.0,4239.0,Numancia
-,Miguel Ángel Núñez Acosta,es ESP,MF,19,5,1.0,1.0,2003-2004,26030e9b,Numancia,570,6.3,0.0,0.0,62.0,1.0,4225.0,Numancia
-,Xisco Nadal,es ESP,"FW,MF",15,5,0.0,1.0,2003-2004,5dc11264,Numancia,534,5.9,1.0,0.0,62.0,1.0,,Numancia
-,Luis Casado,,,6,3,0.0,0.0,2003-2004,,Numancia,275,3.1,2.0,0.0,62.0,,,Numancia
-,Carlos Merino,es ESP,MF,16,2,0.0,1.0,2003-2004,443c8c9a,Numancia,456,5.1,2.0,0.0,62.0,1.0,,Numancia
-,Sergio Sestelo,es ESP,FW,15,2,0.0,2.0,2003-2004,3495d0f8,Numancia,439,4.9,1.0,0.0,62.0,1.0,4233.0,Numancia
-,Juan Pedro,,,1,1,0.0,0.0,2003-2004,,Numancia,65,0.7,0.0,0.0,62.0,,,Numancia
-,Juan Sanchez,,,2,1,0.0,0.0,2003-2004,,Numancia,54,0.6,1.0,0.0,62.0,,,Numancia
-,Rafael Riaño Torrecilla,es ESP,,10,0,0.0,0.0,2003-2004,d7ae2ca1,Numancia,336,3.7,2.0,0.0,62.0,1.0,,Numancia
-,﻿Juan Cruz Ochoa,es ESP,DF,33,33,0.0,1.0,2004-2005,301ff22a,Numancia,"2,843",31.6,9.0,1.0,62.0,1.0,,Numancia
-,Stéphane Pignol,fr FRA,DF,33,32,2.0,0.0,2004-2005,ca3ae27c,Numancia,"2,929",32.5,10.0,1.0,62.0,4.0,,Numancia
-,César Palacios,es ESP,MF,34,28,0.0,0.0,2004-2005,dc32054b,Numancia,"2,568",28.5,5.0,0.0,62.0,1.0,,Numancia
-,Juanma,es ESP,GK,25,25,0.0,0.0,2004-2005,943f79f6,Numancia,"2,250",25.0,1.0,0.0,62.0,1.0,,Numancia
-,Luis Tevenet,es ESP,FW,30,24,2.0,6.0,2004-2005,95dd66c6,Numancia,"1,955",21.7,6.0,1.0,62.0,1.0,4240.0,Numancia
-,Juanlu,es ESP,MF,27,22,4.0,2.0,2004-2005,94b88487,Numancia,"1,951",21.7,6.0,0.0,62.0,1.0,,Numancia
-,Patricio Graff,ar ARG,DF,27,22,1.0,1.0,2004-2005,b4a2cf8b,Numancia,"1,940",21.6,6.0,1.0,62.0,5.0,,Numancia
-,Jaime Molina,es ESP,DF,22,21,0.0,1.0,2004-2005,2e1f6f32,Numancia,"1,794",19.9,7.0,0.0,62.0,1.0,4223.0,Numancia
-,Juanpa,es ESP,DF,25,20,1.0,0.0,2004-2005,75ef1517,Numancia,"1,777",19.7,0.0,1.0,62.0,1.0,4241.0,Numancia
-,Pablo Sanz Iniesta,es ESP,MF,21,18,0.0,1.0,2004-2005,f56d83dd,Numancia,"1,407",15.6,4.0,0.0,62.0,1.0,,Numancia
-,Julio Pineda,es ESP,FW,26,16,1.0,1.0,2004-2005,09fc23e7,Numancia,"1,551",17.2,2.0,0.0,62.0,1.0,4237.0,Numancia
-,Jesús Velasco,es ESP,DF,19,16,1.0,0.0,2004-2005,13f8074d,Numancia,"1,437",16.0,3.0,0.0,62.0,1.0,4227.0,Numancia
-,Antonio González,es ESP,DF,19,15,0.0,1.0,2004-2005,89f9eead,Numancia,"1,450",16.1,8.0,0.0,62.0,1.0,4238.0,Numancia
-,Javier Tarantino,es ESP,DF,15,15,0.0,1.0,2004-2005,0bf40bdb,Numancia,"1,294",14.4,4.0,0.0,62.0,1.0,,Numancia
-,Carlos Merino,es ESP,MF,27,14,1.0,5.0,2004-2005,443c8c9a,Numancia,"1,358",15.1,3.0,0.0,62.0,1.0,,Numancia
-,Juan Carlos Moreno,es ESP,MF,18,14,3.0,1.0,2004-2005,74f2988b,Numancia,"1,271",14.1,6.0,0.0,62.0,1.0,4236.0,Numancia
-,Ramón Ros,es ESP,MF,17,14,0.0,0.0,2004-2005,0ad2ce10,Numancia,"1,106",12.3,5.0,0.0,62.0,1.0,,Numancia
-,Miguel Pérez,es ESP,MF,19,13,4.0,1.0,2004-2005,b3f9e645,Numancia,"1,209",13.4,1.0,0.0,62.0,1.0,,Numancia
-,Álvaro Núñez,uy URU,GK,11,11,0.0,0.0,2004-2005,4267e1a9,Numancia,990,11.0,2.0,0.0,62.0,8.0,4230.0,Numancia
-,Miguel,es ESP,FW,17,10,0.0,4.0,2004-2005,3ab5e487,Numancia,"1,068",11.9,4.0,1.0,62.0,1.0,4242.0,Numancia
-,Lee Chun-soo,kr KOR,"FW,MF",15,10,0.0,0.0,2004-2005,956c973,Numancia,946,10.5,3.0,0.0,62.0,30.0,,Numancia
-,Aldo Osorio,ar ARG,FW,13,10,0.0,3.0,2004-2005,c366b111,Numancia,826,9.2,1.0,0.0,62.0,5.0,4243.0,Numancia
-,Silvio González,ar ARG,FW,7,3,2.0,0.0,2004-2005,6db4e9a5,Numancia,320,3.6,1.0,0.0,62.0,5.0,4244.0,Numancia
-,Kostas Kiassos,gr GRE,MF,3,3,,0.0,2004-2005,2bddd706,Numancia,166,1.8,0.0,0.0,62.0,55.0,4245.0,Numancia
-,Miguel Ángel Núñez Acosta,es ESP,MF,8,2,0.0,0.0,2004-2005,26030e9b,Numancia,347,3.9,0.0,0.0,62.0,1.0,4225.0,Numancia
-,Toché,es ESP,FW,5,2,,0.0,2004-2005,64e35e11,Numancia,200,2.2,0.0,0.0,62.0,1.0,,Numancia
-,Diego de Miguel,es ESP,GK,2,2,0.0,0.0,2004-2005,4b798eab,Numancia,180,2.0,0.0,0.0,62.0,1.0,4264.0,Numancia
-,Rafa Jordà,es ESP,FW,3,1,,0.0,2004-2005,05e805eb,Numancia,170,1.9,0.0,0.0,62.0,1.0,,Numancia
-,Mario,es ESP,MF,4,1,,0.0,2004-2005,4903e93a,Numancia,170,1.9,1.0,0.0,62.0,1.0,4246.0,Numancia
-,Sergio Sestelo,es ESP,FW,3,1,,0.0,2004-2005,3495d0f8,Numancia,132,1.5,0.0,0.0,62.0,1.0,4233.0,Numancia
-,﻿Juanpa,es ESP,DF,40,36,3.0,0.0,2005-2006,75ef1517,Numancia,"3,327",37.0,5.0,1.0,62.0,1.0,4241.0,Numancia
-,César Palacios,es ESP,MF,39,36,1.0,5.0,2005-2006,dc32054b,Numancia,"3,153",35.0,8.0,0.0,62.0,1.0,,Numancia
-,Juan Carlos Moreno,es ESP,MF,37,35,5.0,8.0,2005-2006,74f2988b,Numancia,"2,732",30.4,8.0,1.0,62.0,1.0,4236.0,Numancia
-,Javier del Pino,es ESP,FW,39,34,8.0,3.0,2005-2006,6279028,Numancia,"3,075",34.2,4.0,0.0,62.0,1.0,4247.0,Numancia
-,Luis Tevenet,es ESP,FW,34,31,3.0,7.0,2005-2006,95dd66c6,Numancia,"2,635",29.3,12.0,2.0,62.0,1.0,4240.0,Numancia
-,Juan Cruz Ochoa,es ESP,DF,31,31,0.0,0.0,2005-2006,301ff22a,Numancia,"2,565",28.5,7.0,2.0,62.0,1.0,,Numancia
-,Antonio González,es ESP,DF,30,29,0.0,0.0,2005-2006,89f9eead,Numancia,"2,478",27.5,10.0,1.0,62.0,1.0,4238.0,Numancia
-,Juan Pablo Colinas,es ESP,GK,28,28,0.0,0.0,2005-2006,b2cab8f4,Numancia,"2,448",27.2,0.0,1.0,62.0,1.0,,Numancia
-,Patricio Graff,ar ARG,DF,27,25,2.0,0.0,2005-2006,b4a2cf8b,Numancia,"2,264",25.2,8.0,0.0,62.0,5.0,,Numancia
-,Jordi Navas,,,24,19,0.0,5.0,2005-2006,,Numancia,"1,691",18.8,6.0,0.0,62.0,,,Numancia
-,Ariel Montenegro,ar ARG,MF,19,19,5.0,9.0,2005-2006,d5835cca,Numancia,"1,680",18.7,7.0,0.0,62.0,5.0,4248.0,Numancia
-,José Manuel Yanguas,es ESP,DF,19,16,0.0,0.0,2005-2006,3a7b7e,Numancia,"1,445",16.1,5.0,0.0,62.0,1.0,,Numancia
-,Gorka Azkorra,es ESP,FW,26,16,3.0,1.0,2005-2006,b6ba90f9,Numancia,"1,434",15.9,0.0,0.0,62.0,1.0,,Numancia
-,Rubén López,es ESP,DF,14,14,0.0,2.0,2005-2006,2403f1e,Numancia,"1,171",13.0,8.0,0.0,62.0,1.0,4249.0,Numancia
-,Javier Tarantino,es ESP,DF,14,14,0.0,0.0,2005-2006,0bf40bdb,Numancia,"1,149",12.8,1.0,0.0,62.0,1.0,,Numancia
-,Julio Pineda,es ESP,FW,27,10,1.0,2.0,2005-2006,09fc23e7,Numancia,"1,305",14.5,0.0,0.0,62.0,1.0,4237.0,Numancia
-,Miguel,es ESP,FW,23,8,0.0,3.0,2005-2006,3ab5e487,Numancia,821,9.1,2.0,0.0,62.0,1.0,4242.0,Numancia
-,Álvaro Núñez,uy URU,GK,10,8,0.0,0.0,2005-2006,4267e1a9,Numancia,793,8.8,1.0,0.0,62.0,8.0,4230.0,Numancia
-,Francisco Corredoira,,,25,8,1.0,1.0,2005-2006,b71dd465,Numancia,777,8.6,3.0,0.0,62.0,,,Numancia
-,Hamilton Ricard,co COL,FW,16,8,0.0,2.0,2005-2006,08d8909,Numancia,763,8.5,2.0,1.0,62.0,19.0,4250.0,Numancia
-,Roberto Trashorras,es ESP,MF,12,8,1.0,1.0,2005-2006,5252fdf5,Numancia,720,8.0,2.0,0.0,62.0,1.0,,Numancia
-,Mario,es ESP,MF,7,6,0.0,0.0,2005-2006,4903e93a,Numancia,499,5.5,0.0,0.0,62.0,1.0,4246.0,Numancia
-,Juanma,es ESP,GK,5,5,0.0,0.0,2005-2006,943f79f6,Numancia,385,4.3,2.0,1.0,62.0,1.0,,Numancia
-,Ibón Gutiérrez,es ESP,MF,10,4,1.0,0.0,2005-2006,2354802e,Numancia,495,5.5,3.0,0.0,62.0,1.0,,Numancia
-,Antonio Tomillo,,,4,4,0.0,0.0,2005-2006,,Numancia,360,4.0,2.0,0.0,62.0,,,Numancia
-,Pablo Niño,es ESP,MF,13,3,0.0,1.0,2005-2006,b477bff,Numancia,454,5.0,2.0,0.0,62.0,1.0,,Numancia
-,Alberto Monteagudo,es ESP,MF,5,3,0.0,0.0,2005-2006,f8a40b,Numancia,198,2.2,2.0,0.0,62.0,1.0,4251.0,Numancia
-,Rafa Jordà,es ESP,FW,4,2,0.0,0.0,2005-2006,05e805eb,Numancia,180,2.0,1.0,0.0,62.0,1.0,,Numancia
-,Ángel Pérez,es ESP,DF,2,1,0.0,0.0,2005-2006,706bad3,Numancia,84,0.9,0.0,0.0,62.0,1.0,,Numancia
-,﻿Juan Pablo Colinas,es ESP,GK,41,41,0.0,0.0,2006-2007,b2cab8f4,Numancia,"3,690",41.0,1.0,0.0,62.0,1.0,,Numancia
-,César Palacios,es ESP,MF,39,38,2.0,1.0,2006-2007,dc32054b,Numancia,"3,378",37.5,7.0,0.0,62.0,1.0,,Numancia
-,Bolo,es ESP,FW,37,32,4.0,10.0,2006-2007,ca7589a9,Numancia,"2,755",30.6,5.0,0.0,62.0,1.0,,Numancia
-,Javier del Pino,es ESP,FW,31,31,3.0,6.0,2006-2007,6279028,Numancia,"2,651",29.5,5.0,0.0,62.0,1.0,4247.0,Numancia
-,Julio Álvarez,ve VEN,MF,33,31,7.0,4.0,2006-2007,17b1a0ee,Numancia,"2,628",29.2,7.0,0.0,62.0,53.0,,Numancia
-,Txomin Nagore,es ESP,MF,34,30,2.0,0.0,2006-2007,41a60718,Numancia,"2,543",28.3,9.0,0.0,62.0,1.0,,Numancia
-,Kenji Fukuda,jp JPN,FW,39,29,2.0,10.0,2006-2007,889fd1fe,Numancia,"2,350",26.1,7.0,1.0,62.0,54.0,4252.0,Numancia
-,Sietes,es ESP,DF,30,28,1.0,0.0,2006-2007,bae8225f,Numancia,"2,367",26.3,5.0,2.0,62.0,1.0,,Numancia
-,Sergio Ortega,es ESP,DF,27,27,2.0,2.0,2006-2007,5e498ef7,Numancia,"2,385",26.5,3.0,0.0,62.0,1.0,,Numancia
-,Juanra,es ESP,DF,28,25,2.0,0.0,2006-2007,616d9a30,Numancia,"2,210",24.6,3.0,1.0,62.0,1.0,,Numancia
-,Juan Carlos Moreno,es ESP,MF,31,25,0.0,3.0,2006-2007,74f2988b,Numancia,"2,028",22.5,10.0,0.0,62.0,1.0,4236.0,Numancia
-,Felipe Guréndez,es ESP,MF,23,23,1.0,1.0,2006-2007,4f4973c3,Numancia,"1,997",22.2,7.0,1.0,62.0,1.0,,Numancia
-,Boris,es ESP,DF,22,22,0.0,0.0,2006-2007,6f531b7d,Numancia,"1,937",21.5,7.0,1.0,62.0,1.0,202.0,Numancia
-,Javier Tarantino,es ESP,DF,22,17,1.0,0.0,2006-2007,0bf40bdb,Numancia,"1,610",17.9,4.0,0.0,62.0,1.0,,Numancia
-,Fran Moreno,es ESP,MF,27,14,0.0,2.0,2006-2007,12096092,Numancia,"1,370",15.2,6.0,0.0,62.0,1.0,,Numancia
-,Grégory Béranger,fr FRA,DF,22,13,1.0,0.0,2006-2007,3dac0268,Numancia,"1,324",14.7,4.0,0.0,62.0,4.0,,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,13,12,0.0,0.0,2006-2007,4e84787e,Numancia,"1,050",11.7,3.0,0.0,62.0,1.0,4253.0,Numancia
-,Gorka Brit,es ESP,FW,27,8,2.0,7.0,2006-2007,18fea665,Numancia,"1,146",12.7,2.0,0.0,62.0,1.0,,Numancia
-,Pablo Lago,es ESP,MF,24,5,0.0,1.0,2006-2007,1a94953,Numancia,806,9.0,2.0,0.0,62.0,1.0,,Numancia
-,Óscar Pulido,,MF,10,4,1.0,0.0,2006-2007,7e01b9b3,Numancia,436,4.8,3.0,0.0,62.0,,,Numancia
-,Rafa Jordà,es ESP,FW,13,4,0.0,1.0,2006-2007,05e805eb,Numancia,372,4.1,1.0,0.0,62.0,1.0,,Numancia
-,Baio Suleimane,,,5,1,0.0,0.0,2006-2007,,Numancia,190,2.1,1.0,0.0,62.0,,,Numancia
-,Mario,es ESP,MF,5,1,0.0,0.0,2006-2007,4903e93a,Numancia,94,1.0,0.0,1.0,62.0,1.0,4246.0,Numancia
-,Álvaro Núñez,uy URU,GK,1,1,0.0,0.0,2006-2007,4267e1a9,Numancia,90,1.0,0.0,0.0,62.0,8.0,4230.0,Numancia
-,Dwight Pezzarossi,gt GUA,FW,1,0,0.0,0.0,2006-2007,26647970,Numancia,23,0.3,0.0,0.0,62.0,110.0,4254.0,Numancia
-,Javi Moreno,es ESP,FW,1,0,0.0,0.0,2006-2007,64497d05,Numancia,20,0.2,0.0,0.0,62.0,1.0,,Numancia
-,﻿Grégory Béranger,fr FRA,DF,37,37,0.0,0.0,2007-2008,3dac0268,Numancia,"3,309",36.8,11.0,0.0,62.0,4.0,,Numancia
-,Juanra,es ESP,DF,36,36,3.0,0.0,2007-2008,616d9a30,Numancia,"3,177",35.3,10.0,0.0,62.0,1.0,,Numancia
-,Txomin Nagore,es ESP,MF,34,34,1.0,2.0,2007-2008,41a60718,Numancia,"2,915",32.4,7.0,0.0,62.0,1.0,,Numancia
-,Jacobo,es ESP,GK,33,33,0.0,0.0,2007-2008,bb575fe7,Numancia,"2,970",33.0,2.0,0.0,62.0,1.0,,Numancia
-,Boris,es ESP,DF,31,31,1.0,0.0,2007-2008,6f531b7d,Numancia,"2,762",30.7,10.0,0.0,62.0,1.0,202.0,Numancia
-,Javier del Pino,es ESP,FW,33,31,1.0,8.0,2007-2008,6279028,Numancia,"2,718",30.2,4.0,0.0,62.0,1.0,4247.0,Numancia
-,Carmelo González,es ESP,MF,38,30,3.0,7.0,2007-2008,27f4e837,Numancia,"2,560",28.4,11.0,0.0,62.0,1.0,,Numancia
-,Julio Álvarez,ve VEN,MF,33,29,5.0,7.0,2007-2008,17b1a0ee,Numancia,"2,628",29.2,4.0,0.0,62.0,53.0,,Numancia
-,Juan Carlos Moreno,es ESP,MF,31,26,4.0,6.0,2007-2008,74f2988b,Numancia,"2,240",24.9,8.0,1.0,62.0,1.0,4236.0,Numancia
-,César Palacios,es ESP,MF,33,25,1.0,2.0,2007-2008,dc32054b,Numancia,"2,439",27.1,4.0,0.0,62.0,1.0,,Numancia
-,Manuel Pavón,es ESP,DF,29,23,0.0,0.0,2007-2008,828ab640,Numancia,"2,113",23.5,7.0,0.0,62.0,1.0,4255.0,Numancia
-,Bolo,es ESP,FW,23,18,2.0,1.0,2007-2008,ca7589a9,Numancia,"1,430",15.9,2.0,0.0,62.0,1.0,,Numancia
-,Gorka Brit,es ESP,FW,26,17,2.0,9.0,2007-2008,18fea665,Numancia,"1,277",14.2,4.0,1.0,62.0,1.0,,Numancia
-,Mario,es ESP,MF,34,16,1.0,3.0,2007-2008,4903e93a,Numancia,"1,505",16.7,4.0,0.0,62.0,1.0,4246.0,Numancia
-,Rafa Jordà,es ESP,FW,27,15,2.0,6.0,2007-2008,05e805eb,Numancia,"1,430",15.9,3.0,0.0,62.0,1.0,,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,15,15,0.0,2.0,2007-2008,4e84787e,Numancia,"1,350",15.0,4.0,0.0,62.0,1.0,4253.0,Numancia
-,Felipe Guréndez,es ESP,MF,20,11,0.0,0.0,2007-2008,4f4973c3,Numancia,"1,178",13.1,1.0,0.0,62.0,1.0,,Numancia
-,Juan Quero,es ESP,MF,28,9,0.0,3.0,2007-2008,42107bed,Numancia,"1,068",11.9,2.0,0.0,62.0,1.0,,Numancia
-,Álvaro Núñez,uy URU,GK,9,9,0.0,0.0,2007-2008,4267e1a9,Numancia,810,9.0,0.0,0.0,62.0,8.0,4230.0,Numancia
-,Sergio Ortega,es ESP,DF,8,5,0.0,0.0,2007-2008,5e498ef7,Numancia,471,5.2,4.0,0.0,62.0,1.0,,Numancia
-,Toché,es ESP,FW,13,4,0.0,3.0,2007-2008,64e35e11,Numancia,423,4.7,1.0,0.0,62.0,1.0,,Numancia
-,Sietes,es ESP,DF,5,3,0.0,0.0,2007-2008,bae8225f,Numancia,277,3.1,0.0,0.0,62.0,1.0,,Numancia
-,Cesar Huete,,,4,2,0.0,0.0,2007-2008,,Numancia,165,1.8,1.0,0.0,62.0,,,Numancia
-,﻿Juan Pablo Colinas,es ESP,GK,37,37,0.0,0.0,2008-2009,b2cab8f4,Numancia,"3,330",37.0,2.0,0.0,62.0,1.0,,Numancia
-,Domingo Cisma,es ESP,DF,34,34,0.0,2.0,2008-2009,4d85b73c,Numancia,"2,966",33.0,12.0,1.0,62.0,1.0,,Numancia
-,José Barkero,es ESP,MF,37,34,6.0,12.0,2008-2009,89a1b23c,Numancia,"2,963",32.9,4.0,1.0,62.0,1.0,,Numancia
-,Txomin Nagore,es ESP,MF,33,33,1.0,1.0,2008-2009,41a60718,Numancia,"2,875",31.9,9.0,0.0,62.0,1.0,,Numancia
-,Juanra,es ESP,DF,33,33,0.0,0.0,2008-2009,616d9a30,Numancia,"2,868",31.9,5.0,0.0,62.0,1.0,,Numancia
-,Boris,es ESP,DF,29,29,0.0,0.0,2008-2009,6f531b7d,Numancia,"2,580",28.7,9.0,1.0,62.0,1.0,202.0,Numancia
-,Asier Goiria,es ESP,FW,32,27,1.0,5.0,2008-2009,1dfd7bbc,Numancia,"2,175",24.2,6.0,1.0,62.0,1.0,4256.0,Numancia
-,Javier del Pino,es ESP,FW,32,25,0.0,4.0,2008-2009,6279028,Numancia,"2,164",24.0,9.0,0.0,62.0,1.0,4247.0,Numancia
-,Sergio Ortega,es ESP,DF,20,19,0.0,0.0,2008-2009,5e498ef7,Numancia,"1,712",19.0,7.0,0.0,62.0,1.0,,Numancia
-,Dimas Delgado,es ESP,MF,20,18,1.0,0.0,2008-2009,f6876bd7,Numancia,"1,484",16.5,6.0,0.0,62.0,1.0,,Numancia
-,Juan Carlos Moreno,es ESP,MF,20,17,0.0,3.0,2008-2009,74f2988b,Numancia,"1,460",16.2,5.0,2.0,62.0,1.0,4236.0,Numancia
-,Carlos Bellvís,es ESP,DF,28,15,0.0,1.0,2008-2009,fbe35ca3,Numancia,"1,482",16.5,2.0,0.0,62.0,1.0,,Numancia
-,César Palacios,es ESP,MF,19,15,0.0,0.0,2008-2009,dc32054b,Numancia,"1,340",14.9,5.0,1.0,62.0,1.0,,Numancia
-,Carlos Aranda,es ESP,FW,20,14,1.0,6.0,2008-2009,2b60c45d,Numancia,"1,321",14.7,3.0,0.0,62.0,1.0,,Numancia
-,Mario,es ESP,MF,27,12,0.0,1.0,2008-2009,4903e93a,Numancia,"1,139",12.7,3.0,0.0,62.0,1.0,4246.0,Numancia
-,Manuel Pavón,es ESP,DF,13,12,0.0,0.0,2008-2009,828ab640,Numancia,"1,087",12.1,4.0,1.0,62.0,1.0,4255.0,Numancia
-,Gorka Brit,es ESP,FW,31,11,1.0,3.0,2008-2009,18fea665,Numancia,"1,235",13.7,5.0,1.0,62.0,1.0,,Numancia
-,Juan Quero,es ESP,MF,25,9,1.0,0.0,2008-2009,42107bed,Numancia,975,10.8,3.0,0.0,62.0,1.0,,Numancia
-,Felipe Guréndez,es ESP,MF,8,6,0.0,0.0,2008-2009,4f4973c3,Numancia,563,6.3,2.0,0.0,62.0,1.0,,Numancia
-,Raúl Bravo,es ESP,DF,6,6,0.0,0.0,2008-2009,65b9e56b,Numancia,540,6.0,2.0,0.0,62.0,1.0,20.0,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,5,5,0.0,0.0,2008-2009,4e84787e,Numancia,450,5.0,1.0,0.0,62.0,1.0,4253.0,Numancia
-,Álvaro Antón,es ESP,MF,7,4,0.0,0.0,2008-2009,90041d71,Numancia,350,3.9,1.0,0.0,62.0,1.0,,Numancia
-,Antonio Guayre,es ESP,"FW,MF",6,2,0.0,0.0,2008-2009,82cf603f,Numancia,196,2.2,1.0,0.0,62.0,1.0,,Numancia
-,Marián Kelemen,sk SVK,GK,1,1,0.0,0.0,2008-2009,6f650bdb,Numancia,90,1.0,0.0,0.0,62.0,70.0,4257.0,Numancia
-,Lago Junior,ci CIV,"FW,MF",5,0,0.0,0.0,2008-2009,360d70f8,Numancia,60,0.7,1.0,0.0,62.0,35.0,,Numancia
-,Toché,es ESP,FW,1,0,0.0,0.0,2008-2009,64e35e11,Numancia,45,0.5,0.0,0.0,62.0,1.0,,Numancia
-,﻿José Barkero,es ESP,MF,38,36,9.0,6.0,2009-2010,89a1b23c,Numancia,"3,080",34.2,7.0,0.0,62.0,1.0,,Numancia
-,Javier Flaño,es ESP,DF,35,35,0.0,0.0,2009-2010,8e9ccfb8,Numancia,"3,087",34.3,9.0,1.0,62.0,1.0,,Numancia
-,Javier del Pino,es ESP,FW,35,34,1.0,9.0,2009-2010,6279028,Numancia,"2,819",31.3,5.0,0.0,62.0,1.0,4247.0,Numancia
-,César Palacios,es ESP,MF,33,32,2.0,1.0,2009-2010,dc32054b,Numancia,"2,828",31.4,4.0,2.0,62.0,1.0,,Numancia
-,Eduardo Navarro,es ESP,GK,32,32,0.0,0.0,2009-2010,f5caacf3,Numancia,"2,798",31.1,2.0,0.0,62.0,1.0,4258.0,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,31,31,0.0,0.0,2009-2010,4e84787e,Numancia,"2,790",31.0,8.0,0.0,62.0,1.0,4253.0,Numancia
-,Nano,es ESP,"DF,FW",31,31,2.0,4.0,2009-2010,51fbb7e2,Numancia,"2,601",28.9,3.0,1.0,62.0,1.0,,Numancia
-,Dimas Delgado,es ESP,MF,34,30,1.0,3.0,2009-2010,f6876bd7,Numancia,"2,693",29.9,11.0,1.0,62.0,1.0,,Numancia
-,Iñigo Vélez,es ESP,FW,30,23,4.0,8.0,2009-2010,08cc09ee,Numancia,"1,917",21.3,5.0,0.0,62.0,1.0,,Numancia
-,Mikel Balenziaga,es ESP,DF,26,22,0.0,0.0,2009-2010,1fe67e86,Numancia,"2,059",22.9,7.0,0.0,62.0,1.0,,Numancia
-,Mikel Álvaro,es ESP,MF,34,19,2.0,4.0,2009-2010,15b8ab8b,Numancia,"1,732",19.2,3.0,0.0,62.0,1.0,4259.0,Numancia
-,Txomin Nagore,es ESP,MF,27,15,3.0,0.0,2009-2010,41a60718,Numancia,"1,450",16.1,8.0,1.0,62.0,1.0,,Numancia
-,Joseba Garmendia,es ESP,"DF,MF",18,15,1.0,3.0,2009-2010,d74abbc4,Numancia,"1,332",14.8,3.0,0.0,62.0,1.0,,Numancia
-,Boris,es ESP,DF,15,14,0.0,0.0,2009-2010,6f531b7d,Numancia,"1,319",14.7,4.0,0.0,62.0,1.0,202.0,Numancia
-,Manuel Pavón,es ESP,DF,15,13,0.0,0.0,2009-2010,828ab640,Numancia,"1,057",11.7,6.0,1.0,62.0,1.0,4255.0,Numancia
-,Felipe Guréndez,es ESP,MF,16,11,0.0,0.0,2009-2010,4f4973c3,Numancia,"1,063",11.8,2.0,0.0,62.0,1.0,,Numancia
-,Lago Junior,ci CIV,"FW,MF",22,11,1.0,3.0,2009-2010,360d70f8,Numancia,931,10.3,1.0,0.0,62.0,35.0,,Numancia
-,Mario,es ESP,MF,28,9,1.0,2.0,2009-2010,4903e93a,Numancia,"1,022",11.4,4.0,0.0,62.0,1.0,4246.0,Numancia
-,Asier Goiria,es ESP,FW,21,7,2.0,6.0,2009-2010,1dfd7bbc,Numancia,852,9.5,2.0,2.0,62.0,1.0,4256.0,Numancia
-,Óscar López,es ESP,DF,9,7,1.0,1.0,2009-2010,14ae8df8,Numancia,634,7.0,4.0,0.0,62.0,1.0,,Numancia
-,Asier,es ESP,MF,9,6,0.0,1.0,2009-2010,c599392e,Numancia,495,5.5,0.0,0.0,62.0,1.0,,Numancia
-,Iñaki Lafuente,es ESP,GK,6,5,0.0,0.0,2009-2010,1757556,Numancia,532,5.9,0.0,0.0,62.0,1.0,,Numancia
-,Jesús,es ESP,GK,5,5,0.0,0.0,2009-2010,fba3c8c1,Numancia,450,5.0,0.0,0.0,62.0,1.0,97.0,Numancia
-,Víctor Andrés,es ESP,MF,5,5,0.0,0.0,2009-2010,26a584f,Numancia,369,4.1,0.0,0.0,62.0,1.0,4260.0,Numancia
-,Nandi,es ESP,DF,4,4,0.0,1.0,2009-2010,c04b3dfb,Numancia,360,4.0,0.0,0.0,62.0,1.0,4261.0,Numancia
-,Jesus Isi,,,4,4,0.0,0.0,2009-2010,,Numancia,263,2.9,0.0,0.0,62.0,,,Numancia
-,Enrique Sola,es ESP,FW,8,2,0.0,1.0,2009-2010,bef2e50e,Numancia,296,3.3,0.0,0.0,62.0,1.0,,Numancia
-,Diego Antón,es ESP,FW,6,2,1.0,1.0,2009-2010,d0737c9d,Numancia,281,3.1,2.0,0.0,62.0,1.0,4262.0,Numancia
-,Igor Angulo,es ESP,"FW,MF",6,2,0.0,0.0,2009-2010,5715f988,Numancia,239,2.7,1.0,0.0,62.0,1.0,,Numancia
-,Javier Gallardo,,,1,0,0.0,0.0,2009-2010,,Numancia,31,0.3,0.0,0.0,62.0,,,Numancia
-,Juan Carlos Moreno,es ESP,MF,1,0,0.0,0.0,2009-2010,74f2988b,Numancia,5,0.1,0.0,0.0,62.0,1.0,4236.0,Numancia
-,﻿Javier Flaño,es ESP,DF,40,39,0.0,1.0,2010-2011,8e9ccfb8,Numancia,"3,503",38.9,8.0,0.0,62.0,1.0,,Numancia
-,José Barkero,es ESP,MF,39,39,11.0,15.0,2010-2011,89a1b23c,Numancia,"3,481",38.7,5.0,0.0,62.0,1.0,,Numancia
-,Dimas Delgado,es ESP,MF,37,36,6.0,4.0,2010-2011,f6876bd7,Numancia,"3,080",34.2,13.0,0.0,62.0,1.0,,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,35,35,0.0,2.0,2010-2011,4e84787e,Numancia,"3,102",34.5,7.0,0.0,62.0,1.0,4253.0,Numancia
-,Txomin Nagore,es ESP,MF,37,33,4.0,3.0,2010-2011,41a60718,Numancia,"2,933",32.6,10.0,1.0,62.0,1.0,,Numancia
-,Cedrick Mabwati,cd COD,"FW,MF",40,33,5.0,9.0,2010-2011,6518bc18,Numancia,"2,832",31.5,10.0,0.0,62.0,50.0,,Numancia
-,Manuel Pavón,es ESP,DF,32,31,1.0,0.0,2010-2011,828ab640,Numancia,"2,759",30.7,10.0,3.0,62.0,1.0,4255.0,Numancia
-,Iñigo Vélez,es ESP,FW,36,25,1.0,5.0,2010-2011,08cc09ee,Numancia,"2,187",24.3,4.0,0.0,62.0,1.0,,Numancia
-,Nano,es ESP,"DF,FW",22,22,3.0,3.0,2010-2011,51fbb7e2,Numancia,"1,790",19.9,6.0,1.0,62.0,1.0,,Numancia
-,Eduardo Navarro,es ESP,GK,23,21,0.0,0.0,2010-2011,f5caacf3,Numancia,"2,054",22.8,3.0,0.0,62.0,1.0,4258.0,Numancia
-,Dani López,es ESP,DF,22,20,0.0,0.0,2010-2011,da8aa199,Numancia,"1,803",20.0,1.0,0.0,62.0,1.0,4263.0,Numancia
-,Joseba Garmendia,es ESP,"DF,MF",27,20,0.0,4.0,2010-2011,d74abbc4,Numancia,"1,646",18.3,4.0,0.0,62.0,1.0,,Numancia
-,Iñaki Lafuente,es ESP,GK,19,19,0.0,0.0,2010-2011,1757556,Numancia,"1,546",17.2,2.0,0.0,62.0,1.0,,Numancia
-,Javier del Pino,es ESP,FW,28,15,4.0,9.0,2010-2011,6279028,Numancia,"1,532",17.0,4.0,0.0,62.0,1.0,4247.0,Numancia
-,Ibrahima Baldé,sn SEN,FW,18,14,0.0,6.0,2010-2011,573b6680,Numancia,"1,298",14.4,2.0,0.0,62.0,34.0,,Numancia
-,José Antonio Culebras,es ESP,DF,15,14,0.0,1.0,2010-2011,c8b270a2,Numancia,"1,268",14.1,3.0,0.0,62.0,1.0,,Numancia
-,Sunny,ng NGA,MF,14,9,0.0,2.0,2010-2011,1eb38665,Numancia,837,9.3,3.0,0.0,62.0,52.0,,Numancia
-,Ion Vélez,es ESP,FW,18,7,2.0,0.0,2010-2011,3a6c16de,Numancia,668,7.4,1.0,0.0,62.0,1.0,,Numancia
-,Víctor Andrés,es ESP,MF,20,6,0.0,0.0,2010-2011,26a584f,Numancia,661,7.3,1.0,0.0,62.0,1.0,4260.0,Numancia
-,Mikel Álvaro,es ESP,MF,16,5,0.0,0.0,2010-2011,15b8ab8b,Numancia,525,5.8,1.0,0.0,62.0,1.0,4259.0,Numancia
-,Mario,es ESP,MF,13,5,1.0,0.0,2010-2011,4903e93a,Numancia,481,5.3,2.0,0.0,62.0,1.0,4246.0,Numancia
-,Óscar López,es ESP,DF,8,5,2.0,0.0,2010-2011,14ae8df8,Numancia,415,4.6,3.0,0.0,62.0,1.0,,Numancia
-,Igor Angulo,es ESP,"FW,MF",18,4,0.0,0.0,2010-2011,5715f988,Numancia,520,5.8,2.0,0.0,62.0,1.0,,Numancia
-,Boris,es ESP,DF,3,3,0.0,0.0,2010-2011,6f531b7d,Numancia,240,2.7,2.0,0.0,62.0,1.0,202.0,Numancia
-,Diego de Miguel,es ESP,GK,2,2,0.0,0.0,2010-2011,4b798eab,Numancia,180,2.0,0.0,0.0,62.0,1.0,4264.0,Numancia
-,Gerard Oliva,es ESP,FW,3,0,0.0,0.0,2010-2011,0d01d201,Numancia,64,0.7,1.0,0.0,62.0,1.0,,Numancia
-,Javi Bonilla,es ESP,MF,1,0,0.0,0.0,2010-2011,3d67cc6e,Numancia,35,0.4,0.0,0.0,62.0,1.0,4265.0,Numancia
-,Diego Antón,es ESP,FW,1,0,0.0,0.0,2010-2011,d0737c9d,Numancia,3,0.0,0.0,0.0,62.0,1.0,4262.0,Numancia
-,﻿Nano,es ESP,"DF,FW",37,37,1.0,5.0,2011-2012,51fbb7e2,Numancia,"3,230",35.9,9.0,0.0,62.0,1.0,,Numancia
-,Unai Expósito,es ESP,DF,35,34,0.0,0.0,2011-2012,3aca2200,Numancia,"3,006",33.4,13.0,1.0,62.0,1.0,,Numancia
-,Julio Álvarez,ve VEN,MF,35,34,11.0,10.0,2011-2012,17b1a0ee,Numancia,"2,959",32.9,7.0,0.0,62.0,53.0,,Numancia
-,Leandro Cabrera,uy URU,DF,33,32,1.0,0.0,2011-2012,69cbc8b6,Numancia,"2,912",32.4,5.0,0.0,62.0,8.0,,Numancia
-,Miguel Bedoya,es ESP,MF,38,30,8.0,3.0,2011-2012,7753a08d,Numancia,"2,567",28.5,5.0,0.0,62.0,1.0,4266.0,Numancia
-,Natalio,es ESP,FW,34,29,3.0,5.0,2011-2012,239425b9,Numancia,"2,294",25.5,5.0,0.0,62.0,1.0,,Numancia
-,Juanjo Expósito,es ESP,FW,34,26,1.0,8.0,2011-2012,f0a0b756,Numancia,"2,338",26.0,8.0,1.0,62.0,1.0,,Numancia
-,Txomin Nagore,es ESP,MF,29,25,0.0,1.0,2011-2012,41a60718,Numancia,"2,341",26.0,7.0,0.0,62.0,1.0,,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,24,24,0.0,1.0,2011-2012,4e84787e,Numancia,"2,127",23.6,11.0,1.0,62.0,1.0,4253.0,Numancia
-,Eduardo Navarro,es ESP,GK,23,23,0.0,0.0,2011-2012,f5caacf3,Numancia,"2,070",23.0,3.0,0.0,62.0,1.0,4258.0,Numancia
-,Sunny,ng NGA,MF,31,23,0.0,1.0,2011-2012,1eb38665,Numancia,"2,035",22.6,10.0,2.0,62.0,52.0,,Numancia
-,Manuel Pavón,es ESP,DF,22,21,0.0,0.0,2011-2012,828ab640,Numancia,"1,902",21.1,8.0,1.0,62.0,1.0,4255.0,Numancia
-,Ignacio Zabal,es ESP,GK,19,19,0.0,0.0,2011-2012,9df85b2a,Numancia,"1,710",19.0,2.0,0.0,62.0,1.0,4267.0,Numancia
-,Lago Junior,ci CIV,"FW,MF",26,19,0.0,2.0,2011-2012,360d70f8,Numancia,"1,508",16.8,0.0,0.0,62.0,35.0,,Numancia
-,Cedrick Mabwati,cd COD,"FW,MF",31,17,1.0,1.0,2011-2012,6518bc18,Numancia,"1,607",17.9,4.0,0.0,62.0,50.0,,Numancia
-,Javier del Pino,es ESP,FW,21,15,0.0,4.0,2011-2012,6279028,Numancia,"1,412",15.7,6.0,0.0,62.0,1.0,4247.0,Numancia
-,Iván Malón,es ESP,DF,13,10,0.0,0.0,2011-2012,c568d934,Numancia,869,9.7,4.0,0.0,62.0,1.0,,Numancia
-,José Antonio Culebras,es ESP,DF,9,9,0.0,0.0,2011-2012,c8b270a2,Numancia,810,9.0,1.0,0.0,62.0,1.0,,Numancia
-,Adrián Ripa,es ESP,DF,11,8,0.0,0.0,2011-2012,c5a2ecfa,Numancia,716,8.0,5.0,1.0,62.0,1.0,4268.0,Numancia
-,Miguel Ángel Nieto,es ESP,MF,23,7,1.0,1.0,2011-2012,3a935b70,Numancia,777,8.6,2.0,0.0,62.0,1.0,60.0,Numancia
-,Gorka Larrea,es ESP,MF,14,7,0.0,1.0,2011-2012,242e09b6,Numancia,640,7.1,2.0,0.0,62.0,1.0,,Numancia
-,Iñigo Díaz de Cerio,es ESP,FW,24,6,2.0,8.0,2011-2012,757bd109,Numancia,846,9.4,0.0,0.0,62.0,1.0,,Numancia
-,Víctor Andrés,es ESP,MF,15,3,1.0,0.0,2011-2012,26a584f,Numancia,401,4.5,0.0,0.0,62.0,1.0,4260.0,Numancia
-,Javi Bonilla,es ESP,MF,2,2,0.0,1.0,2011-2012,3d67cc6e,Numancia,168,1.9,0.0,0.0,62.0,1.0,4265.0,Numancia
-,Edu Gil,es ESP,DF,2,1,0.0,0.0,2011-2012,cffecd08,Numancia,108,1.2,0.0,0.0,62.0,1.0,4269.0,Numancia
-,Espanha Rubo,,,1,0,0.0,0.0,2011-2012,,Numancia,6,0.1,0.0,0.0,62.0,,,Numancia
-,﻿Natalio,es ESP,FW,39,37,3.0,13.0,2012-2013,239425b9,Numancia,"3,171",35.2,3.0,1.0,62.0,1.0,,Numancia
-,Juanma,es ESP,DF,36,36,2.0,7.0,2012-2013,396b863a,Numancia,"3,200",35.6,15.0,0.0,62.0,1.0,,Numancia
-,Iago Herrerín,es ESP,GK,34,34,0.0,0.0,2012-2013,9109185e,Numancia,"3,060",34.0,1.0,0.0,62.0,1.0,,Numancia
-,Iván Malón,es ESP,DF,32,32,2.0,0.0,2012-2013,c568d934,Numancia,"2,839",31.5,10.0,1.0,62.0,1.0,,Numancia
-,Txomin Nagore,es ESP,MF,35,30,2.0,5.0,2012-2013,41a60718,Numancia,"2,483",27.6,9.0,0.0,62.0,1.0,,Numancia
-,Cedrick Mabwati,cd COD,"FW,MF",37,29,8.0,3.0,2012-2013,6518bc18,Numancia,"2,480",27.6,6.0,0.0,62.0,50.0,,Numancia
-,Francisco Regalón,es ESP,DF,30,28,0.0,2.0,2012-2013,7b9f85b0,Numancia,"2,614",29.0,6.0,0.0,62.0,1.0,4270.0,Numancia
-,Miguel Bedoya,es ESP,MF,34,27,4.0,1.0,2012-2013,7753a08d,Numancia,"2,471",27.5,5.0,0.0,62.0,1.0,4266.0,Numancia
-,Javier del Pino,es ESP,FW,34,24,0.0,4.0,2012-2013,6279028,Numancia,"2,271",25.2,8.0,0.0,62.0,1.0,4247.0,Numancia
-,Sunny,ng NGA,MF,31,24,0.0,1.0,2012-2013,1eb38665,Numancia,"2,196",24.4,14.0,0.0,62.0,52.0,,Numancia
-,Egoitz Jaio Gabiola,es ESP,DF,25,24,0.0,0.0,2012-2013,4e84787e,Numancia,"2,136",23.7,5.0,1.0,62.0,1.0,4253.0,Numancia
-,Antonio Tomás,es ESP,MF,24,22,2.0,1.0,2012-2013,668d4e93,Numancia,"1,641",18.2,7.0,0.0,62.0,1.0,,Numancia
-,Julio Álvarez,ve VEN,MF,26,18,12.0,4.0,2012-2013,17b1a0ee,Numancia,"1,828",20.3,5.0,0.0,62.0,53.0,,Numancia
-,Adrián Ripa,es ESP,DF,16,14,0.0,0.0,2012-2013,c5a2ecfa,Numancia,"1,153",12.8,3.0,0.0,62.0,1.0,4268.0,Numancia
-,Eneko Satrústegui,es ESP,DF,14,13,0.0,0.0,2012-2013,b7ce700f,Numancia,"1,251",13.9,5.0,0.0,62.0,1.0,,Numancia
-,Pedro Martín,es ESP,FW,19,13,1.0,3.0,2012-2013,99ee29b5,Numancia,"1,090",12.1,2.0,0.0,62.0,1.0,,Numancia
-,Juanjo Expósito,es ESP,FW,20,12,2.0,3.0,2012-2013,f0a0b756,Numancia,"1,157",12.9,3.0,0.0,62.0,1.0,,Numancia
-,Javi Bonilla,es ESP,MF,17,10,0.0,1.0,2012-2013,3d67cc6e,Numancia,899,10.0,3.0,0.0,62.0,1.0,4265.0,Numancia
-,Biel Ribas,es ESP,GK,8,8,0.0,0.0,2012-2013,8178716d,Numancia,720,8.0,1.0,0.0,62.0,1.0,,Numancia
-,Miguel Ángel Nieto,es ESP,MF,19,8,0.0,3.0,2012-2013,3a935b70,Numancia,672,7.5,4.0,0.0,62.0,1.0,60.0,Numancia
-,José Isidoro,es ESP,DF,8,6,0.0,0.0,2012-2013,bb00a819,Numancia,598,6.6,3.0,0.0,62.0,1.0,,Numancia
-,Unai Expósito,es ESP,DF,7,5,0.0,0.0,2012-2013,3aca2200,Numancia,426,4.7,3.0,0.0,62.0,1.0,,Numancia
-,Lago Junior,ci CIV,"FW,MF",15,4,1.0,1.0,2012-2013,360d70f8,Numancia,512,5.7,1.0,0.0,62.0,35.0,,Numancia
-,Airam,es ESP,FW,12,2,0.0,0.0,2012-2013,130471ce,Numancia,364,4.0,0.0,0.0,62.0,1.0,4271.0,Numancia
-,Gorka Larrea,es ESP,MF,8,1,0.0,0.0,2012-2013,242e09b6,Numancia,119,1.3,2.0,0.0,62.0,1.0,,Numancia
-,Baltasar Rigo,es ESP,DF,1,1,0.0,0.0,2012-2013,b80570db,Numancia,90,1.0,1.0,0.0,62.0,1.0,4272.0,Numancia
-,David Martín,es ESP,FW,4,0,0.0,0.0,2012-2013,1e18b12,Numancia,57,0.6,0.0,0.0,62.0,1.0,4273.0,Numancia
-,﻿Julio Álvarez,ve VEN,MF,41,41,13.0,7.0,2013-2014,17b1a0ee,Numancia,"3,645",40.5,7.0,0.0,62.0,53.0,,Numancia
-,Natalio,es ESP,FW,40,37,1.0,5.0,2013-2014,239425b9,Numancia,"2,986",33.2,8.0,0.0,62.0,1.0,,Numancia
-,Juanma,es ESP,DF,36,36,0.0,6.0,2013-2014,396b863a,Numancia,"3,189",35.4,13.0,1.0,62.0,1.0,,Numancia
-,Mickaël Gaffoor,fr FRA,DF,36,35,0.0,1.0,2013-2014,7ab63f1e,Numancia,"2,971",33.0,7.0,0.0,62.0,4.0,,Numancia
-,Francisco Regalón,es ESP,DF,36,32,2.0,5.0,2013-2014,7b9f85b0,Numancia,"2,872",31.9,8.0,1.0,62.0,1.0,4270.0,Numancia
-,Biel Ribas,es ESP,GK,31,31,0.0,0.0,2013-2014,8178716d,Numancia,"2,790",31.0,3.0,0.0,62.0,1.0,,Numancia
-,Adrián Ripa,es ESP,DF,31,31,0.0,0.0,2013-2014,c5a2ecfa,Numancia,"2,744",30.5,11.0,0.0,62.0,1.0,4268.0,Numancia
-,Carlos Akapo,gq EQG,DF,29,27,0.0,0.0,2013-2014,f2a68b97,Numancia,"2,390",26.6,8.0,1.0,62.0,10.0,4274.0,Numancia
-,Vicente Pérez,es ESP,MF,35,26,3.0,2.0,2013-2014,f4927d11,Numancia,"2,133",23.7,3.0,0.0,62.0,1.0,4275.0,Numancia
-,Antonio Tomás,es ESP,MF,26,25,0.0,2.0,2013-2014,668d4e93,Numancia,"1,907",21.2,4.0,0.0,62.0,1.0,,Numancia
-,Sergi Enrich,es ESP,"FW,MF",38,23,3.0,10.0,2013-2014,bb4b1242,Numancia,"2,247",25.0,6.0,0.0,62.0,1.0,,Numancia
-,Miguel Bedoya,es ESP,MF,31,22,2.0,0.0,2013-2014,7753a08d,Numancia,"1,998",22.2,4.0,0.0,62.0,1.0,4266.0,Numancia
-,José Isidoro,es ESP,DF,17,15,0.0,0.0,2013-2014,bb00a819,Numancia,"1,321",14.7,2.0,1.0,62.0,1.0,,Numancia
-,Javier del Pino,es ESP,FW,14,13,1.0,1.0,2013-2014,6279028,Numancia,926,10.3,2.0,1.0,62.0,1.0,4247.0,Numancia
-,Miguel Palanca,es ESP,"FW,MF",33,11,1.0,3.0,2013-2014,005ade52,Numancia,"1,364",15.2,4.0,0.0,62.0,1.0,74.0,Numancia
-,Javi Bonilla,es ESP,MF,14,11,0.0,0.0,2013-2014,3d67cc6e,Numancia,"1,027",11.4,6.0,0.0,62.0,1.0,4265.0,Numancia
-,Raúl Fernández,es ESP,GK,11,11,0.0,0.0,2013-2014,6fb59070,Numancia,990,11.0,1.0,0.0,62.0,1.0,,Numancia
-,Marc Pedraza,es ESP,MF,17,10,0.0,0.0,2013-2014,ff8f26ef,Numancia,979,10.9,7.0,1.0,62.0,1.0,,Numancia
-,David González,es ESP,MF,15,10,0.0,0.0,2013-2014,d65705c4,Numancia,974,10.8,5.0,0.0,62.0,1.0,4276.0,Numancia
-,Víctor Andrés,es ESP,MF,12,5,0.0,0.0,2013-2014,26a584f,Numancia,566,6.3,1.0,0.0,62.0,1.0,4260.0,Numancia
-,Luis Valcarce,es ESP,"DF,MF",16,5,0.0,0.0,2013-2014,8e5cde3f,Numancia,555,6.2,1.0,0.0,62.0,1.0,4277.0,Numancia
-,Pedro Martín,es ESP,FW,22,4,0.0,0.0,2013-2014,99ee29b5,Numancia,654,7.3,0.0,0.0,62.0,1.0,,Numancia
-,Dani Calvo,es ESP,DF,1,1,0.0,0.0,2013-2014,dd672e1f,Numancia,90,1.0,0.0,0.0,62.0,1.0,,Numancia
-,César Vinuesa,es ESP,MF,1,0,0.0,0.0,2013-2014,f69b53dc,Numancia,47,0.5,0.0,0.0,62.0,1.0,4278.0,Numancia
-,David Martín,es ESP,FW,4,0,0.0,0.0,2013-2014,1e18b12,Numancia,40,0.4,0.0,0.0,62.0,1.0,4273.0,Numancia
-,﻿Sergi Enrich,es ESP,"FW,MF",38,37,3.0,16.0,2014-2015,bb4b1242,Numancia,"3,168",35.2,7.0,1.0,62.0,1.0,,Numancia
-,José Isidoro,es ESP,DF,35,34,0.0,0.0,2014-2015,bb00a819,Numancia,"3,024",33.6,8.0,0.0,62.0,1.0,,Numancia
-,Juanma,es ESP,DF,37,34,0.0,4.0,2014-2015,396b863a,Numancia,"3,007",33.4,10.0,1.0,62.0,1.0,,Numancia
-,Vicente Pérez,es ESP,MF,39,32,5.0,4.0,2014-2015,f4927d11,Numancia,"3,013",33.5,4.0,0.0,62.0,1.0,4275.0,Numancia
-,Julio Álvarez,ve VEN,MF,34,32,12.0,12.0,2014-2015,17b1a0ee,Numancia,"2,883",32.0,9.0,0.0,62.0,53.0,,Numancia
-,Natalio,es ESP,FW,37,32,4.0,2.0,2014-2015,239425b9,Numancia,"2,491",27.7,5.0,0.0,62.0,1.0,,Numancia
-,Iñigo Pérez,es ESP,MF,35,28,1.0,0.0,2014-2015,bc61cc65,Numancia,"2,462",27.4,8.0,0.0,62.0,1.0,,Numancia
-,Antonio Tomás,es ESP,MF,26,26,2.0,0.0,2014-2015,668d4e93,Numancia,"2,068",23.0,9.0,0.0,62.0,1.0,,Numancia
-,Munir,ma MAR,GK,25,25,0.0,0.0,2014-2015,fc8287db,Numancia,"2,250",25.0,1.0,0.0,62.0,26.0,,Numancia
-,Francisco Regalón,es ESP,DF,26,25,1.0,2.0,2014-2015,7b9f85b0,Numancia,"2,221",24.7,10.0,0.0,62.0,1.0,4270.0,Numancia
-,Adrián Ripa,es ESP,DF,26,25,1.0,0.0,2014-2015,c5a2ecfa,Numancia,"2,010",22.3,12.0,2.0,62.0,1.0,4268.0,Numancia
-,Marc Pedraza,es ESP,MF,32,22,0.0,0.0,2014-2015,ff8f26ef,Numancia,"1,963",21.8,8.0,2.0,62.0,1.0,,Numancia
-,Mickaël Gaffoor,fr FRA,DF,19,18,0.0,3.0,2014-2015,7ab63f1e,Numancia,"1,553",17.3,7.0,1.0,62.0,4.0,,Numancia
-,Biel Ribas,es ESP,GK,17,17,0.0,0.0,2014-2015,8178716d,Numancia,"1,530",17.0,1.0,0.0,62.0,1.0,,Numancia
-,Dani Calvo,es ESP,DF,13,12,0.0,0.0,2014-2015,dd672e1f,Numancia,"1,105",12.3,4.0,0.0,62.0,1.0,,Numancia
-,Cicinho,br BRA,DF,15,11,0.0,1.0,2014-2015,cb51774a,Numancia,988,11.0,2.0,0.0,62.0,2.0,,Numancia
-,Miguel Palanca,es ESP,"FW,MF",17,10,3.0,2.0,2014-2015,005ade52,Numancia,945,10.5,3.0,0.0,62.0,1.0,74.0,Numancia
-,Braian Rodríguez,uy URU,FW,21,9,0.0,4.0,2014-2015,ba32a26f,Numancia,982,10.9,4.0,1.0,62.0,8.0,,Numancia
-,Abdelkader Oueslati,tn TUN,"DF,FW",16,9,1.0,0.0,2014-2015,dc90d163,Numancia,908,10.1,5.0,0.0,62.0,46.0,,Numancia
-,Gerrit Stoeten,es ESP,MF,14,9,1.0,1.0,2014-2015,210ca6bf,Numancia,800,8.9,2.0,0.0,62.0,1.0,4279.0,Numancia
-,Luis Valcarce,es ESP,"DF,MF",14,8,0.0,0.0,2014-2015,8e5cde3f,Numancia,806,9.0,0.0,0.0,62.0,1.0,4277.0,Numancia
-,Javier del Pino,es ESP,FW,23,3,0.0,0.0,2014-2015,6279028,Numancia,569,6.3,2.0,0.0,62.0,1.0,4247.0,Numancia
-,Carlos Aranda,es ESP,FW,8,2,0.0,2.0,2014-2015,2b60c45d,Numancia,275,3.1,1.0,0.0,62.0,1.0,,Numancia
-,Álex Arias,es ESP,MF,6,1,0.0,0.0,2014-2015,f2a91c3,Numancia,148,1.6,0.0,0.0,62.0,1.0,4280.0,Numancia
-,Javi Bonilla,es ESP,MF,1,1,0.0,0.0,2014-2015,3d67cc6e,Numancia,64,0.7,1.0,0.0,62.0,1.0,4265.0,Numancia
-,Edipo Rodríguez,do DOM,MF,9,0,0.0,0.0,2014-2015,2b94f94c,Numancia,127,1.4,0.0,0.0,62.0,25.0,4281.0,Numancia
-,Ito,es ESP,FW,2,0,0.0,0.0,2014-2015,5393bd3a,Numancia,30,0.3,0.0,0.0,62.0,1.0,4282.0,Numancia
-,Pablo Valcarce,es ESP,"FW,MF",2,0,0.0,0.0,2014-2015,f51ee65e,Numancia,28,0.3,0.0,0.0,62.0,1.0,,Numancia
-,Vallejo,es ESP,GK,0,0,,,2014-2015,9353561a,Numancia,,,,,62.0,1.0,4283.0,Numancia
-,﻿Unai Medina,es ESP,DF,38,38,3.0,1.0,2015-2016,bda6ddeb,Numancia,"3,269",36.3,5.0,0.0,62.0,1.0,,Numancia
-,Luis Valcarce,es ESP,"DF,MF",36,36,3.0,1.0,2015-2016,8e5cde3f,Numancia,"3,162",35.1,8.0,1.0,62.0,1.0,4277.0,Numancia
-,Munir,ma MAR,GK,35,35,0.0,0.0,2015-2016,fc8287db,Numancia,"3,150",35.0,1.0,0.0,62.0,26.0,,Numancia
-,Álex Alegría,es ESP,FW,41,31,0.0,12.0,2015-2016,46166b49,Numancia,"2,843",31.6,5.0,1.0,62.0,1.0,,Numancia
-,Marc Pedraza,es ESP,MF,29,29,0.0,3.0,2015-2016,ff8f26ef,Numancia,"2,272",25.2,10.0,1.0,62.0,1.0,,Numancia
-,Jon Gaztañaga,es ESP,"DF,MF",34,27,2.0,0.0,2015-2016,806872d2,Numancia,"2,561",28.5,5.0,0.0,62.0,1.0,,Numancia
-,Pablo Valcarce,es ESP,"FW,MF",34,27,6.0,7.0,2015-2016,f51ee65e,Numancia,"2,404",26.7,8.0,1.0,62.0,1.0,,Numancia
-,Pedro Orfila,es ESP,DF,29,26,0.0,0.0,2015-2016,38c114e,Numancia,"2,392",26.6,6.0,0.0,62.0,1.0,,Numancia
-,Alexander Callens,pe PER,DF,23,23,0.0,2.0,2015-2016,f34f10d,Numancia,"2,049",22.8,4.0,0.0,62.0,57.0,4284.0,Numancia
-,Iñigo Pérez,es ESP,MF,26,22,3.0,1.0,2015-2016,bc61cc65,Numancia,"2,050",22.8,6.0,0.0,62.0,1.0,,Numancia
-,Francisco Regalón,es ESP,DF,22,21,1.0,2.0,2015-2016,7b9f85b0,Numancia,"1,829",20.3,4.0,1.0,62.0,1.0,4270.0,Numancia
-,Julio Álvarez,ve VEN,MF,24,20,7.0,9.0,2015-2016,17b1a0ee,Numancia,"1,789",19.9,7.0,0.0,62.0,53.0,,Numancia
-,David Concha,es ESP,"FW,MF",26,20,2.0,5.0,2015-2016,c8355268,Numancia,"1,585",17.6,0.0,0.0,62.0,1.0,,Numancia
-,Juanma,es ESP,DF,19,18,2.0,1.0,2015-2016,396b863a,Numancia,"1,529",17.0,5.0,1.0,62.0,1.0,,Numancia
-,Marc Mateu,es ESP,"DF,MF",29,15,2.0,1.0,2015-2016,d90fc36,Numancia,"1,508",16.8,3.0,0.0,62.0,1.0,,Numancia
-,Óscar Díaz,es ESP,"FW,MF",16,13,1.0,7.0,2015-2016,5a5ed410,Numancia,"1,112",12.4,3.0,0.0,62.0,1.0,,Numancia
-,Nacho,es ESP,MF,26,11,0.0,1.0,2015-2016,0c78c871,Numancia,"1,316",14.6,4.0,1.0,62.0,1.0,4285.0,Numancia
-,Vicente Pérez,es ESP,MF,19,10,1.0,0.0,2015-2016,f4927d11,Numancia,969,10.8,0.0,0.0,62.0,1.0,4275.0,Numancia
-,Natalio,es ESP,FW,13,7,1.0,2.0,2015-2016,239425b9,Numancia,525,5.8,1.0,0.0,62.0,1.0,,Numancia
-,Antonio Martínez,es ESP,MF,8,7,1.0,0.0,2015-2016,de3c4ef7,Numancia,498,5.5,5.0,0.0,62.0,1.0,4286.0,Numancia
-,Adrián Ripa,es ESP,DF,7,6,0.0,0.0,2015-2016,c5a2ecfa,Numancia,558,6.2,1.0,1.0,62.0,1.0,4268.0,Numancia
-,Dani Aquino,es ESP,"FW,MF",28,4,1.0,1.0,2015-2016,060a66fb,Numancia,648,7.2,4.0,0.0,62.0,1.0,,Numancia
-,Juan Pablo Colinas,es ESP,GK,4,4,0.0,0.0,2015-2016,b2cab8f4,Numancia,360,4.0,0.0,0.0,62.0,1.0,,Numancia
-,Adrián Dalmau,es ESP,FW,9,3,0.0,0.0,2015-2016,7330f886,Numancia,330,3.7,1.0,0.0,62.0,1.0,,Numancia
-,Biel Ribas,es ESP,GK,3,3,0.0,0.0,2015-2016,8178716d,Numancia,270,3.0,0.0,0.0,62.0,1.0,,Numancia
-,Antonio Tomás,es ESP,MF,3,3,0.0,0.0,2015-2016,668d4e93,Numancia,236,2.6,1.0,0.0,62.0,1.0,,Numancia
-,Javier del Pino,es ESP,FW,2,2,1.0,0.0,2015-2016,6279028,Numancia,140,1.6,0.0,0.0,62.0,1.0,4247.0,Numancia
-,Jorge Diaz,uy URU,"FW,MF",3,1,0.0,0.0,2015-2016,d3248912,Numancia,106,1.2,0.0,0.0,62.0,8.0,,Numancia
-,Diego Ciria,es ESP,DF,0,0,,,2015-2016,3eb15b9f,Numancia,,,,,62.0,1.0,4287.0,Numancia
-,Vallejo,es ESP,GK,0,0,,,2015-2016,9353561a,Numancia,,,,,62.0,1.0,4283.0,Numancia
-,﻿Marc Mateu,es ESP,MF,39,38,6.0,3.0,2016-2017,d90fc36,Numancia,"3,333",37.0,6.0,2.0,62.0,1.0,,Numancia
-,Iñigo Pérez,es ESP,MF,39,36,3.0,1.0,2016-2017,bc61cc65,Numancia,"3,131",34.8,1.0,1.0,62.0,1.0,,Numancia
-,Iñigo Ruiz de Galarreta,es ESP,MF,37,35,3.0,2.0,2016-2017,91f7631f,Numancia,"3,090",34.3,6.0,0.0,62.0,1.0,,Numancia
-,Unai Medina,es ESP,DF,33,30,4.0,2.0,2016-2017,bda6ddeb,Numancia,"2,724",30.3,4.0,1.0,62.0,1.0,,Numancia
-,Pablo Valcarce,es ESP,MF,36,29,2.0,8.0,2016-2017,f51ee65e,Numancia,"2,443",27.1,2.0,1.0,62.0,1.0,,Numancia
-,Aitor Fernández,es ESP,GK,29,28,0.0,0.0,2016-2017,01c3d54,Numancia,"2,545",28.3,2.0,0.0,62.0,1.0,,Numancia
-,Julio Álvarez,ve VEN,MF,29,28,7.0,4.0,2016-2017,17b1a0ee,Numancia,"2,358",26.2,5.0,0.0,62.0,53.0,,Numancia
-,Dani Calvo,es ESP,DF,24,24,0.0,3.0,2016-2017,dd672e1f,Numancia,"2,160",24.0,4.0,0.0,62.0,1.0,,Numancia
-,Carlos Gutiérrez,es ESP,DF,26,24,0.0,0.0,2016-2017,933de879,Numancia,"2,145",23.8,7.0,2.0,62.0,1.0,4298.0,Numancia
-,Alberto Escassi,es ESP,"DF,MF",28,19,0.0,1.0,2016-2017,154fe273,Numancia,"1,813",20.1,9.0,0.0,62.0,1.0,,Numancia
-,Adrián Ripa,es ESP,DF,19,17,0.0,0.0,2016-2017,c5a2ecfa,Numancia,"1,515",16.8,3.0,0.0,62.0,1.0,4268.0,Numancia
-,Manu del Moral,es ESP,FW,20,17,0.0,9.0,2016-2017,1026f88d,Numancia,"1,374",15.3,3.0,0.0,62.0,1.0,,Numancia
-,Nacho,es ESP,MF,28,16,1.0,2.0,2016-2017,0c78c871,Numancia,"1,367",15.2,4.0,0.0,62.0,1.0,4285.0,Numancia
-,Pedro Orfila,es ESP,DF,22,15,0.0,0.0,2016-2017,38c114e,Numancia,"1,488",16.5,4.0,0.0,62.0,1.0,,Numancia
-,Luis Valcarce,es ESP,DF,16,15,0.0,0.0,2016-2017,8e5cde3f,Numancia,"1,346",15.0,4.0,0.0,62.0,1.0,4277.0,Numancia
-,Eneko Capilla,es ESP,MF,33,14,1.0,0.0,2016-2017,54bed007,Numancia,"1,444",16.0,4.0,0.0,62.0,1.0,,Numancia
-,Alexander Callens,pe PER,DF,16,14,0.0,1.0,2016-2017,f34f10d,Numancia,"1,319",14.7,1.0,0.0,62.0,57.0,4284.0,Numancia
-,Munir,ma MAR,GK,13,13,0.0,0.0,2016-2017,fc8287db,Numancia,"1,145",12.7,2.0,0.0,62.0,26.0,,Numancia
-,Jairo Morillas,es ESP,FW,18,9,0.0,2.0,2016-2017,0414cb4,Numancia,797,8.9,0.0,0.0,62.0,1.0,,Numancia
-,Francisco Regalón,es ESP,DF,10,9,0.0,1.0,2016-2017,7b9f85b0,Numancia,764,8.5,2.0,2.0,62.0,1.0,4270.0,Numancia
-,Dani Nieto,es ESP,"MF,FW",15,7,1.0,0.0,2016-2017,d7d46f3b,Numancia,678,7.5,4.0,0.0,62.0,1.0,4288.0,Numancia
-,José Manuel Casado,es ESP,DF,7,7,0.0,0.0,2016-2017,d0b6d20e,Numancia,574,6.4,2.0,0.0,62.0,1.0,,Numancia
-,Marc Pedraza,es ESP,MF,16,6,0.0,0.0,2016-2017,ff8f26ef,Numancia,572,6.4,2.0,1.0,62.0,1.0,,Numancia
-,Asier Villalibre,es ESP,FW,5,5,0.0,0.0,2016-2017,57be54ec,Numancia,450,5.0,0.0,0.0,62.0,1.0,,Numancia
-,Javier Acuña,py PAR,FW,15,3,0.0,0.0,2016-2017,993ff7aa,Numancia,419,4.7,0.0,0.0,62.0,43.0,,Numancia
-,Enrique Sola,es ESP,FW,10,3,0.0,0.0,2016-2017,bef2e50e,Numancia,331,3.7,0.0,0.0,62.0,1.0,,Numancia
-,Mikel Saizar,es ESP,GK,1,1,0.0,0.0,2016-2017,b9ddfda6,Numancia,90,1.0,0.0,0.0,62.0,1.0,4289.0,Numancia
-,Binke Diabaté,ml MLI,FW,1,0,0.0,0.0,2016-2017,52470720,Numancia,19,0.2,0.0,0.0,62.0,12.0,4290.0,Numancia
-,Pablo Sanz,es ESP,FW,1,0,0.0,0.0,2016-2017,d8ac959b,Numancia,11,0.1,0.0,0.0,62.0,1.0,4291.0,Numancia
-,Gorka Alegría,es ESP,GK,0,0,,,2016-2017,1d4d2f37,Numancia,,,,,62.0,1.0,4292.0,Numancia
-,Sergio Madrigal,es ESP,MF,0,0,,,2016-2017,9339d947,Numancia,,,,,62.0,1.0,4293.0,Numancia
-,Jorge Pomareta Pablos,es ESP,DF,0,0,,,2016-2017,9d3e02ad,Numancia,,,,,62.0,1.0,4294.0,Numancia
-,Moha Sanhaji,ma MAR,MF,0,0,,,2016-2017,70c3e94,Numancia,,,,,62.0,26.0,4295.0,Numancia
-,Juan Silva,es ESP,FW,0,0,,,2016-2017,4ea9b5e,Numancia,,,,,62.0,1.0,4296.0,Numancia
-,Viti,es ESP,GK,0,0,,,2016-2017,b573a07,Numancia,,,,,62.0,1.0,4297.0,Numancia
-,﻿Aitor Fernández,es ESP,GK,41,41,0.0,0.0,2017-2018,01c3d54,Numancia,"3,690",41.0,0.0,0.0,62.0,1.0,,Numancia
-,Marc Mateu,es ESP,MF,42,40,8.0,2.0,2017-2018,d90fc36,Numancia,"3,608",40.1,4.0,0.0,62.0,1.0,,Numancia
-,Iñigo Pérez,es ESP,MF,38,38,7.0,2.0,2017-2018,bc61cc65,Numancia,"3,403",37.8,5.0,0.0,62.0,1.0,,Numancia
-,Pere Milla,es ESP,"MF,FW",35,32,3.0,6.0,2017-2018,335039a2,Numancia,"2,777",30.9,6.0,0.0,62.0,1.0,,Numancia
-,Alberto Escassi,es ESP,"DF,MF",33,29,0.0,1.0,2017-2018,154fe273,Numancia,"2,582",28.7,9.0,0.0,62.0,1.0,,Numancia
-,Carlos Gutiérrez,es ESP,DF,28,28,2.0,2.0,2017-2018,933de879,Numancia,"2,446",27.2,5.0,0.0,62.0,1.0,4298.0,Numancia
-,Manu del Moral,es ESP,FW,31,27,3.0,8.0,2017-2018,1026f88d,Numancia,"2,165",24.1,3.0,0.0,62.0,1.0,,Numancia
-,Dani Calvo,es ESP,DF,27,26,0.0,0.0,2017-2018,dd672e1f,Numancia,"2,310",25.7,5.0,0.0,62.0,1.0,,Numancia
-,Pape Maly Diamanka,sn SEN,MF,29,26,2.0,2.0,2017-2018,5d289e13,Numancia,"2,251",25.0,4.0,1.0,62.0,34.0,,Numancia
-,Pablo Valcarce,es ESP,MF,29,24,4.0,4.0,2017-2018,f51ee65e,Numancia,"2,027",22.5,7.0,0.0,62.0,1.0,,Numancia
-,Markel Etxeberria,es ESP,DF,24,22,0.0,0.0,2017-2018,da688437,Numancia,"1,891",21.0,5.0,1.0,62.0,1.0,,Numancia
-,Unai Medina,es ESP,DF,24,20,2.0,1.0,2017-2018,bda6ddeb,Numancia,"1,865",20.7,4.0,0.0,62.0,1.0,,Numancia
-,Adrián Ripa,es ESP,DF,20,19,0.0,0.0,2017-2018,c5a2ecfa,Numancia,"1,591",17.7,5.0,0.0,62.0,1.0,4268.0,Numancia
-,Guillermo,es ESP,"FW,MF",37,18,2.0,8.0,2017-2018,15107141,Numancia,"1,710",19.0,1.0,0.0,62.0,1.0,,Numancia
-,Saúl García,es ESP,DF,18,17,0.0,0.0,2017-2018,dafa5038,Numancia,"1,573",17.5,0.0,0.0,62.0,1.0,,Numancia
-,Unai Elgezabal,es ESP,DF,19,16,0.0,0.0,2017-2018,01cc0c90,Numancia,"1,367",15.2,5.0,0.0,62.0,1.0,4299.0,Numancia
-,Nacho,es ESP,MF,28,10,2.0,2.0,2017-2018,0c78c871,Numancia,"1,087",12.1,3.0,0.0,62.0,1.0,4285.0,Numancia
-,Dani Nieto,es ESP,MF,24,8,0.0,2.0,2017-2018,d7d46f3b,Numancia,839,9.3,0.0,1.0,62.0,1.0,4288.0,Numancia
-,Higinio Marín,es ESP,"FW,MF",25,7,0.0,6.0,2017-2018,61db425b,Numancia,840,9.3,1.0,0.0,62.0,1.0,,Numancia
-,Pablo Larrea,es ESP,MF,22,6,0.0,0.0,2017-2018,4c8810b,Numancia,738,8.2,4.0,0.0,62.0,1.0,,Numancia
-,Luis Valcarce,es ESP,"MF,DF",5,4,1.0,0.0,2017-2018,8e5cde3f,Numancia,382,4.2,1.0,0.0,62.0,1.0,4277.0,Numancia
-,Grego Sierra,es ESP,MF,5,3,0.0,0.0,2017-2018,2710e38b,Numancia,251,2.8,1.0,0.0,62.0,1.0,4300.0,Numancia
-,Munir,ma MAR,GK,1,1,0.0,0.0,2017-2018,fc8287db,Numancia,90,1.0,0.0,0.0,62.0,26.0,,Numancia
-,Gaizka Campos Bahillo,es ESP,GK,0,0,,,2017-2018,54a9bc73,Numancia,,,,,62.0,1.0,,Numancia
-,Ali Al Nemer,sa KSA,MF,0,0,,,2017-2018,4d20e7a7,Numancia,,,,,62.0,95.0,4301.0,Numancia
-,﻿Juan Carlos,es ESP,GK,39,39,0.0,0.0,2018-2019,bc5adc98,Numancia,"3,510",39.0,5.0,0.0,62.0,1.0,,Numancia
-,Pichu Atienza,es ESP,DF,38,38,0.0,2.0,2018-2019,caca,Numancia,"3,395",37.7,11.0,1.0,62.0,1.0,,Numancia
-,Fran Villalba,es ESP,"MF,FW",39,38,7.0,4.0,2018-2019,0d2603b5,Numancia,"3,303",36.7,6.0,1.0,62.0,1.0,,Numancia
-,Pape Maly Diamanka,sn SEN,MF,37,36,1.0,9.0,2018-2019,5d289e13,Numancia,"3,079",34.2,9.0,0.0,62.0,34.0,,Numancia
-,Alberto Escassi,es ESP,"MF,DF",34,34,1.0,2.0,2018-2019,154fe273,Numancia,"2,979",33.1,11.0,2.0,62.0,1.0,,Numancia
-,Unai Medina,es ESP,DF,26,25,1.0,1.0,2018-2019,bda6ddeb,Numancia,"2,002",22.2,4.0,2.0,62.0,1.0,,Numancia
-,Yaw Yeboah,gh GHA,"FW,MF",34,22,0.0,2.0,2018-2019,36292031,Numancia,"1,988",22.1,6.0,1.0,62.0,17.0,4302.0,Numancia
-,Carlos Gutiérrez,es ESP,DF,25,22,1.0,1.0,2018-2019,933de879,Numancia,"1,954",21.7,4.0,0.0,62.0,1.0,4298.0,Numancia
-,Marc Mateu,es ESP,"DF,FW",26,21,2.0,1.0,2018-2019,d90fc36,Numancia,"1,980",22.0,6.0,0.0,62.0,1.0,,Numancia
-,Alain Oyarzun,es ESP,"FW,MF",24,20,8.0,3.0,2018-2019,8159c16a,Numancia,"1,748",19.4,3.0,0.0,62.0,1.0,,Numancia
-,Cristian Ganea,ro ROU,DF,17,17,2.0,0.0,2018-2019,baf5665c,Numancia,"1,444",16.0,0.0,0.0,62.0,51.0,,Numancia
-,Guillermo,es ESP,FW,30,16,1.0,6.0,2018-2019,15107141,Numancia,"1,574",17.5,2.0,0.0,62.0,1.0,,Numancia
-,Luís Gustavo Ledes,pt POR,MF,17,16,0.0,0.0,2018-2019,44400941,Numancia,"1,411",15.7,6.0,0.0,62.0,3.0,4303.0,Numancia
-,Higinio Marín,es ESP,"FW,MF",28,16,0.0,2.0,2018-2019,61db425b,Numancia,"1,396",15.5,4.0,0.0,62.0,1.0,,Numancia
-,David Rodríguez,es ESP,FW,16,16,1.0,4.0,2018-2019,bae862bf,Numancia,"1,344",14.9,4.0,0.0,62.0,1.0,,Numancia
-,Nacho,es ESP,"MF,FW",26,14,1.0,2.0,2018-2019,0c78c871,Numancia,"1,478",16.4,2.0,0.0,62.0,1.0,4285.0,Numancia
-,Alejandro Sanz,es ESP,MF,19,11,0.0,0.0,2018-2019,514ee96,Numancia,977,10.9,2.0,0.0,62.0,1.0,,Numancia
-,Derik Osede,es ESP,DF,11,11,1.0,0.0,2018-2019,fdccf078,Numancia,940,10.4,1.0,0.0,62.0,1.0,,Numancia
-,Markel Etxeberria,es ESP,DF,12,10,0.0,0.0,2018-2019,da688437,Numancia,881,9.8,4.0,0.0,62.0,1.0,,Numancia
-,Adrián Ripa,es ESP,DF,8,7,0.0,0.0,2018-2019,c5a2ecfa,Numancia,550,6.1,4.0,0.0,62.0,1.0,4268.0,Numancia
-,Luis Valcarce,es ESP,"DF,MF",11,7,1.0,0.0,2018-2019,8e5cde3f,Numancia,547,6.1,0.0,0.0,62.0,1.0,4277.0,Numancia
-,Dani Calvo,es ESP,DF,7,6,0.0,0.0,2018-2019,dd672e1f,Numancia,547,6.1,1.0,0.0,62.0,1.0,,Numancia
-,Borja Viguera,es ESP,"MF,FW",23,4,1.0,1.0,2018-2019,d906a703,Numancia,683,7.6,2.0,0.0,62.0,1.0,,Numancia
-,Gaizka Campos Bahillo,es ESP,GK,2,2,0.0,0.0,2018-2019,54a9bc73,Numancia,180,2.0,0.0,0.0,62.0,1.0,,Numancia
-,Pablo Larrea,es ESP,MF,5,1,0.0,0.0,2018-2019,4c8810b,Numancia,209,2.3,1.0,0.0,62.0,1.0,,Numancia
-,Alberto Noguera,es ESP,MF,5,1,0.0,0.0,2018-2019,8a46f4c8,Numancia,163,1.8,0.0,0.0,62.0,1.0,,Numancia
-,Dani Nieto,es ESP,MF,3,1,0.0,0.0,2018-2019,d7d46f3b,Numancia,118,1.3,1.0,0.0,62.0,1.0,4288.0,Numancia
-,Jordi Sánchez,es ESP,FW,7,0,0.0,1.0,2018-2019,658117b6,Numancia,108,1.2,3.0,0.0,62.0,1.0,,Numancia
-,Grego Sierra,es ESP,DF,2,0,0.0,0.0,2018-2019,2710e38b,Numancia,35,0.4,1.0,0.0,62.0,1.0,4300.0,Numancia
-,Marcos Isla,es ESP,DF,0,0,,,2018-2019,894e3bdb,Numancia,,,,,62.0,1.0,4304.0,Numancia
-,Roberto Jara,es ESP,GK,0,0,,,2018-2019,47db4ef,Numancia,,,,,62.0,1.0,4305.0,Numancia
-,Moha Sanhaji,ma MAR,MF,0,0,,,2018-2019,70c3e94,Numancia,,,,,62.0,26.0,4295.0,Numancia
-,Raúl Vallejo,es ESP,MF,0,0,,,2018-2019,bbaec40e,Numancia,,,,,62.0,1.0,4306.0,Numancia
-,﻿Dani Barrio,es ESP,GK,42,42,0.0,0.0,2019-2020,b56f8c7f,Numancia,"3,780",42.0,1.0,0.0,62.0,1.0,,Numancia
-,Iván Calero,es ESP,DF,37,37,6.0,2.0,2019-2020,6724c5a9,Numancia,"3,139",34.9,10.0,1.0,62.0,1.0,,Numancia
-,Alberto Escassi,es ESP,"MF,DF",35,34,1.0,7.0,2019-2020,154fe273,Numancia,"3,036",33.7,12.0,1.0,62.0,1.0,,Numancia
-,Higinio Marín,es ESP,FW,38,34,2.0,10.0,2019-2020,61db425b,Numancia,"3,017",33.5,9.0,1.0,62.0,1.0,,Numancia
-,Marc Mateu,es ESP,MF,36,32,4.0,1.0,2019-2020,d90fc36,Numancia,"2,750",30.6,4.0,0.0,62.0,1.0,,Numancia
-,Curro,es ESP,MF,34,31,5.0,13.0,2019-2020,f9a225f5,Numancia,"2,614",29.0,7.0,1.0,62.0,1.0,,Numancia
-,Luís Gustavo Ledes,pt POR,MF,33,30,0.0,0.0,2019-2020,44400941,Numancia,"2,621",29.1,10.0,1.0,62.0,3.0,4303.0,Numancia
-,Héctor Hernández,es ESP,DF,31,30,0.0,0.0,2019-2020,76ee80ee,Numancia,"2,578",28.6,6.0,1.0,62.0,1.0,,Numancia
-,Derik Osede,es ESP,DF,25,25,2.0,2.0,2019-2020,fdccf078,Numancia,"2,192",24.4,0.0,0.0,62.0,1.0,,Numancia
-,Alex Sola,es ESP,"MF,DF",31,23,2.0,1.0,2019-2020,5fa714d5,Numancia,"2,217",24.6,4.0,0.0,62.0,1.0,,Numancia
-,Moha Sanhaji,ma MAR,MF,34,23,3.0,1.0,2019-2020,70c3e94,Numancia,"2,158",24.0,1.0,0.0,62.0,26.0,4295.0,Numancia
-,Adri Castellano,es ESP,DF,21,18,0.0,1.0,2019-2020,3dc7c57d,Numancia,"1,582",17.6,2.0,0.0,62.0,1.0,4307.0,Numancia
-,Carlos Gutiérrez,es ESP,DF,17,16,0.0,2.0,2019-2020,933de879,Numancia,"1,456",16.2,7.0,1.0,62.0,1.0,4298.0,Numancia
-,Erik Morán,es ESP,MF,13,13,0.0,0.0,2019-2020,6941883f,Numancia,"1,125",12.5,4.0,0.0,62.0,1.0,,Numancia
-,Alberto Noguera,es ESP,MF,23,12,1.0,1.0,2019-2020,8a46f4c8,Numancia,"1,032",11.5,6.0,0.0,62.0,1.0,,Numancia
-,Antonio Otegui,es ESP,MF,19,10,0.0,0.0,2019-2020,b7d5bc5e,Numancia,888,9.9,1.0,0.0,62.0,1.0,,Numancia
-,Bernardo Cruz,es ESP,DF,8,8,0.0,0.0,2019-2020,47872f21,Numancia,613,6.8,4.0,0.0,62.0,1.0,,Numancia
-,Nacho,es ESP,"MF,DF",22,7,2.0,0.0,2019-2020,0c78c871,Numancia,867,9.6,5.0,0.0,62.0,1.0,4285.0,Numancia
-,Igor Zlatanović,rs SRB,"FW,MF",15,7,1.0,2.0,2019-2020,12a26f10,Numancia,697,7.7,0.0,0.0,62.0,28.0,4308.0,Numancia
-,Admonio Vicente Gomes,gw GNB,DF,8,7,0.0,0.0,2019-2020,7548bb42,Numancia,592,6.6,1.0,0.0,62.0,93.0,4309.0,Numancia
-,Alejandro Sanz,es ESP,MF,13,7,0.0,0.0,2019-2020,514ee96,Numancia,549,6.1,1.0,0.0,62.0,1.0,,Numancia
-,Álvaro Aguado,es ESP,MF,8,4,1.0,0.0,2019-2020,014aa7bd,Numancia,459,5.1,1.0,0.0,62.0,1.0,,Numancia
-,Vidorreta,es ESP,MF,6,4,0.0,0.0,2019-2020,0ac8428,Numancia,300,3.3,1.0,0.0,62.0,1.0,4310.0,Numancia
-,Guillermo,es ESP,FW,16,3,0.0,2.0,2019-2020,15107141,Numancia,369,4.1,2.0,0.0,62.0,1.0,,Numancia
-,Alain Oyarzun,es ESP,MF,6,3,0.0,0.0,2019-2020,8159c16a,Numancia,252,2.8,1.0,0.0,62.0,1.0,,Numancia
-,Néstor Albiach,es ESP,FW,16,2,0.0,0.0,2019-2020,8887813b,Numancia,390,4.3,1.0,0.0,62.0,1.0,4311.0,Numancia
-,Adri Herrera,es ESP,FW,9,0,0.0,0.0,2019-2020,b4fce2d,Numancia,101,1.1,1.0,0.0,62.0,1.0,4312.0,Numancia
-,Ali Radjel,mr MTN,MF,3,0,0.0,0.0,2019-2020,77029e76,Numancia,19,0.2,0.0,0.0,62.0,94.0,,Numancia
-,Abel Conejo,es ESP,MF,1,0,0.0,0.0,2019-2020,0953ecc0,Numancia,8,0.1,0.0,0.0,62.0,1.0,4314.0,Numancia
-,Juan Carlos,es ESP,GK,0,0,0.0,0.0,2019-2020,bc5adc98,Numancia,,0.0,1.0,0.0,62.0,1.0,,Numancia
-,Diego Cámara,es ESP,DF,0,0,,,2019-2020,125dce8c,Numancia,,,,,62.0,1.0,4315.0,Numancia
-,Daniel Ceinos,es ESP,DF,0,0,,,2019-2020,925d8d1a,Numancia,,,,,62.0,1.0,4316.0,Numancia
-,De Frutos,es ESP,MF,0,0,,,2019-2020,f6efe5c,Numancia,,,,,62.0,1.0,4317.0,Numancia
-,Marcos Isla,es ESP,DF,0,0,,,2019-2020,894e3bdb,Numancia,,,,,62.0,1.0,4304.0,Numancia
-,Roberto Jara,es ESP,GK,0,0,,,2019-2020,47db4ef,Numancia,,,,,62.0,1.0,4305.0,Numancia
-,Alfredo Sualdea López,es ESP,FW,0,0,,,2019-2020,2813b5b3,Numancia,,,,,62.0,1.0,4318.0,Numancia
-,﻿David Castro,es ESP,DF,2,2,0.0,0.0,2020-2021,28685101,Numancia,180.0,2.0,0.0,0.0,62.0,1.0,4319.0,Numancia
-,Roberto Jara,es ESP,GK,2,2,0.0,0.0,2020-2021,47db4ef,Numancia,180.0,2.0,0.0,0.0,62.0,1.0,4305.0,Numancia
-,Fran Manzanara,es ESP,MF,2,2,0.0,1.0,2020-2021,bbfaeda4,Numancia,180.0,2.0,0.0,0.0,62.0,1.0,,Numancia
-,Asier Benito,es ESP,FW,2,2,0.0,0.0,2020-2021,02a111ed,Numancia,159.0,1.8,0.0,0.0,62.0,1.0,,Numancia
-,Borja López,es ESP,DF,2,2,0.0,0.0,2020-2021,6ea37f82,Numancia,159.0,1.8,1.0,0.0,62.0,1.0,4320.0,Numancia
-,Moha Sanhaji,ma MAR,"MF,DF",2,2,0.0,1.0,2020-2021,70c3e94,Numancia,158.0,1.8,1.0,0.0,62.0,26.0,4295.0,Numancia
-,Juan Carlos Menudo Domínguez,es ESP,MF,2,1,0.0,1.0,2020-2021,b6be6142,Numancia,111.0,1.2,0.0,0.0,62.0,1.0,,Numancia
-,Tony Gabarre,es ESP,FW,2,1,0.0,0.0,2020-2021,31af3559,Numancia,111.0,1.2,0.0,0.0,62.0,1.0,4321.0,Numancia
-,Lillo,es ESP,DF,2,1,0.0,0.0,2020-2021,476ca810,Numancia,111.0,1.2,0.0,0.0,62.0,1.0,,Numancia
-,Álvaro Traver,es ESP,MF,2,1,0.0,0.0,2020-2021,f608a6b0,Numancia,105.0,1.2,0.0,0.0,62.0,1.0,,Numancia
-,Federico Bikoro,gq EQG,MF,1,1,0.0,0.0,2020-2021,d28f256,Numancia,90.0,1.0,0.0,0.0,62.0,10.0,,Numancia
-,Diego Cámara,es ESP,DF,1,1,0.0,0.0,2020-2021,125dce8c,Numancia,90.0,1.0,1.0,0.0,62.0,1.0,4315.0,Numancia
-,Antonio Cotán,es ESP,MF,1,1,0.0,0.0,2020-2021,d92dd30e,Numancia,90.0,1.0,1.0,0.0,62.0,1.0,,Numancia
-,José Fran,es ESP,DF,1,1,0.0,0.0,2020-2021,9da2a2b2,Numancia,90.0,1.0,0.0,0.0,62.0,1.0,,Numancia
-,De Frutos,es ESP,DF,1,1,0.0,0.0,2020-2021,f6efe5c,Numancia,77.0,0.9,1.0,0.0,62.0,1.0,4317.0,Numancia
-,Jesús Tamayo,es ESP,FW,1,1,0.0,1.0,2020-2021,1d528a34,Numancia,69.0,0.8,0.0,0.0,62.0,1.0,4322.0,Numancia
-,Roberto Corral,es ESP,DF,1,0,0.0,1.0,2020-2021,25a1d446,Numancia,13.0,0.1,0.0,0.0,62.0,1.0,4323.0,Numancia
-,Ali Radjel,mr MTN,MF,1,0,0.0,0.0,2020-2021,77029e76,Numancia,7.0,0.1,0.0,0.0,62.0,94.0,,Numancia
-,Ronald Gbizie,ci CIV,MF,0,0,,,2020-2021,34a19af9,Numancia,,,,,62.0,35.0,4324.0,Numancia
-,Ximo Miralles,es ESP,GK,0,0,,,2020-2021,5da934d6,Numancia,,,,,62.0,1.0,4325.0,Numancia
-,Sillero,es ESP,DF,0,0,,,2020-2021,46e2990,Numancia,,,,,62.0,1.0,,Numancia
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Carlos Cuéllar,es ESP,DF,39,39,0.0,3.0,2002-2003,/en/players/1222ab35/Carlos-Cuellar,1222ab35,Numancia,"3,479",38.7,9.0,1.0,62,1.0,2002,Numancia
+,Unai Expósito,es ESP,DF,38,38,0.0,1.0,2002-2003,/en/players/3aca2200/Unai-Exposito,3aca2200,Numancia,"3,420",38.0,9.0,0.0,62,1.0,1258,Numancia
+,Claudio Marini,ar ARG,MF,33,31,2.0,2.0,2002-2003,/en/players/446a7d68/Claudio-Marini,446a7d68,Numancia,"2,649",29.4,10.0,1.0,62,5.0,4222,Numancia
+,Jaime Molina,es ESP,DF,30,29,0.0,0.0,2002-2003,/en/players/2e1f6f32/Jaime-Molina,2e1f6f32,Numancia,"2,457",27.3,13.0,0.0,62,1.0,4223,Numancia
+,Daniel Fagiani,ar ARG,DF,28,28,1.0,4.0,2002-2003,/en/players/e7524ca1/Daniel-Fagiani,7524ca1,Numancia,"2,307",25.6,15.0,2.0,62,5.0,4224,Numancia
+,Daniel N'Gom Kome,cm CMR,MF,32,26,4.0,5.0,2002-2003,/en/players/8076455d/Daniel-NGom-Kome,8076455d,Numancia,"2,305",25.6,9.0,1.0,62,36.0,1600,Numancia
+,Luis García,es ESP,GK,26,26,0.0,0.0,2002-2003,/en/players/a716e5a4/Luis-Garcia,716e5a4,Numancia,"2,284",25.4,4.0,2.0,62,1.0,3549,Numancia
+,Miguel Pérez,es ESP,MF,31,23,5.0,4.0,2002-2003,/en/players/b3f9e645/Miguel-Perez,b3f9e645,Numancia,"2,156",24.0,1.0,0.0,62,1.0,3300,Numancia
+,Miguel Ángel Núñez Acosta,es ESP,MF,31,22,1.0,4.0,2002-2003,/en/players/26030e9b/Miguel-Angel-Nunez-Acosta,26030e9b,Numancia,"1,748",19.4,6.0,0.0,62,1.0,4225,Numancia
+,Pacheta,es ESP,MF,28,19,1.0,2.0,2002-2003,/en/players/7545007b/Pacheta,7545007b,Numancia,"1,670",18.6,6.0,0.0,62,1.0,4226,Numancia
+,Jesús Velasco,es ESP,DF,23,18,1.0,0.0,2002-2003,/en/players/13f8074d/Jesus-Velasco,13f8074d,Numancia,"1,488",16.5,4.0,0.0,62,1.0,4227,Numancia
+,Pedro Ojeda,ar ARG,MF,26,16,3.0,2.0,2002-2003,/en/players/60b2ae27/Pedro-Ojeda,60b2ae27,Numancia,"1,558",17.3,5.0,1.0,62,5.0,4228,Numancia
+,Diego Jaume,uy URU,DF,21,16,0.0,0.0,2002-2003,/en/players/9663d985/Diego-Jaume,9663d985,Numancia,"1,537",17.1,12.0,0.0,62,8.0,4229,Numancia
+,Álvaro Núñez,uy URU,GK,17,16,0.0,0.0,2002-2003,/en/players/4267e1a9/Alvaro-Nunez,4267e1a9,Numancia,"1,496",16.6,1.0,0.0,62,8.0,4230,Numancia
+,Octavio Viñals,es ESP,MF,22,15,1.0,2.0,2002-2003,/en/players/c2a9f580/Octavio-Vinals,c2a9f580,Numancia,"1,482",16.5,8.0,0.0,62,1.0,4231,Numancia
+,Laurențiu Roșu,ro ROU,"FW,MF",26,15,0.0,5.0,2002-2003,/en/players/83e63626/Laurentiu-Rosu,83e63626,Numancia,"1,454",16.2,4.0,0.0,62,51.0,3156,Numancia
+,Patrick Suffo,cm CMR,FW,18,15,2.0,4.0,2002-2003,/en/players/74f84d64/Patrick-Suffo,74f84d64,Numancia,"1,337",14.9,7.0,0.0,62,36.0,4232,Numancia
+,Carlos Aranda,es ESP,FW,15,15,1.0,6.0,2002-2003,/en/players/2b60c45d/Carlos-Aranda,2b60c45d,Numancia,"1,124",12.5,2.0,1.0,62,1.0,1810,Numancia
+,Sergio Sestelo,es ESP,FW,26,13,0.0,3.0,2002-2003,/en/players/3495d0f8/Sergio-Sestelo,3495d0f8,Numancia,"1,339",14.9,2.0,0.0,62,1.0,4233,Numancia
+,José Antonio Culebras,es ESP,DF,18,13,0.0,0.0,2002-2003,/en/players/c8b270a2/Jose-Antonio-Culebras,c8b270a2,Numancia,"1,225",13.6,2.0,0.0,62,1.0,4115,Numancia
+,Manolo Sánchez,es ESP,MF,15,9,1.0,0.0,2002-2003,/en/players/b40c4904/Manolo-Sanchez,b40c4904,Numancia,869,9.7,3.0,0.0,62,1.0,651,Numancia
+,Rafael Riaño Torrecilla,es ESP,,12,7,0.0,0.0,2002-2003,/en/players/d7ae2ca1/Rafael-Riano-Torrecilla,d7ae2ca1,Numancia,660,7.3,2.0,0.0,62,1.0,90115,Numancia
+,Sergio Cruz,,,9,7,1.0,1.0,2002-2003,No detected,,Numancia,517,5.7,0.0,0.0,62,,90116,Numancia
+,André Schei Lindbæk,no NOR,FW,7,3,1.0,0.0,2002-2003,/en/players/198eb259/Andre-Schei-Lindbaek,198eb259,Numancia,335,3.7,0.0,0.0,62,21.0,4234,Numancia
+,Gallego,es ESP,MF,4,3,0.0,0.0,2002-2003,/en/players/94927f28/Gallego,94927f28,Numancia,272,3.0,1.0,0.0,62,1.0,4235,Numancia
+,Andres Armada,,,5,0,0.0,0.0,2002-2003,No detected,,Numancia,77,0.9,0.0,0.0,62,,90117,Numancia
+,Mario,es ESP,MF,2,0,0.0,0.0,2002-2003,/en/players/4903e93a/Mario,4903e93a,Numancia,43,0.5,0.0,0.0,62,1.0,4246,Numancia
+,﻿Luis García,es ESP,GK,42,42,0.0,0.0,2003-2004,/en/players/a716e5a4/Luis-Garcia,716e5a4,Numancia,"3,775",41.9,3.0,0.0,62,1.0,3549,Numancia
+,José Antonio Culebras,es ESP,DF,41,39,1.0,4.0,2003-2004,/en/players/c8b270a2/Jose-Antonio-Culebras,c8b270a2,Numancia,"3,582",39.8,8.0,0.0,62,1.0,4115,Numancia
+,Jesús Velasco,es ESP,DF,39,39,2.0,1.0,2003-2004,/en/players/13f8074d/Jesus-Velasco,13f8074d,Numancia,"3,364",37.4,9.0,1.0,62,1.0,4227,Numancia
+,Juan Carlos Moreno,es ESP,MF,41,38,11.0,8.0,2003-2004,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,"3,477",38.6,7.0,0.0,62,1.0,4236,Numancia
+,Jaime Molina,es ESP,DF,38,37,0.0,2.0,2003-2004,/en/players/2e1f6f32/Jaime-Molina,2e1f6f32,Numancia,"3,078",34.2,7.0,1.0,62,1.0,4223,Numancia
+,Óscar Pulido,,MF,34,34,0.0,1.0,2003-2004,/en/players/7e01b9b3/Oscar-Pulido,7e01b9b3,Numancia,"2,949",32.8,9.0,0.0,62,,90078,Numancia
+,Daniel Fagiani,ar ARG,DF,34,34,4.0,6.0,2003-2004,/en/players/e7524ca1/Daniel-Fagiani,7524ca1,Numancia,"2,845",31.6,19.0,2.0,62,5.0,4224,Numancia
+,Julio Pineda,es ESP,FW,36,33,3.0,11.0,2003-2004,/en/players/09fc23e7/Julio-Pineda,09fc23e7,Numancia,"2,779",30.9,9.0,0.0,62,1.0,4237,Numancia
+,Antonio González,es ESP,DF,32,32,0.0,4.0,2003-2004,/en/players/89f9eead/Antonio-Gonzalez,89f9eead,Numancia,"2,807",31.2,9.0,0.0,62,1.0,4238,Numancia
+,Miguel Pérez,es ESP,MF,35,26,1.0,2.0,2003-2004,/en/players/b3f9e645/Miguel-Perez,b3f9e645,Numancia,"2,511",27.9,2.0,0.0,62,1.0,3300,Numancia
+,Laurențiu Roșu,ro ROU,"FW,MF",36,26,2.0,8.0,2003-2004,/en/players/83e63626/Laurentiu-Rosu,83e63626,Numancia,"2,211",24.6,5.0,0.0,62,51.0,3156,Numancia
+,Daniel N'Gom Kome,cm CMR,MF,30,24,5.0,6.0,2003-2004,/en/players/8076455d/Daniel-NGom-Kome,8076455d,Numancia,"1,975",21.9,6.0,2.0,62,36.0,1600,Numancia
+,Octavio Viñals,es ESP,MF,16,10,1.0,0.0,2003-2004,/en/players/c2a9f580/Octavio-Vinals,c2a9f580,Numancia,772,8.6,0.0,1.0,62,1.0,4231,Numancia
+,Juan Navarro,,,17,8,0.0,0.0,2003-2004,No detected,,Numancia,743,8.3,2.0,0.0,62,,90118,Numancia
+,Mikel Alonso,es ESP,MF,10,7,2.0,1.0,2003-2004,/en/players/eab32eb2/Mikel-Alonso,b32eb2,Numancia,654,7.3,1.0,0.0,62,1.0,207,Numancia
+,Chota,es ESP,FW,12,7,0.0,1.0,2003-2004,/en/players/6e8a6c53/Chota,6e8a6c53,Numancia,617,6.9,3.0,0.0,62,1.0,4105,Numancia
+,Alberto Toril,es ESP,MF,8,7,0.0,0.0,2003-2004,/en/players/437bfac6/Alberto-Toril,437bfac6,Numancia,509,5.7,3.0,1.0,62,1.0,4239,Numancia
+,Miguel Ángel Núñez Acosta,es ESP,MF,19,5,1.0,1.0,2003-2004,/en/players/26030e9b/Miguel-Angel-Nunez-Acosta,26030e9b,Numancia,570,6.3,0.0,0.0,62,1.0,4225,Numancia
+,Xisco Nadal,es ESP,"FW,MF",15,5,0.0,1.0,2003-2004,/en/players/5dc11264/Xisco-Nadal,5dc11264,Numancia,534,5.9,1.0,0.0,62,1.0,2718,Numancia
+,Luis Casado,,,6,3,0.0,0.0,2003-2004,No detected,,Numancia,275,3.1,2.0,0.0,62,,90092,Numancia
+,Carlos Merino,es ESP,MF,16,2,0.0,1.0,2003-2004,/en/players/443c8c9a/Carlos-Merino,443c8c9a,Numancia,456,5.1,2.0,0.0,62,1.0,1252,Numancia
+,Sergio Sestelo,es ESP,FW,15,2,0.0,2.0,2003-2004,/en/players/3495d0f8/Sergio-Sestelo,3495d0f8,Numancia,439,4.9,1.0,0.0,62,1.0,4233,Numancia
+,Juan Pedro,,,1,1,0.0,0.0,2003-2004,No detected,,Numancia,65,0.7,0.0,0.0,62,,90119,Numancia
+,Juan Sanchez,,,2,1,0.0,0.0,2003-2004,No detected,,Numancia,54,0.6,1.0,0.0,62,,90120,Numancia
+,Rafael Riaño Torrecilla,es ESP,,10,0,0.0,0.0,2003-2004,/en/players/d7ae2ca1/Rafael-Riano-Torrecilla,d7ae2ca1,Numancia,336,3.7,2.0,0.0,62,1.0,90115,Numancia
+,﻿Juan Cruz Ochoa,es ESP,DF,33,33,0.0,1.0,2004-2005,/en/players/301ff22a/Juan-Cruz-Ochoa,301ff22a,Numancia,"2,843",31.6,9.0,1.0,62,1.0,3276,Numancia
+,Stéphane Pignol,fr FRA,DF,33,32,2.0,0.0,2004-2005,/en/players/ca3ae27c/Stephane-Pignol,ca3ae27c,Numancia,"2,929",32.5,10.0,1.0,62,4.0,3563,Numancia
+,César Palacios,es ESP,MF,34,28,0.0,0.0,2004-2005,/en/players/dc32054b/Cesar-Palacios,dc32054b,Numancia,"2,568",28.5,5.0,0.0,62,1.0,1995,Numancia
+,Juanma,es ESP,GK,25,25,0.0,0.0,2004-2005,/en/players/943f79f6/Juanma,943f79f6,Numancia,"2,250",25.0,1.0,0.0,62,1.0,2135,Numancia
+,Luis Tevenet,es ESP,FW,30,24,2.0,6.0,2004-2005,/en/players/95dd66c6/Luis-Tevenet,95dd66c6,Numancia,"1,955",21.7,6.0,1.0,62,1.0,4240,Numancia
+,Juanlu,es ESP,MF,27,22,4.0,2.0,2004-2005,/en/players/94b88487/Juanlu,94b88487,Numancia,"1,951",21.7,6.0,0.0,62,1.0,1389,Numancia
+,Patricio Graff,ar ARG,DF,27,22,1.0,1.0,2004-2005,/en/players/b4a2cf8b/Patricio-Graff,b4a2cf8b,Numancia,"1,940",21.6,6.0,1.0,62,5.0,3402,Numancia
+,Jaime Molina,es ESP,DF,22,21,0.0,1.0,2004-2005,/en/players/2e1f6f32/Jaime-Molina,2e1f6f32,Numancia,"1,794",19.9,7.0,0.0,62,1.0,4223,Numancia
+,Juanpa,es ESP,DF,25,20,1.0,0.0,2004-2005,/en/players/75ef1517/Juanpa,75ef1517,Numancia,"1,777",19.7,0.0,1.0,62,1.0,4241,Numancia
+,Pablo Sanz Iniesta,es ESP,MF,21,18,0.0,1.0,2004-2005,/en/players/f56d83dd/Pablo-Sanz-Iniesta,f56d83dd,Numancia,"1,407",15.6,4.0,0.0,62,1.0,3414,Numancia
+,Julio Pineda,es ESP,FW,26,16,1.0,1.0,2004-2005,/en/players/09fc23e7/Julio-Pineda,09fc23e7,Numancia,"1,551",17.2,2.0,0.0,62,1.0,4237,Numancia
+,Jesús Velasco,es ESP,DF,19,16,1.0,0.0,2004-2005,/en/players/13f8074d/Jesus-Velasco,13f8074d,Numancia,"1,437",16.0,3.0,0.0,62,1.0,4227,Numancia
+,Antonio González,es ESP,DF,19,15,0.0,1.0,2004-2005,/en/players/89f9eead/Antonio-Gonzalez,89f9eead,Numancia,"1,450",16.1,8.0,0.0,62,1.0,4238,Numancia
+,Javier Tarantino,es ESP,DF,15,15,0.0,1.0,2004-2005,/en/players/0bf40bdb/Javier-Tarantino,0bf40bdb,Numancia,"1,294",14.4,4.0,0.0,62,1.0,1263,Numancia
+,Carlos Merino,es ESP,MF,27,14,1.0,5.0,2004-2005,/en/players/443c8c9a/Carlos-Merino,443c8c9a,Numancia,"1,358",15.1,3.0,0.0,62,1.0,1252,Numancia
+,Juan Carlos Moreno,es ESP,MF,18,14,3.0,1.0,2004-2005,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,"1,271",14.1,6.0,0.0,62,1.0,4236,Numancia
+,Ramón Ros,es ESP,MF,17,14,0.0,0.0,2004-2005,/en/players/0ad2ce10/Ramon-Ros,0ad2ce10,Numancia,"1,106",12.3,5.0,0.0,62,1.0,1085,Numancia
+,Miguel Pérez,es ESP,MF,19,13,4.0,1.0,2004-2005,/en/players/b3f9e645/Miguel-Perez,b3f9e645,Numancia,"1,209",13.4,1.0,0.0,62,1.0,3300,Numancia
+,Álvaro Núñez,uy URU,GK,11,11,0.0,0.0,2004-2005,/en/players/4267e1a9/Alvaro-Nunez,4267e1a9,Numancia,990,11.0,2.0,0.0,62,8.0,4230,Numancia
+,Miguel,es ESP,FW,17,10,0.0,4.0,2004-2005,/en/players/3ab5e487/Miguel,3ab5e487,Numancia,"1,068",11.9,4.0,1.0,62,1.0,4242,Numancia
+,Lee Chun-soo,kr KOR,"FW,MF",15,10,0.0,0.0,2004-2005,/en/players/e956c973/Lee-Chun-soo,956c973,Numancia,946,10.5,3.0,0.0,62,30.0,214,Numancia
+,Aldo Osorio,ar ARG,FW,13,10,0.0,3.0,2004-2005,/en/players/c366b111/Aldo-Osorio,c366b111,Numancia,826,9.2,1.0,0.0,62,5.0,4243,Numancia
+,Silvio González,ar ARG,FW,7,3,2.0,0.0,2004-2005,/en/players/6db4e9a5/Silvio-Gonzalez,6db4e9a5,Numancia,320,3.6,1.0,0.0,62,5.0,4244,Numancia
+,Kostas Kiassos,gr GRE,MF,3,3,,0.0,2004-2005,/en/players/2bddd706/Kostas-Kiassos,2bddd706,Numancia,166,1.8,0.0,0.0,62,55.0,4245,Numancia
+,Miguel Ángel Núñez Acosta,es ESP,MF,8,2,0.0,0.0,2004-2005,/en/players/26030e9b/Miguel-Angel-Nunez-Acosta,26030e9b,Numancia,347,3.9,0.0,0.0,62,1.0,4225,Numancia
+,Toché,es ESP,FW,5,2,,0.0,2004-2005,/en/players/64e35e11/Toche,64e35e11,Numancia,200,2.2,0.0,0.0,62,1.0,483,Numancia
+,Diego de Miguel,es ESP,GK,2,2,0.0,0.0,2004-2005,/en/players/4b798eab/Diego-de-Miguel,4b798eab,Numancia,180,2.0,0.0,0.0,62,1.0,4264,Numancia
+,Rafa Jordà,es ESP,FW,3,1,,0.0,2004-2005,/en/players/05e805eb/Rafa-Jorda,05e805eb,Numancia,170,1.9,0.0,0.0,62,1.0,4149,Numancia
+,Mario,es ESP,MF,4,1,,0.0,2004-2005,/en/players/4903e93a/Mario,4903e93a,Numancia,170,1.9,1.0,0.0,62,1.0,4246,Numancia
+,Sergio Sestelo,es ESP,FW,3,1,,0.0,2004-2005,/en/players/3495d0f8/Sergio-Sestelo,3495d0f8,Numancia,132,1.5,0.0,0.0,62,1.0,4233,Numancia
+,﻿Juanpa,es ESP,DF,40,36,3.0,0.0,2005-2006,/en/players/75ef1517/Juanpa,75ef1517,Numancia,"3,327",37.0,5.0,1.0,62,1.0,4241,Numancia
+,César Palacios,es ESP,MF,39,36,1.0,5.0,2005-2006,/en/players/dc32054b/Cesar-Palacios,dc32054b,Numancia,"3,153",35.0,8.0,0.0,62,1.0,1995,Numancia
+,Juan Carlos Moreno,es ESP,MF,37,35,5.0,8.0,2005-2006,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,"2,732",30.4,8.0,1.0,62,1.0,4236,Numancia
+,Javier del Pino,es ESP,FW,39,34,8.0,3.0,2005-2006,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"3,075",34.2,4.0,0.0,62,1.0,4247,Numancia
+,Luis Tevenet,es ESP,FW,34,31,3.0,7.0,2005-2006,/en/players/95dd66c6/Luis-Tevenet,95dd66c6,Numancia,"2,635",29.3,12.0,2.0,62,1.0,4240,Numancia
+,Juan Cruz Ochoa,es ESP,DF,31,31,0.0,0.0,2005-2006,/en/players/301ff22a/Juan-Cruz-Ochoa,301ff22a,Numancia,"2,565",28.5,7.0,2.0,62,1.0,3276,Numancia
+,Antonio González,es ESP,DF,30,29,0.0,0.0,2005-2006,/en/players/89f9eead/Antonio-Gonzalez,89f9eead,Numancia,"2,478",27.5,10.0,1.0,62,1.0,4238,Numancia
+,Juan Pablo Colinas,es ESP,GK,28,28,0.0,0.0,2005-2006,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Numancia,"2,448",27.2,0.0,1.0,62,1.0,3274,Numancia
+,Patricio Graff,ar ARG,DF,27,25,2.0,0.0,2005-2006,/en/players/b4a2cf8b/Patricio-Graff,b4a2cf8b,Numancia,"2,264",25.2,8.0,0.0,62,5.0,3402,Numancia
+,Jordi Navas,,,24,19,0.0,5.0,2005-2006,No detected,,Numancia,"1,691",18.8,6.0,0.0,62,,90121,Numancia
+,Ariel Montenegro,ar ARG,MF,19,19,5.0,9.0,2005-2006,/en/players/d5835cca/Ariel-Montenegro,d5835cca,Numancia,"1,680",18.7,7.0,0.0,62,5.0,4248,Numancia
+,José Manuel Yanguas,es ESP,DF,19,16,0.0,0.0,2005-2006,/en/players/ae3a7b7e/Jose-Manuel-Yanguas,3a7b7e,Numancia,"1,445",16.1,5.0,0.0,62,1.0,1987,Numancia
+,Gorka Azkorra,es ESP,FW,26,16,3.0,1.0,2005-2006,/en/players/b6ba90f9/Gorka-Azkorra,b6ba90f9,Numancia,"1,434",15.9,0.0,0.0,62,1.0,1256,Numancia
+,Rubén López,es ESP,DF,14,14,0.0,2.0,2005-2006,/en/players/e2403f1e/Ruben-Lopez,2403f1e,Numancia,"1,171",13.0,8.0,0.0,62,1.0,4249,Numancia
+,Javier Tarantino,es ESP,DF,14,14,0.0,0.0,2005-2006,/en/players/0bf40bdb/Javier-Tarantino,0bf40bdb,Numancia,"1,149",12.8,1.0,0.0,62,1.0,1263,Numancia
+,Julio Pineda,es ESP,FW,27,10,1.0,2.0,2005-2006,/en/players/09fc23e7/Julio-Pineda,09fc23e7,Numancia,"1,305",14.5,0.0,0.0,62,1.0,4237,Numancia
+,Miguel,es ESP,FW,23,8,0.0,3.0,2005-2006,/en/players/3ab5e487/Miguel,3ab5e487,Numancia,821,9.1,2.0,0.0,62,1.0,4242,Numancia
+,Álvaro Núñez,uy URU,GK,10,8,0.0,0.0,2005-2006,/en/players/4267e1a9/Alvaro-Nunez,4267e1a9,Numancia,793,8.8,1.0,0.0,62,8.0,4230,Numancia
+,Francisco Corredoira,,,25,8,1.0,1.0,2005-2006,/en/players/b71dd465/Francisco-Corredoira,b71dd465,Numancia,777,8.6,3.0,0.0,62,,90122,Numancia
+,Hamilton Ricard,co COL,FW,16,8,0.0,2.0,2005-2006,/en/players/e08d8909/Hamilton-Ricard,08d8909,Numancia,763,8.5,2.0,1.0,62,19.0,4250,Numancia
+,Roberto Trashorras,es ESP,MF,12,8,1.0,1.0,2005-2006,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Numancia,720,8.0,2.0,0.0,62,1.0,705,Numancia
+,Mario,es ESP,MF,7,6,0.0,0.0,2005-2006,/en/players/4903e93a/Mario,4903e93a,Numancia,499,5.5,0.0,0.0,62,1.0,4246,Numancia
+,Juanma,es ESP,GK,5,5,0.0,0.0,2005-2006,/en/players/943f79f6/Juanma,943f79f6,Numancia,385,4.3,2.0,1.0,62,1.0,2135,Numancia
+,Ibón Gutiérrez,es ESP,MF,10,4,1.0,0.0,2005-2006,/en/players/2354802e/Ibon-Gutierrez,2354802e,Numancia,495,5.5,3.0,0.0,62,1.0,1262,Numancia
+,Antonio Tomillo,,,4,4,0.0,0.0,2005-2006,No detected,,Numancia,360,4.0,2.0,0.0,62,,90123,Numancia
+,Pablo Niño,es ESP,MF,13,3,0.0,1.0,2005-2006,/en/players/eb477bff/Pablo-Nino,b477bff,Numancia,454,5.0,2.0,0.0,62,1.0,1382,Numancia
+,Alberto Monteagudo,es ESP,MF,5,3,0.0,0.0,2005-2006,/en/players/eaf8a40b/Alberto-Monteagudo,f8a40b,Numancia,198,2.2,2.0,0.0,62,1.0,4251,Numancia
+,Rafa Jordà,es ESP,FW,4,2,0.0,0.0,2005-2006,/en/players/05e805eb/Rafa-Jorda,05e805eb,Numancia,180,2.0,1.0,0.0,62,1.0,4149,Numancia
+,Ángel Pérez,es ESP,DF,2,1,0.0,0.0,2005-2006,/en/players/a706bad3/Angel-Perez,706bad3,Numancia,84,0.9,0.0,0.0,62,1.0,1561,Numancia
+,﻿Juan Pablo Colinas,es ESP,GK,41,41,0.0,0.0,2006-2007,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Numancia,"3,690",41.0,1.0,0.0,62,1.0,3274,Numancia
+,César Palacios,es ESP,MF,39,38,2.0,1.0,2006-2007,/en/players/dc32054b/Cesar-Palacios,dc32054b,Numancia,"3,378",37.5,7.0,0.0,62,1.0,1995,Numancia
+,Bolo,es ESP,FW,37,32,4.0,10.0,2006-2007,/en/players/ca7589a9/Bolo,ca7589a9,Numancia,"2,755",30.6,5.0,0.0,62,1.0,3409,Numancia
+,Javier del Pino,es ESP,FW,31,31,3.0,6.0,2006-2007,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"2,651",29.5,5.0,0.0,62,1.0,4247,Numancia
+,Julio Álvarez,ve VEN,MF,33,31,7.0,4.0,2006-2007,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"2,628",29.2,7.0,0.0,62,53.0,1612,Numancia
+,Txomin Nagore,es ESP,MF,34,30,2.0,0.0,2006-2007,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"2,543",28.3,9.0,0.0,62,1.0,655,Numancia
+,Kenji Fukuda,jp JPN,FW,39,29,2.0,10.0,2006-2007,/en/players/889fd1fe/Kenji-Fukuda,889fd1fe,Numancia,"2,350",26.1,7.0,1.0,62,54.0,4252,Numancia
+,Sietes,es ESP,DF,30,28,1.0,0.0,2006-2007,/en/players/bae8225f/Sietes,bae8225f,Numancia,"2,367",26.3,5.0,2.0,62,1.0,2835,Numancia
+,Sergio Ortega,es ESP,DF,27,27,2.0,2.0,2006-2007,/en/players/5e498ef7/Sergio-Ortega,5e498ef7,Numancia,"2,385",26.5,3.0,0.0,62,1.0,731,Numancia
+,Juanra,es ESP,DF,28,25,2.0,0.0,2006-2007,/en/players/616d9a30/Juanra,616d9a30,Numancia,"2,210",24.6,3.0,1.0,62,1.0,4108,Numancia
+,Juan Carlos Moreno,es ESP,MF,31,25,0.0,3.0,2006-2007,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,"2,028",22.5,10.0,0.0,62,1.0,4236,Numancia
+,Felipe Guréndez,es ESP,MF,23,23,1.0,1.0,2006-2007,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Numancia,"1,997",22.2,7.0,1.0,62,1.0,1246,Numancia
+,Boris,es ESP,DF,22,22,0.0,0.0,2006-2007,/en/players/6f531b7d/Boris,6f531b7d,Numancia,"1,937",21.5,7.0,1.0,62,1.0,202,Numancia
+,Javier Tarantino,es ESP,DF,22,17,1.0,0.0,2006-2007,/en/players/0bf40bdb/Javier-Tarantino,0bf40bdb,Numancia,"1,610",17.9,4.0,0.0,62,1.0,1263,Numancia
+,Fran Moreno,es ESP,MF,27,14,0.0,2.0,2006-2007,/en/players/12096092/Fran-Moreno,12096092,Numancia,"1,370",15.2,6.0,0.0,62,1.0,2013,Numancia
+,Grégory Béranger,fr FRA,DF,22,13,1.0,0.0,2006-2007,/en/players/3dac0268/Gregory-Beranger,3dac0268,Numancia,"1,324",14.7,4.0,0.0,62,4.0,3046,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,13,12,0.0,0.0,2006-2007,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,"1,050",11.7,3.0,0.0,62,1.0,4253,Numancia
+,Gorka Brit,es ESP,FW,27,8,2.0,7.0,2006-2007,/en/players/18fea665/Gorka-Brit,18fea665,Numancia,"1,146",12.7,2.0,0.0,62,1.0,1996,Numancia
+,Pablo Lago,es ESP,MF,24,5,0.0,1.0,2006-2007,/en/players/e1a94953/Pablo-Lago,1a94953,Numancia,806,9.0,2.0,0.0,62,1.0,2839,Numancia
+,Óscar Pulido,,MF,10,4,1.0,0.0,2006-2007,/en/players/7e01b9b3/Oscar-Pulido,7e01b9b3,Numancia,436,4.8,3.0,0.0,62,,90078,Numancia
+,Rafa Jordà,es ESP,FW,13,4,0.0,1.0,2006-2007,/en/players/05e805eb/Rafa-Jorda,05e805eb,Numancia,372,4.1,1.0,0.0,62,1.0,4149,Numancia
+,Baio Suleimane,,,5,1,0.0,0.0,2006-2007,No detected,,Numancia,190,2.1,1.0,0.0,62,,90124,Numancia
+,Mario,es ESP,MF,5,1,0.0,0.0,2006-2007,/en/players/4903e93a/Mario,4903e93a,Numancia,94,1.0,0.0,1.0,62,1.0,4246,Numancia
+,Álvaro Núñez,uy URU,GK,1,1,0.0,0.0,2006-2007,/en/players/4267e1a9/Alvaro-Nunez,4267e1a9,Numancia,90,1.0,0.0,0.0,62,8.0,4230,Numancia
+,Dwight Pezzarossi,gt GUA,FW,1,0,0.0,0.0,2006-2007,/en/players/26647970/Dwight-Pezzarossi,26647970,Numancia,23,0.3,0.0,0.0,62,110.0,4254,Numancia
+,Javi Moreno,es ESP,FW,1,0,0.0,0.0,2006-2007,/en/players/64497d05/Javi-Moreno,64497d05,Numancia,20,0.2,0.0,0.0,62,1.0,2132,Numancia
+,﻿Grégory Béranger,fr FRA,DF,37,37,0.0,0.0,2007-2008,/en/players/3dac0268/Gregory-Beranger,3dac0268,Numancia,"3,309",36.8,11.0,0.0,62,4.0,3046,Numancia
+,Juanra,es ESP,DF,36,36,3.0,0.0,2007-2008,/en/players/616d9a30/Juanra,616d9a30,Numancia,"3,177",35.3,10.0,0.0,62,1.0,4108,Numancia
+,Txomin Nagore,es ESP,MF,34,34,1.0,2.0,2007-2008,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"2,915",32.4,7.0,0.0,62,1.0,655,Numancia
+,Jacobo,es ESP,GK,33,33,0.0,0.0,2007-2008,/en/players/bb575fe7/Jacobo,bb575fe7,Numancia,"2,970",33.0,2.0,0.0,62,1.0,2546,Numancia
+,Boris,es ESP,DF,31,31,1.0,0.0,2007-2008,/en/players/6f531b7d/Boris,6f531b7d,Numancia,"2,762",30.7,10.0,0.0,62,1.0,202,Numancia
+,Javier del Pino,es ESP,FW,33,31,1.0,8.0,2007-2008,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"2,718",30.2,4.0,0.0,62,1.0,4247,Numancia
+,Carmelo González,es ESP,MF,38,30,3.0,7.0,2007-2008,/en/players/27f4e837/Carmelo-Gonzalez,27f4e837,Numancia,"2,560",28.4,11.0,0.0,62,1.0,4119,Numancia
+,Julio Álvarez,ve VEN,MF,33,29,5.0,7.0,2007-2008,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"2,628",29.2,4.0,0.0,62,53.0,1612,Numancia
+,Juan Carlos Moreno,es ESP,MF,31,26,4.0,6.0,2007-2008,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,"2,240",24.9,8.0,1.0,62,1.0,4236,Numancia
+,César Palacios,es ESP,MF,33,25,1.0,2.0,2007-2008,/en/players/dc32054b/Cesar-Palacios,dc32054b,Numancia,"2,439",27.1,4.0,0.0,62,1.0,1995,Numancia
+,Manuel Pavón,es ESP,DF,29,23,0.0,0.0,2007-2008,/en/players/828ab640/Manuel-Pavon,828ab640,Numancia,"2,113",23.5,7.0,0.0,62,1.0,4255,Numancia
+,Bolo,es ESP,FW,23,18,2.0,1.0,2007-2008,/en/players/ca7589a9/Bolo,ca7589a9,Numancia,"1,430",15.9,2.0,0.0,62,1.0,3409,Numancia
+,Gorka Brit,es ESP,FW,26,17,2.0,9.0,2007-2008,/en/players/18fea665/Gorka-Brit,18fea665,Numancia,"1,277",14.2,4.0,1.0,62,1.0,1996,Numancia
+,Mario,es ESP,MF,34,16,1.0,3.0,2007-2008,/en/players/4903e93a/Mario,4903e93a,Numancia,"1,505",16.7,4.0,0.0,62,1.0,4246,Numancia
+,Rafa Jordà,es ESP,FW,27,15,2.0,6.0,2007-2008,/en/players/05e805eb/Rafa-Jorda,05e805eb,Numancia,"1,430",15.9,3.0,0.0,62,1.0,4149,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,15,15,0.0,2.0,2007-2008,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,"1,350",15.0,4.0,0.0,62,1.0,4253,Numancia
+,Felipe Guréndez,es ESP,MF,20,11,0.0,0.0,2007-2008,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Numancia,"1,178",13.1,1.0,0.0,62,1.0,1246,Numancia
+,Juan Quero,es ESP,MF,28,9,0.0,3.0,2007-2008,/en/players/42107bed/Juan-Quero,42107bed,Numancia,"1,068",11.9,2.0,0.0,62,1.0,3443,Numancia
+,Álvaro Núñez,uy URU,GK,9,9,0.0,0.0,2007-2008,/en/players/4267e1a9/Alvaro-Nunez,4267e1a9,Numancia,810,9.0,0.0,0.0,62,8.0,4230,Numancia
+,Sergio Ortega,es ESP,DF,8,5,0.0,0.0,2007-2008,/en/players/5e498ef7/Sergio-Ortega,5e498ef7,Numancia,471,5.2,4.0,0.0,62,1.0,731,Numancia
+,Toché,es ESP,FW,13,4,0.0,3.0,2007-2008,/en/players/64e35e11/Toche,64e35e11,Numancia,423,4.7,1.0,0.0,62,1.0,483,Numancia
+,Sietes,es ESP,DF,5,3,0.0,0.0,2007-2008,/en/players/bae8225f/Sietes,bae8225f,Numancia,277,3.1,0.0,0.0,62,1.0,2835,Numancia
+,Cesar Huete,,,4,2,0.0,0.0,2007-2008,No detected,,Numancia,165,1.8,1.0,0.0,62,,90125,Numancia
+,﻿Juan Pablo Colinas,es ESP,GK,37,37,0.0,0.0,2008-2009,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Numancia,"3,330",37.0,2.0,0.0,62,1.0,3274,Numancia
+,Domingo Cisma,es ESP,DF,34,34,0.0,2.0,2008-2009,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Numancia,"2,966",33.0,12.0,1.0,62,1.0,2204,Numancia
+,José Barkero,es ESP,MF,37,34,6.0,12.0,2008-2009,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Numancia,"2,963",32.9,4.0,1.0,62,1.0,206,Numancia
+,Txomin Nagore,es ESP,MF,33,33,1.0,1.0,2008-2009,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"2,875",31.9,9.0,0.0,62,1.0,655,Numancia
+,Juanra,es ESP,DF,33,33,0.0,0.0,2008-2009,/en/players/616d9a30/Juanra,616d9a30,Numancia,"2,868",31.9,5.0,0.0,62,1.0,4108,Numancia
+,Boris,es ESP,DF,29,29,0.0,0.0,2008-2009,/en/players/6f531b7d/Boris,6f531b7d,Numancia,"2,580",28.7,9.0,1.0,62,1.0,202,Numancia
+,Asier Goiria,es ESP,FW,32,27,1.0,5.0,2008-2009,/en/players/1dfd7bbc/Asier-Goiria,1dfd7bbc,Numancia,"2,175",24.2,6.0,1.0,62,1.0,4256,Numancia
+,Javier del Pino,es ESP,FW,32,25,0.0,4.0,2008-2009,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"2,164",24.0,9.0,0.0,62,1.0,4247,Numancia
+,Sergio Ortega,es ESP,DF,20,19,0.0,0.0,2008-2009,/en/players/5e498ef7/Sergio-Ortega,5e498ef7,Numancia,"1,712",19.0,7.0,0.0,62,1.0,731,Numancia
+,Dimas Delgado,es ESP,MF,20,18,1.0,0.0,2008-2009,/en/players/f6876bd7/Dimas-Delgado,f6876bd7,Numancia,"1,484",16.5,6.0,0.0,62,1.0,3204,Numancia
+,Juan Carlos Moreno,es ESP,MF,20,17,0.0,3.0,2008-2009,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,"1,460",16.2,5.0,2.0,62,1.0,4236,Numancia
+,Carlos Bellvís,es ESP,DF,28,15,0.0,1.0,2008-2009,/en/players/fbe35ca3/Carlos-Bellvis,fbe35ca3,Numancia,"1,482",16.5,2.0,0.0,62,1.0,748,Numancia
+,César Palacios,es ESP,MF,19,15,0.0,0.0,2008-2009,/en/players/dc32054b/Cesar-Palacios,dc32054b,Numancia,"1,340",14.9,5.0,1.0,62,1.0,1995,Numancia
+,Carlos Aranda,es ESP,FW,20,14,1.0,6.0,2008-2009,/en/players/2b60c45d/Carlos-Aranda,2b60c45d,Numancia,"1,321",14.7,3.0,0.0,62,1.0,1810,Numancia
+,Mario,es ESP,MF,27,12,0.0,1.0,2008-2009,/en/players/4903e93a/Mario,4903e93a,Numancia,"1,139",12.7,3.0,0.0,62,1.0,4246,Numancia
+,Manuel Pavón,es ESP,DF,13,12,0.0,0.0,2008-2009,/en/players/828ab640/Manuel-Pavon,828ab640,Numancia,"1,087",12.1,4.0,1.0,62,1.0,4255,Numancia
+,Gorka Brit,es ESP,FW,31,11,1.0,3.0,2008-2009,/en/players/18fea665/Gorka-Brit,18fea665,Numancia,"1,235",13.7,5.0,1.0,62,1.0,1996,Numancia
+,Juan Quero,es ESP,MF,25,9,1.0,0.0,2008-2009,/en/players/42107bed/Juan-Quero,42107bed,Numancia,975,10.8,3.0,0.0,62,1.0,3443,Numancia
+,Felipe Guréndez,es ESP,MF,8,6,0.0,0.0,2008-2009,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Numancia,563,6.3,2.0,0.0,62,1.0,1246,Numancia
+,Raúl Bravo,es ESP,DF,6,6,0.0,0.0,2008-2009,/en/players/65b9e56b/Raul-Bravo,65b9e56b,Numancia,540,6.0,2.0,0.0,62,1.0,20,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,5,5,0.0,0.0,2008-2009,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,450,5.0,1.0,0.0,62,1.0,4253,Numancia
+,Álvaro Antón,es ESP,MF,7,4,0.0,0.0,2008-2009,/en/players/90041d71/Alvaro-Anton,90041d71,Numancia,350,3.9,1.0,0.0,62,1.0,2520,Numancia
+,Antonio Guayre,es ESP,"FW,MF",6,2,0.0,0.0,2008-2009,/en/players/82cf603f/Antonio-Guayre,82cf603f,Numancia,196,2.2,1.0,0.0,62,1.0,677,Numancia
+,Marián Kelemen,sk SVK,GK,1,1,0.0,0.0,2008-2009,/en/players/6f650bdb/Marian-Kelemen,6f650bdb,Numancia,90,1.0,0.0,0.0,62,70.0,4257,Numancia
+,Lago Junior,ci CIV,"FW,MF",5,0,0.0,0.0,2008-2009,/en/players/360d70f8/Lago-Junior,360d70f8,Numancia,60,0.7,1.0,0.0,62,35.0,1681,Numancia
+,Toché,es ESP,FW,1,0,0.0,0.0,2008-2009,/en/players/64e35e11/Toche,64e35e11,Numancia,45,0.5,0.0,0.0,62,1.0,483,Numancia
+,﻿José Barkero,es ESP,MF,38,36,9.0,6.0,2009-2010,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Numancia,"3,080",34.2,7.0,0.0,62,1.0,206,Numancia
+,Javier Flaño,es ESP,DF,35,35,0.0,0.0,2009-2010,/en/players/8e9ccfb8/Javier-Flano,8e9ccfb8,Numancia,"3,087",34.3,9.0,1.0,62,1.0,2011,Numancia
+,Javier del Pino,es ESP,FW,35,34,1.0,9.0,2009-2010,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"2,819",31.3,5.0,0.0,62,1.0,4247,Numancia
+,César Palacios,es ESP,MF,33,32,2.0,1.0,2009-2010,/en/players/dc32054b/Cesar-Palacios,dc32054b,Numancia,"2,828",31.4,4.0,2.0,62,1.0,1995,Numancia
+,Eduardo Navarro,es ESP,GK,32,32,0.0,0.0,2009-2010,/en/players/f5caacf3/Eduardo-Navarro,f5caacf3,Numancia,"2,798",31.1,2.0,0.0,62,1.0,4258,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,31,31,0.0,0.0,2009-2010,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,"2,790",31.0,8.0,0.0,62,1.0,4253,Numancia
+,Nano,es ESP,"DF,FW",31,31,2.0,4.0,2009-2010,/en/players/51fbb7e2/Nano,51fbb7e2,Numancia,"2,601",28.9,3.0,1.0,62,1.0,1072,Numancia
+,Dimas Delgado,es ESP,MF,34,30,1.0,3.0,2009-2010,/en/players/f6876bd7/Dimas-Delgado,f6876bd7,Numancia,"2,693",29.9,11.0,1.0,62,1.0,3204,Numancia
+,Iñigo Vélez,es ESP,FW,30,23,4.0,8.0,2009-2010,/en/players/08cc09ee/Inigo-Velez,08cc09ee,Numancia,"1,917",21.3,5.0,0.0,62,1.0,1285,Numancia
+,Mikel Balenziaga,es ESP,DF,26,22,0.0,0.0,2009-2010,/en/players/1fe67e86/Mikel-Balenziaga,1fe67e86,Numancia,"2,059",22.9,7.0,0.0,62,1.0,1279,Numancia
+,Mikel Álvaro,es ESP,MF,34,19,2.0,4.0,2009-2010,/en/players/15b8ab8b/Mikel-Alvaro,15b8ab8b,Numancia,"1,732",19.2,3.0,0.0,62,1.0,4259,Numancia
+,Txomin Nagore,es ESP,MF,27,15,3.0,0.0,2009-2010,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"1,450",16.1,8.0,1.0,62,1.0,655,Numancia
+,Joseba Garmendia,es ESP,"DF,MF",18,15,1.0,3.0,2009-2010,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Numancia,"1,332",14.8,3.0,0.0,62,1.0,1266,Numancia
+,Boris,es ESP,DF,15,14,0.0,0.0,2009-2010,/en/players/6f531b7d/Boris,6f531b7d,Numancia,"1,319",14.7,4.0,0.0,62,1.0,202,Numancia
+,Manuel Pavón,es ESP,DF,15,13,0.0,0.0,2009-2010,/en/players/828ab640/Manuel-Pavon,828ab640,Numancia,"1,057",11.7,6.0,1.0,62,1.0,4255,Numancia
+,Felipe Guréndez,es ESP,MF,16,11,0.0,0.0,2009-2010,/en/players/4f4973c3/Felipe-Gurendez,4f4973c3,Numancia,"1,063",11.8,2.0,0.0,62,1.0,1246,Numancia
+,Lago Junior,ci CIV,"FW,MF",22,11,1.0,3.0,2009-2010,/en/players/360d70f8/Lago-Junior,360d70f8,Numancia,931,10.3,1.0,0.0,62,35.0,1681,Numancia
+,Mario,es ESP,MF,28,9,1.0,2.0,2009-2010,/en/players/4903e93a/Mario,4903e93a,Numancia,"1,022",11.4,4.0,0.0,62,1.0,4246,Numancia
+,Asier Goiria,es ESP,FW,21,7,2.0,6.0,2009-2010,/en/players/1dfd7bbc/Asier-Goiria,1dfd7bbc,Numancia,852,9.5,2.0,2.0,62,1.0,4256,Numancia
+,Óscar López,es ESP,DF,9,7,1.0,1.0,2009-2010,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Numancia,634,7.0,4.0,0.0,62,1.0,1069,Numancia
+,Asier,es ESP,MF,9,6,0.0,1.0,2009-2010,/en/players/c599392e/Asier,c599392e,Numancia,495,5.5,0.0,0.0,62,1.0,2549,Numancia
+,Iñaki Lafuente,es ESP,GK,6,5,0.0,0.0,2009-2010,/en/players/a1757556/Inaki-Lafuente,1757556,Numancia,532,5.9,0.0,0.0,62,1.0,1240,Numancia
+,Jesús,es ESP,GK,5,5,0.0,0.0,2009-2010,/en/players/fba3c8c1/Jesus,fba3c8c1,Numancia,450,5.0,0.0,0.0,62,1.0,97,Numancia
+,Víctor Andrés,es ESP,MF,5,5,0.0,0.0,2009-2010,/en/players/e26a584f/Victor-Andres,26a584f,Numancia,369,4.1,0.0,0.0,62,1.0,4260,Numancia
+,Nandi,es ESP,DF,4,4,0.0,1.0,2009-2010,/en/players/c04b3dfb/Nandi,c04b3dfb,Numancia,360,4.0,0.0,0.0,62,1.0,4261,Numancia
+,Jesus Isi,,,4,4,0.0,0.0,2009-2010,No detected,,Numancia,263,2.9,0.0,0.0,62,,90126,Numancia
+,Enrique Sola,es ESP,FW,8,2,0.0,1.0,2009-2010,/en/players/bef2e50e/Enrique-Sola,bef2e50e,Numancia,296,3.3,0.0,0.0,62,1.0,1306,Numancia
+,Diego Antón,es ESP,FW,6,2,1.0,1.0,2009-2010,/en/players/d0737c9d/Diego-Anton,d0737c9d,Numancia,281,3.1,2.0,0.0,62,1.0,4262,Numancia
+,Igor Angulo,es ESP,"FW,MF",6,2,0.0,0.0,2009-2010,/en/players/5715f988/Igor-Angulo,5715f988,Numancia,239,2.7,1.0,0.0,62,1.0,1248,Numancia
+,Javier Gallardo,,,1,0,0.0,0.0,2009-2010,No detected,,Numancia,31,0.3,0.0,0.0,62,,90127,Numancia
+,Juan Carlos Moreno,es ESP,MF,1,0,0.0,0.0,2009-2010,/en/players/74f2988b/Juan-Carlos-Moreno,74f2988b,Numancia,5,0.1,0.0,0.0,62,1.0,4236,Numancia
+,﻿Javier Flaño,es ESP,DF,40,39,0.0,1.0,2010-2011,/en/players/8e9ccfb8/Javier-Flano,8e9ccfb8,Numancia,"3,503",38.9,8.0,0.0,62,1.0,2011,Numancia
+,José Barkero,es ESP,MF,39,39,11.0,15.0,2010-2011,/en/players/89a1b23c/Jose-Barkero,89a1b23c,Numancia,"3,481",38.7,5.0,0.0,62,1.0,206,Numancia
+,Dimas Delgado,es ESP,MF,37,36,6.0,4.0,2010-2011,/en/players/f6876bd7/Dimas-Delgado,f6876bd7,Numancia,"3,080",34.2,13.0,0.0,62,1.0,3204,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,35,35,0.0,2.0,2010-2011,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,"3,102",34.5,7.0,0.0,62,1.0,4253,Numancia
+,Txomin Nagore,es ESP,MF,37,33,4.0,3.0,2010-2011,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"2,933",32.6,10.0,1.0,62,1.0,655,Numancia
+,Cedrick Mabwati,cd COD,"FW,MF",40,33,5.0,9.0,2010-2011,/en/players/6518bc18/Cedrick-Mabwati,6518bc18,Numancia,"2,832",31.5,10.0,0.0,62,50.0,1452,Numancia
+,Manuel Pavón,es ESP,DF,32,31,1.0,0.0,2010-2011,/en/players/828ab640/Manuel-Pavon,828ab640,Numancia,"2,759",30.7,10.0,3.0,62,1.0,4255,Numancia
+,Iñigo Vélez,es ESP,FW,36,25,1.0,5.0,2010-2011,/en/players/08cc09ee/Inigo-Velez,08cc09ee,Numancia,"2,187",24.3,4.0,0.0,62,1.0,1285,Numancia
+,Nano,es ESP,"DF,FW",22,22,3.0,3.0,2010-2011,/en/players/51fbb7e2/Nano,51fbb7e2,Numancia,"1,790",19.9,6.0,1.0,62,1.0,1072,Numancia
+,Eduardo Navarro,es ESP,GK,23,21,0.0,0.0,2010-2011,/en/players/f5caacf3/Eduardo-Navarro,f5caacf3,Numancia,"2,054",22.8,3.0,0.0,62,1.0,4258,Numancia
+,Dani López,es ESP,DF,22,20,0.0,0.0,2010-2011,/en/players/da8aa199/Dani-Lopez,da8aa199,Numancia,"1,803",20.0,1.0,0.0,62,1.0,4263,Numancia
+,Joseba Garmendia,es ESP,"DF,MF",27,20,0.0,4.0,2010-2011,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Numancia,"1,646",18.3,4.0,0.0,62,1.0,1266,Numancia
+,Iñaki Lafuente,es ESP,GK,19,19,0.0,0.0,2010-2011,/en/players/a1757556/Inaki-Lafuente,1757556,Numancia,"1,546",17.2,2.0,0.0,62,1.0,1240,Numancia
+,Javier del Pino,es ESP,FW,28,15,4.0,9.0,2010-2011,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"1,532",17.0,4.0,0.0,62,1.0,4247,Numancia
+,Ibrahima Baldé,sn SEN,FW,18,14,0.0,6.0,2010-2011,/en/players/573b6680/Ibrahima-Balde,573b6680,Numancia,"1,298",14.4,2.0,0.0,62,34.0,2039,Numancia
+,José Antonio Culebras,es ESP,DF,15,14,0.0,1.0,2010-2011,/en/players/c8b270a2/Jose-Antonio-Culebras,c8b270a2,Numancia,"1,268",14.1,3.0,0.0,62,1.0,4115,Numancia
+,Sunny,ng NGA,MF,14,9,0.0,2.0,2010-2011,/en/players/1eb38665/Sunny,1eb38665,Numancia,837,9.3,3.0,0.0,62,52.0,918,Numancia
+,Ion Vélez,es ESP,FW,18,7,2.0,0.0,2010-2011,/en/players/3a6c16de/Ion-Velez,3a6c16de,Numancia,668,7.4,1.0,0.0,62,1.0,1276,Numancia
+,Víctor Andrés,es ESP,MF,20,6,0.0,0.0,2010-2011,/en/players/e26a584f/Victor-Andres,26a584f,Numancia,661,7.3,1.0,0.0,62,1.0,4260,Numancia
+,Mikel Álvaro,es ESP,MF,16,5,0.0,0.0,2010-2011,/en/players/15b8ab8b/Mikel-Alvaro,15b8ab8b,Numancia,525,5.8,1.0,0.0,62,1.0,4259,Numancia
+,Mario,es ESP,MF,13,5,1.0,0.0,2010-2011,/en/players/4903e93a/Mario,4903e93a,Numancia,481,5.3,2.0,0.0,62,1.0,4246,Numancia
+,Óscar López,es ESP,DF,8,5,2.0,0.0,2010-2011,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Numancia,415,4.6,3.0,0.0,62,1.0,1069,Numancia
+,Igor Angulo,es ESP,"FW,MF",18,4,0.0,0.0,2010-2011,/en/players/5715f988/Igor-Angulo,5715f988,Numancia,520,5.8,2.0,0.0,62,1.0,1248,Numancia
+,Boris,es ESP,DF,3,3,0.0,0.0,2010-2011,/en/players/6f531b7d/Boris,6f531b7d,Numancia,240,2.7,2.0,0.0,62,1.0,202,Numancia
+,Diego de Miguel,es ESP,GK,2,2,0.0,0.0,2010-2011,/en/players/4b798eab/Diego-de-Miguel,4b798eab,Numancia,180,2.0,0.0,0.0,62,1.0,4264,Numancia
+,Gerard Oliva,es ESP,FW,3,0,0.0,0.0,2010-2011,/en/players/0d01d201/Gerard-Oliva,0d01d201,Numancia,64,0.7,1.0,0.0,62,1.0,3962,Numancia
+,Javi Bonilla,es ESP,MF,1,0,0.0,0.0,2010-2011,/en/players/3d67cc6e/Javi-Bonilla,3d67cc6e,Numancia,35,0.4,0.0,0.0,62,1.0,4265,Numancia
+,Diego Antón,es ESP,FW,1,0,0.0,0.0,2010-2011,/en/players/d0737c9d/Diego-Anton,d0737c9d,Numancia,3,0.0,0.0,0.0,62,1.0,4262,Numancia
+,﻿Nano,es ESP,"DF,FW",37,37,1.0,5.0,2011-2012,/en/players/51fbb7e2/Nano,51fbb7e2,Numancia,"3,230",35.9,9.0,0.0,62,1.0,1072,Numancia
+,Unai Expósito,es ESP,DF,35,34,0.0,0.0,2011-2012,/en/players/3aca2200/Unai-Exposito,3aca2200,Numancia,"3,006",33.4,13.0,1.0,62,1.0,1258,Numancia
+,Julio Álvarez,ve VEN,MF,35,34,11.0,10.0,2011-2012,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"2,959",32.9,7.0,0.0,62,53.0,1612,Numancia
+,Leandro Cabrera,uy URU,DF,33,32,1.0,0.0,2011-2012,/en/players/69cbc8b6/Leandro-Cabrera,69cbc8b6,Numancia,"2,912",32.4,5.0,0.0,62,8.0,2188,Numancia
+,Miguel Bedoya,es ESP,MF,38,30,8.0,3.0,2011-2012,/en/players/7753a08d/Miguel-Bedoya,7753a08d,Numancia,"2,567",28.5,5.0,0.0,62,1.0,4266,Numancia
+,Natalio,es ESP,FW,34,29,3.0,5.0,2011-2012,/en/players/239425b9/Natalio,239425b9,Numancia,"2,294",25.5,5.0,0.0,62,1.0,3933,Numancia
+,Juanjo Expósito,es ESP,FW,34,26,1.0,8.0,2011-2012,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Numancia,"2,338",26.0,8.0,1.0,62,1.0,1836,Numancia
+,Txomin Nagore,es ESP,MF,29,25,0.0,1.0,2011-2012,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"2,341",26.0,7.0,0.0,62,1.0,655,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,24,24,0.0,1.0,2011-2012,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,"2,127",23.6,11.0,1.0,62,1.0,4253,Numancia
+,Eduardo Navarro,es ESP,GK,23,23,0.0,0.0,2011-2012,/en/players/f5caacf3/Eduardo-Navarro,f5caacf3,Numancia,"2,070",23.0,3.0,0.0,62,1.0,4258,Numancia
+,Sunny,ng NGA,MF,31,23,0.0,1.0,2011-2012,/en/players/1eb38665/Sunny,1eb38665,Numancia,"2,035",22.6,10.0,2.0,62,52.0,918,Numancia
+,Manuel Pavón,es ESP,DF,22,21,0.0,0.0,2011-2012,/en/players/828ab640/Manuel-Pavon,828ab640,Numancia,"1,902",21.1,8.0,1.0,62,1.0,4255,Numancia
+,Ignacio Zabal,es ESP,GK,19,19,0.0,0.0,2011-2012,/en/players/9df85b2a/Ignacio-Zabal,9df85b2a,Numancia,"1,710",19.0,2.0,0.0,62,1.0,4267,Numancia
+,Lago Junior,ci CIV,"FW,MF",26,19,0.0,2.0,2011-2012,/en/players/360d70f8/Lago-Junior,360d70f8,Numancia,"1,508",16.8,0.0,0.0,62,35.0,1681,Numancia
+,Cedrick Mabwati,cd COD,"FW,MF",31,17,1.0,1.0,2011-2012,/en/players/6518bc18/Cedrick-Mabwati,6518bc18,Numancia,"1,607",17.9,4.0,0.0,62,50.0,1452,Numancia
+,Javier del Pino,es ESP,FW,21,15,0.0,4.0,2011-2012,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"1,412",15.7,6.0,0.0,62,1.0,4247,Numancia
+,Iván Malón,es ESP,DF,13,10,0.0,0.0,2011-2012,/en/players/c568d934/Ivan-Malon,c568d934,Numancia,869,9.7,4.0,0.0,62,1.0,3928,Numancia
+,José Antonio Culebras,es ESP,DF,9,9,0.0,0.0,2011-2012,/en/players/c8b270a2/Jose-Antonio-Culebras,c8b270a2,Numancia,810,9.0,1.0,0.0,62,1.0,4115,Numancia
+,Adrián Ripa,es ESP,DF,11,8,0.0,0.0,2011-2012,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,716,8.0,5.0,1.0,62,1.0,4268,Numancia
+,Miguel Ángel Nieto,es ESP,MF,23,7,1.0,1.0,2011-2012,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Numancia,777,8.6,2.0,0.0,62,1.0,60,Numancia
+,Gorka Larrea,es ESP,MF,14,7,0.0,1.0,2011-2012,/en/players/242e09b6/Gorka-Larrea,242e09b6,Numancia,640,7.1,2.0,0.0,62,1.0,216,Numancia
+,Iñigo Díaz de Cerio,es ESP,FW,24,6,2.0,8.0,2011-2012,/en/players/757bd109/Inigo-Diaz-de-Cerio,757bd109,Numancia,846,9.4,0.0,0.0,62,1.0,239,Numancia
+,Víctor Andrés,es ESP,MF,15,3,1.0,0.0,2011-2012,/en/players/e26a584f/Victor-Andres,26a584f,Numancia,401,4.5,0.0,0.0,62,1.0,4260,Numancia
+,Javi Bonilla,es ESP,MF,2,2,0.0,1.0,2011-2012,/en/players/3d67cc6e/Javi-Bonilla,3d67cc6e,Numancia,168,1.9,0.0,0.0,62,1.0,4265,Numancia
+,Edu Gil,es ESP,DF,2,1,0.0,0.0,2011-2012,/en/players/cffecd08/Edu-Gil,cffecd08,Numancia,108,1.2,0.0,0.0,62,1.0,4269,Numancia
+,Espanha Rubo,,,1,0,0.0,0.0,2011-2012,No detected,,Numancia,6,0.1,0.0,0.0,62,,90128,Numancia
+,﻿Natalio,es ESP,FW,39,37,3.0,13.0,2012-2013,/en/players/239425b9/Natalio,239425b9,Numancia,"3,171",35.2,3.0,1.0,62,1.0,3933,Numancia
+,Juanma,es ESP,DF,36,36,2.0,7.0,2012-2013,/en/players/396b863a/Juanma,396b863a,Numancia,"3,200",35.6,15.0,0.0,62,1.0,3439,Numancia
+,Iago Herrerín,es ESP,GK,34,34,0.0,0.0,2012-2013,/en/players/9109185e/Iago-Herrerin,9109185e,Numancia,"3,060",34.0,1.0,0.0,62,1.0,1304,Numancia
+,Iván Malón,es ESP,DF,32,32,2.0,0.0,2012-2013,/en/players/c568d934/Ivan-Malon,c568d934,Numancia,"2,839",31.5,10.0,1.0,62,1.0,3928,Numancia
+,Txomin Nagore,es ESP,MF,35,30,2.0,5.0,2012-2013,/en/players/41a60718/Txomin-Nagore,41a60718,Numancia,"2,483",27.6,9.0,0.0,62,1.0,655,Numancia
+,Cedrick Mabwati,cd COD,"FW,MF",37,29,8.0,3.0,2012-2013,/en/players/6518bc18/Cedrick-Mabwati,6518bc18,Numancia,"2,480",27.6,6.0,0.0,62,50.0,1452,Numancia
+,Francisco Regalón,es ESP,DF,30,28,0.0,2.0,2012-2013,/en/players/7b9f85b0/Francisco-Regalon,7b9f85b0,Numancia,"2,614",29.0,6.0,0.0,62,1.0,4270,Numancia
+,Miguel Bedoya,es ESP,MF,34,27,4.0,1.0,2012-2013,/en/players/7753a08d/Miguel-Bedoya,7753a08d,Numancia,"2,471",27.5,5.0,0.0,62,1.0,4266,Numancia
+,Javier del Pino,es ESP,FW,34,24,0.0,4.0,2012-2013,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,"2,271",25.2,8.0,0.0,62,1.0,4247,Numancia
+,Sunny,ng NGA,MF,31,24,0.0,1.0,2012-2013,/en/players/1eb38665/Sunny,1eb38665,Numancia,"2,196",24.4,14.0,0.0,62,52.0,918,Numancia
+,Egoitz Jaio Gabiola,es ESP,DF,25,24,0.0,0.0,2012-2013,/en/players/4e84787e/Egoitz-Jaio-Gabiola,4e84787e,Numancia,"2,136",23.7,5.0,1.0,62,1.0,4253,Numancia
+,Antonio Tomás,es ESP,MF,24,22,2.0,1.0,2012-2013,/en/players/668d4e93/Antonio-Tomas,668d4e93,Numancia,"1,641",18.2,7.0,0.0,62,1.0,426,Numancia
+,Julio Álvarez,ve VEN,MF,26,18,12.0,4.0,2012-2013,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"1,828",20.3,5.0,0.0,62,53.0,1612,Numancia
+,Adrián Ripa,es ESP,DF,16,14,0.0,0.0,2012-2013,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,"1,153",12.8,3.0,0.0,62,1.0,4268,Numancia
+,Eneko Satrústegui,es ESP,DF,14,13,0.0,0.0,2012-2013,/en/players/b7ce700f/Eneko-Satrustegui,b7ce700f,Numancia,"1,251",13.9,5.0,0.0,62,1.0,2041,Numancia
+,Pedro Martín,es ESP,FW,19,13,1.0,3.0,2012-2013,/en/players/99ee29b5/Pedro-Martin,99ee29b5,Numancia,"1,090",12.1,2.0,0.0,62,1.0,2198,Numancia
+,Juanjo Expósito,es ESP,FW,20,12,2.0,3.0,2012-2013,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Numancia,"1,157",12.9,3.0,0.0,62,1.0,1836,Numancia
+,Javi Bonilla,es ESP,MF,17,10,0.0,1.0,2012-2013,/en/players/3d67cc6e/Javi-Bonilla,3d67cc6e,Numancia,899,10.0,3.0,0.0,62,1.0,4265,Numancia
+,Biel Ribas,es ESP,GK,8,8,0.0,0.0,2012-2013,/en/players/8178716d/Biel-Ribas,8178716d,Numancia,720,8.0,1.0,0.0,62,1.0,3031,Numancia
+,Miguel Ángel Nieto,es ESP,MF,19,8,0.0,3.0,2012-2013,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Numancia,672,7.5,4.0,0.0,62,1.0,60,Numancia
+,José Isidoro,es ESP,DF,8,6,0.0,0.0,2012-2013,/en/players/bb00a819/Jose-Isidoro,bb00a819,Numancia,598,6.6,3.0,0.0,62,1.0,1395,Numancia
+,Unai Expósito,es ESP,DF,7,5,0.0,0.0,2012-2013,/en/players/3aca2200/Unai-Exposito,3aca2200,Numancia,426,4.7,3.0,0.0,62,1.0,1258,Numancia
+,Lago Junior,ci CIV,"FW,MF",15,4,1.0,1.0,2012-2013,/en/players/360d70f8/Lago-Junior,360d70f8,Numancia,512,5.7,1.0,0.0,62,35.0,1681,Numancia
+,Airam,es ESP,FW,12,2,0.0,0.0,2012-2013,/en/players/130471ce/Airam,130471ce,Numancia,364,4.0,0.0,0.0,62,1.0,4271,Numancia
+,Gorka Larrea,es ESP,MF,8,1,0.0,0.0,2012-2013,/en/players/242e09b6/Gorka-Larrea,242e09b6,Numancia,119,1.3,2.0,0.0,62,1.0,216,Numancia
+,Baltasar Rigo,es ESP,DF,1,1,0.0,0.0,2012-2013,/en/players/b80570db/Baltasar-Rigo,b80570db,Numancia,90,1.0,1.0,0.0,62,1.0,4272,Numancia
+,David Martín,es ESP,FW,4,0,0.0,0.0,2012-2013,/en/players/e1e18b12/David-Martin,1e18b12,Numancia,57,0.6,0.0,0.0,62,1.0,4273,Numancia
+,﻿Julio Álvarez,ve VEN,MF,41,41,13.0,7.0,2013-2014,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"3,645",40.5,7.0,0.0,62,53.0,1612,Numancia
+,Natalio,es ESP,FW,40,37,1.0,5.0,2013-2014,/en/players/239425b9/Natalio,239425b9,Numancia,"2,986",33.2,8.0,0.0,62,1.0,3933,Numancia
+,Juanma,es ESP,DF,36,36,0.0,6.0,2013-2014,/en/players/396b863a/Juanma,396b863a,Numancia,"3,189",35.4,13.0,1.0,62,1.0,3439,Numancia
+,Mickaël Gaffoor,fr FRA,DF,36,35,0.0,1.0,2013-2014,/en/players/7ab63f1e/Mickael-Gaffoor,7ab63f1e,Numancia,"2,971",33.0,7.0,0.0,62,4.0,3806,Numancia
+,Francisco Regalón,es ESP,DF,36,32,2.0,5.0,2013-2014,/en/players/7b9f85b0/Francisco-Regalon,7b9f85b0,Numancia,"2,872",31.9,8.0,1.0,62,1.0,4270,Numancia
+,Biel Ribas,es ESP,GK,31,31,0.0,0.0,2013-2014,/en/players/8178716d/Biel-Ribas,8178716d,Numancia,"2,790",31.0,3.0,0.0,62,1.0,3031,Numancia
+,Adrián Ripa,es ESP,DF,31,31,0.0,0.0,2013-2014,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,"2,744",30.5,11.0,0.0,62,1.0,4268,Numancia
+,Carlos Akapo,gq EQG,DF,29,27,0.0,0.0,2013-2014,/en/players/f2a68b97/Carlos-Akapo,f2a68b97,Numancia,"2,390",26.6,8.0,1.0,62,10.0,4274,Numancia
+,Vicente Pérez,es ESP,MF,35,26,3.0,2.0,2013-2014,/en/players/f4927d11/Vicente-Perez,f4927d11,Numancia,"2,133",23.7,3.0,0.0,62,1.0,4275,Numancia
+,Antonio Tomás,es ESP,MF,26,25,0.0,2.0,2013-2014,/en/players/668d4e93/Antonio-Tomas,668d4e93,Numancia,"1,907",21.2,4.0,0.0,62,1.0,426,Numancia
+,Sergi Enrich,es ESP,"FW,MF",38,23,3.0,10.0,2013-2014,/en/players/bb4b1242/Sergi-Enrich,bb4b1242,Numancia,"2,247",25.0,6.0,0.0,62,1.0,1627,Numancia
+,Miguel Bedoya,es ESP,MF,31,22,2.0,0.0,2013-2014,/en/players/7753a08d/Miguel-Bedoya,7753a08d,Numancia,"1,998",22.2,4.0,0.0,62,1.0,4266,Numancia
+,José Isidoro,es ESP,DF,17,15,0.0,0.0,2013-2014,/en/players/bb00a819/Jose-Isidoro,bb00a819,Numancia,"1,321",14.7,2.0,1.0,62,1.0,1395,Numancia
+,Javier del Pino,es ESP,FW,14,13,1.0,1.0,2013-2014,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,926,10.3,2.0,1.0,62,1.0,4247,Numancia
+,Miguel Palanca,es ESP,"FW,MF",33,11,1.0,3.0,2013-2014,/en/players/005ade52/Miguel-Palanca,005ade52,Numancia,"1,364",15.2,4.0,0.0,62,1.0,74,Numancia
+,Javi Bonilla,es ESP,MF,14,11,0.0,0.0,2013-2014,/en/players/3d67cc6e/Javi-Bonilla,3d67cc6e,Numancia,"1,027",11.4,6.0,0.0,62,1.0,4265,Numancia
+,Raúl Fernández,es ESP,GK,11,11,0.0,0.0,2013-2014,/en/players/6fb59070/Raul-Fernandez,6fb59070,Numancia,990,11.0,1.0,0.0,62,1.0,1294,Numancia
+,Marc Pedraza,es ESP,MF,17,10,0.0,0.0,2013-2014,/en/players/ff8f26ef/Marc-Pedraza,ff8f26ef,Numancia,979,10.9,7.0,1.0,62,1.0,1716,Numancia
+,David González,es ESP,MF,15,10,0.0,0.0,2013-2014,/en/players/d65705c4/David-Gonzalez,d65705c4,Numancia,974,10.8,5.0,0.0,62,1.0,4276,Numancia
+,Víctor Andrés,es ESP,MF,12,5,0.0,0.0,2013-2014,/en/players/e26a584f/Victor-Andres,26a584f,Numancia,566,6.3,1.0,0.0,62,1.0,4260,Numancia
+,Luis Valcarce,es ESP,"DF,MF",16,5,0.0,0.0,2013-2014,/en/players/8e5cde3f/Luis-Valcarce,8e5cde3f,Numancia,555,6.2,1.0,0.0,62,1.0,4277,Numancia
+,Pedro Martín,es ESP,FW,22,4,0.0,0.0,2013-2014,/en/players/99ee29b5/Pedro-Martin,99ee29b5,Numancia,654,7.3,0.0,0.0,62,1.0,2198,Numancia
+,Dani Calvo,es ESP,DF,1,1,0.0,0.0,2013-2014,/en/players/dd672e1f/Dani-Calvo,dd672e1f,Numancia,90,1.0,0.0,0.0,62,1.0,4174,Numancia
+,César Vinuesa,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/f69b53dc/Cesar-Vinuesa,f69b53dc,Numancia,47,0.5,0.0,0.0,62,1.0,4278,Numancia
+,David Martín,es ESP,FW,4,0,0.0,0.0,2013-2014,/en/players/e1e18b12/David-Martin,1e18b12,Numancia,40,0.4,0.0,0.0,62,1.0,4273,Numancia
+,﻿Sergi Enrich,es ESP,"FW,MF",38,37,3.0,16.0,2014-2015,/en/players/bb4b1242/Sergi-Enrich,bb4b1242,Numancia,"3,168",35.2,7.0,1.0,62,1.0,1627,Numancia
+,José Isidoro,es ESP,DF,35,34,0.0,0.0,2014-2015,/en/players/bb00a819/Jose-Isidoro,bb00a819,Numancia,"3,024",33.6,8.0,0.0,62,1.0,1395,Numancia
+,Juanma,es ESP,DF,37,34,0.0,4.0,2014-2015,/en/players/396b863a/Juanma,396b863a,Numancia,"3,007",33.4,10.0,1.0,62,1.0,3439,Numancia
+,Vicente Pérez,es ESP,MF,39,32,5.0,4.0,2014-2015,/en/players/f4927d11/Vicente-Perez,f4927d11,Numancia,"3,013",33.5,4.0,0.0,62,1.0,4275,Numancia
+,Julio Álvarez,ve VEN,MF,34,32,12.0,12.0,2014-2015,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"2,883",32.0,9.0,0.0,62,53.0,1612,Numancia
+,Natalio,es ESP,FW,37,32,4.0,2.0,2014-2015,/en/players/239425b9/Natalio,239425b9,Numancia,"2,491",27.7,5.0,0.0,62,1.0,3933,Numancia
+,Iñigo Pérez,es ESP,MF,35,28,1.0,0.0,2014-2015,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Numancia,"2,462",27.4,8.0,0.0,62,1.0,1290,Numancia
+,Antonio Tomás,es ESP,MF,26,26,2.0,0.0,2014-2015,/en/players/668d4e93/Antonio-Tomas,668d4e93,Numancia,"2,068",23.0,9.0,0.0,62,1.0,426,Numancia
+,Munir,ma MAR,GK,25,25,0.0,0.0,2014-2015,/en/players/fc8287db/Munir,fc8287db,Numancia,"2,250",25.0,1.0,0.0,62,26.0,2444,Numancia
+,Francisco Regalón,es ESP,DF,26,25,1.0,2.0,2014-2015,/en/players/7b9f85b0/Francisco-Regalon,7b9f85b0,Numancia,"2,221",24.7,10.0,0.0,62,1.0,4270,Numancia
+,Adrián Ripa,es ESP,DF,26,25,1.0,0.0,2014-2015,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,"2,010",22.3,12.0,2.0,62,1.0,4268,Numancia
+,Marc Pedraza,es ESP,MF,32,22,0.0,0.0,2014-2015,/en/players/ff8f26ef/Marc-Pedraza,ff8f26ef,Numancia,"1,963",21.8,8.0,2.0,62,1.0,1716,Numancia
+,Mickaël Gaffoor,fr FRA,DF,19,18,0.0,3.0,2014-2015,/en/players/7ab63f1e/Mickael-Gaffoor,7ab63f1e,Numancia,"1,553",17.3,7.0,1.0,62,4.0,3806,Numancia
+,Biel Ribas,es ESP,GK,17,17,0.0,0.0,2014-2015,/en/players/8178716d/Biel-Ribas,8178716d,Numancia,"1,530",17.0,1.0,0.0,62,1.0,3031,Numancia
+,Dani Calvo,es ESP,DF,13,12,0.0,0.0,2014-2015,/en/players/dd672e1f/Dani-Calvo,dd672e1f,Numancia,"1,105",12.3,4.0,0.0,62,1.0,4174,Numancia
+,Cicinho,br BRA,DF,15,11,0.0,1.0,2014-2015,/en/players/cb51774a/Cicinho,cb51774a,Numancia,988,11.0,2.0,0.0,62,2.0,1867,Numancia
+,Miguel Palanca,es ESP,"FW,MF",17,10,3.0,2.0,2014-2015,/en/players/005ade52/Miguel-Palanca,005ade52,Numancia,945,10.5,3.0,0.0,62,1.0,74,Numancia
+,Braian Rodríguez,uy URU,FW,21,9,0.0,4.0,2014-2015,/en/players/ba32a26f/Braian-Rodriguez,ba32a26f,Numancia,982,10.9,4.0,1.0,62,8.0,1457,Numancia
+,Abdelkader Oueslati,tn TUN,"DF,FW",16,9,1.0,0.0,2014-2015,/en/players/dc90d163/Abdelkader-Oueslati,dc90d163,Numancia,908,10.1,5.0,0.0,62,46.0,2205,Numancia
+,Gerrit Stoeten,es ESP,MF,14,9,1.0,1.0,2014-2015,/en/players/210ca6bf/Gerrit-Stoeten,210ca6bf,Numancia,800,8.9,2.0,0.0,62,1.0,4279,Numancia
+,Luis Valcarce,es ESP,"DF,MF",14,8,0.0,0.0,2014-2015,/en/players/8e5cde3f/Luis-Valcarce,8e5cde3f,Numancia,806,9.0,0.0,0.0,62,1.0,4277,Numancia
+,Javier del Pino,es ESP,FW,23,3,0.0,0.0,2014-2015,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,569,6.3,2.0,0.0,62,1.0,4247,Numancia
+,Carlos Aranda,es ESP,FW,8,2,0.0,2.0,2014-2015,/en/players/2b60c45d/Carlos-Aranda,2b60c45d,Numancia,275,3.1,1.0,0.0,62,1.0,1810,Numancia
+,Álex Arias,es ESP,MF,6,1,0.0,0.0,2014-2015,/en/players/ef2a91c3/Alex-Arias,f2a91c3,Numancia,148,1.6,0.0,0.0,62,1.0,4280,Numancia
+,Javi Bonilla,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/3d67cc6e/Javi-Bonilla,3d67cc6e,Numancia,64,0.7,1.0,0.0,62,1.0,4265,Numancia
+,Edipo Rodríguez,do DOM,MF,9,0,0.0,0.0,2014-2015,/en/players/2b94f94c/Edipo-Rodriguez,2b94f94c,Numancia,127,1.4,0.0,0.0,62,25.0,4281,Numancia
+,Ito,es ESP,FW,2,0,0.0,0.0,2014-2015,/en/players/5393bd3a/Ito,5393bd3a,Numancia,30,0.3,0.0,0.0,62,1.0,4282,Numancia
+,Pablo Valcarce,es ESP,"FW,MF",2,0,0.0,0.0,2014-2015,/en/players/f51ee65e/Pablo-Valcarce,f51ee65e,Numancia,28,0.3,0.0,0.0,62,1.0,1727,Numancia
+,Vallejo,es ESP,GK,0,0,,,2014-2015,/en/players/9353561a/Vallejo,9353561a,Numancia,,,,,62,1.0,4283,Numancia
+,﻿Unai Medina,es ESP,DF,38,38,3.0,1.0,2015-2016,/en/players/bda6ddeb/Unai-Medina,bda6ddeb,Numancia,"3,269",36.3,5.0,0.0,62,1.0,3325,Numancia
+,Luis Valcarce,es ESP,"DF,MF",36,36,3.0,1.0,2015-2016,/en/players/8e5cde3f/Luis-Valcarce,8e5cde3f,Numancia,"3,162",35.1,8.0,1.0,62,1.0,4277,Numancia
+,Munir,ma MAR,GK,35,35,0.0,0.0,2015-2016,/en/players/fc8287db/Munir,fc8287db,Numancia,"3,150",35.0,1.0,0.0,62,26.0,2444,Numancia
+,Álex Alegría,es ESP,FW,41,31,0.0,12.0,2015-2016,/en/players/46166b49/Alex-Alegria,46166b49,Numancia,"2,843",31.6,5.0,1.0,62,1.0,1472,Numancia
+,Marc Pedraza,es ESP,MF,29,29,0.0,3.0,2015-2016,/en/players/ff8f26ef/Marc-Pedraza,ff8f26ef,Numancia,"2,272",25.2,10.0,1.0,62,1.0,1716,Numancia
+,Jon Gaztañaga,es ESP,"DF,MF",34,27,2.0,0.0,2015-2016,/en/players/806872d2/Jon-Gaztanaga,806872d2,Numancia,"2,561",28.5,5.0,0.0,62,1.0,294,Numancia
+,Pablo Valcarce,es ESP,"FW,MF",34,27,6.0,7.0,2015-2016,/en/players/f51ee65e/Pablo-Valcarce,f51ee65e,Numancia,"2,404",26.7,8.0,1.0,62,1.0,1727,Numancia
+,Pedro Orfila,es ESP,DF,29,26,0.0,0.0,2015-2016,/en/players/a38c114e/Pedro-Orfila,38c114e,Numancia,"2,392",26.6,6.0,0.0,62,1.0,2920,Numancia
+,Alexander Callens,pe PER,DF,23,23,0.0,2.0,2015-2016,/en/players/af34f10d/Alexander-Callens,f34f10d,Numancia,"2,049",22.8,4.0,0.0,62,57.0,4284,Numancia
+,Iñigo Pérez,es ESP,MF,26,22,3.0,1.0,2015-2016,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Numancia,"2,050",22.8,6.0,0.0,62,1.0,1290,Numancia
+,Francisco Regalón,es ESP,DF,22,21,1.0,2.0,2015-2016,/en/players/7b9f85b0/Francisco-Regalon,7b9f85b0,Numancia,"1,829",20.3,4.0,1.0,62,1.0,4270,Numancia
+,Julio Álvarez,ve VEN,MF,24,20,7.0,9.0,2015-2016,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"1,789",19.9,7.0,0.0,62,53.0,1612,Numancia
+,David Concha,es ESP,"FW,MF",26,20,2.0,5.0,2015-2016,/en/players/c8355268/David-Concha,c8355268,Numancia,"1,585",17.6,0.0,0.0,62,1.0,316,Numancia
+,Juanma,es ESP,DF,19,18,2.0,1.0,2015-2016,/en/players/396b863a/Juanma,396b863a,Numancia,"1,529",17.0,5.0,1.0,62,1.0,3439,Numancia
+,Marc Mateu,es ESP,"DF,MF",29,15,2.0,1.0,2015-2016,/en/players/ed90fc36/Marc-Mateu,d90fc36,Numancia,"1,508",16.8,3.0,0.0,62,1.0,4141,Numancia
+,Óscar Díaz,es ESP,"FW,MF",16,13,1.0,7.0,2015-2016,/en/players/5a5ed410/Oscar-Diaz,5a5ed410,Numancia,"1,112",12.4,3.0,0.0,62,1.0,707,Numancia
+,Nacho,es ESP,MF,26,11,0.0,1.0,2015-2016,/en/players/0c78c871/Nacho,0c78c871,Numancia,"1,316",14.6,4.0,1.0,62,1.0,4285,Numancia
+,Vicente Pérez,es ESP,MF,19,10,1.0,0.0,2015-2016,/en/players/f4927d11/Vicente-Perez,f4927d11,Numancia,969,10.8,0.0,0.0,62,1.0,4275,Numancia
+,Natalio,es ESP,FW,13,7,1.0,2.0,2015-2016,/en/players/239425b9/Natalio,239425b9,Numancia,525,5.8,1.0,0.0,62,1.0,3933,Numancia
+,Antonio Martínez,es ESP,MF,8,7,1.0,0.0,2015-2016,/en/players/de3c4ef7/Antonio-Martinez,de3c4ef7,Numancia,498,5.5,5.0,0.0,62,1.0,4286,Numancia
+,Adrián Ripa,es ESP,DF,7,6,0.0,0.0,2015-2016,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,558,6.2,1.0,1.0,62,1.0,4268,Numancia
+,Dani Aquino,es ESP,"FW,MF",28,4,1.0,1.0,2015-2016,/en/players/060a66fb/Dani-Aquino,060a66fb,Numancia,648,7.2,4.0,0.0,62,1.0,2207,Numancia
+,Juan Pablo Colinas,es ESP,GK,4,4,0.0,0.0,2015-2016,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Numancia,360,4.0,0.0,0.0,62,1.0,3274,Numancia
+,Adrián Dalmau,es ESP,FW,9,3,0.0,0.0,2015-2016,/en/players/7330f886/Adrian-Dalmau,7330f886,Numancia,330,3.7,1.0,0.0,62,1.0,1700,Numancia
+,Biel Ribas,es ESP,GK,3,3,0.0,0.0,2015-2016,/en/players/8178716d/Biel-Ribas,8178716d,Numancia,270,3.0,0.0,0.0,62,1.0,3031,Numancia
+,Antonio Tomás,es ESP,MF,3,3,0.0,0.0,2015-2016,/en/players/668d4e93/Antonio-Tomas,668d4e93,Numancia,236,2.6,1.0,0.0,62,1.0,426,Numancia
+,Javier del Pino,es ESP,FW,2,2,1.0,0.0,2015-2016,/en/players/e6279028/Javier-del-Pino,6279028,Numancia,140,1.6,0.0,0.0,62,1.0,4247,Numancia
+,Jorge Diaz,uy URU,"FW,MF",3,1,0.0,0.0,2015-2016,/en/players/d3248912/Jorge-Diaz,d3248912,Numancia,106,1.2,0.0,0.0,62,8.0,3624,Numancia
+,Diego Ciria,es ESP,DF,0,0,,,2015-2016,/en/players/3eb15b9f/Diego-Ciria,3eb15b9f,Numancia,,,,,62,1.0,4287,Numancia
+,Vallejo,es ESP,GK,0,0,,,2015-2016,/en/players/9353561a/Vallejo,9353561a,Numancia,,,,,62,1.0,4283,Numancia
+,﻿Marc Mateu,es ESP,MF,39,38,6.0,3.0,2016-2017,/en/players/ed90fc36/Marc-Mateu,d90fc36,Numancia,"3,333",37.0,6.0,2.0,62,1.0,4141,Numancia
+,Iñigo Pérez,es ESP,MF,39,36,3.0,1.0,2016-2017,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Numancia,"3,131",34.8,1.0,1.0,62,1.0,1290,Numancia
+,Iñigo Ruiz de Galarreta,es ESP,MF,37,35,3.0,2.0,2016-2017,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,91f7631f,Numancia,"3,090",34.3,6.0,0.0,62,1.0,1301,Numancia
+,Unai Medina,es ESP,DF,33,30,4.0,2.0,2016-2017,/en/players/bda6ddeb/Unai-Medina,bda6ddeb,Numancia,"2,724",30.3,4.0,1.0,62,1.0,3325,Numancia
+,Pablo Valcarce,es ESP,MF,36,29,2.0,8.0,2016-2017,/en/players/f51ee65e/Pablo-Valcarce,f51ee65e,Numancia,"2,443",27.1,2.0,1.0,62,1.0,1727,Numancia
+,Aitor Fernández,es ESP,GK,29,28,0.0,0.0,2016-2017,/en/players/a01c3d54/Aitor-Fernandez,01c3d54,Numancia,"2,545",28.3,2.0,0.0,62,1.0,2777,Numancia
+,Julio Álvarez,ve VEN,MF,29,28,7.0,4.0,2016-2017,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Numancia,"2,358",26.2,5.0,0.0,62,53.0,1612,Numancia
+,Dani Calvo,es ESP,DF,24,24,0.0,3.0,2016-2017,/en/players/dd672e1f/Dani-Calvo,dd672e1f,Numancia,"2,160",24.0,4.0,0.0,62,1.0,4174,Numancia
+,Carlos Gutiérrez,es ESP,DF,26,24,0.0,0.0,2016-2017,/en/players/933de879/Carlos-Gutierrez,933de879,Numancia,"2,145",23.8,7.0,2.0,62,1.0,4298,Numancia
+,Alberto Escassi,es ESP,"DF,MF",28,19,0.0,1.0,2016-2017,/en/players/154fe273/Alberto-Escassi,154fe273,Numancia,"1,813",20.1,9.0,0.0,62,1.0,2472,Numancia
+,Adrián Ripa,es ESP,DF,19,17,0.0,0.0,2016-2017,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,"1,515",16.8,3.0,0.0,62,1.0,4268,Numancia
+,Manu del Moral,es ESP,FW,20,17,0.0,9.0,2016-2017,/en/players/1026f88d/Manu-del-Moral,1026f88d,Numancia,"1,374",15.3,3.0,0.0,62,1.0,1859,Numancia
+,Nacho,es ESP,MF,28,16,1.0,2.0,2016-2017,/en/players/0c78c871/Nacho,0c78c871,Numancia,"1,367",15.2,4.0,0.0,62,1.0,4285,Numancia
+,Pedro Orfila,es ESP,DF,22,15,0.0,0.0,2016-2017,/en/players/a38c114e/Pedro-Orfila,38c114e,Numancia,"1,488",16.5,4.0,0.0,62,1.0,2920,Numancia
+,Luis Valcarce,es ESP,DF,16,15,0.0,0.0,2016-2017,/en/players/8e5cde3f/Luis-Valcarce,8e5cde3f,Numancia,"1,346",15.0,4.0,0.0,62,1.0,4277,Numancia
+,Eneko Capilla,es ESP,MF,33,14,1.0,0.0,2016-2017,/en/players/54bed007/Eneko-Capilla,54bed007,Numancia,"1,444",16.0,4.0,0.0,62,1.0,300,Numancia
+,Alexander Callens,pe PER,DF,16,14,0.0,1.0,2016-2017,/en/players/af34f10d/Alexander-Callens,f34f10d,Numancia,"1,319",14.7,1.0,0.0,62,57.0,4284,Numancia
+,Munir,ma MAR,GK,13,13,0.0,0.0,2016-2017,/en/players/fc8287db/Munir,fc8287db,Numancia,"1,145",12.7,2.0,0.0,62,26.0,2444,Numancia
+,Jairo Morillas,es ESP,FW,18,9,0.0,2.0,2016-2017,/en/players/a0414cb4/Jairo-Morillas,0414cb4,Numancia,797,8.9,0.0,0.0,62,1.0,3080,Numancia
+,Francisco Regalón,es ESP,DF,10,9,0.0,1.0,2016-2017,/en/players/7b9f85b0/Francisco-Regalon,7b9f85b0,Numancia,764,8.5,2.0,2.0,62,1.0,4270,Numancia
+,Dani Nieto,es ESP,"MF,FW",15,7,1.0,0.0,2016-2017,/en/players/d7d46f3b/Dani-Nieto,d7d46f3b,Numancia,678,7.5,4.0,0.0,62,1.0,4288,Numancia
+,José Manuel Casado,es ESP,DF,7,7,0.0,0.0,2016-2017,/en/players/d0b6d20e/Jose-Manuel-Casado,d0b6d20e,Numancia,574,6.4,2.0,0.0,62,1.0,1837,Numancia
+,Marc Pedraza,es ESP,MF,16,6,0.0,0.0,2016-2017,/en/players/ff8f26ef/Marc-Pedraza,ff8f26ef,Numancia,572,6.4,2.0,1.0,62,1.0,1716,Numancia
+,Asier Villalibre,es ESP,FW,5,5,0.0,0.0,2016-2017,/en/players/57be54ec/Asier-Villalibre,57be54ec,Numancia,450,5.0,0.0,0.0,62,1.0,1318,Numancia
+,Javier Acuña,py PAR,FW,15,3,0.0,0.0,2016-2017,/en/players/993ff7aa/Javier-Acuna,993ff7aa,Numancia,419,4.7,0.0,0.0,62,43.0,1686,Numancia
+,Enrique Sola,es ESP,FW,10,3,0.0,0.0,2016-2017,/en/players/bef2e50e/Enrique-Sola,bef2e50e,Numancia,331,3.7,0.0,0.0,62,1.0,1306,Numancia
+,Mikel Saizar,es ESP,GK,1,1,0.0,0.0,2016-2017,/en/players/b9ddfda6/Mikel-Saizar,b9ddfda6,Numancia,90,1.0,0.0,0.0,62,1.0,4289,Numancia
+,Binke Diabaté,ml MLI,FW,1,0,0.0,0.0,2016-2017,/en/players/52470720/Binke-Diabate,52470720,Numancia,19,0.2,0.0,0.0,62,12.0,4290,Numancia
+,Pablo Sanz,es ESP,FW,1,0,0.0,0.0,2016-2017,/en/players/d8ac959b/Pablo-Sanz,d8ac959b,Numancia,11,0.1,0.0,0.0,62,1.0,4291,Numancia
+,Gorka Alegría,es ESP,GK,0,0,,,2016-2017,/en/players/1d4d2f37/Gorka-Alegria,1d4d2f37,Numancia,,,,,62,1.0,4292,Numancia
+,Sergio Madrigal,es ESP,MF,0,0,,,2016-2017,/en/players/9339d947/Sergio-Madrigal,9339d947,Numancia,,,,,62,1.0,4293,Numancia
+,Jorge Pomareta Pablos,es ESP,DF,0,0,,,2016-2017,/en/players/9d3e02ad/Jorge-Pomareta-Pablos,9d3e02ad,Numancia,,,,,62,1.0,4294,Numancia
+,Moha Sanhaji,ma MAR,MF,0,0,,,2016-2017,/en/players/e70c3e94/Moha-Sanhaji,70c3e94,Numancia,,,,,62,26.0,4295,Numancia
+,Juan Silva,es ESP,FW,0,0,,,2016-2017,/en/players/a4ea9b5e/Juan-Silva,4ea9b5e,Numancia,,,,,62,1.0,4296,Numancia
+,Viti,es ESP,GK,0,0,,,2016-2017,/en/players/ab573a07/Viti,b573a07,Numancia,,,,,62,1.0,4297,Numancia
+,﻿Aitor Fernández,es ESP,GK,41,41,0.0,0.0,2017-2018,/en/players/a01c3d54/Aitor-Fernandez,01c3d54,Numancia,"3,690",41.0,0.0,0.0,62,1.0,2777,Numancia
+,Marc Mateu,es ESP,MF,42,40,8.0,2.0,2017-2018,/en/players/ed90fc36/Marc-Mateu,d90fc36,Numancia,"3,608",40.1,4.0,0.0,62,1.0,4141,Numancia
+,Iñigo Pérez,es ESP,MF,38,38,7.0,2.0,2017-2018,/en/players/bc61cc65/Inigo-Perez,bc61cc65,Numancia,"3,403",37.8,5.0,0.0,62,1.0,1290,Numancia
+,Pere Milla,es ESP,"MF,FW",35,32,3.0,6.0,2017-2018,/en/players/335039a2/Pere-Milla,335039a2,Numancia,"2,777",30.9,6.0,0.0,62,1.0,4045,Numancia
+,Alberto Escassi,es ESP,"DF,MF",33,29,0.0,1.0,2017-2018,/en/players/154fe273/Alberto-Escassi,154fe273,Numancia,"2,582",28.7,9.0,0.0,62,1.0,2472,Numancia
+,Carlos Gutiérrez,es ESP,DF,28,28,2.0,2.0,2017-2018,/en/players/933de879/Carlos-Gutierrez,933de879,Numancia,"2,446",27.2,5.0,0.0,62,1.0,4298,Numancia
+,Manu del Moral,es ESP,FW,31,27,3.0,8.0,2017-2018,/en/players/1026f88d/Manu-del-Moral,1026f88d,Numancia,"2,165",24.1,3.0,0.0,62,1.0,1859,Numancia
+,Dani Calvo,es ESP,DF,27,26,0.0,0.0,2017-2018,/en/players/dd672e1f/Dani-Calvo,dd672e1f,Numancia,"2,310",25.7,5.0,0.0,62,1.0,4174,Numancia
+,Pape Maly Diamanka,sn SEN,MF,29,26,2.0,2.0,2017-2018,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Numancia,"2,251",25.0,4.0,1.0,62,34.0,3455,Numancia
+,Pablo Valcarce,es ESP,MF,29,24,4.0,4.0,2017-2018,/en/players/f51ee65e/Pablo-Valcarce,f51ee65e,Numancia,"2,027",22.5,7.0,0.0,62,1.0,1727,Numancia
+,Markel Etxeberria,es ESP,DF,24,22,0.0,0.0,2017-2018,/en/players/da688437/Markel-Etxeberria,da688437,Numancia,"1,891",21.0,5.0,1.0,62,1.0,2643,Numancia
+,Unai Medina,es ESP,DF,24,20,2.0,1.0,2017-2018,/en/players/bda6ddeb/Unai-Medina,bda6ddeb,Numancia,"1,865",20.7,4.0,0.0,62,1.0,3325,Numancia
+,Adrián Ripa,es ESP,DF,20,19,0.0,0.0,2017-2018,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,"1,591",17.7,5.0,0.0,62,1.0,4268,Numancia
+,Guillermo,es ESP,"FW,MF",37,18,2.0,8.0,2017-2018,/en/players/15107141/Guillermo,15107141,Numancia,"1,710",19.0,1.0,0.0,62,1.0,1305,Numancia
+,Saúl García,es ESP,DF,18,17,0.0,0.0,2017-2018,/en/players/dafa5038/Saul-Garcia,dafa5038,Numancia,"1,573",17.5,0.0,0.0,62,1.0,549,Numancia
+,Unai Elgezabal,es ESP,DF,19,16,0.0,0.0,2017-2018,/en/players/01cc0c90/Unai-Elgezabal,01cc0c90,Numancia,"1,367",15.2,5.0,0.0,62,1.0,4299,Numancia
+,Nacho,es ESP,MF,28,10,2.0,2.0,2017-2018,/en/players/0c78c871/Nacho,0c78c871,Numancia,"1,087",12.1,3.0,0.0,62,1.0,4285,Numancia
+,Dani Nieto,es ESP,MF,24,8,0.0,2.0,2017-2018,/en/players/d7d46f3b/Dani-Nieto,d7d46f3b,Numancia,839,9.3,0.0,1.0,62,1.0,4288,Numancia
+,Higinio Marín,es ESP,"FW,MF",25,7,0.0,6.0,2017-2018,/en/players/61db425b/Higinio-Marin,61db425b,Numancia,840,9.3,1.0,0.0,62,1.0,3952,Numancia
+,Pablo Larrea,es ESP,MF,22,6,0.0,0.0,2017-2018,/en/players/a4c8810b/Pablo-Larrea,4c8810b,Numancia,738,8.2,4.0,0.0,62,1.0,2790,Numancia
+,Luis Valcarce,es ESP,"MF,DF",5,4,1.0,0.0,2017-2018,/en/players/8e5cde3f/Luis-Valcarce,8e5cde3f,Numancia,382,4.2,1.0,0.0,62,1.0,4277,Numancia
+,Grego Sierra,es ESP,MF,5,3,0.0,0.0,2017-2018,/en/players/2710e38b/Grego-Sierra,2710e38b,Numancia,251,2.8,1.0,0.0,62,1.0,4300,Numancia
+,Munir,ma MAR,GK,1,1,0.0,0.0,2017-2018,/en/players/fc8287db/Munir,fc8287db,Numancia,90,1.0,0.0,0.0,62,26.0,2444,Numancia
+,Gaizka Campos Bahillo,es ESP,GK,0,0,,,2017-2018,/en/players/54a9bc73/Gaizka-Campos-Bahillo,54a9bc73,Numancia,,,,,62,1.0,851,Numancia
+,Ali Al Nemer,sa KSA,MF,0,0,,,2017-2018,/en/players/4d20e7a7/Ali-Al-Nemer,4d20e7a7,Numancia,,,,,62,95.0,4301,Numancia
+,﻿Juan Carlos,es ESP,GK,39,39,0.0,0.0,2018-2019,/en/players/bc5adc98/Juan-Carlos,bc5adc98,Numancia,"3,510",39.0,5.0,0.0,62,1.0,2744,Numancia
+,Pichu Atienza,es ESP,DF,38,38,0.0,2.0,2018-2019,/en/players/aaeacaca/Pichu-Atienza,caca,Numancia,"3,395",37.7,11.0,1.0,62,1.0,3663,Numancia
+,Fran Villalba,es ESP,"MF,FW",39,38,7.0,4.0,2018-2019,/en/players/0d2603b5/Fran-Villalba,0d2603b5,Numancia,"3,303",36.7,6.0,1.0,62,1.0,977,Numancia
+,Pape Maly Diamanka,sn SEN,MF,37,36,1.0,9.0,2018-2019,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Numancia,"3,079",34.2,9.0,0.0,62,34.0,3455,Numancia
+,Alberto Escassi,es ESP,"MF,DF",34,34,1.0,2.0,2018-2019,/en/players/154fe273/Alberto-Escassi,154fe273,Numancia,"2,979",33.1,11.0,2.0,62,1.0,2472,Numancia
+,Unai Medina,es ESP,DF,26,25,1.0,1.0,2018-2019,/en/players/bda6ddeb/Unai-Medina,bda6ddeb,Numancia,"2,002",22.2,4.0,2.0,62,1.0,3325,Numancia
+,Yaw Yeboah,gh GHA,"FW,MF",34,22,0.0,2.0,2018-2019,/en/players/36292031/Yaw-Yeboah,36292031,Numancia,"1,988",22.1,6.0,1.0,62,17.0,4302,Numancia
+,Carlos Gutiérrez,es ESP,DF,25,22,1.0,1.0,2018-2019,/en/players/933de879/Carlos-Gutierrez,933de879,Numancia,"1,954",21.7,4.0,0.0,62,1.0,4298,Numancia
+,Marc Mateu,es ESP,"DF,FW",26,21,2.0,1.0,2018-2019,/en/players/ed90fc36/Marc-Mateu,d90fc36,Numancia,"1,980",22.0,6.0,0.0,62,1.0,4141,Numancia
+,Alain Oyarzun,es ESP,"FW,MF",24,20,8.0,3.0,2018-2019,/en/players/8159c16a/Alain-Oyarzun,8159c16a,Numancia,"1,748",19.4,3.0,0.0,62,1.0,303,Numancia
+,Cristian Ganea,ro ROU,DF,17,17,2.0,0.0,2018-2019,/en/players/baf5665c/Cristian-Ganea,baf5665c,Numancia,"1,444",16.0,0.0,0.0,62,51.0,1327,Numancia
+,Guillermo,es ESP,FW,30,16,1.0,6.0,2018-2019,/en/players/15107141/Guillermo,15107141,Numancia,"1,574",17.5,2.0,0.0,62,1.0,1305,Numancia
+,Luís Gustavo Ledes,pt POR,MF,17,16,0.0,0.0,2018-2019,/en/players/44400941/Luis-Gustavo-Ledes,44400941,Numancia,"1,411",15.7,6.0,0.0,62,3.0,4303,Numancia
+,Higinio Marín,es ESP,"FW,MF",28,16,0.0,2.0,2018-2019,/en/players/61db425b/Higinio-Marin,61db425b,Numancia,"1,396",15.5,4.0,0.0,62,1.0,3952,Numancia
+,David Rodríguez,es ESP,FW,16,16,1.0,4.0,2018-2019,/en/players/bae862bf/David-Rodriguez,bae862bf,Numancia,"1,344",14.9,4.0,0.0,62,1.0,706,Numancia
+,Nacho,es ESP,"MF,FW",26,14,1.0,2.0,2018-2019,/en/players/0c78c871/Nacho,0c78c871,Numancia,"1,478",16.4,2.0,0.0,62,1.0,4285,Numancia
+,Alejandro Sanz,es ESP,MF,19,11,0.0,0.0,2018-2019,/en/players/e514ee96/Alejandro-Sanz,514ee96,Numancia,977,10.9,2.0,0.0,62,1.0,304,Numancia
+,Derik Osede,es ESP,DF,11,11,1.0,0.0,2018-2019,/en/players/fdccf078/Derik-Osede,fdccf078,Numancia,940,10.4,1.0,0.0,62,1.0,594,Numancia
+,Markel Etxeberria,es ESP,DF,12,10,0.0,0.0,2018-2019,/en/players/da688437/Markel-Etxeberria,da688437,Numancia,881,9.8,4.0,0.0,62,1.0,2643,Numancia
+,Adrián Ripa,es ESP,DF,8,7,0.0,0.0,2018-2019,/en/players/c5a2ecfa/Adrian-Ripa,c5a2ecfa,Numancia,550,6.1,4.0,0.0,62,1.0,4268,Numancia
+,Luis Valcarce,es ESP,"DF,MF",11,7,1.0,0.0,2018-2019,/en/players/8e5cde3f/Luis-Valcarce,8e5cde3f,Numancia,547,6.1,0.0,0.0,62,1.0,4277,Numancia
+,Dani Calvo,es ESP,DF,7,6,0.0,0.0,2018-2019,/en/players/dd672e1f/Dani-Calvo,dd672e1f,Numancia,547,6.1,1.0,0.0,62,1.0,4174,Numancia
+,Borja Viguera,es ESP,"MF,FW",23,4,1.0,1.0,2018-2019,/en/players/d906a703/Borja-Viguera,d906a703,Numancia,683,7.6,2.0,0.0,62,1.0,261,Numancia
+,Gaizka Campos Bahillo,es ESP,GK,2,2,0.0,0.0,2018-2019,/en/players/54a9bc73/Gaizka-Campos-Bahillo,54a9bc73,Numancia,180,2.0,0.0,0.0,62,1.0,851,Numancia
+,Pablo Larrea,es ESP,MF,5,1,0.0,0.0,2018-2019,/en/players/a4c8810b/Pablo-Larrea,4c8810b,Numancia,209,2.3,1.0,0.0,62,1.0,2790,Numancia
+,Alberto Noguera,es ESP,MF,5,1,0.0,0.0,2018-2019,/en/players/8a46f4c8/Alberto-Noguera,8a46f4c8,Numancia,163,1.8,0.0,0.0,62,1.0,2194,Numancia
+,Dani Nieto,es ESP,MF,3,1,0.0,0.0,2018-2019,/en/players/d7d46f3b/Dani-Nieto,d7d46f3b,Numancia,118,1.3,1.0,0.0,62,1.0,4288,Numancia
+,Jordi Sánchez,es ESP,FW,7,0,0.0,1.0,2018-2019,/en/players/658117b6/Jordi-Sanchez,658117b6,Numancia,108,1.2,3.0,0.0,62,1.0,3872,Numancia
+,Grego Sierra,es ESP,DF,2,0,0.0,0.0,2018-2019,/en/players/2710e38b/Grego-Sierra,2710e38b,Numancia,35,0.4,1.0,0.0,62,1.0,4300,Numancia
+,Marcos Isla,es ESP,DF,0,0,,,2018-2019,/en/players/894e3bdb/Marcos-Isla,894e3bdb,Numancia,,,,,62,1.0,4304,Numancia
+,Roberto Jara,es ESP,GK,0,0,,,2018-2019,/en/players/a47db4ef/Roberto-Jara,47db4ef,Numancia,,,,,62,1.0,4305,Numancia
+,Moha Sanhaji,ma MAR,MF,0,0,,,2018-2019,/en/players/e70c3e94/Moha-Sanhaji,70c3e94,Numancia,,,,,62,26.0,4295,Numancia
+,Raúl Vallejo,es ESP,MF,0,0,,,2018-2019,/en/players/bbaec40e/Raul-Vallejo,bbaec40e,Numancia,,,,,62,1.0,4306,Numancia
+,﻿Dani Barrio,es ESP,GK,42,42,0.0,0.0,2019-2020,/en/players/b56f8c7f/Dani-Barrio,b56f8c7f,Numancia,"3,780",42.0,1.0,0.0,62,1.0,2474,Numancia
+,Iván Calero,es ESP,DF,37,37,6.0,2.0,2019-2020,/en/players/6724c5a9/Ivan-Calero,6724c5a9,Numancia,"3,139",34.9,10.0,1.0,62,1.0,2476,Numancia
+,Alberto Escassi,es ESP,"MF,DF",35,34,1.0,7.0,2019-2020,/en/players/154fe273/Alberto-Escassi,154fe273,Numancia,"3,036",33.7,12.0,1.0,62,1.0,2472,Numancia
+,Higinio Marín,es ESP,FW,38,34,2.0,10.0,2019-2020,/en/players/61db425b/Higinio-Marin,61db425b,Numancia,"3,017",33.5,9.0,1.0,62,1.0,3952,Numancia
+,Marc Mateu,es ESP,MF,36,32,4.0,1.0,2019-2020,/en/players/ed90fc36/Marc-Mateu,d90fc36,Numancia,"2,750",30.6,4.0,0.0,62,1.0,4141,Numancia
+,Curro,es ESP,MF,34,31,5.0,13.0,2019-2020,/en/players/f9a225f5/Curro,f9a225f5,Numancia,"2,614",29.0,7.0,1.0,62,1.0,1901,Numancia
+,Luís Gustavo Ledes,pt POR,MF,33,30,0.0,0.0,2019-2020,/en/players/44400941/Luis-Gustavo-Ledes,44400941,Numancia,"2,621",29.1,10.0,1.0,62,3.0,4303,Numancia
+,Héctor Hernández,es ESP,DF,31,30,0.0,0.0,2019-2020,/en/players/76ee80ee/Hector-Hernandez,76ee80ee,Numancia,"2,578",28.6,6.0,1.0,62,1.0,310,Numancia
+,Derik Osede,es ESP,DF,25,25,2.0,2.0,2019-2020,/en/players/fdccf078/Derik-Osede,fdccf078,Numancia,"2,192",24.4,0.0,0.0,62,1.0,594,Numancia
+,Alex Sola,es ESP,"MF,DF",31,23,2.0,1.0,2019-2020,/en/players/5fa714d5/Alex-Sola,5fa714d5,Numancia,"2,217",24.6,4.0,0.0,62,1.0,331,Numancia
+,Moha Sanhaji,ma MAR,MF,34,23,3.0,1.0,2019-2020,/en/players/e70c3e94/Moha-Sanhaji,70c3e94,Numancia,"2,158",24.0,1.0,0.0,62,26.0,4295,Numancia
+,Adri Castellano,es ESP,DF,21,18,0.0,1.0,2019-2020,/en/players/3dc7c57d/Adri-Castellano,3dc7c57d,Numancia,"1,582",17.6,2.0,0.0,62,1.0,4307,Numancia
+,Carlos Gutiérrez,es ESP,DF,17,16,0.0,2.0,2019-2020,/en/players/933de879/Carlos-Gutierrez,933de879,Numancia,"1,456",16.2,7.0,1.0,62,1.0,4298,Numancia
+,Erik Morán,es ESP,MF,13,13,0.0,0.0,2019-2020,/en/players/6941883f/Erik-Moran,6941883f,Numancia,"1,125",12.5,4.0,0.0,62,1.0,1302,Numancia
+,Alberto Noguera,es ESP,MF,23,12,1.0,1.0,2019-2020,/en/players/8a46f4c8/Alberto-Noguera,8a46f4c8,Numancia,"1,032",11.5,6.0,0.0,62,1.0,2194,Numancia
+,Antonio Otegui,es ESP,MF,19,10,0.0,0.0,2019-2020,/en/players/b7d5bc5e/Antonio-Otegui,b7d5bc5e,Numancia,888,9.9,1.0,0.0,62,1.0,2065,Numancia
+,Bernardo Cruz,es ESP,DF,8,8,0.0,0.0,2019-2020,/en/players/47872f21/Bernardo-Cruz,47872f21,Numancia,613,6.8,4.0,0.0,62,1.0,2932,Numancia
+,Nacho,es ESP,"MF,DF",22,7,2.0,0.0,2019-2020,/en/players/0c78c871/Nacho,0c78c871,Numancia,867,9.6,5.0,0.0,62,1.0,4285,Numancia
+,Igor Zlatanović,rs SRB,"FW,MF",15,7,1.0,2.0,2019-2020,/en/players/12a26f10/Igor-Zlatanovic,12a26f10,Numancia,697,7.7,0.0,0.0,62,28.0,4308,Numancia
+,Admonio Vicente Gomes,gw GNB,DF,8,7,0.0,0.0,2019-2020,/en/players/7548bb42/Admonio-Vicente-Gomes,7548bb42,Numancia,592,6.6,1.0,0.0,62,93.0,4309,Numancia
+,Alejandro Sanz,es ESP,MF,13,7,0.0,0.0,2019-2020,/en/players/e514ee96/Alejandro-Sanz,514ee96,Numancia,549,6.1,1.0,0.0,62,1.0,304,Numancia
+,Álvaro Aguado,es ESP,MF,8,4,1.0,0.0,2019-2020,/en/players/014aa7bd/Alvaro-Aguado,014aa7bd,Numancia,459,5.1,1.0,0.0,62,1.0,2690,Numancia
+,Vidorreta,es ESP,MF,6,4,0.0,0.0,2019-2020,/en/players/e0ac8428/Vidorreta,0ac8428,Numancia,300,3.3,1.0,0.0,62,1.0,4310,Numancia
+,Guillermo,es ESP,FW,16,3,0.0,2.0,2019-2020,/en/players/15107141/Guillermo,15107141,Numancia,369,4.1,2.0,0.0,62,1.0,1305,Numancia
+,Alain Oyarzun,es ESP,MF,6,3,0.0,0.0,2019-2020,/en/players/8159c16a/Alain-Oyarzun,8159c16a,Numancia,252,2.8,1.0,0.0,62,1.0,303,Numancia
+,Néstor Albiach,es ESP,FW,16,2,0.0,0.0,2019-2020,/en/players/8887813b/Nestor-Albiach,8887813b,Numancia,390,4.3,1.0,0.0,62,1.0,4311,Numancia
+,Adri Herrera,es ESP,FW,9,0,0.0,0.0,2019-2020,/en/players/eb4fce2d/Adri-Herrera,b4fce2d,Numancia,101,1.1,1.0,0.0,62,1.0,4312,Numancia
+,Ali Radjel,mr MTN,MF,3,0,0.0,0.0,2019-2020,/en/players/77029e76/Ali-Radjel,77029e76,Numancia,19,0.2,0.0,0.0,62,94.0,4313,Numancia
+,Abel Conejo,es ESP,MF,1,0,0.0,0.0,2019-2020,/en/players/0953ecc0/Abel-Conejo,0953ecc0,Numancia,8,0.1,0.0,0.0,62,1.0,4314,Numancia
+,Juan Carlos,es ESP,GK,0,0,0.0,0.0,2019-2020,/en/players/bc5adc98/Juan-Carlos,bc5adc98,Numancia,,0.0,1.0,0.0,62,1.0,2744,Numancia
+,Diego Cámara,es ESP,DF,0,0,,,2019-2020,/en/players/125dce8c/Diego-Camara,125dce8c,Numancia,,,,,62,1.0,4315,Numancia
+,Daniel Ceinos,es ESP,DF,0,0,,,2019-2020,/en/players/925d8d1a/Daniel-Ceinos,925d8d1a,Numancia,,,,,62,1.0,4316,Numancia
+,De Frutos,es ESP,MF,0,0,,,2019-2020,/en/players/af6efe5c/De-Frutos,f6efe5c,Numancia,,,,,62,1.0,4317,Numancia
+,Marcos Isla,es ESP,DF,0,0,,,2019-2020,/en/players/894e3bdb/Marcos-Isla,894e3bdb,Numancia,,,,,62,1.0,4304,Numancia
+,Roberto Jara,es ESP,GK,0,0,,,2019-2020,/en/players/a47db4ef/Roberto-Jara,47db4ef,Numancia,,,,,62,1.0,4305,Numancia
+,Alfredo Sualdea López,es ESP,FW,0,0,,,2019-2020,/en/players/2813b5b3/Alfredo-Sualdea-Lopez,2813b5b3,Numancia,,,,,62,1.0,4318,Numancia
+,﻿David Castro,es ESP,DF,2,2,0.0,0.0,2020-2021,/en/players/28685101/David-Castro,28685101,Numancia,180.0,2.0,0.0,0.0,62,1.0,4319,Numancia
+,Roberto Jara,es ESP,GK,2,2,0.0,0.0,2020-2021,/en/players/a47db4ef/Roberto-Jara,47db4ef,Numancia,180.0,2.0,0.0,0.0,62,1.0,4305,Numancia
+,Fran Manzanara,es ESP,MF,2,2,0.0,1.0,2020-2021,/en/players/bbfaeda4/Fran-Manzanara,bbfaeda4,Numancia,180.0,2.0,0.0,0.0,62,1.0,4193,Numancia
+,Asier Benito,es ESP,FW,2,2,0.0,0.0,2020-2021,/en/players/02a111ed/Asier-Benito,02a111ed,Numancia,159.0,1.8,0.0,0.0,62,1.0,3347,Numancia
+,Borja López,es ESP,DF,2,2,0.0,0.0,2020-2021,/en/players/6ea37f82/Borja-Lopez,6ea37f82,Numancia,159.0,1.8,1.0,0.0,62,1.0,4320,Numancia
+,Moha Sanhaji,ma MAR,"MF,DF",2,2,0.0,1.0,2020-2021,/en/players/e70c3e94/Moha-Sanhaji,70c3e94,Numancia,158.0,1.8,1.0,0.0,62,26.0,4295,Numancia
+,Juan Carlos Menudo Domínguez,es ESP,MF,2,1,0.0,1.0,2020-2021,/en/players/b6be6142/Juan-Carlos-Menudo-Dominguez,b6be6142,Numancia,111.0,1.2,0.0,0.0,62,1.0,611,Numancia
+,Tony Gabarre,es ESP,FW,2,1,0.0,0.0,2020-2021,/en/players/31af3559/Tony-Gabarre,31af3559,Numancia,111.0,1.2,0.0,0.0,62,1.0,4321,Numancia
+,Lillo,es ESP,DF,2,1,0.0,0.0,2020-2021,/en/players/476ca810/Lillo,476ca810,Numancia,111.0,1.2,0.0,0.0,62,1.0,931,Numancia
+,Álvaro Traver,es ESP,MF,2,1,0.0,0.0,2020-2021,/en/players/f608a6b0/Alvaro-Traver,f608a6b0,Numancia,105.0,1.2,0.0,0.0,62,1.0,4175,Numancia
+,Federico Bikoro,gq EQG,MF,1,1,0.0,0.0,2020-2021,/en/players/ed28f256/Federico-Bikoro,d28f256,Numancia,90.0,1.0,0.0,0.0,62,10.0,3671,Numancia
+,Diego Cámara,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/125dce8c/Diego-Camara,125dce8c,Numancia,90.0,1.0,1.0,0.0,62,1.0,4315,Numancia
+,Antonio Cotán,es ESP,MF,1,1,0.0,0.0,2020-2021,/en/players/d92dd30e/Antonio-Cotan,d92dd30e,Numancia,90.0,1.0,1.0,0.0,62,1.0,1884,Numancia
+,José Fran,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/9da2a2b2/Jose-Fran,9da2a2b2,Numancia,90.0,1.0,0.0,0.0,62,1.0,3817,Numancia
+,De Frutos,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/af6efe5c/De-Frutos,f6efe5c,Numancia,77.0,0.9,1.0,0.0,62,1.0,4317,Numancia
+,Jesús Tamayo,es ESP,FW,1,1,0.0,1.0,2020-2021,/en/players/1d528a34/Jesus-Tamayo,1d528a34,Numancia,69.0,0.8,0.0,0.0,62,1.0,4322,Numancia
+,Roberto Corral,es ESP,DF,1,0,0.0,1.0,2020-2021,/en/players/25a1d446/Roberto-Corral,25a1d446,Numancia,13.0,0.1,0.0,0.0,62,1.0,4323,Numancia
+,Ali Radjel,mr MTN,MF,1,0,0.0,0.0,2020-2021,/en/players/77029e76/Ali-Radjel,77029e76,Numancia,7.0,0.1,0.0,0.0,62,94.0,4313,Numancia
+,Ronald Gbizie,ci CIV,MF,0,0,,,2020-2021,/en/players/34a19af9/Ronald-Gbizie,34a19af9,Numancia,,,,,62,35.0,4324,Numancia
+,Ximo Miralles,es ESP,GK,0,0,,,2020-2021,/en/players/5da934d6/Ximo-Miralles,5da934d6,Numancia,,,,,62,1.0,4325,Numancia
+,Sillero,es ESP,DF,0,0,,,2020-2021,/en/players/e46e2990/Sillero,46e2990,Numancia,,,,,62,1.0,1333,Numancia

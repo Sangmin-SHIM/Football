@@ -1,107 +1,302 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-5280.0,﻿Javier Jauregui,/en/players/d654aceb/Javier-Jauregui,Javier-Jauregui,d654aceb,es ESP,GK,Cordoba
-5281.0,Andrés Pato Bernal,/en/players/7405d294/Andres-Pato-Bernal,Andres-Pato-B,7405d294,es ESP,DF,Cordoba
-5282.0,Eloy Jiménez,/en/players/facaf56c/Eloy-Jimenez,Eloy-Jimenez,facaf56c,es ESP,FW,Cordoba
-5283.0,Dennis Șerban,/en/players/c8abdfcc/Dennis-Serban,Dennis-Serb,c8abdfcc,ro ROU,MF,Cordoba
-5284.0,Adil Ramzi,/en/players/48316f9e/Adil-Ramzi,Adil-Ramzi,48316f9e,ma MAR,"FW,MF",Cordoba
-5285.0,Antonio Sarmiento,/en/players/8e2af521/Antonio-Sarmiento,Antonio-Sarmiento,8e2af521,es ESP,MF,Cordoba
-5286.0,Manuel Ruano,/en/players/67eb7267/Manuel-Ruano,Manuel-Ruano,67eb7267,es ESP,MF,Cordoba
-5287.0,Whelliton,/en/players/40e9437f/Whelliton,Whellito,40e9437f,br BRA,FW,Cordoba
-5288.0,Marcos Márquez,/en/players/914f774e/Marcos-Marquez,Marcos-Marquez,914f774e,es ESP,FW,Cordoba
-5289.0,Fernando,/en/players/b1255243/Fernando,Fernando,b1255243,es ESP,MF,Cordoba
-5290.0,David Feito,/en/players/87973eb0/David-Feito,David-Feito,87973eb0,es ESP,DF,Cordoba
-5291.0,Pablo Villa,/en/players/c6b66eea/Pablo-Villa,Pablo-Vi,c6b66eea,es ESP,FW,Cordoba
-5292.0,Christer George,/en/players/07bd582b/Christer-George,Christer-Georg,07bd582b,no NOR,MF,Cordoba
-5293.0,Dante López,/en/players/c0ba22cc/Dante-Lopez,Dante-Lopez,c0ba22cc,py PAR,FW,Cordoba
-5294.0,Fernando Marchiori,/en/players/dae6e39f/Fernando-Marchiori,Fernando-Marchiori,dae6e39f,br BRA,MF,Cordoba
-5295.0,Leopoldo Jiménez,/en/players/72582bf3/Leopoldo-Jimenez,Leopoldo-Jimenez,72582bf3,ve VEN,MF,Cordoba
-5296.0,Jonay Hernández,/en/players/446038aa/Jonay-Hernandez,Jonay-Hernandez,446038aa,ve VEN,DF,Cordoba
-5297.0,Anderson Costa,/en/players/589fcba7/Anderson-Costa,Anderson-Cost,589fcba7,br BRA,FW,Cordoba
-5298.0,Fredrik Söderström,/en/players/4a09c714/Fredrik-Soderstrom,Fredrik-Soderstrom,4a09c714,se SWE,MF,Cordoba
-5299.0,Ángel Guirado,/en/players/2fde6ff7/Angel-Guirado,Angel-Guirado,2fde6ff7,ph PHI,"FW,MF",Cordoba
-5300.0,Sebastián Gómez,/en/players/75ee086f/Sebastian-Gomez,Sebastian-Gomez,75ee086f,ad AND,"FW,GK",Cordoba
-5301.0,Germán Rojas,/en/players/811fcf99/German-Rojas,German-Roj,811fcf99,es ESP,DF,Cordoba
-5302.0,David Valle,/en/players/9870d851/David-Valle,David-V,9870d851,es ESP,GK,Cordoba
-5303.0,Gustavo Oberman,/en/players/d524c525/Gustavo-Oberman,Gustavo-Oberm,d524c525,ar ARG,"FW,MF",Cordoba
-5304.0,Pepe Díaz,/en/players/d1af5864/Pepe-Diaz,Pepe-Diaz,d1af5864,es ESP,FW,Cordoba
-5305.0,Fernando,/en/players/97e5a04b/Fernando,Fernando,97e5a04b,es ESP,GK,Cordoba
-5306.0,Javi Pérez,/en/players/13cd3035/Javi-Perez,Javi-Perez,13cd3035,es ESP,DF,Cordoba
-5307.0,Diego Scotti,/en/players/7026c7b7/Diego-Scotti,Diego-Scotti,7026c7b7,uy URU,MF,Cordoba
-5308.0,David Lopes,/en/players/aa824b97/David-Lopes,David-Lo,824b97,br BRA,DF,Cordoba
-5309.0,Javier Herreros,/en/players/d63b7912/Javier-Herreros,Javier-Herrero,d63b7912,es ESP,DF,Cordoba
-5310.0,Damián Lizio,/en/players/152df1c3/Damian-Lizio,Damian-Lizio,152df1c3,bo BOL,"FW,MF",Cordoba
-5311.0,András Simon,/en/players/84bfcad5/Andras-Simon,Andras-Simo,84bfcad5,hu HUN,FW,Cordoba
-5312.0,Lauren,/en/players/0c662413/Lauren,Lau,0c662413,cm CMR,DF,Cordoba
-5313.0,Gustavo Savoia,/en/players/220cc268/Gustavo-Savoia,Gustavo-Savoi,220cc268,ar ARG,FW,Cordoba
-5314.0,Coca,/en/players/e7afff89/Coca,Coc,7afff89,es ESP,GK,Cordoba
-5315.0,Carlos Erwin Arias,/en/players/12ca6099/Carlos-Erwin-Arias,Carlos-Erwin-Ari,12ca6099,bo BOL,GK,Cordoba
-5316.0,Afonso Taira,/en/players/d5696a58/Afonso-Taira,Afonso-Tai,d5696a58,pt POR,MF,Cordoba
-5317.0,Sebastián Balsas,/en/players/5752180c/Sebastian-Balsas,Sebastian-B,5752180c,uy URU,FW,Cordoba
-5318.0,Ismael,/en/players/3076ea08/Ismael,Ism,3076ea08,es ESP,DF,Cordoba
-5319.0,Javi Cabezas,/en/players/18fce040/Javi-Cabezas,Javi-Cabez,18fce040,es ESP,MF,Cordoba
-5320.0,Damián Petkoff,/en/players/ad94c090/Damian-Petkoff,Damian-Petkoff,d94c090,ar ARG,MF,Cordoba
-5321.0,John-Christophe Ayina,/en/players/9a1e16f3/John-Christophe-Ayina,John-Christophe-Ayi,9a1e16f3,fr FRA,FW,Cordoba
-5322.0,Fran Cruz,/en/players/ff7923bf/Fran-Cruz,Fran-Cruz,ff7923bf,es ESP,"DF,MF",Cordoba
-5323.0,Luso,/en/players/9cd41fda/Luso,Luso,9cd41fda,es ESP,"DF,MF",Cordoba
-5324.0,Samuel de los Reyes,/en/players/43d6c7ab/Samuel-de-los-Reyes,Samuel-de-los-R,43d6c7ab,es ESP,DF,Cordoba
-5325.0,Edu Caballer,/en/players/2e7586bb/Edu-Caballer,Edu-Cab,2e7586bb,es ESP,DF,Cordoba
-5326.0,Daniel Pinillos,/en/players/09d26c80/Daniel-Pinillos,Daniel-Pinillo,09d26c80,es ESP,DF,Cordoba
-5327.0,Jens Janse,/en/players/46616a7b/Jens-Janse,Jens-J,46616a7b,nl NED,DF,Cordoba
-5328.0,Arturo,/en/players/b83cc9ed/Arturo,Arturo,b83cc9ed,es ESP,FW,Cordoba
-5329.0,Nwankwo Obiora,/en/players/284b5f0d/Nwankwo-Obiora,Nwankwo-Obio,284b5f0d,ng NGA,"DF,MF",Cordoba
-5330.0,Eial Strahman,/en/players/5d70dcaa/Eial-Strahman,Eial-Strahm,5d70dcaa,ar ARG,FW,Cordoba
-5331.0,Dani Espejo,/en/players/e4ab411d/Dani-Espejo,Dani-Espejo,4ab411d,es ESP,"DF,MF",Cordoba
-5332.0,Juan Guerra,/en/players/a212d440/Juan-Guerra,Juan-Gu,212d440,es ESP,MF,Cordoba
-5333.0,Edimar Fraga,/en/players/e1bcce4c/Edimar-Fraga,Edimar-Frag,1bcce4c,br BRA,"DF,MF",Cordoba
-5334.0,Patrick Ekeng,/en/players/3bcb7df2/Patrick-Ekeng,Patrick-Ekeng,3bcb7df2,cm CMR,MF,Cordoba
-5335.0,Héldon Ramos,/en/players/64ded08c/Heldon-Ramos,Heldon-Ramo,64ded08c,cv CPV,"FW,MF",Cordoba
-5336.0,Mike Havenaar,/en/players/2475a31d/Mike-Havenaar,Mike-Hav,2475a31d,jp JPN,FW,Cordoba
-5337.0,Ryder Matos,/en/players/7280b54f/Ryder-Matos,Ryder-Mato,7280b54f,br BRA,"FW,MF",Cordoba
-5338.0,Fran Serrano,/en/players/a1eeef2c/Fran-Serrano,Fran-Serrano,1eeef2c,es ESP,DF,Cordoba
-5339.0,Brimah Razak,/en/players/cd8b22b8/Brimah-Razak,Brimah-Razak,cd8b22b8,gh GHA,GK,Cordoba
-5340.0,Saša Marković,/en/players/25e8594b/Sasa-Markovic,Sasa-Markovic,25e8594b,rs SRB,MF,Cordoba
-5341.0,Jonathan Bijimine,/en/players/d7cd475e/Jonathan-Bijimine,Jonathan-Bijimi,d7cd475e,cd COD,"DF,MF",Cordoba
-5342.0,Jean Paul Pineda,/en/players/58adf401/Jean-Paul-Pineda,Jean-Paul-Pined,58adf401,cl CHI,FW,Cordoba
-5343.0,Abel Moreno Zorrero,/en/players/722295d1/Abel-Moreno-Zorrero,Abel-Moreno-Zorrero,722295d1,es ESP,DF,Cordoba
-5344.0,Antonio Sillero,/en/players/0cce2c7f/Antonio-Sillero,Antonio-Sillero,0cce2c7f,es ESP,GK,Cordoba
-5345.0,Guillermo Donoso,/en/players/699a605f/Guillermo-Donoso,Guillermo-Donoso,699a605f,es ESP,MF,Cordoba
-5346.0,Borja Domínguez,/en/players/caf3058a/Borja-Dominguez,Borja-Dominguez,caf3058a,es ESP,MF,Cordoba
-5347.0,Esteve Monterde,/en/players/9a7655e6/Esteve-Monterde,Esteve-Monterd,9a7655e6,es ESP,MF,Cordoba
-5348.0,Pedro Moreno,/en/players/c1360a44/Pedro-Moreno,Pedro-Moreno,c1360a44,es ESP,GK,Cordoba
-5349.0,Antonio Pacheco,/en/players/58eb3554/Antonio-Pacheco,Antonio-Pacheco,58eb3554,es ESP,FW,Cordoba
-5350.0,Marc Vito,/en/players/33a86671/Marc-Vito,Marc-Vito,33a86671,es ESP,GK,Cordoba
-5351.0,João Afonso,/en/players/a8f07c8f/Joao-Afonso,Joao-Afonso,8f07c8f,pt POR,DF,Cordoba
-5352.0,Miguel Loureiro,/en/players/8611e214/Miguel-Loureiro,Miguel-Loureiro,8.61E+217,es ESP,DF,Cordoba
-5353.0,Igor Stefanović,/en/players/8a79b075/Igor-Stefanovic,Igor-Stefanovic,8a79b075,rs SRB,GK,Cordoba
-5354.0,Víctor Mena,/en/players/8b4fa7fa/Victor-Mena,Victor-M,8b4fa7fa,es ESP,DF,Cordoba
-5355.0,Javier Soler,/en/players/d357252c/Javier-Soler,Javier-So,d357252c,es ESP,DF,Cordoba
-5356.0,Eneko Jauregi,/en/players/9b608841/Eneko-Jauregi,Eneko-Jauregi,9b608841,es ESP,FW,Cordoba
-5357.0,Sebas Moyano,/en/players/8c87339e/Sebas-Moyano,Sebas-Moyano,8c87339e,es ESP,MF,Cordoba
-5358.0,Blati Touré,/en/players/6b4871a2/Blati-Toure,Blati-Tou,6b4871a2,bf BFA,MF,Cordoba
-5359.0,Franck-Yves Bambock,/en/players/7240e475/Franck-Yves-Bambock,Franck-Yves-Bambock,7240e475,fr FRA,MF,Cordoba
-5360.0,Alberto González,/en/players/63dc82b3/Alberto-Gonzalez,Alberto-Gonzalez,63dc82b3,es ESP,GK,Cordoba
-5361.0,Antonio Moyano,/en/players/dae880d4/Antonio-Moyano,Antonio-Moyano,dae880d4,es ESP,MF,Cordoba
-5362.0,Rafael Rodríguez,/en/players/07c4053f/Rafael-Rodriguez,Rafael-Rodriguez,07c4053f,es ESP,FW,Cordoba
-5363.0,Kevin,/en/players/b0b34497/Kevin,Kevi,b0b34497,es ESP,MF,Cordoba
-5364.0,Juan Llamas,/en/players/5600abe2/Juan-Llamas,Juan-Llam,5600abe2,es ESP,GK,Cordoba
-5365.0,﻿Farrando,/en/players/8b3c2a59/Farrando,Farrando,8b3c2a59,es ESP,DF,Cordoba
-5366.0,Alberto Del Moral,/en/players/84a85b48/Alberto-Del-Moral,Alberto-Del-Mo,84a85b48,es ESP,"MF,FW",Cordoba
-5367.0,Djakaridja Traoré,/en/players/5fd2e685/Djakaridja-Traore,Djakaridja-Trao,5fd2e685,ci CIV,MF,Cordoba
-5368.0,Willy,/en/players/c3c599ba/Willy,Wi,c3c599ba,es ESP,FW,Cordoba
-5369.0,Carlos Valverde,/en/players/319aa98f/Carlos-Valverde,Carlos-Valverd,319aa98f,es ESP,DF,Cordoba
-5370.0,Luismi,/en/players/a87e5826/Luismi,Luismi,87e5826,es ESP,FW,Cordoba
-5371.0,Alejandro Meléndez,/en/players/1e27aaad/Alejandro-Melendez,Alejandro-Melendez,1e27aaad,es ESP,DF,Cordoba
-5372.0,Darren Sidoel,/en/players/90c887a0/Darren-Sidoel,Darren-Sido,90c887a0,bg BUL,"DF,MF",Cordoba
-5373.0,﻿José Alonso,/en/players/361ee4d4/Jose-Alonso,Jose-Alonso,361ee4d4,es ESP,DF,Cordoba
-5374.0,José Cruz,/en/players/dff35885/Jose-Cruz,Jose-Cruz,dff35885,es ESP,DF,Cordoba
-5375.0,Ekaitz,/en/players/93d96114/Ekaitz,Ekaitz,93d96114,es ESP,DF,Cordoba
-5376.0,Felipe Ramos Sánchez,/en/players/5c27611c/Felipe-Ramos-Sanchez,Felipe-Ramos-Sanchez,5c27611c,es ESP,GK,Cordoba
-5377.0,Toni Arranz,/en/players/a96c76d3/Toni-Arranz,Toni-Arranz,96c76d3,es ESP,MF,Cordoba
-5378.0,Mohamed Bouzaidi Diouri,/en/players/59165b43/Mohamed-Bouzaidi-Diouri,Mohamed-Bouzaidi-Diouri,59165b43,ma MAR,FW,Cordoba
-5379.0,Antonio Casas,/en/players/85c05bac/Antonio-Casas,Antonio-C,85c05bac,es ESP,FW,Cordoba
-5380.0,Adrián Fuentes,/en/players/5052b1bc/Adrian-Fuentes,Adrian-Fuent,5052b1bc,es ESP,FW,Cordoba
-5381.0,Puga,/en/players/38daeede/Puga,Pug,38daeede,es ESP,MF,Cordoba
-5382.0,Christian,/en/players/b2115759/Christian,Christi,b2115759,es ESP,MF,Cordoba
-5383.0,Abreu,/en/players/e5986f12/Abreu,Abreu,5986f12,es ESP,MF,Cordoba
-5384.0,Rafa Castillo,/en/players/41d26bba/Rafa-Castillo,Rafa-Castillo,41d26bba,es ESP,DF,Cordoba
-5385.0,Tala,/en/players/57ef6e74/Tala,T,57ef6e74,es ESP,DF,Cordoba
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+8952.0,﻿Javier Jauregui,/en/players/d654aceb/Javier-Jauregui,Javier-Jauregui,d654aceb,es ESP,GK,Cordoba
+8953.0,Daniel López Ramos,/en/players/915cea2d/Daniel-Lopez-Ramos,Daniel-Lopez-Ramo,915cea2d,es ESP,DF,Cordoba
+8954.0,Ramón,/en/players/6892efc4/Ramon,Ramo,6892efc4,es ESP,DF,Cordoba
+8955.0,Gorka García,/en/players/07adf7c8/Gorka-Garcia,Gorka-Garci,07adf7c8,es ESP,DF,Cordoba
+8956.0,Ariel Montenegro,/en/players/d5835cca/Ariel-Montenegro,Ariel-Montenegro,d5835cca,ar ARG,MF,Cordoba
+8957.0,Moisés,/en/players/e3415193/Moises,Moi,3415193,es ESP,FW,Cordoba
+8958.0,Andrés Pato Bernal,/en/players/7405d294/Andres-Pato-Bernal,Andres-Pato-B,7405d294,es ESP,DF,Cordoba
+8959.0,Miguel Ángel Soria,/en/players/22ab6697/Miguel-Angel-Soria,Miguel-Angel-Sori,22ab6697,es ESP,DF,Cordoba
+8960.0,Eloy Jiménez,/en/players/facaf56c/Eloy-Jimenez,Eloy-Jimenez,facaf56c,es ESP,FW,Cordoba
+8961.0,Francisco Lama,/en/players/39e2db59/Francisco-Lama,Francisco-Lam,39e2db59,es ESP,MF,Cordoba
+8962.0,Dennis Șerban,/en/players/c8abdfcc/Dennis-Serban,Dennis-Serb,c8abdfcc,ro ROU,MF,Cordoba
+8963.0,Iñaki Berruet,/en/players/9fd5c7b8/Inaki-Berruet,Inaki-Berruet,9fd5c7b8,es ESP,DF,Cordoba
+8964.0,Adil Ramzi,/en/players/48316f9e/Adil-Ramzi,Adil-Ramzi,48316f9e,ma MAR,"FW,MF",Cordoba
+8965.0,Antonio Sarmiento,/en/players/8e2af521/Antonio-Sarmiento,Antonio-Sarmiento,8e2af521,es ESP,MF,Cordoba
+8966.0,Javi Gracia,/en/players/f46017c3/Javi-Gracia,Javi-Graci,f46017c3,es ESP,MF,Cordoba
+8967.0,Garrido,/en/players/32852179/Garrido,Garrido,32852179,es ESP,DF,Cordoba
+8968.0,Manuel Ruano,/en/players/67eb7267/Manuel-Ruano,Manuel-Ruano,67eb7267,es ESP,MF,Cordoba
+8969.0,Juanlu,/en/players/431ac3e7/Juanlu,Juanlu,431ac3e7,es ESP,"FW,MF",Cordoba
+8970.0,Whelliton,/en/players/40e9437f/Whelliton,Whellito,40e9437f,br BRA,FW,Cordoba
+8971.0,Marcos Márquez,/en/players/914f774e/Marcos-Marquez,Marcos-Marquez,914f774e,es ESP,FW,Cordoba
+8972.0,Fernando,/en/players/b1255243/Fernando,Fernando,b1255243,es ESP,MF,Cordoba
+8973.0,David Feito,/en/players/87973eb0/David-Feito,David-Feito,87973eb0,es ESP,DF,Cordoba
+8974.0,﻿Silvio González,/en/players/6db4e9a5/Silvio-Gonzalez,Silvio-Gonzalez,6db4e9a5,ar ARG,FW,Cordoba
+8975.0,Pablo Sierra,/en/players/224f3a5f/Pablo-Sierra,Pablo-Si,224f3a5f,es ESP,MF,Cordoba
+8976.0,Juanmi Gelabert,/en/players/2603ea8e/Juanmi-Gelabert,Juanmi-Gelabert,2603ea8e,es ESP,DF,Cordoba
+8977.0,Iñigo Larrainzar,/en/players/4c7b1e6c/Inigo-Larrainzar,Inigo-Larrainz,4c7b1e6c,es ESP,DF,Cordoba
+8978.0,Nicolás Olivera,/en/players/691fd00c/Nicolas-Olivera,Nicolas-Oliv,691fd00c,uy URU,"FW,MF",Cordoba
+8979.0,Pablo Villa,/en/players/c6b66eea/Pablo-Villa,Pablo-Vi,c6b66eea,es ESP,FW,Cordoba
+8980.0,Christer George,/en/players/07bd582b/Christer-George,Christer-Georg,07bd582b,no NOR,MF,Cordoba
+8981.0,Andrés Fleurquin,/en/players/bf3705e6/Andres-Fleurquin,Andres-Fleurqui,bf3705e6,uy URU,MF,Cordoba
+8982.0,Txiki,/en/players/ec52d35e/Txiki,Txiki,c52d35e,es ESP,MF,Cordoba
+8983.0,Dante López,/en/players/c0ba22cc/Dante-Lopez,Dante-Lopez,c0ba22cc,py PAR,FW,Cordoba
+8984.0,Xavi Valero,/en/players/3db74cf4/Xavi-Valero,Xavi-Valero,3db74cf4,es ESP,GK,Cordoba
+8985.0,Sebastián Saja,/en/players/50a2cb6d/Sebastian-Saja,Sebastian-Saj,50a2cb6d,ar ARG,GK,Cordoba
+8986.0,Cristian Álvarez,/en/players/c7c82f11/Cristian-Alvarez,Cristian-Alvarez,c7c82f11,ar ARG,"DF,MF",Cordoba
+8987.0,Mate Bilić,/en/players/37e6a4eb/Mate-Bilic,Mate-Bilic,37e6a4eb,hr CRO,FW,Cordoba
+8988.0,Juan Ramón Ruano,/en/players/fe3bdf87/Juan-Ramon-Ruano,Juan-Ramon-Ruano,fe3bdf87,es ESP,MF,Cordoba
+8989.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Cordoba
+8990.0,Fernando Marchiori,/en/players/dae6e39f/Fernando-Marchiori,Fernando-Marchiori,dae6e39f,br BRA,MF,Cordoba
+8991.0,Alessandro Pierini,/en/players/a8e313f0/Alessandro-Pierini,Alessandro-Pierini,8e313f0,it ITA,DF,Cordoba
+8992.0,Leopoldo Jiménez,/en/players/72582bf3/Leopoldo-Jimenez,Leopoldo-Jimenez,72582bf3,ve VEN,MF,Cordoba
+8993.0,Fernando Cáceres,/en/players/fab1ce6d/Fernando-Caceres,Fernando-Cac,fab1ce6d,ar ARG,DF,Cordoba
+8994.0,Boris,/en/players/6f531b7d/Boris,Bori,6f531b7d,es ESP,DF,Cordoba
+8995.0,Jonay Hernández,/en/players/446038aa/Jonay-Hernandez,Jonay-Hernandez,446038aa,ve VEN,DF,Cordoba
+8996.0,Anderson Costa,/en/players/589fcba7/Anderson-Costa,Anderson-Cost,589fcba7,br BRA,FW,Cordoba
+8997.0,Fredrik Söderström,/en/players/4a09c714/Fredrik-Soderstrom,Fredrik-Soderstrom,4a09c714,se SWE,MF,Cordoba
+8998.0,Óscar Pérez,/en/players/a4ae5f6a/Oscar-Perez,Oscar-Perez,4ae5f6a,es ESP,MF,Cordoba
+8999.0,Ángel Guirado,/en/players/2fde6ff7/Angel-Guirado,Angel-Guirado,2fde6ff7,ph PHI,"FW,MF",Cordoba
+9000.0,Ángel Pérez,/en/players/a706bad3/Angel-Perez,Angel-Perez,706bad3,es ESP,DF,Cordoba
+9001.0,Sebastián Gómez,/en/players/75ee086f/Sebastian-Gomez,Sebastian-Gomez,75ee086f,ad AND,"FW,GK",Cordoba
+9002.0,Jorge Pérez Sáenz,/en/players/70355cf3/Jorge-Perez-Saenz,Jorge-Perez-Saenz,70355cf3,es ESP,MF,Cordoba
+9003.0,Germán Rojas,/en/players/811fcf99/German-Rojas,German-Roj,811fcf99,es ESP,DF,Cordoba
+9004.0,Fali,/en/players/65c75bfe/Fali,Fali,65c75bfe,es ESP,"DF,MF",Cordoba
+9005.0,Asen,/en/players/5725f8c6/Asen,A,5725f8c6,es ESP,FW,Cordoba
+9006.0,Ito,/en/players/dc620005/Ito,Ito,dc620005,es ESP,MF,Cordoba
+9007.0,Pablo Ruiz,/en/players/9fb57e68/Pablo-Ruiz,Pablo-Ruiz,9fb57e68,es ESP,DF,Cordoba
+9008.0,Diego Reyes Muñoz,/en/players/f52444a7/Diego-Reyes-Munoz,Diego-Reyes-Munoz,f52444a7,es ESP,DF,Cordoba
+9009.0,Dani González,/en/players/3f5737da/Dani-Gonzalez,Dani-Gonzalez,3f5737da,es ESP,FW,Cordoba
+9010.0,David Valle,/en/players/9870d851/David-Valle,David-V,9870d851,es ESP,GK,Cordoba
+9011.0,Arthuro,/en/players/af5bfaa6/Arthuro,Arthuro,f5bfaa6,br BRA,FW,Cordoba
+9012.0,José Acciari,/en/players/9e98922b/Jose-Acciari,Jose-Acciari,9e98922b,ar ARG,MF,Cordoba
+9013.0,Juanlu,/en/players/94b88487/Juanlu,Juanlu,94b88487,es ESP,MF,Cordoba
+9014.0,Julio Iglesias,/en/players/7b1bc63c/Julio-Iglesias,Julio-Iglesi,7b1bc63c,es ESP,GK,Cordoba
+9015.0,Endika Bordas,/en/players/ce394cc6/Endika-Bordas,Endika-Bord,ce394cc6,es ESP,MF,Cordoba
+9016.0,Javi Moreno,/en/players/64497d05/Javi-Moreno,Javi-Moreno,64497d05,es ESP,FW,Cordoba
+9017.0,Mario Gómez Atanet,/en/players/f8f74950/Mario-Gomez-Atanet,Mario-Gomez-Atanet,f8f74950,es ESP,DF,Cordoba
+9018.0,Rubén Párraga,/en/players/c8a5798c/Ruben-Parraga,Ruben-Parrag,c8a5798c,es ESP,DF,Cordoba
+9019.0,Guzmán Casaseca,/en/players/f05d4004/Guzman-Casaseca,Guzman-Casasec,f05d4004,es ESP,MF,Cordoba
+9020.0,Julio Pineda,/en/players/09fc23e7/Julio-Pineda,Julio-Pined,09fc23e7,es ESP,FW,Cordoba
+9021.0,Antonio González,/en/players/89f9eead/Antonio-Gonzalez,Antonio-Gonzalez,89f9eead,es ESP,DF,Cordoba
+9022.0,Javi Flores,/en/players/867f9ede/Javi-Flores,Javi-Flo,867f9ede,es ESP,MF,Cordoba
+9023.0,Raúl Navas,/en/players/7bb77368/Raul-Navas,Raul-Nav,7bb77368,es ESP,GK,Cordoba
+9024.0,David Arteaga,/en/players/86d9a411/David-Arteaga,David-Arteag,86d9a411,es ESP,MF,Cordoba
+9025.0,Gaspar,/en/players/75e5329b/Gaspar,G,75e5329b,es ESP,DF,Cordoba
+9026.0,Santiago Carpintero,/en/players/139b88a8/Santiago-Carpintero,Santiago-Carpintero,139b88a8,es ESP,MF,Cordoba
+9027.0,Juan Carlos Ceballos,/en/players/ac304dce/Juan-Carlos-Ceballos,Juan-Carlos-Ceballo,c304dce,es ESP,DF,Cordoba
+9028.0,Natalio,/en/players/239425b9/Natalio,Natalio,239425b9,es ESP,FW,Cordoba
+9029.0,Yordi,/en/players/8cbb78fb/Yordi,Yordi,8cbb78fb,es ESP,FW,Cordoba
+9030.0,José Vega Díez,/en/players/c9e78e4a/Jose-Vega-Diez,Jose-Vega-Diez,c9e78e4a,es ESP,MF,Cordoba
+9031.0,Gustavo Oberman,/en/players/d524c525/Gustavo-Oberman,Gustavo-Oberm,d524c525,ar ARG,"FW,MF",Cordoba
+9032.0,Gastón Casas,/en/players/66258864/Gaston-Casas,Gaston-C,66258864,ar ARG,FW,Cordoba
+9033.0,Pepe Díaz,/en/players/d1af5864/Pepe-Diaz,Pepe-Diaz,d1af5864,es ESP,FW,Cordoba
+9034.0,Javier Casas,/en/players/269e763d/Javier-Casas,Javier-C,269e763d,es ESP,DF,Cordoba
+9035.0,Fernando,/en/players/97e5a04b/Fernando,Fernando,97e5a04b,es ESP,GK,Cordoba
+9036.0,Javi Pérez,/en/players/13cd3035/Javi-Perez,Javi-Perez,13cd3035,es ESP,DF,Cordoba
+9037.0,﻿Agus,/en/players/ef7a542c/Agus,Agu,f7a542c,es ESP,"DF,FW",Cordoba
+9038.0,Gerardo,/en/players/07c345de/Gerardo,Gerardo,07c345de,es ESP,"DF,MF",Cordoba
+9039.0,Jesús Rueda,/en/players/9d8ba8ec/Jesus-Rueda,Jesus-Rued,9d8ba8ec,es ESP,"DF,MF",Cordoba
+9040.0,Juan Rafael Fuentes,/en/players/5b54a75f/Juan-Rafael-Fuentes,Juan-Rafael-Fuent,5b54a75f,es ESP,DF,Cordoba
+9041.0,Jorge Luque,/en/players/8ca3ef48/Jorge-Luque,Jorge-Luqu,8ca3ef48,es ESP,MF,Cordoba
+9042.0,Juanjo Expósito,/en/players/f0a0b756/Juanjo-Exposito,Juanjo-Exposito,f0a0b756,es ESP,FW,Cordoba
+9043.0,Diego Scotti,/en/players/7026c7b7/Diego-Scotti,Diego-Scotti,7026c7b7,uy URU,MF,Cordoba
+9044.0,David Lopes,/en/players/aa824b97/David-Lopes,David-Lo,824b97,br BRA,DF,Cordoba
+9045.0,Richy,/en/players/1d5089f0/Richy,Rich,1d5089f0,es ESP,DF,Cordoba
+9046.0,Mikel Dañobeitia,/en/players/79ef0c96/Mikel-Danobeitia,Mikel-Danobeiti,79ef0c96,es ESP,"DF,FW",Cordoba
+9047.0,Alberto García,/en/players/17d9e354/Alberto-Garcia,Alberto-Garci,17d9e354,es ESP,GK,Cordoba
+9048.0,Javier Herreros,/en/players/d63b7912/Javier-Herreros,Javier-Herrero,d63b7912,es ESP,DF,Cordoba
+9049.0,Damián Lizio,/en/players/152df1c3/Damian-Lizio,Damian-Lizio,152df1c3,bo BOL,"FW,MF",Cordoba
+9050.0,András Simon,/en/players/84bfcad5/Andras-Simon,Andras-Simo,84bfcad5,hu HUN,FW,Cordoba
+9051.0,Lauren,/en/players/0c662413/Lauren,Lau,0c662413,cm CMR,DF,Cordoba
+9052.0,José Cabrera,/en/players/c7bf7830/Jose-Cabrera,Jose-Cab,c7bf7830,es ESP,MF,Cordoba
+9053.0,Gustavo Savoia,/en/players/220cc268/Gustavo-Savoia,Gustavo-Savoi,220cc268,ar ARG,FW,Cordoba
+9054.0,﻿Miguel Ángel Tena,/en/players/e6389c2b/Miguel-Angel-Tena,Miguel-Angel-T,6389c2b,es ESP,DF,Cordoba
+9055.0,David de Coz,/en/players/bf33fc94/David-de-Coz,David-de-Coz,bf33fc94,es ESP,DF,Cordoba
+9056.0,Samuel Camille,/en/players/5279c822/Samuel-Camille,Samuel-Cami,5279c822,mq MTQ,DF,Cordoba
+9057.0,Juanmi Callejón,/en/players/60bb7e62/Juanmi-Callejon,Juanmi-Callejo,60bb7e62,es ESP,MF,Cordoba
+9058.0,Fernando Usero,/en/players/a6eab305/Fernando-Usero,Fernando-Usero,6eab305,es ESP,MF,Cordoba
+9059.0,Oriol Riera,/en/players/ed742ed9/Oriol-Riera,Oriol-Ri,d742ed9,es ESP,FW,Cordoba
+9060.0,Alberto Aguilar,/en/players/eee1627a/Alberto-Aguilar,Alberto-Agui,1627a,es ESP,"DF,MF",Cordoba
+9061.0,Jonathan Sesma,/en/players/7484a7cc/Jonathan-Sesma,Jonathan-Sesm,7484a7cc,es ESP,"FW,MF",Cordoba
+9062.0,Jagoba Beobide,/en/players/08dee721/Jagoba-Beobide,Jagoba-Beobid,08dee721,es ESP,MF,Cordoba
+9063.0,José Manuel Fernández,/en/players/4af68c24/Jose-Manuel-Fernandez,Jose-Manuel-Fernandez,4af68c24,es ESP,DF,Cordoba
+9064.0,Iñigo Díaz de Cerio,/en/players/757bd109/Inigo-Diaz-de-Cerio,Inigo-Diaz-de-Cerio,757bd109,es ESP,FW,Cordoba
+9065.0,Coca,/en/players/e7afff89/Coca,Coc,7afff89,es ESP,GK,Cordoba
+9066.0,Javier Hervás,/en/players/04b8d5c8/Javier-Hervas,Javier-Herv,04b8d5c8,es ESP,MF,Cordoba
+9067.0,Fede Vico,/en/players/f681a8ef/Fede-Vico,Fede-Vico,f681a8ef,es ESP,MF,Cordoba
+9068.0,﻿José López Silva,/en/players/60d6ed20/Jose-Lopez-Silva,Jose-Lopez-Silv,60d6ed20,es ESP,MF,Cordoba
+9069.0,Borja García,/en/players/e7f4603c/Borja-Garcia,Borja-Garci,7f4603c,es ESP,"FW,MF",Cordoba
+9070.0,Aritz López Garai,/en/players/59b0c4a0/Aritz-Lopez-Garai,Aritz-Lopez-Garai,59b0c4a0,es ESP,MF,Cordoba
+9071.0,Charles,/en/players/c4b8bcf4/Charles,Ch,c4b8bcf4,br BRA,FW,Cordoba
+9072.0,Javier Patiño,/en/players/38510249/Javier-Patino,Javier-Patino,38510249,ph PHI,FW,Cordoba
+9073.0,David Prieto,/en/players/aee8f24e/David-Prieto,David-Prieto,8f24e,es ESP,"DF,MF",Cordoba
+9074.0,Ximo Navarro,/en/players/8db394aa/Ximo-Navarro,Ximo-Navarro,8db394aa,es ESP,DF,Cordoba
+9075.0,Carlos Caballero,/en/players/38afdbc5/Carlos-Caballero,Carlos-Caballero,38afdbc5,es ESP,MF,Cordoba
+9076.0,Sebastián Dubarbier,/en/players/83877c7c/Sebastian-Dubarbier,Sebastian-Dubarbi,83877c7c,ar ARG,"DF,FW",Cordoba
+9077.0,David Cerrajería,/en/players/2ebb9df6/David-Cerrajeria,David-Cerrajeri,2ebb9df6,es ESP,DF,Cordoba
+9078.0,Airam,/en/players/130471ce/Airam,Airam,130471ce,es ESP,FW,Cordoba
+9079.0,Juan Quero,/en/players/42107bed/Juan-Quero,Juan-Quero,42107bed,es ESP,MF,Cordoba
+9080.0,Carlos Erwin Arias,/en/players/12ca6099/Carlos-Erwin-Arias,Carlos-Erwin-Ari,12ca6099,bo BOL,GK,Cordoba
+9081.0,Cristian García Ramos,/en/players/73620865/Cristian-Garcia-Ramos,Cristian-Garcia-Ramo,73620865,es ESP,DF,Cordoba
+9082.0,Afonso Taira,/en/players/d5696a58/Afonso-Taira,Afonso-Tai,d5696a58,pt POR,MF,Cordoba
+9083.0,Sebastián Balsas,/en/players/5752180c/Sebastian-Balsas,Sebastian-B,5752180c,uy URU,FW,Cordoba
+9084.0,Ismael,/en/players/3076ea08/Ismael,Ism,3076ea08,es ESP,DF,Cordoba
+9085.0,Pedro,/en/players/eb642c79/Pedro,Pedro,b642c79,es ESP,"FW,MF",Cordoba
+9086.0,Abel Gómez Moreno,/en/players/b09801d8/Abel-Gomez-Moreno,Abel-Gomez-Moreno,b09801d8,es ESP,MF,Cordoba
+9087.0,Kiko Olivas,/en/players/72b07a9c/Kiko-Olivas,Kiko-Oliv,72b07a9c,es ESP,DF,Cordoba
+9088.0,Vincenzo Rennella,/en/players/b3c467b4/Vincenzo-Rennella,Vincenzo-R,b3c467b4,it ITA,FW,Cordoba
+9089.0,Armando Lozano,/en/players/e2daac0b/Armando-Lozano,Armando-Lozano,2daac0b,es ESP,DF,Cordoba
+9090.0,Xisco,/en/players/d2790f7a/Xisco,Xisco,d2790f7a,es ESP,FW,Cordoba
+9091.0,Diego Seoane,/en/players/71c7d503/Diego-Seoane,Diego-Seo,71c7d503,es ESP,DF,Cordoba
+9092.0,Joselu,/en/players/a5e9c273/Joselu,Joselu,5e9c273,es ESP,FW,Cordoba
+9093.0,Mikel Saizar,/en/players/b9ddfda6/Mikel-Saizar,Mikel-Saiz,b9ddfda6,es ESP,GK,Cordoba
+9094.0,Manuel Miquel,/en/players/97e5daab/Manuel-Miquel,Manuel-Miqu,97e5daab,es ESP,MF,Cordoba
+9095.0,Javi Cabezas,/en/players/18fce040/Javi-Cabezas,Javi-Cabez,18fce040,es ESP,MF,Cordoba
+9096.0,Damián Petkoff,/en/players/ad94c090/Damian-Petkoff,Damian-Petkoff,d94c090,ar ARG,MF,Cordoba
+9097.0,John-Christophe Ayina,/en/players/9a1e16f3/John-Christophe-Ayina,John-Christophe-Ayi,9a1e16f3,fr FRA,FW,Cordoba
+9098.0,Fran Cruz,/en/players/ff7923bf/Fran-Cruz,Fran-Cruz,ff7923bf,es ESP,"DF,MF",Cordoba
+9099.0,Raúl Bravo,/en/players/65b9e56b/Raul-Bravo,Raul-Bravo,65b9e56b,es ESP,DF,Cordoba
+9100.0,Luso,/en/players/9cd41fda/Luso,Luso,9cd41fda,es ESP,"DF,MF",Cordoba
+9101.0,Iago Bouzón,/en/players/2b687c98/Iago-Bouzon,Iago-Bouzo,2b687c98,es ESP,DF,Cordoba
+9102.0,Ulises Dávila,/en/players/0e774d3a/Ulises-Davila,Ulises-Davi,0e774d3a,mx MEX,"FW,MF",Cordoba
+9103.0,Samuel de los Reyes,/en/players/43d6c7ab/Samuel-de-los-Reyes,Samuel-de-los-R,43d6c7ab,es ESP,DF,Cordoba
+9104.0,Adrián Gunino,/en/players/05652d7c/Adrian-Gunino,Adrian-Gunino,05652d7c,uy URU,DF,Cordoba
+9105.0,Edu Caballer,/en/players/2e7586bb/Edu-Caballer,Edu-Cab,2e7586bb,es ESP,DF,Cordoba
+9106.0,Daniel Pinillos,/en/players/09d26c80/Daniel-Pinillos,Daniel-Pinillo,09d26c80,es ESP,DF,Cordoba
+9107.0,Juan Carlos,/en/players/688b96e3/Juan-Carlos,Juan-Carlo,688b96e3,es ESP,GK,Cordoba
+9108.0,Jens Janse,/en/players/46616a7b/Jens-Janse,Jens-J,46616a7b,nl NED,DF,Cordoba
+9109.0,Pelayo,/en/players/bdda8ebd/Pelayo,Pelayo,bdda8ebd,es ESP,MF,Cordoba
+9110.0,Arturo,/en/players/b83cc9ed/Arturo,Arturo,b83cc9ed,es ESP,FW,Cordoba
+9111.0,Germán Pacheco,/en/players/4a8b43e0/German-Pacheco,German-Pacheco,4a8b43e0,ar ARG,"FW,MF",Cordoba
+9112.0,Nwankwo Obiora,/en/players/284b5f0d/Nwankwo-Obiora,Nwankwo-Obio,284b5f0d,ng NGA,"DF,MF",Cordoba
+9113.0,Eial Strahman,/en/players/5d70dcaa/Eial-Strahman,Eial-Strahm,5d70dcaa,ar ARG,FW,Cordoba
+9114.0,Dani Espejo,/en/players/e4ab411d/Dani-Espejo,Dani-Espejo,4ab411d,es ESP,"DF,MF",Cordoba
+9115.0,Joselu,/en/players/8f7dd1d2/Joselu,Joselu,8f7dd1d2,es ESP,"FW,MF",Cordoba
+9116.0,Rafa Gálvez,/en/players/445ca2c1/Rafa-Galvez,Rafa-Galvez,445ca2c1,es ESP,"DF,MF",Cordoba
+9117.0,Juan Guerra,/en/players/a212d440/Juan-Guerra,Juan-Gu,212d440,es ESP,MF,Cordoba
+9118.0,Aleksandar Pantić,/en/players/70e5566a/Aleksandar-Pantic,Aleksandar-Pantic,70e5566a,rs SRB,DF,Cordoba
+9119.0,José Ángel Crespo,/en/players/8ec4c2f7/Jose-Angel-Crespo,Jose-Angel-Crespo,8ec4c2f7,es ESP,DF,Cordoba
+9120.0,Federico Cartabia,/en/players/a8e6bebf/Federico-Cartabia,Federico-Cartabi,8e6bebf,ar ARG,MF,Cordoba
+9121.0,Nabil Ghilas,/en/players/cee627f6/Nabil-Ghilas,Nabil-Ghi,cee627f6,dz ALG,"FW,MF",Cordoba
+9122.0,Deivid,/en/players/c1c76662/Deivid,Deivid,c1c76662,es ESP,"DF,MF",Cordoba
+9123.0,Íñigo López,/en/players/8c61ca86/Inigo-Lopez,Inigo-Lopez,8c61ca86,es ESP,DF,Cordoba
+9124.0,Florin Andone,/en/players/dc008610/Florin-Andone,Florin-Ando,dc008610,ro ROU,FW,Cordoba
+9125.0,Edimar Fraga,/en/players/e1bcce4c/Edimar-Fraga,Edimar-Frag,1bcce4c,br BRA,"DF,MF",Cordoba
+9126.0,Fausto Rossi,/en/players/79a8fa04/Fausto-Rossi,Fausto-Rossi,79a8fa04,it ITA,MF,Cordoba
+9127.0,Bebé,/en/players/d8712bf9/Bebe,Beb,d8712bf9,cv CPV,"FW,MF",Cordoba
+9128.0,Rene Krhin,/en/players/9a506145/Rene-Krhin,Rene-Krhi,9a506145,si SVN,"FW,MF",Cordoba
+9129.0,Patrick Ekeng,/en/players/3bcb7df2/Patrick-Ekeng,Patrick-Ekeng,3bcb7df2,cm CMR,MF,Cordoba
+9130.0,Héldon Ramos,/en/players/64ded08c/Heldon-Ramos,Heldon-Ramo,64ded08c,cv CPV,"FW,MF",Cordoba
+9131.0,Bruno Zuculini,/en/players/17cddb4d/Bruno-Zuculini,Bruno-Zuculini,17cddb4d,ar ARG,MF,Cordoba
+9132.0,Mike Havenaar,/en/players/2475a31d/Mike-Havenaar,Mike-Hav,2475a31d,jp JPN,FW,Cordoba
+9133.0,Ryder Matos,/en/players/7280b54f/Ryder-Matos,Ryder-Mato,7280b54f,br BRA,"FW,MF",Cordoba
+9134.0,Fran Serrano,/en/players/a1eeef2c/Fran-Serrano,Fran-Serrano,1eeef2c,es ESP,DF,Cordoba
+9135.0,José Carlos,/en/players/6738f3c6/Jose-Carlos,Jose-Carlo,6738f3c6,es ESP,"FW,MF",Cordoba
+9136.0,Eduard Campabadal,/en/players/bbf23a57/Eduard-Campabadal,Eduard-Campabad,bbf23a57,es ESP,DF,Cordoba
+9137.0,José Fran,/en/players/9da2a2b2/Jose-Fran,Jose-F,9da2a2b2,es ESP,MF,Cordoba
+9138.0,Brimah Razak,/en/players/cd8b22b8/Brimah-Razak,Brimah-Razak,cd8b22b8,gh GHA,GK,Cordoba
+9139.0,Héctor Rodas,/en/players/dcdd3a95/Hector-Rodas,Hector-Rod,dcdd3a95,es ESP,DF,Cordoba
+9140.0,Fidel,/en/players/eb82b6f1/Fidel,Fid,b82b6f1,es ESP,MF,Cordoba
+9141.0,Domingo Cisma,/en/players/4d85b73c/Domingo-Cisma,Domingo-Cism,4d85b73c,es ESP,DF,Cordoba
+9142.0,Pedro Ríos,/en/players/96ef8f9f/Pedro-Rios,Pedro-Rio,96ef8f9f,es ESP,MF,Cordoba
+9143.0,Saša Marković,/en/players/25e8594b/Sasa-Markovic,Sasa-Markovic,25e8594b,rs SRB,MF,Cordoba
+9144.0,Nando,/en/players/6c041474/Nando,Nando,6c041474,es ESP,"FW,MF",Cordoba
+9145.0,Víctor Pérez,/en/players/5918a484/Victor-Perez,Victor-Perez,5918a484,es ESP,MF,Cordoba
+9146.0,Raúl de Tomás,/en/players/02ef8778/Raul-de-Tomas,Raul-de-Tom,02ef8778,es ESP,FW,Cordoba
+9147.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Cordoba
+9148.0,Jonathan Bijimine,/en/players/d7cd475e/Jonathan-Bijimine,Jonathan-Bijimi,d7cd475e,cd COD,"DF,MF",Cordoba
+9149.0,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,Ismael-Falco,5d2574f2,es ESP,GK,Cordoba
+9150.0,Albert Dalmau,/en/players/a86b6281/Albert-Dalmau,Albert-Dalmau,86b6281,es ESP,DF,Cordoba
+9151.0,Jean Paul Pineda,/en/players/58adf401/Jean-Paul-Pineda,Jean-Paul-Pined,58adf401,cl CHI,FW,Cordoba
+9152.0,Moha,/en/players/2a54afab/Moha,Moh,2a54afab,es ESP,FW,Cordoba
+9153.0,Javi Galán,/en/players/a4b00319/Javi-Galan,Javi-G,4b00319,es ESP,"DF,MF",Cordoba
+9154.0,Abel Moreno Zorrero,/en/players/722295d1/Abel-Moreno-Zorrero,Abel-Moreno-Zorrero,722295d1,es ESP,DF,Cordoba
+9155.0,Antonio Sillero,/en/players/0cce2c7f/Antonio-Sillero,Antonio-Sillero,0cce2c7f,es ESP,GK,Cordoba
+9156.0,﻿Paweł Kieszek,/en/players/8dbddd2b/Pawel-Kieszek,Pawel-Kieszek,8dbddd2b,pl POL,GK,Cordoba
+9157.0,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9,es ESP,FW,Cordoba
+9158.0,José Antonio Caro,/en/players/02e4da70/Jose-Antonio-Caro,Jose-Antonio-Caro,02e4da70,es ESP,DF,Cordoba
+9159.0,Juli,/en/players/f3541f8a/Juli,Juli,f3541f8a,es ESP,MF,Cordoba
+9160.0,Antoñito,/en/players/dbe519cf/Antonito,Antonito,dbe519cf,es ESP,DF,Cordoba
+9161.0,Edu Ramos,/en/players/e6793b40/Edu-Ramos,Edu-Ramo,6793b40,es ESP,MF,Cordoba
+9162.0,Alejandro Alfaro,/en/players/7c293728/Alejandro-Alfaro,Alejandro-Alfaro,7c293728,es ESP,"MF,FW",Cordoba
+9163.0,Javi Lara,/en/players/bd1babf1/Javi-Lara,Javi-L,bd1babf1,es ESP,MF,Cordoba
+9164.0,Sergio Aguza,/en/players/b8e26df0/Sergio-Aguza,Sergio-Aguz,b8e26df0,es ESP,MF,Cordoba
+9165.0,Mariano Bíttolo,/en/players/61120693/Mariano-Bittolo,Mariano-Bittolo,61120693,ar ARG,"DF,MF",Cordoba
+9166.0,Guillermo Donoso,/en/players/699a605f/Guillermo-Donoso,Guillermo-Donoso,699a605f,es ESP,MF,Cordoba
+9167.0,Federico Piovaccari,/en/players/fa49f136/Federico-Piovaccari,Federico-Piovaccari,fa49f136,it ITA,FW,Cordoba
+9168.0,Borja Domínguez,/en/players/caf3058a/Borja-Dominguez,Borja-Dominguez,caf3058a,es ESP,MF,Cordoba
+9169.0,Zakarya Bergdich,/en/players/833676b4/Zakarya-Bergdich,Zakarya-Bergdich,833676b4,ma MAR,"MF,DF",Cordoba
+9170.0,Esteve Monterde,/en/players/9a7655e6/Esteve-Monterde,Esteve-Monterd,9a7655e6,es ESP,MF,Cordoba
+9171.0,Alberto Quiles,/en/players/25233d1b/Alberto-Quiles,Alberto-Qui,25233d1b,es ESP,FW,Cordoba
+9172.0,Pedro Moreno,/en/players/c1360a44/Pedro-Moreno,Pedro-Moreno,c1360a44,es ESP,GK,Cordoba
+9173.0,Antonio Pacheco,/en/players/58eb3554/Antonio-Pacheco,Antonio-Pacheco,58eb3554,es ESP,FW,Cordoba
+9174.0,Pablo Vázquez,/en/players/54f87ac5/Pablo-Vazquez,Pablo-Vazquez,54f87ac5,es ESP,"DF,MF",Cordoba
+9175.0,Marc Vito,/en/players/33a86671/Marc-Vito,Marc-Vito,33a86671,es ESP,GK,Cordoba
+9176.0,Sergi Guardiola,/en/players/32974271/Sergi-Guardiola,Sergi-Guardio,32974271,es ESP,FW,Cordoba
+9177.0,Saša Jovanović,/en/players/73c56892/Sasa-Jovanovic,Sasa-Jovanovic,73c56892,rs SRB,"MF,FW",Cordoba
+9178.0,João Afonso,/en/players/a8f07c8f/Joao-Afonso,Joao-Afonso,8f07c8f,pt POR,DF,Cordoba
+9179.0,Aythami Artiles,/en/players/01ae64cd/Aythami-Artiles,Aythami-Arti,01ae64cd,es ESP,DF,Cordoba
+9180.0,Alex Quintanilla,/en/players/6a2cf49f/Alex-Quintanilla,Alex-Quintani,6a2cf49f,es ESP,DF,Cordoba
+9181.0,Josema,/en/players/ed3f5f4c/Josema,Josem,d3f5f4c,es ESP,DF,Cordoba
+9182.0,Álex Vallejo,/en/players/017b4247/Alex-Vallejo,Alex-Vallejo,017b4247,es ESP,"MF,DF",Cordoba
+9183.0,Jona,/en/players/840dd8a7/Jona,Jo,840dd8a7,hn HON,FW,Cordoba
+9184.0,Miguel Loureiro,/en/players/8611e214/Miguel-Loureiro,Miguel-Loureiro,8611e214,es ESP,DF,Cordoba
+9185.0,Jesús Valentín,/en/players/2594ee7d/Jesus-Valentin,Jesus-Valenti,2594ee7d,es ESP,"DF,MF",Cordoba
+9186.0,Jaime Romero,/en/players/e28205f4/Jaime-Romero,Jaime-Romero,28205f4,es ESP,"MF,FW",Cordoba
+9187.0,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,Jose-Antonio-R,19058f02,es ESP,"MF,FW",Cordoba
+9188.0,Álvaro Aguado,/en/players/014aa7bd/Alvaro-Aguado,Alvaro-Aguado,014aa7bd,es ESP,MF,Cordoba
+9189.0,Igor Stefanović,/en/players/8a79b075/Igor-Stefanovic,Igor-Stefanovic,8a79b075,rs SRB,GK,Cordoba
+9190.0,Víctor Mena,/en/players/8b4fa7fa/Victor-Mena,Victor-M,8b4fa7fa,es ESP,DF,Cordoba
+9191.0,Quim Araujo,/en/players/1ba60662/Quim-Araujo,Quim-Araujo,1ba60662,es ESP,MF,Cordoba
+9192.0,Javier Soler,/en/players/d357252c/Javier-Soler,Javier-So,d357252c,es ESP,DF,Cordoba
+9193.0,Javi Noblejas,/en/players/34d08919/Javi-Noblejas,Javi-Noblej,34d08919,es ESP,DF,Cordoba
+9194.0,Eneko Jauregi,/en/players/9b608841/Eneko-Jauregi,Eneko-Jauregi,9b608841,es ESP,FW,Cordoba
+9195.0,Waldo Rubio,/en/players/ccaa5728/Waldo-Rubio,Waldo-Rubio,ccaa5728,es ESP,MF,Cordoba
+9196.0,Marcos Lavín,/en/players/666e283e/Marcos-Lavin,Marcos-Lavi,666e283e,es ESP,GK,Cordoba
+9197.0,Andrés Martín,/en/players/2ae30661/Andres-Martin,Andres-Marti,2ae30661,es ESP,"FW,MF",Cordoba
+9198.0,Sebas Moyano,/en/players/8c87339e/Sebas-Moyano,Sebas-Moyano,8c87339e,es ESP,MF,Cordoba
+9199.0,Jesús Sillero,/en/players/086bee8c/Jesus-Sillero,Jesus-Sillero,086bee8c,es ESP,FW,Cordoba
+9200.0,﻿Miguel de las Cuevas,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,Miguel-de-las-Cuev,2e1cf3d2,es ESP,"MF,FW",Cordoba
+9201.0,Carlos Abad,/en/players/6970bedb/Carlos-Abad,Carlos-Abad,6970bedb,es ESP,GK,Cordoba
+9202.0,Luis Muñoz,/en/players/8cfd90fe/Luis-Munoz,Luis-Munoz,8cfd90fe,es ESP,"DF,MF",Cordoba
+9203.0,Álex Menéndez,/en/players/ddab8ee4/Alex-Menendez,Alex-Menendez,ddab8ee4,es ESP,"DF,MF",Cordoba
+9204.0,Blati Touré,/en/players/6b4871a2/Blati-Toure,Blati-Tou,6b4871a2,bf BFA,MF,Cordoba
+9205.0,Yann Bodiger,/en/players/8c2c48a9/Yann-Bodiger,Yann-Bodig,8c2c48a9,fr FRA,MF,Cordoba
+9206.0,Luismi Quezada,/en/players/53440b3c/Luismi-Quezada,Luismi-Quezad,53440b3c,do DOM,"DF,MF",Cordoba
+9207.0,Chus Herrero,/en/players/ac34a4f0/Chus-Herrero,Chus-Herrero,c34a4f0,es ESP,DF,Cordoba
+9208.0,Miguel Flaño,/en/players/1662668d/Miguel-Flano,Miguel-Flano,1662668d,es ESP,DF,Cordoba
+9209.0,José Ángel Carrillo,/en/players/7beb6364/Jose-Angel-Carrillo,Jose-Angel-Carrillo,7beb6364,es ESP,FW,Cordoba
+9210.0,Franck-Yves Bambock,/en/players/7240e475/Franck-Yves-Bambock,Franck-Yves-Bambock,7240e475,fr FRA,MF,Cordoba
+9211.0,Àlex Carbonell,/en/players/aad99f27/Alex-Carbonell,Alex-Carbo,d99f27,es ESP,MF,Cordoba
+9212.0,Alberto González,/en/players/63dc82b3/Alberto-Gonzalez,Alberto-Gonzalez,63dc82b3,es ESP,GK,Cordoba
+9213.0,Neftali Manzambi,/en/players/da2ced9c/Neftali-Manzambi,Neftali-Manzambi,da2ced9c,ao ANG,MF,Cordoba
+9214.0,Antonio Moyano,/en/players/dae880d4/Antonio-Moyano,Antonio-Moyano,dae880d4,es ESP,MF,Cordoba
+9215.0,Rafael Rodríguez,/en/players/07c4053f/Rafael-Rodriguez,Rafael-Rodriguez,07c4053f,es ESP,FW,Cordoba
+9216.0,Kevin,/en/players/b0b34497/Kevin,Kevi,b0b34497,es ESP,MF,Cordoba
+9217.0,Juan Llamas,/en/players/5600abe2/Juan-Llamas,Juan-Llam,5600abe2,es ESP,GK,Cordoba
+9218.0,﻿Farrando,/en/players/8b3c2a59/Farrando,Farrando,8b3c2a59,es ESP,DF,Cordoba
+9219.0,Xavi Molina,/en/players/dd088a95/Xavi-Molina,Xavi-Moli,dd088a95,es ESP,DF,Cordoba
+9220.0,Alberto Del Moral,/en/players/84a85b48/Alberto-Del-Moral,Alberto-Del-Mo,84a85b48,es ESP,"MF,FW",Cordoba
+9221.0,Djakaridja Traoré,/en/players/5fd2e685/Djakaridja-Traore,Djakaridja-Trao,5fd2e685,ci CIV,MF,Cordoba
+9222.0,Mario Ortiz Ruiz,/en/players/82661dc4/Mario-Ortiz-Ruiz,Mario-Ortiz-Ruiz,82661dc4,es ESP,MF,Cordoba
+9223.0,Mohammed Djetei,/en/players/209c123e/Mohammed-Djetei,Mohammed-Djetei,209c123e,cm CMR,DF,Cordoba
+9224.0,Alberto Espeso,/en/players/79bb9a5d/Alberto-Espeso,Alberto-Espeso,79bb9a5d,es ESP,"MF,DF",Cordoba
+9225.0,Eduardo Frías,/en/players/0dce7191/Eduardo-Frias,Eduardo-Fri,0dce7191,es ESP,GK,Cordoba
+9226.0,Samu Delgado,/en/players/3b233353/Samu-Delgado,Samu-Delgado,3b233353,es ESP,"MF,FW",Cordoba
+9227.0,Thierry Moutinho,/en/players/8e928063/Thierry-Moutinho,Thierry-Moutinho,8e928063,pt POR,MF,Cordoba
+9228.0,Alain Oyarzun,/en/players/8159c16a/Alain-Oyarzun,Alain-Oyarzu,8159c16a,es ESP,MF,Cordoba
+9229.0,Willy,/en/players/c3c599ba/Willy,Wi,c3c599ba,es ESP,FW,Cordoba
+9230.0,Jesús Álvaro,/en/players/201b183d/Jesus-Alvaro,Jesus-Alvaro,201b183d,es ESP,DF,Cordoba
+9231.0,Isaac Becerra,/en/players/bee5d245/Isaac-Becerra,Isaac-Bec,bee5d245,es ESP,GK,Cordoba
+9232.0,Álex Robles,/en/players/df9326db/Alex-Robles,Alex-Rob,df9326db,es ESP,DF,Cordoba
+9233.0,Carlos Valverde,/en/players/319aa98f/Carlos-Valverde,Carlos-Valverd,319aa98f,es ESP,DF,Cordoba
+9234.0,Luismi,/en/players/a87e5826/Luismi,Luismi,87e5826,es ESP,FW,Cordoba
+9235.0,Bernardo Cruz,/en/players/47872f21/Bernardo-Cruz,Bernardo-Cruz,47872f21,es ESP,DF,Cordoba
+9236.0,Alejandro Meléndez,/en/players/1e27aaad/Alejandro-Melendez,Alejandro-Melendez,1e27aaad,es ESP,DF,Cordoba
+9237.0,Darren Sidoel,/en/players/90c887a0/Darren-Sidoel,Darren-Sido,90c887a0,bg BUL,"DF,MF",Cordoba
+9238.0,﻿José Alonso,/en/players/361ee4d4/Jose-Alonso,Jose-Alonso,361ee4d4,es ESP,DF,Cordoba
+9239.0,José Miguel Ruiz del Amo,/en/players/41217d36/Jose-Miguel-Ruiz-del-Amo,Jose-Miguel-Ruiz-del-Amo,41217d36,es ESP,DF,Cordoba
+9240.0,José Cruz,/en/players/dff35885/Jose-Cruz,Jose-Cruz,dff35885,es ESP,DF,Cordoba
+9241.0,Ekaitz,/en/players/93d96114/Ekaitz,Ekaitz,93d96114,es ESP,DF,Cordoba
+9242.0,Felipe Ramos Sánchez,/en/players/5c27611c/Felipe-Ramos-Sanchez,Felipe-Ramos-Sanchez,5c27611c,es ESP,GK,Cordoba
+9243.0,Toni Arranz,/en/players/a96c76d3/Toni-Arranz,Toni-Arranz,96c76d3,es ESP,MF,Cordoba
+9244.0,Mohamed Bouzaidi Diouri,/en/players/59165b43/Mohamed-Bouzaidi-Diouri,Mohamed-Bouzaidi-Diouri,59165b43,ma MAR,FW,Cordoba
+9245.0,Antonio Casas,/en/players/85c05bac/Antonio-Casas,Antonio-C,85c05bac,es ESP,FW,Cordoba
+9246.0,Adrián Fuentes,/en/players/5052b1bc/Adrian-Fuentes,Adrian-Fuent,5052b1bc,es ESP,FW,Cordoba
+9247.0,Puga,/en/players/38daeede/Puga,Pug,38daeede,es ESP,MF,Cordoba
+9248.0,Omar Perdomo,/en/players/5290eb66/Omar-Perdomo,Omar-Perdomo,5290eb66,es ESP,MF,Cordoba
+9249.0,Christian,/en/players/b2115759/Christian,Christi,b2115759,es ESP,MF,Cordoba
+9250.0,Abreu,/en/players/e5986f12/Abreu,Abreu,5986f12,es ESP,MF,Cordoba
+9251.0,Rafa Castillo,/en/players/41d26bba/Rafa-Castillo,Rafa-Castillo,41d26bba,es ESP,DF,Cordoba
+9252.0,Tala,/en/players/57ef6e74/Tala,T,57ef6e74,es ESP,DF,Cordoba

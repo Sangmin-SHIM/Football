@@ -1,187 +1,332 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-3696.0,﻿Óscar Montiel,/en/players/a50554b5/Oscar-Montiel,Oscar-Monti,50554b5,es ESP,DF,Albacete
-3697.0,Carlos Roa,/en/players/eb148b07/Carlos-Roa,Carlos-Ro,b148b07,ar ARG,GK,Albacete
-3698.0,Gustavo Siviero,/en/players/aa1f67bf/Gustavo-Siviero,Gustavo-Siviero,1f67bf,ar ARG,DF,Albacete
-3699.0,Laurent Viaud,/en/players/a0a6fbbf/Laurent-Viaud,Laurent-Viaud,0a6fbbf,fr FRA,MF,Albacete
-3700.0,Líbero Parri,/en/players/203ff743/Libero-Parri,Libero-Parri,203ff743,es ESP,MF,Albacete
-3701.0,Padilla,/en/players/996e06f8/Padilla,Padi,996e06f8,es ESP,DF,Albacete
-3702.0,Paco Peña,/en/players/e3b01965/Paco-Pena,Paco-P,3b01965,es ESP,DF,Albacete
-3703.0,Basti,/en/players/ff5c374b/Basti,Basti,ff5c374b,es ESP,FW,Albacete
-3704.0,Iván Díaz Ruiz,/en/players/e7870c95/Ivan-Diaz-Ruiz,Ivan-Diaz-Ruiz,7870c95,es ESP,MF,Albacete
-3705.0,Alejandro Duré,/en/players/503dc068/Alejandro-Dure,Alejandro-Du,503dc068,ar ARG,FW,Albacete
-3706.0,Cătălin Munteanu,/en/players/7cc877fd/Catalin-Munteanu,Catalin-Munteanu,7cc877fd,ro ROU,MF,Albacete
-3707.0,Pedro,/en/players/380f42c1/Pedro,Pedro,380f42c1,es ESP,DF,Albacete
-3708.0,Mikel Aguirregomezkorta Larrea,/en/players/bcfe919b/Mikel-Aguirregomezkorta-Larrea,Mikel-Aguirregomezkorta-L,bcfe919b,es ESP,FW,Albacete
-3709.0,Carlos David Cano,/en/players/c7f63f13/Carlos-David-Cano,Carlos-David-Cano,c7f63f13,es ESP,GK,Albacete
-3710.0,Rodri,/en/players/b8462bd6/Rodri,Rodri,b8462bd6,es ESP,MF,Albacete
-3711.0,Miquel Buades Crespí,/en/players/4ef0b7d8/Miquel-Buades-Crespi,Miquel-Buades-Crespi,4ef0b7d8,es ESP,DF,Albacete
-3712.0,Rubio,/en/players/5074df2e/Rubio,Rubio,5074df2e,es ESP,MF,Albacete
-3713.0,Antonio Pacheco,/en/players/9ad93cb3/Antonio-Pacheco,Antonio-Pacheco,9ad93cb3,uy URU,"FW,MF",Albacete
-3714.0,Pablo Redondo,/en/players/da98fdb0/Pablo-Redondo,Pablo-Redondo,da98fdb0,es ESP,MF,Albacete
-3715.0,Fabiano Pereira,/en/players/b1e4e4ab/Fabiano-Pereira,Fabiano-Perei,b1e4e4ab,br BRA,MF,Albacete
-3716.0,Abass Lawal,/en/players/dd53d426/Abass-Lawal,Abass-Law,dd53d426,ng NGA,"FW,MF",Albacete
-3717.0,Gabriel Amato,/en/players/eb571f57/Gabriel-Amato,Gabriel-Amato,b571f57,ar ARG,FW,Albacete
-3718.0,Christian Díaz,/en/players/4c6f6ef4/Christian-Diaz,Christian-Diaz,4c6f6ef4,ar ARG,"DF,MF",Albacete
-3719.0,Cacá,/en/players/1bd2ede8/Caca,Cac,1bd2ede8,br BRA,FW,Albacete
-3720.0,Manuel Gato,/en/players/eb137ee5/Manuel-Gato,Manuel-Gato,b137ee5,es ESP,FW,Albacete
-3721.0,Jaime,/en/players/3bd0615c/Jaime,Jaim,3bd0615c,es ESP,MF,Albacete
-3722.0,Francisco,/en/players/ea20ba95/Francisco,Francisco,20ba95,es ESP,FW,Albacete
-3723.0,Horacio Peralta,/en/players/ce94974a/Horacio-Peralta,Horacio-Peralt,ce94974a,uy URU,"FW,MF",Albacete
-3724.0,Albert Cano López,/en/players/07942271/Albert-Cano-Lopez,Albert-Cano-Lopez,7942271,es ESP,MF,Albacete
-3725.0,Ángel Pindado,/en/players/6b44da65/Angel-Pindado,Angel-Pindado,6b44da65,es ESP,GK,Albacete
-3726.0,Pablo García,/en/players/d4f9919a/Pablo-Garcia,Pablo-Garci,d4f9919a,es ESP,DF,Albacete
-3727.0,Elías Molina,/en/players/653cad5f/Elias-Molina,Elias-Moli,653cad5f,es ESP,MF,Albacete
-3728.0,Pablo García,/en/players/5d997306/Pablo-Garcia,Pablo-Garci,5d997306,es ESP,MF,Albacete
-3729.0,David Cañas,/en/players/01d8b210/David-Canas,David-C,01d8b210,es ESP,DF,Albacete
-3730.0,David Bauzá,/en/players/8969dfa6/David-Bauza,David-Bauz,8969dfa6,es ESP,MF,Albacete
-3731.0,Rubén Martín,/en/players/a5ef1a55/Ruben-Martin,Ruben-Marti,5ef1a55,es ESP,GK,Albacete
-3732.0,César Cortés,/en/players/fb36a54a/Cesar-Cortes,Cesar-Cort,fb36a54a,cl CHI,"FW,MF",Albacete
-3733.0,Diego Alegre,/en/players/4b2b43d5/Diego-Alegre,Diego-Aleg,4b2b43d5,es ESP,DF,Albacete
-3734.0,Álvaro Cámara,/en/players/d1c514a8/Alvaro-Camara,Alvaro-Cam,d1c514a8,es ESP,MF,Albacete
-3735.0,Javi Martínez,/en/players/9cc524a0/Javi-Martinez,Javi-Martinez,9cc524a0,es ESP,GK,Albacete
-3736.0,Kike Tortosa,/en/players/d517d259/Kike-Tortosa,Kike-Torto,d517d259,es ESP,DF,Albacete
-3737.0,Rangel,/en/players/8c227056/Rangel,Rang,8c227056,es ESP,DF,Albacete
-3738.0,Dani Gaíl,/en/players/6a32312e/Dani-Gail,Dani-Gai,6a32312e,es ESP,FW,Albacete
-3739.0,Pablo Calandria,/en/players/9c010ae8/Pablo-Calandria,Pablo-Calandri,9c010ae8,ar ARG,FW,Albacete
-3740.0,Jonathan López,/en/players/5f872f11/Jonathan-Lopez,Jonathan-Lopez,5f872f11,es ESP,GK,Albacete
-3741.0,Matías Alustiza,/en/players/b88beb53/Matias-Alustiza,Matias-Alustiz,b88beb53,mx MEX,FW,Albacete
-3742.0,Albert Meyong,/en/players/f718a9b0/Albert-Meyong,Albert-Meyong,f718a9b0,cm CMR,FW,Albacete
-3743.0,Pablo Gil,/en/players/7dde0752/Pablo-Gil,Pablo-Gi,7dde0752,es ESP,DF,Albacete
-3744.0,Esteban Buján,/en/players/671f7d17/Esteban-Bujan,Esteban-Buj,671f7d17,ar ARG,MF,Albacete
-3745.0,Jeremías Caggiano,/en/players/d4c231fc/Jeremias-Caggiano,Jeremias-Caggiano,d4c231fc,ar ARG,FW,Albacete
-3746.0,Pablo Buendía,/en/players/d9255d71/Pablo-Buendia,Pablo-Buendi,d9255d71,es ESP,DF,Albacete
-3747.0,Álex Pérez,/en/players/0048483c/Alex-Perez,Alex-Perez,0048483c,es ESP,MF,Albacete
-3748.0,Juan Belencoso,/en/players/24cc8928/Juan-Belencoso,Juan-Belencoso,24cc8928,es ESP,FW,Albacete
-3749.0,Nicolás Corvetto,/en/players/830fd801/Nicolas-Corvetto,Nicolas-Corvetto,830fd801,cl CHI,"DF,MF",Albacete
-3750.0,Guillaume N'Kendo,/en/players/d8ce4cd2/Guillaume-NKendo,Guillaume-NKendo,d8ce4cd2,cm CMR,FW,Albacete
-3751.0,Nico,/en/players/d31ca300/Nico,Nico,d31ca300,es ESP,MF,Albacete
-3752.0,Daniel López Ramos,/en/players/915cea2d/Daniel-Lopez-Ramos,Daniel-Lopez-Ramo,915cea2d,es ESP,DF,Albacete
-3753.0,Manuel Blanco,/en/players/3dadb16d/Manuel-Blanco,Manuel-Blanco,3dadb16d,es ESP,DF,Albacete
-3754.0,Leonel Altobelli,/en/players/abc4431d/Leonel-Altobelli,Leonel-Altobelli,bc4431d,ar ARG,FW,Albacete
-3755.0,César Ortiz,/en/players/5e981cfc/Cesar-Ortiz,Cesar-Ortiz,5e981cfc,es ESP,DF,Albacete
-3756.0,Mariano Uglessich,/en/players/cb5b0eea/Mariano-Uglessich,Mariano-Uglessich,cb5b0eea,ar ARG,DF,Albacete
-3757.0,Mikel Amantegui,/en/players/f92f842f/Mikel-Amantegui,Mikel-Amantegui,f92f842f,es ESP,DF,Albacete
-3758.0,Joe Bizera,/en/players/c3c94c0f/Joe-Bizera,Joe-Biz,c3c94c0f,uy URU,DF,Albacete
-3759.0,Juanjo Pereira,/en/players/f42ac8a1/Juanjo-Pereira,Juanjo-Perei,f42ac8a1,es ESP,MF,Albacete
-3760.0,Javi Castellano,/en/players/dac68523/Javi-Castellano,Javi-Castellano,dac68523,es ESP,"DF,MF",Albacete
-3761.0,Guillermo Roldán,/en/players/b18cad28/Guillermo-Roldan,Guillermo-Rold,b18cad28,es ESP,MF,Albacete
-3762.0,Sergio Arenas,/en/players/739f49c9/Sergio-Arenas,Sergio-A,739f49c9,es ESP,GK,Albacete
-3763.0,Ismael Rangel León,/en/players/76e7bdd7/Ismael-Rangel-Leon,Ismael-Rangel-Leo,76e7bdd7,es ESP,MF,Albacete
-3764.0,Carletes,/en/players/e4f3dbd2/Carletes,Carlet,4f3dbd2,es ESP,FW,Albacete
-3765.0,Roberto Batres,/en/players/065b8dd2/Roberto-Batres,Roberto-Bat,065b8dd2,es ESP,"FW,MF",Albacete
-3766.0,Daniel Fragoso,/en/players/91811cee/Daniel-Fragoso,Daniel-Fragoso,91811cee,es ESP,"DF,MF",Albacete
-3767.0,Carlos de Lerma,/en/players/7cb2c8a4/Carlos-de-Lerma,Carlos-de-Lerm,7cb2c8a4,es ESP,MF,Albacete
-3768.0,Soumaïla Konaré,/en/players/2488d456/Soumaila-Konare,Soumaila-Ko,2488d456,ml MLI,MF,Albacete
-3769.0,Walid Cherfa,/en/players/7a170385/Walid-Cherfa,Walid-Cherf,7a170385,dz ALG,DF,Albacete
-3770.0,Ramón Blázquez,/en/players/0efac3d0/Ramon-Blazquez,Ramon-Blazquez,0efac3d0,es ESP,DF,Albacete
-3771.0,Cristian Fernández,/en/players/57c9f9c4/Cristian-Fernandez,Cristian-Fernandez,57c9f9c4,ar ARG,DF,Albacete
-3772.0,Gonzalo Verdú,/en/players/1c2c55fc/Gonzalo-Verdu,Gonzalo-Verdu,1c2c55fc,es ESP,DF,Albacete
-3773.0,Pedro,/en/players/484acb34/Pedro,Pedro,484acb34,es ESP,MF,Albacete
-3774.0,Vladimir Gluščević,/en/players/88ec4c7a/Vladimir-Gluscevic,Vladimir-Gluscevic,88ec4c7a,me MNE,FW,Albacete
-3775.0,Alberto Abengózar,/en/players/806253f6/Alberto-Abengozar,Alberto-Abengoz,806253f6,es ESP,FW,Albacete
-3776.0,Guti,/en/players/c58701e8/Guti,Guti,c58701e8,es ESP,MF,Albacete
-3777.0,Nelson Cuevas,/en/players/c51238e5/Nelson-Cuevas,Nelson-Cuev,c51238e5,py PAR,FW,Albacete
-3778.0,Roberto Sánchez,/en/players/b1f5ecde/Roberto-Sanchez,Roberto-Sanchez,b1f5ecde,es ESP,MF,Albacete
-3779.0,Guille,/en/players/9881a438/Guille,Gui,9881a438,es ESP,MF,Albacete
-3780.0,Fran Amado,/en/players/dd11b971/Fran-Amado,Fran-Amado,dd11b971,es ESP,FW,Albacete
-3781.0,Gonzalo,/en/players/deeda5ab/Gonzalo,Gonzalo,deeda5ab,es ESP,DF,Albacete
-3782.0,Francisco Dorronsoro,/en/players/d4442eb9/Francisco-Dorronsoro,Francisco-Dorronsoro,d4442eb9,es ESP,GK,Albacete
-3783.0,Samu Delgado,/en/players/3b233353/Samu-Delgado,Samu-Delgado,3b233353,es ESP,MF,Albacete
-3784.0,Carlos Moreno,/en/players/beae2a31/Carlos-Moreno,Carlos-Moreno,beae2a31,es ESP,DF,Albacete
-3785.0,Alberto Domínguez,/en/players/c5ada735/Alberto-Dominguez,Alberto-Dominguez,c5ada735,es ESP,GK,Albacete
-3786.0,Diego Rivas Rego,/en/players/c3a6fb7d/Diego-Rivas-Rego,Diego-Rivas-Rego,c3a6fb7d,es ESP,GK,Albacete
-3787.0,José Rojas,/en/players/5854c775/Jose-Rojas,Jose-Roj,5854c775,es ESP,DF,Albacete
-3788.0,Fran García,/en/players/e5616927/Fran-Garcia,Fran-Garci,5616927,es ESP,DF,Albacete
-3789.0,Pol Bueso,/en/players/7fd2c75e/Pol-Bueso,Pol-Bueso,7fd2c75e,es ESP,DF,Albacete
-3790.0,Carlos Indiano,/en/players/521c811e/Carlos-Indiano,Carlos-Indiano,521c811e,es ESP,MF,Albacete
-3791.0,Juanra,/en/players/883c7798/Juanra,Ju,883c7798,es ESP,DF,Albacete
-3792.0,Manuel Miquel,/en/players/97e5daab/Manuel-Miquel,Manuel-Miqu,97e5daab,es ESP,MF,Albacete
-3793.0,José Manuel Ruiz Carrasco,/en/players/84aa61bf/Jose-Manuel-Ruiz-Carrasco,Jose-Manuel-Ruiz-Carrasco,84aa61bf,es ESP,MF,Albacete
-3794.0,Chumbi,/en/players/ac903501/Chumbi,Chumbi,c903501,es ESP,FW,Albacete
-3795.0,Iván Cifuentes,/en/players/5448d40e/Ivan-Cifuentes,Ivan-Cifuent,5448d40e,es ESP,FW,Albacete
-3796.0,Héctor Pizana,/en/players/75e2b34a/Hector-Pizana,Hector-Piz,75e2b34a,es ESP,GK,Albacete
-3797.0,Jona,/en/players/840dd8a7/Jona,Jo,840dd8a7,hn HON,FW,Albacete
-3798.0,Santi Jara,/en/players/40a78f59/Santi-Jara,Santi-J,40a78f59,es ESP,"FW,MF",Albacete
-3799.0,Adrián Gómez,/en/players/f6d94b97/Adrian-Gomez,Adrian-Gomez,f6d94b97,es ESP,MF,Albacete
-3800.0,Víctor Curto,/en/players/83cd8962/Victor-Curto,Victor-Curto,83cd8962,es ESP,FW,Albacete
-3801.0,Fede Vico,/en/players/f681a8ef/Fede-Vico,Fede-Vico,f681a8ef,es ESP,MF,Albacete
-3802.0,Jason Davidson,/en/players/46bcd68d/Jason-Davidson,Jason-Davidso,46bcd68d,au AUS,"DF,MF",Albacete
-3803.0,Hugo Eyre,/en/players/4271ace2/Hugo-Eyre,Hugo-E,4271ace2,es ESP,GK,Albacete
-3804.0,Neuton,/en/players/274e3e73/Neuton,Neuto,274e3e73,br BRA,DF,Albacete
-3805.0,﻿Álvaro Arroyo,/en/players/b2fa39c5/Alvaro-Arroyo,Alvaro-Arroyo,b2fa39c5,es ESP,DF,Albacete
-3806.0,Mickaël Gaffoor,/en/players/7ab63f1e/Mickael-Gaffoor,Mickael-Gaffoo,7ab63f1e,fr FRA,DF,Albacete
-3807.0,Fran Carnicer,/en/players/2888a995/Fran-Carnicer,Fran-Carnic,2888a995,es ESP,MF,Albacete
-3808.0,Eloy Gila,/en/players/d41067ce/Eloy-Gila,Eloy-Gi,d41067ce,es ESP,FW,Albacete
-3809.0,Diego Manzano,/en/players/59560ddf/Diego-Manzano,Diego-Manzano,59560ddf,es ESP,MF,Albacete
-3810.0,Marc Rovirola,/en/players/38d28d92/Marc-Rovirola,Marc-Roviro,38d28d92,es ESP,MF,Albacete
-3811.0,Aridane,/en/players/3e601a74/Aridane,Arid,3e601a74,es ESP,FW,Albacete
-3812.0,Rafa Gálvez,/en/players/445ca2c1/Rafa-Galvez,Rafa-Galvez,445ca2c1,es ESP,"DF,MF",Albacete
-3813.0,Lado Mokhevishvili,/en/players/8dd5e86f/Lado-Mokhevishvili,Lado-Mokhevishvili,8dd5e86f,ge GEO,MF,Albacete
-3814.0,Cristian Galas,/en/players/7021b9ca/Cristian-Galas,Cristian-G,7021b9ca,es ESP,DF,Albacete
-3815.0,Josan,/en/players/5b28b2f6/Josan,Jo,5b28b2f6,es ESP,"DF,MF",Albacete
-3816.0,Ángel Moreno,/en/players/508e94d2/Angel-Moreno,Angel-Moreno,508e94d2,es ESP,DF,Albacete
-3817.0,José Fran,/en/players/9da2a2b2/Jose-Fran,Jose-F,9da2a2b2,es ESP,MF,Albacete
-3818.0,Jesús Cabañas,/en/players/a09fe803/Jesus-Cabanas,Jesus-Cab,09fe803,es ESP,MF,Albacete
-3819.0,Eneko Eizmendi,/en/players/6858ade9/Eneko-Eizmendi,Eneko-Eizmendi,6858ade9,es ESP,MF,Albacete
-3820.0,Mariano Bíttolo,/en/players/61120693/Mariano-Bittolo,Mariano-Bittolo,61120693,ar ARG,"DF,MF",Albacete
-3821.0,Jérémie Bela,/en/players/5680bf3f/Jeremie-Bela,Jeremie-B,5680bf3f,ao ANG,FW,Albacete
-3822.0,David Morillas,/en/players/9605a60a/David-Morillas,David-Mori,9605a60a,es ESP,"DF,MF",Albacete
-3823.0,Nicolás Gorosito,/en/players/073db7e5/Nicolas-Gorosito,Nicolas-Gorosito,073db7e5,ar ARG,DF,Albacete
-3824.0,Fabián Espíndola,/en/players/201b194a/Fabian-Espindola,Fabian-Espindo,201b194a,ar ARG,"FW,MF",Albacete
-3825.0,Danny Carvajal,/en/players/b97a55c5/Danny-Carvajal,Danny-Carvaj,b97a55c5,cr CRC,GK,Albacete
-3826.0,Pelayo,/en/players/bdda8ebd/Pelayo,Pelayo,bdda8ebd,es ESP,MF,Albacete
-3827.0,Quim Araujo,/en/players/1ba60662/Quim-Araujo,Quim-Araujo,1ba60662,es ESP,MF,Albacete
-3828.0,Álvaro Gómez,/en/players/5d31d742/Alvaro-Gomez,Alvaro-Gomez,5d31d742,es ESP,FW,Albacete
-3829.0,Javi Forján,/en/players/d95171ce/Javi-Forjan,Javi-Forj,d95171ce,es ESP,FW,Albacete
-3830.0,Godino,/en/players/a44b7a60/Godino,Godino,44b7a60,es ESP,GK,Albacete
-3831.0,Santiago Gentiletti,/en/players/4ac07e1b/Santiago-Gentiletti,Santiago-Gentiletti,4ac07e1b,ar ARG,DF,Albacete
-3832.0,Mathías Olivera,/en/players/41c12f75/Mathias-Olivera,Mathias-Oliv,41c12f75,uy URU,DF,Albacete
-3833.0,Mickael Malsa,/en/players/bbc19252/Mickael-Malsa,Mickael-M,bbc19252,mq MTQ,MF,Albacete
-3834.0,Barri,/en/players/9704b62b/Barri,Barri,9704b62b,es ESP,MF,Albacete
-3835.0,Miguel Ángel,/en/players/24b66747/Miguel-Angel,Miguel-Ang,24b66747,es ESP,FW,Albacete
-3836.0,Ballou Tabla,/en/players/018bd079/Ballou-Tabla,Ballou-Tab,018bd079,ca CAN,MF,Albacete
-3837.0,Juan Boselli,/en/players/6195d416/Juan-Boselli,Juan-Boselli,6195d416,uy URU,FW,Albacete
-3838.0,Jean Sepp Mvondo,/en/players/7d04809f/Jean-Sepp-Mvondo,Jean-Sepp-Mvondo,7d04809f,cm CMR,MF,Albacete
-3839.0,Paulo Vitor,/en/players/3ace4e2d/Paulo-Vitor,Paulo-Vito,3ace4e2d,br BRA,FW,Albacete
-3840.0,Dani García,/en/players/db8a5ee6/Dani-Garcia,Dani-Garci,db8a5ee6,es ESP,MF,Albacete
-3841.0,Dario Ramos,/en/players/d2f94ed9/Dario-Ramos,Dario-Ramo,d2f94ed9,es ESP,GK,Albacete
-3842.0,Dani Ojeda,/en/players/375a669e/Dani-Ojeda,Dani-Ojed,375a669e,es ESP,MF,Albacete
-3843.0,Ivan Kecojević,/en/players/83e49f90/Ivan-Kecojevic,Ivan-Kecojevic,83e49f90,me MNE,DF,Albacete
-3844.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Albacete
-3845.0,Karim Azamoum,/en/players/eaf71a5e/Karim-Azamoum,Karim-Azamoum,f71a5e,fr FRA,MF,Albacete
-3846.0,Manuel Fuster,/en/players/618f396a/Manuel-Fuster,Manuel-Fust,618f396a,es ESP,"FW,MF",Albacete
-3847.0,Chema Núñez,/en/players/5b1ec540/Chema-Nunez,Chema-Nunez,5b1ec540,es ESP,"FW,MF",Albacete
-3848.0,Gabriel Brazão,/en/players/18c697e8/Gabriel-Brazao,Gabriel-Brazao,18c697e8,br BRA,GK,Albacete
-3849.0,Leonardo Capezzi,/en/players/07ea0ef2/Leonardo-Capezzi,Leonardo-Capezzi,07ea0ef2,it ITA,MF,Albacete
-3850.0,Robert Ergas,/en/players/b7cdda99/Robert-Ergas,Robert-Erg,b7cdda99,uy URU,DF,Albacete
-3851.0,David Querol,/en/players/260a29e9/David-Querol,David-Quero,260a29e9,es ESP,"FW,MF",Albacete
-3852.0,Abdul Awudu,/en/players/fe0670bd/Abdul-Awudu,Abdul-Awudu,fe0670bd,gh GHA,MF,Albacete
-3853.0,Francisco Castillo,/en/players/0c0f0c5b/Francisco-Castillo,Francisco-Castillo,0c0f0c5b,es ESP,MF,Albacete
-3854.0,Fernando Navarro,/en/players/a2ff8746/Fernando-Navarro,Fernando-Navarro,2ff8746,es ESP,DF,Albacete
-3855.0,Víctor Segura,/en/players/e09b2563/Victor-Segura,Victor-Segu,09b2563,es ESP,MF,Albacete
-3856.0,Álvaro Jiménez,/en/players/5f5501ed/Alvaro-Jimenez,Alvaro-Jimenez,5f5501ed,es ESP,MF,Albacete
-3857.0,Liberto Beltrán,/en/players/cab58ffe/Liberto-Beltran,Liberto-Belt,cab58ffe,es ESP,"MF,FW",Albacete
-3858.0,Tana,/en/players/ef345601/Tana,T,f345601,es ESP,"FW,MF",Albacete
-3859.0,Cédric Teguia,/en/players/83fd9572/Cedric-Teguia,Cedric-Tegui,83fd9572,es ESP,MF,Albacete
-3860.0,Emiliano Gómez,/en/players/6c1b4a8d/Emiliano-Gomez,Emiliano-Gomez,6c1b4a8d,uy URU,"MF,FW",Albacete
-3861.0,Nahuel Arroyo,/en/players/eaad5873/Nahuel-Arroyo,Nahuel-Arroyo,d5873,es ESP,MF,Albacete
-3862.0,Javier Navarro,/en/players/d6626d37/Javier-Navarro,Javier-Navarro,d6626d37,es ESP,MF,Albacete
-3863.0,David Del Pozo,/en/players/8e5c86a5/David-Del-Pozo,David-Del-Pozo,8e5c86a5,es ESP,MF,Albacete
-3864.0,Diego Cortés,/en/players/dc5bd223/Diego-Cortes,Diego-Cort,dc5bd223,es ESP,FW,Albacete
-3865.0,Ismael De Andrés,/en/players/7da9fa8f/Ismael-De-Andres,Ismael-De-And,7da9fa8f,es ESP,GK,Albacete
-3866.0,Samuel González,/en/players/588eccc8/Samuel-Gonzalez,Samuel-Gonzalez,588eccc8,es ESP,DF,Albacete
-3867.0,Samuel Vazquez,/en/players/81bca102/Samuel-Vazquez,Samuel-Vazquez,81bca102,es ESP,FW,Albacete
-3868.0,Javier Verdú,/en/players/66b836be/Javier-Verdu,Javier-Verdu,66b836be,es ESP,FW,Albacete
-3869.0,﻿Flavien Boyomo,/en/players/3a99bc13/Flavien-Boyomo,Flavien-Boyomo,3a99bc13,fr FRA,DF,Albacete
-3870.0,Andreu Arasa,/en/players/d066b0ea/Andreu-Arasa,Andreu-A,d066b0ea,es ESP,"MF,DF",Albacete
-3871.0,Eric Montes,/en/players/a9873ff3/Eric-Montes,Eric-Mont,9873ff3,es ESP,"MF,DF",Albacete
-3872.0,Jordi Sánchez,/en/players/658117b6/Jordi-Sanchez,Jordi-Sanchez,658117b6,es ESP,FW,Albacete
-3873.0,Marc Llinares,/en/players/4ff1d88c/Marc-Llinares,Marc-Lli,4ff1d88c,es ESP,DF,Albacete
-3874.0,Mohammed Djetei,/en/players/209c123e/Mohammed-Djetei,Mohammed-Djetei,209c123e,cm CMR,DF,Albacete
-3875.0,Pau Resta,/en/players/19170de2/Pau-Resta,Pau-Rest,19170de2,es ESP,MF,Albacete
-3876.0,Diego Johannesson,/en/players/8ef4eceb/Diego-Johannesson,Diego-Johannesso,8ef4eceb,is ISL,"DF,MF",Albacete
-3877.0,Daniel González,/en/players/73a0e128/Daniel-Gonzalez,Daniel-Gonzalez,73a0e128,es ESP,FW,Albacete
-3878.0,Sergi Maestre,/en/players/1d7bd5c5/Sergi-Maestre,Sergi-Maest,1d7bd5c5,es ESP,MF,Albacete
-3879.0,Rubén Martínez,/en/players/f8af27ce/Ruben-Martinez,Ruben-Martinez,f8af27ce,es ESP,MF,Albacete
-3880.0,Jeisson Martínez,/en/players/f9d16d9a/Jeisson-Martinez,Jeisson-Martinez,f9d16d9a,pe PER,FW,Albacete
-3881.0,Nacho Córdoba,/en/players/be8796ec/Nacho-Cordoba,Nacho-Cordob,be8796ec,es ESP,GK,Albacete
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+5200.0,﻿Óscar Montiel,/en/players/a50554b5/Oscar-Montiel,Oscar-Monti,50554b5,es ESP,DF,Albacete
+5201.0,Carlos Roa,/en/players/eb148b07/Carlos-Roa,Carlos-Ro,b148b07,ar ARG,GK,Albacete
+5202.0,Pablo Ibáñez,/en/players/23ca89f2/Pablo-Ibanez,Pablo-Ibanez,23ca89f2,es ESP,DF,Albacete
+5203.0,Gustavo Siviero,/en/players/aa1f67bf/Gustavo-Siviero,Gustavo-Siviero,1f67bf,ar ARG,DF,Albacete
+5204.0,José Jesús Perera,/en/players/a39a1bc8/Jose-Jesus-Perera,Jose-Jesus-P,39a1bc8,es ESP,FW,Albacete
+5205.0,Laurent Viaud,/en/players/a0a6fbbf/Laurent-Viaud,Laurent-Viaud,0a6fbbf,fr FRA,MF,Albacete
+5206.0,Líbero Parri,/en/players/203ff743/Libero-Parri,Libero-Parri,203ff743,es ESP,MF,Albacete
+5207.0,Padilla,/en/players/996e06f8/Padilla,Padi,996e06f8,es ESP,DF,Albacete
+5208.0,Jandro,/en/players/453a1fcd/Jandro,Jandro,453a1fcd,es ESP,MF,Albacete
+5209.0,Ludovic Delporte,/en/players/7c2c4c3e/Ludovic-Delporte,Ludovic-Delport,7c2c4c3e,fr FRA,MF,Albacete
+5210.0,Paco Peña,/en/players/e3b01965/Paco-Pena,Paco-P,3b01965,es ESP,DF,Albacete
+5211.0,Basti,/en/players/ff5c374b/Basti,Basti,ff5c374b,es ESP,FW,Albacete
+5212.0,Pablo Sierra,/en/players/224f3a5f/Pablo-Sierra,Pablo-Si,224f3a5f,es ESP,MF,Albacete
+5213.0,Iván Díaz Ruiz,/en/players/e7870c95/Ivan-Diaz-Ruiz,Ivan-Diaz-Ruiz,7870c95,es ESP,MF,Albacete
+5214.0,Álvaro Rubio,/en/players/149770b8/Alvaro-Rubio,Alvaro-Rubio,149770b8,es ESP,"DF,MF",Albacete
+5215.0,Alejandro Duré,/en/players/503dc068/Alejandro-Dure,Alejandro-Du,503dc068,ar ARG,FW,Albacete
+5216.0,Cătălin Munteanu,/en/players/7cc877fd/Catalin-Munteanu,Catalin-Munteanu,7cc877fd,ro ROU,MF,Albacete
+5217.0,Pedro,/en/players/380f42c1/Pedro,Pedro,380f42c1,es ESP,DF,Albacete
+5218.0,Mikel Aguirregomezkorta Larrea,/en/players/bcfe919b/Mikel-Aguirregomezkorta-Larrea,Mikel-Aguirregomezkorta-L,bcfe919b,es ESP,FW,Albacete
+5219.0,Carlos David Cano,/en/players/c7f63f13/Carlos-David-Cano,Carlos-David-Cano,c7f63f13,es ESP,GK,Albacete
+5220.0,Rodri,/en/players/b8462bd6/Rodri,Rodri,b8462bd6,es ESP,MF,Albacete
+5221.0,Miquel Buades Crespí,/en/players/4ef0b7d8/Miquel-Buades-Crespi,Miquel-Buades-Crespi,4ef0b7d8,es ESP,DF,Albacete
+5222.0,Rubio,/en/players/5074df2e/Rubio,Rubio,5074df2e,es ESP,MF,Albacete
+5223.0,Antonio Pacheco,/en/players/9ad93cb3/Antonio-Pacheco,Antonio-Pacheco,9ad93cb3,uy URU,"FW,MF",Albacete
+5224.0,Manuel Almunia,/en/players/9f6b2f8c/Manuel-Almunia,Manuel-Almuni,9f6b2f8c,es ESP,GK,Albacete
+5225.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Albacete
+5226.0,David Sánchez,/en/players/bb05af1a/David-Sanchez,David-Sanchez,bb05af1a,es ESP,MF,Albacete
+5227.0,Pablo Redondo,/en/players/da98fdb0/Pablo-Redondo,Pablo-Redondo,da98fdb0,es ESP,MF,Albacete
+5228.0,Unai Vergara,/en/players/c9d08ea0/Unai-Vergara,Unai-Verg,c9d08ea0,es ESP,DF,Albacete
+5229.0,Fabiano Pereira,/en/players/b1e4e4ab/Fabiano-Pereira,Fabiano-Perei,b1e4e4ab,br BRA,MF,Albacete
+5230.0,Fernando Navarro,/en/players/5a3f6fae/Fernando-Navarro,Fernando-Navarro,5a3f6fae,es ESP,DF,Albacete
+5231.0,Abass Lawal,/en/players/dd53d426/Abass-Lawal,Abass-Law,dd53d426,ng NGA,"FW,MF",Albacete
+5232.0,Gabriel Amato,/en/players/eb571f57/Gabriel-Amato,Gabriel-Amato,b571f57,ar ARG,FW,Albacete
+5233.0,Christian Díaz,/en/players/4c6f6ef4/Christian-Diaz,Christian-Diaz,4c6f6ef4,ar ARG,"DF,MF",Albacete
+5234.0,Cacá,/en/players/1bd2ede8/Caca,Cac,1bd2ede8,br BRA,FW,Albacete
+5235.0,Manuel Gato,/en/players/eb137ee5/Manuel-Gato,Manuel-Gato,b137ee5,es ESP,FW,Albacete
+5236.0,Gaspar,/en/players/75e5329b/Gaspar,G,75e5329b,es ESP,DF,Albacete
+5237.0,Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Albacete
+5238.0,Raúl Valbuena,/en/players/d711ab5a/Raul-Valbuena,Raul-Valbu,d711ab5a,es ESP,GK,Albacete
+5239.0,Jaime,/en/players/3bd0615c/Jaime,Jaim,3bd0615c,es ESP,MF,Albacete
+5240.0,Francisco,/en/players/ea20ba95/Francisco,Francisco,20ba95,es ESP,FW,Albacete
+5241.0,Ronny Gaspercic,/en/players/bbeaf9c2/Ronny-Gaspercic,Ronny-Gaspercic,bbeaf9c2,be BEL,GK,Albacete
+5242.0,Mark González,/en/players/d8c62450/Mark-Gonzalez,Mark-Gonzalez,d8c62450,cl CHI,"FW,MF",Albacete
+5243.0,Momo,/en/players/9857e65d/Momo,Momo,9857e65d,es ESP,MF,Albacete
+5244.0,Mingo,/en/players/6fc287d5/Mingo,Mingo,6fc287d5,es ESP,DF,Albacete
+5245.0,Rubén Castro,/en/players/d109f62b/Ruben-Castro,Ruben-Castro,d109f62b,es ESP,"FW,MF",Albacete
+5246.0,Santi,/en/players/98eab2b3/Santi,Santi,98eab2b3,es ESP,DF,Albacete
+5247.0,Horacio Peralta,/en/players/ce94974a/Horacio-Peralta,Horacio-Peralt,ce94974a,uy URU,"FW,MF",Albacete
+5248.0,Agus,/en/players/ef7a542c/Agus,Agu,f7a542c,es ESP,"DF,FW",Albacete
+5249.0,Nicolás Olivera,/en/players/691fd00c/Nicolas-Olivera,Nicolas-Oliv,691fd00c,uy URU,"FW,MF",Albacete
+5250.0,Albert Cano López,/en/players/07942271/Albert-Cano-Lopez,Albert-Cano-Lopez,07942271,es ESP,MF,Albacete
+5251.0,Ángel Pindado,/en/players/6b44da65/Angel-Pindado,Angel-Pindado,6b44da65,es ESP,GK,Albacete
+5252.0,Pablo García,/en/players/d4f9919a/Pablo-Garcia,Pablo-Garci,d4f9919a,es ESP,DF,Albacete
+5253.0,Elías Molina,/en/players/653cad5f/Elias-Molina,Elias-Moli,653cad5f,es ESP,MF,Albacete
+5254.0,Jordi Ferrón,/en/players/cd37881d/Jordi-Ferron,Jordi-Ferro,cd37881d,es ESP,DF,Albacete
+5255.0,Pablo García,/en/players/5d997306/Pablo-Garcia,Pablo-Garci,5d997306,es ESP,MF,Albacete
+5256.0,David Cañas,/en/players/01d8b210/David-Canas,David-C,01d8b210,es ESP,DF,Albacete
+5257.0,David Bauzá,/en/players/8969dfa6/David-Bauza,David-Bauz,8969dfa6,es ESP,MF,Albacete
+5258.0,Mario Bermejo,/en/players/c8dcfee8/Mario-Bermejo,Mario-Bermejo,c8dcfee8,es ESP,FW,Albacete
+5259.0,Rubén Martín,/en/players/a5ef1a55/Ruben-Martin,Ruben-Marti,5ef1a55,es ESP,GK,Albacete
+5260.0,Sergio Santamaría,/en/players/4795800e/Sergio-Santamaria,Sergio-Santamari,4795800e,es ESP,"FW,MF",Albacete
+5261.0,Ricardo Sanzol,/en/players/1aa419de/Ricardo-Sanzol,Ricardo-Sanzo,1aa419de,es ESP,GK,Albacete
+5262.0,Juanlu,/en/players/94b88487/Juanlu,Juanlu,94b88487,es ESP,MF,Albacete
+5263.0,David Català,/en/players/ed54971a/David-Catala,David-Cat,d54971a,es ESP,DF,Albacete
+5264.0,David Pirri,/en/players/e84f523d/David-Pirri,David-Pirri,84f523d,es ESP,MF,Albacete
+5265.0,Garrido,/en/players/32852179/Garrido,Garrido,32852179,es ESP,DF,Albacete
+5266.0,Corona,/en/players/4798bc33/Corona,Coro,4798bc33,es ESP,MF,Albacete
+5267.0,Rubén Reyes,/en/players/770a119c/Ruben-Reyes,Ruben-R,770a119c,es ESP,MF,Albacete
+5268.0,Luismi,/en/players/315b221b/Luismi,Luismi,315b221b,es ESP,MF,Albacete
+5269.0,Casto,/en/players/95b4ffb3/Casto,Casto,95b4ffb3,es ESP,GK,Albacete
+5270.0,César Cortés,/en/players/fb36a54a/Cesar-Cortes,Cesar-Cort,fb36a54a,cl CHI,"FW,MF",Albacete
+5271.0,Raúl Molina,/en/players/91419d20/Raul-Molina,Raul-Moli,91419d20,es ESP,FW,Albacete
+5272.0,﻿Francisco Noguerol,/en/players/73bdd0b1/Francisco-Noguerol,Francisco-Noguero,73bdd0b1,es ESP,DF,Albacete
+5273.0,Diego Alegre,/en/players/4b2b43d5/Diego-Alegre,Diego-Aleg,4b2b43d5,es ESP,DF,Albacete
+5274.0,Álvaro Cámara,/en/players/d1c514a8/Alvaro-Camara,Alvaro-Cam,d1c514a8,es ESP,MF,Albacete
+5275.0,Carlos Peña,/en/players/26a03602/Carlos-Pena,Carlos-P,26a03602,es ESP,DF,Albacete
+5276.0,Antonio Calle,/en/players/3d3d63b9/Antonio-Calle,Antonio-C,3d3d63b9,es ESP,FW,Albacete
+5277.0,José Zahínos,/en/players/6a78fdc0/Jose-Zahinos,Jose-Zahino,6a78fdc0,es ESP,MF,Albacete
+5278.0,José Barkero,/en/players/89a1b23c/Jose-Barkero,Jose-Barkero,89a1b23c,es ESP,MF,Albacete
+5279.0,Javi Martínez,/en/players/9cc524a0/Javi-Martinez,Javi-Martinez,9cc524a0,es ESP,GK,Albacete
+5280.0,Leonardo Biagini,/en/players/44793331/Leonardo-Biagini,Leonardo-Biagini,44793331,ar ARG,FW,Albacete
+5281.0,Gorka Azkorra,/en/players/b6ba90f9/Gorka-Azkorra,Gorka-Azko,b6ba90f9,es ESP,FW,Albacete
+5282.0,Kike Tortosa,/en/players/d517d259/Kike-Tortosa,Kike-Torto,d517d259,es ESP,DF,Albacete
+5283.0,César Díaz,/en/players/7717b1b5/Cesar-Diaz,Cesar-Diaz,7717b1b5,es ESP,FW,Albacete
+5284.0,Rangel,/en/players/8c227056/Rangel,Rang,8c227056,es ESP,DF,Albacete
+5285.0,Candela,/en/players/fc36e493/Candela,Cand,fc36e493,es ESP,MF,Albacete
+5286.0,Dani Gaíl,/en/players/6a32312e/Dani-Gail,Dani-Gai,6a32312e,es ESP,FW,Albacete
+5287.0,Iker Begoña,/en/players/e32aa932/Iker-Begona,Iker-Bego,32aa932,es ESP,"DF,MF",Albacete
+5288.0,Fernando Morán,/en/players/0fce6e4c/Fernando-Moran,Fernando-Mo,0fce6e4c,es ESP,MF,Albacete
+5289.0,Pablo Calandria,/en/players/9c010ae8/Pablo-Calandria,Pablo-Calandri,9c010ae8,ar ARG,FW,Albacete
+5290.0,Jonathan López,/en/players/5f872f11/Jonathan-Lopez,Jonathan-Lopez,5f872f11,es ESP,GK,Albacete
+5291.0,Javi Jiménez,/en/players/f3e8d231/Javi-Jimenez,Javi-Jimenez,f3e8d231,es ESP,MF,Albacete
+5292.0,Matías Alustiza,/en/players/b88beb53/Matias-Alustiza,Matias-Alustiz,b88beb53,mx MEX,FW,Albacete
+5293.0,Albert Meyong,/en/players/f718a9b0/Albert-Meyong,Albert-Meyong,f718a9b0,cm CMR,FW,Albacete
+5294.0,Pablo Gil,/en/players/7dde0752/Pablo-Gil,Pablo-Gi,7dde0752,es ESP,DF,Albacete
+5295.0,Fran Moreno,/en/players/12096092/Fran-Moreno,Fran-Moreno,12096092,es ESP,MF,Albacete
+5296.0,Esteban Buján,/en/players/671f7d17/Esteban-Bujan,Esteban-Buj,671f7d17,ar ARG,MF,Albacete
+5297.0,Jeremías Caggiano,/en/players/d4c231fc/Jeremias-Caggiano,Jeremias-Caggiano,d4c231fc,ar ARG,FW,Albacete
+5298.0,Pablo Buendía,/en/players/d9255d71/Pablo-Buendia,Pablo-Buendi,d9255d71,es ESP,DF,Albacete
+5299.0,Ritchie Kitoko,/en/players/d403d81a/Ritchie-Kitoko,Ritchie-Kitoko,d403d81a,be BEL,MF,Albacete
+5300.0,Álex Pérez,/en/players/0048483c/Alex-Perez,Alex-Perez,0048483c,es ESP,MF,Albacete
+5301.0,Diego Costa,/en/players/a190d597/Diego-Costa,Diego-Cost,190d597,es ESP,FW,Albacete
+5302.0,Carlos Merino,/en/players/443c8c9a/Carlos-Merino,Carlos-Merino,443c8c9a,es ESP,MF,Albacete
+5303.0,Diego Trotta,/en/players/e7ec1faf/Diego-Trotta,Diego-Trott,7ec1faf,ar ARG,DF,Albacete
+5304.0,Diego Mainz,/en/players/95db62b7/Diego-Mainz,Diego-Mainz,95db62b7,es ESP,DF,Albacete
+5305.0,Jaime Romero,/en/players/e28205f4/Jaime-Romero,Jaime-Romero,28205f4,es ESP,"FW,MF",Albacete
+5306.0,Alberto Aguilar,/en/players/eee1627a/Alberto-Aguilar,Alberto-Agui,1627a,es ESP,"DF,MF",Albacete
+5307.0,Verza,/en/players/f972b073/Verza,Verz,f972b073,es ESP,MF,Albacete
+5308.0,Jesús Cabrero,/en/players/d5e95d46/Jesus-Cabrero,Jesus-Cabrero,d5e95d46,es ESP,GK,Albacete
+5309.0,Javier Tarantino,/en/players/0bf40bdb/Javier-Tarantino,Javier-Tarantino,0bf40bdb,es ESP,DF,Albacete
+5310.0,Marco Navas,/en/players/194ed492/Marco-Navas,Marco-Nav,194ed492,es ESP,MF,Albacete
+5311.0,Toché,/en/players/64e35e11/Toche,Toch,64e35e11,es ESP,FW,Albacete
+5312.0,Ibón Gutiérrez,/en/players/2354802e/Ibon-Gutierrez,Ibon-Gutierrez,2354802e,es ESP,MF,Albacete
+5313.0,Juan Belencoso,/en/players/24cc8928/Juan-Belencoso,Juan-Belencoso,24cc8928,es ESP,FW,Albacete
+5314.0,Jonathan Soriano,/en/players/036fb721/Jonathan-Soriano,Jonathan-Soriano,036fb721,es ESP,FW,Albacete
+5315.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,"DF,FW",Albacete
+5316.0,Nicolás Corvetto,/en/players/830fd801/Nicolas-Corvetto,Nicolas-Corvetto,830fd801,cl CHI,"DF,MF",Albacete
+5317.0,Guillaume N'Kendo,/en/players/d8ce4cd2/Guillaume-NKendo,Guillaume-NKendo,d8ce4cd2,cm CMR,FW,Albacete
+5318.0,Nico,/en/players/d31ca300/Nico,Nico,d31ca300,es ESP,MF,Albacete
+5319.0,Cristhian Stuani,/en/players/220c11f1/Cristhian-Stuani,Cristhian-Stuani,220c11f1,uy URU,"FW,MF",Albacete
+5320.0,Fernando Sales,/en/players/24486536/Fernando-Sales,Fernando-S,24486536,es ESP,MF,Albacete
+5321.0,David Sousa,/en/players/292a8dbe/David-Sousa,David-Sou,292a8dbe,es ESP,MF,Albacete
+5322.0,Daniel López Ramos,/en/players/915cea2d/Daniel-Lopez-Ramos,Daniel-Lopez-Ramo,915cea2d,es ESP,DF,Albacete
+5323.0,Antonio López,/en/players/1fdd5ff7/Antonio-Lopez,Antonio-Lopez,1fdd5ff7,es ESP,MF,Albacete
+5324.0,Juanmi Callejón,/en/players/60bb7e62/Juanmi-Callejon,Juanmi-Callejo,60bb7e62,es ESP,MF,Albacete
+5325.0,Antonio Hidalgo,/en/players/b5b88d6c/Antonio-Hidalgo,Antonio-Hidalgo,b5b88d6c,es ESP,MF,Albacete
+5326.0,Antonio Notario,/en/players/b49f31c5/Antonio-Notario,Antonio-Notario,b49f31c5,es ESP,GK,Albacete
+5327.0,Salva Ballesta,/en/players/bd42bcb8/Salva-Ballesta,Salva-Ballest,bd42bcb8,es ESP,FW,Albacete
+5328.0,Manuel Blanco,/en/players/3dadb16d/Manuel-Blanco,Manuel-Blanco,3dadb16d,es ESP,DF,Albacete
+5329.0,Leonel Altobelli,/en/players/abc4431d/Leonel-Altobelli,Leonel-Altobelli,bc4431d,ar ARG,FW,Albacete
+5330.0,César Ortiz,/en/players/5e981cfc/Cesar-Ortiz,Cesar-Ortiz,5e981cfc,es ESP,DF,Albacete
+5331.0,Mariano Uglessich,/en/players/cb5b0eea/Mariano-Uglessich,Mariano-Uglessich,cb5b0eea,ar ARG,DF,Albacete
+5332.0,Mikel Amantegui,/en/players/f92f842f/Mikel-Amantegui,Mikel-Amantegui,f92f842f,es ESP,DF,Albacete
+5333.0,Joe Bizera,/en/players/c3c94c0f/Joe-Bizera,Joe-Biz,c3c94c0f,uy URU,DF,Albacete
+5334.0,Juanjo Pereira,/en/players/f42ac8a1/Juanjo-Pereira,Juanjo-Perei,f42ac8a1,es ESP,MF,Albacete
+5335.0,Javi Castellano,/en/players/dac68523/Javi-Castellano,Javi-Castellano,dac68523,es ESP,"DF,MF",Albacete
+5336.0,Guillermo Roldán,/en/players/b18cad28/Guillermo-Roldan,Guillermo-Rold,b18cad28,es ESP,MF,Albacete
+5337.0,Sergio Arenas,/en/players/739f49c9/Sergio-Arenas,Sergio-A,739f49c9,es ESP,GK,Albacete
+5338.0,Ismael Rangel León,/en/players/76e7bdd7/Ismael-Rangel-Leon,Ismael-Rangel-Leo,76e7bdd7,es ESP,MF,Albacete
+5339.0,Carletes,/en/players/e4f3dbd2/Carletes,Carlet,4f3dbd2,es ESP,FW,Albacete
+5340.0,Roberto Batres,/en/players/065b8dd2/Roberto-Batres,Roberto-Bat,065b8dd2,es ESP,"FW,MF",Albacete
+5341.0,Keylor Navas,/en/players/ecada4fc/Keylor-Navas,Keylor-Nav,cada4fc,cr CRC,GK,Albacete
+5342.0,Jesús Tato,/en/players/50e2af8c/Jesus-Tato,Jesus-Tato,50e2af8c,es ESP,FW,Albacete
+5343.0,José de la Cuesta,/en/players/664cac36/Jose-de-la-Cuesta,Jose-de-la-Cuest,664cac36,co COL,DF,Albacete
+5344.0,Daniel Fragoso,/en/players/91811cee/Daniel-Fragoso,Daniel-Fragoso,91811cee,es ESP,"DF,MF",Albacete
+5345.0,Alan Baró,/en/players/44bdd1f9/Alan-Baro,Alan-Baro,44bdd1f9,es ESP,"DF,MF",Albacete
+5346.0,Asen,/en/players/5725f8c6/Asen,A,5725f8c6,es ESP,FW,Albacete
+5347.0,Toni,/en/players/248cc93a/Toni,Toni,248cc93a,es ESP,DF,Albacete
+5348.0,Diego Camacho,/en/players/ba4b3cf3/Diego-Camacho,Diego-Camacho,ba4b3cf3,es ESP,MF,Albacete
+5349.0,Carlos de Lerma,/en/players/7cb2c8a4/Carlos-de-Lerma,Carlos-de-Lerm,7cb2c8a4,es ESP,MF,Albacete
+5350.0,Adrià Granell,/en/players/33257930/Adria-Granell,Adria-G,33257930,es ESP,MF,Albacete
+5351.0,Soumaïla Konaré,/en/players/2488d456/Soumaila-Konare,Soumaila-Ko,2488d456,ml MLI,MF,Albacete
+5352.0,Walid Cherfa,/en/players/7a170385/Walid-Cherfa,Walid-Cherf,7a170385,dz ALG,DF,Albacete
+5353.0,Iban Zubiaurre,/en/players/be3e3e7e/Iban-Zubiaurre,Iban-Zubiau,be3e3e7e,es ESP,DF,Albacete
+5354.0,Ramón Blázquez,/en/players/0efac3d0/Ramon-Blazquez,Ramon-Blazquez,0efac3d0,es ESP,DF,Albacete
+5355.0,Javier Balboa,/en/players/cf0dbde3/Javier-Balboa,Javier-Balbo,cf0dbde3,gq EQG,"FW,MF",Albacete
+5356.0,Cristian Fernández,/en/players/57c9f9c4/Cristian-Fernandez,Cristian-Fernandez,57c9f9c4,ar ARG,DF,Albacete
+5357.0,Jorge Pina Roldán,/en/players/c8ab4ea9/Jorge-Pina-Roldan,Jorge-Pina-Rold,c8ab4ea9,es ESP,MF,Albacete
+5358.0,Gonzalo Verdú,/en/players/1c2c55fc/Gonzalo-Verdu,Gonzalo-Verdu,1c2c55fc,es ESP,DF,Albacete
+5359.0,Pedro,/en/players/484acb34/Pedro,Pedro,484acb34,es ESP,MF,Albacete
+5360.0,Vladimir Gluščević,/en/players/88ec4c7a/Vladimir-Gluscevic,Vladimir-Gluscevic,88ec4c7a,me MNE,FW,Albacete
+5361.0,Franck Songo'o,/en/players/835c259d/Franck-Songoo,Franck-Songoo,835c259d,cm CMR,"FW,MF",Albacete
+5362.0,Alberto Abengózar,/en/players/806253f6/Alberto-Abengozar,Alberto-Abengoz,806253f6,es ESP,FW,Albacete
+5363.0,Perico,/en/players/1f38fcbc/Perico,Perico,1f38fcbc,es ESP,MF,Albacete
+5364.0,Guti,/en/players/c58701e8/Guti,Guti,c58701e8,es ESP,MF,Albacete
+5365.0,Nelson Cuevas,/en/players/c51238e5/Nelson-Cuevas,Nelson-Cuev,c51238e5,py PAR,FW,Albacete
+5366.0,Roberto Sánchez,/en/players/b1f5ecde/Roberto-Sanchez,Roberto-Sanchez,b1f5ecde,es ESP,MF,Albacete
+5367.0,Guille,/en/players/9881a438/Guille,Gui,9881a438,es ESP,MF,Albacete
+5368.0,Fran Amado,/en/players/dd11b971/Fran-Amado,Fran-Amado,dd11b971,es ESP,FW,Albacete
+5369.0,﻿Portu,/en/players/1bda5842/Portu,Portu,1bda5842,es ESP,"FW,MF",Albacete
+5370.0,Antoñito,/en/players/dbe519cf/Antonito,Antonito,dbe519cf,es ESP,"DF,MF",Albacete
+5371.0,Edu Ramos,/en/players/e6793b40/Edu-Ramos,Edu-Ramo,6793b40,es ESP,MF,Albacete
+5372.0,Keko,/en/players/1512328c/Keko,Keko,1512328c,es ESP,"FW,MF",Albacete
+5373.0,Gonzalo,/en/players/deeda5ab/Gonzalo,Gonzalo,deeda5ab,es ESP,DF,Albacete
+5374.0,Mario Ortiz Ruiz,/en/players/82661dc4/Mario-Ortiz-Ruiz,Mario-Ortiz-Ruiz,82661dc4,es ESP,MF,Albacete
+5375.0,Francisco Dorronsoro,/en/players/d4442eb9/Francisco-Dorronsoro,Francisco-Dorronsoro,d4442eb9,es ESP,GK,Albacete
+5376.0,Rubén Cruz Gil,/en/players/365d25bb/Ruben-Cruz-Gil,Ruben-Cruz-Gi,365d25bb,es ESP,MF,Albacete
+5377.0,Javier Paredes,/en/players/488a9ade/Javier-Paredes,Javier-Pared,488a9ade,es ESP,DF,Albacete
+5378.0,Jorge Diaz,/en/players/d3248912/Jorge-Diaz,Jorge-Diaz,d3248912,uy URU,"FW,MF",Albacete
+5379.0,Samu Delgado,/en/players/3b233353/Samu-Delgado,Samu-Delgado,3b233353,es ESP,MF,Albacete
+5380.0,Diego Benito Rey,/en/players/049c2adb/Diego-Benito-Rey,Diego-Benito-R,049c2adb,es ESP,MF,Albacete
+5381.0,Sergio Cidoncha,/en/players/05837e63/Sergio-Cidoncha,Sergio-Cidonch,05837e63,es ESP,MF,Albacete
+5382.0,Carlos Moreno,/en/players/beae2a31/Carlos-Moreno,Carlos-Moreno,beae2a31,es ESP,DF,Albacete
+5383.0,Alberto Domínguez,/en/players/c5ada735/Alberto-Dominguez,Alberto-Dominguez,c5ada735,es ESP,GK,Albacete
+5384.0,Thierry Moutinho,/en/players/8e928063/Thierry-Moutinho,Thierry-Moutinho,8e928063,pt POR,MF,Albacete
+5385.0,Diego Rivas Rego,/en/players/c3a6fb7d/Diego-Rivas-Rego,Diego-Rivas-Rego,c3a6fb7d,es ESP,GK,Albacete
+5386.0,José Rojas,/en/players/5854c775/Jose-Rojas,Jose-Roj,5854c775,es ESP,DF,Albacete
+5387.0,Fran García,/en/players/e5616927/Fran-Garcia,Fran-Garci,5616927,es ESP,DF,Albacete
+5388.0,Pol Bueso,/en/players/7fd2c75e/Pol-Bueso,Pol-Bueso,7fd2c75e,es ESP,DF,Albacete
+5389.0,Carlos Indiano,/en/players/521c811e/Carlos-Indiano,Carlos-Indiano,521c811e,es ESP,MF,Albacete
+5390.0,Juanra,/en/players/883c7798/Juanra,Ju,883c7798,es ESP,DF,Albacete
+5391.0,Manuel Miquel,/en/players/97e5daab/Manuel-Miquel,Manuel-Miqu,97e5daab,es ESP,MF,Albacete
+5392.0,José Manuel Ruiz Carrasco,/en/players/84aa61bf/Jose-Manuel-Ruiz-Carrasco,Jose-Manuel-Ruiz-Carrasco,84aa61bf,es ESP,MF,Albacete
+5393.0,Chumbi,/en/players/ac903501/Chumbi,Chumbi,c903501,es ESP,FW,Albacete
+5394.0,Iván Cifuentes,/en/players/5448d40e/Ivan-Cifuentes,Ivan-Cifuent,5448d40e,es ESP,FW,Albacete
+5395.0,Miguel Núñez,/en/players/e6c70f2f/Miguel-Nunez,Miguel-Nunez,6c70f2f,es ESP,MF,Albacete
+5396.0,Héctor Pizana,/en/players/75e2b34a/Hector-Pizana,Hector-Piz,75e2b34a,es ESP,GK,Albacete
+5397.0,Juan Carlos,/en/players/bc5adc98/Juan-Carlos,Juan-Carlo,bc5adc98,es ESP,GK,Albacete
+5398.0,Jorge Pulido,/en/players/978cd030/Jorge-Pulido,Jorge-Pulido,978cd030,es ESP,DF,Albacete
+5399.0,Jona,/en/players/840dd8a7/Jona,Jo,840dd8a7,hn HON,FW,Albacete
+5400.0,Santi Jara,/en/players/40a78f59/Santi-Jara,Santi-J,40a78f59,es ESP,"FW,MF",Albacete
+5401.0,David Córcoles,/en/players/929ea912/David-Corcoles,David-Corco,929ea912,es ESP,DF,Albacete
+5402.0,Adrián Gómez,/en/players/f6d94b97/Adrian-Gomez,Adrian-Gomez,f6d94b97,es ESP,MF,Albacete
+5403.0,Adrià Carmona,/en/players/9e95dc9e/Adria-Carmona,Adria-Carmo,9e95dc9e,es ESP,"FW,MF",Albacete
+5404.0,Víctor Curto,/en/players/83cd8962/Victor-Curto,Victor-Curto,83cd8962,es ESP,FW,Albacete
+5405.0,Fede Vico,/en/players/f681a8ef/Fede-Vico,Fede-Vico,f681a8ef,es ESP,MF,Albacete
+5406.0,Jason Davidson,/en/players/46bcd68d/Jason-Davidson,Jason-Davidso,46bcd68d,au AUS,"DF,MF",Albacete
+5407.0,Dani Mallo,/en/players/c965e3d0/Dani-Mallo,Dani-Mallo,c965e3d0,es ESP,GK,Albacete
+5408.0,Hugo Eyre,/en/players/4271ace2/Hugo-Eyre,Hugo-E,4271ace2,es ESP,GK,Albacete
+5409.0,Jason,/en/players/9038c2a1/Jason,Jaso,9038c2a1,es ESP,"FW,MF",Albacete
+5410.0,Neuton,/en/players/274e3e73/Neuton,Neuto,274e3e73,br BRA,DF,Albacete
+5411.0,﻿Álvaro Arroyo,/en/players/b2fa39c5/Alvaro-Arroyo,Alvaro-Arroyo,b2fa39c5,es ESP,DF,Albacete
+5412.0,Mickaël Gaffoor,/en/players/7ab63f1e/Mickael-Gaffoor,Mickael-Gaffoo,7ab63f1e,fr FRA,DF,Albacete
+5413.0,Dani Rodríguez,/en/players/70f8e0bd/Dani-Rodriguez,Dani-Rodriguez,70f8e0bd,es ESP,"FW,MF",Albacete
+5414.0,Fran Carnicer,/en/players/2888a995/Fran-Carnicer,Fran-Carnic,2888a995,es ESP,MF,Albacete
+5415.0,Eloy Gila,/en/players/d41067ce/Eloy-Gila,Eloy-Gi,d41067ce,es ESP,FW,Albacete
+5416.0,Diego Manzano,/en/players/59560ddf/Diego-Manzano,Diego-Manzano,59560ddf,es ESP,MF,Albacete
+5417.0,Marc Rovirola,/en/players/38d28d92/Marc-Rovirola,Marc-Roviro,38d28d92,es ESP,MF,Albacete
+5418.0,Héctor,/en/players/6294bc9d/Hector,Hecto,6294bc9d,es ESP,"DF,FW",Albacete
+5419.0,Aridane,/en/players/3e601a74/Aridane,Arid,3e601a74,es ESP,FW,Albacete
+5420.0,Rafa Gálvez,/en/players/445ca2c1/Rafa-Galvez,Rafa-Galvez,445ca2c1,es ESP,"DF,MF",Albacete
+5421.0,Lado Mokhevishvili,/en/players/8dd5e86f/Lado-Mokhevishvili,Lado-Mokhevishvili,8dd5e86f,ge GEO,MF,Albacete
+5422.0,Cristian Galas,/en/players/7021b9ca/Cristian-Galas,Cristian-G,7021b9ca,es ESP,DF,Albacete
+5423.0,Isaac Aketxe,/en/players/a2085323/Isaac-Aketxe,Isaac-Aketx,2085323,es ESP,"FW,MF",Albacete
+5424.0,Josan,/en/players/5b28b2f6/Josan,Jo,5b28b2f6,es ESP,"DF,MF",Albacete
+5425.0,Ángel Moreno,/en/players/508e94d2/Angel-Moreno,Angel-Moreno,508e94d2,es ESP,DF,Albacete
+5426.0,José Fran,/en/players/9da2a2b2/Jose-Fran,Jose-F,9da2a2b2,es ESP,MF,Albacete
+5427.0,Carlos Delgado,/en/players/294afef4/Carlos-Delgado,Carlos-Delgado,294afef4,es ESP,DF,Albacete
+5428.0,Jesús Cabañas,/en/players/a09fe803/Jesus-Cabanas,Jesus-Cab,09fe803,es ESP,MF,Albacete
+5429.0,Eneko Eizmendi,/en/players/6858ade9/Eneko-Eizmendi,Eneko-Eizmendi,6858ade9,es ESP,MF,Albacete
+5430.0,Tomeu Nadal,/en/players/37452c75/Tomeu-Nadal,Tomeu-Nad,37452c75,es ESP,GK,Albacete
+5431.0,Jon Erice,/en/players/39da8b1f/Jon-Erice,Jon-Eric,39da8b1f,es ESP,MF,Albacete
+5432.0,Chus Herrero,/en/players/ac34a4f0/Chus-Herrero,Chus-Herrero,c34a4f0,es ESP,DF,Albacete
+5433.0,Esteban Saveljich,/en/players/79f2a5f5/Esteban-Saveljich,Esteban-Saveljich,79f2a5f5,me MNE,DF,Albacete
+5434.0,Roman Zozulya,/en/players/cc862ec7/Roman-Zozulya,Roman-Zozu,cc862ec7,ua UKR,FW,Albacete
+5435.0,Néstor Susaeta,/en/players/ff0c8ca6/Nestor-Susaeta,Nestor-Susaet,ff0c8ca6,es ESP,MF,Albacete
+5436.0,Mariano Bíttolo,/en/players/61120693/Mariano-Bittolo,Mariano-Bittolo,61120693,ar ARG,"DF,MF",Albacete
+5437.0,Jérémie Bela,/en/players/5680bf3f/Jeremie-Bela,Jeremie-B,5680bf3f,ao ANG,FW,Albacete
+5438.0,David Morillas,/en/players/9605a60a/David-Morillas,David-Mori,9605a60a,es ESP,"DF,MF",Albacete
+5439.0,César de la Hoz,/en/players/60abea75/Cesar-de-la-Hoz,Cesar-de-la-Hoz,60abea75,es ESP,MF,Albacete
+5440.0,Nicolás Gorosito,/en/players/073db7e5/Nicolas-Gorosito,Nicolas-Gorosito,073db7e5,ar ARG,DF,Albacete
+5441.0,Cifu,/en/players/90f83973/Cifu,Cifu,90f83973,es ESP,"DF,MF",Albacete
+5442.0,Fabián Espíndola,/en/players/201b194a/Fabian-Espindola,Fabian-Espindo,201b194a,ar ARG,"FW,MF",Albacete
+5443.0,Nili,/en/players/6f1cce9a/Nili,Nili,6f1cce9a,es ESP,"DF,MF",Albacete
+5444.0,Danny Carvajal,/en/players/b97a55c5/Danny-Carvajal,Danny-Carvaj,b97a55c5,cr CRC,GK,Albacete
+5445.0,Pelayo,/en/players/bdda8ebd/Pelayo,Pelayo,bdda8ebd,es ESP,MF,Albacete
+5446.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Albacete
+5447.0,Quim Araujo,/en/players/1ba60662/Quim-Araujo,Quim-Araujo,1ba60662,es ESP,MF,Albacete
+5448.0,Álvaro Gómez,/en/players/5d31d742/Alvaro-Gomez,Alvaro-Gomez,5d31d742,es ESP,FW,Albacete
+5449.0,Javi Forján,/en/players/d95171ce/Javi-Forjan,Javi-Forj,d95171ce,es ESP,FW,Albacete
+5450.0,Alfon,/en/players/1c772b46/Alfon,Alfo,1c772b46,es ESP,FW,Albacete
+5451.0,Álvaro García,/en/players/11184fa7/Alvaro-Garcia,Alvaro-Garci,11184fa7,es ESP,DF,Albacete
+5452.0,Godino,/en/players/a44b7a60/Godino,Godino,44b7a60,es ESP,GK,Albacete
+5453.0,Rubén Miño,/en/players/60afe7a3/Ruben-Mino,Ruben-Mino,60afe7a3,es ESP,GK,Albacete
+5454.0,Álvaro Tejero,/en/players/868ce848/Alvaro-Tejero,Alvaro-Tejero,868ce848,es ESP,DF,Albacete
+5455.0,Aleix Febas,/en/players/38126309/Aleix-Febas,Aleix-Feb,38126309,es ESP,MF,Albacete
+5456.0,Eugeni Valderrama,/en/players/a75b4071/Eugeni-Valderrama,Eugeni-Valderram,75b4071,es ESP,MF,Albacete
+5457.0,Santiago Gentiletti,/en/players/4ac07e1b/Santiago-Gentiletti,Santiago-Gentiletti,4ac07e1b,ar ARG,DF,Albacete
+5458.0,Daniel Torres,/en/players/87882adc/Daniel-Torres,Daniel-To,87882adc,co COL,MF,Albacete
+5459.0,Mathías Olivera,/en/players/41c12f75/Mathias-Olivera,Mathias-Oliv,41c12f75,uy URU,DF,Albacete
+5460.0,José Antonio Caro,/en/players/02e4da70/Jose-Antonio-Caro,Jose-Antonio-Caro,02e4da70,es ESP,DF,Albacete
+5461.0,Rey Manaj,/en/players/7703afb6/Rey-Manaj,Rey-Manaj,7703afb6,al ALB,FW,Albacete
+5462.0,Álvaro Peña,/en/players/c5456acc/Alvaro-Pena,Alvaro-P,c5456acc,es ESP,MF,Albacete
+5463.0,Borja Herrera,/en/players/4f6d9bcd/Borja-Herrera,Borja-H,4f6d9bcd,es ESP,DF,Albacete
+5464.0,Mickael Malsa,/en/players/bbc19252/Mickael-Malsa,Mickael-M,bbc19252,mq MTQ,MF,Albacete
+5465.0,Barri,/en/players/9704b62b/Barri,Barri,9704b62b,es ESP,MF,Albacete
+5466.0,Churripi,/en/players/81a606fc/Churripi,Churripi,81a606fc,es ESP,GK,Albacete
+5467.0,Miguel Ángel,/en/players/24b66747/Miguel-Angel,Miguel-Ang,24b66747,es ESP,FW,Albacete
+5468.0,Sulley Muntari,/en/players/e185aa52/Sulley-Muntari,Sulley-Muntari,185aa52,gh GHA,MF,Albacete
+5469.0,Ballou Tabla,/en/players/018bd079/Ballou-Tabla,Ballou-Tab,018bd079,ca CAN,MF,Albacete
+5470.0,Juan Boselli,/en/players/6195d416/Juan-Boselli,Juan-Boselli,6195d416,uy URU,FW,Albacete
+5471.0,Jean Sepp Mvondo,/en/players/7d04809f/Jean-Sepp-Mvondo,Jean-Sepp-Mvondo,7d04809f,cm CMR,MF,Albacete
+5472.0,Paulo Vitor,/en/players/3ace4e2d/Paulo-Vitor,Paulo-Vito,3ace4e2d,br BRA,FW,Albacete
+5473.0,Dani García,/en/players/db8a5ee6/Dani-Garcia,Dani-Garci,db8a5ee6,es ESP,MF,Albacete
+5474.0,Dario Ramos,/en/players/d2f94ed9/Dario-Ramos,Dario-Ramo,d2f94ed9,es ESP,GK,Albacete
+5475.0,Alberto Benito,/en/players/b8779803/Alberto-Benito,Alberto-Benito,b8779803,es ESP,DF,Albacete
+5476.0,Pedro,/en/players/eb642c79/Pedro,Pedro,b642c79,es ESP,"MF,DF",Albacete
+5477.0,Dani Ojeda,/en/players/375a669e/Dani-Ojeda,Dani-Ojed,375a669e,es ESP,MF,Albacete
+5478.0,Ivan Kecojević,/en/players/83e49f90/Ivan-Kecojevic,Ivan-Kecojevic,83e49f90,me MNE,DF,Albacete
+5479.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Albacete
+5480.0,Karim Azamoum,/en/players/eaf71a5e/Karim-Azamoum,Karim-Azamoum,f71a5e,fr FRA,MF,Albacete
+5481.0,Manuel Fuster,/en/players/618f396a/Manuel-Fuster,Manuel-Fust,618f396a,es ESP,"FW,MF",Albacete
+5482.0,Maikel Mesa,/en/players/2afb7b21/Maikel-Mesa,Maikel-M,2afb7b21,es ESP,MF,Albacete
+5483.0,Diego Caballo Alonso,/en/players/2f4848f5/Diego-Caballo-Alonso,Diego-Caballo-Alonso,2f4848f5,es ESP,DF,Albacete
+5484.0,Roberto Olabe del Arco,/en/players/b91883b7/Roberto-Olabe-del-Arco,Roberto-Olabe-del-Arco,b91883b7,es ESP,MF,Albacete
+5485.0,Chema Núñez,/en/players/5b1ec540/Chema-Nunez,Chema-Nunez,5b1ec540,es ESP,"FW,MF",Albacete
+5486.0,Gabriel Brazão,/en/players/18c697e8/Gabriel-Brazao,Gabriel-Brazao,18c697e8,br BRA,GK,Albacete
+5487.0,Leonardo Capezzi,/en/players/07ea0ef2/Leonardo-Capezzi,Leonardo-Capezzi,07ea0ef2,it ITA,MF,Albacete
+5488.0,Sergio Sánchez,/en/players/83a83b0a/Sergio-Sanchez,Sergio-Sanchez,83a83b0a,es ESP,DF,Albacete
+5489.0,Robert Ergas,/en/players/b7cdda99/Robert-Ergas,Robert-Erg,b7cdda99,uy URU,DF,Albacete
+5490.0,David Querol,/en/players/260a29e9/David-Querol,David-Quero,260a29e9,es ESP,"FW,MF",Albacete
+5491.0,Abdul Awudu,/en/players/fe0670bd/Abdul-Awudu,Abdul-Awudu,fe0670bd,gh GHA,MF,Albacete
+5492.0,Francisco Castillo,/en/players/0c0f0c5b/Francisco-Castillo,Francisco-Castillo,0c0f0c5b,es ESP,MF,Albacete
+5493.0,Fernando Navarro,/en/players/a2ff8746/Fernando-Navarro,Fernando-Navarro,2ff8746,es ESP,DF,Albacete
+5494.0,Adrian Rodriguez,/en/players/bf17fb4a/Adrian-Rodriguez,Adrian-Rodriguez,bf17fb4a,es ESP,GK,Albacete
+5495.0,Víctor Segura,/en/players/e09b2563/Victor-Segura,Victor-Segu,09b2563,es ESP,MF,Albacete
+5496.0,Álvaro Jiménez,/en/players/5f5501ed/Alvaro-Jimenez,Alvaro-Jimenez,5f5501ed,es ESP,MF,Albacete
+5497.0,Carlos Isaac,/en/players/3e5a168c/Carlos-Isaac,Carlos-Isaac,3e5a168c,es ESP,"DF,MF",Albacete
+5498.0,Pape Maly Diamanka,/en/players/5d289e13/Pape-Maly-Diamanka,Pape-Maly-Diamank,5d289e13,sn SEN,MF,Albacete
+5499.0,Bernabé Barragán,/en/players/a3cd0078/Bernabe-Barragan,Bernabe-Barrag,3cd0078,es ESP,GK,Albacete
+5500.0,Javier Jiménez García,/en/players/f30d7505/Javier-Jimenez-Garcia,Javier-Jimenez-Garci,f30d7505,es ESP,DF,Albacete
+5501.0,Liberto Beltrán,/en/players/cab58ffe/Liberto-Beltran,Liberto-Belt,cab58ffe,es ESP,"MF,FW",Albacete
+5502.0,Tana,/en/players/ef345601/Tana,T,f345601,es ESP,"FW,MF",Albacete
+5503.0,Cédric Teguia,/en/players/83fd9572/Cedric-Teguia,Cedric-Tegui,83fd9572,es ESP,MF,Albacete
+5504.0,Emiliano Gómez,/en/players/6c1b4a8d/Emiliano-Gomez,Emiliano-Gomez,6c1b4a8d,uy URU,"MF,FW",Albacete
+5505.0,Nahuel Arroyo,/en/players/eaad5873/Nahuel-Arroyo,Nahuel-Arroyo,d5873,es ESP,MF,Albacete
+5506.0,Javier Navarro,/en/players/d6626d37/Javier-Navarro,Javier-Navarro,d6626d37,es ESP,MF,Albacete
+5507.0,David Del Pozo,/en/players/8e5c86a5/David-Del-Pozo,David-Del-Pozo,8e5c86a5,es ESP,MF,Albacete
+5508.0,Diego Cortés,/en/players/dc5bd223/Diego-Cortes,Diego-Cort,dc5bd223,es ESP,FW,Albacete
+5509.0,Ismael De Andrés,/en/players/7da9fa8f/Ismael-De-Andres,Ismael-De-And,7da9fa8f,es ESP,GK,Albacete
+5510.0,Samuel González,/en/players/588eccc8/Samuel-Gonzalez,Samuel-Gonzalez,588eccc8,es ESP,DF,Albacete
+5511.0,Samuel Vazquez,/en/players/81bca102/Samuel-Vazquez,Samuel-Vazquez,81bca102,es ESP,FW,Albacete
+5512.0,Javier Verdú,/en/players/66b836be/Javier-Verdu,Javier-Verdu,66b836be,es ESP,FW,Albacete
+5513.0,﻿Flavien Boyomo,/en/players/3a99bc13/Flavien-Boyomo,Flavien-Boyomo,3a99bc13,fr FRA,DF,Albacete
+5514.0,Dragan Rosić,/en/players/b614c059/Dragan-Rosic,Dragan-Rosic,b614c059,rs SRB,GK,Albacete
+5515.0,Andreu Arasa,/en/players/d066b0ea/Andreu-Arasa,Andreu-A,d066b0ea,es ESP,"MF,DF",Albacete
+5516.0,Eric Montes,/en/players/a9873ff3/Eric-Montes,Eric-Mont,9873ff3,es ESP,"MF,DF",Albacete
+5517.0,Nando,/en/players/6c041474/Nando,Nando,6c041474,es ESP,MF,Albacete
+5518.0,Julio Alonso,/en/players/8fcea8a1/Julio-Alonso,Julio-Alonso,8fcea8a1,es ESP,DF,Albacete
+5519.0,Jordi Sánchez,/en/players/658117b6/Jordi-Sanchez,Jordi-Sanchez,658117b6,es ESP,FW,Albacete
+5520.0,Marc Llinares,/en/players/4ff1d88c/Marc-Llinares,Marc-Lli,4ff1d88c,es ESP,DF,Albacete
+5521.0,Sergi García,/en/players/a039d52e/Sergi-Garcia,Sergi-Garci,039d52e,es ESP,MF,Albacete
+5522.0,Mohammed Djetei,/en/players/209c123e/Mohammed-Djetei,Mohammed-Djetei,209c123e,cm CMR,DF,Albacete
+5523.0,Pau Resta,/en/players/19170de2/Pau-Resta,Pau-Rest,19170de2,es ESP,MF,Albacete
+5524.0,Fran Álvarez,/en/players/f0101a48/Fran-Alvarez,Fran-Alvarez,f0101a48,es ESP,MF,Albacete
+5525.0,Diego Johannesson,/en/players/8ef4eceb/Diego-Johannesson,Diego-Johannesso,8ef4eceb,is ISL,"DF,MF",Albacete
+5526.0,Daniel González,/en/players/73a0e128/Daniel-Gonzalez,Daniel-Gonzalez,73a0e128,es ESP,FW,Albacete
+5527.0,Sergi Maestre,/en/players/1d7bd5c5/Sergi-Maestre,Sergi-Maest,1d7bd5c5,es ESP,MF,Albacete
+5528.0,Rubén Martínez,/en/players/f8af27ce/Ruben-Martinez,Ruben-Martinez,f8af27ce,es ESP,MF,Albacete
+5529.0,Jeisson Martínez,/en/players/f9d16d9a/Jeisson-Martinez,Jeisson-Martinez,f9d16d9a,pe PER,FW,Albacete
+5530.0,Nacho Córdoba,/en/players/be8796ec/Nacho-Cordoba,Nacho-Cordob,be8796ec,es ESP,GK,Albacete

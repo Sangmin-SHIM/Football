@@ -1,85 +1,223 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-5019.0,Dani Benítez,/en/players/51c34a32/Dani-Benitez,Dani-Benitez,51c34a32,es ESP,MF,Granada
-5020.0,Manuel Lucena,/en/players/86ea2bff/Manuel-Lucena,Manuel-Luc,86ea2bff,es ESP,DF,Granada
-5021.0,Jonathan Mensah,/en/players/8087e6cb/Jonathan-Mensah,Jonathan-Mensah,8087e6cb,gh GHA,DF,Granada
-5022.0,Odion Ighalo,/en/players/03622183/Odion-Ighalo,Odion-Ighalo,3622183,ng NGA,FW,Granada
-5023.0,Granada,/en/players/41919c0f/Granada,Granad,41919c0f,es ESP,MF,Granada
-5024.0,Tariq Spezie,/en/players/79c7a874/Tariq-Spezie,Tariq-Spezi,79c7a874,es ESP,FW,Granada
-5025.0,Goku,/en/players/3401fe76/Goku,Goku,3401fe76,es ESP,MF,Granada
-5026.0,Franco Jara,/en/players/413cce14/Franco-Jara,Franco-J,413cce14,ar ARG,FW,Granada
-5027.0,Júlio César,/en/players/f4213f59/Julio-Cesar,Julio-C,f4213f59,br BRA,GK,Granada
-5028.0,Fran Rico,/en/players/eda29127/Fran-Rico,Fran-Rico,da29127,es ESP,MF,Granada
-5029.0,Hassan Yebda,/en/players/4907d688/Hassan-Yebda,Hassan-Yebd,4907d688,dz ALG,MF,Granada
-5030.0,Pape Diakhaté,/en/players/84340e6d/Pape-Diakhate,Pape-Diakhat,84340e6d,sn SEN,DF,Granada
-5031.0,Yohan Mollo,/en/players/74950bcc/Yohan-Mollo,Yohan-Mollo,74950bcc,fr FRA,"FW,MF",Granada
-5032.0,Henrique Almeida,/en/players/8aa2f2e3/Henrique-Almeida,Henrique-Almeid,8aa2f2e3,br BRA,FW,Granada
-5033.0,Youssef El-Arabi,/en/players/c63f6e46/Youssef-El-Arabi,Youssef-El-Arabi,c63f6e46,ma MAR,FW,Granada
-5034.0,Yacine Brahimi,/en/players/56b5d64e/Yacine-Brahimi,Yacine-Brahimi,56b5d64e,dz ALG,"FW,MF",Granada
-5035.0,Antonio Floro Flores,/en/players/d6846501/Antonio-Floro-Flores,Antonio-Floro-Flo,d6846501,it ITA,FW,Granada
-5036.0,Tiago Ilori,/en/players/a64b4786/Tiago-Ilori,Tiago-Ilori,64b4786,pt POR,DF,Granada
-5037.0,Orestis Karnezis,/en/players/85b011bb/Orestis-Karnezis,Orestis-Karnezi,85b011bb,gr GRE,GK,Granada
-5038.0,Christian Bravo,/en/players/28024156/Christian-Bravo,Christian-Bravo,28024156,cl CHI,"FW,MF",Granada
-5039.0,Richard Boateng,/en/players/788acb37/Richard-Boateng,Richard-Boateng,788acb37,gh GHA,MF,Granada
-5040.0,Emanuel Insúa,/en/players/792c7b94/Emanuel-Insua,Emanuel-Insu,792c7b94,ar ARG,DF,Granada
-5041.0,Marcelo Djaló,/en/players/2ba40342/Marcelo-Djalo,Marcelo-Djalo,2ba40342,gw GNB,DF,Granada
-5042.0,Dany Nounkeu,/en/players/819a94a2/Dany-Nounkeu,Dany-Nounkeu,819a94a2,cm CMR,DF,Granada
-5043.0,Cristiano Biraghi,/en/players/9e1577aa/Cristiano-Biraghi,Cristiano-Biraghi,9e1577aa,it ITA,DF,Granada
-5044.0,Rene Krhin,/en/players/9a506145/Rene-Krhin,Rene-Krhi,9a506145,si SVN,MF,Granada
-5045.0,Abdoulaye Doucouré,/en/players/02b29014/Abdoulaye-Doucoure,Abdoulaye-Doucou,02b29014,ml MLI,MF,Granada
-5046.0,Dória,/en/players/d28b4a9d/Doria,Dori,d28b4a9d,br BRA,DF,Granada
-5047.0,Nicolás López,/en/players/8d2ee5e2/Nicolas-Lopez,Nicolas-Lopez,8d2ee5e2,uy URU,MF,Granada
-5048.0,Ivan Kelava,/en/players/fc188b82/Ivan-Kelava,Ivan-Kelav,fc188b82,hr CRO,GK,Granada
-5049.0,Mehdi Carcela,/en/players/dc415e39/Mehdi-Carcela,Mehdi-Carc,dc415e39,ma MAR,"MF,FW",Granada
-5050.0,Gastón Silva,/en/players/47d493c3/Gaston-Silva,Gaston-Silv,47d493c3,uy URU,DF,Granada
-5051.0,Sverrir Ingi Ingason,/en/players/3c93b9f0/Sverrir-Ingi-Ingason,Sverrir-Ingi-Ingaso,3c93b9f0,is ISL,DF,Granada
-5052.0,Artem Kravets,/en/players/0b5b8057/Artem-Kravets,Artem-Kravet,0b5b8057,ua UKR,FW,Granada
-5053.0,Jeremie Boga,/en/players/fe012aca/Jeremie-Boga,Jeremie-Bog,fe012aca,ci CIV,"MF,FW",Granada
-5054.0,Adrián Ramos,/en/players/c693cf7c/Adrian-Ramos,Adrian-Ramo,c693cf7c,co COL,FW,Granada
-5055.0,Gabriel Silva,/en/players/4914ed4a/Gabriel-Silva,Gabriel-Silv,4914ed4a,br BRA,DF,Granada
-5056.0,Ezequiel Ponce,/en/players/ccbbe661/Ezequiel-Ponce,Ezequiel-Ponc,ccbbe661,ar ARG,FW,Granada
-5057.0,Martin Hongla,/en/players/b85bf253/Martin-Hongla,Martin-Hong,b85bf253,cm CMR,"DF,MF",Granada
-5058.0,Victorien Angban,/en/players/d8992b84/Victorien-Angban,Victorien-Angb,d8992b84,ci CIV,MF,Granada
-5059.0,Aly Mallé,/en/players/c50db9b5/Aly-Malle,Aly-M,c50db9b5,ml MLI,"MF,FW",Granada
-5060.0,Franck Tabanou,/en/players/15e1afd5/Franck-Tabanou,Franck-Tabanou,15e1afd5,fr FRA,DF,Granada
-5061.0,Jon Toral,/en/players/8a0ca41d/Jon-Toral,Jon-To,8a0ca41d,es ESP,MF,Granada
-5062.0,Omer Atzili,/en/players/92fffd91/Omer-Atzili,Omer-Atzili,92fffd91,il ISR,MF,Granada
-5063.0,Panagiotis Kone,/en/players/27d34558/Panagiotis-Kone,Panagiotis-Ko,27d34558,gr GRE,MF,Granada
-5064.0,Jean Carlos Silva Rocha,/en/players/01d00f38/Jean-Carlos-Silva-Rocha,Jean-Carlos-Silva-Roch,01d00f38,br BRA,"FW,MF",Granada
-5065.0,Matthieu Saunier,/en/players/fa4e0908/Matthieu-Saunier,Matthieu-Sauni,fa4e0908,fr FRA,DF,Granada
-5066.0,Pierre Kunde,/en/players/9ceb7642/Pierre-Kunde,Pierre-Kund,9ceb7642,cm CMR,MF,Granada
-5067.0,Sergio Peña,/en/players/eda8506a/Sergio-Pena,Sergio-P,da8506a,pe PER,"MF,FW",Granada
-5068.0,José Antonio,/en/players/bff6c67a/Jose-Antonio,Jose-Antonio,bff6c67a,es ESP,MF,Granada
-5069.0,Urtzi Iriondo,/en/players/0b3970c5/Urtzi-Iriondo,Urtzi-Iriondo,0b3970c5,es ESP,DF,Granada
-5070.0,José Antonio Martínez Gil,/en/players/8e049cbd/Jose-Antonio-Martinez-Gil,Jose-Antonio-Martinez-Gi,8e049cbd,es ESP,DF,Granada
-5071.0,Nicolás Aguirre,/en/players/0670e98e/Nicolas-Aguirre,Nicolas-Agui,0670e98e,ar ARG,MF,Granada
-5072.0,Carlos Neva,/en/players/8d47bb39/Carlos-Neva,Carlos-Nev,8d47bb39,es ESP,DF,Granada
-5073.0,Alberto Lejárraga Rubio,/en/players/3eaa46c4/Alberto-Lejarraga-Rubio,Alberto-Lejarraga-Rubio,3eaa46c4,es ESP,GK,Granada
-5074.0,Pablo Vázquez,/en/players/54f87ac5/Pablo-Vazquez,Pablo-Vazquez,54f87ac5,es ESP,"DF,MF",Granada
-5075.0,Gil Bastião Dias,/en/players/e61bdd69/Gil-Bastiao-Dias,Gil-Bastiao-Di,61bdd69,pt POR,"MF,DF",Granada
-5076.0,İsmail Köybaşı,/en/players/58640e66/Ismail-Koybasi,Ismail-Koybasi,5.86E+70,tr TUR,"DF,MF",Granada
-5077.0,Mario Rodriguez,/en/players/a5cdedc7/Mario-Rodriguez,Mario-Rodriguez,5cdedc7,es ESP,MF,Granada
-5078.0,João Paulo Santos Costa,/en/players/00225aae/Joao-Paulo-Santos-Costa,Joao-Paulo-Santos-Cost,00225aae,pt POR,GK,Granada
-5079.0,Domingos Quina,/en/players/41fb0f4e/Domingos-Quina,Domingos-Qui,41fb0f4e,pt POR,MF,Granada
-5080.0,Pepe,/en/players/6583a8a9/Pepe,P,6583a8a9,es ESP,DF,Granada
-5081.0,Ángel,/en/players/b1e5bbec/Angel,Ang,b1e5bbec,es ESP,GK,Granada
-5082.0,Barcia,/en/players/0c717ae6/Barcia,Barci,0c717ae6,es ESP,DF,Granada
-5083.0,Isma Ruiz,/en/players/6e36226f/Isma-Ruiz,Isma-Ruiz,6e36226f,es ESP,MF,Granada
-5084.0,Kingsley Fobi,/en/players/954c26c9/Kingsley-Fobi,Kingsley-Fobi,954c26c9,gh GHA,DF,Granada
-5085.0,Dani Plomer,/en/players/0d298637/Dani-Plomer,Dani-Plom,0d298637,es ESP,MF,Granada
-5086.0,Juan Brunet,/en/players/c960cfdb/Juan-Brunet,Juan-Brunet,c960cfdb,ar ARG,MF,Granada
-5087.0,Álvaro Bravo,/en/players/b3f97139/Alvaro-Bravo,Alvaro-Bravo,b3f97139,es ESP,MF,Granada
-5088.0,Eris Abedini,/en/players/df46bb0f/Eris-Abedini,Eris-Abedini,df46bb0f,xk KVX,MF,Granada
-5089.0,Aranda,/en/players/92dc3d1b/Aranda,Arand,92dc3d1b,es ESP,MF,Granada
-5090.0,Echu,/en/players/ac7ff117/Echu,Echu,c7ff117,es ESP,MF,Granada
-5091.0,Arnau Fàbrega,/en/players/b4f1e2bb/Arnau-Fabrega,Arnau-Fabreg,b4f1e2bb,es ESP,GK,Granada
-5092.0,Carlos León,/en/players/2313d581/Carlos-Leon,Carlos-Leo,2313d581,es ESP,MF,Granada
-5093.0,Rafa,/en/players/7bf09d25/Rafa,Raf,7bf09d25,es ESP,GK,Granada
-5094.0,Raúl Torrente,/en/players/4d753a3f/Raul-Torrente,Raul-Torrent,4d753a3f,es ESP,MF,Granada
-5095.0,﻿Luís Maximiano,/en/players/3318286e/Luis-Maximiano,Luis-Maximiano,3318286e,pt POR,GK,Granada
-5096.0,Njegoš Petrović,/en/players/0cb29e91/Njegos-Petrovic,Njegos-Petrovic,0cb29e91,rs SRB,MF,Granada
-5097.0,Myrto Uzuni,/en/players/01da7812/Myrto-Uzuni,Myrto-Uzuni,01da7812,al ALB,"MF,FW",Granada
-5098.0,Luis Abram,/en/players/1f462f95/Luis-Abram,Luis-Abram,1f462f95,pe PER,DF,Granada
-5099.0,Matias Arezo,/en/players/484ebdb0/Matias-Arezo,Matias-Arezo,484ebdb0,uy URU,"FW,MF",Granada
-5100.0,Adrián Butzke,/en/players/505dce2b/Adrian-Butzke,Adrian-Butzk,505dce2b,es ESP,FW,Granada
-5101.0,Brau,/en/players/3e707ad4/Brau,Brau,3e707ad4,es ESP,DF,Granada
-5102.0,Cheikh Kané Sarr,/en/players/4dc1cd2c/Cheikh-Kane-Sarr,Cheikh-Kane-S,4dc1cd2c,sn SEN,GK,Granada
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+8179.0,﻿Roberto,/en/players/95cf42ac/Roberto,Roberto,95cf42ac,es ESP,GK,Granada
+8180.0,Abel Gómez Moreno,/en/players/b09801d8/Abel-Gomez-Moreno,Abel-Gomez-Moreno,b09801d8,es ESP,MF,Granada
+8181.0,Allan Nyom,/en/players/97572117/Allan-Nyom,Allan-Nyom,97572117,cm CMR,"DF,MF",Granada
+8182.0,Mikel Rico,/en/players/def69cd0/Mikel-Rico,Mikel-Rico,def69cd0,es ESP,MF,Granada
+8183.0,Íñigo López,/en/players/8c61ca86/Inigo-Lopez,Inigo-Lopez,8c61ca86,es ESP,DF,Granada
+8184.0,Dani Benítez,/en/players/51c34a32/Dani-Benitez,Dani-Benitez,51c34a32,es ESP,MF,Granada
+8185.0,Alexandre Geijo,/en/players/c0787e61/Alexandre-Geijo,Alexandre-Geijo,c0787e61,es ESP,FW,Granada
+8186.0,Fabián Orellana,/en/players/c90977db/Fabian-Orellana,Fabian-O,c90977db,cl CHI,"FW,MF",Granada
+8187.0,Guilherme Siqueira,/en/players/3770a135/Guilherme-Siqueira,Guilherme-Siquei,3770a135,br BRA,"DF,MF",Granada
+8188.0,Diego Mainz,/en/players/95db62b7/Diego-Mainz,Diego-Mainz,95db62b7,es ESP,DF,Granada
+8189.0,Manuel Lucena,/en/players/86ea2bff/Manuel-Lucena,Manuel-Luc,86ea2bff,es ESP,DF,Granada
+8190.0,Carlos Calvo,/en/players/a444d33f/Carlos-Calvo,Carlos-Calvo,444d33f,es ESP,MF,Granada
+8191.0,Óscar Pérez,/en/players/a4ae5f6a/Oscar-Perez,Oscar-Perez,4ae5f6a,es ESP,MF,Granada
+8192.0,Rubén Párraga,/en/players/c8a5798c/Ruben-Parraga,Ruben-Parrag,c8a5798c,es ESP,DF,Granada
+8193.0,Juan Collantes,/en/players/d8d9186b/Juan-Collantes,Juan-Collant,d8d9186b,es ESP,"FW,MF",Granada
+8194.0,Jonathan Mensah,/en/players/8087e6cb/Jonathan-Mensah,Jonathan-Mensah,8087e6cb,gh GHA,DF,Granada
+8195.0,Odion Ighalo,/en/players/03622183/Odion-Ighalo,Odion-Ighalo,03622183,ng NGA,FW,Granada
+8196.0,Juande,/en/players/4e8f9951/Juande,Juand,4e8f9951,es ESP,MF,Granada
+8197.0,José Juan Figueras,/en/players/c7f01276/Jose-Juan-Figueras,Jose-Juan-Figu,c7f01276,es ESP,GK,Granada
+8198.0,Granada,/en/players/41919c0f/Granada,Granad,41919c0f,es ESP,MF,Granada
+8199.0,Tariq Spezie,/en/players/79c7a874/Tariq-Spezie,Tariq-Spezi,79c7a874,es ESP,FW,Granada
+8200.0,Luis Muriel,/en/players/eb2fe5b6/Luis-Muriel,Luis-Muri,b2fe5b6,co COL,FW,Granada
+8201.0,Ritchie Kitoko,/en/players/d403d81a/Ritchie-Kitoko,Ritchie-Kitoko,d403d81a,be BEL,MF,Granada
+8202.0,Felipe Sanchón,/en/players/f62ff94e/Felipe-Sanchon,Felipe-Sancho,f62ff94e,es ESP,MF,Granada
+8203.0,Álex Cruz,/en/players/5e9d1e31/Alex-Cruz,Alex-Cruz,5e9d1e31,es ESP,MF,Granada
+8204.0,Goku,/en/players/3401fe76/Goku,Goku,3401fe76,es ESP,MF,Granada
+8205.0,Ikechukwu Uche,/en/players/ba7c6d25/Ikechukwu-Uche,Ikechukwu-Uch,ba7c6d25,ng NGA,FW,Granada
+8206.0,Carlos Martins,/en/players/23cfa96c/Carlos-Martins,Carlos-Marti,23cfa96c,pt POR,MF,Granada
+8207.0,Franco Jara,/en/players/413cce14/Franco-Jara,Franco-J,413cce14,ar ARG,FW,Granada
+8208.0,Borja Gómez Pérez,/en/players/95abfdfd/Borja-Gomez-Perez,Borja-Gomez-Perez,95abfdfd,es ESP,DF,Granada
+8209.0,Júlio César,/en/players/f4213f59/Julio-Cesar,Julio-C,f4213f59,br BRA,GK,Granada
+8210.0,Moisés Hurtado,/en/players/1ea7254b/Moises-Hurtado,Moises-Hurtado,1ea7254b,es ESP,MF,Granada
+8211.0,Fran Rico,/en/players/eda29127/Fran-Rico,Fran-Rico,da29127,es ESP,MF,Granada
+8212.0,Hassan Yebda,/en/players/4907d688/Hassan-Yebda,Hassan-Yebd,4907d688,dz ALG,MF,Granada
+8213.0,Pape Diakhaté,/en/players/84340e6d/Pape-Diakhate,Pape-Diakhat,84340e6d,sn SEN,DF,Granada
+8214.0,David Cortés,/en/players/99d15abd/David-Cortes,David-Cort,99d15abd,es ESP,DF,Granada
+8215.0,Jaime Romero,/en/players/e28205f4/Jaime-Romero,Jaime-Romero,28205f4,es ESP,"FW,MF",Granada
+8216.0,Yohan Mollo,/en/players/74950bcc/Yohan-Mollo,Yohan-Mollo,74950bcc,fr FRA,"FW,MF",Granada
+8217.0,Noé Pamarot,/en/players/6036afc6/Noe-Pamarot,Noe-Pamarot,6036afc6,fr FRA,DF,Granada
+8218.0,Henrique Almeida,/en/players/8aa2f2e3/Henrique-Almeida,Henrique-Almeid,8aa2f2e3,br BRA,FW,Granada
+8219.0,Gabriel Torje,/en/players/9ef94c26/Gabriel-Torje,Gabriel-Torj,9ef94c26,ro ROU,"FW,MF",Granada
+8220.0,Toño,/en/players/2ed4ea81/Tono,Tono,2ed4ea81,es ESP,GK,Granada
+8221.0,Youssef El-Arabi,/en/players/c63f6e46/Youssef-El-Arabi,Youssef-El-Arabi,c63f6e46,ma MAR,FW,Granada
+8222.0,Yacine Brahimi,/en/players/56b5d64e/Yacine-Brahimi,Yacine-Brahimi,56b5d64e,dz ALG,"FW,MF",Granada
+8223.0,Iriney,/en/players/09296fcc/Iriney,Iri,09296fcc,br BRA,MF,Granada
+8224.0,Nolito,/en/players/b2d0ec1b/Nolito,Nolito,b2d0ec1b,es ESP,"FW,MF",Granada
+8225.0,Recio,/en/players/54073b28/Recio,Recio,54073b28,es ESP,MF,Granada
+8226.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Granada
+8227.0,Juan Manuel Ortiz,/en/players/77513881/Juan-Manuel-Ortiz,Juan-Manuel-Ortiz,77513881,es ESP,"DF,MF",Granada
+8228.0,Antonio Floro Flores,/en/players/d6846501/Antonio-Floro-Flores,Antonio-Floro-Flo,d6846501,it ITA,FW,Granada
+8229.0,Diego Buonanotte,/en/players/4680cb30/Diego-Buonanotte,Diego-Buonanott,4680cb30,ar ARG,"FW,MF",Granada
+8230.0,Darwin Machís,/en/players/ed6ea4d9/Darwin-Machis,Darwin-Machi,d6ea4d9,ve VEN,"FW,MF",Granada
+8231.0,﻿Manuel Iturra,/en/players/000b3da6/Manuel-Iturra,Manuel-Itu,000b3da6,cl CHI,MF,Granada
+8232.0,Brayan Angulo,/en/players/af31b77b/Brayan-Angulo,Brayan-Angulo,f31b77b,co COL,"DF,MF",Granada
+8233.0,Jeison Murillo,/en/players/b233e8e4/Jeison-Murillo,Jeison-Murillo,b233e8e4,co COL,DF,Granada
+8234.0,Piti,/en/players/ab530738/Piti,Piti,b530738,es ESP,"FW,MF",Granada
+8235.0,Riki,/en/players/ab21507f/Riki,Riki,b21507f,es ESP,FW,Granada
+8236.0,Dimitri Foulquier,/en/players/45e17712/Dimitri-Foulquier,Dimitri-Foulqui,45e17712,fr FRA,"DF,MF",Granada
+8237.0,Tiago Ilori,/en/players/a64b4786/Tiago-Ilori,Tiago-Ilori,64b4786,pt POR,DF,Granada
+8238.0,Alexandre Coeff,/en/players/c4065f40/Alexandre-Coeff,Alexandre-Coeff,c4065f40,fr FRA,"DF,MF",Granada
+8239.0,Orestis Karnezis,/en/players/85b011bb/Orestis-Karnezis,Orestis-Karnezi,85b011bb,gr GRE,GK,Granada
+8240.0,Mohammed Fatau,/en/players/b4dd30a0/Mohammed-Fatau,Mohammed-Fatau,b4dd30a0,gh GHA,MF,Granada
+8241.0,Álvaro García,/en/players/90bbd822/Alvaro-Garcia,Alvaro-Garci,90bbd822,es ESP,MF,Granada
+8242.0,Christian Bravo,/en/players/28024156/Christian-Bravo,Christian-Bravo,28024156,cl CHI,"FW,MF",Granada
+8243.0,Richard Boateng,/en/players/788acb37/Richard-Boateng,Richard-Boateng,788acb37,gh GHA,MF,Granada
+8244.0,﻿Jean-Sylvain Babin,/en/players/ba998e22/Jean-Sylvain-Babin,Jean-Sylvain-Babi,ba998e22,mq MTQ,DF,Granada
+8245.0,Jhon Córdoba,/en/players/9f381d8b/Jhon-Cordoba,Jhon-Cordob,9f381d8b,co COL,FW,Granada
+8246.0,Javi Márquez,/en/players/40c7cdd2/Javi-Marquez,Javi-Marquez,40c7cdd2,es ESP,MF,Granada
+8247.0,Juankar,/en/players/e9a12436/Juankar,Juank,9a12436,es ESP,"DF,FW",Granada
+8248.0,Oier Olazábal,/en/players/b5bdf144/Oier-Olazabal,Oier-Olazab,b5bdf144,es ESP,GK,Granada
+8249.0,Rubén Pérez,/en/players/3c7bc9bd/Ruben-Perez,Ruben-Perez,3c7bc9bd,es ESP,MF,Granada
+8250.0,Rubén Rochina,/en/players/ecd8c01e/Ruben-Rochina,Ruben-Rochi,cd8c01e,es ESP,"FW,MF",Granada
+8251.0,Robert Ibáñez,/en/players/c7429db3/Robert-Ibanez,Robert-Ibanez,c7429db3,es ESP,"FW,MF",Granada
+8252.0,Emanuel Insúa,/en/players/792c7b94/Emanuel-Insua,Emanuel-Insu,792c7b94,ar ARG,DF,Granada
+8253.0,Lass Bangoura,/en/players/740f39d4/Lass-Bangoura,Lass-Bangou,740f39d4,gn GUI,"FW,MF",Granada
+8254.0,Abdoul Sissoko,/en/players/f7288611/Abdoul-Sissoko,Abdoul-Sissoko,f7288611,fr FRA,MF,Granada
+8255.0,Isaac Success,/en/players/f573a8bf/Isaac-Success,Isaac-Succ,f573a8bf,ng NGA,"FW,MF",Granada
+8256.0,Cala,/en/players/fe05804b/Cala,C,fe05804b,es ESP,DF,Granada
+8257.0,Daniel Candeias,/en/players/0366fc78/Daniel-Candeias,Daniel-Candei,0366fc78,pt POR,"FW,MF",Granada
+8258.0,Héctor Yuste,/en/players/f50a668a/Hector-Yuste,Hector-Yust,f50a668a,es ESP,"DF,MF",Granada
+8259.0,Alfredo Ortuño,/en/players/b5077003/Alfredo-Ortuno,Alfredo-Ortuno,b5077003,es ESP,"DF,FW",Granada
+8260.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Granada
+8261.0,Luís Martins,/en/players/56b7c09b/Luis-Martins,Luis-Marti,56b7c09b,pt POR,DF,Granada
+8262.0,Stole Dimitrievski,/en/players/fc70e345/Stole-Dimitrievski,Stole-Dimitrievski,fc70e345,mk MKD,GK,Granada
+8263.0,Sulayman Marreh,/en/players/44b49036/Sulayman-Marreh,Sulayman-Marreh,44b49036,gm GAM,"DF,MF",Granada
+8264.0,Daniel Larsson,/en/players/43833b31/Daniel-Larsson,Daniel-Larsso,43833b31,se SWE,"FW,MF",Granada
+8265.0,Uche Henry Agbo,/en/players/98554bfd/Uche-Henry-Agbo,Uche-Henry-Agbo,98554bfd,ng NGA,MF,Granada
+8266.0,Marcelo Djaló,/en/players/2ba40342/Marcelo-Djalo,Marcelo-Djalo,2ba40342,gw GNB,DF,Granada
+8267.0,Francisco Morante Martínez,/en/players/a528aa67/Francisco-Morante-Martinez,Francisco-Morante-Martinez,528aa67,es ESP,DF,Granada
+8268.0,Dany Nounkeu,/en/players/819a94a2/Dany-Nounkeu,Dany-Nounkeu,819a94a2,cm CMR,DF,Granada
+8269.0,﻿Andrés Fernández,/en/players/307fcd26/Andres-Fernandez,Andres-Fernandez,307fcd26,es ESP,GK,Granada
+8270.0,Cristiano Biraghi,/en/players/9e1577aa/Cristiano-Biraghi,Cristiano-Biraghi,9e1577aa,it ITA,DF,Granada
+8271.0,David Lombán,/en/players/b43b81f1/David-Lomban,David-Lomb,b43b81f1,es ESP,DF,Granada
+8272.0,Miguel Lopes,/en/players/258b0d9b/Miguel-Lopes,Miguel-Lo,258b0d9b,pt POR,DF,Granada
+8273.0,Adalberto Peñaranda,/en/players/4b3f2936/Adalberto-Penaranda,Adalberto-Penarand,4b3f2936,ve VEN,"FW,MF",Granada
+8274.0,Rene Krhin,/en/players/9a506145/Rene-Krhin,Rene-Krhi,9a506145,si SVN,MF,Granada
+8275.0,Ricardo Costa,/en/players/cd7325e1/Ricardo-Costa,Ricardo-Cost,cd7325e1,pt POR,DF,Granada
+8276.0,Abdoulaye Doucouré,/en/players/02b29014/Abdoulaye-Doucoure,Abdoulaye-Doucou,02b29014,ml MLI,MF,Granada
+8277.0,Isaac Cuenca,/en/players/24e9421b/Isaac-Cuenca,Isaac-Cuenc,24e9421b,es ESP,"MF,FW",Granada
+8278.0,Édgar Méndez,/en/players/aed746df/Edgar-Mendez,Edgar-Mendez,d746df,es ESP,"MF,FW",Granada
+8279.0,Dória,/en/players/d28b4a9d/Doria,Dori,d28b4a9d,br BRA,DF,Granada
+8280.0,David Barral,/en/players/d99f9282/David-Barral,David-B,d99f9282,es ESP,FW,Granada
+8281.0,Nicolás López,/en/players/8d2ee5e2/Nicolas-Lopez,Nicolas-Lopez,8d2ee5e2,uy URU,MF,Granada
+8282.0,Salva Ruiz,/en/players/e36f9794/Salva-Ruiz,Salva-Ruiz,36f9794,es ESP,DF,Granada
+8283.0,Thievy Bifouma,/en/players/5978dc3c/Thievy-Bifouma,Thievy-Bifoum,5978dc3c,cg CGO,"FW,MF",Granada
+8284.0,Ivan Kelava,/en/players/fc188b82/Ivan-Kelava,Ivan-Kelav,fc188b82,hr CRO,GK,Granada
+8285.0,Neuton,/en/players/274e3e73/Neuton,Neuto,274e3e73,br BRA,DF,Granada
+8286.0,﻿Guillermo Ochoa,/en/players/1e9bde92/Guillermo-Ochoa,Guillermo-Ocho,1e9bde92,mx MEX,GK,Granada
+8287.0,Andreas Pereira,/en/players/6639e500/Andreas-Pereira,Andreas-Perei,6639e500,br BRA,MF,Granada
+8288.0,Mehdi Carcela,/en/players/dc415e39/Mehdi-Carcela,Mehdi-Carc,dc415e39,ma MAR,"MF,FW",Granada
+8289.0,Gastón Silva,/en/players/47d493c3/Gaston-Silva,Gaston-Silv,47d493c3,uy URU,DF,Granada
+8290.0,Rúben Vezo,/en/players/c67cd65c/Ruben-Vezo,Ruben-Vezo,c67cd65c,pt POR,DF,Granada
+8291.0,Sverrir Ingi Ingason,/en/players/3c93b9f0/Sverrir-Ingi-Ingason,Sverrir-Ingi-Ingaso,3c93b9f0,is ISL,DF,Granada
+8292.0,Artem Kravets,/en/players/0b5b8057/Artem-Kravets,Artem-Kravet,0b5b8057,ua UKR,FW,Granada
+8293.0,Jeremie Boga,/en/players/fe012aca/Jeremie-Boga,Jeremie-Bog,fe012aca,ci CIV,"MF,FW",Granada
+8294.0,Sergi Samper,/en/players/6a7586f4/Sergi-Samper,Sergi-Sam,6a7586f4,es ESP,MF,Granada
+8295.0,Adrián Ramos,/en/players/c693cf7c/Adrian-Ramos,Adrian-Ramo,c693cf7c,co COL,FW,Granada
+8296.0,Tito,/en/players/7cefa219/Tito,Tito,7cefa219,es ESP,DF,Granada
+8297.0,Gabriel Silva,/en/players/4914ed4a/Gabriel-Silva,Gabriel-Silv,4914ed4a,br BRA,DF,Granada
+8298.0,Héctor Hernández,/en/players/76ee80ee/Hector-Hernandez,Hector-Hernandez,76ee80ee,es ESP,"DF,MF",Granada
+8299.0,Ezequiel Ponce,/en/players/ccbbe661/Ezequiel-Ponce,Ezequiel-Ponc,ccbbe661,ar ARG,FW,Granada
+8300.0,Wakaso,/en/players/999908af/Wakaso,Wakaso,999908af,gh GHA,"MF,FW",Granada
+8301.0,Martin Hongla,/en/players/b85bf253/Martin-Hongla,Martin-Hong,b85bf253,cm CMR,"DF,MF",Granada
+8302.0,Victorien Angban,/en/players/d8992b84/Victorien-Angban,Victorien-Angb,d8992b84,ci CIV,MF,Granada
+8303.0,Aly Mallé,/en/players/c50db9b5/Aly-Malle,Aly-M,c50db9b5,ml MLI,"MF,FW",Granada
+8304.0,Franck Tabanou,/en/players/15e1afd5/Franck-Tabanou,Franck-Tabanou,15e1afd5,fr FRA,DF,Granada
+8305.0,Alberto Bueno,/en/players/9b878773/Alberto-Bueno,Alberto-Bueno,9b878773,es ESP,MF,Granada
+8306.0,Jon Toral,/en/players/8a0ca41d/Jon-Toral,Jon-To,8a0ca41d,es ESP,MF,Granada
+8307.0,Omer Atzili,/en/players/92fffd91/Omer-Atzili,Omer-Atzili,92fffd91,il ISR,MF,Granada
+8308.0,Pervis Estupiñán,/en/players/d38fdf53/Pervis-Estupinan,Pervis-Estupi,d38fdf53,ec ECU,DF,Granada
+8309.0,Panagiotis Kone,/en/players/27d34558/Panagiotis-Kone,Panagiotis-Ko,27d34558,gr GRE,MF,Granada
+8310.0,Jean Carlos Silva Rocha,/en/players/01d00f38/Jean-Carlos-Silva-Rocha,Jean-Carlos-Silva-Roch,01d00f38,br BRA,"FW,MF",Granada
+8311.0,Sergi Guardiola,/en/players/32974271/Sergi-Guardiola,Sergi-Guardio,32974271,es ESP,"FW,MF",Granada
+8312.0,Rui Silva,/en/players/ea83bfa6/Rui-Silva,Rui-Silv,83bfa6,pt POR,GK,Granada
+8313.0,﻿Álex Martínez,/en/players/e1c805cf/Alex-Martinez,Alex-Martinez,1c805cf,es ESP,DF,Granada
+8314.0,Javi Varas,/en/players/6db3da37/Javi-Varas,Javi-V,6db3da37,es ESP,GK,Granada
+8315.0,Víctor Díaz,/en/players/3624ce4c/Victor-Diaz,Victor-Diaz,3624ce4c,es ESP,DF,Granada
+8316.0,Pedro,/en/players/eb642c79/Pedro,Pedro,b642c79,es ESP,MF,Granada
+8317.0,Chico,/en/players/95825cf2/Chico,Chico,95825cf2,es ESP,DF,Granada
+8318.0,Matthieu Saunier,/en/players/fa4e0908/Matthieu-Saunier,Matthieu-Sauni,fa4e0908,fr FRA,DF,Granada
+8319.0,Pierre Kunde,/en/players/9ceb7642/Pierre-Kunde,Pierre-Kund,9ceb7642,cm CMR,MF,Granada
+8320.0,Ángel Montoro,/en/players/719384c1/Angel-Montoro,Angel-Montoro,719384c1,es ESP,MF,Granada
+8321.0,Joselu,/en/players/a5e9c273/Joselu,Joselu,5e9c273,es ESP,FW,Granada
+8322.0,Alberto Martín,/en/players/805293e0/Alberto-Martin,Alberto-Marti,805293e0,es ESP,MF,Granada
+8323.0,Raúl Baena,/en/players/df9c9276/Raul-Baena,Raul-B,df9c9276,es ESP,MF,Granada
+8324.0,Sergio Peña,/en/players/eda8506a/Sergio-Pena,Sergio-P,da8506a,pe PER,"MF,FW",Granada
+8325.0,Germán Sánchez,/en/players/ea9b2ef9/German-Sanchez,German-Sanchez,9b2ef9,es ESP,DF,Granada
+8326.0,Hernán Menosse,/en/players/d708de9a/Hernan-Menosse,Hernan-Meno,d708de9a,uy URU,DF,Granada
+8327.0,Salvador Agra,/en/players/a130741a/Salvador-Agra,Salvador-Ag,130741a,pt POR,MF,Granada
+8328.0,Antonio Puertas,/en/players/c77a8043/Antonio-Puertas,Antonio-Puert,c77a8043,es ESP,MF,Granada
+8329.0,Quini,/en/players/7a538238/Quini,Quini,7a538238,es ESP,"DF,MF",Granada
+8330.0,Rey Manaj,/en/players/7703afb6/Rey-Manaj,Rey-Manaj,7703afb6,al ALB,FW,Granada
+8331.0,Charlie I'Anson,/en/players/907594ed/Charlie-IAnson,Charlie-IAnso,907594ed,eng ENG,DF,Granada
+8332.0,Andrew Hjulsager,/en/players/2ef16f06/Andrew-Hjulsager,Andrew-Hjulsag,2ef16f06,dk DEN,MF,Granada
+8333.0,Licá,/en/players/41d84fed/Lica,Lic,41d84fed,pt POR,"FW,MF",Granada
+8334.0,José Antonio,/en/players/bff6c67a/Jose-Antonio,Jose-Antonio,bff6c67a,es ESP,MF,Granada
+8335.0,Aarón Escandell,/en/players/67669ce7/Aaron-Escandell,Aaron-Escand,67669ce7,es ESP,GK,Granada
+8336.0,Urtzi Iriondo,/en/players/0b3970c5/Urtzi-Iriondo,Urtzi-Iriondo,0b3970c5,es ESP,DF,Granada
+8337.0,Juancho,/en/players/ec81ad5b/Juancho,Juancho,c81ad5b,co COL,FW,Granada
+8338.0,Álvaro Vadillo,/en/players/61b62b33/Alvaro-Vadillo,Alvaro-Vadillo,61b62b33,es ESP,MF,Granada
+8339.0,José Antonio Martínez Gil,/en/players/8e049cbd/Jose-Antonio-Martinez-Gil,Jose-Antonio-Martinez-Gi,8e049cbd,es ESP,DF,Granada
+8340.0,Fede San Emeterio,/en/players/efecd633/Fede-San-Emeterio,Fede-San-Emeterio,fecd633,es ESP,MF,Granada
+8341.0,Fede Vico,/en/players/f681a8ef/Fede-Vico,Fede-Vico,f681a8ef,es ESP,MF,Granada
+8342.0,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9,es ESP,FW,Granada
+8343.0,Alejandro Pozo Pozo,/en/players/3c16d927/Alejandro-Pozo-Pozo,Alejandro-Pozo-Pozo,3c16d927,es ESP,MF,Granada
+8344.0,Dani Ojeda,/en/players/375a669e/Dani-Ojeda,Dani-Ojed,375a669e,es ESP,"MF,FW",Granada
+8345.0,Adri Castellano,/en/players/3dc7c57d/Adri-Castellano,Adri-Castellano,3dc7c57d,es ESP,"DF,MF",Granada
+8346.0,Nicolás Aguirre,/en/players/0670e98e/Nicolas-Aguirre,Nicolas-Agui,0670e98e,ar ARG,MF,Granada
+8347.0,Bernardo Cruz,/en/players/47872f21/Bernardo-Cruz,Bernardo-Cruz,47872f21,es ESP,DF,Granada
+8348.0,Carlos Neva,/en/players/8d47bb39/Carlos-Neva,Carlos-Nev,8d47bb39,es ESP,DF,Granada
+8349.0,Alberto Lejárraga Rubio,/en/players/3eaa46c4/Alberto-Lejarraga-Rubio,Alberto-Lejarraga-Rubio,3eaa46c4,es ESP,GK,Granada
+8350.0,Pablo Vázquez,/en/players/54f87ac5/Pablo-Vazquez,Pablo-Vazquez,54f87ac5,es ESP,"DF,MF",Granada
+8351.0,Domingos Duarte,/en/players/93090f69/Domingos-Duarte,Domingos-Duart,93090f69,pt POR,DF,Granada
+8352.0,Roberto Soldado,/en/players/9d66fbe3/Roberto-Soldado,Roberto-Soldado,9d66fbe3,es ESP,FW,Granada
+8353.0,Yangel Herrera,/en/players/e778654a/Yangel-Herrera,Yangel-H,778654a,ve VEN,MF,Granada
+8354.0,Carlos Fernández,/en/players/e08647d6/Carlos-Fernandez,Carlos-Fernandez,08647d6,es ESP,"FW,MF",Granada
+8355.0,Yan Brice Eteki,/en/players/3d688b46/Yan-Brice-Eteki,Yan-Brice-Eteki,3d688b46,cm CMR,MF,Granada
+8356.0,Maxime Gonalons,/en/players/b8c1de25/Maxime-Gonalons,Maxime-Gonalo,b8c1de25,fr FRA,MF,Granada
+8357.0,Ramon Azeez,/en/players/0cc474e7/Ramon-Azeez,Ramon-Azeez,0cc474e7,ng NGA,MF,Granada
+8358.0,Jesús Vallejo,/en/players/c2111b45/Jesus-Vallejo,Jesus-Vallejo,c2111b45,es ESP,DF,Granada
+8359.0,Gil Bastião Dias,/en/players/e61bdd69/Gil-Bastiao-Dias,Gil-Bastiao-Di,61bdd69,pt POR,"MF,DF",Granada
+8360.0,İsmail Köybaşı,/en/players/58640e66/Ismail-Koybasi,Ismail-Koybasi,58640e66,tr TUR,"DF,MF",Granada
+8361.0,Antonio Cortés,/en/players/31a1288d/Antonio-Cortes,Antonio-Cort,31a1288d,es ESP,"FW,MF",Granada
+8362.0,Mario Rodriguez,/en/players/a5cdedc7/Mario-Rodriguez,Mario-Rodriguez,5cdedc7,es ESP,MF,Granada
+8363.0,João Paulo Santos Costa,/en/players/00225aae/Joao-Paulo-Santos-Costa,Joao-Paulo-Santos-Cost,00225aae,pt POR,GK,Granada
+8364.0,Etxebarría,/en/players/5c56ca54/Etxebarria,Etxebarri,5c56ca54,es ESP,GK,Granada
+8365.0,Luis Javier Suárez,/en/players/eeba07f8/Luis-Javier-Suarez,Luis-Javier-Suarez,ba07f8,co COL,"FW,MF",Granada
+8366.0,Kenedy,/en/players/5eebbfdf/Kenedy,Kened,5eebbfdf,br BRA,MF,Granada
+8367.0,Jorge Molina,/en/players/43f71e77/Jorge-Molina,Jorge-Moli,43f71e77,es ESP,FW,Granada
+8368.0,Luis Milla,/en/players/19c36442/Luis-Milla,Luis-Mi,19c36442,es ESP,MF,Granada
+8369.0,Nehuén Pérez,/en/players/f7c491f1/Nehuen-Perez,Nehuen-Perez,f7c491f1,ar ARG,DF,Granada
+8370.0,Domingos Quina,/en/players/41fb0f4e/Domingos-Quina,Domingos-Qui,41fb0f4e,pt POR,MF,Granada
+8371.0,Alberto Soro,/en/players/452c3055/Alberto-Soro,Alberto-Soro,452c3055,es ESP,"MF,FW",Granada
+8372.0,Adrián Marín,/en/players/b7f2edff/Adrian-Marin,Adrian-Mari,b7f2edff,es ESP,"MF,DF",Granada
+8373.0,Pepe,/en/players/6583a8a9/Pepe,P,6583a8a9,es ESP,DF,Granada
+8374.0,Ángel,/en/players/b1e5bbec/Angel,Ang,b1e5bbec,es ESP,GK,Granada
+8375.0,Barcia,/en/players/0c717ae6/Barcia,Barci,0c717ae6,es ESP,DF,Granada
+8376.0,Isma Ruiz,/en/players/6e36226f/Isma-Ruiz,Isma-Ruiz,6e36226f,es ESP,MF,Granada
+8377.0,Kingsley Fobi,/en/players/954c26c9/Kingsley-Fobi,Kingsley-Fobi,954c26c9,gh GHA,DF,Granada
+8378.0,Dani Plomer,/en/players/0d298637/Dani-Plomer,Dani-Plom,0d298637,es ESP,MF,Granada
+8379.0,Juan Brunet,/en/players/c960cfdb/Juan-Brunet,Juan-Brunet,c960cfdb,ar ARG,MF,Granada
+8380.0,Álvaro Bravo,/en/players/b3f97139/Alvaro-Bravo,Alvaro-Bravo,b3f97139,es ESP,MF,Granada
+8381.0,Eris Abedini,/en/players/df46bb0f/Eris-Abedini,Eris-Abedini,df46bb0f,xk KVX,MF,Granada
+8382.0,Aranda,/en/players/92dc3d1b/Aranda,Arand,92dc3d1b,es ESP,MF,Granada
+8383.0,Echu,/en/players/ac7ff117/Echu,Echu,c7ff117,es ESP,MF,Granada
+8384.0,Arnau Fàbrega,/en/players/b4f1e2bb/Arnau-Fabrega,Arnau-Fabreg,b4f1e2bb,es ESP,GK,Granada
+8385.0,Carlos León,/en/players/2313d581/Carlos-Leon,Carlos-Leo,2313d581,es ESP,MF,Granada
+8386.0,Rafa,/en/players/7bf09d25/Rafa,Raf,7bf09d25,es ESP,GK,Granada
+8387.0,Raúl Torrente,/en/players/4d753a3f/Raul-Torrente,Raul-Torrent,4d753a3f,es ESP,MF,Granada
+8388.0,﻿Luís Maximiano,/en/players/3318286e/Luis-Maximiano,Luis-Maximiano,3318286e,pt POR,GK,Granada
+8389.0,Álex Collado,/en/players/85dace26/Alex-Collado,Alex-Collado,85dace26,es ESP,"MF,FW",Granada
+8390.0,Njegoš Petrović,/en/players/0cb29e91/Njegos-Petrovic,Njegos-Petrovic,0cb29e91,rs SRB,MF,Granada
+8391.0,Myrto Uzuni,/en/players/01da7812/Myrto-Uzuni,Myrto-Uzuni,01da7812,al ALB,"MF,FW",Granada
+8392.0,Monchu,/en/players/8ac501f5/Monchu,Monchu,8ac501f5,es ESP,MF,Granada
+8393.0,Luis Abram,/en/players/1f462f95/Luis-Abram,Luis-Abram,1f462f95,pe PER,DF,Granada
+8394.0,Carlos Bacca,/en/players/09a9e921/Carlos-Bacca,Carlos-Bacc,09a9e921,co COL,FW,Granada
+8395.0,Santiago Arias,/en/players/fdd60087/Santiago-Arias,Santiago-Ari,fdd60087,co COL,DF,Granada
+8396.0,Matias Arezo,/en/players/484ebdb0/Matias-Arezo,Matias-Arezo,484ebdb0,uy URU,"FW,MF",Granada
+8397.0,Dani Raba,/en/players/ea6a7ab4/Dani-Raba,Dani-Rab,6a7ab4,es ESP,MF,Granada
+8398.0,Adrián Butzke,/en/players/505dce2b/Adrian-Butzke,Adrian-Butzk,505dce2b,es ESP,FW,Granada
+8399.0,Brau,/en/players/3e707ad4/Brau,Brau,3e707ad4,es ESP,DF,Granada
+8400.0,Cheikh Kané Sarr,/en/players/4dc1cd2c/Cheikh-Kane-Sarr,Cheikh-Kane-S,4dc1cd2c,sn SEN,GK,Granada

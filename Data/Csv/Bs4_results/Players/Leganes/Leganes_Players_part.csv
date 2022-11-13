@@ -1,76 +1,196 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-5502.0,﻿Raúl Arribas,/en/players/8de0ba1c/Raul-Arribas,Raul-Arrib,8de0ba1c,es ESP,GK,Leganes
-5503.0,Óscar,/en/players/b4786695/Oscar,Osc,b4786695,es ESP,DF,Leganes
-5504.0,Joaquín Macanás,/en/players/fe9e077f/Joaquin-Macanas,Joaquin-Mac,fe9e077f,es ESP,DF,Leganes
-5505.0,Gustavo de la Parra,/en/players/ba328cca/Gustavo-de-la-Parra,Gustavo-de-la-P,ba328cca,es ESP,DF,Leganes
-5506.0,Fede Bahón,/en/players/b0ccfe54/Fede-Bahon,Fede-Baho,b0ccfe54,es ESP,DF,Leganes
-5507.0,Unai Emery,/en/players/e530e0c0/Unai-Emery,Unai-Em,530e0c0,es ESP,MF,Leganes
-5508.0,David Clotet,/en/players/cd3a8fa3/David-Clotet,David-Clotet,cd3a8fa3,es ESP,DF,Leganes
-5509.0,Sergio Gámiz,/en/players/d15abcc9/Sergio-Gamiz,Sergio-Gamiz,d15abcc9,es ESP,MF,Leganes
-5510.0,Juan Carlos Carcedo,/en/players/3f698ebf/Juan-Carlos-Carcedo,Juan-Carlos-Carcedo,3f698ebf,es ESP,"FW,MF",Leganes
-5511.0,Sívori,/en/players/fed61bbe/Sivori,Sivori,fed61bbe,es ESP,"FW,MF",Leganes
-5512.0,Miguel Falcón,/en/players/a955cfa6/Miguel-Falcon,Miguel-Falco,955cfa6,es ESP,MF,Leganes
-5513.0,Gorka Pintado,/en/players/e98055de/Gorka-Pintado,Gorka-Pintado,98055de,es ESP,FW,Leganes
-5514.0,﻿Lucas Alessandría,/en/players/1a9b820c/Lucas-Alessandria,Lucas-Alessandri,1a9b820c,ar ARG,DF,Leganes
-5515.0,Claudio Enría,/en/players/b9a6e4a7/Claudio-Enria,Claudio-Enri,b9a6e4a7,ar ARG,FW,Leganes
-5516.0,Pablo Rodríguez,/en/players/73013758/Pablo-Rodriguez,Pablo-Rodriguez,73013758,ar ARG,MF,Leganes
-5517.0,Federico Domínguez,/en/players/b32f81ef/Federico-Dominguez,Federico-Dominguez,b32f81ef,ar ARG,DF,Leganes
-5518.0,Bernardo Leyenda,/en/players/94431f9e/Bernardo-Leyenda,Bernardo-Leyend,94431f9e,ar ARG,GK,Leganes
-5519.0,Francisco Arrué,/en/players/0a6e5ad8/Francisco-Arrue,Francisco-Arru,0a6e5ad8,cl CHI,MF,Leganes
-5520.0,Juan Pietravallo,/en/players/a131d085/Juan-Pietravallo,Juan-Pietravallo,131d085,ar ARG,MF,Leganes
-5521.0,Santiago Kuhl,/en/players/1bfc121a/Santiago-Kuhl,Santiago-Kuh,1bfc121a,ar ARG,MF,Leganes
-5522.0,José Chamot,/en/players/5cebcd18/Jose-Chamot,Jose-Chamot,5cebcd18,ar ARG,DF,Leganes
-5523.0,Julio,/en/players/8389a87b/Julio,Julio,8389a87b,es ESP,DF,Leganes
-5524.0,Álvaro García,/en/players/ca6f381a/Alvaro-Garcia,Alvaro-Garci,ca6f381a,es ESP,MF,Leganes
-5525.0,Queco Piña,/en/players/ecf25896/Queco-Pina,Queco-Pi,cf25896,es ESP,GK,Leganes
-5526.0,Borja Lázaro,/en/players/877476f8/Borja-Lazaro,Borja-Lazaro,877476f8,es ESP,FW,Leganes
-5527.0,Sergio Prendes,/en/players/05435de5/Sergio-Prendes,Sergio-Prend,05435de5,es ESP,MF,Leganes
-5528.0,Villacañas,/en/players/33df7d31/Villacanas,Villac,33df7d31,es ESP,FW,Leganes
-5529.0,Gabriel,/en/players/0d10333c/Gabriel,Gabri,0d10333c,br BRA,MF,Leganes
-5530.0,Paco Candela,/en/players/1564cd0d/Paco-Candela,Paco-Cand,1564cd0d,es ESP,DF,Leganes
-5531.0,Bicho,/en/players/866b3d64/Bicho,Bicho,866b3d64,es ESP,MF,Leganes
-5532.0,Carlos García,/en/players/e76f0b72/Carlos-Garcia,Carlos-Garci,76f0b72,es ESP,DF,Leganes
-5533.0,Manolo,/en/players/0093936e/Manolo,Manolo,0093936e,es ESP,FW,Leganes
-5534.0,Dimitris Siovas,/en/players/92d38e6c/Dimitris-Siovas,Dimitris-Siov,92d38e6c,gr GRE,DF,Leganes
-5535.0,Luciano,/en/players/24ce161c/Luciano,Luciano,24ce161c,br BRA,FW,Leganes
-5536.0,Nereo Champagne,/en/players/7a9fae62/Nereo-Champagne,Nereo-Champag,7a9fae62,ar ARG,GK,Leganes
-5537.0,Diego Barrios,/en/players/ca8ea008/Diego-Barrios,Diego-Barrio,ca8ea008,es ESP,GK,Leganes
-5538.0,Alberto Brignoli,/en/players/6989550f/Alberto-Brignoli,Alberto-Brignoli,6989550f,it ITA,GK,Leganes
-5539.0,Sergio Arribas,/en/players/f1ecb8b5/Sergio-Arribas,Sergio-Arrib,f1ecb8b5,es ESP,MF,Leganes
-5540.0,Alejandro Gutiérrez Mozo,/en/players/4410f0b0/Alejandro-Gutierrez-Mozo,Alejandro-Gutierrez-Mozo,4410f0b0,es ESP,MF,Leganes
-5541.0,Álvaro Molina González,/en/players/4f8bb2aa/Alvaro-Molina-Gonzalez,Alvaro-Molina-Gonzalez,4f8bb2aa,es ESP,DF,Leganes
-5542.0,Ezequiel Muñoz,/en/players/e4b8c5b6/Ezequiel-Munoz,Ezequiel-Munoz,4b8c5b6,ar ARG,DF,Leganes
-5543.0,Jaime Sierra Mateos,/en/players/aaa4239e/Jaime-Sierra-Mateos,Jaime-Sierra-Mateo,4239e,es ESP,MF,Leganes
-5544.0,Sergio Segura García,/en/players/3536fdc1/Sergio-Segura-Garcia,Sergio-Segura-Garci,3536fdc1,es ESP,DF,Leganes
-5545.0,Gabri,/en/players/ff422f76/Gabri,Gabri,ff422f76,es ESP,FW,Leganes
-5546.0,Kenneth Omeruo,/en/players/0f0aa5b4/Kenneth-Omeruo,Kenneth-Omeruo,0f0aa5b4,ng NGA,DF,Leganes
-5547.0,Chidozie Awaziem,/en/players/70d8e84c/Chidozie-Awaziem,Chidozie-Awaziem,70d8e84c,ng NGA,DF,Leganes
-5548.0,Rodrigo Tarín,/en/players/a03c82b2/Rodrigo-Tarin,Rodrigo-Tari,03c82b2,es ESP,DF,Leganes
-5549.0,Roger Assalé,/en/players/5d5219b1/Roger-Assale,Roger-A,5d5219b1,ci CIV,"FW,MF",Leganes
-5550.0,Manuel Garrido,/en/players/f814eccb/Manuel-Garrido,Manuel-Garrido,f814eccb,es ESP,FW,Leganes
-5551.0,Javier Avilés,/en/players/53ddba36/Javier-Aviles,Javier-Avi,53ddba36,es ESP,"MF,FW",Leganes
-5552.0,André Grandi,/en/players/137bcb59/Andre-Grandi,Andre-Grandi,137bcb59,br BRA,GK,Leganes
-5553.0,Pablo Lombo,/en/players/1d2fa3e6/Pablo-Lombo,Pablo-Lombo,1d2fa3e6,es ESP,GK,Leganes
-5554.0,Iván López,/en/players/b09ff413/Ivan-Lopez,Ivan-Lopez,b09ff413,es ESP,DF,Leganes
-5555.0,Aymane Mourid,/en/players/b1bef0f1/Aymane-Mourid,Aymane-Mourid,b1bef0f1,ma MAR,MF,Leganes
-5556.0,﻿Sergi Palencia,/en/players/19f8e480/Sergi-Palencia,Sergi-Palenci,19f8e480,es ESP,"DF,MF",Leganes
-5557.0,Sergi,/en/players/65ac6ea0/Sergi,Sergi,65ac6ea0,es ESP,DF,Leganes
-5558.0,Kevin Bua,/en/players/a4f642c5/Kevin-Bua,Kevin-Bu,4f642c5,ch SUI,MF,Leganes
-5559.0,Diego,/en/players/b85a5126/Diego,Diego,b85a5126,es ESP,FW,Leganes
-5560.0,Cassio,/en/players/2a38f23a/Cassio,Cassio,2a38f23a,br BRA,MF,Leganes
-5561.0,Manu Garrido,/en/players/f6f97033/Manu-Garrido,Manu-Garrido,f6f97033,es ESP,FW,Leganes
-5562.0,Mario,/en/players/7a965c5a/Mario,Mario,7a965c5a,es ESP,DF,Leganes
-5563.0,Adil Tahif,/en/players/f5208319/Adil-Tahif,Adil-Tahif,f5208319,ma MAR,DF,Leganes
-5564.0,Lazar Ranđelović,/en/players/1dbfae2d/Lazar-Randjelovic,Lazar-Randjelovic,1dbfae2d,rs SRB,"MF,FW",Leganes
-5565.0,Seydouba Cissé,/en/players/0d13e455/Seydouba-Cisse,Seydouba-Ci,0d13e455,gn GUI,MF,Leganes
-5566.0,Dani Jiménez,/en/players/e4365d4a/Dani-Jimenez,Dani-Jimenez,4365d4a,es ESP,GK,Leganes
-5567.0,Édgar Yoel Bárcenas,/en/players/b39849eb/Edgar-Yoel-Barcenas,Edgar-Yoel-Barc,b39849eb,pa PAN,"MF,FW",Leganes
-5568.0,Naim García,/en/players/686bab8c/Naim-Garcia,Naim-Garci,686bab8c,es ESP,"MF,FW",Leganes
-5569.0,Jimmy Giraudon,/en/players/6ba71da5/Jimmy-Giraudon,Jimmy-Giraudo,6ba71da5,fr FRA,DF,Leganes
-5570.0,Mario Rivas,/en/players/298874bd/Mario-Rivas,Mario-Riv,298874bd,es ESP,FW,Leganes
-5571.0,Javier Rentero,/en/players/0f42fd8a/Javier-Rentero,Javier-Rentero,0f42fd8a,es ESP,MF,Leganes
-5572.0,Alejandro Alda,/en/players/b2d43217/Alejandro-Alda,Alejandro-Ald,b2d43217,es ESP,DF,Leganes
-5573.0,Javi Garrido,/en/players/3ce37eb5/Javi-Garrido,Javi-Garrido,3ce37eb5,es ESP,GK,Leganes
-5574.0,Joserra,/en/players/1a563b04/Joserra,Jo,1a563b04,es ESP,DF,Leganes
-5575.0,Felix Ofoli,/en/players/1d1c5644/Felix-Ofoli,Felix-Ofoli,1d1c5644,gh GHA,DF,Leganes
-5576.0,Adrián Victores,/en/players/ba5408e6/Adrian-Victores,Adrian-Victo,ba5408e6,es ESP,GK,Leganes
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+9517.0,﻿Raúl Arribas,/en/players/8de0ba1c/Raul-Arribas,Raul-Arrib,8de0ba1c,es ESP,GK,Leganes
+9518.0,Pablo Villa,/en/players/c6b66eea/Pablo-Villa,Pablo-Vi,c6b66eea,es ESP,FW,Leganes
+9519.0,Abass Lawal,/en/players/dd53d426/Abass-Lawal,Abass-Law,dd53d426,ng NGA,"FW,MF",Leganes
+9520.0,Miguel Ángel,/en/players/76f06f1f/Miguel-Angel,Miguel-Ang,76f06f1f,es ESP,FW,Leganes
+9521.0,Óscar,/en/players/b4786695/Oscar,Osc,b4786695,es ESP,DF,Leganes
+9522.0,Joaquín Macanás,/en/players/fe9e077f/Joaquin-Macanas,Joaquin-Mac,fe9e077f,es ESP,DF,Leganes
+9523.0,Jon Ander Lambea,/en/players/f370429e/Jon-Ander-Lambea,Jon-Ander-Lamb,f370429e,es ESP,DF,Leganes
+9524.0,Gustavo de la Parra,/en/players/ba328cca/Gustavo-de-la-Parra,Gustavo-de-la-P,ba328cca,es ESP,DF,Leganes
+9525.0,Fede Bahón,/en/players/b0ccfe54/Fede-Bahon,Fede-Baho,b0ccfe54,es ESP,DF,Leganes
+9526.0,Unai Emery,/en/players/e530e0c0/Unai-Emery,Unai-Em,530e0c0,es ESP,MF,Leganes
+9527.0,David Clotet,/en/players/cd3a8fa3/David-Clotet,David-Clotet,cd3a8fa3,es ESP,DF,Leganes
+9528.0,Sergio Gámiz,/en/players/d15abcc9/Sergio-Gamiz,Sergio-Gamiz,d15abcc9,es ESP,MF,Leganes
+9529.0,Juan Carlos Carcedo,/en/players/3f698ebf/Juan-Carlos-Carcedo,Juan-Carlos-Carcedo,3f698ebf,es ESP,"FW,MF",Leganes
+9530.0,Sívori,/en/players/fed61bbe/Sivori,Sivori,fed61bbe,es ESP,"FW,MF",Leganes
+9531.0,Pablo Calandria,/en/players/9c010ae8/Pablo-Calandria,Pablo-Calandri,9c010ae8,ar ARG,FW,Leganes
+9532.0,Miguel Falcón,/en/players/a955cfa6/Miguel-Falcon,Miguel-Falco,955cfa6,es ESP,MF,Leganes
+9533.0,Salva,/en/players/dfbb5412/Salva,Salv,dfbb5412,es ESP,DF,Leganes
+9534.0,Pierre Webó,/en/players/3d6f05ea/Pierre-Webo,Pierre-Webo,3d6f05ea,cm CMR,FW,Leganes
+9535.0,Gorka Pintado,/en/players/e98055de/Gorka-Pintado,Gorka-Pintado,98055de,es ESP,FW,Leganes
+9536.0,﻿Lucas Alessandría,/en/players/1a9b820c/Lucas-Alessandria,Lucas-Alessandri,1a9b820c,ar ARG,DF,Leganes
+9537.0,Martín Vitali,/en/players/14931795/Martin-Vitali,Martin-Vitali,14931795,ar ARG,"DF,MF",Leganes
+9538.0,Nicolás Medina,/en/players/aeada259/Nicolas-Medina,Nicolas-Medi,da259,ar ARG,MF,Leganes
+9539.0,Borja Pérez,/en/players/5cabc332/Borja-Perez,Borja-Perez,5cabc332,es ESP,FW,Leganes
+9540.0,Claudio Enría,/en/players/b9a6e4a7/Claudio-Enria,Claudio-Enri,b9a6e4a7,ar ARG,FW,Leganes
+9541.0,Pablo Rodríguez,/en/players/73013758/Pablo-Rodriguez,Pablo-Rodriguez,73013758,ar ARG,MF,Leganes
+9542.0,Miguel Melgar,/en/players/bfa43647/Miguel-Melgar,Miguel-Melg,bfa43647,es ESP,MF,Leganes
+9543.0,Claudio Marini,/en/players/446a7d68/Claudio-Marini,Claudio-Marini,446a7d68,ar ARG,MF,Leganes
+9544.0,Mauro Navas,/en/players/97fe2167/Mauro-Navas,Mauro-Nav,97fe2167,ar ARG,DF,Leganes
+9545.0,Federico Domínguez,/en/players/b32f81ef/Federico-Dominguez,Federico-Dominguez,b32f81ef,ar ARG,DF,Leganes
+9546.0,Bernardo Leyenda,/en/players/94431f9e/Bernardo-Leyenda,Bernardo-Leyend,94431f9e,ar ARG,GK,Leganes
+9547.0,Francisco Arrué,/en/players/0a6e5ad8/Francisco-Arrue,Francisco-Arru,0a6e5ad8,cl CHI,MF,Leganes
+9548.0,Juan Pietravallo,/en/players/a131d085/Juan-Pietravallo,Juan-Pietravallo,131d085,ar ARG,MF,Leganes
+9549.0,Santiago Kuhl,/en/players/1bfc121a/Santiago-Kuhl,Santiago-Kuh,1bfc121a,ar ARG,MF,Leganes
+9550.0,José Chamot,/en/players/5cebcd18/Jose-Chamot,Jose-Chamot,5cebcd18,ar ARG,DF,Leganes
+9551.0,Julio,/en/players/8389a87b/Julio,Julio,8389a87b,es ESP,DF,Leganes
+9552.0,﻿Javier Eraso,/en/players/aec0fb6f/Javier-Eraso,Javier-Eraso,c0fb6f,es ESP,MF,Leganes
+9553.0,Sergio Postigo,/en/players/474ecac8/Sergio-Postigo,Sergio-Postigo,474ecac8,es ESP,DF,Leganes
+9554.0,Martín Mantovani,/en/players/4ffb647d/Martin-Mantovani,Martin-Mantovani,4ffb647d,ar ARG,DF,Leganes
+9555.0,Álvaro García,/en/players/ca6f381a/Alvaro-Garcia,Alvaro-Garci,ca6f381a,es ESP,MF,Leganes
+9556.0,César Soriano,/en/players/0e41fc77/Cesar-Soriano,Cesar-Soriano,0e41fc77,es ESP,DF,Leganes
+9557.0,Jon Ander Serantes,/en/players/983ccabe/Jon-Ander-Serantes,Jon-Ander-Serant,983ccabe,es ESP,GK,Leganes
+9558.0,Diego Aguirre,/en/players/45b8139c/Diego-Aguirre,Diego-Agui,45b8139c,es ESP,"DF,MF",Leganes
+9559.0,Pape Maly Diamanka,/en/players/5d289e13/Pape-Maly-Diamanka,Pape-Maly-Diamank,5d289e13,sn SEN,MF,Leganes
+9560.0,Rubén Peña,/en/players/1f079188/Ruben-Pena,Ruben-P,1f079188,es ESP,"DF,MF",Leganes
+9561.0,Alberto Martín,/en/players/805293e0/Alberto-Martin,Alberto-Marti,805293e0,es ESP,MF,Leganes
+9562.0,Fernando Velasco,/en/players/7a44f25b/Fernando-Velasco,Fernando-Velasco,7a44f25b,es ESP,MF,Leganes
+9563.0,Chuli,/en/players/24efffbf/Chuli,Chuli,24efffbf,es ESP,"FW,MF",Leganes
+9564.0,Erik Morán,/en/players/6941883f/Erik-Moran,Erik-Mo,6941883f,es ESP,MF,Leganes
+9565.0,Queco Piña,/en/players/ecf25896/Queco-Pina,Queco-Pi,cf25896,es ESP,GK,Leganes
+9566.0,Borja Lázaro,/en/players/877476f8/Borja-Lazaro,Borja-Lazaro,877476f8,es ESP,FW,Leganes
+9567.0,Alain Eizmendi,/en/players/d59d0a17/Alain-Eizmendi,Alain-Eizmendi,d59d0a17,es ESP,"DF,MF",Leganes
+9568.0,Fran Moreno,/en/players/12096092/Fran-Moreno,Fran-Moreno,12096092,es ESP,MF,Leganes
+9569.0,Sergio Prendes,/en/players/05435de5/Sergio-Prendes,Sergio-Prend,05435de5,es ESP,MF,Leganes
+9570.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Leganes
+9571.0,Carlos Delgado,/en/players/294afef4/Carlos-Delgado,Carlos-Delgado,294afef4,es ESP,DF,Leganes
+9572.0,Carlos Gutiérrez,/en/players/933de879/Carlos-Gutierrez,Carlos-Gutierrez,933de879,es ESP,DF,Leganes
+9573.0,Luis Ruiz Sayago,/en/players/7451b305/Luis-Ruiz-Sayago,Luis-Ruiz-Sayago,7451b305,es ESP,DF,Leganes
+9574.0,Carlos Álvarez,/en/players/c171531a/Carlos-Alvarez,Carlos-Alvarez,c171531a,es ESP,FW,Leganes
+9575.0,Bryan Rabello,/en/players/ad052490/Bryan-Rabello,Bryan-Rabello,d052490,cl CHI,MF,Leganes
+9576.0,Dioni,/en/players/aac8c5ac/Dioni,Dioni,c8c5ac,es ESP,FW,Leganes
+9577.0,Dani Barrio,/en/players/b56f8c7f/Dani-Barrio,Dani-Barrio,b56f8c7f,es ESP,GK,Leganes
+9578.0,Villacañas,/en/players/33df7d31/Villacanas,Villac,33df7d31,es ESP,FW,Leganes
+9579.0,Víctor Díaz,/en/players/3624ce4c/Victor-Diaz,Victor-Diaz,3624ce4c,es ESP,DF,Leganes
+9580.0,Pablo Insua,/en/players/4b5e7e90/Pablo-Insua,Pablo-Insu,4b5e7e90,es ESP,DF,Leganes
+9581.0,Gabriel,/en/players/0d10333c/Gabriel,Gabri,0d10333c,br BRA,MF,Leganes
+9582.0,Alexander,/en/players/3e1858af/Alexander,Alexand,3e1858af,ar ARG,MF,Leganes
+9583.0,Lluís Sastre,/en/players/5f186f5c/Lluis-Sastre,Lluis-Sast,5f186f5c,es ESP,MF,Leganes
+9584.0,Omar Ramos,/en/players/0657888a/Omar-Ramos,Omar-Ramo,0657888a,es ESP,"FW,MF",Leganes
+9585.0,Unai Albizua,/en/players/4a2e58a3/Unai-Albizua,Unai-Albizu,4a2e58a3,es ESP,DF,Leganes
+9586.0,Guillermo,/en/players/15107141/Guillermo,Guillermo,15107141,es ESP,FW,Leganes
+9587.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,"DF,MF",Leganes
+9588.0,Jorge Miramón,/en/players/7f4c7c9f/Jorge-Miramon,Jorge-Miramo,7f4c7c9f,es ESP,"DF,MF",Leganes
+9589.0,Unai Bustinza,/en/players/f3112790/Unai-Bustinza,Unai-Bustinz,f3112790,es ESP,DF,Leganes
+9590.0,Iñigo Ruiz de Galarreta,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,Inigo-Ruiz-de-Galarret,91f7631f,es ESP,MF,Leganes
+9591.0,Toni Dovale,/en/players/d4b9adcf/Toni-Dovale,Toni-Dov,d4b9adcf,es ESP,"DF,MF",Leganes
+9592.0,Asdrúbal Padrón,/en/players/1719aa30/Asdrubal-Padron,Asdrubal-Padro,1719aa30,es ESP,"FW,MF",Leganes
+9593.0,Paco Candela,/en/players/1564cd0d/Paco-Candela,Paco-Cand,1564cd0d,es ESP,DF,Leganes
+9594.0,Bicho,/en/players/866b3d64/Bicho,Bicho,866b3d64,es ESP,MF,Leganes
+9595.0,Carlos García,/en/players/e76f0b72/Carlos-Garcia,Carlos-Garci,76f0b72,es ESP,DF,Leganes
+9596.0,Juanan,/en/players/41ab1795/Juanan,Ju,41ab1795,es ESP,DF,Leganes
+9597.0,Manolo,/en/players/0093936e/Manolo,Manolo,0093936e,es ESP,FW,Leganes
+9598.0,Rubén Pérez,/en/players/3c7bc9bd/Ruben-Perez,Ruben-Perez,3c7bc9bd,es ESP,MF,Leganes
+9599.0,Diego Rico,/en/players/d9ba39fc/Diego-Rico,Diego-Rico,d9ba39fc,es ESP,DF,Leganes
+9600.0,Miguel Ángel Guerrero,/en/players/b35db3f6/Miguel-Angel-Guerrero,Miguel-Angel-Guerrero,b35db3f6,es ESP,FW,Leganes
+9601.0,Iago Herrerín,/en/players/9109185e/Iago-Herrerin,Iago-Herreri,9109185e,es ESP,GK,Leganes
+9602.0,Dimitris Siovas,/en/players/92d38e6c/Dimitris-Siovas,Dimitris-Siov,92d38e6c,gr GRE,DF,Leganes
+9603.0,Unai López,/en/players/88050721/Unai-Lopez,Unai-Lopez,88050721,es ESP,MF,Leganes
+9604.0,Luciano,/en/players/24ce161c/Luciano,Luciano,24ce161c,br BRA,FW,Leganes
+9605.0,Adrián Marín,/en/players/b7f2edff/Adrian-Marin,Adrian-Mari,b7f2edff,es ESP,DF,Leganes
+9606.0,Darwin Machís,/en/players/ed6ea4d9/Darwin-Machis,Darwin-Machi,d6ea4d9,ve VEN,"MF,FW",Leganes
+9607.0,Nabil El Zhar,/en/players/37f96552/Nabil-El-Zhar,Nabil-El-Zh,37f96552,ma MAR,MF,Leganes
+9608.0,Tito,/en/players/7cefa219/Tito,Tito,7cefa219,es ESP,"DF,MF",Leganes
+9609.0,Carl Medjani,/en/players/70c2f41a/Carl-Medjani,Carl-Medjani,70c2f41a,dz ALG,DF,Leganes
+9610.0,Samu García,/en/players/5f7db81a/Samu-Garcia,Samu-Garci,5f7db81a,es ESP,MF,Leganes
+9611.0,Nereo Champagne,/en/players/7a9fae62/Nereo-Champagne,Nereo-Champag,7a9fae62,ar ARG,GK,Leganes
+9612.0,Alberto Bueno,/en/players/9b878773/Alberto-Bueno,Alberto-Bueno,9b878773,es ESP,"FW,MF",Leganes
+9613.0,Mamadou Koné,/en/players/85b9dca0/Mamadou-Kone,Mamadou-Ko,85b9dca0,ci CIV,FW,Leganes
+9614.0,Robert Ibáñez,/en/players/c7429db3/Robert-Ibanez,Robert-Ibanez,c7429db3,es ESP,MF,Leganes
+9615.0,Diego Barrios,/en/players/ca8ea008/Diego-Barrios,Diego-Barrio,ca8ea008,es ESP,GK,Leganes
+9616.0,Alberto Brignoli,/en/players/6989550f/Alberto-Brignoli,Alberto-Brignoli,6989550f,it ITA,GK,Leganes
+9617.0,Sergio Arribas,/en/players/f1ecb8b5/Sergio-Arribas,Sergio-Arrib,f1ecb8b5,es ESP,MF,Leganes
+9618.0,Alejandro Gutiérrez Mozo,/en/players/4410f0b0/Alejandro-Gutierrez-Mozo,Alejandro-Gutierrez-Mozo,4410f0b0,es ESP,MF,Leganes
+9619.0,Álvaro Molina González,/en/players/4f8bb2aa/Alvaro-Molina-Gonzalez,Alvaro-Molina-Gonzalez,4f8bb2aa,es ESP,DF,Leganes
+9620.0,﻿Iván Cuéllar,/en/players/75751c99/Ivan-Cuellar,Ivan-Cu,75751c99,es ESP,GK,Leganes
+9621.0,Joseba Zaldúa,/en/players/5ca20b7a/Joseba-Zaldua,Joseba-Zaldu,5ca20b7a,es ESP,DF,Leganes
+9622.0,Claudio Beauvue,/en/players/8ca253a3/Claudio-Beauvue,Claudio-Beauvu,8ca253a3,gp GLP,FW,Leganes
+9623.0,Nordin Amrabat,/en/players/7c2a398c/Nordin-Amrabat,Nordin-Amrabat,7c2a398c,ma MAR,"MF,FW",Leganes
+9624.0,Ezequiel Muñoz,/en/players/e4b8c5b6/Ezequiel-Munoz,Ezequiel-Munoz,4b8c5b6,ar ARG,DF,Leganes
+9625.0,Raúl García,/en/players/1a317a1b/Raul-Garcia,Raul-Garci,1a317a1b,es ESP,DF,Leganes
+9626.0,Darko Brašanac,/en/players/4accb7e0/Darko-Brasanac,Darko-Brasanac,4accb7e0,rs SRB,MF,Leganes
+9627.0,Mauro dos Santos,/en/players/ec699fdd/Mauro-dos-Santos,Mauro-dos-Santo,c699fdd,ar ARG,DF,Leganes
+9628.0,Naranjo,/en/players/2a70c756/Naranjo,Naranjo,2a70c756,es ESP,MF,Leganes
+9629.0,Jaime Sierra Mateos,/en/players/aaa4239e/Jaime-Sierra-Mateos,Jaime-Sierra-Mateo,4239e,es ESP,MF,Leganes
+9630.0,Sergio Segura García,/en/players/3536fdc1/Sergio-Segura-Garcia,Sergio-Segura-Garci,3536fdc1,es ESP,DF,Leganes
+9631.0,Gabri,/en/players/ff422f76/Gabri,Gabri,ff422f76,es ESP,FW,Leganes
+9632.0,William,/en/players/09bc547d/William,William,09bc547d,br BRA,FW,Leganes
+9633.0,Jonathan Silva,/en/players/f2308b33/Jonathan-Silva,Jonathan-Silv,f2308b33,ar ARG,"DF,FW",Leganes
+9634.0,Óscar Rodríguez Arnaiz,/en/players/19709006/Oscar-Rodriguez-Arnaiz,Oscar-Rodriguez-Arnaiz,19709006,es ESP,MF,Leganes
+9635.0,Kenneth Omeruo,/en/players/0f0aa5b4/Kenneth-Omeruo,Kenneth-Omeruo,0f0aa5b4,ng NGA,DF,Leganes
+9636.0,Mikel Vesga,/en/players/b0fce72c/Mikel-Vesga,Mikel-Vesg,b0fce72c,es ESP,MF,Leganes
+9637.0,Guido Carrillo,/en/players/8f898ba8/Guido-Carrillo,Guido-Carrillo,8f898ba8,ar ARG,FW,Leganes
+9638.0,Youssef En-Nesyri,/en/players/04e17fd5/Youssef-En-Nesyri,Youssef-En-Nesyri,04e17fd5,ma MAR,FW,Leganes
+9639.0,Allan Nyom,/en/players/97572117/Allan-Nyom,Allan-Nyom,97572117,cm CMR,"DF,FW",Leganes
+9640.0,Juanfran,/en/players/9ba48d64/Juanfran,Juanf,9ba48d64,es ESP,"DF,FW",Leganes
+9641.0,Martin Braithwaite,/en/players/fd771f95/Martin-Braithwaite,Martin-Braithwait,fd771f95,dk DEN,FW,Leganes
+9642.0,Recio,/en/players/54073b28/Recio,Recio,54073b28,es ESP,MF,Leganes
+9643.0,Gerard Gumbau,/en/players/ac454a4f/Gerard-Gumbau,Gerard-Gumbau,c454a4f,es ESP,MF,Leganes
+9644.0,Vasyl Kravets,/en/players/29e48848/Vasyl-Kravets,Vasyl-Kravet,29e48848,ua UKR,"DF,FW",Leganes
+9645.0,Michael Santos,/en/players/3cb6f224/Michael-Santos,Michael-Santo,3cb6f224,uy URU,"FW,MF",Leganes
+9646.0,Andriy Lunin,/en/players/3061e1ec/Andriy-Lunin,Andriy-Luni,3061e1ec,ua UKR,GK,Leganes
+9647.0,Diego Reyes,/en/players/d4f46475/Diego-Reyes,Diego-R,d4f46475,mx MEX,DF,Leganes
+9648.0,Sabin Merino,/en/players/1d5f96d9/Sabin-Merino,Sabin-Merino,1d5f96d9,es ESP,"FW,MF",Leganes
+9649.0,Diego Rolán,/en/players/d1491e00/Diego-Rolan,Diego-Ro,d1491e00,uy URU,MF,Leganes
+9650.0,Dani Ojeda,/en/players/375a669e/Dani-Ojeda,Dani-Ojed,375a669e,es ESP,"MF,DF",Leganes
+9651.0,José Arnaiz,/en/players/46e07328/Jose-Arnaiz,Jose-Arnaiz,46e07328,es ESP,MF,Leganes
+9652.0,Andrés Prieto,/en/players/113fb4ea/Andres-Prieto,Andres-Prieto,113fb4ea,es ESP,GK,Leganes
+9653.0,Roque Mesa,/en/players/7c4243d4/Roque-Mesa,Roque-M,7c4243d4,es ESP,MF,Leganes
+9654.0,Kévin Rodrigues,/en/players/f1bed920/Kevin-Rodrigues,Kevin-Rodrigu,f1bed920,pt POR,"DF,MF",Leganes
+9655.0,Chidozie Awaziem,/en/players/70d8e84c/Chidozie-Awaziem,Chidozie-Awaziem,70d8e84c,ng NGA,DF,Leganes
+9656.0,Roberto Rosales,/en/players/81069528/Roberto-Rosales,Roberto-Ro,81069528,ve VEN,DF,Leganes
+9657.0,Aitor Ruibal,/en/players/a55d8df5/Aitor-Ruibal,Aitor-Ruib,55d8df5,es ESP,"DF,MF",Leganes
+9658.0,Rodrigo Tarín,/en/players/a03c82b2/Rodrigo-Tarin,Rodrigo-Tari,03c82b2,es ESP,DF,Leganes
+9659.0,Juan Soriano,/en/players/5512b1a9/Juan-Soriano,Juan-Soriano,5512b1a9,es ESP,GK,Leganes
+9660.0,Ibrahim Amadou,/en/players/9260926b/Ibrahim-Amadou,Ibrahim-Amadou,9260926b,fr FRA,MF,Leganes
+9661.0,Bryan,/en/players/7b5ab7f2/Bryan,B,7b5ab7f2,es ESP,"MF,DF",Leganes
+9662.0,Cristian Rivera,/en/players/8ef81d2d/Cristian-Rivera,Cristian-Riv,8ef81d2d,es ESP,MF,Leganes
+9663.0,Marc Navarro,/en/players/c2846353/Marc-Navarro,Marc-Navarro,c2846353,es ESP,"FW,DF",Leganes
+9664.0,Roger Assalé,/en/players/5d5219b1/Roger-Assale,Roger-A,5d5219b1,ci CIV,"FW,MF",Leganes
+9665.0,Manuel Garrido,/en/players/f814eccb/Manuel-Garrido,Manuel-Garrido,f814eccb,es ESP,FW,Leganes
+9666.0,Javier Avilés,/en/players/53ddba36/Javier-Aviles,Javier-Avi,53ddba36,es ESP,"MF,FW",Leganes
+9667.0,André Grandi,/en/players/137bcb59/Andre-Grandi,Andre-Grandi,137bcb59,br BRA,GK,Leganes
+9668.0,Pablo Lombo,/en/players/1d2fa3e6/Pablo-Lombo,Pablo-Lombo,1d2fa3e6,es ESP,GK,Leganes
+9669.0,Iván López,/en/players/b09ff413/Ivan-Lopez,Ivan-Lopez,b09ff413,es ESP,DF,Leganes
+9670.0,Aymane Mourid,/en/players/b1bef0f1/Aymane-Mourid,Aymane-Mourid,b1bef0f1,ma MAR,MF,Leganes
+9671.0,﻿Sergi Palencia,/en/players/19f8e480/Sergi-Palencia,Sergi-Palenci,19f8e480,es ESP,"DF,MF",Leganes
+9672.0,Javi,/en/players/9a76c2e9/Javi,Javi,9a76c2e9,es ESP,DF,Leganes
+9673.0,Rubén Pardo,/en/players/2306bfde/Ruben-Pardo,Ruben-Pardo,2306bfde,es ESP,MF,Leganes
+9674.0,Gaku Shibasaki,/en/players/d2ac648c/Gaku-Shibasaki,Gaku-Shibasaki,d2ac648c,jp JPN,MF,Leganes
+9675.0,Borja Bastón,/en/players/8c44e37b/Borja-Baston,Borja-Basto,8c44e37b,es ESP,FW,Leganes
+9676.0,Ignasi Miquel,/en/players/174f09a6/Ignasi-Miquel,Ignasi-Miqu,174f09a6,es ESP,DF,Leganes
+9677.0,Sergi,/en/players/65ac6ea0/Sergi,Sergi,65ac6ea0,es ESP,DF,Leganes
+9678.0,Asier Riesgo,/en/players/581c5276/Asier-Riesgo,Asier-Riesgo,581c5276,es ESP,GK,Leganes
+9679.0,Luis Perea,/en/players/8dc6dbb3/Luis-Perea,Luis-P,8dc6dbb3,es ESP,MF,Leganes
+9680.0,Miguel,/en/players/6763373d/Miguel,Migu,6763373d,es ESP,FW,Leganes
+9681.0,Juan Muñoz,/en/players/25018d62/Juan-Munoz,Juan-Munoz,25018d62,es ESP,"MF,FW",Leganes
+9682.0,Kevin Bua,/en/players/a4f642c5/Kevin-Bua,Kevin-Bu,4f642c5,ch SUI,MF,Leganes
+9683.0,Diego Conde,/en/players/4eae5bc4/Diego-Conde,Diego-Cond,4eae5bc4,es ESP,GK,Leganes
+9684.0,Javier Rubio,/en/players/7e05e54f/Javier-Rubio,Javier-Rubio,7e05e54f,es ESP,DF,Leganes
+9685.0,Brandon,/en/players/3e016e5a/Brandon,Brando,3e016e5a,es ESP,"FW,MF",Leganes
+9686.0,Diego,/en/players/b85a5126/Diego,Diego,b85a5126,es ESP,FW,Leganes
+9687.0,Cassio,/en/players/2a38f23a/Cassio,Cassio,2a38f23a,br BRA,MF,Leganes
+9688.0,Manu Garrido,/en/players/f6f97033/Manu-Garrido,Manu-Garrido,f6f97033,es ESP,FW,Leganes
+9689.0,Mario,/en/players/7a965c5a/Mario,Mario,7a965c5a,es ESP,DF,Leganes
+9690.0,Adil Tahif,/en/players/f5208319/Adil-Tahif,Adil-Tahif,f5208319,ma MAR,DF,Leganes
+9691.0,Bruno González,/en/players/f11fe861/Bruno-Gonzalez,Bruno-Gonzalez,f11fe861,es ESP,DF,Leganes
+9692.0,Lazar Ranđelović,/en/players/1dbfae2d/Lazar-Randjelovic,Lazar-Randjelovic,1dbfae2d,rs SRB,"MF,FW",Leganes
+9693.0,Borja Garcés,/en/players/bc39454c/Borja-Garces,Borja-Garc,bc39454c,es ESP,FW,Leganes
+9694.0,Seydouba Cissé,/en/players/0d13e455/Seydouba-Cisse,Seydouba-Ci,0d13e455,gn GUI,MF,Leganes
+9695.0,Fede Vico,/en/players/f681a8ef/Fede-Vico,Fede-Vico,f681a8ef,es ESP,MF,Leganes
+9696.0,Jon Bautista,/en/players/debc6b55/Jon-Bautista,Jon-Bautist,debc6b55,es ESP,FW,Leganes
+9697.0,Dani Jiménez,/en/players/e4365d4a/Dani-Jimenez,Dani-Jimenez,4365d4a,es ESP,GK,Leganes
+9698.0,Édgar Yoel Bárcenas,/en/players/b39849eb/Edgar-Yoel-Barcenas,Edgar-Yoel-Barc,b39849eb,pa PAN,"MF,FW",Leganes
+9699.0,Iván Villar,/en/players/cde52ef5/Ivan-Villar,Ivan-Vi,cde52ef5,es ESP,GK,Leganes
+9700.0,Yacine Qasmi,/en/players/3b3cbebb/Yacine-Qasmi,Yacine-Qasmi,3b3cbebb,ma MAR,FW,Leganes
+9701.0,Naim García,/en/players/686bab8c/Naim-Garcia,Naim-Garci,686bab8c,es ESP,"MF,FW",Leganes
+9702.0,Cheick Doukouré,/en/players/e208bcc8/Cheick-Doukoure,Cheick-Doukou,208bcc8,ci CIV,MF,Leganes
+9703.0,Jimmy Giraudon,/en/players/6ba71da5/Jimmy-Giraudon,Jimmy-Giraudo,6ba71da5,fr FRA,DF,Leganes
+9704.0,Mario Rivas,/en/players/298874bd/Mario-Rivas,Mario-Riv,298874bd,es ESP,FW,Leganes
+9705.0,Javier Rentero,/en/players/0f42fd8a/Javier-Rentero,Javier-Rentero,0f42fd8a,es ESP,MF,Leganes
+9706.0,Alejandro Alda,/en/players/b2d43217/Alejandro-Alda,Alejandro-Ald,b2d43217,es ESP,DF,Leganes
+9707.0,Javi Garrido,/en/players/3ce37eb5/Javi-Garrido,Javi-Garrido,3ce37eb5,es ESP,GK,Leganes
+9708.0,Joserra,/en/players/1a563b04/Joserra,Jo,1a563b04,es ESP,DF,Leganes
+9709.0,Marc,/en/players/83d21f5b/Marc,Marc,83d21f5b,es ESP,FW,Leganes
+9710.0,Felix Ofoli,/en/players/1d1c5644/Felix-Ofoli,Felix-Ofoli,1d1c5644,gh GHA,DF,Leganes
+9711.0,Adrián Victores,/en/players/ba5408e6/Adrian-Victores,Adrian-Victo,ba5408e6,es ESP,GK,Leganes

@@ -1,201 +1,310 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-2502.0,﻿Albano Bizzarri,/en/players/32b9b5fa/Albano-Bizzarri,Albano-Bizzarri,32b9b5fa,ar ARG,GK,Valladolid
-2503.0,Javier Torres Gómez,/en/players/677aa169/Javier-Torres-Gomez,Javier-Torres-Gomez,677aa169,es ESP,DF,Valladolid
-2504.0,Alberto Marcos Rey,/en/players/7fd2179f/Alberto-Marcos-Rey,Alberto-Marcos-R,7fd2179f,es ESP,DF,Valladolid
-2505.0,David Aganzo,/en/players/97e3ba49/David-Aganzo,David-Aganzo,97e3ba49,es ESP,FW,Valladolid
-2506.0,Óscar,/en/players/627650df/Oscar,Osc,627650df,es ESP,MF,Valladolid
-2507.0,Nicolás Olivera,/en/players/691fd00c/Nicolas-Olivera,Nicolas-Oliv,691fd00c,uy URU,"FW,MF",Valladolid
-2508.0,Óscar Sánchez,/en/players/fe4c5d4e/Oscar-Sanchez,Oscar-Sanchez,fe4c5d4e,es ESP,DF,Valladolid
-2509.0,José Luis Caminero,/en/players/f9199e3b/Jose-Luis-Caminero,Jose-Luis-Caminero,f9199e3b,es ESP,"FW,MF",Valladolid
-2510.0,Chema,/en/players/6c53d111/Chema,Chem,6c53d111,es ESP,MF,Valladolid
-2511.0,Jonathan Martín,/en/players/79e046e0/Jonathan-Martin,Jonathan-Marti,79e046e0,es ESP,DF,Valladolid
-2512.0,Sergio Pachón,/en/players/ae85fca9/Sergio-Pachon,Sergio-Pacho,85fca9,es ESP,FW,Valladolid
-2513.0,Jesús Sánchez,/en/players/a92bade1/Jesus-Sanchez,Jesus-Sanchez,92bade1,es ESP,MF,Valladolid
-2514.0,Javier Muñoz,/en/players/492e1cd3/Javier-Munoz,Javier-Munoz,492e1cd3,ar ARG,DF,Valladolid
-2515.0,Dragan Ćirić,/en/players/680a7e96/Dragan-Ciric,Dragan-Ciric,680a7e96,rs SRB,MF,Valladolid
-2516.0,Pablo Ricchetti,/en/players/69952e6a/Pablo-Ricchetti,Pablo-Ricchetti,69952e6a,ar ARG,"DF,MF",Valladolid
-2517.0,David Sousa,/en/players/292a8dbe/David-Sousa,David-Sou,292a8dbe,es ESP,MF,Valladolid
-2518.0,Xavier Moré,/en/players/3557d107/Xavier-More,Xavier-Mo,3557d107,es ESP,"FW,MF",Valladolid
-2519.0,José Luis Santamaría,/en/players/495f0364/Jose-Luis-Santamaria,Jose-Luis-Santamari,495f0364,es ESP,DF,Valladolid
-2520.0,Álvaro Antón,/en/players/90041d71/Alvaro-Anton,Alvaro-Anto,90041d71,es ESP,MF,Valladolid
-2521.0,Javier Jiménez,/en/players/eba83479/Javier-Jimenez,Javier-Jimenez,ba83479,es ESP,MF,Valladolid
-2522.0,Agustín Villar,/en/players/108ca6ae/Agustin-Villar,Agustin-Vi,108ca6ae,es ESP,MF,Valladolid
-2523.0,Júlio César,/en/players/754ac76b/Julio-Cesar,Julio-C,754ac76b,br BRA,DF,Valladolid
-2524.0,Roberto Losada,/en/players/547ccdd5/Roberto-Losada,Roberto-Losad,547ccdd5,es ESP,FW,Valladolid
-2525.0,Víctor Zapata,/en/players/889a705f/Victor-Zapata,Victor-Zapat,889a705f,ar ARG,MF,Valladolid
-2526.0,Pablo Paz,/en/players/3eaddf7e/Pablo-Paz,Pablo-Paz,3eaddf7e,ar ARG,DF,Valladolid
-2527.0,Diego Figueredo,/en/players/5848acb3/Diego-Figueredo,Diego-Figueredo,5848acb3,py PAR,MF,Valladolid
-2528.0,Rafa,/en/players/0b89dbcc/Rafa,Raf,0b89dbcc,es ESP,"DF,MF",Valladolid
-2529.0,Martín Cardetti,/en/players/e4fc03ad/Martin-Cardetti,Martin-Cardetti,4fc03ad,ar ARG,FW,Valladolid
-2530.0,Catriel Orcellet,/en/players/41f308e4/Catriel-Orcellet,Catriel-Orcellet,41f308e4,ar ARG,GK,Valladolid
-2531.0,Víctor,/en/players/00979380/Victor,Victo,979380,es ESP,FW,Valladolid
-2532.0,Diego Mateo,/en/players/6ff0efaa/Diego-Mateo,Diego-Mateo,6ff0efaa,ar ARG,"DF,MF",Valladolid
-2533.0,Jairo Castillo,/en/players/01c1b0cf/Jairo-Castillo,Jairo-Castillo,01c1b0cf,co COL,FW,Valladolid
-2534.0,Iván Zarandona,/en/players/cf38c51d/Ivan-Zarandona,Ivan-Zarando,cf38c51d,gq EQG,MF,Valladolid
-2535.0,Iñaki Bea Jauregi,/en/players/bbcd4ab0/Inaki-Bea-Jauregi,Inaki-Bea-Jauregi,bbcd4ab0,es ESP,DF,Valladolid
-2536.0,Francisco Lledó,/en/players/4401f0c3/Francisco-Lledo,Francisco-Lledo,4401f0c3,es ESP,GK,Valladolid
-2537.0,Teodoro García,/en/players/28c7dc00/Teodoro-Garcia,Teodoro-Garci,28c7dc00,es ESP,MF,Valladolid
-2538.0,Angel Martínez,/en/players/c3a9e553/Angel-Martinez,Angel-Martinez,c3a9e553,py PAR,DF,Valladolid
-2539.0,Javier Baraja,/en/players/6514cd55/Javier-Baraja,Javier-Baraj,6514cd55,es ESP,"DF,MF",Valladolid
-2540.0,José Luis Capdevila,/en/players/dde616c5/Jose-Luis-Capdevila,Jose-Luis-Capdevi,dde616c5,es ESP,MF,Valladolid
-2541.0,Iván Hernández,/en/players/09a1ed52/Ivan-Hernandez,Ivan-Hernandez,09a1ed52,es ESP,DF,Valladolid
-2542.0,Pedro López Muñoz,/en/players/a60823a4/Pedro-Lopez-Munoz,Pedro-Lopez-Munoz,60823a4,es ESP,DF,Valladolid
-2543.0,Marcelo Broli,/en/players/383cc69a/Marcelo-Broli,Marcelo-Broli,383cc69a,uy URU,MF,Valladolid
-2544.0,Jorge Curbelo,/en/players/2ea7e358/Jorge-Curbelo,Jorge-Curbelo,2ea7e358,uy URU,DF,Valladolid
-2545.0,Pablo Casar,/en/players/aa6c5d2f/Pablo-Casar,Pablo-C,6c5d2f,es ESP,DF,Valladolid
-2546.0,Jacobo,/en/players/bb575fe7/Jacobo,Jacobo,bb575fe7,es ESP,GK,Valladolid
-2547.0,Álvaro Rubio,/en/players/149770b8/Alvaro-Rubio,Alvaro-Rubio,149770b8,es ESP,"DF,MF",Valladolid
-2548.0,Gonzalo Vicente,/en/players/f3c66117/Gonzalo-Vicente,Gonzalo-Vicent,f3c66117,uy URU,DF,Valladolid
-2549.0,Asier,/en/players/c599392e/Asier,Asi,c599392e,es ESP,MF,Valladolid
-2550.0,José de la Cuesta,/en/players/664cac36/Jose-de-la-Cuesta,Jose-de-la-Cuest,664cac36,co COL,DF,Valladolid
-2551.0,Jonathan Sesma,/en/players/7484a7cc/Jonathan-Sesma,Jonathan-Sesm,7484a7cc,es ESP,"FW,MF",Valladolid
-2552.0,Ángel Vivar Dorado,/en/players/ac6d027e/Angel-Vivar-Dorado,Angel-Vivar-Dorado,c6d027e,es ESP,MF,Valladolid
-2553.0,Alexis,/en/players/b9efd503/Alexis,Alexi,b9efd503,es ESP,DF,Valladolid
-2554.0,Diego Camacho,/en/players/ba4b3cf3/Diego-Camacho,Diego-Camacho,ba4b3cf3,es ESP,MF,Valladolid
-2555.0,Bartholomew Ogbeche,/en/players/616cc0f7/Bartholomew-Ogbeche,Bartholomew-Ogbech,616cc0f7,ng NGA,FW,Valladolid
-2556.0,Marcos Aguirre,/en/players/fd6c5e71/Marcos-Aguirre,Marcos-Agui,fd6c5e71,ar ARG,MF,Valladolid
-2557.0,Kike López,/en/players/8a29a124/Kike-Lopez,Kike-Lopez,8a29a124,es ESP,FW,Valladolid
-2558.0,Henok Goitom,/en/players/c3680236/Henok-Goitom,Henok-Goitom,c3680236,er ERI,FW,Valladolid
-2559.0,Justo Villar,/en/players/af30779d/Justo-Villar,Justo-Vi,f30779d,py PAR,GK,Valladolid
-2560.0,Damián Escudero,/en/players/8c16b37a/Damian-Escudero,Damian-Escudero,8c16b37a,ar ARG,MF,Valladolid
-2561.0,Pedro Oldoni,/en/players/079b5ab6/Pedro-Oldoni,Pedro-Oldoni,079b5ab6,br BRA,FW,Valladolid
-2562.0,Jesús Rueda,/en/players/9d8ba8ec/Jesus-Rueda,Jesus-Rued,9d8ba8ec,es ESP,"DF,MF",Valladolid
-2563.0,Nivaldo,/en/players/f5d83616/Nivaldo,Nivaldo,f5d83616,br BRA,DF,Valladolid
-2564.0,Nauzet Alemán,/en/players/4cf8242b/Nauzet-Aleman,Nauzet-Alem,4cf8242b,es ESP,MF,Valladolid
-2565.0,Manucho,/en/players/89b18034/Manucho,Manucho,89b18034,ao ANG,FW,Valladolid
-2566.0,César Arzo,/en/players/0ea37b10/Cesar-Arzo,Cesar-Arzo,0ea37b10,es ESP,"DF,MF",Valladolid
-2567.0,Pelé,/en/players/54bf0bc3/Pele,P,54bf0bc3,pt POR,MF,Valladolid
-2568.0,Henrique Sereno,/en/players/70b198d8/Henrique-Sereno,Henrique-Sereno,70b198d8,pt POR,DF,Valladolid
-2569.0,Marquitos,/en/players/b5e3874c/Marquitos,Marquito,b5e3874c,es ESP,"FW,MF",Valladolid
-2570.0,Carlos Lázaro,/en/players/785894a8/Carlos-Lazaro,Carlos-Lazaro,785894a8,es ESP,MF,Valladolid
-2571.0,Sergio García,/en/players/caf2dc95/Sergio-Garcia,Sergio-Garci,caf2dc95,es ESP,FW,Valladolid
-2572.0,Carlos Peña,/en/players/26a03602/Carlos-Pena,Carlos-P,26a03602,es ESP,DF,Valladolid
-2573.0,Jorge Alonso,/en/players/2c619fad/Jorge-Alonso,Jorge-Alonso,2c619fad,es ESP,MF,Valladolid
-2574.0,Mehdi Nafti,/en/players/93e31883/Mehdi-Nafti,Mehdi-Nafti,93e31883,tn TUN,MF,Valladolid
-2575.0,Javi Jiménez,/en/players/9fe99e45/Javi-Jimenez,Javi-Jimenez,9fe99e45,es ESP,GK,Valladolid
-2576.0,Jofre,/en/players/90bf887c/Jofre,Jof,90bf887c,es ESP,MF,Valladolid
-2577.0,Antonio Calle,/en/players/3d3d63b9/Antonio-Calle,Antonio-C,3d3d63b9,es ESP,FW,Valladolid
-2578.0,Sergio Matabuena,/en/players/93faf8c3/Sergio-Matabuena,Sergio-Matabu,93faf8c3,es ESP,MF,Valladolid
-2579.0,Fábio Faria,/en/players/08d53bff/Fabio-Faria,Fabio-Fari,08d53bff,pt POR,DF,Valladolid
-2580.0,Bacari,/en/players/318ad79c/Bacari,Bacari,318ad79c,gm GAM,FW,Valladolid
-2581.0,José Salcedo,/en/players/f21b3f06/Jose-Salcedo,Jose-Salcedo,f21b3f06,es ESP,GK,Valladolid
-2582.0,﻿Jaime,/en/players/d7f052c3/Jaime,Jaim,d7f052c3,es ESP,GK,Valladolid
-2583.0,Víctor Pérez,/en/players/5918a484/Victor-Perez,Victor-Perez,5918a484,es ESP,MF,Valladolid
-2584.0,Tekio,/en/players/4ec9c7a9/Tekio,Tekio,4ec9c7a9,es ESP,DF,Valladolid
-2585.0,Víctor Mongil,/en/players/dc9068d6/Victor-Mongil,Victor-Mongi,dc9068d6,es ESP,DF,Valladolid
-2586.0,Dani Hernández,/en/players/ba02295e/Dani-Hernandez,Dani-Hernandez,ba02295e,ve VEN,GK,Valladolid
-2587.0,Felipe Alfonso,/en/players/82d1a0c8/Felipe-Alfonso,Felipe-Alfonso,82d1a0c8,es ESP,DF,Valladolid
-2588.0,Lassana Camará,/en/players/56ad26a6/Lassana-Camara,Lassana-Cam,56ad26a6,gw GNB,MF,Valladolid
-2589.0,Javi Navas,/en/players/b8a12de6/Javi-Navas,Javi-Nav,b8a12de6,es ESP,MF,Valladolid
-2590.0,﻿Antonio Rukavina,/en/players/e12d7851/Antonio-Rukavina,Antonio-Rukavi,12d7851,rs SRB,DF,Valladolid
-2591.0,Omar Ramos,/en/players/0657888a/Omar-Ramos,Omar-Ramo,0657888a,es ESP,"FW,MF",Valladolid
-2592.0,Patrick Ebert,/en/players/92d24319/Patrick-Ebert,Patrick-Ebert,92d24319,de GER,"FW,MF",Valladolid
-2593.0,Daniel Larsson,/en/players/43833b31/Daniel-Larsson,Daniel-Larsso,43833b31,se SWE,"FW,MF",Valladolid
-2594.0,Lluís Sastre,/en/players/5f186f5c/Lluis-Sastre,Lluis-Sast,5f186f5c,es ESP,MF,Valladolid
-2595.0,Valdet Rama,/en/players/00b159ff/Valdet-Rama,Valdet-Ram,00b159ff,al ALB,"FW,MF",Valladolid
-2596.0,Juan Neira,/en/players/12d25112/Juan-Neira,Juan-Nei,12d25112,ar ARG,"FW,MF",Valladolid
-2597.0,Lolo,/en/players/e7754566/Lolo,Lolo,7754566,es ESP,"FW,MF",Valladolid
-2598.0,Diego Mariño,/en/players/d9235a45/Diego-Marino,Diego-Marino,d9235a45,es ESP,GK,Valladolid
-2599.0,Fausto Rossi,/en/players/79a8fa04/Fausto-Rossi,Fausto-Rossi,79a8fa04,it ITA,MF,Valladolid
-2600.0,Zakarya Bergdich,/en/players/833676b4/Zakarya-Bergdich,Zakarya-Bergdich,833676b4,ma MAR,"DF,MF",Valladolid
-2601.0,Stefan Mitrović,/en/players/e6777e6b/Stefan-Mitrovic,Stefan-Mitrovic,6777e6b,rs SRB,DF,Valladolid
-2602.0,Gilberto García,/en/players/d283458e/Gilberto-Garcia,Gilberto-Garci,d283458e,co COL,"DF,MF",Valladolid
-2603.0,Humberto Osorio,/en/players/72ada906/Humberto-Osorio,Humberto-Osorio,72ada906,co COL,FW,Valladolid
-2604.0,Heinz Barmettler,/en/players/cf153d8e/Heinz-Barmettler,Heinz-Barmett,cf153d8e,do DOM,DF,Valladolid
-2605.0,Zubi,/en/players/fa3d45ba/Zubi,Zubi,fa3d45ba,es ESP,MF,Valladolid
-2606.0,André Leão,/en/players/f22be090/Andre-Leao,Andre-Leao,f22be090,pt POR,MF,Valladolid
-2607.0,Johan Mojica,/en/players/608f2092/Johan-Mojica,Johan-Mojic,608f2092,co COL,"DF,MF",Valladolid
-2608.0,Chus Herrero,/en/players/ac34a4f0/Chus-Herrero,Chus-Herrero,c34a4f0,es ESP,DF,Valladolid
-2609.0,Roger Martí,/en/players/0ae4e09a/Roger-Marti,Roger-Marti,0ae4e09a,es ESP,FW,Valladolid
-2610.0,Hernán Pérez,/en/players/e1cea3f7/Hernan-Perez,Hernan-Perez,1cea3f7,py PAR,"FW,MF",Valladolid
-2611.0,Túlio de Melo,/en/players/a2a9ab91/Tulio-de-Melo,Tulio-de-Melo,2a9ab91,br BRA,FW,Valladolid
-2612.0,Xavier Carmona,/en/players/573653ac/Xavier-Carmona,Xavier-Carmo,573653ac,es ESP,DF,Valladolid
-2613.0,Iván Casado Ortiz,/en/players/e749ad57/Ivan-Casado-Ortiz,Ivan-Casado-Ortiz,749ad57,es ESP,DF,Valladolid
-2614.0,Guille Andrés,/en/players/dbd2e313/Guille-Andres,Guille-And,dbd2e313,es ESP,FW,Valladolid
-2615.0,Jorge Hernández,/en/players/ea618433/Jorge-Hernandez,Jorge-Hernandez,618433,es ESP,MF,Valladolid
-2616.0,Julio Iricibar,/en/players/c1d01bd5/Julio-Iricibar,Julio-Iricib,c1d01bd5,es ESP,GK,Valladolid
-2617.0,Juanpe,/en/players/1633fc8a/Juanpe,Ju,1633fc8a,es ESP,DF,Valladolid
-2618.0,Marcelo Silva,/en/players/b9596515/Marcelo-Silva,Marcelo-Silv,b9596515,uy URU,DF,Valladolid
-2619.0,Javi Moyano,/en/players/933e8c8a/Javi-Moyano,Javi-Moyano,933e8c8a,es ESP,DF,Valladolid
-2620.0,Pedro Tiba,/en/players/2e594b84/Pedro-Tiba,Pedro-Tib,2e594b84,pt POR,"FW,MF",Valladolid
-2621.0,Nikolaos Karabelas,/en/players/a41c6410/Nikolaos-Karabelas,Nikolaos-Karab,41c6410,gr GRE,DF,Valladolid
-2622.0,Guzmán Casaseca,/en/players/f05d4004/Guzman-Casaseca,Guzman-Casasec,f05d4004,es ESP,MF,Valladolid
-2623.0,Diego Rubio,/en/players/3f082234/Diego-Rubio,Diego-Rubio,3f082234,cl CHI,"FW,MF",Valladolid
-2624.0,Ángel,/en/players/4a7078f9/Angel,Ang,4a7078f9,es ESP,"DF,MF",Valladolid
-2625.0,Bruno Varela,/en/players/2bea06e0/Bruno-Varela,Bruno-V,2bea06e0,pt POR,GK,Valladolid
-2626.0,Anuar,/en/players/c93231dc/Anuar,Anu,c93231dc,ma MAR,MF,Valladolid
-2627.0,Erik Moreno,/en/players/918e1545/Erik-Moreno,Erik-Moreno,918e1545,co COL,FW,Valladolid
-2628.0,Dani Espinar,/en/players/4896d481/Dani-Espinar,Dani-Espi,4896d481,es ESP,MF,Valladolid
-2629.0,Óscar Font,/en/players/dd6990fd/Oscar-Font,Oscar-Font,dd6990fd,es ESP,DF,Valladolid
-2630.0,Dani Hernández,/en/players/d4d7e40f/Dani-Hernandez,Dani-Hernandez,d4d7e40f,es ESP,GK,Valladolid
-2631.0,Cristian Moreno,/en/players/eae30a57/Cristian-Moreno,Cristian-Moreno,30a57,es ESP,DF,Valladolid
-2632.0,Rody Zambrano,/en/players/32015774/Rody-Zambrano,Rody-Zambrano,32015774,ec ECU,"DF,MF",Valladolid
-2633.0,Luciano Balbi,/en/players/8b93b1b4/Luciano-Balbi,Luciano-Balbi,8b93b1b4,ar ARG,DF,Valladolid
-2634.0,Isaac Becerra,/en/players/bee5d245/Isaac-Becerra,Isaac-Bec,bee5d245,es ESP,GK,Valladolid
-2635.0,Álex Pérez,/en/players/8dac6f70/Alex-Perez,Alex-Perez,8dac6f70,es ESP,DF,Valladolid
-2636.0,Alberto Guitián,/en/players/0eaaa3b0/Alberto-Guitian,Alberto-Guiti,0eaaa3b0,es ESP,"DF,MF",Valladolid
-2637.0,Jaime Mata,/en/players/02319ad7/Jaime-Mata,Jaime-Mat,02319ad7,es ESP,"FW,MF",Valladolid
-2638.0,Igor Lichnovsky,/en/players/3947fa95/Igor-Lichnovsky,Igor-Lichnovsk,3947fa95,cl CHI,DF,Valladolid
-2639.0,Pau Torres,/en/players/2912fea1/Pau-Torres,Pau-To,2912fea1,es ESP,GK,Valladolid
-2640.0,Cristian Espinoza,/en/players/9c794a80/Cristian-Espinoza,Cristian-Espinoz,9c794a80,ar ARG,MF,Valladolid
-2641.0,Iván Salvador,/en/players/adafba16/Ivan-Salvador,Ivan-Salvado,dafba16,gq EQG,"MF,FW",Valladolid
-2642.0,Sergio Marcos,/en/players/e331be23/Sergio-Marcos,Sergio-Marco,331be23,es ESP,MF,Valladolid
-2643.0,Markel Etxeberria,/en/players/da688437/Markel-Etxeberria,Markel-Etxeberri,da688437,es ESP,DF,Valladolid
-2644.0,Renzo Zambrano,/en/players/526bf96c/Renzo-Zambrano,Renzo-Zambrano,526bf96c,ve VEN,MF,Valladolid
-2645.0,Antoñito,/en/players/dbe519cf/Antonito,Antonito,dbe519cf,es ESP,DF,Valladolid
-2646.0,Óscar Plano,/en/players/7c388b20/Oscar-Plano,Oscar-Plano,7c388b20,es ESP,MF,Valladolid
-2647.0,Fernando Calero,/en/players/41b3069f/Fernando-Calero,Fernando-Calero,41b3069f,es ESP,DF,Valladolid
-2648.0,Toni Villa,/en/players/636eae97/Toni-Villa,Toni-Vi,636eae97,es ESP,MF,Valladolid
-2649.0,Nacho,/en/players/e29d1111/Nacho,Nacho,29d1111,es ESP,DF,Valladolid
-2650.0,Giannis Gianniotas,/en/players/fe2d2289/Giannis-Gianniotas,Giannis-Gianniot,fe2d2289,gr GRE,MF,Valladolid
-2651.0,Borja Herrera,/en/players/4f6d9bcd/Borja-Herrera,Borja-H,4f6d9bcd,es ESP,DF,Valladolid
-2652.0,Toni Martínez,/en/players/f3945e07/Toni-Martinez,Toni-Martinez,f3945e07,es ESP,FW,Valladolid
-2653.0,Chris Ramos,/en/players/44e07fac/Chris-Ramos,Chris-Ramo,44e07fac,es ESP,FW,Valladolid
-2654.0,David Mayoral,/en/players/481b83fc/David-Mayoral,David-Mayo,481b83fc,es ESP,MF,Valladolid
-2655.0,Luis Javier Suárez,/en/players/eeba07f8/Luis-Javier-Suarez,Luis-Javier-Suarez,ba07f8,co COL,FW,Valladolid
-2656.0,Sulayman Marreh,/en/players/44b49036/Sulayman-Marreh,Sulayman-Marreh,44b49036,gm GAM,"DF,MF",Valladolid
-2657.0,Lukas Rotpuller,/en/players/8498e43e/Lukas-Rotpuller,Lukas-Rotpu,8498e43e,at AUT,DF,Valladolid
-2658.0,Rubén Alcaraz,/en/players/036bba5f/Ruben-Alcaraz,Ruben-Alcaraz,036bba5f,es ESP,MF,Valladolid
-2659.0,Enes Ünal,/en/players/f8eca1b6/Enes-Unal,Enes-U,f8eca1b6,tr TUR,FW,Valladolid
-2660.0,Sergi Guardiola,/en/players/32974271/Sergi-Guardiola,Sergi-Guardio,32974271,es ESP,FW,Valladolid
-2661.0,Joaquín Fernández,/en/players/b86a64b2/Joaquin-Fernandez,Joaquin-Fernandez,b86a64b2,es ESP,"DF,MF",Valladolid
-2662.0,Waldo Rubio,/en/players/ccaa5728/Waldo-Rubio,Waldo-Rubio,ccaa5728,es ESP,MF,Valladolid
-2663.0,Daniele Verde,/en/players/d3298c99/Daniele-Verde,Daniele-Verd,d3298c99,it ITA,"MF,FW",Valladolid
-2664.0,Stiven Plaza,/en/players/f4b7f2ec/Stiven-Plaza,Stiven-Plaz,f4b7f2ec,ec ECU,"MF,FW",Valladolid
-2665.0,Miguel,/en/players/6763373d/Miguel,Migu,6763373d,es ESP,FW,Valladolid
-2666.0,Hacen,/en/players/7c689c48/Hacen,Hac,7c689c48,mr MTN,MF,Valladolid
-2667.0,Javier Aparicio,/en/players/659d1792/Javier-Aparicio,Javier-Aparicio,659d1792,es ESP,DF,Valladolid
-2668.0,Samu Pérez,/en/players/aae17c81/Samu-Perez,Samu-Perez,17c81,es ESP,GK,Valladolid
-2669.0,Mohammed Salisu,/en/players/0b33f6ad/Mohammed-Salisu,Mohammed-Salisu,0b33f6ad,gh GHA,DF,Valladolid
-2670.0,Fede San Emeterio,/en/players/efecd633/Fede-San-Emeterio,Fede-San-Emeterio,fecd633,es ESP,MF,Valladolid
-2671.0,Pedro Porro,/en/players/27d0a506/Pedro-Porro,Pedro-Porro,27d0a506,es ESP,"DF,MF",Valladolid
-2672.0,Federico Barba,/en/players/c010b898/Federico-Barba,Federico-Barb,c010b898,it ITA,DF,Valladolid
-2673.0,Hatem Ben Arfa,/en/players/74dc806c/Hatem-Ben-Arfa,Hatem-Ben-Arf,74dc806c,fr FRA,"MF,FW",Valladolid
-2674.0,Jorge de Frutos,/en/players/38ce1150/Jorge-de-Frutos,Jorge-de-Fruto,38ce1150,es ESP,"MF,DF",Valladolid
-2675.0,Shon Weissman,/en/players/379dc075/Shon-Weissman,Shon-Weissm,379dc075,il ISR,FW,Valladolid
-2676.0,Jawad El Yamiq,/en/players/f6f6b6e8/Jawad-El-Yamiq,Jawad-El-Yamiq,f6f6b6e8,ma MAR,DF,Valladolid
-2677.0,Luis Pérez,/en/players/b7c04927/Luis-Perez,Luis-Perez,b7c04927,es ESP,DF,Valladolid
-2678.0,Saidy Janko,/en/players/689c9cf4/Saidy-Janko,Saidy-Janko,689c9cf4,gm GAM,DF,Valladolid
-2679.0,Kike Pérez,/en/players/237a3851/Kike-Perez,Kike-Perez,237a3851,es ESP,MF,Valladolid
-2680.0,Jota,/en/players/2b65fe46/Jota,Jot,2b65fe46,pt POR,"MF,FW",Valladolid
-2681.0,Miguel Ángel Rubio,/en/players/56cafd0a/Miguel-Angel-Rubio,Miguel-Angel-Rubio,56cafd0a,es ESP,DF,Valladolid
-2682.0,Kuki,/en/players/2b6dc4d7/Kuki,Kuki,2b6dc4d7,es ESP,MF,Valladolid
-2683.0,Oriol Rey,/en/players/e8a0d2f7/Oriol-Rey,Oriol-R,8a0d2f7,es ESP,MF,Valladolid
-2684.0,Sergio Benito,/en/players/608bcb88/Sergio-Benito,Sergio-Benito,608bcb88,es ESP,FW,Valladolid
-2685.0,Fran Álvarez,/en/players/f0101a48/Fran-Alvarez,Fran-Alvarez,f0101a48,es ESP,MF,Valladolid
-2686.0,Lucas Freitas,/en/players/a92be6c1/Lucas-Freitas,Lucas-Freit,92be6c1,br BRA,DF,Valladolid
-2687.0,Sergio López,/en/players/939f02ec/Sergio-Lopez,Sergio-Lopez,939f02ec,es ESP,DF,Valladolid
-2688.0,Mohamed Moukhliss ,/en/players/347aa693/Mohamed-Moukhliss,Mohamed-Moukhli,347aa693,es ESP,MF,Valladolid
-2689.0,Ignasi Vilarrasa,/en/players/b261ed19/Ignasi-Vilarrasa,Ignasi-Vi,b261ed19,es ESP,DF,Valladolid
-2690.0,Álvaro Aguado,/en/players/014aa7bd/Alvaro-Aguado,Alvaro-Aguado,014aa7bd,es ESP,MF,Valladolid
-2691.0,Gonzalo Plata,/en/players/54bcdeb0/Gonzalo-Plata,Gonzalo-Plat,54bcdeb0,ec ECU,"MF,FW",Valladolid
-2692.0,Iván Sánchez,/en/players/70107d4d/Ivan-Sanchez,Ivan-Sanchez,70107d4d,es ESP,"MF,FW",Valladolid
-2693.0,Diogo Queirós,/en/players/27ea1df6/Diogo-Queiros,Diogo-Queiro,27ea1df6,pt POR,DF,Valladolid
-2694.0,Josema,/en/players/ed3f5f4c/Josema,Josem,d3f5f4c,es ESP,DF,Valladolid
-2695.0,Iván Fresneda,/en/players/29d0f2ac/Ivan-Fresneda,Ivan-Fresned,29d0f2ac,es ESP,DF,Valladolid
-2696.0,Víctor Narro,/en/players/43ad8bbc/Victor-Narro,Victor-Narro,43ad8bbc,es ESP,FW,Valladolid
-2697.0,Slavy,/en/players/ad2ce3a1/Slavy,Slav,d2ce3a1,bg BUL,FW,Valladolid
-2698.0,Samuel Casado,/en/players/1e457af5/Samuel-Casado,Samuel-Casado,1e457af5,es ESP,GK,Valladolid
-2699.0,Dali,/en/players/df96cb8a/Dali,Dali,df96cb8a,es ESP,FW,Valladolid
-2700.0,Sergio Ortuño,/en/players/6b992837/Sergio-Ortuno,Sergio-Ortuno,6b992837,es ESP,MF,Valladolid
-2701.0,Kike Ríos,/en/players/cfcc386e/Kike-Rios,Kike-Rio,cfcc386e,es ESP,DF,Valladolid
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+3074.0,﻿Albano Bizzarri,/en/players/32b9b5fa/Albano-Bizzarri,Albano-Bizzarri,32b9b5fa,ar ARG,GK,Valladolid
+3075.0,Gonzalo Colsa,/en/players/6fa12b44/Gonzalo-Colsa,Gonzalo-Co,6fa12b44,es ESP,MF,Valladolid
+3076.0,Javier Torres Gómez,/en/players/677aa169/Javier-Torres-Gomez,Javier-Torres-Gomez,677aa169,es ESP,DF,Valladolid
+3077.0,Fernando Sales,/en/players/24486536/Fernando-Sales,Fernando-S,24486536,es ESP,MF,Valladolid
+3078.0,Juan Manuel Peña,/en/players/0f7909da/Juan-Manuel-Pena,Juan-Manuel-P,0f7909da,bo BOL,DF,Valladolid
+3079.0,Alberto Marcos Rey,/en/players/7fd2179f/Alberto-Marcos-Rey,Alberto-Marcos-R,7fd2179f,es ESP,DF,Valladolid
+3080.0,David Aganzo,/en/players/97e3ba49/David-Aganzo,David-Aganzo,97e3ba49,es ESP,FW,Valladolid
+3081.0,Óscar,/en/players/627650df/Oscar,Osc,627650df,es ESP,MF,Valladolid
+3082.0,Gaspar,/en/players/75e5329b/Gaspar,G,75e5329b,es ESP,DF,Valladolid
+3083.0,Nicolás Olivera,/en/players/691fd00c/Nicolas-Olivera,Nicolas-Oliv,691fd00c,uy URU,"FW,MF",Valladolid
+3084.0,Mario,/en/players/e6ede7f4/Mario,Mario,6ede7f4,es ESP,DF,Valladolid
+3085.0,Óscar Sánchez,/en/players/fe4c5d4e/Oscar-Sanchez,Oscar-Sanchez,fe4c5d4e,es ESP,DF,Valladolid
+3086.0,José Luis Caminero,/en/players/f9199e3b/Jose-Luis-Caminero,Jose-Luis-Caminero,f9199e3b,es ESP,"FW,MF",Valladolid
+3087.0,Chema,/en/players/6c53d111/Chema,Chem,6c53d111,es ESP,MF,Valladolid
+3088.0,Jonathan Martín,/en/players/79e046e0/Jonathan-Martin,Jonathan-Marti,79e046e0,es ESP,DF,Valladolid
+3089.0,Sergio Pachón,/en/players/ae85fca9/Sergio-Pachon,Sergio-Pacho,85fca9,es ESP,FW,Valladolid
+3090.0,Jesús Sánchez,/en/players/a92bade1/Jesus-Sanchez,Jesus-Sanchez,92bade1,es ESP,MF,Valladolid
+3091.0,Javier Muñoz,/en/players/492e1cd3/Javier-Munoz,Javier-Munoz,492e1cd3,ar ARG,DF,Valladolid
+3092.0,Dragan Ćirić,/en/players/680a7e96/Dragan-Ciric,Dragan-Ciric,680a7e96,rs SRB,MF,Valladolid
+3093.0,Antonio López,/en/players/1fdd5ff7/Antonio-Lopez,Antonio-Lopez,1fdd5ff7,es ESP,MF,Valladolid
+3094.0,Pablo Ricchetti,/en/players/69952e6a/Pablo-Ricchetti,Pablo-Ricchetti,69952e6a,ar ARG,"DF,MF",Valladolid
+3095.0,David Sousa,/en/players/292a8dbe/David-Sousa,David-Sou,292a8dbe,es ESP,MF,Valladolid
+3096.0,Xavier Moré,/en/players/3557d107/Xavier-More,Xavier-Mo,3557d107,es ESP,"FW,MF",Valladolid
+3097.0,José Luis Santamaría,/en/players/495f0364/Jose-Luis-Santamaria,Jose-Luis-Santamari,495f0364,es ESP,DF,Valladolid
+3098.0,Álvaro Antón,/en/players/90041d71/Alvaro-Anton,Alvaro-Anto,90041d71,es ESP,MF,Valladolid
+3099.0,Javier Jiménez,/en/players/eba83479/Javier-Jimenez,Javier-Jimenez,ba83479,es ESP,MF,Valladolid
+3100.0,Agustín Villar,/en/players/108ca6ae/Agustin-Villar,Agustin-Vi,108ca6ae,es ESP,MF,Valladolid
+3101.0,Júlio César,/en/players/754ac76b/Julio-Cesar,Julio-C,754ac76b,br BRA,DF,Valladolid
+3102.0,Roberto Losada,/en/players/547ccdd5/Roberto-Losada,Roberto-Losad,547ccdd5,es ESP,FW,Valladolid
+3103.0,Ariza Makukula,/en/players/62ce8bd7/Ariza-Makukula,Ariza-Makuku,62ce8bd7,pt POR,FW,Valladolid
+3104.0,Víctor Zapata,/en/players/889a705f/Victor-Zapata,Victor-Zapat,889a705f,ar ARG,MF,Valladolid
+3105.0,Pablo Paz,/en/players/3eaddf7e/Pablo-Paz,Pablo-Paz,3eaddf7e,ar ARG,DF,Valladolid
+3106.0,Diego Figueredo,/en/players/5848acb3/Diego-Figueredo,Diego-Figueredo,5848acb3,py PAR,MF,Valladolid
+3107.0,Rafa,/en/players/0b89dbcc/Rafa,Raf,0b89dbcc,es ESP,"DF,MF",Valladolid
+3108.0,Martín Cardetti,/en/players/e4fc03ad/Martin-Cardetti,Martin-Cardetti,4fc03ad,ar ARG,FW,Valladolid
+3109.0,Catriel Orcellet,/en/players/41f308e4/Catriel-Orcellet,Catriel-Orcellet,41f308e4,ar ARG,GK,Valladolid
+3110.0,José Manuel Mateo,/en/players/d7458f0a/Jose-Manuel-Mateo,Jose-Manuel-Mateo,d7458f0a,es ESP,DF,Valladolid
+3111.0,Julián Robles,/en/players/a9b429a7/Julian-Robles,Julian-Rob,9b429a7,es ESP,MF,Valladolid
+3112.0,Víctor,/en/players/00979380/Victor,Victo,00979380,es ESP,FW,Valladolid
+3113.0,Diego Mateo,/en/players/6ff0efaa/Diego-Mateo,Diego-Mateo,6ff0efaa,ar ARG,"DF,MF",Valladolid
+3114.0,Germán Hornos,/en/players/232366ec/German-Hornos,German-Horno,232366ec,uy URU,FW,Valladolid
+3115.0,Jairo Castillo,/en/players/01c1b0cf/Jairo-Castillo,Jairo-Castillo,01c1b0cf,co COL,FW,Valladolid
+3116.0,Iván Zarandona,/en/players/cf38c51d/Ivan-Zarandona,Ivan-Zarando,cf38c51d,gq EQG,MF,Valladolid
+3117.0,Óscar,/en/players/87631dde/Oscar,Osc,87631dde,es ESP,DF,Valladolid
+3118.0,Iñaki Bea Jauregi,/en/players/bbcd4ab0/Inaki-Bea-Jauregi,Inaki-Bea-Jauregi,bbcd4ab0,es ESP,DF,Valladolid
+3119.0,Francisco Lledó,/en/players/4401f0c3/Francisco-Lledo,Francisco-Lledo,4401f0c3,es ESP,GK,Valladolid
+3120.0,Teodoro García,/en/players/28c7dc00/Teodoro-Garcia,Teodoro-Garci,28c7dc00,es ESP,MF,Valladolid
+3121.0,Angel Martínez,/en/players/c3a9e553/Angel-Martinez,Angel-Martinez,c3a9e553,py PAR,DF,Valladolid
+3122.0,Joseba Llorente,/en/players/ddb98947/Joseba-Llorente,Joseba-Llorent,ddb98947,es ESP,FW,Valladolid
+3123.0,Javier Baraja,/en/players/6514cd55/Javier-Baraja,Javier-Baraj,6514cd55,es ESP,"DF,MF",Valladolid
+3124.0,Iván Ramis,/en/players/d2be40f2/Ivan-Ramis,Ivan-Rami,d2be40f2,es ESP,DF,Valladolid
+3125.0,José Luis Capdevila,/en/players/dde616c5/Jose-Luis-Capdevila,Jose-Luis-Capdevi,dde616c5,es ESP,MF,Valladolid
+3126.0,O.J. Morales,/en/players/64e731cd/OJ-Morales,OJ-Mo,64e731cd,uy URU,MF,Valladolid
+3127.0,Iván Hernández,/en/players/09a1ed52/Ivan-Hernandez,Ivan-Hernandez,09a1ed52,es ESP,DF,Valladolid
+3128.0,Tote,/en/players/e3e74421/Tote,Tot,3e74421,es ESP,"FW,MF",Valladolid
+3129.0,Pedro López Muñoz,/en/players/a60823a4/Pedro-Lopez-Munoz,Pedro-Lopez-Munoz,60823a4,es ESP,DF,Valladolid
+3130.0,Aritz Aduriz,/en/players/293211e1/Aritz-Aduriz,Aritz-Aduriz,293211e1,es ESP,FW,Valladolid
+3131.0,Marcelo Broli,/en/players/383cc69a/Marcelo-Broli,Marcelo-Broli,383cc69a,uy URU,MF,Valladolid
+3132.0,Jorge Curbelo,/en/players/2ea7e358/Jorge-Curbelo,Jorge-Curbelo,2ea7e358,uy URU,DF,Valladolid
+3133.0,Pablo Casar,/en/players/aa6c5d2f/Pablo-Casar,Pablo-C,6c5d2f,es ESP,DF,Valladolid
+3134.0,Carlos Carmona,/en/players/d161184f/Carlos-Carmona,Carlos-Carmo,d161184f,es ESP,"FW,MF",Valladolid
+3135.0,Jacobo,/en/players/bb575fe7/Jacobo,Jacobo,bb575fe7,es ESP,GK,Valladolid
+3136.0,Fernando Correa,/en/players/9c2c5331/Fernando-Correa,Fernando-Co,9c2c5331,uy URU,FW,Valladolid
+3137.0,Sisi,/en/players/add7ec92/Sisi,Sisi,dd7ec92,es ESP,"FW,MF",Valladolid
+3138.0,Alberto,/en/players/9335367b/Alberto,Alberto,9335367b,es ESP,GK,Valladolid
+3139.0,Álvaro Rubio,/en/players/149770b8/Alvaro-Rubio,Alvaro-Rubio,149770b8,es ESP,"DF,MF",Valladolid
+3140.0,Borja Fernández,/en/players/9127f9ce/Borja-Fernandez,Borja-Fernandez,9127f9ce,es ESP,MF,Valladolid
+3141.0,Gonzalo Vicente,/en/players/f3c66117/Gonzalo-Vicente,Gonzalo-Vicent,f3c66117,uy URU,DF,Valladolid
+3142.0,José García Calvo,/en/players/c79150ab/Jose-Garcia-Calvo,Jose-Garcia-Calvo,c79150ab,es ESP,DF,Valladolid
+3143.0,Vladimir Manchev,/en/players/005a9b28/Vladimir-Manchev,Vladimir-Manchev,005a9b28,bg BUL,FW,Valladolid
+3144.0,Asier,/en/players/c599392e/Asier,Asi,c599392e,es ESP,MF,Valladolid
+3145.0,José de la Cuesta,/en/players/664cac36/Jose-de-la-Cuesta,Jose-de-la-Cuest,664cac36,co COL,DF,Valladolid
+3146.0,Mario Suárez,/en/players/7106f0a0/Mario-Suarez,Mario-Suarez,7106f0a0,es ESP,MF,Valladolid
+3147.0,Toché,/en/players/64e35e11/Toche,Toch,64e35e11,es ESP,FW,Valladolid
+3148.0,Daniel N'Gom Kome,/en/players/8076455d/Daniel-NGom-Kome,Daniel-NGom-Kom,8076455d,cm CMR,MF,Valladolid
+3149.0,Jonathan Sesma,/en/players/7484a7cc/Jonathan-Sesma,Jonathan-Sesm,7484a7cc,es ESP,"FW,MF",Valladolid
+3150.0,Sergio Asenjo,/en/players/9f0ea33f/Sergio-Asenjo,Sergio-Asenjo,9f0ea33f,es ESP,GK,Valladolid
+3151.0,Ángel Vivar Dorado,/en/players/ac6d027e/Angel-Vivar-Dorado,Angel-Vivar-Dorado,c6d027e,es ESP,MF,Valladolid
+3152.0,Ludovic Butelle,/en/players/26975a92/Ludovic-Butelle,Ludovic-But,26975a92,fr FRA,GK,Valladolid
+3153.0,Daniel Cifuentes,/en/players/488a3de8/Daniel-Cifuentes,Daniel-Cifuent,488a3de8,es ESP,DF,Valladolid
+3154.0,Alexis,/en/players/b9efd503/Alexis,Alexi,b9efd503,es ESP,DF,Valladolid
+3155.0,Diego Camacho,/en/players/ba4b3cf3/Diego-Camacho,Diego-Camacho,ba4b3cf3,es ESP,MF,Valladolid
+3156.0,Bartholomew Ogbeche,/en/players/616cc0f7/Bartholomew-Ogbeche,Bartholomew-Ogbech,616cc0f7,ng NGA,FW,Valladolid
+3157.0,Marcos Aguirre,/en/players/fd6c5e71/Marcos-Aguirre,Marcos-Agui,fd6c5e71,ar ARG,MF,Valladolid
+3158.0,Fabián Estoyanoff,/en/players/7ac6198d/Fabian-Estoyanoff,Fabian-Estoyanoff,7ac6198d,uy URU,"FW,MF",Valladolid
+3159.0,Kike López,/en/players/8a29a124/Kike-Lopez,Kike-Lopez,8a29a124,es ESP,FW,Valladolid
+3160.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,"FW,MF",Valladolid
+3161.0,Luis Prieto Zalbidegoitia,/en/players/8ae9541e/Luis-Prieto-Zalbidegoitia,Luis-Prieto-Zalbidegoiti,8ae9541e,es ESP,DF,Valladolid
+3162.0,Henok Goitom,/en/players/c3680236/Henok-Goitom,Henok-Goitom,c3680236,er ERI,FW,Valladolid
+3163.0,Fabián Canobbio,/en/players/8a010a9b/Fabian-Canobbio,Fabian-Canobbio,8a010a9b,uy URU,MF,Valladolid
+3164.0,Justo Villar,/en/players/af30779d/Justo-Villar,Justo-Vi,f30779d,py PAR,GK,Valladolid
+3165.0,Damián Escudero,/en/players/8c16b37a/Damian-Escudero,Damian-Escudero,8c16b37a,ar ARG,MF,Valladolid
+3166.0,Haris Medunjanin,/en/players/de5d5d41/Haris-Medunjanin,Haris-Medunjani,de5d5d41,ba BIH,MF,Valladolid
+3167.0,Pedro Oldoni,/en/players/079b5ab6/Pedro-Oldoni,Pedro-Oldoni,079b5ab6,br BRA,FW,Valladolid
+3168.0,Jesús Rueda,/en/players/9d8ba8ec/Jesus-Rueda,Jesus-Rued,9d8ba8ec,es ESP,"DF,MF",Valladolid
+3169.0,﻿Diego Costa,/en/players/a190d597/Diego-Costa,Diego-Cost,190d597,es ESP,FW,Valladolid
+3170.0,Nivaldo,/en/players/f5d83616/Nivaldo,Nivaldo,f5d83616,br BRA,DF,Valladolid
+3171.0,Nauzet Alemán,/en/players/4cf8242b/Nauzet-Aleman,Nauzet-Alem,4cf8242b,es ESP,MF,Valladolid
+3172.0,Manucho,/en/players/89b18034/Manucho,Manucho,89b18034,ao ANG,FW,Valladolid
+3173.0,César Arzo,/en/players/0ea37b10/Cesar-Arzo,Cesar-Arzo,0ea37b10,es ESP,"DF,MF",Valladolid
+3174.0,Pelé,/en/players/54bf0bc3/Pele,P,54bf0bc3,pt POR,MF,Valladolid
+3175.0,Antonio Barragán,/en/players/487d9b09/Antonio-Barragan,Antonio-Barrag,487d9b09,es ESP,"DF,MF",Valladolid
+3176.0,Asier del Horno,/en/players/eb525f4a/Asier-del-Horno,Asier-del-Horno,b525f4a,es ESP,DF,Valladolid
+3177.0,Henrique Sereno,/en/players/70b198d8/Henrique-Sereno,Henrique-Sereno,70b198d8,pt POR,DF,Valladolid
+3178.0,Marquitos,/en/players/b5e3874c/Marquitos,Marquito,b5e3874c,es ESP,"FW,MF",Valladolid
+3179.0,Alberto Bueno,/en/players/9b878773/Alberto-Bueno,Alberto-Bueno,9b878773,es ESP,"FW,MF",Valladolid
+3180.0,Carlos Lázaro,/en/players/785894a8/Carlos-Lazaro,Carlos-Lazaro,785894a8,es ESP,MF,Valladolid
+3181.0,Keko,/en/players/1512328c/Keko,Keko,1512328c,es ESP,"FW,MF",Valladolid
+3182.0,Héctor Font,/en/players/9982593d/Hector-Font,Hector-Font,9982593d,es ESP,MF,Valladolid
+3183.0,Yuri Berchiche,/en/players/b6e50615/Yuri-Berchiche,Yuri-Berchich,b6e50615,es ESP,DF,Valladolid
+3184.0,Fabricio,/en/players/af245161/Fabricio,Fabricio,f245161,es ESP,GK,Valladolid
+3185.0,Raúl Navas,/en/players/ad178594/Raul-Navas,Raul-Nav,d178594,es ESP,DF,Valladolid
+3186.0,Sergio García,/en/players/caf2dc95/Sergio-Garcia,Sergio-Garci,caf2dc95,es ESP,FW,Valladolid
+3187.0,﻿Javi Guerra,/en/players/aa386464/Javi-Guerra,Javi-Gu,386464,es ESP,FW,Valladolid
+3188.0,Carlos Peña,/en/players/26a03602/Carlos-Pena,Carlos-P,26a03602,es ESP,DF,Valladolid
+3189.0,Jordi,/en/players/744a8a7c/Jordi,Jordi,744a8a7c,es ESP,DF,Valladolid
+3190.0,Marc Valiente,/en/players/fd333066/Marc-Valiente,Marc-Valient,fd333066,es ESP,DF,Valladolid
+3191.0,Jorge Alonso,/en/players/2c619fad/Jorge-Alonso,Jorge-Alonso,2c619fad,es ESP,MF,Valladolid
+3192.0,Mehdi Nafti,/en/players/93e31883/Mehdi-Nafti,Mehdi-Nafti,93e31883,tn TUN,MF,Valladolid
+3193.0,Javi Jiménez,/en/players/9fe99e45/Javi-Jimenez,Javi-Jimenez,9fe99e45,es ESP,GK,Valladolid
+3194.0,Juanito,/en/players/3a6a5b63/Juanito,Juanito,3a6a5b63,es ESP,DF,Valladolid
+3195.0,Jofre,/en/players/90bf887c/Jofre,Jof,90bf887c,es ESP,MF,Valladolid
+3196.0,Antonio Calle,/en/players/3d3d63b9/Antonio-Calle,Antonio-C,3d3d63b9,es ESP,FW,Valladolid
+3197.0,Sergio Matabuena,/en/players/93faf8c3/Sergio-Matabuena,Sergio-Matabu,93faf8c3,es ESP,MF,Valladolid
+3198.0,Fábio Faria,/en/players/08d53bff/Fabio-Faria,Fabio-Fari,08d53bff,pt POR,DF,Valladolid
+3199.0,Alhassane Keita,/en/players/7676df3f/Alhassane-Keita,Alhassane-Keit,7676df3f,gn GUI,FW,Valladolid
+3200.0,Bacari,/en/players/318ad79c/Bacari,Bacari,318ad79c,gm GAM,FW,Valladolid
+3201.0,José Salcedo,/en/players/f21b3f06/Jose-Salcedo,Jose-Salcedo,f21b3f06,es ESP,GK,Valladolid
+3202.0,﻿Jaime,/en/players/d7f052c3/Jaime,Jaim,d7f052c3,es ESP,GK,Valladolid
+3203.0,Víctor Pérez,/en/players/5918a484/Victor-Perez,Victor-Perez,5918a484,es ESP,MF,Valladolid
+3204.0,Mikel Balenziaga,/en/players/1fe67e86/Mikel-Balenziaga,Mikel-Balenziag,1fe67e86,es ESP,DF,Valladolid
+3205.0,Tekio,/en/players/4ec9c7a9/Tekio,Tekio,4ec9c7a9,es ESP,DF,Valladolid
+3206.0,Víctor Mongil,/en/players/dc9068d6/Victor-Mongil,Victor-Mongi,dc9068d6,es ESP,DF,Valladolid
+3207.0,Dani Hernández,/en/players/ba02295e/Dani-Hernandez,Dani-Hernandez,ba02295e,ve VEN,GK,Valladolid
+3208.0,Felipe Alfonso,/en/players/82d1a0c8/Felipe-Alfonso,Felipe-Alfonso,82d1a0c8,es ESP,DF,Valladolid
+3209.0,Lassana Camará,/en/players/56ad26a6/Lassana-Camara,Lassana-Cam,56ad26a6,gw GNB,MF,Valladolid
+3210.0,Javi Navas,/en/players/b8a12de6/Javi-Navas,Javi-Nav,b8a12de6,es ESP,MF,Valladolid
+3211.0,Dani Aquino,/en/players/060a66fb/Dani-Aquino,Dani-Aquino,060a66fb,es ESP,"FW,MF",Valladolid
+3212.0,﻿Antonio Rukavina,/en/players/e12d7851/Antonio-Rukavina,Antonio-Rukavi,12d7851,rs SRB,DF,Valladolid
+3213.0,Omar Ramos,/en/players/0657888a/Omar-Ramos,Omar-Ramo,0657888a,es ESP,"FW,MF",Valladolid
+3214.0,Patrick Ebert,/en/players/92d24319/Patrick-Ebert,Patrick-Ebert,92d24319,de GER,"FW,MF",Valladolid
+3215.0,Daniel Larsson,/en/players/43833b31/Daniel-Larsson,Daniel-Larsso,43833b31,se SWE,"FW,MF",Valladolid
+3216.0,Lluís Sastre,/en/players/5f186f5c/Lluis-Sastre,Lluis-Sast,5f186f5c,es ESP,MF,Valladolid
+3217.0,Valdet Rama,/en/players/00b159ff/Valdet-Rama,Valdet-Ram,00b159ff,al ALB,"FW,MF",Valladolid
+3218.0,Juan Neira,/en/players/12d25112/Juan-Neira,Juan-Nei,12d25112,ar ARG,"FW,MF",Valladolid
+3219.0,Lolo,/en/players/e7754566/Lolo,Lolo,7754566,es ESP,"FW,MF",Valladolid
+3220.0,Diego Mariño,/en/players/d9235a45/Diego-Marino,Diego-Marino,d9235a45,es ESP,GK,Valladolid
+3221.0,Fausto Rossi,/en/players/79a8fa04/Fausto-Rossi,Fausto-Rossi,79a8fa04,it ITA,MF,Valladolid
+3222.0,Zakarya Bergdich,/en/players/833676b4/Zakarya-Bergdich,Zakarya-Bergdich,833676b4,ma MAR,"DF,MF",Valladolid
+3223.0,Stefan Mitrović,/en/players/e6777e6b/Stefan-Mitrovic,Stefan-Mitrovic,6777e6b,rs SRB,DF,Valladolid
+3224.0,Jeffrén Suárez,/en/players/01e9c0a6/Jeffren-Suarez,Jeffren-Suarez,01e9c0a6,ve VEN,"FW,MF",Valladolid
+3225.0,Gilberto García,/en/players/d283458e/Gilberto-Garcia,Gilberto-Garci,d283458e,co COL,"DF,MF",Valladolid
+3226.0,Humberto Osorio,/en/players/72ada906/Humberto-Osorio,Humberto-Osorio,72ada906,co COL,FW,Valladolid
+3227.0,Heinz Barmettler,/en/players/cf153d8e/Heinz-Barmettler,Heinz-Barmett,cf153d8e,do DOM,DF,Valladolid
+3228.0,Zubi,/en/players/fa3d45ba/Zubi,Zubi,fa3d45ba,es ESP,MF,Valladolid
+3229.0,﻿Javi Varas,/en/players/6db3da37/Javi-Varas,Javi-V,6db3da37,es ESP,GK,Valladolid
+3230.0,Javier Chica,/en/players/991b2cec/Javier-Chica,Javier-Chic,991b2cec,es ESP,DF,Valladolid
+3231.0,André Leão,/en/players/f22be090/Andre-Leao,Andre-Leao,f22be090,pt POR,MF,Valladolid
+3232.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,"DF,MF",Valladolid
+3233.0,Johan Mojica,/en/players/608f2092/Johan-Mojica,Johan-Mojic,608f2092,co COL,"DF,MF",Valladolid
+3234.0,Samuel Llorca,/en/players/9c3d54f0/Samuel-Llorca,Samuel-Llorc,9c3d54f0,es ESP,DF,Valladolid
+3235.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Valladolid
+3236.0,Chus Herrero,/en/players/ac34a4f0/Chus-Herrero,Chus-Herrero,c34a4f0,es ESP,DF,Valladolid
+3237.0,Roger Martí,/en/players/0ae4e09a/Roger-Marti,Roger-Marti,0ae4e09a,es ESP,FW,Valladolid
+3238.0,Hernán Pérez,/en/players/e1cea3f7/Hernan-Perez,Hernan-Perez,1cea3f7,py PAR,"FW,MF",Valladolid
+3239.0,Jonathan Pereira,/en/players/806ab4b6/Jonathan-Pereira,Jonathan-Perei,806ab4b6,es ESP,FW,Valladolid
+3240.0,Túlio de Melo,/en/players/a2a9ab91/Tulio-de-Melo,Tulio-de-Melo,2a9ab91,br BRA,FW,Valladolid
+3241.0,Alejandro Alfaro,/en/players/7c293728/Alejandro-Alfaro,Alejandro-Alfaro,7c293728,es ESP,"FW,MF",Valladolid
+3242.0,Xavier Carmona,/en/players/573653ac/Xavier-Carmona,Xavier-Carmo,573653ac,es ESP,DF,Valladolid
+3243.0,Iván Casado Ortiz,/en/players/e749ad57/Ivan-Casado-Ortiz,Ivan-Casado-Ortiz,749ad57,es ESP,DF,Valladolid
+3244.0,Raúl Fernández,/en/players/6fb59070/Raul-Fernandez,Raul-Fernandez,6fb59070,es ESP,GK,Valladolid
+3245.0,Guille Andrés,/en/players/dbd2e313/Guille-Andres,Guille-And,dbd2e313,es ESP,FW,Valladolid
+3246.0,Jorge Hernández,/en/players/ea618433/Jorge-Hernandez,Jorge-Hernandez,618433,es ESP,MF,Valladolid
+3247.0,Julio Iricibar,/en/players/c1d01bd5/Julio-Iricibar,Julio-Iricib,c1d01bd5,es ESP,GK,Valladolid
+3248.0,Brian Oliván,/en/players/a3e4bf46/Brian-Olivan,Brian-Oliv,3e4bf46,es ESP,DF,Valladolid
+3249.0,﻿Kepa Arrizabalaga,/en/players/28d596a0/Kepa-Arrizabalaga,Kepa-Arrizabalag,28d596a0,es ESP,GK,Valladolid
+3250.0,Juanpe,/en/players/1633fc8a/Juanpe,Ju,1633fc8a,es ESP,DF,Valladolid
+3251.0,Marcelo Silva,/en/players/b9596515/Marcelo-Silva,Marcelo-Silv,b9596515,uy URU,DF,Valladolid
+3252.0,Mario Hermoso,/en/players/555f3a0b/Mario-Hermoso,Mario-Hermoso,555f3a0b,es ESP,DF,Valladolid
+3253.0,Javi Moyano,/en/players/933e8c8a/Javi-Moyano,Javi-Moyano,933e8c8a,es ESP,DF,Valladolid
+3254.0,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9,es ESP,FW,Valladolid
+3255.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Valladolid
+3256.0,Pedro Tiba,/en/players/2e594b84/Pedro-Tiba,Pedro-Tib,2e594b84,pt POR,"FW,MF",Valladolid
+3257.0,Nikolaos Karabelas,/en/players/a41c6410/Nikolaos-Karabelas,Nikolaos-Karab,41c6410,gr GRE,DF,Valladolid
+3258.0,Vincenzo Rennella,/en/players/b3c467b4/Vincenzo-Rennella,Vincenzo-R,b3c467b4,it ITA,FW,Valladolid
+3259.0,Guzmán Casaseca,/en/players/f05d4004/Guzman-Casaseca,Guzman-Casasec,f05d4004,es ESP,MF,Valladolid
+3260.0,Diego Rubio,/en/players/3f082234/Diego-Rubio,Diego-Rubio,3f082234,cl CHI,"FW,MF",Valladolid
+3261.0,Ángel,/en/players/4a7078f9/Angel,Ang,4a7078f9,es ESP,"DF,MF",Valladolid
+3262.0,Bruno Varela,/en/players/2bea06e0/Bruno-Varela,Bruno-V,2bea06e0,pt POR,GK,Valladolid
+3263.0,José Arnaiz,/en/players/46e07328/Jose-Arnaiz,Jose-Arnaiz,46e07328,es ESP,"FW,MF",Valladolid
+3264.0,Caye Quintana,/en/players/42b47114/Caye-Quintana,Caye-Quint,42b47114,es ESP,FW,Valladolid
+3265.0,Anuar,/en/players/c93231dc/Anuar,Anu,c93231dc,ma MAR,MF,Valladolid
+3266.0,Erik Moreno,/en/players/918e1545/Erik-Moreno,Erik-Moreno,918e1545,co COL,FW,Valladolid
+3267.0,Dani Espinar,/en/players/4896d481/Dani-Espinar,Dani-Espi,4896d481,es ESP,MF,Valladolid
+3268.0,Óscar Font,/en/players/dd6990fd/Oscar-Font,Oscar-Font,dd6990fd,es ESP,DF,Valladolid
+3269.0,Dani Hernández,/en/players/d4d7e40f/Dani-Hernandez,Dani-Hernandez,d4d7e40f,es ESP,GK,Valladolid
+3270.0,Cristian Moreno,/en/players/eae30a57/Cristian-Moreno,Cristian-Moreno,30a57,es ESP,DF,Valladolid
+3271.0,Rody Zambrano,/en/players/32015774/Rody-Zambrano,Rody-Zambrano,32015774,ec ECU,"DF,MF",Valladolid
+3272.0,Luciano Balbi,/en/players/8b93b1b4/Luciano-Balbi,Luciano-Balbi,8b93b1b4,ar ARG,DF,Valladolid
+3273.0,Míchel,/en/players/418f8f61/Michel,Mich,418f8f61,es ESP,"MF,FW",Valladolid
+3274.0,Joan Jordán,/en/players/2a0c8ba4/Joan-Jordan,Joan-Jord,2a0c8ba4,es ESP,MF,Valladolid
+3275.0,Isaac Becerra,/en/players/bee5d245/Isaac-Becerra,Isaac-Bec,bee5d245,es ESP,GK,Valladolid
+3276.0,Álex Pérez,/en/players/8dac6f70/Alex-Perez,Alex-Perez,8dac6f70,es ESP,DF,Valladolid
+3277.0,Alberto Guitián,/en/players/0eaaa3b0/Alberto-Guitian,Alberto-Guiti,0eaaa3b0,es ESP,"DF,MF",Valladolid
+3278.0,Álex López,/en/players/30b44896/Alex-Lopez,Alex-Lopez,30b44896,es ESP,MF,Valladolid
+3279.0,Juan Villar,/en/players/c33ee247/Juan-Villar,Juan-Vi,c33ee247,es ESP,"FW,MF",Valladolid
+3280.0,Raúl de Tomás,/en/players/02ef8778/Raul-de-Tomas,Raul-de-Tom,02ef8778,es ESP,FW,Valladolid
+3281.0,Jaime Mata,/en/players/02319ad7/Jaime-Mata,Jaime-Mat,02319ad7,es ESP,"FW,MF",Valladolid
+3282.0,Igor Lichnovsky,/en/players/3947fa95/Igor-Lichnovsky,Igor-Lichnovsk,3947fa95,cl CHI,DF,Valladolid
+3283.0,Pau Torres,/en/players/2912fea1/Pau-Torres,Pau-To,2912fea1,es ESP,GK,Valladolid
+3284.0,Cristian Espinoza,/en/players/9c794a80/Cristian-Espinoza,Cristian-Espinoz,9c794a80,ar ARG,MF,Valladolid
+3285.0,Iván Salvador,/en/players/adafba16/Ivan-Salvador,Ivan-Salvado,dafba16,gq EQG,"MF,FW",Valladolid
+3286.0,Sergio Marcos,/en/players/e331be23/Sergio-Marcos,Sergio-Marco,331be23,es ESP,MF,Valladolid
+3287.0,Dejan Dražić,/en/players/e9457fb9/Dejan-Drazic,Dejan-Drazic,9457fb9,rs SRB,FW,Valladolid
+3288.0,Markel Etxeberria,/en/players/da688437/Markel-Etxeberria,Markel-Etxeberri,da688437,es ESP,DF,Valladolid
+3289.0,Renzo Zambrano,/en/players/526bf96c/Renzo-Zambrano,Renzo-Zambrano,526bf96c,ve VEN,MF,Valladolid
+3290.0,Luismi Quezada,/en/players/53440b3c/Luismi-Quezada,Luismi-Quezad,53440b3c,do DOM,DF,Valladolid
+3291.0,Luismi,/en/players/c2cfbfc9/Luismi,Luismi,c2cfbfc9,es ESP,"DF,MF",Valladolid
+3292.0,﻿Jordi Masip,/en/players/8fae77ea/Jordi-Masip,Jordi-Masi,8fae77ea,es ESP,GK,Valladolid
+3293.0,Antoñito,/en/players/dbe519cf/Antonito,Antonito,dbe519cf,es ESP,DF,Valladolid
+3294.0,Kiko Olivas,/en/players/72b07a9c/Kiko-Olivas,Kiko-Oliv,72b07a9c,es ESP,DF,Valladolid
+3295.0,Óscar Plano,/en/players/7c388b20/Oscar-Plano,Oscar-Plano,7c388b20,es ESP,MF,Valladolid
+3296.0,Pablo Hervías,/en/players/ba5a9545/Pablo-Hervias,Pablo-Hervi,ba5a9545,es ESP,MF,Valladolid
+3297.0,Deivid,/en/players/c1c76662/Deivid,Deivid,c1c76662,es ESP,DF,Valladolid
+3298.0,Fernando Calero,/en/players/41b3069f/Fernando-Calero,Fernando-Calero,41b3069f,es ESP,DF,Valladolid
+3299.0,Toni Villa,/en/players/636eae97/Toni-Villa,Toni-Vi,636eae97,es ESP,MF,Valladolid
+3300.0,Nacho,/en/players/e29d1111/Nacho,Nacho,29d1111,es ESP,DF,Valladolid
+3301.0,Javier Ontiveros,/en/players/a83d8b0c/Javier-Ontiveros,Javier-Ontivero,83d8b0c,es ESP,MF,Valladolid
+3302.0,Giannis Gianniotas,/en/players/fe2d2289/Giannis-Gianniotas,Giannis-Gianniot,fe2d2289,gr GRE,MF,Valladolid
+3303.0,Borja Herrera,/en/players/4f6d9bcd/Borja-Herrera,Borja-H,4f6d9bcd,es ESP,DF,Valladolid
+3304.0,Antonio Cotán,/en/players/d92dd30e/Antonio-Cotan,Antonio-Cot,d92dd30e,es ESP,MF,Valladolid
+3305.0,Toni Martínez,/en/players/f3945e07/Toni-Martinez,Toni-Martinez,f3945e07,es ESP,FW,Valladolid
+3306.0,Chris Ramos,/en/players/44e07fac/Chris-Ramos,Chris-Ramo,44e07fac,es ESP,FW,Valladolid
+3307.0,Asier Villalibre,/en/players/57be54ec/Asier-Villalibre,Asier-Villalib,57be54ec,es ESP,FW,Valladolid
+3308.0,David Mayoral,/en/players/481b83fc/David-Mayoral,David-Mayo,481b83fc,es ESP,MF,Valladolid
+3309.0,Luis Javier Suárez,/en/players/eeba07f8/Luis-Javier-Suarez,Luis-Javier-Suarez,ba07f8,co COL,FW,Valladolid
+3310.0,Sulayman Marreh,/en/players/44b49036/Sulayman-Marreh,Sulayman-Marreh,44b49036,gm GAM,"DF,MF",Valladolid
+3311.0,Lukas Rotpuller,/en/players/8498e43e/Lukas-Rotpuller,Lukas-Rotpu,8498e43e,at AUT,DF,Valladolid
+3312.0,Rubén Alcaraz,/en/players/036bba5f/Ruben-Alcaraz,Ruben-Alcaraz,036bba5f,es ESP,MF,Valladolid
+3313.0,Enes Ünal,/en/players/f8eca1b6/Enes-Unal,Enes-U,f8eca1b6,tr TUR,FW,Valladolid
+3314.0,Sergi Guardiola,/en/players/32974271/Sergi-Guardiola,Sergi-Guardio,32974271,es ESP,FW,Valladolid
+3315.0,Joaquín Fernández,/en/players/b86a64b2/Joaquin-Fernandez,Joaquin-Fernandez,b86a64b2,es ESP,"DF,MF",Valladolid
+3316.0,Leonardo Suárez,/en/players/25c72b36/Leonardo-Suarez,Leonardo-Suarez,25c72b36,ar ARG,"FW,MF",Valladolid
+3317.0,Duje Čop,/en/players/8b0b02c9/Duje-Cop,Duje-Co,8b0b02c9,hr CRO,FW,Valladolid
+3318.0,Waldo Rubio,/en/players/ccaa5728/Waldo-Rubio,Waldo-Rubio,ccaa5728,es ESP,MF,Valladolid
+3319.0,Daniele Verde,/en/players/d3298c99/Daniele-Verde,Daniele-Verd,d3298c99,it ITA,"MF,FW",Valladolid
+3320.0,Moisés Delgado,/en/players/248c409d/Moises-Delgado,Moises-Delgado,248c409d,es ESP,DF,Valladolid
+3321.0,Yoel,/en/players/61bb7498/Yoel,Yo,61bb7498,es ESP,GK,Valladolid
+3322.0,Stiven Plaza,/en/players/f4b7f2ec/Stiven-Plaza,Stiven-Plaz,f4b7f2ec,ec ECU,"MF,FW",Valladolid
+3323.0,Miguel,/en/players/6763373d/Miguel,Migu,6763373d,es ESP,FW,Valladolid
+3324.0,Hacen,/en/players/7c689c48/Hacen,Hac,7c689c48,mr MTN,MF,Valladolid
+3325.0,Javier Aparicio,/en/players/659d1792/Javier-Aparicio,Javier-Aparicio,659d1792,es ESP,DF,Valladolid
+3326.0,Samu Pérez,/en/players/aae17c81/Samu-Perez,Samu-Perez,17c81,es ESP,GK,Valladolid
+3327.0,Mohammed Salisu,/en/players/0b33f6ad/Mohammed-Salisu,Mohammed-Salisu,0b33f6ad,gh GHA,DF,Valladolid
+3328.0,Fede San Emeterio,/en/players/efecd633/Fede-San-Emeterio,Fede-San-Emeterio,fecd633,es ESP,MF,Valladolid
+3329.0,Sandro Ramírez,/en/players/833fb62e/Sandro-Ramirez,Sandro-Ramirez,833fb62e,es ESP,"FW,MF",Valladolid
+3330.0,Raúl García,/en/players/1a317a1b/Raul-Garcia,Raul-Garci,1a317a1b,es ESP,"DF,MF",Valladolid
+3331.0,Pedro Porro,/en/players/27d0a506/Pedro-Porro,Pedro-Porro,27d0a506,es ESP,"DF,MF",Valladolid
+3332.0,Javi Sánchez,/en/players/60359288/Javi-Sanchez,Javi-Sanchez,60359288,es ESP,DF,Valladolid
+3333.0,Federico Barba,/en/players/c010b898/Federico-Barba,Federico-Barb,c010b898,it ITA,DF,Valladolid
+3334.0,Churripi,/en/players/81a606fc/Churripi,Churripi,81a606fc,es ESP,GK,Valladolid
+3335.0,Matheus Fernandes,/en/players/f76fdcd2/Matheus-Fernandes,Matheus-Fernand,f76fdcd2,br BRA,"MF,FW",Valladolid
+3336.0,Hatem Ben Arfa,/en/players/74dc806c/Hatem-Ben-Arfa,Hatem-Ben-Arf,74dc806c,fr FRA,"MF,FW",Valladolid
+3337.0,Víctor García,/en/players/6636496a/Victor-Garcia,Victor-Garci,6636496a,es ESP,MF,Valladolid
+3338.0,Jorge de Frutos,/en/players/38ce1150/Jorge-de-Frutos,Jorge-de-Fruto,38ce1150,es ESP,"MF,DF",Valladolid
+3339.0,Diego Alende,/en/players/9af88279/Diego-Alende,Diego-Alend,9af88279,es ESP,DF,Valladolid
+3340.0,Andriy Lunin,/en/players/3061e1ec/Andriy-Lunin,Andriy-Luni,3061e1ec,ua UKR,GK,Valladolid
+3341.0,Fabián Orellana,/en/players/c90977db/Fabian-Orellana,Fabian-O,c90977db,cl CHI,MF,Valladolid
+3342.0,Bruno González,/en/players/f11fe861/Bruno-Gonzalez,Bruno-Gonzalez,f11fe861,es ESP,DF,Valladolid
+3343.0,Shon Weissman,/en/players/379dc075/Shon-Weissman,Shon-Weissm,379dc075,il ISR,FW,Valladolid
+3344.0,Roque Mesa,/en/players/7c4243d4/Roque-Mesa,Roque-M,7c4243d4,es ESP,MF,Valladolid
+3345.0,Jawad El Yamiq,/en/players/f6f6b6e8/Jawad-El-Yamiq,Jawad-El-Yamiq,f6f6b6e8,ma MAR,DF,Valladolid
+3346.0,Luis Pérez,/en/players/b7c04927/Luis-Perez,Luis-Perez,b7c04927,es ESP,DF,Valladolid
+3347.0,Lucas Olaza,/en/players/4cee5954/Lucas-Olaza,Lucas-Olaz,4cee5954,uy URU,DF,Valladolid
+3348.0,Saidy Janko,/en/players/689c9cf4/Saidy-Janko,Saidy-Janko,689c9cf4,gm GAM,DF,Valladolid
+3349.0,Roberto,/en/players/ba3ca78f/Roberto,Roberto,ba3ca78f,es ESP,GK,Valladolid
+3350.0,Kike Pérez,/en/players/237a3851/Kike-Perez,Kike-Perez,237a3851,es ESP,MF,Valladolid
+3351.0,Maranhão,/en/players/ae86d473/Maranhao,Maranhao,86d473,br BRA,FW,Valladolid
+3352.0,Jota,/en/players/2b65fe46/Jota,Jot,2b65fe46,pt POR,"MF,FW",Valladolid
+3353.0,Kenan Kodro,/en/players/e82d2807/Kenan-Kodro,Kenan-Kodro,82d2807,ba BIH,"FW,MF",Valladolid
+3354.0,Miguel Ángel Rubio,/en/players/56cafd0a/Miguel-Angel-Rubio,Miguel-Angel-Rubio,56cafd0a,es ESP,DF,Valladolid
+3355.0,Kuki,/en/players/2b6dc4d7/Kuki,Kuki,2b6dc4d7,es ESP,MF,Valladolid
+3356.0,Oriol Rey,/en/players/e8a0d2f7/Oriol-Rey,Oriol-R,8a0d2f7,es ESP,MF,Valladolid
+3357.0,Sergio Benito,/en/players/608bcb88/Sergio-Benito,Sergio-Benito,608bcb88,es ESP,FW,Valladolid
+3358.0,Fran Álvarez,/en/players/f0101a48/Fran-Alvarez,Fran-Alvarez,f0101a48,es ESP,MF,Valladolid
+3359.0,Gaizka Campos Bahillo,/en/players/54a9bc73/Gaizka-Campos-Bahillo,Gaizka-Campos-Bahillo,54a9bc73,es ESP,GK,Valladolid
+3360.0,Lucas Freitas,/en/players/a92be6c1/Lucas-Freitas,Lucas-Freit,92be6c1,br BRA,DF,Valladolid
+3361.0,Sergio López,/en/players/939f02ec/Sergio-Lopez,Sergio-Lopez,939f02ec,es ESP,DF,Valladolid
+3362.0,Mohamed Moukhliss ,/en/players/347aa693/Mohamed-Moukhliss,Mohamed-Moukhli,347aa693,es ESP,MF,Valladolid
+3363.0,Ignasi Vilarrasa,/en/players/b261ed19/Ignasi-Vilarrasa,Ignasi-Vi,b261ed19,es ESP,DF,Valladolid
+3364.0,Álvaro Aguado,/en/players/014aa7bd/Alvaro-Aguado,Alvaro-Aguado,014aa7bd,es ESP,MF,Valladolid
+3365.0,Gonzalo Plata,/en/players/54bcdeb0/Gonzalo-Plata,Gonzalo-Plat,54bcdeb0,ec ECU,"MF,FW",Valladolid
+3366.0,Sergio León,/en/players/0a0cc13c/Sergio-Leon,Sergio-Leo,0a0cc13c,es ESP,FW,Valladolid
+3367.0,Iván Sánchez,/en/players/70107d4d/Ivan-Sanchez,Ivan-Sanchez,70107d4d,es ESP,"MF,FW",Valladolid
+3368.0,Cristo González,/en/players/896b5df2/Cristo-Gonzalez,Cristo-Gonzalez,896b5df2,es ESP,FW,Valladolid
+3369.0,Monchu,/en/players/8ac501f5/Monchu,Monchu,8ac501f5,es ESP,MF,Valladolid
+3370.0,Diogo Queirós,/en/players/27ea1df6/Diogo-Queiros,Diogo-Queiro,27ea1df6,pt POR,DF,Valladolid
+3371.0,Josema,/en/players/ed3f5f4c/Josema,Josem,d3f5f4c,es ESP,DF,Valladolid
+3372.0,Jon Morcillo,/en/players/b7d7f3bf/Jon-Morcillo,Jon-Morcillo,b7d7f3bf,es ESP,MF,Valladolid
+3373.0,Iván Fresneda,/en/players/29d0f2ac/Ivan-Fresneda,Ivan-Fresned,29d0f2ac,es ESP,DF,Valladolid
+3374.0,Sékou Gassama,/en/players/475a738b/Sekou-Gassama,Sekou-Gassam,475a738b,sn SEN,FW,Valladolid
+3375.0,Hugo Vallejo,/en/players/e0140385/Hugo-Vallejo,Hugo-Vallejo,0140385,es ESP,FW,Valladolid
+3376.0,Víctor Narro,/en/players/43ad8bbc/Victor-Narro,Victor-Narro,43ad8bbc,es ESP,FW,Valladolid
+3377.0,Slavy,/en/players/ad2ce3a1/Slavy,Slav,d2ce3a1,bg BUL,FW,Valladolid
+3378.0,Mikel Carro,/en/players/e1820276/Mikel-Carro,Mikel-Carro,1820276,es ESP,MF,Valladolid
+3379.0,Samuel Casado,/en/players/1e457af5/Samuel-Casado,Samuel-Casado,1e457af5,es ESP,GK,Valladolid
+3380.0,Dali,/en/players/df96cb8a/Dali,Dali,df96cb8a,es ESP,FW,Valladolid
+3381.0,Sergio Ortuño,/en/players/6b992837/Sergio-Ortuno,Sergio-Ortuno,6b992837,es ESP,MF,Valladolid
+3382.0,Kike Ríos,/en/players/cfcc386e/Kike-Rios,Kike-Rio,cfcc386e,es ESP,DF,Valladolid

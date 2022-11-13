@@ -1,583 +1,583 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Jorge López,es ESP,MF,36,36,2.0,8.0,2002-2003,cf66479e,Villarreal,"3,090",34.3,7.0,0.0,51.0,1.0,,Villarreal
-,Pepe Reina,es ESP,GK,33,33,0.0,0.0,2002-2003,358587b,Villarreal,"2,970",33.0,3.0,0.0,51.0,1.0,2702.0,Villarreal
-,Sergio Ballesteros,es ESP,DF,33,33,0.0,0.0,2002-2003,29863c56,Villarreal,"2,965",32.9,10.0,1.0,51.0,1.0,,Villarreal
-,Rodolfo Arruabarrena,ar ARG,DF,32,32,4.0,0.0,2002-2003,fbd07266,Villarreal,"2,718",30.2,14.0,1.0,51.0,5.0,2703.0,Villarreal
-,Juliano Belletti,br BRA,"DF,MF",31,31,3.0,3.0,2002-2003,4432ca2,Villarreal,"2,713",30.1,6.0,1.0,51.0,2.0,,Villarreal
-,Víctor,es ESP,FW,34,30,4.0,8.0,2002-2003,00979380,Villarreal,"2,634",29.3,3.0,0.0,51.0,1.0,,Villarreal
-,Quique Álvarez,es ESP,DF,31,30,0.0,0.0,2002-2003,7ddc4550,Villarreal,"2,590",28.8,9.0,1.0,51.0,1.0,2704.0,Villarreal
-,Martín Palermo,ar ARG,FW,34,28,3.0,7.0,2002-2003,02aa1dbe,Villarreal,"2,619",29.1,4.0,0.0,51.0,5.0,,Villarreal
-,Josico,es ESP,"FW,MF",30,26,1.0,2.0,2002-2003,1d2fe5a5,Villarreal,"2,106",23.4,7.0,0.0,51.0,1.0,2705.0,Villarreal
-,Antonio Guayre,es ESP,"FW,MF",34,25,2.0,4.0,2002-2003,82cf603f,Villarreal,"2,089",23.2,5.0,1.0,51.0,1.0,,Villarreal
-,Javier Farinós,es ESP,MF,22,21,1.0,2.0,2002-2003,d9b0f08e,Villarreal,"1,795",19.9,4.0,0.0,51.0,1.0,,Villarreal
-,Unai Vergara,es ESP,DF,18,17,0.0,1.0,2002-2003,c9d08ea0,Villarreal,"1,372",15.2,9.0,2.0,51.0,1.0,2706.0,Villarreal
-,Marcos Senna,es ESP,MF,16,16,1.0,2.0,2002-2003,d6cbdbe,Villarreal,"1,360",15.1,3.0,0.0,51.0,1.0,2707.0,Villarreal
-,Quique Medina,es ESP,DF,19,10,0.0,0.0,2002-2003,0aa5e053,Villarreal,"1,010",11.2,2.0,0.0,51.0,1.0,2708.0,Villarreal
-,Javier Calleja,es ESP,MF,27,9,3.0,2.0,2002-2003,3c99e7de,Villarreal,"1,013",11.3,2.0,0.0,51.0,1.0,,Villarreal
-,Antonio de Nigris,mx MEX,FW,15,9,0.0,2.0,2002-2003,0b016a13,Villarreal,943,10.5,2.0,0.0,51.0,20.0,2709.0,Villarreal
-,Jesús Galván,es ESP,DF,11,9,0.0,0.0,2002-2003,5f605a71,Villarreal,779,8.7,2.0,0.0,51.0,1.0,2710.0,Villarreal
-,Iñaki Berruet,es ESP,DF,9,6,1.0,0.0,2002-2003,9fd5c7b8,Villarreal,631,7.0,2.0,0.0,51.0,1.0,2711.0,Villarreal
-,Javi Venta,es ESP,DF,17,5,1.0,0.0,2002-2003,fc3efd36,Villarreal,677,7.5,3.0,0.0,51.0,1.0,2712.0,Villarreal
-,Javier López Vallejo,es ESP,GK,4,4,0.0,0.0,2002-2003,54562263,Villarreal,360,4.0,0.0,0.0,51.0,1.0,2713.0,Villarreal
-,Javi Gracia,es ESP,MF,8,2,0.0,0.0,2002-2003,f46017c3,Villarreal,221,2.5,1.0,0.0,51.0,1.0,2714.0,Villarreal
-,Constantin Gâlcă,ro ROU,MF,3,2,0.0,0.0,2002-2003,624ddea0,Villarreal,156,1.7,1.0,0.0,51.0,51.0,2715.0,Villarreal
-,Rubén Reyes,es ESP,MF,5,1,0.0,0.0,2002-2003,770a119c,Villarreal,104,1.2,0.0,0.0,51.0,1.0,2716.0,Villarreal
-,César Arzo,es ESP,"DF,MF",2,1,0.0,0.0,2002-2003,0ea37b10,Villarreal,93,1.0,0.0,0.0,51.0,1.0,,Villarreal
-,Jesús Unanua,es ESP,GK,1,1,0.0,0.0,2002-2003,592fec8,Villarreal,90,1.0,0.0,0.0,51.0,1.0,2717.0,Villarreal
-,Héctor Font,es ESP,MF,2,1,0.0,0.0,2002-2003,9982593d,Villarreal,77,0.9,0.0,0.0,51.0,1.0,,Villarreal
-,Carlos Aranda,es ESP,FW,8,0,0.0,1.0,2002-2003,2b60c45d,Villarreal,132,1.5,2.0,0.0,51.0,1.0,,Villarreal
-,Xisco Nadal,es ESP,"FW,MF",5,0,0.0,1.0,2002-2003,5dc11264,Villarreal,52,0.6,0.0,0.0,51.0,1.0,2718.0,Villarreal
-,José María Cases,es ESP,MF,1,0,0.0,0.0,2002-2003,34aafecf,Villarreal,28,0.3,0.0,0.0,51.0,1.0,2719.0,Villarreal
-,Verza,es ESP,MF,1,0,0.0,0.0,2002-2003,f972b073,Villarreal,22,0.2,0.0,0.0,51.0,1.0,2724.0,Villarreal
-,﻿Pepe Reina,es ESP,GK,38,38,0.0,0.0,2003-2004,358587b,Villarreal,"3,420",38.0,2.0,0.0,51.0,1.0,2702.0,Villarreal
-,Rodolfo Arruabarrena,ar ARG,DF,33,32,2.0,2.0,2003-2004,fbd07266,Villarreal,"2,930",32.6,11.0,0.0,51.0,5.0,2703.0,Villarreal
-,Juan Román Riquelme,ar ARG,MF,33,32,4.0,8.0,2003-2004,04381207,Villarreal,"2,782",30.9,6.0,0.0,51.0,5.0,,Villarreal
-,Sergio Ballesteros,es ESP,DF,30,30,1.0,1.0,2003-2004,29863c56,Villarreal,"2,678",29.8,9.0,1.0,51.0,1.0,,Villarreal
-,Pere Martí,es ESP,MF,34,30,1.0,1.0,2003-2004,f7e1f18e,Villarreal,"2,662",29.6,12.0,0.0,51.0,1.0,,Villarreal
-,Quique Álvarez,es ESP,DF,29,29,0.0,2.0,2003-2004,7ddc4550,Villarreal,"2,502",27.8,16.0,2.0,51.0,1.0,2704.0,Villarreal
-,José Mari,es ESP,FW,32,29,4.0,6.0,2003-2004,b56835b1,Villarreal,"2,449",27.2,16.0,2.0,51.0,1.0,,Villarreal
-,Fabricio Coloccini,ar ARG,"DF,MF",32,27,1.0,1.0,2003-2004,78b3399f,Villarreal,"2,380",26.4,9.0,1.0,51.0,5.0,,Villarreal
-,Juliano Belletti,br BRA,"DF,MF",28,25,3.0,3.0,2003-2004,4432ca2,Villarreal,"2,287",25.4,9.0,0.0,51.0,2.0,,Villarreal
-,Roger,es ESP,MF,30,22,1.0,2.0,2003-2004,78bc5697,Villarreal,"1,898",21.1,4.0,0.0,51.0,1.0,2720.0,Villarreal
-,Sonny Anderson,br BRA,FW,35,21,2.0,12.0,2003-2004,27a82cca,Villarreal,"2,189",24.3,1.0,0.0,51.0,2.0,2721.0,Villarreal
-,Antonio Guayre,es ESP,"FW,MF",31,21,5.0,3.0,2003-2004,82cf603f,Villarreal,"1,961",21.8,3.0,0.0,51.0,1.0,,Villarreal
-,Josico,es ESP,"FW,MF",25,21,1.0,0.0,2003-2004,1d2fe5a5,Villarreal,"1,815",20.2,4.0,0.0,51.0,1.0,2705.0,Villarreal
-,Víctor,es ESP,FW,27,18,8.0,3.0,2003-2004,00979380,Villarreal,"1,522",16.9,2.0,0.0,51.0,1.0,,Villarreal
-,Javi Venta,es ESP,DF,23,16,0.0,0.0,2003-2004,fc3efd36,Villarreal,"1,406",15.6,4.0,0.0,51.0,1.0,2712.0,Villarreal
-,Sebastián Battaglia,ar ARG,MF,15,13,0.0,0.0,2003-2004,d6bd320f,Villarreal,"1,125",12.5,7.0,1.0,51.0,5.0,2722.0,Villarreal
-,Marcos Senna,es ESP,MF,9,6,,0.0,2003-2004,d6cbdbe,Villarreal,573,6.4,1.0,0.0,51.0,1.0,2707.0,Villarreal
-,Javier Calleja,es ESP,MF,9,5,0.0,0.0,2003-2004,3c99e7de,Villarreal,413,4.6,1.0,0.0,51.0,1.0,,Villarreal
-,Miguel Ángel Tena,es ESP,DF,2,2,0.0,0.0,2003-2004,6389c2b,Villarreal,151,1.7,0.0,0.0,51.0,1.0,2723.0,Villarreal
-,Verza,es ESP,MF,3,1,0.0,0.0,2003-2004,f972b073,Villarreal,102,1.1,1.0,0.0,51.0,1.0,2724.0,Villarreal
-,César Arzo,es ESP,"DF,MF",10,0,0.0,0.0,2003-2004,0ea37b10,Villarreal,130,1.4,1.0,0.0,51.0,1.0,,Villarreal
-,Xisco Nadal,es ESP,"FW,MF",7,0,0.0,1.0,2003-2004,5dc11264,Villarreal,78,0.9,0.0,0.0,51.0,1.0,2718.0,Villarreal
-,Santi Cazorla,es ESP,MF,2,0,0.0,0.0,2003-2004,2e9c250,Villarreal,66,0.7,0.0,0.0,51.0,1.0,,Villarreal
-,﻿Pepe Reina,es ESP,GK,38,38,0.0,0.0,2004-2005,358587b,Villarreal,"3,420",38.0,1.0,0.0,51.0,1.0,2702.0,Villarreal
-,Juan Román Riquelme,ar ARG,MF,35,35,9.0,15.0,2004-2005,04381207,Villarreal,"3,121",34.7,5.0,0.0,51.0,5.0,,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,34,34,0.0,2.0,2004-2005,46e6fea3,Villarreal,"3,060",34.0,12.0,1.0,51.0,5.0,2725.0,Villarreal
-,Diego Forlán,uy URU,"FW,MF",38,34,6.0,24.0,2004-2005,d87d0dfc,Villarreal,"3,006",33.4,3.0,0.0,51.0,8.0,,Villarreal
-,Javi Venta,es ESP,DF,32,32,2.0,1.0,2004-2005,fc3efd36,Villarreal,"2,825",31.4,6.0,0.0,51.0,1.0,2712.0,Villarreal
-,Josico,es ESP,"FW,MF",29,27,0.0,1.0,2004-2005,1d2fe5a5,Villarreal,"2,558",28.4,5.0,0.0,51.0,1.0,2705.0,Villarreal
-,Marcos Senna,es ESP,MF,29,27,3.0,2.0,2004-2005,d6cbdbe,Villarreal,"2,459",27.3,5.0,0.0,51.0,1.0,2707.0,Villarreal
-,Rodolfo Arruabarrena,ar ARG,DF,26,25,2.0,0.0,2004-2005,fbd07266,Villarreal,"2,216",24.6,11.0,2.0,51.0,5.0,2703.0,Villarreal
-,Quique Álvarez,es ESP,DF,24,24,0.0,0.0,2004-2005,7ddc4550,Villarreal,"2,138",23.8,5.0,1.0,51.0,1.0,2704.0,Villarreal
-,Juan Pablo Sorín,ar ARG,"DF,MF",21,20,1.0,4.0,2004-2005,239e2070,Villarreal,"1,589",17.7,4.0,0.0,51.0,5.0,,Villarreal
-,Juan Manuel Peña,bo BOL,DF,25,19,0.0,1.0,2004-2005,0f7909da,Villarreal,"1,751",19.5,3.0,0.0,51.0,64.0,,Villarreal
-,Héctor Font,es ESP,MF,33,17,1.0,2.0,2004-2005,9982593d,Villarreal,"1,552",17.2,2.0,0.0,51.0,1.0,,Villarreal
-,José Mari,es ESP,FW,30,17,5.0,4.0,2004-2005,b56835b1,Villarreal,"1,498",16.6,3.0,0.0,51.0,1.0,,Villarreal
-,Armando Sá,mz MOZ,DF,20,16,1.0,0.0,2004-2005,3f76ff2b,Villarreal,"1,500",16.7,4.0,0.0,51.0,88.0,2726.0,Villarreal
-,Antonio Guayre,es ESP,"FW,MF",24,15,4.0,5.0,2004-2005,82cf603f,Villarreal,"1,172",13.0,2.0,0.0,51.0,1.0,,Villarreal
-,Santi Cazorla,es ESP,MF,29,13,4.0,2.0,2004-2005,2e9c250,Villarreal,"1,337",14.9,1.0,0.0,51.0,1.0,,Villarreal
-,Sebastián Battaglia,ar ARG,MF,14,10,1.0,0.0,2004-2005,d6bd320f,Villarreal,920,10.2,5.0,1.0,51.0,5.0,2722.0,Villarreal
-,Luciano Figueroa,ar ARG,FW,15,7,3.0,3.0,2004-2005,c4e3421a,Villarreal,790,8.8,0.0,0.0,51.0,5.0,2727.0,Villarreal
-,César Arzo,es ESP,"DF,MF",15,4,0.0,1.0,2004-2005,0ea37b10,Villarreal,464,5.2,1.0,0.0,51.0,1.0,,Villarreal
-,Sonny Anderson,br BRA,FW,3,2,0.0,1.0,2004-2005,27a82cca,Villarreal,218,2.4,0.0,0.0,51.0,2.0,2721.0,Villarreal
-,Carlos Alcántara,es ESP,DF,2,1,0.0,0.0,2004-2005,b0dcd6e1,Villarreal,109,1.2,0.0,0.0,51.0,1.0,2728.0,Villarreal
-,Xisco Nadal,es ESP,"FW,MF",4,1,0.0,0.0,2004-2005,5dc11264,Villarreal,98,1.1,0.0,0.0,51.0,1.0,2718.0,Villarreal
-,Javier Calleja,es ESP,MF,3,0,0.0,0.0,2004-2005,3c99e7de,Villarreal,68,0.8,0.0,0.0,51.0,1.0,,Villarreal
-,Roger,es ESP,MF,1,0,0.0,0.0,2004-2005,78bc5697,Villarreal,21,0.2,0.0,0.0,51.0,1.0,2720.0,Villarreal
-,José María Cases,es ESP,MF,1,0,0.0,0.0,2004-2005,34aafecf,Villarreal,19,0.2,0.0,0.0,51.0,1.0,2719.0,Villarreal
-,﻿Rodolfo Arruabarrena,ar ARG,DF,33,33,0.0,0.0,2005-2006,fbd07266,Villarreal,"2,799",31.1,10.0,0.0,51.0,5.0,2703.0,Villarreal
-,Diego Forlán,uy URU,"FW,MF",32,30,5.0,10.0,2005-2006,d87d0dfc,Villarreal,"2,691",29.9,3.0,0.0,51.0,8.0,,Villarreal
-,Sebastián Viera,uy URU,GK,29,29,0.0,0.0,2005-2006,7ba2f67,Villarreal,"2,549",28.3,3.0,0.0,51.0,8.0,2729.0,Villarreal
-,Marcos Senna,es ESP,MF,30,29,1.0,3.0,2005-2006,d6cbdbe,Villarreal,"2,513",27.9,5.0,0.0,51.0,1.0,2707.0,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,29,29,0.0,0.0,2005-2006,46e6fea3,Villarreal,"2,456",27.3,9.0,1.0,51.0,5.0,2725.0,Villarreal
-,José Mari,es ESP,FW,32,28,2.0,5.0,2005-2006,b56835b1,Villarreal,"2,169",24.1,3.0,0.0,51.0,1.0,,Villarreal
-,Josico,es ESP,"FW,MF",27,26,1.0,1.0,2005-2006,1d2fe5a5,Villarreal,"1,955",21.7,6.0,1.0,51.0,1.0,2705.0,Villarreal
-,Javi Venta,es ESP,DF,25,25,0.0,0.0,2005-2006,fc3efd36,Villarreal,"2,221",24.7,2.0,0.0,51.0,1.0,2712.0,Villarreal
-,Juan Román Riquelme,ar ARG,MF,25,25,10.0,12.0,2005-2006,04381207,Villarreal,"2,156",24.0,5.0,0.0,51.0,5.0,,Villarreal
-,Juan Manuel Peña,bo BOL,DF,25,23,1.0,0.0,2005-2006,0f7909da,Villarreal,"2,082",23.1,10.0,1.0,51.0,64.0,,Villarreal
-,Quique Álvarez,es ESP,DF,21,20,1.0,0.0,2005-2006,7ddc4550,Villarreal,"1,873",20.8,10.0,0.0,51.0,1.0,2704.0,Villarreal
-,Alessio Tacchinardi,it ITA,MF,23,17,1.0,2.0,2005-2006,b99799e5,Villarreal,"1,538",17.1,7.0,1.0,51.0,9.0,2730.0,Villarreal
-,Juan Pablo Sorín,ar ARG,"DF,MF",20,16,2.0,3.0,2005-2006,239e2070,Villarreal,"1,385",15.4,4.0,0.0,51.0,5.0,,Villarreal
-,Santi Cazorla,es ESP,MF,23,14,3.0,0.0,2005-2006,2e9c250,Villarreal,"1,244",13.8,3.0,0.0,51.0,1.0,,Villarreal
-,Mariano Barbosa,ar ARG,GK,10,9,0.0,0.0,2005-2006,d4f74f,Villarreal,871,9.7,1.0,0.0,51.0,5.0,,Villarreal
-,Roger,es ESP,MF,24,8,0.0,2.0,2005-2006,78bc5697,Villarreal,938,10.4,2.0,0.0,51.0,1.0,2720.0,Villarreal
-,Héctor Font,es ESP,MF,21,8,1.0,1.0,2005-2006,9982593d,Villarreal,931,10.3,1.0,1.0,51.0,1.0,,Villarreal
-,Guillermo Franco,mx MEX,FW,12,8,2.0,4.0,2005-2006,15e15558,Villarreal,767,8.5,3.0,0.0,51.0,20.0,2731.0,Villarreal
-,Josemi,es ESP,DF,9,8,1.0,0.0,2005-2006,85dd0fc,Villarreal,749,8.3,3.0,0.0,51.0,1.0,,Villarreal
-,Antonio Guayre,es ESP,"FW,MF",17,7,0.0,2.0,2005-2006,82cf603f,Villarreal,820,9.1,3.0,0.0,51.0,1.0,,Villarreal
-,Luciano Figueroa,ar ARG,FW,12,7,0.0,2.0,2005-2006,c4e3421a,Villarreal,633,7.0,1.0,0.0,51.0,5.0,2727.0,Villarreal
-,Jan Kromkamp,nl NED,DF,6,6,0.0,0.0,2005-2006,3c970929,Villarreal,540,6.0,2.0,0.0,51.0,11.0,2732.0,Villarreal
-,César Arzo,es ESP,"DF,MF",12,5,1.0,0.0,2005-2006,0ea37b10,Villarreal,648,7.2,4.0,0.0,51.0,1.0,,Villarreal
-,Carlos Alcántara,es ESP,DF,3,3,0.0,0.0,2005-2006,b0dcd6e1,Villarreal,270,3.0,2.0,0.0,51.0,1.0,2728.0,Villarreal
-,Javier Calleja,es ESP,MF,13,2,0.0,1.0,2005-2006,3c99e7de,Villarreal,326,3.6,2.0,0.0,51.0,1.0,,Villarreal
-,Antonio Valencia,ec ECU,"DF,MF",2,1,0.0,0.0,2005-2006,08aa17d0,Villarreal,94,1.0,0.0,0.0,51.0,61.0,2733.0,Villarreal
-,Óscar López Martínez,es ESP,DF,1,1,0.0,0.0,2005-2006,c7479fec,Villarreal,90,1.0,0.0,0.0,51.0,1.0,2734.0,Villarreal
-,José Javier Rubio,es ESP,MF,1,1,0.0,0.0,2005-2006,66046db,Villarreal,67,0.7,0.0,0.0,51.0,1.0,2735.0,Villarreal
-,Xisco Nadal,es ESP,"FW,MF",4,0,0.0,1.0,2005-2006,5dc11264,Villarreal,84,0.9,0.0,0.0,51.0,1.0,2718.0,Villarreal
-,﻿Diego Forlán,uy URU,"FW,MF",36,34,2.0,19.0,2006-2007,d87d0dfc,Villarreal,"3,008",33.4,3.0,0.0,51.0,8.0,,Villarreal
-,Marcos Senna,es ESP,MF,33,33,1.0,0.0,2006-2007,d6cbdbe,Villarreal,"2,807",31.2,10.0,0.0,51.0,1.0,2707.0,Villarreal
-,Fabricio Fuentes,ar ARG,DF,33,32,0.0,4.0,2006-2007,851ea9c3,Villarreal,"2,913",32.4,7.0,0.0,51.0,5.0,2736.0,Villarreal
-,Sebastián Viera,uy URU,GK,28,27,0.0,0.0,2006-2007,7ba2f67,Villarreal,"2,475",27.5,3.0,0.0,51.0,8.0,2729.0,Villarreal
-,Cani,es ESP,MF,35,27,3.0,4.0,2006-2007,b493db11,Villarreal,"2,418",26.9,4.0,1.0,51.0,1.0,,Villarreal
-,José Enrique,es ESP,DF,23,22,0.0,0.0,2006-2007,d56364d5,Villarreal,"2,059",22.9,2.0,0.0,51.0,1.0,,Villarreal
-,Josico,es ESP,"FW,MF",26,22,1.0,1.0,2006-2007,1d2fe5a5,Villarreal,"1,585",17.6,5.0,0.0,51.0,1.0,2705.0,Villarreal
-,Marquitos,es ESP,"FW,MF",29,20,2.0,3.0,2006-2007,b5e3874c,Villarreal,"1,778",19.8,2.0,0.0,51.0,1.0,,Villarreal
-,Pascal Cygan,fr FRA,DF,21,20,1.0,1.0,2006-2007,96d186cf,Villarreal,"1,748",19.4,4.0,0.0,51.0,4.0,2737.0,Villarreal
-,Javi Venta,es ESP,DF,20,19,2.0,0.0,2006-2007,fc3efd36,Villarreal,"1,668",18.5,4.0,0.0,51.0,1.0,2712.0,Villarreal
-,Josemi,es ESP,DF,21,18,0.0,0.0,2006-2007,85dd0fc,Villarreal,"1,708",19.0,8.0,0.0,51.0,1.0,,Villarreal
-,Rodolfo Arruabarrena,ar ARG,DF,20,16,0.0,2.0,2006-2007,fbd07266,Villarreal,"1,335",14.8,5.0,0.0,51.0,5.0,2703.0,Villarreal
-,Guillermo Franco,mx MEX,FW,27,14,3.0,2.0,2006-2007,15e15558,Villarreal,"1,425",15.8,5.0,1.0,51.0,20.0,2731.0,Villarreal
-,Matías Fernández,cl CHI,MF,20,14,7.0,1.0,2006-2007,8a250399,Villarreal,"1,242",13.8,2.0,0.0,51.0,31.0,2738.0,Villarreal
-,Juan Román Riquelme,ar ARG,MF,13,13,6.0,1.0,2006-2007,04381207,Villarreal,"1,170",13.0,1.0,0.0,51.0,5.0,,Villarreal
-,Quique Álvarez,es ESP,DF,15,12,0.0,0.0,2006-2007,7ddc4550,Villarreal,"1,210",13.4,7.0,0.0,51.0,1.0,2704.0,Villarreal
-,Alessio Tacchinardi,it ITA,MF,22,11,2.0,1.0,2006-2007,b99799e5,Villarreal,"1,119",12.4,10.0,0.0,51.0,9.0,2730.0,Villarreal
-,Leandro Somoza,ar ARG,MF,25,11,0.0,0.0,2006-2007,63bd55fe,Villarreal,"1,092",12.1,6.0,0.0,51.0,5.0,,Villarreal
-,Mariano Barbosa,ar ARG,GK,11,11,0.0,0.0,2006-2007,d4f74f,Villarreal,945,10.5,1.0,0.0,51.0,5.0,,Villarreal
-,José Mari,es ESP,FW,20,8,1.0,0.0,2006-2007,b56835b1,Villarreal,934,10.4,3.0,1.0,51.0,1.0,,Villarreal
-,Robert Pirès,fr FRA,"FW,MF",11,8,0.0,3.0,2006-2007,59bfafcf,Villarreal,659,7.3,0.0,1.0,51.0,4.0,2739.0,Villarreal
-,Jon Dahl Tomasson,dk DEN,"FW,MF",11,7,0.0,4.0,2006-2007,4af3fb59,Villarreal,648,7.2,0.0,0.0,51.0,7.0,2740.0,Villarreal
-,Nihat Kahveci,tr TUR,FW,9,7,1.0,0.0,2006-2007,41e774bd,Villarreal,509,5.7,2.0,0.0,51.0,15.0,196.0,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,6,6,0.0,0.0,2006-2007,46e6fea3,Villarreal,540,6.0,2.0,0.0,51.0,5.0,2725.0,Villarreal
-,Juan Manuel Peña,bo BOL,DF,6,6,0.0,0.0,2006-2007,0f7909da,Villarreal,429,4.8,1.0,0.0,51.0,64.0,,Villarreal
-,Jonathan Pereira,es ESP,FW,4,0,0.0,1.0,2006-2007,806ab4b6,Villarreal,81,0.9,1.0,0.0,51.0,1.0,,Villarreal
-,Bruno Soriano,es ESP,MF,3,0,0.0,0.0,2006-2007,09332647,Villarreal,58,0.6,1.0,0.0,51.0,1.0,,Villarreal
-,﻿Joan Capdevila,es ESP,DF,36,36,1.0,2.0,2007-2008,69697a6d,Villarreal,"3,239",36.0,7.0,1.0,51.0,1.0,,Villarreal
-,Marcos Senna,es ESP,MF,34,34,7.0,4.0,2007-2008,d6cbdbe,Villarreal,"2,915",32.4,9.0,0.0,51.0,1.0,2707.0,Villarreal
-,Santi Cazorla,es ESP,MF,36,28,5.0,5.0,2007-2008,2e9c250,Villarreal,"2,561",28.5,3.0,0.0,51.0,1.0,,Villarreal
-,Robert Pirès,fr FRA,"FW,MF",32,27,3.0,3.0,2007-2008,59bfafcf,Villarreal,"2,102",23.4,1.0,0.0,51.0,4.0,2739.0,Villarreal
-,Nihat Kahveci,tr TUR,FW,34,25,5.0,18.0,2007-2008,41e774bd,Villarreal,"2,134",23.7,4.0,0.0,51.0,15.0,196.0,Villarreal
-,Javi Venta,es ESP,DF,25,23,1.0,1.0,2007-2008,fc3efd36,Villarreal,"2,068",23.0,3.0,0.0,51.0,1.0,2712.0,Villarreal
-,Diego Godín,uy URU,DF,24,22,0.0,1.0,2007-2008,fc4f85b1,Villarreal,"1,998",22.2,5.0,0.0,51.0,8.0,,Villarreal
-,Giuseppe Rossi,it ITA,FW,27,22,3.0,11.0,2007-2008,fe48a073,Villarreal,"1,784",19.8,7.0,0.0,51.0,9.0,,Villarreal
-,Diego López,es ESP,GK,20,20,0.0,0.0,2007-2008,73683fa9,Villarreal,"1,726",19.2,2.0,1.0,51.0,1.0,47.0,Villarreal
-,Pascal Cygan,fr FRA,DF,21,19,0.0,1.0,2007-2008,96d186cf,Villarreal,"1,748",19.4,3.0,0.0,51.0,4.0,2737.0,Villarreal
-,Sebastián Viera,uy URU,GK,18,18,0.0,0.0,2007-2008,7ba2f67,Villarreal,"1,620",18.0,1.0,0.0,51.0,8.0,2729.0,Villarreal
-,Fabricio Fuentes,ar ARG,DF,18,18,0.0,2.0,2007-2008,851ea9c3,Villarreal,"1,573",17.5,3.0,1.0,51.0,5.0,2736.0,Villarreal
-,Ángel López,es ESP,"DF,MF",20,17,0.0,0.0,2007-2008,93cdc601,Villarreal,"1,593",17.7,5.0,0.0,51.0,1.0,,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,18,17,0.0,0.0,2007-2008,46e6fea3,Villarreal,"1,527",17.0,3.0,0.0,51.0,5.0,2725.0,Villarreal
-,Guillermo Franco,mx MEX,FW,24,16,4.0,8.0,2007-2008,15e15558,Villarreal,"1,463",16.3,8.0,0.0,51.0,20.0,2731.0,Villarreal
-,Bruno Soriano,es ESP,MF,21,16,0.0,0.0,2007-2008,09332647,Villarreal,"1,256",14.0,5.0,0.0,51.0,1.0,,Villarreal
-,Cani,es ESP,MF,32,14,2.0,0.0,2007-2008,b493db11,Villarreal,"1,555",17.3,8.0,0.0,51.0,1.0,,Villarreal
-,Sebastián Eguren,uy URU,MF,15,14,1.0,0.0,2007-2008,de07ca1e,Villarreal,"1,234",13.7,8.0,0.0,51.0,8.0,2742.0,Villarreal
-,Matías Fernández,cl CHI,MF,29,11,1.0,3.0,2007-2008,8a250399,Villarreal,"1,300",14.4,1.0,0.0,51.0,31.0,2738.0,Villarreal
-,Josico,es ESP,"FW,MF",13,10,0.0,0.0,2007-2008,1d2fe5a5,Villarreal,815,9.1,0.0,0.0,51.0,1.0,2705.0,Villarreal
-,Jon Dahl Tomasson,dk DEN,"FW,MF",25,9,1.0,3.0,2007-2008,4af3fb59,Villarreal,931,10.3,2.0,0.0,51.0,7.0,2740.0,Villarreal
-,Rio Mavuba,fr FRA,MF,5,1,0.0,0.0,2007-2008,48c16bf5,Villarreal,222,2.5,0.0,0.0,51.0,4.0,2743.0,Villarreal
-,Josemi,es ESP,DF,1,1,0.0,0.0,2007-2008,85dd0fc,Villarreal,90,1.0,0.0,0.0,51.0,1.0,,Villarreal
-,Juan Carlos,es ESP,GK,2,0,0.0,0.0,2007-2008,bc5adc98,Villarreal,89,1.0,0.0,0.0,51.0,1.0,2744.0,Villarreal
-,﻿Diego López,es ESP,GK,38,38,0.0,0.0,2008-2009,73683fa9,Villarreal,"3,420",38.0,3.0,0.0,51.0,1.0,47.0,Villarreal
-,Joan Capdevila,es ESP,DF,36,36,0.0,5.0,2008-2009,69697a6d,Villarreal,"3,203",35.6,4.0,0.0,51.0,1.0,,Villarreal
-,Diego Godín,uy URU,DF,31,31,1.0,0.0,2008-2009,fc4f85b1,Villarreal,"2,767",30.7,13.0,1.0,51.0,8.0,,Villarreal
-,Sebastián Eguren,uy URU,MF,32,28,1.0,1.0,2008-2009,de07ca1e,Villarreal,"2,342",26.0,9.0,0.0,51.0,8.0,2742.0,Villarreal
-,Joseba Llorente,es ESP,FW,32,28,2.0,15.0,2008-2009,ddb98947,Villarreal,"2,311",25.7,5.0,1.0,51.0,1.0,,Villarreal
-,Giuseppe Rossi,it ITA,FW,30,28,7.0,12.0,2008-2009,fe48a073,Villarreal,"2,187",24.3,4.0,0.0,51.0,9.0,,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,27,27,0.0,2.0,2008-2009,46e6fea3,Villarreal,"2,361",26.2,10.0,0.0,51.0,5.0,2725.0,Villarreal
-,Santi Cazorla,es ESP,MF,30,26,4.0,8.0,2008-2009,2e9c250,Villarreal,"2,348",26.1,3.0,0.0,51.0,1.0,,Villarreal
-,Marcos Senna,es ESP,MF,27,25,1.0,2.0,2008-2009,d6cbdbe,Villarreal,"2,109",23.4,8.0,0.0,51.0,1.0,2707.0,Villarreal
-,Robert Pirès,fr FRA,"FW,MF",32,24,8.0,3.0,2008-2009,59bfafcf,Villarreal,"2,030",22.6,4.0,1.0,51.0,4.0,2739.0,Villarreal
-,Javi Venta,es ESP,DF,22,21,1.0,0.0,2008-2009,fc3efd36,Villarreal,"1,827",20.3,6.0,1.0,51.0,1.0,2712.0,Villarreal
-,Ángel López,es ESP,"DF,MF",21,19,1.0,0.0,2008-2009,93cdc601,Villarreal,"1,676",18.6,5.0,1.0,51.0,1.0,,Villarreal
-,Ariel Ibagaza,ar ARG,MF,30,19,5.0,1.0,2008-2009,bd513ca4,Villarreal,"1,642",18.2,5.0,0.0,51.0,5.0,,Villarreal
-,Cani,es ESP,MF,22,16,2.0,6.0,2008-2009,b493db11,Villarreal,"1,483",16.5,2.0,0.0,51.0,1.0,,Villarreal
-,Fabricio Fuentes,ar ARG,DF,16,14,0.0,2.0,2008-2009,851ea9c3,Villarreal,"1,350",15.0,4.0,0.0,51.0,5.0,2736.0,Villarreal
-,Bruno Soriano,es ESP,MF,25,12,0.0,0.0,2008-2009,09332647,Villarreal,"1,386",15.4,5.0,0.0,51.0,1.0,,Villarreal
-,Nihat Kahveci,tr TUR,FW,19,8,2.0,0.0,2008-2009,41e774bd,Villarreal,761,8.5,1.0,0.0,51.0,15.0,196.0,Villarreal
-,Matías Fernández,cl CHI,MF,21,5,1.0,3.0,2008-2009,8a250399,Villarreal,644,7.2,1.0,0.0,51.0,31.0,2738.0,Villarreal
-,Guillermo Franco,mx MEX,FW,18,5,0.0,0.0,2008-2009,15e15558,Villarreal,637,7.1,5.0,0.0,51.0,20.0,2731.0,Villarreal
-,Pascal Cygan,fr FRA,DF,4,3,0.0,0.0,2008-2009,96d186cf,Villarreal,300,3.3,1.0,0.0,51.0,4.0,2737.0,Villarreal
-,Jozy Altidore,us USA,FW,6,2,0.0,1.0,2008-2009,8db8ad1e,Villarreal,259,2.9,0.0,0.0,51.0,75.0,2745.0,Villarreal
-,Edmílson,br BRA,"DF,MF",6,2,0.0,0.0,2008-2009,13853c88,Villarreal,244,2.7,0.0,0.0,51.0,2.0,,Villarreal
-,Javier Matilla,es ESP,MF,1,1,0.0,0.0,2008-2009,35fa45cc,Villarreal,90,1.0,0.0,0.0,51.0,1.0,,Villarreal
-,Jordi Pablo,es ESP,"FW,MF",2,0,0.0,0.0,2008-2009,93d3acb2,Villarreal,48,0.5,0.0,0.0,51.0,1.0,2746.0,Villarreal
-,Joan Tomàs,es ESP,"FW,MF",1,0,0.0,0.0,2008-2009,9ada6f1d,Villarreal,26,0.3,0.0,0.0,51.0,1.0,,Villarreal
-,Mario Gaspar,es ESP,DF,1,0,0.0,0.0,2008-2009,fb5d47b3,Villarreal,24,0.3,0.0,0.0,51.0,1.0,2747.0,Villarreal
-,﻿Diego López,es ESP,GK,38,38,0.0,0.0,2009-2010,73683fa9,Villarreal,"3,420",38.0,4.0,0.0,51.0,1.0,47.0,Villarreal
-,Joan Capdevila,es ESP,DF,37,37,2.0,5.0,2009-2010,69697a6d,Villarreal,"3,312",36.8,6.0,1.0,51.0,1.0,,Villarreal
-,Diego Godín,uy URU,DF,36,36,2.0,3.0,2009-2010,fc4f85b1,Villarreal,"3,180",35.3,8.0,1.0,51.0,8.0,,Villarreal
-,Bruno Soriano,es ESP,MF,33,31,2.0,0.0,2009-2010,09332647,Villarreal,"2,794",31.0,11.0,0.0,51.0,1.0,,Villarreal
-,Nilmar,br BRA,FW,33,28,4.0,11.0,2009-2010,90a5a4aa,Villarreal,"2,470",27.4,1.0,0.0,51.0,2.0,2748.0,Villarreal
-,Giuseppe Rossi,it ITA,FW,34,27,2.0,10.0,2009-2010,fe48a073,Villarreal,"2,336",26.0,3.0,0.0,51.0,9.0,,Villarreal
-,Cani,es ESP,MF,35,27,4.0,2.0,2009-2010,b493db11,Villarreal,"2,177",24.2,4.0,1.0,51.0,1.0,,Villarreal
-,Marcos Senna,es ESP,MF,30,26,1.0,1.0,2009-2010,d6cbdbe,Villarreal,"2,186",24.3,5.0,0.0,51.0,1.0,2707.0,Villarreal
-,Ángel López,es ESP,"DF,MF",24,22,0.0,1.0,2009-2010,93cdc601,Villarreal,"1,977",22.0,8.0,1.0,51.0,1.0,,Villarreal
-,Joseba Llorente,es ESP,FW,29,20,2.0,9.0,2009-2010,ddb98947,Villarreal,"1,762",19.6,8.0,1.0,51.0,1.0,,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,20,19,0.0,0.0,2009-2010,46e6fea3,Villarreal,"1,640",18.2,4.0,3.0,51.0,5.0,2725.0,Villarreal
-,Santi Cazorla,es ESP,MF,24,16,1.0,5.0,2009-2010,2e9c250,Villarreal,"1,497",16.6,4.0,0.0,51.0,1.0,,Villarreal
-,Javi Venta,es ESP,DF,18,16,0.0,0.0,2009-2010,fc3efd36,Villarreal,"1,415",15.7,4.0,0.0,51.0,1.0,2712.0,Villarreal
-,Iván Marcano,es ESP,DF,16,15,0.0,1.0,2009-2010,7a20d90a,Villarreal,"1,292",14.4,5.0,1.0,51.0,1.0,2749.0,Villarreal
-,Ariel Ibagaza,ar ARG,MF,24,14,4.0,2.0,2009-2010,bd513ca4,Villarreal,"1,246",13.8,5.0,0.0,51.0,5.0,,Villarreal
-,Robert Pirès,fr FRA,"FW,MF",29,13,1.0,4.0,2009-2010,59bfafcf,Villarreal,"1,322",14.7,4.0,0.0,51.0,4.0,2739.0,Villarreal
-,David Fuster,es ESP,MF,22,11,0.0,3.0,2009-2010,23cbf415,Villarreal,"1,124",12.5,6.0,0.0,51.0,1.0,2750.0,Villarreal
-,Sebastián Eguren,uy URU,MF,14,9,1.0,0.0,2009-2010,de07ca1e,Villarreal,862,9.6,4.0,0.0,51.0,8.0,2742.0,Villarreal
-,Mateo Musacchio,ar ARG,DF,7,5,0.0,0.0,2009-2010,91899ca8,Villarreal,405,4.5,0.0,1.0,51.0,5.0,2751.0,Villarreal
-,Damián Escudero,ar ARG,MF,13,3,2.0,1.0,2009-2010,8c16b37a,Villarreal,355,3.9,0.0,0.0,51.0,5.0,,Villarreal
-,Javier Matilla,es ESP,MF,2,2,0.0,0.0,2009-2010,35fa45cc,Villarreal,165,1.8,0.0,0.0,51.0,1.0,,Villarreal
-,Kiko Olivas,es ESP,DF,2,2,0.0,0.0,2009-2010,72b07a9c,Villarreal,116,1.3,0.0,1.0,51.0,1.0,,Villarreal
-,Marco Ruben,ar ARG,FW,4,1,0.0,0.0,2009-2010,30795728,Villarreal,123,1.4,0.0,0.0,51.0,5.0,2752.0,Villarreal
-,Jonathan Pereira,es ESP,FW,6,0,0.0,0.0,2009-2010,806ab4b6,Villarreal,137,1.5,2.0,0.0,51.0,1.0,,Villarreal
-,Marcos Gullón,es ESP,MF,1,0,0.0,0.0,2009-2010,80a6cb7f,Villarreal,5,0.1,0.0,0.0,51.0,1.0,2753.0,Villarreal
-,﻿Diego López,es ESP,GK,38,38,0.0,0.0,2010-2011,73683fa9,Villarreal,"3,420",38.0,3.0,0.0,51.0,1.0,47.0,Villarreal
-,Bruno Soriano,es ESP,MF,37,36,1.0,0.0,2010-2011,09332647,Villarreal,"3,276",36.4,9.0,0.0,51.0,1.0,,Villarreal
-,Giuseppe Rossi,it ITA,FW,36,35,4.0,18.0,2010-2011,fe48a073,Villarreal,"2,999",33.3,6.0,0.0,51.0,9.0,,Villarreal
-,Borja Valero,es ESP,MF,35,34,10.0,3.0,2010-2011,0e21fc3c,Villarreal,"2,947",32.7,9.0,1.0,51.0,1.0,,Villarreal
-,Santi Cazorla,es ESP,MF,37,34,10.0,5.0,2010-2011,2e9c250,Villarreal,"2,884",32.0,6.0,0.0,51.0,1.0,,Villarreal
-,Joan Capdevila,es ESP,DF,31,30,0.0,2.0,2010-2011,69697a6d,Villarreal,"2,629",29.2,6.0,0.0,51.0,1.0,,Villarreal
-,Mateo Musacchio,ar ARG,DF,31,27,1.0,0.0,2010-2011,91899ca8,Villarreal,"2,387",26.5,9.0,1.0,51.0,5.0,2751.0,Villarreal
-,Nilmar,br BRA,FW,31,27,2.0,10.0,2010-2011,90a5a4aa,Villarreal,"2,359",26.2,3.0,0.0,51.0,2.0,2748.0,Villarreal
-,Carlos Marchena,es ESP,"DF,MF",28,27,0.0,1.0,2010-2011,48ddb821,Villarreal,"2,345",26.1,10.0,1.0,51.0,1.0,,Villarreal
-,Cani,es ESP,MF,34,25,3.0,5.0,2010-2011,b493db11,Villarreal,"2,079",23.1,4.0,1.0,51.0,1.0,,Villarreal
-,Mario Gaspar,es ESP,DF,22,20,1.0,1.0,2010-2011,fb5d47b3,Villarreal,"1,833",20.4,5.0,0.0,51.0,1.0,2747.0,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,23,20,0.0,1.0,2010-2011,46e6fea3,Villarreal,"1,810",20.1,5.0,1.0,51.0,5.0,2725.0,Villarreal
-,Ángel López,es ESP,"DF,MF",18,18,2.0,0.0,2010-2011,93cdc601,Villarreal,"1,594",17.7,4.0,0.0,51.0,1.0,,Villarreal
-,Marcos Senna,es ESP,MF,20,15,0.0,1.0,2010-2011,d6cbdbe,Villarreal,"1,225",13.6,2.0,0.0,51.0,1.0,2707.0,Villarreal
-,Marco Ruben,ar ARG,FW,30,12,2.0,5.0,2010-2011,30795728,Villarreal,"1,300",14.4,4.0,0.0,51.0,5.0,2752.0,Villarreal
-,José Catalá,es ESP,DF,16,10,2.0,1.0,2010-2011,c0a9088,Villarreal,955,10.6,1.0,0.0,51.0,1.0,2754.0,Villarreal
-,Javier Matilla,es ESP,MF,11,3,0.0,0.0,2010-2011,35fa45cc,Villarreal,361,4.0,0.0,0.0,51.0,1.0,,Villarreal
-,Kiko Olivas,es ESP,DF,4,2,0.0,0.0,2010-2011,72b07a9c,Villarreal,183,2.0,1.0,0.0,51.0,1.0,,Villarreal
-,Wakaso,gh GHA,MF,11,1,0.0,0.0,2010-2011,999908af,Villarreal,300,3.3,3.0,0.0,51.0,17.0,2755.0,Villarreal
-,Joan Oriol,es ESP,DF,6,1,0.0,0.0,2010-2011,7ccb2ef6,Villarreal,142,1.6,1.0,0.0,51.0,1.0,,Villarreal
-,Carlos Tomás,es ESP,DF,1,1,0.0,0.0,2010-2011,c4559662,Villarreal,90,1.0,0.0,0.0,51.0,1.0,2756.0,Villarreal
-,Marcos Gullón,es ESP,MF,1,1,0.0,0.0,2010-2011,80a6cb7f,Villarreal,68,0.8,1.0,0.0,51.0,1.0,2753.0,Villarreal
-,Cristóbal,es ESP,"DF,MF",2,1,0.0,0.0,2010-2011,81da94e5,Villarreal,66,0.7,0.0,0.0,51.0,1.0,2757.0,Villarreal
-,Jefferson Montero,ec ECU,"FW,MF",9,0,1.0,1.0,2010-2011,fa6561bf,Villarreal,145,1.6,0.0,0.0,51.0,61.0,,Villarreal
-,Cicinho,br BRA,DF,6,0,0.0,0.0,2010-2011,9e4e6402,Villarreal,92,1.0,0.0,0.0,51.0,2.0,42.0,Villarreal
-,Jozy Altidore,us USA,FW,3,0,0.0,0.0,2010-2011,8db8ad1e,Villarreal,35,0.4,0.0,0.0,51.0,75.0,2745.0,Villarreal
-,Nicki Bille Nielsen,dk DEN,FW,1,0,0.0,0.0,2010-2011,c0a57418,Villarreal,16,0.2,0.0,0.0,51.0,7.0,2758.0,Villarreal
-,Natxo Insa,my MAS,MF,1,0,0.0,0.0,2010-2011,28ccefcd,Villarreal,11,0.1,0.0,0.0,51.0,68.0,,Villarreal
-,﻿Bruno Soriano,es ESP,MF,37,37,1.0,3.0,2011-2012,09332647,Villarreal,"3,330",37.0,8.0,0.0,51.0,1.0,,Villarreal
-,Diego López,es ESP,GK,37,37,0.0,0.0,2011-2012,73683fa9,Villarreal,"3,262",36.2,4.0,1.0,51.0,1.0,47.0,Villarreal
-,Borja Valero,es ESP,MF,36,36,5.0,5.0,2011-2012,0e21fc3c,Villarreal,"3,135",34.8,4.0,0.0,51.0,1.0,,Villarreal
-,Mateo Musacchio,ar ARG,DF,30,29,0.0,0.0,2011-2012,91899ca8,Villarreal,"2,648",29.4,7.0,0.0,51.0,5.0,2751.0,Villarreal
-,Cristián Zapata,co COL,DF,28,28,0.0,0.0,2011-2012,b1deecf8,Villarreal,"2,492",27.7,5.0,0.0,51.0,19.0,2759.0,Villarreal
-,Cani,es ESP,MF,29,27,3.0,0.0,2011-2012,b493db11,Villarreal,"1,894",21.0,4.0,0.0,51.0,1.0,,Villarreal
-,Marco Ruben,ar ARG,FW,31,26,3.0,9.0,2011-2012,30795728,Villarreal,"2,269",25.2,8.0,0.0,51.0,5.0,2752.0,Villarreal
-,Marcos Senna,es ESP,MF,31,24,2.0,5.0,2011-2012,d6cbdbe,Villarreal,"2,087",23.2,4.0,0.0,51.0,1.0,2707.0,Villarreal
-,Gonzalo Rodríguez,ar ARG,DF,26,24,0.0,1.0,2011-2012,46e6fea3,Villarreal,"2,060",22.9,8.0,0.0,51.0,5.0,2725.0,Villarreal
-,Joan Oriol,es ESP,DF,21,21,0.0,0.0,2011-2012,7ccb2ef6,Villarreal,"1,868",20.8,4.0,1.0,51.0,1.0,,Villarreal
-,Mario Gaspar,es ESP,DF,23,20,0.0,1.0,2011-2012,fb5d47b3,Villarreal,"1,869",20.8,3.0,0.0,51.0,1.0,2747.0,Villarreal
-,Ángel López,es ESP,"DF,MF",21,15,1.0,1.0,2011-2012,93cdc601,Villarreal,"1,368",15.2,3.0,1.0,51.0,1.0,,Villarreal
-,Nilmar,br BRA,FW,21,13,1.0,4.0,2011-2012,90a5a4aa,Villarreal,"1,178",13.1,2.0,0.0,51.0,2.0,2748.0,Villarreal
-,José Catalá,es ESP,DF,13,13,1.0,0.0,2011-2012,c0a9088,Villarreal,"1,128",12.5,5.0,0.0,51.0,1.0,2754.0,Villarreal
-,Hernán Pérez,py PAR,"FW,MF",21,12,1.0,4.0,2011-2012,1cea3f7,Villarreal,"1,111",12.3,4.0,0.0,51.0,43.0,,Villarreal
-,Jonathan de Guzmán,nl NED,MF,19,11,0.0,0.0,2011-2012,1bcca8b8,Villarreal,991,11.0,5.0,0.0,51.0,11.0,,Villarreal
-,Javier Camuñas,es ESP,"FW,MF",27,10,2.0,1.0,2011-2012,bbc1db07,Villarreal,"1,185",13.2,2.0,0.0,51.0,1.0,,Villarreal
-,Carlos Marchena,es ESP,"DF,MF",17,9,1.0,0.0,2011-2012,48ddb821,Villarreal,774,8.6,7.0,1.0,51.0,1.0,,Villarreal
-,Giuseppe Rossi,it ITA,FW,9,9,0.0,3.0,2011-2012,fe48a073,Villarreal,746,8.3,3.0,0.0,51.0,9.0,,Villarreal
-,Jaume Costa,es ESP,DF,6,6,0.0,0.0,2011-2012,808d48f3,Villarreal,540,6.0,2.0,0.0,51.0,1.0,,Villarreal
-,Alejandro Martinuccio,ar ARG,"FW,MF",13,5,0.0,1.0,2011-2012,72b206f3,Villarreal,507,5.6,2.0,0.0,51.0,5.0,2760.0,Villarreal
-,Joselu,es ESP,FW,11,3,1.0,0.0,2011-2012,5e9c273,Villarreal,332,3.7,1.0,0.0,51.0,1.0,,Villarreal
-,Gonzalo Castellani,ar ARG,MF,10,1,0.0,0.0,2011-2012,089163c,Villarreal,267,3.0,1.0,0.0,51.0,5.0,,Villarreal
-,Wakaso,gh GHA,MF,6,1,0.0,0.0,2011-2012,999908af,Villarreal,197,2.2,3.0,0.0,51.0,17.0,2755.0,Villarreal
-,César Sánchez,es ESP,GK,2,1,0.0,0.0,2011-2012,c6e6e5d6,Villarreal,158,1.8,1.0,0.0,51.0,1.0,29.0,Villarreal
-,Moi Gómez,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,5a626448,Villarreal,66,0.7,0.0,0.0,51.0,1.0,2761.0,Villarreal
-,Gerard Bordas,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,56ef2fd7,Villarreal,46,0.5,0.0,0.0,51.0,1.0,2762.0,Villarreal
-,Florian Lejeune,fr FRA,"DF,MF",2,0,0.0,0.0,2011-2012,6eaed4eb,Villarreal,16,0.2,0.0,0.0,51.0,4.0,2763.0,Villarreal
-,﻿Mateo Musacchio,ar ARG,DF,39,39,3.0,2.0,2012-2013,91899ca8,Villarreal,"3,489",38.8,12.0,0.0,51.0,5.0,2751.0,Villarreal
-,Bruno Soriano,es ESP,MF,36,35,3.0,4.0,2012-2013,09332647,Villarreal,"3,113",34.6,9.0,3.0,51.0,1.0,,Villarreal
-,Cani,es ESP,MF,37,35,5.0,3.0,2012-2013,b493db11,Villarreal,"2,738",30.4,9.0,0.0,51.0,1.0,,Villarreal
-,Juan Carlos,es ESP,GK,32,32,0.0,0.0,2012-2013,bc5adc98,Villarreal,"2,880",32.0,2.0,0.0,51.0,1.0,2744.0,Villarreal
-,Mario Gaspar,es ESP,DF,28,27,4.0,0.0,2012-2013,fb5d47b3,Villarreal,"2,434",27.0,5.0,0.0,51.0,1.0,2747.0,Villarreal
-,Olof Mellberg,se SWE,"DF,MF",29,26,0.0,2.0,2012-2013,1c95e93d,Villarreal,"2,266",25.2,10.0,1.0,51.0,41.0,2764.0,Villarreal
-,Marcos Senna,es ESP,MF,33,25,0.0,5.0,2012-2013,d6cbdbe,Villarreal,"2,230",24.8,9.0,0.0,51.0,1.0,2707.0,Villarreal
-,Jaume Costa,es ESP,DF,32,24,3.0,0.0,2012-2013,808d48f3,Villarreal,"2,305",25.6,12.0,0.0,51.0,1.0,,Villarreal
-,Ikechukwu Uche,ng NGA,FW,32,23,3.0,14.0,2012-2013,ba7c6d25,Villarreal,"2,136",23.7,0.0,0.0,51.0,52.0,,Villarreal
-,Manu Trigueros,es ESP,MF,36,21,3.0,3.0,2012-2013,963829d0,Villarreal,"2,202",24.5,5.0,0.0,51.0,1.0,2765.0,Villarreal
-,Joan Oriol,es ESP,DF,23,21,0.0,0.0,2012-2013,7ccb2ef6,Villarreal,"1,874",20.8,6.0,1.0,51.0,1.0,,Villarreal
-,Moi Gómez,es ESP,"FW,MF",24,16,2.0,1.0,2012-2013,5a626448,Villarreal,"1,458",16.2,5.0,0.0,51.0,1.0,2761.0,Villarreal
-,Javi Venta,es ESP,DF,15,15,2.0,0.0,2012-2013,fc3efd36,Villarreal,"1,322",14.7,1.0,0.0,51.0,1.0,2712.0,Villarreal
-,Jérémy Perbet,fr FRA,FW,18,15,3.0,11.0,2012-2013,dfe2f225,Villarreal,"1,246",13.8,3.0,0.0,51.0,4.0,2766.0,Villarreal
-,Fernando Cavenaghi,ar ARG,FW,18,15,1.0,4.0,2012-2013,d34453a9,Villarreal,"1,143",12.7,1.0,0.0,51.0,5.0,,Villarreal
-,Jonathan Pereira,es ESP,FW,20,11,4.0,7.0,2012-2013,806ab4b6,Villarreal,"1,147",12.7,4.0,0.0,51.0,1.0,,Villarreal
-,Chechu,es ESP,DF,11,11,0.0,0.0,2012-2013,98f3a6a,Villarreal,934,10.4,2.0,0.0,51.0,1.0,,Villarreal
-,Javier Aquino,mx MEX,"DF,MF",12,10,1.0,0.0,2012-2013,215104cc,Villarreal,785,8.7,2.0,0.0,51.0,20.0,2767.0,Villarreal
-,Héctor Canteros,ar ARG,MF,12,10,3.0,2.0,2012-2013,82d5eeaa,Villarreal,692,7.7,1.0,1.0,51.0,5.0,2768.0,Villarreal
-,Diego Mariño,es ESP,GK,9,9,0.0,0.0,2012-2013,d9235a45,Villarreal,810,9.0,1.0,0.0,51.0,1.0,,Villarreal
-,Hernán Pérez,py PAR,"FW,MF",16,8,0.0,2.0,2012-2013,1cea3f7,Villarreal,895,9.9,4.0,1.0,51.0,43.0,,Villarreal
-,Javier Farinós,es ESP,MF,11,8,1.0,1.0,2012-2013,d9b0f08e,Villarreal,694,7.7,3.0,0.0,51.0,1.0,,Villarreal
-,Gerard Moreno,es ESP,FW,14,8,2.0,3.0,2012-2013,81f0781e,Villarreal,629,7.0,0.0,0.0,51.0,1.0,,Villarreal
-,Pablo Íñiguez,es ESP,"DF,MF",7,6,0.0,0.0,2012-2013,dd55192d,Villarreal,530,5.9,0.0,0.0,51.0,1.0,2772.0,Villarreal
-,Walter Pandiani,uy URU,FW,17,3,0.0,2.0,2012-2013,11899bb1,Villarreal,473,5.3,3.0,0.0,51.0,8.0,,Villarreal
-,Daniel Toribio,es ESP,MF,5,2,1.0,0.0,2012-2013,0ced6664,Villarreal,206,2.3,3.0,0.0,51.0,1.0,,Villarreal
-,Gerard Bordas,es ESP,"FW,MF",6,2,0.0,0.0,2012-2013,56ef2fd7,Villarreal,189,2.1,0.0,0.0,51.0,1.0,2762.0,Villarreal
-,Florian Lejeune,fr FRA,"DF,MF",3,2,0.0,0.0,2012-2013,6eaed4eb,Villarreal,136,1.5,1.0,0.0,51.0,4.0,2763.0,Villarreal
-,Juanma,es ESP,MF,5,1,0.0,0.0,2012-2013,f4f22926,Villarreal,199,2.2,0.0,0.0,51.0,1.0,,Villarreal
-,Joan Truyols,es ESP,DF,3,1,0.0,0.0,2012-2013,f43f64f,Villarreal,143,1.6,0.0,0.0,51.0,1.0,,Villarreal
-,Jorge Palatsí,es ESP,GK,1,1,0.0,0.0,2012-2013,cd66e46b,Villarreal,90,1.0,0.0,0.0,51.0,1.0,2769.0,Villarreal
-,Gonzalez Pablo,,,2,0,0.0,0.0,2012-2013,,Villarreal,23,0.3,0.0,0.0,51.0,,,Villarreal
-,﻿Mario Gaspar,es ESP,DF,36,36,2.0,1.0,2013-2014,fb5d47b3,Villarreal,"3,240",36.0,4.0,0.0,51.0,1.0,2747.0,Villarreal
-,Sergio Asenjo,es ESP,GK,35,35,0.0,0.0,2013-2014,9f0ea33f,Villarreal,"3,150",35.0,1.0,0.0,51.0,1.0,,Villarreal
-,Bruno Soriano,es ESP,MF,36,35,2.0,6.0,2013-2014,09332647,Villarreal,"2,976",33.1,6.0,1.0,51.0,1.0,,Villarreal
-,Mateo Musacchio,ar ARG,DF,32,32,1.0,1.0,2013-2014,91899ca8,Villarreal,"2,841",31.6,4.0,0.0,51.0,5.0,2751.0,Villarreal
-,Jaume Costa,es ESP,DF,30,26,1.0,1.0,2013-2014,808d48f3,Villarreal,"2,465",27.4,12.0,0.0,51.0,1.0,,Villarreal
-,Giovani dos Santos,mx MEX,"FW,MF",31,26,8.0,11.0,2013-2014,7dba6233,Villarreal,"2,195",24.4,2.0,0.0,51.0,20.0,,Villarreal
-,Cani,es ESP,MF,26,24,6.0,3.0,2013-2014,b493db11,Villarreal,"1,996",22.2,4.0,0.0,51.0,1.0,,Villarreal
-,Manu Trigueros,es ESP,MF,35,23,2.0,2.0,2013-2014,963829d0,Villarreal,"2,082",23.1,6.0,0.0,51.0,1.0,2765.0,Villarreal
-,Tomás Pina Isla,es ESP,MF,35,21,0.0,2.0,2013-2014,54bd0a2,Villarreal,"2,009",22.3,7.0,0.0,51.0,1.0,,Villarreal
-,Ikechukwu Uche,ng NGA,FW,30,19,2.0,13.0,2013-2014,ba7c6d25,Villarreal,"1,740",19.3,4.0,1.0,51.0,52.0,,Villarreal
-,Javier Aquino,mx MEX,"DF,MF",32,18,5.0,1.0,2013-2014,215104cc,Villarreal,"1,848",20.5,2.0,0.0,51.0,20.0,2767.0,Villarreal
-,Chechu,es ESP,DF,19,17,1.0,0.0,2013-2014,98f3a6a,Villarreal,"1,525",16.9,2.0,0.0,51.0,1.0,,Villarreal
-,Gabriel Paulista,br BRA,DF,18,17,0.0,0.0,2013-2014,b7ca5c51,Villarreal,"1,519",16.9,5.0,1.0,51.0,2.0,,Villarreal
-,Jonathan Pereira,es ESP,FW,30,15,6.0,4.0,2013-2014,806ab4b6,Villarreal,"1,406",15.6,3.0,0.0,51.0,1.0,,Villarreal
-,Moi Gómez,es ESP,"FW,MF",19,15,2.0,2.0,2013-2014,5a626448,Villarreal,"1,241",13.8,0.0,0.0,51.0,1.0,2761.0,Villarreal
-,Bojan Jokić,si SVN,"DF,MF",15,14,1.0,0.0,2013-2014,8ac44cc2,Villarreal,"1,283",14.3,6.0,0.0,51.0,32.0,2770.0,Villarreal
-,Jérémy Perbet,fr FRA,FW,26,13,2.0,10.0,2013-2014,dfe2f225,Villarreal,"1,266",14.1,3.0,0.0,51.0,4.0,2766.0,Villarreal
-,Hernán Pérez,py PAR,"FW,MF",13,9,0.0,1.0,2013-2014,1cea3f7,Villarreal,683,7.6,0.0,0.0,51.0,43.0,,Villarreal
-,Aleksandar Pantić,rs SRB,DF,9,6,0.0,0.0,2013-2014,70e5566a,Villarreal,609,6.8,1.0,0.0,51.0,28.0,2771.0,Villarreal
-,Óliver Torres,es ESP,MF,9,6,1.0,0.0,2013-2014,58a9a4d9,Villarreal,502,5.6,2.0,0.0,51.0,1.0,,Villarreal
-,Juan Carlos,es ESP,GK,3,3,0.0,0.0,2013-2014,bc5adc98,Villarreal,270,3.0,0.0,0.0,51.0,1.0,2744.0,Villarreal
-,Pablo Íñiguez,es ESP,"DF,MF",3,3,0.0,0.0,2013-2014,dd55192d,Villarreal,219,2.4,0.0,1.0,51.0,1.0,2772.0,Villarreal
-,Matías Nahuel,es ESP,"FW,MF",5,2,0.0,0.0,2013-2014,48e4c485,Villarreal,199,2.2,0.0,0.0,51.0,1.0,,Villarreal
-,Edu Ramos,es ESP,MF,3,2,0.0,0.0,2013-2014,6793b40,Villarreal,132,1.5,0.0,0.0,51.0,1.0,,Villarreal
-,Joan Àngel Román,es ESP,"FW,MF",2,1,0.0,0.0,2013-2014,150a54c2,Villarreal,90,1.0,0.0,0.0,51.0,1.0,2773.0,Villarreal
-,﻿Sergio Asenjo,es ESP,GK,34,34,0.0,0.0,2014-2015,9f0ea33f,Villarreal,"3,053",33.9,1.0,0.0,51.0,1.0,,Villarreal
-,Mario Gaspar,es ESP,DF,34,31,2.0,3.0,2014-2015,fb5d47b3,Villarreal,"2,841",31.6,5.0,0.0,51.0,1.0,2747.0,Villarreal
-,Jaume Costa,es ESP,DF,29,28,0.0,1.0,2014-2015,808d48f3,Villarreal,"2,427",27.0,8.0,1.0,51.0,1.0,,Villarreal
-,Manu Trigueros,es ESP,MF,33,28,1.0,1.0,2014-2015,963829d0,Villarreal,"2,416",26.8,9.0,0.0,51.0,1.0,2765.0,Villarreal
-,Víctor Ruiz,es ESP,"DF,MF",25,24,2.0,0.0,2014-2015,b3dc6eca,Villarreal,"2,205",24.5,5.0,0.0,51.0,1.0,,Villarreal
-,Bruno Soriano,es ESP,MF,24,23,1.0,2.0,2014-2015,09332647,Villarreal,"2,083",23.1,3.0,0.0,51.0,1.0,,Villarreal
-,Gerard Moreno,es ESP,FW,26,19,3.0,7.0,2014-2015,81f0781e,Villarreal,"1,615",17.9,2.0,0.0,51.0,1.0,,Villarreal
-,Ikechukwu Uche,ng NGA,FW,23,19,1.0,6.0,2014-2015,ba7c6d25,Villarreal,"1,363",15.1,2.0,0.0,51.0,52.0,,Villarreal
-,Denis Cheryshev,ru RUS,"FW,MF",26,18,9.0,4.0,2014-2015,0ac94a23,Villarreal,"1,687",18.7,7.0,0.0,51.0,23.0,137.0,Villarreal
-,Gabriel Paulista,br BRA,DF,19,18,0.0,0.0,2014-2015,b7ca5c51,Villarreal,"1,586",17.6,4.0,0.0,51.0,2.0,,Villarreal
-,Luciano Vietto,ar ARG,"FW,MF",32,17,2.0,12.0,2014-2015,2513a588,Villarreal,"1,908",21.2,5.0,0.0,51.0,5.0,,Villarreal
-,Jonathan dos Santos,mx MEX,MF,28,17,1.0,2.0,2014-2015,91872dec,Villarreal,"1,640",18.2,5.0,0.0,51.0,20.0,,Villarreal
-,Moi Gómez,es ESP,"FW,MF",31,17,4.0,4.0,2014-2015,5a626448,Villarreal,"1,617",18.0,6.0,0.0,51.0,1.0,2761.0,Villarreal
-,Tomás Pina Isla,es ESP,MF,22,17,3.0,0.0,2014-2015,54bd0a2,Villarreal,"1,453",16.1,4.0,1.0,51.0,1.0,,Villarreal
-,Joel Campbell,cr CRC,"FW,MF",16,16,0.0,1.0,2014-2015,895ff3ca,Villarreal,"1,197",13.3,1.0,0.0,51.0,22.0,,Villarreal
-,Antonio Rukavina,rs SRB,DF,21,15,0.0,0.0,2014-2015,12d7851,Villarreal,"1,414",15.7,5.0,0.0,51.0,28.0,,Villarreal
-,Giovani dos Santos,mx MEX,"FW,MF",26,15,3.0,1.0,2014-2015,7dba6233,Villarreal,"1,390",15.4,5.0,0.0,51.0,20.0,,Villarreal
-,Chechu,es ESP,DF,15,13,0.0,0.0,2014-2015,98f3a6a,Villarreal,"1,149",12.8,3.0,0.0,51.0,1.0,,Villarreal
-,Mateo Musacchio,ar ARG,DF,14,12,0.0,3.0,2014-2015,91899ca8,Villarreal,"1,139",12.7,2.0,0.0,51.0,5.0,2751.0,Villarreal
-,Eric Bailly,ci CIV,DF,10,10,0.0,0.0,2014-2015,1232f4e,Villarreal,823,9.1,5.0,0.0,51.0,35.0,2774.0,Villarreal
-,Bojan Jokić,si SVN,"DF,MF",7,6,0.0,0.0,2014-2015,8ac44cc2,Villarreal,553,6.1,2.0,0.0,51.0,32.0,2770.0,Villarreal
-,Sergio Marcos,es ESP,MF,7,5,0.0,0.0,2014-2015,331be23,Villarreal,483,5.4,0.0,0.0,51.0,1.0,,Villarreal
-,Cani,es ESP,MF,9,5,2.0,0.0,2014-2015,b493db11,Villarreal,450,5.0,1.0,0.0,51.0,1.0,,Villarreal
-,Juan Carlos,es ESP,GK,5,4,0.0,0.0,2014-2015,bc5adc98,Villarreal,367,4.1,0.0,0.0,51.0,1.0,2744.0,Villarreal
-,Adrián Marín,es ESP,DF,4,4,0.0,0.0,2014-2015,b7f2edff,Villarreal,344,3.8,1.0,0.0,51.0,1.0,2781.0,Villarreal
-,Javier Espinosa,es ESP,MF,6,3,0.0,1.0,2014-2015,8e08d88c,Villarreal,291,3.2,1.0,0.0,51.0,1.0,2775.0,Villarreal
-,Alfonso Pedraza,es ESP,"DF,FW",2,0,0.0,0.0,2014-2015,63f04c6c,Villarreal,45,0.5,1.0,0.0,51.0,1.0,,Villarreal
-,Fran Sol,es ESP,FW,2,0,0.0,0.0,2014-2015,9bd3b683,Villarreal,21,0.2,0.0,0.0,51.0,1.0,2776.0,Villarreal
-,Aitor Fernández,es ESP,GK,0,0,,,2014-2015,01c3d54,Villarreal,,,,,51.0,1.0,2777.0,Villarreal
-,Javier Jiménez,es ESP,DF,0,0,,,2014-2015,d7af6f5b,Villarreal,,,,,51.0,1.0,,Villarreal
-,Matías Nahuel,es ESP,"FW,MF",0,0,,,2014-2015,48e4c485,Villarreal,,,,,51.0,1.0,,Villarreal
-,Anton Shvets,ru RUS,MF,0,0,,,2014-2015,de5c4781,Villarreal,,,,,51.0,23.0,2778.0,Villarreal
-,﻿Víctor Ruiz,es ESP,DF,35,32,0.0,0.0,2015-2016,b3dc6eca,Villarreal,"2,991",33.2,10.0,0.0,51.0,1.0,,Villarreal
-,Alphonse Areola,fr FRA,GK,32,32,0.0,0.0,2015-2016,2f965a72,Villarreal,"2,880",32.0,1.0,0.0,51.0,4.0,167.0,Villarreal
-,Mario Gaspar,es ESP,DF,33,32,2.0,2.0,2015-2016,fb5d47b3,Villarreal,"2,874",31.9,8.0,0.0,51.0,1.0,2747.0,Villarreal
-,Bruno Soriano,es ESP,MF,31,28,1.0,5.0,2015-2016,09332647,Villarreal,"2,596",28.8,5.0,1.0,51.0,1.0,,Villarreal
-,Roberto Soldado,es ESP,FW,28,27,10.0,5.0,2015-2016,9d66fbe3,Villarreal,"2,246",25.0,12.0,0.0,51.0,1.0,46.0,Villarreal
-,Denis Suárez,es ESP,MF,33,25,4.0,4.0,2015-2016,12c50af5,Villarreal,"2,373",26.4,3.0,0.0,51.0,1.0,,Villarreal
-,Eric Bailly,ci CIV,DF,25,25,0.0,0.0,2015-2016,1232f4e,Villarreal,"2,019",22.4,11.0,1.0,51.0,35.0,2774.0,Villarreal
-,Manu Trigueros,es ESP,MF,31,24,1.0,2.0,2015-2016,963829d0,Villarreal,"2,114",23.5,5.0,0.0,51.0,1.0,2765.0,Villarreal
-,Cédric Bakambu,cd COD,FW,34,21,3.0,12.0,2015-2016,0af4dcf0,Villarreal,"1,859",20.7,4.0,0.0,51.0,50.0,2779.0,Villarreal
-,Jonathan dos Santos,mx MEX,MF,26,20,1.0,0.0,2015-2016,91872dec,Villarreal,"1,758",19.5,4.0,0.0,51.0,20.0,,Villarreal
-,Samu Castillejo,es ESP,MF,28,19,1.0,1.0,2015-2016,130a7a3f,Villarreal,"1,695",18.8,4.0,0.0,51.0,1.0,,Villarreal
-,Tomás Pina Isla,es ESP,MF,27,19,1.0,0.0,2015-2016,54bd0a2,Villarreal,"1,633",18.1,4.0,0.0,51.0,1.0,,Villarreal
-,Jaume Costa,es ESP,DF,18,17,1.0,1.0,2015-2016,808d48f3,Villarreal,"1,538",17.1,8.0,0.0,51.0,1.0,,Villarreal
-,Antonio Rukavina,rs SRB,"DF,MF",18,14,0.0,0.0,2015-2016,12d7851,Villarreal,"1,349",15.0,5.0,0.0,51.0,28.0,,Villarreal
-,Léo Baptistão,br BRA,FW,26,12,1.0,3.0,2015-2016,35f6db55,Villarreal,"1,266",14.1,1.0,0.0,51.0,2.0,,Villarreal
-,Mateo Musacchio,ar ARG,DF,13,12,0.0,1.0,2015-2016,91899ca8,Villarreal,"1,007",11.2,1.0,0.0,51.0,5.0,2751.0,Villarreal
-,Matías Nahuel,es ESP,"MF,FW",20,11,1.0,0.0,2015-2016,48e4c485,Villarreal,"1,002",11.1,4.0,0.0,51.0,1.0,,Villarreal
-,Daniele Bonera,it ITA,DF,14,10,0.0,0.0,2015-2016,13b0c150,Villarreal,974,10.8,5.0,1.0,51.0,9.0,2780.0,Villarreal
-,Adrián Marín,es ESP,DF,11,10,0.0,0.0,2015-2016,b7f2edff,Villarreal,926,10.3,1.0,0.0,51.0,1.0,2781.0,Villarreal
-,Adrián López,es ESP,FW,16,10,4.0,4.0,2015-2016,88a359d4,Villarreal,788,8.8,1.0,0.0,51.0,1.0,,Villarreal
-,Samu García,es ESP,"MF,FW",16,7,1.0,2.0,2015-2016,5f7db81a,Villarreal,766,8.5,2.0,0.0,51.0,1.0,,Villarreal
-,Sergio Asenjo,es ESP,GK,4,4,0.0,0.0,2015-2016,9f0ea33f,Villarreal,360,4.0,1.0,0.0,51.0,1.0,,Villarreal
-,Mariano Barbosa,ar ARG,GK,2,2,0.0,0.0,2015-2016,d4f74f,Villarreal,180,2.0,0.0,0.0,51.0,5.0,,Villarreal
-,Bojan Jokić,si SVN,DF,2,2,0.0,0.0,2015-2016,8ac44cc2,Villarreal,125,1.4,2.0,1.0,51.0,32.0,2770.0,Villarreal
-,Alfonso Pedraza,es ESP,MF,2,2,0.0,0.0,2015-2016,63f04c6c,Villarreal,105,1.2,0.0,0.0,51.0,1.0,,Villarreal
-,Rodri,es ESP,MF,3,1,0.0,0.0,2015-2016,6434f10d,Villarreal,95,1.1,1.0,0.0,51.0,1.0,,Villarreal
-,Pablo Íñiguez,es ESP,"DF,MF",0,0,,,2015-2016,dd55192d,Villarreal,,,,,51.0,1.0,2772.0,Villarreal
-,Miguel Juan Llambrich,es ESP,DF,0,0,,,2015-2016,d83f09ff,Villarreal,,,,,51.0,1.0,2782.0,Villarreal
-,﻿Mario Gaspar,es ESP,DF,36,36,3.0,0.0,2016-2017,fb5d47b3,Villarreal,"3,240",36.0,6.0,0.0,51.0,1.0,2747.0,Villarreal
-,Manu Trigueros,es ESP,MF,37,35,1.0,5.0,2016-2017,963829d0,Villarreal,"3,033",33.7,4.0,0.0,51.0,1.0,2765.0,Villarreal
-,Bruno Soriano,es ESP,MF,34,33,2.0,5.0,2016-2017,09332647,Villarreal,"2,984",33.2,5.0,0.0,51.0,1.0,,Villarreal
-,Roberto Soriano,it ITA,MF,33,31,5.0,9.0,2016-2017,9d4c45d6,Villarreal,"2,450",27.2,8.0,1.0,51.0,9.0,2783.0,Villarreal
-,Jaume Costa,es ESP,DF,31,30,3.0,1.0,2016-2017,808d48f3,Villarreal,"2,680",29.8,13.0,1.0,51.0,1.0,,Villarreal
-,Víctor Ruiz,es ESP,DF,28,27,1.0,1.0,2016-2017,b3dc6eca,Villarreal,"2,366",26.3,4.0,2.0,51.0,1.0,,Villarreal
-,Nicola Sansone,it ITA,FW,32,25,3.0,8.0,2016-2017,7eb97a8e,Villarreal,"2,115",23.5,7.0,0.0,51.0,9.0,2784.0,Villarreal
-,Sergio Asenjo,es ESP,GK,24,24,0.0,0.0,2016-2017,9f0ea33f,Villarreal,"2,104",23.4,0.0,0.0,51.0,1.0,,Villarreal
-,Samu Castillejo,es ESP,MF,33,24,2.0,2.0,2016-2017,130a7a3f,Villarreal,"2,050",22.8,2.0,0.0,51.0,1.0,,Villarreal
-,Mateo Musacchio,ar ARG,DF,23,23,2.0,0.0,2016-2017,91899ca8,Villarreal,"2,065",22.9,6.0,0.0,51.0,5.0,2751.0,Villarreal
-,Jonathan dos Santos,mx MEX,MF,34,22,3.0,2.0,2016-2017,91872dec,Villarreal,"2,214",24.6,4.0,0.0,51.0,20.0,,Villarreal
-,Álvaro González,es ESP,DF,23,20,1.0,1.0,2016-2017,42dcf26d,Villarreal,"1,887",21.0,7.0,0.0,51.0,1.0,2785.0,Villarreal
-,Cédric Bakambu,cd COD,FW,26,17,1.0,11.0,2016-2017,0af4dcf0,Villarreal,"1,567",17.4,5.0,0.0,51.0,50.0,2779.0,Villarreal
-,Andrés Fernández,es ESP,GK,15,14,0.0,0.0,2016-2017,307fcd26,Villarreal,"1,316",14.6,2.0,0.0,51.0,1.0,,Villarreal
-,Alexandre Pato,br BRA,FW,14,11,1.0,2.0,2016-2017,7dd83c7d,Villarreal,876,9.7,0.0,0.0,51.0,2.0,2786.0,Villarreal
-,Roberto Soldado,es ESP,FW,10,10,3.0,4.0,2016-2017,9d66fbe3,Villarreal,737,8.2,8.0,0.0,51.0,1.0,46.0,Villarreal
-,Rodri,es ESP,MF,23,8,1.0,0.0,2016-2017,6434f10d,Villarreal,849,9.4,1.0,0.0,51.0,1.0,,Villarreal
-,Adrián López,es ESP,"FW,MF",15,7,1.0,2.0,2016-2017,88a359d4,Villarreal,677,7.5,0.0,0.0,51.0,1.0,,Villarreal
-,José Ángel,es ESP,DF,7,7,1.0,0.0,2016-2017,3024e383,Villarreal,630,7.0,2.0,0.0,51.0,1.0,,Villarreal
-,Daniele Bonera,it ITA,DF,6,6,0.0,0.0,2016-2017,13b0c150,Villarreal,540,6.0,2.0,0.0,51.0,9.0,2780.0,Villarreal
-,Antonio Rukavina,rs SRB,DF,4,3,0.0,0.0,2016-2017,12d7851,Villarreal,272,3.0,2.0,0.0,51.0,28.0,,Villarreal
-,Rafael Borré,co COL,FW,17,2,1.0,2.0,2016-2017,c68da769,Villarreal,357,4.0,0.0,0.0,51.0,19.0,2787.0,Villarreal
-,Denis Cheryshev,ru RUS,MF,11,2,0.0,0.0,2016-2017,0ac94a23,Villarreal,340,3.8,1.0,0.0,51.0,23.0,137.0,Villarreal
-,Alfred N'Diaye,sn SEN,MF,7,1,1.0,0.0,2016-2017,7789bf63,Villarreal,115,1.3,1.0,0.0,51.0,34.0,,Villarreal
-,Mario González,es ESP,FW,2,0,0.0,0.0,2016-2017,d189e48f,Villarreal,24,0.3,0.0,0.0,51.0,1.0,2788.0,Villarreal
-,Leonardo Suárez,ar ARG,"FW,MF",3,0,0.0,0.0,2016-2017,25c72b36,Villarreal,18,0.2,0.0,0.0,51.0,5.0,,Villarreal
-,Aitor Cantalapiedra,es ESP,"FW,MF",1,0,0.0,0.0,2016-2017,21a260a8,Villarreal,4,0.0,0.0,0.0,51.0,1.0,2789.0,Villarreal
-,Mariano Barbosa,ar ARG,GK,0,0,,,2016-2017,d4f74f,Villarreal,,,,,51.0,5.0,,Villarreal
-,José Carlos Lazo,es ESP,MF,0,0,,,2016-2017,5b93209a,Villarreal,,,,,51.0,1.0,139.0,Villarreal
-,Pablo Larrea,es ESP,MF,0,0,,,2016-2017,4c8810b,Villarreal,,,,,51.0,1.0,2790.0,Villarreal
-,Darío Poveda,es ESP,FW,0,0,,,2016-2017,cbdf7d5c,Villarreal,,,,,51.0,1.0,,Villarreal
-,Dani Raba,es ESP,"FW,MF",0,0,,,2016-2017,6a7ab4,Villarreal,,,,,51.0,1.0,2791.0,Villarreal
-,﻿Rodri,es ESP,MF,37,36,3.0,1.0,2017-2018,6434f10d,Villarreal,"3,227",35.9,8.0,0.0,51.0,1.0,,Villarreal
-,Álvaro González,es ESP,DF,33,32,2.0,0.0,2017-2018,42dcf26d,Villarreal,"2,898",32.2,14.0,1.0,51.0,1.0,2785.0,Villarreal
-,Manu Trigueros,es ESP,MF,34,32,4.0,3.0,2017-2018,963829d0,Villarreal,"2,698",30.0,10.0,1.0,51.0,1.0,2765.0,Villarreal
-,Mario Gaspar,es ESP,DF,32,31,3.0,2.0,2017-2018,fb5d47b3,Villarreal,"2,806",31.2,6.0,0.0,51.0,1.0,2747.0,Villarreal
-,Pablo Fornals,es ESP,MF,35,30,12.0,3.0,2017-2018,82927de4,Villarreal,"2,620",29.1,4.0,0.0,51.0,1.0,,Villarreal
-,Carlos Bacca,co COL,FW,35,30,6.0,15.0,2017-2018,09a9e921,Villarreal,"2,497",27.7,9.0,0.0,51.0,19.0,,Villarreal
-,Jaume Costa,es ESP,DF,30,29,0.0,0.0,2017-2018,808d48f3,Villarreal,"2,536",28.2,14.0,1.0,51.0,1.0,,Villarreal
-,Víctor Ruiz,es ESP,DF,27,27,1.0,2.0,2017-2018,b3dc6eca,Villarreal,"2,416",26.8,10.0,1.0,51.0,1.0,,Villarreal
-,Samu Castillejo,es ESP,MF,30,25,5.0,6.0,2017-2018,130a7a3f,Villarreal,"2,074",23.0,4.0,0.0,51.0,1.0,,Villarreal
-,Sergio Asenjo,es ESP,GK,23,23,0.0,0.0,2017-2018,9f0ea33f,Villarreal,"2,070",23.0,3.0,0.0,51.0,1.0,,Villarreal
-,Cédric Bakambu,cd COD,FW,15,15,0.0,9.0,2017-2018,0af4dcf0,Villarreal,"1,263",14.0,5.0,0.0,51.0,50.0,2779.0,Villarreal
-,Antonio Rukavina,rs SRB,DF,17,14,0.0,0.0,2017-2018,12d7851,Villarreal,"1,272",14.1,5.0,0.0,51.0,28.0,,Villarreal
-,Daniele Bonera,it ITA,DF,15,14,1.0,0.0,2017-2018,13b0c150,Villarreal,"1,190",13.2,4.0,1.0,51.0,9.0,2780.0,Villarreal
-,Dani Raba,es ESP,"MF,FW",21,14,4.0,2.0,2017-2018,6a7ab4,Villarreal,"1,110",12.3,3.0,1.0,51.0,1.0,2791.0,Villarreal
-,Mariano Barbosa,ar ARG,GK,13,12,0.0,0.0,2017-2018,d4f74f,Villarreal,"1,125",12.5,0.0,0.0,51.0,5.0,,Villarreal
-,Roberto Soriano,it ITA,MF,22,11,0.0,0.0,2017-2018,9d4c45d6,Villarreal,"1,139",12.7,3.0,0.0,51.0,9.0,2783.0,Villarreal
-,Enes Ünal,tr TUR,FW,23,11,2.0,5.0,2017-2018,f8eca1b6,Villarreal,"1,127",12.5,1.0,0.0,51.0,15.0,,Villarreal
-,Denis Cheryshev,ru RUS,"MF,FW",24,9,1.0,2.0,2017-2018,0ac94a23,Villarreal,926,10.3,2.0,0.0,51.0,23.0,137.0,Villarreal
-,Javi Fuego,es ESP,MF,11,6,0.0,0.0,2017-2018,2e8fc160,Villarreal,537,6.0,2.0,0.0,51.0,1.0,,Villarreal
-,Nicola Sansone,it ITA,"FW,MF",18,5,1.0,5.0,2017-2018,7eb97a8e,Villarreal,635,7.1,1.0,0.0,51.0,9.0,2784.0,Villarreal
-,Rúben Semedo,pt POR,"DF,MF",4,3,0.0,0.0,2017-2018,c904f3d5,Villarreal,231,2.6,0.0,0.0,51.0,3.0,2792.0,Villarreal
-,Andrés Fernández,es ESP,GK,3,3,0.0,0.0,2017-2018,307fcd26,Villarreal,225,2.5,0.0,0.0,51.0,1.0,,Villarreal
-,Adrián Marín,es ESP,DF,3,2,0.0,0.0,2017-2018,b7f2edff,Villarreal,233,2.6,1.0,0.0,51.0,1.0,2781.0,Villarreal
-,Roger Martínez,co COL,FW,8,2,0.0,1.0,2017-2018,6f0d613a,Villarreal,230,2.6,1.0,0.0,51.0,19.0,2793.0,Villarreal
-,Alfred N'Diaye,sn SEN,"DF,MF",2,1,0.0,0.0,2017-2018,7789bf63,Villarreal,101,1.1,0.0,0.0,51.0,34.0,,Villarreal
-,Chuca,es ESP,MF,4,1,0.0,0.0,2017-2018,c4af5889,Villarreal,88,1.0,1.0,0.0,51.0,1.0,2794.0,Villarreal
-,Ramiro Guerra,uy URU,MF,4,0,0.0,0.0,2017-2018,07a0baa9,Villarreal,71,0.8,1.0,0.0,51.0,8.0,2795.0,Villarreal
-,Pau Torres,es ESP,DF,2,0,0.0,0.0,2017-2018,532e1e4f,Villarreal,52,0.6,0.0,0.0,51.0,1.0,,Villarreal
-,Salem Al-Dawsari,sa KSA,MF,1,0,0.0,0.0,2017-2018,60ee859c,Villarreal,34,0.4,1.0,0.0,51.0,95.0,2796.0,Villarreal
-,Leonardo Suárez,ar ARG,MF,1,0,0.0,0.0,2017-2018,25c72b36,Villarreal,29,0.3,0.0,0.0,51.0,5.0,,Villarreal
-,Mario González,es ESP,FW,2,0,0.0,0.0,2017-2018,d189e48f,Villarreal,18,0.2,0.0,0.0,51.0,1.0,2788.0,Villarreal
-,Darío Poveda,es ESP,MF,1,0,0.0,0.0,2017-2018,cbdf7d5c,Villarreal,2,0.0,0.0,0.0,51.0,1.0,,Villarreal
-,Ander Cantero,es ESP,GK,0,0,,,2017-2018,de9bccf3,Villarreal,,,,,51.0,1.0,2797.0,Villarreal
-,Imanol García,es ESP,MF,0,0,,,2017-2018,90ed68c,Villarreal,,,,,51.0,1.0,,Villarreal
-,Manu Morlanes,es ESP,MF,0,0,,,2017-2018,0255c67,Villarreal,,,,,51.0,1.0,2798.0,Villarreal
-,﻿Álvaro González,es ESP,DF,33,33,2.0,1.0,2018-2019,42dcf26d,Villarreal,"2,964",32.9,17.0,2.0,51.0,1.0,2785.0,Villarreal
-,Sergio Asenjo,es ESP,GK,32,32,0.0,0.0,2018-2019,9f0ea33f,Villarreal,"2,880",32.0,0.0,0.0,51.0,1.0,,Villarreal
-,Santi Cazorla,es ESP,MF,35,30,10.0,4.0,2018-2019,2e9c250,Villarreal,"2,647",29.4,2.0,0.0,51.0,1.0,,Villarreal
-,Mario Gaspar,es ESP,DF,31,30,2.0,1.0,2018-2019,fb5d47b3,Villarreal,"2,599",28.9,17.0,1.0,51.0,1.0,2747.0,Villarreal
-,Ramiro Funes Mori,ar ARG,"DF,MF",31,29,1.0,2.0,2018-2019,89cbc961,Villarreal,"2,627",29.2,15.0,0.0,51.0,5.0,2799.0,Villarreal
-,Pablo Fornals,es ESP,"MF,FW",35,28,3.0,2.0,2018-2019,82927de4,Villarreal,"2,479",27.5,4.0,0.0,51.0,1.0,,Villarreal
-,Gerard Moreno,es ESP,FW,35,25,1.0,8.0,2018-2019,81f0781e,Villarreal,"2,315",25.7,3.0,0.0,51.0,1.0,,Villarreal
-,Karl Toko Ekambi,cm CMR,"FW,MF",34,24,1.0,10.0,2018-2019,5ceba7fc,Villarreal,"2,144",23.8,5.0,0.0,51.0,36.0,2800.0,Villarreal
-,Alfonso Pedraza,es ESP,"DF,MF",34,22,3.0,3.0,2018-2019,63f04c6c,Villarreal,"2,095",23.3,3.0,0.0,51.0,1.0,,Villarreal
-,Víctor Ruiz,es ESP,DF,22,22,0.0,0.0,2018-2019,b3dc6eca,Villarreal,"1,975",21.9,10.0,0.0,51.0,1.0,,Villarreal
-,Samuel Chukwueze,ng NGA,"MF,FW",26,19,2.0,5.0,2018-2019,b8a642fc,Villarreal,"1,706",19.0,2.0,0.0,51.0,52.0,2801.0,Villarreal
-,Vicente Iborra,es ESP,MF,19,19,1.0,3.0,2018-2019,d1ffcfd,Villarreal,"1,665",18.5,7.0,0.0,51.0,1.0,,Villarreal
-,Manu Trigueros,es ESP,MF,24,18,0.0,0.0,2018-2019,963829d0,Villarreal,"1,547",17.2,3.0,0.0,51.0,1.0,2765.0,Villarreal
-,Jaume Costa,es ESP,DF,21,18,0.0,1.0,2018-2019,808d48f3,Villarreal,"1,495",16.6,6.0,0.0,51.0,1.0,,Villarreal
-,Santiago Cáseres,ar ARG,MF,23,17,1.0,0.0,2018-2019,958bba56,Villarreal,"1,588",17.6,10.0,0.0,51.0,5.0,2802.0,Villarreal
-,Carlos Bacca,co COL,FW,33,12,1.0,6.0,2018-2019,09a9e921,Villarreal,"1,270",14.1,3.0,0.0,51.0,19.0,,Villarreal
-,Xavi Quintillà,es ESP,DF,7,7,0.0,0.0,2018-2019,84fb6aff,Villarreal,627,7.0,1.0,0.0,51.0,1.0,2803.0,Villarreal
-,Manu Morlanes,es ESP,MF,10,7,3.0,0.0,2018-2019,0255c67,Villarreal,610,6.8,2.0,0.0,51.0,1.0,2798.0,Villarreal
-,Andrés Fernández,es ESP,GK,6,6,0.0,0.0,2018-2019,307fcd26,Villarreal,540,6.0,2.0,0.0,51.0,1.0,,Villarreal
-,Miguel Juan Llambrich,es ESP,"DF,FW",8,5,0.0,0.0,2018-2019,d83f09ff,Villarreal,544,6.0,1.0,0.0,51.0,1.0,2782.0,Villarreal
-,Miguel Layún,mx MEX,"MF,DF",8,5,1.0,0.0,2018-2019,d6295d4,Villarreal,506,5.6,1.0,0.0,51.0,20.0,,Villarreal
-,Daniele Bonera,it ITA,DF,5,4,0.0,0.0,2018-2019,13b0c150,Villarreal,230,2.6,1.0,0.0,51.0,9.0,2780.0,Villarreal
-,Javi Fuego,es ESP,MF,5,3,0.0,0.0,2018-2019,2e8fc160,Villarreal,233,2.6,1.0,0.0,51.0,1.0,,Villarreal
-,Dani Raba,es ESP,"MF,FW",8,2,1.0,0.0,2018-2019,6a7ab4,Villarreal,191,2.1,0.0,0.0,51.0,1.0,2791.0,Villarreal
-,Manuel Iturra,cl CHI,MF,3,1,0.0,0.0,2018-2019,000b3da6,Villarreal,74,0.8,1.0,0.0,51.0,31.0,,Villarreal
-,Nicola Sansone,it ITA,"MF,DF",3,0,1.0,1.0,2018-2019,7eb97a8e,Villarreal,37,0.4,1.0,0.0,51.0,9.0,2784.0,Villarreal
-,Mariano Barbosa,ar ARG,GK,0,0,,,2018-2019,d4f74f,Villarreal,,,,,51.0,5.0,,Villarreal
-,José Castaño,es ESP,DF,0,0,,,2018-2019,c89d15c,Villarreal,,,,,51.0,1.0,2804.0,Villarreal
-,Iván Martín,es ESP,MF,0,0,,,2018-2019,48c5cb,Villarreal,,,,,51.0,1.0,2805.0,Villarreal
-,Andrei Ratiu,ro ROU,DF,0,0,,,2018-2019,b1b99435,Villarreal,,,,,51.0,51.0,2806.0,Villarreal
-,﻿Raúl Albiol,es ESP,DF,36,36,0.0,1.0,2019-2020,4bd414c1,Villarreal,"3,237",36.0,9.0,0.0,51.0,1.0,80.0,Villarreal
-,Sergio Asenjo,es ESP,GK,34,34,0.0,0.0,2019-2020,9f0ea33f,Villarreal,"3,060",34.0,2.0,0.0,51.0,1.0,,Villarreal
-,Pau Torres,es ESP,DF,34,33,1.0,2.0,2019-2020,532e1e4f,Villarreal,"2,971",33.0,6.0,0.0,51.0,1.0,,Villarreal
-,Gerard Moreno,es ESP,"FW,MF",35,33,5.0,18.0,2019-2020,81f0781e,Villarreal,"2,744",30.5,5.0,0.0,51.0,1.0,,Villarreal
-,Vicente Iborra,es ESP,MF,34,33,2.0,1.0,2019-2020,d1ffcfd,Villarreal,"2,648",29.4,10.0,1.0,51.0,1.0,,Villarreal
-,Santi Cazorla,es ESP,MF,35,29,9.0,11.0,2019-2020,2e9c250,Villarreal,"2,450",27.2,3.0,0.0,51.0,1.0,,Villarreal
-,Andre-Frank Zambo Anguissa,cm CMR,MF,36,28,0.0,2.0,2019-2020,6bb2c084,Villarreal,"2,583",28.7,6.0,0.0,51.0,36.0,2807.0,Villarreal
-,Moi Gómez,es ESP,"MF,FW",37,26,4.0,5.0,2019-2020,5a626448,Villarreal,"2,319",25.8,1.0,0.0,51.0,1.0,2761.0,Villarreal
-,Mario Gaspar,es ESP,DF,25,22,2.0,0.0,2019-2020,fb5d47b3,Villarreal,"1,962",21.8,2.0,0.0,51.0,1.0,2747.0,Villarreal
-,Rubén Peña,es ESP,DF,26,21,2.0,2.0,2019-2020,1f079188,Villarreal,"1,909",21.2,5.0,0.0,51.0,1.0,2808.0,Villarreal
-,Samuel Chukwueze,ng NGA,"MF,FW",37,20,2.0,3.0,2019-2020,b8a642fc,Villarreal,"2,048",22.8,2.0,0.0,51.0,52.0,2801.0,Villarreal
-,Xavi Quintillà,es ESP,DF,19,17,2.0,0.0,2019-2020,84fb6aff,Villarreal,"1,573",17.5,6.0,0.0,51.0,1.0,2803.0,Villarreal
-,Manu Trigueros,es ESP,MF,29,17,4.0,2.0,2019-2020,963829d0,Villarreal,"1,547",17.2,6.0,0.0,51.0,1.0,2765.0,Villarreal
-,Alberto Moreno,es ESP,DF,18,17,0.0,0.0,2019-2020,11b9265b,Villarreal,"1,471",16.3,6.0,0.0,51.0,1.0,,Villarreal
-,Karl Toko Ekambi,cm CMR,"FW,MF",18,11,2.0,6.0,2019-2020,5ceba7fc,Villarreal,993,11.0,0.0,0.0,51.0,36.0,2800.0,Villarreal
-,Paco Alcácer,es ESP,FW,13,11,1.0,4.0,2019-2020,7a9d95a,Villarreal,924,10.3,1.0,0.0,51.0,1.0,,Villarreal
-,Javier Ontiveros,es ESP,"MF,FW",30,7,1.0,2.0,2019-2020,83d8b0c,Villarreal,889,9.9,2.0,0.0,51.0,1.0,,Villarreal
-,Carlos Bacca,co COL,FW,19,7,1.0,2.0,2019-2020,09a9e921,Villarreal,688,7.6,1.0,0.0,51.0,19.0,,Villarreal
-,Ramiro Funes Mori,ar ARG,DF,7,5,0.0,0.0,2019-2020,89cbc961,Villarreal,453,5.0,1.0,0.0,51.0,5.0,2799.0,Villarreal
-,Andrés Fernández,es ESP,GK,4,4,1.0,0.0,2019-2020,307fcd26,Villarreal,360,4.0,1.0,0.0,51.0,1.0,,Villarreal
-,Manu Morlanes,es ESP,MF,9,3,1.0,0.0,2019-2020,0255c67,Villarreal,253,2.8,0.0,0.0,51.0,1.0,2798.0,Villarreal
-,Sofian Chakla,ma MAR,DF,2,2,0.0,0.0,2019-2020,37f04799,Villarreal,180,2.0,1.0,0.0,51.0,26.0,2809.0,Villarreal
-,Bruno Soriano,es ESP,MF,7,1,0.0,0.0,2019-2020,09332647,Villarreal,263,2.9,1.0,0.0,51.0,1.0,,Villarreal
-,Fernando Niño,es ESP,FW,5,1,0.0,1.0,2019-2020,81d5c497,Villarreal,83,0.9,1.0,0.0,51.0,1.0,,Villarreal
-,Alex Baena,es ESP,MF,1,0,0.0,0.0,2019-2020,518f2234,Villarreal,15,0.2,0.0,0.0,51.0,1.0,2810.0,Villarreal
-,Santiago Cáseres,ar ARG,MF,0,0,,,2019-2020,958bba56,Villarreal,,,,,51.0,5.0,2802.0,Villarreal
-,Sergio Lozano,es ESP,MF,0,0,,,2019-2020,3dfc70ed,Villarreal,,,,,51.0,1.0,2811.0,Villarreal
-,Iván Martín,es ESP,MF,0,0,,,2019-2020,48c5cb,Villarreal,,,,,51.0,1.0,2805.0,Villarreal
-,Miguel,es ESP,DF,0,0,,,2019-2020,7aa10402,Villarreal,,,,,51.0,1.0,2812.0,Villarreal
-,Antonio Pacheco,es ESP,MF,0,0,,,2019-2020,fdbe95bc,Villarreal,,,,,51.0,1.0,2813.0,Villarreal
-,Andrei Ratiu,ro ROU,DF,0,0,,,2019-2020,b1b99435,Villarreal,,,,,51.0,51.0,2806.0,Villarreal
-,﻿Sergio Asenjo,es ESP,GK,36,36,0.0,0.0,2020-2021,9f0ea33f,Villarreal,"3,240",36.0,2.0,0.0,51.0,1.0,,Villarreal
-,Daniel Parejo,es ESP,MF,36,36,5.0,3.0,2020-2021,7460ca0d,Villarreal,"3,112",34.6,4.0,0.0,51.0,1.0,75.0,Villarreal
-,Raúl Albiol,es ESP,DF,35,35,0.0,0.0,2020-2021,4bd414c1,Villarreal,"3,115",34.6,7.0,0.0,51.0,1.0,80.0,Villarreal
-,Pau Torres,es ESP,DF,33,33,2.0,2.0,2020-2021,532e1e4f,Villarreal,"2,970",33.0,2.0,0.0,51.0,1.0,,Villarreal
-,Gerard Moreno,es ESP,FW,33,30,7.0,23.0,2020-2021,81f0781e,Villarreal,"2,673",29.7,3.0,0.0,51.0,1.0,,Villarreal
-,Manu Trigueros,es ESP,MF,35,30,6.0,1.0,2020-2021,963829d0,Villarreal,"2,527",28.1,6.0,1.0,51.0,1.0,2765.0,Villarreal
-,Moi Gómez,es ESP,"MF,FW",35,29,0.0,4.0,2020-2021,5a626448,Villarreal,"2,563",28.5,1.0,0.0,51.0,1.0,2761.0,Villarreal
-,Alfonso Pedraza,es ESP,DF,29,24,2.0,1.0,2020-2021,63f04c6c,Villarreal,"2,093",23.3,8.0,0.0,51.0,1.0,,Villarreal
-,Mario Gaspar,es ESP,DF,24,21,2.0,0.0,2020-2021,fb5d47b3,Villarreal,"1,851",20.6,3.0,1.0,51.0,1.0,2747.0,Villarreal
-,Paco Alcácer,es ESP,FW,27,19,4.0,6.0,2020-2021,7a9d95a,Villarreal,"1,544",17.2,0.0,0.0,51.0,1.0,,Villarreal
-,Étienne Capoue,fr FRA,MF,16,15,0.0,1.0,2020-2021,5acc4a10,Villarreal,"1,185",13.2,5.0,1.0,51.0,4.0,2821.0,Villarreal
-,Samuel Chukwueze,ng NGA,"MF,FW",28,13,2.0,4.0,2020-2021,b8a642fc,Villarreal,"1,365",15.2,0.0,0.0,51.0,52.0,2801.0,Villarreal
-,Juan Foyth,ar ARG,"DF,MF",16,13,0.0,0.0,2020-2021,6c7762c3,Villarreal,"1,168",13.0,6.0,0.0,51.0,5.0,2814.0,Villarreal
-,Pervis Estupiñán,ec ECU,DF,25,12,0.0,0.0,2020-2021,d38fdf53,Villarreal,"1,168",13.0,1.0,0.0,51.0,61.0,,Villarreal
-,Rubén Peña,es ESP,DF,19,12,1.0,1.0,2020-2021,1f079188,Villarreal,"1,116",12.4,1.0,0.0,51.0,1.0,2808.0,Villarreal
-,Vicente Iborra,es ESP,MF,13,10,0.0,0.0,2020-2021,d1ffcfd,Villarreal,928,10.3,4.0,0.0,51.0,1.0,,Villarreal
-,Carlos Bacca,co COL,FW,23,9,0.0,5.0,2020-2021,09a9e921,Villarreal,786,8.7,1.0,0.0,51.0,19.0,,Villarreal
-,Ramiro Funes Mori,ar ARG,DF,10,8,0.0,0.0,2020-2021,89cbc961,Villarreal,727,8.1,1.0,0.0,51.0,5.0,2799.0,Villarreal
-,Fernando Niño,es ESP,FW,17,8,0.0,3.0,2020-2021,81d5c497,Villarreal,593,6.6,1.0,0.0,51.0,1.0,,Villarreal
-,Francis Coquelin,fr FRA,MF,22,7,0.0,0.0,2020-2021,6951bf8,Villarreal,736,8.2,4.0,0.0,51.0,4.0,,Villarreal
-,Yeremi Pino,es ESP,"MF,FW",24,6,1.0,3.0,2020-2021,540ec57b,Villarreal,797,8.9,4.0,0.0,51.0,1.0,2815.0,Villarreal
-,Jaume Costa,es ESP,"DF,MF",14,3,1.0,0.0,2020-2021,808d48f3,Villarreal,351,3.9,1.0,0.0,51.0,1.0,,Villarreal
-,Takefusa Kubo,jp JPN,"MF,FW",13,2,0.0,0.0,2020-2021,16aa3654,Villarreal,299,3.3,2.0,1.0,51.0,54.0,,Villarreal
-,Alberto Moreno,es ESP,DF,5,2,0.0,0.0,2020-2021,11b9265b,Villarreal,193,2.1,0.0,0.0,51.0,1.0,,Villarreal
-,Gerónimo Rulli,ar ARG,GK,2,2,0.0,0.0,2020-2021,625c144a,Villarreal,180,2.0,0.0,1.0,51.0,5.0,,Villarreal
-,Alex Baena,es ESP,MF,6,2,0.0,0.0,2020-2021,518f2234,Villarreal,137,1.5,0.0,0.0,51.0,1.0,2810.0,Villarreal
-,Dani Raba,es ESP,"MF,FW",5,1,0.0,0.0,2020-2021,6a7ab4,Villarreal,150,1.7,0.0,0.0,51.0,1.0,2791.0,Villarreal
-,Sofian Chakla,ma MAR,DF,1,0,0.0,0.0,2020-2021,37f04799,Villarreal,13,0.1,0.0,0.0,51.0,26.0,2809.0,Villarreal
-,Álex Millán,es ESP,FW,1,0,0.0,0.0,2020-2021,29ad0dd4,Villarreal,2,0.0,0.0,0.0,51.0,1.0,2816.0,Villarreal
-,Iker Álvarez,ad AND,GK,0,0,,,2020-2021,13619663,Villarreal,,,,,51.0,96.0,2817.0,Villarreal
-,José Cabrera,es ESP,DF,0,0,,,2020-2021,13b618ce,Villarreal,,,,,51.0,1.0,2818.0,Villarreal
-,Carlo,es ESP,MF,0,0,,,2020-2021,8249ff06,Villarreal,,,,,51.0,1.0,2819.0,Villarreal
-,Filip Jörgensen,dk DEN,GK,0,0,,,2020-2021,0107757e,Villarreal,,,,,51.0,7.0,2820.0,Villarreal
-,Sergio Lozano,es ESP,MF,0,0,,,2020-2021,3dfc70ed,Villarreal,,,,,51.0,1.0,2811.0,Villarreal
-,Javier Ontiveros,es ESP,MF,0,0,,,2020-2021,83d8b0c,Villarreal,,,,,51.0,1.0,,Villarreal
-,Andrei Ratiu,ro ROU,DF,0,0,,,2020-2021,b1b99435,Villarreal,,,,,51.0,51.0,2806.0,Villarreal
-,﻿Pau Torres,es ESP,DF,33,33,1.0,5.0,2021-2022,532e1e4f,Villarreal,"2,855",31.7,5.0,0.0,51.0,1.0,,Villarreal
-,Gerónimo Rulli,ar ARG,GK,32,32,0.0,0.0,2021-2022,625c144a,Villarreal,"2,880",32.0,2.0,0.0,51.0,5.0,,Villarreal
-,Daniel Parejo,es ESP,MF,33,32,10.0,2.0,2021-2022,7460ca0d,Villarreal,"2,704",30.0,3.0,0.0,51.0,1.0,75.0,Villarreal
-,Raúl Albiol,es ESP,DF,28,28,0.0,0.0,2021-2022,4bd414c1,Villarreal,"2,465",27.4,8.0,0.0,51.0,1.0,80.0,Villarreal
-,Manu Trigueros,es ESP,"MF,FW",35,27,4.0,6.0,2021-2022,963829d0,Villarreal,"2,178",24.2,3.0,0.0,51.0,1.0,2765.0,Villarreal
-,Étienne Capoue,fr FRA,MF,30,26,1.0,1.0,2021-2022,5acc4a10,Villarreal,"2,290",25.4,9.0,0.0,51.0,4.0,2821.0,Villarreal
-,Juan Foyth,ar ARG,DF,25,22,1.0,1.0,2021-2022,6c7762c3,Villarreal,"1,924",21.4,6.0,1.0,51.0,5.0,2814.0,Villarreal
-,Yeremi Pino,es ESP,"MF,FW",31,21,4.0,6.0,2021-2022,540ec57b,Villarreal,"1,678",18.6,2.0,0.0,51.0,1.0,2815.0,Villarreal
-,Alfonso Pedraza,es ESP,DF,28,19,4.0,4.0,2021-2022,63f04c6c,Villarreal,"1,701",18.9,2.0,0.0,51.0,1.0,,Villarreal
-,Pervis Estupiñán,ec ECU,DF,28,17,1.0,0.0,2021-2022,d38fdf53,Villarreal,"1,575",17.5,3.0,0.0,51.0,61.0,,Villarreal
-,Arnaut Groeneveld,nl NED,FW,23,17,3.0,10.0,2021-2022,f08490a6,Villarreal,"1,472",16.4,1.0,0.0,51.0,11.0,2822.0,Villarreal
-,Aïssa Mandi,dz ALG,DF,17,14,0.0,1.0,2021-2022,fbd6378b,Villarreal,"1,375",15.3,3.0,0.0,51.0,37.0,,Villarreal
-,Gerard Moreno,es ESP,FW,17,14,3.0,9.0,2021-2022,81f0781e,Villarreal,"1,191",13.2,2.0,0.0,51.0,1.0,,Villarreal
-,Moi Gómez,es ESP,"MF,FW",29,13,2.0,2.0,2021-2022,5a626448,Villarreal,"1,286",14.3,2.0,0.0,51.0,1.0,2761.0,Villarreal
-,Boulaye Dia,sn SEN,FW,25,13,5.0,5.0,2021-2022,244bc2c8,Villarreal,"1,269",14.1,3.0,0.0,51.0,34.0,2823.0,Villarreal
-,Alberto Moreno,es ESP,"MF,DF",24,13,2.0,3.0,2021-2022,11b9265b,Villarreal,"1,223",13.6,3.0,0.0,51.0,1.0,,Villarreal
-,Samuel Chukwueze,ng NGA,MF,27,12,3.0,3.0,2021-2022,b8a642fc,Villarreal,"1,333",14.8,4.0,0.0,51.0,52.0,2801.0,Villarreal
-,Vicente Iborra,es ESP,MF,20,12,1.0,0.0,2021-2022,d1ffcfd,Villarreal,"1,034",11.5,4.0,0.0,51.0,1.0,,Villarreal
-,Giovani Lo Celso,ar ARG,"FW,MF",16,11,1.0,1.0,2021-2022,d7553721,Villarreal,994,11.0,3.0,0.0,51.0,5.0,,Villarreal
-,Serge Aurier,ci CIV,DF,19,10,1.0,0.0,2021-2022,5c2b4f07,Villarreal,"1,010",11.2,4.0,0.0,51.0,35.0,2824.0,Villarreal
-,Paco Alcácer,es ESP,FW,18,10,3.0,1.0,2021-2022,7a9d95a,Villarreal,787,8.7,1.0,0.0,51.0,1.0,,Villarreal
-,Francis Coquelin,fr FRA,MF,20,8,1.0,2.0,2021-2022,6951bf8,Villarreal,830,9.2,3.0,0.0,51.0,4.0,,Villarreal
-,Mario Gaspar,es ESP,DF,12,7,0.0,0.0,2021-2022,fb5d47b3,Villarreal,623,6.9,1.0,0.0,51.0,1.0,2747.0,Villarreal
-,Sergio Asenjo,es ESP,GK,6,6,0.0,0.0,2021-2022,9f0ea33f,Villarreal,540,6.0,1.0,0.0,51.0,1.0,,Villarreal
-,Rubén Peña,es ESP,"MF,DF",7,1,0.0,0.0,2021-2022,1f079188,Villarreal,132,1.5,1.0,0.0,51.0,1.0,2808.0,Villarreal
-,Nicolas Jackson,sn SEN,"FW,MF",9,0,0.0,0.0,2021-2022,9c36ed83,Villarreal,165,1.8,1.0,0.0,51.0,34.0,2825.0,Villarreal
-,Dani Raba,es ESP,"MF,FW",7,0,0.0,0.0,2021-2022,6a7ab4,Villarreal,89,1.0,1.0,0.0,51.0,1.0,2791.0,Villarreal
-,Carlo,es ESP,MF,1,0,0.0,0.0,2021-2022,8249ff06,Villarreal,7,0.1,0.0,0.0,51.0,1.0,2819.0,Villarreal
-,Nikita Iosifov,ru RUS,MF,1,0,0.0,0.0,2021-2022,4c2fa917,Villarreal,1,0.0,0.0,0.0,51.0,23.0,2826.0,Villarreal
-,Iker Álvarez,ad AND,GK,0,0,,,2021-2022,13619663,Villarreal,,,,,51.0,96.0,2817.0,Villarreal
-,Arana,es ESP,FW,0,0,,,2021-2022,94021206,Villarreal,,,,,51.0,1.0,2827.0,Villarreal
-,José Cabrera,es ESP,DF,0,0,,,2021-2022,13b618ce,Villarreal,,,,,51.0,1.0,2818.0,Villarreal
-,Jorge Cuenca,es ESP,DF,0,0,,,2021-2022,0abc51f2,Villarreal,,,,,51.0,1.0,2828.0,Villarreal
-,Filip Jörgensen,dk DEN,GK,0,0,,,2021-2022,0107757e,Villarreal,,,,,51.0,7.0,2820.0,Villarreal
-,Adrián de la Fuente,es ESP,DF,0,0,,,2021-2022,5932c94a,Villarreal,,,,,51.0,1.0,,Villarreal
-,Antonio Pacheco,es ESP,MF,0,0,,,2021-2022,fdbe95bc,Villarreal,,,,,51.0,1.0,2813.0,Villarreal
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Jorge López,es ESP,MF,36,36,2.0,8.0,2002-2003,/en/players/cf66479e/Jorge-Lopez,cf66479e,Villarreal,"3,090",34.3,7.0,0.0,51,1.0,884,Villarreal
+,Pepe Reina,es ESP,GK,33,33,0.0,0.0,2002-2003,/en/players/e358587b/Pepe-Reina,358587b,Villarreal,"2,970",33.0,3.0,0.0,51,1.0,2702,Villarreal
+,Sergio Ballesteros,es ESP,DF,33,33,0.0,0.0,2002-2003,/en/players/29863c56/Sergio-Ballesteros,29863c56,Villarreal,"2,965",32.9,10.0,1.0,51,1.0,1576,Villarreal
+,Rodolfo Arruabarrena,ar ARG,DF,32,32,4.0,0.0,2002-2003,/en/players/fbd07266/Rodolfo-Arruabarrena,fbd07266,Villarreal,"2,718",30.2,14.0,1.0,51,5.0,2703,Villarreal
+,Juliano Belletti,br BRA,"DF,MF",31,31,3.0,3.0,2002-2003,/en/players/a4432ca2/Juliano-Belletti,4432ca2,Villarreal,"2,713",30.1,6.0,1.0,51,2.0,1087,Villarreal
+,Víctor,es ESP,FW,34,30,4.0,8.0,2002-2003,/en/players/00979380/Victor,00979380,Villarreal,"2,634",29.3,3.0,0.0,51,1.0,2531,Villarreal
+,Quique Álvarez,es ESP,DF,31,30,0.0,0.0,2002-2003,/en/players/7ddc4550/Quique-Alvarez,7ddc4550,Villarreal,"2,590",28.8,9.0,1.0,51,1.0,2704,Villarreal
+,Martín Palermo,ar ARG,FW,34,28,3.0,7.0,2002-2003,/en/players/02aa1dbe/Martin-Palermo,02aa1dbe,Villarreal,"2,619",29.1,4.0,0.0,51,5.0,1377,Villarreal
+,Josico,es ESP,"FW,MF",30,26,1.0,2.0,2002-2003,/en/players/1d2fe5a5/Josico,1d2fe5a5,Villarreal,"2,106",23.4,7.0,0.0,51,1.0,2705,Villarreal
+,Antonio Guayre,es ESP,"FW,MF",34,25,2.0,4.0,2002-2003,/en/players/82cf603f/Antonio-Guayre,82cf603f,Villarreal,"2,089",23.2,5.0,1.0,51,1.0,677,Villarreal
+,Javier Farinós,es ESP,MF,22,21,1.0,2.0,2002-2003,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Villarreal,"1,795",19.9,4.0,0.0,51,1.0,1577,Villarreal
+,Unai Vergara,es ESP,DF,18,17,0.0,1.0,2002-2003,/en/players/c9d08ea0/Unai-Vergara,c9d08ea0,Villarreal,"1,372",15.2,9.0,2.0,51,1.0,2706,Villarreal
+,Marcos Senna,es ESP,MF,16,16,1.0,2.0,2002-2003,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"1,360",15.1,3.0,0.0,51,1.0,2707,Villarreal
+,Quique Medina,es ESP,DF,19,10,0.0,0.0,2002-2003,/en/players/0aa5e053/Quique-Medina,0aa5e053,Villarreal,"1,010",11.2,2.0,0.0,51,1.0,2708,Villarreal
+,Javier Calleja,es ESP,MF,27,9,3.0,2.0,2002-2003,/en/players/3c99e7de/Javier-Calleja,3c99e7de,Villarreal,"1,013",11.3,2.0,0.0,51,1.0,2030,Villarreal
+,Antonio de Nigris,mx MEX,FW,15,9,0.0,2.0,2002-2003,/en/players/0b016a13/Antonio-de-Nigris,0b016a13,Villarreal,943,10.5,2.0,0.0,51,20.0,2709,Villarreal
+,Jesús Galván,es ESP,DF,11,9,0.0,0.0,2002-2003,/en/players/5f605a71/Jesus-Galvan,5f605a71,Villarreal,779,8.7,2.0,0.0,51,1.0,2710,Villarreal
+,Iñaki Berruet,es ESP,DF,9,6,1.0,0.0,2002-2003,/en/players/9fd5c7b8/Inaki-Berruet,9fd5c7b8,Villarreal,631,7.0,2.0,0.0,51,1.0,2711,Villarreal
+,Javi Venta,es ESP,DF,17,5,1.0,0.0,2002-2003,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,677,7.5,3.0,0.0,51,1.0,2712,Villarreal
+,Javier López Vallejo,es ESP,GK,4,4,0.0,0.0,2002-2003,/en/players/54562263/Javier-Lopez-Vallejo,54562263,Villarreal,360,4.0,0.0,0.0,51,1.0,2713,Villarreal
+,Javi Gracia,es ESP,MF,8,2,0.0,0.0,2002-2003,/en/players/f46017c3/Javi-Gracia,f46017c3,Villarreal,221,2.5,1.0,0.0,51,1.0,2714,Villarreal
+,Constantin Gâlcă,ro ROU,MF,3,2,0.0,0.0,2002-2003,/en/players/624ddea0/Constantin-Galca,624ddea0,Villarreal,156,1.7,1.0,0.0,51,51.0,2715,Villarreal
+,Rubén Reyes,es ESP,MF,5,1,0.0,0.0,2002-2003,/en/players/770a119c/Ruben-Reyes,770a119c,Villarreal,104,1.2,0.0,0.0,51,1.0,2716,Villarreal
+,César Arzo,es ESP,"DF,MF",2,1,0.0,0.0,2002-2003,/en/players/0ea37b10/Cesar-Arzo,0ea37b10,Villarreal,93,1.0,0.0,0.0,51,1.0,2566,Villarreal
+,Jesús Unanua,es ESP,GK,1,1,0.0,0.0,2002-2003,/en/players/a592fec8/Jesus-Unanua,592fec8,Villarreal,90,1.0,0.0,0.0,51,1.0,2717,Villarreal
+,Héctor Font,es ESP,MF,2,1,0.0,0.0,2002-2003,/en/players/9982593d/Hector-Font,9982593d,Villarreal,77,0.9,0.0,0.0,51,1.0,2015,Villarreal
+,Carlos Aranda,es ESP,FW,8,0,0.0,1.0,2002-2003,/en/players/2b60c45d/Carlos-Aranda,2b60c45d,Villarreal,132,1.5,2.0,0.0,51,1.0,1810,Villarreal
+,Xisco Nadal,es ESP,"FW,MF",5,0,0.0,1.0,2002-2003,/en/players/5dc11264/Xisco-Nadal,5dc11264,Villarreal,52,0.6,0.0,0.0,51,1.0,2718,Villarreal
+,José María Cases,es ESP,MF,1,0,0.0,0.0,2002-2003,/en/players/34aafecf/Jose-Maria-Cases,34aafecf,Villarreal,28,0.3,0.0,0.0,51,1.0,2719,Villarreal
+,Verza,es ESP,MF,1,0,0.0,0.0,2002-2003,/en/players/f972b073/Verza,f972b073,Villarreal,22,0.2,0.0,0.0,51,1.0,2724,Villarreal
+,﻿Pepe Reina,es ESP,GK,38,38,0.0,0.0,2003-2004,/en/players/e358587b/Pepe-Reina,358587b,Villarreal,"3,420",38.0,2.0,0.0,51,1.0,2702,Villarreal
+,Rodolfo Arruabarrena,ar ARG,DF,33,32,2.0,2.0,2003-2004,/en/players/fbd07266/Rodolfo-Arruabarrena,fbd07266,Villarreal,"2,930",32.6,11.0,0.0,51,5.0,2703,Villarreal
+,Juan Román Riquelme,ar ARG,MF,33,32,4.0,8.0,2003-2004,/en/players/04381207/Juan-Roman-Riquelme,04381207,Villarreal,"2,782",30.9,6.0,0.0,51,5.0,1059,Villarreal
+,Sergio Ballesteros,es ESP,DF,30,30,1.0,1.0,2003-2004,/en/players/29863c56/Sergio-Ballesteros,29863c56,Villarreal,"2,678",29.8,9.0,1.0,51,1.0,1576,Villarreal
+,Pere Martí,es ESP,MF,34,30,1.0,1.0,2003-2004,/en/players/f7e1f18e/Pere-Marti,f7e1f18e,Villarreal,"2,662",29.6,12.0,0.0,51,1.0,2353,Villarreal
+,Quique Álvarez,es ESP,DF,29,29,0.0,2.0,2003-2004,/en/players/7ddc4550/Quique-Alvarez,7ddc4550,Villarreal,"2,502",27.8,16.0,2.0,51,1.0,2704,Villarreal
+,José Mari,es ESP,FW,32,29,4.0,6.0,2003-2004,/en/players/b56835b1/Jose-Mari,b56835b1,Villarreal,"2,449",27.2,16.0,2.0,51,1.0,1404,Villarreal
+,Fabricio Coloccini,ar ARG,"DF,MF",32,27,1.0,1.0,2003-2004,/en/players/78b3399f/Fabricio-Coloccini,78b3399f,Villarreal,"2,380",26.4,9.0,1.0,51,5.0,394,Villarreal
+,Juliano Belletti,br BRA,"DF,MF",28,25,3.0,3.0,2003-2004,/en/players/a4432ca2/Juliano-Belletti,4432ca2,Villarreal,"2,287",25.4,9.0,0.0,51,2.0,1087,Villarreal
+,Roger,es ESP,MF,30,22,1.0,2.0,2003-2004,/en/players/78bc5697/Roger,78bc5697,Villarreal,"1,898",21.1,4.0,0.0,51,1.0,2720,Villarreal
+,Sonny Anderson,br BRA,FW,35,21,2.0,12.0,2003-2004,/en/players/27a82cca/Sonny-Anderson,27a82cca,Villarreal,"2,189",24.3,1.0,0.0,51,2.0,2721,Villarreal
+,Antonio Guayre,es ESP,"FW,MF",31,21,5.0,3.0,2003-2004,/en/players/82cf603f/Antonio-Guayre,82cf603f,Villarreal,"1,961",21.8,3.0,0.0,51,1.0,677,Villarreal
+,Josico,es ESP,"FW,MF",25,21,1.0,0.0,2003-2004,/en/players/1d2fe5a5/Josico,1d2fe5a5,Villarreal,"1,815",20.2,4.0,0.0,51,1.0,2705,Villarreal
+,Víctor,es ESP,FW,27,18,8.0,3.0,2003-2004,/en/players/00979380/Victor,00979380,Villarreal,"1,522",16.9,2.0,0.0,51,1.0,2531,Villarreal
+,Javi Venta,es ESP,DF,23,16,0.0,0.0,2003-2004,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"1,406",15.6,4.0,0.0,51,1.0,2712,Villarreal
+,Sebastián Battaglia,ar ARG,MF,15,13,0.0,0.0,2003-2004,/en/players/d6bd320f/Sebastian-Battaglia,d6bd320f,Villarreal,"1,125",12.5,7.0,1.0,51,5.0,2722,Villarreal
+,Marcos Senna,es ESP,MF,9,6,,0.0,2003-2004,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,573,6.4,1.0,0.0,51,1.0,2707,Villarreal
+,Javier Calleja,es ESP,MF,9,5,0.0,0.0,2003-2004,/en/players/3c99e7de/Javier-Calleja,3c99e7de,Villarreal,413,4.6,1.0,0.0,51,1.0,2030,Villarreal
+,Miguel Ángel Tena,es ESP,DF,2,2,0.0,0.0,2003-2004,/en/players/e6389c2b/Miguel-Angel-Tena,6389c2b,Villarreal,151,1.7,0.0,0.0,51,1.0,2723,Villarreal
+,Verza,es ESP,MF,3,1,0.0,0.0,2003-2004,/en/players/f972b073/Verza,f972b073,Villarreal,102,1.1,1.0,0.0,51,1.0,2724,Villarreal
+,César Arzo,es ESP,"DF,MF",10,0,0.0,0.0,2003-2004,/en/players/0ea37b10/Cesar-Arzo,0ea37b10,Villarreal,130,1.4,1.0,0.0,51,1.0,2566,Villarreal
+,Xisco Nadal,es ESP,"FW,MF",7,0,0.0,1.0,2003-2004,/en/players/5dc11264/Xisco-Nadal,5dc11264,Villarreal,78,0.9,0.0,0.0,51,1.0,2718,Villarreal
+,Santi Cazorla,es ESP,MF,2,0,0.0,0.0,2003-2004,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,66,0.7,0.0,0.0,51,1.0,2377,Villarreal
+,﻿Pepe Reina,es ESP,GK,38,38,0.0,0.0,2004-2005,/en/players/e358587b/Pepe-Reina,358587b,Villarreal,"3,420",38.0,1.0,0.0,51,1.0,2702,Villarreal
+,Juan Román Riquelme,ar ARG,MF,35,35,9.0,15.0,2004-2005,/en/players/04381207/Juan-Roman-Riquelme,04381207,Villarreal,"3,121",34.7,5.0,0.0,51,5.0,1059,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,34,34,0.0,2.0,2004-2005,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"3,060",34.0,12.0,1.0,51,5.0,2725,Villarreal
+,Diego Forlán,uy URU,"FW,MF",38,34,6.0,24.0,2004-2005,/en/players/d87d0dfc/Diego-Forlan,d87d0dfc,Villarreal,"3,006",33.4,3.0,0.0,51,8.0,2174,Villarreal
+,Javi Venta,es ESP,DF,32,32,2.0,1.0,2004-2005,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"2,825",31.4,6.0,0.0,51,1.0,2712,Villarreal
+,Josico,es ESP,"FW,MF",29,27,0.0,1.0,2004-2005,/en/players/1d2fe5a5/Josico,1d2fe5a5,Villarreal,"2,558",28.4,5.0,0.0,51,1.0,2705,Villarreal
+,Marcos Senna,es ESP,MF,29,27,3.0,2.0,2004-2005,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,459",27.3,5.0,0.0,51,1.0,2707,Villarreal
+,Rodolfo Arruabarrena,ar ARG,DF,26,25,2.0,0.0,2004-2005,/en/players/fbd07266/Rodolfo-Arruabarrena,fbd07266,Villarreal,"2,216",24.6,11.0,2.0,51,5.0,2703,Villarreal
+,Quique Álvarez,es ESP,DF,24,24,0.0,0.0,2004-2005,/en/players/7ddc4550/Quique-Alvarez,7ddc4550,Villarreal,"2,138",23.8,5.0,1.0,51,1.0,2704,Villarreal
+,Juan Pablo Sorín,ar ARG,"DF,MF",21,20,1.0,4.0,2004-2005,/en/players/239e2070/Juan-Pablo-Sorin,239e2070,Villarreal,"1,589",17.7,4.0,0.0,51,5.0,1062,Villarreal
+,Juan Manuel Peña,bo BOL,DF,25,19,0.0,1.0,2004-2005,/en/players/0f7909da/Juan-Manuel-Pena,0f7909da,Villarreal,"1,751",19.5,3.0,0.0,51,64.0,691,Villarreal
+,Héctor Font,es ESP,MF,33,17,1.0,2.0,2004-2005,/en/players/9982593d/Hector-Font,9982593d,Villarreal,"1,552",17.2,2.0,0.0,51,1.0,2015,Villarreal
+,José Mari,es ESP,FW,30,17,5.0,4.0,2004-2005,/en/players/b56835b1/Jose-Mari,b56835b1,Villarreal,"1,498",16.6,3.0,0.0,51,1.0,1404,Villarreal
+,Armando Sá,mz MOZ,DF,20,16,1.0,0.0,2004-2005,/en/players/3f76ff2b/Armando-Sa,3f76ff2b,Villarreal,"1,500",16.7,4.0,0.0,51,88.0,2726,Villarreal
+,Antonio Guayre,es ESP,"FW,MF",24,15,4.0,5.0,2004-2005,/en/players/82cf603f/Antonio-Guayre,82cf603f,Villarreal,"1,172",13.0,2.0,0.0,51,1.0,677,Villarreal
+,Santi Cazorla,es ESP,MF,29,13,4.0,2.0,2004-2005,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"1,337",14.9,1.0,0.0,51,1.0,2377,Villarreal
+,Sebastián Battaglia,ar ARG,MF,14,10,1.0,0.0,2004-2005,/en/players/d6bd320f/Sebastian-Battaglia,d6bd320f,Villarreal,920,10.2,5.0,1.0,51,5.0,2722,Villarreal
+,Luciano Figueroa,ar ARG,FW,15,7,3.0,3.0,2004-2005,/en/players/c4e3421a/Luciano-Figueroa,c4e3421a,Villarreal,790,8.8,0.0,0.0,51,5.0,2727,Villarreal
+,César Arzo,es ESP,"DF,MF",15,4,0.0,1.0,2004-2005,/en/players/0ea37b10/Cesar-Arzo,0ea37b10,Villarreal,464,5.2,1.0,0.0,51,1.0,2566,Villarreal
+,Sonny Anderson,br BRA,FW,3,2,0.0,1.0,2004-2005,/en/players/27a82cca/Sonny-Anderson,27a82cca,Villarreal,218,2.4,0.0,0.0,51,2.0,2721,Villarreal
+,Carlos Alcántara,es ESP,DF,2,1,0.0,0.0,2004-2005,/en/players/b0dcd6e1/Carlos-Alcantara,b0dcd6e1,Villarreal,109,1.2,0.0,0.0,51,1.0,2728,Villarreal
+,Xisco Nadal,es ESP,"FW,MF",4,1,0.0,0.0,2004-2005,/en/players/5dc11264/Xisco-Nadal,5dc11264,Villarreal,98,1.1,0.0,0.0,51,1.0,2718,Villarreal
+,Javier Calleja,es ESP,MF,3,0,0.0,0.0,2004-2005,/en/players/3c99e7de/Javier-Calleja,3c99e7de,Villarreal,68,0.8,0.0,0.0,51,1.0,2030,Villarreal
+,Roger,es ESP,MF,1,0,0.0,0.0,2004-2005,/en/players/78bc5697/Roger,78bc5697,Villarreal,21,0.2,0.0,0.0,51,1.0,2720,Villarreal
+,José María Cases,es ESP,MF,1,0,0.0,0.0,2004-2005,/en/players/34aafecf/Jose-Maria-Cases,34aafecf,Villarreal,19,0.2,0.0,0.0,51,1.0,2719,Villarreal
+,﻿Rodolfo Arruabarrena,ar ARG,DF,33,33,0.0,0.0,2005-2006,/en/players/fbd07266/Rodolfo-Arruabarrena,fbd07266,Villarreal,"2,799",31.1,10.0,0.0,51,5.0,2703,Villarreal
+,Diego Forlán,uy URU,"FW,MF",32,30,5.0,10.0,2005-2006,/en/players/d87d0dfc/Diego-Forlan,d87d0dfc,Villarreal,"2,691",29.9,3.0,0.0,51,8.0,2174,Villarreal
+,Sebastián Viera,uy URU,GK,29,29,0.0,0.0,2005-2006,/en/players/a7ba2f67/Sebastian-Viera,7ba2f67,Villarreal,"2,549",28.3,3.0,0.0,51,8.0,2729,Villarreal
+,Marcos Senna,es ESP,MF,30,29,1.0,3.0,2005-2006,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,513",27.9,5.0,0.0,51,1.0,2707,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,29,29,0.0,0.0,2005-2006,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"2,456",27.3,9.0,1.0,51,5.0,2725,Villarreal
+,José Mari,es ESP,FW,32,28,2.0,5.0,2005-2006,/en/players/b56835b1/Jose-Mari,b56835b1,Villarreal,"2,169",24.1,3.0,0.0,51,1.0,1404,Villarreal
+,Josico,es ESP,"FW,MF",27,26,1.0,1.0,2005-2006,/en/players/1d2fe5a5/Josico,1d2fe5a5,Villarreal,"1,955",21.7,6.0,1.0,51,1.0,2705,Villarreal
+,Javi Venta,es ESP,DF,25,25,0.0,0.0,2005-2006,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"2,221",24.7,2.0,0.0,51,1.0,2712,Villarreal
+,Juan Román Riquelme,ar ARG,MF,25,25,10.0,12.0,2005-2006,/en/players/04381207/Juan-Roman-Riquelme,04381207,Villarreal,"2,156",24.0,5.0,0.0,51,5.0,1059,Villarreal
+,Juan Manuel Peña,bo BOL,DF,25,23,1.0,0.0,2005-2006,/en/players/0f7909da/Juan-Manuel-Pena,0f7909da,Villarreal,"2,082",23.1,10.0,1.0,51,64.0,691,Villarreal
+,Quique Álvarez,es ESP,DF,21,20,1.0,0.0,2005-2006,/en/players/7ddc4550/Quique-Alvarez,7ddc4550,Villarreal,"1,873",20.8,10.0,0.0,51,1.0,2704,Villarreal
+,Alessio Tacchinardi,it ITA,MF,23,17,1.0,2.0,2005-2006,/en/players/b99799e5/Alessio-Tacchinardi,b99799e5,Villarreal,"1,538",17.1,7.0,1.0,51,9.0,2730,Villarreal
+,Juan Pablo Sorín,ar ARG,"DF,MF",20,16,2.0,3.0,2005-2006,/en/players/239e2070/Juan-Pablo-Sorin,239e2070,Villarreal,"1,385",15.4,4.0,0.0,51,5.0,1062,Villarreal
+,Santi Cazorla,es ESP,MF,23,14,3.0,0.0,2005-2006,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"1,244",13.8,3.0,0.0,51,1.0,2377,Villarreal
+,Mariano Barbosa,ar ARG,GK,10,9,0.0,0.0,2005-2006,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Villarreal,871,9.7,1.0,0.0,51,5.0,1891,Villarreal
+,Roger,es ESP,MF,24,8,0.0,2.0,2005-2006,/en/players/78bc5697/Roger,78bc5697,Villarreal,938,10.4,2.0,0.0,51,1.0,2720,Villarreal
+,Héctor Font,es ESP,MF,21,8,1.0,1.0,2005-2006,/en/players/9982593d/Hector-Font,9982593d,Villarreal,931,10.3,1.0,1.0,51,1.0,2015,Villarreal
+,Guillermo Franco,mx MEX,FW,12,8,2.0,4.0,2005-2006,/en/players/15e15558/Guillermo-Franco,15e15558,Villarreal,767,8.5,3.0,0.0,51,20.0,2731,Villarreal
+,Josemi,es ESP,DF,9,8,1.0,0.0,2005-2006,/en/players/e85dd0fc/Josemi,85dd0fc,Villarreal,749,8.3,3.0,0.0,51,1.0,1608,Villarreal
+,Antonio Guayre,es ESP,"FW,MF",17,7,0.0,2.0,2005-2006,/en/players/82cf603f/Antonio-Guayre,82cf603f,Villarreal,820,9.1,3.0,0.0,51,1.0,677,Villarreal
+,Luciano Figueroa,ar ARG,FW,12,7,0.0,2.0,2005-2006,/en/players/c4e3421a/Luciano-Figueroa,c4e3421a,Villarreal,633,7.0,1.0,0.0,51,5.0,2727,Villarreal
+,Jan Kromkamp,nl NED,DF,6,6,0.0,0.0,2005-2006,/en/players/3c970929/Jan-Kromkamp,3c970929,Villarreal,540,6.0,2.0,0.0,51,11.0,2732,Villarreal
+,César Arzo,es ESP,"DF,MF",12,5,1.0,0.0,2005-2006,/en/players/0ea37b10/Cesar-Arzo,0ea37b10,Villarreal,648,7.2,4.0,0.0,51,1.0,2566,Villarreal
+,Carlos Alcántara,es ESP,DF,3,3,0.0,0.0,2005-2006,/en/players/b0dcd6e1/Carlos-Alcantara,b0dcd6e1,Villarreal,270,3.0,2.0,0.0,51,1.0,2728,Villarreal
+,Javier Calleja,es ESP,MF,13,2,0.0,1.0,2005-2006,/en/players/3c99e7de/Javier-Calleja,3c99e7de,Villarreal,326,3.6,2.0,0.0,51,1.0,2030,Villarreal
+,Antonio Valencia,ec ECU,"DF,MF",2,1,0.0,0.0,2005-2006,/en/players/08aa17d0/Antonio-Valencia,08aa17d0,Villarreal,94,1.0,0.0,0.0,51,61.0,2733,Villarreal
+,Óscar López Martínez,es ESP,DF,1,1,0.0,0.0,2005-2006,/en/players/c7479fec/Oscar-Lopez-Martinez,c7479fec,Villarreal,90,1.0,0.0,0.0,51,1.0,2734,Villarreal
+,José Javier Rubio,es ESP,MF,1,1,0.0,0.0,2005-2006,/en/players/a66046db/Jose-Javier-Rubio,66046db,Villarreal,67,0.7,0.0,0.0,51,1.0,2735,Villarreal
+,Xisco Nadal,es ESP,"FW,MF",4,0,0.0,1.0,2005-2006,/en/players/5dc11264/Xisco-Nadal,5dc11264,Villarreal,84,0.9,0.0,0.0,51,1.0,2718,Villarreal
+,﻿Diego Forlán,uy URU,"FW,MF",36,34,2.0,19.0,2006-2007,/en/players/d87d0dfc/Diego-Forlan,d87d0dfc,Villarreal,"3,008",33.4,3.0,0.0,51,8.0,2174,Villarreal
+,Marcos Senna,es ESP,MF,33,33,1.0,0.0,2006-2007,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,807",31.2,10.0,0.0,51,1.0,2707,Villarreal
+,Fabricio Fuentes,ar ARG,DF,33,32,0.0,4.0,2006-2007,/en/players/851ea9c3/Fabricio-Fuentes,851ea9c3,Villarreal,"2,913",32.4,7.0,0.0,51,5.0,2736,Villarreal
+,Sebastián Viera,uy URU,GK,28,27,0.0,0.0,2006-2007,/en/players/a7ba2f67/Sebastian-Viera,7ba2f67,Villarreal,"2,475",27.5,3.0,0.0,51,8.0,2729,Villarreal
+,Cani,es ESP,MF,35,27,3.0,4.0,2006-2007,/en/players/b493db11/Cani,b493db11,Villarreal,"2,418",26.9,4.0,1.0,51,1.0,508,Villarreal
+,José Enrique,es ESP,DF,23,22,0.0,0.0,2006-2007,/en/players/d56364d5/Jose-Enrique,d56364d5,Villarreal,"2,059",22.9,2.0,0.0,51,1.0,669,Villarreal
+,Josico,es ESP,"FW,MF",26,22,1.0,1.0,2006-2007,/en/players/1d2fe5a5/Josico,1d2fe5a5,Villarreal,"1,585",17.6,5.0,0.0,51,1.0,2705,Villarreal
+,Marquitos,es ESP,"FW,MF",29,20,2.0,3.0,2006-2007,/en/players/b5e3874c/Marquitos,b5e3874c,Villarreal,"1,778",19.8,2.0,0.0,51,1.0,2569,Villarreal
+,Pascal Cygan,fr FRA,DF,21,20,1.0,1.0,2006-2007,/en/players/96d186cf/Pascal-Cygan,96d186cf,Villarreal,"1,748",19.4,4.0,0.0,51,4.0,2737,Villarreal
+,Javi Venta,es ESP,DF,20,19,2.0,0.0,2006-2007,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"1,668",18.5,4.0,0.0,51,1.0,2712,Villarreal
+,Josemi,es ESP,DF,21,18,0.0,0.0,2006-2007,/en/players/e85dd0fc/Josemi,85dd0fc,Villarreal,"1,708",19.0,8.0,0.0,51,1.0,1608,Villarreal
+,Rodolfo Arruabarrena,ar ARG,DF,20,16,0.0,2.0,2006-2007,/en/players/fbd07266/Rodolfo-Arruabarrena,fbd07266,Villarreal,"1,335",14.8,5.0,0.0,51,5.0,2703,Villarreal
+,Guillermo Franco,mx MEX,FW,27,14,3.0,2.0,2006-2007,/en/players/15e15558/Guillermo-Franco,15e15558,Villarreal,"1,425",15.8,5.0,1.0,51,20.0,2731,Villarreal
+,Matías Fernández,cl CHI,MF,20,14,7.0,1.0,2006-2007,/en/players/8a250399/Matias-Fernandez,8a250399,Villarreal,"1,242",13.8,2.0,0.0,51,31.0,2738,Villarreal
+,Juan Román Riquelme,ar ARG,MF,13,13,6.0,1.0,2006-2007,/en/players/04381207/Juan-Roman-Riquelme,04381207,Villarreal,"1,170",13.0,1.0,0.0,51,5.0,1059,Villarreal
+,Quique Álvarez,es ESP,DF,15,12,0.0,0.0,2006-2007,/en/players/7ddc4550/Quique-Alvarez,7ddc4550,Villarreal,"1,210",13.4,7.0,0.0,51,1.0,2704,Villarreal
+,Alessio Tacchinardi,it ITA,MF,22,11,2.0,1.0,2006-2007,/en/players/b99799e5/Alessio-Tacchinardi,b99799e5,Villarreal,"1,119",12.4,10.0,0.0,51,9.0,2730,Villarreal
+,Leandro Somoza,ar ARG,MF,25,11,0.0,0.0,2006-2007,/en/players/63bd55fe/Leandro-Somoza,63bd55fe,Villarreal,"1,092",12.1,6.0,0.0,51,5.0,1402,Villarreal
+,Mariano Barbosa,ar ARG,GK,11,11,0.0,0.0,2006-2007,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Villarreal,945,10.5,1.0,0.0,51,5.0,1891,Villarreal
+,José Mari,es ESP,FW,20,8,1.0,0.0,2006-2007,/en/players/b56835b1/Jose-Mari,b56835b1,Villarreal,934,10.4,3.0,1.0,51,1.0,1404,Villarreal
+,Robert Pirès,fr FRA,"FW,MF",11,8,0.0,3.0,2006-2007,/en/players/59bfafcf/Robert-Pires,59bfafcf,Villarreal,659,7.3,0.0,1.0,51,4.0,2739,Villarreal
+,Jon Dahl Tomasson,dk DEN,"FW,MF",11,7,0.0,4.0,2006-2007,/en/players/4af3fb59/Jon-Dahl-Tomasson,4af3fb59,Villarreal,648,7.2,0.0,0.0,51,7.0,2740,Villarreal
+,Nihat Kahveci,tr TUR,FW,9,7,1.0,0.0,2006-2007,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Villarreal,509,5.7,2.0,0.0,51,15.0,196,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,6,6,0.0,0.0,2006-2007,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,540,6.0,2.0,0.0,51,5.0,2725,Villarreal
+,Juan Manuel Peña,bo BOL,DF,6,6,0.0,0.0,2006-2007,/en/players/0f7909da/Juan-Manuel-Pena,0f7909da,Villarreal,429,4.8,1.0,0.0,51,64.0,691,Villarreal
+,Jonathan Pereira,es ESP,FW,4,0,0.0,1.0,2006-2007,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Villarreal,81,0.9,1.0,0.0,51,1.0,1427,Villarreal
+,Bruno Soriano,es ESP,MF,3,0,0.0,0.0,2006-2007,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,58,0.6,1.0,0.0,51,1.0,2741,Villarreal
+,﻿Joan Capdevila,es ESP,DF,36,36,1.0,2.0,2007-2008,/en/players/69697a6d/Joan-Capdevila,69697a6d,Villarreal,"3,239",36.0,7.0,1.0,51,1.0,378,Villarreal
+,Marcos Senna,es ESP,MF,34,34,7.0,4.0,2007-2008,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,915",32.4,9.0,0.0,51,1.0,2707,Villarreal
+,Santi Cazorla,es ESP,MF,36,28,5.0,5.0,2007-2008,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"2,561",28.5,3.0,0.0,51,1.0,2377,Villarreal
+,Robert Pirès,fr FRA,"FW,MF",32,27,3.0,3.0,2007-2008,/en/players/59bfafcf/Robert-Pires,59bfafcf,Villarreal,"2,102",23.4,1.0,0.0,51,4.0,2739,Villarreal
+,Nihat Kahveci,tr TUR,FW,34,25,5.0,18.0,2007-2008,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Villarreal,"2,134",23.7,4.0,0.0,51,15.0,196,Villarreal
+,Javi Venta,es ESP,DF,25,23,1.0,1.0,2007-2008,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"2,068",23.0,3.0,0.0,51,1.0,2712,Villarreal
+,Diego Godín,uy URU,DF,24,22,0.0,1.0,2007-2008,/en/players/fc4f85b1/Diego-Godin,fc4f85b1,Villarreal,"1,998",22.2,5.0,0.0,51,8.0,2191,Villarreal
+,Giuseppe Rossi,it ITA,FW,27,22,3.0,11.0,2007-2008,/en/players/fe48a073/Giuseppe-Rossi,fe48a073,Villarreal,"1,784",19.8,7.0,0.0,51,9.0,787,Villarreal
+,Diego López,es ESP,GK,20,20,0.0,0.0,2007-2008,/en/players/73683fa9/Diego-Lopez,73683fa9,Villarreal,"1,726",19.2,2.0,1.0,51,1.0,47,Villarreal
+,Pascal Cygan,fr FRA,DF,21,19,0.0,1.0,2007-2008,/en/players/96d186cf/Pascal-Cygan,96d186cf,Villarreal,"1,748",19.4,3.0,0.0,51,4.0,2737,Villarreal
+,Sebastián Viera,uy URU,GK,18,18,0.0,0.0,2007-2008,/en/players/a7ba2f67/Sebastian-Viera,7ba2f67,Villarreal,"1,620",18.0,1.0,0.0,51,8.0,2729,Villarreal
+,Fabricio Fuentes,ar ARG,DF,18,18,0.0,2.0,2007-2008,/en/players/851ea9c3/Fabricio-Fuentes,851ea9c3,Villarreal,"1,573",17.5,3.0,1.0,51,5.0,2736,Villarreal
+,Ángel López,es ESP,"DF,MF",20,17,0.0,0.0,2007-2008,/en/players/93cdc601/Angel-Lopez,93cdc601,Villarreal,"1,593",17.7,5.0,0.0,51,1.0,628,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,18,17,0.0,0.0,2007-2008,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"1,527",17.0,3.0,0.0,51,5.0,2725,Villarreal
+,Guillermo Franco,mx MEX,FW,24,16,4.0,8.0,2007-2008,/en/players/15e15558/Guillermo-Franco,15e15558,Villarreal,"1,463",16.3,8.0,0.0,51,20.0,2731,Villarreal
+,Bruno Soriano,es ESP,MF,21,16,0.0,0.0,2007-2008,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"1,256",14.0,5.0,0.0,51,1.0,2741,Villarreal
+,Cani,es ESP,MF,32,14,2.0,0.0,2007-2008,/en/players/b493db11/Cani,b493db11,Villarreal,"1,555",17.3,8.0,0.0,51,1.0,508,Villarreal
+,Sebastián Eguren,uy URU,MF,15,14,1.0,0.0,2007-2008,/en/players/de07ca1e/Sebastian-Eguren,de07ca1e,Villarreal,"1,234",13.7,8.0,0.0,51,8.0,2742,Villarreal
+,Matías Fernández,cl CHI,MF,29,11,1.0,3.0,2007-2008,/en/players/8a250399/Matias-Fernandez,8a250399,Villarreal,"1,300",14.4,1.0,0.0,51,31.0,2738,Villarreal
+,Josico,es ESP,"FW,MF",13,10,0.0,0.0,2007-2008,/en/players/1d2fe5a5/Josico,1d2fe5a5,Villarreal,815,9.1,0.0,0.0,51,1.0,2705,Villarreal
+,Jon Dahl Tomasson,dk DEN,"FW,MF",25,9,1.0,3.0,2007-2008,/en/players/4af3fb59/Jon-Dahl-Tomasson,4af3fb59,Villarreal,931,10.3,2.0,0.0,51,7.0,2740,Villarreal
+,Rio Mavuba,fr FRA,MF,5,1,0.0,0.0,2007-2008,/en/players/48c16bf5/Rio-Mavuba,48c16bf5,Villarreal,222,2.5,0.0,0.0,51,4.0,2743,Villarreal
+,Josemi,es ESP,DF,1,1,0.0,0.0,2007-2008,/en/players/e85dd0fc/Josemi,85dd0fc,Villarreal,90,1.0,0.0,0.0,51,1.0,1608,Villarreal
+,Juan Carlos,es ESP,GK,2,0,0.0,0.0,2007-2008,/en/players/bc5adc98/Juan-Carlos,bc5adc98,Villarreal,89,1.0,0.0,0.0,51,1.0,2744,Villarreal
+,﻿Diego López,es ESP,GK,38,38,0.0,0.0,2008-2009,/en/players/73683fa9/Diego-Lopez,73683fa9,Villarreal,"3,420",38.0,3.0,0.0,51,1.0,47,Villarreal
+,Joan Capdevila,es ESP,DF,36,36,0.0,5.0,2008-2009,/en/players/69697a6d/Joan-Capdevila,69697a6d,Villarreal,"3,203",35.6,4.0,0.0,51,1.0,378,Villarreal
+,Diego Godín,uy URU,DF,31,31,1.0,0.0,2008-2009,/en/players/fc4f85b1/Diego-Godin,fc4f85b1,Villarreal,"2,767",30.7,13.0,1.0,51,8.0,2191,Villarreal
+,Sebastián Eguren,uy URU,MF,32,28,1.0,1.0,2008-2009,/en/players/de07ca1e/Sebastian-Eguren,de07ca1e,Villarreal,"2,342",26.0,9.0,0.0,51,8.0,2742,Villarreal
+,Joseba Llorente,es ESP,FW,32,28,2.0,15.0,2008-2009,/en/players/ddb98947/Joseba-Llorente,ddb98947,Villarreal,"2,311",25.7,5.0,1.0,51,1.0,211,Villarreal
+,Giuseppe Rossi,it ITA,FW,30,28,7.0,12.0,2008-2009,/en/players/fe48a073/Giuseppe-Rossi,fe48a073,Villarreal,"2,187",24.3,4.0,0.0,51,9.0,787,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,27,27,0.0,2.0,2008-2009,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"2,361",26.2,10.0,0.0,51,5.0,2725,Villarreal
+,Santi Cazorla,es ESP,MF,30,26,4.0,8.0,2008-2009,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"2,348",26.1,3.0,0.0,51,1.0,2377,Villarreal
+,Marcos Senna,es ESP,MF,27,25,1.0,2.0,2008-2009,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,109",23.4,8.0,0.0,51,1.0,2707,Villarreal
+,Robert Pirès,fr FRA,"FW,MF",32,24,8.0,3.0,2008-2009,/en/players/59bfafcf/Robert-Pires,59bfafcf,Villarreal,"2,030",22.6,4.0,1.0,51,4.0,2739,Villarreal
+,Javi Venta,es ESP,DF,22,21,1.0,0.0,2008-2009,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"1,827",20.3,6.0,1.0,51,1.0,2712,Villarreal
+,Ángel López,es ESP,"DF,MF",21,19,1.0,0.0,2008-2009,/en/players/93cdc601/Angel-Lopez,93cdc601,Villarreal,"1,676",18.6,5.0,1.0,51,1.0,628,Villarreal
+,Ariel Ibagaza,ar ARG,MF,30,19,5.0,1.0,2008-2009,/en/players/bd513ca4/Ariel-Ibagaza,bd513ca4,Villarreal,"1,642",18.2,5.0,0.0,51,5.0,1545,Villarreal
+,Cani,es ESP,MF,22,16,2.0,6.0,2008-2009,/en/players/b493db11/Cani,b493db11,Villarreal,"1,483",16.5,2.0,0.0,51,1.0,508,Villarreal
+,Fabricio Fuentes,ar ARG,DF,16,14,0.0,2.0,2008-2009,/en/players/851ea9c3/Fabricio-Fuentes,851ea9c3,Villarreal,"1,350",15.0,4.0,0.0,51,5.0,2736,Villarreal
+,Bruno Soriano,es ESP,MF,25,12,0.0,0.0,2008-2009,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"1,386",15.4,5.0,0.0,51,1.0,2741,Villarreal
+,Nihat Kahveci,tr TUR,FW,19,8,2.0,0.0,2008-2009,/en/players/41e774bd/Nihat-Kahveci,41e774bd,Villarreal,761,8.5,1.0,0.0,51,15.0,196,Villarreal
+,Matías Fernández,cl CHI,MF,21,5,1.0,3.0,2008-2009,/en/players/8a250399/Matias-Fernandez,8a250399,Villarreal,644,7.2,1.0,0.0,51,31.0,2738,Villarreal
+,Guillermo Franco,mx MEX,FW,18,5,0.0,0.0,2008-2009,/en/players/15e15558/Guillermo-Franco,15e15558,Villarreal,637,7.1,5.0,0.0,51,20.0,2731,Villarreal
+,Pascal Cygan,fr FRA,DF,4,3,0.0,0.0,2008-2009,/en/players/96d186cf/Pascal-Cygan,96d186cf,Villarreal,300,3.3,1.0,0.0,51,4.0,2737,Villarreal
+,Jozy Altidore,us USA,FW,6,2,0.0,1.0,2008-2009,/en/players/8db8ad1e/Jozy-Altidore,8db8ad1e,Villarreal,259,2.9,0.0,0.0,51,75.0,2745,Villarreal
+,Edmílson,br BRA,"DF,MF",6,2,0.0,0.0,2008-2009,/en/players/13853c88/Edmilson,13853c88,Villarreal,244,2.7,0.0,0.0,51,2.0,1091,Villarreal
+,Javier Matilla,es ESP,MF,1,1,0.0,0.0,2008-2009,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Villarreal,90,1.0,0.0,0.0,51,1.0,1437,Villarreal
+,Jordi Pablo,es ESP,"FW,MF",2,0,0.0,0.0,2008-2009,/en/players/93d3acb2/Jordi-Pablo,93d3acb2,Villarreal,48,0.5,0.0,0.0,51,1.0,2746,Villarreal
+,Joan Tomàs,es ESP,"FW,MF",1,0,0.0,0.0,2008-2009,/en/players/9ada6f1d/Joan-Tomas,9ada6f1d,Villarreal,26,0.3,0.0,0.0,51,1.0,738,Villarreal
+,Mario Gaspar,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,24,0.3,0.0,0.0,51,1.0,2747,Villarreal
+,﻿Diego López,es ESP,GK,38,38,0.0,0.0,2009-2010,/en/players/73683fa9/Diego-Lopez,73683fa9,Villarreal,"3,420",38.0,4.0,0.0,51,1.0,47,Villarreal
+,Joan Capdevila,es ESP,DF,37,37,2.0,5.0,2009-2010,/en/players/69697a6d/Joan-Capdevila,69697a6d,Villarreal,"3,312",36.8,6.0,1.0,51,1.0,378,Villarreal
+,Diego Godín,uy URU,DF,36,36,2.0,3.0,2009-2010,/en/players/fc4f85b1/Diego-Godin,fc4f85b1,Villarreal,"3,180",35.3,8.0,1.0,51,8.0,2191,Villarreal
+,Bruno Soriano,es ESP,MF,33,31,2.0,0.0,2009-2010,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"2,794",31.0,11.0,0.0,51,1.0,2741,Villarreal
+,Nilmar,br BRA,FW,33,28,4.0,11.0,2009-2010,/en/players/90a5a4aa/Nilmar,90a5a4aa,Villarreal,"2,470",27.4,1.0,0.0,51,2.0,2748,Villarreal
+,Giuseppe Rossi,it ITA,FW,34,27,2.0,10.0,2009-2010,/en/players/fe48a073/Giuseppe-Rossi,fe48a073,Villarreal,"2,336",26.0,3.0,0.0,51,9.0,787,Villarreal
+,Cani,es ESP,MF,35,27,4.0,2.0,2009-2010,/en/players/b493db11/Cani,b493db11,Villarreal,"2,177",24.2,4.0,1.0,51,1.0,508,Villarreal
+,Marcos Senna,es ESP,MF,30,26,1.0,1.0,2009-2010,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,186",24.3,5.0,0.0,51,1.0,2707,Villarreal
+,Ángel López,es ESP,"DF,MF",24,22,0.0,1.0,2009-2010,/en/players/93cdc601/Angel-Lopez,93cdc601,Villarreal,"1,977",22.0,8.0,1.0,51,1.0,628,Villarreal
+,Joseba Llorente,es ESP,FW,29,20,2.0,9.0,2009-2010,/en/players/ddb98947/Joseba-Llorente,ddb98947,Villarreal,"1,762",19.6,8.0,1.0,51,1.0,211,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,20,19,0.0,0.0,2009-2010,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"1,640",18.2,4.0,3.0,51,5.0,2725,Villarreal
+,Santi Cazorla,es ESP,MF,24,16,1.0,5.0,2009-2010,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"1,497",16.6,4.0,0.0,51,1.0,2377,Villarreal
+,Javi Venta,es ESP,DF,18,16,0.0,0.0,2009-2010,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"1,415",15.7,4.0,0.0,51,1.0,2712,Villarreal
+,Iván Marcano,es ESP,DF,16,15,0.0,1.0,2009-2010,/en/players/7a20d90a/Ivan-Marcano,7a20d90a,Villarreal,"1,292",14.4,5.0,1.0,51,1.0,2749,Villarreal
+,Ariel Ibagaza,ar ARG,MF,24,14,4.0,2.0,2009-2010,/en/players/bd513ca4/Ariel-Ibagaza,bd513ca4,Villarreal,"1,246",13.8,5.0,0.0,51,5.0,1545,Villarreal
+,Robert Pirès,fr FRA,"FW,MF",29,13,1.0,4.0,2009-2010,/en/players/59bfafcf/Robert-Pires,59bfafcf,Villarreal,"1,322",14.7,4.0,0.0,51,4.0,2739,Villarreal
+,David Fuster,es ESP,MF,22,11,0.0,3.0,2009-2010,/en/players/23cbf415/David-Fuster,23cbf415,Villarreal,"1,124",12.5,6.0,0.0,51,1.0,2750,Villarreal
+,Sebastián Eguren,uy URU,MF,14,9,1.0,0.0,2009-2010,/en/players/de07ca1e/Sebastian-Eguren,de07ca1e,Villarreal,862,9.6,4.0,0.0,51,8.0,2742,Villarreal
+,Mateo Musacchio,ar ARG,DF,7,5,0.0,0.0,2009-2010,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,405,4.5,0.0,1.0,51,5.0,2751,Villarreal
+,Damián Escudero,ar ARG,MF,13,3,2.0,1.0,2009-2010,/en/players/8c16b37a/Damian-Escudero,8c16b37a,Villarreal,355,3.9,0.0,0.0,51,5.0,2560,Villarreal
+,Javier Matilla,es ESP,MF,2,2,0.0,0.0,2009-2010,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Villarreal,165,1.8,0.0,0.0,51,1.0,1437,Villarreal
+,Kiko Olivas,es ESP,DF,2,2,0.0,0.0,2009-2010,/en/players/72b07a9c/Kiko-Olivas,72b07a9c,Villarreal,116,1.3,0.0,1.0,51,1.0,2337,Villarreal
+,Marco Ruben,ar ARG,FW,4,1,0.0,0.0,2009-2010,/en/players/30795728/Marco-Ruben,30795728,Villarreal,123,1.4,0.0,0.0,51,5.0,2752,Villarreal
+,Jonathan Pereira,es ESP,FW,6,0,0.0,0.0,2009-2010,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Villarreal,137,1.5,2.0,0.0,51,1.0,1427,Villarreal
+,Marcos Gullón,es ESP,MF,1,0,0.0,0.0,2009-2010,/en/players/80a6cb7f/Marcos-Gullon,80a6cb7f,Villarreal,5,0.1,0.0,0.0,51,1.0,2753,Villarreal
+,﻿Diego López,es ESP,GK,38,38,0.0,0.0,2010-2011,/en/players/73683fa9/Diego-Lopez,73683fa9,Villarreal,"3,420",38.0,3.0,0.0,51,1.0,47,Villarreal
+,Bruno Soriano,es ESP,MF,37,36,1.0,0.0,2010-2011,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"3,276",36.4,9.0,0.0,51,1.0,2741,Villarreal
+,Giuseppe Rossi,it ITA,FW,36,35,4.0,18.0,2010-2011,/en/players/fe48a073/Giuseppe-Rossi,fe48a073,Villarreal,"2,999",33.3,6.0,0.0,51,9.0,787,Villarreal
+,Borja Valero,es ESP,MF,35,34,10.0,3.0,2010-2011,/en/players/0e21fc3c/Borja-Valero,0e21fc3c,Villarreal,"2,947",32.7,9.0,1.0,51,1.0,1611,Villarreal
+,Santi Cazorla,es ESP,MF,37,34,10.0,5.0,2010-2011,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"2,884",32.0,6.0,0.0,51,1.0,2377,Villarreal
+,Joan Capdevila,es ESP,DF,31,30,0.0,2.0,2010-2011,/en/players/69697a6d/Joan-Capdevila,69697a6d,Villarreal,"2,629",29.2,6.0,0.0,51,1.0,378,Villarreal
+,Mateo Musacchio,ar ARG,DF,31,27,1.0,0.0,2010-2011,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"2,387",26.5,9.0,1.0,51,5.0,2751,Villarreal
+,Nilmar,br BRA,FW,31,27,2.0,10.0,2010-2011,/en/players/90a5a4aa/Nilmar,90a5a4aa,Villarreal,"2,359",26.2,3.0,0.0,51,2.0,2748,Villarreal
+,Carlos Marchena,es ESP,"DF,MF",28,27,0.0,1.0,2010-2011,/en/players/48ddb821/Carlos-Marchena,48ddb821,Villarreal,"2,345",26.1,10.0,1.0,51,1.0,464,Villarreal
+,Cani,es ESP,MF,34,25,3.0,5.0,2010-2011,/en/players/b493db11/Cani,b493db11,Villarreal,"2,079",23.1,4.0,1.0,51,1.0,508,Villarreal
+,Mario Gaspar,es ESP,DF,22,20,1.0,1.0,2010-2011,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"1,833",20.4,5.0,0.0,51,1.0,2747,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,23,20,0.0,1.0,2010-2011,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"1,810",20.1,5.0,1.0,51,5.0,2725,Villarreal
+,Ángel López,es ESP,"DF,MF",18,18,2.0,0.0,2010-2011,/en/players/93cdc601/Angel-Lopez,93cdc601,Villarreal,"1,594",17.7,4.0,0.0,51,1.0,628,Villarreal
+,Marcos Senna,es ESP,MF,20,15,0.0,1.0,2010-2011,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"1,225",13.6,2.0,0.0,51,1.0,2707,Villarreal
+,Marco Ruben,ar ARG,FW,30,12,2.0,5.0,2010-2011,/en/players/30795728/Marco-Ruben,30795728,Villarreal,"1,300",14.4,4.0,0.0,51,5.0,2752,Villarreal
+,José Catalá,es ESP,DF,16,10,2.0,1.0,2010-2011,/en/players/ac0a9088/Jose-Catala,c0a9088,Villarreal,955,10.6,1.0,0.0,51,1.0,2754,Villarreal
+,Javier Matilla,es ESP,MF,11,3,0.0,0.0,2010-2011,/en/players/35fa45cc/Javier-Matilla,35fa45cc,Villarreal,361,4.0,0.0,0.0,51,1.0,1437,Villarreal
+,Kiko Olivas,es ESP,DF,4,2,0.0,0.0,2010-2011,/en/players/72b07a9c/Kiko-Olivas,72b07a9c,Villarreal,183,2.0,1.0,0.0,51,1.0,2337,Villarreal
+,Wakaso,gh GHA,MF,11,1,0.0,0.0,2010-2011,/en/players/999908af/Wakaso,999908af,Villarreal,300,3.3,3.0,0.0,51,17.0,2755,Villarreal
+,Joan Oriol,es ESP,DF,6,1,0.0,0.0,2010-2011,/en/players/7ccb2ef6/Joan-Oriol,7ccb2ef6,Villarreal,142,1.6,1.0,0.0,51,1.0,1676,Villarreal
+,Carlos Tomás,es ESP,DF,1,1,0.0,0.0,2010-2011,/en/players/c4559662/Carlos-Tomas,c4559662,Villarreal,90,1.0,0.0,0.0,51,1.0,2756,Villarreal
+,Marcos Gullón,es ESP,MF,1,1,0.0,0.0,2010-2011,/en/players/80a6cb7f/Marcos-Gullon,80a6cb7f,Villarreal,68,0.8,1.0,0.0,51,1.0,2753,Villarreal
+,Cristóbal,es ESP,"DF,MF",2,1,0.0,0.0,2010-2011,/en/players/81da94e5/Cristobal,81da94e5,Villarreal,66,0.7,0.0,0.0,51,1.0,2757,Villarreal
+,Jefferson Montero,ec ECU,"FW,MF",9,0,1.0,1.0,2010-2011,/en/players/fa6561bf/Jefferson-Montero,fa6561bf,Villarreal,145,1.6,0.0,0.0,51,61.0,1431,Villarreal
+,Cicinho,br BRA,DF,6,0,0.0,0.0,2010-2011,/en/players/9e4e6402/Cicinho,9e4e6402,Villarreal,92,1.0,0.0,0.0,51,2.0,42,Villarreal
+,Jozy Altidore,us USA,FW,3,0,0.0,0.0,2010-2011,/en/players/8db8ad1e/Jozy-Altidore,8db8ad1e,Villarreal,35,0.4,0.0,0.0,51,75.0,2745,Villarreal
+,Nicki Bille Nielsen,dk DEN,FW,1,0,0.0,0.0,2010-2011,/en/players/c0a57418/Nicki-Bille-Nielsen,c0a57418,Villarreal,16,0.2,0.0,0.0,51,7.0,2758,Villarreal
+,Natxo Insa,my MAS,MF,1,0,0.0,0.0,2010-2011,/en/players/28ccefcd/Natxo-Insa,28ccefcd,Villarreal,11,0.1,0.0,0.0,51,68.0,747,Villarreal
+,﻿Bruno Soriano,es ESP,MF,37,37,1.0,3.0,2011-2012,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"3,330",37.0,8.0,0.0,51,1.0,2741,Villarreal
+,Diego López,es ESP,GK,37,37,0.0,0.0,2011-2012,/en/players/73683fa9/Diego-Lopez,73683fa9,Villarreal,"3,262",36.2,4.0,1.0,51,1.0,47,Villarreal
+,Borja Valero,es ESP,MF,36,36,5.0,5.0,2011-2012,/en/players/0e21fc3c/Borja-Valero,0e21fc3c,Villarreal,"3,135",34.8,4.0,0.0,51,1.0,1611,Villarreal
+,Mateo Musacchio,ar ARG,DF,30,29,0.0,0.0,2011-2012,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"2,648",29.4,7.0,0.0,51,5.0,2751,Villarreal
+,Cristián Zapata,co COL,DF,28,28,0.0,0.0,2011-2012,/en/players/b1deecf8/Cristian-Zapata,b1deecf8,Villarreal,"2,492",27.7,5.0,0.0,51,19.0,2759,Villarreal
+,Cani,es ESP,MF,29,27,3.0,0.0,2011-2012,/en/players/b493db11/Cani,b493db11,Villarreal,"1,894",21.0,4.0,0.0,51,1.0,508,Villarreal
+,Marco Ruben,ar ARG,FW,31,26,3.0,9.0,2011-2012,/en/players/30795728/Marco-Ruben,30795728,Villarreal,"2,269",25.2,8.0,0.0,51,5.0,2752,Villarreal
+,Marcos Senna,es ESP,MF,31,24,2.0,5.0,2011-2012,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,087",23.2,4.0,0.0,51,1.0,2707,Villarreal
+,Gonzalo Rodríguez,ar ARG,DF,26,24,0.0,1.0,2011-2012,/en/players/46e6fea3/Gonzalo-Rodriguez,46e6fea3,Villarreal,"2,060",22.9,8.0,0.0,51,5.0,2725,Villarreal
+,Joan Oriol,es ESP,DF,21,21,0.0,0.0,2011-2012,/en/players/7ccb2ef6/Joan-Oriol,7ccb2ef6,Villarreal,"1,868",20.8,4.0,1.0,51,1.0,1676,Villarreal
+,Mario Gaspar,es ESP,DF,23,20,0.0,1.0,2011-2012,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"1,869",20.8,3.0,0.0,51,1.0,2747,Villarreal
+,Ángel López,es ESP,"DF,MF",21,15,1.0,1.0,2011-2012,/en/players/93cdc601/Angel-Lopez,93cdc601,Villarreal,"1,368",15.2,3.0,1.0,51,1.0,628,Villarreal
+,Nilmar,br BRA,FW,21,13,1.0,4.0,2011-2012,/en/players/90a5a4aa/Nilmar,90a5a4aa,Villarreal,"1,178",13.1,2.0,0.0,51,2.0,2748,Villarreal
+,José Catalá,es ESP,DF,13,13,1.0,0.0,2011-2012,/en/players/ac0a9088/Jose-Catala,c0a9088,Villarreal,"1,128",12.5,5.0,0.0,51,1.0,2754,Villarreal
+,Hernán Pérez,py PAR,"FW,MF",21,12,1.0,4.0,2011-2012,/en/players/e1cea3f7/Hernan-Perez,1cea3f7,Villarreal,"1,111",12.3,4.0,0.0,51,43.0,2610,Villarreal
+,Jonathan de Guzmán,nl NED,MF,19,11,0.0,0.0,2011-2012,/en/players/1bcca8b8/Jonathan-de-Guzman,1bcca8b8,Villarreal,991,11.0,5.0,0.0,51,11.0,1617,Villarreal
+,Javier Camuñas,es ESP,"FW,MF",27,10,2.0,1.0,2011-2012,/en/players/bbc1db07/Javier-Camunas,bbc1db07,Villarreal,"1,185",13.2,2.0,0.0,51,1.0,469,Villarreal
+,Carlos Marchena,es ESP,"DF,MF",17,9,1.0,0.0,2011-2012,/en/players/48ddb821/Carlos-Marchena,48ddb821,Villarreal,774,8.6,7.0,1.0,51,1.0,464,Villarreal
+,Giuseppe Rossi,it ITA,FW,9,9,0.0,3.0,2011-2012,/en/players/fe48a073/Giuseppe-Rossi,fe48a073,Villarreal,746,8.3,3.0,0.0,51,9.0,787,Villarreal
+,Jaume Costa,es ESP,DF,6,6,0.0,0.0,2011-2012,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,540,6.0,2.0,0.0,51,1.0,1011,Villarreal
+,Alejandro Martinuccio,ar ARG,"FW,MF",13,5,0.0,1.0,2011-2012,/en/players/72b206f3/Alejandro-Martinuccio,72b206f3,Villarreal,507,5.6,2.0,0.0,51,5.0,2760,Villarreal
+,Joselu,es ESP,FW,11,3,1.0,0.0,2011-2012,/en/players/a5e9c273/Joselu,5e9c273,Villarreal,332,3.7,1.0,0.0,51,1.0,1664,Villarreal
+,Gonzalo Castellani,ar ARG,MF,10,1,0.0,0.0,2011-2012,/en/players/a089163c/Gonzalo-Castellani,089163c,Villarreal,267,3.0,1.0,0.0,51,5.0,90027,Villarreal
+,Wakaso,gh GHA,MF,6,1,0.0,0.0,2011-2012,/en/players/999908af/Wakaso,999908af,Villarreal,197,2.2,3.0,0.0,51,17.0,2755,Villarreal
+,César Sánchez,es ESP,GK,2,1,0.0,0.0,2011-2012,/en/players/c6e6e5d6/Cesar-Sanchez,c6e6e5d6,Villarreal,158,1.8,1.0,0.0,51,1.0,29,Villarreal
+,Moi Gómez,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,66,0.7,0.0,0.0,51,1.0,2761,Villarreal
+,Gerard Bordas,es ESP,"FW,MF",2,0,0.0,0.0,2011-2012,/en/players/56ef2fd7/Gerard-Bordas,56ef2fd7,Villarreal,46,0.5,0.0,0.0,51,1.0,2762,Villarreal
+,Florian Lejeune,fr FRA,"DF,MF",2,0,0.0,0.0,2011-2012,/en/players/6eaed4eb/Florian-Lejeune,6eaed4eb,Villarreal,16,0.2,0.0,0.0,51,4.0,2763,Villarreal
+,﻿Mateo Musacchio,ar ARG,DF,39,39,3.0,2.0,2012-2013,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"3,489",38.8,12.0,0.0,51,5.0,2751,Villarreal
+,Bruno Soriano,es ESP,MF,36,35,3.0,4.0,2012-2013,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"3,113",34.6,9.0,3.0,51,1.0,2741,Villarreal
+,Cani,es ESP,MF,37,35,5.0,3.0,2012-2013,/en/players/b493db11/Cani,b493db11,Villarreal,"2,738",30.4,9.0,0.0,51,1.0,508,Villarreal
+,Juan Carlos,es ESP,GK,32,32,0.0,0.0,2012-2013,/en/players/bc5adc98/Juan-Carlos,bc5adc98,Villarreal,"2,880",32.0,2.0,0.0,51,1.0,2744,Villarreal
+,Mario Gaspar,es ESP,DF,28,27,4.0,0.0,2012-2013,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"2,434",27.0,5.0,0.0,51,1.0,2747,Villarreal
+,Olof Mellberg,se SWE,"DF,MF",29,26,0.0,2.0,2012-2013,/en/players/1c95e93d/Olof-Mellberg,1c95e93d,Villarreal,"2,266",25.2,10.0,1.0,51,41.0,2764,Villarreal
+,Marcos Senna,es ESP,MF,33,25,0.0,5.0,2012-2013,/en/players/ad6cbdbe/Marcos-Senna,d6cbdbe,Villarreal,"2,230",24.8,9.0,0.0,51,1.0,2707,Villarreal
+,Jaume Costa,es ESP,DF,32,24,3.0,0.0,2012-2013,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"2,305",25.6,12.0,0.0,51,1.0,1011,Villarreal
+,Ikechukwu Uche,ng NGA,FW,32,23,3.0,14.0,2012-2013,/en/players/ba7c6d25/Ikechukwu-Uche,ba7c6d25,Villarreal,"2,136",23.7,0.0,0.0,51,52.0,2414,Villarreal
+,Manu Trigueros,es ESP,MF,36,21,3.0,3.0,2012-2013,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,202",24.5,5.0,0.0,51,1.0,2765,Villarreal
+,Joan Oriol,es ESP,DF,23,21,0.0,0.0,2012-2013,/en/players/7ccb2ef6/Joan-Oriol,7ccb2ef6,Villarreal,"1,874",20.8,6.0,1.0,51,1.0,1676,Villarreal
+,Moi Gómez,es ESP,"FW,MF",24,16,2.0,1.0,2012-2013,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,"1,458",16.2,5.0,0.0,51,1.0,2761,Villarreal
+,Javi Venta,es ESP,DF,15,15,2.0,0.0,2012-2013,/en/players/fc3efd36/Javi-Venta,fc3efd36,Villarreal,"1,322",14.7,1.0,0.0,51,1.0,2712,Villarreal
+,Jérémy Perbet,fr FRA,FW,18,15,3.0,11.0,2012-2013,/en/players/dfe2f225/Jeremy-Perbet,dfe2f225,Villarreal,"1,246",13.8,3.0,0.0,51,4.0,2766,Villarreal
+,Fernando Cavenaghi,ar ARG,FW,18,15,1.0,4.0,2012-2013,/en/players/d34453a9/Fernando-Cavenaghi,d34453a9,Villarreal,"1,143",12.7,1.0,0.0,51,5.0,1623,Villarreal
+,Jonathan Pereira,es ESP,FW,20,11,4.0,7.0,2012-2013,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Villarreal,"1,147",12.7,4.0,0.0,51,1.0,1427,Villarreal
+,Chechu,es ESP,DF,11,11,0.0,0.0,2012-2013,/en/players/e98f3a6a/Chechu,98f3a6a,Villarreal,934,10.4,2.0,0.0,51,1.0,1420,Villarreal
+,Javier Aquino,mx MEX,"DF,MF",12,10,1.0,0.0,2012-2013,/en/players/215104cc/Javier-Aquino,215104cc,Villarreal,785,8.7,2.0,0.0,51,20.0,2767,Villarreal
+,Héctor Canteros,ar ARG,MF,12,10,3.0,2.0,2012-2013,/en/players/82d5eeaa/Hector-Canteros,82d5eeaa,Villarreal,692,7.7,1.0,1.0,51,5.0,2768,Villarreal
+,Diego Mariño,es ESP,GK,9,9,0.0,0.0,2012-2013,/en/players/d9235a45/Diego-Marino,d9235a45,Villarreal,810,9.0,1.0,0.0,51,1.0,2598,Villarreal
+,Hernán Pérez,py PAR,"FW,MF",16,8,0.0,2.0,2012-2013,/en/players/e1cea3f7/Hernan-Perez,1cea3f7,Villarreal,895,9.9,4.0,1.0,51,43.0,2610,Villarreal
+,Javier Farinós,es ESP,MF,11,8,1.0,1.0,2012-2013,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Villarreal,694,7.7,3.0,0.0,51,1.0,1577,Villarreal
+,Gerard Moreno,es ESP,FW,14,8,2.0,3.0,2012-2013,/en/players/81f0781e/Gerard-Moreno,81f0781e,Villarreal,629,7.0,0.0,0.0,51,1.0,1650,Villarreal
+,Pablo Íñiguez,es ESP,"DF,MF",7,6,0.0,0.0,2012-2013,/en/players/dd55192d/Pablo-Iniguez,dd55192d,Villarreal,530,5.9,0.0,0.0,51,1.0,2772,Villarreal
+,Walter Pandiani,uy URU,FW,17,3,0.0,2.0,2012-2013,/en/players/11899bb1/Walter-Pandiani,11899bb1,Villarreal,473,5.3,3.0,0.0,51,8.0,387,Villarreal
+,Daniel Toribio,es ESP,MF,5,2,1.0,0.0,2012-2013,/en/players/0ced6664/Daniel-Toribio,0ced6664,Villarreal,206,2.3,3.0,0.0,51,1.0,2357,Villarreal
+,Gerard Bordas,es ESP,"FW,MF",6,2,0.0,0.0,2012-2013,/en/players/56ef2fd7/Gerard-Bordas,56ef2fd7,Villarreal,189,2.1,0.0,0.0,51,1.0,2762,Villarreal
+,Florian Lejeune,fr FRA,"DF,MF",3,2,0.0,0.0,2012-2013,/en/players/6eaed4eb/Florian-Lejeune,6eaed4eb,Villarreal,136,1.5,1.0,0.0,51,4.0,2763,Villarreal
+,Juanma,es ESP,MF,5,1,0.0,0.0,2012-2013,/en/players/f4f22926/Juanma,f4f22926,Villarreal,199,2.2,0.0,0.0,51,1.0,1413,Villarreal
+,Joan Truyols,es ESP,DF,3,1,0.0,0.0,2012-2013,/en/players/af43f64f/Joan-Truyols,f43f64f,Villarreal,143,1.6,0.0,0.0,51,1.0,1661,Villarreal
+,Jorge Palatsí,es ESP,GK,1,1,0.0,0.0,2012-2013,/en/players/cd66e46b/Jorge-Palatsi,cd66e46b,Villarreal,90,1.0,0.0,0.0,51,1.0,2769,Villarreal
+,Gonzalez Pablo,,,2,0,0.0,0.0,2012-2013,No detected,,Villarreal,23,0.3,0.0,0.0,51,,90028,Villarreal
+,﻿Mario Gaspar,es ESP,DF,36,36,2.0,1.0,2013-2014,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"3,240",36.0,4.0,0.0,51,1.0,2747,Villarreal
+,Sergio Asenjo,es ESP,GK,35,35,0.0,0.0,2013-2014,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"3,150",35.0,1.0,0.0,51,1.0,2186,Villarreal
+,Bruno Soriano,es ESP,MF,36,35,2.0,6.0,2013-2014,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"2,976",33.1,6.0,1.0,51,1.0,2741,Villarreal
+,Mateo Musacchio,ar ARG,DF,32,32,1.0,1.0,2013-2014,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"2,841",31.6,4.0,0.0,51,5.0,2751,Villarreal
+,Jaume Costa,es ESP,DF,30,26,1.0,1.0,2013-2014,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"2,465",27.4,12.0,0.0,51,1.0,1011,Villarreal
+,Giovani dos Santos,mx MEX,"FW,MF",31,26,8.0,11.0,2013-2014,/en/players/7dba6233/Giovani-dos-Santos,7dba6233,Villarreal,"2,195",24.4,2.0,0.0,51,20.0,1113,Villarreal
+,Cani,es ESP,MF,26,24,6.0,3.0,2013-2014,/en/players/b493db11/Cani,b493db11,Villarreal,"1,996",22.2,4.0,0.0,51,1.0,508,Villarreal
+,Manu Trigueros,es ESP,MF,35,23,2.0,2.0,2013-2014,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,082",23.1,6.0,0.0,51,1.0,2765,Villarreal
+,Tomás Pina Isla,es ESP,MF,35,21,0.0,2.0,2013-2014,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Villarreal,"2,009",22.3,7.0,0.0,51,1.0,1616,Villarreal
+,Ikechukwu Uche,ng NGA,FW,30,19,2.0,13.0,2013-2014,/en/players/ba7c6d25/Ikechukwu-Uche,ba7c6d25,Villarreal,"1,740",19.3,4.0,1.0,51,52.0,2414,Villarreal
+,Javier Aquino,mx MEX,"DF,MF",32,18,5.0,1.0,2013-2014,/en/players/215104cc/Javier-Aquino,215104cc,Villarreal,"1,848",20.5,2.0,0.0,51,20.0,2767,Villarreal
+,Chechu,es ESP,DF,19,17,1.0,0.0,2013-2014,/en/players/e98f3a6a/Chechu,98f3a6a,Villarreal,"1,525",16.9,2.0,0.0,51,1.0,1420,Villarreal
+,Gabriel Paulista,br BRA,DF,18,17,0.0,0.0,2013-2014,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Villarreal,"1,519",16.9,5.0,1.0,51,2.0,992,Villarreal
+,Jonathan Pereira,es ESP,FW,30,15,6.0,4.0,2013-2014,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Villarreal,"1,406",15.6,3.0,0.0,51,1.0,1427,Villarreal
+,Moi Gómez,es ESP,"FW,MF",19,15,2.0,2.0,2013-2014,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,"1,241",13.8,0.0,0.0,51,1.0,2761,Villarreal
+,Bojan Jokić,si SVN,"DF,MF",15,14,1.0,0.0,2013-2014,/en/players/8ac44cc2/Bojan-Jokic,8ac44cc2,Villarreal,"1,283",14.3,6.0,0.0,51,32.0,2770,Villarreal
+,Jérémy Perbet,fr FRA,FW,26,13,2.0,10.0,2013-2014,/en/players/dfe2f225/Jeremy-Perbet,dfe2f225,Villarreal,"1,266",14.1,3.0,0.0,51,4.0,2766,Villarreal
+,Hernán Pérez,py PAR,"FW,MF",13,9,0.0,1.0,2013-2014,/en/players/e1cea3f7/Hernan-Perez,1cea3f7,Villarreal,683,7.6,0.0,0.0,51,43.0,2610,Villarreal
+,Aleksandar Pantić,rs SRB,DF,9,6,0.0,0.0,2013-2014,/en/players/70e5566a/Aleksandar-Pantic,70e5566a,Villarreal,609,6.8,1.0,0.0,51,28.0,2771,Villarreal
+,Óliver Torres,es ESP,MF,9,6,1.0,0.0,2013-2014,/en/players/58a9a4d9/Oliver-Torres,58a9a4d9,Villarreal,502,5.6,2.0,0.0,51,1.0,1946,Villarreal
+,Juan Carlos,es ESP,GK,3,3,0.0,0.0,2013-2014,/en/players/bc5adc98/Juan-Carlos,bc5adc98,Villarreal,270,3.0,0.0,0.0,51,1.0,2744,Villarreal
+,Pablo Íñiguez,es ESP,"DF,MF",3,3,0.0,0.0,2013-2014,/en/players/dd55192d/Pablo-Iniguez,dd55192d,Villarreal,219,2.4,0.0,1.0,51,1.0,2772,Villarreal
+,Matías Nahuel,es ESP,"FW,MF",5,2,0.0,0.0,2013-2014,/en/players/48e4c485/Matias-Nahuel,48e4c485,Villarreal,199,2.2,0.0,0.0,51,1.0,554,Villarreal
+,Edu Ramos,es ESP,MF,3,2,0.0,0.0,2013-2014,/en/players/e6793b40/Edu-Ramos,6793b40,Villarreal,132,1.5,0.0,0.0,51,1.0,2366,Villarreal
+,Joan Àngel Román,es ESP,"FW,MF",2,1,0.0,0.0,2013-2014,/en/players/150a54c2/Joan-Angel-Roman,150a54c2,Villarreal,90,1.0,0.0,0.0,51,1.0,2773,Villarreal
+,﻿Sergio Asenjo,es ESP,GK,34,34,0.0,0.0,2014-2015,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"3,053",33.9,1.0,0.0,51,1.0,2186,Villarreal
+,Mario Gaspar,es ESP,DF,34,31,2.0,3.0,2014-2015,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"2,841",31.6,5.0,0.0,51,1.0,2747,Villarreal
+,Jaume Costa,es ESP,DF,29,28,0.0,1.0,2014-2015,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"2,427",27.0,8.0,1.0,51,1.0,1011,Villarreal
+,Manu Trigueros,es ESP,MF,33,28,1.0,1.0,2014-2015,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,416",26.8,9.0,0.0,51,1.0,2765,Villarreal
+,Víctor Ruiz,es ESP,"DF,MF",25,24,2.0,0.0,2014-2015,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Villarreal,"2,205",24.5,5.0,0.0,51,1.0,940,Villarreal
+,Bruno Soriano,es ESP,MF,24,23,1.0,2.0,2014-2015,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"2,083",23.1,3.0,0.0,51,1.0,2741,Villarreal
+,Gerard Moreno,es ESP,FW,26,19,3.0,7.0,2014-2015,/en/players/81f0781e/Gerard-Moreno,81f0781e,Villarreal,"1,615",17.9,2.0,0.0,51,1.0,1650,Villarreal
+,Ikechukwu Uche,ng NGA,FW,23,19,1.0,6.0,2014-2015,/en/players/ba7c6d25/Ikechukwu-Uche,ba7c6d25,Villarreal,"1,363",15.1,2.0,0.0,51,52.0,2414,Villarreal
+,Denis Cheryshev,ru RUS,"FW,MF",26,18,9.0,4.0,2014-2015,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Villarreal,"1,687",18.7,7.0,0.0,51,23.0,137,Villarreal
+,Gabriel Paulista,br BRA,DF,19,18,0.0,0.0,2014-2015,/en/players/b7ca5c51/Gabriel-Paulista,b7ca5c51,Villarreal,"1,586",17.6,4.0,0.0,51,2.0,992,Villarreal
+,Luciano Vietto,ar ARG,"FW,MF",32,17,2.0,12.0,2014-2015,/en/players/2513a588/Luciano-Vietto,2513a588,Villarreal,"1,908",21.2,5.0,0.0,51,5.0,997,Villarreal
+,Jonathan dos Santos,mx MEX,MF,28,17,1.0,2.0,2014-2015,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Villarreal,"1,640",18.2,5.0,0.0,51,20.0,1134,Villarreal
+,Moi Gómez,es ESP,"FW,MF",31,17,4.0,4.0,2014-2015,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,"1,617",18.0,6.0,0.0,51,1.0,2761,Villarreal
+,Tomás Pina Isla,es ESP,MF,22,17,3.0,0.0,2014-2015,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Villarreal,"1,453",16.1,4.0,1.0,51,1.0,1616,Villarreal
+,Joel Campbell,cr CRC,"FW,MF",16,16,0.0,1.0,2014-2015,/en/players/895ff3ca/Joel-Campbell,895ff3ca,Villarreal,"1,197",13.3,1.0,0.0,51,22.0,1441,Villarreal
+,Antonio Rukavina,rs SRB,DF,21,15,0.0,0.0,2014-2015,/en/players/e12d7851/Antonio-Rukavina,12d7851,Villarreal,"1,414",15.7,5.0,0.0,51,28.0,2590,Villarreal
+,Giovani dos Santos,mx MEX,"FW,MF",26,15,3.0,1.0,2014-2015,/en/players/7dba6233/Giovani-dos-Santos,7dba6233,Villarreal,"1,390",15.4,5.0,0.0,51,20.0,1113,Villarreal
+,Chechu,es ESP,DF,15,13,0.0,0.0,2014-2015,/en/players/e98f3a6a/Chechu,98f3a6a,Villarreal,"1,149",12.8,3.0,0.0,51,1.0,1420,Villarreal
+,Mateo Musacchio,ar ARG,DF,14,12,0.0,3.0,2014-2015,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"1,139",12.7,2.0,0.0,51,5.0,2751,Villarreal
+,Eric Bailly,ci CIV,DF,10,10,0.0,0.0,2014-2015,/en/players/a1232f4e/Eric-Bailly,1232f4e,Villarreal,823,9.1,5.0,0.0,51,35.0,2774,Villarreal
+,Bojan Jokić,si SVN,"DF,MF",7,6,0.0,0.0,2014-2015,/en/players/8ac44cc2/Bojan-Jokic,8ac44cc2,Villarreal,553,6.1,2.0,0.0,51,32.0,2770,Villarreal
+,Sergio Marcos,es ESP,MF,7,5,0.0,0.0,2014-2015,/en/players/e331be23/Sergio-Marcos,331be23,Villarreal,483,5.4,0.0,0.0,51,1.0,2642,Villarreal
+,Cani,es ESP,MF,9,5,2.0,0.0,2014-2015,/en/players/b493db11/Cani,b493db11,Villarreal,450,5.0,1.0,0.0,51,1.0,508,Villarreal
+,Juan Carlos,es ESP,GK,5,4,0.0,0.0,2014-2015,/en/players/bc5adc98/Juan-Carlos,bc5adc98,Villarreal,367,4.1,0.0,0.0,51,1.0,2744,Villarreal
+,Adrián Marín,es ESP,DF,4,4,0.0,0.0,2014-2015,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Villarreal,344,3.8,1.0,0.0,51,1.0,2781,Villarreal
+,Javier Espinosa,es ESP,MF,6,3,0.0,1.0,2014-2015,/en/players/8e08d88c/Javier-Espinosa,8e08d88c,Villarreal,291,3.2,1.0,0.0,51,1.0,2775,Villarreal
+,Alfonso Pedraza,es ESP,"DF,FW",2,0,0.0,0.0,2014-2015,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Villarreal,45,0.5,1.0,0.0,51,1.0,1520,Villarreal
+,Fran Sol,es ESP,FW,2,0,0.0,0.0,2014-2015,/en/players/9bd3b683/Fran-Sol,9bd3b683,Villarreal,21,0.2,0.0,0.0,51,1.0,2776,Villarreal
+,Aitor Fernández,es ESP,GK,0,0,,,2014-2015,/en/players/a01c3d54/Aitor-Fernandez,01c3d54,Villarreal,,,,,51,1.0,2777,Villarreal
+,Javier Jiménez,es ESP,DF,0,0,,,2014-2015,/en/players/d7af6f5b/Javier-Jimenez,d7af6f5b,Villarreal,,,,,51,1.0,2495,Villarreal
+,Matías Nahuel,es ESP,"FW,MF",0,0,,,2014-2015,/en/players/48e4c485/Matias-Nahuel,48e4c485,Villarreal,,,,,51,1.0,554,Villarreal
+,Anton Shvets,ru RUS,MF,0,0,,,2014-2015,/en/players/de5c4781/Anton-Shvets,de5c4781,Villarreal,,,,,51,23.0,2778,Villarreal
+,﻿Víctor Ruiz,es ESP,DF,35,32,0.0,0.0,2015-2016,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Villarreal,"2,991",33.2,10.0,0.0,51,1.0,940,Villarreal
+,Alphonse Areola,fr FRA,GK,32,32,0.0,0.0,2015-2016,/en/players/2f965a72/Alphonse-Areola,2f965a72,Villarreal,"2,880",32.0,1.0,0.0,51,4.0,167,Villarreal
+,Mario Gaspar,es ESP,DF,33,32,2.0,2.0,2015-2016,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"2,874",31.9,8.0,0.0,51,1.0,2747,Villarreal
+,Bruno Soriano,es ESP,MF,31,28,1.0,5.0,2015-2016,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"2,596",28.8,5.0,1.0,51,1.0,2741,Villarreal
+,Roberto Soldado,es ESP,FW,28,27,10.0,5.0,2015-2016,/en/players/9d66fbe3/Roberto-Soldado,9d66fbe3,Villarreal,"2,246",25.0,12.0,0.0,51,1.0,46,Villarreal
+,Denis Suárez,es ESP,MF,33,25,4.0,4.0,2015-2016,/en/players/12c50af5/Denis-Suarez,12c50af5,Villarreal,"2,373",26.4,3.0,0.0,51,1.0,815,Villarreal
+,Eric Bailly,ci CIV,DF,25,25,0.0,0.0,2015-2016,/en/players/a1232f4e/Eric-Bailly,1232f4e,Villarreal,"2,019",22.4,11.0,1.0,51,35.0,2774,Villarreal
+,Manu Trigueros,es ESP,MF,31,24,1.0,2.0,2015-2016,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,114",23.5,5.0,0.0,51,1.0,2765,Villarreal
+,Cédric Bakambu,cd COD,FW,34,21,3.0,12.0,2015-2016,/en/players/0af4dcf0/Cedric-Bakambu,0af4dcf0,Villarreal,"1,859",20.7,4.0,0.0,51,50.0,2779,Villarreal
+,Jonathan dos Santos,mx MEX,MF,26,20,1.0,0.0,2015-2016,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Villarreal,"1,758",19.5,4.0,0.0,51,20.0,1134,Villarreal
+,Samu Castillejo,es ESP,MF,28,19,1.0,1.0,2015-2016,/en/players/130a7a3f/Samu-Castillejo,130a7a3f,Villarreal,"1,695",18.8,4.0,0.0,51,1.0,2402,Villarreal
+,Tomás Pina Isla,es ESP,MF,27,19,1.0,0.0,2015-2016,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Villarreal,"1,633",18.1,4.0,0.0,51,1.0,1616,Villarreal
+,Jaume Costa,es ESP,DF,18,17,1.0,1.0,2015-2016,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"1,538",17.1,8.0,0.0,51,1.0,1011,Villarreal
+,Antonio Rukavina,rs SRB,"DF,MF",18,14,0.0,0.0,2015-2016,/en/players/e12d7851/Antonio-Rukavina,12d7851,Villarreal,"1,349",15.0,5.0,0.0,51,28.0,2590,Villarreal
+,Léo Baptistão,br BRA,FW,26,12,1.0,3.0,2015-2016,/en/players/35f6db55/Leo-Baptistao,35f6db55,Villarreal,"1,266",14.1,1.0,0.0,51,2.0,1451,Villarreal
+,Mateo Musacchio,ar ARG,DF,13,12,0.0,1.0,2015-2016,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"1,007",11.2,1.0,0.0,51,5.0,2751,Villarreal
+,Matías Nahuel,es ESP,"MF,FW",20,11,1.0,0.0,2015-2016,/en/players/48e4c485/Matias-Nahuel,48e4c485,Villarreal,"1,002",11.1,4.0,0.0,51,1.0,554,Villarreal
+,Daniele Bonera,it ITA,DF,14,10,0.0,0.0,2015-2016,/en/players/13b0c150/Daniele-Bonera,13b0c150,Villarreal,974,10.8,5.0,1.0,51,9.0,2780,Villarreal
+,Adrián Marín,es ESP,DF,11,10,0.0,0.0,2015-2016,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Villarreal,926,10.3,1.0,0.0,51,1.0,2781,Villarreal
+,Adrián López,es ESP,FW,16,10,4.0,4.0,2015-2016,/en/players/88a359d4/Adrian-Lopez,88a359d4,Villarreal,788,8.8,1.0,0.0,51,1.0,417,Villarreal
+,Samu García,es ESP,"MF,FW",16,7,1.0,2.0,2015-2016,/en/players/5f7db81a/Samu-Garcia,5f7db81a,Villarreal,766,8.5,2.0,0.0,51,1.0,2390,Villarreal
+,Sergio Asenjo,es ESP,GK,4,4,0.0,0.0,2015-2016,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,360,4.0,1.0,0.0,51,1.0,2186,Villarreal
+,Mariano Barbosa,ar ARG,GK,2,2,0.0,0.0,2015-2016,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Villarreal,180,2.0,0.0,0.0,51,5.0,1891,Villarreal
+,Bojan Jokić,si SVN,DF,2,2,0.0,0.0,2015-2016,/en/players/8ac44cc2/Bojan-Jokic,8ac44cc2,Villarreal,125,1.4,2.0,1.0,51,32.0,2770,Villarreal
+,Alfonso Pedraza,es ESP,MF,2,2,0.0,0.0,2015-2016,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Villarreal,105,1.2,0.0,0.0,51,1.0,1520,Villarreal
+,Rodri,es ESP,MF,3,1,0.0,0.0,2015-2016,/en/players/6434f10d/Rodri,6434f10d,Villarreal,95,1.1,1.0,0.0,51,1.0,2248,Villarreal
+,Pablo Íñiguez,es ESP,"DF,MF",0,0,,,2015-2016,/en/players/dd55192d/Pablo-Iniguez,dd55192d,Villarreal,,,,,51,1.0,2772,Villarreal
+,Miguel Juan Llambrich,es ESP,DF,0,0,,,2015-2016,/en/players/d83f09ff/Miguel-Juan-Llambrich,d83f09ff,Villarreal,,,,,51,1.0,2782,Villarreal
+,﻿Mario Gaspar,es ESP,DF,36,36,3.0,0.0,2016-2017,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"3,240",36.0,6.0,0.0,51,1.0,2747,Villarreal
+,Manu Trigueros,es ESP,MF,37,35,1.0,5.0,2016-2017,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"3,033",33.7,4.0,0.0,51,1.0,2765,Villarreal
+,Bruno Soriano,es ESP,MF,34,33,2.0,5.0,2016-2017,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,"2,984",33.2,5.0,0.0,51,1.0,2741,Villarreal
+,Roberto Soriano,it ITA,MF,33,31,5.0,9.0,2016-2017,/en/players/9d4c45d6/Roberto-Soriano,9d4c45d6,Villarreal,"2,450",27.2,8.0,1.0,51,9.0,2783,Villarreal
+,Jaume Costa,es ESP,DF,31,30,3.0,1.0,2016-2017,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"2,680",29.8,13.0,1.0,51,1.0,1011,Villarreal
+,Víctor Ruiz,es ESP,DF,28,27,1.0,1.0,2016-2017,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Villarreal,"2,366",26.3,4.0,2.0,51,1.0,940,Villarreal
+,Nicola Sansone,it ITA,FW,32,25,3.0,8.0,2016-2017,/en/players/7eb97a8e/Nicola-Sansone,7eb97a8e,Villarreal,"2,115",23.5,7.0,0.0,51,9.0,2784,Villarreal
+,Sergio Asenjo,es ESP,GK,24,24,0.0,0.0,2016-2017,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"2,104",23.4,0.0,0.0,51,1.0,2186,Villarreal
+,Samu Castillejo,es ESP,MF,33,24,2.0,2.0,2016-2017,/en/players/130a7a3f/Samu-Castillejo,130a7a3f,Villarreal,"2,050",22.8,2.0,0.0,51,1.0,2402,Villarreal
+,Mateo Musacchio,ar ARG,DF,23,23,2.0,0.0,2016-2017,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Villarreal,"2,065",22.9,6.0,0.0,51,5.0,2751,Villarreal
+,Jonathan dos Santos,mx MEX,MF,34,22,3.0,2.0,2016-2017,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Villarreal,"2,214",24.6,4.0,0.0,51,20.0,1134,Villarreal
+,Álvaro González,es ESP,DF,23,20,1.0,1.0,2016-2017,/en/players/42dcf26d/Alvaro-Gonzalez,42dcf26d,Villarreal,"1,887",21.0,7.0,0.0,51,1.0,2785,Villarreal
+,Cédric Bakambu,cd COD,FW,26,17,1.0,11.0,2016-2017,/en/players/0af4dcf0/Cedric-Bakambu,0af4dcf0,Villarreal,"1,567",17.4,5.0,0.0,51,50.0,2779,Villarreal
+,Andrés Fernández,es ESP,GK,15,14,0.0,0.0,2016-2017,/en/players/307fcd26/Andres-Fernandez,307fcd26,Villarreal,"1,316",14.6,2.0,0.0,51,1.0,2023,Villarreal
+,Alexandre Pato,br BRA,FW,14,11,1.0,2.0,2016-2017,/en/players/7dd83c7d/Alexandre-Pato,7dd83c7d,Villarreal,876,9.7,0.0,0.0,51,2.0,2786,Villarreal
+,Roberto Soldado,es ESP,FW,10,10,3.0,4.0,2016-2017,/en/players/9d66fbe3/Roberto-Soldado,9d66fbe3,Villarreal,737,8.2,8.0,0.0,51,1.0,46,Villarreal
+,Rodri,es ESP,MF,23,8,1.0,0.0,2016-2017,/en/players/6434f10d/Rodri,6434f10d,Villarreal,849,9.4,1.0,0.0,51,1.0,2248,Villarreal
+,Adrián López,es ESP,"FW,MF",15,7,1.0,2.0,2016-2017,/en/players/88a359d4/Adrian-Lopez,88a359d4,Villarreal,677,7.5,0.0,0.0,51,1.0,417,Villarreal
+,José Ángel,es ESP,DF,7,7,1.0,0.0,2016-2017,/en/players/3024e383/Jose-Angel,3024e383,Villarreal,630,7.0,2.0,0.0,51,1.0,291,Villarreal
+,Daniele Bonera,it ITA,DF,6,6,0.0,0.0,2016-2017,/en/players/13b0c150/Daniele-Bonera,13b0c150,Villarreal,540,6.0,2.0,0.0,51,9.0,2780,Villarreal
+,Antonio Rukavina,rs SRB,DF,4,3,0.0,0.0,2016-2017,/en/players/e12d7851/Antonio-Rukavina,12d7851,Villarreal,272,3.0,2.0,0.0,51,28.0,2590,Villarreal
+,Rafael Borré,co COL,FW,17,2,1.0,2.0,2016-2017,/en/players/c68da769/Rafael-Borre,c68da769,Villarreal,357,4.0,0.0,0.0,51,19.0,2787,Villarreal
+,Denis Cheryshev,ru RUS,MF,11,2,0.0,0.0,2016-2017,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Villarreal,340,3.8,1.0,0.0,51,23.0,137,Villarreal
+,Alfred N'Diaye,sn SEN,MF,7,1,1.0,0.0,2016-2017,/en/players/7789bf63/Alfred-NDiaye,7789bf63,Villarreal,115,1.3,1.0,0.0,51,34.0,1449,Villarreal
+,Mario González,es ESP,FW,2,0,0.0,0.0,2016-2017,/en/players/d189e48f/Mario-Gonzalez,d189e48f,Villarreal,24,0.3,0.0,0.0,51,1.0,2788,Villarreal
+,Leonardo Suárez,ar ARG,"FW,MF",3,0,0.0,0.0,2016-2017,/en/players/25c72b36/Leonardo-Suarez,25c72b36,Villarreal,18,0.2,0.0,0.0,51,5.0,1724,Villarreal
+,Aitor Cantalapiedra,es ESP,"FW,MF",1,0,0.0,0.0,2016-2017,/en/players/21a260a8/Aitor-Cantalapiedra,21a260a8,Villarreal,4,0.0,0.0,0.0,51,1.0,2789,Villarreal
+,Mariano Barbosa,ar ARG,GK,0,0,,,2016-2017,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Villarreal,,,,,51,5.0,1891,Villarreal
+,José Carlos Lazo,es ESP,MF,0,0,,,2016-2017,/en/players/5b93209a/Jose-Carlos-Lazo,5b93209a,Villarreal,,,,,51,1.0,139,Villarreal
+,Pablo Larrea,es ESP,MF,0,0,,,2016-2017,/en/players/a4c8810b/Pablo-Larrea,4c8810b,Villarreal,,,,,51,1.0,2790,Villarreal
+,Darío Poveda,es ESP,FW,0,0,,,2016-2017,/en/players/cbdf7d5c/Dario-Poveda,cbdf7d5c,Villarreal,,,,,51,1.0,2268,Villarreal
+,Dani Raba,es ESP,"FW,MF",0,0,,,2016-2017,/en/players/ea6a7ab4/Dani-Raba,6a7ab4,Villarreal,,,,,51,1.0,2791,Villarreal
+,﻿Rodri,es ESP,MF,37,36,3.0,1.0,2017-2018,/en/players/6434f10d/Rodri,6434f10d,Villarreal,"3,227",35.9,8.0,0.0,51,1.0,2248,Villarreal
+,Álvaro González,es ESP,DF,33,32,2.0,0.0,2017-2018,/en/players/42dcf26d/Alvaro-Gonzalez,42dcf26d,Villarreal,"2,898",32.2,14.0,1.0,51,1.0,2785,Villarreal
+,Manu Trigueros,es ESP,MF,34,32,4.0,3.0,2017-2018,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,698",30.0,10.0,1.0,51,1.0,2765,Villarreal
+,Mario Gaspar,es ESP,DF,32,31,3.0,2.0,2017-2018,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"2,806",31.2,6.0,0.0,51,1.0,2747,Villarreal
+,Pablo Fornals,es ESP,MF,35,30,12.0,3.0,2017-2018,/en/players/82927de4/Pablo-Fornals,82927de4,Villarreal,"2,620",29.1,4.0,0.0,51,1.0,2410,Villarreal
+,Carlos Bacca,co COL,FW,35,30,6.0,15.0,2017-2018,/en/players/09a9e921/Carlos-Bacca,09a9e921,Villarreal,"2,497",27.7,9.0,0.0,51,19.0,1874,Villarreal
+,Jaume Costa,es ESP,DF,30,29,0.0,0.0,2017-2018,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"2,536",28.2,14.0,1.0,51,1.0,1011,Villarreal
+,Víctor Ruiz,es ESP,DF,27,27,1.0,2.0,2017-2018,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Villarreal,"2,416",26.8,10.0,1.0,51,1.0,940,Villarreal
+,Samu Castillejo,es ESP,MF,30,25,5.0,6.0,2017-2018,/en/players/130a7a3f/Samu-Castillejo,130a7a3f,Villarreal,"2,074",23.0,4.0,0.0,51,1.0,2402,Villarreal
+,Sergio Asenjo,es ESP,GK,23,23,0.0,0.0,2017-2018,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"2,070",23.0,3.0,0.0,51,1.0,2186,Villarreal
+,Cédric Bakambu,cd COD,FW,15,15,0.0,9.0,2017-2018,/en/players/0af4dcf0/Cedric-Bakambu,0af4dcf0,Villarreal,"1,263",14.0,5.0,0.0,51,50.0,2779,Villarreal
+,Antonio Rukavina,rs SRB,DF,17,14,0.0,0.0,2017-2018,/en/players/e12d7851/Antonio-Rukavina,12d7851,Villarreal,"1,272",14.1,5.0,0.0,51,28.0,2590,Villarreal
+,Daniele Bonera,it ITA,DF,15,14,1.0,0.0,2017-2018,/en/players/13b0c150/Daniele-Bonera,13b0c150,Villarreal,"1,190",13.2,4.0,1.0,51,9.0,2780,Villarreal
+,Dani Raba,es ESP,"MF,FW",21,14,4.0,2.0,2017-2018,/en/players/ea6a7ab4/Dani-Raba,6a7ab4,Villarreal,"1,110",12.3,3.0,1.0,51,1.0,2791,Villarreal
+,Mariano Barbosa,ar ARG,GK,13,12,0.0,0.0,2017-2018,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Villarreal,"1,125",12.5,0.0,0.0,51,5.0,1891,Villarreal
+,Roberto Soriano,it ITA,MF,22,11,0.0,0.0,2017-2018,/en/players/9d4c45d6/Roberto-Soriano,9d4c45d6,Villarreal,"1,139",12.7,3.0,0.0,51,9.0,2783,Villarreal
+,Enes Ünal,tr TUR,FW,23,11,2.0,5.0,2017-2018,/en/players/f8eca1b6/Enes-Unal,f8eca1b6,Villarreal,"1,127",12.5,1.0,0.0,51,15.0,2659,Villarreal
+,Denis Cheryshev,ru RUS,"MF,FW",24,9,1.0,2.0,2017-2018,/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Villarreal,926,10.3,2.0,0.0,51,23.0,137,Villarreal
+,Javi Fuego,es ESP,MF,11,6,0.0,0.0,2017-2018,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Villarreal,537,6.0,2.0,0.0,51,1.0,949,Villarreal
+,Nicola Sansone,it ITA,"FW,MF",18,5,1.0,5.0,2017-2018,/en/players/7eb97a8e/Nicola-Sansone,7eb97a8e,Villarreal,635,7.1,1.0,0.0,51,9.0,2784,Villarreal
+,Rúben Semedo,pt POR,"DF,MF",4,3,0.0,0.0,2017-2018,/en/players/c904f3d5/Ruben-Semedo,c904f3d5,Villarreal,231,2.6,0.0,0.0,51,3.0,2792,Villarreal
+,Andrés Fernández,es ESP,GK,3,3,0.0,0.0,2017-2018,/en/players/307fcd26/Andres-Fernandez,307fcd26,Villarreal,225,2.5,0.0,0.0,51,1.0,2023,Villarreal
+,Adrián Marín,es ESP,DF,3,2,0.0,0.0,2017-2018,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Villarreal,233,2.6,1.0,0.0,51,1.0,2781,Villarreal
+,Roger Martínez,co COL,FW,8,2,0.0,1.0,2017-2018,/en/players/6f0d613a/Roger-Martinez,6f0d613a,Villarreal,230,2.6,1.0,0.0,51,19.0,2793,Villarreal
+,Alfred N'Diaye,sn SEN,"DF,MF",2,1,0.0,0.0,2017-2018,/en/players/7789bf63/Alfred-NDiaye,7789bf63,Villarreal,101,1.1,0.0,0.0,51,34.0,1449,Villarreal
+,Chuca,es ESP,MF,4,1,0.0,0.0,2017-2018,/en/players/c4af5889/Chuca,c4af5889,Villarreal,88,1.0,1.0,0.0,51,1.0,2794,Villarreal
+,Ramiro Guerra,uy URU,MF,4,0,0.0,0.0,2017-2018,/en/players/07a0baa9/Ramiro-Guerra,07a0baa9,Villarreal,71,0.8,1.0,0.0,51,8.0,2795,Villarreal
+,Pau Torres,es ESP,DF,2,0,0.0,0.0,2017-2018,/en/players/532e1e4f/Pau-Torres,532e1e4f,Villarreal,52,0.6,0.0,0.0,51,1.0,2443,Villarreal
+,Salem Al-Dawsari,sa KSA,MF,1,0,0.0,0.0,2017-2018,/en/players/60ee859c/Salem-Al-Dawsari,60ee859c,Villarreal,34,0.4,1.0,0.0,51,95.0,2796,Villarreal
+,Leonardo Suárez,ar ARG,MF,1,0,0.0,0.0,2017-2018,/en/players/25c72b36/Leonardo-Suarez,25c72b36,Villarreal,29,0.3,0.0,0.0,51,5.0,1724,Villarreal
+,Mario González,es ESP,FW,2,0,0.0,0.0,2017-2018,/en/players/d189e48f/Mario-Gonzalez,d189e48f,Villarreal,18,0.2,0.0,0.0,51,1.0,2788,Villarreal
+,Darío Poveda,es ESP,MF,1,0,0.0,0.0,2017-2018,/en/players/cbdf7d5c/Dario-Poveda,cbdf7d5c,Villarreal,2,0.0,0.0,0.0,51,1.0,2268,Villarreal
+,Ander Cantero,es ESP,GK,0,0,,,2017-2018,/en/players/de9bccf3/Ander-Cantero,de9bccf3,Villarreal,,,,,51,1.0,2797,Villarreal
+,Imanol García,es ESP,MF,0,0,,,2017-2018,/en/players/a90ed68c/Imanol-Garcia,90ed68c,Villarreal,,,,,51,1.0,2084,Villarreal
+,Manu Morlanes,es ESP,MF,0,0,,,2017-2018,/en/players/a0255c67/Manu-Morlanes,0255c67,Villarreal,,,,,51,1.0,2798,Villarreal
+,﻿Álvaro González,es ESP,DF,33,33,2.0,1.0,2018-2019,/en/players/42dcf26d/Alvaro-Gonzalez,42dcf26d,Villarreal,"2,964",32.9,17.0,2.0,51,1.0,2785,Villarreal
+,Sergio Asenjo,es ESP,GK,32,32,0.0,0.0,2018-2019,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"2,880",32.0,0.0,0.0,51,1.0,2186,Villarreal
+,Santi Cazorla,es ESP,MF,35,30,10.0,4.0,2018-2019,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"2,647",29.4,2.0,0.0,51,1.0,2377,Villarreal
+,Mario Gaspar,es ESP,DF,31,30,2.0,1.0,2018-2019,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"2,599",28.9,17.0,1.0,51,1.0,2747,Villarreal
+,Ramiro Funes Mori,ar ARG,"DF,MF",31,29,1.0,2.0,2018-2019,/en/players/89cbc961/Ramiro-Funes-Mori,89cbc961,Villarreal,"2,627",29.2,15.0,0.0,51,5.0,2799,Villarreal
+,Pablo Fornals,es ESP,"MF,FW",35,28,3.0,2.0,2018-2019,/en/players/82927de4/Pablo-Fornals,82927de4,Villarreal,"2,479",27.5,4.0,0.0,51,1.0,2410,Villarreal
+,Gerard Moreno,es ESP,FW,35,25,1.0,8.0,2018-2019,/en/players/81f0781e/Gerard-Moreno,81f0781e,Villarreal,"2,315",25.7,3.0,0.0,51,1.0,1650,Villarreal
+,Karl Toko Ekambi,cm CMR,"FW,MF",34,24,1.0,10.0,2018-2019,/en/players/5ceba7fc/Karl-Toko-Ekambi,5ceba7fc,Villarreal,"2,144",23.8,5.0,0.0,51,36.0,2800,Villarreal
+,Alfonso Pedraza,es ESP,"DF,MF",34,22,3.0,3.0,2018-2019,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Villarreal,"2,095",23.3,3.0,0.0,51,1.0,1520,Villarreal
+,Víctor Ruiz,es ESP,DF,22,22,0.0,0.0,2018-2019,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Villarreal,"1,975",21.9,10.0,0.0,51,1.0,940,Villarreal
+,Samuel Chukwueze,ng NGA,"MF,FW",26,19,2.0,5.0,2018-2019,/en/players/b8a642fc/Samuel-Chukwueze,b8a642fc,Villarreal,"1,706",19.0,2.0,0.0,51,52.0,2801,Villarreal
+,Vicente Iborra,es ESP,MF,19,19,1.0,3.0,2018-2019,/en/players/ad1ffcfd/Vicente-Iborra,d1ffcfd,Villarreal,"1,665",18.5,7.0,0.0,51,1.0,1876,Villarreal
+,Manu Trigueros,es ESP,MF,24,18,0.0,0.0,2018-2019,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"1,547",17.2,3.0,0.0,51,1.0,2765,Villarreal
+,Jaume Costa,es ESP,DF,21,18,0.0,1.0,2018-2019,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,"1,495",16.6,6.0,0.0,51,1.0,1011,Villarreal
+,Santiago Cáseres,ar ARG,MF,23,17,1.0,0.0,2018-2019,/en/players/958bba56/Santiago-Caseres,958bba56,Villarreal,"1,588",17.6,10.0,0.0,51,5.0,2802,Villarreal
+,Carlos Bacca,co COL,FW,33,12,1.0,6.0,2018-2019,/en/players/09a9e921/Carlos-Bacca,09a9e921,Villarreal,"1,270",14.1,3.0,0.0,51,19.0,1874,Villarreal
+,Xavi Quintillà,es ESP,DF,7,7,0.0,0.0,2018-2019,/en/players/84fb6aff/Xavi-Quintilla,84fb6aff,Villarreal,627,7.0,1.0,0.0,51,1.0,2803,Villarreal
+,Manu Morlanes,es ESP,MF,10,7,3.0,0.0,2018-2019,/en/players/a0255c67/Manu-Morlanes,0255c67,Villarreal,610,6.8,2.0,0.0,51,1.0,2798,Villarreal
+,Andrés Fernández,es ESP,GK,6,6,0.0,0.0,2018-2019,/en/players/307fcd26/Andres-Fernandez,307fcd26,Villarreal,540,6.0,2.0,0.0,51,1.0,2023,Villarreal
+,Miguel Juan Llambrich,es ESP,"DF,FW",8,5,0.0,0.0,2018-2019,/en/players/d83f09ff/Miguel-Juan-Llambrich,d83f09ff,Villarreal,544,6.0,1.0,0.0,51,1.0,2782,Villarreal
+,Miguel Layún,mx MEX,"MF,DF",8,5,1.0,0.0,2018-2019,/en/players/ad6295d4/Miguel-Layun,d6295d4,Villarreal,506,5.6,1.0,0.0,51,20.0,1924,Villarreal
+,Daniele Bonera,it ITA,DF,5,4,0.0,0.0,2018-2019,/en/players/13b0c150/Daniele-Bonera,13b0c150,Villarreal,230,2.6,1.0,0.0,51,9.0,2780,Villarreal
+,Javi Fuego,es ESP,MF,5,3,0.0,0.0,2018-2019,/en/players/2e8fc160/Javi-Fuego,2e8fc160,Villarreal,233,2.6,1.0,0.0,51,1.0,949,Villarreal
+,Dani Raba,es ESP,"MF,FW",8,2,1.0,0.0,2018-2019,/en/players/ea6a7ab4/Dani-Raba,6a7ab4,Villarreal,191,2.1,0.0,0.0,51,1.0,2791,Villarreal
+,Manuel Iturra,cl CHI,MF,3,1,0.0,0.0,2018-2019,/en/players/000b3da6/Manuel-Iturra,000b3da6,Villarreal,74,0.8,1.0,0.0,51,31.0,2382,Villarreal
+,Nicola Sansone,it ITA,"MF,DF",3,0,1.0,1.0,2018-2019,/en/players/7eb97a8e/Nicola-Sansone,7eb97a8e,Villarreal,37,0.4,1.0,0.0,51,9.0,2784,Villarreal
+,Mariano Barbosa,ar ARG,GK,0,0,,,2018-2019,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Villarreal,,,,,51,5.0,1891,Villarreal
+,José Castaño,es ESP,DF,0,0,,,2018-2019,/en/players/ac89d15c/Jose-Castano,c89d15c,Villarreal,,,,,51,1.0,2804,Villarreal
+,Iván Martín,es ESP,MF,0,0,,,2018-2019,/en/players/ae48c5cb/Ivan-Martin,48c5cb,Villarreal,,,,,51,1.0,2805,Villarreal
+,Andrei Ratiu,ro ROU,DF,0,0,,,2018-2019,/en/players/b1b99435/Andrei-Ratiu,b1b99435,Villarreal,,,,,51,51.0,2806,Villarreal
+,﻿Raúl Albiol,es ESP,DF,36,36,0.0,1.0,2019-2020,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Villarreal,"3,237",36.0,9.0,0.0,51,1.0,80,Villarreal
+,Sergio Asenjo,es ESP,GK,34,34,0.0,0.0,2019-2020,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"3,060",34.0,2.0,0.0,51,1.0,2186,Villarreal
+,Pau Torres,es ESP,DF,34,33,1.0,2.0,2019-2020,/en/players/532e1e4f/Pau-Torres,532e1e4f,Villarreal,"2,971",33.0,6.0,0.0,51,1.0,2443,Villarreal
+,Gerard Moreno,es ESP,"FW,MF",35,33,5.0,18.0,2019-2020,/en/players/81f0781e/Gerard-Moreno,81f0781e,Villarreal,"2,744",30.5,5.0,0.0,51,1.0,1650,Villarreal
+,Vicente Iborra,es ESP,MF,34,33,2.0,1.0,2019-2020,/en/players/ad1ffcfd/Vicente-Iborra,d1ffcfd,Villarreal,"2,648",29.4,10.0,1.0,51,1.0,1876,Villarreal
+,Santi Cazorla,es ESP,MF,35,29,9.0,11.0,2019-2020,/en/players/e2e9c250/Santi-Cazorla,2e9c250,Villarreal,"2,450",27.2,3.0,0.0,51,1.0,2377,Villarreal
+,Andre-Frank Zambo Anguissa,cm CMR,MF,36,28,0.0,2.0,2019-2020,/en/players/6bb2c084/Andre-Frank-Zambo-Anguissa,6bb2c084,Villarreal,"2,583",28.7,6.0,0.0,51,36.0,2807,Villarreal
+,Moi Gómez,es ESP,"MF,FW",37,26,4.0,5.0,2019-2020,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,"2,319",25.8,1.0,0.0,51,1.0,2761,Villarreal
+,Mario Gaspar,es ESP,DF,25,22,2.0,0.0,2019-2020,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"1,962",21.8,2.0,0.0,51,1.0,2747,Villarreal
+,Rubén Peña,es ESP,DF,26,21,2.0,2.0,2019-2020,/en/players/1f079188/Ruben-Pena,1f079188,Villarreal,"1,909",21.2,5.0,0.0,51,1.0,2808,Villarreal
+,Samuel Chukwueze,ng NGA,"MF,FW",37,20,2.0,3.0,2019-2020,/en/players/b8a642fc/Samuel-Chukwueze,b8a642fc,Villarreal,"2,048",22.8,2.0,0.0,51,52.0,2801,Villarreal
+,Xavi Quintillà,es ESP,DF,19,17,2.0,0.0,2019-2020,/en/players/84fb6aff/Xavi-Quintilla,84fb6aff,Villarreal,"1,573",17.5,6.0,0.0,51,1.0,2803,Villarreal
+,Manu Trigueros,es ESP,MF,29,17,4.0,2.0,2019-2020,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"1,547",17.2,6.0,0.0,51,1.0,2765,Villarreal
+,Alberto Moreno,es ESP,DF,18,17,0.0,0.0,2019-2020,/en/players/11b9265b/Alberto-Moreno,11b9265b,Villarreal,"1,471",16.3,6.0,0.0,51,1.0,1865,Villarreal
+,Karl Toko Ekambi,cm CMR,"FW,MF",18,11,2.0,6.0,2019-2020,/en/players/5ceba7fc/Karl-Toko-Ekambi,5ceba7fc,Villarreal,993,11.0,0.0,0.0,51,36.0,2800,Villarreal
+,Paco Alcácer,es ESP,FW,13,11,1.0,4.0,2019-2020,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Villarreal,924,10.3,1.0,0.0,51,1.0,944,Villarreal
+,Javier Ontiveros,es ESP,"MF,FW",30,7,1.0,2.0,2019-2020,/en/players/a83d8b0c/Javier-Ontiveros,83d8b0c,Villarreal,889,9.9,2.0,0.0,51,1.0,2118,Villarreal
+,Carlos Bacca,co COL,FW,19,7,1.0,2.0,2019-2020,/en/players/09a9e921/Carlos-Bacca,09a9e921,Villarreal,688,7.6,1.0,0.0,51,19.0,1874,Villarreal
+,Ramiro Funes Mori,ar ARG,DF,7,5,0.0,0.0,2019-2020,/en/players/89cbc961/Ramiro-Funes-Mori,89cbc961,Villarreal,453,5.0,1.0,0.0,51,5.0,2799,Villarreal
+,Andrés Fernández,es ESP,GK,4,4,1.0,0.0,2019-2020,/en/players/307fcd26/Andres-Fernandez,307fcd26,Villarreal,360,4.0,1.0,0.0,51,1.0,2023,Villarreal
+,Manu Morlanes,es ESP,MF,9,3,1.0,0.0,2019-2020,/en/players/a0255c67/Manu-Morlanes,0255c67,Villarreal,253,2.8,0.0,0.0,51,1.0,2798,Villarreal
+,Sofian Chakla,ma MAR,DF,2,2,0.0,0.0,2019-2020,/en/players/37f04799/Sofian-Chakla,37f04799,Villarreal,180,2.0,1.0,0.0,51,26.0,2809,Villarreal
+,Bruno Soriano,es ESP,MF,7,1,0.0,0.0,2019-2020,/en/players/09332647/Bruno-Soriano,09332647,Villarreal,263,2.9,1.0,0.0,51,1.0,2741,Villarreal
+,Fernando Niño,es ESP,FW,5,1,0.0,1.0,2019-2020,/en/players/81d5c497/Fernando-Nino,81d5c497,Villarreal,83,0.9,1.0,0.0,51,1.0,1766,Villarreal
+,Alex Baena,es ESP,MF,1,0,0.0,0.0,2019-2020,/en/players/518f2234/Alex-Baena,518f2234,Villarreal,15,0.2,0.0,0.0,51,1.0,2810,Villarreal
+,Santiago Cáseres,ar ARG,MF,0,0,,,2019-2020,/en/players/958bba56/Santiago-Caseres,958bba56,Villarreal,,,,,51,5.0,2802,Villarreal
+,Sergio Lozano,es ESP,MF,0,0,,,2019-2020,/en/players/3dfc70ed/Sergio-Lozano,3dfc70ed,Villarreal,,,,,51,1.0,2811,Villarreal
+,Iván Martín,es ESP,MF,0,0,,,2019-2020,/en/players/ae48c5cb/Ivan-Martin,48c5cb,Villarreal,,,,,51,1.0,2805,Villarreal
+,Miguel,es ESP,DF,0,0,,,2019-2020,/en/players/7aa10402/Miguel,7aa10402,Villarreal,,,,,51,1.0,2812,Villarreal
+,Antonio Pacheco,es ESP,MF,0,0,,,2019-2020,/en/players/fdbe95bc/Antonio-Pacheco,fdbe95bc,Villarreal,,,,,51,1.0,2813,Villarreal
+,Andrei Ratiu,ro ROU,DF,0,0,,,2019-2020,/en/players/b1b99435/Andrei-Ratiu,b1b99435,Villarreal,,,,,51,51.0,2806,Villarreal
+,﻿Sergio Asenjo,es ESP,GK,36,36,0.0,0.0,2020-2021,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,"3,240",36.0,2.0,0.0,51,1.0,2186,Villarreal
+,Daniel Parejo,es ESP,MF,36,36,5.0,3.0,2020-2021,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Villarreal,"3,112",34.6,4.0,0.0,51,1.0,75,Villarreal
+,Raúl Albiol,es ESP,DF,35,35,0.0,0.0,2020-2021,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Villarreal,"3,115",34.6,7.0,0.0,51,1.0,80,Villarreal
+,Pau Torres,es ESP,DF,33,33,2.0,2.0,2020-2021,/en/players/532e1e4f/Pau-Torres,532e1e4f,Villarreal,"2,970",33.0,2.0,0.0,51,1.0,2443,Villarreal
+,Gerard Moreno,es ESP,FW,33,30,7.0,23.0,2020-2021,/en/players/81f0781e/Gerard-Moreno,81f0781e,Villarreal,"2,673",29.7,3.0,0.0,51,1.0,1650,Villarreal
+,Manu Trigueros,es ESP,MF,35,30,6.0,1.0,2020-2021,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,527",28.1,6.0,1.0,51,1.0,2765,Villarreal
+,Moi Gómez,es ESP,"MF,FW",35,29,0.0,4.0,2020-2021,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,"2,563",28.5,1.0,0.0,51,1.0,2761,Villarreal
+,Alfonso Pedraza,es ESP,DF,29,24,2.0,1.0,2020-2021,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Villarreal,"2,093",23.3,8.0,0.0,51,1.0,1520,Villarreal
+,Mario Gaspar,es ESP,DF,24,21,2.0,0.0,2020-2021,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,"1,851",20.6,3.0,1.0,51,1.0,2747,Villarreal
+,Paco Alcácer,es ESP,FW,27,19,4.0,6.0,2020-2021,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Villarreal,"1,544",17.2,0.0,0.0,51,1.0,944,Villarreal
+,Étienne Capoue,fr FRA,MF,16,15,0.0,1.0,2020-2021,/en/players/5acc4a10/Etienne-Capoue,5acc4a10,Villarreal,"1,185",13.2,5.0,1.0,51,4.0,2821,Villarreal
+,Samuel Chukwueze,ng NGA,"MF,FW",28,13,2.0,4.0,2020-2021,/en/players/b8a642fc/Samuel-Chukwueze,b8a642fc,Villarreal,"1,365",15.2,0.0,0.0,51,52.0,2801,Villarreal
+,Juan Foyth,ar ARG,"DF,MF",16,13,0.0,0.0,2020-2021,/en/players/6c7762c3/Juan-Foyth,6c7762c3,Villarreal,"1,168",13.0,6.0,0.0,51,5.0,2814,Villarreal
+,Pervis Estupiñán,ec ECU,DF,25,12,0.0,0.0,2020-2021,/en/players/d38fdf53/Pervis-Estupinan,d38fdf53,Villarreal,"1,168",13.0,1.0,0.0,51,61.0,1721,Villarreal
+,Rubén Peña,es ESP,DF,19,12,1.0,1.0,2020-2021,/en/players/1f079188/Ruben-Pena,1f079188,Villarreal,"1,116",12.4,1.0,0.0,51,1.0,2808,Villarreal
+,Vicente Iborra,es ESP,MF,13,10,0.0,0.0,2020-2021,/en/players/ad1ffcfd/Vicente-Iborra,d1ffcfd,Villarreal,928,10.3,4.0,0.0,51,1.0,1876,Villarreal
+,Carlos Bacca,co COL,FW,23,9,0.0,5.0,2020-2021,/en/players/09a9e921/Carlos-Bacca,09a9e921,Villarreal,786,8.7,1.0,0.0,51,19.0,1874,Villarreal
+,Ramiro Funes Mori,ar ARG,DF,10,8,0.0,0.0,2020-2021,/en/players/89cbc961/Ramiro-Funes-Mori,89cbc961,Villarreal,727,8.1,1.0,0.0,51,5.0,2799,Villarreal
+,Fernando Niño,es ESP,FW,17,8,0.0,3.0,2020-2021,/en/players/81d5c497/Fernando-Nino,81d5c497,Villarreal,593,6.6,1.0,0.0,51,1.0,1766,Villarreal
+,Francis Coquelin,fr FRA,MF,22,7,0.0,0.0,2020-2021,/en/players/a6951bf8/Francis-Coquelin,6951bf8,Villarreal,736,8.2,4.0,0.0,51,4.0,995,Villarreal
+,Yeremi Pino,es ESP,"MF,FW",24,6,1.0,3.0,2020-2021,/en/players/540ec57b/Yeremi-Pino,540ec57b,Villarreal,797,8.9,4.0,0.0,51,1.0,2815,Villarreal
+,Jaume Costa,es ESP,"DF,MF",14,3,1.0,0.0,2020-2021,/en/players/808d48f3/Jaume-Costa,808d48f3,Villarreal,351,3.9,1.0,0.0,51,1.0,1011,Villarreal
+,Takefusa Kubo,jp JPN,"MF,FW",13,2,0.0,0.0,2020-2021,/en/players/16aa3654/Takefusa-Kubo,16aa3654,Villarreal,299,3.3,2.0,1.0,51,54.0,1734,Villarreal
+,Alberto Moreno,es ESP,DF,5,2,0.0,0.0,2020-2021,/en/players/11b9265b/Alberto-Moreno,11b9265b,Villarreal,193,2.1,0.0,0.0,51,1.0,1865,Villarreal
+,Gerónimo Rulli,ar ARG,GK,2,2,0.0,0.0,2020-2021,/en/players/625c144a/Geronimo-Rulli,625c144a,Villarreal,180,2.0,0.0,1.0,51,5.0,297,Villarreal
+,Alex Baena,es ESP,MF,6,2,0.0,0.0,2020-2021,/en/players/518f2234/Alex-Baena,518f2234,Villarreal,137,1.5,0.0,0.0,51,1.0,2810,Villarreal
+,Dani Raba,es ESP,"MF,FW",5,1,0.0,0.0,2020-2021,/en/players/ea6a7ab4/Dani-Raba,6a7ab4,Villarreal,150,1.7,0.0,0.0,51,1.0,2791,Villarreal
+,Sofian Chakla,ma MAR,DF,1,0,0.0,0.0,2020-2021,/en/players/37f04799/Sofian-Chakla,37f04799,Villarreal,13,0.1,0.0,0.0,51,26.0,2809,Villarreal
+,Álex Millán,es ESP,FW,1,0,0.0,0.0,2020-2021,/en/players/29ad0dd4/Alex-Millan,29ad0dd4,Villarreal,2,0.0,0.0,0.0,51,1.0,2816,Villarreal
+,Iker Álvarez,ad AND,GK,0,0,,,2020-2021,/en/players/13619663/Iker-Alvarez,13619663,Villarreal,,,,,51,96.0,2817,Villarreal
+,José Cabrera,es ESP,DF,0,0,,,2020-2021,/en/players/13b618ce/Jose-Cabrera,13b618ce,Villarreal,,,,,51,1.0,2818,Villarreal
+,Carlo,es ESP,MF,0,0,,,2020-2021,/en/players/8249ff06/Carlo,8249ff06,Villarreal,,,,,51,1.0,2819,Villarreal
+,Filip Jörgensen,dk DEN,GK,0,0,,,2020-2021,/en/players/0107757e/Filip-Jorgensen,0107757e,Villarreal,,,,,51,7.0,2820,Villarreal
+,Sergio Lozano,es ESP,MF,0,0,,,2020-2021,/en/players/3dfc70ed/Sergio-Lozano,3dfc70ed,Villarreal,,,,,51,1.0,2811,Villarreal
+,Javier Ontiveros,es ESP,MF,0,0,,,2020-2021,/en/players/a83d8b0c/Javier-Ontiveros,83d8b0c,Villarreal,,,,,51,1.0,2118,Villarreal
+,Andrei Ratiu,ro ROU,DF,0,0,,,2020-2021,/en/players/b1b99435/Andrei-Ratiu,b1b99435,Villarreal,,,,,51,51.0,2806,Villarreal
+,﻿Pau Torres,es ESP,DF,33,33,1.0,5.0,2021-2022,/en/players/532e1e4f/Pau-Torres,532e1e4f,Villarreal,"2,855",31.7,5.0,0.0,51,1.0,2443,Villarreal
+,Gerónimo Rulli,ar ARG,GK,32,32,0.0,0.0,2021-2022,/en/players/625c144a/Geronimo-Rulli,625c144a,Villarreal,"2,880",32.0,2.0,0.0,51,5.0,297,Villarreal
+,Daniel Parejo,es ESP,MF,33,32,10.0,2.0,2021-2022,/en/players/7460ca0d/Daniel-Parejo,7460ca0d,Villarreal,"2,704",30.0,3.0,0.0,51,1.0,75,Villarreal
+,Raúl Albiol,es ESP,DF,28,28,0.0,0.0,2021-2022,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Villarreal,"2,465",27.4,8.0,0.0,51,1.0,80,Villarreal
+,Manu Trigueros,es ESP,"MF,FW",35,27,4.0,6.0,2021-2022,/en/players/963829d0/Manu-Trigueros,963829d0,Villarreal,"2,178",24.2,3.0,0.0,51,1.0,2765,Villarreal
+,Étienne Capoue,fr FRA,MF,30,26,1.0,1.0,2021-2022,/en/players/5acc4a10/Etienne-Capoue,5acc4a10,Villarreal,"2,290",25.4,9.0,0.0,51,4.0,2821,Villarreal
+,Juan Foyth,ar ARG,DF,25,22,1.0,1.0,2021-2022,/en/players/6c7762c3/Juan-Foyth,6c7762c3,Villarreal,"1,924",21.4,6.0,1.0,51,5.0,2814,Villarreal
+,Yeremi Pino,es ESP,"MF,FW",31,21,4.0,6.0,2021-2022,/en/players/540ec57b/Yeremi-Pino,540ec57b,Villarreal,"1,678",18.6,2.0,0.0,51,1.0,2815,Villarreal
+,Alfonso Pedraza,es ESP,DF,28,19,4.0,4.0,2021-2022,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Villarreal,"1,701",18.9,2.0,0.0,51,1.0,1520,Villarreal
+,Pervis Estupiñán,ec ECU,DF,28,17,1.0,0.0,2021-2022,/en/players/d38fdf53/Pervis-Estupinan,d38fdf53,Villarreal,"1,575",17.5,3.0,0.0,51,61.0,1721,Villarreal
+,Arnaut Groeneveld,nl NED,FW,23,17,3.0,10.0,2021-2022,/en/players/f08490a6/Arnaut-Groeneveld,f08490a6,Villarreal,"1,472",16.4,1.0,0.0,51,11.0,2822,Villarreal
+,Aïssa Mandi,dz ALG,DF,17,14,0.0,1.0,2021-2022,/en/players/fbd6378b/Aissa-Mandi,fbd6378b,Villarreal,"1,375",15.3,3.0,0.0,51,37.0,1486,Villarreal
+,Gerard Moreno,es ESP,FW,17,14,3.0,9.0,2021-2022,/en/players/81f0781e/Gerard-Moreno,81f0781e,Villarreal,"1,191",13.2,2.0,0.0,51,1.0,1650,Villarreal
+,Moi Gómez,es ESP,"MF,FW",29,13,2.0,2.0,2021-2022,/en/players/5a626448/Moi-Gomez,5a626448,Villarreal,"1,286",14.3,2.0,0.0,51,1.0,2761,Villarreal
+,Boulaye Dia,sn SEN,FW,25,13,5.0,5.0,2021-2022,/en/players/244bc2c8/Boulaye-Dia,244bc2c8,Villarreal,"1,269",14.1,3.0,0.0,51,34.0,2823,Villarreal
+,Alberto Moreno,es ESP,"MF,DF",24,13,2.0,3.0,2021-2022,/en/players/11b9265b/Alberto-Moreno,11b9265b,Villarreal,"1,223",13.6,3.0,0.0,51,1.0,1865,Villarreal
+,Samuel Chukwueze,ng NGA,MF,27,12,3.0,3.0,2021-2022,/en/players/b8a642fc/Samuel-Chukwueze,b8a642fc,Villarreal,"1,333",14.8,4.0,0.0,51,52.0,2801,Villarreal
+,Vicente Iborra,es ESP,MF,20,12,1.0,0.0,2021-2022,/en/players/ad1ffcfd/Vicente-Iborra,d1ffcfd,Villarreal,"1,034",11.5,4.0,0.0,51,1.0,1876,Villarreal
+,Giovani Lo Celso,ar ARG,"FW,MF",16,11,1.0,1.0,2021-2022,/en/players/d7553721/Giovani-Lo-Celso,d7553721,Villarreal,994,11.0,3.0,0.0,51,5.0,1508,Villarreal
+,Serge Aurier,ci CIV,DF,19,10,1.0,0.0,2021-2022,/en/players/5c2b4f07/Serge-Aurier,5c2b4f07,Villarreal,"1,010",11.2,4.0,0.0,51,35.0,2824,Villarreal
+,Paco Alcácer,es ESP,FW,18,10,3.0,1.0,2021-2022,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Villarreal,787,8.7,1.0,0.0,51,1.0,944,Villarreal
+,Francis Coquelin,fr FRA,MF,20,8,1.0,2.0,2021-2022,/en/players/a6951bf8/Francis-Coquelin,6951bf8,Villarreal,830,9.2,3.0,0.0,51,4.0,995,Villarreal
+,Mario Gaspar,es ESP,DF,12,7,0.0,0.0,2021-2022,/en/players/fb5d47b3/Mario-Gaspar,fb5d47b3,Villarreal,623,6.9,1.0,0.0,51,1.0,2747,Villarreal
+,Sergio Asenjo,es ESP,GK,6,6,0.0,0.0,2021-2022,/en/players/9f0ea33f/Sergio-Asenjo,9f0ea33f,Villarreal,540,6.0,1.0,0.0,51,1.0,2186,Villarreal
+,Rubén Peña,es ESP,"MF,DF",7,1,0.0,0.0,2021-2022,/en/players/1f079188/Ruben-Pena,1f079188,Villarreal,132,1.5,1.0,0.0,51,1.0,2808,Villarreal
+,Nicolas Jackson,sn SEN,"FW,MF",9,0,0.0,0.0,2021-2022,/en/players/9c36ed83/Nicolas-Jackson,9c36ed83,Villarreal,165,1.8,1.0,0.0,51,34.0,2825,Villarreal
+,Dani Raba,es ESP,"MF,FW",7,0,0.0,0.0,2021-2022,/en/players/ea6a7ab4/Dani-Raba,6a7ab4,Villarreal,89,1.0,1.0,0.0,51,1.0,2791,Villarreal
+,Carlo,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/8249ff06/Carlo,8249ff06,Villarreal,7,0.1,0.0,0.0,51,1.0,2819,Villarreal
+,Nikita Iosifov,ru RUS,MF,1,0,0.0,0.0,2021-2022,/en/players/4c2fa917/Nikita-Iosifov,4c2fa917,Villarreal,1,0.0,0.0,0.0,51,23.0,2826,Villarreal
+,Iker Álvarez,ad AND,GK,0,0,,,2021-2022,/en/players/13619663/Iker-Alvarez,13619663,Villarreal,,,,,51,96.0,2817,Villarreal
+,Arana,es ESP,FW,0,0,,,2021-2022,/en/players/94021206/Arana,94021206,Villarreal,,,,,51,1.0,2827,Villarreal
+,José Cabrera,es ESP,DF,0,0,,,2021-2022,/en/players/13b618ce/Jose-Cabrera,13b618ce,Villarreal,,,,,51,1.0,2818,Villarreal
+,Jorge Cuenca,es ESP,DF,0,0,,,2021-2022,/en/players/0abc51f2/Jorge-Cuenca,0abc51f2,Villarreal,,,,,51,1.0,2828,Villarreal
+,Filip Jörgensen,dk DEN,GK,0,0,,,2021-2022,/en/players/0107757e/Filip-Jorgensen,0107757e,Villarreal,,,,,51,7.0,2820,Villarreal
+,Adrián de la Fuente,es ESP,DF,0,0,,,2021-2022,/en/players/5932c94a/Adrian-de-la-Fuente,5932c94a,Villarreal,,,,,51,1.0,90029,Villarreal
+,Antonio Pacheco,es ESP,MF,0,0,,,2021-2022,/en/players/fdbe95bc/Antonio-Pacheco,fdbe95bc,Villarreal,,,,,51,1.0,2813,Villarreal

@@ -1,124 +1,234 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-3882.0,﻿Andreas Reinke,/en/players/e0adfb87/Andreas-Reinke,Andreas-Reink,0adfb87,de GER,GK,Real-Murcia
-3883.0,Tito,/en/players/8f451bf9/Tito,Tito,8f451bf9,es ESP,MF,Real-Murcia
-3884.0,José Acciari,/en/players/9e98922b/Jose-Acciari,Jose-Acciari,9e98922b,ar ARG,MF,Real-Murcia
-3885.0,Juanma,/en/players/f3b5db81/Juanma,Juanm,f3b5db81,es ESP,DF,Real-Murcia
-3886.0,David Karanka,/en/players/8e19b9f6/David-Karanka,David-Karank,8e19b9f6,es ESP,FW,Real-Murcia
-3887.0,Pedro Largo Carazo,/en/players/373dc94c/Pedro-Largo-Carazo,Pedro-Largo-Carazo,373dc94c,es ESP,DF,Real-Murcia
-3888.0,Richi,/en/players/90517f8a/Richi,Richi,90517f8a,es ESP,"FW,MF",Real-Murcia
-3889.0,Mikel Lasa,/en/players/63140312/Mikel-Lasa,Mikel-L,63140312,es ESP,DF,Real-Murcia
-3890.0,José Luis Loreto,/en/players/7619d928/Jose-Luis-Loreto,Jose-Luis-Loreto,7619d928,es ESP,FW,Real-Murcia
-3891.0,Josep Setvalls,/en/players/18c53e9e/Josep-Setvalls,Josep-Setv,18c53e9e,es ESP,MF,Real-Murcia
-3892.0,Ricardo Carrero,/en/players/38c23b0a/Ricardo-Carrero,Ricardo-Carrero,38c23b0a,es ESP,DF,Real-Murcia
-3893.0,Jaime Ramos,/en/players/0efbd49c/Jaime-Ramos,Jaime-Ramo,0efbd49c,es ESP,MF,Real-Murcia
-3894.0,Diego Quintana,/en/players/2b79305d/Diego-Quintana,Diego-Quint,2b79305d,ar ARG,MF,Real-Murcia
-3895.0,Rodri,/en/players/329b7718/Rodri,Rodri,329b7718,es ESP,MF,Real-Murcia
-3896.0,Daniel Jensen,/en/players/ded677a5/Daniel-Jensen,Daniel-J,ded677a5,dk DEN,MF,Real-Murcia
-3897.0,Gabriel Loeschbor,/en/players/9702bece/Gabriel-Loeschbor,Gabriel-Loeschbo,9702bece,ar ARG,DF,Real-Murcia
-3898.0,Iván Hurtado,/en/players/d87fdfd3/Ivan-Hurtado,Ivan-Hurtado,d87fdfd3,ec ECU,DF,Real-Murcia
-3899.0,Juan Esnáider,/en/players/a9bdc347/Juan-Esnaider,Juan-Esnaid,9bdc347,ar ARG,FW,Real-Murcia
-3900.0,Javier Sánchez Broto,/en/players/9157113d/Javier-Sanchez-Broto,Javier-Sanchez-Broto,9157113d,es ESP,GK,Real-Murcia
-3901.0,Federico Azcárate,/en/players/4256b651/Federico-Azcarate,Federico-Azcarat,4256b651,ar ARG,DF,Real-Murcia
-3902.0,Carlos Alberto Juárez,/en/players/e4fbb8f8/Carlos-Alberto-Juarez,Carlos-Alberto-Juarez,4fbb8f8,ec ECU,FW,Real-Murcia
-3903.0,Sebastián Carrera,/en/players/e25cf2eb/Sebastian-Carrera,Sebastian-C,25cf2eb,ar ARG,MF,Real-Murcia
-3904.0,Jon Urzelai,/en/players/6366a43c/Jon-Urzelai,Jon-Urzelai,6366a43c,es ESP,DF,Real-Murcia
-3905.0,Nicolás Medina,/en/players/aeada259/Nicolas-Medina,Nicolas-Medi,da259,ar ARG,MF,Real-Murcia
-3906.0,Juan Carlos Olave,/en/players/40abdd6d/Juan-Carlos-Olave,Juan-Carlos-Olav,40abdd6d,ar ARG,GK,Real-Murcia
-3907.0,José María,/en/players/e5278a22/Jose-Maria,Jose-Mari,5278a22,es ESP,MF,Real-Murcia
-3908.0,Mariano Fernández,/en/players/96c1093b/Mariano-Fernandez,Mariano-Fernandez,96c1093b,ar ARG,DF,Real-Murcia
-3909.0,Samuel Baños,/en/players/f3ce81bd/Samuel-Banos,Samuel-Bano,f3ce81bd,es ESP,MF,Real-Murcia
-3910.0,Sebastián Corona,/en/players/d2aedc78/Sebastian-Corona,Sebastian-Coro,d2aedc78,es ESP,DF,Real-Murcia
-3911.0,Markus Kreuz,/en/players/abf5cf2c/Markus-Kreuz,Markus-Kreuz,bf5cf2c,de GER,MF,Real-Murcia
-3912.0,Juan Manuel Salgueiro,/en/players/91f3803e/Juan-Manuel-Salgueiro,Juan-Manuel-Salgueiro,91f3803e,uy URU,FW,Real-Murcia
-3913.0,Kostas Chalkias,/en/players/8c36086c/Kostas-Chalkias,Kostas-Chalki,8c36086c,gr GRE,GK,Real-Murcia
-3914.0,Aureliano Torres,/en/players/228ecb72/Aureliano-Torres,Aureliano-To,228ecb72,py PAR,"DF,MF",Real-Murcia
-3915.0,Adrián Martín,/en/players/53eabc97/Adrian-Martin,Adrian-Marti,53eabc97,es ESP,MF,Real-Murcia
-3916.0,Gifton Noel-Williams,/en/players/27f28090/Gifton-Noel-Williams,Gifton-Noel-William,27f28090,eng ENG,FW,Real-Murcia
-3917.0,Emerson,/en/players/fef3b251/Emerson,Emerso,fef3b251,br BRA,"FW,MF",Real-Murcia
-3918.0,David de Coz,/en/players/bf33fc94/David-de-Coz,David-de-Coz,bf33fc94,es ESP,DF,Real-Murcia
-3919.0,Abel Gómez Moreno,/en/players/b09801d8/Abel-Gomez-Moreno,Abel-Gomez-Moreno,b09801d8,es ESP,MF,Real-Murcia
-3920.0,Fabián Carini,/en/players/d1c6cd3b/Fabian-Carini,Fabian-Carini,d1c6cd3b,uy URU,GK,Real-Murcia
-3921.0,Rosinei,/en/players/46a45b96/Rosinei,Rosinei,46a45b96,br BRA,MF,Real-Murcia
-3922.0,Juan Pedro Pina,/en/players/c2fd2d1c/Juan-Pedro-Pina,Juan-Pedro-Pi,c2fd2d1c,es ESP,DF,Real-Murcia
-3923.0,Francisco Ibáñez,/en/players/8743a346/Francisco-Ibanez,Francisco-Ibanez,8743a346,cl CHI,FW,Real-Murcia
-3924.0,Marcinho Guerreiro,/en/players/4d87912d/Marcinho-Guerreiro,Marcinho-Guerreiro,4d87912d,br BRA,MF,Real-Murcia
-3925.0,Boubacar Dialiba,/en/players/e63af7ba/Boubacar-Dialiba,Boubacar-Dialib,63af7ba,sn SEN,"FW,MF",Real-Murcia
-3926.0,Adrian Sikora,/en/players/0a7ccf91/Adrian-Sikora,Adrian-Siko,0a7ccf91,pl POL,FW,Real-Murcia
-3927.0,Béla Balogh,/en/players/cbde47e4/Bela-Balogh,Bela-Balogh,cbde47e4,hu HUN,DF,Real-Murcia
-3928.0,Iván Malón,/en/players/c568d934/Ivan-Malon,Ivan-Malo,c568d934,es ESP,DF,Real-Murcia
-3929.0,Abderrahman Kabous,/en/players/f2ff6097/Abderrahman-Kabous,Abderrahman-Kabou,f2ff6097,ma MAR,MF,Real-Murcia
-3930.0,Pico,/en/players/2845148b/Pico,Pico,2845148b,es ESP,FW,Real-Murcia
-3931.0,Matías Alonso,/en/players/2f83d9b2/Matias-Alonso,Matias-Alonso,2f83d9b2,uy URU,FW,Real-Murcia
-3932.0,﻿Sergio Fernández,/en/players/db150f07/Sergio-Fernandez,Sergio-Fernandez,db150f07,es ESP,DF,Real-Murcia
-3933.0,Natalio,/en/players/239425b9/Natalio,Natalio,239425b9,es ESP,FW,Real-Murcia
-3934.0,Chando,/en/players/b43a5636/Chando,Chando,b43a5636,es ESP,FW,Real-Murcia
-3935.0,Isaac Jové Rubí,/en/players/d6e1904b/Isaac-Jove-Rubi,Isaac-Jove-Rubi,d6e1904b,es ESP,MF,Real-Murcia
-3936.0,Alberto Cifuentes,/en/players/94084f83/Alberto-Cifuentes,Alberto-Cifuent,94084f83,es ESP,GK,Real-Murcia
-3937.0,Mario Rosas,/en/players/81718397/Mario-Rosas,Mario-Ro,81718397,es ESP,MF,Real-Murcia
-3938.0,Juan Aguilera,/en/players/18dc8533/Juan-Aguilera,Juan-Agui,18dc8533,es ESP,MF,Real-Murcia
-3939.0,Jorge García,/en/players/d1bd08ef/Jorge-Garcia,Jorge-Garci,d1bd08ef,es ESP,DF,Real-Murcia
-3940.0,Cristian García,/en/players/2e33112b/Cristian-Garcia,Cristian-Garci,2e33112b,ar ARG,FW,Real-Murcia
-3941.0,Galder Cerrajería,/en/players/7a6d5441/Galder-Cerrajeria,Galder-Cerrajeri,7a6d5441,es ESP,MF,Real-Murcia
-3942.0,Rubén Párraga,/en/players/c8a5798c/Ruben-Parraga,Ruben-Parrag,c8a5798c,es ESP,DF,Real-Murcia
-3943.0,Pablo Vivancos,/en/players/319a9468/Pablo-Vivancos,Pablo-Vivanco,319a9468,ar ARG,MF,Real-Murcia
-3944.0,Samuel Lopes,/en/players/737b21c7/Samuel-Lopes,Samuel-Lo,737b21c7,br BRA,FW,Real-Murcia
-3945.0,Miguel Marín,/en/players/996a2ca9/Miguel-Marin,Miguel-Mari,996a2ca9,es ESP,DF,Real-Murcia
-3946.0,Mauro dos Santos,/en/players/ec699fdd/Mauro-dos-Santos,Mauro-dos-Santo,c699fdd,ar ARG,DF,Real-Murcia
-3947.0,Nicolás Tagliafico,/en/players/f0661424/Nicolas-Tagliafico,Nicolas-Tagliafico,f0661424,ar ARG,DF,Real-Murcia
-3948.0,Nicolás Martínez,/en/players/28baf8f6/Nicolas-Martinez,Nicolas-Martinez,28baf8f6,ar ARG,MF,Real-Murcia
-3949.0,Saúl Berjón,/en/players/59e3e14b/Saul-Berjon,Saul-Berjo,59e3e14b,es ESP,"FW,MF",Real-Murcia
-3950.0,Jonathan Gómez,/en/players/3f8ad2cb/Jonathan-Gomez,Jonathan-Gomez,3f8ad2cb,py PAR,MF,Real-Murcia
-3951.0,Miguel Guirao,/en/players/b73df801/Miguel-Guirao,Miguel-Guirao,b73df801,es ESP,FW,Real-Murcia
-3952.0,Higinio Marín,/en/players/61db425b/Higinio-Marin,Higinio-Mari,61db425b,es ESP,FW,Real-Murcia
-3953.0,Tete,/en/players/d2131e09/Tete,Tet,d2131e09,es ESP,"FW,MF",Real-Murcia
-3954.0,Wellington Silva,/en/players/5c60f49c/Wellington-Silva,Wellington-Silv,5c60f49c,br BRA,"FW,MF",Real-Murcia
-3955.0,Pedro Alcalá,/en/players/ba71d071/Pedro-Alcala,Pedro-Alc,ba71d071,es ESP,DF,Real-Murcia
-3956.0,Fernando,/en/players/dabb2827/Fernando,Fernando,dabb2827,es ESP,GK,Real-Murcia
-3957.0,José Ángel Carrillo,/en/players/7beb6364/Jose-Angel-Carrillo,Jose-Angel-Carrillo,7beb6364,es ESP,FW,Real-Murcia
-3958.0,Jairo Izquierdo,/en/players/2ceb58ab/Jairo-Izquierdo,Jairo-Izquierdo,2ceb58ab,es ESP,"DF,MF",Real-Murcia
-3959.0,Álvaro Marín,/en/players/4292ffaa/Alvaro-Marin,Alvaro-Mari,4292ffaa,es ESP,DF,Real-Murcia
-3960.0,Víctor Ruiz,/en/players/8af6e943/Victor-Ruiz,Victor-Ruiz,8af6e943,eng ENG,GK,Real-Murcia
-3961.0,Javier Saura Ruiz,/en/players/e55716b0/Javier-Saura-Ruiz,Javier-Saura-Ruiz,55716b0,es ESP,MF,Real-Murcia
-3962.0,Gerard Oliva,/en/players/0d01d201/Gerard-Oliva,Gerard-Oliv,0d01d201,es ESP,FW,Real-Murcia
-3963.0,Xavier Marqués Gómez,/en/players/a98b75fc/Xavier-Marques-Gomez,Xavier-Marques-Gomez,98b75fc,es ESP,MF,Real-Murcia
-3964.0,Javi Muñoz,/en/players/0cb79cb2/Javi-Munoz,Javi-Munoz,0cb79cb2,es ESP,FW,Real-Murcia
-3965.0,Jaume Sobregrau,/en/players/93397184/Jaume-Sobregrau,Jaume-Sobregrau,93397184,es ESP,DF,Real-Murcia
-3966.0,Arturo Molina,/en/players/14a82e0e/Arturo-Molina,Arturo-Moli,14a82e0e,es ESP,MF,Real-Murcia
-3967.0,﻿José Miguel Ruiz del Amo,/en/players/41217d36/Jose-Miguel-Ruiz-del-Amo,Jose-Miguel-Ruiz-del-Amo,41217d36,es ESP,DF,Real-Murcia
-3968.0,Sergio García Salmón,/en/players/33147a09/Sergio-Garcia-Salmon,Sergio-Garcia-Salmo,33147a09,es ESP,MF,Real-Murcia
-3969.0,Sergi Guilló,/en/players/55ff8f7f/Sergi-Guillo,Sergi-Guillo,55ff8f7f,es ESP,MF,Real-Murcia
-3970.0,Jordi Hostench Casanova,/en/players/f907d180/Jordi-Hostench-Casanova,Jordi-Hostench-Casanov,f907d180,es ESP,DF,Real-Murcia
-3971.0,Alejandro Chavero Muñoz,/en/players/837b7daa/Alejandro-Chavero-Munoz,Alejandro-Chavero-Munoz,837b7daa,es ESP,MF,Real-Murcia
-3972.0,Tomás Ruso Antón,/en/players/61761493/Tomas-Ruso-Anton,Tomas-Ruso-Anto,61761493,es ESP,DF,Real-Murcia
-3973.0,Germán,/en/players/12c68be9/German,Germ,12c68be9,es ESP,"FW,MF",Real-Murcia
-3974.0,Carlos Álvarez,/en/players/c171531a/Carlos-Alvarez,Carlos-Alvarez,c171531a,es ESP,FW,Real-Murcia
-3975.0,Simón Ballester,/en/players/82b2a42b/Simon-Ballester,Simon-Ballest,82b2a42b,es ESP,GK,Real-Murcia
-3976.0,﻿Paris Adot,/en/players/46e57fe6/Paris-Adot,Paris-Adot,46e57fe6,es ESP,DF,Real-Murcia
-3977.0,Wilson Cuero,/en/players/0e531376/Wilson-Cuero,Wilson-Cuero,0e531376,co COL,FW,Real-Murcia
-3978.0,Román Golobart,/en/players/564f1536/Roman-Golobart,Roman-Golobart,564f1536,es ESP,DF,Real-Murcia
-3979.0,Jon Iru,/en/players/2372b5d0/Jon-Iru,Jon-Iru,2372b5d0,es ESP,MF,Real-Murcia
-3980.0,Alarcón,/en/players/72c90ab5/Alarcon,Alarco,72c90ab5,es ESP,MF,Real-Murcia
-3981.0,Armando Ortiz,/en/players/6596af0c/Armando-Ortiz,Armando-Ortiz,6596af0c,es ESP,MF,Real-Murcia
-3982.0,Javier Álvarez Pareja,/en/players/f442c384/Javier-Alvarez-Pareja,Javier-Alvarez-Parej,f442c384,es ESP,FW,Real-Murcia
-3983.0,Borjas Martín,/en/players/16004625/Borjas-Martin,Borjas-Marti,16004625,es ESP,FW,Real-Murcia
-3984.0,Francisco Morante Martínez,/en/players/a528aa67/Francisco-Morante-Martinez,Francisco-Morante-Martinez,528aa67,es ESP,DF,Real-Murcia
-3985.0,Fernando Llorente,/en/players/5da895d7/Fernando-Llorente,Fernando-Llorent,5da895d7,es ESP,MF,Real-Murcia
-3986.0,Juanma Bravo,/en/players/f0753883/Juanma-Bravo,Juanma-Bravo,f0753883,es ESP,MF,Real-Murcia
-3987.0,Jordan Domínguez,/en/players/521bd5be/Jordan-Dominguez,Jordan-Dominguez,521bd5be,es ESP,MF,Real-Murcia
-3988.0,Elady Zorrilla,/en/players/8862695f/Elady-Zorrilla,Elady-Zorri,8862695f,es ESP,"FW,MF",Real-Murcia
-3989.0,Nadjib Mengoud,/en/players/76a0447c/Nadjib-Mengoud,Nadjib-Mengoud,76a0447c,es ESP,MF,Real-Murcia
-3990.0,Abel Molinero,/en/players/f61a9135/Abel-Molinero,Abel-Molinero,f61a9135,es ESP,MF,Real-Murcia
-3991.0,Federico Vega,/en/players/1c8ad92b/Federico-Vega,Federico-Veg,1c8ad92b,ar ARG,DF,Real-Murcia
-3992.0,David Rodríguez,/en/players/9de5aeaa/David-Rodriguez,David-Rodriguez,9de5aeaa,es ESP,MF,Real-Murcia
-3993.0,Salva Chamorro,/en/players/41ad83f0/Salva-Chamorro,Salva-Chamorro,41ad83f0,es ESP,FW,Real-Murcia
-3994.0,Antonio Escribano,/en/players/875c77c1/Antonio-Escribano,Antonio-Escribano,875c77c1,es ESP,MF,Real-Murcia
-3995.0,Adrián Melgar Carrasco,/en/players/655977cc/Adrian-Melgar-Carrasco,Adrian-Melgar-Carrasco,655977cc,es ESP,DF,Real-Murcia
-3996.0,David Forniés,/en/players/089e8afd/David-Fornies,David-Forni,089e8afd,es ESP,DF,Real-Murcia
-3997.0,José Manuel Martínez Bel,/en/players/34415d46/Jose-Manuel-Martinez-Bel,Jose-Manuel-Martinez-B,34415d46,es ESP,FW,Real-Murcia
-3998.0,Josema,/en/players/be9e62cc/Josema,Josem,be9e62cc,es ESP,MF,Real-Murcia
-3999.0,Estanislao Marcellán,/en/players/44fbf02c/Estanislao-Marcellan,Estanislao-Marc,44fbf02c,es ESP,GK,Real-Murcia
-4000.0,Nahuel Omiliani,/en/players/9f511fbe/Nahuel-Omiliani,Nahuel-Omiliani,9f511fbe,es ESP,DF,Real-Murcia
-4001.0,Daniel Pérez Serrano,/en/players/08e79634/Daniel-Perez-Serrano,Daniel-Perez-Serrano,08e79634,es ESP,DF,Real-Murcia
-4002.0,Julio Delgado,/en/players/b7f39b8e/Julio-Delgado,Julio-Delgado,b7f39b8e,es ESP,MF,Real-Murcia
-4003.0,Charlie I'Anson,/en/players/907594ed/Charlie-IAnson,Charlie-IAnso,907594ed,eng ENG,DF,Real-Murcia
-4004.0,José Luis Miñano,/en/players/1bc88b0c/Jose-Luis-Minano,Jose-Luis-Minano,1bc88b0c,es ESP,MF,Real-Murcia
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+5531.0,﻿Andreas Reinke,/en/players/e0adfb87/Andreas-Reinke,Andreas-Reink,0adfb87,de GER,GK,Real-Murcia
+5532.0,Tito,/en/players/8f451bf9/Tito,Tito,8f451bf9,es ESP,MF,Real-Murcia
+5533.0,Ismael Santiago,/en/players/59c55e77/Ismael-Santiago,Ismael-Santiago,59c55e77,es ESP,MF,Real-Murcia
+5534.0,Francisco Maciel,/en/players/09b9b9e6/Francisco-Maciel,Francisco-Maci,09b9b9e6,ar ARG,DF,Real-Murcia
+5535.0,José Acciari,/en/players/9e98922b/Jose-Acciari,Jose-Acciari,9e98922b,ar ARG,MF,Real-Murcia
+5536.0,Juanma,/en/players/f3b5db81/Juanma,Juanm,f3b5db81,es ESP,DF,Real-Murcia
+5537.0,Ibán Cuadrado,/en/players/8db7ef49/Iban-Cuadrado,Iban-Cuadrado,8db7ef49,es ESP,DF,Real-Murcia
+5538.0,David Karanka,/en/players/8e19b9f6/David-Karanka,David-Karank,8e19b9f6,es ESP,FW,Real-Murcia
+5539.0,Pedro Largo Carazo,/en/players/373dc94c/Pedro-Largo-Carazo,Pedro-Largo-Carazo,373dc94c,es ESP,DF,Real-Murcia
+5540.0,Richi,/en/players/90517f8a/Richi,Richi,90517f8a,es ESP,"FW,MF",Real-Murcia
+5541.0,Mikel Lasa,/en/players/63140312/Mikel-Lasa,Mikel-L,63140312,es ESP,DF,Real-Murcia
+5542.0,José Luis Loreto,/en/players/7619d928/Jose-Luis-Loreto,Jose-Luis-Loreto,7619d928,es ESP,FW,Real-Murcia
+5543.0,Rafael Clavero,/en/players/1590d66a/Rafael-Clavero,Rafael-Clavero,1590d66a,es ESP,DF,Real-Murcia
+5544.0,Josep Setvalls,/en/players/18c53e9e/Josep-Setvalls,Josep-Setv,18c53e9e,es ESP,MF,Real-Murcia
+5545.0,Ricardo Carrero,/en/players/38c23b0a/Ricardo-Carrero,Ricardo-Carrero,38c23b0a,es ESP,DF,Real-Murcia
+5546.0,Miguel Albiol,/en/players/ca8aa471/Miguel-Albiol,Miguel-Albio,ca8aa471,es ESP,MF,Real-Murcia
+5547.0,Jaime Ramos,/en/players/0efbd49c/Jaime-Ramos,Jaime-Ramo,0efbd49c,es ESP,MF,Real-Murcia
+5548.0,Diego Quintana,/en/players/2b79305d/Diego-Quintana,Diego-Quint,2b79305d,ar ARG,MF,Real-Murcia
+5549.0,Alfonso Pérez,/en/players/22a2f25e/Alfonso-Perez,Alfonso-Perez,22a2f25e,es ESP,FW,Real-Murcia
+5550.0,Rodri,/en/players/329b7718/Rodri,Rodri,329b7718,es ESP,MF,Real-Murcia
+5551.0,Juan Valera Espín,/en/players/947fa33c/Juan-Valera-Espin,Juan-Valera-Espi,947fa33c,es ESP,"DF,MF",Real-Murcia
+5552.0,﻿Luis García,/en/players/70df8d7c/Luis-Garcia,Luis-Garci,70df8d7c,es ESP,"FW,MF",Real-Murcia
+5553.0,Míchel,/en/players/19b3b837/Michel,Mich,19b3b837,es ESP,MF,Real-Murcia
+5554.0,Daniel Jensen,/en/players/ded677a5/Daniel-Jensen,Daniel-J,ded677a5,dk DEN,MF,Real-Murcia
+5555.0,Juanmi,/en/players/9c6886e6/Juanmi,Juanmi,9c6886e6,es ESP,GK,Real-Murcia
+5556.0,Gabriel Loeschbor,/en/players/9702bece/Gabriel-Loeschbor,Gabriel-Loeschbo,9702bece,ar ARG,DF,Real-Murcia
+5557.0,Iván Hurtado,/en/players/d87fdfd3/Ivan-Hurtado,Ivan-Hurtado,d87fdfd3,ec ECU,DF,Real-Murcia
+5558.0,Lluís Carreras,/en/players/4e1b59cf/Lluis-Carreras,Lluis-C,4e1b59cf,es ESP,DF,Real-Murcia
+5559.0,Juan Esnáider,/en/players/a9bdc347/Juan-Esnaider,Juan-Esnaid,9bdc347,ar ARG,FW,Real-Murcia
+5560.0,Roberto Bonano,/en/players/7b2d75ba/Roberto-Bonano,Roberto-Bonano,7b2d75ba,ar ARG,GK,Real-Murcia
+5561.0,Fredi Lobeiras,/en/players/9e85ab41/Fredi-Lobeiras,Fredi-Lobei,9e85ab41,es ESP,MF,Real-Murcia
+5562.0,Mikel Roteta,/en/players/05ec1ccf/Mikel-Roteta,Mikel-Rotet,05ec1ccf,es ESP,DF,Real-Murcia
+5563.0,Javier Sánchez Broto,/en/players/9157113d/Javier-Sanchez-Broto,Javier-Sanchez-Broto,9157113d,es ESP,GK,Real-Murcia
+5564.0,Federico Azcárate,/en/players/4256b651/Federico-Azcarate,Federico-Azcarat,4256b651,ar ARG,DF,Real-Murcia
+5565.0,Roberto Fresnedoso,/en/players/16cc4352/Roberto-Fresnedoso,Roberto-Fresnedoso,16cc4352,es ESP,MF,Real-Murcia
+5566.0,Julio Álvarez,/en/players/17b1a0ee/Julio-Alvarez,Julio-Alvarez,17b1a0ee,ve VEN,MF,Real-Murcia
+5567.0,Juan Zamora,/en/players/dc8ab5e4/Juan-Zamora,Juan-Zamo,dc8ab5e4,es ESP,DF,Real-Murcia
+5568.0,Carlos Alberto Juárez,/en/players/e4fbb8f8/Carlos-Alberto-Juarez,Carlos-Alberto-Juarez,4fbb8f8,ec ECU,FW,Real-Murcia
+5569.0,Jesús Tato,/en/players/50e2af8c/Jesus-Tato,Jesus-Tato,50e2af8c,es ESP,FW,Real-Murcia
+5570.0,Sebastián Carrera,/en/players/e25cf2eb/Sebastian-Carrera,Sebastian-C,25cf2eb,ar ARG,MF,Real-Murcia
+5571.0,Jon Urzelai,/en/players/6366a43c/Jon-Urzelai,Jon-Urzelai,6366a43c,es ESP,DF,Real-Murcia
+5572.0,Alejandro Marañón,/en/players/9be8422d/Alejandro-Maranon,Alejandro-Marano,9be8422d,es ESP,DF,Real-Murcia
+5573.0,Nicolás Medina,/en/players/aeada259/Nicolas-Medina,Nicolas-Medi,da259,ar ARG,MF,Real-Murcia
+5574.0,Sietes,/en/players/bae8225f/Sietes,Siet,bae8225f,es ESP,DF,Real-Murcia
+5575.0,Juan Carlos Olave,/en/players/40abdd6d/Juan-Carlos-Olave,Juan-Carlos-Olav,40abdd6d,ar ARG,GK,Real-Murcia
+5576.0,Cătălin Munteanu,/en/players/7cc877fd/Catalin-Munteanu,Catalin-Munteanu,7cc877fd,ro ROU,MF,Real-Murcia
+5577.0,José María,/en/players/e5278a22/Jose-Maria,Jose-Mari,5278a22,es ESP,MF,Real-Murcia
+5578.0,Luismi,/en/players/315b221b/Luismi,Luismi,315b221b,es ESP,MF,Real-Murcia
+5579.0,Mariano Fernández,/en/players/96c1093b/Mariano-Fernandez,Mariano-Fernandez,96c1093b,ar ARG,DF,Real-Murcia
+5580.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,"FW,MF",Real-Murcia
+5581.0,Iván Alonso,/en/players/80084c87/Ivan-Alonso,Ivan-Alonso,80084c87,uy URU,FW,Real-Murcia
+5582.0,Stéphane Pignol,/en/players/ca3ae27c/Stephane-Pignol,Stephane-Pigno,ca3ae27c,fr FRA,DF,Real-Murcia
+5583.0,Samuel Baños,/en/players/f3ce81bd/Samuel-Banos,Samuel-Bano,f3ce81bd,es ESP,MF,Real-Murcia
+5584.0,Sebastián Corona,/en/players/d2aedc78/Sebastian-Corona,Sebastian-Coro,d2aedc78,es ESP,DF,Real-Murcia
+5585.0,Pablo Sierra,/en/players/224f3a5f/Pablo-Sierra,Pablo-Si,224f3a5f,es ESP,MF,Real-Murcia
+5586.0,Markus Kreuz,/en/players/abf5cf2c/Markus-Kreuz,Markus-Kreuz,bf5cf2c,de GER,MF,Real-Murcia
+5587.0,Diego Alonso,/en/players/21a7914b/Diego-Alonso,Diego-Alonso,21a7914b,uy URU,FW,Real-Murcia
+5588.0,David Palacios,/en/players/8779db47/David-Palacios,David-Palacio,8779db47,es ESP,MF,Real-Murcia
+5589.0,Juan Manuel Salgueiro,/en/players/91f3803e/Juan-Manuel-Salgueiro,Juan-Manuel-Salgueiro,91f3803e,uy URU,FW,Real-Murcia
+5590.0,Kostas Chalkias,/en/players/8c36086c/Kostas-Chalkias,Kostas-Chalki,8c36086c,gr GRE,GK,Real-Murcia
+5591.0,Aureliano Torres,/en/players/228ecb72/Aureliano-Torres,Aureliano-To,228ecb72,py PAR,"DF,MF",Real-Murcia
+5592.0,Antonio Notario,/en/players/b49f31c5/Antonio-Notario,Antonio-Notario,b49f31c5,es ESP,GK,Real-Murcia
+5593.0,Paco Peña,/en/players/e3b01965/Paco-Pena,Paco-P,3b01965,es ESP,DF,Real-Murcia
+5594.0,Jofre,/en/players/90bf887c/Jofre,Jof,90bf887c,es ESP,MF,Real-Murcia
+5595.0,Ramón,/en/players/6892efc4/Ramon,Ramo,6892efc4,es ESP,DF,Real-Murcia
+5596.0,Antoñito,/en/players/822723a6/Antonito,Antonito,822723a6,es ESP,FW,Real-Murcia
+5597.0,Juan Cruz Ochoa,/en/players/301ff22a/Juan-Cruz-Ochoa,Juan-Cruz-Ocho,301ff22a,es ESP,DF,Real-Murcia
+5598.0,Pablo Ruiz,/en/players/9fb57e68/Pablo-Ruiz,Pablo-Ruiz,9fb57e68,es ESP,DF,Real-Murcia
+5599.0,Francisco Gallardo,/en/players/be80c87c/Francisco-Gallardo,Francisco-Gallardo,be80c87c,es ESP,MF,Real-Murcia
+5600.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Real-Murcia
+5601.0,Bruno Herrero Arias,/en/players/acd429fc/Bruno-Herrero-Arias,Bruno-Herrero-Ari,cd429fc,es ESP,MF,Real-Murcia
+5602.0,Adrián Martín,/en/players/53eabc97/Adrian-Martin,Adrian-Marti,53eabc97,es ESP,MF,Real-Murcia
+5603.0,Gifton Noel-Williams,/en/players/27f28090/Gifton-Noel-Williams,Gifton-Noel-William,27f28090,eng ENG,FW,Real-Murcia
+5604.0,Emerson,/en/players/fef3b251/Emerson,Emerso,fef3b251,br BRA,"FW,MF",Real-Murcia
+5605.0,Álvaro Mejía,/en/players/dd3f6a54/Alvaro-Mejia,Alvaro-Meji,dd3f6a54,es ESP,DF,Real-Murcia
+5606.0,Enrique de Lucas,/en/players/ae61cc61/Enrique-de-Lucas,Enrique-de-Luc,61cc61,es ESP,"FW,MF",Real-Murcia
+5607.0,César Arzo,/en/players/0ea37b10/Cesar-Arzo,Cesar-Arzo,0ea37b10,es ESP,"DF,MF",Real-Murcia
+5608.0,Pablo García,/en/players/911299ca/Pablo-Garcia,Pablo-Garci,911299ca,uy URU,"DF,MF",Real-Murcia
+5609.0,José María Movilla,/en/players/1ac170a8/Jose-Maria-Movilla,Jose-Maria-Movi,1ac170a8,es ESP,MF,Real-Murcia
+5610.0,Henok Goitom,/en/players/c3680236/Henok-Goitom,Henok-Goitom,c3680236,er ERI,FW,Real-Murcia
+5611.0,David de Coz,/en/players/bf33fc94/David-de-Coz,David-de-Coz,bf33fc94,es ESP,DF,Real-Murcia
+5612.0,Fernando Baiano,/en/players/253f2715/Fernando-Baiano,Fernando-Baiano,253f2715,br BRA,FW,Real-Murcia
+5613.0,Mario Regueiro,/en/players/c792d665/Mario-Regueiro,Mario-Regueiro,c792d665,uy URU,"FW,MF",Real-Murcia
+5614.0,Abel Gómez Moreno,/en/players/b09801d8/Abel-Gomez-Moreno,Abel-Gomez-Moreno,b09801d8,es ESP,MF,Real-Murcia
+5615.0,Fabián Carini,/en/players/d1c6cd3b/Fabian-Carini,Fabian-Carini,d1c6cd3b,uy URU,GK,Real-Murcia
+5616.0,Dani Aquino,/en/players/060a66fb/Dani-Aquino,Dani-Aquino,060a66fb,es ESP,"FW,MF",Real-Murcia
+5617.0,Iñigo Vélez,/en/players/08cc09ee/Inigo-Velez,Inigo-Velez,08cc09ee,es ESP,FW,Real-Murcia
+5618.0,Rosinei,/en/players/46a45b96/Rosinei,Rosinei,46a45b96,br BRA,MF,Real-Murcia
+5619.0,Juan Pedro Pina,/en/players/c2fd2d1c/Juan-Pedro-Pina,Juan-Pedro-Pi,c2fd2d1c,es ESP,DF,Real-Murcia
+5620.0,Curro Torres,/en/players/49b88407/Curro-Torres,Curro-To,49b88407,es ESP,DF,Real-Murcia
+5621.0,Alberto García,/en/players/17d9e354/Alberto-Garcia,Alberto-Garci,17d9e354,es ESP,GK,Real-Murcia
+5622.0,﻿Juan Elía,/en/players/50ce646b/Juan-Elia,Juan-Eli,50ce646b,es ESP,GK,Real-Murcia
+5623.0,Francisco Ibáñez,/en/players/8743a346/Francisco-Ibanez,Francisco-Ibanez,8743a346,cl CHI,FW,Real-Murcia
+5624.0,José Luis Capdevila,/en/players/dde616c5/Jose-Luis-Capdevila,Jose-Luis-Capdevi,dde616c5,es ESP,MF,Real-Murcia
+5625.0,Antonio Núñez,/en/players/df89070b/Antonio-Nunez,Antonio-Nunez,df89070b,es ESP,MF,Real-Murcia
+5626.0,Ranko Despotović,/en/players/7909655a/Ranko-Despotovic,Ranko-Despotovic,7909655a,rs SRB,FW,Real-Murcia
+5627.0,Ángel Montoro,/en/players/719384c1/Angel-Montoro,Angel-Montoro,719384c1,es ESP,MF,Real-Murcia
+5628.0,Marcinho Guerreiro,/en/players/4d87912d/Marcinho-Guerreiro,Marcinho-Guerreiro,4d87912d,br BRA,MF,Real-Murcia
+5629.0,Lillo,/en/players/476ca810/Lillo,Lillo,476ca810,es ESP,DF,Real-Murcia
+5630.0,Boubacar Dialiba,/en/players/e63af7ba/Boubacar-Dialiba,Boubacar-Dialib,63af7ba,sn SEN,"FW,MF",Real-Murcia
+5631.0,Adrian Sikora,/en/players/0a7ccf91/Adrian-Sikora,Adrian-Siko,0a7ccf91,pl POL,FW,Real-Murcia
+5632.0,Béla Balogh,/en/players/cbde47e4/Bela-Balogh,Bela-Balogh,cbde47e4,hu HUN,DF,Real-Murcia
+5633.0,Iván Malón,/en/players/c568d934/Ivan-Malon,Ivan-Malo,c568d934,es ESP,DF,Real-Murcia
+5634.0,David Cuéllar,/en/players/d386f165/David-Cuellar,David-Cu,d386f165,es ESP,MF,Real-Murcia
+5635.0,Abderrahman Kabous,/en/players/f2ff6097/Abderrahman-Kabous,Abderrahman-Kabou,f2ff6097,ma MAR,MF,Real-Murcia
+5636.0,Pico,/en/players/2845148b/Pico,Pico,2845148b,es ESP,FW,Real-Murcia
+5637.0,Matías Alonso,/en/players/2f83d9b2/Matias-Alonso,Matias-Alonso,2f83d9b2,uy URU,FW,Real-Murcia
+5638.0,Sergio Escudero,/en/players/b0616e3d/Sergio-Escudero,Sergio-Escudero,b0616e3d,es ESP,"DF,MF",Real-Murcia
+5639.0,Mario Marín Soto,/en/players/c63e6769/Mario-Marin-Soto,Mario-Marin-Soto,c63e6769,es ESP,DF,Real-Murcia
+5640.0,﻿Sergio Fernández,/en/players/db150f07/Sergio-Fernandez,Sergio-Fernandez,db150f07,es ESP,DF,Real-Murcia
+5641.0,Natalio,/en/players/239425b9/Natalio,Natalio,239425b9,es ESP,FW,Real-Murcia
+5642.0,Chando,/en/players/b43a5636/Chando,Chando,b43a5636,es ESP,FW,Real-Murcia
+5643.0,Isaac Jové Rubí,/en/players/d6e1904b/Isaac-Jove-Rubi,Isaac-Jove-Rubi,d6e1904b,es ESP,MF,Real-Murcia
+5644.0,Iñaki Bea Jauregi,/en/players/bbcd4ab0/Inaki-Bea-Jauregi,Inaki-Bea-Jauregi,bbcd4ab0,es ESP,DF,Real-Murcia
+5645.0,Pedro,/en/players/eb642c79/Pedro,Pedro,b642c79,es ESP,"FW,MF",Real-Murcia
+5646.0,Alberto Cifuentes,/en/players/94084f83/Alberto-Cifuentes,Alberto-Cifuent,94084f83,es ESP,GK,Real-Murcia
+5647.0,Óscar Sánchez,/en/players/fe4c5d4e/Oscar-Sanchez,Oscar-Sanchez,fe4c5d4e,es ESP,DF,Real-Murcia
+5648.0,Guillermo Pereyra,/en/players/0757d5ba/Guillermo-Pereyra,Guillermo-P,0757d5ba,ar ARG,MF,Real-Murcia
+5649.0,Mario Rosas,/en/players/81718397/Mario-Rosas,Mario-Ro,81718397,es ESP,MF,Real-Murcia
+5650.0,José Juan Luque,/en/players/eb874847/Jose-Juan-Luque,Jose-Juan-Luqu,b874847,es ESP,MF,Real-Murcia
+5651.0,Pere Martí,/en/players/f7e1f18e/Pere-Marti,Pere-Marti,f7e1f18e,es ESP,MF,Real-Murcia
+5652.0,Juan Aguilera,/en/players/18dc8533/Juan-Aguilera,Juan-Agui,18dc8533,es ESP,MF,Real-Murcia
+5653.0,Jorge García,/en/players/d1bd08ef/Jorge-Garcia,Jorge-Garci,d1bd08ef,es ESP,DF,Real-Murcia
+5654.0,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,Francisco-Molinero,2cea96ce,es ESP,DF,Real-Murcia
+5655.0,Manuel Iturra,/en/players/000b3da6/Manuel-Iturra,Manuel-Itu,000b3da6,cl CHI,MF,Real-Murcia
+5656.0,Emilio Sánchez,/en/players/58b5df2f/Emilio-Sanchez,Emilio-Sanchez,58b5df2f,es ESP,MF,Real-Murcia
+5657.0,Iván Amaya,/en/players/1ed358ee/Ivan-Amaya,Ivan-Am,1ed358ee,es ESP,DF,Real-Murcia
+5658.0,Cristian García,/en/players/2e33112b/Cristian-Garcia,Cristian-Garci,2e33112b,ar ARG,FW,Real-Murcia
+5659.0,Francisco Sutil,/en/players/51b44d11/Francisco-Sutil,Francisco-Suti,51b44d11,es ESP,"DF,FW",Real-Murcia
+5660.0,Galder Cerrajería,/en/players/7a6d5441/Galder-Cerrajeria,Galder-Cerrajeri,7a6d5441,es ESP,MF,Real-Murcia
+5661.0,Javi Jiménez,/en/players/9fe99e45/Javi-Jimenez,Javi-Jimenez,9fe99e45,es ESP,GK,Real-Murcia
+5662.0,Borja Bastón,/en/players/8c44e37b/Borja-Baston,Borja-Basto,8c44e37b,es ESP,FW,Real-Murcia
+5663.0,Rubén Párraga,/en/players/c8a5798c/Ruben-Parraga,Ruben-Parrag,c8a5798c,es ESP,DF,Real-Murcia
+5664.0,Luciano,/en/players/7798f39e/Luciano,Luciano,7798f39e,es ESP,DF,Real-Murcia
+5665.0,Kike,/en/players/e897d8ba/Kike,Kik,897d8ba,es ESP,FW,Real-Murcia
+5666.0,Pablo Vivancos,/en/players/319a9468/Pablo-Vivancos,Pablo-Vivanco,319a9468,ar ARG,MF,Real-Murcia
+5667.0,Samuel Lopes,/en/players/737b21c7/Samuel-Lopes,Samuel-Lo,737b21c7,br BRA,FW,Real-Murcia
+5668.0,Miguel Marín,/en/players/996a2ca9/Miguel-Marin,Miguel-Mari,996a2ca9,es ESP,DF,Real-Murcia
+5669.0,Javier Matilla,/en/players/35fa45cc/Javier-Matilla,Javier-Mati,35fa45cc,es ESP,MF,Real-Murcia
+5670.0,Mauro dos Santos,/en/players/ec699fdd/Mauro-dos-Santos,Mauro-dos-Santo,c699fdd,ar ARG,DF,Real-Murcia
+5671.0,Mehdi Nafti,/en/players/93e31883/Mehdi-Nafti,Mehdi-Nafti,93e31883,tn TUN,MF,Real-Murcia
+5672.0,Nicolás Tagliafico,/en/players/f0661424/Nicolas-Tagliafico,Nicolas-Tagliafico,f0661424,ar ARG,DF,Real-Murcia
+5673.0,José Catalá,/en/players/ac0a9088/Jose-Catala,Jose-Cat,c0a9088,es ESP,DF,Real-Murcia
+5674.0,Nicolás Martínez,/en/players/28baf8f6/Nicolas-Martinez,Nicolas-Martinez,28baf8f6,ar ARG,MF,Real-Murcia
+5675.0,Saúl Berjón,/en/players/59e3e14b/Saul-Berjon,Saul-Berjo,59e3e14b,es ESP,"FW,MF",Real-Murcia
+5676.0,Daniel Toribio,/en/players/0ced6664/Daniel-Toribio,Daniel-Toribio,0ced6664,es ESP,MF,Real-Murcia
+5677.0,Jonathan Gómez,/en/players/3f8ad2cb/Jonathan-Gomez,Jonathan-Gomez,3f8ad2cb,py PAR,MF,Real-Murcia
+5678.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Real-Murcia
+5679.0,Miguel Guirao,/en/players/b73df801/Miguel-Guirao,Miguel-Guirao,b73df801,es ESP,FW,Real-Murcia
+5680.0,Higinio Marín,/en/players/61db425b/Higinio-Marin,Higinio-Mari,61db425b,es ESP,FW,Real-Murcia
+5681.0,﻿Casto,/en/players/95b4ffb3/Casto,Casto,95b4ffb3,es ESP,GK,Real-Murcia
+5682.0,Álex Martínez,/en/players/e1c805cf/Alex-Martinez,Alex-Martinez,1c805cf,es ESP,"DF,MF",Real-Murcia
+5683.0,Albert Dorca,/en/players/01c3b68a/Albert-Dorca,Albert-Dorc,01c3b68a,es ESP,MF,Real-Murcia
+5684.0,Joan Truyols,/en/players/af43f64f/Joan-Truyols,Joan-Truyo,f43f64f,es ESP,DF,Real-Murcia
+5685.0,Tete,/en/players/d2131e09/Tete,Tet,d2131e09,es ESP,"FW,MF",Real-Murcia
+5686.0,Wellington Silva,/en/players/5c60f49c/Wellington-Silva,Wellington-Silv,5c60f49c,br BRA,"FW,MF",Real-Murcia
+5687.0,Dani Bautista,/en/players/135b0a5e/Dani-Bautista,Dani-Bautist,135b0a5e,es ESP,DF,Real-Murcia
+5688.0,Iván Moreno,/en/players/ce5d4b0f/Ivan-Moreno,Ivan-Moreno,ce5d4b0f,es ESP,MF,Real-Murcia
+5689.0,Pedro Alcalá,/en/players/ba71d071/Pedro-Alcala,Pedro-Alc,ba71d071,es ESP,DF,Real-Murcia
+5690.0,Fernando,/en/players/dabb2827/Fernando,Fernando,dabb2827,es ESP,GK,Real-Murcia
+5691.0,Sergio León,/en/players/0a0cc13c/Sergio-Leon,Sergio-Leo,0a0cc13c,es ESP,FW,Real-Murcia
+5692.0,José Ángel Carrillo,/en/players/7beb6364/Jose-Angel-Carrillo,Jose-Angel-Carrillo,7beb6364,es ESP,FW,Real-Murcia
+5693.0,Iván Crespo,/en/players/31ae3b7e/Ivan-Crespo,Ivan-Crespo,31ae3b7e,es ESP,GK,Real-Murcia
+5694.0,Jairo Izquierdo,/en/players/2ceb58ab/Jairo-Izquierdo,Jairo-Izquierdo,2ceb58ab,es ESP,"DF,MF",Real-Murcia
+5695.0,Álvaro Marín,/en/players/4292ffaa/Alvaro-Marin,Alvaro-Mari,4292ffaa,es ESP,DF,Real-Murcia
+5696.0,David Prieto,/en/players/aee8f24e/David-Prieto,David-Prieto,8f24e,es ESP,"DF,MF",Real-Murcia
+5697.0,Víctor Ruiz,/en/players/8af6e943/Victor-Ruiz,Victor-Ruiz,8af6e943,eng ENG,GK,Real-Murcia
+5698.0,Eneko Satrústegui,/en/players/b7ce700f/Eneko-Satrustegui,Eneko-Satrustegui,b7ce700f,es ESP,DF,Real-Murcia
+5699.0,Javier Saura Ruiz,/en/players/e55716b0/Javier-Saura-Ruiz,Javier-Saura-Ruiz,55716b0,es ESP,MF,Real-Murcia
+5700.0,Gerard Oliva,/en/players/0d01d201/Gerard-Oliva,Gerard-Oliv,0d01d201,es ESP,FW,Real-Murcia
+5701.0,Xavier Marqués Gómez,/en/players/a98b75fc/Xavier-Marques-Gomez,Xavier-Marques-Gomez,98b75fc,es ESP,MF,Real-Murcia
+5702.0,Joseba Garmendia,/en/players/d74abbc4/Joseba-Garmendia,Joseba-Garmendi,d74abbc4,es ESP,"DF,MF",Real-Murcia
+5703.0,Javi Muñoz,/en/players/0cb79cb2/Javi-Munoz,Javi-Munoz,0cb79cb2,es ESP,FW,Real-Murcia
+5704.0,Jaume Sobregrau,/en/players/93397184/Jaume-Sobregrau,Jaume-Sobregrau,93397184,es ESP,DF,Real-Murcia
+5705.0,Arturo Molina,/en/players/14a82e0e/Arturo-Molina,Arturo-Moli,14a82e0e,es ESP,MF,Real-Murcia
+5706.0,﻿José Miguel Ruiz del Amo,/en/players/41217d36/Jose-Miguel-Ruiz-del-Amo,Jose-Miguel-Ruiz-del-Amo,41217d36,es ESP,DF,Real-Murcia
+5707.0,Gorka Azkorra,/en/players/b6ba90f9/Gorka-Azkorra,Gorka-Azko,b6ba90f9,es ESP,FW,Real-Murcia
+5708.0,Sergio García Salmón,/en/players/33147a09/Sergio-Garcia-Salmon,Sergio-Garcia-Salmo,33147a09,es ESP,MF,Real-Murcia
+5709.0,Sergi Guilló,/en/players/55ff8f7f/Sergi-Guillo,Sergi-Guillo,55ff8f7f,es ESP,MF,Real-Murcia
+5710.0,Jordi Hostench Casanova,/en/players/f907d180/Jordi-Hostench-Casanova,Jordi-Hostench-Casanov,f907d180,es ESP,DF,Real-Murcia
+5711.0,Alejandro Chavero Muñoz,/en/players/837b7daa/Alejandro-Chavero-Munoz,Alejandro-Chavero-Munoz,837b7daa,es ESP,MF,Real-Murcia
+5712.0,Tomás Ruso Antón,/en/players/61761493/Tomas-Ruso-Anton,Tomas-Ruso-Anto,61761493,es ESP,DF,Real-Murcia
+5713.0,Germán,/en/players/12c68be9/German,Germ,12c68be9,es ESP,"FW,MF",Real-Murcia
+5714.0,Fran Moreno,/en/players/12096092/Fran-Moreno,Fran-Moreno,12096092,es ESP,MF,Real-Murcia
+5715.0,Carlos Álvarez,/en/players/c171531a/Carlos-Alvarez,Carlos-Alvarez,c171531a,es ESP,FW,Real-Murcia
+5716.0,Isaac Palazón Camacho,/en/players/49dbab27/Isaac-Palazon-Camacho,Isaac-Palazon-Camacho,49dbab27,es ESP,MF,Real-Murcia
+5717.0,Simón Ballester,/en/players/82b2a42b/Simon-Ballester,Simon-Ballest,82b2a42b,es ESP,GK,Real-Murcia
+5718.0,﻿Paris Adot,/en/players/46e57fe6/Paris-Adot,Paris-Adot,46e57fe6,es ESP,DF,Real-Murcia
+5719.0,Wilson Cuero,/en/players/0e531376/Wilson-Cuero,Wilson-Cuero,0e531376,co COL,FW,Real-Murcia
+5720.0,Román Golobart,/en/players/564f1536/Roman-Golobart,Roman-Golobart,564f1536,es ESP,DF,Real-Murcia
+5721.0,Jon Iru,/en/players/2372b5d0/Jon-Iru,Jon-Iru,2372b5d0,es ESP,MF,Real-Murcia
+5722.0,Rubén Ramos,/en/players/34d16061/Ruben-Ramos,Ruben-Ramo,34d16061,es ESP,"FW,GK",Real-Murcia
+5723.0,Diego Rivas Rego,/en/players/c3a6fb7d/Diego-Rivas-Rego,Diego-Rivas-Rego,c3a6fb7d,es ESP,GK,Real-Murcia
+5724.0,Alarcón,/en/players/72c90ab5/Alarcon,Alarco,72c90ab5,es ESP,MF,Real-Murcia
+5725.0,Armando Ortiz,/en/players/6596af0c/Armando-Ortiz,Armando-Ortiz,6596af0c,es ESP,MF,Real-Murcia
+5726.0,Javier Álvarez Pareja,/en/players/f442c384/Javier-Alvarez-Pareja,Javier-Alvarez-Parej,f442c384,es ESP,FW,Real-Murcia
+5727.0,Diego Benito Rey,/en/players/049c2adb/Diego-Benito-Rey,Diego-Benito-R,049c2adb,es ESP,MF,Real-Murcia
+5728.0,Borjas Martín,/en/players/16004625/Borjas-Martin,Borjas-Marti,16004625,es ESP,FW,Real-Murcia
+5729.0,Francisco Morante Martínez,/en/players/a528aa67/Francisco-Morante-Martinez,Francisco-Morante-Martinez,528aa67,es ESP,DF,Real-Murcia
+5730.0,Fernando Llorente,/en/players/5da895d7/Fernando-Llorente,Fernando-Llorent,5da895d7,es ESP,MF,Real-Murcia
+5731.0,David Mateos,/en/players/ddee7ba5/David-Mateos,David-Mateo,ddee7ba5,es ESP,DF,Real-Murcia
+5732.0,Juanma Bravo,/en/players/f0753883/Juanma-Bravo,Juanma-Bravo,f0753883,es ESP,MF,Real-Murcia
+5733.0,Pedro Orfila,/en/players/a38c114e/Pedro-Orfila,Pedro-Orfi,38c114e,es ESP,DF,Real-Murcia
+5734.0,Jordan Domínguez,/en/players/521bd5be/Jordan-Dominguez,Jordan-Dominguez,521bd5be,es ESP,MF,Real-Murcia
+5735.0,Juanra,/en/players/883c7798/Juanra,Ju,883c7798,es ESP,DF,Real-Murcia
+5736.0,Elady Zorrilla,/en/players/8862695f/Elady-Zorrilla,Elady-Zorri,8862695f,es ESP,"FW,MF",Real-Murcia
+5737.0,Nadjib Mengoud,/en/players/76a0447c/Nadjib-Mengoud,Nadjib-Mengoud,76a0447c,es ESP,MF,Real-Murcia
+5738.0,Álex Ortiz,/en/players/c07dc79e/Alex-Ortiz,Alex-Ortiz,c07dc79e,es ESP,DF,Real-Murcia
+5739.0,Xiscu,/en/players/5a481bbe/Xiscu,Xiscu,5a481bbe,es ESP,FW,Real-Murcia
+5740.0,Abel Molinero,/en/players/f61a9135/Abel-Molinero,Abel-Molinero,f61a9135,es ESP,MF,Real-Murcia
+5741.0,Fran Carnicer,/en/players/2888a995/Fran-Carnicer,Fran-Carnic,2888a995,es ESP,MF,Real-Murcia
+5742.0,Federico Vega,/en/players/1c8ad92b/Federico-Vega,Federico-Veg,1c8ad92b,ar ARG,DF,Real-Murcia
+5743.0,David Rodríguez,/en/players/9de5aeaa/David-Rodriguez,David-Rodriguez,9de5aeaa,es ESP,MF,Real-Murcia
+5744.0,Pedro Martín,/en/players/99ee29b5/Pedro-Martin,Pedro-Marti,99ee29b5,es ESP,FW,Real-Murcia
+5745.0,Salva Chamorro,/en/players/41ad83f0/Salva-Chamorro,Salva-Chamorro,41ad83f0,es ESP,FW,Real-Murcia
+5746.0,Santi Jara,/en/players/40a78f59/Santi-Jara,Santi-J,40a78f59,es ESP,"FW,MF",Real-Murcia
+5747.0,Antonio Escribano,/en/players/875c77c1/Antonio-Escribano,Antonio-Escribano,875c77c1,es ESP,MF,Real-Murcia
+5748.0,Adrián Melgar Carrasco,/en/players/655977cc/Adrian-Melgar-Carrasco,Adrian-Melgar-Carrasco,655977cc,es ESP,DF,Real-Murcia
+5749.0,David Forniés,/en/players/089e8afd/David-Fornies,David-Forni,089e8afd,es ESP,DF,Real-Murcia
+5750.0,Biel Ribas,/en/players/8178716d/Biel-Ribas,Biel-Rib,8178716d,es ESP,GK,Real-Murcia
+5751.0,﻿Hugo Álvarez,/en/players/6f392eb8/Hugo-Alvarez,Hugo-Alvarez,6f392eb8,es ESP,DF,Real-Murcia
+5752.0,José Manuel Martínez Bel,/en/players/34415d46/Jose-Manuel-Martinez-Bel,Jose-Manuel-Martinez-B,34415d46,es ESP,FW,Real-Murcia
+5753.0,Josema,/en/players/be9e62cc/Josema,Josem,be9e62cc,es ESP,MF,Real-Murcia
+5754.0,Sergi Maestre,/en/players/1d7bd5c5/Sergi-Maestre,Sergi-Maest,1d7bd5c5,es ESP,MF,Real-Murcia
+5755.0,Estanislao Marcellán,/en/players/44fbf02c/Estanislao-Marcellan,Estanislao-Marc,44fbf02c,es ESP,GK,Real-Murcia
+5756.0,Nahuel Omiliani,/en/players/9f511fbe/Nahuel-Omiliani,Nahuel-Omiliani,9f511fbe,es ESP,DF,Real-Murcia
+5757.0,Daniel Pérez Serrano,/en/players/08e79634/Daniel-Perez-Serrano,Daniel-Perez-Serrano,08e79634,es ESP,DF,Real-Murcia
+5758.0,Julio Delgado,/en/players/b7f39b8e/Julio-Delgado,Julio-Delgado,b7f39b8e,es ESP,MF,Real-Murcia
+5759.0,Jesús Alfaro,/en/players/d04b8fd9/Jesus-Alfaro,Jesus-Alfaro,d04b8fd9,es ESP,FW,Real-Murcia
+5760.0,Charlie I'Anson,/en/players/907594ed/Charlie-IAnson,Charlie-IAnso,907594ed,eng ENG,DF,Real-Murcia
+5761.0,Zakaria Boulahia,/en/players/2ab14bcd/Zakaria-Boulahia,Zakaria-Boulahi,2ab14bcd,dz ALG,FW,Real-Murcia
+5762.0,José Luis Miñano,/en/players/1bc88b0c/Jose-Luis-Minano,Jose-Luis-Minano,1bc88b0c,es ESP,MF,Real-Murcia
+5763.0,Ian Mackay,/en/players/30740261/Ian-Mackay,Ian-Mack,30740261,ee EST,GK,Real-Murcia

@@ -1,137 +1,255 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-2995.0,Antonio Soldevilla,/en/players/6a88843a/Antonio-Soldevilla,Antonio-Soldevi,6a88843a,es ESP,DF,Espanyol
-2996.0,Cyril Domoraud,/en/players/0c0ac13c/Cyril-Domoraud,Cyril-Domoraud,0c0ac13c,ci CIV,DF,Espanyol
-2997.0,David García,/en/players/f47bf593/David-Garcia,David-Garci,f47bf593,es ESP,DF,Espanyol
-2998.0,Ángel Morales,/en/players/ba7ae976/Angel-Morales,Angel-Mo,ba7ae976,es ESP,MF,Espanyol
-2999.0,Toni Jiménez,/en/players/c59ba0f4/Toni-Jimenez,Toni-Jimenez,c59ba0f4,es ESP,GK,Espanyol
-3000.0,Moreno Torricelli,/en/players/3103b024/Moreno-Torricelli,Moreno-Torricelli,3103b024,it ITA,DF,Espanyol
-3001.0,Iván de la Peña,/en/players/96a4976d/Ivan-de-la-Pena,Ivan-de-la-P,96a4976d,es ESP,MF,Espanyol
-3002.0,Mauro Navas,/en/players/97fe2167/Mauro-Navas,Mauro-Nav,97fe2167,ar ARG,DF,Espanyol
-3003.0,Alfredo Argensó,/en/players/90b67cf9/Alfredo-Argenso,Alfredo-Argenso,90b67cf9,es ESP,GK,Espanyol
-3004.0,Òscar,/en/players/ae93cd06/Oscar,Osc,93cd06,es ESP,"FW,MF",Espanyol
-3005.0,Alex Fernández,/en/players/79a22469/Alex-Fernandez,Alex-Fernandez,79a22469,es ESP,MF,Espanyol
-3006.0,Fredson,/en/players/5232d39f/Fredson,Fredso,5232d39f,br BRA,"DF,MF",Espanyol
-3007.0,Iván Amaya,/en/players/1ed358ee/Ivan-Amaya,Ivan-Am,1ed358ee,es ESP,DF,Espanyol
-3008.0,Sergio Sánchez,/en/players/2a0f94ac/Sergio-Sanchez,Sergio-Sanchez,2a0f94ac,es ESP,GK,Espanyol
-3009.0,Martín Posse,/en/players/cec1d8dd/Martin-Posse,Martin-Po,cec1d8dd,ar ARG,FW,Espanyol
-3010.0,Toni Velamazán,/en/players/4a6b56a2/Toni-Velamazan,Toni-Velamaz,4a6b56a2,es ESP,MF,Espanyol
-3011.0,Daniel Jarque,/en/players/30e17646/Daniel-Jarque,Daniel-Jarqu,30e17646,es ESP,DF,Espanyol
-3012.0,Ricardo Cavas,/en/players/639b2723/Ricardo-Cavas,Ricardo-Cav,639b2723,es ESP,DF,Espanyol
-3013.0,Albert Crusat,/en/players/ba027002/Albert-Crusat,Albert-Crusat,ba027002,es ESP,"FW,MF",Espanyol
-3014.0,Alain Boghossian,/en/players/d6c5b299/Alain-Boghossian,Alain-Boghossi,d6c5b299,fr FRA,"FW,MF",Espanyol
-3015.0,Xavier Roca,/en/players/d58118a4/Xavier-Roca,Xavier-Roc,d58118a4,es ESP,DF,Espanyol
-3016.0,Arteaga,/en/players/65b6e13c/Arteaga,Arteag,65b6e13c,es ESP,MF,Espanyol
-3017.0,Pierre Womé,/en/players/981757db/Pierre-Wome,Pierre-Wom,981757db,cm CMR,DF,Espanyol
-3018.0,Mauricio Pochettino,/en/players/92c5faee/Mauricio-Pochettino,Mauricio-Pochettino,92c5faee,ar ARG,DF,Espanyol
-3019.0,Jordi Cruyff,/en/players/7ebf561b/Jordi-Cruyff,Jordi-Cruyff,7ebf561b,nl NED,"FW,MF",Espanyol
-3020.0,Mustapha Hadji,/en/players/0b1d0491/Mustapha-Hadji,Mustapha-Hadji,0b1d0491,ma MAR,MF,Espanyol
-3021.0,Adrián Bastía,/en/players/3fa806c5/Adrian-Bastia,Adrian-Basti,3fa806c5,ar ARG,MF,Espanyol
-3022.0,Raúl Molina,/en/players/91419d20/Raul-Molina,Raul-Moli,91419d20,es ESP,FW,Espanyol
-3023.0,Grégory Vignal,/en/players/5027d998/Gregory-Vignal,Gregory-Vig,5027d998,fr FRA,DF,Espanyol
-3024.0,Kevin Bobson,/en/players/accb244e/Kevin-Bobson,Kevin-Bobso,ccb244e,nl NED,FW,Espanyol
-3025.0,Héctor Simón,/en/players/6ad334dc/Hector-Simon,Hector-Simo,6ad334dc,es ESP,MF,Espanyol
-3026.0,Claudiu Răducanu,/en/players/303d15fb/Claudiu-Raducanu,Claudiu-Raducanu,303d15fb,ro ROU,FW,Espanyol
-3027.0,Luismi,/en/players/315b221b/Luismi,Luismi,315b221b,es ESP,MF,Espanyol
-3028.0,Hugo Ibarra,/en/players/d3873193/Hugo-Ibarra,Hugo-Ib,d3873193,ar ARG,DF,Espanyol
-3029.0,Didier Domi,/en/players/91736476/Didier-Domi,Didier-Domi,91736476,fr FRA,DF,Espanyol
-3030.0,Jonathan Soriano,/en/players/036fb721/Jonathan-Soriano,Jonathan-Soriano,036fb721,es ESP,FW,Espanyol
-3031.0,Biel Ribas,/en/players/8178716d/Biel-Ribas,Biel-Rib,8178716d,es ESP,GK,Espanyol
-3032.0,Eduardo Costa,/en/players/cde088c9/Eduardo-Costa,Eduardo-Cost,cde088c9,br BRA,MF,Espanyol
-3033.0,Pablo Zabaleta,/en/players/6813ac34/Pablo-Zabaleta,Pablo-Zabalet,6813ac34,ar ARG,"DF,MF",Espanyol
-3034.0,Moisés Hurtado,/en/players/1ea7254b/Moises-Hurtado,Moises-Hurtado,1ea7254b,es ESP,MF,Espanyol
-3035.0,Miquel Martínez,/en/players/a64a5dbe/Miquel-Martinez,Miquel-Martinez,64a5dbe,es ESP,MF,Espanyol
-3036.0,Albert Yagüe,/en/players/01da592d/Albert-Yague,Albert-Yagu,01da592d,es ESP,FW,Espanyol
-3037.0,Jônatas Domingos,/en/players/8714ff06/Jonatas-Domingos,Jonatas-Domingo,8714ff06,br BRA,MF,Espanyol
-3038.0,Ángel Martínez,/en/players/7eb2bab9/Angel-Martinez,Angel-Martinez,7eb2bab9,es ESP,MF,Espanyol
-3039.0,Albert Serrán,/en/players/d0d3438e/Albert-Serran,Albert-S,d0d3438e,es ESP,DF,Espanyol
-3040.0,Julián,/en/players/4e151d7c/Julian,Juli,4e151d7c,es ESP,MF,Espanyol
-3041.0,Milan Smiljanić,/en/players/646a5283/Milan-Smiljanic,Milan-Smiljanic,646a5283,rs SRB,MF,Espanyol
-3042.0,Clemente Rodríguez,/en/players/94a0c166/Clemente-Rodriguez,Clemente-Rodriguez,94a0c166,ar ARG,DF,Espanyol
-3043.0,Ewerthon,/en/players/00e15acb/Ewerthon,Ewertho,00e15acb,br BRA,FW,Espanyol
-3044.0,Jordi Gómez,/en/players/d92b0327/Jordi-Gomez,Jordi-Gomez,d92b0327,es ESP,MF,Espanyol
-3045.0,Román Martínez,/en/players/936dd5b4/Roman-Martinez,Roman-Martinez,936dd5b4,ar ARG,MF,Espanyol
-3046.0,Grégory Béranger,/en/players/3dac0268/Gregory-Beranger,Gregory-Berang,3dac0268,fr FRA,DF,Espanyol
-3047.0,Iván Alonso,/en/players/80084c87/Ivan-Alonso,Ivan-Alonso,80084c87,uy URU,FW,Espanyol
-3048.0,Steve Finnan,/en/players/5596a89f/Steve-Finnan,Steve-Fi,5596a89f,ie IRL,DF,Espanyol
-3049.0,Óscar Sielva,/en/players/a6f3fe84/Oscar-Sielva,Oscar-Sielv,6f3fe84,es ESP,MF,Espanyol
-3050.0,Cristian Álvarez,/en/players/87e89eb4/Cristian-Alvarez,Cristian-Alvarez,87e89eb4,ar ARG,GK,Espanyol
-3051.0,Juan Forlín,/en/players/ab9ca65d/Juan-Forlin,Juan-Forli,b9ca65d,ar ARG,"DF,MF",Espanyol
-3052.0,Dani Osvaldo,/en/players/3f0eba4f/Dani-Osvaldo,Dani-Osvaldo,3f0eba4f,it ITA,FW,Espanyol
-3053.0,Raúl Baena,/en/players/df9c9276/Raul-Baena,Raul-B,df9c9276,es ESP,MF,Espanyol
-3054.0,Iván Pillud,/en/players/aa07f770/Ivan-Pillud,Ivan-Pillud,07f770,ar ARG,DF,Espanyol
-3055.0,Shunsuke Nakamura,/en/players/72987abc/Shunsuke-Nakamura,Shunsuke-Nakamu,72987abc,jp JPN,MF,Espanyol
-3056.0,Ben Sahar,/en/players/eb87ec70/Ben-Sahar,Ben-Sah,b87ec70,il ISR,"FW,MF",Espanyol
-3057.0,Azrack Mahamat,/en/players/90240ceb/Azrack-Mahamat,Azrack-Mahamat,90240ceb,td CHA,"DF,MF",Espanyol
-3058.0,Javi López,/en/players/ffad706e/Javi-Lopez,Javi-Lopez,ffad706e,es ESP,"DF,MF",Espanyol
-3059.0,Ernesto Galán,/en/players/7e4af593/Ernesto-Galan,Ernesto-G,7e4af593,es ESP,DF,Espanyol
-3060.0,Álvaro Vázquez,/en/players/d2d8675a/Alvaro-Vazquez,Alvaro-Vazquez,d2d8675a,es ESP,FW,Espanyol
-3061.0,Raúl Rodríguez,/en/players/815a6c71/Raul-Rodriguez,Raul-Rodriguez,815a6c71,es ESP,DF,Espanyol
-3062.0,Jesús Dátolo,/en/players/49e7b005/Jesus-Datolo,Jesus-Datolo,49e7b005,ar ARG,MF,Espanyol
-3063.0,Manu Molina,/en/players/4a541583/Manu-Molina,Manu-Moli,4a541583,es ESP,MF,Espanyol
-3064.0,Rui Fonte,/en/players/6ff8ef56/Rui-Fonte,Rui-Font,6ff8ef56,pt POR,"FW,MF",Espanyol
-3065.0,Isaías Sánchez,/en/players/30059de4/Isaias-Sanchez,Isaias-Sanchez,30059de4,es ESP,MF,Espanyol
-3066.0,David López,/en/players/f03f284b/David-Lopez,David-Lopez,f03f284b,es ESP,"DF,MF",Espanyol
-3067.0,Thievy Bifouma,/en/players/5978dc3c/Thievy-Bifouma,Thievy-Bifoum,5978dc3c,cg CGO,"FW,MF",Espanyol
-3068.0,Eric López,/en/players/45ac80b3/Eric-Lopez,Eric-Lopez,45ac80b3,es ESP,MF,Espanyol
-3069.0,Víctor Álvarez,/en/players/563f3469/Victor-Alvarez,Victor-Alvarez,563f3469,es ESP,"DF,MF",Espanyol
-3070.0,Vladimír Weiss,/en/players/1e17dfc7/Vladimir-Weiss,Vladimir-Wei,1e17dfc7,sk SVK,"FW,MF",Espanyol
-3071.0,Kalu Uche,/en/players/6cc97b1d/Kalu-Uche,Kalu-Uch,6cc97b1d,ng NGA,"FW,MF",Espanyol
-3072.0,Cristian Gómez,/en/players/d9b41da8/Cristian-Gomez,Cristian-Gomez,d9b41da8,es ESP,MF,Espanyol
-3073.0,Juan Ángel Albín,/en/players/6be43cc9/Juan-Angel-Albin,Juan-Angel-Albi,6be43cc9,uy URU,"FW,MF",Espanyol
-3074.0,Christian Alfonso,/en/players/ecfe11fd/Christian-Alfonso,Christian-Alfonso,cfe11fd,es ESP,MF,Espanyol
-3075.0,Paul Quaye,/en/players/0c861e47/Paul-Quaye,Paul-Qu,0c861e47,gh GHA,MF,Espanyol
-3076.0,Jhon Córdoba,/en/players/9f381d8b/Jhon-Cordoba,Jhon-Cordob,9f381d8b,co COL,FW,Espanyol
-3077.0,Gabriel Torje,/en/players/9ef94c26/Gabriel-Torje,Gabriel-Torj,9ef94c26,ro ROU,"FW,MF",Espanyol
-3078.0,Manuel Lanzarote,/en/players/dff353fb/Manuel-Lanzarote,Manuel-Lanzarot,dff353fb,es ESP,MF,Espanyol
-3079.0,Anaitz Arbilla,/en/players/850c0a0d/Anaitz-Arbilla,Anaitz-Arbi,850c0a0d,es ESP,DF,Espanyol
-3080.0,Jairo Morillas,/en/players/a0414cb4/Jairo-Morillas,Jairo-Mori,0414cb4,es ESP,FW,Espanyol
-3081.0,Enzo Roco,/en/players/37f827ec/Enzo-Roco,Enzo-Roco,37f827ec,cl CHI,DF,Espanyol
-3082.0,Rubén Duarte,/en/players/1fe0492d/Ruben-Duarte,Ruben-Duart,1fe0492d,es ESP,DF,Espanyol
-3083.0,Óscar Duarte,/en/players/aa0ac32d/Oscar-Duarte,Oscar-Duart,0ac32d,cr CRC,"DF,MF",Espanyol
-3084.0,Burgui,/en/players/45e304c8/Burgui,Burgui,45e304c8,es ESP,"MF,FW",Espanyol
-3085.0,Rober Correa,/en/players/46bd3a5b/Rober-Correa,Rober-Co,46bd3a5b,es ESP,DF,Espanyol
-3086.0,Giedrius Arlauskis,/en/players/1858bbf7/Giedrius-Arlauskis,Giedrius-Arlauski,1858bbf7,lt LTU,GK,Espanyol
-3087.0,Michaël Ciani,/en/players/2ce3dc98/Michael-Ciani,Michael-Ciani,2ce3dc98,fr FRA,DF,Espanyol
-3088.0,Francesco Bardi,/en/players/0acda699/Francesco-Bardi,Francesco-Bardi,0acda699,it ITA,GK,Espanyol
-3089.0,Lluis López,/en/players/a685f013/Lluis-Lopez,Lluis-Lopez,685f013,es ESP,DF,Espanyol
-3090.0,Marc Roca,/en/players/da27e268/Marc-Roca,Marc-Roc,da27e268,es ESP,MF,Espanyol
-3091.0,Marc Navarro,/en/players/c2846353/Marc-Navarro,Marc-Navarro,c2846353,es ESP,DF,Espanyol
-3092.0,Óscar Melendo,/en/players/379652be/Oscar-Melendo,Oscar-Melendo,379652be,es ESP,MF,Espanyol
-3093.0,Carlos Sánchez,/en/players/50b51fac/Carlos-Sanchez,Carlos-Sanchez,50b51fac,co COL,MF,Espanyol
-3094.0,Eduardo Frías,/en/players/0dce7191/Eduardo-Frias,Eduardo-Fri,0dce7191,es ESP,GK,Espanyol
-3095.0,Adrián López ,/en/players/c58ebf64/Adrian-Lopez,Adrian-Lopez,c58ebf64,es ESP,GK,Espanyol
-3096.0,Naldo,/en/players/a2609621/Naldo,Naldo,2609621,br BRA,DF,Espanyol
-3097.0,Wu Lei,/en/players/e3fabb0a/Wu-Lei,Wu-Lei,3fabb0a,cn CHN,"FW,MF",Espanyol
-3098.0,Pedrosa,/en/players/112521d1/Pedrosa,Pedro,112521d1,es ESP,DF,Espanyol
-3099.0,Javi Puado,/en/players/2683eda7/Javi-Puado,Javi-Puado,2683eda7,es ESP,"FW,MF",Espanyol
-3100.0,Alejandro López,/en/players/f1887f53/Alejandro-Lopez,Alejandro-Lopez,f1887f53,es ESP,MF,Espanyol
-3101.0,Alfa Semedo,/en/players/07750704/Alfa-Semedo,Alfa-Semedo,7750704,gw GNB,MF,Espanyol
-3102.0,Víctor Campuzano,/en/players/06983922/Victor-Campuzano,Victor-Campuzano,6983922,es ESP,FW,Espanyol
-3103.0,Pipa,/en/players/10f1cd17/Pipa,Pi,10f1cd17,es ESP,"DF,MF",Espanyol
-3104.0,Adri Embarba,/en/players/db8f0eba/Adri-Embarba,Adri-Embarb,db8f0eba,es ESP,"MF,FW",Espanyol
-3105.0,Matías Vargas,/en/players/ce82f116/Matias-Vargas,Matias-Varg,ce82f116,ar ARG,"MF,FW",Espanyol
-3106.0,Nico Ribaudo,/en/players/ce8039aa/Nico-Ribaudo,Nico-Ribaudo,ce8039aa,es ESP,MF,Espanyol
-3107.0,Pol Lozano,/en/players/ea610f00/Pol-Lozano,Pol-Lozano,610f00,es ESP,MF,Espanyol
-3108.0,Kévin Soni,/en/players/6435143e/Kevin-Soni,Kevin-Soni,6435143e,cm CMR,FW,Espanyol
-3109.0,Mohamed Ezzarfani,/en/players/3e59d360/Mohamed-Ezzarfani,Mohamed-Ezzarfani,3e59d360,ma MAR,MF,Espanyol
-3110.0,Roman Tugarinov,/en/players/45668e07/Roman-Tugarinov,Roman-Tugarinov,4.57E+11,ru RUS,DF,Espanyol
-3111.0,Daniel Villahermosa,/en/players/de903ae2/Daniel-Villahermosa,Daniel-Villahermo,de903ae2,es ESP,MF,Espanyol
-3112.0,Óscar Gil,/en/players/6652cf96/Oscar-Gil,Oscar-Gi,6652cf96,es ESP,DF,Espanyol
-3113.0,Landry Dimata,/en/players/b5f63410/Landry-Dimata,Landry-Dimat,b5f63410,be BEL,FW,Espanyol
-3114.0,Omar El Hilali,/en/players/139560df/Omar-El-Hilali,Omar-El-Hilali,139560df,ma MAR,DF,Espanyol
-3115.0,Jofre,/en/players/030ef8d6/Jofre,Jof,030ef8d6,es ESP,FW,Espanyol
-3116.0,Max Svensson,/en/players/cf603737/Max-Svensson,Max-Svensso,cf603737,es ESP,FW,Espanyol
-3117.0,Fortuño,/en/players/c81b26e2/Fortuno,Fortuno,c81b26e2,es ESP,GK,Espanyol
-3118.0,Joan García,/en/players/87b498b0/Joan-Garcia,Joan-Garci,87b498b0,es ESP,GK,Espanyol
-3119.0,Gori,/en/players/f3451c66/Gori,Gori,f3451c66,es ESP,MF,Espanyol
-3120.0,Alejandro Pérez,/en/players/6f990683/Alejandro-Perez,Alejandro-Perez,6f990683,es ESP,DF,Espanyol
-3121.0,Iker Piedra,/en/players/83bf7e40/Iker-Piedra,Iker-Pied,83bf7e40,es ESP,GK,Espanyol
-3122.0,Ricard Pujol,/en/players/94d9b392/Ricard-Pujol,Ricard-Pujo,94d9b392,es ESP,DF,Espanyol
-3123.0,Rubén,/en/players/35d4f151/Ruben,Rub,35d4f151,es ESP,DF,Espanyol
-3124.0,Nabil Touaizi,/en/players/e96b2583/Nabil-Touaizi,Nabil-Touaizi,96b2583,ma MAR,FW,Espanyol
-3125.0,Yangel Herrera,/en/players/e778654a/Yangel-Herrera,Yangel-H,778654a,ve VEN,MF,Espanyol
-3126.0,Tonny Vilhena,/en/players/c7069d87/Tonny-Vilhena,Tonny-Vilh,c7069d87,nl NED,"MF,FW",Espanyol
-3127.0,Lluís Recasens,/en/players/c31ea173/Lluis-Recasens,Lluis-Rec,c31ea173,es ESP,DF,Espanyol
-3128.0,Luca Koleosho,/en/players/fc076f78/Luca-Koleosho,Luca-Koleosho,fc076f78,ca CAN,FW,Espanyol
-3129.0,Aleix Gorjon,/en/players/24ade474/Aleix-Gorjon,Aleix-Gorjo,24ade474,es ESP,DF,Espanyol
-3130.0,Roger Martínez,/en/players/937c6ae6/Roger-Martinez,Roger-Martinez,937c6ae6,es ESP,MF,Espanyol
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+3886.0,﻿Maxi Rodríguez,/en/players/4f06b1e0/Maxi-Rodriguez,Maxi-Rodriguez,4f06b1e0,ar ARG,"FW,MF",Espanyol
+3887.0,Antonio Soldevilla,/en/players/6a88843a/Antonio-Soldevilla,Antonio-Soldevi,6a88843a,es ESP,DF,Espanyol
+3888.0,Cyril Domoraud,/en/players/0c0ac13c/Cyril-Domoraud,Cyril-Domoraud,0c0ac13c,ci CIV,DF,Espanyol
+3889.0,David García,/en/players/f47bf593/David-Garcia,David-Garci,f47bf593,es ESP,DF,Espanyol
+3890.0,Roger,/en/players/78bc5697/Roger,Rog,78bc5697,es ESP,MF,Espanyol
+3891.0,Savo Milošević,/en/players/bab73c39/Savo-Milosevic,Savo-Milosevic,bab73c39,rs SRB,FW,Espanyol
+3892.0,Raúl Tamudo,/en/players/c026089c/Raul-Tamudo,Raul-Tamudo,c026089c,es ESP,FW,Espanyol
+3893.0,Alberto Lopo,/en/players/17cd5bb7/Alberto-Lopo,Alberto-Lopo,17cd5bb7,es ESP,DF,Espanyol
+3894.0,Ángel Morales,/en/players/ba7ae976/Angel-Morales,Angel-Mo,ba7ae976,es ESP,MF,Espanyol
+3895.0,Toni Jiménez,/en/players/c59ba0f4/Toni-Jimenez,Toni-Jimenez,c59ba0f4,es ESP,GK,Espanyol
+3896.0,Moreno Torricelli,/en/players/3103b024/Moreno-Torricelli,Moreno-Torricelli,3103b024,it ITA,DF,Espanyol
+3897.0,Iván de la Peña,/en/players/96a4976d/Ivan-de-la-Pena,Ivan-de-la-P,96a4976d,es ESP,MF,Espanyol
+3898.0,Mauro Navas,/en/players/97fe2167/Mauro-Navas,Mauro-Nav,97fe2167,ar ARG,DF,Espanyol
+3899.0,Alfredo Argensó,/en/players/90b67cf9/Alfredo-Argenso,Alfredo-Argenso,90b67cf9,es ESP,GK,Espanyol
+3900.0,Òscar,/en/players/ae93cd06/Oscar,Osc,93cd06,es ESP,"FW,MF",Espanyol
+3901.0,Alex Fernández,/en/players/79a22469/Alex-Fernandez,Alex-Fernandez,79a22469,es ESP,MF,Espanyol
+3902.0,Fredson,/en/players/5232d39f/Fredson,Fredso,5232d39f,br BRA,"DF,MF",Espanyol
+3903.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Espanyol
+3904.0,Iván Amaya,/en/players/1ed358ee/Ivan-Amaya,Ivan-Am,1ed358ee,es ESP,DF,Espanyol
+3905.0,Sergio Sánchez,/en/players/2a0f94ac/Sergio-Sanchez,Sergio-Sanchez,2a0f94ac,es ESP,GK,Espanyol
+3906.0,Martín Posse,/en/players/cec1d8dd/Martin-Posse,Martin-Po,cec1d8dd,ar ARG,FW,Espanyol
+3907.0,Toni Velamazán,/en/players/4a6b56a2/Toni-Velamazan,Toni-Velamaz,4a6b56a2,es ESP,MF,Espanyol
+3908.0,José Juan Luque,/en/players/eb874847/Jose-Juan-Luque,Jose-Juan-Luqu,b874847,es ESP,MF,Espanyol
+3909.0,Daniel Jarque,/en/players/30e17646/Daniel-Jarque,Daniel-Jarqu,30e17646,es ESP,DF,Espanyol
+3910.0,Ricardo Cavas,/en/players/639b2723/Ricardo-Cavas,Ricardo-Cav,639b2723,es ESP,DF,Espanyol
+3911.0,Albert Crusat,/en/players/ba027002/Albert-Crusat,Albert-Crusat,ba027002,es ESP,"FW,MF",Espanyol
+3912.0,Alain Boghossian,/en/players/d6c5b299/Alain-Boghossian,Alain-Boghossi,d6c5b299,fr FRA,"FW,MF",Espanyol
+3913.0,Xavier Roca,/en/players/d58118a4/Xavier-Roca,Xavier-Roc,d58118a4,es ESP,DF,Espanyol
+3914.0,Arteaga,/en/players/65b6e13c/Arteaga,Arteag,65b6e13c,es ESP,MF,Espanyol
+3915.0,Erwin Lemmens,/en/players/a7a1a4c9/Erwin-Lemmens,Erwin-Lemm,7a1a4c9,be BEL,GK,Espanyol
+3916.0,Pierre Womé,/en/players/981757db/Pierre-Wome,Pierre-Wom,981757db,cm CMR,DF,Espanyol
+3917.0,Mauricio Pochettino,/en/players/92c5faee/Mauricio-Pochettino,Mauricio-Pochettino,92c5faee,ar ARG,DF,Espanyol
+3918.0,Jordi Cruyff,/en/players/7ebf561b/Jordi-Cruyff,Jordi-Cruyff,7ebf561b,nl NED,"FW,MF",Espanyol
+3919.0,Tayfun Korkut,/en/players/8fafc61c/Tayfun-Korkut,Tayfun-Korkut,8fafc61c,tr TUR,"DF,MF",Espanyol
+3920.0,Mustapha Hadji,/en/players/0b1d0491/Mustapha-Hadji,Mustapha-Hadji,0b1d0491,ma MAR,MF,Espanyol
+3921.0,Adrián Bastía,/en/players/3fa806c5/Adrian-Bastia,Adrian-Basti,3fa806c5,ar ARG,MF,Espanyol
+3922.0,Raúl Molina,/en/players/91419d20/Raul-Molina,Raul-Moli,91419d20,es ESP,FW,Espanyol
+3923.0,Grégory Vignal,/en/players/5027d998/Gregory-Vignal,Gregory-Vig,5027d998,fr FRA,DF,Espanyol
+3924.0,Kevin Bobson,/en/players/accb244e/Kevin-Bobson,Kevin-Bobso,ccb244e,nl NED,FW,Espanyol
+3925.0,Carlos García,/en/players/2f21a57c/Carlos-Garcia,Carlos-Garci,2f21a57c,es ESP,DF,Espanyol
+3926.0,Héctor Simón,/en/players/6ad334dc/Hector-Simon,Hector-Simo,6ad334dc,es ESP,MF,Espanyol
+3927.0,Claudiu Răducanu,/en/players/303d15fb/Claudiu-Raducanu,Claudiu-Raducanu,303d15fb,ro ROU,FW,Espanyol
+3928.0,Ferran Corominas,/en/players/46d0c528/Ferran-Corominas,Ferran-Coromi,46d0c528,es ESP,"FW,MF",Espanyol
+3929.0,Luismi,/en/players/315b221b/Luismi,Luismi,315b221b,es ESP,MF,Espanyol
+3930.0,﻿Carlos Kameni,/en/players/867c7fb3/Carlos-Kameni,Carlos-Kameni,867c7fb3,cm CMR,GK,Espanyol
+3931.0,Ito,/en/players/dc620005/Ito,Ito,dc620005,es ESP,MF,Espanyol
+3932.0,Hugo Ibarra,/en/players/d3873193/Hugo-Ibarra,Hugo-Ib,d3873193,ar ARG,DF,Espanyol
+3933.0,Óscar Serrano,/en/players/c862ecc5/Oscar-Serrano,Oscar-Serrano,c862ecc5,es ESP,MF,Espanyol
+3934.0,Dani García,/en/players/68411ed5/Dani-Garcia,Dani-Garci,68411ed5,es ESP,FW,Espanyol
+3935.0,José Amavisca,/en/players/2cf17c90/Jose-Amavisca,Jose-Amavisc,2cf17c90,es ESP,"FW,MF",Espanyol
+3936.0,Didier Domi,/en/players/91736476/Didier-Domi,Didier-Domi,91736476,fr FRA,DF,Espanyol
+3937.0,Jonathan Soriano,/en/players/036fb721/Jonathan-Soriano,Jonathan-Soriano,036fb721,es ESP,FW,Espanyol
+3938.0,Óscar Miñambres,/en/players/8e27322b/Oscar-Minambres,Oscar-Minamb,8e27322b,es ESP,"DF,MF",Espanyol
+3939.0,Sergio Sánchez,/en/players/83a83b0a/Sergio-Sanchez,Sergio-Sanchez,83a83b0a,es ESP,DF,Espanyol
+3940.0,Biel Ribas,/en/players/8178716d/Biel-Ribas,Biel-Rib,8178716d,es ESP,GK,Espanyol
+3941.0,Luis García,/en/players/70df8d7c/Luis-Garcia,Luis-Garci,70df8d7c,es ESP,"FW,MF",Espanyol
+3942.0,Eduardo Costa,/en/players/cde088c9/Eduardo-Costa,Eduardo-Cost,cde088c9,br BRA,MF,Espanyol
+3943.0,Pablo Zabaleta,/en/players/6813ac34/Pablo-Zabaleta,Pablo-Zabalet,6813ac34,ar ARG,"DF,MF",Espanyol
+3944.0,Gorka Iraizoz,/en/players/26f2473f/Gorka-Iraizoz,Gorka-Iraizoz,26f2473f,es ESP,GK,Espanyol
+3945.0,Juanfran,/en/players/cfd8d664/Juanfran,Juanf,cfd8d664,es ESP,"DF,MF",Espanyol
+3946.0,Moisés Hurtado,/en/players/1ea7254b/Moises-Hurtado,Moises-Hurtado,1ea7254b,es ESP,MF,Espanyol
+3947.0,Armando Sá,/en/players/3f76ff2b/Armando-Sa,Armando-S,3f76ff2b,mz MOZ,DF,Espanyol
+3948.0,Walter Pandiani,/en/players/11899bb1/Walter-Pandiani,Walter-Pandiani,11899bb1,uy URU,FW,Espanyol
+3949.0,Albert Riera,/en/players/3a0a5056/Albert-Riera,Albert-Ri,3a0a5056,es ESP,"DF,FW",Espanyol
+3950.0,Jofre,/en/players/90bf887c/Jofre,Jof,90bf887c,es ESP,MF,Espanyol
+3951.0,Miquel Martínez,/en/players/a64a5dbe/Miquel-Martinez,Miquel-Martinez,64a5dbe,es ESP,MF,Espanyol
+3952.0,Albert Yagüe,/en/players/01da592d/Albert-Yague,Albert-Yagu,01da592d,es ESP,FW,Espanyol
+3953.0,Francisco Rufete,/en/players/95aca6cd/Francisco-Rufete,Francisco-Rufet,95aca6cd,es ESP,MF,Espanyol
+3954.0,Marc Torrejón,/en/players/6d7ff2c4/Marc-Torrejon,Marc-Torrejo,6d7ff2c4,es ESP,DF,Espanyol
+3955.0,Javier Chica,/en/players/991b2cec/Javier-Chica,Javier-Chic,991b2cec,es ESP,DF,Espanyol
+3956.0,Jesús María Lacruz,/en/players/ee381989/Jesus-Maria-Lacruz,Jesus-Maria-Lacruz,381989,es ESP,DF,Espanyol
+3957.0,Juan Velasco Damas,/en/players/6630e590/Juan-Velasco-Damas,Juan-Velasco-Dam,6630e590,es ESP,DF,Espanyol
+3958.0,Jônatas Domingos,/en/players/8714ff06/Jonatas-Domingos,Jonatas-Domingo,8714ff06,br BRA,MF,Espanyol
+3959.0,Moha,/en/players/e3d09e03/Moha,Moh,3d09e03,ma MAR,"DF,FW",Espanyol
+3960.0,Ángel Martínez,/en/players/7eb2bab9/Angel-Martinez,Angel-Martinez,7eb2bab9,es ESP,MF,Espanyol
+3961.0,Albert Serrán,/en/players/d0d3438e/Albert-Serran,Albert-S,d0d3438e,es ESP,DF,Espanyol
+3962.0,Julián,/en/players/4e151d7c/Julian,Juli,4e151d7c,es ESP,MF,Espanyol
+3963.0,Miguel Palanca,/en/players/005ade52/Miguel-Palanca,Miguel-Palanc,005ade52,es ESP,"FW,MF",Espanyol
+3964.0,Valdo,/en/players/5d34e206/Valdo,Valdo,5d34e206,cv CPV,"FW,MF",Espanyol
+3965.0,Milan Smiljanić,/en/players/646a5283/Milan-Smiljanic,Milan-Smiljanic,646a5283,rs SRB,MF,Espanyol
+3966.0,Clemente Rodríguez,/en/players/94a0c166/Clemente-Rodriguez,Clemente-Rodriguez,94a0c166,ar ARG,DF,Espanyol
+3967.0,Ewerthon,/en/players/00e15acb/Ewerthon,Ewertho,00e15acb,br BRA,FW,Espanyol
+3968.0,Iñaki Lafuente,/en/players/a1757556/Inaki-Lafuente,Inaki-Lafuent,1757556,es ESP,GK,Espanyol
+3969.0,Kiko Casilla,/en/players/58bc7d18/Kiko-Casilla,Kiko-Casi,58bc7d18,es ESP,GK,Espanyol
+3970.0,Jordi Gómez,/en/players/d92b0327/Jordi-Gomez,Jordi-Gomez,d92b0327,es ESP,MF,Espanyol
+3971.0,Nenê,/en/players/265ebd37/Nene,N,265ebd37,br BRA,"FW,MF",Espanyol
+3972.0,Román Martínez,/en/players/936dd5b4/Roman-Martinez,Roman-Martinez,936dd5b4,ar ARG,MF,Espanyol
+3973.0,Grégory Béranger,/en/players/3dac0268/Gregory-Beranger,Gregory-Berang,3dac0268,fr FRA,DF,Espanyol
+3974.0,Iván Alonso,/en/players/80084c87/Ivan-Alonso,Ivan-Alonso,80084c87,uy URU,FW,Espanyol
+3975.0,José Callejón,/en/players/78841da9/Jose-Callejon,Jose-Callejo,78841da9,es ESP,"FW,MF",Espanyol
+3976.0,Steve Finnan,/en/players/5596a89f/Steve-Finnan,Steve-Fi,5596a89f,ie IRL,DF,Espanyol
+3977.0,Óscar Sielva,/en/players/a6f3fe84/Oscar-Sielva,Oscar-Sielv,6f3fe84,es ESP,MF,Espanyol
+3978.0,Cristian Álvarez,/en/players/87e89eb4/Cristian-Alvarez,Cristian-Alvarez,87e89eb4,ar ARG,GK,Espanyol
+3979.0,Joan Verdú,/en/players/61508522/Joan-Verdu,Joan-Verdu,61508522,es ESP,MF,Espanyol
+3980.0,Nicolás Pareja,/en/players/a92669f6/Nicolas-Pareja,Nicolas-Parej,92669f6,ar ARG,DF,Espanyol
+3981.0,Juan Forlín,/en/players/ab9ca65d/Juan-Forlin,Juan-Forli,b9ca65d,ar ARG,"DF,MF",Espanyol
+3982.0,Dani Osvaldo,/en/players/3f0eba4f/Dani-Osvaldo,Dani-Osvaldo,3f0eba4f,it ITA,FW,Espanyol
+3983.0,Facundo Roncaglia,/en/players/51e3954c/Facundo-Roncaglia,Facundo-Roncagli,51e3954c,ar ARG,DF,Espanyol
+3984.0,Javi Márquez,/en/players/40c7cdd2/Javi-Marquez,Javi-Marquez,40c7cdd2,es ESP,MF,Espanyol
+3985.0,Raúl Baena,/en/players/df9c9276/Raul-Baena,Raul-B,df9c9276,es ESP,MF,Espanyol
+3986.0,Dídac Vilà,/en/players/bad38a94/Didac-Vila,Didac-Vi,bad38a94,es ESP,DF,Espanyol
+3987.0,Fernando Marqués,/en/players/71cccc52/Fernando-Marques,Fernando-Marqu,71cccc52,es ESP,MF,Espanyol
+3988.0,Iván Pillud,/en/players/aa07f770/Ivan-Pillud,Ivan-Pillud,07f770,ar ARG,DF,Espanyol
+3989.0,Shunsuke Nakamura,/en/players/72987abc/Shunsuke-Nakamura,Shunsuke-Nakamu,72987abc,jp JPN,MF,Espanyol
+3990.0,Ben Sahar,/en/players/eb87ec70/Ben-Sahar,Ben-Sah,b87ec70,il ISR,"FW,MF",Espanyol
+3991.0,Jordi Amat,/en/players/d70a2141/Jordi-Amat,Jordi-Amat,d70a2141,es ESP,DF,Espanyol
+3992.0,Azrack Mahamat,/en/players/90240ceb/Azrack-Mahamat,Azrack-Mahamat,90240ceb,td CHA,"DF,MF",Espanyol
+3993.0,Javi López,/en/players/ffad706e/Javi-Lopez,Javi-Lopez,ffad706e,es ESP,"DF,MF",Espanyol
+3994.0,Marc Pedraza,/en/players/ff8f26ef/Marc-Pedraza,Marc-Pedraz,ff8f26ef,es ESP,MF,Espanyol
+3995.0,Ernesto Galán,/en/players/7e4af593/Ernesto-Galan,Ernesto-G,7e4af593,es ESP,DF,Espanyol
+3996.0,Víctor Ruiz,/en/players/b3dc6eca/Victor-Ruiz,Victor-Ruiz,b3dc6eca,es ESP,"DF,MF",Espanyol
+3997.0,Aldo Duscher,/en/players/44944ca7/Aldo-Duscher,Aldo-Dusch,44944ca7,ar ARG,MF,Espanyol
+3998.0,Sergio García,/en/players/2bee98fd/Sergio-Garcia,Sergio-Garci,2bee98fd,es ESP,"FW,MF",Espanyol
+3999.0,Álvaro Vázquez,/en/players/d2d8675a/Alvaro-Vazquez,Alvaro-Vazquez,d2d8675a,es ESP,FW,Espanyol
+4000.0,Raúl Rodríguez,/en/players/815a6c71/Raul-Rodriguez,Raul-Rodriguez,815a6c71,es ESP,DF,Espanyol
+4001.0,Jesús Dátolo,/en/players/49e7b005/Jesus-Datolo,Jesus-Datolo,49e7b005,ar ARG,MF,Espanyol
+4002.0,Manu Molina,/en/players/4a541583/Manu-Molina,Manu-Moli,4a541583,es ESP,MF,Espanyol
+4003.0,Rui Fonte,/en/players/6ff8ef56/Rui-Fonte,Rui-Font,6ff8ef56,pt POR,"FW,MF",Espanyol
+4004.0,Isaías Sánchez,/en/players/30059de4/Isaias-Sanchez,Isaias-Sanchez,30059de4,es ESP,MF,Espanyol
+4005.0,David López,/en/players/f03f284b/David-Lopez,David-Lopez,f03f284b,es ESP,"DF,MF",Espanyol
+4006.0,Thievy Bifouma,/en/players/5978dc3c/Thievy-Bifouma,Thievy-Bifoum,5978dc3c,cg CGO,"FW,MF",Espanyol
+4007.0,Eric López,/en/players/45ac80b3/Eric-Lopez,Eric-Lopez,45ac80b3,es ESP,MF,Espanyol
+4008.0,Víctor Álvarez,/en/players/563f3469/Victor-Alvarez,Victor-Alvarez,563f3469,es ESP,"DF,MF",Espanyol
+4009.0,Héctor Moreno,/en/players/5d311e8d/Hector-Moreno,Hector-Moreno,5d311e8d,mx MEX,DF,Espanyol
+4010.0,Vladimír Weiss,/en/players/1e17dfc7/Vladimir-Weiss,Vladimir-Wei,1e17dfc7,sk SVK,"FW,MF",Espanyol
+4011.0,Philippe Coutinho,/en/players/0ef89a37/Philippe-Coutinho,Philippe-Coutinho,0ef89a37,br BRA,"FW,MF",Espanyol
+4012.0,Kalu Uche,/en/players/6cc97b1d/Kalu-Uche,Kalu-Uch,6cc97b1d,ng NGA,"FW,MF",Espanyol
+4013.0,Cristian Gómez,/en/players/d9b41da8/Cristian-Gomez,Cristian-Gomez,d9b41da8,es ESP,MF,Espanyol
+4014.0,Víctor Sánchez,/en/players/ad4d0985/Victor-Sanchez,Victor-Sanchez,d4d0985,es ESP,"DF,MF",Espanyol
+4015.0,Juan Ángel Albín,/en/players/6be43cc9/Juan-Angel-Albin,Juan-Angel-Albi,6be43cc9,uy URU,"FW,MF",Espanyol
+4016.0,Christian Alfonso,/en/players/ecfe11fd/Christian-Alfonso,Christian-Alfonso,cfe11fd,es ESP,MF,Espanyol
+4017.0,Bacari,/en/players/318ad79c/Bacari,Bacari,318ad79c,gm GAM,FW,Espanyol
+4018.0,Paul Quaye,/en/players/0c861e47/Paul-Quaye,Paul-Qu,0c861e47,gh GHA,MF,Espanyol
+4019.0,Diego Colotto,/en/players/d9d4e0c0/Diego-Colotto,Diego-Colotto,d9d4e0c0,ar ARG,DF,Espanyol
+4020.0,Joan Capdevila,/en/players/69697a6d/Joan-Capdevila,Joan-Capdevi,69697a6d,es ESP,DF,Espanyol
+4021.0,Cristhian Stuani,/en/players/220c11f1/Cristhian-Stuani,Cristhian-Stuani,220c11f1,uy URU,"FW,MF",Espanyol
+4022.0,Simão Sabrosa,/en/players/76a65612/Simao-Sabrosa,Simao-Sabro,76a65612,pt POR,MF,Espanyol
+4023.0,Samuele Longo,/en/players/1163de29/Samuele-Longo,Samuele-Longo,1163de29,it ITA,FW,Espanyol
+4024.0,Felipe Mattioni,/en/players/8dbe6343/Felipe-Mattioni,Felipe-Mattioni,8dbe6343,br BRA,DF,Espanyol
+4025.0,Sergio Tejera,/en/players/3d5734ef/Sergio-Tejera,Sergio-Tej,3d5734ef,es ESP,MF,Espanyol
+4026.0,Martin Petrov,/en/players/011360ce/Martin-Petrov,Martin-Petrov,011360ce,bg BUL,"FW,MF",Espanyol
+4027.0,Juan Rafael Fuentes,/en/players/5b54a75f/Juan-Rafael-Fuentes,Juan-Rafael-Fuent,5b54a75f,es ESP,DF,Espanyol
+4028.0,Pizzi,/en/players/96094cbc/Pizzi,Pizzi,96094cbc,pt POR,"FW,MF",Espanyol
+4029.0,Jhon Córdoba,/en/players/9f381d8b/Jhon-Cordoba,Jhon-Cordob,9f381d8b,co COL,FW,Espanyol
+4030.0,Sidnei,/en/players/b14d0c5d/Sidnei,Sidnei,b14d0c5d,br BRA,DF,Espanyol
+4031.0,Gabriel Torje,/en/players/9ef94c26/Gabriel-Torje,Gabriel-Torj,9ef94c26,ro ROU,"FW,MF",Espanyol
+4032.0,Manuel Lanzarote,/en/players/dff353fb/Manuel-Lanzarote,Manuel-Lanzarot,dff353fb,es ESP,MF,Espanyol
+4033.0,Álex Fernández,/en/players/aa677a35/Alex-Fernandez,Alex-Fernandez,677a35,es ESP,"DF,MF",Espanyol
+4034.0,Germán Parreño,/en/players/1561cd53/German-Parreno,German-Parreno,1561cd53,es ESP,GK,Espanyol
+4035.0,Carlos Clerc,/en/players/33a61a52/Carlos-Clerc,Carlos-Clerc,33a61a52,es ESP,DF,Espanyol
+4036.0,Álvaro González,/en/players/42dcf26d/Alvaro-Gonzalez,Alvaro-Gonzalez,42dcf26d,es ESP,DF,Espanyol
+4037.0,Lucas Vázquez,/en/players/fd51b456/Lucas-Vazquez,Lucas-Vazquez,fd51b456,es ESP,"DF,FW",Espanyol
+4038.0,Anaitz Arbilla,/en/players/850c0a0d/Anaitz-Arbilla,Anaitz-Arbi,850c0a0d,es ESP,DF,Espanyol
+4039.0,Felipe Caicedo,/en/players/93b891d1/Felipe-Caicedo,Felipe-Caicedo,93b891d1,ec ECU,"FW,MF",Espanyol
+4040.0,José Cañas,/en/players/ab77f2d9/Jose-Canas,Jose-C,b77f2d9,es ESP,MF,Espanyol
+4041.0,Salva Sevilla,/en/players/75bd85ea/Salva-Sevilla,Salva-Sevi,75bd85ea,es ESP,MF,Espanyol
+4042.0,Abraham González,/en/players/682bd745/Abraham-Gonzalez,Abraham-Gonzalez,682bd745,es ESP,MF,Espanyol
+4043.0,Paco Montañés,/en/players/9cc493b1/Paco-Montanes,Paco-Mont,9cc493b1,es ESP,"FW,MF",Espanyol
+4044.0,Eric Bailly,/en/players/a1232f4e/Eric-Bailly,Eric-Bai,1232f4e,ci CIV,DF,Espanyol
+4045.0,Pau López,/en/players/20b9f052/Pau-Lopez,Pau-Lopez,20b9f052,es ESP,GK,Espanyol
+4046.0,Joan Jordán,/en/players/2a0c8ba4/Joan-Jordan,Joan-Jord,2a0c8ba4,es ESP,MF,Espanyol
+4047.0,Jairo Morillas,/en/players/a0414cb4/Jairo-Morillas,Jairo-Mori,0414cb4,es ESP,FW,Espanyol
+4048.0,Julián Luque Conde,/en/players/61d8d347/Julian-Luque-Conde,Julian-Luque-Cond,61d8d347,es ESP,"FW,MF",Espanyol
+4049.0,Andrés Prieto,/en/players/113fb4ea/Andres-Prieto,Andres-Prieto,113fb4ea,es ESP,GK,Espanyol
+4050.0,Marco Asensio,/en/players/45af8a54/Marco-Asensio,Marco-Asensio,45af8a54,es ESP,"MF,FW",Espanyol
+4051.0,Papakouli Diop,/en/players/7329018e/Papakouli-Diop,Papakouli-Dio,7329018e,sn SEN,MF,Espanyol
+4052.0,Hernán Pérez,/en/players/e1cea3f7/Hernan-Perez,Hernan-Perez,1cea3f7,py PAR,"MF,FW",Espanyol
+4053.0,Enzo Roco,/en/players/37f827ec/Enzo-Roco,Enzo-Roco,37f827ec,cl CHI,DF,Espanyol
+4054.0,Rubén Duarte,/en/players/1fe0492d/Ruben-Duarte,Ruben-Duart,1fe0492d,es ESP,DF,Espanyol
+4055.0,Gerard Moreno,/en/players/81f0781e/Gerard-Moreno,Gerard-Moreno,81f0781e,es ESP,"FW,MF",Espanyol
+4056.0,Óscar Duarte,/en/players/aa0ac32d/Oscar-Duarte,Oscar-Duart,0ac32d,cr CRC,"DF,MF",Espanyol
+4057.0,Burgui,/en/players/45e304c8/Burgui,Burgui,45e304c8,es ESP,"MF,FW",Espanyol
+4058.0,Rober Correa,/en/players/46bd3a5b/Rober-Correa,Rober-Co,46bd3a5b,es ESP,DF,Espanyol
+4059.0,Antonio Raillo,/en/players/b857bd29/Antonio-Raillo,Antonio-Raillo,b857bd29,es ESP,DF,Espanyol
+4060.0,Giedrius Arlauskis,/en/players/1858bbf7/Giedrius-Arlauskis,Giedrius-Arlauski,1858bbf7,lt LTU,GK,Espanyol
+4061.0,Mamadou Sylla,/en/players/e5ec95f8/Mamadou-Sylla,Mamadou-S,5ec95f8,sn SEN,FW,Espanyol
+4062.0,Michaël Ciani,/en/players/2ce3dc98/Michael-Ciani,Michael-Ciani,2ce3dc98,fr FRA,DF,Espanyol
+4063.0,Francesco Bardi,/en/players/0acda699/Francesco-Bardi,Francesco-Bardi,0acda699,it ITA,GK,Espanyol
+4064.0,Lluis López,/en/players/a685f013/Lluis-Lopez,Lluis-Lopez,685f013,es ESP,DF,Espanyol
+4065.0,Diego López,/en/players/73683fa9/Diego-Lopez,Diego-Lopez,73683fa9,es ESP,GK,Espanyol
+4066.0,Diego Reyes,/en/players/d4f46475/Diego-Reyes,Diego-R,d4f46475,mx MEX,DF,Espanyol
+4067.0,Pablo Piatti,/en/players/48e89655/Pablo-Piatti,Pablo-Piatti,48e89655,ar ARG,MF,Espanyol
+4068.0,Javi Fuego,/en/players/2e8fc160/Javi-Fuego,Javi-Fuego,2e8fc160,es ESP,MF,Espanyol
+4069.0,Aarón Martín,/en/players/2f3e911a/Aaron-Martin,Aaron-Marti,2f3e911a,es ESP,DF,Espanyol
+4070.0,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,Jose-Manuel-Jurado,71d4e271,es ESP,MF,Espanyol
+4071.0,Léo Baptistão,/en/players/35f6db55/Leo-Baptistao,Leo-Baptistao,35f6db55,br BRA,"FW,MF",Espanyol
+4072.0,Marc Roca,/en/players/da27e268/Marc-Roca,Marc-Roc,da27e268,es ESP,MF,Espanyol
+4073.0,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,Jose-Antonio-R,19058f02,es ESP,"MF,FW",Espanyol
+4074.0,Marc Navarro,/en/players/c2846353/Marc-Navarro,Marc-Navarro,c2846353,es ESP,DF,Espanyol
+4075.0,Roberto,/en/players/ba3ca78f/Roberto,Roberto,ba3ca78f,es ESP,GK,Espanyol
+4076.0,Óscar Melendo,/en/players/379652be/Oscar-Melendo,Oscar-Melendo,379652be,es ESP,MF,Espanyol
+4077.0,Martín Demichelis,/en/players/e9c7102a/Martin-Demichelis,Martin-Demicheli,9c7102a,ar ARG,DF,Espanyol
+4078.0,Sergi Darder,/en/players/070a3904/Sergi-Darder,Sergi-Dard,070a3904,es ESP,MF,Espanyol
+4079.0,Mario Hermoso,/en/players/555f3a0b/Mario-Hermoso,Mario-Hermoso,555f3a0b,es ESP,DF,Espanyol
+4080.0,Carlos Sánchez,/en/players/50b51fac/Carlos-Sanchez,Carlos-Sanchez,50b51fac,co COL,MF,Espanyol
+4081.0,Esteban Granero,/en/players/1b17ed86/Esteban-Granero,Esteban-Granero,1b17ed86,es ESP,MF,Espanyol
+4082.0,Eduardo Frías,/en/players/0dce7191/Eduardo-Frias,Eduardo-Fri,0dce7191,es ESP,GK,Espanyol
+4083.0,Adrián López ,/en/players/c58ebf64/Adrian-Lopez,Adrian-Lopez,c58ebf64,es ESP,GK,Espanyol
+4084.0,Borja Iglesias,/en/players/75645f0e/Borja-Iglesias,Borja-Iglesi,75645f0e,es ESP,FW,Espanyol
+4085.0,Roberto Rosales,/en/players/81069528/Roberto-Rosales,Roberto-Ro,81069528,ve VEN,DF,Espanyol
+4086.0,Naldo,/en/players/a2609621/Naldo,Naldo,2609621,br BRA,DF,Espanyol
+4087.0,Wu Lei,/en/players/e3fabb0a/Wu-Lei,Wu-Lei,3fabb0a,cn CHN,"FW,MF",Espanyol
+4088.0,Pedrosa,/en/players/112521d1/Pedrosa,Pedro,112521d1,es ESP,DF,Espanyol
+4089.0,Javi Puado,/en/players/2683eda7/Javi-Puado,Javi-Puado,2683eda7,es ESP,"FW,MF",Espanyol
+4090.0,Facundo Ferreyra,/en/players/b39a793e/Facundo-Ferreyra,Facundo-F,b39a793e,ar ARG,FW,Espanyol
+4091.0,Alejandro López,/en/players/f1887f53/Alejandro-Lopez,Alejandro-Lopez,f1887f53,es ESP,MF,Espanyol
+4092.0,Alfa Semedo,/en/players/07750704/Alfa-Semedo,Alfa-Semedo,07750704,gw GNB,MF,Espanyol
+4093.0,Víctor Campuzano,/en/players/06983922/Victor-Campuzano,Victor-Campuzano,06983922,es ESP,FW,Espanyol
+4094.0,Pipa,/en/players/10f1cd17/Pipa,Pi,10f1cd17,es ESP,"DF,MF",Espanyol
+4095.0,Bernardo Espinosa,/en/players/4242011c/Bernardo-Espinosa,Bernardo-Espino,4242011c,co COL,DF,Espanyol
+4096.0,Jonathan Calleri,/en/players/6922f806/Jonathan-Calleri,Jonathan-Calleri,6922f806,ar ARG,FW,Espanyol
+4097.0,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,Leandro-Cab,69cbc8b6,uy URU,DF,Espanyol
+4098.0,Adri Embarba,/en/players/db8f0eba/Adri-Embarba,Adri-Embarb,db8f0eba,es ESP,"MF,FW",Espanyol
+4099.0,Victor Perea,/en/players/b7de5bad/Victor-Perea,Victor-P,b7de5bad,es ESP,"DF,FW",Espanyol
+4100.0,Fernando Calero,/en/players/41b3069f/Fernando-Calero,Fernando-Calero,41b3069f,es ESP,DF,Espanyol
+4101.0,Raúl de Tomás,/en/players/02ef8778/Raul-de-Tomas,Raul-de-Tom,02ef8778,es ESP,FW,Espanyol
+4102.0,Matías Vargas,/en/players/ce82f116/Matias-Vargas,Matias-Varg,ce82f116,ar ARG,"MF,FW",Espanyol
+4103.0,Sébastien Corchia,/en/players/0e7ccfc4/Sebastien-Corchia,Sebastien-Corchi,0e7ccfc4,fr FRA,DF,Espanyol
+4104.0,Ander Iturraspe,/en/players/6dce77a5/Ander-Iturraspe,Ander-Itu,6dce77a5,es ESP,MF,Espanyol
+4105.0,Nico Ribaudo,/en/players/ce8039aa/Nico-Ribaudo,Nico-Ribaudo,ce8039aa,es ESP,MF,Espanyol
+4106.0,Oier Olazábal,/en/players/b5bdf144/Oier-Olazabal,Oier-Olazab,b5bdf144,es ESP,GK,Espanyol
+4107.0,Pol Lozano,/en/players/ea610f00/Pol-Lozano,Pol-Lozano,610f00,es ESP,MF,Espanyol
+4108.0,Kévin Soni,/en/players/6435143e/Kevin-Soni,Kevin-Soni,6435143e,cm CMR,FW,Espanyol
+4109.0,Mohamed Ezzarfani,/en/players/3e59d360/Mohamed-Ezzarfani,Mohamed-Ezzarfani,3e59d360,ma MAR,MF,Espanyol
+4110.0,Jutglà,/en/players/2a9f6b4d/Jutgla,Jutg,2a9f6b4d,es ESP,FW,Espanyol
+4111.0,Roman Tugarinov,/en/players/45668e07/Roman-Tugarinov,Roman-Tugarinov,45668e07,ru RUS,DF,Espanyol
+4112.0,Daniel Villahermosa,/en/players/de903ae2/Daniel-Villahermosa,Daniel-Villahermo,de903ae2,es ESP,MF,Espanyol
+4113.0,Óscar Gil,/en/players/6652cf96/Oscar-Gil,Oscar-Gi,6652cf96,es ESP,DF,Espanyol
+4114.0,Miguel Juan Llambrich,/en/players/d83f09ff/Miguel-Juan-Llambrich,Miguel-Juan-Llambrich,d83f09ff,es ESP,DF,Espanyol
+4115.0,Landry Dimata,/en/players/b5f63410/Landry-Dimata,Landry-Dimat,b5f63410,be BEL,FW,Espanyol
+4116.0,Fran Mérida,/en/players/0e50f929/Fran-Merida,Fran-Merid,0e50f929,es ESP,MF,Espanyol
+4117.0,Omar El Hilali,/en/players/139560df/Omar-El-Hilali,Omar-El-Hilali,139560df,ma MAR,DF,Espanyol
+4118.0,Álvaro Vadillo,/en/players/61b62b33/Alvaro-Vadillo,Alvaro-Vadillo,61b62b33,es ESP,"FW,MF",Espanyol
+4119.0,Jofre,/en/players/030ef8d6/Jofre,Jof,030ef8d6,es ESP,FW,Espanyol
+4120.0,Max Svensson,/en/players/cf603737/Max-Svensson,Max-Svensso,cf603737,es ESP,FW,Espanyol
+4121.0,Fortuño,/en/players/c81b26e2/Fortuno,Fortuno,c81b26e2,es ESP,GK,Espanyol
+4122.0,Joan García,/en/players/87b498b0/Joan-Garcia,Joan-Garci,87b498b0,es ESP,GK,Espanyol
+4123.0,Gori,/en/players/f3451c66/Gori,Gori,f3451c66,es ESP,MF,Espanyol
+4124.0,Alejandro Pérez,/en/players/6f990683/Alejandro-Perez,Alejandro-Perez,6f990683,es ESP,DF,Espanyol
+4125.0,Iker Piedra,/en/players/83bf7e40/Iker-Piedra,Iker-Pied,83bf7e40,es ESP,GK,Espanyol
+4126.0,Ricard Pujol,/en/players/94d9b392/Ricard-Pujol,Ricard-Pujo,94d9b392,es ESP,DF,Espanyol
+4127.0,Rubén,/en/players/35d4f151/Ruben,Rub,35d4f151,es ESP,DF,Espanyol
+4128.0,Nabil Touaizi,/en/players/e96b2583/Nabil-Touaizi,Nabil-Touaizi,96b2583,ma MAR,FW,Espanyol
+4129.0,Sergi Gómez,/en/players/bc6f5f06/Sergi-Gomez,Sergi-Gomez,bc6f5f06,es ESP,DF,Espanyol
+4130.0,Aleix Vidal,/en/players/04965583/Aleix-Vidal,Aleix-Vid,04965583,es ESP,"DF,MF",Espanyol
+4131.0,Yangel Herrera,/en/players/e778654a/Yangel-Herrera,Yangel-H,778654a,ve VEN,MF,Espanyol
+4132.0,Keidi Bare,/en/players/03049c8c/Keidi-Bare,Keidi-B,03049c8c,al ALB,MF,Espanyol
+4133.0,Tonny Vilhena,/en/players/c7069d87/Tonny-Vilhena,Tonny-Vilh,c7069d87,nl NED,"MF,FW",Espanyol
+4134.0,Manu Morlanes,/en/players/a0255c67/Manu-Morlanes,Manu-Mo,0255c67,es ESP,MF,Espanyol
+4135.0,Loren Morón,/en/players/3aa4a3be/Loren-Moron,Loren-Moro,3aa4a3be,es ESP,"FW,MF",Espanyol
+4136.0,Lluís Recasens,/en/players/c31ea173/Lluis-Recasens,Lluis-Rec,c31ea173,es ESP,DF,Espanyol
+4137.0,Luca Koleosho,/en/players/fc076f78/Luca-Koleosho,Luca-Koleosho,fc076f78,ca CAN,FW,Espanyol
+4138.0,Aleix Gorjon,/en/players/24ade474/Aleix-Gorjon,Aleix-Gorjo,24ade474,es ESP,DF,Espanyol
+4139.0,Roger Martínez,/en/players/937c6ae6/Roger-Martinez,Roger-Martinez,937c6ae6,es ESP,MF,Espanyol

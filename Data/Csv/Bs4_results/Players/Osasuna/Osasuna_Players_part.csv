@@ -1,146 +1,225 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-1977.0,﻿César Cruchaga,/en/players/a8ba9d44/Cesar-Cruchaga,Cesar-Cruchag,8ba9d44,es ESP,DF,Osasuna
-1978.0,Ricardo Sanzol,/en/players/1aa419de/Ricardo-Sanzol,Ricardo-Sanzo,1aa419de,es ESP,GK,Osasuna
-1979.0,Iván Rosado,/en/players/21bbfc0b/Ivan-Rosado,Ivan-Rosado,21bbfc0b,es ESP,FW,Osasuna
-1980.0,Francisco Puñal,/en/players/408ec22e/Francisco-Punal,Francisco-Pu,408ec22e,es ESP,MF,Osasuna
-1981.0,Gerardo Rivero,/en/players/fec0ded5/Gerardo-Rivero,Gerardo-Rivero,fec0ded5,ar ARG,MF,Osasuna
-1982.0,José Manuel Mateo,/en/players/d7458f0a/Jose-Manuel-Mateo,Jose-Manuel-Mateo,d7458f0a,es ESP,DF,Osasuna
-1983.0,John Aloisi,/en/players/747e3a0d/John-Aloisi,John-Aloisi,747e3a0d,au AUS,FW,Osasuna
-1984.0,Alfredo,/en/players/f150686a/Alfredo,Alfredo,f150686a,es ESP,MF,Osasuna
-1985.0,Josetxo,/en/players/c1a297b4/Josetxo,Josetxo,c1a297b4,es ESP,DF,Osasuna
-1986.0,Leonel Gancedo,/en/players/cc525f3d/Leonel-Gancedo,Leonel-Gancedo,cc525f3d,ar ARG,MF,Osasuna
-1987.0,José Manuel Yanguas,/en/players/ae3a7b7e/Jose-Manuel-Yanguas,Jose-Manuel-Yangu,3a7b7e,es ESP,DF,Osasuna
-1988.0,José Izquierdo,/en/players/f6a5a723/Jose-Izquierdo,Jose-Izquierdo,f6a5a723,es ESP,DF,Osasuna
-1989.0,Valdo,/en/players/5d34e206/Valdo,Valdo,5d34e206,cv CPV,"FW,MF",Osasuna
-1990.0,Christian Manfredini,/en/players/339ae404/Christian-Manfredini,Christian-Manfredini,339ae404,ci CIV,MF,Osasuna
-1991.0,Richard Morales,/en/players/6ec5c12a/Richard-Morales,Richard-Mo,6ec5c12a,uy URU,FW,Osasuna
-1992.0,Manuel Vidrio,/en/players/902aa75f/Manuel-Vidrio,Manuel-Vidrio,902aa75f,mx MEX,DF,Osasuna
-1993.0,Juan Carlos Unzué,/en/players/d3cfa24a/Juan-Carlos-Unzue,Juan-Carlos-Unzu,d3cfa24a,es ESP,GK,Osasuna
-1994.0,Paqui,/en/players/cf8ddf0b/Paqui,Paqui,cf8ddf0b,es ESP,DF,Osasuna
-1995.0,César Palacios,/en/players/dc32054b/Cesar-Palacios,Cesar-Palacio,dc32054b,es ESP,MF,Osasuna
-1996.0,Gorka Brit,/en/players/18fea665/Gorka-Brit,Gorka-Brit,18fea665,es ESP,FW,Osasuna
-1997.0,Carlos Ochoa,/en/players/cfc2e8c9/Carlos-Ochoa,Carlos-Ocho,cfc2e8c9,mx MEX,FW,Osasuna
-1998.0,Gorka de Carlos,/en/players/d0ebf2ea/Gorka-de-Carlos,Gorka-de-Carlo,d0ebf2ea,es ESP,FW,Osasuna
-1999.0,Ángel Lekumberri,/en/players/a7f69653/Angel-Lekumberri,Angel-Lekumberri,7f69653,es ESP,MF,Osasuna
-2000.0,Ibrahima Bakayoko,/en/players/db4c20fe/Ibrahima-Bakayoko,Ibrahima-Bakayoko,db4c20fe,ci CIV,FW,Osasuna
-2001.0,Gorka García,/en/players/07adf7c8/Gorka-Garcia,Gorka-Garci,07adf7c8,es ESP,DF,Osasuna
-2002.0,Carlos Cuéllar,/en/players/1222ab35/Carlos-Cuellar,Carlos-Cu,1222ab35,es ESP,DF,Osasuna
-2003.0,Juan Elía,/en/players/50ce646b/Juan-Elia,Juan-Eli,50ce646b,es ESP,GK,Osasuna
-2004.0,Julio César Pinheiro,/en/players/669d5615/Julio-Cesar-Pinheiro,Julio-Cesar-Pinheiro,669d5615,br BRA,MF,Osasuna
-2005.0,Juan Ángel Seguro,/en/players/241f0a81/Juan-Angel-Seguro,Juan-Angel-Seguro,241f0a81,mx MEX,MF,Osasuna
-2006.0,Ludovic Delporte,/en/players/7c2c4c3e/Ludovic-Delporte,Ludovic-Delport,7c2c4c3e,fr FRA,MF,Osasuna
-2007.0,Juan Manuel Ortiz,/en/players/77513881/Juan-Manuel-Ortiz,Juan-Manuel-Ortiz,77513881,es ESP,"DF,MF",Osasuna
-2008.0,Rafael Clavero,/en/players/1590d66a/Rafael-Clavero,Rafael-Clavero,1590d66a,es ESP,DF,Osasuna
-2009.0,Miguel Flaño,/en/players/1662668d/Miguel-Flano,Miguel-Flano,1662668d,es ESP,DF,Osasuna
-2010.0,Ricardo,/en/players/2fe713ed/Ricardo,Ricardo,2fe713ed,es ESP,GK,Osasuna
-2011.0,Javier Flaño,/en/players/8e9ccfb8/Javier-Flano,Javier-Flano,8e9ccfb8,es ESP,DF,Osasuna
-2012.0,Marcelo Sosa,/en/players/08ada3d0/Marcelo-Sosa,Marcelo-So,08ada3d0,uy URU,MF,Osasuna
-2013.0,Fran Moreno,/en/players/12096092/Fran-Moreno,Fran-Moreno,12096092,es ESP,MF,Osasuna
-2014.0,Javad Nekounam,/en/players/baccd726/Javad-Nekounam,Javad-Nekounam,baccd726,ir IRN,MF,Osasuna
-2015.0,Héctor Font,/en/players/9982593d/Hector-Font,Hector-Font,9982593d,es ESP,MF,Osasuna
-2016.0,Jon Erice,/en/players/39da8b1f/Jon-Erice,Jon-Eric,39da8b1f,es ESP,MF,Osasuna
-2017.0,César Azpilicueta,/en/players/53cad200/Cesar-Azpilicueta,Cesar-Azpilicuet,53cad200,es ESP,"DF,MF",Osasuna
-2018.0,Jokin Esparza,/en/players/04db7b72/Jokin-Esparza,Jokin-Esparz,04db7b72,es ESP,"FW,MF",Osasuna
-2019.0,Jaroslav Plašil,/en/players/516dc25b/Jaroslav-Plasil,Jaroslav-Plasi,516dc25b,cz CZE,MF,Osasuna
-2020.0,Dady,/en/players/00d9c74d/Dady,Dad,00d9c74d,cv CPV,FW,Osasuna
-2021.0,Xavier Margairaz,/en/players/6335f692/Xavier-Margairaz,Xavier-Margairaz,6335f692,ch SUI,MF,Osasuna
-2022.0,Martín Astudillo,/en/players/fda30cfc/Martin-Astudillo,Martin-Astudillo,fda30cfc,ar ARG,MF,Osasuna
-2023.0,Andrés Fernández,/en/players/307fcd26/Andres-Fernandez,Andres-Fernandez,307fcd26,es ESP,GK,Osasuna
-2024.0,Ion Echaide,/en/players/2ad367bb/Ion-Echaide,Ion-Echaid,2ad367bb,es ESP,DF,Osasuna
-2025.0,Roberto,/en/players/95cf42ac/Roberto,Roberto,95cf42ac,es ESP,GK,Osasuna
-2026.0,Masoud Shojaei,/en/players/a898d91e/Masoud-Shojaei,Masoud-Shojaei,898d91e,ir IRN,MF,Osasuna
-2027.0,Krisztián Vadócz,/en/players/b4b0e333/Krisztian-Vadocz,Krisztian-Vadocz,b4b0e333,hu HUN,MF,Osasuna
-2028.0,Antonio Hidalgo,/en/players/b5b88d6c/Antonio-Hidalgo,Antonio-Hidalgo,b5b88d6c,es ESP,MF,Osasuna
-2029.0,Rúper,/en/players/570c4db3/Ruper,Ru,570c4db3,es ESP,MF,Osasuna
-2030.0,Javier Calleja,/en/players/3c99e7de/Javier-Calleja,Javier-Callej,3c99e7de,es ESP,MF,Osasuna
-2031.0,Jorge Galán,/en/players/aeaee48a/Jorge-Galan,Jorge-G,48a,es ESP,FW,Osasuna
-2032.0,Alan Baró,/en/players/44bdd1f9/Alan-Baro,Alan-Baro,44bdd1f9,es ESP,"DF,MF",Osasuna
-2033.0,Fernando Soriano,/en/players/1aa72854/Fernando-Soriano,Fernando-Soriano,1aa72854,es ESP,MF,Osasuna
-2034.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,"DF,MF",Osasuna
-2035.0,Xavi Annunziata,/en/players/e146dbda/Xavi-Annunziata,Xavi-Annunziat,146dbda,es ESP,"FW,MF",Osasuna
-2036.0,Nino,/en/players/03dc5b1f/Nino,Nino,03dc5b1f,es ESP,"FW,MF",Osasuna
-2037.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Osasuna
-2038.0,Roland Lamah,/en/players/336a36fb/Roland-Lamah,Roland-Lamah,336a36fb,be BEL,"FW,MF",Osasuna
-2039.0,Ibrahima Baldé,/en/players/573b6680/Ibrahima-Balde,Ibrahima-Bald,573b6680,sn SEN,FW,Osasuna
-2040.0,Jukka Raitala,/en/players/67b054d1/Jukka-Raitala,Jukka-Rait,67b054d1,fi FIN,DF,Osasuna
-2041.0,Eneko Satrústegui,/en/players/b7ce700f/Eneko-Satrustegui,Eneko-Satrustegui,b7ce700f,es ESP,DF,Osasuna
-2042.0,Dejan Lekić,/en/players/f73b1a65/Dejan-Lekic,Dejan-Lekic,f73b1a65,rs SRB,FW,Osasuna
-2043.0,Raoul Loé,/en/players/afcf961b/Raoul-Loe,Raoul-Lo,fcf961b,cm CMR,MF,Osasuna
-2044.0,Manuel Onwu,/en/players/344376b6/Manuel-Onwu,Manuel-Onwu,344376b6,es ESP,FW,Osasuna
-2045.0,Roberto Torres,/en/players/d733aa38/Roberto-Torres,Roberto-To,d733aa38,es ESP,MF,Osasuna
-2046.0,Marcos,/en/players/b2b79f32/Marcos,Marco,b2b79f32,es ESP,DF,Osasuna
-2047.0,Miguel de las Cuevas,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,Miguel-de-las-Cuev,2e1cf3d2,es ESP,MF,Osasuna
-2048.0,Francisco Silva,/en/players/11d68e60/Francisco-Silva,Francisco-Silv,11d68e60,cl CHI,"DF,MF",Osasuna
-2049.0,Sisi,/en/players/add7ec92/Sisi,Sisi,dd7ec92,es ESP,"FW,MF",Osasuna
-2050.0,Anthony Annan,/en/players/1c524d4a/Anthony-Annan,Anthony-A,1c524d4a,gh GHA,MF,Osasuna
-2051.0,Unai García,/en/players/4a633cfe/Unai-Garcia,Unai-Garci,4a633cfe,es ESP,DF,Osasuna
-2052.0,Maikel Mesa,/en/players/2afb7b21/Maikel-Mesa,Maikel-M,2afb7b21,es ESP,MF,Osasuna
-2053.0,Jordan Lotiès,/en/players/64864d05/Jordan-Loties,Jordan-Loti,64864d05,fr FRA,DF,Osasuna
-2054.0,José Ariel Núñez,/en/players/c98a821e/Jose-Ariel-Nunez,Jose-Ariel-Nunez,c98a821e,py PAR,"FW,MF",Osasuna
-2055.0,Cristian Lobato,/en/players/a7ac9c6d/Cristian-Lobato,Cristian-Lobato,7ac9c6d,es ESP,"FW,MF",Osasuna
-2056.0,José García,/en/players/9463b38c/Jose-Garcia,Jose-Garci,9463b38c,es ESP,"FW,MF",Osasuna
-2057.0,David García,/en/players/3e42f707/David-Garcia,David-Garci,3e42f707,es ESP,"DF,MF",Osasuna
-2058.0,Nikola Vujadinović,/en/players/c6b17f4f/Nikola-Vujadinovic,Nikola-Vujadinovic,c6b17f4f,me MNE,DF,Osasuna
-2059.0,Karim Ansarifard,/en/players/50cddd19/Karim-Ansarifard,Karim-Ansarifard,50cddd19,ir IRN,FW,Osasuna
-2060.0,Miguel Olavide,/en/players/4bed972b/Miguel-Olavide,Miguel-Olavid,4bed972b,es ESP,MF,Osasuna
-2061.0,Yoel Sola,/en/players/ff9b498c/Yoel-Sola,Yoel-So,ff9b498c,es ESP,MF,Osasuna
-2062.0,Aitor Buñuel,/en/players/6555c592/Aitor-Bunuel,Aitor-Bunu,6555c592,es ESP,DF,Osasuna
-2063.0,Kike Barja,/en/players/aad53e64/Kike-Barja,Kike-Barj,d53e64,es ESP,MF,Osasuna
-2064.0,De Frutos,/en/players/18454316/De-Frutos,De-Fruto,18454316,es ESP,DF,Osasuna
-2065.0,Antonio Otegui,/en/players/b7d5bc5e/Antonio-Otegui,Antonio-Otegui,b7d5bc5e,es ESP,MF,Osasuna
-2066.0,Juan Pérez,/en/players/8f29e08b/Juan-Perez,Juan-Perez,8f29e08b,es ESP,GK,Osasuna
-2067.0,Alexander Satrústegui,/en/players/800ae875/Alexander-Satrustegui,Alexander-Satrustegui,800ae875,es ESP,FW,Osasuna
-2068.0,﻿Nauzet Pérez,/en/players/d7ffd345/Nauzet-Perez,Nauzet-Perez,d7ffd345,es ESP,GK,Osasuna
-2069.0,Tano Bonnín,/en/players/1a6f612d/Tano-Bonnin,Tano-Bonni,1a6f612d,do DOM,DF,Osasuna
-2070.0,Matej Pučko,/en/players/4078b9b1/Matej-Pucko,Matej-Pucko,4078b9b1,si SVN,"FW,MF",Osasuna
-2071.0,Manuel,/en/players/b43437c4/Manuel,Manu,b43437c4,es ESP,MF,Osasuna
-2072.0,Luís Martins,/en/players/56b7c09b/Luis-Martins,Luis-Marti,56b7c09b,pt POR,DF,Osasuna
-2073.0,Bogdan Milić,/en/players/cfd0299b/Bogdan-Milic,Bogdan-Milic,cfd0299b,me MNE,FW,Osasuna
-2074.0,Javi Martínez,/en/players/7a2ea84d/Javi-Martinez,Javi-Martinez,7a2ea84d,es ESP,FW,Osasuna
-2075.0,Adrián Cruz,/en/players/c39bc7cb/Adrian-Cruz,Adrian-Cruz,c39bc7cb,es ESP,MF,Osasuna
-2076.0,Álex Sánchez,/en/players/927c7264/Alex-Sanchez,Alex-Sanchez,927c7264,es ESP,FW,Osasuna
-2077.0,Miguel Díaz,/en/players/4fc0311a/Miguel-Diaz,Miguel-Diaz,4fc0311a,es ESP,MF,Osasuna
-2078.0,Mario Fernández,/en/players/02c89cb6/Mario-Fernandez,Mario-Fernandez,02c89cb6,es ESP,GK,Osasuna
-2079.0,Goran Čaušić,/en/players/6938d79b/Goran-Causic,Goran-Causic,6938d79b,rs SRB,MF,Osasuna
-2080.0,Carlos Clerc,/en/players/33a61a52/Carlos-Clerc,Carlos-Clerc,33a61a52,es ESP,"DF,MF",Osasuna
-2081.0,Juan Rafael Fuentes,/en/players/5b54a75f/Juan-Rafael-Fuentes,Juan-Rafael-Fuent,5b54a75f,es ESP,DF,Osasuna
-2082.0,Jaime Romero,/en/players/e28205f4/Jaime-Romero,Jaime-Romero,28205f4,es ESP,"MF,FW",Osasuna
-2083.0,Emmanuel Rivière,/en/players/2bae5658/Emmanuel-Riviere,Emmanuel-Rivi,2bae5658,fr FRA,"FW,MF",Osasuna
-2084.0,Imanol García,/en/players/a90ed68c/Imanol-Garcia,Imanol-Garci,90ed68c,es ESP,"MF,DF",Osasuna
-2085.0,Jhon Steven,/en/players/c67b3538/Jhon-Steven,Jhon-Stev,c67b3538,co COL,DF,Osasuna
-2086.0,Iván Márquez,/en/players/691d6a54/Ivan-Marquez,Ivan-Marquez,691d6a54,es ESP,DF,Osasuna
-2087.0,Álvaro Fernández,/en/players/f127d782/Alvaro-Fernandez,Alvaro-Fernandez,f127d782,es ESP,GK,Osasuna
-2088.0,Luis Perea,/en/players/8dc6dbb3/Luis-Perea,Luis-P,8dc6dbb3,es ESP,MF,Osasuna
-2089.0,Javi Álamo,/en/players/ffd69308/Javi-Alamo,Javi-Alamo,ffd69308,es ESP,"FW,MF",Osasuna
-2090.0,﻿Sergio Herrera,/en/players/a4995f48/Sergio-Herrera,Sergio-H,4995f48,es ESP,GK,Osasuna
-2091.0,Lucas Torró,/en/players/0e4fef6e/Lucas-Torro,Lucas-Torro,0e4fef6e,es ESP,MF,Osasuna
-2092.0,Aridane Hernández,/en/players/132ac341/Aridane-Hernandez,Aridane-Hernandez,132ac341,gq EQG,DF,Osasuna
-2093.0,Sebas Coris,/en/players/b18da471/Sebas-Coris,Sebas-Cori,b18da471,es ESP,MF,Osasuna
-2094.0,Joaquín Arzura,/en/players/0eeb0b2f/Joaquin-Arzura,Joaquin-Arzu,0eeb0b2f,ar ARG,MF,Osasuna
-2095.0,Mateo García,/en/players/62db2015/Mateo-Garcia,Mateo-Garci,62db2015,ar ARG,MF,Osasuna
-2096.0,Rubén García,/en/players/5c96b017/Ruben-Garcia,Ruben-Garci,5c96b017,es ESP,"MF,FW",Osasuna
-2097.0,Juan Villar,/en/players/c33ee247/Juan-Villar,Juan-Vi,c33ee247,es ESP,"FW,MF",Osasuna
-2098.0,Endika Irigoyen,/en/players/f24700f7/Endika-Irigoyen,Endika-Irigo,f24700f7,es ESP,DF,Osasuna
-2099.0,Javi Martínez,/en/players/3672b352/Javi-Martinez,Javi-Martinez,3672b352,es ESP,MF,Osasuna
-2100.0,Aimar Oroz,/en/players/7c363088/Aimar-Oroz,Aimar-Oroz,7c363088,es ESP,MF,Osasuna
-2101.0,Barbero,/en/players/981c1863/Barbero,Barbero,981c1863,es ESP,FW,Osasuna
-2102.0,Iván Martínez,/en/players/4916ebd8/Ivan-Martinez,Ivan-Martinez,4916ebd8,es ESP,GK,Osasuna
-2103.0,Jon Moncayola,/en/players/9939e168/Jon-Moncayola,Jon-Moncayo,9.94E+171,es ESP,MF,Osasuna
-2104.0,Ezequiel Ávila,/en/players/253a06b9/Ezequiel-Avila,Ezequiel-Avi,253a06b9,ar ARG,FW,Osasuna
-2105.0,Enric Gallego,/en/players/82e9b89d/Enric-Gallego,Enric-Gallego,82e9b89d,es ESP,FW,Osasuna
-2106.0,José Hualde,/en/players/2e5c0b73/Jose-Hualde,Jose-Huald,2e5c0b73,es ESP,MF,Osasuna
-2107.0,Iñaki,/en/players/036336ce/Inaki,Inaki,036336ce,es ESP,GK,Osasuna
-2108.0,Juan Cruz Armada,/en/players/a56da3ba/Juan-Cruz-Armada,Juan-Cruz-Armad,56da3ba,es ESP,DF,Osasuna
-2109.0,Jonathan Calleri,/en/players/6922f806/Jonathan-Calleri,Jonathan-Calleri,6922f806,ar ARG,FW,Osasuna
-2110.0,Manuel Sánchez,/en/players/ffacd3d5/Manuel-Sanchez,Manuel-Sanchez,ffacd3d5,es ESP,DF,Osasuna
-2111.0,Jony,/en/players/244f57b9/Jony,Jo,244f57b9,es ESP,"MF,FW",Osasuna
-2112.0,Asier Córdoba,/en/players/5ff577e6/Asier-Cordoba,Asier-Cordob,5ff577e6,es ESP,FW,Osasuna
-2113.0,Gorka Zabarte,/en/players/31f33499/Gorka-Zabarte,Gorka-Zabart,31f33499,es ESP,DF,Osasuna
-2114.0,Kike,/en/players/e897d8ba/Kike,Kik,897d8ba,es ESP,FW,Osasuna
-2115.0,Jesús Areso,/en/players/94e01ec6/Jesus-Areso,Jesus-Areso,94e01ec6,es ESP,DF,Osasuna
-2116.0,Iker Benito,/en/players/50cbc806/Iker-Benito,Iker-Benito,50cbc806,es ESP,"MF,FW",Osasuna
-2117.0,Unai Dufur,/en/players/c261b5dd/Unai-Dufur,Unai-Dufu,c261b5dd,es ESP,DF,Osasuna
-2118.0,Javier Ontiveros,/en/players/a83d8b0c/Javier-Ontiveros,Javier-Ontivero,83d8b0c,es ESP,"FW,MF",Osasuna
-2119.0,Jaume Grau,/en/players/fc3d2006/Jaume-Grau,Jaume-Grau,fc3d2006,es ESP,MF,Osasuna
-2120.0,Pau Martínez,/en/players/bf01474e/Pau-Martinez,Pau-Martinez,bf01474e,es ESP,FW,Osasuna
-2121.0,Yoel Ramírez,/en/players/bcd2dac9/Yoel-Ramirez,Yoel-Ramirez,bcd2dac9,es ESP,GK,Osasuna
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+2287.0,﻿César Cruchaga,/en/players/a8ba9d44/Cesar-Cruchaga,Cesar-Cruchag,8ba9d44,es ESP,DF,Osasuna
+2288.0,Antonio López,/en/players/e55190d5/Antonio-Lopez,Antonio-Lopez,55190d5,es ESP,"DF,MF",Osasuna
+2289.0,Ricardo Sanzol,/en/players/1aa419de/Ricardo-Sanzol,Ricardo-Sanzo,1aa419de,es ESP,GK,Osasuna
+2290.0,Iván Rosado,/en/players/21bbfc0b/Ivan-Rosado,Ivan-Rosado,21bbfc0b,es ESP,FW,Osasuna
+2291.0,Francisco Puñal,/en/players/408ec22e/Francisco-Punal,Francisco-Pu,408ec22e,es ESP,MF,Osasuna
+2292.0,Gerardo Rivero,/en/players/fec0ded5/Gerardo-Rivero,Gerardo-Rivero,fec0ded5,ar ARG,MF,Osasuna
+2293.0,José Manuel Mateo,/en/players/d7458f0a/Jose-Manuel-Mateo,Jose-Manuel-Mateo,d7458f0a,es ESP,DF,Osasuna
+2294.0,John Aloisi,/en/players/747e3a0d/John-Aloisi,John-Aloisi,747e3a0d,au AUS,FW,Osasuna
+2295.0,Alfredo,/en/players/f150686a/Alfredo,Alfredo,f150686a,es ESP,MF,Osasuna
+2296.0,Josetxo,/en/players/c1a297b4/Josetxo,Josetxo,c1a297b4,es ESP,DF,Osasuna
+2297.0,Pablo García,/en/players/911299ca/Pablo-Garcia,Pablo-Garci,911299ca,uy URU,"DF,MF",Osasuna
+2298.0,Moha,/en/players/e3d09e03/Moha,Moh,3d09e03,ma MAR,"DF,FW",Osasuna
+2299.0,Leonel Gancedo,/en/players/cc525f3d/Leonel-Gancedo,Leonel-Gancedo,cc525f3d,ar ARG,MF,Osasuna
+2300.0,José Manuel Yanguas,/en/players/ae3a7b7e/Jose-Manuel-Yanguas,Jose-Manuel-Yangu,3a7b7e,es ESP,DF,Osasuna
+2301.0,José Izquierdo,/en/players/f6a5a723/Jose-Izquierdo,Jose-Izquierdo,f6a5a723,es ESP,DF,Osasuna
+2302.0,Valdo,/en/players/5d34e206/Valdo,Valdo,5d34e206,cv CPV,"FW,MF",Osasuna
+2303.0,Iñaki Muñoz,/en/players/47a19ca1/Inaki-Munoz,Inaki-Munoz,47a19ca1,es ESP,MF,Osasuna
+2304.0,Christian Manfredini,/en/players/339ae404/Christian-Manfredini,Christian-Manfredini,339ae404,ci CIV,MF,Osasuna
+2305.0,Richard Morales,/en/players/6ec5c12a/Richard-Morales,Richard-Mo,6ec5c12a,uy URU,FW,Osasuna
+2306.0,Manuel Vidrio,/en/players/902aa75f/Manuel-Vidrio,Manuel-Vidrio,902aa75f,mx MEX,DF,Osasuna
+2307.0,Juan Carlos Unzué,/en/players/d3cfa24a/Juan-Carlos-Unzue,Juan-Carlos-Unzu,d3cfa24a,es ESP,GK,Osasuna
+2308.0,Paqui,/en/players/cf8ddf0b/Paqui,Paqui,cf8ddf0b,es ESP,DF,Osasuna
+2309.0,César Palacios,/en/players/dc32054b/Cesar-Palacios,Cesar-Palacio,dc32054b,es ESP,MF,Osasuna
+2310.0,Gorka Brit,/en/players/18fea665/Gorka-Brit,Gorka-Brit,18fea665,es ESP,FW,Osasuna
+2311.0,Carlos Ochoa,/en/players/cfc2e8c9/Carlos-Ochoa,Carlos-Ocho,cfc2e8c9,mx MEX,FW,Osasuna
+2312.0,Gorka de Carlos,/en/players/d0ebf2ea/Gorka-de-Carlos,Gorka-de-Carlo,d0ebf2ea,es ESP,FW,Osasuna
+2313.0,Ángel Lekumberri,/en/players/a7f69653/Angel-Lekumberri,Angel-Lekumberri,7f69653,es ESP,MF,Osasuna
+2314.0,Ibrahima Bakayoko,/en/players/db4c20fe/Ibrahima-Bakayoko,Ibrahima-Bakayoko,db4c20fe,ci CIV,FW,Osasuna
+2315.0,Pierre Webó,/en/players/3d6f05ea/Pierre-Webo,Pierre-Webo,3d6f05ea,cm CMR,FW,Osasuna
+2316.0,Gorka García,/en/players/07adf7c8/Gorka-Garcia,Gorka-Garci,07adf7c8,es ESP,DF,Osasuna
+2317.0,Carlos Cuéllar,/en/players/1222ab35/Carlos-Cuellar,Carlos-Cu,1222ab35,es ESP,DF,Osasuna
+2318.0,Juan Elía,/en/players/50ce646b/Juan-Elia,Juan-Eli,50ce646b,es ESP,GK,Osasuna
+2319.0,Unai Expósito,/en/players/3aca2200/Unai-Exposito,Unai-Exposito,3aca2200,es ESP,DF,Osasuna
+2320.0,Julio César Pinheiro,/en/players/669d5615/Julio-Cesar-Pinheiro,Julio-Cesar-Pinheiro,669d5615,br BRA,MF,Osasuna
+2321.0,Juan Ángel Seguro,/en/players/241f0a81/Juan-Angel-Seguro,Juan-Angel-Seguro,241f0a81,mx MEX,MF,Osasuna
+2322.0,Savo Milošević,/en/players/bab73c39/Savo-Milosevic,Savo-Milosevic,bab73c39,rs SRB,FW,Osasuna
+2323.0,Ludovic Delporte,/en/players/7c2c4c3e/Ludovic-Delporte,Ludovic-Delport,7c2c4c3e,fr FRA,MF,Osasuna
+2324.0,Juan Manuel Ortiz,/en/players/77513881/Juan-Manuel-Ortiz,Juan-Manuel-Ortiz,77513881,es ESP,"DF,MF",Osasuna
+2325.0,Rafael Clavero,/en/players/1590d66a/Rafael-Clavero,Rafael-Clavero,1590d66a,es ESP,DF,Osasuna
+2326.0,David López,/en/players/a698164e/David-Lopez,David-Lopez,698164e,es ESP,MF,Osasuna
+2327.0,Miguel Flaño,/en/players/1662668d/Miguel-Flano,Miguel-Flano,1662668d,es ESP,DF,Osasuna
+2328.0,Raúl García,/en/players/b418dbd4/Raul-Garcia,Raul-Garci,b418dbd4,es ESP,"FW,MF",Osasuna
+2329.0,Ricardo,/en/players/2fe713ed/Ricardo,Ricardo,2fe713ed,es ESP,GK,Osasuna
+2330.0,Javier Flaño,/en/players/8e9ccfb8/Javier-Flano,Javier-Flano,8e9ccfb8,es ESP,DF,Osasuna
+2331.0,Bernardo Romeo,/en/players/d46625bb/Bernardo-Romeo,Bernardo-Romeo,d46625bb,ar ARG,FW,Osasuna
+2332.0,Enrique Corrales,/en/players/a8dbcf66/Enrique-Corrales,Enrique-Co,8dbcf66,es ESP,DF,Osasuna
+2333.0,Marcelo Sosa,/en/players/08ada3d0/Marcelo-Sosa,Marcelo-So,08ada3d0,uy URU,MF,Osasuna
+2334.0,Fran Moreno,/en/players/12096092/Fran-Moreno,Fran-Moreno,12096092,es ESP,MF,Osasuna
+2335.0,Roberto Soldado,/en/players/9d66fbe3/Roberto-Soldado,Roberto-Soldado,9d66fbe3,es ESP,FW,Osasuna
+2336.0,Javad Nekounam,/en/players/baccd726/Javad-Nekounam,Javad-Nekounam,baccd726,ir IRN,MF,Osasuna
+2337.0,Juanfran,/en/players/cfd8d664/Juanfran,Juanf,cfd8d664,es ESP,"DF,MF",Osasuna
+2338.0,Nacho Monreal,/en/players/d4cb83cc/Nacho-Monreal,Nacho-Mo,d4cb83cc,es ESP,DF,Osasuna
+2339.0,Juanlu,/en/players/94b88487/Juanlu,Juanlu,94b88487,es ESP,MF,Osasuna
+2340.0,Héctor Font,/en/players/9982593d/Hector-Font,Hector-Font,9982593d,es ESP,MF,Osasuna
+2341.0,Jon Erice,/en/players/39da8b1f/Jon-Erice,Jon-Eric,39da8b1f,es ESP,MF,Osasuna
+2342.0,Enrique Sola,/en/players/bef2e50e/Enrique-Sola,Enrique-So,bef2e50e,es ESP,FW,Osasuna
+2343.0,César Azpilicueta,/en/players/53cad200/Cesar-Azpilicueta,Cesar-Azpilicuet,53cad200,es ESP,"DF,MF",Osasuna
+2344.0,Jokin Esparza,/en/players/04db7b72/Jokin-Esparza,Jokin-Esparz,04db7b72,es ESP,"FW,MF",Osasuna
+2345.0,Jaroslav Plašil,/en/players/516dc25b/Jaroslav-Plasil,Jaroslav-Plasi,516dc25b,cz CZE,MF,Osasuna
+2346.0,Carlos Vela,/en/players/e0cd04e0/Carlos-Vela,Carlos-V,0cd04e0,mx MEX,"FW,MF",Osasuna
+2347.0,Javi García,/en/players/167c1bb0/Javi-Garcia,Javi-Garci,167c1bb0,es ESP,"DF,MF",Osasuna
+2348.0,Dady,/en/players/00d9c74d/Dady,Dad,00d9c74d,cv CPV,FW,Osasuna
+2349.0,Xavier Margairaz,/en/players/6335f692/Xavier-Margairaz,Xavier-Margairaz,6335f692,ch SUI,MF,Osasuna
+2350.0,Martín Astudillo,/en/players/fda30cfc/Martin-Astudillo,Martin-Astudillo,fda30cfc,ar ARG,MF,Osasuna
+2351.0,Javier Portillo,/en/players/99058498/Javier-Portillo,Javier-Portillo,99058498,es ESP,FW,Osasuna
+2352.0,Walter Pandiani,/en/players/11899bb1/Walter-Pandiani,Walter-Pandiani,11899bb1,uy URU,FW,Osasuna
+2353.0,Hugo Viana,/en/players/9a5542cc/Hugo-Viana,Hugo-Vi,9a5542cc,pt POR,MF,Osasuna
+2354.0,Andrés Fernández,/en/players/307fcd26/Andres-Fernandez,Andres-Fernandez,307fcd26,es ESP,GK,Osasuna
+2355.0,Ion Echaide,/en/players/2ad367bb/Ion-Echaide,Ion-Echaid,2ad367bb,es ESP,DF,Osasuna
+2356.0,Roberto,/en/players/95cf42ac/Roberto,Roberto,95cf42ac,es ESP,GK,Osasuna
+2357.0,Masoud Shojaei,/en/players/a898d91e/Masoud-Shojaei,Masoud-Shojaei,898d91e,ir IRN,MF,Osasuna
+2358.0,Sergio,/en/players/7688c579/Sergio,Sergio,7688c579,es ESP,DF,Osasuna
+2359.0,Krisztián Vadócz,/en/players/b4b0e333/Krisztian-Vadocz,Krisztian-Vadocz,b4b0e333,hu HUN,MF,Osasuna
+2360.0,Rovérsio,/en/players/ba50a22c/Roversio,Roversio,ba50a22c,br BRA,DF,Osasuna
+2361.0,Santiago Ezquerro,/en/players/c836203d/Santiago-Ezquerro,Santiago-Ezquerro,c836203d,es ESP,FW,Osasuna
+2362.0,Antonio Hidalgo,/en/players/b5b88d6c/Antonio-Hidalgo,Antonio-Hidalgo,b5b88d6c,es ESP,MF,Osasuna
+2363.0,Sunny,/en/players/1eb38665/Sunny,Su,1eb38665,ng NGA,MF,Osasuna
+2364.0,Rúper,/en/players/570c4db3/Ruper,Ru,570c4db3,es ESP,MF,Osasuna
+2365.0,Javier Camuñas,/en/players/bbc1db07/Javier-Camunas,Javier-Camu,bbc1db07,es ESP,"FW,MF",Osasuna
+2366.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Osasuna
+2367.0,Javier Calleja,/en/players/3c99e7de/Javier-Calleja,Javier-Callej,3c99e7de,es ESP,MF,Osasuna
+2368.0,Jorge Galán,/en/players/aeaee48a/Jorge-Galan,Jorge-G,48a,es ESP,FW,Osasuna
+2369.0,Alan Baró,/en/players/44bdd1f9/Alan-Baro,Alan-Baro,44bdd1f9,es ESP,"DF,MF",Osasuna
+2370.0,Nélson Marcos,/en/players/d0d41afb/Nelson-Marcos,Nelson-Marco,d0d41afb,pt POR,DF,Osasuna
+2371.0,Lolo,/en/players/31c71140/Lolo,Lolo,31c71140,es ESP,"DF,MF",Osasuna
+2372.0,Fernando Soriano,/en/players/1aa72854/Fernando-Soriano,Fernando-Soriano,1aa72854,es ESP,MF,Osasuna
+2373.0,Damià Abella,/en/players/e35b4a15/Damia-Abella,Damia-Ab,35b4a15,es ESP,"DF,MF",Osasuna
+2374.0,Álvaro Cejudo,/en/players/a39b23eb/Alvaro-Cejudo,Alvaro-Cejudo,39b23eb,es ESP,MF,Osasuna
+2375.0,Ferran Corominas,/en/players/46d0c528/Ferran-Corominas,Ferran-Coromi,46d0c528,es ESP,"FW,MF",Osasuna
+2376.0,Oier Sanjurjo,/en/players/466824fb/Oier-Sanjurjo,Oier-Sanjurjo,466824fb,es ESP,"DF,MF",Osasuna
+2377.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,"DF,MF",Osasuna
+2378.0,Xavi Annunziata,/en/players/e146dbda/Xavi-Annunziata,Xavi-Annunziat,146dbda,es ESP,"FW,MF",Osasuna
+2379.0,Nino,/en/players/03dc5b1f/Nino,Nino,03dc5b1f,es ESP,"FW,MF",Osasuna
+2380.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Osasuna
+2381.0,Roland Lamah,/en/players/336a36fb/Roland-Lamah,Roland-Lamah,336a36fb,be BEL,"FW,MF",Osasuna
+2382.0,Ibrahima Baldé,/en/players/573b6680/Ibrahima-Balde,Ibrahima-Bald,573b6680,sn SEN,FW,Osasuna
+2383.0,Jukka Raitala,/en/players/67b054d1/Jukka-Raitala,Jukka-Rait,67b054d1,fi FIN,DF,Osasuna
+2384.0,Eneko Satrústegui,/en/players/b7ce700f/Eneko-Satrustegui,Eneko-Satrustegui,b7ce700f,es ESP,DF,Osasuna
+2385.0,Dejan Lekić,/en/players/f73b1a65/Dejan-Lekic,Dejan-Lekic,f73b1a65,rs SRB,FW,Osasuna
+2386.0,Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Osasuna
+2387.0,Raoul Loé,/en/players/afcf961b/Raoul-Loe,Raoul-Lo,fcf961b,cm CMR,MF,Osasuna
+2388.0,Manuel Onwu,/en/players/344376b6/Manuel-Onwu,Manuel-Onwu,344376b6,es ESP,FW,Osasuna
+2389.0,Asier Riesgo,/en/players/581c5276/Asier-Riesgo,Asier-Riesgo,581c5276,es ESP,GK,Osasuna
+2390.0,Roberto Torres,/en/players/d733aa38/Roberto-Torres,Roberto-To,d733aa38,es ESP,MF,Osasuna
+2391.0,Marcos,/en/players/b2b79f32/Marcos,Marco,b2b79f32,es ESP,DF,Osasuna
+2392.0,Alejandro Arribas,/en/players/cc29324e/Alejandro-Arribas,Alejandro-Arrib,cc29324e,es ESP,DF,Osasuna
+2393.0,Emiliano Armenteros,/en/players/66475fb9/Emiliano-Armenteros,Emiliano-Armentero,66475fb9,ar ARG,MF,Osasuna
+2394.0,Nano,/en/players/51fbb7e2/Nano,Nano,51fbb7e2,es ESP,"DF,FW",Osasuna
+2395.0,Miguel de las Cuevas,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,Miguel-de-las-Cuev,2e1cf3d2,es ESP,MF,Osasuna
+2396.0,Francisco Silva,/en/players/11d68e60/Francisco-Silva,Francisco-Silv,11d68e60,cl CHI,"DF,MF",Osasuna
+2397.0,Sisi,/en/players/add7ec92/Sisi,Sisi,dd7ec92,es ESP,"FW,MF",Osasuna
+2398.0,Joseba Llorente,/en/players/ddb98947/Joseba-Llorente,Joseba-Llorent,ddb98947,es ESP,FW,Osasuna
+2399.0,Anthony Annan,/en/players/1c524d4a/Anthony-Annan,Anthony-A,1c524d4a,gh GHA,MF,Osasuna
+2400.0,Unai García,/en/players/4a633cfe/Unai-Garcia,Unai-Garci,4a633cfe,es ESP,DF,Osasuna
+2401.0,Maikel Mesa,/en/players/2afb7b21/Maikel-Mesa,Maikel-M,2afb7b21,es ESP,MF,Osasuna
+2402.0,Oriol Riera,/en/players/ed742ed9/Oriol-Riera,Oriol-Ri,d742ed9,es ESP,FW,Osasuna
+2403.0,Jordan Lotiès,/en/players/64864d05/Jordan-Loties,Jordan-Loti,64864d05,fr FRA,DF,Osasuna
+2404.0,Joan Oriol,/en/players/7ccb2ef6/Joan-Oriol,Joan-Orio,7ccb2ef6,es ESP,DF,Osasuna
+2405.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Osasuna
+2406.0,José Ariel Núñez,/en/players/c98a821e/Jose-Ariel-Nunez,Jose-Ariel-Nunez,c98a821e,py PAR,"FW,MF",Osasuna
+2407.0,Cristian Lobato,/en/players/a7ac9c6d/Cristian-Lobato,Cristian-Lobato,7ac9c6d,es ESP,"FW,MF",Osasuna
+2408.0,José García,/en/players/9463b38c/Jose-Garcia,Jose-Garci,9463b38c,es ESP,"FW,MF",Osasuna
+2409.0,David García,/en/players/3e42f707/David-Garcia,David-Garci,3e42f707,es ESP,"DF,MF",Osasuna
+2410.0,Nikola Vujadinović,/en/players/c6b17f4f/Nikola-Vujadinovic,Nikola-Vujadinovic,c6b17f4f,me MNE,DF,Osasuna
+2411.0,Mikel Merino,/en/players/d080ed5e/Mikel-Merino,Mikel-Merino,d080ed5e,es ESP,MF,Osasuna
+2412.0,Roberto Santamaría,/en/players/bca21ef3/Roberto-Santamaria,Roberto-Santamari,bca21ef3,es ESP,GK,Osasuna
+2413.0,Cedrick Mabwati,/en/players/6518bc18/Cedrick-Mabwati,Cedrick-Mabwati,6518bc18,cd COD,"FW,MF",Osasuna
+2414.0,Kenan Kodro,/en/players/e82d2807/Kenan-Kodro,Kenan-Kodro,82d2807,ba BIH,FW,Osasuna
+2415.0,Liassine Cadamuro,/en/players/e3a83cb9/Liassine-Cadamuro,Liassine-Cadamuro,3a83cb9,dz ALG,DF,Osasuna
+2416.0,Karim Ansarifard,/en/players/50cddd19/Karim-Ansarifard,Karim-Ansarifard,50cddd19,ir IRN,FW,Osasuna
+2417.0,Miguel Olavide,/en/players/4bed972b/Miguel-Olavide,Miguel-Olavid,4bed972b,es ESP,MF,Osasuna
+2418.0,Álex Berenguer,/en/players/dc1c2fce/Alex-Berenguer,Alex-Berengu,dc1c2fce,es ESP,"FW,MF",Osasuna
+2419.0,Pablo Hervías,/en/players/ba5a9545/Pablo-Hervias,Pablo-Hervi,ba5a9545,es ESP,MF,Osasuna
+2420.0,Yoel Sola,/en/players/ff9b498c/Yoel-Sola,Yoel-So,ff9b498c,es ESP,MF,Osasuna
+2421.0,Aitor Buñuel,/en/players/6555c592/Aitor-Bunuel,Aitor-Bunu,6555c592,es ESP,DF,Osasuna
+2422.0,Kike Barja,/en/players/aad53e64/Kike-Barja,Kike-Barj,d53e64,es ESP,MF,Osasuna
+2423.0,Jokin Ezkieta,/en/players/0f7dbaf6/Jokin-Ezkieta,Jokin-Ezkiet,0f7dbaf6,es ESP,GK,Osasuna
+2424.0,De Frutos,/en/players/18454316/De-Frutos,De-Fruto,18454316,es ESP,DF,Osasuna
+2425.0,Antonio Otegui,/en/players/b7d5bc5e/Antonio-Otegui,Antonio-Otegui,b7d5bc5e,es ESP,MF,Osasuna
+2426.0,Juan Pérez,/en/players/8f29e08b/Juan-Perez,Juan-Perez,8f29e08b,es ESP,GK,Osasuna
+2427.0,Alexander Satrústegui,/en/players/800ae875/Alexander-Satrustegui,Alexander-Satrustegui,800ae875,es ESP,FW,Osasuna
+2428.0,﻿Nauzet Pérez,/en/players/d7ffd345/Nauzet-Perez,Nauzet-Perez,d7ffd345,es ESP,GK,Osasuna
+2429.0,Tano Bonnín,/en/players/1a6f612d/Tano-Bonnin,Tano-Bonni,1a6f612d,do DOM,DF,Osasuna
+2430.0,Matej Pučko,/en/players/4078b9b1/Matej-Pucko,Matej-Pucko,4078b9b1,si SVN,"FW,MF",Osasuna
+2431.0,Urko Vera,/en/players/d8cf0115/Urko-Vera,Urko-V,d8cf0115,es ESP,FW,Osasuna
+2432.0,Manuel,/en/players/b43437c4/Manuel,Manu,b43437c4,es ESP,MF,Osasuna
+2433.0,Luís Martins,/en/players/56b7c09b/Luis-Martins,Luis-Marti,56b7c09b,pt POR,DF,Osasuna
+2434.0,Bogdan Milić,/en/players/cfd0299b/Bogdan-Milic,Bogdan-Milic,cfd0299b,me MNE,FW,Osasuna
+2435.0,Javi Martínez,/en/players/7a2ea84d/Javi-Martinez,Javi-Martinez,7a2ea84d,es ESP,FW,Osasuna
+2436.0,Adrián Cruz,/en/players/c39bc7cb/Adrian-Cruz,Adrian-Cruz,c39bc7cb,es ESP,MF,Osasuna
+2437.0,Álex Sánchez,/en/players/927c7264/Alex-Sanchez,Alex-Sanchez,927c7264,es ESP,FW,Osasuna
+2438.0,Miguel Díaz,/en/players/4fc0311a/Miguel-Diaz,Miguel-Diaz,4fc0311a,es ESP,MF,Osasuna
+2439.0,Mario Fernández,/en/players/02c89cb6/Mario-Fernandez,Mario-Fernandez,02c89cb6,es ESP,GK,Osasuna
+2440.0,Sergio León,/en/players/0a0cc13c/Sergio-Leon,Sergio-Leo,0a0cc13c,es ESP,FW,Osasuna
+2441.0,Goran Čaušić,/en/players/6938d79b/Goran-Causic,Goran-Causic,6938d79b,rs SRB,MF,Osasuna
+2442.0,Carlos Clerc,/en/players/33a61a52/Carlos-Clerc,Carlos-Clerc,33a61a52,es ESP,"DF,MF",Osasuna
+2443.0,Salvatore Sirigu,/en/players/10dc46f0/Salvatore-Sirigu,Salvatore-Sirigu,10dc46f0,it ITA,GK,Osasuna
+2444.0,Juan Rafael Fuentes,/en/players/5b54a75f/Juan-Rafael-Fuentes,Juan-Rafael-Fuent,5b54a75f,es ESP,DF,Osasuna
+2445.0,Fausto Tienza,/en/players/039783d3/Fausto-Tienza,Fausto-Tienz,039783d3,es ESP,MF,Osasuna
+2446.0,Jaime Romero,/en/players/e28205f4/Jaime-Romero,Jaime-Romero,28205f4,es ESP,"MF,FW",Osasuna
+2447.0,Emmanuel Rivière,/en/players/2bae5658/Emmanuel-Riviere,Emmanuel-Rivi,2bae5658,fr FRA,"FW,MF",Osasuna
+2448.0,Imanol García,/en/players/a90ed68c/Imanol-Garcia,Imanol-Garci,90ed68c,es ESP,"MF,DF",Osasuna
+2449.0,Jhon Steven,/en/players/c67b3538/Jhon-Steven,Jhon-Stev,c67b3538,co COL,DF,Osasuna
+2450.0,Iván Márquez,/en/players/691d6a54/Ivan-Marquez,Ivan-Marquez,691d6a54,es ESP,DF,Osasuna
+2451.0,Didier Digard,/en/players/557f1466/Didier-Digard,Didier-Digard,557f1466,fr FRA,MF,Osasuna
+2452.0,Álvaro Fernández,/en/players/f127d782/Alvaro-Fernandez,Alvaro-Fernandez,f127d782,es ESP,GK,Osasuna
+2453.0,Luis Perea,/en/players/8dc6dbb3/Luis-Perea,Luis-P,8dc6dbb3,es ESP,MF,Osasuna
+2454.0,Javi Álamo,/en/players/ffd69308/Javi-Alamo,Javi-Alamo,ffd69308,es ESP,"FW,MF",Osasuna
+2455.0,﻿Sergio Herrera,/en/players/a4995f48/Sergio-Herrera,Sergio-H,4995f48,es ESP,GK,Osasuna
+2456.0,Lillo,/en/players/476ca810/Lillo,Lillo,476ca810,es ESP,DF,Osasuna
+2457.0,Quique,/en/players/c966fce1/Quique,Quiqu,c966fce1,es ESP,"FW,MF",Osasuna
+2458.0,Lucas Torró,/en/players/0e4fef6e/Lucas-Torro,Lucas-Torro,0e4fef6e,es ESP,MF,Osasuna
+2459.0,Fran Mérida,/en/players/0e50f929/Fran-Merida,Fran-Merid,0e50f929,es ESP,MF,Osasuna
+2460.0,David Rodríguez,/en/players/bae862bf/David-Rodriguez,David-Rodriguez,bae862bf,es ESP,"FW,MF",Osasuna
+2461.0,Aridane Hernández,/en/players/132ac341/Aridane-Hernandez,Aridane-Hernandez,132ac341,gq EQG,DF,Osasuna
+2462.0,Borja Lasso,/en/players/d9faee7e/Borja-Lasso,Borja-Lasso,d9faee7e,es ESP,MF,Osasuna
+2463.0,Sebas Coris,/en/players/b18da471/Sebas-Coris,Sebas-Cori,b18da471,es ESP,MF,Osasuna
+2464.0,Joaquín Arzura,/en/players/0eeb0b2f/Joaquin-Arzura,Joaquin-Arzu,0eeb0b2f,ar ARG,MF,Osasuna
+2465.0,Robert Ibáñez,/en/players/c7429db3/Robert-Ibanez,Robert-Ibanez,c7429db3,es ESP,MF,Osasuna
+2466.0,Mateo García,/en/players/62db2015/Mateo-Garcia,Mateo-Garci,62db2015,ar ARG,MF,Osasuna
+2467.0,Manu Herrera,/en/players/ad2acc39/Manu-Herrera,Manu-H,d2acc39,es ESP,GK,Osasuna
+2468.0,Rubén García,/en/players/5c96b017/Ruben-Garcia,Ruben-Garci,5c96b017,es ESP,"MF,FW",Osasuna
+2469.0,Rubén,/en/players/24279b8b/Ruben,Rub,24279b8b,es ESP,GK,Osasuna
+2470.0,Nacho Vidal,/en/players/3a9c4b7b/Nacho-Vidal,Nacho-Vid,3a9c4b7b,es ESP,DF,Osasuna
+2471.0,Juan Villar,/en/players/c33ee247/Juan-Villar,Juan-Vi,c33ee247,es ESP,"FW,MF",Osasuna
+2472.0,Brandon,/en/players/3e016e5a/Brandon,Brando,3e016e5a,es ESP,"FW,MF",Osasuna
+2473.0,Iñigo Pérez,/en/players/bc61cc65/Inigo-Perez,Inigo-Perez,bc61cc65,es ESP,MF,Osasuna
+2474.0,Xisco,/en/players/d2790f7a/Xisco,Xisco,d2790f7a,es ESP,FW,Osasuna
+2475.0,Endika Irigoyen,/en/players/f24700f7/Endika-Irigoyen,Endika-Irigo,f24700f7,es ESP,DF,Osasuna
+2476.0,Javi Martínez,/en/players/3672b352/Javi-Martinez,Javi-Martinez,3672b352,es ESP,MF,Osasuna
+2477.0,Aimar Oroz,/en/players/7c363088/Aimar-Oroz,Aimar-Oroz,7c363088,es ESP,MF,Osasuna
+2478.0,Barbero,/en/players/981c1863/Barbero,Barbero,981c1863,es ESP,FW,Osasuna
+2479.0,Iván Martínez,/en/players/4916ebd8/Ivan-Martinez,Ivan-Martinez,4916ebd8,es ESP,GK,Osasuna
+2480.0,Jon Moncayola,/en/players/9939e168/Jon-Moncayola,Jon-Moncayo,9939e168,es ESP,MF,Osasuna
+2481.0,﻿Pervis Estupiñán,/en/players/d38fdf53/Pervis-Estupinan,Pervis-Estupi,d38fdf53,ec ECU,DF,Osasuna
+2482.0,Darko Brašanac,/en/players/4accb7e0/Darko-Brasanac,Darko-Brasanac,4accb7e0,rs SRB,MF,Osasuna
+2483.0,Ezequiel Ávila,/en/players/253a06b9/Ezequiel-Avila,Ezequiel-Avi,253a06b9,ar ARG,FW,Osasuna
+2484.0,Facundo Roncaglia,/en/players/51e3954c/Facundo-Roncaglia,Facundo-Roncagli,51e3954c,ar ARG,DF,Osasuna
+2485.0,Enric Gallego,/en/players/82e9b89d/Enric-Gallego,Enric-Gallego,82e9b89d,es ESP,FW,Osasuna
+2486.0,Marc Cardona,/en/players/b92b456a/Marc-Cardona,Marc-Cardo,b92b456a,es ESP,"FW,MF",Osasuna
+2487.0,José Arnaiz,/en/players/46e07328/Jose-Arnaiz,Jose-Arnaiz,46e07328,es ESP,"FW,MF",Osasuna
+2488.0,Raúl Navas,/en/players/ad178594/Raul-Navas,Raul-Nav,d178594,es ESP,DF,Osasuna
+2489.0,Toni Lato,/en/players/8e088e04/Toni-Lato,Toni-Lato,8e088e04,es ESP,"DF,MF",Osasuna
+2490.0,José Hualde,/en/players/2e5c0b73/Jose-Hualde,Jose-Huald,2e5c0b73,es ESP,MF,Osasuna
+2491.0,Iñaki,/en/players/036336ce/Inaki,Inaki,036336ce,es ESP,GK,Osasuna
+2492.0,Juan Cruz Armada,/en/players/a56da3ba/Juan-Cruz-Armada,Juan-Cruz-Armad,56da3ba,es ESP,DF,Osasuna
+2493.0,Jonathan Calleri,/en/players/6922f806/Jonathan-Calleri,Jonathan-Calleri,6922f806,ar ARG,FW,Osasuna
+2494.0,Ante Budimir,/en/players/8f3565b3/Ante-Budimir,Ante-Budimi,8f3565b3,hr CRO,FW,Osasuna
+2495.0,Manuel Sánchez,/en/players/ffacd3d5/Manuel-Sanchez,Manuel-Sanchez,ffacd3d5,es ESP,DF,Osasuna
+2496.0,Jony,/en/players/244f57b9/Jony,Jo,244f57b9,es ESP,"MF,FW",Osasuna
+2497.0,Adrián López,/en/players/88a359d4/Adrian-Lopez,Adrian-Lopez,88a359d4,es ESP,"FW,MF",Osasuna
+2498.0,Jonás Ramalho,/en/players/be3a0121/Jonas-Ramalho,Jonas-Ramalho,be3a0121,es ESP,DF,Osasuna
+2499.0,Asier Córdoba,/en/players/5ff577e6/Asier-Cordoba,Asier-Cordob,5ff577e6,es ESP,FW,Osasuna
+2500.0,Kike Saverio,/en/players/1af67930/Kike-Saverio,Kike-Saverio,1af67930,es ESP,FW,Osasuna
+2501.0,Gorka Zabarte,/en/players/31f33499/Gorka-Zabarte,Gorka-Zabart,31f33499,es ESP,DF,Osasuna
+2502.0,Kike,/en/players/e897d8ba/Kike,Kik,897d8ba,es ESP,FW,Osasuna
+2503.0,José Ángel,/en/players/3024e383/Jose-Angel,Jose-Ang,3024e383,es ESP,DF,Osasuna
+2504.0,Jesús Areso,/en/players/94e01ec6/Jesus-Areso,Jesus-Areso,94e01ec6,es ESP,DF,Osasuna
+2505.0,Iker Benito,/en/players/50cbc806/Iker-Benito,Iker-Benito,50cbc806,es ESP,"MF,FW",Osasuna
+2506.0,Unai Dufur,/en/players/c261b5dd/Unai-Dufur,Unai-Dufu,c261b5dd,es ESP,DF,Osasuna
+2507.0,Javier Ontiveros,/en/players/a83d8b0c/Javier-Ontiveros,Javier-Ontivero,83d8b0c,es ESP,"FW,MF",Osasuna
+2508.0,Jaume Grau,/en/players/fc3d2006/Jaume-Grau,Jaume-Grau,fc3d2006,es ESP,MF,Osasuna
+2509.0,Pau Martínez,/en/players/bf01474e/Pau-Martinez,Pau-Martinez,bf01474e,es ESP,FW,Osasuna
+2510.0,Yoel Ramírez,/en/players/bcd2dac9/Yoel-Ramirez,Yoel-Ramirez,bcd2dac9,es ESP,GK,Osasuna

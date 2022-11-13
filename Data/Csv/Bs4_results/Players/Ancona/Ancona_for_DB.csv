@@ -1,158 +1,158 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Alessio Scarpi,it ITA,GK,37,37,0.0,0.0,2002-2003,9a9913c8,Ancona,"3,302",36.7,4.0,0.0,181.0,9.0,
-,Roberto Maltagliati,it ITA,DF,36,36,0.0,0.0,2002-2003,315860e5,Ancona,"3,240",36.0,1.0,0.0,181.0,9.0,
-,Oscar Magoni,it ITA,MF,33,33,0.0,3.0,2002-2003,7ba6372b,Ancona,"2,786",31.0,11.0,1.0,181.0,9.0,
-,Mattia Graffiedi,it ITA,FW,37,33,2.0,9.0,2002-2003,1e9832c,Ancona,"2,759",30.7,0.0,0.0,181.0,9.0,
-,Dražen Bolić,rs SRB,DF,31,31,0.0,2.0,2002-2003,182cda97,Ancona,"2,745",30.5,9.0,0.0,181.0,28.0,
-,Salvatore Russo,it ITA,"DF,MF",32,31,0.0,0.0,2002-2003,8200029c,Ancona,"2,716",30.2,8.0,0.0,181.0,9.0,
-,Daniele Daino,it ITA,DF,30,27,1.0,1.0,2002-2003,fd5eea43,Ancona,"2,384",26.5,4.0,0.0,181.0,9.0,
-,Maurizio Ganz,it ITA,"FW,MF",29,26,3.0,11.0,2002-2003,0df039c2,Ancona,"2,081",23.1,1.0,0.0,181.0,9.0,
-,Marco Schenardi,it ITA,MF,30,26,4.0,2.0,2002-2003,4f302e8,Ancona,"1,935",21.5,3.0,0.0,181.0,9.0,
-,Marko Perović,rs SRB,MF,30,22,1.0,5.0,2002-2003,141164,Ancona,"2,032",22.6,5.0,0.0,181.0,28.0,
-,Giampiero Maini,it ITA,MF,22,22,3.0,7.0,2002-2003,cc7a4224,Ancona,"1,879",20.9,3.0,0.0,181.0,9.0,
-,Giacomo Dicara,it ITA,DF,23,18,1.0,0.0,2002-2003,d4bec4f1,Ancona,"1,669",18.5,7.0,0.0,181.0,9.0,
-,Emiliano Tarana,it ITA,MF,33,15,5.0,2.0,2002-2003,f9c6d93b,Ancona,"1,617",18.0,6.0,1.0,181.0,9.0,
-,Luca Antonini,it ITA,"DF,MF",17,11,2.0,1.0,2002-2003,09952eb7,Ancona,973,10.8,3.0,0.0,181.0,9.0,
-,Stefano Lombardi,it ITA,DF,13,9,0.0,0.0,2002-2003,73cc4ed6,Ancona,879,9.8,5.0,1.0,181.0,9.0,
-,Francesco Montervino,it ITA,MF,17,8,0.0,1.0,2002-2003,7efa108b,Ancona,911,10.1,5.0,1.0,181.0,9.0,
-,Tiziano De Patre,it ITA,MF,14,8,0.0,0.0,2002-2003,85967f76,Ancona,803,8.9,2.0,0.0,181.0,9.0,
-,Pasquale Luiso,it ITA,FW,10,7,0.0,2.0,2002-2003,b361c4d,Ancona,578,6.4,1.0,0.0,181.0,9.0,
-,Daniele Degano,it ITA,FW,13,5,0.0,3.0,2002-2003,85cbdc04,Ancona,533,5.9,0.0,0.0,181.0,9.0,
-,Igor Budan,hr CRO,FW,15,4,2.0,4.0,2002-2003,61d0e7a8,Ancona,601,6.7,0.0,0.0,181.0,16.0,
-,Anselmo Robbiati,it ITA,"FW,MF",12,4,1.0,0.0,2002-2003,9252051a,Ancona,474,5.3,2.0,0.0,181.0,9.0,
-,Stefano Mundula,,,7,3,0.0,0.0,2002-2003,,Ancona,443,4.9,3.0,0.0,181.0,,
-,Pier Graziano Gori,it ITA,GK,2,1,0.0,0.0,2002-2003,8d039f57,Ancona,118,1.3,0.0,0.0,181.0,9.0,
-,Massimiliano Scaglia,it ITA,DF,3,1,0.0,0.0,2002-2003,b746a100,Ancona,101,1.1,0.0,0.0,181.0,9.0,
-,Massimiliano Giacobbo,it ITA,MF,1,0,0.0,0.0,2002-2003,13aa3d3f,Ancona,8,0.1,0.0,0.0,181.0,9.0,
-,Giovanni Passiglia,it ITA,MF,2,0,0.0,0.0,2002-2003,6e500c7c,Ancona,4,0.0,0.0,0.0,181.0,9.0,
-,﻿Mauro Milanese,it ITA,DF,27,26,0.0,1.0,2003-2004,51b36a39,Ancona,"2,246",25.0,8.0,1.0,181.0,9.0,
-,Daniel Andersson,se SWE,"DF,MF",25,23,2.0,1.0,2003-2004,b12ba903,Ancona,"1,975",21.9,3.0,0.0,181.0,41.0,
-,Daniele Berretta,it ITA,MF,22,20,0.0,1.0,2003-2004,3250af95,Ancona,"1,716",19.1,5.0,0.0,181.0,9.0,
-,Vincenzo Sommese,it ITA,MF,26,18,1.0,1.0,2003-2004,857110b0,Ancona,"1,757",19.5,3.0,0.0,181.0,9.0,
-,Sergio Marcon,it ITA,GK,18,18,0.0,0.0,2003-2004,5dae3627,Ancona,"1,620",18.0,0.0,0.0,181.0,9.0,
-,Dražen Bolić,rs SRB,DF,16,15,0.0,0.0,2003-2004,182cda97,Ancona,"1,350",15.0,2.0,0.0,181.0,28.0,
-,Davide Carrus,it ITA,MF,16,15,1.0,0.0,2003-2004,beff5c30,Ancona,"1,315",14.6,4.0,0.0,181.0,9.0,
-,Fábio Bilica,br BRA,DF,16,14,0.0,1.0,2003-2004,12bdac6a,Ancona,"1,263",14.0,2.0,1.0,181.0,2.0,
-,Milan Rapaić,hr CRO,"FW,MF",14,14,1.0,4.0,2003-2004,d457c6a7,Ancona,"1,101",12.2,0.0,0.0,181.0,16.0,
-,Maurizio Ganz,it ITA,"FW,MF",25,13,3.0,3.0,2003-2004,0df039c2,Ancona,"1,293",14.4,4.0,1.0,181.0,9.0,
-,Alessio Scarpi,it ITA,GK,13,13,0.0,0.0,2003-2004,9a9913c8,Ancona,"1,170",13.0,0.0,0.0,181.0,9.0,
-,William Viali,it ITA,DF,13,13,1.0,2.0,2003-2004,2d4c95ac,Ancona,"1,170",13.0,6.0,0.0,181.0,9.0,
-,Goran Pandev,mk MKD,"FW,MF",20,13,2.0,1.0,2003-2004,d711d04f,Ancona,"1,139",12.7,4.0,0.0,181.0,81.0,
-,Dino Baggio,it ITA,MF,13,13,0.0,0.0,2003-2004,0e351891,Ancona,"1,015",11.3,3.0,0.0,181.0,9.0,
-,Giampiero Maini,it ITA,MF,17,12,0.0,1.0,2003-2004,cc7a4224,Ancona,"1,008",11.2,1.0,0.0,181.0,9.0,
-,Marco Esposito,it ITA,DF,12,11,1.0,0.0,2003-2004,f34d5386,Ancona,991,11.0,3.0,0.0,181.0,9.0,
-,Luis Helguera,es ESP,MF,13,9,0.0,0.0,2003-2004,873ff2a7,Ancona,911,10.1,2.0,0.0,181.0,1.0,
-,Sean Sogliano,it ITA,DF,11,9,,0.0,2003-2004,54875eee,Ancona,748,8.3,1.0,1.0,181.0,9.0,
-,Salvatore Russo,it ITA,"DF,MF",9,9,0.0,0.0,2003-2004,8200029c,Ancona,685,7.6,3.0,0.0,181.0,9.0,
-,Roberto Goretti,it ITA,MF,13,8,1.0,0.0,2003-2004,c844c8c0,Ancona,792,8.8,5.0,0.0,181.0,9.0,
-,Cristian Bucchi,it ITA,FW,12,8,1.0,5.0,2003-2004,8df7ea1e,Ancona,763,8.5,1.0,1.0,181.0,9.0,
-,Luigi Sartor,it ITA,DF,9,7,,0.0,2003-2004,0c87971e,Ancona,652,7.2,3.0,0.0,181.0,9.0,
-,Daniele Daino,it ITA,DF,7,6,0.0,0.0,2003-2004,fd5eea43,Ancona,488,5.4,0.0,0.0,181.0,9.0,
-,Paolo Poggi,it ITA,FW,9,6,0.0,0.0,2003-2004,4a352e36,Ancona,443,4.9,1.0,0.0,181.0,9.0,
-,Corrado Grabbi,it ITA,FW,7,5,0.0,0.0,2003-2004,c85faa9b,Ancona,452,5.0,0.0,0.0,181.0,9.0,
-,Luciano Zavagno,ar ARG,DF,8,4,0.0,0.0,2003-2004,7ada559,Ancona,485,5.4,2.0,0.0,181.0,5.0,
-,Salvatore Bruno,it ITA,FW,8,4,0.0,0.0,2003-2004,397033b8,Ancona,381,4.2,1.0,0.0,181.0,9.0,
-,Dario Baccin,it ITA,DF,5,4,0.0,0.0,2003-2004,9358a20d,Ancona,325,3.6,0.0,0.0,181.0,9.0,
-,Stefano Lombardi,it ITA,DF,4,4,0.0,0.0,2003-2004,73cc4ed6,Ancona,312,3.5,0.0,0.0,181.0,9.0,
-,Roberto Maltagliati,it ITA,DF,5,3,0.0,0.0,2003-2004,315860e5,Ancona,329,3.7,0.0,1.0,181.0,9.0,
-,Massimiliano Giacobbo,it ITA,MF,4,3,0.0,0.0,2003-2004,13aa3d3f,Ancona,305,3.4,0.0,0.0,181.0,9.0,
-,Pietro Parente,it ITA,MF,5,3,0.0,0.0,2003-2004,12f281cc,Ancona,297,3.3,0.0,0.0,181.0,9.0,
-,Magnus Hedman,se SWE,GK,3,3,0.0,0.0,2003-2004,258a16fd,Ancona,270,3.0,1.0,0.0,181.0,41.0,
-,Mário Jardel,br BRA,FW,3,3,0.0,0.0,2003-2004,53073691,Ancona,205,2.3,0.0,0.0,181.0,2.0,
-,Marko Perović,rs SRB,MF,3,2,0.0,0.0,2003-2004,141164,Ancona,160,1.8,2.0,0.0,181.0,28.0,
-,Pasquale Luiso,it ITA,FW,3,1,0.0,0.0,2003-2004,b361c4d,Ancona,146,1.6,1.0,0.0,181.0,9.0,
-,Daniele Fortunato,,,2,1,,0.0,2003-2004,51f5b547,Ancona,47,0.5,1.0,1.0,181.0,,
-,Giovanni Goracci,it ITA,MF,2,0,,0.0,2003-2004,99ba036c,Ancona,79,0.9,0.0,0.0,181.0,9.0,
-,Bruce Dombolo,fr FRA,FW,2,0,,0.0,2003-2004,201f33a3,Ancona,48,0.5,0.0,0.0,181.0,4.0,
-,Andrea De Falco,it ITA,MF,2,0,0.0,0.0,2003-2004,631ff021,Ancona,30,0.3,0.0,0.0,181.0,9.0,
-,Matteo Rossi,,,1,0,,0.0,2003-2004,75ebb788,Ancona,17,0.2,0.0,0.0,181.0,,
-,﻿Simone Rizzato,it ITA,MF,41,41,1.0,1.0,2008-2009,7111521e,Ancona,"3,690",41.0,6.0,0.0,181.0,9.0,
-,Salvatore Mastronunzio,it ITA,FW,41,41,4.0,17.0,2008-2009,c1af9e89,Ancona,"3,538",39.3,5.0,0.0,181.0,9.0,
-,Edoardo Catinali,it ITA,MF,38,38,1.0,0.0,2008-2009,220249d0,Ancona,"3,233",35.9,7.0,1.0,181.0,9.0,
-,Andrea De Falco,it ITA,MF,35,31,3.0,3.0,2008-2009,631ff021,Ancona,"2,857",31.7,8.0,0.0,181.0,9.0,
-,Alberto Comazzi,it ITA,DF,30,30,0.0,0.0,2008-2009,0e99149a,Ancona,"2,629",29.2,11.0,0.0,181.0,9.0,
-,Marco Turati,it ITA,DF,29,28,0.0,5.0,2008-2009,60cb4e,Ancona,"2,299",25.5,2.0,1.0,181.0,9.0,
-,Angelo da Costa Júnior,br BRA,GK,27,27,0.0,0.0,2008-2009,18736214,Ancona,"2,430",27.0,3.0,0.0,181.0,2.0,
-,Richard Vanigli,it ITA,DF,25,25,0.0,1.0,2008-2009,9a8a1615,Ancona,"2,130",23.7,2.0,1.0,181.0,9.0,
-,Juan Surraco,uy URU,MF,33,21,3.0,2.0,2008-2009,220870f9,Ancona,"1,824",20.3,3.0,0.0,181.0,8.0,
-,Maurizio Nassi,it ITA,FW,22,20,3.0,10.0,2008-2009,5f8d75b5,Ancona,"1,762",19.6,3.0,0.0,181.0,9.0,
-,Matías Miramontes,ar ARG,MF,31,20,4.0,3.0,2008-2009,d998d0c,Ancona,"1,688",18.8,4.0,0.0,181.0,5.0,
-,Rincón,br BRA,DF,27,16,0.0,1.0,2008-2009,5d668fb7,Ancona,"1,691",18.8,5.0,2.0,181.0,2.0,
-,Cristiano Camillucci,it ITA,MF,20,16,0.0,0.0,2008-2009,d0e00ece,Ancona,"1,406",15.6,5.0,1.0,181.0,9.0,
-,Salvatore Sirigu,it ITA,GK,15,15,0.0,0.0,2008-2009,10dc46f0,Ancona,"1,350",15.0,0.0,0.0,181.0,9.0,
-,Stefano Olivieri,it ITA,DF,16,15,0.0,2.0,2008-2009,6df1cf82,Ancona,"1,292",14.4,4.0,0.0,181.0,9.0,
-,Danilo Soddimo,it ITA,MF,26,14,1.0,3.0,2008-2009,098139eb,Ancona,"1,413",15.7,5.0,0.0,181.0,9.0,
-,Pasquale Schiattarella,it ITA,MF,22,14,2.0,0.0,2008-2009,bd84fc61,Ancona,"1,153",12.8,3.0,1.0,181.0,9.0,
-,Guilherme Siqueira,br BRA,"DF,MF",24,13,1.0,1.0,2008-2009,3770a135,Ancona,"1,149",12.8,3.0,0.0,181.0,2.0,
-,Roberto Colacone,it ITA,FW,27,9,2.0,2.0,2008-2009,d8829ad,Ancona,"1,029",11.4,5.0,0.0,181.0,9.0,
-,Giovanni Langella,,,11,8,0.0,0.0,2008-2009,,Ancona,799,8.9,3.0,0.0,181.0,,
-,Fabio Di,,,12,8,0.0,0.0,2008-2009,,Ancona,734,8.2,0.0,0.0,181.0,,
-,Maurizio Anastasi,it ITA,MF,8,6,0.0,0.0,2008-2009,90d38410,Ancona,478,5.3,3.0,0.0,181.0,9.0,
-,Anderson,br BRA,MF,6,3,0.0,0.0,2008-2009,d8a9c776,Ancona,297,3.3,2.0,0.0,181.0,2.0,
-,Mirko Guadalupi,it ITA,MF,4,2,0.0,0.0,2008-2009,26cabbb3,Ancona,138,1.5,0.0,0.0,181.0,9.0,
-,Matías Masiero,uy URU,MF,3,1,0.0,0.0,2008-2009,95413ecd,Ancona,184,2.0,0.0,0.0,181.0,8.0,
-,Umberto Eusepi,it ITA,FW,12,0,0.0,1.0,2008-2009,210cc9c3,Ancona,244,2.7,0.0,0.0,181.0,9.0,
-,Ivan Piccoli,it ITA,MF,1,0,0.0,0.0,2008-2009,504654f9,Ancona,45,0.5,0.0,0.0,181.0,9.0,
-,Dario Arcuri,,,1,0,0.0,0.0,2008-2009,,Ancona,28,0.3,0.0,0.0,181.0,,
-,﻿Angelo da Costa Júnior,br BRA,GK,42,42,0.0,0.0,2009-2010,18736214,Ancona,"3,780",42.0,3.0,0.0,181.0,2.0,
-,Salvatore Mastronunzio,it ITA,FW,40,40,4.0,21.0,2009-2010,c1af9e89,Ancona,"3,549",39.4,3.0,0.0,181.0,9.0,
-,Roberto Colacone,it ITA,FW,40,40,6.0,10.0,2009-2010,d8829ad,Ancona,"3,269",36.3,6.0,0.0,181.0,9.0,
-,Andrea De Falco,it ITA,MF,38,38,7.0,2.0,2009-2010,631ff021,Ancona,"3,356",37.3,9.0,0.0,181.0,9.0,
-,Francesco Cosenza,it ITA,DF,36,36,0.0,1.0,2009-2010,98fdcb58,Ancona,"3,210",35.7,14.0,1.0,181.0,9.0,
-,Juan Surraco,uy URU,MF,38,36,3.0,3.0,2009-2010,220870f9,Ancona,"3,011",33.5,8.0,1.0,181.0,8.0,
-,Filippo Cristante,it ITA,DF,35,35,0.0,1.0,2009-2010,45f14e16,Ancona,"3,113",34.6,6.0,2.0,181.0,9.0,
-,Andrea Milani,it ITA,DF,36,35,1.0,0.0,2009-2010,fadc51e8,Ancona,"2,968",33.0,7.0,0.0,181.0,9.0,
-,Luciano Zavagno,ar ARG,DF,35,35,1.0,1.0,2009-2010,7ada559,Ancona,"2,943",32.7,7.0,2.0,181.0,5.0,
-,Matías Miramontes,ar ARG,MF,35,34,6.0,8.0,2009-2010,d998d0c,Ancona,"2,627",29.2,9.0,0.0,181.0,5.0,
-,Edoardo Catinali,it ITA,MF,34,33,2.0,0.0,2009-2010,220249d0,Ancona,"2,845",31.6,10.0,0.0,181.0,9.0,
-,Pasquale Schiattarella,it ITA,MF,35,21,2.0,5.0,2009-2010,bd84fc61,Ancona,"2,021",22.5,7.0,0.0,181.0,9.0,
-,Fabio Pisacane,it ITA,DF,22,15,0.0,0.0,2009-2010,56400c01,Ancona,"1,379",15.3,2.0,0.0,181.0,9.0,
-,Cristiano Camillucci,it ITA,MF,18,10,0.0,0.0,2009-2010,d0e00ece,Ancona,"1,034",11.5,3.0,0.0,181.0,9.0,
-,Federico Gerardi,it ITA,FW,20,4,0.0,2.0,2009-2010,3ddd3185,Ancona,505,5.6,3.0,1.0,181.0,9.0,
-,Mattia Mustacchio,it ITA,"FW,MF",24,3,3.0,0.0,2009-2010,fe3b038,Ancona,512,5.7,3.0,0.0,181.0,9.0,
-,Ivan Piccoli,it ITA,MF,15,3,1.0,0.0,2009-2010,504654f9,Ancona,508,5.6,1.0,0.0,181.0,9.0,
-,Kris Thackray,eng ENG,DF,10,2,0.0,0.0,2009-2010,648d7615,Ancona,340,3.8,0.0,0.0,181.0,6.0,
-,Alberto Gerbo,it ITA,MF,13,0,0.0,0.0,2009-2010,8d0e5a2,Ancona,211,2.3,4.0,0.0,181.0,9.0,
-,Vladislav Mirchev,bg BUL,FW,10,0,0.0,0.0,2009-2010,33d94155,Ancona,197,2.2,0.0,0.0,181.0,65.0,
-,﻿Massimo Bussi,it ITA,FW,2,2,0.0,2.0,2015-2016,79b1f9bd,Ancona,210.0,2.3,0.0,0.0,181.0,9.0,
-,Daniele Casiraghi,it ITA,MF,2,2,0.0,0.0,2015-2016,0408b043,Ancona,210.0,2.3,0.0,0.0,181.0,9.0,
-,Dramane Konaté,ci CIV,DF,2,2,0.0,0.0,2015-2016,03e49f6d,Ancona,210.0,2.3,0.0,0.0,181.0,35.0,
-,Gianclaudio Lori,it ITA,GK,2,2,0.0,0.0,2015-2016,0d77b247,Ancona,210.0,2.3,0.0,0.0,181.0,9.0,
-,Marco Mallus,it ITA,DF,2,2,0.0,0.0,2015-2016,b2b78ab6,Ancona,210.0,2.3,1.0,0.0,181.0,9.0,
-,Zaccaria Hamlili,it ITA,MF,2,2,0.0,0.0,2015-2016,741f33b1,Ancona,173.0,1.9,0.0,0.0,181.0,9.0,
-,Luca Cognigni,it ITA,FW,2,2,0.0,0.0,2015-2016,65ebf82b,Ancona,153.0,1.7,0.0,0.0,181.0,9.0,
-,Alessandro Morbidelli,it ITA,FW,2,2,0.0,0.0,2015-2016,d11f94c0,Ancona,120.0,1.3,0.0,0.0,181.0,9.0,
-,Luca Gelonese,it ITA,MF,2,1,0.0,0.0,2015-2016,3102d731,Ancona,139.0,1.5,1.0,0.0,181.0,9.0,
-,Lorenzo Paoli,it ITA,MF,2,1,0.0,0.0,2015-2016,81428e3b,Ancona,126.0,1.4,0.0,0.0,181.0,9.0,
-,Daniele Pedrelli,it ITA,"DF,MF",1,1,0.0,0.0,2015-2016,4c58e915,Ancona,120.0,1.3,0.0,0.0,181.0,9.0,
-,Matteo Adamo,it ITA,MF,2,1,0.0,0.0,2015-2016,30fce0e1,Ancona,95.0,1.1,0.0,0.0,181.0,9.0,
-,Umberto Cazzola,it ITA,MF,1,1,0.0,0.0,2015-2016,2c50744c,Ancona,90.0,1.0,0.0,0.0,181.0,9.0,
-,Riccardo Pandolfi,it ITA,DF,1,1,0.0,0.0,2015-2016,83be83f1,Ancona,90.0,1.0,0.0,0.0,181.0,9.0,
-,Lorenzo Bambozzi,it ITA,MF,2,0,0.0,0.0,2015-2016,7d8b79be,Ancona,97.0,1.1,0.0,0.0,181.0,9.0,
-,Giuseppe Maiorano,it ITA,FW,1,0,0.0,0.0,2015-2016,629ba1de,Ancona,57.0,0.6,0.0,0.0,181.0,9.0,
-,Aurelio Barilaro,it ITA,DF,0,0,,,2015-2016,2ac156d4,Ancona,,,,,181.0,9.0,
-,Andrea Fabrizzi,it ITA,GK,0,0,,,2015-2016,c32ddc2e,Ancona,,,,,181.0,9.0,
-,Davide Montagnoli,it ITA,FW,0,0,,,2015-2016,3fc0dc61,Ancona,,,,,181.0,9.0,
-,Giuseppe Polizzi,it ITA,GK,0,0,,,2015-2016,18d8a455,Ancona,,,,,181.0,9.0,
-,Francesco Salciccia,it ITA,DF,0,0,,,2015-2016,0bedde,Ancona,,,,,181.0,9.0,
-,Lorenzo Speranza,it ITA,FW,0,0,,,2015-2016,257c880f,Ancona,,,,,181.0,9.0,
-,﻿Simone Battaglia,it ITA,MF,2,2,0.0,0.0,2016-2017,56fb5cc4,Ancona,180.0,2.0,0.0,0.0,181.0,9.0,
-,Elio De Silvestro,it ITA,FW,2,2,0.0,0.0,2016-2017,84b7d098,Ancona,180.0,2.0,0.0,0.0,181.0,9.0,
-,Petar Kostadinović,hr CRO,DF,2,2,0.0,0.0,2016-2017,29d58697,Ancona,180.0,2.0,0.0,0.0,181.0,16.0,
-,Emanuele Malerba,it ITA,DF,2,2,0.0,0.0,2016-2017,101843d4,Ancona,180.0,2.0,0.0,0.0,181.0,9.0,
-,Luca Ricci,it ITA,DF,2,2,0.0,0.0,2016-2017,0dc6a7fd,Ancona,180.0,2.0,0.0,0.0,181.0,9.0,
-,Manuel Daffara,it ITA,DF,2,2,0.0,0.0,2016-2017,6010bf0a,Ancona,170.0,1.9,0.0,0.0,181.0,9.0,
-,Daniele Casiraghi,it ITA,MF,2,2,0.0,0.0,2016-2017,0408b043,Ancona,163.0,1.8,0.0,0.0,181.0,9.0,
-,Dávid Forgács,hu HUN,DF,2,2,0.0,1.0,2016-2017,dcd040,Ancona,152.0,1.7,1.0,0.0,181.0,87.0,
-,Lorenzo Bambozzi,it ITA,MF,2,2,0.0,0.0,2016-2017,7d8b79be,Ancona,134.0,1.5,1.0,0.0,181.0,9.0,
-,Lorenzo Regis,,FW,2,1,0.0,0.0,2016-2017,d7aeb4bc,Ancona,125.0,1.4,0.0,0.0,181.0,,
-,Luca Cognigni,it ITA,FW,1,1,0.0,3.0,2016-2017,65ebf82b,Ancona,90.0,1.0,0.0,0.0,181.0,9.0,
-,Gianclaudio Lori,it ITA,GK,1,1,0.0,0.0,2016-2017,0d77b247,Ancona,90.0,1.0,0.0,0.0,181.0,9.0,
-,Andrea Rossini,it ITA,GK,1,1,0.0,0.0,2016-2017,6b4c0fb7,Ancona,90.0,1.0,0.0,0.0,181.0,9.0,
-,Luca Gelonese,it ITA,MF,2,0,0.0,0.0,2016-2017,3102d731,Ancona,28.0,0.3,0.0,0.0,181.0,9.0,
-,Tiberio Velocci,it ITA,FW,1,0,0.0,0.0,2016-2017,b62f63ff,Ancona,28.0,0.3,0.0,0.0,181.0,9.0,
-,Alessandro Di Dio,it ITA,DF,1,0,0.0,0.0,2016-2017,92676da4,Ancona,10.0,0.1,0.0,0.0,181.0,9.0,
-,Matteo Maresca,it ITA,MF,0,0,,,2016-2017,2175ce1f,Ancona,,,,,181.0,9.0,
-,Davide Montagnoli,it ITA,FW,0,0,,,2016-2017,3fc0dc61,Ancona,,,,,181.0,9.0,
-,Francesco Salciccia,it ITA,DF,0,0,,,2016-2017,0bedde,Ancona,,,,,181.0,9.0,
-,Carlo Tassoni,it ITA,DF,0,0,,,2016-2017,b1febb2,Ancona,,,,,181.0,9.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Alessio Scarpi,it ITA,GK,37,37,0.0,0.0,2002-2003,/en/players/9a9913c8/Alessio-Scarpi,9a9913c8,Ancona,"3,302",36.7,4.0,0.0,181,9.0,22334,Ancona
+,Roberto Maltagliati,it ITA,DF,36,36,0.0,0.0,2002-2003,/en/players/315860e5/Roberto-Maltagliati,315860e5,Ancona,"3,240",36.0,1.0,0.0,181,9.0,22335,Ancona
+,Oscar Magoni,it ITA,MF,33,33,0.0,3.0,2002-2003,/en/players/7ba6372b/Oscar-Magoni,7ba6372b,Ancona,"2,786",31.0,11.0,1.0,181,9.0,22336,Ancona
+,Mattia Graffiedi,it ITA,FW,37,33,2.0,9.0,2002-2003,/en/players/e1e9832c/Mattia-Graffiedi,1e9832c,Ancona,"2,759",30.7,0.0,0.0,181,9.0,21200,Ancona
+,Dražen Bolić,rs SRB,DF,31,31,0.0,2.0,2002-2003,/en/players/182cda97/Drazen-Bolic,182cda97,Ancona,"2,745",30.5,9.0,0.0,181,28.0,22337,Ancona
+,Salvatore Russo,it ITA,"DF,MF",32,31,0.0,0.0,2002-2003,/en/players/8200029c/Salvatore-Russo,8200029c,Ancona,"2,716",30.2,8.0,0.0,181,9.0,22338,Ancona
+,Daniele Daino,it ITA,DF,30,27,1.0,1.0,2002-2003,/en/players/fd5eea43/Daniele-Daino,fd5eea43,Ancona,"2,384",26.5,4.0,0.0,181,9.0,21041,Ancona
+,Maurizio Ganz,it ITA,"FW,MF",29,26,3.0,11.0,2002-2003,/en/players/0df039c2/Maurizio-Ganz,0df039c2,Ancona,"2,081",23.1,1.0,0.0,181,9.0,21201,Ancona
+,Marco Schenardi,it ITA,MF,30,26,4.0,2.0,2002-2003,/en/players/e4f302e8/Marco-Schenardi,4f302e8,Ancona,"1,935",21.5,3.0,0.0,181,9.0,22339,Ancona
+,Marko Perović,rs SRB,MF,30,22,1.0,5.0,2002-2003,/en/players/ee141164/Marko-Perovic,141164,Ancona,"2,032",22.6,5.0,0.0,181,28.0,22340,Ancona
+,Giampiero Maini,it ITA,MF,22,22,3.0,7.0,2002-2003,/en/players/cc7a4224/Giampiero-Maini,cc7a4224,Ancona,"1,879",20.9,3.0,0.0,181,9.0,22341,Ancona
+,Giacomo Dicara,it ITA,DF,23,18,1.0,0.0,2002-2003,/en/players/d4bec4f1/Giacomo-Dicara,d4bec4f1,Ancona,"1,669",18.5,7.0,0.0,181,9.0,22342,Ancona
+,Emiliano Tarana,it ITA,MF,33,15,5.0,2.0,2002-2003,/en/players/f9c6d93b/Emiliano-Tarana,f9c6d93b,Ancona,"1,617",18.0,6.0,1.0,181,9.0,21744,Ancona
+,Luca Antonini,it ITA,"DF,MF",17,11,2.0,1.0,2002-2003,/en/players/09952eb7/Luca-Antonini,09952eb7,Ancona,973,10.8,3.0,0.0,181,9.0,19790,Ancona
+,Stefano Lombardi,it ITA,DF,13,9,0.0,0.0,2002-2003,/en/players/73cc4ed6/Stefano-Lombardi,73cc4ed6,Ancona,879,9.8,5.0,1.0,181,9.0,22354,Ancona
+,Francesco Montervino,it ITA,MF,17,8,0.0,1.0,2002-2003,/en/players/7efa108b/Francesco-Montervino,7efa108b,Ancona,911,10.1,5.0,1.0,181,9.0,22343,Ancona
+,Tiziano De Patre,it ITA,MF,14,8,0.0,0.0,2002-2003,/en/players/85967f76/Tiziano-De-Patre,85967f76,Ancona,803,8.9,2.0,0.0,181,9.0,22344,Ancona
+,Pasquale Luiso,it ITA,FW,10,7,0.0,2.0,2002-2003,/en/players/ab361c4d/Pasquale-Luiso,b361c4d,Ancona,578,6.4,1.0,0.0,181,9.0,22345,Ancona
+,Daniele Degano,it ITA,FW,13,5,0.0,3.0,2002-2003,/en/players/85cbdc04/Daniele-Degano,85cbdc04,Ancona,533,5.9,0.0,0.0,181,9.0,20014,Ancona
+,Igor Budan,hr CRO,FW,15,4,2.0,4.0,2002-2003,/en/players/61d0e7a8/Igor-Budan,61d0e7a8,Ancona,601,6.7,0.0,0.0,181,16.0,20037,Ancona
+,Anselmo Robbiati,it ITA,"FW,MF",12,4,1.0,0.0,2002-2003,/en/players/9252051a/Anselmo-Robbiati,9252051a,Ancona,474,5.3,2.0,0.0,181,9.0,22346,Ancona
+,Stefano Mundula,,,7,3,0.0,0.0,2002-2003,No detected,,Ancona,443,4.9,3.0,0.0,181,,90780,Ancona
+,Pier Graziano Gori,it ITA,GK,2,1,0.0,0.0,2002-2003,/en/players/8d039f57/Pier-Graziano-Gori,8d039f57,Ancona,118,1.3,0.0,0.0,181,9.0,23951,Ancona
+,Massimiliano Scaglia,it ITA,DF,3,1,0.0,0.0,2002-2003,/en/players/b746a100/Massimiliano-Scaglia,b746a100,Ancona,101,1.1,0.0,0.0,181,9.0,22347,Ancona
+,Massimiliano Giacobbo,it ITA,MF,1,0,0.0,0.0,2002-2003,/en/players/13aa3d3f/Massimiliano-Giacobbo,13aa3d3f,Ancona,8,0.1,0.0,0.0,181,9.0,22348,Ancona
+,Giovanni Passiglia,it ITA,MF,2,0,0.0,0.0,2002-2003,/en/players/6e500c7c/Giovanni-Passiglia,6e500c7c,Ancona,4,0.0,0.0,0.0,181,9.0,22349,Ancona
+,﻿Mauro Milanese,it ITA,DF,27,26,0.0,1.0,2003-2004,/en/players/51b36a39/Mauro-Milanese,51b36a39,Ancona,"2,246",25.0,8.0,1.0,181,9.0,10692,Ancona
+,Daniel Andersson,se SWE,"DF,MF",25,23,2.0,1.0,2003-2004,/en/players/b12ba903/Daniel-Andersson,b12ba903,Ancona,"1,975",21.9,3.0,0.0,181,41.0,20377,Ancona
+,Daniele Berretta,it ITA,MF,22,20,0.0,1.0,2003-2004,/en/players/3250af95/Daniele-Berretta,3250af95,Ancona,"1,716",19.1,5.0,0.0,181,9.0,20685,Ancona
+,Vincenzo Sommese,it ITA,MF,26,18,1.0,1.0,2003-2004,/en/players/857110b0/Vincenzo-Sommese,857110b0,Ancona,"1,757",19.5,3.0,0.0,181,9.0,21199,Ancona
+,Sergio Marcon,it ITA,GK,18,18,0.0,0.0,2003-2004,/en/players/5dae3627/Sergio-Marcon,5dae3627,Ancona,"1,620",18.0,0.0,0.0,181,9.0,20397,Ancona
+,Dražen Bolić,rs SRB,DF,16,15,0.0,0.0,2003-2004,/en/players/182cda97/Drazen-Bolic,182cda97,Ancona,"1,350",15.0,2.0,0.0,181,28.0,22337,Ancona
+,Davide Carrus,it ITA,MF,16,15,1.0,0.0,2003-2004,/en/players/beff5c30/Davide-Carrus,beff5c30,Ancona,"1,315",14.6,4.0,0.0,181,9.0,21056,Ancona
+,Fábio Bilica,br BRA,DF,16,14,0.0,1.0,2003-2004,/en/players/12bdac6a/Fabio-Bilica,12bdac6a,Ancona,"1,263",14.0,2.0,1.0,181,2.0,18192,Ancona
+,Milan Rapaić,hr CRO,"FW,MF",14,14,1.0,4.0,2003-2004,/en/players/d457c6a7/Milan-Rapaic,d457c6a7,Ancona,"1,101",12.2,0.0,0.0,181,16.0,22350,Ancona
+,Maurizio Ganz,it ITA,"FW,MF",25,13,3.0,3.0,2003-2004,/en/players/0df039c2/Maurizio-Ganz,0df039c2,Ancona,"1,293",14.4,4.0,1.0,181,9.0,21201,Ancona
+,Alessio Scarpi,it ITA,GK,13,13,0.0,0.0,2003-2004,/en/players/9a9913c8/Alessio-Scarpi,9a9913c8,Ancona,"1,170",13.0,0.0,0.0,181,9.0,22334,Ancona
+,William Viali,it ITA,DF,13,13,1.0,2.0,2003-2004,/en/players/2d4c95ac/William-Viali,2d4c95ac,Ancona,"1,170",13.0,6.0,0.0,181,9.0,20863,Ancona
+,Goran Pandev,mk MKD,"FW,MF",20,13,2.0,1.0,2003-2004,/en/players/d711d04f/Goran-Pandev,d711d04f,Ancona,"1,139",12.7,4.0,0.0,181,81.0,19662,Ancona
+,Dino Baggio,it ITA,MF,13,13,0.0,0.0,2003-2004,/en/players/0e351891/Dino-Baggio,0e351891,Ancona,"1,015",11.3,3.0,0.0,181,9.0,6434,Ancona
+,Giampiero Maini,it ITA,MF,17,12,0.0,1.0,2003-2004,/en/players/cc7a4224/Giampiero-Maini,cc7a4224,Ancona,"1,008",11.2,1.0,0.0,181,9.0,22341,Ancona
+,Marco Esposito,it ITA,DF,12,11,1.0,0.0,2003-2004,/en/players/f34d5386/Marco-Esposito,f34d5386,Ancona,991,11.0,3.0,0.0,181,9.0,22351,Ancona
+,Luis Helguera,es ESP,MF,13,9,0.0,0.0,2003-2004,/en/players/873ff2a7/Luis-Helguera,873ff2a7,Ancona,911,10.1,2.0,0.0,181,1.0,3267,Ancona
+,Sean Sogliano,it ITA,DF,11,9,,0.0,2003-2004,/en/players/54875eee/Sean-Sogliano,54875eee,Ancona,748,8.3,1.0,1.0,181,9.0,20860,Ancona
+,Salvatore Russo,it ITA,"DF,MF",9,9,0.0,0.0,2003-2004,/en/players/8200029c/Salvatore-Russo,8200029c,Ancona,685,7.6,3.0,0.0,181,9.0,22338,Ancona
+,Roberto Goretti,it ITA,MF,13,8,1.0,0.0,2003-2004,/en/players/c844c8c0/Roberto-Goretti,c844c8c0,Ancona,792,8.8,5.0,0.0,181,9.0,21031,Ancona
+,Cristian Bucchi,it ITA,FW,12,8,1.0,5.0,2003-2004,/en/players/8df7ea1e/Cristian-Bucchi,8df7ea1e,Ancona,763,8.5,1.0,1.0,181,9.0,21059,Ancona
+,Luigi Sartor,it ITA,DF,9,7,,0.0,2003-2004,/en/players/0c87971e/Luigi-Sartor,0c87971e,Ancona,652,7.2,3.0,0.0,181,9.0,20565,Ancona
+,Daniele Daino,it ITA,DF,7,6,0.0,0.0,2003-2004,/en/players/fd5eea43/Daniele-Daino,fd5eea43,Ancona,488,5.4,0.0,0.0,181,9.0,21041,Ancona
+,Paolo Poggi,it ITA,FW,9,6,0.0,0.0,2003-2004,/en/players/4a352e36/Paolo-Poggi,4a352e36,Ancona,443,4.9,1.0,0.0,181,9.0,22352,Ancona
+,Corrado Grabbi,it ITA,FW,7,5,0.0,0.0,2003-2004,/en/players/c85faa9b/Corrado-Grabbi,c85faa9b,Ancona,452,5.0,0.0,0.0,181,9.0,6419,Ancona
+,Luciano Zavagno,ar ARG,DF,8,4,0.0,0.0,2003-2004,/en/players/e7ada559/Luciano-Zavagno,7ada559,Ancona,485,5.4,2.0,0.0,181,5.0,9971,Ancona
+,Salvatore Bruno,it ITA,FW,8,4,0.0,0.0,2003-2004,/en/players/397033b8/Salvatore-Bruno,397033b8,Ancona,381,4.2,1.0,0.0,181,9.0,20411,Ancona
+,Dario Baccin,it ITA,DF,5,4,0.0,0.0,2003-2004,/en/players/9358a20d/Dario-Baccin,9358a20d,Ancona,325,3.6,0.0,0.0,181,9.0,22353,Ancona
+,Stefano Lombardi,it ITA,DF,4,4,0.0,0.0,2003-2004,/en/players/73cc4ed6/Stefano-Lombardi,73cc4ed6,Ancona,312,3.5,0.0,0.0,181,9.0,22354,Ancona
+,Roberto Maltagliati,it ITA,DF,5,3,0.0,0.0,2003-2004,/en/players/315860e5/Roberto-Maltagliati,315860e5,Ancona,329,3.7,0.0,1.0,181,9.0,22335,Ancona
+,Massimiliano Giacobbo,it ITA,MF,4,3,0.0,0.0,2003-2004,/en/players/13aa3d3f/Massimiliano-Giacobbo,13aa3d3f,Ancona,305,3.4,0.0,0.0,181,9.0,22348,Ancona
+,Pietro Parente,it ITA,MF,5,3,0.0,0.0,2003-2004,/en/players/12f281cc/Pietro-Parente,12f281cc,Ancona,297,3.3,0.0,0.0,181,9.0,22355,Ancona
+,Magnus Hedman,se SWE,GK,3,3,0.0,0.0,2003-2004,/en/players/258a16fd/Magnus-Hedman,258a16fd,Ancona,270,3.0,1.0,0.0,181,41.0,22356,Ancona
+,Mário Jardel,br BRA,FW,3,3,0.0,0.0,2003-2004,/en/players/53073691/Mario-Jardel,53073691,Ancona,205,2.3,0.0,0.0,181,2.0,8242,Ancona
+,Marko Perović,rs SRB,MF,3,2,0.0,0.0,2003-2004,/en/players/ee141164/Marko-Perovic,141164,Ancona,160,1.8,2.0,0.0,181,28.0,22340,Ancona
+,Pasquale Luiso,it ITA,FW,3,1,0.0,0.0,2003-2004,/en/players/ab361c4d/Pasquale-Luiso,b361c4d,Ancona,146,1.6,1.0,0.0,181,9.0,22345,Ancona
+,Daniele Fortunato,,,2,1,,0.0,2003-2004,/en/players/51f5b547/Daniele-Fortunato,51f5b547,Ancona,47,0.5,1.0,1.0,181,,90781,Ancona
+,Giovanni Goracci,it ITA,MF,2,0,,0.0,2003-2004,/en/players/99ba036c/Giovanni-Goracci,99ba036c,Ancona,79,0.9,0.0,0.0,181,9.0,22357,Ancona
+,Bruce Dombolo,fr FRA,FW,2,0,,0.0,2003-2004,/en/players/201f33a3/Bruce-Dombolo,201f33a3,Ancona,48,0.5,0.0,0.0,181,4.0,22358,Ancona
+,Andrea De Falco,it ITA,MF,2,0,0.0,0.0,2003-2004,/en/players/631ff021/Andrea-De-Falco,631ff021,Ancona,30,0.3,0.0,0.0,181,9.0,22359,Ancona
+,Matteo Rossi,,,1,0,,0.0,2003-2004,/en/players/75ebb788/Matteo-Rossi,75ebb788,Ancona,17,0.2,0.0,0.0,181,,90782,Ancona
+,﻿Simone Rizzato,it ITA,MF,41,41,1.0,1.0,2008-2009,/en/players/7111521e/Simone-Rizzato,7111521e,Ancona,"3,690",41.0,6.0,0.0,181,9.0,21515,Ancona
+,Salvatore Mastronunzio,it ITA,FW,41,41,4.0,17.0,2008-2009,/en/players/c1af9e89/Salvatore-Mastronunzio,c1af9e89,Ancona,"3,538",39.3,5.0,0.0,181,9.0,22283,Ancona
+,Edoardo Catinali,it ITA,MF,38,38,1.0,0.0,2008-2009,/en/players/220249d0/Edoardo-Catinali,220249d0,Ancona,"3,233",35.9,7.0,1.0,181,9.0,21785,Ancona
+,Andrea De Falco,it ITA,MF,35,31,3.0,3.0,2008-2009,/en/players/631ff021/Andrea-De-Falco,631ff021,Ancona,"2,857",31.7,8.0,0.0,181,9.0,22359,Ancona
+,Alberto Comazzi,it ITA,DF,30,30,0.0,0.0,2008-2009,/en/players/0e99149a/Alberto-Comazzi,0e99149a,Ancona,"2,629",29.2,11.0,0.0,181,9.0,22360,Ancona
+,Marco Turati,it ITA,DF,29,28,0.0,5.0,2008-2009,/en/players/ee60cb4e/Marco-Turati,60cb4e,Ancona,"2,299",25.5,2.0,1.0,181,9.0,21241,Ancona
+,Angelo da Costa Júnior,br BRA,GK,27,27,0.0,0.0,2008-2009,/en/players/18736214/Angelo-da-Costa-Junior,18736214,Ancona,"2,430",27.0,3.0,0.0,181,2.0,21111,Ancona
+,Richard Vanigli,it ITA,DF,25,25,0.0,1.0,2008-2009,/en/players/9a8a1615/Richard-Vanigli,9a8a1615,Ancona,"2,130",23.7,2.0,1.0,181,9.0,21325,Ancona
+,Juan Surraco,uy URU,MF,33,21,3.0,2.0,2008-2009,/en/players/220870f9/Juan-Surraco,220870f9,Ancona,"1,824",20.3,3.0,0.0,181,8.0,21250,Ancona
+,Maurizio Nassi,it ITA,FW,22,20,3.0,10.0,2008-2009,/en/players/5f8d75b5/Maurizio-Nassi,5f8d75b5,Ancona,"1,762",19.6,3.0,0.0,181,9.0,20718,Ancona
+,Matías Miramontes,ar ARG,MF,31,20,4.0,3.0,2008-2009,/en/players/ed998d0c/Matias-Miramontes,d998d0c,Ancona,"1,688",18.8,4.0,0.0,181,5.0,22361,Ancona
+,Rincón,br BRA,DF,27,16,0.0,1.0,2008-2009,/en/players/5d668fb7/Rincon,5d668fb7,Ancona,"1,691",18.8,5.0,2.0,181,2.0,13753,Ancona
+,Cristiano Camillucci,it ITA,MF,20,16,0.0,0.0,2008-2009,/en/players/d0e00ece/Cristiano-Camillucci,d0e00ece,Ancona,"1,406",15.6,5.0,1.0,181,9.0,21362,Ancona
+,Salvatore Sirigu,it ITA,GK,15,15,0.0,0.0,2008-2009,/en/players/10dc46f0/Salvatore-Sirigu,10dc46f0,Ancona,"1,350",15.0,0.0,0.0,181,9.0,1916,Ancona
+,Stefano Olivieri,it ITA,DF,16,15,0.0,2.0,2008-2009,/en/players/6df1cf82/Stefano-Olivieri,6df1cf82,Ancona,"1,292",14.4,4.0,0.0,181,9.0,22362,Ancona
+,Danilo Soddimo,it ITA,MF,26,14,1.0,3.0,2008-2009,/en/players/098139eb/Danilo-Soddimo,098139eb,Ancona,"1,413",15.7,5.0,0.0,181,9.0,22058,Ancona
+,Pasquale Schiattarella,it ITA,MF,22,14,2.0,0.0,2008-2009,/en/players/bd84fc61/Pasquale-Schiattarella,bd84fc61,Ancona,"1,153",12.8,3.0,1.0,181,9.0,20208,Ancona
+,Guilherme Siqueira,br BRA,"DF,MF",24,13,1.0,1.0,2008-2009,/en/players/3770a135/Guilherme-Siqueira,3770a135,Ancona,"1,149",12.8,3.0,0.0,181,2.0,974,Ancona
+,Roberto Colacone,it ITA,FW,27,9,2.0,2.0,2008-2009,/en/players/ad8829ad/Roberto-Colacone,d8829ad,Ancona,"1,029",11.4,5.0,0.0,181,9.0,21206,Ancona
+,Giovanni Langella,,,11,8,0.0,0.0,2008-2009,No detected,,Ancona,799,8.9,3.0,0.0,181,,90783,Ancona
+,Fabio Di,,,12,8,0.0,0.0,2008-2009,No detected,,Ancona,734,8.2,0.0,0.0,181,,90784,Ancona
+,Maurizio Anastasi,it ITA,MF,8,6,0.0,0.0,2008-2009,/en/players/90d38410/Maurizio-Anastasi,90d38410,Ancona,478,5.3,3.0,0.0,181,9.0,22363,Ancona
+,Anderson,br BRA,MF,6,3,0.0,0.0,2008-2009,/en/players/d8a9c776/Anderson,d8a9c776,Ancona,297,3.3,2.0,0.0,181,2.0,20700,Ancona
+,Mirko Guadalupi,it ITA,MF,4,2,0.0,0.0,2008-2009,/en/players/26cabbb3/Mirko-Guadalupi,26cabbb3,Ancona,138,1.5,0.0,0.0,181,9.0,22277,Ancona
+,Matías Masiero,uy URU,MF,3,1,0.0,0.0,2008-2009,/en/players/95413ecd/Matias-Masiero,95413ecd,Ancona,184,2.0,0.0,0.0,181,8.0,22364,Ancona
+,Umberto Eusepi,it ITA,FW,12,0,0.0,1.0,2008-2009,/en/players/210cc9c3/Umberto-Eusepi,210cc9c3,Ancona,244,2.7,0.0,0.0,181,9.0,22365,Ancona
+,Ivan Piccoli,it ITA,MF,1,0,0.0,0.0,2008-2009,/en/players/504654f9/Ivan-Piccoli,504654f9,Ancona,45,0.5,0.0,0.0,181,9.0,22366,Ancona
+,Dario Arcuri,,,1,0,0.0,0.0,2008-2009,No detected,,Ancona,28,0.3,0.0,0.0,181,,90785,Ancona
+,﻿Angelo da Costa Júnior,br BRA,GK,42,42,0.0,0.0,2009-2010,/en/players/18736214/Angelo-da-Costa-Junior,18736214,Ancona,"3,780",42.0,3.0,0.0,181,2.0,21111,Ancona
+,Salvatore Mastronunzio,it ITA,FW,40,40,4.0,21.0,2009-2010,/en/players/c1af9e89/Salvatore-Mastronunzio,c1af9e89,Ancona,"3,549",39.4,3.0,0.0,181,9.0,22283,Ancona
+,Roberto Colacone,it ITA,FW,40,40,6.0,10.0,2009-2010,/en/players/ad8829ad/Roberto-Colacone,d8829ad,Ancona,"3,269",36.3,6.0,0.0,181,9.0,21206,Ancona
+,Andrea De Falco,it ITA,MF,38,38,7.0,2.0,2009-2010,/en/players/631ff021/Andrea-De-Falco,631ff021,Ancona,"3,356",37.3,9.0,0.0,181,9.0,22359,Ancona
+,Francesco Cosenza,it ITA,DF,36,36,0.0,1.0,2009-2010,/en/players/98fdcb58/Francesco-Cosenza,98fdcb58,Ancona,"3,210",35.7,14.0,1.0,181,9.0,21518,Ancona
+,Juan Surraco,uy URU,MF,38,36,3.0,3.0,2009-2010,/en/players/220870f9/Juan-Surraco,220870f9,Ancona,"3,011",33.5,8.0,1.0,181,8.0,21250,Ancona
+,Filippo Cristante,it ITA,DF,35,35,0.0,1.0,2009-2010,/en/players/45f14e16/Filippo-Cristante,45f14e16,Ancona,"3,113",34.6,6.0,2.0,181,9.0,21725,Ancona
+,Andrea Milani,it ITA,DF,36,35,1.0,0.0,2009-2010,/en/players/fadc51e8/Andrea-Milani,fadc51e8,Ancona,"2,968",33.0,7.0,0.0,181,9.0,20697,Ancona
+,Luciano Zavagno,ar ARG,DF,35,35,1.0,1.0,2009-2010,/en/players/e7ada559/Luciano-Zavagno,7ada559,Ancona,"2,943",32.7,7.0,2.0,181,5.0,9971,Ancona
+,Matías Miramontes,ar ARG,MF,35,34,6.0,8.0,2009-2010,/en/players/ed998d0c/Matias-Miramontes,d998d0c,Ancona,"2,627",29.2,9.0,0.0,181,5.0,22361,Ancona
+,Edoardo Catinali,it ITA,MF,34,33,2.0,0.0,2009-2010,/en/players/220249d0/Edoardo-Catinali,220249d0,Ancona,"2,845",31.6,10.0,0.0,181,9.0,21785,Ancona
+,Pasquale Schiattarella,it ITA,MF,35,21,2.0,5.0,2009-2010,/en/players/bd84fc61/Pasquale-Schiattarella,bd84fc61,Ancona,"2,021",22.5,7.0,0.0,181,9.0,20208,Ancona
+,Fabio Pisacane,it ITA,DF,22,15,0.0,0.0,2009-2010,/en/players/56400c01/Fabio-Pisacane,56400c01,Ancona,"1,379",15.3,2.0,0.0,181,9.0,22238,Ancona
+,Cristiano Camillucci,it ITA,MF,18,10,0.0,0.0,2009-2010,/en/players/d0e00ece/Cristiano-Camillucci,d0e00ece,Ancona,"1,034",11.5,3.0,0.0,181,9.0,21362,Ancona
+,Federico Gerardi,it ITA,FW,20,4,0.0,2.0,2009-2010,/en/players/3ddd3185/Federico-Gerardi,3ddd3185,Ancona,505,5.6,3.0,1.0,181,9.0,20260,Ancona
+,Mattia Mustacchio,it ITA,"FW,MF",24,3,3.0,0.0,2009-2010,/en/players/afe3b038/Mattia-Mustacchio,fe3b038,Ancona,512,5.7,3.0,0.0,181,9.0,20949,Ancona
+,Ivan Piccoli,it ITA,MF,15,3,1.0,0.0,2009-2010,/en/players/504654f9/Ivan-Piccoli,504654f9,Ancona,508,5.6,1.0,0.0,181,9.0,22366,Ancona
+,Kris Thackray,eng ENG,DF,10,2,0.0,0.0,2009-2010,/en/players/648d7615/Kris-Thackray,648d7615,Ancona,340,3.8,0.0,0.0,181,6.0,90786,Ancona
+,Alberto Gerbo,it ITA,MF,13,0,0.0,0.0,2009-2010,/en/players/e8d0e5a2/Alberto-Gerbo,8d0e5a2,Ancona,211,2.3,4.0,0.0,181,9.0,22367,Ancona
+,Vladislav Mirchev,bg BUL,FW,10,0,0.0,0.0,2009-2010,/en/players/33d94155/Vladislav-Mirchev,33d94155,Ancona,197,2.2,0.0,0.0,181,65.0,22368,Ancona
+,﻿Massimo Bussi,it ITA,FW,2,2,0.0,2.0,2015-2016,/en/players/79b1f9bd/Massimo-Bussi,79b1f9bd,Ancona,210.0,2.3,0.0,0.0,181,9.0,22369,Ancona
+,Daniele Casiraghi,it ITA,MF,2,2,0.0,0.0,2015-2016,/en/players/0408b043/Daniele-Casiraghi,0408b043,Ancona,210.0,2.3,0.0,0.0,181,9.0,22370,Ancona
+,Dramane Konaté,ci CIV,DF,2,2,0.0,0.0,2015-2016,/en/players/03e49f6d/Dramane-Konate,03e49f6d,Ancona,210.0,2.3,0.0,0.0,181,35.0,22371,Ancona
+,Gianclaudio Lori,it ITA,GK,2,2,0.0,0.0,2015-2016,/en/players/0d77b247/Gianclaudio-Lori,0d77b247,Ancona,210.0,2.3,0.0,0.0,181,9.0,90787,Ancona
+,Marco Mallus,it ITA,DF,2,2,0.0,0.0,2015-2016,/en/players/b2b78ab6/Marco-Mallus,b2b78ab6,Ancona,210.0,2.3,1.0,0.0,181,9.0,22372,Ancona
+,Zaccaria Hamlili,it ITA,MF,2,2,0.0,0.0,2015-2016,/en/players/741f33b1/Zaccaria-Hamlili,741f33b1,Ancona,173.0,1.9,0.0,0.0,181,9.0,22373,Ancona
+,Luca Cognigni,it ITA,FW,2,2,0.0,0.0,2015-2016,/en/players/65ebf82b/Luca-Cognigni,65ebf82b,Ancona,153.0,1.7,0.0,0.0,181,9.0,22374,Ancona
+,Alessandro Morbidelli,it ITA,FW,2,2,0.0,0.0,2015-2016,/en/players/d11f94c0/Alessandro-Morbidelli,d11f94c0,Ancona,120.0,1.3,0.0,0.0,181,9.0,22375,Ancona
+,Luca Gelonese,it ITA,MF,2,1,0.0,0.0,2015-2016,/en/players/3102d731/Luca-Gelonese,3102d731,Ancona,139.0,1.5,1.0,0.0,181,9.0,22376,Ancona
+,Lorenzo Paoli,it ITA,MF,2,1,0.0,0.0,2015-2016,/en/players/81428e3b/Lorenzo-Paoli,81428e3b,Ancona,126.0,1.4,0.0,0.0,181,9.0,22377,Ancona
+,Daniele Pedrelli,it ITA,"DF,MF",1,1,0.0,0.0,2015-2016,/en/players/4c58e915/Daniele-Pedrelli,4c58e915,Ancona,120.0,1.3,0.0,0.0,181,9.0,22378,Ancona
+,Matteo Adamo,it ITA,MF,2,1,0.0,0.0,2015-2016,/en/players/30fce0e1/Matteo-Adamo,30fce0e1,Ancona,95.0,1.1,0.0,0.0,181,9.0,90788,Ancona
+,Umberto Cazzola,it ITA,MF,1,1,0.0,0.0,2015-2016,/en/players/2c50744c/Umberto-Cazzola,2c50744c,Ancona,90.0,1.0,0.0,0.0,181,9.0,22379,Ancona
+,Riccardo Pandolfi,it ITA,DF,1,1,0.0,0.0,2015-2016,/en/players/83be83f1/Riccardo-Pandolfi,83be83f1,Ancona,90.0,1.0,0.0,0.0,181,9.0,22380,Ancona
+,Lorenzo Bambozzi,it ITA,MF,2,0,0.0,0.0,2015-2016,/en/players/7d8b79be/Lorenzo-Bambozzi,7d8b79be,Ancona,97.0,1.1,0.0,0.0,181,9.0,22381,Ancona
+,Giuseppe Maiorano,it ITA,FW,1,0,0.0,0.0,2015-2016,/en/players/629ba1de/Giuseppe-Maiorano,629ba1de,Ancona,57.0,0.6,0.0,0.0,181,9.0,22382,Ancona
+,Aurelio Barilaro,it ITA,DF,0,0,,,2015-2016,/en/players/2ac156d4/Aurelio-Barilaro,2ac156d4,Ancona,,,,,181,9.0,22383,Ancona
+,Andrea Fabrizzi,it ITA,GK,0,0,,,2015-2016,/en/players/c32ddc2e/Andrea-Fabrizzi,c32ddc2e,Ancona,,,,,181,9.0,22384,Ancona
+,Davide Montagnoli,it ITA,FW,0,0,,,2015-2016,/en/players/3fc0dc61/Davide-Montagnoli,3fc0dc61,Ancona,,,,,181,9.0,22385,Ancona
+,Giuseppe Polizzi,it ITA,GK,0,0,,,2015-2016,/en/players/18d8a455/Giuseppe-Polizzi,18d8a455,Ancona,,,,,181,9.0,90789,Ancona
+,Francesco Salciccia,it ITA,DF,0,0,,,2015-2016,/en/players/aa0bedde/Francesco-Salciccia,0bedde,Ancona,,,,,181,9.0,22386,Ancona
+,Lorenzo Speranza,it ITA,FW,0,0,,,2015-2016,/en/players/257c880f/Lorenzo-Speranza,257c880f,Ancona,,,,,181,9.0,22387,Ancona
+,﻿Simone Battaglia,it ITA,MF,2,2,0.0,0.0,2016-2017,/en/players/56fb5cc4/Simone-Battaglia,56fb5cc4,Ancona,180.0,2.0,0.0,0.0,181,9.0,22388,Ancona
+,Elio De Silvestro,it ITA,FW,2,2,0.0,0.0,2016-2017,/en/players/84b7d098/Elio-De-Silvestro,84b7d098,Ancona,180.0,2.0,0.0,0.0,181,9.0,22389,Ancona
+,Petar Kostadinović,hr CRO,DF,2,2,0.0,0.0,2016-2017,/en/players/29d58697/Petar-Kostadinovic,29d58697,Ancona,180.0,2.0,0.0,0.0,181,16.0,22390,Ancona
+,Emanuele Malerba,it ITA,DF,2,2,0.0,0.0,2016-2017,/en/players/101843d4/Emanuele-Malerba,101843d4,Ancona,180.0,2.0,0.0,0.0,181,9.0,90790,Ancona
+,Luca Ricci,it ITA,DF,2,2,0.0,0.0,2016-2017,/en/players/0dc6a7fd/Luca-Ricci,0dc6a7fd,Ancona,180.0,2.0,0.0,0.0,181,9.0,22391,Ancona
+,Manuel Daffara,it ITA,DF,2,2,0.0,0.0,2016-2017,/en/players/6010bf0a/Manuel-Daffara,6010bf0a,Ancona,170.0,1.9,0.0,0.0,181,9.0,22392,Ancona
+,Daniele Casiraghi,it ITA,MF,2,2,0.0,0.0,2016-2017,/en/players/0408b043/Daniele-Casiraghi,0408b043,Ancona,163.0,1.8,0.0,0.0,181,9.0,22370,Ancona
+,Dávid Forgács,hu HUN,DF,2,2,0.0,1.0,2016-2017,/en/players/eedcd040/David-Forgacs,dcd040,Ancona,152.0,1.7,1.0,0.0,181,87.0,22393,Ancona
+,Lorenzo Bambozzi,it ITA,MF,2,2,0.0,0.0,2016-2017,/en/players/7d8b79be/Lorenzo-Bambozzi,7d8b79be,Ancona,134.0,1.5,1.0,0.0,181,9.0,22381,Ancona
+,Lorenzo Regis,,FW,2,1,0.0,0.0,2016-2017,/en/players/d7aeb4bc/Lorenzo-Regis,d7aeb4bc,Ancona,125.0,1.4,0.0,0.0,181,,90791,Ancona
+,Luca Cognigni,it ITA,FW,1,1,0.0,3.0,2016-2017,/en/players/65ebf82b/Luca-Cognigni,65ebf82b,Ancona,90.0,1.0,0.0,0.0,181,9.0,22374,Ancona
+,Gianclaudio Lori,it ITA,GK,1,1,0.0,0.0,2016-2017,/en/players/0d77b247/Gianclaudio-Lori,0d77b247,Ancona,90.0,1.0,0.0,0.0,181,9.0,90787,Ancona
+,Andrea Rossini,it ITA,GK,1,1,0.0,0.0,2016-2017,/en/players/6b4c0fb7/Andrea-Rossini,6b4c0fb7,Ancona,90.0,1.0,0.0,0.0,181,9.0,22394,Ancona
+,Luca Gelonese,it ITA,MF,2,0,0.0,0.0,2016-2017,/en/players/3102d731/Luca-Gelonese,3102d731,Ancona,28.0,0.3,0.0,0.0,181,9.0,22376,Ancona
+,Tiberio Velocci,it ITA,FW,1,0,0.0,0.0,2016-2017,/en/players/b62f63ff/Tiberio-Velocci,b62f63ff,Ancona,28.0,0.3,0.0,0.0,181,9.0,22395,Ancona
+,Alessandro Di Dio,it ITA,DF,1,0,0.0,0.0,2016-2017,/en/players/92676da4/Alessandro-Di-Dio,92676da4,Ancona,10.0,0.1,0.0,0.0,181,9.0,22396,Ancona
+,Matteo Maresca,it ITA,MF,0,0,,,2016-2017,/en/players/2175ce1f/Matteo-Maresca,2175ce1f,Ancona,,,,,181,9.0,22397,Ancona
+,Davide Montagnoli,it ITA,FW,0,0,,,2016-2017,/en/players/3fc0dc61/Davide-Montagnoli,3fc0dc61,Ancona,,,,,181,9.0,22385,Ancona
+,Francesco Salciccia,it ITA,DF,0,0,,,2016-2017,/en/players/aa0bedde/Francesco-Salciccia,0bedde,Ancona,,,,,181,9.0,22386,Ancona
+,Carlo Tassoni,it ITA,DF,0,0,,,2016-2017,/en/players/eb1febb2/Carlo-Tassoni,b1febb2,Ancona,,,,,181,9.0,90792,Ancona

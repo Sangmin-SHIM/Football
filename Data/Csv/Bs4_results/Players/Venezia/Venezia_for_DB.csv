@@ -1,322 +1,322 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Salvatore Soviero,it ITA,GK,35,35,0.0,0.0,2002-2003,7c0940a5,Venezia,"3,045",33.8,3.0,1.0,205.0,9.0,
-,Alessandro Calori,it ITA,DF,32,32,0.0,1.0,2002-2003,7398c290,Venezia,"2,867",31.9,9.0,1.0,205.0,9.0,
-,Paolo Poggi,it ITA,FW,36,30,5.0,8.0,2002-2003,4a352e36,Venezia,"2,676",29.7,1.0,0.0,205.0,9.0,
-,Rubén Maldonado,py PAR,DF,31,30,0.0,3.0,2002-2003,9cef03a0,Venezia,"2,674",29.7,10.0,0.0,205.0,43.0,
-,Giovanni Orfei,it ITA,DF,30,28,0.0,0.0,2002-2003,049c41f6,Venezia,"2,515",27.9,5.0,1.0,205.0,9.0,
-,Anderson,br BRA,MF,32,28,0.0,2.0,2002-2003,d8a9c776,Venezia,"2,366",26.3,8.0,1.0,205.0,2.0,
-,Maurizio Rossi,it ITA,MF,33,27,2.0,7.0,2002-2003,91ce696,Venezia,"2,436",27.1,2.0,0.0,205.0,9.0,
-,Enrico Fantini,it ITA,FW,35,27,1.0,7.0,2002-2003,db4be571,Venezia,"2,432",27.0,3.0,2.0,205.0,9.0,
-,Daniele Amerini,it ITA,MF,25,20,3.0,3.0,2002-2003,6d1a2fe,Venezia,"1,756",19.5,2.0,0.0,205.0,9.0,
-,Dražen Brnčić,be BEL,"DF,MF",28,19,2.0,1.0,2002-2003,b13555e,Venezia,"1,771",19.7,1.0,0.0,205.0,27.0,
-,Fabio Firmani,it ITA,MF,21,19,0.0,1.0,2002-2003,98dfb43e,Venezia,"1,673",18.6,6.0,0.0,205.0,9.0,
-,Andrea Guerra,it ITA,DF,21,19,0.0,0.0,2002-2003,d9cf9a54,Venezia,"1,588",17.6,7.0,0.0,205.0,9.0,
-,Mohammed Gargo,gh GHA,DF,18,17,0.0,0.0,2002-2003,35bc50fc,Venezia,"1,564",17.4,1.0,0.0,205.0,17.0,
-,Alessandro Manetti,it ITA,MF,25,16,1.0,0.0,2002-2003,1f15f5ae,Venezia,"1,294",14.4,8.0,1.0,205.0,9.0,
-,Evans Soligo,it ITA,MF,18,16,0.0,1.0,2002-2003,26d2e99c,Venezia,"1,293",14.4,1.0,0.0,205.0,9.0,
-,Cristian Adami,it ITA,DF,15,14,0.0,0.0,2002-2003,18492c43,Venezia,"1,218",13.5,1.0,1.0,205.0,9.0,
-,Paulo Costa,pt POR,MF,20,10,1.0,0.0,2002-2003,ca60c39,Venezia,990,11.0,1.0,0.0,205.0,3.0,
-,Giancarlo Cinetto,,,11,10,0.0,0.0,2002-2003,,Venezia,894,9.9,4.0,0.0,205.0,,
-,Eliomar Marcón,br BRA,FW,10,5,1.0,1.0,2002-2003,fd62dd4a,Venezia,486,5.4,2.0,0.0,205.0,2.0,
-,Igor Budan,hr CRO,FW,7,4,0.0,1.0,2002-2003,61d0e7a8,Venezia,306,3.4,0.0,0.0,205.0,16.0,
-,Christophe Sanchez,fr FRA,FW,9,2,0.0,0.0,2002-2003,0df22343,Venezia,253,2.8,0.0,0.0,205.0,4.0,
-,Giorgio Frezzolini,it ITA,GK,3,2,0.0,0.0,2002-2003,0b969bc1,Venezia,196,2.2,0.0,0.0,205.0,9.0,
-,Cristian Bertani,it ITA,FW,4,2,0.0,0.0,2002-2003,135d9b7f,Venezia,157,1.7,2.0,0.0,205.0,9.0,
-,Francesco Benussi,it ITA,GK,3,1,0.0,0.0,2002-2003,42bcb825,Venezia,178,2.0,1.0,0.0,205.0,9.0,
-,Alessandro Sturba,it ITA,"FW,MF",6,1,0.0,0.0,2002-2003,81483fa7,Venezia,154,1.7,0.0,0.0,205.0,9.0,
-,Kenneth Zeigbo,ng NGA,FW,3,0,0.0,0.0,2002-2003,bafdfbdc,Venezia,29,0.3,0.0,0.0,205.0,52.0,
-,Tomislav Rukavina,hr CRO,"DF,MF",1,0,0.0,0.0,2002-2003,cb8ff779,Venezia,28,0.3,0.0,0.0,205.0,16.0,
-,Mancini,br BRA,"FW,MF",2,0,0.0,0.0,2002-2003,c3baac3c,Venezia,24,0.3,0.0,0.0,205.0,2.0,
-,Marco Moro,it ITA,FW,1,0,0.0,0.0,2002-2003,490d88ab,Venezia,11,0.1,0.0,0.0,205.0,9.0,
-,﻿David Giubilato,it ITA,DF,39,38,0.0,2.0,2003-2004,46284816,Venezia,"3,429",38.1,10.0,1.0,205.0,9.0,
-,Anderson,br BRA,MF,42,38,0.0,3.0,2003-2004,d8a9c776,Venezia,"3,415",37.9,10.0,0.0,205.0,2.0,
-,Salvatore Soviero,it ITA,GK,38,38,0.0,0.0,2003-2004,7c0940a5,Venezia,"3,376",37.5,2.0,1.0,205.0,9.0,
-,Julien Brellier,fr FRA,MF,40,35,3.0,2.0,2003-2004,1a26e42a,Venezia,"3,024",33.6,9.0,3.0,205.0,4.0,
-,Rubén Maldonado,py PAR,DF,34,34,1.0,2.0,2003-2004,9cef03a0,Venezia,"3,018",33.5,4.0,2.0,205.0,43.0,
-,Alessandro Calori,it ITA,DF,26,25,0.0,0.0,2003-2004,7398c290,Venezia,"2,253",25.0,2.0,0.0,205.0,9.0,
-,Andrea Turato,it ITA,,27,25,0.0,0.0,2003-2004,26bb3699,Venezia,"2,240",24.9,8.0,0.0,205.0,9.0,
-,Alessandro Manetti,it ITA,MF,38,24,2.0,0.0,2003-2004,1f15f5ae,Venezia,"2,134",23.7,11.0,0.0,205.0,9.0,
-,Paolo Poggi,it ITA,FW,24,22,5.0,7.0,2003-2004,4a352e36,Venezia,"1,735",19.3,2.0,0.0,205.0,9.0,
-,Raffaele Biancolino,it ITA,FW,23,20,1.0,6.0,2003-2004,19dd35ab,Venezia,"1,734",19.3,1.0,0.0,205.0,9.0,
-,Daniele Amerini,it ITA,MF,20,20,1.0,0.0,2003-2004,6d1a2fe,Venezia,"1,594",17.7,6.0,0.0,205.0,9.0,
-,Giovanni Orfei,it ITA,DF,24,19,1.0,0.0,2003-2004,049c41f6,Venezia,"1,709",19.0,4.0,2.0,205.0,9.0,
-,Enrico Fantini,it ITA,FW,18,18,1.0,3.0,2003-2004,db4be571,Venezia,"1,549",17.2,0.0,0.0,205.0,9.0,
-,Giuseppe Pisani,,,26,17,2.0,2.0,2003-2004,,Venezia,"1,578",17.5,2.0,0.0,205.0,,
-,Mauro Bianchi,,,18,17,0.0,1.0,2003-2004,,Venezia,"1,420",15.8,2.0,0.0,205.0,,
-,Matías Miramontes,ar ARG,MF,26,16,2.0,2.0,2003-2004,d998d0c,Venezia,"1,504",16.7,5.0,0.0,205.0,5.0,
-,Stefano Guidoni,it ITA,FW,18,16,1.0,2.0,2003-2004,354614bb,Venezia,"1,237",13.7,1.0,0.0,205.0,9.0,
-,Cristian Fernández,ar ARG,DF,21,15,0.0,0.0,2003-2004,57c9f9c4,Venezia,"1,377",15.3,1.0,0.0,205.0,5.0,
-,Gianluca Grassadonia,it ITA,DF,16,13,0.0,0.0,2003-2004,367018bb,Venezia,"1,167",13.0,4.0,0.0,205.0,9.0,
-,Pietro Parente,it ITA,MF,13,10,1.0,1.0,2003-2004,12f281cc,Venezia,819,9.1,1.0,1.0,205.0,9.0,
-,Maurizio Rossi,it ITA,MF,22,8,1.0,2.0,2003-2004,91ce696,Venezia,942,10.5,1.0,0.0,205.0,9.0,
-,Gastón Liendo,ar ARG,FW,18,8,0.0,1.0,2003-2004,9180a553,Venezia,800,8.9,2.0,1.0,205.0,5.0,
-,Babù,br BRA,"FW,MF",21,8,1.0,0.0,2003-2004,87c00a05,Venezia,783,8.7,1.0,0.0,205.0,2.0,
-,Francesco Benussi,it ITA,GK,9,8,0.0,0.0,2003-2004,42bcb825,Venezia,757,8.4,0.0,0.0,205.0,9.0,
-,David D'Antoni,it ITA,MF,10,8,0.0,0.0,2003-2004,416f3cfd,Venezia,715,7.9,0.0,0.0,205.0,9.0,
-,Pablo Islas,ar ARG,FW,7,4,0.0,1.0,2003-2004,44156406,Venezia,355,3.9,0.0,0.0,205.0,5.0,
-,Davide Saverino,it ITA,MF,3,2,0.0,1.0,2003-2004,bc63de12,Venezia,176,2.0,0.0,0.0,205.0,9.0,
-,Ciro Ginestra,it ITA,FW,7,0,0.0,0.0,2003-2004,2f20125c,Venezia,207,2.3,0.0,0.0,205.0,9.0,
-,Andrea Bovo,it ITA,MF,3,0,0.0,0.0,2003-2004,580c6adc,Venezia,91,1.0,0.0,0.0,205.0,9.0,
-,Rivaldo González,py PAR,MF,2,0,0.0,0.0,2003-2004,cf6cc060,Venezia,39,0.4,0.0,0.0,205.0,43.0,
-,Ibekwe,ng NGA,FW,1,0,0.0,0.0,2003-2004,6a1b58c3,Venezia,17,0.2,0.0,0.0,205.0,52.0,
-,﻿Francesco Benussi,it ITA,GK,34,34,0.0,0.0,2004-2005,42bcb825,Venezia,"3,004",33.4,0.0,2.0,205.0,9.0,
-,Juan Landaida,ar ARG,DF,32,31,0.0,2.0,2004-2005,711b7662,Venezia,"2,750",30.6,6.0,1.0,205.0,5.0,
-,Anderson,br BRA,MF,33,29,1.0,5.0,2004-2005,d8a9c776,Venezia,"2,685",29.8,7.0,0.0,205.0,2.0,
-,Damián Macaluso,uy URU,DF,31,28,0.0,0.0,2004-2005,c78f2b1a,Venezia,"2,602",28.9,4.0,0.0,205.0,8.0,
-,Stefano Guidoni,it ITA,FW,31,28,0.0,6.0,2004-2005,354614bb,Venezia,"2,214",24.6,5.0,0.0,205.0,9.0,
-,Gonzalo Vicente,uy URU,DF,27,26,0.0,1.0,2004-2005,f3c66117,Venezia,"2,376",26.4,2.0,0.0,205.0,8.0,
-,Matías Miramontes,ar ARG,MF,38,25,1.0,1.0,2004-2005,d998d0c,Venezia,"2,462",27.4,4.0,0.0,205.0,5.0,
-,David Giubilato,it ITA,DF,20,20,0.0,0.0,2004-2005,46284816,Venezia,"1,800",20.0,4.0,0.0,205.0,9.0,
-,Andrea Turato,it ITA,,21,19,1.0,0.0,2004-2005,26bb3699,Venezia,"1,656",18.4,6.0,1.0,205.0,9.0,
-,Riccardo Allegretti,it ITA,MF,19,19,3.0,2.0,2004-2005,52ddad74,Venezia,"1,523",16.9,1.0,1.0,205.0,9.0,
-,M Garcia,,,22,16,2.0,0.0,2004-2005,,Venezia,"1,483",16.5,2.0,1.0,205.0,,
-,Julien Brellier,fr FRA,MF,16,16,2.0,1.0,2004-2005,1a26e42a,Venezia,"1,276",14.2,6.0,1.0,205.0,4.0,
-,Horacio Erpen,ar ARG,MF,23,15,1.0,2.0,2004-2005,b6be289c,Venezia,"1,359",15.1,2.0,0.0,205.0,5.0,
-,Massimiliano Esposito,it ITA,MF,17,15,1.0,3.0,2004-2005,12925390,Venezia,"1,200",13.3,2.0,0.0,205.0,9.0,
-,Rubén Maldonado,py PAR,DF,15,14,0.0,0.0,2004-2005,9cef03a0,Venezia,"1,204",13.4,4.0,0.0,205.0,43.0,
-,Luís Oliveira,be BEL,FW,17,13,0.0,5.0,2004-2005,194efff9,Venezia,"1,099",12.2,0.0,0.0,205.0,27.0,
-,Giovanni Orfei,it ITA,DF,12,11,0.0,1.0,2004-2005,049c41f6,Venezia,976,10.8,1.0,0.0,205.0,9.0,
-,David D'Antoni,it ITA,MF,15,10,0.0,0.0,2004-2005,416f3cfd,Venezia,"1,050",11.7,6.0,0.0,205.0,9.0,
-,Raffaele Biancolino,it ITA,FW,13,10,1.0,2.0,2004-2005,19dd35ab,Venezia,893,9.9,2.0,1.0,205.0,9.0,
-,Andrea Bovo,it ITA,MF,11,10,0.0,0.0,2004-2005,580c6adc,Venezia,712,7.9,1.0,0.0,205.0,9.0,
-,Fabio Rossitto,it ITA,MF,9,9,0.0,1.0,2004-2005,84a0904c,Venezia,744,8.3,2.0,0.0,205.0,9.0,
-,Martin Lejsal,cz CZE,GK,10,8,0.0,0.0,2004-2005,03dd627e,Venezia,726,8.1,3.0,0.0,205.0,84.0,
-,Emiliano Biliotti,it ITA,FW,20,6,0.0,0.0,2004-2005,0e879a25,Venezia,716,8.0,4.0,0.0,205.0,9.0,
-,Mattia Collauto,it ITA,MF,10,6,0.0,0.0,2004-2005,4bca0cd,Venezia,548,6.1,2.0,0.0,205.0,9.0,
-,Rivaldo González,py PAR,MF,10,6,1.0,0.0,2004-2005,cf6cc060,Venezia,445,4.9,1.0,0.0,205.0,43.0,
-,Gianluca Savoldi,it ITA,FW,10,5,0.0,1.0,2004-2005,6b4cbc17,Venezia,461,5.1,2.0,0.0,205.0,9.0,
-,Ciro Ginestra,it ITA,FW,7,4,0.0,0.0,2004-2005,2f20125c,Venezia,323,3.6,0.0,0.0,205.0,9.0,
-,Massimo Borgobello,it ITA,FW,9,3,1.0,0.0,2004-2005,7add0a61,Venezia,385,4.3,0.0,0.0,205.0,9.0,
-,Davide Saverino,it ITA,MF,8,3,0.0,0.0,2004-2005,bc63de12,Venezia,311,3.5,2.0,1.0,205.0,9.0,
-,Leonardo Raul Villa,ar ARG,FW,5,3,0.0,0.0,2004-2005,5d8e8065,Venezia,303,3.4,1.0,0.0,205.0,5.0,
-,Jose Gonzalves,,,3,3,0.0,0.0,2004-2005,,Venezia,270,3.0,0.0,0.0,205.0,,
-,John Olufemi,ng NGA,FW,6,2,0.0,0.0,2004-2005,3dc6addb,Venezia,254,2.8,0.0,0.0,205.0,52.0,
-,Marin Guimaraens,py PAR,DF,2,2,0.0,0.0,2004-2005,031eaae8,Venezia,180,2.0,0.0,0.0,205.0,43.0,
-,Akande Ajide,ng NGA,"FW,MF",5,1,0.0,0.0,2004-2005,57f8139,Venezia,157,1.7,0.0,0.0,205.0,52.0,
-,Alberto Savino,it ITA,DF,2,1,0.0,0.0,2004-2005,824a769d,Venezia,111,1.2,0.0,0.0,205.0,9.0,
-,Ariel Grana,ar ARG,DF,2,1,0.0,0.0,2004-2005,c97dafaf,Venezia,95,1.1,0.0,0.0,205.0,5.0,
-,Daniele Gregori,it ITA,DF,2,1,0.0,0.0,2004-2005,53415514,Venezia,91,1.0,1.0,0.0,205.0,9.0,
-,Francesco Caco,,,1,1,0.0,0.0,2004-2005,,Venezia,59,0.7,0.0,0.0,205.0,,
-,Riccardo Pezzato,,,1,0,0.0,0.0,2004-2005,,Venezia,45,0.5,0.0,0.0,205.0,,
-,Rodrigue Boisfer,fr FRA,MF,1,0,0.0,0.0,2004-2005,f9144aee,Venezia,43,0.5,1.0,0.0,205.0,4.0,
-,Ruben,ar ARG,DF,1,0,0.0,0.0,2004-2005,d138cf4f,Venezia,31,0.3,0.0,0.0,205.0,5.0,
-,Luca Conean,,,1,0,0.0,0.0,2004-2005,,Venezia,10,0.1,0.0,0.0,205.0,,
-,Andrea Villotta,,,1,0,0.0,0.0,2004-2005,,Venezia,3,0.0,0.0,0.0,205.0,,
-,﻿Gennaro Esposito,it ITA,MF,2,2,0.0,0.0,2014-2015,3e850c9,Venezia,180.0,2.0,0.0,0.0,205.0,9.0,
-,Alberto Giuliatto,it ITA,DF,2,2,0.0,0.0,2014-2015,448cf768,Venezia,180.0,2.0,1.0,0.0,205.0,9.0,
-,Elia Legati,it ITA,DF,2,2,0.0,0.0,2014-2015,f126ce9b,Venezia,180.0,2.0,2.0,0.0,205.0,9.0,
-,Antonio Marino,it ITA,DF,2,2,0.0,0.0,2014-2015,561951d5,Venezia,180.0,2.0,0.0,0.0,205.0,9.0,
-,Simone Sales,it ITA,DF,2,2,0.0,0.0,2014-2015,102acb0,Venezia,180.0,2.0,1.0,0.0,205.0,9.0,
-,Lukáš Zima,cz CZE,GK,2,2,0.0,0.0,2014-2015,1e330270,Venezia,180.0,2.0,0.0,0.0,205.0,84.0,
-,Tommaso Bellazzini,it ITA,MF,2,2,0.0,2.0,2014-2015,2d629a65,Venezia,177.0,2.0,0.0,0.0,205.0,9.0,
-,Davide Carcuro,it ITA,MF,2,2,0.0,1.0,2014-2015,f4abb8bf,Venezia,157.0,1.7,0.0,0.0,205.0,9.0,
-,Vinicio Espinal,do DOM,MF,2,2,0.0,0.0,2014-2015,2fa8aa4d,Venezia,155.0,1.7,0.0,0.0,205.0,25.0,
-,Simone Magnaghi,it ITA,FW,2,2,0.0,0.0,2014-2015,6724dbe,Venezia,136.0,1.5,0.0,0.0,205.0,9.0,
-,Raffaele Franchini,it ITA,FW,2,2,0.0,1.0,2014-2015,f97117b4,Venezia,121.0,1.3,0.0,0.0,205.0,9.0,
-,Mattia Zaccagni,it ITA,"FW,MF",2,0,0.0,0.0,2014-2015,d85c238b,Venezia,48.0,0.5,0.0,0.0,205.0,9.0,
-,Nicholas Siega,it ITA,FW,1,0,0.0,1.0,2014-2015,f94e4cd7,Venezia,44.0,0.5,0.0,0.0,205.0,9.0,
-,Federico Varano,it ITA,MF,2,0,0.0,0.0,2014-2015,c829160d,Venezia,32.0,0.4,0.0,0.0,205.0,9.0,
-,Giuseppe Greco,it ITA,FW,1,0,0.0,0.0,2014-2015,0c3c4de8,Venezia,30.0,0.3,0.0,0.0,205.0,9.0,
-,Francesco Cernuto,it ITA,DF,0,0,,,2014-2015,2890cfd4,Venezia,,,,,205.0,9.0,
-,Stefano Fortunato,it ITA,GK,0,0,,,2014-2015,b404cc89,Venezia,,,,,205.0,9.0,
-,Abdul Meite,it ITA,MF,0,0,,,2014-2015,b0af07c1,Venezia,,,,,205.0,9.0,
-,Emanuele Panzeri,it ITA,DF,0,0,,,2014-2015,cacb216,Venezia,,,,,205.0,9.0,
-,Max Taddei,it ITA,MF,0,0,,,2014-2015,35c33bc9,Venezia,,,,,205.0,9.0,
-,﻿Marcello Falzerano,it ITA,MF,39,38,9.0,4.0,2017-2018,714fa52a,Venezia,"3,387",37.6,3.0,1.0,205.0,9.0,
-,Maurizio Domizzi,it ITA,DF,37,37,1.0,3.0,2017-2018,822aad0c,Venezia,"3,313",36.8,8.0,2.0,205.0,9.0,
-,Marco Modolo,it ITA,DF,36,36,1.0,3.0,2017-2018,fdcdb521,Venezia,"3,008",33.4,8.0,0.0,205.0,9.0,
-,Emil Audero,it ITA,GK,35,35,0.0,0.0,2017-2018,649b01d8,Venezia,"3,150",35.0,1.0,0.0,205.0,9.0,
-,Siniša Anđelković,si SVN,DF,32,31,0.0,1.0,2017-2018,f978a28b,Venezia,"2,736",30.4,2.0,0.0,205.0,32.0,
-,Agostino Garofalo,it ITA,MF,28,28,2.0,1.0,2017-2018,bf128669,Venezia,"2,392",26.6,6.0,0.0,205.0,9.0,
-,Marco Pinato,it ITA,MF,33,25,3.0,3.0,2017-2018,9deed39b,Venezia,"2,166",24.1,0.0,0.0,205.0,9.0,
-,Leo Štulac,si SVN,MF,21,21,4.0,6.0,2017-2018,92948398,Venezia,"1,886",21.0,2.0,0.0,205.0,32.0,
-,Simone Bentivoglio,it ITA,MF,21,21,4.0,2.0,2017-2018,7a8ecf0b,Venezia,"1,871",20.8,7.0,3.0,205.0,9.0,
-,Gianmarco Zigoni,it ITA,FW,40,20,2.0,6.0,2017-2018,37ed655,Venezia,"1,855",20.6,1.0,0.0,205.0,9.0,
-,Matteo Bruscagin,it ITA,"MF,DF",23,20,0.0,1.0,2017-2018,03422b8f,Venezia,"1,848",20.5,4.0,0.0,205.0,9.0,
-,Giuseppe Zampano,it ITA,"MF,DF",20,20,2.0,0.0,2017-2018,5e3fb6c,Venezia,"1,702",18.9,2.0,0.0,205.0,9.0,
-,Davide Marsura,it ITA,FW,30,18,2.0,5.0,2017-2018,bc8912f0,Venezia,"1,564",17.4,2.0,0.0,205.0,9.0,
-,Gianluca Litteri,it ITA,FW,19,16,1.0,7.0,2017-2018,44e54c78,Venezia,"1,371",15.2,2.0,2.0,205.0,9.0,
-,Alexandre Geijo,es ESP,FW,31,15,5.0,5.0,2017-2018,c0787e61,Venezia,"1,575",17.5,3.0,0.0,205.0,1.0,
-,Sergiu Suciu,ro ROU,MF,26,15,0.0,1.0,2017-2018,f9179751,Venezia,"1,395",15.5,0.0,0.0,205.0,51.0,
-,Stefano Moreo,it ITA,FW,20,15,3.0,3.0,2017-2018,7c52943c,Venezia,"1,324",14.7,3.0,0.0,205.0,9.0,
-,Cristiano Del Grosso,it ITA,"MF,DF",20,14,2.0,0.0,2017-2018,b0603a52,Venezia,"1,353",15.0,1.0,0.0,205.0,9.0,
-,Nicolas Frey,fr FRA,MF,12,12,1.0,0.0,2017-2018,6378443d,Venezia,"1,015",11.3,5.0,0.0,205.0,4.0,
-,Francesco Cernuto,it ITA,DF,17,11,0.0,1.0,2017-2018,2890cfd4,Venezia,"1,010",11.2,4.0,0.0,205.0,9.0,
-,Guglielmo Vicario,it ITA,GK,7,6,0.0,0.0,2017-2018,77d6fd4d,Venezia,557,6.2,1.0,0.0,205.0,9.0,
-,Gianni Fabiano,it ITA,MF,17,4,0.0,0.0,2017-2018,0168e87a,Venezia,521,5.8,3.0,0.0,205.0,9.0,
-,Marco Firenze,it ITA,MF,7,2,0.0,2.0,2017-2018,5cac421a,Venezia,260,2.9,0.0,0.0,205.0,9.0,
-,Francesco Signori,it ITA,MF,7,1,0.0,0.0,2017-2018,0e321a1c,Venezia,144,1.6,0.0,0.0,205.0,9.0,
-,Danilo Russo,it ITA,GK,1,1,0.0,0.0,2017-2018,8decee19,Venezia,73,0.8,0.0,0.0,205.0,9.0,
-,Jan Mlakar,si SVN,FW,3,0,0.0,0.0,2017-2018,44d9bd5e,Venezia,23,0.3,0.0,0.0,205.0,32.0,
-,Evans Soligo,it ITA,MF,2,0,0.0,0.0,2017-2018,26d2e99c,Venezia,11,0.1,0.0,0.0,205.0,9.0,
-,Roberto Barlocco,it ITA,GK,0,0,,,2017-2018,14979bbb,Venezia,,,,,205.0,9.0,
-,Emanuele Cigagna,it ITA,DF,0,0,,,2017-2018,52cad73a,Venezia,,,,,205.0,9.0,
-,Vittorio Fabris,it ITA,MF,0,0,,,2017-2018,4e09dd29,Venezia,,,,,205.0,9.0,
-,Pier Graziano Gori,it ITA,GK,0,0,,,2017-2018,8d039f57,Venezia,,,,,205.0,9.0,
-,Domenico Rossi,it ITA,MF,0,0,,,2017-2018,cf2d89d6,Venezia,,,,,205.0,9.0,
-,Roberto Strechie,it ITA,MF,0,0,,,2017-2018,dcfe1a46,Venezia,,,,,205.0,9.0,
-,Simone Tagliapietra,it ITA,DF,0,0,,,2017-2018,65e8c0b1,Venezia,,,,,205.0,9.0,
-,Mattia Vitale,it ITA,MF,0,0,,,2017-2018,8e4b894b,Venezia,,,,,205.0,9.0,
-,Mattia Zennaro,it ITA,MF,0,0,,,2017-2018,08a3f85,Venezia,,,,,205.0,9.0,
-,﻿Guglielmo Vicario,it ITA,GK,32,32,0.0,0.0,2018-2019,77d6fd4d,Venezia,"2,880",32.0,2.0,0.0,205.0,9.0,
-,Marco Modolo,it ITA,DF,32,32,2.0,2.0,2018-2019,fdcdb521,Venezia,"2,820",31.3,12.0,0.0,205.0,9.0,
-,Maurizio Domizzi,it ITA,DF,28,28,0.0,5.0,2018-2019,822aad0c,Venezia,"2,475",27.5,10.0,1.0,205.0,9.0,
-,Matteo Bruscagin,it ITA,"DF,MF",27,27,2.0,0.0,2018-2019,03422b8f,Venezia,"2,315",25.7,1.0,0.0,205.0,9.0,
-,Francesco Di Mariano,it ITA,"FW,MF",29,26,0.0,7.0,2018-2019,35a2557c,Venezia,"2,244",24.9,6.0,1.0,205.0,9.0,
-,Simone Bentivoglio,it ITA,MF,26,23,1.0,2.0,2018-2019,7a8ecf0b,Venezia,"2,009",22.3,7.0,0.0,205.0,9.0,
-,Jacopo Segre,it ITA,MF,29,21,0.0,3.0,2018-2019,3cb132e6,Venezia,"1,878",20.9,5.0,0.0,205.0,9.0,
-,Giuseppe Zampano,it ITA,"MF,DF",20,18,1.0,0.0,2018-2019,5e3fb6c,Venezia,"1,648",18.3,4.0,0.0,205.0,9.0,
-,Marco Pinato,it ITA,MF,22,18,2.0,0.0,2018-2019,9deed39b,Venezia,"1,319",14.7,3.0,0.0,205.0,9.0,
-,Andrea Schiavone,it ITA,MF,23,16,1.0,0.0,2018-2019,4b55eb4d,Venezia,"1,569",17.4,4.0,0.0,205.0,9.0,
-,Agostino Garofalo,it ITA,"MF,DF",17,15,1.0,0.0,2018-2019,bf128669,Venezia,"1,369",15.2,2.0,0.0,205.0,9.0,
-,Mauro Coppolaro,it ITA,DF,16,15,0.0,0.0,2018-2019,47d9821b,Venezia,"1,351",15.0,3.0,0.0,205.0,9.0,
-,Riccardo Bocalon,it ITA,FW,15,15,1.0,3.0,2018-2019,50604909,Venezia,"1,325",14.7,4.0,0.0,205.0,9.0,
-,Marcello Falzerano,it ITA,"MF,FW",14,14,2.0,0.0,2018-2019,714fa52a,Venezia,"1,191",13.2,1.0,1.0,205.0,9.0,
-,Sergiu Suciu,ro ROU,MF,16,12,0.0,0.0,2018-2019,f9179751,Venezia,"1,048",11.6,1.0,0.0,205.0,51.0,
-,Giacomo Vrioni,al ALB,FW,24,11,1.0,1.0,2018-2019,bf4d31d3,Venezia,"1,146",12.7,4.0,0.0,205.0,78.0,
-,Cristiano Lombardi,it ITA,"MF,FW",11,10,1.0,0.0,2018-2019,f124b4c9,Venezia,857,9.5,4.0,1.0,205.0,9.0,
-,Nicola Citro,it ITA,"FW,MF",17,9,1.0,5.0,2018-2019,92834239,Venezia,822,9.1,0.0,0.0,205.0,9.0,
-,Mattia Zennaro,it ITA,"MF,FW",10,8,0.0,0.0,2018-2019,08a3f85,Venezia,618,6.9,0.0,0.0,205.0,9.0,
-,Siniša Anđelković,si SVN,DF,8,6,0.0,0.0,2018-2019,f978a28b,Venezia,566,6.3,1.0,1.0,205.0,32.0,
-,Michele Fornasier,it ITA,DF,8,6,0.0,0.0,2018-2019,fb3890d6,Venezia,548,6.1,3.0,0.0,205.0,9.0,
-,Alessandro Rossi,it ITA,FW,9,6,0.0,0.0,2018-2019,ccf5926f,Venezia,424,4.7,2.0,0.0,205.0,9.0,
-,Róbert Mazáň,sk SVK,"DF,MF",7,5,0.0,0.0,2018-2019,30672832,Venezia,483,5.4,2.0,0.0,205.0,70.0,
-,Gianluca Litteri,it ITA,FW,12,4,1.0,1.0,2018-2019,44e54c78,Venezia,487,5.4,1.0,0.0,205.0,9.0,
-,Luca Lezzerini,it ITA,GK,4,4,0.0,0.0,2018-2019,c9c32262,Venezia,360,4.0,0.0,0.0,205.0,9.0,
-,Emmanuel Besea,gh GHA,MF,7,4,0.0,0.0,2018-2019,fef67c38,Venezia,338,3.8,1.0,0.0,205.0,17.0,
-,Francesco Cernuto,it ITA,DF,5,3,0.0,0.0,2018-2019,2890cfd4,Venezia,272,3.0,1.0,0.0,205.0,9.0,
-,Harvey St Clair,nz NZL,MF,12,2,1.0,0.0,2018-2019,4a5b485d,Venezia,380,4.2,2.0,0.0,205.0,126.0,
-,Davide Marsura,it ITA,FW,10,2,0.0,0.0,2018-2019,bc8912f0,Venezia,256,2.8,0.0,0.0,205.0,9.0,
-,Alexandre Geijo,es ESP,FW,7,2,0.0,1.0,2018-2019,c0787e61,Venezia,249,2.8,0.0,0.0,205.0,1.0,
-,Gianmarco Zigoni,it ITA,FW,4,1,0.0,3.0,2018-2019,37ed655,Venezia,153,1.7,1.0,0.0,205.0,9.0,
-,Alexandre Pimenta,pt POR,FW,2,1,0.0,0.0,2018-2019,bbedb965,Venezia,134,1.5,0.0,0.0,205.0,3.0,
-,Matteo Bonato,it ITA,GK,0,0,,,2018-2019,b69991b,Venezia,,,,,205.0,9.0,
-,Bruno,br BRA,GK,0,0,,,2018-2019,51336b7,Venezia,,,,,205.0,2.0,
-,Manuel Enzo,it ITA,GK,0,0,,,2018-2019,662f02ca,Venezia,,,,,205.0,9.0,
-,Gianni Fabiano,it ITA,MF,0,0,,,2018-2019,0168e87a,Venezia,,,,,205.0,9.0,
-,Davide Facchin,it ITA,GK,0,0,,,2018-2019,10059f1b,Venezia,,,,,205.0,9.0,
-,Lorenzo Migliorelli,it ITA,DF,0,0,,,2018-2019,94625acd,Venezia,,,,,205.0,9.0,
-,Edoardo Soldati,it ITA,DF,0,0,,,2018-2019,d5d3598e,Venezia,,,,,205.0,9.0,
-,﻿Luca Lezzerini,it ITA,GK,34,34,0.0,0.0,2019-2020,c9c32262,Venezia,"3,060",34.0,0.0,0.0,205.0,9.0,
-,Luca Fiordilino,it ITA,MF,35,33,0.0,0.0,2019-2020,9bb1ad91,Venezia,"2,925",32.5,14.0,0.0,205.0,9.0,
-,Alessandro Capello,it ITA,"FW,MF",38,32,5.0,7.0,2019-2020,d94cc025,Venezia,"2,780",30.9,4.0,0.0,205.0,9.0,
-,Marco Modolo,it ITA,DF,32,30,0.0,1.0,2019-2020,fdcdb521,Venezia,"2,727",30.3,7.0,0.0,205.0,9.0,
-,Pietro Ceccaroni,it ITA,DF,31,28,0.0,1.0,2019-2020,4d1efb48,Venezia,"2,638",29.3,4.0,0.0,205.0,9.0,
-,Mattia Aramu,it ITA,MF,31,27,4.0,11.0,2019-2020,0847b5a5,Venezia,"2,268",25.2,6.0,2.0,205.0,9.0,
-,Youssef Maleh,it ITA,MF,28,25,2.0,1.0,2019-2020,4c8845f7,Venezia,"1,996",22.2,9.0,1.0,205.0,9.0,
-,Alessandro Fiordaliso,it ITA,DF,26,21,1.0,0.0,2019-2020,788fff85,Venezia,"1,904",21.2,3.0,0.0,205.0,9.0,
-,Ivan Lakićević,rs SRB,DF,18,16,2.0,0.0,2019-2020,47508c51,Venezia,"1,510",16.8,2.0,0.0,205.0,28.0,
-,Nicolò Casale,it ITA,DF,20,16,0.0,0.0,2019-2020,3f5f38fb,Venezia,"1,455",16.2,2.0,0.0,205.0,9.0,
-,Michele Cremonesi,it ITA,DF,18,16,0.0,0.0,2019-2020,53636fce,Venezia,"1,379",15.3,4.0,0.0,205.0,9.0,
-,Riccardo Bocalon,it ITA,FW,18,15,2.0,3.0,2019-2020,50604909,Venezia,"1,381",15.3,1.0,0.0,205.0,9.0,
-,Lorenzo Lollo,it ITA,MF,28,15,1.0,0.0,2019-2020,1272d9f4,Venezia,"1,362",15.1,6.0,1.0,205.0,9.0,
-,Samuele Longo,it ITA,FW,17,15,0.0,4.0,2019-2020,1163de29,Venezia,"1,343",14.9,3.0,0.0,205.0,9.0,
-,Adriano Montalto,it ITA,FW,19,14,1.0,3.0,2019-2020,f3308c,Venezia,"1,195",13.3,5.0,0.0,205.0,9.0,
-,Antonio Vacca,it ITA,MF,16,12,0.0,0.0,2019-2020,444c89d9,Venezia,901,10.0,1.0,0.0,205.0,9.0,
-,Franco Zuculini,ar ARG,MF,18,11,2.0,0.0,2019-2020,9c31bb89,Venezia,"1,017",11.3,7.0,0.0,205.0,5.0,
-,Cristian Molinaro,it ITA,DF,12,11,0.0,0.0,2019-2020,1c8c5aed,Venezia,859,9.5,3.0,0.0,205.0,9.0,
-,Fabrizio Caligara,it ITA,MF,16,9,0.0,1.0,2019-2020,22ca11f1,Venezia,770,8.6,7.0,1.0,205.0,9.0,
-,Sergiu Suciu,ro ROU,MF,14,7,0.0,0.0,2019-2020,f9179751,Venezia,653,7.3,0.0,0.0,205.0,51.0,
-,Francesco Di Mariano,it ITA,"FW,MF",12,6,0.0,0.0,2019-2020,35a2557c,Venezia,556,6.2,0.0,0.0,205.0,9.0,
-,Gian Filippo Felicioli,it ITA,DF,7,6,0.0,0.0,2019-2020,ff219f73,Venezia,490,5.4,1.0,0.0,205.0,9.0,
-,Marco Firenze,it ITA,"MF,DF",11,4,0.0,2.0,2019-2020,5cac421a,Venezia,488,5.4,3.0,0.0,205.0,9.0,
-,Davide Riccardi,it ITA,DF,7,4,0.0,0.0,2019-2020,7b4b9221,Venezia,381,4.2,3.0,1.0,205.0,9.0,
-,Alberto Pomini,it ITA,GK,4,4,0.0,0.0,2019-2020,71c08e99,Venezia,360,4.0,0.0,0.0,205.0,9.0,
-,Gaetano Monachello,it ITA,FW,12,3,0.0,0.0,2019-2020,241ee811,Venezia,334,3.7,2.0,0.0,205.0,9.0,
-,Antonio Marino,it ITA,DF,8,3,0.0,0.0,2019-2020,561951d5,Venezia,322,3.6,0.0,0.0,205.0,9.0,
-,Gianmarco Zigoni,it ITA,FW,17,1,1.0,1.0,2019-2020,37ed655,Venezia,343,3.8,0.0,0.0,205.0,9.0,
-,Yuri Senesi,it ITA,FW,4,0,0.0,0.0,2019-2020,d7f48e65,Venezia,79,0.9,0.0,0.0,205.0,9.0,
-,Bruno,br BRA,GK,0,0,,,2019-2020,51336b7,Venezia,,,,,205.0,2.0,
-,Matteo Daffrè,it ITA,GK,0,0,,,2019-2020,88a96145,Venezia,,,,,205.0,9.0,
-,Mario De Marino,it ITA,DF,0,0,,,2019-2020,d87af43c,Venezia,,,,,205.0,9.0,
-,Lorenzo Gavioli,it ITA,MF,0,0,,,2019-2020,c762ea02,Venezia,,,,,205.0,9.0,
-,Alexandre Pimenta,pt POR,MF,0,0,,,2019-2020,bbedb965,Venezia,,,,,205.0,3.0,
-,Domenico Rossi,it ITA,MF,0,0,,,2019-2020,cf2d89d6,Venezia,,,,,205.0,9.0,
-,Nicolò Simeoni,it ITA,FW,0,0,,,2019-2020,6e17a5c3,Venezia,,,,,205.0,9.0,
-,Harvey St Clair,nz NZL,FW,0,0,,,2019-2020,4a5b485d,Venezia,,,,,205.0,126.0,
-,﻿Pietro Ceccaroni,it ITA,DF,37,37,2.0,3.0,2020-2021,4d1efb48,Venezia,"3,330",37.0,4.0,0.0,205.0,9.0,
-,Pasquale Mazzocchi,it ITA,DF,34,30,1.0,1.0,2020-2021,b0ec070,Venezia,"2,733",30.4,7.0,0.0,205.0,9.0,
-,Luca Fiordilino,it ITA,MF,37,30,1.0,4.0,2020-2021,9bb1ad91,Venezia,"2,669",29.7,9.0,0.0,205.0,9.0,
-,Francesco Forte,it ITA,FW,33,30,1.0,14.0,2020-2021,69e11a01,Venezia,"2,560",28.4,3.0,0.0,205.0,9.0,
-,Mattia Aramu,it ITA,"MF,FW",34,30,6.0,9.0,2020-2021,0847b5a5,Venezia,"2,437",27.1,5.0,0.0,205.0,9.0,
-,Youssef Maleh,it ITA,MF,29,27,4.0,4.0,2020-2021,4c8845f7,Venezia,"2,303",25.6,8.0,0.0,205.0,9.0,
-,Marco Modolo,it ITA,DF,27,26,0.0,1.0,2020-2021,fdcdb521,Venezia,"2,224",24.7,6.0,0.0,205.0,9.0,
-,Luca Lezzerini,it ITA,GK,21,21,0.0,0.0,2020-2021,c9c32262,Venezia,"1,824",20.3,1.0,0.0,205.0,9.0,
-,Dennis Johnsen,no NOR,"FW,MF",32,20,3.0,3.0,2020-2021,66784dee,Venezia,"1,841",20.5,4.0,2.0,205.0,21.0,
-,Anthony Taugourdeau,fr FRA,MF,26,19,2.0,0.0,2020-2021,fab12e1a,Venezia,"1,715",19.1,3.0,0.0,205.0,4.0,
-,Gian Filippo Felicioli,it ITA,DF,24,19,0.0,0.0,2020-2021,ff219f73,Venezia,"1,698",18.9,3.0,0.0,205.0,9.0,
-,Francesco Di Mariano,it ITA,"FW,MF",31,16,6.0,2.0,2020-2021,35a2557c,Venezia,"1,705",18.9,5.0,0.0,205.0,9.0,
-,Antonio Vacca,it ITA,MF,14,13,0.0,0.0,2020-2021,444c89d9,Venezia,844,9.4,4.0,0.0,205.0,9.0,
-,Domen Črnigoj,si SVN,MF,30,12,0.0,3.0,2020-2021,22cd43d2,Venezia,"1,243",13.8,4.0,0.0,205.0,32.0,
-,Alberto Pomini,it ITA,GK,12,11,0.0,0.0,2020-2021,71c08e99,Venezia,"1,056",11.7,0.0,0.0,205.0,9.0,
-,Cristian Molinaro,it ITA,DF,16,11,0.0,0.0,2020-2021,1c8c5aed,Venezia,941,10.5,2.0,0.0,205.0,9.0,
-,Michael Svoboda,at AUT,DF,19,10,0.0,1.0,2020-2021,8abd174d,Venezia,963,10.7,3.0,0.0,205.0,24.0,
-,Alessandro Capello,it ITA,"MF,FW",14,10,1.0,0.0,2020-2021,d94cc025,Venezia,774,8.6,3.0,0.0,205.0,9.0,
-,Giacomo Ricci,it ITA,DF,11,9,0.0,0.0,2020-2021,cfb38237,Venezia,763,8.5,3.0,0.0,205.0,9.0,
-,Sebastiano Esposito,it ITA,"FW,MF",18,8,1.0,2.0,2020-2021,7ff93107,Venezia,792,8.8,2.0,0.0,205.0,9.0,
-,Riccardo Bocalon,it ITA,FW,27,7,0.0,2.0,2020-2021,50604909,Venezia,786,8.7,3.0,0.0,205.0,9.0,
-,Gabriele Ferrarini,it ITA,DF,14,7,1.0,0.0,2020-2021,76451f32,Venezia,721,8.0,2.0,0.0,205.0,9.0,
-,Niki Mäenpää,fi FIN,GK,6,6,0.0,0.0,2020-2021,14a96e1c,Venezia,540,6.0,0.0,0.0,205.0,83.0,
-,Jacopo Dezi,it ITA,MF,12,3,2.0,0.0,2020-2021,921b9db,Venezia,326,3.6,1.0,0.0,205.0,9.0,
-,Bjarki Bjarkason,is ISL,MF,9,2,0.0,0.0,2020-2021,f1d25de7,Venezia,285,3.2,1.0,0.0,205.0,40.0,
-,Michele Cremonesi,it ITA,DF,5,2,0.0,0.0,2020-2021,53636fce,Venezia,227,2.5,2.0,0.0,205.0,9.0,
-,Harvey St Clair,nz NZL,"MF,DF",7,2,0.0,0.0,2020-2021,4a5b485d,Venezia,130,1.4,0.0,0.0,205.0,126.0,
-,Óttar Magnús Karlsson,is ISL,FW,7,0,0.0,1.0,2020-2021,8649e475,Venezia,113,1.3,1.0,0.0,205.0,40.0,
-,Domenico Rossi,it ITA,MF,4,0,0.0,0.0,2020-2021,cf2d89d6,Venezia,54,0.6,0.0,0.0,205.0,9.0,
-,Antonio Marino,it ITA,DF,2,0,0.0,0.0,2020-2021,561951d5,Venezia,15,0.2,0.0,0.0,205.0,9.0,
-,Lauri Ala-Myllymäki,fi FIN,MF,0,0,,,2020-2021,77e1758f,Venezia,,,,,205.0,83.0,
-,Salvatore Carotenuto,it ITA,GK,0,0,,,2020-2021,d412e732,Venezia,,,,,205.0,9.0,
-,Roman Lazar,,GK,0,0,,,2020-2021,ce1ff12c,Venezia,,,,,205.0,,
-,Samuel Marchesan,it ITA,MF,0,0,,,2020-2021,3ff1b602,Venezia,,,,,205.0,9.0,
-,Riccardo Pigozzo,it ITA,GK,0,0,,,2020-2021,be5bc5c4,Venezia,,,,,205.0,9.0,
-,Jordan Poha,fr FRA,DF,0,0,,,2020-2021,b96fb922,Venezia,,,,,205.0,4.0,
-,Filippo Serena,it ITA,MF,0,0,,,2020-2021,c44438f5,Venezia,,,,,205.0,9.0,
-,Leonardo Tonello,it ITA,GK,0,0,,,2020-2021,3c29e1fd,Venezia,,,,,205.0,9.0,
-,﻿Pietro Ceccaroni,it ITA,DF,35,35,1.0,2.0,2021-2022,4d1efb48,Venezia,"3,122",34.7,7.0,1.0,205.0,9.0,
-,Mattia Caldara,it ITA,DF,31,30,0.0,1.0,2021-2022,c7e640b,Venezia,"2,704",30.0,9.0,0.0,205.0,9.0,
-,Ethan Ampadu,wls WAL,"MF,DF",29,26,3.0,0.0,2021-2022,10b9fa99,Venezia,"2,282",25.4,13.0,2.0,205.0,18.0,
-,Mattia Aramu,it ITA,"MF,FW",32,25,5.0,7.0,2021-2022,0847b5a5,Venezia,"2,100",23.3,6.0,0.0,205.0,9.0,
-,Ridgeciano Haps,sr SUR,DF,25,24,1.0,1.0,2021-2022,c8d7131c,Venezia,"2,056",22.8,6.0,0.0,205.0,79.0,
-,David Okereke,ng NGA,"FW,MF",32,24,0.0,7.0,2021-2022,d125f22f,Venezia,"2,053",22.8,5.0,1.0,205.0,52.0,
-,Thomas Henry,fr FRA,FW,33,23,2.0,9.0,2021-2022,9ef42479,Venezia,"2,115",23.5,6.0,1.0,205.0,4.0,
-,Gianluca Busio,us USA,MF,29,23,1.0,1.0,2021-2022,4a0b7f07,Venezia,"1,950",21.7,8.0,0.0,205.0,75.0,
-,Domen Črnigoj,si SVN,MF,34,22,1.0,3.0,2021-2022,22cd43d2,Venezia,"1,881",20.9,3.0,0.0,205.0,32.0,
-,Dennis Johnsen,no NOR,"FW,MF",26,17,2.0,1.0,2021-2022,66784dee,Venezia,"1,445",16.1,2.0,0.0,205.0,21.0,
-,Niki Mäenpää,fi FIN,GK,17,16,1.0,0.0,2021-2022,14a96e1c,Venezia,"1,485",16.5,1.0,0.0,205.0,83.0,
-,Sergio Romero,ar ARG,GK,16,16,0.0,0.0,2021-2022,1e26e376,Venezia,"1,440",16.0,2.0,0.0,205.0,5.0,
-,Pasquale Mazzocchi,it ITA,DF,18,15,0.0,0.0,2021-2022,b0ec070,Venezia,"1,243",13.8,3.0,0.0,205.0,9.0,
-,Antonio Vacca,it ITA,MF,21,15,0.0,0.0,2021-2022,444c89d9,Venezia,"1,064",11.8,5.0,0.0,205.0,9.0,
-,Sofian Kiyine,ma MAR,"MF,FW",26,14,0.0,1.0,2021-2022,ce1806be,Venezia,"1,239",13.8,8.0,1.0,205.0,26.0,
-,Michael Svoboda,at AUT,DF,18,13,0.0,0.0,2021-2022,8abd174d,Venezia,"1,236",13.7,2.0,1.0,205.0,24.0,
-,Mickaël Cuisance,fr FRA,MF,13,13,0.0,0.0,2021-2022,5722eced,Venezia,918,10.2,2.0,0.0,205.0,4.0,
-,Tyronne Ebuehi,ng NGA,DF,19,12,0.0,0.0,2021-2022,6af30900,Venezia,"1,138",12.6,1.0,1.0,205.0,52.0,
-,Aleš Matějů,cz CZE,DF,9,9,1.0,0.0,2021-2022,deb748c9,Venezia,727,8.1,3.0,0.0,205.0,84.0,
-,Tanner Tessmann,us USA,MF,20,6,0.0,0.0,2021-2022,c277993,Venezia,680,7.6,1.0,1.0,205.0,75.0,
-,Cristian Molinaro,it ITA,DF,8,6,1.0,0.0,2021-2022,1c8c5aed,Venezia,548,6.1,0.0,0.0,205.0,9.0,
-,Luca Lezzerini,it ITA,GK,6,6,0.0,0.0,2021-2022,c9c32262,Venezia,495,5.5,2.0,0.0,205.0,9.0,
-,Luca Fiordilino,it ITA,MF,15,5,0.0,0.0,2021-2022,9bb1ad91,Venezia,661,7.3,2.0,0.0,205.0,9.0,
-,Dor Peretz,il ISR,MF,18,4,1.0,0.0,2021-2022,2a302a8,Venezia,585,6.5,2.0,0.0,205.0,45.0,
-,Francesco Forte,it ITA,FW,12,4,0.0,1.0,2021-2022,69e11a01,Venezia,422,4.7,3.0,0.0,205.0,9.0,
-,Marco Modolo,it ITA,DF,6,4,0.0,0.0,2021-2022,fdcdb521,Venezia,392,4.4,2.0,0.0,205.0,9.0,
-,Nani,pt POR,"MF,FW",10,3,1.0,0.0,2021-2022,15e9c7e6,Venezia,287,3.2,1.0,0.0,205.0,3.0,
-,Daan Heymans,be BEL,"MF,FW",7,2,1.0,0.0,2021-2022,6d70c771,Venezia,256,2.8,4.0,0.0,205.0,27.0,
-,Maximilian Ullmann,at AUT,DF,5,2,0.0,0.0,2021-2022,caaf2ed1,Venezia,246,2.7,0.0,0.0,205.0,24.0,
-,David Schnegg,at AUT,DF,4,2,0.0,0.0,2021-2022,1c341b14,Venezia,142,1.6,1.0,0.0,205.0,24.0,
-,Jean-Pierre Nsame,cm CMR,FW,11,1,1.0,0.0,2021-2022,12e6d21a,Venezia,245,2.7,0.0,0.0,205.0,36.0,
-,Francesco Di Mariano,it ITA,FW,1,1,0.0,0.0,2021-2022,35a2557c,Venezia,62,0.7,0.0,0.0,205.0,9.0,
-,Arnór Sigurðsson,is ISL,"FW,MF",9,0,0.0,0.0,2021-2022,f209b81e,Venezia,183,2.0,0.0,0.0,205.0,40.0,
-,Hilmir Mikaelsson,is ISL,FW,1,0,0.0,0.0,2021-2022,5add9b29,Venezia,18,0.2,0.0,0.0,205.0,40.0,
-,Jacopo Dezi,it ITA,MF,1,0,0.0,0.0,2021-2022,921b9db,Venezia,16,0.2,0.0,0.0,205.0,9.0,
-,Nicolas Galazzi,it ITA,MF,1,0,0.0,0.0,2021-2022,796492f,Venezia,16,0.2,0.0,0.0,205.0,9.0,
-,Issa Bah,lu LUX,FW,1,0,0.0,0.0,2021-2022,956a78ea,Venezia,9,0.1,0.0,0.0,205.0,102.0,
-,Bjarki Bjarkason,is ISL,MF,1,0,0.0,0.0,2021-2022,f1d25de7,Venezia,3,0.0,0.0,0.0,205.0,40.0,
-,Patrick Leal,us USA,FW,1,0,0.0,0.0,2021-2022,d97ec0d1,Venezia,2,0.0,0.0,0.0,205.0,75.0,
-,Bruno,br BRA,GK,0,0,,,2021-2022,51336b7,Venezia,,,,,205.0,2.0,
-,Jakob Franz Pálsson,is ISL,DF,0,0,,,2021-2022,c33eb61,Venezia,,,,,205.0,40.0,
-,Roman Lazar,,GK,0,0,,,2021-2022,ce1ff12c,Venezia,,,,,205.0,,
-,Óttar Magnús Karlsson,is ISL,FW,0,0,,,2021-2022,8649e475,Venezia,,,,,205.0,40.0,
-,Morré Makadji,fr FRA,DF,0,0,,,2021-2022,f52f5334,Venezia,,,,,205.0,4.0,
-,Filippo Mozzo,it ITA,MF,0,0,,,2021-2022,28500592,Venezia,,,,,205.0,9.0,
-,Filippo Neri,it ITA,GK,0,0,,,2021-2022,46ad80cd,Venezia,,,,,205.0,9.0,
-,Damiano Pecile,ca CAN,MF,0,0,,,2021-2022,c2a2ad20,Venezia,,,,,205.0,44.0,
-,Melvyn Remy,fr FRA,DF,0,0,,,2021-2022,06c2ba58,Venezia,,,,,205.0,4.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Salvatore Soviero,it ITA,GK,35,35,0.0,0.0,2002-2003,/en/players/7c0940a5/Salvatore-Soviero,7c0940a5,Venezia,"3,045",33.8,3.0,1.0,205,9.0,21484,Venezia
+,Alessandro Calori,it ITA,DF,32,32,0.0,1.0,2002-2003,/en/players/7398c290/Alessandro-Calori,7398c290,Venezia,"2,867",31.9,9.0,1.0,205,9.0,24043,Venezia
+,Paolo Poggi,it ITA,FW,36,30,5.0,8.0,2002-2003,/en/players/4a352e36/Paolo-Poggi,4a352e36,Venezia,"2,676",29.7,1.0,0.0,205,9.0,22352,Venezia
+,Rubén Maldonado,py PAR,DF,31,30,0.0,3.0,2002-2003,/en/players/9cef03a0/Ruben-Maldonado,9cef03a0,Venezia,"2,674",29.7,10.0,0.0,205,43.0,20423,Venezia
+,Giovanni Orfei,it ITA,DF,30,28,0.0,0.0,2002-2003,/en/players/049c41f6/Giovanni-Orfei,049c41f6,Venezia,"2,515",27.9,5.0,1.0,205,9.0,21963,Venezia
+,Anderson,br BRA,MF,32,28,0.0,2.0,2002-2003,/en/players/d8a9c776/Anderson,d8a9c776,Venezia,"2,366",26.3,8.0,1.0,205,2.0,20700,Venezia
+,Maurizio Rossi,it ITA,MF,33,27,2.0,7.0,2002-2003,/en/players/a91ce696/Maurizio-Rossi,91ce696,Venezia,"2,436",27.1,2.0,0.0,205,9.0,24044,Venezia
+,Enrico Fantini,it ITA,FW,35,27,1.0,7.0,2002-2003,/en/players/db4be571/Enrico-Fantini,db4be571,Venezia,"2,432",27.0,3.0,2.0,205,9.0,21053,Venezia
+,Daniele Amerini,it ITA,MF,25,20,3.0,3.0,2002-2003,/en/players/a6d1a2fe/Daniele-Amerini,6d1a2fe,Venezia,"1,756",19.5,2.0,0.0,205,9.0,21202,Venezia
+,Dražen Brnčić,be BEL,"DF,MF",28,19,2.0,1.0,2002-2003,/en/players/eb13555e/Drazen-Brncic,b13555e,Venezia,"1,771",19.7,1.0,0.0,205,27.0,24045,Venezia
+,Fabio Firmani,it ITA,MF,21,19,0.0,1.0,2002-2003,/en/players/98dfb43e/Fabio-Firmani,98dfb43e,Venezia,"1,673",18.6,6.0,0.0,205,9.0,19897,Venezia
+,Andrea Guerra,it ITA,DF,21,19,0.0,0.0,2002-2003,/en/players/d9cf9a54/Andrea-Guerra,d9cf9a54,Venezia,"1,588",17.6,7.0,0.0,205,9.0,24046,Venezia
+,Mohammed Gargo,gh GHA,DF,18,17,0.0,0.0,2002-2003,/en/players/35bc50fc/Mohammed-Gargo,35bc50fc,Venezia,"1,564",17.4,1.0,0.0,205,17.0,20239,Venezia
+,Alessandro Manetti,it ITA,MF,25,16,1.0,0.0,2002-2003,/en/players/1f15f5ae/Alessandro-Manetti,1f15f5ae,Venezia,"1,294",14.4,8.0,1.0,205,9.0,24047,Venezia
+,Evans Soligo,it ITA,MF,18,16,0.0,1.0,2002-2003,/en/players/26d2e99c/Evans-Soligo,26d2e99c,Venezia,"1,293",14.4,1.0,0.0,205,9.0,22405,Venezia
+,Cristian Adami,it ITA,DF,15,14,0.0,0.0,2002-2003,/en/players/18492c43/Cristian-Adami,18492c43,Venezia,"1,218",13.5,1.0,1.0,205,9.0,21948,Venezia
+,Paulo Costa,pt POR,MF,20,10,1.0,0.0,2002-2003,/en/players/aca60c39/Paulo-Costa,ca60c39,Venezia,990,11.0,1.0,0.0,205,3.0,11668,Venezia
+,Giancarlo Cinetto,,,11,10,0.0,0.0,2002-2003,No detected,,Venezia,894,9.9,4.0,0.0,205,,91031,Venezia
+,Eliomar Marcón,br BRA,FW,10,5,1.0,1.0,2002-2003,/en/players/fd62dd4a/Eliomar-Marcon,fd62dd4a,Venezia,486,5.4,2.0,0.0,205,2.0,24048,Venezia
+,Igor Budan,hr CRO,FW,7,4,0.0,1.0,2002-2003,/en/players/61d0e7a8/Igor-Budan,61d0e7a8,Venezia,306,3.4,0.0,0.0,205,16.0,20037,Venezia
+,Christophe Sanchez,fr FRA,FW,9,2,0.0,0.0,2002-2003,/en/players/0df22343/Christophe-Sanchez,0df22343,Venezia,253,2.8,0.0,0.0,205,4.0,11661,Venezia
+,Giorgio Frezzolini,it ITA,GK,3,2,0.0,0.0,2002-2003,/en/players/0b969bc1/Giorgio-Frezzolini,0b969bc1,Venezia,196,2.2,0.0,0.0,205,9.0,20389,Venezia
+,Cristian Bertani,it ITA,FW,4,2,0.0,0.0,2002-2003,/en/players/135d9b7f/Cristian-Bertani,135d9b7f,Venezia,157,1.7,2.0,0.0,205,9.0,21861,Venezia
+,Francesco Benussi,it ITA,GK,3,1,0.0,0.0,2002-2003,/en/players/42bcb825/Francesco-Benussi,42bcb825,Venezia,178,2.0,1.0,0.0,205,9.0,21987,Venezia
+,Alessandro Sturba,it ITA,"FW,MF",6,1,0.0,0.0,2002-2003,/en/players/81483fa7/Alessandro-Sturba,81483fa7,Venezia,154,1.7,0.0,0.0,205,9.0,23002,Venezia
+,Kenneth Zeigbo,ng NGA,FW,3,0,0.0,0.0,2002-2003,/en/players/bafdfbdc/Kenneth-Zeigbo,bafdfbdc,Venezia,29,0.3,0.0,0.0,205,52.0,24049,Venezia
+,Tomislav Rukavina,hr CRO,"DF,MF",1,0,0.0,0.0,2002-2003,/en/players/cb8ff779/Tomislav-Rukavina,cb8ff779,Venezia,28,0.3,0.0,0.0,205,16.0,24050,Venezia
+,Mancini,br BRA,"FW,MF",2,0,0.0,0.0,2002-2003,/en/players/c3baac3c/Mancini,c3baac3c,Venezia,24,0.3,0.0,0.0,205,2.0,19660,Venezia
+,Marco Moro,it ITA,FW,1,0,0.0,0.0,2002-2003,/en/players/490d88ab/Marco-Moro,490d88ab,Venezia,11,0.1,0.0,0.0,205,9.0,22930,Venezia
+,﻿David Giubilato,it ITA,DF,39,38,0.0,2.0,2003-2004,/en/players/46284816/David-Giubilato,46284816,Venezia,"3,429",38.1,10.0,1.0,205,9.0,21062,Venezia
+,Anderson,br BRA,MF,42,38,0.0,3.0,2003-2004,/en/players/d8a9c776/Anderson,d8a9c776,Venezia,"3,415",37.9,10.0,0.0,205,2.0,20700,Venezia
+,Salvatore Soviero,it ITA,GK,38,38,0.0,0.0,2003-2004,/en/players/7c0940a5/Salvatore-Soviero,7c0940a5,Venezia,"3,376",37.5,2.0,1.0,205,9.0,21484,Venezia
+,Julien Brellier,fr FRA,MF,40,35,3.0,2.0,2003-2004,/en/players/1a26e42a/Julien-Brellier,1a26e42a,Venezia,"3,024",33.6,9.0,3.0,205,4.0,9373,Venezia
+,Rubén Maldonado,py PAR,DF,34,34,1.0,2.0,2003-2004,/en/players/9cef03a0/Ruben-Maldonado,9cef03a0,Venezia,"3,018",33.5,4.0,2.0,205,43.0,20423,Venezia
+,Alessandro Calori,it ITA,DF,26,25,0.0,0.0,2003-2004,/en/players/7398c290/Alessandro-Calori,7398c290,Venezia,"2,253",25.0,2.0,0.0,205,9.0,24043,Venezia
+,Andrea Turato,it ITA,,27,25,0.0,0.0,2003-2004,/en/players/26bb3699/Andrea-Turato,26bb3699,Venezia,"2,240",24.9,8.0,0.0,205,9.0,90676,Venezia
+,Alessandro Manetti,it ITA,MF,38,24,2.0,0.0,2003-2004,/en/players/1f15f5ae/Alessandro-Manetti,1f15f5ae,Venezia,"2,134",23.7,11.0,0.0,205,9.0,24047,Venezia
+,Paolo Poggi,it ITA,FW,24,22,5.0,7.0,2003-2004,/en/players/4a352e36/Paolo-Poggi,4a352e36,Venezia,"1,735",19.3,2.0,0.0,205,9.0,22352,Venezia
+,Raffaele Biancolino,it ITA,FW,23,20,1.0,6.0,2003-2004,/en/players/19dd35ab/Raffaele-Biancolino,19dd35ab,Venezia,"1,734",19.3,1.0,0.0,205,9.0,24051,Venezia
+,Daniele Amerini,it ITA,MF,20,20,1.0,0.0,2003-2004,/en/players/a6d1a2fe/Daniele-Amerini,6d1a2fe,Venezia,"1,594",17.7,6.0,0.0,205,9.0,21202,Venezia
+,Giovanni Orfei,it ITA,DF,24,19,1.0,0.0,2003-2004,/en/players/049c41f6/Giovanni-Orfei,049c41f6,Venezia,"1,709",19.0,4.0,2.0,205,9.0,21963,Venezia
+,Enrico Fantini,it ITA,FW,18,18,1.0,3.0,2003-2004,/en/players/db4be571/Enrico-Fantini,db4be571,Venezia,"1,549",17.2,0.0,0.0,205,9.0,21053,Venezia
+,Giuseppe Pisani,,,26,17,2.0,2.0,2003-2004,No detected,,Venezia,"1,578",17.5,2.0,0.0,205,,91032,Venezia
+,Mauro Bianchi,,,18,17,0.0,1.0,2003-2004,No detected,,Venezia,"1,420",15.8,2.0,0.0,205,,91033,Venezia
+,Matías Miramontes,ar ARG,MF,26,16,2.0,2.0,2003-2004,/en/players/ed998d0c/Matias-Miramontes,d998d0c,Venezia,"1,504",16.7,5.0,0.0,205,5.0,22361,Venezia
+,Stefano Guidoni,it ITA,FW,18,16,1.0,2.0,2003-2004,/en/players/354614bb/Stefano-Guidoni,354614bb,Venezia,"1,237",13.7,1.0,0.0,205,9.0,24052,Venezia
+,Cristian Fernández,ar ARG,DF,21,15,0.0,0.0,2003-2004,/en/players/57c9f9c4/Cristian-Fernandez,57c9f9c4,Venezia,"1,377",15.3,1.0,0.0,205,5.0,3771,Venezia
+,Gianluca Grassadonia,it ITA,DF,16,13,0.0,0.0,2003-2004,/en/players/367018bb/Gianluca-Grassadonia,367018bb,Venezia,"1,167",13.0,4.0,0.0,205,9.0,20382,Venezia
+,Pietro Parente,it ITA,MF,13,10,1.0,1.0,2003-2004,/en/players/12f281cc/Pietro-Parente,12f281cc,Venezia,819,9.1,1.0,1.0,205,9.0,22355,Venezia
+,Maurizio Rossi,it ITA,MF,22,8,1.0,2.0,2003-2004,/en/players/a91ce696/Maurizio-Rossi,91ce696,Venezia,942,10.5,1.0,0.0,205,9.0,24044,Venezia
+,Gastón Liendo,ar ARG,FW,18,8,0.0,1.0,2003-2004,/en/players/9180a553/Gaston-Liendo,9180a553,Venezia,800,8.9,2.0,1.0,205,5.0,24053,Venezia
+,Babù,br BRA,"FW,MF",21,8,1.0,0.0,2003-2004,/en/players/87c00a05/Babu,87c00a05,Venezia,783,8.7,1.0,0.0,205,2.0,22143,Venezia
+,Francesco Benussi,it ITA,GK,9,8,0.0,0.0,2003-2004,/en/players/42bcb825/Francesco-Benussi,42bcb825,Venezia,757,8.4,0.0,0.0,205,9.0,21987,Venezia
+,David D'Antoni,it ITA,MF,10,8,0.0,0.0,2003-2004,/en/players/416f3cfd/David-DAntoni,416f3cfd,Venezia,715,7.9,0.0,0.0,205,9.0,23146,Venezia
+,Pablo Islas,ar ARG,FW,7,4,0.0,1.0,2003-2004,/en/players/44156406/Pablo-Islas,44156406,Venezia,355,3.9,0.0,0.0,205,5.0,24054,Venezia
+,Davide Saverino,it ITA,MF,3,2,0.0,1.0,2003-2004,/en/players/bc63de12/Davide-Saverino,bc63de12,Venezia,176,2.0,0.0,0.0,205,9.0,22466,Venezia
+,Ciro Ginestra,it ITA,FW,7,0,0.0,0.0,2003-2004,/en/players/2f20125c/Ciro-Ginestra,2f20125c,Venezia,207,2.3,0.0,0.0,205,9.0,23814,Venezia
+,Andrea Bovo,it ITA,MF,3,0,0.0,0.0,2003-2004,/en/players/580c6adc/Andrea-Bovo,580c6adc,Venezia,91,1.0,0.0,0.0,205,9.0,23470,Venezia
+,Rivaldo González,py PAR,MF,2,0,0.0,0.0,2003-2004,/en/players/cf6cc060/Rivaldo-Gonzalez,cf6cc060,Venezia,39,0.4,0.0,0.0,205,43.0,23264,Venezia
+,Ibekwe,ng NGA,FW,1,0,0.0,0.0,2003-2004,/en/players/6a1b58c3/Ibekwe,6a1b58c3,Venezia,17,0.2,0.0,0.0,205,52.0,24055,Venezia
+,﻿Francesco Benussi,it ITA,GK,34,34,0.0,0.0,2004-2005,/en/players/42bcb825/Francesco-Benussi,42bcb825,Venezia,"3,004",33.4,0.0,2.0,205,9.0,21987,Venezia
+,Juan Landaida,ar ARG,DF,32,31,0.0,2.0,2004-2005,/en/players/711b7662/Juan-Landaida,711b7662,Venezia,"2,750",30.6,6.0,1.0,205,5.0,24056,Venezia
+,Anderson,br BRA,MF,33,29,1.0,5.0,2004-2005,/en/players/d8a9c776/Anderson,d8a9c776,Venezia,"2,685",29.8,7.0,0.0,205,2.0,20700,Venezia
+,Damián Macaluso,uy URU,DF,31,28,0.0,0.0,2004-2005,/en/players/c78f2b1a/Damian-Macaluso,c78f2b1a,Venezia,"2,602",28.9,4.0,0.0,205,8.0,14448,Venezia
+,Stefano Guidoni,it ITA,FW,31,28,0.0,6.0,2004-2005,/en/players/354614bb/Stefano-Guidoni,354614bb,Venezia,"2,214",24.6,5.0,0.0,205,9.0,24052,Venezia
+,Gonzalo Vicente,uy URU,DF,27,26,0.0,1.0,2004-2005,/en/players/f3c66117/Gonzalo-Vicente,f3c66117,Venezia,"2,376",26.4,2.0,0.0,205,8.0,2548,Venezia
+,Matías Miramontes,ar ARG,MF,38,25,1.0,1.0,2004-2005,/en/players/ed998d0c/Matias-Miramontes,d998d0c,Venezia,"2,462",27.4,4.0,0.0,205,5.0,22361,Venezia
+,David Giubilato,it ITA,DF,20,20,0.0,0.0,2004-2005,/en/players/46284816/David-Giubilato,46284816,Venezia,"1,800",20.0,4.0,0.0,205,9.0,21062,Venezia
+,Andrea Turato,it ITA,,21,19,1.0,0.0,2004-2005,/en/players/26bb3699/Andrea-Turato,26bb3699,Venezia,"1,656",18.4,6.0,1.0,205,9.0,90676,Venezia
+,Riccardo Allegretti,it ITA,MF,19,19,3.0,2.0,2004-2005,/en/players/52ddad74/Riccardo-Allegretti,52ddad74,Venezia,"1,523",16.9,1.0,1.0,205,9.0,20398,Venezia
+,M Garcia,,,22,16,2.0,0.0,2004-2005,No detected,,Venezia,"1,483",16.5,2.0,1.0,205,,91034,Venezia
+,Julien Brellier,fr FRA,MF,16,16,2.0,1.0,2004-2005,/en/players/1a26e42a/Julien-Brellier,1a26e42a,Venezia,"1,276",14.2,6.0,1.0,205,4.0,9373,Venezia
+,Horacio Erpen,ar ARG,MF,23,15,1.0,2.0,2004-2005,/en/players/b6be289c/Horacio-Erpen,b6be289c,Venezia,"1,359",15.1,2.0,0.0,205,5.0,23609,Venezia
+,Massimiliano Esposito,it ITA,MF,17,15,1.0,3.0,2004-2005,/en/players/12925390/Massimiliano-Esposito,12925390,Venezia,"1,200",13.3,2.0,0.0,205,9.0,24057,Venezia
+,Rubén Maldonado,py PAR,DF,15,14,0.0,0.0,2004-2005,/en/players/9cef03a0/Ruben-Maldonado,9cef03a0,Venezia,"1,204",13.4,4.0,0.0,205,43.0,20423,Venezia
+,Luís Oliveira,be BEL,FW,17,13,0.0,5.0,2004-2005,/en/players/194efff9/Luis-Oliveira,194efff9,Venezia,"1,099",12.2,0.0,0.0,205,27.0,22987,Venezia
+,Giovanni Orfei,it ITA,DF,12,11,0.0,1.0,2004-2005,/en/players/049c41f6/Giovanni-Orfei,049c41f6,Venezia,976,10.8,1.0,0.0,205,9.0,21963,Venezia
+,David D'Antoni,it ITA,MF,15,10,0.0,0.0,2004-2005,/en/players/416f3cfd/David-DAntoni,416f3cfd,Venezia,"1,050",11.7,6.0,0.0,205,9.0,23146,Venezia
+,Raffaele Biancolino,it ITA,FW,13,10,1.0,2.0,2004-2005,/en/players/19dd35ab/Raffaele-Biancolino,19dd35ab,Venezia,893,9.9,2.0,1.0,205,9.0,24051,Venezia
+,Andrea Bovo,it ITA,MF,11,10,0.0,0.0,2004-2005,/en/players/580c6adc/Andrea-Bovo,580c6adc,Venezia,712,7.9,1.0,0.0,205,9.0,23470,Venezia
+,Fabio Rossitto,it ITA,MF,9,9,0.0,1.0,2004-2005,/en/players/84a0904c/Fabio-Rossitto,84a0904c,Venezia,744,8.3,2.0,0.0,205,9.0,20229,Venezia
+,Martin Lejsal,cz CZE,GK,10,8,0.0,0.0,2004-2005,/en/players/03dd627e/Martin-Lejsal,03dd627e,Venezia,726,8.1,3.0,0.0,205,84.0,24058,Venezia
+,Emiliano Biliotti,it ITA,FW,20,6,0.0,0.0,2004-2005,/en/players/0e879a25/Emiliano-Biliotti,0e879a25,Venezia,716,8.0,4.0,0.0,205,9.0,22465,Venezia
+,Mattia Collauto,it ITA,MF,10,6,0.0,0.0,2004-2005,/en/players/e4bca0cd/Mattia-Collauto,4bca0cd,Venezia,548,6.1,2.0,0.0,205,9.0,23228,Venezia
+,Rivaldo González,py PAR,MF,10,6,1.0,0.0,2004-2005,/en/players/cf6cc060/Rivaldo-Gonzalez,cf6cc060,Venezia,445,4.9,1.0,0.0,205,43.0,23264,Venezia
+,Gianluca Savoldi,it ITA,FW,10,5,0.0,1.0,2004-2005,/en/players/6b4cbc17/Gianluca-Savoldi,6b4cbc17,Venezia,461,5.1,2.0,0.0,205,9.0,21475,Venezia
+,Ciro Ginestra,it ITA,FW,7,4,0.0,0.0,2004-2005,/en/players/2f20125c/Ciro-Ginestra,2f20125c,Venezia,323,3.6,0.0,0.0,205,9.0,23814,Venezia
+,Massimo Borgobello,it ITA,FW,9,3,1.0,0.0,2004-2005,/en/players/7add0a61/Massimo-Borgobello,7add0a61,Venezia,385,4.3,0.0,0.0,205,9.0,24059,Venezia
+,Davide Saverino,it ITA,MF,8,3,0.0,0.0,2004-2005,/en/players/bc63de12/Davide-Saverino,bc63de12,Venezia,311,3.5,2.0,1.0,205,9.0,22466,Venezia
+,Leonardo Raul Villa,ar ARG,FW,5,3,0.0,0.0,2004-2005,/en/players/5d8e8065/Leonardo-Raul-Villa,5d8e8065,Venezia,303,3.4,1.0,0.0,205,5.0,24060,Venezia
+,Jose Gonzalves,,,3,3,0.0,0.0,2004-2005,No detected,,Venezia,270,3.0,0.0,0.0,205,,91035,Venezia
+,John Olufemi,ng NGA,FW,6,2,0.0,0.0,2004-2005,/en/players/3dc6addb/John-Olufemi,3dc6addb,Venezia,254,2.8,0.0,0.0,205,52.0,24061,Venezia
+,Marin Guimaraens,py PAR,DF,2,2,0.0,0.0,2004-2005,/en/players/031eaae8/Marin-Guimaraens,031eaae8,Venezia,180,2.0,0.0,0.0,205,43.0,24062,Venezia
+,Akande Ajide,ng NGA,"FW,MF",5,1,0.0,0.0,2004-2005,/en/players/e57f8139/Akande-Ajide,57f8139,Venezia,157,1.7,0.0,0.0,205,52.0,20573,Venezia
+,Alberto Savino,it ITA,DF,2,1,0.0,0.0,2004-2005,/en/players/824a769d/Alberto-Savino,824a769d,Venezia,111,1.2,0.0,0.0,205,9.0,22137,Venezia
+,Ariel Grana,ar ARG,DF,2,1,0.0,0.0,2004-2005,/en/players/c97dafaf/Ariel-Grana,c97dafaf,Venezia,95,1.1,0.0,0.0,205,5.0,24063,Venezia
+,Daniele Gregori,it ITA,DF,2,1,0.0,0.0,2004-2005,/en/players/53415514/Daniele-Gregori,53415514,Venezia,91,1.0,1.0,0.0,205,9.0,21842,Venezia
+,Francesco Caco,,,1,1,0.0,0.0,2004-2005,No detected,,Venezia,59,0.7,0.0,0.0,205,,91036,Venezia
+,Riccardo Pezzato,,,1,0,0.0,0.0,2004-2005,No detected,,Venezia,45,0.5,0.0,0.0,205,,91037,Venezia
+,Rodrigue Boisfer,fr FRA,MF,1,0,0.0,0.0,2004-2005,/en/players/f9144aee/Rodrigue-Boisfer,f9144aee,Venezia,43,0.5,1.0,0.0,205,4.0,23137,Venezia
+,Ruben,ar ARG,DF,1,0,0.0,0.0,2004-2005,/en/players/d138cf4f/Ruben,d138cf4f,Venezia,31,0.3,0.0,0.0,205,5.0,24064,Venezia
+,Luca Conean,,,1,0,0.0,0.0,2004-2005,No detected,,Venezia,10,0.1,0.0,0.0,205,,91038,Venezia
+,Andrea Villotta,,,1,0,0.0,0.0,2004-2005,No detected,,Venezia,3,0.0,0.0,0.0,205,,91039,Venezia
+,﻿Gennaro Esposito,it ITA,MF,2,2,0.0,0.0,2014-2015,/en/players/e3e850c9/Gennaro-Esposito,3e850c9,Venezia,180.0,2.0,0.0,0.0,205,9.0,22271,Venezia
+,Alberto Giuliatto,it ITA,DF,2,2,0.0,0.0,2014-2015,/en/players/448cf768/Alberto-Giuliatto,448cf768,Venezia,180.0,2.0,1.0,0.0,205,9.0,22150,Venezia
+,Elia Legati,it ITA,DF,2,2,0.0,0.0,2014-2015,/en/players/f126ce9b/Elia-Legati,f126ce9b,Venezia,180.0,2.0,2.0,0.0,205,9.0,23670,Venezia
+,Antonio Marino,it ITA,DF,2,2,0.0,0.0,2014-2015,/en/players/561951d5/Antonio-Marino,561951d5,Venezia,180.0,2.0,0.0,0.0,205,9.0,21528,Venezia
+,Simone Sales,it ITA,DF,2,2,0.0,0.0,2014-2015,/en/players/e102acb0/Simone-Sales,102acb0,Venezia,180.0,2.0,1.0,0.0,205,9.0,24065,Venezia
+,Lukáš Zima,cz CZE,GK,2,2,0.0,0.0,2014-2015,/en/players/1e330270/Lukas-Zima,1e330270,Venezia,180.0,2.0,0.0,0.0,205,84.0,20935,Venezia
+,Tommaso Bellazzini,it ITA,MF,2,2,0.0,2.0,2014-2015,/en/players/2d629a65/Tommaso-Bellazzini,2d629a65,Venezia,177.0,2.0,0.0,0.0,205,9.0,24066,Venezia
+,Davide Carcuro,it ITA,MF,2,2,0.0,1.0,2014-2015,/en/players/f4abb8bf/Davide-Carcuro,f4abb8bf,Venezia,157.0,1.7,0.0,0.0,205,9.0,24067,Venezia
+,Vinicio Espinal,do DOM,MF,2,2,0.0,0.0,2014-2015,/en/players/2fa8aa4d/Vinicio-Espinal,2fa8aa4d,Venezia,155.0,1.7,0.0,0.0,205,25.0,21616,Venezia
+,Simone Magnaghi,it ITA,FW,2,2,0.0,0.0,2014-2015,/en/players/e6724dbe/Simone-Magnaghi,6724dbe,Venezia,136.0,1.5,0.0,0.0,205,9.0,24068,Venezia
+,Raffaele Franchini,it ITA,FW,2,2,0.0,1.0,2014-2015,/en/players/f97117b4/Raffaele-Franchini,f97117b4,Venezia,121.0,1.3,0.0,0.0,205,9.0,24069,Venezia
+,Mattia Zaccagni,it ITA,"FW,MF",2,0,0.0,0.0,2014-2015,/en/players/d85c238b/Mattia-Zaccagni,d85c238b,Venezia,48.0,0.5,0.0,0.0,205,9.0,19995,Venezia
+,Nicholas Siega,it ITA,FW,1,0,0.0,1.0,2014-2015,/en/players/f94e4cd7/Nicholas-Siega,f94e4cd7,Venezia,44.0,0.5,0.0,0.0,205,9.0,24070,Venezia
+,Federico Varano,it ITA,MF,2,0,0.0,0.0,2014-2015,/en/players/c829160d/Federico-Varano,c829160d,Venezia,32.0,0.4,0.0,0.0,205,9.0,23351,Venezia
+,Giuseppe Greco,it ITA,FW,1,0,0.0,0.0,2014-2015,/en/players/0c3c4de8/Giuseppe-Greco,0c3c4de8,Venezia,30.0,0.3,0.0,0.0,205,9.0,20422,Venezia
+,Francesco Cernuto,it ITA,DF,0,0,,,2014-2015,/en/players/2890cfd4/Francesco-Cernuto,2890cfd4,Venezia,,,,,205,9.0,24071,Venezia
+,Stefano Fortunato,it ITA,GK,0,0,,,2014-2015,/en/players/b404cc89/Stefano-Fortunato,b404cc89,Venezia,,,,,205,9.0,21247,Venezia
+,Abdul Meite,it ITA,MF,0,0,,,2014-2015,/en/players/b0af07c1/Abdul-Meite,b0af07c1,Venezia,,,,,205,9.0,91040,Venezia
+,Emanuele Panzeri,it ITA,DF,0,0,,,2014-2015,/en/players/acacb216/Emanuele-Panzeri,cacb216,Venezia,,,,,205,9.0,23370,Venezia
+,Max Taddei,it ITA,MF,0,0,,,2014-2015,/en/players/35c33bc9/Max-Taddei,35c33bc9,Venezia,,,,,205,9.0,24072,Venezia
+,﻿Marcello Falzerano,it ITA,MF,39,38,9.0,4.0,2017-2018,/en/players/714fa52a/Marcello-Falzerano,714fa52a,Venezia,"3,387",37.6,3.0,1.0,205,9.0,20971,Venezia
+,Maurizio Domizzi,it ITA,DF,37,37,1.0,3.0,2017-2018,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Venezia,"3,313",36.8,8.0,2.0,205,9.0,20266,Venezia
+,Marco Modolo,it ITA,DF,36,36,1.0,3.0,2017-2018,/en/players/fdcdb521/Marco-Modolo,fdcdb521,Venezia,"3,008",33.4,8.0,0.0,205,9.0,23677,Venezia
+,Emil Audero,it ITA,GK,35,35,0.0,0.0,2017-2018,/en/players/649b01d8/Emil-Audero,649b01d8,Venezia,"3,150",35.0,1.0,0.0,205,9.0,19561,Venezia
+,Siniša Anđelković,si SVN,DF,32,31,0.0,1.0,2017-2018,/en/players/f978a28b/Sinisa-Andjelkovic,f978a28b,Venezia,"2,736",30.4,2.0,0.0,205,32.0,21248,Venezia
+,Agostino Garofalo,it ITA,MF,28,28,2.0,1.0,2017-2018,/en/players/bf128669/Agostino-Garofalo,bf128669,Venezia,"2,392",26.6,6.0,0.0,205,9.0,21256,Venezia
+,Marco Pinato,it ITA,MF,33,25,3.0,3.0,2017-2018,/en/players/9deed39b/Marco-Pinato,9deed39b,Venezia,"2,166",24.1,0.0,0.0,205,9.0,23930,Venezia
+,Leo Štulac,si SVN,MF,21,21,4.0,6.0,2017-2018,/en/players/92948398/Leo-Stulac,92948398,Venezia,"1,886",21.0,2.0,0.0,205,32.0,20158,Venezia
+,Simone Bentivoglio,it ITA,MF,21,21,4.0,2.0,2017-2018,/en/players/7a8ecf0b/Simone-Bentivoglio,7a8ecf0b,Venezia,"1,871",20.8,7.0,3.0,205,9.0,20417,Venezia
+,Gianmarco Zigoni,it ITA,FW,40,20,2.0,6.0,2017-2018,/en/players/a37ed655/Gianmarco-Zigoni,37ed655,Venezia,"1,855",20.6,1.0,0.0,205,9.0,19794,Venezia
+,Matteo Bruscagin,it ITA,"MF,DF",23,20,0.0,1.0,2017-2018,/en/players/03422b8f/Matteo-Bruscagin,03422b8f,Venezia,"1,848",20.5,4.0,0.0,205,9.0,24073,Venezia
+,Giuseppe Zampano,it ITA,"MF,DF",20,20,2.0,0.0,2017-2018,/en/players/e5e3fb6c/Giuseppe-Zampano,5e3fb6c,Venezia,"1,702",18.9,2.0,0.0,205,9.0,23831,Venezia
+,Davide Marsura,it ITA,FW,30,18,2.0,5.0,2017-2018,/en/players/bc8912f0/Davide-Marsura,bc8912f0,Venezia,"1,564",17.4,2.0,0.0,205,9.0,20782,Venezia
+,Gianluca Litteri,it ITA,FW,19,16,1.0,7.0,2017-2018,/en/players/44e54c78/Gianluca-Litteri,44e54c78,Venezia,"1,371",15.2,2.0,2.0,205,9.0,24074,Venezia
+,Alexandre Geijo,es ESP,FW,31,15,5.0,5.0,2017-2018,/en/players/c0787e61/Alexandre-Geijo,c0787e61,Venezia,"1,575",17.5,3.0,0.0,205,1.0,1654,Venezia
+,Sergiu Suciu,ro ROU,MF,26,15,0.0,1.0,2017-2018,/en/players/f9179751/Sergiu-Suciu,f9179751,Venezia,"1,395",15.5,0.0,0.0,205,51.0,21969,Venezia
+,Stefano Moreo,it ITA,FW,20,15,3.0,3.0,2017-2018,/en/players/7c52943c/Stefano-Moreo,7c52943c,Venezia,"1,324",14.7,3.0,0.0,205,9.0,20849,Venezia
+,Cristiano Del Grosso,it ITA,"MF,DF",20,14,2.0,0.0,2017-2018,/en/players/b0603a52/Cristiano-Del-Grosso,b0603a52,Venezia,"1,353",15.0,1.0,0.0,205,9.0,21653,Venezia
+,Nicolas Frey,fr FRA,MF,12,12,1.0,0.0,2017-2018,/en/players/6378443d/Nicolas-Frey,6378443d,Venezia,"1,015",11.3,5.0,0.0,205,4.0,20427,Venezia
+,Francesco Cernuto,it ITA,DF,17,11,0.0,1.0,2017-2018,/en/players/2890cfd4/Francesco-Cernuto,2890cfd4,Venezia,"1,010",11.2,4.0,0.0,205,9.0,24071,Venezia
+,Guglielmo Vicario,it ITA,GK,7,6,0.0,0.0,2017-2018,/en/players/77d6fd4d/Guglielmo-Vicario,77d6fd4d,Venezia,557,6.2,1.0,0.0,205,9.0,20975,Venezia
+,Gianni Fabiano,it ITA,MF,17,4,0.0,0.0,2017-2018,/en/players/0168e87a/Gianni-Fabiano,0168e87a,Venezia,521,5.8,3.0,0.0,205,9.0,24075,Venezia
+,Marco Firenze,it ITA,MF,7,2,0.0,2.0,2017-2018,/en/players/5cac421a/Marco-Firenze,5cac421a,Venezia,260,2.9,0.0,0.0,205,9.0,22302,Venezia
+,Francesco Signori,it ITA,MF,7,1,0.0,0.0,2017-2018,/en/players/0e321a1c/Francesco-Signori,0e321a1c,Venezia,144,1.6,0.0,0.0,205,9.0,21233,Venezia
+,Danilo Russo,it ITA,GK,1,1,0.0,0.0,2017-2018,/en/players/8decee19/Danilo-Russo,8decee19,Venezia,73,0.8,0.0,0.0,205,9.0,23990,Venezia
+,Jan Mlakar,si SVN,FW,3,0,0.0,0.0,2017-2018,/en/players/44d9bd5e/Jan-Mlakar,44d9bd5e,Venezia,23,0.3,0.0,0.0,205,32.0,9557,Venezia
+,Evans Soligo,it ITA,MF,2,0,0.0,0.0,2017-2018,/en/players/26d2e99c/Evans-Soligo,26d2e99c,Venezia,11,0.1,0.0,0.0,205,9.0,22405,Venezia
+,Roberto Barlocco,it ITA,GK,0,0,,,2017-2018,/en/players/14979bbb/Roberto-Barlocco,14979bbb,Venezia,,,,,205,9.0,21893,Venezia
+,Emanuele Cigagna,it ITA,DF,0,0,,,2017-2018,/en/players/52cad73a/Emanuele-Cigagna,52cad73a,Venezia,,,,,205,9.0,24076,Venezia
+,Vittorio Fabris,it ITA,MF,0,0,,,2017-2018,/en/players/4e09dd29/Vittorio-Fabris,4e09dd29,Venezia,,,,,205,9.0,24077,Venezia
+,Pier Graziano Gori,it ITA,GK,0,0,,,2017-2018,/en/players/8d039f57/Pier-Graziano-Gori,8d039f57,Venezia,,,,,205,9.0,23951,Venezia
+,Domenico Rossi,it ITA,MF,0,0,,,2017-2018,/en/players/cf2d89d6/Domenico-Rossi,cf2d89d6,Venezia,,,,,205,9.0,24078,Venezia
+,Roberto Strechie,it ITA,MF,0,0,,,2017-2018,/en/players/dcfe1a46/Roberto-Strechie,dcfe1a46,Venezia,,,,,205,9.0,24079,Venezia
+,Simone Tagliapietra,it ITA,DF,0,0,,,2017-2018,/en/players/65e8c0b1/Simone-Tagliapietra,65e8c0b1,Venezia,,,,,205,9.0,24080,Venezia
+,Mattia Vitale,it ITA,MF,0,0,,,2017-2018,/en/players/8e4b894b/Mattia-Vitale,8e4b894b,Venezia,,,,,205,9.0,19560,Venezia
+,Mattia Zennaro,it ITA,MF,0,0,,,2017-2018,/en/players/e08a3f85/Mattia-Zennaro,08a3f85,Venezia,,,,,205,9.0,24081,Venezia
+,﻿Guglielmo Vicario,it ITA,GK,32,32,0.0,0.0,2018-2019,/en/players/77d6fd4d/Guglielmo-Vicario,77d6fd4d,Venezia,"2,880",32.0,2.0,0.0,205,9.0,20975,Venezia
+,Marco Modolo,it ITA,DF,32,32,2.0,2.0,2018-2019,/en/players/fdcdb521/Marco-Modolo,fdcdb521,Venezia,"2,820",31.3,12.0,0.0,205,9.0,23677,Venezia
+,Maurizio Domizzi,it ITA,DF,28,28,0.0,5.0,2018-2019,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Venezia,"2,475",27.5,10.0,1.0,205,9.0,20266,Venezia
+,Matteo Bruscagin,it ITA,"DF,MF",27,27,2.0,0.0,2018-2019,/en/players/03422b8f/Matteo-Bruscagin,03422b8f,Venezia,"2,315",25.7,1.0,0.0,205,9.0,24073,Venezia
+,Francesco Di Mariano,it ITA,"FW,MF",29,26,0.0,7.0,2018-2019,/en/players/35a2557c/Francesco-Di-Mariano,35a2557c,Venezia,"2,244",24.9,6.0,1.0,205,9.0,22247,Venezia
+,Simone Bentivoglio,it ITA,MF,26,23,1.0,2.0,2018-2019,/en/players/7a8ecf0b/Simone-Bentivoglio,7a8ecf0b,Venezia,"2,009",22.3,7.0,0.0,205,9.0,20417,Venezia
+,Jacopo Segre,it ITA,MF,29,21,0.0,3.0,2018-2019,/en/players/3cb132e6/Jacopo-Segre,3cb132e6,Venezia,"1,878",20.9,5.0,0.0,205,9.0,20521,Venezia
+,Giuseppe Zampano,it ITA,"MF,DF",20,18,1.0,0.0,2018-2019,/en/players/e5e3fb6c/Giuseppe-Zampano,5e3fb6c,Venezia,"1,648",18.3,4.0,0.0,205,9.0,23831,Venezia
+,Marco Pinato,it ITA,MF,22,18,2.0,0.0,2018-2019,/en/players/9deed39b/Marco-Pinato,9deed39b,Venezia,"1,319",14.7,3.0,0.0,205,9.0,23930,Venezia
+,Andrea Schiavone,it ITA,MF,23,16,1.0,0.0,2018-2019,/en/players/4b55eb4d/Andrea-Schiavone,4b55eb4d,Venezia,"1,569",17.4,4.0,0.0,205,9.0,21262,Venezia
+,Agostino Garofalo,it ITA,"MF,DF",17,15,1.0,0.0,2018-2019,/en/players/bf128669/Agostino-Garofalo,bf128669,Venezia,"1,369",15.2,2.0,0.0,205,9.0,21256,Venezia
+,Mauro Coppolaro,it ITA,DF,16,15,0.0,0.0,2018-2019,/en/players/47d9821b/Mauro-Coppolaro,47d9821b,Venezia,"1,351",15.0,3.0,0.0,205,9.0,20288,Venezia
+,Riccardo Bocalon,it ITA,FW,15,15,1.0,3.0,2018-2019,/en/players/50604909/Riccardo-Bocalon,50604909,Venezia,"1,325",14.7,4.0,0.0,205,9.0,22978,Venezia
+,Marcello Falzerano,it ITA,"MF,FW",14,14,2.0,0.0,2018-2019,/en/players/714fa52a/Marcello-Falzerano,714fa52a,Venezia,"1,191",13.2,1.0,1.0,205,9.0,20971,Venezia
+,Sergiu Suciu,ro ROU,MF,16,12,0.0,0.0,2018-2019,/en/players/f9179751/Sergiu-Suciu,f9179751,Venezia,"1,048",11.6,1.0,0.0,205,51.0,21969,Venezia
+,Giacomo Vrioni,al ALB,FW,24,11,1.0,1.0,2018-2019,/en/players/bf4d31d3/Giacomo-Vrioni,bf4d31d3,Venezia,"1,146",12.7,4.0,0.0,205,78.0,19590,Venezia
+,Cristiano Lombardi,it ITA,"MF,FW",11,10,1.0,0.0,2018-2019,/en/players/f124b4c9/Cristiano-Lombardi,f124b4c9,Venezia,857,9.5,4.0,1.0,205,9.0,19957,Venezia
+,Nicola Citro,it ITA,"FW,MF",17,9,1.0,5.0,2018-2019,/en/players/92834239/Nicola-Citro,92834239,Venezia,822,9.1,0.0,0.0,205,9.0,23760,Venezia
+,Mattia Zennaro,it ITA,"MF,FW",10,8,0.0,0.0,2018-2019,/en/players/e08a3f85/Mattia-Zennaro,08a3f85,Venezia,618,6.9,0.0,0.0,205,9.0,24081,Venezia
+,Siniša Anđelković,si SVN,DF,8,6,0.0,0.0,2018-2019,/en/players/f978a28b/Sinisa-Andjelkovic,f978a28b,Venezia,566,6.3,1.0,1.0,205,32.0,21248,Venezia
+,Michele Fornasier,it ITA,DF,8,6,0.0,0.0,2018-2019,/en/players/fb3890d6/Michele-Fornasier,fb3890d6,Venezia,548,6.1,3.0,0.0,205,9.0,22074,Venezia
+,Alessandro Rossi,it ITA,FW,9,6,0.0,0.0,2018-2019,/en/players/ccf5926f/Alessandro-Rossi,ccf5926f,Venezia,424,4.7,2.0,0.0,205,9.0,19952,Venezia
+,Róbert Mazáň,sk SVK,"DF,MF",7,5,0.0,0.0,2018-2019,/en/players/30672832/Robert-Mazan,30672832,Venezia,483,5.4,2.0,0.0,205,70.0,796,Venezia
+,Gianluca Litteri,it ITA,FW,12,4,1.0,1.0,2018-2019,/en/players/44e54c78/Gianluca-Litteri,44e54c78,Venezia,487,5.4,1.0,0.0,205,9.0,24074,Venezia
+,Luca Lezzerini,it ITA,GK,4,4,0.0,0.0,2018-2019,/en/players/c9c32262/Luca-Lezzerini,c9c32262,Venezia,360,4.0,0.0,0.0,205,9.0,22705,Venezia
+,Emmanuel Besea,gh GHA,MF,7,4,0.0,0.0,2018-2019,/en/players/fef67c38/Emmanuel-Besea,fef67c38,Venezia,338,3.8,1.0,0.0,205,17.0,21268,Venezia
+,Francesco Cernuto,it ITA,DF,5,3,0.0,0.0,2018-2019,/en/players/2890cfd4/Francesco-Cernuto,2890cfd4,Venezia,272,3.0,1.0,0.0,205,9.0,24071,Venezia
+,Harvey St Clair,nz NZL,MF,12,2,1.0,0.0,2018-2019,/en/players/4a5b485d/Harvey-St-Clair,4a5b485d,Venezia,380,4.2,2.0,0.0,205,126.0,24082,Venezia
+,Davide Marsura,it ITA,FW,10,2,0.0,0.0,2018-2019,/en/players/bc8912f0/Davide-Marsura,bc8912f0,Venezia,256,2.8,0.0,0.0,205,9.0,20782,Venezia
+,Alexandre Geijo,es ESP,FW,7,2,0.0,1.0,2018-2019,/en/players/c0787e61/Alexandre-Geijo,c0787e61,Venezia,249,2.8,0.0,0.0,205,1.0,1654,Venezia
+,Gianmarco Zigoni,it ITA,FW,4,1,0.0,3.0,2018-2019,/en/players/a37ed655/Gianmarco-Zigoni,37ed655,Venezia,153,1.7,1.0,0.0,205,9.0,19794,Venezia
+,Alexandre Pimenta,pt POR,FW,2,1,0.0,0.0,2018-2019,/en/players/bbedb965/Alexandre-Pimenta,bbedb965,Venezia,134,1.5,0.0,0.0,205,3.0,24083,Venezia
+,Matteo Bonato,it ITA,GK,0,0,,,2018-2019,/en/players/eb69991b/Matteo-Bonato,b69991b,Venezia,,,,,205,9.0,24084,Venezia
+,Bruno,br BRA,GK,0,0,,,2018-2019,/en/players/e51336b7/Bruno,51336b7,Venezia,,,,,205,2.0,24085,Venezia
+,Manuel Enzo,it ITA,GK,0,0,,,2018-2019,/en/players/662f02ca/Manuel-Enzo,662f02ca,Venezia,,,,,205,9.0,24086,Venezia
+,Gianni Fabiano,it ITA,MF,0,0,,,2018-2019,/en/players/0168e87a/Gianni-Fabiano,0168e87a,Venezia,,,,,205,9.0,24075,Venezia
+,Davide Facchin,it ITA,GK,0,0,,,2018-2019,/en/players/10059f1b/Davide-Facchin,10059f1b,Venezia,,,,,205,9.0,21920,Venezia
+,Lorenzo Migliorelli,it ITA,DF,0,0,,,2018-2019,/en/players/94625acd/Lorenzo-Migliorelli,94625acd,Venezia,,,,,205,9.0,22327,Venezia
+,Edoardo Soldati,it ITA,DF,0,0,,,2018-2019,/en/players/d5d3598e/Edoardo-Soldati,d5d3598e,Venezia,,,,,205,9.0,24087,Venezia
+,﻿Luca Lezzerini,it ITA,GK,34,34,0.0,0.0,2019-2020,/en/players/c9c32262/Luca-Lezzerini,c9c32262,Venezia,"3,060",34.0,0.0,0.0,205,9.0,22705,Venezia
+,Luca Fiordilino,it ITA,MF,35,33,0.0,0.0,2019-2020,/en/players/9bb1ad91/Luca-Fiordilino,9bb1ad91,Venezia,"2,925",32.5,14.0,0.0,205,9.0,22196,Venezia
+,Alessandro Capello,it ITA,"FW,MF",38,32,5.0,7.0,2019-2020,/en/players/d94cc025/Alessandro-Capello,d94cc025,Venezia,"2,780",30.9,4.0,0.0,205,9.0,22630,Venezia
+,Marco Modolo,it ITA,DF,32,30,0.0,1.0,2019-2020,/en/players/fdcdb521/Marco-Modolo,fdcdb521,Venezia,"2,727",30.3,7.0,0.0,205,9.0,23677,Venezia
+,Pietro Ceccaroni,it ITA,DF,31,28,0.0,1.0,2019-2020,/en/players/4d1efb48/Pietro-Ceccaroni,4d1efb48,Venezia,"2,638",29.3,4.0,0.0,205,9.0,23895,Venezia
+,Mattia Aramu,it ITA,MF,31,27,4.0,11.0,2019-2020,/en/players/0847b5a5/Mattia-Aramu,0847b5a5,Venezia,"2,268",25.2,6.0,2.0,205,9.0,22003,Venezia
+,Youssef Maleh,it ITA,MF,28,25,2.0,1.0,2019-2020,/en/players/4c8845f7/Youssef-Maleh,4c8845f7,Venezia,"1,996",22.2,9.0,1.0,205,9.0,22747,Venezia
+,Alessandro Fiordaliso,it ITA,DF,26,21,1.0,0.0,2019-2020,/en/players/788fff85/Alessandro-Fiordaliso,788fff85,Venezia,"1,904",21.2,3.0,0.0,205,9.0,22013,Venezia
+,Ivan Lakićević,rs SRB,DF,18,16,2.0,0.0,2019-2020,/en/players/47508c51/Ivan-Lakicevic,47508c51,Venezia,"1,510",16.8,2.0,0.0,205,28.0,21574,Venezia
+,Nicolò Casale,it ITA,DF,20,16,0.0,0.0,2019-2020,/en/players/3f5f38fb/Nicolo-Casale,3f5f38fb,Venezia,"1,455",16.2,2.0,0.0,205,9.0,20958,Venezia
+,Michele Cremonesi,it ITA,DF,18,16,0.0,0.0,2019-2020,/en/players/53636fce/Michele-Cremonesi,53636fce,Venezia,"1,379",15.3,4.0,0.0,205,9.0,20967,Venezia
+,Riccardo Bocalon,it ITA,FW,18,15,2.0,3.0,2019-2020,/en/players/50604909/Riccardo-Bocalon,50604909,Venezia,"1,381",15.3,1.0,0.0,205,9.0,22978,Venezia
+,Lorenzo Lollo,it ITA,MF,28,15,1.0,0.0,2019-2020,/en/players/1272d9f4/Lorenzo-Lollo,1272d9f4,Venezia,"1,362",15.1,6.0,1.0,205,9.0,21405,Venezia
+,Samuele Longo,it ITA,FW,17,15,0.0,4.0,2019-2020,/en/players/1163de29/Samuele-Longo,1163de29,Venezia,"1,343",14.9,3.0,0.0,205,9.0,570,Venezia
+,Adriano Montalto,it ITA,FW,19,14,1.0,3.0,2019-2020,/en/players/eaf3308c/Adriano-Montalto,f3308c,Venezia,"1,195",13.3,5.0,0.0,205,9.0,21573,Venezia
+,Antonio Vacca,it ITA,MF,16,12,0.0,0.0,2019-2020,/en/players/444c89d9/Antonio-Vacca,444c89d9,Venezia,901,10.0,1.0,0.0,205,9.0,20142,Venezia
+,Franco Zuculini,ar ARG,MF,18,11,2.0,0.0,2019-2020,/en/players/9c31bb89/Franco-Zuculini,9c31bb89,Venezia,"1,017",11.3,7.0,0.0,205,5.0,3585,Venezia
+,Cristian Molinaro,it ITA,DF,12,11,0.0,0.0,2019-2020,/en/players/1c8c5aed/Cristian-Molinaro,1c8c5aed,Venezia,859,9.5,3.0,0.0,205,9.0,15589,Venezia
+,Fabrizio Caligara,it ITA,MF,16,9,0.0,1.0,2019-2020,/en/players/22ca11f1/Fabrizio-Caligara,22ca11f1,Venezia,770,8.6,7.0,1.0,205,9.0,19575,Venezia
+,Sergiu Suciu,ro ROU,MF,14,7,0.0,0.0,2019-2020,/en/players/f9179751/Sergiu-Suciu,f9179751,Venezia,653,7.3,0.0,0.0,205,51.0,21969,Venezia
+,Francesco Di Mariano,it ITA,"FW,MF",12,6,0.0,0.0,2019-2020,/en/players/35a2557c/Francesco-Di-Mariano,35a2557c,Venezia,556,6.2,0.0,0.0,205,9.0,22247,Venezia
+,Gian Filippo Felicioli,it ITA,DF,7,6,0.0,0.0,2019-2020,/en/players/ff219f73/Gian-Filippo-Felicioli,ff219f73,Venezia,490,5.4,1.0,0.0,205,9.0,20972,Venezia
+,Marco Firenze,it ITA,"MF,DF",11,4,0.0,2.0,2019-2020,/en/players/5cac421a/Marco-Firenze,5cac421a,Venezia,488,5.4,3.0,0.0,205,9.0,22302,Venezia
+,Davide Riccardi,it ITA,DF,7,4,0.0,0.0,2019-2020,/en/players/7b4b9221/Davide-Riccardi,7b4b9221,Venezia,381,4.2,3.0,1.0,205,9.0,22205,Venezia
+,Alberto Pomini,it ITA,GK,4,4,0.0,0.0,2019-2020,/en/players/71c08e99/Alberto-Pomini,71c08e99,Venezia,360,4.0,0.0,0.0,205,9.0,22449,Venezia
+,Gaetano Monachello,it ITA,FW,12,3,0.0,0.0,2019-2020,/en/players/241ee811/Gaetano-Monachello,241ee811,Venezia,334,3.7,2.0,0.0,205,9.0,21671,Venezia
+,Antonio Marino,it ITA,DF,8,3,0.0,0.0,2019-2020,/en/players/561951d5/Antonio-Marino,561951d5,Venezia,322,3.6,0.0,0.0,205,9.0,21528,Venezia
+,Gianmarco Zigoni,it ITA,FW,17,1,1.0,1.0,2019-2020,/en/players/a37ed655/Gianmarco-Zigoni,37ed655,Venezia,343,3.8,0.0,0.0,205,9.0,19794,Venezia
+,Yuri Senesi,it ITA,FW,4,0,0.0,0.0,2019-2020,/en/players/d7f48e65/Yuri-Senesi,d7f48e65,Venezia,79,0.9,0.0,0.0,205,9.0,91041,Venezia
+,Bruno,br BRA,GK,0,0,,,2019-2020,/en/players/e51336b7/Bruno,51336b7,Venezia,,,,,205,2.0,24085,Venezia
+,Matteo Daffrè,it ITA,GK,0,0,,,2019-2020,/en/players/88a96145/Matteo-Daffre,88a96145,Venezia,,,,,205,9.0,24088,Venezia
+,Mario De Marino,it ITA,DF,0,0,,,2019-2020,/en/players/d87af43c/Mario-De-Marino,d87af43c,Venezia,,,,,205,9.0,24089,Venezia
+,Lorenzo Gavioli,it ITA,MF,0,0,,,2019-2020,/en/players/c762ea02/Lorenzo-Gavioli,c762ea02,Venezia,,,,,205,9.0,21595,Venezia
+,Alexandre Pimenta,pt POR,MF,0,0,,,2019-2020,/en/players/bbedb965/Alexandre-Pimenta,bbedb965,Venezia,,,,,205,3.0,24083,Venezia
+,Domenico Rossi,it ITA,MF,0,0,,,2019-2020,/en/players/cf2d89d6/Domenico-Rossi,cf2d89d6,Venezia,,,,,205,9.0,24078,Venezia
+,Nicolò Simeoni,it ITA,FW,0,0,,,2019-2020,/en/players/6e17a5c3/Nicolo-Simeoni,6e17a5c3,Venezia,,,,,205,9.0,24090,Venezia
+,Harvey St Clair,nz NZL,FW,0,0,,,2019-2020,/en/players/4a5b485d/Harvey-St-Clair,4a5b485d,Venezia,,,,,205,126.0,24082,Venezia
+,﻿Pietro Ceccaroni,it ITA,DF,37,37,2.0,3.0,2020-2021,/en/players/4d1efb48/Pietro-Ceccaroni,4d1efb48,Venezia,"3,330",37.0,4.0,0.0,205,9.0,23895,Venezia
+,Pasquale Mazzocchi,it ITA,DF,34,30,1.0,1.0,2020-2021,/en/players/eb0ec070/Pasquale-Mazzocchi,b0ec070,Venezia,"2,733",30.4,7.0,0.0,205,9.0,20138,Venezia
+,Luca Fiordilino,it ITA,MF,37,30,1.0,4.0,2020-2021,/en/players/9bb1ad91/Luca-Fiordilino,9bb1ad91,Venezia,"2,669",29.7,9.0,0.0,205,9.0,22196,Venezia
+,Francesco Forte,it ITA,FW,33,30,1.0,14.0,2020-2021,/en/players/69e11a01/Francesco-Forte,69e11a01,Venezia,"2,560",28.4,3.0,0.0,205,9.0,19685,Venezia
+,Mattia Aramu,it ITA,"MF,FW",34,30,6.0,9.0,2020-2021,/en/players/0847b5a5/Mattia-Aramu,0847b5a5,Venezia,"2,437",27.1,5.0,0.0,205,9.0,22003,Venezia
+,Youssef Maleh,it ITA,MF,29,27,4.0,4.0,2020-2021,/en/players/4c8845f7/Youssef-Maleh,4c8845f7,Venezia,"2,303",25.6,8.0,0.0,205,9.0,22747,Venezia
+,Marco Modolo,it ITA,DF,27,26,0.0,1.0,2020-2021,/en/players/fdcdb521/Marco-Modolo,fdcdb521,Venezia,"2,224",24.7,6.0,0.0,205,9.0,23677,Venezia
+,Luca Lezzerini,it ITA,GK,21,21,0.0,0.0,2020-2021,/en/players/c9c32262/Luca-Lezzerini,c9c32262,Venezia,"1,824",20.3,1.0,0.0,205,9.0,22705,Venezia
+,Dennis Johnsen,no NOR,"FW,MF",32,20,3.0,3.0,2020-2021,/en/players/66784dee/Dennis-Johnsen,66784dee,Venezia,"1,841",20.5,4.0,2.0,205,21.0,24091,Venezia
+,Anthony Taugourdeau,fr FRA,MF,26,19,2.0,0.0,2020-2021,/en/players/fab12e1a/Anthony-Taugourdeau,fab12e1a,Venezia,"1,715",19.1,3.0,0.0,205,4.0,24092,Venezia
+,Gian Filippo Felicioli,it ITA,DF,24,19,0.0,0.0,2020-2021,/en/players/ff219f73/Gian-Filippo-Felicioli,ff219f73,Venezia,"1,698",18.9,3.0,0.0,205,9.0,20972,Venezia
+,Francesco Di Mariano,it ITA,"FW,MF",31,16,6.0,2.0,2020-2021,/en/players/35a2557c/Francesco-Di-Mariano,35a2557c,Venezia,"1,705",18.9,5.0,0.0,205,9.0,22247,Venezia
+,Antonio Vacca,it ITA,MF,14,13,0.0,0.0,2020-2021,/en/players/444c89d9/Antonio-Vacca,444c89d9,Venezia,844,9.4,4.0,0.0,205,9.0,20142,Venezia
+,Domen Črnigoj,si SVN,MF,30,12,0.0,3.0,2020-2021,/en/players/22cd43d2/Domen-Crnigoj,22cd43d2,Venezia,"1,243",13.8,4.0,0.0,205,32.0,24093,Venezia
+,Alberto Pomini,it ITA,GK,12,11,0.0,0.0,2020-2021,/en/players/71c08e99/Alberto-Pomini,71c08e99,Venezia,"1,056",11.7,0.0,0.0,205,9.0,22449,Venezia
+,Cristian Molinaro,it ITA,DF,16,11,0.0,0.0,2020-2021,/en/players/1c8c5aed/Cristian-Molinaro,1c8c5aed,Venezia,941,10.5,2.0,0.0,205,9.0,15589,Venezia
+,Michael Svoboda,at AUT,DF,19,10,0.0,1.0,2020-2021,/en/players/8abd174d/Michael-Svoboda,8abd174d,Venezia,963,10.7,3.0,0.0,205,24.0,24094,Venezia
+,Alessandro Capello,it ITA,"MF,FW",14,10,1.0,0.0,2020-2021,/en/players/d94cc025/Alessandro-Capello,d94cc025,Venezia,774,8.6,3.0,0.0,205,9.0,22630,Venezia
+,Giacomo Ricci,it ITA,DF,11,9,0.0,0.0,2020-2021,/en/players/cfb38237/Giacomo-Ricci,cfb38237,Venezia,763,8.5,3.0,0.0,205,9.0,20184,Venezia
+,Sebastiano Esposito,it ITA,"FW,MF",18,8,1.0,2.0,2020-2021,/en/players/7ff93107/Sebastiano-Esposito,7ff93107,Venezia,792,8.8,2.0,0.0,205,9.0,19737,Venezia
+,Riccardo Bocalon,it ITA,FW,27,7,0.0,2.0,2020-2021,/en/players/50604909/Riccardo-Bocalon,50604909,Venezia,786,8.7,3.0,0.0,205,9.0,22978,Venezia
+,Gabriele Ferrarini,it ITA,DF,14,7,1.0,0.0,2020-2021,/en/players/76451f32/Gabriele-Ferrarini,76451f32,Venezia,721,8.0,2.0,0.0,205,9.0,21003,Venezia
+,Niki Mäenpää,fi FIN,GK,6,6,0.0,0.0,2020-2021,/en/players/14a96e1c/Niki-Maenpaa,14a96e1c,Venezia,540,6.0,0.0,0.0,205,83.0,11036,Venezia
+,Jacopo Dezi,it ITA,MF,12,3,2.0,0.0,2020-2021,/en/players/e921b9db/Jacopo-Dezi,921b9db,Venezia,326,3.6,1.0,0.0,205,9.0,20129,Venezia
+,Bjarki Bjarkason,is ISL,MF,9,2,0.0,0.0,2020-2021,/en/players/f1d25de7/Bjarki-Bjarkason,f1d25de7,Venezia,285,3.2,1.0,0.0,205,40.0,24095,Venezia
+,Michele Cremonesi,it ITA,DF,5,2,0.0,0.0,2020-2021,/en/players/53636fce/Michele-Cremonesi,53636fce,Venezia,227,2.5,2.0,0.0,205,9.0,20967,Venezia
+,Harvey St Clair,nz NZL,"MF,DF",7,2,0.0,0.0,2020-2021,/en/players/4a5b485d/Harvey-St-Clair,4a5b485d,Venezia,130,1.4,0.0,0.0,205,126.0,24082,Venezia
+,Óttar Magnús Karlsson,is ISL,FW,7,0,0.0,1.0,2020-2021,/en/players/8649e475/Ottar-Magnus-Karlsson,8649e475,Venezia,113,1.3,1.0,0.0,205,40.0,24096,Venezia
+,Domenico Rossi,it ITA,MF,4,0,0.0,0.0,2020-2021,/en/players/cf2d89d6/Domenico-Rossi,cf2d89d6,Venezia,54,0.6,0.0,0.0,205,9.0,24078,Venezia
+,Antonio Marino,it ITA,DF,2,0,0.0,0.0,2020-2021,/en/players/561951d5/Antonio-Marino,561951d5,Venezia,15,0.2,0.0,0.0,205,9.0,21528,Venezia
+,Lauri Ala-Myllymäki,fi FIN,MF,0,0,,,2020-2021,/en/players/77e1758f/Lauri-Ala-Myllymaki,77e1758f,Venezia,,,,,205,83.0,24097,Venezia
+,Salvatore Carotenuto,it ITA,GK,0,0,,,2020-2021,/en/players/d412e732/Salvatore-Carotenuto,d412e732,Venezia,,,,,205,9.0,24098,Venezia
+,Roman Lazar,,GK,0,0,,,2020-2021,/en/players/ce1ff12c/Roman-Lazar,ce1ff12c,Venezia,,,,,205,,91042,Venezia
+,Samuel Marchesan,it ITA,MF,0,0,,,2020-2021,/en/players/3ff1b602/Samuel-Marchesan,3ff1b602,Venezia,,,,,205,9.0,24099,Venezia
+,Riccardo Pigozzo,it ITA,GK,0,0,,,2020-2021,/en/players/be5bc5c4/Riccardo-Pigozzo,be5bc5c4,Venezia,,,,,205,9.0,24100,Venezia
+,Jordan Poha,fr FRA,DF,0,0,,,2020-2021,/en/players/b96fb922/Jordan-Poha,b96fb922,Venezia,,,,,205,4.0,24101,Venezia
+,Filippo Serena,it ITA,MF,0,0,,,2020-2021,/en/players/c44438f5/Filippo-Serena,c44438f5,Venezia,,,,,205,9.0,24102,Venezia
+,Leonardo Tonello,it ITA,GK,0,0,,,2020-2021,/en/players/3c29e1fd/Leonardo-Tonello,3c29e1fd,Venezia,,,,,205,9.0,91043,Venezia
+,﻿Pietro Ceccaroni,it ITA,DF,35,35,1.0,2.0,2021-2022,/en/players/4d1efb48/Pietro-Ceccaroni,4d1efb48,Venezia,"3,122",34.7,7.0,1.0,205,9.0,23895,Venezia
+,Mattia Caldara,it ITA,DF,31,30,0.0,1.0,2021-2022,/en/players/ac7e640b/Mattia-Caldara,c7e640b,Venezia,"2,704",30.0,9.0,0.0,205,9.0,19846,Venezia
+,Ethan Ampadu,wls WAL,"MF,DF",29,26,3.0,0.0,2021-2022,/en/players/10b9fa99/Ethan-Ampadu,10b9fa99,Venezia,"2,282",25.4,13.0,2.0,205,18.0,6234,Venezia
+,Mattia Aramu,it ITA,"MF,FW",32,25,5.0,7.0,2021-2022,/en/players/0847b5a5/Mattia-Aramu,0847b5a5,Venezia,"2,100",23.3,6.0,0.0,205,9.0,22003,Venezia
+,Ridgeciano Haps,sr SUR,DF,25,24,1.0,1.0,2021-2022,/en/players/c8d7131c/Ridgeciano-Haps,c8d7131c,Venezia,"2,056",22.8,6.0,0.0,205,79.0,24103,Venezia
+,David Okereke,ng NGA,"FW,MF",32,24,0.0,7.0,2021-2022,/en/players/d125f22f/David-Okereke,d125f22f,Venezia,"2,053",22.8,5.0,1.0,205,52.0,24008,Venezia
+,Thomas Henry,fr FRA,FW,33,23,2.0,9.0,2021-2022,/en/players/9ef42479/Thomas-Henry,9ef42479,Venezia,"2,115",23.5,6.0,1.0,205,4.0,12568,Venezia
+,Gianluca Busio,us USA,MF,29,23,1.0,1.0,2021-2022,/en/players/4a0b7f07/Gianluca-Busio,4a0b7f07,Venezia,"1,950",21.7,8.0,0.0,205,75.0,24104,Venezia
+,Domen Črnigoj,si SVN,MF,34,22,1.0,3.0,2021-2022,/en/players/22cd43d2/Domen-Crnigoj,22cd43d2,Venezia,"1,881",20.9,3.0,0.0,205,32.0,24093,Venezia
+,Dennis Johnsen,no NOR,"FW,MF",26,17,2.0,1.0,2021-2022,/en/players/66784dee/Dennis-Johnsen,66784dee,Venezia,"1,445",16.1,2.0,0.0,205,21.0,24091,Venezia
+,Niki Mäenpää,fi FIN,GK,17,16,1.0,0.0,2021-2022,/en/players/14a96e1c/Niki-Maenpaa,14a96e1c,Venezia,"1,485",16.5,1.0,0.0,205,83.0,11036,Venezia
+,Sergio Romero,ar ARG,GK,16,16,0.0,0.0,2021-2022,/en/players/1e26e376/Sergio-Romero,1e26e376,Venezia,"1,440",16.0,2.0,0.0,205,5.0,5799,Venezia
+,Pasquale Mazzocchi,it ITA,DF,18,15,0.0,0.0,2021-2022,/en/players/eb0ec070/Pasquale-Mazzocchi,b0ec070,Venezia,"1,243",13.8,3.0,0.0,205,9.0,20138,Venezia
+,Antonio Vacca,it ITA,MF,21,15,0.0,0.0,2021-2022,/en/players/444c89d9/Antonio-Vacca,444c89d9,Venezia,"1,064",11.8,5.0,0.0,205,9.0,20142,Venezia
+,Sofian Kiyine,ma MAR,"MF,FW",26,14,0.0,1.0,2021-2022,/en/players/ce1806be/Sofian-Kiyine,ce1806be,Venezia,"1,239",13.8,8.0,1.0,205,26.0,20497,Venezia
+,Michael Svoboda,at AUT,DF,18,13,0.0,0.0,2021-2022,/en/players/8abd174d/Michael-Svoboda,8abd174d,Venezia,"1,236",13.7,2.0,1.0,205,24.0,24094,Venezia
+,Mickaël Cuisance,fr FRA,MF,13,13,0.0,0.0,2021-2022,/en/players/5722eced/Mickael-Cuisance,5722eced,Venezia,918,10.2,2.0,0.0,205,4.0,11635,Venezia
+,Tyronne Ebuehi,ng NGA,DF,19,12,0.0,0.0,2021-2022,/en/players/6af30900/Tyronne-Ebuehi,6af30900,Venezia,"1,138",12.6,1.0,1.0,205,52.0,24105,Venezia
+,Aleš Matějů,cz CZE,DF,9,9,1.0,0.0,2021-2022,/en/players/deb748c9/Ales-Mateju,deb748c9,Venezia,727,8.1,3.0,0.0,205,84.0,20824,Venezia
+,Tanner Tessmann,us USA,MF,20,6,0.0,0.0,2021-2022,/en/players/ac277993/Tanner-Tessmann,c277993,Venezia,680,7.6,1.0,1.0,205,75.0,24106,Venezia
+,Cristian Molinaro,it ITA,DF,8,6,1.0,0.0,2021-2022,/en/players/1c8c5aed/Cristian-Molinaro,1c8c5aed,Venezia,548,6.1,0.0,0.0,205,9.0,15589,Venezia
+,Luca Lezzerini,it ITA,GK,6,6,0.0,0.0,2021-2022,/en/players/c9c32262/Luca-Lezzerini,c9c32262,Venezia,495,5.5,2.0,0.0,205,9.0,22705,Venezia
+,Luca Fiordilino,it ITA,MF,15,5,0.0,0.0,2021-2022,/en/players/9bb1ad91/Luca-Fiordilino,9bb1ad91,Venezia,661,7.3,2.0,0.0,205,9.0,22196,Venezia
+,Dor Peretz,il ISR,MF,18,4,1.0,0.0,2021-2022,/en/players/e2a302a8/Dor-Peretz,2a302a8,Venezia,585,6.5,2.0,0.0,205,45.0,24107,Venezia
+,Francesco Forte,it ITA,FW,12,4,0.0,1.0,2021-2022,/en/players/69e11a01/Francesco-Forte,69e11a01,Venezia,422,4.7,3.0,0.0,205,9.0,19685,Venezia
+,Marco Modolo,it ITA,DF,6,4,0.0,0.0,2021-2022,/en/players/fdcdb521/Marco-Modolo,fdcdb521,Venezia,392,4.4,2.0,0.0,205,9.0,23677,Venezia
+,Nani,pt POR,"MF,FW",10,3,1.0,0.0,2021-2022,/en/players/15e9c7e6/Nani,15e9c7e6,Venezia,287,3.2,1.0,0.0,205,3.0,986,Venezia
+,Daan Heymans,be BEL,"MF,FW",7,2,1.0,0.0,2021-2022,/en/players/6d70c771/Daan-Heymans,6d70c771,Venezia,256,2.8,4.0,0.0,205,27.0,24108,Venezia
+,Maximilian Ullmann,at AUT,DF,5,2,0.0,0.0,2021-2022,/en/players/caaf2ed1/Maximilian-Ullmann,caaf2ed1,Venezia,246,2.7,0.0,0.0,205,24.0,24109,Venezia
+,David Schnegg,at AUT,DF,4,2,0.0,0.0,2021-2022,/en/players/1c341b14/David-Schnegg,1c341b14,Venezia,142,1.6,1.0,0.0,205,24.0,23883,Venezia
+,Jean-Pierre Nsame,cm CMR,FW,11,1,1.0,0.0,2021-2022,/en/players/12e6d21a/Jean-Pierre-Nsame,12e6d21a,Venezia,245,2.7,0.0,0.0,205,36.0,15109,Venezia
+,Francesco Di Mariano,it ITA,FW,1,1,0.0,0.0,2021-2022,/en/players/35a2557c/Francesco-Di-Mariano,35a2557c,Venezia,62,0.7,0.0,0.0,205,9.0,22247,Venezia
+,Arnór Sigurðsson,is ISL,"FW,MF",9,0,0.0,0.0,2021-2022,/en/players/f209b81e/Arnor-Sigurdsson,f209b81e,Venezia,183,2.0,0.0,0.0,205,40.0,24110,Venezia
+,Hilmir Mikaelsson,is ISL,FW,1,0,0.0,0.0,2021-2022,/en/players/5add9b29/Hilmir-Mikaelsson,5add9b29,Venezia,18,0.2,0.0,0.0,205,40.0,24111,Venezia
+,Jacopo Dezi,it ITA,MF,1,0,0.0,0.0,2021-2022,/en/players/e921b9db/Jacopo-Dezi,921b9db,Venezia,16,0.2,0.0,0.0,205,9.0,20129,Venezia
+,Nicolas Galazzi,it ITA,MF,1,0,0.0,0.0,2021-2022,/en/players/a796492f/Nicolas-Galazzi,796492f,Venezia,16,0.2,0.0,0.0,205,9.0,21827,Venezia
+,Issa Bah,lu LUX,FW,1,0,0.0,0.0,2021-2022,/en/players/956a78ea/Issa-Bah,956a78ea,Venezia,9,0.1,0.0,0.0,205,102.0,24112,Venezia
+,Bjarki Bjarkason,is ISL,MF,1,0,0.0,0.0,2021-2022,/en/players/f1d25de7/Bjarki-Bjarkason,f1d25de7,Venezia,3,0.0,0.0,0.0,205,40.0,24095,Venezia
+,Patrick Leal,us USA,FW,1,0,0.0,0.0,2021-2022,/en/players/d97ec0d1/Patrick-Leal,d97ec0d1,Venezia,2,0.0,0.0,0.0,205,75.0,24113,Venezia
+,Bruno,br BRA,GK,0,0,,,2021-2022,/en/players/e51336b7/Bruno,51336b7,Venezia,,,,,205,2.0,24085,Venezia
+,Jakob Franz Pálsson,is ISL,DF,0,0,,,2021-2022,/en/players/ac33eb61/Jakob-Franz-Palsson,c33eb61,Venezia,,,,,205,40.0,24114,Venezia
+,Roman Lazar,,GK,0,0,,,2021-2022,/en/players/ce1ff12c/Roman-Lazar,ce1ff12c,Venezia,,,,,205,,91042,Venezia
+,Óttar Magnús Karlsson,is ISL,FW,0,0,,,2021-2022,/en/players/8649e475/Ottar-Magnus-Karlsson,8649e475,Venezia,,,,,205,40.0,24096,Venezia
+,Morré Makadji,fr FRA,DF,0,0,,,2021-2022,/en/players/f52f5334/Morre-Makadji,f52f5334,Venezia,,,,,205,4.0,24115,Venezia
+,Filippo Mozzo,it ITA,MF,0,0,,,2021-2022,/en/players/28500592/Filippo-Mozzo,28500592,Venezia,,,,,205,9.0,24116,Venezia
+,Filippo Neri,it ITA,GK,0,0,,,2021-2022,/en/players/46ad80cd/Filippo-Neri,46ad80cd,Venezia,,,,,205,9.0,22568,Venezia
+,Damiano Pecile,ca CAN,MF,0,0,,,2021-2022,/en/players/c2a2ad20/Damiano-Pecile,c2a2ad20,Venezia,,,,,205,44.0,24117,Venezia
+,Melvyn Remy,fr FRA,DF,0,0,,,2021-2022,/en/players/06c2ba58/Melvyn-Remy,06c2ba58,Venezia,,,,,205,4.0,24118,Venezia

@@ -1,73 +1,222 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-5208.0,Vicente Uriz,/en/players/797ee12b/Vicente-Uriz,Vicente-Uriz,797ee12b,es ESP,MF,Eibar
-5209.0,Igor Lediakhov,/en/players/399b62ba/Igor-Lediakhov,Igor-Lediakhov,399b62ba,xc CIS,MF,Eibar
-5210.0,David Cordón,/en/players/65947f92/David-Cordon,David-Cordo,65947f92,es ESP,DF,Eibar
-5211.0,Edu Roldán,/en/players/13122bd9/Edu-Roldan,Edu-Rold,13122bd9,es ESP,MF,Eibar
-5212.0,Garikoitz Basauri Amezua,/en/players/bea1bc83/Garikoitz-Basauri-Amezua,Garikoitz-Basauri-Amezu,bea1bc83,es ESP,GK,Eibar
-5213.0,Ander Alaña,/en/players/546ddcb6/Ander-Alana,Ander-A,546ddcb6,es ESP,DF,Eibar
-5214.0,Burgueña,/en/players/681ee22c/Burguena,Burgu,681ee22c,es ESP,MF,Eibar
-5215.0,Sebastián Romero,/en/players/bcafb825/Sebastian-Romero,Sebastian-Romero,bcafb825,ar ARG,"DF,MF",Eibar
-5216.0,Manel,/en/players/11df8348/Manel,M,11df8348,es ESP,MF,Eibar
-5217.0,Alberto Suárez,/en/players/2f537497/Alberto-Suarez,Alberto-Suarez,2f537497,es ESP,FW,Eibar
-5218.0,Avimiled Rivas,/en/players/c57d4fc3/Avimiled-Rivas,Avimiled-Riv,c57d4fc3,co COL,MF,Eibar
-5219.0,Paul Abasolo,/en/players/5f60be43/Paul-Abasolo,Paul-Abasolo,5f60be43,es ESP,"FW,MF",Eibar
-5220.0,Jaime,/en/players/87a334ab/Jaime,Jaim,87a334ab,es ESP,MF,Eibar
-5221.0,Jorge Pailós,/en/players/347c56a1/Jorge-Pailos,Jorge-Pailo,347c56a1,uy URU,FW,Eibar
-5222.0,Raúl García,/en/players/1d59e087/Raul-Garcia,Raul-Garci,1d59e087,es ESP,DF,Eibar
-5223.0,Carmelo Yuste Yuste,/en/players/4989979d/Carmelo-Yuste-Yuste,Carmelo-Yuste-Yust,4989979d,es ESP,MF,Eibar
-5224.0,Roberto Lombraña,/en/players/f50c62da/Roberto-Lombrana,Roberto-Lomb,f50c62da,es ESP,MF,Eibar
-5225.0,Jon Altuna,/en/players/dd9a1ece/Jon-Altuna,Jon-Altu,dd9a1ece,es ESP,MF,Eibar
-5226.0,Markel Robles,/en/players/f29903e4/Markel-Robles,Markel-Rob,f29903e4,es ESP,MF,Eibar
-5227.0,José Zamora,/en/players/f64d699e/Jose-Zamora,Jose-Zamo,f64d699e,es ESP,MF,Eibar
-5228.0,Xabier Eizagirre,/en/players/e10ee048/Xabier-Eizagirre,Xabier-Eizagi,10ee048,es ESP,MF,Eibar
-5229.0,﻿Zigor Goikuria,/en/players/a76f65d4/Zigor-Goikuria,Zigor-Goikuri,76f65d4,es ESP,GK,Eibar
-5230.0,Ibón Larrazábal,/en/players/c405c2f9/Ibon-Larrazabal,Ibon-Larrazab,c405c2f9,es ESP,MF,Eibar
-5231.0,Txema Añibarro,/en/players/34b0ee60/Txema-Anibarro,Txema-Anibarro,34b0ee60,es ESP,"DF,MF",Eibar
-5232.0,Álvaro Martínez,/en/players/c4d41f78/Alvaro-Martinez,Alvaro-Martinez,c4d41f78,es ESP,DF,Eibar
-5233.0,Germán Beltrán,/en/players/552f8f78/German-Beltran,German-Belt,552f8f78,es ESP,FW,Eibar
-5234.0,Carlos Rubén,/en/players/82d00b28/Carlos-Ruben,Carlos-Rub,82d00b28,es ESP,MF,Eibar
-5235.0,Rudy Carlier,/en/players/48fdbb38/Rudy-Carlier,Rudy-Carli,48fdbb38,fr FRA,FW,Eibar
-5236.0,Josu Etxaniz,/en/players/1874d442/Josu-Etxaniz,Josu-Etxaniz,1874d442,es ESP,DF,Eibar
-5237.0,Javier Ballesteros,/en/players/10ac4213/Javier-Ballesteros,Javier-Ballestero,10ac4213,es ESP,FW,Eibar
-5238.0,Ander Olaizola,/en/players/2e98fc26/Ander-Olaizola,Ander-Olaizo,2e98fc26,es ESP,MF,Eibar
-5239.0,Jon Errasti,/en/players/4243631a/Jon-Errasti,Jon-Errasti,4243631a,es ESP,MF,Eibar
-5240.0,Gorka Kijera,/en/players/dd173ee5/Gorka-Kijera,Gorka-Kij,dd173ee5,es ESP,DF,Eibar
-5241.0,Diego Jiménez,/en/players/077622da/Diego-Jimenez,Diego-Jimenez,077622da,es ESP,MF,Eibar
-5242.0,Txusta,/en/players/904bc107/Txusta,Txust,904bc107,es ESP,GK,Eibar
-5243.0,Josip Radošević,/en/players/6afcaaa3/Josip-Radosevic,Josip-Radosevic,6afcaaa3,hr CRO,MF,Eibar
-5244.0,Simone Verdi,/en/players/0375723e/Simone-Verdi,Simone-Verdi,0375723e,it ITA,MF,Eibar
-5245.0,Izet Hajrović,/en/players/55537f53/Izet-Hajrovic,Izet-Hajrovic,55537f53,ba BIH,MF,Eibar
-5246.0,Ander Gayoso,/en/players/72c85656/Ander-Gayoso,Ander-Gayoso,72c85656,es ESP,DF,Eibar
-5247.0,Iñigo Barrenetxea,/en/players/f08e1c7a/Inigo-Barrenetxea,Inigo-Barrenetx,f08e1c7a,es ESP,MF,Eibar
-5248.0,Imanol Corral,/en/players/1ee11fb6/Imanol-Corral,Imanol-Co,1ee11fb6,es ESP,DF,Eibar
-5249.0,Asier Etxaburu,/en/players/f9ce2007/Asier-Etxaburu,Asier-Etxaburu,f9ce2007,es ESP,MF,Eibar
-5250.0,Julen López,/en/players/42f8e7b0/Julen-Lopez,Julen-Lopez,42f8e7b0,es ESP,MF,Eibar
-5251.0,Jorge Mediavilla,/en/players/55126303/Jorge-Mediavilla,Jorge-Mediavi,55126303,es ESP,GK,Eibar
-5252.0,Markel Areitio,/en/players/f6d651a5/Markel-Areitio,Markel-Areitio,f6d651a5,es ESP,GK,Eibar
-5253.0,Kike Cebriá,/en/players/c4bf3726/Kike-Cebria,Kike-Cebri,c4bf3726,es ESP,GK,Eibar
-5254.0,Josué Dorrio,/en/players/8dffe3d5/Josue-Dorrio,Josue-Dorrio,8dffe3d5,es ESP,MF,Eibar
-5255.0,Imanol Sarriegi,/en/players/b32b7d1b/Imanol-Sarriegi,Imanol-Sarriegi,b32b7d1b,es ESP,MF,Eibar
-5256.0,Paulo Oliveira,/en/players/a8fbae1d/Paulo-Oliveira,Paulo-Olivei,8fbae1d,pt POR,DF,Eibar
-5257.0,Xesc Regis,/en/players/4b32b2be/Xesc-Regis,Xesc-Regi,4b32b2be,es ESP,FW,Eibar
-5258.0,Vukašin Jovanović,/en/players/0eb03d5b/Vukasin-Jovanovic,Vukasin-Jovanovic,0eb03d5b,rs SRB,DF,Eibar
-5259.0,Ángel López,/en/players/f26d76e4/Angel-Lopez,Angel-Lopez,f26d76e4,es ESP,MF,Eibar
-5260.0,Pablo de Blasis,/en/players/9ab48bde/Pablo-de-Blasis,Pablo-de-Blasi,9ab48bde,ar ARG,"MF,DF",Eibar
-5261.0,Miguel Marí,/en/players/d70a3661/Miguel-Mari,Miguel-Mari,d70a3661,es ESP,MF,Eibar
-5262.0,Esteban Burgos,/en/players/40449bbd/Esteban-Burgos,Esteban-Burgo,40449bbd,ar ARG,DF,Eibar
-5263.0,Rafa Soares,/en/players/062fc2e6/Rafa-Soares,Rafa-So,062fc2e6,pt POR,DF,Eibar
-5264.0,Miguel Atienza,/en/players/12eda7be/Miguel-Atienza,Miguel-Atienz,12eda7be,es ESP,MF,Eibar
-5265.0,Ekhi Bravo,/en/players/94e4b5f1/Ekhi-Bravo,Ekhi-Bravo,94e4b5f1,es ESP,MF,Eibar
-5266.0,Sergio Cubero Ezcurra,/en/players/d858d079/Sergio-Cubero-Ezcurra,Sergio-Cubero-Ezcu,d858d079,es ESP,MF,Eibar
-5267.0,Yoshinori Mutō,/en/players/5343eb4e/Yoshinori-Muto,Yoshinori-Muto,5343eb4e,jp JPN,"FW,MF",Eibar
-5268.0,Aleix García,/en/players/a10361d2/Aleix-Garcia,Aleix-Garci,10361d2,es ESP,MF,Eibar
-5269.0,Damian Kądzior,/en/players/bb6c6331/Damian-Kadzior,Damian-Kadzio,bb6c6331,pl POL,"MF,FW",Eibar
-5270.0,Eñaut Mendía,/en/players/aa7da569/Enaut-Mendia,Enaut-Mendi,7da569,es ESP,MF,Eibar
-5271.0,Unai Arietaleanizbeaskoa,/en/players/74d9a90b/Unai-Arietaleanizbeaskoa,Unai-Arietaleanizbeasko,74d9a90b,es ESP,"FW,MF",Eibar
-5272.0,Unai Ayala,/en/players/a4f99d0c/Unai-Ayala,Unai-A,4f99d0c,es ESP,GK,Eibar
-5273.0,Jon Mikel Magunagoitia,/en/players/41417804/Jon-Mikel-Magunagoitia,Jon-Mikel-Magunagoiti,41417804,es ESP,GK,Eibar
-5274.0,Frederico Venâncio,/en/players/0adc7748/Frederico-Venancio,Frederico-Venancio,0adc7748,pt POR,DF,Eibar
-5275.0,Antonio Cristian Glauder García,/en/players/d919d7f2/Antonio-Cristian-Glauder-Garcia,Antonio-Cristian-Glauder-Garci,d919d7f2,es ESP,DF,Eibar
-5276.0,Paul Álvarez,/en/players/59a2eb56/Paul-Alvarez,Paul-Alvarez,59a2eb56,es ESP,DF,Eibar
-5277.0,Unai Ruiz-Zeberio,/en/players/d48d1ab8/Unai-Ruiz-Zeberio,Unai-Ruiz-Zeberio,d48d1ab8,es ESP,GK,Eibar
-5278.0,Angel Troncho,/en/players/fd1d323a/Angel-Troncho,Angel-Troncho,fd1d323a,es ESP,MF,Eibar
-5279.0,Jorge Yriarte,/en/players/c81db30e/Jorge-Yriarte,Jorge-Yriart,c81db30e,ve VEN,MF,Eibar
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+8731.0,﻿Gaizka Garitano,/en/players/0f5ededa/Gaizka-Garitano,Gaizka-Garitano,0f5ededa,es ESP,MF,Eibar
+8732.0,Jon Urzelai,/en/players/6366a43c/Jon-Urzelai,Jon-Urzelai,6366a43c,es ESP,DF,Eibar
+8733.0,Asier Riesgo,/en/players/581c5276/Asier-Riesgo,Asier-Riesgo,581c5276,es ESP,GK,Eibar
+8734.0,Josu Sarriegi,/en/players/cca08d01/Josu-Sarriegi,Josu-Sarriegi,cca08d01,es ESP,DF,Eibar
+8735.0,Aitor Tornavaca,/en/players/4bdcc842/Aitor-Tornavaca,Aitor-Tornavac,4bdcc842,es ESP,MF,Eibar
+8736.0,Vicente Uriz,/en/players/797ee12b/Vicente-Uriz,Vicente-Uriz,797ee12b,es ESP,MF,Eibar
+8737.0,Miguel,/en/players/3ab5e487/Miguel,Migu,3ab5e487,es ESP,FW,Eibar
+8738.0,Igor Lediakhov,/en/players/399b62ba/Igor-Lediakhov,Igor-Lediakhov,399b62ba,xc CIS,MF,Eibar
+8739.0,Iban Fagoaga,/en/players/d49844fa/Iban-Fagoaga,Iban-Fagoag,d49844fa,es ESP,DF,Eibar
+8740.0,Eneko Romo,/en/players/5c5c6fa7/Eneko-Romo,Eneko-Romo,5c5c6fa7,es ESP,MF,Eibar
+8741.0,Gari Uranga,/en/players/2a701b9e/Gari-Uranga,Gari-Urang,2a701b9e,es ESP,MF,Eibar
+8742.0,Joaquín Moso,/en/players/e7768cf0/Joaquin-Moso,Joaquin-Moso,7768cf0,es ESP,GK,Eibar
+8743.0,David Cordón,/en/players/65947f92/David-Cordon,David-Cordo,65947f92,es ESP,DF,Eibar
+8744.0,Sergio Tejero García,/en/players/1c94ccac/Sergio-Tejero-Garcia,Sergio-Tejero-Garci,1c94ccac,es ESP,DF,Eibar
+8745.0,Gaizka Saizar,/en/players/5a706676/Gaizka-Saizar,Gaizka-Saiz,5a706676,es ESP,FW,Eibar
+8746.0,Edu Roldán,/en/players/13122bd9/Edu-Roldan,Edu-Rold,13122bd9,es ESP,MF,Eibar
+8747.0,Garikoitz Basauri Amezua,/en/players/bea1bc83/Garikoitz-Basauri-Amezua,Garikoitz-Basauri-Amezu,bea1bc83,es ESP,GK,Eibar
+8748.0,Antonio Karmona,/en/players/a6bf6531/Antonio-Karmona,Antonio-Karmo,6bf6531,es ESP,DF,Eibar
+8749.0,Óscar Pérez,/en/players/a4ae5f6a/Oscar-Perez,Oscar-Perez,4ae5f6a,es ESP,MF,Eibar
+8750.0,Jon Ander Lambea,/en/players/f370429e/Jon-Ander-Lambea,Jon-Ander-Lamb,f370429e,es ESP,DF,Eibar
+8751.0,Gorka Brit,/en/players/18fea665/Gorka-Brit,Gorka-Brit,18fea665,es ESP,FW,Eibar
+8752.0,Ander Alaña,/en/players/546ddcb6/Ander-Alana,Ander-A,546ddcb6,es ESP,DF,Eibar
+8753.0,Dani Bautista,/en/players/135b0a5e/Dani-Bautista,Dani-Bautist,135b0a5e,es ESP,DF,Eibar
+8754.0,Joseba Llorente,/en/players/ddb98947/Joseba-Llorente,Joseba-Llorent,ddb98947,es ESP,FW,Eibar
+8755.0,Burgueña,/en/players/681ee22c/Burguena,Burgu,681ee22c,es ESP,MF,Eibar
+8756.0,Sebastián Romero,/en/players/bcafb825/Sebastian-Romero,Sebastian-Romero,bcafb825,ar ARG,"DF,MF",Eibar
+8757.0,﻿Gorka Iraizoz,/en/players/26f2473f/Gorka-Iraizoz,Gorka-Iraizoz,26f2473f,es ESP,GK,Eibar
+8758.0,Kike Mateo,/en/players/99508f00/Kike-Mateo,Kike-Mateo,99508f00,es ESP,MF,Eibar
+8759.0,Daniel Cifuentes,/en/players/488a3de8/Daniel-Cifuentes,Daniel-Cifuent,488a3de8,es ESP,DF,Eibar
+8760.0,Manuel Castiñeiras,/en/players/fad67c40/Manuel-Castineiras,Manuel-Castinei,fad67c40,es ESP,DF,Eibar
+8761.0,David Silva,/en/players/e2716bd0/David-Silva,David-Silv,2716bd0,es ESP,"FW,MF",Eibar
+8762.0,Moisés Hurtado,/en/players/1ea7254b/Moises-Hurtado,Moises-Hurtado,1ea7254b,es ESP,MF,Eibar
+8763.0,Manel,/en/players/11df8348/Manel,M,11df8348,es ESP,MF,Eibar
+8764.0,Juan Cabrejo,/en/players/3f2dbe00/Juan-Cabrejo,Juan-Cabrejo,3f2dbe00,es ESP,DF,Eibar
+8765.0,Alberto Suárez,/en/players/2f537497/Alberto-Suarez,Alberto-Suarez,2f537497,es ESP,FW,Eibar
+8766.0,Iñigo Vélez,/en/players/08cc09ee/Inigo-Velez,Inigo-Velez,08cc09ee,es ESP,FW,Eibar
+8767.0,Oskitz Estefanía,/en/players/357b97d7/Oskitz-Estefania,Oskitz-Estefani,357b97d7,es ESP,FW,Eibar
+8768.0,Avimiled Rivas,/en/players/c57d4fc3/Avimiled-Rivas,Avimiled-Riv,c57d4fc3,co COL,MF,Eibar
+8769.0,Juan Carlos Caballero,/en/players/6b8a75b9/Juan-Carlos-Caballero,Juan-Carlos-Caballero,6b8a75b9,es ESP,GK,Eibar
+8770.0,Paul Abasolo,/en/players/5f60be43/Paul-Abasolo,Paul-Abasolo,5f60be43,es ESP,"FW,MF",Eibar
+8771.0,﻿César Caneda,/en/players/1013adcf/Cesar-Caneda,Cesar-Caned,1013adcf,es ESP,DF,Eibar
+8772.0,Jorge Azkoitia,/en/players/4ac3dade/Jorge-Azkoitia,Jorge-Azkoiti,4ac3dade,es ESP,MF,Eibar
+8773.0,Pedro Mairata,/en/players/de9e9405/Pedro-Mairata,Pedro-Mairat,de9e9405,es ESP,DF,Eibar
+8774.0,Jaime,/en/players/87a334ab/Jaime,Jaim,87a334ab,es ESP,MF,Eibar
+8775.0,Aritz Solabarrieta,/en/players/d9124b81/Aritz-Solabarrieta,Aritz-Solabarriet,d9124b81,es ESP,MF,Eibar
+8776.0,Markel Bergara,/en/players/04a65a8f/Markel-Bergara,Markel-Berg,04a65a8f,es ESP,MF,Eibar
+8777.0,Joseba Arriaga,/en/players/5819e0da/Joseba-Arriaga,Joseba-Arriag,5819e0da,es ESP,FW,Eibar
+8778.0,Rafa,/en/players/0b89dbcc/Rafa,Raf,0b89dbcc,es ESP,"DF,MF",Eibar
+8779.0,Iker Garai,/en/players/7c2468da/Iker-Garai,Iker-Garai,7c2468da,es ESP,DF,Eibar
+8780.0,Juan Domínguez,/en/players/3cf63263/Juan-Dominguez,Juan-Dominguez,3cf63263,es ESP,FW,Eibar
+8781.0,Rubén Falcón,/en/players/bf651b09/Ruben-Falcon,Ruben-Falco,bf651b09,es ESP,GK,Eibar
+8782.0,Néstor Susaeta,/en/players/ff0c8ca6/Nestor-Susaeta,Nestor-Susaet,ff0c8ca6,es ESP,"FW,MF",Eibar
+8783.0,Federico Magallanes,/en/players/d75da374/Federico-Magallanes,Federico-Mag,d75da374,uy URU,"FW,MF",Eibar
+8784.0,Jon Moya,/en/players/cb72eae9/Jon-Moya,Jon-Mo,cb72eae9,es ESP,DF,Eibar
+8785.0,Jorge Pailós,/en/players/347c56a1/Jorge-Pailos,Jorge-Pailo,347c56a1,uy URU,FW,Eibar
+8786.0,﻿Iván Cuéllar,/en/players/75751c99/Ivan-Cuellar,Ivan-Cu,75751c99,es ESP,GK,Eibar
+8787.0,Lluis Codina,/en/players/c83fd93a/Lluis-Codina,Lluis-Codi,c83fd93a,es ESP,MF,Eibar
+8788.0,Raúl García,/en/players/1d59e087/Raul-Garcia,Raul-Garci,1d59e087,es ESP,DF,Eibar
+8789.0,Carmelo Yuste Yuste,/en/players/4989979d/Carmelo-Yuste-Yuste,Carmelo-Yuste-Yust,4989979d,es ESP,MF,Eibar
+8790.0,Asier Goiria,/en/players/1dfd7bbc/Asier-Goiria,Asier-Goiri,1dfd7bbc,es ESP,FW,Eibar
+8791.0,Joseba del Olmo,/en/players/41abf0c3/Joseba-del-Olmo,Joseba-del-Olmo,41abf0c3,es ESP,MF,Eibar
+8792.0,Roberto Lombraña,/en/players/f50c62da/Roberto-Lombrana,Roberto-Lomb,f50c62da,es ESP,MF,Eibar
+8793.0,Biel Medina,/en/players/6339d366/Biel-Medina,Biel-Medi,6339d366,es ESP,DF,Eibar
+8794.0,Natxo Insa,/en/players/28ccefcd/Natxo-Insa,Natxo-I,28ccefcd,my MAS,MF,Eibar
+8795.0,Albert Yagüe,/en/players/01da592d/Albert-Yague,Albert-Yagu,01da592d,es ESP,FW,Eibar
+8796.0,Jon Altuna,/en/players/dd9a1ece/Jon-Altuna,Jon-Altu,dd9a1ece,es ESP,MF,Eibar
+8797.0,David Zurutuza,/en/players/d9bda115/David-Zurutuza,David-Zurutuz,d9bda115,es ESP,MF,Eibar
+8798.0,Markel Robles,/en/players/f29903e4/Markel-Robles,Markel-Rob,f29903e4,es ESP,MF,Eibar
+8799.0,Manu Herrera,/en/players/ad2acc39/Manu-Herrera,Manu-H,d2acc39,es ESP,GK,Eibar
+8800.0,Nicolás Medina,/en/players/aeada259/Nicolas-Medina,Nicolas-Medi,da259,ar ARG,MF,Eibar
+8801.0,José Zamora,/en/players/f64d699e/Jose-Zamora,Jose-Zamo,f64d699e,es ESP,MF,Eibar
+8802.0,Xabier Eizagirre,/en/players/e10ee048/Xabier-Eizagirre,Xabier-Eizagi,10ee048,es ESP,MF,Eibar
+8803.0,﻿Zigor Goikuria,/en/players/a76f65d4/Zigor-Goikuria,Zigor-Goikuri,76f65d4,es ESP,GK,Eibar
+8804.0,Francisco Sutil,/en/players/51b44d11/Francisco-Sutil,Francisco-Suti,51b44d11,es ESP,"DF,FW",Eibar
+8805.0,Ibón Larrazábal,/en/players/c405c2f9/Ibon-Larrazabal,Ibon-Larrazab,c405c2f9,es ESP,MF,Eibar
+8806.0,Txema Añibarro,/en/players/34b0ee60/Txema-Anibarro,Txema-Anibarro,34b0ee60,es ESP,"DF,MF",Eibar
+8807.0,Iván Romero,/en/players/4ecdc16d/Ivan-Romero,Ivan-Romero,4ecdc16d,es ESP,DF,Eibar
+8808.0,Txiki,/en/players/ec52d35e/Txiki,Txiki,c52d35e,es ESP,MF,Eibar
+8809.0,Álvaro Martínez,/en/players/c4d41f78/Alvaro-Martinez,Alvaro-Martinez,c4d41f78,es ESP,DF,Eibar
+8810.0,Germán Beltrán,/en/players/552f8f78/German-Beltran,German-Belt,552f8f78,es ESP,FW,Eibar
+8811.0,Carlos Rubén,/en/players/82d00b28/Carlos-Ruben,Carlos-Rub,82d00b28,es ESP,MF,Eibar
+8812.0,Mikel Arruabarrena,/en/players/ad0c4ebb/Mikel-Arruabarrena,Mikel-Arruab,d0c4ebb,es ESP,FW,Eibar
+8813.0,Gaizka Toquero,/en/players/b78144a6/Gaizka-Toquero,Gaizka-Toquero,b78144a6,es ESP,"FW,MF",Eibar
+8814.0,Rudy Carlier,/en/players/48fdbb38/Rudy-Carlier,Rudy-Carli,48fdbb38,fr FRA,FW,Eibar
+8815.0,Tiko,/en/players/88a00d5d/Tiko,Tiko,88a00d5d,es ESP,MF,Eibar
+8816.0,Xabi Irureta,/en/players/ad11657f/Xabi-Irureta,Xabi-Iruret,d11657f,es ESP,GK,Eibar
+8817.0,Josu Etxaniz,/en/players/1874d442/Josu-Etxaniz,Josu-Etxaniz,1874d442,es ESP,DF,Eibar
+8818.0,Javier Ballesteros,/en/players/10ac4213/Javier-Ballesteros,Javier-Ballestero,10ac4213,es ESP,FW,Eibar
+8819.0,López Rekarte,/en/players/346b3104/Lopez-Rekarte,Lopez-Rekart,346b3104,es ESP,DF,Eibar
+8820.0,Damián Ísmodes,/en/players/60cdcea6/Damian-Ismodes,Damian-Ismod,60cdcea6,pe PER,MF,Eibar
+8821.0,Ander Olaizola,/en/players/2e98fc26/Ander-Olaizola,Ander-Olaizo,2e98fc26,es ESP,MF,Eibar
+8822.0,Dani García,/en/players/240d3a0b/Dani-Garcia,Dani-Garci,240d3a0b,es ESP,MF,Eibar
+8823.0,Yuri Berchiche,/en/players/b6e50615/Yuri-Berchiche,Yuri-Berchich,b6e50615,es ESP,DF,Eibar
+8824.0,José Luis Morales,/en/players/4a478107/Jose-Luis-Morales,Jose-Luis-Mo,4a478107,es ESP,"FW,MF",Eibar
+8825.0,Raúl Albentosa,/en/players/348e4809/Raul-Albentosa,Raul-Albento,348e4809,es ESP,DF,Eibar
+8826.0,Jota,/en/players/9f351459/Jota,Jot,9f351459,es ESP,MF,Eibar
+8827.0,Jon Errasti,/en/players/4243631a/Jon-Errasti,Jon-Errasti,4243631a,es ESP,MF,Eibar
+8828.0,Lillo,/en/players/476ca810/Lillo,Lillo,476ca810,es ESP,DF,Eibar
+8829.0,Ander Capa,/en/players/37f1cf47/Ander-Capa,Ander-C,37f1cf47,es ESP,"DF,MF",Eibar
+8830.0,Eneko Bóveda,/en/players/1771f2c1/Eneko-Boveda,Eneko-Boved,1771f2c1,es ESP,DF,Eibar
+8831.0,Alain Eizmendi,/en/players/d59d0a17/Alain-Eizmendi,Alain-Eizmendi,d59d0a17,es ESP,"DF,MF",Eibar
+8832.0,Gilvan Gomes,/en/players/6e71e066/Gilvan-Gomes,Gilvan-Gom,6e71e066,br BRA,MF,Eibar
+8833.0,David Mainz,/en/players/d4498ac2/David-Mainz,David-Mainz,d4498ac2,es ESP,FW,Eibar
+8834.0,Urko Vera,/en/players/d8cf0115/Urko-Vera,Urko-V,d8cf0115,es ESP,FW,Eibar
+8835.0,Gorka Kijera,/en/players/dd173ee5/Gorka-Kijera,Gorka-Kij,dd173ee5,es ESP,DF,Eibar
+8836.0,Diego Jiménez,/en/players/077622da/Diego-Jimenez,Diego-Jimenez,077622da,es ESP,MF,Eibar
+8837.0,Txusta,/en/players/904bc107/Txusta,Txust,904bc107,es ESP,GK,Eibar
+8838.0,Diego Rivas Rego,/en/players/c3a6fb7d/Diego-Rivas-Rego,Diego-Rivas-Rego,c3a6fb7d,es ESP,GK,Eibar
+8839.0,Saúl Berjón,/en/players/59e3e14b/Saul-Berjon,Saul-Berjo,59e3e14b,es ESP,"FW,MF",Eibar
+8840.0,Raúl Navas,/en/players/ad178594/Raul-Navas,Raul-Nav,d178594,es ESP,DF,Eibar
+8841.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Eibar
+8842.0,Federico Piovaccari,/en/players/fa49f136/Federico-Piovaccari,Federico-Piovaccari,fa49f136,it ITA,FW,Eibar
+8843.0,Javi Lara,/en/players/bd1babf1/Javi-Lara,Javi-L,bd1babf1,es ESP,MF,Eibar
+8844.0,Abraham Minero,/en/players/ce2c56fc/Abraham-Minero,Abraham-Minero,ce2c56fc,es ESP,"DF,MF",Eibar
+8845.0,Borja Fernández,/en/players/9127f9ce/Borja-Fernandez,Borja-Fernandez,9127f9ce,es ESP,MF,Eibar
+8846.0,Dídac Vilà,/en/players/bad38a94/Didac-Vila,Didac-Vi,bad38a94,es ESP,DF,Eibar
+8847.0,Borja Ekiza,/en/players/6465e1c9/Borja-Ekiza,Borja-Ekiz,6465e1c9,es ESP,DF,Eibar
+8848.0,Derek Boateng,/en/players/e9ef3a0d/Derek-Boateng,Derek-Boateng,9ef3a0d,gh GHA,MF,Eibar
+8849.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,FW,Eibar
+8850.0,Jaime,/en/players/d7f052c3/Jaime,Jaim,d7f052c3,es ESP,GK,Eibar
+8851.0,Dejan Lekić,/en/players/f73b1a65/Dejan-Lekic,Dejan-Lekic,f73b1a65,rs SRB,FW,Eibar
+8852.0,Gonzalo Escalante,/en/players/3f79a1c8/Gonzalo-Escalante,Gonzalo-Escalant,3f79a1c8,ar ARG,MF,Eibar
+8853.0,Mauro dos Santos,/en/players/ec699fdd/Mauro-dos-Santos,Mauro-dos-Santo,c699fdd,ar ARG,DF,Eibar
+8854.0,Borja Bastón,/en/players/8c44e37b/Borja-Baston,Borja-Basto,8c44e37b,es ESP,FW,Eibar
+8855.0,Keko,/en/players/1512328c/Keko,Keko,1512328c,es ESP,MF,Eibar
+8856.0,Adrián González,/en/players/57ebd662/Adrian-Gonzalez,Adrian-Gonzalez,57ebd662,es ESP,MF,Eibar
+8857.0,Sergi Enrich,/en/players/bb4b1242/Sergi-Enrich,Sergi-Enrich,bb4b1242,es ESP,FW,Eibar
+8858.0,David Juncà,/en/players/de7d40d6/David-Junca,David-Junc,de7d40d6,es ESP,DF,Eibar
+8859.0,Iván Ramis,/en/players/d2be40f2/Ivan-Ramis,Ivan-Rami,d2be40f2,es ESP,DF,Eibar
+8860.0,Aleksandar Pantić,/en/players/70e5566a/Aleksandar-Pantic,Aleksandar-Pantic,70e5566a,rs SRB,DF,Eibar
+8861.0,Takashi Inui,/en/players/61bd33d0/Takashi-Inui,Takashi-Inui,61bd33d0,jp JPN,MF,Eibar
+8862.0,Antonio Luna,/en/players/ed239245/Antonio-Luna,Antonio-Lu,d239245,es ESP,DF,Eibar
+8863.0,Ion Ansotegi,/en/players/72b26e8e/Ion-Ansotegi,Ion-Ansotegi,72b26e8e,es ESP,DF,Eibar
+8864.0,Josip Radošević,/en/players/6afcaaa3/Josip-Radosevic,Josip-Radosevic,6afcaaa3,hr CRO,MF,Eibar
+8865.0,Simone Verdi,/en/players/0375723e/Simone-Verdi,Simone-Verdi,0375723e,it ITA,MF,Eibar
+8866.0,Izet Hajrović,/en/players/55537f53/Izet-Hajrovic,Izet-Hajrovic,55537f53,ba BIH,MF,Eibar
+8867.0,Eddy Silvestre,/en/players/15ac2dc2/Eddy-Silvestre,Eddy-Silvest,15ac2dc2,az AZE,MF,Eibar
+8868.0,Ander Gayoso,/en/players/72c85656/Ander-Gayoso,Ander-Gayoso,72c85656,es ESP,DF,Eibar
+8869.0,Iñigo Barrenetxea,/en/players/f08e1c7a/Inigo-Barrenetxea,Inigo-Barrenetx,f08e1c7a,es ESP,MF,Eibar
+8870.0,Imanol Corral,/en/players/1ee11fb6/Imanol-Corral,Imanol-Co,1ee11fb6,es ESP,DF,Eibar
+8871.0,Asier Etxaburu,/en/players/f9ce2007/Asier-Etxaburu,Asier-Etxaburu,f9ce2007,es ESP,MF,Eibar
+8872.0,Julen López,/en/players/42f8e7b0/Julen-Lopez,Julen-Lopez,42f8e7b0,es ESP,MF,Eibar
+8873.0,Jorge Mediavilla,/en/players/55126303/Jorge-Mediavilla,Jorge-Mediavi,55126303,es ESP,GK,Eibar
+8874.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,MF,Eibar
+8875.0,Florian Lejeune,/en/players/6eaed4eb/Florian-Lejeune,Florian-Lejeu,6eaed4eb,fr FRA,DF,Eibar
+8876.0,Yoel,/en/players/61bb7498/Yoel,Yo,61bb7498,es ESP,GK,Eibar
+8877.0,Kike,/en/players/e897d8ba/Kike,Kik,897d8ba,es ESP,FW,Eibar
+8878.0,Anaitz Arbilla,/en/players/850c0a0d/Anaitz-Arbilla,Anaitz-Arbi,850c0a0d,es ESP,DF,Eibar
+8879.0,Álex Gálvez,/en/players/960fb42d/Alex-Galvez,Alex-Galvez,960fb42d,es ESP,DF,Eibar
+8880.0,Fran Rico,/en/players/eda29127/Fran-Rico,Fran-Rico,da29127,es ESP,MF,Eibar
+8881.0,Rubén Peña,/en/players/1f079188/Ruben-Pena,Ruben-P,1f079188,es ESP,"MF,FW",Eibar
+8882.0,Bebé,/en/players/d8712bf9/Bebe,Beb,d8712bf9,cv CPV,"MF,FW",Eibar
+8883.0,Cristian Rivera,/en/players/8ef81d2d/Cristian-Rivera,Cristian-Riv,8ef81d2d,es ESP,MF,Eibar
+8884.0,Nano,/en/players/217011a0/Nano,Nano,217011a0,es ESP,FW,Eibar
+8885.0,Markel Areitio,/en/players/f6d651a5/Markel-Areitio,Markel-Areitio,f6d651a5,es ESP,GK,Eibar
+8886.0,Kike Cebriá,/en/players/c4bf3726/Kike-Cebria,Kike-Cebri,c4bf3726,es ESP,GK,Eibar
+8887.0,Josué Dorrio,/en/players/8dffe3d5/Josue-Dorrio,Josue-Dorrio,8dffe3d5,es ESP,MF,Eibar
+8888.0,Imanol Sarriegi,/en/players/b32b7d1b/Imanol-Sarriegi,Imanol-Sarriegi,b32b7d1b,es ESP,MF,Eibar
+8889.0,﻿Marko Dmitrović,/en/players/ac295d9e/Marko-Dmitrovic,Marko-Dmitrovic,c295d9e,rs SRB,GK,Eibar
+8890.0,José Ángel,/en/players/3024e383/Jose-Angel,Jose-Ang,3024e383,es ESP,DF,Eibar
+8891.0,Joan Jordán,/en/players/2a0c8ba4/Joan-Jordan,Joan-Jord,2a0c8ba4,es ESP,MF,Eibar
+8892.0,Paulo Oliveira,/en/players/a8fbae1d/Paulo-Oliveira,Paulo-Olivei,8fbae1d,pt POR,DF,Eibar
+8893.0,Charles,/en/players/c4b8bcf4/Charles,Ch,c4b8bcf4,br BRA,FW,Eibar
+8894.0,Iván Alejo,/en/players/3d7e48ce/Ivan-Alejo,Ivan-Alejo,3d7e48ce,es ESP,MF,Eibar
+8895.0,Fabián Orellana,/en/players/c90977db/Fabian-Orellana,Fabian-O,c90977db,cl CHI,MF,Eibar
+8896.0,Papakouli Diop,/en/players/7329018e/Papakouli-Diop,Papakouli-Dio,7329018e,sn SEN,MF,Eibar
+8897.0,David Lombán,/en/players/b43b81f1/David-Lomban,David-Lomb,b43b81f1,es ESP,DF,Eibar
+8898.0,Xesc Regis,/en/players/4b32b2be/Xesc-Regis,Xesc-Regi,4b32b2be,es ESP,FW,Eibar
+8899.0,Vukašin Jovanović,/en/players/0eb03d5b/Vukasin-Jovanovic,Vukasin-Jovanovic,0eb03d5b,rs SRB,DF,Eibar
+8900.0,Ángel López,/en/players/f26d76e4/Angel-Lopez,Angel-Lopez,f26d76e4,es ESP,MF,Eibar
+8901.0,Marc Cucurella,/en/players/1daec722/Marc-Cucurella,Marc-Cucu,1daec722,es ESP,"MF,DF",Eibar
+8902.0,Pablo de Blasis,/en/players/9ab48bde/Pablo-de-Blasis,Pablo-de-Blasi,9ab48bde,ar ARG,"MF,DF",Eibar
+8903.0,Sergio Álvarez,/en/players/88d91621/Sergio-Alvarez,Sergio-Alvarez,88d91621,es ESP,"DF,MF",Eibar
+8904.0,Pedro Bigas,/en/players/697295b1/Pedro-Bigas,Pedro-Big,697295b1,es ESP,DF,Eibar
+8905.0,Marc Cardona,/en/players/b92b456a/Marc-Cardona,Marc-Cardo,b92b456a,es ESP,"FW,MF",Eibar
+8906.0,Pere Milla,/en/players/335039a2/Pere-Milla,Pere-Mi,335039a2,es ESP,MF,Eibar
+8907.0,Pablo Hervías,/en/players/ba5a9545/Pablo-Hervias,Pablo-Hervi,ba5a9545,es ESP,MF,Eibar
+8908.0,Miguel Marí,/en/players/d70a3661/Miguel-Mari,Miguel-Mari,d70a3661,es ESP,MF,Eibar
+8909.0,Jordi Calavera,/en/players/bdef8cdb/Jordi-Calavera,Jordi-Calav,bdef8cdb,es ESP,DF,Eibar
+8910.0,Kaiser,/en/players/3e729bb0/Kaiser,Kai,3e729bb0,es ESP,DF,Eibar
+8911.0,Edu Expósito,/en/players/283c7121/Edu-Exposito,Edu-Exposito,283c7121,es ESP,MF,Eibar
+8912.0,Álvaro Tejero,/en/players/868ce848/Alvaro-Tejero,Alvaro-Tejero,868ce848,es ESP,DF,Eibar
+8913.0,Esteban Burgos,/en/players/40449bbd/Esteban-Burgos,Esteban-Burgo,40449bbd,ar ARG,DF,Eibar
+8914.0,Rober Correa,/en/players/46bd3a5b/Rober-Correa,Rober-Co,46bd3a5b,es ESP,DF,Eibar
+8915.0,Sebastián Cristóforo,/en/players/3c05c659/Sebastian-Cristoforo,Sebastian-Cristoforo,3c05c659,uy URU,MF,Eibar
+8916.0,Rafa Soares,/en/players/062fc2e6/Rafa-Soares,Rafa-So,062fc2e6,pt POR,DF,Eibar
+8917.0,Quique,/en/players/c966fce1/Quique,Quiqu,c966fce1,es ESP,"FW,MF",Eibar
+8918.0,Miguel Atienza,/en/players/12eda7be/Miguel-Atienza,Miguel-Atienz,12eda7be,es ESP,MF,Eibar
+8919.0,Ekhi Bravo,/en/players/94e4b5f1/Ekhi-Bravo,Ekhi-Bravo,94e4b5f1,es ESP,MF,Eibar
+8920.0,Sergio Cubero Ezcurra,/en/players/d858d079/Sergio-Cubero-Ezcurra,Sergio-Cubero-Ezcu,d858d079,es ESP,MF,Eibar
+8921.0,Unai Dufur,/en/players/c261b5dd/Unai-Dufur,Unai-Dufu,c261b5dd,es ESP,DF,Eibar
+8922.0,Bryan,/en/players/7b5ab7f2/Bryan,B,7b5ab7f2,es ESP,MF,Eibar
+8923.0,Alejandro Pozo Pozo,/en/players/3c16d927/Alejandro-Pozo-Pozo,Alejandro-Pozo-Pozo,3c16d927,es ESP,"DF,MF",Eibar
+8924.0,Yoshinori Mutō,/en/players/5343eb4e/Yoshinori-Muto,Yoshinori-Muto,5343eb4e,jp JPN,"FW,MF",Eibar
+8925.0,Recio,/en/players/54073b28/Recio,Recio,54073b28,es ESP,MF,Eibar
+8926.0,Aleix García,/en/players/a10361d2/Aleix-Garcia,Aleix-Garci,10361d2,es ESP,MF,Eibar
+8927.0,Damian Kądzior,/en/players/bb6c6331/Damian-Kadzior,Damian-Kadzio,bb6c6331,pl POL,"MF,FW",Eibar
+8928.0,Eñaut Mendía,/en/players/aa7da569/Enaut-Mendia,Enaut-Mendi,7da569,es ESP,MF,Eibar
+8929.0,Unai Arietaleanizbeaskoa,/en/players/74d9a90b/Unai-Arietaleanizbeaskoa,Unai-Arietaleanizbeasko,74d9a90b,es ESP,"FW,MF",Eibar
+8930.0,Roberto Olabe del Arco,/en/players/b91883b7/Roberto-Olabe-del-Arco,Roberto-Olabe-del-Arco,b91883b7,es ESP,MF,Eibar
+8931.0,Unai Ayala,/en/players/a4f99d0c/Unai-Ayala,Unai-A,4f99d0c,es ESP,GK,Eibar
+8932.0,José Antonio Martínez Gil,/en/players/8e049cbd/Jose-Antonio-Martinez-Gil,Jose-Antonio-Martinez-Gi,8e049cbd,es ESP,DF,Eibar
+8933.0,Jon Mikel Magunagoitia,/en/players/41417804/Jon-Mikel-Magunagoitia,Jon-Mikel-Magunagoiti,41417804,es ESP,GK,Eibar
+8934.0,﻿José Corpas,/en/players/422b05e3/Jose-Corpas,Jose-Co,422b05e3,es ESP,MF,Eibar
+8935.0,Stoichkov,/en/players/4e257184/Stoichkov,Stoichkov,4e257184,es ESP,"MF,FW",Eibar
+8936.0,Toño,/en/players/d4ef9ac5/Tono,Tono,d4ef9ac5,es ESP,"DF,MF",Eibar
+8937.0,Frederico Venâncio,/en/players/0adc7748/Frederico-Venancio,Frederico-Venancio,0adc7748,pt POR,DF,Eibar
+8938.0,Ander Cantero,/en/players/de9bccf3/Ander-Cantero,Ander-Cantero,de9bccf3,es ESP,GK,Eibar
+8939.0,Gustavo Blanco Leschuk,/en/players/3b07529c/Gustavo-Blanco-Leschuk,Gustavo-Blanco-Leschuk,3b07529c,ar ARG,FW,Eibar
+8940.0,Fran Sol,/en/players/9bd3b683/Fran-Sol,Fran-So,9bd3b683,es ESP,FW,Eibar
+8941.0,Xabier Etxeita,/en/players/4a895384/Xabier-Etxeita,Xabier-Etxeit,4a895384,es ESP,DF,Eibar
+8942.0,Chema,/en/players/7f203b54/Chema,Chem,7f203b54,es ESP,DF,Eibar
+8943.0,Antonio Cristian Glauder García,/en/players/d919d7f2/Antonio-Cristian-Glauder-Garcia,Antonio-Cristian-Glauder-Garci,d919d7f2,es ESP,DF,Eibar
+8944.0,Yanis Rahmani,/en/players/f807f8b3/Yanis-Rahmani,Yanis-Rahmani,f807f8b3,fr FRA,MF,Eibar
+8945.0,Fernando Llorente,/en/players/82dbf623/Fernando-Llorente,Fernando-Llorent,82dbf623,es ESP,FW,Eibar
+8946.0,Óscar Sielva,/en/players/a6f3fe84/Oscar-Sielva,Oscar-Sielv,6f3fe84,es ESP,MF,Eibar
+8947.0,Ager Aketxe,/en/players/c5eaff5c/Ager-Aketxe,Ager-Aketx,c5eaff5c,es ESP,MF,Eibar
+8948.0,Paul Álvarez,/en/players/59a2eb56/Paul-Alvarez,Paul-Alvarez,59a2eb56,es ESP,DF,Eibar
+8949.0,Unai Ruiz-Zeberio,/en/players/d48d1ab8/Unai-Ruiz-Zeberio,Unai-Ruiz-Zeberio,d48d1ab8,es ESP,GK,Eibar
+8950.0,Angel Troncho,/en/players/fd1d323a/Angel-Troncho,Angel-Troncho,fd1d323a,es ESP,MF,Eibar
+8951.0,Jorge Yriarte,/en/players/c81db30e/Jorge-Yriarte,Jorge-Yriart,c81db30e,ve VEN,MF,Eibar

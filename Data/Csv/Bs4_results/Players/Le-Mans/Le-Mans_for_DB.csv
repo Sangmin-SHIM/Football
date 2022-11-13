@@ -1,341 +1,341 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Frédéric Thomas,fr FRA,MF,36,34,0.0,1.0,2003-2004,8b735a92,Le-Mans,"3,098",34.4,1.0,1.0,100.0,4.0,
-,Daniel Cousin,ga GAB,FW,33,31,4.0,11.0,2003-2004,c666c11f,Le-Mans,"2,729",30.3,4.0,1.0,100.0,69.0,
-,Jean-François Bédénik,fr FRA,GK,28,28,0.0,0.0,2003-2004,b290fb9c,Le-Mans,"2,520",28.0,0.0,0.0,100.0,4.0,
-,Olivier Thomas,fr FRA,DF,33,27,0.0,0.0,2003-2004,37abdce9,Le-Mans,"2,428",27.0,5.0,0.0,100.0,4.0,
-,Yohan Hautcœur,fr FRA,MF,33,26,1.0,2.0,2003-2004,d7110aaf,Le-Mans,"2,357",26.2,3.0,0.0,100.0,4.0,
-,Laurent Bonnart,fr FRA,DF,26,25,1.0,1.0,2003-2004,fbb6569e,Le-Mans,"2,281",25.3,1.0,0.0,100.0,4.0,
-,Yannick Fischer,fr FRA,DF,28,24,0.0,1.0,2003-2004,336a8eaa,Le-Mans,"2,219",24.7,5.0,0.0,100.0,4.0,
-,Laurent Peyrelade,fr FRA,FW,34,23,3.0,5.0,2003-2004,d702eb91,Le-Mans,"2,043",22.7,4.0,0.0,100.0,4.0,
-,Fabrice Pancrate,fr FRA,"FW,MF",36,22,6.0,5.0,2003-2004,70d29079,Le-Mans,"2,119",23.5,1.0,0.0,100.0,4.0,
-,Fernando D'Amico,ar ARG,MF,24,22,0.0,2.0,2003-2004,b09f32a1,Le-Mans,"1,902",21.1,11.0,0.0,100.0,5.0,
-,James Fanchone,fr FRA,"FW,MF",27,20,2.0,2.0,2003-2004,1eeef54,Le-Mans,"1,775",19.7,2.0,0.0,100.0,4.0,
-,Thabang Molefe,za RSA,DF,21,20,0.0,1.0,2003-2004,978c1be0,Le-Mans,"1,705",18.9,7.0,1.0,100.0,60.0,
-,Philippe Celdran,fr FRA,MF,28,19,4.0,1.0,2003-2004,5f28360b,Le-Mans,"1,716",19.1,1.0,0.0,100.0,4.0,
-,Jacques-Désiré Périatambée,mu MRI,MF,31,18,0.0,0.0,2003-2004,c96ccd7,Le-Mans,"1,629",18.1,5.0,0.0,100.0,154.0,
-,Dan Eggen,no NOR,DF,21,16,1.0,1.0,2003-2004,176fab3d,Le-Mans,"1,437",16.0,2.0,0.0,100.0,21.0,
-,Yoann Poulard,fr FRA,DF,14,14,0.0,0.0,2003-2004,11b8a92d,Le-Mans,"1,260",14.0,1.0,0.0,100.0,4.0,
-,Eddy Capron,fr FRA,DF,17,14,1.0,0.0,2003-2004,8cb3fb13,Le-Mans,"1,217",13.5,3.0,0.0,100.0,4.0,
-,Yohann Pelé,fr FRA,GK,10,10,0.0,0.0,2003-2004,76806215,Le-Mans,900,10.0,0.0,0.0,100.0,4.0,
-,Jean-Jacques Domoraud,ci CIV,DF,11,9,0.0,0.0,2003-2004,148ccbc7,Le-Mans,745,8.3,3.0,0.0,100.0,35.0,
-,Jérôme Drouin,fr FRA,MF,5,5,0.0,0.0,2003-2004,3818fa34,Le-Mans,399,4.4,2.0,0.0,100.0,4.0,
-,Cédric Liabeuf,fr FRA,MF,11,4,0.0,0.0,2003-2004,6a2e153b,Le-Mans,425,4.7,0.0,0.0,100.0,4.0,
-,Sergiu Radu,ro ROU,FW,13,3,0.0,0.0,2003-2004,9d535200,Le-Mans,281,3.1,0.0,0.0,100.0,51.0,
-,Ulick Lupede,,DF,3,2,0.0,0.0,2003-2004,32dfdba2,Le-Mans,184,2.0,0.0,0.0,100.0,,
-,Sekou Baradji,fr FRA,"DF,MF",2,2,0.0,0.0,2003-2004,5693aa98,Le-Mans,180,2.0,0.0,0.0,100.0,4.0,
-,Yannick Yenga,cd COD,"FW,MF",1,0,0.0,0.0,2003-2004,ba23fe2b,Le-Mans,25,0.3,0.0,0.0,100.0,50.0,
-,﻿Frédéric Thomas,fr FRA,MF,38,38,0.0,2.0,2005-2006,8b735a92,Le-Mans,"3,325",36.9,4.0,0.0,100.0,4.0,
-,Yohann Pelé,fr FRA,GK,37,37,0.0,0.0,2005-2006,76806215,Le-Mans,"3,276",36.4,2.0,0.0,100.0,4.0,
-,Olivier Thomas,fr FRA,DF,36,36,0.0,0.0,2005-2006,37abdce9,Le-Mans,"3,139",34.9,5.0,0.0,100.0,4.0,
-,Laurent Bonnart,fr FRA,DF,35,35,2.0,0.0,2005-2006,fbb6569e,Le-Mans,"3,104",34.5,4.0,0.0,100.0,4.0,
-,Marko Baša,me MNE,DF,32,32,0.0,0.0,2005-2006,f170b78c,Le-Mans,"2,840",31.6,5.0,1.0,100.0,33.0,
-,Yohan Hautcœur,fr FRA,MF,35,31,1.0,3.0,2005-2006,d7110aaf,Le-Mans,"2,789",31.0,4.0,0.0,100.0,4.0,
-,James Fanchone,fr FRA,"FW,MF",37,30,3.0,3.0,2005-2006,1eeef54,Le-Mans,"2,558",28.4,1.0,0.0,100.0,4.0,
-,Daisuke Matsui,jp JPN,"FW,MF",33,28,8.0,3.0,2005-2006,c178b2e0,Le-Mans,"2,351",26.1,7.0,0.0,100.0,54.0,
-,Yoann Poulard,fr FRA,DF,26,26,0.0,0.0,2005-2006,11b8a92d,Le-Mans,"2,226",24.7,4.0,1.0,100.0,4.0,
-,Túlio de Melo,br BRA,FW,24,18,1.0,7.0,2005-2006,2a9ab91,Le-Mans,"1,629",18.1,5.0,1.0,100.0,2.0,
-,Romaric,ci CIV,MF,21,16,0.0,0.0,2005-2006,9bb5c5e0,Le-Mans,"1,392",15.5,4.0,0.0,100.0,35.0,
-,Ismaël Bangoura,gn GUI,FW,23,15,1.0,6.0,2005-2006,d255c356,Le-Mans,"1,504",16.7,5.0,1.0,100.0,74.0,
-,Grégory Cerdan,fr FRA,DF,21,15,0.0,0.0,2005-2006,7a545e43,Le-Mans,"1,442",16.0,6.0,0.0,100.0,4.0,
-,Cédric Fauré,fr FRA,FW,14,10,1.0,2.0,2005-2006,6ffcea42,Le-Mans,880,9.8,0.0,0.0,100.0,4.0,
-,Davide Chiumiento,ch SUI,MF,18,9,2.0,1.0,2005-2006,1ccdc87d,Le-Mans,860,9.6,2.0,0.0,100.0,39.0,
-,Yannick Fischer,fr FRA,DF,12,8,0.0,0.0,2005-2006,336a8eaa,Le-Mans,777,8.6,2.0,0.0,100.0,4.0,
-,Chiguy Lucau,cd COD,FW,13,8,1.0,2.0,2005-2006,f4dc7aa8,Le-Mans,762,8.5,2.0,0.0,100.0,50.0,
-,Grafite,br BRA,FW,11,7,1.0,3.0,2005-2006,98f0780,Le-Mans,691,7.7,0.0,0.0,100.0,2.0,
-,Jacques-Désiré Périatambée,mu MRI,MF,12,5,1.0,0.0,2005-2006,c96ccd7,Le-Mans,472,5.2,0.0,0.0,100.0,154.0,
-,Martin Douillard,fr FRA,MF,12,3,0.0,0.0,2005-2006,5a0625ad,Le-Mans,354,3.9,1.0,0.0,100.0,4.0,
-,Guillaume Loriot,fr FRA,MF,7,3,0.0,0.0,2005-2006,4fec8fa,Le-Mans,266,3.0,0.0,0.0,100.0,4.0,
-,Edorisi Ekhosuehi,ng NGA,FW,10,3,0.0,0.0,2005-2006,dae04a1a,Le-Mans,251,2.8,0.0,0.0,100.0,52.0,
-,Clément Pinault,fr FRA,DF,4,2,0.0,0.0,2005-2006,86034a96,Le-Mans,225,2.5,0.0,0.0,100.0,4.0,
-,Sébastien Gormond,fr FRA,MF,3,1,0.0,0.0,2005-2006,68097b15,Le-Mans,160,1.8,2.0,0.0,100.0,4.0,
-,Rodolphe Roche,fr FRA,GK,2,1,0.0,0.0,2005-2006,9526c1c5,Le-Mans,144,1.6,0.0,0.0,100.0,4.0,
-,Luigi Lavecchia,it ITA,"DF,MF",1,1,,0.0,2005-2006,bc707fbd,Le-Mans,5,0.1,0.0,0.0,100.0,9.0,
-,Jérémy Choplin,fr FRA,"DF,MF",2,0,0.0,0.0,2005-2006,d6745397,Le-Mans,25,0.3,0.0,0.0,100.0,4.0,
-,﻿Marko Baša,me MNE,DF,35,35,1.0,1.0,2006-2007,f170b78c,Le-Mans,"3,044",33.8,5.0,0.0,100.0,33.0,
-,Romaric,ci CIV,MF,35,34,4.0,5.0,2006-2007,9bb5c5e0,Le-Mans,"3,089",34.3,8.0,0.0,100.0,35.0,
-,Olivier Thomas,fr FRA,DF,33,32,2.0,0.0,2006-2007,37abdce9,Le-Mans,"2,717",30.2,7.0,0.0,100.0,4.0,
-,Grafite,br BRA,FW,34,31,2.0,12.0,2006-2007,98f0780,Le-Mans,"2,711",30.1,6.0,0.0,100.0,2.0,
-,Yohann Pelé,fr FRA,GK,29,29,0.0,0.0,2006-2007,76806215,Le-Mans,"2,501",27.8,0.0,0.0,100.0,4.0,
-,Ismaël Bangoura,gn GUI,FW,33,28,4.0,12.0,2006-2007,d255c356,Le-Mans,"2,605",28.9,6.0,0.0,100.0,74.0,
-,Stéphane Sessègnon,bj BEN,"FW,MF",31,26,2.0,1.0,2006-2007,35c5f9b1,Le-Mans,"2,382",26.5,7.0,1.0,100.0,132.0,
-,Mathieu Coutadeur,fr FRA,MF,31,26,1.0,1.0,2006-2007,f8ae23b,Le-Mans,"2,324",25.8,1.0,0.0,100.0,4.0,
-,Grégory Cerdan,fr FRA,DF,26,21,0.0,0.0,2006-2007,7a545e43,Le-Mans,"1,947",21.6,2.0,0.0,100.0,4.0,
-,Daisuke Matsui,jp JPN,"FW,MF",27,21,4.0,4.0,2006-2007,c178b2e0,Le-Mans,"1,807",20.1,6.0,0.0,100.0,54.0,
-,Mamadou Samassa,ml MLI,FW,28,20,3.0,3.0,2006-2007,f5ce7201,Le-Mans,"1,596",17.7,2.0,0.0,100.0,12.0,
-,Laurent Bonnart,fr FRA,DF,20,19,0.0,0.0,2006-2007,fbb6569e,Le-Mans,"1,698",18.9,1.0,0.0,100.0,4.0,
-,Ibrahima Camara,gn GUI,"DF,MF",19,19,0.0,0.0,2006-2007,c72cb792,Le-Mans,"1,606",17.8,2.0,0.0,100.0,74.0,
-,Cyriaque Louvion,fr FRA,DF,16,13,0.0,0.0,2006-2007,bc8bc1a3,Le-Mans,"1,162",12.9,4.0,0.0,100.0,4.0,
-,Jean Calvé,fr FRA,DF,20,12,1.0,0.0,2006-2007,8111297a,Le-Mans,"1,278",14.2,3.0,0.0,100.0,4.0,
-,Yannick Fischer,fr FRA,DF,15,12,0.0,0.0,2006-2007,336a8eaa,Le-Mans,852,9.5,1.0,0.0,100.0,4.0,
-,Rodolphe Roche,fr FRA,GK,11,9,0.0,0.0,2006-2007,9526c1c5,Le-Mans,919,10.2,0.0,0.0,100.0,4.0,
-,James Fanchone,fr FRA,"FW,MF",20,8,2.0,2.0,2006-2007,1eeef54,Le-Mans,847,9.4,1.0,0.0,100.0,4.0,
-,Túlio de Melo,br BRA,FW,17,7,0.0,2.0,2006-2007,2a9ab91,Le-Mans,788,8.8,2.0,0.0,100.0,2.0,
-,Martin Douillard,fr FRA,MF,16,5,1.0,0.0,2006-2007,5a0625ad,Le-Mans,576,6.4,1.0,0.0,100.0,4.0,
-,Chiguy Lucau,cd COD,FW,14,5,1.0,1.0,2006-2007,f4dc7aa8,Le-Mans,457,5.1,1.0,0.0,100.0,50.0,
-,Paulo André,br BRA,DF,5,4,0.0,1.0,2006-2007,996c6787,Le-Mans,432,4.8,1.0,0.0,100.0,2.0,
-,Guillaume Loriot,fr FRA,MF,6,2,0.0,0.0,2006-2007,4fec8fa,Le-Mans,259,2.9,1.0,0.0,100.0,4.0,
-,Hassan Yebda,dz ALG,MF,1,0,0.0,0.0,2006-2007,4907d688,Le-Mans,22,0.2,0.0,0.0,100.0,37.0,
-,﻿Jean Calvé,fr FRA,DF,34,32,2.0,0.0,2007-2008,8111297a,Le-Mans,"2,868",31.9,6.0,1.0,100.0,4.0,
-,Romaric,ci CIV,MF,33,32,5.0,2.0,2007-2008,9bb5c5e0,Le-Mans,"2,783",30.9,9.0,0.0,100.0,35.0,
-,Yohann Pelé,fr FRA,GK,31,31,0.0,0.0,2007-2008,76806215,Le-Mans,"2,733",30.4,2.0,0.0,100.0,4.0,
-,Daisuke Matsui,jp JPN,"FW,MF",34,31,4.0,5.0,2007-2008,c178b2e0,Le-Mans,"2,468",27.4,3.0,0.0,100.0,54.0,
-,Stéphane Sessègnon,bj BEN,"FW,MF",30,30,4.0,5.0,2007-2008,35c5f9b1,Le-Mans,"2,487",27.6,7.0,1.0,100.0,132.0,
-,Mathieu Coutadeur,fr FRA,MF,33,29,1.0,1.0,2007-2008,f8ae23b,Le-Mans,"2,489",27.7,3.0,0.0,100.0,4.0,
-,Túlio de Melo,br BRA,FW,31,29,1.0,13.0,2007-2008,2a9ab91,Le-Mans,"2,484",27.6,2.0,0.0,100.0,2.0,
-,Marko Baša,me MNE,DF,28,28,0.0,5.0,2007-2008,f170b78c,Le-Mans,"2,442",27.1,4.0,0.0,100.0,33.0,
-,Grégory Cerdan,fr FRA,DF,23,22,0.0,0.0,2007-2008,7a545e43,Le-Mans,"1,970",21.9,1.0,2.0,100.0,4.0,
-,Ibrahima Camara,gn GUI,"DF,MF",25,22,1.0,0.0,2007-2008,c72cb792,Le-Mans,"1,963",21.8,4.0,0.0,100.0,74.0,
-,Gervinho,ci CIV,"FW,MF",26,19,3.0,2.0,2007-2008,468c053,Le-Mans,"1,880",20.9,0.0,0.0,100.0,35.0,
-,Hassan Yebda,dz ALG,MF,23,17,2.0,3.0,2007-2008,4907d688,Le-Mans,"1,591",17.7,2.0,0.0,100.0,37.0,
-,Géder,br BRA,DF,15,15,0.0,0.0,2007-2008,20f1c375,Le-Mans,"1,350",15.0,5.0,0.0,100.0,2.0,
-,Anthony Le Tallec,fr FRA,"FW,MF",26,15,1.0,5.0,2007-2008,5d81fb2c,Le-Mans,"1,312",14.6,2.0,1.0,100.0,4.0,
-,Samuel Bouhours,fr FRA,DF,15,15,0.0,0.0,2007-2008,1451bcc6,Le-Mans,"1,257",14.0,3.0,1.0,100.0,4.0,
-,Cyriaque Louvion,fr FRA,DF,17,8,0.0,0.0,2007-2008,bc8bc1a3,Le-Mans,842,9.4,1.0,0.0,100.0,4.0,
-,Rodolphe Roche,fr FRA,GK,9,7,0.0,0.0,2007-2008,9526c1c5,Le-Mans,687,7.6,0.0,0.0,100.0,4.0,
-,Ludovic Baal,gf GUF,"DF,MF",12,7,0.0,1.0,2007-2008,d3ce9f1f,Le-Mans,670,7.4,1.0,0.0,100.0,159.0,
-,Martin Douillard,fr FRA,MF,17,6,1.0,1.0,2007-2008,5a0625ad,Le-Mans,616,6.8,2.0,0.0,100.0,4.0,
-,Mamadou Samassa,ml MLI,FW,15,5,0.0,1.0,2007-2008,f5ce7201,Le-Mans,673,7.5,3.0,0.0,100.0,12.0,
-,Grafite,br BRA,FW,6,5,0.0,2.0,2007-2008,98f0780,Le-Mans,404,4.5,1.0,0.0,100.0,2.0,
-,Modibo Maïga,ml MLI,"FW,MF",19,4,0.0,0.0,2007-2008,546477d,Le-Mans,458,5.1,2.0,0.0,100.0,12.0,
-,Saber Ben Frej,tn TUN,DF,5,4,0.0,0.0,2007-2008,94573d4a,Le-Mans,313,3.5,1.0,0.0,100.0,46.0,
-,Guillaume Loriot,fr FRA,MF,13,2,0.0,0.0,2007-2008,4fec8fa,Le-Mans,347,3.9,2.0,0.0,100.0,4.0,
-,Clément Pinault,fr FRA,DF,5,1,0.0,0.0,2007-2008,86034a96,Le-Mans,113,1.3,0.0,0.0,100.0,4.0,
-,Alphousseyni Keita,ml MLI,MF,2,1,0.0,0.0,2007-2008,6da61698,Le-Mans,107,1.2,0.0,0.0,100.0,12.0,
-,Brahim El Bahri,ma MAR,"FW,MF",3,1,0.0,0.0,2007-2008,bb591e67,Le-Mans,69,0.8,0.0,0.0,100.0,26.0,
-,﻿Mathieu Coutadeur,fr FRA,MF,36,35,5.0,4.0,2008-2009,f8ae23b,Le-Mans,"2,993",33.3,5.0,0.0,100.0,4.0,
-,Grégory Cerdan,fr FRA,DF,33,33,0.0,3.0,2008-2009,7a545e43,Le-Mans,"2,886",32.1,8.0,1.0,100.0,4.0,
-,Yohann Pelé,fr FRA,GK,32,32,0.0,0.0,2008-2009,76806215,Le-Mans,"2,880",32.0,1.0,0.0,100.0,4.0,
-,Ibrahima Camara,gn GUI,"DF,MF",30,29,2.0,0.0,2008-2009,c72cb792,Le-Mans,"2,515",27.9,9.0,0.0,100.0,74.0,
-,Frédéric Thomas,fr FRA,MF,32,29,0.0,0.0,2008-2009,8b735a92,Le-Mans,"2,515",27.9,3.0,0.0,100.0,4.0,
-,Géder,br BRA,DF,29,28,0.0,0.0,2008-2009,20f1c375,Le-Mans,"2,519",28.0,9.0,0.0,100.0,2.0,
-,Gervinho,ci CIV,"FW,MF",33,27,3.0,6.0,2008-2009,468c053,Le-Mans,"2,444",27.2,5.0,0.0,100.0,35.0,
-,Modibo Maïga,ml MLI,"FW,MF",37,26,2.0,8.0,2008-2009,546477d,Le-Mans,"2,456",27.3,5.0,0.0,100.0,12.0,
-,Anthony Le Tallec,fr FRA,"FW,MF",34,25,4.0,6.0,2008-2009,5d81fb2c,Le-Mans,"2,166",24.1,2.0,0.0,100.0,4.0,
-,Paulo André,br BRA,DF,31,24,0.0,1.0,2008-2009,996c6787,Le-Mans,"2,215",24.6,2.0,0.0,100.0,2.0,
-,Thorstein Helstad,no NOR,FW,32,23,3.0,10.0,2008-2009,f7bd456,Le-Mans,"2,004",22.3,1.0,0.0,100.0,21.0,
-,Roland Lamah,be BEL,"FW,MF",31,17,2.0,3.0,2008-2009,336a36fb,Le-Mans,"1,664",18.5,1.0,0.0,100.0,27.0,
-,Fredrik Strømstad,no NOR,MF,23,14,3.0,0.0,2008-2009,d55d6596,Le-Mans,"1,334",14.8,1.0,0.0,100.0,21.0,
-,Samuel Bouhours,fr FRA,DF,15,11,0.0,0.0,2008-2009,1451bcc6,Le-Mans,"1,058",11.8,1.0,1.0,100.0,4.0,
-,Ludovic Baal,gf GUF,"DF,MF",15,11,0.0,0.0,2008-2009,d3ce9f1f,Le-Mans,"1,010",11.2,2.0,0.0,100.0,159.0,
-,Cyriaque Louvion,fr FRA,DF,13,10,0.0,0.0,2008-2009,bc8bc1a3,Le-Mans,910,10.1,3.0,0.0,100.0,4.0,
-,Sébastien Corchia,fr FRA,DF,9,9,1.0,0.0,2008-2009,0e7ccfc4,Le-Mans,750,8.3,0.0,0.0,100.0,4.0,
-,Saber Ben Frej,tn TUN,DF,11,8,0.0,0.0,2008-2009,94573d4a,Le-Mans,796,8.8,4.0,1.0,100.0,46.0,
-,Hérold Goulon,fr FRA,"DF,MF",11,7,0.0,0.0,2008-2009,818c267,Le-Mans,647,7.2,2.0,0.0,100.0,4.0,
-,Rodolphe Roche,fr FRA,GK,6,6,0.0,0.0,2008-2009,9526c1c5,Le-Mans,540,6.0,0.0,0.0,100.0,4.0,
-,Mathieu Dossevi,tg TOG,"FW,MF",11,5,1.0,0.0,2008-2009,6421dd73,Le-Mans,432,4.8,1.0,0.0,100.0,109.0,
-,Khaled Adénon,bj BEN,"DF,MF",5,3,0.0,0.0,2008-2009,16714a62,Le-Mans,295,3.3,0.0,0.0,100.0,132.0,
-,Marcelo Estigarribia,py PAR,"DF,MF",7,3,0.0,0.0,2008-2009,188a2362,Le-Mans,292,3.2,1.0,0.0,100.0,43.0,
-,Alphousseyni Keita,ml MLI,MF,7,3,0.0,0.0,2008-2009,6da61698,Le-Mans,244,2.7,1.0,0.0,100.0,12.0,
-,Marcos Paulo,br BRA,MF,1,0,0.0,0.0,2008-2009,83f860ef,Le-Mans,18,0.2,0.0,0.0,100.0,2.0,
-,Brahim El Bahri,ma MAR,"FW,MF",1,0,0.0,0.0,2008-2009,bb591e67,Le-Mans,11,0.1,0.0,0.0,100.0,26.0,
-,Mamadou Wague,fr FRA,DF,1,0,0.0,0.0,2008-2009,144a6ef5,Le-Mans,9,0.1,0.0,0.0,100.0,4.0,
-,﻿Ludovic Baal,gf GUF,"DF,MF",38,35,1.0,0.0,2009-2010,d3ce9f1f,Le-Mans,"3,179",35.3,3.0,0.0,100.0,159.0,
-,Anthony Le Tallec,fr FRA,"FW,MF",36,33,5.0,8.0,2009-2010,5d81fb2c,Le-Mans,"2,956",32.8,8.0,0.0,100.0,4.0,
-,Didier Ovono,ga GAB,GK,32,32,0.0,0.0,2009-2010,4e30deb3,Le-Mans,"2,880",32.0,2.0,0.0,100.0,69.0,
-,Sébastien Corchia,fr FRA,DF,35,31,2.0,2.0,2009-2010,0e7ccfc4,Le-Mans,"2,856",31.7,5.0,0.0,100.0,4.0,
-,Grégory Cerdan,fr FRA,DF,30,30,0.0,1.0,2009-2010,7a545e43,Le-Mans,"2,685",29.8,9.0,0.0,100.0,4.0,
-,Frédéric Thomas,fr FRA,MF,30,30,1.0,2.0,2009-2010,8b735a92,Le-Mans,"2,646",29.4,7.0,0.0,100.0,4.0,
-,Modibo Maïga,ml MLI,"FW,MF",32,23,3.0,7.0,2009-2010,546477d,Le-Mans,"2,055",22.8,4.0,1.0,100.0,12.0,
-,Roland Lamah,be BEL,"FW,MF",31,22,0.0,4.0,2009-2010,336a36fb,Le-Mans,"2,070",23.0,4.0,0.0,100.0,27.0,
-,Hérold Goulon,fr FRA,"DF,MF",26,22,1.0,0.0,2009-2010,818c267,Le-Mans,"1,738",19.3,11.0,0.0,100.0,4.0,
-,João Paulo,pt POR,"DF,MF",23,21,1.0,0.0,2009-2010,f7f6b2c1,Le-Mans,"1,885",20.9,6.0,0.0,100.0,3.0,
-,Mathieu Dossevi,tg TOG,"FW,MF",31,19,2.0,5.0,2009-2010,6421dd73,Le-Mans,"1,719",19.1,1.0,1.0,100.0,109.0,
-,Guillaume Loriot,fr FRA,MF,21,18,0.0,0.0,2009-2010,4fec8fa,Le-Mans,"1,471",16.3,5.0,2.0,100.0,4.0,
-,Cyriaque Louvion,fr FRA,DF,19,17,0.0,0.0,2009-2010,bc8bc1a3,Le-Mans,"1,518",16.9,1.0,0.0,100.0,4.0,
-,Thorstein Helstad,no NOR,FW,31,15,2.0,4.0,2009-2010,f7bd456,Le-Mans,"1,424",15.8,0.0,0.0,100.0,21.0,
-,Géder,br BRA,DF,14,14,0.0,0.0,2009-2010,20f1c375,Le-Mans,"1,164",12.9,5.0,1.0,100.0,2.0,
-,Moussa Narry,gh GHA,MF,12,12,0.0,0.0,2009-2010,91daae3f,Le-Mans,"1,080",12.0,4.0,1.0,100.0,17.0,
-,Almen Abdi,ch SUI,MF,13,9,0.0,0.0,2009-2010,8d425d84,Le-Mans,785,8.7,4.0,0.0,100.0,39.0,
-,Alphousseyni Keita,ml MLI,MF,7,5,0.0,0.0,2009-2010,6da61698,Le-Mans,475,5.3,1.0,0.0,100.0,12.0,
-,Samuel Bouhours,fr FRA,DF,5,5,0.0,0.0,2009-2010,1451bcc6,Le-Mans,346,3.8,2.0,0.0,100.0,4.0,
-,Rodolphe Roche,fr FRA,GK,4,4,0.0,0.0,2009-2010,9526c1c5,Le-Mans,360,4.0,1.0,0.0,100.0,4.0,
-,Mathieu Coutadeur,fr FRA,MF,4,4,0.0,1.0,2009-2010,f8ae23b,Le-Mans,359,4.0,2.0,0.0,100.0,4.0,
-,Olivier Thomert,mq MTQ,"FW,MF",4,4,0.0,0.0,2009-2010,cda6c9d,Le-Mans,317,3.5,0.0,0.0,100.0,104.0,
-,Fousseyni Cissé,fr FRA,FW,10,3,0.0,0.0,2009-2010,7f9ee220,Le-Mans,351,3.9,1.0,1.0,100.0,4.0,
-,Ibrahima Camara,gn GUI,"DF,MF",3,3,0.0,0.0,2009-2010,c72cb792,Le-Mans,236,2.6,2.0,0.0,100.0,74.0,
-,Idir Ouali,fr FRA,"FW,MF",10,2,0.0,1.0,2009-2010,de7a0858,Le-Mans,279,3.1,0.0,0.0,100.0,4.0,
-,Giorgi Makaridze,ge GEO,GK,2,2,0.0,0.0,2009-2010,b3bb0a76,Le-Mans,180,2.0,0.0,0.0,100.0,76.0,
-,Badara Sène,sn SEN,MF,5,1,0.0,0.0,2009-2010,1fbc1217,Le-Mans,127,1.4,0.0,0.0,100.0,34.0,
-,Marcelo Estigarribia,py PAR,"DF,MF",5,1,0.0,0.0,2009-2010,188a2362,Le-Mans,108,1.2,1.0,0.0,100.0,43.0,
-,Mamadou Wague,fr FRA,DF,2,1,0.0,0.0,2009-2010,144a6ef5,Le-Mans,95,1.1,0.0,0.0,100.0,4.0,
-,Guy-Michel Landel,gn GUI,MF,1,0,0.0,0.0,2009-2010,d5431c3a,Le-Mans,35,0.4,0.0,0.0,100.0,74.0,
-,Fredrik Strømstad,no NOR,MF,3,0,0.0,0.0,2009-2010,d55d6596,Le-Mans,27,0.3,0.0,0.0,100.0,21.0,
-,Saber Ben Frej,tn TUN,DF,1,0,0.0,0.0,2009-2010,94573d4a,Le-Mans,7,0.1,0.0,0.0,100.0,46.0,
-,Pierre Gibaud,fr FRA,DF,1,0,0.0,0.0,2009-2010,3006a5a6,Le-Mans,2,0.0,0.0,0.0,100.0,4.0,
-,﻿Didier Ovono,ga GAB,GK,38,38,0.0,0.0,2010-2011,4e30deb3,Le-Mans,"3,420",38.0,3.0,0.0,100.0,69.0,
-,Grégory Cerdan,fr FRA,DF,38,38,2.0,2.0,2010-2011,7a545e43,Le-Mans,"3,366",37.4,5.0,0.0,100.0,4.0,
-,Frédéric Thomas,fr FRA,MF,37,37,2.0,1.0,2010-2011,8b735a92,Le-Mans,"3,330",37.0,6.0,0.0,100.0,4.0,
-,Ludovic Baal,gf GUF,"DF,MF",37,37,2.0,2.0,2010-2011,d3ce9f1f,Le-Mans,"3,292",36.6,6.0,0.0,100.0,159.0,
-,Sébastien Corchia,fr FRA,DF,36,35,2.0,1.0,2010-2011,0e7ccfc4,Le-Mans,"3,168",35.2,5.0,0.0,100.0,4.0,
-,Thorstein Helstad,no NOR,FW,35,34,2.0,21.0,2010-2011,f7bd456,Le-Mans,"2,715",30.2,2.0,0.0,100.0,21.0,
-,Khaled Adénon,bj BEN,"DF,MF",31,31,0.0,2.0,2010-2011,16714a62,Le-Mans,"2,704",30.0,11.0,2.0,100.0,132.0,
-,Moussa Narry,gh GHA,MF,28,25,0.0,0.0,2010-2011,91daae3f,Le-Mans,"2,140",23.8,5.0,0.0,100.0,17.0,
-,Samuel Bouhours,fr FRA,DF,25,25,1.0,0.0,2010-2011,1451bcc6,Le-Mans,"2,039",22.7,7.0,1.0,100.0,4.0,
-,Joffrey Cuffaut,fr FRA,DF,33,24,1.0,1.0,2010-2011,f71e34b2,Le-Mans,"2,185",24.3,4.0,0.0,100.0,4.0,
-,Fousseyni Cissé,fr FRA,FW,35,22,1.0,4.0,2010-2011,7f9ee220,Le-Mans,"1,986",22.1,6.0,0.0,100.0,4.0,
-,Roland Lamah,be BEL,"FW,MF",25,19,7.0,3.0,2010-2011,336a36fb,Le-Mans,"1,676",18.6,5.0,0.0,100.0,27.0,
-,Cyriaque Louvion,fr FRA,DF,23,15,1.0,0.0,2010-2011,bc8bc1a3,Le-Mans,"1,432",15.9,2.0,1.0,100.0,4.0,
-,Mickaël Poté,bj BEN,FW,19,12,3.0,3.0,2010-2011,27b89843,Le-Mans,"1,061",11.8,0.0,0.0,100.0,132.0,
-,Idir Ouali,fr FRA,"FW,MF",19,5,2.0,1.0,2010-2011,de7a0858,Le-Mans,588,6.5,0.0,0.0,100.0,4.0,
-,Brahim El Bahri,ma MAR,"FW,MF",14,5,2.0,0.0,2010-2011,bb591e67,Le-Mans,579,6.4,0.0,0.0,100.0,26.0,
-,Jeff Louis,ht HAI,MF,6,4,2.0,1.0,2010-2011,4ee7e082,Le-Mans,395,4.4,3.0,0.0,100.0,47.0,
-,Abdou Dieye,sn SEN,MF,16,3,1.0,2.0,2010-2011,bf0e5dc6,Le-Mans,394,4.4,2.0,0.0,100.0,34.0,
-,Yohan Hautcœur,fr FRA,MF,5,3,0.0,0.0,2010-2011,d7110aaf,Le-Mans,270,3.0,0.0,0.0,100.0,4.0,
-,Jonathan Béhé,fr FRA,"FW,MF",12,2,0.0,1.0,2010-2011,4f8b9cf4,Le-Mans,297,3.3,0.0,0.0,100.0,4.0,
-,Mathieu Dossevi,tg TOG,"FW,MF",3,2,0.0,1.0,2010-2011,6421dd73,Le-Mans,161,1.8,0.0,0.0,100.0,109.0,
-,Mamadou Wague,fr FRA,DF,4,1,0.0,0.0,2010-2011,144a6ef5,Le-Mans,149,1.7,1.0,0.0,100.0,4.0,
-,Fredrik Strømstad,no NOR,MF,1,1,0.0,0.0,2010-2011,d55d6596,Le-Mans,53,0.6,0.0,0.0,100.0,21.0,
-,Pierre Gibaud,fr FRA,DF,4,0,0.0,0.0,2010-2011,3006a5a6,Le-Mans,12,0.1,0.0,0.0,100.0,4.0,
-,Anthony Derouard,fr FRA,FW,1,0,0.0,0.0,2010-2011,bc10499d,Le-Mans,6,0.1,0.0,0.0,100.0,4.0,
-,﻿Frédéric Thomas,fr FRA,MF,37,37,2.0,3.0,2011-2012,8b735a92,Le-Mans,"3,304",36.7,6.0,0.0,100.0,4.0,
-,Khaled Adénon,bj BEN,"DF,MF",30,30,0.0,0.0,2011-2012,16714a62,Le-Mans,"2,654",29.5,12.0,2.0,100.0,132.0,
-,Mamadou Doumbia,ci CIV,DF,30,30,0.0,2.0,2011-2012,76ee5209,Le-Mans,"2,636",29.3,6.0,0.0,100.0,35.0,
-,Idir Ouali,fr FRA,"FW,MF",35,29,4.0,9.0,2011-2012,de7a0858,Le-Mans,"2,576",28.6,0.0,1.0,100.0,4.0,
-,Giorgi Makaridze,ge GEO,GK,27,27,0.0,0.0,2011-2012,b3bb0a76,Le-Mans,"2,407",26.7,3.0,1.0,100.0,76.0,
-,Joffrey Cuffaut,fr FRA,DF,28,27,0.0,0.0,2011-2012,f71e34b2,Le-Mans,"2,392",26.6,2.0,0.0,100.0,4.0,
-,Moussa Narry,gh GHA,MF,25,24,0.0,0.0,2011-2012,91daae3f,Le-Mans,"2,155",23.9,6.0,0.0,100.0,17.0,
-,Idrissa Sylla,gn GUI,"FW,MF",25,21,1.0,9.0,2011-2012,4f6de69c,Le-Mans,"1,750",19.4,1.0,0.0,100.0,74.0,
-,Jeff Louis,ht HAI,MF,26,20,0.0,0.0,2011-2012,4ee7e082,Le-Mans,"1,666",18.5,4.0,1.0,100.0,47.0,
-,Ali Bamba,ci CIV,DF,21,19,1.0,0.0,2011-2012,51018c0d,Le-Mans,"1,666",18.5,5.0,0.0,100.0,35.0,
-,Mekeme Tamla Ladji,ci CIV,"DF,MF",20,17,0.0,0.0,2011-2012,fded10d6,Le-Mans,"1,450",16.1,1.0,0.0,100.0,35.0,
-,Jason Buaillon,fr FRA,"DF,MF",17,16,1.0,1.0,2011-2012,5917f538,Le-Mans,"1,428",15.9,2.0,1.0,100.0,4.0,
-,Kervens Belfort,ht HAI,FW,29,14,1.0,5.0,2011-2012,524dceaf,Le-Mans,"1,324",14.7,2.0,1.0,100.0,47.0,
-,Fousseyni Cissé,fr FRA,FW,20,14,1.0,1.0,2011-2012,7f9ee220,Le-Mans,"1,265",14.1,2.0,1.0,100.0,4.0,
-,Massiré Kanté,fr FRA,MF,14,13,0.0,1.0,2011-2012,9d0b3f79,Le-Mans,"1,209",13.4,4.0,0.0,100.0,4.0,
-,Moussa Maâzou,ne NIG,FW,15,12,0.0,2.0,2011-2012,2e3a2bd9,Le-Mans,"1,076",12.0,4.0,0.0,100.0,156.0,
-,Patrick Ekeng,cm CMR,MF,16,11,0.0,1.0,2011-2012,3bcb7df2,Le-Mans,953,10.6,7.0,1.0,100.0,36.0,
-,Didier Ovono,ga GAB,GK,11,10,0.0,0.0,2011-2012,4e30deb3,Le-Mans,923,10.3,0.0,0.0,100.0,69.0,
-,Pierre Gibaud,fr FRA,DF,11,10,1.0,0.0,2011-2012,3006a5a6,Le-Mans,901,10.0,2.0,0.0,100.0,4.0,
-,Fredrik Strømstad,no NOR,MF,13,9,0.0,0.0,2011-2012,d55d6596,Le-Mans,728,8.1,0.0,0.0,100.0,21.0,
-,Brahim Boudebouda,dz ALG,DF,10,8,1.0,2.0,2011-2012,0696d132,Le-Mans,767,8.5,1.0,0.0,100.0,37.0,
-,Hilaire Momi,cf CTA,FW,20,7,1.0,2.0,2011-2012,281e2124,Le-Mans,825,9.2,1.0,0.0,100.0,73.0,
-,Roland Lamah,be BEL,"FW,MF",4,4,0.0,0.0,2011-2012,336a36fb,Le-Mans,335,3.7,0.0,0.0,100.0,27.0,
-,Modibo Diarra,ci CIV,MF,9,3,0.0,0.0,2011-2012,f726c36f,Le-Mans,255,2.8,0.0,0.0,100.0,35.0,
-,Anthony Koura,bf BFA,FW,7,1,0.0,0.0,2011-2012,b7618cc9,Le-Mans,171,1.9,0.0,0.0,100.0,62.0,
-,Jonathan Béhé,fr FRA,"FW,MF",7,1,0.0,0.0,2011-2012,4f8b9cf4,Le-Mans,158,1.8,1.0,0.0,100.0,4.0,
-,Fernander Kassaï,cf CTA,DF,3,1,0.0,0.0,2011-2012,3b8fca64,Le-Mans,97,1.1,0.0,0.0,100.0,73.0,
-,Anthony Derouard,fr FRA,FW,3,1,0.0,0.0,2011-2012,bc10499d,Le-Mans,96,1.1,0.0,0.0,100.0,4.0,
-,Sofiane Khedairia,dz ALG,GK,1,1,0.0,0.0,2011-2012,618502a5,Le-Mans,90,1.0,0.0,0.0,100.0,37.0,
-,Mamadou Wague,fr FRA,DF,1,1,0.0,0.0,2011-2012,144a6ef5,Le-Mans,90,1.0,0.0,0.0,100.0,4.0,
-,﻿Joffrey Cuffaut,fr FRA,DF,38,38,1.0,0.0,2012-2013,f71e34b2,Le-Mans,"3,420",38.0,2.0,0.0,100.0,4.0,
-,Frédéric Thomas,fr FRA,MF,36,36,1.0,8.0,2012-2013,8b735a92,Le-Mans,"3,220",35.8,4.0,0.0,100.0,4.0,
-,Mekeme Tamla Ladji,ci CIV,"DF,MF",35,32,0.0,0.0,2012-2013,fded10d6,Le-Mans,"2,847",31.6,10.0,1.0,100.0,35.0,
-,Amara Baby,sn SEN,MF,32,31,1.0,1.0,2012-2013,2bf30ad7,Le-Mans,"2,785",30.9,4.0,0.0,100.0,34.0,
-,Jérémie Janot,fr FRA,GK,29,29,0.0,0.0,2012-2013,20881853,Le-Mans,"2,565",28.5,0.0,0.0,100.0,4.0,
-,Mory Koné,ci CIV,DF,23,22,0.0,0.0,2012-2013,3ef7a30b,Le-Mans,"1,896",21.1,5.0,0.0,100.0,35.0,
-,Mamadou Doumbia,ci CIV,DF,20,20,0.0,0.0,2012-2013,76ee5209,Le-Mans,"1,800",20.0,3.0,0.0,100.0,35.0,
-,Morgan Sanson,fr FRA,MF,27,20,2.0,3.0,2012-2013,6e7f1353,Le-Mans,"1,758",19.5,7.0,1.0,100.0,4.0,
-,Fousseyni Cissé,fr FRA,FW,21,20,2.0,5.0,2012-2013,7f9ee220,Le-Mans,"1,698",18.9,6.0,0.0,100.0,4.0,
-,Idrissa Sylla,gn GUI,"FW,MF",27,19,1.0,5.0,2012-2013,4f6de69c,Le-Mans,"1,725",19.2,4.0,0.0,100.0,74.0,
-,Jason Buaillon,fr FRA,"DF,MF",21,18,5.0,0.0,2012-2013,5917f538,Le-Mans,"1,601",17.8,2.0,0.0,100.0,4.0,
-,Fernander Kassaï,cf CTA,DF,21,18,0.0,0.0,2012-2013,3b8fca64,Le-Mans,"1,591",17.7,3.0,0.0,100.0,73.0,
-,Massiré Kanté,fr FRA,MF,15,12,0.0,3.0,2012-2013,9d0b3f79,Le-Mans,"1,034",11.5,4.0,1.0,100.0,4.0,
-,Olivier Thomert,mq MTQ,"FW,MF",15,12,0.0,2.0,2012-2013,cda6c9d,Le-Mans,894,9.9,1.0,0.0,100.0,104.0,
-,Zhang Jiaqi,cn CHN,MF,12,11,0.0,1.0,2012-2013,836e7f44,Le-Mans,947,10.5,2.0,1.0,100.0,101.0,
-,Joseph Mendes,gw GNB,FW,20,10,1.0,3.0,2012-2013,d93c6b04,Le-Mans,933,10.4,1.0,0.0,100.0,93.0,
-,Patrick Ekeng,cm CMR,MF,18,9,0.0,0.0,2012-2013,3bcb7df2,Le-Mans,806,9.0,2.0,0.0,100.0,36.0,
-,Guy-Michel Landel,gn GUI,MF,12,9,0.0,1.0,2012-2013,d5431c3a,Le-Mans,765,8.5,1.0,0.0,100.0,74.0,
-,Abdelhakim Omrani,dz ALG,"FW,MF",13,7,0.0,1.0,2012-2013,1ebd30fd,Le-Mans,736,8.2,3.0,0.0,100.0,37.0,
-,Anthony Derouard,fr FRA,FW,19,6,0.0,2.0,2012-2013,bc10499d,Le-Mans,656,7.3,0.0,0.0,100.0,4.0,
-,Kervens Belfort,ht HAI,FW,16,5,0.0,0.0,2012-2013,524dceaf,Le-Mans,701,7.8,0.0,0.0,100.0,47.0,
-,Fadil Sido,bf BFA,MF,11,5,1.0,2.0,2012-2013,2f1736e5,Le-Mans,470,5.2,0.0,0.0,100.0,62.0,
-,Giorgi Makaridze,ge GEO,GK,5,5,0.0,0.0,2012-2013,b3bb0a76,Le-Mans,450,5.0,0.0,0.0,100.0,76.0,
-,Redouan Boulgroune,,,5,5,0.0,0.0,2012-2013,,Le-Mans,400,4.4,1.0,0.0,100.0,,
-,Quentin Beunardeau,fr FRA,GK,5,4,0.0,0.0,2012-2013,15285503,Le-Mans,405,4.5,0.0,0.0,100.0,4.0,
-,Hilaire Momi,cf CTA,FW,8,4,2.0,0.0,2012-2013,281e2124,Le-Mans,381,4.2,0.0,0.0,100.0,73.0,
-,Jean-Eudes Maurice,ht HAI,"FW,MF",8,3,0.0,0.0,2012-2013,089436e6,Le-Mans,375,4.2,0.0,0.0,100.0,47.0,
-,Ali Bamba,ci CIV,DF,3,2,0.0,0.0,2012-2013,51018c0d,Le-Mans,246,2.7,0.0,0.0,100.0,35.0,
-,Khaled Adénon,bj BEN,"DF,MF",2,2,0.0,0.0,2012-2013,16714a62,Le-Mans,180,2.0,0.0,0.0,100.0,132.0,
-,Anthony Koura,bf BFA,FW,2,2,0.0,0.0,2012-2013,b7618cc9,Le-Mans,135,1.5,0.0,0.0,100.0,62.0,
-,Loïc Baal,gf GUF,MF,2,2,0.0,0.0,2012-2013,6b66df9,Le-Mans,113,1.3,0.0,0.0,100.0,159.0,
-,﻿Cédric Mensah,tg TOG,GK,3,3,0.0,0.0,2017-2018,de8a01b5,Le-Mans,270.0,3.0,0.0,0.0,100.0,109.0,
-,Alexandre Vardin,fr FRA,DF,3,3,0.0,0.0,2017-2018,149c54e9,Le-Mans,270.0,3.0,0.0,0.0,100.0,4.0,
-,Thomas Dasquet,fr FRA,DF,3,2,0.0,0.0,2017-2018,56228bb7,Le-Mans,187.0,2.1,0.0,0.0,100.0,4.0,
-,Cédric Tangatchy,fr FRA,FW,3,2,0.0,1.0,2017-2018,d692d98a,Le-Mans,183.0,2.0,1.0,0.0,100.0,4.0,
-,Moussa Doumbia,bf BFA,DF,2,2,0.0,0.0,2017-2018,5818392d,Le-Mans,180.0,2.0,0.0,0.0,100.0,62.0,
-,Tom Duponchelle,fr FRA,DF,2,2,0.0,0.0,2017-2018,77b2880e,Le-Mans,180.0,2.0,0.0,0.0,100.0,4.0,
-,Hamza Hafidi,ma MAR,MF,2,2,0.0,1.0,2017-2018,05cc57a,Le-Mans,180.0,2.0,1.0,0.0,100.0,26.0,
-,Pierre Lemonnier,fr FRA,DF,2,2,0.0,0.0,2017-2018,cebfdc61,Le-Mans,180.0,2.0,1.0,0.0,100.0,4.0,
-,Yoan Pivaty,mq MTQ,"FW,MF",2,2,0.0,0.0,2017-2018,5697f2ad,Le-Mans,180.0,2.0,0.0,0.0,100.0,104.0,
-,Stéphen Vincent,fr FRA,"FW,MF",2,2,0.0,0.0,2017-2018,f0097fff,Le-Mans,179.0,2.0,0.0,0.0,100.0,4.0,
-,Kevin Schur,fr FRA,FW,2,2,0.0,1.0,2017-2018,db2edfa,Le-Mans,170.0,1.9,0.0,0.0,100.0,4.0,
-,Mamadou Soro Nanga,ci CIV,FW,2,2,0.0,1.0,2017-2018,81394b4e,Le-Mans,169.0,1.9,0.0,0.0,100.0,35.0,
-,Vincent Créhin,fr FRA,FW,2,2,0.0,1.0,2017-2018,ce693189,Le-Mans,161.0,1.8,0.0,0.0,100.0,4.0,
-,Abdoul Kader Bamba,fr FRA,MF,2,1,1.0,0.0,2017-2018,32f3d97e,Le-Mans,109.0,1.2,2.0,0.0,100.0,4.0,
-,Romain Dupont,fr FRA,FW,2,1,0.0,1.0,2017-2018,80c7abf9,Le-Mans,101.0,1.1,0.0,0.0,100.0,4.0,
-,Arnaud Archimbaud,fr FRA,DF,2,1,0.0,0.0,2017-2018,5f4d96f0,Le-Mans,91.0,1.0,0.0,0.0,100.0,4.0,
-,Arnaud Billeaux,fr FRA,MF,1,1,0.0,0.0,2017-2018,b49612f,Le-Mans,90.0,1.0,1.0,0.0,100.0,4.0,
-,Nicolas Suchet,fr FRA,MF,1,1,0.0,0.0,2017-2018,71df2abb,Le-Mans,90.0,1.0,1.0,0.0,100.0,4.0,
-,Thibault Ferrand,fr FRA,GK,0,0,,,2017-2018,98f61f92,Le-Mans,,,,,100.0,4.0,
-,Fernando Miranda,ao ANG,FW,0,0,,,2017-2018,8d041df4,Le-Mans,,,,,100.0,48.0,
-,﻿Jérémy Aymes,fr FRA,GK,1,1,0.0,0.0,2018-2019,5d28814,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Rémy Boissier,fr FRA,MF,1,1,0.0,0.0,2018-2019,9d38f20c,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Raphaël Calvet,fr FRA,DF,1,1,0.0,0.0,2018-2019,2eb9e99e,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Stéphane Diarra,fr FRA,MF,1,1,0.0,1.0,2018-2019,29939a1d,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Pierre Lemonnier,fr FRA,DF,1,1,0.0,0.0,2018-2019,cebfdc61,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Mamadou Soro Nanga,ci CIV,FW,1,1,0.0,0.0,2018-2019,81394b4e,Le-Mans,90.0,1.0,0.0,0.0,100.0,35.0,
-,Nicolas Suchet,fr FRA,MF,1,1,0.0,0.0,2018-2019,71df2abb,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Alexandre Vardin,fr FRA,DF,1,1,0.0,0.0,2018-2019,149c54e9,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Stéphen Vincent,fr FRA,"FW,MF",1,1,0.0,0.0,2018-2019,f0097fff,Le-Mans,90.0,1.0,0.0,0.0,100.0,4.0,
-,Hamza Hafidi,ma MAR,MF,1,1,0.0,0.0,2018-2019,05cc57a,Le-Mans,76.0,0.8,0.0,0.0,100.0,26.0,
-,Ali Keïta,ci CIV,DF,1,1,0.0,0.0,2018-2019,b195f4e,Le-Mans,76.0,0.8,0.0,0.0,100.0,35.0,
-,Georges Gope-Fenepej,nc NCL,FW,1,0,0.0,0.0,2018-2019,8730ed6a,Le-Mans,14.0,0.2,0.0,0.0,100.0,161.0,
-,Romain Montiel,fr FRA,MF,1,0,0.0,0.0,2018-2019,ce1030a9,Le-Mans,14.0,0.2,0.0,0.0,100.0,4.0,
-,Ryan Bidounga,cg CGO,DF,0,0,,,2018-2019,f39111a1,Le-Mans,,,,,100.0,80.0,
-,Thomas Dasquet,fr FRA,DF,0,0,,,2018-2019,56228bb7,Le-Mans,,,,,100.0,4.0,
-,Thibault Ferrand,fr FRA,GK,0,0,,,2018-2019,98f61f92,Le-Mans,,,,,100.0,4.0,
-,﻿Pierre Lemonnier,fr FRA,DF,26,26,1.0,0.0,2019-2020,cebfdc61,Le-Mans,"2,204",24.5,5.0,0.0,100.0,4.0,
-,Yann Boe-Kane,fr FRA,MF,26,25,0.0,2.0,2019-2020,b58b34fe,Le-Mans,"2,178",24.2,8.0,0.0,100.0,4.0,
-,Bevic Moussiti-Oko,cg CGO,FW,24,22,4.0,3.0,2019-2020,71d10572,Le-Mans,"1,946",21.6,4.0,0.0,100.0,80.0,
-,Pierre Patron,fr FRA,GK,16,16,0.0,0.0,2019-2020,0c7db284,Le-Mans,"1,440",16.0,0.0,0.0,100.0,4.0,
-,Guessouma Fofana,mr MTN,MF,16,16,1.0,1.0,2019-2020,9dafff2a,Le-Mans,"1,306",14.5,5.0,0.0,100.0,94.0,
-,Stéphane Diarra,fr FRA,"MF,FW",23,15,2.0,3.0,2019-2020,29939a1d,Le-Mans,"1,409",15.7,2.0,0.0,100.0,4.0,
-,Alois Confais,fr FRA,"DF,MF",20,15,0.0,1.0,2019-2020,535b0343,Le-Mans,"1,408",15.6,4.0,0.0,100.0,4.0,
-,Enzo Ebosse,cm CMR,DF,16,15,2.0,0.0,2019-2020,9ba7b4fa,Le-Mans,"1,296",14.4,3.0,1.0,100.0,36.0,
-,Vincent Créhin,fr FRA,FW,25,14,3.0,8.0,2019-2020,ce693189,Le-Mans,"1,502",16.7,2.0,0.0,100.0,4.0,
-,Tom Duponchelle,fr FRA,DF,17,14,1.0,0.0,2019-2020,77b2880e,Le-Mans,"1,331",14.8,3.0,0.0,100.0,4.0,
-,Hamza Hafidi,ma MAR,"MF,FW",15,10,0.0,0.0,2019-2020,05cc57a,Le-Mans,951,10.6,3.0,0.0,100.0,26.0,
-,Aboubakary Kanté,gm GAM,"FW,MF",18,10,0.0,4.0,2019-2020,188537d3,Le-Mans,940,10.4,2.0,0.0,100.0,92.0,
-,Yrondu Musavu-King,ga GAB,DF,11,10,0.0,0.0,2019-2020,c9cfd7e8,Le-Mans,923,10.3,2.0,0.0,100.0,69.0,
-,Alexandre Vardin,fr FRA,DF,13,10,0.0,0.0,2019-2020,149c54e9,Le-Mans,896,10.0,0.0,1.0,100.0,4.0,
-,Thomas Dasquet,fr FRA,DF,10,9,0.0,0.0,2019-2020,56228bb7,Le-Mans,851,9.5,2.0,0.0,100.0,4.0,
-,Rémy Boissier,fr FRA,MF,11,9,0.0,0.0,2019-2020,9d38f20c,Le-Mans,782,8.7,1.0,1.0,100.0,4.0,
-,Youssef Maziz,fr FRA,MF,13,9,2.0,3.0,2019-2020,514270e8,Le-Mans,772,8.6,2.0,0.0,100.0,4.0,
-,Yohann Thuram-Ulien,fr FRA,GK,8,8,0.0,0.0,2019-2020,d3e78488,Le-Mans,720,8.0,0.0,0.0,100.0,4.0,
-,Harrison Manzala,cd COD,"FW,MF",12,8,1.0,1.0,2019-2020,392d98fc,Le-Mans,700,7.8,0.0,0.0,100.0,50.0,
-,Jérémy Choplin,fr FRA,DF,7,7,0.0,0.0,2019-2020,d6745397,Le-Mans,630,7.0,2.0,0.0,100.0,4.0,
-,Lorenzo Rajot,fr FRA,"MF,FW",7,7,0.0,0.0,2019-2020,44b0ce2c,Le-Mans,603,6.7,0.0,0.0,100.0,4.0,
-,Stéphen Vincent,fr FRA,"MF,DF",12,6,1.0,0.0,2019-2020,f0097fff,Le-Mans,542,6.0,0.0,0.0,100.0,4.0,
-,Georges Gope-Fenepej,nc NCL,"FW,MF",12,6,0.0,3.0,2019-2020,8730ed6a,Le-Mans,482,5.4,2.0,0.0,100.0,161.0,
-,Freddie Veseli,al ALB,DF,5,5,0.0,0.0,2019-2020,d541e703,Le-Mans,450,5.0,0.0,0.0,100.0,78.0,
-,Yanis Merdji,dz ALG,FW,7,5,0.0,0.0,2019-2020,f083f3a6,Le-Mans,446,5.0,2.0,0.0,100.0,37.0,
-,Jérémy Aymes,fr FRA,GK,4,4,0.0,0.0,2019-2020,5d28814,Le-Mans,360,4.0,0.0,0.0,100.0,4.0,
-,Dorian Lévêque,fr FRA,DF,4,4,0.0,0.0,2019-2020,1263fecd,Le-Mans,312,3.5,2.0,1.0,100.0,4.0,
-,Franck Julienne,fr FRA,FW,10,3,0.0,0.0,2019-2020,f19b2a94,Le-Mans,266,3.0,0.0,0.0,100.0,4.0,
-,Alexis Gouletquer,fr FRA,FW,1,0,0.0,0.0,2019-2020,d082cea5,Le-Mans,15,0.2,0.0,0.0,100.0,4.0,
-,Diaby-Kandjoura Camara,gn GUI,GK,0,0,,,2019-2020,720298e0,Le-Mans,,,,,100.0,74.0,
-,Corentin Guiet,fr FRA,DF,0,0,,,2019-2020,96b92a94,Le-Mans,,,,,100.0,4.0,
-,Thibault Rambaud,fr FRA,FW,0,0,,,2019-2020,fb19069a,Le-Mans,,,,,100.0,4.0,
-,﻿Maxence Derrien,fr FRA,"DF,MF",2,2,0.0,0.0,2021-2022,87a319b0,Le-Mans,210.0,2.3,0.0,0.0,100.0,4.0,
-,Hugo Vargas Ríos,fr FRA,DF,2,2,0.0,0.0,2021-2022,1e3c73f5,Le-Mans,210.0,2.3,1.0,0.0,100.0,4.0,
-,Makan Aiko,fr FRA,FW,2,2,0.0,0.0,2021-2022,bb157c8,Le-Mans,195.0,2.2,0.0,0.0,100.0,4.0,
-,Félix Tomi,fr FRA,MF,2,2,0.0,0.0,2021-2022,5dc03fbf,Le-Mans,195.0,2.2,1.0,0.0,100.0,4.0,
-,Alexandre Lauray,fr FRA,DF,2,2,0.0,0.0,2021-2022,6941ec,Le-Mans,185.0,2.1,1.0,0.0,100.0,4.0,
-,Julio Donisa,mg MAD,FW,2,2,0.0,1.0,2021-2022,73117c33,Le-Mans,157.0,1.7,0.0,0.0,100.0,155.0,
-,Paul Lehoux,fr FRA,MF,2,1,0.0,0.0,2021-2022,bb22de3a,Le-Mans,143.0,1.6,0.0,0.0,100.0,4.0,
-,Issouf Macalou,ci CIV,FW,2,1,0.0,4.0,2021-2022,14a7f931,Le-Mans,141.0,1.6,0.0,0.0,100.0,35.0,
-,Ibrahim Cissé,ci CIV,DF,1,1,0.0,0.0,2021-2022,9cebd6ce,Le-Mans,120.0,1.3,1.0,0.0,100.0,35.0,
-,Ewan Hatfout,fr FRA,GK,1,1,0.0,0.0,2021-2022,45071d80,Le-Mans,120.0,1.3,0.0,0.0,100.0,4.0,
-,Amadou Dia Ndiaye,sn SEN,FW,2,1,0.0,0.0,2021-2022,1f0ea0a6,Le-Mans,103.0,1.1,0.0,0.0,100.0,34.0,
-,Mickael Bod,gf GUF,GK,1,1,0.0,0.0,2021-2022,91fe839e,Le-Mans,90.0,1.0,0.0,0.0,100.0,159.0,
-,Ryan Ebene Talla,cm CMR,DF,1,1,0.0,0.0,2021-2022,657b16d3,Le-Mans,90.0,1.0,0.0,0.0,100.0,36.0,
-,Victor Glaentzlin,fr FRA,FW,1,1,0.0,0.0,2021-2022,39fd0e2d,Le-Mans,77.0,0.9,1.0,0.0,100.0,4.0,
-,Julien Bègue,re REU,MF,2,1,0.0,0.0,2021-2022,3e06c057,Le-Mans,69.0,0.8,0.0,0.0,100.0,157.0,
-,Loïc Damour,fr FRA,MF,1,1,0.0,0.0,2021-2022,074d8166,Le-Mans,62.0,0.7,2.0,1.0,100.0,4.0,
-,Alexis Gouletquer,fr FRA,FW,1,0,0.0,0.0,2021-2022,d082cea5,Le-Mans,30.0,0.3,0.0,0.0,100.0,4.0,
-,Patrick Douglas,ht HAI,DF,1,0,0.0,0.0,2021-2022,02f6ceab,Le-Mans,25.0,0.3,0.0,0.0,100.0,47.0,
-,Boubakar Camara,fr FRA,FW,1,0,0.0,0.0,2021-2022,71016ee1,Le-Mans,15.0,0.2,0.0,0.0,100.0,4.0,
-,Ibréhima Coulibaly,mr MTN,MF,1,0,0.0,0.0,2021-2022,68c0a0f0,Le-Mans,15.0,0.2,0.0,0.0,100.0,94.0,
-,Durel Avounou,cg CGO,MF,0,0,,,2021-2022,833a91a1,Le-Mans,,,,,100.0,80.0,
-,Evan Brochet,fr FRA,GK,0,0,,,2021-2022,0fc5fde1,Le-Mans,,,,,100.0,4.0,
-,Pierre Patron,fr FRA,GK,0,0,,,2021-2022,0c7db284,Le-Mans,,,,,100.0,4.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Frédéric Thomas,fr FRA,MF,36,34,0.0,1.0,2003-2004,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"3,098",34.4,1.0,1.0,100,4.0,11996,Le-Mans
+,Daniel Cousin,ga GAB,FW,33,31,4.0,11.0,2003-2004,/en/players/c666c11f/Daniel-Cousin,c666c11f,Le-Mans,"2,729",30.3,4.0,1.0,100,69.0,10199,Le-Mans
+,Jean-François Bédénik,fr FRA,GK,28,28,0.0,0.0,2003-2004,/en/players/b290fb9c/Jean-Francois-Bedenik,b290fb9c,Le-Mans,"2,520",28.0,0.0,0.0,100,4.0,14098,Le-Mans
+,Olivier Thomas,fr FRA,DF,33,27,0.0,0.0,2003-2004,/en/players/37abdce9/Olivier-Thomas,37abdce9,Le-Mans,"2,428",27.0,5.0,0.0,100,4.0,11841,Le-Mans
+,Yohan Hautcœur,fr FRA,MF,33,26,1.0,2.0,2003-2004,/en/players/d7110aaf/Yohan-Hautcoeur,d7110aaf,Le-Mans,"2,357",26.2,3.0,0.0,100,4.0,14099,Le-Mans
+,Laurent Bonnart,fr FRA,DF,26,25,1.0,1.0,2003-2004,/en/players/fbb6569e/Laurent-Bonnart,fbb6569e,Le-Mans,"2,281",25.3,1.0,0.0,100,4.0,11390,Le-Mans
+,Yannick Fischer,fr FRA,DF,28,24,0.0,1.0,2003-2004,/en/players/336a8eaa/Yannick-Fischer,336a8eaa,Le-Mans,"2,219",24.7,5.0,0.0,100,4.0,12984,Le-Mans
+,Laurent Peyrelade,fr FRA,FW,34,23,3.0,5.0,2003-2004,/en/players/d702eb91/Laurent-Peyrelade,d702eb91,Le-Mans,"2,043",22.7,4.0,0.0,100,4.0,14100,Le-Mans
+,Fabrice Pancrate,fr FRA,"FW,MF",36,22,6.0,5.0,2003-2004,/en/players/70d29079/Fabrice-Pancrate,70d29079,Le-Mans,"2,119",23.5,1.0,0.0,100,4.0,1398,Le-Mans
+,Fernando D'Amico,ar ARG,MF,24,22,0.0,2.0,2003-2004,/en/players/b09f32a1/Fernando-DAmico,b09f32a1,Le-Mans,"1,902",21.1,11.0,0.0,100,5.0,13084,Le-Mans
+,James Fanchone,fr FRA,"FW,MF",27,20,2.0,2.0,2003-2004,/en/players/a1eeef54/James-Fanchone,1eeef54,Le-Mans,"1,775",19.7,2.0,0.0,100,4.0,13019,Le-Mans
+,Thabang Molefe,za RSA,DF,21,20,0.0,1.0,2003-2004,/en/players/978c1be0/Thabang-Molefe,978c1be0,Le-Mans,"1,705",18.9,7.0,1.0,100,60.0,14101,Le-Mans
+,Philippe Celdran,fr FRA,MF,28,19,4.0,1.0,2003-2004,/en/players/5f28360b/Philippe-Celdran,5f28360b,Le-Mans,"1,716",19.1,1.0,0.0,100,4.0,14102,Le-Mans
+,Jacques-Désiré Périatambée,mu MRI,MF,31,18,0.0,0.0,2003-2004,/en/players/ec96ccd7/Jacques-Desire-Periatambee,c96ccd7,Le-Mans,"1,629",18.1,5.0,0.0,100,154.0,12882,Le-Mans
+,Dan Eggen,no NOR,DF,21,16,1.0,1.0,2003-2004,/en/players/176fab3d/Dan-Eggen,176fab3d,Le-Mans,"1,437",16.0,2.0,0.0,100,21.0,14103,Le-Mans
+,Yoann Poulard,fr FRA,DF,14,14,0.0,0.0,2003-2004,/en/players/11b8a92d/Yoann-Poulard,11b8a92d,Le-Mans,"1,260",14.0,1.0,0.0,100,4.0,12507,Le-Mans
+,Eddy Capron,fr FRA,DF,17,14,1.0,0.0,2003-2004,/en/players/8cb3fb13/Eddy-Capron,8cb3fb13,Le-Mans,"1,217",13.5,3.0,0.0,100,4.0,13641,Le-Mans
+,Yohann Pelé,fr FRA,GK,10,10,0.0,0.0,2003-2004,/en/players/76806215/Yohann-Pele,76806215,Le-Mans,900,10.0,0.0,0.0,100,4.0,11604,Le-Mans
+,Jean-Jacques Domoraud,ci CIV,DF,11,9,0.0,0.0,2003-2004,/en/players/148ccbc7/Jean-Jacques-Domoraud,148ccbc7,Le-Mans,745,8.3,3.0,0.0,100,35.0,11795,Le-Mans
+,Jérôme Drouin,fr FRA,MF,5,5,0.0,0.0,2003-2004,/en/players/3818fa34/Jerome-Drouin,3818fa34,Le-Mans,399,4.4,2.0,0.0,100,4.0,14104,Le-Mans
+,Cédric Liabeuf,fr FRA,MF,11,4,0.0,0.0,2003-2004,/en/players/6a2e153b/Cedric-Liabeuf,6a2e153b,Le-Mans,425,4.7,0.0,0.0,100,4.0,14105,Le-Mans
+,Sergiu Radu,ro ROU,FW,13,3,0.0,0.0,2003-2004,/en/players/9d535200/Sergiu-Radu,9d535200,Le-Mans,281,3.1,0.0,0.0,100,51.0,14106,Le-Mans
+,Ulick Lupede,,DF,3,2,0.0,0.0,2003-2004,/en/players/32dfdba2/Ulick-Lupede,32dfdba2,Le-Mans,184,2.0,0.0,0.0,100,,90496,Le-Mans
+,Sekou Baradji,fr FRA,"DF,MF",2,2,0.0,0.0,2003-2004,/en/players/5693aa98/Sekou-Baradji,5693aa98,Le-Mans,180,2.0,0.0,0.0,100,4.0,14107,Le-Mans
+,Yannick Yenga,cd COD,"FW,MF",1,0,0.0,0.0,2003-2004,/en/players/ba23fe2b/Yannick-Yenga,ba23fe2b,Le-Mans,25,0.3,0.0,0.0,100,50.0,14108,Le-Mans
+,﻿Frédéric Thomas,fr FRA,MF,38,38,0.0,2.0,2005-2006,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"3,325",36.9,4.0,0.0,100,4.0,11996,Le-Mans
+,Yohann Pelé,fr FRA,GK,37,37,0.0,0.0,2005-2006,/en/players/76806215/Yohann-Pele,76806215,Le-Mans,"3,276",36.4,2.0,0.0,100,4.0,11604,Le-Mans
+,Olivier Thomas,fr FRA,DF,36,36,0.0,0.0,2005-2006,/en/players/37abdce9/Olivier-Thomas,37abdce9,Le-Mans,"3,139",34.9,5.0,0.0,100,4.0,11841,Le-Mans
+,Laurent Bonnart,fr FRA,DF,35,35,2.0,0.0,2005-2006,/en/players/fbb6569e/Laurent-Bonnart,fbb6569e,Le-Mans,"3,104",34.5,4.0,0.0,100,4.0,11390,Le-Mans
+,Marko Baša,me MNE,DF,32,32,0.0,0.0,2005-2006,/en/players/f170b78c/Marko-Basa,f170b78c,Le-Mans,"2,840",31.6,5.0,1.0,100,33.0,13118,Le-Mans
+,Yohan Hautcœur,fr FRA,MF,35,31,1.0,3.0,2005-2006,/en/players/d7110aaf/Yohan-Hautcoeur,d7110aaf,Le-Mans,"2,789",31.0,4.0,0.0,100,4.0,14099,Le-Mans
+,James Fanchone,fr FRA,"FW,MF",37,30,3.0,3.0,2005-2006,/en/players/a1eeef54/James-Fanchone,1eeef54,Le-Mans,"2,558",28.4,1.0,0.0,100,4.0,13019,Le-Mans
+,Daisuke Matsui,jp JPN,"FW,MF",33,28,8.0,3.0,2005-2006,/en/players/c178b2e0/Daisuke-Matsui,c178b2e0,Le-Mans,"2,351",26.1,7.0,0.0,100,54.0,14117,Le-Mans
+,Yoann Poulard,fr FRA,DF,26,26,0.0,0.0,2005-2006,/en/players/11b8a92d/Yoann-Poulard,11b8a92d,Le-Mans,"2,226",24.7,4.0,1.0,100,4.0,12507,Le-Mans
+,Túlio de Melo,br BRA,FW,24,18,1.0,7.0,2005-2006,/en/players/a2a9ab91/Tulio-de-Melo,2a9ab91,Le-Mans,"1,629",18.1,5.0,1.0,100,2.0,2611,Le-Mans
+,Romaric,ci CIV,MF,21,16,0.0,0.0,2005-2006,/en/players/9bb5c5e0/Romaric,9bb5c5e0,Le-Mans,"1,392",15.5,4.0,0.0,100,35.0,1839,Le-Mans
+,Ismaël Bangoura,gn GUI,FW,23,15,1.0,6.0,2005-2006,/en/players/d255c356/Ismael-Bangoura,d255c356,Le-Mans,"1,504",16.7,5.0,1.0,100,74.0,12541,Le-Mans
+,Grégory Cerdan,fr FRA,DF,21,15,0.0,0.0,2005-2006,/en/players/7a545e43/Gregory-Cerdan,7a545e43,Le-Mans,"1,442",16.0,6.0,0.0,100,4.0,12191,Le-Mans
+,Cédric Fauré,fr FRA,FW,14,10,1.0,2.0,2005-2006,/en/players/6ffcea42/Cedric-Faure,6ffcea42,Le-Mans,880,9.8,0.0,0.0,100,4.0,12210,Le-Mans
+,Davide Chiumiento,ch SUI,MF,18,9,2.0,1.0,2005-2006,/en/players/1ccdc87d/Davide-Chiumiento,1ccdc87d,Le-Mans,860,9.6,2.0,0.0,100,39.0,14109,Le-Mans
+,Yannick Fischer,fr FRA,DF,12,8,0.0,0.0,2005-2006,/en/players/336a8eaa/Yannick-Fischer,336a8eaa,Le-Mans,777,8.6,2.0,0.0,100,4.0,12984,Le-Mans
+,Chiguy Lucau,cd COD,FW,13,8,1.0,2.0,2005-2006,/en/players/f4dc7aa8/Chiguy-Lucau,f4dc7aa8,Le-Mans,762,8.5,2.0,0.0,100,50.0,12766,Le-Mans
+,Grafite,br BRA,FW,11,7,1.0,3.0,2005-2006,/en/players/e98f0780/Grafite,98f0780,Le-Mans,691,7.7,0.0,0.0,100,2.0,14110,Le-Mans
+,Jacques-Désiré Périatambée,mu MRI,MF,12,5,1.0,0.0,2005-2006,/en/players/ec96ccd7/Jacques-Desire-Periatambee,c96ccd7,Le-Mans,472,5.2,0.0,0.0,100,154.0,12882,Le-Mans
+,Martin Douillard,fr FRA,MF,12,3,0.0,0.0,2005-2006,/en/players/5a0625ad/Martin-Douillard,5a0625ad,Le-Mans,354,3.9,1.0,0.0,100,4.0,14111,Le-Mans
+,Guillaume Loriot,fr FRA,MF,7,3,0.0,0.0,2005-2006,/en/players/e4fec8fa/Guillaume-Loriot,4fec8fa,Le-Mans,266,3.0,0.0,0.0,100,4.0,14112,Le-Mans
+,Edorisi Ekhosuehi,ng NGA,FW,10,3,0.0,0.0,2005-2006,/en/players/dae04a1a/Edorisi-Ekhosuehi,dae04a1a,Le-Mans,251,2.8,0.0,0.0,100,52.0,14113,Le-Mans
+,Clément Pinault,fr FRA,DF,4,2,0.0,0.0,2005-2006,/en/players/86034a96/Clement-Pinault,86034a96,Le-Mans,225,2.5,0.0,0.0,100,4.0,14114,Le-Mans
+,Sébastien Gormond,fr FRA,MF,3,1,0.0,0.0,2005-2006,/en/players/68097b15/Sebastien-Gormond,68097b15,Le-Mans,160,1.8,2.0,0.0,100,4.0,14115,Le-Mans
+,Rodolphe Roche,fr FRA,GK,2,1,0.0,0.0,2005-2006,/en/players/9526c1c5/Rodolphe-Roche,9526c1c5,Le-Mans,144,1.6,0.0,0.0,100,4.0,14116,Le-Mans
+,Luigi Lavecchia,it ITA,"DF,MF",1,1,,0.0,2005-2006,/en/players/bc707fbd/Luigi-Lavecchia,bc707fbd,Le-Mans,5,0.1,0.0,0.0,100,9.0,21060,Le-Mans
+,Jérémy Choplin,fr FRA,"DF,MF",2,0,0.0,0.0,2005-2006,/en/players/d6745397/Jeremy-Choplin,d6745397,Le-Mans,25,0.3,0.0,0.0,100,4.0,12898,Le-Mans
+,﻿Marko Baša,me MNE,DF,35,35,1.0,1.0,2006-2007,/en/players/f170b78c/Marko-Basa,f170b78c,Le-Mans,"3,044",33.8,5.0,0.0,100,33.0,13118,Le-Mans
+,Romaric,ci CIV,MF,35,34,4.0,5.0,2006-2007,/en/players/9bb5c5e0/Romaric,9bb5c5e0,Le-Mans,"3,089",34.3,8.0,0.0,100,35.0,1839,Le-Mans
+,Olivier Thomas,fr FRA,DF,33,32,2.0,0.0,2006-2007,/en/players/37abdce9/Olivier-Thomas,37abdce9,Le-Mans,"2,717",30.2,7.0,0.0,100,4.0,11841,Le-Mans
+,Grafite,br BRA,FW,34,31,2.0,12.0,2006-2007,/en/players/e98f0780/Grafite,98f0780,Le-Mans,"2,711",30.1,6.0,0.0,100,2.0,14110,Le-Mans
+,Yohann Pelé,fr FRA,GK,29,29,0.0,0.0,2006-2007,/en/players/76806215/Yohann-Pele,76806215,Le-Mans,"2,501",27.8,0.0,0.0,100,4.0,11604,Le-Mans
+,Ismaël Bangoura,gn GUI,FW,33,28,4.0,12.0,2006-2007,/en/players/d255c356/Ismael-Bangoura,d255c356,Le-Mans,"2,605",28.9,6.0,0.0,100,74.0,12541,Le-Mans
+,Stéphane Sessègnon,bj BEN,"FW,MF",31,26,2.0,1.0,2006-2007,/en/players/35c5f9b1/Stephane-Sessegnon,35c5f9b1,Le-Mans,"2,382",26.5,7.0,1.0,100,132.0,8611,Le-Mans
+,Mathieu Coutadeur,fr FRA,MF,31,26,1.0,1.0,2006-2007,/en/players/ef8ae23b/Mathieu-Coutadeur,f8ae23b,Le-Mans,"2,324",25.8,1.0,0.0,100,4.0,11386,Le-Mans
+,Grégory Cerdan,fr FRA,DF,26,21,0.0,0.0,2006-2007,/en/players/7a545e43/Gregory-Cerdan,7a545e43,Le-Mans,"1,947",21.6,2.0,0.0,100,4.0,12191,Le-Mans
+,Daisuke Matsui,jp JPN,"FW,MF",27,21,4.0,4.0,2006-2007,/en/players/c178b2e0/Daisuke-Matsui,c178b2e0,Le-Mans,"1,807",20.1,6.0,0.0,100,54.0,14117,Le-Mans
+,Mamadou Samassa,ml MLI,FW,28,20,3.0,3.0,2006-2007,/en/players/f5ce7201/Mamadou-Samassa,f5ce7201,Le-Mans,"1,596",17.7,2.0,0.0,100,12.0,11571,Le-Mans
+,Laurent Bonnart,fr FRA,DF,20,19,0.0,0.0,2006-2007,/en/players/fbb6569e/Laurent-Bonnart,fbb6569e,Le-Mans,"1,698",18.9,1.0,0.0,100,4.0,11390,Le-Mans
+,Ibrahima Camara,gn GUI,"DF,MF",19,19,0.0,0.0,2006-2007,/en/players/c72cb792/Ibrahima-Camara,c72cb792,Le-Mans,"1,606",17.8,2.0,0.0,100,74.0,12522,Le-Mans
+,Cyriaque Louvion,fr FRA,DF,16,13,0.0,0.0,2006-2007,/en/players/bc8bc1a3/Cyriaque-Louvion,bc8bc1a3,Le-Mans,"1,162",12.9,4.0,0.0,100,4.0,13565,Le-Mans
+,Jean Calvé,fr FRA,DF,20,12,1.0,0.0,2006-2007,/en/players/8111297a/Jean-Calve,8111297a,Le-Mans,"1,278",14.2,3.0,0.0,100,4.0,9739,Le-Mans
+,Yannick Fischer,fr FRA,DF,15,12,0.0,0.0,2006-2007,/en/players/336a8eaa/Yannick-Fischer,336a8eaa,Le-Mans,852,9.5,1.0,0.0,100,4.0,12984,Le-Mans
+,Rodolphe Roche,fr FRA,GK,11,9,0.0,0.0,2006-2007,/en/players/9526c1c5/Rodolphe-Roche,9526c1c5,Le-Mans,919,10.2,0.0,0.0,100,4.0,14116,Le-Mans
+,James Fanchone,fr FRA,"FW,MF",20,8,2.0,2.0,2006-2007,/en/players/a1eeef54/James-Fanchone,1eeef54,Le-Mans,847,9.4,1.0,0.0,100,4.0,13019,Le-Mans
+,Túlio de Melo,br BRA,FW,17,7,0.0,2.0,2006-2007,/en/players/a2a9ab91/Tulio-de-Melo,2a9ab91,Le-Mans,788,8.8,2.0,0.0,100,2.0,2611,Le-Mans
+,Martin Douillard,fr FRA,MF,16,5,1.0,0.0,2006-2007,/en/players/5a0625ad/Martin-Douillard,5a0625ad,Le-Mans,576,6.4,1.0,0.0,100,4.0,14111,Le-Mans
+,Chiguy Lucau,cd COD,FW,14,5,1.0,1.0,2006-2007,/en/players/f4dc7aa8/Chiguy-Lucau,f4dc7aa8,Le-Mans,457,5.1,1.0,0.0,100,50.0,12766,Le-Mans
+,Paulo André,br BRA,DF,5,4,0.0,1.0,2006-2007,/en/players/996c6787/Paulo-Andre,996c6787,Le-Mans,432,4.8,1.0,0.0,100,2.0,14118,Le-Mans
+,Guillaume Loriot,fr FRA,MF,6,2,0.0,0.0,2006-2007,/en/players/e4fec8fa/Guillaume-Loriot,4fec8fa,Le-Mans,259,2.9,1.0,0.0,100,4.0,14112,Le-Mans
+,Hassan Yebda,dz ALG,MF,1,0,0.0,0.0,2006-2007,/en/players/4907d688/Hassan-Yebda,4907d688,Le-Mans,22,0.2,0.0,0.0,100,37.0,5029,Le-Mans
+,﻿Jean Calvé,fr FRA,DF,34,32,2.0,0.0,2007-2008,/en/players/8111297a/Jean-Calve,8111297a,Le-Mans,"2,868",31.9,6.0,1.0,100,4.0,9739,Le-Mans
+,Romaric,ci CIV,MF,33,32,5.0,2.0,2007-2008,/en/players/9bb5c5e0/Romaric,9bb5c5e0,Le-Mans,"2,783",30.9,9.0,0.0,100,35.0,1839,Le-Mans
+,Yohann Pelé,fr FRA,GK,31,31,0.0,0.0,2007-2008,/en/players/76806215/Yohann-Pele,76806215,Le-Mans,"2,733",30.4,2.0,0.0,100,4.0,11604,Le-Mans
+,Daisuke Matsui,jp JPN,"FW,MF",34,31,4.0,5.0,2007-2008,/en/players/c178b2e0/Daisuke-Matsui,c178b2e0,Le-Mans,"2,468",27.4,3.0,0.0,100,54.0,14117,Le-Mans
+,Stéphane Sessègnon,bj BEN,"FW,MF",30,30,4.0,5.0,2007-2008,/en/players/35c5f9b1/Stephane-Sessegnon,35c5f9b1,Le-Mans,"2,487",27.6,7.0,1.0,100,132.0,8611,Le-Mans
+,Mathieu Coutadeur,fr FRA,MF,33,29,1.0,1.0,2007-2008,/en/players/ef8ae23b/Mathieu-Coutadeur,f8ae23b,Le-Mans,"2,489",27.7,3.0,0.0,100,4.0,11386,Le-Mans
+,Túlio de Melo,br BRA,FW,31,29,1.0,13.0,2007-2008,/en/players/a2a9ab91/Tulio-de-Melo,2a9ab91,Le-Mans,"2,484",27.6,2.0,0.0,100,2.0,2611,Le-Mans
+,Marko Baša,me MNE,DF,28,28,0.0,5.0,2007-2008,/en/players/f170b78c/Marko-Basa,f170b78c,Le-Mans,"2,442",27.1,4.0,0.0,100,33.0,13118,Le-Mans
+,Grégory Cerdan,fr FRA,DF,23,22,0.0,0.0,2007-2008,/en/players/7a545e43/Gregory-Cerdan,7a545e43,Le-Mans,"1,970",21.9,1.0,2.0,100,4.0,12191,Le-Mans
+,Ibrahima Camara,gn GUI,"DF,MF",25,22,1.0,0.0,2007-2008,/en/players/c72cb792/Ibrahima-Camara,c72cb792,Le-Mans,"1,963",21.8,4.0,0.0,100,74.0,12522,Le-Mans
+,Gervinho,ci CIV,"FW,MF",26,19,3.0,2.0,2007-2008,/en/players/e468c053/Gervinho,468c053,Le-Mans,"1,880",20.9,0.0,0.0,100,35.0,5902,Le-Mans
+,Hassan Yebda,dz ALG,MF,23,17,2.0,3.0,2007-2008,/en/players/4907d688/Hassan-Yebda,4907d688,Le-Mans,"1,591",17.7,2.0,0.0,100,37.0,5029,Le-Mans
+,Géder,br BRA,DF,15,15,0.0,0.0,2007-2008,/en/players/20f1c375/Geder,20f1c375,Le-Mans,"1,350",15.0,5.0,0.0,100,2.0,14119,Le-Mans
+,Anthony Le Tallec,fr FRA,"FW,MF",26,15,1.0,5.0,2007-2008,/en/players/5d81fb2c/Anthony-Le-Tallec,5d81fb2c,Le-Mans,"1,312",14.6,2.0,1.0,100,4.0,6281,Le-Mans
+,Samuel Bouhours,fr FRA,DF,15,15,0.0,0.0,2007-2008,/en/players/1451bcc6/Samuel-Bouhours,1451bcc6,Le-Mans,"1,257",14.0,3.0,1.0,100,4.0,13431,Le-Mans
+,Cyriaque Louvion,fr FRA,DF,17,8,0.0,0.0,2007-2008,/en/players/bc8bc1a3/Cyriaque-Louvion,bc8bc1a3,Le-Mans,842,9.4,1.0,0.0,100,4.0,13565,Le-Mans
+,Rodolphe Roche,fr FRA,GK,9,7,0.0,0.0,2007-2008,/en/players/9526c1c5/Rodolphe-Roche,9526c1c5,Le-Mans,687,7.6,0.0,0.0,100,4.0,14116,Le-Mans
+,Ludovic Baal,gf GUF,"DF,MF",12,7,0.0,1.0,2007-2008,/en/players/d3ce9f1f/Ludovic-Baal,d3ce9f1f,Le-Mans,670,7.4,1.0,0.0,100,159.0,12329,Le-Mans
+,Martin Douillard,fr FRA,MF,17,6,1.0,1.0,2007-2008,/en/players/5a0625ad/Martin-Douillard,5a0625ad,Le-Mans,616,6.8,2.0,0.0,100,4.0,14111,Le-Mans
+,Mamadou Samassa,ml MLI,FW,15,5,0.0,1.0,2007-2008,/en/players/f5ce7201/Mamadou-Samassa,f5ce7201,Le-Mans,673,7.5,3.0,0.0,100,12.0,11571,Le-Mans
+,Grafite,br BRA,FW,6,5,0.0,2.0,2007-2008,/en/players/e98f0780/Grafite,98f0780,Le-Mans,404,4.5,1.0,0.0,100,2.0,14110,Le-Mans
+,Modibo Maïga,ml MLI,"FW,MF",19,4,0.0,0.0,2007-2008,/en/players/a546477d/Modibo-Maiga,546477d,Le-Mans,458,5.1,2.0,0.0,100,12.0,8474,Le-Mans
+,Saber Ben Frej,tn TUN,DF,5,4,0.0,0.0,2007-2008,/en/players/94573d4a/Saber-Ben-Frej,94573d4a,Le-Mans,313,3.5,1.0,0.0,100,46.0,14120,Le-Mans
+,Guillaume Loriot,fr FRA,MF,13,2,0.0,0.0,2007-2008,/en/players/e4fec8fa/Guillaume-Loriot,4fec8fa,Le-Mans,347,3.9,2.0,0.0,100,4.0,14112,Le-Mans
+,Clément Pinault,fr FRA,DF,5,1,0.0,0.0,2007-2008,/en/players/86034a96/Clement-Pinault,86034a96,Le-Mans,113,1.3,0.0,0.0,100,4.0,14114,Le-Mans
+,Alphousseyni Keita,ml MLI,MF,2,1,0.0,0.0,2007-2008,/en/players/6da61698/Alphousseyni-Keita,6da61698,Le-Mans,107,1.2,0.0,0.0,100,12.0,14121,Le-Mans
+,Brahim El Bahri,ma MAR,"FW,MF",3,1,0.0,0.0,2007-2008,/en/players/bb591e67/Brahim-El-Bahri,bb591e67,Le-Mans,69,0.8,0.0,0.0,100,26.0,14122,Le-Mans
+,﻿Mathieu Coutadeur,fr FRA,MF,36,35,5.0,4.0,2008-2009,/en/players/ef8ae23b/Mathieu-Coutadeur,f8ae23b,Le-Mans,"2,993",33.3,5.0,0.0,100,4.0,11386,Le-Mans
+,Grégory Cerdan,fr FRA,DF,33,33,0.0,3.0,2008-2009,/en/players/7a545e43/Gregory-Cerdan,7a545e43,Le-Mans,"2,886",32.1,8.0,1.0,100,4.0,12191,Le-Mans
+,Yohann Pelé,fr FRA,GK,32,32,0.0,0.0,2008-2009,/en/players/76806215/Yohann-Pele,76806215,Le-Mans,"2,880",32.0,1.0,0.0,100,4.0,11604,Le-Mans
+,Ibrahima Camara,gn GUI,"DF,MF",30,29,2.0,0.0,2008-2009,/en/players/c72cb792/Ibrahima-Camara,c72cb792,Le-Mans,"2,515",27.9,9.0,0.0,100,74.0,12522,Le-Mans
+,Frédéric Thomas,fr FRA,MF,32,29,0.0,0.0,2008-2009,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"2,515",27.9,3.0,0.0,100,4.0,11996,Le-Mans
+,Géder,br BRA,DF,29,28,0.0,0.0,2008-2009,/en/players/20f1c375/Geder,20f1c375,Le-Mans,"2,519",28.0,9.0,0.0,100,2.0,14119,Le-Mans
+,Gervinho,ci CIV,"FW,MF",33,27,3.0,6.0,2008-2009,/en/players/e468c053/Gervinho,468c053,Le-Mans,"2,444",27.2,5.0,0.0,100,35.0,5902,Le-Mans
+,Modibo Maïga,ml MLI,"FW,MF",37,26,2.0,8.0,2008-2009,/en/players/a546477d/Modibo-Maiga,546477d,Le-Mans,"2,456",27.3,5.0,0.0,100,12.0,8474,Le-Mans
+,Anthony Le Tallec,fr FRA,"FW,MF",34,25,4.0,6.0,2008-2009,/en/players/5d81fb2c/Anthony-Le-Tallec,5d81fb2c,Le-Mans,"2,166",24.1,2.0,0.0,100,4.0,6281,Le-Mans
+,Paulo André,br BRA,DF,31,24,0.0,1.0,2008-2009,/en/players/996c6787/Paulo-Andre,996c6787,Le-Mans,"2,215",24.6,2.0,0.0,100,2.0,14118,Le-Mans
+,Thorstein Helstad,no NOR,FW,32,23,3.0,10.0,2008-2009,/en/players/ef7bd456/Thorstein-Helstad,f7bd456,Le-Mans,"2,004",22.3,1.0,0.0,100,21.0,11419,Le-Mans
+,Roland Lamah,be BEL,"FW,MF",31,17,2.0,3.0,2008-2009,/en/players/336a36fb/Roland-Lamah,336a36fb,Le-Mans,"1,664",18.5,1.0,0.0,100,27.0,2038,Le-Mans
+,Fredrik Strømstad,no NOR,MF,23,14,3.0,0.0,2008-2009,/en/players/d55d6596/Fredrik-Stromstad,d55d6596,Le-Mans,"1,334",14.8,1.0,0.0,100,21.0,14123,Le-Mans
+,Samuel Bouhours,fr FRA,DF,15,11,0.0,0.0,2008-2009,/en/players/1451bcc6/Samuel-Bouhours,1451bcc6,Le-Mans,"1,058",11.8,1.0,1.0,100,4.0,13431,Le-Mans
+,Ludovic Baal,gf GUF,"DF,MF",15,11,0.0,0.0,2008-2009,/en/players/d3ce9f1f/Ludovic-Baal,d3ce9f1f,Le-Mans,"1,010",11.2,2.0,0.0,100,159.0,12329,Le-Mans
+,Cyriaque Louvion,fr FRA,DF,13,10,0.0,0.0,2008-2009,/en/players/bc8bc1a3/Cyriaque-Louvion,bc8bc1a3,Le-Mans,910,10.1,3.0,0.0,100,4.0,13565,Le-Mans
+,Sébastien Corchia,fr FRA,DF,9,9,1.0,0.0,2008-2009,/en/players/0e7ccfc4/Sebastien-Corchia,0e7ccfc4,Le-Mans,750,8.3,0.0,0.0,100,4.0,1925,Le-Mans
+,Saber Ben Frej,tn TUN,DF,11,8,0.0,0.0,2008-2009,/en/players/94573d4a/Saber-Ben-Frej,94573d4a,Le-Mans,796,8.8,4.0,1.0,100,46.0,14120,Le-Mans
+,Hérold Goulon,fr FRA,"DF,MF",11,7,0.0,0.0,2008-2009,/en/players/e818c267/Herold-Goulon,818c267,Le-Mans,647,7.2,2.0,0.0,100,4.0,6469,Le-Mans
+,Rodolphe Roche,fr FRA,GK,6,6,0.0,0.0,2008-2009,/en/players/9526c1c5/Rodolphe-Roche,9526c1c5,Le-Mans,540,6.0,0.0,0.0,100,4.0,14116,Le-Mans
+,Mathieu Dossevi,tg TOG,"FW,MF",11,5,1.0,0.0,2008-2009,/en/players/6421dd73/Mathieu-Dossevi,6421dd73,Le-Mans,432,4.8,1.0,0.0,100,109.0,13970,Le-Mans
+,Khaled Adénon,bj BEN,"DF,MF",5,3,0.0,0.0,2008-2009,/en/players/16714a62/Khaled-Adenon,16714a62,Le-Mans,295,3.3,0.0,0.0,100,132.0,12877,Le-Mans
+,Marcelo Estigarribia,py PAR,"DF,MF",7,3,0.0,0.0,2008-2009,/en/players/188a2362/Marcelo-Estigarribia,188a2362,Le-Mans,292,3.2,1.0,0.0,100,43.0,14124,Le-Mans
+,Alphousseyni Keita,ml MLI,MF,7,3,0.0,0.0,2008-2009,/en/players/6da61698/Alphousseyni-Keita,6da61698,Le-Mans,244,2.7,1.0,0.0,100,12.0,14121,Le-Mans
+,Marcos Paulo,br BRA,MF,1,0,0.0,0.0,2008-2009,/en/players/83f860ef/Marcos-Paulo,83f860ef,Le-Mans,18,0.2,0.0,0.0,100,2.0,14125,Le-Mans
+,Brahim El Bahri,ma MAR,"FW,MF",1,0,0.0,0.0,2008-2009,/en/players/bb591e67/Brahim-El-Bahri,bb591e67,Le-Mans,11,0.1,0.0,0.0,100,26.0,14122,Le-Mans
+,Mamadou Wague,fr FRA,DF,1,0,0.0,0.0,2008-2009,/en/players/144a6ef5/Mamadou-Wague,144a6ef5,Le-Mans,9,0.1,0.0,0.0,100,4.0,13905,Le-Mans
+,﻿Ludovic Baal,gf GUF,"DF,MF",38,35,1.0,0.0,2009-2010,/en/players/d3ce9f1f/Ludovic-Baal,d3ce9f1f,Le-Mans,"3,179",35.3,3.0,0.0,100,159.0,12329,Le-Mans
+,Anthony Le Tallec,fr FRA,"FW,MF",36,33,5.0,8.0,2009-2010,/en/players/5d81fb2c/Anthony-Le-Tallec,5d81fb2c,Le-Mans,"2,956",32.8,8.0,0.0,100,4.0,6281,Le-Mans
+,Didier Ovono,ga GAB,GK,32,32,0.0,0.0,2009-2010,/en/players/4e30deb3/Didier-Ovono,4e30deb3,Le-Mans,"2,880",32.0,2.0,0.0,100,69.0,14130,Le-Mans
+,Sébastien Corchia,fr FRA,DF,35,31,2.0,2.0,2009-2010,/en/players/0e7ccfc4/Sebastien-Corchia,0e7ccfc4,Le-Mans,"2,856",31.7,5.0,0.0,100,4.0,1925,Le-Mans
+,Grégory Cerdan,fr FRA,DF,30,30,0.0,1.0,2009-2010,/en/players/7a545e43/Gregory-Cerdan,7a545e43,Le-Mans,"2,685",29.8,9.0,0.0,100,4.0,12191,Le-Mans
+,Frédéric Thomas,fr FRA,MF,30,30,1.0,2.0,2009-2010,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"2,646",29.4,7.0,0.0,100,4.0,11996,Le-Mans
+,Modibo Maïga,ml MLI,"FW,MF",32,23,3.0,7.0,2009-2010,/en/players/a546477d/Modibo-Maiga,546477d,Le-Mans,"2,055",22.8,4.0,1.0,100,12.0,8474,Le-Mans
+,Roland Lamah,be BEL,"FW,MF",31,22,0.0,4.0,2009-2010,/en/players/336a36fb/Roland-Lamah,336a36fb,Le-Mans,"2,070",23.0,4.0,0.0,100,27.0,2038,Le-Mans
+,Hérold Goulon,fr FRA,"DF,MF",26,22,1.0,0.0,2009-2010,/en/players/e818c267/Herold-Goulon,818c267,Le-Mans,"1,738",19.3,11.0,0.0,100,4.0,6469,Le-Mans
+,João Paulo,pt POR,"DF,MF",23,21,1.0,0.0,2009-2010,/en/players/f7f6b2c1/Joao-Paulo,f7f6b2c1,Le-Mans,"1,885",20.9,6.0,0.0,100,3.0,14126,Le-Mans
+,Mathieu Dossevi,tg TOG,"FW,MF",31,19,2.0,5.0,2009-2010,/en/players/6421dd73/Mathieu-Dossevi,6421dd73,Le-Mans,"1,719",19.1,1.0,1.0,100,109.0,13970,Le-Mans
+,Guillaume Loriot,fr FRA,MF,21,18,0.0,0.0,2009-2010,/en/players/e4fec8fa/Guillaume-Loriot,4fec8fa,Le-Mans,"1,471",16.3,5.0,2.0,100,4.0,14112,Le-Mans
+,Cyriaque Louvion,fr FRA,DF,19,17,0.0,0.0,2009-2010,/en/players/bc8bc1a3/Cyriaque-Louvion,bc8bc1a3,Le-Mans,"1,518",16.9,1.0,0.0,100,4.0,13565,Le-Mans
+,Thorstein Helstad,no NOR,FW,31,15,2.0,4.0,2009-2010,/en/players/ef7bd456/Thorstein-Helstad,f7bd456,Le-Mans,"1,424",15.8,0.0,0.0,100,21.0,11419,Le-Mans
+,Géder,br BRA,DF,14,14,0.0,0.0,2009-2010,/en/players/20f1c375/Geder,20f1c375,Le-Mans,"1,164",12.9,5.0,1.0,100,2.0,14119,Le-Mans
+,Moussa Narry,gh GHA,MF,12,12,0.0,0.0,2009-2010,/en/players/91daae3f/Moussa-Narry,91daae3f,Le-Mans,"1,080",12.0,4.0,1.0,100,17.0,12012,Le-Mans
+,Almen Abdi,ch SUI,MF,13,9,0.0,0.0,2009-2010,/en/players/8d425d84/Almen-Abdi,8d425d84,Le-Mans,785,8.7,4.0,0.0,100,39.0,9881,Le-Mans
+,Alphousseyni Keita,ml MLI,MF,7,5,0.0,0.0,2009-2010,/en/players/6da61698/Alphousseyni-Keita,6da61698,Le-Mans,475,5.3,1.0,0.0,100,12.0,14121,Le-Mans
+,Samuel Bouhours,fr FRA,DF,5,5,0.0,0.0,2009-2010,/en/players/1451bcc6/Samuel-Bouhours,1451bcc6,Le-Mans,346,3.8,2.0,0.0,100,4.0,13431,Le-Mans
+,Rodolphe Roche,fr FRA,GK,4,4,0.0,0.0,2009-2010,/en/players/9526c1c5/Rodolphe-Roche,9526c1c5,Le-Mans,360,4.0,1.0,0.0,100,4.0,14116,Le-Mans
+,Mathieu Coutadeur,fr FRA,MF,4,4,0.0,1.0,2009-2010,/en/players/ef8ae23b/Mathieu-Coutadeur,f8ae23b,Le-Mans,359,4.0,2.0,0.0,100,4.0,11386,Le-Mans
+,Olivier Thomert,mq MTQ,"FW,MF",4,4,0.0,0.0,2009-2010,/en/players/acda6c9d/Olivier-Thomert,cda6c9d,Le-Mans,317,3.5,0.0,0.0,100,104.0,4979,Le-Mans
+,Fousseyni Cissé,fr FRA,FW,10,3,0.0,0.0,2009-2010,/en/players/7f9ee220/Fousseyni-Cisse,7f9ee220,Le-Mans,351,3.9,1.0,1.0,100,4.0,14127,Le-Mans
+,Ibrahima Camara,gn GUI,"DF,MF",3,3,0.0,0.0,2009-2010,/en/players/c72cb792/Ibrahima-Camara,c72cb792,Le-Mans,236,2.6,2.0,0.0,100,74.0,12522,Le-Mans
+,Idir Ouali,fr FRA,"FW,MF",10,2,0.0,1.0,2009-2010,/en/players/de7a0858/Idir-Ouali,de7a0858,Le-Mans,279,3.1,0.0,0.0,100,4.0,14128,Le-Mans
+,Giorgi Makaridze,ge GEO,GK,2,2,0.0,0.0,2009-2010,/en/players/b3bb0a76/Giorgi-Makaridze,b3bb0a76,Le-Mans,180,2.0,0.0,0.0,100,76.0,4672,Le-Mans
+,Badara Sène,sn SEN,MF,5,1,0.0,0.0,2009-2010,/en/players/1fbc1217/Badara-Sene,1fbc1217,Le-Mans,127,1.4,0.0,0.0,100,34.0,11820,Le-Mans
+,Marcelo Estigarribia,py PAR,"DF,MF",5,1,0.0,0.0,2009-2010,/en/players/188a2362/Marcelo-Estigarribia,188a2362,Le-Mans,108,1.2,1.0,0.0,100,43.0,14124,Le-Mans
+,Mamadou Wague,fr FRA,DF,2,1,0.0,0.0,2009-2010,/en/players/144a6ef5/Mamadou-Wague,144a6ef5,Le-Mans,95,1.1,0.0,0.0,100,4.0,13905,Le-Mans
+,Guy-Michel Landel,gn GUI,MF,1,0,0.0,0.0,2009-2010,/en/players/d5431c3a/Guy-Michel-Landel,d5431c3a,Le-Mans,35,0.4,0.0,0.0,100,74.0,14129,Le-Mans
+,Fredrik Strømstad,no NOR,MF,3,0,0.0,0.0,2009-2010,/en/players/d55d6596/Fredrik-Stromstad,d55d6596,Le-Mans,27,0.3,0.0,0.0,100,21.0,14123,Le-Mans
+,Saber Ben Frej,tn TUN,DF,1,0,0.0,0.0,2009-2010,/en/players/94573d4a/Saber-Ben-Frej,94573d4a,Le-Mans,7,0.1,0.0,0.0,100,46.0,14120,Le-Mans
+,Pierre Gibaud,fr FRA,DF,1,0,0.0,0.0,2009-2010,/en/players/3006a5a6/Pierre-Gibaud,3006a5a6,Le-Mans,2,0.0,0.0,0.0,100,4.0,11873,Le-Mans
+,﻿Didier Ovono,ga GAB,GK,38,38,0.0,0.0,2010-2011,/en/players/4e30deb3/Didier-Ovono,4e30deb3,Le-Mans,"3,420",38.0,3.0,0.0,100,69.0,14130,Le-Mans
+,Grégory Cerdan,fr FRA,DF,38,38,2.0,2.0,2010-2011,/en/players/7a545e43/Gregory-Cerdan,7a545e43,Le-Mans,"3,366",37.4,5.0,0.0,100,4.0,12191,Le-Mans
+,Frédéric Thomas,fr FRA,MF,37,37,2.0,1.0,2010-2011,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"3,330",37.0,6.0,0.0,100,4.0,11996,Le-Mans
+,Ludovic Baal,gf GUF,"DF,MF",37,37,2.0,2.0,2010-2011,/en/players/d3ce9f1f/Ludovic-Baal,d3ce9f1f,Le-Mans,"3,292",36.6,6.0,0.0,100,159.0,12329,Le-Mans
+,Sébastien Corchia,fr FRA,DF,36,35,2.0,1.0,2010-2011,/en/players/0e7ccfc4/Sebastien-Corchia,0e7ccfc4,Le-Mans,"3,168",35.2,5.0,0.0,100,4.0,1925,Le-Mans
+,Thorstein Helstad,no NOR,FW,35,34,2.0,21.0,2010-2011,/en/players/ef7bd456/Thorstein-Helstad,f7bd456,Le-Mans,"2,715",30.2,2.0,0.0,100,21.0,11419,Le-Mans
+,Khaled Adénon,bj BEN,"DF,MF",31,31,0.0,2.0,2010-2011,/en/players/16714a62/Khaled-Adenon,16714a62,Le-Mans,"2,704",30.0,11.0,2.0,100,132.0,12877,Le-Mans
+,Moussa Narry,gh GHA,MF,28,25,0.0,0.0,2010-2011,/en/players/91daae3f/Moussa-Narry,91daae3f,Le-Mans,"2,140",23.8,5.0,0.0,100,17.0,12012,Le-Mans
+,Samuel Bouhours,fr FRA,DF,25,25,1.0,0.0,2010-2011,/en/players/1451bcc6/Samuel-Bouhours,1451bcc6,Le-Mans,"2,039",22.7,7.0,1.0,100,4.0,13431,Le-Mans
+,Joffrey Cuffaut,fr FRA,DF,33,24,1.0,1.0,2010-2011,/en/players/f71e34b2/Joffrey-Cuffaut,f71e34b2,Le-Mans,"2,185",24.3,4.0,0.0,100,4.0,14131,Le-Mans
+,Fousseyni Cissé,fr FRA,FW,35,22,1.0,4.0,2010-2011,/en/players/7f9ee220/Fousseyni-Cisse,7f9ee220,Le-Mans,"1,986",22.1,6.0,0.0,100,4.0,14127,Le-Mans
+,Roland Lamah,be BEL,"FW,MF",25,19,7.0,3.0,2010-2011,/en/players/336a36fb/Roland-Lamah,336a36fb,Le-Mans,"1,676",18.6,5.0,0.0,100,27.0,2038,Le-Mans
+,Cyriaque Louvion,fr FRA,DF,23,15,1.0,0.0,2010-2011,/en/players/bc8bc1a3/Cyriaque-Louvion,bc8bc1a3,Le-Mans,"1,432",15.9,2.0,1.0,100,4.0,13565,Le-Mans
+,Mickaël Poté,bj BEN,FW,19,12,3.0,3.0,2010-2011,/en/players/27b89843/Mickael-Pote,27b89843,Le-Mans,"1,061",11.8,0.0,0.0,100,132.0,12666,Le-Mans
+,Idir Ouali,fr FRA,"FW,MF",19,5,2.0,1.0,2010-2011,/en/players/de7a0858/Idir-Ouali,de7a0858,Le-Mans,588,6.5,0.0,0.0,100,4.0,14128,Le-Mans
+,Brahim El Bahri,ma MAR,"FW,MF",14,5,2.0,0.0,2010-2011,/en/players/bb591e67/Brahim-El-Bahri,bb591e67,Le-Mans,579,6.4,0.0,0.0,100,26.0,14122,Le-Mans
+,Jeff Louis,ht HAI,MF,6,4,2.0,1.0,2010-2011,/en/players/4ee7e082/Jeff-Louis,4ee7e082,Le-Mans,395,4.4,3.0,0.0,100,47.0,14132,Le-Mans
+,Abdou Dieye,sn SEN,MF,16,3,1.0,2.0,2010-2011,/en/players/bf0e5dc6/Abdou-Dieye,bf0e5dc6,Le-Mans,394,4.4,2.0,0.0,100,34.0,14133,Le-Mans
+,Yohan Hautcœur,fr FRA,MF,5,3,0.0,0.0,2010-2011,/en/players/d7110aaf/Yohan-Hautcoeur,d7110aaf,Le-Mans,270,3.0,0.0,0.0,100,4.0,14099,Le-Mans
+,Jonathan Béhé,fr FRA,"FW,MF",12,2,0.0,1.0,2010-2011,/en/players/4f8b9cf4/Jonathan-Behe,4f8b9cf4,Le-Mans,297,3.3,0.0,0.0,100,4.0,14134,Le-Mans
+,Mathieu Dossevi,tg TOG,"FW,MF",3,2,0.0,1.0,2010-2011,/en/players/6421dd73/Mathieu-Dossevi,6421dd73,Le-Mans,161,1.8,0.0,0.0,100,109.0,13970,Le-Mans
+,Mamadou Wague,fr FRA,DF,4,1,0.0,0.0,2010-2011,/en/players/144a6ef5/Mamadou-Wague,144a6ef5,Le-Mans,149,1.7,1.0,0.0,100,4.0,13905,Le-Mans
+,Fredrik Strømstad,no NOR,MF,1,1,0.0,0.0,2010-2011,/en/players/d55d6596/Fredrik-Stromstad,d55d6596,Le-Mans,53,0.6,0.0,0.0,100,21.0,14123,Le-Mans
+,Pierre Gibaud,fr FRA,DF,4,0,0.0,0.0,2010-2011,/en/players/3006a5a6/Pierre-Gibaud,3006a5a6,Le-Mans,12,0.1,0.0,0.0,100,4.0,11873,Le-Mans
+,Anthony Derouard,fr FRA,FW,1,0,0.0,0.0,2010-2011,/en/players/bc10499d/Anthony-Derouard,bc10499d,Le-Mans,6,0.1,0.0,0.0,100,4.0,14135,Le-Mans
+,﻿Frédéric Thomas,fr FRA,MF,37,37,2.0,3.0,2011-2012,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"3,304",36.7,6.0,0.0,100,4.0,11996,Le-Mans
+,Khaled Adénon,bj BEN,"DF,MF",30,30,0.0,0.0,2011-2012,/en/players/16714a62/Khaled-Adenon,16714a62,Le-Mans,"2,654",29.5,12.0,2.0,100,132.0,12877,Le-Mans
+,Mamadou Doumbia,ci CIV,DF,30,30,0.0,2.0,2011-2012,/en/players/76ee5209/Mamadou-Doumbia,76ee5209,Le-Mans,"2,636",29.3,6.0,0.0,100,35.0,14136,Le-Mans
+,Idir Ouali,fr FRA,"FW,MF",35,29,4.0,9.0,2011-2012,/en/players/de7a0858/Idir-Ouali,de7a0858,Le-Mans,"2,576",28.6,0.0,1.0,100,4.0,14128,Le-Mans
+,Giorgi Makaridze,ge GEO,GK,27,27,0.0,0.0,2011-2012,/en/players/b3bb0a76/Giorgi-Makaridze,b3bb0a76,Le-Mans,"2,407",26.7,3.0,1.0,100,76.0,4672,Le-Mans
+,Joffrey Cuffaut,fr FRA,DF,28,27,0.0,0.0,2011-2012,/en/players/f71e34b2/Joffrey-Cuffaut,f71e34b2,Le-Mans,"2,392",26.6,2.0,0.0,100,4.0,14131,Le-Mans
+,Moussa Narry,gh GHA,MF,25,24,0.0,0.0,2011-2012,/en/players/91daae3f/Moussa-Narry,91daae3f,Le-Mans,"2,155",23.9,6.0,0.0,100,17.0,12012,Le-Mans
+,Idrissa Sylla,gn GUI,"FW,MF",25,21,1.0,9.0,2011-2012,/en/players/4f6de69c/Idrissa-Sylla,4f6de69c,Le-Mans,"1,750",19.4,1.0,0.0,100,74.0,10738,Le-Mans
+,Jeff Louis,ht HAI,MF,26,20,0.0,0.0,2011-2012,/en/players/4ee7e082/Jeff-Louis,4ee7e082,Le-Mans,"1,666",18.5,4.0,1.0,100,47.0,14132,Le-Mans
+,Ali Bamba,ci CIV,DF,21,19,1.0,0.0,2011-2012,/en/players/51018c0d/Ali-Bamba,51018c0d,Le-Mans,"1,666",18.5,5.0,0.0,100,35.0,14137,Le-Mans
+,Mekeme Tamla Ladji,ci CIV,"DF,MF",20,17,0.0,0.0,2011-2012,/en/players/fded10d6/Mekeme-Tamla-Ladji,fded10d6,Le-Mans,"1,450",16.1,1.0,0.0,100,35.0,14138,Le-Mans
+,Jason Buaillon,fr FRA,"DF,MF",17,16,1.0,1.0,2011-2012,/en/players/5917f538/Jason-Buaillon,5917f538,Le-Mans,"1,428",15.9,2.0,1.0,100,4.0,14139,Le-Mans
+,Kervens Belfort,ht HAI,FW,29,14,1.0,5.0,2011-2012,/en/players/524dceaf/Kervens-Belfort,524dceaf,Le-Mans,"1,324",14.7,2.0,1.0,100,47.0,14149,Le-Mans
+,Fousseyni Cissé,fr FRA,FW,20,14,1.0,1.0,2011-2012,/en/players/7f9ee220/Fousseyni-Cisse,7f9ee220,Le-Mans,"1,265",14.1,2.0,1.0,100,4.0,14127,Le-Mans
+,Massiré Kanté,fr FRA,MF,14,13,0.0,1.0,2011-2012,/en/players/9d0b3f79/Massire-Kante,9d0b3f79,Le-Mans,"1,209",13.4,4.0,0.0,100,4.0,14140,Le-Mans
+,Moussa Maâzou,ne NIG,FW,15,12,0.0,2.0,2011-2012,/en/players/2e3a2bd9/Moussa-Maazou,2e3a2bd9,Le-Mans,"1,076",12.0,4.0,0.0,100,156.0,11387,Le-Mans
+,Patrick Ekeng,cm CMR,MF,16,11,0.0,1.0,2011-2012,/en/players/3bcb7df2/Patrick-Ekeng,3bcb7df2,Le-Mans,953,10.6,7.0,1.0,100,36.0,5334,Le-Mans
+,Didier Ovono,ga GAB,GK,11,10,0.0,0.0,2011-2012,/en/players/4e30deb3/Didier-Ovono,4e30deb3,Le-Mans,923,10.3,0.0,0.0,100,69.0,14130,Le-Mans
+,Pierre Gibaud,fr FRA,DF,11,10,1.0,0.0,2011-2012,/en/players/3006a5a6/Pierre-Gibaud,3006a5a6,Le-Mans,901,10.0,2.0,0.0,100,4.0,11873,Le-Mans
+,Fredrik Strømstad,no NOR,MF,13,9,0.0,0.0,2011-2012,/en/players/d55d6596/Fredrik-Stromstad,d55d6596,Le-Mans,728,8.1,0.0,0.0,100,21.0,14123,Le-Mans
+,Brahim Boudebouda,dz ALG,DF,10,8,1.0,2.0,2011-2012,/en/players/0696d132/Brahim-Boudebouda,0696d132,Le-Mans,767,8.5,1.0,0.0,100,37.0,14141,Le-Mans
+,Hilaire Momi,cf CTA,FW,20,7,1.0,2.0,2011-2012,/en/players/281e2124/Hilaire-Momi,281e2124,Le-Mans,825,9.2,1.0,0.0,100,73.0,14142,Le-Mans
+,Roland Lamah,be BEL,"FW,MF",4,4,0.0,0.0,2011-2012,/en/players/336a36fb/Roland-Lamah,336a36fb,Le-Mans,335,3.7,0.0,0.0,100,27.0,2038,Le-Mans
+,Modibo Diarra,ci CIV,MF,9,3,0.0,0.0,2011-2012,/en/players/f726c36f/Modibo-Diarra,f726c36f,Le-Mans,255,2.8,0.0,0.0,100,35.0,14143,Le-Mans
+,Anthony Koura,bf BFA,FW,7,1,0.0,0.0,2011-2012,/en/players/b7618cc9/Anthony-Koura,b7618cc9,Le-Mans,171,1.9,0.0,0.0,100,62.0,14144,Le-Mans
+,Jonathan Béhé,fr FRA,"FW,MF",7,1,0.0,0.0,2011-2012,/en/players/4f8b9cf4/Jonathan-Behe,4f8b9cf4,Le-Mans,158,1.8,1.0,0.0,100,4.0,14134,Le-Mans
+,Fernander Kassaï,cf CTA,DF,3,1,0.0,0.0,2011-2012,/en/players/3b8fca64/Fernander-Kassai,3b8fca64,Le-Mans,97,1.1,0.0,0.0,100,73.0,14145,Le-Mans
+,Anthony Derouard,fr FRA,FW,3,1,0.0,0.0,2011-2012,/en/players/bc10499d/Anthony-Derouard,bc10499d,Le-Mans,96,1.1,0.0,0.0,100,4.0,14135,Le-Mans
+,Sofiane Khedairia,dz ALG,GK,1,1,0.0,0.0,2011-2012,/en/players/618502a5/Sofiane-Khedairia,618502a5,Le-Mans,90,1.0,0.0,0.0,100,37.0,14146,Le-Mans
+,Mamadou Wague,fr FRA,DF,1,1,0.0,0.0,2011-2012,/en/players/144a6ef5/Mamadou-Wague,144a6ef5,Le-Mans,90,1.0,0.0,0.0,100,4.0,13905,Le-Mans
+,﻿Joffrey Cuffaut,fr FRA,DF,38,38,1.0,0.0,2012-2013,/en/players/f71e34b2/Joffrey-Cuffaut,f71e34b2,Le-Mans,"3,420",38.0,2.0,0.0,100,4.0,14131,Le-Mans
+,Frédéric Thomas,fr FRA,MF,36,36,1.0,8.0,2012-2013,/en/players/8b735a92/Frederic-Thomas,8b735a92,Le-Mans,"3,220",35.8,4.0,0.0,100,4.0,11996,Le-Mans
+,Mekeme Tamla Ladji,ci CIV,"DF,MF",35,32,0.0,0.0,2012-2013,/en/players/fded10d6/Mekeme-Tamla-Ladji,fded10d6,Le-Mans,"2,847",31.6,10.0,1.0,100,35.0,14138,Le-Mans
+,Amara Baby,sn SEN,MF,32,31,1.0,1.0,2012-2013,/en/players/2bf30ad7/Amara-Baby,2bf30ad7,Le-Mans,"2,785",30.9,4.0,0.0,100,34.0,12072,Le-Mans
+,Jérémie Janot,fr FRA,GK,29,29,0.0,0.0,2012-2013,/en/players/20881853/Jeremie-Janot,20881853,Le-Mans,"2,565",28.5,0.0,0.0,100,4.0,14147,Le-Mans
+,Mory Koné,ci CIV,DF,23,22,0.0,0.0,2012-2013,/en/players/3ef7a30b/Mory-Kone,3ef7a30b,Le-Mans,"1,896",21.1,5.0,0.0,100,35.0,13763,Le-Mans
+,Mamadou Doumbia,ci CIV,DF,20,20,0.0,0.0,2012-2013,/en/players/76ee5209/Mamadou-Doumbia,76ee5209,Le-Mans,"1,800",20.0,3.0,0.0,100,35.0,14136,Le-Mans
+,Morgan Sanson,fr FRA,MF,27,20,2.0,3.0,2012-2013,/en/players/6e7f1353/Morgan-Sanson,6e7f1353,Le-Mans,"1,758",19.5,7.0,1.0,100,4.0,8202,Le-Mans
+,Fousseyni Cissé,fr FRA,FW,21,20,2.0,5.0,2012-2013,/en/players/7f9ee220/Fousseyni-Cisse,7f9ee220,Le-Mans,"1,698",18.9,6.0,0.0,100,4.0,14127,Le-Mans
+,Idrissa Sylla,gn GUI,"FW,MF",27,19,1.0,5.0,2012-2013,/en/players/4f6de69c/Idrissa-Sylla,4f6de69c,Le-Mans,"1,725",19.2,4.0,0.0,100,74.0,10738,Le-Mans
+,Jason Buaillon,fr FRA,"DF,MF",21,18,5.0,0.0,2012-2013,/en/players/5917f538/Jason-Buaillon,5917f538,Le-Mans,"1,601",17.8,2.0,0.0,100,4.0,14139,Le-Mans
+,Fernander Kassaï,cf CTA,DF,21,18,0.0,0.0,2012-2013,/en/players/3b8fca64/Fernander-Kassai,3b8fca64,Le-Mans,"1,591",17.7,3.0,0.0,100,73.0,14145,Le-Mans
+,Massiré Kanté,fr FRA,MF,15,12,0.0,3.0,2012-2013,/en/players/9d0b3f79/Massire-Kante,9d0b3f79,Le-Mans,"1,034",11.5,4.0,1.0,100,4.0,14140,Le-Mans
+,Olivier Thomert,mq MTQ,"FW,MF",15,12,0.0,2.0,2012-2013,/en/players/acda6c9d/Olivier-Thomert,cda6c9d,Le-Mans,894,9.9,1.0,0.0,100,104.0,4979,Le-Mans
+,Zhang Jiaqi,cn CHN,MF,12,11,0.0,1.0,2012-2013,/en/players/836e7f44/Zhang-Jiaqi,836e7f44,Le-Mans,947,10.5,2.0,1.0,100,101.0,14148,Le-Mans
+,Joseph Mendes,gw GNB,FW,20,10,1.0,3.0,2012-2013,/en/players/d93c6b04/Joseph-Mendes,d93c6b04,Le-Mans,933,10.4,1.0,0.0,100,93.0,9647,Le-Mans
+,Patrick Ekeng,cm CMR,MF,18,9,0.0,0.0,2012-2013,/en/players/3bcb7df2/Patrick-Ekeng,3bcb7df2,Le-Mans,806,9.0,2.0,0.0,100,36.0,5334,Le-Mans
+,Guy-Michel Landel,gn GUI,MF,12,9,0.0,1.0,2012-2013,/en/players/d5431c3a/Guy-Michel-Landel,d5431c3a,Le-Mans,765,8.5,1.0,0.0,100,74.0,14129,Le-Mans
+,Abdelhakim Omrani,dz ALG,"FW,MF",13,7,0.0,1.0,2012-2013,/en/players/1ebd30fd/Abdelhakim-Omrani,1ebd30fd,Le-Mans,736,8.2,3.0,0.0,100,37.0,12328,Le-Mans
+,Anthony Derouard,fr FRA,FW,19,6,0.0,2.0,2012-2013,/en/players/bc10499d/Anthony-Derouard,bc10499d,Le-Mans,656,7.3,0.0,0.0,100,4.0,14135,Le-Mans
+,Kervens Belfort,ht HAI,FW,16,5,0.0,0.0,2012-2013,/en/players/524dceaf/Kervens-Belfort,524dceaf,Le-Mans,701,7.8,0.0,0.0,100,47.0,14149,Le-Mans
+,Fadil Sido,bf BFA,MF,11,5,1.0,2.0,2012-2013,/en/players/2f1736e5/Fadil-Sido,2f1736e5,Le-Mans,470,5.2,0.0,0.0,100,62.0,13922,Le-Mans
+,Giorgi Makaridze,ge GEO,GK,5,5,0.0,0.0,2012-2013,/en/players/b3bb0a76/Giorgi-Makaridze,b3bb0a76,Le-Mans,450,5.0,0.0,0.0,100,76.0,4672,Le-Mans
+,Redouan Boulgroune,,,5,5,0.0,0.0,2012-2013,No detected,,Le-Mans,400,4.4,1.0,0.0,100,,90497,Le-Mans
+,Quentin Beunardeau,fr FRA,GK,5,4,0.0,0.0,2012-2013,/en/players/15285503/Quentin-Beunardeau,15285503,Le-Mans,405,4.5,0.0,0.0,100,4.0,13959,Le-Mans
+,Hilaire Momi,cf CTA,FW,8,4,2.0,0.0,2012-2013,/en/players/281e2124/Hilaire-Momi,281e2124,Le-Mans,381,4.2,0.0,0.0,100,73.0,14142,Le-Mans
+,Jean-Eudes Maurice,ht HAI,"FW,MF",8,3,0.0,0.0,2012-2013,/en/players/089436e6/Jean-Eudes-Maurice,089436e6,Le-Mans,375,4.2,0.0,0.0,100,47.0,12338,Le-Mans
+,Ali Bamba,ci CIV,DF,3,2,0.0,0.0,2012-2013,/en/players/51018c0d/Ali-Bamba,51018c0d,Le-Mans,246,2.7,0.0,0.0,100,35.0,14137,Le-Mans
+,Khaled Adénon,bj BEN,"DF,MF",2,2,0.0,0.0,2012-2013,/en/players/16714a62/Khaled-Adenon,16714a62,Le-Mans,180,2.0,0.0,0.0,100,132.0,12877,Le-Mans
+,Anthony Koura,bf BFA,FW,2,2,0.0,0.0,2012-2013,/en/players/b7618cc9/Anthony-Koura,b7618cc9,Le-Mans,135,1.5,0.0,0.0,100,62.0,14144,Le-Mans
+,Loïc Baal,gf GUF,MF,2,2,0.0,0.0,2012-2013,/en/players/a6b66df9/Loic-Baal,6b66df9,Le-Mans,113,1.3,0.0,0.0,100,159.0,14150,Le-Mans
+,﻿Cédric Mensah,tg TOG,GK,3,3,0.0,0.0,2017-2018,/en/players/de8a01b5/Cedric-Mensah,de8a01b5,Le-Mans,270.0,3.0,0.0,0.0,100,109.0,14151,Le-Mans
+,Alexandre Vardin,fr FRA,DF,3,3,0.0,0.0,2017-2018,/en/players/149c54e9/Alexandre-Vardin,149c54e9,Le-Mans,270.0,3.0,0.0,0.0,100,4.0,14168,Le-Mans
+,Thomas Dasquet,fr FRA,DF,3,2,0.0,0.0,2017-2018,/en/players/56228bb7/Thomas-Dasquet,56228bb7,Le-Mans,187.0,2.1,0.0,0.0,100,4.0,13764,Le-Mans
+,Cédric Tangatchy,fr FRA,FW,3,2,0.0,1.0,2017-2018,/en/players/d692d98a/Cedric-Tangatchy,d692d98a,Le-Mans,183.0,2.0,1.0,0.0,100,4.0,14152,Le-Mans
+,Moussa Doumbia,bf BFA,DF,2,2,0.0,0.0,2017-2018,/en/players/5818392d/Moussa-Doumbia,5818392d,Le-Mans,180.0,2.0,0.0,0.0,100,62.0,14153,Le-Mans
+,Tom Duponchelle,fr FRA,DF,2,2,0.0,0.0,2017-2018,/en/players/77b2880e/Tom-Duponchelle,77b2880e,Le-Mans,180.0,2.0,0.0,0.0,100,4.0,14154,Le-Mans
+,Hamza Hafidi,ma MAR,MF,2,2,0.0,1.0,2017-2018,/en/players/a05cc57a/Hamza-Hafidi,05cc57a,Le-Mans,180.0,2.0,1.0,0.0,100,26.0,14155,Le-Mans
+,Pierre Lemonnier,fr FRA,DF,2,2,0.0,0.0,2017-2018,/en/players/cebfdc61/Pierre-Lemonnier,cebfdc61,Le-Mans,180.0,2.0,1.0,0.0,100,4.0,12274,Le-Mans
+,Yoan Pivaty,mq MTQ,"FW,MF",2,2,0.0,0.0,2017-2018,/en/players/5697f2ad/Yoan-Pivaty,5697f2ad,Le-Mans,180.0,2.0,0.0,0.0,100,104.0,14156,Le-Mans
+,Stéphen Vincent,fr FRA,"FW,MF",2,2,0.0,0.0,2017-2018,/en/players/f0097fff/Stephen-Vincent,f0097fff,Le-Mans,179.0,2.0,0.0,0.0,100,4.0,14157,Le-Mans
+,Kevin Schur,fr FRA,FW,2,2,0.0,1.0,2017-2018,/en/players/edb2edfa/Kevin-Schur,db2edfa,Le-Mans,170.0,1.9,0.0,0.0,100,4.0,12948,Le-Mans
+,Mamadou Soro Nanga,ci CIV,FW,2,2,0.0,1.0,2017-2018,/en/players/81394b4e/Mamadou-Soro-Nanga,81394b4e,Le-Mans,169.0,1.9,0.0,0.0,100,35.0,14158,Le-Mans
+,Vincent Créhin,fr FRA,FW,2,2,0.0,1.0,2017-2018,/en/players/ce693189/Vincent-Crehin,ce693189,Le-Mans,161.0,1.8,0.0,0.0,100,4.0,14159,Le-Mans
+,Abdoul Kader Bamba,fr FRA,MF,2,1,1.0,0.0,2017-2018,/en/players/32f3d97e/Abdoul-Kader-Bamba,32f3d97e,Le-Mans,109.0,1.2,2.0,0.0,100,4.0,12599,Le-Mans
+,Romain Dupont,fr FRA,FW,2,1,0.0,1.0,2017-2018,/en/players/80c7abf9/Romain-Dupont,80c7abf9,Le-Mans,101.0,1.1,0.0,0.0,100,4.0,14160,Le-Mans
+,Arnaud Archimbaud,fr FRA,DF,2,1,0.0,0.0,2017-2018,/en/players/5f4d96f0/Arnaud-Archimbaud,5f4d96f0,Le-Mans,91.0,1.0,0.0,0.0,100,4.0,14161,Le-Mans
+,Arnaud Billeaux,fr FRA,MF,1,1,0.0,0.0,2017-2018,/en/players/ab49612f/Arnaud-Billeaux,b49612f,Le-Mans,90.0,1.0,1.0,0.0,100,4.0,14162,Le-Mans
+,Nicolas Suchet,fr FRA,MF,1,1,0.0,0.0,2017-2018,/en/players/71df2abb/Nicolas-Suchet,71df2abb,Le-Mans,90.0,1.0,1.0,0.0,100,4.0,14163,Le-Mans
+,Thibault Ferrand,fr FRA,GK,0,0,,,2017-2018,/en/players/98f61f92/Thibault-Ferrand,98f61f92,Le-Mans,,,,,100,4.0,14164,Le-Mans
+,Fernando Miranda,ao ANG,FW,0,0,,,2017-2018,/en/players/8d041df4/Fernando-Miranda,8d041df4,Le-Mans,,,,,100,48.0,90498,Le-Mans
+,﻿Jérémy Aymes,fr FRA,GK,1,1,0.0,0.0,2018-2019,/en/players/a5d28814/Jeremy-Aymes,5d28814,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,14165,Le-Mans
+,Rémy Boissier,fr FRA,MF,1,1,0.0,0.0,2018-2019,/en/players/9d38f20c/Remy-Boissier,9d38f20c,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,14166,Le-Mans
+,Raphaël Calvet,fr FRA,DF,1,1,0.0,0.0,2018-2019,/en/players/2eb9e99e/Raphael-Calvet,2eb9e99e,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,12036,Le-Mans
+,Stéphane Diarra,fr FRA,MF,1,1,0.0,1.0,2018-2019,/en/players/29939a1d/Stephane-Diarra,29939a1d,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,14167,Le-Mans
+,Pierre Lemonnier,fr FRA,DF,1,1,0.0,0.0,2018-2019,/en/players/cebfdc61/Pierre-Lemonnier,cebfdc61,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,12274,Le-Mans
+,Mamadou Soro Nanga,ci CIV,FW,1,1,0.0,0.0,2018-2019,/en/players/81394b4e/Mamadou-Soro-Nanga,81394b4e,Le-Mans,90.0,1.0,0.0,0.0,100,35.0,14158,Le-Mans
+,Nicolas Suchet,fr FRA,MF,1,1,0.0,0.0,2018-2019,/en/players/71df2abb/Nicolas-Suchet,71df2abb,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,14163,Le-Mans
+,Alexandre Vardin,fr FRA,DF,1,1,0.0,0.0,2018-2019,/en/players/149c54e9/Alexandre-Vardin,149c54e9,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,14168,Le-Mans
+,Stéphen Vincent,fr FRA,"FW,MF",1,1,0.0,0.0,2018-2019,/en/players/f0097fff/Stephen-Vincent,f0097fff,Le-Mans,90.0,1.0,0.0,0.0,100,4.0,14157,Le-Mans
+,Hamza Hafidi,ma MAR,MF,1,1,0.0,0.0,2018-2019,/en/players/a05cc57a/Hamza-Hafidi,05cc57a,Le-Mans,76.0,0.8,0.0,0.0,100,26.0,14155,Le-Mans
+,Ali Keïta,ci CIV,DF,1,1,0.0,0.0,2018-2019,/en/players/eb195f4e/Ali-Keita,b195f4e,Le-Mans,76.0,0.8,0.0,0.0,100,35.0,14169,Le-Mans
+,Georges Gope-Fenepej,nc NCL,FW,1,0,0.0,0.0,2018-2019,/en/players/8730ed6a/Georges-Gope-Fenepej,8730ed6a,Le-Mans,14.0,0.2,0.0,0.0,100,161.0,13759,Le-Mans
+,Romain Montiel,fr FRA,MF,1,0,0.0,0.0,2018-2019,/en/players/ce1030a9/Romain-Montiel,ce1030a9,Le-Mans,14.0,0.2,0.0,0.0,100,4.0,12074,Le-Mans
+,Ryan Bidounga,cg CGO,DF,0,0,,,2018-2019,/en/players/f39111a1/Ryan-Bidounga,f39111a1,Le-Mans,,,,,100,80.0,14170,Le-Mans
+,Thomas Dasquet,fr FRA,DF,0,0,,,2018-2019,/en/players/56228bb7/Thomas-Dasquet,56228bb7,Le-Mans,,,,,100,4.0,13764,Le-Mans
+,Thibault Ferrand,fr FRA,GK,0,0,,,2018-2019,/en/players/98f61f92/Thibault-Ferrand,98f61f92,Le-Mans,,,,,100,4.0,14164,Le-Mans
+,﻿Pierre Lemonnier,fr FRA,DF,26,26,1.0,0.0,2019-2020,/en/players/cebfdc61/Pierre-Lemonnier,cebfdc61,Le-Mans,"2,204",24.5,5.0,0.0,100,4.0,12274,Le-Mans
+,Yann Boe-Kane,fr FRA,MF,26,25,0.0,2.0,2019-2020,/en/players/b58b34fe/Yann-Boe-Kane,b58b34fe,Le-Mans,"2,178",24.2,8.0,0.0,100,4.0,12045,Le-Mans
+,Bevic Moussiti-Oko,cg CGO,FW,24,22,4.0,3.0,2019-2020,/en/players/71d10572/Bevic-Moussiti-Oko,71d10572,Le-Mans,"1,946",21.6,4.0,0.0,100,80.0,13513,Le-Mans
+,Pierre Patron,fr FRA,GK,16,16,0.0,0.0,2019-2020,/en/players/0c7db284/Pierre-Patron,0c7db284,Le-Mans,"1,440",16.0,0.0,0.0,100,4.0,14171,Le-Mans
+,Guessouma Fofana,mr MTN,MF,16,16,1.0,1.0,2019-2020,/en/players/9dafff2a/Guessouma-Fofana,9dafff2a,Le-Mans,"1,306",14.5,5.0,0.0,100,94.0,12260,Le-Mans
+,Stéphane Diarra,fr FRA,"MF,FW",23,15,2.0,3.0,2019-2020,/en/players/29939a1d/Stephane-Diarra,29939a1d,Le-Mans,"1,409",15.7,2.0,0.0,100,4.0,14167,Le-Mans
+,Alois Confais,fr FRA,"DF,MF",20,15,0.0,1.0,2019-2020,/en/players/535b0343/Alois-Confais,535b0343,Le-Mans,"1,408",15.6,4.0,0.0,100,4.0,13767,Le-Mans
+,Enzo Ebosse,cm CMR,DF,16,15,2.0,0.0,2019-2020,/en/players/9ba7b4fa/Enzo-Ebosse,9ba7b4fa,Le-Mans,"1,296",14.4,3.0,1.0,100,36.0,12402,Le-Mans
+,Vincent Créhin,fr FRA,FW,25,14,3.0,8.0,2019-2020,/en/players/ce693189/Vincent-Crehin,ce693189,Le-Mans,"1,502",16.7,2.0,0.0,100,4.0,14159,Le-Mans
+,Tom Duponchelle,fr FRA,DF,17,14,1.0,0.0,2019-2020,/en/players/77b2880e/Tom-Duponchelle,77b2880e,Le-Mans,"1,331",14.8,3.0,0.0,100,4.0,14154,Le-Mans
+,Hamza Hafidi,ma MAR,"MF,FW",15,10,0.0,0.0,2019-2020,/en/players/a05cc57a/Hamza-Hafidi,05cc57a,Le-Mans,951,10.6,3.0,0.0,100,26.0,14155,Le-Mans
+,Aboubakary Kanté,gm GAM,"FW,MF",18,10,0.0,4.0,2019-2020,/en/players/188537d3/Aboubakary-Kante,188537d3,Le-Mans,940,10.4,2.0,0.0,100,92.0,14172,Le-Mans
+,Yrondu Musavu-King,ga GAB,DF,11,10,0.0,0.0,2019-2020,/en/players/c9cfd7e8/Yrondu-Musavu-King,c9cfd7e8,Le-Mans,923,10.3,2.0,0.0,100,69.0,14057,Le-Mans
+,Alexandre Vardin,fr FRA,DF,13,10,0.0,0.0,2019-2020,/en/players/149c54e9/Alexandre-Vardin,149c54e9,Le-Mans,896,10.0,0.0,1.0,100,4.0,14168,Le-Mans
+,Thomas Dasquet,fr FRA,DF,10,9,0.0,0.0,2019-2020,/en/players/56228bb7/Thomas-Dasquet,56228bb7,Le-Mans,851,9.5,2.0,0.0,100,4.0,13764,Le-Mans
+,Rémy Boissier,fr FRA,MF,11,9,0.0,0.0,2019-2020,/en/players/9d38f20c/Remy-Boissier,9d38f20c,Le-Mans,782,8.7,1.0,1.0,100,4.0,14166,Le-Mans
+,Youssef Maziz,fr FRA,MF,13,9,2.0,3.0,2019-2020,/en/players/514270e8/Youssef-Maziz,514270e8,Le-Mans,772,8.6,2.0,0.0,100,4.0,13946,Le-Mans
+,Yohann Thuram-Ulien,fr FRA,GK,8,8,0.0,0.0,2019-2020,/en/players/d3e78488/Yohann-Thuram-Ulien,d3e78488,Le-Mans,720,8.0,0.0,0.0,100,4.0,7447,Le-Mans
+,Harrison Manzala,cd COD,"FW,MF",12,8,1.0,1.0,2019-2020,/en/players/392d98fc/Harrison-Manzala,392d98fc,Le-Mans,700,7.8,0.0,0.0,100,50.0,12974,Le-Mans
+,Jérémy Choplin,fr FRA,DF,7,7,0.0,0.0,2019-2020,/en/players/d6745397/Jeremy-Choplin,d6745397,Le-Mans,630,7.0,2.0,0.0,100,4.0,12898,Le-Mans
+,Lorenzo Rajot,fr FRA,"MF,FW",7,7,0.0,0.0,2019-2020,/en/players/44b0ce2c/Lorenzo-Rajot,44b0ce2c,Le-Mans,603,6.7,0.0,0.0,100,4.0,14173,Le-Mans
+,Stéphen Vincent,fr FRA,"MF,DF",12,6,1.0,0.0,2019-2020,/en/players/f0097fff/Stephen-Vincent,f0097fff,Le-Mans,542,6.0,0.0,0.0,100,4.0,14157,Le-Mans
+,Georges Gope-Fenepej,nc NCL,"FW,MF",12,6,0.0,3.0,2019-2020,/en/players/8730ed6a/Georges-Gope-Fenepej,8730ed6a,Le-Mans,482,5.4,2.0,0.0,100,161.0,13759,Le-Mans
+,Freddie Veseli,al ALB,DF,5,5,0.0,0.0,2019-2020,/en/players/d541e703/Freddie-Veseli,d541e703,Le-Mans,450,5.0,0.0,0.0,100,78.0,14174,Le-Mans
+,Yanis Merdji,dz ALG,FW,7,5,0.0,0.0,2019-2020,/en/players/f083f3a6/Yanis-Merdji,f083f3a6,Le-Mans,446,5.0,2.0,0.0,100,37.0,12116,Le-Mans
+,Jérémy Aymes,fr FRA,GK,4,4,0.0,0.0,2019-2020,/en/players/a5d28814/Jeremy-Aymes,5d28814,Le-Mans,360,4.0,0.0,0.0,100,4.0,14165,Le-Mans
+,Dorian Lévêque,fr FRA,DF,4,4,0.0,0.0,2019-2020,/en/players/1263fecd/Dorian-Leveque,1263fecd,Le-Mans,312,3.5,2.0,1.0,100,4.0,12189,Le-Mans
+,Franck Julienne,fr FRA,FW,10,3,0.0,0.0,2019-2020,/en/players/f19b2a94/Franck-Julienne,f19b2a94,Le-Mans,266,3.0,0.0,0.0,100,4.0,13568,Le-Mans
+,Alexis Gouletquer,fr FRA,FW,1,0,0.0,0.0,2019-2020,/en/players/d082cea5/Alexis-Gouletquer,d082cea5,Le-Mans,15,0.2,0.0,0.0,100,4.0,14175,Le-Mans
+,Diaby-Kandjoura Camara,gn GUI,GK,0,0,,,2019-2020,/en/players/720298e0/Diaby-Kandjoura-Camara,720298e0,Le-Mans,,,,,100,74.0,14176,Le-Mans
+,Corentin Guiet,fr FRA,DF,0,0,,,2019-2020,/en/players/96b92a94/Corentin-Guiet,96b92a94,Le-Mans,,,,,100,4.0,14177,Le-Mans
+,Thibault Rambaud,fr FRA,FW,0,0,,,2019-2020,/en/players/fb19069a/Thibault-Rambaud,fb19069a,Le-Mans,,,,,100,4.0,14178,Le-Mans
+,﻿Maxence Derrien,fr FRA,"DF,MF",2,2,0.0,0.0,2021-2022,/en/players/87a319b0/Maxence-Derrien,87a319b0,Le-Mans,210.0,2.3,0.0,0.0,100,4.0,14179,Le-Mans
+,Hugo Vargas Ríos,fr FRA,DF,2,2,0.0,0.0,2021-2022,/en/players/1e3c73f5/Hugo-Vargas-Rios,1e3c73f5,Le-Mans,210.0,2.3,1.0,0.0,100,4.0,14180,Le-Mans
+,Makan Aiko,fr FRA,FW,2,2,0.0,0.0,2021-2022,/en/players/ebb157c8/Makan-Aiko,bb157c8,Le-Mans,195.0,2.2,0.0,0.0,100,4.0,14181,Le-Mans
+,Félix Tomi,fr FRA,MF,2,2,0.0,0.0,2021-2022,/en/players/5dc03fbf/Felix-Tomi,5dc03fbf,Le-Mans,195.0,2.2,1.0,0.0,100,4.0,13495,Le-Mans
+,Alexandre Lauray,fr FRA,DF,2,2,0.0,0.0,2021-2022,/en/players/ae6941ec/Alexandre-Lauray,6941ec,Le-Mans,185.0,2.1,1.0,0.0,100,4.0,11749,Le-Mans
+,Julio Donisa,mg MAD,FW,2,2,0.0,1.0,2021-2022,/en/players/73117c33/Julio-Donisa,73117c33,Le-Mans,157.0,1.7,0.0,0.0,100,155.0,14182,Le-Mans
+,Paul Lehoux,fr FRA,MF,2,1,0.0,0.0,2021-2022,/en/players/bb22de3a/Paul-Lehoux,bb22de3a,Le-Mans,143.0,1.6,0.0,0.0,100,4.0,14183,Le-Mans
+,Issouf Macalou,ci CIV,FW,2,1,0.0,4.0,2021-2022,/en/players/14a7f931/Issouf-Macalou,14a7f931,Le-Mans,141.0,1.6,0.0,0.0,100,35.0,14184,Le-Mans
+,Ibrahim Cissé,ci CIV,DF,1,1,0.0,0.0,2021-2022,/en/players/9cebd6ce/Ibrahim-Cisse,9cebd6ce,Le-Mans,120.0,1.3,1.0,0.0,100,35.0,12736,Le-Mans
+,Ewan Hatfout,fr FRA,GK,1,1,0.0,0.0,2021-2022,/en/players/45071d80/Ewan-Hatfout,45071d80,Le-Mans,120.0,1.3,0.0,0.0,100,4.0,14185,Le-Mans
+,Amadou Dia Ndiaye,sn SEN,FW,2,1,0.0,0.0,2021-2022,/en/players/1f0ea0a6/Amadou-Dia-Ndiaye,1f0ea0a6,Le-Mans,103.0,1.1,0.0,0.0,100,34.0,11940,Le-Mans
+,Mickael Bod,gf GUF,GK,1,1,0.0,0.0,2021-2022,/en/players/91fe839e/Mickael-Bod,91fe839e,Le-Mans,90.0,1.0,0.0,0.0,100,159.0,14186,Le-Mans
+,Ryan Ebene Talla,cm CMR,DF,1,1,0.0,0.0,2021-2022,/en/players/657b16d3/Ryan-Ebene-Talla,657b16d3,Le-Mans,90.0,1.0,0.0,0.0,100,36.0,14187,Le-Mans
+,Victor Glaentzlin,fr FRA,FW,1,1,0.0,0.0,2021-2022,/en/players/39fd0e2d/Victor-Glaentzlin,39fd0e2d,Le-Mans,77.0,0.9,1.0,0.0,100,4.0,11932,Le-Mans
+,Julien Bègue,re REU,MF,2,1,0.0,0.0,2021-2022,/en/players/3e06c057/Julien-Begue,3e06c057,Le-Mans,69.0,0.8,0.0,0.0,100,157.0,12211,Le-Mans
+,Loïc Damour,fr FRA,MF,1,1,0.0,0.0,2021-2022,/en/players/074d8166/Loic-Damour,074d8166,Le-Mans,62.0,0.7,2.0,1.0,100,4.0,10829,Le-Mans
+,Alexis Gouletquer,fr FRA,FW,1,0,0.0,0.0,2021-2022,/en/players/d082cea5/Alexis-Gouletquer,d082cea5,Le-Mans,30.0,0.3,0.0,0.0,100,4.0,14175,Le-Mans
+,Patrick Douglas,ht HAI,DF,1,0,0.0,0.0,2021-2022,/en/players/02f6ceab/Patrick-Douglas,02f6ceab,Le-Mans,25.0,0.3,0.0,0.0,100,47.0,90499,Le-Mans
+,Boubakar Camara,fr FRA,FW,1,0,0.0,0.0,2021-2022,/en/players/71016ee1/Boubakar-Camara,71016ee1,Le-Mans,15.0,0.2,0.0,0.0,100,4.0,12444,Le-Mans
+,Ibréhima Coulibaly,mr MTN,MF,1,0,0.0,0.0,2021-2022,/en/players/68c0a0f0/Ibrehima-Coulibaly,68c0a0f0,Le-Mans,15.0,0.2,0.0,0.0,100,94.0,14188,Le-Mans
+,Durel Avounou,cg CGO,MF,0,0,,,2021-2022,/en/players/833a91a1/Durel-Avounou,833a91a1,Le-Mans,,,,,100,80.0,14189,Le-Mans
+,Evan Brochet,fr FRA,GK,0,0,,,2021-2022,/en/players/0fc5fde1/Evan-Brochet,0fc5fde1,Le-Mans,,,,,100,4.0,14190,Le-Mans
+,Pierre Patron,fr FRA,GK,0,0,,,2021-2022,/en/players/0c7db284/Pierre-Patron,0c7db284,Le-Mans,,,,,100,4.0,14171,Le-Mans

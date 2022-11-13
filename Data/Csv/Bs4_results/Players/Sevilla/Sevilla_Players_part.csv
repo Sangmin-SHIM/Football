@@ -1,202 +1,263 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-1776.0,David Castedo,/en/players/d39ba62e/David-Castedo,David-Castedo,d39ba62e,es ESP,DF,Sevilla
-1777.0,Javier Casquero,/en/players/ab6daa16/Javier-Casquero,Javier-Casquero,b6daa16,es ESP,MF,Sevilla
-1778.0,Pablo Alfaro,/en/players/e9654a31/Pablo-Alfaro,Pablo-Alfaro,9654a31,es ESP,DF,Sevilla
-1779.0,Javi Navarro,/en/players/df733521/Javi-Navarro,Javi-Navarro,df733521,es ESP,"DF,MF",Sevilla
-1780.0,Gerardo Torrado,/en/players/c966c9a3/Gerardo-Torrado,Gerardo-Torrado,c966c9a3,mx MEX,MF,Sevilla
-1781.0,Fredi Lobeiras,/en/players/9e85ab41/Fredi-Lobeiras,Fredi-Lobei,9e85ab41,es ESP,MF,Sevilla
-1782.0,Antoñito,/en/players/822723a6/Antonito,Antonito,822723a6,es ESP,FW,Sevilla
-1783.0,Juan Redondo,/en/players/c2bed898/Juan-Redondo,Juan-Redondo,c2bed898,es ESP,DF,Sevilla
-1784.0,Zoran Njeguš,/en/players/cd70ea39/Zoran-Njegus,Zoran-Njegu,cd70ea39,rs SRB,"DF,MF",Sevilla
-1785.0,Mariano Toedtli,/en/players/dc1fd8a8/Mariano-Toedtli,Mariano-Toedtli,dc1fd8a8,ar ARG,FW,Sevilla
-1786.0,Óscar,/en/players/87631dde/Oscar,Osc,87631dde,es ESP,DF,Sevilla
-1787.0,Víctor Salas,/en/players/67c31cb7/Victor-Salas,Victor-S,67c31cb7,es ESP,MF,Sevilla
-1788.0,Vinny Samways,/en/players/9dc41793/Vinny-Samways,Vinny-Samw,9dc41793,eng ENG,MF,Sevilla
-1789.0,Francisco Lama,/en/players/39e2db59/Francisco-Lama,Francisco-Lam,39e2db59,es ESP,MF,Sevilla
-1790.0,Moisés,/en/players/e3415193/Moises,Moi,3415193,es ESP,FW,Sevilla
-1791.0,Alfonso Vera,/en/players/d0b31ce2/Alfonso-Vera,Alfonso-V,d0b31ce2,es ESP,MF,Sevilla
-1792.0,Juanmi Gelabert,/en/players/2603ea8e/Juanmi-Gelabert,Juanmi-Gelabert,2603ea8e,es ESP,DF,Sevilla
-1793.0,Tomás Hervás,/en/players/9f1f6292/Tomas-Hervas,Tomas-Herv,9f1f6292,es ESP,MF,Sevilla
-1794.0,Nikos Machlas,/en/players/bae5e837/Nikos-Machlas,Nikos-Mach,bae5e837,gr GRE,"FW,MF",Sevilla
-1795.0,David Arteaga,/en/players/86d9a411/David-Arteaga,David-Arteag,86d9a411,es ESP,MF,Sevilla
-1796.0,Juan Carlos Caballero,/en/players/6b8a75b9/Juan-Carlos-Caballero,Juan-Carlos-Caballero,6b8a75b9,es ESP,GK,Sevilla
-1797.0,José Miguel Prieto,/en/players/0f1e8b40/Jose-Miguel-Prieto,Jose-Miguel-Prieto,0f1e8b40,es ESP,DF,Sevilla
-1798.0,Inti Podestá,/en/players/bcd3b2a1/Inti-Podesta,Inti-Podest,bcd3b2a1,uy URU,MF,Sevilla
-1799.0,Darío Silva,/en/players/1efa0295/Dario-Silva,Dario-Silv,1efa0295,uy URU,FW,Sevilla
-1800.0,Antonio López,/en/players/1fdd5ff7/Antonio-Lopez,Antonio-Lopez,1fdd5ff7,es ESP,MF,Sevilla
-1801.0,Germán Hornos,/en/players/232366ec/German-Hornos,German-Horno,232366ec,uy URU,FW,Sevilla
-1802.0,Alejandro Marañón,/en/players/9be8422d/Alejandro-Maranon,Alejandro-Marano,9be8422d,es ESP,DF,Sevilla
-1803.0,Jesús Navas,/en/players/3f10bd22/Jesus-Navas,Jesus-Nav,3f10bd22,es ESP,"DF,MF",Sevilla
-1804.0,Luis Gil Torres,/en/players/3541486a/Luis-Gil-Torres,Luis-Gil-To,3541486a,es ESP,FW,Sevilla
-1805.0,Antonio Puerta,/en/players/a6d37bd0/Antonio-Puerta,Antonio-Puert,6d37bd0,es ESP,"DF,MF",Sevilla
-1806.0,Juanjo Bezares,/en/players/6d8e0587/Juanjo-Bezares,Juanjo-Bez,6d8e0587,es ESP,MF,Sevilla
-1807.0,Marco Navas,/en/players/194ed492/Marco-Navas,Marco-Nav,194ed492,es ESP,MF,Sevilla
-1808.0,Federico Magallanes,/en/players/d75da374/Federico-Magallanes,Federico-Mag,d75da374,uy URU,"FW,MF",Sevilla
-1809.0,Renato,/en/players/dc4d83fe/Renato,Renato,dc4d83fe,br BRA,MF,Sevilla
-1810.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Sevilla
-1811.0,Ariza Makukula,/en/players/62ce8bd7/Ariza-Makukula,Ariza-Makuku,62ce8bd7,pt POR,FW,Sevilla
-1812.0,Pablo Ruiz,/en/players/9fb57e68/Pablo-Ruiz,Pablo-Ruiz,9fb57e68,es ESP,DF,Sevilla
-1813.0,David Prieto,/en/players/aee8f24e/David-Prieto,David-Prieto,8f24e,es ESP,"DF,MF",Sevilla
-1814.0,Kepa Blanco,/en/players/e021d831/Kepa-Blanco,Kepa-Blanco,021d831,es ESP,FW,Sevilla
-1815.0,Diego Capel,/en/players/4933a2f2/Diego-Capel,Diego-C,4933a2f2,es ESP,MF,Sevilla
-1816.0,Frédéric Kanouté,/en/players/1a24d5b6/Frederic-Kanoute,Frederic-Kanout,1a24d5b6,ml MLI,FW,Sevilla
-1817.0,Enzo Maresca,/en/players/1a899d99/Enzo-Maresca,Enzo-Maresc,1a899d99,it ITA,MF,Sevilla
-1818.0,Ivica Dragutinović,/en/players/7ab82833/Ivica-Dragutinovic,Ivica-Dragutinovic,7ab82833,rs SRB,DF,Sevilla
-1819.0,Luís Fabiano,/en/players/eaaeef7b/Luis-Fabiano,Luis-Fabiano,f7b,br BRA,FW,Sevilla
-1820.0,Julien Escudé,/en/players/6aa5bd41/Julien-Escude,Julien-Escud,6aa5bd41,fr FRA,DF,Sevilla
-1821.0,José Ángel Crespo,/en/players/8ec4c2f7/Jose-Angel-Crespo,Jose-Angel-Crespo,8ec4c2f7,es ESP,DF,Sevilla
-1822.0,Bruno Herrero Arias,/en/players/acd429fc/Bruno-Herrero-Arias,Bruno-Herrero-Ari,cd429fc,es ESP,MF,Sevilla
-1823.0,Christian Poulsen,/en/players/4b83b362/Christian-Poulsen,Christian-Pou,4b83b362,dk DEN,MF,Sevilla
-1824.0,Aleksandr Kerzhakov,/en/players/e8cb6c66/Aleksandr-Kerzhakov,Aleksandr-Kerzhakov,8cb6c66,ru RUS,FW,Sevilla
-1825.0,Andreas Hinkel,/en/players/9d56817e/Andreas-Hinkel,Andreas-Hink,9d56817e,de GER,DF,Sevilla
-1826.0,Javier Chevantón,/en/players/5824ef34/Javier-Chevanton,Javier-Chevanto,5824ef34,uy URU,FW,Sevilla
-1827.0,David Cobeño,/en/players/df7b0840/David-Cobeno,David-Cobeno,df7b0840,es ESP,GK,Sevilla
-1828.0,Duda,/en/players/13d41642/Duda,Dud,13d41642,pt POR,"DF,FW",Sevilla
-1829.0,Aquivaldo Mosquera,/en/players/e8624833/Aquivaldo-Mosquera,Aquivaldo-Mosqu,8624833,co COL,DF,Sevilla
-1830.0,Federico Fazio,/en/players/4e358a2d/Federico-Fazio,Federico-Fazio,4e358a2d,ar ARG,DF,Sevilla
-1831.0,Arouna Koné,/en/players/f9a72ca4/Arouna-Kone,Arouna-Ko,f9a72ca4,ci CIV,FW,Sevilla
-1832.0,Morgan De Sanctis,/en/players/83228343/Morgan-De-Sanctis,Morgan-De-Sancti,83228343,it ITA,GK,Sevilla
-1833.0,Khalid Boulahrouz,/en/players/9ccceabb/Khalid-Boulahrouz,Khalid-Boulahrouz,9ccceabb,nl NED,DF,Sevilla
-1834.0,Tom De Mul,/en/players/c668a080/Tom-De-Mul,Tom-De-Mu,c668a080,be BEL,"FW,MF",Sevilla
-1835.0,Lolo,/en/players/31c71140/Lolo,Lolo,31c71140,es ESP,"DF,MF",Sevilla
-1836.0,Juanjo Expósito,/en/players/f0a0b756/Juanjo-Exposito,Juanjo-Exposito,f0a0b756,es ESP,FW,Sevilla
-1837.0,José Manuel Casado,/en/players/d0b6d20e/Jose-Manuel-Casado,Jose-Manuel-Casado,d0b6d20e,es ESP,DF,Sevilla
-1838.0,Sébastien Squillaci,/en/players/f7ec06db/Sebastien-Squillaci,Sebastien-Squillaci,f7ec06db,fr FRA,DF,Sevilla
-1839.0,Romaric,/en/players/9bb5c5e0/Romaric,Romaric,9bb5c5e0,ci CIV,MF,Sevilla
-1840.0,Abdoulay Konko,/en/players/43857861/Abdoulay-Konko,Abdoulay-Konko,43857861,fr FRA,"DF,MF",Sevilla
-1841.0,Diego Perotti,/en/players/a40d5a0c/Diego-Perotti,Diego-Perotti,40d5a0c,ar ARG,"FW,MF",Sevilla
-1842.0,Lautaro Acosta,/en/players/2a3af4d5/Lautaro-Acosta,Lautaro-Acost,2a3af4d5,ar ARG,"FW,MF",Sevilla
-1843.0,Emiliano Armenteros,/en/players/66475fb9/Emiliano-Armenteros,Emiliano-Armentero,66475fb9,ar ARG,MF,Sevilla
-1844.0,Teemu Pukki,/en/players/0745b37d/Teemu-Pukki,Teemu-Pukki,0745b37d,fi FIN,FW,Sevilla
-1845.0,Fernando Rodríguez,/en/players/31a98017/Fernando-Rodriguez,Fernando-Rodriguez,31a98017,es ESP,FW,Sevilla
-1846.0,José Carlos,/en/players/6738f3c6/Jose-Carlos,Jose-Carlo,6738f3c6,es ESP,"FW,MF",Sevilla
-1847.0,Didier Zokora,/en/players/23921ca7/Didier-Zokora,Didier-Zoko,23921ca7,ci CIV,MF,Sevilla
-1848.0,Sergio Sánchez,/en/players/83a83b0a/Sergio-Sanchez,Sergio-Sanchez,83a83b0a,es ESP,DF,Sevilla
-1849.0,Cala,/en/players/fe05804b/Cala,C,fe05804b,es ESP,DF,Sevilla
-1850.0,Marc Valiente,/en/players/fd333066/Marc-Valiente,Marc-Valient,fd333066,es ESP,DF,Sevilla
-1851.0,Enrique Carreño,/en/players/d5f7d1ea/Enrique-Carreno,Enrique-Carreno,d5f7d1ea,es ESP,FW,Sevilla
-1852.0,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9,es ESP,FW,Sevilla
-1853.0,Mouhamadou Dabo,/en/players/78853b7b/Mouhamadou-Dabo,Mouhamadou-Dabo,78853b7b,fr FRA,DF,Sevilla
-1854.0,Gary Medel,/en/players/563a68ad/Gary-Medel,Gary-Med,563a68ad,cl CHI,"DF,MF",Sevilla
-1855.0,Luca Cigarini,/en/players/ae64d449/Luca-Cigarini,Luca-Cigarini,64d449,it ITA,MF,Sevilla
-1856.0,Tiberio Guarente,/en/players/f5b9b859/Tiberio-Guarente,Tiberio-Guarent,f5b9b859,it ITA,MF,Sevilla
-1857.0,Bernardo Espinosa,/en/players/4242011c/Bernardo-Espinosa,Bernardo-Espino,4242011c,co COL,DF,Sevilla
-1858.0,Piotr Trochowski,/en/players/6cae08d5/Piotr-Trochowski,Piotr-Trochowski,6cae08d5,de GER,MF,Sevilla
-1859.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Sevilla
-1860.0,Coke,/en/players/6d8f8441/Coke,Cok,6d8f8441,es ESP,DF,Sevilla
-1861.0,Emir Spahić,/en/players/009633c8/Emir-Spahic,Emir-Spahic,009633c8,ba BIH,DF,Sevilla
-1862.0,José Campaña,/en/players/61220da2/Jose-Campana,Jose-Cam,61220da2,es ESP,MF,Sevilla
-1863.0,Deivid,/en/players/c1c76662/Deivid,Deivid,c1c76662,es ESP,"DF,MF",Sevilla
-1864.0,Baba Diawara,/en/players/09b7100a/Baba-Diawara,Baba-Diaw,09b7100a,sn SEN,FW,Sevilla
-1865.0,Alberto Moreno,/en/players/11b9265b/Alberto-Moreno,Alberto-Moreno,11b9265b,es ESP,"DF,MF",Sevilla
-1866.0,Hiroshi Ibusuki,/en/players/715bdbe9/Hiroshi-Ibusuki,Hiroshi-Ibusuki,715bdbe9,jp JPN,FW,Sevilla
-1867.0,Cicinho,/en/players/cb51774a/Cicinho,Cicinho,cb51774a,br BRA,DF,Sevilla
-1868.0,Beto,/en/players/3b4941e4/Beto,Beto,3b4941e4,pt POR,GK,Sevilla
-1869.0,Javier Hervás,/en/players/04b8d5c8/Javier-Hervas,Javier-Herv,04b8d5c8,es ESP,MF,Sevilla
-1870.0,Julián Cuesta,/en/players/c7b52b90/Julian-Cuesta,Julian-Cuest,c7b52b90,es ESP,GK,Sevilla
-1871.0,Miroslav Stevanović,/en/players/73d430c6/Miroslav-Stevanovic,Miroslav-Stevanovic,73d430c6,ba BIH,"FW,MF",Sevilla
-1872.0,Álex Rubio,/en/players/c8c36c4f/Alex-Rubio,Alex-Rubio,c8c36c4f,es ESP,"FW,MF",Sevilla
-1873.0,Israel Puerto,/en/players/c657b98d/Israel-Puerto,Israel-Puerto,c657b98d,es ESP,DF,Sevilla
-1874.0,Carlos Bacca,/en/players/09a9e921/Carlos-Bacca,Carlos-Bacc,09a9e921,co COL,FW,Sevilla
-1875.0,Vitolo,/en/players/db750822/Vitolo,Vitolo,db750822,es ESP,"FW,MF",Sevilla
-1876.0,Vicente Iborra,/en/players/ad1ffcfd/Vicente-Iborra,Vicente-Ibo,d1ffcfd,es ESP,MF,Sevilla
-1877.0,Nicolás Pareja,/en/players/a92669f6/Nicolas-Pareja,Nicolas-Parej,92669f6,ar ARG,DF,Sevilla
-1878.0,Daniel Carriço,/en/players/e1deea75/Daniel-Carrico,Daniel-Carrico,1deea75,pt POR,"DF,MF",Sevilla
-1879.0,Diogo Figueiras,/en/players/3e587547/Diogo-Figueiras,Diogo-Figuei,3e587547,pt POR,"DF,MF",Sevilla
-1880.0,Stéphane Mbia,/en/players/c39d9657/Stephane-Mbia,Stephane-Mbi,c39d9657,cm CMR,"DF,MF",Sevilla
-1881.0,Jairo Samperio,/en/players/c0a0c18f/Jairo-Samperio,Jairo-Samperio,c0a0c18f,es ESP,"FW,MF",Sevilla
-1882.0,Marko Marin,/en/players/a022e78c/Marko-Marin,Marko-Mari,022e78c,de GER,"FW,MF",Sevilla
-1883.0,Sebastián Cristóforo,/en/players/3c05c659/Sebastian-Cristoforo,Sebastian-Cristoforo,3c05c659,uy URU,MF,Sevilla
-1884.0,Antonio Cotán,/en/players/d92dd30e/Antonio-Cotan,Antonio-Cot,d92dd30e,es ESP,MF,Sevilla
-1885.0,Moisés Delgado,/en/players/248c409d/Moises-Delgado,Moises-Delgado,248c409d,es ESP,DF,Sevilla
-1886.0,Mode,/en/players/17b4ea83/Mode,Mod,17b4ea83,es ESP,DF,Sevilla
-1887.0,Raul Rusescu,/en/players/7aa898b3/Raul-Rusescu,Raul-Rusescu,7aa898b3,ro ROU,"FW,MF",Sevilla
-1888.0,﻿Grzegorz Krychowiak,/en/players/580d52dd/Grzegorz-Krychowiak,Grzegorz-Krychowiak,580d52dd,pl POL,MF,Sevilla
-1889.0,Benoît Trémoulinas,/en/players/37a24709/Benoit-Tremoulinas,Benoit-Tremouli,37a24709,fr FRA,DF,Sevilla
-1890.0,Timothée Kolodziejczak,/en/players/ab096c6f/Timothee-Kolodziejczak,Timothee-Kolodziejczak,b096c6f,fr FRA,DF,Sevilla
-1891.0,Mariano Barbosa,/en/players/aad4f74f/Mariano-Barbosa,Mariano-Barbo,d4f74f,ar ARG,GK,Sevilla
-1892.0,Juan Muñoz,/en/players/25018d62/Juan-Munoz,Juan-Munoz,25018d62,es ESP,"FW,MF",Sevilla
-1893.0,Luismi,/en/players/c2cfbfc9/Luismi,Luismi,c2cfbfc9,es ESP,"DF,MF",Sevilla
-1894.0,David Soria,/en/players/8f8c6934/David-Soria,David-Sori,8f8c6934,es ESP,GK,Sevilla
-1895.0,Steven Nzonzi,/en/players/c7526c18/Steven-Nzonzi,Steven-Nzonzi,c7526c18,fr FRA,MF,Sevilla
-1896.0,Mariano,/en/players/e26f559f/Mariano,Mariano,26f559f,br BRA,DF,Sevilla
-1897.0,Yevhen Konoplyanka,/en/players/d9a5d930/Yevhen-Konoplyanka,Yevhen-Konoplyank,d9a5d930,ua UKR,MF,Sevilla
-1898.0,Sergio Escudero,/en/players/b0616e3d/Sergio-Escudero,Sergio-Escudero,b0616e3d,es ESP,"DF,MF",Sevilla
-1899.0,Marco Andreolli,/en/players/13d820de/Marco-Andreolli,Marco-Andreolli,13d820de,it ITA,DF,Sevilla
-1900.0,Ciro Immobile,/en/players/4431aed2/Ciro-Immobile,Ciro-Immobi,4431aed2,it ITA,FW,Sevilla
-1901.0,Curro,/en/players/f9a225f5/Curro,Curro,f9a225f5,es ESP,MF,Sevilla
-1902.0,Diego González,/en/players/4ac7608e/Diego-Gonzalez,Diego-Gonzalez,4ac7608e,es ESP,DF,Sevilla
-1903.0,David Carmona,/en/players/ed922d43/David-Carmona,David-Carmo,d922d43,es ESP,DF,Sevilla
-1904.0,Jose Matos,/en/players/19fdd28f/Jose-Matos,Jose-Mato,19fdd28f,es ESP,MF,Sevilla
-1905.0,Ivi,/en/players/d2fa73e7/Ivi,Ivi,d2fa73e7,es ESP,"FW,MF",Sevilla
-1906.0,Borja Lasso,/en/players/d9faee7e/Borja-Lasso,Borja-Lasso,d9faee7e,es ESP,MF,Sevilla
-1907.0,Gabriel Mercado,/en/players/bf97c188/Gabriel-Mercado,Gabriel-Mercado,bf97c188,ar ARG,DF,Sevilla
-1908.0,Franco Vázquez,/en/players/467bae22/Franco-Vazquez,Franco-Vazquez,467bae22,ar ARG,MF,Sevilla
-1909.0,Pablo Sarabia,/en/players/9744ff80/Pablo-Sarabia,Pablo-Sarabi,9744ff80,es ESP,MF,Sevilla
-1910.0,Samir Nasri,/en/players/165bed61/Samir-Nasri,Samir-Nasri,165bed61,fr FRA,"MF,FW",Sevilla
-1911.0,Wissam Ben Yedder,/en/players/942b4f90/Wissam-Ben-Yedder,Wissam-Ben-Yedd,942b4f90,fr FRA,FW,Sevilla
-1912.0,Joaquín Correa,/en/players/45b9b619/Joaquin-Correa,Joaquin-Co,45b9b619,ar ARG,"MF,FW",Sevilla
-1913.0,Stevan Jovetić,/en/players/f36c432f/Stevan-Jovetic,Stevan-Jovetic,f36c432f,me MNE,FW,Sevilla
-1914.0,Ganso,/en/players/23593121/Ganso,Ganso,23593121,br BRA,MF,Sevilla
-1915.0,Hiroshi Kiyotake,/en/players/0dba1f3e/Hiroshi-Kiyotake,Hiroshi-Kiyotak,0dba1f3e,jp JPN,"MF,FW",Sevilla
-1916.0,Salvatore Sirigu,/en/players/10dc46f0/Salvatore-Sirigu,Salvatore-Sirigu,10dc46f0,it ITA,GK,Sevilla
-1917.0,Walter Montoya,/en/players/39e9c09a/Walter-Montoya,Walter-Monto,39e9c09a,ar ARG,FW,Sevilla
-1918.0,Churripi,/en/players/81a606fc/Churripi,Churripi,81a606fc,es ESP,GK,Sevilla
-1919.0,José Mena Rodríguez,/en/players/0af4b238/Jose-Mena-Rodriguez,Jose-Mena-Rodriguez,0af4b238,es ESP,MF,Sevilla
-1920.0,Álex Muñoz,/en/players/853f211e/Alex-Munoz,Alex-Munoz,853f211e,es ESP,DF,Sevilla
-1921.0,Guido Pizarro,/en/players/faec2ec4/Guido-Pizarro,Guido-Pizarro,faec2ec4,ar ARG,MF,Sevilla
-1922.0,Simon Kjær,/en/players/8b8a56ce/Simon-Kjaer,Simon-Kj,8b8a56ce,dk DEN,DF,Sevilla
-1923.0,Luis Muriel,/en/players/eb2fe5b6/Luis-Muriel,Luis-Muri,b2fe5b6,co COL,"FW,MF",Sevilla
-1924.0,Miguel Layún,/en/players/ad6295d4/Miguel-Layun,Miguel-Layu,d6295d4,mx MEX,"DF,MF",Sevilla
-1925.0,Sébastien Corchia,/en/players/0e7ccfc4/Sebastien-Corchia,Sebastien-Corchi,0e7ccfc4,fr FRA,DF,Sevilla
-1926.0,Johannes Geis,/en/players/294450ba/Johannes-Geis,Johannes-Gei,294450ba,de GER,"DF,MF",Sevilla
-1927.0,Lionel Carole,/en/players/5b5724d2/Lionel-Carole,Lionel-Caro,5b5724d2,fr FRA,DF,Sevilla
-1928.0,Roque Mesa,/en/players/7c4243d4/Roque-Mesa,Roque-M,7c4243d4,es ESP,MF,Sevilla
-1929.0,Guilherme Arana,/en/players/2b15a82a/Guilherme-Arana,Guilherme-A,2b15a82a,br BRA,DF,Sevilla
-1930.0,Juan Soriano,/en/players/5512b1a9/Juan-Soriano,Juan-Soriano,5512b1a9,es ESP,GK,Sevilla
-1931.0,﻿Tomáš Vaclík,/en/players/7b456af7/Tomas-Vaclik,Tomas-Vaclik,7b456af7,cz CZE,GK,Sevilla
-1932.0,André Silva,/en/players/3effaa34/Andre-Silva,Andre-Silv,3effaa34,pt POR,FW,Sevilla
-1933.0,Quincy Promes,/en/players/b182a240/Quincy-Promes,Quincy-Prom,b182a240,nl NED,"FW,DF",Sevilla
-1934.0,Ibrahim Amadou,/en/players/9260926b/Ibrahim-Amadou,Ibrahim-Amadou,9260926b,fr FRA,"MF,DF",Sevilla
-1935.0,Maximilian Wöber,/en/players/4b803b3c/Maximilian-Wober,Maximilian-Wob,4b803b3c,at AUT,DF,Sevilla
-1936.0,Maxime Gonalons,/en/players/b8c1de25/Maxime-Gonalons,Maxime-Gonalo,b8c1de25,fr FRA,MF,Sevilla
-1937.0,Joris Gnagnon,/en/players/1232e1dc/Joris-Gnagnon,Joris-Gnagno,1232e1dc,fr FRA,"DF,MF",Sevilla
-1938.0,Marko Rog,/en/players/b6b2b820/Marko-Rog,Marko-Rog,b6b2b820,hr CRO,MF,Sevilla
-1939.0,Javier Díaz,/en/players/17a1299d/Javier-Diaz,Javier-Diaz,17a1299d,es ESP,GK,Sevilla
-1940.0,Juan Berrocal González,/en/players/377ef3a6/Juan-Berrocal-Gonzalez,Juan-Berrocal-Gonzalez,377ef3a6,es ESP,DF,Sevilla
-1941.0,Diego Carlos,/en/players/b4a014b1/Diego-Carlos,Diego-Carlo,b4a014b1,br BRA,DF,Sevilla
-1942.0,Lucas Ocampos,/en/players/a08b974a/Lucas-Ocampos,Lucas-Ocampo,08b974a,ar ARG,"FW,MF",Sevilla
-1943.0,Fernando,/en/players/41f32541/Fernando,Fernando,41f32541,br BRA,MF,Sevilla
-1944.0,Joan Jordán,/en/players/2a0c8ba4/Joan-Jordan,Joan-Jord,2a0c8ba4,es ESP,MF,Sevilla
-1945.0,Jules Koundé,/en/players/4d1666ff/Jules-Kounde,Jules-Kound,4d1666ff,fr FRA,DF,Sevilla
-1946.0,Óliver Torres,/en/players/58a9a4d9/Oliver-Torres,Oliver-To,58a9a4d9,es ESP,"MF,FW",Sevilla
-1947.0,Nemanja Gudelj,/en/players/0076ab7f/Nemanja-Gudelj,Nemanja-Gudelj,0076ab7f,rs SRB,"MF,DF",Sevilla
-1948.0,Suso,/en/players/4e219ad2/Suso,Suso,4e219ad2,es ESP,"FW,MF",Sevilla
-1949.0,Youssef En-Nesyri,/en/players/04e17fd5/Youssef-En-Nesyri,Youssef-En-Nesyri,04e17fd5,ma MAR,FW,Sevilla
-1950.0,Yassine Bounou,/en/players/f6798fc3/Yassine-Bounou,Yassine-Bounou,f6798fc3,ma MAR,GK,Sevilla
-1951.0,Rony Lopes,/en/players/7c2965bb/Rony-Lopes,Rony-Lo,7c2965bb,pt POR,FW,Sevilla
-1952.0,Moanes Dabbur,/en/players/eac044ad/Moanes-Dabbur,Moanes-Dabbu,c044ad,il ISR,FW,Sevilla
-1953.0,Juanlu,/en/players/cc6de655/Juanlu,Juanlu,cc6de655,es ESP,DF,Sevilla
-1954.0,Alfonso Pastor,/en/players/14e05913/Alfonso-Pastor,Alfonso-Pasto,14e05913,es ESP,GK,Sevilla
-1955.0,Pablo Pérez,/en/players/75696fef/Pablo-Perez,Pablo-Perez,75696fef,es ESP,DF,Sevilla
-1956.0,Felipe Rodríguez Chacartegui,/en/players/b5b498c2/Felipe-Rodriguez-Chacartegui,Felipe-Rodriguez-Chacartegui,b5b498c2,es ESP,DF,Sevilla
-1957.0,Genaro Rodríguez Serrano,/en/players/505d9778/Genaro-Rodriguez-Serrano,Genaro-Rodriguez-Serrano,505d9778,es ESP,MF,Sevilla
-1958.0,Papu Gómez,/en/players/6e4df551/Papu-Gomez,Papu-Gomez,6e4df551,ar ARG,"MF,FW",Sevilla
-1959.0,Karim Rekik,/en/players/3376a776/Karim-Rekik,Karim-Rekik,3376a776,nl NED,DF,Sevilla
-1960.0,Oussama Idrissi,/en/players/34caa4b3/Oussama-Idrissi,Oussama-Idrissi,34caa4b3,ma MAR,"MF,FW",Sevilla
-1961.0,Iván Romero,/en/players/2fbe6af0/Ivan-Romero,Ivan-Romero,2fbe6af0,es ESP,FW,Sevilla
-1962.0,Zarzana,/en/players/8ea1ee1d/Zarzana,Zarz,8ea1ee1d,es ESP,FW,Sevilla
-1963.0,Marcos Acuña,/en/players/81442ecb/Marcos-Acuna,Marcos-Acu,81442ecb,ar ARG,DF,Sevilla
-1964.0,Thomas Delaney,/en/players/fe641c1a/Thomas-Delaney,Thomas-D,fe641c1a,dk DEN,MF,Sevilla
-1965.0,Gonzalo Montiel,/en/players/374d5158/Gonzalo-Montiel,Gonzalo-Monti,374d5158,ar ARG,DF,Sevilla
-1966.0,Jesús Corona,/en/players/fb938d24/Jesus-Corona,Jesus-Coro,fb938d24,mx MEX,"FW,MF",Sevilla
-1967.0,Érik Lamela,/en/players/abe66106/Erik-Lamela,Erik-Lam,be66106,ar ARG,"FW,MF",Sevilla
-1968.0,Ludwig Augustinsson,/en/players/9fec8860/Ludwig-Augustinsson,Ludwig-Augustinsso,9fec8860,se SWE,DF,Sevilla
-1969.0,Anthony Martial,/en/players/8b788c01/Anthony-Martial,Anthony-Marti,8b788c01,fr FRA,"FW,MF",Sevilla
-1970.0,Marko Dmitrović,/en/players/ac295d9e/Marko-Dmitrovic,Marko-Dmitrovic,c295d9e,rs SRB,GK,Sevilla
-1971.0,Carmona,/en/players/2dce876a/Carmona,Carmo,2dce876a,es ESP,DF,Sevilla
-1972.0,Luismi,/en/players/acf5410c/Luismi,Luismi,cf5410c,es ESP,"FW,MF",Sevilla
-1973.0,Pedro Ortiz,/en/players/f9358b61/Pedro-Ortiz,Pedro-Ortiz,f9358b61,es ESP,MF,Sevilla
-1974.0,Valentino Scotta,/en/players/98529579/Valentino-Scotta,Valentino-Scott,98529579,es ESP,DF,Sevilla
-1975.0,Alberto López,/en/players/c25f14a7/Alberto-Lopez,Alberto-Lopez,c25f14a7,es ESP,GK,Sevilla
-1976.0,Enrique Valiente,/en/players/0a69de7b/Enrique-Valiente,Enrique-Valient,0a69de7b,es ESP,DF,Sevilla
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+2025.0,﻿Antonio Notario,/en/players/b49f31c5/Antonio-Notario,Antonio-Notario,b49f31c5,es ESP,GK,Sevilla
+2026.0,David Castedo,/en/players/d39ba62e/David-Castedo,David-Castedo,d39ba62e,es ESP,DF,Sevilla
+2027.0,Javier Casquero,/en/players/ab6daa16/Javier-Casquero,Javier-Casquero,b6daa16,es ESP,MF,Sevilla
+2028.0,Pablo Alfaro,/en/players/e9654a31/Pablo-Alfaro,Pablo-Alfaro,9654a31,es ESP,DF,Sevilla
+2029.0,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,Jose-Antonio-R,19058f02,es ESP,MF,Sevilla
+2030.0,Javi Navarro,/en/players/df733521/Javi-Navarro,Javi-Navarro,df733521,es ESP,"DF,MF",Sevilla
+2031.0,Francisco Gallardo,/en/players/be80c87c/Francisco-Gallardo,Francisco-Gallardo,be80c87c,es ESP,MF,Sevilla
+2032.0,Marcos Vales,/en/players/f96c7239/Marcos-Vales,Marcos-V,f96c7239,es ESP,MF,Sevilla
+2033.0,Gerardo Torrado,/en/players/c966c9a3/Gerardo-Torrado,Gerardo-Torrado,c966c9a3,mx MEX,MF,Sevilla
+2034.0,Fredi Lobeiras,/en/players/9e85ab41/Fredi-Lobeiras,Fredi-Lobei,9e85ab41,es ESP,MF,Sevilla
+2035.0,Antoñito,/en/players/822723a6/Antonito,Antonito,822723a6,es ESP,FW,Sevilla
+2036.0,Juan Redondo,/en/players/c2bed898/Juan-Redondo,Juan-Redondo,c2bed898,es ESP,DF,Sevilla
+2037.0,Zoran Njeguš,/en/players/cd70ea39/Zoran-Njegus,Zoran-Njegu,cd70ea39,rs SRB,"DF,MF",Sevilla
+2038.0,Mariano Toedtli,/en/players/dc1fd8a8/Mariano-Toedtli,Mariano-Toedtli,dc1fd8a8,ar ARG,FW,Sevilla
+2039.0,Óscar,/en/players/87631dde/Oscar,Osc,87631dde,es ESP,DF,Sevilla
+2040.0,Víctor Salas,/en/players/67c31cb7/Victor-Salas,Victor-S,67c31cb7,es ESP,MF,Sevilla
+2041.0,Vinny Samways,/en/players/9dc41793/Vinny-Samways,Vinny-Samw,9dc41793,eng ENG,MF,Sevilla
+2042.0,Francisco Lama,/en/players/39e2db59/Francisco-Lama,Francisco-Lam,39e2db59,es ESP,MF,Sevilla
+2043.0,Moisés,/en/players/e3415193/Moises,Moi,3415193,es ESP,FW,Sevilla
+2044.0,Alfonso Vera,/en/players/d0b31ce2/Alfonso-Vera,Alfonso-V,d0b31ce2,es ESP,MF,Sevilla
+2045.0,Juanmi Gelabert,/en/players/2603ea8e/Juanmi-Gelabert,Juanmi-Gelabert,2603ea8e,es ESP,DF,Sevilla
+2046.0,Tomás Hervás,/en/players/9f1f6292/Tomas-Hervas,Tomas-Herv,9f1f6292,es ESP,MF,Sevilla
+2047.0,Nikos Machlas,/en/players/bae5e837/Nikos-Machlas,Nikos-Mach,bae5e837,gr GRE,"FW,MF",Sevilla
+2048.0,David Arteaga,/en/players/86d9a411/David-Arteaga,David-Arteag,86d9a411,es ESP,MF,Sevilla
+2049.0,Dani Alves,/en/players/c9e99e49/Dani-Alves,Dani-Alv,c9e99e49,br BRA,"DF,MF",Sevilla
+2050.0,Juan Carlos Caballero,/en/players/6b8a75b9/Juan-Carlos-Caballero,Juan-Carlos-Caballero,6b8a75b9,es ESP,GK,Sevilla
+2051.0,José Miguel Prieto,/en/players/0f1e8b40/Jose-Miguel-Prieto,Jose-Miguel-Prieto,0f1e8b40,es ESP,DF,Sevilla
+2052.0,Inti Podestá,/en/players/bcd3b2a1/Inti-Podesta,Inti-Podest,bcd3b2a1,uy URU,MF,Sevilla
+2053.0,Esteban,/en/players/e4fc2638/Esteban,Esteb,4fc2638,es ESP,GK,Sevilla
+2054.0,Júlio Baptista,/en/players/44557475/Julio-Baptista,Julio-Baptist,44557475,br BRA,"FW,MF",Sevilla
+2055.0,Darío Silva,/en/players/1efa0295/Dario-Silva,Dario-Silv,1efa0295,uy URU,FW,Sevilla
+2056.0,Antonio López,/en/players/1fdd5ff7/Antonio-Lopez,Antonio-Lopez,1fdd5ff7,es ESP,MF,Sevilla
+2057.0,Germán Hornos,/en/players/232366ec/German-Hornos,German-Horno,232366ec,uy URU,FW,Sevilla
+2058.0,Carlos Domínguez,/en/players/c008c1c3/Carlos-Dominguez,Carlos-Dominguez,c008c1c3,es ESP,FW,Sevilla
+2059.0,Sergio Ramos,/en/players/08511d65/Sergio-Ramos,Sergio-Ramo,08511d65,es ESP,DF,Sevilla
+2060.0,Alejandro Marañón,/en/players/9be8422d/Alejandro-Maranon,Alejandro-Marano,9be8422d,es ESP,DF,Sevilla
+2061.0,Jesús Navas,/en/players/3f10bd22/Jesus-Navas,Jesus-Nav,3f10bd22,es ESP,"DF,MF",Sevilla
+2062.0,Luis Gil Torres,/en/players/3541486a/Luis-Gil-Torres,Luis-Gil-To,3541486a,es ESP,FW,Sevilla
+2063.0,Aitor Ocio,/en/players/f1c8639b/Aitor-Ocio,Aitor-Ocio,f1c8639b,es ESP,DF,Sevilla
+2064.0,Antonio Puerta,/en/players/a6d37bd0/Antonio-Puerta,Antonio-Puert,6d37bd0,es ESP,"DF,MF",Sevilla
+2065.0,Juanjo Bezares,/en/players/6d8e0587/Juanjo-Bezares,Juanjo-Bez,6d8e0587,es ESP,MF,Sevilla
+2066.0,Marco Navas,/en/players/194ed492/Marco-Navas,Marco-Nav,194ed492,es ESP,MF,Sevilla
+2067.0,Federico Magallanes,/en/players/d75da374/Federico-Magallanes,Federico-Mag,d75da374,uy URU,"FW,MF",Sevilla
+2068.0,José Luis Martí,/en/players/111c668a/Jose-Luis-Marti,Jose-Luis-Marti,111c668a,es ESP,MF,Sevilla
+2069.0,Renato,/en/players/dc4d83fe/Renato,Renato,dc4d83fe,br BRA,MF,Sevilla
+2070.0,Adriano,/en/players/9d8586c4/Adriano,Adriano,9d8586c4,br BRA,"DF,MF",Sevilla
+2071.0,Fernando Sales,/en/players/24486536/Fernando-Sales,Fernando-S,24486536,es ESP,MF,Sevilla
+2072.0,Jordi López,/en/players/b6fe8a4c/Jordi-Lopez,Jordi-Lopez,b6fe8a4c,es ESP,MF,Sevilla
+2073.0,Jesuli,/en/players/3bfc833a/Jesuli,Jesuli,3bfc833a,es ESP,MF,Sevilla
+2074.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Sevilla
+2075.0,Ariza Makukula,/en/players/62ce8bd7/Ariza-Makukula,Ariza-Makuku,62ce8bd7,pt POR,FW,Sevilla
+2076.0,Pablo Ruiz,/en/players/9fb57e68/Pablo-Ruiz,Pablo-Ruiz,9fb57e68,es ESP,DF,Sevilla
+2077.0,David Prieto,/en/players/aee8f24e/David-Prieto,David-Prieto,8f24e,es ESP,"DF,MF",Sevilla
+2078.0,Kepa Blanco,/en/players/e021d831/Kepa-Blanco,Kepa-Blanco,021d831,es ESP,FW,Sevilla
+2079.0,Diego Capel,/en/players/4933a2f2/Diego-Capel,Diego-C,4933a2f2,es ESP,MF,Sevilla
+2080.0,﻿Andrés Palop,/en/players/9ab4e785/Andres-Palop,Andres-Palo,9ab4e785,es ESP,GK,Sevilla
+2081.0,Frédéric Kanouté,/en/players/1a24d5b6/Frederic-Kanoute,Frederic-Kanout,1a24d5b6,ml MLI,FW,Sevilla
+2082.0,Enzo Maresca,/en/players/1a899d99/Enzo-Maresca,Enzo-Maresc,1a899d99,it ITA,MF,Sevilla
+2083.0,Javier Saviola,/en/players/de544fdb/Javier-Saviola,Javier-Savio,de544fdb,ar ARG,FW,Sevilla
+2084.0,Ivica Dragutinović,/en/players/7ab82833/Ivica-Dragutinovic,Ivica-Dragutinovic,7ab82833,rs SRB,DF,Sevilla
+2085.0,Luís Fabiano,/en/players/eaaeef7b/Luis-Fabiano,Luis-Fabiano,f7b,br BRA,FW,Sevilla
+2086.0,Julien Escudé,/en/players/6aa5bd41/Julien-Escude,Julien-Escud,6aa5bd41,fr FRA,DF,Sevilla
+2087.0,José Ángel Crespo,/en/players/8ec4c2f7/Jose-Angel-Crespo,Jose-Angel-Crespo,8ec4c2f7,es ESP,DF,Sevilla
+2088.0,Alejandro Alfaro,/en/players/7c293728/Alejandro-Alfaro,Alejandro-Alfaro,7c293728,es ESP,"FW,MF",Sevilla
+2089.0,Bruno Herrero Arias,/en/players/acd429fc/Bruno-Herrero-Arias,Bruno-Herrero-Ari,cd429fc,es ESP,MF,Sevilla
+2090.0,Christian Poulsen,/en/players/4b83b362/Christian-Poulsen,Christian-Pou,4b83b362,dk DEN,MF,Sevilla
+2091.0,Aleksandr Kerzhakov,/en/players/e8cb6c66/Aleksandr-Kerzhakov,Aleksandr-Kerzhakov,8cb6c66,ru RUS,FW,Sevilla
+2092.0,Andreas Hinkel,/en/players/9d56817e/Andreas-Hinkel,Andreas-Hink,9d56817e,de GER,DF,Sevilla
+2093.0,Javier Chevantón,/en/players/5824ef34/Javier-Chevanton,Javier-Chevanto,5824ef34,uy URU,FW,Sevilla
+2094.0,David Cobeño,/en/players/df7b0840/David-Cobeno,David-Cobeno,df7b0840,es ESP,GK,Sevilla
+2095.0,Duda,/en/players/13d41642/Duda,Dud,13d41642,pt POR,"DF,FW",Sevilla
+2096.0,Seydou Keita,/en/players/500c4e9b/Seydou-Keita,Seydou-Keit,500c4e9b,ml MLI,MF,Sevilla
+2097.0,Aquivaldo Mosquera,/en/players/e8624833/Aquivaldo-Mosquera,Aquivaldo-Mosqu,8624833,co COL,DF,Sevilla
+2098.0,Federico Fazio,/en/players/4e358a2d/Federico-Fazio,Federico-Fazio,4e358a2d,ar ARG,DF,Sevilla
+2099.0,Arouna Koné,/en/players/f9a72ca4/Arouna-Kone,Arouna-Ko,f9a72ca4,ci CIV,FW,Sevilla
+2100.0,Morgan De Sanctis,/en/players/83228343/Morgan-De-Sanctis,Morgan-De-Sancti,83228343,it ITA,GK,Sevilla
+2101.0,Khalid Boulahrouz,/en/players/9ccceabb/Khalid-Boulahrouz,Khalid-Boulahrouz,9ccceabb,nl NED,DF,Sevilla
+2102.0,Tom De Mul,/en/players/c668a080/Tom-De-Mul,Tom-De-Mu,c668a080,be BEL,"FW,MF",Sevilla
+2103.0,Lolo,/en/players/31c71140/Lolo,Lolo,31c71140,es ESP,"DF,MF",Sevilla
+2104.0,Juanjo Expósito,/en/players/f0a0b756/Juanjo-Exposito,Juanjo-Exposito,f0a0b756,es ESP,FW,Sevilla
+2105.0,José Manuel Casado,/en/players/d0b6d20e/Jose-Manuel-Casado,Jose-Manuel-Casado,d0b6d20e,es ESP,DF,Sevilla
+2106.0,Sébastien Squillaci,/en/players/f7ec06db/Sebastien-Squillaci,Sebastien-Squillaci,f7ec06db,fr FRA,DF,Sevilla
+2107.0,Fernando Navarro,/en/players/5a3f6fae/Fernando-Navarro,Fernando-Navarro,5a3f6fae,es ESP,DF,Sevilla
+2108.0,Romaric,/en/players/9bb5c5e0/Romaric,Romaric,9bb5c5e0,ci CIV,MF,Sevilla
+2109.0,Aldo Duscher,/en/players/44944ca7/Aldo-Duscher,Aldo-Dusch,44944ca7,ar ARG,MF,Sevilla
+2110.0,Abdoulay Konko,/en/players/43857861/Abdoulay-Konko,Abdoulay-Konko,43857861,fr FRA,"DF,MF",Sevilla
+2111.0,Diego Perotti,/en/players/a40d5a0c/Diego-Perotti,Diego-Perotti,40d5a0c,ar ARG,"FW,MF",Sevilla
+2112.0,Lautaro Acosta,/en/players/2a3af4d5/Lautaro-Acosta,Lautaro-Acost,2a3af4d5,ar ARG,"FW,MF",Sevilla
+2113.0,Javi Varas,/en/players/6db3da37/Javi-Varas,Javi-V,6db3da37,es ESP,GK,Sevilla
+2114.0,Emiliano Armenteros,/en/players/66475fb9/Emiliano-Armenteros,Emiliano-Armentero,66475fb9,ar ARG,MF,Sevilla
+2115.0,Teemu Pukki,/en/players/0745b37d/Teemu-Pukki,Teemu-Pukki,0745b37d,fi FIN,FW,Sevilla
+2116.0,Fernando Rodríguez,/en/players/31a98017/Fernando-Rodriguez,Fernando-Rodriguez,31a98017,es ESP,FW,Sevilla
+2117.0,José Carlos,/en/players/6738f3c6/Jose-Carlos,Jose-Carlo,6738f3c6,es ESP,"FW,MF",Sevilla
+2118.0,Didier Zokora,/en/players/23921ca7/Didier-Zokora,Didier-Zoko,23921ca7,ci CIV,MF,Sevilla
+2119.0,Álvaro Negredo,/en/players/63b0ca6b/Alvaro-Negredo,Alvaro-Negredo,63b0ca6b,es ESP,FW,Sevilla
+2120.0,Sergio Sánchez,/en/players/83a83b0a/Sergio-Sanchez,Sergio-Sanchez,83a83b0a,es ESP,DF,Sevilla
+2121.0,Cala,/en/players/fe05804b/Cala,C,fe05804b,es ESP,DF,Sevilla
+2122.0,Marc Valiente,/en/players/fd333066/Marc-Valiente,Marc-Valient,fd333066,es ESP,DF,Sevilla
+2123.0,Antonio Luna,/en/players/ed239245/Antonio-Luna,Antonio-Lu,d239245,es ESP,DF,Sevilla
+2124.0,Enrique Carreño,/en/players/d5f7d1ea/Enrique-Carreno,Enrique-Carreno,d5f7d1ea,es ESP,FW,Sevilla
+2125.0,Rodri,/en/players/5200dce9/Rodri,Rodri,5200dce9,es ESP,FW,Sevilla
+2126.0,Martín Cáceres,/en/players/e94d79e3/Martin-Caceres,Martin-Cac,94d79e3,uy URU,DF,Sevilla
+2127.0,Mouhamadou Dabo,/en/players/78853b7b/Mouhamadou-Dabo,Mouhamadou-Dabo,78853b7b,fr FRA,DF,Sevilla
+2128.0,Alexis,/en/players/db0cd1ae/Alexis,Alexi,db0cd1ae,es ESP,DF,Sevilla
+2129.0,Gary Medel,/en/players/563a68ad/Gary-Medel,Gary-Med,563a68ad,cl CHI,"DF,MF",Sevilla
+2130.0,Ivan Rakitić,/en/players/89f951b5/Ivan-Rakitic,Ivan-Rakitic,89f951b5,hr CRO,MF,Sevilla
+2131.0,Luca Cigarini,/en/players/ae64d449/Luca-Cigarini,Luca-Cigarini,64d449,it ITA,MF,Sevilla
+2132.0,Tiberio Guarente,/en/players/f5b9b859/Tiberio-Guarente,Tiberio-Guarent,f5b9b859,it ITA,MF,Sevilla
+2133.0,Bernardo Espinosa,/en/players/4242011c/Bernardo-Espinosa,Bernardo-Espino,4242011c,co COL,DF,Sevilla
+2134.0,Luis Alberto,/en/players/5294a83f/Luis-Alberto,Luis-Alberto,5294a83f,es ESP,"FW,MF",Sevilla
+2135.0,Piotr Trochowski,/en/players/6cae08d5/Piotr-Trochowski,Piotr-Trochowski,6cae08d5,de GER,MF,Sevilla
+2136.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Sevilla
+2137.0,Coke,/en/players/6d8f8441/Coke,Cok,6d8f8441,es ESP,DF,Sevilla
+2138.0,Emir Spahić,/en/players/009633c8/Emir-Spahic,Emir-Spahic,009633c8,ba BIH,DF,Sevilla
+2139.0,José Campaña,/en/players/61220da2/Jose-Campana,Jose-Cam,61220da2,es ESP,MF,Sevilla
+2140.0,Deivid,/en/players/c1c76662/Deivid,Deivid,c1c76662,es ESP,"DF,MF",Sevilla
+2141.0,Baba Diawara,/en/players/09b7100a/Baba-Diawara,Baba-Diaw,09b7100a,sn SEN,FW,Sevilla
+2142.0,Alberto Moreno,/en/players/11b9265b/Alberto-Moreno,Alberto-Moreno,11b9265b,es ESP,"DF,MF",Sevilla
+2143.0,Hiroshi Ibusuki,/en/players/715bdbe9/Hiroshi-Ibusuki,Hiroshi-Ibusuki,715bdbe9,jp JPN,FW,Sevilla
+2144.0,Geoffrey Kondogbia,/en/players/cce181df/Geoffrey-Kondogbia,Geoffrey-Kondogbi,cce181df,cf CTA,MF,Sevilla
+2145.0,Cicinho,/en/players/cb51774a/Cicinho,Cicinho,cb51774a,br BRA,DF,Sevilla
+2146.0,Hedwiges Maduro,/en/players/5918cc84/Hedwiges-Maduro,Hedwiges-Maduro,5918cc84,nl NED,"DF,MF",Sevilla
+2147.0,Alberto Botía,/en/players/7f6bff1f/Alberto-Botia,Alberto-Boti,7f6bff1f,es ESP,DF,Sevilla
+2148.0,Beto,/en/players/3b4941e4/Beto,Beto,3b4941e4,pt POR,GK,Sevilla
+2149.0,Diego López,/en/players/73683fa9/Diego-Lopez,Diego-Lopez,73683fa9,es ESP,GK,Sevilla
+2150.0,Javier Hervás,/en/players/04b8d5c8/Javier-Hervas,Javier-Herv,04b8d5c8,es ESP,MF,Sevilla
+2151.0,Julián Cuesta,/en/players/c7b52b90/Julian-Cuesta,Julian-Cuest,c7b52b90,es ESP,GK,Sevilla
+2152.0,Miroslav Stevanović,/en/players/73d430c6/Miroslav-Stevanovic,Miroslav-Stevanovic,73d430c6,ba BIH,"FW,MF",Sevilla
+2153.0,Bryan Rabello,/en/players/ad052490/Bryan-Rabello,Bryan-Rabello,d052490,cl CHI,MF,Sevilla
+2154.0,Álex Rubio,/en/players/c8c36c4f/Alex-Rubio,Alex-Rubio,c8c36c4f,es ESP,"FW,MF",Sevilla
+2155.0,Israel Puerto,/en/players/c657b98d/Israel-Puerto,Israel-Puerto,c657b98d,es ESP,DF,Sevilla
+2156.0,Carlos Bacca,/en/players/09a9e921/Carlos-Bacca,Carlos-Bacc,09a9e921,co COL,FW,Sevilla
+2157.0,Vitolo,/en/players/db750822/Vitolo,Vitolo,db750822,es ESP,"FW,MF",Sevilla
+2158.0,Vicente Iborra,/en/players/ad1ffcfd/Vicente-Iborra,Vicente-Ibo,d1ffcfd,es ESP,MF,Sevilla
+2159.0,Nicolás Pareja,/en/players/a92669f6/Nicolas-Pareja,Nicolas-Parej,92669f6,ar ARG,DF,Sevilla
+2160.0,Daniel Carriço,/en/players/e1deea75/Daniel-Carrico,Daniel-Carrico,1deea75,pt POR,"DF,MF",Sevilla
+2161.0,Kévin Gameiro,/en/players/42276181/Kevin-Gameiro,Kevin-Gameiro,42276181,fr FRA,FW,Sevilla
+2162.0,Diogo Figueiras,/en/players/3e587547/Diogo-Figueiras,Diogo-Figuei,3e587547,pt POR,"DF,MF",Sevilla
+2163.0,Stéphane Mbia,/en/players/c39d9657/Stephane-Mbia,Stephane-Mbi,c39d9657,cm CMR,"DF,MF",Sevilla
+2164.0,Jairo Samperio,/en/players/c0a0c18f/Jairo-Samperio,Jairo-Samperio,c0a0c18f,es ESP,"FW,MF",Sevilla
+2165.0,Marko Marin,/en/players/a022e78c/Marko-Marin,Marko-Mari,022e78c,de GER,"FW,MF",Sevilla
+2166.0,Sebastián Cristóforo,/en/players/3c05c659/Sebastian-Cristoforo,Sebastian-Cristoforo,3c05c659,uy URU,MF,Sevilla
+2167.0,Carlos Fernández,/en/players/e08647d6/Carlos-Fernandez,Carlos-Fernandez,08647d6,es ESP,FW,Sevilla
+2168.0,Antonio Cotán,/en/players/d92dd30e/Antonio-Cotan,Antonio-Cot,d92dd30e,es ESP,MF,Sevilla
+2169.0,Moisés Delgado,/en/players/248c409d/Moises-Delgado,Moises-Delgado,248c409d,es ESP,DF,Sevilla
+2170.0,Denis Cheryshev,/en/players/0ac94a23/Denis-Cheryshev,Denis-Cheryshev,0ac94a23,ru RUS,"FW,MF",Sevilla
+2171.0,Mode,/en/players/17b4ea83/Mode,Mod,17b4ea83,es ESP,DF,Sevilla
+2172.0,Raul Rusescu,/en/players/7aa898b3/Raul-Rusescu,Raul-Rusescu,7aa898b3,ro ROU,"FW,MF",Sevilla
+2173.0,﻿Grzegorz Krychowiak,/en/players/580d52dd/Grzegorz-Krychowiak,Grzegorz-Krychowiak,580d52dd,pl POL,MF,Sevilla
+2174.0,Éver Banega,/en/players/fa937f7a/Ever-Banega,Ever-Baneg,fa937f7a,ar ARG,MF,Sevilla
+2175.0,Aleix Vidal,/en/players/04965583/Aleix-Vidal,Aleix-Vid,04965583,es ESP,"DF,MF",Sevilla
+2176.0,Sergio Rico,/en/players/5f0241b2/Sergio-Rico,Sergio-Rico,5f0241b2,es ESP,GK,Sevilla
+2177.0,Benoît Trémoulinas,/en/players/37a24709/Benoit-Tremoulinas,Benoit-Tremouli,37a24709,fr FRA,DF,Sevilla
+2178.0,Timothée Kolodziejczak,/en/players/ab096c6f/Timothee-Kolodziejczak,Timothee-Kolodziejczak,b096c6f,fr FRA,DF,Sevilla
+2179.0,Denis Suárez,/en/players/12c50af5/Denis-Suarez,Denis-Suarez,12c50af5,es ESP,MF,Sevilla
+2180.0,Gerard Deulofeu,/en/players/39583cfd/Gerard-Deulofeu,Gerard-Deulofeu,39583cfd,es ESP,"FW,MF",Sevilla
+2181.0,Iago Aspas,/en/players/7dcf86f6/Iago-Aspas,Iago-A,7dcf86f6,es ESP,"FW,MF",Sevilla
+2182.0,Mariano Barbosa,/en/players/aad4f74f/Mariano-Barbosa,Mariano-Barbo,d4f74f,ar ARG,GK,Sevilla
+2183.0,Juan Muñoz,/en/players/25018d62/Juan-Munoz,Juan-Munoz,25018d62,es ESP,"FW,MF",Sevilla
+2184.0,Luismi,/en/players/c2cfbfc9/Luismi,Luismi,c2cfbfc9,es ESP,"DF,MF",Sevilla
+2185.0,David Soria,/en/players/8f8c6934/David-Soria,David-Sori,8f8c6934,es ESP,GK,Sevilla
+2186.0,Adil Rami,/en/players/8dbff17c/Adil-Rami,Adil-Rami,8dbff17c,fr FRA,DF,Sevilla
+2187.0,Steven Nzonzi,/en/players/c7526c18/Steven-Nzonzi,Steven-Nzonzi,c7526c18,fr FRA,MF,Sevilla
+2188.0,Mariano,/en/players/e26f559f/Mariano,Mariano,26f559f,br BRA,DF,Sevilla
+2189.0,Michael Krohn-Dehli,/en/players/1c8dc17d/Michael-Krohn-Dehli,Michael-Krohn-Dehli,1c8dc17d,dk DEN,MF,Sevilla
+2190.0,Yevhen Konoplyanka,/en/players/d9a5d930/Yevhen-Konoplyanka,Yevhen-Konoplyank,d9a5d930,ua UKR,MF,Sevilla
+2191.0,Fernando Llorente,/en/players/82dbf623/Fernando-Llorente,Fernando-Llorent,82dbf623,es ESP,FW,Sevilla
+2192.0,Sergio Escudero,/en/players/b0616e3d/Sergio-Escudero,Sergio-Escudero,b0616e3d,es ESP,"DF,MF",Sevilla
+2193.0,Marco Andreolli,/en/players/13d820de/Marco-Andreolli,Marco-Andreolli,13d820de,it ITA,DF,Sevilla
+2194.0,Ciro Immobile,/en/players/4431aed2/Ciro-Immobile,Ciro-Immobi,4431aed2,it ITA,FW,Sevilla
+2195.0,Curro,/en/players/f9a225f5/Curro,Curro,f9a225f5,es ESP,MF,Sevilla
+2196.0,Diego González,/en/players/4ac7608e/Diego-Gonzalez,Diego-Gonzalez,4ac7608e,es ESP,DF,Sevilla
+2197.0,David Carmona,/en/players/ed922d43/David-Carmona,David-Carmo,d922d43,es ESP,DF,Sevilla
+2198.0,Jose Matos,/en/players/19fdd28f/Jose-Matos,Jose-Mato,19fdd28f,es ESP,MF,Sevilla
+2199.0,Gaël Kakuta,/en/players/5b1bf5e3/Gael-Kakuta,Gael-Kakut,5b1bf5e3,cd COD,MF,Sevilla
+2200.0,Ivi,/en/players/d2fa73e7/Ivi,Ivi,d2fa73e7,es ESP,"FW,MF",Sevilla
+2201.0,Borja Lasso,/en/players/d9faee7e/Borja-Lasso,Borja-Lasso,d9faee7e,es ESP,MF,Sevilla
+2202.0,Gabriel Mercado,/en/players/bf97c188/Gabriel-Mercado,Gabriel-Mercado,bf97c188,ar ARG,DF,Sevilla
+2203.0,Franco Vázquez,/en/players/467bae22/Franco-Vazquez,Franco-Vazquez,467bae22,ar ARG,MF,Sevilla
+2204.0,Pablo Sarabia,/en/players/9744ff80/Pablo-Sarabia,Pablo-Sarabi,9744ff80,es ESP,MF,Sevilla
+2205.0,Samir Nasri,/en/players/165bed61/Samir-Nasri,Samir-Nasri,165bed61,fr FRA,"MF,FW",Sevilla
+2206.0,Wissam Ben Yedder,/en/players/942b4f90/Wissam-Ben-Yedder,Wissam-Ben-Yedd,942b4f90,fr FRA,FW,Sevilla
+2207.0,Clément Lenglet,/en/players/4f28a6ff/Clement-Lenglet,Clement-Lenglet,4f28a6ff,fr FRA,DF,Sevilla
+2208.0,Joaquín Correa,/en/players/45b9b619/Joaquin-Correa,Joaquin-Co,45b9b619,ar ARG,"MF,FW",Sevilla
+2209.0,Luciano Vietto,/en/players/2513a588/Luciano-Vietto,Luciano-Vietto,2513a588,ar ARG,FW,Sevilla
+2210.0,Stevan Jovetić,/en/players/f36c432f/Stevan-Jovetic,Stevan-Jovetic,f36c432f,me MNE,FW,Sevilla
+2211.0,Ganso,/en/players/23593121/Ganso,Ganso,23593121,br BRA,MF,Sevilla
+2212.0,Hiroshi Kiyotake,/en/players/0dba1f3e/Hiroshi-Kiyotake,Hiroshi-Kiyotak,0dba1f3e,jp JPN,"MF,FW",Sevilla
+2213.0,Salvatore Sirigu,/en/players/10dc46f0/Salvatore-Sirigu,Salvatore-Sirigu,10dc46f0,it ITA,GK,Sevilla
+2214.0,Walter Montoya,/en/players/39e9c09a/Walter-Montoya,Walter-Monto,39e9c09a,ar ARG,FW,Sevilla
+2215.0,Churripi,/en/players/81a606fc/Churripi,Churripi,81a606fc,es ESP,GK,Sevilla
+2216.0,José Mena Rodríguez,/en/players/0af4b238/Jose-Mena-Rodriguez,Jose-Mena-Rodriguez,0af4b238,es ESP,MF,Sevilla
+2217.0,Álex Muñoz,/en/players/853f211e/Alex-Munoz,Alex-Munoz,853f211e,es ESP,DF,Sevilla
+2218.0,Alejandro Pozo Pozo,/en/players/3c16d927/Alejandro-Pozo-Pozo,Alejandro-Pozo-Pozo,3c16d927,es ESP,"DF,MF",Sevilla
+2219.0,Guido Pizarro,/en/players/faec2ec4/Guido-Pizarro,Guido-Pizarro,faec2ec4,ar ARG,MF,Sevilla
+2220.0,Simon Kjær,/en/players/8b8a56ce/Simon-Kjaer,Simon-Kj,8b8a56ce,dk DEN,DF,Sevilla
+2221.0,Luis Muriel,/en/players/eb2fe5b6/Luis-Muriel,Luis-Muri,b2fe5b6,co COL,"FW,MF",Sevilla
+2222.0,Miguel Layún,/en/players/ad6295d4/Miguel-Layun,Miguel-Layu,d6295d4,mx MEX,"DF,MF",Sevilla
+2223.0,Sébastien Corchia,/en/players/0e7ccfc4/Sebastien-Corchia,Sebastien-Corchi,0e7ccfc4,fr FRA,DF,Sevilla
+2224.0,Sandro Ramírez,/en/players/833fb62e/Sandro-Ramirez,Sandro-Ramirez,833fb62e,es ESP,"MF,FW",Sevilla
+2225.0,Johannes Geis,/en/players/294450ba/Johannes-Geis,Johannes-Gei,294450ba,de GER,"DF,MF",Sevilla
+2226.0,Lionel Carole,/en/players/5b5724d2/Lionel-Carole,Lionel-Caro,5b5724d2,fr FRA,DF,Sevilla
+2227.0,Roque Mesa,/en/players/7c4243d4/Roque-Mesa,Roque-M,7c4243d4,es ESP,MF,Sevilla
+2228.0,Guilherme Arana,/en/players/2b15a82a/Guilherme-Arana,Guilherme-A,2b15a82a,br BRA,DF,Sevilla
+2229.0,José Alonso Lara,/en/players/7e28d6f7/Jose-Alonso-Lara,Jose-Alonso-L,7e28d6f7,es ESP,MF,Sevilla
+2230.0,Juan Soriano,/en/players/5512b1a9/Juan-Soriano,Juan-Soriano,5512b1a9,es ESP,GK,Sevilla
+2231.0,﻿Tomáš Vaclík,/en/players/7b456af7/Tomas-Vaclik,Tomas-Vaclik,7b456af7,cz CZE,GK,Sevilla
+2232.0,Sergi Gómez,/en/players/bc6f5f06/Sergi-Gomez,Sergi-Gomez,bc6f5f06,es ESP,DF,Sevilla
+2233.0,André Silva,/en/players/3effaa34/Andre-Silva,Andre-Silv,3effaa34,pt POR,FW,Sevilla
+2234.0,Quincy Promes,/en/players/b182a240/Quincy-Promes,Quincy-Prom,b182a240,nl NED,"FW,DF",Sevilla
+2235.0,Munir El Haddadi,/en/players/8696bc90/Munir-El-Haddadi,Munir-El-Haddadi,8696bc90,ma MAR,"FW,MF",Sevilla
+2236.0,Ibrahim Amadou,/en/players/9260926b/Ibrahim-Amadou,Ibrahim-Amadou,9260926b,fr FRA,"MF,DF",Sevilla
+2237.0,Maximilian Wöber,/en/players/4b803b3c/Maximilian-Wober,Maximilian-Wob,4b803b3c,at AUT,DF,Sevilla
+2238.0,Maxime Gonalons,/en/players/b8c1de25/Maxime-Gonalons,Maxime-Gonalo,b8c1de25,fr FRA,MF,Sevilla
+2239.0,Joris Gnagnon,/en/players/1232e1dc/Joris-Gnagnon,Joris-Gnagno,1232e1dc,fr FRA,"DF,MF",Sevilla
+2240.0,Marko Rog,/en/players/b6b2b820/Marko-Rog,Marko-Rog,b6b2b820,hr CRO,MF,Sevilla
+2241.0,Javier Díaz,/en/players/17a1299d/Javier-Diaz,Javier-Diaz,17a1299d,es ESP,GK,Sevilla
+2242.0,Nolito,/en/players/b2d0ec1b/Nolito,Nolito,b2d0ec1b,es ESP,"FW,DF",Sevilla
+2243.0,Bryan,/en/players/7b5ab7f2/Bryan,B,7b5ab7f2,es ESP,"MF,FW",Sevilla
+2244.0,Juan Berrocal González,/en/players/377ef3a6/Juan-Berrocal-Gonzalez,Juan-Berrocal-Gonzalez,377ef3a6,es ESP,DF,Sevilla
+2245.0,Luis Alberto García Pacheco,/en/players/5e9d0e32/Luis-Alberto-Garcia-Pacheco,Luis-Alberto-Garcia-Pacheco,5e9d0e32,co COL,GK,Sevilla
+2246.0,Diego Carlos,/en/players/b4a014b1/Diego-Carlos,Diego-Carlo,b4a014b1,br BRA,DF,Sevilla
+2247.0,Lucas Ocampos,/en/players/a08b974a/Lucas-Ocampos,Lucas-Ocampo,08b974a,ar ARG,"FW,MF",Sevilla
+2248.0,Fernando,/en/players/41f32541/Fernando,Fernando,41f32541,br BRA,MF,Sevilla
+2249.0,Sergio Reguilón,/en/players/3353737a/Sergio-Reguilon,Sergio-Reguilo,3353737a,es ESP,DF,Sevilla
+2250.0,Joan Jordán,/en/players/2a0c8ba4/Joan-Jordan,Joan-Jord,2a0c8ba4,es ESP,MF,Sevilla
+2251.0,Jules Koundé,/en/players/4d1666ff/Jules-Kounde,Jules-Kound,4d1666ff,fr FRA,DF,Sevilla
+2252.0,Luuk de Jong,/en/players/abb3bb95/Luuk-de-Jong,Luuk-de-Jong,bb3bb95,nl NED,FW,Sevilla
+2253.0,Óliver Torres,/en/players/58a9a4d9/Oliver-Torres,Oliver-To,58a9a4d9,es ESP,"MF,FW",Sevilla
+2254.0,Nemanja Gudelj,/en/players/0076ab7f/Nemanja-Gudelj,Nemanja-Gudelj,0076ab7f,rs SRB,"MF,DF",Sevilla
+2255.0,Suso,/en/players/4e219ad2/Suso,Suso,4e219ad2,es ESP,"FW,MF",Sevilla
+2256.0,Youssef En-Nesyri,/en/players/04e17fd5/Youssef-En-Nesyri,Youssef-En-Nesyri,04e17fd5,ma MAR,FW,Sevilla
+2257.0,Yassine Bounou,/en/players/f6798fc3/Yassine-Bounou,Yassine-Bounou,f6798fc3,ma MAR,GK,Sevilla
+2258.0,Javier Hernández,/en/players/189cee7b/Javier-Hernandez,Javier-Hernandez,189cee7b,mx MEX,FW,Sevilla
+2259.0,Rony Lopes,/en/players/7c2965bb/Rony-Lopes,Rony-Lo,7c2965bb,pt POR,FW,Sevilla
+2260.0,Moanes Dabbur,/en/players/eac044ad/Moanes-Dabbur,Moanes-Dabbu,c044ad,il ISR,FW,Sevilla
+2261.0,Juanlu,/en/players/cc6de655/Juanlu,Juanlu,cc6de655,es ESP,DF,Sevilla
+2262.0,Alfonso Pastor,/en/players/14e05913/Alfonso-Pastor,Alfonso-Pasto,14e05913,es ESP,GK,Sevilla
+2263.0,Pablo Pérez,/en/players/75696fef/Pablo-Perez,Pablo-Perez,75696fef,es ESP,DF,Sevilla
+2264.0,Felipe Rodríguez Chacartegui,/en/players/b5b498c2/Felipe-Rodriguez-Chacartegui,Felipe-Rodriguez-Chacartegui,b5b498c2,es ESP,DF,Sevilla
+2265.0,Genaro Rodríguez Serrano,/en/players/505d9778/Genaro-Rodriguez-Serrano,Genaro-Rodriguez-Serrano,505d9778,es ESP,MF,Sevilla
+2266.0,Papu Gómez,/en/players/6e4df551/Papu-Gomez,Papu-Gomez,6e4df551,ar ARG,"MF,FW",Sevilla
+2267.0,Karim Rekik,/en/players/3376a776/Karim-Rekik,Karim-Rekik,3376a776,nl NED,DF,Sevilla
+2268.0,Óscar Rodríguez Arnaiz,/en/players/19709006/Oscar-Rodriguez-Arnaiz,Oscar-Rodriguez-Arnaiz,19709006,es ESP,"MF,FW",Sevilla
+2269.0,Oussama Idrissi,/en/players/34caa4b3/Oussama-Idrissi,Oussama-Idrissi,34caa4b3,ma MAR,"MF,FW",Sevilla
+2270.0,Iván Romero,/en/players/2fbe6af0/Ivan-Romero,Ivan-Romero,2fbe6af0,es ESP,FW,Sevilla
+2271.0,Zarzana,/en/players/8ea1ee1d/Zarzana,Zarz,8ea1ee1d,es ESP,FW,Sevilla
+2272.0,Marcos Acuña,/en/players/81442ecb/Marcos-Acuna,Marcos-Acu,81442ecb,ar ARG,DF,Sevilla
+2273.0,Rafa Mir,/en/players/bbf5c11b/Rafa-Mir,Rafa-Mi,bbf5c11b,es ESP,FW,Sevilla
+2274.0,Thomas Delaney,/en/players/fe641c1a/Thomas-Delaney,Thomas-D,fe641c1a,dk DEN,MF,Sevilla
+2275.0,Gonzalo Montiel,/en/players/374d5158/Gonzalo-Montiel,Gonzalo-Monti,374d5158,ar ARG,DF,Sevilla
+2276.0,Jesús Corona,/en/players/fb938d24/Jesus-Corona,Jesus-Coro,fb938d24,mx MEX,"FW,MF",Sevilla
+2277.0,Érik Lamela,/en/players/abe66106/Erik-Lamela,Erik-Lam,be66106,ar ARG,"FW,MF",Sevilla
+2278.0,Ludwig Augustinsson,/en/players/9fec8860/Ludwig-Augustinsson,Ludwig-Augustinsso,9fec8860,se SWE,DF,Sevilla
+2279.0,Anthony Martial,/en/players/8b788c01/Anthony-Martial,Anthony-Marti,8b788c01,fr FRA,"FW,MF",Sevilla
+2280.0,Marko Dmitrović,/en/players/ac295d9e/Marko-Dmitrovic,Marko-Dmitrovic,c295d9e,rs SRB,GK,Sevilla
+2281.0,Carmona,/en/players/2dce876a/Carmona,Carmo,2dce876a,es ESP,DF,Sevilla
+2282.0,Luismi,/en/players/acf5410c/Luismi,Luismi,cf5410c,es ESP,"FW,MF",Sevilla
+2283.0,Pedro Ortiz,/en/players/f9358b61/Pedro-Ortiz,Pedro-Ortiz,f9358b61,es ESP,MF,Sevilla
+2284.0,Valentino Scotta,/en/players/98529579/Valentino-Scotta,Valentino-Scott,98529579,es ESP,DF,Sevilla
+2285.0,Alberto López,/en/players/c25f14a7/Alberto-Lopez,Alberto-Lopez,c25f14a7,es ESP,GK,Sevilla
+2286.0,Enrique Valiente,/en/players/0a69de7b/Enrique-Valiente,Enrique-Valient,0a69de7b,es ESP,DF,Sevilla

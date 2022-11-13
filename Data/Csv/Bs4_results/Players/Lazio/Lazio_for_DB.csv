@@ -1,629 +1,629 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Claudio López,ar ARG,FW,34,30,13.0,15.0,2002-2003,ce8a4e4c,Lazio,"2,799",31.1,3.0,0.0,163.0,5.0,
-,Angelo Peruzzi,it ITA,GK,30,30,0.0,0.0,2002-2003,bcd5e1ca,Lazio,"2,528",28.1,0.0,0.0,163.0,9.0,
-,Bernardo Corradi,it ITA,FW,32,29,1.0,10.0,2002-2003,d50232c1,Lazio,"2,638",29.3,6.0,0.0,163.0,9.0,
-,Dejan Stanković,rs SRB,MF,29,29,6.0,6.0,2002-2003,167d7dd3,Lazio,"2,524",28.0,5.0,1.0,163.0,28.0,
-,Jaap Stam,nl NED,DF,28,28,0.0,0.0,2002-2003,7c48a3ec,Lazio,"2,520",28.0,3.0,0.0,163.0,11.0,
-,Stefano Fiore,it ITA,MF,33,28,4.0,6.0,2002-2003,2eb707d3,Lazio,"2,403",26.7,1.0,0.0,163.0,9.0,
-,Giuseppe Favalli,it ITA,DF,26,25,0.0,1.0,2002-2003,4e960f0f,Lazio,"2,209",24.5,3.0,0.0,163.0,9.0,
-,César,br BRA,"DF,MF",26,25,4.0,3.0,2002-2003,160833,Lazio,"2,166",24.1,1.0,0.0,163.0,2.0,
-,Siniša Mihajlović,rs SRB,DF,21,21,6.0,1.0,2002-2003,c14fb1a0,Lazio,"1,758",19.5,4.0,0.0,163.0,28.0,
-,Giuliano Giannichedda,it ITA,MF,25,18,0.0,0.0,2002-2003,1bfa94c1,Lazio,"1,623",18.0,6.0,0.0,163.0,9.0,
-,Diego Simeone,ar ARG,MF,24,18,2.0,7.0,2002-2003,4b58d1e3,Lazio,"1,603",17.8,4.0,0.0,163.0,5.0,
-,Paolo Negro,it ITA,DF,19,18,0.0,1.0,2002-2003,2538335b,Lazio,"1,570",17.4,6.0,0.0,163.0,9.0,
-,Massimo Oddo,it ITA,DF,19,16,3.0,0.0,2002-2003,552f6449,Lazio,"1,416",15.7,4.0,0.0,163.0,9.0,
-,Fernando Couto,pt POR,DF,15,15,0.0,0.0,2002-2003,fa2e0b8a,Lazio,"1,350",15.0,2.0,1.0,163.0,3.0,
-,Giuseppe Pancaro,it ITA,DF,16,10,0.0,0.0,2002-2003,804dd34f,Lazio,975,10.8,2.0,0.0,163.0,9.0,
-,Nikola Lazetić,rs SRB,MF,16,10,1.0,0.0,2002-2003,f8a83e49,Lazio,791,8.8,2.0,0.0,163.0,28.0,
-,Fabio Liverani,it ITA,MF,21,9,0.0,0.0,2002-2003,3fe72775,Lazio,863,9.6,1.0,1.0,163.0,9.0,
-,Simone Inzaghi,it ITA,FW,18,5,1.0,4.0,2002-2003,5e479984,Lazio,530,5.9,1.0,0.0,163.0,9.0,
-,Lucas Castromán,ar ARG,"FW,MF",16,4,0.0,1.0,2002-2003,055c12e,Lazio,498,5.5,3.0,0.0,163.0,5.0,
-,Luca Marchegiani,it ITA,GK,6,4,0.0,0.0,2002-2003,3ed24e,Lazio,431,4.8,0.0,0.0,163.0,9.0,
-,Juan Pablo Sorín,ar ARG,"DF,MF",6,4,0.0,0.0,2002-2003,239e2070,Lazio,384,4.3,0.0,0.0,163.0,5.0,
-,Enrico Chiesa,it ITA,FW,12,4,3.0,2.0,2002-2003,28dd2f5b,Lazio,334,3.7,1.0,0.0,163.0,9.0,
-,Christian Manfredini,ci CIV,MF,3,1,0.0,0.0,2002-2003,339ae404,Lazio,92,1.0,0.0,0.0,163.0,35.0,
-,Emanuele Concetti,it ITA,GK,2,0,0.0,0.0,2002-2003,f102f52f,Lazio,111,1.2,0.0,0.0,163.0,9.0,
-,Dino Baggio,it ITA,MF,4,0,0.0,0.0,2002-2003,0e351891,Lazio,63,0.7,1.0,0.0,163.0,9.0,
-,Guerino Gottardi,ch SUI,"DF,MF",1,0,0.0,0.0,2002-2003,6a7b83b8,Lazio,19,0.2,0.0,0.0,163.0,39.0,
-,﻿Stefano Fiore,it ITA,MF,32,30,5.0,8.0,2003-2004,2eb707d3,Lazio,"2,704",30.0,2.0,0.0,163.0,9.0,
-,Jaap Stam,nl NED,DF,29,29,0.0,2.0,2003-2004,7c48a3ec,Lazio,"2,459",27.3,3.0,0.0,163.0,11.0,
-,Giuseppe Favalli,it ITA,DF,29,28,1.0,0.0,2003-2004,4e960f0f,Lazio,"2,334",25.9,3.0,0.0,163.0,9.0,
-,Bernardo Corradi,it ITA,FW,32,27,6.0,9.0,2003-2004,d50232c1,Lazio,"2,546",28.3,5.0,0.0,163.0,9.0,
-,Angelo Peruzzi,it ITA,GK,27,27,0.0,0.0,2003-2004,bcd5e1ca,Lazio,"2,350",26.1,0.0,0.0,163.0,9.0,
-,Siniša Mihajlović,rs SRB,DF,25,25,3.0,1.0,2003-2004,c14fb1a0,Lazio,"2,095",23.3,9.0,1.0,163.0,28.0,
-,Massimo Oddo,it ITA,DF,31,22,3.0,1.0,2003-2004,552f6449,Lazio,"2,312",25.7,1.0,0.0,163.0,9.0,
-,Fabio Liverani,it ITA,MF,26,21,0.0,2.0,2003-2004,3fe72775,Lazio,"1,983",22.0,7.0,2.0,163.0,9.0,
-,Claudio López,ar ARG,FW,27,21,4.0,4.0,2003-2004,ce8a4e4c,Lazio,"1,740",19.3,1.0,0.0,163.0,5.0,
-,Fernando Couto,pt POR,DF,22,19,0.0,3.0,2003-2004,fa2e0b8a,Lazio,"1,598",17.8,0.0,0.0,163.0,3.0,
-,Giuliano Giannichedda,it ITA,MF,21,17,0.0,1.0,2003-2004,1bfa94c1,Lazio,"1,540",17.1,6.0,0.0,163.0,9.0,
-,Ousmane Dabo,fr FRA,MF,19,17,0.0,0.0,2003-2004,9af295a5,Lazio,"1,319",14.7,3.0,0.0,163.0,4.0,
-,Dejan Stanković,rs SRB,MF,15,15,,2.0,2003-2004,167d7dd3,Lazio,"1,309",14.5,2.0,1.0,163.0,28.0,
-,Demetrio Albertini,it ITA,"FW,MF",23,15,0.0,2.0,2003-2004,91a9535a,Lazio,"1,235",13.7,1.0,0.0,163.0,9.0,
-,Roberto Muzzi,it ITA,FW,22,14,2.0,1.0,2003-2004,1dd51eaf,Lazio,940,10.4,4.0,1.0,163.0,9.0,
-,Luciano Zauri,it ITA,DF,19,12,0.0,3.0,2003-2004,96947b99,Lazio,"1,291",14.3,1.0,0.0,163.0,9.0,
-,César,br BRA,"DF,MF",14,11,0.0,6.0,2003-2004,160833,Lazio,969,10.8,2.0,0.0,163.0,2.0,
-,Simone Inzaghi,it ITA,FW,24,9,2.0,5.0,2003-2004,5e479984,Lazio,"1,019",11.3,8.0,0.0,163.0,9.0,
-,Paolo Negro,it ITA,DF,13,7,0.0,0.0,2003-2004,2538335b,Lazio,806,9.0,4.0,0.0,163.0,9.0,
-,Matteo Sereni,it ITA,GK,9,7,0.0,0.0,2003-2004,5a846fbb,Lazio,710,7.9,0.0,0.0,163.0,9.0,
-,Sérgio Conceição,pt POR,MF,7,2,1.0,0.0,2003-2004,f396d247,Lazio,271,3.0,0.0,1.0,163.0,3.0,
-,Roberto Delgado,es ESP,FW,4,0,1.0,0.0,2003-2004,4fa766ce,Lazio,85,0.9,1.0,0.0,163.0,1.0,
-,﻿Massimo Oddo,it ITA,DF,35,34,4.0,4.0,2004-2005,552f6449,Lazio,"2,953",32.8,4.0,0.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",35,33,1.0,13.0,2004-2005,928198e6,Lazio,"2,837",31.5,4.0,1.0,163.0,9.0,
-,Giuliano Giannichedda,it ITA,MF,32,31,1.0,0.0,2004-2005,1bfa94c1,Lazio,"2,701",30.0,7.0,1.0,163.0,9.0,
-,Antonio Filippini,it ITA,"DF,MF",35,29,4.0,2.0,2004-2005,7f621318,Lazio,"2,694",29.9,6.0,0.0,163.0,9.0,
-,Sebastiano Siviglia,it ITA,DF,28,28,1.0,2.0,2004-2005,d8c086d3,Lazio,"2,368",26.3,4.0,1.0,163.0,9.0,
-,Emanuele Filippini,it ITA,MF,28,26,3.0,0.0,2004-2005,b6c4ff9c,Lazio,"2,335",25.9,6.0,0.0,163.0,9.0,
-,Ousmane Dabo,fr FRA,MF,29,26,0.0,1.0,2004-2005,9af295a5,Lazio,"2,319",25.8,11.0,1.0,163.0,4.0,
-,Fernando Couto,pt POR,DF,24,24,0.0,3.0,2004-2005,fa2e0b8a,Lazio,"2,080",23.1,4.0,2.0,163.0,3.0,
-,Luciano Zauri,it ITA,DF,21,21,1.0,0.0,2004-2005,96947b99,Lazio,"1,847",20.5,3.0,0.0,163.0,9.0,
-,Angelo Peruzzi,it ITA,GK,21,21,0.0,0.0,2004-2005,bcd5e1ca,Lazio,"1,612",17.9,0.0,1.0,163.0,9.0,
-,Fabio Liverani,it ITA,MF,24,20,5.0,1.0,2004-2005,3fe72775,Lazio,"1,627",18.1,2.0,0.0,163.0,9.0,
-,Matteo Sereni,it ITA,GK,20,16,0.0,0.0,2004-2005,5a846fbb,Lazio,"1,630",18.1,1.0,0.0,163.0,9.0,
-,César,br BRA,"DF,MF",20,16,2.0,3.0,2004-2005,160833,Lazio,"1,170",13.0,3.0,2.0,163.0,2.0,
-,Paolo Di Canio,it ITA,FW,23,14,2.0,6.0,2004-2005,9bbe0ecf,Lazio,"1,140",12.7,2.0,1.0,163.0,9.0,
-,Goran Pandev,mk MKD,"FW,MF",25,13,2.0,3.0,2004-2005,d711d04f,Lazio,"1,134",12.6,2.0,0.0,163.0,81.0,
-,Leonardo Talamonti,ar ARG,DF,12,12,0.0,1.0,2004-2005,19b20d5e,Lazio,"1,080",12.0,3.0,0.0,163.0,5.0,
-,Óscar López,es ESP,DF,14,10,1.0,0.0,2004-2005,14ae8df8,Lazio,956,10.6,1.0,0.0,163.0,1.0,
-,Roberto Muzzi,it ITA,FW,16,9,2.0,3.0,2004-2005,1dd51eaf,Lazio,736,8.2,1.0,0.0,163.0,9.0,
-,Fabio Bazzani,it ITA,FW,15,8,,3.0,2004-2005,53270ab,Lazio,843,9.4,5.0,0.0,163.0,9.0,
-,Anthony Šerić,hr CRO,DF,17,6,0.0,0.0,2004-2005,1dc1b88,Lazio,807,9.0,3.0,0.0,163.0,16.0,
-,Simone Inzaghi,it ITA,FW,12,6,0.0,1.0,2004-2005,5e479984,Lazio,658,7.3,3.0,0.0,163.0,9.0,
-,Christian Manfredini,ci CIV,MF,15,6,0.0,1.0,2004-2005,339ae404,Lazio,608,6.8,1.0,0.0,163.0,35.0,
-,Matías Lequi,ar ARG,DF,6,4,0.0,0.0,2004-2005,dd0c806c,Lazio,456,5.1,0.0,0.0,163.0,5.0,
-,Esteban González,ar ARG,MF,3,2,0.0,0.0,2004-2005,3b3381db,Lazio,203,2.3,1.0,0.0,163.0,5.0,
-,Fabrizio Casazza,it ITA,GK,3,1,0.0,0.0,2004-2005,1660b0d6,Lazio,178,2.0,0.0,0.0,163.0,9.0,
-,Paolo Negro,it ITA,DF,4,1,0.0,0.0,2004-2005,2538335b,Lazio,170,1.9,0.0,0.0,163.0,9.0,
-,Claudio De Sousa,it ITA,FW,4,0,0.0,1.0,2004-2005,9dfc0b63,Lazio,92,1.0,1.0,0.0,163.0,9.0,
-,Roberto Delgado,es ESP,FW,1,0,0.0,0.0,2004-2005,4fa766ce,Lazio,12,0.1,0.0,0.0,163.0,1.0,
-,﻿Luciano Zauri,it ITA,DF,37,37,3.0,1.0,2005-2006,96947b99,Lazio,"3,330",37.0,6.0,0.0,163.0,9.0,
-,Massimo Oddo,it ITA,DF,35,35,11.0,7.0,2005-2006,552f6449,Lazio,"3,141",34.9,5.0,0.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",37,35,2.0,16.0,2005-2006,928198e6,Lazio,"3,022",33.6,3.0,0.0,163.0,9.0,
-,Sebastiano Siviglia,it ITA,DF,31,31,0.0,1.0,2005-2006,d8c086d3,Lazio,"2,731",30.3,3.0,1.0,163.0,9.0,
-,Angelo Peruzzi,it ITA,GK,30,30,0.0,0.0,2005-2006,bcd5e1ca,Lazio,"2,633",29.3,0.0,0.0,163.0,9.0,
-,Fabio Liverani,it ITA,MF,29,29,3.0,1.0,2005-2006,3fe72775,Lazio,"2,438",27.1,5.0,1.0,163.0,9.0,
-,Ousmane Dabo,fr FRA,MF,31,28,1.0,2.0,2005-2006,9af295a5,Lazio,"2,505",27.8,6.0,1.0,163.0,4.0,
-,Emílson Cribari,br BRA,DF,28,28,0.0,0.0,2005-2006,0913c971,Lazio,"2,454",27.3,5.0,0.0,163.0,2.0,
-,Valon Behrami,ch SUI,"DF,MF",26,25,2.0,2.0,2005-2006,d3d758d8,Lazio,"2,076",23.1,8.0,1.0,163.0,39.0,
-,Goran Pandev,mk MKD,"FW,MF",35,22,5.0,11.0,2005-2006,d711d04f,Lazio,"2,050",22.8,3.0,0.0,163.0,81.0,
-,Paolo Di Canio,it ITA,FW,27,21,3.0,5.0,2005-2006,9bbe0ecf,Lazio,"1,428",15.9,3.0,0.0,163.0,9.0,
-,Guglielmo Stendardo,it ITA,DF,18,16,0.0,1.0,2005-2006,333a9ae7,Lazio,"1,522",16.9,3.0,0.0,163.0,9.0,
-,Christian Manfredini,ci CIV,MF,26,15,1.0,2.0,2005-2006,339ae404,Lazio,"1,471",16.3,6.0,0.0,163.0,35.0,
-,Stefano Mauri,it ITA,"FW,MF",15,14,,2.0,2005-2006,3bb6738,Lazio,"1,161",12.9,2.0,0.0,163.0,9.0,
-,César,br BRA,"DF,MF",11,10,1.0,1.0,2005-2006,160833,Lazio,809,9.0,1.0,0.0,163.0,2.0,
-,Manuel Belleri,it ITA,DF,16,8,1.0,1.0,2005-2006,3a990b8c,Lazio,965,10.7,1.0,0.0,163.0,9.0,
-,Gaby Mudingayi,be BEL,MF,14,8,2.0,1.0,2005-2006,d4a01bb2,Lazio,714,7.9,1.0,0.0,163.0,27.0,
-,Marco Ballotta,it ITA,GK,8,6,0.0,0.0,2005-2006,6e313d9f,Lazio,596,6.6,0.0,0.0,163.0,9.0,
-,Fabio Firmani,it ITA,MF,7,6,0.0,0.0,2005-2006,98dfb43e,Lazio,472,5.2,4.0,0.0,163.0,9.0,
-,Igli Tare,al ALB,FW,22,4,1.0,3.0,2005-2006,c491b53d,Lazio,700,7.8,3.0,0.0,163.0,78.0,
-,Christian Keller,dk DEN,MF,7,3,0.0,0.0,2005-2006,90f8b08a,Lazio,260,2.9,0.0,0.0,163.0,7.0,
-,Andrea Giallombardo,it ITA,DF,7,3,1.0,0.0,2005-2006,0ae51fb4,Lazio,253,2.8,0.0,0.0,163.0,9.0,
-,Massimo Bonanni,it ITA,MF,9,1,,0.0,2005-2006,d8eb4f88,Lazio,227,2.5,0.0,0.0,163.0,9.0,
-,Matteo Sereni,it ITA,GK,2,1,0.0,0.0,2005-2006,5a846fbb,Lazio,101,1.1,0.0,0.0,163.0,9.0,
-,Simone Inzaghi,it ITA,FW,7,0,0.0,0.0,2005-2006,5e479984,Lazio,80,0.9,2.0,0.0,163.0,9.0,
-,Felice Piccolo,it ITA,DF,2,0,0.0,0.0,2005-2006,75de4ad7,Lazio,35,0.4,0.0,0.0,163.0,9.0,
-,Roberto Muzzi,it ITA,FW,1,0,,0.0,2005-2006,1dd51eaf,Lazio,3,0.0,0.0,0.0,163.0,9.0,
-,﻿Luciano Zauri,it ITA,DF,36,36,1.0,0.0,2006-2007,96947b99,Lazio,"3,240",36.0,4.0,1.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",36,36,5.0,16.0,2006-2007,928198e6,Lazio,"3,039",33.8,3.0,1.0,163.0,9.0,
-,Goran Pandev,mk MKD,"FW,MF",36,34,3.0,11.0,2006-2007,d711d04f,Lazio,"2,533",28.1,3.0,1.0,163.0,81.0,
-,Cristian Ledesma,it ITA,MF,33,33,4.0,2.0,2006-2007,bb9eaa9,Lazio,"2,939",32.7,11.0,1.0,163.0,9.0,
-,Sebastiano Siviglia,it ITA,DF,32,31,0.0,3.0,2006-2007,d8c086d3,Lazio,"2,710",30.1,2.0,2.0,163.0,9.0,
-,Stefano Mauri,it ITA,"FW,MF",29,29,2.0,6.0,2006-2007,3bb6738,Lazio,"2,440",27.1,8.0,0.0,163.0,9.0,
-,Angelo Peruzzi,it ITA,GK,28,27,0.0,0.0,2006-2007,bcd5e1ca,Lazio,"2,381",26.5,0.0,0.0,163.0,9.0,
-,Gaby Mudingayi,be BEL,MF,28,25,2.0,0.0,2006-2007,d4a01bb2,Lazio,"2,286",25.4,14.0,0.0,163.0,27.0,
-,Massimo Mutarelli,it ITA,MF,24,23,1.0,2.0,2006-2007,4a5cc942,Lazio,"2,075",23.1,11.0,0.0,163.0,9.0,
-,Emílson Cribari,br BRA,DF,23,23,0.0,1.0,2006-2007,0913c971,Lazio,"2,034",22.6,3.0,1.0,163.0,2.0,
-,Guglielmo Stendardo,it ITA,DF,21,19,0.0,3.0,2006-2007,333a9ae7,Lazio,"1,687",18.7,4.0,2.0,163.0,9.0,
-,Christian Manfredini,ci CIV,MF,25,16,0.0,2.0,2006-2007,339ae404,Lazio,"1,417",15.7,2.0,0.0,163.0,35.0,
-,Massimo Oddo,it ITA,DF,15,15,,5.0,2006-2007,552f6449,Lazio,"1,306",14.5,5.0,1.0,163.0,9.0,
-,Valon Behrami,ch SUI,"DF,MF",17,15,0.0,1.0,2006-2007,d3d758d8,Lazio,"1,262",14.0,7.0,1.0,163.0,39.0,
-,Manuel Belleri,it ITA,DF,22,10,1.0,1.0,2006-2007,3a990b8c,Lazio,"1,026",11.4,2.0,0.0,163.0,9.0,
-,Marco Ballotta,it ITA,GK,11,9,0.0,0.0,2006-2007,6e313d9f,Lazio,865,9.6,0.0,0.0,163.0,9.0,
-,Luis Jiménez,cl CHI,"FW,MF",16,9,2.0,2.0,2006-2007,8e3320c6,Lazio,810,9.0,1.0,0.0,163.0,31.0,
-,Stephen Makinwa,ng NGA,FW,25,5,3.0,3.0,2006-2007,9bafb175,Lazio,799,8.9,1.0,0.0,163.0,52.0,
-,Roberto Baronio,it ITA,MF,11,5,0.0,0.0,2006-2007,6888b53a,Lazio,502,5.6,2.0,0.0,163.0,9.0,
-,Riccardo Bonetto,it ITA,"DF,MF",9,4,0.0,0.0,2006-2007,828dff44,Lazio,435,4.8,1.0,0.0,163.0,9.0,
-,Fabio Firmani,it ITA,MF,11,4,1.0,0.0,2006-2007,98dfb43e,Lazio,410,4.6,1.0,0.0,163.0,9.0,
-,Pasquale Foggia,it ITA,"FW,MF",11,3,0.0,1.0,2006-2007,9255af5d,Lazio,364,4.0,1.0,0.0,163.0,9.0,
-,Modibo Diakité,fr FRA,DF,3,2,0.0,0.0,2006-2007,5eb4ab4,Lazio,181,2.0,1.0,0.0,163.0,4.0,
-,Tommaso Berni,it ITA,GK,2,2,0.0,0.0,2006-2007,7b8f85c7,Lazio,174,1.9,0.0,0.0,163.0,9.0,
-,Igli Tare,al ALB,FW,14,1,2.0,0.0,2006-2007,c491b53d,Lazio,274,3.0,1.0,0.0,163.0,78.0,
-,Lorenzo De Silvestri,it ITA,"DF,MF",2,1,0.0,0.0,2006-2007,74f0e59,Lazio,103,1.1,0.0,0.0,163.0,9.0,
-,Alberto Quadri,it ITA,MF,1,1,0.0,0.0,2006-2007,db7706fb,Lazio,60,0.7,0.0,0.0,163.0,9.0,
-,Simone Inzaghi,it ITA,FW,5,0,0.0,0.0,2006-2007,5e479984,Lazio,62,0.7,1.0,0.0,163.0,9.0,
-,﻿Cristian Ledesma,it ITA,MF,32,31,4.0,3.0,2007-2008,bb9eaa9,Lazio,"2,801",31.1,8.0,0.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",36,31,5.0,14.0,2007-2008,928198e6,Lazio,"2,700",30.0,0.0,0.0,163.0,9.0,
-,Goran Pandev,mk MKD,"FW,MF",32,30,3.0,14.0,2007-2008,d711d04f,Lazio,"2,545",28.3,8.0,0.0,163.0,81.0,
-,Emílson Cribari,br BRA,DF,31,29,0.0,0.0,2007-2008,0913c971,Lazio,"2,680",29.8,1.0,0.0,163.0,2.0,
-,Marco Ballotta,it ITA,GK,29,29,0.0,0.0,2007-2008,6e313d9f,Lazio,"2,610",29.0,0.0,0.0,163.0,9.0,
-,Massimo Mutarelli,it ITA,MF,24,22,2.0,2.0,2007-2008,4a5cc942,Lazio,"1,876",20.8,8.0,2.0,163.0,9.0,
-,Gaby Mudingayi,be BEL,MF,27,21,0.0,0.0,2007-2008,d4a01bb2,Lazio,"1,953",21.7,12.0,0.0,163.0,27.0,
-,Valon Behrami,ch SUI,"DF,MF",22,21,0.0,1.0,2007-2008,d3d758d8,Lazio,"1,804",20.0,5.0,0.0,163.0,39.0,
-,Sebastiano Siviglia,it ITA,DF,19,19,0.0,1.0,2007-2008,d8c086d3,Lazio,"1,683",18.7,5.0,2.0,163.0,9.0,
-,Stefano Mauri,it ITA,"FW,MF",24,18,5.0,3.0,2007-2008,3bb6738,Lazio,"1,583",17.6,1.0,0.0,163.0,9.0,
-,Lorenzo De Silvestri,it ITA,"DF,MF",24,17,2.0,0.0,2007-2008,74f0e59,Lazio,"1,570",17.4,5.0,2.0,163.0,9.0,
-,Luciano Zauri,it ITA,DF,18,17,0.0,0.0,2007-2008,96947b99,Lazio,"1,512",16.8,7.0,1.0,163.0,9.0,
-,Aleksandar Kolarov,rs SRB,DF,24,17,1.0,1.0,2007-2008,da40760,Lazio,"1,489",16.5,6.0,1.0,163.0,28.0,
-,Christian Manfredini,ci CIV,MF,23,15,0.0,0.0,2007-2008,339ae404,Lazio,"1,309",14.5,2.0,0.0,163.0,35.0,
-,Guglielmo Stendardo,it ITA,DF,13,13,0.0,0.0,2007-2008,333a9ae7,Lazio,"1,086",12.1,2.0,1.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,11,11,0.0,0.0,2007-2008,53de807a,Lazio,949,10.5,1.0,0.0,163.0,51.0,
-,Ousmane Dabo,fr FRA,MF,13,10,0.0,0.0,2007-2008,9af295a5,Lazio,728,8.1,6.0,1.0,163.0,4.0,
-,Fernando Muslera,uy URU,GK,9,9,0.0,0.0,2007-2008,2abe631,Lazio,810,9.0,2.0,0.0,163.0,8.0,
-,Rolando Bianchi,it ITA,FW,15,9,0.0,4.0,2007-2008,11fcbfe7,Lazio,805,8.9,3.0,1.0,163.0,9.0,
-,Lionel Scaloni,ar ARG,"DF,MF",12,7,0.0,0.0,2007-2008,6cc4990c,Lazio,794,8.8,0.0,0.0,163.0,5.0,
-,Mourad Meghni,dz ALG,MF,19,7,0.0,0.0,2007-2008,84d68ba9,Lazio,723,8.0,1.0,0.0,163.0,37.0,
-,David Rozehnal,cz CZE,DF,10,7,0.0,0.0,2007-2008,f97753b7,Lazio,648,7.2,1.0,0.0,163.0,84.0,
-,Stephen Makinwa,ng NGA,FW,14,6,0.0,0.0,2007-2008,9bafb175,Lazio,599,6.7,0.0,0.0,163.0,52.0,
-,Roberto Baronio,it ITA,MF,8,6,0.0,0.0,2007-2008,6888b53a,Lazio,508,5.6,2.0,0.0,163.0,9.0,
-,Fabio Firmani,it ITA,MF,7,5,0.0,3.0,2007-2008,98dfb43e,Lazio,464,5.2,4.0,1.0,163.0,9.0,
-,Igli Tare,al ALB,FW,18,4,1.0,1.0,2007-2008,c491b53d,Lazio,499,5.5,2.0,0.0,163.0,78.0,
-,Fabio Vignaroli,it ITA,"FW,MF",9,3,1.0,0.0,2007-2008,b4f7bdf5,Lazio,392,4.4,0.0,0.0,163.0,9.0,
-,Simone Del Nero,it ITA,"DF,FW",5,2,0.0,0.0,2007-2008,ce1ace0d,Lazio,173,1.9,1.0,0.0,163.0,9.0,
-,Ivan Artipoli,it ITA,DF,1,1,0.0,0.0,2007-2008,7377878d,Lazio,70,0.8,0.0,0.0,163.0,9.0,
-,Modibo Diakité,fr FRA,DF,1,1,0.0,0.0,2007-2008,5eb4ab4,Lazio,40,0.4,0.0,0.0,163.0,4.0,
-,﻿Cristian Ledesma,it ITA,MF,34,34,0.0,2.0,2008-2009,bb9eaa9,Lazio,"3,035",33.7,6.0,1.0,163.0,9.0,
-,Mauro Zárate,ar ARG,"FW,MF",36,33,8.0,13.0,2008-2009,cc18ff4c,Lazio,"2,811",31.2,6.0,0.0,163.0,5.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",33,31,2.0,1.0,2008-2009,99b1d0e6,Lazio,"2,753",30.6,7.0,0.0,163.0,39.0,
-,Goran Pandev,mk MKD,"FW,MF",31,29,1.0,9.0,2008-2009,d711d04f,Lazio,"2,364",26.3,8.0,0.0,163.0,81.0,
-,Sebastiano Siviglia,it ITA,DF,27,26,0.0,2.0,2008-2009,d8c086d3,Lazio,"2,363",26.3,8.0,0.0,163.0,9.0,
-,David Rozehnal,cz CZE,DF,28,25,0.0,0.0,2008-2009,f97753b7,Lazio,"2,330",25.9,3.0,0.0,163.0,84.0,
-,Cristian Brocchi,it ITA,MF,31,25,1.0,0.0,2008-2009,14165e5f,Lazio,"2,175",24.2,9.0,1.0,163.0,9.0,
-,Juan Pablo Carrizo,ar ARG,GK,23,23,0.0,0.0,2008-2009,04e6e152,Lazio,"2,070",23.0,2.0,0.0,163.0,5.0,
-,Aleksandar Kolarov,rs SRB,DF,25,22,2.0,2.0,2008-2009,da40760,Lazio,"1,963",21.8,3.0,1.0,163.0,28.0,
-,Pasquale Foggia,it ITA,"FW,MF",33,19,5.0,3.0,2008-2009,9255af5d,Lazio,"1,907",21.2,5.0,0.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,19,18,0.0,0.0,2008-2009,53de807a,Lazio,"1,565",17.4,8.0,0.0,163.0,51.0,
-,Stefano Mauri,it ITA,"FW,MF",26,17,3.0,1.0,2008-2009,3bb6738,Lazio,"1,592",17.7,4.0,0.0,163.0,9.0,
-,Emílson Cribari,br BRA,DF,17,16,0.0,0.0,2008-2009,0913c971,Lazio,"1,405",15.6,2.0,0.0,163.0,2.0,
-,Tommaso Rocchi,it ITA,"FW,MF",27,15,1.0,9.0,2008-2009,928198e6,Lazio,"1,700",18.9,0.0,0.0,163.0,9.0,
-,Fernando Muslera,uy URU,GK,15,15,0.0,0.0,2008-2009,2abe631,Lazio,"1,350",15.0,1.0,0.0,163.0,8.0,
-,Ousmane Dabo,fr FRA,MF,21,15,1.0,1.0,2008-2009,9af295a5,Lazio,"1,109",12.3,5.0,0.0,163.0,4.0,
-,Matuzalém,br BRA,MF,14,13,0.0,0.0,2008-2009,5ba2fc63,Lazio,"1,113",12.4,4.0,1.0,163.0,2.0,
-,Lorenzo De Silvestri,it ITA,"DF,MF",21,12,0.0,0.0,2008-2009,74f0e59,Lazio,"1,069",11.9,2.0,1.0,163.0,9.0,
-,Mourad Meghni,dz ALG,MF,22,10,1.0,0.0,2008-2009,84d68ba9,Lazio,978,10.9,3.0,0.0,163.0,37.0,
-,Modibo Diakité,fr FRA,DF,9,9,0.0,1.0,2008-2009,5eb4ab4,Lazio,729,8.1,2.0,0.0,163.0,4.0,
-,Simone Del Nero,it ITA,"DF,FW",6,5,0.0,0.0,2008-2009,ce1ace0d,Lazio,329,3.7,1.0,0.0,163.0,9.0,
-,Christian Manfredini,ci CIV,MF,8,3,0.0,0.0,2008-2009,339ae404,Lazio,257,2.9,0.0,0.0,163.0,35.0,
-,Ettore Mendicino,it ITA,FW,4,1,0.0,0.0,2008-2009,69542ea5,Lazio,151,1.7,0.0,0.0,163.0,9.0,
-,Libor Kozák,cz CZE,FW,3,1,0.0,0.0,2008-2009,979d0640,Lazio,122,1.4,0.0,0.0,163.0,84.0,
-,Manuel Belleri,it ITA,DF,1,1,0.0,0.0,2008-2009,3a990b8c,Lazio,45,0.5,0.0,0.0,163.0,9.0,
-,Simone Inzaghi,it ITA,FW,9,0,0.0,1.0,2008-2009,5e479984,Lazio,122,1.4,1.0,0.0,163.0,9.0,
-,Stephen Makinwa,ng NGA,FW,4,0,0.0,0.0,2008-2009,9bafb175,Lazio,40,0.4,0.0,0.0,163.0,52.0,
-,Riccardo Perpetuini,it ITA,"DF,MF",1,0,0.0,0.0,2008-2009,b5ea1625,Lazio,21,0.2,0.0,0.0,163.0,9.0,
-,Alessandro Tuia,it ITA,DF,1,0,0.0,0.0,2008-2009,26c54058,Lazio,13,0.1,0.0,0.0,163.0,9.0,
-,﻿Fernando Muslera,uy URU,GK,36,36,0.0,0.0,2009-2010,2abe631,Lazio,"3,240",36.0,4.0,0.0,163.0,8.0,
-,Aleksandar Kolarov,rs SRB,DF,33,33,2.0,3.0,2009-2010,da40760,Lazio,"2,925",32.5,8.0,1.0,163.0,28.0,
-,Stefano Mauri,it ITA,"FW,MF",35,29,3.0,3.0,2009-2010,3bb6738,Lazio,"2,590",28.8,5.0,0.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,28,28,0.0,0.0,2009-2010,53de807a,Lazio,"2,520",28.0,10.0,0.0,163.0,51.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",33,28,0.0,2.0,2009-2010,99b1d0e6,Lazio,"2,419",26.9,5.0,0.0,163.0,39.0,
-,Mauro Zárate,ar ARG,"FW,MF",32,27,4.0,3.0,2009-2010,cc18ff4c,Lazio,"2,539",28.2,7.0,1.0,163.0,5.0,
-,Cristian Brocchi,it ITA,MF,27,25,1.0,2.0,2009-2010,14165e5f,Lazio,"2,181",24.2,2.0,0.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",32,23,5.0,6.0,2009-2010,928198e6,Lazio,"1,980",22.0,2.0,0.0,163.0,9.0,
-,Roberto Baronio,it ITA,MF,24,22,2.0,0.0,2009-2010,6888b53a,Lazio,"1,842",20.5,8.0,1.0,163.0,9.0,
-,Guglielmo Stendardo,it ITA,DF,19,19,0.0,2.0,2009-2010,333a9ae7,Lazio,"1,626",18.1,6.0,0.0,163.0,9.0,
-,Sebastiano Siviglia,it ITA,DF,20,18,0.0,1.0,2009-2010,d8c086d3,Lazio,"1,500",16.7,3.0,0.0,163.0,9.0,
-,Sergio Floccari,it ITA,FW,17,17,2.0,8.0,2009-2010,df301450,Lazio,"1,391",15.5,2.0,0.0,163.0,9.0,
-,Matuzalém,br BRA,MF,18,14,0.0,1.0,2009-2010,5ba2fc63,Lazio,"1,164",12.9,4.0,0.0,163.0,2.0,
-,Cristian Ledesma,it ITA,MF,13,13,2.0,0.0,2009-2010,bb9eaa9,Lazio,"1,169",13.0,4.0,1.0,163.0,9.0,
-,André Dias,br BRA,DF,12,12,0.0,2.0,2009-2010,873e2abf,Lazio,"1,080",12.0,3.0,0.0,163.0,2.0,
-,Modibo Diakité,fr FRA,DF,19,11,0.0,0.0,2009-2010,5eb4ab4,Lazio,"1,118",12.4,3.0,0.0,163.0,4.0,
-,Giuseppe Biava,it ITA,DF,13,10,0.0,0.0,2009-2010,4b799ee6,Lazio,914,10.2,3.0,0.0,163.0,9.0,
-,Pasquale Foggia,it ITA,"FW,MF",16,9,2.0,0.0,2009-2010,9255af5d,Lazio,819,9.1,3.0,0.0,163.0,9.0,
-,Julio Ricardo Cruz,ar ARG,FW,25,8,1.0,4.0,2009-2010,7679c2bc,Lazio,"1,064",11.8,3.0,0.0,163.0,5.0,
-,Fabio Firmani,it ITA,MF,12,8,0.0,0.0,2009-2010,98dfb43e,Lazio,674,7.5,5.0,0.0,163.0,9.0,
-,Emílson Cribari,br BRA,DF,10,7,0.0,0.0,2009-2010,0913c971,Lazio,621,6.9,3.0,1.0,163.0,2.0,
-,Ousmane Dabo,fr FRA,MF,12,6,0.0,0.0,2009-2010,9af295a5,Lazio,607,6.7,2.0,1.0,163.0,4.0,
-,Simone Del Nero,it ITA,"DF,FW",7,6,0.0,0.0,2009-2010,ce1ace0d,Lazio,509,5.7,3.0,0.0,163.0,9.0,
-,Mourad Meghni,dz ALG,MF,7,3,0.0,0.0,2009-2010,84d68ba9,Lazio,278,3.1,0.0,0.0,163.0,37.0,
-,Thomas Hitzlsperger,de GER,MF,6,2,0.0,1.0,2009-2010,2757060a,Lazio,251,2.8,0.0,0.0,163.0,13.0,
-,Tommaso Berni,it ITA,GK,2,2,0.0,0.0,2009-2010,7b8f85c7,Lazio,180,2.0,0.0,0.0,163.0,9.0,
-,Lionel Scaloni,ar ARG,"DF,MF",5,1,0.0,0.0,2009-2010,6cc4990c,Lazio,132,1.5,0.0,0.0,163.0,5.0,
-,Riccardo Perpetuini,it ITA,"DF,MF",2,1,0.0,0.0,2009-2010,b5ea1625,Lazio,65,0.7,1.0,0.0,163.0,9.0,
-,Simone Inzaghi,it ITA,FW,3,0,0.0,0.0,2009-2010,5e479984,Lazio,45,0.5,0.0,0.0,163.0,9.0,
-,Stephen Makinwa,ng NGA,FW,2,0,0.0,0.0,2009-2010,9bafb175,Lazio,40,0.4,0.0,0.0,163.0,52.0,
-,Eliseu,pt POR,"DF,MF",2,0,0.0,0.0,2009-2010,981869fc,Lazio,16,0.2,0.0,0.0,163.0,3.0,
-,Alessio Luciani,it ITA,DF,1,0,0.0,0.0,2009-2010,1984f6cd,Lazio,6,0.1,0.0,0.0,163.0,9.0,
-,﻿Fernando Muslera,uy URU,GK,36,36,0.0,0.0,2010-2011,2abe631,Lazio,"3,240",36.0,0.0,0.0,163.0,8.0,
-,Giuseppe Biava,it ITA,DF,35,35,0.0,3.0,2010-2011,4b799ee6,Lazio,"3,035",33.7,7.0,2.0,163.0,9.0,
-,Hernanes,br BRA,MF,36,35,6.0,11.0,2010-2011,cfc2ee72,Lazio,"2,839",31.5,1.0,0.0,163.0,2.0,
-,André Dias,br BRA,DF,33,33,1.0,2.0,2010-2011,873e2abf,Lazio,"2,964",32.9,7.0,1.0,163.0,2.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",34,33,2.0,0.0,2010-2011,99b1d0e6,Lazio,"2,917",32.4,8.0,0.0,163.0,39.0,
-,Cristian Ledesma,it ITA,MF,34,30,8.0,1.0,2010-2011,bb9eaa9,Lazio,"2,674",29.7,4.0,2.0,163.0,9.0,
-,Mauro Zárate,ar ARG,"FW,MF",35,28,7.0,9.0,2010-2011,cc18ff4c,Lazio,"2,484",27.6,2.0,0.0,163.0,5.0,
-,Stefano Mauri,it ITA,"FW,MF",29,26,8.0,6.0,2010-2011,3bb6738,Lazio,"2,267",25.2,3.0,1.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,26,26,0.0,0.0,2010-2011,53de807a,Lazio,"2,265",25.2,5.0,1.0,163.0,51.0,
-,Cristian Brocchi,it ITA,MF,31,25,2.0,0.0,2010-2011,14165e5f,Lazio,"2,301",25.6,7.0,0.0,163.0,9.0,
-,Sergio Floccari,it ITA,FW,30,25,0.0,8.0,2010-2011,df301450,Lazio,"2,180",24.2,0.0,0.0,163.0,9.0,
-,Matuzalém,br BRA,MF,22,18,0.0,0.0,2010-2011,5ba2fc63,Lazio,"1,709",19.0,4.0,0.0,163.0,2.0,
-,Giuseppe Sculli,it ITA,"FW,MF",13,11,2.0,2.0,2010-2011,cef60dc5,Lazio,845,9.4,1.0,0.0,163.0,9.0,
-,Álvaro González,uy URU,MF,19,8,0.0,1.0,2010-2011,873b892d,Lazio,882,9.8,1.0,0.0,163.0,8.0,
-,Javier Garrido,es ESP,DF,10,8,1.0,0.0,2010-2011,3b142ce5,Lazio,672,7.5,1.0,0.0,163.0,1.0,
-,Mark Bresciano,au AUS,MF,20,7,0.0,0.0,2010-2011,cb20f13a,Lazio,652,7.2,3.0,0.0,163.0,42.0,
-,Libor Kozák,cz CZE,FW,19,6,0.0,6.0,2010-2011,979d0640,Lazio,761,8.5,4.0,0.0,163.0,84.0,
-,Guglielmo Stendardo,it ITA,DF,14,6,0.0,0.0,2010-2011,333a9ae7,Lazio,678,7.5,3.0,0.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",17,6,3.0,3.0,2010-2011,928198e6,Lazio,554,6.2,0.0,0.0,163.0,9.0,
-,Lionel Scaloni,ar ARG,"DF,MF",12,5,0.0,0.0,2010-2011,6cc4990c,Lazio,599,6.7,3.0,0.0,163.0,5.0,
-,Modibo Diakité,fr FRA,DF,8,4,0.0,0.0,2010-2011,5eb4ab4,Lazio,338,3.8,1.0,0.0,163.0,4.0,
-,Pasquale Foggia,it ITA,"FW,MF",9,2,0.0,0.0,2010-2011,9255af5d,Lazio,253,2.8,1.0,0.0,163.0,9.0,
-,Luis Pedro Cavanda,be BEL,"DF,MF",3,2,0.0,0.0,2010-2011,b8a6bf56,Lazio,209,2.3,1.0,0.0,163.0,27.0,
-,Tommaso Berni,it ITA,GK,2,2,0.0,0.0,2010-2011,7b8f85c7,Lazio,180,2.0,0.0,0.0,163.0,9.0,
-,Simone Del Nero,it ITA,"DF,FW",2,1,0.0,0.0,2010-2011,ce1ace0d,Lazio,57,0.6,0.0,0.0,163.0,9.0,
-,﻿Cristian Ledesma,it ITA,MF,37,36,5.0,3.0,2011-2012,bb9eaa9,Lazio,"3,273",36.4,4.0,0.0,163.0,9.0,
-,Federico Marchetti,it ITA,GK,31,31,0.0,0.0,2011-2012,f794b426,Lazio,"2,761",30.7,1.0,0.0,163.0,9.0,
-,Hernanes,br BRA,MF,31,27,4.0,8.0,2011-2012,cfc2ee72,Lazio,"2,032",22.6,3.0,0.0,163.0,2.0,
-,Miroslav Klose,de GER,FW,27,26,5.0,13.0,2011-2012,5e36a0dd,Lazio,"2,282",25.4,1.0,0.0,163.0,13.0,
-,Abdoulay Konko,fr FRA,"DF,MF",26,25,0.0,0.0,2011-2012,43857861,Lazio,"2,162",24.0,3.0,1.0,163.0,4.0,
-,Giuseppe Biava,it ITA,DF,26,25,0.0,1.0,2011-2012,4b799ee6,Lazio,"2,098",23.3,8.0,0.0,163.0,9.0,
-,Álvaro González,uy URU,MF,31,23,3.0,1.0,2011-2012,873b892d,Lazio,"2,174",24.2,2.0,1.0,163.0,8.0,
-,Senad Lulić,ba BIH,"DF,MF",27,23,3.0,4.0,2011-2012,7fd58fe3,Lazio,"2,038",22.6,3.0,0.0,163.0,49.0,
-,André Dias,br BRA,DF,23,22,0.0,0.0,2011-2012,873e2abf,Lazio,"1,809",20.1,9.0,2.0,163.0,2.0,
-,Ștefan Radu,ro ROU,DF,21,21,1.0,0.0,2011-2012,53de807a,Lazio,"1,818",20.2,3.0,0.0,163.0,51.0,
-,Modibo Diakité,fr FRA,DF,25,19,1.0,1.0,2011-2012,5eb4ab4,Lazio,"1,890",21.0,6.0,1.0,163.0,4.0,
-,Tommaso Rocchi,it ITA,"FW,MF",20,17,3.0,5.0,2011-2012,928198e6,Lazio,"1,216",13.5,1.0,0.0,163.0,9.0,
-,Stefano Mauri,it ITA,"FW,MF",16,14,1.0,4.0,2011-2012,3bb6738,Lazio,"1,192",13.2,4.0,0.0,163.0,9.0,
-,Djibril Cissé,fr FRA,FW,18,13,5.0,1.0,2011-2012,7e6917be,Lazio,"1,196",13.3,2.0,0.0,163.0,4.0,
-,Matuzalém,br BRA,MF,21,12,2.0,1.0,2011-2012,5ba2fc63,Lazio,"1,185",13.2,7.0,1.0,163.0,2.0,
-,Cristian Brocchi,it ITA,MF,15,12,0.0,0.0,2011-2012,14165e5f,Lazio,"1,063",11.8,2.0,0.0,163.0,9.0,
-,Lionel Scaloni,ar ARG,"DF,MF",19,11,1.0,1.0,2011-2012,6cc4990c,Lazio,"1,158",12.9,3.0,1.0,163.0,5.0,
-,Antonio Candreva,it ITA,"DF,FW",15,10,0.0,3.0,2011-2012,356c9002,Lazio,"1,006",11.2,3.0,0.0,163.0,9.0,
-,Javier Garrido,es ESP,DF,11,10,0.0,0.0,2011-2012,3b142ce5,Lazio,735,8.2,2.0,0.0,163.0,1.0,
-,Marius Stankevičius,lt LTU,"DF,MF",11,9,0.0,0.0,2011-2012,7c3a4a58,Lazio,808,9.0,2.0,0.0,163.0,72.0,
-,Lorik Cana,al ALB,"DF,MF",15,8,0.0,2.0,2011-2012,01ceeb0f,Lazio,787,8.7,3.0,0.0,163.0,78.0,
-,Albano Bizzarri,ar ARG,GK,7,7,0.0,0.0,2011-2012,32b9b5fa,Lazio,585,6.5,0.0,1.0,163.0,5.0,
-,Luciano Zauri,it ITA,DF,8,6,0.0,0.0,2011-2012,96947b99,Lazio,592,6.6,0.0,0.0,163.0,9.0,
-,Giuseppe Sculli,it ITA,"FW,MF",11,5,1.0,2.0,2011-2012,cef60dc5,Lazio,525,5.8,2.0,0.0,163.0,9.0,
-,Libor Kozák,cz CZE,FW,17,4,2.0,4.0,2011-2012,979d0640,Lazio,620,6.9,2.0,1.0,163.0,84.0,
-,Emiliano Alfaro,uy URU,FW,8,1,0.0,0.0,2011-2012,c70e8c98,Lazio,240,2.7,0.0,0.0,163.0,8.0,
-,Luis Pedro Cavanda,be BEL,"DF,MF",1,1,0.0,0.0,2011-2012,b8a6bf56,Lazio,45,0.5,0.0,0.0,163.0,27.0,
-,Juan Pablo Carrizo,ar ARG,GK,2,0,0.0,0.0,2011-2012,04e6e152,Lazio,74,0.8,0.0,0.0,163.0,5.0,
-,Antonio Rozzi,it ITA,"FW,MF",3,0,0.0,0.0,2011-2012,bef7564e,Lazio,38,0.4,1.0,0.0,163.0,9.0,
-,Simone Del Nero,it ITA,"DF,FW",2,0,0.0,0.0,2011-2012,ce1ace0d,Lazio,4,0.0,0.0,0.0,163.0,9.0,
-,Ogenyi Onazi,ng NGA,MF,1,0,0.0,0.0,2011-2012,17310a6c,Lazio,1,0.0,0.0,0.0,163.0,52.0,
-,Enrico Zampa,it ITA,MF,1,0,0.0,0.0,2011-2012,52459cdc,Lazio,1,0.0,0.0,0.0,163.0,9.0,
-,﻿Cristian Ledesma,it ITA,MF,36,35,1.0,1.0,2012-2013,bb9eaa9,Lazio,"2,951",32.8,8.0,1.0,163.0,9.0,
-,Federico Marchetti,it ITA,GK,33,33,0.0,0.0,2012-2013,f794b426,Lazio,"2,970",33.0,2.0,0.0,163.0,9.0,
-,Antonio Candreva,it ITA,"DF,FW",35,32,5.0,6.0,2012-2013,356c9002,Lazio,"2,696",30.0,6.0,1.0,163.0,9.0,
-,Giuseppe Biava,it ITA,DF,31,30,1.0,1.0,2012-2013,4b799ee6,Lazio,"2,623",29.1,7.0,2.0,163.0,9.0,
-,Hernanes,br BRA,MF,34,30,4.0,11.0,2012-2013,cfc2ee72,Lazio,"2,550",28.3,4.0,1.0,163.0,2.0,
-,Senad Lulić,ba BIH,"DF,MF",33,29,6.0,1.0,2012-2013,7fd58fe3,Lazio,"2,606",29.0,9.0,0.0,163.0,49.0,
-,Álvaro González,uy URU,MF,34,29,2.0,1.0,2012-2013,873b892d,Lazio,"2,482",27.6,4.0,0.0,163.0,8.0,
-,Miroslav Klose,de GER,FW,29,26,1.0,15.0,2012-2013,5e36a0dd,Lazio,"2,180",24.2,5.0,0.0,163.0,13.0,
-,André Dias,br BRA,DF,27,25,0.0,0.0,2012-2013,873e2abf,Lazio,"2,149",23.9,6.0,0.0,163.0,2.0,
-,Abdoulay Konko,fr FRA,"DF,MF",25,25,3.0,1.0,2012-2013,43857861,Lazio,"2,069",23.0,3.0,0.0,163.0,4.0,
-,Stefano Mauri,it ITA,"FW,MF",26,23,5.0,3.0,2012-2013,3bb6738,Lazio,"1,905",21.2,3.0,1.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,23,22,0.0,1.0,2012-2013,53de807a,Lazio,"1,939",21.5,4.0,0.0,163.0,51.0,
-,Lorik Cana,al ALB,"DF,MF",24,13,0.0,0.0,2012-2013,01ceeb0f,Lazio,"1,430",15.9,9.0,0.0,163.0,78.0,
-,Michaël Ciani,fr FRA,DF,18,13,1.0,0.0,2012-2013,2ce3dc98,Lazio,"1,195",13.3,5.0,1.0,163.0,4.0,
-,Sergio Floccari,it ITA,FW,22,11,1.0,5.0,2012-2013,df301450,Lazio,"1,173",13.0,1.0,0.0,163.0,9.0,
-,Ogenyi Onazi,ng NGA,MF,15,8,0.0,1.0,2012-2013,17310a6c,Lazio,829,9.2,0.0,0.0,163.0,52.0,
-,Luis Pedro Cavanda,be BEL,"DF,MF",14,8,0.0,0.0,2012-2013,b8a6bf56,Lazio,759,8.4,5.0,0.0,163.0,27.0,
-,Libor Kozák,cz CZE,FW,19,5,0.0,0.0,2012-2013,979d0640,Lazio,727,8.1,1.0,1.0,163.0,84.0,
-,Albano Bizzarri,ar ARG,GK,5,5,0.0,0.0,2012-2013,32b9b5fa,Lazio,450,5.0,0.0,0.0,163.0,5.0,
-,Ederson,br BRA,MF,15,4,0.0,1.0,2012-2013,14bf51f0,Lazio,468,5.2,1.0,0.0,163.0,2.0,
-,Bruno Pereirinha,pt POR,"DF,MF",8,3,0.0,0.0,2012-2013,02e7fa4f,Lazio,426,4.7,1.0,0.0,163.0,3.0,
-,Cristian Brocchi,it ITA,MF,8,2,0.0,0.0,2012-2013,14165e5f,Lazio,197,2.2,0.0,0.0,163.0,9.0,
-,Tommaso Rocchi,it ITA,"FW,MF",3,2,0.0,0.0,2012-2013,928198e6,Lazio,154,1.7,0.0,0.0,163.0,9.0,
-,Marius Stankevičius,lt LTU,"DF,MF",3,2,0.0,0.0,2012-2013,7c3a4a58,Lazio,151,1.7,0.0,0.0,163.0,72.0,
-,Louis Saha,fr FRA,FW,6,1,0.0,0.0,2012-2013,7106e4fe,Lazio,130,1.4,0.0,0.0,163.0,4.0,
-,Lionel Scaloni,ar ARG,"DF,MF",4,1,0.0,0.0,2012-2013,6cc4990c,Lazio,120,1.3,0.0,0.0,163.0,5.0,
-,Mauro Zárate,ar ARG,"FW,MF",1,1,0.0,0.0,2012-2013,cc18ff4c,Lazio,67,0.7,0.0,0.0,163.0,5.0,
-,Luca Crecco,it ITA,MF,1,0,0.0,0.0,2012-2013,c7f24d4b,Lazio,24,0.3,0.0,0.0,163.0,9.0,
-,﻿Antonio Candreva,it ITA,"DF,FW",37,35,6.0,12.0,2013-2014,356c9002,Lazio,"3,072",34.1,3.0,1.0,163.0,9.0,
-,Senad Lulić,ba BIH,"DF,MF",30,28,3.0,7.0,2013-2014,7fd58fe3,Lazio,"2,544",28.3,10.0,1.0,163.0,49.0,
-,Ștefan Radu,ro ROU,DF,25,25,0.0,1.0,2013-2014,53de807a,Lazio,"2,250",25.0,10.0,0.0,163.0,51.0,
-,Cristian Ledesma,it ITA,MF,27,25,3.0,0.0,2013-2014,bb9eaa9,Lazio,"2,230",24.8,7.0,1.0,163.0,9.0,
-,Lorik Cana,al ALB,"DF,MF",26,24,1.0,2.0,2013-2014,01ceeb0f,Lazio,"1,999",22.2,8.0,1.0,163.0,78.0,
-,Lucas Biglia,ar ARG,MF,26,23,0.0,2.0,2013-2014,5710a281,Lazio,"1,943",21.6,6.0,1.0,163.0,5.0,
-,Miroslav Klose,de GER,FW,25,22,2.0,7.0,2013-2014,5e36a0dd,Lazio,"2,012",22.4,2.0,0.0,163.0,13.0,
-,Federico Marchetti,it ITA,GK,21,21,0.0,0.0,2013-2014,f794b426,Lazio,"1,890",21.0,0.0,0.0,163.0,9.0,
-,Abdoulay Konko,fr FRA,"DF,MF",21,21,0.0,0.0,2013-2014,43857861,Lazio,"1,786",19.8,1.0,0.0,163.0,4.0,
-,Ogenyi Onazi,ng NGA,MF,29,19,2.0,1.0,2013-2014,17310a6c,Lazio,"1,712",19.0,5.0,1.0,163.0,52.0,
-,Giuseppe Biava,it ITA,DF,20,19,0.0,1.0,2013-2014,4b799ee6,Lazio,"1,659",18.4,2.0,0.0,163.0,9.0,
-,Etrit Berisha,al ALB,GK,17,17,0.0,0.0,2013-2014,833569,Lazio,"1,530",17.0,0.0,0.0,163.0,78.0,
-,Álvaro González,uy URU,MF,25,16,2.0,1.0,2013-2014,873b892d,Lazio,"1,425",15.8,1.0,0.0,163.0,8.0,
-,Luis Pedro Cavanda,be BEL,"DF,MF",19,15,1.0,1.0,2013-2014,b8a6bf56,Lazio,"1,347",15.0,3.0,0.0,163.0,27.0,
-,Keita Baldé,sn SEN,"FW,MF",25,14,3.0,5.0,2013-2014,509a4ccb,Lazio,"1,373",15.3,2.0,0.0,163.0,34.0,
-,André Dias,br BRA,DF,16,14,0.0,1.0,2013-2014,873e2abf,Lazio,"1,262",14.0,1.0,1.0,163.0,2.0,
-,Hernanes,br BRA,MF,17,14,0.0,3.0,2013-2014,cfc2ee72,Lazio,"1,191",13.2,4.0,1.0,163.0,2.0,
-,Michaël Ciani,fr FRA,DF,18,13,0.0,1.0,2013-2014,2ce3dc98,Lazio,"1,373",15.3,6.0,0.0,163.0,4.0,
-,Bruno Pereirinha,pt POR,"DF,MF",11,9,1.0,0.0,2013-2014,02e7fa4f,Lazio,771,8.6,4.0,0.0,163.0,3.0,
-,Diego Novaretti,ar ARG,DF,11,9,0.0,0.0,2013-2014,c7d1536c,Lazio,730,8.1,3.0,1.0,163.0,5.0,
-,Brayan Perea,co COL,FW,19,8,1.0,1.0,2013-2014,499b56d,Lazio,832,9.2,3.0,0.0,163.0,19.0,
-,Stefano Mauri,it ITA,"FW,MF",12,8,2.0,4.0,2013-2014,3bb6738,Lazio,691,7.7,1.0,0.0,163.0,9.0,
-,Felipe Anderson,br BRA,"FW,MF",13,7,1.0,0.0,2013-2014,9f1893b9,Lazio,526,5.8,1.0,0.0,163.0,2.0,
-,Ederson,br BRA,MF,15,6,1.0,1.0,2013-2014,14bf51f0,Lazio,542,6.0,0.0,0.0,163.0,2.0,
-,Sergio Floccari,it ITA,FW,14,5,1.0,0.0,2013-2014,df301450,Lazio,558,6.2,1.0,0.0,163.0,9.0,
-,Hélder Postiga,pt POR,FW,5,1,0.0,0.0,2013-2014,c8504093,Lazio,140,1.6,0.0,0.0,163.0,3.0,
-,Joseph Minala,cm CMR,MF,3,0,0.0,0.0,2013-2014,11a1951e,Lazio,26,0.3,0.0,0.0,163.0,36.0,
-,Mamadou Tounkara,sn SEN,FW,1,0,0.0,0.0,2013-2014,0b4c3b21,Lazio,10,0.1,0.0,0.0,163.0,34.0,
-,Gaël Kakuta,cd COD,"FW,MF",1,0,0.0,0.0,2013-2014,5b1bf5e3,Lazio,6,0.1,0.0,0.0,163.0,50.0,
-,Luca Crecco,it ITA,MF,1,0,0.0,0.0,2013-2014,c7f24d4b,Lazio,1,0.0,0.0,0.0,163.0,9.0,
-,﻿Marco Parolo,it ITA,MF,34,34,2.0,10.0,2014-2015,d5886d2,Lazio,"2,996",33.3,10.0,1.0,163.0,9.0,
-,Antonio Candreva,it ITA,"DF,FW",34,31,10.0,10.0,2014-2015,356c9002,Lazio,"2,642",29.4,6.0,0.0,163.0,9.0,
-,Federico Marchetti,it ITA,GK,30,30,0.0,0.0,2014-2015,f794b426,Lazio,"2,610",29.0,6.0,2.0,163.0,9.0,
-,Stefan de Vrij,nl NED,DF,30,29,0.0,0.0,2014-2015,d0d8dd44,Lazio,"2,531",28.1,4.0,1.0,163.0,11.0,
-,Dušan Basta,rs SRB,"DF,MF",27,27,2.0,0.0,2014-2015,3b57f7f8,Lazio,"2,381",26.5,5.0,0.0,163.0,28.0,
-,Lucas Biglia,ar ARG,MF,27,27,2.0,3.0,2014-2015,5710a281,Lazio,"2,321",25.8,6.0,0.0,163.0,5.0,
-,Stefano Mauri,it ITA,"FW,MF",29,25,2.0,9.0,2014-2015,3bb6738,Lazio,"1,857",20.6,5.0,0.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,24,24,2.0,0.0,2014-2015,53de807a,Lazio,"2,111",23.5,7.0,0.0,163.0,51.0,
-,Felipe Anderson,br BRA,"FW,MF",32,23,6.0,10.0,2014-2015,9f1893b9,Lazio,"2,094",23.3,5.0,0.0,163.0,2.0,
-,Senad Lulić,ba BIH,"DF,MF",25,22,7.0,3.0,2014-2015,7fd58fe3,Lazio,"1,842",20.5,7.0,0.0,163.0,49.0,
-,Miroslav Klose,de GER,FW,34,21,5.0,13.0,2014-2015,5e36a0dd,Lazio,"1,833",20.4,5.0,0.0,163.0,13.0,
-,Filip Đorđević,rs SRB,FW,24,15,2.0,8.0,2014-2015,dfb933e0,Lazio,"1,475",16.4,2.0,0.0,163.0,28.0,
-,Lorik Cana,al ALB,"DF,MF",17,15,0.0,0.0,2014-2015,01ceeb0f,Lazio,"1,339",14.9,7.0,1.0,163.0,78.0,
-,Maurício,br BRA,DF,15,14,0.0,0.0,2014-2015,d5bd1abc,Lazio,"1,173",13.0,7.0,1.0,163.0,2.0,
-,Edson Braafheid,nl NED,DF,16,12,1.0,0.0,2014-2015,f8e3660d,Lazio,"1,024",11.4,1.0,0.0,163.0,11.0,
-,Danilo Cataldi,it ITA,MF,16,11,2.0,0.0,2014-2015,ba3d3bea,Lazio,996,11.1,3.0,1.0,163.0,9.0,
-,Luis Pedro Cavanda,be BEL,"DF,MF",16,10,0.0,0.0,2014-2015,b8a6bf56,Lazio,"1,004",11.2,5.0,1.0,163.0,27.0,
-,Michaël Ciani,fr FRA,DF,12,9,0.0,0.0,2014-2015,2ce3dc98,Lazio,870,9.7,1.0,0.0,163.0,4.0,
-,Etrit Berisha,al ALB,GK,10,8,0.0,0.0,2014-2015,833569,Lazio,810,9.0,0.0,0.0,163.0,78.0,
-,Cristian Ledesma,it ITA,MF,13,7,3.0,0.0,2014-2015,bb9eaa9,Lazio,636,7.1,3.0,0.0,163.0,9.0,
-,Keita Baldé,sn SEN,"FW,MF",23,6,0.0,1.0,2014-2015,509a4ccb,Lazio,797,8.9,3.0,0.0,163.0,34.0,
-,Ogenyi Onazi,ng NGA,MF,16,6,1.0,1.0,2014-2015,17310a6c,Lazio,669,7.4,4.0,0.0,163.0,52.0,
-,Santiago Gentiletti,ar ARG,DF,5,5,0.0,1.0,2014-2015,4ac07e1b,Lazio,414,4.6,1.0,0.0,163.0,5.0,
-,Diego Novaretti,ar ARG,DF,5,2,0.0,0.0,2014-2015,c7d1536c,Lazio,265,2.9,2.0,1.0,163.0,5.0,
-,Álvaro González,uy URU,MF,4,2,0.0,0.0,2014-2015,873b892d,Lazio,222,2.5,1.0,0.0,163.0,8.0,
-,Bruno Pereirinha,pt POR,"DF,MF",3,2,0.0,0.0,2014-2015,02e7fa4f,Lazio,163,1.8,0.0,0.0,163.0,3.0,
-,Abdoulay Konko,fr FRA,"DF,MF",2,1,0.0,0.0,2014-2015,43857861,Lazio,135,1.5,0.0,0.0,163.0,4.0,
-,Ederson,br BRA,MF,4,0,0.0,1.0,2014-2015,14bf51f0,Lazio,72,0.8,1.0,0.0,163.0,2.0,
-,Brayan Perea,co COL,FW,5,0,0.0,0.0,2014-2015,499b56d,Lazio,52,0.6,1.0,0.0,163.0,19.0,
-,Guido Guerrieri,it ITA,GK,0,0,,,2014-2015,77e401c7,Lazio,,,,,163.0,9.0,
-,Chris Ikonomidis,au AUS,"FW,MF",0,0,,,2014-2015,5e6e5a15,Lazio,,,,,163.0,42.0,
-,Alessandro Murgia,it ITA,MF,0,0,,,2014-2015,fb2c533b,Lazio,,,,,163.0,9.0,
-,Franjo Prce,hr CRO,DF,0,0,,,2014-2015,84432bc4,Lazio,,,,,163.0,16.0,
-,Thomas Strakosha,al ALB,GK,0,0,,,2014-2015,339fe0e8,Lazio,,,,,163.0,78.0,
-,Mamadou Tounkara,sn SEN,FW,0,0,,,2014-2015,0b4c3b21,Lazio,,,,,163.0,34.0,
-,﻿Marco Parolo,it ITA,MF,31,30,0.0,3.0,2015-2016,d5886d2,Lazio,"2,561",28.5,9.0,0.0,163.0,9.0,
-,Federico Marchetti,it ITA,GK,29,29,0.0,0.0,2015-2016,f794b426,Lazio,"2,547",28.3,0.0,0.0,163.0,9.0,
-,Senad Lulić,ba BIH,"DF,MF",30,28,3.0,3.0,2015-2016,7fd58fe3,Lazio,"2,348",26.1,10.0,1.0,163.0,49.0,
-,Antonio Candreva,it ITA,"FW,MF",30,28,3.0,10.0,2015-2016,356c9002,Lazio,"2,187",24.3,4.0,0.0,163.0,9.0,
-,Lucas Biglia,ar ARG,MF,27,26,3.0,4.0,2015-2016,5710a281,Lazio,"2,296",25.5,10.0,1.0,163.0,5.0,
-,Wesley Hoedt,nl NED,DF,25,24,0.0,0.0,2015-2016,875898c7,Lazio,"2,049",22.8,4.0,1.0,163.0,11.0,
-,Felipe Anderson,br BRA,"FW,MF",35,21,4.0,7.0,2015-2016,9f1893b9,Lazio,"2,071",23.0,2.0,0.0,163.0,2.0,
-,Dušan Basta,rs SRB,DF,23,21,0.0,0.0,2015-2016,3b57f7f8,Lazio,"1,815",20.2,1.0,0.0,163.0,28.0,
-,Maurício,br BRA,DF,24,19,0.0,0.0,2015-2016,d5bd1abc,Lazio,"1,923",21.4,14.0,1.0,163.0,2.0,
-,Santiago Gentiletti,ar ARG,DF,19,19,0.0,0.0,2015-2016,4ac07e1b,Lazio,"1,710",19.0,10.0,0.0,163.0,5.0,
-,Sergej Milinković-Savić,rs SRB,MF,25,17,0.0,1.0,2015-2016,4e6dbac4,Lazio,"1,642",18.2,6.0,1.0,163.0,28.0,
-,Abdoulay Konko,fr FRA,DF,18,17,0.0,0.0,2015-2016,43857861,Lazio,"1,529",17.0,3.0,0.0,163.0,4.0,
-,Danilo Cataldi,it ITA,MF,20,16,3.0,1.0,2015-2016,ba3d3bea,Lazio,"1,346",15.0,9.0,1.0,163.0,9.0,
-,Filip Đorđević,rs SRB,FW,27,16,2.0,3.0,2015-2016,dfb933e0,Lazio,"1,292",14.4,1.0,1.0,163.0,28.0,
-,Keita Baldé,sn SEN,FW,31,15,2.0,4.0,2015-2016,509a4ccb,Lazio,"1,777",19.7,5.0,0.0,163.0,34.0,
-,Miroslav Klose,de GER,FW,24,14,7.0,7.0,2015-2016,5e36a0dd,Lazio,"1,357",15.1,3.0,0.0,163.0,13.0,
-,Ogenyi Onazi,ng NGA,MF,15,14,1.0,1.0,2015-2016,17310a6c,Lazio,"1,181",13.1,2.0,0.0,163.0,52.0,
-,Ștefan Radu,ro ROU,DF,13,13,1.0,0.0,2015-2016,53de807a,Lazio,"1,089",12.1,3.0,1.0,163.0,51.0,
-,Milan Biševac,rs SRB,DF,11,11,0.0,1.0,2015-2016,51728e3,Lazio,907,10.1,0.0,0.0,163.0,28.0,
-,Etrit Berisha,al ALB,GK,11,9,0.0,0.0,2015-2016,833569,Lazio,873,9.7,1.0,0.0,163.0,78.0,
-,Alessandro Matri,it ITA,"FW,MF",19,7,1.0,4.0,2015-2016,58d97e77,Lazio,816,9.1,1.0,1.0,163.0,9.0,
-,Ricardo Kishna,nl NED,"MF,FW",11,7,0.0,2.0,2015-2016,84e947d6,Lazio,558,6.2,0.0,0.0,163.0,11.0,
-,Patric,es ESP,DF,9,6,0.0,0.0,2015-2016,f7223718,Lazio,583,6.5,3.0,1.0,163.0,1.0,
-,Stefano Mauri,it ITA,"MF,FW",12,6,1.0,1.0,2015-2016,3bb6738,Lazio,505,5.6,0.0,0.0,163.0,9.0,
-,Edson Braafheid,nl NED,DF,5,3,0.0,0.0,2015-2016,f8e3660d,Lazio,336,3.7,0.0,0.0,163.0,11.0,
-,Stefan de Vrij,nl NED,DF,2,2,0.0,0.0,2015-2016,d0d8dd44,Lazio,180,2.0,0.0,0.0,163.0,11.0,
-,Ravel Morrison,jm JAM,MF,4,0,0.0,0.0,2015-2016,bf59c794,Lazio,63,0.7,0.0,0.0,163.0,127.0,
-,Luca Germoni,it ITA,DF,0,0,,,2015-2016,5ce2bd9a,Lazio,,,,,163.0,9.0,
-,Guido Guerrieri,it ITA,GK,0,0,,,2015-2016,77e401c7,Lazio,,,,,163.0,9.0,
-,Chris Ikonomidis,au AUS,"FW,MF",0,0,,,2015-2016,5e6e5a15,Lazio,,,,,163.0,42.0,
-,Kristjan Matosevic,si SVN,GK,0,0,,,2015-2016,68f005cd,Lazio,,,,,163.0,32.0,
-,Simone Mattia,it ITA,DF,0,0,,,2015-2016,c1640cad,Lazio,,,,,163.0,9.0,
-,Alessandro Murgia,it ITA,MF,0,0,,,2015-2016,fb2c533b,Lazio,,,,,163.0,9.0,
-,Simone Palombi,it ITA,FW,0,0,,,2015-2016,d0e6399c,Lazio,,,,,163.0,9.0,
-,Franjo Prce,hr CRO,DF,0,0,,,2015-2016,84432bc4,Lazio,,,,,163.0,16.0,
-,Alessandro Rossi,it ITA,FW,0,0,,,2015-2016,ccf5926f,Lazio,,,,,163.0,9.0,
-,Moustapha Seck,sn SEN,DF,0,0,,,2015-2016,9ec1ad87,Lazio,,,,,163.0,34.0,
-,﻿Ciro Immobile,it ITA,FW,36,35,3.0,23.0,2016-2017,4431aed2,Lazio,"3,118",34.6,5.0,0.0,163.0,9.0,
-,Marco Parolo,it ITA,MF,34,34,1.0,5.0,2016-2017,d5886d2,Lazio,"2,976",33.1,11.0,0.0,163.0,9.0,
-,Felipe Anderson,br BRA,"FW,MF",36,33,8.0,4.0,2016-2017,9f1893b9,Lazio,"2,908",32.3,5.0,0.0,163.0,2.0,
-,Sergej Milinković-Savić,rs SRB,MF,34,31,7.0,4.0,2016-2017,4e6dbac4,Lazio,"2,727",30.3,8.0,0.0,163.0,28.0,
-,Senad Lulić,ba BIH,"MF,FW",31,29,9.0,3.0,2016-2017,7fd58fe3,Lazio,"2,486",27.6,8.0,2.0,163.0,49.0,
-,Ștefan Radu,ro ROU,DF,29,29,1.0,2.0,2016-2017,53de807a,Lazio,"2,405",26.7,10.0,0.0,163.0,51.0,
-,Lucas Biglia,ar ARG,MF,29,28,3.0,4.0,2016-2017,5710a281,Lazio,"2,264",25.2,8.0,0.0,163.0,5.0,
-,Stefan de Vrij,nl NED,DF,27,27,4.0,2.0,2016-2017,d0d8dd44,Lazio,"2,268",25.2,3.0,0.0,163.0,11.0,
-,Dušan Basta,rs SRB,"DF,MF",27,24,2.0,1.0,2016-2017,3b57f7f8,Lazio,"2,120",23.6,2.0,0.0,163.0,28.0,
-,Keita Baldé,sn SEN,FW,31,21,4.0,16.0,2016-2017,509a4ccb,Lazio,"1,926",21.4,5.0,2.0,163.0,34.0,
-,Wesley Hoedt,nl NED,DF,23,21,0.0,2.0,2016-2017,875898c7,Lazio,"1,882",20.9,5.0,0.0,163.0,11.0,
-,Thomas Strakosha,al ALB,GK,21,20,0.0,0.0,2016-2017,339fe0e8,Lazio,"1,845",20.5,1.0,0.0,163.0,78.0,
-,Wallace,br BRA,DF,25,18,0.0,1.0,2016-2017,d61b3354,Lazio,"1,743",19.4,3.0,0.0,163.0,2.0,
-,Federico Marchetti,it ITA,GK,17,17,0.0,0.0,2016-2017,f794b426,Lazio,"1,485",16.5,0.0,0.0,163.0,9.0,
-,Patric,es ESP,"DF,MF",19,10,1.0,0.0,2016-2017,f7223718,Lazio,"1,017",11.3,4.0,0.0,163.0,1.0,
-,Bastos,ao ANG,"DF,MF",11,10,0.0,0.0,2016-2017,c01c66d9,Lazio,774,8.6,5.0,2.0,163.0,48.0,
-,Jordan Lukaku,be BEL,"MF,DF",16,8,1.0,0.0,2016-2017,0cd0e21b,Lazio,851,9.5,2.0,0.0,163.0,27.0,
-,Danilo Cataldi,it ITA,MF,11,5,1.0,1.0,2016-2017,ba3d3bea,Lazio,662,7.4,3.0,1.0,163.0,9.0,
-,Alessandro Murgia,it ITA,MF,14,4,0.0,2.0,2016-2017,fb2c533b,Lazio,495,5.5,1.0,0.0,163.0,9.0,
-,Filip Đorđević,rs SRB,FW,17,4,0.0,0.0,2016-2017,dfb933e0,Lazio,464,5.2,0.0,0.0,163.0,28.0,
-,Luis Alberto,es ESP,"MF,FW",9,4,2.0,1.0,2016-2017,5294a83f,Lazio,365,4.1,0.0,0.0,163.0,1.0,
-,Cristiano Lombardi,it ITA,FW,18,3,0.0,1.0,2016-2017,f124b4c9,Lazio,437,4.9,4.0,0.0,163.0,9.0,
-,Ricardo Kishna,nl NED,FW,5,2,0.0,0.0,2016-2017,84e947d6,Lazio,158,1.8,0.0,0.0,163.0,11.0,
-,Ivan Vargić,hr CRO,GK,1,1,0.0,0.0,2016-2017,4d64b28e,Lazio,90,1.0,0.0,0.0,163.0,16.0,
-,Luca Crecco,it ITA,MF,3,0,0.0,1.0,2016-2017,c7f24d4b,Lazio,56,0.6,0.0,0.0,163.0,9.0,
-,Alessandro Rossi,it ITA,FW,3,0,0.0,0.0,2016-2017,ccf5926f,Lazio,47,0.5,0.0,0.0,163.0,9.0,
-,Moritz Leitner,de GER,MF,2,0,0.0,0.0,2016-2017,9460aaed,Lazio,15,0.2,0.0,0.0,163.0,13.0,
-,Giorgio Spizzichino,,,1,0,0.0,0.0,2016-2017,,Lazio,12,0.1,0.0,0.0,163.0,,
-,Mamadou Tounkara,sn SEN,FW,1,0,0.0,0.0,2016-2017,0b4c3b21,Lazio,5,0.1,0.0,0.0,163.0,34.0,
-,Franjo Prce,hr CRO,DF,1,0,0.0,0.0,2016-2017,84432bc4,Lazio,2,0.0,0.0,0.0,163.0,16.0,
-,Marius Adamonis,lt LTU,GK,0,0,,,2016-2017,1226f0de,Lazio,,,,,163.0,72.0,
-,Luca Borrelli,it ITA,GK,0,0,,,2016-2017,b6fe4d31,Lazio,,,,,163.0,9.0,
-,Cassio Cardoselli,it ITA,MF,0,0,,,2016-2017,538da2c4,Lazio,,,,,163.0,9.0,
-,Vinícius Freitas,br BRA,DF,0,0,,,2016-2017,5102e15c,Lazio,,,,,163.0,2.0,
-,Luca Germoni,it ITA,DF,0,0,,,2016-2017,5ce2bd9a,Lazio,,,,,163.0,9.0,
-,Chris Ikonomidis,au AUS,"FW,MF",0,0,,,2016-2017,5e6e5a15,Lazio,,,,,163.0,42.0,
-,Duje Javorčić,hr CRO,MF,0,0,,,2016-2017,01235595,Lazio,,,,,163.0,16.0,
-,Abukar Mohamed,fi FIN,MF,0,0,,,2016-2017,2226b8dc,Lazio,,,,,163.0,83.0,
-,Denis Petro,sk SVK,DF,0,0,,,2016-2017,7726b0d,Lazio,,,,,163.0,70.0,
-,﻿Thomas Strakosha,al ALB,GK,38,38,0.0,0.0,2017-2018,339fe0e8,Lazio,"3,420",38.0,2.0,0.0,163.0,78.0,
-,Stefan de Vrij,nl NED,DF,36,36,0.0,6.0,2017-2018,d0d8dd44,Lazio,"3,034",33.7,3.0,0.0,163.0,11.0,
-,Lucas Leiva,br BRA,MF,36,35,3.0,2.0,2017-2018,4c78b5ed,Lazio,"2,882",32.0,9.0,0.0,163.0,2.0,
-,Sergej Milinković-Savić,rs SRB,MF,35,33,4.0,12.0,2017-2018,4e6dbac4,Lazio,"2,844",31.6,8.0,0.0,163.0,28.0,
-,Ciro Immobile,it ITA,FW,33,33,6.0,29.0,2017-2018,4431aed2,Lazio,"2,683",29.8,3.0,1.0,163.0,9.0,
-,Luis Alberto,es ESP,"FW,MF",34,32,14.0,11.0,2017-2018,5294a83f,Lazio,"2,669",29.7,5.0,0.0,163.0,1.0,
-,Ștefan Radu,ro ROU,DF,31,31,1.0,0.0,2017-2018,53de807a,Lazio,"2,588",28.8,9.0,2.0,163.0,51.0,
-,Marco Parolo,it ITA,MF,31,30,3.0,4.0,2017-2018,d5886d2,Lazio,"2,612",29.0,3.0,2.0,163.0,9.0,
-,Senad Lulić,ba BIH,"DF,MF",35,30,4.0,3.0,2017-2018,7fd58fe3,Lazio,"2,426",27.0,7.0,2.0,163.0,49.0,
-,Adam Marušić,me MNE,DF,32,28,4.0,3.0,2017-2018,d4535821,Lazio,"2,523",28.0,3.0,1.0,163.0,33.0,
-,Bastos,ao ANG,DF,21,16,0.0,4.0,2017-2018,c01c66d9,Lazio,"1,407",15.6,4.0,0.0,163.0,48.0,
-,Luiz Felipe,it ITA,DF,18,12,1.0,0.0,2017-2018,15d0c248,Lazio,"1,168",13.0,6.0,0.0,163.0,9.0,
-,Wallace,br BRA,DF,13,12,0.0,0.0,2017-2018,d61b3354,Lazio,996,11.1,5.0,0.0,163.0,2.0,
-,Jordan Lukaku,be BEL,DF,30,10,1.0,1.0,2017-2018,0cd0e21b,Lazio,"1,355",15.1,2.0,0.0,163.0,27.0,
-,Felipe Anderson,br BRA,"FW,MF",21,9,6.0,4.0,2017-2018,9f1893b9,Lazio,"1,162",12.9,0.0,0.0,163.0,2.0,
-,Alessandro Murgia,it ITA,MF,16,9,0.0,0.0,2017-2018,fb2c533b,Lazio,777,8.6,3.0,1.0,163.0,9.0,
-,Dušan Basta,rs SRB,DF,11,9,1.0,0.0,2017-2018,3b57f7f8,Lazio,775,8.6,0.0,0.0,163.0,28.0,
-,Felipe Caicedo,ec ECU,"FW,MF",22,4,2.0,3.0,2017-2018,93b891d1,Lazio,717,8.0,1.0,0.0,163.0,61.0,
-,Patric,es ESP,DF,11,4,0.0,0.0,2017-2018,f7223718,Lazio,592,6.6,1.0,1.0,163.0,1.0,
-,Martín Cáceres,uy URU,DF,6,4,0.0,1.0,2017-2018,94d79e3,Lazio,441,4.9,0.0,0.0,163.0,8.0,
-,Nani,pt POR,"FW,MF",18,2,1.0,3.0,2017-2018,15e9c7e6,Lazio,387,4.3,2.0,0.0,163.0,3.0,
-,Simone Palombi,it ITA,FW,1,1,0.0,0.0,2017-2018,d0e6399c,Lazio,66,0.7,0.0,0.0,163.0,9.0,
-,Davide Di Gennaro,it ITA,MF,2,0,0.0,0.0,2017-2018,951a4ee4,Lazio,11,0.1,0.0,0.0,163.0,9.0,
-,Maurício,br BRA,DF,1,0,0.0,0.0,2017-2018,d5bd1abc,Lazio,5,0.1,0.0,0.0,163.0,2.0,
-,Luca Crecco,it ITA,MF,0,0,,,2017-2018,c7f24d4b,Lazio,,,,,163.0,9.0,
-,Guido Guerrieri,it ITA,GK,0,0,,,2017-2018,77e401c7,Lazio,,,,,163.0,9.0,
-,Wesley Hoedt,nl NED,DF,0,0,,,2017-2018,875898c7,Lazio,,,,,163.0,11.0,
-,Bruno Jordão,pt POR,MF,0,0,,,2017-2018,41ff002d,Lazio,,,,,163.0,3.0,
-,Cristiano Lombardi,it ITA,"FW,MF",0,0,,,2017-2018,f124b4c9,Lazio,,,,,163.0,9.0,
-,Alessio Miceli,it ITA,MF,0,0,,,2017-2018,3a8b9635,Lazio,,,,,163.0,9.0,
-,Pedro Neto,pt POR,"FW,MF",0,0,,,2017-2018,7ba2eaa9,Lazio,,,,,163.0,3.0,
-,Ivan Vargić,hr CRO,GK,0,0,,,2017-2018,4d64b28e,Lazio,,,,,163.0,16.0,
-,﻿Francesco Acerbi,it ITA,DF,37,37,1.0,3.0,2018-2019,b96b595c,Lazio,"3,309",36.8,4.0,1.0,163.0,9.0,
-,Thomas Strakosha,al ALB,GK,35,35,0.0,0.0,2018-2019,339fe0e8,Lazio,"3,150",35.0,4.0,0.0,163.0,78.0,
-,Senad Lulić,ba BIH,DF,35,34,1.0,4.0,2018-2019,7fd58fe3,Lazio,"2,923",32.5,5.0,0.0,163.0,49.0,
-,Ciro Immobile,it ITA,FW,36,31,6.0,15.0,2018-2019,4431aed2,Lazio,"2,859",31.8,6.0,0.0,163.0,9.0,
-,Sergej Milinković-Savić,rs SRB,MF,31,29,3.0,5.0,2018-2019,4e6dbac4,Lazio,"2,396",26.6,7.0,1.0,163.0,28.0,
-,Marco Parolo,it ITA,MF,34,28,3.0,4.0,2018-2019,d5886d2,Lazio,"2,563",28.5,7.0,0.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,28,28,1.0,0.0,2018-2019,53de807a,Lazio,"2,243",24.9,5.0,0.0,163.0,51.0,
-,Luis Alberto,es ESP,"MF,FW",27,25,5.0,4.0,2018-2019,5294a83f,Lazio,"1,990",22.1,5.0,1.0,163.0,1.0,
-,Adam Marušić,me MNE,DF,26,24,1.0,1.0,2018-2019,d4535821,Lazio,"2,111",23.5,2.0,1.0,163.0,33.0,
-,Lucas Leiva,br BRA,MF,27,22,2.0,0.0,2018-2019,4c78b5ed,Lazio,"1,987",22.1,7.0,0.0,163.0,2.0,
-,Joaquín Correa,ar ARG,"FW,MF",34,18,6.0,5.0,2018-2019,45b9b619,Lazio,"1,927",21.4,5.0,0.0,163.0,5.0,
-,Felipe Caicedo,ec ECU,FW,28,17,2.0,8.0,2018-2019,93b891d1,Lazio,"1,371",15.2,4.0,0.0,163.0,61.0,
-,Luiz Felipe,it ITA,DF,17,15,1.0,1.0,2018-2019,15d0c248,Lazio,"1,289",14.3,4.0,0.0,163.0,9.0,
-,Wallace,br BRA,DF,16,14,0.0,0.0,2018-2019,d61b3354,Lazio,"1,233",13.7,3.0,0.0,163.0,2.0,
-,Milan Badelj,hr CRO,MF,23,14,0.0,1.0,2018-2019,8c930bb,Lazio,"1,141",12.7,6.0,0.0,163.0,16.0,
-,Patric,es ESP,DF,15,12,0.0,0.0,2018-2019,f7223718,Lazio,"1,085",12.1,1.0,0.0,163.0,1.0,
-,Bastos,ao ANG,DF,18,11,0.0,1.0,2018-2019,c01c66d9,Lazio,"1,139",12.7,3.0,0.0,163.0,48.0,
-,Rômulo,it ITA,DF,10,9,1.0,0.0,2018-2019,07abb358,Lazio,776,8.6,1.0,0.0,163.0,9.0,
-,Danilo Cataldi,it ITA,"MF,FW",12,4,1.0,2.0,2018-2019,ba3d3bea,Lazio,578,6.4,2.0,0.0,163.0,9.0,
-,Martín Cáceres,uy URU,DF,4,3,0.0,0.0,2018-2019,94d79e3,Lazio,307,3.4,0.0,0.0,163.0,8.0,
-,Riza Durmisi,dk DEN,DF,10,2,1.0,0.0,2018-2019,5cd9da6,Lazio,326,3.6,4.0,0.0,163.0,7.0,
-,Silvio Proto,be BEL,GK,2,2,0.0,0.0,2018-2019,c8a88acd,Lazio,180,2.0,1.0,0.0,163.0,27.0,
-,Valon Berisha,xk KVX,"MF,FW",8,1,0.0,0.0,2018-2019,d5575935,Lazio,198,2.2,0.0,0.0,163.0,82.0,
-,Jordan Lukaku,be BEL,"DF,MF",7,1,0.0,0.0,2018-2019,0cd0e21b,Lazio,175,1.9,1.0,0.0,163.0,27.0,
-,Guido Guerrieri,it ITA,GK,1,1,0.0,0.0,2018-2019,77e401c7,Lazio,90,1.0,0.0,0.0,163.0,9.0,
-,Bruno Jordão,pt POR,"MF,DF",3,1,0.0,0.0,2018-2019,41ff002d,Lazio,88,1.0,0.0,0.0,163.0,3.0,
-,Pedro Neto,pt POR,"FW,DF",4,0,0.0,0.0,2018-2019,7ba2eaa9,Lazio,46,0.5,1.0,0.0,163.0,3.0,
-,Nicolò Armini,it ITA,DF,1,0,0.0,0.0,2018-2019,2f7407fa,Lazio,38,0.4,0.0,0.0,163.0,9.0,
-,Luan Capanni,br BRA,FW,1,0,0.0,0.0,2018-2019,28237d7e,Lazio,9,0.1,1.0,0.0,163.0,2.0,
-,Alessandro Murgia,it ITA,MF,1,0,0.0,0.0,2018-2019,fb2c533b,Lazio,9,0.1,0.0,0.0,163.0,9.0,
-,Marco Alia,al ALB,GK,0,0,,,2018-2019,261dfc43,Lazio,,,,,163.0,78.0,
-,Dušan Basta,rs SRB,"DF,MF",0,0,,,2018-2019,3b57f7f8,Lazio,,,,,163.0,28.0,
-,Alessio Bianchi,it ITA,MF,0,0,,,2018-2019,8b3b2e10,Lazio,,,,,163.0,9.0,
-,Alessandro Cerbara,it ITA,MF,0,0,,,2018-2019,00aedd0e,Lazio,,,,,163.0,9.0,
-,Roberto Durante,it ITA,DF,0,0,,,2018-2019,7ffbfc23,Lazio,,,,,163.0,9.0,
-,Alessio Furlanetto,it ITA,GK,0,0,,,2018-2019,95d9f4dd,Lazio,,,,,163.0,9.0,
-,Sergio Kalaj,al ALB,DF,0,0,,,2018-2019,08a6bfee,Lazio,,,,,163.0,78.0,
-,Abukar Mohamed,fi FIN,MF,0,0,,,2018-2019,2226b8dc,Lazio,,,,,163.0,83.0,
-,Alessandro Rossi,it ITA,FW,0,0,,,2018-2019,ccf5926f,Lazio,,,,,163.0,9.0,
-,Jorge Silva,pt POR,DF,0,0,,,2018-2019,468a2422,Lazio,,,,,163.0,3.0,
-,Mauro Zitelli,it ITA,DF,0,0,,,2018-2019,dd51c9,Lazio,,,,,163.0,9.0,
-,﻿Thomas Strakosha,al ALB,GK,38,38,0.0,0.0,2019-2020,339fe0e8,Lazio,"3,420",38.0,2.0,0.0,163.0,78.0,
-,Ciro Immobile,it ITA,FW,37,36,9.0,36.0,2019-2020,4431aed2,Lazio,"3,170",35.2,8.0,0.0,163.0,9.0,
-,Francesco Acerbi,it ITA,DF,36,36,2.0,2.0,2019-2020,b96b595c,Lazio,"3,162",35.1,4.0,0.0,163.0,9.0,
-,Luis Alberto,es ESP,MF,36,36,15.0,6.0,2019-2020,5294a83f,Lazio,"3,113",34.6,5.0,0.0,163.0,1.0,
-,Sergej Milinković-Savić,rs SRB,MF,37,35,4.0,7.0,2019-2020,4e6dbac4,Lazio,"3,029",33.7,9.0,0.0,163.0,28.0,
-,Manuel Lazzari,it ITA,DF,32,29,3.0,0.0,2019-2020,02caf6e0,Lazio,"2,548",28.3,6.0,0.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,29,28,0.0,1.0,2019-2020,53de807a,Lazio,"2,306",25.6,8.0,0.0,163.0,51.0,
-,Luiz Felipe,it ITA,DF,26,24,1.0,1.0,2019-2020,15d0c248,Lazio,"2,024",22.5,6.0,0.0,163.0,9.0,
-,Lucas Leiva,br BRA,MF,25,23,1.0,0.0,2019-2020,4c78b5ed,Lazio,"1,808",20.1,10.0,1.0,163.0,2.0,
-,Joaquín Correa,ar ARG,FW,30,22,2.0,9.0,2019-2020,45b9b619,Lazio,"2,002",22.2,0.0,0.0,163.0,5.0,
-,Senad Lulić,ba BIH,DF,20,20,2.0,0.0,2019-2020,7fd58fe3,Lazio,"1,573",17.5,6.0,0.0,163.0,49.0,
-,Patric,es ESP,DF,21,19,0.0,0.0,2019-2020,f7223718,Lazio,"1,670",18.6,2.0,1.0,163.0,1.0,
-,Felipe Caicedo,ec ECU,FW,30,18,2.0,9.0,2019-2020,93b891d1,Lazio,"1,406",15.6,7.0,0.0,163.0,61.0,
-,Marco Parolo,it ITA,MF,29,17,0.0,1.0,2019-2020,d5886d2,Lazio,"1,700",18.9,8.0,0.0,163.0,9.0,
-,Jony,es ESP,"DF,FW",24,14,1.0,0.0,2019-2020,244f57b9,Lazio,"1,177",13.1,4.0,0.0,163.0,1.0,
-,Adam Marušić,me MNE,DF,15,10,1.0,2.0,2019-2020,d4535821,Lazio,942,10.5,3.0,0.0,163.0,33.0,
-,Bastos,ao ANG,DF,16,6,0.0,1.0,2019-2020,c01c66d9,Lazio,765,8.5,4.0,0.0,163.0,48.0,
-,Danilo Cataldi,it ITA,MF,21,3,0.0,1.0,2019-2020,ba3d3bea,Lazio,592,6.6,3.0,0.0,163.0,9.0,
-,Djavan Anderson,nl NED,"FW,DF",6,2,0.0,0.0,2019-2020,ca241ad3,Lazio,167,1.9,1.0,0.0,163.0,11.0,
-,Jordan Lukaku,be BEL,DF,13,1,2.0,0.0,2019-2020,0cd0e21b,Lazio,396,4.4,2.0,0.0,163.0,27.0,
-,Denis Vavro,sk SVK,DF,11,1,0.0,0.0,2019-2020,08990838,Lazio,328,3.6,0.0,0.0,163.0,70.0,
-,Bobby Adekanye,nl NED,FW,11,0,0.0,1.0,2019-2020,3ed84b2c,Lazio,188,2.1,1.0,0.0,163.0,11.0,
-,Anderson Lima,br BRA,"MF,DF",6,0,0.0,0.0,2019-2020,59be3a74,Lazio,62,0.7,0.0,0.0,163.0,2.0,
-,Valon Berisha,xk KVX,MF,3,0,0.0,0.0,2019-2020,d5575935,Lazio,33,0.4,0.0,0.0,163.0,82.0,
-,Nicolò Armini,it ITA,DF,1,0,0.0,0.0,2019-2020,2f7407fa,Lazio,3,0.0,0.0,0.0,163.0,9.0,
-,Luca Falbo,it ITA,DF,1,0,0.0,0.0,2019-2020,ca8fa0c0,Lazio,2,0.0,0.0,0.0,163.0,9.0,
-,Raúl Moro,es ESP,FW,1,0,0.0,0.0,2019-2020,919dd4b1,Lazio,2,0.0,0.0,0.0,163.0,1.0,
-,Marco Alia,al ALB,GK,0,0,,,2019-2020,261dfc43,Lazio,,,,,163.0,78.0,
-,Guido Guerrieri,it ITA,GK,0,0,,,2019-2020,77e401c7,Lazio,,,,,163.0,9.0,
-,Joseph Minala,cm CMR,MF,0,0,,,2019-2020,11a1951e,Lazio,,,,,163.0,36.0,
-,Silvio Proto,be BEL,GK,0,0,,,2019-2020,c8a88acd,Lazio,,,,,163.0,27.0,
-,Jorge Silva,pt POR,DF,0,0,,,2019-2020,468a2422,Lazio,,,,,163.0,3.0,
-,﻿Ciro Immobile,it ITA,FW,35,34,6.0,20.0,2020-2021,4431aed2,Lazio,"2,849",31.7,4.0,1.0,163.0,9.0,
-,Adam Marušić,me MNE,DF,36,33,3.0,2.0,2020-2021,d4535821,Lazio,"2,966",33.0,3.0,0.0,163.0,33.0,
-,Luis Alberto,es ESP,MF,34,33,2.0,9.0,2020-2021,5294a83f,Lazio,"2,618",29.1,5.0,0.0,163.0,1.0,
-,Francesco Acerbi,it ITA,DF,32,32,1.0,0.0,2020-2021,b96b595c,Lazio,"2,813",31.3,9.0,1.0,163.0,9.0,
-,Sergej Milinković-Savić,rs SRB,MF,32,32,9.0,8.0,2020-2021,4e6dbac4,Lazio,"2,746",30.5,4.0,0.0,163.0,28.0,
-,Manuel Lazzari,it ITA,DF,32,30,5.0,2.0,2020-2021,02caf6e0,Lazio,"2,613",29.0,2.0,1.0,163.0,9.0,
-,Ștefan Radu,ro ROU,DF,31,30,3.0,0.0,2020-2021,53de807a,Lazio,"2,458",27.3,2.0,0.0,163.0,51.0,
-,Lucas Leiva,br BRA,MF,32,30,0.0,0.0,2020-2021,4c78b5ed,Lazio,"2,131",23.7,10.0,0.0,163.0,2.0,
-,Pepe Reina,es ESP,GK,29,29,0.0,0.0,2020-2021,358587b,Lazio,"2,610",29.0,1.0,0.0,163.0,1.0,
-,Joaquín Correa,ar ARG,FW,28,25,3.0,8.0,2020-2021,45b9b619,Lazio,"1,933",21.5,3.0,1.0,163.0,5.0,
-,Patric,es ESP,DF,25,18,1.0,0.0,2020-2021,f7223718,Lazio,"1,595",17.7,8.0,0.0,163.0,1.0,
-,Mohamed Fares,dz ALG,DF,21,12,1.0,0.0,2020-2021,b7a5bc86,Lazio,"1,139",12.7,5.0,0.0,163.0,37.0,
-,Wesley Hoedt,nl NED,DF,17,10,0.0,0.0,2020-2021,875898c7,Lazio,952,10.6,6.0,0.0,163.0,11.0,
-,Luiz Felipe,it ITA,DF,14,10,0.0,0.0,2020-2021,15d0c248,Lazio,909,10.1,5.0,0.0,163.0,9.0,
-,Felipe Caicedo,ec ECU,FW,25,9,0.0,8.0,2020-2021,93b891d1,Lazio,929,10.3,5.0,0.0,163.0,61.0,
-,Thomas Strakosha,al ALB,GK,9,9,0.0,0.0,2020-2021,339fe0e8,Lazio,810,9.0,1.0,0.0,163.0,78.0,
-,Senad Lulić,ba BIH,DF,16,8,0.0,0.0,2020-2021,7fd58fe3,Lazio,718,8.0,1.0,0.0,163.0,49.0,
-,Vedat Muriqi,xk KVX,FW,27,7,0.0,1.0,2020-2021,0cadc46d,Lazio,832,9.2,1.0,0.0,163.0,82.0,
-,Marco Parolo,it ITA,"DF,MF",18,7,2.0,0.0,2020-2021,d5886d2,Lazio,653,7.3,5.0,0.0,163.0,9.0,
-,Jean-Daniel Akpa-Akpro,ci CIV,MF,32,6,1.0,0.0,2020-2021,fdf4b948,Lazio,"1,056",11.7,9.0,0.0,163.0,35.0,
-,Gonzalo Escalante,ar ARG,MF,24,4,1.0,0.0,2020-2021,3f79a1c8,Lazio,733,8.1,5.0,0.0,163.0,5.0,
-,Danilo Cataldi,it ITA,MF,19,4,0.0,0.0,2020-2021,ba3d3bea,Lazio,568,6.3,4.0,0.0,163.0,9.0,
-,Andreas Pereira,br BRA,"FW,MF",26,3,2.0,1.0,2020-2021,6639e500,Lazio,543,6.0,7.0,1.0,163.0,2.0,
-,Mateo Musacchio,ar ARG,DF,4,2,0.0,0.0,2020-2021,91899ca8,Lazio,229,2.5,2.0,0.0,163.0,5.0,
-,Djavan Anderson,nl NED,DF,3,1,0.0,0.0,2020-2021,ca241ad3,Lazio,72,0.8,0.0,0.0,163.0,11.0,
-,Bastos,ao ANG,DF,2,0,0.0,0.0,2020-2021,c01c66d9,Lazio,63,0.7,0.0,0.0,163.0,48.0,
-,Denis Vavro,sk SVK,DF,1,0,0.0,0.0,2020-2021,08990838,Lazio,32,0.4,0.0,0.0,163.0,70.0,
-,Raúl Moro,es ESP,FW,1,0,0.0,0.0,2020-2021,919dd4b1,Lazio,11,0.1,0.0,0.0,163.0,1.0,
-,Nicolò Armini,it ITA,DF,1,0,0.0,0.0,2020-2021,2f7407fa,Lazio,5,0.1,0.0,0.0,163.0,9.0,
-,Marco Bertini,it ITA,MF,1,0,0.0,0.0,2020-2021,4b520f96,Lazio,5,0.1,0.0,0.0,163.0,9.0,
-,Enzo Adeagbo,ch SUI,DF,0,0,,,2020-2021,b911a881,Lazio,,,,,163.0,39.0,
-,Bobby Adekanye,nl NED,FW,0,0,,,2020-2021,3ed84b2c,Lazio,,,,,163.0,11.0,
-,Marco Alia,al ALB,GK,0,0,,,2020-2021,261dfc43,Lazio,,,,,163.0,78.0,
-,Szymon Czyż,pl POL,MF,0,0,,,2020-2021,4c14af32,Lazio,,,,,163.0,14.0,
-,Damiano Franco,it ITA,DF,0,0,,,2020-2021,12d73e55,Lazio,,,,,163.0,9.0,
-,Alessio Furlanetto,it ITA,GK,0,0,,,2020-2021,95d9f4dd,Lazio,,,,,163.0,9.0,
-,Sofian Kiyine,ma MAR,MF,0,0,,,2020-2021,ce1806be,Lazio,,,,,163.0,26.0,
-,Jordan Lukaku,be BEL,"DF,MF",0,0,,,2020-2021,0cd0e21b,Lazio,,,,,163.0,27.0,
-,Angelo Ndrecka,al ALB,DF,0,0,,,2020-2021,fcd20025,Lazio,,,,,163.0,78.0,
-,Mattia Novella,it ITA,DF,0,0,,,2020-2021,f33b8e2,Lazio,,,,,163.0,9.0,
-,Gabriel Pereira,br BRA,GK,0,0,,,2020-2021,031439d,Lazio,,,,,163.0,2.0,
-,Florent Shehu,ch SUI,FW,0,0,,,2020-2021,f2601cd1,Lazio,,,,,163.0,39.0,
-,﻿Sergej Milinković-Savić,rs SRB,MF,37,36,10.0,11.0,2021-2022,4e6dbac4,Lazio,"3,100",34.4,6.0,1.0,163.0,28.0,
-,Felipe Anderson,br BRA,FW,38,33,8.0,6.0,2021-2022,9f1893b9,Lazio,"2,888",32.1,2.0,0.0,163.0,2.0,
-,Ciro Immobile,it ITA,FW,31,31,2.0,27.0,2021-2022,4431aed2,Lazio,"2,711",30.1,4.0,0.0,163.0,9.0,
-,Adam Marušić,me MNE,DF,33,30,0.0,1.0,2021-2022,d4535821,Lazio,"2,721",30.2,6.0,1.0,163.0,33.0,
-,Francesco Acerbi,it ITA,DF,30,29,0.0,4.0,2021-2022,b96b595c,Lazio,"2,536",28.2,2.0,1.0,163.0,9.0,
-,Luiz Felipe,it ITA,DF,31,28,0.0,0.0,2021-2022,15d0c248,Lazio,"2,491",27.7,9.0,1.0,163.0,9.0,
-,Luis Alberto,es ESP,MF,34,27,9.0,5.0,2021-2022,5294a83f,Lazio,"2,353",26.1,5.0,0.0,163.0,1.0,
-,Pedro,es ESP,FW,32,25,4.0,9.0,2021-2022,3ca7254a,Lazio,"2,033",22.6,5.0,0.0,163.0,1.0,
-,Elseid Hysaj,al ALB,DF,29,24,0.0,1.0,2021-2022,2f3452eb,Lazio,"2,027",22.5,3.0,0.0,163.0,78.0,
-,Thomas Strakosha,al ALB,GK,23,23,0.0,0.0,2021-2022,339fe0e8,Lazio,"2,070",23.0,2.0,0.0,163.0,78.0,
-,Mattia Zaccagni,it ITA,FW,29,21,5.0,4.0,2021-2022,d85c238b,Lazio,"1,876",20.8,6.0,0.0,163.0,9.0,
-,Danilo Cataldi,it ITA,MF,32,19,2.0,1.0,2021-2022,ba3d3bea,Lazio,"1,707",19.0,8.0,0.0,163.0,9.0,
-,Lucas Leiva,br BRA,MF,35,19,0.0,0.0,2021-2022,4c78b5ed,Lazio,"1,697",18.9,9.0,0.0,163.0,2.0,
-,Patric,es ESP,DF,24,19,1.0,1.0,2021-2022,f7223718,Lazio,"1,649",18.3,7.0,1.0,163.0,1.0,
-,Manuel Lazzari,it ITA,DF,31,16,3.0,3.0,2021-2022,02caf6e0,Lazio,"1,665",18.5,3.0,0.0,163.0,9.0,
-,Pepe Reina,es ESP,GK,15,15,1.0,0.0,2021-2022,358587b,Lazio,"1,350",15.0,3.0,0.0,163.0,1.0,
-,Toma Bašić,hr CRO,MF,29,9,2.0,0.0,2021-2022,80556f08,Lazio,982,10.9,3.0,0.0,163.0,16.0,
-,Ștefan Radu,ro ROU,DF,10,6,0.0,0.0,2021-2022,53de807a,Lazio,556,6.2,2.0,0.0,163.0,51.0,
-,Jean-Daniel Akpa-Akpro,ci CIV,MF,10,4,0.0,0.0,2021-2022,fdf4b948,Lazio,315,3.5,1.0,0.0,163.0,35.0,
-,Jovane Cabral,cv CPV,FW,3,2,0.0,1.0,2021-2022,34e086c,Lazio,190,2.1,0.0,0.0,163.0,85.0,
-,Vedat Muriqi,xk KVX,FW,11,1,0.0,0.0,2021-2022,0cadc46d,Lazio,215,2.4,1.0,0.0,163.0,82.0,
-,Raúl Moro,es ESP,FW,11,1,1.0,0.0,2021-2022,919dd4b1,Lazio,201,2.2,0.0,0.0,163.0,1.0,
-,Luka Romero,ar ARG,FW,8,0,0.0,0.0,2021-2022,ca6edaa0,Lazio,84,0.9,0.0,0.0,163.0,5.0,
-,Anderson Lima,br BRA,MF,4,0,0.0,0.0,2021-2022,59be3a74,Lazio,65,0.7,1.0,0.0,163.0,2.0,
-,Dimitrije Kamenović,rs SRB,DF,1,0,0.0,0.0,2021-2022,d3e0c826,Lazio,45,0.5,0.0,0.0,163.0,28.0,
-,Gonzalo Escalante,ar ARG,MF,1,0,0.0,0.0,2021-2022,3f79a1c8,Lazio,9,0.1,0.0,0.0,163.0,5.0,
-,Denis Vavro,sk SVK,DF,1,0,0.0,0.0,2021-2022,08990838,Lazio,8,0.1,0.0,0.0,163.0,70.0,
-,Marius Adamonis,lt LTU,GK,0,0,,,2021-2022,1226f0de,Lazio,,,,,163.0,72.0,
-,Marco Bertini,it ITA,MF,0,0,,,2021-2022,4b520f96,Lazio,,,,,163.0,9.0,
-,Felipe Caicedo,ec ECU,"FW,MF",0,0,,,2021-2022,93b891d1,Lazio,,,,,163.0,61.0,
-,Romano Floriani,it ITA,DF,0,0,,,2021-2022,19e0ca1,Lazio,,,,,163.0,9.0,
-,Alessio Furlanetto,it ITA,GK,0,0,,,2021-2022,95d9f4dd,Lazio,,,,,163.0,9.0,
-,Jony,es ESP,MF,0,0,,,2021-2022,244f57b9,Lazio,,,,,163.0,1.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Claudio López,ar ARG,FW,34,30,13.0,15.0,2002-2003,/en/players/ce8a4e4c/Claudio-Lopez,ce8a4e4c,Lazio,"2,799",31.1,3.0,0.0,163,5.0,19870,Lazio
+,Angelo Peruzzi,it ITA,GK,30,30,0.0,0.0,2002-2003,/en/players/bcd5e1ca/Angelo-Peruzzi,bcd5e1ca,Lazio,"2,528",28.1,0.0,0.0,163,9.0,19871,Lazio
+,Bernardo Corradi,it ITA,FW,32,29,1.0,10.0,2002-2003,/en/players/d50232c1/Bernardo-Corradi,d50232c1,Lazio,"2,638",29.3,6.0,0.0,163,9.0,893,Lazio
+,Dejan Stanković,rs SRB,MF,29,29,6.0,6.0,2002-2003,/en/players/167d7dd3/Dejan-Stankovic,167d7dd3,Lazio,"2,524",28.0,5.0,1.0,163,28.0,19642,Lazio
+,Jaap Stam,nl NED,DF,28,28,0.0,0.0,2002-2003,/en/players/7c48a3ec/Jaap-Stam,7c48a3ec,Lazio,"2,520",28.0,3.0,0.0,163,11.0,19779,Lazio
+,Stefano Fiore,it ITA,MF,33,28,4.0,6.0,2002-2003,/en/players/2eb707d3/Stefano-Fiore,2eb707d3,Lazio,"2,403",26.7,1.0,0.0,163,9.0,892,Lazio
+,Giuseppe Favalli,it ITA,DF,26,25,0.0,1.0,2002-2003,/en/players/4e960f0f/Giuseppe-Favalli,4e960f0f,Lazio,"2,209",24.5,3.0,0.0,163,9.0,19644,Lazio
+,César,br BRA,"DF,MF",26,25,4.0,3.0,2002-2003,/en/players/ee160833/Cesar,160833,Lazio,"2,166",24.1,1.0,0.0,163,2.0,19657,Lazio
+,Siniša Mihajlović,rs SRB,DF,21,21,6.0,1.0,2002-2003,/en/players/c14fb1a0/Sinisa-Mihajlovic,c14fb1a0,Lazio,"1,758",19.5,4.0,0.0,163,28.0,19645,Lazio
+,Giuliano Giannichedda,it ITA,MF,25,18,0.0,0.0,2002-2003,/en/players/1bfa94c1/Giuliano-Giannichedda,1bfa94c1,Lazio,"1,623",18.0,6.0,0.0,163,9.0,19518,Lazio
+,Diego Simeone,ar ARG,MF,24,18,2.0,7.0,2002-2003,/en/players/4b58d1e3/Diego-Simeone,4b58d1e3,Lazio,"1,603",17.8,4.0,0.0,163,5.0,2139,Lazio
+,Paolo Negro,it ITA,DF,19,18,0.0,1.0,2002-2003,/en/players/2538335b/Paolo-Negro,2538335b,Lazio,"1,570",17.4,6.0,0.0,163,9.0,19872,Lazio
+,Massimo Oddo,it ITA,DF,19,16,3.0,0.0,2002-2003,/en/players/552f6449/Massimo-Oddo,552f6449,Lazio,"1,416",15.7,4.0,0.0,163,9.0,15452,Lazio
+,Fernando Couto,pt POR,DF,15,15,0.0,0.0,2002-2003,/en/players/fa2e0b8a/Fernando-Couto,fa2e0b8a,Lazio,"1,350",15.0,2.0,1.0,163,3.0,19873,Lazio
+,Giuseppe Pancaro,it ITA,DF,16,10,0.0,0.0,2002-2003,/en/players/804dd34f/Giuseppe-Pancaro,804dd34f,Lazio,975,10.8,2.0,0.0,163,9.0,19778,Lazio
+,Nikola Lazetić,rs SRB,MF,16,10,1.0,0.0,2002-2003,/en/players/f8a83e49/Nikola-Lazetic,f8a83e49,Lazio,791,8.8,2.0,0.0,163,28.0,19874,Lazio
+,Fabio Liverani,it ITA,MF,21,9,0.0,0.0,2002-2003,/en/players/3fe72775/Fabio-Liverani,3fe72775,Lazio,863,9.6,1.0,1.0,163,9.0,19875,Lazio
+,Simone Inzaghi,it ITA,FW,18,5,1.0,4.0,2002-2003,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,530,5.9,1.0,0.0,163,9.0,19876,Lazio
+,Lucas Castromán,ar ARG,"FW,MF",16,4,0.0,1.0,2002-2003,/en/players/a055c12e/Lucas-Castroman,055c12e,Lazio,498,5.5,3.0,0.0,163,5.0,19877,Lazio
+,Luca Marchegiani,it ITA,GK,6,4,0.0,0.0,2002-2003,/en/players/aa3ed24e/Luca-Marchegiani,3ed24e,Lazio,431,4.8,0.0,0.0,163,9.0,19878,Lazio
+,Juan Pablo Sorín,ar ARG,"DF,MF",6,4,0.0,0.0,2002-2003,/en/players/239e2070/Juan-Pablo-Sorin,239e2070,Lazio,384,4.3,0.0,0.0,163,5.0,1062,Lazio
+,Enrico Chiesa,it ITA,FW,12,4,3.0,2.0,2002-2003,/en/players/28dd2f5b/Enrico-Chiesa,28dd2f5b,Lazio,334,3.7,1.0,0.0,163,9.0,19879,Lazio
+,Christian Manfredini,ci CIV,MF,3,1,0.0,0.0,2002-2003,/en/players/339ae404/Christian-Manfredini,339ae404,Lazio,92,1.0,0.0,0.0,163,35.0,1990,Lazio
+,Emanuele Concetti,it ITA,GK,2,0,0.0,0.0,2002-2003,/en/players/f102f52f/Emanuele-Concetti,f102f52f,Lazio,111,1.2,0.0,0.0,163,9.0,19880,Lazio
+,Dino Baggio,it ITA,MF,4,0,0.0,0.0,2002-2003,/en/players/0e351891/Dino-Baggio,0e351891,Lazio,63,0.7,1.0,0.0,163,9.0,6434,Lazio
+,Guerino Gottardi,ch SUI,"DF,MF",1,0,0.0,0.0,2002-2003,/en/players/6a7b83b8/Guerino-Gottardi,6a7b83b8,Lazio,19,0.2,0.0,0.0,163,39.0,19881,Lazio
+,﻿Stefano Fiore,it ITA,MF,32,30,5.0,8.0,2003-2004,/en/players/2eb707d3/Stefano-Fiore,2eb707d3,Lazio,"2,704",30.0,2.0,0.0,163,9.0,892,Lazio
+,Jaap Stam,nl NED,DF,29,29,0.0,2.0,2003-2004,/en/players/7c48a3ec/Jaap-Stam,7c48a3ec,Lazio,"2,459",27.3,3.0,0.0,163,11.0,19779,Lazio
+,Giuseppe Favalli,it ITA,DF,29,28,1.0,0.0,2003-2004,/en/players/4e960f0f/Giuseppe-Favalli,4e960f0f,Lazio,"2,334",25.9,3.0,0.0,163,9.0,19644,Lazio
+,Bernardo Corradi,it ITA,FW,32,27,6.0,9.0,2003-2004,/en/players/d50232c1/Bernardo-Corradi,d50232c1,Lazio,"2,546",28.3,5.0,0.0,163,9.0,893,Lazio
+,Angelo Peruzzi,it ITA,GK,27,27,0.0,0.0,2003-2004,/en/players/bcd5e1ca/Angelo-Peruzzi,bcd5e1ca,Lazio,"2,350",26.1,0.0,0.0,163,9.0,19871,Lazio
+,Siniša Mihajlović,rs SRB,DF,25,25,3.0,1.0,2003-2004,/en/players/c14fb1a0/Sinisa-Mihajlovic,c14fb1a0,Lazio,"2,095",23.3,9.0,1.0,163,28.0,19645,Lazio
+,Massimo Oddo,it ITA,DF,31,22,3.0,1.0,2003-2004,/en/players/552f6449/Massimo-Oddo,552f6449,Lazio,"2,312",25.7,1.0,0.0,163,9.0,15452,Lazio
+,Fabio Liverani,it ITA,MF,26,21,0.0,2.0,2003-2004,/en/players/3fe72775/Fabio-Liverani,3fe72775,Lazio,"1,983",22.0,7.0,2.0,163,9.0,19875,Lazio
+,Claudio López,ar ARG,FW,27,21,4.0,4.0,2003-2004,/en/players/ce8a4e4c/Claudio-Lopez,ce8a4e4c,Lazio,"1,740",19.3,1.0,0.0,163,5.0,19870,Lazio
+,Fernando Couto,pt POR,DF,22,19,0.0,3.0,2003-2004,/en/players/fa2e0b8a/Fernando-Couto,fa2e0b8a,Lazio,"1,598",17.8,0.0,0.0,163,3.0,19873,Lazio
+,Giuliano Giannichedda,it ITA,MF,21,17,0.0,1.0,2003-2004,/en/players/1bfa94c1/Giuliano-Giannichedda,1bfa94c1,Lazio,"1,540",17.1,6.0,0.0,163,9.0,19518,Lazio
+,Ousmane Dabo,fr FRA,MF,19,17,0.0,0.0,2003-2004,/en/players/9af295a5/Ousmane-Dabo,9af295a5,Lazio,"1,319",14.7,3.0,0.0,163,4.0,6978,Lazio
+,Dejan Stanković,rs SRB,MF,15,15,,2.0,2003-2004,/en/players/167d7dd3/Dejan-Stankovic,167d7dd3,Lazio,"1,309",14.5,2.0,1.0,163,28.0,19642,Lazio
+,Demetrio Albertini,it ITA,"FW,MF",23,15,0.0,2.0,2003-2004,/en/players/91a9535a/Demetrio-Albertini,91a9535a,Lazio,"1,235",13.7,1.0,0.0,163,9.0,1093,Lazio
+,Roberto Muzzi,it ITA,FW,22,14,2.0,1.0,2003-2004,/en/players/1dd51eaf/Roberto-Muzzi,1dd51eaf,Lazio,940,10.4,4.0,1.0,163,9.0,19882,Lazio
+,Luciano Zauri,it ITA,DF,19,12,0.0,3.0,2003-2004,/en/players/96947b99/Luciano-Zauri,96947b99,Lazio,"1,291",14.3,1.0,0.0,163,9.0,19883,Lazio
+,César,br BRA,"DF,MF",14,11,0.0,6.0,2003-2004,/en/players/ee160833/Cesar,160833,Lazio,969,10.8,2.0,0.0,163,2.0,19657,Lazio
+,Simone Inzaghi,it ITA,FW,24,9,2.0,5.0,2003-2004,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,"1,019",11.3,8.0,0.0,163,9.0,19876,Lazio
+,Paolo Negro,it ITA,DF,13,7,0.0,0.0,2003-2004,/en/players/2538335b/Paolo-Negro,2538335b,Lazio,806,9.0,4.0,0.0,163,9.0,19872,Lazio
+,Matteo Sereni,it ITA,GK,9,7,0.0,0.0,2003-2004,/en/players/5a846fbb/Matteo-Sereni,5a846fbb,Lazio,710,7.9,0.0,0.0,163,9.0,19884,Lazio
+,Sérgio Conceição,pt POR,MF,7,2,1.0,0.0,2003-2004,/en/players/f396d247/Sergio-Conceicao,f396d247,Lazio,271,3.0,0.0,1.0,163,3.0,19627,Lazio
+,Roberto Delgado,es ESP,FW,4,0,1.0,0.0,2003-2004,/en/players/4fa766ce/Roberto-Delgado,4fa766ce,Lazio,85,0.9,1.0,0.0,163,1.0,19885,Lazio
+,﻿Massimo Oddo,it ITA,DF,35,34,4.0,4.0,2004-2005,/en/players/552f6449/Massimo-Oddo,552f6449,Lazio,"2,953",32.8,4.0,0.0,163,9.0,15452,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",35,33,1.0,13.0,2004-2005,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"2,837",31.5,4.0,1.0,163,9.0,19677,Lazio
+,Giuliano Giannichedda,it ITA,MF,32,31,1.0,0.0,2004-2005,/en/players/1bfa94c1/Giuliano-Giannichedda,1bfa94c1,Lazio,"2,701",30.0,7.0,1.0,163,9.0,19518,Lazio
+,Antonio Filippini,it ITA,"DF,MF",35,29,4.0,2.0,2004-2005,/en/players/7f621318/Antonio-Filippini,7f621318,Lazio,"2,694",29.9,6.0,0.0,163,9.0,19886,Lazio
+,Sebastiano Siviglia,it ITA,DF,28,28,1.0,2.0,2004-2005,/en/players/d8c086d3/Sebastiano-Siviglia,d8c086d3,Lazio,"2,368",26.3,4.0,1.0,163,9.0,19887,Lazio
+,Emanuele Filippini,it ITA,MF,28,26,3.0,0.0,2004-2005,/en/players/b6c4ff9c/Emanuele-Filippini,b6c4ff9c,Lazio,"2,335",25.9,6.0,0.0,163,9.0,19888,Lazio
+,Ousmane Dabo,fr FRA,MF,29,26,0.0,1.0,2004-2005,/en/players/9af295a5/Ousmane-Dabo,9af295a5,Lazio,"2,319",25.8,11.0,1.0,163,4.0,6978,Lazio
+,Fernando Couto,pt POR,DF,24,24,0.0,3.0,2004-2005,/en/players/fa2e0b8a/Fernando-Couto,fa2e0b8a,Lazio,"2,080",23.1,4.0,2.0,163,3.0,19873,Lazio
+,Luciano Zauri,it ITA,DF,21,21,1.0,0.0,2004-2005,/en/players/96947b99/Luciano-Zauri,96947b99,Lazio,"1,847",20.5,3.0,0.0,163,9.0,19883,Lazio
+,Angelo Peruzzi,it ITA,GK,21,21,0.0,0.0,2004-2005,/en/players/bcd5e1ca/Angelo-Peruzzi,bcd5e1ca,Lazio,"1,612",17.9,0.0,1.0,163,9.0,19871,Lazio
+,Fabio Liverani,it ITA,MF,24,20,5.0,1.0,2004-2005,/en/players/3fe72775/Fabio-Liverani,3fe72775,Lazio,"1,627",18.1,2.0,0.0,163,9.0,19875,Lazio
+,Matteo Sereni,it ITA,GK,20,16,0.0,0.0,2004-2005,/en/players/5a846fbb/Matteo-Sereni,5a846fbb,Lazio,"1,630",18.1,1.0,0.0,163,9.0,19884,Lazio
+,César,br BRA,"DF,MF",20,16,2.0,3.0,2004-2005,/en/players/ee160833/Cesar,160833,Lazio,"1,170",13.0,3.0,2.0,163,2.0,19657,Lazio
+,Paolo Di Canio,it ITA,FW,23,14,2.0,6.0,2004-2005,/en/players/9bbe0ecf/Paolo-Di-Canio,9bbe0ecf,Lazio,"1,140",12.7,2.0,1.0,163,9.0,7357,Lazio
+,Goran Pandev,mk MKD,"FW,MF",25,13,2.0,3.0,2004-2005,/en/players/d711d04f/Goran-Pandev,d711d04f,Lazio,"1,134",12.6,2.0,0.0,163,81.0,19662,Lazio
+,Leonardo Talamonti,ar ARG,DF,12,12,0.0,1.0,2004-2005,/en/players/19b20d5e/Leonardo-Talamonti,19b20d5e,Lazio,"1,080",12.0,3.0,0.0,163,5.0,19889,Lazio
+,Óscar López,es ESP,DF,14,10,1.0,0.0,2004-2005,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Lazio,956,10.6,1.0,0.0,163,1.0,1069,Lazio
+,Roberto Muzzi,it ITA,FW,16,9,2.0,3.0,2004-2005,/en/players/1dd51eaf/Roberto-Muzzi,1dd51eaf,Lazio,736,8.2,1.0,0.0,163,9.0,19882,Lazio
+,Fabio Bazzani,it ITA,FW,15,8,,3.0,2004-2005,/en/players/a53270ab/Fabio-Bazzani,53270ab,Lazio,843,9.4,5.0,0.0,163,9.0,19890,Lazio
+,Anthony Šerić,hr CRO,DF,17,6,0.0,0.0,2004-2005,/en/players/e1dc1b88/Anthony-Seric,1dc1b88,Lazio,807,9.0,3.0,0.0,163,16.0,19891,Lazio
+,Simone Inzaghi,it ITA,FW,12,6,0.0,1.0,2004-2005,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,658,7.3,3.0,0.0,163,9.0,19876,Lazio
+,Christian Manfredini,ci CIV,MF,15,6,0.0,1.0,2004-2005,/en/players/339ae404/Christian-Manfredini,339ae404,Lazio,608,6.8,1.0,0.0,163,35.0,1990,Lazio
+,Matías Lequi,ar ARG,DF,6,4,0.0,0.0,2004-2005,/en/players/dd0c806c/Matias-Lequi,dd0c806c,Lazio,456,5.1,0.0,0.0,163,5.0,665,Lazio
+,Esteban González,ar ARG,MF,3,2,0.0,0.0,2004-2005,/en/players/3b3381db/Esteban-Gonzalez,3b3381db,Lazio,203,2.3,1.0,0.0,163,5.0,5417,Lazio
+,Fabrizio Casazza,it ITA,GK,3,1,0.0,0.0,2004-2005,/en/players/1660b0d6/Fabrizio-Casazza,1660b0d6,Lazio,178,2.0,0.0,0.0,163,9.0,19892,Lazio
+,Paolo Negro,it ITA,DF,4,1,0.0,0.0,2004-2005,/en/players/2538335b/Paolo-Negro,2538335b,Lazio,170,1.9,0.0,0.0,163,9.0,19872,Lazio
+,Claudio De Sousa,it ITA,FW,4,0,0.0,1.0,2004-2005,/en/players/9dfc0b63/Claudio-De-Sousa,9dfc0b63,Lazio,92,1.0,1.0,0.0,163,9.0,19893,Lazio
+,Roberto Delgado,es ESP,FW,1,0,0.0,0.0,2004-2005,/en/players/4fa766ce/Roberto-Delgado,4fa766ce,Lazio,12,0.1,0.0,0.0,163,1.0,19885,Lazio
+,﻿Luciano Zauri,it ITA,DF,37,37,3.0,1.0,2005-2006,/en/players/96947b99/Luciano-Zauri,96947b99,Lazio,"3,330",37.0,6.0,0.0,163,9.0,19883,Lazio
+,Massimo Oddo,it ITA,DF,35,35,11.0,7.0,2005-2006,/en/players/552f6449/Massimo-Oddo,552f6449,Lazio,"3,141",34.9,5.0,0.0,163,9.0,15452,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",37,35,2.0,16.0,2005-2006,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"3,022",33.6,3.0,0.0,163,9.0,19677,Lazio
+,Sebastiano Siviglia,it ITA,DF,31,31,0.0,1.0,2005-2006,/en/players/d8c086d3/Sebastiano-Siviglia,d8c086d3,Lazio,"2,731",30.3,3.0,1.0,163,9.0,19887,Lazio
+,Angelo Peruzzi,it ITA,GK,30,30,0.0,0.0,2005-2006,/en/players/bcd5e1ca/Angelo-Peruzzi,bcd5e1ca,Lazio,"2,633",29.3,0.0,0.0,163,9.0,19871,Lazio
+,Fabio Liverani,it ITA,MF,29,29,3.0,1.0,2005-2006,/en/players/3fe72775/Fabio-Liverani,3fe72775,Lazio,"2,438",27.1,5.0,1.0,163,9.0,19875,Lazio
+,Ousmane Dabo,fr FRA,MF,31,28,1.0,2.0,2005-2006,/en/players/9af295a5/Ousmane-Dabo,9af295a5,Lazio,"2,505",27.8,6.0,1.0,163,4.0,6978,Lazio
+,Emílson Cribari,br BRA,DF,28,28,0.0,0.0,2005-2006,/en/players/0913c971/Emilson-Cribari,0913c971,Lazio,"2,454",27.3,5.0,0.0,163,2.0,19894,Lazio
+,Valon Behrami,ch SUI,"DF,MF",26,25,2.0,2.0,2005-2006,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Lazio,"2,076",23.1,8.0,1.0,163,39.0,8451,Lazio
+,Goran Pandev,mk MKD,"FW,MF",35,22,5.0,11.0,2005-2006,/en/players/d711d04f/Goran-Pandev,d711d04f,Lazio,"2,050",22.8,3.0,0.0,163,81.0,19662,Lazio
+,Paolo Di Canio,it ITA,FW,27,21,3.0,5.0,2005-2006,/en/players/9bbe0ecf/Paolo-Di-Canio,9bbe0ecf,Lazio,"1,428",15.9,3.0,0.0,163,9.0,7357,Lazio
+,Guglielmo Stendardo,it ITA,DF,18,16,0.0,1.0,2005-2006,/en/players/333a9ae7/Guglielmo-Stendardo,333a9ae7,Lazio,"1,522",16.9,3.0,0.0,163,9.0,19531,Lazio
+,Christian Manfredini,ci CIV,MF,26,15,1.0,2.0,2005-2006,/en/players/339ae404/Christian-Manfredini,339ae404,Lazio,"1,471",16.3,6.0,0.0,163,35.0,1990,Lazio
+,Stefano Mauri,it ITA,"FW,MF",15,14,,2.0,2005-2006,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"1,161",12.9,2.0,0.0,163,9.0,19895,Lazio
+,César,br BRA,"DF,MF",11,10,1.0,1.0,2005-2006,/en/players/ee160833/Cesar,160833,Lazio,809,9.0,1.0,0.0,163,2.0,19657,Lazio
+,Manuel Belleri,it ITA,DF,16,8,1.0,1.0,2005-2006,/en/players/3a990b8c/Manuel-Belleri,3a990b8c,Lazio,965,10.7,1.0,0.0,163,9.0,19904,Lazio
+,Gaby Mudingayi,be BEL,MF,14,8,2.0,1.0,2005-2006,/en/players/d4a01bb2/Gaby-Mudingayi,d4a01bb2,Lazio,714,7.9,1.0,0.0,163,27.0,19679,Lazio
+,Marco Ballotta,it ITA,GK,8,6,0.0,0.0,2005-2006,/en/players/6e313d9f/Marco-Ballotta,6e313d9f,Lazio,596,6.6,0.0,0.0,163,9.0,19896,Lazio
+,Fabio Firmani,it ITA,MF,7,6,0.0,0.0,2005-2006,/en/players/98dfb43e/Fabio-Firmani,98dfb43e,Lazio,472,5.2,4.0,0.0,163,9.0,19897,Lazio
+,Igli Tare,al ALB,FW,22,4,1.0,3.0,2005-2006,/en/players/c491b53d/Igli-Tare,c491b53d,Lazio,700,7.8,3.0,0.0,163,78.0,19898,Lazio
+,Christian Keller,dk DEN,MF,7,3,0.0,0.0,2005-2006,/en/players/90f8b08a/Christian-Keller,90f8b08a,Lazio,260,2.9,0.0,0.0,163,7.0,19899,Lazio
+,Andrea Giallombardo,it ITA,DF,7,3,1.0,0.0,2005-2006,/en/players/0ae51fb4/Andrea-Giallombardo,0ae51fb4,Lazio,253,2.8,0.0,0.0,163,9.0,19900,Lazio
+,Massimo Bonanni,it ITA,MF,9,1,,0.0,2005-2006,/en/players/d8eb4f88/Massimo-Bonanni,d8eb4f88,Lazio,227,2.5,0.0,0.0,163,9.0,19901,Lazio
+,Matteo Sereni,it ITA,GK,2,1,0.0,0.0,2005-2006,/en/players/5a846fbb/Matteo-Sereni,5a846fbb,Lazio,101,1.1,0.0,0.0,163,9.0,19884,Lazio
+,Simone Inzaghi,it ITA,FW,7,0,0.0,0.0,2005-2006,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,80,0.9,2.0,0.0,163,9.0,19876,Lazio
+,Felice Piccolo,it ITA,DF,2,0,0.0,0.0,2005-2006,/en/players/75de4ad7/Felice-Piccolo,75de4ad7,Lazio,35,0.4,0.0,0.0,163,9.0,19524,Lazio
+,Roberto Muzzi,it ITA,FW,1,0,,0.0,2005-2006,/en/players/1dd51eaf/Roberto-Muzzi,1dd51eaf,Lazio,3,0.0,0.0,0.0,163,9.0,19882,Lazio
+,﻿Luciano Zauri,it ITA,DF,36,36,1.0,0.0,2006-2007,/en/players/96947b99/Luciano-Zauri,96947b99,Lazio,"3,240",36.0,4.0,1.0,163,9.0,19883,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",36,36,5.0,16.0,2006-2007,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"3,039",33.8,3.0,1.0,163,9.0,19677,Lazio
+,Goran Pandev,mk MKD,"FW,MF",36,34,3.0,11.0,2006-2007,/en/players/d711d04f/Goran-Pandev,d711d04f,Lazio,"2,533",28.1,3.0,1.0,163,81.0,19662,Lazio
+,Cristian Ledesma,it ITA,MF,33,33,4.0,2.0,2006-2007,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"2,939",32.7,11.0,1.0,163,9.0,19902,Lazio
+,Sebastiano Siviglia,it ITA,DF,32,31,0.0,3.0,2006-2007,/en/players/d8c086d3/Sebastiano-Siviglia,d8c086d3,Lazio,"2,710",30.1,2.0,2.0,163,9.0,19887,Lazio
+,Stefano Mauri,it ITA,"FW,MF",29,29,2.0,6.0,2006-2007,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"2,440",27.1,8.0,0.0,163,9.0,19895,Lazio
+,Angelo Peruzzi,it ITA,GK,28,27,0.0,0.0,2006-2007,/en/players/bcd5e1ca/Angelo-Peruzzi,bcd5e1ca,Lazio,"2,381",26.5,0.0,0.0,163,9.0,19871,Lazio
+,Gaby Mudingayi,be BEL,MF,28,25,2.0,0.0,2006-2007,/en/players/d4a01bb2/Gaby-Mudingayi,d4a01bb2,Lazio,"2,286",25.4,14.0,0.0,163,27.0,19679,Lazio
+,Massimo Mutarelli,it ITA,MF,24,23,1.0,2.0,2006-2007,/en/players/4a5cc942/Massimo-Mutarelli,4a5cc942,Lazio,"2,075",23.1,11.0,0.0,163,9.0,19903,Lazio
+,Emílson Cribari,br BRA,DF,23,23,0.0,1.0,2006-2007,/en/players/0913c971/Emilson-Cribari,0913c971,Lazio,"2,034",22.6,3.0,1.0,163,2.0,19894,Lazio
+,Guglielmo Stendardo,it ITA,DF,21,19,0.0,3.0,2006-2007,/en/players/333a9ae7/Guglielmo-Stendardo,333a9ae7,Lazio,"1,687",18.7,4.0,2.0,163,9.0,19531,Lazio
+,Christian Manfredini,ci CIV,MF,25,16,0.0,2.0,2006-2007,/en/players/339ae404/Christian-Manfredini,339ae404,Lazio,"1,417",15.7,2.0,0.0,163,35.0,1990,Lazio
+,Massimo Oddo,it ITA,DF,15,15,,5.0,2006-2007,/en/players/552f6449/Massimo-Oddo,552f6449,Lazio,"1,306",14.5,5.0,1.0,163,9.0,15452,Lazio
+,Valon Behrami,ch SUI,"DF,MF",17,15,0.0,1.0,2006-2007,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Lazio,"1,262",14.0,7.0,1.0,163,39.0,8451,Lazio
+,Manuel Belleri,it ITA,DF,22,10,1.0,1.0,2006-2007,/en/players/3a990b8c/Manuel-Belleri,3a990b8c,Lazio,"1,026",11.4,2.0,0.0,163,9.0,19904,Lazio
+,Marco Ballotta,it ITA,GK,11,9,0.0,0.0,2006-2007,/en/players/6e313d9f/Marco-Ballotta,6e313d9f,Lazio,865,9.6,0.0,0.0,163,9.0,19896,Lazio
+,Luis Jiménez,cl CHI,"FW,MF",16,9,2.0,2.0,2006-2007,/en/players/8e3320c6/Luis-Jimenez,8e3320c6,Lazio,810,9.0,1.0,0.0,163,31.0,8459,Lazio
+,Stephen Makinwa,ng NGA,FW,25,5,3.0,3.0,2006-2007,/en/players/9bafb175/Stephen-Makinwa,9bafb175,Lazio,799,8.9,1.0,0.0,163,52.0,19905,Lazio
+,Roberto Baronio,it ITA,MF,11,5,0.0,0.0,2006-2007,/en/players/6888b53a/Roberto-Baronio,6888b53a,Lazio,502,5.6,2.0,0.0,163,9.0,19906,Lazio
+,Riccardo Bonetto,it ITA,"DF,MF",9,4,0.0,0.0,2006-2007,/en/players/828dff44/Riccardo-Bonetto,828dff44,Lazio,435,4.8,1.0,0.0,163,9.0,21057,Lazio
+,Fabio Firmani,it ITA,MF,11,4,1.0,0.0,2006-2007,/en/players/98dfb43e/Fabio-Firmani,98dfb43e,Lazio,410,4.6,1.0,0.0,163,9.0,19897,Lazio
+,Pasquale Foggia,it ITA,"FW,MF",11,3,0.0,1.0,2006-2007,/en/players/9255af5d/Pasquale-Foggia,9255af5d,Lazio,364,4.0,1.0,0.0,163,9.0,19907,Lazio
+,Modibo Diakité,fr FRA,DF,3,2,0.0,0.0,2006-2007,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Lazio,181,2.0,1.0,0.0,163,4.0,497,Lazio
+,Tommaso Berni,it ITA,GK,2,2,0.0,0.0,2006-2007,/en/players/7b8f85c7/Tommaso-Berni,7b8f85c7,Lazio,174,1.9,0.0,0.0,163,9.0,19699,Lazio
+,Igli Tare,al ALB,FW,14,1,2.0,0.0,2006-2007,/en/players/c491b53d/Igli-Tare,c491b53d,Lazio,274,3.0,1.0,0.0,163,78.0,19898,Lazio
+,Lorenzo De Silvestri,it ITA,"DF,MF",2,1,0.0,0.0,2006-2007,/en/players/e74f0e59/Lorenzo-De-Silvestri,74f0e59,Lazio,103,1.1,0.0,0.0,163,9.0,19908,Lazio
+,Alberto Quadri,it ITA,MF,1,1,0.0,0.0,2006-2007,/en/players/db7706fb/Alberto-Quadri,db7706fb,Lazio,60,0.7,0.0,0.0,163,9.0,19909,Lazio
+,Simone Inzaghi,it ITA,FW,5,0,0.0,0.0,2006-2007,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,62,0.7,1.0,0.0,163,9.0,19876,Lazio
+,﻿Cristian Ledesma,it ITA,MF,32,31,4.0,3.0,2007-2008,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"2,801",31.1,8.0,0.0,163,9.0,19902,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",36,31,5.0,14.0,2007-2008,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"2,700",30.0,0.0,0.0,163,9.0,19677,Lazio
+,Goran Pandev,mk MKD,"FW,MF",32,30,3.0,14.0,2007-2008,/en/players/d711d04f/Goran-Pandev,d711d04f,Lazio,"2,545",28.3,8.0,0.0,163,81.0,19662,Lazio
+,Emílson Cribari,br BRA,DF,31,29,0.0,0.0,2007-2008,/en/players/0913c971/Emilson-Cribari,0913c971,Lazio,"2,680",29.8,1.0,0.0,163,2.0,19894,Lazio
+,Marco Ballotta,it ITA,GK,29,29,0.0,0.0,2007-2008,/en/players/6e313d9f/Marco-Ballotta,6e313d9f,Lazio,"2,610",29.0,0.0,0.0,163,9.0,19896,Lazio
+,Massimo Mutarelli,it ITA,MF,24,22,2.0,2.0,2007-2008,/en/players/4a5cc942/Massimo-Mutarelli,4a5cc942,Lazio,"1,876",20.8,8.0,2.0,163,9.0,19903,Lazio
+,Gaby Mudingayi,be BEL,MF,27,21,0.0,0.0,2007-2008,/en/players/d4a01bb2/Gaby-Mudingayi,d4a01bb2,Lazio,"1,953",21.7,12.0,0.0,163,27.0,19679,Lazio
+,Valon Behrami,ch SUI,"DF,MF",22,21,0.0,1.0,2007-2008,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Lazio,"1,804",20.0,5.0,0.0,163,39.0,8451,Lazio
+,Sebastiano Siviglia,it ITA,DF,19,19,0.0,1.0,2007-2008,/en/players/d8c086d3/Sebastiano-Siviglia,d8c086d3,Lazio,"1,683",18.7,5.0,2.0,163,9.0,19887,Lazio
+,Stefano Mauri,it ITA,"FW,MF",24,18,5.0,3.0,2007-2008,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"1,583",17.6,1.0,0.0,163,9.0,19895,Lazio
+,Lorenzo De Silvestri,it ITA,"DF,MF",24,17,2.0,0.0,2007-2008,/en/players/e74f0e59/Lorenzo-De-Silvestri,74f0e59,Lazio,"1,570",17.4,5.0,2.0,163,9.0,19908,Lazio
+,Luciano Zauri,it ITA,DF,18,17,0.0,0.0,2007-2008,/en/players/96947b99/Luciano-Zauri,96947b99,Lazio,"1,512",16.8,7.0,1.0,163,9.0,19883,Lazio
+,Aleksandar Kolarov,rs SRB,DF,24,17,1.0,1.0,2007-2008,/en/players/eda40760/Aleksandar-Kolarov,da40760,Lazio,"1,489",16.5,6.0,1.0,163,28.0,6999,Lazio
+,Christian Manfredini,ci CIV,MF,23,15,0.0,0.0,2007-2008,/en/players/339ae404/Christian-Manfredini,339ae404,Lazio,"1,309",14.5,2.0,0.0,163,35.0,1990,Lazio
+,Guglielmo Stendardo,it ITA,DF,13,13,0.0,0.0,2007-2008,/en/players/333a9ae7/Guglielmo-Stendardo,333a9ae7,Lazio,"1,086",12.1,2.0,1.0,163,9.0,19531,Lazio
+,Ștefan Radu,ro ROU,DF,11,11,0.0,0.0,2007-2008,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,949,10.5,1.0,0.0,163,51.0,19910,Lazio
+,Ousmane Dabo,fr FRA,MF,13,10,0.0,0.0,2007-2008,/en/players/9af295a5/Ousmane-Dabo,9af295a5,Lazio,728,8.1,6.0,1.0,163,4.0,6978,Lazio
+,Fernando Muslera,uy URU,GK,9,9,0.0,0.0,2007-2008,/en/players/a2abe631/Fernando-Muslera,2abe631,Lazio,810,9.0,2.0,0.0,163,8.0,19911,Lazio
+,Rolando Bianchi,it ITA,FW,15,9,0.0,4.0,2007-2008,/en/players/11fcbfe7/Rolando-Bianchi,11fcbfe7,Lazio,805,8.9,3.0,1.0,163,9.0,1683,Lazio
+,Lionel Scaloni,ar ARG,"DF,MF",12,7,0.0,0.0,2007-2008,/en/players/6cc4990c/Lionel-Scaloni,6cc4990c,Lazio,794,8.8,0.0,0.0,163,5.0,369,Lazio
+,Mourad Meghni,dz ALG,MF,19,7,0.0,0.0,2007-2008,/en/players/84d68ba9/Mourad-Meghni,84d68ba9,Lazio,723,8.0,1.0,0.0,163,37.0,11815,Lazio
+,David Rozehnal,cz CZE,DF,10,7,0.0,0.0,2007-2008,/en/players/f97753b7/David-Rozehnal,f97753b7,Lazio,648,7.2,1.0,0.0,163,84.0,6020,Lazio
+,Stephen Makinwa,ng NGA,FW,14,6,0.0,0.0,2007-2008,/en/players/9bafb175/Stephen-Makinwa,9bafb175,Lazio,599,6.7,0.0,0.0,163,52.0,19905,Lazio
+,Roberto Baronio,it ITA,MF,8,6,0.0,0.0,2007-2008,/en/players/6888b53a/Roberto-Baronio,6888b53a,Lazio,508,5.6,2.0,0.0,163,9.0,19906,Lazio
+,Fabio Firmani,it ITA,MF,7,5,0.0,3.0,2007-2008,/en/players/98dfb43e/Fabio-Firmani,98dfb43e,Lazio,464,5.2,4.0,1.0,163,9.0,19897,Lazio
+,Igli Tare,al ALB,FW,18,4,1.0,1.0,2007-2008,/en/players/c491b53d/Igli-Tare,c491b53d,Lazio,499,5.5,2.0,0.0,163,78.0,19898,Lazio
+,Fabio Vignaroli,it ITA,"FW,MF",9,3,1.0,0.0,2007-2008,/en/players/b4f7bdf5/Fabio-Vignaroli,b4f7bdf5,Lazio,392,4.4,0.0,0.0,163,9.0,19912,Lazio
+,Simone Del Nero,it ITA,"DF,FW",5,2,0.0,0.0,2007-2008,/en/players/ce1ace0d/Simone-Del-Nero,ce1ace0d,Lazio,173,1.9,1.0,0.0,163,9.0,19913,Lazio
+,Ivan Artipoli,it ITA,DF,1,1,0.0,0.0,2007-2008,/en/players/7377878d/Ivan-Artipoli,7377878d,Lazio,70,0.8,0.0,0.0,163,9.0,19914,Lazio
+,Modibo Diakité,fr FRA,DF,1,1,0.0,0.0,2007-2008,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Lazio,40,0.4,0.0,0.0,163,4.0,497,Lazio
+,﻿Cristian Ledesma,it ITA,MF,34,34,0.0,2.0,2008-2009,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"3,035",33.7,6.0,1.0,163,9.0,19902,Lazio
+,Mauro Zárate,ar ARG,"FW,MF",36,33,8.0,13.0,2008-2009,/en/players/cc18ff4c/Mauro-Zarate,cc18ff4c,Lazio,"2,811",31.2,6.0,0.0,163,5.0,7630,Lazio
+,Stephan Lichtsteiner,ch SUI,"DF,MF",33,31,2.0,1.0,2008-2009,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Lazio,"2,753",30.6,7.0,0.0,163,39.0,5936,Lazio
+,Goran Pandev,mk MKD,"FW,MF",31,29,1.0,9.0,2008-2009,/en/players/d711d04f/Goran-Pandev,d711d04f,Lazio,"2,364",26.3,8.0,0.0,163,81.0,19662,Lazio
+,Sebastiano Siviglia,it ITA,DF,27,26,0.0,2.0,2008-2009,/en/players/d8c086d3/Sebastiano-Siviglia,d8c086d3,Lazio,"2,363",26.3,8.0,0.0,163,9.0,19887,Lazio
+,David Rozehnal,cz CZE,DF,28,25,0.0,0.0,2008-2009,/en/players/f97753b7/David-Rozehnal,f97753b7,Lazio,"2,330",25.9,3.0,0.0,163,84.0,6020,Lazio
+,Cristian Brocchi,it ITA,MF,31,25,1.0,0.0,2008-2009,/en/players/14165e5f/Cristian-Brocchi,14165e5f,Lazio,"2,175",24.2,9.0,1.0,163,9.0,19767,Lazio
+,Juan Pablo Carrizo,ar ARG,GK,23,23,0.0,0.0,2008-2009,/en/players/04e6e152/Juan-Pablo-Carrizo,04e6e152,Lazio,"2,070",23.0,2.0,0.0,163,5.0,3567,Lazio
+,Aleksandar Kolarov,rs SRB,DF,25,22,2.0,2.0,2008-2009,/en/players/eda40760/Aleksandar-Kolarov,da40760,Lazio,"1,963",21.8,3.0,1.0,163,28.0,6999,Lazio
+,Pasquale Foggia,it ITA,"FW,MF",33,19,5.0,3.0,2008-2009,/en/players/9255af5d/Pasquale-Foggia,9255af5d,Lazio,"1,907",21.2,5.0,0.0,163,9.0,19907,Lazio
+,Ștefan Radu,ro ROU,DF,19,18,0.0,0.0,2008-2009,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"1,565",17.4,8.0,0.0,163,51.0,19910,Lazio
+,Stefano Mauri,it ITA,"FW,MF",26,17,3.0,1.0,2008-2009,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"1,592",17.7,4.0,0.0,163,9.0,19895,Lazio
+,Emílson Cribari,br BRA,DF,17,16,0.0,0.0,2008-2009,/en/players/0913c971/Emilson-Cribari,0913c971,Lazio,"1,405",15.6,2.0,0.0,163,2.0,19894,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",27,15,1.0,9.0,2008-2009,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"1,700",18.9,0.0,0.0,163,9.0,19677,Lazio
+,Fernando Muslera,uy URU,GK,15,15,0.0,0.0,2008-2009,/en/players/a2abe631/Fernando-Muslera,2abe631,Lazio,"1,350",15.0,1.0,0.0,163,8.0,19911,Lazio
+,Ousmane Dabo,fr FRA,MF,21,15,1.0,1.0,2008-2009,/en/players/9af295a5/Ousmane-Dabo,9af295a5,Lazio,"1,109",12.3,5.0,0.0,163,4.0,6978,Lazio
+,Matuzalém,br BRA,MF,14,13,0.0,0.0,2008-2009,/en/players/5ba2fc63/Matuzalem,5ba2fc63,Lazio,"1,113",12.4,4.0,1.0,163,2.0,3559,Lazio
+,Lorenzo De Silvestri,it ITA,"DF,MF",21,12,0.0,0.0,2008-2009,/en/players/e74f0e59/Lorenzo-De-Silvestri,74f0e59,Lazio,"1,069",11.9,2.0,1.0,163,9.0,19908,Lazio
+,Mourad Meghni,dz ALG,MF,22,10,1.0,0.0,2008-2009,/en/players/84d68ba9/Mourad-Meghni,84d68ba9,Lazio,978,10.9,3.0,0.0,163,37.0,11815,Lazio
+,Modibo Diakité,fr FRA,DF,9,9,0.0,1.0,2008-2009,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Lazio,729,8.1,2.0,0.0,163,4.0,497,Lazio
+,Simone Del Nero,it ITA,"DF,FW",6,5,0.0,0.0,2008-2009,/en/players/ce1ace0d/Simone-Del-Nero,ce1ace0d,Lazio,329,3.7,1.0,0.0,163,9.0,19913,Lazio
+,Christian Manfredini,ci CIV,MF,8,3,0.0,0.0,2008-2009,/en/players/339ae404/Christian-Manfredini,339ae404,Lazio,257,2.9,0.0,0.0,163,35.0,1990,Lazio
+,Ettore Mendicino,it ITA,FW,4,1,0.0,0.0,2008-2009,/en/players/69542ea5/Ettore-Mendicino,69542ea5,Lazio,151,1.7,0.0,0.0,163,9.0,19915,Lazio
+,Libor Kozák,cz CZE,FW,3,1,0.0,0.0,2008-2009,/en/players/979d0640/Libor-Kozak,979d0640,Lazio,122,1.4,0.0,0.0,163,84.0,8157,Lazio
+,Manuel Belleri,it ITA,DF,1,1,0.0,0.0,2008-2009,/en/players/3a990b8c/Manuel-Belleri,3a990b8c,Lazio,45,0.5,0.0,0.0,163,9.0,19904,Lazio
+,Simone Inzaghi,it ITA,FW,9,0,0.0,1.0,2008-2009,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,122,1.4,1.0,0.0,163,9.0,19876,Lazio
+,Stephen Makinwa,ng NGA,FW,4,0,0.0,0.0,2008-2009,/en/players/9bafb175/Stephen-Makinwa,9bafb175,Lazio,40,0.4,0.0,0.0,163,52.0,19905,Lazio
+,Riccardo Perpetuini,it ITA,"DF,MF",1,0,0.0,0.0,2008-2009,/en/players/b5ea1625/Riccardo-Perpetuini,b5ea1625,Lazio,21,0.2,0.0,0.0,163,9.0,19916,Lazio
+,Alessandro Tuia,it ITA,DF,1,0,0.0,0.0,2008-2009,/en/players/26c54058/Alessandro-Tuia,26c54058,Lazio,13,0.1,0.0,0.0,163,9.0,19917,Lazio
+,﻿Fernando Muslera,uy URU,GK,36,36,0.0,0.0,2009-2010,/en/players/a2abe631/Fernando-Muslera,2abe631,Lazio,"3,240",36.0,4.0,0.0,163,8.0,19911,Lazio
+,Aleksandar Kolarov,rs SRB,DF,33,33,2.0,3.0,2009-2010,/en/players/eda40760/Aleksandar-Kolarov,da40760,Lazio,"2,925",32.5,8.0,1.0,163,28.0,6999,Lazio
+,Stefano Mauri,it ITA,"FW,MF",35,29,3.0,3.0,2009-2010,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"2,590",28.8,5.0,0.0,163,9.0,19895,Lazio
+,Ștefan Radu,ro ROU,DF,28,28,0.0,0.0,2009-2010,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,520",28.0,10.0,0.0,163,51.0,19910,Lazio
+,Stephan Lichtsteiner,ch SUI,"DF,MF",33,28,0.0,2.0,2009-2010,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Lazio,"2,419",26.9,5.0,0.0,163,39.0,5936,Lazio
+,Mauro Zárate,ar ARG,"FW,MF",32,27,4.0,3.0,2009-2010,/en/players/cc18ff4c/Mauro-Zarate,cc18ff4c,Lazio,"2,539",28.2,7.0,1.0,163,5.0,7630,Lazio
+,Cristian Brocchi,it ITA,MF,27,25,1.0,2.0,2009-2010,/en/players/14165e5f/Cristian-Brocchi,14165e5f,Lazio,"2,181",24.2,2.0,0.0,163,9.0,19767,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",32,23,5.0,6.0,2009-2010,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"1,980",22.0,2.0,0.0,163,9.0,19677,Lazio
+,Roberto Baronio,it ITA,MF,24,22,2.0,0.0,2009-2010,/en/players/6888b53a/Roberto-Baronio,6888b53a,Lazio,"1,842",20.5,8.0,1.0,163,9.0,19906,Lazio
+,Guglielmo Stendardo,it ITA,DF,19,19,0.0,2.0,2009-2010,/en/players/333a9ae7/Guglielmo-Stendardo,333a9ae7,Lazio,"1,626",18.1,6.0,0.0,163,9.0,19531,Lazio
+,Sebastiano Siviglia,it ITA,DF,20,18,0.0,1.0,2009-2010,/en/players/d8c086d3/Sebastiano-Siviglia,d8c086d3,Lazio,"1,500",16.7,3.0,0.0,163,9.0,19887,Lazio
+,Sergio Floccari,it ITA,FW,17,17,2.0,8.0,2009-2010,/en/players/df301450/Sergio-Floccari,df301450,Lazio,"1,391",15.5,2.0,0.0,163,9.0,19918,Lazio
+,Matuzalém,br BRA,MF,18,14,0.0,1.0,2009-2010,/en/players/5ba2fc63/Matuzalem,5ba2fc63,Lazio,"1,164",12.9,4.0,0.0,163,2.0,3559,Lazio
+,Cristian Ledesma,it ITA,MF,13,13,2.0,0.0,2009-2010,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"1,169",13.0,4.0,1.0,163,9.0,19902,Lazio
+,André Dias,br BRA,DF,12,12,0.0,2.0,2009-2010,/en/players/873e2abf/Andre-Dias,873e2abf,Lazio,"1,080",12.0,3.0,0.0,163,2.0,19919,Lazio
+,Modibo Diakité,fr FRA,DF,19,11,0.0,0.0,2009-2010,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Lazio,"1,118",12.4,3.0,0.0,163,4.0,497,Lazio
+,Giuseppe Biava,it ITA,DF,13,10,0.0,0.0,2009-2010,/en/players/4b799ee6/Giuseppe-Biava,4b799ee6,Lazio,914,10.2,3.0,0.0,163,9.0,19920,Lazio
+,Pasquale Foggia,it ITA,"FW,MF",16,9,2.0,0.0,2009-2010,/en/players/9255af5d/Pasquale-Foggia,9255af5d,Lazio,819,9.1,3.0,0.0,163,9.0,19907,Lazio
+,Julio Ricardo Cruz,ar ARG,FW,25,8,1.0,4.0,2009-2010,/en/players/7679c2bc/Julio-Ricardo-Cruz,7679c2bc,Lazio,"1,064",11.8,3.0,0.0,163,5.0,19641,Lazio
+,Fabio Firmani,it ITA,MF,12,8,0.0,0.0,2009-2010,/en/players/98dfb43e/Fabio-Firmani,98dfb43e,Lazio,674,7.5,5.0,0.0,163,9.0,19897,Lazio
+,Emílson Cribari,br BRA,DF,10,7,0.0,0.0,2009-2010,/en/players/0913c971/Emilson-Cribari,0913c971,Lazio,621,6.9,3.0,1.0,163,2.0,19894,Lazio
+,Ousmane Dabo,fr FRA,MF,12,6,0.0,0.0,2009-2010,/en/players/9af295a5/Ousmane-Dabo,9af295a5,Lazio,607,6.7,2.0,1.0,163,4.0,6978,Lazio
+,Simone Del Nero,it ITA,"DF,FW",7,6,0.0,0.0,2009-2010,/en/players/ce1ace0d/Simone-Del-Nero,ce1ace0d,Lazio,509,5.7,3.0,0.0,163,9.0,19913,Lazio
+,Mourad Meghni,dz ALG,MF,7,3,0.0,0.0,2009-2010,/en/players/84d68ba9/Mourad-Meghni,84d68ba9,Lazio,278,3.1,0.0,0.0,163,37.0,11815,Lazio
+,Thomas Hitzlsperger,de GER,MF,6,2,0.0,1.0,2009-2010,/en/players/2757060a/Thomas-Hitzlsperger,2757060a,Lazio,251,2.8,0.0,0.0,163,13.0,6676,Lazio
+,Tommaso Berni,it ITA,GK,2,2,0.0,0.0,2009-2010,/en/players/7b8f85c7/Tommaso-Berni,7b8f85c7,Lazio,180,2.0,0.0,0.0,163,9.0,19699,Lazio
+,Lionel Scaloni,ar ARG,"DF,MF",5,1,0.0,0.0,2009-2010,/en/players/6cc4990c/Lionel-Scaloni,6cc4990c,Lazio,132,1.5,0.0,0.0,163,5.0,369,Lazio
+,Riccardo Perpetuini,it ITA,"DF,MF",2,1,0.0,0.0,2009-2010,/en/players/b5ea1625/Riccardo-Perpetuini,b5ea1625,Lazio,65,0.7,1.0,0.0,163,9.0,19916,Lazio
+,Simone Inzaghi,it ITA,FW,3,0,0.0,0.0,2009-2010,/en/players/5e479984/Simone-Inzaghi,5e479984,Lazio,45,0.5,0.0,0.0,163,9.0,19876,Lazio
+,Stephen Makinwa,ng NGA,FW,2,0,0.0,0.0,2009-2010,/en/players/9bafb175/Stephen-Makinwa,9bafb175,Lazio,40,0.4,0.0,0.0,163,52.0,19905,Lazio
+,Eliseu,pt POR,"DF,MF",2,0,0.0,0.0,2009-2010,/en/players/981869fc/Eliseu,981869fc,Lazio,16,0.2,0.0,0.0,163,3.0,2347,Lazio
+,Alessio Luciani,it ITA,DF,1,0,0.0,0.0,2009-2010,/en/players/1984f6cd/Alessio-Luciani,1984f6cd,Lazio,6,0.1,0.0,0.0,163,9.0,19921,Lazio
+,﻿Fernando Muslera,uy URU,GK,36,36,0.0,0.0,2010-2011,/en/players/a2abe631/Fernando-Muslera,2abe631,Lazio,"3,240",36.0,0.0,0.0,163,8.0,19911,Lazio
+,Giuseppe Biava,it ITA,DF,35,35,0.0,3.0,2010-2011,/en/players/4b799ee6/Giuseppe-Biava,4b799ee6,Lazio,"3,035",33.7,7.0,2.0,163,9.0,19920,Lazio
+,Hernanes,br BRA,MF,36,35,6.0,11.0,2010-2011,/en/players/cfc2ee72/Hernanes,cfc2ee72,Lazio,"2,839",31.5,1.0,0.0,163,2.0,19567,Lazio
+,André Dias,br BRA,DF,33,33,1.0,2.0,2010-2011,/en/players/873e2abf/Andre-Dias,873e2abf,Lazio,"2,964",32.9,7.0,1.0,163,2.0,19919,Lazio
+,Stephan Lichtsteiner,ch SUI,"DF,MF",34,33,2.0,0.0,2010-2011,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Lazio,"2,917",32.4,8.0,0.0,163,39.0,5936,Lazio
+,Cristian Ledesma,it ITA,MF,34,30,8.0,1.0,2010-2011,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"2,674",29.7,4.0,2.0,163,9.0,19902,Lazio
+,Mauro Zárate,ar ARG,"FW,MF",35,28,7.0,9.0,2010-2011,/en/players/cc18ff4c/Mauro-Zarate,cc18ff4c,Lazio,"2,484",27.6,2.0,0.0,163,5.0,7630,Lazio
+,Stefano Mauri,it ITA,"FW,MF",29,26,8.0,6.0,2010-2011,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"2,267",25.2,3.0,1.0,163,9.0,19895,Lazio
+,Ștefan Radu,ro ROU,DF,26,26,0.0,0.0,2010-2011,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,265",25.2,5.0,1.0,163,51.0,19910,Lazio
+,Cristian Brocchi,it ITA,MF,31,25,2.0,0.0,2010-2011,/en/players/14165e5f/Cristian-Brocchi,14165e5f,Lazio,"2,301",25.6,7.0,0.0,163,9.0,19767,Lazio
+,Sergio Floccari,it ITA,FW,30,25,0.0,8.0,2010-2011,/en/players/df301450/Sergio-Floccari,df301450,Lazio,"2,180",24.2,0.0,0.0,163,9.0,19918,Lazio
+,Matuzalém,br BRA,MF,22,18,0.0,0.0,2010-2011,/en/players/5ba2fc63/Matuzalem,5ba2fc63,Lazio,"1,709",19.0,4.0,0.0,163,2.0,3559,Lazio
+,Giuseppe Sculli,it ITA,"FW,MF",13,11,2.0,2.0,2010-2011,/en/players/cef60dc5/Giuseppe-Sculli,cef60dc5,Lazio,845,9.4,1.0,0.0,163,9.0,19922,Lazio
+,Álvaro González,uy URU,MF,19,8,0.0,1.0,2010-2011,/en/players/873b892d/Alvaro-Gonzalez,873b892d,Lazio,882,9.8,1.0,0.0,163,8.0,19923,Lazio
+,Javier Garrido,es ESP,DF,10,8,1.0,0.0,2010-2011,/en/players/3b142ce5/Javier-Garrido,3b142ce5,Lazio,672,7.5,1.0,0.0,163,1.0,229,Lazio
+,Mark Bresciano,au AUS,MF,20,7,0.0,0.0,2010-2011,/en/players/cb20f13a/Mark-Bresciano,cb20f13a,Lazio,652,7.2,3.0,0.0,163,42.0,19924,Lazio
+,Libor Kozák,cz CZE,FW,19,6,0.0,6.0,2010-2011,/en/players/979d0640/Libor-Kozak,979d0640,Lazio,761,8.5,4.0,0.0,163,84.0,8157,Lazio
+,Guglielmo Stendardo,it ITA,DF,14,6,0.0,0.0,2010-2011,/en/players/333a9ae7/Guglielmo-Stendardo,333a9ae7,Lazio,678,7.5,3.0,0.0,163,9.0,19531,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",17,6,3.0,3.0,2010-2011,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,554,6.2,0.0,0.0,163,9.0,19677,Lazio
+,Lionel Scaloni,ar ARG,"DF,MF",12,5,0.0,0.0,2010-2011,/en/players/6cc4990c/Lionel-Scaloni,6cc4990c,Lazio,599,6.7,3.0,0.0,163,5.0,369,Lazio
+,Modibo Diakité,fr FRA,DF,8,4,0.0,0.0,2010-2011,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Lazio,338,3.8,1.0,0.0,163,4.0,497,Lazio
+,Pasquale Foggia,it ITA,"FW,MF",9,2,0.0,0.0,2010-2011,/en/players/9255af5d/Pasquale-Foggia,9255af5d,Lazio,253,2.8,1.0,0.0,163,9.0,19907,Lazio
+,Luis Pedro Cavanda,be BEL,"DF,MF",3,2,0.0,0.0,2010-2011,/en/players/b8a6bf56/Luis-Pedro-Cavanda,b8a6bf56,Lazio,209,2.3,1.0,0.0,163,27.0,19925,Lazio
+,Tommaso Berni,it ITA,GK,2,2,0.0,0.0,2010-2011,/en/players/7b8f85c7/Tommaso-Berni,7b8f85c7,Lazio,180,2.0,0.0,0.0,163,9.0,19699,Lazio
+,Simone Del Nero,it ITA,"DF,FW",2,1,0.0,0.0,2010-2011,/en/players/ce1ace0d/Simone-Del-Nero,ce1ace0d,Lazio,57,0.6,0.0,0.0,163,9.0,19913,Lazio
+,﻿Cristian Ledesma,it ITA,MF,37,36,5.0,3.0,2011-2012,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"3,273",36.4,4.0,0.0,163,9.0,19902,Lazio
+,Federico Marchetti,it ITA,GK,31,31,0.0,0.0,2011-2012,/en/players/f794b426/Federico-Marchetti,f794b426,Lazio,"2,761",30.7,1.0,0.0,163,9.0,19926,Lazio
+,Hernanes,br BRA,MF,31,27,4.0,8.0,2011-2012,/en/players/cfc2ee72/Hernanes,cfc2ee72,Lazio,"2,032",22.6,3.0,0.0,163,2.0,19567,Lazio
+,Miroslav Klose,de GER,FW,27,26,5.0,13.0,2011-2012,/en/players/5e36a0dd/Miroslav-Klose,5e36a0dd,Lazio,"2,282",25.4,1.0,0.0,163,13.0,15447,Lazio
+,Abdoulay Konko,fr FRA,"DF,MF",26,25,0.0,0.0,2011-2012,/en/players/43857861/Abdoulay-Konko,43857861,Lazio,"2,162",24.0,3.0,1.0,163,4.0,1840,Lazio
+,Giuseppe Biava,it ITA,DF,26,25,0.0,1.0,2011-2012,/en/players/4b799ee6/Giuseppe-Biava,4b799ee6,Lazio,"2,098",23.3,8.0,0.0,163,9.0,19920,Lazio
+,Álvaro González,uy URU,MF,31,23,3.0,1.0,2011-2012,/en/players/873b892d/Alvaro-Gonzalez,873b892d,Lazio,"2,174",24.2,2.0,1.0,163,8.0,19923,Lazio
+,Senad Lulić,ba BIH,"DF,MF",27,23,3.0,4.0,2011-2012,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,038",22.6,3.0,0.0,163,49.0,19927,Lazio
+,André Dias,br BRA,DF,23,22,0.0,0.0,2011-2012,/en/players/873e2abf/Andre-Dias,873e2abf,Lazio,"1,809",20.1,9.0,2.0,163,2.0,19919,Lazio
+,Ștefan Radu,ro ROU,DF,21,21,1.0,0.0,2011-2012,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"1,818",20.2,3.0,0.0,163,51.0,19910,Lazio
+,Modibo Diakité,fr FRA,DF,25,19,1.0,1.0,2011-2012,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Lazio,"1,890",21.0,6.0,1.0,163,4.0,497,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",20,17,3.0,5.0,2011-2012,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,"1,216",13.5,1.0,0.0,163,9.0,19677,Lazio
+,Stefano Mauri,it ITA,"FW,MF",16,14,1.0,4.0,2011-2012,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"1,192",13.2,4.0,0.0,163,9.0,19895,Lazio
+,Djibril Cissé,fr FRA,FW,18,13,5.0,1.0,2011-2012,/en/players/7e6917be/Djibril-Cisse,7e6917be,Lazio,"1,196",13.3,2.0,0.0,163,4.0,6285,Lazio
+,Matuzalém,br BRA,MF,21,12,2.0,1.0,2011-2012,/en/players/5ba2fc63/Matuzalem,5ba2fc63,Lazio,"1,185",13.2,7.0,1.0,163,2.0,3559,Lazio
+,Cristian Brocchi,it ITA,MF,15,12,0.0,0.0,2011-2012,/en/players/14165e5f/Cristian-Brocchi,14165e5f,Lazio,"1,063",11.8,2.0,0.0,163,9.0,19767,Lazio
+,Lionel Scaloni,ar ARG,"DF,MF",19,11,1.0,1.0,2011-2012,/en/players/6cc4990c/Lionel-Scaloni,6cc4990c,Lazio,"1,158",12.9,3.0,1.0,163,5.0,369,Lazio
+,Antonio Candreva,it ITA,"DF,FW",15,10,0.0,3.0,2011-2012,/en/players/356c9002/Antonio-Candreva,356c9002,Lazio,"1,006",11.2,3.0,0.0,163,9.0,19537,Lazio
+,Javier Garrido,es ESP,DF,11,10,0.0,0.0,2011-2012,/en/players/3b142ce5/Javier-Garrido,3b142ce5,Lazio,735,8.2,2.0,0.0,163,1.0,229,Lazio
+,Marius Stankevičius,lt LTU,"DF,MF",11,9,0.0,0.0,2011-2012,/en/players/7c3a4a58/Marius-Stankevicius,7c3a4a58,Lazio,808,9.0,2.0,0.0,163,72.0,935,Lazio
+,Lorik Cana,al ALB,"DF,MF",15,8,0.0,2.0,2011-2012,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Lazio,787,8.7,3.0,0.0,163,78.0,8702,Lazio
+,Albano Bizzarri,ar ARG,GK,7,7,0.0,0.0,2011-2012,/en/players/32b9b5fa/Albano-Bizzarri,32b9b5fa,Lazio,585,6.5,0.0,1.0,163,5.0,2502,Lazio
+,Luciano Zauri,it ITA,DF,8,6,0.0,0.0,2011-2012,/en/players/96947b99/Luciano-Zauri,96947b99,Lazio,592,6.6,0.0,0.0,163,9.0,19883,Lazio
+,Giuseppe Sculli,it ITA,"FW,MF",11,5,1.0,2.0,2011-2012,/en/players/cef60dc5/Giuseppe-Sculli,cef60dc5,Lazio,525,5.8,2.0,0.0,163,9.0,19922,Lazio
+,Libor Kozák,cz CZE,FW,17,4,2.0,4.0,2011-2012,/en/players/979d0640/Libor-Kozak,979d0640,Lazio,620,6.9,2.0,1.0,163,84.0,8157,Lazio
+,Emiliano Alfaro,uy URU,FW,8,1,0.0,0.0,2011-2012,/en/players/c70e8c98/Emiliano-Alfaro,c70e8c98,Lazio,240,2.7,0.0,0.0,163,8.0,19928,Lazio
+,Luis Pedro Cavanda,be BEL,"DF,MF",1,1,0.0,0.0,2011-2012,/en/players/b8a6bf56/Luis-Pedro-Cavanda,b8a6bf56,Lazio,45,0.5,0.0,0.0,163,27.0,19925,Lazio
+,Juan Pablo Carrizo,ar ARG,GK,2,0,0.0,0.0,2011-2012,/en/players/04e6e152/Juan-Pablo-Carrizo,04e6e152,Lazio,74,0.8,0.0,0.0,163,5.0,3567,Lazio
+,Antonio Rozzi,it ITA,"FW,MF",3,0,0.0,0.0,2011-2012,/en/players/bef7564e/Antonio-Rozzi,bef7564e,Lazio,38,0.4,1.0,0.0,163,9.0,19929,Lazio
+,Simone Del Nero,it ITA,"DF,FW",2,0,0.0,0.0,2011-2012,/en/players/ce1ace0d/Simone-Del-Nero,ce1ace0d,Lazio,4,0.0,0.0,0.0,163,9.0,19913,Lazio
+,Ogenyi Onazi,ng NGA,MF,1,0,0.0,0.0,2011-2012,/en/players/17310a6c/Ogenyi-Onazi,17310a6c,Lazio,1,0.0,0.0,0.0,163,52.0,19931,Lazio
+,Enrico Zampa,it ITA,MF,1,0,0.0,0.0,2011-2012,/en/players/52459cdc/Enrico-Zampa,52459cdc,Lazio,1,0.0,0.0,0.0,163,9.0,19930,Lazio
+,﻿Cristian Ledesma,it ITA,MF,36,35,1.0,1.0,2012-2013,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"2,951",32.8,8.0,1.0,163,9.0,19902,Lazio
+,Federico Marchetti,it ITA,GK,33,33,0.0,0.0,2012-2013,/en/players/f794b426/Federico-Marchetti,f794b426,Lazio,"2,970",33.0,2.0,0.0,163,9.0,19926,Lazio
+,Antonio Candreva,it ITA,"DF,FW",35,32,5.0,6.0,2012-2013,/en/players/356c9002/Antonio-Candreva,356c9002,Lazio,"2,696",30.0,6.0,1.0,163,9.0,19537,Lazio
+,Giuseppe Biava,it ITA,DF,31,30,1.0,1.0,2012-2013,/en/players/4b799ee6/Giuseppe-Biava,4b799ee6,Lazio,"2,623",29.1,7.0,2.0,163,9.0,19920,Lazio
+,Hernanes,br BRA,MF,34,30,4.0,11.0,2012-2013,/en/players/cfc2ee72/Hernanes,cfc2ee72,Lazio,"2,550",28.3,4.0,1.0,163,2.0,19567,Lazio
+,Senad Lulić,ba BIH,"DF,MF",33,29,6.0,1.0,2012-2013,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,606",29.0,9.0,0.0,163,49.0,19927,Lazio
+,Álvaro González,uy URU,MF,34,29,2.0,1.0,2012-2013,/en/players/873b892d/Alvaro-Gonzalez,873b892d,Lazio,"2,482",27.6,4.0,0.0,163,8.0,19923,Lazio
+,Miroslav Klose,de GER,FW,29,26,1.0,15.0,2012-2013,/en/players/5e36a0dd/Miroslav-Klose,5e36a0dd,Lazio,"2,180",24.2,5.0,0.0,163,13.0,15447,Lazio
+,André Dias,br BRA,DF,27,25,0.0,0.0,2012-2013,/en/players/873e2abf/Andre-Dias,873e2abf,Lazio,"2,149",23.9,6.0,0.0,163,2.0,19919,Lazio
+,Abdoulay Konko,fr FRA,"DF,MF",25,25,3.0,1.0,2012-2013,/en/players/43857861/Abdoulay-Konko,43857861,Lazio,"2,069",23.0,3.0,0.0,163,4.0,1840,Lazio
+,Stefano Mauri,it ITA,"FW,MF",26,23,5.0,3.0,2012-2013,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"1,905",21.2,3.0,1.0,163,9.0,19895,Lazio
+,Ștefan Radu,ro ROU,DF,23,22,0.0,1.0,2012-2013,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"1,939",21.5,4.0,0.0,163,51.0,19910,Lazio
+,Lorik Cana,al ALB,"DF,MF",24,13,0.0,0.0,2012-2013,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Lazio,"1,430",15.9,9.0,0.0,163,78.0,8702,Lazio
+,Michaël Ciani,fr FRA,DF,18,13,1.0,0.0,2012-2013,/en/players/2ce3dc98/Michael-Ciani,2ce3dc98,Lazio,"1,195",13.3,5.0,1.0,163,4.0,3087,Lazio
+,Sergio Floccari,it ITA,FW,22,11,1.0,5.0,2012-2013,/en/players/df301450/Sergio-Floccari,df301450,Lazio,"1,173",13.0,1.0,0.0,163,9.0,19918,Lazio
+,Ogenyi Onazi,ng NGA,MF,15,8,0.0,1.0,2012-2013,/en/players/17310a6c/Ogenyi-Onazi,17310a6c,Lazio,829,9.2,0.0,0.0,163,52.0,19931,Lazio
+,Luis Pedro Cavanda,be BEL,"DF,MF",14,8,0.0,0.0,2012-2013,/en/players/b8a6bf56/Luis-Pedro-Cavanda,b8a6bf56,Lazio,759,8.4,5.0,0.0,163,27.0,19925,Lazio
+,Libor Kozák,cz CZE,FW,19,5,0.0,0.0,2012-2013,/en/players/979d0640/Libor-Kozak,979d0640,Lazio,727,8.1,1.0,1.0,163,84.0,8157,Lazio
+,Albano Bizzarri,ar ARG,GK,5,5,0.0,0.0,2012-2013,/en/players/32b9b5fa/Albano-Bizzarri,32b9b5fa,Lazio,450,5.0,0.0,0.0,163,5.0,2502,Lazio
+,Ederson,br BRA,MF,15,4,0.0,1.0,2012-2013,/en/players/14bf51f0/Ederson,14bf51f0,Lazio,468,5.2,1.0,0.0,163,2.0,11237,Lazio
+,Bruno Pereirinha,pt POR,"DF,MF",8,3,0.0,0.0,2012-2013,/en/players/02e7fa4f/Bruno-Pereirinha,02e7fa4f,Lazio,426,4.7,1.0,0.0,163,3.0,19932,Lazio
+,Cristian Brocchi,it ITA,MF,8,2,0.0,0.0,2012-2013,/en/players/14165e5f/Cristian-Brocchi,14165e5f,Lazio,197,2.2,0.0,0.0,163,9.0,19767,Lazio
+,Tommaso Rocchi,it ITA,"FW,MF",3,2,0.0,0.0,2012-2013,/en/players/928198e6/Tommaso-Rocchi,928198e6,Lazio,154,1.7,0.0,0.0,163,9.0,19677,Lazio
+,Marius Stankevičius,lt LTU,"DF,MF",3,2,0.0,0.0,2012-2013,/en/players/7c3a4a58/Marius-Stankevicius,7c3a4a58,Lazio,151,1.7,0.0,0.0,163,72.0,935,Lazio
+,Louis Saha,fr FRA,FW,6,1,0.0,0.0,2012-2013,/en/players/7106e4fe/Louis-Saha,7106e4fe,Lazio,130,1.4,0.0,0.0,163,4.0,5731,Lazio
+,Lionel Scaloni,ar ARG,"DF,MF",4,1,0.0,0.0,2012-2013,/en/players/6cc4990c/Lionel-Scaloni,6cc4990c,Lazio,120,1.3,0.0,0.0,163,5.0,369,Lazio
+,Mauro Zárate,ar ARG,"FW,MF",1,1,0.0,0.0,2012-2013,/en/players/cc18ff4c/Mauro-Zarate,cc18ff4c,Lazio,67,0.7,0.0,0.0,163,5.0,7630,Lazio
+,Luca Crecco,it ITA,MF,1,0,0.0,0.0,2012-2013,/en/players/c7f24d4b/Luca-Crecco,c7f24d4b,Lazio,24,0.3,0.0,0.0,163,9.0,19933,Lazio
+,﻿Antonio Candreva,it ITA,"DF,FW",37,35,6.0,12.0,2013-2014,/en/players/356c9002/Antonio-Candreva,356c9002,Lazio,"3,072",34.1,3.0,1.0,163,9.0,19537,Lazio
+,Senad Lulić,ba BIH,"DF,MF",30,28,3.0,7.0,2013-2014,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,544",28.3,10.0,1.0,163,49.0,19927,Lazio
+,Ștefan Radu,ro ROU,DF,25,25,0.0,1.0,2013-2014,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,250",25.0,10.0,0.0,163,51.0,19910,Lazio
+,Cristian Ledesma,it ITA,MF,27,25,3.0,0.0,2013-2014,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,"2,230",24.8,7.0,1.0,163,9.0,19902,Lazio
+,Lorik Cana,al ALB,"DF,MF",26,24,1.0,2.0,2013-2014,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Lazio,"1,999",22.2,8.0,1.0,163,78.0,8702,Lazio
+,Lucas Biglia,ar ARG,MF,26,23,0.0,2.0,2013-2014,/en/players/5710a281/Lucas-Biglia,5710a281,Lazio,"1,943",21.6,6.0,1.0,163,5.0,19837,Lazio
+,Miroslav Klose,de GER,FW,25,22,2.0,7.0,2013-2014,/en/players/5e36a0dd/Miroslav-Klose,5e36a0dd,Lazio,"2,012",22.4,2.0,0.0,163,13.0,15447,Lazio
+,Federico Marchetti,it ITA,GK,21,21,0.0,0.0,2013-2014,/en/players/f794b426/Federico-Marchetti,f794b426,Lazio,"1,890",21.0,0.0,0.0,163,9.0,19926,Lazio
+,Abdoulay Konko,fr FRA,"DF,MF",21,21,0.0,0.0,2013-2014,/en/players/43857861/Abdoulay-Konko,43857861,Lazio,"1,786",19.8,1.0,0.0,163,4.0,1840,Lazio
+,Ogenyi Onazi,ng NGA,MF,29,19,2.0,1.0,2013-2014,/en/players/17310a6c/Ogenyi-Onazi,17310a6c,Lazio,"1,712",19.0,5.0,1.0,163,52.0,19931,Lazio
+,Giuseppe Biava,it ITA,DF,20,19,0.0,1.0,2013-2014,/en/players/4b799ee6/Giuseppe-Biava,4b799ee6,Lazio,"1,659",18.4,2.0,0.0,163,9.0,19920,Lazio
+,Etrit Berisha,al ALB,GK,17,17,0.0,0.0,2013-2014,/en/players/ee833569/Etrit-Berisha,833569,Lazio,"1,530",17.0,0.0,0.0,163,78.0,19934,Lazio
+,Álvaro González,uy URU,MF,25,16,2.0,1.0,2013-2014,/en/players/873b892d/Alvaro-Gonzalez,873b892d,Lazio,"1,425",15.8,1.0,0.0,163,8.0,19923,Lazio
+,Luis Pedro Cavanda,be BEL,"DF,MF",19,15,1.0,1.0,2013-2014,/en/players/b8a6bf56/Luis-Pedro-Cavanda,b8a6bf56,Lazio,"1,347",15.0,3.0,0.0,163,27.0,19925,Lazio
+,Keita Baldé,sn SEN,"FW,MF",25,14,3.0,5.0,2013-2014,/en/players/509a4ccb/Keita-Balde,509a4ccb,Lazio,"1,373",15.3,2.0,0.0,163,34.0,11460,Lazio
+,André Dias,br BRA,DF,16,14,0.0,1.0,2013-2014,/en/players/873e2abf/Andre-Dias,873e2abf,Lazio,"1,262",14.0,1.0,1.0,163,2.0,19919,Lazio
+,Hernanes,br BRA,MF,17,14,0.0,3.0,2013-2014,/en/players/cfc2ee72/Hernanes,cfc2ee72,Lazio,"1,191",13.2,4.0,1.0,163,2.0,19567,Lazio
+,Michaël Ciani,fr FRA,DF,18,13,0.0,1.0,2013-2014,/en/players/2ce3dc98/Michael-Ciani,2ce3dc98,Lazio,"1,373",15.3,6.0,0.0,163,4.0,3087,Lazio
+,Bruno Pereirinha,pt POR,"DF,MF",11,9,1.0,0.0,2013-2014,/en/players/02e7fa4f/Bruno-Pereirinha,02e7fa4f,Lazio,771,8.6,4.0,0.0,163,3.0,19932,Lazio
+,Diego Novaretti,ar ARG,DF,11,9,0.0,0.0,2013-2014,/en/players/c7d1536c/Diego-Novaretti,c7d1536c,Lazio,730,8.1,3.0,1.0,163,5.0,19935,Lazio
+,Brayan Perea,co COL,FW,19,8,1.0,1.0,2013-2014,/en/players/a499b56d/Brayan-Perea,499b56d,Lazio,832,9.2,3.0,0.0,163,19.0,13770,Lazio
+,Stefano Mauri,it ITA,"FW,MF",12,8,2.0,4.0,2013-2014,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,691,7.7,1.0,0.0,163,9.0,19895,Lazio
+,Felipe Anderson,br BRA,"FW,MF",13,7,1.0,0.0,2013-2014,/en/players/9f1893b9/Felipe-Anderson,9f1893b9,Lazio,526,5.8,1.0,0.0,163,2.0,8508,Lazio
+,Ederson,br BRA,MF,15,6,1.0,1.0,2013-2014,/en/players/14bf51f0/Ederson,14bf51f0,Lazio,542,6.0,0.0,0.0,163,2.0,11237,Lazio
+,Sergio Floccari,it ITA,FW,14,5,1.0,0.0,2013-2014,/en/players/df301450/Sergio-Floccari,df301450,Lazio,558,6.2,1.0,0.0,163,9.0,19918,Lazio
+,Hélder Postiga,pt POR,FW,5,1,0.0,0.0,2013-2014,/en/players/c8504093/Helder-Postiga,c8504093,Lazio,140,1.6,0.0,0.0,163,3.0,495,Lazio
+,Joseph Minala,cm CMR,MF,3,0,0.0,0.0,2013-2014,/en/players/11a1951e/Joseph-Minala,11a1951e,Lazio,26,0.3,0.0,0.0,163,36.0,19936,Lazio
+,Mamadou Tounkara,sn SEN,FW,1,0,0.0,0.0,2013-2014,/en/players/0b4c3b21/Mamadou-Tounkara,0b4c3b21,Lazio,10,0.1,0.0,0.0,163,34.0,19937,Lazio
+,Gaël Kakuta,cd COD,"FW,MF",1,0,0.0,0.0,2013-2014,/en/players/5b1bf5e3/Gael-Kakuta,5b1bf5e3,Lazio,6,0.1,0.0,0.0,163,50.0,522,Lazio
+,Luca Crecco,it ITA,MF,1,0,0.0,0.0,2013-2014,/en/players/c7f24d4b/Luca-Crecco,c7f24d4b,Lazio,1,0.0,0.0,0.0,163,9.0,19933,Lazio
+,﻿Marco Parolo,it ITA,MF,34,34,2.0,10.0,2014-2015,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,"2,996",33.3,10.0,1.0,163,9.0,19945,Lazio
+,Antonio Candreva,it ITA,"DF,FW",34,31,10.0,10.0,2014-2015,/en/players/356c9002/Antonio-Candreva,356c9002,Lazio,"2,642",29.4,6.0,0.0,163,9.0,19537,Lazio
+,Federico Marchetti,it ITA,GK,30,30,0.0,0.0,2014-2015,/en/players/f794b426/Federico-Marchetti,f794b426,Lazio,"2,610",29.0,6.0,2.0,163,9.0,19926,Lazio
+,Stefan de Vrij,nl NED,DF,30,29,0.0,0.0,2014-2015,/en/players/d0d8dd44/Stefan-de-Vrij,d0d8dd44,Lazio,"2,531",28.1,4.0,1.0,163,11.0,19729,Lazio
+,Dušan Basta,rs SRB,"DF,MF",27,27,2.0,0.0,2014-2015,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Lazio,"2,381",26.5,5.0,0.0,163,28.0,19938,Lazio
+,Lucas Biglia,ar ARG,MF,27,27,2.0,3.0,2014-2015,/en/players/5710a281/Lucas-Biglia,5710a281,Lazio,"2,321",25.8,6.0,0.0,163,5.0,19837,Lazio
+,Stefano Mauri,it ITA,"FW,MF",29,25,2.0,9.0,2014-2015,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,"1,857",20.6,5.0,0.0,163,9.0,19895,Lazio
+,Ștefan Radu,ro ROU,DF,24,24,2.0,0.0,2014-2015,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,111",23.5,7.0,0.0,163,51.0,19910,Lazio
+,Felipe Anderson,br BRA,"FW,MF",32,23,6.0,10.0,2014-2015,/en/players/9f1893b9/Felipe-Anderson,9f1893b9,Lazio,"2,094",23.3,5.0,0.0,163,2.0,8508,Lazio
+,Senad Lulić,ba BIH,"DF,MF",25,22,7.0,3.0,2014-2015,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"1,842",20.5,7.0,0.0,163,49.0,19927,Lazio
+,Miroslav Klose,de GER,FW,34,21,5.0,13.0,2014-2015,/en/players/5e36a0dd/Miroslav-Klose,5e36a0dd,Lazio,"1,833",20.4,5.0,0.0,163,13.0,15447,Lazio
+,Filip Đorđević,rs SRB,FW,24,15,2.0,8.0,2014-2015,/en/players/dfb933e0/Filip-Djordjevic,dfb933e0,Lazio,"1,475",16.4,2.0,0.0,163,28.0,12513,Lazio
+,Lorik Cana,al ALB,"DF,MF",17,15,0.0,0.0,2014-2015,/en/players/01ceeb0f/Lorik-Cana,01ceeb0f,Lazio,"1,339",14.9,7.0,1.0,163,78.0,8702,Lazio
+,Maurício,br BRA,DF,15,14,0.0,0.0,2014-2015,/en/players/d5bd1abc/Mauricio,d5bd1abc,Lazio,"1,173",13.0,7.0,1.0,163,2.0,19939,Lazio
+,Edson Braafheid,nl NED,DF,16,12,1.0,0.0,2014-2015,/en/players/f8e3660d/Edson-Braafheid,f8e3660d,Lazio,"1,024",11.4,1.0,0.0,163,11.0,15460,Lazio
+,Danilo Cataldi,it ITA,MF,16,11,2.0,0.0,2014-2015,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,996,11.1,3.0,1.0,163,9.0,19940,Lazio
+,Luis Pedro Cavanda,be BEL,"DF,MF",16,10,0.0,0.0,2014-2015,/en/players/b8a6bf56/Luis-Pedro-Cavanda,b8a6bf56,Lazio,"1,004",11.2,5.0,1.0,163,27.0,19925,Lazio
+,Michaël Ciani,fr FRA,DF,12,9,0.0,0.0,2014-2015,/en/players/2ce3dc98/Michael-Ciani,2ce3dc98,Lazio,870,9.7,1.0,0.0,163,4.0,3087,Lazio
+,Etrit Berisha,al ALB,GK,10,8,0.0,0.0,2014-2015,/en/players/ee833569/Etrit-Berisha,833569,Lazio,810,9.0,0.0,0.0,163,78.0,19934,Lazio
+,Cristian Ledesma,it ITA,MF,13,7,3.0,0.0,2014-2015,/en/players/ebb9eaa9/Cristian-Ledesma,bb9eaa9,Lazio,636,7.1,3.0,0.0,163,9.0,19902,Lazio
+,Keita Baldé,sn SEN,"FW,MF",23,6,0.0,1.0,2014-2015,/en/players/509a4ccb/Keita-Balde,509a4ccb,Lazio,797,8.9,3.0,0.0,163,34.0,11460,Lazio
+,Ogenyi Onazi,ng NGA,MF,16,6,1.0,1.0,2014-2015,/en/players/17310a6c/Ogenyi-Onazi,17310a6c,Lazio,669,7.4,4.0,0.0,163,52.0,19931,Lazio
+,Santiago Gentiletti,ar ARG,DF,5,5,0.0,1.0,2014-2015,/en/players/4ac07e1b/Santiago-Gentiletti,4ac07e1b,Lazio,414,4.6,1.0,0.0,163,5.0,3831,Lazio
+,Diego Novaretti,ar ARG,DF,5,2,0.0,0.0,2014-2015,/en/players/c7d1536c/Diego-Novaretti,c7d1536c,Lazio,265,2.9,2.0,1.0,163,5.0,19935,Lazio
+,Álvaro González,uy URU,MF,4,2,0.0,0.0,2014-2015,/en/players/873b892d/Alvaro-Gonzalez,873b892d,Lazio,222,2.5,1.0,0.0,163,8.0,19923,Lazio
+,Bruno Pereirinha,pt POR,"DF,MF",3,2,0.0,0.0,2014-2015,/en/players/02e7fa4f/Bruno-Pereirinha,02e7fa4f,Lazio,163,1.8,0.0,0.0,163,3.0,19932,Lazio
+,Abdoulay Konko,fr FRA,"DF,MF",2,1,0.0,0.0,2014-2015,/en/players/43857861/Abdoulay-Konko,43857861,Lazio,135,1.5,0.0,0.0,163,4.0,1840,Lazio
+,Ederson,br BRA,MF,4,0,0.0,1.0,2014-2015,/en/players/14bf51f0/Ederson,14bf51f0,Lazio,72,0.8,1.0,0.0,163,2.0,11237,Lazio
+,Brayan Perea,co COL,FW,5,0,0.0,0.0,2014-2015,/en/players/a499b56d/Brayan-Perea,499b56d,Lazio,52,0.6,1.0,0.0,163,19.0,13770,Lazio
+,Guido Guerrieri,it ITA,GK,0,0,,,2014-2015,/en/players/77e401c7/Guido-Guerrieri,77e401c7,Lazio,,,,,163,9.0,19941,Lazio
+,Chris Ikonomidis,au AUS,"FW,MF",0,0,,,2014-2015,/en/players/5e6e5a15/Chris-Ikonomidis,5e6e5a15,Lazio,,,,,163,42.0,19942,Lazio
+,Alessandro Murgia,it ITA,MF,0,0,,,2014-2015,/en/players/fb2c533b/Alessandro-Murgia,fb2c533b,Lazio,,,,,163,9.0,19943,Lazio
+,Franjo Prce,hr CRO,DF,0,0,,,2014-2015,/en/players/84432bc4/Franjo-Prce,84432bc4,Lazio,,,,,163,16.0,19944,Lazio
+,Thomas Strakosha,al ALB,GK,0,0,,,2014-2015,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,,,,,163,78.0,19954,Lazio
+,Mamadou Tounkara,sn SEN,FW,0,0,,,2014-2015,/en/players/0b4c3b21/Mamadou-Tounkara,0b4c3b21,Lazio,,,,,163,34.0,19937,Lazio
+,﻿Marco Parolo,it ITA,MF,31,30,0.0,3.0,2015-2016,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,"2,561",28.5,9.0,0.0,163,9.0,19945,Lazio
+,Federico Marchetti,it ITA,GK,29,29,0.0,0.0,2015-2016,/en/players/f794b426/Federico-Marchetti,f794b426,Lazio,"2,547",28.3,0.0,0.0,163,9.0,19926,Lazio
+,Senad Lulić,ba BIH,"DF,MF",30,28,3.0,3.0,2015-2016,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,348",26.1,10.0,1.0,163,49.0,19927,Lazio
+,Antonio Candreva,it ITA,"FW,MF",30,28,3.0,10.0,2015-2016,/en/players/356c9002/Antonio-Candreva,356c9002,Lazio,"2,187",24.3,4.0,0.0,163,9.0,19537,Lazio
+,Lucas Biglia,ar ARG,MF,27,26,3.0,4.0,2015-2016,/en/players/5710a281/Lucas-Biglia,5710a281,Lazio,"2,296",25.5,10.0,1.0,163,5.0,19837,Lazio
+,Wesley Hoedt,nl NED,DF,25,24,0.0,0.0,2015-2016,/en/players/875898c7/Wesley-Hoedt,875898c7,Lazio,"2,049",22.8,4.0,1.0,163,11.0,809,Lazio
+,Felipe Anderson,br BRA,"FW,MF",35,21,4.0,7.0,2015-2016,/en/players/9f1893b9/Felipe-Anderson,9f1893b9,Lazio,"2,071",23.0,2.0,0.0,163,2.0,8508,Lazio
+,Dušan Basta,rs SRB,DF,23,21,0.0,0.0,2015-2016,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Lazio,"1,815",20.2,1.0,0.0,163,28.0,19938,Lazio
+,Maurício,br BRA,DF,24,19,0.0,0.0,2015-2016,/en/players/d5bd1abc/Mauricio,d5bd1abc,Lazio,"1,923",21.4,14.0,1.0,163,2.0,19939,Lazio
+,Santiago Gentiletti,ar ARG,DF,19,19,0.0,0.0,2015-2016,/en/players/4ac07e1b/Santiago-Gentiletti,4ac07e1b,Lazio,"1,710",19.0,10.0,0.0,163,5.0,3831,Lazio
+,Sergej Milinković-Savić,rs SRB,MF,25,17,0.0,1.0,2015-2016,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"1,642",18.2,6.0,1.0,163,28.0,19946,Lazio
+,Abdoulay Konko,fr FRA,DF,18,17,0.0,0.0,2015-2016,/en/players/43857861/Abdoulay-Konko,43857861,Lazio,"1,529",17.0,3.0,0.0,163,4.0,1840,Lazio
+,Danilo Cataldi,it ITA,MF,20,16,3.0,1.0,2015-2016,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,"1,346",15.0,9.0,1.0,163,9.0,19940,Lazio
+,Filip Đorđević,rs SRB,FW,27,16,2.0,3.0,2015-2016,/en/players/dfb933e0/Filip-Djordjevic,dfb933e0,Lazio,"1,292",14.4,1.0,1.0,163,28.0,12513,Lazio
+,Keita Baldé,sn SEN,FW,31,15,2.0,4.0,2015-2016,/en/players/509a4ccb/Keita-Balde,509a4ccb,Lazio,"1,777",19.7,5.0,0.0,163,34.0,11460,Lazio
+,Miroslav Klose,de GER,FW,24,14,7.0,7.0,2015-2016,/en/players/5e36a0dd/Miroslav-Klose,5e36a0dd,Lazio,"1,357",15.1,3.0,0.0,163,13.0,15447,Lazio
+,Ogenyi Onazi,ng NGA,MF,15,14,1.0,1.0,2015-2016,/en/players/17310a6c/Ogenyi-Onazi,17310a6c,Lazio,"1,181",13.1,2.0,0.0,163,52.0,19931,Lazio
+,Ștefan Radu,ro ROU,DF,13,13,1.0,0.0,2015-2016,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"1,089",12.1,3.0,1.0,163,51.0,19910,Lazio
+,Milan Biševac,rs SRB,DF,11,11,0.0,1.0,2015-2016,/en/players/a51728e3/Milan-Bisevac,51728e3,Lazio,907,10.1,0.0,0.0,163,28.0,11250,Lazio
+,Etrit Berisha,al ALB,GK,11,9,0.0,0.0,2015-2016,/en/players/ee833569/Etrit-Berisha,833569,Lazio,873,9.7,1.0,0.0,163,78.0,19934,Lazio
+,Alessandro Matri,it ITA,"FW,MF",19,7,1.0,4.0,2015-2016,/en/players/58d97e77/Alessandro-Matri,58d97e77,Lazio,816,9.1,1.0,1.0,163,9.0,19544,Lazio
+,Ricardo Kishna,nl NED,"MF,FW",11,7,0.0,2.0,2015-2016,/en/players/84e947d6/Ricardo-Kishna,84e947d6,Lazio,558,6.2,0.0,0.0,163,11.0,13133,Lazio
+,Patric,es ESP,DF,9,6,0.0,0.0,2015-2016,/en/players/f7223718/Patric,f7223718,Lazio,583,6.5,3.0,1.0,163,1.0,19947,Lazio
+,Stefano Mauri,it ITA,"MF,FW",12,6,1.0,1.0,2015-2016,/en/players/e3bb6738/Stefano-Mauri,3bb6738,Lazio,505,5.6,0.0,0.0,163,9.0,19895,Lazio
+,Edson Braafheid,nl NED,DF,5,3,0.0,0.0,2015-2016,/en/players/f8e3660d/Edson-Braafheid,f8e3660d,Lazio,336,3.7,0.0,0.0,163,11.0,15460,Lazio
+,Stefan de Vrij,nl NED,DF,2,2,0.0,0.0,2015-2016,/en/players/d0d8dd44/Stefan-de-Vrij,d0d8dd44,Lazio,180,2.0,0.0,0.0,163,11.0,19729,Lazio
+,Ravel Morrison,jm JAM,MF,4,0,0.0,0.0,2015-2016,/en/players/bf59c794/Ravel-Morrison,bf59c794,Lazio,63,0.7,0.0,0.0,163,127.0,7298,Lazio
+,Luca Germoni,it ITA,DF,0,0,,,2015-2016,/en/players/5ce2bd9a/Luca-Germoni,5ce2bd9a,Lazio,,,,,163,9.0,19948,Lazio
+,Guido Guerrieri,it ITA,GK,0,0,,,2015-2016,/en/players/77e401c7/Guido-Guerrieri,77e401c7,Lazio,,,,,163,9.0,19941,Lazio
+,Chris Ikonomidis,au AUS,"FW,MF",0,0,,,2015-2016,/en/players/5e6e5a15/Chris-Ikonomidis,5e6e5a15,Lazio,,,,,163,42.0,19942,Lazio
+,Kristjan Matosevic,si SVN,GK,0,0,,,2015-2016,/en/players/68f005cd/Kristjan-Matosevic,68f005cd,Lazio,,,,,163,32.0,19949,Lazio
+,Simone Mattia,it ITA,DF,0,0,,,2015-2016,/en/players/c1640cad/Simone-Mattia,c1640cad,Lazio,,,,,163,9.0,19950,Lazio
+,Alessandro Murgia,it ITA,MF,0,0,,,2015-2016,/en/players/fb2c533b/Alessandro-Murgia,fb2c533b,Lazio,,,,,163,9.0,19943,Lazio
+,Simone Palombi,it ITA,FW,0,0,,,2015-2016,/en/players/d0e6399c/Simone-Palombi,d0e6399c,Lazio,,,,,163,9.0,19951,Lazio
+,Franjo Prce,hr CRO,DF,0,0,,,2015-2016,/en/players/84432bc4/Franjo-Prce,84432bc4,Lazio,,,,,163,16.0,19944,Lazio
+,Alessandro Rossi,it ITA,FW,0,0,,,2015-2016,/en/players/ccf5926f/Alessandro-Rossi,ccf5926f,Lazio,,,,,163,9.0,19952,Lazio
+,Moustapha Seck,sn SEN,DF,0,0,,,2015-2016,/en/players/9ec1ad87/Moustapha-Seck,9ec1ad87,Lazio,,,,,163,34.0,19953,Lazio
+,﻿Ciro Immobile,it ITA,FW,36,35,3.0,23.0,2016-2017,/en/players/4431aed2/Ciro-Immobile,4431aed2,Lazio,"3,118",34.6,5.0,0.0,163,9.0,1900,Lazio
+,Marco Parolo,it ITA,MF,34,34,1.0,5.0,2016-2017,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,"2,976",33.1,11.0,0.0,163,9.0,19945,Lazio
+,Felipe Anderson,br BRA,"FW,MF",36,33,8.0,4.0,2016-2017,/en/players/9f1893b9/Felipe-Anderson,9f1893b9,Lazio,"2,908",32.3,5.0,0.0,163,2.0,8508,Lazio
+,Sergej Milinković-Savić,rs SRB,MF,34,31,7.0,4.0,2016-2017,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"2,727",30.3,8.0,0.0,163,28.0,19946,Lazio
+,Senad Lulić,ba BIH,"MF,FW",31,29,9.0,3.0,2016-2017,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,486",27.6,8.0,2.0,163,49.0,19927,Lazio
+,Ștefan Radu,ro ROU,DF,29,29,1.0,2.0,2016-2017,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,405",26.7,10.0,0.0,163,51.0,19910,Lazio
+,Lucas Biglia,ar ARG,MF,29,28,3.0,4.0,2016-2017,/en/players/5710a281/Lucas-Biglia,5710a281,Lazio,"2,264",25.2,8.0,0.0,163,5.0,19837,Lazio
+,Stefan de Vrij,nl NED,DF,27,27,4.0,2.0,2016-2017,/en/players/d0d8dd44/Stefan-de-Vrij,d0d8dd44,Lazio,"2,268",25.2,3.0,0.0,163,11.0,19729,Lazio
+,Dušan Basta,rs SRB,"DF,MF",27,24,2.0,1.0,2016-2017,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Lazio,"2,120",23.6,2.0,0.0,163,28.0,19938,Lazio
+,Keita Baldé,sn SEN,FW,31,21,4.0,16.0,2016-2017,/en/players/509a4ccb/Keita-Balde,509a4ccb,Lazio,"1,926",21.4,5.0,2.0,163,34.0,11460,Lazio
+,Wesley Hoedt,nl NED,DF,23,21,0.0,2.0,2016-2017,/en/players/875898c7/Wesley-Hoedt,875898c7,Lazio,"1,882",20.9,5.0,0.0,163,11.0,809,Lazio
+,Thomas Strakosha,al ALB,GK,21,20,0.0,0.0,2016-2017,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,"1,845",20.5,1.0,0.0,163,78.0,19954,Lazio
+,Wallace,br BRA,DF,25,18,0.0,1.0,2016-2017,/en/players/d61b3354/Wallace,d61b3354,Lazio,"1,743",19.4,3.0,0.0,163,2.0,11433,Lazio
+,Federico Marchetti,it ITA,GK,17,17,0.0,0.0,2016-2017,/en/players/f794b426/Federico-Marchetti,f794b426,Lazio,"1,485",16.5,0.0,0.0,163,9.0,19926,Lazio
+,Patric,es ESP,"DF,MF",19,10,1.0,0.0,2016-2017,/en/players/f7223718/Patric,f7223718,Lazio,"1,017",11.3,4.0,0.0,163,1.0,19947,Lazio
+,Bastos,ao ANG,"DF,MF",11,10,0.0,0.0,2016-2017,/en/players/c01c66d9/Bastos,c01c66d9,Lazio,774,8.6,5.0,2.0,163,48.0,19955,Lazio
+,Jordan Lukaku,be BEL,"MF,DF",16,8,1.0,0.0,2016-2017,/en/players/0cd0e21b/Jordan-Lukaku,0cd0e21b,Lazio,851,9.5,2.0,0.0,163,27.0,19956,Lazio
+,Danilo Cataldi,it ITA,MF,11,5,1.0,1.0,2016-2017,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,662,7.4,3.0,1.0,163,9.0,19940,Lazio
+,Alessandro Murgia,it ITA,MF,14,4,0.0,2.0,2016-2017,/en/players/fb2c533b/Alessandro-Murgia,fb2c533b,Lazio,495,5.5,1.0,0.0,163,9.0,19943,Lazio
+,Filip Đorđević,rs SRB,FW,17,4,0.0,0.0,2016-2017,/en/players/dfb933e0/Filip-Djordjevic,dfb933e0,Lazio,464,5.2,0.0,0.0,163,28.0,12513,Lazio
+,Luis Alberto,es ESP,"MF,FW",9,4,2.0,1.0,2016-2017,/en/players/5294a83f/Luis-Alberto,5294a83f,Lazio,365,4.1,0.0,0.0,163,1.0,506,Lazio
+,Cristiano Lombardi,it ITA,FW,18,3,0.0,1.0,2016-2017,/en/players/f124b4c9/Cristiano-Lombardi,f124b4c9,Lazio,437,4.9,4.0,0.0,163,9.0,19957,Lazio
+,Ricardo Kishna,nl NED,FW,5,2,0.0,0.0,2016-2017,/en/players/84e947d6/Ricardo-Kishna,84e947d6,Lazio,158,1.8,0.0,0.0,163,11.0,13133,Lazio
+,Ivan Vargić,hr CRO,GK,1,1,0.0,0.0,2016-2017,/en/players/4d64b28e/Ivan-Vargic,4d64b28e,Lazio,90,1.0,0.0,0.0,163,16.0,19968,Lazio
+,Luca Crecco,it ITA,MF,3,0,0.0,1.0,2016-2017,/en/players/c7f24d4b/Luca-Crecco,c7f24d4b,Lazio,56,0.6,0.0,0.0,163,9.0,19933,Lazio
+,Alessandro Rossi,it ITA,FW,3,0,0.0,0.0,2016-2017,/en/players/ccf5926f/Alessandro-Rossi,ccf5926f,Lazio,47,0.5,0.0,0.0,163,9.0,19952,Lazio
+,Moritz Leitner,de GER,MF,2,0,0.0,0.0,2016-2017,/en/players/9460aaed/Moritz-Leitner,9460aaed,Lazio,15,0.2,0.0,0.0,163,13.0,9419,Lazio
+,Giorgio Spizzichino,,,1,0,0.0,0.0,2016-2017,No detected,,Lazio,12,0.1,0.0,0.0,163,,90668,Lazio
+,Mamadou Tounkara,sn SEN,FW,1,0,0.0,0.0,2016-2017,/en/players/0b4c3b21/Mamadou-Tounkara,0b4c3b21,Lazio,5,0.1,0.0,0.0,163,34.0,19937,Lazio
+,Franjo Prce,hr CRO,DF,1,0,0.0,0.0,2016-2017,/en/players/84432bc4/Franjo-Prce,84432bc4,Lazio,2,0.0,0.0,0.0,163,16.0,19944,Lazio
+,Marius Adamonis,lt LTU,GK,0,0,,,2016-2017,/en/players/1226f0de/Marius-Adamonis,1226f0de,Lazio,,,,,163,72.0,19958,Lazio
+,Luca Borrelli,it ITA,GK,0,0,,,2016-2017,/en/players/b6fe4d31/Luca-Borrelli,b6fe4d31,Lazio,,,,,163,9.0,19959,Lazio
+,Cassio Cardoselli,it ITA,MF,0,0,,,2016-2017,/en/players/538da2c4/Cassio-Cardoselli,538da2c4,Lazio,,,,,163,9.0,19960,Lazio
+,Vinícius Freitas,br BRA,DF,0,0,,,2016-2017,/en/players/5102e15c/Vinicius-Freitas,5102e15c,Lazio,,,,,163,2.0,19961,Lazio
+,Luca Germoni,it ITA,DF,0,0,,,2016-2017,/en/players/5ce2bd9a/Luca-Germoni,5ce2bd9a,Lazio,,,,,163,9.0,19948,Lazio
+,Chris Ikonomidis,au AUS,"FW,MF",0,0,,,2016-2017,/en/players/5e6e5a15/Chris-Ikonomidis,5e6e5a15,Lazio,,,,,163,42.0,19942,Lazio
+,Duje Javorčić,hr CRO,MF,0,0,,,2016-2017,/en/players/01235595/Duje-Javorcic,01235595,Lazio,,,,,163,16.0,19962,Lazio
+,Abukar Mohamed,fi FIN,MF,0,0,,,2016-2017,/en/players/2226b8dc/Abukar-Mohamed,2226b8dc,Lazio,,,,,163,83.0,19963,Lazio
+,Denis Petro,sk SVK,DF,0,0,,,2016-2017,/en/players/a7726b0d/Denis-Petro,7726b0d,Lazio,,,,,163,70.0,19964,Lazio
+,﻿Thomas Strakosha,al ALB,GK,38,38,0.0,0.0,2017-2018,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,"3,420",38.0,2.0,0.0,163,78.0,19954,Lazio
+,Stefan de Vrij,nl NED,DF,36,36,0.0,6.0,2017-2018,/en/players/d0d8dd44/Stefan-de-Vrij,d0d8dd44,Lazio,"3,034",33.7,3.0,0.0,163,11.0,19729,Lazio
+,Lucas Leiva,br BRA,MF,36,35,3.0,2.0,2017-2018,/en/players/4c78b5ed/Lucas-Leiva,4c78b5ed,Lazio,"2,882",32.0,9.0,0.0,163,2.0,6297,Lazio
+,Sergej Milinković-Savić,rs SRB,MF,35,33,4.0,12.0,2017-2018,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"2,844",31.6,8.0,0.0,163,28.0,19946,Lazio
+,Ciro Immobile,it ITA,FW,33,33,6.0,29.0,2017-2018,/en/players/4431aed2/Ciro-Immobile,4431aed2,Lazio,"2,683",29.8,3.0,1.0,163,9.0,1900,Lazio
+,Luis Alberto,es ESP,"FW,MF",34,32,14.0,11.0,2017-2018,/en/players/5294a83f/Luis-Alberto,5294a83f,Lazio,"2,669",29.7,5.0,0.0,163,1.0,506,Lazio
+,Ștefan Radu,ro ROU,DF,31,31,1.0,0.0,2017-2018,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,588",28.8,9.0,2.0,163,51.0,19910,Lazio
+,Marco Parolo,it ITA,MF,31,30,3.0,4.0,2017-2018,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,"2,612",29.0,3.0,2.0,163,9.0,19945,Lazio
+,Senad Lulić,ba BIH,"DF,MF",35,30,4.0,3.0,2017-2018,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,426",27.0,7.0,2.0,163,49.0,19927,Lazio
+,Adam Marušić,me MNE,DF,32,28,4.0,3.0,2017-2018,/en/players/d4535821/Adam-Marusic,d4535821,Lazio,"2,523",28.0,3.0,1.0,163,33.0,19965,Lazio
+,Bastos,ao ANG,DF,21,16,0.0,4.0,2017-2018,/en/players/c01c66d9/Bastos,c01c66d9,Lazio,"1,407",15.6,4.0,0.0,163,48.0,19955,Lazio
+,Luiz Felipe,it ITA,DF,18,12,1.0,0.0,2017-2018,/en/players/15d0c248/Luiz-Felipe,15d0c248,Lazio,"1,168",13.0,6.0,0.0,163,9.0,19966,Lazio
+,Wallace,br BRA,DF,13,12,0.0,0.0,2017-2018,/en/players/d61b3354/Wallace,d61b3354,Lazio,996,11.1,5.0,0.0,163,2.0,11433,Lazio
+,Jordan Lukaku,be BEL,DF,30,10,1.0,1.0,2017-2018,/en/players/0cd0e21b/Jordan-Lukaku,0cd0e21b,Lazio,"1,355",15.1,2.0,0.0,163,27.0,19956,Lazio
+,Felipe Anderson,br BRA,"FW,MF",21,9,6.0,4.0,2017-2018,/en/players/9f1893b9/Felipe-Anderson,9f1893b9,Lazio,"1,162",12.9,0.0,0.0,163,2.0,8508,Lazio
+,Alessandro Murgia,it ITA,MF,16,9,0.0,0.0,2017-2018,/en/players/fb2c533b/Alessandro-Murgia,fb2c533b,Lazio,777,8.6,3.0,1.0,163,9.0,19943,Lazio
+,Dušan Basta,rs SRB,DF,11,9,1.0,0.0,2017-2018,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Lazio,775,8.6,0.0,0.0,163,28.0,19938,Lazio
+,Felipe Caicedo,ec ECU,"FW,MF",22,4,2.0,3.0,2017-2018,/en/players/93b891d1/Felipe-Caicedo,93b891d1,Lazio,717,8.0,1.0,0.0,163,61.0,2360,Lazio
+,Patric,es ESP,DF,11,4,0.0,0.0,2017-2018,/en/players/f7223718/Patric,f7223718,Lazio,592,6.6,1.0,1.0,163,1.0,19947,Lazio
+,Martín Cáceres,uy URU,DF,6,4,0.0,1.0,2017-2018,/en/players/e94d79e3/Martin-Caceres,94d79e3,Lazio,441,4.9,0.0,0.0,163,8.0,1123,Lazio
+,Nani,pt POR,"FW,MF",18,2,1.0,3.0,2017-2018,/en/players/15e9c7e6/Nani,15e9c7e6,Lazio,387,4.3,2.0,0.0,163,3.0,986,Lazio
+,Simone Palombi,it ITA,FW,1,1,0.0,0.0,2017-2018,/en/players/d0e6399c/Simone-Palombi,d0e6399c,Lazio,66,0.7,0.0,0.0,163,9.0,19951,Lazio
+,Davide Di Gennaro,it ITA,MF,2,0,0.0,0.0,2017-2018,/en/players/951a4ee4/Davide-Di-Gennaro,951a4ee4,Lazio,11,0.1,0.0,0.0,163,9.0,19786,Lazio
+,Maurício,br BRA,DF,1,0,0.0,0.0,2017-2018,/en/players/d5bd1abc/Mauricio,d5bd1abc,Lazio,5,0.1,0.0,0.0,163,2.0,19939,Lazio
+,Luca Crecco,it ITA,MF,0,0,,,2017-2018,/en/players/c7f24d4b/Luca-Crecco,c7f24d4b,Lazio,,,,,163,9.0,19933,Lazio
+,Guido Guerrieri,it ITA,GK,0,0,,,2017-2018,/en/players/77e401c7/Guido-Guerrieri,77e401c7,Lazio,,,,,163,9.0,19941,Lazio
+,Wesley Hoedt,nl NED,DF,0,0,,,2017-2018,/en/players/875898c7/Wesley-Hoedt,875898c7,Lazio,,,,,163,11.0,809,Lazio
+,Bruno Jordão,pt POR,MF,0,0,,,2017-2018,/en/players/41ff002d/Bruno-Jordao,41ff002d,Lazio,,,,,163,3.0,9204,Lazio
+,Cristiano Lombardi,it ITA,"FW,MF",0,0,,,2017-2018,/en/players/f124b4c9/Cristiano-Lombardi,f124b4c9,Lazio,,,,,163,9.0,19957,Lazio
+,Alessio Miceli,it ITA,MF,0,0,,,2017-2018,/en/players/3a8b9635/Alessio-Miceli,3a8b9635,Lazio,,,,,163,9.0,19967,Lazio
+,Pedro Neto,pt POR,"FW,MF",0,0,,,2017-2018,/en/players/7ba2eaa9/Pedro-Neto,7ba2eaa9,Lazio,,,,,163,3.0,9202,Lazio
+,Ivan Vargić,hr CRO,GK,0,0,,,2017-2018,/en/players/4d64b28e/Ivan-Vargic,4d64b28e,Lazio,,,,,163,16.0,19968,Lazio
+,﻿Francesco Acerbi,it ITA,DF,37,37,1.0,3.0,2018-2019,/en/players/b96b595c/Francesco-Acerbi,b96b595c,Lazio,"3,309",36.8,4.0,1.0,163,9.0,19799,Lazio
+,Thomas Strakosha,al ALB,GK,35,35,0.0,0.0,2018-2019,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,"3,150",35.0,4.0,0.0,163,78.0,19954,Lazio
+,Senad Lulić,ba BIH,DF,35,34,1.0,4.0,2018-2019,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"2,923",32.5,5.0,0.0,163,49.0,19927,Lazio
+,Ciro Immobile,it ITA,FW,36,31,6.0,15.0,2018-2019,/en/players/4431aed2/Ciro-Immobile,4431aed2,Lazio,"2,859",31.8,6.0,0.0,163,9.0,1900,Lazio
+,Sergej Milinković-Savić,rs SRB,MF,31,29,3.0,5.0,2018-2019,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"2,396",26.6,7.0,1.0,163,28.0,19946,Lazio
+,Marco Parolo,it ITA,MF,34,28,3.0,4.0,2018-2019,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,"2,563",28.5,7.0,0.0,163,9.0,19945,Lazio
+,Ștefan Radu,ro ROU,DF,28,28,1.0,0.0,2018-2019,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,243",24.9,5.0,0.0,163,51.0,19910,Lazio
+,Luis Alberto,es ESP,"MF,FW",27,25,5.0,4.0,2018-2019,/en/players/5294a83f/Luis-Alberto,5294a83f,Lazio,"1,990",22.1,5.0,1.0,163,1.0,506,Lazio
+,Adam Marušić,me MNE,DF,26,24,1.0,1.0,2018-2019,/en/players/d4535821/Adam-Marusic,d4535821,Lazio,"2,111",23.5,2.0,1.0,163,33.0,19965,Lazio
+,Lucas Leiva,br BRA,MF,27,22,2.0,0.0,2018-2019,/en/players/4c78b5ed/Lucas-Leiva,4c78b5ed,Lazio,"1,987",22.1,7.0,0.0,163,2.0,6297,Lazio
+,Joaquín Correa,ar ARG,"FW,MF",34,18,6.0,5.0,2018-2019,/en/players/45b9b619/Joaquin-Correa,45b9b619,Lazio,"1,927",21.4,5.0,0.0,163,5.0,1912,Lazio
+,Felipe Caicedo,ec ECU,FW,28,17,2.0,8.0,2018-2019,/en/players/93b891d1/Felipe-Caicedo,93b891d1,Lazio,"1,371",15.2,4.0,0.0,163,61.0,2360,Lazio
+,Luiz Felipe,it ITA,DF,17,15,1.0,1.0,2018-2019,/en/players/15d0c248/Luiz-Felipe,15d0c248,Lazio,"1,289",14.3,4.0,0.0,163,9.0,19966,Lazio
+,Wallace,br BRA,DF,16,14,0.0,0.0,2018-2019,/en/players/d61b3354/Wallace,d61b3354,Lazio,"1,233",13.7,3.0,0.0,163,2.0,11433,Lazio
+,Milan Badelj,hr CRO,MF,23,14,0.0,1.0,2018-2019,/en/players/e8c930bb/Milan-Badelj,8c930bb,Lazio,"1,141",12.7,6.0,0.0,163,16.0,15880,Lazio
+,Patric,es ESP,DF,15,12,0.0,0.0,2018-2019,/en/players/f7223718/Patric,f7223718,Lazio,"1,085",12.1,1.0,0.0,163,1.0,19947,Lazio
+,Bastos,ao ANG,DF,18,11,0.0,1.0,2018-2019,/en/players/c01c66d9/Bastos,c01c66d9,Lazio,"1,139",12.7,3.0,0.0,163,48.0,19955,Lazio
+,Rômulo,it ITA,DF,10,9,1.0,0.0,2018-2019,/en/players/07abb358/Romulo,07abb358,Lazio,776,8.6,1.0,0.0,163,9.0,19558,Lazio
+,Danilo Cataldi,it ITA,"MF,FW",12,4,1.0,2.0,2018-2019,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,578,6.4,2.0,0.0,163,9.0,19940,Lazio
+,Martín Cáceres,uy URU,DF,4,3,0.0,0.0,2018-2019,/en/players/e94d79e3/Martin-Caceres,94d79e3,Lazio,307,3.4,0.0,0.0,163,8.0,1123,Lazio
+,Riza Durmisi,dk DEN,DF,10,2,1.0,0.0,2018-2019,/en/players/e5cd9da6/Riza-Durmisi,5cd9da6,Lazio,326,3.6,4.0,0.0,163,7.0,1485,Lazio
+,Silvio Proto,be BEL,GK,2,2,0.0,0.0,2018-2019,/en/players/c8a88acd/Silvio-Proto,c8a88acd,Lazio,180,2.0,1.0,0.0,163,27.0,19969,Lazio
+,Valon Berisha,xk KVX,"MF,FW",8,1,0.0,0.0,2018-2019,/en/players/d5575935/Valon-Berisha,d5575935,Lazio,198,2.2,0.0,0.0,163,82.0,15068,Lazio
+,Jordan Lukaku,be BEL,"DF,MF",7,1,0.0,0.0,2018-2019,/en/players/0cd0e21b/Jordan-Lukaku,0cd0e21b,Lazio,175,1.9,1.0,0.0,163,27.0,19956,Lazio
+,Guido Guerrieri,it ITA,GK,1,1,0.0,0.0,2018-2019,/en/players/77e401c7/Guido-Guerrieri,77e401c7,Lazio,90,1.0,0.0,0.0,163,9.0,19941,Lazio
+,Bruno Jordão,pt POR,"MF,DF",3,1,0.0,0.0,2018-2019,/en/players/41ff002d/Bruno-Jordao,41ff002d,Lazio,88,1.0,0.0,0.0,163,3.0,9204,Lazio
+,Pedro Neto,pt POR,"FW,DF",4,0,0.0,0.0,2018-2019,/en/players/7ba2eaa9/Pedro-Neto,7ba2eaa9,Lazio,46,0.5,1.0,0.0,163,3.0,9202,Lazio
+,Nicolò Armini,it ITA,DF,1,0,0.0,0.0,2018-2019,/en/players/2f7407fa/Nicolo-Armini,2f7407fa,Lazio,38,0.4,0.0,0.0,163,9.0,19970,Lazio
+,Luan Capanni,br BRA,FW,1,0,0.0,0.0,2018-2019,/en/players/28237d7e/Luan-Capanni,28237d7e,Lazio,9,0.1,1.0,0.0,163,2.0,19971,Lazio
+,Alessandro Murgia,it ITA,MF,1,0,0.0,0.0,2018-2019,/en/players/fb2c533b/Alessandro-Murgia,fb2c533b,Lazio,9,0.1,0.0,0.0,163,9.0,19943,Lazio
+,Marco Alia,al ALB,GK,0,0,,,2018-2019,/en/players/261dfc43/Marco-Alia,261dfc43,Lazio,,,,,163,78.0,19972,Lazio
+,Dušan Basta,rs SRB,"DF,MF",0,0,,,2018-2019,/en/players/3b57f7f8/Dusan-Basta,3b57f7f8,Lazio,,,,,163,28.0,19938,Lazio
+,Alessio Bianchi,it ITA,MF,0,0,,,2018-2019,/en/players/8b3b2e10/Alessio-Bianchi,8b3b2e10,Lazio,,,,,163,9.0,19973,Lazio
+,Alessandro Cerbara,it ITA,MF,0,0,,,2018-2019,/en/players/00aedd0e/Alessandro-Cerbara,00aedd0e,Lazio,,,,,163,9.0,19974,Lazio
+,Roberto Durante,it ITA,DF,0,0,,,2018-2019,/en/players/7ffbfc23/Roberto-Durante,7ffbfc23,Lazio,,,,,163,9.0,19975,Lazio
+,Alessio Furlanetto,it ITA,GK,0,0,,,2018-2019,/en/players/95d9f4dd/Alessio-Furlanetto,95d9f4dd,Lazio,,,,,163,9.0,19976,Lazio
+,Sergio Kalaj,al ALB,DF,0,0,,,2018-2019,/en/players/08a6bfee/Sergio-Kalaj,08a6bfee,Lazio,,,,,163,78.0,19977,Lazio
+,Abukar Mohamed,fi FIN,MF,0,0,,,2018-2019,/en/players/2226b8dc/Abukar-Mohamed,2226b8dc,Lazio,,,,,163,83.0,19963,Lazio
+,Alessandro Rossi,it ITA,FW,0,0,,,2018-2019,/en/players/ccf5926f/Alessandro-Rossi,ccf5926f,Lazio,,,,,163,9.0,19952,Lazio
+,Jorge Silva,pt POR,DF,0,0,,,2018-2019,/en/players/468a2422/Jorge-Silva,468a2422,Lazio,,,,,163,3.0,19978,Lazio
+,Mauro Zitelli,it ITA,DF,0,0,,,2018-2019,/en/players/aedd51c9/Mauro-Zitelli,dd51c9,Lazio,,,,,163,9.0,19979,Lazio
+,﻿Thomas Strakosha,al ALB,GK,38,38,0.0,0.0,2019-2020,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,"3,420",38.0,2.0,0.0,163,78.0,19954,Lazio
+,Ciro Immobile,it ITA,FW,37,36,9.0,36.0,2019-2020,/en/players/4431aed2/Ciro-Immobile,4431aed2,Lazio,"3,170",35.2,8.0,0.0,163,9.0,1900,Lazio
+,Francesco Acerbi,it ITA,DF,36,36,2.0,2.0,2019-2020,/en/players/b96b595c/Francesco-Acerbi,b96b595c,Lazio,"3,162",35.1,4.0,0.0,163,9.0,19799,Lazio
+,Luis Alberto,es ESP,MF,36,36,15.0,6.0,2019-2020,/en/players/5294a83f/Luis-Alberto,5294a83f,Lazio,"3,113",34.6,5.0,0.0,163,1.0,506,Lazio
+,Sergej Milinković-Savić,rs SRB,MF,37,35,4.0,7.0,2019-2020,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"3,029",33.7,9.0,0.0,163,28.0,19946,Lazio
+,Manuel Lazzari,it ITA,DF,32,29,3.0,0.0,2019-2020,/en/players/02caf6e0/Manuel-Lazzari,02caf6e0,Lazio,"2,548",28.3,6.0,0.0,163,9.0,19980,Lazio
+,Ștefan Radu,ro ROU,DF,29,28,0.0,1.0,2019-2020,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,306",25.6,8.0,0.0,163,51.0,19910,Lazio
+,Luiz Felipe,it ITA,DF,26,24,1.0,1.0,2019-2020,/en/players/15d0c248/Luiz-Felipe,15d0c248,Lazio,"2,024",22.5,6.0,0.0,163,9.0,19966,Lazio
+,Lucas Leiva,br BRA,MF,25,23,1.0,0.0,2019-2020,/en/players/4c78b5ed/Lucas-Leiva,4c78b5ed,Lazio,"1,808",20.1,10.0,1.0,163,2.0,6297,Lazio
+,Joaquín Correa,ar ARG,FW,30,22,2.0,9.0,2019-2020,/en/players/45b9b619/Joaquin-Correa,45b9b619,Lazio,"2,002",22.2,0.0,0.0,163,5.0,1912,Lazio
+,Senad Lulić,ba BIH,DF,20,20,2.0,0.0,2019-2020,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,"1,573",17.5,6.0,0.0,163,49.0,19927,Lazio
+,Patric,es ESP,DF,21,19,0.0,0.0,2019-2020,/en/players/f7223718/Patric,f7223718,Lazio,"1,670",18.6,2.0,1.0,163,1.0,19947,Lazio
+,Felipe Caicedo,ec ECU,FW,30,18,2.0,9.0,2019-2020,/en/players/93b891d1/Felipe-Caicedo,93b891d1,Lazio,"1,406",15.6,7.0,0.0,163,61.0,2360,Lazio
+,Marco Parolo,it ITA,MF,29,17,0.0,1.0,2019-2020,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,"1,700",18.9,8.0,0.0,163,9.0,19945,Lazio
+,Jony,es ESP,"DF,FW",24,14,1.0,0.0,2019-2020,/en/players/244f57b9/Jony,244f57b9,Lazio,"1,177",13.1,4.0,0.0,163,1.0,2111,Lazio
+,Adam Marušić,me MNE,DF,15,10,1.0,2.0,2019-2020,/en/players/d4535821/Adam-Marusic,d4535821,Lazio,942,10.5,3.0,0.0,163,33.0,19965,Lazio
+,Bastos,ao ANG,DF,16,6,0.0,1.0,2019-2020,/en/players/c01c66d9/Bastos,c01c66d9,Lazio,765,8.5,4.0,0.0,163,48.0,19955,Lazio
+,Danilo Cataldi,it ITA,MF,21,3,0.0,1.0,2019-2020,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,592,6.6,3.0,0.0,163,9.0,19940,Lazio
+,Djavan Anderson,nl NED,"FW,DF",6,2,0.0,0.0,2019-2020,/en/players/ca241ad3/Djavan-Anderson,ca241ad3,Lazio,167,1.9,1.0,0.0,163,11.0,19981,Lazio
+,Jordan Lukaku,be BEL,DF,13,1,2.0,0.0,2019-2020,/en/players/0cd0e21b/Jordan-Lukaku,0cd0e21b,Lazio,396,4.4,2.0,0.0,163,27.0,19956,Lazio
+,Denis Vavro,sk SVK,DF,11,1,0.0,0.0,2019-2020,/en/players/08990838/Denis-Vavro,08990838,Lazio,328,3.6,0.0,0.0,163,70.0,5693,Lazio
+,Bobby Adekanye,nl NED,FW,11,0,0.0,1.0,2019-2020,/en/players/3ed84b2c/Bobby-Adekanye,3ed84b2c,Lazio,188,2.1,1.0,0.0,163,11.0,4422,Lazio
+,Anderson Lima,br BRA,"MF,DF",6,0,0.0,0.0,2019-2020,/en/players/59be3a74/Anderson-Lima,59be3a74,Lazio,62,0.7,0.0,0.0,163,2.0,19982,Lazio
+,Valon Berisha,xk KVX,MF,3,0,0.0,0.0,2019-2020,/en/players/d5575935/Valon-Berisha,d5575935,Lazio,33,0.4,0.0,0.0,163,82.0,15068,Lazio
+,Nicolò Armini,it ITA,DF,1,0,0.0,0.0,2019-2020,/en/players/2f7407fa/Nicolo-Armini,2f7407fa,Lazio,3,0.0,0.0,0.0,163,9.0,19970,Lazio
+,Luca Falbo,it ITA,DF,1,0,0.0,0.0,2019-2020,/en/players/ca8fa0c0/Luca-Falbo,ca8fa0c0,Lazio,2,0.0,0.0,0.0,163,9.0,19983,Lazio
+,Raúl Moro,es ESP,FW,1,0,0.0,0.0,2019-2020,/en/players/919dd4b1/Raul-Moro,919dd4b1,Lazio,2,0.0,0.0,0.0,163,1.0,19984,Lazio
+,Marco Alia,al ALB,GK,0,0,,,2019-2020,/en/players/261dfc43/Marco-Alia,261dfc43,Lazio,,,,,163,78.0,19972,Lazio
+,Guido Guerrieri,it ITA,GK,0,0,,,2019-2020,/en/players/77e401c7/Guido-Guerrieri,77e401c7,Lazio,,,,,163,9.0,19941,Lazio
+,Joseph Minala,cm CMR,MF,0,0,,,2019-2020,/en/players/11a1951e/Joseph-Minala,11a1951e,Lazio,,,,,163,36.0,19936,Lazio
+,Silvio Proto,be BEL,GK,0,0,,,2019-2020,/en/players/c8a88acd/Silvio-Proto,c8a88acd,Lazio,,,,,163,27.0,19969,Lazio
+,Jorge Silva,pt POR,DF,0,0,,,2019-2020,/en/players/468a2422/Jorge-Silva,468a2422,Lazio,,,,,163,3.0,19978,Lazio
+,﻿Ciro Immobile,it ITA,FW,35,34,6.0,20.0,2020-2021,/en/players/4431aed2/Ciro-Immobile,4431aed2,Lazio,"2,849",31.7,4.0,1.0,163,9.0,1900,Lazio
+,Adam Marušić,me MNE,DF,36,33,3.0,2.0,2020-2021,/en/players/d4535821/Adam-Marusic,d4535821,Lazio,"2,966",33.0,3.0,0.0,163,33.0,19965,Lazio
+,Luis Alberto,es ESP,MF,34,33,2.0,9.0,2020-2021,/en/players/5294a83f/Luis-Alberto,5294a83f,Lazio,"2,618",29.1,5.0,0.0,163,1.0,506,Lazio
+,Francesco Acerbi,it ITA,DF,32,32,1.0,0.0,2020-2021,/en/players/b96b595c/Francesco-Acerbi,b96b595c,Lazio,"2,813",31.3,9.0,1.0,163,9.0,19799,Lazio
+,Sergej Milinković-Savić,rs SRB,MF,32,32,9.0,8.0,2020-2021,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"2,746",30.5,4.0,0.0,163,28.0,19946,Lazio
+,Manuel Lazzari,it ITA,DF,32,30,5.0,2.0,2020-2021,/en/players/02caf6e0/Manuel-Lazzari,02caf6e0,Lazio,"2,613",29.0,2.0,1.0,163,9.0,19980,Lazio
+,Ștefan Radu,ro ROU,DF,31,30,3.0,0.0,2020-2021,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,"2,458",27.3,2.0,0.0,163,51.0,19910,Lazio
+,Lucas Leiva,br BRA,MF,32,30,0.0,0.0,2020-2021,/en/players/4c78b5ed/Lucas-Leiva,4c78b5ed,Lazio,"2,131",23.7,10.0,0.0,163,2.0,6297,Lazio
+,Pepe Reina,es ESP,GK,29,29,0.0,0.0,2020-2021,/en/players/e358587b/Pepe-Reina,358587b,Lazio,"2,610",29.0,1.0,0.0,163,1.0,2702,Lazio
+,Joaquín Correa,ar ARG,FW,28,25,3.0,8.0,2020-2021,/en/players/45b9b619/Joaquin-Correa,45b9b619,Lazio,"1,933",21.5,3.0,1.0,163,5.0,1912,Lazio
+,Patric,es ESP,DF,25,18,1.0,0.0,2020-2021,/en/players/f7223718/Patric,f7223718,Lazio,"1,595",17.7,8.0,0.0,163,1.0,19947,Lazio
+,Mohamed Fares,dz ALG,DF,21,12,1.0,0.0,2020-2021,/en/players/b7a5bc86/Mohamed-Fares,b7a5bc86,Lazio,"1,139",12.7,5.0,0.0,163,37.0,19985,Lazio
+,Wesley Hoedt,nl NED,DF,17,10,0.0,0.0,2020-2021,/en/players/875898c7/Wesley-Hoedt,875898c7,Lazio,952,10.6,6.0,0.0,163,11.0,809,Lazio
+,Luiz Felipe,it ITA,DF,14,10,0.0,0.0,2020-2021,/en/players/15d0c248/Luiz-Felipe,15d0c248,Lazio,909,10.1,5.0,0.0,163,9.0,19966,Lazio
+,Felipe Caicedo,ec ECU,FW,25,9,0.0,8.0,2020-2021,/en/players/93b891d1/Felipe-Caicedo,93b891d1,Lazio,929,10.3,5.0,0.0,163,61.0,2360,Lazio
+,Thomas Strakosha,al ALB,GK,9,9,0.0,0.0,2020-2021,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,810,9.0,1.0,0.0,163,78.0,19954,Lazio
+,Senad Lulić,ba BIH,DF,16,8,0.0,0.0,2020-2021,/en/players/7fd58fe3/Senad-Lulic,7fd58fe3,Lazio,718,8.0,1.0,0.0,163,49.0,19927,Lazio
+,Vedat Muriqi,xk KVX,FW,27,7,0.0,1.0,2020-2021,/en/players/0cadc46d/Vedat-Muriqi,0cadc46d,Lazio,832,9.2,1.0,0.0,163,82.0,1763,Lazio
+,Marco Parolo,it ITA,"DF,MF",18,7,2.0,0.0,2020-2021,/en/players/ed5886d2/Marco-Parolo,d5886d2,Lazio,653,7.3,5.0,0.0,163,9.0,19945,Lazio
+,Jean-Daniel Akpa-Akpro,ci CIV,MF,32,6,1.0,0.0,2020-2021,/en/players/fdf4b948/Jean-Daniel-Akpa-Akpro,fdf4b948,Lazio,"1,056",11.7,9.0,0.0,163,35.0,14030,Lazio
+,Gonzalo Escalante,ar ARG,MF,24,4,1.0,0.0,2020-2021,/en/players/3f79a1c8/Gonzalo-Escalante,3f79a1c8,Lazio,733,8.1,5.0,0.0,163,5.0,3389,Lazio
+,Danilo Cataldi,it ITA,MF,19,4,0.0,0.0,2020-2021,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,568,6.3,4.0,0.0,163,9.0,19940,Lazio
+,Andreas Pereira,br BRA,"FW,MF",26,3,2.0,1.0,2020-2021,/en/players/6639e500/Andreas-Pereira,6639e500,Lazio,543,6.0,7.0,1.0,163,2.0,994,Lazio
+,Mateo Musacchio,ar ARG,DF,4,2,0.0,0.0,2020-2021,/en/players/91899ca8/Mateo-Musacchio,91899ca8,Lazio,229,2.5,2.0,0.0,163,5.0,2751,Lazio
+,Djavan Anderson,nl NED,DF,3,1,0.0,0.0,2020-2021,/en/players/ca241ad3/Djavan-Anderson,ca241ad3,Lazio,72,0.8,0.0,0.0,163,11.0,19981,Lazio
+,Bastos,ao ANG,DF,2,0,0.0,0.0,2020-2021,/en/players/c01c66d9/Bastos,c01c66d9,Lazio,63,0.7,0.0,0.0,163,48.0,19955,Lazio
+,Denis Vavro,sk SVK,DF,1,0,0.0,0.0,2020-2021,/en/players/08990838/Denis-Vavro,08990838,Lazio,32,0.4,0.0,0.0,163,70.0,5693,Lazio
+,Raúl Moro,es ESP,FW,1,0,0.0,0.0,2020-2021,/en/players/919dd4b1/Raul-Moro,919dd4b1,Lazio,11,0.1,0.0,0.0,163,1.0,19984,Lazio
+,Nicolò Armini,it ITA,DF,1,0,0.0,0.0,2020-2021,/en/players/2f7407fa/Nicolo-Armini,2f7407fa,Lazio,5,0.1,0.0,0.0,163,9.0,19970,Lazio
+,Marco Bertini,it ITA,MF,1,0,0.0,0.0,2020-2021,/en/players/4b520f96/Marco-Bertini,4b520f96,Lazio,5,0.1,0.0,0.0,163,9.0,19986,Lazio
+,Enzo Adeagbo,ch SUI,DF,0,0,,,2020-2021,/en/players/b911a881/Enzo-Adeagbo,b911a881,Lazio,,,,,163,39.0,19987,Lazio
+,Bobby Adekanye,nl NED,FW,0,0,,,2020-2021,/en/players/3ed84b2c/Bobby-Adekanye,3ed84b2c,Lazio,,,,,163,11.0,4422,Lazio
+,Marco Alia,al ALB,GK,0,0,,,2020-2021,/en/players/261dfc43/Marco-Alia,261dfc43,Lazio,,,,,163,78.0,19972,Lazio
+,Szymon Czyż,pl POL,MF,0,0,,,2020-2021,/en/players/4c14af32/Szymon-Czyz,4c14af32,Lazio,,,,,163,14.0,19988,Lazio
+,Damiano Franco,it ITA,DF,0,0,,,2020-2021,/en/players/12d73e55/Damiano-Franco,12d73e55,Lazio,,,,,163,9.0,19989,Lazio
+,Alessio Furlanetto,it ITA,GK,0,0,,,2020-2021,/en/players/95d9f4dd/Alessio-Furlanetto,95d9f4dd,Lazio,,,,,163,9.0,19976,Lazio
+,Sofian Kiyine,ma MAR,MF,0,0,,,2020-2021,/en/players/ce1806be/Sofian-Kiyine,ce1806be,Lazio,,,,,163,26.0,20497,Lazio
+,Jordan Lukaku,be BEL,"DF,MF",0,0,,,2020-2021,/en/players/0cd0e21b/Jordan-Lukaku,0cd0e21b,Lazio,,,,,163,27.0,19956,Lazio
+,Angelo Ndrecka,al ALB,DF,0,0,,,2020-2021,/en/players/fcd20025/Angelo-Ndrecka,fcd20025,Lazio,,,,,163,78.0,19990,Lazio
+,Mattia Novella,it ITA,DF,0,0,,,2020-2021,/en/players/ef33b8e2/Mattia-Novella,f33b8e2,Lazio,,,,,163,9.0,19991,Lazio
+,Gabriel Pereira,br BRA,GK,0,0,,,2020-2021,/en/players/e031439d/Gabriel-Pereira,031439d,Lazio,,,,,163,2.0,19992,Lazio
+,Florent Shehu,ch SUI,FW,0,0,,,2020-2021,/en/players/f2601cd1/Florent-Shehu,f2601cd1,Lazio,,,,,163,39.0,19993,Lazio
+,﻿Sergej Milinković-Savić,rs SRB,MF,37,36,10.0,11.0,2021-2022,/en/players/4e6dbac4/Sergej-Milinkovic-Savic,4e6dbac4,Lazio,"3,100",34.4,6.0,1.0,163,28.0,19946,Lazio
+,Felipe Anderson,br BRA,FW,38,33,8.0,6.0,2021-2022,/en/players/9f1893b9/Felipe-Anderson,9f1893b9,Lazio,"2,888",32.1,2.0,0.0,163,2.0,8508,Lazio
+,Ciro Immobile,it ITA,FW,31,31,2.0,27.0,2021-2022,/en/players/4431aed2/Ciro-Immobile,4431aed2,Lazio,"2,711",30.1,4.0,0.0,163,9.0,1900,Lazio
+,Adam Marušić,me MNE,DF,33,30,0.0,1.0,2021-2022,/en/players/d4535821/Adam-Marusic,d4535821,Lazio,"2,721",30.2,6.0,1.0,163,33.0,19965,Lazio
+,Francesco Acerbi,it ITA,DF,30,29,0.0,4.0,2021-2022,/en/players/b96b595c/Francesco-Acerbi,b96b595c,Lazio,"2,536",28.2,2.0,1.0,163,9.0,19799,Lazio
+,Luiz Felipe,it ITA,DF,31,28,0.0,0.0,2021-2022,/en/players/15d0c248/Luiz-Felipe,15d0c248,Lazio,"2,491",27.7,9.0,1.0,163,9.0,19966,Lazio
+,Luis Alberto,es ESP,MF,34,27,9.0,5.0,2021-2022,/en/players/5294a83f/Luis-Alberto,5294a83f,Lazio,"2,353",26.1,5.0,0.0,163,1.0,506,Lazio
+,Pedro,es ESP,FW,32,25,4.0,9.0,2021-2022,/en/players/3ca7254a/Pedro,3ca7254a,Lazio,"2,033",22.6,5.0,0.0,163,1.0,1115,Lazio
+,Elseid Hysaj,al ALB,DF,29,24,0.0,1.0,2021-2022,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Lazio,"2,027",22.5,3.0,0.0,163,78.0,19994,Lazio
+,Thomas Strakosha,al ALB,GK,23,23,0.0,0.0,2021-2022,/en/players/339fe0e8/Thomas-Strakosha,339fe0e8,Lazio,"2,070",23.0,2.0,0.0,163,78.0,19954,Lazio
+,Mattia Zaccagni,it ITA,FW,29,21,5.0,4.0,2021-2022,/en/players/d85c238b/Mattia-Zaccagni,d85c238b,Lazio,"1,876",20.8,6.0,0.0,163,9.0,19995,Lazio
+,Danilo Cataldi,it ITA,MF,32,19,2.0,1.0,2021-2022,/en/players/ba3d3bea/Danilo-Cataldi,ba3d3bea,Lazio,"1,707",19.0,8.0,0.0,163,9.0,19940,Lazio
+,Lucas Leiva,br BRA,MF,35,19,0.0,0.0,2021-2022,/en/players/4c78b5ed/Lucas-Leiva,4c78b5ed,Lazio,"1,697",18.9,9.0,0.0,163,2.0,6297,Lazio
+,Patric,es ESP,DF,24,19,1.0,1.0,2021-2022,/en/players/f7223718/Patric,f7223718,Lazio,"1,649",18.3,7.0,1.0,163,1.0,19947,Lazio
+,Manuel Lazzari,it ITA,DF,31,16,3.0,3.0,2021-2022,/en/players/02caf6e0/Manuel-Lazzari,02caf6e0,Lazio,"1,665",18.5,3.0,0.0,163,9.0,19980,Lazio
+,Pepe Reina,es ESP,GK,15,15,1.0,0.0,2021-2022,/en/players/e358587b/Pepe-Reina,358587b,Lazio,"1,350",15.0,3.0,0.0,163,1.0,2702,Lazio
+,Toma Bašić,hr CRO,MF,29,9,2.0,0.0,2021-2022,/en/players/80556f08/Toma-Basic,80556f08,Lazio,982,10.9,3.0,0.0,163,16.0,11747,Lazio
+,Ștefan Radu,ro ROU,DF,10,6,0.0,0.0,2021-2022,/en/players/53de807a/Stefan-Radu,53de807a,Lazio,556,6.2,2.0,0.0,163,51.0,19910,Lazio
+,Jean-Daniel Akpa-Akpro,ci CIV,MF,10,4,0.0,0.0,2021-2022,/en/players/fdf4b948/Jean-Daniel-Akpa-Akpro,fdf4b948,Lazio,315,3.5,1.0,0.0,163,35.0,14030,Lazio
+,Jovane Cabral,cv CPV,FW,3,2,0.0,1.0,2021-2022,/en/players/e34e086c/Jovane-Cabral,34e086c,Lazio,190,2.1,0.0,0.0,163,85.0,19996,Lazio
+,Vedat Muriqi,xk KVX,FW,11,1,0.0,0.0,2021-2022,/en/players/0cadc46d/Vedat-Muriqi,0cadc46d,Lazio,215,2.4,1.0,0.0,163,82.0,1763,Lazio
+,Raúl Moro,es ESP,FW,11,1,1.0,0.0,2021-2022,/en/players/919dd4b1/Raul-Moro,919dd4b1,Lazio,201,2.2,0.0,0.0,163,1.0,19984,Lazio
+,Luka Romero,ar ARG,FW,8,0,0.0,0.0,2021-2022,/en/players/ca6edaa0/Luka-Romero,ca6edaa0,Lazio,84,0.9,0.0,0.0,163,5.0,1746,Lazio
+,Anderson Lima,br BRA,MF,4,0,0.0,0.0,2021-2022,/en/players/59be3a74/Anderson-Lima,59be3a74,Lazio,65,0.7,1.0,0.0,163,2.0,19982,Lazio
+,Dimitrije Kamenović,rs SRB,DF,1,0,0.0,0.0,2021-2022,/en/players/d3e0c826/Dimitrije-Kamenovic,d3e0c826,Lazio,45,0.5,0.0,0.0,163,28.0,19997,Lazio
+,Gonzalo Escalante,ar ARG,MF,1,0,0.0,0.0,2021-2022,/en/players/3f79a1c8/Gonzalo-Escalante,3f79a1c8,Lazio,9,0.1,0.0,0.0,163,5.0,3389,Lazio
+,Denis Vavro,sk SVK,DF,1,0,0.0,0.0,2021-2022,/en/players/08990838/Denis-Vavro,08990838,Lazio,8,0.1,0.0,0.0,163,70.0,5693,Lazio
+,Marius Adamonis,lt LTU,GK,0,0,,,2021-2022,/en/players/1226f0de/Marius-Adamonis,1226f0de,Lazio,,,,,163,72.0,19958,Lazio
+,Marco Bertini,it ITA,MF,0,0,,,2021-2022,/en/players/4b520f96/Marco-Bertini,4b520f96,Lazio,,,,,163,9.0,19986,Lazio
+,Felipe Caicedo,ec ECU,"FW,MF",0,0,,,2021-2022,/en/players/93b891d1/Felipe-Caicedo,93b891d1,Lazio,,,,,163,61.0,2360,Lazio
+,Romano Floriani,it ITA,DF,0,0,,,2021-2022,/en/players/e19e0ca1/Romano-Floriani,19e0ca1,Lazio,,,,,163,9.0,19998,Lazio
+,Alessio Furlanetto,it ITA,GK,0,0,,,2021-2022,/en/players/95d9f4dd/Alessio-Furlanetto,95d9f4dd,Lazio,,,,,163,9.0,19976,Lazio
+,Jony,es ESP,MF,0,0,,,2021-2022,/en/players/244f57b9/Jony,244f57b9,Lazio,,,,,163,1.0,2111,Lazio

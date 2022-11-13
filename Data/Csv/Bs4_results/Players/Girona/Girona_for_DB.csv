@@ -1,423 +1,423 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Rafael Ponzo,ve VEN,GK,37,37,0.0,0.0,2008-2009,6777099,Girona,"3,330",37.0,5.0,0.0,76.0,53.0,5577.0,Girona
-,Serra,es ESP,DF,37,36,0.0,4.0,2008-2009,df52ea5f,Girona,"3,198",35.5,7.0,3.0,76.0,1.0,,Girona
-,Migue,es ESP,DF,35,35,2.0,0.0,2008-2009,13575a4c,Girona,"3,095",34.4,4.0,0.0,76.0,1.0,,Girona
-,Jordi Matamala,es ESP,MF,35,34,0.0,1.0,2008-2009,b064ff85,Girona,"3,105",34.5,11.0,0.0,76.0,1.0,,Girona
-,Albert Dorca,es ESP,MF,38,33,1.0,0.0,2008-2009,01c3b68a,Girona,"3,050",33.9,5.0,2.0,76.0,1.0,,Girona
-,José,es ESP,DF,34,33,0.0,0.0,2008-2009,bc392378,Girona,"2,964",32.9,14.0,1.0,76.0,1.0,5578.0,Girona
-,David Cañas,es ESP,DF,29,24,5.0,3.0,2008-2009,01d8b210,Girona,"2,250",25.0,11.0,1.0,76.0,1.0,,Girona
-,Diego Rangel,es ESP,DF,23,22,0.0,0.0,2008-2009,2380c0fb,Girona,"1,768",19.6,6.0,0.0,76.0,1.0,5579.0,Girona
-,Gabri,es ESP,FW,26,20,2.0,4.0,2008-2009,b2605b0a,Girona,"1,740",19.3,7.0,0.0,76.0,1.0,,Girona
-,Chechu,es ESP,MF,24,18,1.0,3.0,2008-2009,3333762c,Girona,"1,696",18.8,3.0,0.0,76.0,1.0,,Girona
-,Raúl Martín,es ESP,MF,26,17,1.0,3.0,2008-2009,f81f6fc3,Girona,"1,382",15.4,2.0,0.0,76.0,1.0,,Girona
-,Jordi Xumetra,es ESP,"FW,MF",41,16,2.0,1.0,2008-2009,3b79dbdb,Girona,"1,948",21.6,5.0,0.0,76.0,1.0,,Girona
-,Paco Esteban,es ESP,FW,26,16,3.0,0.0,2008-2009,7e4f04f0,Girona,"1,447",16.1,7.0,1.0,76.0,1.0,,Girona
-,Alberto Manga,es ESP,MF,26,16,2.0,3.0,2008-2009,1d84af0,Girona,"1,419",15.8,4.0,0.0,76.0,1.0,5580.0,Girona
-,Mikel Amantegui,es ESP,DF,18,15,0.0,0.0,2008-2009,f92f842f,Girona,"1,403",15.6,3.0,0.0,76.0,1.0,,Girona
-,Felipe Sanchón,es ESP,MF,17,14,1.0,5.0,2008-2009,f62ff94e,Girona,"1,301",14.5,4.0,1.0,76.0,1.0,,Girona
-,Arnal Llibert,es ESP,FW,26,14,1.0,4.0,2008-2009,6e514348,Girona,"1,294",14.4,0.0,0.0,76.0,1.0,,Girona
-,Jito,es ESP,FW,22,13,0.0,3.0,2008-2009,3adf70f2,Girona,983,10.9,1.0,0.0,76.0,1.0,5581.0,Girona
-,Igor de Souza,br BRA,FW,15,10,0.0,3.0,2008-2009,1c73ef45,Girona,913,10.1,3.0,0.0,76.0,2.0,,Girona
-,Marc Bernaus,ad AND,DF,10,10,0.0,0.0,2008-2009,761ecc1f,Girona,744,8.3,4.0,0.0,76.0,96.0,,Girona
-,Jaume Duran,es ESP,,11,8,0.0,1.0,2008-2009,050523f,Girona,622,6.9,1.0,0.0,76.0,1.0,,Girona
-,David Sánchez,es ESP,DF,7,5,1.0,0.0,2008-2009,60e0ee7a,Girona,506,5.6,2.0,0.0,76.0,1.0,5582.0,Girona
-,Iván Gómez,es ESP,GK,5,5,0.0,0.0,2008-2009,12814065,Girona,450,5.0,1.0,0.0,76.0,1.0,5583.0,Girona
-,Gerard López,es ESP,MF,5,4,0.0,4.0,2008-2009,403b0279,Girona,393,4.4,2.0,0.0,76.0,1.0,,Girona
-,Hiroshi Ibusuki,jp JPN,FW,6,4,0.0,0.0,2008-2009,715bdbe9,Girona,222,2.5,0.0,0.0,76.0,54.0,,Girona
-,Óscar Álvarez,es ESP,DF,3,2,0.0,1.0,2008-2009,d6b5c64f,Girona,170,1.9,1.0,0.0,76.0,1.0,,Girona
-,Héctor Simón,es ESP,MF,4,2,0.0,0.0,2008-2009,6ad334dc,Girona,126,1.4,1.0,0.0,76.0,1.0,,Girona
-,﻿Jordi Matamala,es ESP,MF,38,38,2.0,3.0,2009-2010,b064ff85,Girona,"3,413",37.9,13.0,1.0,76.0,1.0,,Girona
-,Ernesto Galán,es ESP,DF,37,37,0.0,1.0,2009-2010,7e4af593,Girona,"3,285",36.5,14.0,0.0,76.0,1.0,,Girona
-,Roberto Peragón,es ESP,FW,38,36,3.0,9.0,2009-2010,c1dbaa18,Girona,"2,878",32.0,13.0,1.0,76.0,1.0,,Girona
-,Albert Dorca,es ESP,MF,37,33,1.0,2.0,2009-2010,01c3b68a,Girona,"2,963",32.9,5.0,0.0,76.0,1.0,,Girona
-,Albert Jorquera,es ESP,GK,33,33,0.0,0.0,2009-2010,4b0184a5,Girona,"2,951",32.8,2.0,1.0,76.0,1.0,,Girona
-,José,es ESP,DF,33,32,0.0,0.0,2009-2010,bc392378,Girona,"2,847",31.6,14.0,0.0,76.0,1.0,5578.0,Girona
-,Migue,es ESP,DF,33,32,1.0,2.0,2009-2010,13575a4c,Girona,"2,837",31.5,9.0,1.0,76.0,1.0,,Girona
-,Moha,ma MAR,"DF,FW",36,32,6.0,3.0,2009-2010,3d09e03,Girona,"2,580",28.7,6.0,0.0,76.0,26.0,,Girona
-,Jordi Xumetra,es ESP,"FW,MF",35,28,1.0,2.0,2009-2010,3b79dbdb,Girona,"2,190",24.3,7.0,1.0,76.0,1.0,,Girona
-,Kiko Ratón,es ESP,FW,40,25,2.0,10.0,2009-2010,1b4d461e,Girona,"2,471",27.5,9.0,0.0,76.0,1.0,,Girona
-,David Cañas,es ESP,DF,28,25,5.0,2.0,2009-2010,01d8b210,Girona,"2,267",25.2,9.0,0.0,76.0,1.0,,Girona
-,Dani Tortolero,es ESP,DF,23,23,0.0,3.0,2009-2010,42481fd5,Girona,"2,008",22.3,14.0,0.0,76.0,1.0,,Girona
-,Antonio Calle,es ESP,FW,20,15,1.0,3.0,2009-2010,3d3d63b9,Girona,"1,155",12.8,2.0,0.0,76.0,1.0,,Girona
-,Chechu,es ESP,MF,23,12,2.0,0.0,2009-2010,3333762c,Girona,"1,024",11.4,2.0,0.0,76.0,1.0,,Girona
-,Gerard López,es ESP,MF,21,11,1.0,0.0,2009-2010,403b0279,Girona,"1,059",11.8,8.0,1.0,76.0,1.0,,Girona
-,Marc Bernaus,ad AND,DF,12,11,0.0,0.0,2009-2010,761ecc1f,Girona,942,10.5,5.0,0.0,76.0,96.0,,Girona
-,Dani Mallo,es ESP,GK,10,9,0.0,0.0,2009-2010,c965e3d0,Girona,829,9.2,0.0,0.0,76.0,1.0,,Girona
-,Juanma,es ESP,MF,29,7,1.0,1.0,2009-2010,81311e0,Girona,"1,148",12.8,5.0,0.0,76.0,1.0,,Girona
-,Brian Sarmiento,ar ARG,"FW,MF",11,7,0.0,2.0,2009-2010,74337456,Girona,665,7.4,4.0,0.0,76.0,5.0,,Girona
-,Óscar Álvarez,es ESP,DF,7,5,1.0,0.0,2009-2010,d6b5c64f,Girona,502,5.6,3.0,0.0,76.0,1.0,,Girona
-,Marcos Tébar,es ESP,"DF,MF",9,4,0.0,0.0,2009-2010,1e806be7,Girona,479,5.3,3.0,0.0,76.0,1.0,77.0,Girona
-,Javier Almirón,ar ARG,"DF,MF",6,4,0.0,0.0,2009-2010,8b8c57b7,Girona,391,4.3,4.0,0.0,76.0,5.0,,Girona
-,Germán Beltrán,es ESP,FW,13,2,0.0,1.0,2009-2010,552f8f78,Girona,312,3.5,1.0,0.0,76.0,1.0,,Girona
-,Diego Rangel,es ESP,DF,1,1,0.0,0.0,2009-2010,2380c0fb,Girona,90,1.0,0.0,0.0,76.0,1.0,5579.0,Girona
-,Gabri,es ESP,FW,8,0,0.0,1.0,2009-2010,b2605b0a,Girona,120,1.3,0.0,0.0,76.0,1.0,,Girona
-,Alberto Manga,es ESP,MF,4,0,0.0,0.0,2009-2010,1d84af0,Girona,43,0.5,0.0,0.0,76.0,1.0,5580.0,Girona
-,Fran,es ESP,MF,2,0,0.0,0.0,2009-2010,7e1a6606,Girona,28,0.3,0.0,0.0,76.0,1.0,5585.0,Girona
-,Jordi Masó,es ESP,"DF,MF",1,0,0.0,0.0,2009-2010,5047640b,Girona,11,0.1,0.0,0.0,76.0,1.0,5586.0,Girona
-,﻿Albert Dorca,es ESP,MF,40,40,0.0,1.0,2010-2011,01c3b68a,Girona,"3,584",39.8,10.0,0.0,76.0,1.0,,Girona
-,Jandro,es ESP,MF,42,38,9.0,11.0,2010-2011,453a1fcd,Girona,"3,417",38.0,3.0,0.0,76.0,1.0,,Girona
-,Roberto Santamaría,es ESP,GK,33,33,0.0,0.0,2010-2011,bca21ef3,Girona,"2,934",32.6,3.0,1.0,76.0,1.0,,Girona
-,Migue,es ESP,DF,33,33,1.0,0.0,2010-2011,13575a4c,Girona,"2,917",32.4,8.0,1.0,76.0,1.0,,Girona
-,Roberto Peragón,es ESP,FW,36,32,4.0,11.0,2010-2011,c1dbaa18,Girona,"2,737",30.4,12.0,2.0,76.0,1.0,,Girona
-,Dani Bautista,es ESP,DF,30,28,3.0,0.0,2010-2011,135b0a5e,Girona,"2,536",28.2,7.0,1.0,76.0,1.0,,Girona
-,Serra,es ESP,DF,29,28,0.0,2.0,2010-2011,df52ea5f,Girona,"2,513",27.9,6.0,2.0,76.0,1.0,,Girona
-,José,es ESP,DF,29,28,0.0,0.0,2010-2011,bc392378,Girona,"2,508",27.9,11.0,1.0,76.0,1.0,5578.0,Girona
-,Moha,ma MAR,"DF,FW",34,27,3.0,1.0,2010-2011,3d09e03,Girona,"2,185",24.3,8.0,2.0,76.0,26.0,,Girona
-,Chechu,es ESP,MF,35,26,8.0,5.0,2010-2011,3333762c,Girona,"2,236",24.8,4.0,1.0,76.0,1.0,,Girona
-,Ángel Martínez,es ESP,MF,36,25,6.0,0.0,2010-2011,7eb2bab9,Girona,"1,981",22.0,8.0,0.0,76.0,1.0,,Girona
-,Marcos Tébar,es ESP,"DF,MF",35,23,0.0,0.0,2010-2011,1e806be7,Girona,"2,211",24.6,9.0,1.0,76.0,1.0,77.0,Girona
-,Ranko Despotović,rs SRB,FW,34,23,5.0,18.0,2010-2011,7909655a,Girona,"1,879",20.9,7.0,1.0,76.0,28.0,,Girona
-,Dani Tortolero,es ESP,DF,18,18,0.0,1.0,2010-2011,42481fd5,Girona,"1,620",18.0,2.0,0.0,76.0,1.0,,Girona
-,Kiko Ratón,es ESP,FW,33,17,2.0,5.0,2010-2011,1b4d461e,Girona,"1,631",18.1,4.0,0.0,76.0,1.0,,Girona
-,Francisco Noguerol,es ESP,DF,19,16,1.0,0.0,2010-2011,73bdd0b1,Girona,"1,448",16.1,3.0,0.0,76.0,1.0,,Girona
-,Luso,es ESP,"DF,MF",17,13,0.0,2.0,2010-2011,9cd41fda,Girona,"1,161",12.9,2.0,0.0,76.0,1.0,,Girona
-,Dani Mallo,es ESP,GK,10,9,0.0,0.0,2010-2011,c965e3d0,Girona,846,9.4,4.0,0.0,76.0,1.0,,Girona
-,Borja Sánchez Gil,es ESP,MF,22,2,0.0,0.0,2010-2011,070e15,Girona,537,6.0,3.0,0.0,76.0,1.0,,Girona
-,Keko,es ESP,"FW,MF",11,2,1.0,0.0,2010-2011,1512328c,Girona,263,2.9,0.0,0.0,76.0,1.0,,Girona
-,Víctor Curto,es ESP,FW,6,1,0.0,0.0,2010-2011,83cd8962,Girona,109,1.2,0.0,0.0,76.0,1.0,,Girona
-,Gerard López,es ESP,MF,4,0,0.0,0.0,2010-2011,403b0279,Girona,23,0.3,1.0,0.0,76.0,1.0,,Girona
-,Adrien Goñi,es ESP,MF,1,0,0.0,0.0,2010-2011,c14fe8f1,Girona,10,0.1,0.0,0.0,76.0,1.0,,Girona
-,﻿Ferran Corominas,es ESP,"FW,MF",40,40,3.0,18.0,2011-2012,46d0c528,Girona,"3,450",38.3,4.0,0.0,76.0,1.0,,Girona
-,Migue,es ESP,DF,39,37,0.0,1.0,2011-2012,13575a4c,Girona,"3,349",37.2,8.0,0.0,76.0,1.0,,Girona
-,Albert Dorca,es ESP,MF,37,36,1.0,2.0,2011-2012,01c3b68a,Girona,"3,188",35.4,12.0,0.0,76.0,1.0,,Girona
-,Jandro,es ESP,MF,38,33,8.0,9.0,2011-2012,453a1fcd,Girona,"2,874",31.9,5.0,0.0,76.0,1.0,,Girona
-,Marcos Tébar,es ESP,"DF,MF",35,33,0.0,0.0,2011-2012,1e806be7,Girona,"2,819",31.3,13.0,2.0,76.0,1.0,77.0,Girona
-,Dani Tortolero,es ESP,DF,28,27,0.0,3.0,2011-2012,42481fd5,Girona,"2,431",27.0,7.0,1.0,76.0,1.0,,Girona
-,Juanlu,es ESP,"FW,MF",32,26,1.0,2.0,2011-2012,431ac3e7,Girona,"2,331",25.9,5.0,0.0,76.0,1.0,,Girona
-,David García,es ESP,DF,26,26,1.0,0.0,2011-2012,f47bf593,Girona,"2,041",22.7,6.0,0.0,76.0,1.0,,Girona
-,Moha,ma MAR,"DF,FW",31,23,4.0,4.0,2011-2012,3d09e03,Girona,"1,998",22.2,9.0,0.0,76.0,26.0,,Girona
-,José,es ESP,DF,27,23,2.0,0.0,2011-2012,bc392378,Girona,"1,891",21.0,8.0,1.0,76.0,1.0,5578.0,Girona
-,Dani Mallo,es ESP,GK,22,22,0.0,0.0,2011-2012,c965e3d0,Girona,"1,950",21.7,2.0,0.0,76.0,1.0,,Girona
-,Roberto Santamaría,es ESP,GK,21,20,0.0,0.0,2011-2012,bca21ef3,Girona,"1,830",20.3,2.0,0.0,76.0,1.0,,Girona
-,Benja,es ESP,DF,27,19,2.0,3.0,2011-2012,f04bc5bc,Girona,"1,657",18.4,4.0,0.0,76.0,1.0,,Girona
-,Luso,es ESP,"DF,MF",19,15,1.0,2.0,2011-2012,9cd41fda,Girona,"1,404",15.6,6.0,1.0,76.0,1.0,,Girona
-,Javier Acuña,py PAR,FW,17,11,0.0,4.0,2011-2012,993ff7aa,Girona,990,11.0,2.0,0.0,76.0,43.0,,Girona
-,Joseba Garmendia,es ESP,"DF,MF",16,9,0.0,0.0,2011-2012,d74abbc4,Girona,983,10.9,5.0,0.0,76.0,1.0,,Girona
-,Richy,es ESP,DF,10,9,0.0,0.0,2011-2012,1d5089f0,Girona,782,8.7,3.0,1.0,76.0,1.0,,Girona
-,Dani Nieto,es ESP,"FW,MF",34,8,2.0,6.0,2011-2012,d7d46f3b,Girona,"1,109",12.3,3.0,0.0,76.0,1.0,,Girona
-,Baltasar Rigo,es ESP,DF,10,8,0.0,1.0,2011-2012,b80570db,Girona,683,7.6,2.0,0.0,76.0,1.0,,Girona
-,José Acciari,ar ARG,MF,9,6,1.0,0.0,2011-2012,9e98922b,Girona,538,6.0,2.0,0.0,76.0,5.0,,Girona
-,Asier Goiria,es ESP,FW,13,6,1.0,1.0,2011-2012,1dfd7bbc,Girona,522,5.8,3.0,0.0,76.0,1.0,,Girona
-,David Juncà,es ESP,DF,8,5,1.0,0.0,2011-2012,de7d40d6,Girona,504,5.6,2.0,0.0,76.0,1.0,,Girona
-,Yago Fernández,pt POR,DF,5,5,0.0,1.0,2011-2012,094b4c5,Girona,450,5.0,2.0,0.0,76.0,3.0,5588.0,Girona
-,Gaizka Saizar,es ESP,FW,15,4,0.0,1.0,2011-2012,5a706676,Girona,589,6.5,1.0,0.0,76.0,1.0,,Girona
-,Matías Ballini,ar ARG,MF,7,4,0.0,0.0,2011-2012,15800611,Girona,342,3.8,2.0,0.0,76.0,5.0,,Girona
-,Óscar Díaz,es ESP,"FW,MF",9,3,1.0,0.0,2011-2012,5a5ed410,Girona,309,3.4,1.0,1.0,76.0,1.0,,Girona
-,Ion Vélez,es ESP,FW,5,2,0.0,0.0,2011-2012,3a6c16de,Girona,256,2.8,0.0,0.0,76.0,1.0,,Girona
-,Dani Erencia,es ESP,DF,2,2,0.0,0.0,2011-2012,bc44cd77,Girona,149,1.7,0.0,0.0,76.0,1.0,5589.0,Girona
-,﻿Dani Mallo,es ESP,GK,39,39,0.0,0.0,2012-2013,c965e3d0,Girona,"3,510",39.0,1.0,0.0,76.0,1.0,,Girona
-,Migue,es ESP,DF,36,36,0.0,1.0,2012-2013,13575a4c,Girona,"3,100",34.4,9.0,1.0,76.0,1.0,,Girona
-,Marcos Tébar,es ESP,"DF,MF",35,35,1.0,4.0,2012-2013,1e806be7,Girona,"3,075",34.2,9.0,0.0,76.0,1.0,77.0,Girona
-,David García,es ESP,DF,34,34,3.0,1.0,2012-2013,f47bf593,Girona,"2,930",32.6,7.0,1.0,76.0,1.0,,Girona
-,José,es ESP,DF,34,34,2.0,1.0,2012-2013,bc392378,Girona,"2,902",32.2,10.0,0.0,76.0,1.0,5578.0,Girona
-,Felipe Sanchón,es ESP,MF,37,34,9.0,9.0,2012-2013,f62ff94e,Girona,"2,758",30.6,4.0,0.0,76.0,1.0,,Girona
-,Luso,es ESP,"DF,MF",33,32,2.0,6.0,2012-2013,9cd41fda,Girona,"2,779",30.9,13.0,0.0,76.0,1.0,,Girona
-,Jandro,es ESP,MF,33,30,13.0,8.0,2012-2013,453a1fcd,Girona,"2,683",29.8,2.0,0.0,76.0,1.0,,Girona
-,Juanlu,es ESP,"FW,MF",36,29,0.0,1.0,2012-2013,431ac3e7,Girona,"2,521",28.0,5.0,0.0,76.0,1.0,,Girona
-,Chus Herrero,es ESP,DF,28,28,0.0,0.0,2012-2013,c34a4f0,Girona,"2,491",27.7,6.0,0.0,76.0,1.0,,Girona
-,Javier Acuña,py PAR,FW,36,20,1.0,17.0,2012-2013,993ff7aa,Girona,"2,039",22.7,3.0,0.0,76.0,43.0,,Girona
-,Jofre,es ESP,MF,34,19,7.0,4.0,2012-2013,90bf887c,Girona,"1,579",17.5,3.0,0.0,76.0,1.0,,Girona
-,Benja,es ESP,DF,24,19,3.0,11.0,2012-2013,f04bc5bc,Girona,"1,467",16.3,5.0,0.0,76.0,1.0,,Girona
-,Richy,es ESP,DF,21,16,0.0,2.0,2012-2013,1d5089f0,Girona,"1,537",17.1,4.0,0.0,76.0,1.0,,Girona
-,Eloi Amagat,es ESP,MF,21,8,1.0,1.0,2012-2013,12a875ce,Girona,"1,042",11.6,4.0,0.0,76.0,1.0,5590.0,Girona
-,Gerard Bordas,es ESP,"FW,MF",15,8,1.0,3.0,2012-2013,56ef2fd7,Girona,742,8.2,3.0,0.0,76.0,1.0,,Girona
-,David Juncà,es ESP,DF,9,7,1.0,0.0,2012-2013,de7d40d6,Girona,669,7.4,1.0,0.0,76.0,1.0,,Girona
-,Moisés Hurtado,es ESP,MF,8,6,0.0,0.0,2012-2013,1ea7254b,Girona,612,6.8,3.0,1.0,76.0,1.0,,Girona
-,Txiki,es ESP,DF,7,6,0.0,0.0,2012-2013,86faaf37,Girona,486,5.4,3.0,0.0,76.0,1.0,5591.0,Girona
-,Joseba Garmendia,es ESP,"DF,MF",5,5,0.0,0.0,2012-2013,d74abbc4,Girona,387,4.3,0.0,0.0,76.0,1.0,,Girona
-,Toni Moral,es ESP,MF,15,4,1.0,3.0,2012-2013,5c3bf3f9,Girona,580,6.4,6.0,0.0,76.0,1.0,,Girona
-,Ion Vélez,es ESP,FW,19,3,2.0,2.0,2012-2013,3a6c16de,Girona,480,5.3,1.0,0.0,76.0,1.0,,Girona
-,Pere Pons,es ESP,MF,9,3,0.0,0.0,2012-2013,29b61deb,Girona,392,4.4,0.0,0.0,76.0,1.0,,Girona
-,Isaac Becerra,es ESP,GK,3,3,0.0,0.0,2012-2013,bee5d245,Girona,270,3.0,0.0,0.0,76.0,1.0,,Girona
-,Ritchie Kitoko,be BEL,MF,7,2,0.0,0.0,2012-2013,d403d81a,Girona,212,2.4,0.0,0.0,76.0,27.0,,Girona
-,Ariday Cabrera,es ESP,"FW,MF",9,1,0.0,0.0,2012-2013,206b11c5,Girona,162,1.8,0.0,0.0,76.0,1.0,,Girona
-,Carles Mas,es ESP,DF,1,1,0.0,0.0,2012-2013,b81b65,Girona,90,1.0,0.0,0.0,76.0,1.0,5592.0,Girona
-,﻿Isaac Becerra,es ESP,GK,41,41,0.0,0.0,2013-2014,bee5d245,Girona,"3,613",40.1,4.0,0.0,76.0,1.0,,Girona
-,Migue,es ESP,DF,39,38,0.0,2.0,2013-2014,13575a4c,Girona,"3,434",38.2,4.0,0.0,76.0,1.0,,Girona
-,David Timor,es ESP,"DF,MF",36,36,2.0,7.0,2013-2014,174651c8,Girona,"3,164",35.2,19.0,0.0,76.0,1.0,,Girona
-,Richy,es ESP,DF,34,33,1.0,0.0,2013-2014,1d5089f0,Girona,"2,847",31.6,5.0,0.0,76.0,1.0,,Girona
-,Gerard Bordas,es ESP,"FW,MF",37,27,1.0,9.0,2013-2014,56ef2fd7,Girona,"2,437",27.1,5.0,0.0,76.0,1.0,,Girona
-,Eloi Amagat,es ESP,MF,34,26,5.0,4.0,2013-2014,12a875ce,Girona,"2,453",27.3,5.0,0.0,76.0,1.0,5590.0,Girona
-,Juanlu,es ESP,"FW,MF",37,25,3.0,1.0,2013-2014,431ac3e7,Girona,"2,236",24.8,3.0,0.0,76.0,1.0,,Girona
-,Iván López,co COL,DF,29,25,0.0,1.0,2013-2014,6cc67806,Girona,"2,128",23.6,4.0,0.0,76.0,19.0,5593.0,Girona
-,Jandro,es ESP,MF,32,24,4.0,7.0,2013-2014,453a1fcd,Girona,"2,105",23.4,4.0,1.0,76.0,1.0,,Girona
-,Felipe Sanchón,es ESP,MF,26,23,2.0,7.0,2013-2014,f62ff94e,Girona,"2,100",23.3,2.0,0.0,76.0,1.0,,Girona
-,David García,es ESP,DF,24,23,0.0,0.0,2013-2014,f47bf593,Girona,"1,968",21.9,6.0,0.0,76.0,1.0,,Girona
-,Jordi Matamala,es ESP,MF,32,22,1.0,1.0,2013-2014,b064ff85,Girona,"1,946",21.6,12.0,0.0,76.0,1.0,,Girona
-,David Juncà,es ESP,DF,25,22,0.0,0.0,2013-2014,de7d40d6,Girona,"1,887",21.0,6.0,1.0,76.0,1.0,,Girona
-,Jonás Ramalho,es ESP,DF,25,21,2.0,0.0,2013-2014,be3a0121,Girona,"1,928",21.4,2.0,1.0,76.0,1.0,,Girona
-,Alfredo Ortuño,es ESP,"DF,FW",20,18,4.0,9.0,2013-2014,b5077003,Girona,"1,602",17.8,1.0,0.0,76.0,1.0,,Girona
-,Jofre,es ESP,MF,25,11,1.0,0.0,2013-2014,90bf887c,Girona,"1,049",11.7,4.0,0.0,76.0,1.0,,Girona
-,Chus Herrero,es ESP,DF,12,11,0.0,0.0,2013-2014,c34a4f0,Girona,964,10.7,2.0,1.0,76.0,1.0,,Girona
-,Chando,es ESP,FW,20,10,0.0,1.0,2013-2014,b43a5636,Girona,931,10.3,1.0,0.0,76.0,1.0,,Girona
-,Carles Mas,es ESP,DF,9,9,0.0,0.0,2013-2014,b81b65,Girona,810,9.0,3.0,0.0,76.0,1.0,5592.0,Girona
-,Adrià Carmona,es ESP,"FW,MF",18,7,0.0,0.0,2013-2014,9e95dc9e,Girona,681,7.6,2.0,0.0,76.0,1.0,,Girona
-,Jesús Tato,es ESP,FW,12,5,1.0,0.0,2013-2014,50e2af8c,Girona,497,5.5,1.0,0.0,76.0,1.0,,Girona
-,Pere Pons,es ESP,MF,10,3,0.0,1.0,2013-2014,29b61deb,Girona,355,3.9,4.0,0.0,76.0,1.0,,Girona
-,Jorge Palatsí,es ESP,GK,2,1,0.0,0.0,2013-2014,cd66e46b,Girona,167,1.9,0.0,0.0,76.0,1.0,,Girona
-,Moisés Hurtado,es ESP,MF,2,1,0.0,1.0,2013-2014,1ea7254b,Girona,151,1.7,1.0,0.0,76.0,1.0,,Girona
-,Bruno Herrero Arias,es ESP,MF,1,0,0.0,0.0,2013-2014,cd429fc,Girona,18,0.2,0.0,0.0,76.0,1.0,,Girona
-,Agostinho Cá,pt POR,MF,1,0,0.0,0.0,2013-2014,1251f66,Girona,12,0.1,0.0,0.0,76.0,3.0,5594.0,Girona
-,Albert Vivancos,es ESP,MF,1,0,0.0,0.0,2013-2014,d2abba68,Girona,10,0.1,0.0,0.0,76.0,1.0,5595.0,Girona
-,Gerard Muñoz,es ESP,FW,1,0,0.0,0.0,2013-2014,08ddfd9f,Girona,3,0.0,0.0,0.0,76.0,1.0,5596.0,Girona
-,﻿Isaac Becerra,es ESP,GK,42,42,0.0,0.0,2014-2015,bee5d245,Girona,"3,780",42.0,4.0,0.0,76.0,1.0,,Girona
-,Álex Granell,es ESP,MF,42,41,13.0,5.0,2014-2015,25250f8,Girona,"3,568",39.6,4.0,0.0,76.0,1.0,5600.0,Girona
-,Pere Pons,es ESP,MF,40,40,1.0,0.0,2014-2015,29b61deb,Girona,"3,524",39.2,8.0,1.0,76.0,1.0,,Girona
-,Miguel Ángel Maza,es ESP,MF,40,39,0.0,1.0,2014-2015,75f931e3,Girona,"3,470",38.6,6.0,0.0,76.0,1.0,5597.0,Girona
-,Richy,es ESP,DF,39,39,0.0,4.0,2014-2015,1d5089f0,Girona,"3,450",38.3,9.0,1.0,76.0,1.0,,Girona
-,Florian Lejeune,fr FRA,"DF,MF",38,38,0.0,4.0,2014-2015,6eaed4eb,Girona,"3,321",36.9,13.0,0.0,76.0,4.0,,Girona
-,Jonás Ramalho,es ESP,DF,36,36,0.0,2.0,2014-2015,be3a0121,Girona,"3,145",34.9,11.0,0.0,76.0,1.0,,Girona
-,Francisco Sandaza,es ESP,FW,36,34,4.0,16.0,2014-2015,d9ab42ff,Girona,"2,831",31.5,8.0,0.0,76.0,1.0,5598.0,Girona
-,Felipe Sanchón,es ESP,MF,38,31,4.0,11.0,2014-2015,f62ff94e,Girona,"2,542",28.2,4.0,0.0,76.0,1.0,,Girona
-,Jaime Mata,es ESP,FW,38,26,2.0,10.0,2014-2015,02319ad7,Girona,"2,578",28.6,7.0,0.0,76.0,1.0,,Girona
-,Eloi Amagat,es ESP,MF,29,25,1.0,2.0,2014-2015,12a875ce,Girona,"2,027",22.5,7.0,0.0,76.0,1.0,5590.0,Girona
-,David Juncà,es ESP,DF,18,17,1.0,2.0,2014-2015,de7d40d6,Girona,"1,450",16.1,4.0,0.0,76.0,1.0,,Girona
-,Sebas Coris,es ESP,"DF,FW",26,14,0.0,0.0,2014-2015,b18da471,Girona,"1,196",13.3,2.0,0.0,76.0,1.0,,Girona
-,Aday,es ESP,"DF,MF",32,12,3.0,2.0,2014-2015,5890cef1,Girona,"1,402",15.6,5.0,0.0,76.0,1.0,,Girona
-,Carles Mas,es ESP,DF,10,9,0.0,1.0,2014-2015,b81b65,Girona,837,9.3,1.0,1.0,76.0,1.0,5592.0,Girona
-,Pablo Íñiguez,es ESP,"DF,MF",14,6,1.0,0.0,2014-2015,dd55192d,Girona,630,7.0,2.0,0.0,76.0,1.0,,Girona
-,Jandro,es ESP,MF,21,4,2.0,1.0,2014-2015,453a1fcd,Girona,521,5.8,1.0,0.0,76.0,1.0,,Girona
-,Christian Alfonso,es ESP,MF,11,3,0.0,0.0,2014-2015,cfe11fd,Girona,325,3.6,1.0,0.0,76.0,1.0,,Girona
-,Cristian Gómez,es ESP,MF,8,3,0.0,0.0,2014-2015,d9b41da8,Girona,279,3.1,1.0,0.0,76.0,1.0,,Girona
-,David García,es ESP,DF,11,2,0.0,0.0,2014-2015,f47bf593,Girona,250,2.8,2.0,0.0,76.0,1.0,,Girona
-,David Bigas,es ESP,"DF,MF",2,2,0.0,0.0,2014-2015,d9fa991c,Girona,117,1.3,1.0,1.0,76.0,1.0,5599.0,Girona
-,Juanlu,es ESP,"FW,MF",6,0,0.0,0.0,2014-2015,431ac3e7,Girona,106,1.2,1.0,1.0,76.0,1.0,,Girona
-,Gerard Bordas,es ESP,"FW,MF",4,0,0.0,1.0,2014-2015,56ef2fd7,Girona,66,0.7,0.0,0.0,76.0,1.0,,Girona
-,Marc Rovirola,es ESP,MF,5,0,1.0,0.0,2014-2015,38d28d92,Girona,49,0.5,0.0,0.0,76.0,1.0,,Girona
-,Jordi Pecas,,,1,0,0.0,0.0,2014-2015,,Girona,12,0.1,0.0,0.0,76.0,,,Girona
-,Adrià Carmona,es ESP,"FW,MF",0,0,,,2014-2015,9e95dc9e,Girona,,,,,76.0,1.0,,Girona
-,Cifu,es ESP,"DF,MF",0,0,,,2014-2015,90f83973,Girona,,,,,76.0,1.0,,Girona
-,Adri Montoro,es ESP,DF,0,0,,,2014-2015,63da5cf7,Girona,,,,,76.0,1.0,,Girona
-,Jorge Palatsí,es ESP,GK,0,0,,,2014-2015,cd66e46b,Girona,,,,,76.0,1.0,,Girona
-,﻿Isaac Becerra,es ESP,GK,42,42,0.0,0.0,2015-2016,bee5d245,Girona,"3,780",42.0,4.0,0.0,76.0,1.0,,Girona
-,Kiko Olivas,es ESP,DF,42,42,0.0,4.0,2015-2016,72b07a9c,Girona,"3,764",41.8,3.0,0.0,76.0,1.0,,Girona
-,Florian Lejeune,fr FRA,"DF,MF",38,38,0.0,3.0,2015-2016,6eaed4eb,Girona,"3,265",36.3,15.0,1.0,76.0,4.0,,Girona
-,Carlos Clerc,es ESP,DF,40,37,3.0,1.0,2015-2016,33a61a52,Girona,"3,170",35.2,2.0,0.0,76.0,1.0,,Girona
-,Pere Pons,es ESP,MF,35,35,1.0,0.0,2015-2016,29b61deb,Girona,"3,065",34.1,8.0,1.0,76.0,1.0,,Girona
-,Álex Granell,es ESP,MF,36,30,2.0,4.0,2015-2016,25250f8,Girona,"2,762",30.7,10.0,0.0,76.0,1.0,5600.0,Girona
-,Pedro Alcalá,es ESP,DF,32,30,1.0,1.0,2015-2016,ba71d071,Girona,"2,662",29.6,10.0,1.0,76.0,1.0,,Girona
-,Jaime Mata,es ESP,FW,38,29,1.0,9.0,2015-2016,02319ad7,Girona,"2,487",27.6,9.0,1.0,76.0,1.0,,Girona
-,Eloi Amagat,es ESP,MF,28,23,3.0,1.0,2015-2016,12a875ce,Girona,"1,860",20.7,9.0,0.0,76.0,1.0,5590.0,Girona
-,Borja García,es ESP,"FW,MF",31,19,5.0,2.0,2015-2016,7f4603c,Girona,"1,811",20.1,4.0,0.0,76.0,1.0,,Girona
-,Javi Álamo,es ESP,"FW,MF",27,18,5.0,0.0,2015-2016,ffd69308,Girona,"1,689",18.8,8.0,1.0,76.0,1.0,,Girona
-,Aday,es ESP,"DF,MF",26,18,2.0,1.0,2015-2016,5890cef1,Girona,"1,466",16.3,5.0,0.0,76.0,1.0,,Girona
-,Rubén Alcaraz,es ESP,MF,23,15,0.0,2.0,2015-2016,036bba5f,Girona,"1,477",16.4,7.0,1.0,76.0,1.0,,Girona
-,Cristian Herrera,es ESP,"FW,MF",19,15,2.0,5.0,2015-2016,f814e5d3,Girona,"1,418",15.8,2.0,0.0,76.0,1.0,,Girona
-,Felipe Sanchón,es ESP,MF,19,15,2.0,0.0,2015-2016,f62ff94e,Girona,"1,247",13.9,2.0,0.0,76.0,1.0,,Girona
-,Jairo Morillas,es ESP,FW,24,12,2.0,6.0,2015-2016,0414cb4,Girona,"1,239",13.8,4.0,1.0,76.0,1.0,,Girona
-,Richy,es ESP,DF,16,12,0.0,0.0,2015-2016,1d5089f0,Girona,"1,208",13.4,2.0,0.0,76.0,1.0,,Girona
-,Dejan Lekić,rs SRB,FW,15,10,0.0,5.0,2015-2016,f73b1a65,Girona,815,9.1,3.0,1.0,76.0,28.0,,Girona
-,Rubén Sobrino,es ESP,"FW,MF",10,7,0.0,2.0,2015-2016,19b776e9,Girona,591,6.6,0.0,0.0,76.0,1.0,,Girona
-,Pol Llonch,es ESP,MF,11,5,0.0,0.0,2015-2016,15f1b476,Girona,423,4.7,1.0,0.0,76.0,1.0,5601.0,Girona
-,Sebas Coris,es ESP,"DF,FW",17,4,0.0,0.0,2015-2016,b18da471,Girona,562,6.2,0.0,0.0,76.0,1.0,,Girona
-,Carles Mas,es ESP,DF,5,4,0.0,0.0,2015-2016,b81b65,Girona,331,3.7,0.0,0.0,76.0,1.0,5592.0,Girona
-,Pablo Maffeo,es ESP,"DF,MF",10,2,0.0,0.0,2015-2016,5db04597,Girona,336,3.7,3.0,0.0,76.0,1.0,,Girona
-,David Serrano,es ESP,FW,1,0,0.0,0.0,2015-2016,b0f7dbcc,Girona,16,0.2,1.0,0.0,76.0,1.0,5602.0,Girona
-,Joel Arimany,es ESP,FW,1,0,0.0,0.0,2015-2016,83a5ca71,Girona,5,0.1,0.0,0.0,76.0,1.0,5603.0,Girona
-,Albert Vivancos,es ESP,MF,1,0,0.0,0.0,2015-2016,d2abba68,Girona,2,0.0,0.0,0.0,76.0,1.0,5595.0,Girona
-,Marcelo Djaló,gw GNB,DF,0,0,,,2015-2016,2ba40342,Girona,,,,,76.0,93.0,,Girona
-,Chidiebere Nwakali,ng NGA,"DF,MF",0,0,,,2015-2016,7244cb10,Girona,,,,,76.0,52.0,5604.0,Girona
-,Germán Parreño,es ESP,GK,0,0,,,2015-2016,1561cd53,Girona,,,,,76.0,1.0,,Girona
-,﻿Pedro Alcalá,es ESP,DF,39,39,1.0,4.0,2016-2017,ba71d071,Girona,"3,507",39.0,8.0,2.0,76.0,1.0,,Girona
-,Pere Pons,es ESP,MF,38,38,0.0,2.0,2016-2017,29b61deb,Girona,"3,323",36.9,5.0,0.0,76.0,1.0,,Girona
-,Portu,es ESP,"MF,FW",41,38,7.0,8.0,2016-2017,1bda5842,Girona,"3,217",35.7,3.0,0.0,76.0,1.0,,Girona
-,Juanpe,es ESP,DF,34,33,1.0,2.0,2016-2017,1633fc8a,Girona,"3,015",33.5,9.0,0.0,76.0,1.0,,Girona
-,Borja García,es ESP,"MF,FW",39,31,10.0,7.0,2016-2017,7f4603c,Girona,"2,801",31.1,3.0,0.0,76.0,1.0,,Girona
-,Jonás Ramalho,es ESP,DF,31,30,0.0,2.0,2016-2017,be3a0121,Girona,"2,742",30.5,8.0,0.0,76.0,1.0,,Girona
-,Aday,es ESP,"DF,MF",35,30,9.0,0.0,2016-2017,5890cef1,Girona,"2,585",28.7,7.0,2.0,76.0,1.0,,Girona
-,Francisco Sandaza,es ESP,FW,34,28,2.0,9.0,2016-2017,d9ab42ff,Girona,"2,413",26.8,7.0,0.0,76.0,1.0,5598.0,Girona
-,Álex Granell,es ESP,MF,31,25,6.0,2.0,2016-2017,25250f8,Girona,"2,169",24.1,9.0,0.0,76.0,1.0,5600.0,Girona
-,Samuele Longo,it ITA,FW,37,23,2.0,14.0,2016-2017,1163de29,Girona,"2,179",24.2,10.0,0.0,76.0,9.0,,Girona
-,Yassine Bounou,ma MAR,GK,21,21,0.0,0.0,2016-2017,f6798fc3,Girona,"1,890",21.0,0.0,0.0,76.0,26.0,,Girona
-,René Román,es ESP,GK,21,21,0.0,0.0,2016-2017,c4d5264d,Girona,"1,890",21.0,1.0,0.0,76.0,1.0,,Girona
-,Kiko Olivas,es ESP,DF,17,17,0.0,1.0,2016-2017,72b07a9c,Girona,"1,413",15.7,2.0,0.0,76.0,1.0,,Girona
-,Sebas Coris,es ESP,"MF,DF",27,17,2.0,1.0,2016-2017,b18da471,Girona,"1,325",14.7,1.0,0.0,76.0,1.0,,Girona
-,Cifu,es ESP,"DF,MF",24,16,0.0,0.0,2016-2017,90f83973,Girona,"1,571",17.5,3.0,0.0,76.0,1.0,,Girona
-,Pablo Maffeo,es ESP,"DF,MF",14,13,1.0,1.0,2016-2017,5db04597,Girona,"1,101",12.2,4.0,1.0,76.0,1.0,,Girona
-,Rubén Alcaraz,es ESP,"MF,DF",24,12,1.0,6.0,2016-2017,036bba5f,Girona,"1,211",13.5,5.0,4.0,76.0,1.0,,Girona
-,Cristian Herrera,es ESP,FW,31,9,1.0,2.0,2016-2017,f814e5d3,Girona,"1,027",11.4,2.0,0.0,76.0,1.0,,Girona
-,Eloi Amagat,es ESP,MF,16,6,0.0,0.0,2016-2017,12a875ce,Girona,638,7.1,6.0,0.0,76.0,1.0,5590.0,Girona
-,Pablo Marí,es ESP,DF,8,6,0.0,0.0,2016-2017,54ec6f,Girona,506,5.6,2.0,0.0,76.0,1.0,,Girona
-,Johan Mojica,co COL,"DF,MF",9,5,0.0,0.0,2016-2017,608f2092,Girona,560,6.2,0.0,0.0,76.0,19.0,,Girona
-,Saúl García,es ESP,DF,6,2,0.0,0.0,2016-2017,dafa5038,Girona,207,2.3,0.0,0.0,76.0,1.0,,Girona
-,Juan Cámara,es ESP,MF,3,1,0.0,0.0,2016-2017,f9656e16,Girona,116,1.3,0.0,0.0,76.0,1.0,,Girona
-,Felipe Sanchón,es ESP,FW,4,1,0.0,1.0,2016-2017,f62ff94e,Girona,116,1.3,0.0,0.0,76.0,1.0,,Girona
-,Marc Carbó,es ESP,MF,1,0,0.0,0.0,2016-2017,d53104c7,Girona,7,0.1,0.0,0.0,76.0,1.0,5605.0,Girona
-,Richy,es ESP,DF,1,0,0.0,0.0,2016-2017,1d5089f0,Girona,6,0.1,0.0,0.0,76.0,1.0,,Girona
-,Gianni,es ESP,GK,0,0,,,2016-2017,3bd112a4,Girona,,,,,76.0,1.0,5606.0,Girona
-,Marcel Lizak,pl POL,GK,0,0,,,2016-2017,5fb08fb4,Girona,,,,,76.0,14.0,5609.0,Girona
-,David Serrano,es ESP,FW,0,0,,,2016-2017,b0f7dbcc,Girona,,,,,76.0,1.0,5602.0,Girona
-,﻿Portu,es ESP,MF,37,35,5.0,11.0,2017-2018,1bda5842,Girona,"2,997",33.3,4.0,0.0,76.0,1.0,,Girona
-,Juanpe,es ESP,DF,35,34,1.0,5.0,2017-2018,1633fc8a,Girona,"3,065",34.1,7.0,0.0,76.0,1.0,,Girona
-,Borja García,es ESP,MF,37,34,5.0,2.0,2017-2018,7f4603c,Girona,"2,798",31.1,2.0,0.0,76.0,1.0,,Girona
-,Álex Granell,es ESP,MF,34,33,7.0,1.0,2017-2018,25250f8,Girona,"2,848",31.6,11.0,0.0,76.0,1.0,5600.0,Girona
-,Bernardo Espinosa,co COL,DF,34,32,3.0,0.0,2017-2018,4242011c,Girona,"2,868",31.9,7.0,0.0,76.0,19.0,,Girona
-,Cristhian Stuani,uy URU,FW,33,32,0.0,21.0,2017-2018,220c11f1,Girona,"2,710",30.1,8.0,0.0,76.0,8.0,,Girona
-,Pablo Maffeo,es ESP,DF,33,32,1.0,0.0,2017-2018,5db04597,Girona,"2,642",29.4,10.0,0.0,76.0,1.0,,Girona
-,Yassine Bounou,ma MAR,GK,30,30,0.0,0.0,2017-2018,f6798fc3,Girona,"2,655",29.5,2.0,0.0,76.0,26.0,,Girona
-,Pere Pons,es ESP,MF,31,30,2.0,0.0,2017-2018,29b61deb,Girona,"2,559",28.4,8.0,0.0,76.0,1.0,,Girona
-,Jonás Ramalho,es ESP,DF,26,25,0.0,0.0,2017-2018,be3a0121,Girona,"2,298",25.5,3.0,0.0,76.0,1.0,,Girona
-,Johan Mojica,co COL,DF,30,22,4.0,0.0,2017-2018,608f2092,Girona,"2,135",23.7,6.0,0.0,76.0,19.0,,Girona
-,Aday,es ESP,DF,31,20,0.0,2.0,2017-2018,5890cef1,Girona,"1,835",20.4,10.0,0.0,76.0,1.0,,Girona
-,Marc Muniesa,es ESP,DF,13,13,1.0,0.0,2017-2018,4db76f57,Girona,"1,127",12.5,3.0,0.0,76.0,1.0,,Girona
-,David Timor,es ESP,"MF,DF",17,10,0.0,2.0,2017-2018,174651c8,Girona,925,10.3,8.0,0.0,76.0,1.0,,Girona
-,Gorka Iraizoz,es ESP,GK,9,8,0.0,0.0,2017-2018,26f2473f,Girona,765,8.5,1.0,0.0,76.0,1.0,,Girona
-,Pedro Alcalá,es ESP,DF,8,8,0.0,1.0,2017-2018,ba71d071,Girona,689,7.7,4.0,0.0,76.0,1.0,,Girona
-,Aleix García,es ESP,MF,20,7,0.0,1.0,2017-2018,10361d2,Girona,852,9.5,3.0,0.0,76.0,1.0,,Girona
-,Anthony Lozano,hn HON,"FW,MF",14,4,0.0,1.0,2017-2018,38699c72,Girona,471,5.2,0.0,0.0,76.0,107.0,,Girona
-,Michael Olunga,ke KEN,"FW,MF",14,4,1.0,3.0,2017-2018,48593154,Girona,433,4.8,0.0,0.0,76.0,38.0,,Girona
-,Olarenwaju Kayode,ng NGA,"FW,MF",12,2,0.0,0.0,2017-2018,d3272fba,Girona,383,4.3,2.0,0.0,76.0,52.0,5607.0,Girona
-,Carles Planas,es ESP,DF,5,2,1.0,0.0,2017-2018,72b92c4e,Girona,192,2.1,0.0,0.0,76.0,1.0,,Girona
-,Douglas Luiz,br BRA,"MF,FW",15,1,0.0,0.0,2017-2018,6f7d826d,Girona,309,3.4,3.0,0.0,76.0,2.0,5608.0,Girona
-,Marlos Moreno,co COL,"MF,DF",2,0,0.0,0.0,2017-2018,8499c713,Girona,30,0.3,0.0,0.0,76.0,19.0,,Girona
-,Kévin Soni,cm CMR,MF,2,0,0.0,0.0,2017-2018,6435143e,Girona,19,0.2,0.0,0.0,76.0,36.0,,Girona
-,Eloi Amagat,es ESP,MF,2,0,0.0,0.0,2017-2018,12a875ce,Girona,15,0.2,0.0,0.0,76.0,1.0,5590.0,Girona
-,Marcel Lizak,pl POL,GK,0,0,,,2017-2018,5fb08fb4,Girona,,,,,76.0,14.0,5609.0,Girona
-,﻿Portu,es ESP,"MF,FW",34,33,2.0,9.0,2018-2019,1bda5842,Girona,"2,821",31.3,3.0,0.0,76.0,1.0,,Girona
-,Yassine Bounou,ma MAR,GK,32,32,0.0,0.0,2018-2019,f6798fc3,Girona,"2,861",31.8,2.0,0.0,76.0,26.0,,Girona
-,Pere Pons,es ESP,MF,34,32,2.0,1.0,2018-2019,29b61deb,Girona,"2,792",31.0,4.0,0.0,76.0,1.0,,Girona
-,Juanpe,es ESP,DF,33,31,0.0,0.0,2018-2019,1633fc8a,Girona,"2,767",30.7,8.0,0.0,76.0,1.0,,Girona
-,Bernardo Espinosa,co COL,DF,31,31,1.0,1.0,2018-2019,4242011c,Girona,"2,727",30.3,6.0,2.0,76.0,19.0,,Girona
-,Cristhian Stuani,uy URU,FW,32,30,0.0,19.0,2018-2019,220c11f1,Girona,"2,729",30.3,9.0,0.0,76.0,8.0,,Girona
-,Borja García,es ESP,"MF,FW",33,30,3.0,1.0,2018-2019,7f4603c,Girona,"2,629",29.2,0.0,1.0,76.0,1.0,,Girona
-,Álex Granell,es ESP,"MF,DF",32,26,4.0,0.0,2018-2019,25250f8,Girona,"2,391",26.6,5.0,0.0,76.0,1.0,5600.0,Girona
-,Pedro Porro,es ESP,DF,32,25,4.0,0.0,2018-2019,27d0a506,Girona,"2,211",24.6,4.0,0.0,76.0,1.0,,Girona
-,Pedro Alcalá,es ESP,DF,25,20,1.0,1.0,2018-2019,ba71d071,Girona,"1,868",20.8,9.0,0.0,76.0,1.0,,Girona
-,Aleix García,es ESP,MF,31,20,1.0,2.0,2018-2019,10361d2,Girona,"1,663",18.5,1.0,0.0,76.0,1.0,,Girona
-,Jonás Ramalho,es ESP,DF,22,18,0.0,1.0,2018-2019,be3a0121,Girona,"1,619",18.0,4.0,0.0,76.0,1.0,,Girona
-,Douglas Luiz,br BRA,MF,23,16,0.0,0.0,2018-2019,6f7d826d,Girona,"1,490",16.6,7.0,0.0,76.0,2.0,5608.0,Girona
-,Marc Muniesa,es ESP,"DF,MF",19,15,0.0,0.0,2018-2019,4db76f57,Girona,"1,406",15.6,6.0,0.0,76.0,1.0,,Girona
-,Valery,es ESP,DF,17,10,1.0,0.0,2018-2019,4acd733a,Girona,888,9.9,2.0,0.0,76.0,1.0,5610.0,Girona
-,Raúl García,es ESP,DF,10,10,1.0,0.0,2018-2019,1a317a1b,Girona,850,9.4,1.0,0.0,76.0,1.0,,Girona
-,Aday,es ESP,"DF,MF",10,8,2.0,0.0,2018-2019,5890cef1,Girona,645,7.2,2.0,0.0,76.0,1.0,,Girona
-,Anthony Lozano,hn HON,"MF,FW",20,7,0.0,0.0,2018-2019,38699c72,Girona,730,8.1,4.0,1.0,76.0,107.0,,Girona
-,Patrick Roberts,eng ENG,MF,19,6,0.0,0.0,2018-2019,59d93937,Girona,601,6.7,0.0,0.0,76.0,6.0,5611.0,Girona
-,Gorka Iraizoz,es ESP,GK,7,6,0.0,0.0,2018-2019,26f2473f,Girona,559,6.2,0.0,0.0,76.0,1.0,,Girona
-,Seydou Doumbia,ci CIV,"FW,MF",17,5,0.0,2.0,2018-2019,c49afee6,Girona,541,6.0,2.0,0.0,76.0,35.0,5612.0,Girona
-,Carles Planas,es ESP,DF,7,4,1.0,0.0,2018-2019,72b92c4e,Girona,419,4.7,3.0,0.0,76.0,1.0,,Girona
-,David Timor,es ESP,MF,2,2,0.0,0.0,2018-2019,174651c8,Girona,163,1.8,0.0,0.0,76.0,1.0,,Girona
-,Kévin Soni,cm CMR,"FW,MF",5,1,0.0,0.0,2018-2019,6435143e,Girona,82,0.9,1.0,0.0,76.0,36.0,,Girona
-,Paik Seung-ho,kr KOR,"FW,MF",3,0,0.0,0.0,2018-2019,1e1bea09,Girona,60,0.7,0.0,0.0,76.0,30.0,5613.0,Girona
-,Johan Mojica,co COL,MF,1,0,0.0,0.0,2018-2019,608f2092,Girona,20,0.2,0.0,0.0,76.0,19.0,,Girona
-,Yhoan Andzouana,cg CGO,"DF,MF",0,0,,,2018-2019,d91b8b16,Girona,,,,,76.0,80.0,5614.0,Girona
-,Jose Aurelio Suarez,es ESP,GK,0,0,,,2018-2019,968afa35,Girona,,,,,76.0,1.0,5615.0,Girona
-,Eric Montes,es ESP,DF,0,0,,,2018-2019,9873ff3,Girona,,,,,76.0,1.0,,Girona
-,Alejandro Pachón,es ESP,FW,0,0,,,2018-2019,3c88ebb5,Girona,,,,,76.0,1.0,5616.0,Girona
-,Marc Vito,es ESP,GK,0,0,,,2018-2019,33a86671,Girona,,,,,76.0,1.0,,Girona
-,﻿Cristhian Stuani,uy URU,FW,36,36,2.0,29.0,2019-2020,220c11f1,Girona,"3,191",35.5,8.0,1.0,76.0,8.0,,Girona
-,Álex Granell,es ESP,MF,38,36,1.0,2.0,2019-2020,25250f8,Girona,"3,076",34.2,11.0,1.0,76.0,1.0,5600.0,Girona
-,Juanpe,es ESP,DF,33,32,1.0,0.0,2019-2020,1633fc8a,Girona,"2,880",32.0,12.0,1.0,76.0,1.0,,Girona
-,Borja García,es ESP,"MF,FW",37,32,3.0,5.0,2019-2020,7f4603c,Girona,"2,802",31.1,1.0,0.0,76.0,1.0,,Girona
-,Gerard Gumbau,es ESP,MF,38,32,1.0,1.0,2019-2020,c454a4f,Girona,"2,750",30.6,13.0,0.0,76.0,1.0,,Girona
-,Pablo Maffeo,es ESP,DF,32,30,2.0,0.0,2019-2020,5db04597,Girona,"2,563",28.5,7.0,0.0,76.0,1.0,,Girona
-,Johan Mojica,co COL,DF,33,29,0.0,0.0,2019-2020,608f2092,Girona,"2,561",28.5,9.0,1.0,76.0,19.0,,Girona
-,Pedro Alcalá,es ESP,DF,28,26,2.0,0.0,2019-2020,ba71d071,Girona,"2,357",26.2,7.0,0.0,76.0,1.0,,Girona
-,Aday,es ESP,"MF,DF",30,24,2.0,2.0,2019-2020,5890cef1,Girona,"2,100",23.3,8.0,0.0,76.0,1.0,,Girona
-,Juan Carlos,es ESP,GK,21,21,0.0,0.0,2019-2020,688b96e3,Girona,"1,890",21.0,1.0,0.0,76.0,1.0,,Girona
-,Asier Riesgo,es ESP,GK,21,21,0.0,0.0,2019-2020,581c5276,Girona,"1,890",21.0,0.0,0.0,76.0,1.0,,Girona
-,Jairo Izquierdo,es ESP,"MF,FW",34,20,1.0,0.0,2019-2020,2ceb58ab,Girona,"1,859",20.7,2.0,0.0,76.0,1.0,,Girona
-,Samuel Sáiz,es ESP,MF,30,18,2.0,2.0,2019-2020,13e0eb29,Girona,"1,646",18.3,6.0,0.0,76.0,1.0,,Girona
-,Ignasi Miquel,es ESP,DF,18,18,0.0,0.0,2019-2020,174f09a6,Girona,"1,531",17.0,7.0,0.0,76.0,1.0,,Girona
-,Álex Gallar,es ESP,"MF,FW",32,16,3.0,0.0,2019-2020,36d5469c,Girona,"1,423",15.8,4.0,0.0,76.0,1.0,,Girona
-,Marc Gual,es ESP,"MF,FW",19,13,2.0,4.0,2019-2020,c2bdbd22,Girona,"1,165",12.9,1.0,0.0,76.0,1.0,,Girona
-,Jonás Ramalho,es ESP,DF,17,12,0.0,0.0,2019-2020,be3a0121,Girona,"1,170",13.0,2.0,0.0,76.0,1.0,,Girona
-,Pape Maly Diamanka,sn SEN,MF,23,12,0.0,0.0,2019-2020,5d289e13,Girona,"1,036",11.5,3.0,0.0,76.0,34.0,,Girona
-,Brian Oliván,es ESP,DF,10,7,0.0,0.0,2019-2020,3e4bf46,Girona,678,7.5,1.0,1.0,76.0,1.0,,Girona
-,Jordi Calavera,es ESP,"DF,MF",9,7,0.0,0.0,2019-2020,bdef8cdb,Girona,588,6.5,5.0,0.0,76.0,1.0,,Girona
-,Brandon,es ESP,"MF,FW",9,5,0.0,2.0,2019-2020,3e016e5a,Girona,539,6.0,1.0,0.0,76.0,1.0,,Girona
-,Jozabed,es ESP,MF,12,5,1.0,0.0,2019-2020,9b337c7c,Girona,499,5.5,0.0,0.0,76.0,1.0,,Girona
-,Cristian Rivera,es ESP,MF,8,5,0.0,0.0,2019-2020,8ef81d2d,Girona,382,4.2,0.0,1.0,76.0,1.0,,Girona
-,Valery,es ESP,"MF,DF",8,3,0.0,0.0,2019-2020,4acd733a,Girona,324,3.6,1.0,0.0,76.0,1.0,5610.0,Girona
-,Jonathan Soriano,es ESP,FW,16,1,1.0,1.0,2019-2020,036fb721,Girona,329,3.7,1.0,0.0,76.0,1.0,,Girona
-,Joaquín Zeballos,uy URU,FW,4,1,0.0,0.0,2019-2020,5ed78e99,Girona,124,1.4,1.0,0.0,76.0,8.0,5617.0,Girona
-,Ibrahima Kebe,ml MLI,MF,2,0,0.0,0.0,2019-2020,047759a0,Girona,29,0.3,0.0,0.0,76.0,12.0,5618.0,Girona
-,Pau Victor Delgado,es ESP,FW,1,0,0.0,0.0,2019-2020,6e7c819,Girona,23,0.3,0.0,0.0,76.0,1.0,5619.0,Girona
-,Anthony Lozano,hn HON,FW,1,0,0.0,0.0,2019-2020,38699c72,Girona,8,0.1,0.0,0.0,76.0,107.0,,Girona
-,Santiago Bueno,uy URU,DF,1,0,0.0,0.0,2019-2020,dc98fac,Girona,4,0.0,0.0,0.0,76.0,8.0,5620.0,Girona
-,Jose Aurelio Suarez,es ESP,GK,0,0,,,2019-2020,968afa35,Girona,,,,,76.0,1.0,5615.0,Girona
-,Yassine Bounou,ma MAR,GK,0,0,,,2019-2020,f6798fc3,Girona,,,,,76.0,26.0,,Girona
-,Carlos,es ESP,FW,0,0,,,2019-2020,4a34fc5c,Girona,,,,,76.0,1.0,5621.0,Girona
-,Ilyas Chaira,ma MAR,FW,0,0,,,2019-2020,c998f00f,Girona,,,,,76.0,26.0,5622.0,Girona
-,Jofre Cherta,es ESP,MF,0,0,,,2019-2020,32d4d,Girona,,,,,76.0,1.0,5623.0,Girona
-,Sebas Coris,es ESP,"DF,FW",0,0,,,2019-2020,b18da471,Girona,,,,,76.0,1.0,,Girona
-,Pau Resta,es ESP,DF,0,0,,,2019-2020,19170de2,Girona,,,,,76.0,1.0,,Girona
-,﻿Juan Carlos,es ESP,GK,40,40,0.0,0.0,2020-2021,688b96e3,Girona,"3,600",40.0,2.0,0.0,76.0,1.0,,Girona
-,Santiago Bueno,uy URU,DF,36,34,0.0,2.0,2020-2021,dc98fac,Girona,"3,062",34.0,7.0,1.0,76.0,8.0,5620.0,Girona
-,Monchu,es ESP,MF,39,34,1.0,3.0,2020-2021,8ac501f5,Girona,"2,940",32.7,6.0,2.0,76.0,1.0,,Girona
-,Gerard Gumbau,es ESP,MF,38,33,6.0,1.0,2020-2021,c454a4f,Girona,"2,715",30.2,11.0,0.0,76.0,1.0,,Girona
-,Bernardo Espinosa,co COL,DF,31,30,0.0,2.0,2020-2021,4242011c,Girona,"2,684",29.8,8.0,2.0,76.0,19.0,,Girona
-,Mamadou Sylla,sn SEN,"FW,MF",36,28,4.0,9.0,2020-2021,5ec95f8,Girona,"2,586",28.7,6.0,1.0,76.0,34.0,,Girona
-,Jordi Calavera,es ESP,DF,27,25,3.0,0.0,2020-2021,bdef8cdb,Girona,"2,146",23.8,3.0,0.0,76.0,1.0,,Girona
-,Sebastián Cristóforo,uy URU,MF,33,25,0.0,0.0,2020-2021,3c05c659,Girona,"1,973",21.9,5.0,1.0,76.0,8.0,,Girona
-,Édgar Yoel Bárcenas,pa PAN,"MF,FW",36,24,3.0,3.0,2020-2021,b39849eb,Girona,"2,171",24.1,1.0,0.0,76.0,89.0,,Girona
-,Samuel Sáiz,es ESP,"MF,FW",30,24,3.0,3.0,2020-2021,13e0eb29,Girona,"2,029",22.5,7.0,0.0,76.0,1.0,,Girona
-,Enric Franquesa,es ESP,"DF,MF",27,21,1.0,3.0,2020-2021,40883e3a,Girona,"1,875",20.8,2.0,1.0,76.0,1.0,,Girona
-,Cristhian Stuani,uy URU,FW,25,20,2.0,10.0,2020-2021,220c11f1,Girona,"1,722",19.1,4.0,0.0,76.0,8.0,,Girona
-,Yan Couto,br BRA,"MF,DF",22,17,4.0,1.0,2020-2021,1944818c,Girona,"1,661",18.5,4.0,0.0,76.0,2.0,5624.0,Girona
-,Aday,es ESP,"MF,DF",21,17,1.0,0.0,2020-2021,5890cef1,Girona,"1,271",14.1,6.0,0.0,76.0,1.0,,Girona
-,Antonio Luna,es ESP,DF,19,16,0.0,0.0,2020-2021,d239245,Girona,"1,343",14.9,3.0,1.0,76.0,1.0,,Girona
-,Juanpe,es ESP,DF,15,12,1.0,2.0,2020-2021,1633fc8a,Girona,"1,136",12.6,5.0,0.0,76.0,1.0,,Girona
-,Arnau Martinez,es ESP,DF,12,12,2.0,1.0,2020-2021,c3e66ffe,Girona,"1,080",12.0,0.0,0.0,76.0,1.0,5625.0,Girona
-,Ramón Terrats,es ESP,MF,20,12,0.0,0.0,2020-2021,f36016a5,Girona,"1,073",11.9,4.0,0.0,76.0,1.0,5626.0,Girona
-,Nahuel Bustos,ar ARG,FW,30,9,1.0,2.0,2020-2021,8f774c7f,Girona,910,10.1,5.0,1.0,76.0,5.0,5627.0,Girona
-,Pablo Moreno,es ESP,"MF,FW",26,8,0.0,2.0,2020-2021,2ce5a500,Girona,833,9.3,4.0,0.0,76.0,1.0,5628.0,Girona
-,Jonás Ramalho,es ESP,DF,11,7,0.0,0.0,2020-2021,be3a0121,Girona,713,7.9,1.0,2.0,76.0,1.0,,Girona
-,Ibrahima Kebe,ml MLI,MF,25,5,0.0,0.0,2020-2021,047759a0,Girona,752,8.4,2.0,0.0,76.0,12.0,5618.0,Girona
-,Valery,es ESP,MF,15,4,0.0,2.0,2020-2021,4acd733a,Girona,450,5.0,1.0,0.0,76.0,1.0,5610.0,Girona
-,Arijanet Muric,xk KVX,GK,2,2,0.0,0.0,2020-2021,99aa1a84,Girona,180,2.0,0.0,0.0,76.0,82.0,5629.0,Girona
-,Jairo Izquierdo,es ESP,MF,2,2,0.0,0.0,2020-2021,2ceb58ab,Girona,159,1.8,1.0,0.0,76.0,1.0,,Girona
-,Alejandro Pachón,es ESP,FW,4,1,0.0,0.0,2020-2021,3c88ebb5,Girona,115,1.3,0.0,0.0,76.0,1.0,5616.0,Girona
-,Pau Victor Delgado,es ESP,FW,7,0,0.0,0.0,2020-2021,6e7c819,Girona,108,1.2,0.0,0.0,76.0,1.0,5619.0,Girona
-,Álex Granell,es ESP,MF,2,0,0.0,0.0,2020-2021,25250f8,Girona,37,0.4,0.0,0.0,76.0,1.0,5600.0,Girona
-,Joaquín Zeballos,uy URU,FW,1,0,0.0,0.0,2020-2021,5ed78e99,Girona,12,0.1,0.0,0.0,76.0,8.0,5617.0,Girona
-,Eric Monjonell,es ESP,DF,1,0,0.0,0.0,2020-2021,42593c71,Girona,9,0.1,0.0,0.0,76.0,1.0,5630.0,Girona
-,Adrián Turmo,,FW,1,0,0.0,0.0,2020-2021,44f84f7f,Girona,9,0.1,0.0,0.0,76.0,,,Girona
-,Jandro,,FW,1,0,0.0,0.0,2020-2021,f8140ce4,Girona,4,0.0,0.0,0.0,76.0,,,Girona
-,Pedro Alcalá,es ESP,DF,0,0,,,2020-2021,ba71d071,Girona,,,,,76.0,1.0,,Girona
-,Jose Aurelio Suarez,es ESP,GK,0,0,,,2020-2021,968afa35,Girona,,,,,76.0,1.0,5615.0,Girona
-,Suleiman Camara Sanneh,se SWE,FW,0,0,,,2020-2021,138957de,Girona,,,,,76.0,41.0,5631.0,Girona
-,Álex González,es ESP,FW,0,0,,,2020-2021,b1f0a1b9,Girona,,,,,76.0,1.0,5632.0,Girona
-,Pape Maly Diamanka,sn SEN,MF,0,0,,,2020-2021,5d289e13,Girona,,,,,76.0,34.0,,Girona
-,Jonathan Morilla Bolancé,es ESP,GK,0,0,,,2020-2021,2f2a8408,Girona,,,,,76.0,1.0,5633.0,Girona
-,Adrián Ortolá,es ESP,GK,0,0,,,2020-2021,6a22fe38,Girona,,,,,76.0,1.0,,Girona
-,Pau Resta,es ESP,DF,0,0,,,2020-2021,19170de2,Girona,,,,,76.0,1.0,,Girona
-,﻿Bernardo Espinosa,co COL,DF,39,39,0.0,3.0,2021-2022,4242011c,Girona,"3,370",37.4,7.0,0.0,76.0,19.0,,Girona
-,Juan Carlos,es ESP,GK,38,38,0.0,0.0,2021-2022,688b96e3,Girona,"3,420",38.0,3.0,0.0,76.0,1.0,,Girona
-,Juanpe,es ESP,DF,38,37,1.0,2.0,2021-2022,1633fc8a,Girona,"3,316",36.8,9.0,0.0,76.0,1.0,,Girona
-,Aleix García,es ESP,MF,38,36,4.0,0.0,2021-2022,10361d2,Girona,"3,164",35.2,7.0,0.0,76.0,1.0,,Girona
-,Arnau Martinez,es ESP,"DF,MF",36,36,5.0,1.0,2021-2022,c3e66ffe,Girona,"3,129",34.8,2.0,0.0,76.0,1.0,5625.0,Girona
-,Alex Baena,es ESP,"MF,FW",38,35,6.0,5.0,2021-2022,518f2234,Girona,"2,807",31.2,16.0,1.0,76.0,1.0,,Girona
-,Santiago Bueno,uy URU,DF,31,30,2.0,1.0,2021-2022,dc98fac,Girona,"2,672",29.7,5.0,0.0,76.0,8.0,5620.0,Girona
-,Jairo Izquierdo,es ESP,"DF,MF",34,29,4.0,0.0,2021-2022,2ceb58ab,Girona,"2,468",27.4,4.0,1.0,76.0,1.0,,Girona
-,Cristhian Stuani,uy URU,FW,37,27,1.0,22.0,2021-2022,220c11f1,Girona,"2,594",28.8,12.0,0.0,76.0,8.0,,Girona
-,Samuel Sáiz,es ESP,"FW,MF",36,24,6.0,3.0,2021-2022,13e0eb29,Girona,"2,129",23.7,6.0,1.0,76.0,1.0,,Girona
-,Borja García,es ESP,MF,27,24,2.0,1.0,2021-2022,7f4603c,Girona,"1,906",21.2,3.0,1.0,76.0,1.0,,Girona
-,Pol Lozano,es ESP,MF,27,21,2.0,1.0,2021-2022,610f00,Girona,"1,883",20.9,6.0,0.0,76.0,1.0,,Girona
-,Nahuel Bustos,ar ARG,FW,38,15,2.0,11.0,2021-2022,8f774c7f,Girona,"1,415",15.7,5.0,0.0,76.0,5.0,5627.0,Girona
-,Ramón Terrats,es ESP,"MF,DF",18,13,0.0,0.0,2021-2022,f36016a5,Girona,"1,056",11.7,4.0,0.0,76.0,1.0,5626.0,Girona
-,David Juncà,es ESP,"DF,MF",25,12,1.0,1.0,2021-2022,de7d40d6,Girona,"1,036",11.5,1.0,1.0,76.0,1.0,,Girona
-,Valery,es ESP,"MF,DF",25,9,0.0,1.0,2021-2022,4acd733a,Girona,971,10.8,2.0,0.0,76.0,1.0,5610.0,Girona
-,Ibrahima Kebe,ml MLI,MF,26,7,0.0,1.0,2021-2022,047759a0,Girona,938,10.4,5.0,0.0,76.0,12.0,5618.0,Girona
-,Iván Martín,es ESP,MF,15,7,1.0,0.0,2021-2022,48c5cb,Girona,848,9.4,0.0,0.0,76.0,1.0,,Girona
-,Jordi Calavera,es ESP,"DF,MF",10,4,0.0,0.0,2021-2022,bdef8cdb,Girona,414,4.6,2.0,0.0,76.0,1.0,,Girona
-,Adrián Ortolá,es ESP,GK,4,4,0.0,0.0,2021-2022,6a22fe38,Girona,360,4.0,0.0,1.0,76.0,1.0,,Girona
-,Oscar Ureña,es ESP,FW,9,4,0.0,0.0,2021-2022,2dd7e29d,Girona,326,3.6,1.0,0.0,76.0,1.0,5634.0,Girona
-,Víctor Sánchez,es ESP,MF,5,3,0.0,0.0,2021-2022,d4d0985,Girona,220,2.4,2.0,0.0,76.0,1.0,,Girona
-,Darío Sarmiento,ar ARG,FW,9,2,2.0,0.0,2021-2022,343a0930,Girona,237,2.6,0.0,0.0,76.0,5.0,5635.0,Girona
-,Gerard Gumbau,es ESP,MF,2,2,0.0,0.0,2021-2022,c454a4f,Girona,109,1.2,0.0,0.0,76.0,1.0,,Girona
-,Pablo Moreno,es ESP,FW,16,1,0.0,1.0,2021-2022,2ce5a500,Girona,311,3.5,1.0,0.0,76.0,1.0,5628.0,Girona
-,Gabri Martínez,es ESP,MF,7,1,0.0,0.0,2021-2022,0c89e00b,Girona,143,1.6,0.0,0.0,76.0,1.0,5636.0,Girona
-,Biel Farres,es ESP,DF,2,1,0.0,0.0,2021-2022,623d5294,Girona,104,1.2,0.0,0.0,76.0,1.0,5637.0,Girona
-,Mamadou Sylla,sn SEN,FW,1,1,0.0,0.0,2021-2022,5ec95f8,Girona,51,0.6,0.0,0.0,76.0,34.0,,Girona
-,Ricard Artero,es ESP,MF,11,0,1.0,0.0,2021-2022,5d133e96,Girona,139,1.5,0.0,0.0,76.0,1.0,5638.0,Girona
-,Álex Sala,es ESP,MF,2,0,0.0,0.0,2021-2022,93551864,Girona,7,0.1,0.0,0.0,76.0,1.0,5639.0,Girona
-,Dawda Camara,mr MTN,FW,1,0,0.0,0.0,2021-2022,89b1ce31,Girona,6,0.1,0.0,0.0,76.0,94.0,,Girona
-,Suleiman Camara Sanneh,se SWE,FW,0,0,,,2021-2022,138957de,Girona,,,,,76.0,41.0,5631.0,Girona
-,Casals,es ESP,MF,0,0,,,2021-2022,beb2c4a,Girona,,,,,76.0,1.0,5640.0,Girona
-,Álex Castro,es ESP,MF,0,0,,,2021-2022,10bcf79d,Girona,,,,,76.0,1.0,5641.0,Girona
-,Unai Hernandez,,MF,0,0,,,2021-2022,24835a01,Girona,,,,,76.0,,,Girona
-,Eric Monjonell,es ESP,DF,0,0,,,2021-2022,42593c71,Girona,,,,,76.0,1.0,5630.0,Girona
-,Jonathan Morilla Bolancé,es ESP,GK,0,0,,,2021-2022,2f2a8408,Girona,,,,,76.0,1.0,5633.0,Girona
-,Arnau Ortiz,es ESP,FW,0,0,,,2021-2022,48da0ff0,Girona,,,,,76.0,1.0,5642.0,Girona
-,Pau Victor Delgado,es ESP,FW,0,0,,,2021-2022,6e7c819,Girona,,,,,76.0,1.0,5619.0,Girona
-,Loïc Williams,es ESP,DF,0,0,,,2021-2022,302a237e,Girona,,,,,76.0,1.0,5643.0,Girona
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Rafael Ponzo,ve VEN,GK,37,37,0.0,0.0,2008-2009,/en/players/e6777099/Rafael-Ponzo,6777099,Girona,"3,330",37.0,5.0,0.0,76,53.0,5577,Girona
+,Serra,es ESP,DF,37,36,0.0,4.0,2008-2009,/en/players/df52ea5f/Serra,df52ea5f,Girona,"3,198",35.5,7.0,3.0,76,1.0,4147,Girona
+,Migue,es ESP,DF,35,35,2.0,0.0,2008-2009,/en/players/13575a4c/Migue,13575a4c,Girona,"3,095",34.4,4.0,0.0,76,1.0,3335,Girona
+,Jordi Matamala,es ESP,MF,35,34,0.0,1.0,2008-2009,/en/players/b064ff85/Jordi-Matamala,b064ff85,Girona,"3,105",34.5,11.0,0.0,76,1.0,3191,Girona
+,Albert Dorca,es ESP,MF,38,33,1.0,0.0,2008-2009,/en/players/01c3b68a/Albert-Dorca,01c3b68a,Girona,"3,050",33.9,5.0,2.0,76,1.0,2904,Girona
+,José,es ESP,DF,34,33,0.0,0.0,2008-2009,/en/players/bc392378/Jose,bc392378,Girona,"2,964",32.9,14.0,1.0,76,1.0,5578,Girona
+,David Cañas,es ESP,DF,29,24,5.0,3.0,2008-2009,/en/players/01d8b210/David-Canas,01d8b210,Girona,"2,250",25.0,11.0,1.0,76,1.0,3729,Girona
+,Diego Rangel,es ESP,DF,23,22,0.0,0.0,2008-2009,/en/players/2380c0fb/Diego-Rangel,2380c0fb,Girona,"1,768",19.6,6.0,0.0,76,1.0,5579,Girona
+,Gabri,es ESP,FW,26,20,2.0,4.0,2008-2009,/en/players/b2605b0a/Gabri,b2605b0a,Girona,"1,740",19.3,7.0,0.0,76,1.0,3302,Girona
+,Chechu,es ESP,MF,24,18,1.0,3.0,2008-2009,/en/players/3333762c/Chechu,3333762c,Girona,"1,696",18.8,3.0,0.0,76,1.0,4854,Girona
+,Raúl Martín,es ESP,MF,26,17,1.0,3.0,2008-2009,/en/players/f81f6fc3/Raul-Martin,f81f6fc3,Girona,"1,382",15.4,2.0,0.0,76,1.0,1564,Girona
+,Jordi Xumetra,es ESP,"FW,MF",41,16,2.0,1.0,2008-2009,/en/players/3b79dbdb/Jordi-Xumetra,3b79dbdb,Girona,"1,948",21.6,5.0,0.0,76,1.0,3629,Girona
+,Paco Esteban,es ESP,FW,26,16,3.0,0.0,2008-2009,/en/players/7e4f04f0/Paco-Esteban,7e4f04f0,Girona,"1,447",16.1,7.0,1.0,76,1.0,2312,Girona
+,Alberto Manga,es ESP,MF,26,16,2.0,3.0,2008-2009,/en/players/a1d84af0/Alberto-Manga,1d84af0,Girona,"1,419",15.8,4.0,0.0,76,1.0,5580,Girona
+,Mikel Amantegui,es ESP,DF,18,15,0.0,0.0,2008-2009,/en/players/f92f842f/Mikel-Amantegui,f92f842f,Girona,"1,403",15.6,3.0,0.0,76,1.0,3757,Girona
+,Felipe Sanchón,es ESP,MF,17,14,1.0,5.0,2008-2009,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Girona,"1,301",14.5,4.0,1.0,76,1.0,4490,Girona
+,Arnal Llibert,es ESP,FW,26,14,1.0,4.0,2008-2009,/en/players/6e514348/Arnal-Llibert,6e514348,Girona,"1,294",14.4,0.0,0.0,76,1.0,5115,Girona
+,Jito,es ESP,FW,22,13,0.0,3.0,2008-2009,/en/players/3adf70f2/Jito,3adf70f2,Girona,983,10.9,1.0,0.0,76,1.0,5581,Girona
+,Igor de Souza,br BRA,FW,15,10,0.0,3.0,2008-2009,/en/players/1c73ef45/Igor-de-Souza,1c73ef45,Girona,913,10.1,3.0,0.0,76,2.0,4148,Girona
+,Marc Bernaus,ad AND,DF,10,10,0.0,0.0,2008-2009,/en/players/761ecc1f/Marc-Bernaus,761ecc1f,Girona,744,8.3,4.0,0.0,76,96.0,4014,Girona
+,Jaume Duran,es ESP,,11,8,0.0,1.0,2008-2009,/en/players/e050523f/Jaume-Duran,050523f,Girona,622,6.9,1.0,0.0,76,1.0,90296,Girona
+,David Sánchez,es ESP,DF,7,5,1.0,0.0,2008-2009,/en/players/60e0ee7a/David-Sanchez,60e0ee7a,Girona,506,5.6,2.0,0.0,76,1.0,5582,Girona
+,Iván Gómez,es ESP,GK,5,5,0.0,0.0,2008-2009,/en/players/12814065/Ivan-Gomez,12814065,Girona,450,5.0,1.0,0.0,76,1.0,5583,Girona
+,Gerard López,es ESP,MF,5,4,0.0,4.0,2008-2009,/en/players/403b0279/Gerard-Lopez,403b0279,Girona,393,4.4,2.0,0.0,76,1.0,1064,Girona
+,Hiroshi Ibusuki,jp JPN,FW,6,4,0.0,0.0,2008-2009,/en/players/715bdbe9/Hiroshi-Ibusuki,715bdbe9,Girona,222,2.5,0.0,0.0,76,54.0,1866,Girona
+,Óscar Álvarez,es ESP,DF,3,2,0.0,1.0,2008-2009,/en/players/d6b5c64f/Oscar-Alvarez,d6b5c64f,Girona,170,1.9,1.0,0.0,76,1.0,4455,Girona
+,Héctor Simón,es ESP,MF,4,2,0.0,0.0,2008-2009,/en/players/6ad334dc/Hector-Simon,6ad334dc,Girona,126,1.4,1.0,0.0,76,1.0,3025,Girona
+,﻿Jordi Matamala,es ESP,MF,38,38,2.0,3.0,2009-2010,/en/players/b064ff85/Jordi-Matamala,b064ff85,Girona,"3,413",37.9,13.0,1.0,76,1.0,3191,Girona
+,Ernesto Galán,es ESP,DF,37,37,0.0,1.0,2009-2010,/en/players/7e4af593/Ernesto-Galan,7e4af593,Girona,"3,285",36.5,14.0,0.0,76,1.0,3059,Girona
+,Roberto Peragón,es ESP,FW,38,36,3.0,9.0,2009-2010,/en/players/c1dbaa18/Roberto-Peragon,c1dbaa18,Girona,"2,878",32.0,13.0,1.0,76,1.0,2346,Girona
+,Albert Dorca,es ESP,MF,37,33,1.0,2.0,2009-2010,/en/players/01c3b68a/Albert-Dorca,01c3b68a,Girona,"2,963",32.9,5.0,0.0,76,1.0,2904,Girona
+,Albert Jorquera,es ESP,GK,33,33,0.0,0.0,2009-2010,/en/players/4b0184a5/Albert-Jorquera,4b0184a5,Girona,"2,951",32.8,2.0,1.0,76,1.0,1082,Girona
+,José,es ESP,DF,33,32,0.0,0.0,2009-2010,/en/players/bc392378/Jose,bc392378,Girona,"2,847",31.6,14.0,0.0,76,1.0,5578,Girona
+,Migue,es ESP,DF,33,32,1.0,2.0,2009-2010,/en/players/13575a4c/Migue,13575a4c,Girona,"2,837",31.5,9.0,1.0,76,1.0,3335,Girona
+,Moha,ma MAR,"DF,FW",36,32,6.0,3.0,2009-2010,/en/players/e3d09e03/Moha,3d09e03,Girona,"2,580",28.7,6.0,0.0,76,26.0,262,Girona
+,Jordi Xumetra,es ESP,"FW,MF",35,28,1.0,2.0,2009-2010,/en/players/3b79dbdb/Jordi-Xumetra,3b79dbdb,Girona,"2,190",24.3,7.0,1.0,76,1.0,3629,Girona
+,Kiko Ratón,es ESP,FW,40,25,2.0,10.0,2009-2010,/en/players/1b4d461e/Kiko-Raton,1b4d461e,Girona,"2,471",27.5,9.0,0.0,76,1.0,4805,Girona
+,David Cañas,es ESP,DF,28,25,5.0,2.0,2009-2010,/en/players/01d8b210/David-Canas,01d8b210,Girona,"2,267",25.2,9.0,0.0,76,1.0,3729,Girona
+,Dani Tortolero,es ESP,DF,23,23,0.0,3.0,2009-2010,/en/players/42481fd5/Dani-Tortolero,42481fd5,Girona,"2,008",22.3,14.0,0.0,76,1.0,4441,Girona
+,Antonio Calle,es ESP,FW,20,15,1.0,3.0,2009-2010,/en/players/3d3d63b9/Antonio-Calle,3d3d63b9,Girona,"1,155",12.8,2.0,0.0,76,1.0,2577,Girona
+,Chechu,es ESP,MF,23,12,2.0,0.0,2009-2010,/en/players/3333762c/Chechu,3333762c,Girona,"1,024",11.4,2.0,0.0,76,1.0,4854,Girona
+,Gerard López,es ESP,MF,21,11,1.0,0.0,2009-2010,/en/players/403b0279/Gerard-Lopez,403b0279,Girona,"1,059",11.8,8.0,1.0,76,1.0,1064,Girona
+,Marc Bernaus,ad AND,DF,12,11,0.0,0.0,2009-2010,/en/players/761ecc1f/Marc-Bernaus,761ecc1f,Girona,942,10.5,5.0,0.0,76,96.0,4014,Girona
+,Dani Mallo,es ESP,GK,10,9,0.0,0.0,2009-2010,/en/players/c965e3d0/Dani-Mallo,c965e3d0,Girona,829,9.2,0.0,0.0,76,1.0,384,Girona
+,Juanma,es ESP,MF,29,7,1.0,1.0,2009-2010,/en/players/a81311e0/Juanma,81311e0,Girona,"1,148",12.8,5.0,0.0,76,1.0,5584,Girona
+,Brian Sarmiento,ar ARG,"FW,MF",11,7,0.0,2.0,2009-2010,/en/players/74337456/Brian-Sarmiento,74337456,Girona,665,7.4,4.0,0.0,76,5.0,4943,Girona
+,Óscar Álvarez,es ESP,DF,7,5,1.0,0.0,2009-2010,/en/players/d6b5c64f/Oscar-Alvarez,d6b5c64f,Girona,502,5.6,3.0,0.0,76,1.0,4455,Girona
+,Marcos Tébar,es ESP,"DF,MF",9,4,0.0,0.0,2009-2010,/en/players/1e806be7/Marcos-Tebar,1e806be7,Girona,479,5.3,3.0,0.0,76,1.0,77,Girona
+,Javier Almirón,ar ARG,"DF,MF",6,4,0.0,0.0,2009-2010,/en/players/8b8c57b7/Javier-Almiron,8b8c57b7,Girona,391,4.3,4.0,0.0,76,5.0,3314,Girona
+,Germán Beltrán,es ESP,FW,13,2,0.0,1.0,2009-2010,/en/players/552f8f78/German-Beltran,552f8f78,Girona,312,3.5,1.0,0.0,76,1.0,5233,Girona
+,Diego Rangel,es ESP,DF,1,1,0.0,0.0,2009-2010,/en/players/2380c0fb/Diego-Rangel,2380c0fb,Girona,90,1.0,0.0,0.0,76,1.0,5579,Girona
+,Gabri,es ESP,FW,8,0,0.0,1.0,2009-2010,/en/players/b2605b0a/Gabri,b2605b0a,Girona,120,1.3,0.0,0.0,76,1.0,3302,Girona
+,Alberto Manga,es ESP,MF,4,0,0.0,0.0,2009-2010,/en/players/a1d84af0/Alberto-Manga,1d84af0,Girona,43,0.5,0.0,0.0,76,1.0,5580,Girona
+,Fran,es ESP,MF,2,0,0.0,0.0,2009-2010,/en/players/7e1a6606/Fran,7e1a6606,Girona,28,0.3,0.0,0.0,76,1.0,5585,Girona
+,Jordi Masó,es ESP,"DF,MF",1,0,0.0,0.0,2009-2010,/en/players/5047640b/Jordi-Maso,5047640b,Girona,11,0.1,0.0,0.0,76,1.0,5586,Girona
+,﻿Albert Dorca,es ESP,MF,40,40,0.0,1.0,2010-2011,/en/players/01c3b68a/Albert-Dorca,01c3b68a,Girona,"3,584",39.8,10.0,0.0,76,1.0,2904,Girona
+,Jandro,es ESP,MF,42,38,9.0,11.0,2010-2011,/en/players/453a1fcd/Jandro,453a1fcd,Girona,"3,417",38.0,3.0,0.0,76,1.0,642,Girona
+,Roberto Santamaría,es ESP,GK,33,33,0.0,0.0,2010-2011,/en/players/bca21ef3/Roberto-Santamaria,bca21ef3,Girona,"2,934",32.6,3.0,1.0,76,1.0,1695,Girona
+,Migue,es ESP,DF,33,33,1.0,0.0,2010-2011,/en/players/13575a4c/Migue,13575a4c,Girona,"2,917",32.4,8.0,1.0,76,1.0,3335,Girona
+,Roberto Peragón,es ESP,FW,36,32,4.0,11.0,2010-2011,/en/players/c1dbaa18/Roberto-Peragon,c1dbaa18,Girona,"2,737",30.4,12.0,2.0,76,1.0,2346,Girona
+,Dani Bautista,es ESP,DF,30,28,3.0,0.0,2010-2011,/en/players/135b0a5e/Dani-Bautista,135b0a5e,Girona,"2,536",28.2,7.0,1.0,76,1.0,2912,Girona
+,Serra,es ESP,DF,29,28,0.0,2.0,2010-2011,/en/players/df52ea5f/Serra,df52ea5f,Girona,"2,513",27.9,6.0,2.0,76,1.0,4147,Girona
+,José,es ESP,DF,29,28,0.0,0.0,2010-2011,/en/players/bc392378/Jose,bc392378,Girona,"2,508",27.9,11.0,1.0,76,1.0,5578,Girona
+,Moha,ma MAR,"DF,FW",34,27,3.0,1.0,2010-2011,/en/players/e3d09e03/Moha,3d09e03,Girona,"2,185",24.3,8.0,2.0,76,26.0,262,Girona
+,Chechu,es ESP,MF,35,26,8.0,5.0,2010-2011,/en/players/3333762c/Chechu,3333762c,Girona,"2,236",24.8,4.0,1.0,76,1.0,4854,Girona
+,Ángel Martínez,es ESP,MF,36,25,6.0,0.0,2010-2011,/en/players/7eb2bab9/Angel-Martinez,7eb2bab9,Girona,"1,981",22.0,8.0,0.0,76,1.0,3038,Girona
+,Marcos Tébar,es ESP,"DF,MF",35,23,0.0,0.0,2010-2011,/en/players/1e806be7/Marcos-Tebar,1e806be7,Girona,"2,211",24.6,9.0,1.0,76,1.0,77,Girona
+,Ranko Despotović,rs SRB,FW,34,23,5.0,18.0,2010-2011,/en/players/7909655a/Ranko-Despotovic,7909655a,Girona,"1,879",20.9,7.0,1.0,76,28.0,3337,Girona
+,Dani Tortolero,es ESP,DF,18,18,0.0,1.0,2010-2011,/en/players/42481fd5/Dani-Tortolero,42481fd5,Girona,"1,620",18.0,2.0,0.0,76,1.0,4441,Girona
+,Kiko Ratón,es ESP,FW,33,17,2.0,5.0,2010-2011,/en/players/1b4d461e/Kiko-Raton,1b4d461e,Girona,"1,631",18.1,4.0,0.0,76,1.0,4805,Girona
+,Francisco Noguerol,es ESP,DF,19,16,1.0,0.0,2010-2011,/en/players/73bdd0b1/Francisco-Noguerol,73bdd0b1,Girona,"1,448",16.1,3.0,0.0,76,1.0,708,Girona
+,Luso,es ESP,"DF,MF",17,13,0.0,2.0,2010-2011,/en/players/9cd41fda/Luso,9cd41fda,Girona,"1,161",12.9,2.0,0.0,76,1.0,5323,Girona
+,Dani Mallo,es ESP,GK,10,9,0.0,0.0,2010-2011,/en/players/c965e3d0/Dani-Mallo,c965e3d0,Girona,846,9.4,4.0,0.0,76,1.0,384,Girona
+,Borja Sánchez Gil,es ESP,MF,22,2,0.0,0.0,2010-2011,/en/players/ea070e15/Borja-Sanchez-Gil,070e15,Girona,537,6.0,3.0,0.0,76,1.0,5587,Girona
+,Keko,es ESP,"FW,MF",11,2,1.0,0.0,2010-2011,/en/players/1512328c/Keko,1512328c,Girona,263,2.9,0.0,0.0,76,1.0,577,Girona
+,Víctor Curto,es ESP,FW,6,1,0.0,0.0,2010-2011,/en/players/83cd8962/Victor-Curto,83cd8962,Girona,109,1.2,0.0,0.0,76,1.0,3800,Girona
+,Gerard López,es ESP,MF,4,0,0.0,0.0,2010-2011,/en/players/403b0279/Gerard-Lopez,403b0279,Girona,23,0.3,1.0,0.0,76,1.0,1064,Girona
+,Adrien Goñi,es ESP,MF,1,0,0.0,0.0,2010-2011,/en/players/c14fe8f1/Adrien-Goni,c14fe8f1,Girona,10,0.1,0.0,0.0,76,1.0,1284,Girona
+,﻿Ferran Corominas,es ESP,"FW,MF",40,40,3.0,18.0,2011-2012,/en/players/46d0c528/Ferran-Corominas,46d0c528,Girona,"3,450",38.3,4.0,0.0,76,1.0,1685,Girona
+,Migue,es ESP,DF,39,37,0.0,1.0,2011-2012,/en/players/13575a4c/Migue,13575a4c,Girona,"3,349",37.2,8.0,0.0,76,1.0,3335,Girona
+,Albert Dorca,es ESP,MF,37,36,1.0,2.0,2011-2012,/en/players/01c3b68a/Albert-Dorca,01c3b68a,Girona,"3,188",35.4,12.0,0.0,76,1.0,2904,Girona
+,Jandro,es ESP,MF,38,33,8.0,9.0,2011-2012,/en/players/453a1fcd/Jandro,453a1fcd,Girona,"2,874",31.9,5.0,0.0,76,1.0,642,Girona
+,Marcos Tébar,es ESP,"DF,MF",35,33,0.0,0.0,2011-2012,/en/players/1e806be7/Marcos-Tebar,1e806be7,Girona,"2,819",31.3,13.0,2.0,76,1.0,77,Girona
+,Dani Tortolero,es ESP,DF,28,27,0.0,3.0,2011-2012,/en/players/42481fd5/Dani-Tortolero,42481fd5,Girona,"2,431",27.0,7.0,1.0,76,1.0,4441,Girona
+,Juanlu,es ESP,"FW,MF",32,26,1.0,2.0,2011-2012,/en/players/431ac3e7/Juanlu,431ac3e7,Girona,"2,331",25.9,5.0,0.0,76,1.0,896,Girona
+,David García,es ESP,DF,26,26,1.0,0.0,2011-2012,/en/players/f47bf593/David-Garcia,f47bf593,Girona,"2,041",22.7,6.0,0.0,76,1.0,2997,Girona
+,Moha,ma MAR,"DF,FW",31,23,4.0,4.0,2011-2012,/en/players/e3d09e03/Moha,3d09e03,Girona,"1,998",22.2,9.0,0.0,76,26.0,262,Girona
+,José,es ESP,DF,27,23,2.0,0.0,2011-2012,/en/players/bc392378/Jose,bc392378,Girona,"1,891",21.0,8.0,1.0,76,1.0,5578,Girona
+,Dani Mallo,es ESP,GK,22,22,0.0,0.0,2011-2012,/en/players/c965e3d0/Dani-Mallo,c965e3d0,Girona,"1,950",21.7,2.0,0.0,76,1.0,384,Girona
+,Roberto Santamaría,es ESP,GK,21,20,0.0,0.0,2011-2012,/en/players/bca21ef3/Roberto-Santamaria,bca21ef3,Girona,"1,830",20.3,2.0,0.0,76,1.0,1695,Girona
+,Benja,es ESP,DF,27,19,2.0,3.0,2011-2012,/en/players/f04bc5bc/Benja,f04bc5bc,Girona,"1,657",18.4,4.0,0.0,76,1.0,5103,Girona
+,Luso,es ESP,"DF,MF",19,15,1.0,2.0,2011-2012,/en/players/9cd41fda/Luso,9cd41fda,Girona,"1,404",15.6,6.0,1.0,76,1.0,5323,Girona
+,Javier Acuña,py PAR,FW,17,11,0.0,4.0,2011-2012,/en/players/993ff7aa/Javier-Acuna,993ff7aa,Girona,990,11.0,2.0,0.0,76,43.0,1686,Girona
+,Joseba Garmendia,es ESP,"DF,MF",16,9,0.0,0.0,2011-2012,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Girona,983,10.9,5.0,0.0,76,1.0,1266,Girona
+,Richy,es ESP,DF,10,9,0.0,0.0,2011-2012,/en/players/1d5089f0/Richy,1d5089f0,Girona,782,8.7,3.0,1.0,76,1.0,698,Girona
+,Dani Nieto,es ESP,"FW,MF",34,8,2.0,6.0,2011-2012,/en/players/d7d46f3b/Dani-Nieto,d7d46f3b,Girona,"1,109",12.3,3.0,0.0,76,1.0,4288,Girona
+,Baltasar Rigo,es ESP,DF,10,8,0.0,1.0,2011-2012,/en/players/b80570db/Baltasar-Rigo,b80570db,Girona,683,7.6,2.0,0.0,76,1.0,4272,Girona
+,José Acciari,ar ARG,MF,9,6,1.0,0.0,2011-2012,/en/players/9e98922b/Jose-Acciari,9e98922b,Girona,538,6.0,2.0,0.0,76,5.0,3884,Girona
+,Asier Goiria,es ESP,FW,13,6,1.0,1.0,2011-2012,/en/players/1dfd7bbc/Asier-Goiria,1dfd7bbc,Girona,522,5.8,3.0,0.0,76,1.0,4256,Girona
+,David Juncà,es ESP,DF,8,5,1.0,0.0,2011-2012,/en/players/de7d40d6/David-Junca,de7d40d6,Girona,504,5.6,2.0,0.0,76,1.0,806,Girona
+,Yago Fernández,pt POR,DF,5,5,0.0,1.0,2011-2012,/en/players/a094b4c5/Yago-Fernandez,094b4c5,Girona,450,5.0,2.0,0.0,76,3.0,5588,Girona
+,Gaizka Saizar,es ESP,FW,15,4,0.0,1.0,2011-2012,/en/players/5a706676/Gaizka-Saizar,5a706676,Girona,589,6.5,1.0,0.0,76,1.0,2915,Girona
+,Matías Ballini,ar ARG,MF,7,4,0.0,0.0,2011-2012,/en/players/15800611/Matias-Ballini,15800611,Girona,342,3.8,2.0,0.0,76,5.0,90297,Girona
+,Óscar Díaz,es ESP,"FW,MF",9,3,1.0,0.0,2011-2012,/en/players/5a5ed410/Oscar-Diaz,5a5ed410,Girona,309,3.4,1.0,1.0,76,1.0,707,Girona
+,Ion Vélez,es ESP,FW,5,2,0.0,0.0,2011-2012,/en/players/3a6c16de/Ion-Velez,3a6c16de,Girona,256,2.8,0.0,0.0,76,1.0,1276,Girona
+,Dani Erencia,es ESP,DF,2,2,0.0,0.0,2011-2012,/en/players/bc44cd77/Dani-Erencia,bc44cd77,Girona,149,1.7,0.0,0.0,76,1.0,5589,Girona
+,﻿Dani Mallo,es ESP,GK,39,39,0.0,0.0,2012-2013,/en/players/c965e3d0/Dani-Mallo,c965e3d0,Girona,"3,510",39.0,1.0,0.0,76,1.0,384,Girona
+,Migue,es ESP,DF,36,36,0.0,1.0,2012-2013,/en/players/13575a4c/Migue,13575a4c,Girona,"3,100",34.4,9.0,1.0,76,1.0,3335,Girona
+,Marcos Tébar,es ESP,"DF,MF",35,35,1.0,4.0,2012-2013,/en/players/1e806be7/Marcos-Tebar,1e806be7,Girona,"3,075",34.2,9.0,0.0,76,1.0,77,Girona
+,David García,es ESP,DF,34,34,3.0,1.0,2012-2013,/en/players/f47bf593/David-Garcia,f47bf593,Girona,"2,930",32.6,7.0,1.0,76,1.0,2997,Girona
+,José,es ESP,DF,34,34,2.0,1.0,2012-2013,/en/players/bc392378/Jose,bc392378,Girona,"2,902",32.2,10.0,0.0,76,1.0,5578,Girona
+,Felipe Sanchón,es ESP,MF,37,34,9.0,9.0,2012-2013,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Girona,"2,758",30.6,4.0,0.0,76,1.0,4490,Girona
+,Luso,es ESP,"DF,MF",33,32,2.0,6.0,2012-2013,/en/players/9cd41fda/Luso,9cd41fda,Girona,"2,779",30.9,13.0,0.0,76,1.0,5323,Girona
+,Jandro,es ESP,MF,33,30,13.0,8.0,2012-2013,/en/players/453a1fcd/Jandro,453a1fcd,Girona,"2,683",29.8,2.0,0.0,76,1.0,642,Girona
+,Juanlu,es ESP,"FW,MF",36,29,0.0,1.0,2012-2013,/en/players/431ac3e7/Juanlu,431ac3e7,Girona,"2,521",28.0,5.0,0.0,76,1.0,896,Girona
+,Chus Herrero,es ESP,DF,28,28,0.0,0.0,2012-2013,/en/players/ac34a4f0/Chus-Herrero,c34a4f0,Girona,"2,491",27.7,6.0,0.0,76,1.0,2608,Girona
+,Javier Acuña,py PAR,FW,36,20,1.0,17.0,2012-2013,/en/players/993ff7aa/Javier-Acuna,993ff7aa,Girona,"2,039",22.7,3.0,0.0,76,43.0,1686,Girona
+,Jofre,es ESP,MF,34,19,7.0,4.0,2012-2013,/en/players/90bf887c/Jofre,90bf887c,Girona,"1,579",17.5,3.0,0.0,76,1.0,2576,Girona
+,Benja,es ESP,DF,24,19,3.0,11.0,2012-2013,/en/players/f04bc5bc/Benja,f04bc5bc,Girona,"1,467",16.3,5.0,0.0,76,1.0,5103,Girona
+,Richy,es ESP,DF,21,16,0.0,2.0,2012-2013,/en/players/1d5089f0/Richy,1d5089f0,Girona,"1,537",17.1,4.0,0.0,76,1.0,698,Girona
+,Eloi Amagat,es ESP,MF,21,8,1.0,1.0,2012-2013,/en/players/12a875ce/Eloi-Amagat,12a875ce,Girona,"1,042",11.6,4.0,0.0,76,1.0,5590,Girona
+,Gerard Bordas,es ESP,"FW,MF",15,8,1.0,3.0,2012-2013,/en/players/56ef2fd7/Gerard-Bordas,56ef2fd7,Girona,742,8.2,3.0,0.0,76,1.0,2762,Girona
+,David Juncà,es ESP,DF,9,7,1.0,0.0,2012-2013,/en/players/de7d40d6/David-Junca,de7d40d6,Girona,669,7.4,1.0,0.0,76,1.0,806,Girona
+,Moisés Hurtado,es ESP,MF,8,6,0.0,0.0,2012-2013,/en/players/1ea7254b/Moises-Hurtado,1ea7254b,Girona,612,6.8,3.0,1.0,76,1.0,3034,Girona
+,Txiki,es ESP,DF,7,6,0.0,0.0,2012-2013,/en/players/86faaf37/Txiki,86faaf37,Girona,486,5.4,3.0,0.0,76,1.0,5591,Girona
+,Joseba Garmendia,es ESP,"DF,MF",5,5,0.0,0.0,2012-2013,/en/players/d74abbc4/Joseba-Garmendia,d74abbc4,Girona,387,4.3,0.0,0.0,76,1.0,1266,Girona
+,Toni Moral,es ESP,MF,15,4,1.0,3.0,2012-2013,/en/players/5c3bf3f9/Toni-Moral,5c3bf3f9,Girona,580,6.4,6.0,0.0,76,1.0,661,Girona
+,Ion Vélez,es ESP,FW,19,3,2.0,2.0,2012-2013,/en/players/3a6c16de/Ion-Velez,3a6c16de,Girona,480,5.3,1.0,0.0,76,1.0,1276,Girona
+,Pere Pons,es ESP,MF,9,3,0.0,0.0,2012-2013,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,392,4.4,0.0,0.0,76,1.0,3375,Girona
+,Isaac Becerra,es ESP,GK,3,3,0.0,0.0,2012-2013,/en/players/bee5d245/Isaac-Becerra,bee5d245,Girona,270,3.0,0.0,0.0,76,1.0,2634,Girona
+,Ritchie Kitoko,be BEL,MF,7,2,0.0,0.0,2012-2013,/en/players/d403d81a/Ritchie-Kitoko,d403d81a,Girona,212,2.4,0.0,0.0,76,27.0,2963,Girona
+,Ariday Cabrera,es ESP,"FW,MF",9,1,0.0,0.0,2012-2013,/en/players/206b11c5/Ariday-Cabrera,206b11c5,Girona,162,1.8,0.0,0.0,76,1.0,1718,Girona
+,Carles Mas,es ESP,DF,1,1,0.0,0.0,2012-2013,/en/players/aab81b65/Carles-Mas,b81b65,Girona,90,1.0,0.0,0.0,76,1.0,5592,Girona
+,﻿Isaac Becerra,es ESP,GK,41,41,0.0,0.0,2013-2014,/en/players/bee5d245/Isaac-Becerra,bee5d245,Girona,"3,613",40.1,4.0,0.0,76,1.0,2634,Girona
+,Migue,es ESP,DF,39,38,0.0,2.0,2013-2014,/en/players/13575a4c/Migue,13575a4c,Girona,"3,434",38.2,4.0,0.0,76,1.0,3335,Girona
+,David Timor,es ESP,"DF,MF",36,36,2.0,7.0,2013-2014,/en/players/174651c8/David-Timor,174651c8,Girona,"3,164",35.2,19.0,0.0,76,1.0,2034,Girona
+,Richy,es ESP,DF,34,33,1.0,0.0,2013-2014,/en/players/1d5089f0/Richy,1d5089f0,Girona,"2,847",31.6,5.0,0.0,76,1.0,698,Girona
+,Gerard Bordas,es ESP,"FW,MF",37,27,1.0,9.0,2013-2014,/en/players/56ef2fd7/Gerard-Bordas,56ef2fd7,Girona,"2,437",27.1,5.0,0.0,76,1.0,2762,Girona
+,Eloi Amagat,es ESP,MF,34,26,5.0,4.0,2013-2014,/en/players/12a875ce/Eloi-Amagat,12a875ce,Girona,"2,453",27.3,5.0,0.0,76,1.0,5590,Girona
+,Juanlu,es ESP,"FW,MF",37,25,3.0,1.0,2013-2014,/en/players/431ac3e7/Juanlu,431ac3e7,Girona,"2,236",24.8,3.0,0.0,76,1.0,896,Girona
+,Iván López,co COL,DF,29,25,0.0,1.0,2013-2014,/en/players/6cc67806/Ivan-Lopez,6cc67806,Girona,"2,128",23.6,4.0,0.0,76,19.0,5593,Girona
+,Jandro,es ESP,MF,32,24,4.0,7.0,2013-2014,/en/players/453a1fcd/Jandro,453a1fcd,Girona,"2,105",23.4,4.0,1.0,76,1.0,642,Girona
+,Felipe Sanchón,es ESP,MF,26,23,2.0,7.0,2013-2014,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Girona,"2,100",23.3,2.0,0.0,76,1.0,4490,Girona
+,David García,es ESP,DF,24,23,0.0,0.0,2013-2014,/en/players/f47bf593/David-Garcia,f47bf593,Girona,"1,968",21.9,6.0,0.0,76,1.0,2997,Girona
+,Jordi Matamala,es ESP,MF,32,22,1.0,1.0,2013-2014,/en/players/b064ff85/Jordi-Matamala,b064ff85,Girona,"1,946",21.6,12.0,0.0,76,1.0,3191,Girona
+,David Juncà,es ESP,DF,25,22,0.0,0.0,2013-2014,/en/players/de7d40d6/David-Junca,de7d40d6,Girona,"1,887",21.0,6.0,1.0,76,1.0,806,Girona
+,Jonás Ramalho,es ESP,DF,25,21,2.0,0.0,2013-2014,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,"1,928",21.4,2.0,1.0,76,1.0,1300,Girona
+,Alfredo Ortuño,es ESP,"DF,FW",20,18,4.0,9.0,2013-2014,/en/players/b5077003/Alfredo-Ortuno,b5077003,Girona,"1,602",17.8,1.0,0.0,76,1.0,1680,Girona
+,Jofre,es ESP,MF,25,11,1.0,0.0,2013-2014,/en/players/90bf887c/Jofre,90bf887c,Girona,"1,049",11.7,4.0,0.0,76,1.0,2576,Girona
+,Chus Herrero,es ESP,DF,12,11,0.0,0.0,2013-2014,/en/players/ac34a4f0/Chus-Herrero,c34a4f0,Girona,964,10.7,2.0,1.0,76,1.0,2608,Girona
+,Chando,es ESP,FW,20,10,0.0,1.0,2013-2014,/en/players/b43a5636/Chando,b43a5636,Girona,931,10.3,1.0,0.0,76,1.0,3934,Girona
+,Carles Mas,es ESP,DF,9,9,0.0,0.0,2013-2014,/en/players/aab81b65/Carles-Mas,b81b65,Girona,810,9.0,3.0,0.0,76,1.0,5592,Girona
+,Adrià Carmona,es ESP,"FW,MF",18,7,0.0,0.0,2013-2014,/en/players/9e95dc9e/Adria-Carmona,9e95dc9e,Girona,681,7.6,2.0,0.0,76,1.0,3601,Girona
+,Jesús Tato,es ESP,FW,12,5,1.0,0.0,2013-2014,/en/players/50e2af8c/Jesus-Tato,50e2af8c,Girona,497,5.5,1.0,0.0,76,1.0,3614,Girona
+,Pere Pons,es ESP,MF,10,3,0.0,1.0,2013-2014,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,355,3.9,4.0,0.0,76,1.0,3375,Girona
+,Jorge Palatsí,es ESP,GK,2,1,0.0,0.0,2013-2014,/en/players/cd66e46b/Jorge-Palatsi,cd66e46b,Girona,167,1.9,0.0,0.0,76,1.0,2769,Girona
+,Moisés Hurtado,es ESP,MF,2,1,0.0,1.0,2013-2014,/en/players/1ea7254b/Moises-Hurtado,1ea7254b,Girona,151,1.7,1.0,0.0,76,1.0,3034,Girona
+,Bruno Herrero Arias,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/acd429fc/Bruno-Herrero-Arias,cd429fc,Girona,18,0.2,0.0,0.0,76,1.0,1822,Girona
+,Agostinho Cá,pt POR,MF,1,0,0.0,0.0,2013-2014,/en/players/a1251f66/Agostinho-Ca,1251f66,Girona,12,0.1,0.0,0.0,76,3.0,5594,Girona
+,Albert Vivancos,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/d2abba68/Albert-Vivancos,d2abba68,Girona,10,0.1,0.0,0.0,76,1.0,5595,Girona
+,Gerard Muñoz,es ESP,FW,1,0,0.0,0.0,2013-2014,/en/players/08ddfd9f/Gerard-Munoz,08ddfd9f,Girona,3,0.0,0.0,0.0,76,1.0,5596,Girona
+,﻿Isaac Becerra,es ESP,GK,42,42,0.0,0.0,2014-2015,/en/players/bee5d245/Isaac-Becerra,bee5d245,Girona,"3,780",42.0,4.0,0.0,76,1.0,2634,Girona
+,Álex Granell,es ESP,MF,42,41,13.0,5.0,2014-2015,/en/players/a25250f8/Alex-Granell,25250f8,Girona,"3,568",39.6,4.0,0.0,76,1.0,5600,Girona
+,Pere Pons,es ESP,MF,40,40,1.0,0.0,2014-2015,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,"3,524",39.2,8.0,1.0,76,1.0,3375,Girona
+,Miguel Ángel Maza,es ESP,MF,40,39,0.0,1.0,2014-2015,/en/players/75f931e3/Miguel-Angel-Maza,75f931e3,Girona,"3,470",38.6,6.0,0.0,76,1.0,5597,Girona
+,Richy,es ESP,DF,39,39,0.0,4.0,2014-2015,/en/players/1d5089f0/Richy,1d5089f0,Girona,"3,450",38.3,9.0,1.0,76,1.0,698,Girona
+,Florian Lejeune,fr FRA,"DF,MF",38,38,0.0,4.0,2014-2015,/en/players/6eaed4eb/Florian-Lejeune,6eaed4eb,Girona,"3,321",36.9,13.0,0.0,76,4.0,2763,Girona
+,Jonás Ramalho,es ESP,DF,36,36,0.0,2.0,2014-2015,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,"3,145",34.9,11.0,0.0,76,1.0,1300,Girona
+,Francisco Sandaza,es ESP,FW,36,34,4.0,16.0,2014-2015,/en/players/d9ab42ff/Francisco-Sandaza,d9ab42ff,Girona,"2,831",31.5,8.0,0.0,76,1.0,5598,Girona
+,Felipe Sanchón,es ESP,MF,38,31,4.0,11.0,2014-2015,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Girona,"2,542",28.2,4.0,0.0,76,1.0,4490,Girona
+,Jaime Mata,es ESP,FW,38,26,2.0,10.0,2014-2015,/en/players/02319ad7/Jaime-Mata,02319ad7,Girona,"2,578",28.6,7.0,0.0,76,1.0,2637,Girona
+,Eloi Amagat,es ESP,MF,29,25,1.0,2.0,2014-2015,/en/players/12a875ce/Eloi-Amagat,12a875ce,Girona,"2,027",22.5,7.0,0.0,76,1.0,5590,Girona
+,David Juncà,es ESP,DF,18,17,1.0,2.0,2014-2015,/en/players/de7d40d6/David-Junca,de7d40d6,Girona,"1,450",16.1,4.0,0.0,76,1.0,806,Girona
+,Sebas Coris,es ESP,"DF,FW",26,14,0.0,0.0,2014-2015,/en/players/b18da471/Sebas-Coris,b18da471,Girona,"1,196",13.3,2.0,0.0,76,1.0,2093,Girona
+,Aday,es ESP,"DF,MF",32,12,3.0,2.0,2014-2015,/en/players/5890cef1/Aday,5890cef1,Girona,"1,402",15.6,5.0,0.0,76,1.0,4856,Girona
+,Carles Mas,es ESP,DF,10,9,0.0,1.0,2014-2015,/en/players/aab81b65/Carles-Mas,b81b65,Girona,837,9.3,1.0,1.0,76,1.0,5592,Girona
+,Pablo Íñiguez,es ESP,"DF,MF",14,6,1.0,0.0,2014-2015,/en/players/dd55192d/Pablo-Iniguez,dd55192d,Girona,630,7.0,2.0,0.0,76,1.0,2772,Girona
+,Jandro,es ESP,MF,21,4,2.0,1.0,2014-2015,/en/players/453a1fcd/Jandro,453a1fcd,Girona,521,5.8,1.0,0.0,76,1.0,642,Girona
+,Christian Alfonso,es ESP,MF,11,3,0.0,0.0,2014-2015,/en/players/ecfe11fd/Christian-Alfonso,cfe11fd,Girona,325,3.6,1.0,0.0,76,1.0,3074,Girona
+,Cristian Gómez,es ESP,MF,8,3,0.0,0.0,2014-2015,/en/players/d9b41da8/Cristian-Gomez,d9b41da8,Girona,279,3.1,1.0,0.0,76,1.0,3072,Girona
+,David García,es ESP,DF,11,2,0.0,0.0,2014-2015,/en/players/f47bf593/David-Garcia,f47bf593,Girona,250,2.8,2.0,0.0,76,1.0,2997,Girona
+,David Bigas,es ESP,"DF,MF",2,2,0.0,0.0,2014-2015,/en/players/d9fa991c/David-Bigas,d9fa991c,Girona,117,1.3,1.0,1.0,76,1.0,5599,Girona
+,Juanlu,es ESP,"FW,MF",6,0,0.0,0.0,2014-2015,/en/players/431ac3e7/Juanlu,431ac3e7,Girona,106,1.2,1.0,1.0,76,1.0,896,Girona
+,Gerard Bordas,es ESP,"FW,MF",4,0,0.0,1.0,2014-2015,/en/players/56ef2fd7/Gerard-Bordas,56ef2fd7,Girona,66,0.7,0.0,0.0,76,1.0,2762,Girona
+,Marc Rovirola,es ESP,MF,5,0,1.0,0.0,2014-2015,/en/players/38d28d92/Marc-Rovirola,38d28d92,Girona,49,0.5,0.0,0.0,76,1.0,3810,Girona
+,Jordi Pecas,,,1,0,0.0,0.0,2014-2015,No detected,,Girona,12,0.1,0.0,0.0,76,,90298,Girona
+,Adrià Carmona,es ESP,"FW,MF",0,0,,,2014-2015,/en/players/9e95dc9e/Adria-Carmona,9e95dc9e,Girona,,,,,76,1.0,3601,Girona
+,Cifu,es ESP,"DF,MF",0,0,,,2014-2015,/en/players/90f83973/Cifu,90f83973,Girona,,,,,76,1.0,2417,Girona
+,Adri Montoro,es ESP,DF,0,0,,,2014-2015,/en/players/63da5cf7/Adri-Montoro,63da5cf7,Girona,,,,,76,1.0,4656,Girona
+,Jorge Palatsí,es ESP,GK,0,0,,,2014-2015,/en/players/cd66e46b/Jorge-Palatsi,cd66e46b,Girona,,,,,76,1.0,2769,Girona
+,﻿Isaac Becerra,es ESP,GK,42,42,0.0,0.0,2015-2016,/en/players/bee5d245/Isaac-Becerra,bee5d245,Girona,"3,780",42.0,4.0,0.0,76,1.0,2634,Girona
+,Kiko Olivas,es ESP,DF,42,42,0.0,4.0,2015-2016,/en/players/72b07a9c/Kiko-Olivas,72b07a9c,Girona,"3,764",41.8,3.0,0.0,76,1.0,2337,Girona
+,Florian Lejeune,fr FRA,"DF,MF",38,38,0.0,3.0,2015-2016,/en/players/6eaed4eb/Florian-Lejeune,6eaed4eb,Girona,"3,265",36.3,15.0,1.0,76,4.0,2763,Girona
+,Carlos Clerc,es ESP,DF,40,37,3.0,1.0,2015-2016,/en/players/33a61a52/Carlos-Clerc,33a61a52,Girona,"3,170",35.2,2.0,0.0,76,1.0,2080,Girona
+,Pere Pons,es ESP,MF,35,35,1.0,0.0,2015-2016,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,"3,065",34.1,8.0,1.0,76,1.0,3375,Girona
+,Álex Granell,es ESP,MF,36,30,2.0,4.0,2015-2016,/en/players/a25250f8/Alex-Granell,25250f8,Girona,"2,762",30.7,10.0,0.0,76,1.0,5600,Girona
+,Pedro Alcalá,es ESP,DF,32,30,1.0,1.0,2015-2016,/en/players/ba71d071/Pedro-Alcala,ba71d071,Girona,"2,662",29.6,10.0,1.0,76,1.0,3955,Girona
+,Jaime Mata,es ESP,FW,38,29,1.0,9.0,2015-2016,/en/players/02319ad7/Jaime-Mata,02319ad7,Girona,"2,487",27.6,9.0,1.0,76,1.0,2637,Girona
+,Eloi Amagat,es ESP,MF,28,23,3.0,1.0,2015-2016,/en/players/12a875ce/Eloi-Amagat,12a875ce,Girona,"1,860",20.7,9.0,0.0,76,1.0,5590,Girona
+,Borja García,es ESP,"FW,MF",31,19,5.0,2.0,2015-2016,/en/players/e7f4603c/Borja-Garcia,7f4603c,Girona,"1,811",20.1,4.0,0.0,76,1.0,3441,Girona
+,Javi Álamo,es ESP,"FW,MF",27,18,5.0,0.0,2015-2016,/en/players/ffd69308/Javi-Alamo,ffd69308,Girona,"1,689",18.8,8.0,1.0,76,1.0,2089,Girona
+,Aday,es ESP,"DF,MF",26,18,2.0,1.0,2015-2016,/en/players/5890cef1/Aday,5890cef1,Girona,"1,466",16.3,5.0,0.0,76,1.0,4856,Girona
+,Rubén Alcaraz,es ESP,MF,23,15,0.0,2.0,2015-2016,/en/players/036bba5f/Ruben-Alcaraz,036bba5f,Girona,"1,477",16.4,7.0,1.0,76,1.0,2658,Girona
+,Cristian Herrera,es ESP,"FW,MF",19,15,2.0,5.0,2015-2016,/en/players/f814e5d3/Cristian-Herrera,f814e5d3,Girona,"1,418",15.8,2.0,0.0,76,1.0,4637,Girona
+,Felipe Sanchón,es ESP,MF,19,15,2.0,0.0,2015-2016,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Girona,"1,247",13.9,2.0,0.0,76,1.0,4490,Girona
+,Jairo Morillas,es ESP,FW,24,12,2.0,6.0,2015-2016,/en/players/a0414cb4/Jairo-Morillas,0414cb4,Girona,"1,239",13.8,4.0,1.0,76,1.0,3080,Girona
+,Richy,es ESP,DF,16,12,0.0,0.0,2015-2016,/en/players/1d5089f0/Richy,1d5089f0,Girona,"1,208",13.4,2.0,0.0,76,1.0,698,Girona
+,Dejan Lekić,rs SRB,FW,15,10,0.0,5.0,2015-2016,/en/players/f73b1a65/Dejan-Lekic,f73b1a65,Girona,815,9.1,3.0,1.0,76,28.0,2042,Girona
+,Rubén Sobrino,es ESP,"FW,MF",10,7,0.0,2.0,2015-2016,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Girona,591,6.6,0.0,0.0,76,1.0,1005,Girona
+,Pol Llonch,es ESP,MF,11,5,0.0,0.0,2015-2016,/en/players/15f1b476/Pol-Llonch,15f1b476,Girona,423,4.7,1.0,0.0,76,1.0,5601,Girona
+,Sebas Coris,es ESP,"DF,FW",17,4,0.0,0.0,2015-2016,/en/players/b18da471/Sebas-Coris,b18da471,Girona,562,6.2,0.0,0.0,76,1.0,2093,Girona
+,Carles Mas,es ESP,DF,5,4,0.0,0.0,2015-2016,/en/players/aab81b65/Carles-Mas,b81b65,Girona,331,3.7,0.0,0.0,76,1.0,5592,Girona
+,Pablo Maffeo,es ESP,"DF,MF",10,2,0.0,0.0,2015-2016,/en/players/5db04597/Pablo-Maffeo,5db04597,Girona,336,3.7,3.0,0.0,76,1.0,1761,Girona
+,David Serrano,es ESP,FW,1,0,0.0,0.0,2015-2016,/en/players/b0f7dbcc/David-Serrano,b0f7dbcc,Girona,16,0.2,1.0,0.0,76,1.0,5602,Girona
+,Joel Arimany,es ESP,FW,1,0,0.0,0.0,2015-2016,/en/players/83a5ca71/Joel-Arimany,83a5ca71,Girona,5,0.1,0.0,0.0,76,1.0,5603,Girona
+,Albert Vivancos,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/d2abba68/Albert-Vivancos,d2abba68,Girona,2,0.0,0.0,0.0,76,1.0,5595,Girona
+,Marcelo Djaló,gw GNB,DF,0,0,,,2015-2016,/en/players/2ba40342/Marcelo-Djalo,2ba40342,Girona,,,,,76,93.0,5041,Girona
+,Chidiebere Nwakali,ng NGA,"DF,MF",0,0,,,2015-2016,/en/players/7244cb10/Chidiebere-Nwakali,7244cb10,Girona,,,,,76,52.0,5604,Girona
+,Germán Parreño,es ESP,GK,0,0,,,2015-2016,/en/players/1561cd53/German-Parreno,1561cd53,Girona,,,,,76,1.0,2927,Girona
+,﻿Pedro Alcalá,es ESP,DF,39,39,1.0,4.0,2016-2017,/en/players/ba71d071/Pedro-Alcala,ba71d071,Girona,"3,507",39.0,8.0,2.0,76,1.0,3955,Girona
+,Pere Pons,es ESP,MF,38,38,0.0,2.0,2016-2017,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,"3,323",36.9,5.0,0.0,76,1.0,3375,Girona
+,Portu,es ESP,"MF,FW",41,38,7.0,8.0,2016-2017,/en/players/1bda5842/Portu,1bda5842,Girona,"3,217",35.7,3.0,0.0,76,1.0,338,Girona
+,Juanpe,es ESP,DF,34,33,1.0,2.0,2016-2017,/en/players/1633fc8a/Juanpe,1633fc8a,Girona,"3,015",33.5,9.0,0.0,76,1.0,2617,Girona
+,Borja García,es ESP,"MF,FW",39,31,10.0,7.0,2016-2017,/en/players/e7f4603c/Borja-Garcia,7f4603c,Girona,"2,801",31.1,3.0,0.0,76,1.0,3441,Girona
+,Jonás Ramalho,es ESP,DF,31,30,0.0,2.0,2016-2017,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,"2,742",30.5,8.0,0.0,76,1.0,1300,Girona
+,Aday,es ESP,"DF,MF",35,30,9.0,0.0,2016-2017,/en/players/5890cef1/Aday,5890cef1,Girona,"2,585",28.7,7.0,2.0,76,1.0,4856,Girona
+,Francisco Sandaza,es ESP,FW,34,28,2.0,9.0,2016-2017,/en/players/d9ab42ff/Francisco-Sandaza,d9ab42ff,Girona,"2,413",26.8,7.0,0.0,76,1.0,5598,Girona
+,Álex Granell,es ESP,MF,31,25,6.0,2.0,2016-2017,/en/players/a25250f8/Alex-Granell,25250f8,Girona,"2,169",24.1,9.0,0.0,76,1.0,5600,Girona
+,Samuele Longo,it ITA,FW,37,23,2.0,14.0,2016-2017,/en/players/1163de29/Samuele-Longo,1163de29,Girona,"2,179",24.2,10.0,0.0,76,9.0,570,Girona
+,Yassine Bounou,ma MAR,GK,21,21,0.0,0.0,2016-2017,/en/players/f6798fc3/Yassine-Bounou,f6798fc3,Girona,"1,890",21.0,0.0,0.0,76,26.0,1950,Girona
+,René Román,es ESP,GK,21,21,0.0,0.0,2016-2017,/en/players/c4d5264d/Rene-Roman,c4d5264d,Girona,"1,890",21.0,1.0,0.0,76,1.0,4644,Girona
+,Kiko Olivas,es ESP,DF,17,17,0.0,1.0,2016-2017,/en/players/72b07a9c/Kiko-Olivas,72b07a9c,Girona,"1,413",15.7,2.0,0.0,76,1.0,2337,Girona
+,Sebas Coris,es ESP,"MF,DF",27,17,2.0,1.0,2016-2017,/en/players/b18da471/Sebas-Coris,b18da471,Girona,"1,325",14.7,1.0,0.0,76,1.0,2093,Girona
+,Cifu,es ESP,"DF,MF",24,16,0.0,0.0,2016-2017,/en/players/90f83973/Cifu,90f83973,Girona,"1,571",17.5,3.0,0.0,76,1.0,2417,Girona
+,Pablo Maffeo,es ESP,"DF,MF",14,13,1.0,1.0,2016-2017,/en/players/5db04597/Pablo-Maffeo,5db04597,Girona,"1,101",12.2,4.0,1.0,76,1.0,1761,Girona
+,Rubén Alcaraz,es ESP,"MF,DF",24,12,1.0,6.0,2016-2017,/en/players/036bba5f/Ruben-Alcaraz,036bba5f,Girona,"1,211",13.5,5.0,4.0,76,1.0,2658,Girona
+,Cristian Herrera,es ESP,FW,31,9,1.0,2.0,2016-2017,/en/players/f814e5d3/Cristian-Herrera,f814e5d3,Girona,"1,027",11.4,2.0,0.0,76,1.0,4637,Girona
+,Eloi Amagat,es ESP,MF,16,6,0.0,0.0,2016-2017,/en/players/12a875ce/Eloi-Amagat,12a875ce,Girona,638,7.1,6.0,0.0,76,1.0,5590,Girona
+,Pablo Marí,es ESP,DF,8,6,0.0,0.0,2016-2017,/en/players/aa54ec6f/Pablo-Mari,54ec6f,Girona,506,5.6,2.0,0.0,76,1.0,544,Girona
+,Johan Mojica,co COL,"DF,MF",9,5,0.0,0.0,2016-2017,/en/players/608f2092/Johan-Mojica,608f2092,Girona,560,6.2,0.0,0.0,76,19.0,2607,Girona
+,Saúl García,es ESP,DF,6,2,0.0,0.0,2016-2017,/en/players/dafa5038/Saul-Garcia,dafa5038,Girona,207,2.3,0.0,0.0,76,1.0,549,Girona
+,Juan Cámara,es ESP,MF,3,1,0.0,0.0,2016-2017,/en/players/f9656e16/Juan-Camara,f9656e16,Girona,116,1.3,0.0,0.0,76,1.0,1158,Girona
+,Felipe Sanchón,es ESP,FW,4,1,0.0,1.0,2016-2017,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Girona,116,1.3,0.0,0.0,76,1.0,4490,Girona
+,Marc Carbó,es ESP,MF,1,0,0.0,0.0,2016-2017,/en/players/d53104c7/Marc-Carbo,d53104c7,Girona,7,0.1,0.0,0.0,76,1.0,5605,Girona
+,Richy,es ESP,DF,1,0,0.0,0.0,2016-2017,/en/players/1d5089f0/Richy,1d5089f0,Girona,6,0.1,0.0,0.0,76,1.0,698,Girona
+,Gianni,es ESP,GK,0,0,,,2016-2017,/en/players/3bd112a4/Gianni,3bd112a4,Girona,,,,,76,1.0,5606,Girona
+,Marcel Lizak,pl POL,GK,0,0,,,2016-2017,/en/players/5fb08fb4/Marcel-Lizak,5fb08fb4,Girona,,,,,76,14.0,5609,Girona
+,David Serrano,es ESP,FW,0,0,,,2016-2017,/en/players/b0f7dbcc/David-Serrano,b0f7dbcc,Girona,,,,,76,1.0,5602,Girona
+,﻿Portu,es ESP,MF,37,35,5.0,11.0,2017-2018,/en/players/1bda5842/Portu,1bda5842,Girona,"2,997",33.3,4.0,0.0,76,1.0,338,Girona
+,Juanpe,es ESP,DF,35,34,1.0,5.0,2017-2018,/en/players/1633fc8a/Juanpe,1633fc8a,Girona,"3,065",34.1,7.0,0.0,76,1.0,2617,Girona
+,Borja García,es ESP,MF,37,34,5.0,2.0,2017-2018,/en/players/e7f4603c/Borja-Garcia,7f4603c,Girona,"2,798",31.1,2.0,0.0,76,1.0,3441,Girona
+,Álex Granell,es ESP,MF,34,33,7.0,1.0,2017-2018,/en/players/a25250f8/Alex-Granell,25250f8,Girona,"2,848",31.6,11.0,0.0,76,1.0,5600,Girona
+,Bernardo Espinosa,co COL,DF,34,32,3.0,0.0,2017-2018,/en/players/4242011c/Bernardo-Espinosa,4242011c,Girona,"2,868",31.9,7.0,0.0,76,19.0,1857,Girona
+,Cristhian Stuani,uy URU,FW,33,32,0.0,21.0,2017-2018,/en/players/220c11f1/Cristhian-Stuani,220c11f1,Girona,"2,710",30.1,8.0,0.0,76,8.0,2897,Girona
+,Pablo Maffeo,es ESP,DF,33,32,1.0,0.0,2017-2018,/en/players/5db04597/Pablo-Maffeo,5db04597,Girona,"2,642",29.4,10.0,0.0,76,1.0,1761,Girona
+,Yassine Bounou,ma MAR,GK,30,30,0.0,0.0,2017-2018,/en/players/f6798fc3/Yassine-Bounou,f6798fc3,Girona,"2,655",29.5,2.0,0.0,76,26.0,1950,Girona
+,Pere Pons,es ESP,MF,31,30,2.0,0.0,2017-2018,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,"2,559",28.4,8.0,0.0,76,1.0,3375,Girona
+,Jonás Ramalho,es ESP,DF,26,25,0.0,0.0,2017-2018,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,"2,298",25.5,3.0,0.0,76,1.0,1300,Girona
+,Johan Mojica,co COL,DF,30,22,4.0,0.0,2017-2018,/en/players/608f2092/Johan-Mojica,608f2092,Girona,"2,135",23.7,6.0,0.0,76,19.0,2607,Girona
+,Aday,es ESP,DF,31,20,0.0,2.0,2017-2018,/en/players/5890cef1/Aday,5890cef1,Girona,"1,835",20.4,10.0,0.0,76,1.0,4856,Girona
+,Marc Muniesa,es ESP,DF,13,13,1.0,0.0,2017-2018,/en/players/4db76f57/Marc-Muniesa,4db76f57,Girona,"1,127",12.5,3.0,0.0,76,1.0,1126,Girona
+,David Timor,es ESP,"MF,DF",17,10,0.0,2.0,2017-2018,/en/players/174651c8/David-Timor,174651c8,Girona,925,10.3,8.0,0.0,76,1.0,2034,Girona
+,Gorka Iraizoz,es ESP,GK,9,8,0.0,0.0,2017-2018,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Girona,765,8.5,1.0,0.0,76,1.0,1274,Girona
+,Pedro Alcalá,es ESP,DF,8,8,0.0,1.0,2017-2018,/en/players/ba71d071/Pedro-Alcala,ba71d071,Girona,689,7.7,4.0,0.0,76,1.0,3955,Girona
+,Aleix García,es ESP,MF,20,7,0.0,1.0,2017-2018,/en/players/a10361d2/Aleix-Garcia,10361d2,Girona,852,9.5,3.0,0.0,76,1.0,5268,Girona
+,Anthony Lozano,hn HON,"FW,MF",14,4,0.0,1.0,2017-2018,/en/players/38699c72/Anthony-Lozano,38699c72,Girona,471,5.2,0.0,0.0,76,107.0,4408,Girona
+,Michael Olunga,ke KEN,"FW,MF",14,4,1.0,3.0,2017-2018,/en/players/48593154/Michael-Olunga,48593154,Girona,433,4.8,0.0,0.0,76,38.0,90299,Girona
+,Olarenwaju Kayode,ng NGA,"FW,MF",12,2,0.0,0.0,2017-2018,/en/players/d3272fba/Olarenwaju-Kayode,d3272fba,Girona,383,4.3,2.0,0.0,76,52.0,5607,Girona
+,Carles Planas,es ESP,DF,5,2,1.0,0.0,2017-2018,/en/players/72b92c4e/Carles-Planas,72b92c4e,Girona,192,2.1,0.0,0.0,76,1.0,770,Girona
+,Douglas Luiz,br BRA,"MF,FW",15,1,0.0,0.0,2017-2018,/en/players/6f7d826d/Douglas-Luiz,6f7d826d,Girona,309,3.4,3.0,0.0,76,2.0,5608,Girona
+,Marlos Moreno,co COL,"MF,DF",2,0,0.0,0.0,2017-2018,/en/players/8499c713/Marlos-Moreno,8499c713,Girona,30,0.3,0.0,0.0,76,19.0,521,Girona
+,Kévin Soni,cm CMR,MF,2,0,0.0,0.0,2017-2018,/en/players/6435143e/Kevin-Soni,6435143e,Girona,19,0.2,0.0,0.0,76,36.0,3108,Girona
+,Eloi Amagat,es ESP,MF,2,0,0.0,0.0,2017-2018,/en/players/12a875ce/Eloi-Amagat,12a875ce,Girona,15,0.2,0.0,0.0,76,1.0,5590,Girona
+,Marcel Lizak,pl POL,GK,0,0,,,2017-2018,/en/players/5fb08fb4/Marcel-Lizak,5fb08fb4,Girona,,,,,76,14.0,5609,Girona
+,﻿Portu,es ESP,"MF,FW",34,33,2.0,9.0,2018-2019,/en/players/1bda5842/Portu,1bda5842,Girona,"2,821",31.3,3.0,0.0,76,1.0,338,Girona
+,Yassine Bounou,ma MAR,GK,32,32,0.0,0.0,2018-2019,/en/players/f6798fc3/Yassine-Bounou,f6798fc3,Girona,"2,861",31.8,2.0,0.0,76,26.0,1950,Girona
+,Pere Pons,es ESP,MF,34,32,2.0,1.0,2018-2019,/en/players/29b61deb/Pere-Pons,29b61deb,Girona,"2,792",31.0,4.0,0.0,76,1.0,3375,Girona
+,Juanpe,es ESP,DF,33,31,0.0,0.0,2018-2019,/en/players/1633fc8a/Juanpe,1633fc8a,Girona,"2,767",30.7,8.0,0.0,76,1.0,2617,Girona
+,Bernardo Espinosa,co COL,DF,31,31,1.0,1.0,2018-2019,/en/players/4242011c/Bernardo-Espinosa,4242011c,Girona,"2,727",30.3,6.0,2.0,76,19.0,1857,Girona
+,Cristhian Stuani,uy URU,FW,32,30,0.0,19.0,2018-2019,/en/players/220c11f1/Cristhian-Stuani,220c11f1,Girona,"2,729",30.3,9.0,0.0,76,8.0,2897,Girona
+,Borja García,es ESP,"MF,FW",33,30,3.0,1.0,2018-2019,/en/players/e7f4603c/Borja-Garcia,7f4603c,Girona,"2,629",29.2,0.0,1.0,76,1.0,3441,Girona
+,Álex Granell,es ESP,"MF,DF",32,26,4.0,0.0,2018-2019,/en/players/a25250f8/Alex-Granell,25250f8,Girona,"2,391",26.6,5.0,0.0,76,1.0,5600,Girona
+,Pedro Porro,es ESP,DF,32,25,4.0,0.0,2018-2019,/en/players/27d0a506/Pedro-Porro,27d0a506,Girona,"2,211",24.6,4.0,0.0,76,1.0,2671,Girona
+,Pedro Alcalá,es ESP,DF,25,20,1.0,1.0,2018-2019,/en/players/ba71d071/Pedro-Alcala,ba71d071,Girona,"1,868",20.8,9.0,0.0,76,1.0,3955,Girona
+,Aleix García,es ESP,MF,31,20,1.0,2.0,2018-2019,/en/players/a10361d2/Aleix-Garcia,10361d2,Girona,"1,663",18.5,1.0,0.0,76,1.0,5268,Girona
+,Jonás Ramalho,es ESP,DF,22,18,0.0,1.0,2018-2019,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,"1,619",18.0,4.0,0.0,76,1.0,1300,Girona
+,Douglas Luiz,br BRA,MF,23,16,0.0,0.0,2018-2019,/en/players/6f7d826d/Douglas-Luiz,6f7d826d,Girona,"1,490",16.6,7.0,0.0,76,2.0,5608,Girona
+,Marc Muniesa,es ESP,"DF,MF",19,15,0.0,0.0,2018-2019,/en/players/4db76f57/Marc-Muniesa,4db76f57,Girona,"1,406",15.6,6.0,0.0,76,1.0,1126,Girona
+,Valery,es ESP,DF,17,10,1.0,0.0,2018-2019,/en/players/4acd733a/Valery,4acd733a,Girona,888,9.9,2.0,0.0,76,1.0,5610,Girona
+,Raúl García,es ESP,DF,10,10,1.0,0.0,2018-2019,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Girona,850,9.4,1.0,0.0,76,1.0,440,Girona
+,Aday,es ESP,"DF,MF",10,8,2.0,0.0,2018-2019,/en/players/5890cef1/Aday,5890cef1,Girona,645,7.2,2.0,0.0,76,1.0,4856,Girona
+,Anthony Lozano,hn HON,"MF,FW",20,7,0.0,0.0,2018-2019,/en/players/38699c72/Anthony-Lozano,38699c72,Girona,730,8.1,4.0,1.0,76,107.0,4408,Girona
+,Patrick Roberts,eng ENG,MF,19,6,0.0,0.0,2018-2019,/en/players/59d93937/Patrick-Roberts,59d93937,Girona,601,6.7,0.0,0.0,76,6.0,5611,Girona
+,Gorka Iraizoz,es ESP,GK,7,6,0.0,0.0,2018-2019,/en/players/26f2473f/Gorka-Iraizoz,26f2473f,Girona,559,6.2,0.0,0.0,76,1.0,1274,Girona
+,Seydou Doumbia,ci CIV,"FW,MF",17,5,0.0,2.0,2018-2019,/en/players/c49afee6/Seydou-Doumbia,c49afee6,Girona,541,6.0,2.0,0.0,76,35.0,5612,Girona
+,Carles Planas,es ESP,DF,7,4,1.0,0.0,2018-2019,/en/players/72b92c4e/Carles-Planas,72b92c4e,Girona,419,4.7,3.0,0.0,76,1.0,770,Girona
+,David Timor,es ESP,MF,2,2,0.0,0.0,2018-2019,/en/players/174651c8/David-Timor,174651c8,Girona,163,1.8,0.0,0.0,76,1.0,2034,Girona
+,Kévin Soni,cm CMR,"FW,MF",5,1,0.0,0.0,2018-2019,/en/players/6435143e/Kevin-Soni,6435143e,Girona,82,0.9,1.0,0.0,76,36.0,3108,Girona
+,Paik Seung-ho,kr KOR,"FW,MF",3,0,0.0,0.0,2018-2019,/en/players/1e1bea09/Paik-Seung-ho,1e1bea09,Girona,60,0.7,0.0,0.0,76,30.0,5613,Girona
+,Johan Mojica,co COL,MF,1,0,0.0,0.0,2018-2019,/en/players/608f2092/Johan-Mojica,608f2092,Girona,20,0.2,0.0,0.0,76,19.0,2607,Girona
+,Yhoan Andzouana,cg CGO,"DF,MF",0,0,,,2018-2019,/en/players/d91b8b16/Yhoan-Andzouana,d91b8b16,Girona,,,,,76,80.0,5614,Girona
+,Jose Aurelio Suarez,es ESP,GK,0,0,,,2018-2019,/en/players/968afa35/Jose-Aurelio-Suarez,968afa35,Girona,,,,,76,1.0,5615,Girona
+,Eric Montes,es ESP,DF,0,0,,,2018-2019,/en/players/a9873ff3/Eric-Montes,9873ff3,Girona,,,,,76,1.0,3871,Girona
+,Alejandro Pachón,es ESP,FW,0,0,,,2018-2019,/en/players/3c88ebb5/Alejandro-Pachon,3c88ebb5,Girona,,,,,76,1.0,5616,Girona
+,Marc Vito,es ESP,GK,0,0,,,2018-2019,/en/players/33a86671/Marc-Vito,33a86671,Girona,,,,,76,1.0,5350,Girona
+,﻿Cristhian Stuani,uy URU,FW,36,36,2.0,29.0,2019-2020,/en/players/220c11f1/Cristhian-Stuani,220c11f1,Girona,"3,191",35.5,8.0,1.0,76,8.0,2897,Girona
+,Álex Granell,es ESP,MF,38,36,1.0,2.0,2019-2020,/en/players/a25250f8/Alex-Granell,25250f8,Girona,"3,076",34.2,11.0,1.0,76,1.0,5600,Girona
+,Juanpe,es ESP,DF,33,32,1.0,0.0,2019-2020,/en/players/1633fc8a/Juanpe,1633fc8a,Girona,"2,880",32.0,12.0,1.0,76,1.0,2617,Girona
+,Borja García,es ESP,"MF,FW",37,32,3.0,5.0,2019-2020,/en/players/e7f4603c/Borja-Garcia,7f4603c,Girona,"2,802",31.1,1.0,0.0,76,1.0,3441,Girona
+,Gerard Gumbau,es ESP,MF,38,32,1.0,1.0,2019-2020,/en/players/ac454a4f/Gerard-Gumbau,c454a4f,Girona,"2,750",30.6,13.0,0.0,76,1.0,1156,Girona
+,Pablo Maffeo,es ESP,DF,32,30,2.0,0.0,2019-2020,/en/players/5db04597/Pablo-Maffeo,5db04597,Girona,"2,563",28.5,7.0,0.0,76,1.0,1761,Girona
+,Johan Mojica,co COL,DF,33,29,0.0,0.0,2019-2020,/en/players/608f2092/Johan-Mojica,608f2092,Girona,"2,561",28.5,9.0,1.0,76,19.0,2607,Girona
+,Pedro Alcalá,es ESP,DF,28,26,2.0,0.0,2019-2020,/en/players/ba71d071/Pedro-Alcala,ba71d071,Girona,"2,357",26.2,7.0,0.0,76,1.0,3955,Girona
+,Aday,es ESP,"MF,DF",30,24,2.0,2.0,2019-2020,/en/players/5890cef1/Aday,5890cef1,Girona,"2,100",23.3,8.0,0.0,76,1.0,4856,Girona
+,Juan Carlos,es ESP,GK,21,21,0.0,0.0,2019-2020,/en/players/688b96e3/Juan-Carlos,688b96e3,Girona,"1,890",21.0,1.0,0.0,76,1.0,3452,Girona
+,Asier Riesgo,es ESP,GK,21,21,0.0,0.0,2019-2020,/en/players/581c5276/Asier-Riesgo,581c5276,Girona,"1,890",21.0,0.0,0.0,76,1.0,218,Girona
+,Jairo Izquierdo,es ESP,"MF,FW",34,20,1.0,0.0,2019-2020,/en/players/2ceb58ab/Jairo-Izquierdo,2ceb58ab,Girona,"1,859",20.7,2.0,0.0,76,1.0,3958,Girona
+,Samuel Sáiz,es ESP,MF,30,18,2.0,2.0,2019-2020,/en/players/13e0eb29/Samuel-Saiz,13e0eb29,Girona,"1,646",18.3,6.0,0.0,76,1.0,4036,Girona
+,Ignasi Miquel,es ESP,DF,18,18,0.0,0.0,2019-2020,/en/players/174f09a6/Ignasi-Miquel,174f09a6,Girona,"1,531",17.0,7.0,0.0,76,1.0,2428,Girona
+,Álex Gallar,es ESP,"MF,FW",32,16,3.0,0.0,2019-2020,/en/players/36d5469c/Alex-Gallar,36d5469c,Girona,"1,423",15.8,4.0,0.0,76,1.0,5006,Girona
+,Marc Gual,es ESP,"MF,FW",19,13,2.0,4.0,2019-2020,/en/players/c2bdbd22/Marc-Gual,c2bdbd22,Girona,"1,165",12.9,1.0,0.0,76,1.0,3656,Girona
+,Jonás Ramalho,es ESP,DF,17,12,0.0,0.0,2019-2020,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,"1,170",13.0,2.0,0.0,76,1.0,1300,Girona
+,Pape Maly Diamanka,sn SEN,MF,23,12,0.0,0.0,2019-2020,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Girona,"1,036",11.5,3.0,0.0,76,34.0,3455,Girona
+,Brian Oliván,es ESP,DF,10,7,0.0,0.0,2019-2020,/en/players/a3e4bf46/Brian-Olivan,3e4bf46,Girona,678,7.5,1.0,1.0,76,1.0,1752,Girona
+,Jordi Calavera,es ESP,"DF,MF",9,7,0.0,0.0,2019-2020,/en/players/bdef8cdb/Jordi-Calavera,bdef8cdb,Girona,588,6.5,5.0,0.0,76,1.0,4514,Girona
+,Brandon,es ESP,"MF,FW",9,5,0.0,2.0,2019-2020,/en/players/3e016e5a/Brandon,3e016e5a,Girona,539,6.0,1.0,0.0,76,1.0,1648,Girona
+,Jozabed,es ESP,MF,12,5,1.0,0.0,2019-2020,/en/players/9b337c7c/Jozabed,9b337c7c,Girona,499,5.5,0.0,0.0,76,1.0,786,Girona
+,Cristian Rivera,es ESP,MF,8,5,0.0,0.0,2019-2020,/en/players/8ef81d2d/Cristian-Rivera,8ef81d2d,Girona,382,4.2,0.0,1.0,76,1.0,4789,Girona
+,Valery,es ESP,"MF,DF",8,3,0.0,0.0,2019-2020,/en/players/4acd733a/Valery,4acd733a,Girona,324,3.6,1.0,0.0,76,1.0,5610,Girona
+,Jonathan Soriano,es ESP,FW,16,1,1.0,1.0,2019-2020,/en/players/036fb721/Jonathan-Soriano,036fb721,Girona,329,3.7,1.0,0.0,76,1.0,3030,Girona
+,Joaquín Zeballos,uy URU,FW,4,1,0.0,0.0,2019-2020,/en/players/5ed78e99/Joaquin-Zeballos,5ed78e99,Girona,124,1.4,1.0,0.0,76,8.0,5617,Girona
+,Ibrahima Kebe,ml MLI,MF,2,0,0.0,0.0,2019-2020,/en/players/047759a0/Ibrahima-Kebe,047759a0,Girona,29,0.3,0.0,0.0,76,12.0,5618,Girona
+,Pau Victor Delgado,es ESP,FW,1,0,0.0,0.0,2019-2020,/en/players/e6e7c819/Pau-Victor-Delgado,6e7c819,Girona,23,0.3,0.0,0.0,76,1.0,5619,Girona
+,Anthony Lozano,hn HON,FW,1,0,0.0,0.0,2019-2020,/en/players/38699c72/Anthony-Lozano,38699c72,Girona,8,0.1,0.0,0.0,76,107.0,4408,Girona
+,Santiago Bueno,uy URU,DF,1,0,0.0,0.0,2019-2020,/en/players/edc98fac/Santiago-Bueno,dc98fac,Girona,4,0.0,0.0,0.0,76,8.0,5620,Girona
+,Jose Aurelio Suarez,es ESP,GK,0,0,,,2019-2020,/en/players/968afa35/Jose-Aurelio-Suarez,968afa35,Girona,,,,,76,1.0,5615,Girona
+,Yassine Bounou,ma MAR,GK,0,0,,,2019-2020,/en/players/f6798fc3/Yassine-Bounou,f6798fc3,Girona,,,,,76,26.0,1950,Girona
+,Carlos,es ESP,FW,0,0,,,2019-2020,/en/players/4a34fc5c/Carlos,4a34fc5c,Girona,,,,,76,1.0,5621,Girona
+,Ilyas Chaira,ma MAR,FW,0,0,,,2019-2020,/en/players/c998f00f/Ilyas-Chaira,c998f00f,Girona,,,,,76,26.0,5622,Girona
+,Jofre Cherta,es ESP,MF,0,0,,,2019-2020,/en/players/aae32d4d/Jofre-Cherta,32d4d,Girona,,,,,76,1.0,5623,Girona
+,Sebas Coris,es ESP,"DF,FW",0,0,,,2019-2020,/en/players/b18da471/Sebas-Coris,b18da471,Girona,,,,,76,1.0,2093,Girona
+,Pau Resta,es ESP,DF,0,0,,,2019-2020,/en/players/19170de2/Pau-Resta,19170de2,Girona,,,,,76,1.0,3875,Girona
+,﻿Juan Carlos,es ESP,GK,40,40,0.0,0.0,2020-2021,/en/players/688b96e3/Juan-Carlos,688b96e3,Girona,"3,600",40.0,2.0,0.0,76,1.0,3452,Girona
+,Santiago Bueno,uy URU,DF,36,34,0.0,2.0,2020-2021,/en/players/edc98fac/Santiago-Bueno,dc98fac,Girona,"3,062",34.0,7.0,1.0,76,8.0,5620,Girona
+,Monchu,es ESP,MF,39,34,1.0,3.0,2020-2021,/en/players/8ac501f5/Monchu,8ac501f5,Girona,"2,940",32.7,6.0,2.0,76,1.0,1195,Girona
+,Gerard Gumbau,es ESP,MF,38,33,6.0,1.0,2020-2021,/en/players/ac454a4f/Gerard-Gumbau,c454a4f,Girona,"2,715",30.2,11.0,0.0,76,1.0,1156,Girona
+,Bernardo Espinosa,co COL,DF,31,30,0.0,2.0,2020-2021,/en/players/4242011c/Bernardo-Espinosa,4242011c,Girona,"2,684",29.8,8.0,2.0,76,19.0,1857,Girona
+,Mamadou Sylla,sn SEN,"FW,MF",36,28,4.0,9.0,2020-2021,/en/players/e5ec95f8/Mamadou-Sylla,5ec95f8,Girona,"2,586",28.7,6.0,1.0,76,34.0,2926,Girona
+,Jordi Calavera,es ESP,DF,27,25,3.0,0.0,2020-2021,/en/players/bdef8cdb/Jordi-Calavera,bdef8cdb,Girona,"2,146",23.8,3.0,0.0,76,1.0,4514,Girona
+,Sebastián Cristóforo,uy URU,MF,33,25,0.0,0.0,2020-2021,/en/players/3c05c659/Sebastian-Cristoforo,3c05c659,Girona,"1,973",21.9,5.0,1.0,76,8.0,1883,Girona
+,Édgar Yoel Bárcenas,pa PAN,"MF,FW",36,24,3.0,3.0,2020-2021,/en/players/b39849eb/Edgar-Yoel-Barcenas,b39849eb,Girona,"2,171",24.1,1.0,0.0,76,89.0,5567,Girona
+,Samuel Sáiz,es ESP,"MF,FW",30,24,3.0,3.0,2020-2021,/en/players/13e0eb29/Samuel-Saiz,13e0eb29,Girona,"2,029",22.5,7.0,0.0,76,1.0,4036,Girona
+,Enric Franquesa,es ESP,"DF,MF",27,21,1.0,3.0,2020-2021,/en/players/40883e3a/Enric-Franquesa,40883e3a,Girona,"1,875",20.8,2.0,1.0,76,1.0,4211,Girona
+,Cristhian Stuani,uy URU,FW,25,20,2.0,10.0,2020-2021,/en/players/220c11f1/Cristhian-Stuani,220c11f1,Girona,"1,722",19.1,4.0,0.0,76,8.0,2897,Girona
+,Yan Couto,br BRA,"MF,DF",22,17,4.0,1.0,2020-2021,/en/players/1944818c/Yan-Couto,1944818c,Girona,"1,661",18.5,4.0,0.0,76,2.0,5624,Girona
+,Aday,es ESP,"MF,DF",21,17,1.0,0.0,2020-2021,/en/players/5890cef1/Aday,5890cef1,Girona,"1,271",14.1,6.0,0.0,76,1.0,4856,Girona
+,Antonio Luna,es ESP,DF,19,16,0.0,0.0,2020-2021,/en/players/ed239245/Antonio-Luna,d239245,Girona,"1,343",14.9,3.0,1.0,76,1.0,1644,Girona
+,Juanpe,es ESP,DF,15,12,1.0,2.0,2020-2021,/en/players/1633fc8a/Juanpe,1633fc8a,Girona,"1,136",12.6,5.0,0.0,76,1.0,2617,Girona
+,Arnau Martinez,es ESP,DF,12,12,2.0,1.0,2020-2021,/en/players/c3e66ffe/Arnau-Martinez,c3e66ffe,Girona,"1,080",12.0,0.0,0.0,76,1.0,5625,Girona
+,Ramón Terrats,es ESP,MF,20,12,0.0,0.0,2020-2021,/en/players/f36016a5/Ramon-Terrats,f36016a5,Girona,"1,073",11.9,4.0,0.0,76,1.0,5626,Girona
+,Nahuel Bustos,ar ARG,FW,30,9,1.0,2.0,2020-2021,/en/players/8f774c7f/Nahuel-Bustos,8f774c7f,Girona,910,10.1,5.0,1.0,76,5.0,5627,Girona
+,Pablo Moreno,es ESP,"MF,FW",26,8,0.0,2.0,2020-2021,/en/players/2ce5a500/Pablo-Moreno,2ce5a500,Girona,833,9.3,4.0,0.0,76,1.0,5628,Girona
+,Jonás Ramalho,es ESP,DF,11,7,0.0,0.0,2020-2021,/en/players/be3a0121/Jonas-Ramalho,be3a0121,Girona,713,7.9,1.0,2.0,76,1.0,1300,Girona
+,Ibrahima Kebe,ml MLI,MF,25,5,0.0,0.0,2020-2021,/en/players/047759a0/Ibrahima-Kebe,047759a0,Girona,752,8.4,2.0,0.0,76,12.0,5618,Girona
+,Valery,es ESP,MF,15,4,0.0,2.0,2020-2021,/en/players/4acd733a/Valery,4acd733a,Girona,450,5.0,1.0,0.0,76,1.0,5610,Girona
+,Arijanet Muric,xk KVX,GK,2,2,0.0,0.0,2020-2021,/en/players/99aa1a84/Arijanet-Muric,99aa1a84,Girona,180,2.0,0.0,0.0,76,82.0,5629,Girona
+,Jairo Izquierdo,es ESP,MF,2,2,0.0,0.0,2020-2021,/en/players/2ceb58ab/Jairo-Izquierdo,2ceb58ab,Girona,159,1.8,1.0,0.0,76,1.0,3958,Girona
+,Alejandro Pachón,es ESP,FW,4,1,0.0,0.0,2020-2021,/en/players/3c88ebb5/Alejandro-Pachon,3c88ebb5,Girona,115,1.3,0.0,0.0,76,1.0,5616,Girona
+,Pau Victor Delgado,es ESP,FW,7,0,0.0,0.0,2020-2021,/en/players/e6e7c819/Pau-Victor-Delgado,6e7c819,Girona,108,1.2,0.0,0.0,76,1.0,5619,Girona
+,Álex Granell,es ESP,MF,2,0,0.0,0.0,2020-2021,/en/players/a25250f8/Alex-Granell,25250f8,Girona,37,0.4,0.0,0.0,76,1.0,5600,Girona
+,Joaquín Zeballos,uy URU,FW,1,0,0.0,0.0,2020-2021,/en/players/5ed78e99/Joaquin-Zeballos,5ed78e99,Girona,12,0.1,0.0,0.0,76,8.0,5617,Girona
+,Eric Monjonell,es ESP,DF,1,0,0.0,0.0,2020-2021,/en/players/42593c71/Eric-Monjonell,42593c71,Girona,9,0.1,0.0,0.0,76,1.0,5630,Girona
+,Adrián Turmo,,FW,1,0,0.0,0.0,2020-2021,/en/players/44f84f7f/Adrian-Turmo,44f84f7f,Girona,9,0.1,0.0,0.0,76,,90300,Girona
+,Jandro,,FW,1,0,0.0,0.0,2020-2021,/en/players/f8140ce4/Jandro,f8140ce4,Girona,4,0.0,0.0,0.0,76,,90301,Girona
+,Pedro Alcalá,es ESP,DF,0,0,,,2020-2021,/en/players/ba71d071/Pedro-Alcala,ba71d071,Girona,,,,,76,1.0,3955,Girona
+,Jose Aurelio Suarez,es ESP,GK,0,0,,,2020-2021,/en/players/968afa35/Jose-Aurelio-Suarez,968afa35,Girona,,,,,76,1.0,5615,Girona
+,Suleiman Camara Sanneh,se SWE,FW,0,0,,,2020-2021,/en/players/138957de/Suleiman-Camara-Sanneh,138957de,Girona,,,,,76,41.0,5631,Girona
+,Álex González,es ESP,FW,0,0,,,2020-2021,/en/players/b1f0a1b9/Alex-Gonzalez,b1f0a1b9,Girona,,,,,76,1.0,5632,Girona
+,Pape Maly Diamanka,sn SEN,MF,0,0,,,2020-2021,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Girona,,,,,76,34.0,3455,Girona
+,Jonathan Morilla Bolancé,es ESP,GK,0,0,,,2020-2021,/en/players/2f2a8408/Jonathan-Morilla-Bolance,2f2a8408,Girona,,,,,76,1.0,5633,Girona
+,Adrián Ortolá,es ESP,GK,0,0,,,2020-2021,/en/players/6a22fe38/Adrian-Ortola,6a22fe38,Girona,,,,,76,1.0,558,Girona
+,Pau Resta,es ESP,DF,0,0,,,2020-2021,/en/players/19170de2/Pau-Resta,19170de2,Girona,,,,,76,1.0,3875,Girona
+,﻿Bernardo Espinosa,co COL,DF,39,39,0.0,3.0,2021-2022,/en/players/4242011c/Bernardo-Espinosa,4242011c,Girona,"3,370",37.4,7.0,0.0,76,19.0,1857,Girona
+,Juan Carlos,es ESP,GK,38,38,0.0,0.0,2021-2022,/en/players/688b96e3/Juan-Carlos,688b96e3,Girona,"3,420",38.0,3.0,0.0,76,1.0,3452,Girona
+,Juanpe,es ESP,DF,38,37,1.0,2.0,2021-2022,/en/players/1633fc8a/Juanpe,1633fc8a,Girona,"3,316",36.8,9.0,0.0,76,1.0,2617,Girona
+,Aleix García,es ESP,MF,38,36,4.0,0.0,2021-2022,/en/players/a10361d2/Aleix-Garcia,10361d2,Girona,"3,164",35.2,7.0,0.0,76,1.0,5268,Girona
+,Arnau Martinez,es ESP,"DF,MF",36,36,5.0,1.0,2021-2022,/en/players/c3e66ffe/Arnau-Martinez,c3e66ffe,Girona,"3,129",34.8,2.0,0.0,76,1.0,5625,Girona
+,Alex Baena,es ESP,"MF,FW",38,35,6.0,5.0,2021-2022,/en/players/518f2234/Alex-Baena,518f2234,Girona,"2,807",31.2,16.0,1.0,76,1.0,2810,Girona
+,Santiago Bueno,uy URU,DF,31,30,2.0,1.0,2021-2022,/en/players/edc98fac/Santiago-Bueno,dc98fac,Girona,"2,672",29.7,5.0,0.0,76,8.0,5620,Girona
+,Jairo Izquierdo,es ESP,"DF,MF",34,29,4.0,0.0,2021-2022,/en/players/2ceb58ab/Jairo-Izquierdo,2ceb58ab,Girona,"2,468",27.4,4.0,1.0,76,1.0,3958,Girona
+,Cristhian Stuani,uy URU,FW,37,27,1.0,22.0,2021-2022,/en/players/220c11f1/Cristhian-Stuani,220c11f1,Girona,"2,594",28.8,12.0,0.0,76,8.0,2897,Girona
+,Samuel Sáiz,es ESP,"FW,MF",36,24,6.0,3.0,2021-2022,/en/players/13e0eb29/Samuel-Saiz,13e0eb29,Girona,"2,129",23.7,6.0,1.0,76,1.0,4036,Girona
+,Borja García,es ESP,MF,27,24,2.0,1.0,2021-2022,/en/players/e7f4603c/Borja-Garcia,7f4603c,Girona,"1,906",21.2,3.0,1.0,76,1.0,3441,Girona
+,Pol Lozano,es ESP,MF,27,21,2.0,1.0,2021-2022,/en/players/ea610f00/Pol-Lozano,610f00,Girona,"1,883",20.9,6.0,0.0,76,1.0,3107,Girona
+,Nahuel Bustos,ar ARG,FW,38,15,2.0,11.0,2021-2022,/en/players/8f774c7f/Nahuel-Bustos,8f774c7f,Girona,"1,415",15.7,5.0,0.0,76,5.0,5627,Girona
+,Ramón Terrats,es ESP,"MF,DF",18,13,0.0,0.0,2021-2022,/en/players/f36016a5/Ramon-Terrats,f36016a5,Girona,"1,056",11.7,4.0,0.0,76,1.0,5626,Girona
+,David Juncà,es ESP,"DF,MF",25,12,1.0,1.0,2021-2022,/en/players/de7d40d6/David-Junca,de7d40d6,Girona,"1,036",11.5,1.0,1.0,76,1.0,806,Girona
+,Valery,es ESP,"MF,DF",25,9,0.0,1.0,2021-2022,/en/players/4acd733a/Valery,4acd733a,Girona,971,10.8,2.0,0.0,76,1.0,5610,Girona
+,Ibrahima Kebe,ml MLI,MF,26,7,0.0,1.0,2021-2022,/en/players/047759a0/Ibrahima-Kebe,047759a0,Girona,938,10.4,5.0,0.0,76,12.0,5618,Girona
+,Iván Martín,es ESP,MF,15,7,1.0,0.0,2021-2022,/en/players/ae48c5cb/Ivan-Martin,48c5cb,Girona,848,9.4,0.0,0.0,76,1.0,2805,Girona
+,Jordi Calavera,es ESP,"DF,MF",10,4,0.0,0.0,2021-2022,/en/players/bdef8cdb/Jordi-Calavera,bdef8cdb,Girona,414,4.6,2.0,0.0,76,1.0,4514,Girona
+,Adrián Ortolá,es ESP,GK,4,4,0.0,0.0,2021-2022,/en/players/6a22fe38/Adrian-Ortola,6a22fe38,Girona,360,4.0,0.0,1.0,76,1.0,558,Girona
+,Oscar Ureña,es ESP,FW,9,4,0.0,0.0,2021-2022,/en/players/2dd7e29d/Oscar-Urena,2dd7e29d,Girona,326,3.6,1.0,0.0,76,1.0,5634,Girona
+,Víctor Sánchez,es ESP,MF,5,3,0.0,0.0,2021-2022,/en/players/ad4d0985/Victor-Sanchez,d4d0985,Girona,220,2.4,2.0,0.0,76,1.0,1118,Girona
+,Darío Sarmiento,ar ARG,FW,9,2,2.0,0.0,2021-2022,/en/players/343a0930/Dario-Sarmiento,343a0930,Girona,237,2.6,0.0,0.0,76,5.0,5635,Girona
+,Gerard Gumbau,es ESP,MF,2,2,0.0,0.0,2021-2022,/en/players/ac454a4f/Gerard-Gumbau,c454a4f,Girona,109,1.2,0.0,0.0,76,1.0,1156,Girona
+,Pablo Moreno,es ESP,FW,16,1,0.0,1.0,2021-2022,/en/players/2ce5a500/Pablo-Moreno,2ce5a500,Girona,311,3.5,1.0,0.0,76,1.0,5628,Girona
+,Gabri Martínez,es ESP,MF,7,1,0.0,0.0,2021-2022,/en/players/0c89e00b/Gabri-Martinez,0c89e00b,Girona,143,1.6,0.0,0.0,76,1.0,5636,Girona
+,Biel Farres,es ESP,DF,2,1,0.0,0.0,2021-2022,/en/players/623d5294/Biel-Farres,623d5294,Girona,104,1.2,0.0,0.0,76,1.0,5637,Girona
+,Mamadou Sylla,sn SEN,FW,1,1,0.0,0.0,2021-2022,/en/players/e5ec95f8/Mamadou-Sylla,5ec95f8,Girona,51,0.6,0.0,0.0,76,34.0,2926,Girona
+,Ricard Artero,es ESP,MF,11,0,1.0,0.0,2021-2022,/en/players/5d133e96/Ricard-Artero,5d133e96,Girona,139,1.5,0.0,0.0,76,1.0,5638,Girona
+,Álex Sala,es ESP,MF,2,0,0.0,0.0,2021-2022,/en/players/93551864/Alex-Sala,93551864,Girona,7,0.1,0.0,0.0,76,1.0,5639,Girona
+,Dawda Camara,mr MTN,FW,1,0,0.0,0.0,2021-2022,/en/players/89b1ce31/Dawda-Camara,89b1ce31,Girona,6,0.1,0.0,0.0,76,94.0,90302,Girona
+,Suleiman Camara Sanneh,se SWE,FW,0,0,,,2021-2022,/en/players/138957de/Suleiman-Camara-Sanneh,138957de,Girona,,,,,76,41.0,5631,Girona
+,Casals,es ESP,MF,0,0,,,2021-2022,/en/players/ebeb2c4a/Casals,beb2c4a,Girona,,,,,76,1.0,5640,Girona
+,Álex Castro,es ESP,MF,0,0,,,2021-2022,/en/players/10bcf79d/Alex-Castro,10bcf79d,Girona,,,,,76,1.0,5641,Girona
+,Unai Hernandez,,MF,0,0,,,2021-2022,/en/players/24835a01/Unai-Hernandez,24835a01,Girona,,,,,76,,90303,Girona
+,Eric Monjonell,es ESP,DF,0,0,,,2021-2022,/en/players/42593c71/Eric-Monjonell,42593c71,Girona,,,,,76,1.0,5630,Girona
+,Jonathan Morilla Bolancé,es ESP,GK,0,0,,,2021-2022,/en/players/2f2a8408/Jonathan-Morilla-Bolance,2f2a8408,Girona,,,,,76,1.0,5633,Girona
+,Arnau Ortiz,es ESP,FW,0,0,,,2021-2022,/en/players/48da0ff0/Arnau-Ortiz,48da0ff0,Girona,,,,,76,1.0,5642,Girona
+,Pau Victor Delgado,es ESP,FW,0,0,,,2021-2022,/en/players/e6e7c819/Pau-Victor-Delgado,6e7c819,Girona,,,,,76,1.0,5619,Girona
+,Loïc Williams,es ESP,DF,0,0,,,2021-2022,/en/players/302a237e/Loic-Williams,302a237e,Girona,,,,,76,1.0,5643,Girona

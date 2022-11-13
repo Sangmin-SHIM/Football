@@ -1,105 +1,253 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-4222.0,Claudio Marini,/en/players/446a7d68/Claudio-Marini,Claudio-Marini,446a7d68,ar ARG,MF,Numancia
-4223.0,Jaime Molina,/en/players/2e1f6f32/Jaime-Molina,Jaime-Moli,2e1f6f32,es ESP,DF,Numancia
-4224.0,Daniel Fagiani,/en/players/e7524ca1/Daniel-Fagiani,Daniel-Fagiani,7524ca1,ar ARG,DF,Numancia
-4225.0,Miguel Ángel Núñez Acosta,/en/players/26030e9b/Miguel-Angel-Nunez-Acosta,Miguel-Angel-Nunez-Acost,26030e9b,es ESP,MF,Numancia
-4226.0,Pacheta,/en/players/7545007b/Pacheta,Pachet,7545007b,es ESP,MF,Numancia
-4227.0,Jesús Velasco,/en/players/13f8074d/Jesus-Velasco,Jesus-Velasco,13f8074d,es ESP,DF,Numancia
-4228.0,Pedro Ojeda,/en/players/60b2ae27/Pedro-Ojeda,Pedro-Ojed,60b2ae27,ar ARG,MF,Numancia
-4229.0,Diego Jaume,/en/players/9663d985/Diego-Jaume,Diego-Jaum,9663d985,uy URU,DF,Numancia
-4230.0,Álvaro Núñez,/en/players/4267e1a9/Alvaro-Nunez,Alvaro-Nunez,4267e1a9,uy URU,GK,Numancia
-4231.0,Octavio Viñals,/en/players/c2a9f580/Octavio-Vinals,Octavio-Vi,c2a9f580,es ESP,MF,Numancia
-4232.0,Patrick Suffo,/en/players/74f84d64/Patrick-Suffo,Patrick-Suffo,74f84d64,cm CMR,FW,Numancia
-4233.0,Sergio Sestelo,/en/players/3495d0f8/Sergio-Sestelo,Sergio-Sestelo,3495d0f8,es ESP,FW,Numancia
-4234.0,André Schei Lindbæk,/en/players/198eb259/Andre-Schei-Lindbaek,Andre-Schei-Lindbaek,198eb259,no NOR,FW,Numancia
-4235.0,Gallego,/en/players/94927f28/Gallego,Gallego,94927f28,es ESP,MF,Numancia
-4236.0,Juan Carlos Moreno,/en/players/74f2988b/Juan-Carlos-Moreno,Juan-Carlos-Moreno,74f2988b,es ESP,MF,Numancia
-4237.0,Julio Pineda,/en/players/09fc23e7/Julio-Pineda,Julio-Pined,09fc23e7,es ESP,FW,Numancia
-4238.0,Antonio González,/en/players/89f9eead/Antonio-Gonzalez,Antonio-Gonzalez,89f9eead,es ESP,DF,Numancia
-4239.0,Alberto Toril,/en/players/437bfac6/Alberto-Toril,Alberto-Tori,437bfac6,es ESP,MF,Numancia
-4240.0,Luis Tevenet,/en/players/95dd66c6/Luis-Tevenet,Luis-Tevenet,95dd66c6,es ESP,FW,Numancia
-4241.0,Juanpa,/en/players/75ef1517/Juanpa,Ju,75ef1517,es ESP,DF,Numancia
-4242.0,Miguel,/en/players/3ab5e487/Miguel,Migu,3ab5e487,es ESP,FW,Numancia
-4243.0,Aldo Osorio,/en/players/c366b111/Aldo-Osorio,Aldo-Osorio,c366b111,ar ARG,FW,Numancia
-4244.0,Silvio González,/en/players/6db4e9a5/Silvio-Gonzalez,Silvio-Gonzalez,6db4e9a5,ar ARG,FW,Numancia
-4245.0,Kostas Kiassos,/en/players/2bddd706/Kostas-Kiassos,Kostas-Kiasso,2bddd706,gr GRE,MF,Numancia
-4246.0,Mario,/en/players/4903e93a/Mario,Mario,4903e93a,es ESP,MF,Numancia
-4247.0,Javier del Pino,/en/players/e6279028/Javier-del-Pino,Javier-del-Pino,6279028,es ESP,FW,Numancia
-4248.0,Ariel Montenegro,/en/players/d5835cca/Ariel-Montenegro,Ariel-Montenegro,d5835cca,ar ARG,MF,Numancia
-4249.0,Rubén López,/en/players/e2403f1e/Ruben-Lopez,Ruben-Lopez,2403f1e,es ESP,DF,Numancia
-4250.0,Hamilton Ricard,/en/players/e08d8909/Hamilton-Ricard,Hamilton-Ricard,08d8909,co COL,FW,Numancia
-4251.0,Alberto Monteagudo,/en/players/eaf8a40b/Alberto-Monteagudo,Alberto-Monteagudo,f8a40b,es ESP,MF,Numancia
-4252.0,Kenji Fukuda,/en/players/889fd1fe/Kenji-Fukuda,Kenji-Fukud,889fd1fe,jp JPN,FW,Numancia
-4253.0,Egoitz Jaio Gabiola,/en/players/4e84787e/Egoitz-Jaio-Gabiola,Egoitz-Jaio-Gabio,4e84787e,es ESP,DF,Numancia
-4254.0,Dwight Pezzarossi,/en/players/26647970/Dwight-Pezzarossi,Dwight-Pezzarossi,26647970,gt GUA,FW,Numancia
-4255.0,Manuel Pavón,/en/players/828ab640/Manuel-Pavon,Manuel-Pavo,828ab640,es ESP,DF,Numancia
-4256.0,Asier Goiria,/en/players/1dfd7bbc/Asier-Goiria,Asier-Goiri,1dfd7bbc,es ESP,FW,Numancia
-4257.0,Marián Kelemen,/en/players/6f650bdb/Marian-Kelemen,Marian-Kelem,6f650bdb,sk SVK,GK,Numancia
-4258.0,Eduardo Navarro,/en/players/f5caacf3/Eduardo-Navarro,Eduardo-Navarro,f5caacf3,es ESP,GK,Numancia
-4259.0,Mikel Álvaro,/en/players/15b8ab8b/Mikel-Alvaro,Mikel-Alvaro,15b8ab8b,es ESP,MF,Numancia
-4260.0,Víctor Andrés,/en/players/e26a584f/Victor-Andres,Victor-And,26a584f,es ESP,MF,Numancia
-4261.0,Nandi,/en/players/c04b3dfb/Nandi,Nandi,c04b3dfb,es ESP,DF,Numancia
-4262.0,Diego Antón,/en/players/d0737c9d/Diego-Anton,Diego-Anto,d0737c9d,es ESP,FW,Numancia
-4263.0,Dani López,/en/players/da8aa199/Dani-Lopez,Dani-Lopez,da8aa199,es ESP,DF,Numancia
-4264.0,Diego de Miguel,/en/players/4b798eab/Diego-de-Miguel,Diego-de-Migu,4b798eab,es ESP,GK,Numancia
-4265.0,Javi Bonilla,/en/players/3d67cc6e/Javi-Bonilla,Javi-Boni,3d67cc6e,es ESP,MF,Numancia
-4266.0,Miguel Bedoya,/en/players/7753a08d/Miguel-Bedoya,Miguel-Bedo,7753a08d,es ESP,MF,Numancia
-4267.0,Ignacio Zabal,/en/players/9df85b2a/Ignacio-Zabal,Ignacio-Zab,9df85b2a,es ESP,GK,Numancia
-4268.0,Adrián Ripa,/en/players/c5a2ecfa/Adrian-Ripa,Adrian-Ri,c5a2ecfa,es ESP,DF,Numancia
-4269.0,Edu Gil,/en/players/cffecd08/Edu-Gil,Edu-Gi,cffecd08,es ESP,DF,Numancia
-4270.0,Francisco Regalón,/en/players/7b9f85b0/Francisco-Regalon,Francisco-Regalo,7b9f85b0,es ESP,DF,Numancia
-4271.0,Airam,/en/players/130471ce/Airam,Airam,130471ce,es ESP,FW,Numancia
-4272.0,Baltasar Rigo,/en/players/b80570db/Baltasar-Rigo,Baltasar-Rigo,b80570db,es ESP,DF,Numancia
-4273.0,David Martín,/en/players/e1e18b12/David-Martin,David-Marti,1e18b12,es ESP,FW,Numancia
-4274.0,Carlos Akapo,/en/players/f2a68b97/Carlos-Akapo,Carlos-Akapo,f2a68b97,gq EQG,DF,Numancia
-4275.0,Vicente Pérez,/en/players/f4927d11/Vicente-Perez,Vicente-Perez,f4927d11,es ESP,MF,Numancia
-4276.0,David González,/en/players/d65705c4/David-Gonzalez,David-Gonzalez,d65705c4,es ESP,MF,Numancia
-4277.0,Luis Valcarce,/en/players/8e5cde3f/Luis-Valcarce,Luis-Valcarc,8e5cde3f,es ESP,"DF,MF",Numancia
-4278.0,César Vinuesa,/en/players/f69b53dc/Cesar-Vinuesa,Cesar-Vinu,f69b53dc,es ESP,MF,Numancia
-4279.0,Gerrit Stoeten,/en/players/210ca6bf/Gerrit-Stoeten,Gerrit-Stoet,210ca6bf,es ESP,MF,Numancia
-4280.0,Álex Arias,/en/players/ef2a91c3/Alex-Arias,Alex-Ari,f2a91c3,es ESP,MF,Numancia
-4281.0,Edipo Rodríguez,/en/players/2b94f94c/Edipo-Rodriguez,Edipo-Rodriguez,2b94f94c,do DOM,MF,Numancia
-4282.0,Ito,/en/players/5393bd3a/Ito,Ito,5393bd3a,es ESP,FW,Numancia
-4283.0,Vallejo,/en/players/9353561a/Vallejo,Vallejo,9353561a,es ESP,GK,Numancia
-4284.0,Alexander Callens,/en/players/af34f10d/Alexander-Callens,Alexander-C,f34f10d,pe PER,DF,Numancia
-4285.0,Nacho,/en/players/0c78c871/Nacho,Nacho,0c78c871,es ESP,MF,Numancia
-4286.0,Antonio Martínez,/en/players/de3c4ef7/Antonio-Martinez,Antonio-Martinez,de3c4ef7,es ESP,MF,Numancia
-4287.0,Diego Ciria,/en/players/3eb15b9f/Diego-Ciria,Diego-Ciri,3eb15b9f,es ESP,DF,Numancia
-4288.0,Dani Nieto,/en/players/d7d46f3b/Dani-Nieto,Dani-Nieto,d7d46f3b,es ESP,"MF,FW",Numancia
-4289.0,Mikel Saizar,/en/players/b9ddfda6/Mikel-Saizar,Mikel-Saiz,b9ddfda6,es ESP,GK,Numancia
-4290.0,Binke Diabaté,/en/players/52470720/Binke-Diabate,Binke-Diabat,52470720,ml MLI,FW,Numancia
-4291.0,Pablo Sanz,/en/players/d8ac959b/Pablo-Sanz,Pablo-Sanz,d8ac959b,es ESP,FW,Numancia
-4292.0,Gorka Alegría,/en/players/1d4d2f37/Gorka-Alegria,Gorka-Alegri,1d4d2f37,es ESP,GK,Numancia
-4293.0,Sergio Madrigal,/en/players/9339d947/Sergio-Madrigal,Sergio-Madrig,9339d947,es ESP,MF,Numancia
-4294.0,Jorge Pomareta Pablos,/en/players/9d3e02ad/Jorge-Pomareta-Pablos,Jorge-Pomareta-Pablo,9d3e02ad,es ESP,DF,Numancia
-4295.0,Moha Sanhaji,/en/players/e70c3e94/Moha-Sanhaji,Moha-Sanhaji,70c3e94,ma MAR,MF,Numancia
-4296.0,Juan Silva,/en/players/a4ea9b5e/Juan-Silva,Juan-Silv,4ea9b5e,es ESP,FW,Numancia
-4297.0,Viti,/en/players/ab573a07/Viti,Viti,b573a07,es ESP,GK,Numancia
-4298.0,Carlos Gutiérrez,/en/players/933de879/Carlos-Gutierrez,Carlos-Gutierrez,933de879,es ESP,DF,Numancia
-4299.0,Unai Elgezabal,/en/players/01cc0c90/Unai-Elgezabal,Unai-Elgezab,01cc0c90,es ESP,DF,Numancia
-4300.0,Grego Sierra,/en/players/2710e38b/Grego-Sierra,Grego-Si,2710e38b,es ESP,MF,Numancia
-4301.0,Ali Al Nemer,/en/players/4d20e7a7/Ali-Al-Nemer,Ali-Al-Nem,4d20e7a7,sa KSA,MF,Numancia
-4302.0,Yaw Yeboah,/en/players/36292031/Yaw-Yeboah,Yaw-Yeboah,36292031,gh GHA,"FW,MF",Numancia
-4303.0,Luís Gustavo Ledes,/en/players/44400941/Luis-Gustavo-Ledes,Luis-Gustavo-Led,44400941,pt POR,MF,Numancia
-4304.0,Marcos Isla,/en/players/894e3bdb/Marcos-Isla,Marcos-I,894e3bdb,es ESP,DF,Numancia
-4305.0,Roberto Jara,/en/players/a47db4ef/Roberto-Jara,Roberto-J,47db4ef,es ESP,GK,Numancia
-4306.0,Raúl Vallejo,/en/players/bbaec40e/Raul-Vallejo,Raul-Vallejo,bbaec40e,es ESP,MF,Numancia
-4307.0,Adri Castellano,/en/players/3dc7c57d/Adri-Castellano,Adri-Castellano,3dc7c57d,es ESP,DF,Numancia
-4308.0,Igor Zlatanović,/en/players/12a26f10/Igor-Zlatanovic,Igor-Zlatanovic,12a26f10,rs SRB,"FW,MF",Numancia
-4309.0,Admonio Vicente Gomes,/en/players/7548bb42/Admonio-Vicente-Gomes,Admonio-Vicente-Gom,7548bb42,gw GNB,DF,Numancia
-4310.0,Vidorreta,/en/players/e0ac8428/Vidorreta,Vidorret,0ac8428,es ESP,MF,Numancia
-4311.0,Néstor Albiach,/en/players/8887813b/Nestor-Albiach,Nestor-Albiach,8887813b,es ESP,FW,Numancia
-4312.0,Adri Herrera,/en/players/eb4fce2d/Adri-Herrera,Adri-H,b4fce2d,es ESP,FW,Numancia
-4313.0,Ali Radjel,/en/players/77029e76/Ali-Radjel,Ali-Radj,7.70E+80,mr MTN,MF,Numancia
-4314.0,Abel Conejo,/en/players/0953ecc0/Abel-Conejo,Abel-Conejo,0953ecc0,es ESP,MF,Numancia
-4315.0,Diego Cámara,/en/players/125dce8c/Diego-Camara,Diego-Cam,125dce8c,es ESP,DF,Numancia
-4316.0,Daniel Ceinos,/en/players/925d8d1a/Daniel-Ceinos,Daniel-Ceino,925d8d1a,es ESP,DF,Numancia
-4317.0,De Frutos,/en/players/af6efe5c/De-Frutos,De-Fruto,f6efe5c,es ESP,MF,Numancia
-4318.0,Alfredo Sualdea López,/en/players/2813b5b3/Alfredo-Sualdea-Lopez,Alfredo-Sualdea-Lopez,2813b5b3,es ESP,FW,Numancia
-4319.0,﻿David Castro,/en/players/28685101/David-Castro,David-Castro,28685101,es ESP,DF,Numancia
-4320.0,Borja López,/en/players/6ea37f82/Borja-Lopez,Borja-Lopez,6ea37f82,es ESP,DF,Numancia
-4321.0,Tony Gabarre,/en/players/31af3559/Tony-Gabarre,Tony-Gab,31af3559,es ESP,FW,Numancia
-4322.0,Jesús Tamayo,/en/players/1d528a34/Jesus-Tamayo,Jesus-Tamayo,1d528a34,es ESP,FW,Numancia
-4323.0,Roberto Corral,/en/players/25a1d446/Roberto-Corral,Roberto-Co,25a1d446,es ESP,DF,Numancia
-4324.0,Ronald Gbizie,/en/players/34a19af9/Ronald-Gbizie,Ronald-Gbizi,34a19af9,ci CIV,MF,Numancia
-4325.0,Ximo Miralles,/en/players/5da934d6/Ximo-Miralles,Ximo-Mi,5da934d6,es ESP,GK,Numancia
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+6297.0,﻿Carlos Cuéllar,/en/players/1222ab35/Carlos-Cuellar,Carlos-Cu,1222ab35,es ESP,DF,Numancia
+6298.0,Unai Expósito,/en/players/3aca2200/Unai-Exposito,Unai-Exposito,3aca2200,es ESP,DF,Numancia
+6299.0,Claudio Marini,/en/players/446a7d68/Claudio-Marini,Claudio-Marini,446a7d68,ar ARG,MF,Numancia
+6300.0,Jaime Molina,/en/players/2e1f6f32/Jaime-Molina,Jaime-Moli,2e1f6f32,es ESP,DF,Numancia
+6301.0,Daniel Fagiani,/en/players/e7524ca1/Daniel-Fagiani,Daniel-Fagiani,7524ca1,ar ARG,DF,Numancia
+6302.0,Daniel N'Gom Kome,/en/players/8076455d/Daniel-NGom-Kome,Daniel-NGom-Kom,8076455d,cm CMR,MF,Numancia
+6303.0,Luis García,/en/players/a716e5a4/Luis-Garcia,Luis-Garci,716e5a4,es ESP,GK,Numancia
+6304.0,Miguel Pérez,/en/players/b3f9e645/Miguel-Perez,Miguel-Perez,b3f9e645,es ESP,MF,Numancia
+6305.0,Miguel Ángel Núñez Acosta,/en/players/26030e9b/Miguel-Angel-Nunez-Acosta,Miguel-Angel-Nunez-Acost,26030e9b,es ESP,MF,Numancia
+6306.0,Pacheta,/en/players/7545007b/Pacheta,Pachet,7545007b,es ESP,MF,Numancia
+6307.0,Jesús Velasco,/en/players/13f8074d/Jesus-Velasco,Jesus-Velasco,13f8074d,es ESP,DF,Numancia
+6308.0,Pedro Ojeda,/en/players/60b2ae27/Pedro-Ojeda,Pedro-Ojed,60b2ae27,ar ARG,MF,Numancia
+6309.0,Diego Jaume,/en/players/9663d985/Diego-Jaume,Diego-Jaum,9663d985,uy URU,DF,Numancia
+6310.0,Álvaro Núñez,/en/players/4267e1a9/Alvaro-Nunez,Alvaro-Nunez,4267e1a9,uy URU,GK,Numancia
+6311.0,Octavio Viñals,/en/players/c2a9f580/Octavio-Vinals,Octavio-Vi,c2a9f580,es ESP,MF,Numancia
+6312.0,Laurențiu Roșu,/en/players/83e63626/Laurentiu-Rosu,Laurentiu-Rosu,83e63626,ro ROU,"FW,MF",Numancia
+6313.0,Patrick Suffo,/en/players/74f84d64/Patrick-Suffo,Patrick-Suffo,74f84d64,cm CMR,FW,Numancia
+6314.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Numancia
+6315.0,Sergio Sestelo,/en/players/3495d0f8/Sergio-Sestelo,Sergio-Sestelo,3495d0f8,es ESP,FW,Numancia
+6316.0,José Antonio Culebras,/en/players/c8b270a2/Jose-Antonio-Culebras,Jose-Antonio-Culeb,c8b270a2,es ESP,DF,Numancia
+6317.0,Manolo Sánchez,/en/players/b40c4904/Manolo-Sanchez,Manolo-Sanchez,b40c4904,es ESP,MF,Numancia
+6318.0,André Schei Lindbæk,/en/players/198eb259/Andre-Schei-Lindbaek,Andre-Schei-Lindbaek,198eb259,no NOR,FW,Numancia
+6319.0,Gallego,/en/players/94927f28/Gallego,Gallego,94927f28,es ESP,MF,Numancia
+6320.0,Juan Carlos Moreno,/en/players/74f2988b/Juan-Carlos-Moreno,Juan-Carlos-Moreno,74f2988b,es ESP,MF,Numancia
+6321.0,Julio Pineda,/en/players/09fc23e7/Julio-Pineda,Julio-Pined,09fc23e7,es ESP,FW,Numancia
+6322.0,Antonio González,/en/players/89f9eead/Antonio-Gonzalez,Antonio-Gonzalez,89f9eead,es ESP,DF,Numancia
+6323.0,Mikel Alonso,/en/players/eab32eb2/Mikel-Alonso,Mikel-Alonso,b32eb2,es ESP,MF,Numancia
+6324.0,Chota,/en/players/6e8a6c53/Chota,Chot,6e8a6c53,es ESP,FW,Numancia
+6325.0,Alberto Toril,/en/players/437bfac6/Alberto-Toril,Alberto-Tori,437bfac6,es ESP,MF,Numancia
+6326.0,Xisco Nadal,/en/players/5dc11264/Xisco-Nadal,Xisco-Nad,5dc11264,es ESP,"FW,MF",Numancia
+6327.0,Carlos Merino,/en/players/443c8c9a/Carlos-Merino,Carlos-Merino,443c8c9a,es ESP,MF,Numancia
+6328.0,﻿Juan Cruz Ochoa,/en/players/301ff22a/Juan-Cruz-Ochoa,Juan-Cruz-Ocho,301ff22a,es ESP,DF,Numancia
+6329.0,Stéphane Pignol,/en/players/ca3ae27c/Stephane-Pignol,Stephane-Pigno,ca3ae27c,fr FRA,DF,Numancia
+6330.0,César Palacios,/en/players/dc32054b/Cesar-Palacios,Cesar-Palacio,dc32054b,es ESP,MF,Numancia
+6331.0,Juanma,/en/players/943f79f6/Juanma,Juanm,943f79f6,es ESP,GK,Numancia
+6332.0,Luis Tevenet,/en/players/95dd66c6/Luis-Tevenet,Luis-Tevenet,95dd66c6,es ESP,FW,Numancia
+6333.0,Juanlu,/en/players/94b88487/Juanlu,Juanlu,94b88487,es ESP,MF,Numancia
+6334.0,Patricio Graff,/en/players/b4a2cf8b/Patricio-Graff,Patricio-Graff,b4a2cf8b,ar ARG,DF,Numancia
+6335.0,Juanpa,/en/players/75ef1517/Juanpa,Ju,75ef1517,es ESP,DF,Numancia
+6336.0,Pablo Sanz Iniesta,/en/players/f56d83dd/Pablo-Sanz-Iniesta,Pablo-Sanz-Iniest,f56d83dd,es ESP,MF,Numancia
+6337.0,Javier Tarantino,/en/players/0bf40bdb/Javier-Tarantino,Javier-Tarantino,0bf40bdb,es ESP,DF,Numancia
+6338.0,Ramón Ros,/en/players/0ad2ce10/Ramon-Ros,Ramon-Ro,0ad2ce10,es ESP,MF,Numancia
+6339.0,Miguel,/en/players/3ab5e487/Miguel,Migu,3ab5e487,es ESP,FW,Numancia
+6340.0,Lee Chun-soo,/en/players/e956c973/Lee-Chun-soo,Lee-Chun-soo,956c973,kr KOR,"FW,MF",Numancia
+6341.0,Aldo Osorio,/en/players/c366b111/Aldo-Osorio,Aldo-Osorio,c366b111,ar ARG,FW,Numancia
+6342.0,Silvio González,/en/players/6db4e9a5/Silvio-Gonzalez,Silvio-Gonzalez,6db4e9a5,ar ARG,FW,Numancia
+6343.0,Kostas Kiassos,/en/players/2bddd706/Kostas-Kiassos,Kostas-Kiasso,2bddd706,gr GRE,MF,Numancia
+6344.0,Toché,/en/players/64e35e11/Toche,Toch,64e35e11,es ESP,FW,Numancia
+6345.0,Rafa Jordà,/en/players/05e805eb/Rafa-Jorda,Rafa-Jord,05e805eb,es ESP,FW,Numancia
+6346.0,Mario,/en/players/4903e93a/Mario,Mario,4903e93a,es ESP,MF,Numancia
+6347.0,Javier del Pino,/en/players/e6279028/Javier-del-Pino,Javier-del-Pino,6279028,es ESP,FW,Numancia
+6348.0,Juan Pablo Colinas,/en/players/b2cab8f4/Juan-Pablo-Colinas,Juan-Pablo-Coli,b2cab8f4,es ESP,GK,Numancia
+6349.0,Ariel Montenegro,/en/players/d5835cca/Ariel-Montenegro,Ariel-Montenegro,d5835cca,ar ARG,MF,Numancia
+6350.0,José Manuel Yanguas,/en/players/ae3a7b7e/Jose-Manuel-Yanguas,Jose-Manuel-Yangu,3a7b7e,es ESP,DF,Numancia
+6351.0,Gorka Azkorra,/en/players/b6ba90f9/Gorka-Azkorra,Gorka-Azko,b6ba90f9,es ESP,FW,Numancia
+6352.0,Rubén López,/en/players/e2403f1e/Ruben-Lopez,Ruben-Lopez,2403f1e,es ESP,DF,Numancia
+6353.0,Hamilton Ricard,/en/players/e08d8909/Hamilton-Ricard,Hamilton-Ricard,08d8909,co COL,FW,Numancia
+6354.0,Roberto Trashorras,/en/players/5252fdf5/Roberto-Trashorras,Roberto-Trasho,5252fdf5,es ESP,MF,Numancia
+6355.0,Ibón Gutiérrez,/en/players/2354802e/Ibon-Gutierrez,Ibon-Gutierrez,2354802e,es ESP,MF,Numancia
+6356.0,Pablo Niño,/en/players/eb477bff/Pablo-Nino,Pablo-Nino,b477bff,es ESP,MF,Numancia
+6357.0,Alberto Monteagudo,/en/players/eaf8a40b/Alberto-Monteagudo,Alberto-Monteagudo,f8a40b,es ESP,MF,Numancia
+6358.0,Ángel Pérez,/en/players/a706bad3/Angel-Perez,Angel-Perez,706bad3,es ESP,DF,Numancia
+6359.0,Bolo,/en/players/ca7589a9/Bolo,Bolo,ca7589a9,es ESP,FW,Numancia
+6360.0,Julio Álvarez,/en/players/17b1a0ee/Julio-Alvarez,Julio-Alvarez,17b1a0ee,ve VEN,MF,Numancia
+6361.0,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,Txomin-Nago,41a60718,es ESP,MF,Numancia
+6362.0,Kenji Fukuda,/en/players/889fd1fe/Kenji-Fukuda,Kenji-Fukud,889fd1fe,jp JPN,FW,Numancia
+6363.0,Sietes,/en/players/bae8225f/Sietes,Siet,bae8225f,es ESP,DF,Numancia
+6364.0,Sergio Ortega,/en/players/5e498ef7/Sergio-Ortega,Sergio-Orteg,5e498ef7,es ESP,DF,Numancia
+6365.0,Juanra,/en/players/616d9a30/Juanra,Ju,616d9a30,es ESP,DF,Numancia
+6366.0,Felipe Guréndez,/en/players/4f4973c3/Felipe-Gurendez,Felipe-Gurendez,4f4973c3,es ESP,MF,Numancia
+6367.0,Boris,/en/players/6f531b7d/Boris,Bori,6f531b7d,es ESP,DF,Numancia
+6368.0,Fran Moreno,/en/players/12096092/Fran-Moreno,Fran-Moreno,12096092,es ESP,MF,Numancia
+6369.0,Grégory Béranger,/en/players/3dac0268/Gregory-Beranger,Gregory-Berang,3dac0268,fr FRA,DF,Numancia
+6370.0,Egoitz Jaio Gabiola,/en/players/4e84787e/Egoitz-Jaio-Gabiola,Egoitz-Jaio-Gabio,4e84787e,es ESP,DF,Numancia
+6371.0,Gorka Brit,/en/players/18fea665/Gorka-Brit,Gorka-Brit,18fea665,es ESP,FW,Numancia
+6372.0,Pablo Lago,/en/players/e1a94953/Pablo-Lago,Pablo-Lago,1a94953,es ESP,MF,Numancia
+6373.0,Dwight Pezzarossi,/en/players/26647970/Dwight-Pezzarossi,Dwight-Pezzarossi,26647970,gt GUA,FW,Numancia
+6374.0,Javi Moreno,/en/players/64497d05/Javi-Moreno,Javi-Moreno,64497d05,es ESP,FW,Numancia
+6375.0,Jacobo,/en/players/bb575fe7/Jacobo,Jacobo,bb575fe7,es ESP,GK,Numancia
+6376.0,Carmelo González,/en/players/27f4e837/Carmelo-Gonzalez,Carmelo-Gonzalez,27f4e837,es ESP,MF,Numancia
+6377.0,Manuel Pavón,/en/players/828ab640/Manuel-Pavon,Manuel-Pavo,828ab640,es ESP,DF,Numancia
+6378.0,Juan Quero,/en/players/42107bed/Juan-Quero,Juan-Quero,42107bed,es ESP,MF,Numancia
+6379.0,Domingo Cisma,/en/players/4d85b73c/Domingo-Cisma,Domingo-Cism,4d85b73c,es ESP,DF,Numancia
+6380.0,José Barkero,/en/players/89a1b23c/Jose-Barkero,Jose-Barkero,89a1b23c,es ESP,MF,Numancia
+6381.0,Asier Goiria,/en/players/1dfd7bbc/Asier-Goiria,Asier-Goiri,1dfd7bbc,es ESP,FW,Numancia
+6382.0,Dimas Delgado,/en/players/f6876bd7/Dimas-Delgado,Dimas-Delgado,f6876bd7,es ESP,MF,Numancia
+6383.0,Carlos Bellvís,/en/players/fbe35ca3/Carlos-Bellvis,Carlos-Bellvi,fbe35ca3,es ESP,DF,Numancia
+6384.0,Raúl Bravo,/en/players/65b9e56b/Raul-Bravo,Raul-Bravo,65b9e56b,es ESP,DF,Numancia
+6385.0,Álvaro Antón,/en/players/90041d71/Alvaro-Anton,Alvaro-Anto,90041d71,es ESP,MF,Numancia
+6386.0,Marián Kelemen,/en/players/6f650bdb/Marian-Kelemen,Marian-Kelem,6f650bdb,sk SVK,GK,Numancia
+6387.0,Lago Junior,/en/players/360d70f8/Lago-Junior,Lago-Junio,360d70f8,ci CIV,"FW,MF",Numancia
+6388.0,Javier Flaño,/en/players/8e9ccfb8/Javier-Flano,Javier-Flano,8e9ccfb8,es ESP,DF,Numancia
+6389.0,Eduardo Navarro,/en/players/f5caacf3/Eduardo-Navarro,Eduardo-Navarro,f5caacf3,es ESP,GK,Numancia
+6390.0,Nano,/en/players/51fbb7e2/Nano,Nano,51fbb7e2,es ESP,"DF,FW",Numancia
+6391.0,Iñigo Vélez,/en/players/08cc09ee/Inigo-Velez,Inigo-Velez,08cc09ee,es ESP,FW,Numancia
+6392.0,Mikel Balenziaga,/en/players/1fe67e86/Mikel-Balenziaga,Mikel-Balenziag,1fe67e86,es ESP,DF,Numancia
+6393.0,Mikel Álvaro,/en/players/15b8ab8b/Mikel-Alvaro,Mikel-Alvaro,15b8ab8b,es ESP,MF,Numancia
+6394.0,Joseba Garmendia,/en/players/d74abbc4/Joseba-Garmendia,Joseba-Garmendi,d74abbc4,es ESP,"DF,MF",Numancia
+6395.0,Óscar López,/en/players/14ae8df8/Oscar-Lopez,Oscar-Lopez,14ae8df8,es ESP,DF,Numancia
+6396.0,Asier,/en/players/c599392e/Asier,Asi,c599392e,es ESP,MF,Numancia
+6397.0,Iñaki Lafuente,/en/players/a1757556/Inaki-Lafuente,Inaki-Lafuent,1757556,es ESP,GK,Numancia
+6398.0,Víctor Andrés,/en/players/e26a584f/Victor-Andres,Victor-And,26a584f,es ESP,MF,Numancia
+6399.0,Nandi,/en/players/c04b3dfb/Nandi,Nandi,c04b3dfb,es ESP,DF,Numancia
+6400.0,Enrique Sola,/en/players/bef2e50e/Enrique-Sola,Enrique-So,bef2e50e,es ESP,FW,Numancia
+6401.0,Diego Antón,/en/players/d0737c9d/Diego-Anton,Diego-Anto,d0737c9d,es ESP,FW,Numancia
+6402.0,Igor Angulo,/en/players/5715f988/Igor-Angulo,Igor-Angulo,5715f988,es ESP,"FW,MF",Numancia
+6403.0,Cedrick Mabwati,/en/players/6518bc18/Cedrick-Mabwati,Cedrick-Mabwati,6518bc18,cd COD,"FW,MF",Numancia
+6404.0,Dani López,/en/players/da8aa199/Dani-Lopez,Dani-Lopez,da8aa199,es ESP,DF,Numancia
+6405.0,Ibrahima Baldé,/en/players/573b6680/Ibrahima-Balde,Ibrahima-Bald,573b6680,sn SEN,FW,Numancia
+6406.0,Sunny,/en/players/1eb38665/Sunny,Su,1eb38665,ng NGA,MF,Numancia
+6407.0,Diego de Miguel,/en/players/4b798eab/Diego-de-Miguel,Diego-de-Migu,4b798eab,es ESP,GK,Numancia
+6408.0,Gerard Oliva,/en/players/0d01d201/Gerard-Oliva,Gerard-Oliv,0d01d201,es ESP,FW,Numancia
+6409.0,Javi Bonilla,/en/players/3d67cc6e/Javi-Bonilla,Javi-Boni,3d67cc6e,es ESP,MF,Numancia
+6410.0,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,Leandro-Cab,69cbc8b6,uy URU,DF,Numancia
+6411.0,Miguel Bedoya,/en/players/7753a08d/Miguel-Bedoya,Miguel-Bedo,7753a08d,es ESP,MF,Numancia
+6412.0,Natalio,/en/players/239425b9/Natalio,Natalio,239425b9,es ESP,FW,Numancia
+6413.0,Juanjo Expósito,/en/players/f0a0b756/Juanjo-Exposito,Juanjo-Exposito,f0a0b756,es ESP,FW,Numancia
+6414.0,Ignacio Zabal,/en/players/9df85b2a/Ignacio-Zabal,Ignacio-Zab,9df85b2a,es ESP,GK,Numancia
+6415.0,Iván Malón,/en/players/c568d934/Ivan-Malon,Ivan-Malo,c568d934,es ESP,DF,Numancia
+6416.0,Adrián Ripa,/en/players/c5a2ecfa/Adrian-Ripa,Adrian-Ri,c5a2ecfa,es ESP,DF,Numancia
+6417.0,Miguel Ángel Nieto,/en/players/3a935b70/Miguel-Angel-Nieto,Miguel-Angel-Nieto,3a935b70,es ESP,MF,Numancia
+6418.0,Gorka Larrea,/en/players/242e09b6/Gorka-Larrea,Gorka-L,242e09b6,es ESP,MF,Numancia
+6419.0,Iñigo Díaz de Cerio,/en/players/757bd109/Inigo-Diaz-de-Cerio,Inigo-Diaz-de-Cerio,757bd109,es ESP,FW,Numancia
+6420.0,Edu Gil,/en/players/cffecd08/Edu-Gil,Edu-Gi,cffecd08,es ESP,DF,Numancia
+6421.0,Juanma,/en/players/396b863a/Juanma,Juanm,396b863a,es ESP,DF,Numancia
+6422.0,Iago Herrerín,/en/players/9109185e/Iago-Herrerin,Iago-Herreri,9109185e,es ESP,GK,Numancia
+6423.0,Francisco Regalón,/en/players/7b9f85b0/Francisco-Regalon,Francisco-Regalo,7b9f85b0,es ESP,DF,Numancia
+6424.0,Antonio Tomás,/en/players/668d4e93/Antonio-Tomas,Antonio-Tom,668d4e93,es ESP,MF,Numancia
+6425.0,Eneko Satrústegui,/en/players/b7ce700f/Eneko-Satrustegui,Eneko-Satrustegui,b7ce700f,es ESP,DF,Numancia
+6426.0,Biel Ribas,/en/players/8178716d/Biel-Ribas,Biel-Rib,8178716d,es ESP,GK,Numancia
+6427.0,José Isidoro,/en/players/bb00a819/Jose-Isidoro,Jose-Isidoro,bb00a819,es ESP,DF,Numancia
+6428.0,Airam,/en/players/130471ce/Airam,Airam,130471ce,es ESP,FW,Numancia
+6429.0,Baltasar Rigo,/en/players/b80570db/Baltasar-Rigo,Baltasar-Rigo,b80570db,es ESP,DF,Numancia
+6430.0,David Martín,/en/players/e1e18b12/David-Martin,David-Marti,1e18b12,es ESP,FW,Numancia
+6431.0,Mickaël Gaffoor,/en/players/7ab63f1e/Mickael-Gaffoor,Mickael-Gaffoo,7ab63f1e,fr FRA,DF,Numancia
+6432.0,Carlos Akapo,/en/players/f2a68b97/Carlos-Akapo,Carlos-Akapo,f2a68b97,gq EQG,DF,Numancia
+6433.0,Vicente Pérez,/en/players/f4927d11/Vicente-Perez,Vicente-Perez,f4927d11,es ESP,MF,Numancia
+6434.0,Sergi Enrich,/en/players/bb4b1242/Sergi-Enrich,Sergi-Enrich,bb4b1242,es ESP,"FW,MF",Numancia
+6435.0,Raúl Fernández,/en/players/6fb59070/Raul-Fernandez,Raul-Fernandez,6fb59070,es ESP,GK,Numancia
+6436.0,Marc Pedraza,/en/players/ff8f26ef/Marc-Pedraza,Marc-Pedraz,ff8f26ef,es ESP,MF,Numancia
+6437.0,David González,/en/players/d65705c4/David-Gonzalez,David-Gonzalez,d65705c4,es ESP,MF,Numancia
+6438.0,Luis Valcarce,/en/players/8e5cde3f/Luis-Valcarce,Luis-Valcarc,8e5cde3f,es ESP,"DF,MF",Numancia
+6439.0,Pedro Martín,/en/players/99ee29b5/Pedro-Martin,Pedro-Marti,99ee29b5,es ESP,FW,Numancia
+6440.0,Dani Calvo,/en/players/dd672e1f/Dani-Calvo,Dani-Calvo,dd672e1f,es ESP,DF,Numancia
+6441.0,César Vinuesa,/en/players/f69b53dc/Cesar-Vinuesa,Cesar-Vinu,f69b53dc,es ESP,MF,Numancia
+6442.0,Iñigo Pérez,/en/players/bc61cc65/Inigo-Perez,Inigo-Perez,bc61cc65,es ESP,MF,Numancia
+6443.0,Munir,/en/players/fc8287db/Munir,Muni,fc8287db,ma MAR,GK,Numancia
+6444.0,Miguel Palanca,/en/players/005ade52/Miguel-Palanca,Miguel-Palanc,005ade52,es ESP,"FW,MF",Numancia
+6445.0,Braian Rodríguez,/en/players/ba32a26f/Braian-Rodriguez,Braian-Rodriguez,ba32a26f,uy URU,FW,Numancia
+6446.0,Abdelkader Oueslati,/en/players/dc90d163/Abdelkader-Oueslati,Abdelkader-Oueslati,dc90d163,tn TUN,"DF,FW",Numancia
+6447.0,Gerrit Stoeten,/en/players/210ca6bf/Gerrit-Stoeten,Gerrit-Stoet,210ca6bf,es ESP,MF,Numancia
+6448.0,Álex Arias,/en/players/ef2a91c3/Alex-Arias,Alex-Ari,f2a91c3,es ESP,MF,Numancia
+6449.0,Edipo Rodríguez,/en/players/2b94f94c/Edipo-Rodriguez,Edipo-Rodriguez,2b94f94c,do DOM,MF,Numancia
+6450.0,Ito,/en/players/5393bd3a/Ito,Ito,5393bd3a,es ESP,FW,Numancia
+6451.0,Pablo Valcarce,/en/players/f51ee65e/Pablo-Valcarce,Pablo-Valcarc,f51ee65e,es ESP,"FW,MF",Numancia
+6452.0,Vallejo,/en/players/9353561a/Vallejo,Vallejo,9353561a,es ESP,GK,Numancia
+6453.0,﻿Unai Medina,/en/players/bda6ddeb/Unai-Medina,Unai-Medi,bda6ddeb,es ESP,DF,Numancia
+6454.0,Álex Alegría,/en/players/46166b49/Alex-Alegria,Alex-Alegri,46166b49,es ESP,FW,Numancia
+6455.0,Jon Gaztañaga,/en/players/806872d2/Jon-Gaztanaga,Jon-Gaztanag,806872d2,es ESP,"DF,MF",Numancia
+6456.0,Pedro Orfila,/en/players/a38c114e/Pedro-Orfila,Pedro-Orfi,38c114e,es ESP,DF,Numancia
+6457.0,Alexander Callens,/en/players/af34f10d/Alexander-Callens,Alexander-C,f34f10d,pe PER,DF,Numancia
+6458.0,Marc Mateu,/en/players/ed90fc36/Marc-Mateu,Marc-Mateu,d90fc36,es ESP,"DF,MF",Numancia
+6459.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Numancia
+6460.0,Nacho,/en/players/0c78c871/Nacho,Nacho,0c78c871,es ESP,MF,Numancia
+6461.0,Antonio Martínez,/en/players/de3c4ef7/Antonio-Martinez,Antonio-Martinez,de3c4ef7,es ESP,MF,Numancia
+6462.0,Dani Aquino,/en/players/060a66fb/Dani-Aquino,Dani-Aquino,060a66fb,es ESP,"FW,MF",Numancia
+6463.0,Adrián Dalmau,/en/players/7330f886/Adrian-Dalmau,Adrian-Dalmau,7330f886,es ESP,FW,Numancia
+6464.0,Jorge Diaz,/en/players/d3248912/Jorge-Diaz,Jorge-Diaz,d3248912,uy URU,"FW,MF",Numancia
+6465.0,Diego Ciria,/en/players/3eb15b9f/Diego-Ciria,Diego-Ciri,3eb15b9f,es ESP,DF,Numancia
+6466.0,Iñigo Ruiz de Galarreta,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,Inigo-Ruiz-de-Galarret,91f7631f,es ESP,MF,Numancia
+6467.0,Aitor Fernández,/en/players/a01c3d54/Aitor-Fernandez,Aitor-Fernandez,01c3d54,es ESP,GK,Numancia
+6468.0,Alberto Escassi,/en/players/154fe273/Alberto-Escassi,Alberto-Escassi,154fe273,es ESP,"DF,MF",Numancia
+6469.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Numancia
+6470.0,Eneko Capilla,/en/players/54bed007/Eneko-Capilla,Eneko-Capi,54bed007,es ESP,MF,Numancia
+6471.0,Jairo Morillas,/en/players/a0414cb4/Jairo-Morillas,Jairo-Mori,0414cb4,es ESP,FW,Numancia
+6472.0,Dani Nieto,/en/players/d7d46f3b/Dani-Nieto,Dani-Nieto,d7d46f3b,es ESP,"MF,FW",Numancia
+6473.0,José Manuel Casado,/en/players/d0b6d20e/Jose-Manuel-Casado,Jose-Manuel-Casado,d0b6d20e,es ESP,DF,Numancia
+6474.0,Asier Villalibre,/en/players/57be54ec/Asier-Villalibre,Asier-Villalib,57be54ec,es ESP,FW,Numancia
+6475.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Numancia
+6476.0,Mikel Saizar,/en/players/b9ddfda6/Mikel-Saizar,Mikel-Saiz,b9ddfda6,es ESP,GK,Numancia
+6477.0,Binke Diabaté,/en/players/52470720/Binke-Diabate,Binke-Diabat,52470720,ml MLI,FW,Numancia
+6478.0,Pablo Sanz,/en/players/d8ac959b/Pablo-Sanz,Pablo-Sanz,d8ac959b,es ESP,FW,Numancia
+6479.0,Gorka Alegría,/en/players/1d4d2f37/Gorka-Alegria,Gorka-Alegri,1d4d2f37,es ESP,GK,Numancia
+6480.0,Sergio Madrigal,/en/players/9339d947/Sergio-Madrigal,Sergio-Madrig,9339d947,es ESP,MF,Numancia
+6481.0,Jorge Pomareta Pablos,/en/players/9d3e02ad/Jorge-Pomareta-Pablos,Jorge-Pomareta-Pablo,9d3e02ad,es ESP,DF,Numancia
+6482.0,Moha Sanhaji,/en/players/e70c3e94/Moha-Sanhaji,Moha-Sanhaji,70c3e94,ma MAR,MF,Numancia
+6483.0,Juan Silva,/en/players/a4ea9b5e/Juan-Silva,Juan-Silv,4ea9b5e,es ESP,FW,Numancia
+6484.0,Viti,/en/players/ab573a07/Viti,Viti,b573a07,es ESP,GK,Numancia
+6485.0,Pere Milla,/en/players/335039a2/Pere-Milla,Pere-Mi,335039a2,es ESP,"MF,FW",Numancia
+6486.0,Carlos Gutiérrez,/en/players/933de879/Carlos-Gutierrez,Carlos-Gutierrez,933de879,es ESP,DF,Numancia
+6487.0,Pape Maly Diamanka,/en/players/5d289e13/Pape-Maly-Diamanka,Pape-Maly-Diamank,5d289e13,sn SEN,MF,Numancia
+6488.0,Markel Etxeberria,/en/players/da688437/Markel-Etxeberria,Markel-Etxeberri,da688437,es ESP,DF,Numancia
+6489.0,Guillermo,/en/players/15107141/Guillermo,Guillermo,15107141,es ESP,"FW,MF",Numancia
+6490.0,Saúl García,/en/players/dafa5038/Saul-Garcia,Saul-Garci,dafa5038,es ESP,DF,Numancia
+6491.0,Unai Elgezabal,/en/players/01cc0c90/Unai-Elgezabal,Unai-Elgezab,01cc0c90,es ESP,DF,Numancia
+6492.0,Higinio Marín,/en/players/61db425b/Higinio-Marin,Higinio-Mari,61db425b,es ESP,"FW,MF",Numancia
+6493.0,Pablo Larrea,/en/players/a4c8810b/Pablo-Larrea,Pablo-L,4c8810b,es ESP,MF,Numancia
+6494.0,Grego Sierra,/en/players/2710e38b/Grego-Sierra,Grego-Si,2710e38b,es ESP,MF,Numancia
+6495.0,Gaizka Campos Bahillo,/en/players/54a9bc73/Gaizka-Campos-Bahillo,Gaizka-Campos-Bahillo,54a9bc73,es ESP,GK,Numancia
+6496.0,Ali Al Nemer,/en/players/4d20e7a7/Ali-Al-Nemer,Ali-Al-Nem,4d20e7a7,sa KSA,MF,Numancia
+6497.0,Pichu Atienza,/en/players/aaeacaca/Pichu-Atienza,Pichu-Atienz,caca,es ESP,DF,Numancia
+6498.0,Fran Villalba,/en/players/0d2603b5/Fran-Villalba,Fran-Villalb,0d2603b5,es ESP,"MF,FW",Numancia
+6499.0,Yaw Yeboah,/en/players/36292031/Yaw-Yeboah,Yaw-Yeboah,36292031,gh GHA,"FW,MF",Numancia
+6500.0,Alain Oyarzun,/en/players/8159c16a/Alain-Oyarzun,Alain-Oyarzu,8159c16a,es ESP,"FW,MF",Numancia
+6501.0,Cristian Ganea,/en/players/baf5665c/Cristian-Ganea,Cristian-G,baf5665c,ro ROU,DF,Numancia
+6502.0,Luís Gustavo Ledes,/en/players/44400941/Luis-Gustavo-Ledes,Luis-Gustavo-Led,44400941,pt POR,MF,Numancia
+6503.0,David Rodríguez,/en/players/bae862bf/David-Rodriguez,David-Rodriguez,bae862bf,es ESP,FW,Numancia
+6504.0,Alejandro Sanz,/en/players/e514ee96/Alejandro-Sanz,Alejandro-Sanz,514ee96,es ESP,MF,Numancia
+6505.0,Derik Osede,/en/players/fdccf078/Derik-Osede,Derik-Osed,fdccf078,es ESP,DF,Numancia
+6506.0,Borja Viguera,/en/players/d906a703/Borja-Viguera,Borja-Vigu,d906a703,es ESP,"MF,FW",Numancia
+6507.0,Alberto Noguera,/en/players/8a46f4c8/Alberto-Noguera,Alberto-Nogu,8a46f4c8,es ESP,MF,Numancia
+6508.0,Jordi Sánchez,/en/players/658117b6/Jordi-Sanchez,Jordi-Sanchez,658117b6,es ESP,FW,Numancia
+6509.0,Marcos Isla,/en/players/894e3bdb/Marcos-Isla,Marcos-I,894e3bdb,es ESP,DF,Numancia
+6510.0,Roberto Jara,/en/players/a47db4ef/Roberto-Jara,Roberto-J,47db4ef,es ESP,GK,Numancia
+6511.0,Raúl Vallejo,/en/players/bbaec40e/Raul-Vallejo,Raul-Vallejo,bbaec40e,es ESP,MF,Numancia
+6512.0,﻿Dani Barrio,/en/players/b56f8c7f/Dani-Barrio,Dani-Barrio,b56f8c7f,es ESP,GK,Numancia
+6513.0,Iván Calero,/en/players/6724c5a9/Ivan-Calero,Ivan-Calero,6724c5a9,es ESP,DF,Numancia
+6514.0,Curro,/en/players/f9a225f5/Curro,Curro,f9a225f5,es ESP,MF,Numancia
+6515.0,Héctor Hernández,/en/players/76ee80ee/Hector-Hernandez,Hector-Hernandez,76ee80ee,es ESP,DF,Numancia
+6516.0,Alex Sola,/en/players/5fa714d5/Alex-Sola,Alex-So,5fa714d5,es ESP,"MF,DF",Numancia
+6517.0,Adri Castellano,/en/players/3dc7c57d/Adri-Castellano,Adri-Castellano,3dc7c57d,es ESP,DF,Numancia
+6518.0,Erik Morán,/en/players/6941883f/Erik-Moran,Erik-Mo,6941883f,es ESP,MF,Numancia
+6519.0,Antonio Otegui,/en/players/b7d5bc5e/Antonio-Otegui,Antonio-Otegui,b7d5bc5e,es ESP,MF,Numancia
+6520.0,Bernardo Cruz,/en/players/47872f21/Bernardo-Cruz,Bernardo-Cruz,47872f21,es ESP,DF,Numancia
+6521.0,Igor Zlatanović,/en/players/12a26f10/Igor-Zlatanovic,Igor-Zlatanovic,12a26f10,rs SRB,"FW,MF",Numancia
+6522.0,Admonio Vicente Gomes,/en/players/7548bb42/Admonio-Vicente-Gomes,Admonio-Vicente-Gom,7548bb42,gw GNB,DF,Numancia
+6523.0,Vidorreta,/en/players/e0ac8428/Vidorreta,Vidorret,0ac8428,es ESP,MF,Numancia
+6524.0,Néstor Albiach,/en/players/8887813b/Nestor-Albiach,Nestor-Albiach,8887813b,es ESP,FW,Numancia
+6525.0,Adri Herrera,/en/players/eb4fce2d/Adri-Herrera,Adri-H,b4fce2d,es ESP,FW,Numancia
+6526.0,Ali Radjel,/en/players/77029e76/Ali-Radjel,Ali-Radj,77029e76,mr MTN,MF,Numancia
+6527.0,Abel Conejo,/en/players/0953ecc0/Abel-Conejo,Abel-Conejo,0953ecc0,es ESP,MF,Numancia
+6528.0,Juan Carlos,/en/players/bc5adc98/Juan-Carlos,Juan-Carlo,bc5adc98,es ESP,GK,Numancia
+6529.0,Diego Cámara,/en/players/125dce8c/Diego-Camara,Diego-Cam,125dce8c,es ESP,DF,Numancia
+6530.0,Daniel Ceinos,/en/players/925d8d1a/Daniel-Ceinos,Daniel-Ceino,925d8d1a,es ESP,DF,Numancia
+6531.0,De Frutos,/en/players/af6efe5c/De-Frutos,De-Fruto,f6efe5c,es ESP,MF,Numancia
+6532.0,Alfredo Sualdea López,/en/players/2813b5b3/Alfredo-Sualdea-Lopez,Alfredo-Sualdea-Lopez,2813b5b3,es ESP,FW,Numancia
+6533.0,﻿David Castro,/en/players/28685101/David-Castro,David-Castro,28685101,es ESP,DF,Numancia
+6534.0,Fran Manzanara,/en/players/bbfaeda4/Fran-Manzanara,Fran-Manz,bbfaeda4,es ESP,MF,Numancia
+6535.0,Asier Benito,/en/players/02a111ed/Asier-Benito,Asier-Benito,02a111ed,es ESP,FW,Numancia
+6536.0,Borja López,/en/players/6ea37f82/Borja-Lopez,Borja-Lopez,6ea37f82,es ESP,DF,Numancia
+6537.0,Juan Carlos Menudo Domínguez,/en/players/b6be6142/Juan-Carlos-Menudo-Dominguez,Juan-Carlos-Menudo-Dominguez,b6be6142,es ESP,MF,Numancia
+6538.0,Tony Gabarre,/en/players/31af3559/Tony-Gabarre,Tony-Gab,31af3559,es ESP,FW,Numancia
+6539.0,Lillo,/en/players/476ca810/Lillo,Lillo,476ca810,es ESP,DF,Numancia
+6540.0,Álvaro Traver,/en/players/f608a6b0/Alvaro-Traver,Alvaro-Trav,f608a6b0,es ESP,MF,Numancia
+6541.0,Federico Bikoro,/en/players/ed28f256/Federico-Bikoro,Federico-Bikoro,d28f256,gq EQG,MF,Numancia
+6542.0,Antonio Cotán,/en/players/d92dd30e/Antonio-Cotan,Antonio-Cot,d92dd30e,es ESP,MF,Numancia
+6543.0,José Fran,/en/players/9da2a2b2/Jose-Fran,Jose-F,9da2a2b2,es ESP,DF,Numancia
+6544.0,Jesús Tamayo,/en/players/1d528a34/Jesus-Tamayo,Jesus-Tamayo,1d528a34,es ESP,FW,Numancia
+6545.0,Roberto Corral,/en/players/25a1d446/Roberto-Corral,Roberto-Co,25a1d446,es ESP,DF,Numancia
+6546.0,Ronald Gbizie,/en/players/34a19af9/Ronald-Gbizie,Ronald-Gbizi,34a19af9,ci CIV,MF,Numancia
+6547.0,Ximo Miralles,/en/players/5da934d6/Ximo-Miralles,Ximo-Mi,5da934d6,es ESP,GK,Numancia
+6548.0,Sillero,/en/players/e46e2990/Sillero,Sillero,46e2990,es ESP,DF,Numancia

@@ -1,588 +1,588 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Patrick Kluivert,nl NED,FW,36,36,7.0,16.0,2002-2003,6c3b0583,Barcelona,"3,133",34.8,6.0,1.0,42.0,11.0,,Barcelona
-,Frank de Boer,nl NED,DF,35,35,0.0,0.0,2002-2003,777eaa16,Barcelona,"3,038",33.8,10.0,0.0,42.0,11.0,1049.0,Barcelona
-,Carles Puyol,es ESP,DF,32,32,1.0,0.0,2002-2003,7c0bda9b,Barcelona,"2,840",31.6,6.0,0.0,42.0,1.0,1050.0,Barcelona
-,Phillip Cocu,nl NED,"DF,FW",29,29,1.0,3.0,2002-2003,75522231,Barcelona,"2,512",27.9,8.0,0.0,42.0,11.0,1051.0,Barcelona
-,Xavi,es ESP,MF,29,29,6.0,2.0,2002-2003,c1b4188c,Barcelona,"2,512",27.9,1.0,0.0,42.0,1.0,1052.0,Barcelona
-,Gaizka Mendieta,es ESP,MF,33,29,6.0,4.0,2002-2003,c5589415,Barcelona,"2,431",27.0,6.0,0.0,42.0,1.0,1053.0,Barcelona
-,Javier Saviola,ar ARG,FW,36,29,6.0,13.0,2002-2003,de544fdb,Barcelona,"2,415",26.8,4.0,1.0,42.0,5.0,67.0,Barcelona
-,Roberto Bonano,ar ARG,GK,24,24,0.0,0.0,2002-2003,7b2d75ba,Barcelona,"2,140",23.8,1.0,0.0,42.0,5.0,1054.0,Barcelona
-,Gabri García,es ESP,"DF,MF",27,22,0.0,0.0,2002-2003,d94a7aa,Barcelona,"1,911",21.2,13.0,1.0,42.0,1.0,1055.0,Barcelona
-,Marc Overmars,nl NED,"FW,MF",26,21,3.0,6.0,2002-2003,c9cc6332,Barcelona,"1,739",19.3,2.0,1.0,42.0,11.0,1056.0,Barcelona
-,Thiago Motta,it ITA,MF,21,18,5.0,3.0,2002-2003,57ef0d97,Barcelona,"1,528",17.0,6.0,2.0,42.0,9.0,1057.0,Barcelona
-,Michael Reiziger,nl NED,DF,21,17,1.0,0.0,2002-2003,6e75ab56,Barcelona,"1,551",17.2,5.0,0.0,42.0,11.0,1058.0,Barcelona
-,Juan Román Riquelme,ar ARG,MF,30,14,6.0,3.0,2002-2003,04381207,Barcelona,"1,608",17.9,2.0,0.0,42.0,5.0,,Barcelona
-,Luis Enrique,es ESP,"FW,MF",18,14,1.0,8.0,2002-2003,b9407435,Barcelona,"1,310",14.6,4.0,0.0,42.0,1.0,1060.0,Barcelona
-,Víctor Valdés,es ESP,GK,14,14,0.0,0.0,2002-2003,029e404,Barcelona,"1,260",14.0,0.0,0.0,42.0,1.0,1061.0,Barcelona
-,Juan Pablo Sorín,ar ARG,"DF,MF",15,14,0.0,1.0,2002-2003,239e2070,Barcelona,"1,137",12.6,5.0,1.0,42.0,5.0,1062.0,Barcelona
-,Fernando Navarro,es ESP,DF,13,13,1.0,1.0,2002-2003,5a3f6fae,Barcelona,"1,125",12.5,6.0,0.0,42.0,1.0,,Barcelona
-,Fábio Rochemback,br BRA,"DF,MF",21,7,1.0,1.0,2002-2003,808296db,Barcelona,774,8.6,2.0,1.0,42.0,2.0,1063.0,Barcelona
-,Gerard López,es ESP,MF,21,5,1.0,0.0,2002-2003,403b0279,Barcelona,672,7.5,3.0,0.0,42.0,1.0,1064.0,Barcelona
-,Andrés Iniesta,es ESP,MF,6,5,1.0,0.0,2002-2003,cfd65a29,Barcelona,447,5.0,1.0,0.0,42.0,1.0,1065.0,Barcelona
-,Philippe Christanval,fr FRA,DF,5,4,0.0,0.0,2002-2003,2b1074c4,Barcelona,349,3.9,1.0,0.0,42.0,4.0,1066.0,Barcelona
-,Dani García,es ESP,FW,8,3,0.0,0.0,2002-2003,68411ed5,Barcelona,225,2.5,0.0,0.0,42.0,1.0,1067.0,Barcelona
-,Patrik Andersson,se SWE,DF,3,2,0.0,0.0,2002-2003,95749f23,Barcelona,239,2.7,0.0,0.0,42.0,41.0,1068.0,Barcelona
-,Óscar López,es ESP,DF,2,2,0.0,0.0,2002-2003,14ae8df8,Barcelona,180,2.0,0.0,0.0,42.0,1.0,1069.0,Barcelona
-,Oleguer Presas,es ESP,DF,3,1,0.0,0.0,2002-2003,6c4f4e07,Barcelona,239,2.7,0.0,0.0,42.0,1.0,1070.0,Barcelona
-,Geovanni,br BRA,"FW,MF",5,0,0.0,0.0,2002-2003,ffeaaebe,Barcelona,77,0.9,0.0,0.0,42.0,2.0,1071.0,Barcelona
-,Nano,es ESP,"DF,FW",3,0,0.0,0.0,2002-2003,51fbb7e2,Barcelona,41,0.5,0.0,0.0,42.0,1.0,1072.0,Barcelona
-,Robert Enke,de GER,GK,1,0,0.0,0.0,2002-2003,02692203,Barcelona,20,0.2,0.0,0.0,42.0,13.0,,Barcelona
-,﻿Phillip Cocu,nl NED,"DF,FW",36,36,2.0,5.0,2003-2004,75522231,Barcelona,"3,129",34.8,5.0,2.0,42.0,11.0,1051.0,Barcelona
-,Xavi,es ESP,MF,36,34,9.0,4.0,2003-2004,c1b4188c,Barcelona,"3,014",33.5,3.0,0.0,42.0,1.0,1052.0,Barcelona
-,Giovanni van Bronckhorst,nl NED,"DF,MF",34,34,2.0,0.0,2003-2004,7e4e7dea,Barcelona,"3,007",33.4,6.0,0.0,42.0,11.0,1074.0,Barcelona
-,Víctor Valdés,es ESP,GK,33,33,0.0,0.0,2003-2004,029e404,Barcelona,"2,914",32.4,4.0,0.0,42.0,1.0,1061.0,Barcelona
-,Ronaldinho,br BRA,"FW,MF",32,32,5.0,15.0,2003-2004,34edcab0,Barcelona,"2,677",29.7,10.0,1.0,42.0,2.0,1075.0,Barcelona
-,Michael Reiziger,nl NED,DF,30,29,1.0,0.0,2003-2004,6e75ab56,Barcelona,"2,488",27.6,6.0,0.0,42.0,11.0,1058.0,Barcelona
-,Javier Saviola,ar ARG,FW,33,28,5.0,14.0,2003-2004,de544fdb,Barcelona,"2,274",25.3,5.0,0.0,42.0,5.0,67.0,Barcelona
-,Carles Puyol,es ESP,DF,27,27,0.0,0.0,2003-2004,7c0bda9b,Barcelona,"2,338",26.0,9.0,1.0,42.0,1.0,1050.0,Barcelona
-,Luis Enrique,es ESP,"FW,MF",25,23,2.0,3.0,2003-2004,b9407435,Barcelona,"1,659",18.4,2.0,1.0,42.0,1.0,1060.0,Barcelona
-,Luis García,es ESP,MF,25,23,7.0,4.0,2003-2004,5c8d2b7,Barcelona,"1,659",18.4,1.0,0.0,42.0,1.0,1076.0,Barcelona
-,Edgar Davids,nl NED,MF,18,18,0.0,1.0,2003-2004,19d5e43e,Barcelona,"1,468",16.3,6.0,1.0,42.0,11.0,1077.0,Barcelona
-,Oleguer Presas,es ESP,DF,18,17,,0.0,2003-2004,6c4f4e07,Barcelona,"1,558",17.3,3.0,0.0,42.0,1.0,1070.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",22,17,0.0,1.0,2003-2004,ce067ffe,Barcelona,"1,388",15.4,5.0,1.0,42.0,20.0,1078.0,Barcelona
-,Thiago Motta,it ITA,MF,20,13,1.0,1.0,2003-2004,57ef0d97,Barcelona,"1,020",11.3,10.0,3.0,42.0,9.0,1057.0,Barcelona
-,Gabri García,es ESP,"DF,MF",16,12,0.0,1.0,2003-2004,d94a7aa,Barcelona,"1,082",12.0,6.0,1.0,42.0,1.0,1055.0,Barcelona
-,Patrick Kluivert,nl NED,FW,21,11,2.0,8.0,2003-2004,6c3b0583,Barcelona,"1,287",14.3,2.0,0.0,42.0,11.0,,Barcelona
-,Gerard López,es ESP,MF,19,11,0.0,1.0,2003-2004,403b0279,Barcelona,"1,232",13.7,8.0,1.0,42.0,1.0,1064.0,Barcelona
-,Ricardo Quaresma,pt POR,"FW,MF",22,10,1.0,1.0,2003-2004,6b6d252d,Barcelona,"1,000",11.1,6.0,1.0,42.0,3.0,1079.0,Barcelona
-,Marc Overmars,nl NED,"FW,MF",20,5,1.0,1.0,2003-2004,c9cc6332,Barcelona,799,8.9,0.0,0.0,42.0,11.0,1056.0,Barcelona
-,Andrés Iniesta,es ESP,MF,11,5,2.0,1.0,2003-2004,cfd65a29,Barcelona,498,5.5,0.0,0.0,42.0,1.0,1065.0,Barcelona
-,Rüştü Reçber,tr TUR,GK,4,3,0.0,0.0,2003-2004,7a09afda,Barcelona,326,3.6,0.0,0.0,42.0,15.0,1080.0,Barcelona
-,Óscar López,es ESP,DF,6,2,1.0,0.0,2003-2004,14ae8df8,Barcelona,311,3.5,1.0,0.0,42.0,1.0,1069.0,Barcelona
-,Patrik Andersson,se SWE,DF,4,2,0.0,0.0,2003-2004,95749f23,Barcelona,208,2.3,0.0,0.0,42.0,41.0,1068.0,Barcelona
-,Sergio García,es ESP,"FW,MF",4,2,1.0,0.0,2003-2004,2bee98fd,Barcelona,206,2.3,0.0,0.0,42.0,1.0,1081.0,Barcelona
-,Albert Jorquera,es ESP,GK,2,2,0.0,0.0,2003-2004,4b0184a5,Barcelona,180,2.0,0.0,0.0,42.0,1.0,1082.0,Barcelona
-,Sergio Santamaría,es ESP,"FW,MF",4,1,0.0,0.0,2003-2004,4795800e,Barcelona,146,1.6,0.0,0.0,42.0,1.0,1083.0,Barcelona
-,Mario,es ESP,DF,1,1,0.0,0.0,2003-2004,6ede7f4,Barcelona,90,1.0,0.0,0.0,42.0,1.0,1084.0,Barcelona
-,Ramón Ros,es ESP,MF,1,0,0.0,0.0,2003-2004,0ad2ce10,Barcelona,6,0.1,0.0,0.0,42.0,1.0,1085.0,Barcelona
-,﻿Samuel Eto'o,cm CMR,FW,37,37,3.0,24.0,2004-2005,06420c93,Barcelona,"3,036",33.7,4.0,0.0,42.0,36.0,1095.0,Barcelona
-,Carles Puyol,es ESP,DF,36,36,1.0,0.0,2004-2005,7c0bda9b,Barcelona,"3,109",34.5,6.0,0.0,42.0,1.0,1050.0,Barcelona
-,Xavi,es ESP,MF,36,36,6.0,3.0,2004-2005,c1b4188c,Barcelona,"3,052",33.9,5.0,0.0,42.0,1.0,1052.0,Barcelona
-,Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2004-2005,029e404,Barcelona,"3,135",34.8,0.0,1.0,42.0,1.0,1061.0,Barcelona
-,Ronaldinho,br BRA,"FW,MF",35,35,9.0,9.0,2004-2005,34edcab0,Barcelona,"3,071",34.1,5.0,0.0,42.0,2.0,1075.0,Barcelona
-,Deco,pt POR,MF,35,35,11.0,8.0,2004-2005,8a2f283,Barcelona,"2,947",32.7,13.0,0.0,42.0,3.0,1086.0,Barcelona
-,Oleguer Presas,es ESP,DF,36,33,1.0,1.0,2004-2005,6c4f4e07,Barcelona,"2,926",32.5,3.0,0.0,42.0,1.0,1070.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",34,33,4.0,3.0,2004-2005,ce067ffe,Barcelona,"2,715",30.2,7.0,1.0,42.0,20.0,1078.0,Barcelona
-,Juliano Belletti,br BRA,"DF,MF",31,29,4.0,0.0,2004-2005,4432ca2,Barcelona,"2,536",28.2,10.0,0.0,42.0,2.0,1087.0,Barcelona
-,Ludovic Giuly,fr FRA,"FW,MF",29,29,4.0,11.0,2004-2005,028d362d,Barcelona,"2,080",23.1,1.0,0.0,42.0,4.0,1088.0,Barcelona
-,Giovanni van Bronckhorst,nl NED,"DF,MF",29,27,1.0,4.0,2004-2005,7e4e7dea,Barcelona,"2,388",26.5,8.0,0.0,42.0,11.0,1074.0,Barcelona
-,Andrés Iniesta,es ESP,MF,37,12,2.0,2.0,2004-2005,cfd65a29,Barcelona,"1,657",18.4,2.0,0.0,42.0,1.0,1065.0,Barcelona
-,Sylvinho,br BRA,DF,21,11,1.0,0.0,2004-2005,b46e497d,Barcelona,960,10.7,3.0,0.0,42.0,2.0,,Barcelona
-,Henrik Larsson,se SWE,FW,12,6,0.0,3.0,2004-2005,05ae7d22,Barcelona,571,6.3,1.0,0.0,42.0,41.0,1089.0,Barcelona
-,Damià Abella,es ESP,"DF,MF",9,5,0.0,0.0,2004-2005,35b4a15,Barcelona,458,5.1,3.0,0.0,42.0,1.0,1090.0,Barcelona
-,Edmílson,br BRA,"DF,MF",6,4,0.0,0.0,2004-2005,13853c88,Barcelona,362,4.0,1.0,0.0,42.0,2.0,1091.0,Barcelona
-,Thiago Motta,it ITA,MF,8,3,0.0,0.0,2004-2005,57ef0d97,Barcelona,273,3.0,1.0,0.0,42.0,9.0,1057.0,Barcelona
-,Gerard López,es ESP,MF,13,2,0.0,2.0,2004-2005,403b0279,Barcelona,302,3.4,2.0,0.0,42.0,1.0,1064.0,Barcelona
-,Maxi López,ar ARG,FW,8,2,0.0,0.0,2004-2005,d469944,Barcelona,237,2.6,0.0,0.0,42.0,5.0,1092.0,Barcelona
-,Fernando Navarro,es ESP,DF,5,2,0.0,0.0,2004-2005,5a3f6fae,Barcelona,217,2.4,0.0,0.0,42.0,1.0,,Barcelona
-,Albert Jorquera,es ESP,GK,2,2,0.0,0.0,2004-2005,4b0184a5,Barcelona,180,2.0,0.0,0.0,42.0,1.0,1082.0,Barcelona
-,Gabri García,es ESP,"DF,MF",4,2,0.0,0.0,2004-2005,d94a7aa,Barcelona,57,0.6,0.0,0.0,42.0,1.0,1055.0,Barcelona
-,Demetrio Albertini,it ITA,"FW,MF",5,1,0.0,0.0,2004-2005,91a9535a,Barcelona,259,2.9,1.0,0.0,42.0,9.0,1093.0,Barcelona
-,Rubén,es ESP,GK,2,1,0.0,0.0,2004-2005,24279b8b,Barcelona,105,1.2,0.0,0.0,42.0,1.0,,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",7,0,0.0,1.0,2004-2005,d70ce98e,Barcelona,70,0.8,0.0,0.0,42.0,5.0,1094.0,Barcelona
-,Rodri,es ESP,DF,1,0,,0.0,2004-2005,7fa4aa89,Barcelona,3,0.0,0.0,0.0,42.0,1.0,,Barcelona
-,﻿Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2005-2006,029e404,Barcelona,"3,150",35.0,2.0,0.0,42.0,1.0,1061.0,Barcelona
-,Carles Puyol,es ESP,DF,35,35,0.0,1.0,2005-2006,7c0bda9b,Barcelona,"3,133",34.8,6.0,1.0,42.0,1.0,1050.0,Barcelona
-,Samuel Eto'o,cm CMR,FW,34,34,5.0,26.0,2005-2006,06420c93,Barcelona,"3,015",33.5,1.0,0.0,42.0,36.0,1095.0,Barcelona
-,Oleguer Presas,es ESP,DF,33,31,0.0,0.0,2005-2006,6c4f4e07,Barcelona,"2,725",30.3,1.0,0.0,42.0,1.0,1070.0,Barcelona
-,Ronaldinho,br BRA,"FW,MF",29,29,14.0,17.0,2005-2006,34edcab0,Barcelona,"2,523",28.0,5.0,0.0,42.0,2.0,1075.0,Barcelona
-,Deco,pt POR,MF,29,28,7.0,3.0,2005-2006,8a2f283,Barcelona,"2,373",26.4,7.0,1.0,42.0,3.0,1086.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",25,25,0.0,0.0,2005-2006,ce067ffe,Barcelona,"1,976",22.0,7.0,0.0,42.0,20.0,1078.0,Barcelona
-,Edmílson,br BRA,"DF,MF",28,24,2.0,0.0,2005-2006,13853c88,Barcelona,"2,192",24.4,10.0,1.0,42.0,2.0,1091.0,Barcelona
-,Sylvinho,br BRA,DF,26,22,4.0,2.0,2005-2006,b46e497d,Barcelona,"2,024",22.5,5.0,0.0,42.0,2.0,,Barcelona
-,Ludovic Giuly,fr FRA,"FW,MF",30,21,5.0,5.0,2005-2006,028d362d,Barcelona,"1,752",19.5,1.0,0.0,42.0,4.0,1088.0,Barcelona
-,Juliano Belletti,br BRA,"DF,MF",27,20,1.0,0.0,2005-2006,4432ca2,Barcelona,"1,712",19.0,9.0,0.0,42.0,2.0,1087.0,Barcelona
-,Mark van Bommel,nl NED,MF,24,17,2.0,2.0,2005-2006,f23bcfa3,Barcelona,"1,555",17.3,4.0,0.0,42.0,11.0,1096.0,Barcelona
-,Giovanni van Bronckhorst,nl NED,"DF,MF",19,15,2.0,0.0,2005-2006,7e4e7dea,Barcelona,"1,392",15.5,3.0,0.0,42.0,11.0,1074.0,Barcelona
-,Andrés Iniesta,es ESP,MF,33,14,4.0,0.0,2005-2006,cfd65a29,Barcelona,"1,662",18.5,3.0,0.0,42.0,1.0,1065.0,Barcelona
-,Henrik Larsson,se SWE,FW,28,14,1.0,10.0,2005-2006,05ae7d22,Barcelona,"1,345",14.9,0.0,0.0,42.0,41.0,1089.0,Barcelona
-,Xavi,es ESP,MF,16,14,1.0,0.0,2005-2006,c1b4188c,Barcelona,"1,215",13.5,0.0,0.0,42.0,1.0,1052.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",17,11,3.0,6.0,2005-2006,d70ce98e,Barcelona,911,10.1,2.0,0.0,42.0,5.0,1094.0,Barcelona
-,Thiago Motta,it ITA,MF,15,11,1.0,1.0,2005-2006,57ef0d97,Barcelona,908,10.1,3.0,1.0,42.0,9.0,1057.0,Barcelona
-,Gabri García,es ESP,"DF,MF",11,4,0.0,0.0,2005-2006,d94a7aa,Barcelona,428,4.8,1.0,1.0,42.0,1.0,1055.0,Barcelona
-,Santiago Ezquerro,es ESP,FW,12,3,0.0,2.0,2005-2006,c836203d,Barcelona,475,5.3,0.0,0.0,42.0,1.0,1097.0,Barcelona
-,Albert Jorquera,es ESP,GK,3,3,0.0,0.0,2005-2006,4b0184a5,Barcelona,270,3.0,0.0,0.0,42.0,1.0,1082.0,Barcelona
-,Rodri,es ESP,DF,4,3,0.0,0.0,2005-2006,7fa4aa89,Barcelona,254,2.8,0.0,0.0,42.0,1.0,,Barcelona
-,Maxi López,ar ARG,FW,6,2,1.0,0.0,2005-2006,d469944,Barcelona,272,3.0,0.0,0.0,42.0,5.0,1092.0,Barcelona
-,Ludovic Sylvestre,gp GLP,MF,2,1,,0.0,2005-2006,37103874,Barcelona,107,1.2,0.0,0.0,42.0,56.0,1098.0,Barcelona
-,Jesús Olmo,es ESP,DF,1,1,,0.0,2005-2006,cf30e13a,Barcelona,90,1.0,1.0,0.0,42.0,1.0,1099.0,Barcelona
-,Andrea Orlandi,es ESP,"FW,MF",1,1,,0.0,2005-2006,b1403ee6,Barcelona,73,0.8,0.0,0.0,42.0,1.0,1100.0,Barcelona
-,Pitu,es ESP,MF,1,0,,0.0,2005-2006,d6ee013,Barcelona,29,0.3,0.0,0.0,42.0,1.0,1101.0,Barcelona
-,Paco Montañés,es ESP,"FW,MF",1,0,,0.0,2005-2006,9cc493b1,Barcelona,21,0.2,0.0,0.0,42.0,1.0,1102.0,Barcelona
-,Francisco Martos,es ESP,"DF,MF",1,0,,0.0,2005-2006,412db81c,Barcelona,17,0.2,0.0,0.0,42.0,1.0,1103.0,Barcelona
-,Ramón Masó,es ESP,MF,1,0,,0.0,2005-2006,31531b99,Barcelona,10,0.1,0.0,0.0,42.0,1.0,1104.0,Barcelona
-,﻿Víctor Valdés,es ESP,GK,38,38,0.0,0.0,2006-2007,029e404,Barcelona,"3,420",38.0,2.0,0.0,42.0,1.0,1061.0,Barcelona
-,Carles Puyol,es ESP,DF,35,35,0.0,2.0,2006-2007,7c0bda9b,Barcelona,"3,028",33.6,3.0,0.0,42.0,1.0,1050.0,Barcelona
-,Ronaldinho,br BRA,"FW,MF",32,32,8.0,21.0,2006-2007,34edcab0,Barcelona,"2,733",30.4,8.0,1.0,42.0,2.0,1075.0,Barcelona
-,Xavi,es ESP,MF,35,31,3.0,3.0,2006-2007,c1b4188c,Barcelona,"2,866",31.8,3.0,0.0,42.0,1.0,1052.0,Barcelona
-,Deco,pt POR,MF,31,31,9.0,1.0,2006-2007,8a2f283,Barcelona,"2,473",27.5,14.0,1.0,42.0,3.0,1086.0,Barcelona
-,Andrés Iniesta,es ESP,MF,37,28,3.0,6.0,2006-2007,cfd65a29,Barcelona,"2,696",30.0,4.0,0.0,42.0,1.0,1065.0,Barcelona
-,Gianluca Zambrotta,it ITA,DF,29,25,3.0,3.0,2006-2007,94508225,Barcelona,"2,313",25.7,9.0,1.0,42.0,9.0,1105.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",26,23,3.0,14.0,2006-2007,d70ce98e,Barcelona,"1,983",22.0,2.0,0.0,42.0,5.0,1094.0,Barcelona
-,Lilian Thuram,fr FRA,DF,23,23,0.0,0.0,2006-2007,643ca22c,Barcelona,"1,954",21.7,2.0,0.0,42.0,4.0,1106.0,Barcelona
-,Edmílson,br BRA,"DF,MF",26,22,0.0,0.0,2006-2007,13853c88,Barcelona,"1,809",20.1,5.0,0.0,42.0,2.0,1091.0,Barcelona
-,Giovanni van Bronckhorst,nl NED,"DF,MF",23,20,2.0,0.0,2006-2007,7e4e7dea,Barcelona,"1,775",19.7,3.0,0.0,42.0,11.0,1074.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",21,20,0.0,1.0,2006-2007,ce067ffe,Barcelona,"1,720",19.1,7.0,0.0,42.0,20.0,1078.0,Barcelona
-,Samuel Eto'o,cm CMR,FW,19,17,7.0,11.0,2006-2007,06420c93,Barcelona,"1,477",16.4,4.0,0.0,42.0,36.0,1095.0,Barcelona
-,Ludovic Giuly,fr FRA,"FW,MF",27,15,2.0,3.0,2006-2007,028d362d,Barcelona,"1,468",16.3,0.0,1.0,42.0,4.0,1088.0,Barcelona
-,Eiður Guðjohnsen,is ISL,"FW,MF",25,14,2.0,5.0,2006-2007,32fc9ff2,Barcelona,"1,171",13.0,1.0,0.0,42.0,40.0,1107.0,Barcelona
-,Oleguer Presas,es ESP,DF,25,11,0.0,0.0,2006-2007,6c4f4e07,Barcelona,"1,238",13.8,3.0,1.0,42.0,1.0,1070.0,Barcelona
-,Sylvinho,br BRA,DF,13,11,2.0,0.0,2006-2007,b46e497d,Barcelona,976,10.8,2.0,1.0,42.0,2.0,,Barcelona
-,Juliano Belletti,br BRA,"DF,MF",13,9,1.0,0.0,2006-2007,4432ca2,Barcelona,808,9.0,2.0,0.0,42.0,2.0,1087.0,Barcelona
-,Javier Saviola,ar ARG,FW,18,6,0.0,5.0,2006-2007,de544fdb,Barcelona,677,7.5,2.0,0.0,42.0,5.0,67.0,Barcelona
-,Thiago Motta,it ITA,MF,14,5,0.0,0.0,2006-2007,57ef0d97,Barcelona,566,6.3,4.0,1.0,42.0,9.0,1057.0,Barcelona
-,Santiago Ezquerro,es ESP,FW,9,2,0.0,1.0,2006-2007,c836203d,Barcelona,274,3.0,0.0,0.0,42.0,1.0,1097.0,Barcelona
-,Jesús Olmo,es ESP,DF,1,0,,0.0,2006-2007,cf30e13a,Barcelona,3,0.0,0.0,0.0,42.0,1.0,1099.0,Barcelona
-,﻿Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2007-2008,029e404,Barcelona,"3,150",35.0,2.0,0.0,42.0,1.0,1061.0,Barcelona
-,Xavi,es ESP,MF,35,33,5.0,7.0,2007-2008,c1b4188c,Barcelona,"2,907",32.3,4.0,1.0,42.0,1.0,1052.0,Barcelona
-,Carles Puyol,es ESP,DF,30,29,0.0,0.0,2007-2008,7c0bda9b,Barcelona,"2,513",27.9,8.0,0.0,42.0,1.0,1050.0,Barcelona
-,Andrés Iniesta,es ESP,MF,31,28,2.0,3.0,2007-2008,cfd65a29,Barcelona,"2,616",29.1,6.0,0.0,42.0,1.0,1065.0,Barcelona
-,Éric Abidal,fr FRA,DF,30,28,0.0,0.0,2007-2008,016828bd,Barcelona,"2,523",28.0,2.0,0.0,42.0,4.0,1108.0,Barcelona
-,Thierry Henry,fr FRA,FW,30,27,7.0,12.0,2007-2008,c0c5ee74,Barcelona,"2,337",26.0,2.0,0.0,42.0,4.0,1109.0,Barcelona
-,Gabriel Milito,ar ARG,DF,27,26,0.0,1.0,2007-2008,095009cc,Barcelona,"2,221",24.7,6.0,1.0,42.0,5.0,1110.0,Barcelona
-,Gianluca Zambrotta,it ITA,DF,29,25,0.0,0.0,2007-2008,94508225,Barcelona,"2,108",23.4,7.0,1.0,42.0,9.0,1105.0,Barcelona
-,Yaya Touré,ci CIV,MF,26,25,0.0,1.0,2007-2008,c204f844,Barcelona,"2,085",23.2,7.0,0.0,42.0,35.0,1111.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",27,23,12.0,10.0,2007-2008,d70ce98e,Barcelona,"1,973",21.9,2.0,0.0,42.0,5.0,1094.0,Barcelona
-,Samuel Eto'o,cm CMR,FW,18,18,3.0,16.0,2007-2008,06420c93,Barcelona,"1,494",16.6,5.0,0.0,42.0,36.0,1095.0,Barcelona
-,Lilian Thuram,fr FRA,DF,18,17,0.0,0.0,2007-2008,643ca22c,Barcelona,"1,423",15.8,3.0,0.0,42.0,4.0,1106.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",24,15,0.0,2.0,2007-2008,ce067ffe,Barcelona,"1,529",17.0,6.0,1.0,42.0,20.0,1078.0,Barcelona
-,Bojan Krkić,es ESP,"FW,MF",31,14,3.0,10.0,2007-2008,9fa0a0b8,Barcelona,"1,453",16.1,1.0,0.0,42.0,1.0,1112.0,Barcelona
-,Deco,pt POR,MF,18,14,5.0,1.0,2007-2008,8a2f283,Barcelona,"1,221",13.6,10.0,0.0,42.0,3.0,1086.0,Barcelona
-,Ronaldinho,br BRA,"FW,MF",17,13,2.0,8.0,2007-2008,34edcab0,Barcelona,"1,168",13.0,0.0,0.0,42.0,2.0,1075.0,Barcelona
-,Eiður Guðjohnsen,is ISL,"FW,MF",23,12,1.0,2.0,2007-2008,32fc9ff2,Barcelona,990,11.0,2.0,0.0,42.0,40.0,1107.0,Barcelona
-,Giovani dos Santos,mx MEX,"FW,MF",28,10,3.0,3.0,2007-2008,7dba6233,Barcelona,"1,257",14.0,2.0,0.0,42.0,20.0,1113.0,Barcelona
-,Sylvinho,br BRA,DF,14,10,0.0,0.0,2007-2008,b46e497d,Barcelona,969,10.8,1.0,0.0,42.0,2.0,,Barcelona
-,Oleguer Presas,es ESP,DF,12,7,0.0,0.0,2007-2008,6c4f4e07,Barcelona,738,8.2,1.0,0.0,42.0,1.0,1070.0,Barcelona
-,Edmílson,br BRA,"DF,MF",11,5,0.0,0.0,2007-2008,13853c88,Barcelona,449,5.0,3.0,1.0,42.0,2.0,1091.0,Barcelona
-,José Manuel Pinto,es ESP,GK,3,3,0.0,0.0,2007-2008,4a3cd9b7,Barcelona,270,3.0,0.0,0.0,42.0,1.0,,Barcelona
-,Santiago Ezquerro,es ESP,FW,3,1,0.0,0.0,2007-2008,c836203d,Barcelona,111,1.2,0.0,0.0,42.0,1.0,1097.0,Barcelona
-,Fali,es ESP,"DF,MF",1,0,0.0,0.0,2007-2008,65c75bfe,Barcelona,21,0.2,1.0,0.0,42.0,1.0,1114.0,Barcelona
-,Pedro,es ESP,"FW,MF",2,0,0.0,0.0,2007-2008,3ca7254a,Barcelona,19,0.2,0.0,0.0,42.0,1.0,1115.0,Barcelona
-,José Manuel Rueda,es ESP,MF,1,0,,0.0,2007-2008,35d5caee,Barcelona,17,0.2,0.0,0.0,42.0,1.0,1116.0,Barcelona
-,Víctor Vázquez,es ESP,"FW,MF",1,0,0.0,0.0,2007-2008,6c564d36,Barcelona,14,0.2,0.0,0.0,42.0,1.0,1117.0,Barcelona
-,Víctor Sánchez,es ESP,"DF,MF",1,0,,0.0,2007-2008,d4d0985,Barcelona,2,0.0,0.0,0.0,42.0,1.0,1118.0,Barcelona
-,﻿Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2008-2009,029e404,Barcelona,"3,150",35.0,3.0,0.0,42.0,1.0,1061.0,Barcelona
-,Xavi,es ESP,MF,35,34,19.0,6.0,2008-2009,c1b4188c,Barcelona,"2,973",33.0,4.0,0.0,42.0,1.0,1052.0,Barcelona
-,Samuel Eto'o,cm CMR,FW,36,34,4.0,30.0,2008-2009,06420c93,Barcelona,"2,929",32.5,9.0,0.0,42.0,36.0,1095.0,Barcelona
-,Dani Alves,br BRA,"DF,MF",34,32,9.0,5.0,2008-2009,c9e99e49,Barcelona,"2,925",32.5,10.0,0.0,42.0,2.0,1119.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",31,27,11.0,23.0,2008-2009,d70ce98e,Barcelona,"2,516",28.0,2.0,0.0,42.0,5.0,1094.0,Barcelona
-,Carles Puyol,es ESP,DF,28,26,2.0,1.0,2008-2009,7c0bda9b,Barcelona,"2,384",26.5,4.0,0.0,42.0,1.0,1050.0,Barcelona
-,Gerard Piqué,es ESP,DF,25,25,0.0,1.0,2008-2009,dfc9123,Barcelona,"2,205",24.5,6.0,2.0,42.0,1.0,1120.0,Barcelona
-,Éric Abidal,fr FRA,DF,25,25,0.0,0.0,2008-2009,016828bd,Barcelona,"2,116",23.5,5.0,1.0,42.0,4.0,1108.0,Barcelona
-,Thierry Henry,fr FRA,FW,29,24,7.0,19.0,2008-2009,c0c5ee74,Barcelona,"2,112",23.5,3.0,0.0,42.0,4.0,1109.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",23,23,0.0,1.0,2008-2009,ce067ffe,Barcelona,"1,987",22.1,6.0,1.0,42.0,20.0,1078.0,Barcelona
-,Yaya Touré,ci CIV,MF,25,23,0.0,2.0,2008-2009,c204f844,Barcelona,"1,924",21.4,4.0,0.0,42.0,35.0,1111.0,Barcelona
-,Andrés Iniesta,es ESP,MF,26,22,5.0,4.0,2008-2009,cfd65a29,Barcelona,"1,901",21.1,3.0,0.0,42.0,1.0,1065.0,Barcelona
-,Seydou Keita,ml MLI,MF,29,17,0.0,4.0,2008-2009,500c4e9b,Barcelona,"1,529",17.0,0.0,1.0,42.0,12.0,1121.0,Barcelona
-,Sergio Busquets,es ESP,MF,24,16,0.0,1.0,2008-2009,5ab0ea87,Barcelona,"1,535",17.1,9.0,0.0,42.0,1.0,1122.0,Barcelona
-,Eiður Guðjohnsen,is ISL,"FW,MF",24,11,2.0,3.0,2008-2009,32fc9ff2,Barcelona,"1,036",11.5,2.0,0.0,42.0,40.0,1107.0,Barcelona
-,Sylvinho,br BRA,DF,15,10,0.0,0.0,2008-2009,b46e497d,Barcelona,878,9.8,0.0,0.0,42.0,2.0,,Barcelona
-,Martín Cáceres,uy URU,DF,13,8,0.0,0.0,2008-2009,94d79e3,Barcelona,783,8.7,0.0,0.0,42.0,8.0,1123.0,Barcelona
-,Alexander Hleb,by BLR,MF,19,8,3.0,0.0,2008-2009,35cf43aa,Barcelona,730,8.1,0.0,0.0,42.0,77.0,1124.0,Barcelona
-,Bojan Krkić,es ESP,"FW,MF",23,6,4.0,2.0,2008-2009,9fa0a0b8,Barcelona,736,8.2,3.0,0.0,42.0,1.0,1112.0,Barcelona
-,Pedro,es ESP,"FW,MF",6,4,0.0,0.0,2008-2009,3ca7254a,Barcelona,355,3.9,0.0,0.0,42.0,1.0,1115.0,Barcelona
-,Víctor Sánchez,es ESP,"DF,MF",7,3,0.0,0.0,2008-2009,d4d0985,Barcelona,250,2.8,0.0,0.0,42.0,1.0,1118.0,Barcelona
-,José Manuel Pinto,es ESP,GK,2,2,0.0,0.0,2008-2009,4a3cd9b7,Barcelona,180,2.0,0.0,0.0,42.0,1.0,,Barcelona
-,Xavi Torres,es ESP,MF,2,2,0.0,0.0,2008-2009,1b51ad2f,Barcelona,180,2.0,1.0,0.0,42.0,1.0,1125.0,Barcelona
-,Oier Olazábal,es ESP,GK,1,1,0.0,0.0,2008-2009,b5bdf144,Barcelona,90,1.0,0.0,0.0,42.0,1.0,,Barcelona
-,Marc Muniesa,es ESP,"DF,MF",1,0,0.0,0.0,2008-2009,4db76f57,Barcelona,31,0.3,0.0,1.0,42.0,1.0,1126.0,Barcelona
-,Jeffrén Suárez,ve VEN,"FW,MF",2,0,0.0,0.0,2008-2009,01e9c0a6,Barcelona,30,0.3,0.0,0.0,42.0,53.0,1127.0,Barcelona
-,Alberto Botía,es ESP,DF,1,0,0.0,0.0,2008-2009,7f6bff1f,Barcelona,28,0.3,0.0,0.0,42.0,1.0,1128.0,Barcelona
-,Thiago Alcántara,es ESP,MF,1,0,0.0,0.0,2008-2009,77e84962,Barcelona,18,0.2,0.0,0.0,42.0,1.0,1129.0,Barcelona
-,Abraham González,es ESP,MF,1,0,0.0,0.0,2008-2009,682bd745,Barcelona,15,0.2,0.0,0.0,42.0,1.0,1130.0,Barcelona
-,﻿Víctor Valdés,es ESP,GK,38,38,0.0,0.0,2009-2010,029e404,Barcelona,"3,420",38.0,1.0,0.0,42.0,1.0,1061.0,Barcelona
-,Xavi,es ESP,MF,34,31,13.0,3.0,2009-2010,c1b4188c,Barcelona,"2,797",31.1,4.0,0.0,42.0,1.0,1052.0,Barcelona
-,Carles Puyol,es ESP,DF,32,31,1.0,1.0,2009-2010,7c0bda9b,Barcelona,"2,712",30.1,7.0,0.0,42.0,1.0,1050.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",35,30,9.0,34.0,2009-2010,d70ce98e,Barcelona,"2,805",31.2,3.0,0.0,42.0,5.0,1094.0,Barcelona
-,Gerard Piqué,es ESP,DF,32,29,0.0,2.0,2009-2010,dfc9123,Barcelona,"2,541",28.2,6.0,0.0,42.0,1.0,1120.0,Barcelona
-,Dani Alves,br BRA,"DF,MF",29,28,8.0,3.0,2009-2010,c9e99e49,Barcelona,"2,493",27.7,8.0,1.0,42.0,2.0,1119.0,Barcelona
-,Sergio Busquets,es ESP,MF,33,26,1.0,0.0,2009-2010,5ab0ea87,Barcelona,"2,324",25.8,8.0,1.0,42.0,1.0,1122.0,Barcelona
-,Maxwell,br BRA,DF,25,25,3.0,0.0,2009-2010,6f08cece,Barcelona,"2,162",24.0,4.0,0.0,42.0,2.0,1131.0,Barcelona
-,Seydou Keita,ml MLI,MF,29,23,2.0,6.0,2009-2010,500c4e9b,Barcelona,"2,096",23.3,6.0,0.0,42.0,12.0,1121.0,Barcelona
-,Zlatan Ibrahimović,se SWE,FW,29,23,6.0,16.0,2009-2010,4cde5509,Barcelona,"2,040",22.7,5.0,1.0,42.0,41.0,1132.0,Barcelona
-,Pedro,es ESP,"FW,MF",34,22,2.0,12.0,2009-2010,3ca7254a,Barcelona,"2,087",23.2,2.0,0.0,42.0,1.0,1115.0,Barcelona
-,Andrés Iniesta,es ESP,MF,29,20,3.0,1.0,2009-2010,cfd65a29,Barcelona,"1,905",21.2,2.0,0.0,42.0,1.0,1065.0,Barcelona
-,Yaya Touré,ci CIV,MF,23,18,3.0,1.0,2009-2010,c204f844,Barcelona,"1,485",16.5,3.0,0.0,42.0,35.0,1111.0,Barcelona
-,Éric Abidal,fr FRA,DF,17,15,2.0,0.0,2009-2010,016828bd,Barcelona,"1,410",15.7,3.0,0.0,42.0,4.0,1108.0,Barcelona
-,Thierry Henry,fr FRA,FW,21,15,1.0,4.0,2009-2010,c0c5ee74,Barcelona,"1,223",13.6,1.0,0.0,42.0,4.0,1109.0,Barcelona
-,Bojan Krkić,es ESP,"FW,MF",23,11,2.0,8.0,2009-2010,9fa0a0b8,Barcelona,"1,023",11.4,2.0,0.0,42.0,1.0,1112.0,Barcelona
-,Dmytro Chygrynskiy,ua UKR,DF,12,10,0.0,0.0,2009-2010,b20f5a66,Barcelona,876,9.7,2.0,0.0,42.0,29.0,1133.0,Barcelona
-,Gabriel Milito,ar ARG,DF,11,9,0.0,0.0,2009-2010,095009cc,Barcelona,784,8.7,2.0,0.0,42.0,5.0,1110.0,Barcelona
-,Rafael Márquez,mx MEX,"DF,MF",15,7,0.0,1.0,2009-2010,ce067ffe,Barcelona,771,8.6,2.0,1.0,42.0,20.0,1078.0,Barcelona
-,Jeffrén Suárez,ve VEN,"FW,MF",12,6,0.0,2.0,2009-2010,01e9c0a6,Barcelona,402,4.5,1.0,0.0,42.0,53.0,1127.0,Barcelona
-,Jonathan dos Santos,mx MEX,MF,3,1,0.0,0.0,2009-2010,91872dec,Barcelona,114,1.3,0.0,0.0,42.0,20.0,1134.0,Barcelona
-,Marc Bartra,es ESP,DF,1,0,0.0,0.0,2009-2010,b742cc0d,Barcelona,30,0.3,0.0,0.0,42.0,1.0,1135.0,Barcelona
-,Thiago Alcántara,es ESP,MF,1,0,0.0,1.0,2009-2010,77e84962,Barcelona,15,0.2,0.0,0.0,42.0,1.0,1129.0,Barcelona
-,Andreu Fontàs,es ESP,DF,1,0,0.0,0.0,2009-2010,0f138d5a,Barcelona,6,0.1,0.0,0.0,42.0,1.0,,Barcelona
-,﻿Víctor Valdés,es ESP,GK,32,32,0.0,0.0,2010-2011,029e404,Barcelona,"2,880",32.0,6.0,0.0,42.0,1.0,1061.0,Barcelona
-,Andrés Iniesta,es ESP,MF,34,32,4.0,8.0,2010-2011,cfd65a29,Barcelona,"2,786",31.0,1.0,0.0,42.0,1.0,1065.0,Barcelona
-,David Villa,es ESP,"FW,MF",34,32,6.0,18.0,2010-2011,de08a67,Barcelona,"2,744",30.5,3.0,1.0,42.0,1.0,,Barcelona
-,Dani Alves,br BRA,"DF,MF",35,31,14.0,2.0,2010-2011,c9e99e49,Barcelona,"2,905",32.3,10.0,0.0,42.0,2.0,1119.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",33,31,19.0,31.0,2010-2011,d70ce98e,Barcelona,"2,858",31.8,3.0,0.0,42.0,5.0,1094.0,Barcelona
-,Gerard Piqué,es ESP,DF,31,29,1.0,3.0,2010-2011,dfc9123,Barcelona,"2,649",29.4,10.0,1.0,42.0,1.0,1120.0,Barcelona
-,Xavi,es ESP,MF,31,29,11.0,3.0,2010-2011,c1b4188c,Barcelona,"2,451",27.2,6.0,0.0,42.0,1.0,1052.0,Barcelona
-,Sergio Busquets,es ESP,MF,28,25,2.0,1.0,2010-2011,5ab0ea87,Barcelona,"2,300",25.6,5.0,0.0,42.0,1.0,1122.0,Barcelona
-,Pedro,es ESP,"FW,MF",33,24,9.0,13.0,2010-2011,3ca7254a,Barcelona,"2,126",23.6,2.0,0.0,42.0,1.0,1115.0,Barcelona
-,Éric Abidal,fr FRA,DF,26,23,0.0,0.0,2010-2011,016828bd,Barcelona,"2,023",22.5,3.0,0.0,42.0,4.0,1108.0,Barcelona
-,Maxwell,br BRA,DF,25,19,1.0,0.0,2010-2011,6f08cece,Barcelona,"1,820",20.2,2.0,0.0,42.0,2.0,1131.0,Barcelona
-,Javier Mascherano,ar ARG,"DF,MF",27,18,0.0,0.0,2010-2011,5070881b,Barcelona,"1,542",17.1,6.0,0.0,42.0,5.0,1136.0,Barcelona
-,Carles Puyol,es ESP,DF,17,17,0.0,1.0,2010-2011,7c0bda9b,Barcelona,"1,381",15.3,3.0,0.0,42.0,1.0,1050.0,Barcelona
-,Seydou Keita,ml MLI,MF,35,15,2.0,3.0,2010-2011,500c4e9b,Barcelona,"1,558",17.3,2.0,0.0,42.0,12.0,1121.0,Barcelona
-,Adriano,br BRA,"DF,MF",14,11,1.0,0.0,2010-2011,9d8586c4,Barcelona,937,10.4,3.0,0.0,42.0,2.0,1137.0,Barcelona
-,Bojan Krkić,es ESP,"FW,MF",27,9,2.0,6.0,2010-2011,9fa0a0b8,Barcelona,949,10.5,2.0,0.0,42.0,1.0,1112.0,Barcelona
-,Gabriel Milito,ar ARG,DF,10,8,0.0,0.0,2010-2011,095009cc,Barcelona,645,7.2,2.0,0.0,42.0,5.0,1110.0,Barcelona
-,Ibrahim Afellay,nl NED,"FW,MF",16,7,0.0,1.0,2010-2011,9a8c6673,Barcelona,669,7.4,1.0,0.0,42.0,11.0,1138.0,Barcelona
-,Thiago Alcántara,es ESP,MF,12,6,0.0,2.0,2010-2011,77e84962,Barcelona,666,7.4,1.0,0.0,42.0,1.0,1129.0,Barcelona
-,José Manuel Pinto,es ESP,GK,6,6,0.0,0.0,2010-2011,4a3cd9b7,Barcelona,540,6.0,0.0,0.0,42.0,1.0,,Barcelona
-,Andreu Fontàs,es ESP,DF,6,5,0.0,0.0,2010-2011,0f138d5a,Barcelona,459,5.1,0.0,0.0,42.0,1.0,,Barcelona
-,Jeffrén Suárez,ve VEN,"FW,MF",8,4,1.0,1.0,2010-2011,01e9c0a6,Barcelona,305,3.4,0.0,0.0,42.0,53.0,1127.0,Barcelona
-,Marc Bartra,es ESP,DF,2,2,,1.0,2010-2011,b742cc0d,Barcelona,180,2.0,0.0,0.0,42.0,1.0,1135.0,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",1,1,,0.0,2010-2011,335fa267,Barcelona,90,1.0,0.0,0.0,42.0,1.0,1139.0,Barcelona
-,Jonathan dos Santos,mx MEX,MF,2,1,0.0,0.0,2010-2011,91872dec,Barcelona,88,1.0,0.0,0.0,42.0,20.0,1134.0,Barcelona
-,Martín Montoya,es ESP,DF,2,1,0.0,0.0,2010-2011,5cec2487,Barcelona,17,0.2,0.0,0.0,42.0,1.0,,Barcelona
-,Nolito,es ESP,"FW,MF",2,0,0.0,0.0,2010-2011,b2d0ec1b,Barcelona,16,0.2,0.0,0.0,42.0,1.0,,Barcelona
-,Oriol Romeu,es ESP,MF,1,0,0.0,0.0,2010-2011,4b511457,Barcelona,10,0.1,0.0,0.0,42.0,1.0,,Barcelona
-,﻿Lionel Messi,ar ARG,"FW,MF",37,36,16.0,50.0,2011-2012,d70ce98e,Barcelona,"3,270",36.3,6.0,0.0,42.0,5.0,1094.0,Barcelona
-,Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2011-2012,029e404,Barcelona,"3,150",35.0,4.0,0.0,42.0,1.0,1061.0,Barcelona
-,Javier Mascherano,ar ARG,"DF,MF",31,30,0.0,0.0,2011-2012,5070881b,Barcelona,"2,737",30.4,5.0,0.0,42.0,5.0,1136.0,Barcelona
-,Dani Alves,br BRA,"DF,MF",33,29,9.0,2.0,2011-2012,c9e99e49,Barcelona,"2,674",29.7,8.0,2.0,42.0,2.0,1119.0,Barcelona
-,Sergio Busquets,es ESP,MF,31,28,1.0,1.0,2011-2012,5ab0ea87,Barcelona,"2,434",27.0,9.0,0.0,42.0,1.0,1122.0,Barcelona
-,Xavi,es ESP,MF,31,26,6.0,10.0,2011-2012,c1b4188c,Barcelona,"2,159",24.0,2.0,0.0,42.0,1.0,1052.0,Barcelona
-,Cesc Fàbregas,es ESP,"FW,MF",28,23,7.0,9.0,2011-2012,33508c78,Barcelona,"1,931",21.5,6.0,0.0,42.0,1.0,1140.0,Barcelona
-,Carles Puyol,es ESP,DF,26,23,0.0,3.0,2011-2012,7c0bda9b,Barcelona,"1,912",21.2,3.0,0.0,42.0,1.0,1050.0,Barcelona
-,Andrés Iniesta,es ESP,MF,27,21,9.0,2.0,2011-2012,cfd65a29,Barcelona,"1,853",20.6,3.0,0.0,42.0,1.0,1065.0,Barcelona
-,Thiago Alcántara,es ESP,MF,27,20,2.0,2.0,2011-2012,77e84962,Barcelona,"1,825",20.3,3.0,1.0,42.0,1.0,1129.0,Barcelona
-,Éric Abidal,fr FRA,DF,22,20,1.0,0.0,2011-2012,016828bd,Barcelona,"1,762",19.6,0.0,0.0,42.0,4.0,1108.0,Barcelona
-,Adriano,br BRA,"DF,MF",26,20,4.0,1.0,2011-2012,9d8586c4,Barcelona,"1,722",19.1,3.0,0.0,42.0,2.0,1137.0,Barcelona
-,Alexis Sánchez,cl CHI,"FW,MF",25,20,4.0,12.0,2011-2012,2c0f8e9e,Barcelona,"1,666",18.5,4.0,0.0,42.0,31.0,1141.0,Barcelona
-,Pedro,es ESP,"FW,MF",29,20,3.0,5.0,2011-2012,3ca7254a,Barcelona,"1,621",18.0,4.0,0.0,42.0,1.0,1115.0,Barcelona
-,Gerard Piqué,es ESP,DF,22,17,0.0,2.0,2011-2012,dfc9123,Barcelona,"1,473",16.4,7.0,1.0,42.0,1.0,1120.0,Barcelona
-,Seydou Keita,ml MLI,MF,26,14,2.0,3.0,2011-2012,500c4e9b,Barcelona,"1,348",15.0,4.0,0.0,42.0,12.0,1121.0,Barcelona
-,Isaac Cuenca,es ESP,"FW,MF",16,11,3.0,2.0,2011-2012,24e9421b,Barcelona,"1,076",12.0,1.0,0.0,42.0,1.0,,Barcelona
-,David Villa,es ESP,"FW,MF",15,8,1.0,5.0,2011-2012,de08a67,Barcelona,899,10.0,1.0,0.0,42.0,1.0,,Barcelona
-,Maxwell,br BRA,DF,7,4,0.0,0.0,2011-2012,6f08cece,Barcelona,426,4.7,1.0,0.0,42.0,2.0,1131.0,Barcelona
-,Cristian Tello,es ESP,"FW,MF",15,3,0.0,3.0,2011-2012,72a99e38,Barcelona,456,5.1,1.0,0.0,42.0,1.0,1142.0,Barcelona
-,Martín Montoya,es ESP,DF,7,3,1.0,0.0,2011-2012,5cec2487,Barcelona,375,4.2,1.0,0.0,42.0,1.0,,Barcelona
-,José Manuel Pinto,es ESP,GK,3,3,0.0,0.0,2011-2012,4a3cd9b7,Barcelona,270,3.0,0.0,0.0,42.0,1.0,,Barcelona
-,Jonathan dos Santos,mx MEX,MF,3,1,0.0,0.0,2011-2012,91872dec,Barcelona,119,1.3,0.0,0.0,42.0,20.0,1134.0,Barcelona
-,Ibrahim Afellay,nl NED,"FW,MF",4,1,0.0,0.0,2011-2012,9a8c6673,Barcelona,116,1.3,0.0,0.0,42.0,11.0,1138.0,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",1,1,0.0,0.0,2011-2012,335fa267,Barcelona,90,1.0,1.0,0.0,42.0,1.0,1139.0,Barcelona
-,Andreu Fontàs,es ESP,DF,1,1,0.0,0.0,2011-2012,0f138d5a,Barcelona,78,0.9,0.0,0.0,42.0,1.0,,Barcelona
-,Gerard Deulofeu,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,39583cfd,Barcelona,29,0.3,0.0,0.0,42.0,1.0,1143.0,Barcelona
-,Marc Bartra,es ESP,DF,1,0,0.0,0.0,2011-2012,b742cc0d,Barcelona,24,0.3,0.0,0.0,42.0,1.0,1135.0,Barcelona
-,Marc Muniesa,es ESP,"DF,MF",1,0,0.0,0.0,2011-2012,4db76f57,Barcelona,8,0.1,0.0,0.0,42.0,1.0,1126.0,Barcelona
-,﻿Víctor Valdés,es ESP,GK,31,31,0.0,0.0,2012-2013,029e404,Barcelona,"2,790",31.0,0.0,0.0,42.0,1.0,1061.0,Barcelona
-,Cesc Fàbregas,es ESP,"FW,MF",32,30,12.0,11.0,2012-2013,33508c78,Barcelona,"2,296",25.5,7.0,0.0,42.0,1.0,1140.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",32,28,11.0,46.0,2012-2013,d70ce98e,Barcelona,"2,650",29.4,1.0,0.0,42.0,5.0,1094.0,Barcelona
-,Jordi Alba,es ESP,"DF,MF",29,27,5.0,2.0,2012-2013,4601e194,Barcelona,"2,497",27.7,3.0,0.0,42.0,1.0,,Barcelona
-,Gerard Piqué,es ESP,DF,28,27,0.0,2.0,2012-2013,dfc9123,Barcelona,"2,399",26.7,5.0,1.0,42.0,1.0,1120.0,Barcelona
-,Dani Alves,br BRA,"DF,MF",30,26,6.0,0.0,2012-2013,c9e99e49,Barcelona,"2,265",25.2,2.0,0.0,42.0,2.0,1119.0,Barcelona
-,Sergio Busquets,es ESP,MF,31,25,2.0,1.0,2012-2013,5ab0ea87,Barcelona,"2,250",25.0,9.0,0.0,42.0,1.0,1122.0,Barcelona
-,Xavi,es ESP,MF,30,24,7.0,5.0,2012-2013,c1b4188c,Barcelona,"2,192",24.4,0.0,0.0,42.0,1.0,1052.0,Barcelona
-,Andrés Iniesta,es ESP,MF,31,24,15.0,3.0,2012-2013,cfd65a29,Barcelona,"2,091",23.2,4.0,0.0,42.0,1.0,1065.0,Barcelona
-,Pedro,es ESP,"FW,MF",28,23,7.0,7.0,2012-2013,3ca7254a,Barcelona,"2,066",23.0,3.0,0.0,42.0,1.0,1115.0,Barcelona
-,Javier Mascherano,ar ARG,"DF,MF",25,21,0.0,0.0,2012-2013,5070881b,Barcelona,"1,934",21.5,3.0,1.0,42.0,5.0,1136.0,Barcelona
-,Alexis Sánchez,cl CHI,"FW,MF",29,18,9.0,8.0,2012-2013,2c0f8e9e,Barcelona,"1,706",19.0,4.0,0.0,42.0,31.0,1141.0,Barcelona
-,Adriano,br BRA,"DF,MF",23,18,1.0,5.0,2012-2013,9d8586c4,Barcelona,"1,428",15.9,3.0,0.0,42.0,2.0,1137.0,Barcelona
-,Alex Song,cm CMR,"DF,MF",20,17,0.0,1.0,2012-2013,1c32281d,Barcelona,"1,539",17.1,3.0,0.0,42.0,36.0,1144.0,Barcelona
-,David Villa,es ESP,"FW,MF",28,17,5.0,10.0,2012-2013,de08a67,Barcelona,"1,414",15.7,1.0,0.0,42.0,1.0,,Barcelona
-,Thiago Alcántara,es ESP,MF,27,15,4.0,2.0,2012-2013,77e84962,Barcelona,"1,415",15.7,4.0,0.0,42.0,1.0,1129.0,Barcelona
-,Cristian Tello,es ESP,"FW,MF",22,12,4.0,7.0,2012-2013,72a99e38,Barcelona,"1,178",13.1,0.0,0.0,42.0,1.0,1142.0,Barcelona
-,Carles Puyol,es ESP,DF,13,12,0.0,1.0,2012-2013,7c0bda9b,Barcelona,963,10.7,3.0,0.0,42.0,1.0,1050.0,Barcelona
-,Martín Montoya,es ESP,DF,15,11,3.0,1.0,2012-2013,5cec2487,Barcelona,"1,154",12.8,0.0,0.0,42.0,1.0,,Barcelona
-,José Manuel Pinto,es ESP,GK,7,7,0.0,0.0,2012-2013,4a3cd9b7,Barcelona,630,7.0,1.0,0.0,42.0,1.0,,Barcelona
-,Marc Bartra,es ESP,DF,8,3,0.0,0.0,2012-2013,b742cc0d,Barcelona,400,4.4,1.0,0.0,42.0,1.0,1135.0,Barcelona
-,Éric Abidal,fr FRA,DF,5,2,0.0,0.0,2012-2013,016828bd,Barcelona,187,2.1,0.0,0.0,42.0,4.0,1108.0,Barcelona
-,Jonathan dos Santos,mx MEX,MF,3,0,0.0,0.0,2012-2013,91872dec,Barcelona,63,0.7,0.0,0.0,42.0,20.0,1134.0,Barcelona
-,Gerard Deulofeu,es ESP,"FW,MF",1,0,0.0,0.0,2012-2013,39583cfd,Barcelona,27,0.3,0.0,0.0,42.0,1.0,1143.0,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",1,0,0.0,0.0,2012-2013,335fa267,Barcelona,11,0.1,0.0,0.0,42.0,1.0,1139.0,Barcelona
-,﻿Sergio Busquets,es ESP,MF,32,30,1.0,1.0,2013-2014,5ab0ea87,Barcelona,"2,649",29.4,11.0,0.0,42.0,1.0,1122.0,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",31,29,11.0,28.0,2013-2014,d70ce98e,Barcelona,"2,501",27.8,2.0,0.0,42.0,5.0,1094.0,Barcelona
-,Cesc Fàbregas,es ESP,"FW,MF",36,28,14.0,8.0,2013-2014,33508c78,Barcelona,"2,460",27.3,4.0,0.0,42.0,1.0,1140.0,Barcelona
-,Pedro,es ESP,"FW,MF",37,28,8.0,15.0,2013-2014,3ca7254a,Barcelona,"2,349",26.1,3.0,0.0,42.0,1.0,1115.0,Barcelona
-,Andrés Iniesta,es ESP,MF,35,27,7.0,3.0,2013-2014,cfd65a29,Barcelona,"2,482",27.6,0.0,0.0,42.0,1.0,1065.0,Barcelona
-,Alexis Sánchez,cl CHI,"FW,MF",34,27,10.0,19.0,2013-2014,2c0f8e9e,Barcelona,"2,369",26.3,3.0,0.0,42.0,31.0,1141.0,Barcelona
-,Javier Mascherano,ar ARG,"DF,MF",28,27,0.0,0.0,2013-2014,5070881b,Barcelona,"2,358",26.2,9.0,0.0,42.0,5.0,1136.0,Barcelona
-,Dani Alves,br BRA,"DF,MF",27,26,3.0,2.0,2013-2014,c9e99e49,Barcelona,"2,385",26.5,6.0,0.0,42.0,2.0,1119.0,Barcelona
-,Gerard Piqué,es ESP,DF,26,26,0.0,2.0,2013-2014,dfc9123,Barcelona,"2,308",25.6,5.0,0.0,42.0,1.0,1120.0,Barcelona
-,Víctor Valdés,es ESP,GK,26,26,0.0,0.0,2013-2014,029e404,Barcelona,"2,272",25.2,2.0,0.0,42.0,1.0,1061.0,Barcelona
-,Xavi,es ESP,MF,30,26,2.0,3.0,2013-2014,c1b4188c,Barcelona,"2,233",24.8,0.0,0.0,42.0,1.0,1052.0,Barcelona
-,Adriano,br BRA,"DF,MF",26,24,1.0,3.0,2013-2014,9d8586c4,Barcelona,"2,071",23.0,8.0,0.0,42.0,2.0,1137.0,Barcelona
-,Neymar,br BRA,"FW,MF",26,19,8.0,9.0,2013-2014,69384e5d,Barcelona,"1,734",19.3,6.0,0.0,42.0,2.0,1145.0,Barcelona
-,Marc Bartra,es ESP,DF,20,17,1.0,1.0,2013-2014,b742cc0d,Barcelona,"1,592",17.7,3.0,0.0,42.0,1.0,1135.0,Barcelona
-,Jordi Alba,es ESP,"DF,MF",15,14,2.0,0.0,2013-2014,4601e194,Barcelona,"1,240",13.8,6.0,1.0,42.0,1.0,,Barcelona
-,José Manuel Pinto,es ESP,GK,13,12,0.0,0.0,2013-2014,4a3cd9b7,Barcelona,"1,148",12.8,0.0,0.0,42.0,1.0,,Barcelona
-,Alex Song,cm CMR,"DF,MF",19,12,0.0,0.0,2013-2014,1c32281d,Barcelona,"1,134",12.6,2.0,0.0,42.0,36.0,1144.0,Barcelona
-,Martín Montoya,es ESP,DF,13,12,1.0,0.0,2013-2014,5cec2487,Barcelona,"1,123",12.5,0.0,0.0,42.0,1.0,,Barcelona
-,Carles Puyol,es ESP,DF,5,5,0.0,1.0,2013-2014,7c0bda9b,Barcelona,426,4.7,0.0,0.0,42.0,1.0,1050.0,Barcelona
-,Cristian Tello,es ESP,"FW,MF",22,2,2.0,1.0,2013-2014,72a99e38,Barcelona,431,4.8,0.0,0.0,42.0,1.0,1142.0,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",17,1,0.0,0.0,2013-2014,335fa267,Barcelona,299,3.3,0.0,0.0,42.0,1.0,1139.0,Barcelona
-,Jonathan dos Santos,mx MEX,MF,3,0,0.0,0.0,2013-2014,91872dec,Barcelona,22,0.2,0.0,0.0,42.0,20.0,1134.0,Barcelona
-,Adama Traoré,es ESP,"FW,MF",1,0,0.0,0.0,2013-2014,9a28eba4,Barcelona,10,0.1,0.0,0.0,42.0,1.0,1146.0,Barcelona
-,Jean Marie Dongou,cm CMR,FW,1,0,0.0,0.0,2013-2014,fd0bb7d2,Barcelona,7,0.1,0.0,0.0,42.0,36.0,1147.0,Barcelona
-,Ibrahim Afellay,nl NED,"FW,MF",1,0,0.0,0.0,2013-2014,9a8c6673,Barcelona,4,0.0,0.0,0.0,42.0,11.0,1138.0,Barcelona
-,﻿Lionel Messi,ar ARG,"FW,MF",38,37,18.0,43.0,2014-2015,d70ce98e,Barcelona,"3,375",37.5,4.0,0.0,42.0,5.0,1094.0,Barcelona
-,Claudio Bravo,cl CHI,GK,37,37,0.0,0.0,2014-2015,10072610,Barcelona,"3,330",37.0,1.0,0.0,42.0,31.0,,Barcelona
-,Neymar,br BRA,"FW,MF",33,29,7.0,22.0,2014-2015,69384e5d,Barcelona,"2,562",28.5,6.0,0.0,42.0,2.0,1145.0,Barcelona
-,Dani Alves,br BRA,"DF,MF",30,29,6.0,0.0,2014-2015,c9e99e49,Barcelona,"2,517",28.0,6.0,1.0,42.0,2.0,1119.0,Barcelona
-,Sergio Busquets,es ESP,MF,33,29,2.0,0.0,2014-2015,5ab0ea87,Barcelona,"2,475",27.5,7.0,0.0,42.0,1.0,1122.0,Barcelona
-,Jordi Alba,es ESP,"DF,MF",27,27,3.0,1.0,2014-2015,4601e194,Barcelona,"2,329",25.9,7.0,1.0,42.0,1.0,,Barcelona
-,Gerard Piqué,es ESP,DF,27,26,1.0,5.0,2014-2015,dfc9123,Barcelona,"2,385",26.5,6.0,0.0,42.0,1.0,1120.0,Barcelona
-,Javier Mascherano,ar ARG,"DF,MF",28,26,0.0,0.0,2014-2015,5070881b,Barcelona,"2,205",24.5,8.0,1.0,42.0,5.0,1136.0,Barcelona
-,Luis Suárez,uy URU,FW,27,25,13.0,16.0,2014-2015,6154613,Barcelona,"2,159",24.0,4.0,0.0,42.0,8.0,1148.0,Barcelona
-,Jérémy Mathieu,fr FRA,DF,28,23,0.0,2.0,2014-2015,5b887c7a,Barcelona,"2,106",23.4,5.0,0.0,42.0,4.0,,Barcelona
-,Ivan Rakitić,hr CRO,MF,32,23,8.0,5.0,2014-2015,89f951b5,Barcelona,"2,030",22.6,1.0,0.0,42.0,16.0,1149.0,Barcelona
-,Xavi,es ESP,MF,31,19,9.0,2.0,2014-2015,c1b4188c,Barcelona,"1,785",19.8,1.0,0.0,42.0,1.0,1052.0,Barcelona
-,Andrés Iniesta,es ESP,MF,24,19,1.0,0.0,2014-2015,cfd65a29,Barcelona,"1,574",17.5,3.0,0.0,42.0,1.0,1065.0,Barcelona
-,Pedro,es ESP,"FW,MF",35,15,6.0,6.0,2014-2015,3ca7254a,Barcelona,"1,555",17.3,3.0,0.0,42.0,1.0,1115.0,Barcelona
-,Rafinha,br BRA,MF,24,13,0.0,1.0,2014-2015,0c2ac3cb,Barcelona,"1,157",12.9,2.0,0.0,42.0,2.0,,Barcelona
-,Marc Bartra,es ESP,DF,14,11,3.0,1.0,2014-2015,b742cc0d,Barcelona,"1,036",11.5,1.0,0.0,42.0,1.0,1135.0,Barcelona
-,Adriano,br BRA,"DF,MF",16,10,1.0,0.0,2014-2015,9d8586c4,Barcelona,962,10.7,2.0,0.0,42.0,2.0,1137.0,Barcelona
-,Munir El Haddadi,ma MAR,"FW,MF",10,7,1.0,1.0,2014-2015,8696bc90,Barcelona,457,5.1,0.0,0.0,42.0,26.0,,Barcelona
-,Martín Montoya,es ESP,DF,8,6,0.0,0.0,2014-2015,5cec2487,Barcelona,591,6.6,0.0,0.0,42.0,1.0,,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",12,4,0.0,0.0,2014-2015,335fa267,Barcelona,517,5.7,0.0,0.0,42.0,1.0,1139.0,Barcelona
-,Douglas,br BRA,DF,2,1,0.0,0.0,2014-2015,0da7af,Barcelona,100,1.1,1.0,0.0,42.0,2.0,1150.0,Barcelona
-,Jordi Masip,es ESP,GK,1,1,0.0,0.0,2014-2015,8fae77ea,Barcelona,90,1.0,0.0,0.0,42.0,1.0,1151.0,Barcelona
-,Thomas Vermaelen,be BEL,DF,1,1,0.0,0.0,2014-2015,d0d79694,Barcelona,61,0.7,0.0,0.0,42.0,27.0,1152.0,Barcelona
-,Sandro Ramírez,es ESP,FW,7,0,0.0,2.0,2014-2015,833fb62e,Barcelona,158,1.8,0.0,0.0,42.0,1.0,,Barcelona
-,Marc-André ter Stegen,de GER,GK,0,0,,,2014-2015,6f51e382,Barcelona,,,,,42.0,13.0,1155.0,Barcelona
-,﻿Luis Suárez,uy URU,FW,35,35,17.0,40.0,2015-2016,6154613,Barcelona,"3,150",35.0,7.0,0.0,42.0,8.0,1148.0,Barcelona
-,Neymar,br BRA,FW,34,34,10.0,24.0,2015-2016,69384e5d,Barcelona,"3,056",34.0,6.0,0.0,42.0,2.0,1145.0,Barcelona
-,Sergio Busquets,es ESP,MF,35,34,4.0,0.0,2015-2016,5ab0ea87,Barcelona,"2,899",32.2,6.0,0.0,42.0,1.0,1122.0,Barcelona
-,Claudio Bravo,cl CHI,GK,32,32,0.0,0.0,2015-2016,10072610,Barcelona,"2,877",32.0,0.0,0.0,42.0,31.0,,Barcelona
-,Lionel Messi,ar ARG,FW,33,31,14.0,26.0,2015-2016,d70ce98e,Barcelona,"2,729",30.3,3.0,0.0,42.0,5.0,1094.0,Barcelona
-,Javier Mascherano,ar ARG,DF,32,31,0.0,0.0,2015-2016,5070881b,Barcelona,"2,691",29.9,9.0,1.0,42.0,5.0,1136.0,Barcelona
-,Gerard Piqué,es ESP,DF,30,30,1.0,2.0,2015-2016,dfc9123,Barcelona,"2,587",28.7,12.0,0.0,42.0,1.0,1120.0,Barcelona
-,Ivan Rakitić,hr CRO,MF,36,30,2.0,7.0,2015-2016,89f951b5,Barcelona,"2,569",28.5,3.0,0.0,42.0,16.0,1149.0,Barcelona
-,Jordi Alba,es ESP,DF,31,29,6.0,0.0,2015-2016,4601e194,Barcelona,"2,589",28.8,2.0,0.0,42.0,1.0,,Barcelona
-,Andrés Iniesta,es ESP,MF,28,25,2.0,1.0,2015-2016,cfd65a29,Barcelona,"2,245",24.9,2.0,0.0,42.0,1.0,1065.0,Barcelona
-,Dani Alves,br BRA,DF,29,24,3.0,0.0,2015-2016,c9e99e49,Barcelona,"2,145",23.8,6.0,0.0,42.0,2.0,1119.0,Barcelona
-,Sergi Roberto,es ESP,"MF,DF",31,21,4.0,0.0,2015-2016,335fa267,Barcelona,"1,917",21.3,1.0,0.0,42.0,1.0,1139.0,Barcelona
-,Jérémy Mathieu,fr FRA,DF,21,12,2.0,0.0,2015-2016,5b887c7a,Barcelona,"1,264",14.0,2.0,0.0,42.0,4.0,,Barcelona
-,Arda Turan,tr TUR,MF,18,9,3.0,2.0,2015-2016,017ab4d4,Barcelona,817,9.1,5.0,0.0,42.0,15.0,1153.0,Barcelona
-,Munir El Haddadi,ma MAR,"FW,MF",15,8,2.0,3.0,2015-2016,8696bc90,Barcelona,827,9.2,0.0,0.0,42.0,26.0,,Barcelona
-,Aleix Vidal,es ESP,DF,9,6,1.0,0.0,2015-2016,04965583,Barcelona,544,6.0,1.0,0.0,42.0,1.0,,Barcelona
-,Marc-André ter Stegen,de GER,GK,7,6,0.0,0.0,2015-2016,6f51e382,Barcelona,543,6.0,0.0,0.0,42.0,13.0,1155.0,Barcelona
-,Thomas Vermaelen,be BEL,DF,10,6,0.0,1.0,2015-2016,d0d79694,Barcelona,508,5.6,2.0,0.0,42.0,27.0,1152.0,Barcelona
-,Marc Bartra,es ESP,DF,13,4,1.0,2.0,2015-2016,b742cc0d,Barcelona,503,5.6,0.0,0.0,42.0,1.0,1135.0,Barcelona
-,Adriano,br BRA,DF,8,4,1.0,0.0,2015-2016,9d8586c4,Barcelona,434,4.8,0.0,0.0,42.0,2.0,1137.0,Barcelona
-,Sandro Ramírez,es ESP,FW,10,4,1.0,0.0,2015-2016,833fb62e,Barcelona,349,3.9,0.0,0.0,42.0,1.0,,Barcelona
-,Rafinha,br BRA,"FW,MF",6,3,0.0,1.0,2015-2016,0c2ac3cb,Barcelona,281,3.1,0.0,0.0,42.0,2.0,,Barcelona
-,Gerard Gumbau,es ESP,MF,3,0,0.0,0.0,2015-2016,c454a4f,Barcelona,45,0.5,0.0,0.0,42.0,1.0,1156.0,Barcelona
-,Sergi Samper,es ESP,MF,1,0,0.0,0.0,2015-2016,6a7586f4,Barcelona,30,0.3,0.0,0.0,42.0,1.0,1157.0,Barcelona
-,Douglas,br BRA,DF,1,0,0.0,0.0,2015-2016,0da7af,Barcelona,13,0.1,0.0,0.0,42.0,2.0,1150.0,Barcelona
-,Juan Cámara,es ESP,MF,0,0,,,2015-2016,f9656e16,Barcelona,,,,,42.0,1.0,1158.0,Barcelona
-,Jordi Masip,es ESP,GK,0,0,,,2015-2016,8fae77ea,Barcelona,,,,,42.0,1.0,1151.0,Barcelona
-,﻿Marc-André ter Stegen,de GER,GK,36,36,0.0,0.0,2016-2017,6f51e382,Barcelona,"3,240",36.0,1.0,0.0,42.0,13.0,1155.0,Barcelona
-,Luis Suárez,uy URU,FW,35,34,12.0,28.0,2016-2017,6154613,Barcelona,"2,857",31.7,8.0,0.0,42.0,8.0,1148.0,Barcelona
-,Sergio Busquets,es ESP,MF,33,33,3.0,0.0,2016-2017,5ab0ea87,Barcelona,"2,687",29.9,9.0,0.0,42.0,1.0,1122.0,Barcelona
-,Lionel Messi,ar ARG,FW,34,32,9.0,37.0,2016-2017,d70ce98e,Barcelona,"2,830",31.4,6.0,0.0,42.0,5.0,1094.0,Barcelona
-,Neymar,br BRA,FW,30,30,10.0,13.0,2016-2017,69384e5d,Barcelona,"2,649",29.4,7.0,1.0,42.0,2.0,1145.0,Barcelona
-,Sergi Roberto,es ESP,DF,32,26,5.0,0.0,2016-2017,335fa267,Barcelona,"2,383",26.5,5.0,0.0,42.0,1.0,1139.0,Barcelona
-,Ivan Rakitić,hr CRO,MF,32,26,6.0,8.0,2016-2017,89f951b5,Barcelona,"2,341",26.0,5.0,0.0,42.0,16.0,1149.0,Barcelona
-,Gerard Piqué,es ESP,DF,25,25,0.0,2.0,2016-2017,dfc9123,Barcelona,"2,191",24.3,6.0,0.0,42.0,1.0,1120.0,Barcelona
-,Samuel Umtiti,fr FRA,DF,25,24,0.0,1.0,2016-2017,3eed9821,Barcelona,"2,129",23.7,4.0,0.0,42.0,4.0,1159.0,Barcelona
-,Jordi Alba,es ESP,DF,26,21,6.0,1.0,2016-2017,4601e194,Barcelona,"1,968",21.9,4.0,0.0,42.0,1.0,,Barcelona
-,Javier Mascherano,ar ARG,DF,25,20,3.0,1.0,2016-2017,5070881b,Barcelona,"1,921",21.3,6.0,0.0,42.0,5.0,1136.0,Barcelona
-,André Gomes,pt POR,MF,30,17,1.0,3.0,2016-2017,1961b2aa,Barcelona,"1,591",17.7,3.0,0.0,42.0,3.0,,Barcelona
-,Arda Turan,tr TUR,"FW,MF",18,14,3.0,3.0,2016-2017,017ab4d4,Barcelona,"1,244",13.8,1.0,0.0,42.0,15.0,1153.0,Barcelona
-,Lucas Digne,fr FRA,DF,17,14,0.0,0.0,2016-2017,1b84dbe1,Barcelona,"1,171",13.0,3.0,0.0,42.0,4.0,1160.0,Barcelona
-,Rafinha,br BRA,MF,18,14,2.0,6.0,2016-2017,0c2ac3cb,Barcelona,"1,073",11.9,1.0,0.0,42.0,2.0,,Barcelona
-,Andrés Iniesta,es ESP,MF,23,13,3.0,0.0,2016-2017,cfd65a29,Barcelona,"1,336",14.8,2.0,0.0,42.0,1.0,1065.0,Barcelona
-,Denis Suárez,es ESP,MF,26,12,3.0,1.0,2016-2017,12c50af5,Barcelona,"1,186",13.2,1.0,0.0,42.0,1.0,,Barcelona
-,Jérémy Mathieu,fr FRA,DF,13,12,0.0,1.0,2016-2017,5b887c7a,Barcelona,"1,039",11.5,0.0,0.0,42.0,4.0,,Barcelona
-,Paco Alcácer,es ESP,FW,20,6,3.0,6.0,2016-2017,7a9d95a,Barcelona,858,9.5,1.0,0.0,42.0,1.0,,Barcelona
-,Aleix Vidal,es ESP,DF,6,5,2.0,2.0,2016-2017,04965583,Barcelona,476,5.3,0.0,0.0,42.0,1.0,,Barcelona
-,Marlon,br BRA,DF,2,2,0.0,0.0,2016-2017,cdf65d12,Barcelona,180,2.0,0.0,0.0,42.0,2.0,1161.0,Barcelona
-,Claudio Bravo,cl CHI,GK,1,1,0.0,0.0,2016-2017,10072610,Barcelona,90,1.0,0.0,0.0,42.0,31.0,,Barcelona
-,Jasper Cillessen,nl NED,GK,1,1,0.0,0.0,2016-2017,04ac8285,Barcelona,90,1.0,0.0,0.0,42.0,11.0,,Barcelona
-,Carles Aleñá,es ESP,MF,3,0,0.0,0.0,2016-2017,6c811eb7,Barcelona,43,0.5,1.0,0.0,42.0,1.0,1162.0,Barcelona
-,Munir El Haddadi,ma MAR,"FW,MF",1,0,0.0,0.0,2016-2017,8696bc90,Barcelona,21,0.2,0.0,0.0,42.0,26.0,,Barcelona
-,Àlex Carbonell,es ESP,MF,0,0,,,2016-2017,d99f27,Barcelona,,,,,42.0,1.0,1163.0,Barcelona
-,Marc Cardona,es ESP,FW,0,0,,,2016-2017,b92b456a,Barcelona,,,,,42.0,1.0,1164.0,Barcelona
-,Douglas,br BRA,DF,0,0,,,2016-2017,0da7af,Barcelona,,,,,42.0,2.0,1150.0,Barcelona
-,Wilfrid Kaptoum,cm CMR,MF,0,0,,,2016-2017,d717630e,Barcelona,,,,,42.0,36.0,1165.0,Barcelona
-,Borja López,es ESP,DF,0,0,,,2016-2017,d02d04ea,Barcelona,,,,,42.0,1.0,,Barcelona
-,Jordi Masip,es ESP,GK,0,0,,,2016-2017,8fae77ea,Barcelona,,,,,42.0,1.0,1151.0,Barcelona
-,Nili,es ESP,DF,0,0,,,2016-2017,6f1cce9a,Barcelona,,,,,42.0,1.0,1166.0,Barcelona
-,Sergi Samper,es ESP,MF,0,0,,,2016-2017,6a7586f4,Barcelona,,,,,42.0,1.0,1157.0,Barcelona
-,﻿Marc-André ter Stegen,de GER,GK,37,37,0.0,0.0,2017-2018,6f51e382,Barcelona,"3,330",37.0,0.0,0.0,42.0,13.0,1155.0,Barcelona
-,Lionel Messi,ar ARG,FW,36,32,12.0,34.0,2017-2018,d70ce98e,Barcelona,"3,000",33.3,3.0,0.0,42.0,5.0,1094.0,Barcelona
-,Luis Suárez,uy URU,FW,33,32,12.0,25.0,2017-2018,6154613,Barcelona,"2,899",32.2,9.0,0.0,42.0,8.0,1148.0,Barcelona
-,Ivan Rakitić,hr CRO,MF,35,31,5.0,1.0,2017-2018,89f951b5,Barcelona,"2,835",31.5,4.0,0.0,42.0,16.0,1149.0,Barcelona
-,Jordi Alba,es ESP,DF,33,30,8.0,2.0,2017-2018,4601e194,Barcelona,"2,744",30.5,7.0,0.0,42.0,1.0,,Barcelona
-,Sergio Busquets,es ESP,MF,31,30,4.0,1.0,2017-2018,5ab0ea87,Barcelona,"2,593",28.8,8.0,0.0,42.0,1.0,1122.0,Barcelona
-,Gerard Piqué,es ESP,DF,30,29,0.0,2.0,2017-2018,dfc9123,Barcelona,"2,632",29.2,9.0,0.0,42.0,1.0,1120.0,Barcelona
-,Andrés Iniesta,es ESP,MF,30,25,2.0,1.0,2017-2018,cfd65a29,Barcelona,"1,824",20.3,1.0,0.0,42.0,1.0,1065.0,Barcelona
-,Sergi Roberto,es ESP,DF,30,24,7.0,1.0,2017-2018,335fa267,Barcelona,"2,225",24.7,3.0,2.0,42.0,1.0,1139.0,Barcelona
-,Samuel Umtiti,fr FRA,DF,25,24,0.0,1.0,2017-2018,3eed9821,Barcelona,"2,189",24.3,7.0,0.0,42.0,4.0,1159.0,Barcelona
-,Paulinho,br BRA,MF,34,21,2.0,9.0,2017-2018,bb7337cc,Barcelona,"1,945",21.6,2.0,0.0,42.0,2.0,1167.0,Barcelona
-,Nélson Semedo,pt POR,DF,24,17,0.0,0.0,2017-2018,d04b94db,Barcelona,"1,493",16.6,1.0,0.0,42.0,3.0,1168.0,Barcelona
-,Philippe Coutinho,br BRA,"MF,FW",18,16,5.0,8.0,2017-2018,0ef89a37,Barcelona,"1,296",14.4,1.0,0.0,42.0,2.0,1169.0,Barcelona
-,Thomas Vermaelen,be BEL,DF,14,12,1.0,0.0,2017-2018,d0d79694,Barcelona,"1,018",11.3,3.0,0.0,42.0,27.0,1152.0,Barcelona
-,Ousmane Dembélé,fr FRA,"MF,FW",17,12,6.0,3.0,2017-2018,b19db005,Barcelona,925,10.3,2.0,0.0,42.0,4.0,1170.0,Barcelona
-,Lucas Digne,fr FRA,DF,12,8,2.0,0.0,2017-2018,1b84dbe1,Barcelona,704,7.8,2.0,0.0,42.0,4.0,1160.0,Barcelona
-,Paco Alcácer,es ESP,"MF,FW",17,8,3.0,4.0,2017-2018,7a9d95a,Barcelona,695,7.7,0.0,0.0,42.0,1.0,,Barcelona
-,André Gomes,pt POR,MF,16,6,0.0,0.0,2017-2018,1961b2aa,Barcelona,635,7.1,1.0,0.0,42.0,3.0,,Barcelona
-,Javier Mascherano,ar ARG,DF,7,6,0.0,0.0,2017-2018,5070881b,Barcelona,541,6.0,0.0,0.0,42.0,5.0,1136.0,Barcelona
-,Gerard Deulofeu,es ESP,"MF,FW",10,5,1.0,1.0,2017-2018,39583cfd,Barcelona,503,5.6,1.0,0.0,42.0,1.0,1143.0,Barcelona
-,Denis Suárez,es ESP,"MF,FW",18,4,2.0,2.0,2017-2018,12c50af5,Barcelona,595,6.6,1.0,0.0,42.0,1.0,,Barcelona
-,Aleix Vidal,es ESP,"MF,FW",15,4,1.0,1.0,2017-2018,04965583,Barcelona,460,5.1,0.0,0.0,42.0,1.0,,Barcelona
-,Yerry Mina,co COL,DF,5,4,1.0,0.0,2017-2018,6d5701f2,Barcelona,371,4.1,2.0,0.0,42.0,19.0,1171.0,Barcelona
-,Jasper Cillessen,nl NED,GK,1,1,0.0,0.0,2017-2018,04ac8285,Barcelona,90,1.0,0.0,0.0,42.0,11.0,,Barcelona
-,José Arnaiz,es ESP,MF,1,0,0.0,0.0,2017-2018,46e07328,Barcelona,6,0.1,0.0,0.0,42.0,1.0,1172.0,Barcelona
-,Carles Aleñá,es ESP,MF,0,0,,,2017-2018,6c811eb7,Barcelona,,,,,42.0,1.0,1162.0,Barcelona
-,Oriol Busquets,es ESP,MF,0,0,,,2017-2018,49712367,Barcelona,,,,,42.0,1.0,,Barcelona
-,David Costas,es ESP,DF,0,0,,,2017-2018,545e2f01,Barcelona,,,,,42.0,1.0,,Barcelona
-,Arda Turan,tr TUR,"FW,MF",0,0,,,2017-2018,017ab4d4,Barcelona,,,,,42.0,15.0,1153.0,Barcelona
-,﻿Gerard Piqué,es ESP,DF,35,35,2.0,4.0,2018-2019,dfc9123,Barcelona,"3,150",35.0,6.0,0.0,42.0,1.0,1120.0,Barcelona
-,Marc-André ter Stegen,de GER,GK,35,35,0.0,0.0,2018-2019,6f51e382,Barcelona,"3,150",35.0,0.0,0.0,42.0,13.0,1155.0,Barcelona
-,Jordi Alba,es ESP,DF,36,32,8.0,2.0,2018-2019,4601e194,Barcelona,"2,991",33.2,6.0,0.0,42.0,1.0,,Barcelona
-,Luis Suárez,uy URU,FW,33,31,6.0,21.0,2018-2019,6154613,Barcelona,"2,827",31.4,5.0,0.0,42.0,8.0,1148.0,Barcelona
-,Sergio Busquets,es ESP,MF,35,30,1.0,0.0,2018-2019,5ab0ea87,Barcelona,"2,715",30.2,10.0,0.0,42.0,1.0,1122.0,Barcelona
-,Lionel Messi,ar ARG,FW,34,29,13.0,36.0,2018-2019,d70ce98e,Barcelona,"2,713",30.1,3.0,0.0,42.0,5.0,1094.0,Barcelona
-,Ivan Rakitić,hr CRO,MF,34,29,5.0,3.0,2018-2019,89f951b5,Barcelona,"2,643",29.4,7.0,1.0,42.0,16.0,1149.0,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",29,23,7.0,0.0,2018-2019,335fa267,Barcelona,"2,088",23.2,3.0,0.0,42.0,1.0,1139.0,Barcelona
-,Philippe Coutinho,br BRA,"FW,MF",34,22,2.0,5.0,2018-2019,0ef89a37,Barcelona,"2,018",22.4,2.0,0.0,42.0,2.0,1169.0,Barcelona
-,Clément Lenglet,fr FRA,DF,23,22,0.0,1.0,2018-2019,4f28a6ff,Barcelona,"1,933",21.5,8.0,1.0,42.0,4.0,1173.0,Barcelona
-,Arturo Vidal,cl CHI,MF,33,22,7.0,3.0,2018-2019,67cdbc0e,Barcelona,"1,929",21.4,7.0,0.0,42.0,31.0,1174.0,Barcelona
-,Ousmane Dembélé,fr FRA,"FW,MF",29,20,5.0,8.0,2018-2019,b19db005,Barcelona,"1,661",18.5,1.0,0.0,42.0,4.0,1170.0,Barcelona
-,Nélson Semedo,pt POR,DF,26,20,0.0,1.0,2018-2019,d04b94db,Barcelona,"1,600",17.8,4.0,0.0,42.0,3.0,1168.0,Barcelona
-,Arthur Melo,br BRA,MF,27,19,1.0,0.0,2018-2019,48b3dd60,Barcelona,"1,430",15.9,2.0,0.0,42.0,2.0,1175.0,Barcelona
-,Samuel Umtiti,fr FRA,DF,14,13,1.0,0.0,2018-2019,3eed9821,Barcelona,"1,189",13.2,4.0,0.0,42.0,4.0,1159.0,Barcelona
-,Thomas Vermaelen,be BEL,DF,9,7,0.0,0.0,2018-2019,d0d79694,Barcelona,587,6.5,2.0,0.0,42.0,27.0,1152.0,Barcelona
-,Carles Aleñá,es ESP,MF,17,6,0.0,2.0,2018-2019,6c811eb7,Barcelona,637,7.1,2.0,0.0,42.0,1.0,1162.0,Barcelona
-,Malcom,br BRA,"FW,MF",15,6,2.0,1.0,2018-2019,6853490f,Barcelona,614,6.8,0.0,0.0,42.0,2.0,1176.0,Barcelona
-,Jasper Cillessen,nl NED,GK,3,3,0.0,0.0,2018-2019,04ac8285,Barcelona,270,3.0,0.0,0.0,42.0,11.0,,Barcelona
-,Kevin-Prince Boateng,gh GHA,FW,3,3,0.0,0.0,2018-2019,f4ec4fd0,Barcelona,239,2.7,1.0,0.0,42.0,17.0,1177.0,Barcelona
-,Rafinha,br BRA,"FW,MF",5,3,0.0,0.0,2018-2019,0c2ac3cb,Barcelona,223,2.5,1.0,0.0,42.0,2.0,,Barcelona
-,Moussa Wagué,sn SEN,"DF,FW",3,2,0.0,0.0,2018-2019,808df563,Barcelona,225,2.5,1.0,0.0,42.0,34.0,1178.0,Barcelona
-,Jean-Clair Todibo,fr FRA,DF,2,2,0.0,0.0,2018-2019,88f130ed,Barcelona,157,1.7,2.0,0.0,42.0,4.0,1179.0,Barcelona
-,Riqui Puig,es ESP,MF,2,2,0.0,0.0,2018-2019,f090a37a,Barcelona,156,1.7,0.0,0.0,42.0,1.0,1180.0,Barcelona
-,Munir El Haddadi,ma MAR,FW,7,1,1.0,1.0,2018-2019,8696bc90,Barcelona,152,1.7,0.0,0.0,42.0,26.0,,Barcelona
-,Jeison Murillo,co COL,DF,2,1,0.0,0.0,2018-2019,b233e8e4,Barcelona,113,1.3,0.0,0.0,42.0,19.0,,Barcelona
-,Álex Collado,es ESP,FW,1,0,0.0,0.0,2018-2019,85dace26,Barcelona,85,0.9,0.0,0.0,42.0,1.0,1191.0,Barcelona
-,Abel Ruiz,es ESP,FW,1,0,0.0,0.0,2018-2019,6cbf8d0d,Barcelona,22,0.2,0.0,0.0,42.0,1.0,1181.0,Barcelona
-,Denis Suárez,es ESP,"MF,DF",2,0,0.0,0.0,2018-2019,12c50af5,Barcelona,19,0.2,0.0,0.0,42.0,1.0,,Barcelona
-,Carles Pérez,es ESP,FW,1,0,0.0,0.0,2018-2019,8f21b9f,Barcelona,18,0.2,0.0,0.0,42.0,1.0,1182.0,Barcelona
-,Juan Brandáriz,es ESP,DF,0,0,,,2018-2019,2475cf9b,Barcelona,,,,,42.0,1.0,1183.0,Barcelona
-,Jokin Ezkieta,es ESP,GK,0,0,,,2018-2019,0f7dbaf6,Barcelona,,,,,42.0,1.0,1184.0,Barcelona
-,Juan Miranda,es ESP,DF,0,0,,,2018-2019,d61f73,Barcelona,,,,,42.0,1.0,1185.0,Barcelona
-,Iñaki Peña ,es ESP,GK,0,0,,,2018-2019,cc1c5035,Barcelona,,,,,42.0,1.0,1186.0,Barcelona
-,﻿Marc-André ter Stegen,de GER,GK,36,36,2.0,0.0,2019-2020,6f51e382,Barcelona,"3,240",36.0,1.0,0.0,42.0,13.0,1155.0,Barcelona
-,Gerard Piqué,es ESP,DF,35,35,0.0,1.0,2019-2020,dfc9123,Barcelona,"3,092",34.4,15.0,0.0,42.0,1.0,1120.0,Barcelona
-,Lionel Messi,ar ARG,FW,33,32,21.0,25.0,2019-2020,d70ce98e,Barcelona,"2,880",32.0,4.0,0.0,42.0,5.0,1094.0,Barcelona
-,Antoine Griezmann,fr FRA,FW,35,31,4.0,9.0,2019-2020,df69b544,Barcelona,"2,549",28.3,2.0,0.0,42.0,4.0,,Barcelona
-,Sergio Busquets,es ESP,MF,33,29,2.0,2.0,2019-2020,5ab0ea87,Barcelona,"2,483",27.6,9.0,0.0,42.0,1.0,1122.0,Barcelona
-,Clément Lenglet,fr FRA,DF,28,28,1.0,2.0,2019-2020,4f28a6ff,Barcelona,"2,424",26.9,11.0,2.0,42.0,4.0,1173.0,Barcelona
-,Sergi Roberto,es ESP,"DF,MF",30,27,2.0,1.0,2019-2020,335fa267,Barcelona,"2,339",26.0,8.0,0.0,42.0,1.0,1139.0,Barcelona
-,Jordi Alba,es ESP,DF,27,25,5.0,2.0,2019-2020,4601e194,Barcelona,"2,187",24.3,7.0,0.0,42.0,1.0,,Barcelona
-,Frenkie de Jong,nl NED,MF,29,24,2.0,2.0,2019-2020,1bacc518,Barcelona,"2,115",23.5,3.0,1.0,42.0,11.0,1187.0,Barcelona
-,Nélson Semedo,pt POR,DF,32,24,2.0,1.0,2019-2020,d04b94db,Barcelona,"2,097",23.3,2.0,0.0,42.0,3.0,1168.0,Barcelona
-,Luis Suárez,uy URU,FW,28,22,8.0,16.0,2019-2020,6154613,Barcelona,"1,998",22.2,4.0,0.0,42.0,8.0,1148.0,Barcelona
-,Arturo Vidal,cl CHI,MF,33,16,2.0,8.0,2019-2020,67cdbc0e,Barcelona,"1,671",18.6,4.0,0.0,42.0,31.0,1174.0,Barcelona
-,Ivan Rakitić,hr CRO,MF,31,16,3.0,1.0,2019-2020,89f951b5,Barcelona,"1,589",17.7,5.0,0.0,42.0,16.0,1149.0,Barcelona
-,Arthur Melo,br BRA,MF,21,14,3.0,3.0,2019-2020,48b3dd60,Barcelona,"1,182",13.1,1.0,0.0,42.0,2.0,1175.0,Barcelona
-,Ansu Fati,es ESP,"FW,MF",24,11,1.0,7.0,2019-2020,0ba976e4,Barcelona,"1,027",11.4,2.0,1.0,42.0,1.0,1188.0,Barcelona
-,Junior Firpo,es ESP,DF,17,11,1.0,1.0,2019-2020,24f59bb2,Barcelona,"1,014",11.3,5.0,0.0,42.0,1.0,1189.0,Barcelona
-,Samuel Umtiti,fr FRA,DF,13,10,0.0,0.0,2019-2020,3eed9821,Barcelona,949,10.5,6.0,0.0,42.0,4.0,1159.0,Barcelona
-,Riqui Puig,es ESP,MF,11,5,2.0,0.0,2019-2020,f090a37a,Barcelona,510,5.7,1.0,0.0,42.0,1.0,1180.0,Barcelona
-,Carles Pérez,es ESP,FW,10,5,2.0,1.0,2019-2020,8f21b9f,Barcelona,476,5.3,0.0,0.0,42.0,1.0,1182.0,Barcelona
-,Martin Braithwaite,dk DEN,"FW,MF",11,4,0.0,1.0,2019-2020,fd771f95,Barcelona,407,4.5,1.0,0.0,42.0,7.0,1190.0,Barcelona
-,Ousmane Dembélé,fr FRA,"FW,MF",5,3,0.0,1.0,2019-2020,b19db005,Barcelona,357,4.0,1.0,1.0,42.0,4.0,1170.0,Barcelona
-,Ronald Araújo,uy URU,DF,6,2,0.0,0.0,2019-2020,2bef2bca,Barcelona,238,2.6,0.0,1.0,42.0,8.0,1209.0,Barcelona
-,Rafinha,br BRA,"FW,MF",3,2,0.0,0.0,2019-2020,0c2ac3cb,Barcelona,186,2.1,0.0,0.0,42.0,2.0,,Barcelona
-,Neto,br BRA,GK,2,2,0.0,0.0,2019-2020,9dc785c,Barcelona,180,2.0,0.0,0.0,42.0,2.0,,Barcelona
-,Carles Aleñá,es ESP,MF,4,2,0.0,0.0,2019-2020,6c811eb7,Barcelona,172,1.9,0.0,0.0,42.0,1.0,1162.0,Barcelona
-,Moussa Wagué,sn SEN,DF,1,1,0.0,0.0,2019-2020,808df563,Barcelona,90,1.0,0.0,0.0,42.0,34.0,1178.0,Barcelona
-,Jean-Clair Todibo,fr FRA,DF,2,1,0.0,0.0,2019-2020,88f130ed,Barcelona,77,0.9,0.0,0.0,42.0,4.0,1179.0,Barcelona
-,Álex Collado,es ESP,FW,1,0,0.0,0.0,2019-2020,85dace26,Barcelona,6,0.1,0.0,0.0,42.0,1.0,1191.0,Barcelona
-,Sergio Akieme,es ESP,DF,0,0,,,2019-2020,06efa9dc,Barcelona,,,,,42.0,1.0,1192.0,Barcelona
-,Juan Brandáriz,es ESP,DF,0,0,,,2019-2020,2475cf9b,Barcelona,,,,,42.0,1.0,1183.0,Barcelona
-,Arnau Comas,es ESP,DF,0,0,,,2019-2020,01d45441,Barcelona,,,,,42.0,1.0,1193.0,Barcelona
-,Rey Manaj,al ALB,FW,0,0,,,2019-2020,7703afb6,Barcelona,,,,,42.0,78.0,1194.0,Barcelona
-,Monchu,es ESP,MF,0,0,,,2019-2020,8ac501f5,Barcelona,,,,,42.0,1.0,1195.0,Barcelona
-,Dani Morer,es ESP,DF,0,0,,,2019-2020,766a2d58,Barcelona,,,,,42.0,1.0,1196.0,Barcelona
-,Jorge Orgaz,bo BOL,DF,0,0,,,2019-2020,1f2231a3,Barcelona,,,,,42.0,64.0,1197.0,Barcelona
-,Iñaki Peña ,es ESP,GK,0,0,,,2019-2020,cc1c5035,Barcelona,,,,,42.0,1.0,1186.0,Barcelona
-,Kike Saverio,es ESP,FW,0,0,,,2019-2020,1af67930,Barcelona,,,,,42.0,1.0,1198.0,Barcelona
-,Arnau Tenas,es ESP,GK,0,0,,,2019-2020,30670b0e,Barcelona,,,,,42.0,1.0,1199.0,Barcelona
-,﻿Frenkie de Jong,nl NED,"MF,DF",37,35,4.0,3.0,2020-2021,1bacc518,Barcelona,"3,154",35.0,5.0,0.0,42.0,11.0,1187.0,Barcelona
-,Jordi Alba,es ESP,"DF,FW",35,34,5.0,3.0,2020-2021,4601e194,Barcelona,"3,025",33.6,9.0,0.0,42.0,1.0,,Barcelona
-,Lionel Messi,ar ARG,"FW,MF",35,33,9.0,30.0,2020-2021,d70ce98e,Barcelona,"3,023",33.6,4.0,0.0,42.0,5.0,1094.0,Barcelona
-,Antoine Griezmann,fr FRA,"FW,MF",36,32,7.0,13.0,2020-2021,df69b544,Barcelona,"2,604",28.9,4.0,0.0,42.0,4.0,,Barcelona
-,Sergio Busquets,es ESP,MF,36,32,5.0,0.0,2020-2021,5ab0ea87,Barcelona,"2,517",28.0,9.0,0.0,42.0,1.0,1122.0,Barcelona
-,Marc-André ter Stegen,de GER,GK,31,31,0.0,0.0,2020-2021,6f51e382,Barcelona,"2,790",31.0,1.0,0.0,42.0,13.0,1155.0,Barcelona
-,Clément Lenglet,fr FRA,DF,33,29,0.0,1.0,2020-2021,4f28a6ff,Barcelona,"2,475",27.5,11.0,2.0,42.0,4.0,1173.0,Barcelona
-,Pedri,es ESP,MF,37,28,3.0,3.0,2020-2021,0d9b2d31,Barcelona,"2,415",26.8,2.0,0.0,42.0,1.0,1200.0,Barcelona
-,Sergiño Dest,us USA,"DF,FW",30,23,1.0,2.0,2020-2021,5976f83e,Barcelona,"1,909",21.2,1.0,0.0,42.0,75.0,1201.0,Barcelona
-,Óscar Mingueza,es ESP,DF,27,23,2.0,2.0,2020-2021,056269d7,Barcelona,"1,901",21.1,4.0,0.0,42.0,1.0,1202.0,Barcelona
-,Ousmane Dembélé,fr FRA,"FW,MF",30,19,3.0,6.0,2020-2021,b19db005,Barcelona,"1,774",19.7,2.0,0.0,42.0,4.0,1170.0,Barcelona
-,Gerard Piqué,es ESP,DF,18,18,0.0,0.0,2020-2021,dfc9123,Barcelona,"1,481",16.5,4.0,0.0,42.0,1.0,1120.0,Barcelona
-,Ronald Araújo,uy URU,DF,24,16,1.0,2.0,2020-2021,2bef2bca,Barcelona,"1,510",16.8,3.0,0.0,42.0,8.0,1209.0,Barcelona
-,Martin Braithwaite,dk DEN,"FW,MF",29,11,2.0,2.0,2020-2021,fd771f95,Barcelona,"1,175",13.1,3.0,0.0,42.0,7.0,1190.0,Barcelona
-,Sergi Roberto,es ESP,"DF,FW",15,9,2.0,1.0,2020-2021,335fa267,Barcelona,946,10.5,1.0,0.0,42.0,1.0,1139.0,Barcelona
-,Philippe Coutinho,br BRA,MF,12,8,2.0,2.0,2020-2021,0ef89a37,Barcelona,654,7.3,0.0,0.0,42.0,2.0,1169.0,Barcelona
-,Neto,br BRA,GK,7,7,0.0,0.0,2020-2021,9dc785c,Barcelona,630,7.0,0.0,0.0,42.0,2.0,,Barcelona
-,Samuel Umtiti,fr FRA,DF,13,6,0.0,0.0,2020-2021,3eed9821,Barcelona,645,7.2,1.0,0.0,42.0,4.0,1159.0,Barcelona
-,Miralem Pjanić,ba BIH,MF,19,6,0.0,0.0,2020-2021,d6df2d5,Barcelona,627,7.0,1.0,0.0,42.0,49.0,1203.0,Barcelona
-,Ansu Fati,es ESP,"MF,FW",7,6,0.0,4.0,2020-2021,0ba976e4,Barcelona,431,4.8,1.0,0.0,42.0,1.0,1188.0,Barcelona
-,Ilaix Moriba,gn GUI,MF,14,4,2.0,1.0,2020-2021,f4c69aa6,Barcelona,542,6.0,1.0,0.0,42.0,74.0,,Barcelona
-,Francisco Trincão,pt POR,"MF,FW",28,3,2.0,3.0,2020-2021,77e39b04,Barcelona,706,7.8,1.0,0.0,42.0,3.0,1204.0,Barcelona
-,Junior Firpo,es ESP,"DF,MF",7,3,1.0,1.0,2020-2021,24f59bb2,Barcelona,289,3.2,2.0,0.0,42.0,1.0,1189.0,Barcelona
-,Riqui Puig,es ESP,MF,14,2,0.0,1.0,2020-2021,f090a37a,Barcelona,292,3.2,1.0,0.0,42.0,1.0,1180.0,Barcelona
-,Carles Aleñá,es ESP,MF,2,0,0.0,0.0,2020-2021,6c811eb7,Barcelona,48,0.5,1.0,0.0,42.0,1.0,1162.0,Barcelona
-,Álex Collado,es ESP,MF,0,0,,,2020-2021,85dace26,Barcelona,,,,,42.0,1.0,1191.0,Barcelona
-,Konrad De La Fuente,us USA,FW,0,0,,,2020-2021,4b77bb89,Barcelona,,,,,42.0,75.0,1205.0,Barcelona
-,Matheus Fernandes,br BRA,MF,0,0,,,2020-2021,f76fdcd2,Barcelona,,,,,42.0,2.0,1206.0,Barcelona
-,Iñaki Peña ,es ESP,GK,0,0,,,2020-2021,cc1c5035,Barcelona,,,,,42.0,1.0,1186.0,Barcelona
-,Rafinha,br BRA,MF,0,0,,,2020-2021,0c2ac3cb,Barcelona,,,,,42.0,2.0,,Barcelona
-,Santiago Ramos,ar ARG,DF,0,0,,,2020-2021,fe0a346d,Barcelona,,,,,42.0,5.0,1207.0,Barcelona
-,Arnau Tenas,es ESP,GK,0,0,,,2020-2021,30670b0e,Barcelona,,,,,42.0,1.0,1199.0,Barcelona
-,﻿Sergio Busquets,es ESP,MF,36,36,0.0,2.0,2021-2022,5ab0ea87,Barcelona,"3,198",35.5,12.0,0.0,42.0,1.0,1122.0,Barcelona
-,Marc-André ter Stegen,de GER,GK,35,35,0.0,0.0,2021-2022,6f51e382,Barcelona,"3,150",35.0,3.0,0.0,42.0,13.0,1155.0,Barcelona
-,Jordi Alba,es ESP,DF,30,30,10.0,2.0,2021-2022,4601e194,Barcelona,"2,644",29.4,11.0,0.0,42.0,1.0,,Barcelona
-,Frenkie de Jong,nl NED,MF,32,30,3.0,3.0,2021-2022,1bacc518,Barcelona,"2,476",27.5,7.0,1.0,42.0,11.0,1187.0,Barcelona
-,Gavi,es ESP,"MF,FW",34,28,5.0,2.0,2021-2022,19cae58d,Barcelona,"2,316",25.7,11.0,1.0,42.0,1.0,1208.0,Barcelona
-,Ronald Araújo,uy URU,DF,30,25,0.0,4.0,2021-2022,2bef2bca,Barcelona,"2,272",25.2,6.0,0.0,42.0,8.0,1209.0,Barcelona
-,Gerard Piqué,es ESP,DF,27,25,0.0,1.0,2021-2022,dfc9123,Barcelona,"2,092",23.2,10.0,1.0,42.0,1.0,1120.0,Barcelona
-,Eric García,es ESP,DF,26,23,0.0,0.0,2021-2022,2bed3eab,Barcelona,"2,039",22.7,5.0,1.0,42.0,1.0,1210.0,Barcelona
-,Memphis Depay,nl NED,"FW,MF",28,20,2.0,12.0,2021-2022,8f696594,Barcelona,"1,851",20.6,3.0,0.0,42.0,11.0,1211.0,Barcelona
-,Sergiño Dest,us USA,"DF,FW",21,17,3.0,0.0,2021-2022,5976f83e,Barcelona,"1,512",16.8,2.0,0.0,42.0,75.0,1201.0,Barcelona
-,Ferrán Torres,es ESP,FW,18,17,4.0,4.0,2021-2022,9e1035f8,Barcelona,"1,412",15.7,1.0,0.0,42.0,1.0,,Barcelona
-,Ousmane Dembélé,fr FRA,FW,21,15,13.0,1.0,2021-2022,b19db005,Barcelona,"1,409",15.7,3.0,0.0,42.0,4.0,1170.0,Barcelona
-,Dani Alves,br BRA,DF,14,13,3.0,1.0,2021-2022,c9e99e49,Barcelona,"1,098",12.2,2.0,1.0,42.0,2.0,1119.0,Barcelona
-,Pierre-Emerick Aubameyang,ga GAB,FW,17,13,1.0,11.0,2021-2022,d5dd5f1f,Barcelona,"1,082",12.0,0.0,0.0,42.0,69.0,1212.0,Barcelona
-,Nicolás González,es ESP,MF,27,12,1.0,2.0,2021-2022,2c56a792,Barcelona,"1,114",12.4,6.0,0.0,42.0,1.0,1213.0,Barcelona
-,Pedri,es ESP,MF,12,10,1.0,3.0,2021-2022,0d9b2d31,Barcelona,885,9.8,0.0,0.0,42.0,1.0,1200.0,Barcelona
-,Óscar Mingueza,es ESP,DF,19,9,1.0,0.0,2021-2022,056269d7,Barcelona,894,9.9,2.0,0.0,42.0,1.0,1202.0,Barcelona
-,Clément Lenglet,fr FRA,DF,21,7,1.0,0.0,2021-2022,4f28a6ff,Barcelona,826,9.2,4.0,0.0,42.0,4.0,1173.0,Barcelona
-,Luuk de Jong,nl NED,FW,21,6,0.0,6.0,2021-2022,bb3bb95,Barcelona,654,7.3,1.0,0.0,42.0,11.0,1214.0,Barcelona
-,Abdessamad Ezzalzouli,ma MAR,FW,10,6,0.0,1.0,2021-2022,bed68338,Barcelona,580,6.4,4.0,0.0,42.0,26.0,1215.0,Barcelona
-,Philippe Coutinho,br BRA,"MF,FW",12,5,0.0,2.0,2021-2022,0ef89a37,Barcelona,503,5.6,1.0,0.0,42.0,2.0,1169.0,Barcelona
-,Sergi Roberto,es ESP,"MF,DF",9,4,1.0,2.0,2021-2022,335fa267,Barcelona,400,4.4,1.0,0.0,42.0,1.0,1139.0,Barcelona
-,Adama Traoré,es ESP,FW,11,4,2.0,0.0,2021-2022,9a28eba4,Barcelona,382,4.2,0.0,0.0,42.0,1.0,1146.0,Barcelona
-,Jutglà,es ESP,FW,6,4,0.0,1.0,2021-2022,2a9f6b4d,Barcelona,301,3.3,1.0,0.0,42.0,1.0,1216.0,Barcelona
-,Ansu Fati,es ESP,"FW,MF",10,3,0.0,4.0,2021-2022,0ba976e4,Barcelona,336,3.7,0.0,0.0,42.0,1.0,1188.0,Barcelona
-,Neto,br BRA,GK,3,3,0.0,0.0,2021-2022,9dc785c,Barcelona,270,3.0,0.0,0.0,42.0,2.0,,Barcelona
-,Antoine Griezmann,fr FRA,FW,3,3,0.0,0.0,2021-2022,df69b544,Barcelona,263,2.9,0.0,0.0,42.0,4.0,,Barcelona
-,Martin Braithwaite,dk DEN,FW,4,3,1.0,2.0,2021-2022,fd771f95,Barcelona,235,2.6,0.0,0.0,42.0,7.0,1190.0,Barcelona
-,Riqui Puig,es ESP,MF,15,2,0.0,1.0,2021-2022,f090a37a,Barcelona,487,5.4,0.0,0.0,42.0,1.0,1180.0,Barcelona
-,Yusuf Demir,at AUT,"FW,MF",6,2,0.0,0.0,2021-2022,fa265f6d,Barcelona,192,2.1,0.0,0.0,42.0,24.0,1217.0,Barcelona
-,Alejandro Balde,es ESP,"DF,FW",5,2,0.0,0.0,2021-2022,5ccc9672,Barcelona,188,2.1,0.0,0.0,42.0,1.0,1218.0,Barcelona
-,Sergio Agüero,ar ARG,FW,4,2,0.0,1.0,2021-2022,4d034881,Barcelona,151,1.7,0.0,0.0,42.0,5.0,1219.0,Barcelona
-,Ilias Akhomach,es ESP,FW,2,2,0.0,0.0,2021-2022,b8bd60fe,Barcelona,124,1.4,0.0,0.0,42.0,1.0,1220.0,Barcelona
-,Emerson,br BRA,DF,3,1,0.0,0.0,2021-2022,df8b52a5,Barcelona,91,1.0,0.0,0.0,42.0,2.0,1221.0,Barcelona
-,Samuel Umtiti,fr FRA,DF,1,1,0.0,0.0,2021-2022,3eed9821,Barcelona,90,1.0,1.0,0.0,42.0,4.0,1159.0,Barcelona
-,Alvaro Sanz,es ESP,MF,2,0,0.0,0.0,2021-2022,fa2d0,Barcelona,29,0.3,0.0,0.0,42.0,1.0,1222.0,Barcelona
-,Estanis,es ESP,FW,1,0,0.0,0.0,2021-2022,ce50e9f,Barcelona,11,0.1,0.0,0.0,42.0,1.0,1223.0,Barcelona
-,Mika Màrmol,es ESP,DF,1,0,0.0,0.0,2021-2022,7630876,Barcelona,1,0.0,0.0,0.0,42.0,1.0,1224.0,Barcelona
-,Lazar Carević,me MNE,GK,0,0,,,2021-2022,8804949c,Barcelona,,,,,42.0,33.0,1225.0,Barcelona
-,Arnau Comas,es ESP,DF,0,0,,,2021-2022,01d45441,Barcelona,,,,,42.0,1.0,1193.0,Barcelona
-,Lucas De Vega,br BRA,MF,0,0,,,2021-2022,f6f469c5,Barcelona,,,,,42.0,2.0,,Barcelona
-,Guillem Jaime,es ESP,DF,0,0,,,2021-2022,3341009a,Barcelona,,,,,42.0,1.0,1226.0,Barcelona
-,Rey Manaj,al ALB,FW,0,0,,,2021-2022,7703afb6,Barcelona,,,,,42.0,78.0,1194.0,Barcelona
-,Jandro Orellana,es ESP,MF,0,0,,,2021-2022,693e93f1,Barcelona,,,,,42.0,1.0,1227.0,Barcelona
-,Iñaki Peña ,es ESP,GK,0,0,,,2021-2022,cc1c5035,Barcelona,,,,,42.0,1.0,1186.0,Barcelona
-,Miralem Pjanić,ba BIH,MF,0,0,,,2021-2022,d6df2d5,Barcelona,,,,,42.0,49.0,1203.0,Barcelona
-,Arnau Tenas,es ESP,GK,0,0,,,2021-2022,30670b0e,Barcelona,,,,,42.0,1.0,1199.0,Barcelona
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Patrick Kluivert,nl NED,FW,36,36,7.0,16.0,2002-2003,/en/players/6c3b0583/Patrick-Kluivert,6c3b0583,Barcelona,"3,133",34.8,6.0,1.0,42,11.0,902,Barcelona
+,Frank de Boer,nl NED,DF,35,35,0.0,0.0,2002-2003,/en/players/777eaa16/Frank-de-Boer,777eaa16,Barcelona,"3,038",33.8,10.0,0.0,42,11.0,1049,Barcelona
+,Carles Puyol,es ESP,DF,32,32,1.0,0.0,2002-2003,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"2,840",31.6,6.0,0.0,42,1.0,1050,Barcelona
+,Phillip Cocu,nl NED,"DF,FW",29,29,1.0,3.0,2002-2003,/en/players/75522231/Phillip-Cocu,75522231,Barcelona,"2,512",27.9,8.0,0.0,42,11.0,1051,Barcelona
+,Xavi,es ESP,MF,29,29,6.0,2.0,2002-2003,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,512",27.9,1.0,0.0,42,1.0,1052,Barcelona
+,Gaizka Mendieta,es ESP,MF,33,29,6.0,4.0,2002-2003,/en/players/c5589415/Gaizka-Mendieta,c5589415,Barcelona,"2,431",27.0,6.0,0.0,42,1.0,1053,Barcelona
+,Javier Saviola,ar ARG,FW,36,29,6.0,13.0,2002-2003,/en/players/de544fdb/Javier-Saviola,de544fdb,Barcelona,"2,415",26.8,4.0,1.0,42,5.0,67,Barcelona
+,Roberto Bonano,ar ARG,GK,24,24,0.0,0.0,2002-2003,/en/players/7b2d75ba/Roberto-Bonano,7b2d75ba,Barcelona,"2,140",23.8,1.0,0.0,42,5.0,1054,Barcelona
+,Gabri García,es ESP,"DF,MF",27,22,0.0,0.0,2002-2003,/en/players/ed94a7aa/Gabri-Garcia,d94a7aa,Barcelona,"1,911",21.2,13.0,1.0,42,1.0,1055,Barcelona
+,Marc Overmars,nl NED,"FW,MF",26,21,3.0,6.0,2002-2003,/en/players/c9cc6332/Marc-Overmars,c9cc6332,Barcelona,"1,739",19.3,2.0,1.0,42,11.0,1056,Barcelona
+,Thiago Motta,it ITA,MF,21,18,5.0,3.0,2002-2003,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Barcelona,"1,528",17.0,6.0,2.0,42,9.0,1057,Barcelona
+,Michael Reiziger,nl NED,DF,21,17,1.0,0.0,2002-2003,/en/players/6e75ab56/Michael-Reiziger,6e75ab56,Barcelona,"1,551",17.2,5.0,0.0,42,11.0,1058,Barcelona
+,Juan Román Riquelme,ar ARG,MF,30,14,6.0,3.0,2002-2003,/en/players/04381207/Juan-Roman-Riquelme,04381207,Barcelona,"1,608",17.9,2.0,0.0,42,5.0,1059,Barcelona
+,Luis Enrique,es ESP,"FW,MF",18,14,1.0,8.0,2002-2003,/en/players/b9407435/Luis-Enrique,b9407435,Barcelona,"1,310",14.6,4.0,0.0,42,1.0,1060,Barcelona
+,Víctor Valdés,es ESP,GK,14,14,0.0,0.0,2002-2003,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"1,260",14.0,0.0,0.0,42,1.0,1061,Barcelona
+,Juan Pablo Sorín,ar ARG,"DF,MF",15,14,0.0,1.0,2002-2003,/en/players/239e2070/Juan-Pablo-Sorin,239e2070,Barcelona,"1,137",12.6,5.0,1.0,42,5.0,1062,Barcelona
+,Fernando Navarro,es ESP,DF,13,13,1.0,1.0,2002-2003,/en/players/5a3f6fae/Fernando-Navarro,5a3f6fae,Barcelona,"1,125",12.5,6.0,0.0,42,1.0,518,Barcelona
+,Fábio Rochemback,br BRA,"DF,MF",21,7,1.0,1.0,2002-2003,/en/players/808296db/Fabio-Rochemback,808296db,Barcelona,774,8.6,2.0,1.0,42,2.0,1063,Barcelona
+,Gerard López,es ESP,MF,21,5,1.0,0.0,2002-2003,/en/players/403b0279/Gerard-Lopez,403b0279,Barcelona,672,7.5,3.0,0.0,42,1.0,1064,Barcelona
+,Andrés Iniesta,es ESP,MF,6,5,1.0,0.0,2002-2003,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,447,5.0,1.0,0.0,42,1.0,1065,Barcelona
+,Philippe Christanval,fr FRA,DF,5,4,0.0,0.0,2002-2003,/en/players/2b1074c4/Philippe-Christanval,2b1074c4,Barcelona,349,3.9,1.0,0.0,42,4.0,1066,Barcelona
+,Dani García,es ESP,FW,8,3,0.0,0.0,2002-2003,/en/players/68411ed5/Dani-Garcia,68411ed5,Barcelona,225,2.5,0.0,0.0,42,1.0,1067,Barcelona
+,Patrik Andersson,se SWE,DF,3,2,0.0,0.0,2002-2003,/en/players/95749f23/Patrik-Andersson,95749f23,Barcelona,239,2.7,0.0,0.0,42,41.0,1068,Barcelona
+,Óscar López,es ESP,DF,2,2,0.0,0.0,2002-2003,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Barcelona,180,2.0,0.0,0.0,42,1.0,1069,Barcelona
+,Oleguer Presas,es ESP,DF,3,1,0.0,0.0,2002-2003,/en/players/6c4f4e07/Oleguer-Presas,6c4f4e07,Barcelona,239,2.7,0.0,0.0,42,1.0,1070,Barcelona
+,Geovanni,br BRA,"FW,MF",5,0,0.0,0.0,2002-2003,/en/players/ffeaaebe/Geovanni,ffeaaebe,Barcelona,77,0.9,0.0,0.0,42,2.0,1071,Barcelona
+,Nano,es ESP,"DF,FW",3,0,0.0,0.0,2002-2003,/en/players/51fbb7e2/Nano,51fbb7e2,Barcelona,41,0.5,0.0,0.0,42,1.0,1072,Barcelona
+,Robert Enke,de GER,GK,1,0,0.0,0.0,2002-2003,/en/players/02692203/Robert-Enke,02692203,Barcelona,20,0.2,0.0,0.0,42,13.0,1073,Barcelona
+,﻿Phillip Cocu,nl NED,"DF,FW",36,36,2.0,5.0,2003-2004,/en/players/75522231/Phillip-Cocu,75522231,Barcelona,"3,129",34.8,5.0,2.0,42,11.0,1051,Barcelona
+,Xavi,es ESP,MF,36,34,9.0,4.0,2003-2004,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"3,014",33.5,3.0,0.0,42,1.0,1052,Barcelona
+,Giovanni van Bronckhorst,nl NED,"DF,MF",34,34,2.0,0.0,2003-2004,/en/players/7e4e7dea/Giovanni-van-Bronckhorst,7e4e7dea,Barcelona,"3,007",33.4,6.0,0.0,42,11.0,1074,Barcelona
+,Víctor Valdés,es ESP,GK,33,33,0.0,0.0,2003-2004,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"2,914",32.4,4.0,0.0,42,1.0,1061,Barcelona
+,Ronaldinho,br BRA,"FW,MF",32,32,5.0,15.0,2003-2004,/en/players/34edcab0/Ronaldinho,34edcab0,Barcelona,"2,677",29.7,10.0,1.0,42,2.0,1075,Barcelona
+,Michael Reiziger,nl NED,DF,30,29,1.0,0.0,2003-2004,/en/players/6e75ab56/Michael-Reiziger,6e75ab56,Barcelona,"2,488",27.6,6.0,0.0,42,11.0,1058,Barcelona
+,Javier Saviola,ar ARG,FW,33,28,5.0,14.0,2003-2004,/en/players/de544fdb/Javier-Saviola,de544fdb,Barcelona,"2,274",25.3,5.0,0.0,42,5.0,67,Barcelona
+,Carles Puyol,es ESP,DF,27,27,0.0,0.0,2003-2004,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"2,338",26.0,9.0,1.0,42,1.0,1050,Barcelona
+,Luis Enrique,es ESP,"FW,MF",25,23,2.0,3.0,2003-2004,/en/players/b9407435/Luis-Enrique,b9407435,Barcelona,"1,659",18.4,2.0,1.0,42,1.0,1060,Barcelona
+,Luis García,es ESP,MF,25,23,7.0,4.0,2003-2004,/en/players/a5c8d2b7/Luis-Garcia,5c8d2b7,Barcelona,"1,659",18.4,1.0,0.0,42,1.0,1076,Barcelona
+,Edgar Davids,nl NED,MF,18,18,0.0,1.0,2003-2004,/en/players/19d5e43e/Edgar-Davids,19d5e43e,Barcelona,"1,468",16.3,6.0,1.0,42,11.0,1077,Barcelona
+,Oleguer Presas,es ESP,DF,18,17,,0.0,2003-2004,/en/players/6c4f4e07/Oleguer-Presas,6c4f4e07,Barcelona,"1,558",17.3,3.0,0.0,42,1.0,1070,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",22,17,0.0,1.0,2003-2004,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,"1,388",15.4,5.0,1.0,42,20.0,1078,Barcelona
+,Thiago Motta,it ITA,MF,20,13,1.0,1.0,2003-2004,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Barcelona,"1,020",11.3,10.0,3.0,42,9.0,1057,Barcelona
+,Gabri García,es ESP,"DF,MF",16,12,0.0,1.0,2003-2004,/en/players/ed94a7aa/Gabri-Garcia,d94a7aa,Barcelona,"1,082",12.0,6.0,1.0,42,1.0,1055,Barcelona
+,Patrick Kluivert,nl NED,FW,21,11,2.0,8.0,2003-2004,/en/players/6c3b0583/Patrick-Kluivert,6c3b0583,Barcelona,"1,287",14.3,2.0,0.0,42,11.0,902,Barcelona
+,Gerard López,es ESP,MF,19,11,0.0,1.0,2003-2004,/en/players/403b0279/Gerard-Lopez,403b0279,Barcelona,"1,232",13.7,8.0,1.0,42,1.0,1064,Barcelona
+,Ricardo Quaresma,pt POR,"FW,MF",22,10,1.0,1.0,2003-2004,/en/players/6b6d252d/Ricardo-Quaresma,6b6d252d,Barcelona,"1,000",11.1,6.0,1.0,42,3.0,1079,Barcelona
+,Marc Overmars,nl NED,"FW,MF",20,5,1.0,1.0,2003-2004,/en/players/c9cc6332/Marc-Overmars,c9cc6332,Barcelona,799,8.9,0.0,0.0,42,11.0,1056,Barcelona
+,Andrés Iniesta,es ESP,MF,11,5,2.0,1.0,2003-2004,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,498,5.5,0.0,0.0,42,1.0,1065,Barcelona
+,Rüştü Reçber,tr TUR,GK,4,3,0.0,0.0,2003-2004,/en/players/7a09afda/Rustu-Recber,7a09afda,Barcelona,326,3.6,0.0,0.0,42,15.0,1080,Barcelona
+,Óscar López,es ESP,DF,6,2,1.0,0.0,2003-2004,/en/players/14ae8df8/Oscar-Lopez,14ae8df8,Barcelona,311,3.5,1.0,0.0,42,1.0,1069,Barcelona
+,Patrik Andersson,se SWE,DF,4,2,0.0,0.0,2003-2004,/en/players/95749f23/Patrik-Andersson,95749f23,Barcelona,208,2.3,0.0,0.0,42,41.0,1068,Barcelona
+,Sergio García,es ESP,"FW,MF",4,2,1.0,0.0,2003-2004,/en/players/2bee98fd/Sergio-Garcia,2bee98fd,Barcelona,206,2.3,0.0,0.0,42,1.0,1081,Barcelona
+,Albert Jorquera,es ESP,GK,2,2,0.0,0.0,2003-2004,/en/players/4b0184a5/Albert-Jorquera,4b0184a5,Barcelona,180,2.0,0.0,0.0,42,1.0,1082,Barcelona
+,Sergio Santamaría,es ESP,"FW,MF",4,1,0.0,0.0,2003-2004,/en/players/4795800e/Sergio-Santamaria,4795800e,Barcelona,146,1.6,0.0,0.0,42,1.0,1083,Barcelona
+,Mario,es ESP,DF,1,1,0.0,0.0,2003-2004,/en/players/e6ede7f4/Mario,6ede7f4,Barcelona,90,1.0,0.0,0.0,42,1.0,1084,Barcelona
+,Ramón Ros,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/0ad2ce10/Ramon-Ros,0ad2ce10,Barcelona,6,0.1,0.0,0.0,42,1.0,1085,Barcelona
+,﻿Samuel Eto'o,cm CMR,FW,37,37,3.0,24.0,2004-2005,/en/players/06420c93/Samuel-Etoo,06420c93,Barcelona,"3,036",33.7,4.0,0.0,42,36.0,1095,Barcelona
+,Carles Puyol,es ESP,DF,36,36,1.0,0.0,2004-2005,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"3,109",34.5,6.0,0.0,42,1.0,1050,Barcelona
+,Xavi,es ESP,MF,36,36,6.0,3.0,2004-2005,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"3,052",33.9,5.0,0.0,42,1.0,1052,Barcelona
+,Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2004-2005,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,135",34.8,0.0,1.0,42,1.0,1061,Barcelona
+,Ronaldinho,br BRA,"FW,MF",35,35,9.0,9.0,2004-2005,/en/players/34edcab0/Ronaldinho,34edcab0,Barcelona,"3,071",34.1,5.0,0.0,42,2.0,1075,Barcelona
+,Deco,pt POR,MF,35,35,11.0,8.0,2004-2005,/en/players/a8a2f283/Deco,8a2f283,Barcelona,"2,947",32.7,13.0,0.0,42,3.0,1086,Barcelona
+,Oleguer Presas,es ESP,DF,36,33,1.0,1.0,2004-2005,/en/players/6c4f4e07/Oleguer-Presas,6c4f4e07,Barcelona,"2,926",32.5,3.0,0.0,42,1.0,1070,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",34,33,4.0,3.0,2004-2005,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,"2,715",30.2,7.0,1.0,42,20.0,1078,Barcelona
+,Juliano Belletti,br BRA,"DF,MF",31,29,4.0,0.0,2004-2005,/en/players/a4432ca2/Juliano-Belletti,4432ca2,Barcelona,"2,536",28.2,10.0,0.0,42,2.0,1087,Barcelona
+,Ludovic Giuly,fr FRA,"FW,MF",29,29,4.0,11.0,2004-2005,/en/players/028d362d/Ludovic-Giuly,028d362d,Barcelona,"2,080",23.1,1.0,0.0,42,4.0,1088,Barcelona
+,Giovanni van Bronckhorst,nl NED,"DF,MF",29,27,1.0,4.0,2004-2005,/en/players/7e4e7dea/Giovanni-van-Bronckhorst,7e4e7dea,Barcelona,"2,388",26.5,8.0,0.0,42,11.0,1074,Barcelona
+,Andrés Iniesta,es ESP,MF,37,12,2.0,2.0,2004-2005,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,657",18.4,2.0,0.0,42,1.0,1065,Barcelona
+,Sylvinho,br BRA,DF,21,11,1.0,0.0,2004-2005,/en/players/b46e497d/Sylvinho,b46e497d,Barcelona,960,10.7,3.0,0.0,42,2.0,622,Barcelona
+,Henrik Larsson,se SWE,FW,12,6,0.0,3.0,2004-2005,/en/players/05ae7d22/Henrik-Larsson,05ae7d22,Barcelona,571,6.3,1.0,0.0,42,41.0,1089,Barcelona
+,Damià Abella,es ESP,"DF,MF",9,5,0.0,0.0,2004-2005,/en/players/e35b4a15/Damia-Abella,35b4a15,Barcelona,458,5.1,3.0,0.0,42,1.0,1090,Barcelona
+,Edmílson,br BRA,"DF,MF",6,4,0.0,0.0,2004-2005,/en/players/13853c88/Edmilson,13853c88,Barcelona,362,4.0,1.0,0.0,42,2.0,1091,Barcelona
+,Thiago Motta,it ITA,MF,8,3,0.0,0.0,2004-2005,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Barcelona,273,3.0,1.0,0.0,42,9.0,1057,Barcelona
+,Gerard López,es ESP,MF,13,2,0.0,2.0,2004-2005,/en/players/403b0279/Gerard-Lopez,403b0279,Barcelona,302,3.4,2.0,0.0,42,1.0,1064,Barcelona
+,Maxi López,ar ARG,FW,8,2,0.0,0.0,2004-2005,/en/players/ad469944/Maxi-Lopez,d469944,Barcelona,237,2.6,0.0,0.0,42,5.0,1092,Barcelona
+,Fernando Navarro,es ESP,DF,5,2,0.0,0.0,2004-2005,/en/players/5a3f6fae/Fernando-Navarro,5a3f6fae,Barcelona,217,2.4,0.0,0.0,42,1.0,518,Barcelona
+,Albert Jorquera,es ESP,GK,2,2,0.0,0.0,2004-2005,/en/players/4b0184a5/Albert-Jorquera,4b0184a5,Barcelona,180,2.0,0.0,0.0,42,1.0,1082,Barcelona
+,Gabri García,es ESP,"DF,MF",4,2,0.0,0.0,2004-2005,/en/players/ed94a7aa/Gabri-Garcia,d94a7aa,Barcelona,57,0.6,0.0,0.0,42,1.0,1055,Barcelona
+,Demetrio Albertini,it ITA,"FW,MF",5,1,0.0,0.0,2004-2005,/en/players/91a9535a/Demetrio-Albertini,91a9535a,Barcelona,259,2.9,1.0,0.0,42,9.0,1093,Barcelona
+,Rubén,es ESP,GK,2,1,0.0,0.0,2004-2005,/en/players/24279b8b/Ruben,24279b8b,Barcelona,105,1.2,0.0,0.0,42,1.0,529,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",7,0,0.0,1.0,2004-2005,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,70,0.8,0.0,0.0,42,5.0,1094,Barcelona
+,Rodri,es ESP,DF,1,0,,0.0,2004-2005,/en/players/7fa4aa89/Rodri,7fa4aa89,Barcelona,3,0.0,0.0,0.0,42,1.0,421,Barcelona
+,﻿Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2005-2006,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,150",35.0,2.0,0.0,42,1.0,1061,Barcelona
+,Carles Puyol,es ESP,DF,35,35,0.0,1.0,2005-2006,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"3,133",34.8,6.0,1.0,42,1.0,1050,Barcelona
+,Samuel Eto'o,cm CMR,FW,34,34,5.0,26.0,2005-2006,/en/players/06420c93/Samuel-Etoo,06420c93,Barcelona,"3,015",33.5,1.0,0.0,42,36.0,1095,Barcelona
+,Oleguer Presas,es ESP,DF,33,31,0.0,0.0,2005-2006,/en/players/6c4f4e07/Oleguer-Presas,6c4f4e07,Barcelona,"2,725",30.3,1.0,0.0,42,1.0,1070,Barcelona
+,Ronaldinho,br BRA,"FW,MF",29,29,14.0,17.0,2005-2006,/en/players/34edcab0/Ronaldinho,34edcab0,Barcelona,"2,523",28.0,5.0,0.0,42,2.0,1075,Barcelona
+,Deco,pt POR,MF,29,28,7.0,3.0,2005-2006,/en/players/a8a2f283/Deco,8a2f283,Barcelona,"2,373",26.4,7.0,1.0,42,3.0,1086,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",25,25,0.0,0.0,2005-2006,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,"1,976",22.0,7.0,0.0,42,20.0,1078,Barcelona
+,Edmílson,br BRA,"DF,MF",28,24,2.0,0.0,2005-2006,/en/players/13853c88/Edmilson,13853c88,Barcelona,"2,192",24.4,10.0,1.0,42,2.0,1091,Barcelona
+,Sylvinho,br BRA,DF,26,22,4.0,2.0,2005-2006,/en/players/b46e497d/Sylvinho,b46e497d,Barcelona,"2,024",22.5,5.0,0.0,42,2.0,622,Barcelona
+,Ludovic Giuly,fr FRA,"FW,MF",30,21,5.0,5.0,2005-2006,/en/players/028d362d/Ludovic-Giuly,028d362d,Barcelona,"1,752",19.5,1.0,0.0,42,4.0,1088,Barcelona
+,Juliano Belletti,br BRA,"DF,MF",27,20,1.0,0.0,2005-2006,/en/players/a4432ca2/Juliano-Belletti,4432ca2,Barcelona,"1,712",19.0,9.0,0.0,42,2.0,1087,Barcelona
+,Mark van Bommel,nl NED,MF,24,17,2.0,2.0,2005-2006,/en/players/f23bcfa3/Mark-van-Bommel,f23bcfa3,Barcelona,"1,555",17.3,4.0,0.0,42,11.0,1096,Barcelona
+,Giovanni van Bronckhorst,nl NED,"DF,MF",19,15,2.0,0.0,2005-2006,/en/players/7e4e7dea/Giovanni-van-Bronckhorst,7e4e7dea,Barcelona,"1,392",15.5,3.0,0.0,42,11.0,1074,Barcelona
+,Andrés Iniesta,es ESP,MF,33,14,4.0,0.0,2005-2006,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,662",18.5,3.0,0.0,42,1.0,1065,Barcelona
+,Henrik Larsson,se SWE,FW,28,14,1.0,10.0,2005-2006,/en/players/05ae7d22/Henrik-Larsson,05ae7d22,Barcelona,"1,345",14.9,0.0,0.0,42,41.0,1089,Barcelona
+,Xavi,es ESP,MF,16,14,1.0,0.0,2005-2006,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"1,215",13.5,0.0,0.0,42,1.0,1052,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",17,11,3.0,6.0,2005-2006,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,911,10.1,2.0,0.0,42,5.0,1094,Barcelona
+,Thiago Motta,it ITA,MF,15,11,1.0,1.0,2005-2006,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Barcelona,908,10.1,3.0,1.0,42,9.0,1057,Barcelona
+,Gabri García,es ESP,"DF,MF",11,4,0.0,0.0,2005-2006,/en/players/ed94a7aa/Gabri-Garcia,d94a7aa,Barcelona,428,4.8,1.0,1.0,42,1.0,1055,Barcelona
+,Santiago Ezquerro,es ESP,FW,12,3,0.0,2.0,2005-2006,/en/players/c836203d/Santiago-Ezquerro,c836203d,Barcelona,475,5.3,0.0,0.0,42,1.0,1097,Barcelona
+,Albert Jorquera,es ESP,GK,3,3,0.0,0.0,2005-2006,/en/players/4b0184a5/Albert-Jorquera,4b0184a5,Barcelona,270,3.0,0.0,0.0,42,1.0,1082,Barcelona
+,Rodri,es ESP,DF,4,3,0.0,0.0,2005-2006,/en/players/7fa4aa89/Rodri,7fa4aa89,Barcelona,254,2.8,0.0,0.0,42,1.0,421,Barcelona
+,Maxi López,ar ARG,FW,6,2,1.0,0.0,2005-2006,/en/players/ad469944/Maxi-Lopez,d469944,Barcelona,272,3.0,0.0,0.0,42,5.0,1092,Barcelona
+,Ludovic Sylvestre,gp GLP,MF,2,1,,0.0,2005-2006,/en/players/37103874/Ludovic-Sylvestre,37103874,Barcelona,107,1.2,0.0,0.0,42,56.0,1098,Barcelona
+,Jesús Olmo,es ESP,DF,1,1,,0.0,2005-2006,/en/players/cf30e13a/Jesus-Olmo,cf30e13a,Barcelona,90,1.0,1.0,0.0,42,1.0,1099,Barcelona
+,Andrea Orlandi,es ESP,"FW,MF",1,1,,0.0,2005-2006,/en/players/b1403ee6/Andrea-Orlandi,b1403ee6,Barcelona,73,0.8,0.0,0.0,42,1.0,1100,Barcelona
+,Pitu,es ESP,MF,1,0,,0.0,2005-2006,/en/players/ed6ee013/Pitu,d6ee013,Barcelona,29,0.3,0.0,0.0,42,1.0,1101,Barcelona
+,Paco Montañés,es ESP,"FW,MF",1,0,,0.0,2005-2006,/en/players/9cc493b1/Paco-Montanes,9cc493b1,Barcelona,21,0.2,0.0,0.0,42,1.0,1102,Barcelona
+,Francisco Martos,es ESP,"DF,MF",1,0,,0.0,2005-2006,/en/players/412db81c/Francisco-Martos,412db81c,Barcelona,17,0.2,0.0,0.0,42,1.0,1103,Barcelona
+,Ramón Masó,es ESP,MF,1,0,,0.0,2005-2006,/en/players/31531b99/Ramon-Maso,31531b99,Barcelona,10,0.1,0.0,0.0,42,1.0,1104,Barcelona
+,﻿Víctor Valdés,es ESP,GK,38,38,0.0,0.0,2006-2007,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,420",38.0,2.0,0.0,42,1.0,1061,Barcelona
+,Carles Puyol,es ESP,DF,35,35,0.0,2.0,2006-2007,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"3,028",33.6,3.0,0.0,42,1.0,1050,Barcelona
+,Ronaldinho,br BRA,"FW,MF",32,32,8.0,21.0,2006-2007,/en/players/34edcab0/Ronaldinho,34edcab0,Barcelona,"2,733",30.4,8.0,1.0,42,2.0,1075,Barcelona
+,Xavi,es ESP,MF,35,31,3.0,3.0,2006-2007,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,866",31.8,3.0,0.0,42,1.0,1052,Barcelona
+,Deco,pt POR,MF,31,31,9.0,1.0,2006-2007,/en/players/a8a2f283/Deco,8a2f283,Barcelona,"2,473",27.5,14.0,1.0,42,3.0,1086,Barcelona
+,Andrés Iniesta,es ESP,MF,37,28,3.0,6.0,2006-2007,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"2,696",30.0,4.0,0.0,42,1.0,1065,Barcelona
+,Gianluca Zambrotta,it ITA,DF,29,25,3.0,3.0,2006-2007,/en/players/94508225/Gianluca-Zambrotta,94508225,Barcelona,"2,313",25.7,9.0,1.0,42,9.0,1105,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",26,23,3.0,14.0,2006-2007,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"1,983",22.0,2.0,0.0,42,5.0,1094,Barcelona
+,Lilian Thuram,fr FRA,DF,23,23,0.0,0.0,2006-2007,/en/players/643ca22c/Lilian-Thuram,643ca22c,Barcelona,"1,954",21.7,2.0,0.0,42,4.0,1106,Barcelona
+,Edmílson,br BRA,"DF,MF",26,22,0.0,0.0,2006-2007,/en/players/13853c88/Edmilson,13853c88,Barcelona,"1,809",20.1,5.0,0.0,42,2.0,1091,Barcelona
+,Giovanni van Bronckhorst,nl NED,"DF,MF",23,20,2.0,0.0,2006-2007,/en/players/7e4e7dea/Giovanni-van-Bronckhorst,7e4e7dea,Barcelona,"1,775",19.7,3.0,0.0,42,11.0,1074,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",21,20,0.0,1.0,2006-2007,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,"1,720",19.1,7.0,0.0,42,20.0,1078,Barcelona
+,Samuel Eto'o,cm CMR,FW,19,17,7.0,11.0,2006-2007,/en/players/06420c93/Samuel-Etoo,06420c93,Barcelona,"1,477",16.4,4.0,0.0,42,36.0,1095,Barcelona
+,Ludovic Giuly,fr FRA,"FW,MF",27,15,2.0,3.0,2006-2007,/en/players/028d362d/Ludovic-Giuly,028d362d,Barcelona,"1,468",16.3,0.0,1.0,42,4.0,1088,Barcelona
+,Eiður Guðjohnsen,is ISL,"FW,MF",25,14,2.0,5.0,2006-2007,/en/players/32fc9ff2/Eidur-Gudjohnsen,32fc9ff2,Barcelona,"1,171",13.0,1.0,0.0,42,40.0,1107,Barcelona
+,Oleguer Presas,es ESP,DF,25,11,0.0,0.0,2006-2007,/en/players/6c4f4e07/Oleguer-Presas,6c4f4e07,Barcelona,"1,238",13.8,3.0,1.0,42,1.0,1070,Barcelona
+,Sylvinho,br BRA,DF,13,11,2.0,0.0,2006-2007,/en/players/b46e497d/Sylvinho,b46e497d,Barcelona,976,10.8,2.0,1.0,42,2.0,622,Barcelona
+,Juliano Belletti,br BRA,"DF,MF",13,9,1.0,0.0,2006-2007,/en/players/a4432ca2/Juliano-Belletti,4432ca2,Barcelona,808,9.0,2.0,0.0,42,2.0,1087,Barcelona
+,Javier Saviola,ar ARG,FW,18,6,0.0,5.0,2006-2007,/en/players/de544fdb/Javier-Saviola,de544fdb,Barcelona,677,7.5,2.0,0.0,42,5.0,67,Barcelona
+,Thiago Motta,it ITA,MF,14,5,0.0,0.0,2006-2007,/en/players/57ef0d97/Thiago-Motta,57ef0d97,Barcelona,566,6.3,4.0,1.0,42,9.0,1057,Barcelona
+,Santiago Ezquerro,es ESP,FW,9,2,0.0,1.0,2006-2007,/en/players/c836203d/Santiago-Ezquerro,c836203d,Barcelona,274,3.0,0.0,0.0,42,1.0,1097,Barcelona
+,Jesús Olmo,es ESP,DF,1,0,,0.0,2006-2007,/en/players/cf30e13a/Jesus-Olmo,cf30e13a,Barcelona,3,0.0,0.0,0.0,42,1.0,1099,Barcelona
+,﻿Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2007-2008,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,150",35.0,2.0,0.0,42,1.0,1061,Barcelona
+,Xavi,es ESP,MF,35,33,5.0,7.0,2007-2008,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,907",32.3,4.0,1.0,42,1.0,1052,Barcelona
+,Carles Puyol,es ESP,DF,30,29,0.0,0.0,2007-2008,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"2,513",27.9,8.0,0.0,42,1.0,1050,Barcelona
+,Andrés Iniesta,es ESP,MF,31,28,2.0,3.0,2007-2008,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"2,616",29.1,6.0,0.0,42,1.0,1065,Barcelona
+,Éric Abidal,fr FRA,DF,30,28,0.0,0.0,2007-2008,/en/players/016828bd/Eric-Abidal,016828bd,Barcelona,"2,523",28.0,2.0,0.0,42,4.0,1108,Barcelona
+,Thierry Henry,fr FRA,FW,30,27,7.0,12.0,2007-2008,/en/players/c0c5ee74/Thierry-Henry,c0c5ee74,Barcelona,"2,337",26.0,2.0,0.0,42,4.0,1109,Barcelona
+,Gabriel Milito,ar ARG,DF,27,26,0.0,1.0,2007-2008,/en/players/095009cc/Gabriel-Milito,095009cc,Barcelona,"2,221",24.7,6.0,1.0,42,5.0,1110,Barcelona
+,Gianluca Zambrotta,it ITA,DF,29,25,0.0,0.0,2007-2008,/en/players/94508225/Gianluca-Zambrotta,94508225,Barcelona,"2,108",23.4,7.0,1.0,42,9.0,1105,Barcelona
+,Yaya Touré,ci CIV,MF,26,25,0.0,1.0,2007-2008,/en/players/c204f844/Yaya-Toure,c204f844,Barcelona,"2,085",23.2,7.0,0.0,42,35.0,1111,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",27,23,12.0,10.0,2007-2008,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"1,973",21.9,2.0,0.0,42,5.0,1094,Barcelona
+,Samuel Eto'o,cm CMR,FW,18,18,3.0,16.0,2007-2008,/en/players/06420c93/Samuel-Etoo,06420c93,Barcelona,"1,494",16.6,5.0,0.0,42,36.0,1095,Barcelona
+,Lilian Thuram,fr FRA,DF,18,17,0.0,0.0,2007-2008,/en/players/643ca22c/Lilian-Thuram,643ca22c,Barcelona,"1,423",15.8,3.0,0.0,42,4.0,1106,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",24,15,0.0,2.0,2007-2008,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,"1,529",17.0,6.0,1.0,42,20.0,1078,Barcelona
+,Bojan Krkić,es ESP,"FW,MF",31,14,3.0,10.0,2007-2008,/en/players/9fa0a0b8/Bojan-Krkic,9fa0a0b8,Barcelona,"1,453",16.1,1.0,0.0,42,1.0,1112,Barcelona
+,Deco,pt POR,MF,18,14,5.0,1.0,2007-2008,/en/players/a8a2f283/Deco,8a2f283,Barcelona,"1,221",13.6,10.0,0.0,42,3.0,1086,Barcelona
+,Ronaldinho,br BRA,"FW,MF",17,13,2.0,8.0,2007-2008,/en/players/34edcab0/Ronaldinho,34edcab0,Barcelona,"1,168",13.0,0.0,0.0,42,2.0,1075,Barcelona
+,Eiður Guðjohnsen,is ISL,"FW,MF",23,12,1.0,2.0,2007-2008,/en/players/32fc9ff2/Eidur-Gudjohnsen,32fc9ff2,Barcelona,990,11.0,2.0,0.0,42,40.0,1107,Barcelona
+,Giovani dos Santos,mx MEX,"FW,MF",28,10,3.0,3.0,2007-2008,/en/players/7dba6233/Giovani-dos-Santos,7dba6233,Barcelona,"1,257",14.0,2.0,0.0,42,20.0,1113,Barcelona
+,Sylvinho,br BRA,DF,14,10,0.0,0.0,2007-2008,/en/players/b46e497d/Sylvinho,b46e497d,Barcelona,969,10.8,1.0,0.0,42,2.0,622,Barcelona
+,Oleguer Presas,es ESP,DF,12,7,0.0,0.0,2007-2008,/en/players/6c4f4e07/Oleguer-Presas,6c4f4e07,Barcelona,738,8.2,1.0,0.0,42,1.0,1070,Barcelona
+,Edmílson,br BRA,"DF,MF",11,5,0.0,0.0,2007-2008,/en/players/13853c88/Edmilson,13853c88,Barcelona,449,5.0,3.0,1.0,42,2.0,1091,Barcelona
+,José Manuel Pinto,es ESP,GK,3,3,0.0,0.0,2007-2008,/en/players/4a3cd9b7/Jose-Manuel-Pinto,4a3cd9b7,Barcelona,270,3.0,0.0,0.0,42,1.0,636,Barcelona
+,Santiago Ezquerro,es ESP,FW,3,1,0.0,0.0,2007-2008,/en/players/c836203d/Santiago-Ezquerro,c836203d,Barcelona,111,1.2,0.0,0.0,42,1.0,1097,Barcelona
+,Fali,es ESP,"DF,MF",1,0,0.0,0.0,2007-2008,/en/players/65c75bfe/Fali,65c75bfe,Barcelona,21,0.2,1.0,0.0,42,1.0,1114,Barcelona
+,Pedro,es ESP,"FW,MF",2,0,0.0,0.0,2007-2008,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,19,0.2,0.0,0.0,42,1.0,1115,Barcelona
+,José Manuel Rueda,es ESP,MF,1,0,,0.0,2007-2008,/en/players/35d5caee/Jose-Manuel-Rueda,35d5caee,Barcelona,17,0.2,0.0,0.0,42,1.0,1116,Barcelona
+,Víctor Vázquez,es ESP,"FW,MF",1,0,0.0,0.0,2007-2008,/en/players/6c564d36/Victor-Vazquez,6c564d36,Barcelona,14,0.2,0.0,0.0,42,1.0,1117,Barcelona
+,Víctor Sánchez,es ESP,"DF,MF",1,0,,0.0,2007-2008,/en/players/ad4d0985/Victor-Sanchez,d4d0985,Barcelona,2,0.0,0.0,0.0,42,1.0,1118,Barcelona
+,﻿Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2008-2009,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,150",35.0,3.0,0.0,42,1.0,1061,Barcelona
+,Xavi,es ESP,MF,35,34,19.0,6.0,2008-2009,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,973",33.0,4.0,0.0,42,1.0,1052,Barcelona
+,Samuel Eto'o,cm CMR,FW,36,34,4.0,30.0,2008-2009,/en/players/06420c93/Samuel-Etoo,06420c93,Barcelona,"2,929",32.5,9.0,0.0,42,36.0,1095,Barcelona
+,Dani Alves,br BRA,"DF,MF",34,32,9.0,5.0,2008-2009,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,925",32.5,10.0,0.0,42,2.0,1119,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",31,27,11.0,23.0,2008-2009,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,516",28.0,2.0,0.0,42,5.0,1094,Barcelona
+,Carles Puyol,es ESP,DF,28,26,2.0,1.0,2008-2009,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"2,384",26.5,4.0,0.0,42,1.0,1050,Barcelona
+,Gerard Piqué,es ESP,DF,25,25,0.0,1.0,2008-2009,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,205",24.5,6.0,2.0,42,1.0,1120,Barcelona
+,Éric Abidal,fr FRA,DF,25,25,0.0,0.0,2008-2009,/en/players/016828bd/Eric-Abidal,016828bd,Barcelona,"2,116",23.5,5.0,1.0,42,4.0,1108,Barcelona
+,Thierry Henry,fr FRA,FW,29,24,7.0,19.0,2008-2009,/en/players/c0c5ee74/Thierry-Henry,c0c5ee74,Barcelona,"2,112",23.5,3.0,0.0,42,4.0,1109,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",23,23,0.0,1.0,2008-2009,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,"1,987",22.1,6.0,1.0,42,20.0,1078,Barcelona
+,Yaya Touré,ci CIV,MF,25,23,0.0,2.0,2008-2009,/en/players/c204f844/Yaya-Toure,c204f844,Barcelona,"1,924",21.4,4.0,0.0,42,35.0,1111,Barcelona
+,Andrés Iniesta,es ESP,MF,26,22,5.0,4.0,2008-2009,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,901",21.1,3.0,0.0,42,1.0,1065,Barcelona
+,Seydou Keita,ml MLI,MF,29,17,0.0,4.0,2008-2009,/en/players/500c4e9b/Seydou-Keita,500c4e9b,Barcelona,"1,529",17.0,0.0,1.0,42,12.0,1121,Barcelona
+,Sergio Busquets,es ESP,MF,24,16,0.0,1.0,2008-2009,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"1,535",17.1,9.0,0.0,42,1.0,1122,Barcelona
+,Eiður Guðjohnsen,is ISL,"FW,MF",24,11,2.0,3.0,2008-2009,/en/players/32fc9ff2/Eidur-Gudjohnsen,32fc9ff2,Barcelona,"1,036",11.5,2.0,0.0,42,40.0,1107,Barcelona
+,Sylvinho,br BRA,DF,15,10,0.0,0.0,2008-2009,/en/players/b46e497d/Sylvinho,b46e497d,Barcelona,878,9.8,0.0,0.0,42,2.0,622,Barcelona
+,Martín Cáceres,uy URU,DF,13,8,0.0,0.0,2008-2009,/en/players/e94d79e3/Martin-Caceres,94d79e3,Barcelona,783,8.7,0.0,0.0,42,8.0,1123,Barcelona
+,Alexander Hleb,by BLR,MF,19,8,3.0,0.0,2008-2009,/en/players/35cf43aa/Alexander-Hleb,35cf43aa,Barcelona,730,8.1,0.0,0.0,42,77.0,1124,Barcelona
+,Bojan Krkić,es ESP,"FW,MF",23,6,4.0,2.0,2008-2009,/en/players/9fa0a0b8/Bojan-Krkic,9fa0a0b8,Barcelona,736,8.2,3.0,0.0,42,1.0,1112,Barcelona
+,Pedro,es ESP,"FW,MF",6,4,0.0,0.0,2008-2009,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,355,3.9,0.0,0.0,42,1.0,1115,Barcelona
+,Víctor Sánchez,es ESP,"DF,MF",7,3,0.0,0.0,2008-2009,/en/players/ad4d0985/Victor-Sanchez,d4d0985,Barcelona,250,2.8,0.0,0.0,42,1.0,1118,Barcelona
+,José Manuel Pinto,es ESP,GK,2,2,0.0,0.0,2008-2009,/en/players/4a3cd9b7/Jose-Manuel-Pinto,4a3cd9b7,Barcelona,180,2.0,0.0,0.0,42,1.0,636,Barcelona
+,Xavi Torres,es ESP,MF,2,2,0.0,0.0,2008-2009,/en/players/1b51ad2f/Xavi-Torres,1b51ad2f,Barcelona,180,2.0,1.0,0.0,42,1.0,1125,Barcelona
+,Oier Olazábal,es ESP,GK,1,1,0.0,0.0,2008-2009,/en/players/b5bdf144/Oier-Olazabal,b5bdf144,Barcelona,90,1.0,0.0,0.0,42,1.0,311,Barcelona
+,Marc Muniesa,es ESP,"DF,MF",1,0,0.0,0.0,2008-2009,/en/players/4db76f57/Marc-Muniesa,4db76f57,Barcelona,31,0.3,0.0,1.0,42,1.0,1126,Barcelona
+,Jeffrén Suárez,ve VEN,"FW,MF",2,0,0.0,0.0,2008-2009,/en/players/01e9c0a6/Jeffren-Suarez,01e9c0a6,Barcelona,30,0.3,0.0,0.0,42,53.0,1127,Barcelona
+,Alberto Botía,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/7f6bff1f/Alberto-Botia,7f6bff1f,Barcelona,28,0.3,0.0,0.0,42,1.0,1128,Barcelona
+,Thiago Alcántara,es ESP,MF,1,0,0.0,0.0,2008-2009,/en/players/77e84962/Thiago-Alcantara,77e84962,Barcelona,18,0.2,0.0,0.0,42,1.0,1129,Barcelona
+,Abraham González,es ESP,MF,1,0,0.0,0.0,2008-2009,/en/players/682bd745/Abraham-Gonzalez,682bd745,Barcelona,15,0.2,0.0,0.0,42,1.0,1130,Barcelona
+,﻿Víctor Valdés,es ESP,GK,38,38,0.0,0.0,2009-2010,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,420",38.0,1.0,0.0,42,1.0,1061,Barcelona
+,Xavi,es ESP,MF,34,31,13.0,3.0,2009-2010,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,797",31.1,4.0,0.0,42,1.0,1052,Barcelona
+,Carles Puyol,es ESP,DF,32,31,1.0,1.0,2009-2010,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"2,712",30.1,7.0,0.0,42,1.0,1050,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",35,30,9.0,34.0,2009-2010,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,805",31.2,3.0,0.0,42,5.0,1094,Barcelona
+,Gerard Piqué,es ESP,DF,32,29,0.0,2.0,2009-2010,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,541",28.2,6.0,0.0,42,1.0,1120,Barcelona
+,Dani Alves,br BRA,"DF,MF",29,28,8.0,3.0,2009-2010,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,493",27.7,8.0,1.0,42,2.0,1119,Barcelona
+,Sergio Busquets,es ESP,MF,33,26,1.0,0.0,2009-2010,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,324",25.8,8.0,1.0,42,1.0,1122,Barcelona
+,Maxwell,br BRA,DF,25,25,3.0,0.0,2009-2010,/en/players/6f08cece/Maxwell,6f08cece,Barcelona,"2,162",24.0,4.0,0.0,42,2.0,1131,Barcelona
+,Seydou Keita,ml MLI,MF,29,23,2.0,6.0,2009-2010,/en/players/500c4e9b/Seydou-Keita,500c4e9b,Barcelona,"2,096",23.3,6.0,0.0,42,12.0,1121,Barcelona
+,Zlatan Ibrahimović,se SWE,FW,29,23,6.0,16.0,2009-2010,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Barcelona,"2,040",22.7,5.0,1.0,42,41.0,1132,Barcelona
+,Pedro,es ESP,"FW,MF",34,22,2.0,12.0,2009-2010,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,"2,087",23.2,2.0,0.0,42,1.0,1115,Barcelona
+,Andrés Iniesta,es ESP,MF,29,20,3.0,1.0,2009-2010,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,905",21.2,2.0,0.0,42,1.0,1065,Barcelona
+,Yaya Touré,ci CIV,MF,23,18,3.0,1.0,2009-2010,/en/players/c204f844/Yaya-Toure,c204f844,Barcelona,"1,485",16.5,3.0,0.0,42,35.0,1111,Barcelona
+,Éric Abidal,fr FRA,DF,17,15,2.0,0.0,2009-2010,/en/players/016828bd/Eric-Abidal,016828bd,Barcelona,"1,410",15.7,3.0,0.0,42,4.0,1108,Barcelona
+,Thierry Henry,fr FRA,FW,21,15,1.0,4.0,2009-2010,/en/players/c0c5ee74/Thierry-Henry,c0c5ee74,Barcelona,"1,223",13.6,1.0,0.0,42,4.0,1109,Barcelona
+,Bojan Krkić,es ESP,"FW,MF",23,11,2.0,8.0,2009-2010,/en/players/9fa0a0b8/Bojan-Krkic,9fa0a0b8,Barcelona,"1,023",11.4,2.0,0.0,42,1.0,1112,Barcelona
+,Dmytro Chygrynskiy,ua UKR,DF,12,10,0.0,0.0,2009-2010,/en/players/b20f5a66/Dmytro-Chygrynskiy,b20f5a66,Barcelona,876,9.7,2.0,0.0,42,29.0,1133,Barcelona
+,Gabriel Milito,ar ARG,DF,11,9,0.0,0.0,2009-2010,/en/players/095009cc/Gabriel-Milito,095009cc,Barcelona,784,8.7,2.0,0.0,42,5.0,1110,Barcelona
+,Rafael Márquez,mx MEX,"DF,MF",15,7,0.0,1.0,2009-2010,/en/players/ce067ffe/Rafael-Marquez,ce067ffe,Barcelona,771,8.6,2.0,1.0,42,20.0,1078,Barcelona
+,Jeffrén Suárez,ve VEN,"FW,MF",12,6,0.0,2.0,2009-2010,/en/players/01e9c0a6/Jeffren-Suarez,01e9c0a6,Barcelona,402,4.5,1.0,0.0,42,53.0,1127,Barcelona
+,Jonathan dos Santos,mx MEX,MF,3,1,0.0,0.0,2009-2010,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Barcelona,114,1.3,0.0,0.0,42,20.0,1134,Barcelona
+,Marc Bartra,es ESP,DF,1,0,0.0,0.0,2009-2010,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,30,0.3,0.0,0.0,42,1.0,1135,Barcelona
+,Thiago Alcántara,es ESP,MF,1,0,0.0,1.0,2009-2010,/en/players/77e84962/Thiago-Alcantara,77e84962,Barcelona,15,0.2,0.0,0.0,42,1.0,1129,Barcelona
+,Andreu Fontàs,es ESP,DF,1,0,0.0,0.0,2009-2010,/en/players/0f138d5a/Andreu-Fontas,0f138d5a,Barcelona,6,0.1,0.0,0.0,42,1.0,759,Barcelona
+,﻿Víctor Valdés,es ESP,GK,32,32,0.0,0.0,2010-2011,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"2,880",32.0,6.0,0.0,42,1.0,1061,Barcelona
+,Andrés Iniesta,es ESP,MF,34,32,4.0,8.0,2010-2011,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"2,786",31.0,1.0,0.0,42,1.0,1065,Barcelona
+,David Villa,es ESP,"FW,MF",34,32,6.0,18.0,2010-2011,/en/players/ade08a67/David-Villa,de08a67,Barcelona,"2,744",30.5,3.0,1.0,42,1.0,898,Barcelona
+,Dani Alves,br BRA,"DF,MF",35,31,14.0,2.0,2010-2011,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,905",32.3,10.0,0.0,42,2.0,1119,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",33,31,19.0,31.0,2010-2011,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,858",31.8,3.0,0.0,42,5.0,1094,Barcelona
+,Gerard Piqué,es ESP,DF,31,29,1.0,3.0,2010-2011,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,649",29.4,10.0,1.0,42,1.0,1120,Barcelona
+,Xavi,es ESP,MF,31,29,11.0,3.0,2010-2011,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,451",27.2,6.0,0.0,42,1.0,1052,Barcelona
+,Sergio Busquets,es ESP,MF,28,25,2.0,1.0,2010-2011,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,300",25.6,5.0,0.0,42,1.0,1122,Barcelona
+,Pedro,es ESP,"FW,MF",33,24,9.0,13.0,2010-2011,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,"2,126",23.6,2.0,0.0,42,1.0,1115,Barcelona
+,Éric Abidal,fr FRA,DF,26,23,0.0,0.0,2010-2011,/en/players/016828bd/Eric-Abidal,016828bd,Barcelona,"2,023",22.5,3.0,0.0,42,4.0,1108,Barcelona
+,Maxwell,br BRA,DF,25,19,1.0,0.0,2010-2011,/en/players/6f08cece/Maxwell,6f08cece,Barcelona,"1,820",20.2,2.0,0.0,42,2.0,1131,Barcelona
+,Javier Mascherano,ar ARG,"DF,MF",27,18,0.0,0.0,2010-2011,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"1,542",17.1,6.0,0.0,42,5.0,1136,Barcelona
+,Carles Puyol,es ESP,DF,17,17,0.0,1.0,2010-2011,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"1,381",15.3,3.0,0.0,42,1.0,1050,Barcelona
+,Seydou Keita,ml MLI,MF,35,15,2.0,3.0,2010-2011,/en/players/500c4e9b/Seydou-Keita,500c4e9b,Barcelona,"1,558",17.3,2.0,0.0,42,12.0,1121,Barcelona
+,Adriano,br BRA,"DF,MF",14,11,1.0,0.0,2010-2011,/en/players/9d8586c4/Adriano,9d8586c4,Barcelona,937,10.4,3.0,0.0,42,2.0,1137,Barcelona
+,Bojan Krkić,es ESP,"FW,MF",27,9,2.0,6.0,2010-2011,/en/players/9fa0a0b8/Bojan-Krkic,9fa0a0b8,Barcelona,949,10.5,2.0,0.0,42,1.0,1112,Barcelona
+,Gabriel Milito,ar ARG,DF,10,8,0.0,0.0,2010-2011,/en/players/095009cc/Gabriel-Milito,095009cc,Barcelona,645,7.2,2.0,0.0,42,5.0,1110,Barcelona
+,Ibrahim Afellay,nl NED,"FW,MF",16,7,0.0,1.0,2010-2011,/en/players/9a8c6673/Ibrahim-Afellay,9a8c6673,Barcelona,669,7.4,1.0,0.0,42,11.0,1138,Barcelona
+,Thiago Alcántara,es ESP,MF,12,6,0.0,2.0,2010-2011,/en/players/77e84962/Thiago-Alcantara,77e84962,Barcelona,666,7.4,1.0,0.0,42,1.0,1129,Barcelona
+,José Manuel Pinto,es ESP,GK,6,6,0.0,0.0,2010-2011,/en/players/4a3cd9b7/Jose-Manuel-Pinto,4a3cd9b7,Barcelona,540,6.0,0.0,0.0,42,1.0,636,Barcelona
+,Andreu Fontàs,es ESP,DF,6,5,0.0,0.0,2010-2011,/en/players/0f138d5a/Andreu-Fontas,0f138d5a,Barcelona,459,5.1,0.0,0.0,42,1.0,759,Barcelona
+,Jeffrén Suárez,ve VEN,"FW,MF",8,4,1.0,1.0,2010-2011,/en/players/01e9c0a6/Jeffren-Suarez,01e9c0a6,Barcelona,305,3.4,0.0,0.0,42,53.0,1127,Barcelona
+,Marc Bartra,es ESP,DF,2,2,,1.0,2010-2011,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,180,2.0,0.0,0.0,42,1.0,1135,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",1,1,,0.0,2010-2011,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,90,1.0,0.0,0.0,42,1.0,1139,Barcelona
+,Jonathan dos Santos,mx MEX,MF,2,1,0.0,0.0,2010-2011,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Barcelona,88,1.0,0.0,0.0,42,20.0,1134,Barcelona
+,Martín Montoya,es ESP,DF,2,1,0.0,0.0,2010-2011,/en/players/5cec2487/Martin-Montoya,5cec2487,Barcelona,17,0.2,0.0,0.0,42,1.0,984,Barcelona
+,Nolito,es ESP,"FW,MF",2,0,0.0,0.0,2010-2011,/en/players/b2d0ec1b/Nolito,b2d0ec1b,Barcelona,16,0.2,0.0,0.0,42,1.0,761,Barcelona
+,Oriol Romeu,es ESP,MF,1,0,0.0,0.0,2010-2011,/en/players/4b511457/Oriol-Romeu,4b511457,Barcelona,10,0.1,0.0,0.0,42,1.0,951,Barcelona
+,﻿Lionel Messi,ar ARG,"FW,MF",37,36,16.0,50.0,2011-2012,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"3,270",36.3,6.0,0.0,42,5.0,1094,Barcelona
+,Víctor Valdés,es ESP,GK,35,35,0.0,0.0,2011-2012,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"3,150",35.0,4.0,0.0,42,1.0,1061,Barcelona
+,Javier Mascherano,ar ARG,"DF,MF",31,30,0.0,0.0,2011-2012,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"2,737",30.4,5.0,0.0,42,5.0,1136,Barcelona
+,Dani Alves,br BRA,"DF,MF",33,29,9.0,2.0,2011-2012,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,674",29.7,8.0,2.0,42,2.0,1119,Barcelona
+,Sergio Busquets,es ESP,MF,31,28,1.0,1.0,2011-2012,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,434",27.0,9.0,0.0,42,1.0,1122,Barcelona
+,Xavi,es ESP,MF,31,26,6.0,10.0,2011-2012,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,159",24.0,2.0,0.0,42,1.0,1052,Barcelona
+,Cesc Fàbregas,es ESP,"FW,MF",28,23,7.0,9.0,2011-2012,/en/players/33508c78/Cesc-Fabregas,33508c78,Barcelona,"1,931",21.5,6.0,0.0,42,1.0,1140,Barcelona
+,Carles Puyol,es ESP,DF,26,23,0.0,3.0,2011-2012,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,"1,912",21.2,3.0,0.0,42,1.0,1050,Barcelona
+,Andrés Iniesta,es ESP,MF,27,21,9.0,2.0,2011-2012,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,853",20.6,3.0,0.0,42,1.0,1065,Barcelona
+,Thiago Alcántara,es ESP,MF,27,20,2.0,2.0,2011-2012,/en/players/77e84962/Thiago-Alcantara,77e84962,Barcelona,"1,825",20.3,3.0,1.0,42,1.0,1129,Barcelona
+,Éric Abidal,fr FRA,DF,22,20,1.0,0.0,2011-2012,/en/players/016828bd/Eric-Abidal,016828bd,Barcelona,"1,762",19.6,0.0,0.0,42,4.0,1108,Barcelona
+,Adriano,br BRA,"DF,MF",26,20,4.0,1.0,2011-2012,/en/players/9d8586c4/Adriano,9d8586c4,Barcelona,"1,722",19.1,3.0,0.0,42,2.0,1137,Barcelona
+,Alexis Sánchez,cl CHI,"FW,MF",25,20,4.0,12.0,2011-2012,/en/players/2c0f8e9e/Alexis-Sanchez,2c0f8e9e,Barcelona,"1,666",18.5,4.0,0.0,42,31.0,1141,Barcelona
+,Pedro,es ESP,"FW,MF",29,20,3.0,5.0,2011-2012,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,"1,621",18.0,4.0,0.0,42,1.0,1115,Barcelona
+,Gerard Piqué,es ESP,DF,22,17,0.0,2.0,2011-2012,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"1,473",16.4,7.0,1.0,42,1.0,1120,Barcelona
+,Seydou Keita,ml MLI,MF,26,14,2.0,3.0,2011-2012,/en/players/500c4e9b/Seydou-Keita,500c4e9b,Barcelona,"1,348",15.0,4.0,0.0,42,12.0,1121,Barcelona
+,Isaac Cuenca,es ESP,"FW,MF",16,11,3.0,2.0,2011-2012,/en/players/24e9421b/Isaac-Cuenca,24e9421b,Barcelona,"1,076",12.0,1.0,0.0,42,1.0,494,Barcelona
+,David Villa,es ESP,"FW,MF",15,8,1.0,5.0,2011-2012,/en/players/ade08a67/David-Villa,de08a67,Barcelona,899,10.0,1.0,0.0,42,1.0,898,Barcelona
+,Maxwell,br BRA,DF,7,4,0.0,0.0,2011-2012,/en/players/6f08cece/Maxwell,6f08cece,Barcelona,426,4.7,1.0,0.0,42,2.0,1131,Barcelona
+,Cristian Tello,es ESP,"FW,MF",15,3,0.0,3.0,2011-2012,/en/players/72a99e38/Cristian-Tello,72a99e38,Barcelona,456,5.1,1.0,0.0,42,1.0,1142,Barcelona
+,Martín Montoya,es ESP,DF,7,3,1.0,0.0,2011-2012,/en/players/5cec2487/Martin-Montoya,5cec2487,Barcelona,375,4.2,1.0,0.0,42,1.0,984,Barcelona
+,José Manuel Pinto,es ESP,GK,3,3,0.0,0.0,2011-2012,/en/players/4a3cd9b7/Jose-Manuel-Pinto,4a3cd9b7,Barcelona,270,3.0,0.0,0.0,42,1.0,636,Barcelona
+,Jonathan dos Santos,mx MEX,MF,3,1,0.0,0.0,2011-2012,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Barcelona,119,1.3,0.0,0.0,42,20.0,1134,Barcelona
+,Ibrahim Afellay,nl NED,"FW,MF",4,1,0.0,0.0,2011-2012,/en/players/9a8c6673/Ibrahim-Afellay,9a8c6673,Barcelona,116,1.3,0.0,0.0,42,11.0,1138,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",1,1,0.0,0.0,2011-2012,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,90,1.0,1.0,0.0,42,1.0,1139,Barcelona
+,Andreu Fontàs,es ESP,DF,1,1,0.0,0.0,2011-2012,/en/players/0f138d5a/Andreu-Fontas,0f138d5a,Barcelona,78,0.9,0.0,0.0,42,1.0,759,Barcelona
+,Gerard Deulofeu,es ESP,"FW,MF",1,0,0.0,0.0,2011-2012,/en/players/39583cfd/Gerard-Deulofeu,39583cfd,Barcelona,29,0.3,0.0,0.0,42,1.0,1143,Barcelona
+,Marc Bartra,es ESP,DF,1,0,0.0,0.0,2011-2012,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,24,0.3,0.0,0.0,42,1.0,1135,Barcelona
+,Marc Muniesa,es ESP,"DF,MF",1,0,0.0,0.0,2011-2012,/en/players/4db76f57/Marc-Muniesa,4db76f57,Barcelona,8,0.1,0.0,0.0,42,1.0,1126,Barcelona
+,﻿Víctor Valdés,es ESP,GK,31,31,0.0,0.0,2012-2013,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"2,790",31.0,0.0,0.0,42,1.0,1061,Barcelona
+,Cesc Fàbregas,es ESP,"FW,MF",32,30,12.0,11.0,2012-2013,/en/players/33508c78/Cesc-Fabregas,33508c78,Barcelona,"2,296",25.5,7.0,0.0,42,1.0,1140,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",32,28,11.0,46.0,2012-2013,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,650",29.4,1.0,0.0,42,5.0,1094,Barcelona
+,Jordi Alba,es ESP,"DF,MF",29,27,5.0,2.0,2012-2013,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,497",27.7,3.0,0.0,42,1.0,928,Barcelona
+,Gerard Piqué,es ESP,DF,28,27,0.0,2.0,2012-2013,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,399",26.7,5.0,1.0,42,1.0,1120,Barcelona
+,Dani Alves,br BRA,"DF,MF",30,26,6.0,0.0,2012-2013,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,265",25.2,2.0,0.0,42,2.0,1119,Barcelona
+,Sergio Busquets,es ESP,MF,31,25,2.0,1.0,2012-2013,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,250",25.0,9.0,0.0,42,1.0,1122,Barcelona
+,Xavi,es ESP,MF,30,24,7.0,5.0,2012-2013,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,192",24.4,0.0,0.0,42,1.0,1052,Barcelona
+,Andrés Iniesta,es ESP,MF,31,24,15.0,3.0,2012-2013,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"2,091",23.2,4.0,0.0,42,1.0,1065,Barcelona
+,Pedro,es ESP,"FW,MF",28,23,7.0,7.0,2012-2013,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,"2,066",23.0,3.0,0.0,42,1.0,1115,Barcelona
+,Javier Mascherano,ar ARG,"DF,MF",25,21,0.0,0.0,2012-2013,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"1,934",21.5,3.0,1.0,42,5.0,1136,Barcelona
+,Alexis Sánchez,cl CHI,"FW,MF",29,18,9.0,8.0,2012-2013,/en/players/2c0f8e9e/Alexis-Sanchez,2c0f8e9e,Barcelona,"1,706",19.0,4.0,0.0,42,31.0,1141,Barcelona
+,Adriano,br BRA,"DF,MF",23,18,1.0,5.0,2012-2013,/en/players/9d8586c4/Adriano,9d8586c4,Barcelona,"1,428",15.9,3.0,0.0,42,2.0,1137,Barcelona
+,Alex Song,cm CMR,"DF,MF",20,17,0.0,1.0,2012-2013,/en/players/1c32281d/Alex-Song,1c32281d,Barcelona,"1,539",17.1,3.0,0.0,42,36.0,1144,Barcelona
+,David Villa,es ESP,"FW,MF",28,17,5.0,10.0,2012-2013,/en/players/ade08a67/David-Villa,de08a67,Barcelona,"1,414",15.7,1.0,0.0,42,1.0,898,Barcelona
+,Thiago Alcántara,es ESP,MF,27,15,4.0,2.0,2012-2013,/en/players/77e84962/Thiago-Alcantara,77e84962,Barcelona,"1,415",15.7,4.0,0.0,42,1.0,1129,Barcelona
+,Cristian Tello,es ESP,"FW,MF",22,12,4.0,7.0,2012-2013,/en/players/72a99e38/Cristian-Tello,72a99e38,Barcelona,"1,178",13.1,0.0,0.0,42,1.0,1142,Barcelona
+,Carles Puyol,es ESP,DF,13,12,0.0,1.0,2012-2013,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,963,10.7,3.0,0.0,42,1.0,1050,Barcelona
+,Martín Montoya,es ESP,DF,15,11,3.0,1.0,2012-2013,/en/players/5cec2487/Martin-Montoya,5cec2487,Barcelona,"1,154",12.8,0.0,0.0,42,1.0,984,Barcelona
+,José Manuel Pinto,es ESP,GK,7,7,0.0,0.0,2012-2013,/en/players/4a3cd9b7/Jose-Manuel-Pinto,4a3cd9b7,Barcelona,630,7.0,1.0,0.0,42,1.0,636,Barcelona
+,Marc Bartra,es ESP,DF,8,3,0.0,0.0,2012-2013,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,400,4.4,1.0,0.0,42,1.0,1135,Barcelona
+,Éric Abidal,fr FRA,DF,5,2,0.0,0.0,2012-2013,/en/players/016828bd/Eric-Abidal,016828bd,Barcelona,187,2.1,0.0,0.0,42,4.0,1108,Barcelona
+,Jonathan dos Santos,mx MEX,MF,3,0,0.0,0.0,2012-2013,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Barcelona,63,0.7,0.0,0.0,42,20.0,1134,Barcelona
+,Gerard Deulofeu,es ESP,"FW,MF",1,0,0.0,0.0,2012-2013,/en/players/39583cfd/Gerard-Deulofeu,39583cfd,Barcelona,27,0.3,0.0,0.0,42,1.0,1143,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",1,0,0.0,0.0,2012-2013,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,11,0.1,0.0,0.0,42,1.0,1139,Barcelona
+,﻿Sergio Busquets,es ESP,MF,32,30,1.0,1.0,2013-2014,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,649",29.4,11.0,0.0,42,1.0,1122,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",31,29,11.0,28.0,2013-2014,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,501",27.8,2.0,0.0,42,5.0,1094,Barcelona
+,Cesc Fàbregas,es ESP,"FW,MF",36,28,14.0,8.0,2013-2014,/en/players/33508c78/Cesc-Fabregas,33508c78,Barcelona,"2,460",27.3,4.0,0.0,42,1.0,1140,Barcelona
+,Pedro,es ESP,"FW,MF",37,28,8.0,15.0,2013-2014,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,"2,349",26.1,3.0,0.0,42,1.0,1115,Barcelona
+,Andrés Iniesta,es ESP,MF,35,27,7.0,3.0,2013-2014,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"2,482",27.6,0.0,0.0,42,1.0,1065,Barcelona
+,Alexis Sánchez,cl CHI,"FW,MF",34,27,10.0,19.0,2013-2014,/en/players/2c0f8e9e/Alexis-Sanchez,2c0f8e9e,Barcelona,"2,369",26.3,3.0,0.0,42,31.0,1141,Barcelona
+,Javier Mascherano,ar ARG,"DF,MF",28,27,0.0,0.0,2013-2014,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"2,358",26.2,9.0,0.0,42,5.0,1136,Barcelona
+,Dani Alves,br BRA,"DF,MF",27,26,3.0,2.0,2013-2014,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,385",26.5,6.0,0.0,42,2.0,1119,Barcelona
+,Gerard Piqué,es ESP,DF,26,26,0.0,2.0,2013-2014,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,308",25.6,5.0,0.0,42,1.0,1120,Barcelona
+,Víctor Valdés,es ESP,GK,26,26,0.0,0.0,2013-2014,/en/players/e029e404/Victor-Valdes,029e404,Barcelona,"2,272",25.2,2.0,0.0,42,1.0,1061,Barcelona
+,Xavi,es ESP,MF,30,26,2.0,3.0,2013-2014,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"2,233",24.8,0.0,0.0,42,1.0,1052,Barcelona
+,Adriano,br BRA,"DF,MF",26,24,1.0,3.0,2013-2014,/en/players/9d8586c4/Adriano,9d8586c4,Barcelona,"2,071",23.0,8.0,0.0,42,2.0,1137,Barcelona
+,Neymar,br BRA,"FW,MF",26,19,8.0,9.0,2013-2014,/en/players/69384e5d/Neymar,69384e5d,Barcelona,"1,734",19.3,6.0,0.0,42,2.0,1145,Barcelona
+,Marc Bartra,es ESP,DF,20,17,1.0,1.0,2013-2014,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,"1,592",17.7,3.0,0.0,42,1.0,1135,Barcelona
+,Jordi Alba,es ESP,"DF,MF",15,14,2.0,0.0,2013-2014,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"1,240",13.8,6.0,1.0,42,1.0,928,Barcelona
+,José Manuel Pinto,es ESP,GK,13,12,0.0,0.0,2013-2014,/en/players/4a3cd9b7/Jose-Manuel-Pinto,4a3cd9b7,Barcelona,"1,148",12.8,0.0,0.0,42,1.0,636,Barcelona
+,Alex Song,cm CMR,"DF,MF",19,12,0.0,0.0,2013-2014,/en/players/1c32281d/Alex-Song,1c32281d,Barcelona,"1,134",12.6,2.0,0.0,42,36.0,1144,Barcelona
+,Martín Montoya,es ESP,DF,13,12,1.0,0.0,2013-2014,/en/players/5cec2487/Martin-Montoya,5cec2487,Barcelona,"1,123",12.5,0.0,0.0,42,1.0,984,Barcelona
+,Carles Puyol,es ESP,DF,5,5,0.0,1.0,2013-2014,/en/players/7c0bda9b/Carles-Puyol,7c0bda9b,Barcelona,426,4.7,0.0,0.0,42,1.0,1050,Barcelona
+,Cristian Tello,es ESP,"FW,MF",22,2,2.0,1.0,2013-2014,/en/players/72a99e38/Cristian-Tello,72a99e38,Barcelona,431,4.8,0.0,0.0,42,1.0,1142,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",17,1,0.0,0.0,2013-2014,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,299,3.3,0.0,0.0,42,1.0,1139,Barcelona
+,Jonathan dos Santos,mx MEX,MF,3,0,0.0,0.0,2013-2014,/en/players/91872dec/Jonathan-dos-Santos,91872dec,Barcelona,22,0.2,0.0,0.0,42,20.0,1134,Barcelona
+,Adama Traoré,es ESP,"FW,MF",1,0,0.0,0.0,2013-2014,/en/players/9a28eba4/Adama-Traore,9a28eba4,Barcelona,10,0.1,0.0,0.0,42,1.0,1146,Barcelona
+,Jean Marie Dongou,cm CMR,FW,1,0,0.0,0.0,2013-2014,/en/players/fd0bb7d2/Jean-Marie-Dongou,fd0bb7d2,Barcelona,7,0.1,0.0,0.0,42,36.0,1147,Barcelona
+,Ibrahim Afellay,nl NED,"FW,MF",1,0,0.0,0.0,2013-2014,/en/players/9a8c6673/Ibrahim-Afellay,9a8c6673,Barcelona,4,0.0,0.0,0.0,42,11.0,1138,Barcelona
+,﻿Lionel Messi,ar ARG,"FW,MF",38,37,18.0,43.0,2014-2015,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"3,375",37.5,4.0,0.0,42,5.0,1094,Barcelona
+,Claudio Bravo,cl CHI,GK,37,37,0.0,0.0,2014-2015,/en/players/10072610/Claudio-Bravo,10072610,Barcelona,"3,330",37.0,1.0,0.0,42,31.0,240,Barcelona
+,Neymar,br BRA,"FW,MF",33,29,7.0,22.0,2014-2015,/en/players/69384e5d/Neymar,69384e5d,Barcelona,"2,562",28.5,6.0,0.0,42,2.0,1145,Barcelona
+,Dani Alves,br BRA,"DF,MF",30,29,6.0,0.0,2014-2015,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,517",28.0,6.0,1.0,42,2.0,1119,Barcelona
+,Sergio Busquets,es ESP,MF,33,29,2.0,0.0,2014-2015,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,475",27.5,7.0,0.0,42,1.0,1122,Barcelona
+,Jordi Alba,es ESP,"DF,MF",27,27,3.0,1.0,2014-2015,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,329",25.9,7.0,1.0,42,1.0,928,Barcelona
+,Gerard Piqué,es ESP,DF,27,26,1.0,5.0,2014-2015,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,385",26.5,6.0,0.0,42,1.0,1120,Barcelona
+,Javier Mascherano,ar ARG,"DF,MF",28,26,0.0,0.0,2014-2015,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"2,205",24.5,8.0,1.0,42,5.0,1136,Barcelona
+,Luis Suárez,uy URU,FW,27,25,13.0,16.0,2014-2015,/en/players/a6154613/Luis-Suarez,6154613,Barcelona,"2,159",24.0,4.0,0.0,42,8.0,1148,Barcelona
+,Jérémy Mathieu,fr FRA,DF,28,23,0.0,2.0,2014-2015,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Barcelona,"2,106",23.4,5.0,0.0,42,4.0,927,Barcelona
+,Ivan Rakitić,hr CRO,MF,32,23,8.0,5.0,2014-2015,/en/players/89f951b5/Ivan-Rakitic,89f951b5,Barcelona,"2,030",22.6,1.0,0.0,42,16.0,1149,Barcelona
+,Xavi,es ESP,MF,31,19,9.0,2.0,2014-2015,/en/players/c1b4188c/Xavi,c1b4188c,Barcelona,"1,785",19.8,1.0,0.0,42,1.0,1052,Barcelona
+,Andrés Iniesta,es ESP,MF,24,19,1.0,0.0,2014-2015,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,574",17.5,3.0,0.0,42,1.0,1065,Barcelona
+,Pedro,es ESP,"FW,MF",35,15,6.0,6.0,2014-2015,/en/players/3ca7254a/Pedro,3ca7254a,Barcelona,"1,555",17.3,3.0,0.0,42,1.0,1115,Barcelona
+,Rafinha,br BRA,MF,24,13,0.0,1.0,2014-2015,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Barcelona,"1,157",12.9,2.0,0.0,42,2.0,355,Barcelona
+,Marc Bartra,es ESP,DF,14,11,3.0,1.0,2014-2015,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,"1,036",11.5,1.0,0.0,42,1.0,1135,Barcelona
+,Adriano,br BRA,"DF,MF",16,10,1.0,0.0,2014-2015,/en/players/9d8586c4/Adriano,9d8586c4,Barcelona,962,10.7,2.0,0.0,42,2.0,1137,Barcelona
+,Munir El Haddadi,ma MAR,"FW,MF",10,7,1.0,1.0,2014-2015,/en/players/8696bc90/Munir-El-Haddadi,8696bc90,Barcelona,457,5.1,0.0,0.0,42,26.0,985,Barcelona
+,Martín Montoya,es ESP,DF,8,6,0.0,0.0,2014-2015,/en/players/5cec2487/Martin-Montoya,5cec2487,Barcelona,591,6.6,0.0,0.0,42,1.0,984,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",12,4,0.0,0.0,2014-2015,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,517,5.7,0.0,0.0,42,1.0,1139,Barcelona
+,Douglas,br BRA,DF,2,1,0.0,0.0,2014-2015,/en/players/ee0da7af/Douglas,0da7af,Barcelona,100,1.1,1.0,0.0,42,2.0,1150,Barcelona
+,Jordi Masip,es ESP,GK,1,1,0.0,0.0,2014-2015,/en/players/8fae77ea/Jordi-Masip,8fae77ea,Barcelona,90,1.0,0.0,0.0,42,1.0,1151,Barcelona
+,Thomas Vermaelen,be BEL,DF,1,1,0.0,0.0,2014-2015,/en/players/d0d79694/Thomas-Vermaelen,d0d79694,Barcelona,61,0.7,0.0,0.0,42,27.0,1152,Barcelona
+,Sandro Ramírez,es ESP,FW,7,0,0.0,2.0,2014-2015,/en/players/833fb62e/Sandro-Ramirez,833fb62e,Barcelona,158,1.8,0.0,0.0,42,1.0,328,Barcelona
+,Marc-André ter Stegen,de GER,GK,0,0,,,2014-2015,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,,,,,42,13.0,1155,Barcelona
+,﻿Luis Suárez,uy URU,FW,35,35,17.0,40.0,2015-2016,/en/players/a6154613/Luis-Suarez,6154613,Barcelona,"3,150",35.0,7.0,0.0,42,8.0,1148,Barcelona
+,Neymar,br BRA,FW,34,34,10.0,24.0,2015-2016,/en/players/69384e5d/Neymar,69384e5d,Barcelona,"3,056",34.0,6.0,0.0,42,2.0,1145,Barcelona
+,Sergio Busquets,es ESP,MF,35,34,4.0,0.0,2015-2016,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,899",32.2,6.0,0.0,42,1.0,1122,Barcelona
+,Claudio Bravo,cl CHI,GK,32,32,0.0,0.0,2015-2016,/en/players/10072610/Claudio-Bravo,10072610,Barcelona,"2,877",32.0,0.0,0.0,42,31.0,240,Barcelona
+,Lionel Messi,ar ARG,FW,33,31,14.0,26.0,2015-2016,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,729",30.3,3.0,0.0,42,5.0,1094,Barcelona
+,Javier Mascherano,ar ARG,DF,32,31,0.0,0.0,2015-2016,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"2,691",29.9,9.0,1.0,42,5.0,1136,Barcelona
+,Gerard Piqué,es ESP,DF,30,30,1.0,2.0,2015-2016,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,587",28.7,12.0,0.0,42,1.0,1120,Barcelona
+,Ivan Rakitić,hr CRO,MF,36,30,2.0,7.0,2015-2016,/en/players/89f951b5/Ivan-Rakitic,89f951b5,Barcelona,"2,569",28.5,3.0,0.0,42,16.0,1149,Barcelona
+,Jordi Alba,es ESP,DF,31,29,6.0,0.0,2015-2016,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,589",28.8,2.0,0.0,42,1.0,928,Barcelona
+,Andrés Iniesta,es ESP,MF,28,25,2.0,1.0,2015-2016,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"2,245",24.9,2.0,0.0,42,1.0,1065,Barcelona
+,Dani Alves,br BRA,DF,29,24,3.0,0.0,2015-2016,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"2,145",23.8,6.0,0.0,42,2.0,1119,Barcelona
+,Sergi Roberto,es ESP,"MF,DF",31,21,4.0,0.0,2015-2016,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,"1,917",21.3,1.0,0.0,42,1.0,1139,Barcelona
+,Jérémy Mathieu,fr FRA,DF,21,12,2.0,0.0,2015-2016,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Barcelona,"1,264",14.0,2.0,0.0,42,4.0,927,Barcelona
+,Arda Turan,tr TUR,MF,18,9,3.0,2.0,2015-2016,/en/players/017ab4d4/Arda-Turan,017ab4d4,Barcelona,817,9.1,5.0,0.0,42,15.0,1153,Barcelona
+,Munir El Haddadi,ma MAR,"FW,MF",15,8,2.0,3.0,2015-2016,/en/players/8696bc90/Munir-El-Haddadi,8696bc90,Barcelona,827,9.2,0.0,0.0,42,26.0,985,Barcelona
+,Aleix Vidal,es ESP,DF,9,6,1.0,0.0,2015-2016,/en/players/04965583/Aleix-Vidal,04965583,Barcelona,544,6.0,1.0,0.0,42,1.0,1154,Barcelona
+,Marc-André ter Stegen,de GER,GK,7,6,0.0,0.0,2015-2016,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,543,6.0,0.0,0.0,42,13.0,1155,Barcelona
+,Thomas Vermaelen,be BEL,DF,10,6,0.0,1.0,2015-2016,/en/players/d0d79694/Thomas-Vermaelen,d0d79694,Barcelona,508,5.6,2.0,0.0,42,27.0,1152,Barcelona
+,Marc Bartra,es ESP,DF,13,4,1.0,2.0,2015-2016,/en/players/b742cc0d/Marc-Bartra,b742cc0d,Barcelona,503,5.6,0.0,0.0,42,1.0,1135,Barcelona
+,Adriano,br BRA,DF,8,4,1.0,0.0,2015-2016,/en/players/9d8586c4/Adriano,9d8586c4,Barcelona,434,4.8,0.0,0.0,42,2.0,1137,Barcelona
+,Sandro Ramírez,es ESP,FW,10,4,1.0,0.0,2015-2016,/en/players/833fb62e/Sandro-Ramirez,833fb62e,Barcelona,349,3.9,0.0,0.0,42,1.0,328,Barcelona
+,Rafinha,br BRA,"FW,MF",6,3,0.0,1.0,2015-2016,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Barcelona,281,3.1,0.0,0.0,42,2.0,355,Barcelona
+,Gerard Gumbau,es ESP,MF,3,0,0.0,0.0,2015-2016,/en/players/ac454a4f/Gerard-Gumbau,c454a4f,Barcelona,45,0.5,0.0,0.0,42,1.0,1156,Barcelona
+,Sergi Samper,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/6a7586f4/Sergi-Samper,6a7586f4,Barcelona,30,0.3,0.0,0.0,42,1.0,1157,Barcelona
+,Douglas,br BRA,DF,1,0,0.0,0.0,2015-2016,/en/players/ee0da7af/Douglas,0da7af,Barcelona,13,0.1,0.0,0.0,42,2.0,1150,Barcelona
+,Juan Cámara,es ESP,MF,0,0,,,2015-2016,/en/players/f9656e16/Juan-Camara,f9656e16,Barcelona,,,,,42,1.0,1158,Barcelona
+,Jordi Masip,es ESP,GK,0,0,,,2015-2016,/en/players/8fae77ea/Jordi-Masip,8fae77ea,Barcelona,,,,,42,1.0,1151,Barcelona
+,﻿Marc-André ter Stegen,de GER,GK,36,36,0.0,0.0,2016-2017,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,"3,240",36.0,1.0,0.0,42,13.0,1155,Barcelona
+,Luis Suárez,uy URU,FW,35,34,12.0,28.0,2016-2017,/en/players/a6154613/Luis-Suarez,6154613,Barcelona,"2,857",31.7,8.0,0.0,42,8.0,1148,Barcelona
+,Sergio Busquets,es ESP,MF,33,33,3.0,0.0,2016-2017,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,687",29.9,9.0,0.0,42,1.0,1122,Barcelona
+,Lionel Messi,ar ARG,FW,34,32,9.0,37.0,2016-2017,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,830",31.4,6.0,0.0,42,5.0,1094,Barcelona
+,Neymar,br BRA,FW,30,30,10.0,13.0,2016-2017,/en/players/69384e5d/Neymar,69384e5d,Barcelona,"2,649",29.4,7.0,1.0,42,2.0,1145,Barcelona
+,Sergi Roberto,es ESP,DF,32,26,5.0,0.0,2016-2017,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,"2,383",26.5,5.0,0.0,42,1.0,1139,Barcelona
+,Ivan Rakitić,hr CRO,MF,32,26,6.0,8.0,2016-2017,/en/players/89f951b5/Ivan-Rakitic,89f951b5,Barcelona,"2,341",26.0,5.0,0.0,42,16.0,1149,Barcelona
+,Gerard Piqué,es ESP,DF,25,25,0.0,2.0,2016-2017,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,191",24.3,6.0,0.0,42,1.0,1120,Barcelona
+,Samuel Umtiti,fr FRA,DF,25,24,0.0,1.0,2016-2017,/en/players/3eed9821/Samuel-Umtiti,3eed9821,Barcelona,"2,129",23.7,4.0,0.0,42,4.0,1159,Barcelona
+,Jordi Alba,es ESP,DF,26,21,6.0,1.0,2016-2017,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"1,968",21.9,4.0,0.0,42,1.0,928,Barcelona
+,Javier Mascherano,ar ARG,DF,25,20,3.0,1.0,2016-2017,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,"1,921",21.3,6.0,0.0,42,5.0,1136,Barcelona
+,André Gomes,pt POR,MF,30,17,1.0,3.0,2016-2017,/en/players/1961b2aa/Andre-Gomes,1961b2aa,Barcelona,"1,591",17.7,3.0,0.0,42,3.0,959,Barcelona
+,Arda Turan,tr TUR,"FW,MF",18,14,3.0,3.0,2016-2017,/en/players/017ab4d4/Arda-Turan,017ab4d4,Barcelona,"1,244",13.8,1.0,0.0,42,15.0,1153,Barcelona
+,Lucas Digne,fr FRA,DF,17,14,0.0,0.0,2016-2017,/en/players/1b84dbe1/Lucas-Digne,1b84dbe1,Barcelona,"1,171",13.0,3.0,0.0,42,4.0,1160,Barcelona
+,Rafinha,br BRA,MF,18,14,2.0,6.0,2016-2017,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Barcelona,"1,073",11.9,1.0,0.0,42,2.0,355,Barcelona
+,Andrés Iniesta,es ESP,MF,23,13,3.0,0.0,2016-2017,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,336",14.8,2.0,0.0,42,1.0,1065,Barcelona
+,Denis Suárez,es ESP,MF,26,12,3.0,1.0,2016-2017,/en/players/12c50af5/Denis-Suarez,12c50af5,Barcelona,"1,186",13.2,1.0,0.0,42,1.0,815,Barcelona
+,Jérémy Mathieu,fr FRA,DF,13,12,0.0,1.0,2016-2017,/en/players/5b887c7a/Jeremy-Mathieu,5b887c7a,Barcelona,"1,039",11.5,0.0,0.0,42,4.0,927,Barcelona
+,Paco Alcácer,es ESP,FW,20,6,3.0,6.0,2016-2017,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Barcelona,858,9.5,1.0,0.0,42,1.0,944,Barcelona
+,Aleix Vidal,es ESP,DF,6,5,2.0,2.0,2016-2017,/en/players/04965583/Aleix-Vidal,04965583,Barcelona,476,5.3,0.0,0.0,42,1.0,1154,Barcelona
+,Marlon,br BRA,DF,2,2,0.0,0.0,2016-2017,/en/players/cdf65d12/Marlon,cdf65d12,Barcelona,180,2.0,0.0,0.0,42,2.0,1161,Barcelona
+,Claudio Bravo,cl CHI,GK,1,1,0.0,0.0,2016-2017,/en/players/10072610/Claudio-Bravo,10072610,Barcelona,90,1.0,0.0,0.0,42,31.0,240,Barcelona
+,Jasper Cillessen,nl NED,GK,1,1,0.0,0.0,2016-2017,/en/players/04ac8285/Jasper-Cillessen,04ac8285,Barcelona,90,1.0,0.0,0.0,42,11.0,1010,Barcelona
+,Carles Aleñá,es ESP,MF,3,0,0.0,0.0,2016-2017,/en/players/6c811eb7/Carles-Alena,6c811eb7,Barcelona,43,0.5,1.0,0.0,42,1.0,1162,Barcelona
+,Munir El Haddadi,ma MAR,"FW,MF",1,0,0.0,0.0,2016-2017,/en/players/8696bc90/Munir-El-Haddadi,8696bc90,Barcelona,21,0.2,0.0,0.0,42,26.0,985,Barcelona
+,Àlex Carbonell,es ESP,MF,0,0,,,2016-2017,/en/players/aad99f27/Alex-Carbonell,d99f27,Barcelona,,,,,42,1.0,1163,Barcelona
+,Marc Cardona,es ESP,FW,0,0,,,2016-2017,/en/players/b92b456a/Marc-Cardona,b92b456a,Barcelona,,,,,42,1.0,1164,Barcelona
+,Douglas,br BRA,DF,0,0,,,2016-2017,/en/players/ee0da7af/Douglas,0da7af,Barcelona,,,,,42,2.0,1150,Barcelona
+,Wilfrid Kaptoum,cm CMR,MF,0,0,,,2016-2017,/en/players/d717630e/Wilfrid-Kaptoum,d717630e,Barcelona,,,,,42,36.0,1165,Barcelona
+,Borja López,es ESP,DF,0,0,,,2016-2017,/en/players/d02d04ea/Borja-Lopez,d02d04ea,Barcelona,,,,,42,1.0,501,Barcelona
+,Jordi Masip,es ESP,GK,0,0,,,2016-2017,/en/players/8fae77ea/Jordi-Masip,8fae77ea,Barcelona,,,,,42,1.0,1151,Barcelona
+,Nili,es ESP,DF,0,0,,,2016-2017,/en/players/6f1cce9a/Nili,6f1cce9a,Barcelona,,,,,42,1.0,1166,Barcelona
+,Sergi Samper,es ESP,MF,0,0,,,2016-2017,/en/players/6a7586f4/Sergi-Samper,6a7586f4,Barcelona,,,,,42,1.0,1157,Barcelona
+,﻿Marc-André ter Stegen,de GER,GK,37,37,0.0,0.0,2017-2018,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,"3,330",37.0,0.0,0.0,42,13.0,1155,Barcelona
+,Lionel Messi,ar ARG,FW,36,32,12.0,34.0,2017-2018,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"3,000",33.3,3.0,0.0,42,5.0,1094,Barcelona
+,Luis Suárez,uy URU,FW,33,32,12.0,25.0,2017-2018,/en/players/a6154613/Luis-Suarez,6154613,Barcelona,"2,899",32.2,9.0,0.0,42,8.0,1148,Barcelona
+,Ivan Rakitić,hr CRO,MF,35,31,5.0,1.0,2017-2018,/en/players/89f951b5/Ivan-Rakitic,89f951b5,Barcelona,"2,835",31.5,4.0,0.0,42,16.0,1149,Barcelona
+,Jordi Alba,es ESP,DF,33,30,8.0,2.0,2017-2018,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,744",30.5,7.0,0.0,42,1.0,928,Barcelona
+,Sergio Busquets,es ESP,MF,31,30,4.0,1.0,2017-2018,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,593",28.8,8.0,0.0,42,1.0,1122,Barcelona
+,Gerard Piqué,es ESP,DF,30,29,0.0,2.0,2017-2018,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,632",29.2,9.0,0.0,42,1.0,1120,Barcelona
+,Andrés Iniesta,es ESP,MF,30,25,2.0,1.0,2017-2018,/en/players/cfd65a29/Andres-Iniesta,cfd65a29,Barcelona,"1,824",20.3,1.0,0.0,42,1.0,1065,Barcelona
+,Sergi Roberto,es ESP,DF,30,24,7.0,1.0,2017-2018,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,"2,225",24.7,3.0,2.0,42,1.0,1139,Barcelona
+,Samuel Umtiti,fr FRA,DF,25,24,0.0,1.0,2017-2018,/en/players/3eed9821/Samuel-Umtiti,3eed9821,Barcelona,"2,189",24.3,7.0,0.0,42,4.0,1159,Barcelona
+,Paulinho,br BRA,MF,34,21,2.0,9.0,2017-2018,/en/players/bb7337cc/Paulinho,bb7337cc,Barcelona,"1,945",21.6,2.0,0.0,42,2.0,1167,Barcelona
+,Nélson Semedo,pt POR,DF,24,17,0.0,0.0,2017-2018,/en/players/d04b94db/Nelson-Semedo,d04b94db,Barcelona,"1,493",16.6,1.0,0.0,42,3.0,1168,Barcelona
+,Philippe Coutinho,br BRA,"MF,FW",18,16,5.0,8.0,2017-2018,/en/players/0ef89a37/Philippe-Coutinho,0ef89a37,Barcelona,"1,296",14.4,1.0,0.0,42,2.0,1169,Barcelona
+,Thomas Vermaelen,be BEL,DF,14,12,1.0,0.0,2017-2018,/en/players/d0d79694/Thomas-Vermaelen,d0d79694,Barcelona,"1,018",11.3,3.0,0.0,42,27.0,1152,Barcelona
+,Ousmane Dembélé,fr FRA,"MF,FW",17,12,6.0,3.0,2017-2018,/en/players/b19db005/Ousmane-Dembele,b19db005,Barcelona,925,10.3,2.0,0.0,42,4.0,1170,Barcelona
+,Lucas Digne,fr FRA,DF,12,8,2.0,0.0,2017-2018,/en/players/1b84dbe1/Lucas-Digne,1b84dbe1,Barcelona,704,7.8,2.0,0.0,42,4.0,1160,Barcelona
+,Paco Alcácer,es ESP,"MF,FW",17,8,3.0,4.0,2017-2018,/en/players/a7a9d95a/Paco-Alcacer,7a9d95a,Barcelona,695,7.7,0.0,0.0,42,1.0,944,Barcelona
+,André Gomes,pt POR,MF,16,6,0.0,0.0,2017-2018,/en/players/1961b2aa/Andre-Gomes,1961b2aa,Barcelona,635,7.1,1.0,0.0,42,3.0,959,Barcelona
+,Javier Mascherano,ar ARG,DF,7,6,0.0,0.0,2017-2018,/en/players/5070881b/Javier-Mascherano,5070881b,Barcelona,541,6.0,0.0,0.0,42,5.0,1136,Barcelona
+,Gerard Deulofeu,es ESP,"MF,FW",10,5,1.0,1.0,2017-2018,/en/players/39583cfd/Gerard-Deulofeu,39583cfd,Barcelona,503,5.6,1.0,0.0,42,1.0,1143,Barcelona
+,Denis Suárez,es ESP,"MF,FW",18,4,2.0,2.0,2017-2018,/en/players/12c50af5/Denis-Suarez,12c50af5,Barcelona,595,6.6,1.0,0.0,42,1.0,815,Barcelona
+,Aleix Vidal,es ESP,"MF,FW",15,4,1.0,1.0,2017-2018,/en/players/04965583/Aleix-Vidal,04965583,Barcelona,460,5.1,0.0,0.0,42,1.0,1154,Barcelona
+,Yerry Mina,co COL,DF,5,4,1.0,0.0,2017-2018,/en/players/6d5701f2/Yerry-Mina,6d5701f2,Barcelona,371,4.1,2.0,0.0,42,19.0,1171,Barcelona
+,Jasper Cillessen,nl NED,GK,1,1,0.0,0.0,2017-2018,/en/players/04ac8285/Jasper-Cillessen,04ac8285,Barcelona,90,1.0,0.0,0.0,42,11.0,1010,Barcelona
+,José Arnaiz,es ESP,MF,1,0,0.0,0.0,2017-2018,/en/players/46e07328/Jose-Arnaiz,46e07328,Barcelona,6,0.1,0.0,0.0,42,1.0,1172,Barcelona
+,Carles Aleñá,es ESP,MF,0,0,,,2017-2018,/en/players/6c811eb7/Carles-Alena,6c811eb7,Barcelona,,,,,42,1.0,1162,Barcelona
+,Oriol Busquets,es ESP,MF,0,0,,,2017-2018,/en/players/49712367/Oriol-Busquets,49712367,Barcelona,,,,,42,1.0,15408,Barcelona
+,David Costas,es ESP,DF,0,0,,,2017-2018,/en/players/545e2f01/David-Costas,545e2f01,Barcelona,,,,,42,1.0,763,Barcelona
+,Arda Turan,tr TUR,"FW,MF",0,0,,,2017-2018,/en/players/017ab4d4/Arda-Turan,017ab4d4,Barcelona,,,,,42,15.0,1153,Barcelona
+,﻿Gerard Piqué,es ESP,DF,35,35,2.0,4.0,2018-2019,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"3,150",35.0,6.0,0.0,42,1.0,1120,Barcelona
+,Marc-André ter Stegen,de GER,GK,35,35,0.0,0.0,2018-2019,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,"3,150",35.0,0.0,0.0,42,13.0,1155,Barcelona
+,Jordi Alba,es ESP,DF,36,32,8.0,2.0,2018-2019,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,991",33.2,6.0,0.0,42,1.0,928,Barcelona
+,Luis Suárez,uy URU,FW,33,31,6.0,21.0,2018-2019,/en/players/a6154613/Luis-Suarez,6154613,Barcelona,"2,827",31.4,5.0,0.0,42,8.0,1148,Barcelona
+,Sergio Busquets,es ESP,MF,35,30,1.0,0.0,2018-2019,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,715",30.2,10.0,0.0,42,1.0,1122,Barcelona
+,Lionel Messi,ar ARG,FW,34,29,13.0,36.0,2018-2019,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,713",30.1,3.0,0.0,42,5.0,1094,Barcelona
+,Ivan Rakitić,hr CRO,MF,34,29,5.0,3.0,2018-2019,/en/players/89f951b5/Ivan-Rakitic,89f951b5,Barcelona,"2,643",29.4,7.0,1.0,42,16.0,1149,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",29,23,7.0,0.0,2018-2019,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,"2,088",23.2,3.0,0.0,42,1.0,1139,Barcelona
+,Philippe Coutinho,br BRA,"FW,MF",34,22,2.0,5.0,2018-2019,/en/players/0ef89a37/Philippe-Coutinho,0ef89a37,Barcelona,"2,018",22.4,2.0,0.0,42,2.0,1169,Barcelona
+,Clément Lenglet,fr FRA,DF,23,22,0.0,1.0,2018-2019,/en/players/4f28a6ff/Clement-Lenglet,4f28a6ff,Barcelona,"1,933",21.5,8.0,1.0,42,4.0,1173,Barcelona
+,Arturo Vidal,cl CHI,MF,33,22,7.0,3.0,2018-2019,/en/players/67cdbc0e/Arturo-Vidal,67cdbc0e,Barcelona,"1,929",21.4,7.0,0.0,42,31.0,1174,Barcelona
+,Ousmane Dembélé,fr FRA,"FW,MF",29,20,5.0,8.0,2018-2019,/en/players/b19db005/Ousmane-Dembele,b19db005,Barcelona,"1,661",18.5,1.0,0.0,42,4.0,1170,Barcelona
+,Nélson Semedo,pt POR,DF,26,20,0.0,1.0,2018-2019,/en/players/d04b94db/Nelson-Semedo,d04b94db,Barcelona,"1,600",17.8,4.0,0.0,42,3.0,1168,Barcelona
+,Arthur Melo,br BRA,MF,27,19,1.0,0.0,2018-2019,/en/players/48b3dd60/Arthur-Melo,48b3dd60,Barcelona,"1,430",15.9,2.0,0.0,42,2.0,1175,Barcelona
+,Samuel Umtiti,fr FRA,DF,14,13,1.0,0.0,2018-2019,/en/players/3eed9821/Samuel-Umtiti,3eed9821,Barcelona,"1,189",13.2,4.0,0.0,42,4.0,1159,Barcelona
+,Thomas Vermaelen,be BEL,DF,9,7,0.0,0.0,2018-2019,/en/players/d0d79694/Thomas-Vermaelen,d0d79694,Barcelona,587,6.5,2.0,0.0,42,27.0,1152,Barcelona
+,Carles Aleñá,es ESP,MF,17,6,0.0,2.0,2018-2019,/en/players/6c811eb7/Carles-Alena,6c811eb7,Barcelona,637,7.1,2.0,0.0,42,1.0,1162,Barcelona
+,Malcom,br BRA,"FW,MF",15,6,2.0,1.0,2018-2019,/en/players/6853490f/Malcom,6853490f,Barcelona,614,6.8,0.0,0.0,42,2.0,1176,Barcelona
+,Jasper Cillessen,nl NED,GK,3,3,0.0,0.0,2018-2019,/en/players/04ac8285/Jasper-Cillessen,04ac8285,Barcelona,270,3.0,0.0,0.0,42,11.0,1010,Barcelona
+,Kevin-Prince Boateng,gh GHA,FW,3,3,0.0,0.0,2018-2019,/en/players/f4ec4fd0/Kevin-Prince-Boateng,f4ec4fd0,Barcelona,239,2.7,1.0,0.0,42,17.0,1177,Barcelona
+,Rafinha,br BRA,"FW,MF",5,3,0.0,0.0,2018-2019,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Barcelona,223,2.5,1.0,0.0,42,2.0,355,Barcelona
+,Moussa Wagué,sn SEN,"DF,FW",3,2,0.0,0.0,2018-2019,/en/players/808df563/Moussa-Wague,808df563,Barcelona,225,2.5,1.0,0.0,42,34.0,1178,Barcelona
+,Jean-Clair Todibo,fr FRA,DF,2,2,0.0,0.0,2018-2019,/en/players/88f130ed/Jean-Clair-Todibo,88f130ed,Barcelona,157,1.7,2.0,0.0,42,4.0,1179,Barcelona
+,Riqui Puig,es ESP,MF,2,2,0.0,0.0,2018-2019,/en/players/f090a37a/Riqui-Puig,f090a37a,Barcelona,156,1.7,0.0,0.0,42,1.0,1180,Barcelona
+,Munir El Haddadi,ma MAR,FW,7,1,1.0,1.0,2018-2019,/en/players/8696bc90/Munir-El-Haddadi,8696bc90,Barcelona,152,1.7,0.0,0.0,42,26.0,985,Barcelona
+,Jeison Murillo,co COL,DF,2,1,0.0,0.0,2018-2019,/en/players/b233e8e4/Jeison-Murillo,b233e8e4,Barcelona,113,1.3,0.0,0.0,42,19.0,816,Barcelona
+,Álex Collado,es ESP,FW,1,0,0.0,0.0,2018-2019,/en/players/85dace26/Alex-Collado,85dace26,Barcelona,85,0.9,0.0,0.0,42,1.0,1191,Barcelona
+,Abel Ruiz,es ESP,FW,1,0,0.0,0.0,2018-2019,/en/players/6cbf8d0d/Abel-Ruiz,6cbf8d0d,Barcelona,22,0.2,0.0,0.0,42,1.0,1181,Barcelona
+,Denis Suárez,es ESP,"MF,DF",2,0,0.0,0.0,2018-2019,/en/players/12c50af5/Denis-Suarez,12c50af5,Barcelona,19,0.2,0.0,0.0,42,1.0,815,Barcelona
+,Carles Pérez,es ESP,FW,1,0,0.0,0.0,2018-2019,/en/players/a8f21b9f/Carles-Perez,8f21b9f,Barcelona,18,0.2,0.0,0.0,42,1.0,1182,Barcelona
+,Juan Brandáriz,es ESP,DF,0,0,,,2018-2019,/en/players/2475cf9b/Juan-Brandariz,2475cf9b,Barcelona,,,,,42,1.0,1183,Barcelona
+,Jokin Ezkieta,es ESP,GK,0,0,,,2018-2019,/en/players/0f7dbaf6/Jokin-Ezkieta,0f7dbaf6,Barcelona,,,,,42,1.0,1184,Barcelona
+,Juan Miranda,es ESP,DF,0,0,,,2018-2019,/en/players/ead61f73/Juan-Miranda,d61f73,Barcelona,,,,,42,1.0,1185,Barcelona
+,Iñaki Peña ,es ESP,GK,0,0,,,2018-2019,/en/players/cc1c5035/Inaki-Pena,cc1c5035,Barcelona,,,,,42,1.0,1186,Barcelona
+,﻿Marc-André ter Stegen,de GER,GK,36,36,2.0,0.0,2019-2020,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,"3,240",36.0,1.0,0.0,42,13.0,1155,Barcelona
+,Gerard Piqué,es ESP,DF,35,35,0.0,1.0,2019-2020,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"3,092",34.4,15.0,0.0,42,1.0,1120,Barcelona
+,Lionel Messi,ar ARG,FW,33,32,21.0,25.0,2019-2020,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"2,880",32.0,4.0,0.0,42,5.0,1094,Barcelona
+,Antoine Griezmann,fr FRA,FW,35,31,4.0,9.0,2019-2020,/en/players/df69b544/Antoine-Griezmann,df69b544,Barcelona,"2,549",28.3,2.0,0.0,42,4.0,273,Barcelona
+,Sergio Busquets,es ESP,MF,33,29,2.0,2.0,2019-2020,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,483",27.6,9.0,0.0,42,1.0,1122,Barcelona
+,Clément Lenglet,fr FRA,DF,28,28,1.0,2.0,2019-2020,/en/players/4f28a6ff/Clement-Lenglet,4f28a6ff,Barcelona,"2,424",26.9,11.0,2.0,42,4.0,1173,Barcelona
+,Sergi Roberto,es ESP,"DF,MF",30,27,2.0,1.0,2019-2020,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,"2,339",26.0,8.0,0.0,42,1.0,1139,Barcelona
+,Jordi Alba,es ESP,DF,27,25,5.0,2.0,2019-2020,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,187",24.3,7.0,0.0,42,1.0,928,Barcelona
+,Frenkie de Jong,nl NED,MF,29,24,2.0,2.0,2019-2020,/en/players/1bacc518/Frenkie-de-Jong,1bacc518,Barcelona,"2,115",23.5,3.0,1.0,42,11.0,1187,Barcelona
+,Nélson Semedo,pt POR,DF,32,24,2.0,1.0,2019-2020,/en/players/d04b94db/Nelson-Semedo,d04b94db,Barcelona,"2,097",23.3,2.0,0.0,42,3.0,1168,Barcelona
+,Luis Suárez,uy URU,FW,28,22,8.0,16.0,2019-2020,/en/players/a6154613/Luis-Suarez,6154613,Barcelona,"1,998",22.2,4.0,0.0,42,8.0,1148,Barcelona
+,Arturo Vidal,cl CHI,MF,33,16,2.0,8.0,2019-2020,/en/players/67cdbc0e/Arturo-Vidal,67cdbc0e,Barcelona,"1,671",18.6,4.0,0.0,42,31.0,1174,Barcelona
+,Ivan Rakitić,hr CRO,MF,31,16,3.0,1.0,2019-2020,/en/players/89f951b5/Ivan-Rakitic,89f951b5,Barcelona,"1,589",17.7,5.0,0.0,42,16.0,1149,Barcelona
+,Arthur Melo,br BRA,MF,21,14,3.0,3.0,2019-2020,/en/players/48b3dd60/Arthur-Melo,48b3dd60,Barcelona,"1,182",13.1,1.0,0.0,42,2.0,1175,Barcelona
+,Ansu Fati,es ESP,"FW,MF",24,11,1.0,7.0,2019-2020,/en/players/0ba976e4/Ansu-Fati,0ba976e4,Barcelona,"1,027",11.4,2.0,1.0,42,1.0,1188,Barcelona
+,Junior Firpo,es ESP,DF,17,11,1.0,1.0,2019-2020,/en/players/24f59bb2/Junior-Firpo,24f59bb2,Barcelona,"1,014",11.3,5.0,0.0,42,1.0,1189,Barcelona
+,Samuel Umtiti,fr FRA,DF,13,10,0.0,0.0,2019-2020,/en/players/3eed9821/Samuel-Umtiti,3eed9821,Barcelona,949,10.5,6.0,0.0,42,4.0,1159,Barcelona
+,Riqui Puig,es ESP,MF,11,5,2.0,0.0,2019-2020,/en/players/f090a37a/Riqui-Puig,f090a37a,Barcelona,510,5.7,1.0,0.0,42,1.0,1180,Barcelona
+,Carles Pérez,es ESP,FW,10,5,2.0,1.0,2019-2020,/en/players/a8f21b9f/Carles-Perez,8f21b9f,Barcelona,476,5.3,0.0,0.0,42,1.0,1182,Barcelona
+,Martin Braithwaite,dk DEN,"FW,MF",11,4,0.0,1.0,2019-2020,/en/players/fd771f95/Martin-Braithwaite,fd771f95,Barcelona,407,4.5,1.0,0.0,42,7.0,1190,Barcelona
+,Ousmane Dembélé,fr FRA,"FW,MF",5,3,0.0,1.0,2019-2020,/en/players/b19db005/Ousmane-Dembele,b19db005,Barcelona,357,4.0,1.0,1.0,42,4.0,1170,Barcelona
+,Ronald Araújo,uy URU,DF,6,2,0.0,0.0,2019-2020,/en/players/2bef2bca/Ronald-Araujo,2bef2bca,Barcelona,238,2.6,0.0,1.0,42,8.0,1209,Barcelona
+,Rafinha,br BRA,"FW,MF",3,2,0.0,0.0,2019-2020,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Barcelona,186,2.1,0.0,0.0,42,2.0,355,Barcelona
+,Neto,br BRA,GK,2,2,0.0,0.0,2019-2020,/en/players/a9dc785c/Neto,9dc785c,Barcelona,180,2.0,0.0,0.0,42,2.0,990,Barcelona
+,Carles Aleñá,es ESP,MF,4,2,0.0,0.0,2019-2020,/en/players/6c811eb7/Carles-Alena,6c811eb7,Barcelona,172,1.9,0.0,0.0,42,1.0,1162,Barcelona
+,Moussa Wagué,sn SEN,DF,1,1,0.0,0.0,2019-2020,/en/players/808df563/Moussa-Wague,808df563,Barcelona,90,1.0,0.0,0.0,42,34.0,1178,Barcelona
+,Jean-Clair Todibo,fr FRA,DF,2,1,0.0,0.0,2019-2020,/en/players/88f130ed/Jean-Clair-Todibo,88f130ed,Barcelona,77,0.9,0.0,0.0,42,4.0,1179,Barcelona
+,Álex Collado,es ESP,FW,1,0,0.0,0.0,2019-2020,/en/players/85dace26/Alex-Collado,85dace26,Barcelona,6,0.1,0.0,0.0,42,1.0,1191,Barcelona
+,Sergio Akieme,es ESP,DF,0,0,,,2019-2020,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Barcelona,,,,,42,1.0,1192,Barcelona
+,Juan Brandáriz,es ESP,DF,0,0,,,2019-2020,/en/players/2475cf9b/Juan-Brandariz,2475cf9b,Barcelona,,,,,42,1.0,1183,Barcelona
+,Arnau Comas,es ESP,DF,0,0,,,2019-2020,/en/players/01d45441/Arnau-Comas,01d45441,Barcelona,,,,,42,1.0,1193,Barcelona
+,Rey Manaj,al ALB,FW,0,0,,,2019-2020,/en/players/7703afb6/Rey-Manaj,7703afb6,Barcelona,,,,,42,78.0,1194,Barcelona
+,Monchu,es ESP,MF,0,0,,,2019-2020,/en/players/8ac501f5/Monchu,8ac501f5,Barcelona,,,,,42,1.0,1195,Barcelona
+,Dani Morer,es ESP,DF,0,0,,,2019-2020,/en/players/766a2d58/Dani-Morer,766a2d58,Barcelona,,,,,42,1.0,1196,Barcelona
+,Jorge Orgaz,bo BOL,DF,0,0,,,2019-2020,/en/players/1f2231a3/Jorge-Orgaz,1f2231a3,Barcelona,,,,,42,64.0,1197,Barcelona
+,Iñaki Peña ,es ESP,GK,0,0,,,2019-2020,/en/players/cc1c5035/Inaki-Pena,cc1c5035,Barcelona,,,,,42,1.0,1186,Barcelona
+,Kike Saverio,es ESP,FW,0,0,,,2019-2020,/en/players/1af67930/Kike-Saverio,1af67930,Barcelona,,,,,42,1.0,1198,Barcelona
+,Arnau Tenas,es ESP,GK,0,0,,,2019-2020,/en/players/30670b0e/Arnau-Tenas,30670b0e,Barcelona,,,,,42,1.0,1199,Barcelona
+,﻿Frenkie de Jong,nl NED,"MF,DF",37,35,4.0,3.0,2020-2021,/en/players/1bacc518/Frenkie-de-Jong,1bacc518,Barcelona,"3,154",35.0,5.0,0.0,42,11.0,1187,Barcelona
+,Jordi Alba,es ESP,"DF,FW",35,34,5.0,3.0,2020-2021,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"3,025",33.6,9.0,0.0,42,1.0,928,Barcelona
+,Lionel Messi,ar ARG,"FW,MF",35,33,9.0,30.0,2020-2021,/en/players/d70ce98e/Lionel-Messi,d70ce98e,Barcelona,"3,023",33.6,4.0,0.0,42,5.0,1094,Barcelona
+,Antoine Griezmann,fr FRA,"FW,MF",36,32,7.0,13.0,2020-2021,/en/players/df69b544/Antoine-Griezmann,df69b544,Barcelona,"2,604",28.9,4.0,0.0,42,4.0,273,Barcelona
+,Sergio Busquets,es ESP,MF,36,32,5.0,0.0,2020-2021,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"2,517",28.0,9.0,0.0,42,1.0,1122,Barcelona
+,Marc-André ter Stegen,de GER,GK,31,31,0.0,0.0,2020-2021,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,"2,790",31.0,1.0,0.0,42,13.0,1155,Barcelona
+,Clément Lenglet,fr FRA,DF,33,29,0.0,1.0,2020-2021,/en/players/4f28a6ff/Clement-Lenglet,4f28a6ff,Barcelona,"2,475",27.5,11.0,2.0,42,4.0,1173,Barcelona
+,Pedri,es ESP,MF,37,28,3.0,3.0,2020-2021,/en/players/0d9b2d31/Pedri,0d9b2d31,Barcelona,"2,415",26.8,2.0,0.0,42,1.0,1200,Barcelona
+,Sergiño Dest,us USA,"DF,FW",30,23,1.0,2.0,2020-2021,/en/players/5976f83e/Sergino-Dest,5976f83e,Barcelona,"1,909",21.2,1.0,0.0,42,75.0,1201,Barcelona
+,Óscar Mingueza,es ESP,DF,27,23,2.0,2.0,2020-2021,/en/players/056269d7/Oscar-Mingueza,056269d7,Barcelona,"1,901",21.1,4.0,0.0,42,1.0,1202,Barcelona
+,Ousmane Dembélé,fr FRA,"FW,MF",30,19,3.0,6.0,2020-2021,/en/players/b19db005/Ousmane-Dembele,b19db005,Barcelona,"1,774",19.7,2.0,0.0,42,4.0,1170,Barcelona
+,Gerard Piqué,es ESP,DF,18,18,0.0,0.0,2020-2021,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"1,481",16.5,4.0,0.0,42,1.0,1120,Barcelona
+,Ronald Araújo,uy URU,DF,24,16,1.0,2.0,2020-2021,/en/players/2bef2bca/Ronald-Araujo,2bef2bca,Barcelona,"1,510",16.8,3.0,0.0,42,8.0,1209,Barcelona
+,Martin Braithwaite,dk DEN,"FW,MF",29,11,2.0,2.0,2020-2021,/en/players/fd771f95/Martin-Braithwaite,fd771f95,Barcelona,"1,175",13.1,3.0,0.0,42,7.0,1190,Barcelona
+,Sergi Roberto,es ESP,"DF,FW",15,9,2.0,1.0,2020-2021,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,946,10.5,1.0,0.0,42,1.0,1139,Barcelona
+,Philippe Coutinho,br BRA,MF,12,8,2.0,2.0,2020-2021,/en/players/0ef89a37/Philippe-Coutinho,0ef89a37,Barcelona,654,7.3,0.0,0.0,42,2.0,1169,Barcelona
+,Neto,br BRA,GK,7,7,0.0,0.0,2020-2021,/en/players/a9dc785c/Neto,9dc785c,Barcelona,630,7.0,0.0,0.0,42,2.0,990,Barcelona
+,Samuel Umtiti,fr FRA,DF,13,6,0.0,0.0,2020-2021,/en/players/3eed9821/Samuel-Umtiti,3eed9821,Barcelona,645,7.2,1.0,0.0,42,4.0,1159,Barcelona
+,Miralem Pjanić,ba BIH,MF,19,6,0.0,0.0,2020-2021,/en/players/ad6df2d5/Miralem-Pjanic,d6df2d5,Barcelona,627,7.0,1.0,0.0,42,49.0,1203,Barcelona
+,Ansu Fati,es ESP,"MF,FW",7,6,0.0,4.0,2020-2021,/en/players/0ba976e4/Ansu-Fati,0ba976e4,Barcelona,431,4.8,1.0,0.0,42,1.0,1188,Barcelona
+,Ilaix Moriba,gn GUI,MF,14,4,2.0,1.0,2020-2021,/en/players/f4c69aa6/Ilaix-Moriba,f4c69aa6,Barcelona,542,6.0,1.0,0.0,42,74.0,1033,Barcelona
+,Francisco Trincão,pt POR,"MF,FW",28,3,2.0,3.0,2020-2021,/en/players/77e39b04/Francisco-Trincao,77e39b04,Barcelona,706,7.8,1.0,0.0,42,3.0,1204,Barcelona
+,Junior Firpo,es ESP,"DF,MF",7,3,1.0,1.0,2020-2021,/en/players/24f59bb2/Junior-Firpo,24f59bb2,Barcelona,289,3.2,2.0,0.0,42,1.0,1189,Barcelona
+,Riqui Puig,es ESP,MF,14,2,0.0,1.0,2020-2021,/en/players/f090a37a/Riqui-Puig,f090a37a,Barcelona,292,3.2,1.0,0.0,42,1.0,1180,Barcelona
+,Carles Aleñá,es ESP,MF,2,0,0.0,0.0,2020-2021,/en/players/6c811eb7/Carles-Alena,6c811eb7,Barcelona,48,0.5,1.0,0.0,42,1.0,1162,Barcelona
+,Álex Collado,es ESP,MF,0,0,,,2020-2021,/en/players/85dace26/Alex-Collado,85dace26,Barcelona,,,,,42,1.0,1191,Barcelona
+,Konrad De La Fuente,us USA,FW,0,0,,,2020-2021,/en/players/4b77bb89/Konrad-De-La-Fuente,4b77bb89,Barcelona,,,,,42,75.0,1205,Barcelona
+,Matheus Fernandes,br BRA,MF,0,0,,,2020-2021,/en/players/f76fdcd2/Matheus-Fernandes,f76fdcd2,Barcelona,,,,,42,2.0,1206,Barcelona
+,Iñaki Peña ,es ESP,GK,0,0,,,2020-2021,/en/players/cc1c5035/Inaki-Pena,cc1c5035,Barcelona,,,,,42,1.0,1186,Barcelona
+,Rafinha,br BRA,MF,0,0,,,2020-2021,/en/players/0c2ac3cb/Rafinha,0c2ac3cb,Barcelona,,,,,42,2.0,355,Barcelona
+,Santiago Ramos,ar ARG,DF,0,0,,,2020-2021,/en/players/fe0a346d/Santiago-Ramos,fe0a346d,Barcelona,,,,,42,5.0,1207,Barcelona
+,Arnau Tenas,es ESP,GK,0,0,,,2020-2021,/en/players/30670b0e/Arnau-Tenas,30670b0e,Barcelona,,,,,42,1.0,1199,Barcelona
+,﻿Sergio Busquets,es ESP,MF,36,36,0.0,2.0,2021-2022,/en/players/5ab0ea87/Sergio-Busquets,5ab0ea87,Barcelona,"3,198",35.5,12.0,0.0,42,1.0,1122,Barcelona
+,Marc-André ter Stegen,de GER,GK,35,35,0.0,0.0,2021-2022,/en/players/6f51e382/Marc-Andre-ter-Stegen,6f51e382,Barcelona,"3,150",35.0,3.0,0.0,42,13.0,1155,Barcelona
+,Jordi Alba,es ESP,DF,30,30,10.0,2.0,2021-2022,/en/players/4601e194/Jordi-Alba,4601e194,Barcelona,"2,644",29.4,11.0,0.0,42,1.0,928,Barcelona
+,Frenkie de Jong,nl NED,MF,32,30,3.0,3.0,2021-2022,/en/players/1bacc518/Frenkie-de-Jong,1bacc518,Barcelona,"2,476",27.5,7.0,1.0,42,11.0,1187,Barcelona
+,Gavi,es ESP,"MF,FW",34,28,5.0,2.0,2021-2022,/en/players/19cae58d/Gavi,19cae58d,Barcelona,"2,316",25.7,11.0,1.0,42,1.0,1208,Barcelona
+,Ronald Araújo,uy URU,DF,30,25,0.0,4.0,2021-2022,/en/players/2bef2bca/Ronald-Araujo,2bef2bca,Barcelona,"2,272",25.2,6.0,0.0,42,8.0,1209,Barcelona
+,Gerard Piqué,es ESP,DF,27,25,0.0,1.0,2021-2022,/en/players/adfc9123/Gerard-Pique,dfc9123,Barcelona,"2,092",23.2,10.0,1.0,42,1.0,1120,Barcelona
+,Eric García,es ESP,DF,26,23,0.0,0.0,2021-2022,/en/players/2bed3eab/Eric-Garcia,2bed3eab,Barcelona,"2,039",22.7,5.0,1.0,42,1.0,1210,Barcelona
+,Memphis Depay,nl NED,"FW,MF",28,20,2.0,12.0,2021-2022,/en/players/8f696594/Memphis-Depay,8f696594,Barcelona,"1,851",20.6,3.0,0.0,42,11.0,1211,Barcelona
+,Sergiño Dest,us USA,"DF,FW",21,17,3.0,0.0,2021-2022,/en/players/5976f83e/Sergino-Dest,5976f83e,Barcelona,"1,512",16.8,2.0,0.0,42,75.0,1201,Barcelona
+,Ferrán Torres,es ESP,FW,18,17,4.0,4.0,2021-2022,/en/players/9e1035f8/Ferran-Torres,9e1035f8,Barcelona,"1,412",15.7,1.0,0.0,42,1.0,998,Barcelona
+,Ousmane Dembélé,fr FRA,FW,21,15,13.0,1.0,2021-2022,/en/players/b19db005/Ousmane-Dembele,b19db005,Barcelona,"1,409",15.7,3.0,0.0,42,4.0,1170,Barcelona
+,Dani Alves,br BRA,DF,14,13,3.0,1.0,2021-2022,/en/players/c9e99e49/Dani-Alves,c9e99e49,Barcelona,"1,098",12.2,2.0,1.0,42,2.0,1119,Barcelona
+,Pierre-Emerick Aubameyang,ga GAB,FW,17,13,1.0,11.0,2021-2022,/en/players/d5dd5f1f/Pierre-Emerick-Aubameyang,d5dd5f1f,Barcelona,"1,082",12.0,0.0,0.0,42,69.0,1212,Barcelona
+,Nicolás González,es ESP,MF,27,12,1.0,2.0,2021-2022,/en/players/2c56a792/Nicolas-Gonzalez,2c56a792,Barcelona,"1,114",12.4,6.0,0.0,42,1.0,1213,Barcelona
+,Pedri,es ESP,MF,12,10,1.0,3.0,2021-2022,/en/players/0d9b2d31/Pedri,0d9b2d31,Barcelona,885,9.8,0.0,0.0,42,1.0,1200,Barcelona
+,Óscar Mingueza,es ESP,DF,19,9,1.0,0.0,2021-2022,/en/players/056269d7/Oscar-Mingueza,056269d7,Barcelona,894,9.9,2.0,0.0,42,1.0,1202,Barcelona
+,Clément Lenglet,fr FRA,DF,21,7,1.0,0.0,2021-2022,/en/players/4f28a6ff/Clement-Lenglet,4f28a6ff,Barcelona,826,9.2,4.0,0.0,42,4.0,1173,Barcelona
+,Luuk de Jong,nl NED,FW,21,6,0.0,6.0,2021-2022,/en/players/abb3bb95/Luuk-de-Jong,bb3bb95,Barcelona,654,7.3,1.0,0.0,42,11.0,1214,Barcelona
+,Abdessamad Ezzalzouli,ma MAR,FW,10,6,0.0,1.0,2021-2022,/en/players/bed68338/Abdessamad-Ezzalzouli,bed68338,Barcelona,580,6.4,4.0,0.0,42,26.0,1215,Barcelona
+,Philippe Coutinho,br BRA,"MF,FW",12,5,0.0,2.0,2021-2022,/en/players/0ef89a37/Philippe-Coutinho,0ef89a37,Barcelona,503,5.6,1.0,0.0,42,2.0,1169,Barcelona
+,Sergi Roberto,es ESP,"MF,DF",9,4,1.0,2.0,2021-2022,/en/players/335fa267/Sergi-Roberto,335fa267,Barcelona,400,4.4,1.0,0.0,42,1.0,1139,Barcelona
+,Adama Traoré,es ESP,FW,11,4,2.0,0.0,2021-2022,/en/players/9a28eba4/Adama-Traore,9a28eba4,Barcelona,382,4.2,0.0,0.0,42,1.0,1146,Barcelona
+,Jutglà,es ESP,FW,6,4,0.0,1.0,2021-2022,/en/players/2a9f6b4d/Jutgla,2a9f6b4d,Barcelona,301,3.3,1.0,0.0,42,1.0,1216,Barcelona
+,Ansu Fati,es ESP,"FW,MF",10,3,0.0,4.0,2021-2022,/en/players/0ba976e4/Ansu-Fati,0ba976e4,Barcelona,336,3.7,0.0,0.0,42,1.0,1188,Barcelona
+,Neto,br BRA,GK,3,3,0.0,0.0,2021-2022,/en/players/a9dc785c/Neto,9dc785c,Barcelona,270,3.0,0.0,0.0,42,2.0,990,Barcelona
+,Antoine Griezmann,fr FRA,FW,3,3,0.0,0.0,2021-2022,/en/players/df69b544/Antoine-Griezmann,df69b544,Barcelona,263,2.9,0.0,0.0,42,4.0,273,Barcelona
+,Martin Braithwaite,dk DEN,FW,4,3,1.0,2.0,2021-2022,/en/players/fd771f95/Martin-Braithwaite,fd771f95,Barcelona,235,2.6,0.0,0.0,42,7.0,1190,Barcelona
+,Riqui Puig,es ESP,MF,15,2,0.0,1.0,2021-2022,/en/players/f090a37a/Riqui-Puig,f090a37a,Barcelona,487,5.4,0.0,0.0,42,1.0,1180,Barcelona
+,Yusuf Demir,at AUT,"FW,MF",6,2,0.0,0.0,2021-2022,/en/players/fa265f6d/Yusuf-Demir,fa265f6d,Barcelona,192,2.1,0.0,0.0,42,24.0,1217,Barcelona
+,Alejandro Balde,es ESP,"DF,FW",5,2,0.0,0.0,2021-2022,/en/players/5ccc9672/Alejandro-Balde,5ccc9672,Barcelona,188,2.1,0.0,0.0,42,1.0,1218,Barcelona
+,Sergio Agüero,ar ARG,FW,4,2,0.0,1.0,2021-2022,/en/players/4d034881/Sergio-Aguero,4d034881,Barcelona,151,1.7,0.0,0.0,42,5.0,1219,Barcelona
+,Ilias Akhomach,es ESP,FW,2,2,0.0,0.0,2021-2022,/en/players/b8bd60fe/Ilias-Akhomach,b8bd60fe,Barcelona,124,1.4,0.0,0.0,42,1.0,1220,Barcelona
+,Emerson,br BRA,DF,3,1,0.0,0.0,2021-2022,/en/players/df8b52a5/Emerson,df8b52a5,Barcelona,91,1.0,0.0,0.0,42,2.0,1221,Barcelona
+,Samuel Umtiti,fr FRA,DF,1,1,0.0,0.0,2021-2022,/en/players/3eed9821/Samuel-Umtiti,3eed9821,Barcelona,90,1.0,1.0,0.0,42,4.0,1159,Barcelona
+,Alvaro Sanz,es ESP,MF,2,0,0.0,0.0,2021-2022,/en/players/eaefa2d0/Alvaro-Sanz,fa2d0,Barcelona,29,0.3,0.0,0.0,42,1.0,1222,Barcelona
+,Estanis,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/ace50e9f/Estanis,ce50e9f,Barcelona,11,0.1,0.0,0.0,42,1.0,1223,Barcelona
+,Mika Màrmol,es ESP,DF,1,0,0.0,0.0,2021-2022,/en/players/e7630876/Mika-Marmol,7630876,Barcelona,1,0.0,0.0,0.0,42,1.0,1224,Barcelona
+,Lazar Carević,me MNE,GK,0,0,,,2021-2022,/en/players/8804949c/Lazar-Carevic,8804949c,Barcelona,,,,,42,33.0,1225,Barcelona
+,Arnau Comas,es ESP,DF,0,0,,,2021-2022,/en/players/01d45441/Arnau-Comas,01d45441,Barcelona,,,,,42,1.0,1193,Barcelona
+,Lucas De Vega,br BRA,MF,0,0,,,2021-2022,/en/players/f6f469c5/Lucas-De-Vega,f6f469c5,Barcelona,,,,,42,2.0,90006,Barcelona
+,Guillem Jaime,es ESP,DF,0,0,,,2021-2022,/en/players/3341009a/Guillem-Jaime,3341009a,Barcelona,,,,,42,1.0,1226,Barcelona
+,Rey Manaj,al ALB,FW,0,0,,,2021-2022,/en/players/7703afb6/Rey-Manaj,7703afb6,Barcelona,,,,,42,78.0,1194,Barcelona
+,Jandro Orellana,es ESP,MF,0,0,,,2021-2022,/en/players/693e93f1/Jandro-Orellana,693e93f1,Barcelona,,,,,42,1.0,1227,Barcelona
+,Iñaki Peña ,es ESP,GK,0,0,,,2021-2022,/en/players/cc1c5035/Inaki-Pena,cc1c5035,Barcelona,,,,,42,1.0,1186,Barcelona
+,Miralem Pjanić,ba BIH,MF,0,0,,,2021-2022,/en/players/ad6df2d5/Miralem-Pjanic,d6df2d5,Barcelona,,,,,42,49.0,1203,Barcelona
+,Arnau Tenas,es ESP,GK,0,0,,,2021-2022,/en/players/30670b0e/Arnau-Tenas,30670b0e,Barcelona,,,,,42,1.0,1199,Barcelona

@@ -1,119 +1,272 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-4801.0,Dani González,/en/players/3f5737da/Dani-Gonzalez,Dani-Gonzalez,3f5737da,es ESP,FW,Tenerife
-4802.0,David Charcos,/en/players/29deaf09/David-Charcos,David-Charco,29deaf09,es ESP,DF,Tenerife
-4803.0,Kiko Torres,/en/players/0ccd43c7/Kiko-Torres,Kiko-To,0ccd43c7,es ESP,MF,Tenerife
-4804.0,Barata,/en/players/5aa0f390/Barata,Barat,5aa0f390,br BRA,FW,Tenerife
-4805.0,Kiko Ratón,/en/players/1b4d461e/Kiko-Raton,Kiko-Rato,1b4d461e,es ESP,FW,Tenerife
-4806.0,Iker Garai,/en/players/7c2468da/Iker-Garai,Iker-Garai,7c2468da,es ESP,DF,Tenerife
-4807.0,Federico Basavilbaso,/en/players/1349b36f/Federico-Basavilbaso,Federico-Basavilbaso,1349b36f,ar ARG,MF,Tenerife
-4808.0,Bino,/en/players/8842b3a3/Bino,Bino,8842b3a3,pt POR,MF,Tenerife
-4809.0,Roberto Carlos,/en/players/e12e082d/Roberto-Carlos,Roberto-Carlo,12e082d,es ESP,DF,Tenerife
-4810.0,Bruno Marioni,/en/players/76123163/Bruno-Marioni,Bruno-Marioni,76123163,ar ARG,FW,Tenerife
-4811.0,Stefan Lexa,/en/players/a71dc2f6/Stefan-Lexa,Stefan-Lex,71dc2f6,at AUT,MF,Tenerife
-4812.0,Jordi Ocaña Pérez,/en/players/bf913242/Jordi-Ocana-Perez,Jordi-Ocana-Perez,bf913242,es ESP,MF,Tenerife
-4813.0,Hugo Morales,/en/players/71a020e0/Hugo-Morales,Hugo-Mo,71a020e0,ar ARG,MF,Tenerife
-4814.0,Keko,/en/players/f1abe4ef/Keko,Keko,f1abe4ef,es ESP,FW,Tenerife
-4815.0,César,/en/players/564915c8/Cesar,C,564915c8,br BRA,DF,Tenerife
-4816.0,Luís Andrade,/en/players/5ec7ec27/Luis-Andrade,Luis-Andrad,5ec7ec27,pt POR,MF,Tenerife
-4817.0,César La Paglia,/en/players/b5ab42e9/Cesar-La-Paglia,Cesar-La-Pagli,b5ab42e9,ar ARG,MF,Tenerife
-4818.0,Cristo,/en/players/425213fe/Cristo,Cristo,425213fe,es ESP,FW,Tenerife
-4819.0,Aarón Darias,/en/players/cf9dddb2/Aaron-Darias,Aaron-Dari,cf9dddb2,es ESP,"DF,MF",Tenerife
-4820.0,Kirian,/en/players/5e73f877/Kirian,Kiri,5e73f877,es ESP,DF,Tenerife
-4821.0,Adolfo Baines,/en/players/750ff6b0/Adolfo-Baines,Adolfo-Bai,750ff6b0,es ESP,GK,Tenerife
-4822.0,Julio Hormiga,/en/players/04c06bdd/Julio-Hormiga,Julio-Hormig,04c06bdd,es ESP,MF,Tenerife
-4823.0,Mariano Bombarda,/en/players/63fdb3bf/Mariano-Bombarda,Mariano-Bombard,63fdb3bf,es ESP,FW,Tenerife
-4824.0,Héctor,/en/players/27ef490c/Hector,Hecto,27ef490c,es ESP,DF,Tenerife
-4825.0,Toñito,/en/players/c8e76c8e/Tonito,Tonito,c8e76c8e,es ESP,MF,Tenerife
-4826.0,Maikel Hermann,/en/players/5e71f560/Maikel-Hermann,Maikel-Herm,5e71f560,es ESP,FW,Tenerife
-4827.0,Cocito,/en/players/852888f3/Cocito,Cocito,852888f3,br BRA,MF,Tenerife
-4828.0,Gal Alberman,/en/players/733ff014/Gal-Alberman,Gal-Alberm,733ff014,il ISR,MF,Tenerife
-4829.0,William,/en/players/8440e55f/William,William,8440e55f,br BRA,MF,Tenerife
-4830.0,Tomi Correa,/en/players/0d3cf025/Tomi-Correa,Tomi-Co,0d3cf025,es ESP,FW,Tenerife
-4831.0,João Paulo,/en/players/41b0fef2/Joao-Paulo,Joao-Paulo,41b0fef2,pt POR,FW,Tenerife
-4832.0,Iriome González,/en/players/6e19f4fb/Iriome-Gonzalez,Iriome-Gonzalez,6e19f4fb,es ESP,MF,Tenerife
-4833.0,Tomasz Frankowski,/en/players/fc24429f/Tomasz-Frankowski,Tomasz-Frankowski,fc24429f,pl POL,FW,Tenerife
-4834.0,Manuel Castiñeiras,/en/players/fad67c40/Manuel-Castineiras,Manuel-Castinei,fad67c40,es ESP,DF,Tenerife
-4835.0,Andrés San Martín,/en/players/d539c73d/Andres-San-Martin,Andres-San-Marti,d539c73d,ar ARG,MF,Tenerife
-4836.0,Suso Santana,/en/players/ac78902c/Suso-Santana,Suso-Sant,c78902c,es ESP,"FW,MF",Tenerife
-4837.0,Sergio Torres,/en/players/e653c16c/Sergio-Torres,Sergio-To,653c16c,es ESP,MF,Tenerife
-4838.0,Juan Ramón Ruano,/en/players/fe3bdf87/Juan-Ramon-Ruano,Juan-Ramon-Ruano,fe3bdf87,es ESP,MF,Tenerife
-4839.0,Andrés Santos,/en/players/e68ad30f/Andres-Santos,Andres-Santo,68ad30f,es ESP,MF,Tenerife
-4840.0,Mikel Arruabarrena,/en/players/ad0c4ebb/Mikel-Arruabarrena,Mikel-Arruab,d0c4ebb,es ESP,FW,Tenerife
-4841.0,Rubén Rosquete,/en/players/d2161d62/Ruben-Rosquete,Ruben-Rosquet,d2161d62,es ESP,FW,Tenerife
-4842.0,Ezequiel Luna,/en/players/772e46d9/Ezequiel-Luna,Ezequiel-Lu,772e46d9,ar ARG,DF,Tenerife
-4843.0,Cristo Martín,/en/players/942338e2/Cristo-Martin,Cristo-Marti,9.42E+07,es ESP,MF,Tenerife
-4844.0,Jesús Álvaro,/en/players/201b183d/Jesus-Alvaro,Jesus-Alvaro,201b183d,es ESP,DF,Tenerife
-4845.0,Abel Miguel Suárez,/en/players/d1fa675a/Abel-Miguel-Suarez,Abel-Miguel-Suarez,d1fa675a,es ESP,MF,Tenerife
-4846.0,Alejandro Moreno,/en/players/091b3513/Alejandro-Moreno,Alejandro-Moreno,091b3513,ve VEN,FW,Tenerife
-4847.0,Ayoze Placeres,/en/players/00b06c28/Ayoze-Placeres,Ayoze-Plac,00b06c28,es ESP,DF,Tenerife
-4848.0,Juan Ramón García,/en/players/f84b7c50/Juan-Ramon-Garcia,Juan-Ramon-Garci,f84b7c50,es ESP,MF,Tenerife
-4849.0,﻿Carlos Ruiz,/en/players/3c871dd7/Carlos-Ruiz,Carlos-Ruiz,3c871dd7,es ESP,"DF,MF",Tenerife
-4850.0,Aitor Sanz,/en/players/bd267b8d/Aitor-Sanz,Aitor-Sanz,bd267b8d,es ESP,MF,Tenerife
-4851.0,Roberto,/en/players/a69b0d51/Roberto,Roberto,69b0d51,es ESP,GK,Tenerife
-4852.0,Ayoze Pérez,/en/players/819aa8e7/Ayoze-Perez,Ayoze-Perez,819aa8e7,es ESP,"FW,MF",Tenerife
-4853.0,Iñigo Ros,/en/players/bc278eb1/Inigo-Ros,Inigo-Ro,bc278eb1,es ESP,MF,Tenerife
-4854.0,Chechu,/en/players/3333762c/Chechu,Chechu,3333762c,es ESP,MF,Tenerife
-4855.0,Borja Pérez,/en/players/5cabc332/Borja-Perez,Borja-Perez,5cabc332,es ESP,FW,Tenerife
-4856.0,Aday,/en/players/5890cef1/Aday,Ad,5890cef1,es ESP,"DF,MF",Tenerife
-4857.0,Alberto Jiménez,/en/players/3a780635/Alberto-Jimenez,Alberto-Jimenez,3a780635,es ESP,"DF,MF",Tenerife
-4858.0,Salvador Ruiz,/en/players/8f86f018/Salvador-Ruiz,Salvador-Ruiz,8f86f018,es ESP,DF,Tenerife
-4859.0,Óscar Rico,/en/players/8778714e/Oscar-Rico,Oscar-Rico,8778714e,es ESP,MF,Tenerife
-4860.0,Guillem,/en/players/560cedf7/Guillem,Guillem,560cedf7,es ESP,FW,Tenerife
-4861.0,Maximiliano Pérez,/en/players/ebfcf4a4/Maximiliano-Perez,Maximiliano-Perez,bfcf4a4,uy URU,"FW,MF",Tenerife
-4862.0,Iker Guarrotxena,/en/players/6d157157/Iker-Guarrotxena,Iker-Guarrotx,6d157157,es ESP,"FW,MF",Tenerife
-4863.0,Ulises Dávila,/en/players/0e774d3a/Ulises-Davila,Ulises-Davi,0e774d3a,mx MEX,"FW,MF",Tenerife
-4864.0,Cristo Díaz,/en/players/0949adff/Cristo-Diaz,Cristo-Diaz,0949adff,es ESP,MF,Tenerife
-4865.0,Igor Arnáez,/en/players/dce1fe15/Igor-Arnaez,Igor-Arnaez,dce1fe15,es ESP,DF,Tenerife
-4866.0,Victor García,/en/players/e978d6b6/Victor-Garcia,Victor-Garci,978d6b6,sv SLV,MF,Tenerife
-4867.0,Diop,/en/players/6bcd5f78/Diop,Dio,6bcd5f78,sn SEN,MF,Tenerife
-4868.0,Víctor García Marín,/en/players/cec64412/Victor-Garcia-Marin,Victor-Garcia-Mari,cec64412,es ESP,"DF,FW",Tenerife
-4869.0,Santi Luque,/en/players/5525a479/Santi-Luque,Santi-Luqu,5525a479,es ESP,MF,Tenerife
-4870.0,Jordan McCourt,/en/players/491c3094/Jordan-McCourt,Jordan-McCourt,491c3094,eng ENG,MF,Tenerife
-4871.0,Ángel Rodríguez,/en/players/70eaa565/Angel-Rodriguez,Angel-Rodriguez,70eaa565,es ESP,GK,Tenerife
-4872.0,Germán Sánchez,/en/players/ea9b2ef9/German-Sanchez,German-Sanchez,9b2ef9,es ESP,DF,Tenerife
-4873.0,Javi Lara,/en/players/bd1babf1/Javi-Lara,Javi-L,bd1babf1,es ESP,MF,Tenerife
-4874.0,Tomás Martínez,/en/players/cc6cf17f/Tomas-Martinez,Tomas-Martinez,cc6cf17f,ar ARG,MF,Tenerife
-4875.0,Ale González,/en/players/b838a91b/Ale-Gonzalez,Ale-Gonzalez,b838a91b,es ESP,MF,Tenerife
-4876.0,Rafa Álvarez,/en/players/11afb1e8/Rafa-Alvarez,Rafa-Alvarez,11afb1e8,es ESP,DF,Tenerife
-4877.0,Ángel Jesús Galván Rivero,/en/players/a56e25bb/Angel-Jesus-Galvan-Rivero,Angel-Jesus-Galvan-Rivero,56e25bb,es ESP,GK,Tenerife
-4878.0,Marc Crosas,/en/players/042adadc/Marc-Crosas,Marc-Cro,042adadc,es ESP,MF,Tenerife
-4879.0,Tyronne,/en/players/f76bbf9c/Tyronne,Tyro,f76bbf9c,es ESP,MF,Tenerife
-4880.0,Haythem Jouini,/en/players/9943dcc4/Haythem-Jouini,Haythem-Jouini,9943dcc4,tn TUN,FW,Tenerife
-4881.0,Roberto Bolaños,/en/players/b9c04db1/Roberto-Bolanos,Roberto-Bolano,b9c04db1,es ESP,MF,Tenerife
-4882.0,Giovanni,/en/players/c604a289/Giovanni,Giovanni,c604a289,es ESP,FW,Tenerife
-4883.0,Óscar González,/en/players/034d89a1/Oscar-Gonzalez,Oscar-Gonzalez,034d89a1,es ESP,DF,Tenerife
-4884.0,Darixon Vuelto,/en/players/3fe0e991/Darixon-Vuelto,Darixon-Vuelto,3fe0e991,hn HON,MF,Tenerife
-4885.0,Bryan Acosta,/en/players/c5f400f4/Bryan-Acosta,Bryan-Acost,c5f400f4,hn HON,"MF,FW",Tenerife
-4886.0,Luis Milla,/en/players/19c36442/Luis-Milla,Luis-Mi,19c36442,es ESP,MF,Tenerife
-4887.0,Borja Llarena,/en/players/91906c4b/Borja-Llarena,Borja-L,91906c4b,es ESP,FW,Tenerife
-4888.0,Samuel Arbelo,/en/players/89f3ec04/Samuel-Arbelo,Samuel-Arbelo,89f3ec04,es ESP,MF,Tenerife
-4889.0,Brian Torres,/en/players/900ad6fc/Brian-Torres,Brian-To,900ad6fc,es ESP,MF,Tenerife
-4890.0,Iker Undabarrena,/en/players/ed21e2f8/Iker-Undabarrena,Iker-Undab,d21e2f8,es ESP,MF,Tenerife
-4891.0,Fernando Coniglio,/en/players/ea5d0211/Fernando-Coniglio,Fernando-Coniglio,5d0211,ar ARG,FW,Tenerife
-4892.0,Joao Rodríguez,/en/players/84b7c924/Joao-Rodriguez,Joao-Rodriguez,84b7c924,co COL,MF,Tenerife
-4893.0,Javier Alonso,/en/players/63e79610/Javier-Alonso,Javier-Alonso,63e79610,es ESP,MF,Tenerife
-4894.0,Shaaban Iddi,/en/players/0e4c8086/Shaaban-Iddi,Shaaban-Iddi,0e4c8086,tz TAN,FW,Tenerife
-4895.0,Otaño,/en/players/f70db755/Otano,Otano,f70db755,es ESP,GK,Tenerife
-4896.0,Nikola Šipčić,/en/players/75b7058f/Nikola-Sipcic,Nikola-Sipcic,75b7058f,me MNE,DF,Tenerife
-4897.0,Álex Bermejo,/en/players/d9b180dd/Alex-Bermejo,Alex-Bermejo,d9b180dd,es ESP,MF,Tenerife
-4898.0,Ramón Mierez,/en/players/44c16979/Ramon-Mierez,Ramon-Mierez,44c16979,ar ARG,FW,Tenerife
-4899.0,Jorge Padilla,/en/players/e4c7d4bb/Jorge-Padilla,Jorge-Padi,4c7d4bb,es ESP,FW,Tenerife
-4900.0,Elliot Gómez,/en/players/34395370/Elliot-Gomez,Elliot-Gomez,34395370,es ESP,MF,Tenerife
-4901.0,Carlos Pomares Rayo,/en/players/43742e87/Carlos-Pomares-Rayo,Carlos-Pomares-Rayo,4.37E+91,es ESP,"DF,MF",Tenerife
-4902.0,Bruno Wilson,/en/players/965fc36d/Bruno-Wilson,Bruno-Wilso,965fc36d,pt POR,DF,Tenerife
-4903.0,Jorge Zarfino,/en/players/0841f1d8/Jorge-Zarfino,Jorge-Zarfino,0841f1d8,uy URU,"MF,FW",Tenerife
-4904.0,Samuel Shashoua,/en/players/df855e4b/Samuel-Shashoua,Samuel-Shashou,df855e4b,eng ENG,"FW,MF",Tenerife
-4905.0,Jon Ander Serantes,/en/players/983ccabe/Jon-Ander-Serantes,Jon-Ander-Serant,983ccabe,es ESP,GK,Tenerife
-4906.0,Felix,/en/players/6dfbdb96/Felix,Felix,6dfbdb96,es ESP,MF,Tenerife
-4907.0,Ale Cruz,/en/players/dcbeeb2c/Ale-Cruz,Ale-Cruz,dcbeeb2c,es ESP,MF,Tenerife
-4908.0,Dylan,/en/players/e5e8bada/Dylan,D,5e8bada,es ESP,MF,Tenerife
-4909.0,Omar Jaiteh,/en/players/970bf5b7/Omar-Jaiteh,Omar-Jaiteh,970bf5b7,gm GAM,DF,Tenerife
-4910.0,Alejandro Medina,/en/players/f3df0647/Alejandro-Medina,Alejandro-Medi,f3df0647,es ESP,GK,Tenerife
-4911.0,Víctor Méndez,/en/players/d97e276a/Victor-Mendez,Victor-Mendez,d97e276a,es ESP,GK,Tenerife
-4912.0,David Rodríguez,/en/players/f0cde899/David-Rodriguez,David-Rodriguez,f0cde899,es ESP,DF,Tenerife
-4913.0,Jeremy Socorro,/en/players/5d20654f/Jeremy-Socorro,Jeremy-Socorro,5d20654f,es ESP,DF,Tenerife
-4914.0,Jérémy Mellot,/en/players/5fa69055/Jeremy-Mellot,Jeremy-Mellot,5fa69055,fr FRA,DF,Tenerife
-4915.0,Jamelli,/en/players/57a6fd07/Jamelli,Jamelli,57a6fd07,es ESP,MF,Tenerife
-4916.0,Etyan,/en/players/894559b1/Etyan,Et,894559b1,es ESP,FW,Tenerife
-4917.0,Thierno Barry,/en/players/a49d9743/Thierno-Barry,Thierno-B,49d9743,gn GUI,FW,Tenerife
-4918.0,Teto,/en/players/8dbf0e8f/Teto,Teto,8dbf0e8f,es ESP,FW,Tenerife
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+7584.0,﻿Sebastián Corona,/en/players/d2aedc78/Sebastian-Corona,Sebastian-Coro,d2aedc78,es ESP,DF,Tenerife
+7585.0,José Luis Martí,/en/players/111c668a/Jose-Luis-Marti,Jose-Luis-Marti,111c668a,es ESP,MF,Tenerife
+7586.0,Veljko Paunović,/en/players/7d0ae66f/Veljko-Paunovic,Veljko-Paunovic,7d0ae66f,es ESP,"FW,MF",Tenerife
+7587.0,Edu Moya,/en/players/7da62f29/Edu-Moya,Edu-Mo,7da62f29,es ESP,"DF,MF",Tenerife
+7588.0,Ayoze Díaz Díaz,/en/players/b7209bcc/Ayoze-Diaz-Diaz,Ayoze-Diaz-Diaz,b7209bcc,es ESP,"DF,MF",Tenerife
+7589.0,Alexis,/en/players/b9efd503/Alexis,Alexi,b9efd503,es ESP,DF,Tenerife
+7590.0,Jesús Vázquez,/en/players/96b3239f/Jesus-Vazquez,Jesus-Vazquez,96b3239f,es ESP,MF,Tenerife
+7591.0,Joaquín Valerio,/en/players/5969d90a/Joaquin-Valerio,Joaquin-Valerio,5969d90a,es ESP,GK,Tenerife
+7592.0,Dani González,/en/players/3f5737da/Dani-Gonzalez,Dani-Gonzalez,3f5737da,es ESP,FW,Tenerife
+7593.0,Sergio Aragoneses,/en/players/8e8258f5/Sergio-Aragoneses,Sergio-Arago,8e8258f5,es ESP,GK,Tenerife
+7594.0,David Charcos,/en/players/29deaf09/David-Charcos,David-Charco,29deaf09,es ESP,DF,Tenerife
+7595.0,Kiko Torres,/en/players/0ccd43c7/Kiko-Torres,Kiko-To,0ccd43c7,es ESP,MF,Tenerife
+7596.0,Barata,/en/players/5aa0f390/Barata,Barat,5aa0f390,br BRA,FW,Tenerife
+7597.0,Iván Ania,/en/players/12d37503/Ivan-Ania,Ivan-Ani,12d37503,es ESP,MF,Tenerife
+7598.0,Kiko Ratón,/en/players/1b4d461e/Kiko-Raton,Kiko-Rato,1b4d461e,es ESP,FW,Tenerife
+7599.0,Iker Garai,/en/players/7c2468da/Iker-Garai,Iker-Garai,7c2468da,es ESP,DF,Tenerife
+7600.0,Federico Basavilbaso,/en/players/1349b36f/Federico-Basavilbaso,Federico-Basavilbaso,1349b36f,ar ARG,MF,Tenerife
+7601.0,Bino,/en/players/8842b3a3/Bino,Bino,8842b3a3,pt POR,MF,Tenerife
+7602.0,Óscar Álvarez,/en/players/d6b5c64f/Oscar-Alvarez,Oscar-Alvarez,d6b5c64f,es ESP,DF,Tenerife
+7603.0,Roberto Carlos,/en/players/e12e082d/Roberto-Carlos,Roberto-Carlo,12e082d,es ESP,DF,Tenerife
+7604.0,Antonio Hidalgo,/en/players/b5b88d6c/Antonio-Hidalgo,Antonio-Hidalgo,b5b88d6c,es ESP,MF,Tenerife
+7605.0,Bruno Marioni,/en/players/76123163/Bruno-Marioni,Bruno-Marioni,76123163,ar ARG,FW,Tenerife
+7606.0,Stefan Lexa,/en/players/a71dc2f6/Stefan-Lexa,Stefan-Lex,71dc2f6,at AUT,MF,Tenerife
+7607.0,Jordi Ocaña Pérez,/en/players/bf913242/Jordi-Ocana-Perez,Jordi-Ocana-Perez,bf913242,es ESP,MF,Tenerife
+7608.0,David Bermudo,/en/players/1066df99/David-Bermudo,David-Bermudo,1066df99,es ESP,DF,Tenerife
+7609.0,Vitolo,/en/players/0785296e/Vitolo,Vitolo,0785296e,es ESP,MF,Tenerife
+7610.0,Hugo Morales,/en/players/71a020e0/Hugo-Morales,Hugo-Mo,71a020e0,ar ARG,MF,Tenerife
+7611.0,Keko,/en/players/f1abe4ef/Keko,Keko,f1abe4ef,es ESP,FW,Tenerife
+7612.0,Álvaro Iglesias,/en/players/d325c894/Alvaro-Iglesias,Alvaro-Iglesi,d325c894,es ESP,GK,Tenerife
+7613.0,Miroslav Đukić,/en/players/a3e76b49/Miroslav-Djukic,Miroslav-Djukic,3e76b49,rs SRB,DF,Tenerife
+7614.0,Martín Posse,/en/players/cec1d8dd/Martin-Posse,Martin-Po,cec1d8dd,ar ARG,FW,Tenerife
+7615.0,Raúl Martín,/en/players/f81f6fc3/Raul-Martin,Raul-Marti,f81f6fc3,es ESP,MF,Tenerife
+7616.0,César,/en/players/564915c8/Cesar,C,564915c8,br BRA,DF,Tenerife
+7617.0,Luís Andrade,/en/players/5ec7ec27/Luis-Andrade,Luis-Andrad,5ec7ec27,pt POR,MF,Tenerife
+7618.0,César La Paglia,/en/players/b5ab42e9/Cesar-La-Paglia,Cesar-La-Pagli,b5ab42e9,ar ARG,MF,Tenerife
+7619.0,Robert Enke,/en/players/02692203/Robert-Enke,Robert-Enk,02692203,de GER,GK,Tenerife
+7620.0,Cristo,/en/players/425213fe/Cristo,Cristo,425213fe,es ESP,FW,Tenerife
+7621.0,Aarón Darias,/en/players/cf9dddb2/Aaron-Darias,Aaron-Dari,cf9dddb2,es ESP,"DF,MF",Tenerife
+7622.0,Manolo Sánchez,/en/players/b40c4904/Manolo-Sanchez,Manolo-Sanchez,b40c4904,es ESP,MF,Tenerife
+7623.0,Kirian,/en/players/5e73f877/Kirian,Kiri,5e73f877,es ESP,DF,Tenerife
+7624.0,Adolfo Baines,/en/players/750ff6b0/Adolfo-Baines,Adolfo-Bai,750ff6b0,es ESP,GK,Tenerife
+7625.0,Ayoze García,/en/players/e94dfdc6/Ayoze-Garcia,Ayoze-Garci,94dfdc6,es ESP,"DF,MF",Tenerife
+7626.0,Daniel Fagiani,/en/players/e7524ca1/Daniel-Fagiani,Daniel-Fagiani,7524ca1,ar ARG,DF,Tenerife
+7627.0,Marián Kelemen,/en/players/6f650bdb/Marian-Kelemen,Marian-Kelem,6f650bdb,sk SVK,GK,Tenerife
+7628.0,Jaime Gavilán,/en/players/95de0931/Jaime-Gavilan,Jaime-Gavi,95de0931,es ESP,MF,Tenerife
+7629.0,Julio Hormiga,/en/players/04c06bdd/Julio-Hormiga,Julio-Hormig,04c06bdd,es ESP,MF,Tenerife
+7630.0,Mariano Bombarda,/en/players/63fdb3bf/Mariano-Bombarda,Mariano-Bombard,63fdb3bf,es ESP,FW,Tenerife
+7631.0,Héctor,/en/players/27ef490c/Hector,Hecto,27ef490c,es ESP,DF,Tenerife
+7632.0,Cristian Álvarez,/en/players/c7c82f11/Cristian-Alvarez,Cristian-Alvarez,c7c82f11,ar ARG,"DF,MF",Tenerife
+7633.0,Javier Almirón,/en/players/8b8c57b7/Javier-Almiron,Javier-Almiro,8b8c57b7,ar ARG,"DF,MF",Tenerife
+7634.0,Toni Moral,/en/players/5c3bf3f9/Toni-Moral,Toni-Mo,5c3bf3f9,es ESP,MF,Tenerife
+7635.0,Toñito,/en/players/c8e76c8e/Tonito,Tonito,c8e76c8e,es ESP,MF,Tenerife
+7636.0,Maikel Hermann,/en/players/5e71f560/Maikel-Hermann,Maikel-Herm,5e71f560,es ESP,FW,Tenerife
+7637.0,Bernardo Domínguez,/en/players/15394beb/Bernardo-Dominguez,Bernardo-Dominguez,15394beb,es ESP,GK,Tenerife
+7638.0,Cocito,/en/players/852888f3/Cocito,Cocito,852888f3,br BRA,MF,Tenerife
+7639.0,Ricardo León Brito,/en/players/186c0d18/Ricardo-Leon-Brito,Ricardo-Leon-Brito,186c0d18,es ESP,MF,Tenerife
+7640.0,Frantz Bertin,/en/players/6708334a/Frantz-Bertin,Frantz-Berti,6708334a,ht HAI,"DF,MF",Tenerife
+7641.0,Gal Alberman,/en/players/733ff014/Gal-Alberman,Gal-Alberm,733ff014,il ISR,MF,Tenerife
+7642.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,FW,Tenerife
+7643.0,William,/en/players/8440e55f/William,William,8440e55f,br BRA,MF,Tenerife
+7644.0,Tomi Correa,/en/players/0d3cf025/Tomi-Correa,Tomi-Co,0d3cf025,es ESP,FW,Tenerife
+7645.0,João Paulo,/en/players/41b0fef2/Joao-Paulo,Joao-Paulo,41b0fef2,pt POR,FW,Tenerife
+7646.0,﻿José Antonio Culebras,/en/players/c8b270a2/Jose-Antonio-Culebras,Jose-Antonio-Culeb,c8b270a2,es ESP,DF,Tenerife
+7647.0,Pablo Sicilia,/en/players/56bdf1b5/Pablo-Sicilia,Pablo-Sicili,56bdf1b5,es ESP,DF,Tenerife
+7648.0,Marc Bertrán,/en/players/89a12cef/Marc-Bertran,Marc-Bert,89a12cef,es ESP,DF,Tenerife
+7649.0,Rafael Clavero,/en/players/1590d66a/Rafael-Clavero,Rafael-Clavero,1590d66a,es ESP,DF,Tenerife
+7650.0,Raúl Sánchez,/en/players/5553259e/Raul-Sanchez,Raul-Sanchez,5553259e,es ESP,FW,Tenerife
+7651.0,Óscar Pérez,/en/players/a4ae5f6a/Oscar-Perez,Oscar-Perez,4ae5f6a,es ESP,MF,Tenerife
+7652.0,Iriome González,/en/players/6e19f4fb/Iriome-Gonzalez,Iriome-Gonzalez,6e19f4fb,es ESP,MF,Tenerife
+7653.0,Manolo Martínez,/en/players/7b9876e4/Manolo-Martinez,Manolo-Martinez,7b9876e4,es ESP,"DF,MF",Tenerife
+7654.0,Tomasz Frankowski,/en/players/fc24429f/Tomasz-Frankowski,Tomasz-Frankowski,fc24429f,pl POL,FW,Tenerife
+7655.0,Luis Gil Torres,/en/players/3541486a/Luis-Gil-Torres,Luis-Gil-To,3541486a,es ESP,FW,Tenerife
+7656.0,Manuel Castiñeiras,/en/players/fad67c40/Manuel-Castineiras,Manuel-Castinei,fad67c40,es ESP,DF,Tenerife
+7657.0,Andrés San Martín,/en/players/d539c73d/Andres-San-Martin,Andres-San-Marti,d539c73d,ar ARG,MF,Tenerife
+7658.0,Juvenal,/en/players/b26bf947/Juvenal,Juv,b26bf947,gq EQG,MF,Tenerife
+7659.0,Suso Santana,/en/players/ac78902c/Suso-Santana,Suso-Sant,c78902c,es ESP,"FW,MF",Tenerife
+7660.0,Sergio Torres,/en/players/e653c16c/Sergio-Torres,Sergio-To,653c16c,es ESP,MF,Tenerife
+7661.0,Manuel Blanco,/en/players/3dadb16d/Manuel-Blanco,Manuel-Blanco,3dadb16d,es ESP,DF,Tenerife
+7662.0,Raúl Navas,/en/players/7bb77368/Raul-Navas,Raul-Nav,7bb77368,es ESP,GK,Tenerife
+7663.0,Juan Ramón Ruano,/en/players/fe3bdf87/Juan-Ramon-Ruano,Juan-Ramon-Ruano,fe3bdf87,es ESP,MF,Tenerife
+7664.0,Omar Ramos,/en/players/0657888a/Omar-Ramos,Omar-Ramo,0657888a,es ESP,"FW,MF",Tenerife
+7665.0,﻿Nino,/en/players/03dc5b1f/Nino,Nino,03dc5b1f,es ESP,"FW,MF",Tenerife
+7666.0,Juan Pablo Colinas,/en/players/b2cab8f4/Juan-Pablo-Colinas,Juan-Pablo-Coli,b2cab8f4,es ESP,GK,Tenerife
+7667.0,Juanma,/en/players/209581c1/Juanma,Juanm,209581c1,es ESP,DF,Tenerife
+7668.0,Sylvain N'Diaye,/en/players/fb5f3505/Sylvain-NDiaye,Sylvain-NDi,fb5f3505,sn SEN,"DF,MF",Tenerife
+7669.0,Andrés Santos,/en/players/e68ad30f/Andres-Santos,Andres-Santo,68ad30f,es ESP,MF,Tenerife
+7670.0,Antonio Longás,/en/players/d7821711/Antonio-Longas,Antonio-Long,d7821711,es ESP,MF,Tenerife
+7671.0,Mikel Arruabarrena,/en/players/ad0c4ebb/Mikel-Arruabarrena,Mikel-Arruab,d0c4ebb,es ESP,FW,Tenerife
+7672.0,Jesuli,/en/players/3bfc833a/Jesuli,Jesuli,3bfc833a,es ESP,MF,Tenerife
+7673.0,Rubén Rosquete,/en/players/d2161d62/Ruben-Rosquete,Ruben-Rosquet,d2161d62,es ESP,FW,Tenerife
+7674.0,Alejandro Alfaro,/en/players/7c293728/Alejandro-Alfaro,Alejandro-Alfaro,7c293728,es ESP,"FW,MF",Tenerife
+7675.0,Juanlu,/en/players/431ac3e7/Juanlu,Juanlu,431ac3e7,es ESP,"FW,MF",Tenerife
+7676.0,Ezequiel Luna,/en/players/772e46d9/Ezequiel-Luna,Ezequiel-Lu,772e46d9,ar ARG,DF,Tenerife
+7677.0,Richi,/en/players/90517f8a/Richi,Richi,90517f8a,es ESP,"FW,MF",Tenerife
+7678.0,Daniel N'Gom Kome,/en/players/8076455d/Daniel-NGom-Kome,Daniel-NGom-Kom,8076455d,cm CMR,MF,Tenerife
+7679.0,Luis García,/en/players/a716e5a4/Luis-Garcia,Luis-Garci,716e5a4,es ESP,GK,Tenerife
+7680.0,Pau Cendrós,/en/players/9b9c9388/Pau-Cendros,Pau-Cendro,9b9c9388,es ESP,DF,Tenerife
+7681.0,Cristo Martín,/en/players/942338e2/Cristo-Martin,Cristo-Marti,942338e2,es ESP,MF,Tenerife
+7682.0,Gaizka Saizar,/en/players/5a706676/Gaizka-Saizar,Gaizka-Saiz,5a706676,es ESP,FW,Tenerife
+7683.0,Mikel Alonso,/en/players/eab32eb2/Mikel-Alonso,Mikel-Alonso,b32eb2,es ESP,MF,Tenerife
+7684.0,Román Martínez,/en/players/936dd5b4/Roman-Martinez,Roman-Martinez,936dd5b4,ar ARG,MF,Tenerife
+7685.0,Carlos Bellvís,/en/players/fbe35ca3/Carlos-Bellvis,Carlos-Bellvi,fbe35ca3,es ESP,DF,Tenerife
+7686.0,Aitor Núñez,/en/players/511e3986/Aitor-Nunez,Aitor-Nunez,511e3986,es ESP,DF,Tenerife
+7687.0,Grégory Béranger,/en/players/3dac0268/Gregory-Beranger,Gregory-Berang,3dac0268,fr FRA,DF,Tenerife
+7688.0,Julio Álvarez,/en/players/17b1a0ee/Julio-Alvarez,Julio-Alvarez,17b1a0ee,ve VEN,MF,Tenerife
+7689.0,Natalio,/en/players/239425b9/Natalio,Natalio,239425b9,es ESP,FW,Tenerife
+7690.0,Melli,/en/players/83215889/Melli,Melli,83215889,es ESP,DF,Tenerife
+7691.0,David Prieto,/en/players/aee8f24e/David-Prieto,David-Prieto,8f24e,es ESP,"DF,MF",Tenerife
+7692.0,Ritchie Kitoko,/en/players/d403d81a/Ritchie-Kitoko,Ritchie-Kitoko,d403d81a,be BEL,MF,Tenerife
+7693.0,Sebastián Dubarbier,/en/players/83877c7c/Sebastian-Dubarbier,Sebastian-Dubarbi,83877c7c,ar ARG,"DF,FW",Tenerife
+7694.0,Germán,/en/players/12c68be9/German,Germ,12c68be9,es ESP,"FW,MF",Tenerife
+7695.0,Josmar Zambrano,/en/players/64bd3334/Josmar-Zambrano,Josmar-Zambrano,64bd3334,ve VEN,MF,Tenerife
+7696.0,Igor de Souza,/en/players/1c73ef45/Igor-de-Souza,Igor-de-Souz,1c73ef45,br BRA,FW,Tenerife
+7697.0,Jesús Álvaro,/en/players/201b183d/Jesus-Alvaro,Jesus-Alvaro,201b183d,es ESP,DF,Tenerife
+7698.0,Bruno González,/en/players/f11fe861/Bruno-Gonzalez,Bruno-Gonzalez,f11fe861,es ESP,DF,Tenerife
+7699.0,Abel Miguel Suárez,/en/players/d1fa675a/Abel-Miguel-Suarez,Abel-Miguel-Suarez,d1fa675a,es ESP,MF,Tenerife
+7700.0,Alejandro Moreno,/en/players/091b3513/Alejandro-Moreno,Alejandro-Moreno,091b3513,ve VEN,FW,Tenerife
+7701.0,Ayoze Placeres,/en/players/00b06c28/Ayoze-Placeres,Ayoze-Plac,00b06c28,es ESP,DF,Tenerife
+7702.0,Juan Ramón García,/en/players/f84b7c50/Juan-Ramon-Garcia,Juan-Ramon-Garci,f84b7c50,es ESP,MF,Tenerife
+7703.0,﻿Carlos Ruiz,/en/players/3c871dd7/Carlos-Ruiz,Carlos-Ruiz,3c871dd7,es ESP,"DF,MF",Tenerife
+7704.0,Javi Moyano,/en/players/933e8c8a/Javi-Moyano,Javi-Moyano,933e8c8a,es ESP,DF,Tenerife
+7705.0,Aitor Sanz,/en/players/bd267b8d/Aitor-Sanz,Aitor-Sanz,bd267b8d,es ESP,MF,Tenerife
+7706.0,Aridane,/en/players/3e601a74/Aridane,Arid,3e601a74,es ESP,FW,Tenerife
+7707.0,Roberto,/en/players/a69b0d51/Roberto,Roberto,69b0d51,es ESP,GK,Tenerife
+7708.0,Ayoze Pérez,/en/players/819aa8e7/Ayoze-Perez,Ayoze-Perez,819aa8e7,es ESP,"FW,MF",Tenerife
+7709.0,Raúl Cámara,/en/players/585753d9/Raul-Camara,Raul-Cam,585753d9,es ESP,DF,Tenerife
+7710.0,Quique Rivero,/en/players/0204d102/Quique-Rivero,Quique-Rivero,0204d102,es ESP,MF,Tenerife
+7711.0,Iñigo Ros,/en/players/bc278eb1/Inigo-Ros,Inigo-Ro,bc278eb1,es ESP,MF,Tenerife
+7712.0,Luismi,/en/players/f345089d/Luismi,Luismi,f345089d,es ESP,"FW,MF",Tenerife
+7713.0,Chechu,/en/players/3333762c/Chechu,Chechu,3333762c,es ESP,MF,Tenerife
+7714.0,Raúl Llorente,/en/players/f40996ec/Raul-Llorente,Raul-Llorent,f40996ec,es ESP,DF,Tenerife
+7715.0,Borja Pérez,/en/players/5cabc332/Borja-Perez,Borja-Perez,5cabc332,es ESP,FW,Tenerife
+7716.0,Juanjo Expósito,/en/players/f0a0b756/Juanjo-Exposito,Juanjo-Exposito,f0a0b756,es ESP,FW,Tenerife
+7717.0,Aday,/en/players/5890cef1/Aday,Ad,5890cef1,es ESP,"DF,MF",Tenerife
+7718.0,Alberto Jiménez,/en/players/3a780635/Alberto-Jimenez,Alberto-Jimenez,3a780635,es ESP,"DF,MF",Tenerife
+7719.0,Salvador Ruiz,/en/players/8f86f018/Salvador-Ruiz,Salvador-Ruiz,8f86f018,es ESP,DF,Tenerife
+7720.0,Nano,/en/players/217011a0/Nano,Nano,217011a0,es ESP,FW,Tenerife
+7721.0,Baltasar Rigo,/en/players/b80570db/Baltasar-Rigo,Baltasar-Rigo,b80570db,es ESP,DF,Tenerife
+7722.0,Óscar Rico,/en/players/8778714e/Oscar-Rico,Oscar-Rico,8778714e,es ESP,MF,Tenerife
+7723.0,Diego Rivas Rego,/en/players/c3a6fb7d/Diego-Rivas-Rego,Diego-Rivas-Rego,c3a6fb7d,es ESP,GK,Tenerife
+7724.0,Guillem,/en/players/560cedf7/Guillem,Guillem,560cedf7,es ESP,FW,Tenerife
+7725.0,Unai Albizua,/en/players/4a2e58a3/Unai-Albizua,Unai-Albizu,4a2e58a3,es ESP,DF,Tenerife
+7726.0,Diego Ifrán,/en/players/59e3e40f/Diego-Ifran,Diego-If,59e3e40f,uy URU,FW,Tenerife
+7727.0,Dani Hernández,/en/players/ba02295e/Dani-Hernandez,Dani-Hernandez,ba02295e,ve VEN,GK,Tenerife
+7728.0,Maximiliano Pérez,/en/players/ebfcf4a4/Maximiliano-Perez,Maximiliano-Perez,bfcf4a4,uy URU,"FW,MF",Tenerife
+7729.0,Iker Guarrotxena,/en/players/6d157157/Iker-Guarrotxena,Iker-Guarrotx,6d157157,es ESP,"FW,MF",Tenerife
+7730.0,Carlos Abad,/en/players/6970bedb/Carlos-Abad,Carlos-Abad,6970bedb,es ESP,GK,Tenerife
+7731.0,Ulises Dávila,/en/players/0e774d3a/Ulises-Davila,Ulises-Davi,0e774d3a,mx MEX,"FW,MF",Tenerife
+7732.0,Jacobo,/en/players/bb575fe7/Jacobo,Jacobo,bb575fe7,es ESP,GK,Tenerife
+7733.0,Cristo Díaz,/en/players/0949adff/Cristo-Diaz,Cristo-Diaz,0949adff,es ESP,MF,Tenerife
+7734.0,Jorge Sáenz,/en/players/bfca375c/Jorge-Saenz,Jorge-Saenz,bfca375c,es ESP,DF,Tenerife
+7735.0,Igor Arnáez,/en/players/dce1fe15/Igor-Arnaez,Igor-Arnaez,dce1fe15,es ESP,DF,Tenerife
+7736.0,Victor García,/en/players/e978d6b6/Victor-Garcia,Victor-Garci,978d6b6,sv SLV,MF,Tenerife
+7737.0,Abdón Prats,/en/players/d1b060e2/Abdon-Prats,Abdon-Prat,d1b060e2,es ESP,FW,Tenerife
+7738.0,Omar Perdomo,/en/players/5290eb66/Omar-Perdomo,Omar-Perdomo,5290eb66,es ESP,MF,Tenerife
+7739.0,Cristian García,/en/players/2e33112b/Cristian-Garcia,Cristian-Garci,2e33112b,ar ARG,FW,Tenerife
+7740.0,Cristo González,/en/players/896b5df2/Cristo-Gonzalez,Cristo-Gonzalez,896b5df2,es ESP,FW,Tenerife
+7741.0,Hugo Álvarez,/en/players/6f392eb8/Hugo-Alvarez,Hugo-Alvarez,6f392eb8,es ESP,DF,Tenerife
+7742.0,Juan Carlos,/en/players/82803509/Juan-Carlos,Juan-Carlo,82803509,es ESP,"FW,MF",Tenerife
+7743.0,Diop,/en/players/6bcd5f78/Diop,Dio,6bcd5f78,sn SEN,MF,Tenerife
+7744.0,Víctor García Marín,/en/players/cec64412/Victor-Garcia-Marin,Victor-Garcia-Mari,cec64412,es ESP,"DF,FW",Tenerife
+7745.0,Santi Luque,/en/players/5525a479/Santi-Luque,Santi-Luqu,5525a479,es ESP,MF,Tenerife
+7746.0,Jordan McCourt,/en/players/491c3094/Jordan-McCourt,Jordan-McCourt,491c3094,eng ENG,MF,Tenerife
+7747.0,Nahuel Omiliani,/en/players/9f511fbe/Nahuel-Omiliani,Nahuel-Omiliani,9f511fbe,es ESP,DF,Tenerife
+7748.0,Ángel Rodríguez,/en/players/70eaa565/Angel-Rodriguez,Angel-Rodriguez,70eaa565,es ESP,GK,Tenerife
+7749.0,Germán Sánchez,/en/players/ea9b2ef9/German-Sanchez,German-Sanchez,9b2ef9,es ESP,DF,Tenerife
+7750.0,Anthony Lozano,/en/players/38699c72/Anthony-Lozano,Anthony-Lozano,38699c72,hn HON,FW,Tenerife
+7751.0,Saúl García,/en/players/dafa5038/Saul-Garcia,Saul-Garci,dafa5038,es ESP,DF,Tenerife
+7752.0,Jon Aurtenetxe,/en/players/74b0e3ce/Jon-Aurtenetxe,Jon-Aurtenetx,74b0e3ce,es ESP,DF,Tenerife
+7753.0,Cristian García Ramos,/en/players/73620865/Cristian-Garcia-Ramos,Cristian-Garcia-Ramo,73620865,es ESP,DF,Tenerife
+7754.0,Pedro Martín,/en/players/99ee29b5/Pedro-Martin,Pedro-Marti,99ee29b5,es ESP,FW,Tenerife
+7755.0,Thierry Moutinho,/en/players/8e928063/Thierry-Moutinho,Thierry-Moutinho,8e928063,pt POR,MF,Tenerife
+7756.0,Javi Lara,/en/players/bd1babf1/Javi-Lara,Javi-L,bd1babf1,es ESP,MF,Tenerife
+7757.0,Jairo Izquierdo,/en/players/2ceb58ab/Jairo-Izquierdo,Jairo-Izquierdo,2ceb58ab,es ESP,"DF,MF",Tenerife
+7758.0,Tomás Martínez,/en/players/cc6cf17f/Tomas-Martinez,Tomas-Martinez,cc6cf17f,ar ARG,MF,Tenerife
+7759.0,Nadjib Mengoud,/en/players/76a0447c/Nadjib-Mengoud,Nadjib-Mengoud,76a0447c,es ESP,MF,Tenerife
+7760.0,Ale González,/en/players/b838a91b/Ale-Gonzalez,Ale-Gonzalez,b838a91b,es ESP,MF,Tenerife
+7761.0,Rafa Álvarez,/en/players/11afb1e8/Rafa-Alvarez,Rafa-Alvarez,11afb1e8,es ESP,DF,Tenerife
+7762.0,Ángel Jesús Galván Rivero,/en/players/a56e25bb/Angel-Jesus-Galvan-Rivero,Angel-Jesus-Galvan-Rivero,56e25bb,es ESP,GK,Tenerife
+7763.0,Amath,/en/players/f3b1d9a2/Amath,Amath,f3b1d9a2,sn SEN,"FW,MF",Tenerife
+7764.0,Samuel Camille,/en/players/5279c822/Samuel-Camille,Samuel-Cami,5279c822,mq MTQ,DF,Tenerife
+7765.0,Aarón Ñíguez,/en/players/5d720396/Aaron-Niguez,Aaron-Niguez,5d720396,es ESP,MF,Tenerife
+7766.0,Iñaki Sáenz,/en/players/975dd5ae/Inaki-Saenz,Inaki-Saenz,975dd5ae,es ESP,DF,Tenerife
+7767.0,Marc Crosas,/en/players/042adadc/Marc-Crosas,Marc-Cro,042adadc,es ESP,MF,Tenerife
+7768.0,Gaku Shibasaki,/en/players/d2ac648c/Gaku-Shibasaki,Gaku-Shibasaki,d2ac648c,jp JPN,MF,Tenerife
+7769.0,Tyronne,/en/players/f76bbf9c/Tyronne,Tyro,f76bbf9c,es ESP,MF,Tenerife
+7770.0,Ismael Falcón,/en/players/5d2574f2/Ismael-Falcon,Ismael-Falco,5d2574f2,es ESP,GK,Tenerife
+7771.0,Álex García,/en/players/0c38a124/Alex-Garcia,Alex-Garci,0c38a124,es ESP,MF,Tenerife
+7772.0,Haythem Jouini,/en/players/9943dcc4/Haythem-Jouini,Haythem-Jouini,9943dcc4,tn TUN,FW,Tenerife
+7773.0,Edu Oriol,/en/players/94c9f17a/Edu-Oriol,Edu-Orio,94c9f17a,es ESP,"DF,MF",Tenerife
+7774.0,Rachid Aït-Atmane,/en/players/539b773e/Rachid-Ait-Atmane,Rachid-Ait-Atm,539b773e,dz ALG,MF,Tenerife
+7775.0,Roberto Bolaños,/en/players/b9c04db1/Roberto-Bolanos,Roberto-Bolano,b9c04db1,es ESP,MF,Tenerife
+7776.0,Giovanni,/en/players/c604a289/Giovanni,Giovanni,c604a289,es ESP,FW,Tenerife
+7777.0,Óscar González,/en/players/034d89a1/Oscar-Gonzalez,Oscar-Gonzalez,034d89a1,es ESP,DF,Tenerife
+7778.0,Darixon Vuelto,/en/players/3fe0e991/Darixon-Vuelto,Darixon-Vuelto,3fe0e991,hn HON,MF,Tenerife
+7779.0,Lucas Aveldaño,/en/players/d120357b/Lucas-Aveldano,Lucas-Aveldano,d120357b,ar ARG,DF,Tenerife
+7780.0,Luis Pérez,/en/players/b7c04927/Luis-Perez,Luis-Perez,b7c04927,es ESP,DF,Tenerife
+7781.0,Bryan Acosta,/en/players/c5f400f4/Bryan-Acosta,Bryan-Acost,c5f400f4,hn HON,"MF,FW",Tenerife
+7782.0,Víctor Casadesús,/en/players/73cd0a2a/Victor-Casadesus,Victor-Casadesu,73cd0a2a,es ESP,"FW,MF",Tenerife
+7783.0,Samuele Longo,/en/players/1163de29/Samuele-Longo,Samuele-Longo,1163de29,it ITA,FW,Tenerife
+7784.0,Filip Malbašić,/en/players/04981123/Filip-Malbasic,Filip-Malbasic,04981123,rs SRB,"FW,MF",Tenerife
+7785.0,Luis Milla,/en/players/19c36442/Luis-Milla,Luis-Mi,19c36442,es ESP,MF,Tenerife
+7786.0,Juan Villar,/en/players/c33ee247/Juan-Villar,Juan-Vi,c33ee247,es ESP,"MF,FW",Tenerife
+7787.0,Álex Mula,/en/players/bd207a4d/Alex-Mula,Alex-Mu,bd207a4d,es ESP,MF,Tenerife
+7788.0,Paco Montañés,/en/players/9cc493b1/Paco-Montanes,Paco-Mont,9cc493b1,es ESP,MF,Tenerife
+7789.0,Borja Llarena,/en/players/91906c4b/Borja-Llarena,Borja-L,91906c4b,es ESP,FW,Tenerife
+7790.0,Samuel Arbelo,/en/players/89f3ec04/Samuel-Arbelo,Samuel-Arbelo,89f3ec04,es ESP,MF,Tenerife
+7791.0,Brian Torres,/en/players/900ad6fc/Brian-Torres,Brian-To,900ad6fc,es ESP,MF,Tenerife
+7792.0,Naranjo,/en/players/2a70c756/Naranjo,Naranjo,2a70c756,es ESP,"MF,FW",Tenerife
+7793.0,Iker Undabarrena,/en/players/ed21e2f8/Iker-Undabarrena,Iker-Undab,d21e2f8,es ESP,MF,Tenerife
+7794.0,Uroš Račić,/en/players/faed84db/Uros-Racic,Uros-Racic,faed84db,rs SRB,MF,Tenerife
+7795.0,Héctor Hernández,/en/players/76ee80ee/Hector-Hernandez,Hector-Hernandez,76ee80ee,es ESP,DF,Tenerife
+7796.0,Borja Lasso,/en/players/d9faee7e/Borja-Lasso,Borja-Lasso,d9faee7e,es ESP,"MF,FW",Tenerife
+7797.0,Isma López,/en/players/e644a7f5/Isma-Lopez,Isma-Lopez,644a7f5,es ESP,"DF,MF",Tenerife
+7798.0,Fernando Coniglio,/en/players/ea5d0211/Fernando-Coniglio,Fernando-Coniglio,5d0211,ar ARG,FW,Tenerife
+7799.0,Joao Rodríguez,/en/players/84b7c924/Joao-Rodriguez,Joao-Rodriguez,84b7c924,co COL,MF,Tenerife
+7800.0,Javier Alonso,/en/players/63e79610/Javier-Alonso,Javier-Alonso,63e79610,es ESP,MF,Tenerife
+7801.0,Shaaban Iddi,/en/players/0e4c8086/Shaaban-Iddi,Shaaban-Iddi,0e4c8086,tz TAN,FW,Tenerife
+7802.0,Otaño,/en/players/f70db755/Otano,Otano,f70db755,es ESP,GK,Tenerife
+7803.0,﻿Adrián Ortolá,/en/players/6a22fe38/Adrian-Ortola,Adrian-Orto,6a22fe38,es ESP,GK,Tenerife
+7804.0,Álex Muñoz,/en/players/853f211e/Alex-Munoz,Alex-Munoz,853f211e,es ESP,DF,Tenerife
+7805.0,Dani Gómez,/en/players/0e5ddc7c/Dani-Gomez,Dani-Gomez,0e5ddc7c,es ESP,FW,Tenerife
+7806.0,Nikola Šipčić,/en/players/75b7058f/Nikola-Sipcic,Nikola-Sipcic,75b7058f,me MNE,DF,Tenerife
+7807.0,Shaquell Moore,/en/players/3b9f859b/Shaquell-Moore,Shaquell-Moo,3b9f859b,us USA,"MF,DF",Tenerife
+7808.0,Matías Nahuel,/en/players/48e4c485/Matias-Nahuel,Matias-Nahu,48e4c485,es ESP,MF,Tenerife
+7809.0,Álex Bermejo,/en/players/d9b180dd/Alex-Bermejo,Alex-Bermejo,d9b180dd,es ESP,MF,Tenerife
+7810.0,Róbert Mazáň,/en/players/30672832/Robert-Mazan,Robert-Maz,30672832,sk SVK,DF,Tenerife
+7811.0,Lluis López,/en/players/a685f013/Lluis-Lopez,Lluis-Lopez,685f013,es ESP,"DF,MF",Tenerife
+7812.0,Daniel Lasure,/en/players/b74d54d6/Daniel-Lasure,Daniel-Lasu,b74d54d6,es ESP,"MF,DF",Tenerife
+7813.0,Ramón Mierez,/en/players/44c16979/Ramon-Mierez,Ramon-Mierez,44c16979,ar ARG,FW,Tenerife
+7814.0,Javier Muñoz,/en/players/ec7c84c2/Javier-Munoz,Javier-Munoz,c7c84c2,es ESP,"MF,FW",Tenerife
+7815.0,Jorge Padilla,/en/players/e4c7d4bb/Jorge-Padilla,Jorge-Padi,4c7d4bb,es ESP,FW,Tenerife
+7816.0,Elliot Gómez,/en/players/34395370/Elliot-Gomez,Elliot-Gomez,34395370,es ESP,MF,Tenerife
+7817.0,Mauro dos Santos,/en/players/ec699fdd/Mauro-dos-Santos,Mauro-dos-Santo,c699fdd,ar ARG,DF,Tenerife
+7818.0,Fran Sol,/en/players/9bd3b683/Fran-Sol,Fran-So,9bd3b683,es ESP,FW,Tenerife
+7819.0,Nono,/en/players/13289422/Nono,Nono,13289422,es ESP,MF,Tenerife
+7820.0,Valentín Vada,/en/players/dcf7cf44/Valentin-Vada,Valentin-Vad,dcf7cf44,ar ARG,"MF,FW",Tenerife
+7821.0,Carlos Pomares Rayo,/en/players/43742e87/Carlos-Pomares-Rayo,Carlos-Pomares-Rayo,43742e87,es ESP,"DF,MF",Tenerife
+7822.0,Bruno Wilson,/en/players/965fc36d/Bruno-Wilson,Bruno-Wilso,965fc36d,pt POR,DF,Tenerife
+7823.0,Jorge Zarfino,/en/players/0841f1d8/Jorge-Zarfino,Jorge-Zarfino,0841f1d8,uy URU,"MF,FW",Tenerife
+7824.0,Samuel Shashoua,/en/players/df855e4b/Samuel-Shashoua,Samuel-Shashou,df855e4b,eng ENG,"FW,MF",Tenerife
+7825.0,Emmanuel Apeh,/en/players/a230ebcc/Emmanuel-Apeh,Emmanuel-Apeh,230ebcc,ng NGA,FW,Tenerife
+7826.0,Otar Kakabadze,/en/players/2ea12fc4/Otar-Kakabadze,Otar-Kakabadz,2ea12fc4,ge GEO,DF,Tenerife
+7827.0,Sergio González,/en/players/5dd16ace/Sergio-Gonzalez,Sergio-Gonzalez,5dd16ace,es ESP,"DF,MF",Tenerife
+7828.0,Germán Valera,/en/players/84f55b4a/German-Valera,German-V,84f55b4a,es ESP,MF,Tenerife
+7829.0,Joselu,/en/players/a5e9c273/Joselu,Joselu,5e9c273,es ESP,FW,Tenerife
+7830.0,Jacobo,/en/players/09e81276/Jacobo,Jacobo,09e81276,es ESP,"MF,FW",Tenerife
+7831.0,Jon Ander Serantes,/en/players/983ccabe/Jon-Ander-Serantes,Jon-Ander-Serant,983ccabe,es ESP,GK,Tenerife
+7832.0,Felix,/en/players/6dfbdb96/Felix,Felix,6dfbdb96,es ESP,MF,Tenerife
+7833.0,Ale Cruz,/en/players/dcbeeb2c/Ale-Cruz,Ale-Cruz,dcbeeb2c,es ESP,MF,Tenerife
+7834.0,Dylan,/en/players/e5e8bada/Dylan,D,5e8bada,es ESP,MF,Tenerife
+7835.0,Omar Jaiteh,/en/players/970bf5b7/Omar-Jaiteh,Omar-Jaiteh,970bf5b7,gm GAM,DF,Tenerife
+7836.0,Alejandro Medina,/en/players/f3df0647/Alejandro-Medina,Alejandro-Medi,f3df0647,es ESP,GK,Tenerife
+7837.0,Víctor Méndez,/en/players/d97e276a/Victor-Mendez,Victor-Mendez,d97e276a,es ESP,GK,Tenerife
+7838.0,David Rodríguez,/en/players/f0cde899/David-Rodriguez,David-Rodriguez,f0cde899,es ESP,DF,Tenerife
+7839.0,Jeremy Socorro,/en/players/5d20654f/Jeremy-Socorro,Jeremy-Socorro,5d20654f,es ESP,DF,Tenerife
+7840.0,﻿Juan Soriano,/en/players/5512b1a9/Juan-Soriano,Juan-Soriano,5512b1a9,es ESP,GK,Tenerife
+7841.0,Elady Zorrilla,/en/players/8862695f/Elady-Zorrilla,Elady-Zorri,8862695f,es ESP,"FW,MF",Tenerife
+7842.0,José León Bernal,/en/players/bea8d8b7/Jose-Leon-Bernal,Jose-Leon-B,bea8d8b7,es ESP,DF,Tenerife
+7843.0,Álex Corredera,/en/players/b3a2168d/Alex-Corredera,Alex-Corred,b3a2168d,es ESP,MF,Tenerife
+7844.0,Jérémy Mellot,/en/players/5fa69055/Jeremy-Mellot,Jeremy-Mellot,5fa69055,fr FRA,DF,Tenerife
+7845.0,Enric Gallego,/en/players/82e9b89d/Enric-Gallego,Enric-Gallego,82e9b89d,es ESP,FW,Tenerife
+7846.0,Victor Mollejo,/en/players/23fffc06/Victor-Mollejo,Victor-Mollejo,23fffc06,es ESP,"MF,FW",Tenerife
+7847.0,Míchel,/en/players/418f8f61/Michel,Mich,418f8f61,es ESP,MF,Tenerife
+7848.0,Jamelli,/en/players/57a6fd07/Jamelli,Jamelli,57a6fd07,es ESP,MF,Tenerife
+7849.0,Mario González,/en/players/d189e48f/Mario-Gonzalez,Mario-Gonzalez,d189e48f,es ESP,FW,Tenerife
+7850.0,Pablo Larrea,/en/players/a4c8810b/Pablo-Larrea,Pablo-L,4c8810b,es ESP,MF,Tenerife
+7851.0,Andrés Martín,/en/players/2ae30661/Andres-Martin,Andres-Marti,2ae30661,es ESP,MF,Tenerife
+7852.0,Etyan,/en/players/894559b1/Etyan,Et,894559b1,es ESP,FW,Tenerife
+7853.0,Thierno Barry,/en/players/a49d9743/Thierno-Barry,Thierno-B,49d9743,gn GUI,FW,Tenerife
+7854.0,Teto,/en/players/8dbf0e8f/Teto,Teto,8dbf0e8f,es ESP,FW,Tenerife

@@ -1,585 +1,585 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Baiano,br BRA,"DF,MF",35,34,10.0,6.0,2002-2003,26a7618d,Las-Palmas,"2,711",30.1,13.0,1.0,74.0,2.0,5386.0,Las-Palmas
-,Rubén Castro,es ESP,"FW,MF",40,32,2.0,9.0,2002-2003,d109f62b,Las-Palmas,"3,100",34.4,4.0,0.0,74.0,1.0,,Las-Palmas
-,Alberto Monteagudo,es ESP,MF,37,32,1.0,2.0,2002-2003,f8a40b,Las-Palmas,"2,847",31.6,10.0,0.0,74.0,1.0,,Las-Palmas
-,Álvaro,br BRA,DF,31,30,1.0,1.0,2002-2003,3bb76c65,Las-Palmas,"2,728",30.3,4.0,0.0,74.0,2.0,,Las-Palmas
-,Javi Martel,es ESP,DF,36,29,1.0,0.0,2002-2003,f5db3525,Las-Palmas,"2,634",29.3,5.0,1.0,74.0,1.0,5387.0,Las-Palmas
-,Gustavo Reggi,ar ARG,FW,37,28,3.0,12.0,2002-2003,877bbcf1,Las-Palmas,"2,566",28.5,6.0,0.0,74.0,5.0,,Las-Palmas
-,Carmelo González,es ESP,MF,31,27,3.0,3.0,2002-2003,27f4e837,Las-Palmas,"2,063",22.9,7.0,0.0,74.0,1.0,,Las-Palmas
-,Pedro Vega,es ESP,MF,35,24,5.0,5.0,2002-2003,c634a0,Las-Palmas,"2,193",24.4,3.0,0.0,74.0,1.0,,Las-Palmas
-,José Antonio,es ESP,DF,31,24,0.0,0.0,2002-2003,1b47d18,Las-Palmas,"2,176",24.2,8.0,2.0,74.0,1.0,,Las-Palmas
-,Marc Bernaus,ad AND,DF,27,24,0.0,0.0,2002-2003,761ecc1f,Las-Palmas,"1,958",21.8,10.0,0.0,74.0,96.0,,Las-Palmas
-,Bo Braastrup Andersen,dk DEN,GK,23,23,0.0,0.0,2002-2003,1947dd0d,Las-Palmas,"2,070",23.0,1.0,0.0,74.0,7.0,5388.0,Las-Palmas
-,Ildefons Lima,ad AND,DF,22,20,0.0,2.0,2002-2003,4f64f08,Las-Palmas,"1,826",20.3,5.0,2.0,74.0,96.0,5389.0,Las-Palmas
-,Diego Trotta,ar ARG,DF,18,18,0.0,1.0,2002-2003,7ec1faf,Las-Palmas,"1,575",17.5,4.0,0.0,74.0,5.0,,Las-Palmas
-,Mario Cotelo,es ESP,MF,18,18,0.0,1.0,2002-2003,bb049a1f,Las-Palmas,"1,457",16.2,7.0,1.0,74.0,1.0,,Las-Palmas
-,Ángel López,es ESP,"DF,MF",17,17,2.0,1.0,2002-2003,93cdc601,Las-Palmas,"1,461",16.2,4.0,1.0,74.0,1.0,,Las-Palmas
-,Orlando Suárez,es ESP,FW,29,17,1.0,7.0,2002-2003,d1316be,Las-Palmas,"1,440",16.0,1.0,0.0,74.0,1.0,5390.0,Las-Palmas
-,Orlando Quintana,es ESP,GK,15,15,0.0,0.0,2002-2003,bdb7b026,Las-Palmas,"1,350",15.0,2.0,0.0,74.0,1.0,,Las-Palmas
-,Álex,es ESP,MF,14,14,1.0,0.0,2002-2003,4512fa60,Las-Palmas,"1,102",12.2,2.0,0.0,74.0,1.0,5391.0,Las-Palmas
-,Tomás Hervás,es ESP,MF,13,13,2.0,1.0,2002-2003,9f1f6292,Las-Palmas,"1,093",12.1,2.0,1.0,74.0,1.0,,Las-Palmas
-,Alberto,es ESP,MF,18,10,0.0,0.0,2002-2003,cbd5eb5f,Las-Palmas,997,11.1,3.0,0.0,74.0,1.0,,Las-Palmas
-,Edier Frejd,se SWE,DF,5,4,0.0,0.0,2002-2003,7727127b,Las-Palmas,319,3.5,2.0,0.0,74.0,41.0,5392.0,Las-Palmas
-,Nauzet Yeray,,,3,3,0.0,0.0,2002-2003,,Las-Palmas,270,3.0,1.0,0.0,74.0,,,Las-Palmas
-,Angel Sanchez Armas,,,12,2,0.0,1.0,2002-2003,c4ed530,Las-Palmas,343,3.8,4.0,1.0,74.0,,,Las-Palmas
-,Alain N'Kong,cm CMR,"FW,MF",11,1,0.0,1.0,2002-2003,bc8192a1,Las-Palmas,362,4.0,1.0,0.0,74.0,36.0,5393.0,Las-Palmas
-,Rafael Maceratesi,ar ARG,FW,9,1,2.0,0.0,2002-2003,97868bb0,Las-Palmas,269,3.0,1.0,0.0,74.0,5.0,5394.0,Las-Palmas
-,Željko Cicović,rs SRB,GK,1,1,0.0,0.0,2002-2003,62803fde,Las-Palmas,90,1.0,0.0,0.0,74.0,28.0,5395.0,Las-Palmas
-,José Silvano,es ESP,MF,1,1,0.0,0.0,2002-2003,735acbb,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,5396.0,Las-Palmas
-,Juan Carlos Socorro,ve VEN,MF,3,0,1.0,0.0,2002-2003,45588437,Las-Palmas,94,1.0,0.0,0.0,74.0,53.0,5397.0,Las-Palmas
-,Diogo Maria,,,3,0,0.0,0.0,2002-2003,,Las-Palmas,70,0.8,0.0,0.0,74.0,,,Las-Palmas
-,Momo,es ESP,MF,4,0,0.0,0.0,2002-2003,9857e65d,Las-Palmas,42,0.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,David González,es ESP,MF,2,0,0.0,0.0,2002-2003,d65705c4,Las-Palmas,29,0.3,0.0,0.0,74.0,1.0,,Las-Palmas
-,Jaime Borja,,,1,0,0.0,0.0,2002-2003,,Las-Palmas,24,0.3,0.0,0.0,74.0,,,Las-Palmas
-,Miguel Ángel Molina,pe PER,FW,2,0,0.0,0.0,2002-2003,f0a68573,Las-Palmas,22,0.2,0.0,0.0,74.0,57.0,5398.0,Las-Palmas
-,Jose Augusto,,,2,0,0.0,0.0,2002-2003,,Las-Palmas,20,0.2,0.0,0.0,74.0,,,Las-Palmas
-,Anibal Abrante,,,1,0,0.0,0.0,2002-2003,,Las-Palmas,1,0.0,0.0,0.0,74.0,,,Las-Palmas
-,﻿Rubén Castro,es ESP,"FW,MF",40,40,6.0,21.0,2003-2004,d109f62b,Las-Palmas,"3,550",39.4,3.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Martel,es ESP,DF,37,33,1.0,0.0,2003-2004,f5db3525,Las-Palmas,"2,920",32.4,10.0,0.0,74.0,1.0,5387.0,Las-Palmas
-,Guillermo Castro,es ESP,DF,36,33,0.0,0.0,2003-2004,7f3d2662,Las-Palmas,"2,884",32.0,13.0,0.0,74.0,1.0,5399.0,Las-Palmas
-,Tomás Hervás,es ESP,MF,32,32,4.0,1.0,2003-2004,9f1f6292,Las-Palmas,"2,697",30.0,10.0,1.0,74.0,1.0,,Las-Palmas
-,Momo,es ESP,MF,34,31,5.0,3.0,2003-2004,9857e65d,Las-Palmas,"2,551",28.3,4.0,0.0,74.0,1.0,,Las-Palmas
-,Carmelo González,es ESP,MF,35,26,5.0,4.0,2003-2004,27f4e837,Las-Palmas,"2,174",24.2,10.0,1.0,74.0,1.0,,Las-Palmas
-,Kily González,ar ARG,"FW,MF",26,24,0.0,2.0,2003-2004,69966620,Las-Palmas,"2,161",24.0,9.0,1.0,74.0,5.0,,Las-Palmas
-,Mariano Bogliacino,uy URU,MF,25,22,3.0,2.0,2003-2004,b028814,Las-Palmas,"1,913",21.3,3.0,0.0,74.0,8.0,5400.0,Las-Palmas
-,Jose Santana,,,20,19,0.0,0.0,2003-2004,,Las-Palmas,"1,561",17.3,7.0,1.0,74.0,,,Las-Palmas
-,Sanel Jahić,ba BIH,"DF,FW",19,18,0.0,3.0,2003-2004,60e95fa4,Las-Palmas,"1,633",18.1,4.0,0.0,74.0,49.0,5401.0,Las-Palmas
-,Orlando Quintana,es ESP,GK,17,16,0.0,0.0,2003-2004,bdb7b026,Las-Palmas,"1,506",16.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Alberto,es ESP,MF,18,15,0.0,0.0,2003-2004,cbd5eb5f,Las-Palmas,"1,347",15.0,5.0,0.0,74.0,1.0,,Las-Palmas
-,Jotha,es ESP,MF,15,14,1.0,0.0,2003-2004,bed4387d,Las-Palmas,"1,234",13.7,3.0,2.0,74.0,1.0,37.0,Las-Palmas
-,Željko Cicović,rs SRB,GK,13,13,0.0,0.0,2003-2004,62803fde,Las-Palmas,"1,104",12.3,0.0,0.0,74.0,28.0,5395.0,Las-Palmas
-,Gastón Sessa,ar ARG,GK,12,12,0.0,0.0,2003-2004,0a798ba0,Las-Palmas,"1,080",12.0,3.0,0.0,74.0,5.0,5402.0,Las-Palmas
-,Changui,es ESP,FW,33,11,2.0,3.0,2003-2004,5fab2c25,Las-Palmas,"1,438",16.0,3.0,0.0,74.0,1.0,,Las-Palmas
-,Nicolás Frutos,ar ARG,FW,18,10,2.0,1.0,2003-2004,0fc7518c,Las-Palmas,979,10.9,2.0,0.0,74.0,5.0,5403.0,Las-Palmas
-,Álex,es ESP,MF,11,9,0.0,0.0,2003-2004,4512fa60,Las-Palmas,847,9.4,3.0,0.0,74.0,1.0,5391.0,Las-Palmas
-,Angel Sanchez Armas,,,16,9,2.0,0.0,2003-2004,c4ed530,Las-Palmas,814,9.0,2.0,0.0,74.0,,,Las-Palmas
-,Janne Hietanen,fi FIN,DF,11,8,1.0,0.0,2003-2004,f386d256,Las-Palmas,727,8.1,1.0,0.0,74.0,83.0,5404.0,Las-Palmas
-,Paqui,es ESP,DF,10,8,0.0,0.0,2003-2004,cf8ddf0b,Las-Palmas,709,7.9,4.0,1.0,74.0,1.0,,Las-Palmas
-,Pedro Vega,es ESP,MF,29,7,0.0,3.0,2003-2004,c634a0,Las-Palmas,"1,065",11.8,1.0,0.0,74.0,1.0,,Las-Palmas
-,Matheus Vivian,br BRA,DF,8,7,0.0,1.0,2003-2004,72a87101,Las-Palmas,627,7.0,3.0,1.0,74.0,2.0,5405.0,Las-Palmas
-,Nauzet Alemán,es ESP,MF,8,7,0.0,0.0,2003-2004,4cf8242b,Las-Palmas,581,6.5,3.0,0.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,7,6,0.0,0.0,2003-2004,1250086e,Las-Palmas,528,5.9,1.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Juanma,es ESP,DF,6,6,0.0,0.0,2003-2004,396b863a,Las-Palmas,421,4.7,1.0,0.0,74.0,1.0,,Las-Palmas
-,Adrián Martín,es ESP,MF,6,6,0.0,2.0,2003-2004,53eabc97,Las-Palmas,372,4.1,0.0,0.0,74.0,1.0,,Las-Palmas
-,José Antonio,es ESP,DF,4,4,0.0,0.0,2003-2004,1b47d18,Las-Palmas,329,3.7,2.0,0.0,74.0,1.0,,Las-Palmas
-,Miguel Ángel Molina,pe PER,FW,4,3,0.0,0.0,2003-2004,f0a68573,Las-Palmas,306,3.4,0.0,0.0,74.0,57.0,5398.0,Las-Palmas
-,Aridani Arbelo,es ESP,DF,3,3,0.0,0.0,2003-2004,bc62fd29,Las-Palmas,225,2.5,0.0,0.0,74.0,1.0,5407.0,Las-Palmas
-,Ildefons Lima,ad AND,DF,3,3,0.0,0.0,2003-2004,4f64f08,Las-Palmas,223,2.5,0.0,0.0,74.0,96.0,5389.0,Las-Palmas
-,David González,es ESP,MF,8,2,0.0,0.0,2003-2004,d65705c4,Las-Palmas,295,3.3,1.0,0.0,74.0,1.0,,Las-Palmas
-,Alfonso Poncho,,,5,2,0.0,0.0,2003-2004,,Las-Palmas,266,3.0,0.0,0.0,74.0,,,Las-Palmas
-,Nauzet Yeray,,,1,1,0.0,0.0,2003-2004,,Las-Palmas,90,1.0,0.0,0.0,74.0,,,Las-Palmas
-,André Schei Lindbæk,no NOR,FW,5,0,0.0,0.0,2003-2004,198eb259,Las-Palmas,79,0.9,0.0,0.0,74.0,21.0,,Las-Palmas
-,David Medina,es ESP,MF,1,0,0.0,0.0,2003-2004,b5fc02b6,Las-Palmas,32,0.4,0.0,0.0,74.0,1.0,,Las-Palmas
-,Acorán,es ESP,MF,1,0,0.0,0.0,2003-2004,1ecac3,Las-Palmas,18,0.2,0.0,0.0,74.0,1.0,5408.0,Las-Palmas
-,﻿Marcos Márquez,es ESP,FW,37,37,2.0,21.0,2006-2007,914f774e,Las-Palmas,"3,220",35.8,7.0,1.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,35,35,2.0,2.0,2006-2007,1250086e,Las-Palmas,"3,087",34.3,8.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Aythami Artiles,es ESP,DF,32,31,1.0,1.0,2006-2007,01ae64cd,Las-Palmas,"2,803",31.1,4.0,2.0,74.0,1.0,,Las-Palmas
-,Siro Darino,ar ARG,"DF,MF",32,30,3.0,4.0,2006-2007,5a4e45be,Las-Palmas,"2,520",28.0,18.0,1.0,74.0,5.0,5409.0,Las-Palmas
-,Xabier Castillo,hr CRO,DF,31,29,2.0,0.0,2006-2007,638dc43b,Las-Palmas,"2,669",29.7,6.0,0.0,74.0,16.0,,Las-Palmas
-,Nacho Garro,es ESP,MF,33,29,0.0,2.0,2006-2007,9f6a2843,Las-Palmas,"2,476",27.5,14.0,0.0,74.0,1.0,,Las-Palmas
-,David Txiki,,,32,29,2.0,2.0,2006-2007,9c1b1fe2,Las-Palmas,"2,293",25.5,7.0,0.0,74.0,,,Las-Palmas
-,Roberto Trashorras,es ESP,MF,30,28,6.0,8.0,2006-2007,5252fdf5,Las-Palmas,"2,539",28.2,11.0,0.0,74.0,1.0,,Las-Palmas
-,Ángel Pindado,es ESP,GK,26,26,0.0,0.0,2006-2007,6b44da65,Las-Palmas,"2,340",26.0,5.0,0.0,74.0,1.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,29,21,8.0,1.0,2006-2007,4cf8242b,Las-Palmas,"1,814",20.2,15.0,1.0,74.0,1.0,,Las-Palmas
-,Juanma,es ESP,DF,24,20,2.0,4.0,2006-2007,396b863a,Las-Palmas,"1,637",18.2,8.0,0.0,74.0,1.0,,Las-Palmas
-,Ione Cabrera,es ESP,DF,25,19,0.0,0.0,2006-2007,1b97b7c,Las-Palmas,"1,784",19.8,9.0,0.0,74.0,1.0,5410.0,Las-Palmas
-,Víctor Afonso,es ESP,DF,21,19,1.0,1.0,2006-2007,43946a7f,Las-Palmas,"1,693",18.8,5.0,0.0,74.0,1.0,5411.0,Las-Palmas
-,Miguel Cobas,es ESP,MF,23,18,0.0,1.0,2006-2007,86244575,Las-Palmas,"1,633",18.1,9.0,1.0,74.0,1.0,,Las-Palmas
-,Nacho González,ar ARG,GK,16,16,0.0,0.0,2006-2007,0c99d0e9,Las-Palmas,"1,439",16.0,0.0,1.0,74.0,5.0,5412.0,Las-Palmas
-,Juan Viyuela,es ESP,MF,26,13,1.0,0.0,2006-2007,888234e9,Las-Palmas,"1,321",14.7,3.0,0.0,74.0,1.0,,Las-Palmas
-,David González,es ESP,MF,23,11,0.0,1.0,2006-2007,d65705c4,Las-Palmas,"1,167",13.0,7.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Martel,es ESP,DF,13,11,0.0,0.0,2006-2007,f5db3525,Las-Palmas,895,9.9,0.0,1.0,74.0,1.0,5387.0,Las-Palmas
-,Joseba Arriaga,es ESP,FW,32,10,2.0,1.0,2006-2007,5819e0da,Las-Palmas,"1,465",16.3,2.0,0.0,74.0,1.0,,Las-Palmas
-,Fredi Lobeiras,es ESP,MF,18,9,0.0,1.0,2006-2007,9e85ab41,Las-Palmas,864,9.6,3.0,0.0,74.0,1.0,,Las-Palmas
-,Roberto Losada,es ESP,FW,19,9,1.0,0.0,2006-2007,547ccdd5,Las-Palmas,745,8.3,3.0,0.0,74.0,1.0,,Las-Palmas
-,Goran Marić,es ESP,FW,9,4,0.0,0.0,2006-2007,71251e74,Las-Palmas,381,4.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Medina Aday,,,6,4,0.0,0.0,2006-2007,,Las-Palmas,320,3.6,1.0,0.0,74.0,,,Las-Palmas
-,Alberto Monteagudo,es ESP,MF,2,2,0.0,0.0,2006-2007,f8a40b,Las-Palmas,88,1.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Nacho Casanova,es ESP,FW,3,1,0.0,0.0,2006-2007,5621fc5b,Las-Palmas,137,1.5,0.0,0.0,74.0,1.0,5413.0,Las-Palmas
-,Francisco Alberoni,br BRA,MF,3,1,0.0,0.0,2006-2007,1004e28d,Las-Palmas,97,1.1,0.0,0.0,74.0,2.0,5414.0,Las-Palmas
-,Francis Suárez,es ESP,MF,1,0,0.0,0.0,2006-2007,213227f5,Las-Palmas,21,0.2,0.0,0.0,74.0,1.0,5415.0,Las-Palmas
-,﻿David García,es ESP,DF,40,40,2.0,1.0,2007-2008,1250086e,Las-Palmas,"3,584",39.8,8.0,1.0,74.0,1.0,5406.0,Las-Palmas
-,Daniel López Ramos,es ESP,DF,40,40,0.0,0.0,2007-2008,915cea2d,Las-Palmas,"3,406",37.8,7.0,0.0,74.0,1.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,36,34,1.0,3.0,2007-2008,4cf8242b,Las-Palmas,"2,812",31.2,8.0,1.0,74.0,1.0,,Las-Palmas
-,Miguel Cobas,es ESP,MF,33,32,0.0,0.0,2007-2008,86244575,Las-Palmas,"2,824",31.4,12.0,2.0,74.0,1.0,,Las-Palmas
-,Roberto Trashorras,es ESP,MF,32,32,6.0,3.0,2007-2008,5252fdf5,Las-Palmas,"2,759",30.7,6.0,1.0,74.0,1.0,,Las-Palmas
-,Marcos Márquez,es ESP,FW,32,31,4.0,15.0,2007-2008,914f774e,Las-Palmas,"2,714",30.2,8.0,1.0,74.0,1.0,,Las-Palmas
-,Siro Darino,ar ARG,"DF,MF",34,29,5.0,2.0,2007-2008,5a4e45be,Las-Palmas,"2,233",24.8,17.0,0.0,74.0,5.0,5409.0,Las-Palmas
-,Christian,es ESP,DF,23,23,2.0,4.0,2007-2008,1d5a68fe,Las-Palmas,"2,043",22.7,4.0,1.0,74.0,1.0,,Las-Palmas
-,Nacho González,ar ARG,GK,22,21,0.0,0.0,2007-2008,0c99d0e9,Las-Palmas,"1,976",22.0,4.0,0.0,74.0,5.0,5412.0,Las-Palmas
-,Samuel,es ESP,DF,21,21,0.0,0.0,2007-2008,7055133,Las-Palmas,"1,756",19.5,7.0,2.0,74.0,1.0,,Las-Palmas
-,Adrián Colunga,es ESP,"FW,MF",33,20,2.0,13.0,2007-2008,2212dd4e,Las-Palmas,"2,185",24.3,5.0,0.0,74.0,1.0,,Las-Palmas
-,Sergio Suárez,es ESP,MF,23,17,0.0,3.0,2007-2008,7c64834,Las-Palmas,"1,326",14.7,8.0,0.0,74.0,1.0,5416.0,Las-Palmas
-,Juanma,es ESP,DF,26,16,0.0,2.0,2007-2008,396b863a,Las-Palmas,"1,525",16.9,6.0,0.0,74.0,1.0,,Las-Palmas
-,Roberto Santamaría,es ESP,GK,16,16,0.0,0.0,2007-2008,bca21ef3,Las-Palmas,"1,440",16.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Juanpa,es ESP,DF,16,11,2.0,0.0,2007-2008,75ef1517,Las-Palmas,"1,117",12.4,1.0,0.0,74.0,1.0,,Las-Palmas
-,Francis Suárez,es ESP,MF,20,10,2.0,0.0,2007-2008,213227f5,Las-Palmas,928,10.3,4.0,0.0,74.0,1.0,5415.0,Las-Palmas
-,Nacho Casanova,es ESP,FW,13,7,1.0,1.0,2007-2008,5621fc5b,Las-Palmas,679,7.5,2.0,0.0,74.0,1.0,5413.0,Las-Palmas
-,David González,es ESP,MF,14,7,1.0,1.0,2007-2008,d65705c4,Las-Palmas,618,6.9,1.0,0.0,74.0,1.0,,Las-Palmas
-,Pitu,es ESP,MF,11,7,1.0,0.0,2007-2008,d6ee013,Las-Palmas,556,6.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Carlos Merino,es ESP,MF,13,6,0.0,0.0,2007-2008,443c8c9a,Las-Palmas,660,7.3,1.0,0.0,74.0,1.0,,Las-Palmas
-,Esteban González,ar ARG,MF,15,6,1.0,0.0,2007-2008,3b3381db,Las-Palmas,604,6.7,1.0,0.0,74.0,5.0,5417.0,Las-Palmas
-,Ione Cabrera,es ESP,DF,8,6,0.0,0.0,2007-2008,1b97b7c,Las-Palmas,589,6.5,5.0,0.0,74.0,1.0,5410.0,Las-Palmas
-,Capi,es ESP,DF,7,6,1.0,0.0,2007-2008,7ba110d0,Las-Palmas,555,6.2,2.0,0.0,74.0,1.0,,Las-Palmas
-,Yuri de Souza,br BRA,FW,12,6,1.0,0.0,2007-2008,75e74213,Las-Palmas,533,5.9,1.0,0.0,74.0,2.0,5418.0,Las-Palmas
-,Ángel Pindado,es ESP,GK,5,5,0.0,0.0,2007-2008,6b44da65,Las-Palmas,364,4.0,0.0,1.0,74.0,1.0,,Las-Palmas
-,Kenji Fukuda,jp JPN,FW,15,3,1.0,3.0,2007-2008,889fd1fe,Las-Palmas,436,4.8,3.0,0.0,74.0,54.0,,Las-Palmas
-,Juan Viyuela,es ESP,MF,9,3,0.0,0.0,2007-2008,888234e9,Las-Palmas,388,4.3,1.0,0.0,74.0,1.0,,Las-Palmas
-,Ruymán Hernández,es ESP,DF,7,3,0.0,0.0,2007-2008,4d598125,Las-Palmas,313,3.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,Juan Manuel Azconzábal,ar ARG,DF,2,1,0.0,0.0,2007-2008,90336cf6,Las-Palmas,163,1.8,1.0,0.0,74.0,5.0,5420.0,Las-Palmas
-,Betencor Dani,,,2,1,0.0,0.0,2007-2008,,Las-Palmas,97,1.1,0.0,0.0,74.0,,,Las-Palmas
-,Iván Benítez,es ESP,DF,1,1,0.0,0.0,2007-2008,ba34fbb2,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,5421.0,Las-Palmas
-,Alberto Monteagudo,es ESP,MF,3,1,0.0,0.0,2007-2008,f8a40b,Las-Palmas,62,0.7,1.0,0.0,74.0,1.0,,Las-Palmas
-,﻿Marcos Márquez,es ESP,FW,40,40,3.0,21.0,2008-2009,914f774e,Las-Palmas,"3,597",40.0,12.0,0.0,74.0,1.0,,Las-Palmas
-,Roberto Santamaría,es ESP,GK,39,39,0.0,0.0,2008-2009,bca21ef3,Las-Palmas,"3,510",39.0,3.0,0.0,74.0,1.0,,Las-Palmas
-,Dani López,es ESP,DF,39,37,1.0,0.0,2008-2009,da8aa199,Las-Palmas,"3,301",36.7,5.0,1.0,74.0,1.0,,Las-Palmas
-,Jorge Larena,es ESP,MF,39,37,0.0,0.0,2008-2009,3de25195,Las-Palmas,"2,952",32.8,10.0,0.0,74.0,1.0,,Las-Palmas
-,Pablo Sánchez,es ESP,"FW,MF",38,36,4.0,7.0,2008-2009,8c3fe4bb,Las-Palmas,"3,038",33.8,4.0,0.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,36,35,1.0,2.0,2008-2009,1250086e,Las-Palmas,"3,047",33.9,10.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Daniel López Ramos,es ESP,DF,35,34,1.0,0.0,2008-2009,915cea2d,Las-Palmas,"3,020",33.6,12.0,1.0,74.0,1.0,,Las-Palmas
-,Miguel García,es ESP,MF,32,32,2.0,0.0,2008-2009,4260ce15,Las-Palmas,"2,774",30.8,15.0,2.0,74.0,1.0,,Las-Palmas
-,Samuel,es ESP,DF,32,31,0.0,1.0,2008-2009,7055133,Las-Palmas,"2,681",29.8,11.0,3.0,74.0,1.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,30,30,3.0,5.0,2008-2009,4cf8242b,Las-Palmas,"2,406",26.7,15.0,1.0,74.0,1.0,,Las-Palmas
-,Juanpa,es ESP,DF,26,26,0.0,1.0,2008-2009,75ef1517,Las-Palmas,"2,295",25.5,5.0,0.0,74.0,1.0,,Las-Palmas
-,Siro Darino,ar ARG,"DF,MF",31,21,3.0,1.0,2008-2009,5a4e45be,Las-Palmas,"2,010",22.3,8.0,1.0,74.0,5.0,5409.0,Las-Palmas
-,Sergio Suárez,es ESP,MF,20,12,1.0,0.0,2008-2009,7c64834,Las-Palmas,938,10.4,4.0,0.0,74.0,1.0,5416.0,Las-Palmas
-,Saúl Berjón,es ESP,"FW,MF",36,9,2.0,5.0,2008-2009,59e3e14b,Las-Palmas,"1,387",15.4,1.0,0.0,74.0,1.0,,Las-Palmas
-,Gerardo,es ESP,"FW,MF",24,9,0.0,1.0,2008-2009,4d29f614,Las-Palmas,978,10.9,7.0,0.0,74.0,1.0,,Las-Palmas
-,Pitu,es ESP,MF,13,8,0.0,1.0,2008-2009,d6ee013,Las-Palmas,673,7.5,5.0,0.0,74.0,1.0,,Las-Palmas
-,Francis Suárez,es ESP,MF,10,5,1.0,0.0,2008-2009,213227f5,Las-Palmas,367,4.1,2.0,0.0,74.0,1.0,5415.0,Las-Palmas
-,Gustavo,es ESP,MF,7,4,0.0,0.0,2008-2009,9a555f42,Las-Palmas,349,3.9,3.0,0.0,74.0,1.0,5422.0,Las-Palmas
-,Salomón Rondón,ve VEN,FW,10,3,0.0,0.0,2008-2009,b318a643,Las-Palmas,385,4.3,1.0,0.0,74.0,53.0,,Las-Palmas
-,Amaral,br BRA,DF,7,3,1.0,0.0,2008-2009,f491cca7,Las-Palmas,326,3.6,2.0,0.0,74.0,2.0,5423.0,Las-Palmas
-,Ángel Pindado,es ESP,GK,3,3,0.0,0.0,2008-2009,6b44da65,Las-Palmas,270,3.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Miguel Cobas,es ESP,MF,2,2,0.0,0.0,2008-2009,86244575,Las-Palmas,180,2.0,1.0,0.0,74.0,1.0,,Las-Palmas
-,Ruymán Hernández,es ESP,DF,2,2,0.0,0.0,2008-2009,4d598125,Las-Palmas,168,1.9,0.0,0.0,74.0,1.0,,Las-Palmas
-,Ione Cabrera,es ESP,DF,2,2,0.0,0.0,2008-2009,1b97b7c,Las-Palmas,90,1.0,2.0,0.0,74.0,1.0,5410.0,Las-Palmas
-,David González,es ESP,MF,23,1,0.0,0.0,2008-2009,d65705c4,Las-Palmas,442,4.9,3.0,0.0,74.0,1.0,,Las-Palmas
-,Iban Iyanga,gq EQG,"DF,FW",1,1,0.0,0.0,2008-2009,3985fc6,Las-Palmas,68,0.8,0.0,0.0,74.0,10.0,5424.0,Las-Palmas
-,Armiche Ortega,es ESP,"FW,MF",2,0,0.0,0.0,2008-2009,1f828e72,Las-Palmas,81,0.9,0.0,0.0,74.0,1.0,5425.0,Las-Palmas
-,Vicente Gómez,es ESP,MF,1,0,0.0,0.0,2008-2009,cefb32b1,Las-Palmas,15,0.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Juanpe,es ESP,DF,1,0,0.0,0.0,2008-2009,1633fc8a,Las-Palmas,14,0.2,0.0,0.0,74.0,1.0,,Las-Palmas
-,﻿David García,es ESP,DF,39,39,0.0,0.0,2009-2010,1250086e,Las-Palmas,"3,459",38.4,15.0,2.0,74.0,1.0,5406.0,Las-Palmas
-,Álvaro Cejudo,es ESP,MF,34,33,0.0,5.0,2009-2010,39b23eb,Las-Palmas,"2,566",28.5,7.0,0.0,74.0,1.0,,Las-Palmas
-,Juanpa,es ESP,DF,33,31,2.0,2.0,2009-2010,75ef1517,Las-Palmas,"2,709",30.1,5.0,0.0,74.0,1.0,,Las-Palmas
-,Stéphane Pignol,fr FRA,DF,31,31,1.0,0.0,2009-2010,ca3ae27c,Las-Palmas,"2,656",29.5,14.0,3.0,74.0,4.0,,Las-Palmas
-,Salomón Rondón,ve VEN,FW,36,30,2.0,10.0,2009-2010,b318a643,Las-Palmas,"2,649",29.4,5.0,1.0,74.0,53.0,,Las-Palmas
-,Miguel García,es ESP,MF,31,28,4.0,1.0,2009-2010,4260ce15,Las-Palmas,"2,535",28.2,13.0,1.0,74.0,1.0,,Las-Palmas
-,Jorge Larena,es ESP,MF,29,22,3.0,2.0,2009-2010,3de25195,Las-Palmas,"1,816",20.2,9.0,0.0,74.0,1.0,,Las-Palmas
-,Ángel Pindado,es ESP,GK,22,21,0.0,0.0,2009-2010,6b44da65,Las-Palmas,"1,948",21.6,3.0,0.0,74.0,1.0,,Las-Palmas
-,Fabián Assmann,ar ARG,GK,21,21,0.0,0.0,2009-2010,151bb523,Las-Palmas,"1,832",20.4,1.0,0.0,74.0,5.0,5426.0,Las-Palmas
-,David González,es ESP,MF,26,20,0.0,1.0,2009-2010,d65705c4,Las-Palmas,"1,885",20.9,3.0,1.0,74.0,1.0,,Las-Palmas
-,Andrés Lamas,uy URU,DF,22,20,2.0,4.0,2009-2010,4b204e6d,Las-Palmas,"1,849",20.5,6.0,1.0,74.0,8.0,,Las-Palmas
-,Javi Guerrero,es ESP,FW,30,20,4.0,11.0,2009-2010,bd4345ec,Las-Palmas,"1,820",20.2,4.0,0.0,74.0,1.0,,Las-Palmas
-,Marcos Márquez,es ESP,FW,34,19,5.0,3.0,2009-2010,914f774e,Las-Palmas,"2,025",22.5,2.0,1.0,74.0,1.0,,Las-Palmas
-,Saúl Berjón,es ESP,"FW,MF",28,18,1.0,3.0,2009-2010,59e3e14b,Las-Palmas,"1,726",19.2,4.0,0.0,74.0,1.0,,Las-Palmas
-,Grégory Béranger,fr FRA,DF,18,18,0.0,0.0,2009-2010,3dac0268,Las-Palmas,"1,548",17.2,10.0,0.0,74.0,4.0,,Las-Palmas
-,Dani López,es ESP,DF,17,16,1.0,0.0,2009-2010,da8aa199,Las-Palmas,"1,472",16.4,4.0,0.0,74.0,1.0,,Las-Palmas
-,Siro Darino,ar ARG,"DF,MF",23,13,3.0,1.0,2009-2010,5a4e45be,Las-Palmas,"1,304",14.5,10.0,0.0,74.0,5.0,5409.0,Las-Palmas
-,Diego León,es ESP,MF,22,12,2.0,1.0,2009-2010,457cdc9c,Las-Palmas,"1,184",13.2,3.0,0.0,74.0,1.0,5427.0,Las-Palmas
-,Samuel,es ESP,DF,13,10,0.0,0.0,2009-2010,7055133,Las-Palmas,929,10.3,5.0,0.0,74.0,1.0,,Las-Palmas
-,Francis Suárez,es ESP,MF,19,10,0.0,1.0,2009-2010,213227f5,Las-Palmas,916,10.2,3.0,0.0,74.0,1.0,5415.0,Las-Palmas
-,Sergio Suárez,es ESP,MF,20,9,2.0,3.0,2009-2010,7c64834,Las-Palmas,800,8.9,6.0,0.0,74.0,1.0,5416.0,Las-Palmas
-,Josico,es ESP,"FW,MF",12,9,0.0,0.0,2009-2010,1d2fe5a5,Las-Palmas,625,6.9,3.0,0.0,74.0,1.0,,Las-Palmas
-,Antonio Guayre,es ESP,"FW,MF",16,7,0.0,1.0,2009-2010,82cf603f,Las-Palmas,601,6.7,1.0,0.0,74.0,1.0,,Las-Palmas
-,Armiche Ortega,es ESP,"FW,MF",4,4,0.0,0.0,2009-2010,1f828e72,Las-Palmas,293,3.3,0.0,0.0,74.0,1.0,5425.0,Las-Palmas
-,Pollo,es ESP,MF,1,1,0.0,0.0,2009-2010,21f9971,Las-Palmas,66,0.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Pedro Vega,es ESP,MF,4,0,0.0,0.0,2009-2010,c634a0,Las-Palmas,132,1.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,﻿Mariano Barbosa,ar ARG,GK,39,39,0.0,0.0,2010-2011,d4f74f,Las-Palmas,"3,480",38.7,3.0,0.0,74.0,5.0,,Las-Palmas
-,David García,es ESP,DF,37,36,0.0,0.0,2010-2011,1250086e,Las-Palmas,"3,166",35.2,13.0,2.0,74.0,1.0,5406.0,Las-Palmas
-,Javi Guerrero,es ESP,FW,34,33,3.0,12.0,2010-2011,bd4345ec,Las-Palmas,"2,787",31.0,8.0,0.0,74.0,1.0,,Las-Palmas
-,Ruymán Hernández,es ESP,DF,35,32,0.0,2.0,2010-2011,4d598125,Las-Palmas,"2,932",32.6,14.0,0.0,74.0,1.0,,Las-Palmas
-,David González,es ESP,MF,32,27,1.0,2.0,2010-2011,d65705c4,Las-Palmas,"2,461",27.3,8.0,0.0,74.0,1.0,,Las-Palmas
-,Jonathan Viera,es ESP,"FW,MF",31,26,8.0,7.0,2010-2011,fa708aa,Las-Palmas,"2,358",26.2,9.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Álvarez,es ESP,DF,33,26,1.0,1.0,2010-2011,3bf6578a,Las-Palmas,"2,293",25.5,10.0,0.0,74.0,1.0,5428.0,Las-Palmas
-,Stéphane Pignol,fr FRA,DF,25,23,0.0,0.0,2010-2011,ca3ae27c,Las-Palmas,"2,142",23.8,13.0,0.0,74.0,4.0,,Las-Palmas
-,Samuel,es ESP,DF,24,23,0.0,1.0,2010-2011,7055133,Las-Palmas,"1,998",22.2,5.0,1.0,74.0,1.0,,Las-Palmas
-,Josico,es ESP,"FW,MF",25,22,0.0,2.0,2010-2011,1d2fe5a5,Las-Palmas,"1,615",17.9,8.0,0.0,74.0,1.0,,Las-Palmas
-,Sergio Suárez,es ESP,MF,28,20,2.0,6.0,2010-2011,7c64834,Las-Palmas,"1,720",19.1,12.0,0.0,74.0,1.0,5416.0,Las-Palmas
-,Vicente Gómez,es ESP,MF,26,18,1.0,0.0,2010-2011,cefb32b1,Las-Palmas,"1,770",19.7,10.0,1.0,74.0,1.0,,Las-Palmas
-,Matías Lequi,ar ARG,DF,17,17,0.0,0.0,2010-2011,dd0c806c,Las-Palmas,"1,449",16.1,5.0,2.0,74.0,5.0,,Las-Palmas
-,Pedro Vega,es ESP,MF,25,17,5.0,2.0,2010-2011,c634a0,Las-Palmas,"1,431",15.9,3.0,0.0,74.0,1.0,,Las-Palmas
-,Álvaro Cejudo,es ESP,MF,16,16,0.0,6.0,2010-2011,39b23eb,Las-Palmas,"1,302",14.5,7.0,0.0,74.0,1.0,,Las-Palmas
-,Juan Quero,es ESP,MF,17,14,3.0,0.0,2010-2011,42107bed,Las-Palmas,"1,227",13.6,0.0,0.0,74.0,1.0,,Las-Palmas
-,Vitolo,es ESP,"FW,MF",10,10,0.0,1.0,2010-2011,db750822,Las-Palmas,796,8.8,3.0,0.0,74.0,1.0,,Las-Palmas
-,Pollo,es ESP,MF,22,9,1.0,1.0,2010-2011,21f9971,Las-Palmas,961,10.7,7.0,0.0,74.0,1.0,,Las-Palmas
-,Antonio Guayre,es ESP,"FW,MF",12,8,2.0,3.0,2010-2011,82cf603f,Las-Palmas,646,7.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Jorge Larena,es ESP,MF,13,8,0.0,2.0,2010-2011,3de25195,Las-Palmas,615,6.8,2.0,0.0,74.0,1.0,,Las-Palmas
-,Armiche Ortega,es ESP,"FW,MF",22,7,1.0,1.0,2010-2011,1f828e72,Las-Palmas,937,10.4,0.0,0.0,74.0,1.0,5425.0,Las-Palmas
-,Juanpe,es ESP,DF,10,7,0.0,0.0,2010-2011,1633fc8a,Las-Palmas,684,7.6,1.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Carril,es ESP,DF,8,7,0.0,1.0,2010-2011,718167d2,Las-Palmas,596,6.6,5.0,1.0,74.0,1.0,,Las-Palmas
-,Mauro Quiroga,ar ARG,FW,22,5,0.0,5.0,2010-2011,1643c897,Las-Palmas,787,8.7,1.0,0.0,74.0,5.0,,Las-Palmas
-,Edixon Perea,co COL,FW,10,5,0.0,0.0,2010-2011,4079294e,Las-Palmas,521,5.8,1.0,0.0,74.0,19.0,5429.0,Las-Palmas
-,Ángel Pindado,es ESP,GK,4,3,0.0,0.0,2010-2011,6b44da65,Las-Palmas,300,3.3,0.0,0.0,74.0,1.0,,Las-Palmas
-,Leonardo Borzani,ar ARG,MF,3,2,0.0,0.0,2010-2011,c61d56c1,Las-Palmas,200,2.2,2.0,0.0,74.0,5.0,,Las-Palmas
-,Iban Iyanga,gq EQG,"DF,FW",5,1,0.0,0.0,2010-2011,3985fc6,Las-Palmas,142,1.6,2.0,0.0,74.0,10.0,5424.0,Las-Palmas
-,Hernán,es ESP,"DF,MF",1,1,0.0,0.0,2010-2011,8c83efb6,Las-Palmas,59,0.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Tyronne,es ESP,"FW,MF",1,0,0.0,0.0,2010-2011,f76bbf9c,Las-Palmas,16,0.2,0.0,0.0,74.0,1.0,,Las-Palmas
-,﻿Javi Castellano,es ESP,"DF,MF",41,41,2.0,0.0,2011-2012,dac68523,Las-Palmas,"3,690",41.0,10.0,0.0,74.0,1.0,,Las-Palmas
-,Stéphane Pignol,fr FRA,DF,38,37,0.0,0.0,2011-2012,ca3ae27c,Las-Palmas,"3,317",36.9,15.0,2.0,74.0,4.0,,Las-Palmas
-,Mariano Barbosa,ar ARG,GK,37,37,0.0,0.0,2011-2012,d4f74f,Las-Palmas,"3,274",36.4,2.0,1.0,74.0,5.0,,Las-Palmas
-,Vitolo,es ESP,"FW,MF",36,31,1.0,10.0,2011-2012,db750822,Las-Palmas,"2,605",28.9,12.0,0.0,74.0,1.0,,Las-Palmas
-,David González,es ESP,MF,34,30,6.0,2.0,2011-2012,d65705c4,Las-Palmas,"2,560",28.4,10.0,1.0,74.0,1.0,,Las-Palmas
-,Jonathan Viera,es ESP,"FW,MF",29,29,13.0,9.0,2011-2012,fa708aa,Las-Palmas,"2,578",28.6,9.0,3.0,74.0,1.0,,Las-Palmas
-,Diego Herner,ar ARG,DF,29,28,1.0,0.0,2011-2012,8fd75cd3,Las-Palmas,"2,381",26.5,6.0,2.0,74.0,5.0,5430.0,Las-Palmas
-,Ruymán Hernández,es ESP,DF,24,23,1.0,1.0,2011-2012,4d598125,Las-Palmas,"2,038",22.6,6.0,1.0,74.0,1.0,,Las-Palmas
-,Víctor Laguardia,es ESP,DF,25,23,0.0,1.0,2011-2012,b7c99b9b,Las-Palmas,"2,024",22.5,8.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Guerrero,es ESP,FW,28,22,4.0,7.0,2011-2012,bd4345ec,Las-Palmas,"1,813",20.1,6.0,2.0,74.0,1.0,,Las-Palmas
-,Javier Portillo,es ESP,FW,34,20,2.0,8.0,2011-2012,99058498,Las-Palmas,"1,730",19.2,2.0,0.0,74.0,1.0,19.0,Las-Palmas
-,Enrique Corrales,es ESP,DF,20,20,0.0,0.0,2011-2012,8dbcf66,Las-Palmas,"1,672",18.6,7.0,1.0,74.0,1.0,,Las-Palmas
-,Juanpe,es ESP,DF,19,18,0.0,1.0,2011-2012,1633fc8a,Las-Palmas,"1,573",17.5,7.0,1.0,74.0,1.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,29,17,0.0,2.0,2011-2012,cefb32b1,Las-Palmas,"1,513",16.8,5.0,1.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,17,16,0.0,3.0,2011-2012,1250086e,Las-Palmas,"1,312",14.6,4.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Sergio Suárez,es ESP,MF,24,13,1.0,3.0,2011-2012,7c64834,Las-Palmas,"1,122",12.5,7.0,2.0,74.0,1.0,5416.0,Las-Palmas
-,Momo,es ESP,MF,13,11,1.0,2.0,2011-2012,9857e65d,Las-Palmas,892,9.9,1.0,0.0,74.0,1.0,,Las-Palmas
-,Mauro Quiroga,ar ARG,FW,33,10,1.0,7.0,2011-2012,1643c897,Las-Palmas,"1,542",17.1,4.0,0.0,74.0,5.0,,Las-Palmas
-,Roque Mesa,es ESP,MF,22,10,0.0,0.0,2011-2012,7c4243d4,Las-Palmas,949,10.5,5.0,0.0,74.0,1.0,,Las-Palmas
-,Francis Suárez,es ESP,MF,16,10,2.0,1.0,2011-2012,213227f5,Las-Palmas,800,8.9,4.0,1.0,74.0,1.0,5415.0,Las-Palmas
-,Dani Castellano,es ESP,"DF,MF",13,7,1.0,0.0,2011-2012,21d4e122,Las-Palmas,527,5.9,2.0,0.0,74.0,1.0,,Las-Palmas
-,Raúl Lizoain,es ESP,GK,6,5,0.0,0.0,2011-2012,f69e9eee,Las-Palmas,506,5.6,0.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Pedro Vega,es ESP,MF,9,2,0.0,0.0,2011-2012,c634a0,Las-Palmas,278,3.1,1.0,0.0,74.0,1.0,,Las-Palmas
-,José Artiles,es ESP,"FW,MF",6,1,0.0,0.0,2011-2012,913e81fb,Las-Palmas,252,2.8,0.0,0.0,74.0,1.0,,Las-Palmas
-,Iban Iyanga,gq EQG,"DF,FW",4,1,0.0,1.0,2011-2012,3985fc6,Las-Palmas,97,1.1,0.0,0.0,74.0,10.0,5424.0,Las-Palmas
-,Juan Guerra,ve VEN,MF,1,0,0.0,0.0,2011-2012,598b47bf,Las-Palmas,36,0.4,1.0,0.0,74.0,53.0,5432.0,Las-Palmas
-,Hernán,es ESP,"DF,MF",1,0,0.0,0.0,2011-2012,8c83efb6,Las-Palmas,9,0.1,0.0,0.0,74.0,1.0,,Las-Palmas
-,﻿Mariano Barbosa,ar ARG,GK,39,39,0.0,0.0,2012-2013,d4f74f,Las-Palmas,"3,483",38.7,6.0,2.0,74.0,5.0,,Las-Palmas
-,Vitolo,es ESP,"FW,MF",39,38,6.0,15.0,2012-2013,db750822,Las-Palmas,"3,344",37.2,15.0,1.0,74.0,1.0,,Las-Palmas
-,Jeison Murillo,co COL,DF,36,36,0.0,3.0,2012-2013,b233e8e4,Las-Palmas,"3,063",34.0,11.0,2.0,74.0,19.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,36,36,8.0,5.0,2012-2013,4cf8242b,Las-Palmas,"3,000",33.3,17.0,0.0,74.0,1.0,,Las-Palmas
-,Deivid,es ESP,"DF,MF",35,35,1.0,0.0,2012-2013,c1c76662,Las-Palmas,"3,087",34.3,5.0,0.0,74.0,1.0,,Las-Palmas
-,Thievy Bifouma,cg CGO,"FW,MF",36,34,8.0,10.0,2012-2013,5978dc3c,Las-Palmas,"3,048",33.9,10.0,0.0,74.0,80.0,,Las-Palmas
-,Momo,es ESP,MF,40,34,5.0,4.0,2012-2013,9857e65d,Las-Palmas,"2,644",29.4,6.0,1.0,74.0,1.0,,Las-Palmas
-,Dani Castellano,es ESP,"DF,MF",32,31,2.0,0.0,2012-2013,21d4e122,Las-Palmas,"2,696",30.0,11.0,1.0,74.0,1.0,,Las-Palmas
-,Stéphane Pignol,fr FRA,DF,29,28,1.0,0.0,2012-2013,ca3ae27c,Las-Palmas,"2,546",28.3,10.0,0.0,74.0,4.0,,Las-Palmas
-,David García,es ESP,DF,27,25,0.0,1.0,2012-2013,1250086e,Las-Palmas,"2,338",26.0,10.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Hernán,es ESP,"DF,MF",32,24,0.0,1.0,2012-2013,8c83efb6,Las-Palmas,"2,108",23.4,8.0,1.0,74.0,1.0,,Las-Palmas
-,Macauley Chrisantus,ng NGA,"FW,MF",41,19,2.0,11.0,2012-2013,80d82696,Las-Palmas,"2,003",22.3,4.0,0.0,74.0,52.0,5433.0,Las-Palmas
-,Javi Guerrero,es ESP,FW,29,17,1.0,6.0,2012-2013,bd4345ec,Las-Palmas,"1,321",14.7,3.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Castellano,es ESP,"DF,MF",26,16,0.0,0.0,2012-2013,dac68523,Las-Palmas,"1,568",17.4,5.0,0.0,74.0,1.0,,Las-Palmas
-,Jesús Tato,es ESP,FW,17,12,2.0,5.0,2012-2013,50e2af8c,Las-Palmas,"1,123",12.5,3.0,0.0,74.0,1.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,22,11,0.0,0.0,2012-2013,cefb32b1,Las-Palmas,"1,058",11.8,8.0,2.0,74.0,1.0,,Las-Palmas
-,Enrique Corrales,es ESP,DF,11,8,0.0,0.0,2012-2013,8dbcf66,Las-Palmas,792,8.8,3.0,0.0,74.0,1.0,,Las-Palmas
-,Timothée Atouba,cm CMR,DF,5,5,1.0,0.0,2012-2013,8c0c6e13,Las-Palmas,437,4.9,1.0,1.0,74.0,36.0,5434.0,Las-Palmas
-,Sergio Suárez,es ESP,MF,10,5,1.0,0.0,2012-2013,7c64834,Las-Palmas,382,4.2,1.0,0.0,74.0,1.0,5416.0,Las-Palmas
-,David González,es ESP,MF,11,2,0.0,0.0,2012-2013,d65705c4,Las-Palmas,276,3.1,1.0,0.0,74.0,1.0,,Las-Palmas
-,Raúl Lizoain,es ESP,GK,3,2,0.0,0.0,2012-2013,f69e9eee,Las-Palmas,198,2.2,0.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Juanpe,es ESP,DF,2,2,0.0,0.0,2012-2013,1633fc8a,Las-Palmas,177,2.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Francis Suárez,es ESP,MF,10,1,1.0,0.0,2012-2013,213227f5,Las-Palmas,180,2.0,1.0,0.0,74.0,1.0,5415.0,Las-Palmas
-,Aythami Álvarez,es ESP,DF,1,1,0.0,0.0,2012-2013,3bf6578a,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,5428.0,Las-Palmas
-,Ale Martín,es ESP,GK,1,1,0.0,0.0,2012-2013,f1c6e9c2,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,5435.0,Las-Palmas
-,Andy Pando,pe PER,FW,7,0,0.0,0.0,2012-2013,34893ff6,Las-Palmas,104,1.2,0.0,0.0,74.0,57.0,5436.0,Las-Palmas
-,Tyronne,es ESP,"FW,MF",4,0,0.0,0.0,2012-2013,f76bbf9c,Las-Palmas,72,0.8,0.0,0.0,74.0,1.0,,Las-Palmas
-,Pedro Vega,es ESP,MF,1,0,0.0,0.0,2012-2013,c634a0,Las-Palmas,9,0.1,0.0,0.0,74.0,1.0,,Las-Palmas
-,﻿Mariano Barbosa,ar ARG,GK,41,41,0.0,0.0,2013-2014,d4f74f,Las-Palmas,"3,621",40.2,3.0,1.0,74.0,5.0,,Las-Palmas
-,Juan Carlos Valerón,es ESP,MF,41,35,4.0,3.0,2013-2014,71e8d6b0,Las-Palmas,"2,928",32.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,Deivid,es ESP,"DF,MF",37,34,0.0,0.0,2013-2014,c1c76662,Las-Palmas,"3,109",34.5,7.0,0.0,74.0,1.0,,Las-Palmas
-,Ángel López,es ESP,"DF,MF",32,31,0.0,0.0,2013-2014,93cdc601,Las-Palmas,"2,749",30.5,8.0,0.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,31,31,2.0,0.0,2013-2014,1250086e,Las-Palmas,"2,718",30.2,13.0,1.0,74.0,1.0,5406.0,Las-Palmas
-,Apoño,es ESP,MF,27,26,2.0,1.0,2013-2014,02503ca3,Las-Palmas,"2,247",25.0,9.0,1.0,74.0,1.0,,Las-Palmas
-,Masoud Shojaei,ir IRN,MF,29,26,8.0,5.0,2013-2014,898d91e,Las-Palmas,"2,233",24.8,9.0,1.0,74.0,86.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,34,25,1.0,5.0,2013-2014,cefb32b1,Las-Palmas,"2,208",24.5,7.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Artiles,es ESP,DF,24,23,0.0,3.0,2013-2014,01ae64cd,Las-Palmas,"1,982",22.0,10.0,3.0,74.0,1.0,,Las-Palmas
-,Javi Castellano,es ESP,"DF,MF",26,23,1.0,0.0,2013-2014,dac68523,Las-Palmas,"1,963",21.8,6.0,0.0,74.0,1.0,,Las-Palmas
-,Xabier Castillo,hr CRO,DF,23,22,0.0,0.0,2013-2014,638dc43b,Las-Palmas,"2,001",22.2,6.0,1.0,74.0,16.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,27,20,6.0,5.0,2013-2014,4cf8242b,Las-Palmas,"1,890",21.0,11.0,1.0,74.0,1.0,,Las-Palmas
-,Momo,es ESP,MF,27,20,5.0,4.0,2013-2014,9857e65d,Las-Palmas,"1,834",20.4,5.0,1.0,74.0,1.0,,Las-Palmas
-,Carlos Aranda,es ESP,FW,24,18,6.0,6.0,2013-2014,2b60c45d,Las-Palmas,"1,560",17.3,3.0,1.0,74.0,1.0,,Las-Palmas
-,Macauley Chrisantus,ng NGA,"FW,MF",23,16,0.0,8.0,2013-2014,80d82696,Las-Palmas,"1,462",16.2,1.0,0.0,74.0,52.0,5433.0,Las-Palmas
-,Asdrúbal Padrón,es ESP,"FW,MF",31,14,2.0,4.0,2013-2014,1719aa30,Las-Palmas,"1,535",17.1,6.0,0.0,74.0,1.0,5437.0,Las-Palmas
-,Dani Castellano,es ESP,"DF,MF",15,14,0.0,0.0,2013-2014,21d4e122,Las-Palmas,"1,290",14.3,2.0,0.0,74.0,1.0,,Las-Palmas
-,Tana,es ESP,"FW,MF",24,14,2.0,2.0,2013-2014,f345601,Las-Palmas,"1,184",13.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Ernesto Galán,es ESP,DF,7,6,0.0,0.0,2013-2014,7e4af593,Las-Palmas,530,5.9,4.0,0.0,74.0,1.0,,Las-Palmas
-,Máyor,es ESP,FW,13,5,0.0,1.0,2013-2014,1c68e396,Las-Palmas,424,4.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Jesús Tato,es ESP,FW,9,4,1.0,0.0,2013-2014,50e2af8c,Las-Palmas,363,4.0,2.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Álvarez,es ESP,DF,4,4,0.0,0.0,2013-2014,3bf6578a,Las-Palmas,321,3.6,1.0,0.0,74.0,1.0,5428.0,Las-Palmas
-,Timothée Atouba,cm CMR,DF,3,3,0.0,0.0,2013-2014,8c0c6e13,Las-Palmas,162,1.8,0.0,0.0,74.0,36.0,5434.0,Las-Palmas
-,Spas Delev,bg BUL,"FW,MF",6,2,0.0,0.0,2013-2014,d99830de,Las-Palmas,250,2.8,2.0,0.0,74.0,65.0,5438.0,Las-Palmas
-,Hernán,es ESP,"DF,MF",6,2,0.0,0.0,2013-2014,8c83efb6,Las-Palmas,108,1.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Héctor Figueroa,es ESP,FW,11,1,0.0,2.0,2013-2014,b73db047,Las-Palmas,332,3.7,0.0,0.0,74.0,1.0,5439.0,Las-Palmas
-,Raúl Lizoain,es ESP,GK,2,1,0.0,0.0,2013-2014,f69e9eee,Las-Palmas,159,1.8,0.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Leo Rodríguez,es ESP,MF,3,1,1.0,0.0,2013-2014,49e0c327,Las-Palmas,118,1.3,1.0,0.0,74.0,1.0,5440.0,Las-Palmas
-,Benja,es ESP,DF,4,0,0.0,1.0,2013-2014,f04bc5bc,Las-Palmas,67,0.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,José Artiles,es ESP,"FW,MF",2,0,0.0,0.0,2013-2014,913e81fb,Las-Palmas,30,0.3,0.0,0.0,74.0,1.0,,Las-Palmas
-,﻿Javi Castellano,es ESP,"DF,MF",39,39,3.0,0.0,2014-2015,dac68523,Las-Palmas,"3,510",39.0,5.0,0.0,74.0,1.0,,Las-Palmas
-,Sergio Araujo,ar ARG,"FW,MF",39,39,7.0,23.0,2014-2015,080ac8d8,Las-Palmas,"3,264",36.3,11.0,0.0,74.0,5.0,5441.0,Las-Palmas
-,David Simón,es ESP,DF,37,35,6.0,2.0,2014-2015,251336da,Las-Palmas,"3,130",34.8,9.0,0.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,33,32,1.0,0.0,2014-2015,1250086e,Las-Palmas,"2,912",32.4,14.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Aythami Artiles,es ESP,DF,33,32,0.0,2.0,2014-2015,01ae64cd,Las-Palmas,"2,800",31.1,6.0,0.0,74.0,1.0,,Las-Palmas
-,Casto,es ESP,GK,30,30,0.0,0.0,2014-2015,95b4ffb3,Las-Palmas,"2,700",30.0,3.0,0.0,74.0,1.0,,Las-Palmas
-,Hernán,es ESP,"DF,MF",32,30,1.0,3.0,2014-2015,8c83efb6,Las-Palmas,"2,499",27.8,13.0,0.0,74.0,1.0,,Las-Palmas
-,Ángel López,es ESP,"DF,MF",28,28,0.0,2.0,2014-2015,93cdc601,Las-Palmas,"2,457",27.3,9.0,1.0,74.0,1.0,,Las-Palmas
-,Emmanuel Culio,ar ARG,MF,27,27,0.0,1.0,2014-2015,170eb35b,Las-Palmas,"2,232",24.8,5.0,2.0,74.0,5.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,28,27,5.0,9.0,2014-2015,4cf8242b,Las-Palmas,"2,095",23.3,7.0,1.0,74.0,1.0,,Las-Palmas
-,Roque Mesa,es ESP,MF,34,24,2.0,3.0,2014-2015,7c4243d4,Las-Palmas,"1,745",19.4,3.0,1.0,74.0,1.0,,Las-Palmas
-,Marcelo Silva,uy URU,DF,22,18,0.0,1.0,2014-2015,b9596515,Las-Palmas,"1,672",18.6,7.0,0.0,74.0,8.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,29,18,0.0,3.0,2014-2015,cefb32b1,Las-Palmas,"1,497",16.6,4.0,0.0,74.0,1.0,,Las-Palmas
-,Momo,es ESP,MF,27,17,6.0,7.0,2014-2015,9857e65d,Las-Palmas,"1,469",16.3,3.0,0.0,74.0,1.0,,Las-Palmas
-,Raúl Lizoain,es ESP,GK,12,12,0.0,0.0,2014-2015,f69e9eee,Las-Palmas,"1,080",12.0,0.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Dani Castellano,es ESP,"DF,MF",12,11,0.0,0.0,2014-2015,21d4e122,Las-Palmas,955,10.6,4.0,0.0,74.0,1.0,,Las-Palmas
-,Jonathan Viera,es ESP,"FW,MF",17,10,2.0,6.0,2014-2015,fa708aa,Las-Palmas,959,10.7,4.0,0.0,74.0,1.0,,Las-Palmas
-,Alfredo Ortuño,es ESP,"DF,FW",17,10,2.0,4.0,2014-2015,b5077003,Las-Palmas,890,9.9,1.0,0.0,74.0,1.0,,Las-Palmas
-,Christian,es ESP,DF,16,9,0.0,0.0,2014-2015,1d5a68fe,Las-Palmas,990,11.0,4.0,0.0,74.0,1.0,,Las-Palmas
-,Guzmán Casaseca,es ESP,MF,29,7,3.0,3.0,2014-2015,f05d4004,Las-Palmas,"1,008",11.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Asdrúbal Padrón,es ESP,"FW,MF",15,5,1.0,2.0,2014-2015,1719aa30,Las-Palmas,574,6.4,1.0,0.0,74.0,1.0,5437.0,Las-Palmas
-,Juan Carlos Valerón,es ESP,MF,21,3,1.0,0.0,2014-2015,71e8d6b0,Las-Palmas,593,6.6,0.0,0.0,74.0,1.0,,Las-Palmas
-,Jesús Valentín,es ESP,DF,3,2,0.0,0.0,2014-2015,2594ee7d,Las-Palmas,225,2.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,Nili,es ESP,DF,1,1,0.0,0.0,2014-2015,6f1cce9a,Las-Palmas,58,0.6,1.0,0.0,74.0,1.0,,Las-Palmas
-,Héctor Figueroa,es ESP,FW,6,0,0.0,1.0,2014-2015,b73db047,Las-Palmas,107,1.2,0.0,0.0,74.0,1.0,5439.0,Las-Palmas
-,Tana,es ESP,"FW,MF",1,0,0.0,0.0,2014-2015,f345601,Las-Palmas,32,0.4,0.0,0.0,74.0,1.0,,Las-Palmas
-,Benja,es ESP,DF,1,0,0.0,0.0,2014-2015,f04bc5bc,Las-Palmas,10,0.1,0.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Lorenzo,es ESP,GK,0,0,,,2014-2015,4ed19997,Las-Palmas,,,,,74.0,1.0,5442.0,Las-Palmas
-,Ale Martín,es ESP,GK,0,0,,,2014-2015,f1c6e9c2,Las-Palmas,,,,,74.0,1.0,5435.0,Las-Palmas
-,Benjamín Martínez,es ESP,FW,0,0,,,2014-2015,4ca76f91,Las-Palmas,,,,,74.0,1.0,,Las-Palmas
-,﻿Jonathan Viera,es ESP,"MF,FW",36,36,8.0,10.0,2015-2016,fa708aa,Las-Palmas,"3,112",34.6,4.0,0.0,74.0,1.0,,Las-Palmas
-,Roque Mesa,es ESP,MF,34,34,2.0,1.0,2015-2016,7c4243d4,Las-Palmas,"2,825",31.4,12.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Varas,es ESP,GK,31,31,0.0,0.0,2015-2016,6db3da37,Las-Palmas,"2,710",30.1,1.0,1.0,74.0,1.0,,Las-Palmas
-,Aythami Artiles,es ESP,DF,31,30,1.0,0.0,2015-2016,01ae64cd,Las-Palmas,"2,641",29.3,13.0,2.0,74.0,1.0,,Las-Palmas
-,Pedro Bigas,es ESP,DF,27,26,0.0,3.0,2015-2016,697295b1,Las-Palmas,"2,353",26.1,5.0,0.0,74.0,1.0,,Las-Palmas
-,Tana,es ESP,MF,27,26,4.0,5.0,2015-2016,f345601,Las-Palmas,"2,113",23.5,2.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Castellano,es ESP,DF,27,25,0.0,0.0,2015-2016,21d4e122,Las-Palmas,"2,245",24.9,5.0,0.0,74.0,1.0,,Las-Palmas
-,David Simón,es ESP,DF,27,24,2.0,1.0,2015-2016,251336da,Las-Palmas,"2,263",25.1,7.0,0.0,74.0,1.0,,Las-Palmas
-,Sergio Araujo,ar ARG,FW,30,20,2.0,5.0,2015-2016,080ac8d8,Las-Palmas,"1,819",20.2,4.0,0.0,74.0,5.0,5441.0,Las-Palmas
-,Willian José,br BRA,FW,30,19,1.0,9.0,2015-2016,d87e2cae,Las-Palmas,"1,733",19.3,6.0,0.0,74.0,2.0,120.0,Las-Palmas
-,David García,es ESP,DF,19,18,1.0,2.0,2015-2016,1250086e,Las-Palmas,"1,607",17.9,2.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Javier Garrido,es ESP,DF,18,18,1.0,0.0,2015-2016,3b142ce5,Las-Palmas,"1,575",17.5,2.0,0.0,74.0,1.0,,Las-Palmas
-,Nabil El Zhar,ma MAR,MF,30,17,4.0,2.0,2015-2016,37f96552,Las-Palmas,"1,707",19.0,4.0,0.0,74.0,26.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,21,16,1.0,1.0,2015-2016,cefb32b1,Las-Palmas,"1,463",16.3,4.0,0.0,74.0,1.0,,Las-Palmas
-,Momo,es ESP,MF,23,15,3.0,0.0,2015-2016,9857e65d,Las-Palmas,"1,384",15.4,3.0,0.0,74.0,1.0,,Las-Palmas
-,Hernán,es ESP,"MF,DF",18,11,0.0,1.0,2015-2016,8c83efb6,Las-Palmas,928,10.3,4.0,0.0,74.0,1.0,,Las-Palmas
-,Wakaso,gh GHA,MF,20,10,0.0,1.0,2015-2016,999908af,Las-Palmas,931,10.3,11.0,0.0,74.0,17.0,,Las-Palmas
-,Mauricio Lemos,uy URU,DF,10,8,0.0,0.0,2015-2016,dbe5a587,Las-Palmas,736,8.2,5.0,0.0,74.0,8.0,5446.0,Las-Palmas
-,Raúl Lizoain,es ESP,GK,8,7,0.0,0.0,2015-2016,f69e9eee,Las-Palmas,708,7.9,0.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Emmanuel Culio,ar ARG,MF,12,6,1.0,0.0,2015-2016,170eb35b,Las-Palmas,560,6.2,2.0,1.0,74.0,5.0,,Las-Palmas
-,Antolín Alcaraz,py PAR,DF,6,6,0.0,1.0,2015-2016,cee38e27,Las-Palmas,540,6.0,2.0,0.0,74.0,43.0,5443.0,Las-Palmas
-,Ángel Montoro,es ESP,MF,9,5,0.0,0.0,2015-2016,719384c1,Las-Palmas,435,4.8,2.0,0.0,74.0,1.0,,Las-Palmas
-,Nili,es ESP,"MF,FW",8,4,0.0,0.0,2015-2016,6f1cce9a,Las-Palmas,317,3.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,Juan Carlos Valerón,es ESP,MF,13,3,0.0,0.0,2015-2016,71e8d6b0,Las-Palmas,383,4.3,0.0,0.0,74.0,1.0,,Las-Palmas
-,Nauzet Alemán,es ESP,MF,10,2,0.0,0.0,2015-2016,4cf8242b,Las-Palmas,248,2.8,0.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Castellano,es ESP,MF,1,1,0.0,0.0,2015-2016,dac68523,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Ángel López,es ESP,"DF,MF",3,0,0.0,0.0,2015-2016,93cdc601,Las-Palmas,33,0.4,0.0,0.0,74.0,1.0,,Las-Palmas
-,Jefté Betancor,es ESP,FW,0,0,,,2015-2016,f88c9890,Las-Palmas,,,,,74.0,1.0,,Las-Palmas
-,Matías Dumpiérrez,es ESP,MF,0,0,,,2015-2016,f31f689e,Las-Palmas,,,,,74.0,1.0,5444.0,Las-Palmas
-,Carlos González,es ESP,FW,0,0,,,2015-2016,8c6b3d5e,Las-Palmas,,,,,74.0,1.0,5445.0,Las-Palmas
-,Dani Lorenzo,es ESP,GK,0,0,,,2015-2016,4ed19997,Las-Palmas,,,,,74.0,1.0,5442.0,Las-Palmas
-,Asdrúbal Padrón,es ESP,"FW,MF",0,0,,,2015-2016,1719aa30,Las-Palmas,,,,,74.0,1.0,5437.0,Las-Palmas
-,﻿Roque Mesa,es ESP,MF,35,34,2.0,1.0,2016-2017,7c4243d4,Las-Palmas,"3,033",33.7,14.0,0.0,74.0,1.0,,Las-Palmas
-,Pedro Bigas,es ESP,DF,32,31,1.0,4.0,2016-2017,697295b1,Las-Palmas,"2,647",29.4,5.0,1.0,74.0,1.0,,Las-Palmas
-,Jonathan Viera,es ESP,MF,31,30,6.0,7.0,2016-2017,fa708aa,Las-Palmas,"2,581",28.7,4.0,0.0,74.0,1.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,29,28,0.0,2.0,2016-2017,cefb32b1,Las-Palmas,"2,311",25.7,3.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Varas,es ESP,GK,25,25,0.0,0.0,2016-2017,6db3da37,Las-Palmas,"2,250",25.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Tana,es ESP,"MF,FW",32,25,4.0,4.0,2016-2017,f345601,Las-Palmas,"2,210",24.6,3.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Castellano,es ESP,DF,27,25,1.0,0.0,2016-2017,21d4e122,Las-Palmas,"2,107",23.4,2.0,0.0,74.0,1.0,,Las-Palmas
-,Kevin-Prince Boateng,gh GHA,"FW,MF",28,25,4.0,10.0,2016-2017,f4ec4fd0,Las-Palmas,"1,979",22.0,11.0,2.0,74.0,17.0,,Las-Palmas
-,Michel,br BRA,DF,25,24,4.0,0.0,2016-2017,05384ea1,Las-Palmas,"2,085",23.2,5.0,0.0,74.0,2.0,,Las-Palmas
-,Mauricio Lemos,uy URU,DF,23,21,0.0,5.0,2016-2017,dbe5a587,Las-Palmas,"1,852",20.6,6.0,0.0,74.0,8.0,5446.0,Las-Palmas
-,David García,es ESP,DF,22,17,1.0,1.0,2016-2017,1250086e,Las-Palmas,"1,651",18.3,5.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Marko Livaja,hr CRO,FW,25,16,3.0,5.0,2016-2017,6e5497ca,Las-Palmas,"1,444",16.0,12.0,1.0,74.0,16.0,5447.0,Las-Palmas
-,David Simón,es ESP,DF,16,14,1.0,0.0,2016-2017,251336da,Las-Palmas,"1,322",14.7,3.0,0.0,74.0,1.0,,Las-Palmas
-,Hélder Lopes,pt POR,DF,15,13,1.0,0.0,2016-2017,9a34c46d,Las-Palmas,"1,224",13.6,4.0,0.0,74.0,3.0,5448.0,Las-Palmas
-,Raúl Lizoain,es ESP,GK,13,13,0.0,0.0,2016-2017,f69e9eee,Las-Palmas,"1,170",13.0,2.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Jesé,es ESP,"MF,FW",16,13,1.0,3.0,2016-2017,4a537185,Las-Palmas,"1,160",12.9,5.0,0.0,74.0,1.0,108.0,Las-Palmas
-,Momo,es ESP,"MF,FW",23,12,0.0,3.0,2016-2017,9857e65d,Las-Palmas,"1,243",13.8,3.0,0.0,74.0,1.0,,Las-Palmas
-,Ángel Montoro,es ESP,MF,17,12,0.0,0.0,2016-2017,719384c1,Las-Palmas,"1,108",12.3,1.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Artiles,es ESP,DF,11,8,0.0,0.0,2016-2017,01ae64cd,Las-Palmas,835,9.3,5.0,1.0,74.0,1.0,,Las-Palmas
-,Mateo García,ar ARG,"FW,MF",19,8,0.0,2.0,2016-2017,62db2015,Las-Palmas,724,8.0,0.0,0.0,74.0,5.0,,Las-Palmas
-,Nabil El Zhar,ma MAR,"MF,FW",12,8,2.0,3.0,2016-2017,37f96552,Las-Palmas,716,8.0,1.0,0.0,74.0,26.0,,Las-Palmas
-,Alen Halilović,hr CRO,"MF,FW",18,6,2.0,0.0,2016-2017,6b9bd00,Las-Palmas,652,7.2,2.0,0.0,74.0,16.0,,Las-Palmas
-,Sergio Araujo,ar ARG,FW,11,5,1.0,2.0,2016-2017,080ac8d8,Las-Palmas,533,5.9,2.0,0.0,74.0,5.0,5441.0,Las-Palmas
-,Hernán,es ESP,MF,10,3,0.0,0.0,2016-2017,8c83efb6,Las-Palmas,292,3.2,2.0,1.0,74.0,1.0,,Las-Palmas
-,Erik Expósito,es ESP,FW,2,2,0.0,0.0,2016-2017,07d67579,Las-Palmas,166,1.8,0.0,0.0,74.0,1.0,5449.0,Las-Palmas
-,Javi Castellano,es ESP,"DF,MF",5,0,0.0,0.0,2016-2017,dac68523,Las-Palmas,99,1.1,1.0,0.0,74.0,1.0,,Las-Palmas
-,Tyronne,es ESP,"FW,MF",3,0,0.0,0.0,2016-2017,f76bbf9c,Las-Palmas,44,0.5,1.0,0.0,74.0,1.0,,Las-Palmas
-,Asdrúbal Padrón,es ESP,"FW,MF",3,0,0.0,0.0,2016-2017,1719aa30,Las-Palmas,34,0.4,0.0,0.0,74.0,1.0,5437.0,Las-Palmas
-,Benito Ramírez,es ESP,"DF,MF",2,0,0.0,0.0,2016-2017,db714daf,Las-Palmas,17,0.2,0.0,0.0,74.0,1.0,5450.0,Las-Palmas
-,Eric Curbelo,es ESP,DF,0,0,,,2016-2017,34e39a18,Las-Palmas,,,,,74.0,1.0,5451.0,Las-Palmas
-,﻿Jonathan Calleri,ar ARG,FW,37,34,3.0,9.0,2017-2018,6922f806,Las-Palmas,"3,109",34.5,7.0,0.0,74.0,5.0,,Las-Palmas
-,Ximo Navarro,es ESP,DF,31,29,1.0,0.0,2017-2018,8db394aa,Las-Palmas,"2,608",29.0,12.0,0.0,74.0,1.0,,Las-Palmas
-,Leandro Chichizola,ar ARG,GK,27,27,0.0,0.0,2017-2018,8d957256,Las-Palmas,"2,430",27.0,2.0,0.0,74.0,5.0,,Las-Palmas
-,Michel,br BRA,DF,28,26,1.0,0.0,2017-2018,05384ea1,Las-Palmas,"2,130",23.7,5.0,1.0,74.0,2.0,,Las-Palmas
-,Dani Castellano,es ESP,DF,24,23,2.0,0.0,2017-2018,21d4e122,Las-Palmas,"2,025",22.5,5.0,0.0,74.0,1.0,,Las-Palmas
-,Jonathan Viera,es ESP,MF,23,23,3.0,4.0,2017-2018,fa708aa,Las-Palmas,"1,993",22.1,4.0,0.0,74.0,1.0,,Las-Palmas
-,Álex Gálvez,es ESP,DF,18,18,0.0,0.0,2017-2018,960fb42d,Las-Palmas,"1,619",18.0,5.0,1.0,74.0,1.0,,Las-Palmas
-,Javi Castellano,es ESP,MF,23,17,0.0,0.0,2017-2018,dac68523,Las-Palmas,"1,566",17.4,4.0,0.0,74.0,1.0,,Las-Palmas
-,Vicente Gómez,es ESP,MF,25,17,0.0,0.0,2017-2018,cefb32b1,Las-Palmas,"1,525",16.9,3.0,0.0,74.0,1.0,,Las-Palmas
-,Tana,es ESP,"MF,FW",24,16,1.0,1.0,2017-2018,f345601,Las-Palmas,"1,552",17.2,2.0,0.0,74.0,1.0,,Las-Palmas
-,Alen Halilović,hr CRO,MF,20,16,1.0,2.0,2017-2018,6b9bd00,Las-Palmas,"1,304",14.5,1.0,1.0,74.0,16.0,,Las-Palmas
-,Alberto Aquilani,it ITA,MF,21,15,0.0,0.0,2017-2018,d340e17,Las-Palmas,"1,297",14.4,4.0,0.0,74.0,9.0,5452.0,Las-Palmas
-,Mauricio Lemos,uy URU,"DF,MF",16,14,0.0,0.0,2017-2018,dbe5a587,Las-Palmas,"1,261",14.0,6.0,0.0,74.0,8.0,5446.0,Las-Palmas
-,Oghenekaro Etebo,ng NGA,MF,14,14,1.0,0.0,2017-2018,b579e83d,Las-Palmas,"1,215",13.5,3.0,0.0,74.0,52.0,,Las-Palmas
-,Matías Aguirregaray,uy URU,DF,15,14,0.0,0.0,2017-2018,8617e3d9,Las-Palmas,"1,153",12.8,3.0,0.0,74.0,8.0,5453.0,Las-Palmas
-,Raúl Lizoain,es ESP,GK,11,11,0.0,0.0,2017-2018,f69e9eee,Las-Palmas,990,11.0,0.0,0.0,74.0,1.0,5431.0,Las-Palmas
-,Pedro Bigas,es ESP,DF,12,11,0.0,0.0,2017-2018,697295b1,Las-Palmas,894,9.9,3.0,0.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,11,9,0.0,1.0,2017-2018,1250086e,Las-Palmas,860,9.6,2.0,0.0,74.0,1.0,5406.0,Las-Palmas
-,Nacho Gil,es ESP,"MF,FW",14,8,0.0,0.0,2017-2018,87ec1a2a,Las-Palmas,729,8.1,1.0,0.0,74.0,1.0,,Las-Palmas
-,Vitolo,es ESP,"FW,MF",9,8,0.0,1.0,2017-2018,db750822,Las-Palmas,689,7.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Momo,es ESP,MF,13,8,1.0,0.0,2017-2018,9857e65d,Las-Palmas,673,7.5,3.0,0.0,74.0,1.0,,Las-Palmas
-,Oussama Tannane,ma MAR,"MF,FW",10,7,0.0,0.0,2017-2018,730bd100,Las-Palmas,573,6.4,1.0,0.0,74.0,26.0,5454.0,Las-Palmas
-,Gabriel Peñalba,ar ARG,MF,7,7,0.0,0.0,2017-2018,7375367,Las-Palmas,570,6.3,3.0,0.0,74.0,5.0,5455.0,Las-Palmas
-,Loïc Rémy,fr FRA,"FW,MF",12,6,0.0,5.0,2017-2018,5c2da10f,Las-Palmas,766,8.5,1.0,0.0,74.0,4.0,,Las-Palmas
-,David Simón,es ESP,DF,11,6,0.0,0.0,2017-2018,251336da,Las-Palmas,721,8.0,3.0,0.0,74.0,1.0,,Las-Palmas
-,Hernán Toledo,ar ARG,"MF,FW",15,6,1.0,0.0,2017-2018,93568a16,Las-Palmas,624,6.9,2.0,0.0,74.0,5.0,5456.0,Las-Palmas
-,Jairo Samperio,es ESP,"MF,FW",11,6,0.0,0.0,2017-2018,c0a0c18f,Las-Palmas,556,6.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Imoh Ezekiel,ng NGA,MF,10,5,0.0,0.0,2017-2018,9243fea6,Las-Palmas,469,5.2,0.0,0.0,74.0,52.0,5457.0,Las-Palmas
-,Erik Expósito,es ESP,FW,10,4,0.0,1.0,2017-2018,07d67579,Las-Palmas,467,5.2,0.0,0.0,74.0,1.0,5449.0,Las-Palmas
-,Hernán,es ESP,MF,7,4,0.0,0.0,2017-2018,8c83efb6,Las-Palmas,351,3.9,1.0,0.0,74.0,1.0,,Las-Palmas
-,Borja Herrera,es ESP,DF,3,3,0.0,0.0,2017-2018,4f6d9bcd,Las-Palmas,241,2.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Artiles,es ESP,DF,3,2,0.0,0.0,2017-2018,01ae64cd,Las-Palmas,184,2.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Sergi Samper,es ESP,MF,2,2,0.0,0.0,2017-2018,6a7586f4,Las-Palmas,143,1.6,0.0,0.0,74.0,1.0,,Las-Palmas
-,Benito Ramírez,es ESP,"MF,FW",4,1,0.0,0.0,2017-2018,db714daf,Las-Palmas,166,1.8,0.0,0.0,74.0,1.0,5450.0,Las-Palmas
-,Fabio González,es ESP,MF,1,1,0.0,0.0,2017-2018,5418d47c,Las-Palmas,64,0.7,1.0,0.0,74.0,1.0,5458.0,Las-Palmas
-,Sergio Araujo,ar ARG,"MF,FW",2,0,0.0,0.0,2017-2018,080ac8d8,Las-Palmas,39,0.4,0.0,0.0,74.0,5.0,5441.0,Las-Palmas
-,﻿Rubén Castro,es ESP,FW,41,38,3.0,15.0,2018-2019,d109f62b,Las-Palmas,"3,344",37.2,3.0,0.0,74.0,1.0,,Las-Palmas
-,David Timor,es ESP,MF,35,35,4.0,2.0,2018-2019,174651c8,Las-Palmas,"2,995",33.3,14.0,1.0,74.0,1.0,,Las-Palmas
-,Álvaro Lemos,es ESP,"DF,MF",38,33,5.0,2.0,2018-2019,31d45cc8,Las-Palmas,"3,006",33.4,15.0,0.0,74.0,1.0,,Las-Palmas
-,Iñigo Ruiz de Galarreta,es ESP,MF,35,33,2.0,2.0,2018-2019,91f7631f,Las-Palmas,"2,759",30.7,12.0,1.0,74.0,1.0,,Las-Palmas
-,Raúl Fernández,es ESP,GK,32,32,0.0,0.0,2018-2019,6fb59070,Las-Palmas,"2,825",31.4,1.0,0.0,74.0,1.0,,Las-Palmas
-,Cala,es ESP,DF,30,30,0.0,1.0,2018-2019,fe05804b,Las-Palmas,"2,657",29.5,12.0,1.0,74.0,1.0,,Las-Palmas
-,Alberto de la Bella,es ESP,DF,25,25,3.0,1.0,2018-2019,8497faf7,Las-Palmas,"2,172",24.1,8.0,0.0,74.0,1.0,,Las-Palmas
-,David García,es ESP,DF,22,22,0.0,1.0,2018-2019,1250086e,Las-Palmas,"1,848",20.5,3.0,1.0,74.0,1.0,5406.0,Las-Palmas
-,Sergio Araujo,ar ARG,"FW,MF",26,19,3.0,4.0,2018-2019,080ac8d8,Las-Palmas,"1,799",20.0,8.0,0.0,74.0,5.0,5441.0,Las-Palmas
-,Rafa Mir,es ESP,"MF,FW",30,19,2.0,7.0,2018-2019,bbf5c11b,Las-Palmas,"1,648",18.3,5.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Castellano,es ESP,"DF,MF",21,17,0.0,0.0,2018-2019,21d4e122,Las-Palmas,"1,595",17.7,1.0,0.0,74.0,1.0,,Las-Palmas
-,Eric Curbelo,es ESP,DF,18,16,1.0,1.0,2018-2019,34e39a18,Las-Palmas,"1,439",16.0,5.0,0.0,74.0,1.0,5451.0,Las-Palmas
-,Fidel,es ESP,"MF,FW",26,15,2.0,2.0,2018-2019,b82b6f1,Las-Palmas,"1,247",13.9,6.0,0.0,74.0,1.0,,Las-Palmas
-,Maikel Mesa,es ESP,MF,26,14,1.0,4.0,2018-2019,2afb7b21,Las-Palmas,"1,363",15.1,4.0,0.0,74.0,1.0,,Las-Palmas
-,Javi Castellano,es ESP,MF,18,14,0.0,0.0,2018-2019,dac68523,Las-Palmas,"1,294",14.4,4.0,0.0,74.0,1.0,,Las-Palmas
-,Danny Blum,de GER,"MF,FW",23,13,1.0,1.0,2018-2019,b61713c,Las-Palmas,"1,175",13.1,3.0,0.0,74.0,13.0,5459.0,Las-Palmas
-,Martín Mantovani,ar ARG,DF,12,11,0.0,0.0,2018-2019,4ffb647d,Las-Palmas,"1,034",11.5,4.0,0.0,74.0,5.0,5460.0,Las-Palmas
-,Gabriel Peñalba,ar ARG,MF,13,10,0.0,0.0,2018-2019,7375367,Las-Palmas,847,9.4,6.0,1.0,74.0,5.0,5455.0,Las-Palmas
-,Tana,es ESP,"MF,FW",14,9,2.0,0.0,2018-2019,f345601,Las-Palmas,830,9.2,0.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Artiles,es ESP,DF,9,9,0.0,1.0,2018-2019,01ae64cd,Las-Palmas,810,9.0,2.0,0.0,74.0,1.0,,Las-Palmas
-,Deivid,es ESP,DF,10,8,0.0,0.0,2018-2019,c1c76662,Las-Palmas,717,8.0,4.0,1.0,74.0,1.0,,Las-Palmas
-,Josep Martinez,es ESP,GK,7,7,0.0,0.0,2018-2019,11d8aff0,Las-Palmas,630,7.0,0.0,0.0,74.0,1.0,5461.0,Las-Palmas
-,Momo,es ESP,MF,13,5,0.0,0.0,2018-2019,9857e65d,Las-Palmas,515,5.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Cristian Cedrés,es ESP,MF,6,4,2.0,1.0,2018-2019,1b8d0b59,Las-Palmas,362,4.0,0.0,0.0,74.0,1.0,5462.0,Las-Palmas
-,Slavoljub Srnić,rs SRB,MF,7,4,0.0,1.0,2018-2019,cf8ef0a1,Las-Palmas,340,3.8,0.0,0.0,74.0,28.0,5463.0,Las-Palmas
-,Nauzet Pérez,es ESP,GK,4,2,0.0,0.0,2018-2019,d7ffd345,Las-Palmas,235,2.6,0.0,0.0,74.0,1.0,,Las-Palmas
-,Toni Segura,es ESP,"MF,FW",3,2,0.0,0.0,2018-2019,590e2aa6,Las-Palmas,172,1.9,2.0,0.0,74.0,1.0,5464.0,Las-Palmas
-,Cristian Rivera,es ESP,MF,3,2,0.0,0.0,2018-2019,8ef81d2d,Las-Palmas,166,1.8,0.0,0.0,74.0,1.0,,Las-Palmas
-,Fabio González,es ESP,MF,4,1,0.0,0.0,2018-2019,5418d47c,Las-Palmas,151,1.7,1.0,0.0,74.0,1.0,5458.0,Las-Palmas
-,Kirian Rodríguez,es ESP,MF,2,1,0.0,0.0,2018-2019,9b130479,Las-Palmas,101,1.1,1.0,0.0,74.0,1.0,5465.0,Las-Palmas
-,Jesús Fortes,es ESP,DF,1,1,0.0,0.0,2018-2019,ba822ad0,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,5466.0,Las-Palmas
-,Tomáš Pekhart,cz CZE,FW,14,0,0.0,1.0,2018-2019,20dbf9e0,Las-Palmas,173,1.9,1.0,0.0,74.0,84.0,5467.0,Las-Palmas
-,Hadi Sacko,ml MLI,"FW,MF",5,0,0.0,0.0,2018-2019,8747700e,Las-Palmas,101,1.1,1.0,0.0,74.0,12.0,5468.0,Las-Palmas
-,Carlos González,es ESP,FW,1,0,0.0,0.0,2018-2019,8c6b3d5e,Las-Palmas,32,0.4,0.0,0.0,74.0,1.0,5445.0,Las-Palmas
-,Diego Parras,es ESP,DF,0,0,,,2018-2019,3073ff6a,Las-Palmas,,,,,74.0,1.0,5469.0,Las-Palmas
-,Benito Ramírez,es ESP,"DF,MF",0,0,,,2018-2019,db714daf,Las-Palmas,,,,,74.0,1.0,5450.0,Las-Palmas
-,Álvaro Vallés,es ESP,GK,0,0,,,2018-2019,0166a73e,Las-Palmas,,,,,74.0,1.0,5470.0,Las-Palmas
-,﻿Pedri,es ESP,MF,36,34,6.0,4.0,2019-2020,0d9b2d31,Las-Palmas,"2,823",31.4,4.0,0.0,74.0,1.0,,Las-Palmas
-,Alberto de la Bella,es ESP,DF,32,31,3.0,0.0,2019-2020,8497faf7,Las-Palmas,"2,735",30.4,12.0,0.0,74.0,1.0,,Las-Palmas
-,Aythami Artiles,es ESP,DF,29,29,0.0,0.0,2019-2020,01ae64cd,Las-Palmas,"2,550",28.3,12.0,1.0,74.0,1.0,,Las-Palmas
-,Iñigo Ruiz de Galarreta,es ESP,MF,33,28,2.0,0.0,2019-2020,91f7631f,Las-Palmas,"2,466",27.4,7.0,0.0,74.0,1.0,,Las-Palmas
-,Eric Curbelo,es ESP,DF,29,25,0.0,1.0,2019-2020,34e39a18,Las-Palmas,"2,196",24.4,9.0,0.0,74.0,1.0,5451.0,Las-Palmas
-,Javi Castellano,es ESP,MF,27,24,0.0,0.0,2019-2020,dac68523,Las-Palmas,"2,151",23.9,11.0,0.0,74.0,1.0,,Las-Palmas
-,Martín Mantovani,ar ARG,DF,25,24,0.0,0.0,2019-2020,4ffb647d,Las-Palmas,"2,088",23.2,17.0,2.0,74.0,5.0,5460.0,Las-Palmas
-,Mauricio Lemos,uy URU,DF,26,23,0.0,1.0,2019-2020,dbe5a587,Las-Palmas,"2,079",23.1,12.0,2.0,74.0,8.0,5446.0,Las-Palmas
-,Juanjo Narváez,co COL,"FW,MF",29,23,0.0,7.0,2019-2020,485e4939,Las-Palmas,"2,021",22.5,2.0,0.0,74.0,19.0,,Las-Palmas
-,Benito Ramírez,es ESP,"MF,DF",25,22,2.0,2.0,2019-2020,db714daf,Las-Palmas,"1,900",21.1,8.0,0.0,74.0,1.0,5450.0,Las-Palmas
-,Josep Martinez,es ESP,GK,21,21,0.0,0.0,2019-2020,11d8aff0,Las-Palmas,"1,845",20.5,2.0,0.0,74.0,1.0,5461.0,Las-Palmas
-,Rubén Castro,es ESP,FW,24,21,1.0,15.0,2019-2020,d109f62b,Las-Palmas,"1,828",20.3,0.0,0.0,74.0,1.0,,Las-Palmas
-,Álvaro Vallés,es ESP,GK,21,20,0.0,0.0,2019-2020,0166a73e,Las-Palmas,"1,845",20.5,0.0,0.0,74.0,1.0,5470.0,Las-Palmas
-,Fabio González,es ESP,MF,21,19,0.0,0.0,2019-2020,5418d47c,Las-Palmas,"1,568",17.4,7.0,0.0,74.0,1.0,5458.0,Las-Palmas
-,Slavoljub Srnić,rs SRB,MF,27,16,2.0,0.0,2019-2020,cf8ef0a1,Las-Palmas,"1,568",17.4,3.0,0.0,74.0,28.0,5463.0,Las-Palmas
-,Álvaro Lemos,es ESP,"DF,MF",18,16,1.0,0.0,2019-2020,31d45cc8,Las-Palmas,"1,245",13.8,4.0,0.0,74.0,1.0,,Las-Palmas
-,Kirian Rodríguez,es ESP,MF,26,14,0.0,1.0,2019-2020,9b130479,Las-Palmas,"1,306",14.5,8.0,0.0,74.0,1.0,5465.0,Las-Palmas
-,Jonathan Viera,es ESP,"MF,FW",13,13,2.0,10.0,2019-2020,fa708aa,Las-Palmas,"1,075",11.9,3.0,0.0,74.0,1.0,,Las-Palmas
-,Álex Suárez,es ESP,DF,12,9,1.0,0.0,2019-2020,9c137b36,Las-Palmas,822,9.1,3.0,0.0,74.0,1.0,5471.0,Las-Palmas
-,Federico Varela,ar ARG,"MF,FW",17,8,1.0,1.0,2019-2020,9ef0d693,Las-Palmas,855,9.5,1.0,0.0,74.0,5.0,5472.0,Las-Palmas
-,Tomáš Pekhart,cz CZE,FW,17,8,0.0,5.0,2019-2020,20dbf9e0,Las-Palmas,820,9.1,3.0,0.0,74.0,84.0,5467.0,Las-Palmas
-,Cristian Cedrés,es ESP,MF,15,7,1.0,0.0,2019-2020,1b8d0b59,Las-Palmas,668,7.4,1.0,0.0,74.0,1.0,5462.0,Las-Palmas
-,Ariday Cabrera,es ESP,MF,13,5,2.0,0.0,2019-2020,206b11c5,Las-Palmas,498,5.5,1.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Castellano,es ESP,DF,11,4,1.0,0.0,2019-2020,21d4e122,Las-Palmas,409,4.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,Cristian López,es ESP,FW,10,4,0.0,0.0,2019-2020,c76577a0,Las-Palmas,383,4.3,3.0,0.0,74.0,1.0,5473.0,Las-Palmas
-,Tana,es ESP,"MF,FW",7,3,0.0,0.0,2019-2020,f345601,Las-Palmas,319,3.5,0.0,0.0,74.0,1.0,,Las-Palmas
-,Deivid,es ESP,DF,5,3,0.0,0.0,2019-2020,c1c76662,Las-Palmas,280,3.1,2.0,0.0,74.0,1.0,,Las-Palmas
-,David Timor,es ESP,MF,2,2,0.0,0.0,2019-2020,174651c8,Las-Palmas,180,2.0,1.0,0.0,74.0,1.0,,Las-Palmas
-,Jean-Armel Drolé,ci CIV,MF,6,1,1.0,0.0,2019-2020,b5cc175,Las-Palmas,214,2.4,2.0,0.0,74.0,35.0,5474.0,Las-Palmas
-,Sergio Araujo,ar ARG,FW,4,1,0.0,0.0,2019-2020,080ac8d8,Las-Palmas,170,1.9,1.0,0.0,74.0,5.0,5441.0,Las-Palmas
-,Maikel Mesa,es ESP,MF,7,1,0.0,0.0,2019-2020,2afb7b21,Las-Palmas,155,1.7,1.0,0.0,74.0,1.0,,Las-Palmas
-,José Castañeda,es ESP,MF,3,1,0.0,0.0,2019-2020,c8be009f,Las-Palmas,129,1.4,1.0,0.0,74.0,1.0,,Las-Palmas
-,Álex Domínguez,es ESP,GK,1,1,0.0,0.0,2019-2020,f240be08,Las-Palmas,90,1.0,0.0,0.0,74.0,1.0,,Las-Palmas
-,Dani Martín,es ESP,DF,1,1,0.0,0.0,2019-2020,9ddec4fb,Las-Palmas,60,0.7,1.0,0.0,74.0,1.0,5475.0,Las-Palmas
-,Juan Fernández,es ESP,FW,4,0,0.0,0.0,2019-2020,794cb89e,Las-Palmas,96,1.1,0.0,0.0,74.0,1.0,5476.0,Las-Palmas
-,Pablo Haro,es ESP,MF,4,0,0.0,0.0,2019-2020,75a4b2d,Las-Palmas,37,0.4,1.0,0.0,74.0,1.0,5477.0,Las-Palmas
-,Jesús Fortes,es ESP,DF,1,0,0.0,0.0,2019-2020,ba822ad0,Las-Palmas,30,0.3,0.0,0.0,74.0,1.0,5466.0,Las-Palmas
-,Pol,es ESP,MF,1,0,0.0,0.0,2019-2020,54badf9e,Las-Palmas,24,0.3,0.0,0.0,74.0,1.0,5478.0,Las-Palmas
-,Boris Rapaić,hr CRO,FW,1,0,0.0,0.0,2019-2020,0d77e355,Las-Palmas,16,0.2,0.0,0.0,74.0,16.0,5479.0,Las-Palmas
-,Toni Segura,es ESP,MF,1,0,0.0,0.0,2019-2020,590e2aa6,Las-Palmas,8,0.1,0.0,0.0,74.0,1.0,5464.0,Las-Palmas
-,Claudio Mendes,es ESP,FW,2,0,0.0,0.0,2019-2020,c47fe6cb,Las-Palmas,4,0.0,1.0,0.0,74.0,1.0,5480.0,Las-Palmas
-,David Herrera,es ESP,DF,0,0,,,2019-2020,1052e8c5,Las-Palmas,,,,,74.0,1.0,5481.0,Las-Palmas
-,﻿Álex Suárez,es ESP,DF,36,36,1.0,1.0,2020-2021,9c137b36,Las-Palmas,"3,190",35.4,1.0,1.0,74.0,1.0,5471.0,Las-Palmas
-,Sergio Ruiz,es ESP,MF,37,35,6.0,5.0,2020-2021,1f423a54,Las-Palmas,"3,089",34.3,3.0,0.0,74.0,1.0,,Las-Palmas
-,Eric Curbelo,es ESP,DF,36,29,0.0,0.0,2020-2021,34e39a18,Las-Palmas,"2,760",30.7,12.0,0.0,74.0,1.0,5451.0,Las-Palmas
-,Álvaro Lemos,es ESP,DF,31,28,0.0,3.0,2020-2021,31d45cc8,Las-Palmas,"2,498",27.8,15.0,3.0,74.0,1.0,,Las-Palmas
-,Roberto González,es ESP,"MF,FW",30,26,3.0,8.0,2020-2021,56545648,Las-Palmas,"2,052",22.8,1.0,0.0,74.0,1.0,,Las-Palmas
-,Álvaro Vallés,es ESP,GK,26,25,0.0,0.0,2020-2021,0166a73e,Las-Palmas,"2,304",25.6,1.0,0.0,74.0,1.0,5470.0,Las-Palmas
-,Sergio Araujo,ar ARG,"FW,MF",29,25,1.0,11.0,2020-2021,080ac8d8,Las-Palmas,"2,031",22.6,7.0,1.0,74.0,5.0,5441.0,Las-Palmas
-,Benito Ramírez,es ESP,"MF,DF",35,22,2.0,0.0,2020-2021,db714daf,Las-Palmas,"1,952",21.7,2.0,0.0,74.0,1.0,5450.0,Las-Palmas
-,Dani Castellano,es ESP,DF,22,20,1.0,0.0,2020-2021,21d4e122,Las-Palmas,"1,676",18.6,7.0,0.0,74.0,1.0,,Las-Palmas
-,Kirian Rodríguez,es ESP,MF,33,17,4.0,0.0,2020-2021,9b130479,Las-Palmas,"1,737",19.3,4.0,0.0,74.0,1.0,5465.0,Las-Palmas
-,Álex Domínguez,es ESP,GK,17,17,0.0,0.0,2020-2021,f240be08,Las-Palmas,"1,472",16.4,1.0,1.0,74.0,1.0,,Las-Palmas
-,Maikel Mesa,es ESP,MF,28,15,1.0,3.0,2020-2021,2afb7b21,Las-Palmas,"1,388",15.4,7.0,0.0,74.0,1.0,,Las-Palmas
-,Fabio González,es ESP,MF,25,14,1.0,0.0,2020-2021,5418d47c,Las-Palmas,"1,368",15.2,3.0,0.0,74.0,1.0,5458.0,Las-Palmas
-,Javi Castellano,es ESP,MF,17,14,1.0,0.0,2020-2021,dac68523,Las-Palmas,"1,222",13.6,2.0,0.0,74.0,1.0,,Las-Palmas
-,Francisco Jesús Crespo García,es ESP,MF,21,14,2.0,4.0,2020-2021,8c4e56cb,Las-Palmas,"1,183",13.1,4.0,0.0,74.0,1.0,5482.0,Las-Palmas
-,Enzo Loiodice,fr FRA,MF,15,14,0.0,1.0,2020-2021,6bca20fe,Las-Palmas,982,10.9,2.0,0.0,74.0,4.0,5483.0,Las-Palmas
-,Jesé,es ESP,FW,16,13,2.0,2.0,2020-2021,4a537185,Las-Palmas,"1,168",13.0,0.0,1.0,74.0,1.0,108.0,Las-Palmas
-,Óscar Clemente,es ESP,"MF,FW",26,13,0.0,0.0,2020-2021,9dfdbdeb,Las-Palmas,"1,113",12.4,2.0,0.0,74.0,1.0,,Las-Palmas
-,ALex Salomón,es ESP,DF,17,12,1.0,0.0,2020-2021,1c9e16d1,Las-Palmas,"1,094",12.2,3.0,0.0,74.0,1.0,5484.0,Las-Palmas
-,Eduardo Espiau,es ESP,FW,29,11,0.0,2.0,2020-2021,872befe6,Las-Palmas,"1,167",13.0,4.0,0.0,74.0,1.0,5485.0,Las-Palmas
-,Aythami Artiles,es ESP,DF,11,11,0.0,0.0,2020-2021,01ae64cd,Las-Palmas,971,10.8,3.0,1.0,74.0,1.0,,Las-Palmas
-,Jonathan,br BRA,DF,12,10,0.0,0.0,2020-2021,f3f60814,Las-Palmas,839,9.3,2.0,1.0,74.0,2.0,,Las-Palmas
-,Tomás Cardona,ar ARG,DF,10,8,0.0,0.0,2020-2021,5cabba3,Las-Palmas,754,8.4,2.0,0.0,74.0,5.0,5486.0,Las-Palmas
-,Rafa Mújica,es ESP,"FW,MF",13,7,0.0,1.0,2020-2021,04a67d5b,Las-Palmas,543,6.0,2.0,0.0,74.0,1.0,5487.0,Las-Palmas
-,Ariday Cabrera,es ESP,MF,21,5,2.0,3.0,2020-2021,206b11c5,Las-Palmas,615,6.8,1.0,0.0,74.0,1.0,,Las-Palmas
-,Cristian Rivera,es ESP,MF,6,5,1.0,0.0,2020-2021,8ef81d2d,Las-Palmas,467,5.2,1.0,0.0,74.0,1.0,,Las-Palmas
-,Pietro Iemmello,it ITA,FW,10,4,0.0,0.0,2020-2021,0861b8d6,Las-Palmas,403,4.5,1.0,0.0,74.0,9.0,5488.0,Las-Palmas
-,Claudio Mendes,es ESP,FW,16,3,1.0,1.0,2020-2021,c47fe6cb,Las-Palmas,383,4.3,4.0,0.0,74.0,1.0,5480.0,Las-Palmas
-,Ismael Athuman,ke KEN,DF,6,3,0.0,0.0,2020-2021,fdebc935,Las-Palmas,344,3.8,1.0,0.0,74.0,38.0,5489.0,Las-Palmas
-,Cristian Cedrés,es ESP,"MF,DF",6,3,0.0,0.0,2020-2021,1b8d0b59,Las-Palmas,147,1.6,1.0,0.0,74.0,1.0,5462.0,Las-Palmas
-,Diego Gutiérrez,es ESP,MF,2,1,0.0,0.0,2020-2021,75cf11d,Las-Palmas,120,1.3,0.0,0.0,74.0,1.0,5490.0,Las-Palmas
-,Juan Fernández,es ESP,MF,1,1,0.0,0.0,2020-2021,794cb89e,Las-Palmas,67,0.7,1.0,0.0,74.0,1.0,5476.0,Las-Palmas
-,Sergi Cardona,es ESP,DF,1,1,0.0,0.0,2020-2021,74e90475,Las-Palmas,45,0.5,1.0,0.0,74.0,1.0,,Las-Palmas
-,Saúl Coco,gq EQG,DF,2,0,0.0,0.0,2020-2021,d0ee1652,Las-Palmas,56,0.6,0.0,0.0,74.0,10.0,5491.0,Las-Palmas
-,Pau Miguélez,es ESP,MF,3,0,0.0,0.0,2020-2021,3c8efb6a,Las-Palmas,30,0.3,0.0,0.0,74.0,1.0,5492.0,Las-Palmas
-,Iñaki Elejalde,es ESP,FW,1,0,0.0,0.0,2020-2021,28d9dddb,Las-Palmas,27,0.3,0.0,0.0,74.0,1.0,5493.0,Las-Palmas
-,Alberto Moleiro,es ESP,MF,0,0,,,2020-2021,c2c8897d,Las-Palmas,,,,,74.0,1.0,5494.0,Las-Palmas
-,Pol,es ESP,MF,0,0,,,2020-2021,54badf9e,Las-Palmas,,,,,74.0,1.0,5478.0,Las-Palmas
-,Sergi Puig,es ESP,GK,0,0,,,2020-2021,77951f80,Las-Palmas,,,,,74.0,1.0,5495.0,Las-Palmas
-,Juan Satoca,es ESP,MF,0,0,,,2020-2021,d6315e0a,Las-Palmas,,,,,74.0,1.0,5496.0,Las-Palmas
-,David Vicente,es ESP,MF,0,0,,,2020-2021,0d16396e,Las-Palmas,,,,,74.0,1.0,,Las-Palmas
-,﻿Álvaro Lemos,es ESP,DF,36,36,3.0,1.0,2021-2022,31d45cc8,Las-Palmas,"3,034",33.7,9.0,0.0,74.0,1.0,,Las-Palmas
-,Jesé,es ESP,"FW,MF",39,36,6.0,11.0,2021-2022,4a537185,Las-Palmas,"2,963",32.9,4.0,0.0,74.0,1.0,108.0,Las-Palmas
-,Sergi Cardona,es ESP,DF,37,35,1.0,0.0,2021-2022,74e90475,Las-Palmas,"3,067",34.1,10.0,0.0,74.0,1.0,,Las-Palmas
-,Jonathan Viera,es ESP,"MF,FW",32,32,5.0,14.0,2021-2022,fa708aa,Las-Palmas,"2,667",29.6,4.0,0.0,74.0,1.0,,Las-Palmas
-,Raúl Navas,es ESP,DF,35,31,1.0,0.0,2021-2022,d178594,Las-Palmas,"2,929",32.5,5.0,1.0,74.0,1.0,,Las-Palmas
-,Eric Curbelo,es ESP,DF,33,31,1.0,1.0,2021-2022,34e39a18,Las-Palmas,"2,748",30.5,9.0,0.0,74.0,1.0,5451.0,Las-Palmas
-,Raúl Fernández,es ESP,GK,28,28,0.0,0.0,2021-2022,6fb59070,Las-Palmas,"2,520",28.0,3.0,0.0,74.0,1.0,,Las-Palmas
-,Kirian Rodríguez,es ESP,"MF,FW",32,27,4.0,5.0,2021-2022,9b130479,Las-Palmas,"2,394",26.6,0.0,0.0,74.0,1.0,5465.0,Las-Palmas
-,Omenuke Mfulu,cd COD,MF,28,27,0.0,0.0,2021-2022,bdc14559,Las-Palmas,"2,139",23.8,5.0,0.0,74.0,50.0,,Las-Palmas
-,Alberto Moleiro,es ESP,"MF,FW",35,22,1.0,3.0,2021-2022,c2c8897d,Las-Palmas,"1,905",21.2,2.0,0.0,74.0,1.0,5494.0,Las-Palmas
-,Enzo Loiodice,fr FRA,MF,24,22,0.0,1.0,2021-2022,6bca20fe,Las-Palmas,"1,540",17.1,7.0,1.0,74.0,4.0,5483.0,Las-Palmas
-,Fabio González,es ESP,MF,29,16,2.0,0.0,2021-2022,5418d47c,Las-Palmas,"1,599",17.8,8.0,0.0,74.0,1.0,5458.0,Las-Palmas
-,Benito Ramírez,es ESP,"DF,MF",30,14,3.0,3.0,2021-2022,db714daf,Las-Palmas,"1,446",16.1,3.0,1.0,74.0,1.0,5450.0,Las-Palmas
-,Álvaro Vallés,es ESP,GK,14,14,0.0,0.0,2021-2022,0166a73e,Las-Palmas,"1,260",14.0,0.0,0.0,74.0,1.0,5470.0,Las-Palmas
-,Armando Sadiku,al ALB,FW,24,12,0.0,4.0,2021-2022,8b6d1830,Las-Palmas,978,10.9,5.0,0.0,74.0,78.0,,Las-Palmas
-,Erick Ferigra,ec ECU,DF,15,11,0.0,0.0,2021-2022,67cddecb,Las-Palmas,"1,047",11.6,3.0,0.0,74.0,61.0,5497.0,Las-Palmas
-,Óscar Clemente,es ESP,MF,21,11,1.0,1.0,2021-2022,9dfdbdeb,Las-Palmas,944,10.5,3.0,0.0,74.0,1.0,,Las-Palmas
-,Francisco Jesús Crespo García,es ESP,MF,14,11,1.0,5.0,2021-2022,8c4e56cb,Las-Palmas,715,7.9,1.0,0.0,74.0,1.0,5482.0,Las-Palmas
-,Saúl Coco,gq EQG,DF,11,9,0.0,0.0,2021-2022,d0ee1652,Las-Palmas,784,8.7,4.0,0.0,74.0,10.0,5491.0,Las-Palmas
-,Roberto González,es ESP,"MF,FW",18,8,0.0,2.0,2021-2022,56545648,Las-Palmas,779,8.7,3.0,0.0,74.0,1.0,,Las-Palmas
-,ALex Salomón,es ESP,DF,12,6,0.0,0.0,2021-2022,1c9e16d1,Las-Palmas,654,7.3,2.0,0.0,74.0,1.0,5484.0,Las-Palmas
-,Adalberto Peñaranda,ve VEN,"MF,FW",18,5,1.0,2.0,2021-2022,4b3f2936,Las-Palmas,742,8.2,8.0,0.0,74.0,53.0,,Las-Palmas
-,Rafa Mújica,es ESP,FW,14,5,0.0,1.0,2021-2022,04a67d5b,Las-Palmas,529,5.9,2.0,1.0,74.0,1.0,5487.0,Las-Palmas
-,Sergio Ruiz,es ESP,MF,6,5,0.0,0.0,2021-2022,1f423a54,Las-Palmas,426,4.7,0.0,0.0,74.0,1.0,,Las-Palmas
-,Maikel Mesa,es ESP,MF,18,3,0.0,1.0,2021-2022,2afb7b21,Las-Palmas,573,6.4,5.0,0.0,74.0,1.0,,Las-Palmas
-,Álex Suárez,es ESP,DF,3,3,0.0,0.0,2021-2022,9c137b36,Las-Palmas,270,3.0,1.0,0.0,74.0,1.0,5471.0,Las-Palmas
-,Pinchi,es ESP,MF,16,2,0.0,0.0,2021-2022,53bf02db,Las-Palmas,526,5.8,3.0,0.0,74.0,1.0,,Las-Palmas
-,Hernâni Fortes,pt POR,"FW,MF",5,0,0.0,0.0,2021-2022,2327c29e,Las-Palmas,97,1.1,0.0,0.0,74.0,3.0,,Las-Palmas
-,Claudio Mendes,es ESP,FW,6,0,0.0,0.0,2021-2022,c47fe6cb,Las-Palmas,97,1.1,0.0,0.0,74.0,1.0,5480.0,Las-Palmas
-,Pedro Alejandro García Mejías,es ESP,MF,4,0,0.0,0.0,2021-2022,65217387,Las-Palmas,55,0.6,0.0,0.0,74.0,1.0,5498.0,Las-Palmas
-,Unai Veiga,es ESP,MF,2,0,0.0,0.0,2021-2022,d085ffac,Las-Palmas,40,0.4,0.0,0.0,74.0,1.0,5499.0,Las-Palmas
-,Pol,es ESP,MF,1,0,0.0,0.0,2021-2022,54badf9e,Las-Palmas,4,0.0,0.0,0.0,74.0,1.0,5478.0,Las-Palmas
-,Alfonso,es ESP,GK,0,0,,,2021-2022,970ed894,Las-Palmas,,,,,74.0,1.0,5500.0,Las-Palmas
-,Cendón,es ESP,GK,0,0,,,2021-2022,4b4cd163,Las-Palmas,,,,,74.0,1.0,5501.0,Las-Palmas
-,David Vicente,es ESP,MF,0,0,,,2021-2022,0d16396e,Las-Palmas,,,,,74.0,1.0,,Las-Palmas
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Baiano,br BRA,"DF,MF",35,34,10.0,6.0,2002-2003,/en/players/26a7618d/Baiano,26a7618d,Las-Palmas,"2,711",30.1,13.0,1.0,74,2.0,5386,Las-Palmas
+,Rubén Castro,es ESP,"FW,MF",40,32,2.0,9.0,2002-2003,/en/players/d109f62b/Ruben-Castro,d109f62b,Las-Palmas,"3,100",34.4,4.0,0.0,74,1.0,400,Las-Palmas
+,Alberto Monteagudo,es ESP,MF,37,32,1.0,2.0,2002-2003,/en/players/eaf8a40b/Alberto-Monteagudo,f8a40b,Las-Palmas,"2,847",31.6,10.0,0.0,74,1.0,4251,Las-Palmas
+,Álvaro,br BRA,DF,31,30,1.0,1.0,2002-2003,/en/players/3bb76c65/Alvaro,3bb76c65,Las-Palmas,"2,728",30.3,4.0,0.0,74,2.0,3550,Las-Palmas
+,Javi Martel,es ESP,DF,36,29,1.0,0.0,2002-2003,/en/players/f5db3525/Javi-Martel,f5db3525,Las-Palmas,"2,634",29.3,5.0,1.0,74,1.0,5387,Las-Palmas
+,Gustavo Reggi,ar ARG,FW,37,28,3.0,12.0,2002-2003,/en/players/877bbcf1/Gustavo-Reggi,877bbcf1,Las-Palmas,"2,566",28.5,6.0,0.0,74,5.0,4112,Las-Palmas
+,Carmelo González,es ESP,MF,31,27,3.0,3.0,2002-2003,/en/players/27f4e837/Carmelo-Gonzalez,27f4e837,Las-Palmas,"2,063",22.9,7.0,0.0,74,1.0,4119,Las-Palmas
+,Pedro Vega,es ESP,MF,35,24,5.0,5.0,2002-2003,/en/players/aec634a0/Pedro-Vega,c634a0,Las-Palmas,"2,193",24.4,3.0,0.0,74,1.0,4138,Las-Palmas
+,José Antonio,es ESP,DF,31,24,0.0,0.0,2002-2003,/en/players/a1b47d18/Jose-Antonio,1b47d18,Las-Palmas,"2,176",24.2,8.0,2.0,74,1.0,5121,Las-Palmas
+,Marc Bernaus,ad AND,DF,27,24,0.0,0.0,2002-2003,/en/players/761ecc1f/Marc-Bernaus,761ecc1f,Las-Palmas,"1,958",21.8,10.0,0.0,74,96.0,4014,Las-Palmas
+,Bo Braastrup Andersen,dk DEN,GK,23,23,0.0,0.0,2002-2003,/en/players/1947dd0d/Bo-Braastrup-Andersen,1947dd0d,Las-Palmas,"2,070",23.0,1.0,0.0,74,7.0,5388,Las-Palmas
+,Ildefons Lima,ad AND,DF,22,20,0.0,2.0,2002-2003,/en/players/e4f64f08/Ildefons-Lima,4f64f08,Las-Palmas,"1,826",20.3,5.0,2.0,74,96.0,5389,Las-Palmas
+,Diego Trotta,ar ARG,DF,18,18,0.0,1.0,2002-2003,/en/players/e7ec1faf/Diego-Trotta,7ec1faf,Las-Palmas,"1,575",17.5,4.0,0.0,74,5.0,3280,Las-Palmas
+,Mario Cotelo,es ESP,MF,18,18,0.0,1.0,2002-2003,/en/players/bb049a1f/Mario-Cotelo,bb049a1f,Las-Palmas,"1,457",16.2,7.0,1.0,74,1.0,4007,Las-Palmas
+,Ángel López,es ESP,"DF,MF",17,17,2.0,1.0,2002-2003,/en/players/93cdc601/Angel-Lopez,93cdc601,Las-Palmas,"1,461",16.2,4.0,1.0,74,1.0,628,Las-Palmas
+,Orlando Suárez,es ESP,FW,29,17,1.0,7.0,2002-2003,/en/players/ed1316be/Orlando-Suarez,d1316be,Las-Palmas,"1,440",16.0,1.0,0.0,74,1.0,5390,Las-Palmas
+,Orlando Quintana,es ESP,GK,15,15,0.0,0.0,2002-2003,/en/players/bdb7b026/Orlando-Quintana,bdb7b026,Las-Palmas,"1,350",15.0,2.0,0.0,74,1.0,663,Las-Palmas
+,Álex,es ESP,MF,14,14,1.0,0.0,2002-2003,/en/players/4512fa60/Alex,4512fa60,Las-Palmas,"1,102",12.2,2.0,0.0,74,1.0,5391,Las-Palmas
+,Tomás Hervás,es ESP,MF,13,13,2.0,1.0,2002-2003,/en/players/9f1f6292/Tomas-Hervas,9f1f6292,Las-Palmas,"1,093",12.1,2.0,1.0,74,1.0,1793,Las-Palmas
+,Alberto,es ESP,MF,18,10,0.0,0.0,2002-2003,/en/players/cbd5eb5f/Alberto,cbd5eb5f,Las-Palmas,997,11.1,3.0,0.0,74,1.0,4602,Las-Palmas
+,Edier Frejd,se SWE,DF,5,4,0.0,0.0,2002-2003,/en/players/7727127b/Edier-Frejd,7727127b,Las-Palmas,319,3.5,2.0,0.0,74,41.0,5392,Las-Palmas
+,Nauzet Yeray,,,3,3,0.0,0.0,2002-2003,No detected,,Las-Palmas,270,3.0,1.0,0.0,74,,90274,Las-Palmas
+,Angel Sanchez Armas,,,12,2,0.0,1.0,2002-2003,/en/players/ec4ed530/Angel-Sanchez-Armas,c4ed530,Las-Palmas,343,3.8,4.0,1.0,74,,90275,Las-Palmas
+,Alain N'Kong,cm CMR,"FW,MF",11,1,0.0,1.0,2002-2003,/en/players/bc8192a1/Alain-NKong,bc8192a1,Las-Palmas,362,4.0,1.0,0.0,74,36.0,5393,Las-Palmas
+,Rafael Maceratesi,ar ARG,FW,9,1,2.0,0.0,2002-2003,/en/players/97868bb0/Rafael-Maceratesi,97868bb0,Las-Palmas,269,3.0,1.0,0.0,74,5.0,5394,Las-Palmas
+,Željko Cicović,rs SRB,GK,1,1,0.0,0.0,2002-2003,/en/players/62803fde/Zeljko-Cicovic,62803fde,Las-Palmas,90,1.0,0.0,0.0,74,28.0,5395,Las-Palmas
+,José Silvano,es ESP,MF,1,1,0.0,0.0,2002-2003,/en/players/a735acbb/Jose-Silvano,735acbb,Las-Palmas,90,1.0,0.0,0.0,74,1.0,5396,Las-Palmas
+,Juan Carlos Socorro,ve VEN,MF,3,0,1.0,0.0,2002-2003,/en/players/45588437/Juan-Carlos-Socorro,45588437,Las-Palmas,94,1.0,0.0,0.0,74,53.0,5397,Las-Palmas
+,Diogo Maria,,,3,0,0.0,0.0,2002-2003,No detected,,Las-Palmas,70,0.8,0.0,0.0,74,,90276,Las-Palmas
+,Momo,es ESP,MF,4,0,0.0,0.0,2002-2003,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,42,0.5,0.0,0.0,74,1.0,405,Las-Palmas
+,David González,es ESP,MF,2,0,0.0,0.0,2002-2003,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,29,0.3,0.0,0.0,74,1.0,4276,Las-Palmas
+,Jaime Borja,,,1,0,0.0,0.0,2002-2003,No detected,,Las-Palmas,24,0.3,0.0,0.0,74,,90277,Las-Palmas
+,Miguel Ángel Molina,pe PER,FW,2,0,0.0,0.0,2002-2003,/en/players/f0a68573/Miguel-Angel-Molina,f0a68573,Las-Palmas,22,0.2,0.0,0.0,74,57.0,5398,Las-Palmas
+,Jose Augusto,,,2,0,0.0,0.0,2002-2003,No detected,,Las-Palmas,20,0.2,0.0,0.0,74,,90278,Las-Palmas
+,Anibal Abrante,,,1,0,0.0,0.0,2002-2003,No detected,,Las-Palmas,1,0.0,0.0,0.0,74,,90279,Las-Palmas
+,﻿Rubén Castro,es ESP,"FW,MF",40,40,6.0,21.0,2003-2004,/en/players/d109f62b/Ruben-Castro,d109f62b,Las-Palmas,"3,550",39.4,3.0,0.0,74,1.0,400,Las-Palmas
+,Javi Martel,es ESP,DF,37,33,1.0,0.0,2003-2004,/en/players/f5db3525/Javi-Martel,f5db3525,Las-Palmas,"2,920",32.4,10.0,0.0,74,1.0,5387,Las-Palmas
+,Guillermo Castro,es ESP,DF,36,33,0.0,0.0,2003-2004,/en/players/7f3d2662/Guillermo-Castro,7f3d2662,Las-Palmas,"2,884",32.0,13.0,0.0,74,1.0,5399,Las-Palmas
+,Tomás Hervás,es ESP,MF,32,32,4.0,1.0,2003-2004,/en/players/9f1f6292/Tomas-Hervas,9f1f6292,Las-Palmas,"2,697",30.0,10.0,1.0,74,1.0,1793,Las-Palmas
+,Momo,es ESP,MF,34,31,5.0,3.0,2003-2004,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,"2,551",28.3,4.0,0.0,74,1.0,405,Las-Palmas
+,Carmelo González,es ESP,MF,35,26,5.0,4.0,2003-2004,/en/players/27f4e837/Carmelo-Gonzalez,27f4e837,Las-Palmas,"2,174",24.2,10.0,1.0,74,1.0,4119,Las-Palmas
+,Kily González,ar ARG,"FW,MF",26,24,0.0,2.0,2003-2004,/en/players/69966620/Kily-Gonzalez,69966620,Las-Palmas,"2,161",24.0,9.0,1.0,74,5.0,875,Las-Palmas
+,Mariano Bogliacino,uy URU,MF,25,22,3.0,2.0,2003-2004,/en/players/ab028814/Mariano-Bogliacino,b028814,Las-Palmas,"1,913",21.3,3.0,0.0,74,8.0,5400,Las-Palmas
+,Jose Santana,,,20,19,0.0,0.0,2003-2004,No detected,,Las-Palmas,"1,561",17.3,7.0,1.0,74,,90280,Las-Palmas
+,Sanel Jahić,ba BIH,"DF,FW",19,18,0.0,3.0,2003-2004,/en/players/60e95fa4/Sanel-Jahic,60e95fa4,Las-Palmas,"1,633",18.1,4.0,0.0,74,49.0,5401,Las-Palmas
+,Orlando Quintana,es ESP,GK,17,16,0.0,0.0,2003-2004,/en/players/bdb7b026/Orlando-Quintana,bdb7b026,Las-Palmas,"1,506",16.7,0.0,0.0,74,1.0,663,Las-Palmas
+,Alberto,es ESP,MF,18,15,0.0,0.0,2003-2004,/en/players/cbd5eb5f/Alberto,cbd5eb5f,Las-Palmas,"1,347",15.0,5.0,0.0,74,1.0,4602,Las-Palmas
+,Jotha,es ESP,MF,15,14,1.0,0.0,2003-2004,/en/players/bed4387d/Jotha,bed4387d,Las-Palmas,"1,234",13.7,3.0,2.0,74,1.0,37,Las-Palmas
+,Željko Cicović,rs SRB,GK,13,13,0.0,0.0,2003-2004,/en/players/62803fde/Zeljko-Cicovic,62803fde,Las-Palmas,"1,104",12.3,0.0,0.0,74,28.0,5395,Las-Palmas
+,Gastón Sessa,ar ARG,GK,12,12,0.0,0.0,2003-2004,/en/players/0a798ba0/Gaston-Sessa,0a798ba0,Las-Palmas,"1,080",12.0,3.0,0.0,74,5.0,5402,Las-Palmas
+,Changui,es ESP,FW,33,11,2.0,3.0,2003-2004,/en/players/5fab2c25/Changui,5fab2c25,Las-Palmas,"1,438",16.0,3.0,0.0,74,1.0,396,Las-Palmas
+,Nicolás Frutos,ar ARG,FW,18,10,2.0,1.0,2003-2004,/en/players/0fc7518c/Nicolas-Frutos,0fc7518c,Las-Palmas,979,10.9,2.0,0.0,74,5.0,5403,Las-Palmas
+,Álex,es ESP,MF,11,9,0.0,0.0,2003-2004,/en/players/4512fa60/Alex,4512fa60,Las-Palmas,847,9.4,3.0,0.0,74,1.0,5391,Las-Palmas
+,Angel Sanchez Armas,,,16,9,2.0,0.0,2003-2004,/en/players/ec4ed530/Angel-Sanchez-Armas,c4ed530,Las-Palmas,814,9.0,2.0,0.0,74,,90275,Las-Palmas
+,Janne Hietanen,fi FIN,DF,11,8,1.0,0.0,2003-2004,/en/players/f386d256/Janne-Hietanen,f386d256,Las-Palmas,727,8.1,1.0,0.0,74,83.0,5404,Las-Palmas
+,Paqui,es ESP,DF,10,8,0.0,0.0,2003-2004,/en/players/cf8ddf0b/Paqui,cf8ddf0b,Las-Palmas,709,7.9,4.0,1.0,74,1.0,1994,Las-Palmas
+,Pedro Vega,es ESP,MF,29,7,0.0,3.0,2003-2004,/en/players/aec634a0/Pedro-Vega,c634a0,Las-Palmas,"1,065",11.8,1.0,0.0,74,1.0,4138,Las-Palmas
+,Matheus Vivian,br BRA,DF,8,7,0.0,1.0,2003-2004,/en/players/72a87101/Matheus-Vivian,72a87101,Las-Palmas,627,7.0,3.0,1.0,74,2.0,5405,Las-Palmas
+,Nauzet Alemán,es ESP,MF,8,7,0.0,0.0,2003-2004,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,581,6.5,3.0,0.0,74,1.0,2564,Las-Palmas
+,David García,es ESP,DF,7,6,0.0,0.0,2003-2004,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,528,5.9,1.0,0.0,74,1.0,5406,Las-Palmas
+,Juanma,es ESP,DF,6,6,0.0,0.0,2003-2004,/en/players/396b863a/Juanma,396b863a,Las-Palmas,421,4.7,1.0,0.0,74,1.0,3439,Las-Palmas
+,Adrián Martín,es ESP,MF,6,6,0.0,2.0,2003-2004,/en/players/53eabc97/Adrian-Martin,53eabc97,Las-Palmas,372,4.1,0.0,0.0,74,1.0,3915,Las-Palmas
+,José Antonio,es ESP,DF,4,4,0.0,0.0,2003-2004,/en/players/a1b47d18/Jose-Antonio,1b47d18,Las-Palmas,329,3.7,2.0,0.0,74,1.0,5121,Las-Palmas
+,Miguel Ángel Molina,pe PER,FW,4,3,0.0,0.0,2003-2004,/en/players/f0a68573/Miguel-Angel-Molina,f0a68573,Las-Palmas,306,3.4,0.0,0.0,74,57.0,5398,Las-Palmas
+,Aridani Arbelo,es ESP,DF,3,3,0.0,0.0,2003-2004,/en/players/bc62fd29/Aridani-Arbelo,bc62fd29,Las-Palmas,225,2.5,0.0,0.0,74,1.0,5407,Las-Palmas
+,Ildefons Lima,ad AND,DF,3,3,0.0,0.0,2003-2004,/en/players/e4f64f08/Ildefons-Lima,4f64f08,Las-Palmas,223,2.5,0.0,0.0,74,96.0,5389,Las-Palmas
+,David González,es ESP,MF,8,2,0.0,0.0,2003-2004,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,295,3.3,1.0,0.0,74,1.0,4276,Las-Palmas
+,Alfonso Poncho,,,5,2,0.0,0.0,2003-2004,No detected,,Las-Palmas,266,3.0,0.0,0.0,74,,90281,Las-Palmas
+,Nauzet Yeray,,,1,1,0.0,0.0,2003-2004,No detected,,Las-Palmas,90,1.0,0.0,0.0,74,,90274,Las-Palmas
+,André Schei Lindbæk,no NOR,FW,5,0,0.0,0.0,2003-2004,/en/players/198eb259/Andre-Schei-Lindbaek,198eb259,Las-Palmas,79,0.9,0.0,0.0,74,21.0,4234,Las-Palmas
+,David Medina,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/b5fc02b6/David-Medina,b5fc02b6,Las-Palmas,32,0.4,0.0,0.0,74,1.0,4445,Las-Palmas
+,Acorán,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/aa1ecac3/Acoran,1ecac3,Las-Palmas,18,0.2,0.0,0.0,74,1.0,5408,Las-Palmas
+,﻿Marcos Márquez,es ESP,FW,37,37,2.0,21.0,2006-2007,/en/players/914f774e/Marcos-Marquez,914f774e,Las-Palmas,"3,220",35.8,7.0,1.0,74,1.0,5288,Las-Palmas
+,David García,es ESP,DF,35,35,2.0,2.0,2006-2007,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"3,087",34.3,8.0,0.0,74,1.0,5406,Las-Palmas
+,Aythami Artiles,es ESP,DF,32,31,1.0,1.0,2006-2007,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,"2,803",31.1,4.0,2.0,74,1.0,429,Las-Palmas
+,Siro Darino,ar ARG,"DF,MF",32,30,3.0,4.0,2006-2007,/en/players/5a4e45be/Siro-Darino,5a4e45be,Las-Palmas,"2,520",28.0,18.0,1.0,74,5.0,5409,Las-Palmas
+,Xabier Castillo,hr CRO,DF,31,29,2.0,0.0,2006-2007,/en/players/638dc43b/Xabier-Castillo,638dc43b,Las-Palmas,"2,669",29.7,6.0,0.0,74,16.0,251,Las-Palmas
+,Nacho Garro,es ESP,MF,33,29,0.0,2.0,2006-2007,/en/players/9f6a2843/Nacho-Garro,9f6a2843,Las-Palmas,"2,476",27.5,14.0,0.0,74,1.0,3305,Las-Palmas
+,David Txiki,,,32,29,2.0,2.0,2006-2007,/en/players/9c1b1fe2/David-Txiki,9c1b1fe2,Las-Palmas,"2,293",25.5,7.0,0.0,74,,90221,Las-Palmas
+,Roberto Trashorras,es ESP,MF,30,28,6.0,8.0,2006-2007,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Las-Palmas,"2,539",28.2,11.0,0.0,74,1.0,705,Las-Palmas
+,Ángel Pindado,es ESP,GK,26,26,0.0,0.0,2006-2007,/en/players/6b44da65/Angel-Pindado,6b44da65,Las-Palmas,"2,340",26.0,5.0,0.0,74,1.0,3725,Las-Palmas
+,Nauzet Alemán,es ESP,MF,29,21,8.0,1.0,2006-2007,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,"1,814",20.2,15.0,1.0,74,1.0,2564,Las-Palmas
+,Juanma,es ESP,DF,24,20,2.0,4.0,2006-2007,/en/players/396b863a/Juanma,396b863a,Las-Palmas,"1,637",18.2,8.0,0.0,74,1.0,3439,Las-Palmas
+,Ione Cabrera,es ESP,DF,25,19,0.0,0.0,2006-2007,/en/players/a1b97b7c/Ione-Cabrera,1b97b7c,Las-Palmas,"1,784",19.8,9.0,0.0,74,1.0,5410,Las-Palmas
+,Víctor Afonso,es ESP,DF,21,19,1.0,1.0,2006-2007,/en/players/43946a7f/Victor-Afonso,43946a7f,Las-Palmas,"1,693",18.8,5.0,0.0,74,1.0,5411,Las-Palmas
+,Miguel Cobas,es ESP,MF,23,18,0.0,1.0,2006-2007,/en/players/86244575/Miguel-Cobas,86244575,Las-Palmas,"1,633",18.1,9.0,1.0,74,1.0,4702,Las-Palmas
+,Nacho González,ar ARG,GK,16,16,0.0,0.0,2006-2007,/en/players/0c99d0e9/Nacho-Gonzalez,0c99d0e9,Las-Palmas,"1,439",16.0,0.0,1.0,74,5.0,5412,Las-Palmas
+,Juan Viyuela,es ESP,MF,26,13,1.0,0.0,2006-2007,/en/players/888234e9/Juan-Viyuela,888234e9,Las-Palmas,"1,321",14.7,3.0,0.0,74,1.0,5419,Las-Palmas
+,David González,es ESP,MF,23,11,0.0,1.0,2006-2007,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,"1,167",13.0,7.0,0.0,74,1.0,4276,Las-Palmas
+,Javi Martel,es ESP,DF,13,11,0.0,0.0,2006-2007,/en/players/f5db3525/Javi-Martel,f5db3525,Las-Palmas,895,9.9,0.0,1.0,74,1.0,5387,Las-Palmas
+,Joseba Arriaga,es ESP,FW,32,10,2.0,1.0,2006-2007,/en/players/5819e0da/Joseba-Arriaga,5819e0da,Las-Palmas,"1,465",16.3,2.0,0.0,74,1.0,1239,Las-Palmas
+,Fredi Lobeiras,es ESP,MF,18,9,0.0,1.0,2006-2007,/en/players/9e85ab41/Fredi-Lobeiras,9e85ab41,Las-Palmas,864,9.6,3.0,0.0,74,1.0,1781,Las-Palmas
+,Roberto Losada,es ESP,FW,19,9,1.0,0.0,2006-2007,/en/players/547ccdd5/Roberto-Losada,547ccdd5,Las-Palmas,745,8.3,3.0,0.0,74,1.0,2524,Las-Palmas
+,Goran Marić,es ESP,FW,9,4,0.0,0.0,2006-2007,/en/players/71251e74/Goran-Maric,71251e74,Las-Palmas,381,4.2,1.0,0.0,74,1.0,700,Las-Palmas
+,Medina Aday,,,6,4,0.0,0.0,2006-2007,No detected,,Las-Palmas,320,3.6,1.0,0.0,74,,90282,Las-Palmas
+,Alberto Monteagudo,es ESP,MF,2,2,0.0,0.0,2006-2007,/en/players/eaf8a40b/Alberto-Monteagudo,f8a40b,Las-Palmas,88,1.0,0.0,0.0,74,1.0,4251,Las-Palmas
+,Nacho Casanova,es ESP,FW,3,1,0.0,0.0,2006-2007,/en/players/5621fc5b/Nacho-Casanova,5621fc5b,Las-Palmas,137,1.5,0.0,0.0,74,1.0,5413,Las-Palmas
+,Francisco Alberoni,br BRA,MF,3,1,0.0,0.0,2006-2007,/en/players/1004e28d/Francisco-Alberoni,1004e28d,Las-Palmas,97,1.1,0.0,0.0,74,2.0,5414,Las-Palmas
+,Francis Suárez,es ESP,MF,1,0,0.0,0.0,2006-2007,/en/players/213227f5/Francis-Suarez,213227f5,Las-Palmas,21,0.2,0.0,0.0,74,1.0,5415,Las-Palmas
+,﻿David García,es ESP,DF,40,40,2.0,1.0,2007-2008,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"3,584",39.8,8.0,1.0,74,1.0,5406,Las-Palmas
+,Daniel López Ramos,es ESP,DF,40,40,0.0,0.0,2007-2008,/en/players/915cea2d/Daniel-Lopez-Ramos,915cea2d,Las-Palmas,"3,406",37.8,7.0,0.0,74,1.0,3752,Las-Palmas
+,Nauzet Alemán,es ESP,MF,36,34,1.0,3.0,2007-2008,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,"2,812",31.2,8.0,1.0,74,1.0,2564,Las-Palmas
+,Miguel Cobas,es ESP,MF,33,32,0.0,0.0,2007-2008,/en/players/86244575/Miguel-Cobas,86244575,Las-Palmas,"2,824",31.4,12.0,2.0,74,1.0,4702,Las-Palmas
+,Roberto Trashorras,es ESP,MF,32,32,6.0,3.0,2007-2008,/en/players/5252fdf5/Roberto-Trashorras,5252fdf5,Las-Palmas,"2,759",30.7,6.0,1.0,74,1.0,705,Las-Palmas
+,Marcos Márquez,es ESP,FW,32,31,4.0,15.0,2007-2008,/en/players/914f774e/Marcos-Marquez,914f774e,Las-Palmas,"2,714",30.2,8.0,1.0,74,1.0,5288,Las-Palmas
+,Siro Darino,ar ARG,"DF,MF",34,29,5.0,2.0,2007-2008,/en/players/5a4e45be/Siro-Darino,5a4e45be,Las-Palmas,"2,233",24.8,17.0,0.0,74,5.0,5409,Las-Palmas
+,Christian,es ESP,DF,23,23,2.0,4.0,2007-2008,/en/players/1d5a68fe/Christian,1d5a68fe,Las-Palmas,"2,043",22.7,4.0,1.0,74,1.0,2867,Las-Palmas
+,Nacho González,ar ARG,GK,22,21,0.0,0.0,2007-2008,/en/players/0c99d0e9/Nacho-Gonzalez,0c99d0e9,Las-Palmas,"1,976",22.0,4.0,0.0,74,5.0,5412,Las-Palmas
+,Samuel,es ESP,DF,21,21,0.0,0.0,2007-2008,/en/players/a7055133/Samuel,7055133,Las-Palmas,"1,756",19.5,7.0,2.0,74,1.0,2861,Las-Palmas
+,Adrián Colunga,es ESP,"FW,MF",33,20,2.0,13.0,2007-2008,/en/players/2212dd4e/Adrian-Colunga,2212dd4e,Las-Palmas,"2,185",24.3,5.0,0.0,74,1.0,1701,Las-Palmas
+,Sergio Suárez,es ESP,MF,23,17,0.0,3.0,2007-2008,/en/players/e7c64834/Sergio-Suarez,7c64834,Las-Palmas,"1,326",14.7,8.0,0.0,74,1.0,5416,Las-Palmas
+,Juanma,es ESP,DF,26,16,0.0,2.0,2007-2008,/en/players/396b863a/Juanma,396b863a,Las-Palmas,"1,525",16.9,6.0,0.0,74,1.0,3439,Las-Palmas
+,Roberto Santamaría,es ESP,GK,16,16,0.0,0.0,2007-2008,/en/players/bca21ef3/Roberto-Santamaria,bca21ef3,Las-Palmas,"1,440",16.0,0.0,0.0,74,1.0,1695,Las-Palmas
+,Juanpa,es ESP,DF,16,11,2.0,0.0,2007-2008,/en/players/75ef1517/Juanpa,75ef1517,Las-Palmas,"1,117",12.4,1.0,0.0,74,1.0,4241,Las-Palmas
+,Francis Suárez,es ESP,MF,20,10,2.0,0.0,2007-2008,/en/players/213227f5/Francis-Suarez,213227f5,Las-Palmas,928,10.3,4.0,0.0,74,1.0,5415,Las-Palmas
+,Nacho Casanova,es ESP,FW,13,7,1.0,1.0,2007-2008,/en/players/5621fc5b/Nacho-Casanova,5621fc5b,Las-Palmas,679,7.5,2.0,0.0,74,1.0,5413,Las-Palmas
+,David González,es ESP,MF,14,7,1.0,1.0,2007-2008,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,618,6.9,1.0,0.0,74,1.0,4276,Las-Palmas
+,Pitu,es ESP,MF,11,7,1.0,0.0,2007-2008,/en/players/ed6ee013/Pitu,d6ee013,Las-Palmas,556,6.2,1.0,0.0,74,1.0,1101,Las-Palmas
+,Carlos Merino,es ESP,MF,13,6,0.0,0.0,2007-2008,/en/players/443c8c9a/Carlos-Merino,443c8c9a,Las-Palmas,660,7.3,1.0,0.0,74,1.0,1252,Las-Palmas
+,Esteban González,ar ARG,MF,15,6,1.0,0.0,2007-2008,/en/players/3b3381db/Esteban-Gonzalez,3b3381db,Las-Palmas,604,6.7,1.0,0.0,74,5.0,5417,Las-Palmas
+,Ione Cabrera,es ESP,DF,8,6,0.0,0.0,2007-2008,/en/players/a1b97b7c/Ione-Cabrera,1b97b7c,Las-Palmas,589,6.5,5.0,0.0,74,1.0,5410,Las-Palmas
+,Capi,es ESP,DF,7,6,1.0,0.0,2007-2008,/en/players/7ba110d0/Capi,7ba110d0,Las-Palmas,555,6.2,2.0,0.0,74,1.0,3548,Las-Palmas
+,Yuri de Souza,br BRA,FW,12,6,1.0,0.0,2007-2008,/en/players/75e74213/Yuri-de-Souza,75e74213,Las-Palmas,533,5.9,1.0,0.0,74,2.0,5418,Las-Palmas
+,Ángel Pindado,es ESP,GK,5,5,0.0,0.0,2007-2008,/en/players/6b44da65/Angel-Pindado,6b44da65,Las-Palmas,364,4.0,0.0,1.0,74,1.0,3725,Las-Palmas
+,Kenji Fukuda,jp JPN,FW,15,3,1.0,3.0,2007-2008,/en/players/889fd1fe/Kenji-Fukuda,889fd1fe,Las-Palmas,436,4.8,3.0,0.0,74,54.0,4252,Las-Palmas
+,Juan Viyuela,es ESP,MF,9,3,0.0,0.0,2007-2008,/en/players/888234e9/Juan-Viyuela,888234e9,Las-Palmas,388,4.3,1.0,0.0,74,1.0,5419,Las-Palmas
+,Ruymán Hernández,es ESP,DF,7,3,0.0,0.0,2007-2008,/en/players/4d598125/Ruyman-Hernandez,4d598125,Las-Palmas,313,3.5,0.0,0.0,74,1.0,2913,Las-Palmas
+,Juan Manuel Azconzábal,ar ARG,DF,2,1,0.0,0.0,2007-2008,/en/players/90336cf6/Juan-Manuel-Azconzabal,90336cf6,Las-Palmas,163,1.8,1.0,0.0,74,5.0,5420,Las-Palmas
+,Betencor Dani,,,2,1,0.0,0.0,2007-2008,No detected,,Las-Palmas,97,1.1,0.0,0.0,74,,90283,Las-Palmas
+,Iván Benítez,es ESP,DF,1,1,0.0,0.0,2007-2008,/en/players/ba34fbb2/Ivan-Benitez,ba34fbb2,Las-Palmas,90,1.0,0.0,0.0,74,1.0,5421,Las-Palmas
+,Alberto Monteagudo,es ESP,MF,3,1,0.0,0.0,2007-2008,/en/players/eaf8a40b/Alberto-Monteagudo,f8a40b,Las-Palmas,62,0.7,1.0,0.0,74,1.0,4251,Las-Palmas
+,﻿Marcos Márquez,es ESP,FW,40,40,3.0,21.0,2008-2009,/en/players/914f774e/Marcos-Marquez,914f774e,Las-Palmas,"3,597",40.0,12.0,0.0,74,1.0,5288,Las-Palmas
+,Roberto Santamaría,es ESP,GK,39,39,0.0,0.0,2008-2009,/en/players/bca21ef3/Roberto-Santamaria,bca21ef3,Las-Palmas,"3,510",39.0,3.0,0.0,74,1.0,1695,Las-Palmas
+,Dani López,es ESP,DF,39,37,1.0,0.0,2008-2009,/en/players/da8aa199/Dani-Lopez,da8aa199,Las-Palmas,"3,301",36.7,5.0,1.0,74,1.0,4263,Las-Palmas
+,Jorge Larena,es ESP,MF,39,37,0.0,0.0,2008-2009,/en/players/3de25195/Jorge-Larena,3de25195,Las-Palmas,"2,952",32.8,10.0,0.0,74,1.0,668,Las-Palmas
+,Pablo Sánchez,es ESP,"FW,MF",38,36,4.0,7.0,2008-2009,/en/players/8c3fe4bb/Pablo-Sanchez,8c3fe4bb,Las-Palmas,"3,038",33.8,4.0,0.0,74,1.0,3185,Las-Palmas
+,David García,es ESP,DF,36,35,1.0,2.0,2008-2009,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"3,047",33.9,10.0,0.0,74,1.0,5406,Las-Palmas
+,Daniel López Ramos,es ESP,DF,35,34,1.0,0.0,2008-2009,/en/players/915cea2d/Daniel-Lopez-Ramos,915cea2d,Las-Palmas,"3,020",33.6,12.0,1.0,74,1.0,3752,Las-Palmas
+,Miguel García,es ESP,MF,32,32,2.0,0.0,2008-2009,/en/players/4260ce15/Miguel-Garcia,4260ce15,Las-Palmas,"2,774",30.8,15.0,2.0,74,1.0,4346,Las-Palmas
+,Samuel,es ESP,DF,32,31,0.0,1.0,2008-2009,/en/players/a7055133/Samuel,7055133,Las-Palmas,"2,681",29.8,11.0,3.0,74,1.0,2861,Las-Palmas
+,Nauzet Alemán,es ESP,MF,30,30,3.0,5.0,2008-2009,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,"2,406",26.7,15.0,1.0,74,1.0,2564,Las-Palmas
+,Juanpa,es ESP,DF,26,26,0.0,1.0,2008-2009,/en/players/75ef1517/Juanpa,75ef1517,Las-Palmas,"2,295",25.5,5.0,0.0,74,1.0,4241,Las-Palmas
+,Siro Darino,ar ARG,"DF,MF",31,21,3.0,1.0,2008-2009,/en/players/5a4e45be/Siro-Darino,5a4e45be,Las-Palmas,"2,010",22.3,8.0,1.0,74,5.0,5409,Las-Palmas
+,Sergio Suárez,es ESP,MF,20,12,1.0,0.0,2008-2009,/en/players/e7c64834/Sergio-Suarez,7c64834,Las-Palmas,938,10.4,4.0,0.0,74,1.0,5416,Las-Palmas
+,Saúl Berjón,es ESP,"FW,MF",36,9,2.0,5.0,2008-2009,/en/players/59e3e14b/Saul-Berjon,59e3e14b,Las-Palmas,"1,387",15.4,1.0,0.0,74,1.0,3949,Las-Palmas
+,Gerardo,es ESP,"FW,MF",24,9,0.0,1.0,2008-2009,/en/players/4d29f614/Gerardo,4d29f614,Las-Palmas,978,10.9,7.0,0.0,74,1.0,90284,Las-Palmas
+,Pitu,es ESP,MF,13,8,0.0,1.0,2008-2009,/en/players/ed6ee013/Pitu,d6ee013,Las-Palmas,673,7.5,5.0,0.0,74,1.0,1101,Las-Palmas
+,Francis Suárez,es ESP,MF,10,5,1.0,0.0,2008-2009,/en/players/213227f5/Francis-Suarez,213227f5,Las-Palmas,367,4.1,2.0,0.0,74,1.0,5415,Las-Palmas
+,Gustavo,es ESP,MF,7,4,0.0,0.0,2008-2009,/en/players/9a555f42/Gustavo,9a555f42,Las-Palmas,349,3.9,3.0,0.0,74,1.0,5422,Las-Palmas
+,Salomón Rondón,ve VEN,FW,10,3,0.0,0.0,2008-2009,/en/players/b318a643/Salomon-Rondon,b318a643,Las-Palmas,385,4.3,1.0,0.0,74,53.0,2368,Las-Palmas
+,Amaral,br BRA,DF,7,3,1.0,0.0,2008-2009,/en/players/f491cca7/Amaral,f491cca7,Las-Palmas,326,3.6,2.0,0.0,74,2.0,5423,Las-Palmas
+,Ángel Pindado,es ESP,GK,3,3,0.0,0.0,2008-2009,/en/players/6b44da65/Angel-Pindado,6b44da65,Las-Palmas,270,3.0,0.0,0.0,74,1.0,3725,Las-Palmas
+,Miguel Cobas,es ESP,MF,2,2,0.0,0.0,2008-2009,/en/players/86244575/Miguel-Cobas,86244575,Las-Palmas,180,2.0,1.0,0.0,74,1.0,4702,Las-Palmas
+,Ruymán Hernández,es ESP,DF,2,2,0.0,0.0,2008-2009,/en/players/4d598125/Ruyman-Hernandez,4d598125,Las-Palmas,168,1.9,0.0,0.0,74,1.0,2913,Las-Palmas
+,Ione Cabrera,es ESP,DF,2,2,0.0,0.0,2008-2009,/en/players/a1b97b7c/Ione-Cabrera,1b97b7c,Las-Palmas,90,1.0,2.0,0.0,74,1.0,5410,Las-Palmas
+,David González,es ESP,MF,23,1,0.0,0.0,2008-2009,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,442,4.9,3.0,0.0,74,1.0,4276,Las-Palmas
+,Iban Iyanga,gq EQG,"DF,FW",1,1,0.0,0.0,2008-2009,/en/players/e3985fc6/Iban-Iyanga,3985fc6,Las-Palmas,68,0.8,0.0,0.0,74,10.0,5424,Las-Palmas
+,Armiche Ortega,es ESP,"FW,MF",2,0,0.0,0.0,2008-2009,/en/players/1f828e72/Armiche-Ortega,1f828e72,Las-Palmas,81,0.9,0.0,0.0,74,1.0,5425,Las-Palmas
+,Vicente Gómez,es ESP,MF,1,0,0.0,0.0,2008-2009,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,15,0.2,1.0,0.0,74,1.0,547,Las-Palmas
+,Juanpe,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/1633fc8a/Juanpe,1633fc8a,Las-Palmas,14,0.2,0.0,0.0,74,1.0,2617,Las-Palmas
+,﻿David García,es ESP,DF,39,39,0.0,0.0,2009-2010,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"3,459",38.4,15.0,2.0,74,1.0,5406,Las-Palmas
+,Álvaro Cejudo,es ESP,MF,34,33,0.0,5.0,2009-2010,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Las-Palmas,"2,566",28.5,7.0,0.0,74,1.0,1477,Las-Palmas
+,Juanpa,es ESP,DF,33,31,2.0,2.0,2009-2010,/en/players/75ef1517/Juanpa,75ef1517,Las-Palmas,"2,709",30.1,5.0,0.0,74,1.0,4241,Las-Palmas
+,Stéphane Pignol,fr FRA,DF,31,31,1.0,0.0,2009-2010,/en/players/ca3ae27c/Stephane-Pignol,ca3ae27c,Las-Palmas,"2,656",29.5,14.0,3.0,74,4.0,3563,Las-Palmas
+,Salomón Rondón,ve VEN,FW,36,30,2.0,10.0,2009-2010,/en/players/b318a643/Salomon-Rondon,b318a643,Las-Palmas,"2,649",29.4,5.0,1.0,74,53.0,2368,Las-Palmas
+,Miguel García,es ESP,MF,31,28,4.0,1.0,2009-2010,/en/players/4260ce15/Miguel-Garcia,4260ce15,Las-Palmas,"2,535",28.2,13.0,1.0,74,1.0,4346,Las-Palmas
+,Jorge Larena,es ESP,MF,29,22,3.0,2.0,2009-2010,/en/players/3de25195/Jorge-Larena,3de25195,Las-Palmas,"1,816",20.2,9.0,0.0,74,1.0,668,Las-Palmas
+,Ángel Pindado,es ESP,GK,22,21,0.0,0.0,2009-2010,/en/players/6b44da65/Angel-Pindado,6b44da65,Las-Palmas,"1,948",21.6,3.0,0.0,74,1.0,3725,Las-Palmas
+,Fabián Assmann,ar ARG,GK,21,21,0.0,0.0,2009-2010,/en/players/151bb523/Fabian-Assmann,151bb523,Las-Palmas,"1,832",20.4,1.0,0.0,74,5.0,5426,Las-Palmas
+,David González,es ESP,MF,26,20,0.0,1.0,2009-2010,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,"1,885",20.9,3.0,1.0,74,1.0,4276,Las-Palmas
+,Andrés Lamas,uy URU,DF,22,20,2.0,4.0,2009-2010,/en/players/4b204e6d/Andres-Lamas,4b204e6d,Las-Palmas,"1,849",20.5,6.0,1.0,74,8.0,3172,Las-Palmas
+,Javi Guerrero,es ESP,FW,30,20,4.0,11.0,2009-2010,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Las-Palmas,"1,820",20.2,4.0,0.0,74,1.0,671,Las-Palmas
+,Marcos Márquez,es ESP,FW,34,19,5.0,3.0,2009-2010,/en/players/914f774e/Marcos-Marquez,914f774e,Las-Palmas,"2,025",22.5,2.0,1.0,74,1.0,5288,Las-Palmas
+,Saúl Berjón,es ESP,"FW,MF",28,18,1.0,3.0,2009-2010,/en/players/59e3e14b/Saul-Berjon,59e3e14b,Las-Palmas,"1,726",19.2,4.0,0.0,74,1.0,3949,Las-Palmas
+,Grégory Béranger,fr FRA,DF,18,18,0.0,0.0,2009-2010,/en/players/3dac0268/Gregory-Beranger,3dac0268,Las-Palmas,"1,548",17.2,10.0,0.0,74,4.0,3046,Las-Palmas
+,Dani López,es ESP,DF,17,16,1.0,0.0,2009-2010,/en/players/da8aa199/Dani-Lopez,da8aa199,Las-Palmas,"1,472",16.4,4.0,0.0,74,1.0,4263,Las-Palmas
+,Siro Darino,ar ARG,"DF,MF",23,13,3.0,1.0,2009-2010,/en/players/5a4e45be/Siro-Darino,5a4e45be,Las-Palmas,"1,304",14.5,10.0,0.0,74,5.0,5409,Las-Palmas
+,Diego León,es ESP,MF,22,12,2.0,1.0,2009-2010,/en/players/457cdc9c/Diego-Leon,457cdc9c,Las-Palmas,"1,184",13.2,3.0,0.0,74,1.0,5427,Las-Palmas
+,Samuel,es ESP,DF,13,10,0.0,0.0,2009-2010,/en/players/a7055133/Samuel,7055133,Las-Palmas,929,10.3,5.0,0.0,74,1.0,2861,Las-Palmas
+,Francis Suárez,es ESP,MF,19,10,0.0,1.0,2009-2010,/en/players/213227f5/Francis-Suarez,213227f5,Las-Palmas,916,10.2,3.0,0.0,74,1.0,5415,Las-Palmas
+,Sergio Suárez,es ESP,MF,20,9,2.0,3.0,2009-2010,/en/players/e7c64834/Sergio-Suarez,7c64834,Las-Palmas,800,8.9,6.0,0.0,74,1.0,5416,Las-Palmas
+,Josico,es ESP,"FW,MF",12,9,0.0,0.0,2009-2010,/en/players/1d2fe5a5/Josico,1d2fe5a5,Las-Palmas,625,6.9,3.0,0.0,74,1.0,2705,Las-Palmas
+,Antonio Guayre,es ESP,"FW,MF",16,7,0.0,1.0,2009-2010,/en/players/82cf603f/Antonio-Guayre,82cf603f,Las-Palmas,601,6.7,1.0,0.0,74,1.0,677,Las-Palmas
+,Armiche Ortega,es ESP,"FW,MF",4,4,0.0,0.0,2009-2010,/en/players/1f828e72/Armiche-Ortega,1f828e72,Las-Palmas,293,3.3,0.0,0.0,74,1.0,5425,Las-Palmas
+,Pollo,es ESP,MF,1,1,0.0,0.0,2009-2010,/en/players/a21f9971/Pollo,21f9971,Las-Palmas,66,0.7,0.0,0.0,74,1.0,2172,Las-Palmas
+,Pedro Vega,es ESP,MF,4,0,0.0,0.0,2009-2010,/en/players/aec634a0/Pedro-Vega,c634a0,Las-Palmas,132,1.5,0.0,0.0,74,1.0,4138,Las-Palmas
+,﻿Mariano Barbosa,ar ARG,GK,39,39,0.0,0.0,2010-2011,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Las-Palmas,"3,480",38.7,3.0,0.0,74,5.0,1891,Las-Palmas
+,David García,es ESP,DF,37,36,0.0,0.0,2010-2011,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"3,166",35.2,13.0,2.0,74,1.0,5406,Las-Palmas
+,Javi Guerrero,es ESP,FW,34,33,3.0,12.0,2010-2011,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Las-Palmas,"2,787",31.0,8.0,0.0,74,1.0,671,Las-Palmas
+,Ruymán Hernández,es ESP,DF,35,32,0.0,2.0,2010-2011,/en/players/4d598125/Ruyman-Hernandez,4d598125,Las-Palmas,"2,932",32.6,14.0,0.0,74,1.0,2913,Las-Palmas
+,David González,es ESP,MF,32,27,1.0,2.0,2010-2011,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,"2,461",27.3,8.0,0.0,74,1.0,4276,Las-Palmas
+,Jonathan Viera,es ESP,"FW,MF",31,26,8.0,7.0,2010-2011,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"2,358",26.2,9.0,0.0,74,1.0,947,Las-Palmas
+,Aythami Álvarez,es ESP,DF,33,26,1.0,1.0,2010-2011,/en/players/3bf6578a/Aythami-Alvarez,3bf6578a,Las-Palmas,"2,293",25.5,10.0,0.0,74,1.0,5428,Las-Palmas
+,Stéphane Pignol,fr FRA,DF,25,23,0.0,0.0,2010-2011,/en/players/ca3ae27c/Stephane-Pignol,ca3ae27c,Las-Palmas,"2,142",23.8,13.0,0.0,74,4.0,3563,Las-Palmas
+,Samuel,es ESP,DF,24,23,0.0,1.0,2010-2011,/en/players/a7055133/Samuel,7055133,Las-Palmas,"1,998",22.2,5.0,1.0,74,1.0,2861,Las-Palmas
+,Josico,es ESP,"FW,MF",25,22,0.0,2.0,2010-2011,/en/players/1d2fe5a5/Josico,1d2fe5a5,Las-Palmas,"1,615",17.9,8.0,0.0,74,1.0,2705,Las-Palmas
+,Sergio Suárez,es ESP,MF,28,20,2.0,6.0,2010-2011,/en/players/e7c64834/Sergio-Suarez,7c64834,Las-Palmas,"1,720",19.1,12.0,0.0,74,1.0,5416,Las-Palmas
+,Vicente Gómez,es ESP,MF,26,18,1.0,0.0,2010-2011,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"1,770",19.7,10.0,1.0,74,1.0,547,Las-Palmas
+,Matías Lequi,ar ARG,DF,17,17,0.0,0.0,2010-2011,/en/players/dd0c806c/Matias-Lequi,dd0c806c,Las-Palmas,"1,449",16.1,5.0,2.0,74,5.0,665,Las-Palmas
+,Pedro Vega,es ESP,MF,25,17,5.0,2.0,2010-2011,/en/players/aec634a0/Pedro-Vega,c634a0,Las-Palmas,"1,431",15.9,3.0,0.0,74,1.0,4138,Las-Palmas
+,Álvaro Cejudo,es ESP,MF,16,16,0.0,6.0,2010-2011,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Las-Palmas,"1,302",14.5,7.0,0.0,74,1.0,1477,Las-Palmas
+,Juan Quero,es ESP,MF,17,14,3.0,0.0,2010-2011,/en/players/42107bed/Juan-Quero,42107bed,Las-Palmas,"1,227",13.6,0.0,0.0,74,1.0,3443,Las-Palmas
+,Vitolo,es ESP,"FW,MF",10,10,0.0,1.0,2010-2011,/en/players/db750822/Vitolo,db750822,Las-Palmas,796,8.8,3.0,0.0,74,1.0,1875,Las-Palmas
+,Pollo,es ESP,MF,22,9,1.0,1.0,2010-2011,/en/players/a21f9971/Pollo,21f9971,Las-Palmas,961,10.7,7.0,0.0,74,1.0,2172,Las-Palmas
+,Antonio Guayre,es ESP,"FW,MF",12,8,2.0,3.0,2010-2011,/en/players/82cf603f/Antonio-Guayre,82cf603f,Las-Palmas,646,7.2,1.0,0.0,74,1.0,677,Las-Palmas
+,Jorge Larena,es ESP,MF,13,8,0.0,2.0,2010-2011,/en/players/3de25195/Jorge-Larena,3de25195,Las-Palmas,615,6.8,2.0,0.0,74,1.0,668,Las-Palmas
+,Armiche Ortega,es ESP,"FW,MF",22,7,1.0,1.0,2010-2011,/en/players/1f828e72/Armiche-Ortega,1f828e72,Las-Palmas,937,10.4,0.0,0.0,74,1.0,5425,Las-Palmas
+,Juanpe,es ESP,DF,10,7,0.0,0.0,2010-2011,/en/players/1633fc8a/Juanpe,1633fc8a,Las-Palmas,684,7.6,1.0,0.0,74,1.0,2617,Las-Palmas
+,Dani Carril,es ESP,DF,8,7,0.0,1.0,2010-2011,/en/players/718167d2/Dani-Carril,718167d2,Las-Palmas,596,6.6,5.0,1.0,74,1.0,4146,Las-Palmas
+,Mauro Quiroga,ar ARG,FW,22,5,0.0,5.0,2010-2011,/en/players/1643c897/Mauro-Quiroga,1643c897,Las-Palmas,787,8.7,1.0,0.0,74,5.0,3328,Las-Palmas
+,Edixon Perea,co COL,FW,10,5,0.0,0.0,2010-2011,/en/players/4079294e/Edixon-Perea,4079294e,Las-Palmas,521,5.8,1.0,0.0,74,19.0,5429,Las-Palmas
+,Ángel Pindado,es ESP,GK,4,3,0.0,0.0,2010-2011,/en/players/6b44da65/Angel-Pindado,6b44da65,Las-Palmas,300,3.3,0.0,0.0,74,1.0,3725,Las-Palmas
+,Leonardo Borzani,ar ARG,MF,3,2,0.0,0.0,2010-2011,/en/players/c61d56c1/Leonardo-Borzani,c61d56c1,Las-Palmas,200,2.2,2.0,0.0,74,5.0,4610,Las-Palmas
+,Iban Iyanga,gq EQG,"DF,FW",5,1,0.0,0.0,2010-2011,/en/players/e3985fc6/Iban-Iyanga,3985fc6,Las-Palmas,142,1.6,2.0,0.0,74,10.0,5424,Las-Palmas
+,Hernán,es ESP,"DF,MF",1,1,0.0,0.0,2010-2011,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,59,0.7,0.0,0.0,74,1.0,4756,Las-Palmas
+,Tyronne,es ESP,"FW,MF",1,0,0.0,0.0,2010-2011,/en/players/f76bbf9c/Tyronne,f76bbf9c,Las-Palmas,16,0.2,0.0,0.0,74,1.0,4879,Las-Palmas
+,﻿Javi Castellano,es ESP,"DF,MF",41,41,2.0,0.0,2011-2012,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"3,690",41.0,10.0,0.0,74,1.0,3760,Las-Palmas
+,Stéphane Pignol,fr FRA,DF,38,37,0.0,0.0,2011-2012,/en/players/ca3ae27c/Stephane-Pignol,ca3ae27c,Las-Palmas,"3,317",36.9,15.0,2.0,74,4.0,3563,Las-Palmas
+,Mariano Barbosa,ar ARG,GK,37,37,0.0,0.0,2011-2012,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Las-Palmas,"3,274",36.4,2.0,1.0,74,5.0,1891,Las-Palmas
+,Vitolo,es ESP,"FW,MF",36,31,1.0,10.0,2011-2012,/en/players/db750822/Vitolo,db750822,Las-Palmas,"2,605",28.9,12.0,0.0,74,1.0,1875,Las-Palmas
+,David González,es ESP,MF,34,30,6.0,2.0,2011-2012,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,"2,560",28.4,10.0,1.0,74,1.0,4276,Las-Palmas
+,Jonathan Viera,es ESP,"FW,MF",29,29,13.0,9.0,2011-2012,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"2,578",28.6,9.0,3.0,74,1.0,947,Las-Palmas
+,Diego Herner,ar ARG,DF,29,28,1.0,0.0,2011-2012,/en/players/8fd75cd3/Diego-Herner,8fd75cd3,Las-Palmas,"2,381",26.5,6.0,2.0,74,5.0,5430,Las-Palmas
+,Ruymán Hernández,es ESP,DF,24,23,1.0,1.0,2011-2012,/en/players/4d598125/Ruyman-Hernandez,4d598125,Las-Palmas,"2,038",22.6,6.0,1.0,74,1.0,2913,Las-Palmas
+,Víctor Laguardia,es ESP,DF,25,23,0.0,1.0,2011-2012,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Las-Palmas,"2,024",22.5,8.0,0.0,74,1.0,3332,Las-Palmas
+,Javi Guerrero,es ESP,FW,28,22,4.0,7.0,2011-2012,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Las-Palmas,"1,813",20.1,6.0,2.0,74,1.0,671,Las-Palmas
+,Javier Portillo,es ESP,FW,34,20,2.0,8.0,2011-2012,/en/players/99058498/Javier-Portillo,99058498,Las-Palmas,"1,730",19.2,2.0,0.0,74,1.0,19,Las-Palmas
+,Enrique Corrales,es ESP,DF,20,20,0.0,0.0,2011-2012,/en/players/a8dbcf66/Enrique-Corrales,8dbcf66,Las-Palmas,"1,672",18.6,7.0,1.0,74,1.0,1607,Las-Palmas
+,Juanpe,es ESP,DF,19,18,0.0,1.0,2011-2012,/en/players/1633fc8a/Juanpe,1633fc8a,Las-Palmas,"1,573",17.5,7.0,1.0,74,1.0,2617,Las-Palmas
+,Vicente Gómez,es ESP,MF,29,17,0.0,2.0,2011-2012,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"1,513",16.8,5.0,1.0,74,1.0,547,Las-Palmas
+,David García,es ESP,DF,17,16,0.0,3.0,2011-2012,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"1,312",14.6,4.0,0.0,74,1.0,5406,Las-Palmas
+,Sergio Suárez,es ESP,MF,24,13,1.0,3.0,2011-2012,/en/players/e7c64834/Sergio-Suarez,7c64834,Las-Palmas,"1,122",12.5,7.0,2.0,74,1.0,5416,Las-Palmas
+,Momo,es ESP,MF,13,11,1.0,2.0,2011-2012,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,892,9.9,1.0,0.0,74,1.0,405,Las-Palmas
+,Mauro Quiroga,ar ARG,FW,33,10,1.0,7.0,2011-2012,/en/players/1643c897/Mauro-Quiroga,1643c897,Las-Palmas,"1,542",17.1,4.0,0.0,74,5.0,3328,Las-Palmas
+,Roque Mesa,es ESP,MF,22,10,0.0,0.0,2011-2012,/en/players/7c4243d4/Roque-Mesa,7c4243d4,Las-Palmas,949,10.5,5.0,0.0,74,1.0,1928,Las-Palmas
+,Francis Suárez,es ESP,MF,16,10,2.0,1.0,2011-2012,/en/players/213227f5/Francis-Suarez,213227f5,Las-Palmas,800,8.9,4.0,1.0,74,1.0,5415,Las-Palmas
+,Dani Castellano,es ESP,"DF,MF",13,7,1.0,0.0,2011-2012,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,527,5.9,2.0,0.0,74,1.0,3316,Las-Palmas
+,Raúl Lizoain,es ESP,GK,6,5,0.0,0.0,2011-2012,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,506,5.6,0.0,0.0,74,1.0,5431,Las-Palmas
+,Pedro Vega,es ESP,MF,9,2,0.0,0.0,2011-2012,/en/players/aec634a0/Pedro-Vega,c634a0,Las-Palmas,278,3.1,1.0,0.0,74,1.0,4138,Las-Palmas
+,José Artiles,es ESP,"FW,MF",6,1,0.0,0.0,2011-2012,/en/players/913e81fb/Jose-Artiles,913e81fb,Las-Palmas,252,2.8,0.0,0.0,74,1.0,2935,Las-Palmas
+,Iban Iyanga,gq EQG,"DF,FW",4,1,0.0,1.0,2011-2012,/en/players/e3985fc6/Iban-Iyanga,3985fc6,Las-Palmas,97,1.1,0.0,0.0,74,10.0,5424,Las-Palmas
+,Juan Guerra,ve VEN,MF,1,0,0.0,0.0,2011-2012,/en/players/598b47bf/Juan-Guerra,598b47bf,Las-Palmas,36,0.4,1.0,0.0,74,53.0,5432,Las-Palmas
+,Hernán,es ESP,"DF,MF",1,0,0.0,0.0,2011-2012,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,9,0.1,0.0,0.0,74,1.0,4756,Las-Palmas
+,﻿Mariano Barbosa,ar ARG,GK,39,39,0.0,0.0,2012-2013,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Las-Palmas,"3,483",38.7,6.0,2.0,74,5.0,1891,Las-Palmas
+,Vitolo,es ESP,"FW,MF",39,38,6.0,15.0,2012-2013,/en/players/db750822/Vitolo,db750822,Las-Palmas,"3,344",37.2,15.0,1.0,74,1.0,1875,Las-Palmas
+,Jeison Murillo,co COL,DF,36,36,0.0,3.0,2012-2013,/en/players/b233e8e4/Jeison-Murillo,b233e8e4,Las-Palmas,"3,063",34.0,11.0,2.0,74,19.0,816,Las-Palmas
+,Nauzet Alemán,es ESP,MF,36,36,8.0,5.0,2012-2013,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,"3,000",33.3,17.0,0.0,74,1.0,2564,Las-Palmas
+,Deivid,es ESP,"DF,MF",35,35,1.0,0.0,2012-2013,/en/players/c1c76662/Deivid,c1c76662,Las-Palmas,"3,087",34.3,5.0,0.0,74,1.0,1863,Las-Palmas
+,Thievy Bifouma,cg CGO,"FW,MF",36,34,8.0,10.0,2012-2013,/en/players/5978dc3c/Thievy-Bifouma,5978dc3c,Las-Palmas,"3,048",33.9,10.0,0.0,74,80.0,3067,Las-Palmas
+,Momo,es ESP,MF,40,34,5.0,4.0,2012-2013,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,"2,644",29.4,6.0,1.0,74,1.0,405,Las-Palmas
+,Dani Castellano,es ESP,"DF,MF",32,31,2.0,0.0,2012-2013,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"2,696",30.0,11.0,1.0,74,1.0,3316,Las-Palmas
+,Stéphane Pignol,fr FRA,DF,29,28,1.0,0.0,2012-2013,/en/players/ca3ae27c/Stephane-Pignol,ca3ae27c,Las-Palmas,"2,546",28.3,10.0,0.0,74,4.0,3563,Las-Palmas
+,David García,es ESP,DF,27,25,0.0,1.0,2012-2013,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"2,338",26.0,10.0,0.0,74,1.0,5406,Las-Palmas
+,Hernán,es ESP,"DF,MF",32,24,0.0,1.0,2012-2013,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,"2,108",23.4,8.0,1.0,74,1.0,4756,Las-Palmas
+,Macauley Chrisantus,ng NGA,"FW,MF",41,19,2.0,11.0,2012-2013,/en/players/80d82696/Macauley-Chrisantus,80d82696,Las-Palmas,"2,003",22.3,4.0,0.0,74,52.0,5433,Las-Palmas
+,Javi Guerrero,es ESP,FW,29,17,1.0,6.0,2012-2013,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Las-Palmas,"1,321",14.7,3.0,0.0,74,1.0,671,Las-Palmas
+,Javi Castellano,es ESP,"DF,MF",26,16,0.0,0.0,2012-2013,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"1,568",17.4,5.0,0.0,74,1.0,3760,Las-Palmas
+,Jesús Tato,es ESP,FW,17,12,2.0,5.0,2012-2013,/en/players/50e2af8c/Jesus-Tato,50e2af8c,Las-Palmas,"1,123",12.5,3.0,0.0,74,1.0,3614,Las-Palmas
+,Vicente Gómez,es ESP,MF,22,11,0.0,0.0,2012-2013,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"1,058",11.8,8.0,2.0,74,1.0,547,Las-Palmas
+,Enrique Corrales,es ESP,DF,11,8,0.0,0.0,2012-2013,/en/players/a8dbcf66/Enrique-Corrales,8dbcf66,Las-Palmas,792,8.8,3.0,0.0,74,1.0,1607,Las-Palmas
+,Timothée Atouba,cm CMR,DF,5,5,1.0,0.0,2012-2013,/en/players/8c0c6e13/Timothee-Atouba,8c0c6e13,Las-Palmas,437,4.9,1.0,1.0,74,36.0,5434,Las-Palmas
+,Sergio Suárez,es ESP,MF,10,5,1.0,0.0,2012-2013,/en/players/e7c64834/Sergio-Suarez,7c64834,Las-Palmas,382,4.2,1.0,0.0,74,1.0,5416,Las-Palmas
+,David González,es ESP,MF,11,2,0.0,0.0,2012-2013,/en/players/d65705c4/David-Gonzalez,d65705c4,Las-Palmas,276,3.1,1.0,0.0,74,1.0,4276,Las-Palmas
+,Raúl Lizoain,es ESP,GK,3,2,0.0,0.0,2012-2013,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,198,2.2,0.0,0.0,74,1.0,5431,Las-Palmas
+,Juanpe,es ESP,DF,2,2,0.0,0.0,2012-2013,/en/players/1633fc8a/Juanpe,1633fc8a,Las-Palmas,177,2.0,0.0,0.0,74,1.0,2617,Las-Palmas
+,Francis Suárez,es ESP,MF,10,1,1.0,0.0,2012-2013,/en/players/213227f5/Francis-Suarez,213227f5,Las-Palmas,180,2.0,1.0,0.0,74,1.0,5415,Las-Palmas
+,Aythami Álvarez,es ESP,DF,1,1,0.0,0.0,2012-2013,/en/players/3bf6578a/Aythami-Alvarez,3bf6578a,Las-Palmas,90,1.0,0.0,0.0,74,1.0,5428,Las-Palmas
+,Ale Martín,es ESP,GK,1,1,0.0,0.0,2012-2013,/en/players/f1c6e9c2/Ale-Martin,f1c6e9c2,Las-Palmas,90,1.0,0.0,0.0,74,1.0,5435,Las-Palmas
+,Andy Pando,pe PER,FW,7,0,0.0,0.0,2012-2013,/en/players/34893ff6/Andy-Pando,34893ff6,Las-Palmas,104,1.2,0.0,0.0,74,57.0,5436,Las-Palmas
+,Tyronne,es ESP,"FW,MF",4,0,0.0,0.0,2012-2013,/en/players/f76bbf9c/Tyronne,f76bbf9c,Las-Palmas,72,0.8,0.0,0.0,74,1.0,4879,Las-Palmas
+,Pedro Vega,es ESP,MF,1,0,0.0,0.0,2012-2013,/en/players/aec634a0/Pedro-Vega,c634a0,Las-Palmas,9,0.1,0.0,0.0,74,1.0,4138,Las-Palmas
+,﻿Mariano Barbosa,ar ARG,GK,41,41,0.0,0.0,2013-2014,/en/players/aad4f74f/Mariano-Barbosa,d4f74f,Las-Palmas,"3,621",40.2,3.0,1.0,74,5.0,1891,Las-Palmas
+,Juan Carlos Valerón,es ESP,MF,41,35,4.0,3.0,2013-2014,/en/players/71e8d6b0/Juan-Carlos-Valeron,71e8d6b0,Las-Palmas,"2,928",32.5,0.0,0.0,74,1.0,376,Las-Palmas
+,Deivid,es ESP,"DF,MF",37,34,0.0,0.0,2013-2014,/en/players/c1c76662/Deivid,c1c76662,Las-Palmas,"3,109",34.5,7.0,0.0,74,1.0,1863,Las-Palmas
+,Ángel López,es ESP,"DF,MF",32,31,0.0,0.0,2013-2014,/en/players/93cdc601/Angel-Lopez,93cdc601,Las-Palmas,"2,749",30.5,8.0,0.0,74,1.0,628,Las-Palmas
+,David García,es ESP,DF,31,31,2.0,0.0,2013-2014,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"2,718",30.2,13.0,1.0,74,1.0,5406,Las-Palmas
+,Apoño,es ESP,MF,27,26,2.0,1.0,2013-2014,/en/players/02503ca3/Apono,02503ca3,Las-Palmas,"2,247",25.0,9.0,1.0,74,1.0,2345,Las-Palmas
+,Masoud Shojaei,ir IRN,MF,29,26,8.0,5.0,2013-2014,/en/players/a898d91e/Masoud-Shojaei,898d91e,Las-Palmas,"2,233",24.8,9.0,1.0,74,86.0,2026,Las-Palmas
+,Vicente Gómez,es ESP,MF,34,25,1.0,5.0,2013-2014,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"2,208",24.5,7.0,0.0,74,1.0,547,Las-Palmas
+,Aythami Artiles,es ESP,DF,24,23,0.0,3.0,2013-2014,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,"1,982",22.0,10.0,3.0,74,1.0,429,Las-Palmas
+,Javi Castellano,es ESP,"DF,MF",26,23,1.0,0.0,2013-2014,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"1,963",21.8,6.0,0.0,74,1.0,3760,Las-Palmas
+,Xabier Castillo,hr CRO,DF,23,22,0.0,0.0,2013-2014,/en/players/638dc43b/Xabier-Castillo,638dc43b,Las-Palmas,"2,001",22.2,6.0,1.0,74,16.0,251,Las-Palmas
+,Nauzet Alemán,es ESP,MF,27,20,6.0,5.0,2013-2014,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,"1,890",21.0,11.0,1.0,74,1.0,2564,Las-Palmas
+,Momo,es ESP,MF,27,20,5.0,4.0,2013-2014,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,"1,834",20.4,5.0,1.0,74,1.0,405,Las-Palmas
+,Carlos Aranda,es ESP,FW,24,18,6.0,6.0,2013-2014,/en/players/2b60c45d/Carlos-Aranda,2b60c45d,Las-Palmas,"1,560",17.3,3.0,1.0,74,1.0,1810,Las-Palmas
+,Macauley Chrisantus,ng NGA,"FW,MF",23,16,0.0,8.0,2013-2014,/en/players/80d82696/Macauley-Chrisantus,80d82696,Las-Palmas,"1,462",16.2,1.0,0.0,74,52.0,5433,Las-Palmas
+,Asdrúbal Padrón,es ESP,"FW,MF",31,14,2.0,4.0,2013-2014,/en/players/1719aa30/Asdrubal-Padron,1719aa30,Las-Palmas,"1,535",17.1,6.0,0.0,74,1.0,5437,Las-Palmas
+,Dani Castellano,es ESP,"DF,MF",15,14,0.0,0.0,2013-2014,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"1,290",14.3,2.0,0.0,74,1.0,3316,Las-Palmas
+,Tana,es ESP,"FW,MF",24,14,2.0,2.0,2013-2014,/en/players/ef345601/Tana,f345601,Las-Palmas,"1,184",13.2,1.0,0.0,74,1.0,3858,Las-Palmas
+,Ernesto Galán,es ESP,DF,7,6,0.0,0.0,2013-2014,/en/players/7e4af593/Ernesto-Galan,7e4af593,Las-Palmas,530,5.9,4.0,0.0,74,1.0,3059,Las-Palmas
+,Máyor,es ESP,FW,13,5,0.0,1.0,2013-2014,/en/players/1c68e396/Mayor,1c68e396,Las-Palmas,424,4.7,0.0,0.0,74,1.0,90285,Las-Palmas
+,Jesús Tato,es ESP,FW,9,4,1.0,0.0,2013-2014,/en/players/50e2af8c/Jesus-Tato,50e2af8c,Las-Palmas,363,4.0,2.0,0.0,74,1.0,3614,Las-Palmas
+,Aythami Álvarez,es ESP,DF,4,4,0.0,0.0,2013-2014,/en/players/3bf6578a/Aythami-Alvarez,3bf6578a,Las-Palmas,321,3.6,1.0,0.0,74,1.0,5428,Las-Palmas
+,Timothée Atouba,cm CMR,DF,3,3,0.0,0.0,2013-2014,/en/players/8c0c6e13/Timothee-Atouba,8c0c6e13,Las-Palmas,162,1.8,0.0,0.0,74,36.0,5434,Las-Palmas
+,Spas Delev,bg BUL,"FW,MF",6,2,0.0,0.0,2013-2014,/en/players/d99830de/Spas-Delev,d99830de,Las-Palmas,250,2.8,2.0,0.0,74,65.0,5438,Las-Palmas
+,Hernán,es ESP,"DF,MF",6,2,0.0,0.0,2013-2014,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,108,1.2,1.0,0.0,74,1.0,4756,Las-Palmas
+,Héctor Figueroa,es ESP,FW,11,1,0.0,2.0,2013-2014,/en/players/b73db047/Hector-Figueroa,b73db047,Las-Palmas,332,3.7,0.0,0.0,74,1.0,5439,Las-Palmas
+,Raúl Lizoain,es ESP,GK,2,1,0.0,0.0,2013-2014,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,159,1.8,0.0,0.0,74,1.0,5431,Las-Palmas
+,Leo Rodríguez,es ESP,MF,3,1,1.0,0.0,2013-2014,/en/players/49e0c327/Leo-Rodriguez,49e0c327,Las-Palmas,118,1.3,1.0,0.0,74,1.0,5440,Las-Palmas
+,Benja,es ESP,DF,4,0,0.0,1.0,2013-2014,/en/players/f04bc5bc/Benja,f04bc5bc,Las-Palmas,67,0.7,0.0,0.0,74,1.0,5103,Las-Palmas
+,José Artiles,es ESP,"FW,MF",2,0,0.0,0.0,2013-2014,/en/players/913e81fb/Jose-Artiles,913e81fb,Las-Palmas,30,0.3,0.0,0.0,74,1.0,2935,Las-Palmas
+,﻿Javi Castellano,es ESP,"DF,MF",39,39,3.0,0.0,2014-2015,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"3,510",39.0,5.0,0.0,74,1.0,3760,Las-Palmas
+,Sergio Araujo,ar ARG,"FW,MF",39,39,7.0,23.0,2014-2015,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,"3,264",36.3,11.0,0.0,74,5.0,5441,Las-Palmas
+,David Simón,es ESP,DF,37,35,6.0,2.0,2014-2015,/en/players/251336da/David-Simon,251336da,Las-Palmas,"3,130",34.8,9.0,0.0,74,1.0,546,Las-Palmas
+,David García,es ESP,DF,33,32,1.0,0.0,2014-2015,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"2,912",32.4,14.0,0.0,74,1.0,5406,Las-Palmas
+,Aythami Artiles,es ESP,DF,33,32,0.0,2.0,2014-2015,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,"2,800",31.1,6.0,0.0,74,1.0,429,Las-Palmas
+,Casto,es ESP,GK,30,30,0.0,0.0,2014-2015,/en/players/95b4ffb3/Casto,95b4ffb3,Las-Palmas,"2,700",30.0,3.0,0.0,74,1.0,1403,Las-Palmas
+,Hernán,es ESP,"DF,MF",32,30,1.0,3.0,2014-2015,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,"2,499",27.8,13.0,0.0,74,1.0,4756,Las-Palmas
+,Ángel López,es ESP,"DF,MF",28,28,0.0,2.0,2014-2015,/en/players/93cdc601/Angel-Lopez,93cdc601,Las-Palmas,"2,457",27.3,9.0,1.0,74,1.0,628,Las-Palmas
+,Emmanuel Culio,ar ARG,MF,27,27,0.0,1.0,2014-2015,/en/players/170eb35b/Emmanuel-Culio,170eb35b,Las-Palmas,"2,232",24.8,5.0,2.0,74,5.0,477,Las-Palmas
+,Nauzet Alemán,es ESP,MF,28,27,5.0,9.0,2014-2015,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,"2,095",23.3,7.0,1.0,74,1.0,2564,Las-Palmas
+,Roque Mesa,es ESP,MF,34,24,2.0,3.0,2014-2015,/en/players/7c4243d4/Roque-Mesa,7c4243d4,Las-Palmas,"1,745",19.4,3.0,1.0,74,1.0,1928,Las-Palmas
+,Marcelo Silva,uy URU,DF,22,18,0.0,1.0,2014-2015,/en/players/b9596515/Marcelo-Silva,b9596515,Las-Palmas,"1,672",18.6,7.0,0.0,74,8.0,2618,Las-Palmas
+,Vicente Gómez,es ESP,MF,29,18,0.0,3.0,2014-2015,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"1,497",16.6,4.0,0.0,74,1.0,547,Las-Palmas
+,Momo,es ESP,MF,27,17,6.0,7.0,2014-2015,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,"1,469",16.3,3.0,0.0,74,1.0,405,Las-Palmas
+,Raúl Lizoain,es ESP,GK,12,12,0.0,0.0,2014-2015,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,"1,080",12.0,0.0,0.0,74,1.0,5431,Las-Palmas
+,Dani Castellano,es ESP,"DF,MF",12,11,0.0,0.0,2014-2015,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,955,10.6,4.0,0.0,74,1.0,3316,Las-Palmas
+,Jonathan Viera,es ESP,"FW,MF",17,10,2.0,6.0,2014-2015,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,959,10.7,4.0,0.0,74,1.0,947,Las-Palmas
+,Alfredo Ortuño,es ESP,"DF,FW",17,10,2.0,4.0,2014-2015,/en/players/b5077003/Alfredo-Ortuno,b5077003,Las-Palmas,890,9.9,1.0,0.0,74,1.0,1680,Las-Palmas
+,Christian,es ESP,DF,16,9,0.0,0.0,2014-2015,/en/players/1d5a68fe/Christian,1d5a68fe,Las-Palmas,990,11.0,4.0,0.0,74,1.0,2867,Las-Palmas
+,Guzmán Casaseca,es ESP,MF,29,7,3.0,3.0,2014-2015,/en/players/f05d4004/Guzman-Casaseca,f05d4004,Las-Palmas,"1,008",11.2,1.0,0.0,74,1.0,2622,Las-Palmas
+,Asdrúbal Padrón,es ESP,"FW,MF",15,5,1.0,2.0,2014-2015,/en/players/1719aa30/Asdrubal-Padron,1719aa30,Las-Palmas,574,6.4,1.0,0.0,74,1.0,5437,Las-Palmas
+,Juan Carlos Valerón,es ESP,MF,21,3,1.0,0.0,2014-2015,/en/players/71e8d6b0/Juan-Carlos-Valeron,71e8d6b0,Las-Palmas,593,6.6,0.0,0.0,74,1.0,376,Las-Palmas
+,Jesús Valentín,es ESP,DF,3,2,0.0,0.0,2014-2015,/en/players/2594ee7d/Jesus-Valentin,2594ee7d,Las-Palmas,225,2.5,0.0,0.0,74,1.0,3631,Las-Palmas
+,Nili,es ESP,DF,1,1,0.0,0.0,2014-2015,/en/players/6f1cce9a/Nili,6f1cce9a,Las-Palmas,58,0.6,1.0,0.0,74,1.0,1166,Las-Palmas
+,Héctor Figueroa,es ESP,FW,6,0,0.0,1.0,2014-2015,/en/players/b73db047/Hector-Figueroa,b73db047,Las-Palmas,107,1.2,0.0,0.0,74,1.0,5439,Las-Palmas
+,Tana,es ESP,"FW,MF",1,0,0.0,0.0,2014-2015,/en/players/ef345601/Tana,f345601,Las-Palmas,32,0.4,0.0,0.0,74,1.0,3858,Las-Palmas
+,Benja,es ESP,DF,1,0,0.0,0.0,2014-2015,/en/players/f04bc5bc/Benja,f04bc5bc,Las-Palmas,10,0.1,0.0,0.0,74,1.0,5103,Las-Palmas
+,Dani Lorenzo,es ESP,GK,0,0,,,2014-2015,/en/players/4ed19997/Dani-Lorenzo,4ed19997,Las-Palmas,,,,,74,1.0,5442,Las-Palmas
+,Ale Martín,es ESP,GK,0,0,,,2014-2015,/en/players/f1c6e9c2/Ale-Martin,f1c6e9c2,Las-Palmas,,,,,74,1.0,5435,Las-Palmas
+,Benjamín Martínez,es ESP,FW,0,0,,,2014-2015,/en/players/4ca76f91/Benjamin-Martinez,4ca76f91,Las-Palmas,,,,,74,1.0,5162,Las-Palmas
+,﻿Jonathan Viera,es ESP,"MF,FW",36,36,8.0,10.0,2015-2016,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"3,112",34.6,4.0,0.0,74,1.0,947,Las-Palmas
+,Roque Mesa,es ESP,MF,34,34,2.0,1.0,2015-2016,/en/players/7c4243d4/Roque-Mesa,7c4243d4,Las-Palmas,"2,825",31.4,12.0,0.0,74,1.0,1928,Las-Palmas
+,Javi Varas,es ESP,GK,31,31,0.0,0.0,2015-2016,/en/players/6db3da37/Javi-Varas,6db3da37,Las-Palmas,"2,710",30.1,1.0,1.0,74,1.0,750,Las-Palmas
+,Aythami Artiles,es ESP,DF,31,30,1.0,0.0,2015-2016,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,"2,641",29.3,13.0,2.0,74,1.0,429,Las-Palmas
+,Pedro Bigas,es ESP,DF,27,26,0.0,3.0,2015-2016,/en/players/697295b1/Pedro-Bigas,697295b1,Las-Palmas,"2,353",26.1,5.0,0.0,74,1.0,1633,Las-Palmas
+,Tana,es ESP,MF,27,26,4.0,5.0,2015-2016,/en/players/ef345601/Tana,f345601,Las-Palmas,"2,113",23.5,2.0,0.0,74,1.0,3858,Las-Palmas
+,Dani Castellano,es ESP,DF,27,25,0.0,0.0,2015-2016,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"2,245",24.9,5.0,0.0,74,1.0,3316,Las-Palmas
+,David Simón,es ESP,DF,27,24,2.0,1.0,2015-2016,/en/players/251336da/David-Simon,251336da,Las-Palmas,"2,263",25.1,7.0,0.0,74,1.0,546,Las-Palmas
+,Sergio Araujo,ar ARG,FW,30,20,2.0,5.0,2015-2016,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,"1,819",20.2,4.0,0.0,74,5.0,5441,Las-Palmas
+,Willian José,br BRA,FW,30,19,1.0,9.0,2015-2016,/en/players/d87e2cae/Willian-Jose,d87e2cae,Las-Palmas,"1,733",19.3,6.0,0.0,74,2.0,120,Las-Palmas
+,David García,es ESP,DF,19,18,1.0,2.0,2015-2016,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"1,607",17.9,2.0,0.0,74,1.0,5406,Las-Palmas
+,Javier Garrido,es ESP,DF,18,18,1.0,0.0,2015-2016,/en/players/3b142ce5/Javier-Garrido,3b142ce5,Las-Palmas,"1,575",17.5,2.0,0.0,74,1.0,229,Las-Palmas
+,Nabil El Zhar,ma MAR,MF,30,17,4.0,2.0,2015-2016,/en/players/37f96552/Nabil-El-Zhar,37f96552,Las-Palmas,"1,707",19.0,4.0,0.0,74,26.0,4153,Las-Palmas
+,Vicente Gómez,es ESP,MF,21,16,1.0,1.0,2015-2016,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"1,463",16.3,4.0,0.0,74,1.0,547,Las-Palmas
+,Momo,es ESP,MF,23,15,3.0,0.0,2015-2016,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,"1,384",15.4,3.0,0.0,74,1.0,405,Las-Palmas
+,Hernán,es ESP,"MF,DF",18,11,0.0,1.0,2015-2016,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,928,10.3,4.0,0.0,74,1.0,4756,Las-Palmas
+,Wakaso,gh GHA,MF,20,10,0.0,1.0,2015-2016,/en/players/999908af/Wakaso,999908af,Las-Palmas,931,10.3,11.0,0.0,74,17.0,2755,Las-Palmas
+,Mauricio Lemos,uy URU,DF,10,8,0.0,0.0,2015-2016,/en/players/dbe5a587/Mauricio-Lemos,dbe5a587,Las-Palmas,736,8.2,5.0,0.0,74,8.0,5446,Las-Palmas
+,Raúl Lizoain,es ESP,GK,8,7,0.0,0.0,2015-2016,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,708,7.9,0.0,0.0,74,1.0,5431,Las-Palmas
+,Emmanuel Culio,ar ARG,MF,12,6,1.0,0.0,2015-2016,/en/players/170eb35b/Emmanuel-Culio,170eb35b,Las-Palmas,560,6.2,2.0,1.0,74,5.0,477,Las-Palmas
+,Antolín Alcaraz,py PAR,DF,6,6,0.0,1.0,2015-2016,/en/players/cee38e27/Antolin-Alcaraz,cee38e27,Las-Palmas,540,6.0,2.0,0.0,74,43.0,5443,Las-Palmas
+,Ángel Montoro,es ESP,MF,9,5,0.0,0.0,2015-2016,/en/players/719384c1/Angel-Montoro,719384c1,Las-Palmas,435,4.8,2.0,0.0,74,1.0,920,Las-Palmas
+,Nili,es ESP,"MF,FW",8,4,0.0,0.0,2015-2016,/en/players/6f1cce9a/Nili,6f1cce9a,Las-Palmas,317,3.5,0.0,0.0,74,1.0,1166,Las-Palmas
+,Juan Carlos Valerón,es ESP,MF,13,3,0.0,0.0,2015-2016,/en/players/71e8d6b0/Juan-Carlos-Valeron,71e8d6b0,Las-Palmas,383,4.3,0.0,0.0,74,1.0,376,Las-Palmas
+,Nauzet Alemán,es ESP,MF,10,2,0.0,0.0,2015-2016,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Las-Palmas,248,2.8,0.0,0.0,74,1.0,2564,Las-Palmas
+,Javi Castellano,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,90,1.0,0.0,0.0,74,1.0,3760,Las-Palmas
+,Ángel López,es ESP,"DF,MF",3,0,0.0,0.0,2015-2016,/en/players/93cdc601/Angel-Lopez,93cdc601,Las-Palmas,33,0.4,0.0,0.0,74,1.0,628,Las-Palmas
+,Jefté Betancor,es ESP,FW,0,0,,,2015-2016,/en/players/f88c9890/Jefte-Betancor,f88c9890,Las-Palmas,,,,,74,1.0,4987,Las-Palmas
+,Matías Dumpiérrez,es ESP,MF,0,0,,,2015-2016,/en/players/f31f689e/Matias-Dumpierrez,f31f689e,Las-Palmas,,,,,74,1.0,5444,Las-Palmas
+,Carlos González,es ESP,FW,0,0,,,2015-2016,/en/players/8c6b3d5e/Carlos-Gonzalez,8c6b3d5e,Las-Palmas,,,,,74,1.0,5445,Las-Palmas
+,Dani Lorenzo,es ESP,GK,0,0,,,2015-2016,/en/players/4ed19997/Dani-Lorenzo,4ed19997,Las-Palmas,,,,,74,1.0,5442,Las-Palmas
+,Asdrúbal Padrón,es ESP,"FW,MF",0,0,,,2015-2016,/en/players/1719aa30/Asdrubal-Padron,1719aa30,Las-Palmas,,,,,74,1.0,5437,Las-Palmas
+,﻿Roque Mesa,es ESP,MF,35,34,2.0,1.0,2016-2017,/en/players/7c4243d4/Roque-Mesa,7c4243d4,Las-Palmas,"3,033",33.7,14.0,0.0,74,1.0,1928,Las-Palmas
+,Pedro Bigas,es ESP,DF,32,31,1.0,4.0,2016-2017,/en/players/697295b1/Pedro-Bigas,697295b1,Las-Palmas,"2,647",29.4,5.0,1.0,74,1.0,1633,Las-Palmas
+,Jonathan Viera,es ESP,MF,31,30,6.0,7.0,2016-2017,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"2,581",28.7,4.0,0.0,74,1.0,947,Las-Palmas
+,Vicente Gómez,es ESP,MF,29,28,0.0,2.0,2016-2017,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"2,311",25.7,3.0,0.0,74,1.0,547,Las-Palmas
+,Javi Varas,es ESP,GK,25,25,0.0,0.0,2016-2017,/en/players/6db3da37/Javi-Varas,6db3da37,Las-Palmas,"2,250",25.0,0.0,0.0,74,1.0,750,Las-Palmas
+,Tana,es ESP,"MF,FW",32,25,4.0,4.0,2016-2017,/en/players/ef345601/Tana,f345601,Las-Palmas,"2,210",24.6,3.0,0.0,74,1.0,3858,Las-Palmas
+,Dani Castellano,es ESP,DF,27,25,1.0,0.0,2016-2017,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"2,107",23.4,2.0,0.0,74,1.0,3316,Las-Palmas
+,Kevin-Prince Boateng,gh GHA,"FW,MF",28,25,4.0,10.0,2016-2017,/en/players/f4ec4fd0/Kevin-Prince-Boateng,f4ec4fd0,Las-Palmas,"1,979",22.0,11.0,2.0,74,17.0,1177,Las-Palmas
+,Michel,br BRA,DF,25,24,4.0,0.0,2016-2017,/en/players/05384ea1/Michel,05384ea1,Las-Palmas,"2,085",23.2,5.0,0.0,74,2.0,4607,Las-Palmas
+,Mauricio Lemos,uy URU,DF,23,21,0.0,5.0,2016-2017,/en/players/dbe5a587/Mauricio-Lemos,dbe5a587,Las-Palmas,"1,852",20.6,6.0,0.0,74,8.0,5446,Las-Palmas
+,David García,es ESP,DF,22,17,1.0,1.0,2016-2017,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"1,651",18.3,5.0,0.0,74,1.0,5406,Las-Palmas
+,Marko Livaja,hr CRO,FW,25,16,3.0,5.0,2016-2017,/en/players/6e5497ca/Marko-Livaja,6e5497ca,Las-Palmas,"1,444",16.0,12.0,1.0,74,16.0,5447,Las-Palmas
+,David Simón,es ESP,DF,16,14,1.0,0.0,2016-2017,/en/players/251336da/David-Simon,251336da,Las-Palmas,"1,322",14.7,3.0,0.0,74,1.0,546,Las-Palmas
+,Hélder Lopes,pt POR,DF,15,13,1.0,0.0,2016-2017,/en/players/9a34c46d/Helder-Lopes,9a34c46d,Las-Palmas,"1,224",13.6,4.0,0.0,74,3.0,5448,Las-Palmas
+,Raúl Lizoain,es ESP,GK,13,13,0.0,0.0,2016-2017,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,"1,170",13.0,2.0,0.0,74,1.0,5431,Las-Palmas
+,Jesé,es ESP,"MF,FW",16,13,1.0,3.0,2016-2017,/en/players/4a537185/Jese,4a537185,Las-Palmas,"1,160",12.9,5.0,0.0,74,1.0,108,Las-Palmas
+,Momo,es ESP,"MF,FW",23,12,0.0,3.0,2016-2017,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,"1,243",13.8,3.0,0.0,74,1.0,405,Las-Palmas
+,Ángel Montoro,es ESP,MF,17,12,0.0,0.0,2016-2017,/en/players/719384c1/Angel-Montoro,719384c1,Las-Palmas,"1,108",12.3,1.0,0.0,74,1.0,920,Las-Palmas
+,Aythami Artiles,es ESP,DF,11,8,0.0,0.0,2016-2017,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,835,9.3,5.0,1.0,74,1.0,429,Las-Palmas
+,Mateo García,ar ARG,"FW,MF",19,8,0.0,2.0,2016-2017,/en/players/62db2015/Mateo-Garcia,62db2015,Las-Palmas,724,8.0,0.0,0.0,74,5.0,2095,Las-Palmas
+,Nabil El Zhar,ma MAR,"MF,FW",12,8,2.0,3.0,2016-2017,/en/players/37f96552/Nabil-El-Zhar,37f96552,Las-Palmas,716,8.0,1.0,0.0,74,26.0,4153,Las-Palmas
+,Alen Halilović,hr CRO,"MF,FW",18,6,2.0,0.0,2016-2017,/en/players/a6b9bd00/Alen-Halilovic,6b9bd00,Las-Palmas,652,7.2,2.0,0.0,74,16.0,4746,Las-Palmas
+,Sergio Araujo,ar ARG,FW,11,5,1.0,2.0,2016-2017,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,533,5.9,2.0,0.0,74,5.0,5441,Las-Palmas
+,Hernán,es ESP,MF,10,3,0.0,0.0,2016-2017,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,292,3.2,2.0,1.0,74,1.0,4756,Las-Palmas
+,Erik Expósito,es ESP,FW,2,2,0.0,0.0,2016-2017,/en/players/07d67579/Erik-Exposito,07d67579,Las-Palmas,166,1.8,0.0,0.0,74,1.0,5449,Las-Palmas
+,Javi Castellano,es ESP,"DF,MF",5,0,0.0,0.0,2016-2017,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,99,1.1,1.0,0.0,74,1.0,3760,Las-Palmas
+,Tyronne,es ESP,"FW,MF",3,0,0.0,0.0,2016-2017,/en/players/f76bbf9c/Tyronne,f76bbf9c,Las-Palmas,44,0.5,1.0,0.0,74,1.0,4879,Las-Palmas
+,Asdrúbal Padrón,es ESP,"FW,MF",3,0,0.0,0.0,2016-2017,/en/players/1719aa30/Asdrubal-Padron,1719aa30,Las-Palmas,34,0.4,0.0,0.0,74,1.0,5437,Las-Palmas
+,Benito Ramírez,es ESP,"DF,MF",2,0,0.0,0.0,2016-2017,/en/players/db714daf/Benito-Ramirez,db714daf,Las-Palmas,17,0.2,0.0,0.0,74,1.0,5450,Las-Palmas
+,Eric Curbelo,es ESP,DF,0,0,,,2016-2017,/en/players/34e39a18/Eric-Curbelo,34e39a18,Las-Palmas,,,,,74,1.0,5451,Las-Palmas
+,﻿Jonathan Calleri,ar ARG,FW,37,34,3.0,9.0,2017-2018,/en/players/6922f806/Jonathan-Calleri,6922f806,Las-Palmas,"3,109",34.5,7.0,0.0,74,5.0,2109,Las-Palmas
+,Ximo Navarro,es ESP,DF,31,29,1.0,0.0,2017-2018,/en/players/8db394aa/Ximo-Navarro,8db394aa,Las-Palmas,"2,608",29.0,12.0,0.0,74,1.0,1643,Las-Palmas
+,Leandro Chichizola,ar ARG,GK,27,27,0.0,0.0,2017-2018,/en/players/8d957256/Leandro-Chichizola,8d957256,Las-Palmas,"2,430",27.0,2.0,0.0,74,5.0,4075,Las-Palmas
+,Michel,br BRA,DF,28,26,1.0,0.0,2017-2018,/en/players/05384ea1/Michel,05384ea1,Las-Palmas,"2,130",23.7,5.0,1.0,74,2.0,4607,Las-Palmas
+,Dani Castellano,es ESP,DF,24,23,2.0,0.0,2017-2018,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"2,025",22.5,5.0,0.0,74,1.0,3316,Las-Palmas
+,Jonathan Viera,es ESP,MF,23,23,3.0,4.0,2017-2018,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"1,993",22.1,4.0,0.0,74,1.0,947,Las-Palmas
+,Álex Gálvez,es ESP,DF,18,18,0.0,0.0,2017-2018,/en/players/960fb42d/Alex-Galvez,960fb42d,Las-Palmas,"1,619",18.0,5.0,1.0,74,1.0,3459,Las-Palmas
+,Javi Castellano,es ESP,MF,23,17,0.0,0.0,2017-2018,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"1,566",17.4,4.0,0.0,74,1.0,3760,Las-Palmas
+,Vicente Gómez,es ESP,MF,25,17,0.0,0.0,2017-2018,/en/players/cefb32b1/Vicente-Gomez,cefb32b1,Las-Palmas,"1,525",16.9,3.0,0.0,74,1.0,547,Las-Palmas
+,Tana,es ESP,"MF,FW",24,16,1.0,1.0,2017-2018,/en/players/ef345601/Tana,f345601,Las-Palmas,"1,552",17.2,2.0,0.0,74,1.0,3858,Las-Palmas
+,Alen Halilović,hr CRO,MF,20,16,1.0,2.0,2017-2018,/en/players/a6b9bd00/Alen-Halilovic,6b9bd00,Las-Palmas,"1,304",14.5,1.0,1.0,74,16.0,4746,Las-Palmas
+,Alberto Aquilani,it ITA,MF,21,15,0.0,0.0,2017-2018,/en/players/ad340e17/Alberto-Aquilani,d340e17,Las-Palmas,"1,297",14.4,4.0,0.0,74,9.0,5452,Las-Palmas
+,Mauricio Lemos,uy URU,"DF,MF",16,14,0.0,0.0,2017-2018,/en/players/dbe5a587/Mauricio-Lemos,dbe5a587,Las-Palmas,"1,261",14.0,6.0,0.0,74,8.0,5446,Las-Palmas
+,Oghenekaro Etebo,ng NGA,MF,14,14,1.0,0.0,2017-2018,/en/players/b579e83d/Oghenekaro-Etebo,b579e83d,Las-Palmas,"1,215",13.5,3.0,0.0,74,52.0,4078,Las-Palmas
+,Matías Aguirregaray,uy URU,DF,15,14,0.0,0.0,2017-2018,/en/players/8617e3d9/Matias-Aguirregaray,8617e3d9,Las-Palmas,"1,153",12.8,3.0,0.0,74,8.0,5453,Las-Palmas
+,Raúl Lizoain,es ESP,GK,11,11,0.0,0.0,2017-2018,/en/players/f69e9eee/Raul-Lizoain,f69e9eee,Las-Palmas,990,11.0,0.0,0.0,74,1.0,5431,Las-Palmas
+,Pedro Bigas,es ESP,DF,12,11,0.0,0.0,2017-2018,/en/players/697295b1/Pedro-Bigas,697295b1,Las-Palmas,894,9.9,3.0,0.0,74,1.0,1633,Las-Palmas
+,David García,es ESP,DF,11,9,0.0,1.0,2017-2018,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,860,9.6,2.0,0.0,74,1.0,5406,Las-Palmas
+,Nacho Gil,es ESP,"MF,FW",14,8,0.0,0.0,2017-2018,/en/players/87ec1a2a/Nacho-Gil,87ec1a2a,Las-Palmas,729,8.1,1.0,0.0,74,1.0,979,Las-Palmas
+,Vitolo,es ESP,"FW,MF",9,8,0.0,1.0,2017-2018,/en/players/db750822/Vitolo,db750822,Las-Palmas,689,7.7,0.0,0.0,74,1.0,1875,Las-Palmas
+,Momo,es ESP,MF,13,8,1.0,0.0,2017-2018,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,673,7.5,3.0,0.0,74,1.0,405,Las-Palmas
+,Oussama Tannane,ma MAR,"MF,FW",10,7,0.0,0.0,2017-2018,/en/players/730bd100/Oussama-Tannane,730bd100,Las-Palmas,573,6.4,1.0,0.0,74,26.0,5454,Las-Palmas
+,Gabriel Peñalba,ar ARG,MF,7,7,0.0,0.0,2017-2018,/en/players/e7375367/Gabriel-Penalba,7375367,Las-Palmas,570,6.3,3.0,0.0,74,5.0,5455,Las-Palmas
+,Loïc Rémy,fr FRA,"FW,MF",12,6,0.0,5.0,2017-2018,/en/players/5c2da10f/Loic-Remy,5c2da10f,Las-Palmas,766,8.5,1.0,0.0,74,4.0,4069,Las-Palmas
+,David Simón,es ESP,DF,11,6,0.0,0.0,2017-2018,/en/players/251336da/David-Simon,251336da,Las-Palmas,721,8.0,3.0,0.0,74,1.0,546,Las-Palmas
+,Hernán Toledo,ar ARG,"MF,FW",15,6,1.0,0.0,2017-2018,/en/players/93568a16/Hernan-Toledo,93568a16,Las-Palmas,624,6.9,2.0,0.0,74,5.0,5456,Las-Palmas
+,Jairo Samperio,es ESP,"MF,FW",11,6,0.0,0.0,2017-2018,/en/players/c0a0c18f/Jairo-Samperio,c0a0c18f,Las-Palmas,556,6.2,1.0,0.0,74,1.0,1881,Las-Palmas
+,Imoh Ezekiel,ng NGA,MF,10,5,0.0,0.0,2017-2018,/en/players/9243fea6/Imoh-Ezekiel,9243fea6,Las-Palmas,469,5.2,0.0,0.0,74,52.0,5457,Las-Palmas
+,Erik Expósito,es ESP,FW,10,4,0.0,1.0,2017-2018,/en/players/07d67579/Erik-Exposito,07d67579,Las-Palmas,467,5.2,0.0,0.0,74,1.0,5449,Las-Palmas
+,Hernán,es ESP,MF,7,4,0.0,0.0,2017-2018,/en/players/8c83efb6/Hernan,8c83efb6,Las-Palmas,351,3.9,1.0,0.0,74,1.0,4756,Las-Palmas
+,Borja Herrera,es ESP,DF,3,3,0.0,0.0,2017-2018,/en/players/4f6d9bcd/Borja-Herrera,4f6d9bcd,Las-Palmas,241,2.7,0.0,0.0,74,1.0,2651,Las-Palmas
+,Aythami Artiles,es ESP,DF,3,2,0.0,0.0,2017-2018,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,184,2.0,0.0,0.0,74,1.0,429,Las-Palmas
+,Sergi Samper,es ESP,MF,2,2,0.0,0.0,2017-2018,/en/players/6a7586f4/Sergi-Samper,6a7586f4,Las-Palmas,143,1.6,0.0,0.0,74,1.0,1157,Las-Palmas
+,Benito Ramírez,es ESP,"MF,FW",4,1,0.0,0.0,2017-2018,/en/players/db714daf/Benito-Ramirez,db714daf,Las-Palmas,166,1.8,0.0,0.0,74,1.0,5450,Las-Palmas
+,Fabio González,es ESP,MF,1,1,0.0,0.0,2017-2018,/en/players/5418d47c/Fabio-Gonzalez,5418d47c,Las-Palmas,64,0.7,1.0,0.0,74,1.0,5458,Las-Palmas
+,Sergio Araujo,ar ARG,"MF,FW",2,0,0.0,0.0,2017-2018,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,39,0.4,0.0,0.0,74,5.0,5441,Las-Palmas
+,﻿Rubén Castro,es ESP,FW,41,38,3.0,15.0,2018-2019,/en/players/d109f62b/Ruben-Castro,d109f62b,Las-Palmas,"3,344",37.2,3.0,0.0,74,1.0,400,Las-Palmas
+,David Timor,es ESP,MF,35,35,4.0,2.0,2018-2019,/en/players/174651c8/David-Timor,174651c8,Las-Palmas,"2,995",33.3,14.0,1.0,74,1.0,2034,Las-Palmas
+,Álvaro Lemos,es ESP,"DF,MF",38,33,5.0,2.0,2018-2019,/en/players/31d45cc8/Alvaro-Lemos,31d45cc8,Las-Palmas,"3,006",33.4,15.0,0.0,74,1.0,788,Las-Palmas
+,Iñigo Ruiz de Galarreta,es ESP,MF,35,33,2.0,2.0,2018-2019,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,91f7631f,Las-Palmas,"2,759",30.7,12.0,1.0,74,1.0,1301,Las-Palmas
+,Raúl Fernández,es ESP,GK,32,32,0.0,0.0,2018-2019,/en/players/6fb59070/Raul-Fernandez,6fb59070,Las-Palmas,"2,825",31.4,1.0,0.0,74,1.0,1294,Las-Palmas
+,Cala,es ESP,DF,30,30,0.0,1.0,2018-2019,/en/players/fe05804b/Cala,fe05804b,Las-Palmas,"2,657",29.5,12.0,1.0,74,1.0,1849,Las-Palmas
+,Alberto de la Bella,es ESP,DF,25,25,3.0,1.0,2018-2019,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Las-Palmas,"2,172",24.1,8.0,0.0,74,1.0,274,Las-Palmas
+,David García,es ESP,DF,22,22,0.0,1.0,2018-2019,/en/players/1250086e/David-Garcia,1250086e,Las-Palmas,"1,848",20.5,3.0,1.0,74,1.0,5406,Las-Palmas
+,Sergio Araujo,ar ARG,"FW,MF",26,19,3.0,4.0,2018-2019,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,"1,799",20.0,8.0,0.0,74,5.0,5441,Las-Palmas
+,Rafa Mir,es ESP,"MF,FW",30,19,2.0,7.0,2018-2019,/en/players/bbf5c11b/Rafa-Mir,bbf5c11b,Las-Palmas,"1,648",18.3,5.0,0.0,74,1.0,981,Las-Palmas
+,Dani Castellano,es ESP,"DF,MF",21,17,0.0,0.0,2018-2019,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"1,595",17.7,1.0,0.0,74,1.0,3316,Las-Palmas
+,Eric Curbelo,es ESP,DF,18,16,1.0,1.0,2018-2019,/en/players/34e39a18/Eric-Curbelo,34e39a18,Las-Palmas,"1,439",16.0,5.0,0.0,74,1.0,5451,Las-Palmas
+,Fidel,es ESP,"MF,FW",26,15,2.0,2.0,2018-2019,/en/players/eb82b6f1/Fidel,b82b6f1,Las-Palmas,"1,247",13.9,6.0,0.0,74,1.0,3187,Las-Palmas
+,Maikel Mesa,es ESP,MF,26,14,1.0,4.0,2018-2019,/en/players/2afb7b21/Maikel-Mesa,2afb7b21,Las-Palmas,"1,363",15.1,4.0,0.0,74,1.0,2052,Las-Palmas
+,Javi Castellano,es ESP,MF,18,14,0.0,0.0,2018-2019,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"1,294",14.4,4.0,0.0,74,1.0,3760,Las-Palmas
+,Danny Blum,de GER,"MF,FW",23,13,1.0,1.0,2018-2019,/en/players/eb61713c/Danny-Blum,b61713c,Las-Palmas,"1,175",13.1,3.0,0.0,74,13.0,5459,Las-Palmas
+,Martín Mantovani,ar ARG,DF,12,11,0.0,0.0,2018-2019,/en/players/4ffb647d/Martin-Mantovani,4ffb647d,Las-Palmas,"1,034",11.5,4.0,0.0,74,5.0,5460,Las-Palmas
+,Gabriel Peñalba,ar ARG,MF,13,10,0.0,0.0,2018-2019,/en/players/e7375367/Gabriel-Penalba,7375367,Las-Palmas,847,9.4,6.0,1.0,74,5.0,5455,Las-Palmas
+,Tana,es ESP,"MF,FW",14,9,2.0,0.0,2018-2019,/en/players/ef345601/Tana,f345601,Las-Palmas,830,9.2,0.0,0.0,74,1.0,3858,Las-Palmas
+,Aythami Artiles,es ESP,DF,9,9,0.0,1.0,2018-2019,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,810,9.0,2.0,0.0,74,1.0,429,Las-Palmas
+,Deivid,es ESP,DF,10,8,0.0,0.0,2018-2019,/en/players/c1c76662/Deivid,c1c76662,Las-Palmas,717,8.0,4.0,1.0,74,1.0,1863,Las-Palmas
+,Josep Martinez,es ESP,GK,7,7,0.0,0.0,2018-2019,/en/players/11d8aff0/Josep-Martinez,11d8aff0,Las-Palmas,630,7.0,0.0,0.0,74,1.0,5461,Las-Palmas
+,Momo,es ESP,MF,13,5,0.0,0.0,2018-2019,/en/players/9857e65d/Momo,9857e65d,Las-Palmas,515,5.7,0.0,0.0,74,1.0,405,Las-Palmas
+,Cristian Cedrés,es ESP,MF,6,4,2.0,1.0,2018-2019,/en/players/1b8d0b59/Cristian-Cedres,1b8d0b59,Las-Palmas,362,4.0,0.0,0.0,74,1.0,5462,Las-Palmas
+,Slavoljub Srnić,rs SRB,MF,7,4,0.0,1.0,2018-2019,/en/players/cf8ef0a1/Slavoljub-Srnic,cf8ef0a1,Las-Palmas,340,3.8,0.0,0.0,74,28.0,5463,Las-Palmas
+,Nauzet Pérez,es ESP,GK,4,2,0.0,0.0,2018-2019,/en/players/d7ffd345/Nauzet-Perez,d7ffd345,Las-Palmas,235,2.6,0.0,0.0,74,1.0,2068,Las-Palmas
+,Toni Segura,es ESP,"MF,FW",3,2,0.0,0.0,2018-2019,/en/players/590e2aa6/Toni-Segura,590e2aa6,Las-Palmas,172,1.9,2.0,0.0,74,1.0,5464,Las-Palmas
+,Cristian Rivera,es ESP,MF,3,2,0.0,0.0,2018-2019,/en/players/8ef81d2d/Cristian-Rivera,8ef81d2d,Las-Palmas,166,1.8,0.0,0.0,74,1.0,4789,Las-Palmas
+,Fabio González,es ESP,MF,4,1,0.0,0.0,2018-2019,/en/players/5418d47c/Fabio-Gonzalez,5418d47c,Las-Palmas,151,1.7,1.0,0.0,74,1.0,5458,Las-Palmas
+,Kirian Rodríguez,es ESP,MF,2,1,0.0,0.0,2018-2019,/en/players/9b130479/Kirian-Rodriguez,9b130479,Las-Palmas,101,1.1,1.0,0.0,74,1.0,5465,Las-Palmas
+,Jesús Fortes,es ESP,DF,1,1,0.0,0.0,2018-2019,/en/players/ba822ad0/Jesus-Fortes,ba822ad0,Las-Palmas,90,1.0,0.0,0.0,74,1.0,5466,Las-Palmas
+,Tomáš Pekhart,cz CZE,FW,14,0,0.0,1.0,2018-2019,/en/players/20dbf9e0/Tomas-Pekhart,20dbf9e0,Las-Palmas,173,1.9,1.0,0.0,74,84.0,5467,Las-Palmas
+,Hadi Sacko,ml MLI,"FW,MF",5,0,0.0,0.0,2018-2019,/en/players/8747700e/Hadi-Sacko,8747700e,Las-Palmas,101,1.1,1.0,0.0,74,12.0,5468,Las-Palmas
+,Carlos González,es ESP,FW,1,0,0.0,0.0,2018-2019,/en/players/8c6b3d5e/Carlos-Gonzalez,8c6b3d5e,Las-Palmas,32,0.4,0.0,0.0,74,1.0,5445,Las-Palmas
+,Diego Parras,es ESP,DF,0,0,,,2018-2019,/en/players/3073ff6a/Diego-Parras,3073ff6a,Las-Palmas,,,,,74,1.0,5469,Las-Palmas
+,Benito Ramírez,es ESP,"DF,MF",0,0,,,2018-2019,/en/players/db714daf/Benito-Ramirez,db714daf,Las-Palmas,,,,,74,1.0,5450,Las-Palmas
+,Álvaro Vallés,es ESP,GK,0,0,,,2018-2019,/en/players/0166a73e/Alvaro-Valles,0166a73e,Las-Palmas,,,,,74,1.0,5470,Las-Palmas
+,﻿Pedri,es ESP,MF,36,34,6.0,4.0,2019-2020,/en/players/0d9b2d31/Pedri,0d9b2d31,Las-Palmas,"2,823",31.4,4.0,0.0,74,1.0,1200,Las-Palmas
+,Alberto de la Bella,es ESP,DF,32,31,3.0,0.0,2019-2020,/en/players/8497faf7/Alberto-de-la-Bella,8497faf7,Las-Palmas,"2,735",30.4,12.0,0.0,74,1.0,274,Las-Palmas
+,Aythami Artiles,es ESP,DF,29,29,0.0,0.0,2019-2020,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,"2,550",28.3,12.0,1.0,74,1.0,429,Las-Palmas
+,Iñigo Ruiz de Galarreta,es ESP,MF,33,28,2.0,0.0,2019-2020,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,91f7631f,Las-Palmas,"2,466",27.4,7.0,0.0,74,1.0,1301,Las-Palmas
+,Eric Curbelo,es ESP,DF,29,25,0.0,1.0,2019-2020,/en/players/34e39a18/Eric-Curbelo,34e39a18,Las-Palmas,"2,196",24.4,9.0,0.0,74,1.0,5451,Las-Palmas
+,Javi Castellano,es ESP,MF,27,24,0.0,0.0,2019-2020,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"2,151",23.9,11.0,0.0,74,1.0,3760,Las-Palmas
+,Martín Mantovani,ar ARG,DF,25,24,0.0,0.0,2019-2020,/en/players/4ffb647d/Martin-Mantovani,4ffb647d,Las-Palmas,"2,088",23.2,17.0,2.0,74,5.0,5460,Las-Palmas
+,Mauricio Lemos,uy URU,DF,26,23,0.0,1.0,2019-2020,/en/players/dbe5a587/Mauricio-Lemos,dbe5a587,Las-Palmas,"2,079",23.1,12.0,2.0,74,8.0,5446,Las-Palmas
+,Juanjo Narváez,co COL,"FW,MF",29,23,0.0,7.0,2019-2020,/en/players/485e4939/Juanjo-Narvaez,485e4939,Las-Palmas,"2,021",22.5,2.0,0.0,74,19.0,1502,Las-Palmas
+,Benito Ramírez,es ESP,"MF,DF",25,22,2.0,2.0,2019-2020,/en/players/db714daf/Benito-Ramirez,db714daf,Las-Palmas,"1,900",21.1,8.0,0.0,74,1.0,5450,Las-Palmas
+,Josep Martinez,es ESP,GK,21,21,0.0,0.0,2019-2020,/en/players/11d8aff0/Josep-Martinez,11d8aff0,Las-Palmas,"1,845",20.5,2.0,0.0,74,1.0,5461,Las-Palmas
+,Rubén Castro,es ESP,FW,24,21,1.0,15.0,2019-2020,/en/players/d109f62b/Ruben-Castro,d109f62b,Las-Palmas,"1,828",20.3,0.0,0.0,74,1.0,400,Las-Palmas
+,Álvaro Vallés,es ESP,GK,21,20,0.0,0.0,2019-2020,/en/players/0166a73e/Alvaro-Valles,0166a73e,Las-Palmas,"1,845",20.5,0.0,0.0,74,1.0,5470,Las-Palmas
+,Fabio González,es ESP,MF,21,19,0.0,0.0,2019-2020,/en/players/5418d47c/Fabio-Gonzalez,5418d47c,Las-Palmas,"1,568",17.4,7.0,0.0,74,1.0,5458,Las-Palmas
+,Slavoljub Srnić,rs SRB,MF,27,16,2.0,0.0,2019-2020,/en/players/cf8ef0a1/Slavoljub-Srnic,cf8ef0a1,Las-Palmas,"1,568",17.4,3.0,0.0,74,28.0,5463,Las-Palmas
+,Álvaro Lemos,es ESP,"DF,MF",18,16,1.0,0.0,2019-2020,/en/players/31d45cc8/Alvaro-Lemos,31d45cc8,Las-Palmas,"1,245",13.8,4.0,0.0,74,1.0,788,Las-Palmas
+,Kirian Rodríguez,es ESP,MF,26,14,0.0,1.0,2019-2020,/en/players/9b130479/Kirian-Rodriguez,9b130479,Las-Palmas,"1,306",14.5,8.0,0.0,74,1.0,5465,Las-Palmas
+,Jonathan Viera,es ESP,"MF,FW",13,13,2.0,10.0,2019-2020,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"1,075",11.9,3.0,0.0,74,1.0,947,Las-Palmas
+,Álex Suárez,es ESP,DF,12,9,1.0,0.0,2019-2020,/en/players/9c137b36/Alex-Suarez,9c137b36,Las-Palmas,822,9.1,3.0,0.0,74,1.0,5471,Las-Palmas
+,Federico Varela,ar ARG,"MF,FW",17,8,1.0,1.0,2019-2020,/en/players/9ef0d693/Federico-Varela,9ef0d693,Las-Palmas,855,9.5,1.0,0.0,74,5.0,5472,Las-Palmas
+,Tomáš Pekhart,cz CZE,FW,17,8,0.0,5.0,2019-2020,/en/players/20dbf9e0/Tomas-Pekhart,20dbf9e0,Las-Palmas,820,9.1,3.0,0.0,74,84.0,5467,Las-Palmas
+,Cristian Cedrés,es ESP,MF,15,7,1.0,0.0,2019-2020,/en/players/1b8d0b59/Cristian-Cedres,1b8d0b59,Las-Palmas,668,7.4,1.0,0.0,74,1.0,5462,Las-Palmas
+,Ariday Cabrera,es ESP,MF,13,5,2.0,0.0,2019-2020,/en/players/206b11c5/Ariday-Cabrera,206b11c5,Las-Palmas,498,5.5,1.0,0.0,74,1.0,1718,Las-Palmas
+,Dani Castellano,es ESP,DF,11,4,1.0,0.0,2019-2020,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,409,4.5,0.0,0.0,74,1.0,3316,Las-Palmas
+,Cristian López,es ESP,FW,10,4,0.0,0.0,2019-2020,/en/players/c76577a0/Cristian-Lopez,c76577a0,Las-Palmas,383,4.3,3.0,0.0,74,1.0,5473,Las-Palmas
+,Tana,es ESP,"MF,FW",7,3,0.0,0.0,2019-2020,/en/players/ef345601/Tana,f345601,Las-Palmas,319,3.5,0.0,0.0,74,1.0,3858,Las-Palmas
+,Deivid,es ESP,DF,5,3,0.0,0.0,2019-2020,/en/players/c1c76662/Deivid,c1c76662,Las-Palmas,280,3.1,2.0,0.0,74,1.0,1863,Las-Palmas
+,David Timor,es ESP,MF,2,2,0.0,0.0,2019-2020,/en/players/174651c8/David-Timor,174651c8,Las-Palmas,180,2.0,1.0,0.0,74,1.0,2034,Las-Palmas
+,Jean-Armel Drolé,ci CIV,MF,6,1,1.0,0.0,2019-2020,/en/players/eb5cc175/Jean-Armel-Drole,b5cc175,Las-Palmas,214,2.4,2.0,0.0,74,35.0,5474,Las-Palmas
+,Sergio Araujo,ar ARG,FW,4,1,0.0,0.0,2019-2020,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,170,1.9,1.0,0.0,74,5.0,5441,Las-Palmas
+,Maikel Mesa,es ESP,MF,7,1,0.0,0.0,2019-2020,/en/players/2afb7b21/Maikel-Mesa,2afb7b21,Las-Palmas,155,1.7,1.0,0.0,74,1.0,2052,Las-Palmas
+,José Castañeda,es ESP,MF,3,1,0.0,0.0,2019-2020,/en/players/c8be009f/Jose-Castaneda,c8be009f,Las-Palmas,129,1.4,1.0,0.0,74,1.0,2955,Las-Palmas
+,Álex Domínguez,es ESP,GK,1,1,0.0,0.0,2019-2020,/en/players/f240be08/Alex-Dominguez,f240be08,Las-Palmas,90,1.0,0.0,0.0,74,1.0,3368,Las-Palmas
+,Dani Martín,es ESP,DF,1,1,0.0,0.0,2019-2020,/en/players/9ddec4fb/Dani-Martin,9ddec4fb,Las-Palmas,60,0.7,1.0,0.0,74,1.0,5475,Las-Palmas
+,Juan Fernández,es ESP,FW,4,0,0.0,0.0,2019-2020,/en/players/794cb89e/Juan-Fernandez,794cb89e,Las-Palmas,96,1.1,0.0,0.0,74,1.0,5476,Las-Palmas
+,Pablo Haro,es ESP,MF,4,0,0.0,0.0,2019-2020,/en/players/a75a4b2d/Pablo-Haro,75a4b2d,Las-Palmas,37,0.4,1.0,0.0,74,1.0,5477,Las-Palmas
+,Jesús Fortes,es ESP,DF,1,0,0.0,0.0,2019-2020,/en/players/ba822ad0/Jesus-Fortes,ba822ad0,Las-Palmas,30,0.3,0.0,0.0,74,1.0,5466,Las-Palmas
+,Pol,es ESP,MF,1,0,0.0,0.0,2019-2020,/en/players/54badf9e/Pol,54badf9e,Las-Palmas,24,0.3,0.0,0.0,74,1.0,5478,Las-Palmas
+,Boris Rapaić,hr CRO,FW,1,0,0.0,0.0,2019-2020,/en/players/0d77e355/Boris-Rapaic,0d77e355,Las-Palmas,16,0.2,0.0,0.0,74,16.0,5479,Las-Palmas
+,Toni Segura,es ESP,MF,1,0,0.0,0.0,2019-2020,/en/players/590e2aa6/Toni-Segura,590e2aa6,Las-Palmas,8,0.1,0.0,0.0,74,1.0,5464,Las-Palmas
+,Claudio Mendes,es ESP,FW,2,0,0.0,0.0,2019-2020,/en/players/c47fe6cb/Claudio-Mendes,c47fe6cb,Las-Palmas,4,0.0,1.0,0.0,74,1.0,5480,Las-Palmas
+,David Herrera,es ESP,DF,0,0,,,2019-2020,/en/players/1052e8c5/David-Herrera,1052e8c5,Las-Palmas,,,,,74,1.0,5481,Las-Palmas
+,﻿Álex Suárez,es ESP,DF,36,36,1.0,1.0,2020-2021,/en/players/9c137b36/Alex-Suarez,9c137b36,Las-Palmas,"3,190",35.4,1.0,1.0,74,1.0,5471,Las-Palmas
+,Sergio Ruiz,es ESP,MF,37,35,6.0,5.0,2020-2021,/en/players/1f423a54/Sergio-Ruiz,1f423a54,Las-Palmas,"3,089",34.3,3.0,0.0,74,1.0,2947,Las-Palmas
+,Eric Curbelo,es ESP,DF,36,29,0.0,0.0,2020-2021,/en/players/34e39a18/Eric-Curbelo,34e39a18,Las-Palmas,"2,760",30.7,12.0,0.0,74,1.0,5451,Las-Palmas
+,Álvaro Lemos,es ESP,DF,31,28,0.0,3.0,2020-2021,/en/players/31d45cc8/Alvaro-Lemos,31d45cc8,Las-Palmas,"2,498",27.8,15.0,3.0,74,1.0,788,Las-Palmas
+,Roberto González,es ESP,"MF,FW",30,26,3.0,8.0,2020-2021,/en/players/56545648/Roberto-Gonzalez,56545648,Las-Palmas,"2,052",22.8,1.0,0.0,74,1.0,1516,Las-Palmas
+,Álvaro Vallés,es ESP,GK,26,25,0.0,0.0,2020-2021,/en/players/0166a73e/Alvaro-Valles,0166a73e,Las-Palmas,"2,304",25.6,1.0,0.0,74,1.0,5470,Las-Palmas
+,Sergio Araujo,ar ARG,"FW,MF",29,25,1.0,11.0,2020-2021,/en/players/080ac8d8/Sergio-Araujo,080ac8d8,Las-Palmas,"2,031",22.6,7.0,1.0,74,5.0,5441,Las-Palmas
+,Benito Ramírez,es ESP,"MF,DF",35,22,2.0,0.0,2020-2021,/en/players/db714daf/Benito-Ramirez,db714daf,Las-Palmas,"1,952",21.7,2.0,0.0,74,1.0,5450,Las-Palmas
+,Dani Castellano,es ESP,DF,22,20,1.0,0.0,2020-2021,/en/players/21d4e122/Dani-Castellano,21d4e122,Las-Palmas,"1,676",18.6,7.0,0.0,74,1.0,3316,Las-Palmas
+,Kirian Rodríguez,es ESP,MF,33,17,4.0,0.0,2020-2021,/en/players/9b130479/Kirian-Rodriguez,9b130479,Las-Palmas,"1,737",19.3,4.0,0.0,74,1.0,5465,Las-Palmas
+,Álex Domínguez,es ESP,GK,17,17,0.0,0.0,2020-2021,/en/players/f240be08/Alex-Dominguez,f240be08,Las-Palmas,"1,472",16.4,1.0,1.0,74,1.0,3368,Las-Palmas
+,Maikel Mesa,es ESP,MF,28,15,1.0,3.0,2020-2021,/en/players/2afb7b21/Maikel-Mesa,2afb7b21,Las-Palmas,"1,388",15.4,7.0,0.0,74,1.0,2052,Las-Palmas
+,Fabio González,es ESP,MF,25,14,1.0,0.0,2020-2021,/en/players/5418d47c/Fabio-Gonzalez,5418d47c,Las-Palmas,"1,368",15.2,3.0,0.0,74,1.0,5458,Las-Palmas
+,Javi Castellano,es ESP,MF,17,14,1.0,0.0,2020-2021,/en/players/dac68523/Javi-Castellano,dac68523,Las-Palmas,"1,222",13.6,2.0,0.0,74,1.0,3760,Las-Palmas
+,Francisco Jesús Crespo García,es ESP,MF,21,14,2.0,4.0,2020-2021,/en/players/8c4e56cb/Francisco-Jesus-Crespo-Garcia,8c4e56cb,Las-Palmas,"1,183",13.1,4.0,0.0,74,1.0,5482,Las-Palmas
+,Enzo Loiodice,fr FRA,MF,15,14,0.0,1.0,2020-2021,/en/players/6bca20fe/Enzo-Loiodice,6bca20fe,Las-Palmas,982,10.9,2.0,0.0,74,4.0,5483,Las-Palmas
+,Jesé,es ESP,FW,16,13,2.0,2.0,2020-2021,/en/players/4a537185/Jese,4a537185,Las-Palmas,"1,168",13.0,0.0,1.0,74,1.0,108,Las-Palmas
+,Óscar Clemente,es ESP,"MF,FW",26,13,0.0,0.0,2020-2021,/en/players/9dfdbdeb/Oscar-Clemente,9dfdbdeb,Las-Palmas,"1,113",12.4,2.0,0.0,74,1.0,2270,Las-Palmas
+,ALex Salomón,es ESP,DF,17,12,1.0,0.0,2020-2021,/en/players/1c9e16d1/ALex-Salomon,1c9e16d1,Las-Palmas,"1,094",12.2,3.0,0.0,74,1.0,5484,Las-Palmas
+,Eduardo Espiau,es ESP,FW,29,11,0.0,2.0,2020-2021,/en/players/872befe6/Eduardo-Espiau,872befe6,Las-Palmas,"1,167",13.0,4.0,0.0,74,1.0,5485,Las-Palmas
+,Aythami Artiles,es ESP,DF,11,11,0.0,0.0,2020-2021,/en/players/01ae64cd/Aythami-Artiles,01ae64cd,Las-Palmas,971,10.8,3.0,1.0,74,1.0,429,Las-Palmas
+,Jonathan,br BRA,DF,12,10,0.0,0.0,2020-2021,/en/players/f3f60814/Jonathan,f3f60814,Las-Palmas,839,9.3,2.0,1.0,74,2.0,4663,Las-Palmas
+,Tomás Cardona,ar ARG,DF,10,8,0.0,0.0,2020-2021,/en/players/e5cabba3/Tomas-Cardona,5cabba3,Las-Palmas,754,8.4,2.0,0.0,74,5.0,5486,Las-Palmas
+,Rafa Mújica,es ESP,"FW,MF",13,7,0.0,1.0,2020-2021,/en/players/04a67d5b/Rafa-Mujica,04a67d5b,Las-Palmas,543,6.0,2.0,0.0,74,1.0,5487,Las-Palmas
+,Ariday Cabrera,es ESP,MF,21,5,2.0,3.0,2020-2021,/en/players/206b11c5/Ariday-Cabrera,206b11c5,Las-Palmas,615,6.8,1.0,0.0,74,1.0,1718,Las-Palmas
+,Cristian Rivera,es ESP,MF,6,5,1.0,0.0,2020-2021,/en/players/8ef81d2d/Cristian-Rivera,8ef81d2d,Las-Palmas,467,5.2,1.0,0.0,74,1.0,4789,Las-Palmas
+,Pietro Iemmello,it ITA,FW,10,4,0.0,0.0,2020-2021,/en/players/0861b8d6/Pietro-Iemmello,0861b8d6,Las-Palmas,403,4.5,1.0,0.0,74,9.0,5488,Las-Palmas
+,Claudio Mendes,es ESP,FW,16,3,1.0,1.0,2020-2021,/en/players/c47fe6cb/Claudio-Mendes,c47fe6cb,Las-Palmas,383,4.3,4.0,0.0,74,1.0,5480,Las-Palmas
+,Ismael Athuman,ke KEN,DF,6,3,0.0,0.0,2020-2021,/en/players/fdebc935/Ismael-Athuman,fdebc935,Las-Palmas,344,3.8,1.0,0.0,74,38.0,5489,Las-Palmas
+,Cristian Cedrés,es ESP,"MF,DF",6,3,0.0,0.0,2020-2021,/en/players/1b8d0b59/Cristian-Cedres,1b8d0b59,Las-Palmas,147,1.6,1.0,0.0,74,1.0,5462,Las-Palmas
+,Diego Gutiérrez,es ESP,MF,2,1,0.0,0.0,2020-2021,/en/players/e75cf11d/Diego-Gutierrez,75cf11d,Las-Palmas,120,1.3,0.0,0.0,74,1.0,5490,Las-Palmas
+,Juan Fernández,es ESP,MF,1,1,0.0,0.0,2020-2021,/en/players/794cb89e/Juan-Fernandez,794cb89e,Las-Palmas,67,0.7,1.0,0.0,74,1.0,5476,Las-Palmas
+,Sergi Cardona,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/74e90475/Sergi-Cardona,74e90475,Las-Palmas,45,0.5,1.0,0.0,74,1.0,4549,Las-Palmas
+,Saúl Coco,gq EQG,DF,2,0,0.0,0.0,2020-2021,/en/players/d0ee1652/Saul-Coco,d0ee1652,Las-Palmas,56,0.6,0.0,0.0,74,10.0,5491,Las-Palmas
+,Pau Miguélez,es ESP,MF,3,0,0.0,0.0,2020-2021,/en/players/3c8efb6a/Pau-Miguelez,3c8efb6a,Las-Palmas,30,0.3,0.0,0.0,74,1.0,5492,Las-Palmas
+,Iñaki Elejalde,es ESP,FW,1,0,0.0,0.0,2020-2021,/en/players/28d9dddb/Inaki-Elejalde,28d9dddb,Las-Palmas,27,0.3,0.0,0.0,74,1.0,5493,Las-Palmas
+,Alberto Moleiro,es ESP,MF,0,0,,,2020-2021,/en/players/c2c8897d/Alberto-Moleiro,c2c8897d,Las-Palmas,,,,,74,1.0,5494,Las-Palmas
+,Pol,es ESP,MF,0,0,,,2020-2021,/en/players/54badf9e/Pol,54badf9e,Las-Palmas,,,,,74,1.0,5478,Las-Palmas
+,Sergi Puig,es ESP,GK,0,0,,,2020-2021,/en/players/77951f80/Sergi-Puig,77951f80,Las-Palmas,,,,,74,1.0,5495,Las-Palmas
+,Juan Satoca,es ESP,MF,0,0,,,2020-2021,/en/players/d6315e0a/Juan-Satoca,d6315e0a,Las-Palmas,,,,,74,1.0,5496,Las-Palmas
+,David Vicente,es ESP,MF,0,0,,,2020-2021,/en/players/0d16396e/David-Vicente,0d16396e,Las-Palmas,,,,,74,1.0,3662,Las-Palmas
+,﻿Álvaro Lemos,es ESP,DF,36,36,3.0,1.0,2021-2022,/en/players/31d45cc8/Alvaro-Lemos,31d45cc8,Las-Palmas,"3,034",33.7,9.0,0.0,74,1.0,788,Las-Palmas
+,Jesé,es ESP,"FW,MF",39,36,6.0,11.0,2021-2022,/en/players/4a537185/Jese,4a537185,Las-Palmas,"2,963",32.9,4.0,0.0,74,1.0,108,Las-Palmas
+,Sergi Cardona,es ESP,DF,37,35,1.0,0.0,2021-2022,/en/players/74e90475/Sergi-Cardona,74e90475,Las-Palmas,"3,067",34.1,10.0,0.0,74,1.0,4549,Las-Palmas
+,Jonathan Viera,es ESP,"MF,FW",32,32,5.0,14.0,2021-2022,/en/players/efa708aa/Jonathan-Viera,fa708aa,Las-Palmas,"2,667",29.6,4.0,0.0,74,1.0,947,Las-Palmas
+,Raúl Navas,es ESP,DF,35,31,1.0,0.0,2021-2022,/en/players/ad178594/Raul-Navas,d178594,Las-Palmas,"2,929",32.5,5.0,1.0,74,1.0,314,Las-Palmas
+,Eric Curbelo,es ESP,DF,33,31,1.0,1.0,2021-2022,/en/players/34e39a18/Eric-Curbelo,34e39a18,Las-Palmas,"2,748",30.5,9.0,0.0,74,1.0,5451,Las-Palmas
+,Raúl Fernández,es ESP,GK,28,28,0.0,0.0,2021-2022,/en/players/6fb59070/Raul-Fernandez,6fb59070,Las-Palmas,"2,520",28.0,3.0,0.0,74,1.0,1294,Las-Palmas
+,Kirian Rodríguez,es ESP,"MF,FW",32,27,4.0,5.0,2021-2022,/en/players/9b130479/Kirian-Rodriguez,9b130479,Las-Palmas,"2,394",26.6,0.0,0.0,74,1.0,5465,Las-Palmas
+,Omenuke Mfulu,cd COD,MF,28,27,0.0,0.0,2021-2022,/en/players/bdc14559/Omenuke-Mfulu,bdc14559,Las-Palmas,"2,139",23.8,5.0,0.0,74,50.0,5178,Las-Palmas
+,Alberto Moleiro,es ESP,"MF,FW",35,22,1.0,3.0,2021-2022,/en/players/c2c8897d/Alberto-Moleiro,c2c8897d,Las-Palmas,"1,905",21.2,2.0,0.0,74,1.0,5494,Las-Palmas
+,Enzo Loiodice,fr FRA,MF,24,22,0.0,1.0,2021-2022,/en/players/6bca20fe/Enzo-Loiodice,6bca20fe,Las-Palmas,"1,540",17.1,7.0,1.0,74,4.0,5483,Las-Palmas
+,Fabio González,es ESP,MF,29,16,2.0,0.0,2021-2022,/en/players/5418d47c/Fabio-Gonzalez,5418d47c,Las-Palmas,"1,599",17.8,8.0,0.0,74,1.0,5458,Las-Palmas
+,Benito Ramírez,es ESP,"DF,MF",30,14,3.0,3.0,2021-2022,/en/players/db714daf/Benito-Ramirez,db714daf,Las-Palmas,"1,446",16.1,3.0,1.0,74,1.0,5450,Las-Palmas
+,Álvaro Vallés,es ESP,GK,14,14,0.0,0.0,2021-2022,/en/players/0166a73e/Alvaro-Valles,0166a73e,Las-Palmas,"1,260",14.0,0.0,0.0,74,1.0,5470,Las-Palmas
+,Armando Sadiku,al ALB,FW,24,12,0.0,4.0,2021-2022,/en/players/8b6d1830/Armando-Sadiku,8b6d1830,Las-Palmas,978,10.9,5.0,0.0,74,78.0,2455,Las-Palmas
+,Erick Ferigra,ec ECU,DF,15,11,0.0,0.0,2021-2022,/en/players/67cddecb/Erick-Ferigra,67cddecb,Las-Palmas,"1,047",11.6,3.0,0.0,74,61.0,5497,Las-Palmas
+,Óscar Clemente,es ESP,MF,21,11,1.0,1.0,2021-2022,/en/players/9dfdbdeb/Oscar-Clemente,9dfdbdeb,Las-Palmas,944,10.5,3.0,0.0,74,1.0,2270,Las-Palmas
+,Francisco Jesús Crespo García,es ESP,MF,14,11,1.0,5.0,2021-2022,/en/players/8c4e56cb/Francisco-Jesus-Crespo-Garcia,8c4e56cb,Las-Palmas,715,7.9,1.0,0.0,74,1.0,5482,Las-Palmas
+,Saúl Coco,gq EQG,DF,11,9,0.0,0.0,2021-2022,/en/players/d0ee1652/Saul-Coco,d0ee1652,Las-Palmas,784,8.7,4.0,0.0,74,10.0,5491,Las-Palmas
+,Roberto González,es ESP,"MF,FW",18,8,0.0,2.0,2021-2022,/en/players/56545648/Roberto-Gonzalez,56545648,Las-Palmas,779,8.7,3.0,0.0,74,1.0,1516,Las-Palmas
+,ALex Salomón,es ESP,DF,12,6,0.0,0.0,2021-2022,/en/players/1c9e16d1/ALex-Salomon,1c9e16d1,Las-Palmas,654,7.3,2.0,0.0,74,1.0,5484,Las-Palmas
+,Adalberto Peñaranda,ve VEN,"MF,FW",18,5,1.0,2.0,2021-2022,/en/players/4b3f2936/Adalberto-Penaranda,4b3f2936,Las-Palmas,742,8.2,8.0,0.0,74,53.0,2426,Las-Palmas
+,Rafa Mújica,es ESP,FW,14,5,0.0,1.0,2021-2022,/en/players/04a67d5b/Rafa-Mujica,04a67d5b,Las-Palmas,529,5.9,2.0,1.0,74,1.0,5487,Las-Palmas
+,Sergio Ruiz,es ESP,MF,6,5,0.0,0.0,2021-2022,/en/players/1f423a54/Sergio-Ruiz,1f423a54,Las-Palmas,426,4.7,0.0,0.0,74,1.0,2947,Las-Palmas
+,Maikel Mesa,es ESP,MF,18,3,0.0,1.0,2021-2022,/en/players/2afb7b21/Maikel-Mesa,2afb7b21,Las-Palmas,573,6.4,5.0,0.0,74,1.0,2052,Las-Palmas
+,Álex Suárez,es ESP,DF,3,3,0.0,0.0,2021-2022,/en/players/9c137b36/Alex-Suarez,9c137b36,Las-Palmas,270,3.0,1.0,0.0,74,1.0,5471,Las-Palmas
+,Pinchi,es ESP,MF,16,2,0.0,0.0,2021-2022,/en/players/53bf02db/Pinchi,53bf02db,Las-Palmas,526,5.8,3.0,0.0,74,1.0,514,Las-Palmas
+,Hernâni Fortes,pt POR,"FW,MF",5,0,0.0,0.0,2021-2022,/en/players/2327c29e/Hernani-Fortes,2327c29e,Las-Palmas,97,1.1,0.0,0.0,74,3.0,4195,Las-Palmas
+,Claudio Mendes,es ESP,FW,6,0,0.0,0.0,2021-2022,/en/players/c47fe6cb/Claudio-Mendes,c47fe6cb,Las-Palmas,97,1.1,0.0,0.0,74,1.0,5480,Las-Palmas
+,Pedro Alejandro García Mejías,es ESP,MF,4,0,0.0,0.0,2021-2022,/en/players/65217387/Pedro-Alejandro-Garcia-Mejias,65217387,Las-Palmas,55,0.6,0.0,0.0,74,1.0,5498,Las-Palmas
+,Unai Veiga,es ESP,MF,2,0,0.0,0.0,2021-2022,/en/players/d085ffac/Unai-Veiga,d085ffac,Las-Palmas,40,0.4,0.0,0.0,74,1.0,5499,Las-Palmas
+,Pol,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/54badf9e/Pol,54badf9e,Las-Palmas,4,0.0,0.0,0.0,74,1.0,5478,Las-Palmas
+,Alfonso,es ESP,GK,0,0,,,2021-2022,/en/players/970ed894/Alfonso,970ed894,Las-Palmas,,,,,74,1.0,5500,Las-Palmas
+,Cendón,es ESP,GK,0,0,,,2021-2022,/en/players/4b4cd163/Cendon,4b4cd163,Las-Palmas,,,,,74,1.0,5501,Las-Palmas
+,David Vicente,es ESP,MF,0,0,,,2021-2022,/en/players/0d16396e/David-Vicente,0d16396e,Las-Palmas,,,,,74,1.0,3662,Las-Palmas

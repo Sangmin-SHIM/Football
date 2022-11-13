@@ -1,96 +1,261 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-4005.0,Alberto Ruiz,/en/players/68d1663d/Alberto-Ruiz,Alberto-Ruiz,68d1663d,es ESP,FW,Getafe
-4006.0,Gheorghe Craioveanu,/en/players/f4fdadf6/Gheorghe-Craioveanu,Gheorghe-Craioveanu,f4fdadf6,ro ROU,FW,Getafe
-4007.0,Mario Cotelo,/en/players/bb049a1f/Mario-Cotelo,Mario-Cotelo,bb049a1f,es ESP,MF,Getafe
-4008.0,Txema Alonso,/en/players/f2375c9e/Txema-Alonso,Txema-Alonso,f2375c9e,es ESP,"DF,MF",Getafe
-4009.0,Luis López Gil,/en/players/fb3f998e/Luis-Lopez-Gil,Luis-Lopez-Gi,fb3f998e,es ESP,MF,Getafe
-4010.0,Juan Carlos,/en/players/dc9c9a3d/Juan-Carlos,Juan-Carlo,dc9c9a3d,es ESP,FW,Getafe
-4011.0,Álvaro Jurado,/en/players/dc2d7c3a/Alvaro-Jurado,Alvaro-Jurado,dc2d7c3a,es ESP,MF,Getafe
-4012.0,Bernard Ferrer,/en/players/d12172fe/Bernard-Ferrer,Bernard-F,d12172fe,fr FRA,MF,Getafe
-4013.0,Álvaro Benito,/en/players/0239d51e/Alvaro-Benito,Alvaro-Benito,0239d51e,es ESP,MF,Getafe
-4014.0,Marc Bernaus,/en/players/761ecc1f/Marc-Bernaus,Marc-Bernau,761ecc1f,ad AND,DF,Getafe
-4015.0,Miguel Ángel,/en/players/76f06f1f/Miguel-Angel,Miguel-Ang,76f06f1f,es ESP,FW,Getafe
-4016.0,Martín Vitali,/en/players/14931795/Martin-Vitali,Martin-Vitali,14931795,ar ARG,"DF,MF",Getafe
-4017.0,José Antonio Serrano,/en/players/0803c7dd/Jose-Antonio-Serrano,Jose-Antonio-Serrano,0803c7dd,es ESP,DF,Getafe
-4018.0,Aníbal Matellán,/en/players/82945b54/Anibal-Matellan,Anibal-Mat,82945b54,ar ARG,DF,Getafe
-4019.0,Fabio Celestini,/en/players/c36ce86e/Fabio-Celestini,Fabio-Celestini,c36ce86e,ch SUI,MF,Getafe
-4020.0,Jajá,/en/players/9d07a22e/Jaja,Jaj,9d07a22e,br BRA,FW,Getafe
-4021.0,﻿Pato Abbondanzieri,/en/players/ea4c5dbd/Pato-Abbondanzieri,Pato-Abbondanzieri,4c5dbd,ar ARG,GK,Getafe
-4022.0,Lucas Licht,/en/players/b2a1c1aa/Lucas-Licht,Lucas-Licht,b2a1c1aa,ar ARG,"DF,MF",Getafe
-4023.0,Óscar Ustari,/en/players/40e417fa/Oscar-Ustari,Oscar-Ustari,40e417fa,ar ARG,GK,Getafe
-4024.0,Franck Signorino,/en/players/88f4ddd2/Franck-Signorino,Franck-Signorino,88f4ddd2,fr FRA,DF,Getafe
-4025.0,Joffre Guerrón,/en/players/bfcb65f3/Joffre-Guerron,Joffre-Guerro,bfcb65f3,ec ECU,"FW,MF",Getafe
-4026.0,İbrahim Kaş,/en/players/38e8791c/Ibrahim-Kas,Ibrahim-K,38e8791c,tr TUR,DF,Getafe
-4027.0,Vladimir Stojković,/en/players/c089980e/Vladimir-Stojkovic,Vladimir-Stojkovic,c089980e,rs SRB,GK,Getafe
-4028.0,﻿Mané,/en/players/6b015a27/Mane,M,6b015a27,es ESP,"DF,MF",Getafe
-4029.0,Derek Boateng,/en/players/e9ef3a0d/Derek-Boateng,Derek-Boateng,9ef3a0d,gh GHA,MF,Getafe
-4030.0,Pedro Ríos,/en/players/96ef8f9f/Pedro-Rios,Pedro-Rio,96ef8f9f,es ESP,MF,Getafe
-4031.0,Adrián Sardinero,/en/players/51e9bb3f/Adrian-Sardinero,Adrian-Sardinero,51e9bb3f,es ESP,"FW,MF",Getafe
-4032.0,Pablo Pintos,/en/players/0fe4654e/Pablo-Pintos,Pablo-Pinto,0fe4654e,uy URU,DF,Getafe
-4033.0,Abdelaziz Barrada,/en/players/89dac314/Abdelaziz-Barrada,Abdelaziz-Barrad,89dac314,ma MAR,MF,Getafe
-4034.0,Míchel,/en/players/4d425e6e/Michel,Mich,4d425e6e,es ESP,MF,Getafe
-4035.0,Tsepo Masilela,/en/players/e1812ff9/Tsepo-Masilela,Tsepo-Masi,1812ff9,za RSA,DF,Getafe
-4036.0,Samuel Sáiz,/en/players/13e0eb29/Samuel-Saiz,Samuel-Saiz,13e0eb29,es ESP,"FW,MF",Getafe
-4037.0,Hugo Fraile,/en/players/168ec9a3/Hugo-Fraile,Hugo-Frai,168ec9a3,es ESP,"FW,MF",Getafe
-4038.0,Federico Fernández,/en/players/f25b010f/Federico-Fernandez,Federico-Fernandez,f25b010f,ar ARG,DF,Getafe
-4039.0,Lisandro López,/en/players/8320fe65/Lisandro-Lopez,Lisandro-Lopez,8320fe65,ar ARG,DF,Getafe
-4040.0,Ciprian Marica,/en/players/3953ae4a/Ciprian-Marica,Ciprian-Maric,3953ae4a,ro ROU,FW,Getafe
-4041.0,Sammir,/en/players/4ba410e6/Sammir,Sammi,4ba410e6,hr CRO,"FW,MF",Getafe
-4042.0,Emi Buendía,/en/players/66b76d44/Emi-Buendia,Emi-Buendi,66b76d44,ar ARG,"FW,MF",Getafe
-4043.0,Alex Felip,/en/players/90c022f3/Alex-Felip,Alex-Feli,90c022f3,es ESP,MF,Getafe
-4044.0,Pedro Astray,/en/players/ad45ae5b/Pedro-Astray,Pedro-Ast,d45ae5b,es ESP,MF,Getafe
-4045.0,Pere Milla,/en/players/335039a2/Pere-Milla,Pere-Mi,335039a2,es ESP,"FW,MF",Getafe
-4046.0,Edu Payá,/en/players/c97ddaae/Edu-Paya,Edu-P,c97ddaae,es ESP,DF,Getafe
-4047.0,Villalón,/en/players/8d70ac98/Villalon,Villalo,8d70ac98,es ESP,DF,Getafe
-4048.0,Damián Suárez,/en/players/ba5004e1/Damian-Suarez,Damian-Suarez,ba5004e1,uy URU,DF,Getafe
-4049.0,Santiago Vergini,/en/players/6d041dd0/Santiago-Vergini,Santiago-Vergini,6d041dd0,ar ARG,DF,Getafe
-4050.0,Wanderson,/en/players/5da33b33/Wanderson,Wanderso,5da33b33,br BRA,MF,Getafe
-4051.0,Álvaro Pereira,/en/players/1b0aaf11/Alvaro-Pereira,Alvaro-Perei,1b0aaf11,uy URU,DF,Getafe
-4052.0,Miguel Ángel,/en/players/cb6766fa/Miguel-Angel,Miguel-Ang,cb6766fa,es ESP,DF,Getafe
-4053.0,Javi Noblejas,/en/players/34d08919/Javi-Noblejas,Javi-Noblej,34d08919,es ESP,DF,Getafe
-4054.0,Bernard Mensah,/en/players/91947112/Bernard-Mensah,Bernard-Mensah,91947112,gh GHA,MF,Getafe
-4055.0,Ian Gonzalez Nieto,/en/players/040e5ca4/Ian-Gonzalez-Nieto,Ian-Gonzalez-Nieto,040e5ca4,es ESP,FW,Getafe
-4056.0,José Carrillo,/en/players/452b665c/Jose-Carrillo,Jose-Carrillo,452b665c,es ESP,DF,Getafe
-4057.0,Balázs Megyeri,/en/players/ae42df8f/Balazs-Megyeri,Balazs-Megyeri,42df8f,hu HUN,GK,Getafe
-4058.0,Paul Anton,/en/players/c7723cf0/Paul-Anton,Paul-Anto,c7723cf0,ro ROU,MF,Getafe
-4059.0,Facundo Castillón,/en/players/b833aa41/Facundo-Castillon,Facundo-Castillo,b833aa41,ar ARG,MF,Getafe
-4060.0,Emiliano Martínez,/en/players/7956236f/Emiliano-Martinez,Emiliano-Martinez,7956236f,ar ARG,GK,Getafe
-4061.0,Johannes van den Bergh,/en/players/2009b7f2/Johannes-van-den-Bergh,Johannes-van-den-Bergh,2009b7f2,de GER,DF,Getafe
-4062.0,Luis Alberto Acosta,/en/players/22297244/Luis-Alberto-Acosta,Luis-Alberto-Acost,22297244,py PAR,DF,Getafe
-4063.0,Jesús,/en/players/117e622c/Jesus,Jesu,117e622c,es ESP,DF,Getafe
-4064.0,Gustavo Quezada,/en/players/3057b1ce/Gustavo-Quezada,Gustavo-Quezad,3057b1ce,ec ECU,MF,Getafe
-4065.0,David Gil,/en/players/fea23125/David-Gil,David-Gi,fea23125,es ESP,GK,Getafe
-4066.0,﻿Djené,/en/players/a4971d84/Djene,Dj,4971d84,tg TOG,DF,Getafe
-4067.0,Mauro Arambarri,/en/players/58afe001/Mauro-Arambarri,Mauro-Arambarri,58afe001,uy URU,MF,Getafe
-4068.0,Mathieu Flamini,/en/players/148d4105/Mathieu-Flamini,Mathieu-Flamini,148d4105,fr FRA,MF,Getafe
-4069.0,Loïc Rémy,/en/players/5c2da10f/Loic-Remy,Loic-Rem,5c2da10f,fr FRA,"FW,MF",Getafe
-4070.0,Alberto Redondo,/en/players/1214f0a6/Alberto-Redondo,Alberto-Redondo,1214f0a6,es ESP,DF,Getafe
-4071.0,David Alba,/en/players/7a4cd784/David-Alba,David-Alb,7a4cd784,es ESP,DF,Getafe
-4072.0,Carlos Calderón,/en/players/4e2c27bb/Carlos-Calderon,Carlos-Caldero,4e2c27bb,es ESP,MF,Getafe
-4073.0,Pape Assane,/en/players/15434055/Pape-Assane,Pape-A,15434055,sn SEN,MF,Getafe
-4074.0,Filip Manojlović,/en/players/8d2e1890/Filip-Manojlovic,Filip-Manojlovic,8d2e1890,rs SRB,GK,Getafe
-4075.0,Leandro Chichizola,/en/players/8d957256/Leandro-Chichizola,Leandro-Chichizo,8d957256,ar ARG,GK,Getafe
-4076.0,Marc Cucurella,/en/players/1daec722/Marc-Cucurella,Marc-Cucu,1daec722,es ESP,"MF,DF",Getafe
-4077.0,Allan Nyom,/en/players/97572117/Allan-Nyom,Allan-Nyom,97572117,cm CMR,"DF,MF",Getafe
-4078.0,Oghenekaro Etebo,/en/players/b579e83d/Oghenekaro-Etebo,Oghenekaro-Etebo,b579e83d,ng NGA,MF,Getafe
-4079.0,Kenedy,/en/players/5eebbfdf/Kenedy,Kened,5eebbfdf,br BRA,MF,Getafe
-4080.0,Chema,/en/players/7f203b54/Chema,Chem,7f203b54,es ESP,DF,Getafe
-4081.0,Erick Cabaco,/en/players/e7ab4179/Erick-Cabaco,Erick-Cabaco,7ab4179,uy URU,DF,Getafe
-4082.0,Florent Poulolo,/en/players/07129f3c/Florent-Poulolo,Florent-Poulolo,07129f3c,mq MTQ,DF,Getafe
-4083.0,Marcos Lavín,/en/players/666e283e/Marcos-Lavin,Marcos-Lavi,666e283e,es ESP,GK,Getafe
-4084.0,Iglesias,/en/players/974322dc/Iglesias,Iglesi,974322dc,es ESP,"DF,MF",Getafe
-4085.0,John Joe,/en/players/fd01216a/John-Joe,John-Jo,fd01216a,ie IRL,"MF,FW",Getafe
-4086.0,Sabit Abdulai,/en/players/9f9e1b9c/Sabit-Abdulai,Sabit-Abdulai,9f9e1b9c,gh GHA,MF,Getafe
-4087.0,Emmanuel Amankwaa Akurugu,/en/players/69c5633e/Emmanuel-Amankwaa-Akurugu,Emmanuel-Amankwaa-Akurugu,69c5633e,gh GHA,DF,Getafe
-4088.0,José Antonio Miranda,/en/players/683788fd/Jose-Antonio-Miranda,Jose-Antonio-Mirand,683788fd,gq EQG,"MF,DF",Getafe
-4089.0,Mamor Niang,/en/players/64a76620/Mamor-Niang,Mamor-Niang,64a76620,sn SEN,"MF,FW",Getafe
-4090.0,Abdoulay Diaby,/en/players/23c5db70/Abdoulay-Diaby,Abdoulay-Diab,23c5db70,ml MLI,DF,Getafe
-4091.0,Chinchu,/en/players/f2ad9da9/Chinchu,Chinchu,f2ad9da9,es ESP,DF,Getafe
-4092.0,Ryan Nolan,/en/players/fa4e4764/Ryan-Nolan,Ryan-No,fa4e4764,ie IRL,DF,Getafe
-4093.0,Florentino Luís,/en/players/881cd6be/Florentino-Luis,Florentino-Lui,881cd6be,pt POR,MF,Getafe
-4094.0,Jakub Jankto,/en/players/1ea5f91c/Jakub-Jankto,Jakub-Jankto,1ea5f91c,cz CZE,"DF,MF",Getafe
-4095.0,Jonathan Silva,/en/players/f2308b33/Jonathan-Silva,Jonathan-Silv,f2308b33,ar ARG,"DF,FW",Getafe
-4096.0,Diego Conde,/en/players/4eae5bc4/Diego-Conde,Diego-Cond,4eae5bc4,es ESP,GK,Getafe
-4097.0,Ángel Algobia,/en/players/acc1aefa/Angel-Algobia,Angel-Algobi,cc1aefa,es ESP,MF,Getafe
-4098.0,Gastón Álvarez,/en/players/852ddfb8/Gaston-Alvarez,Gaston-Alvarez,852ddfb8,uy URU,DF,Getafe
-4099.0,Diego López,/en/players/d88b5ba7/Diego-Lopez,Diego-Lopez,d88b5ba7,es ESP,MF,Getafe
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+5764.0,﻿Manuel Tena,/en/players/515e2eee/Manuel-Tena,Manuel-T,515e2eee,es ESP,DF,Getafe
+5765.0,Alberto Ruiz,/en/players/68d1663d/Alberto-Ruiz,Alberto-Ruiz,68d1663d,es ESP,FW,Getafe
+5766.0,Gheorghe Craioveanu,/en/players/f4fdadf6/Gheorghe-Craioveanu,Gheorghe-Craioveanu,f4fdadf6,ro ROU,FW,Getafe
+5767.0,Ángel Vivar Dorado,/en/players/ac6d027e/Angel-Vivar-Dorado,Angel-Vivar-Dorado,c6d027e,es ESP,MF,Getafe
+5768.0,Ángel Pindado,/en/players/6b44da65/Angel-Pindado,Angel-Pindado,6b44da65,es ESP,GK,Getafe
+5769.0,Diego Rivas,/en/players/eecf46bc/Diego-Rivas,Diego-Riv,cf46bc,es ESP,MF,Getafe
+5770.0,Nano,/en/players/3d6dd9f9/Nano,Nano,3d6dd9f9,es ESP,DF,Getafe
+5771.0,Mario Cotelo,/en/players/bb049a1f/Mario-Cotelo,Mario-Cotelo,bb049a1f,es ESP,MF,Getafe
+5772.0,Francisco Jusué,/en/players/c74f81a1/Francisco-Jusue,Francisco-Jusu,c74f81a1,es ESP,DF,Getafe
+5773.0,Txema Alonso,/en/players/f2375c9e/Txema-Alonso,Txema-Alonso,f2375c9e,es ESP,"DF,MF",Getafe
+5774.0,Luis López Gil,/en/players/fb3f998e/Luis-Lopez-Gil,Luis-Lopez-Gi,fb3f998e,es ESP,MF,Getafe
+5775.0,Javier Baraja,/en/players/6514cd55/Javier-Baraja,Javier-Baraj,6514cd55,es ESP,"DF,MF",Getafe
+5776.0,Juan Carlos,/en/players/dc9c9a3d/Juan-Carlos,Juan-Carlo,dc9c9a3d,es ESP,FW,Getafe
+5777.0,Edgar Pacheco,/en/players/e70c4ab5/Edgar-Pacheco,Edgar-Pacheco,70c4ab5,pt POR,FW,Getafe
+5778.0,Álvaro Jurado,/en/players/dc2d7c3a/Alvaro-Jurado,Alvaro-Jurado,dc2d7c3a,es ESP,MF,Getafe
+5779.0,Bernard Ferrer,/en/players/d12172fe/Bernard-Ferrer,Bernard-F,d12172fe,fr FRA,MF,Getafe
+5780.0,Míchel,/en/players/5f68b183/Michel,Mich,5f68b183,es ESP,FW,Getafe
+5781.0,Álvaro Benito,/en/players/0239d51e/Alvaro-Benito,Alvaro-Benito,0239d51e,es ESP,MF,Getafe
+5782.0,Iñaki Bea Jauregi,/en/players/bbcd4ab0/Inaki-Bea-Jauregi,Inaki-Bea-Jauregi,bbcd4ab0,es ESP,DF,Getafe
+5783.0,﻿Iván Amaya,/en/players/1ed358ee/Ivan-Amaya,Ivan-Am,1ed358ee,es ESP,DF,Getafe
+5784.0,Marc Bernaus,/en/players/761ecc1f/Marc-Bernaus,Marc-Bernau,761ecc1f,ad AND,DF,Getafe
+5785.0,Gari Uranga,/en/players/2a701b9e/Gari-Uranga,Gari-Urang,2a701b9e,es ESP,MF,Getafe
+5786.0,José Manuel Yanguas,/en/players/ae3a7b7e/Jose-Manuel-Yanguas,Jose-Manuel-Yangu,3a7b7e,es ESP,DF,Getafe
+5787.0,Sergio Aragoneses,/en/players/8e8258f5/Sergio-Aragoneses,Sergio-Arago,8e8258f5,es ESP,GK,Getafe
+5788.0,Sergio Sánchez,/en/players/2a0f94ac/Sergio-Sanchez,Sergio-Sanchez,2a0f94ac,es ESP,GK,Getafe
+5789.0,Quique Medina,/en/players/0aa5e053/Quique-Medina,Quique-Medi,0aa5e053,es ESP,DF,Getafe
+5790.0,David Cubillo,/en/players/d8d2e883/David-Cubillo,David-Cubillo,d8d2e883,es ESP,MF,Getafe
+5791.0,Sergio Pachón,/en/players/ae85fca9/Sergio-Pachon,Sergio-Pacho,85fca9,es ESP,FW,Getafe
+5792.0,David Belenguer,/en/players/68c448f7/David-Belenguer,David-Belengu,68c448f7,es ESP,DF,Getafe
+5793.0,Miguel Ángel,/en/players/76f06f1f/Miguel-Angel,Miguel-Ang,76f06f1f,es ESP,FW,Getafe
+5794.0,Mariano Pernía,/en/players/5f28a2f7/Mariano-Pernia,Mariano-Perni,5f28a2f7,es ESP,DF,Getafe
+5795.0,Gabi,/en/players/65d750b5/Gabi,Gabi,65d750b5,es ESP,MF,Getafe
+5796.0,Riki,/en/players/ab21507f/Riki,Riki,b21507f,es ESP,FW,Getafe
+5797.0,Javier Sánchez Broto,/en/players/9157113d/Javier-Sanchez-Broto,Javier-Sanchez-Broto,9157113d,es ESP,GK,Getafe
+5798.0,Raúl Albiol,/en/players/4bd414c1/Raul-Albiol,Raul-Albio,4bd414c1,es ESP,DF,Getafe
+5799.0,Yordi,/en/players/8cbb78fb/Yordi,Yordi,8cbb78fb,es ESP,FW,Getafe
+5800.0,Francisco Gallardo,/en/players/be80c87c/Francisco-Gallardo,Francisco-Gallardo,be80c87c,es ESP,MF,Getafe
+5801.0,Daniel N'Gom Kome,/en/players/8076455d/Daniel-NGom-Kome,Daniel-NGom-Kom,8076455d,cm CMR,MF,Getafe
+5802.0,Rubén Pulido,/en/players/3a8be98c/Ruben-Pulido,Ruben-Pulido,3a8be98c,es ESP,DF,Getafe
+5803.0,Asen,/en/players/5725f8c6/Asen,A,5725f8c6,es ESP,FW,Getafe
+5804.0,Martín Vitali,/en/players/14931795/Martin-Vitali,Martin-Vitali,14931795,ar ARG,"DF,MF",Getafe
+5805.0,Alberto Aguilar,/en/players/eee1627a/Alberto-Aguilar,Alberto-Agui,1627a,es ESP,"DF,MF",Getafe
+5806.0,José Antonio Serrano,/en/players/0803c7dd/Jose-Antonio-Serrano,Jose-Antonio-Serrano,0803c7dd,es ESP,DF,Getafe
+5807.0,Jaime Gavilán,/en/players/95de0931/Jaime-Gavilan,Jaime-Gavi,95de0931,es ESP,MF,Getafe
+5808.0,Luis García,/en/players/a716e5a4/Luis-Garcia,Luis-Garci,716e5a4,es ESP,GK,Getafe
+5809.0,Dani Güiza,/en/players/d863ea53/Dani-Guiza,Dani-Guiz,d863ea53,es ESP,FW,Getafe
+5810.0,Cosmin Contra,/en/players/9bdc0e80/Cosmin-Contra,Cosmin-Cont,9bdc0e80,ro ROU,"DF,MF",Getafe
+5811.0,Aníbal Matellán,/en/players/82945b54/Anibal-Matellan,Anibal-Mat,82945b54,ar ARG,DF,Getafe
+5812.0,Veljko Paunović,/en/players/7d0ae66f/Veljko-Paunovic,Veljko-Paunovic,7d0ae66f,es ESP,"FW,MF",Getafe
+5813.0,Fabio Celestini,/en/players/c36ce86e/Fabio-Celestini,Fabio-Celestini,c36ce86e,ch SUI,MF,Getafe
+5814.0,Pablo Redondo,/en/players/da98fdb0/Pablo-Redondo,Pablo-Redondo,da98fdb0,es ESP,MF,Getafe
+5815.0,Juan Calatayud,/en/players/f1714283/Juan-Calatayud,Juan-Calatayud,f1714283,es ESP,GK,Getafe
+5816.0,Nano,/en/players/51fbb7e2/Nano,Nano,51fbb7e2,es ESP,"DF,FW",Getafe
+5817.0,Javier Paredes,/en/players/488a9ade/Javier-Paredes,Javier-Pared,488a9ade,es ESP,DF,Getafe
+5818.0,Jajá,/en/players/9d07a22e/Jaja,Jaj,9d07a22e,br BRA,FW,Getafe
+5819.0,﻿Pato Abbondanzieri,/en/players/ea4c5dbd/Pato-Abbondanzieri,Pato-Abbondanzieri,4c5dbd,ar ARG,GK,Getafe
+5820.0,Javier Casquero,/en/players/ab6daa16/Javier-Casquero,Javier-Casquero,b6daa16,es ESP,MF,Getafe
+5821.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Getafe
+5822.0,Nacho,/en/players/07537011/Nacho,Nacho,07537011,es ESP,"DF,MF",Getafe
+5823.0,Alexis,/en/players/db0cd1ae/Alexis,Alexi,db0cd1ae,es ESP,DF,Getafe
+5824.0,David Cortés,/en/players/99d15abd/David-Cortes,David-Cort,99d15abd,es ESP,DF,Getafe
+5825.0,David Sousa,/en/players/292a8dbe/David-Sousa,David-Sou,292a8dbe,es ESP,MF,Getafe
+5826.0,Māris Verpakovskis,/en/players/9f8f8a29/Maris-Verpakovskis,Maris-Verpakovski,9f8f8a29,lv LVA,"FW,MF",Getafe
+5827.0,Lucas Licht,/en/players/b2a1c1aa/Lucas-Licht,Lucas-Licht,b2a1c1aa,ar ARG,"DF,MF",Getafe
+5828.0,Juan Ángel Albín,/en/players/6be43cc9/Juan-Angel-Albin,Juan-Angel-Albi,6be43cc9,uy URU,"FW,MF",Getafe
+5829.0,Cata Díaz,/en/players/c9112443/Cata-Diaz,Cata-Diaz,c9112443,ar ARG,DF,Getafe
+5830.0,Rubén de la Red,/en/players/75b08b25/Ruben-de-la-Red,Ruben-de-la-Red,75b08b25,es ESP,MF,Getafe
+5831.0,Pablo Hernández,/en/players/c0398aca/Pablo-Hernandez,Pablo-Hernandez,c0398aca,es ESP,"FW,MF",Getafe
+5832.0,Ikechukwu Uche,/en/players/ba7c6d25/Ikechukwu-Uche,Ikechukwu-Uch,ba7c6d25,ng NGA,FW,Getafe
+5833.0,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,Braulio-Nobreg,6e02869d,es ESP,FW,Getafe
+5834.0,Mario,/en/players/e6ede7f4/Mario,Mario,6ede7f4,es ESP,DF,Getafe
+5835.0,Miguel Pallardó,/en/players/6c3dfe68/Miguel-Pallardo,Miguel-Pallardo,6c3dfe68,es ESP,MF,Getafe
+5836.0,Kepa Blanco,/en/players/e021d831/Kepa-Blanco,Kepa-Blanco,021d831,es ESP,FW,Getafe
+5837.0,Óscar Ustari,/en/players/40e417fa/Oscar-Ustari,Oscar-Ustari,40e417fa,ar ARG,GK,Getafe
+5838.0,Franck Signorino,/en/players/88f4ddd2/Franck-Signorino,Franck-Signorino,88f4ddd2,fr FRA,DF,Getafe
+5839.0,Juanfran,/en/players/9ba48d64/Juanfran,Juanf,9ba48d64,es ESP,"DF,FW",Getafe
+5840.0,Esteban Granero,/en/players/1b17ed86/Esteban-Granero,Esteban-Granero,1b17ed86,es ESP,MF,Getafe
+5841.0,Roberto Soldado,/en/players/9d66fbe3/Roberto-Soldado,Roberto-Soldado,9d66fbe3,es ESP,FW,Getafe
+5842.0,Jacobo,/en/players/bb575fe7/Jacobo,Jacobo,bb575fe7,es ESP,GK,Getafe
+5843.0,Rafa,/en/players/0b89dbcc/Rafa,Raf,0b89dbcc,es ESP,"DF,MF",Getafe
+5844.0,Joffre Guerrón,/en/players/bfcb65f3/Joffre-Guerron,Joffre-Guerro,bfcb65f3,ec ECU,"FW,MF",Getafe
+5845.0,İbrahim Kaş,/en/players/38e8791c/Ibrahim-Kas,Ibrahim-K,38e8791c,tr TUR,DF,Getafe
+5846.0,Vladimir Stojković,/en/players/c089980e/Vladimir-Stojkovic,Vladimir-Stojkovic,c089980e,rs SRB,GK,Getafe
+5847.0,Adrián González,/en/players/57ebd662/Adrian-Gonzalez,Adrian-Gonzalez,57ebd662,es ESP,MF,Getafe
+5848.0,﻿Mané,/en/players/6b015a27/Mane,M,6b015a27,es ESP,"DF,MF",Getafe
+5849.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,"FW,MF",Getafe
+5850.0,Derek Boateng,/en/players/e9ef3a0d/Derek-Boateng,Derek-Boateng,9ef3a0d,gh GHA,MF,Getafe
+5851.0,Miguel Torres,/en/players/44b61913/Miguel-Torres,Miguel-To,44b61913,es ESP,DF,Getafe
+5852.0,Jordi Codina,/en/players/812088cd/Jordi-Codina,Jordi-Codi,812088cd,es ESP,GK,Getafe
+5853.0,Daniel Parejo,/en/players/7460ca0d/Daniel-Parejo,Daniel-Parejo,7460ca0d,es ESP,MF,Getafe
+5854.0,Miku,/en/players/4eba9598/Miku,Miku,4eba9598,ve VEN,FW,Getafe
+5855.0,Pedro Ríos,/en/players/96ef8f9f/Pedro-Rios,Pedro-Rio,96ef8f9f,es ESP,MF,Getafe
+5856.0,Alberto Escassi,/en/players/154fe273/Alberto-Escassi,Alberto-Escassi,154fe273,es ESP,"DF,MF",Getafe
+5857.0,Iván Marcano,/en/players/7a20d90a/Ivan-Marcano,Ivan-Marcano,7a20d90a,es ESP,DF,Getafe
+5858.0,Adrián Colunga,/en/players/2212dd4e/Adrian-Colunga,Adrian-Colung,2212dd4e,es ESP,"FW,MF",Getafe
+5859.0,Víctor Sánchez,/en/players/ad4d0985/Victor-Sanchez,Victor-Sanchez,d4d0985,es ESP,"DF,MF",Getafe
+5860.0,Adrián Sardinero,/en/players/51e9bb3f/Adrian-Sardinero,Adrian-Sardinero,51e9bb3f,es ESP,"FW,MF",Getafe
+5861.0,Borja Fernández,/en/players/9127f9ce/Borja-Fernandez,Borja-Fernandez,9127f9ce,es ESP,MF,Getafe
+5862.0,Pedro Mosquera,/en/players/c5fa58ea/Pedro-Mosquera,Pedro-Mosqu,c5fa58ea,es ESP,MF,Getafe
+5863.0,Pablo Pintos,/en/players/0fe4654e/Pablo-Pintos,Pablo-Pinto,0fe4654e,uy URU,DF,Getafe
+5864.0,﻿Miguel Ángel Moyá,/en/players/011d8c56/Miguel-Angel-Moya,Miguel-Angel-Mo,011d8c56,es ESP,GK,Getafe
+5865.0,Juan Valera Espín,/en/players/947fa33c/Juan-Valera-Espin,Juan-Valera-Espi,947fa33c,es ESP,"DF,MF",Getafe
+5866.0,Mehdi Lacen,/en/players/a3a306f6/Mehdi-Lacen,Mehdi-Lac,3a306f6,dz ALG,MF,Getafe
+5867.0,Diego Castro,/en/players/3ddc0a25/Diego-Castro,Diego-Castro,3ddc0a25,es ESP,"FW,MF",Getafe
+5868.0,Abdelaziz Barrada,/en/players/89dac314/Abdelaziz-Barrada,Abdelaziz-Barrad,89dac314,ma MAR,MF,Getafe
+5869.0,Míchel,/en/players/4d425e6e/Michel,Mich,4d425e6e,es ESP,MF,Getafe
+5870.0,Alberto Lopo,/en/players/17cd5bb7/Alberto-Lopo,Alberto-Lopo,17cd5bb7,es ESP,DF,Getafe
+5871.0,Tsepo Masilela,/en/players/e1812ff9/Tsepo-Masilela,Tsepo-Masi,1812ff9,za RSA,DF,Getafe
+5872.0,Pablo Sarabia,/en/players/9744ff80/Pablo-Sarabia,Pablo-Sarabi,9744ff80,es ESP,"FW,MF",Getafe
+5873.0,Juan Rodríguez,/en/players/25c3c939/Juan-Rodriguez,Juan-Rodriguez,25c3c939,es ESP,MF,Getafe
+5874.0,Rubén Pérez,/en/players/3c7bc9bd/Ruben-Perez,Ruben-Perez,3c7bc9bd,es ESP,MF,Getafe
+5875.0,Álvaro Arroyo,/en/players/b2fa39c5/Alvaro-Arroyo,Alvaro-Arroyo,b2fa39c5,es ESP,DF,Getafe
+5876.0,Álex Pérez,/en/players/8dac6f70/Alex-Perez,Alex-Perez,8dac6f70,es ESP,DF,Getafe
+5877.0,Javier Arizmendi,/en/players/14a6c075/Javier-Arizmendi,Javier-Arizmendi,14a6c075,es ESP,"FW,MF",Getafe
+5878.0,Samuel Sáiz,/en/players/13e0eb29/Samuel-Saiz,Samuel-Saiz,13e0eb29,es ESP,"FW,MF",Getafe
+5879.0,Hugo Fraile,/en/players/168ec9a3/Hugo-Fraile,Hugo-Frai,168ec9a3,es ESP,"FW,MF",Getafe
+5880.0,﻿Xavi Torres,/en/players/1b51ad2f/Xavi-Torres,Xavi-To,1b51ad2f,es ESP,MF,Getafe
+5881.0,Ángel Lafita,/en/players/0b68c35a/Angel-Lafita,Angel-Lafit,0b68c35a,es ESP,"FW,MF",Getafe
+5882.0,Álvaro Vázquez,/en/players/d2d8675a/Alvaro-Vazquez,Alvaro-Vazquez,d2d8675a,es ESP,FW,Getafe
+5883.0,Federico Fernández,/en/players/f25b010f/Federico-Fernandez,Federico-Fernandez,f25b010f,ar ARG,DF,Getafe
+5884.0,Sergio Escudero,/en/players/b0616e3d/Sergio-Escudero,Sergio-Escudero,b0616e3d,es ESP,"DF,MF",Getafe
+5885.0,Paco Alcácer,/en/players/a7a9d95a/Paco-Alcacer,Paco-Alcac,7a9d95a,es ESP,FW,Getafe
+5886.0,Lisandro López,/en/players/8320fe65/Lisandro-Lopez,Lisandro-Lopez,8320fe65,ar ARG,DF,Getafe
+5887.0,Ciprian Marica,/en/players/3953ae4a/Ciprian-Marica,Ciprian-Maric,3953ae4a,ro ROU,FW,Getafe
+5888.0,Roberto Lago,/en/players/98e0ad35/Roberto-Lago,Roberto-Lago,98e0ad35,es ESP,"DF,MF",Getafe
+5889.0,Sammir,/en/players/4ba410e6/Sammir,Sammi,4ba410e6,hr CRO,"FW,MF",Getafe
+5890.0,Carlos Vigaray,/en/players/f69d934e/Carlos-Vigaray,Carlos-Vig,f69d934e,es ESP,DF,Getafe
+5891.0,Ivi,/en/players/d2fa73e7/Ivi,Ivi,d2fa73e7,es ESP,"FW,MF",Getafe
+5892.0,Vicente Guaita,/en/players/ab13a5aa/Vicente-Guaita,Vicente-Guait,b13a5aa,es ESP,GK,Getafe
+5893.0,Naldo,/en/players/a2609621/Naldo,Naldo,2609621,br BRA,DF,Getafe
+5894.0,Emiliano Velázquez,/en/players/5efb80d5/Emiliano-Velazquez,Emiliano-Velazquez,5efb80d5,uy URU,DF,Getafe
+5895.0,Fredy Hinestroza,/en/players/ac330d8c/Fredy-Hinestroza,Fredy-Hinestroz,c330d8c,co COL,MF,Getafe
+5896.0,Karim Yoda,/en/players/a7893629/Karim-Yoda,Karim-Yod,7893629,fr FRA,MF,Getafe
+5897.0,Míchel,/en/players/418f8f61/Michel,Mich,418f8f61,es ESP,MF,Getafe
+5898.0,Baba Diawara,/en/players/09b7100a/Baba-Diawara,Baba-Diaw,09b7100a,sn SEN,FW,Getafe
+5899.0,Jonathan López,/en/players/5f872f11/Jonathan-Lopez,Jonathan-Lopez,5f872f11,es ESP,GK,Getafe
+5900.0,Emi Buendía,/en/players/66b76d44/Emi-Buendia,Emi-Buendi,66b76d44,ar ARG,"FW,MF",Getafe
+5901.0,Alex Felip,/en/players/90c022f3/Alex-Felip,Alex-Feli,90c022f3,es ESP,MF,Getafe
+5902.0,Pedro Astray,/en/players/ad45ae5b/Pedro-Astray,Pedro-Ast,d45ae5b,es ESP,MF,Getafe
+5903.0,Pere Milla,/en/players/335039a2/Pere-Milla,Pere-Mi,335039a2,es ESP,"FW,MF",Getafe
+5904.0,Edu Payá,/en/players/c97ddaae/Edu-Paya,Edu-P,c97ddaae,es ESP,DF,Getafe
+5905.0,Villalón,/en/players/8d70ac98/Villalon,Villalo,8d70ac98,es ESP,DF,Getafe
+5906.0,Damián Suárez,/en/players/ba5004e1/Damian-Suarez,Damian-Suarez,ba5004e1,uy URU,DF,Getafe
+5907.0,Víctor Rodríguez,/en/players/15781606/Victor-Rodriguez,Victor-Rodriguez,15781606,es ESP,MF,Getafe
+5908.0,Santiago Vergini,/en/players/6d041dd0/Santiago-Vergini,Santiago-Vergini,6d041dd0,ar ARG,DF,Getafe
+5909.0,Cala,/en/players/fe05804b/Cala,C,fe05804b,es ESP,DF,Getafe
+5910.0,Stefan Šćepović,/en/players/983f798c/Stefan-Scepovic,Stefan-Scepovic,983f798c,rs SRB,FW,Getafe
+5911.0,Álvaro Medrán,/en/players/31223bcf/Alvaro-Medran,Alvaro-Med,31223bcf,es ESP,MF,Getafe
+5912.0,Moi Gómez,/en/players/5a626448/Moi-Gomez,Moi-Gomez,5a626448,es ESP,MF,Getafe
+5913.0,Wanderson,/en/players/5da33b33/Wanderson,Wanderso,5da33b33,br BRA,MF,Getafe
+5914.0,Álvaro Pereira,/en/players/1b0aaf11/Alvaro-Pereira,Alvaro-Perei,1b0aaf11,uy URU,DF,Getafe
+5915.0,Miguel Ángel,/en/players/cb6766fa/Miguel-Angel,Miguel-Ang,cb6766fa,es ESP,DF,Getafe
+5916.0,Henok Goitom,/en/players/c3680236/Henok-Goitom,Henok-Goitom,c3680236,er ERI,FW,Getafe
+5917.0,Javi Noblejas,/en/players/34d08919/Javi-Noblejas,Javi-Noblej,34d08919,es ESP,DF,Getafe
+5918.0,Bernard Mensah,/en/players/91947112/Bernard-Mensah,Bernard-Mensah,91947112,gh GHA,MF,Getafe
+5919.0,Ian Gonzalez Nieto,/en/players/040e5ca4/Ian-Gonzalez-Nieto,Ian-Gonzalez-Nieto,040e5ca4,es ESP,FW,Getafe
+5920.0,José Carrillo,/en/players/452b665c/Jose-Carrillo,Jose-Carrillo,452b665c,es ESP,DF,Getafe
+5921.0,Borja Galán,/en/players/3d8d4593/Borja-Galan,Borja-G,3d8d4593,es ESP,MF,Getafe
+5922.0,Balázs Megyeri,/en/players/ae42df8f/Balazs-Megyeri,Balazs-Megyeri,42df8f,hu HUN,GK,Getafe
+5923.0,Jorge Molina,/en/players/43f71e77/Jorge-Molina,Jorge-Moli,43f71e77,es ESP,FW,Getafe
+5924.0,Alberto García,/en/players/17d9e354/Alberto-Garcia,Alberto-Garci,17d9e354,es ESP,GK,Getafe
+5925.0,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,Francisco-Molinero,2cea96ce,es ESP,DF,Getafe
+5926.0,Francisco Portillo,/en/players/8e010ff4/Francisco-Portillo,Francisco-Portillo,8e010ff4,es ESP,MF,Getafe
+5927.0,Daniel Pacheco,/en/players/5b2a4b8d/Daniel-Pacheco,Daniel-Pacheco,5b2a4b8d,es ESP,MF,Getafe
+5928.0,Álvaro Jiménez,/en/players/5f5501ed/Alvaro-Jimenez,Alvaro-Jimenez,5f5501ed,es ESP,MF,Getafe
+5929.0,Alejandro Faurlín,/en/players/594d286e/Alejandro-Faurlin,Alejandro-Faurli,594d286e,ar ARG,MF,Getafe
+5930.0,Nicolás Gorosito,/en/players/073db7e5/Nicolas-Gorosito,Nicolas-Gorosito,073db7e5,ar ARG,DF,Getafe
+5931.0,Sergio Mora,/en/players/f0a31c00/Sergio-Mora,Sergio-Mo,f0a31c00,es ESP,MF,Getafe
+5932.0,Paul Anton,/en/players/c7723cf0/Paul-Anton,Paul-Anto,c7723cf0,ro ROU,MF,Getafe
+5933.0,Chuli,/en/players/24efffbf/Chuli,Chuli,24efffbf,es ESP,"MF,FW",Getafe
+5934.0,Facundo Castillón,/en/players/b833aa41/Facundo-Castillon,Facundo-Castillo,b833aa41,ar ARG,MF,Getafe
+5935.0,David Fuster,/en/players/23cbf415/David-Fuster,David-Fust,23cbf415,es ESP,"MF,FW",Getafe
+5936.0,Emiliano Martínez,/en/players/7956236f/Emiliano-Martinez,Emiliano-Martinez,7956236f,ar ARG,GK,Getafe
+5937.0,Rolf Feltscher,/en/players/27baf026/Rolf-Feltscher,Rolf-Feltsch,27baf026,ve VEN,DF,Getafe
+5938.0,Johannes van den Bergh,/en/players/2009b7f2/Johannes-van-den-Bergh,Johannes-van-den-Bergh,2009b7f2,de GER,DF,Getafe
+5939.0,Foued Kadir,/en/players/0136606c/Foued-Kadir,Foued-Kadi,0136606c,dz ALG,MF,Getafe
+5940.0,Enrique Sola,/en/players/bef2e50e/Enrique-Sola,Enrique-So,bef2e50e,es ESP,FW,Getafe
+5941.0,Luis Alberto Acosta,/en/players/22297244/Luis-Alberto-Acosta,Luis-Alberto-Acost,22297244,py PAR,DF,Getafe
+5942.0,Jesús,/en/players/117e622c/Jesus,Jesu,117e622c,es ESP,DF,Getafe
+5943.0,Gustavo Quezada,/en/players/3057b1ce/Gustavo-Quezada,Gustavo-Quezad,3057b1ce,ec ECU,MF,Getafe
+5944.0,David Gil,/en/players/fea23125/David-Gil,David-Gi,fea23125,es ESP,GK,Getafe
+5945.0,﻿Djené,/en/players/a4971d84/Djene,Dj,4971d84,tg TOG,DF,Getafe
+5946.0,Amath,/en/players/f3b1d9a2/Amath,Amath,f3b1d9a2,sn SEN,MF,Getafe
+5947.0,Vitorino Antunes,/en/players/3e4f735d/Vitorino-Antunes,Vitorino-Antu,3e4f735d,pt POR,DF,Getafe
+5948.0,Fayçal Fajr,/en/players/79135368/Faycal-Fajr,Faycal-Faj,79135368,ma MAR,MF,Getafe
+5949.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,FW,Getafe
+5950.0,Mauro Arambarri,/en/players/58afe001/Mauro-Arambarri,Mauro-Arambarri,58afe001,uy URU,MF,Getafe
+5951.0,Bruno González,/en/players/f11fe861/Bruno-Gonzalez,Bruno-Gonzalez,f11fe861,es ESP,DF,Getafe
+5952.0,Gaku Shibasaki,/en/players/d2ac648c/Gaku-Shibasaki,Gaku-Shibasaki,d2ac648c,jp JPN,"MF,FW",Getafe
+5953.0,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,Leandro-Cab,69cbc8b6,uy URU,DF,Getafe
+5954.0,Mathieu Flamini,/en/players/148d4105/Mathieu-Flamini,Mathieu-Flamini,148d4105,fr FRA,MF,Getafe
+5955.0,Loïc Rémy,/en/players/5c2da10f/Loic-Remy,Loic-Rem,5c2da10f,fr FRA,"FW,MF",Getafe
+5956.0,Barri,/en/players/9704b62b/Barri,Barri,9704b62b,es ESP,"MF,FW",Getafe
+5957.0,Mathías Olivera,/en/players/41c12f75/Mathias-Olivera,Mathias-Oliv,41c12f75,uy URU,MF,Getafe
+5958.0,Alberto Redondo,/en/players/1214f0a6/Alberto-Redondo,Alberto-Redondo,1214f0a6,es ESP,DF,Getafe
+5959.0,David Alba,/en/players/7a4cd784/David-Alba,David-Alb,7a4cd784,es ESP,DF,Getafe
+5960.0,Merveille Ndockyt,/en/players/32b84cec/Merveille-Ndockyt,Merveille-Ndockyt,32b84cec,cg CGO,"MF,FW",Getafe
+5961.0,Jefferson Montero,/en/players/fa6561bf/Jefferson-Montero,Jefferson-Montero,fa6561bf,ec ECU,MF,Getafe
+5962.0,Miguel Ángel Rubio,/en/players/56cafd0a/Miguel-Angel-Rubio,Miguel-Angel-Rubio,56cafd0a,es ESP,DF,Getafe
+5963.0,Hugo Duro,/en/players/37e103f8/Hugo-Duro,Hugo-Duro,37e103f8,es ESP,FW,Getafe
+5964.0,Carlos Calderón,/en/players/4e2c27bb/Carlos-Calderon,Carlos-Caldero,4e2c27bb,es ESP,MF,Getafe
+5965.0,Pape Assane,/en/players/15434055/Pape-Assane,Pape-A,15434055,sn SEN,MF,Getafe
+5966.0,Filip Manojlović,/en/players/8d2e1890/Filip-Manojlovic,Filip-Manojlovic,8d2e1890,rs SRB,GK,Getafe
+5967.0,﻿David Soria,/en/players/8f8c6934/David-Soria,David-Sori,8f8c6934,es ESP,GK,Getafe
+5968.0,Nemanja Maksimović,/en/players/00b28772/Nemanja-Maksimovic,Nemanja-Maksimovic,00b28772,rs SRB,MF,Getafe
+5969.0,Jaime Mata,/en/players/02319ad7/Jaime-Mata,Jaime-Mat,02319ad7,es ESP,"FW,MF",Getafe
+5970.0,Dimitri Foulquier,/en/players/45e17712/Dimitri-Foulquier,Dimitri-Foulqui,45e17712,fr FRA,"MF,DF",Getafe
+5971.0,Sebastián Cristóforo,/en/players/3c05c659/Sebastian-Cristoforo,Sebastian-Cristoforo,3c05c659,uy URU,MF,Getafe
+5972.0,Ignasi Miquel,/en/players/174f09a6/Ignasi-Miquel,Ignasi-Miqu,174f09a6,es ESP,DF,Getafe
+5973.0,Iván Alejo,/en/players/3d7e48ce/Ivan-Alejo,Ivan-Alejo,3d7e48ce,es ESP,MF,Getafe
+5974.0,Leandro Chichizola,/en/players/8d957256/Leandro-Chichizola,Leandro-Chichizo,8d957256,ar ARG,GK,Getafe
+5975.0,Robert Ibáñez,/en/players/c7429db3/Robert-Ibanez,Robert-Ibanez,c7429db3,es ESP,MF,Getafe
+5976.0,Markel Bergara,/en/players/04a65a8f/Markel-Bergara,Markel-Berg,04a65a8f,es ESP,MF,Getafe
+5977.0,Sergi Guardiola,/en/players/32974271/Sergi-Guardiola,Sergi-Guardio,32974271,es ESP,"MF,FW",Getafe
+5978.0,Rubén Yáñez,/en/players/039ae103/Ruben-Yanez,Ruben-Yanez,039ae103,es ESP,GK,Getafe
+5979.0,Marc Cucurella,/en/players/1daec722/Marc-Cucurella,Marc-Cucu,1daec722,es ESP,"MF,DF",Getafe
+5980.0,Allan Nyom,/en/players/97572117/Allan-Nyom,Allan-Nyom,97572117,cm CMR,"DF,MF",Getafe
+5981.0,Xabier Etxeita,/en/players/4a895384/Xabier-Etxeita,Xabier-Etxeit,4a895384,es ESP,DF,Getafe
+5982.0,Jason,/en/players/9038c2a1/Jason,Jaso,9038c2a1,es ESP,MF,Getafe
+5983.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,"MF,DF",Getafe
+5984.0,Oghenekaro Etebo,/en/players/b579e83d/Oghenekaro-Etebo,Oghenekaro-Etebo,b579e83d,ng NGA,MF,Getafe
+5985.0,Kenedy,/en/players/5eebbfdf/Kenedy,Kened,5eebbfdf,br BRA,MF,Getafe
+5986.0,Chema,/en/players/7f203b54/Chema,Chem,7f203b54,es ESP,DF,Getafe
+5987.0,Erick Cabaco,/en/players/e7ab4179/Erick-Cabaco,Erick-Cabaco,7ab4179,uy URU,DF,Getafe
+5988.0,Raúl García,/en/players/1a317a1b/Raul-Garcia,Raul-Garci,1a317a1b,es ESP,DF,Getafe
+5989.0,Deyverson,/en/players/2e5e846d/Deyverson,Deyverso,2e5e846d,br BRA,FW,Getafe
+5990.0,Enric Gallego,/en/players/82e9b89d/Enric-Gallego,Enric-Gallego,82e9b89d,es ESP,FW,Getafe
+5991.0,Florent Poulolo,/en/players/07129f3c/Florent-Poulolo,Florent-Poulolo,07129f3c,mq MTQ,DF,Getafe
+5992.0,Marcos Lavín,/en/players/666e283e/Marcos-Lavin,Marcos-Lavi,666e283e,es ESP,GK,Getafe
+5993.0,Cucho,/en/players/71b47ab9/Cucho,Cucho,71b47ab9,co COL,"FW,MF",Getafe
+5994.0,Carles Aleñá,/en/players/6c811eb7/Carles-Alena,Carles-A,6c811eb7,es ESP,"MF,FW",Getafe
+5995.0,Enes Ünal,/en/players/f8eca1b6/Enes-Unal,Enes-U,f8eca1b6,tr TUR,FW,Getafe
+5996.0,Sofian Chakla,/en/players/37f04799/Sofian-Chakla,Sofian-Chak,37f04799,ma MAR,DF,Getafe
+5997.0,Takefusa Kubo,/en/players/16aa3654/Takefusa-Kubo,Takefusa-Kubo,16aa3654,jp JPN,"MF,FW",Getafe
+5998.0,Iglesias,/en/players/974322dc/Iglesias,Iglesi,974322dc,es ESP,"DF,MF",Getafe
+5999.0,Victor Mollejo,/en/players/23fffc06/Victor-Mollejo,Victor-Mollejo,23fffc06,es ESP,"MF,DF",Getafe
+6000.0,John Joe,/en/players/fd01216a/John-Joe,John-Jo,fd01216a,ie IRL,"MF,FW",Getafe
+6001.0,Sabit Abdulai,/en/players/9f9e1b9c/Sabit-Abdulai,Sabit-Abdulai,9f9e1b9c,gh GHA,MF,Getafe
+6002.0,Emmanuel Amankwaa Akurugu,/en/players/69c5633e/Emmanuel-Amankwaa-Akurugu,Emmanuel-Amankwaa-Akurugu,69c5633e,gh GHA,DF,Getafe
+6003.0,José Antonio Miranda,/en/players/683788fd/Jose-Antonio-Miranda,Jose-Antonio-Mirand,683788fd,gq EQG,"MF,DF",Getafe
+6004.0,Mamor Niang,/en/players/64a76620/Mamor-Niang,Mamor-Niang,64a76620,sn SEN,"MF,FW",Getafe
+6005.0,Abdoulay Diaby,/en/players/23c5db70/Abdoulay-Diaby,Abdoulay-Diab,23c5db70,ml MLI,DF,Getafe
+6006.0,Darío Poveda,/en/players/cbdf7d5c/Dario-Poveda,Dario-Poved,cbdf7d5c,es ESP,FW,Getafe
+6007.0,Chinchu,/en/players/f2ad9da9/Chinchu,Chinchu,f2ad9da9,es ESP,DF,Getafe
+6008.0,Ryan Nolan,/en/players/fa4e4764/Ryan-Nolan,Ryan-No,fa4e4764,ie IRL,DF,Getafe
+6009.0,Jorge Cuenca,/en/players/0abc51f2/Jorge-Cuenca,Jorge-Cuenc,0abc51f2,es ESP,DF,Getafe
+6010.0,Stefan Mitrović,/en/players/e6777e6b/Stefan-Mitrovic,Stefan-Mitrovic,6777e6b,rs SRB,DF,Getafe
+6011.0,Sandro Ramírez,/en/players/833fb62e/Sandro-Ramirez,Sandro-Ramirez,833fb62e,es ESP,FW,Getafe
+6012.0,Borja Mayoral,/en/players/64e8ed6d/Borja-Mayoral,Borja-Mayo,64e8ed6d,es ESP,FW,Getafe
+6013.0,Florentino Luís,/en/players/881cd6be/Florentino-Luis,Florentino-Lui,881cd6be,pt POR,MF,Getafe
+6014.0,Óscar Rodríguez Arnaiz,/en/players/19709006/Oscar-Rodriguez-Arnaiz,Oscar-Rodriguez-Arnaiz,19709006,es ESP,"MF,FW",Getafe
+6015.0,Jakub Jankto,/en/players/1ea5f91c/Jakub-Jankto,Jakub-Jankto,1ea5f91c,cz CZE,"DF,MF",Getafe
+6016.0,Okay Yokuşlu,/en/players/e49ce451/Okay-Yokuslu,Okay-Yokuslu,49ce451,tr TUR,"DF,MF",Getafe
+6017.0,Gonzalo Villar,/en/players/bdc74a8f/Gonzalo-Villar,Gonzalo-Vi,bdc74a8f,es ESP,MF,Getafe
+6018.0,Jonathan Silva,/en/players/f2308b33/Jonathan-Silva,Jonathan-Silv,f2308b33,ar ARG,"DF,FW",Getafe
+6019.0,Vitolo,/en/players/db750822/Vitolo,Vitolo,db750822,es ESP,MF,Getafe
+6020.0,Diego Conde,/en/players/4eae5bc4/Diego-Conde,Diego-Cond,4eae5bc4,es ESP,GK,Getafe
+6021.0,Ángel Algobia,/en/players/acc1aefa/Angel-Algobia,Angel-Algobi,cc1aefa,es ESP,MF,Getafe
+6022.0,Gastón Álvarez,/en/players/852ddfb8/Gaston-Alvarez,Gaston-Alvarez,852ddfb8,uy URU,DF,Getafe
+6023.0,Diego López,/en/players/d88b5ba7/Diego-Lopez,Diego-Lopez,d88b5ba7,es ESP,MF,Getafe

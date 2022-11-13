@@ -1,318 +1,318 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Sergio Díaz,es ESP,DF,38,38,0.0,1.0,2005-2006,f8183181,Hercules,"3,407",37.9,9.0,2.0,69.0,1.0,,Hercules
-,Kike Mateo,es ESP,MF,38,36,2.0,9.0,2005-2006,99508f00,Hercules,"3,196",35.5,6.0,0.0,69.0,1.0,,Hercules
-,Álvaro Cámara,es ESP,MF,37,34,7.0,2.0,2005-2006,d1c514a8,Hercules,"3,117",34.6,15.0,0.0,69.0,1.0,,Hercules
-,Moisés,es ESP,FW,36,32,3.0,11.0,2005-2006,3415193,Hercules,"2,727",30.3,7.0,0.0,69.0,1.0,,Hercules
-,Carlos Castro,es ESP,DF,32,31,0.0,0.0,2005-2006,b13befad,Hercules,"2,771",30.8,10.0,1.0,69.0,1.0,4959.0,Hercules
-,Sisi,es ESP,"FW,MF",35,26,1.0,2.0,2005-2006,dd7ec92,Hercules,"2,340",26.0,2.0,0.0,69.0,1.0,,Hercules
-,Urbano Santos,es ESP,DF,27,25,0.0,0.0,2005-2006,64592758,Hercules,"2,143",23.8,7.0,1.0,69.0,1.0,4960.0,Hercules
-,Sergio Mora,es ESP,MF,29,24,0.0,0.0,2005-2006,f0a31c00,Hercules,"1,983",22.0,7.0,0.0,69.0,1.0,,Hercules
-,Dani Borreguero,es ESP,MF,25,23,2.0,2.0,2005-2006,c7fafcc6,Hercules,"1,854",20.6,10.0,0.0,69.0,1.0,,Hercules
-,Joaquín Moso,es ESP,GK,22,21,0.0,0.0,2005-2006,7768cf0,Hercules,"1,935",21.5,1.0,0.0,69.0,1.0,4961.0,Hercules
-,Vicente Verdejo,es ESP,DF,21,19,0.0,0.0,2005-2006,7c68dc5,Hercules,"1,747",19.4,2.0,0.0,69.0,1.0,4962.0,Hercules
-,Rolando Schiavi,ar ARG,DF,18,18,0.0,1.0,2005-2006,ca018848,Hercules,"1,603",17.8,4.0,1.0,69.0,5.0,4963.0,Hercules
-,Jesús Turiel,es ESP,MF,27,17,0.0,1.0,2005-2006,7c737496,Hercules,"1,639",18.2,9.0,1.0,69.0,1.0,,Hercules
-,Sergio Sánchez,es ESP,GK,17,17,0.0,0.0,2005-2006,2a0f94ac,Hercules,"1,474",16.4,3.0,1.0,69.0,1.0,,Hercules
-,Miguel de las Cuevas,es ESP,MF,33,16,2.0,0.0,2005-2006,2e1cf3d2,Hercules,"1,556",17.3,4.0,0.0,69.0,1.0,,Hercules
-,Palacios,es ESP,DF,16,15,0.0,0.0,2005-2006,3af36ab0,Hercules,"1,311",14.6,4.0,0.0,69.0,1.0,,Hercules
-,Juan Redondo,es ESP,DF,16,13,1.0,0.0,2005-2006,c2bed898,Hercules,"1,207",13.4,4.0,0.0,69.0,1.0,,Hercules
-,Daniel Navarrete,es ESP,,23,10,1.0,1.0,2005-2006,4f6911a4,Hercules,"1,010",11.2,2.0,0.0,69.0,1.0,,Hercules
-,Manolo Pérez,es ESP,MF,10,10,0.0,0.0,2005-2006,4ac8dad5,Hercules,716,8.0,2.0,0.0,69.0,1.0,,Hercules
-,Carlos Domínguez,es ESP,FW,15,7,2.0,0.0,2005-2006,c008c1c3,Hercules,620,6.9,3.0,0.0,69.0,1.0,,Hercules
-,Jordi Martínez,es ESP,,11,7,0.0,0.0,2005-2006,9de3aa56,Hercules,566,6.3,4.0,0.0,69.0,1.0,,Hercules
-,Kiko Ratón,es ESP,FW,10,5,0.0,2.0,2005-2006,1b4d461e,Hercules,500,5.6,4.0,0.0,69.0,1.0,,Hercules
-,Toché,es ESP,FW,25,4,1.0,3.0,2005-2006,64e35e11,Hercules,794,8.8,2.0,0.0,69.0,1.0,,Hercules
-,Jimmy Schmidt,uy URU,GK,4,4,0.0,0.0,2005-2006,826527ce,Hercules,360,4.0,1.0,0.0,69.0,8.0,4964.0,Hercules
-,Patri,es ESP,MF,8,4,1.0,0.0,2005-2006,5281c162,Hercules,275,3.1,3.0,1.0,69.0,1.0,,Hercules
-,Dani Tortolero,es ESP,DF,6,3,0.0,0.0,2005-2006,42481fd5,Hercules,342,3.8,0.0,0.0,69.0,1.0,,Hercules
-,M Perez,,,2,1,0.0,0.0,2005-2006,,Hercules,58,0.6,0.0,0.0,69.0,,,Hercules
-,﻿Sergio Fernández,es ESP,DF,34,34,0.0,0.0,2006-2007,db150f07,Hercules,"3,056",34.0,9.0,1.0,69.0,1.0,,Hercules
-,Juan Redondo,es ESP,DF,35,33,0.0,0.0,2006-2007,c2bed898,Hercules,"2,957",32.9,10.0,0.0,69.0,1.0,,Hercules
-,Javier Farinós,es ESP,MF,28,24,4.0,1.0,2006-2007,d9b0f08e,Hercules,"1,912",21.2,6.0,1.0,69.0,1.0,,Hercules
-,Sergio Aragoneses,es ESP,GK,23,23,0.0,0.0,2006-2007,8e8258f5,Hercules,"2,070",23.0,1.0,0.0,69.0,1.0,,Hercules
-,Moisés,es ESP,FW,34,21,7.0,10.0,2006-2007,3415193,Hercules,"2,163",24.0,11.0,1.0,69.0,1.0,,Hercules
-,Jesús Turiel,es ESP,MF,31,21,2.0,2.0,2006-2007,7c737496,Hercules,"1,982",22.0,12.0,1.0,69.0,1.0,,Hercules
-,Tote,es ESP,"FW,MF",32,21,2.0,7.0,2006-2007,3e74421,Hercules,"1,950",21.7,6.0,1.0,69.0,1.0,22.0,Hercules
-,Edu Albácar,es ESP,DF,22,21,5.0,0.0,2006-2007,fc8a84b8,Hercules,"1,854",20.6,5.0,0.0,69.0,1.0,,Hercules
-,Gonzalo de los Santos,uy URU,MF,23,21,1.0,1.0,2006-2007,1855302a,Hercules,"1,642",18.2,9.0,1.0,69.0,8.0,,Hercules
-,Carmelo González,es ESP,MF,19,19,1.0,1.0,2006-2007,27f4e837,Hercules,"1,496",16.6,5.0,2.0,69.0,1.0,,Hercules
-,Ariel Montenegro,ar ARG,MF,30,18,4.0,5.0,2006-2007,d5835cca,Hercules,"1,820",20.2,5.0,0.0,69.0,5.0,,Hercules
-,Sergio Mantecón,es ESP,MF,21,18,0.0,1.0,2006-2007,71eaddb6,Hercules,"1,664",18.5,6.0,2.0,69.0,1.0,,Hercules
-,Patricio Graff,ar ARG,DF,19,18,1.0,0.0,2006-2007,b4a2cf8b,Hercules,"1,506",16.7,6.0,1.0,69.0,5.0,,Hercules
-,Diego Mateo,ar ARG,"DF,MF",28,17,1.0,0.0,2006-2007,6ff0efaa,Hercules,"1,697",18.9,6.0,0.0,69.0,5.0,,Hercules
-,Kike Mateo,es ESP,MF,23,17,1.0,2.0,2006-2007,99508f00,Hercules,"1,409",15.7,6.0,2.0,69.0,1.0,,Hercules
-,Sendoa Agirre,es ESP,MF,29,16,2.0,4.0,2006-2007,0437c448,Hercules,"1,456",16.2,1.0,0.0,69.0,1.0,4965.0,Hercules
-,Juanlu,es ESP,"FW,MF",21,15,1.0,3.0,2006-2007,431ac3e7,Hercules,"1,359",15.1,1.0,0.0,69.0,1.0,,Hercules
-,Pablo Calandria,ar ARG,FW,24,15,1.0,6.0,2006-2007,9c010ae8,Hercules,"1,350",15.0,0.0,0.0,69.0,5.0,,Hercules
-,Rolando Schiavi,ar ARG,DF,15,15,0.0,0.0,2006-2007,ca018848,Hercules,"1,350",15.0,8.0,0.0,69.0,5.0,4963.0,Hercules
-,Urbano Santos,es ESP,DF,16,14,0.0,0.0,2006-2007,64592758,Hercules,"1,147",12.7,5.0,0.0,69.0,1.0,4960.0,Hercules
-,Xisco Nadal,es ESP,"FW,MF",16,13,0.0,0.0,2006-2007,5dc11264,Hercules,"1,021",11.3,3.0,0.0,69.0,1.0,,Hercules
-,Líder Mármol,py PAR,DF,12,12,0.0,1.0,2006-2007,384b5f71,Hercules,"1,055",11.7,0.0,1.0,69.0,43.0,4966.0,Hercules
-,Ismael Falcón,es ESP,GK,11,11,0.0,0.0,2006-2007,5d2574f2,Hercules,990,11.0,0.0,0.0,69.0,1.0,,Hercules
-,Kossi Agassa,tg TOG,GK,8,8,0.0,0.0,2006-2007,14a03f68,Hercules,720,8.0,1.0,0.0,69.0,109.0,4967.0,Hercules
-,Aarón Galindo,mx MEX,DF,5,5,0.0,0.0,2006-2007,9076667f,Hercules,448,5.0,1.0,1.0,69.0,20.0,4968.0,Hercules
-,Ignacio Benítez,es ESP,MF,6,5,0.0,2.0,2006-2007,cfb8b7fc,Hercules,401,4.5,0.0,0.0,69.0,1.0,,Hercules
-,Piti,es ESP,"FW,MF",15,4,0.0,2.0,2006-2007,b530738,Hercules,566,6.3,3.0,0.0,69.0,1.0,,Hercules
-,﻿Unai Alba,es ESP,GK,33,33,0.0,0.0,2007-2008,40e34fb7,Hercules,"2,970",33.0,3.0,0.0,69.0,1.0,4969.0,Hercules
-,Sergio Fernández,es ESP,DF,32,31,0.0,3.0,2007-2008,db150f07,Hercules,"2,749",30.5,13.0,0.0,69.0,1.0,,Hercules
-,Diego Jaume,uy URU,DF,30,30,0.0,4.0,2007-2008,9663d985,Hercules,"2,695",29.9,8.0,1.0,69.0,8.0,,Hercules
-,Javier Farinós,es ESP,MF,31,30,5.0,6.0,2007-2008,d9b0f08e,Hercules,"2,674",29.7,3.0,1.0,69.0,1.0,,Hercules
-,Juanma,es ESP,DF,30,30,1.0,1.0,2007-2008,f3b5db81,Hercules,"2,666",29.6,10.0,0.0,69.0,1.0,,Hercules
-,Rodri,es ESP,MF,32,30,1.0,1.0,2007-2008,b8462bd6,Hercules,"2,546",28.3,12.0,0.0,69.0,1.0,,Hercules
-,Edu Albácar,es ESP,DF,30,27,4.0,0.0,2007-2008,fc8a84b8,Hercules,"2,372",26.4,7.0,0.0,69.0,1.0,,Hercules
-,Sendoa Agirre,es ESP,MF,36,23,2.0,9.0,2007-2008,0437c448,Hercules,"2,192",24.4,6.0,0.0,69.0,1.0,4965.0,Hercules
-,Tote,es ESP,"FW,MF",30,23,5.0,7.0,2007-2008,3e74421,Hercules,"2,012",22.4,5.0,1.0,69.0,1.0,22.0,Hercules
-,Ismael Santiago,es ESP,MF,32,23,7.0,6.0,2007-2008,59c55e77,Hercules,"1,910",21.2,5.0,0.0,69.0,1.0,,Hercules
-,César Martín,es ESP,DF,24,22,0.0,4.0,2007-2008,f29d6eb0,Hercules,"1,939",21.5,7.0,0.0,69.0,1.0,,Hercules
-,Juan Carlos Mariño,pe PER,MF,28,20,2.0,2.0,2007-2008,464ddce7,Hercules,"1,764",19.6,5.0,2.0,69.0,57.0,4970.0,Hercules
-,Gonzalo de los Santos,uy URU,MF,23,20,2.0,0.0,2007-2008,1855302a,Hercules,"1,740",19.3,8.0,1.0,69.0,8.0,,Hercules
-,Ion Vélez,es ESP,FW,20,19,2.0,5.0,2007-2008,3a6c16de,Hercules,"1,684",18.7,4.0,1.0,69.0,1.0,,Hercules
-,Patricio Graff,ar ARG,DF,23,18,0.0,0.0,2007-2008,b4a2cf8b,Hercules,"1,750",19.4,8.0,0.0,69.0,5.0,,Hercules
-,Blas Pérez,pa PAN,FW,16,16,4.0,4.0,2007-2008,b9c81163,Hercules,"1,306",14.5,7.0,0.0,69.0,89.0,4971.0,Hercules
-,Ariel Montenegro,ar ARG,MF,26,15,1.0,3.0,2007-2008,d5835cca,Hercules,"1,333",14.8,1.0,0.0,69.0,5.0,,Hercules
-,Rubén Navarro,es ESP,FW,26,14,0.0,7.0,2007-2008,59cc2821,Hercules,"1,346",15.0,2.0,0.0,69.0,1.0,,Hercules
-,Miguel Llera,es ESP,DF,11,10,0.0,1.0,2007-2008,b58a6d72,Hercules,922,10.2,4.0,0.0,69.0,1.0,,Hercules
-,Toni Prats,es ESP,GK,7,7,0.0,0.0,2007-2008,b40adcd0,Hercules,630,7.0,0.0,0.0,69.0,1.0,,Hercules
-,Álvaro Cámara,es ESP,MF,20,5,1.0,1.0,2007-2008,d1c514a8,Hercules,582,6.5,3.0,0.0,69.0,1.0,,Hercules
-,Kiran Bechan,nl NED,MF,9,4,1.0,1.0,2007-2008,bae47830,Hercules,432,4.8,2.0,0.0,69.0,11.0,4972.0,Hercules
-,Javi González,es ESP,MF,12,4,0.0,0.0,2007-2008,b1e9277c,Hercules,373,4.1,1.0,0.0,69.0,1.0,,Hercules
-,Manu Sánchez,es ESP,"FW,MF",10,2,0.0,0.0,2007-2008,248b0b19,Hercules,338,3.8,2.0,0.0,69.0,1.0,,Hercules
-,Ricardo Sanzol,es ESP,GK,2,2,0.0,0.0,2007-2008,1aa419de,Hercules,180,2.0,1.0,0.0,69.0,1.0,,Hercules
-,Manuel Santacruz,,,5,2,0.0,0.0,2007-2008,,Hercules,159,1.8,1.0,1.0,69.0,,,Hercules
-,Piti,es ESP,"FW,MF",6,1,0.0,0.0,2007-2008,b530738,Hercules,126,1.4,1.0,0.0,69.0,1.0,,Hercules
-,﻿Juan Calatayud,es ESP,GK,41,41,0.0,0.0,2008-2009,f1714283,Hercules,"3,637",40.4,2.0,0.0,69.0,1.0,,Hercules
-,Javier Farinós,es ESP,MF,41,41,5.0,8.0,2008-2009,d9b0f08e,Hercules,"3,630",40.3,9.0,0.0,69.0,1.0,,Hercules
-,Sergio Fernández,es ESP,DF,38,38,0.0,1.0,2008-2009,db150f07,Hercules,"3,412",37.9,12.0,2.0,69.0,1.0,,Hercules
-,Tote,es ESP,"FW,MF",39,38,8.0,8.0,2008-2009,3e74421,Hercules,"3,160",35.1,5.0,1.0,69.0,1.0,22.0,Hercules
-,Dani Bautista,es ESP,DF,32,32,3.0,0.0,2008-2009,135b0a5e,Hercules,"2,880",32.0,11.0,0.0,69.0,1.0,,Hercules
-,Tuni,es ESP,"DF,MF",37,32,3.0,3.0,2008-2009,77175c5,Hercules,"2,333",25.9,6.0,0.0,69.0,1.0,,Hercules
-,Abel Aguilar,co COL,MF,35,31,3.0,9.0,2008-2009,6936b41b,Hercules,"2,880",32.0,10.0,1.0,69.0,19.0,,Hercules
-,Abraham Paz,es ESP,DF,31,29,0.0,4.0,2008-2009,15ec0042,Hercules,"2,531",28.1,10.0,0.0,69.0,1.0,,Hercules
-,Andrija Delibašić,me MNE,FW,31,29,4.0,11.0,2008-2009,4de03033,Hercules,"2,392",26.6,9.0,1.0,69.0,33.0,,Hercules
-,Unai Expósito,es ESP,DF,28,26,1.0,0.0,2008-2009,3aca2200,Hercules,"2,390",26.6,9.0,1.0,69.0,1.0,,Hercules
-,Sendoa Agirre,es ESP,MF,39,22,7.0,9.0,2008-2009,0437c448,Hercules,"1,987",22.1,0.0,0.0,69.0,1.0,4965.0,Hercules
-,Rodri,es ESP,MF,30,16,2.0,0.0,2008-2009,b8462bd6,Hercules,"1,617",18.0,8.0,0.0,69.0,1.0,,Hercules
-,Manuel Ruz,es ESP,DF,16,16,0.0,0.0,2008-2009,0bd93f6a,Hercules,"1,392",15.5,4.0,0.0,69.0,1.0,,Hercules
-,Rubén Navarro,es ESP,FW,29,13,0.0,15.0,2008-2009,59cc2821,Hercules,"1,367",15.2,3.0,0.0,69.0,1.0,,Hercules
-,César Martín,es ESP,DF,14,13,1.0,1.0,2008-2009,f29d6eb0,Hercules,"1,111",12.3,5.0,1.0,69.0,1.0,,Hercules
-,Fernando Sales,es ESP,MF,24,12,2.0,2.0,2008-2009,24486536,Hercules,"1,101",12.2,3.0,0.0,69.0,1.0,,Hercules
-,Dani Carril,es ESP,DF,10,10,0.0,1.0,2008-2009,718167d2,Hercules,900,10.0,6.0,0.0,69.0,1.0,,Hercules
-,Fernando Morán,es ESP,MF,28,9,1.0,5.0,2008-2009,0fce6e4c,Hercules,"1,071",11.9,1.0,0.0,69.0,1.0,,Hercules
-,Raúl Ruiz Matarín,es ESP,"FW,MF",10,6,0.0,1.0,2008-2009,1ca989fb,Hercules,528,5.9,3.0,0.0,69.0,1.0,4973.0,Hercules
-,Sebastián Taborda,uy URU,FW,12,3,0.0,1.0,2008-2009,c26f57a6,Hercules,486,5.4,2.0,0.0,69.0,8.0,,Hercules
-,Gerardo Noriega,es ESP,MF,8,2,0.0,0.0,2008-2009,48ff4cab,Hercules,251,2.8,0.0,0.0,69.0,1.0,,Hercules
-,Álvaro Cámara,es ESP,MF,8,1,1.0,1.0,2008-2009,d1c514a8,Hercules,172,1.9,0.0,0.0,69.0,1.0,,Hercules
-,Unai Alba,es ESP,GK,2,1,0.0,0.0,2008-2009,40e34fb7,Hercules,143,1.6,0.0,0.0,69.0,1.0,4969.0,Hercules
-,Kiko Femenía,es ESP,"DF,FW",1,1,0.0,0.0,2008-2009,5d01ecf,Hercules,68,0.8,0.0,0.0,69.0,1.0,,Hercules
-,Sergio Díaz,es ESP,DF,1,0,0.0,0.0,2008-2009,f8183181,Hercules,28,0.3,1.0,0.0,69.0,1.0,,Hercules
-,﻿Juan Calatayud,es ESP,GK,42,42,0.0,0.0,2009-2010,f1714283,Hercules,"3,780",42.0,2.0,0.0,69.0,1.0,,Hercules
-,Sendoa Agirre,es ESP,MF,39,39,3.0,2.0,2009-2010,0437c448,Hercules,"2,966",33.0,1.0,1.0,69.0,1.0,4965.0,Hercules
-,Sergio Rodríguez,es ESP,MF,38,38,1.0,3.0,2009-2010,44e3ae1a,Hercules,"3,390",37.7,15.0,1.0,69.0,1.0,,Hercules
-,Juanra,es ESP,DF,38,38,0.0,0.0,2009-2010,616d9a30,Hercules,"3,312",36.8,10.0,1.0,69.0,1.0,,Hercules
-,Tiago Gomes,pt POR,MF,37,36,2.0,6.0,2009-2010,bd7fd1b5,Hercules,"2,922",32.5,11.0,1.0,69.0,3.0,4974.0,Hercules
-,Javier Farinós,es ESP,MF,35,35,10.0,6.0,2009-2010,d9b0f08e,Hercules,"3,036",33.7,12.0,1.0,69.0,1.0,,Hercules
-,Abraham Paz,es ESP,DF,31,31,0.0,2.0,2009-2010,15ec0042,Hercules,"2,650",29.4,5.0,1.0,69.0,1.0,,Hercules
-,Andrija Delibašić,me MNE,FW,34,30,5.0,9.0,2009-2010,4de03033,Hercules,"2,657",29.5,7.0,2.0,69.0,33.0,,Hercules
-,Paco Peña,es ESP,DF,29,29,1.0,0.0,2009-2010,3b01965,Hercules,"2,596",28.8,9.0,1.0,69.0,1.0,,Hercules
-,Tote,es ESP,"FW,MF",35,29,4.0,3.0,2009-2010,3e74421,Hercules,"2,431",27.0,5.0,0.0,69.0,1.0,22.0,Hercules
-,Francisco Rufete,es ESP,MF,32,29,3.0,1.0,2009-2010,95aca6cd,Hercules,"1,981",22.0,4.0,1.0,69.0,1.0,,Hercules
-,Ionel Dănciulescu,ro ROU,FW,25,19,0.0,7.0,2009-2010,c677e6f4,Hercules,"1,474",16.4,7.0,0.0,69.0,51.0,4975.0,Hercules
-,Dani Bautista,es ESP,DF,14,13,0.0,0.0,2009-2010,135b0a5e,Hercules,"1,194",13.3,4.0,0.0,69.0,1.0,,Hercules
-,Sergio Díaz,es ESP,DF,12,12,0.0,0.0,2009-2010,f8183181,Hercules,"1,054",11.7,5.0,0.0,69.0,1.0,,Hercules
-,Jorge Alonso,es ESP,MF,19,10,2.0,0.0,2009-2010,2c619fad,Hercules,765,8.5,4.0,0.0,69.0,1.0,,Hercules
-,Rodri,es ESP,MF,15,8,1.0,1.0,2009-2010,b8462bd6,Hercules,844,9.4,3.0,0.0,69.0,1.0,,Hercules
-,Javier Portillo,es ESP,FW,16,7,1.0,5.0,2009-2010,99058498,Hercules,745,8.3,1.0,0.0,69.0,1.0,19.0,Hercules
-,Joseba del Olmo,es ESP,MF,20,6,0.0,0.0,2009-2010,41abf0c3,Hercules,845,9.4,6.0,0.0,69.0,1.0,,Hercules
-,Cristian Hidalgo,es ESP,"FW,MF",23,4,0.0,3.0,2009-2010,262b9f04,Hercules,675,7.5,5.0,0.0,69.0,1.0,,Hercules
-,Noé Pamarot,fr FRA,DF,7,4,0.0,0.0,2009-2010,6036afc6,Hercules,473,5.3,0.0,0.0,69.0,4.0,4976.0,Hercules
-,Kiko Femenía,es ESP,"DF,FW",35,1,0.0,2.0,2009-2010,5d01ecf,Hercules,984,10.9,4.0,0.0,69.0,1.0,,Hercules
-,Edu Moya,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,7da62f29,Hercules,90,1.0,0.0,0.0,69.0,1.0,,Hercules
-,Manuel Ruz,es ESP,DF,1,1,0.0,0.0,2009-2010,0bd93f6a,Hercules,90,1.0,0.0,0.0,69.0,1.0,,Hercules
-,Gerardo Noriega,es ESP,MF,10,0,0.0,0.0,2009-2010,48ff4cab,Hercules,334,3.7,1.0,0.0,69.0,1.0,,Hercules
-,﻿Juan Calatayud,es ESP,GK,34,34,0.0,0.0,2010-2011,f1714283,Hercules,"3,049",33.9,1.0,1.0,69.0,1.0,,Hercules
-,David Cortés,es ESP,DF,34,34,1.0,0.0,2010-2011,99d15abd,Hercules,"3,035",33.7,8.0,0.0,69.0,1.0,,Hercules
-,Abel Aguilar,co COL,MF,34,33,1.0,0.0,2010-2011,6936b41b,Hercules,"2,862",31.8,11.0,1.0,69.0,19.0,,Hercules
-,Abraham Paz,es ESP,DF,29,29,0.0,2.0,2010-2011,15ec0042,Hercules,"2,422",26.9,7.0,0.0,69.0,1.0,,Hercules
-,Noé Pamarot,fr FRA,DF,29,28,0.0,0.0,2010-2011,6036afc6,Hercules,"2,540",28.2,8.0,0.0,69.0,4.0,4976.0,Hercules
-,Paco Peña,es ESP,DF,28,28,0.0,0.0,2010-2011,3b01965,Hercules,"2,467",27.4,8.0,0.0,69.0,1.0,,Hercules
-,David Trezeguet,fr FRA,FW,31,28,0.0,12.0,2010-2011,80183cb2,Hercules,"2,454",27.3,3.0,1.0,69.0,4.0,4977.0,Hercules
-,Tiago Gomes,pt POR,MF,28,25,1.0,2.0,2010-2011,bd7fd1b5,Hercules,"2,105",23.4,3.0,0.0,69.0,3.0,4974.0,Hercules
-,Nelson Valdez,py PAR,FW,25,22,1.0,8.0,2010-2011,040d8500,Hercules,"1,820",20.2,8.0,1.0,69.0,43.0,,Hercules
-,Matías Fritzler,ar ARG,MF,26,22,0.0,0.0,2010-2011,4100467,Hercules,"1,795",19.9,8.0,2.0,69.0,5.0,4978.0,Hercules
-,Kiko Femenía,es ESP,"DF,FW",34,21,5.0,1.0,2010-2011,5d01ecf,Hercules,"2,076",23.1,2.0,0.0,69.0,1.0,,Hercules
-,Royston Drenthe,nl NED,"DF,MF",17,15,2.0,4.0,2010-2011,3d512ff2,Hercules,"1,294",14.4,8.0,0.0,69.0,11.0,65.0,Hercules
-,Tote,es ESP,"FW,MF",21,15,2.0,1.0,2010-2011,3e74421,Hercules,"1,221",13.6,1.0,0.0,69.0,1.0,22.0,Hercules
-,Juanra,es ESP,DF,14,13,1.0,0.0,2010-2011,616d9a30,Hercules,"1,195",13.3,3.0,0.0,69.0,1.0,,Hercules
-,Olivier Thomert,mq MTQ,"FW,MF",18,12,0.0,1.0,2010-2011,cda6c9d,Hercules,801,8.9,2.0,0.0,69.0,104.0,4979.0,Hercules
-,Javier Portillo,es ESP,FW,26,11,0.0,1.0,2010-2011,99058498,Hercules,"1,155",12.8,1.0,0.0,69.0,1.0,19.0,Hercules
-,Javier Farinós,es ESP,MF,12,11,2.0,1.0,2010-2011,d9b0f08e,Hercules,886,9.8,2.0,1.0,69.0,1.0,,Hercules
-,Rodri,es ESP,DF,13,10,0.0,0.0,2010-2011,7fa4aa89,Hercules,"1,043",11.6,5.0,0.0,69.0,1.0,,Hercules
-,Cristian Pulhac,ro ROU,DF,9,9,0.0,0.0,2010-2011,b68a705d,Hercules,759,8.4,4.0,1.0,69.0,51.0,4980.0,Hercules
-,Sendoa Agirre,es ESP,MF,23,7,1.0,3.0,2010-2011,0437c448,Hercules,793,8.8,1.0,0.0,69.0,1.0,4965.0,Hercules
-,Francisco Rufete,es ESP,MF,14,3,0.0,0.0,2010-2011,95aca6cd,Hercules,523,5.8,1.0,0.0,69.0,1.0,,Hercules
-,Piet Velthuizen,nl NED,GK,3,3,0.0,0.0,2010-2011,b7a7d76a,Hercules,270,3.0,0.0,0.0,69.0,11.0,4981.0,Hercules
-,Cristian Hidalgo,es ESP,"FW,MF",19,2,0.0,0.0,2010-2011,262b9f04,Hercules,613,6.8,1.0,0.0,69.0,1.0,,Hercules
-,Mohamed Sarr,sn SEN,"DF,MF",2,2,0.0,0.0,2010-2011,82bf93ae,Hercules,180,2.0,1.0,0.0,69.0,34.0,4982.0,Hercules
-,Unai Alba,es ESP,GK,2,1,0.0,0.0,2010-2011,40e34fb7,Hercules,101,1.1,0.0,0.0,69.0,1.0,4969.0,Hercules
-,Luis Carlos Martín,es ESP,MF,1,0,0.0,0.0,2010-2011,8cee70e5,Hercules,36,0.4,0.0,0.0,69.0,1.0,4983.0,Hercules
-,﻿Ismael Falcón,es ESP,GK,39,39,0.0,0.0,2011-2012,5d2574f2,Hercules,"3,432",38.1,1.0,0.0,69.0,1.0,,Hercules
-,Paco Peña,es ESP,DF,38,38,0.0,0.0,2011-2012,3b01965,Hercules,"3,415",37.9,16.0,1.0,69.0,1.0,,Hercules
-,Samuel Llorca,es ESP,DF,37,37,0.0,5.0,2011-2012,9c3d54f0,Hercules,"3,315",36.8,16.0,0.0,69.0,1.0,,Hercules
-,José Mora,ec ECU,FW,38,37,0.0,1.0,2011-2012,0eff5cf7,Hercules,"3,212",35.7,12.0,0.0,69.0,61.0,,Hercules
-,Abel Aguilar,co COL,MF,35,35,0.0,4.0,2011-2012,6936b41b,Hercules,"3,150",35.0,11.0,0.0,69.0,19.0,,Hercules
-,Míchel,es ESP,MF,38,35,10.0,13.0,2011-2012,418f8f61,Hercules,"3,110",34.6,13.0,0.0,69.0,1.0,,Hercules
-,Tiago Gomes,pt POR,MF,32,30,0.0,0.0,2011-2012,bd7fd1b5,Hercules,"2,434",27.0,9.0,2.0,69.0,3.0,4974.0,Hercules
-,Carlos Calvo,es ESP,MF,40,29,10.0,8.0,2011-2012,444d33f,Hercules,"2,676",29.7,9.0,0.0,69.0,1.0,,Hercules
-,Diego Rivas,es ESP,MF,31,29,0.0,0.0,2011-2012,cf46bc,Hercules,"2,357",26.2,9.0,2.0,69.0,1.0,,Hercules
-,Anaitz Arbilla,es ESP,DF,34,27,1.0,3.0,2011-2012,850c0a0d,Hercules,"2,453",27.3,7.0,0.0,69.0,1.0,,Hercules
-,Juanra,es ESP,DF,25,25,1.0,0.0,2011-2012,616d9a30,Hercules,"2,225",24.7,5.0,0.0,69.0,1.0,,Hercules
-,Urko Vera,es ESP,FW,31,19,0.0,11.0,2011-2012,d8cf0115,Hercules,"1,682",18.7,7.0,0.0,69.0,1.0,,Hercules
-,Gilvan Gomes,br BRA,MF,19,14,5.0,4.0,2011-2012,6e71e066,Hercules,"1,380",15.3,5.0,0.0,69.0,2.0,4984.0,Hercules
-,Adrián Sardinero,es ESP,"FW,MF",29,13,1.0,3.0,2011-2012,51e9bb3f,Hercules,"1,294",14.4,1.0,0.0,69.0,1.0,,Hercules
-,Felipe Sanchón,es ESP,MF,28,13,1.0,4.0,2011-2012,f62ff94e,Hercules,"1,099",12.2,4.0,0.0,69.0,1.0,,Hercules
-,Juanmi Callejón,es ESP,MF,14,10,4.0,1.0,2011-2012,60bb7e62,Hercules,709,7.9,2.0,0.0,69.0,1.0,,Hercules
-,Alberto Escassi,es ESP,"DF,MF",17,8,1.0,0.0,2011-2012,154fe273,Hercules,808,9.0,2.0,0.0,69.0,1.0,,Hercules
-,David Aganzo,es ESP,FW,19,7,0.0,2.0,2011-2012,97e3ba49,Hercules,847,9.4,5.0,1.0,69.0,1.0,,Hercules
-,Sergio Díaz,es ESP,DF,10,7,0.0,0.0,2011-2012,f8183181,Hercules,684,7.6,2.0,1.0,69.0,1.0,,Hercules
-,Tote,es ESP,"FW,MF",21,6,0.0,1.0,2011-2012,3e74421,Hercules,707,7.9,3.0,0.0,69.0,1.0,22.0,Hercules
-,Juan Carlos,es ESP,GK,4,3,0.0,0.0,2011-2012,688b96e3,Hercules,348,3.9,1.0,0.0,69.0,1.0,,Hercules
-,Pepe Sellés,es ESP,DF,1,1,0.0,0.0,2011-2012,8ef3fc7d,Hercules,90,1.0,0.0,0.0,69.0,1.0,4985.0,Hercules
-,Sergio Díaz,es ESP,DF,3,0,0.0,0.0,2011-2012,22afdb1b,Hercules,20,0.2,0.0,0.0,69.0,1.0,4986.0,Hercules
-,Jefté Betancor,es ESP,FW,2,0,0.0,0.0,2011-2012,f88c9890,Hercules,6,0.1,0.0,0.0,69.0,1.0,4987.0,Hercules
-,﻿Leandro Cabrera,uy URU,DF,39,39,0.0,1.0,2012-2013,69cbc8b6,Hercules,"3,462",38.5,9.0,1.0,69.0,8.0,,Hercules
-,Ismael Falcón,es ESP,GK,37,37,0.0,0.0,2012-2013,5d2574f2,Hercules,"3,330",37.0,3.0,0.0,69.0,1.0,,Hercules
-,Javier Portillo,es ESP,FW,40,37,0.0,16.0,2012-2013,99058498,Hercules,"3,234",35.9,5.0,0.0,69.0,1.0,19.0,Hercules
-,Paco Peña,es ESP,DF,37,36,3.0,1.0,2012-2013,3b01965,Hercules,"3,268",36.3,13.0,1.0,69.0,1.0,,Hercules
-,Edu Bedia,es ESP,MF,33,30,8.0,5.0,2012-2013,2dc8077c,Hercules,"2,527",28.1,12.0,0.0,69.0,1.0,,Hercules
-,Adrián Sardinero,es ESP,"FW,MF",39,23,3.0,2.0,2012-2013,51e9bb3f,Hercules,"2,182",24.2,3.0,0.0,69.0,1.0,,Hercules
-,Alberto Escassi,es ESP,"DF,MF",27,22,0.0,1.0,2012-2013,154fe273,Hercules,"1,894",21.0,10.0,1.0,69.0,1.0,,Hercules
-,David Cortés,es ESP,DF,19,19,0.0,0.0,2012-2013,99d15abd,Hercules,"1,683",18.7,5.0,0.0,69.0,1.0,,Hercules
-,Noé Pamarot,fr FRA,DF,19,19,0.0,1.0,2012-2013,6036afc6,Hercules,"1,667",18.5,8.0,1.0,69.0,4.0,4976.0,Hercules
-,Mario Paglialunga,ar ARG,MF,18,18,0.0,1.0,2012-2013,da5ea84,Hercules,"1,568",17.4,4.0,0.0,69.0,5.0,,Hercules
-,José Mora,ec ECU,FW,18,17,0.0,0.0,2012-2013,0eff5cf7,Hercules,"1,436",16.0,5.0,0.0,69.0,61.0,,Hercules
-,Diego Rivas,es ESP,MF,26,16,0.0,0.0,2012-2013,cf46bc,Hercules,"1,593",17.7,8.0,0.0,69.0,1.0,,Hercules
-,Pablo Redondo,es ESP,MF,20,15,1.0,0.0,2012-2013,da98fdb0,Hercules,"1,099",12.2,4.0,0.0,69.0,1.0,,Hercules
-,Anaitz Arbilla,es ESP,DF,15,14,0.0,0.0,2012-2013,850c0a0d,Hercules,"1,285",14.3,3.0,0.0,69.0,1.0,,Hercules
-,Fran Mérida,es ESP,MF,18,14,1.0,1.0,2012-2013,0e50f929,Hercules,"1,264",14.0,7.0,1.0,69.0,1.0,,Hercules
-,Gilvan Gomes,br BRA,MF,14,14,1.0,2.0,2012-2013,6e71e066,Hercules,"1,188",13.2,3.0,0.0,69.0,2.0,4984.0,Hercules
-,Juanra,es ESP,DF,14,11,0.0,0.0,2012-2013,616d9a30,Hercules,984,10.9,0.0,1.0,69.0,1.0,,Hercules
-,Mario Rosas,es ESP,MF,19,10,0.0,1.0,2012-2013,81718397,Hercules,"1,009",11.2,5.0,1.0,69.0,1.0,,Hercules
-,Braulio Nóbrega,es ESP,FW,14,10,2.0,5.0,2012-2013,6e02869d,Hercules,905,10.1,4.0,0.0,69.0,1.0,,Hercules
-,Pere Martínez,es ESP,DF,10,10,0.0,0.0,2012-2013,305df379,Hercules,650,7.2,5.0,1.0,69.0,1.0,4988.0,Hercules
-,Javito,es ESP,"FW,MF",12,9,0.0,1.0,2012-2013,54fa552,Hercules,745,8.3,0.0,0.0,69.0,1.0,4989.0,Hercules
-,Nacho González,uy URU,MF,12,8,2.0,1.0,2012-2013,53031e02,Hercules,671,7.5,4.0,0.0,69.0,8.0,,Hercules
-,Toti,es ESP,"FW,MF",20,6,2.0,0.0,2012-2013,03a03057,Hercules,747,8.3,5.0,0.0,69.0,1.0,,Hercules
-,Jeffrey Sarpong,nl NED,MF,13,6,0.0,1.0,2012-2013,cabfd01c,Hercules,525,5.8,0.0,0.0,69.0,11.0,,Hercules
-,Eldin Hadžić,ba BIH,"FW,MF",11,6,2.0,2.0,2012-2013,2e2d7785,Hercules,515,5.7,0.0,0.0,69.0,49.0,,Hercules
-,Juan Carlos,es ESP,GK,5,5,0.0,0.0,2012-2013,688b96e3,Hercules,450,5.0,1.0,0.0,69.0,1.0,,Hercules
-,Juanmi Callejón,es ESP,MF,11,3,0.0,0.0,2012-2013,60bb7e62,Hercules,505,5.6,2.0,0.0,69.0,1.0,,Hercules
-,Jordi César,es ESP,DF,5,3,1.0,0.0,2012-2013,7490dc27,Hercules,267,3.0,0.0,0.0,69.0,1.0,4990.0,Hercules
-,Pepe Sellés,es ESP,DF,3,3,0.0,0.0,2012-2013,8ef3fc7d,Hercules,225,2.5,2.0,0.0,69.0,1.0,4985.0,Hercules
-,Álvaro Clausí,es ESP,MF,4,2,0.0,0.0,2012-2013,620ca59,Hercules,177,2.0,0.0,0.0,69.0,1.0,4991.0,Hercules
-,Borja Martínez,es ESP,MF,6,0,0.0,0.0,2012-2013,22b05c05,Hercules,143,1.6,0.0,0.0,69.0,1.0,4992.0,Hercules
-,Raúl,es ESP,FW,5,0,0.0,0.0,2012-2013,9b82590f,Hercules,72,0.8,0.0,0.0,69.0,1.0,4993.0,Hercules
-,Smitarello,es ESP,,2,0,0.0,0.0,2012-2013,16487e17,Hercules,62,0.7,0.0,0.0,69.0,1.0,,Hercules
-,Álex Muñoz,es ESP,DF,1,0,0.0,0.0,2012-2013,853f211e,Hercules,18,0.2,0.0,0.0,69.0,1.0,,Hercules
-,﻿Héctor Yuste,es ESP,"DF,MF",39,39,0.0,0.0,2013-2014,f50a668a,Hercules,"3,422",38.0,13.0,0.0,69.0,1.0,,Hercules
-,Paco Peña,es ESP,DF,34,34,0.0,0.0,2013-2014,3b01965,Hercules,"2,946",32.7,12.0,1.0,69.0,1.0,,Hercules
-,Ismael Falcón,es ESP,GK,33,33,0.0,0.0,2013-2014,5d2574f2,Hercules,"2,970",33.0,5.0,0.0,69.0,1.0,,Hercules
-,Javier Portillo,es ESP,FW,38,32,4.0,10.0,2013-2014,99058498,Hercules,"2,872",31.9,4.0,0.0,69.0,1.0,19.0,Hercules
-,Abdoul Sissoko,fr FRA,MF,33,32,4.0,3.0,2013-2014,f7288611,Hercules,"2,745",30.5,8.0,0.0,69.0,4.0,,Hercules
-,Noé Pamarot,fr FRA,DF,31,31,1.0,3.0,2013-2014,6036afc6,Hercules,"2,652",29.5,6.0,0.0,69.0,4.0,4976.0,Hercules
-,Juan Manuel Ortiz,es ESP,"DF,MF",30,30,1.0,0.0,2013-2014,77513881,Hercules,"2,641",29.3,14.0,2.0,69.0,1.0,,Hercules
-,Alberto Escassi,es ESP,"DF,MF",30,28,0.0,0.0,2013-2014,154fe273,Hercules,"2,412",26.8,12.0,3.0,69.0,1.0,,Hercules
-,David Ferreiro,es ESP,"FW,MF",35,28,3.0,2.0,2013-2014,8970907e,Hercules,"2,408",26.8,7.0,0.0,69.0,1.0,,Hercules
-,Eldin Hadžić,ba BIH,"FW,MF",35,28,4.0,9.0,2013-2014,2e2d7785,Hercules,"2,237",24.9,4.0,0.0,69.0,49.0,,Hercules
-,Adrián Sardinero,es ESP,"FW,MF",32,25,1.0,4.0,2013-2014,51e9bb3f,Hercules,"1,844",20.5,3.0,0.0,69.0,1.0,,Hercules
-,Gai Assulin,il ISR,MF,32,17,2.0,3.0,2013-2014,ba776102,Hercules,"1,593",17.7,2.0,1.0,69.0,45.0,,Hercules
-,Ion Echaide,es ESP,DF,18,16,0.0,0.0,2013-2014,2ad367bb,Hercules,"1,547",17.2,3.0,0.0,69.0,1.0,,Hercules
-,Aitor,es ESP,DF,16,12,0.0,0.0,2013-2014,f43b20cc,Hercules,"1,093",12.1,3.0,0.0,69.0,1.0,4994.0,Hercules
-,Enrique de Lucas,es ESP,"FW,MF",24,10,3.0,4.0,2013-2014,61cc61,Hercules,"1,248",13.9,3.0,1.0,69.0,1.0,,Hercules
-,Javier Hervás,es ESP,MF,20,10,1.0,0.0,2013-2014,04b8d5c8,Hercules,"1,061",11.8,4.0,1.0,69.0,1.0,,Hercules
-,Gorka Azkorra,es ESP,FW,17,9,0.0,2.0,2013-2014,b6ba90f9,Hercules,858,9.5,0.0,0.0,69.0,1.0,,Hercules
-,Oinatz Aulestia,es ESP,GK,9,9,0.0,0.0,2013-2014,be681aab,Hercules,807,9.0,1.0,0.0,69.0,1.0,,Hercules
-,Borja Gómez Pérez,es ESP,DF,10,9,0.0,0.0,2013-2014,95abfdfd,Hercules,800,8.9,4.0,1.0,69.0,1.0,,Hercules
-,Héctor Font,es ESP,MF,16,7,3.0,0.0,2013-2014,9982593d,Hercules,755,8.4,3.0,1.0,69.0,1.0,,Hercules
-,Alberto Carbonell,es ESP,DF,8,7,0.0,0.0,2013-2014,b528015,Hercules,637,7.1,5.0,0.0,69.0,1.0,4995.0,Hercules
-,Dioni,es ESP,FW,11,5,0.0,1.0,2013-2014,c8c5ac,Hercules,559,6.2,2.0,0.0,69.0,1.0,,Hercules
-,Álex Muñoz,es ESP,DF,5,4,0.0,0.0,2013-2014,853f211e,Hercules,355,3.9,0.0,0.0,69.0,1.0,,Hercules
-,Yukiya Sugita,jp JPN,"FW,MF",16,3,0.0,2.0,2013-2014,8f7e132f,Hercules,484,5.4,0.0,0.0,69.0,54.0,,Hercules
-,Matías Campos,cl CHI,"DF,MF",2,2,0.0,0.0,2013-2014,8ff6d25a,Hercules,114,1.3,1.0,0.0,69.0,31.0,4996.0,Hercules
-,Darwin Machís,ve VEN,"FW,MF",3,1,0.0,0.0,2013-2014,d6ea4d9,Hercules,103,1.1,0.0,0.0,69.0,53.0,,Hercules
-,Juanma Acevedo,es ESP,MF,3,1,0.0,0.0,2013-2014,7479883c,Hercules,93,1.0,0.0,0.0,69.0,1.0,4997.0,Hercules
-,Lauren Egea,es ESP,FW,2,0,0.0,0.0,2013-2014,0f006190,Hercules,38,0.4,0.0,0.0,69.0,1.0,4998.0,Hercules
-,Álvaro Mas,es ESP,MF,1,0,0.0,0.0,2013-2014,ddcba015,Hercules,7,0.1,0.0,0.0,69.0,1.0,4999.0,Hercules
-,Iván Buigues,es ESP,GK,1,0,0.0,0.0,2013-2014,79d4ffb4,Hercules,3,0.0,0.0,0.0,69.0,1.0,5000.0,Hercules
-,Baldo Santana,es ESP,DF,1,0,0.0,0.0,2013-2014,bfe1969b,Hercules,2,0.0,0.0,0.0,69.0,1.0,5001.0,Hercules
-,﻿Juanma Acevedo,es ESP,MF,1,1,0.0,0.0,2014-2015,7479883c,Hercules,120.0,1.3,0.0,0.0,69.0,1.0,4997.0,Hercules
-,Iván Buigues,es ESP,GK,1,1,0.0,0.0,2014-2015,79d4ffb4,Hercules,120.0,1.3,1.0,0.0,69.0,1.0,5000.0,Hercules
-,Carlos Lázaro,es ESP,MF,1,1,0.0,0.0,2014-2015,785894a8,Hercules,120.0,1.3,0.0,0.0,69.0,1.0,,Hercules
-,Mikel Martins,es ESP,MF,1,1,0.0,0.0,2014-2015,f45c4513,Hercules,120.0,1.3,0.0,0.0,69.0,1.0,5002.0,Hercules
-,Álex Muñoz,es ESP,DF,1,1,0.0,0.0,2014-2015,853f211e,Hercules,120.0,1.3,0.0,0.0,69.0,1.0,,Hercules
-,Aitor Núñez,es ESP,DF,1,1,0.0,0.0,2014-2015,511e3986,Hercules,120.0,1.3,1.0,0.0,69.0,1.0,,Hercules
-,José Pardo,es ESP,DF,1,1,0.0,0.0,2014-2015,f9560607,Hercules,120.0,1.3,1.0,0.0,69.0,1.0,,Hercules
-,Pepe Sellés,es ESP,DF,1,1,0.0,0.0,2014-2015,8ef3fc7d,Hercules,120.0,1.3,0.0,0.0,69.0,1.0,4985.0,Hercules
-,Chechu,es ESP,MF,1,1,0.0,0.0,2014-2015,3333762c,Hercules,70.0,0.8,0.0,0.0,69.0,1.0,,Hercules
-,Javier Portillo,es ESP,FW,1,1,0.0,1.0,2014-2015,99058498,Hercules,68.0,0.8,0.0,0.0,69.0,1.0,19.0,Hercules
-,Adri Cuevas,es ESP,MF,1,1,0.0,0.0,2014-2015,b4267df9,Hercules,60.0,0.7,0.0,0.0,69.0,1.0,,Hercules
-,José Luis Miñano,es ESP,MF,1,0,0.0,0.0,2014-2015,1bc88b0c,Hercules,60.0,0.7,1.0,0.0,69.0,1.0,,Hercules
-,Fernando Rodríguez,es ESP,FW,1,0,0.0,1.0,2014-2015,31a98017,Hercules,52.0,0.6,1.0,0.0,69.0,1.0,,Hercules
-,Adrià Granell,es ESP,MF,1,0,0.0,0.0,2014-2015,33257930,Hercules,50.0,0.6,0.0,0.0,69.0,1.0,,Hercules
-,Chema,es ESP,GK,0,0,,,2014-2015,4b628c9b,Hercules,,,,,69.0,1.0,,Hercules
-,Francisco Javier González Muñoz,es ESP,DF,0,0,,,2014-2015,79e734b2,Hercules,,,,,69.0,1.0,5003.0,Hercules
-,﻿Juanma Acevedo,es ESP,MF,1,1,0.0,0.0,2015-2016,7479883c,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,4997.0,Hercules
-,Miguel Ángel Nieto,es ESP,MF,1,1,0.0,0.0,2015-2016,3a935b70,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,60.0,Hercules
-,Pichu Atienza,es ESP,DF,1,1,0.0,0.0,2015-2016,caca,Hercules,90.0,1.0,1.0,0.0,69.0,1.0,,Hercules
-,Chema,es ESP,GK,1,1,0.0,0.0,2015-2016,4b628c9b,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,,Hercules
-,Manuel Gato,es ESP,FW,1,1,0.0,0.0,2015-2016,b137ee5,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,,Hercules
-,Álex Muñoz,es ESP,DF,1,1,0.0,0.0,2015-2016,853f211e,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,,Hercules
-,Javier Portillo,es ESP,FW,1,1,0.0,0.0,2015-2016,99058498,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,19.0,Hercules
-,Rafita,es ESP,DF,1,1,0.0,0.0,2015-2016,631f177b,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,,Hercules
-,Yeray González,es ESP,MF,1,1,0.0,0.0,2015-2016,95fd065d,Hercules,74.0,0.8,0.0,0.0,69.0,1.0,5004.0,Hercules
-,José Rojas,es ESP,DF,1,1,0.0,0.0,2015-2016,5854c775,Hercules,45.0,0.5,1.0,0.0,69.0,1.0,,Hercules
-,José Luis Miñano,es ESP,MF,1,1,0.0,0.0,2015-2016,1bc88b0c,Hercules,37.0,0.4,0.0,1.0,69.0,1.0,,Hercules
-,Connor Ruane,eng ENG,MF,1,0,0.0,1.0,2015-2016,c5457a7,Hercules,45.0,0.5,0.0,0.0,69.0,6.0,5005.0,Hercules
-,Carlos Indiano,es ESP,MF,1,0,0.0,0.0,2015-2016,521c811e,Hercules,16.0,0.2,0.0,0.0,69.0,1.0,,Hercules
-,Iván Buigues,es ESP,GK,0,0,,,2015-2016,79d4ffb4,Hercules,,,,,69.0,1.0,5000.0,Hercules
-,Adri Cuevas,es ESP,MF,0,0,,,2015-2016,b4267df9,Hercules,,,,,69.0,1.0,,Hercules
-,Álex Gallar,es ESP,"FW,MF",0,0,,,2015-2016,36d5469c,Hercules,,,,,69.0,1.0,5006.0,Hercules
-,﻿Iván Buigues,es ESP,GK,5,5,0.0,0.0,2016-2017,79d4ffb4,Hercules,480.0,5.3,1.0,0.0,69.0,1.0,5000.0,Hercules
-,Albert Dalmau,es ESP,DF,5,5,0.0,0.0,2016-2017,86b6281,Hercules,480.0,5.3,0.0,0.0,69.0,1.0,5007.0,Hercules
-,Fernando Román,es ESP,DF,5,5,0.0,0.0,2016-2017,0935364e,Hercules,480.0,5.3,1.0,0.0,69.0,1.0,5008.0,Hercules
-,Paco Peña,es ESP,DF,5,5,0.0,0.0,2016-2017,3b01965,Hercules,456.0,5.1,3.0,0.0,69.0,1.0,,Hercules
-,David Mainz,es ESP,FW,5,4,0.0,3.0,2016-2017,d4498ac2,Hercules,409.0,4.5,0.0,0.0,69.0,1.0,5009.0,Hercules
-,Checa,es ESP,MF,4,4,0.0,0.0,2016-2017,036727d5,Hercules,390.0,4.3,3.0,0.0,69.0,1.0,5017.0,Hercules
-,José Gaspar,es ESP,MF,5,4,0.0,2.0,2016-2017,921af048,Hercules,383.0,4.3,0.0,0.0,69.0,1.0,5010.0,Hercules
-,Pol Bueso,es ESP,DF,4,4,0.0,0.0,2016-2017,7fd2c75e,Hercules,353.0,3.9,1.0,0.0,69.0,1.0,,Hercules
-,Juanma,es ESP,MF,4,3,0.0,1.0,2016-2017,2700600a,Hercules,306.0,3.4,0.0,0.0,69.0,1.0,,Hercules
-,Salinas,es ESP,FW,4,3,0.0,1.0,2016-2017,0c824c97,Hercules,260.0,2.9,0.0,0.0,69.0,1.0,5011.0,Hercules
-,Miguel Ángel Nieto,es ESP,MF,4,2,0.0,1.0,2016-2017,3a935b70,Hercules,212.0,2.4,0.0,0.0,69.0,1.0,60.0,Hercules
-,José Luis Miñano,es ESP,MF,4,2,0.0,0.0,2016-2017,1bc88b0c,Hercules,205.0,2.3,0.0,0.0,69.0,1.0,,Hercules
-,Omgba,cm CMR,MF,3,2,0.0,0.0,2016-2017,dcd32bbc,Hercules,205.0,2.3,0.0,0.0,69.0,36.0,5012.0,Hercules
-,José Rojas,es ESP,DF,2,2,0.0,0.0,2016-2017,5854c775,Hercules,180.0,2.0,0.0,0.0,69.0,1.0,,Hercules
-,Javi Flores,es ESP,MF,2,2,0.0,1.0,2016-2017,867f9ede,Hercules,96.0,1.1,0.0,0.0,69.0,1.0,5013.0,Hercules
-,Chechu,es ESP,MF,4,1,0.0,0.0,2016-2017,3333762c,Hercules,172.0,1.9,1.0,0.0,69.0,1.0,,Hercules
-,Pedro Inglés,es ESP,MF,2,1,0.0,0.0,2016-2017,2232dc1c,Hercules,114.0,1.3,0.0,0.0,69.0,1.0,5014.0,Hercules
-,Jesús Berrocal,es ESP,FW,2,1,0.0,0.0,2016-2017,13fba9d3,Hercules,80.0,0.9,0.0,0.0,69.0,1.0,,Hercules
-,Álex Pérez,,MF,1,0,0.0,0.0,2016-2017,9c65752,Hercules,19.0,0.2,0.0,0.0,69.0,,,Hercules
-,Chema,es ESP,GK,0,0,,,2016-2017,4b628c9b,Hercules,,,,,69.0,1.0,,Hercules
-,Edu Lledó,es ESP,GK,0,0,,,2016-2017,5b3ff6b7,Hercules,,,,,69.0,1.0,5015.0,Hercules
-,﻿Carlos Fernández,es ESP,FW,2,2,0.0,0.0,2017-2018,8c2a65d4,Hercules,210.0,2.3,1.0,0.0,69.0,1.0,5016.0,Hercules
-,Samuel Llorca,es ESP,DF,2,2,0.0,0.0,2017-2018,9c3d54f0,Hercules,210.0,2.3,0.0,0.0,69.0,1.0,,Hercules
-,Juanjo Nieto,es ESP,DF,2,2,0.0,0.0,2017-2018,b4511ba0,Hercules,210.0,2.3,2.0,0.0,69.0,1.0,,Hercules
-,Mikel Santamaría,es ESP,DF,2,2,0.0,0.0,2017-2018,c809e332,Hercules,210.0,2.3,0.0,0.0,69.0,1.0,,Hercules
-,Gerardo Navarrete,cl CHI,MF,2,2,0.0,0.0,2017-2018,5cabc7a,Hercules,183.0,2.0,1.0,0.0,69.0,31.0,,Hercules
-,José Gaspar,es ESP,MF,2,2,0.0,0.0,2017-2018,921af048,Hercules,153.0,1.7,0.0,0.0,69.0,1.0,5010.0,Hercules
-,Chechu,es ESP,MF,2,1,0.0,1.0,2017-2018,3333762c,Hercules,146.0,1.6,1.0,0.0,69.0,1.0,,Hercules
-,José Luis García Vayá,es ESP,MF,2,1,0.0,0.0,2017-2018,27dc1378,Hercules,125.0,1.4,0.0,0.0,69.0,1.0,,Hercules
-,Iván Buigues,es ESP,GK,1,1,0.0,0.0,2017-2018,79d4ffb4,Hercules,120.0,1.3,1.0,0.0,69.0,1.0,5000.0,Hercules
-,Connor Ruane,eng ENG,MF,1,1,0.0,0.0,2017-2018,c5457a7,Hercules,120.0,1.3,0.0,0.0,69.0,6.0,5005.0,Hercules
-,Miguel Ángel Nieto,es ESP,MF,2,1,0.0,0.0,2017-2018,3a935b70,Hercules,91.0,1.0,0.0,0.0,69.0,1.0,60.0,Hercules
-,Mohamed Ezzarfani,ma MAR,MF,1,1,0.0,0.0,2017-2018,3e59d360,Hercules,90.0,1.0,0.0,0.0,69.0,26.0,,Hercules
-,Ismael Falcón,es ESP,GK,1,1,0.0,0.0,2017-2018,5d2574f2,Hercules,90.0,1.0,0.0,0.0,69.0,1.0,,Hercules
-,José Luis Miñano,es ESP,MF,1,1,0.0,0.0,2017-2018,1bc88b0c,Hercules,79.0,0.9,2.0,1.0,69.0,1.0,,Hercules
-,Paco Peña,es ESP,DF,1,1,0.0,0.0,2017-2018,3b01965,Hercules,76.0,0.8,0.0,0.0,69.0,1.0,,Hercules
-,Óscar Díaz,es ESP,"FW,MF",2,1,0.0,0.0,2017-2018,5a5ed410,Hercules,71.0,0.8,0.0,0.0,69.0,1.0,,Hercules
-,Juli,es ESP,MF,1,0,0.0,1.0,2017-2018,f3541f8a,Hercules,63.0,0.7,0.0,0.0,69.0,1.0,,Hercules
-,Checa,es ESP,MF,1,0,0.0,0.0,2017-2018,036727d5,Hercules,22.0,0.2,0.0,0.0,69.0,1.0,5017.0,Hercules
-,Pedrag Muñoz,es ESP,FW,0,0,,,2017-2018,33f21566,Hercules,,,,,69.0,1.0,5018.0,Hercules
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Sergio Díaz,es ESP,DF,38,38,0.0,1.0,2005-2006,/en/players/f8183181/Sergio-Diaz,f8183181,Hercules,"3,407",37.9,9.0,2.0,69,1.0,4488,Hercules
+,Kike Mateo,es ESP,MF,38,36,2.0,9.0,2005-2006,/en/players/99508f00/Kike-Mateo,99508f00,Hercules,"3,196",35.5,6.0,0.0,69,1.0,4718,Hercules
+,Álvaro Cámara,es ESP,MF,37,34,7.0,2.0,2005-2006,/en/players/d1c514a8/Alvaro-Camara,d1c514a8,Hercules,"3,117",34.6,15.0,0.0,69,1.0,3734,Hercules
+,Moisés,es ESP,FW,36,32,3.0,11.0,2005-2006,/en/players/e3415193/Moises,3415193,Hercules,"2,727",30.3,7.0,0.0,69,1.0,1790,Hercules
+,Carlos Castro,es ESP,DF,32,31,0.0,0.0,2005-2006,/en/players/b13befad/Carlos-Castro,b13befad,Hercules,"2,771",30.8,10.0,1.0,69,1.0,4959,Hercules
+,Sisi,es ESP,"FW,MF",35,26,1.0,2.0,2005-2006,/en/players/add7ec92/Sisi,dd7ec92,Hercules,"2,340",26.0,2.0,0.0,69,1.0,2049,Hercules
+,Urbano Santos,es ESP,DF,27,25,0.0,0.0,2005-2006,/en/players/64592758/Urbano-Santos,64592758,Hercules,"2,143",23.8,7.0,1.0,69,1.0,4960,Hercules
+,Sergio Mora,es ESP,MF,29,24,0.0,0.0,2005-2006,/en/players/f0a31c00/Sergio-Mora,f0a31c00,Hercules,"1,983",22.0,7.0,0.0,69,1.0,3340,Hercules
+,Dani Borreguero,es ESP,MF,25,23,2.0,2.0,2005-2006,/en/players/c7fafcc6/Dani-Borreguero,c7fafcc6,Hercules,"1,854",20.6,10.0,0.0,69,1.0,4700,Hercules
+,Joaquín Moso,es ESP,GK,22,21,0.0,0.0,2005-2006,/en/players/e7768cf0/Joaquin-Moso,7768cf0,Hercules,"1,935",21.5,1.0,0.0,69,1.0,4961,Hercules
+,Vicente Verdejo,es ESP,DF,21,19,0.0,0.0,2005-2006,/en/players/a7c68dc5/Vicente-Verdejo,7c68dc5,Hercules,"1,747",19.4,2.0,0.0,69,1.0,4962,Hercules
+,Rolando Schiavi,ar ARG,DF,18,18,0.0,1.0,2005-2006,/en/players/ca018848/Rolando-Schiavi,ca018848,Hercules,"1,603",17.8,4.0,1.0,69,5.0,4963,Hercules
+,Jesús Turiel,es ESP,MF,27,17,0.0,1.0,2005-2006,/en/players/7c737496/Jesus-Turiel,7c737496,Hercules,"1,639",18.2,9.0,1.0,69,1.0,3270,Hercules
+,Sergio Sánchez,es ESP,GK,17,17,0.0,0.0,2005-2006,/en/players/2a0f94ac/Sergio-Sanchez,2a0f94ac,Hercules,"1,474",16.4,3.0,1.0,69,1.0,3008,Hercules
+,Miguel de las Cuevas,es ESP,MF,33,16,2.0,0.0,2005-2006,/en/players/2e1cf3d2/Miguel-de-las-Cuevas,2e1cf3d2,Hercules,"1,556",17.3,4.0,0.0,69,1.0,2047,Hercules
+,Palacios,es ESP,DF,16,15,0.0,0.0,2005-2006,/en/players/3af36ab0/Palacios,3af36ab0,Hercules,"1,311",14.6,4.0,0.0,69,1.0,90205,Hercules
+,Juan Redondo,es ESP,DF,16,13,1.0,0.0,2005-2006,/en/players/c2bed898/Juan-Redondo,c2bed898,Hercules,"1,207",13.4,4.0,0.0,69,1.0,1783,Hercules
+,Daniel Navarrete,es ESP,,23,10,1.0,1.0,2005-2006,/en/players/4f6911a4/Daniel-Navarrete,4f6911a4,Hercules,"1,010",11.2,2.0,0.0,69,1.0,90129,Hercules
+,Manolo Pérez,es ESP,MF,10,10,0.0,0.0,2005-2006,/en/players/4ac8dad5/Manolo-Perez,4ac8dad5,Hercules,716,8.0,2.0,0.0,69,1.0,4329,Hercules
+,Carlos Domínguez,es ESP,FW,15,7,2.0,0.0,2005-2006,/en/players/c008c1c3/Carlos-Dominguez,c008c1c3,Hercules,620,6.9,3.0,0.0,69,1.0,1557,Hercules
+,Jordi Martínez,es ESP,,11,7,0.0,0.0,2005-2006,/en/players/9de3aa56/Jordi-Martinez,9de3aa56,Hercules,566,6.3,4.0,0.0,69,1.0,90206,Hercules
+,Kiko Ratón,es ESP,FW,10,5,0.0,2.0,2005-2006,/en/players/1b4d461e/Kiko-Raton,1b4d461e,Hercules,500,5.6,4.0,0.0,69,1.0,4805,Hercules
+,Toché,es ESP,FW,25,4,1.0,3.0,2005-2006,/en/players/64e35e11/Toche,64e35e11,Hercules,794,8.8,2.0,0.0,69,1.0,483,Hercules
+,Jimmy Schmidt,uy URU,GK,4,4,0.0,0.0,2005-2006,/en/players/826527ce/Jimmy-Schmidt,826527ce,Hercules,360,4.0,1.0,0.0,69,8.0,4964,Hercules
+,Patri,es ESP,MF,8,4,1.0,0.0,2005-2006,/en/players/5281c162/Patri,5281c162,Hercules,275,3.1,3.0,1.0,69,1.0,4582,Hercules
+,Dani Tortolero,es ESP,DF,6,3,0.0,0.0,2005-2006,/en/players/42481fd5/Dani-Tortolero,42481fd5,Hercules,342,3.8,0.0,0.0,69,1.0,4441,Hercules
+,M Perez,,,2,1,0.0,0.0,2005-2006,No detected,,Hercules,58,0.6,0.0,0.0,69,,90207,Hercules
+,﻿Sergio Fernández,es ESP,DF,34,34,0.0,0.0,2006-2007,/en/players/db150f07/Sergio-Fernandez,db150f07,Hercules,"3,056",34.0,9.0,1.0,69,1.0,3932,Hercules
+,Juan Redondo,es ESP,DF,35,33,0.0,0.0,2006-2007,/en/players/c2bed898/Juan-Redondo,c2bed898,Hercules,"2,957",32.9,10.0,0.0,69,1.0,1783,Hercules
+,Javier Farinós,es ESP,MF,28,24,4.0,1.0,2006-2007,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Hercules,"1,912",21.2,6.0,1.0,69,1.0,1577,Hercules
+,Sergio Aragoneses,es ESP,GK,23,23,0.0,0.0,2006-2007,/en/players/8e8258f5/Sergio-Aragoneses,8e8258f5,Hercules,"2,070",23.0,1.0,0.0,69,1.0,2143,Hercules
+,Moisés,es ESP,FW,34,21,7.0,10.0,2006-2007,/en/players/e3415193/Moises,3415193,Hercules,"2,163",24.0,11.0,1.0,69,1.0,1790,Hercules
+,Jesús Turiel,es ESP,MF,31,21,2.0,2.0,2006-2007,/en/players/7c737496/Jesus-Turiel,7c737496,Hercules,"1,982",22.0,12.0,1.0,69,1.0,3270,Hercules
+,Tote,es ESP,"FW,MF",32,21,2.0,7.0,2006-2007,/en/players/e3e74421/Tote,3e74421,Hercules,"1,950",21.7,6.0,1.0,69,1.0,22,Hercules
+,Edu Albácar,es ESP,DF,22,21,5.0,0.0,2006-2007,/en/players/fc8a84b8/Edu-Albacar,fc8a84b8,Hercules,"1,854",20.6,5.0,0.0,69,1.0,3311,Hercules
+,Gonzalo de los Santos,uy URU,MF,23,21,1.0,1.0,2006-2007,/en/players/1855302a/Gonzalo-de-los-Santos,1855302a,Hercules,"1,642",18.2,9.0,1.0,69,8.0,871,Hercules
+,Carmelo González,es ESP,MF,19,19,1.0,1.0,2006-2007,/en/players/27f4e837/Carmelo-Gonzalez,27f4e837,Hercules,"1,496",16.6,5.0,2.0,69,1.0,4119,Hercules
+,Ariel Montenegro,ar ARG,MF,30,18,4.0,5.0,2006-2007,/en/players/d5835cca/Ariel-Montenegro,d5835cca,Hercules,"1,820",20.2,5.0,0.0,69,5.0,4248,Hercules
+,Sergio Mantecón,es ESP,MF,21,18,0.0,1.0,2006-2007,/en/players/71eaddb6/Sergio-Mantecon,71eaddb6,Hercules,"1,664",18.5,6.0,2.0,69,1.0,4371,Hercules
+,Patricio Graff,ar ARG,DF,19,18,1.0,0.0,2006-2007,/en/players/b4a2cf8b/Patricio-Graff,b4a2cf8b,Hercules,"1,506",16.7,6.0,1.0,69,5.0,3402,Hercules
+,Diego Mateo,ar ARG,"DF,MF",28,17,1.0,0.0,2006-2007,/en/players/6ff0efaa/Diego-Mateo,6ff0efaa,Hercules,"1,697",18.9,6.0,0.0,69,5.0,2532,Hercules
+,Kike Mateo,es ESP,MF,23,17,1.0,2.0,2006-2007,/en/players/99508f00/Kike-Mateo,99508f00,Hercules,"1,409",15.7,6.0,2.0,69,1.0,4718,Hercules
+,Sendoa Agirre,es ESP,MF,29,16,2.0,4.0,2006-2007,/en/players/0437c448/Sendoa-Agirre,0437c448,Hercules,"1,456",16.2,1.0,0.0,69,1.0,4965,Hercules
+,Juanlu,es ESP,"FW,MF",21,15,1.0,3.0,2006-2007,/en/players/431ac3e7/Juanlu,431ac3e7,Hercules,"1,359",15.1,1.0,0.0,69,1.0,896,Hercules
+,Pablo Calandria,ar ARG,FW,24,15,1.0,6.0,2006-2007,/en/players/9c010ae8/Pablo-Calandria,9c010ae8,Hercules,"1,350",15.0,0.0,0.0,69,5.0,3739,Hercules
+,Rolando Schiavi,ar ARG,DF,15,15,0.0,0.0,2006-2007,/en/players/ca018848/Rolando-Schiavi,ca018848,Hercules,"1,350",15.0,8.0,0.0,69,5.0,4963,Hercules
+,Urbano Santos,es ESP,DF,16,14,0.0,0.0,2006-2007,/en/players/64592758/Urbano-Santos,64592758,Hercules,"1,147",12.7,5.0,0.0,69,1.0,4960,Hercules
+,Xisco Nadal,es ESP,"FW,MF",16,13,0.0,0.0,2006-2007,/en/players/5dc11264/Xisco-Nadal,5dc11264,Hercules,"1,021",11.3,3.0,0.0,69,1.0,2718,Hercules
+,Líder Mármol,py PAR,DF,12,12,0.0,1.0,2006-2007,/en/players/384b5f71/Lider-Marmol,384b5f71,Hercules,"1,055",11.7,0.0,1.0,69,43.0,4966,Hercules
+,Ismael Falcón,es ESP,GK,11,11,0.0,0.0,2006-2007,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Hercules,990,11.0,0.0,0.0,69,1.0,712,Hercules
+,Kossi Agassa,tg TOG,GK,8,8,0.0,0.0,2006-2007,/en/players/14a03f68/Kossi-Agassa,14a03f68,Hercules,720,8.0,1.0,0.0,69,109.0,4967,Hercules
+,Aarón Galindo,mx MEX,DF,5,5,0.0,0.0,2006-2007,/en/players/9076667f/Aaron-Galindo,9076667f,Hercules,448,5.0,1.0,1.0,69,20.0,4968,Hercules
+,Ignacio Benítez,es ESP,MF,6,5,0.0,2.0,2006-2007,/en/players/cfb8b7fc/Ignacio-Benitez,cfb8b7fc,Hercules,401,4.5,0.0,0.0,69,1.0,3136,Hercules
+,Piti,es ESP,"FW,MF",15,4,0.0,2.0,2006-2007,/en/players/ab530738/Piti,b530738,Hercules,566,6.3,3.0,0.0,69,1.0,3433,Hercules
+,﻿Unai Alba,es ESP,GK,33,33,0.0,0.0,2007-2008,/en/players/40e34fb7/Unai-Alba,40e34fb7,Hercules,"2,970",33.0,3.0,0.0,69,1.0,4969,Hercules
+,Sergio Fernández,es ESP,DF,32,31,0.0,3.0,2007-2008,/en/players/db150f07/Sergio-Fernandez,db150f07,Hercules,"2,749",30.5,13.0,0.0,69,1.0,3932,Hercules
+,Diego Jaume,uy URU,DF,30,30,0.0,4.0,2007-2008,/en/players/9663d985/Diego-Jaume,9663d985,Hercules,"2,695",29.9,8.0,1.0,69,8.0,4229,Hercules
+,Javier Farinós,es ESP,MF,31,30,5.0,6.0,2007-2008,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Hercules,"2,674",29.7,3.0,1.0,69,1.0,1577,Hercules
+,Juanma,es ESP,DF,30,30,1.0,1.0,2007-2008,/en/players/f3b5db81/Juanma,f3b5db81,Hercules,"2,666",29.6,10.0,0.0,69,1.0,3885,Hercules
+,Rodri,es ESP,MF,32,30,1.0,1.0,2007-2008,/en/players/b8462bd6/Rodri,b8462bd6,Hercules,"2,546",28.3,12.0,0.0,69,1.0,3710,Hercules
+,Edu Albácar,es ESP,DF,30,27,4.0,0.0,2007-2008,/en/players/fc8a84b8/Edu-Albacar,fc8a84b8,Hercules,"2,372",26.4,7.0,0.0,69,1.0,3311,Hercules
+,Sendoa Agirre,es ESP,MF,36,23,2.0,9.0,2007-2008,/en/players/0437c448/Sendoa-Agirre,0437c448,Hercules,"2,192",24.4,6.0,0.0,69,1.0,4965,Hercules
+,Tote,es ESP,"FW,MF",30,23,5.0,7.0,2007-2008,/en/players/e3e74421/Tote,3e74421,Hercules,"2,012",22.4,5.0,1.0,69,1.0,22,Hercules
+,Ismael Santiago,es ESP,MF,32,23,7.0,6.0,2007-2008,/en/players/59c55e77/Ismael-Santiago,59c55e77,Hercules,"1,910",21.2,5.0,0.0,69,1.0,1376,Hercules
+,César Martín,es ESP,DF,24,22,0.0,4.0,2007-2008,/en/players/f29d6eb0/Cesar-Martin,f29d6eb0,Hercules,"1,939",21.5,7.0,0.0,69,1.0,372,Hercules
+,Juan Carlos Mariño,pe PER,MF,28,20,2.0,2.0,2007-2008,/en/players/464ddce7/Juan-Carlos-Marino,464ddce7,Hercules,"1,764",19.6,5.0,2.0,69,57.0,4970,Hercules
+,Gonzalo de los Santos,uy URU,MF,23,20,2.0,0.0,2007-2008,/en/players/1855302a/Gonzalo-de-los-Santos,1855302a,Hercules,"1,740",19.3,8.0,1.0,69,8.0,871,Hercules
+,Ion Vélez,es ESP,FW,20,19,2.0,5.0,2007-2008,/en/players/3a6c16de/Ion-Velez,3a6c16de,Hercules,"1,684",18.7,4.0,1.0,69,1.0,1276,Hercules
+,Patricio Graff,ar ARG,DF,23,18,0.0,0.0,2007-2008,/en/players/b4a2cf8b/Patricio-Graff,b4a2cf8b,Hercules,"1,750",19.4,8.0,0.0,69,5.0,3402,Hercules
+,Blas Pérez,pa PAN,FW,16,16,4.0,4.0,2007-2008,/en/players/b9c81163/Blas-Perez,b9c81163,Hercules,"1,306",14.5,7.0,0.0,69,89.0,4971,Hercules
+,Ariel Montenegro,ar ARG,MF,26,15,1.0,3.0,2007-2008,/en/players/d5835cca/Ariel-Montenegro,d5835cca,Hercules,"1,333",14.8,1.0,0.0,69,5.0,4248,Hercules
+,Rubén Navarro,es ESP,FW,26,14,0.0,7.0,2007-2008,/en/players/59cc2821/Ruben-Navarro,59cc2821,Hercules,"1,346",15.0,2.0,0.0,69,1.0,3264,Hercules
+,Miguel Llera,es ESP,DF,11,10,0.0,1.0,2007-2008,/en/players/b58a6d72/Miguel-Llera,b58a6d72,Hercules,922,10.2,4.0,0.0,69,1.0,4451,Hercules
+,Toni Prats,es ESP,GK,7,7,0.0,0.0,2007-2008,/en/players/b40adcd0/Toni-Prats,b40adcd0,Hercules,630,7.0,0.0,0.0,69,1.0,1348,Hercules
+,Álvaro Cámara,es ESP,MF,20,5,1.0,1.0,2007-2008,/en/players/d1c514a8/Alvaro-Camara,d1c514a8,Hercules,582,6.5,3.0,0.0,69,1.0,3734,Hercules
+,Kiran Bechan,nl NED,MF,9,4,1.0,1.0,2007-2008,/en/players/bae47830/Kiran-Bechan,bae47830,Hercules,432,4.8,2.0,0.0,69,11.0,4972,Hercules
+,Javi González,es ESP,MF,12,4,0.0,0.0,2007-2008,/en/players/b1e9277c/Javi-Gonzalez,b1e9277c,Hercules,373,4.1,1.0,0.0,69,1.0,1230,Hercules
+,Manu Sánchez,es ESP,"FW,MF",10,2,0.0,0.0,2007-2008,/en/players/248b0b19/Manu-Sanchez,248b0b19,Hercules,338,3.8,2.0,0.0,69,1.0,2298,Hercules
+,Ricardo Sanzol,es ESP,GK,2,2,0.0,0.0,2007-2008,/en/players/1aa419de/Ricardo-Sanzol,1aa419de,Hercules,180,2.0,1.0,0.0,69,1.0,1978,Hercules
+,Manuel Santacruz,,,5,2,0.0,0.0,2007-2008,No detected,,Hercules,159,1.8,1.0,1.0,69,,90208,Hercules
+,Piti,es ESP,"FW,MF",6,1,0.0,0.0,2007-2008,/en/players/ab530738/Piti,b530738,Hercules,126,1.4,1.0,0.0,69,1.0,3433,Hercules
+,﻿Juan Calatayud,es ESP,GK,41,41,0.0,0.0,2008-2009,/en/players/f1714283/Juan-Calatayud,f1714283,Hercules,"3,637",40.4,2.0,0.0,69,1.0,1637,Hercules
+,Javier Farinós,es ESP,MF,41,41,5.0,8.0,2008-2009,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Hercules,"3,630",40.3,9.0,0.0,69,1.0,1577,Hercules
+,Sergio Fernández,es ESP,DF,38,38,0.0,1.0,2008-2009,/en/players/db150f07/Sergio-Fernandez,db150f07,Hercules,"3,412",37.9,12.0,2.0,69,1.0,3932,Hercules
+,Tote,es ESP,"FW,MF",39,38,8.0,8.0,2008-2009,/en/players/e3e74421/Tote,3e74421,Hercules,"3,160",35.1,5.0,1.0,69,1.0,22,Hercules
+,Dani Bautista,es ESP,DF,32,32,3.0,0.0,2008-2009,/en/players/135b0a5e/Dani-Bautista,135b0a5e,Hercules,"2,880",32.0,11.0,0.0,69,1.0,2912,Hercules
+,Tuni,es ESP,"DF,MF",37,32,3.0,3.0,2008-2009,/en/players/e77175c5/Tuni,77175c5,Hercules,"2,333",25.9,6.0,0.0,69,1.0,1563,Hercules
+,Abel Aguilar,co COL,MF,35,31,3.0,9.0,2008-2009,/en/players/6936b41b/Abel-Aguilar,6936b41b,Hercules,"2,880",32.0,10.0,1.0,69,19.0,463,Hercules
+,Abraham Paz,es ESP,DF,31,29,0.0,4.0,2008-2009,/en/players/15ec0042/Abraham-Paz,15ec0042,Hercules,"2,531",28.1,10.0,0.0,69,1.0,4331,Hercules
+,Andrija Delibašić,me MNE,FW,31,29,4.0,11.0,2008-2009,/en/players/4de03033/Andrija-Delibasic,4de03033,Hercules,"2,392",26.6,9.0,1.0,69,33.0,252,Hercules
+,Unai Expósito,es ESP,DF,28,26,1.0,0.0,2008-2009,/en/players/3aca2200/Unai-Exposito,3aca2200,Hercules,"2,390",26.6,9.0,1.0,69,1.0,1258,Hercules
+,Sendoa Agirre,es ESP,MF,39,22,7.0,9.0,2008-2009,/en/players/0437c448/Sendoa-Agirre,0437c448,Hercules,"1,987",22.1,0.0,0.0,69,1.0,4965,Hercules
+,Rodri,es ESP,MF,30,16,2.0,0.0,2008-2009,/en/players/b8462bd6/Rodri,b8462bd6,Hercules,"1,617",18.0,8.0,0.0,69,1.0,3710,Hercules
+,Manuel Ruz,es ESP,DF,16,16,0.0,0.0,2008-2009,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Hercules,"1,392",15.5,4.0,0.0,69,1.0,894,Hercules
+,Rubén Navarro,es ESP,FW,29,13,0.0,15.0,2008-2009,/en/players/59cc2821/Ruben-Navarro,59cc2821,Hercules,"1,367",15.2,3.0,0.0,69,1.0,3264,Hercules
+,César Martín,es ESP,DF,14,13,1.0,1.0,2008-2009,/en/players/f29d6eb0/Cesar-Martin,f29d6eb0,Hercules,"1,111",12.3,5.0,1.0,69,1.0,372,Hercules
+,Fernando Sales,es ESP,MF,24,12,2.0,2.0,2008-2009,/en/players/24486536/Fernando-Sales,24486536,Hercules,"1,101",12.2,3.0,0.0,69,1.0,693,Hercules
+,Dani Carril,es ESP,DF,10,10,0.0,1.0,2008-2009,/en/players/718167d2/Dani-Carril,718167d2,Hercules,900,10.0,6.0,0.0,69,1.0,4146,Hercules
+,Fernando Morán,es ESP,MF,28,9,1.0,5.0,2008-2009,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Hercules,"1,071",11.9,1.0,0.0,69,1.0,2841,Hercules
+,Raúl Ruiz Matarín,es ESP,"FW,MF",10,6,0.0,1.0,2008-2009,/en/players/1ca989fb/Raul-Ruiz-Matarin,1ca989fb,Hercules,528,5.9,3.0,0.0,69,1.0,4973,Hercules
+,Sebastián Taborda,uy URU,FW,12,3,0.0,1.0,2008-2009,/en/players/c26f57a6/Sebastian-Taborda,c26f57a6,Hercules,486,5.4,2.0,0.0,69,8.0,407,Hercules
+,Gerardo Noriega,es ESP,MF,8,2,0.0,0.0,2008-2009,/en/players/48ff4cab/Gerardo-Noriega,48ff4cab,Hercules,251,2.8,0.0,0.0,69,1.0,4491,Hercules
+,Álvaro Cámara,es ESP,MF,8,1,1.0,1.0,2008-2009,/en/players/d1c514a8/Alvaro-Camara,d1c514a8,Hercules,172,1.9,0.0,0.0,69,1.0,3734,Hercules
+,Unai Alba,es ESP,GK,2,1,0.0,0.0,2008-2009,/en/players/40e34fb7/Unai-Alba,40e34fb7,Hercules,143,1.6,0.0,0.0,69,1.0,4969,Hercules
+,Kiko Femenía,es ESP,"DF,FW",1,1,0.0,0.0,2008-2009,/en/players/e5d01ecf/Kiko-Femenia,5d01ecf,Hercules,68,0.8,0.0,0.0,69,1.0,3341,Hercules
+,Sergio Díaz,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/f8183181/Sergio-Diaz,f8183181,Hercules,28,0.3,1.0,0.0,69,1.0,4488,Hercules
+,﻿Juan Calatayud,es ESP,GK,42,42,0.0,0.0,2009-2010,/en/players/f1714283/Juan-Calatayud,f1714283,Hercules,"3,780",42.0,2.0,0.0,69,1.0,1637,Hercules
+,Sendoa Agirre,es ESP,MF,39,39,3.0,2.0,2009-2010,/en/players/0437c448/Sendoa-Agirre,0437c448,Hercules,"2,966",33.0,1.0,1.0,69,1.0,4965,Hercules
+,Sergio Rodríguez,es ESP,MF,38,38,1.0,3.0,2009-2010,/en/players/44e3ae1a/Sergio-Rodriguez,44e3ae1a,Hercules,"3,390",37.7,15.0,1.0,69,1.0,263,Hercules
+,Juanra,es ESP,DF,38,38,0.0,0.0,2009-2010,/en/players/616d9a30/Juanra,616d9a30,Hercules,"3,312",36.8,10.0,1.0,69,1.0,4108,Hercules
+,Tiago Gomes,pt POR,MF,37,36,2.0,6.0,2009-2010,/en/players/bd7fd1b5/Tiago-Gomes,bd7fd1b5,Hercules,"2,922",32.5,11.0,1.0,69,3.0,4974,Hercules
+,Javier Farinós,es ESP,MF,35,35,10.0,6.0,2009-2010,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Hercules,"3,036",33.7,12.0,1.0,69,1.0,1577,Hercules
+,Abraham Paz,es ESP,DF,31,31,0.0,2.0,2009-2010,/en/players/15ec0042/Abraham-Paz,15ec0042,Hercules,"2,650",29.4,5.0,1.0,69,1.0,4331,Hercules
+,Andrija Delibašić,me MNE,FW,34,30,5.0,9.0,2009-2010,/en/players/4de03033/Andrija-Delibasic,4de03033,Hercules,"2,657",29.5,7.0,2.0,69,33.0,252,Hercules
+,Paco Peña,es ESP,DF,29,29,1.0,0.0,2009-2010,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,"2,596",28.8,9.0,1.0,69,1.0,3702,Hercules
+,Tote,es ESP,"FW,MF",35,29,4.0,3.0,2009-2010,/en/players/e3e74421/Tote,3e74421,Hercules,"2,431",27.0,5.0,0.0,69,1.0,22,Hercules
+,Francisco Rufete,es ESP,MF,32,29,3.0,1.0,2009-2010,/en/players/95aca6cd/Francisco-Rufete,95aca6cd,Hercules,"1,981",22.0,4.0,1.0,69,1.0,862,Hercules
+,Ionel Dănciulescu,ro ROU,FW,25,19,0.0,7.0,2009-2010,/en/players/c677e6f4/Ionel-Danciulescu,c677e6f4,Hercules,"1,474",16.4,7.0,0.0,69,51.0,4975,Hercules
+,Dani Bautista,es ESP,DF,14,13,0.0,0.0,2009-2010,/en/players/135b0a5e/Dani-Bautista,135b0a5e,Hercules,"1,194",13.3,4.0,0.0,69,1.0,2912,Hercules
+,Sergio Díaz,es ESP,DF,12,12,0.0,0.0,2009-2010,/en/players/f8183181/Sergio-Diaz,f8183181,Hercules,"1,054",11.7,5.0,0.0,69,1.0,4488,Hercules
+,Jorge Alonso,es ESP,MF,19,10,2.0,0.0,2009-2010,/en/players/2c619fad/Jorge-Alonso,2c619fad,Hercules,765,8.5,4.0,0.0,69,1.0,2573,Hercules
+,Rodri,es ESP,MF,15,8,1.0,1.0,2009-2010,/en/players/b8462bd6/Rodri,b8462bd6,Hercules,844,9.4,3.0,0.0,69,1.0,3710,Hercules
+,Javier Portillo,es ESP,FW,16,7,1.0,5.0,2009-2010,/en/players/99058498/Javier-Portillo,99058498,Hercules,745,8.3,1.0,0.0,69,1.0,19,Hercules
+,Joseba del Olmo,es ESP,MF,20,6,0.0,0.0,2009-2010,/en/players/41abf0c3/Joseba-del-Olmo,41abf0c3,Hercules,845,9.4,6.0,0.0,69,1.0,1282,Hercules
+,Cristian Hidalgo,es ESP,"FW,MF",23,4,0.0,3.0,2009-2010,/en/players/262b9f04/Cristian-Hidalgo,262b9f04,Hercules,675,7.5,5.0,0.0,69,1.0,427,Hercules
+,Noé Pamarot,fr FRA,DF,7,4,0.0,0.0,2009-2010,/en/players/6036afc6/Noe-Pamarot,6036afc6,Hercules,473,5.3,0.0,0.0,69,4.0,4976,Hercules
+,Kiko Femenía,es ESP,"DF,FW",35,1,0.0,2.0,2009-2010,/en/players/e5d01ecf/Kiko-Femenia,5d01ecf,Hercules,984,10.9,4.0,0.0,69,1.0,3341,Hercules
+,Edu Moya,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,/en/players/7da62f29/Edu-Moya,7da62f29,Hercules,90,1.0,0.0,0.0,69,1.0,703,Hercules
+,Manuel Ruz,es ESP,DF,1,1,0.0,0.0,2009-2010,/en/players/0bd93f6a/Manuel-Ruz,0bd93f6a,Hercules,90,1.0,0.0,0.0,69,1.0,894,Hercules
+,Gerardo Noriega,es ESP,MF,10,0,0.0,0.0,2009-2010,/en/players/48ff4cab/Gerardo-Noriega,48ff4cab,Hercules,334,3.7,1.0,0.0,69,1.0,4491,Hercules
+,﻿Juan Calatayud,es ESP,GK,34,34,0.0,0.0,2010-2011,/en/players/f1714283/Juan-Calatayud,f1714283,Hercules,"3,049",33.9,1.0,1.0,69,1.0,1637,Hercules
+,David Cortés,es ESP,DF,34,34,1.0,0.0,2010-2011,/en/players/99d15abd/David-Cortes,99d15abd,Hercules,"3,035",33.7,8.0,0.0,69,1.0,1546,Hercules
+,Abel Aguilar,co COL,MF,34,33,1.0,0.0,2010-2011,/en/players/6936b41b/Abel-Aguilar,6936b41b,Hercules,"2,862",31.8,11.0,1.0,69,19.0,463,Hercules
+,Abraham Paz,es ESP,DF,29,29,0.0,2.0,2010-2011,/en/players/15ec0042/Abraham-Paz,15ec0042,Hercules,"2,422",26.9,7.0,0.0,69,1.0,4331,Hercules
+,Noé Pamarot,fr FRA,DF,29,28,0.0,0.0,2010-2011,/en/players/6036afc6/Noe-Pamarot,6036afc6,Hercules,"2,540",28.2,8.0,0.0,69,4.0,4976,Hercules
+,Paco Peña,es ESP,DF,28,28,0.0,0.0,2010-2011,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,"2,467",27.4,8.0,0.0,69,1.0,3702,Hercules
+,David Trezeguet,fr FRA,FW,31,28,0.0,12.0,2010-2011,/en/players/80183cb2/David-Trezeguet,80183cb2,Hercules,"2,454",27.3,3.0,1.0,69,4.0,4977,Hercules
+,Tiago Gomes,pt POR,MF,28,25,1.0,2.0,2010-2011,/en/players/bd7fd1b5/Tiago-Gomes,bd7fd1b5,Hercules,"2,105",23.4,3.0,0.0,69,3.0,4974,Hercules
+,Nelson Valdez,py PAR,FW,25,22,1.0,8.0,2010-2011,/en/players/040d8500/Nelson-Valdez,040d8500,Hercules,"1,820",20.2,8.0,1.0,69,43.0,948,Hercules
+,Matías Fritzler,ar ARG,MF,26,22,0.0,0.0,2010-2011,/en/players/e4100467/Matias-Fritzler,4100467,Hercules,"1,795",19.9,8.0,2.0,69,5.0,4978,Hercules
+,Kiko Femenía,es ESP,"DF,FW",34,21,5.0,1.0,2010-2011,/en/players/e5d01ecf/Kiko-Femenia,5d01ecf,Hercules,"2,076",23.1,2.0,0.0,69,1.0,3341,Hercules
+,Royston Drenthe,nl NED,"DF,MF",17,15,2.0,4.0,2010-2011,/en/players/3d512ff2/Royston-Drenthe,3d512ff2,Hercules,"1,294",14.4,8.0,0.0,69,11.0,65,Hercules
+,Tote,es ESP,"FW,MF",21,15,2.0,1.0,2010-2011,/en/players/e3e74421/Tote,3e74421,Hercules,"1,221",13.6,1.0,0.0,69,1.0,22,Hercules
+,Juanra,es ESP,DF,14,13,1.0,0.0,2010-2011,/en/players/616d9a30/Juanra,616d9a30,Hercules,"1,195",13.3,3.0,0.0,69,1.0,4108,Hercules
+,Olivier Thomert,mq MTQ,"FW,MF",18,12,0.0,1.0,2010-2011,/en/players/acda6c9d/Olivier-Thomert,cda6c9d,Hercules,801,8.9,2.0,0.0,69,104.0,4979,Hercules
+,Javier Portillo,es ESP,FW,26,11,0.0,1.0,2010-2011,/en/players/99058498/Javier-Portillo,99058498,Hercules,"1,155",12.8,1.0,0.0,69,1.0,19,Hercules
+,Javier Farinós,es ESP,MF,12,11,2.0,1.0,2010-2011,/en/players/d9b0f08e/Javier-Farinos,d9b0f08e,Hercules,886,9.8,2.0,1.0,69,1.0,1577,Hercules
+,Rodri,es ESP,DF,13,10,0.0,0.0,2010-2011,/en/players/7fa4aa89/Rodri,7fa4aa89,Hercules,"1,043",11.6,5.0,0.0,69,1.0,421,Hercules
+,Cristian Pulhac,ro ROU,DF,9,9,0.0,0.0,2010-2011,/en/players/b68a705d/Cristian-Pulhac,b68a705d,Hercules,759,8.4,4.0,1.0,69,51.0,4980,Hercules
+,Sendoa Agirre,es ESP,MF,23,7,1.0,3.0,2010-2011,/en/players/0437c448/Sendoa-Agirre,0437c448,Hercules,793,8.8,1.0,0.0,69,1.0,4965,Hercules
+,Francisco Rufete,es ESP,MF,14,3,0.0,0.0,2010-2011,/en/players/95aca6cd/Francisco-Rufete,95aca6cd,Hercules,523,5.8,1.0,0.0,69,1.0,862,Hercules
+,Piet Velthuizen,nl NED,GK,3,3,0.0,0.0,2010-2011,/en/players/b7a7d76a/Piet-Velthuizen,b7a7d76a,Hercules,270,3.0,0.0,0.0,69,11.0,4981,Hercules
+,Cristian Hidalgo,es ESP,"FW,MF",19,2,0.0,0.0,2010-2011,/en/players/262b9f04/Cristian-Hidalgo,262b9f04,Hercules,613,6.8,1.0,0.0,69,1.0,427,Hercules
+,Mohamed Sarr,sn SEN,"DF,MF",2,2,0.0,0.0,2010-2011,/en/players/82bf93ae/Mohamed-Sarr,82bf93ae,Hercules,180,2.0,1.0,0.0,69,34.0,4982,Hercules
+,Unai Alba,es ESP,GK,2,1,0.0,0.0,2010-2011,/en/players/40e34fb7/Unai-Alba,40e34fb7,Hercules,101,1.1,0.0,0.0,69,1.0,4969,Hercules
+,Luis Carlos Martín,es ESP,MF,1,0,0.0,0.0,2010-2011,/en/players/8cee70e5/Luis-Carlos-Martin,8cee70e5,Hercules,36,0.4,0.0,0.0,69,1.0,4983,Hercules
+,﻿Ismael Falcón,es ESP,GK,39,39,0.0,0.0,2011-2012,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Hercules,"3,432",38.1,1.0,0.0,69,1.0,712,Hercules
+,Paco Peña,es ESP,DF,38,38,0.0,0.0,2011-2012,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,"3,415",37.9,16.0,1.0,69,1.0,3702,Hercules
+,Samuel Llorca,es ESP,DF,37,37,0.0,5.0,2011-2012,/en/players/9c3d54f0/Samuel-Llorca,9c3d54f0,Hercules,"3,315",36.8,16.0,0.0,69,1.0,757,Hercules
+,José Mora,ec ECU,FW,38,37,0.0,1.0,2011-2012,/en/players/0eff5cf7/Jose-Mora,0eff5cf7,Hercules,"3,212",35.7,12.0,0.0,69,61.0,3181,Hercules
+,Abel Aguilar,co COL,MF,35,35,0.0,4.0,2011-2012,/en/players/6936b41b/Abel-Aguilar,6936b41b,Hercules,"3,150",35.0,11.0,0.0,69,19.0,463,Hercules
+,Míchel,es ESP,MF,38,35,10.0,13.0,2011-2012,/en/players/418f8f61/Michel,418f8f61,Hercules,"3,110",34.6,13.0,0.0,69,1.0,450,Hercules
+,Tiago Gomes,pt POR,MF,32,30,0.0,0.0,2011-2012,/en/players/bd7fd1b5/Tiago-Gomes,bd7fd1b5,Hercules,"2,434",27.0,9.0,2.0,69,3.0,4974,Hercules
+,Carlos Calvo,es ESP,MF,40,29,10.0,8.0,2011-2012,/en/players/a444d33f/Carlos-Calvo,444d33f,Hercules,"2,676",29.7,9.0,0.0,69,1.0,4391,Hercules
+,Diego Rivas,es ESP,MF,31,29,0.0,0.0,2011-2012,/en/players/eecf46bc/Diego-Rivas,cf46bc,Hercules,"2,357",26.2,9.0,2.0,69,1.0,243,Hercules
+,Anaitz Arbilla,es ESP,DF,34,27,1.0,3.0,2011-2012,/en/players/850c0a0d/Anaitz-Arbilla,850c0a0d,Hercules,"2,453",27.3,7.0,0.0,69,1.0,3079,Hercules
+,Juanra,es ESP,DF,25,25,1.0,0.0,2011-2012,/en/players/616d9a30/Juanra,616d9a30,Hercules,"2,225",24.7,5.0,0.0,69,1.0,4108,Hercules
+,Urko Vera,es ESP,FW,31,19,0.0,11.0,2011-2012,/en/players/d8cf0115/Urko-Vera,d8cf0115,Hercules,"1,682",18.7,7.0,0.0,69,1.0,1295,Hercules
+,Gilvan Gomes,br BRA,MF,19,14,5.0,4.0,2011-2012,/en/players/6e71e066/Gilvan-Gomes,6e71e066,Hercules,"1,380",15.3,5.0,0.0,69,2.0,4984,Hercules
+,Adrián Sardinero,es ESP,"FW,MF",29,13,1.0,3.0,2011-2012,/en/players/51e9bb3f/Adrian-Sardinero,51e9bb3f,Hercules,"1,294",14.4,1.0,0.0,69,1.0,4031,Hercules
+,Felipe Sanchón,es ESP,MF,28,13,1.0,4.0,2011-2012,/en/players/f62ff94e/Felipe-Sanchon,f62ff94e,Hercules,"1,099",12.2,4.0,0.0,69,1.0,4490,Hercules
+,Juanmi Callejón,es ESP,MF,14,10,4.0,1.0,2011-2012,/en/players/60bb7e62/Juanmi-Callejon,60bb7e62,Hercules,709,7.9,2.0,0.0,69,1.0,1610,Hercules
+,Alberto Escassi,es ESP,"DF,MF",17,8,1.0,0.0,2011-2012,/en/players/154fe273/Alberto-Escassi,154fe273,Hercules,808,9.0,2.0,0.0,69,1.0,2472,Hercules
+,David Aganzo,es ESP,FW,19,7,0.0,2.0,2011-2012,/en/players/97e3ba49/David-Aganzo,97e3ba49,Hercules,847,9.4,5.0,1.0,69,1.0,2505,Hercules
+,Sergio Díaz,es ESP,DF,10,7,0.0,0.0,2011-2012,/en/players/f8183181/Sergio-Diaz,f8183181,Hercules,684,7.6,2.0,1.0,69,1.0,4488,Hercules
+,Tote,es ESP,"FW,MF",21,6,0.0,1.0,2011-2012,/en/players/e3e74421/Tote,3e74421,Hercules,707,7.9,3.0,0.0,69,1.0,22,Hercules
+,Juan Carlos,es ESP,GK,4,3,0.0,0.0,2011-2012,/en/players/688b96e3/Juan-Carlos,688b96e3,Hercules,348,3.9,1.0,0.0,69,1.0,3452,Hercules
+,Pepe Sellés,es ESP,DF,1,1,0.0,0.0,2011-2012,/en/players/8ef3fc7d/Pepe-Selles,8ef3fc7d,Hercules,90,1.0,0.0,0.0,69,1.0,4985,Hercules
+,Sergio Díaz,es ESP,DF,3,0,0.0,0.0,2011-2012,/en/players/22afdb1b/Sergio-Diaz,22afdb1b,Hercules,20,0.2,0.0,0.0,69,1.0,4986,Hercules
+,Jefté Betancor,es ESP,FW,2,0,0.0,0.0,2011-2012,/en/players/f88c9890/Jefte-Betancor,f88c9890,Hercules,6,0.1,0.0,0.0,69,1.0,4987,Hercules
+,﻿Leandro Cabrera,uy URU,DF,39,39,0.0,1.0,2012-2013,/en/players/69cbc8b6/Leandro-Cabrera,69cbc8b6,Hercules,"3,462",38.5,9.0,1.0,69,8.0,2188,Hercules
+,Ismael Falcón,es ESP,GK,37,37,0.0,0.0,2012-2013,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Hercules,"3,330",37.0,3.0,0.0,69,1.0,712,Hercules
+,Javier Portillo,es ESP,FW,40,37,0.0,16.0,2012-2013,/en/players/99058498/Javier-Portillo,99058498,Hercules,"3,234",35.9,5.0,0.0,69,1.0,19,Hercules
+,Paco Peña,es ESP,DF,37,36,3.0,1.0,2012-2013,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,"3,268",36.3,13.0,1.0,69,1.0,3702,Hercules
+,Edu Bedia,es ESP,MF,33,30,8.0,5.0,2012-2013,/en/players/2dc8077c/Edu-Bedia,2dc8077c,Hercules,"2,527",28.1,12.0,0.0,69,1.0,2878,Hercules
+,Adrián Sardinero,es ESP,"FW,MF",39,23,3.0,2.0,2012-2013,/en/players/51e9bb3f/Adrian-Sardinero,51e9bb3f,Hercules,"2,182",24.2,3.0,0.0,69,1.0,4031,Hercules
+,Alberto Escassi,es ESP,"DF,MF",27,22,0.0,1.0,2012-2013,/en/players/154fe273/Alberto-Escassi,154fe273,Hercules,"1,894",21.0,10.0,1.0,69,1.0,2472,Hercules
+,David Cortés,es ESP,DF,19,19,0.0,0.0,2012-2013,/en/players/99d15abd/David-Cortes,99d15abd,Hercules,"1,683",18.7,5.0,0.0,69,1.0,1546,Hercules
+,Noé Pamarot,fr FRA,DF,19,19,0.0,1.0,2012-2013,/en/players/6036afc6/Noe-Pamarot,6036afc6,Hercules,"1,667",18.5,8.0,1.0,69,4.0,4976,Hercules
+,Mario Paglialunga,ar ARG,MF,18,18,0.0,1.0,2012-2013,/en/players/eda5ea84/Mario-Paglialunga,da5ea84,Hercules,"1,568",17.4,4.0,0.0,69,5.0,3602,Hercules
+,José Mora,ec ECU,FW,18,17,0.0,0.0,2012-2013,/en/players/0eff5cf7/Jose-Mora,0eff5cf7,Hercules,"1,436",16.0,5.0,0.0,69,61.0,3181,Hercules
+,Diego Rivas,es ESP,MF,26,16,0.0,0.0,2012-2013,/en/players/eecf46bc/Diego-Rivas,cf46bc,Hercules,"1,593",17.7,8.0,0.0,69,1.0,243,Hercules
+,Pablo Redondo,es ESP,MF,20,15,1.0,0.0,2012-2013,/en/players/da98fdb0/Pablo-Redondo,da98fdb0,Hercules,"1,099",12.2,4.0,0.0,69,1.0,3714,Hercules
+,Anaitz Arbilla,es ESP,DF,15,14,0.0,0.0,2012-2013,/en/players/850c0a0d/Anaitz-Arbilla,850c0a0d,Hercules,"1,285",14.3,3.0,0.0,69,1.0,3079,Hercules
+,Fran Mérida,es ESP,MF,18,14,1.0,1.0,2012-2013,/en/players/0e50f929/Fran-Merida,0e50f929,Hercules,"1,264",14.0,7.0,1.0,69,1.0,257,Hercules
+,Gilvan Gomes,br BRA,MF,14,14,1.0,2.0,2012-2013,/en/players/6e71e066/Gilvan-Gomes,6e71e066,Hercules,"1,188",13.2,3.0,0.0,69,2.0,4984,Hercules
+,Juanra,es ESP,DF,14,11,0.0,0.0,2012-2013,/en/players/616d9a30/Juanra,616d9a30,Hercules,984,10.9,0.0,1.0,69,1.0,4108,Hercules
+,Mario Rosas,es ESP,MF,19,10,0.0,1.0,2012-2013,/en/players/81718397/Mario-Rosas,81718397,Hercules,"1,009",11.2,5.0,1.0,69,1.0,3937,Hercules
+,Braulio Nóbrega,es ESP,FW,14,10,2.0,5.0,2012-2013,/en/players/6e02869d/Braulio-Nobrega,6e02869d,Hercules,905,10.1,4.0,0.0,69,1.0,1596,Hercules
+,Pere Martínez,es ESP,DF,10,10,0.0,0.0,2012-2013,/en/players/305df379/Pere-Martinez,305df379,Hercules,650,7.2,5.0,1.0,69,1.0,4988,Hercules
+,Javito,es ESP,"FW,MF",12,9,0.0,1.0,2012-2013,/en/players/e54fa552/Javito,54fa552,Hercules,745,8.3,0.0,0.0,69,1.0,4989,Hercules
+,Nacho González,uy URU,MF,12,8,2.0,1.0,2012-2013,/en/players/53031e02/Nacho-Gonzalez,53031e02,Hercules,671,7.5,4.0,0.0,69,8.0,4151,Hercules
+,Toti,es ESP,"FW,MF",20,6,2.0,0.0,2012-2013,/en/players/03a03057/Toti,03a03057,Hercules,747,8.3,5.0,0.0,69,1.0,3324,Hercules
+,Jeffrey Sarpong,nl NED,MF,13,6,0.0,1.0,2012-2013,/en/players/cabfd01c/Jeffrey-Sarpong,cabfd01c,Hercules,525,5.8,0.0,0.0,69,11.0,284,Hercules
+,Eldin Hadžić,ba BIH,"FW,MF",11,6,2.0,2.0,2012-2013,/en/players/2e2d7785/Eldin-Hadzic,2e2d7785,Hercules,515,5.7,0.0,0.0,69,49.0,3611,Hercules
+,Juan Carlos,es ESP,GK,5,5,0.0,0.0,2012-2013,/en/players/688b96e3/Juan-Carlos,688b96e3,Hercules,450,5.0,1.0,0.0,69,1.0,3452,Hercules
+,Juanmi Callejón,es ESP,MF,11,3,0.0,0.0,2012-2013,/en/players/60bb7e62/Juanmi-Callejon,60bb7e62,Hercules,505,5.6,2.0,0.0,69,1.0,1610,Hercules
+,Jordi César,es ESP,DF,5,3,1.0,0.0,2012-2013,/en/players/7490dc27/Jordi-Cesar,7490dc27,Hercules,267,3.0,0.0,0.0,69,1.0,4990,Hercules
+,Pepe Sellés,es ESP,DF,3,3,0.0,0.0,2012-2013,/en/players/8ef3fc7d/Pepe-Selles,8ef3fc7d,Hercules,225,2.5,2.0,0.0,69,1.0,4985,Hercules
+,Álvaro Clausí,es ESP,MF,4,2,0.0,0.0,2012-2013,/en/players/e620ca59/Alvaro-Clausi,620ca59,Hercules,177,2.0,0.0,0.0,69,1.0,4991,Hercules
+,Borja Martínez,es ESP,MF,6,0,0.0,0.0,2012-2013,/en/players/22b05c05/Borja-Martinez,22b05c05,Hercules,143,1.6,0.0,0.0,69,1.0,4992,Hercules
+,Raúl,es ESP,FW,5,0,0.0,0.0,2012-2013,/en/players/9b82590f/Raul,9b82590f,Hercules,72,0.8,0.0,0.0,69,1.0,4993,Hercules
+,Smitarello,es ESP,,2,0,0.0,0.0,2012-2013,/en/players/16487e17/Smitarello,16487e17,Hercules,62,0.7,0.0,0.0,69,1.0,90209,Hercules
+,Álex Muñoz,es ESP,DF,1,0,0.0,0.0,2012-2013,/en/players/853f211e/Alex-Munoz,853f211e,Hercules,18,0.2,0.0,0.0,69,1.0,1920,Hercules
+,﻿Héctor Yuste,es ESP,"DF,MF",39,39,0.0,0.0,2013-2014,/en/players/f50a668a/Hector-Yuste,f50a668a,Hercules,"3,422",38.0,13.0,0.0,69,1.0,1662,Hercules
+,Paco Peña,es ESP,DF,34,34,0.0,0.0,2013-2014,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,"2,946",32.7,12.0,1.0,69,1.0,3702,Hercules
+,Ismael Falcón,es ESP,GK,33,33,0.0,0.0,2013-2014,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Hercules,"2,970",33.0,5.0,0.0,69,1.0,712,Hercules
+,Javier Portillo,es ESP,FW,38,32,4.0,10.0,2013-2014,/en/players/99058498/Javier-Portillo,99058498,Hercules,"2,872",31.9,4.0,0.0,69,1.0,19,Hercules
+,Abdoul Sissoko,fr FRA,MF,33,32,4.0,3.0,2013-2014,/en/players/f7288611/Abdoul-Sissoko,f7288611,Hercules,"2,745",30.5,8.0,0.0,69,4.0,1678,Hercules
+,Noé Pamarot,fr FRA,DF,31,31,1.0,3.0,2013-2014,/en/players/6036afc6/Noe-Pamarot,6036afc6,Hercules,"2,652",29.5,6.0,0.0,69,4.0,4976,Hercules
+,Juan Manuel Ortiz,es ESP,"DF,MF",30,30,1.0,0.0,2013-2014,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Hercules,"2,641",29.3,14.0,2.0,69,1.0,2007,Hercules
+,Alberto Escassi,es ESP,"DF,MF",30,28,0.0,0.0,2013-2014,/en/players/154fe273/Alberto-Escassi,154fe273,Hercules,"2,412",26.8,12.0,3.0,69,1.0,2472,Hercules
+,David Ferreiro,es ESP,"FW,MF",35,28,3.0,2.0,2013-2014,/en/players/8970907e/David-Ferreiro,8970907e,Hercules,"2,408",26.8,7.0,0.0,69,1.0,2902,Hercules
+,Eldin Hadžić,ba BIH,"FW,MF",35,28,4.0,9.0,2013-2014,/en/players/2e2d7785/Eldin-Hadzic,2e2d7785,Hercules,"2,237",24.9,4.0,0.0,69,49.0,3611,Hercules
+,Adrián Sardinero,es ESP,"FW,MF",32,25,1.0,4.0,2013-2014,/en/players/51e9bb3f/Adrian-Sardinero,51e9bb3f,Hercules,"1,844",20.5,3.0,0.0,69,1.0,4031,Hercules
+,Gai Assulin,il ISR,MF,32,17,2.0,3.0,2013-2014,/en/players/ba776102/Gai-Assulin,ba776102,Hercules,"1,593",17.7,2.0,1.0,69,45.0,1669,Hercules
+,Ion Echaide,es ESP,DF,18,16,0.0,0.0,2013-2014,/en/players/2ad367bb/Ion-Echaide,2ad367bb,Hercules,"1,547",17.2,3.0,0.0,69,1.0,2024,Hercules
+,Aitor,es ESP,DF,16,12,0.0,0.0,2013-2014,/en/players/f43b20cc/Aitor,f43b20cc,Hercules,"1,093",12.1,3.0,0.0,69,1.0,4994,Hercules
+,Enrique de Lucas,es ESP,"FW,MF",24,10,3.0,4.0,2013-2014,/en/players/ae61cc61/Enrique-de-Lucas,61cc61,Hercules,"1,248",13.9,3.0,1.0,69,1.0,735,Hercules
+,Javier Hervás,es ESP,MF,20,10,1.0,0.0,2013-2014,/en/players/04b8d5c8/Javier-Hervas,04b8d5c8,Hercules,"1,061",11.8,4.0,1.0,69,1.0,1869,Hercules
+,Gorka Azkorra,es ESP,FW,17,9,0.0,2.0,2013-2014,/en/players/b6ba90f9/Gorka-Azkorra,b6ba90f9,Hercules,858,9.5,0.0,0.0,69,1.0,1256,Hercules
+,Oinatz Aulestia,es ESP,GK,9,9,0.0,0.0,2013-2014,/en/players/be681aab/Oinatz-Aulestia,be681aab,Hercules,807,9.0,1.0,0.0,69,1.0,4373,Hercules
+,Borja Gómez Pérez,es ESP,DF,10,9,0.0,0.0,2013-2014,/en/players/95abfdfd/Borja-Gomez-Perez,95abfdfd,Hercules,800,8.9,4.0,1.0,69,1.0,3449,Hercules
+,Héctor Font,es ESP,MF,16,7,3.0,0.0,2013-2014,/en/players/9982593d/Hector-Font,9982593d,Hercules,755,8.4,3.0,1.0,69,1.0,2015,Hercules
+,Alberto Carbonell,es ESP,DF,8,7,0.0,0.0,2013-2014,/en/players/ab528015/Alberto-Carbonell,b528015,Hercules,637,7.1,5.0,0.0,69,1.0,4995,Hercules
+,Dioni,es ESP,FW,11,5,0.0,1.0,2013-2014,/en/players/aac8c5ac/Dioni,c8c5ac,Hercules,559,6.2,2.0,0.0,69,1.0,454,Hercules
+,Álex Muñoz,es ESP,DF,5,4,0.0,0.0,2013-2014,/en/players/853f211e/Alex-Munoz,853f211e,Hercules,355,3.9,0.0,0.0,69,1.0,1920,Hercules
+,Yukiya Sugita,jp JPN,"FW,MF",16,3,0.0,2.0,2013-2014,/en/players/8f7e132f/Yukiya-Sugita,8f7e132f,Hercules,484,5.4,0.0,0.0,69,54.0,90210,Hercules
+,Matías Campos,cl CHI,"DF,MF",2,2,0.0,0.0,2013-2014,/en/players/8ff6d25a/Matias-Campos,8ff6d25a,Hercules,114,1.3,1.0,0.0,69,31.0,4996,Hercules
+,Darwin Machís,ve VEN,"FW,MF",3,1,0.0,0.0,2013-2014,/en/players/ed6ea4d9/Darwin-Machis,d6ea4d9,Hercules,103,1.1,0.0,0.0,69,53.0,4399,Hercules
+,Juanma Acevedo,es ESP,MF,3,1,0.0,0.0,2013-2014,/en/players/7479883c/Juanma-Acevedo,7479883c,Hercules,93,1.0,0.0,0.0,69,1.0,4997,Hercules
+,Lauren Egea,es ESP,FW,2,0,0.0,0.0,2013-2014,/en/players/0f006190/Lauren-Egea,0f006190,Hercules,38,0.4,0.0,0.0,69,1.0,4998,Hercules
+,Álvaro Mas,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/ddcba015/Alvaro-Mas,ddcba015,Hercules,7,0.1,0.0,0.0,69,1.0,4999,Hercules
+,Iván Buigues,es ESP,GK,1,0,0.0,0.0,2013-2014,/en/players/79d4ffb4/Ivan-Buigues,79d4ffb4,Hercules,3,0.0,0.0,0.0,69,1.0,5000,Hercules
+,Baldo Santana,es ESP,DF,1,0,0.0,0.0,2013-2014,/en/players/bfe1969b/Baldo-Santana,bfe1969b,Hercules,2,0.0,0.0,0.0,69,1.0,5001,Hercules
+,﻿Juanma Acevedo,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/7479883c/Juanma-Acevedo,7479883c,Hercules,120.0,1.3,0.0,0.0,69,1.0,4997,Hercules
+,Iván Buigues,es ESP,GK,1,1,0.0,0.0,2014-2015,/en/players/79d4ffb4/Ivan-Buigues,79d4ffb4,Hercules,120.0,1.3,1.0,0.0,69,1.0,5000,Hercules
+,Carlos Lázaro,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/785894a8/Carlos-Lazaro,785894a8,Hercules,120.0,1.3,0.0,0.0,69,1.0,2570,Hercules
+,Mikel Martins,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/f45c4513/Mikel-Martins,f45c4513,Hercules,120.0,1.3,0.0,0.0,69,1.0,5002,Hercules
+,Álex Muñoz,es ESP,DF,1,1,0.0,0.0,2014-2015,/en/players/853f211e/Alex-Munoz,853f211e,Hercules,120.0,1.3,0.0,0.0,69,1.0,1920,Hercules
+,Aitor Núñez,es ESP,DF,1,1,0.0,0.0,2014-2015,/en/players/511e3986/Aitor-Nunez,511e3986,Hercules,120.0,1.3,1.0,0.0,69,1.0,3457,Hercules
+,José Pardo,es ESP,DF,1,1,0.0,0.0,2014-2015,/en/players/f9560607/Jose-Pardo,f9560607,Hercules,120.0,1.3,1.0,0.0,69,1.0,3210,Hercules
+,Pepe Sellés,es ESP,DF,1,1,0.0,0.0,2014-2015,/en/players/8ef3fc7d/Pepe-Selles,8ef3fc7d,Hercules,120.0,1.3,0.0,0.0,69,1.0,4985,Hercules
+,Chechu,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/3333762c/Chechu,3333762c,Hercules,70.0,0.8,0.0,0.0,69,1.0,4854,Hercules
+,Javier Portillo,es ESP,FW,1,1,0.0,1.0,2014-2015,/en/players/99058498/Javier-Portillo,99058498,Hercules,68.0,0.8,0.0,0.0,69,1.0,19,Hercules
+,Adri Cuevas,es ESP,MF,1,1,0.0,0.0,2014-2015,/en/players/b4267df9/Adri-Cuevas,b4267df9,Hercules,60.0,0.7,0.0,0.0,69,1.0,4954,Hercules
+,José Luis Miñano,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/1bc88b0c/Jose-Luis-Minano,1bc88b0c,Hercules,60.0,0.7,1.0,0.0,69,1.0,4004,Hercules
+,Fernando Rodríguez,es ESP,FW,1,0,0.0,1.0,2014-2015,/en/players/31a98017/Fernando-Rodriguez,31a98017,Hercules,52.0,0.6,1.0,0.0,69,1.0,1845,Hercules
+,Adrià Granell,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/33257930/Adria-Granell,33257930,Hercules,50.0,0.6,0.0,0.0,69,1.0,3565,Hercules
+,Chema,es ESP,GK,0,0,,,2014-2015,/en/players/4b628c9b/Chema,4b628c9b,Hercules,,,,,69,1.0,4939,Hercules
+,Francisco Javier González Muñoz,es ESP,DF,0,0,,,2014-2015,/en/players/79e734b2/Francisco-Javier-Gonzalez-Munoz,79e734b2,Hercules,,,,,69,1.0,5003,Hercules
+,﻿Juanma Acevedo,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/7479883c/Juanma-Acevedo,7479883c,Hercules,90.0,1.0,0.0,0.0,69,1.0,4997,Hercules
+,Miguel Ángel Nieto,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Hercules,90.0,1.0,0.0,0.0,69,1.0,60,Hercules
+,Pichu Atienza,es ESP,DF,1,1,0.0,0.0,2015-2016,/en/players/aaeacaca/Pichu-Atienza,caca,Hercules,90.0,1.0,1.0,0.0,69,1.0,3663,Hercules
+,Chema,es ESP,GK,1,1,0.0,0.0,2015-2016,/en/players/4b628c9b/Chema,4b628c9b,Hercules,90.0,1.0,0.0,0.0,69,1.0,4939,Hercules
+,Manuel Gato,es ESP,FW,1,1,0.0,0.0,2015-2016,/en/players/eb137ee5/Manuel-Gato,b137ee5,Hercules,90.0,1.0,0.0,0.0,69,1.0,3720,Hercules
+,Álex Muñoz,es ESP,DF,1,1,0.0,0.0,2015-2016,/en/players/853f211e/Alex-Munoz,853f211e,Hercules,90.0,1.0,0.0,0.0,69,1.0,1920,Hercules
+,Javier Portillo,es ESP,FW,1,1,0.0,0.0,2015-2016,/en/players/99058498/Javier-Portillo,99058498,Hercules,90.0,1.0,0.0,0.0,69,1.0,19,Hercules
+,Rafita,es ESP,DF,1,1,0.0,0.0,2015-2016,/en/players/631f177b/Rafita,631f177b,Hercules,90.0,1.0,0.0,0.0,69,1.0,1597,Hercules
+,Yeray González,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/95fd065d/Yeray-Gonzalez,95fd065d,Hercules,74.0,0.8,0.0,0.0,69,1.0,5004,Hercules
+,José Rojas,es ESP,DF,1,1,0.0,0.0,2015-2016,/en/players/5854c775/Jose-Rojas,5854c775,Hercules,45.0,0.5,1.0,0.0,69,1.0,3787,Hercules
+,José Luis Miñano,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/1bc88b0c/Jose-Luis-Minano,1bc88b0c,Hercules,37.0,0.4,0.0,1.0,69,1.0,4004,Hercules
+,Connor Ruane,eng ENG,MF,1,0,0.0,1.0,2015-2016,/en/players/ec5457a7/Connor-Ruane,c5457a7,Hercules,45.0,0.5,0.0,0.0,69,6.0,5005,Hercules
+,Carlos Indiano,es ESP,MF,1,0,0.0,0.0,2015-2016,/en/players/521c811e/Carlos-Indiano,521c811e,Hercules,16.0,0.2,0.0,0.0,69,1.0,3790,Hercules
+,Iván Buigues,es ESP,GK,0,0,,,2015-2016,/en/players/79d4ffb4/Ivan-Buigues,79d4ffb4,Hercules,,,,,69,1.0,5000,Hercules
+,Adri Cuevas,es ESP,MF,0,0,,,2015-2016,/en/players/b4267df9/Adri-Cuevas,b4267df9,Hercules,,,,,69,1.0,4954,Hercules
+,Álex Gallar,es ESP,"FW,MF",0,0,,,2015-2016,/en/players/36d5469c/Alex-Gallar,36d5469c,Hercules,,,,,69,1.0,5006,Hercules
+,﻿Iván Buigues,es ESP,GK,5,5,0.0,0.0,2016-2017,/en/players/79d4ffb4/Ivan-Buigues,79d4ffb4,Hercules,480.0,5.3,1.0,0.0,69,1.0,5000,Hercules
+,Albert Dalmau,es ESP,DF,5,5,0.0,0.0,2016-2017,/en/players/a86b6281/Albert-Dalmau,86b6281,Hercules,480.0,5.3,0.0,0.0,69,1.0,5007,Hercules
+,Fernando Román,es ESP,DF,5,5,0.0,0.0,2016-2017,/en/players/0935364e/Fernando-Roman,0935364e,Hercules,480.0,5.3,1.0,0.0,69,1.0,5008,Hercules
+,Paco Peña,es ESP,DF,5,5,0.0,0.0,2016-2017,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,456.0,5.1,3.0,0.0,69,1.0,3702,Hercules
+,David Mainz,es ESP,FW,5,4,0.0,3.0,2016-2017,/en/players/d4498ac2/David-Mainz,d4498ac2,Hercules,409.0,4.5,0.0,0.0,69,1.0,5009,Hercules
+,Checa,es ESP,MF,4,4,0.0,0.0,2016-2017,/en/players/036727d5/Checa,036727d5,Hercules,390.0,4.3,3.0,0.0,69,1.0,5017,Hercules
+,José Gaspar,es ESP,MF,5,4,0.0,2.0,2016-2017,/en/players/921af048/Jose-Gaspar,921af048,Hercules,383.0,4.3,0.0,0.0,69,1.0,5010,Hercules
+,Pol Bueso,es ESP,DF,4,4,0.0,0.0,2016-2017,/en/players/7fd2c75e/Pol-Bueso,7fd2c75e,Hercules,353.0,3.9,1.0,0.0,69,1.0,3789,Hercules
+,Juanma,es ESP,MF,4,3,0.0,1.0,2016-2017,/en/players/2700600a/Juanma,2700600a,Hercules,306.0,3.4,0.0,0.0,69,1.0,4369,Hercules
+,Salinas,es ESP,FW,4,3,0.0,1.0,2016-2017,/en/players/0c824c97/Salinas,0c824c97,Hercules,260.0,2.9,0.0,0.0,69,1.0,5011,Hercules
+,Miguel Ángel Nieto,es ESP,MF,4,2,0.0,1.0,2016-2017,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Hercules,212.0,2.4,0.0,0.0,69,1.0,60,Hercules
+,José Luis Miñano,es ESP,MF,4,2,0.0,0.0,2016-2017,/en/players/1bc88b0c/Jose-Luis-Minano,1bc88b0c,Hercules,205.0,2.3,0.0,0.0,69,1.0,4004,Hercules
+,Omgba,cm CMR,MF,3,2,0.0,0.0,2016-2017,/en/players/dcd32bbc/Omgba,dcd32bbc,Hercules,205.0,2.3,0.0,0.0,69,36.0,5012,Hercules
+,José Rojas,es ESP,DF,2,2,0.0,0.0,2016-2017,/en/players/5854c775/Jose-Rojas,5854c775,Hercules,180.0,2.0,0.0,0.0,69,1.0,3787,Hercules
+,Javi Flores,es ESP,MF,2,2,0.0,1.0,2016-2017,/en/players/867f9ede/Javi-Flores,867f9ede,Hercules,96.0,1.1,0.0,0.0,69,1.0,5013,Hercules
+,Chechu,es ESP,MF,4,1,0.0,0.0,2016-2017,/en/players/3333762c/Chechu,3333762c,Hercules,172.0,1.9,1.0,0.0,69,1.0,4854,Hercules
+,Pedro Inglés,es ESP,MF,2,1,0.0,0.0,2016-2017,/en/players/2232dc1c/Pedro-Ingles,2232dc1c,Hercules,114.0,1.3,0.0,0.0,69,1.0,5014,Hercules
+,Jesús Berrocal,es ESP,FW,2,1,0.0,0.0,2016-2017,/en/players/13fba9d3/Jesus-Berrocal,13fba9d3,Hercules,80.0,0.9,0.0,0.0,69,1.0,2880,Hercules
+,Álex Pérez,,MF,1,0,0.0,0.0,2016-2017,/en/players/e9c65752/Alex-Perez,9c65752,Hercules,19.0,0.2,0.0,0.0,69,,90211,Hercules
+,Chema,es ESP,GK,0,0,,,2016-2017,/en/players/4b628c9b/Chema,4b628c9b,Hercules,,,,,69,1.0,4939,Hercules
+,Edu Lledó,es ESP,GK,0,0,,,2016-2017,/en/players/5b3ff6b7/Edu-Lledo,5b3ff6b7,Hercules,,,,,69,1.0,5015,Hercules
+,﻿Carlos Fernández,es ESP,FW,2,2,0.0,0.0,2017-2018,/en/players/8c2a65d4/Carlos-Fernandez,8c2a65d4,Hercules,210.0,2.3,1.0,0.0,69,1.0,5016,Hercules
+,Samuel Llorca,es ESP,DF,2,2,0.0,0.0,2017-2018,/en/players/9c3d54f0/Samuel-Llorca,9c3d54f0,Hercules,210.0,2.3,0.0,0.0,69,1.0,757,Hercules
+,Juanjo Nieto,es ESP,DF,2,2,0.0,0.0,2017-2018,/en/players/b4511ba0/Juanjo-Nieto,b4511ba0,Hercules,210.0,2.3,2.0,0.0,69,1.0,1699,Hercules
+,Mikel Santamaría,es ESP,DF,2,2,0.0,0.0,2017-2018,/en/players/c809e332/Mikel-Santamaria,c809e332,Hercules,210.0,2.3,0.0,0.0,69,1.0,2944,Hercules
+,Gerardo Navarrete,cl CHI,MF,2,2,0.0,0.0,2017-2018,/en/players/e5cabc7a/Gerardo-Navarrete,5cabc7a,Hercules,183.0,2.0,1.0,0.0,69,31.0,4368,Hercules
+,José Gaspar,es ESP,MF,2,2,0.0,0.0,2017-2018,/en/players/921af048/Jose-Gaspar,921af048,Hercules,153.0,1.7,0.0,0.0,69,1.0,5010,Hercules
+,Chechu,es ESP,MF,2,1,0.0,1.0,2017-2018,/en/players/3333762c/Chechu,3333762c,Hercules,146.0,1.6,1.0,0.0,69,1.0,4854,Hercules
+,José Luis García Vayá,es ESP,MF,2,1,0.0,0.0,2017-2018,/en/players/27dc1378/Jose-Luis-Garcia-Vaya,27dc1378,Hercules,125.0,1.4,0.0,0.0,69,1.0,4176,Hercules
+,Iván Buigues,es ESP,GK,1,1,0.0,0.0,2017-2018,/en/players/79d4ffb4/Ivan-Buigues,79d4ffb4,Hercules,120.0,1.3,1.0,0.0,69,1.0,5000,Hercules
+,Connor Ruane,eng ENG,MF,1,1,0.0,0.0,2017-2018,/en/players/ec5457a7/Connor-Ruane,c5457a7,Hercules,120.0,1.3,0.0,0.0,69,6.0,5005,Hercules
+,Miguel Ángel Nieto,es ESP,MF,2,1,0.0,0.0,2017-2018,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Hercules,91.0,1.0,0.0,0.0,69,1.0,60,Hercules
+,Mohamed Ezzarfani,ma MAR,MF,1,1,0.0,0.0,2017-2018,/en/players/3e59d360/Mohamed-Ezzarfani,3e59d360,Hercules,90.0,1.0,0.0,0.0,69,26.0,3109,Hercules
+,Ismael Falcón,es ESP,GK,1,1,0.0,0.0,2017-2018,/en/players/5d2574f2/Ismael-Falcon,5d2574f2,Hercules,90.0,1.0,0.0,0.0,69,1.0,712,Hercules
+,José Luis Miñano,es ESP,MF,1,1,0.0,0.0,2017-2018,/en/players/1bc88b0c/Jose-Luis-Minano,1bc88b0c,Hercules,79.0,0.9,2.0,1.0,69,1.0,4004,Hercules
+,Paco Peña,es ESP,DF,1,1,0.0,0.0,2017-2018,/en/players/e3b01965/Paco-Pena,3b01965,Hercules,76.0,0.8,0.0,0.0,69,1.0,3702,Hercules
+,Óscar Díaz,es ESP,"FW,MF",2,1,0.0,0.0,2017-2018,/en/players/5a5ed410/Oscar-Diaz,5a5ed410,Hercules,71.0,0.8,0.0,0.0,69,1.0,707,Hercules
+,Juli,es ESP,MF,1,0,0.0,1.0,2017-2018,/en/players/f3541f8a/Juli,f3541f8a,Hercules,63.0,0.7,0.0,0.0,69,1.0,3334,Hercules
+,Checa,es ESP,MF,1,0,0.0,0.0,2017-2018,/en/players/036727d5/Checa,036727d5,Hercules,22.0,0.2,0.0,0.0,69,1.0,5017,Hercules
+,Pedrag Muñoz,es ESP,FW,0,0,,,2017-2018,/en/players/33f21566/Pedrag-Munoz,33f21566,Hercules,,,,,69,1.0,5018,Hercules

@@ -1,592 +1,592 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Francisco,es ESP,FW,41,38,3.0,15.0,2002-2003,20ba95,Almeria,"3,302",36.7,7.0,0.0,65.0,1.0,,Almeria
-,Olivares,es ESP,DF,38,37,0.0,4.0,2002-2003,438fb313,Almeria,"3,346",37.2,13.0,1.0,65.0,1.0,4568.0,Almeria
-,Juan Cervián,es ESP,DF,35,34,6.0,2.0,2002-2003,5cc15685,Almeria,"3,031",33.7,9.0,1.0,65.0,1.0,4569.0,Almeria
-,Juan Carlos Ramos,es ESP,MF,36,31,0.0,1.0,2002-2003,3386ca6c,Almeria,"2,683",29.8,10.0,0.0,65.0,1.0,4570.0,Almeria
-,Emmanuel Dorado,fr FRA,DF,32,31,0.0,0.0,2002-2003,bf4ced65,Almeria,"2,561",28.5,10.0,0.0,65.0,4.0,4571.0,Almeria
-,Esteban,es ESP,MF,35,30,2.0,0.0,2002-2003,17d532aa,Almeria,"2,570",28.6,7.0,2.0,65.0,1.0,4572.0,Almeria
-,Jose Barbero,,,29,29,0.0,0.0,2002-2003,,Almeria,"2,610",29.0,2.0,0.0,65.0,,,Almeria
-,Joaquín Sorribas,es ESP,MF,33,28,0.0,0.0,2002-2003,d3b37f79,Almeria,"2,306",25.6,15.0,1.0,65.0,1.0,4573.0,Almeria
-,César Jiménez,es ESP,DF,29,27,2.0,1.0,2002-2003,fc6342b,Almeria,"2,331",25.9,6.0,2.0,65.0,1.0,,Almeria
-,Mate Bilić,hr CRO,FW,31,25,1.0,9.0,2002-2003,37e6a4eb,Almeria,"2,173",24.1,5.0,1.0,65.0,16.0,4574.0,Almeria
-,Juanlu,es ESP,MF,31,25,2.0,6.0,2002-2003,94b88487,Almeria,"1,993",22.1,7.0,1.0,65.0,1.0,,Almeria
-,Ortega,es ESP,DF,22,22,0.0,0.0,2002-2003,f535d7c6,Almeria,"1,911",21.2,11.0,2.0,65.0,1.0,4575.0,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",31,17,1.0,5.0,2002-2003,60393076,Almeria,"1,558",17.3,3.0,1.0,65.0,1.0,4576.0,Almeria
-,Armindo Rubio,,,26,16,1.0,0.0,2002-2003,,Almeria,"1,564",17.4,9.0,0.0,65.0,,,Almeria
-,Luna,es ESP,FW,16,15,3.0,6.0,2002-2003,73d5190d,Almeria,"1,308",14.5,7.0,1.0,65.0,1.0,4577.0,Almeria
-,Juan Jesús Cabrera Rubio,es ESP,MF,23,14,1.0,2.0,2002-2003,325095d8,Almeria,"1,211",13.5,4.0,0.0,65.0,1.0,4578.0,Almeria
-,José Ángel Ferrera,es ESP,,11,9,0.0,0.0,2002-2003,2d9e5d0d,Almeria,823,9.1,4.0,0.0,65.0,1.0,,Almeria
-,Rubén Falcón,es ESP,GK,8,8,0.0,0.0,2002-2003,bf651b09,Almeria,720,8.0,0.0,0.0,65.0,1.0,,Almeria
-,Jorge Pérez Sáenz,es ESP,MF,23,7,1.0,0.0,2002-2003,70355cf3,Almeria,915,10.2,0.0,0.0,65.0,1.0,4579.0,Almeria
-,Javi Peña,es ESP,FW,14,6,0.0,1.0,2002-2003,6c3c4e78,Almeria,510,5.7,1.0,0.0,65.0,1.0,4580.0,Almeria
-,Javi Ruiz,es ESP,GK,5,5,0.0,0.0,2002-2003,d0f6344a,Almeria,450,5.0,1.0,0.0,65.0,1.0,4581.0,Almeria
-,Honorio Gallego,,,17,4,0.0,0.0,2002-2003,,Almeria,650,7.2,0.0,0.0,65.0,,,Almeria
-,Jose Larrosa,,,9,3,0.0,0.0,2002-2003,,Almeria,476,5.3,3.0,0.0,65.0,,,Almeria
-,Patri,es ESP,MF,5,2,1.0,1.0,2002-2003,5281c162,Almeria,187,2.1,0.0,0.0,65.0,1.0,4582.0,Almeria
-,Derteano Aiert,,,1,0,0.0,0.0,2002-2003,,Almeria,18,0.2,0.0,0.0,65.0,,,Almeria
-,Pedro Benitez,,,1,0,0.0,0.0,2002-2003,,Almeria,11,0.1,1.0,0.0,65.0,,,Almeria
-,﻿Francisco,es ESP,FW,39,39,2.0,16.0,2003-2004,20ba95,Almeria,"3,375",37.5,3.0,0.0,65.0,1.0,,Almeria
-,Jaime Ramos,es ESP,MF,36,36,1.0,0.0,2003-2004,0efbd49c,Almeria,"3,006",33.4,15.0,2.0,65.0,1.0,,Almeria
-,César Jiménez,es ESP,DF,30,30,2.0,3.0,2003-2004,fc6342b,Almeria,"2,685",29.8,5.0,1.0,65.0,1.0,,Almeria
-,Carlos David Cano,es ESP,GK,29,29,0.0,0.0,2003-2004,c7f63f13,Almeria,"2,610",29.0,2.0,0.0,65.0,1.0,,Almeria
-,Jorge Pérez Sáenz,es ESP,MF,40,29,2.0,4.0,2003-2004,70355cf3,Almeria,"2,543",28.3,4.0,0.0,65.0,1.0,4579.0,Almeria
-,Stéphane Pignol,fr FRA,DF,29,25,2.0,1.0,2003-2004,ca3ae27c,Almeria,"2,369",26.3,7.0,1.0,65.0,4.0,,Almeria
-,Constantin Gâlcă,ro ROU,MF,24,24,3.0,0.0,2003-2004,624ddea0,Almeria,"2,048",22.8,4.0,0.0,65.0,51.0,,Almeria
-,José Ángel Ferrera,es ESP,,25,24,1.0,0.0,2003-2004,2d9e5d0d,Almeria,"1,949",21.7,3.0,0.0,65.0,1.0,,Almeria
-,P Ortiz,,,27,22,1.0,1.0,2003-2004,,Almeria,"1,910",21.2,6.0,0.0,65.0,,,Almeria
-,Luna,es ESP,FW,28,21,5.0,5.0,2003-2004,73d5190d,Almeria,"1,933",21.5,8.0,1.0,65.0,1.0,4577.0,Almeria
-,Juan Cervián,es ESP,DF,25,21,1.0,1.0,2003-2004,5cc15685,Almeria,"1,919",21.3,5.0,0.0,65.0,1.0,4569.0,Almeria
-,Ortega,es ESP,DF,20,18,0.0,0.0,2003-2004,f535d7c6,Almeria,"1,628",18.1,3.0,0.0,65.0,1.0,4575.0,Almeria
-,Víctor Salas,es ESP,MF,20,18,0.0,3.0,2003-2004,67c31cb7,Almeria,"1,579",17.5,5.0,0.0,65.0,1.0,,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",35,16,3.0,3.0,2003-2004,60393076,Almeria,"1,717",19.1,6.0,0.0,65.0,1.0,4576.0,Almeria
-,Juan Lago,,,17,16,0.0,1.0,2003-2004,,Almeria,"1,408",15.6,7.0,1.0,65.0,,,Almeria
-,Esteban,es ESP,MF,19,16,0.0,1.0,2003-2004,17d532aa,Almeria,"1,313",14.6,4.0,0.0,65.0,1.0,4572.0,Almeria
-,Raúl Lozano Marcos,es ESP,MF,25,15,1.0,1.0,2003-2004,4cb14b26,Almeria,"1,215",13.5,6.0,0.0,65.0,1.0,4583.0,Almeria
-,Joaquín Valerio,es ESP,GK,13,13,0.0,0.0,2003-2004,5969d90a,Almeria,"1,170",13.0,1.0,0.0,65.0,1.0,4584.0,Almeria
-,Nicolas Sahnoun,fr FRA,MF,15,11,2.0,1.0,2003-2004,f1742e9a,Almeria,904,10.0,5.0,0.0,65.0,4.0,4585.0,Almeria
-,Bravo,es ESP,DF,8,7,0.0,0.0,2003-2004,2fcd97a4,Almeria,635,7.1,1.0,0.0,65.0,1.0,,Almeria
-,Juan Jesús Cabrera Rubio,es ESP,MF,9,6,0.0,1.0,2003-2004,325095d8,Almeria,417,4.6,0.0,1.0,65.0,1.0,4578.0,Almeria
-,Miguel Ángel Benítez,py PAR,FW,9,5,1.0,1.0,2003-2004,292572b,Almeria,506,5.6,2.0,1.0,65.0,43.0,4586.0,Almeria
-,Joaquín Sorribas,es ESP,MF,14,4,0.0,0.0,2003-2004,d3b37f79,Almeria,543,6.0,2.0,0.0,65.0,1.0,4573.0,Almeria
-,Renato,br BRA,DF,6,4,0.0,0.0,2003-2004,6738f4c1,Almeria,445,4.9,0.0,0.0,65.0,2.0,4587.0,Almeria
-,Gallego Honorio,,,14,3,1.0,0.0,2003-2004,,Almeria,509,5.7,5.0,0.0,65.0,,,Almeria
-,Jean-Louis Valois,fr FRA,MF,8,3,0.0,0.0,2003-2004,c1905b04,Almeria,240,2.7,4.0,1.0,65.0,4.0,4588.0,Almeria
-,Juanlu,es ESP,MF,7,2,0.0,1.0,2003-2004,94b88487,Almeria,258,2.9,0.0,0.0,65.0,1.0,,Almeria
-,Olivares,es ESP,DF,3,2,0.0,0.0,2003-2004,438fb313,Almeria,144,1.6,1.0,0.0,65.0,1.0,4568.0,Almeria
-,Marcelinho Paulista,br BRA,MF,3,2,0.0,1.0,2003-2004,099068ab,Almeria,137,1.5,1.0,1.0,65.0,2.0,4589.0,Almeria
-,Ferenc Horváth,hu HUN,FW,5,1,0.0,0.0,2003-2004,2df4b5c5,Almeria,150,1.7,0.0,0.0,65.0,87.0,4590.0,Almeria
-,Jose Sorroche,,,1,0,0.0,0.0,2003-2004,,Almeria,17,0.2,0.0,0.0,65.0,,,Almeria
-,Jesus Francis,,,1,0,0.0,0.0,2003-2004,,Almeria,10,0.1,0.0,0.0,65.0,,,Almeria
-,﻿Joaquín Valerio,es ESP,GK,37,36,0.0,0.0,2004-2005,5969d90a,Almeria,"3,229",35.9,1.0,1.0,65.0,1.0,4584.0,Almeria
-,Constantin Gâlcă,ro ROU,MF,34,33,6.0,2.0,2004-2005,624ddea0,Almeria,"2,904",32.3,10.0,2.0,65.0,51.0,,Almeria
-,Ibán Espadas,es ESP,FW,37,32,5.0,5.0,2004-2005,1e764654,Almeria,"2,641",29.3,4.0,0.0,65.0,1.0,,Almeria
-,Miguel Ángel Soria,es ESP,DF,31,30,1.0,1.0,2004-2005,22ab6697,Almeria,"2,651",29.5,4.0,0.0,65.0,1.0,4591.0,Almeria
-,Martín Vellisca,es ESP,MF,35,30,2.0,2.0,2004-2005,d859d8c2,Almeria,"2,554",28.4,5.0,0.0,65.0,1.0,,Almeria
-,Manolo Gaspar,es ESP,DF,27,26,0.0,0.0,2004-2005,be800693,Almeria,"2,199",24.4,15.0,0.0,65.0,1.0,,Almeria
-,Jaime Ramos,es ESP,MF,29,24,0.0,0.0,2004-2005,0efbd49c,Almeria,"2,200",24.4,8.0,0.0,65.0,1.0,,Almeria
-,Santiago Acasiete,pe PER,DF,24,24,0.0,3.0,2004-2005,39168d69,Almeria,"2,066",23.0,7.0,1.0,65.0,57.0,4592.0,Almeria
-,Raúl Lozano Marcos,es ESP,MF,29,21,0.0,1.0,2004-2005,4cb14b26,Almeria,"1,936",21.5,6.0,0.0,65.0,1.0,4583.0,Almeria
-,Juan Cervián,es ESP,DF,21,21,2.0,0.0,2004-2005,5cc15685,Almeria,"1,852",20.6,1.0,0.0,65.0,1.0,4569.0,Almeria
-,Esteban,es ESP,MF,26,21,0.0,1.0,2004-2005,17d532aa,Almeria,"1,497",16.6,10.0,0.0,65.0,1.0,4572.0,Almeria
-,Nicolas Sahnoun,fr FRA,MF,26,19,3.0,4.0,2004-2005,f1742e9a,Almeria,"1,606",17.8,11.0,2.0,65.0,4.0,4585.0,Almeria
-,Isaac Jové Rubí,es ESP,MF,30,18,4.0,2.0,2004-2005,d6e1904b,Almeria,"1,631",18.1,5.0,1.0,65.0,1.0,,Almeria
-,Jon Ander Lambea,es ESP,DF,21,18,0.0,0.0,2004-2005,f370429e,Almeria,"1,622",18.0,7.0,0.0,65.0,1.0,4593.0,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",24,18,2.0,3.0,2004-2005,60393076,Almeria,"1,410",15.7,5.0,0.0,65.0,1.0,4576.0,Almeria
-,Miguel Rebosio,pe PER,DF,18,17,0.0,1.0,2004-2005,306e0437,Almeria,"1,541",17.1,8.0,0.0,65.0,57.0,,Almeria
-,José Galán,es ESP,DF,16,14,0.0,0.0,2004-2005,7b140e43,Almeria,"1,355",15.1,2.0,0.0,65.0,1.0,,Almeria
-,Luna,es ESP,FW,27,13,0.0,4.0,2004-2005,73d5190d,Almeria,"1,444",16.0,7.0,0.0,65.0,1.0,4577.0,Almeria
-,Roberto Nanni,ar ARG,FW,12,11,1.0,5.0,2004-2005,fa1d1239,Almeria,954,10.6,3.0,0.0,65.0,5.0,4594.0,Almeria
-,Paulo Jamelli,br BRA,FW,26,10,0.0,2.0,2004-2005,9cdf4c1,Almeria,"1,203",13.4,3.0,0.0,65.0,2.0,,Almeria
-,Aldo Adorno,py PAR,"FW,MF",12,8,0.0,0.0,2004-2005,bb385b33,Almeria,777,8.6,2.0,1.0,65.0,43.0,4595.0,Almeria
-,Carlos David Cano,es ESP,GK,6,5,0.0,0.0,2004-2005,c7f63f13,Almeria,447,5.0,2.0,0.0,65.0,1.0,,Almeria
-,Christian Díaz,ar ARG,"DF,MF",4,3,0.0,0.0,2004-2005,4c6f6ef4,Almeria,279,3.1,1.0,0.0,65.0,5.0,,Almeria
-,Míchel,es ESP,FW,3,3,2.0,0.0,2004-2005,5f68b183,Almeria,237,2.6,0.0,0.0,65.0,1.0,,Almeria
-,Leonel Ríos,ar ARG,"FW,MF",10,2,1.0,0.0,2004-2005,51c43eb8,Almeria,361,4.0,0.0,0.0,65.0,5.0,4596.0,Almeria
-,P Ortiz,,,10,1,1.0,0.0,2004-2005,,Almeria,363,4.0,0.0,0.0,65.0,,,Almeria
-,Marc Francoli,,,2,1,1.0,0.0,2004-2005,,Almeria,126,1.4,0.0,0.0,65.0,,,Almeria
-,Ricardo Molina,es ESP,GK,1,1,0.0,0.0,2004-2005,514355f2,Almeria,90,1.0,0.0,0.0,65.0,1.0,4597.0,Almeria
-,Lopes,br BRA,,1,0,0.0,0.0,2004-2005,904705ec,Almeria,2,0.0,0.0,0.0,65.0,2.0,,Almeria
-,﻿Constantin Gâlcă,ro ROU,MF,40,40,4.0,2.0,2005-2006,624ddea0,Almeria,"3,596",40.0,5.0,1.0,65.0,51.0,,Almeria
-,Joaquín Valerio,es ESP,GK,39,39,0.0,0.0,2005-2006,5969d90a,Almeria,"3,510",39.0,3.0,0.0,65.0,1.0,4584.0,Almeria
-,Carlos García,es ESP,DF,39,39,2.0,0.0,2005-2006,2f21a57c,Almeria,"3,487",38.7,12.0,1.0,65.0,1.0,,Almeria
-,Manolo Gaspar,es ESP,DF,38,37,0.0,0.0,2005-2006,be800693,Almeria,"3,361",37.3,11.0,2.0,65.0,1.0,,Almeria
-,Santiago Acasiete,pe PER,DF,35,34,0.0,3.0,2005-2006,39168d69,Almeria,"3,036",33.7,8.0,2.0,65.0,57.0,4592.0,Almeria
-,Fernando Soriano,es ESP,MF,34,34,5.0,7.0,2005-2006,1aa72854,Almeria,"2,972",33.0,12.0,0.0,65.0,1.0,,Almeria
-,Albert Crusat,es ESP,"FW,MF",34,34,6.0,8.0,2005-2006,ba027002,Almeria,"2,881",32.0,10.0,1.0,65.0,1.0,,Almeria
-,Francisco,es ESP,FW,35,27,2.0,6.0,2005-2006,20ba95,Almeria,"2,368",26.3,5.0,0.0,65.0,1.0,,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",32,24,6.0,8.0,2005-2006,60393076,Almeria,"2,235",24.8,7.0,1.0,65.0,1.0,4576.0,Almeria
-,David Bermudo,es ESP,DF,24,23,1.0,0.0,2005-2006,1066df99,Almeria,"2,052",22.8,9.0,0.0,65.0,1.0,4598.0,Almeria
-,Raúl Lozano Marcos,es ESP,MF,27,17,6.0,0.0,2005-2006,4cb14b26,Almeria,"1,493",16.6,10.0,1.0,65.0,1.0,4583.0,Almeria
-,Kalu Uche,ng NGA,"FW,MF",27,17,1.0,4.0,2005-2006,6cc97b1d,Almeria,"1,456",16.2,3.0,0.0,65.0,52.0,,Almeria
-,Domingo Cisma,es ESP,DF,16,16,0.0,0.0,2005-2006,4d85b73c,Almeria,"1,406",15.6,4.0,1.0,65.0,1.0,,Almeria
-,Míchel,es ESP,FW,24,15,1.0,5.0,2005-2006,5f68b183,Almeria,"1,281",14.2,3.0,0.0,65.0,1.0,,Almeria
-,Jonathan Soriano,es ESP,FW,17,12,0.0,7.0,2005-2006,036fb721,Almeria,960,10.7,3.0,0.0,65.0,1.0,,Almeria
-,Luna,es ESP,FW,26,11,1.0,2.0,2005-2006,73d5190d,Almeria,"1,234",13.7,4.0,0.0,65.0,1.0,4577.0,Almeria
-,Jaime Ramos,es ESP,MF,13,9,0.0,1.0,2005-2006,0efbd49c,Almeria,786,8.7,3.0,0.0,65.0,1.0,,Almeria
-,Ricardo Varela,,,16,9,0.0,1.0,2005-2006,,Almeria,696,7.7,1.0,0.0,65.0,,,Almeria
-,Miguel Ángel Soria,es ESP,DF,8,7,0.0,0.0,2005-2006,22ab6697,Almeria,649,7.2,2.0,0.0,65.0,1.0,4591.0,Almeria
-,Martín Vellisca,es ESP,MF,16,4,2.0,0.0,2005-2006,d859d8c2,Almeria,533,5.9,0.0,0.0,65.0,1.0,,Almeria
-,Juan Cervián,es ESP,DF,5,4,0.0,0.0,2005-2006,5cc15685,Almeria,405,4.5,1.0,0.0,65.0,1.0,4569.0,Almeria
-,Antoni Velamazán,es ESP,,13,3,0.0,0.0,2005-2006,303264be,Almeria,380,4.2,1.0,0.0,65.0,1.0,,Almeria
-,Carlos Sánchez,es ESP,GK,3,3,0.0,0.0,2005-2006,8b7d33d9,Almeria,270,3.0,0.0,0.0,65.0,1.0,4599.0,Almeria
-,Molo,es ESP,DF,4,2,0.0,0.0,2005-2006,2d49a46b,Almeria,177,2.0,0.0,0.0,65.0,1.0,4600.0,Almeria
-,Marc Francoli,,,5,1,0.0,0.0,2005-2006,,Almeria,151,1.7,1.0,0.0,65.0,,,Almeria
-,Jorge Pelegrina,es ESP,DF,1,1,0.0,0.0,2005-2006,5a0f45d,Almeria,74,0.8,1.0,0.0,65.0,1.0,4601.0,Almeria
-,﻿Bruno,es ESP,DF,36,35,3.0,0.0,2006-2007,78803d03,Almeria,"3,135",34.8,12.0,2.0,65.0,1.0,,Almeria
-,Mané,es ESP,"DF,MF",35,34,5.0,0.0,2006-2007,6b015a27,Almeria,"2,962",32.9,7.0,3.0,65.0,1.0,,Almeria
-,Sander Westerveld,nl NED,GK,34,33,0.0,0.0,2006-2007,dc8d38a2,Almeria,"3,044",33.8,6.0,1.0,65.0,11.0,192.0,Almeria
-,Santiago Acasiete,pe PER,DF,33,33,1.0,3.0,2006-2007,39168d69,Almeria,"2,841",31.6,8.0,2.0,65.0,57.0,4592.0,Almeria
-,Corona,es ESP,MF,40,33,7.0,6.0,2006-2007,4798bc33,Almeria,"2,629",29.2,5.0,1.0,65.0,1.0,,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",36,31,7.0,10.0,2006-2007,60393076,Almeria,"2,828",31.4,9.0,1.0,65.0,1.0,4576.0,Almeria
-,Carlos García,es ESP,DF,32,31,0.0,0.0,2006-2007,2f21a57c,Almeria,"2,734",30.4,12.0,0.0,65.0,1.0,,Almeria
-,Albert Crusat,es ESP,"FW,MF",34,30,6.0,11.0,2006-2007,ba027002,Almeria,"2,751",30.6,13.0,2.0,65.0,1.0,,Almeria
-,José Cabrera,es ESP,MF,31,29,2.0,0.0,2006-2007,c7bf7830,Almeria,"2,353",26.1,10.0,1.0,65.0,1.0,,Almeria
-,Míchel,es ESP,FW,34,29,4.0,12.0,2006-2007,5f68b183,Almeria,"2,050",22.8,2.0,0.0,65.0,1.0,,Almeria
-,Fernando Soriano,es ESP,MF,22,19,4.0,2.0,2006-2007,1aa72854,Almeria,"1,752",19.5,7.0,1.0,65.0,1.0,,Almeria
-,Kalu Uche,ng NGA,"FW,MF",28,18,1.0,8.0,2006-2007,6cc97b1d,Almeria,"1,578",17.5,1.0,0.0,65.0,52.0,,Almeria
-,Alberto,es ESP,MF,27,17,1.0,1.0,2006-2007,cbd5eb5f,Almeria,"1,710",19.0,4.0,0.0,65.0,1.0,4602.0,Almeria
-,Gorka Larrea,es ESP,MF,28,15,1.0,2.0,2006-2007,242e09b6,Almeria,"1,421",15.8,6.0,1.0,65.0,1.0,,Almeria
-,Domingo Cisma,es ESP,DF,20,14,0.0,1.0,2006-2007,4d85b73c,Almeria,"1,219",13.5,5.0,1.0,65.0,1.0,,Almeria
-,Mario Bermejo,es ESP,FW,32,12,5.0,5.0,2006-2007,c8dcfee8,Almeria,"1,337",14.9,7.0,1.0,65.0,1.0,,Almeria
-,Pedro Mairata,es ESP,DF,15,11,0.0,0.0,2006-2007,de9e9405,Almeria,987,11.0,4.0,2.0,65.0,1.0,,Almeria
-,Joaquín Valerio,es ESP,GK,8,8,0.0,0.0,2006-2007,5969d90a,Almeria,720,8.0,1.0,0.0,65.0,1.0,4584.0,Almeria
-,Laurent de Palmas,fr FRA,DF,15,7,2.0,0.0,2006-2007,bd537175,Almeria,693,7.7,5.0,1.0,65.0,4.0,4603.0,Almeria
-,Rodri,es ESP,DF,11,7,0.0,0.0,2006-2007,7fa4aa89,Almeria,662,7.4,3.0,1.0,65.0,1.0,,Almeria
-,José María Mena,es ESP,FW,16,6,1.0,2.0,2006-2007,bc2150cb,Almeria,598,6.6,4.0,0.0,65.0,1.0,,Almeria
-,Francisco,es ESP,FW,13,5,0.0,2.0,2006-2007,20ba95,Almeria,535,5.9,1.0,0.0,65.0,1.0,,Almeria
-,David Bermudo,es ESP,DF,6,3,0.0,0.0,2006-2007,1066df99,Almeria,352,3.9,2.0,0.0,65.0,1.0,4598.0,Almeria
-,Ricardo Molina,es ESP,GK,1,1,0.0,0.0,2006-2007,514355f2,Almeria,6,0.1,0.0,1.0,65.0,1.0,4597.0,Almeria
-,﻿Mané,es ESP,"DF,MF",36,36,4.0,2.0,2007-2008,6b015a27,Almeria,"3,144",34.9,9.0,0.0,65.0,1.0,,Almeria
-,Carlos García,es ESP,DF,35,35,0.0,0.0,2007-2008,2f21a57c,Almeria,"3,150",35.0,11.0,0.0,65.0,1.0,,Almeria
-,Bruno,es ESP,DF,34,34,1.0,0.0,2007-2008,78803d03,Almeria,"2,901",32.2,11.0,0.0,65.0,1.0,,Almeria
-,Álvaro Negredo,es ESP,FW,36,34,3.0,12.0,2007-2008,63b0ca6b,Almeria,"2,843",31.6,3.0,0.0,65.0,1.0,,Almeria
-,Juan Manuel Ortiz,es ESP,"DF,MF",35,32,1.0,3.0,2007-2008,77513881,Almeria,"2,498",27.8,10.0,0.0,65.0,1.0,,Almeria
-,Albert Crusat,es ESP,"FW,MF",34,31,3.0,3.0,2007-2008,ba027002,Almeria,"2,687",29.9,9.0,2.0,65.0,1.0,,Almeria
-,Felipe Melo,br BRA,"DF,MF",34,30,0.0,7.0,2007-2008,b14d84d3,Almeria,"2,590",28.8,13.0,0.0,65.0,2.0,,Almeria
-,Juanito,es ESP,"DF,MF",31,28,0.0,1.0,2007-2008,47176127,Almeria,"2,229",24.8,9.0,1.0,65.0,1.0,,Almeria
-,Fernando Soriano,es ESP,MF,34,26,1.0,2.0,2007-2008,1aa72854,Almeria,"2,209",24.5,10.0,0.0,65.0,1.0,,Almeria
-,Rubén Pulido,es ESP,DF,26,24,0.0,3.0,2007-2008,3a8be98c,Almeria,"2,147",23.9,10.0,1.0,65.0,1.0,,Almeria
-,Diego Alves,br BRA,GK,22,21,0.0,0.0,2007-2008,12421a7c,Almeria,"1,957",21.7,3.0,0.0,65.0,2.0,,Almeria
-,Corona,es ESP,MF,32,21,4.0,1.0,2007-2008,4798bc33,Almeria,"1,942",21.6,5.0,0.0,65.0,1.0,,Almeria
-,David Cobeño,es ESP,GK,17,17,0.0,0.0,2007-2008,df7b0840,Almeria,"1,463",16.3,3.0,1.0,65.0,1.0,,Almeria
-,Santiago Acasiete,pe PER,DF,20,17,0.0,2.0,2007-2008,39168d69,Almeria,"1,373",15.3,3.0,1.0,65.0,57.0,4592.0,Almeria
-,Kalu Uche,ng NGA,"FW,MF",30,10,1.0,3.0,2007-2008,6cc97b1d,Almeria,"1,091",12.1,1.0,0.0,65.0,52.0,,Almeria
-,Domingo Cisma,es ESP,DF,11,9,0.0,0.0,2007-2008,4d85b73c,Almeria,764,8.5,3.0,1.0,65.0,1.0,,Almeria
-,López Rekarte,es ESP,DF,10,4,0.0,0.0,2007-2008,346b3104,Almeria,584,6.5,2.0,0.0,65.0,1.0,191.0,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",21,3,1.0,0.0,2007-2008,60393076,Almeria,624,6.9,0.0,0.0,65.0,1.0,4576.0,Almeria
-,Natalio,es ESP,FW,13,2,0.0,0.0,2007-2008,239425b9,Almeria,424,4.7,0.0,0.0,65.0,1.0,,Almeria
-,Iriney,br BRA,MF,8,2,0.0,0.0,2007-2008,09296fcc,Almeria,286,3.2,0.0,0.0,65.0,2.0,,Almeria
-,Veljko Paunović,es ESP,"FW,MF",7,1,0.0,2.0,2007-2008,7d0ae66f,Almeria,202,2.2,1.0,1.0,65.0,1.0,,Almeria
-,José Cabrera,es ESP,MF,3,1,0.0,0.0,2007-2008,c7bf7830,Almeria,115,1.3,0.0,0.0,65.0,1.0,,Almeria
-,Guilherme Santos,br BRA,"DF,MF",2,0,0.0,0.0,2007-2008,ffd78d3d,Almeria,34,0.4,0.0,0.0,65.0,2.0,4604.0,Almeria
-,﻿Bruno,es ESP,DF,34,34,2.0,0.0,2008-2009,78803d03,Almeria,"2,988",33.2,7.0,1.0,65.0,1.0,,Almeria
-,Álvaro Negredo,es ESP,FW,34,34,5.0,19.0,2008-2009,63b0ca6b,Almeria,"2,811",31.2,8.0,2.0,65.0,1.0,,Almeria
-,Mané,es ESP,"DF,MF",32,31,3.0,1.0,2008-2009,6b015a27,Almeria,"2,830",31.4,8.0,1.0,65.0,1.0,,Almeria
-,Diego Alves,br BRA,GK,31,31,0.0,0.0,2008-2009,12421a7c,Almeria,"2,790",31.0,3.0,0.0,65.0,2.0,,Almeria
-,Juan Manuel Ortiz,es ESP,"DF,MF",32,31,1.0,4.0,2008-2009,77513881,Almeria,"2,351",26.1,7.0,0.0,65.0,1.0,,Almeria
-,Hernán Pellerano,ar ARG,DF,31,30,0.0,1.0,2008-2009,027f513e,Almeria,"2,676",29.7,8.0,2.0,65.0,5.0,4605.0,Almeria
-,Juanito,es ESP,"DF,MF",30,27,0.0,0.0,2008-2009,47176127,Almeria,"2,201",24.5,7.0,0.0,65.0,1.0,,Almeria
-,Albert Crusat,es ESP,"FW,MF",30,24,5.0,1.0,2008-2009,ba027002,Almeria,"2,082",23.1,9.0,1.0,65.0,1.0,,Almeria
-,Pablo Piatti,ar ARG,"FW,MF",31,19,0.0,5.0,2008-2009,48e89655,Almeria,"1,680",18.7,1.0,0.0,65.0,5.0,,Almeria
-,Carlos García,es ESP,DF,19,18,0.0,0.0,2008-2009,2f21a57c,Almeria,"1,601",17.8,10.0,0.0,65.0,1.0,,Almeria
-,Kalu Uche,ng NGA,"FW,MF",27,17,1.0,8.0,2008-2009,6cc97b1d,Almeria,"1,644",18.3,2.0,2.0,65.0,52.0,,Almeria
-,Julio Álvarez,ve VEN,MF,21,17,0.0,0.0,2008-2009,17b1a0ee,Almeria,"1,615",17.9,1.0,0.0,65.0,53.0,,Almeria
-,Santiago Acasiete,pe PER,DF,17,17,0.0,1.0,2008-2009,39168d69,Almeria,"1,507",16.7,3.0,0.0,65.0,57.0,4592.0,Almeria
-,Fernando Soriano,es ESP,MF,24,17,1.0,1.0,2008-2009,1aa72854,Almeria,"1,447",16.1,6.0,0.0,65.0,1.0,,Almeria
-,Iriney,br BRA,MF,18,17,0.0,0.0,2008-2009,09296fcc,Almeria,"1,436",16.0,6.0,0.0,65.0,2.0,,Almeria
-,Corona,es ESP,MF,30,16,0.0,1.0,2008-2009,4798bc33,Almeria,"1,485",16.5,3.0,0.0,65.0,1.0,,Almeria
-,Chico,es ESP,DF,20,15,1.0,1.0,2008-2009,95825cf2,Almeria,"1,358",15.1,3.0,1.0,65.0,1.0,,Almeria
-,Esteban,es ESP,GK,7,7,0.0,0.0,2008-2009,4fc2638,Almeria,630,7.0,1.0,0.0,65.0,1.0,,Almeria
-,Guilherme Santos,br BRA,"DF,MF",7,6,0.0,0.0,2008-2009,ffd78d3d,Almeria,486,5.4,3.0,1.0,65.0,2.0,4604.0,Almeria
-,Miguel Ángel Nieto,es ESP,MF,10,4,0.0,1.0,2008-2009,3a935b70,Almeria,372,4.1,1.0,0.0,65.0,1.0,60.0,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",25,3,1.0,0.0,2008-2009,60393076,Almeria,725,8.1,2.0,1.0,65.0,1.0,4576.0,Almeria
-,Esteban Solari,ar ARG,FW,8,2,0.0,1.0,2008-2009,6f02b56b,Almeria,228,2.5,0.0,0.0,65.0,5.0,4606.0,Almeria
-,Michel,br BRA,DF,2,1,0.0,0.0,2008-2009,05384ea1,Almeria,61,0.7,0.0,0.0,65.0,2.0,4607.0,Almeria
-,Natalio,es ESP,FW,9,0,0.0,0.0,2008-2009,239425b9,Almeria,202,2.2,1.0,0.0,65.0,1.0,,Almeria
-,﻿Diego Alves,br BRA,GK,37,37,0.0,0.0,2009-2010,12421a7c,Almeria,"3,302",36.7,3.0,1.0,65.0,2.0,,Almeria
-,Hernán Bernardello,ar ARG,MF,35,35,2.0,0.0,2009-2010,dec04537,Almeria,"3,033",33.7,11.0,0.0,65.0,5.0,,Almeria
-,Fernando Soriano,es ESP,MF,35,33,2.0,7.0,2009-2010,1aa72854,Almeria,"2,864",31.8,12.0,0.0,65.0,1.0,,Almeria
-,Santiago Acasiete,pe PER,DF,31,31,1.0,0.0,2009-2010,39168d69,Almeria,"2,735",30.4,7.0,0.0,65.0,57.0,4592.0,Almeria
-,Albert Crusat,es ESP,"FW,MF",33,31,4.0,7.0,2009-2010,ba027002,Almeria,"2,591",28.8,13.0,0.0,65.0,1.0,,Almeria
-,Domingo Cisma,es ESP,DF,33,29,1.0,3.0,2009-2010,4d85b73c,Almeria,"2,590",28.8,9.0,0.0,65.0,1.0,,Almeria
-,Pablo Piatti,ar ARG,"FW,MF",35,28,2.0,6.0,2009-2010,48e89655,Almeria,"2,488",27.6,7.0,1.0,65.0,5.0,,Almeria
-,Modeste M'bami,cm CMR,MF,28,28,0.0,0.0,2009-2010,82ec2963,Almeria,"2,391",26.6,7.0,0.0,65.0,36.0,4608.0,Almeria
-,Michel,br BRA,DF,28,28,1.0,1.0,2009-2010,05384ea1,Almeria,"2,362",26.2,3.0,0.0,65.0,2.0,4607.0,Almeria
-,Chico,es ESP,DF,27,27,0.0,0.0,2009-2010,95825cf2,Almeria,"2,326",25.8,6.0,2.0,65.0,1.0,,Almeria
-,Juan Manuel Ortiz,es ESP,"DF,MF",34,23,2.0,2.0,2009-2010,77513881,Almeria,"2,099",23.3,8.0,2.0,65.0,1.0,,Almeria
-,Kalu Uche,ng NGA,"FW,MF",28,21,2.0,9.0,2009-2010,6cc97b1d,Almeria,"2,042",22.7,1.0,0.0,65.0,52.0,,Almeria
-,Hernán Pellerano,ar ARG,DF,19,17,0.0,0.0,2009-2010,027f513e,Almeria,"1,548",17.2,2.0,0.0,65.0,5.0,4605.0,Almeria
-,Corona,es ESP,MF,22,13,2.0,1.0,2009-2010,4798bc33,Almeria,"1,223",13.6,3.0,0.0,65.0,1.0,,Almeria
-,Henok Goitom,er ERI,FW,21,11,1.0,1.0,2009-2010,c3680236,Almeria,"1,039",11.5,1.0,0.0,65.0,91.0,,Almeria
-,Guilherme Santos,br BRA,"DF,MF",15,11,0.0,1.0,2009-2010,ffd78d3d,Almeria,"1,004",11.2,2.0,1.0,65.0,2.0,4604.0,Almeria
-,Fabián Vargas,co COL,MF,10,6,0.0,0.0,2009-2010,37a8a372,Almeria,465,5.2,1.0,0.0,65.0,19.0,4609.0,Almeria
-,Miguel Ángel Nieto,es ESP,MF,14,3,0.0,0.0,2009-2010,3a935b70,Almeria,418,4.6,1.0,0.0,65.0,1.0,60.0,Almeria
-,David Rodríguez,es ESP,FW,9,2,0.0,1.0,2009-2010,bae862bf,Almeria,231,2.6,0.0,0.0,65.0,1.0,,Almeria
-,Leonardo Borzani,ar ARG,MF,3,2,0.0,0.0,2009-2010,c61d56c1,Almeria,182,2.0,1.0,0.0,65.0,5.0,4610.0,Almeria
-,Esteban,es ESP,GK,2,1,0.0,0.0,2009-2010,4fc2638,Almeria,118,1.3,0.0,0.0,65.0,1.0,,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",16,0,1.0,1.0,2009-2010,60393076,Almeria,227,2.5,1.0,0.0,65.0,1.0,4576.0,Almeria
-,Esteban Solari,ar ARG,FW,2,0,0.0,0.0,2009-2010,6f02b56b,Almeria,26,0.3,0.0,0.0,65.0,5.0,4606.0,Almeria
-,Álex Quillo,es ESP,MF,1,0,,0.0,2009-2010,3110aa90,Almeria,16,0.2,0.0,0.0,65.0,1.0,,Almeria
-,﻿Pablo Piatti,ar ARG,"FW,MF",35,34,4.0,8.0,2010-2011,48e89655,Almeria,"2,929",32.5,7.0,0.0,65.0,5.0,,Almeria
-,Diego Alves,br BRA,GK,33,33,0.0,0.0,2010-2011,12421a7c,Almeria,"2,970",33.0,5.0,0.0,65.0,2.0,,Almeria
-,Carlos García,es ESP,DF,33,33,0.0,1.0,2010-2011,2f21a57c,Almeria,"2,942",32.7,8.0,1.0,65.0,1.0,,Almeria
-,Hernán Bernardello,ar ARG,MF,33,33,3.0,1.0,2010-2011,dec04537,Almeria,"2,843",31.6,11.0,0.0,65.0,5.0,,Almeria
-,Michel,br BRA,DF,31,30,1.0,0.0,2010-2011,05384ea1,Almeria,"2,646",29.4,6.0,0.0,65.0,2.0,4607.0,Almeria
-,Albert Crusat,es ESP,"FW,MF",34,30,7.0,3.0,2010-2011,ba027002,Almeria,"2,539",28.2,5.0,0.0,65.0,1.0,,Almeria
-,Modeste M'bami,cm CMR,MF,30,28,1.0,1.0,2010-2011,82ec2963,Almeria,"2,476",27.5,7.0,0.0,65.0,36.0,4608.0,Almeria
-,Kalu Uche,ng NGA,"FW,MF",32,26,3.0,7.0,2010-2011,6cc97b1d,Almeria,"2,213",24.6,3.0,0.0,65.0,52.0,,Almeria
-,Juan Manuel Ortiz,es ESP,"DF,MF",26,24,1.0,1.0,2010-2011,77513881,Almeria,"2,126",23.6,12.0,0.0,65.0,1.0,,Almeria
-,Marcelo Silva,uy URU,DF,21,21,1.0,1.0,2010-2011,b9596515,Almeria,"1,840",20.4,3.0,0.0,65.0,8.0,,Almeria
-,Corona,es ESP,MF,30,21,1.0,2.0,2010-2011,4798bc33,Almeria,"1,717",19.1,2.0,0.0,65.0,1.0,,Almeria
-,Santiago Acasiete,pe PER,DF,20,17,0.0,0.0,2010-2011,39168d69,Almeria,"1,598",17.8,4.0,0.0,65.0,57.0,4592.0,Almeria
-,Leonardo Ulloa,ar ARG,FW,34,16,0.0,7.0,2010-2011,d56f6c,Almeria,"1,766",19.6,8.0,1.0,65.0,5.0,,Almeria
-,Michael Jakobsen,dk DEN,DF,16,14,1.0,0.0,2010-2011,9135fc2e,Almeria,"1,201",13.3,4.0,1.0,65.0,7.0,4611.0,Almeria
-,Antonio Luna,es ESP,DF,13,13,1.0,0.0,2010-2011,d239245,Almeria,"1,167",13.0,3.0,1.0,65.0,1.0,,Almeria
-,Fabián Vargas,co COL,MF,20,12,0.0,1.0,2010-2011,37a8a372,Almeria,"1,086",12.1,8.0,0.0,65.0,19.0,4609.0,Almeria
-,Henok Goitom,er ERI,FW,26,8,1.0,1.0,2010-2011,c3680236,Almeria,865,9.6,0.0,0.0,65.0,91.0,,Almeria
-,Hernán Pellerano,ar ARG,DF,8,7,0.0,0.0,2010-2011,027f513e,Almeria,611,6.8,2.0,0.0,65.0,5.0,4605.0,Almeria
-,Juanito,es ESP,"DF,MF",9,5,0.0,0.0,2010-2011,47176127,Almeria,487,5.4,1.0,0.0,65.0,1.0,,Almeria
-,Esteban,es ESP,GK,5,5,0.0,0.0,2010-2011,4fc2638,Almeria,450,5.0,0.0,0.0,65.0,1.0,,Almeria
-,Sofiane Feghouli,dz ALG,"FW,MF",9,4,0.0,2.0,2010-2011,691f64f5,Almeria,345,3.8,0.0,0.0,65.0,37.0,,Almeria
-,Diego Valeri,ar ARG,"FW,MF",9,2,0.0,0.0,2010-2011,31da63ad,Almeria,273,3.0,1.0,0.0,65.0,5.0,4612.0,Almeria
-,Lillo,es ESP,DF,2,1,0.0,0.0,2010-2011,476ca810,Almeria,116,1.3,1.0,0.0,65.0,1.0,,Almeria
-,Baltasar Rigo,es ESP,DF,1,1,0.0,0.0,2010-2011,b80570db,Almeria,90,1.0,0.0,0.0,65.0,1.0,,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",15,0,2.0,0.0,2010-2011,60393076,Almeria,252,2.8,0.0,0.0,65.0,1.0,4576.0,Almeria
-,Miguel Ángel Nieto,es ESP,MF,1,0,0.0,0.0,2010-2011,3a935b70,Almeria,4,0.0,0.0,0.0,65.0,1.0,60.0,Almeria
-,﻿Esteban,es ESP,GK,42,42,0.0,0.0,2011-2012,4fc2638,Almeria,"3,780",42.0,3.0,0.0,65.0,1.0,,Almeria
-,Aleix Vidal,es ESP,"DF,MF",41,41,6.0,5.0,2011-2012,04965583,Almeria,"3,551",39.5,5.0,0.0,65.0,1.0,,Almeria
-,Michael Jakobsen,dk DEN,DF,38,38,2.0,1.0,2011-2012,9135fc2e,Almeria,"3,368",37.4,9.0,0.0,65.0,7.0,4611.0,Almeria
-,Leonardo Ulloa,ar ARG,FW,38,38,2.0,28.0,2011-2012,d56f6c,Almeria,"3,157",35.1,8.0,2.0,65.0,5.0,,Almeria
-,Carlos García,es ESP,DF,37,37,0.0,0.0,2011-2012,2f21a57c,Almeria,"3,330",37.0,15.0,0.0,65.0,1.0,,Almeria
-,Rafita,es ESP,DF,35,34,0.0,1.0,2011-2012,631f177b,Almeria,"2,870",31.9,10.0,0.0,65.0,1.0,,Almeria
-,Verza,es ESP,MF,38,32,4.0,1.0,2011-2012,f972b073,Almeria,"2,791",31.0,10.0,1.0,65.0,1.0,,Almeria
-,Fernando Soriano,es ESP,MF,34,32,4.0,4.0,2011-2012,1aa72854,Almeria,"2,689",29.9,12.0,0.0,65.0,1.0,,Almeria
-,Corona,es ESP,MF,41,31,7.0,3.0,2011-2012,4798bc33,Almeria,"2,770",30.8,9.0,0.0,65.0,1.0,,Almeria
-,Hernán Bernardello,ar ARG,MF,32,26,1.0,1.0,2011-2012,dec04537,Almeria,"2,300",25.6,9.0,2.0,65.0,5.0,,Almeria
-,Dani Bautista,es ESP,DF,23,23,0.0,1.0,2011-2012,135b0a5e,Almeria,"2,051",22.8,5.0,0.0,65.0,1.0,,Almeria
-,Michel,br BRA,DF,22,20,1.0,0.0,2011-2012,05384ea1,Almeria,"1,830",20.3,5.0,0.0,65.0,2.0,4607.0,Almeria
-,Henok Goitom,er ERI,FW,31,18,5.0,6.0,2011-2012,c3680236,Almeria,"1,771",19.7,4.0,0.0,65.0,91.0,,Almeria
-,Santiago Acasiete,pe PER,DF,20,16,0.0,1.0,2011-2012,39168d69,Almeria,"1,421",15.8,2.0,0.0,65.0,57.0,4592.0,Almeria
-,Juan Manuel Ortiz,es ESP,"DF,MF",16,15,0.0,4.0,2011-2012,77513881,Almeria,"1,354",15.0,6.0,0.0,65.0,1.0,,Almeria
-,Aarón Ñíguez,es ESP,"FW,MF",30,10,1.0,3.0,2011-2012,5d720396,Almeria,"1,052",11.7,3.0,0.0,65.0,1.0,,Almeria
-,José Ortiz Bernal,es ESP,"FW,MF",10,4,0.0,1.0,2011-2012,60393076,Almeria,347,3.9,0.0,0.0,65.0,1.0,4576.0,Almeria
-,Marcelo Silva,uy URU,DF,2,2,0.0,0.0,2011-2012,b9596515,Almeria,128,1.4,1.0,1.0,65.0,8.0,,Almeria
-,Jonathan Zongo,bf BFA,"FW,MF",14,1,0.0,2.0,2011-2012,5dbef51,Almeria,340,3.8,1.0,0.0,65.0,62.0,4613.0,Almeria
-,Abel Molinero,es ESP,MF,4,1,1.0,0.0,2011-2012,f61a9135,Almeria,179,2.0,1.0,0.0,65.0,1.0,,Almeria
-,Ángel Trujillo,es ESP,DF,2,1,0.0,0.0,2011-2012,08011c9c,Almeria,88,1.0,1.0,0.0,65.0,1.0,,Almeria
-,Pablo Pallarès,es ESP,FW,11,0,0.0,0.0,2011-2012,c639b414,Almeria,146,1.6,1.0,0.0,65.0,1.0,4614.0,Almeria
-,Omar Ramos,es ESP,"FW,MF",8,0,0.0,0.0,2011-2012,0657888a,Almeria,129,1.4,1.0,0.0,65.0,1.0,,Almeria
-,Alberto Martín,es ESP,MF,1,0,0.0,0.0,2011-2012,805293e0,Almeria,7,0.1,0.0,0.0,65.0,1.0,,Almeria
-,Antonio García Márquez,es ESP,MF,1,0,0.0,0.0,2011-2012,829f905f,Almeria,2,0.0,0.0,0.0,65.0,1.0,4616.0,Almeria
-,﻿Esteban,es ESP,GK,42,42,0.0,0.0,2012-2013,4fc2638,Almeria,"3,780",42.0,1.0,0.0,65.0,1.0,,Almeria
-,Verza,es ESP,MF,40,40,4.0,2.0,2012-2013,f972b073,Almeria,"3,564",39.6,11.0,0.0,65.0,1.0,,Almeria
-,Charles,br BRA,FW,40,36,4.0,27.0,2012-2013,c4b8bcf4,Almeria,"3,245",36.1,8.0,0.0,65.0,2.0,,Almeria
-,Fernando Soriano,es ESP,MF,39,36,2.0,12.0,2012-2013,1aa72854,Almeria,"3,121",34.7,13.0,1.0,65.0,1.0,,Almeria
-,Christian,es ESP,DF,32,32,6.0,6.0,2012-2013,1d5a68fe,Almeria,"2,793",31.0,9.0,0.0,65.0,1.0,,Almeria
-,Aleix Vidal,es ESP,"DF,MF",37,30,7.0,4.0,2012-2013,04965583,Almeria,"2,590",28.8,2.0,0.0,65.0,1.0,,Almeria
-,Corona,es ESP,MF,33,30,3.0,4.0,2012-2013,4798bc33,Almeria,"2,368",26.3,7.0,0.0,65.0,1.0,,Almeria
-,Ángel Trujillo,es ESP,DF,27,25,0.0,0.0,2012-2013,08011c9c,Almeria,"2,284",25.4,3.0,0.0,65.0,1.0,,Almeria
-,Hernán Pellerano,ar ARG,DF,24,24,0.0,1.0,2012-2013,027f513e,Almeria,"2,120",23.6,6.0,2.0,65.0,5.0,4605.0,Almeria
-,Adrián Gunino,uy URU,DF,23,22,2.0,0.0,2012-2013,05652d7c,Almeria,"1,991",22.1,6.0,0.0,65.0,8.0,4617.0,Almeria
-,Rafita,es ESP,DF,22,22,4.0,0.0,2012-2013,631f177b,Almeria,"1,969",21.9,9.0,0.0,65.0,1.0,,Almeria
-,Álvaro Mejía,es ESP,DF,22,19,0.0,1.0,2012-2013,dd3f6a54,Almeria,"1,755",19.5,5.0,0.0,65.0,1.0,25.0,Almeria
-,Marcelo Silva,uy URU,DF,20,19,0.0,1.0,2012-2013,b9596515,Almeria,"1,679",18.7,4.0,1.0,65.0,8.0,,Almeria
-,Carlos Calvo,es ESP,MF,32,17,1.0,2.0,2012-2013,444d33f,Almeria,"1,478",16.4,2.0,0.0,65.0,1.0,,Almeria
-,Iago Falque,es ESP,"FW,MF",18,17,5.0,2.0,2012-2013,440c84ed,Almeria,"1,338",14.9,2.0,0.0,65.0,1.0,,Almeria
-,Aarón Ñíguez,es ESP,"FW,MF",17,12,3.0,1.0,2012-2013,5d720396,Almeria,"1,088",12.1,5.0,0.0,65.0,1.0,,Almeria
-,Leonardo Ulloa,ar ARG,FW,18,10,1.0,4.0,2012-2013,d56f6c,Almeria,902,10.0,3.0,0.0,65.0,5.0,,Almeria
-,Jonathan Zongo,bf BFA,"FW,MF",25,9,4.0,1.0,2012-2013,5dbef51,Almeria,992,11.0,4.0,0.0,65.0,62.0,4613.0,Almeria
-,Javier Casquero,es ESP,MF,14,9,0.0,1.0,2012-2013,b6daa16,Almeria,832,9.2,2.0,0.0,65.0,1.0,,Almeria
-,Raúl García,es ESP,DF,8,8,0.0,1.0,2012-2013,1a317a1b,Almeria,720,8.0,0.0,0.0,65.0,1.0,,Almeria
-,Miguel Pallardó,es ESP,MF,10,2,0.0,0.0,2012-2013,6c3dfe68,Almeria,247,2.7,4.0,0.0,65.0,1.0,,Almeria
-,Rubén Suárez,es ESP,MF,18,1,0.0,1.0,2012-2013,ddc6eca,Almeria,293,3.3,5.0,0.0,65.0,1.0,,Almeria
-,Chumbi,,,12,0,0.0,1.0,2012-2013,0119a54c,Almeria,170,1.9,0.0,0.0,65.0,,,Almeria
-,Abel Molinero,es ESP,MF,8,0,0.0,0.0,2012-2013,f61a9135,Almeria,135,1.5,0.0,0.0,65.0,1.0,,Almeria
-,Ramon Azeez,ng NGA,MF,2,0,0.0,0.0,2012-2013,0cc474e7,Almeria,11,0.1,1.0,0.0,65.0,52.0,4618.0,Almeria
-,Joselu,es ESP,"FW,MF",1,0,0.0,0.0,2012-2013,8f7dd1d2,Almeria,3,0.0,0.0,0.0,65.0,1.0,4619.0,Almeria
-,﻿Esteban,es ESP,GK,38,38,0.0,0.0,2013-2014,4fc2638,Almeria,"3,420",38.0,2.0,0.0,65.0,1.0,,Almeria
-,Ángel Trujillo,es ESP,DF,36,36,0.0,1.0,2013-2014,08011c9c,Almeria,"3,240",36.0,6.0,0.0,65.0,1.0,,Almeria
-,Aleix Vidal,es ESP,"DF,MF",38,36,3.0,6.0,2013-2014,04965583,Almeria,"3,070",34.1,3.0,0.0,65.0,1.0,,Almeria
-,Verza,es ESP,MF,34,34,3.0,8.0,2013-2014,f972b073,Almeria,"2,921",32.5,11.0,0.0,65.0,1.0,,Almeria
-,Marco Torsiglieri,ar ARG,"DF,MF",27,26,0.0,1.0,2013-2014,6013af3e,Almeria,"2,369",26.3,5.0,1.0,65.0,5.0,4620.0,Almeria
-,Sebastián Dubarbier,ar ARG,"DF,FW",27,26,0.0,1.0,2013-2014,83877c7c,Almeria,"2,297",25.5,11.0,1.0,65.0,5.0,,Almeria
-,Suso,es ESP,"FW,MF",33,26,7.0,3.0,2013-2014,4e219ad2,Almeria,"2,253",25.0,9.0,1.0,65.0,1.0,,Almeria
-,Rafita,es ESP,DF,26,24,3.0,0.0,2013-2014,631f177b,Almeria,"2,227",24.7,4.0,1.0,65.0,1.0,,Almeria
-,Fernando Soriano,es ESP,MF,35,24,4.0,4.0,2013-2014,1aa72854,Almeria,"1,872",20.8,7.0,0.0,65.0,1.0,,Almeria
-,Ramon Azeez,ng NGA,MF,30,21,0.0,2.0,2013-2014,0cc474e7,Almeria,"2,054",22.8,5.0,0.0,65.0,52.0,4618.0,Almeria
-,Rodri,es ESP,FW,27,21,2.0,8.0,2013-2014,5200dce9,Almeria,"1,888",21.0,8.0,0.0,65.0,1.0,,Almeria
-,Marcos Tébar,es ESP,"DF,MF",25,16,1.0,0.0,2013-2014,1e806be7,Almeria,"1,469",16.3,5.0,0.0,65.0,1.0,77.0,Almeria
-,Nélson Marcos,pt POR,DF,14,14,1.0,0.0,2013-2014,d0d41afb,Almeria,"1,181",13.1,2.0,0.0,65.0,3.0,,Almeria
-,Óscar Díaz,es ESP,"FW,MF",30,13,0.0,4.0,2013-2014,5a5ed410,Almeria,"1,212",13.5,4.0,0.0,65.0,1.0,,Almeria
-,Hernán Pellerano,ar ARG,DF,13,13,0.0,0.0,2013-2014,027f513e,Almeria,"1,054",11.7,6.0,0.0,65.0,5.0,4605.0,Almeria
-,Corona,es ESP,MF,23,12,2.0,1.0,2013-2014,4798bc33,Almeria,"1,114",12.4,4.0,0.0,65.0,1.0,,Almeria
-,Jonathan Zongo,bf BFA,"FW,MF",18,11,2.0,1.0,2013-2014,5dbef51,Almeria,"1,141",12.7,1.0,0.0,65.0,62.0,4613.0,Almeria
-,Mané,es ESP,"DF,MF",9,8,0.0,0.0,2013-2014,6b015a27,Almeria,728,8.1,2.0,0.0,65.0,1.0,,Almeria
-,Hélder Barbosa,pt POR,"FW,MF",28,7,0.0,1.0,2013-2014,0fd942a,Almeria,986,11.0,2.0,0.0,65.0,3.0,4621.0,Almeria
-,Christian,es ESP,DF,4,4,0.0,0.0,2013-2014,1d5a68fe,Almeria,324,3.6,2.0,1.0,65.0,1.0,,Almeria
-,Fran Vélez,es ESP,"DF,MF",4,4,0.0,1.0,2013-2014,9d619e08,Almeria,253,2.8,0.0,0.0,65.0,1.0,,Almeria
-,Raúl García,es ESP,DF,5,2,0.0,0.0,2013-2014,1a317a1b,Almeria,176,2.0,0.0,0.0,65.0,1.0,,Almeria
-,Marcelo Silva,uy URU,DF,2,1,0.0,0.0,2013-2014,b9596515,Almeria,109,1.2,0.0,0.0,65.0,8.0,,Almeria
-,Hans Martínez,cl CHI,DF,1,1,0.0,0.0,2013-2014,75128a26,Almeria,90,1.0,0.0,0.0,65.0,31.0,4622.0,Almeria
-,Rubén Suárez,es ESP,MF,1,0,0.0,0.0,2013-2014,ddc6eca,Almeria,23,0.3,0.0,0.0,65.0,1.0,,Almeria
-,Dani Romera,es ESP,FW,1,0,0.0,0.0,2013-2014,b2855ce9,Almeria,21,0.2,0.0,0.0,65.0,1.0,,Almeria
-,Kiu,kr KOR,MF,2,0,0.0,0.0,2013-2014,d18372dd,Almeria,9,0.1,0.0,0.0,65.0,30.0,4623.0,Almeria
-,Hicham Khaloua,ma MAR,FW,1,0,0.0,1.0,2013-2014,f383d568,Almeria,4,0.0,0.0,0.0,65.0,26.0,4624.0,Almeria
-,﻿Ángel Trujillo,es ESP,DF,36,35,2.0,0.0,2014-2015,08011c9c,Almeria,"3,208",35.6,5.0,1.0,65.0,1.0,,Almeria
-,Verza,es ESP,MF,33,33,3.0,4.0,2014-2015,f972b073,Almeria,"2,844",31.6,10.0,0.0,65.0,1.0,,Almeria
-,Sebastián Dubarbier,ar ARG,"DF,FW",32,32,1.0,0.0,2014-2015,83877c7c,Almeria,"2,761",30.7,14.0,2.0,65.0,5.0,,Almeria
-,Ximo Navarro,es ESP,DF,28,28,2.0,0.0,2014-2015,8db394aa,Almeria,"2,405",26.7,5.0,0.0,65.0,1.0,,Almeria
-,Thomas Partey,gh GHA,MF,31,28,0.0,4.0,2014-2015,529f49ab,Almeria,"2,361",26.2,13.0,0.0,65.0,17.0,,Almeria
-,Mauro dos Santos,ar ARG,DF,29,27,0.0,1.0,2014-2015,c699fdd,Almeria,"2,296",25.5,7.0,2.0,65.0,5.0,,Almeria
-,Tomer Hemed,il ISR,FW,35,26,4.0,8.0,2014-2015,27d7453c,Almeria,"2,326",25.8,4.0,1.0,65.0,45.0,,Almeria
-,Rubén,es ESP,GK,23,23,0.0,0.0,2014-2015,24279b8b,Almeria,"2,070",23.0,2.0,0.0,65.0,1.0,,Almeria
-,Corona,es ESP,MF,31,23,0.0,0.0,2014-2015,4798bc33,Almeria,"2,025",22.5,4.0,0.0,65.0,1.0,,Almeria
-,Wellington Silva,br BRA,"FW,MF",31,23,3.0,0.0,2014-2015,5c60f49c,Almeria,"1,978",22.0,6.0,0.0,65.0,2.0,,Almeria
-,Edgar Mendez,es ESP,MF,30,21,1.0,4.0,2014-2015,f5e19d23,Almeria,"1,912",21.2,5.0,0.0,65.0,1.0,4625.0,Almeria
-,Thievy Bifouma,cg CGO,"FW,MF",29,21,1.0,4.0,2014-2015,5978dc3c,Almeria,"1,776",19.7,7.0,1.0,65.0,80.0,,Almeria
-,Jonathan Zongo,bf BFA,"FW,MF",27,16,1.0,2.0,2014-2015,5dbef51,Almeria,"1,565",17.4,3.0,0.0,65.0,62.0,4613.0,Almeria
-,Julián Cuesta,es ESP,GK,15,15,0.0,0.0,2014-2015,c7b52b90,Almeria,"1,350",15.0,2.0,0.0,65.0,1.0,,Almeria
-,Fran Vélez,es ESP,"DF,MF",17,14,1.0,0.0,2014-2015,9d619e08,Almeria,"1,213",13.5,4.0,1.0,65.0,1.0,,Almeria
-,Fernando Soriano,es ESP,MF,28,13,1.0,3.0,2014-2015,1aa72854,Almeria,"1,441",16.0,9.0,0.0,65.0,1.0,,Almeria
-,Michel,br BRA,DF,14,13,0.0,2.0,2014-2015,05384ea1,Almeria,"1,206",13.4,3.0,2.0,65.0,2.0,4607.0,Almeria
-,Ramon Azeez,ng NGA,MF,14,10,1.0,0.0,2014-2015,0cc474e7,Almeria,846,9.4,2.0,1.0,65.0,52.0,4618.0,Almeria
-,Javier Espinosa,es ESP,MF,15,8,0.0,1.0,2014-2015,8e08d88c,Almeria,718,8.0,3.0,0.0,65.0,1.0,,Almeria
-,José Manuel Casado,es ESP,DF,8,5,1.0,0.0,2014-2015,d0b6d20e,Almeria,415,4.6,4.0,0.0,65.0,1.0,,Almeria
-,Mané,es ESP,"DF,MF",5,3,0.0,0.0,2014-2015,6b015a27,Almeria,286,3.2,0.0,0.0,65.0,1.0,,Almeria
-,Antonio Marín,es ESP,DF,2,1,0.0,0.0,2014-2015,27383431,Almeria,125,1.4,0.0,0.0,65.0,1.0,4626.0,Almeria
-,Teerasil Dangda,th THA,FW,6,0,0.0,0.0,2014-2015,2e3697ce,Almeria,144,1.6,0.0,0.0,65.0,112.0,4627.0,Almeria
-,Dani Romera,es ESP,FW,5,0,0.0,0.0,2014-2015,b2855ce9,Almeria,61,0.7,0.0,0.0,65.0,1.0,,Almeria
-,Quique,es ESP,"FW,MF",3,0,0.0,0.0,2014-2015,c966fce1,Almeria,33,0.4,0.0,0.0,65.0,1.0,,Almeria
-,Carlos Selfa,es ESP,MF,1,0,0.0,0.0,2014-2015,162b5811,Almeria,32,0.4,0.0,0.0,65.0,1.0,4628.0,Almeria
-,Gaspar Panadero,es ESP,MF,1,0,0.0,0.0,2014-2015,39b011f1,Almeria,8,0.1,0.0,0.0,65.0,1.0,4629.0,Almeria
-,Yeray Gómez Ferragut,es ESP,GK,0,0,,,2014-2015,55059,Almeria,,,,,65.0,1.0,4630.0,Almeria
-,José Jurado,es ESP,MF,0,0,,,2014-2015,c19131c6,Almeria,,,,,65.0,1.0,4631.0,Almeria
-,Édgar Méndez,es ESP,"FW,MF",0,0,,,2014-2015,d746df,Almeria,,,,,65.0,1.0,,Almeria
-,Iván Sánchez,es ESP,MF,0,0,,,2014-2015,70107d4d,Almeria,,,,,65.0,1.0,,Almeria
-,Charlie Took,cm CMR,DF,0,0,,,2014-2015,9a7434c7,Almeria,,,,,65.0,36.0,,Almeria
-,﻿Quique,es ESP,"FW,MF",40,38,3.0,15.0,2015-2016,c966fce1,Almeria,"3,284",36.5,2.0,1.0,65.0,1.0,,Almeria
-,Casto,es ESP,GK,36,36,0.0,0.0,2015-2016,95b4ffb3,Almeria,"3,240",36.0,4.0,0.0,65.0,1.0,,Almeria
-,Jorge Morcillo,es ESP,DF,35,33,2.0,3.0,2015-2016,bbbf1dd,Almeria,"2,941",32.7,16.0,0.0,65.0,1.0,,Almeria
-,Lorenzo Reyes,cl CHI,MF,36,33,1.0,3.0,2015-2016,d47cd62c,Almeria,"2,826",31.4,14.0,1.0,65.0,31.0,,Almeria
-,Sebastián Dubarbier,ar ARG,"DF,FW",31,31,5.0,0.0,2015-2016,83877c7c,Almeria,"2,659",29.5,14.0,1.0,65.0,5.0,,Almeria
-,Michel,br BRA,DF,28,28,3.0,0.0,2015-2016,05384ea1,Almeria,"2,470",27.4,7.0,0.0,65.0,2.0,4607.0,Almeria
-,Fran Vélez,es ESP,"DF,MF",30,24,0.0,0.0,2015-2016,9d619e08,Almeria,"2,199",24.4,7.0,1.0,65.0,1.0,,Almeria
-,Ximo Navarro,es ESP,DF,24,23,0.0,1.0,2015-2016,8db394aa,Almeria,"2,087",23.2,6.0,0.0,65.0,1.0,,Almeria
-,Chuli,es ESP,"FW,MF",36,20,4.0,6.0,2015-2016,24efffbf,Almeria,"2,001",22.2,9.0,0.0,65.0,1.0,,Almeria
-,José Ángel,es ESP,MF,25,20,1.0,1.0,2015-2016,5dcba27f,Almeria,"1,885",20.9,9.0,0.0,65.0,1.0,4632.0,Almeria
-,José Jurado,es ESP,MF,25,20,,,2015-2016,c19131c6,Almeria,,,,,65.0,1.0,4631.0,Almeria
-,Esteban Saveljich,me MNE,DF,17,17,0.0,1.0,2015-2016,79f2a5f5,Almeria,"1,527",17.0,6.0,1.0,65.0,33.0,,Almeria
-,Iago Díaz,es ESP,MF,20,16,2.0,2.0,2015-2016,7cad0e34,Almeria,"1,454",16.2,4.0,0.0,65.0,1.0,4633.0,Almeria
-,Mohammed Fatau,gh GHA,MF,18,16,0.0,1.0,2015-2016,b4dd30a0,Almeria,"1,347",15.0,8.0,0.0,65.0,17.0,,Almeria
-,Carlos Cuéllar,es ESP,DF,18,16,0.0,0.0,2015-2016,1222ab35,Almeria,"1,246",13.8,4.0,0.0,65.0,1.0,,Almeria
-,José Pozo,es ESP,"FW,MF",29,15,1.0,4.0,2015-2016,fc8b614b,Almeria,"1,506",16.7,1.0,0.0,65.0,1.0,,Almeria
-,Iván Sánchez,es ESP,MF,24,12,1.0,0.0,2015-2016,70107d4d,Almeria,"1,084",12.0,0.0,0.0,65.0,1.0,,Almeria
-,Fernando Soriano,es ESP,MF,23,11,1.0,0.0,2015-2016,1aa72854,Almeria,976,10.8,5.0,0.0,65.0,1.0,,Almeria
-,Juan Ramírez,ar ARG,MF,16,11,1.0,0.0,2015-2016,46667801,Almeria,956,10.6,1.0,0.0,65.0,5.0,4634.0,Almeria
-,Ángel Montoro,es ESP,MF,14,10,0.0,0.0,2015-2016,719384c1,Almeria,989,11.0,9.0,0.0,65.0,1.0,,Almeria
-,Jonathan Zongo,bf BFA,"FW,MF",12,10,1.0,0.0,2015-2016,5dbef51,Almeria,754,8.4,1.0,0.0,65.0,62.0,4613.0,Almeria
-,Eldin Hadžić,ba BIH,"FW,MF",12,7,0.0,1.0,2015-2016,2e2d7785,Almeria,605,6.7,0.0,0.0,65.0,49.0,,Almeria
-,Kalu Uche,ng NGA,"FW,MF",15,6,1.0,3.0,2015-2016,6cc97b1d,Almeria,719,8.0,0.0,0.0,65.0,52.0,,Almeria
-,Julián Cuesta,es ESP,GK,6,6,0.0,0.0,2015-2016,c7b52b90,Almeria,540,6.0,0.0,0.0,65.0,1.0,,Almeria
-,Antonio Puertas,es ESP,"FW,MF",11,4,0.0,0.0,2015-2016,c77a8043,Almeria,471,5.2,0.0,0.0,65.0,1.0,4635.0,Almeria
-,Antonio Marín,es ESP,DF,5,4,0.0,0.0,2015-2016,27383431,Almeria,378,4.2,1.0,0.0,65.0,1.0,4626.0,Almeria
-,Míchel Zabaco,es ESP,DF,3,3,0.0,0.0,2015-2016,b0cf0afa,Almeria,270,3.0,1.0,0.0,65.0,1.0,4636.0,Almeria
-,Adri Castellano,es ESP,DF,3,3,0.0,0.0,2015-2016,3dc7c57d,Almeria,257,2.9,2.0,0.0,65.0,1.0,,Almeria
-,Corona,es ESP,MF,3,3,0.0,0.0,2015-2016,4798bc33,Almeria,248,2.8,1.0,0.0,65.0,1.0,,Almeria
-,Cristian Herrera,es ESP,"FW,MF",9,2,1.0,0.0,2015-2016,f814e5d3,Almeria,218,2.4,1.0,0.0,65.0,1.0,4637.0,Almeria
-,Ramon Azeez,ng NGA,MF,3,2,0.0,0.0,2015-2016,0cc474e7,Almeria,185,2.1,0.0,0.0,65.0,52.0,4618.0,Almeria
-,Ernesto Goñi,uy URU,DF,2,2,0.0,0.0,2015-2016,795f0ff9,Almeria,135,1.5,0.0,0.0,65.0,8.0,4638.0,Almeria
-,Joaquín Fernández,es ESP,"DF,MF",2,0,0.0,0.0,2015-2016,b86a64b2,Almeria,23,0.3,0.0,0.0,65.0,1.0,,Almeria
-,Yeray Gómez Ferragut,es ESP,GK,0,0,,,2015-2016,55059,Almeria,,,,,65.0,1.0,4630.0,Almeria
-,﻿Casto,es ESP,GK,41,41,0.0,0.0,2016-2017,95b4ffb3,Almeria,"3,690",41.0,3.0,0.0,65.0,1.0,,Almeria
-,Quique,es ESP,"FW,MF",41,37,5.0,16.0,2016-2017,c966fce1,Almeria,"3,365",37.4,1.0,0.0,65.0,1.0,,Almeria
-,Nano,es ESP,DF,37,37,0.0,0.0,2016-2017,5578668a,Almeria,"3,330",37.0,10.0,0.0,65.0,1.0,,Almeria
-,Ximo Navarro,es ESP,DF,37,37,2.0,2.0,2016-2017,8db394aa,Almeria,"3,322",36.9,10.0,0.0,65.0,1.0,,Almeria
-,Fidel,es ESP,MF,40,37,8.0,8.0,2016-2017,b82b6f1,Almeria,"3,231",35.9,9.0,2.0,65.0,1.0,,Almeria
-,Joaquín Fernández,es ESP,"DF,MF",36,35,7.0,0.0,2016-2017,b86a64b2,Almeria,"3,116",34.6,11.0,0.0,65.0,1.0,,Almeria
-,Antonio Puertas,es ESP,MF,39,34,5.0,8.0,2016-2017,c77a8043,Almeria,"2,775",30.8,8.0,0.0,65.0,1.0,4635.0,Almeria
-,Jorge Morcillo,es ESP,DF,31,29,0.0,2.0,2016-2017,bbbf1dd,Almeria,"2,633",29.3,17.0,0.0,65.0,1.0,,Almeria
-,José Pozo,es ESP,MF,36,29,3.0,0.0,2016-2017,fc8b614b,Almeria,"2,472",27.5,3.0,0.0,65.0,1.0,,Almeria
-,Ángel Trujillo,es ESP,DF,21,20,0.0,0.0,2016-2017,08011c9c,Almeria,"1,797",20.0,6.0,0.0,65.0,1.0,,Almeria
-,Fran Vélez,es ESP,"MF,DF",24,19,0.0,1.0,2016-2017,9d619e08,Almeria,"1,427",15.9,8.0,2.0,65.0,1.0,,Almeria
-,Borja Fernández,es ESP,MF,20,18,1.0,2.0,2016-2017,9127f9ce,Almeria,"1,677",18.6,5.0,0.0,65.0,1.0,26.0,Almeria
-,Ramon Azeez,ng NGA,MF,22,17,0.0,2.0,2016-2017,0cc474e7,Almeria,"1,344",14.9,3.0,2.0,65.0,52.0,4618.0,Almeria
-,Marco Motta,it ITA,DF,15,15,1.0,0.0,2016-2017,1c65a088,Almeria,"1,186",13.2,4.0,0.0,65.0,9.0,4639.0,Almeria
-,José Ángel,es ESP,MF,12,10,0.0,0.0,2016-2017,5dcba27f,Almeria,903,10.0,3.0,0.0,65.0,1.0,4632.0,Almeria
-,Pape Maly Diamanka,sn SEN,MF,17,9,0.0,0.0,2016-2017,5d289e13,Almeria,890,9.9,6.0,4.0,65.0,34.0,,Almeria
-,José Isidoro,es ESP,DF,9,6,0.0,0.0,2016-2017,bb00a819,Almeria,584,6.5,1.0,0.0,65.0,1.0,,Almeria
-,Chuli,es ESP,"FW,MF",11,5,1.0,0.0,2016-2017,24efffbf,Almeria,517,5.7,3.0,0.0,65.0,1.0,,Almeria
-,Kalu Uche,ng NGA,FW,13,5,0.0,2.0,2016-2017,6cc97b1d,Almeria,404,4.5,0.0,0.0,65.0,52.0,,Almeria
-,Corona,es ESP,MF,20,4,0.0,0.0,2016-2017,4798bc33,Almeria,593,6.6,4.0,0.0,65.0,1.0,,Almeria
-,Javi Álamo,es ESP,MF,6,4,1.0,0.0,2016-2017,ffd69308,Almeria,300,3.3,0.0,0.0,65.0,1.0,,Almeria
-,Juanjo Expósito,es ESP,FW,20,3,1.0,0.0,2016-2017,f0a0b756,Almeria,540,6.0,4.0,0.0,65.0,1.0,,Almeria
-,Iago Díaz,es ESP,MF,11,3,0.0,0.0,2016-2017,7cad0e34,Almeria,392,4.4,1.0,0.0,65.0,1.0,4633.0,Almeria
-,Jonathan Zongo,bf BFA,MF,3,2,0.0,0.0,2016-2017,5dbef51,Almeria,131,1.5,0.0,0.0,65.0,62.0,4613.0,Almeria
-,Iván Sánchez,es ESP,MF,9,1,0.0,0.0,2016-2017,70107d4d,Almeria,178,2.0,1.0,0.0,65.0,1.0,,Almeria
-,Julián Cuesta,es ESP,GK,1,1,0.0,0.0,2016-2017,c7b52b90,Almeria,90,1.0,0.0,0.0,65.0,1.0,,Almeria
-,Carlos Garrido,es ESP,DF,1,1,0.0,0.0,2016-2017,48e46b33,Almeria,90,1.0,0.0,0.0,65.0,1.0,4640.0,Almeria
-,Alex Quintanilla,es ESP,DF,1,1,0.0,0.0,2016-2017,6a2cf49f,Almeria,59,0.7,1.0,2.0,65.0,1.0,,Almeria
-,Sebastián Dubarbier,ar ARG,DF,2,1,0.0,0.0,2016-2017,83877c7c,Almeria,54,0.6,0.0,0.0,65.0,5.0,,Almeria
-,Henrique Sereno,pt POR,DF,1,1,0.0,0.0,2016-2017,70b198d8,Almeria,45,0.5,1.0,0.0,65.0,3.0,,Almeria
-,Gaspar Panadero,es ESP,MF,7,0,0.0,1.0,2016-2017,39b011f1,Almeria,178,2.0,1.0,0.0,65.0,1.0,4629.0,Almeria
-,Karim Yoda,fr FRA,MF,3,0,0.0,0.0,2016-2017,7893629,Almeria,69,0.8,0.0,0.0,65.0,4.0,,Almeria
-,Francisco Callejón,es ESP,MF,1,0,0.0,0.0,2016-2017,8b850c50,Almeria,20,0.2,0.0,0.0,65.0,1.0,4641.0,Almeria
-,Albert Batalla,es ESP,GK,0,0,,,2016-2017,94c78b70,Almeria,,,,,65.0,1.0,4642.0,Almeria
-,Josema,es ESP,DF,0,0,,,2016-2017,d3f5f4c,Almeria,,,,,65.0,1.0,,Almeria
-,José Jurado,es ESP,MF,0,0,,,2016-2017,c19131c6,Almeria,,,,,65.0,1.0,4631.0,Almeria
-,Jesús Sillero,es ESP,FW,0,0,,,2016-2017,086bee8c,Almeria,,,,,65.0,1.0,4643.0,Almeria
-,﻿René Román,es ESP,GK,42,42,0.0,0.0,2017-2018,c4d5264d,Almeria,"3,780",42.0,5.0,0.0,65.0,1.0,4644.0,Almeria
-,Rubén Alcaraz,es ESP,MF,41,39,2.0,9.0,2017-2018,036bba5f,Almeria,"3,547",39.4,9.0,0.0,65.0,1.0,,Almeria
-,José Pozo,es ESP,"FW,MF",39,37,8.0,2.0,2017-2018,fc8b614b,Almeria,"3,171",35.2,7.0,2.0,65.0,1.0,,Almeria
-,Joaquín Fernández,es ESP,"DF,MF",35,34,0.0,0.0,2017-2018,b86a64b2,Almeria,"3,104",34.5,9.0,2.0,65.0,1.0,,Almeria
-,Nano,es ESP,"DF,MF",35,32,1.0,0.0,2017-2018,5578668a,Almeria,"2,818",31.3,6.0,0.0,65.0,1.0,,Almeria
-,Marco Motta,it ITA,DF,31,29,1.0,3.0,2017-2018,1c65a088,Almeria,"2,496",27.7,11.0,2.0,65.0,9.0,4639.0,Almeria
-,Jorge Morcillo,es ESP,DF,26,26,1.0,2.0,2017-2018,bbbf1dd,Almeria,"2,177",24.2,9.0,3.0,65.0,1.0,,Almeria
-,Fidel,es ESP,"MF,FW",31,24,2.0,4.0,2017-2018,b82b6f1,Almeria,"2,021",22.5,4.0,1.0,65.0,1.0,,Almeria
-,Gaspar Panadero,es ESP,MF,25,21,2.0,1.0,2017-2018,39b011f1,Almeria,"1,784",19.8,3.0,0.0,65.0,1.0,4629.0,Almeria
-,Mandi,es ESP,MF,23,20,1.0,0.0,2017-2018,d9c47790,Almeria,"1,710",19.0,8.0,0.0,65.0,1.0,4645.0,Almeria
-,Pervis Estupiñán,ec ECU,"DF,MF",26,19,2.0,0.0,2017-2018,d38fdf53,Almeria,"1,806",20.1,2.0,0.0,65.0,61.0,,Almeria
-,Fran Rodríguez,es ESP,"DF,MF",21,16,0.0,2.0,2017-2018,1cfe8e6,Almeria,"1,511",16.8,4.0,0.0,65.0,1.0,,Almeria
-,Ángel Trujillo,es ESP,DF,19,16,0.0,0.0,2017-2018,08011c9c,Almeria,"1,499",16.7,3.0,0.0,65.0,1.0,,Almeria
-,Juan Muñoz,es ESP,FW,25,16,0.0,4.0,2017-2018,25018d62,Almeria,"1,428",15.9,1.0,0.0,65.0,1.0,,Almeria
-,Verza,es ESP,MF,24,15,1.0,2.0,2017-2018,f972b073,Almeria,"1,519",16.9,6.0,0.0,65.0,1.0,,Almeria
-,Lucien Owona,cm CMR,DF,20,15,0.0,0.0,2017-2018,1ca4fa8a,Almeria,"1,306",14.5,3.0,0.0,65.0,36.0,4646.0,Almeria
-,Sulayman Marreh,gm GAM,MF,12,12,0.0,1.0,2017-2018,44b49036,Almeria,915,10.2,7.0,2.0,65.0,92.0,,Almeria
-,Pablo Caballero,ar ARG,FW,27,11,0.0,3.0,2017-2018,62bfa7a9,Almeria,"1,284",14.3,2.0,0.0,65.0,5.0,4657.0,Almeria
-,Hicham Khaloua,ma MAR,"FW,MF",23,11,1.0,1.0,2017-2018,f383d568,Almeria,"1,066",11.8,1.0,0.0,65.0,26.0,4624.0,Almeria
-,Edoardo Soleri,it ITA,FW,11,9,0.0,2.0,2017-2018,3c33accc,Almeria,736,8.2,2.0,0.0,65.0,9.0,4647.0,Almeria
-,Tino Costa,ar ARG,MF,14,5,1.0,2.0,2017-2018,8f747a86,Almeria,558,6.2,0.0,1.0,65.0,5.0,,Almeria
-,Lass Bangoura,gn GUI,"MF,FW",10,5,1.0,0.0,2017-2018,740f39d4,Almeria,455,5.1,2.0,0.0,65.0,74.0,,Almeria
-,Nauzet Alemán,es ESP,"MF,FW",7,3,0.0,0.0,2017-2018,4cf8242b,Almeria,296,3.3,0.0,0.0,65.0,1.0,,Almeria
-,Javi Álamo,es ESP,MF,10,2,0.0,0.0,2017-2018,ffd69308,Almeria,297,3.3,0.0,0.0,65.0,1.0,,Almeria
-,Álex Corredera,es ESP,MF,3,1,0.0,0.0,2017-2018,b3a2168d,Almeria,95,1.1,0.0,0.0,65.0,1.0,4648.0,Almeria
-,Francisco Callejón,es ESP,MF,2,1,0.0,0.0,2017-2018,8b850c50,Almeria,76,0.8,0.0,0.0,65.0,1.0,4641.0,Almeria
-,Antonio Navas,es ESP,DF,1,1,0.0,0.0,2017-2018,8a10fd62,Almeria,45,0.5,1.0,0.0,65.0,1.0,,Almeria
-,Óscar Lozano,es ESP,FW,2,0,0.0,0.0,2017-2018,76d08c7a,Almeria,44,0.5,0.0,0.0,65.0,1.0,4649.0,Almeria
-,Igor Engonga,gq EQG,"DF,MF",0,0,,,2017-2018,1fa0b376,Almeria,,,,,65.0,10.0,4650.0,Almeria
-,Fernando,es ESP,GK,0,0,,,2017-2018,dabb2827,Almeria,,,,,65.0,1.0,,Almeria
-,Sékou Gassama,sn SEN,FW,0,0,,,2017-2018,475a738b,Almeria,,,,,65.0,34.0,,Almeria
-,Lin Liangming,cn CHN,MF,0,0,,,2017-2018,7275cb25,Almeria,,,,,65.0,101.0,4651.0,Almeria
-,Iván Martos,es ESP,DF,0,0,,,2017-2018,fc1724bd,Almeria,,,,,65.0,1.0,,Almeria
-,﻿César de la Hoz,es ESP,MF,40,39,3.0,1.0,2018-2019,60abea75,Almeria,"3,430",38.1,5.0,1.0,65.0,1.0,,Almeria
-,Álvaro Giménez,es ESP,FW,39,38,3.0,20.0,2018-2019,18017beb,Almeria,"3,308",36.8,5.0,0.0,65.0,1.0,,Almeria
-,José Romera,es ESP,DF,38,38,0.0,0.0,2018-2019,3f44a041,Almeria,"3,114",34.6,4.0,0.0,65.0,1.0,4652.0,Almeria
-,René Román,es ESP,GK,37,37,0.0,0.0,2018-2019,c4d5264d,Almeria,"3,330",37.0,3.0,0.0,65.0,1.0,4644.0,Almeria
-,José Corpas,es ESP,MF,40,37,3.0,3.0,2018-2019,422b05e3,Almeria,"3,219",35.8,4.0,1.0,65.0,1.0,4653.0,Almeria
-,Juan Carlos,es ESP,"MF,FW",39,37,5.0,10.0,2018-2019,82803509,Almeria,"3,064",34.0,7.0,1.0,65.0,1.0,,Almeria
-,Luis Rioja,es ESP,MF,39,35,1.0,4.0,2018-2019,b3dd471,Almeria,"2,981",33.1,4.0,0.0,65.0,1.0,,Almeria
-,Esteban Saveljich,me MNE,DF,33,33,0.0,1.0,2018-2019,79f2a5f5,Almeria,"2,903",32.3,7.0,1.0,65.0,33.0,,Almeria
-,Yan Brice Eteki,cm CMR,MF,31,29,1.0,0.0,2018-2019,3d688b46,Almeria,"2,457",27.3,17.0,0.0,65.0,36.0,4654.0,Almeria
-,Iván Martos,es ESP,DF,23,23,1.0,0.0,2018-2019,fc1724bd,Almeria,"2,050",22.8,4.0,0.0,65.0,1.0,,Almeria
-,Lucien Owona,cm CMR,DF,24,22,0.0,2.0,2018-2019,1ca4fa8a,Almeria,"2,038",22.6,9.0,0.0,65.0,36.0,4646.0,Almeria
-,Juan Ibiza,es ESP,DF,23,21,0.0,0.0,2018-2019,3fd69c15,Almeria,"1,819",20.2,3.0,1.0,65.0,1.0,4655.0,Almeria
-,Andoni López,es ESP,DF,18,17,1.0,1.0,2018-2019,fc8cb238,Almeria,"1,540",17.1,4.0,0.0,65.0,1.0,,Almeria
-,Juanjo Narváez,co COL,MF,30,11,2.0,2.0,2018-2019,485e4939,Almeria,"1,198",13.3,1.0,0.0,65.0,19.0,,Almeria
-,Joaquín Arzura,ar ARG,MF,11,8,0.0,0.0,2018-2019,0eeb0b2f,Almeria,663,7.4,1.0,0.0,65.0,5.0,,Almeria
-,Sergio Aguza,es ESP,MF,14,4,0.0,1.0,2018-2019,b8e26df0,Almeria,480,5.3,5.0,1.0,65.0,1.0,127.0,Almeria
-,Ángel Trujillo,es ESP,DF,5,4,0.0,0.0,2018-2019,08011c9c,Almeria,417,4.6,2.0,0.0,65.0,1.0,,Almeria
-,Fernando,es ESP,GK,4,4,0.0,0.0,2018-2019,dabb2827,Almeria,360,4.0,0.0,0.0,65.0,1.0,,Almeria
-,Chema Núñez,es ESP,"MF,FW",27,3,1.0,1.0,2018-2019,5b1ec540,Almeria,708,7.9,2.0,0.0,65.0,1.0,,Almeria
-,David Rocha,es ESP,MF,10,3,1.0,0.0,2018-2019,39d4e7a1,Almeria,354,3.9,0.0,0.0,65.0,1.0,,Almeria
-,Joaquín Fernández,es ESP,DF,2,2,0.0,0.0,2018-2019,b86a64b2,Almeria,180,2.0,0.0,0.0,65.0,1.0,,Almeria
-,Adri Montoro,es ESP,DF,3,2,0.0,0.0,2018-2019,63da5cf7,Almeria,145,1.6,1.0,1.0,65.0,1.0,4656.0,Almeria
-,Ermedin Demirović,ba BIH,FW,13,1,0.0,0.0,2018-2019,d79b7d3,Almeria,282,3.1,2.0,0.0,65.0,49.0,,Almeria
-,Pablo Caballero,ar ARG,FW,12,1,1.0,2.0,2018-2019,62bfa7a9,Almeria,187,2.1,1.0,0.0,65.0,5.0,4657.0,Almeria
-,Sékou Gassama,sn SEN,FW,11,1,0.0,0.0,2018-2019,475a738b,Almeria,120,1.3,2.0,1.0,65.0,34.0,,Almeria
-,Nano,es ESP,DF,1,1,0.0,0.0,2018-2019,5578668a,Almeria,90,1.0,0.0,0.0,65.0,1.0,,Almeria
-,Gaspar Panadero,es ESP,MF,3,0,0.0,0.0,2018-2019,39b011f1,Almeria,59,0.7,0.0,0.0,65.0,1.0,4629.0,Almeria
-,Sergio Pérez,es ESP,MF,1,0,0.0,0.0,2018-2019,23580256,Almeria,12,0.1,0.0,0.0,65.0,1.0,4658.0,Almeria
-,Mario Abenza,es ESP,MF,0,0,,,2018-2019,805b1f68,Almeria,,,,,65.0,1.0,4659.0,Almeria
-,Jeró,es ESP,GK,0,0,,,2018-2019,1163c98d,Almeria,,,,,65.0,1.0,4660.0,Almeria
-,Guillermo Lara,es ESP,GK,0,0,,,2018-2019,1d114cf3,Almeria,,,,,65.0,1.0,4661.0,Almeria
-,﻿Nikola Maraš,rs SRB,DF,36,35,0.0,2.0,2019-2020,b9d0446f,Almeria,"3,107",34.5,9.0,0.0,65.0,28.0,,Almeria
-,Iván Martos,es ESP,DF,39,34,1.0,0.0,2019-2020,fc1724bd,Almeria,"3,117",34.6,12.0,0.0,65.0,1.0,,Almeria
-,César de la Hoz,es ESP,MF,34,30,0.0,2.0,2019-2020,60abea75,Almeria,"2,639",29.3,9.0,1.0,65.0,1.0,,Almeria
-,José Corpas,es ESP,MF,35,29,5.0,4.0,2019-2020,422b05e3,Almeria,"2,537",28.2,6.0,1.0,65.0,1.0,4653.0,Almeria
-,José Carlos Lazo,es ESP,MF,35,28,3.0,9.0,2019-2020,5b93209a,Almeria,"2,455",27.3,6.0,0.0,65.0,1.0,139.0,Almeria
-,Darwin Núñez,uy URU,FW,30,28,2.0,16.0,2019-2020,4d77b365,Almeria,"2,424",26.9,3.0,1.0,65.0,8.0,4662.0,Almeria
-,Iván Balliu,al ALB,DF,30,25,4.0,1.0,2019-2020,cee88597,Almeria,"2,263",25.1,8.0,1.0,65.0,78.0,,Almeria
-,Valentín Vada,ar ARG,MF,32,25,2.0,2.0,2019-2020,dcf7cf44,Almeria,"2,048",22.8,10.0,0.0,65.0,5.0,,Almeria
-,Fernando,es ESP,GK,24,24,0.0,0.0,2019-2020,dabb2827,Almeria,"2,098",23.3,2.0,0.0,65.0,1.0,,Almeria
-,Radosav Petrović,rs SRB,"MF,DF",27,20,0.0,1.0,2019-2020,7214c684,Almeria,"1,789",19.9,12.0,1.0,65.0,28.0,,Almeria
-,Juan Muñoz,es ESP,"FW,MF",34,19,5.0,9.0,2019-2020,25018d62,Almeria,"1,801",20.0,4.0,0.0,65.0,1.0,,Almeria
-,Sergio Aguza,es ESP,MF,26,16,4.0,3.0,2019-2020,b8e26df0,Almeria,"1,587",17.6,5.0,0.0,65.0,1.0,127.0,Almeria
-,José Romera,es ESP,DF,20,16,0.0,1.0,2019-2020,3f44a041,Almeria,"1,525",16.9,4.0,0.0,65.0,1.0,4652.0,Almeria
-,René Román,es ESP,GK,15,15,0.0,0.0,2019-2020,c4d5264d,Almeria,"1,350",15.0,0.0,0.0,65.0,1.0,4644.0,Almeria
-,David Costas,es ESP,DF,15,15,0.0,0.0,2019-2020,545e2f01,Almeria,"1,335",14.8,4.0,0.0,65.0,1.0,,Almeria
-,Lucien Owona,cm CMR,DF,15,14,0.0,1.0,2019-2020,1ca4fa8a,Almeria,"1,226",13.6,0.0,0.0,65.0,36.0,4646.0,Almeria
-,Jonathan,br BRA,DF,22,13,1.0,0.0,2019-2020,f3f60814,Almeria,"1,264",14.0,5.0,0.0,65.0,2.0,4663.0,Almeria
-,Fran Villalba,es ESP,MF,16,10,2.0,2.0,2019-2020,0d2603b5,Almeria,"1,016",11.3,3.0,0.0,65.0,1.0,,Almeria
-,Sékou Gassama,sn SEN,FW,14,10,1.0,6.0,2019-2020,475a738b,Almeria,913,10.1,1.0,0.0,65.0,34.0,,Almeria
-,Arvin Appiah,eng ENG,MF,21,10,0.0,1.0,2019-2020,fa6953,Almeria,851,9.5,3.0,0.0,65.0,6.0,4664.0,Almeria
-,Gaspar Panadero,es ESP,MF,10,9,2.0,0.0,2019-2020,39b011f1,Almeria,672,7.5,0.0,0.0,65.0,1.0,4629.0,Almeria
-,Chema Núñez,es ESP,"MF,FW",10,8,2.0,0.0,2019-2020,5b1ec540,Almeria,534,5.9,2.0,0.0,65.0,1.0,,Almeria
-,Juan Ibiza,es ESP,DF,8,7,0.0,0.0,2019-2020,3fd69c15,Almeria,610,6.8,1.0,0.0,65.0,1.0,4655.0,Almeria
-,Wilfrid Kaptoum,cm CMR,MF,8,6,0.0,0.0,2019-2020,d717630e,Almeria,529,5.9,1.0,0.0,65.0,36.0,,Almeria
-,Ante Ćorić,hr CRO,MF,16,5,3.0,0.0,2019-2020,2d3f7367,Almeria,568,6.3,1.0,0.0,65.0,16.0,4665.0,Almeria
-,Antonio Sivera,es ESP,GK,4,3,0.0,0.0,2019-2020,9970da54,Almeria,332,3.7,0.0,0.0,65.0,1.0,,Almeria
-,Francis Guerrero,es ESP,"DF,MF",7,3,0.0,0.0,2019-2020,59d53e8a,Almeria,280,3.1,1.0,0.0,65.0,1.0,,Almeria
-,Valentine Ozornwafor,ng NGA,DF,3,2,0.0,0.0,2019-2020,7a35856,Almeria,153,1.7,1.0,1.0,65.0,52.0,4666.0,Almeria
-,Barbero,es ESP,FW,9,1,0.0,0.0,2019-2020,981c1863,Almeria,150,1.7,1.0,0.0,65.0,1.0,,Almeria
-,Enzo Fernández,es ESP,MF,3,1,0.0,0.0,2019-2020,4cafb146,Almeria,112,1.2,1.0,0.0,65.0,1.0,4667.0,Almeria
-,Francisco Callejón,es ESP,MF,1,1,0.0,0.0,2019-2020,8b850c50,Almeria,64,0.7,1.0,0.0,65.0,1.0,4641.0,Almeria
-,Yanis Rahmani,fr FRA,MF,2,0,0.0,0.0,2019-2020,f807f8b3,Almeria,37,0.4,1.0,0.0,65.0,4.0,,Almeria
-,Aristote Nkaka,be BEL,MF,1,0,0.0,1.0,2019-2020,36d5c51e,Almeria,14,0.2,0.0,0.0,65.0,27.0,,Almeria
-,Daniel Albiar,es ESP,MF,1,0,0.0,0.0,2019-2020,8b29e86,Almeria,13,0.1,0.0,0.0,65.0,1.0,4668.0,Almeria
-,Rubén Enri,es ESP,FW,1,0,0.0,0.0,2019-2020,43b839d8,Almeria,7,0.1,0.0,0.0,65.0,1.0,4669.0,Almeria
-,Tano Bonnín,do DOM,DF,0,0,,,2019-2020,1a6f612d,Almeria,,,,,65.0,25.0,,Almeria
-,Jeró,es ESP,GK,0,0,,,2019-2020,1163c98d,Almeria,,,,,65.0,1.0,4660.0,Almeria
-,Simón Moreno,es ESP,FW,0,0,,,2019-2020,97cf41b0,Almeria,,,,,65.0,1.0,4670.0,Almeria
-,Nacho,es ESP,FW,0,0,,,2019-2020,c7e7ecb5,Almeria,,,,,65.0,1.0,4671.0,Almeria
-,Nano,es ESP,"DF,MF",0,0,,,2019-2020,5578668a,Almeria,,,,,65.0,1.0,,Almeria
-,﻿Umar Sadiq,ng NGA,FW,38,33,4.0,20.0,2020-2021,686cbe7d,Almeria,"2,979",33.1,9.0,2.0,65.0,52.0,4686.0,Almeria
-,Giorgi Makaridze,ge GEO,GK,32,32,0.0,0.0,2020-2021,b3bb0a76,Almeria,"2,819",31.3,7.0,0.0,65.0,76.0,4672.0,Almeria
-,Samu Costa,pt POR,MF,35,32,1.0,2.0,2020-2021,76c2a023,Almeria,"2,479",27.5,15.0,0.0,65.0,3.0,4673.0,Almeria
-,Sergio Akieme,es ESP,DF,34,31,3.0,2.0,2020-2021,06efa9dc,Almeria,"2,806",31.2,7.0,2.0,65.0,1.0,,Almeria
-,Jorge Cuenca,es ESP,DF,35,30,0.0,3.0,2020-2021,0abc51f2,Almeria,"2,809",31.2,4.0,0.0,65.0,1.0,,Almeria
-,Manu Morlanes,es ESP,MF,35,30,3.0,1.0,2020-2021,0255c67,Almeria,"2,695",29.9,5.0,0.0,65.0,1.0,,Almeria
-,Iván Balliu,al ALB,DF,32,30,1.0,0.0,2020-2021,cee88597,Almeria,"2,665",29.6,13.0,0.0,65.0,78.0,,Almeria
-,Nikola Maraš,rs SRB,DF,30,28,1.0,1.0,2020-2021,b9d0446f,Almeria,"2,483",27.6,7.0,0.0,65.0,28.0,,Almeria
-,José Corpas,es ESP,MF,39,24,6.0,12.0,2020-2021,422b05e3,Almeria,"2,177",24.2,7.0,1.0,65.0,1.0,4653.0,Almeria
-,José Carlos Lazo,es ESP,MF,36,22,7.0,4.0,2020-2021,5b93209a,Almeria,"2,038",22.6,4.0,0.0,65.0,1.0,139.0,Almeria
-,Ager Aketxe,es ESP,MF,25,20,1.0,4.0,2020-2021,c5eaff5c,Almeria,"1,394",15.5,2.0,0.0,65.0,1.0,,Almeria
-,João Carvalho,pt POR,MF,32,19,3.0,0.0,2020-2021,36b76751,Almeria,"1,817",20.2,2.0,0.0,65.0,3.0,4674.0,Almeria
-,Fran Villalba,es ESP,MF,30,17,3.0,3.0,2020-2021,0d2603b5,Almeria,"1,421",15.8,3.0,0.0,65.0,1.0,,Almeria
-,Lucas Robertone,ar ARG,MF,25,14,2.0,2.0,2020-2021,8981944,Almeria,"1,220",13.6,6.0,0.0,65.0,5.0,4675.0,Almeria
-,César de la Hoz,es ESP,"MF,DF",21,12,0.0,0.0,2020-2021,60abea75,Almeria,"1,120",12.4,3.0,0.0,65.0,1.0,,Almeria
-,Aitor Buñuel,es ESP,DF,15,12,0.0,0.0,2020-2021,6555c592,Almeria,"1,116",12.4,3.0,0.0,65.0,1.0,,Almeria
-,Ivanildo Fernandes,pt POR,DF,14,12,0.0,0.0,2020-2021,11e5e469,Almeria,"1,066",11.8,7.0,1.0,65.0,3.0,4676.0,Almeria
-,Álex Centelles,es ESP,DF,13,11,0.0,0.0,2020-2021,852b7d,Almeria,905,10.1,4.0,0.0,65.0,1.0,,Almeria
-,Radosav Petrović,rs SRB,MF,27,10,0.0,0.0,2020-2021,7214c684,Almeria,"1,004",11.2,6.0,0.0,65.0,28.0,,Almeria
-,Fernando,es ESP,GK,11,10,0.0,0.0,2020-2021,dabb2827,Almeria,961,10.7,0.0,0.0,65.0,1.0,,Almeria
-,Juan Brandáriz,es ESP,DF,10,9,0.0,1.0,2020-2021,2475cf9b,Almeria,813,9.0,1.0,0.0,65.0,1.0,,Almeria
-,Largie Ramazani,be BEL,"MF,FW",23,7,0.0,4.0,2020-2021,cc9256ef,Almeria,770,8.6,6.0,0.0,65.0,27.0,4677.0,Almeria
-,Juan Villar,es ESP,"FW,MF",25,7,1.0,2.0,2020-2021,c33ee247,Almeria,721,8.0,4.0,0.0,65.0,1.0,,Almeria
-,Brian Rodríguez,uy URU,"MF,FW",16,5,1.0,0.0,2020-2021,c86041d7,Almeria,500,5.6,0.0,0.0,65.0,8.0,4678.0,Almeria
-,Mathieu Peybernes,fr FRA,DF,4,3,0.0,0.0,2020-2021,34c872d2,Almeria,225,2.5,2.0,1.0,65.0,4.0,,Almeria
-,Pedro Mendes,pt POR,FW,10,2,0.0,0.0,2020-2021,85c25f57,Almeria,240,2.7,0.0,0.0,65.0,3.0,4679.0,Almeria
-,Guilherme Schettine,br BRA,FW,7,0,0.0,0.0,2020-2021,6b074beb,Almeria,83,0.9,1.0,0.0,65.0,2.0,4680.0,Almeria
-,Cristian Olivera,uy URU,FW,3,0,0.0,0.0,2020-2021,079dc403,Almeria,52,0.6,0.0,0.0,65.0,8.0,4681.0,Almeria
-,Iván Martos,es ESP,DF,1,0,0.0,0.0,2020-2021,fc1724bd,Almeria,29,0.3,0.0,0.0,65.0,1.0,,Almeria
-,Arvin Appiah,eng ENG,MF,1,0,0.0,0.0,2020-2021,fa6953,Almeria,3,0.0,0.0,0.0,65.0,6.0,4664.0,Almeria
-,Daniel Albiar,es ESP,MF,0,0,,,2020-2021,8b29e86,Almeria,,,,,65.0,1.0,4668.0,Almeria
-,Jordi Escobar,es ESP,FW,0,0,,,2020-2021,c91d03e6,Almeria,,,,,65.0,1.0,,Almeria
-,Juan Gutierrez,uy URU,MF,0,0,,,2020-2021,1b37c107,Almeria,,,,,65.0,8.0,4682.0,Almeria
-,Francisco Harillo,es ESP,GK,0,0,,,2020-2021,57f0dce6,Almeria,,,,,65.0,1.0,4683.0,Almeria
-,Lluis Tarrés Campos,es ESP,GK,0,0,,,2020-2021,4b936448,Almeria,,,,,65.0,1.0,4684.0,Almeria
-,﻿Fernando,es ESP,GK,41,41,0.0,0.0,2021-2022,dabb2827,Almeria,"3,690",41.0,0.0,0.0,65.0,1.0,,Almeria
-,Samu Costa,pt POR,MF,38,38,2.0,0.0,2021-2022,76c2a023,Almeria,"3,096",34.4,12.0,0.0,65.0,3.0,4673.0,Almeria
-,Srđan Babić,rs SRB,DF,37,35,0.0,1.0,2021-2022,075fe5a3,Almeria,"3,174",35.3,10.0,0.0,65.0,28.0,4685.0,Almeria
-,César de la Hoz,es ESP,MF,40,35,0.0,0.0,2021-2022,60abea75,Almeria,"3,104",34.5,7.0,0.0,65.0,1.0,,Almeria
-,Alejandro Pozo Pozo,es ESP,"DF,MF",39,34,3.0,3.0,2021-2022,3c16d927,Almeria,"3,170",35.2,1.0,0.0,65.0,1.0,,Almeria
-,Umar Sadiq,ng NGA,FW,36,34,9.0,18.0,2021-2022,686cbe7d,Almeria,"3,036",33.7,6.0,0.0,65.0,52.0,4686.0,Almeria
-,Francisco Portillo,es ESP,"MF,FW",39,32,8.0,3.0,2021-2022,8e010ff4,Almeria,"2,623",29.1,3.0,0.0,65.0,1.0,,Almeria
-,Sergio Akieme,es ESP,DF,30,25,1.0,1.0,2021-2022,06efa9dc,Almeria,"2,305",25.6,4.0,1.0,65.0,1.0,,Almeria
-,Largie Ramazani,be BEL,"MF,FW",30,25,1.0,8.0,2021-2022,cc9256ef,Almeria,"2,045",22.7,7.0,0.0,65.0,27.0,4677.0,Almeria
-,Juan Brandáriz,es ESP,DF,25,24,0.0,1.0,2021-2022,2475cf9b,Almeria,"2,237",24.9,1.0,0.0,65.0,1.0,,Almeria
-,Lucas Robertone,ar ARG,MF,26,24,4.0,4.0,2021-2022,8981944,Almeria,"1,820",20.2,6.0,1.0,65.0,5.0,4675.0,Almeria
-,Álex Centelles,es ESP,DF,22,17,1.0,0.0,2021-2022,852b7d,Almeria,"1,513",16.8,2.0,0.0,65.0,1.0,,Almeria
-,José Carlos Lazo,es ESP,"FW,MF",32,15,2.0,5.0,2021-2022,5b93209a,Almeria,"1,257",14.0,3.0,0.0,65.0,1.0,139.0,Almeria
-,Arnau Puigmal,es ESP,MF,33,13,4.0,5.0,2021-2022,39352da2,Almeria,"1,365",15.2,3.0,0.0,65.0,1.0,4687.0,Almeria
-,Rodrigo Ely,br BRA,DF,12,12,0.0,3.0,2021-2022,fd47b4f2,Almeria,976,10.8,5.0,0.0,65.0,2.0,,Almeria
-,Curro,es ESP,MF,35,11,3.0,2.0,2021-2022,f9a225f5,Almeria,"1,199",13.3,4.0,0.0,65.0,1.0,,Almeria
-,Arvin Appiah,eng ENG,"MF,FW",32,11,2.0,1.0,2021-2022,fa6953,Almeria,"1,066",11.8,1.0,0.0,65.0,6.0,4664.0,Almeria
-,Iván Martos,es ESP,DF,11,8,0.0,0.0,2021-2022,fc1724bd,Almeria,671,7.5,4.0,1.0,65.0,1.0,,Almeria
-,Aitor Buñuel,es ESP,DF,13,8,0.0,0.0,2021-2022,6555c592,Almeria,650,7.2,1.0,0.0,65.0,1.0,,Almeria
-,Íñigo Eguaras,es ESP,MF,14,6,0.0,1.0,2021-2022,3e93f8cf,Almeria,645,7.2,2.0,0.0,65.0,1.0,,Almeria
-,Dyego Sousa,pt POR,FW,24,4,5.0,5.0,2021-2022,4738e91,Almeria,508,5.6,4.0,0.0,65.0,3.0,,Almeria
-,Juanjo Nieto,es ESP,DF,16,4,0.0,0.0,2021-2022,b4511ba0,Almeria,502,5.6,2.0,0.0,65.0,1.0,,Almeria
-,Daniel Carriço,pt POR,DF,6,3,0.0,0.0,2021-2022,1deea75,Almeria,219,2.4,0.0,0.0,65.0,3.0,,Almeria
-,Juan Villar,es ESP,FW,12,1,0.0,1.0,2021-2022,c33ee247,Almeria,240,2.7,1.0,1.0,65.0,1.0,,Almeria
-,Javi Robles,es ESP,MF,10,1,0.0,0.0,2021-2022,0943be25,Almeria,155,1.7,0.0,0.0,65.0,1.0,4689.0,Almeria
-,Giorgi Makaridze,ge GEO,GK,1,1,0.0,0.0,2021-2022,b3bb0a76,Almeria,90,1.0,1.0,0.0,65.0,76.0,4672.0,Almeria
-,Raul Caballero,es ESP,FW,3,0,0.0,0.0,2021-2022,1b5c67a3,Almeria,66,0.7,0.0,0.0,65.0,1.0,4690.0,Almeria
-,Gilbert,es ESP,FW,1,0,0.0,0.0,2021-2022,c6c7df74,Almeria,13,0.1,0.0,0.0,65.0,1.0,4691.0,Almeria
-,David Cuenca,es ESP,DF,0,0,,,2021-2022,71a7a1c,Almeria,,,,,65.0,1.0,4692.0,Almeria
-,Mamadou Dialla,gn GUI,MF,0,0,,,2021-2022,5a80a9cb,Almeria,,,,,65.0,74.0,4693.0,Almeria
-,Diego Fuoli,es ESP,GK,0,0,,,2021-2022,1a67863f,Almeria,,,,,65.0,1.0,4694.0,Almeria
-,Juan Ibiza,es ESP,DF,0,0,,,2021-2022,3fd69c15,Almeria,,,,,65.0,1.0,4655.0,Almeria
-,Nikola Maraš,rs SRB,DF,0,0,,,2021-2022,b9d0446f,Almeria,,,,,65.0,28.0,,Almeria
-,Nélson Monte,pt POR,DF,0,0,,,2021-2022,8923dfec,Almeria,,,,,65.0,3.0,4695.0,Almeria
-,Aitor Puñal,es ESP,DF,0,0,,,2021-2022,4806d40e,Almeria,,,,,65.0,1.0,4696.0,Almeria
-,Carlos Rojas,es ESP,FW,0,0,,,2021-2022,6a82a394,Almeria,,,,,65.0,1.0,4697.0,Almeria
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Francisco,es ESP,FW,41,38,3.0,15.0,2002-2003,/en/players/ea20ba95/Francisco,20ba95,Almeria,"3,302",36.7,7.0,0.0,65,1.0,3722,Almeria
+,Olivares,es ESP,DF,38,37,0.0,4.0,2002-2003,/en/players/438fb313/Olivares,438fb313,Almeria,"3,346",37.2,13.0,1.0,65,1.0,4568,Almeria
+,Juan Cervián,es ESP,DF,35,34,6.0,2.0,2002-2003,/en/players/5cc15685/Juan-Cervian,5cc15685,Almeria,"3,031",33.7,9.0,1.0,65,1.0,4569,Almeria
+,Juan Carlos Ramos,es ESP,MF,36,31,0.0,1.0,2002-2003,/en/players/3386ca6c/Juan-Carlos-Ramos,3386ca6c,Almeria,"2,683",29.8,10.0,0.0,65,1.0,4570,Almeria
+,Emmanuel Dorado,fr FRA,DF,32,31,0.0,0.0,2002-2003,/en/players/bf4ced65/Emmanuel-Dorado,bf4ced65,Almeria,"2,561",28.5,10.0,0.0,65,4.0,4571,Almeria
+,Esteban,es ESP,MF,35,30,2.0,0.0,2002-2003,/en/players/17d532aa/Esteban,17d532aa,Almeria,"2,570",28.6,7.0,2.0,65,1.0,4572,Almeria
+,Jose Barbero,,,29,29,0.0,0.0,2002-2003,No detected,,Almeria,"2,610",29.0,2.0,0.0,65,,90151,Almeria
+,Joaquín Sorribas,es ESP,MF,33,28,0.0,0.0,2002-2003,/en/players/d3b37f79/Joaquin-Sorribas,d3b37f79,Almeria,"2,306",25.6,15.0,1.0,65,1.0,4573,Almeria
+,César Jiménez,es ESP,DF,29,27,2.0,1.0,2002-2003,/en/players/efc6342b/Cesar-Jimenez,fc6342b,Almeria,"2,331",25.9,6.0,2.0,65,1.0,3552,Almeria
+,Mate Bilić,hr CRO,FW,31,25,1.0,9.0,2002-2003,/en/players/37e6a4eb/Mate-Bilic,37e6a4eb,Almeria,"2,173",24.1,5.0,1.0,65,16.0,4574,Almeria
+,Juanlu,es ESP,MF,31,25,2.0,6.0,2002-2003,/en/players/94b88487/Juanlu,94b88487,Almeria,"1,993",22.1,7.0,1.0,65,1.0,1389,Almeria
+,Ortega,es ESP,DF,22,22,0.0,0.0,2002-2003,/en/players/f535d7c6/Ortega,f535d7c6,Almeria,"1,911",21.2,11.0,2.0,65,1.0,4575,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",31,17,1.0,5.0,2002-2003,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,"1,558",17.3,3.0,1.0,65,1.0,4576,Almeria
+,Armindo Rubio,,,26,16,1.0,0.0,2002-2003,No detected,,Almeria,"1,564",17.4,9.0,0.0,65,,90152,Almeria
+,Luna,es ESP,FW,16,15,3.0,6.0,2002-2003,/en/players/73d5190d/Luna,73d5190d,Almeria,"1,308",14.5,7.0,1.0,65,1.0,4577,Almeria
+,Juan Jesús Cabrera Rubio,es ESP,MF,23,14,1.0,2.0,2002-2003,/en/players/325095d8/Juan-Jesus-Cabrera-Rubio,325095d8,Almeria,"1,211",13.5,4.0,0.0,65,1.0,4578,Almeria
+,José Ángel Ferrera,es ESP,,11,9,0.0,0.0,2002-2003,/en/players/2d9e5d0d/Jose-Angel-Ferrera,2d9e5d0d,Almeria,823,9.1,4.0,0.0,65,1.0,90153,Almeria
+,Rubén Falcón,es ESP,GK,8,8,0.0,0.0,2002-2003,/en/players/bf651b09/Ruben-Falcon,bf651b09,Almeria,720,8.0,0.0,0.0,65,1.0,3438,Almeria
+,Jorge Pérez Sáenz,es ESP,MF,23,7,1.0,0.0,2002-2003,/en/players/70355cf3/Jorge-Perez-Saenz,70355cf3,Almeria,915,10.2,0.0,0.0,65,1.0,4579,Almeria
+,Javi Peña,es ESP,FW,14,6,0.0,1.0,2002-2003,/en/players/6c3c4e78/Javi-Pena,6c3c4e78,Almeria,510,5.7,1.0,0.0,65,1.0,4580,Almeria
+,Javi Ruiz,es ESP,GK,5,5,0.0,0.0,2002-2003,/en/players/d0f6344a/Javi-Ruiz,d0f6344a,Almeria,450,5.0,1.0,0.0,65,1.0,4581,Almeria
+,Honorio Gallego,,,17,4,0.0,0.0,2002-2003,No detected,,Almeria,650,7.2,0.0,0.0,65,,90154,Almeria
+,Jose Larrosa,,,9,3,0.0,0.0,2002-2003,No detected,,Almeria,476,5.3,3.0,0.0,65,,90155,Almeria
+,Patri,es ESP,MF,5,2,1.0,1.0,2002-2003,/en/players/5281c162/Patri,5281c162,Almeria,187,2.1,0.0,0.0,65,1.0,4582,Almeria
+,Derteano Aiert,,,1,0,0.0,0.0,2002-2003,No detected,,Almeria,18,0.2,0.0,0.0,65,,90156,Almeria
+,Pedro Benitez,,,1,0,0.0,0.0,2002-2003,No detected,,Almeria,11,0.1,1.0,0.0,65,,90157,Almeria
+,﻿Francisco,es ESP,FW,39,39,2.0,16.0,2003-2004,/en/players/ea20ba95/Francisco,20ba95,Almeria,"3,375",37.5,3.0,0.0,65,1.0,3722,Almeria
+,Jaime Ramos,es ESP,MF,36,36,1.0,0.0,2003-2004,/en/players/0efbd49c/Jaime-Ramos,0efbd49c,Almeria,"3,006",33.4,15.0,2.0,65,1.0,3893,Almeria
+,César Jiménez,es ESP,DF,30,30,2.0,3.0,2003-2004,/en/players/efc6342b/Cesar-Jimenez,fc6342b,Almeria,"2,685",29.8,5.0,1.0,65,1.0,3552,Almeria
+,Carlos David Cano,es ESP,GK,29,29,0.0,0.0,2003-2004,/en/players/c7f63f13/Carlos-David-Cano,c7f63f13,Almeria,"2,610",29.0,2.0,0.0,65,1.0,3709,Almeria
+,Jorge Pérez Sáenz,es ESP,MF,40,29,2.0,4.0,2003-2004,/en/players/70355cf3/Jorge-Perez-Saenz,70355cf3,Almeria,"2,543",28.3,4.0,0.0,65,1.0,4579,Almeria
+,Stéphane Pignol,fr FRA,DF,29,25,2.0,1.0,2003-2004,/en/players/ca3ae27c/Stephane-Pignol,ca3ae27c,Almeria,"2,369",26.3,7.0,1.0,65,4.0,3563,Almeria
+,Constantin Gâlcă,ro ROU,MF,24,24,3.0,0.0,2003-2004,/en/players/624ddea0/Constantin-Galca,624ddea0,Almeria,"2,048",22.8,4.0,0.0,65,51.0,2715,Almeria
+,José Ángel Ferrera,es ESP,,25,24,1.0,0.0,2003-2004,/en/players/2d9e5d0d/Jose-Angel-Ferrera,2d9e5d0d,Almeria,"1,949",21.7,3.0,0.0,65,1.0,90153,Almeria
+,P Ortiz,,,27,22,1.0,1.0,2003-2004,No detected,,Almeria,"1,910",21.2,6.0,0.0,65,,90158,Almeria
+,Luna,es ESP,FW,28,21,5.0,5.0,2003-2004,/en/players/73d5190d/Luna,73d5190d,Almeria,"1,933",21.5,8.0,1.0,65,1.0,4577,Almeria
+,Juan Cervián,es ESP,DF,25,21,1.0,1.0,2003-2004,/en/players/5cc15685/Juan-Cervian,5cc15685,Almeria,"1,919",21.3,5.0,0.0,65,1.0,4569,Almeria
+,Ortega,es ESP,DF,20,18,0.0,0.0,2003-2004,/en/players/f535d7c6/Ortega,f535d7c6,Almeria,"1,628",18.1,3.0,0.0,65,1.0,4575,Almeria
+,Víctor Salas,es ESP,MF,20,18,0.0,3.0,2003-2004,/en/players/67c31cb7/Victor-Salas,67c31cb7,Almeria,"1,579",17.5,5.0,0.0,65,1.0,1787,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",35,16,3.0,3.0,2003-2004,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,"1,717",19.1,6.0,0.0,65,1.0,4576,Almeria
+,Juan Lago,,,17,16,0.0,1.0,2003-2004,No detected,,Almeria,"1,408",15.6,7.0,1.0,65,,90159,Almeria
+,Esteban,es ESP,MF,19,16,0.0,1.0,2003-2004,/en/players/17d532aa/Esteban,17d532aa,Almeria,"1,313",14.6,4.0,0.0,65,1.0,4572,Almeria
+,Raúl Lozano Marcos,es ESP,MF,25,15,1.0,1.0,2003-2004,/en/players/4cb14b26/Raul-Lozano-Marcos,4cb14b26,Almeria,"1,215",13.5,6.0,0.0,65,1.0,4583,Almeria
+,Joaquín Valerio,es ESP,GK,13,13,0.0,0.0,2003-2004,/en/players/5969d90a/Joaquin-Valerio,5969d90a,Almeria,"1,170",13.0,1.0,0.0,65,1.0,4584,Almeria
+,Nicolas Sahnoun,fr FRA,MF,15,11,2.0,1.0,2003-2004,/en/players/f1742e9a/Nicolas-Sahnoun,f1742e9a,Almeria,904,10.0,5.0,0.0,65,4.0,4585,Almeria
+,Bravo,es ESP,DF,8,7,0.0,0.0,2003-2004,/en/players/2fcd97a4/Bravo,2fcd97a4,Almeria,635,7.1,1.0,0.0,65,1.0,2305,Almeria
+,Juan Jesús Cabrera Rubio,es ESP,MF,9,6,0.0,1.0,2003-2004,/en/players/325095d8/Juan-Jesus-Cabrera-Rubio,325095d8,Almeria,417,4.6,0.0,1.0,65,1.0,4578,Almeria
+,Miguel Ángel Benítez,py PAR,FW,9,5,1.0,1.0,2003-2004,/en/players/e292572b/Miguel-Angel-Benitez,292572b,Almeria,506,5.6,2.0,1.0,65,43.0,4586,Almeria
+,Joaquín Sorribas,es ESP,MF,14,4,0.0,0.0,2003-2004,/en/players/d3b37f79/Joaquin-Sorribas,d3b37f79,Almeria,543,6.0,2.0,0.0,65,1.0,4573,Almeria
+,Renato,br BRA,DF,6,4,0.0,0.0,2003-2004,/en/players/6738f4c1/Renato,6738f4c1,Almeria,445,4.9,0.0,0.0,65,2.0,4587,Almeria
+,Gallego Honorio,,,14,3,1.0,0.0,2003-2004,No detected,,Almeria,509,5.7,5.0,0.0,65,,90160,Almeria
+,Jean-Louis Valois,fr FRA,MF,8,3,0.0,0.0,2003-2004,/en/players/c1905b04/Jean-Louis-Valois,c1905b04,Almeria,240,2.7,4.0,1.0,65,4.0,4588,Almeria
+,Juanlu,es ESP,MF,7,2,0.0,1.0,2003-2004,/en/players/94b88487/Juanlu,94b88487,Almeria,258,2.9,0.0,0.0,65,1.0,1389,Almeria
+,Olivares,es ESP,DF,3,2,0.0,0.0,2003-2004,/en/players/438fb313/Olivares,438fb313,Almeria,144,1.6,1.0,0.0,65,1.0,4568,Almeria
+,Marcelinho Paulista,br BRA,MF,3,2,0.0,1.0,2003-2004,/en/players/099068ab/Marcelinho-Paulista,099068ab,Almeria,137,1.5,1.0,1.0,65,2.0,4589,Almeria
+,Ferenc Horváth,hu HUN,FW,5,1,0.0,0.0,2003-2004,/en/players/2df4b5c5/Ferenc-Horvath,2df4b5c5,Almeria,150,1.7,0.0,0.0,65,87.0,4590,Almeria
+,Jose Sorroche,,,1,0,0.0,0.0,2003-2004,No detected,,Almeria,17,0.2,0.0,0.0,65,,90161,Almeria
+,Jesus Francis,,,1,0,0.0,0.0,2003-2004,No detected,,Almeria,10,0.1,0.0,0.0,65,,90162,Almeria
+,﻿Joaquín Valerio,es ESP,GK,37,36,0.0,0.0,2004-2005,/en/players/5969d90a/Joaquin-Valerio,5969d90a,Almeria,"3,229",35.9,1.0,1.0,65,1.0,4584,Almeria
+,Constantin Gâlcă,ro ROU,MF,34,33,6.0,2.0,2004-2005,/en/players/624ddea0/Constantin-Galca,624ddea0,Almeria,"2,904",32.3,10.0,2.0,65,51.0,2715,Almeria
+,Ibán Espadas,es ESP,FW,37,32,5.0,5.0,2004-2005,/en/players/1e764654/Iban-Espadas,1e764654,Almeria,"2,641",29.3,4.0,0.0,65,1.0,3536,Almeria
+,Miguel Ángel Soria,es ESP,DF,31,30,1.0,1.0,2004-2005,/en/players/22ab6697/Miguel-Angel-Soria,22ab6697,Almeria,"2,651",29.5,4.0,0.0,65,1.0,4591,Almeria
+,Martín Vellisca,es ESP,MF,35,30,2.0,2.0,2004-2005,/en/players/d859d8c2/Martin-Vellisca,d859d8c2,Almeria,"2,554",28.4,5.0,0.0,65,1.0,3531,Almeria
+,Manolo Gaspar,es ESP,DF,27,26,0.0,0.0,2004-2005,/en/players/be800693/Manolo-Gaspar,be800693,Almeria,"2,199",24.4,15.0,0.0,65,1.0,2350,Almeria
+,Jaime Ramos,es ESP,MF,29,24,0.0,0.0,2004-2005,/en/players/0efbd49c/Jaime-Ramos,0efbd49c,Almeria,"2,200",24.4,8.0,0.0,65,1.0,3893,Almeria
+,Santiago Acasiete,pe PER,DF,24,24,0.0,3.0,2004-2005,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"2,066",23.0,7.0,1.0,65,57.0,4592,Almeria
+,Raúl Lozano Marcos,es ESP,MF,29,21,0.0,1.0,2004-2005,/en/players/4cb14b26/Raul-Lozano-Marcos,4cb14b26,Almeria,"1,936",21.5,6.0,0.0,65,1.0,4583,Almeria
+,Juan Cervián,es ESP,DF,21,21,2.0,0.0,2004-2005,/en/players/5cc15685/Juan-Cervian,5cc15685,Almeria,"1,852",20.6,1.0,0.0,65,1.0,4569,Almeria
+,Esteban,es ESP,MF,26,21,0.0,1.0,2004-2005,/en/players/17d532aa/Esteban,17d532aa,Almeria,"1,497",16.6,10.0,0.0,65,1.0,4572,Almeria
+,Nicolas Sahnoun,fr FRA,MF,26,19,3.0,4.0,2004-2005,/en/players/f1742e9a/Nicolas-Sahnoun,f1742e9a,Almeria,"1,606",17.8,11.0,2.0,65,4.0,4585,Almeria
+,Isaac Jové Rubí,es ESP,MF,30,18,4.0,2.0,2004-2005,/en/players/d6e1904b/Isaac-Jove-Rubi,d6e1904b,Almeria,"1,631",18.1,5.0,1.0,65,1.0,3935,Almeria
+,Jon Ander Lambea,es ESP,DF,21,18,0.0,0.0,2004-2005,/en/players/f370429e/Jon-Ander-Lambea,f370429e,Almeria,"1,622",18.0,7.0,0.0,65,1.0,4593,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",24,18,2.0,3.0,2004-2005,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,"1,410",15.7,5.0,0.0,65,1.0,4576,Almeria
+,Miguel Rebosio,pe PER,DF,18,17,0.0,1.0,2004-2005,/en/players/306e0437/Miguel-Rebosio,306e0437,Almeria,"1,541",17.1,8.0,0.0,65,57.0,3528,Almeria
+,José Galán,es ESP,DF,16,14,0.0,0.0,2004-2005,/en/players/7b140e43/Jose-Galan,7b140e43,Almeria,"1,355",15.1,2.0,0.0,65,1.0,3143,Almeria
+,Luna,es ESP,FW,27,13,0.0,4.0,2004-2005,/en/players/73d5190d/Luna,73d5190d,Almeria,"1,444",16.0,7.0,0.0,65,1.0,4577,Almeria
+,Roberto Nanni,ar ARG,FW,12,11,1.0,5.0,2004-2005,/en/players/fa1d1239/Roberto-Nanni,fa1d1239,Almeria,954,10.6,3.0,0.0,65,5.0,4594,Almeria
+,Paulo Jamelli,br BRA,FW,26,10,0.0,2.0,2004-2005,/en/players/e9cdf4c1/Paulo-Jamelli,9cdf4c1,Almeria,"1,203",13.4,3.0,0.0,65,2.0,3543,Almeria
+,Aldo Adorno,py PAR,"FW,MF",12,8,0.0,0.0,2004-2005,/en/players/bb385b33/Aldo-Adorno,bb385b33,Almeria,777,8.6,2.0,1.0,65,43.0,4595,Almeria
+,Carlos David Cano,es ESP,GK,6,5,0.0,0.0,2004-2005,/en/players/c7f63f13/Carlos-David-Cano,c7f63f13,Almeria,447,5.0,2.0,0.0,65,1.0,3709,Almeria
+,Christian Díaz,ar ARG,"DF,MF",4,3,0.0,0.0,2004-2005,/en/players/4c6f6ef4/Christian-Diaz,4c6f6ef4,Almeria,279,3.1,1.0,0.0,65,5.0,3718,Almeria
+,Míchel,es ESP,FW,3,3,2.0,0.0,2004-2005,/en/players/5f68b183/Michel,5f68b183,Almeria,237,2.6,0.0,0.0,65,1.0,3419,Almeria
+,Leonel Ríos,ar ARG,"FW,MF",10,2,1.0,0.0,2004-2005,/en/players/51c43eb8/Leonel-Rios,51c43eb8,Almeria,361,4.0,0.0,0.0,65,5.0,4596,Almeria
+,P Ortiz,,,10,1,1.0,0.0,2004-2005,No detected,,Almeria,363,4.0,0.0,0.0,65,,90158,Almeria
+,Marc Francoli,,,2,1,1.0,0.0,2004-2005,No detected,,Almeria,126,1.4,0.0,0.0,65,,90163,Almeria
+,Ricardo Molina,es ESP,GK,1,1,0.0,0.0,2004-2005,/en/players/514355f2/Ricardo-Molina,514355f2,Almeria,90,1.0,0.0,0.0,65,1.0,4597,Almeria
+,Lopes,br BRA,,1,0,0.0,0.0,2004-2005,/en/players/904705ec/Lopes,904705ec,Almeria,2,0.0,0.0,0.0,65,2.0,90164,Almeria
+,﻿Constantin Gâlcă,ro ROU,MF,40,40,4.0,2.0,2005-2006,/en/players/624ddea0/Constantin-Galca,624ddea0,Almeria,"3,596",40.0,5.0,1.0,65,51.0,2715,Almeria
+,Joaquín Valerio,es ESP,GK,39,39,0.0,0.0,2005-2006,/en/players/5969d90a/Joaquin-Valerio,5969d90a,Almeria,"3,510",39.0,3.0,0.0,65,1.0,4584,Almeria
+,Carlos García,es ESP,DF,39,39,2.0,0.0,2005-2006,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Almeria,"3,487",38.7,12.0,1.0,65,1.0,1418,Almeria
+,Manolo Gaspar,es ESP,DF,38,37,0.0,0.0,2005-2006,/en/players/be800693/Manolo-Gaspar,be800693,Almeria,"3,361",37.3,11.0,2.0,65,1.0,2350,Almeria
+,Santiago Acasiete,pe PER,DF,35,34,0.0,3.0,2005-2006,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"3,036",33.7,8.0,2.0,65,57.0,4592,Almeria
+,Fernando Soriano,es ESP,MF,34,34,5.0,7.0,2005-2006,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"2,972",33.0,12.0,0.0,65,1.0,2033,Almeria
+,Albert Crusat,es ESP,"FW,MF",34,34,6.0,8.0,2005-2006,/en/players/ba027002/Albert-Crusat,ba027002,Almeria,"2,881",32.0,10.0,1.0,65,1.0,3013,Almeria
+,Francisco,es ESP,FW,35,27,2.0,6.0,2005-2006,/en/players/ea20ba95/Francisco,20ba95,Almeria,"2,368",26.3,5.0,0.0,65,1.0,3722,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",32,24,6.0,8.0,2005-2006,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,"2,235",24.8,7.0,1.0,65,1.0,4576,Almeria
+,David Bermudo,es ESP,DF,24,23,1.0,0.0,2005-2006,/en/players/1066df99/David-Bermudo,1066df99,Almeria,"2,052",22.8,9.0,0.0,65,1.0,4598,Almeria
+,Raúl Lozano Marcos,es ESP,MF,27,17,6.0,0.0,2005-2006,/en/players/4cb14b26/Raul-Lozano-Marcos,4cb14b26,Almeria,"1,493",16.6,10.0,1.0,65,1.0,4583,Almeria
+,Kalu Uche,ng NGA,"FW,MF",27,17,1.0,4.0,2005-2006,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,"1,456",16.2,3.0,0.0,65,52.0,3071,Almeria
+,Domingo Cisma,es ESP,DF,16,16,0.0,0.0,2005-2006,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Almeria,"1,406",15.6,4.0,1.0,65,1.0,2204,Almeria
+,Míchel,es ESP,FW,24,15,1.0,5.0,2005-2006,/en/players/5f68b183/Michel,5f68b183,Almeria,"1,281",14.2,3.0,0.0,65,1.0,3419,Almeria
+,Jonathan Soriano,es ESP,FW,17,12,0.0,7.0,2005-2006,/en/players/036fb721/Jonathan-Soriano,036fb721,Almeria,960,10.7,3.0,0.0,65,1.0,3030,Almeria
+,Luna,es ESP,FW,26,11,1.0,2.0,2005-2006,/en/players/73d5190d/Luna,73d5190d,Almeria,"1,234",13.7,4.0,0.0,65,1.0,4577,Almeria
+,Jaime Ramos,es ESP,MF,13,9,0.0,1.0,2005-2006,/en/players/0efbd49c/Jaime-Ramos,0efbd49c,Almeria,786,8.7,3.0,0.0,65,1.0,3893,Almeria
+,Ricardo Varela,,,16,9,0.0,1.0,2005-2006,No detected,,Almeria,696,7.7,1.0,0.0,65,,90165,Almeria
+,Miguel Ángel Soria,es ESP,DF,8,7,0.0,0.0,2005-2006,/en/players/22ab6697/Miguel-Angel-Soria,22ab6697,Almeria,649,7.2,2.0,0.0,65,1.0,4591,Almeria
+,Martín Vellisca,es ESP,MF,16,4,2.0,0.0,2005-2006,/en/players/d859d8c2/Martin-Vellisca,d859d8c2,Almeria,533,5.9,0.0,0.0,65,1.0,3531,Almeria
+,Juan Cervián,es ESP,DF,5,4,0.0,0.0,2005-2006,/en/players/5cc15685/Juan-Cervian,5cc15685,Almeria,405,4.5,1.0,0.0,65,1.0,4569,Almeria
+,Antoni Velamazán,es ESP,,13,3,0.0,0.0,2005-2006,/en/players/303264be/Antoni-Velamazan,303264be,Almeria,380,4.2,1.0,0.0,65,1.0,90166,Almeria
+,Carlos Sánchez,es ESP,GK,3,3,0.0,0.0,2005-2006,/en/players/8b7d33d9/Carlos-Sanchez,8b7d33d9,Almeria,270,3.0,0.0,0.0,65,1.0,4599,Almeria
+,Molo,es ESP,DF,4,2,0.0,0.0,2005-2006,/en/players/2d49a46b/Molo,2d49a46b,Almeria,177,2.0,0.0,0.0,65,1.0,4600,Almeria
+,Marc Francoli,,,5,1,0.0,0.0,2005-2006,No detected,,Almeria,151,1.7,1.0,0.0,65,,90163,Almeria
+,Jorge Pelegrina,es ESP,DF,1,1,0.0,0.0,2005-2006,/en/players/e5a0f45d/Jorge-Pelegrina,5a0f45d,Almeria,74,0.8,1.0,0.0,65,1.0,4601,Almeria
+,﻿Bruno,es ESP,DF,36,35,3.0,0.0,2006-2007,/en/players/78803d03/Bruno,78803d03,Almeria,"3,135",34.8,12.0,2.0,65,1.0,925,Almeria
+,Mané,es ESP,"DF,MF",35,34,5.0,0.0,2006-2007,/en/players/6b015a27/Mane,6b015a27,Almeria,"2,962",32.9,7.0,3.0,65,1.0,4028,Almeria
+,Sander Westerveld,nl NED,GK,34,33,0.0,0.0,2006-2007,/en/players/dc8d38a2/Sander-Westerveld,dc8d38a2,Almeria,"3,044",33.8,6.0,1.0,65,11.0,192,Almeria
+,Santiago Acasiete,pe PER,DF,33,33,1.0,3.0,2006-2007,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"2,841",31.6,8.0,2.0,65,57.0,4592,Almeria
+,Corona,es ESP,MF,40,33,7.0,6.0,2006-2007,/en/players/4798bc33/Corona,4798bc33,Almeria,"2,629",29.2,5.0,1.0,65,1.0,3535,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",36,31,7.0,10.0,2006-2007,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,"2,828",31.4,9.0,1.0,65,1.0,4576,Almeria
+,Carlos García,es ESP,DF,32,31,0.0,0.0,2006-2007,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Almeria,"2,734",30.4,12.0,0.0,65,1.0,1418,Almeria
+,Albert Crusat,es ESP,"FW,MF",34,30,6.0,11.0,2006-2007,/en/players/ba027002/Albert-Crusat,ba027002,Almeria,"2,751",30.6,13.0,2.0,65,1.0,3013,Almeria
+,José Cabrera,es ESP,MF,31,29,2.0,0.0,2006-2007,/en/players/c7bf7830/Jose-Cabrera,c7bf7830,Almeria,"2,353",26.1,10.0,1.0,65,1.0,3308,Almeria
+,Míchel,es ESP,FW,34,29,4.0,12.0,2006-2007,/en/players/5f68b183/Michel,5f68b183,Almeria,"2,050",22.8,2.0,0.0,65,1.0,3419,Almeria
+,Fernando Soriano,es ESP,MF,22,19,4.0,2.0,2006-2007,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"1,752",19.5,7.0,1.0,65,1.0,2033,Almeria
+,Kalu Uche,ng NGA,"FW,MF",28,18,1.0,8.0,2006-2007,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,"1,578",17.5,1.0,0.0,65,52.0,3071,Almeria
+,Alberto,es ESP,MF,27,17,1.0,1.0,2006-2007,/en/players/cbd5eb5f/Alberto,cbd5eb5f,Almeria,"1,710",19.0,4.0,0.0,65,1.0,4602,Almeria
+,Gorka Larrea,es ESP,MF,28,15,1.0,2.0,2006-2007,/en/players/242e09b6/Gorka-Larrea,242e09b6,Almeria,"1,421",15.8,6.0,1.0,65,1.0,216,Almeria
+,Domingo Cisma,es ESP,DF,20,14,0.0,1.0,2006-2007,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Almeria,"1,219",13.5,5.0,1.0,65,1.0,2204,Almeria
+,Mario Bermejo,es ESP,FW,32,12,5.0,5.0,2006-2007,/en/players/c8dcfee8/Mario-Bermejo,c8dcfee8,Almeria,"1,337",14.9,7.0,1.0,65,1.0,746,Almeria
+,Pedro Mairata,es ESP,DF,15,11,0.0,0.0,2006-2007,/en/players/de9e9405/Pedro-Mairata,de9e9405,Almeria,987,11.0,4.0,2.0,65,1.0,4462,Almeria
+,Joaquín Valerio,es ESP,GK,8,8,0.0,0.0,2006-2007,/en/players/5969d90a/Joaquin-Valerio,5969d90a,Almeria,720,8.0,1.0,0.0,65,1.0,4584,Almeria
+,Laurent de Palmas,fr FRA,DF,15,7,2.0,0.0,2006-2007,/en/players/bd537175/Laurent-de-Palmas,bd537175,Almeria,693,7.7,5.0,1.0,65,4.0,4603,Almeria
+,Rodri,es ESP,DF,11,7,0.0,0.0,2006-2007,/en/players/7fa4aa89/Rodri,7fa4aa89,Almeria,662,7.4,3.0,1.0,65,1.0,421,Almeria
+,José María Mena,es ESP,FW,16,6,1.0,2.0,2006-2007,/en/players/bc2150cb/Jose-Maria-Mena,bc2150cb,Almeria,598,6.6,4.0,0.0,65,1.0,3293,Almeria
+,Francisco,es ESP,FW,13,5,0.0,2.0,2006-2007,/en/players/ea20ba95/Francisco,20ba95,Almeria,535,5.9,1.0,0.0,65,1.0,3722,Almeria
+,David Bermudo,es ESP,DF,6,3,0.0,0.0,2006-2007,/en/players/1066df99/David-Bermudo,1066df99,Almeria,352,3.9,2.0,0.0,65,1.0,4598,Almeria
+,Ricardo Molina,es ESP,GK,1,1,0.0,0.0,2006-2007,/en/players/514355f2/Ricardo-Molina,514355f2,Almeria,6,0.1,0.0,1.0,65,1.0,4597,Almeria
+,﻿Mané,es ESP,"DF,MF",36,36,4.0,2.0,2007-2008,/en/players/6b015a27/Mane,6b015a27,Almeria,"3,144",34.9,9.0,0.0,65,1.0,4028,Almeria
+,Carlos García,es ESP,DF,35,35,0.0,0.0,2007-2008,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Almeria,"3,150",35.0,11.0,0.0,65,1.0,1418,Almeria
+,Bruno,es ESP,DF,34,34,1.0,0.0,2007-2008,/en/players/78803d03/Bruno,78803d03,Almeria,"2,901",32.2,11.0,0.0,65,1.0,925,Almeria
+,Álvaro Negredo,es ESP,FW,36,34,3.0,12.0,2007-2008,/en/players/63b0ca6b/Alvaro-Negredo,63b0ca6b,Almeria,"2,843",31.6,3.0,0.0,65,1.0,961,Almeria
+,Juan Manuel Ortiz,es ESP,"DF,MF",35,32,1.0,3.0,2007-2008,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Almeria,"2,498",27.8,10.0,0.0,65,1.0,2007,Almeria
+,Albert Crusat,es ESP,"FW,MF",34,31,3.0,3.0,2007-2008,/en/players/ba027002/Albert-Crusat,ba027002,Almeria,"2,687",29.9,9.0,2.0,65,1.0,3013,Almeria
+,Felipe Melo,br BRA,"DF,MF",34,30,0.0,7.0,2007-2008,/en/players/b14d84d3/Felipe-Melo,b14d84d3,Almeria,"2,590",28.8,13.0,0.0,65,2.0,1583,Almeria
+,Juanito,es ESP,"DF,MF",31,28,0.0,1.0,2007-2008,/en/players/47176127/Juanito,47176127,Almeria,"2,229",24.8,9.0,1.0,65,1.0,242,Almeria
+,Fernando Soriano,es ESP,MF,34,26,1.0,2.0,2007-2008,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"2,209",24.5,10.0,0.0,65,1.0,2033,Almeria
+,Rubén Pulido,es ESP,DF,26,24,0.0,3.0,2007-2008,/en/players/3a8be98c/Ruben-Pulido,3a8be98c,Almeria,"2,147",23.9,10.0,1.0,65,1.0,3421,Almeria
+,Diego Alves,br BRA,GK,22,21,0.0,0.0,2007-2008,/en/players/12421a7c/Diego-Alves,12421a7c,Almeria,"1,957",21.7,3.0,0.0,65,2.0,942,Almeria
+,Corona,es ESP,MF,32,21,4.0,1.0,2007-2008,/en/players/4798bc33/Corona,4798bc33,Almeria,"1,942",21.6,5.0,0.0,65,1.0,3535,Almeria
+,David Cobeño,es ESP,GK,17,17,0.0,0.0,2007-2008,/en/players/df7b0840/David-Cobeno,df7b0840,Almeria,"1,463",16.3,3.0,1.0,65,1.0,1827,Almeria
+,Santiago Acasiete,pe PER,DF,20,17,0.0,2.0,2007-2008,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"1,373",15.3,3.0,1.0,65,57.0,4592,Almeria
+,Kalu Uche,ng NGA,"FW,MF",30,10,1.0,3.0,2007-2008,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,"1,091",12.1,1.0,0.0,65,52.0,3071,Almeria
+,Domingo Cisma,es ESP,DF,11,9,0.0,0.0,2007-2008,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Almeria,764,8.5,3.0,1.0,65,1.0,2204,Almeria
+,López Rekarte,es ESP,DF,10,4,0.0,0.0,2007-2008,/en/players/346b3104/Lopez-Rekarte,346b3104,Almeria,584,6.5,2.0,0.0,65,1.0,191,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",21,3,1.0,0.0,2007-2008,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,624,6.9,0.0,0.0,65,1.0,4576,Almeria
+,Natalio,es ESP,FW,13,2,0.0,0.0,2007-2008,/en/players/239425b9/Natalio,239425b9,Almeria,424,4.7,0.0,0.0,65,1.0,3933,Almeria
+,Iriney,br BRA,MF,8,2,0.0,0.0,2007-2008,/en/players/09296fcc/Iriney,09296fcc,Almeria,286,3.2,0.0,0.0,65,2.0,666,Almeria
+,Veljko Paunović,es ESP,"FW,MF",7,1,0.0,2.0,2007-2008,/en/players/7d0ae66f/Veljko-Paunovic,7d0ae66f,Almeria,202,2.2,1.0,1.0,65,1.0,2142,Almeria
+,José Cabrera,es ESP,MF,3,1,0.0,0.0,2007-2008,/en/players/c7bf7830/Jose-Cabrera,c7bf7830,Almeria,115,1.3,0.0,0.0,65,1.0,3308,Almeria
+,Guilherme Santos,br BRA,"DF,MF",2,0,0.0,0.0,2007-2008,/en/players/ffd78d3d/Guilherme-Santos,ffd78d3d,Almeria,34,0.4,0.0,0.0,65,2.0,4604,Almeria
+,﻿Bruno,es ESP,DF,34,34,2.0,0.0,2008-2009,/en/players/78803d03/Bruno,78803d03,Almeria,"2,988",33.2,7.0,1.0,65,1.0,925,Almeria
+,Álvaro Negredo,es ESP,FW,34,34,5.0,19.0,2008-2009,/en/players/63b0ca6b/Alvaro-Negredo,63b0ca6b,Almeria,"2,811",31.2,8.0,2.0,65,1.0,961,Almeria
+,Mané,es ESP,"DF,MF",32,31,3.0,1.0,2008-2009,/en/players/6b015a27/Mane,6b015a27,Almeria,"2,830",31.4,8.0,1.0,65,1.0,4028,Almeria
+,Diego Alves,br BRA,GK,31,31,0.0,0.0,2008-2009,/en/players/12421a7c/Diego-Alves,12421a7c,Almeria,"2,790",31.0,3.0,0.0,65,2.0,942,Almeria
+,Juan Manuel Ortiz,es ESP,"DF,MF",32,31,1.0,4.0,2008-2009,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Almeria,"2,351",26.1,7.0,0.0,65,1.0,2007,Almeria
+,Hernán Pellerano,ar ARG,DF,31,30,0.0,1.0,2008-2009,/en/players/027f513e/Hernan-Pellerano,027f513e,Almeria,"2,676",29.7,8.0,2.0,65,5.0,4605,Almeria
+,Juanito,es ESP,"DF,MF",30,27,0.0,0.0,2008-2009,/en/players/47176127/Juanito,47176127,Almeria,"2,201",24.5,7.0,0.0,65,1.0,242,Almeria
+,Albert Crusat,es ESP,"FW,MF",30,24,5.0,1.0,2008-2009,/en/players/ba027002/Albert-Crusat,ba027002,Almeria,"2,082",23.1,9.0,1.0,65,1.0,3013,Almeria
+,Pablo Piatti,ar ARG,"FW,MF",31,19,0.0,5.0,2008-2009,/en/players/48e89655/Pablo-Piatti,48e89655,Almeria,"1,680",18.7,1.0,0.0,65,5.0,941,Almeria
+,Carlos García,es ESP,DF,19,18,0.0,0.0,2008-2009,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Almeria,"1,601",17.8,10.0,0.0,65,1.0,1418,Almeria
+,Kalu Uche,ng NGA,"FW,MF",27,17,1.0,8.0,2008-2009,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,"1,644",18.3,2.0,2.0,65,52.0,3071,Almeria
+,Julio Álvarez,ve VEN,MF,21,17,0.0,0.0,2008-2009,/en/players/17b1a0ee/Julio-Alvarez,17b1a0ee,Almeria,"1,615",17.9,1.0,0.0,65,53.0,1612,Almeria
+,Santiago Acasiete,pe PER,DF,17,17,0.0,1.0,2008-2009,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"1,507",16.7,3.0,0.0,65,57.0,4592,Almeria
+,Fernando Soriano,es ESP,MF,24,17,1.0,1.0,2008-2009,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"1,447",16.1,6.0,0.0,65,1.0,2033,Almeria
+,Iriney,br BRA,MF,18,17,0.0,0.0,2008-2009,/en/players/09296fcc/Iriney,09296fcc,Almeria,"1,436",16.0,6.0,0.0,65,2.0,666,Almeria
+,Corona,es ESP,MF,30,16,0.0,1.0,2008-2009,/en/players/4798bc33/Corona,4798bc33,Almeria,"1,485",16.5,3.0,0.0,65,1.0,3535,Almeria
+,Chico,es ESP,DF,20,15,1.0,1.0,2008-2009,/en/players/95825cf2/Chico,95825cf2,Almeria,"1,358",15.1,3.0,1.0,65,1.0,1628,Almeria
+,Esteban,es ESP,GK,7,7,0.0,0.0,2008-2009,/en/players/e4fc2638/Esteban,4fc2638,Almeria,630,7.0,1.0,0.0,65,1.0,673,Almeria
+,Guilherme Santos,br BRA,"DF,MF",7,6,0.0,0.0,2008-2009,/en/players/ffd78d3d/Guilherme-Santos,ffd78d3d,Almeria,486,5.4,3.0,1.0,65,2.0,4604,Almeria
+,Miguel Ángel Nieto,es ESP,MF,10,4,0.0,1.0,2008-2009,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Almeria,372,4.1,1.0,0.0,65,1.0,60,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",25,3,1.0,0.0,2008-2009,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,725,8.1,2.0,1.0,65,1.0,4576,Almeria
+,Esteban Solari,ar ARG,FW,8,2,0.0,1.0,2008-2009,/en/players/6f02b56b/Esteban-Solari,6f02b56b,Almeria,228,2.5,0.0,0.0,65,5.0,4606,Almeria
+,Michel,br BRA,DF,2,1,0.0,0.0,2008-2009,/en/players/05384ea1/Michel,05384ea1,Almeria,61,0.7,0.0,0.0,65,2.0,4607,Almeria
+,Natalio,es ESP,FW,9,0,0.0,0.0,2008-2009,/en/players/239425b9/Natalio,239425b9,Almeria,202,2.2,1.0,0.0,65,1.0,3933,Almeria
+,﻿Diego Alves,br BRA,GK,37,37,0.0,0.0,2009-2010,/en/players/12421a7c/Diego-Alves,12421a7c,Almeria,"3,302",36.7,3.0,1.0,65,2.0,942,Almeria
+,Hernán Bernardello,ar ARG,MF,35,35,2.0,0.0,2009-2010,/en/players/dec04537/Hernan-Bernardello,dec04537,Almeria,"3,033",33.7,11.0,0.0,65,5.0,3345,Almeria
+,Fernando Soriano,es ESP,MF,35,33,2.0,7.0,2009-2010,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"2,864",31.8,12.0,0.0,65,1.0,2033,Almeria
+,Santiago Acasiete,pe PER,DF,31,31,1.0,0.0,2009-2010,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"2,735",30.4,7.0,0.0,65,57.0,4592,Almeria
+,Albert Crusat,es ESP,"FW,MF",33,31,4.0,7.0,2009-2010,/en/players/ba027002/Albert-Crusat,ba027002,Almeria,"2,591",28.8,13.0,0.0,65,1.0,3013,Almeria
+,Domingo Cisma,es ESP,DF,33,29,1.0,3.0,2009-2010,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Almeria,"2,590",28.8,9.0,0.0,65,1.0,2204,Almeria
+,Pablo Piatti,ar ARG,"FW,MF",35,28,2.0,6.0,2009-2010,/en/players/48e89655/Pablo-Piatti,48e89655,Almeria,"2,488",27.6,7.0,1.0,65,5.0,941,Almeria
+,Modeste M'bami,cm CMR,MF,28,28,0.0,0.0,2009-2010,/en/players/82ec2963/Modeste-Mbami,82ec2963,Almeria,"2,391",26.6,7.0,0.0,65,36.0,4608,Almeria
+,Michel,br BRA,DF,28,28,1.0,1.0,2009-2010,/en/players/05384ea1/Michel,05384ea1,Almeria,"2,362",26.2,3.0,0.0,65,2.0,4607,Almeria
+,Chico,es ESP,DF,27,27,0.0,0.0,2009-2010,/en/players/95825cf2/Chico,95825cf2,Almeria,"2,326",25.8,6.0,2.0,65,1.0,1628,Almeria
+,Juan Manuel Ortiz,es ESP,"DF,MF",34,23,2.0,2.0,2009-2010,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Almeria,"2,099",23.3,8.0,2.0,65,1.0,2007,Almeria
+,Kalu Uche,ng NGA,"FW,MF",28,21,2.0,9.0,2009-2010,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,"2,042",22.7,1.0,0.0,65,52.0,3071,Almeria
+,Hernán Pellerano,ar ARG,DF,19,17,0.0,0.0,2009-2010,/en/players/027f513e/Hernan-Pellerano,027f513e,Almeria,"1,548",17.2,2.0,0.0,65,5.0,4605,Almeria
+,Corona,es ESP,MF,22,13,2.0,1.0,2009-2010,/en/players/4798bc33/Corona,4798bc33,Almeria,"1,223",13.6,3.0,0.0,65,1.0,3535,Almeria
+,Henok Goitom,er ERI,FW,21,11,1.0,1.0,2009-2010,/en/players/c3680236/Henok-Goitom,c3680236,Almeria,"1,039",11.5,1.0,0.0,65,91.0,2558,Almeria
+,Guilherme Santos,br BRA,"DF,MF",15,11,0.0,1.0,2009-2010,/en/players/ffd78d3d/Guilherme-Santos,ffd78d3d,Almeria,"1,004",11.2,2.0,1.0,65,2.0,4604,Almeria
+,Fabián Vargas,co COL,MF,10,6,0.0,0.0,2009-2010,/en/players/37a8a372/Fabian-Vargas,37a8a372,Almeria,465,5.2,1.0,0.0,65,19.0,4609,Almeria
+,Miguel Ángel Nieto,es ESP,MF,14,3,0.0,0.0,2009-2010,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Almeria,418,4.6,1.0,0.0,65,1.0,60,Almeria
+,David Rodríguez,es ESP,FW,9,2,0.0,1.0,2009-2010,/en/players/bae862bf/David-Rodriguez,bae862bf,Almeria,231,2.6,0.0,0.0,65,1.0,706,Almeria
+,Leonardo Borzani,ar ARG,MF,3,2,0.0,0.0,2009-2010,/en/players/c61d56c1/Leonardo-Borzani,c61d56c1,Almeria,182,2.0,1.0,0.0,65,5.0,4610,Almeria
+,Esteban,es ESP,GK,2,1,0.0,0.0,2009-2010,/en/players/e4fc2638/Esteban,4fc2638,Almeria,118,1.3,0.0,0.0,65,1.0,673,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",16,0,1.0,1.0,2009-2010,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,227,2.5,1.0,0.0,65,1.0,4576,Almeria
+,Esteban Solari,ar ARG,FW,2,0,0.0,0.0,2009-2010,/en/players/6f02b56b/Esteban-Solari,6f02b56b,Almeria,26,0.3,0.0,0.0,65,5.0,4606,Almeria
+,Álex Quillo,es ESP,MF,1,0,,0.0,2009-2010,/en/players/3110aa90/Alex-Quillo,3110aa90,Almeria,16,0.2,0.0,0.0,65,1.0,3193,Almeria
+,﻿Pablo Piatti,ar ARG,"FW,MF",35,34,4.0,8.0,2010-2011,/en/players/48e89655/Pablo-Piatti,48e89655,Almeria,"2,929",32.5,7.0,0.0,65,5.0,941,Almeria
+,Diego Alves,br BRA,GK,33,33,0.0,0.0,2010-2011,/en/players/12421a7c/Diego-Alves,12421a7c,Almeria,"2,970",33.0,5.0,0.0,65,2.0,942,Almeria
+,Carlos García,es ESP,DF,33,33,0.0,1.0,2010-2011,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Almeria,"2,942",32.7,8.0,1.0,65,1.0,1418,Almeria
+,Hernán Bernardello,ar ARG,MF,33,33,3.0,1.0,2010-2011,/en/players/dec04537/Hernan-Bernardello,dec04537,Almeria,"2,843",31.6,11.0,0.0,65,5.0,3345,Almeria
+,Michel,br BRA,DF,31,30,1.0,0.0,2010-2011,/en/players/05384ea1/Michel,05384ea1,Almeria,"2,646",29.4,6.0,0.0,65,2.0,4607,Almeria
+,Albert Crusat,es ESP,"FW,MF",34,30,7.0,3.0,2010-2011,/en/players/ba027002/Albert-Crusat,ba027002,Almeria,"2,539",28.2,5.0,0.0,65,1.0,3013,Almeria
+,Modeste M'bami,cm CMR,MF,30,28,1.0,1.0,2010-2011,/en/players/82ec2963/Modeste-Mbami,82ec2963,Almeria,"2,476",27.5,7.0,0.0,65,36.0,4608,Almeria
+,Kalu Uche,ng NGA,"FW,MF",32,26,3.0,7.0,2010-2011,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,"2,213",24.6,3.0,0.0,65,52.0,3071,Almeria
+,Juan Manuel Ortiz,es ESP,"DF,MF",26,24,1.0,1.0,2010-2011,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Almeria,"2,126",23.6,12.0,0.0,65,1.0,2007,Almeria
+,Marcelo Silva,uy URU,DF,21,21,1.0,1.0,2010-2011,/en/players/b9596515/Marcelo-Silva,b9596515,Almeria,"1,840",20.4,3.0,0.0,65,8.0,2618,Almeria
+,Corona,es ESP,MF,30,21,1.0,2.0,2010-2011,/en/players/4798bc33/Corona,4798bc33,Almeria,"1,717",19.1,2.0,0.0,65,1.0,3535,Almeria
+,Santiago Acasiete,pe PER,DF,20,17,0.0,0.0,2010-2011,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"1,598",17.8,4.0,0.0,65,57.0,4592,Almeria
+,Leonardo Ulloa,ar ARG,FW,34,16,0.0,7.0,2010-2011,/en/players/eed56f6c/Leonardo-Ulloa,d56f6c,Almeria,"1,766",19.6,8.0,1.0,65,5.0,3495,Almeria
+,Michael Jakobsen,dk DEN,DF,16,14,1.0,0.0,2010-2011,/en/players/9135fc2e/Michael-Jakobsen,9135fc2e,Almeria,"1,201",13.3,4.0,1.0,65,7.0,4611,Almeria
+,Antonio Luna,es ESP,DF,13,13,1.0,0.0,2010-2011,/en/players/ed239245/Antonio-Luna,d239245,Almeria,"1,167",13.0,3.0,1.0,65,1.0,1644,Almeria
+,Fabián Vargas,co COL,MF,20,12,0.0,1.0,2010-2011,/en/players/37a8a372/Fabian-Vargas,37a8a372,Almeria,"1,086",12.1,8.0,0.0,65,19.0,4609,Almeria
+,Henok Goitom,er ERI,FW,26,8,1.0,1.0,2010-2011,/en/players/c3680236/Henok-Goitom,c3680236,Almeria,865,9.6,0.0,0.0,65,91.0,2558,Almeria
+,Hernán Pellerano,ar ARG,DF,8,7,0.0,0.0,2010-2011,/en/players/027f513e/Hernan-Pellerano,027f513e,Almeria,611,6.8,2.0,0.0,65,5.0,4605,Almeria
+,Juanito,es ESP,"DF,MF",9,5,0.0,0.0,2010-2011,/en/players/47176127/Juanito,47176127,Almeria,487,5.4,1.0,0.0,65,1.0,242,Almeria
+,Esteban,es ESP,GK,5,5,0.0,0.0,2010-2011,/en/players/e4fc2638/Esteban,4fc2638,Almeria,450,5.0,0.0,0.0,65,1.0,673,Almeria
+,Sofiane Feghouli,dz ALG,"FW,MF",9,4,0.0,2.0,2010-2011,/en/players/691f64f5/Sofiane-Feghouli,691f64f5,Almeria,345,3.8,0.0,0.0,65,37.0,938,Almeria
+,Diego Valeri,ar ARG,"FW,MF",9,2,0.0,0.0,2010-2011,/en/players/31da63ad/Diego-Valeri,31da63ad,Almeria,273,3.0,1.0,0.0,65,5.0,4612,Almeria
+,Lillo,es ESP,DF,2,1,0.0,0.0,2010-2011,/en/players/476ca810/Lillo,476ca810,Almeria,116,1.3,1.0,0.0,65,1.0,931,Almeria
+,Baltasar Rigo,es ESP,DF,1,1,0.0,0.0,2010-2011,/en/players/b80570db/Baltasar-Rigo,b80570db,Almeria,90,1.0,0.0,0.0,65,1.0,4272,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",15,0,2.0,0.0,2010-2011,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,252,2.8,0.0,0.0,65,1.0,4576,Almeria
+,Miguel Ángel Nieto,es ESP,MF,1,0,0.0,0.0,2010-2011,/en/players/3a935b70/Miguel-Angel-Nieto,3a935b70,Almeria,4,0.0,0.0,0.0,65,1.0,60,Almeria
+,﻿Esteban,es ESP,GK,42,42,0.0,0.0,2011-2012,/en/players/e4fc2638/Esteban,4fc2638,Almeria,"3,780",42.0,3.0,0.0,65,1.0,673,Almeria
+,Aleix Vidal,es ESP,"DF,MF",41,41,6.0,5.0,2011-2012,/en/players/04965583/Aleix-Vidal,04965583,Almeria,"3,551",39.5,5.0,0.0,65,1.0,1154,Almeria
+,Michael Jakobsen,dk DEN,DF,38,38,2.0,1.0,2011-2012,/en/players/9135fc2e/Michael-Jakobsen,9135fc2e,Almeria,"3,368",37.4,9.0,0.0,65,7.0,4611,Almeria
+,Leonardo Ulloa,ar ARG,FW,38,38,2.0,28.0,2011-2012,/en/players/eed56f6c/Leonardo-Ulloa,d56f6c,Almeria,"3,157",35.1,8.0,2.0,65,5.0,3495,Almeria
+,Carlos García,es ESP,DF,37,37,0.0,0.0,2011-2012,/en/players/2f21a57c/Carlos-Garcia,2f21a57c,Almeria,"3,330",37.0,15.0,0.0,65,1.0,1418,Almeria
+,Rafita,es ESP,DF,35,34,0.0,1.0,2011-2012,/en/players/631f177b/Rafita,631f177b,Almeria,"2,870",31.9,10.0,0.0,65,1.0,1597,Almeria
+,Verza,es ESP,MF,38,32,4.0,1.0,2011-2012,/en/players/f972b073/Verza,f972b073,Almeria,"2,791",31.0,10.0,1.0,65,1.0,2724,Almeria
+,Fernando Soriano,es ESP,MF,34,32,4.0,4.0,2011-2012,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"2,689",29.9,12.0,0.0,65,1.0,2033,Almeria
+,Corona,es ESP,MF,41,31,7.0,3.0,2011-2012,/en/players/4798bc33/Corona,4798bc33,Almeria,"2,770",30.8,9.0,0.0,65,1.0,3535,Almeria
+,Hernán Bernardello,ar ARG,MF,32,26,1.0,1.0,2011-2012,/en/players/dec04537/Hernan-Bernardello,dec04537,Almeria,"2,300",25.6,9.0,2.0,65,5.0,3345,Almeria
+,Dani Bautista,es ESP,DF,23,23,0.0,1.0,2011-2012,/en/players/135b0a5e/Dani-Bautista,135b0a5e,Almeria,"2,051",22.8,5.0,0.0,65,1.0,2912,Almeria
+,Michel,br BRA,DF,22,20,1.0,0.0,2011-2012,/en/players/05384ea1/Michel,05384ea1,Almeria,"1,830",20.3,5.0,0.0,65,2.0,4607,Almeria
+,Henok Goitom,er ERI,FW,31,18,5.0,6.0,2011-2012,/en/players/c3680236/Henok-Goitom,c3680236,Almeria,"1,771",19.7,4.0,0.0,65,91.0,2558,Almeria
+,Santiago Acasiete,pe PER,DF,20,16,0.0,1.0,2011-2012,/en/players/39168d69/Santiago-Acasiete,39168d69,Almeria,"1,421",15.8,2.0,0.0,65,57.0,4592,Almeria
+,Juan Manuel Ortiz,es ESP,"DF,MF",16,15,0.0,4.0,2011-2012,/en/players/77513881/Juan-Manuel-Ortiz,77513881,Almeria,"1,354",15.0,6.0,0.0,65,1.0,2007,Almeria
+,Aarón Ñíguez,es ESP,"FW,MF",30,10,1.0,3.0,2011-2012,/en/players/5d720396/Aaron-Niguez,5d720396,Almeria,"1,052",11.7,3.0,0.0,65,1.0,730,Almeria
+,José Ortiz Bernal,es ESP,"FW,MF",10,4,0.0,1.0,2011-2012,/en/players/60393076/Jose-Ortiz-Bernal,60393076,Almeria,347,3.9,0.0,0.0,65,1.0,4576,Almeria
+,Marcelo Silva,uy URU,DF,2,2,0.0,0.0,2011-2012,/en/players/b9596515/Marcelo-Silva,b9596515,Almeria,128,1.4,1.0,1.0,65,8.0,2618,Almeria
+,Jonathan Zongo,bf BFA,"FW,MF",14,1,0.0,2.0,2011-2012,/en/players/a5dbef51/Jonathan-Zongo,5dbef51,Almeria,340,3.8,1.0,0.0,65,62.0,4613,Almeria
+,Abel Molinero,es ESP,MF,4,1,1.0,0.0,2011-2012,/en/players/f61a9135/Abel-Molinero,f61a9135,Almeria,179,2.0,1.0,0.0,65,1.0,3990,Almeria
+,Ángel Trujillo,es ESP,DF,2,1,0.0,0.0,2011-2012,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,88,1.0,1.0,0.0,65,1.0,4172,Almeria
+,Pablo Pallarès,es ESP,FW,11,0,0.0,0.0,2011-2012,/en/players/c639b414/Pablo-Pallares,c639b414,Almeria,146,1.6,1.0,0.0,65,1.0,4614,Almeria
+,Omar Ramos,es ESP,"FW,MF",8,0,0.0,0.0,2011-2012,/en/players/0657888a/Omar-Ramos,0657888a,Almeria,129,1.4,1.0,0.0,65,1.0,2591,Almeria
+,Alberto Martín,es ESP,MF,1,0,0.0,0.0,2011-2012,/en/players/805293e0/Alberto-Martin,805293e0,Almeria,7,0.1,0.0,0.0,65,1.0,4615,Almeria
+,Antonio García Márquez,es ESP,MF,1,0,0.0,0.0,2011-2012,/en/players/829f905f/Antonio-Garcia-Marquez,829f905f,Almeria,2,0.0,0.0,0.0,65,1.0,4616,Almeria
+,﻿Esteban,es ESP,GK,42,42,0.0,0.0,2012-2013,/en/players/e4fc2638/Esteban,4fc2638,Almeria,"3,780",42.0,1.0,0.0,65,1.0,673,Almeria
+,Verza,es ESP,MF,40,40,4.0,2.0,2012-2013,/en/players/f972b073/Verza,f972b073,Almeria,"3,564",39.6,11.0,0.0,65,1.0,2724,Almeria
+,Charles,br BRA,FW,40,36,4.0,27.0,2012-2013,/en/players/c4b8bcf4/Charles,c4b8bcf4,Almeria,"3,245",36.1,8.0,0.0,65,2.0,760,Almeria
+,Fernando Soriano,es ESP,MF,39,36,2.0,12.0,2012-2013,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"3,121",34.7,13.0,1.0,65,1.0,2033,Almeria
+,Christian,es ESP,DF,32,32,6.0,6.0,2012-2013,/en/players/1d5a68fe/Christian,1d5a68fe,Almeria,"2,793",31.0,9.0,0.0,65,1.0,2867,Almeria
+,Aleix Vidal,es ESP,"DF,MF",37,30,7.0,4.0,2012-2013,/en/players/04965583/Aleix-Vidal,04965583,Almeria,"2,590",28.8,2.0,0.0,65,1.0,1154,Almeria
+,Corona,es ESP,MF,33,30,3.0,4.0,2012-2013,/en/players/4798bc33/Corona,4798bc33,Almeria,"2,368",26.3,7.0,0.0,65,1.0,3535,Almeria
+,Ángel Trujillo,es ESP,DF,27,25,0.0,0.0,2012-2013,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,"2,284",25.4,3.0,0.0,65,1.0,4172,Almeria
+,Hernán Pellerano,ar ARG,DF,24,24,0.0,1.0,2012-2013,/en/players/027f513e/Hernan-Pellerano,027f513e,Almeria,"2,120",23.6,6.0,2.0,65,5.0,4605,Almeria
+,Adrián Gunino,uy URU,DF,23,22,2.0,0.0,2012-2013,/en/players/05652d7c/Adrian-Gunino,05652d7c,Almeria,"1,991",22.1,6.0,0.0,65,8.0,4617,Almeria
+,Rafita,es ESP,DF,22,22,4.0,0.0,2012-2013,/en/players/631f177b/Rafita,631f177b,Almeria,"1,969",21.9,9.0,0.0,65,1.0,1597,Almeria
+,Álvaro Mejía,es ESP,DF,22,19,0.0,1.0,2012-2013,/en/players/dd3f6a54/Alvaro-Mejia,dd3f6a54,Almeria,"1,755",19.5,5.0,0.0,65,1.0,25,Almeria
+,Marcelo Silva,uy URU,DF,20,19,0.0,1.0,2012-2013,/en/players/b9596515/Marcelo-Silva,b9596515,Almeria,"1,679",18.7,4.0,1.0,65,8.0,2618,Almeria
+,Carlos Calvo,es ESP,MF,32,17,1.0,2.0,2012-2013,/en/players/a444d33f/Carlos-Calvo,444d33f,Almeria,"1,478",16.4,2.0,0.0,65,1.0,4391,Almeria
+,Iago Falque,es ESP,"FW,MF",18,17,5.0,2.0,2012-2013,/en/players/440c84ed/Iago-Falque,440c84ed,Almeria,"1,338",14.9,2.0,0.0,65,1.0,3463,Almeria
+,Aarón Ñíguez,es ESP,"FW,MF",17,12,3.0,1.0,2012-2013,/en/players/5d720396/Aaron-Niguez,5d720396,Almeria,"1,088",12.1,5.0,0.0,65,1.0,730,Almeria
+,Leonardo Ulloa,ar ARG,FW,18,10,1.0,4.0,2012-2013,/en/players/eed56f6c/Leonardo-Ulloa,d56f6c,Almeria,902,10.0,3.0,0.0,65,5.0,3495,Almeria
+,Jonathan Zongo,bf BFA,"FW,MF",25,9,4.0,1.0,2012-2013,/en/players/a5dbef51/Jonathan-Zongo,5dbef51,Almeria,992,11.0,4.0,0.0,65,62.0,4613,Almeria
+,Javier Casquero,es ESP,MF,14,9,0.0,1.0,2012-2013,/en/players/ab6daa16/Javier-Casquero,b6daa16,Almeria,832,9.2,2.0,0.0,65,1.0,1777,Almeria
+,Raúl García,es ESP,DF,8,8,0.0,1.0,2012-2013,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Almeria,720,8.0,0.0,0.0,65,1.0,440,Almeria
+,Miguel Pallardó,es ESP,MF,10,2,0.0,0.0,2012-2013,/en/players/6c3dfe68/Miguel-Pallardo,6c3dfe68,Almeria,247,2.7,4.0,0.0,65,1.0,897,Almeria
+,Rubén Suárez,es ESP,MF,18,1,0.0,1.0,2012-2013,/en/players/addc6eca/Ruben-Suarez,ddc6eca,Almeria,293,3.3,5.0,0.0,65,1.0,4137,Almeria
+,Chumbi,,,12,0,0.0,1.0,2012-2013,/en/players/0119a54c/Chumbi,0119a54c,Almeria,170,1.9,0.0,0.0,65,,90069,Almeria
+,Abel Molinero,es ESP,MF,8,0,0.0,0.0,2012-2013,/en/players/f61a9135/Abel-Molinero,f61a9135,Almeria,135,1.5,0.0,0.0,65,1.0,3990,Almeria
+,Ramon Azeez,ng NGA,MF,2,0,0.0,0.0,2012-2013,/en/players/0cc474e7/Ramon-Azeez,0cc474e7,Almeria,11,0.1,1.0,0.0,65,52.0,4618,Almeria
+,Joselu,es ESP,"FW,MF",1,0,0.0,0.0,2012-2013,/en/players/8f7dd1d2/Joselu,8f7dd1d2,Almeria,3,0.0,0.0,0.0,65,1.0,4619,Almeria
+,﻿Esteban,es ESP,GK,38,38,0.0,0.0,2013-2014,/en/players/e4fc2638/Esteban,4fc2638,Almeria,"3,420",38.0,2.0,0.0,65,1.0,673,Almeria
+,Ángel Trujillo,es ESP,DF,36,36,0.0,1.0,2013-2014,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,"3,240",36.0,6.0,0.0,65,1.0,4172,Almeria
+,Aleix Vidal,es ESP,"DF,MF",38,36,3.0,6.0,2013-2014,/en/players/04965583/Aleix-Vidal,04965583,Almeria,"3,070",34.1,3.0,0.0,65,1.0,1154,Almeria
+,Verza,es ESP,MF,34,34,3.0,8.0,2013-2014,/en/players/f972b073/Verza,f972b073,Almeria,"2,921",32.5,11.0,0.0,65,1.0,2724,Almeria
+,Marco Torsiglieri,ar ARG,"DF,MF",27,26,0.0,1.0,2013-2014,/en/players/6013af3e/Marco-Torsiglieri,6013af3e,Almeria,"2,369",26.3,5.0,1.0,65,5.0,4620,Almeria
+,Sebastián Dubarbier,ar ARG,"DF,FW",27,26,0.0,1.0,2013-2014,/en/players/83877c7c/Sebastian-Dubarbier,83877c7c,Almeria,"2,297",25.5,11.0,1.0,65,5.0,559,Almeria
+,Suso,es ESP,"FW,MF",33,26,7.0,3.0,2013-2014,/en/players/4e219ad2/Suso,4e219ad2,Almeria,"2,253",25.0,9.0,1.0,65,1.0,1948,Almeria
+,Rafita,es ESP,DF,26,24,3.0,0.0,2013-2014,/en/players/631f177b/Rafita,631f177b,Almeria,"2,227",24.7,4.0,1.0,65,1.0,1597,Almeria
+,Fernando Soriano,es ESP,MF,35,24,4.0,4.0,2013-2014,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"1,872",20.8,7.0,0.0,65,1.0,2033,Almeria
+,Ramon Azeez,ng NGA,MF,30,21,0.0,2.0,2013-2014,/en/players/0cc474e7/Ramon-Azeez,0cc474e7,Almeria,"2,054",22.8,5.0,0.0,65,52.0,4618,Almeria
+,Rodri,es ESP,FW,27,21,2.0,8.0,2013-2014,/en/players/5200dce9/Rodri,5200dce9,Almeria,"1,888",21.0,8.0,0.0,65,1.0,1852,Almeria
+,Marcos Tébar,es ESP,"DF,MF",25,16,1.0,0.0,2013-2014,/en/players/1e806be7/Marcos-Tebar,1e806be7,Almeria,"1,469",16.3,5.0,0.0,65,1.0,77,Almeria
+,Nélson Marcos,pt POR,DF,14,14,1.0,0.0,2013-2014,/en/players/d0d41afb/Nelson-Marcos,d0d41afb,Almeria,"1,181",13.1,2.0,0.0,65,3.0,1410,Almeria
+,Óscar Díaz,es ESP,"FW,MF",30,13,0.0,4.0,2013-2014,/en/players/5a5ed410/Oscar-Diaz,5a5ed410,Almeria,"1,212",13.5,4.0,0.0,65,1.0,707,Almeria
+,Hernán Pellerano,ar ARG,DF,13,13,0.0,0.0,2013-2014,/en/players/027f513e/Hernan-Pellerano,027f513e,Almeria,"1,054",11.7,6.0,0.0,65,5.0,4605,Almeria
+,Corona,es ESP,MF,23,12,2.0,1.0,2013-2014,/en/players/4798bc33/Corona,4798bc33,Almeria,"1,114",12.4,4.0,0.0,65,1.0,3535,Almeria
+,Jonathan Zongo,bf BFA,"FW,MF",18,11,2.0,1.0,2013-2014,/en/players/a5dbef51/Jonathan-Zongo,5dbef51,Almeria,"1,141",12.7,1.0,0.0,65,62.0,4613,Almeria
+,Mané,es ESP,"DF,MF",9,8,0.0,0.0,2013-2014,/en/players/6b015a27/Mane,6b015a27,Almeria,728,8.1,2.0,0.0,65,1.0,4028,Almeria
+,Hélder Barbosa,pt POR,"FW,MF",28,7,0.0,1.0,2013-2014,/en/players/e0fd942a/Helder-Barbosa,0fd942a,Almeria,986,11.0,2.0,0.0,65,3.0,4621,Almeria
+,Christian,es ESP,DF,4,4,0.0,0.0,2013-2014,/en/players/1d5a68fe/Christian,1d5a68fe,Almeria,324,3.6,2.0,1.0,65,1.0,2867,Almeria
+,Fran Vélez,es ESP,"DF,MF",4,4,0.0,1.0,2013-2014,/en/players/9d619e08/Fran-Velez,9d619e08,Almeria,253,2.8,0.0,0.0,65,1.0,4481,Almeria
+,Raúl García,es ESP,DF,5,2,0.0,0.0,2013-2014,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Almeria,176,2.0,0.0,0.0,65,1.0,440,Almeria
+,Marcelo Silva,uy URU,DF,2,1,0.0,0.0,2013-2014,/en/players/b9596515/Marcelo-Silva,b9596515,Almeria,109,1.2,0.0,0.0,65,8.0,2618,Almeria
+,Hans Martínez,cl CHI,DF,1,1,0.0,0.0,2013-2014,/en/players/75128a26/Hans-Martinez,75128a26,Almeria,90,1.0,0.0,0.0,65,31.0,4622,Almeria
+,Rubén Suárez,es ESP,MF,1,0,0.0,0.0,2013-2014,/en/players/addc6eca/Ruben-Suarez,ddc6eca,Almeria,23,0.3,0.0,0.0,65,1.0,4137,Almeria
+,Dani Romera,es ESP,FW,1,0,0.0,0.0,2013-2014,/en/players/b2855ce9/Dani-Romera,b2855ce9,Almeria,21,0.2,0.0,0.0,65,1.0,4395,Almeria
+,Kiu,kr KOR,MF,2,0,0.0,0.0,2013-2014,/en/players/d18372dd/Kiu,d18372dd,Almeria,9,0.1,0.0,0.0,65,30.0,4623,Almeria
+,Hicham Khaloua,ma MAR,FW,1,0,0.0,1.0,2013-2014,/en/players/f383d568/Hicham-Khaloua,f383d568,Almeria,4,0.0,0.0,0.0,65,26.0,4624,Almeria
+,﻿Ángel Trujillo,es ESP,DF,36,35,2.0,0.0,2014-2015,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,"3,208",35.6,5.0,1.0,65,1.0,4172,Almeria
+,Verza,es ESP,MF,33,33,3.0,4.0,2014-2015,/en/players/f972b073/Verza,f972b073,Almeria,"2,844",31.6,10.0,0.0,65,1.0,2724,Almeria
+,Sebastián Dubarbier,ar ARG,"DF,FW",32,32,1.0,0.0,2014-2015,/en/players/83877c7c/Sebastian-Dubarbier,83877c7c,Almeria,"2,761",30.7,14.0,2.0,65,5.0,559,Almeria
+,Ximo Navarro,es ESP,DF,28,28,2.0,0.0,2014-2015,/en/players/8db394aa/Ximo-Navarro,8db394aa,Almeria,"2,405",26.7,5.0,0.0,65,1.0,1643,Almeria
+,Thomas Partey,gh GHA,MF,31,28,0.0,4.0,2014-2015,/en/players/529f49ab/Thomas-Partey,529f49ab,Almeria,"2,361",26.2,13.0,0.0,65,17.0,2226,Almeria
+,Mauro dos Santos,ar ARG,DF,29,27,0.0,1.0,2014-2015,/en/players/ec699fdd/Mauro-dos-Santos,c699fdd,Almeria,"2,296",25.5,7.0,2.0,65,5.0,3946,Almeria
+,Tomer Hemed,il ISR,FW,35,26,4.0,8.0,2014-2015,/en/players/27d7453c/Tomer-Hemed,27d7453c,Almeria,"2,326",25.8,4.0,1.0,65,45.0,1631,Almeria
+,Rubén,es ESP,GK,23,23,0.0,0.0,2014-2015,/en/players/24279b8b/Ruben,24279b8b,Almeria,"2,070",23.0,2.0,0.0,65,1.0,529,Almeria
+,Corona,es ESP,MF,31,23,0.0,0.0,2014-2015,/en/players/4798bc33/Corona,4798bc33,Almeria,"2,025",22.5,4.0,0.0,65,1.0,3535,Almeria
+,Wellington Silva,br BRA,"FW,MF",31,23,3.0,0.0,2014-2015,/en/players/5c60f49c/Wellington-Silva,5c60f49c,Almeria,"1,978",22.0,6.0,0.0,65,2.0,3954,Almeria
+,Edgar Mendez,es ESP,MF,30,21,1.0,4.0,2014-2015,/en/players/f5e19d23/Edgar-Mendez,f5e19d23,Almeria,"1,912",21.2,5.0,0.0,65,1.0,4625,Almeria
+,Thievy Bifouma,cg CGO,"FW,MF",29,21,1.0,4.0,2014-2015,/en/players/5978dc3c/Thievy-Bifouma,5978dc3c,Almeria,"1,776",19.7,7.0,1.0,65,80.0,3067,Almeria
+,Jonathan Zongo,bf BFA,"FW,MF",27,16,1.0,2.0,2014-2015,/en/players/a5dbef51/Jonathan-Zongo,5dbef51,Almeria,"1,565",17.4,3.0,0.0,65,62.0,4613,Almeria
+,Julián Cuesta,es ESP,GK,15,15,0.0,0.0,2014-2015,/en/players/c7b52b90/Julian-Cuesta,c7b52b90,Almeria,"1,350",15.0,2.0,0.0,65,1.0,1870,Almeria
+,Fran Vélez,es ESP,"DF,MF",17,14,1.0,0.0,2014-2015,/en/players/9d619e08/Fran-Velez,9d619e08,Almeria,"1,213",13.5,4.0,1.0,65,1.0,4481,Almeria
+,Fernando Soriano,es ESP,MF,28,13,1.0,3.0,2014-2015,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,"1,441",16.0,9.0,0.0,65,1.0,2033,Almeria
+,Michel,br BRA,DF,14,13,0.0,2.0,2014-2015,/en/players/05384ea1/Michel,05384ea1,Almeria,"1,206",13.4,3.0,2.0,65,2.0,4607,Almeria
+,Ramon Azeez,ng NGA,MF,14,10,1.0,0.0,2014-2015,/en/players/0cc474e7/Ramon-Azeez,0cc474e7,Almeria,846,9.4,2.0,1.0,65,52.0,4618,Almeria
+,Javier Espinosa,es ESP,MF,15,8,0.0,1.0,2014-2015,/en/players/8e08d88c/Javier-Espinosa,8e08d88c,Almeria,718,8.0,3.0,0.0,65,1.0,2775,Almeria
+,José Manuel Casado,es ESP,DF,8,5,1.0,0.0,2014-2015,/en/players/d0b6d20e/Jose-Manuel-Casado,d0b6d20e,Almeria,415,4.6,4.0,0.0,65,1.0,1837,Almeria
+,Mané,es ESP,"DF,MF",5,3,0.0,0.0,2014-2015,/en/players/6b015a27/Mane,6b015a27,Almeria,286,3.2,0.0,0.0,65,1.0,4028,Almeria
+,Antonio Marín,es ESP,DF,2,1,0.0,0.0,2014-2015,/en/players/27383431/Antonio-Marin,27383431,Almeria,125,1.4,0.0,0.0,65,1.0,4626,Almeria
+,Teerasil Dangda,th THA,FW,6,0,0.0,0.0,2014-2015,/en/players/2e3697ce/Teerasil-Dangda,2e3697ce,Almeria,144,1.6,0.0,0.0,65,112.0,4627,Almeria
+,Dani Romera,es ESP,FW,5,0,0.0,0.0,2014-2015,/en/players/b2855ce9/Dani-Romera,b2855ce9,Almeria,61,0.7,0.0,0.0,65,1.0,4395,Almeria
+,Quique,es ESP,"FW,MF",3,0,0.0,0.0,2014-2015,/en/players/c966fce1/Quique,c966fce1,Almeria,33,0.4,0.0,0.0,65,1.0,545,Almeria
+,Carlos Selfa,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/162b5811/Carlos-Selfa,162b5811,Almeria,32,0.4,0.0,0.0,65,1.0,4628,Almeria
+,Gaspar Panadero,es ESP,MF,1,0,0.0,0.0,2014-2015,/en/players/39b011f1/Gaspar-Panadero,39b011f1,Almeria,8,0.1,0.0,0.0,65,1.0,4629,Almeria
+,Yeray Gómez Ferragut,es ESP,GK,0,0,,,2014-2015,/en/players/eee55059/Yeray-Gomez-Ferragut,55059,Almeria,,,,,65,1.0,4630,Almeria
+,José Jurado,es ESP,MF,0,0,,,2014-2015,/en/players/c19131c6/Jose-Jurado,c19131c6,Almeria,,,,,65,1.0,4631,Almeria
+,Édgar Méndez,es ESP,"FW,MF",0,0,,,2014-2015,/en/players/aed746df/Edgar-Mendez,d746df,Almeria,,,,,65,1.0,3352,Almeria
+,Iván Sánchez,es ESP,MF,0,0,,,2014-2015,/en/players/70107d4d/Ivan-Sanchez,70107d4d,Almeria,,,,,65,1.0,2692,Almeria
+,Charlie Took,cm CMR,DF,0,0,,,2014-2015,/en/players/9a7434c7/Charlie-Took,9a7434c7,Almeria,,,,,65,36.0,1649,Almeria
+,﻿Quique,es ESP,"FW,MF",40,38,3.0,15.0,2015-2016,/en/players/c966fce1/Quique,c966fce1,Almeria,"3,284",36.5,2.0,1.0,65,1.0,545,Almeria
+,Casto,es ESP,GK,36,36,0.0,0.0,2015-2016,/en/players/95b4ffb3/Casto,95b4ffb3,Almeria,"3,240",36.0,4.0,0.0,65,1.0,1403,Almeria
+,Jorge Morcillo,es ESP,DF,35,33,2.0,3.0,2015-2016,/en/players/ebbbf1dd/Jorge-Morcillo,bbbf1dd,Almeria,"2,941",32.7,16.0,0.0,65,1.0,3205,Almeria
+,Lorenzo Reyes,cl CHI,MF,36,33,1.0,3.0,2015-2016,/en/players/d47cd62c/Lorenzo-Reyes,d47cd62c,Almeria,"2,826",31.4,14.0,1.0,65,31.0,1448,Almeria
+,Sebastián Dubarbier,ar ARG,"DF,FW",31,31,5.0,0.0,2015-2016,/en/players/83877c7c/Sebastian-Dubarbier,83877c7c,Almeria,"2,659",29.5,14.0,1.0,65,5.0,559,Almeria
+,Michel,br BRA,DF,28,28,3.0,0.0,2015-2016,/en/players/05384ea1/Michel,05384ea1,Almeria,"2,470",27.4,7.0,0.0,65,2.0,4607,Almeria
+,Fran Vélez,es ESP,"DF,MF",30,24,0.0,0.0,2015-2016,/en/players/9d619e08/Fran-Velez,9d619e08,Almeria,"2,199",24.4,7.0,1.0,65,1.0,4481,Almeria
+,Ximo Navarro,es ESP,DF,24,23,0.0,1.0,2015-2016,/en/players/8db394aa/Ximo-Navarro,8db394aa,Almeria,"2,087",23.2,6.0,0.0,65,1.0,1643,Almeria
+,Chuli,es ESP,"FW,MF",36,20,4.0,6.0,2015-2016,/en/players/24efffbf/Chuli,24efffbf,Almeria,"2,001",22.2,9.0,0.0,65,1.0,1456,Almeria
+,José Ángel,es ESP,MF,25,20,1.0,1.0,2015-2016,/en/players/5dcba27f/Jose-Angel,5dcba27f,Almeria,"1,885",20.9,9.0,0.0,65,1.0,4632,Almeria
+,José Jurado,es ESP,MF,25,20,,,2015-2016,/en/players/c19131c6/Jose-Jurado,c19131c6,Almeria,,,,,65,1.0,4631,Almeria
+,Esteban Saveljich,me MNE,DF,17,17,0.0,1.0,2015-2016,/en/players/79f2a5f5/Esteban-Saveljich,79f2a5f5,Almeria,"1,527",17.0,6.0,1.0,65,33.0,3493,Almeria
+,Iago Díaz,es ESP,MF,20,16,2.0,2.0,2015-2016,/en/players/7cad0e34/Iago-Diaz,7cad0e34,Almeria,"1,454",16.2,4.0,0.0,65,1.0,4633,Almeria
+,Mohammed Fatau,gh GHA,MF,18,16,0.0,1.0,2015-2016,/en/players/b4dd30a0/Mohammed-Fatau,b4dd30a0,Almeria,"1,347",15.0,8.0,0.0,65,17.0,3471,Almeria
+,Carlos Cuéllar,es ESP,DF,18,16,0.0,0.0,2015-2016,/en/players/1222ab35/Carlos-Cuellar,1222ab35,Almeria,"1,246",13.8,4.0,0.0,65,1.0,2002,Almeria
+,José Pozo,es ESP,"FW,MF",29,15,1.0,4.0,2015-2016,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Almeria,"1,506",16.7,1.0,0.0,65,1.0,3489,Almeria
+,Iván Sánchez,es ESP,MF,24,12,1.0,0.0,2015-2016,/en/players/70107d4d/Ivan-Sanchez,70107d4d,Almeria,"1,084",12.0,0.0,0.0,65,1.0,2692,Almeria
+,Fernando Soriano,es ESP,MF,23,11,1.0,0.0,2015-2016,/en/players/1aa72854/Fernando-Soriano,1aa72854,Almeria,976,10.8,5.0,0.0,65,1.0,2033,Almeria
+,Juan Ramírez,ar ARG,MF,16,11,1.0,0.0,2015-2016,/en/players/46667801/Juan-Ramirez,46667801,Almeria,956,10.6,1.0,0.0,65,5.0,4634,Almeria
+,Ángel Montoro,es ESP,MF,14,10,0.0,0.0,2015-2016,/en/players/719384c1/Angel-Montoro,719384c1,Almeria,989,11.0,9.0,0.0,65,1.0,920,Almeria
+,Jonathan Zongo,bf BFA,"FW,MF",12,10,1.0,0.0,2015-2016,/en/players/a5dbef51/Jonathan-Zongo,5dbef51,Almeria,754,8.4,1.0,0.0,65,62.0,4613,Almeria
+,Eldin Hadžić,ba BIH,"FW,MF",12,7,0.0,1.0,2015-2016,/en/players/2e2d7785/Eldin-Hadzic,2e2d7785,Almeria,605,6.7,0.0,0.0,65,49.0,3611,Almeria
+,Kalu Uche,ng NGA,"FW,MF",15,6,1.0,3.0,2015-2016,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,719,8.0,0.0,0.0,65,52.0,3071,Almeria
+,Julián Cuesta,es ESP,GK,6,6,0.0,0.0,2015-2016,/en/players/c7b52b90/Julian-Cuesta,c7b52b90,Almeria,540,6.0,0.0,0.0,65,1.0,1870,Almeria
+,Antonio Puertas,es ESP,"FW,MF",11,4,0.0,0.0,2015-2016,/en/players/c77a8043/Antonio-Puertas,c77a8043,Almeria,471,5.2,0.0,0.0,65,1.0,4635,Almeria
+,Antonio Marín,es ESP,DF,5,4,0.0,0.0,2015-2016,/en/players/27383431/Antonio-Marin,27383431,Almeria,378,4.2,1.0,0.0,65,1.0,4626,Almeria
+,Míchel Zabaco,es ESP,DF,3,3,0.0,0.0,2015-2016,/en/players/b0cf0afa/Michel-Zabaco,b0cf0afa,Almeria,270,3.0,1.0,0.0,65,1.0,4636,Almeria
+,Adri Castellano,es ESP,DF,3,3,0.0,0.0,2015-2016,/en/players/3dc7c57d/Adri-Castellano,3dc7c57d,Almeria,257,2.9,2.0,0.0,65,1.0,4307,Almeria
+,Corona,es ESP,MF,3,3,0.0,0.0,2015-2016,/en/players/4798bc33/Corona,4798bc33,Almeria,248,2.8,1.0,0.0,65,1.0,3535,Almeria
+,Cristian Herrera,es ESP,"FW,MF",9,2,1.0,0.0,2015-2016,/en/players/f814e5d3/Cristian-Herrera,f814e5d3,Almeria,218,2.4,1.0,0.0,65,1.0,4637,Almeria
+,Ramon Azeez,ng NGA,MF,3,2,0.0,0.0,2015-2016,/en/players/0cc474e7/Ramon-Azeez,0cc474e7,Almeria,185,2.1,0.0,0.0,65,52.0,4618,Almeria
+,Ernesto Goñi,uy URU,DF,2,2,0.0,0.0,2015-2016,/en/players/795f0ff9/Ernesto-Goni,795f0ff9,Almeria,135,1.5,0.0,0.0,65,8.0,4638,Almeria
+,Joaquín Fernández,es ESP,"DF,MF",2,0,0.0,0.0,2015-2016,/en/players/b86a64b2/Joaquin-Fernandez,b86a64b2,Almeria,23,0.3,0.0,0.0,65,1.0,2661,Almeria
+,Yeray Gómez Ferragut,es ESP,GK,0,0,,,2015-2016,/en/players/eee55059/Yeray-Gomez-Ferragut,55059,Almeria,,,,,65,1.0,4630,Almeria
+,﻿Casto,es ESP,GK,41,41,0.0,0.0,2016-2017,/en/players/95b4ffb3/Casto,95b4ffb3,Almeria,"3,690",41.0,3.0,0.0,65,1.0,1403,Almeria
+,Quique,es ESP,"FW,MF",41,37,5.0,16.0,2016-2017,/en/players/c966fce1/Quique,c966fce1,Almeria,"3,365",37.4,1.0,0.0,65,1.0,545,Almeria
+,Nano,es ESP,DF,37,37,0.0,0.0,2016-2017,/en/players/5578668a/Nano,5578668a,Almeria,"3,330",37.0,10.0,0.0,65,1.0,4354,Almeria
+,Ximo Navarro,es ESP,DF,37,37,2.0,2.0,2016-2017,/en/players/8db394aa/Ximo-Navarro,8db394aa,Almeria,"3,322",36.9,10.0,0.0,65,1.0,1643,Almeria
+,Fidel,es ESP,MF,40,37,8.0,8.0,2016-2017,/en/players/eb82b6f1/Fidel,b82b6f1,Almeria,"3,231",35.9,9.0,2.0,65,1.0,3187,Almeria
+,Joaquín Fernández,es ESP,"DF,MF",36,35,7.0,0.0,2016-2017,/en/players/b86a64b2/Joaquin-Fernandez,b86a64b2,Almeria,"3,116",34.6,11.0,0.0,65,1.0,2661,Almeria
+,Antonio Puertas,es ESP,MF,39,34,5.0,8.0,2016-2017,/en/players/c77a8043/Antonio-Puertas,c77a8043,Almeria,"2,775",30.8,8.0,0.0,65,1.0,4635,Almeria
+,Jorge Morcillo,es ESP,DF,31,29,0.0,2.0,2016-2017,/en/players/ebbbf1dd/Jorge-Morcillo,bbbf1dd,Almeria,"2,633",29.3,17.0,0.0,65,1.0,3205,Almeria
+,José Pozo,es ESP,MF,36,29,3.0,0.0,2016-2017,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Almeria,"2,472",27.5,3.0,0.0,65,1.0,3489,Almeria
+,Ángel Trujillo,es ESP,DF,21,20,0.0,0.0,2016-2017,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,"1,797",20.0,6.0,0.0,65,1.0,4172,Almeria
+,Fran Vélez,es ESP,"MF,DF",24,19,0.0,1.0,2016-2017,/en/players/9d619e08/Fran-Velez,9d619e08,Almeria,"1,427",15.9,8.0,2.0,65,1.0,4481,Almeria
+,Borja Fernández,es ESP,MF,20,18,1.0,2.0,2016-2017,/en/players/9127f9ce/Borja-Fernandez,9127f9ce,Almeria,"1,677",18.6,5.0,0.0,65,1.0,26,Almeria
+,Ramon Azeez,ng NGA,MF,22,17,0.0,2.0,2016-2017,/en/players/0cc474e7/Ramon-Azeez,0cc474e7,Almeria,"1,344",14.9,3.0,2.0,65,52.0,4618,Almeria
+,Marco Motta,it ITA,DF,15,15,1.0,0.0,2016-2017,/en/players/1c65a088/Marco-Motta,1c65a088,Almeria,"1,186",13.2,4.0,0.0,65,9.0,4639,Almeria
+,José Ángel,es ESP,MF,12,10,0.0,0.0,2016-2017,/en/players/5dcba27f/Jose-Angel,5dcba27f,Almeria,903,10.0,3.0,0.0,65,1.0,4632,Almeria
+,Pape Maly Diamanka,sn SEN,MF,17,9,0.0,0.0,2016-2017,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Almeria,890,9.9,6.0,4.0,65,34.0,3455,Almeria
+,José Isidoro,es ESP,DF,9,6,0.0,0.0,2016-2017,/en/players/bb00a819/Jose-Isidoro,bb00a819,Almeria,584,6.5,1.0,0.0,65,1.0,1395,Almeria
+,Chuli,es ESP,"FW,MF",11,5,1.0,0.0,2016-2017,/en/players/24efffbf/Chuli,24efffbf,Almeria,517,5.7,3.0,0.0,65,1.0,1456,Almeria
+,Kalu Uche,ng NGA,FW,13,5,0.0,2.0,2016-2017,/en/players/6cc97b1d/Kalu-Uche,6cc97b1d,Almeria,404,4.5,0.0,0.0,65,52.0,3071,Almeria
+,Corona,es ESP,MF,20,4,0.0,0.0,2016-2017,/en/players/4798bc33/Corona,4798bc33,Almeria,593,6.6,4.0,0.0,65,1.0,3535,Almeria
+,Javi Álamo,es ESP,MF,6,4,1.0,0.0,2016-2017,/en/players/ffd69308/Javi-Alamo,ffd69308,Almeria,300,3.3,0.0,0.0,65,1.0,2089,Almeria
+,Juanjo Expósito,es ESP,FW,20,3,1.0,0.0,2016-2017,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Almeria,540,6.0,4.0,0.0,65,1.0,1836,Almeria
+,Iago Díaz,es ESP,MF,11,3,0.0,0.0,2016-2017,/en/players/7cad0e34/Iago-Diaz,7cad0e34,Almeria,392,4.4,1.0,0.0,65,1.0,4633,Almeria
+,Jonathan Zongo,bf BFA,MF,3,2,0.0,0.0,2016-2017,/en/players/a5dbef51/Jonathan-Zongo,5dbef51,Almeria,131,1.5,0.0,0.0,65,62.0,4613,Almeria
+,Iván Sánchez,es ESP,MF,9,1,0.0,0.0,2016-2017,/en/players/70107d4d/Ivan-Sanchez,70107d4d,Almeria,178,2.0,1.0,0.0,65,1.0,2692,Almeria
+,Julián Cuesta,es ESP,GK,1,1,0.0,0.0,2016-2017,/en/players/c7b52b90/Julian-Cuesta,c7b52b90,Almeria,90,1.0,0.0,0.0,65,1.0,1870,Almeria
+,Carlos Garrido,es ESP,DF,1,1,0.0,0.0,2016-2017,/en/players/48e46b33/Carlos-Garrido,48e46b33,Almeria,90,1.0,0.0,0.0,65,1.0,4640,Almeria
+,Alex Quintanilla,es ESP,DF,1,1,0.0,0.0,2016-2017,/en/players/6a2cf49f/Alex-Quintanilla,6a2cf49f,Almeria,59,0.7,1.0,2.0,65,1.0,4566,Almeria
+,Sebastián Dubarbier,ar ARG,DF,2,1,0.0,0.0,2016-2017,/en/players/83877c7c/Sebastian-Dubarbier,83877c7c,Almeria,54,0.6,0.0,0.0,65,5.0,559,Almeria
+,Henrique Sereno,pt POR,DF,1,1,0.0,0.0,2016-2017,/en/players/70b198d8/Henrique-Sereno,70b198d8,Almeria,45,0.5,1.0,0.0,65,3.0,2568,Almeria
+,Gaspar Panadero,es ESP,MF,7,0,0.0,1.0,2016-2017,/en/players/39b011f1/Gaspar-Panadero,39b011f1,Almeria,178,2.0,1.0,0.0,65,1.0,4629,Almeria
+,Karim Yoda,fr FRA,MF,3,0,0.0,0.0,2016-2017,/en/players/a7893629/Karim-Yoda,7893629,Almeria,69,0.8,0.0,0.0,65,4.0,2970,Almeria
+,Francisco Callejón,es ESP,MF,1,0,0.0,0.0,2016-2017,/en/players/8b850c50/Francisco-Callejon,8b850c50,Almeria,20,0.2,0.0,0.0,65,1.0,4641,Almeria
+,Albert Batalla,es ESP,GK,0,0,,,2016-2017,/en/players/94c78b70/Albert-Batalla,94c78b70,Almeria,,,,,65,1.0,4642,Almeria
+,Josema,es ESP,DF,0,0,,,2016-2017,/en/players/ed3f5f4c/Josema,d3f5f4c,Almeria,,,,,65,1.0,2694,Almeria
+,José Jurado,es ESP,MF,0,0,,,2016-2017,/en/players/c19131c6/Jose-Jurado,c19131c6,Almeria,,,,,65,1.0,4631,Almeria
+,Jesús Sillero,es ESP,FW,0,0,,,2016-2017,/en/players/086bee8c/Jesus-Sillero,086bee8c,Almeria,,,,,65,1.0,4643,Almeria
+,﻿René Román,es ESP,GK,42,42,0.0,0.0,2017-2018,/en/players/c4d5264d/Rene-Roman,c4d5264d,Almeria,"3,780",42.0,5.0,0.0,65,1.0,4644,Almeria
+,Rubén Alcaraz,es ESP,MF,41,39,2.0,9.0,2017-2018,/en/players/036bba5f/Ruben-Alcaraz,036bba5f,Almeria,"3,547",39.4,9.0,0.0,65,1.0,2658,Almeria
+,José Pozo,es ESP,"FW,MF",39,37,8.0,2.0,2017-2018,/en/players/fc8b614b/Jose-Pozo,fc8b614b,Almeria,"3,171",35.2,7.0,2.0,65,1.0,3489,Almeria
+,Joaquín Fernández,es ESP,"DF,MF",35,34,0.0,0.0,2017-2018,/en/players/b86a64b2/Joaquin-Fernandez,b86a64b2,Almeria,"3,104",34.5,9.0,2.0,65,1.0,2661,Almeria
+,Nano,es ESP,"DF,MF",35,32,1.0,0.0,2017-2018,/en/players/5578668a/Nano,5578668a,Almeria,"2,818",31.3,6.0,0.0,65,1.0,4354,Almeria
+,Marco Motta,it ITA,DF,31,29,1.0,3.0,2017-2018,/en/players/1c65a088/Marco-Motta,1c65a088,Almeria,"2,496",27.7,11.0,2.0,65,9.0,4639,Almeria
+,Jorge Morcillo,es ESP,DF,26,26,1.0,2.0,2017-2018,/en/players/ebbbf1dd/Jorge-Morcillo,bbbf1dd,Almeria,"2,177",24.2,9.0,3.0,65,1.0,3205,Almeria
+,Fidel,es ESP,"MF,FW",31,24,2.0,4.0,2017-2018,/en/players/eb82b6f1/Fidel,b82b6f1,Almeria,"2,021",22.5,4.0,1.0,65,1.0,3187,Almeria
+,Gaspar Panadero,es ESP,MF,25,21,2.0,1.0,2017-2018,/en/players/39b011f1/Gaspar-Panadero,39b011f1,Almeria,"1,784",19.8,3.0,0.0,65,1.0,4629,Almeria
+,Mandi,es ESP,MF,23,20,1.0,0.0,2017-2018,/en/players/d9c47790/Mandi,d9c47790,Almeria,"1,710",19.0,8.0,0.0,65,1.0,4645,Almeria
+,Pervis Estupiñán,ec ECU,"DF,MF",26,19,2.0,0.0,2017-2018,/en/players/d38fdf53/Pervis-Estupinan,d38fdf53,Almeria,"1,806",20.1,2.0,0.0,65,61.0,1721,Almeria
+,Fran Rodríguez,es ESP,"DF,MF",21,16,0.0,2.0,2017-2018,/en/players/e1cfe8e6/Fran-Rodriguez,1cfe8e6,Almeria,"1,511",16.8,4.0,0.0,65,1.0,3630,Almeria
+,Ángel Trujillo,es ESP,DF,19,16,0.0,0.0,2017-2018,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,"1,499",16.7,3.0,0.0,65,1.0,4172,Almeria
+,Juan Muñoz,es ESP,FW,25,16,0.0,4.0,2017-2018,/en/players/25018d62/Juan-Munoz,25018d62,Almeria,"1,428",15.9,1.0,0.0,65,1.0,1892,Almeria
+,Verza,es ESP,MF,24,15,1.0,2.0,2017-2018,/en/players/f972b073/Verza,f972b073,Almeria,"1,519",16.9,6.0,0.0,65,1.0,2724,Almeria
+,Lucien Owona,cm CMR,DF,20,15,0.0,0.0,2017-2018,/en/players/1ca4fa8a/Lucien-Owona,1ca4fa8a,Almeria,"1,306",14.5,3.0,0.0,65,36.0,4646,Almeria
+,Sulayman Marreh,gm GAM,MF,12,12,0.0,1.0,2017-2018,/en/players/44b49036/Sulayman-Marreh,44b49036,Almeria,915,10.2,7.0,2.0,65,92.0,2656,Almeria
+,Pablo Caballero,ar ARG,FW,27,11,0.0,3.0,2017-2018,/en/players/62bfa7a9/Pablo-Caballero,62bfa7a9,Almeria,"1,284",14.3,2.0,0.0,65,5.0,4657,Almeria
+,Hicham Khaloua,ma MAR,"FW,MF",23,11,1.0,1.0,2017-2018,/en/players/f383d568/Hicham-Khaloua,f383d568,Almeria,"1,066",11.8,1.0,0.0,65,26.0,4624,Almeria
+,Edoardo Soleri,it ITA,FW,11,9,0.0,2.0,2017-2018,/en/players/3c33accc/Edoardo-Soleri,3c33accc,Almeria,736,8.2,2.0,0.0,65,9.0,4647,Almeria
+,Tino Costa,ar ARG,MF,14,5,1.0,2.0,2017-2018,/en/players/8f747a86/Tino-Costa,8f747a86,Almeria,558,6.2,0.0,1.0,65,5.0,936,Almeria
+,Lass Bangoura,gn GUI,"MF,FW",10,5,1.0,0.0,2017-2018,/en/players/740f39d4/Lass-Bangoura,740f39d4,Almeria,455,5.1,2.0,0.0,65,74.0,3453,Almeria
+,Nauzet Alemán,es ESP,"MF,FW",7,3,0.0,0.0,2017-2018,/en/players/4cf8242b/Nauzet-Aleman,4cf8242b,Almeria,296,3.3,0.0,0.0,65,1.0,2564,Almeria
+,Javi Álamo,es ESP,MF,10,2,0.0,0.0,2017-2018,/en/players/ffd69308/Javi-Alamo,ffd69308,Almeria,297,3.3,0.0,0.0,65,1.0,2089,Almeria
+,Álex Corredera,es ESP,MF,3,1,0.0,0.0,2017-2018,/en/players/b3a2168d/Alex-Corredera,b3a2168d,Almeria,95,1.1,0.0,0.0,65,1.0,4648,Almeria
+,Francisco Callejón,es ESP,MF,2,1,0.0,0.0,2017-2018,/en/players/8b850c50/Francisco-Callejon,8b850c50,Almeria,76,0.8,0.0,0.0,65,1.0,4641,Almeria
+,Antonio Navas,es ESP,DF,1,1,0.0,0.0,2017-2018,/en/players/8a10fd62/Antonio-Navas,8a10fd62,Almeria,45,0.5,1.0,0.0,65,1.0,3236,Almeria
+,Óscar Lozano,es ESP,FW,2,0,0.0,0.0,2017-2018,/en/players/76d08c7a/Oscar-Lozano,76d08c7a,Almeria,44,0.5,0.0,0.0,65,1.0,4649,Almeria
+,Igor Engonga,gq EQG,"DF,MF",0,0,,,2017-2018,/en/players/1fa0b376/Igor-Engonga,1fa0b376,Almeria,,,,,65,10.0,4650,Almeria
+,Fernando,es ESP,GK,0,0,,,2017-2018,/en/players/dabb2827/Fernando,dabb2827,Almeria,,,,,65,1.0,3956,Almeria
+,Sékou Gassama,sn SEN,FW,0,0,,,2017-2018,/en/players/475a738b/Sekou-Gassama,475a738b,Almeria,,,,,65,34.0,2496,Almeria
+,Lin Liangming,cn CHN,MF,0,0,,,2017-2018,/en/players/7275cb25/Lin-Liangming,7275cb25,Almeria,,,,,65,101.0,4651,Almeria
+,Iván Martos,es ESP,DF,0,0,,,2017-2018,/en/players/fc1724bd/Ivan-Martos,fc1724bd,Almeria,,,,,65,1.0,3511,Almeria
+,﻿César de la Hoz,es ESP,MF,40,39,3.0,1.0,2018-2019,/en/players/60abea75/Cesar-de-la-Hoz,60abea75,Almeria,"3,430",38.1,5.0,1.0,65,1.0,2916,Almeria
+,Álvaro Giménez,es ESP,FW,39,38,3.0,20.0,2018-2019,/en/players/18017beb/Alvaro-Gimenez,18017beb,Almeria,"3,308",36.8,5.0,0.0,65,1.0,1634,Almeria
+,José Romera,es ESP,DF,38,38,0.0,0.0,2018-2019,/en/players/3f44a041/Jose-Romera,3f44a041,Almeria,"3,114",34.6,4.0,0.0,65,1.0,4652,Almeria
+,René Román,es ESP,GK,37,37,0.0,0.0,2018-2019,/en/players/c4d5264d/Rene-Roman,c4d5264d,Almeria,"3,330",37.0,3.0,0.0,65,1.0,4644,Almeria
+,José Corpas,es ESP,MF,40,37,3.0,3.0,2018-2019,/en/players/422b05e3/Jose-Corpas,422b05e3,Almeria,"3,219",35.8,4.0,1.0,65,1.0,4653,Almeria
+,Juan Carlos,es ESP,"MF,FW",39,37,5.0,10.0,2018-2019,/en/players/82803509/Juan-Carlos,82803509,Almeria,"3,064",34.0,7.0,1.0,65,1.0,461,Almeria
+,Luis Rioja,es ESP,MF,39,35,1.0,4.0,2018-2019,/en/players/eb3dd471/Luis-Rioja,b3dd471,Almeria,"2,981",33.1,4.0,0.0,65,1.0,3371,Almeria
+,Esteban Saveljich,me MNE,DF,33,33,0.0,1.0,2018-2019,/en/players/79f2a5f5/Esteban-Saveljich,79f2a5f5,Almeria,"2,903",32.3,7.0,1.0,65,33.0,3493,Almeria
+,Yan Brice Eteki,cm CMR,MF,31,29,1.0,0.0,2018-2019,/en/players/3d688b46/Yan-Brice-Eteki,3d688b46,Almeria,"2,457",27.3,17.0,0.0,65,36.0,4654,Almeria
+,Iván Martos,es ESP,DF,23,23,1.0,0.0,2018-2019,/en/players/fc1724bd/Ivan-Martos,fc1724bd,Almeria,"2,050",22.8,4.0,0.0,65,1.0,3511,Almeria
+,Lucien Owona,cm CMR,DF,24,22,0.0,2.0,2018-2019,/en/players/1ca4fa8a/Lucien-Owona,1ca4fa8a,Almeria,"2,038",22.6,9.0,0.0,65,36.0,4646,Almeria
+,Juan Ibiza,es ESP,DF,23,21,0.0,0.0,2018-2019,/en/players/3fd69c15/Juan-Ibiza,3fd69c15,Almeria,"1,819",20.2,3.0,1.0,65,1.0,4655,Almeria
+,Andoni López,es ESP,DF,18,17,1.0,1.0,2018-2019,/en/players/fc8cb238/Andoni-Lopez,fc8cb238,Almeria,"1,540",17.1,4.0,0.0,65,1.0,1322,Almeria
+,Juanjo Narváez,co COL,MF,30,11,2.0,2.0,2018-2019,/en/players/485e4939/Juanjo-Narvaez,485e4939,Almeria,"1,198",13.3,1.0,0.0,65,19.0,1502,Almeria
+,Joaquín Arzura,ar ARG,MF,11,8,0.0,0.0,2018-2019,/en/players/0eeb0b2f/Joaquin-Arzura,0eeb0b2f,Almeria,663,7.4,1.0,0.0,65,5.0,2094,Almeria
+,Sergio Aguza,es ESP,MF,14,4,0.0,1.0,2018-2019,/en/players/b8e26df0/Sergio-Aguza,b8e26df0,Almeria,480,5.3,5.0,1.0,65,1.0,127,Almeria
+,Ángel Trujillo,es ESP,DF,5,4,0.0,0.0,2018-2019,/en/players/08011c9c/Angel-Trujillo,08011c9c,Almeria,417,4.6,2.0,0.0,65,1.0,4172,Almeria
+,Fernando,es ESP,GK,4,4,0.0,0.0,2018-2019,/en/players/dabb2827/Fernando,dabb2827,Almeria,360,4.0,0.0,0.0,65,1.0,3956,Almeria
+,Chema Núñez,es ESP,"MF,FW",27,3,1.0,1.0,2018-2019,/en/players/5b1ec540/Chema-Nunez,5b1ec540,Almeria,708,7.9,2.0,0.0,65,1.0,3847,Almeria
+,David Rocha,es ESP,MF,10,3,1.0,0.0,2018-2019,/en/players/39d4e7a1/David-Rocha,39d4e7a1,Almeria,354,3.9,0.0,0.0,65,1.0,4510,Almeria
+,Joaquín Fernández,es ESP,DF,2,2,0.0,0.0,2018-2019,/en/players/b86a64b2/Joaquin-Fernandez,b86a64b2,Almeria,180,2.0,0.0,0.0,65,1.0,2661,Almeria
+,Adri Montoro,es ESP,DF,3,2,0.0,0.0,2018-2019,/en/players/63da5cf7/Adri-Montoro,63da5cf7,Almeria,145,1.6,1.0,1.0,65,1.0,4656,Almeria
+,Ermedin Demirović,ba BIH,FW,13,1,0.0,0.0,2018-2019,/en/players/ed79b7d3/Ermedin-Demirovic,d79b7d3,Almeria,282,3.1,2.0,0.0,65,49.0,3363,Almeria
+,Pablo Caballero,ar ARG,FW,12,1,1.0,2.0,2018-2019,/en/players/62bfa7a9/Pablo-Caballero,62bfa7a9,Almeria,187,2.1,1.0,0.0,65,5.0,4657,Almeria
+,Sékou Gassama,sn SEN,FW,11,1,0.0,0.0,2018-2019,/en/players/475a738b/Sekou-Gassama,475a738b,Almeria,120,1.3,2.0,1.0,65,34.0,2496,Almeria
+,Nano,es ESP,DF,1,1,0.0,0.0,2018-2019,/en/players/5578668a/Nano,5578668a,Almeria,90,1.0,0.0,0.0,65,1.0,4354,Almeria
+,Gaspar Panadero,es ESP,MF,3,0,0.0,0.0,2018-2019,/en/players/39b011f1/Gaspar-Panadero,39b011f1,Almeria,59,0.7,0.0,0.0,65,1.0,4629,Almeria
+,Sergio Pérez,es ESP,MF,1,0,0.0,0.0,2018-2019,/en/players/23580256/Sergio-Perez,23580256,Almeria,12,0.1,0.0,0.0,65,1.0,4658,Almeria
+,Mario Abenza,es ESP,MF,0,0,,,2018-2019,/en/players/805b1f68/Mario-Abenza,805b1f68,Almeria,,,,,65,1.0,4659,Almeria
+,Jeró,es ESP,GK,0,0,,,2018-2019,/en/players/1163c98d/Jero,1163c98d,Almeria,,,,,65,1.0,4660,Almeria
+,Guillermo Lara,es ESP,GK,0,0,,,2018-2019,/en/players/1d114cf3/Guillermo-Lara,1d114cf3,Almeria,,,,,65,1.0,4661,Almeria
+,﻿Nikola Maraš,rs SRB,DF,36,35,0.0,2.0,2019-2020,/en/players/b9d0446f/Nikola-Maras,b9d0446f,Almeria,"3,107",34.5,9.0,0.0,65,28.0,3521,Almeria
+,Iván Martos,es ESP,DF,39,34,1.0,0.0,2019-2020,/en/players/fc1724bd/Ivan-Martos,fc1724bd,Almeria,"3,117",34.6,12.0,0.0,65,1.0,3511,Almeria
+,César de la Hoz,es ESP,MF,34,30,0.0,2.0,2019-2020,/en/players/60abea75/Cesar-de-la-Hoz,60abea75,Almeria,"2,639",29.3,9.0,1.0,65,1.0,2916,Almeria
+,José Corpas,es ESP,MF,35,29,5.0,4.0,2019-2020,/en/players/422b05e3/Jose-Corpas,422b05e3,Almeria,"2,537",28.2,6.0,1.0,65,1.0,4653,Almeria
+,José Carlos Lazo,es ESP,MF,35,28,3.0,9.0,2019-2020,/en/players/5b93209a/Jose-Carlos-Lazo,5b93209a,Almeria,"2,455",27.3,6.0,0.0,65,1.0,139,Almeria
+,Darwin Núñez,uy URU,FW,30,28,2.0,16.0,2019-2020,/en/players/4d77b365/Darwin-Nunez,4d77b365,Almeria,"2,424",26.9,3.0,1.0,65,8.0,4662,Almeria
+,Iván Balliu,al ALB,DF,30,25,4.0,1.0,2019-2020,/en/players/cee88597/Ivan-Balliu,cee88597,Almeria,"2,263",25.1,8.0,1.0,65,78.0,3518,Almeria
+,Valentín Vada,ar ARG,MF,32,25,2.0,2.0,2019-2020,/en/players/dcf7cf44/Valentin-Vada,dcf7cf44,Almeria,"2,048",22.8,10.0,0.0,65,5.0,3687,Almeria
+,Fernando,es ESP,GK,24,24,0.0,0.0,2019-2020,/en/players/dabb2827/Fernando,dabb2827,Almeria,"2,098",23.3,2.0,0.0,65,1.0,3956,Almeria
+,Radosav Petrović,rs SRB,"MF,DF",27,20,0.0,1.0,2019-2020,/en/players/7214c684/Radosav-Petrovic,7214c684,Almeria,"1,789",19.9,12.0,1.0,65,28.0,3686,Almeria
+,Juan Muñoz,es ESP,"FW,MF",34,19,5.0,9.0,2019-2020,/en/players/25018d62/Juan-Munoz,25018d62,Almeria,"1,801",20.0,4.0,0.0,65,1.0,1892,Almeria
+,Sergio Aguza,es ESP,MF,26,16,4.0,3.0,2019-2020,/en/players/b8e26df0/Sergio-Aguza,b8e26df0,Almeria,"1,587",17.6,5.0,0.0,65,1.0,127,Almeria
+,José Romera,es ESP,DF,20,16,0.0,1.0,2019-2020,/en/players/3f44a041/Jose-Romera,3f44a041,Almeria,"1,525",16.9,4.0,0.0,65,1.0,4652,Almeria
+,René Román,es ESP,GK,15,15,0.0,0.0,2019-2020,/en/players/c4d5264d/Rene-Roman,c4d5264d,Almeria,"1,350",15.0,0.0,0.0,65,1.0,4644,Almeria
+,David Costas,es ESP,DF,15,15,0.0,0.0,2019-2020,/en/players/545e2f01/David-Costas,545e2f01,Almeria,"1,335",14.8,4.0,0.0,65,1.0,763,Almeria
+,Lucien Owona,cm CMR,DF,15,14,0.0,1.0,2019-2020,/en/players/1ca4fa8a/Lucien-Owona,1ca4fa8a,Almeria,"1,226",13.6,0.0,0.0,65,36.0,4646,Almeria
+,Jonathan,br BRA,DF,22,13,1.0,0.0,2019-2020,/en/players/f3f60814/Jonathan,f3f60814,Almeria,"1,264",14.0,5.0,0.0,65,2.0,4663,Almeria
+,Fran Villalba,es ESP,MF,16,10,2.0,2.0,2019-2020,/en/players/0d2603b5/Fran-Villalba,0d2603b5,Almeria,"1,016",11.3,3.0,0.0,65,1.0,977,Almeria
+,Sékou Gassama,sn SEN,FW,14,10,1.0,6.0,2019-2020,/en/players/475a738b/Sekou-Gassama,475a738b,Almeria,913,10.1,1.0,0.0,65,34.0,2496,Almeria
+,Arvin Appiah,eng ENG,MF,21,10,0.0,1.0,2019-2020,/en/players/eafa6953/Arvin-Appiah,fa6953,Almeria,851,9.5,3.0,0.0,65,6.0,4664,Almeria
+,Gaspar Panadero,es ESP,MF,10,9,2.0,0.0,2019-2020,/en/players/39b011f1/Gaspar-Panadero,39b011f1,Almeria,672,7.5,0.0,0.0,65,1.0,4629,Almeria
+,Chema Núñez,es ESP,"MF,FW",10,8,2.0,0.0,2019-2020,/en/players/5b1ec540/Chema-Nunez,5b1ec540,Almeria,534,5.9,2.0,0.0,65,1.0,3847,Almeria
+,Juan Ibiza,es ESP,DF,8,7,0.0,0.0,2019-2020,/en/players/3fd69c15/Juan-Ibiza,3fd69c15,Almeria,610,6.8,1.0,0.0,65,1.0,4655,Almeria
+,Wilfrid Kaptoum,cm CMR,MF,8,6,0.0,0.0,2019-2020,/en/players/d717630e/Wilfrid-Kaptoum,d717630e,Almeria,529,5.9,1.0,0.0,65,36.0,1165,Almeria
+,Ante Ćorić,hr CRO,MF,16,5,3.0,0.0,2019-2020,/en/players/2d3f7367/Ante-Coric,2d3f7367,Almeria,568,6.3,1.0,0.0,65,16.0,4665,Almeria
+,Antonio Sivera,es ESP,GK,4,3,0.0,0.0,2019-2020,/en/players/9970da54/Antonio-Sivera,9970da54,Almeria,332,3.7,0.0,0.0,65,1.0,3364,Almeria
+,Francis Guerrero,es ESP,"DF,MF",7,3,0.0,0.0,2019-2020,/en/players/59d53e8a/Francis-Guerrero,59d53e8a,Almeria,280,3.1,1.0,0.0,65,1.0,1500,Almeria
+,Valentine Ozornwafor,ng NGA,DF,3,2,0.0,0.0,2019-2020,/en/players/a7a35856/Valentine-Ozornwafor,7a35856,Almeria,153,1.7,1.0,1.0,65,52.0,4666,Almeria
+,Barbero,es ESP,FW,9,1,0.0,0.0,2019-2020,/en/players/981c1863/Barbero,981c1863,Almeria,150,1.7,1.0,0.0,65,1.0,2101,Almeria
+,Enzo Fernández,es ESP,MF,3,1,0.0,0.0,2019-2020,/en/players/4cafb146/Enzo-Fernandez,4cafb146,Almeria,112,1.2,1.0,0.0,65,1.0,4667,Almeria
+,Francisco Callejón,es ESP,MF,1,1,0.0,0.0,2019-2020,/en/players/8b850c50/Francisco-Callejon,8b850c50,Almeria,64,0.7,1.0,0.0,65,1.0,4641,Almeria
+,Yanis Rahmani,fr FRA,MF,2,0,0.0,0.0,2019-2020,/en/players/f807f8b3/Yanis-Rahmani,f807f8b3,Almeria,37,0.4,1.0,0.0,65,4.0,2471,Almeria
+,Aristote Nkaka,be BEL,MF,1,0,0.0,1.0,2019-2020,/en/players/36d5c51e/Aristote-Nkaka,36d5c51e,Almeria,14,0.2,0.0,0.0,65,27.0,2975,Almeria
+,Daniel Albiar,es ESP,MF,1,0,0.0,0.0,2019-2020,/en/players/e8b29e86/Daniel-Albiar,8b29e86,Almeria,13,0.1,0.0,0.0,65,1.0,4668,Almeria
+,Rubén Enri,es ESP,FW,1,0,0.0,0.0,2019-2020,/en/players/43b839d8/Ruben-Enri,43b839d8,Almeria,7,0.1,0.0,0.0,65,1.0,4669,Almeria
+,Tano Bonnín,do DOM,DF,0,0,,,2019-2020,/en/players/1a6f612d/Tano-Bonnin,1a6f612d,Almeria,,,,,65,25.0,2069,Almeria
+,Jeró,es ESP,GK,0,0,,,2019-2020,/en/players/1163c98d/Jero,1163c98d,Almeria,,,,,65,1.0,4660,Almeria
+,Simón Moreno,es ESP,FW,0,0,,,2019-2020,/en/players/97cf41b0/Simon-Moreno,97cf41b0,Almeria,,,,,65,1.0,4670,Almeria
+,Nacho,es ESP,FW,0,0,,,2019-2020,/en/players/c7e7ecb5/Nacho,c7e7ecb5,Almeria,,,,,65,1.0,4671,Almeria
+,Nano,es ESP,"DF,MF",0,0,,,2019-2020,/en/players/5578668a/Nano,5578668a,Almeria,,,,,65,1.0,4354,Almeria
+,﻿Umar Sadiq,ng NGA,FW,38,33,4.0,20.0,2020-2021,/en/players/686cbe7d/Umar-Sadiq,686cbe7d,Almeria,"2,979",33.1,9.0,2.0,65,52.0,4686,Almeria
+,Giorgi Makaridze,ge GEO,GK,32,32,0.0,0.0,2020-2021,/en/players/b3bb0a76/Giorgi-Makaridze,b3bb0a76,Almeria,"2,819",31.3,7.0,0.0,65,76.0,4672,Almeria
+,Samu Costa,pt POR,MF,35,32,1.0,2.0,2020-2021,/en/players/76c2a023/Samu-Costa,76c2a023,Almeria,"2,479",27.5,15.0,0.0,65,3.0,4673,Almeria
+,Sergio Akieme,es ESP,DF,34,31,3.0,2.0,2020-2021,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Almeria,"2,806",31.2,7.0,2.0,65,1.0,1192,Almeria
+,Jorge Cuenca,es ESP,DF,35,30,0.0,3.0,2020-2021,/en/players/0abc51f2/Jorge-Cuenca,0abc51f2,Almeria,"2,809",31.2,4.0,0.0,65,1.0,2828,Almeria
+,Manu Morlanes,es ESP,MF,35,30,3.0,1.0,2020-2021,/en/players/a0255c67/Manu-Morlanes,0255c67,Almeria,"2,695",29.9,5.0,0.0,65,1.0,2798,Almeria
+,Iván Balliu,al ALB,DF,32,30,1.0,0.0,2020-2021,/en/players/cee88597/Ivan-Balliu,cee88597,Almeria,"2,665",29.6,13.0,0.0,65,78.0,3518,Almeria
+,Nikola Maraš,rs SRB,DF,30,28,1.0,1.0,2020-2021,/en/players/b9d0446f/Nikola-Maras,b9d0446f,Almeria,"2,483",27.6,7.0,0.0,65,28.0,3521,Almeria
+,José Corpas,es ESP,MF,39,24,6.0,12.0,2020-2021,/en/players/422b05e3/Jose-Corpas,422b05e3,Almeria,"2,177",24.2,7.0,1.0,65,1.0,4653,Almeria
+,José Carlos Lazo,es ESP,MF,36,22,7.0,4.0,2020-2021,/en/players/5b93209a/Jose-Carlos-Lazo,5b93209a,Almeria,"2,038",22.6,4.0,0.0,65,1.0,139,Almeria
+,Ager Aketxe,es ESP,MF,25,20,1.0,4.0,2020-2021,/en/players/c5eaff5c/Ager-Aketxe,c5eaff5c,Almeria,"1,394",15.5,2.0,0.0,65,1.0,560,Almeria
+,João Carvalho,pt POR,MF,32,19,3.0,0.0,2020-2021,/en/players/36b76751/Joao-Carvalho,36b76751,Almeria,"1,817",20.2,2.0,0.0,65,3.0,4674,Almeria
+,Fran Villalba,es ESP,MF,30,17,3.0,3.0,2020-2021,/en/players/0d2603b5/Fran-Villalba,0d2603b5,Almeria,"1,421",15.8,3.0,0.0,65,1.0,977,Almeria
+,Lucas Robertone,ar ARG,MF,25,14,2.0,2.0,2020-2021,/en/players/a8981944/Lucas-Robertone,8981944,Almeria,"1,220",13.6,6.0,0.0,65,5.0,4675,Almeria
+,César de la Hoz,es ESP,"MF,DF",21,12,0.0,0.0,2020-2021,/en/players/60abea75/Cesar-de-la-Hoz,60abea75,Almeria,"1,120",12.4,3.0,0.0,65,1.0,2916,Almeria
+,Aitor Buñuel,es ESP,DF,15,12,0.0,0.0,2020-2021,/en/players/6555c592/Aitor-Bunuel,6555c592,Almeria,"1,116",12.4,3.0,0.0,65,1.0,2062,Almeria
+,Ivanildo Fernandes,pt POR,DF,14,12,0.0,0.0,2020-2021,/en/players/11e5e469/Ivanildo-Fernandes,11e5e469,Almeria,"1,066",11.8,7.0,1.0,65,3.0,4676,Almeria
+,Álex Centelles,es ESP,DF,13,11,0.0,0.0,2020-2021,/en/players/ae852b7d/Alex-Centelles,852b7d,Almeria,905,10.1,4.0,0.0,65,1.0,1027,Almeria
+,Radosav Petrović,rs SRB,MF,27,10,0.0,0.0,2020-2021,/en/players/7214c684/Radosav-Petrovic,7214c684,Almeria,"1,004",11.2,6.0,0.0,65,28.0,3686,Almeria
+,Fernando,es ESP,GK,11,10,0.0,0.0,2020-2021,/en/players/dabb2827/Fernando,dabb2827,Almeria,961,10.7,0.0,0.0,65,1.0,3956,Almeria
+,Juan Brandáriz,es ESP,DF,10,9,0.0,1.0,2020-2021,/en/players/2475cf9b/Juan-Brandariz,2475cf9b,Almeria,813,9.0,1.0,0.0,65,1.0,1183,Almeria
+,Largie Ramazani,be BEL,"MF,FW",23,7,0.0,4.0,2020-2021,/en/players/cc9256ef/Largie-Ramazani,cc9256ef,Almeria,770,8.6,6.0,0.0,65,27.0,4677,Almeria
+,Juan Villar,es ESP,"FW,MF",25,7,1.0,2.0,2020-2021,/en/players/c33ee247/Juan-Villar,c33ee247,Almeria,721,8.0,4.0,0.0,65,1.0,2097,Almeria
+,Brian Rodríguez,uy URU,"MF,FW",16,5,1.0,0.0,2020-2021,/en/players/c86041d7/Brian-Rodriguez,c86041d7,Almeria,500,5.6,0.0,0.0,65,8.0,4678,Almeria
+,Mathieu Peybernes,fr FRA,DF,4,3,0.0,0.0,2020-2021,/en/players/34c872d2/Mathieu-Peybernes,34c872d2,Almeria,225,2.5,2.0,1.0,65,4.0,2493,Almeria
+,Pedro Mendes,pt POR,FW,10,2,0.0,0.0,2020-2021,/en/players/85c25f57/Pedro-Mendes,85c25f57,Almeria,240,2.7,0.0,0.0,65,3.0,4679,Almeria
+,Guilherme Schettine,br BRA,FW,7,0,0.0,0.0,2020-2021,/en/players/6b074beb/Guilherme-Schettine,6b074beb,Almeria,83,0.9,1.0,0.0,65,2.0,4680,Almeria
+,Cristian Olivera,uy URU,FW,3,0,0.0,0.0,2020-2021,/en/players/079dc403/Cristian-Olivera,079dc403,Almeria,52,0.6,0.0,0.0,65,8.0,4681,Almeria
+,Iván Martos,es ESP,DF,1,0,0.0,0.0,2020-2021,/en/players/fc1724bd/Ivan-Martos,fc1724bd,Almeria,29,0.3,0.0,0.0,65,1.0,3511,Almeria
+,Arvin Appiah,eng ENG,MF,1,0,0.0,0.0,2020-2021,/en/players/eafa6953/Arvin-Appiah,fa6953,Almeria,3,0.0,0.0,0.0,65,6.0,4664,Almeria
+,Daniel Albiar,es ESP,MF,0,0,,,2020-2021,/en/players/e8b29e86/Daniel-Albiar,8b29e86,Almeria,,,,,65,1.0,4668,Almeria
+,Jordi Escobar,es ESP,FW,0,0,,,2020-2021,/en/players/c91d03e6/Jordi-Escobar,c91d03e6,Almeria,,,,,65,1.0,90167,Almeria
+,Juan Gutierrez,uy URU,MF,0,0,,,2020-2021,/en/players/1b37c107/Juan-Gutierrez,1b37c107,Almeria,,,,,65,8.0,4682,Almeria
+,Francisco Harillo,es ESP,GK,0,0,,,2020-2021,/en/players/57f0dce6/Francisco-Harillo,57f0dce6,Almeria,,,,,65,1.0,4683,Almeria
+,Lluis Tarrés Campos,es ESP,GK,0,0,,,2020-2021,/en/players/4b936448/Lluis-Tarres-Campos,4b936448,Almeria,,,,,65,1.0,4684,Almeria
+,﻿Fernando,es ESP,GK,41,41,0.0,0.0,2021-2022,/en/players/dabb2827/Fernando,dabb2827,Almeria,"3,690",41.0,0.0,0.0,65,1.0,3956,Almeria
+,Samu Costa,pt POR,MF,38,38,2.0,0.0,2021-2022,/en/players/76c2a023/Samu-Costa,76c2a023,Almeria,"3,096",34.4,12.0,0.0,65,3.0,4673,Almeria
+,Srđan Babić,rs SRB,DF,37,35,0.0,1.0,2021-2022,/en/players/075fe5a3/Srdjan-Babic,075fe5a3,Almeria,"3,174",35.3,10.0,0.0,65,28.0,4685,Almeria
+,César de la Hoz,es ESP,MF,40,35,0.0,0.0,2021-2022,/en/players/60abea75/Cesar-de-la-Hoz,60abea75,Almeria,"3,104",34.5,7.0,0.0,65,1.0,2916,Almeria
+,Alejandro Pozo Pozo,es ESP,"DF,MF",39,34,3.0,3.0,2021-2022,/en/players/3c16d927/Alejandro-Pozo-Pozo,3c16d927,Almeria,"3,170",35.2,1.0,0.0,65,1.0,1738,Almeria
+,Umar Sadiq,ng NGA,FW,36,34,9.0,18.0,2021-2022,/en/players/686cbe7d/Umar-Sadiq,686cbe7d,Almeria,"3,036",33.7,6.0,0.0,65,52.0,4686,Almeria
+,Francisco Portillo,es ESP,"MF,FW",39,32,8.0,3.0,2021-2022,/en/players/8e010ff4/Francisco-Portillo,8e010ff4,Almeria,"2,623",29.1,3.0,0.0,65,1.0,1466,Almeria
+,Sergio Akieme,es ESP,DF,30,25,1.0,1.0,2021-2022,/en/players/06efa9dc/Sergio-Akieme,06efa9dc,Almeria,"2,305",25.6,4.0,1.0,65,1.0,1192,Almeria
+,Largie Ramazani,be BEL,"MF,FW",30,25,1.0,8.0,2021-2022,/en/players/cc9256ef/Largie-Ramazani,cc9256ef,Almeria,"2,045",22.7,7.0,0.0,65,27.0,4677,Almeria
+,Juan Brandáriz,es ESP,DF,25,24,0.0,1.0,2021-2022,/en/players/2475cf9b/Juan-Brandariz,2475cf9b,Almeria,"2,237",24.9,1.0,0.0,65,1.0,1183,Almeria
+,Lucas Robertone,ar ARG,MF,26,24,4.0,4.0,2021-2022,/en/players/a8981944/Lucas-Robertone,8981944,Almeria,"1,820",20.2,6.0,1.0,65,5.0,4675,Almeria
+,Álex Centelles,es ESP,DF,22,17,1.0,0.0,2021-2022,/en/players/ae852b7d/Alex-Centelles,852b7d,Almeria,"1,513",16.8,2.0,0.0,65,1.0,1027,Almeria
+,José Carlos Lazo,es ESP,"FW,MF",32,15,2.0,5.0,2021-2022,/en/players/5b93209a/Jose-Carlos-Lazo,5b93209a,Almeria,"1,257",14.0,3.0,0.0,65,1.0,139,Almeria
+,Arnau Puigmal,es ESP,MF,33,13,4.0,5.0,2021-2022,/en/players/39352da2/Arnau-Puigmal,39352da2,Almeria,"1,365",15.2,3.0,0.0,65,1.0,4687,Almeria
+,Rodrigo Ely,br BRA,DF,12,12,0.0,3.0,2021-2022,/en/players/fd47b4f2/Rodrigo-Ely,fd47b4f2,Almeria,976,10.8,5.0,0.0,65,2.0,3356,Almeria
+,Curro,es ESP,MF,35,11,3.0,2.0,2021-2022,/en/players/f9a225f5/Curro,f9a225f5,Almeria,"1,199",13.3,4.0,0.0,65,1.0,1901,Almeria
+,Arvin Appiah,eng ENG,"MF,FW",32,11,2.0,1.0,2021-2022,/en/players/eafa6953/Arvin-Appiah,fa6953,Almeria,"1,066",11.8,1.0,0.0,65,6.0,4664,Almeria
+,Iván Martos,es ESP,DF,11,8,0.0,0.0,2021-2022,/en/players/fc1724bd/Ivan-Martos,fc1724bd,Almeria,671,7.5,4.0,1.0,65,1.0,3511,Almeria
+,Aitor Buñuel,es ESP,DF,13,8,0.0,0.0,2021-2022,/en/players/6555c592/Aitor-Bunuel,6555c592,Almeria,650,7.2,1.0,0.0,65,1.0,2062,Almeria
+,Íñigo Eguaras,es ESP,MF,14,6,0.0,1.0,2021-2022,/en/players/3e93f8cf/Inigo-Eguaras,3e93f8cf,Almeria,645,7.2,2.0,0.0,65,1.0,3644,Almeria
+,Dyego Sousa,pt POR,FW,24,4,5.0,5.0,2021-2022,/en/players/e4738e91/Dyego-Sousa,4738e91,Almeria,508,5.6,4.0,0.0,65,3.0,4688,Almeria
+,Juanjo Nieto,es ESP,DF,16,4,0.0,0.0,2021-2022,/en/players/b4511ba0/Juanjo-Nieto,b4511ba0,Almeria,502,5.6,2.0,0.0,65,1.0,1699,Almeria
+,Daniel Carriço,pt POR,DF,6,3,0.0,0.0,2021-2022,/en/players/e1deea75/Daniel-Carrico,1deea75,Almeria,219,2.4,0.0,0.0,65,3.0,1878,Almeria
+,Juan Villar,es ESP,FW,12,1,0.0,1.0,2021-2022,/en/players/c33ee247/Juan-Villar,c33ee247,Almeria,240,2.7,1.0,1.0,65,1.0,2097,Almeria
+,Javi Robles,es ESP,MF,10,1,0.0,0.0,2021-2022,/en/players/0943be25/Javi-Robles,0943be25,Almeria,155,1.7,0.0,0.0,65,1.0,4689,Almeria
+,Giorgi Makaridze,ge GEO,GK,1,1,0.0,0.0,2021-2022,/en/players/b3bb0a76/Giorgi-Makaridze,b3bb0a76,Almeria,90,1.0,1.0,0.0,65,76.0,4672,Almeria
+,Raul Caballero,es ESP,FW,3,0,0.0,0.0,2021-2022,/en/players/1b5c67a3/Raul-Caballero,1b5c67a3,Almeria,66,0.7,0.0,0.0,65,1.0,4690,Almeria
+,Gilbert,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/c6c7df74/Gilbert,c6c7df74,Almeria,13,0.1,0.0,0.0,65,1.0,4691,Almeria
+,David Cuenca,es ESP,DF,0,0,,,2021-2022,/en/players/e71a7a1c/David-Cuenca,71a7a1c,Almeria,,,,,65,1.0,4692,Almeria
+,Mamadou Dialla,gn GUI,MF,0,0,,,2021-2022,/en/players/5a80a9cb/Mamadou-Dialla,5a80a9cb,Almeria,,,,,65,74.0,4693,Almeria
+,Diego Fuoli,es ESP,GK,0,0,,,2021-2022,/en/players/1a67863f/Diego-Fuoli,1a67863f,Almeria,,,,,65,1.0,4694,Almeria
+,Juan Ibiza,es ESP,DF,0,0,,,2021-2022,/en/players/3fd69c15/Juan-Ibiza,3fd69c15,Almeria,,,,,65,1.0,4655,Almeria
+,Nikola Maraš,rs SRB,DF,0,0,,,2021-2022,/en/players/b9d0446f/Nikola-Maras,b9d0446f,Almeria,,,,,65,28.0,3521,Almeria
+,Nélson Monte,pt POR,DF,0,0,,,2021-2022,/en/players/8923dfec/Nelson-Monte,8923dfec,Almeria,,,,,65,3.0,4695,Almeria
+,Aitor Puñal,es ESP,DF,0,0,,,2021-2022,/en/players/4806d40e/Aitor-Punal,4806d40e,Almeria,,,,,65,1.0,4696,Almeria
+,Carlos Rojas,es ESP,FW,0,0,,,2021-2022,/en/players/6a82a394/Carlos-Rojas,6a82a394,Almeria,,,,,65,1.0,4697,Almeria

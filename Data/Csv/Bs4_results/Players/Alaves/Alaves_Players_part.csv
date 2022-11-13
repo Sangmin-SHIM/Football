@@ -1,145 +1,266 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-3258.0,﻿Carlos Llorens,/en/players/cc1c44b3/Carlos-Llorens,Carlos-Llo,cc1c44b3,es ESP,DF,Alaves
-3259.0,Richard Dutruel,/en/players/b51c1e29/Richard-Dutruel,Richard-Dutru,b51c1e29,fr FRA,GK,Alaves
-3260.0,Antonio Karmona,/en/players/a6bf6531/Antonio-Karmona,Antonio-Karmo,6bf6531,es ESP,DF,Alaves
-3261.0,Abelardo Fernández,/en/players/fd6cdf88/Abelardo-Fernandez,Abelardo-Fernandez,fd6cdf88,es ESP,DF,Alaves
-3262.0,Delfí Geli,/en/players/6b058d9b/Delfi-Geli,Delfi-Geli,6b058d9b,es ESP,DF,Alaves
-3263.0,Óscar Téllez,/en/players/c4b1fe41/Oscar-Tellez,Oscar-Tellez,c4b1fe41,es ESP,DF,Alaves
-3264.0,Rubén Navarro,/en/players/59cc2821/Ruben-Navarro,Ruben-Navarro,59cc2821,es ESP,FW,Alaves
-3265.0,Ibon Begoña,/en/players/301f6f65/Ibon-Begona,Ibon-Bego,301f6f65,es ESP,DF,Alaves
-3266.0,Pablo Gómez,/en/players/0a9e2033/Pablo-Gomez,Pablo-Gomez,0a9e2033,es ESP,MF,Alaves
-3267.0,Luis Helguera,/en/players/873ff2a7/Luis-Helguera,Luis-Helgu,873ff2a7,es ESP,MF,Alaves
-3268.0,Magno Mocelin,/en/players/a5d58ff0/Magno-Mocelin,Magno-Moceli,5d58ff0,br BRA,FW,Alaves
-3269.0,Edu Alonso,/en/players/911e7b8d/Edu-Alonso,Edu-Alonso,911e7b8d,es ESP,MF,Alaves
-3270.0,Jesús Turiel,/en/players/7c737496/Jesus-Turiel,Jesus-Turi,7c737496,es ESP,MF,Alaves
-3271.0,Hermes Desio,/en/players/1c0c23ed/Hermes-Desio,Hermes-Desio,1c0c23ed,ar ARG,MF,Alaves
-3272.0,Adrian Ilie,/en/players/5ec3ec8d/Adrian-Ilie,Adrian-Ili,5ec3ec8d,ro ROU,"FW,MF",Alaves
-3273.0,Ivan Tomić,/en/players/dff4f3f2/Ivan-Tomic,Ivan-Tomic,dff4f3f2,rs SRB,MF,Alaves
-3274.0,Juan Pablo Colinas,/en/players/b2cab8f4/Juan-Pablo-Colinas,Juan-Pablo-Coli,b2cab8f4,es ESP,GK,Alaves
-3275.0,Bogdan Mara,/en/players/5b649d53/Bogdan-Mara,Bogdan-M,5b649d53,ro ROU,"FW,MF",Alaves
-3276.0,Juan Cruz Ochoa,/en/players/301ff22a/Juan-Cruz-Ochoa,Juan-Cruz-Ocho,301ff22a,es ESP,DF,Alaves
-3277.0,Nacho,/en/players/dadfcbb3/Nacho,Nacho,dadfcbb3,es ESP,"DF,MF",Alaves
-3278.0,Ronny Gaspercic,/en/players/bbeaf9c2/Ronny-Gaspercic,Ronny-Gaspercic,bbeaf9c2,be BEL,GK,Alaves
-3279.0,Ángel,/en/players/4c3f3098/Angel,Ang,4c3f3098,es ESP,DF,Alaves
-3280.0,Diego Trotta,/en/players/e7ec1faf/Diego-Trotta,Diego-Trott,7ec1faf,ar ARG,DF,Alaves
-3281.0,Josu Sarriegi,/en/players/cca08d01/Josu-Sarriegi,Josu-Sarriegi,cca08d01,es ESP,DF,Alaves
-3282.0,Jurica Vučko,/en/players/d12b2233/Jurica-Vucko,Jurica-Vucko,d12b2233,hr CRO,FW,Alaves
-3283.0,Eneko Romo,/en/players/5c5c6fa7/Eneko-Romo,Eneko-Romo,5c5c6fa7,es ESP,MF,Alaves
-3284.0,Pape Sarr,/en/players/7be00da6/Pape-Sarr,Pape-S,7be00da6,sn SEN,MF,Alaves
-3285.0,David Sánchez,/en/players/bb05af1a/David-Sanchez,David-Sanchez,bb05af1a,es ESP,MF,Alaves
-3286.0,Abel Valenzuela,/en/players/53db52e9/Abel-Valenzuela,Abel-Valenzu,53db52e9,es ESP,DF,Alaves
-3287.0,Pape Thiaw,/en/players/a38f40e6/Pape-Thiaw,Pape-Thiaw,38f40e6,sn SEN,FW,Alaves
-3288.0,Nicolas Ardouin,/en/players/be679fa0/Nicolas-Ardouin,Nicolas-Ardoui,be679fa0,fr FRA,GK,Alaves
-3289.0,Maximiliano Flotta,/en/players/34bd3bd4/Maximiliano-Flotta,Maximiliano-Flott,34bd3bd4,ar ARG,"DF,MF",Alaves
-3290.0,Álex Lombardero,/en/players/0253cbcf/Alex-Lombardero,Alex-Lombardero,0253cbcf,es ESP,MF,Alaves
-3291.0,Franco Costanzo,/en/players/56dde780/Franco-Costanzo,Franco-Costanzo,56dde780,ar ARG,GK,Alaves
-3292.0,Wesley,/en/players/35b1bd33/Wesley,W,35b1bd33,br BRA,"FW,MF",Alaves
-3293.0,José María Mena,/en/players/bc2150cb/Jose-Maria-Mena,Jose-Maria-M,bc2150cb,es ESP,FW,Alaves
-3294.0,Blagoy Georgiev,/en/players/d2722647/Blagoy-Georgiev,Blagoy-Georgiev,d2722647,bg BUL,MF,Alaves
-3295.0,Élton Giovanni,/en/players/8c8170c0/Elton-Giovanni,Elton-Giovanni,8c8170c0,br BRA,MF,Alaves
-3296.0,Henri Antchouet,/en/players/5e54551e/Henri-Antchouet,Henri-Antchouet,5e54551e,ga GAB,FW,Alaves
-3297.0,Stéphane Porato,/en/players/ead5f446/Stephane-Porato,Stephane-Porato,d5f446,fr FRA,GK,Alaves
-3298.0,Pablo Brandán,/en/players/b27a9e0e/Pablo-Brandan,Pablo-Brand,b27a9e0e,ar ARG,"DF,MF",Alaves
-3299.0,Wellington Paulista,/en/players/f2eece5b/Wellington-Paulista,Wellington-Paulist,f2eece5b,br BRA,FW,Alaves
-3300.0,Miguel Pérez,/en/players/b3f9e645/Miguel-Perez,Miguel-Perez,b3f9e645,es ESP,MF,Alaves
-3301.0,Thiago Gentil,/en/players/b66d9928/Thiago-Gentil,Thiago-Genti,b66d9928,br BRA,FW,Alaves
-3302.0,Gabri,/en/players/b2605b0a/Gabri,Gabri,b2605b0a,es ESP,FW,Alaves
-3303.0,Ian Uranga,/en/players/3e3a3981/Ian-Uranga,Ian-Urang,3e3a3981,mo MAC,DF,Alaves
-3304.0,Iñigo Calderón,/en/players/17a1c047/Inigo-Calderon,Inigo-Caldero,17a1c047,es ESP,DF,Alaves
-3305.0,Nacho Garro,/en/players/9f6a2843/Nacho-Garro,Nacho-Garro,9f6a2843,es ESP,MF,Alaves
-3306.0,Raúl Sánchez,/en/players/5553259e/Raul-Sanchez,Raul-Sanchez,5553259e,es ESP,FW,Alaves
-3307.0,Samuel Bayón,/en/players/53591b5a/Samuel-Bayon,Samuel-Bayo,53591b5a,es ESP,FW,Alaves
-3308.0,José Cabrera,/en/players/c7bf7830/Jose-Cabrera,Jose-Cab,c7bf7830,es ESP,MF,Alaves
-3309.0,Jairo,/en/players/a30f7cce/Jairo,Jairo,30f7cce,es ESP,MF,Alaves
-3310.0,Rubén Arroyo,/en/players/725b2479/Ruben-Arroyo,Ruben-Arroyo,725b2479,es ESP,FW,Alaves
-3311.0,Edu Albácar,/en/players/fc8a84b8/Edu-Albacar,Edu-Albac,fc8a84b8,es ESP,DF,Alaves
-3312.0,Raúl Llorente,/en/players/f40996ec/Raul-Llorente,Raul-Llorent,f40996ec,es ESP,DF,Alaves
-3313.0,Roberto Cuevas,/en/players/5d0e6432/Roberto-Cuevas,Roberto-Cuev,5d0e6432,es ESP,"FW,MF",Alaves
-3314.0,Javier Almirón,/en/players/8b8c57b7/Javier-Almiron,Javier-Almiro,8b8c57b7,ar ARG,"DF,MF",Alaves
-3315.0,Nicolas Bonis,/en/players/3cb96ab0/Nicolas-Bonis,Nicolas-Boni,3cb96ab0,fr FRA,GK,Alaves
-3316.0,Dani Castellano,/en/players/21d4e122/Dani-Castellano,Dani-Castellano,21d4e122,es ESP,"DF,MF",Alaves
-3317.0,Pablo de Lucas,/en/players/d1264346/Pablo-de-Lucas,Pablo-de-Luc,d1264346,es ESP,MF,Alaves
-3318.0,Iban Fagoaga,/en/players/d49844fa/Iban-Fagoaga,Iban-Fagoag,d49844fa,es ESP,DF,Alaves
-3319.0,Jonathan Reguero,/en/players/f3b03bed/Jonathan-Reguero,Jonathan-Reguero,f3b03bed,es ESP,FW,Alaves
-3320.0,Manu García,/en/players/05a4465d/Manu-Garcia,Manu-Garci,05a4465d,es ESP,MF,Alaves
-3321.0,Jiří Jarošík,/en/players/55ea6bb4/Jiri-Jarosik,Jiri-Jarosik,55ea6bb4,cz CZE,"DF,MF",Alaves
-3322.0,Jagoba Beobide,/en/players/08dee721/Jagoba-Beobide,Jagoba-Beobid,08dee721,es ESP,MF,Alaves
-3323.0,Óscar Rubio Fauria,/en/players/d220bc16/Oscar-Rubio-Fauria,Oscar-Rubio-Fauri,d220bc16,es ESP,"DF,MF",Alaves
-3324.0,Toti,/en/players/03a03057/Toti,Toti,03a03057,es ESP,"FW,MF",Alaves
-3325.0,Unai Medina,/en/players/bda6ddeb/Unai-Medina,Unai-Medi,bda6ddeb,es ESP,DF,Alaves
-3326.0,Jaume Delgado,/en/players/fb3952be/Jaume-Delgado,Jaume-Delgado,fb3952be,es ESP,MF,Alaves
-3327.0,Luciano,/en/players/7798f39e/Luciano,Luciano,7798f39e,es ESP,DF,Alaves
-3328.0,Mauro Quiroga,/en/players/1643c897/Mauro-Quiroga,Mauro-Quirog,1643c897,ar ARG,FW,Alaves
-3329.0,Gorka Laborda,/en/players/7e77be7b/Gorka-Laborda,Gorka-Labord,7e77be7b,es ESP,FW,Alaves
-3330.0,Nicolás Schenone,/en/players/a35d0b21/Nicolas-Schenone,Nicolas-Scheno,35d0b21,uy URU,MF,Alaves
-3331.0,Einar Galilea,/en/players/327d75f2/Einar-Galilea,Einar-Gali,327d75f2,es ESP,DF,Alaves
-3332.0,﻿Víctor Laguardia,/en/players/b7c99b9b/Victor-Laguardia,Victor-Laguardi,b7c99b9b,es ESP,DF,Alaves
-3333.0,Manu Barreiro,/en/players/028608d9/Manu-Barreiro,Manu-Barreiro,028608d9,es ESP,FW,Alaves
-3334.0,Juli,/en/players/f3541f8a/Juli,Juli,f3541f8a,es ESP,MF,Alaves
-3335.0,Migue,/en/players/13575a4c/Migue,Migu,13575a4c,es ESP,DF,Alaves
-3336.0,Rafa García,/en/players/bebdff6f/Rafa-Garcia,Rafa-Garci,bebdff6f,es ESP,MF,Alaves
-3337.0,Ranko Despotović,/en/players/7909655a/Ranko-Despotovic,Ranko-Despotovic,7909655a,rs SRB,FW,Alaves
-3338.0,Sergio Llamas,/en/players/ca64ddf5/Sergio-Llamas,Sergio-Llam,ca64ddf5,es ESP,MF,Alaves
-3339.0,Andoni,/en/players/647126d0/Andoni,Andoni,647126d0,es ESP,MF,Alaves
-3340.0,Sergio Mora,/en/players/f0a31c00/Sergio-Mora,Sergio-Mo,f0a31c00,es ESP,MF,Alaves
-3341.0,Kiko Femenía,/en/players/e5d01ecf/Kiko-Femenia,Kiko-Femeni,5d01ecf,es ESP,"DF,FW",Alaves
-3342.0,Sergio Pelegrín,/en/players/e360782f/Sergio-Pelegrin,Sergio-Pelegri,360782f,es ESP,DF,Alaves
-3343.0,Javier Carpio,/en/players/5158c08a/Javier-Carpio,Javier-Carpio,5158c08a,es ESP,DF,Alaves
-3344.0,Facundo Guichón,/en/players/6db97467/Facundo-Guichon,Facundo-Guicho,6db97467,uy URU,MF,Alaves
-3345.0,Hernán Bernardello,/en/players/dec04537/Hernan-Bernardello,Hernan-Bernardello,dec04537,ar ARG,MF,Alaves
-3346.0,David Arenas Torres,/en/players/87afba6a/David-Arenas-Torres,David-Arenas-To,87afba6a,es ESP,FW,Alaves
-3347.0,Asier Benito,/en/players/02a111ed/Asier-Benito,Asier-Benito,02a111ed,es ESP,FW,Alaves
-3348.0,Jon Aranda Goenaga,/en/players/84ef91ca/Jon-Aranda-Goenaga,Jon-Aranda-Goenag,84ef91ca,es ESP,DF,Alaves
-3349.0,Aritz Castro,/en/players/0b006b08/Aritz-Castro,Aritz-Castro,0b006b08,es ESP,GK,Alaves
-3350.0,Iñaki Sáenz,/en/players/975dd5ae/Inaki-Saenz,Inaki-Saenz,975dd5ae,es ESP,"DF,MF",Alaves
-3351.0,Deyverson,/en/players/2e5e846d/Deyverson,Deyverso,2e5e846d,br BRA,FW,Alaves
-3352.0,Édgar Méndez,/en/players/aed746df/Edgar-Mendez,Edgar-Mendez,d746df,es ESP,"MF,FW",Alaves
-3353.0,Daniel Torres,/en/players/87882adc/Daniel-Torres,Daniel-To,87882adc,co COL,MF,Alaves
-3354.0,Carlos Vigaray,/en/players/f69d934e/Carlos-Vigaray,Carlos-Vig,f69d934e,es ESP,DF,Alaves
-3355.0,Nenad Krstičić,/en/players/5631b735/Nenad-Krsticic,Nenad-Krsticic,5631b735,rs SRB,MF,Alaves
-3356.0,Rodrigo Ely,/en/players/fd47b4f2/Rodrigo-Ely,Rodrigo-E,fd47b4f2,br BRA,DF,Alaves
-3357.0,Aleksandar Katai,/en/players/d5127c3f/Aleksandar-Katai,Aleksandar-Katai,d5127c3f,rs SRB,"MF,FW",Alaves
-3358.0,Óscar Romero,/en/players/4bc5f2b4/Oscar-Romero,Oscar-Romero,4bc5f2b4,py PAR,MF,Alaves
-3359.0,Martin Agirregabiria,/en/players/355c883a/Martin-Agirregabiria,Martin-Agirregabiri,355c883a,es ESP,DF,Alaves
-3360.0,Manu García,/en/players/6ed1a2a2/Manu-Garcia,Manu-Garci,6ed1a2a2,es ESP,"FW,MF",Alaves
-3361.0,Guillermo Maripán,/en/players/d9764034/Guillermo-Maripan,Guillermo-Mari,d9764034,cl CHI,DF,Alaves
-3362.0,Adrián Diéguez,/en/players/70438d35/Adrian-Dieguez,Adrian-Dieguez,70438d35,es ESP,DF,Alaves
-3363.0,Ermedin Demirović,/en/players/ed79b7d3/Ermedin-Demirovic,Ermedin-Demirovic,d79b7d3,ba BIH,FW,Alaves
-3364.0,Antonio Sivera,/en/players/9970da54/Antonio-Sivera,Antonio-Siv,9970da54,es ESP,GK,Alaves
-3365.0,Víctor López,/en/players/a68856b5/Victor-Lopez,Victor-Lopez,68856b5,es ESP,MF,Alaves
-3366.0,Ioritz Landeta,/en/players/f553e957/Ioritz-Landeta,Ioritz-Landet,f553e957,es ESP,GK,Alaves
-3367.0,Patrick Twumasi,/en/players/e3993b65/Patrick-Twumasi,Patrick-Twumasi,3993b65,gh GHA,"MF,FW",Alaves
-3368.0,Álex Domínguez,/en/players/f240be08/Alex-Dominguez,Alex-Dominguez,f240be08,es ESP,GK,Alaves
-3369.0,Andrei Lupu,/en/players/60035815/Andrei-Lupu,Andrei-Lupu,60035815,ro ROU,FW,Alaves
-3370.0,Antonio Perera,/en/players/40b9b91a/Antonio-Perera,Antonio-P,40b9b91a,es ESP,MF,Alaves
-3371.0,Luis Rioja,/en/players/eb3dd471/Luis-Rioja,Luis-Rioj,b3dd471,es ESP,MF,Alaves
-3372.0,Oliver Burke,/en/players/f631c17f/Oliver-Burke,Oliver-Burk,f631c17f,sct SCO,"MF,FW",Alaves
-3373.0,Lisandro Magallán,/en/players/01a49bd2/Lisandro-Magallan,Lisandro-Mag,01a49bd2,ar ARG,DF,Alaves
-3374.0,Ljubomir Fejsa,/en/players/874d7a32/Ljubomir-Fejsa,Ljubomir-Fej,874d7a32,rs SRB,MF,Alaves
-3375.0,Pere Pons,/en/players/29b61deb/Pere-Pons,Pere-Po,29b61deb,es ESP,MF,Alaves
-3376.0,Borja Sainz,/en/players/1b40049a/Borja-Sainz,Borja-Sainz,1b40049a,es ESP,MF,Alaves
-3377.0,Abdallahi Mahmoud,/en/players/ab99e4a0/Abdallahi-Mahmoud,Abdallahi-Mahmoud,b99e4a0,mr MTN,MF,Alaves
-3378.0,Javi López,/en/players/e9ada8cf/Javi-Lopez,Javi-Lopez,9ada8cf,es ESP,DF,Alaves
-3379.0,José Luis Rodríguez,/en/players/b333b014/Jose-Luis-Rodriguez,Jose-Luis-Rodriguez,b333b014,pa PAN,FW,Alaves
-3380.0,Facundo Pellistri,/en/players/ac7e7b1c/Facundo-Pellistri,Facundo-Pellistri,c7e7b1c,uy URU,"MF,FW",Alaves
-3381.0,Tomás Tavares,/en/players/0dce3356/Tomas-Tavares,Tomas-Tav,0dce3356,pt POR,"MF,DF",Alaves
-3382.0,Sergi García,/en/players/a039d52e/Sergi-Garcia,Sergi-Garci,039d52e,es ESP,MF,Alaves
-3383.0,Stephane Keller,/en/players/89d1e9fa/Stephane-Keller,Stephane-K,89d1e9fa,cm CMR,DF,Alaves
-3384.0,Pepe Blanco,/en/players/3a97cbb1/Pepe-Blanco,Pepe-Blanco,3a97cbb1,es ESP,MF,Alaves
-3385.0,Eneko Ortiz,/en/players/dc5ea86b/Eneko-Ortiz,Eneko-Ortiz,dc5ea86b,es ESP,MF,Alaves
-3386.0,Hugo Perez,/en/players/7cfbe2c9/Hugo-Perez,Hugo-Perez,7cfbe2c9,es ESP,DF,Alaves
-3387.0,Robert Vallribera,/en/players/e695674d/Robert-Vallribera,Robert-Vallrib,695674d,es ESP,DF,Alaves
-3388.0,Loum Ndiaye,/en/players/bcfc4473/Loum-Ndiaye,Loum-Ndi,bcfc4473,sn SEN,MF,Alaves
-3389.0,Gonzalo Escalante,/en/players/3f79a1c8/Gonzalo-Escalante,Gonzalo-Escalant,3f79a1c8,ar ARG,MF,Alaves
-3390.0,Nahuel Tenaglia,/en/players/66654daa/Nahuel-Tenaglia,Nahuel-Tenagli,66654daa,ar ARG,DF,Alaves
-3391.0,Matt Miazga,/en/players/9fc0f253/Matt-Miazga,Matt-Miazg,9fc0f253,us USA,DF,Alaves
-3392.0,Jesús Owono,/en/players/d6e3d7fb/Jesus-Owono,Jesus-Owono,d6e3d7fb,gq EQG,GK,Alaves
-3393.0,Marc Tenas,/en/players/1c5d79e2/Marc-Tenas,Marc-T,1c5d79e2,es ESP,"MF,DF",Alaves
-3394.0,Mircea Alexandru Tirlea,/en/players/683a1d81/Mircea-Alexandru-Tirlea,Mircea-Alexandru-Ti,683a1d81,ro ROU,DF,Alaves
-3395.0,Unai Ropero,/en/players/7868c973/Unai-Ropero,Unai-Ropero,7868c973,es ESP,MF,Alaves
-3396.0,Tomás Mendes,/en/players/45f771db/Tomas-Mendes,Tomas-Mend,45f771db,es ESP,MF,Alaves
-3397.0,Alex Balboa,/en/players/6e5c5fc7/Alex-Balboa,Alex-Balbo,6e5c5fc7,gq EQG,MF,Alaves
-3398.0,George Gagua,/en/players/e66bd684/George-Gagua,George-Gagu,66bd684,ge GEO,FW,Alaves
-3399.0,Alan Godoy,/en/players/01bbb0ad/Alan-Godoy,Alan-Godo,01bbb0ad,es ESP,FW,Alaves
-3400.0,Taichi Hara,/en/players/1e524738/Taichi-Hara,Taichi-H,1e524738,jp JPN,FW,Alaves
-3401.0,Adrian Rodriguez,/en/players/bf17fb4a/Adrian-Rodriguez,Adrian-Rodriguez,bf17fb4a,es ESP,GK,Alaves
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+4362.0,﻿Carlos Llorens,/en/players/cc1c44b3/Carlos-Llorens,Carlos-Llo,cc1c44b3,es ESP,DF,Alaves
+4363.0,Richard Dutruel,/en/players/b51c1e29/Richard-Dutruel,Richard-Dutru,b51c1e29,fr FRA,GK,Alaves
+4364.0,Antonio Karmona,/en/players/a6bf6531/Antonio-Karmona,Antonio-Karmo,6bf6531,es ESP,DF,Alaves
+4365.0,Abelardo Fernández,/en/players/fd6cdf88/Abelardo-Fernandez,Abelardo-Fernandez,fd6cdf88,es ESP,DF,Alaves
+4366.0,Martín Astudillo,/en/players/fda30cfc/Martin-Astudillo,Martin-Astudillo,fda30cfc,ar ARG,MF,Alaves
+4367.0,Delfí Geli,/en/players/6b058d9b/Delfi-Geli,Delfi-Geli,6b058d9b,es ESP,DF,Alaves
+4368.0,Óscar Téllez,/en/players/c4b1fe41/Oscar-Tellez,Oscar-Tellez,c4b1fe41,es ESP,DF,Alaves
+4369.0,Rubén Navarro,/en/players/59cc2821/Ruben-Navarro,Ruben-Navarro,59cc2821,es ESP,FW,Alaves
+4370.0,Iván Alonso,/en/players/80084c87/Ivan-Alonso,Ivan-Alonso,80084c87,uy URU,FW,Alaves
+4371.0,Ibon Begoña,/en/players/301f6f65/Ibon-Begona,Ibon-Bego,301f6f65,es ESP,DF,Alaves
+4372.0,Pablo Gómez,/en/players/0a9e2033/Pablo-Gomez,Pablo-Gomez,0a9e2033,es ESP,MF,Alaves
+4373.0,Jordi Cruyff,/en/players/7ebf561b/Jordi-Cruyff,Jordi-Cruyff,7ebf561b,nl NED,"FW,MF",Alaves
+4374.0,Luis Helguera,/en/players/873ff2a7/Luis-Helguera,Luis-Helgu,873ff2a7,es ESP,MF,Alaves
+4375.0,Magno Mocelin,/en/players/a5d58ff0/Magno-Mocelin,Magno-Moceli,5d58ff0,br BRA,FW,Alaves
+4376.0,Edu Alonso,/en/players/911e7b8d/Edu-Alonso,Edu-Alonso,911e7b8d,es ESP,MF,Alaves
+4377.0,Jesús Turiel,/en/players/7c737496/Jesus-Turiel,Jesus-Turi,7c737496,es ESP,MF,Alaves
+4378.0,Hermes Desio,/en/players/1c0c23ed/Hermes-Desio,Hermes-Desio,1c0c23ed,ar ARG,MF,Alaves
+4379.0,Adrian Ilie,/en/players/5ec3ec8d/Adrian-Ilie,Adrian-Ili,5ec3ec8d,ro ROU,"FW,MF",Alaves
+4380.0,Ivan Tomić,/en/players/dff4f3f2/Ivan-Tomic,Ivan-Tomic,dff4f3f2,rs SRB,MF,Alaves
+4381.0,Juan Pablo Colinas,/en/players/b2cab8f4/Juan-Pablo-Colinas,Juan-Pablo-Coli,b2cab8f4,es ESP,GK,Alaves
+4382.0,Bogdan Mara,/en/players/5b649d53/Bogdan-Mara,Bogdan-M,5b649d53,ro ROU,"FW,MF",Alaves
+4383.0,Juan Cruz Ochoa,/en/players/301ff22a/Juan-Cruz-Ochoa,Juan-Cruz-Ocho,301ff22a,es ESP,DF,Alaves
+4384.0,Nacho,/en/players/dadfcbb3/Nacho,Nacho,dadfcbb3,es ESP,"DF,MF",Alaves
+4385.0,Ronny Gaspercic,/en/players/bbeaf9c2/Ronny-Gaspercic,Ronny-Gaspercic,bbeaf9c2,be BEL,GK,Alaves
+4386.0,Enrique de Lucas,/en/players/ae61cc61/Enrique-de-Lucas,Enrique-de-Luc,61cc61,es ESP,"FW,MF",Alaves
+4387.0,Jesús Galván,/en/players/5f605a71/Jesus-Galvan,Jesus-Galv,5f605a71,es ESP,DF,Alaves
+4388.0,Ángel,/en/players/4c3f3098/Angel,Ang,4c3f3098,es ESP,DF,Alaves
+4389.0,Diego Trotta,/en/players/e7ec1faf/Diego-Trotta,Diego-Trott,7ec1faf,ar ARG,DF,Alaves
+4390.0,Josu Sarriegi,/en/players/cca08d01/Josu-Sarriegi,Josu-Sarriegi,cca08d01,es ESP,DF,Alaves
+4391.0,Pablo Coira,/en/players/7099e844/Pablo-Coira,Pablo-Coi,7099e844,es ESP,DF,Alaves
+4392.0,Martín Palermo,/en/players/02aa1dbe/Martin-Palermo,Martin-Palermo,02aa1dbe,ar ARG,FW,Alaves
+4393.0,Sietes,/en/players/bae8225f/Sietes,Siet,bae8225f,es ESP,DF,Alaves
+4394.0,Jurica Vučko,/en/players/d12b2233/Jurica-Vucko,Jurica-Vucko,d12b2233,hr CRO,FW,Alaves
+4395.0,Eneko Romo,/en/players/5c5c6fa7/Eneko-Romo,Eneko-Romo,5c5c6fa7,es ESP,MF,Alaves
+4396.0,Nenê,/en/players/265ebd37/Nene,N,265ebd37,br BRA,"FW,MF",Alaves
+4397.0,Rodolfo Bodipo,/en/players/6cf2bc0e/Rodolfo-Bodipo,Rodolfo-Bodipo,6cf2bc0e,gq EQG,FW,Alaves
+4398.0,Roberto Bonano,/en/players/7b2d75ba/Roberto-Bonano,Roberto-Bonano,7b2d75ba,ar ARG,GK,Alaves
+4399.0,Santiago Carpintero,/en/players/139b88a8/Santiago-Carpintero,Santiago-Carpintero,139b88a8,es ESP,MF,Alaves
+4400.0,David Coromina,/en/players/bb603172/David-Coromina,David-Coromi,bb603172,es ESP,DF,Alaves
+4401.0,Lluís Carreras,/en/players/4e1b59cf/Lluis-Carreras,Lluis-C,4e1b59cf,es ESP,DF,Alaves
+4402.0,Juvenal,/en/players/b26bf947/Juvenal,Juv,b26bf947,gq EQG,MF,Alaves
+4403.0,Pape Sarr,/en/players/7be00da6/Pape-Sarr,Pape-S,7be00da6,sn SEN,MF,Alaves
+4404.0,Sergio Santamaría,/en/players/4795800e/Sergio-Santamaria,Sergio-Santamari,4795800e,es ESP,"FW,MF",Alaves
+4405.0,David Sánchez,/en/players/bb05af1a/David-Sanchez,David-Sanchez,bb05af1a,es ESP,MF,Alaves
+4406.0,Abel Valenzuela,/en/players/53db52e9/Abel-Valenzuela,Abel-Valenzu,53db52e9,es ESP,DF,Alaves
+4407.0,Pape Thiaw,/en/players/a38f40e6/Pape-Thiaw,Pape-Thiaw,38f40e6,sn SEN,FW,Alaves
+4408.0,Nicolas Ardouin,/en/players/be679fa0/Nicolas-Ardouin,Nicolas-Ardoui,be679fa0,fr FRA,GK,Alaves
+4409.0,Maximiliano Flotta,/en/players/34bd3bd4/Maximiliano-Flotta,Maximiliano-Flott,34bd3bd4,ar ARG,"DF,MF",Alaves
+4410.0,Álex Lombardero,/en/players/0253cbcf/Alex-Lombardero,Alex-Lombardero,0253cbcf,es ESP,MF,Alaves
+4411.0,Aleksandr Mostovoi,/en/players/6d215bed/Aleksandr-Mostovoi,Aleksandr-Mostovoi,6d215bed,ru RUS,MF,Alaves
+4412.0,Juanito,/en/players/47176127/Juanito,Juanito,47176127,es ESP,"DF,MF",Alaves
+4413.0,Franco Costanzo,/en/players/56dde780/Franco-Costanzo,Franco-Costanzo,56dde780,ar ARG,GK,Alaves
+4414.0,John Aloisi,/en/players/747e3a0d/John-Aloisi,John-Aloisi,747e3a0d,au AUS,FW,Alaves
+4415.0,Gaspar,/en/players/75e5329b/Gaspar,G,75e5329b,es ESP,DF,Alaves
+4416.0,Jandro,/en/players/453a1fcd/Jandro,Jandro,453a1fcd,es ESP,MF,Alaves
+4417.0,Mauricio Pellegrino,/en/players/8b3d6528/Mauricio-Pellegrino,Mauricio-Pellegrino,8b3d6528,ar ARG,DF,Alaves
+4418.0,Mehdi Lacen,/en/players/a3a306f6/Mehdi-Lacen,Mehdi-Lac,3a306f6,dz ALG,MF,Alaves
+4419.0,Wesley,/en/players/35b1bd33/Wesley,W,35b1bd33,br BRA,"FW,MF",Alaves
+4420.0,José María Mena,/en/players/bc2150cb/Jose-Maria-Mena,Jose-Maria-M,bc2150cb,es ESP,FW,Alaves
+4421.0,Blagoy Georgiev,/en/players/d2722647/Blagoy-Georgiev,Blagoy-Georgiev,d2722647,bg BUL,MF,Alaves
+4422.0,Arthuro,/en/players/af5bfaa6/Arthuro,Arthuro,f5bfaa6,br BRA,FW,Alaves
+4423.0,Élton Giovanni,/en/players/8c8170c0/Elton-Giovanni,Elton-Giovanni,8c8170c0,br BRA,MF,Alaves
+4424.0,Henri Antchouet,/en/players/5e54551e/Henri-Antchouet,Henri-Antchouet,5e54551e,ga GAB,FW,Alaves
+4425.0,José Manuel Mateo,/en/players/d7458f0a/Jose-Manuel-Mateo,Jose-Manuel-Mateo,d7458f0a,es ESP,DF,Alaves
+4426.0,Toni Moral,/en/players/5c3bf3f9/Toni-Moral,Toni-Mo,5c3bf3f9,es ESP,MF,Alaves
+4427.0,Pablo Casar,/en/players/aa6c5d2f/Pablo-Casar,Pablo-C,6c5d2f,es ESP,DF,Alaves
+4428.0,Stéphane Porato,/en/players/ead5f446/Stephane-Porato,Stephane-Porato,d5f446,fr FRA,GK,Alaves
+4429.0,Pablo Brandán,/en/players/b27a9e0e/Pablo-Brandan,Pablo-Brand,b27a9e0e,ar ARG,"DF,MF",Alaves
+4430.0,Wellington Paulista,/en/players/f2eece5b/Wellington-Paulista,Wellington-Paulist,f2eece5b,br BRA,FW,Alaves
+4431.0,Miguel Pérez,/en/players/b3f9e645/Miguel-Perez,Miguel-Perez,b3f9e645,es ESP,MF,Alaves
+4432.0,Thiago Gentil,/en/players/b66d9928/Thiago-Gentil,Thiago-Genti,b66d9928,br BRA,FW,Alaves
+4433.0,Gabri,/en/players/b2605b0a/Gabri,Gabri,b2605b0a,es ESP,FW,Alaves
+4434.0,Ian Uranga,/en/players/3e3a3981/Ian-Uranga,Ian-Urang,3e3a3981,mo MAC,DF,Alaves
+4435.0,﻿Bernardo Domínguez,/en/players/15394beb/Bernardo-Dominguez,Bernardo-Dominguez,15394beb,es ESP,GK,Alaves
+4436.0,Sergio Rodríguez,/en/players/44e3ae1a/Sergio-Rodriguez,Sergio-Rodriguez,44e3ae1a,es ESP,MF,Alaves
+4437.0,David Aganzo,/en/players/97e3ba49/David-Aganzo,David-Aganzo,97e3ba49,es ESP,FW,Alaves
+4438.0,Javier Tarantino,/en/players/0bf40bdb/Javier-Tarantino,Javier-Tarantino,0bf40bdb,es ESP,DF,Alaves
+4439.0,Iñigo Calderón,/en/players/17a1c047/Inigo-Calderon,Inigo-Caldero,17a1c047,es ESP,DF,Alaves
+4440.0,Nacho Garro,/en/players/9f6a2843/Nacho-Garro,Nacho-Garro,9f6a2843,es ESP,MF,Alaves
+4441.0,Raúl Sánchez,/en/players/5553259e/Raul-Sanchez,Raul-Sanchez,5553259e,es ESP,FW,Alaves
+4442.0,Adrián López,/en/players/88a359d4/Adrian-Lopez,Adrian-Lopez,88a359d4,es ESP,"FW,MF",Alaves
+4443.0,Dalibor Stevanović,/en/players/aeda8e51/Dalibor-Stevanovic,Dalibor-Stevanovic,da8e51,si SVN,MF,Alaves
+4444.0,Samuel Bayón,/en/players/53591b5a/Samuel-Bayon,Samuel-Bayo,53591b5a,es ESP,FW,Alaves
+4445.0,Asier,/en/players/c599392e/Asier,Asi,c599392e,es ESP,MF,Alaves
+4446.0,Igor Martínez,/en/players/c68990c2/Igor-Martinez,Igor-Martinez,c68990c2,es ESP,"FW,MF",Alaves
+4447.0,José Cabrera,/en/players/c7bf7830/Jose-Cabrera,Jose-Cab,c7bf7830,es ESP,MF,Alaves
+4448.0,Jairo,/en/players/a30f7cce/Jairo,Jairo,30f7cce,es ESP,MF,Alaves
+4449.0,Rubén Arroyo,/en/players/725b2479/Ruben-Arroyo,Ruben-Arroyo,725b2479,es ESP,FW,Alaves
+4450.0,Javi Guerra,/en/players/aa386464/Javi-Guerra,Javi-Gu,386464,es ESP,FW,Alaves
+4451.0,Emilio Sánchez,/en/players/58b5df2f/Emilio-Sanchez,Emilio-Sanchez,58b5df2f,es ESP,MF,Alaves
+4452.0,Gaizka Garitano,/en/players/0f5ededa/Gaizka-Garitano,Gaizka-Garitano,0f5ededa,es ESP,MF,Alaves
+4453.0,Edu Albácar,/en/players/fc8a84b8/Edu-Albacar,Edu-Albac,fc8a84b8,es ESP,DF,Alaves
+4454.0,Raúl Llorente,/en/players/f40996ec/Raul-Llorente,Raul-Llorent,f40996ec,es ESP,DF,Alaves
+4455.0,Antonio Moreno Fernández,/en/players/47ba6c6d/Antonio-Moreno-Fernandez,Antonio-Moreno-Fernandez,47ba6c6d,es ESP,"FW,MF",Alaves
+4456.0,Roberto Cuevas,/en/players/5d0e6432/Roberto-Cuevas,Roberto-Cuev,5d0e6432,es ESP,"FW,MF",Alaves
+4457.0,Javier Almirón,/en/players/8b8c57b7/Javier-Almiron,Javier-Almiro,8b8c57b7,ar ARG,"DF,MF",Alaves
+4458.0,Nicolas Bonis,/en/players/3cb96ab0/Nicolas-Bonis,Nicolas-Boni,3cb96ab0,fr FRA,GK,Alaves
+4459.0,Juanjo Expósito,/en/players/f0a0b756/Juanjo-Exposito,Juanjo-Exposito,f0a0b756,es ESP,FW,Alaves
+4460.0,Óscar de Marcos,/en/players/9f323c71/Oscar-de-Marcos,Oscar-de-Marco,9f323c71,es ESP,"DF,FW",Alaves
+4461.0,Marc Pedraza,/en/players/ff8f26ef/Marc-Pedraza,Marc-Pedraz,ff8f26ef,es ESP,MF,Alaves
+4462.0,Dani Castellano,/en/players/21d4e122/Dani-Castellano,Dani-Castellano,21d4e122,es ESP,"DF,MF",Alaves
+4463.0,Jacobo Ynclán,/en/players/68078edd/Jacobo-Ynclan,Jacobo-Ync,68078edd,es ESP,"FW,MF",Alaves
+4464.0,Pablo de Lucas,/en/players/d1264346/Pablo-de-Lucas,Pablo-de-Luc,d1264346,es ESP,MF,Alaves
+4465.0,Iban Fagoaga,/en/players/d49844fa/Iban-Fagoaga,Iban-Fagoag,d49844fa,es ESP,DF,Alaves
+4466.0,Jonathan Reguero,/en/players/f3b03bed/Jonathan-Reguero,Jonathan-Reguero,f3b03bed,es ESP,FW,Alaves
+4467.0,﻿Borja Viguera,/en/players/d906a703/Borja-Viguera,Borja-Vigu,d906a703,es ESP,FW,Alaves
+4468.0,Manu García,/en/players/05a4465d/Manu-Garcia,Manu-Garci,05a4465d,es ESP,MF,Alaves
+4469.0,Jiří Jarošík,/en/players/55ea6bb4/Jiri-Jarosik,Jiri-Jarosik,55ea6bb4,cz CZE,"DF,MF",Alaves
+4470.0,Jagoba Beobide,/en/players/08dee721/Jagoba-Beobide,Jagoba-Beobid,08dee721,es ESP,MF,Alaves
+4471.0,Iñaki Goitia,/en/players/2f10b901/Inaki-Goitia,Inaki-Goiti,2f10b901,es ESP,GK,Alaves
+4472.0,Óscar Rubio Fauria,/en/players/d220bc16/Oscar-Rubio-Fauria,Oscar-Rubio-Fauri,d220bc16,es ESP,"DF,MF",Alaves
+4473.0,Ion Vélez,/en/players/3a6c16de/Ion-Velez,Ion-Velez,3a6c16de,es ESP,FW,Alaves
+4474.0,Toti,/en/players/03a03057/Toti,Toti,03a03057,es ESP,"FW,MF",Alaves
+4475.0,Guzmán Casaseca,/en/players/f05d4004/Guzman-Casaseca,Guzman-Casasec,f05d4004,es ESP,MF,Alaves
+4476.0,Nano,/en/players/51fbb7e2/Nano,Nano,51fbb7e2,es ESP,"DF,FW",Alaves
+4477.0,Álex Ortiz,/en/players/c07dc79e/Alex-Ortiz,Alex-Ortiz,c07dc79e,es ESP,DF,Alaves
+4478.0,Unai Medina,/en/players/bda6ddeb/Unai-Medina,Unai-Medi,bda6ddeb,es ESP,DF,Alaves
+4479.0,Jaume Delgado,/en/players/fb3952be/Jaume-Delgado,Jaume-Delgado,fb3952be,es ESP,MF,Alaves
+4480.0,Samuel Llorca,/en/players/9c3d54f0/Samuel-Llorca,Samuel-Llorc,9c3d54f0,es ESP,DF,Alaves
+4481.0,Luciano,/en/players/7798f39e/Luciano,Luciano,7798f39e,es ESP,DF,Alaves
+4482.0,Iván Crespo,/en/players/31ae3b7e/Ivan-Crespo,Ivan-Crespo,31ae3b7e,es ESP,GK,Alaves
+4483.0,Raúl García,/en/players/1a317a1b/Raul-Garcia,Raul-Garci,1a317a1b,es ESP,DF,Alaves
+4484.0,Carlos Lázaro,/en/players/785894a8/Carlos-Lazaro,Carlos-Lazaro,785894a8,es ESP,MF,Alaves
+4485.0,Miroslav Stevanović,/en/players/73d430c6/Miroslav-Stevanovic,Miroslav-Stevanovic,73d430c6,ba BIH,"FW,MF",Alaves
+4486.0,Óscar Serrano,/en/players/c862ecc5/Oscar-Serrano,Oscar-Serrano,c862ecc5,es ESP,MF,Alaves
+4487.0,Juanma,/en/players/f4f22926/Juanma,Juanm,f4f22926,es ESP,MF,Alaves
+4488.0,Sergio Tejera,/en/players/3d5734ef/Sergio-Tejera,Sergio-Tej,3d5734ef,es ESP,MF,Alaves
+4489.0,Mauro Quiroga,/en/players/1643c897/Mauro-Quiroga,Mauro-Quirog,1643c897,ar ARG,FW,Alaves
+4490.0,Gorka Laborda,/en/players/7e77be7b/Gorka-Laborda,Gorka-Labord,7e77be7b,es ESP,FW,Alaves
+4491.0,Nicolás Schenone,/en/players/a35d0b21/Nicolas-Schenone,Nicolas-Scheno,35d0b21,uy URU,MF,Alaves
+4492.0,Einar Galilea,/en/players/327d75f2/Einar-Galilea,Einar-Gali,327d75f2,es ESP,DF,Alaves
+4493.0,﻿Víctor Laguardia,/en/players/b7c99b9b/Victor-Laguardia,Victor-Laguardi,b7c99b9b,es ESP,DF,Alaves
+4494.0,Daniel Toribio,/en/players/0ced6664/Daniel-Toribio,Daniel-Toribio,0ced6664,es ESP,MF,Alaves
+4495.0,Manu,/en/players/e6c6988d/Manu,Manu,6c6988d,es ESP,GK,Alaves
+4496.0,Manu Barreiro,/en/players/028608d9/Manu-Barreiro,Manu-Barreiro,028608d9,es ESP,FW,Alaves
+4497.0,Juli,/en/players/f3541f8a/Juli,Juli,f3541f8a,es ESP,MF,Alaves
+4498.0,Migue,/en/players/13575a4c/Migue,Migu,13575a4c,es ESP,DF,Alaves
+4499.0,Manuel Lanzarote,/en/players/dff353fb/Manuel-Lanzarote,Manuel-Lanzarot,dff353fb,es ESP,MF,Alaves
+4500.0,Ernesto Galán,/en/players/7e4af593/Ernesto-Galan,Ernesto-G,7e4af593,es ESP,DF,Alaves
+4501.0,Rafa García,/en/players/bebdff6f/Rafa-Garcia,Rafa-Garci,bebdff6f,es ESP,MF,Alaves
+4502.0,Xabier Castillo,/en/players/638dc43b/Xabier-Castillo,Xabier-Castillo,638dc43b,hr CRO,DF,Alaves
+4503.0,Ranko Despotović,/en/players/7909655a/Ranko-Despotovic,Ranko-Despotovic,7909655a,rs SRB,FW,Alaves
+4504.0,Sergio Llamas,/en/players/ca64ddf5/Sergio-Llamas,Sergio-Llam,ca64ddf5,es ESP,MF,Alaves
+4505.0,Andoni,/en/players/647126d0/Andoni,Andoni,647126d0,es ESP,MF,Alaves
+4506.0,﻿Fernando Pacheco,/en/players/97852360/Fernando-Pacheco,Fernando-Pacheco,97852360,es ESP,GK,Alaves
+4507.0,Sergio Mora,/en/players/f0a31c00/Sergio-Mora,Sergio-Mo,f0a31c00,es ESP,MF,Alaves
+4508.0,Gaizka Toquero,/en/players/b78144a6/Gaizka-Toquero,Gaizka-Toquero,b78144a6,es ESP,"FW,MF",Alaves
+4509.0,Kiko Femenía,/en/players/e5d01ecf/Kiko-Femenia,Kiko-Femeni,5d01ecf,es ESP,"DF,FW",Alaves
+4510.0,Sergio Pelegrín,/en/players/e360782f/Sergio-Pelegrin,Sergio-Pelegri,360782f,es ESP,DF,Alaves
+4511.0,Javier Carpio,/en/players/5158c08a/Javier-Carpio,Javier-Carpio,5158c08a,es ESP,DF,Alaves
+4512.0,Daniel Pacheco,/en/players/5b2a4b8d/Daniel-Pacheco,Daniel-Pacheco,5b2a4b8d,es ESP,"FW,MF",Alaves
+4513.0,Dani Estrada,/en/players/519412fd/Dani-Estrada,Dani-Estrad,519412fd,es ESP,"DF,MF",Alaves
+4514.0,Facundo Guichón,/en/players/6db97467/Facundo-Guichon,Facundo-Guicho,6db97467,uy URU,MF,Alaves
+4515.0,Hernán Bernardello,/en/players/dec04537/Hernan-Bernardello,Hernan-Bernardello,dec04537,ar ARG,MF,Alaves
+4516.0,Aritz Borda,/en/players/47e49156/Aritz-Borda,Aritz-Bord,47e49156,es ESP,DF,Alaves
+4517.0,Dani Abalo,/en/players/d1b04adb/Dani-Abalo,Dani-Abalo,d1b04adb,es ESP,"FW,MF",Alaves
+4518.0,Pau Torres,/en/players/2912fea1/Pau-Torres,Pau-To,2912fea1,es ESP,GK,Alaves
+4519.0,Iñaki Sáenz,/en/players/995e3a10/Inaki-Saenz,Inaki-Saenz,995e3a10,es ESP,MF,Alaves
+4520.0,David Arenas Torres,/en/players/87afba6a/David-Arenas-Torres,David-Arenas-To,87afba6a,es ESP,FW,Alaves
+4521.0,Krisztián Vadócz,/en/players/b4b0e333/Krisztian-Vadocz,Krisztian-Vadocz,b4b0e333,hu HUN,MF,Alaves
+4522.0,Asier Benito,/en/players/02a111ed/Asier-Benito,Asier-Benito,02a111ed,es ESP,FW,Alaves
+4523.0,Jon Aranda Goenaga,/en/players/84ef91ca/Jon-Aranda-Goenaga,Jon-Aranda-Goenag,84ef91ca,es ESP,DF,Alaves
+4524.0,Aritz Castro,/en/players/0b006b08/Aritz-Castro,Aritz-Castro,0b006b08,es ESP,GK,Alaves
+4525.0,Iñaki Sáenz,/en/players/975dd5ae/Inaki-Saenz,Inaki-Saenz,975dd5ae,es ESP,"DF,MF",Alaves
+4526.0,Marcos Llorente,/en/players/02c15616/Marcos-Llorente,Marcos-Llorent,02c15616,es ESP,MF,Alaves
+4527.0,Theo Hernández,/en/players/d4c9725f/Theo-Hernandez,Theo-Hernandez,d4c9725f,fr FRA,DF,Alaves
+4528.0,Deyverson,/en/players/2e5e846d/Deyverson,Deyverso,2e5e846d,br BRA,FW,Alaves
+4529.0,Zouhair Feddal,/en/players/89151b16/Zouhair-Feddal,Zouhair-Fedd,89151b16,ma MAR,DF,Alaves
+4530.0,Ibai Gómez,/en/players/9d2a3d5f/Ibai-Gomez,Ibai-Gomez,9d2a3d5f,es ESP,MF,Alaves
+4531.0,Alexis,/en/players/db0cd1ae/Alexis,Alexi,db0cd1ae,es ESP,DF,Alaves
+4532.0,Édgar Méndez,/en/players/aed746df/Edgar-Mendez,Edgar-Mendez,d746df,es ESP,"MF,FW",Alaves
+4533.0,Daniel Torres,/en/players/87882adc/Daniel-Torres,Daniel-To,87882adc,co COL,MF,Alaves
+4534.0,Carlos Vigaray,/en/players/f69d934e/Carlos-Vigaray,Carlos-Vig,f69d934e,es ESP,DF,Alaves
+4535.0,Nenad Krstičić,/en/players/5631b735/Nenad-Krsticic,Nenad-Krsticic,5631b735,rs SRB,MF,Alaves
+4536.0,Christian Santos,/en/players/4efd29bb/Christian-Santos,Christian-Santo,4efd29bb,ve VEN,FW,Alaves
+4537.0,Rodrigo Ely,/en/players/fd47b4f2/Rodrigo-Ely,Rodrigo-E,fd47b4f2,br BRA,DF,Alaves
+4538.0,Aleksandar Katai,/en/players/d5127c3f/Aleksandar-Katai,Aleksandar-Katai,d5127c3f,rs SRB,"MF,FW",Alaves
+4539.0,Rubén Sobrino,/en/players/19b776e9/Ruben-Sobrino,Ruben-Sobrino,19b776e9,es ESP,MF,Alaves
+4540.0,Óscar Romero,/en/players/4bc5f2b4/Oscar-Romero,Oscar-Romero,4bc5f2b4,py PAR,MF,Alaves
+4541.0,Adrián Ortolá,/en/players/6a22fe38/Adrian-Ortola,Adrian-Orto,6a22fe38,es ESP,GK,Alaves
+4542.0,Cristian Espinoza,/en/players/9c794a80/Cristian-Espinoza,Cristian-Espinoz,9c794a80,ar ARG,MF,Alaves
+4543.0,Aleksandar Pantić,/en/players/70e5566a/Aleksandar-Pantic,Aleksandar-Pantic,70e5566a,rs SRB,DF,Alaves
+4544.0,Martin Agirregabiria,/en/players/355c883a/Martin-Agirregabiria,Martin-Agirregabiri,355c883a,es ESP,DF,Alaves
+4545.0,Manu García,/en/players/6ed1a2a2/Manu-Garcia,Manu-Garci,6ed1a2a2,es ESP,"FW,MF",Alaves
+4546.0,Munir El Haddadi,/en/players/8696bc90/Munir-El-Haddadi,Munir-El-Haddadi,8696bc90,ma MAR,FW,Alaves
+4547.0,Tomás Pina Isla,/en/players/e54bd0a2/Tomas-Pina-Isla,Tomas-Pina-I,54bd0a2,es ESP,MF,Alaves
+4548.0,Alfonso Pedraza,/en/players/63f04c6c/Alfonso-Pedraza,Alfonso-Pedraz,63f04c6c,es ESP,"MF,DF",Alaves
+4549.0,Rubén Duarte,/en/players/1fe0492d/Ruben-Duarte,Ruben-Duart,1fe0492d,es ESP,DF,Alaves
+4550.0,Guillermo Maripán,/en/players/d9764034/Guillermo-Maripan,Guillermo-Mari,d9764034,cl CHI,DF,Alaves
+4551.0,John Guidetti,/en/players/99bebd12/John-Guidetti,John-Guidetti,99bebd12,se SWE,FW,Alaves
+4552.0,Wakaso,/en/players/999908af/Wakaso,Wakaso,999908af,gh GHA,MF,Alaves
+4553.0,Burgui,/en/players/45e304c8/Burgui,Burgui,45e304c8,es ESP,"MF,FW",Alaves
+4554.0,Álvaro Medrán,/en/players/31223bcf/Alvaro-Medran,Alvaro-Med,31223bcf,es ESP,MF,Alaves
+4555.0,Adrián Diéguez,/en/players/70438d35/Adrian-Dieguez,Adrian-Dieguez,70438d35,es ESP,DF,Alaves
+4556.0,Bojan Krkić,/en/players/9fa0a0b8/Bojan-Krkic,Bojan-Krkic,9fa0a0b8,es ESP,"FW,MF",Alaves
+4557.0,Hernán Pérez,/en/players/e1cea3f7/Hernan-Perez,Hernan-Perez,1cea3f7,py PAR,MF,Alaves
+4558.0,Ermedin Demirović,/en/players/ed79b7d3/Ermedin-Demirovic,Ermedin-Demirovic,d79b7d3,ba BIH,FW,Alaves
+4559.0,Antonio Sivera,/en/players/9970da54/Antonio-Sivera,Antonio-Siv,9970da54,es ESP,GK,Alaves
+4560.0,Víctor López,/en/players/a68856b5/Victor-Lopez,Victor-Lopez,68856b5,es ESP,MF,Alaves
+4561.0,Héctor Hernández,/en/players/76ee80ee/Hector-Hernandez,Hector-Hernandez,76ee80ee,es ESP,DF,Alaves
+4562.0,Ioritz Landeta,/en/players/f553e957/Ioritz-Landeta,Ioritz-Landet,f553e957,es ESP,GK,Alaves
+4563.0,Jony,/en/players/244f57b9/Jony,Jo,244f57b9,es ESP,"MF,FW",Alaves
+4564.0,Jonathan Calleri,/en/players/6922f806/Jonathan-Calleri,Jonathan-Calleri,6922f806,ar ARG,FW,Alaves
+4565.0,Ximo Navarro,/en/players/8db394aa/Ximo-Navarro,Ximo-Navarro,8db394aa,es ESP,DF,Alaves
+4566.0,Borja Bastón,/en/players/8c44e37b/Borja-Baston,Borja-Basto,8c44e37b,es ESP,FW,Alaves
+4567.0,Darko Brašanac,/en/players/4accb7e0/Darko-Brasanac,Darko-Brasanac,4accb7e0,rs SRB,MF,Alaves
+4568.0,Takashi Inui,/en/players/61bd33d0/Takashi-Inui,Takashi-Inui,61bd33d0,jp JPN,"MF,FW",Alaves
+4569.0,Diego Rolán,/en/players/d1491e00/Diego-Rolan,Diego-Ro,d1491e00,uy URU,"MF,FW",Alaves
+4570.0,Adrián Marín,/en/players/b7f2edff/Adrian-Marin,Adrian-Mari,b7f2edff,es ESP,"DF,MF",Alaves
+4571.0,Patrick Twumasi,/en/players/e3993b65/Patrick-Twumasi,Patrick-Twumasi,3993b65,gh GHA,"MF,FW",Alaves
+4572.0,Alejandro Blanco,/en/players/c4dce677/Alejandro-Blanco,Alejandro-Blanco,c4dce677,es ESP,MF,Alaves
+4573.0,Álex Domínguez,/en/players/f240be08/Alex-Dominguez,Alex-Dominguez,f240be08,es ESP,GK,Alaves
+4574.0,Andrei Lupu,/en/players/60035815/Andrei-Lupu,Andrei-Lupu,60035815,ro ROU,FW,Alaves
+4575.0,Paulino,/en/players/f20fce1b/Paulino,Paulino,f20fce1b,es ESP,MF,Alaves
+4576.0,Antonio Perera,/en/players/40b9b91a/Antonio-Perera,Antonio-P,40b9b91a,es ESP,MF,Alaves
+4577.0,﻿Joselu,/en/players/6265208f/Joselu,Joselu,6265208f,es ESP,FW,Alaves
+4578.0,Lucas Pérez,/en/players/a300ac7e/Lucas-Perez,Lucas-Perez,300ac7e,es ESP,FW,Alaves
+4579.0,Aleix Vidal,/en/players/04965583/Aleix-Vidal,Aleix-Vid,04965583,es ESP,MF,Alaves
+4580.0,Luis Rioja,/en/players/eb3dd471/Luis-Rioja,Luis-Rioj,b3dd471,es ESP,MF,Alaves
+4581.0,Víctor Camarasa,/en/players/b2d03887/Victor-Camarasa,Victor-Cam,b2d03887,es ESP,MF,Alaves
+4582.0,Oliver Burke,/en/players/f631c17f/Oliver-Burke,Oliver-Burk,f631c17f,sct SCO,"MF,FW",Alaves
+4583.0,Lisandro Magallán,/en/players/01a49bd2/Lisandro-Magallan,Lisandro-Mag,01a49bd2,ar ARG,DF,Alaves
+4584.0,Ljubomir Fejsa,/en/players/874d7a32/Ljubomir-Fejsa,Ljubomir-Fej,874d7a32,rs SRB,MF,Alaves
+4585.0,Roberto,/en/players/ba3ca78f/Roberto,Roberto,ba3ca78f,es ESP,GK,Alaves
+4586.0,Pere Pons,/en/players/29b61deb/Pere-Pons,Pere-Po,29b61deb,es ESP,MF,Alaves
+4587.0,Borja Sainz,/en/players/1b40049a/Borja-Sainz,Borja-Sainz,1b40049a,es ESP,MF,Alaves
+4588.0,Tachi,/en/players/8b625720/Tachi,Tachi,8b625720,es ESP,DF,Alaves
+4589.0,Abdallahi Mahmoud,/en/players/ab99e4a0/Abdallahi-Mahmoud,Abdallahi-Mahmoud,b99e4a0,mr MTN,MF,Alaves
+4590.0,Javi López,/en/players/e9ada8cf/Javi-Lopez,Javi-Lopez,9ada8cf,es ESP,DF,Alaves
+4591.0,Javier Muñoz,/en/players/ec7c84c2/Javier-Munoz,Javier-Munoz,c7c84c2,es ESP,"FW,MF",Alaves
+4592.0,José Luis Rodríguez,/en/players/b333b014/Jose-Luis-Rodriguez,Jose-Luis-Rodriguez,b333b014,pa PAN,FW,Alaves
+4593.0,Rafa Navarro,/en/players/83627094/Rafa-Navarro,Rafa-Navarro,83627094,es ESP,DF,Alaves
+4594.0,Florian Lejeune,/en/players/6eaed4eb/Florian-Lejeune,Florian-Lejeu,6eaed4eb,fr FRA,DF,Alaves
+4595.0,Rodrigo Battaglia,/en/players/d637fc22/Rodrigo-Battaglia,Rodrigo-Battagli,d637fc22,ar ARG,MF,Alaves
+4596.0,Jota,/en/players/9f351459/Jota,Jot,9f351459,es ESP,MF,Alaves
+4597.0,Facundo Pellistri,/en/players/ac7e7b1c/Facundo-Pellistri,Facundo-Pellistri,c7e7b1c,uy URU,"MF,FW",Alaves
+4598.0,Iñigo Córdoba,/en/players/49ea92be/Inigo-Cordoba,Inigo-Cordob,49ea92be,es ESP,MF,Alaves
+4599.0,Tomás Tavares,/en/players/0dce3356/Tomas-Tavares,Tomas-Tav,0dce3356,pt POR,"MF,DF",Alaves
+4600.0,Sergi García,/en/players/a039d52e/Sergi-Garcia,Sergi-Garci,039d52e,es ESP,MF,Alaves
+4601.0,Stephane Keller,/en/players/89d1e9fa/Stephane-Keller,Stephane-K,89d1e9fa,cm CMR,DF,Alaves
+4602.0,Abdelkabir Abqar,/en/players/2bc7f211/Abdelkabir-Abqar,Abdelkabir-Abq,2bc7f211,ma MAR,DF,Alaves
+4603.0,Pepe Blanco,/en/players/3a97cbb1/Pepe-Blanco,Pepe-Blanco,3a97cbb1,es ESP,MF,Alaves
+4604.0,Eneko Ortiz,/en/players/dc5ea86b/Eneko-Ortiz,Eneko-Ortiz,dc5ea86b,es ESP,MF,Alaves
+4605.0,Hugo Perez,/en/players/7cfbe2c9/Hugo-Perez,Hugo-Perez,7cfbe2c9,es ESP,DF,Alaves
+4606.0,Robert Vallribera,/en/players/e695674d/Robert-Vallribera,Robert-Vallrib,695674d,es ESP,DF,Alaves
+4607.0,Loum Ndiaye,/en/players/bcfc4473/Loum-Ndiaye,Loum-Ndi,bcfc4473,sn SEN,MF,Alaves
+4608.0,Toni Moya,/en/players/9e098912/Toni-Moya,Toni-Mo,9e098912,es ESP,MF,Alaves
+4609.0,Gonzalo Escalante,/en/players/3f79a1c8/Gonzalo-Escalante,Gonzalo-Escalant,3f79a1c8,ar ARG,MF,Alaves
+4610.0,Nahuel Tenaglia,/en/players/66654daa/Nahuel-Tenaglia,Nahuel-Tenagli,66654daa,ar ARG,DF,Alaves
+4611.0,Miguel,/en/players/6763373d/Miguel,Migu,6763373d,es ESP,"FW,MF",Alaves
+4612.0,Jason,/en/players/9038c2a1/Jason,Jaso,9038c2a1,es ESP,MF,Alaves
+4613.0,Matt Miazga,/en/players/9fc0f253/Matt-Miazga,Matt-Miazg,9fc0f253,us USA,DF,Alaves
+4614.0,Mamadou Sylla,/en/players/e5ec95f8/Mamadou-Sylla,Mamadou-S,5ec95f8,sn SEN,"FW,MF",Alaves
+4615.0,Manu Vallejo,/en/players/0bc4e720/Manu-Vallejo,Manu-Vallejo,0bc4e720,es ESP,"MF,FW",Alaves
+4616.0,Iván Martín,/en/players/ae48c5cb/Ivan-Martin,Ivan-Marti,48c5cb,es ESP,MF,Alaves
+4617.0,Jesús Owono,/en/players/d6e3d7fb/Jesus-Owono,Jesus-Owono,d6e3d7fb,gq EQG,GK,Alaves
+4618.0,Marc Tenas,/en/players/1c5d79e2/Marc-Tenas,Marc-T,1c5d79e2,es ESP,"MF,DF",Alaves
+4619.0,Mircea Alexandru Tirlea,/en/players/683a1d81/Mircea-Alexandru-Tirlea,Mircea-Alexandru-Ti,683a1d81,ro ROU,DF,Alaves
+4620.0,Unai Ropero,/en/players/7868c973/Unai-Ropero,Unai-Ropero,7868c973,es ESP,MF,Alaves
+4621.0,Tomás Mendes,/en/players/45f771db/Tomas-Mendes,Tomas-Mend,45f771db,es ESP,MF,Alaves
+4622.0,Alex Balboa,/en/players/6e5c5fc7/Alex-Balboa,Alex-Balbo,6e5c5fc7,gq EQG,MF,Alaves
+4623.0,George Gagua,/en/players/e66bd684/George-Gagua,George-Gagu,66bd684,ge GEO,FW,Alaves
+4624.0,Alan Godoy,/en/players/01bbb0ad/Alan-Godoy,Alan-Godo,01bbb0ad,es ESP,FW,Alaves
+4625.0,Taichi Hara,/en/players/1e524738/Taichi-Hara,Taichi-H,1e524738,jp JPN,FW,Alaves
+4626.0,Adrian Rodriguez,/en/players/bf17fb4a/Adrian-Rodriguez,Adrian-Rodriguez,bf17fb4a,es ESP,GK,Alaves

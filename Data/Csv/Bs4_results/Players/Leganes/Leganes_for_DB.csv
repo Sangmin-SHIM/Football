@@ -1,329 +1,329 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Raúl Arribas,es ESP,GK,39,39,0.0,0.0,2002-2003,8de0ba1c,Leganes,"3,459",38.4,1.0,0.0,75.0,1.0,5502.0,Leganes
-,Pablo Villa,es ESP,FW,40,35,3.0,6.0,2002-2003,c6b66eea,Leganes,"3,131",34.8,5.0,0.0,75.0,1.0,,Leganes
-,Abass Lawal,ng NGA,"FW,MF",36,34,7.0,6.0,2002-2003,dd53d426,Leganes,"2,793",31.0,9.0,2.0,75.0,52.0,,Leganes
-,Miguel Ángel,es ESP,FW,39,33,5.0,9.0,2002-2003,76f06f1f,Leganes,"2,691",29.9,7.0,0.0,75.0,1.0,,Leganes
-,Óscar,es ESP,DF,32,32,2.0,0.0,2002-2003,b4786695,Leganes,"2,839",31.5,19.0,2.0,75.0,1.0,5503.0,Leganes
-,Joaquín Macanás,es ESP,DF,31,31,0.0,1.0,2002-2003,fe9e077f,Leganes,"2,701",30.0,13.0,1.0,75.0,1.0,5504.0,Leganes
-,Jon Ander Lambea,es ESP,DF,29,29,1.0,3.0,2002-2003,f370429e,Leganes,"2,580",28.7,14.0,1.0,75.0,1.0,,Leganes
-,Gustavo de la Parra,es ESP,DF,32,28,0.0,0.0,2002-2003,ba328cca,Leganes,"2,566",28.5,7.0,0.0,75.0,1.0,5505.0,Leganes
-,Fede Bahón,es ESP,DF,28,27,0.0,2.0,2002-2003,b0ccfe54,Leganes,"2,370",26.3,8.0,1.0,75.0,1.0,5506.0,Leganes
-,David Darmon,,,28,25,2.0,0.0,2002-2003,,Leganes,"2,320",25.8,5.0,1.0,75.0,,,Leganes
-,Unai Emery,es ESP,MF,28,23,1.0,0.0,2002-2003,530e0c0,Leganes,"1,970",21.9,3.0,1.0,75.0,1.0,5507.0,Leganes
-,David Clotet,es ESP,DF,29,22,0.0,0.0,2002-2003,cd3a8fa3,Leganes,"2,061",22.9,11.0,0.0,75.0,1.0,5508.0,Leganes
-,Federico Marin,,,18,16,2.0,2.0,2002-2003,,Leganes,"1,313",14.6,4.0,1.0,75.0,,,Leganes
-,Sergio Gámiz,es ESP,MF,21,14,1.0,0.0,2002-2003,d15abcc9,Leganes,"1,193",13.3,5.0,1.0,75.0,1.0,5509.0,Leganes
-,Juan Carlos Carcedo,es ESP,"FW,MF",15,12,0.0,0.0,2002-2003,3f698ebf,Leganes,"1,073",11.9,6.0,1.0,75.0,1.0,5510.0,Leganes
-,Óscar Pulido,,MF,17,12,0.0,0.0,2002-2003,7e01b9b3,Leganes,898,10.0,3.0,1.0,75.0,,,Leganes
-,Sívori,es ESP,"FW,MF",34,10,1.0,3.0,2002-2003,fed61bbe,Leganes,"1,304",14.5,4.0,0.0,75.0,1.0,5511.0,Leganes
-,Juan Pardo,,,12,10,0.0,0.0,2002-2003,,Leganes,777,8.6,3.0,0.0,75.0,,,Leganes
-,Pablo Calandria,ar ARG,FW,27,9,0.0,8.0,2002-2003,9c010ae8,Leganes,"1,005",11.2,1.0,0.0,75.0,5.0,,Leganes
-,Juan Ramon,,,10,6,0.0,1.0,2002-2003,,Leganes,615,6.8,0.0,0.0,75.0,,,Leganes
-,Miguel Falcón,es ESP,MF,9,6,1.0,1.0,2002-2003,955cfa6,Leganes,514,5.7,4.0,0.0,75.0,1.0,5512.0,Leganes
-,Salva,es ESP,DF,7,4,1.0,0.0,2002-2003,dfbb5412,Leganes,354,3.9,1.0,0.0,75.0,1.0,,Leganes
-,Sergio Vera,,,4,3,0.0,0.0,2002-2003,,Leganes,321,3.6,0.0,0.0,75.0,,,Leganes
-,Pierre Webó,cm CMR,FW,7,2,0.0,0.0,2002-2003,3d6f05ea,Leganes,237,2.6,0.0,0.0,75.0,36.0,,Leganes
-,Bejarano Luis,,,1,1,0.0,0.0,2002-2003,,Leganes,45,0.5,0.0,0.0,75.0,,,Leganes
-,Gorka Pintado,es ESP,FW,12,0,0.0,0.0,2002-2003,98055de,Leganes,251,2.8,2.0,1.0,75.0,1.0,5513.0,Leganes
-,﻿Lucas Alessandría,ar ARG,DF,38,38,0.0,1.0,2003-2004,1a9b820c,Leganes,"3,328",37.0,10.0,3.0,75.0,5.0,5514.0,Leganes
-,Martín Vitali,ar ARG,"DF,MF",33,33,0.0,0.0,2003-2004,14931795,Leganes,"2,909",32.3,8.0,2.0,75.0,5.0,,Leganes
-,David Txiki,,,40,31,8.0,4.0,2003-2004,9c1b1fe2,Leganes,"2,829",31.4,3.0,0.0,75.0,,,Leganes
-,Pablo Calandria,ar ARG,FW,37,30,3.0,7.0,2003-2004,9c010ae8,Leganes,"2,787",31.0,2.0,1.0,75.0,5.0,,Leganes
-,Javier Muñoz,ar ARG,DF,30,29,0.0,2.0,2003-2004,492e1cd3,Leganes,"2,561",28.5,12.0,1.0,75.0,5.0,,Leganes
-,Nicolás Medina,ar ARG,MF,32,28,1.0,0.0,2003-2004,da259,Leganes,"2,502",27.8,5.0,0.0,75.0,5.0,,Leganes
-,Borja Pérez,es ESP,FW,37,27,1.0,5.0,2003-2004,5cabc332,Leganes,"2,189",24.3,5.0,0.0,75.0,1.0,,Leganes
-,Raúl Arribas,es ESP,GK,27,26,0.0,0.0,2003-2004,8de0ba1c,Leganes,"2,356",26.2,1.0,0.0,75.0,1.0,5502.0,Leganes
-,Claudio Enría,ar ARG,FW,34,23,0.0,6.0,2003-2004,b9a6e4a7,Leganes,"2,044",22.7,5.0,0.0,75.0,5.0,5515.0,Leganes
-,Joaquín Macanás,es ESP,DF,24,22,0.0,1.0,2003-2004,fe9e077f,Leganes,"2,030",22.6,6.0,0.0,75.0,1.0,5504.0,Leganes
-,Pablo Rodríguez,ar ARG,MF,26,21,3.0,2.0,2003-2004,73013758,Leganes,"1,793",19.9,2.0,0.0,75.0,5.0,5516.0,Leganes
-,Miguel Melgar,es ESP,MF,21,19,0.0,2.0,2003-2004,bfa43647,Leganes,"1,660",18.4,4.0,0.0,75.0,1.0,,Leganes
-,Juan Pardo,,,18,18,0.0,0.0,2003-2004,,Leganes,"1,589",17.7,5.0,0.0,75.0,,,Leganes
-,Claudio Marini,ar ARG,MF,26,17,2.0,1.0,2003-2004,446a7d68,Leganes,"1,608",17.9,12.0,0.0,75.0,5.0,,Leganes
-,Mauro Navas,ar ARG,DF,25,17,2.0,0.0,2003-2004,97fe2167,Leganes,"1,570",17.4,5.0,0.0,75.0,5.0,,Leganes
-,Federico Domínguez,ar ARG,DF,17,17,3.0,3.0,2003-2004,b32f81ef,Leganes,"1,530",17.0,7.0,0.0,75.0,5.0,5517.0,Leganes
-,Bernardo Leyenda,ar ARG,GK,16,16,0.0,0.0,2003-2004,94431f9e,Leganes,"1,424",15.8,2.0,1.0,75.0,5.0,5518.0,Leganes
-,Francisco Arrué,cl CHI,MF,24,13,0.0,0.0,2003-2004,0a6e5ad8,Leganes,"1,207",13.4,3.0,0.0,75.0,31.0,5519.0,Leganes
-,Juan Pietravallo,ar ARG,MF,14,11,0.0,0.0,2003-2004,131d085,Leganes,914,10.2,4.0,0.0,75.0,5.0,5520.0,Leganes
-,Juan Carlos Carcedo,es ESP,"FW,MF",18,10,1.0,0.0,2003-2004,3f698ebf,Leganes,983,10.9,6.0,0.0,75.0,1.0,5510.0,Leganes
-,Santiago Kuhl,ar ARG,MF,16,7,1.0,1.0,2003-2004,1bfc121a,Leganes,646,7.2,1.0,0.0,75.0,5.0,5521.0,Leganes
-,Mario Turdó,ar ARG,FW,6,6,0.0,2.0,2003-2004,0e08ad62,Leganes,442,4.9,3.0,0.0,75.0,5.0,,Leganes
-,Diego Municio,,,3,2,0.0,0.0,2003-2004,,Leganes,197,2.2,1.0,0.0,75.0,,,Leganes
-,Gorka Pintado,es ESP,FW,4,1,0.0,0.0,2003-2004,98055de,Leganes,133,1.5,0.0,0.0,75.0,1.0,5513.0,Leganes
-,José Chamot,ar ARG,DF,1,0,0.0,0.0,2003-2004,5cebcd18,Leganes,62,0.7,1.0,0.0,75.0,5.0,5522.0,Leganes
-,Julio,es ESP,DF,1,0,0.0,0.0,2003-2004,8389a87b,Leganes,19,0.2,0.0,0.0,75.0,1.0,5523.0,Leganes
-,﻿Javier Eraso,es ESP,MF,39,39,1.0,8.0,2014-2015,c0fb6f,Leganes,"3,464",38.5,8.0,0.0,75.0,1.0,,Leganes
-,Sergio Postigo,es ESP,DF,37,36,2.0,2.0,2014-2015,474ecac8,Leganes,"3,136",34.8,12.0,0.0,75.0,1.0,,Leganes
-,Martín Mantovani,ar ARG,DF,34,34,1.0,3.0,2014-2015,4ffb647d,Leganes,"3,060",34.0,10.0,0.0,75.0,5.0,,Leganes
-,Álvaro García,es ESP,MF,35,33,5.0,4.0,2014-2015,ca6f381a,Leganes,"2,720",30.2,2.0,0.0,75.0,1.0,5524.0,Leganes
-,César Soriano,es ESP,DF,32,30,2.0,0.0,2014-2015,0e41fc77,Leganes,"2,719",30.2,8.0,0.0,75.0,1.0,,Leganes
-,Jon Ander Serantes,es ESP,GK,25,25,0.0,0.0,2014-2015,983ccabe,Leganes,"2,250",25.0,3.0,0.0,75.0,1.0,,Leganes
-,Diego Aguirre,es ESP,"DF,MF",36,23,6.0,2.0,2014-2015,45b8139c,Leganes,"2,145",23.8,8.0,0.0,75.0,1.0,,Leganes
-,Pape Maly Diamanka,sn SEN,MF,28,23,1.0,1.0,2014-2015,5d289e13,Leganes,"1,966",21.8,9.0,2.0,75.0,34.0,,Leganes
-,Rubén Peña,es ESP,"DF,MF",30,22,3.0,1.0,2014-2015,1f079188,Leganes,"2,018",22.4,6.0,0.0,75.0,1.0,,Leganes
-,Alberto Martín,es ESP,MF,29,20,0.0,1.0,2014-2015,805293e0,Leganes,"1,886",21.0,7.0,1.0,75.0,1.0,,Leganes
-,Mikel Santamaría,es ESP,DF,23,20,1.0,0.0,2014-2015,c809e332,Leganes,"1,833",20.4,6.0,0.0,75.0,1.0,,Leganes
-,Fernando Velasco,es ESP,MF,27,19,2.0,4.0,2014-2015,7a44f25b,Leganes,"1,681",18.7,7.0,0.0,75.0,1.0,,Leganes
-,Chuli,es ESP,"FW,MF",21,18,0.0,11.0,2014-2015,24efffbf,Leganes,"1,632",18.1,9.0,0.0,75.0,1.0,,Leganes
-,Erik Morán,es ESP,MF,17,15,0.0,0.0,2014-2015,6941883f,Leganes,"1,355",15.1,5.0,1.0,75.0,1.0,,Leganes
-,Queco Piña,es ESP,GK,15,15,0.0,0.0,2014-2015,cf25896,Leganes,"1,350",15.0,0.0,0.0,75.0,1.0,5525.0,Leganes
-,Borja Lázaro,es ESP,FW,24,12,0.0,7.0,2014-2015,877476f8,Leganes,"1,209",13.4,6.0,0.0,75.0,1.0,5526.0,Leganes
-,Alain Eizmendi,es ESP,"DF,MF",22,12,1.0,0.0,2014-2015,d59d0a17,Leganes,"1,126",12.5,3.0,0.0,75.0,1.0,,Leganes
-,Fran Moreno,es ESP,MF,19,11,2.0,0.0,2014-2015,12096092,Leganes,"1,023",11.4,3.0,0.0,75.0,1.0,,Leganes
-,Sergio Prendes,es ESP,MF,22,11,0.0,2.0,2014-2015,05435de5,Leganes,858,9.5,0.0,0.0,75.0,1.0,5527.0,Leganes
-,Marc Bertrán,es ESP,DF,11,9,1.0,0.0,2014-2015,89a12cef,Leganes,810,9.0,2.0,0.0,75.0,1.0,,Leganes
-,Carlos Delgado,es ESP,DF,12,9,0.0,0.0,2014-2015,294afef4,Leganes,662,7.4,4.0,0.0,75.0,1.0,,Leganes
-,Carlos Gutiérrez,es ESP,DF,9,5,0.0,0.0,2014-2015,933de879,Leganes,504,5.6,1.0,1.0,75.0,1.0,,Leganes
-,Luis Ruiz Sayago,es ESP,DF,7,5,0.0,0.0,2014-2015,7451b305,Leganes,458,5.1,2.0,0.0,75.0,1.0,,Leganes
-,Carlos Álvarez,es ESP,FW,8,5,0.0,0.0,2014-2015,c171531a,Leganes,411,4.6,1.0,0.0,75.0,1.0,,Leganes
-,Bryan Rabello,cl CHI,MF,14,4,0.0,0.0,2014-2015,d052490,Leganes,526,5.8,1.0,0.0,75.0,31.0,,Leganes
-,Dioni,es ESP,FW,6,4,0.0,0.0,2014-2015,c8c5ac,Leganes,332,3.7,0.0,0.0,75.0,1.0,,Leganes
-,Dani Barrio,es ESP,GK,2,2,0.0,0.0,2014-2015,b56f8c7f,Leganes,180,2.0,0.0,0.0,75.0,1.0,,Leganes
-,Paco Candela,es ESP,DF,4,1,0.0,0.0,2014-2015,1564cd0d,Leganes,112,1.2,2.0,0.0,75.0,1.0,5530.0,Leganes
-,Villacañas,es ESP,FW,0,0,,,2014-2015,33df7d31,Leganes,,,,,75.0,1.0,5528.0,Leganes
-,﻿Jon Ander Serantes,es ESP,GK,42,42,0.0,0.0,2015-2016,983ccabe,Leganes,"3,780",42.0,3.0,0.0,75.0,1.0,,Leganes
-,Martín Mantovani,ar ARG,DF,38,38,0.0,2.0,2015-2016,4ffb647d,Leganes,"3,348",37.2,21.0,1.0,75.0,5.0,,Leganes
-,Víctor Díaz,es ESP,DF,39,37,2.0,1.0,2015-2016,3624ce4c,Leganes,"3,348",37.2,9.0,0.0,75.0,1.0,,Leganes
-,Pablo Insua,es ESP,DF,35,35,1.0,1.0,2015-2016,4b5e7e90,Leganes,"3,065",34.1,12.0,3.0,75.0,1.0,,Leganes
-,Gabriel,br BRA,MF,37,35,4.0,7.0,2015-2016,0d10333c,Leganes,"2,948",32.8,4.0,0.0,75.0,2.0,5529.0,Leganes
-,Alexander,ar ARG,MF,42,33,8.0,12.0,2015-2016,3e1858af,Leganes,"2,988",33.2,6.0,0.0,75.0,5.0,,Leganes
-,Lluís Sastre,es ESP,MF,33,29,3.0,3.0,2015-2016,5f186f5c,Leganes,"2,526",28.1,13.0,0.0,75.0,1.0,,Leganes
-,Omar Ramos,es ESP,"FW,MF",34,29,7.0,5.0,2015-2016,0657888a,Leganes,"2,229",24.8,5.0,0.0,75.0,1.0,,Leganes
-,Alberto Martín,es ESP,MF,28,21,1.0,0.0,2015-2016,805293e0,Leganes,"1,894",21.0,7.0,0.0,75.0,1.0,,Leganes
-,César Soriano,es ESP,DF,22,19,2.0,0.0,2015-2016,0e41fc77,Leganes,"1,753",19.5,6.0,0.0,75.0,1.0,,Leganes
-,Unai Albizua,es ESP,DF,22,18,0.0,0.0,2015-2016,4a2e58a3,Leganes,"1,682",18.7,0.0,0.0,75.0,1.0,,Leganes
-,Luis Ruiz Sayago,es ESP,DF,20,17,0.0,0.0,2015-2016,7451b305,Leganes,"1,412",15.7,8.0,0.0,75.0,1.0,,Leganes
-,Guillermo,es ESP,FW,23,17,2.0,5.0,2015-2016,15107141,Leganes,"1,398",15.5,4.0,0.0,75.0,1.0,,Leganes
-,Rubén Peña,es ESP,"DF,MF",30,16,4.0,8.0,2015-2016,1f079188,Leganes,"1,677",18.6,4.0,0.0,75.0,1.0,,Leganes
-,Borja Lázaro,es ESP,FW,26,15,1.0,7.0,2015-2016,877476f8,Leganes,"1,453",16.1,8.0,0.0,75.0,1.0,5526.0,Leganes
-,David Timor,es ESP,"DF,MF",17,15,2.0,2.0,2015-2016,174651c8,Leganes,"1,344",14.9,5.0,0.0,75.0,1.0,,Leganes
-,Jorge Miramón,es ESP,"DF,MF",22,15,2.0,1.0,2015-2016,7f4c7c9f,Leganes,"1,294",14.4,1.0,0.0,75.0,1.0,,Leganes
-,Unai Bustinza,es ESP,DF,15,10,0.0,0.0,2015-2016,f3112790,Leganes,959,10.7,5.0,1.0,75.0,1.0,,Leganes
-,Iñigo Ruiz de Galarreta,es ESP,MF,20,7,0.0,1.0,2015-2016,91f7631f,Leganes,758,8.4,1.0,0.0,75.0,1.0,,Leganes
-,Alain Eizmendi,es ESP,"DF,MF",11,6,1.0,1.0,2015-2016,d59d0a17,Leganes,588,6.5,0.0,0.0,75.0,1.0,,Leganes
-,Toni Dovale,es ESP,"DF,MF",14,5,1.0,1.0,2015-2016,d4b9adcf,Leganes,529,5.9,1.0,0.0,75.0,1.0,,Leganes
-,Asdrúbal Padrón,es ESP,"FW,MF",7,2,0.0,1.0,2015-2016,1719aa30,Leganes,227,2.5,1.0,0.0,75.0,1.0,,Leganes
-,Paco Candela,es ESP,DF,9,1,0.0,1.0,2015-2016,1564cd0d,Leganes,249,2.8,1.0,0.0,75.0,1.0,5530.0,Leganes
-,Bicho,es ESP,MF,0,0,,,2015-2016,866b3d64,Leganes,,,,,75.0,1.0,5531.0,Leganes
-,Carlos García,es ESP,DF,0,0,,,2015-2016,76f0b72,Leganes,,,,,75.0,1.0,5532.0,Leganes
-,Juanan,es ESP,DF,0,0,,,2015-2016,41ab1795,Leganes,,,,,75.0,1.0,,Leganes
-,Manolo,es ESP,FW,0,0,,,2015-2016,0093936e,Leganes,,,,,75.0,1.0,5533.0,Leganes
-,Queco Piña,es ESP,GK,0,0,,,2015-2016,cf25896,Leganes,,,,,75.0,1.0,5525.0,Leganes
-,﻿Gabriel,br BRA,"MF,FW",34,33,2.0,5.0,2016-2017,0d10333c,Leganes,"2,741",30.5,8.0,0.0,75.0,2.0,5529.0,Leganes
-,Martín Mantovani,ar ARG,DF,31,30,0.0,1.0,2016-2017,4ffb647d,Leganes,"2,697",30.0,9.0,0.0,75.0,5.0,,Leganes
-,Rubén Pérez,es ESP,MF,30,26,1.0,0.0,2016-2017,3c7bc9bd,Leganes,"2,335",25.9,12.0,0.0,75.0,1.0,,Leganes
-,Diego Rico,es ESP,DF,25,25,0.0,1.0,2016-2017,d9ba39fc,Leganes,"2,220",24.7,6.0,0.0,75.0,1.0,,Leganes
-,Miguel Ángel Guerrero,es ESP,FW,31,25,1.0,5.0,2016-2017,b35db3f6,Leganes,"2,139",23.8,3.0,0.0,75.0,1.0,,Leganes
-,Alexander,ar ARG,MF,28,24,2.0,8.0,2016-2017,3e1858af,Leganes,"2,031",22.6,1.0,0.0,75.0,5.0,,Leganes
-,David Timor,es ESP,MF,24,22,1.0,2.0,2016-2017,174651c8,Leganes,"1,870",20.8,7.0,1.0,75.0,1.0,,Leganes
-,Iago Herrerín,es ESP,GK,21,21,0.0,0.0,2016-2017,9109185e,Leganes,"1,825",20.3,0.0,1.0,75.0,1.0,,Leganes
-,Unai Bustinza,es ESP,DF,22,21,1.0,0.0,2016-2017,f3112790,Leganes,"1,790",19.9,10.0,0.0,75.0,1.0,,Leganes
-,Pablo Insua,es ESP,DF,29,20,0.0,1.0,2016-2017,4b5e7e90,Leganes,"1,907",21.2,3.0,0.0,75.0,1.0,,Leganes
-,Víctor Díaz,es ESP,DF,23,20,1.0,1.0,2016-2017,3624ce4c,Leganes,"1,810",20.1,6.0,0.0,75.0,1.0,,Leganes
-,Dimitris Siovas,gr GRE,DF,16,16,0.0,1.0,2016-2017,92d38e6c,Leganes,"1,390",15.4,4.0,0.0,75.0,55.0,5534.0,Leganes
-,Alberto Martín,es ESP,MF,16,14,0.0,0.0,2016-2017,805293e0,Leganes,"1,189",13.2,6.0,1.0,75.0,1.0,,Leganes
-,Jon Ander Serantes,es ESP,GK,13,13,0.0,0.0,2016-2017,983ccabe,Leganes,"1,109",12.3,2.0,0.0,75.0,1.0,,Leganes
-,Unai López,es ESP,MF,23,12,0.0,2.0,2016-2017,88050721,Leganes,"1,167",13.0,2.0,0.0,75.0,1.0,,Leganes
-,Luciano,br BRA,FW,25,11,2.0,4.0,2016-2017,24ce161c,Leganes,"1,177",13.1,3.0,0.0,75.0,2.0,5535.0,Leganes
-,Omar Ramos,es ESP,MF,15,11,2.0,0.0,2016-2017,0657888a,Leganes,970,10.8,4.0,0.0,75.0,1.0,,Leganes
-,Erik Morán,es ESP,MF,12,11,1.0,0.0,2016-2017,6941883f,Leganes,950,10.6,7.0,0.0,75.0,1.0,,Leganes
-,Adrián Marín,es ESP,DF,13,11,0.0,0.0,2016-2017,b7f2edff,Leganes,910,10.1,4.0,0.0,75.0,1.0,,Leganes
-,Darwin Machís,ve VEN,"MF,FW",27,10,3.0,1.0,2016-2017,d6ea4d9,Leganes,"1,058",11.8,1.0,0.0,75.0,53.0,,Leganes
-,Nabil El Zhar,ma MAR,MF,14,10,2.0,1.0,2016-2017,37f96552,Leganes,957,10.6,1.0,0.0,75.0,26.0,,Leganes
-,Tito,es ESP,"DF,MF",11,10,2.0,0.0,2016-2017,7cefa219,Leganes,877,9.7,3.0,0.0,75.0,1.0,,Leganes
-,Carl Medjani,dz ALG,DF,8,7,0.0,0.0,2016-2017,70c2f41a,Leganes,595,6.6,2.0,0.0,75.0,37.0,,Leganes
-,Samu García,es ESP,MF,11,5,1.0,0.0,2016-2017,5f7db81a,Leganes,531,5.9,0.0,0.0,75.0,1.0,,Leganes
-,Nereo Champagne,ar ARG,GK,4,4,0.0,0.0,2016-2017,7a9fae62,Leganes,360,4.0,1.0,0.0,75.0,5.0,5536.0,Leganes
-,Alberto Bueno,es ESP,"FW,MF",11,3,1.0,1.0,2016-2017,9b878773,Leganes,381,4.2,1.0,0.0,75.0,1.0,78.0,Leganes
-,Mamadou Koné,ci CIV,FW,5,1,0.0,0.0,2016-2017,85b9dca0,Leganes,173,1.9,0.0,0.0,75.0,35.0,,Leganes
-,Robert Ibáñez,es ESP,MF,5,1,1.0,2.0,2016-2017,c7429db3,Leganes,171,1.9,0.0,0.0,75.0,1.0,,Leganes
-,Lluís Sastre,es ESP,MF,1,1,0.0,0.0,2016-2017,5f186f5c,Leganes,90,1.0,0.0,0.0,75.0,1.0,,Leganes
-,Diego Barrios,es ESP,GK,1,0,0.0,0.0,2016-2017,ca8ea008,Leganes,62,0.7,0.0,0.0,75.0,1.0,5537.0,Leganes
-,Alberto Brignoli,it ITA,GK,1,0,0.0,0.0,2016-2017,6989550f,Leganes,61,0.7,0.0,0.0,75.0,9.0,5538.0,Leganes
-,Sergio Arribas,es ESP,MF,0,0,,,2016-2017,f1ecb8b5,Leganes,,,,,75.0,1.0,5539.0,Leganes
-,Alejandro Gutiérrez Mozo,es ESP,MF,0,0,,,2016-2017,4410f0b0,Leganes,,,,,75.0,1.0,5540.0,Leganes
-,Álvaro Molina González,es ESP,DF,0,0,,,2016-2017,4f8bb2aa,Leganes,,,,,75.0,1.0,5541.0,Leganes
-,Iu Ranera,es ESP,MF,0,0,,,2016-2017,86f191f6,Leganes,,,,,75.0,1.0,,Leganes
-,Toni Dovale,es ESP,"DF,MF",0,0,,,2016-2017,d4b9adcf,Leganes,,,,,75.0,1.0,,Leganes
-,﻿Iván Cuéllar,es ESP,GK,35,35,0.0,0.0,2017-2018,75751c99,Leganes,"3,150",35.0,4.0,0.0,75.0,1.0,,Leganes
-,Javier Eraso,es ESP,"MF,FW",34,31,3.0,4.0,2017-2018,c0fb6f,Leganes,"2,533",28.1,4.0,0.0,75.0,1.0,,Leganes
-,Joseba Zaldúa,es ESP,DF,30,29,0.0,1.0,2017-2018,5ca20b7a,Leganes,"2,557",28.4,9.0,1.0,75.0,1.0,,Leganes
-,Rubén Pérez,es ESP,MF,31,29,0.0,0.0,2017-2018,3c7bc9bd,Leganes,"2,516",28.0,13.0,0.0,75.0,1.0,,Leganes
-,Gabriel,br BRA,MF,29,28,2.0,5.0,2017-2018,0d10333c,Leganes,"2,377",26.4,6.0,1.0,75.0,2.0,5529.0,Leganes
-,Diego Rico,es ESP,DF,26,26,2.0,2.0,2017-2018,d9ba39fc,Leganes,"2,228",24.8,9.0,1.0,75.0,1.0,,Leganes
-,Dimitris Siovas,gr GRE,DF,24,24,1.0,1.0,2017-2018,92d38e6c,Leganes,"2,057",22.9,9.0,1.0,75.0,55.0,5534.0,Leganes
-,Nabil El Zhar,ma MAR,MF,30,20,2.0,2.0,2017-2018,37f96552,Leganes,"1,981",22.0,2.0,0.0,75.0,26.0,,Leganes
-,Unai Bustinza,es ESP,DF,20,18,0.0,2.0,2017-2018,f3112790,Leganes,"1,637",18.2,5.0,0.0,75.0,1.0,,Leganes
-,Omar Ramos,es ESP,MF,23,18,1.0,0.0,2017-2018,0657888a,Leganes,"1,448",16.1,3.0,0.0,75.0,1.0,,Leganes
-,Claudio Beauvue,gp GLP,FW,28,17,0.0,2.0,2017-2018,8ca253a3,Leganes,"1,672",18.6,4.0,0.0,75.0,56.0,,Leganes
-,Nordin Amrabat,ma MAR,"MF,FW",30,17,4.0,2.0,2017-2018,7c2a398c,Leganes,"1,623",18.0,6.0,1.0,75.0,26.0,,Leganes
-,Ezequiel Muñoz,ar ARG,DF,19,17,1.0,0.0,2017-2018,4b8c5b6,Leganes,"1,407",15.6,2.0,0.0,75.0,5.0,5542.0,Leganes
-,Gerard Gumbau,es ESP,MF,25,16,0.0,1.0,2017-2018,c454a4f,Leganes,"1,434",15.9,8.0,0.0,75.0,1.0,,Leganes
-,Miguel Ángel Guerrero,es ESP,FW,22,15,3.0,4.0,2017-2018,b35db3f6,Leganes,"1,442",16.0,3.0,0.0,75.0,1.0,,Leganes
-,Raúl García,es ESP,DF,19,15,2.0,0.0,2017-2018,1a317a1b,Leganes,"1,392",15.5,1.0,0.0,75.0,1.0,,Leganes
-,Darko Brašanac,rs SRB,MF,23,13,0.0,2.0,2017-2018,4accb7e0,Leganes,"1,203",13.4,3.0,0.0,75.0,28.0,,Leganes
-,Alexander,ar ARG,MF,13,13,2.0,2.0,2017-2018,3e1858af,Leganes,"1,060",11.8,1.0,0.0,75.0,5.0,,Leganes
-,Martín Mantovani,ar ARG,DF,14,10,0.0,1.0,2017-2018,4ffb647d,Leganes,"1,022",11.4,3.0,0.0,75.0,5.0,,Leganes
-,Mauro dos Santos,ar ARG,DF,14,10,0.0,0.0,2017-2018,c699fdd,Leganes,983,10.9,3.0,0.0,75.0,5.0,,Leganes
-,Tito,es ESP,DF,9,6,0.0,0.0,2017-2018,7cefa219,Leganes,610,6.8,0.0,0.0,75.0,1.0,,Leganes
-,Naranjo,es ESP,MF,16,6,0.0,1.0,2017-2018,2a70c756,Leganes,562,6.2,2.0,0.0,75.0,1.0,,Leganes
-,Erik Morán,es ESP,MF,6,2,0.0,0.0,2017-2018,6941883f,Leganes,228,2.5,2.0,0.0,75.0,1.0,,Leganes
-,Nereo Champagne,ar ARG,GK,2,2,0.0,0.0,2017-2018,7a9fae62,Leganes,180,2.0,0.0,0.0,75.0,5.0,5536.0,Leganes
-,Jon Ander Serantes,es ESP,GK,1,1,0.0,0.0,2017-2018,983ccabe,Leganes,90,1.0,0.0,0.0,75.0,1.0,,Leganes
-,Alejandro Gutiérrez Mozo,es ESP,MF,1,0,0.0,0.0,2017-2018,4410f0b0,Leganes,45,0.5,0.0,0.0,75.0,1.0,5540.0,Leganes
-,Jaime Sierra Mateos,es ESP,MF,2,0,0.0,0.0,2017-2018,4239e,Leganes,28,0.3,0.0,0.0,75.0,1.0,5543.0,Leganes
-,Sergio Segura García,es ESP,DF,1,0,0.0,0.0,2017-2018,3536fdc1,Leganes,23,0.3,0.0,0.0,75.0,1.0,5544.0,Leganes
-,Gabri,es ESP,FW,0,0,,,2017-2018,ff422f76,Leganes,,,,,75.0,1.0,5545.0,Leganes
-,Mamadou Koné,ci CIV,FW,0,0,,,2017-2018,85b9dca0,Leganes,,,,,75.0,35.0,,Leganes
-,Leonardo Rocha,pt POR,FW,0,0,,,2017-2018,b592d545,Leganes,,,,,75.0,3.0,,Leganes
-,William,br BRA,FW,0,0,,,2017-2018,09bc547d,Leganes,,,,,75.0,2.0,,Leganes
-,﻿Iván Cuéllar,es ESP,GK,34,34,0.0,0.0,2018-2019,75751c99,Leganes,"3,055",33.9,5.0,0.0,75.0,1.0,,Leganes
-,Dimitris Siovas,gr GRE,DF,34,34,0.0,1.0,2018-2019,92d38e6c,Leganes,"2,962",32.9,5.0,0.0,75.0,55.0,5534.0,Leganes
-,Jonathan Silva,ar ARG,"DF,FW",30,30,6.0,3.0,2018-2019,f2308b33,Leganes,"2,700",30.0,9.0,0.0,75.0,5.0,,Leganes
-,Óscar Rodríguez Arnaiz,es ESP,MF,31,29,3.0,4.0,2018-2019,19709006,Leganes,"2,504",27.8,6.0,0.0,75.0,1.0,153.0,Leganes
-,Rubén Pérez,es ESP,MF,31,27,0.0,0.0,2018-2019,3c7bc9bd,Leganes,"2,474",27.5,7.0,1.0,75.0,1.0,,Leganes
-,Kenneth Omeruo,ng NGA,DF,28,27,0.0,0.0,2018-2019,0f0aa5b4,Leganes,"2,433",27.0,7.0,0.0,75.0,52.0,5546.0,Leganes
-,Unai Bustinza,es ESP,DF,25,24,1.0,0.0,2018-2019,f3112790,Leganes,"2,023",22.5,11.0,1.0,75.0,1.0,,Leganes
-,Mikel Vesga,es ESP,MF,26,23,1.0,1.0,2018-2019,b0fce72c,Leganes,"2,070",23.0,3.0,0.0,75.0,1.0,,Leganes
-,Guido Carrillo,ar ARG,FW,32,23,1.0,6.0,2018-2019,8f898ba8,Leganes,"1,992",22.1,5.0,0.0,75.0,5.0,,Leganes
-,Youssef En-Nesyri,ma MAR,FW,31,22,2.0,9.0,2018-2019,04e17fd5,Leganes,"2,106",23.4,7.0,0.0,75.0,26.0,,Leganes
-,Allan Nyom,cm CMR,"DF,FW",23,20,1.0,1.0,2018-2019,97572117,Leganes,"1,708",19.0,7.0,1.0,75.0,36.0,,Leganes
-,Juanfran,es ESP,"DF,FW",23,17,1.0,1.0,2018-2019,9ba48d64,Leganes,"1,459",16.2,0.0,0.0,75.0,1.0,86.0,Leganes
-,Martin Braithwaite,dk DEN,FW,19,16,5.0,4.0,2018-2019,fd771f95,Leganes,"1,402",15.6,5.0,0.0,75.0,7.0,,Leganes
-,Rodrigo Tarín,es ESP,DF,18,15,0.0,0.0,2018-2019,03c82b2,Leganes,"1,429",15.9,3.0,0.0,75.0,1.0,5548.0,Leganes
-,Recio,es ESP,MF,18,15,0.0,0.0,2018-2019,54073b28,Leganes,"1,285",14.3,9.0,0.0,75.0,1.0,,Leganes
-,Gerard Gumbau,es ESP,MF,16,13,1.0,1.0,2018-2019,c454a4f,Leganes,"1,199",13.3,6.0,1.0,75.0,1.0,,Leganes
-,Nabil El Zhar,ma MAR,MF,27,9,0.0,4.0,2018-2019,37f96552,Leganes,966,10.7,0.0,0.0,75.0,26.0,,Leganes
-,Javier Eraso,es ESP,"MF,FW",13,9,0.0,0.0,2018-2019,c0fb6f,Leganes,631,7.0,2.0,0.0,75.0,1.0,,Leganes
-,Vasyl Kravets,ua UKR,"DF,FW",6,6,0.0,0.0,2018-2019,29e48848,Leganes,481,5.3,2.0,0.0,75.0,29.0,,Leganes
-,Michael Santos,uy URU,"FW,MF",16,5,3.0,1.0,2018-2019,3cb6f224,Leganes,557,6.2,4.0,0.0,75.0,8.0,,Leganes
-,Raúl García,es ESP,DF,5,4,0.0,0.0,2018-2019,1a317a1b,Leganes,381,4.2,1.0,0.0,75.0,1.0,,Leganes
-,Andriy Lunin,ua UKR,GK,5,4,0.0,0.0,2018-2019,3061e1ec,Leganes,365,4.1,0.0,0.0,75.0,29.0,180.0,Leganes
-,Diego Reyes,mx MEX,DF,6,4,0.0,0.0,2018-2019,d4f46475,Leganes,320,3.6,1.0,0.0,75.0,20.0,,Leganes
-,Sabin Merino,es ESP,"FW,MF",12,2,0.0,0.0,2018-2019,1d5f96d9,Leganes,295,3.3,0.0,0.0,75.0,1.0,,Leganes
-,Diego Rolán,uy URU,MF,6,2,0.0,0.0,2018-2019,d1491e00,Leganes,215,2.4,0.0,0.0,75.0,8.0,,Leganes
-,Ezequiel Muñoz,ar ARG,DF,3,2,0.0,0.0,2018-2019,4b8c5b6,Leganes,211,2.3,0.0,0.0,75.0,5.0,5542.0,Leganes
-,Dani Ojeda,es ESP,"MF,DF",5,2,0.0,0.0,2018-2019,375a669e,Leganes,193,2.1,1.0,0.0,75.0,1.0,,Leganes
-,José Arnaiz,es ESP,MF,6,0,0.0,0.0,2018-2019,46e07328,Leganes,113,1.3,0.0,0.0,75.0,1.0,,Leganes
-,Alexander,ar ARG,FW,1,0,0.0,0.0,2018-2019,3e1858af,Leganes,10,0.1,0.0,0.0,75.0,5.0,,Leganes
-,Jon Ander Serantes,es ESP,GK,0,0,,,2018-2019,983ccabe,Leganes,,,,,75.0,1.0,,Leganes
-,Javier Avilés,es ESP,FW,0,0,,,2018-2019,53ddba36,Leganes,,,,,75.0,1.0,5551.0,Leganes
-,Andrés Prieto,es ESP,GK,0,0,,,2018-2019,113fb4ea,Leganes,,,,,75.0,1.0,,Leganes
-,﻿Jonathan Silva,ar ARG,DF,33,32,2.0,1.0,2019-2020,f2308b33,Leganes,"2,785",30.9,13.0,1.0,75.0,5.0,,Leganes
-,Unai Bustinza,es ESP,DF,33,31,1.0,0.0,2019-2020,f3112790,Leganes,"2,684",29.8,8.0,0.0,75.0,1.0,,Leganes
-,Iván Cuéllar,es ESP,GK,27,27,0.0,0.0,2019-2020,75751c99,Leganes,"2,429",27.0,4.0,1.0,75.0,1.0,,Leganes
-,Rubén Pérez,es ESP,MF,26,25,1.0,1.0,2019-2020,3c7bc9bd,Leganes,"2,194",24.4,9.0,0.0,75.0,1.0,,Leganes
-,Dimitris Siovas,gr GRE,DF,24,23,0.0,0.0,2019-2020,92d38e6c,Leganes,"1,918",21.3,7.0,0.0,75.0,55.0,5534.0,Leganes
-,Roque Mesa,es ESP,MF,29,22,3.0,1.0,2019-2020,7c4243d4,Leganes,"2,012",22.4,11.0,0.0,75.0,1.0,,Leganes
-,Kévin Rodrigues,pt POR,"DF,MF",26,22,2.0,1.0,2019-2020,f1bed920,Leganes,"1,931",21.5,6.0,1.0,75.0,3.0,,Leganes
-,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",30,22,2.0,9.0,2019-2020,19709006,Leganes,"1,914",21.3,6.0,1.0,75.0,1.0,153.0,Leganes
-,Kenneth Omeruo,ng NGA,DF,23,22,0.0,1.0,2019-2020,0f0aa5b4,Leganes,"1,874",20.8,5.0,0.0,75.0,52.0,5546.0,Leganes
-,Chidozie Awaziem,ng NGA,DF,26,21,0.0,0.0,2019-2020,70d8e84c,Leganes,"1,997",22.2,10.0,0.0,75.0,52.0,5547.0,Leganes
-,Martin Braithwaite,dk DEN,"FW,MF",24,21,1.0,6.0,2019-2020,fd771f95,Leganes,"1,934",21.5,3.0,0.0,75.0,7.0,,Leganes
-,Roberto Rosales,ve VEN,DF,25,21,1.0,0.0,2019-2020,81069528,Leganes,"1,871",20.8,7.0,0.0,75.0,53.0,,Leganes
-,Recio,es ESP,MF,25,18,0.0,0.0,2019-2020,54073b28,Leganes,"1,570",17.4,11.0,0.0,75.0,1.0,,Leganes
-,Youssef En-Nesyri,ma MAR,FW,18,15,2.0,4.0,2019-2020,04e17fd5,Leganes,"1,385",15.4,2.0,0.0,75.0,26.0,,Leganes
-,Aitor Ruibal,es ESP,"DF,MF",25,13,0.0,0.0,2019-2020,55d8df5,Leganes,"1,220",13.6,4.0,0.0,75.0,1.0,,Leganes
-,Guido Carrillo,ar ARG,FW,24,13,2.0,1.0,2019-2020,8f898ba8,Leganes,"1,213",13.5,2.0,0.0,75.0,5.0,,Leganes
-,Rodrigo Tarín,es ESP,DF,14,12,0.0,0.0,2019-2020,03c82b2,Leganes,951,10.6,1.0,0.0,75.0,1.0,5548.0,Leganes
-,Juan Soriano,es ESP,GK,11,11,0.0,0.0,2019-2020,5512b1a9,Leganes,990,11.0,2.0,0.0,75.0,1.0,,Leganes
-,Javier Eraso,es ESP,MF,20,11,0.0,0.0,2019-2020,c0fb6f,Leganes,815,9.1,3.0,0.0,75.0,1.0,,Leganes
-,Miguel Ángel Guerrero,es ESP,FW,13,9,0.0,1.0,2019-2020,b35db3f6,Leganes,790,8.8,0.0,0.0,75.0,1.0,,Leganes
-,Ibrahim Amadou,fr FRA,MF,10,9,0.0,0.0,2019-2020,9260926b,Leganes,770,8.6,2.0,0.0,75.0,4.0,,Leganes
-,Bryan,es ESP,"MF,DF",12,4,0.0,1.0,2019-2020,7b5ab7f2,Leganes,558,6.2,2.0,0.0,75.0,1.0,,Leganes
-,Cristian Rivera,es ESP,MF,5,3,0.0,0.0,2019-2020,8ef81d2d,Leganes,311,3.5,3.0,0.0,75.0,1.0,,Leganes
-,Marc Navarro,es ESP,"FW,DF",4,3,0.0,0.0,2019-2020,c2846353,Leganes,219,2.4,1.0,0.0,75.0,1.0,,Leganes
-,Roger Assalé,ci CIV,"FW,MF",14,2,1.0,2.0,2019-2020,5d5219b1,Leganes,531,5.9,1.0,0.0,75.0,35.0,5549.0,Leganes
-,José Arnaiz,es ESP,MF,12,2,0.0,0.0,2019-2020,46e07328,Leganes,337,3.7,2.0,0.0,75.0,1.0,,Leganes
-,Manuel Garrido,es ESP,FW,4,2,0.0,0.0,2019-2020,f814eccb,Leganes,115,1.3,1.0,0.0,75.0,1.0,5550.0,Leganes
-,Javier Avilés,es ESP,"MF,FW",9,1,1.0,1.0,2019-2020,53ddba36,Leganes,184,2.0,1.0,0.0,75.0,1.0,5551.0,Leganes
-,Sabin Merino,es ESP,FW,2,1,0.0,0.0,2019-2020,1d5f96d9,Leganes,78,0.9,0.0,0.0,75.0,1.0,,Leganes
-,Alexander,ar ARG,MF,0,0,,,2019-2020,3e1858af,Leganes,,,,,75.0,5.0,,Leganes
-,Amores,es ESP,MF,0,0,,,2019-2020,5d2b36a4,Leganes,,,,,75.0,1.0,,Leganes
-,André Grandi,br BRA,GK,0,0,,,2019-2020,137bcb59,Leganes,,,,,75.0,2.0,5552.0,Leganes
-,Vasyl Kravets,ua UKR,DF,0,0,,,2019-2020,29e48848,Leganes,,,,,75.0,29.0,,Leganes
-,Pablo Lombo,es ESP,GK,0,0,,,2019-2020,1d2fa3e6,Leganes,,,,,75.0,1.0,5553.0,Leganes
-,Iván López,es ESP,DF,0,0,,,2019-2020,b09ff413,Leganes,,,,,75.0,1.0,5554.0,Leganes
-,Aymane Mourid,ma MAR,MF,0,0,,,2019-2020,b1bef0f1,Leganes,,,,,75.0,26.0,5555.0,Leganes
-,﻿Sergi Palencia,es ESP,"DF,MF",36,32,0.0,0.0,2020-2021,19f8e480,Leganes,"2,827",31.4,7.0,0.0,75.0,1.0,5556.0,Leganes
-,Javi,es ESP,DF,33,32,1.0,3.0,2020-2021,9a76c2e9,Leganes,"2,823",31.4,2.0,1.0,75.0,1.0,171.0,Leganes
-,Rubén Pérez,es ESP,MF,35,31,0.0,0.0,2020-2021,3c7bc9bd,Leganes,"2,649",29.4,9.0,2.0,75.0,1.0,,Leganes
-,Iván Cuéllar,es ESP,GK,27,27,0.0,0.0,2020-2021,75751c99,Leganes,"2,430",27.0,3.0,0.0,75.0,1.0,,Leganes
-,José Arnaiz,es ESP,"MF,FW",32,27,1.0,6.0,2020-2021,46e07328,Leganes,"2,187",24.3,4.0,0.0,75.0,1.0,,Leganes
-,Rubén Pardo,es ESP,MF,35,26,4.0,4.0,2020-2021,2306bfde,Leganes,"2,287",25.4,3.0,0.0,75.0,1.0,,Leganes
-,Rodrigo Tarín,es ESP,DF,30,25,0.0,0.0,2020-2021,03c82b2,Leganes,"2,267",25.2,4.0,0.0,75.0,1.0,5548.0,Leganes
-,Gaku Shibasaki,jp JPN,MF,34,24,3.0,2.0,2020-2021,d2ac648c,Leganes,"2,198",24.4,3.0,0.0,75.0,54.0,,Leganes
-,Borja Bastón,es ESP,FW,35,24,3.0,5.0,2020-2021,8c44e37b,Leganes,"2,124",23.6,5.0,0.0,75.0,1.0,,Leganes
-,Kenneth Omeruo,ng NGA,DF,24,23,0.0,1.0,2020-2021,0f0aa5b4,Leganes,"1,911",21.2,10.0,1.0,75.0,52.0,5546.0,Leganes
-,Sabin Merino,es ESP,"FW,MF",36,21,0.0,9.0,2020-2021,1d5f96d9,Leganes,"1,779",19.8,4.0,0.0,75.0,1.0,,Leganes
-,Ignasi Miquel,es ESP,DF,21,19,0.0,0.0,2020-2021,174f09a6,Leganes,"1,705",18.9,3.0,0.0,75.0,1.0,,Leganes
-,Javier Eraso,es ESP,"MF,FW",28,19,5.0,0.0,2020-2021,c0fb6f,Leganes,"1,583",17.6,6.0,0.0,75.0,1.0,,Leganes
-,Sergi,es ESP,DF,19,15,1.0,1.0,2020-2021,65ac6ea0,Leganes,"1,458",16.2,3.0,0.0,75.0,1.0,5557.0,Leganes
-,Robert Ibáñez,es ESP,MF,24,15,1.0,3.0,2020-2021,c7429db3,Leganes,"1,235",13.7,4.0,1.0,75.0,1.0,,Leganes
-,Jonathan Silva,ar ARG,DF,15,13,3.0,0.0,2020-2021,f2308b33,Leganes,"1,103",12.3,3.0,0.0,75.0,5.0,,Leganes
-,Unai Bustinza,es ESP,DF,18,13,1.0,0.0,2020-2021,f3112790,Leganes,"1,087",12.1,3.0,1.0,75.0,1.0,,Leganes
-,Asier Riesgo,es ESP,GK,12,12,0.0,0.0,2020-2021,581c5276,Leganes,"1,080",12.0,2.0,0.0,75.0,1.0,,Leganes
-,Luis Perea,es ESP,MF,31,11,1.0,0.0,2020-2021,8dc6dbb3,Leganes,"1,203",13.4,6.0,0.0,75.0,1.0,,Leganes
-,Javier Avilés,es ESP,MF,19,11,3.0,0.0,2020-2021,53ddba36,Leganes,935,10.4,3.0,0.0,75.0,1.0,5551.0,Leganes
-,Miguel,es ESP,FW,24,9,3.0,5.0,2020-2021,6763373d,Leganes,821,9.1,1.0,0.0,75.0,1.0,,Leganes
-,Juan Muñoz,es ESP,"MF,FW",21,8,1.0,5.0,2020-2021,25018d62,Leganes,868,9.6,0.0,0.0,75.0,1.0,,Leganes
-,Roberto Rosales,ve VEN,"DF,MF",17,6,0.0,1.0,2020-2021,81069528,Leganes,705,7.8,3.0,0.0,75.0,53.0,,Leganes
-,Kevin Bua,ch SUI,MF,20,5,0.0,4.0,2020-2021,4f642c5,Leganes,673,7.5,0.0,0.0,75.0,39.0,5558.0,Leganes
-,Dani Ojeda,es ESP,MF,5,4,0.0,0.0,2020-2021,375a669e,Leganes,281,3.1,0.0,0.0,75.0,1.0,,Leganes
-,Michael Santos,uy URU,FW,9,3,0.0,0.0,2020-2021,3cb6f224,Leganes,413,4.6,2.0,0.0,75.0,8.0,,Leganes
-,Daniel Lasure,es ESP,DF,5,3,0.0,0.0,2020-2021,b74d54d6,Leganes,316,3.5,0.0,0.0,75.0,1.0,,Leganes
-,Diego Conde,es ESP,GK,3,3,0.0,0.0,2020-2021,4eae5bc4,Leganes,270,3.0,0.0,0.0,75.0,1.0,,Leganes
-,Javier Rubio,es ESP,DF,1,1,0.0,0.0,2020-2021,7e05e54f,Leganes,90,1.0,0.0,0.0,75.0,1.0,,Leganes
-,Brandon,es ESP,"FW,MF",5,0,0.0,0.0,2020-2021,3e016e5a,Leganes,61,0.7,0.0,0.0,75.0,1.0,,Leganes
-,Diego,es ESP,FW,2,0,0.0,0.0,2020-2021,b85a5126,Leganes,8,0.1,0.0,0.0,75.0,1.0,5559.0,Leganes
-,Cassio,br BRA,MF,0,0,,,2020-2021,2a38f23a,Leganes,,,,,75.0,2.0,5560.0,Leganes
-,Manu Garrido,es ESP,FW,0,0,,,2020-2021,f6f97033,Leganes,,,,,75.0,1.0,5561.0,Leganes
-,Pablo Lombo,es ESP,GK,0,0,,,2020-2021,1d2fa3e6,Leganes,,,,,75.0,1.0,5553.0,Leganes
-,Iván López,es ESP,DF,0,0,,,2020-2021,b09ff413,Leganes,,,,,75.0,1.0,5554.0,Leganes
-,Mario,es ESP,DF,0,0,,,2020-2021,7a965c5a,Leganes,,,,,75.0,1.0,5562.0,Leganes
-,Aymane Mourid,ma MAR,MF,0,0,,,2020-2021,b1bef0f1,Leganes,,,,,75.0,26.0,5555.0,Leganes
-,Dimitris Siovas,gr GRE,"DF,MF",0,0,,,2020-2021,92d38e6c,Leganes,,,,,75.0,55.0,5534.0,Leganes
-,Adil Tahif,ma MAR,DF,0,0,,,2020-2021,f5208319,Leganes,,,,,75.0,26.0,5563.0,Leganes
-,﻿Javi,es ESP,DF,39,39,1.0,3.0,2021-2022,9a76c2e9,Leganes,"3,500",38.9,10.0,0.0,75.0,1.0,171.0,Leganes
-,José Arnaiz,es ESP,"MF,FW",39,32,1.0,7.0,2021-2022,46e07328,Leganes,"2,754",30.6,3.0,0.0,75.0,1.0,,Leganes
-,Rubén Pardo,es ESP,MF,32,31,9.0,1.0,2021-2022,2306bfde,Leganes,"2,651",29.5,4.0,1.0,75.0,1.0,,Leganes
-,Sergi Palencia,es ESP,"DF,MF",35,29,1.0,0.0,2021-2022,19f8e480,Leganes,"2,779",30.9,11.0,0.0,75.0,1.0,5556.0,Leganes
-,Gaku Shibasaki,jp JPN,MF,34,28,1.0,3.0,2021-2022,d2ac648c,Leganes,"2,365",26.3,5.0,0.0,75.0,54.0,,Leganes
-,Sergi,es ESP,DF,26,25,1.0,1.0,2021-2022,65ac6ea0,Leganes,"2,215",24.6,6.0,1.0,75.0,1.0,5557.0,Leganes
-,Asier Riesgo,es ESP,GK,20,20,0.0,0.0,2021-2022,581c5276,Leganes,"1,777",19.7,2.0,0.0,75.0,1.0,,Leganes
-,Bruno González,es ESP,DF,20,19,0.0,0.0,2021-2022,f11fe861,Leganes,"1,559",17.3,6.0,0.0,75.0,1.0,,Leganes
-,Lazar Ranđelović,rs SRB,"MF,FW",34,18,3.0,5.0,2021-2022,1dbfae2d,Leganes,"1,706",19.0,3.0,0.0,75.0,28.0,5564.0,Leganes
-,Kenneth Omeruo,ng NGA,DF,17,17,0.0,2.0,2021-2022,0f0aa5b4,Leganes,"1,525",16.9,7.0,0.0,75.0,52.0,5546.0,Leganes
-,Recio,es ESP,MF,21,17,0.0,1.0,2021-2022,54073b28,Leganes,"1,348",15.0,5.0,0.0,75.0,1.0,,Leganes
-,Allan Nyom,cm CMR,DF,16,15,1.0,1.0,2021-2022,97572117,Leganes,"1,263",14.0,5.0,0.0,75.0,36.0,,Leganes
-,Borja Garcés,es ESP,FW,28,14,1.0,5.0,2021-2022,bc39454c,Leganes,"1,313",14.6,4.0,0.0,75.0,1.0,,Leganes
-,Seydouba Cissé,gn GUI,MF,20,14,1.0,3.0,2021-2022,0d13e455,Leganes,"1,228",13.6,5.0,0.0,75.0,74.0,5565.0,Leganes
-,Fede Vico,es ESP,MF,16,14,2.0,2.0,2021-2022,f681a8ef,Leganes,"1,018",11.3,2.0,0.0,75.0,1.0,,Leganes
-,Jon Bautista,es ESP,FW,24,12,1.0,1.0,2021-2022,debc6b55,Leganes,"1,160",12.9,4.0,0.0,75.0,1.0,,Leganes
-,Dani Jiménez,es ESP,GK,13,12,1.0,0.0,2021-2022,4365d4a,Leganes,"1,103",12.3,0.0,0.0,75.0,1.0,5566.0,Leganes
-,Édgar Yoel Bárcenas,pa PAN,"MF,FW",26,11,3.0,2.0,2021-2022,b39849eb,Leganes,"1,272",14.1,0.0,0.0,75.0,89.0,5567.0,Leganes
-,Juan Muñoz,es ESP,"MF,FW",30,10,3.0,2.0,2021-2022,25018d62,Leganes,"1,033",11.5,1.0,0.0,75.0,1.0,,Leganes
-,Xavi Quintillà,es ESP,"DF,MF",15,10,1.0,1.0,2021-2022,84fb6aff,Leganes,981,10.9,1.0,0.0,75.0,1.0,,Leganes
-,Iván Villar,es ESP,GK,10,10,0.0,0.0,2021-2022,cde52ef5,Leganes,900,10.0,0.0,0.0,75.0,1.0,,Leganes
-,Yacine Qasmi,ma MAR,FW,16,9,0.0,3.0,2021-2022,3b3cbebb,Leganes,679,7.5,5.0,0.0,75.0,26.0,,Leganes
-,Robert Ibáñez,es ESP,"MF,FW",16,8,1.0,1.0,2021-2022,c7429db3,Leganes,739,8.2,1.0,0.0,75.0,1.0,,Leganes
-,Rodrigo Tarín,es ESP,DF,8,8,0.0,0.0,2021-2022,03c82b2,Leganes,652,7.2,2.0,0.0,75.0,1.0,5548.0,Leganes
-,Unai Bustinza,es ESP,"DF,MF",12,8,0.0,0.0,2021-2022,f3112790,Leganes,610,6.8,4.0,1.0,75.0,1.0,,Leganes
-,Naim García,es ESP,"MF,FW",24,7,1.0,1.0,2021-2022,686bab8c,Leganes,769,8.5,1.0,0.0,75.0,1.0,5568.0,Leganes
-,Luis Perea,es ESP,MF,17,7,0.0,0.0,2021-2022,8dc6dbb3,Leganes,698,7.8,2.0,0.0,75.0,1.0,,Leganes
-,Sabin Merino,es ESP,"MF,FW",14,4,0.0,2.0,2021-2022,1d5f96d9,Leganes,490,5.4,2.0,0.0,75.0,1.0,,Leganes
-,Javier Eraso,es ESP,MF,12,4,0.0,0.0,2021-2022,c0fb6f,Leganes,450,5.0,0.0,0.0,75.0,1.0,,Leganes
-,Cheick Doukouré,ci CIV,MF,14,4,0.0,0.0,2021-2022,208bcc8,Leganes,414,4.6,1.0,0.0,75.0,35.0,,Leganes
-,Jimmy Giraudon,fr FRA,DF,5,4,0.0,0.0,2021-2022,6ba71da5,Leganes,364,4.0,2.0,0.0,75.0,4.0,5569.0,Leganes
-,Jonathan Silva,ar ARG,DF,2,1,0.0,0.0,2021-2022,f2308b33,Leganes,115,1.3,0.0,0.0,75.0,5.0,,Leganes
-,Diego,es ESP,FW,4,1,0.0,0.0,2021-2022,b85a5126,Leganes,97,1.1,0.0,0.0,75.0,1.0,5559.0,Leganes
-,Javier Avilés,es ESP,FW,3,0,0.0,0.0,2021-2022,53ddba36,Leganes,14,0.2,0.0,0.0,75.0,1.0,5551.0,Leganes
-,Mario Rivas,es ESP,FW,1,0,0.0,0.0,2021-2022,298874bd,Leganes,4,0.0,0.0,0.0,75.0,1.0,5570.0,Leganes
-,Javier Rentero,es ESP,MF,1,0,0.0,0.0,2021-2022,0f42fd8a,Leganes,1,0.0,0.0,0.0,75.0,1.0,5571.0,Leganes
-,David Alba,es ESP,MF,0,0,,,2021-2022,7a4cd784,Leganes,,,,,75.0,1.0,,Leganes
-,Alejandro Alda,es ESP,DF,0,0,,,2021-2022,b2d43217,Leganes,,,,,75.0,1.0,5572.0,Leganes
-,Javi Garrido,es ESP,GK,0,0,,,2021-2022,3ce37eb5,Leganes,,,,,75.0,1.0,5573.0,Leganes
-,Joserra,es ESP,DF,0,0,,,2021-2022,1a563b04,Leganes,,,,,75.0,1.0,5574.0,Leganes
-,Marc,es ESP,FW,0,0,,,2021-2022,83d21f5b,Leganes,,,,,75.0,1.0,,Leganes
-,Felix Ofoli,gh GHA,DF,0,0,,,2021-2022,1d1c5644,Leganes,,,,,75.0,17.0,5575.0,Leganes
-,Javier Rubio,es ESP,MF,0,0,,,2021-2022,7e05e54f,Leganes,,,,,75.0,1.0,,Leganes
-,Adrián Victores,es ESP,GK,0,0,,,2021-2022,ba5408e6,Leganes,,,,,75.0,1.0,5576.0,Leganes
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Raúl Arribas,es ESP,GK,39,39,0.0,0.0,2002-2003,/en/players/8de0ba1c/Raul-Arribas,8de0ba1c,Leganes,"3,459",38.4,1.0,0.0,75,1.0,5502,Leganes
+,Pablo Villa,es ESP,FW,40,35,3.0,6.0,2002-2003,/en/players/c6b66eea/Pablo-Villa,c6b66eea,Leganes,"3,131",34.8,5.0,0.0,75,1.0,5291,Leganes
+,Abass Lawal,ng NGA,"FW,MF",36,34,7.0,6.0,2002-2003,/en/players/dd53d426/Abass-Lawal,dd53d426,Leganes,"2,793",31.0,9.0,2.0,75,52.0,3716,Leganes
+,Miguel Ángel,es ESP,FW,39,33,5.0,9.0,2002-2003,/en/players/76f06f1f/Miguel-Angel,76f06f1f,Leganes,"2,691",29.9,7.0,0.0,75,1.0,4015,Leganes
+,Óscar,es ESP,DF,32,32,2.0,0.0,2002-2003,/en/players/b4786695/Oscar,b4786695,Leganes,"2,839",31.5,19.0,2.0,75,1.0,5503,Leganes
+,Joaquín Macanás,es ESP,DF,31,31,0.0,1.0,2002-2003,/en/players/fe9e077f/Joaquin-Macanas,fe9e077f,Leganes,"2,701",30.0,13.0,1.0,75,1.0,5504,Leganes
+,Jon Ander Lambea,es ESP,DF,29,29,1.0,3.0,2002-2003,/en/players/f370429e/Jon-Ander-Lambea,f370429e,Leganes,"2,580",28.7,14.0,1.0,75,1.0,4593,Leganes
+,Gustavo de la Parra,es ESP,DF,32,28,0.0,0.0,2002-2003,/en/players/ba328cca/Gustavo-de-la-Parra,ba328cca,Leganes,"2,566",28.5,7.0,0.0,75,1.0,5505,Leganes
+,Fede Bahón,es ESP,DF,28,27,0.0,2.0,2002-2003,/en/players/b0ccfe54/Fede-Bahon,b0ccfe54,Leganes,"2,370",26.3,8.0,1.0,75,1.0,5506,Leganes
+,David Darmon,,,28,25,2.0,0.0,2002-2003,No detected,,Leganes,"2,320",25.8,5.0,1.0,75,,90218,Leganes
+,Unai Emery,es ESP,MF,28,23,1.0,0.0,2002-2003,/en/players/e530e0c0/Unai-Emery,530e0c0,Leganes,"1,970",21.9,3.0,1.0,75,1.0,5507,Leganes
+,David Clotet,es ESP,DF,29,22,0.0,0.0,2002-2003,/en/players/cd3a8fa3/David-Clotet,cd3a8fa3,Leganes,"2,061",22.9,11.0,0.0,75,1.0,5508,Leganes
+,Federico Marin,,,18,16,2.0,2.0,2002-2003,No detected,,Leganes,"1,313",14.6,4.0,1.0,75,,90286,Leganes
+,Sergio Gámiz,es ESP,MF,21,14,1.0,0.0,2002-2003,/en/players/d15abcc9/Sergio-Gamiz,d15abcc9,Leganes,"1,193",13.3,5.0,1.0,75,1.0,5509,Leganes
+,Juan Carlos Carcedo,es ESP,"FW,MF",15,12,0.0,0.0,2002-2003,/en/players/3f698ebf/Juan-Carlos-Carcedo,3f698ebf,Leganes,"1,073",11.9,6.0,1.0,75,1.0,5510,Leganes
+,Óscar Pulido,,MF,17,12,0.0,0.0,2002-2003,/en/players/7e01b9b3/Oscar-Pulido,7e01b9b3,Leganes,898,10.0,3.0,1.0,75,,90078,Leganes
+,Sívori,es ESP,"FW,MF",34,10,1.0,3.0,2002-2003,/en/players/fed61bbe/Sivori,fed61bbe,Leganes,"1,304",14.5,4.0,0.0,75,1.0,5511,Leganes
+,Juan Pardo,,,12,10,0.0,0.0,2002-2003,No detected,,Leganes,777,8.6,3.0,0.0,75,,90287,Leganes
+,Pablo Calandria,ar ARG,FW,27,9,0.0,8.0,2002-2003,/en/players/9c010ae8/Pablo-Calandria,9c010ae8,Leganes,"1,005",11.2,1.0,0.0,75,5.0,3739,Leganes
+,Juan Ramon,,,10,6,0.0,1.0,2002-2003,No detected,,Leganes,615,6.8,0.0,0.0,75,,90288,Leganes
+,Miguel Falcón,es ESP,MF,9,6,1.0,1.0,2002-2003,/en/players/a955cfa6/Miguel-Falcon,955cfa6,Leganes,514,5.7,4.0,0.0,75,1.0,5512,Leganes
+,Salva,es ESP,DF,7,4,1.0,0.0,2002-2003,/en/players/dfbb5412/Salva,dfbb5412,Leganes,354,3.9,1.0,0.0,75,1.0,3431,Leganes
+,Sergio Vera,,,4,3,0.0,0.0,2002-2003,No detected,,Leganes,321,3.6,0.0,0.0,75,,90289,Leganes
+,Pierre Webó,cm CMR,FW,7,2,0.0,0.0,2002-2003,/en/players/3d6f05ea/Pierre-Webo,3d6f05ea,Leganes,237,2.6,0.0,0.0,75,36.0,1604,Leganes
+,Bejarano Luis,,,1,1,0.0,0.0,2002-2003,No detected,,Leganes,45,0.5,0.0,0.0,75,,90290,Leganes
+,Gorka Pintado,es ESP,FW,12,0,0.0,0.0,2002-2003,/en/players/e98055de/Gorka-Pintado,98055de,Leganes,251,2.8,2.0,1.0,75,1.0,5513,Leganes
+,﻿Lucas Alessandría,ar ARG,DF,38,38,0.0,1.0,2003-2004,/en/players/1a9b820c/Lucas-Alessandria,1a9b820c,Leganes,"3,328",37.0,10.0,3.0,75,5.0,5514,Leganes
+,Martín Vitali,ar ARG,"DF,MF",33,33,0.0,0.0,2003-2004,/en/players/14931795/Martin-Vitali,14931795,Leganes,"2,909",32.3,8.0,2.0,75,5.0,4016,Leganes
+,David Txiki,,,40,31,8.0,4.0,2003-2004,/en/players/9c1b1fe2/David-Txiki,9c1b1fe2,Leganes,"2,829",31.4,3.0,0.0,75,,90221,Leganes
+,Pablo Calandria,ar ARG,FW,37,30,3.0,7.0,2003-2004,/en/players/9c010ae8/Pablo-Calandria,9c010ae8,Leganes,"2,787",31.0,2.0,1.0,75,5.0,3739,Leganes
+,Javier Muñoz,ar ARG,DF,30,29,0.0,2.0,2003-2004,/en/players/492e1cd3/Javier-Munoz,492e1cd3,Leganes,"2,561",28.5,12.0,1.0,75,5.0,2514,Leganes
+,Nicolás Medina,ar ARG,MF,32,28,1.0,0.0,2003-2004,/en/players/aeada259/Nicolas-Medina,da259,Leganes,"2,502",27.8,5.0,0.0,75,5.0,3905,Leganes
+,Borja Pérez,es ESP,FW,37,27,1.0,5.0,2003-2004,/en/players/5cabc332/Borja-Perez,5cabc332,Leganes,"2,189",24.3,5.0,0.0,75,1.0,4855,Leganes
+,Raúl Arribas,es ESP,GK,27,26,0.0,0.0,2003-2004,/en/players/8de0ba1c/Raul-Arribas,8de0ba1c,Leganes,"2,356",26.2,1.0,0.0,75,1.0,5502,Leganes
+,Claudio Enría,ar ARG,FW,34,23,0.0,6.0,2003-2004,/en/players/b9a6e4a7/Claudio-Enria,b9a6e4a7,Leganes,"2,044",22.7,5.0,0.0,75,5.0,5515,Leganes
+,Joaquín Macanás,es ESP,DF,24,22,0.0,1.0,2003-2004,/en/players/fe9e077f/Joaquin-Macanas,fe9e077f,Leganes,"2,030",22.6,6.0,0.0,75,1.0,5504,Leganes
+,Pablo Rodríguez,ar ARG,MF,26,21,3.0,2.0,2003-2004,/en/players/73013758/Pablo-Rodriguez,73013758,Leganes,"1,793",19.9,2.0,0.0,75,5.0,5516,Leganes
+,Miguel Melgar,es ESP,MF,21,19,0.0,2.0,2003-2004,/en/players/bfa43647/Miguel-Melgar,bfa43647,Leganes,"1,660",18.4,4.0,0.0,75,1.0,5110,Leganes
+,Juan Pardo,,,18,18,0.0,0.0,2003-2004,No detected,,Leganes,"1,589",17.7,5.0,0.0,75,,90287,Leganes
+,Claudio Marini,ar ARG,MF,26,17,2.0,1.0,2003-2004,/en/players/446a7d68/Claudio-Marini,446a7d68,Leganes,"1,608",17.9,12.0,0.0,75,5.0,4222,Leganes
+,Mauro Navas,ar ARG,DF,25,17,2.0,0.0,2003-2004,/en/players/97fe2167/Mauro-Navas,97fe2167,Leganes,"1,570",17.4,5.0,0.0,75,5.0,3002,Leganes
+,Federico Domínguez,ar ARG,DF,17,17,3.0,3.0,2003-2004,/en/players/b32f81ef/Federico-Dominguez,b32f81ef,Leganes,"1,530",17.0,7.0,0.0,75,5.0,5517,Leganes
+,Bernardo Leyenda,ar ARG,GK,16,16,0.0,0.0,2003-2004,/en/players/94431f9e/Bernardo-Leyenda,94431f9e,Leganes,"1,424",15.8,2.0,1.0,75,5.0,5518,Leganes
+,Francisco Arrué,cl CHI,MF,24,13,0.0,0.0,2003-2004,/en/players/0a6e5ad8/Francisco-Arrue,0a6e5ad8,Leganes,"1,207",13.4,3.0,0.0,75,31.0,5519,Leganes
+,Juan Pietravallo,ar ARG,MF,14,11,0.0,0.0,2003-2004,/en/players/a131d085/Juan-Pietravallo,131d085,Leganes,914,10.2,4.0,0.0,75,5.0,5520,Leganes
+,Juan Carlos Carcedo,es ESP,"FW,MF",18,10,1.0,0.0,2003-2004,/en/players/3f698ebf/Juan-Carlos-Carcedo,3f698ebf,Leganes,983,10.9,6.0,0.0,75,1.0,5510,Leganes
+,Santiago Kuhl,ar ARG,MF,16,7,1.0,1.0,2003-2004,/en/players/1bfc121a/Santiago-Kuhl,1bfc121a,Leganes,646,7.2,1.0,0.0,75,5.0,5521,Leganes
+,Mario Turdó,ar ARG,FW,6,6,0.0,2.0,2003-2004,/en/players/0e08ad62/Mario-Turdo,0e08ad62,Leganes,442,4.9,3.0,0.0,75,5.0,90291,Leganes
+,Diego Municio,,,3,2,0.0,0.0,2003-2004,No detected,,Leganes,197,2.2,1.0,0.0,75,,90292,Leganes
+,Gorka Pintado,es ESP,FW,4,1,0.0,0.0,2003-2004,/en/players/e98055de/Gorka-Pintado,98055de,Leganes,133,1.5,0.0,0.0,75,1.0,5513,Leganes
+,José Chamot,ar ARG,DF,1,0,0.0,0.0,2003-2004,/en/players/5cebcd18/Jose-Chamot,5cebcd18,Leganes,62,0.7,1.0,0.0,75,5.0,5522,Leganes
+,Julio,es ESP,DF,1,0,0.0,0.0,2003-2004,/en/players/8389a87b/Julio,8389a87b,Leganes,19,0.2,0.0,0.0,75,1.0,5523,Leganes
+,﻿Javier Eraso,es ESP,MF,39,39,1.0,8.0,2014-2015,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Leganes,"3,464",38.5,8.0,0.0,75,1.0,1314,Leganes
+,Sergio Postigo,es ESP,DF,37,36,2.0,2.0,2014-2015,/en/players/474ecac8/Sergio-Postigo,474ecac8,Leganes,"3,136",34.8,12.0,0.0,75,1.0,4177,Leganes
+,Martín Mantovani,ar ARG,DF,34,34,1.0,3.0,2014-2015,/en/players/4ffb647d/Martin-Mantovani,4ffb647d,Leganes,"3,060",34.0,10.0,0.0,75,5.0,5460,Leganes
+,Álvaro García,es ESP,MF,35,33,5.0,4.0,2014-2015,/en/players/ca6f381a/Alvaro-Garcia,ca6f381a,Leganes,"2,720",30.2,2.0,0.0,75,1.0,5524,Leganes
+,César Soriano,es ESP,DF,32,30,2.0,0.0,2014-2015,/en/players/0e41fc77/Cesar-Soriano,0e41fc77,Leganes,"2,719",30.2,8.0,0.0,75,1.0,882,Leganes
+,Jon Ander Serantes,es ESP,GK,25,25,0.0,0.0,2014-2015,/en/players/983ccabe/Jon-Ander-Serantes,983ccabe,Leganes,"2,250",25.0,3.0,0.0,75,1.0,4905,Leganes
+,Diego Aguirre,es ESP,"DF,MF",36,23,6.0,2.0,2014-2015,/en/players/45b8139c/Diego-Aguirre,45b8139c,Leganes,"2,145",23.8,8.0,0.0,75,1.0,600,Leganes
+,Pape Maly Diamanka,sn SEN,MF,28,23,1.0,1.0,2014-2015,/en/players/5d289e13/Pape-Maly-Diamanka,5d289e13,Leganes,"1,966",21.8,9.0,2.0,75,34.0,3455,Leganes
+,Rubén Peña,es ESP,"DF,MF",30,22,3.0,1.0,2014-2015,/en/players/1f079188/Ruben-Pena,1f079188,Leganes,"2,018",22.4,6.0,0.0,75,1.0,2808,Leganes
+,Alberto Martín,es ESP,MF,29,20,0.0,1.0,2014-2015,/en/players/805293e0/Alberto-Martin,805293e0,Leganes,"1,886",21.0,7.0,1.0,75,1.0,4615,Leganes
+,Mikel Santamaría,es ESP,DF,23,20,1.0,0.0,2014-2015,/en/players/c809e332/Mikel-Santamaria,c809e332,Leganes,"1,833",20.4,6.0,0.0,75,1.0,2944,Leganes
+,Fernando Velasco,es ESP,MF,27,19,2.0,4.0,2014-2015,/en/players/7a44f25b/Fernando-Velasco,7a44f25b,Leganes,"1,681",18.7,7.0,0.0,75,1.0,4359,Leganes
+,Chuli,es ESP,"FW,MF",21,18,0.0,11.0,2014-2015,/en/players/24efffbf/Chuli,24efffbf,Leganes,"1,632",18.1,9.0,0.0,75,1.0,1456,Leganes
+,Erik Morán,es ESP,MF,17,15,0.0,0.0,2014-2015,/en/players/6941883f/Erik-Moran,6941883f,Leganes,"1,355",15.1,5.0,1.0,75,1.0,1302,Leganes
+,Queco Piña,es ESP,GK,15,15,0.0,0.0,2014-2015,/en/players/ecf25896/Queco-Pina,cf25896,Leganes,"1,350",15.0,0.0,0.0,75,1.0,5525,Leganes
+,Borja Lázaro,es ESP,FW,24,12,0.0,7.0,2014-2015,/en/players/877476f8/Borja-Lazaro,877476f8,Leganes,"1,209",13.4,6.0,0.0,75,1.0,5526,Leganes
+,Alain Eizmendi,es ESP,"DF,MF",22,12,1.0,0.0,2014-2015,/en/players/d59d0a17/Alain-Eizmendi,d59d0a17,Leganes,"1,126",12.5,3.0,0.0,75,1.0,270,Leganes
+,Fran Moreno,es ESP,MF,19,11,2.0,0.0,2014-2015,/en/players/12096092/Fran-Moreno,12096092,Leganes,"1,023",11.4,3.0,0.0,75,1.0,2013,Leganes
+,Sergio Prendes,es ESP,MF,22,11,0.0,2.0,2014-2015,/en/players/05435de5/Sergio-Prendes,05435de5,Leganes,858,9.5,0.0,0.0,75,1.0,5527,Leganes
+,Marc Bertrán,es ESP,DF,11,9,1.0,0.0,2014-2015,/en/players/89a12cef/Marc-Bertran,89a12cef,Leganes,810,9.0,2.0,0.0,75,1.0,2037,Leganes
+,Carlos Delgado,es ESP,DF,12,9,0.0,0.0,2014-2015,/en/players/294afef4/Carlos-Delgado,294afef4,Leganes,662,7.4,4.0,0.0,75,1.0,3240,Leganes
+,Carlos Gutiérrez,es ESP,DF,9,5,0.0,0.0,2014-2015,/en/players/933de879/Carlos-Gutierrez,933de879,Leganes,504,5.6,1.0,1.0,75,1.0,4298,Leganes
+,Luis Ruiz Sayago,es ESP,DF,7,5,0.0,0.0,2014-2015,/en/players/7451b305/Luis-Ruiz-Sayago,7451b305,Leganes,458,5.1,2.0,0.0,75,1.0,569,Leganes
+,Carlos Álvarez,es ESP,FW,8,5,0.0,0.0,2014-2015,/en/players/c171531a/Carlos-Alvarez,c171531a,Leganes,411,4.6,1.0,0.0,75,1.0,3974,Leganes
+,Bryan Rabello,cl CHI,MF,14,4,0.0,0.0,2014-2015,/en/players/ad052490/Bryan-Rabello,d052490,Leganes,526,5.8,1.0,0.0,75,31.0,478,Leganes
+,Dioni,es ESP,FW,6,4,0.0,0.0,2014-2015,/en/players/aac8c5ac/Dioni,c8c5ac,Leganes,332,3.7,0.0,0.0,75,1.0,454,Leganes
+,Dani Barrio,es ESP,GK,2,2,0.0,0.0,2014-2015,/en/players/b56f8c7f/Dani-Barrio,b56f8c7f,Leganes,180,2.0,0.0,0.0,75,1.0,2474,Leganes
+,Paco Candela,es ESP,DF,4,1,0.0,0.0,2014-2015,/en/players/1564cd0d/Paco-Candela,1564cd0d,Leganes,112,1.2,2.0,0.0,75,1.0,5530,Leganes
+,Villacañas,es ESP,FW,0,0,,,2014-2015,/en/players/33df7d31/Villacanas,33df7d31,Leganes,,,,,75,1.0,5528,Leganes
+,﻿Jon Ander Serantes,es ESP,GK,42,42,0.0,0.0,2015-2016,/en/players/983ccabe/Jon-Ander-Serantes,983ccabe,Leganes,"3,780",42.0,3.0,0.0,75,1.0,4905,Leganes
+,Martín Mantovani,ar ARG,DF,38,38,0.0,2.0,2015-2016,/en/players/4ffb647d/Martin-Mantovani,4ffb647d,Leganes,"3,348",37.2,21.0,1.0,75,5.0,5460,Leganes
+,Víctor Díaz,es ESP,DF,39,37,2.0,1.0,2015-2016,/en/players/3624ce4c/Victor-Diaz,3624ce4c,Leganes,"3,348",37.2,9.0,0.0,75,1.0,3224,Leganes
+,Pablo Insua,es ESP,DF,35,35,1.0,1.0,2015-2016,/en/players/4b5e7e90/Pablo-Insua,4b5e7e90,Leganes,"3,065",34.1,12.0,3.0,75,1.0,473,Leganes
+,Gabriel,br BRA,MF,37,35,4.0,7.0,2015-2016,/en/players/0d10333c/Gabriel,0d10333c,Leganes,"2,948",32.8,4.0,0.0,75,2.0,5529,Leganes
+,Alexander,ar ARG,MF,42,33,8.0,12.0,2015-2016,/en/players/3e1858af/Alexander,3e1858af,Leganes,"2,988",33.2,6.0,0.0,75,5.0,3206,Leganes
+,Lluís Sastre,es ESP,MF,33,29,3.0,3.0,2015-2016,/en/players/5f186f5c/Lluis-Sastre,5f186f5c,Leganes,"2,526",28.1,13.0,0.0,75,1.0,2594,Leganes
+,Omar Ramos,es ESP,"FW,MF",34,29,7.0,5.0,2015-2016,/en/players/0657888a/Omar-Ramos,0657888a,Leganes,"2,229",24.8,5.0,0.0,75,1.0,2591,Leganes
+,Alberto Martín,es ESP,MF,28,21,1.0,0.0,2015-2016,/en/players/805293e0/Alberto-Martin,805293e0,Leganes,"1,894",21.0,7.0,0.0,75,1.0,4615,Leganes
+,César Soriano,es ESP,DF,22,19,2.0,0.0,2015-2016,/en/players/0e41fc77/Cesar-Soriano,0e41fc77,Leganes,"1,753",19.5,6.0,0.0,75,1.0,882,Leganes
+,Unai Albizua,es ESP,DF,22,18,0.0,0.0,2015-2016,/en/players/4a2e58a3/Unai-Albizua,4a2e58a3,Leganes,"1,682",18.7,0.0,0.0,75,1.0,1308,Leganes
+,Luis Ruiz Sayago,es ESP,DF,20,17,0.0,0.0,2015-2016,/en/players/7451b305/Luis-Ruiz-Sayago,7451b305,Leganes,"1,412",15.7,8.0,0.0,75,1.0,569,Leganes
+,Guillermo,es ESP,FW,23,17,2.0,5.0,2015-2016,/en/players/15107141/Guillermo,15107141,Leganes,"1,398",15.5,4.0,0.0,75,1.0,1305,Leganes
+,Rubén Peña,es ESP,"DF,MF",30,16,4.0,8.0,2015-2016,/en/players/1f079188/Ruben-Pena,1f079188,Leganes,"1,677",18.6,4.0,0.0,75,1.0,2808,Leganes
+,Borja Lázaro,es ESP,FW,26,15,1.0,7.0,2015-2016,/en/players/877476f8/Borja-Lazaro,877476f8,Leganes,"1,453",16.1,8.0,0.0,75,1.0,5526,Leganes
+,David Timor,es ESP,"DF,MF",17,15,2.0,2.0,2015-2016,/en/players/174651c8/David-Timor,174651c8,Leganes,"1,344",14.9,5.0,0.0,75,1.0,2034,Leganes
+,Jorge Miramón,es ESP,"DF,MF",22,15,2.0,1.0,2015-2016,/en/players/7f4c7c9f/Jorge-Miramon,7f4c7c9f,Leganes,"1,294",14.4,1.0,0.0,75,1.0,4194,Leganes
+,Unai Bustinza,es ESP,DF,15,10,0.0,0.0,2015-2016,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,959,10.7,5.0,1.0,75,1.0,1311,Leganes
+,Iñigo Ruiz de Galarreta,es ESP,MF,20,7,0.0,1.0,2015-2016,/en/players/91f7631f/Inigo-Ruiz-de-Galarreta,91f7631f,Leganes,758,8.4,1.0,0.0,75,1.0,1301,Leganes
+,Alain Eizmendi,es ESP,"DF,MF",11,6,1.0,1.0,2015-2016,/en/players/d59d0a17/Alain-Eizmendi,d59d0a17,Leganes,588,6.5,0.0,0.0,75,1.0,270,Leganes
+,Toni Dovale,es ESP,"DF,MF",14,5,1.0,1.0,2015-2016,/en/players/d4b9adcf/Toni-Dovale,d4b9adcf,Leganes,529,5.9,1.0,0.0,75,1.0,726,Leganes
+,Asdrúbal Padrón,es ESP,"FW,MF",7,2,0.0,1.0,2015-2016,/en/players/1719aa30/Asdrubal-Padron,1719aa30,Leganes,227,2.5,1.0,0.0,75,1.0,5437,Leganes
+,Paco Candela,es ESP,DF,9,1,0.0,1.0,2015-2016,/en/players/1564cd0d/Paco-Candela,1564cd0d,Leganes,249,2.8,1.0,0.0,75,1.0,5530,Leganes
+,Bicho,es ESP,MF,0,0,,,2015-2016,/en/players/866b3d64/Bicho,866b3d64,Leganes,,,,,75,1.0,5531,Leganes
+,Carlos García,es ESP,DF,0,0,,,2015-2016,/en/players/e76f0b72/Carlos-Garcia,76f0b72,Leganes,,,,,75,1.0,5532,Leganes
+,Juanan,es ESP,DF,0,0,,,2015-2016,/en/players/41ab1795/Juanan,41ab1795,Leganes,,,,,75,1.0,3225,Leganes
+,Manolo,es ESP,FW,0,0,,,2015-2016,/en/players/0093936e/Manolo,0093936e,Leganes,,,,,75,1.0,5533,Leganes
+,Queco Piña,es ESP,GK,0,0,,,2015-2016,/en/players/ecf25896/Queco-Pina,cf25896,Leganes,,,,,75,1.0,5525,Leganes
+,﻿Gabriel,br BRA,"MF,FW",34,33,2.0,5.0,2016-2017,/en/players/0d10333c/Gabriel,0d10333c,Leganes,"2,741",30.5,8.0,0.0,75,2.0,5529,Leganes
+,Martín Mantovani,ar ARG,DF,31,30,0.0,1.0,2016-2017,/en/players/4ffb647d/Martin-Mantovani,4ffb647d,Leganes,"2,697",30.0,9.0,0.0,75,5.0,5460,Leganes
+,Rubén Pérez,es ESP,MF,30,26,1.0,0.0,2016-2017,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Leganes,"2,335",25.9,12.0,0.0,75,1.0,446,Leganes
+,Diego Rico,es ESP,DF,25,25,0.0,1.0,2016-2017,/en/players/d9ba39fc/Diego-Rico,d9ba39fc,Leganes,"2,220",24.7,6.0,0.0,75,1.0,354,Leganes
+,Miguel Ángel Guerrero,es ESP,FW,31,25,1.0,5.0,2016-2017,/en/players/b35db3f6/Miguel-Angel-Guerrero,b35db3f6,Leganes,"2,139",23.8,3.0,0.0,75,1.0,3512,Leganes
+,Alexander,ar ARG,MF,28,24,2.0,8.0,2016-2017,/en/players/3e1858af/Alexander,3e1858af,Leganes,"2,031",22.6,1.0,0.0,75,5.0,3206,Leganes
+,David Timor,es ESP,MF,24,22,1.0,2.0,2016-2017,/en/players/174651c8/David-Timor,174651c8,Leganes,"1,870",20.8,7.0,1.0,75,1.0,2034,Leganes
+,Iago Herrerín,es ESP,GK,21,21,0.0,0.0,2016-2017,/en/players/9109185e/Iago-Herrerin,9109185e,Leganes,"1,825",20.3,0.0,1.0,75,1.0,1304,Leganes
+,Unai Bustinza,es ESP,DF,22,21,1.0,0.0,2016-2017,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,"1,790",19.9,10.0,0.0,75,1.0,1311,Leganes
+,Pablo Insua,es ESP,DF,29,20,0.0,1.0,2016-2017,/en/players/4b5e7e90/Pablo-Insua,4b5e7e90,Leganes,"1,907",21.2,3.0,0.0,75,1.0,473,Leganes
+,Víctor Díaz,es ESP,DF,23,20,1.0,1.0,2016-2017,/en/players/3624ce4c/Victor-Diaz,3624ce4c,Leganes,"1,810",20.1,6.0,0.0,75,1.0,3224,Leganes
+,Dimitris Siovas,gr GRE,DF,16,16,0.0,1.0,2016-2017,/en/players/92d38e6c/Dimitris-Siovas,92d38e6c,Leganes,"1,390",15.4,4.0,0.0,75,55.0,5534,Leganes
+,Alberto Martín,es ESP,MF,16,14,0.0,0.0,2016-2017,/en/players/805293e0/Alberto-Martin,805293e0,Leganes,"1,189",13.2,6.0,1.0,75,1.0,4615,Leganes
+,Jon Ander Serantes,es ESP,GK,13,13,0.0,0.0,2016-2017,/en/players/983ccabe/Jon-Ander-Serantes,983ccabe,Leganes,"1,109",12.3,2.0,0.0,75,1.0,4905,Leganes
+,Unai López,es ESP,MF,23,12,0.0,2.0,2016-2017,/en/players/88050721/Unai-Lopez,88050721,Leganes,"1,167",13.0,2.0,0.0,75,1.0,1310,Leganes
+,Luciano,br BRA,FW,25,11,2.0,4.0,2016-2017,/en/players/24ce161c/Luciano,24ce161c,Leganes,"1,177",13.1,3.0,0.0,75,2.0,5535,Leganes
+,Omar Ramos,es ESP,MF,15,11,2.0,0.0,2016-2017,/en/players/0657888a/Omar-Ramos,0657888a,Leganes,970,10.8,4.0,0.0,75,1.0,2591,Leganes
+,Erik Morán,es ESP,MF,12,11,1.0,0.0,2016-2017,/en/players/6941883f/Erik-Moran,6941883f,Leganes,950,10.6,7.0,0.0,75,1.0,1302,Leganes
+,Adrián Marín,es ESP,DF,13,11,0.0,0.0,2016-2017,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Leganes,910,10.1,4.0,0.0,75,1.0,2781,Leganes
+,Darwin Machís,ve VEN,"MF,FW",27,10,3.0,1.0,2016-2017,/en/players/ed6ea4d9/Darwin-Machis,d6ea4d9,Leganes,"1,058",11.8,1.0,0.0,75,53.0,4399,Leganes
+,Nabil El Zhar,ma MAR,MF,14,10,2.0,1.0,2016-2017,/en/players/37f96552/Nabil-El-Zhar,37f96552,Leganes,957,10.6,1.0,0.0,75,26.0,4153,Leganes
+,Tito,es ESP,"DF,MF",11,10,2.0,0.0,2016-2017,/en/players/7cefa219/Tito,7cefa219,Leganes,877,9.7,3.0,0.0,75,1.0,3444,Leganes
+,Carl Medjani,dz ALG,DF,8,7,0.0,0.0,2016-2017,/en/players/70c2f41a/Carl-Medjani,70c2f41a,Leganes,595,6.6,2.0,0.0,75,37.0,4170,Leganes
+,Samu García,es ESP,MF,11,5,1.0,0.0,2016-2017,/en/players/5f7db81a/Samu-Garcia,5f7db81a,Leganes,531,5.9,0.0,0.0,75,1.0,2390,Leganes
+,Nereo Champagne,ar ARG,GK,4,4,0.0,0.0,2016-2017,/en/players/7a9fae62/Nereo-Champagne,7a9fae62,Leganes,360,4.0,1.0,0.0,75,5.0,5536,Leganes
+,Alberto Bueno,es ESP,"FW,MF",11,3,1.0,1.0,2016-2017,/en/players/9b878773/Alberto-Bueno,9b878773,Leganes,381,4.2,1.0,0.0,75,1.0,78,Leganes
+,Mamadou Koné,ci CIV,FW,5,1,0.0,0.0,2016-2017,/en/players/85b9dca0/Mamadou-Kone,85b9dca0,Leganes,173,1.9,0.0,0.0,75,35.0,567,Leganes
+,Robert Ibáñez,es ESP,MF,5,1,1.0,2.0,2016-2017,/en/players/c7429db3/Robert-Ibanez,c7429db3,Leganes,171,1.9,0.0,0.0,75,1.0,967,Leganes
+,Lluís Sastre,es ESP,MF,1,1,0.0,0.0,2016-2017,/en/players/5f186f5c/Lluis-Sastre,5f186f5c,Leganes,90,1.0,0.0,0.0,75,1.0,2594,Leganes
+,Diego Barrios,es ESP,GK,1,0,0.0,0.0,2016-2017,/en/players/ca8ea008/Diego-Barrios,ca8ea008,Leganes,62,0.7,0.0,0.0,75,1.0,5537,Leganes
+,Alberto Brignoli,it ITA,GK,1,0,0.0,0.0,2016-2017,/en/players/6989550f/Alberto-Brignoli,6989550f,Leganes,61,0.7,0.0,0.0,75,9.0,5538,Leganes
+,Sergio Arribas,es ESP,MF,0,0,,,2016-2017,/en/players/f1ecb8b5/Sergio-Arribas,f1ecb8b5,Leganes,,,,,75,1.0,5539,Leganes
+,Alejandro Gutiérrez Mozo,es ESP,MF,0,0,,,2016-2017,/en/players/4410f0b0/Alejandro-Gutierrez-Mozo,4410f0b0,Leganes,,,,,75,1.0,5540,Leganes
+,Álvaro Molina González,es ESP,DF,0,0,,,2016-2017,/en/players/4f8bb2aa/Alvaro-Molina-Gonzalez,4f8bb2aa,Leganes,,,,,75,1.0,5541,Leganes
+,Iu Ranera,es ESP,MF,0,0,,,2016-2017,/en/players/86f191f6/Iu-Ranera,86f191f6,Leganes,,,,,75,1.0,90293,Leganes
+,Toni Dovale,es ESP,"DF,MF",0,0,,,2016-2017,/en/players/d4b9adcf/Toni-Dovale,d4b9adcf,Leganes,,,,,75,1.0,726,Leganes
+,﻿Iván Cuéllar,es ESP,GK,35,35,0.0,0.0,2017-2018,/en/players/75751c99/Ivan-Cuellar,75751c99,Leganes,"3,150",35.0,4.0,0.0,75,1.0,2153,Leganes
+,Javier Eraso,es ESP,"MF,FW",34,31,3.0,4.0,2017-2018,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Leganes,"2,533",28.1,4.0,0.0,75,1.0,1314,Leganes
+,Joseba Zaldúa,es ESP,DF,30,29,0.0,1.0,2017-2018,/en/players/5ca20b7a/Joseba-Zaldua,5ca20b7a,Leganes,"2,557",28.4,9.0,1.0,75,1.0,292,Leganes
+,Rubén Pérez,es ESP,MF,31,29,0.0,0.0,2017-2018,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Leganes,"2,516",28.0,13.0,0.0,75,1.0,446,Leganes
+,Gabriel,br BRA,MF,29,28,2.0,5.0,2017-2018,/en/players/0d10333c/Gabriel,0d10333c,Leganes,"2,377",26.4,6.0,1.0,75,2.0,5529,Leganes
+,Diego Rico,es ESP,DF,26,26,2.0,2.0,2017-2018,/en/players/d9ba39fc/Diego-Rico,d9ba39fc,Leganes,"2,228",24.8,9.0,1.0,75,1.0,354,Leganes
+,Dimitris Siovas,gr GRE,DF,24,24,1.0,1.0,2017-2018,/en/players/92d38e6c/Dimitris-Siovas,92d38e6c,Leganes,"2,057",22.9,9.0,1.0,75,55.0,5534,Leganes
+,Nabil El Zhar,ma MAR,MF,30,20,2.0,2.0,2017-2018,/en/players/37f96552/Nabil-El-Zhar,37f96552,Leganes,"1,981",22.0,2.0,0.0,75,26.0,4153,Leganes
+,Unai Bustinza,es ESP,DF,20,18,0.0,2.0,2017-2018,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,"1,637",18.2,5.0,0.0,75,1.0,1311,Leganes
+,Omar Ramos,es ESP,MF,23,18,1.0,0.0,2017-2018,/en/players/0657888a/Omar-Ramos,0657888a,Leganes,"1,448",16.1,3.0,0.0,75,1.0,2591,Leganes
+,Claudio Beauvue,gp GLP,FW,28,17,0.0,2.0,2017-2018,/en/players/8ca253a3/Claudio-Beauvue,8ca253a3,Leganes,"1,672",18.6,4.0,0.0,75,56.0,573,Leganes
+,Nordin Amrabat,ma MAR,"MF,FW",30,17,4.0,2.0,2017-2018,/en/players/7c2a398c/Nordin-Amrabat,7c2a398c,Leganes,"1,623",18.0,6.0,1.0,75,26.0,2391,Leganes
+,Ezequiel Muñoz,ar ARG,DF,19,17,1.0,0.0,2017-2018,/en/players/e4b8c5b6/Ezequiel-Munoz,4b8c5b6,Leganes,"1,407",15.6,2.0,0.0,75,5.0,5542,Leganes
+,Gerard Gumbau,es ESP,MF,25,16,0.0,1.0,2017-2018,/en/players/ac454a4f/Gerard-Gumbau,c454a4f,Leganes,"1,434",15.9,8.0,0.0,75,1.0,1156,Leganes
+,Miguel Ángel Guerrero,es ESP,FW,22,15,3.0,4.0,2017-2018,/en/players/b35db3f6/Miguel-Angel-Guerrero,b35db3f6,Leganes,"1,442",16.0,3.0,0.0,75,1.0,3512,Leganes
+,Raúl García,es ESP,DF,19,15,2.0,0.0,2017-2018,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Leganes,"1,392",15.5,1.0,0.0,75,1.0,440,Leganes
+,Darko Brašanac,rs SRB,MF,23,13,0.0,2.0,2017-2018,/en/players/4accb7e0/Darko-Brasanac,4accb7e0,Leganes,"1,203",13.4,3.0,0.0,75,28.0,1487,Leganes
+,Alexander,ar ARG,MF,13,13,2.0,2.0,2017-2018,/en/players/3e1858af/Alexander,3e1858af,Leganes,"1,060",11.8,1.0,0.0,75,5.0,3206,Leganes
+,Martín Mantovani,ar ARG,DF,14,10,0.0,1.0,2017-2018,/en/players/4ffb647d/Martin-Mantovani,4ffb647d,Leganes,"1,022",11.4,3.0,0.0,75,5.0,5460,Leganes
+,Mauro dos Santos,ar ARG,DF,14,10,0.0,0.0,2017-2018,/en/players/ec699fdd/Mauro-dos-Santos,c699fdd,Leganes,983,10.9,3.0,0.0,75,5.0,3946,Leganes
+,Tito,es ESP,DF,9,6,0.0,0.0,2017-2018,/en/players/7cefa219/Tito,7cefa219,Leganes,610,6.8,0.0,0.0,75,1.0,3444,Leganes
+,Naranjo,es ESP,MF,16,6,0.0,1.0,2017-2018,/en/players/2a70c756/Naranjo,2a70c756,Leganes,562,6.2,2.0,0.0,75,1.0,791,Leganes
+,Erik Morán,es ESP,MF,6,2,0.0,0.0,2017-2018,/en/players/6941883f/Erik-Moran,6941883f,Leganes,228,2.5,2.0,0.0,75,1.0,1302,Leganes
+,Nereo Champagne,ar ARG,GK,2,2,0.0,0.0,2017-2018,/en/players/7a9fae62/Nereo-Champagne,7a9fae62,Leganes,180,2.0,0.0,0.0,75,5.0,5536,Leganes
+,Jon Ander Serantes,es ESP,GK,1,1,0.0,0.0,2017-2018,/en/players/983ccabe/Jon-Ander-Serantes,983ccabe,Leganes,90,1.0,0.0,0.0,75,1.0,4905,Leganes
+,Alejandro Gutiérrez Mozo,es ESP,MF,1,0,0.0,0.0,2017-2018,/en/players/4410f0b0/Alejandro-Gutierrez-Mozo,4410f0b0,Leganes,45,0.5,0.0,0.0,75,1.0,5540,Leganes
+,Jaime Sierra Mateos,es ESP,MF,2,0,0.0,0.0,2017-2018,/en/players/aaa4239e/Jaime-Sierra-Mateos,4239e,Leganes,28,0.3,0.0,0.0,75,1.0,5543,Leganes
+,Sergio Segura García,es ESP,DF,1,0,0.0,0.0,2017-2018,/en/players/3536fdc1/Sergio-Segura-Garcia,3536fdc1,Leganes,23,0.3,0.0,0.0,75,1.0,5544,Leganes
+,Gabri,es ESP,FW,0,0,,,2017-2018,/en/players/ff422f76/Gabri,ff422f76,Leganes,,,,,75,1.0,5545,Leganes
+,Mamadou Koné,ci CIV,FW,0,0,,,2017-2018,/en/players/85b9dca0/Mamadou-Kone,85b9dca0,Leganes,,,,,75,35.0,567,Leganes
+,Leonardo Rocha,pt POR,FW,0,0,,,2017-2018,/en/players/b592d545/Leonardo-Rocha,b592d545,Leganes,,,,,75,3.0,90294,Leganes
+,William,br BRA,FW,0,0,,,2017-2018,/en/players/09bc547d/William,09bc547d,Leganes,,,,,75,2.0,608,Leganes
+,﻿Iván Cuéllar,es ESP,GK,34,34,0.0,0.0,2018-2019,/en/players/75751c99/Ivan-Cuellar,75751c99,Leganes,"3,055",33.9,5.0,0.0,75,1.0,2153,Leganes
+,Dimitris Siovas,gr GRE,DF,34,34,0.0,1.0,2018-2019,/en/players/92d38e6c/Dimitris-Siovas,92d38e6c,Leganes,"2,962",32.9,5.0,0.0,75,55.0,5534,Leganes
+,Jonathan Silva,ar ARG,"DF,FW",30,30,6.0,3.0,2018-2019,/en/players/f2308b33/Jonathan-Silva,f2308b33,Leganes,"2,700",30.0,9.0,0.0,75,5.0,4095,Leganes
+,Óscar Rodríguez Arnaiz,es ESP,MF,31,29,3.0,4.0,2018-2019,/en/players/19709006/Oscar-Rodriguez-Arnaiz,19709006,Leganes,"2,504",27.8,6.0,0.0,75,1.0,153,Leganes
+,Rubén Pérez,es ESP,MF,31,27,0.0,0.0,2018-2019,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Leganes,"2,474",27.5,7.0,1.0,75,1.0,446,Leganes
+,Kenneth Omeruo,ng NGA,DF,28,27,0.0,0.0,2018-2019,/en/players/0f0aa5b4/Kenneth-Omeruo,0f0aa5b4,Leganes,"2,433",27.0,7.0,0.0,75,52.0,5546,Leganes
+,Unai Bustinza,es ESP,DF,25,24,1.0,0.0,2018-2019,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,"2,023",22.5,11.0,1.0,75,1.0,1311,Leganes
+,Mikel Vesga,es ESP,MF,26,23,1.0,1.0,2018-2019,/en/players/b0fce72c/Mikel-Vesga,b0fce72c,Leganes,"2,070",23.0,3.0,0.0,75,1.0,1317,Leganes
+,Guido Carrillo,ar ARG,FW,32,23,1.0,6.0,2018-2019,/en/players/8f898ba8/Guido-Carrillo,8f898ba8,Leganes,"1,992",22.1,5.0,0.0,75,5.0,5193,Leganes
+,Youssef En-Nesyri,ma MAR,FW,31,22,2.0,9.0,2018-2019,/en/players/04e17fd5/Youssef-En-Nesyri,04e17fd5,Leganes,"2,106",23.4,7.0,0.0,75,26.0,1949,Leganes
+,Allan Nyom,cm CMR,"DF,FW",23,20,1.0,1.0,2018-2019,/en/players/97572117/Allan-Nyom,97572117,Leganes,"1,708",19.0,7.0,1.0,75,36.0,4077,Leganes
+,Juanfran,es ESP,"DF,FW",23,17,1.0,1.0,2018-2019,/en/players/9ba48d64/Juanfran,9ba48d64,Leganes,"1,459",16.2,0.0,0.0,75,1.0,86,Leganes
+,Martin Braithwaite,dk DEN,FW,19,16,5.0,4.0,2018-2019,/en/players/fd771f95/Martin-Braithwaite,fd771f95,Leganes,"1,402",15.6,5.0,0.0,75,7.0,1190,Leganes
+,Rodrigo Tarín,es ESP,DF,18,15,0.0,0.0,2018-2019,/en/players/a03c82b2/Rodrigo-Tarin,03c82b2,Leganes,"1,429",15.9,3.0,0.0,75,1.0,5548,Leganes
+,Recio,es ESP,MF,18,15,0.0,0.0,2018-2019,/en/players/54073b28/Recio,54073b28,Leganes,"1,285",14.3,9.0,0.0,75,1.0,2371,Leganes
+,Gerard Gumbau,es ESP,MF,16,13,1.0,1.0,2018-2019,/en/players/ac454a4f/Gerard-Gumbau,c454a4f,Leganes,"1,199",13.3,6.0,1.0,75,1.0,1156,Leganes
+,Nabil El Zhar,ma MAR,MF,27,9,0.0,4.0,2018-2019,/en/players/37f96552/Nabil-El-Zhar,37f96552,Leganes,966,10.7,0.0,0.0,75,26.0,4153,Leganes
+,Javier Eraso,es ESP,"MF,FW",13,9,0.0,0.0,2018-2019,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Leganes,631,7.0,2.0,0.0,75,1.0,1314,Leganes
+,Vasyl Kravets,ua UKR,"DF,FW",6,6,0.0,0.0,2018-2019,/en/players/29e48848/Vasyl-Kravets,29e48848,Leganes,481,5.3,2.0,0.0,75,29.0,4788,Leganes
+,Michael Santos,uy URU,"FW,MF",16,5,3.0,1.0,2018-2019,/en/players/3cb6f224/Michael-Santos,3cb6f224,Leganes,557,6.2,4.0,0.0,75,8.0,2421,Leganes
+,Raúl García,es ESP,DF,5,4,0.0,0.0,2018-2019,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Leganes,381,4.2,1.0,0.0,75,1.0,440,Leganes
+,Andriy Lunin,ua UKR,GK,5,4,0.0,0.0,2018-2019,/en/players/3061e1ec/Andriy-Lunin,3061e1ec,Leganes,365,4.1,0.0,0.0,75,29.0,180,Leganes
+,Diego Reyes,mx MEX,DF,6,4,0.0,0.0,2018-2019,/en/players/d4f46475/Diego-Reyes,d4f46475,Leganes,320,3.6,1.0,0.0,75,20.0,306,Leganes
+,Sabin Merino,es ESP,"FW,MF",12,2,0.0,0.0,2018-2019,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Leganes,295,3.3,0.0,0.0,75,1.0,568,Leganes
+,Diego Rolán,uy URU,MF,6,2,0.0,0.0,2018-2019,/en/players/d1491e00/Diego-Rolan,d1491e00,Leganes,215,2.4,0.0,0.0,75,8.0,595,Leganes
+,Ezequiel Muñoz,ar ARG,DF,3,2,0.0,0.0,2018-2019,/en/players/e4b8c5b6/Ezequiel-Munoz,4b8c5b6,Leganes,211,2.3,0.0,0.0,75,5.0,5542,Leganes
+,Dani Ojeda,es ESP,"MF,DF",5,2,0.0,0.0,2018-2019,/en/players/375a669e/Dani-Ojeda,375a669e,Leganes,193,2.1,1.0,0.0,75,1.0,3842,Leganes
+,José Arnaiz,es ESP,MF,6,0,0.0,0.0,2018-2019,/en/players/46e07328/Jose-Arnaiz,46e07328,Leganes,113,1.3,0.0,0.0,75,1.0,1172,Leganes
+,Alexander,ar ARG,FW,1,0,0.0,0.0,2018-2019,/en/players/3e1858af/Alexander,3e1858af,Leganes,10,0.1,0.0,0.0,75,5.0,3206,Leganes
+,Jon Ander Serantes,es ESP,GK,0,0,,,2018-2019,/en/players/983ccabe/Jon-Ander-Serantes,983ccabe,Leganes,,,,,75,1.0,4905,Leganes
+,Javier Avilés,es ESP,FW,0,0,,,2018-2019,/en/players/53ddba36/Javier-Aviles,53ddba36,Leganes,,,,,75,1.0,5551,Leganes
+,Andrés Prieto,es ESP,GK,0,0,,,2018-2019,/en/players/113fb4ea/Andres-Prieto,113fb4ea,Leganes,,,,,75,1.0,2435,Leganes
+,﻿Jonathan Silva,ar ARG,DF,33,32,2.0,1.0,2019-2020,/en/players/f2308b33/Jonathan-Silva,f2308b33,Leganes,"2,785",30.9,13.0,1.0,75,5.0,4095,Leganes
+,Unai Bustinza,es ESP,DF,33,31,1.0,0.0,2019-2020,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,"2,684",29.8,8.0,0.0,75,1.0,1311,Leganes
+,Iván Cuéllar,es ESP,GK,27,27,0.0,0.0,2019-2020,/en/players/75751c99/Ivan-Cuellar,75751c99,Leganes,"2,429",27.0,4.0,1.0,75,1.0,2153,Leganes
+,Rubén Pérez,es ESP,MF,26,25,1.0,1.0,2019-2020,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Leganes,"2,194",24.4,9.0,0.0,75,1.0,446,Leganes
+,Dimitris Siovas,gr GRE,DF,24,23,0.0,0.0,2019-2020,/en/players/92d38e6c/Dimitris-Siovas,92d38e6c,Leganes,"1,918",21.3,7.0,0.0,75,55.0,5534,Leganes
+,Roque Mesa,es ESP,MF,29,22,3.0,1.0,2019-2020,/en/players/7c4243d4/Roque-Mesa,7c4243d4,Leganes,"2,012",22.4,11.0,0.0,75,1.0,1928,Leganes
+,Kévin Rodrigues,pt POR,"DF,MF",26,22,2.0,1.0,2019-2020,/en/players/f1bed920/Kevin-Rodrigues,f1bed920,Leganes,"1,931",21.5,6.0,1.0,75,3.0,317,Leganes
+,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",30,22,2.0,9.0,2019-2020,/en/players/19709006/Oscar-Rodriguez-Arnaiz,19709006,Leganes,"1,914",21.3,6.0,1.0,75,1.0,153,Leganes
+,Kenneth Omeruo,ng NGA,DF,23,22,0.0,1.0,2019-2020,/en/players/0f0aa5b4/Kenneth-Omeruo,0f0aa5b4,Leganes,"1,874",20.8,5.0,0.0,75,52.0,5546,Leganes
+,Chidozie Awaziem,ng NGA,DF,26,21,0.0,0.0,2019-2020,/en/players/70d8e84c/Chidozie-Awaziem,70d8e84c,Leganes,"1,997",22.2,10.0,0.0,75,52.0,5547,Leganes
+,Martin Braithwaite,dk DEN,"FW,MF",24,21,1.0,6.0,2019-2020,/en/players/fd771f95/Martin-Braithwaite,fd771f95,Leganes,"1,934",21.5,3.0,0.0,75,7.0,1190,Leganes
+,Roberto Rosales,ve VEN,DF,25,21,1.0,0.0,2019-2020,/en/players/81069528/Roberto-Rosales,81069528,Leganes,"1,871",20.8,7.0,0.0,75,53.0,2401,Leganes
+,Recio,es ESP,MF,25,18,0.0,0.0,2019-2020,/en/players/54073b28/Recio,54073b28,Leganes,"1,570",17.4,11.0,0.0,75,1.0,2371,Leganes
+,Youssef En-Nesyri,ma MAR,FW,18,15,2.0,4.0,2019-2020,/en/players/04e17fd5/Youssef-En-Nesyri,04e17fd5,Leganes,"1,385",15.4,2.0,0.0,75,26.0,1949,Leganes
+,Aitor Ruibal,es ESP,"DF,MF",25,13,0.0,0.0,2019-2020,/en/players/a55d8df5/Aitor-Ruibal,55d8df5,Leganes,"1,220",13.6,4.0,0.0,75,1.0,1504,Leganes
+,Guido Carrillo,ar ARG,FW,24,13,2.0,1.0,2019-2020,/en/players/8f898ba8/Guido-Carrillo,8f898ba8,Leganes,"1,213",13.5,2.0,0.0,75,5.0,5193,Leganes
+,Rodrigo Tarín,es ESP,DF,14,12,0.0,0.0,2019-2020,/en/players/a03c82b2/Rodrigo-Tarin,03c82b2,Leganes,951,10.6,1.0,0.0,75,1.0,5548,Leganes
+,Juan Soriano,es ESP,GK,11,11,0.0,0.0,2019-2020,/en/players/5512b1a9/Juan-Soriano,5512b1a9,Leganes,990,11.0,2.0,0.0,75,1.0,1930,Leganes
+,Javier Eraso,es ESP,MF,20,11,0.0,0.0,2019-2020,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Leganes,815,9.1,3.0,0.0,75,1.0,1314,Leganes
+,Miguel Ángel Guerrero,es ESP,FW,13,9,0.0,1.0,2019-2020,/en/players/b35db3f6/Miguel-Angel-Guerrero,b35db3f6,Leganes,790,8.8,0.0,0.0,75,1.0,3512,Leganes
+,Ibrahim Amadou,fr FRA,MF,10,9,0.0,0.0,2019-2020,/en/players/9260926b/Ibrahim-Amadou,9260926b,Leganes,770,8.6,2.0,0.0,75,4.0,1934,Leganes
+,Bryan,es ESP,"MF,DF",12,4,0.0,1.0,2019-2020,/en/players/7b5ab7f2/Bryan,7b5ab7f2,Leganes,558,6.2,2.0,0.0,75,1.0,1034,Leganes
+,Cristian Rivera,es ESP,MF,5,3,0.0,0.0,2019-2020,/en/players/8ef81d2d/Cristian-Rivera,8ef81d2d,Leganes,311,3.5,3.0,0.0,75,1.0,4789,Leganes
+,Marc Navarro,es ESP,"FW,DF",4,3,0.0,0.0,2019-2020,/en/players/c2846353/Marc-Navarro,c2846353,Leganes,219,2.4,1.0,0.0,75,1.0,3091,Leganes
+,Roger Assalé,ci CIV,"FW,MF",14,2,1.0,2.0,2019-2020,/en/players/5d5219b1/Roger-Assale,5d5219b1,Leganes,531,5.9,1.0,0.0,75,35.0,5549,Leganes
+,José Arnaiz,es ESP,MF,12,2,0.0,0.0,2019-2020,/en/players/46e07328/Jose-Arnaiz,46e07328,Leganes,337,3.7,2.0,0.0,75,1.0,1172,Leganes
+,Manuel Garrido,es ESP,FW,4,2,0.0,0.0,2019-2020,/en/players/f814eccb/Manuel-Garrido,f814eccb,Leganes,115,1.3,1.0,0.0,75,1.0,5550,Leganes
+,Javier Avilés,es ESP,"MF,FW",9,1,1.0,1.0,2019-2020,/en/players/53ddba36/Javier-Aviles,53ddba36,Leganes,184,2.0,1.0,0.0,75,1.0,5551,Leganes
+,Sabin Merino,es ESP,FW,2,1,0.0,0.0,2019-2020,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Leganes,78,0.9,0.0,0.0,75,1.0,568,Leganes
+,Alexander,ar ARG,MF,0,0,,,2019-2020,/en/players/3e1858af/Alexander,3e1858af,Leganes,,,,,75,5.0,3206,Leganes
+,Amores,es ESP,MF,0,0,,,2019-2020,/en/players/5d2b36a4/Amores,5d2b36a4,Leganes,,,,,75,1.0,90295,Leganes
+,André Grandi,br BRA,GK,0,0,,,2019-2020,/en/players/137bcb59/Andre-Grandi,137bcb59,Leganes,,,,,75,2.0,5552,Leganes
+,Vasyl Kravets,ua UKR,DF,0,0,,,2019-2020,/en/players/29e48848/Vasyl-Kravets,29e48848,Leganes,,,,,75,29.0,4788,Leganes
+,Pablo Lombo,es ESP,GK,0,0,,,2019-2020,/en/players/1d2fa3e6/Pablo-Lombo,1d2fa3e6,Leganes,,,,,75,1.0,5553,Leganes
+,Iván López,es ESP,DF,0,0,,,2019-2020,/en/players/b09ff413/Ivan-Lopez,b09ff413,Leganes,,,,,75,1.0,5554,Leganes
+,Aymane Mourid,ma MAR,MF,0,0,,,2019-2020,/en/players/b1bef0f1/Aymane-Mourid,b1bef0f1,Leganes,,,,,75,26.0,5555,Leganes
+,﻿Sergi Palencia,es ESP,"DF,MF",36,32,0.0,0.0,2020-2021,/en/players/19f8e480/Sergi-Palencia,19f8e480,Leganes,"2,827",31.4,7.0,0.0,75,1.0,5556,Leganes
+,Javi,es ESP,DF,33,32,1.0,3.0,2020-2021,/en/players/9a76c2e9/Javi,9a76c2e9,Leganes,"2,823",31.4,2.0,1.0,75,1.0,171,Leganes
+,Rubén Pérez,es ESP,MF,35,31,0.0,0.0,2020-2021,/en/players/3c7bc9bd/Ruben-Perez,3c7bc9bd,Leganes,"2,649",29.4,9.0,2.0,75,1.0,446,Leganes
+,Iván Cuéllar,es ESP,GK,27,27,0.0,0.0,2020-2021,/en/players/75751c99/Ivan-Cuellar,75751c99,Leganes,"2,430",27.0,3.0,0.0,75,1.0,2153,Leganes
+,José Arnaiz,es ESP,"MF,FW",32,27,1.0,6.0,2020-2021,/en/players/46e07328/Jose-Arnaiz,46e07328,Leganes,"2,187",24.3,4.0,0.0,75,1.0,1172,Leganes
+,Rubén Pardo,es ESP,MF,35,26,4.0,4.0,2020-2021,/en/players/2306bfde/Ruben-Pardo,2306bfde,Leganes,"2,287",25.4,3.0,0.0,75,1.0,289,Leganes
+,Rodrigo Tarín,es ESP,DF,30,25,0.0,0.0,2020-2021,/en/players/a03c82b2/Rodrigo-Tarin,03c82b2,Leganes,"2,267",25.2,4.0,0.0,75,1.0,5548,Leganes
+,Gaku Shibasaki,jp JPN,MF,34,24,3.0,2.0,2020-2021,/en/players/d2ac648c/Gaku-Shibasaki,d2ac648c,Leganes,"2,198",24.4,3.0,0.0,75,54.0,564,Leganes
+,Borja Bastón,es ESP,FW,35,24,3.0,5.0,2020-2021,/en/players/8c44e37b/Borja-Baston,8c44e37b,Leganes,"2,124",23.6,5.0,0.0,75,1.0,476,Leganes
+,Kenneth Omeruo,ng NGA,DF,24,23,0.0,1.0,2020-2021,/en/players/0f0aa5b4/Kenneth-Omeruo,0f0aa5b4,Leganes,"1,911",21.2,10.0,1.0,75,52.0,5546,Leganes
+,Sabin Merino,es ESP,"FW,MF",36,21,0.0,9.0,2020-2021,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Leganes,"1,779",19.8,4.0,0.0,75,1.0,568,Leganes
+,Ignasi Miquel,es ESP,DF,21,19,0.0,0.0,2020-2021,/en/players/174f09a6/Ignasi-Miquel,174f09a6,Leganes,"1,705",18.9,3.0,0.0,75,1.0,2428,Leganes
+,Javier Eraso,es ESP,"MF,FW",28,19,5.0,0.0,2020-2021,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Leganes,"1,583",17.6,6.0,0.0,75,1.0,1314,Leganes
+,Sergi,es ESP,DF,19,15,1.0,1.0,2020-2021,/en/players/65ac6ea0/Sergi,65ac6ea0,Leganes,"1,458",16.2,3.0,0.0,75,1.0,5557,Leganes
+,Robert Ibáñez,es ESP,MF,24,15,1.0,3.0,2020-2021,/en/players/c7429db3/Robert-Ibanez,c7429db3,Leganes,"1,235",13.7,4.0,1.0,75,1.0,967,Leganes
+,Jonathan Silva,ar ARG,DF,15,13,3.0,0.0,2020-2021,/en/players/f2308b33/Jonathan-Silva,f2308b33,Leganes,"1,103",12.3,3.0,0.0,75,5.0,4095,Leganes
+,Unai Bustinza,es ESP,DF,18,13,1.0,0.0,2020-2021,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,"1,087",12.1,3.0,1.0,75,1.0,1311,Leganes
+,Asier Riesgo,es ESP,GK,12,12,0.0,0.0,2020-2021,/en/players/581c5276/Asier-Riesgo,581c5276,Leganes,"1,080",12.0,2.0,0.0,75,1.0,218,Leganes
+,Luis Perea,es ESP,MF,31,11,1.0,0.0,2020-2021,/en/players/8dc6dbb3/Luis-Perea,8dc6dbb3,Leganes,"1,203",13.4,6.0,0.0,75,1.0,2088,Leganes
+,Javier Avilés,es ESP,MF,19,11,3.0,0.0,2020-2021,/en/players/53ddba36/Javier-Aviles,53ddba36,Leganes,935,10.4,3.0,0.0,75,1.0,5551,Leganes
+,Miguel,es ESP,FW,24,9,3.0,5.0,2020-2021,/en/players/6763373d/Miguel,6763373d,Leganes,821,9.1,1.0,0.0,75,1.0,2665,Leganes
+,Juan Muñoz,es ESP,"MF,FW",21,8,1.0,5.0,2020-2021,/en/players/25018d62/Juan-Munoz,25018d62,Leganes,868,9.6,0.0,0.0,75,1.0,1892,Leganes
+,Roberto Rosales,ve VEN,"DF,MF",17,6,0.0,1.0,2020-2021,/en/players/81069528/Roberto-Rosales,81069528,Leganes,705,7.8,3.0,0.0,75,53.0,2401,Leganes
+,Kevin Bua,ch SUI,MF,20,5,0.0,4.0,2020-2021,/en/players/a4f642c5/Kevin-Bua,4f642c5,Leganes,673,7.5,0.0,0.0,75,39.0,5558,Leganes
+,Dani Ojeda,es ESP,MF,5,4,0.0,0.0,2020-2021,/en/players/375a669e/Dani-Ojeda,375a669e,Leganes,281,3.1,0.0,0.0,75,1.0,3842,Leganes
+,Michael Santos,uy URU,FW,9,3,0.0,0.0,2020-2021,/en/players/3cb6f224/Michael-Santos,3cb6f224,Leganes,413,4.6,2.0,0.0,75,8.0,2421,Leganes
+,Daniel Lasure,es ESP,DF,5,3,0.0,0.0,2020-2021,/en/players/b74d54d6/Daniel-Lasure,b74d54d6,Leganes,316,3.5,0.0,0.0,75,1.0,3639,Leganes
+,Diego Conde,es ESP,GK,3,3,0.0,0.0,2020-2021,/en/players/4eae5bc4/Diego-Conde,4eae5bc4,Leganes,270,3.0,0.0,0.0,75,1.0,4096,Leganes
+,Javier Rubio,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/7e05e54f/Javier-Rubio,7e05e54f,Leganes,90,1.0,0.0,0.0,75,1.0,3508,Leganes
+,Brandon,es ESP,"FW,MF",5,0,0.0,0.0,2020-2021,/en/players/3e016e5a/Brandon,3e016e5a,Leganes,61,0.7,0.0,0.0,75,1.0,1648,Leganes
+,Diego,es ESP,FW,2,0,0.0,0.0,2020-2021,/en/players/b85a5126/Diego,b85a5126,Leganes,8,0.1,0.0,0.0,75,1.0,5559,Leganes
+,Cassio,br BRA,MF,0,0,,,2020-2021,/en/players/2a38f23a/Cassio,2a38f23a,Leganes,,,,,75,2.0,5560,Leganes
+,Manu Garrido,es ESP,FW,0,0,,,2020-2021,/en/players/f6f97033/Manu-Garrido,f6f97033,Leganes,,,,,75,1.0,5561,Leganes
+,Pablo Lombo,es ESP,GK,0,0,,,2020-2021,/en/players/1d2fa3e6/Pablo-Lombo,1d2fa3e6,Leganes,,,,,75,1.0,5553,Leganes
+,Iván López,es ESP,DF,0,0,,,2020-2021,/en/players/b09ff413/Ivan-Lopez,b09ff413,Leganes,,,,,75,1.0,5554,Leganes
+,Mario,es ESP,DF,0,0,,,2020-2021,/en/players/7a965c5a/Mario,7a965c5a,Leganes,,,,,75,1.0,5562,Leganes
+,Aymane Mourid,ma MAR,MF,0,0,,,2020-2021,/en/players/b1bef0f1/Aymane-Mourid,b1bef0f1,Leganes,,,,,75,26.0,5555,Leganes
+,Dimitris Siovas,gr GRE,"DF,MF",0,0,,,2020-2021,/en/players/92d38e6c/Dimitris-Siovas,92d38e6c,Leganes,,,,,75,55.0,5534,Leganes
+,Adil Tahif,ma MAR,DF,0,0,,,2020-2021,/en/players/f5208319/Adil-Tahif,f5208319,Leganes,,,,,75,26.0,5563,Leganes
+,﻿Javi,es ESP,DF,39,39,1.0,3.0,2021-2022,/en/players/9a76c2e9/Javi,9a76c2e9,Leganes,"3,500",38.9,10.0,0.0,75,1.0,171,Leganes
+,José Arnaiz,es ESP,"MF,FW",39,32,1.0,7.0,2021-2022,/en/players/46e07328/Jose-Arnaiz,46e07328,Leganes,"2,754",30.6,3.0,0.0,75,1.0,1172,Leganes
+,Rubén Pardo,es ESP,MF,32,31,9.0,1.0,2021-2022,/en/players/2306bfde/Ruben-Pardo,2306bfde,Leganes,"2,651",29.5,4.0,1.0,75,1.0,289,Leganes
+,Sergi Palencia,es ESP,"DF,MF",35,29,1.0,0.0,2021-2022,/en/players/19f8e480/Sergi-Palencia,19f8e480,Leganes,"2,779",30.9,11.0,0.0,75,1.0,5556,Leganes
+,Gaku Shibasaki,jp JPN,MF,34,28,1.0,3.0,2021-2022,/en/players/d2ac648c/Gaku-Shibasaki,d2ac648c,Leganes,"2,365",26.3,5.0,0.0,75,54.0,564,Leganes
+,Sergi,es ESP,DF,26,25,1.0,1.0,2021-2022,/en/players/65ac6ea0/Sergi,65ac6ea0,Leganes,"2,215",24.6,6.0,1.0,75,1.0,5557,Leganes
+,Asier Riesgo,es ESP,GK,20,20,0.0,0.0,2021-2022,/en/players/581c5276/Asier-Riesgo,581c5276,Leganes,"1,777",19.7,2.0,0.0,75,1.0,218,Leganes
+,Bruno González,es ESP,DF,20,19,0.0,0.0,2021-2022,/en/players/f11fe861/Bruno-Gonzalez,f11fe861,Leganes,"1,559",17.3,6.0,0.0,75,1.0,1463,Leganes
+,Lazar Ranđelović,rs SRB,"MF,FW",34,18,3.0,5.0,2021-2022,/en/players/1dbfae2d/Lazar-Randjelovic,1dbfae2d,Leganes,"1,706",19.0,3.0,0.0,75,28.0,5564,Leganes
+,Kenneth Omeruo,ng NGA,DF,17,17,0.0,2.0,2021-2022,/en/players/0f0aa5b4/Kenneth-Omeruo,0f0aa5b4,Leganes,"1,525",16.9,7.0,0.0,75,52.0,5546,Leganes
+,Recio,es ESP,MF,21,17,0.0,1.0,2021-2022,/en/players/54073b28/Recio,54073b28,Leganes,"1,348",15.0,5.0,0.0,75,1.0,2371,Leganes
+,Allan Nyom,cm CMR,DF,16,15,1.0,1.0,2021-2022,/en/players/97572117/Allan-Nyom,97572117,Leganes,"1,263",14.0,5.0,0.0,75,36.0,4077,Leganes
+,Borja Garcés,es ESP,FW,28,14,1.0,5.0,2021-2022,/en/players/bc39454c/Borja-Garces,bc39454c,Leganes,"1,313",14.6,4.0,0.0,75,1.0,2255,Leganes
+,Seydouba Cissé,gn GUI,MF,20,14,1.0,3.0,2021-2022,/en/players/0d13e455/Seydouba-Cisse,0d13e455,Leganes,"1,228",13.6,5.0,0.0,75,74.0,5565,Leganes
+,Fede Vico,es ESP,MF,16,14,2.0,2.0,2021-2022,/en/players/f681a8ef/Fede-Vico,f681a8ef,Leganes,"1,018",11.3,2.0,0.0,75,1.0,3801,Leganes
+,Jon Bautista,es ESP,FW,24,12,1.0,1.0,2021-2022,/en/players/debc6b55/Jon-Bautista,debc6b55,Leganes,"1,160",12.9,4.0,0.0,75,1.0,312,Leganes
+,Dani Jiménez,es ESP,GK,13,12,1.0,0.0,2021-2022,/en/players/e4365d4a/Dani-Jimenez,4365d4a,Leganes,"1,103",12.3,0.0,0.0,75,1.0,5566,Leganes
+,Édgar Yoel Bárcenas,pa PAN,"MF,FW",26,11,3.0,2.0,2021-2022,/en/players/b39849eb/Edgar-Yoel-Barcenas,b39849eb,Leganes,"1,272",14.1,0.0,0.0,75,89.0,5567,Leganes
+,Juan Muñoz,es ESP,"MF,FW",30,10,3.0,2.0,2021-2022,/en/players/25018d62/Juan-Munoz,25018d62,Leganes,"1,033",11.5,1.0,0.0,75,1.0,1892,Leganes
+,Xavi Quintillà,es ESP,"DF,MF",15,10,1.0,1.0,2021-2022,/en/players/84fb6aff/Xavi-Quintilla,84fb6aff,Leganes,981,10.9,1.0,0.0,75,1.0,2803,Leganes
+,Iván Villar,es ESP,GK,10,10,0.0,0.0,2021-2022,/en/players/cde52ef5/Ivan-Villar,cde52ef5,Leganes,900,10.0,0.0,0.0,75,1.0,790,Leganes
+,Yacine Qasmi,ma MAR,FW,16,9,0.0,3.0,2021-2022,/en/players/3b3cbebb/Yacine-Qasmi,3b3cbebb,Leganes,679,7.5,5.0,0.0,75,26.0,3498,Leganes
+,Robert Ibáñez,es ESP,"MF,FW",16,8,1.0,1.0,2021-2022,/en/players/c7429db3/Robert-Ibanez,c7429db3,Leganes,739,8.2,1.0,0.0,75,1.0,967,Leganes
+,Rodrigo Tarín,es ESP,DF,8,8,0.0,0.0,2021-2022,/en/players/a03c82b2/Rodrigo-Tarin,03c82b2,Leganes,652,7.2,2.0,0.0,75,1.0,5548,Leganes
+,Unai Bustinza,es ESP,"DF,MF",12,8,0.0,0.0,2021-2022,/en/players/f3112790/Unai-Bustinza,f3112790,Leganes,610,6.8,4.0,1.0,75,1.0,1311,Leganes
+,Naim García,es ESP,"MF,FW",24,7,1.0,1.0,2021-2022,/en/players/686bab8c/Naim-Garcia,686bab8c,Leganes,769,8.5,1.0,0.0,75,1.0,5568,Leganes
+,Luis Perea,es ESP,MF,17,7,0.0,0.0,2021-2022,/en/players/8dc6dbb3/Luis-Perea,8dc6dbb3,Leganes,698,7.8,2.0,0.0,75,1.0,2088,Leganes
+,Sabin Merino,es ESP,"MF,FW",14,4,0.0,2.0,2021-2022,/en/players/1d5f96d9/Sabin-Merino,1d5f96d9,Leganes,490,5.4,2.0,0.0,75,1.0,568,Leganes
+,Javier Eraso,es ESP,MF,12,4,0.0,0.0,2021-2022,/en/players/aec0fb6f/Javier-Eraso,c0fb6f,Leganes,450,5.0,0.0,0.0,75,1.0,1314,Leganes
+,Cheick Doukouré,ci CIV,MF,14,4,0.0,0.0,2021-2022,/en/players/e208bcc8/Cheick-Doukoure,208bcc8,Leganes,414,4.6,1.0,0.0,75,35.0,4182,Leganes
+,Jimmy Giraudon,fr FRA,DF,5,4,0.0,0.0,2021-2022,/en/players/6ba71da5/Jimmy-Giraudon,6ba71da5,Leganes,364,4.0,2.0,0.0,75,4.0,5569,Leganes
+,Jonathan Silva,ar ARG,DF,2,1,0.0,0.0,2021-2022,/en/players/f2308b33/Jonathan-Silva,f2308b33,Leganes,115,1.3,0.0,0.0,75,5.0,4095,Leganes
+,Diego,es ESP,FW,4,1,0.0,0.0,2021-2022,/en/players/b85a5126/Diego,b85a5126,Leganes,97,1.1,0.0,0.0,75,1.0,5559,Leganes
+,Javier Avilés,es ESP,FW,3,0,0.0,0.0,2021-2022,/en/players/53ddba36/Javier-Aviles,53ddba36,Leganes,14,0.2,0.0,0.0,75,1.0,5551,Leganes
+,Mario Rivas,es ESP,FW,1,0,0.0,0.0,2021-2022,/en/players/298874bd/Mario-Rivas,298874bd,Leganes,4,0.0,0.0,0.0,75,1.0,5570,Leganes
+,Javier Rentero,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/0f42fd8a/Javier-Rentero,0f42fd8a,Leganes,1,0.0,0.0,0.0,75,1.0,5571,Leganes
+,David Alba,es ESP,MF,0,0,,,2021-2022,/en/players/7a4cd784/David-Alba,7a4cd784,Leganes,,,,,75,1.0,4071,Leganes
+,Alejandro Alda,es ESP,DF,0,0,,,2021-2022,/en/players/b2d43217/Alejandro-Alda,b2d43217,Leganes,,,,,75,1.0,5572,Leganes
+,Javi Garrido,es ESP,GK,0,0,,,2021-2022,/en/players/3ce37eb5/Javi-Garrido,3ce37eb5,Leganes,,,,,75,1.0,5573,Leganes
+,Joserra,es ESP,DF,0,0,,,2021-2022,/en/players/1a563b04/Joserra,1a563b04,Leganes,,,,,75,1.0,5574,Leganes
+,Marc,es ESP,FW,0,0,,,2021-2022,/en/players/83d21f5b/Marc,83d21f5b,Leganes,,,,,75,1.0,3502,Leganes
+,Felix Ofoli,gh GHA,DF,0,0,,,2021-2022,/en/players/1d1c5644/Felix-Ofoli,1d1c5644,Leganes,,,,,75,17.0,5575,Leganes
+,Javier Rubio,es ESP,MF,0,0,,,2021-2022,/en/players/7e05e54f/Javier-Rubio,7e05e54f,Leganes,,,,,75,1.0,3508,Leganes
+,Adrián Victores,es ESP,GK,0,0,,,2021-2022,/en/players/ba5408e6/Adrian-Victores,ba5408e6,Leganes,,,,,75,1.0,5576,Leganes

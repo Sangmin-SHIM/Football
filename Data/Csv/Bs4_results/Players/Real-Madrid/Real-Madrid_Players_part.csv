@@ -1,191 +1,191 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-1.0,﻿Iker Casillas,/en/players/1ddbb0da/Iker-Casillas,Iker-Casi,1ddbb0da,es ESP,GK,Real-Madrid
-2.0,Roberto Carlos,/en/players/6a3aaf62/Roberto-Carlos,Roberto-Carlo,6a3aaf62,br BRA,DF,Real-Madrid
-3.0,Míchel Salgado,/en/players/68f36bc6/Michel-Salgado,Michel-Salgado,68f36bc6,es ESP,DF,Real-Madrid
-4.0,Iván Helguera,/en/players/44151558/Ivan-Helguera,Ivan-Helgu,44151558,es ESP,"DF,MF",Real-Madrid
-5.0,Luís Figo,/en/players/f20f347f/Luis-Figo,Luis-Figo,f20f347f,pt POR,"FW,MF",Real-Madrid
-6.0,Zinédine Zidane,/en/players/654f4e63/Zinedine-Zidane,Zinedine-Zid,654f4e63,fr FRA,MF,Real-Madrid
-7.0,Raúl,/en/players/2b81295d/Raul,Rau,2b81295d,es ESP,FW,Real-Madrid
-8.0,Claude Makélélé,/en/players/c27d01de/Claude-Makelele,Claude-Mak,c27d01de,fr FRA,MF,Real-Madrid
-9.0,Ronaldo,/en/players/57feb553/Ronaldo,Ronaldo,57feb553,br BRA,FW,Real-Madrid
-10.0,Fernando Hierro,/en/players/2f926dd0/Fernando-Hierro,Fernando-Hierro,2f926dd0,es ESP,"DF,MF",Real-Madrid
-11.0,Flávio Conceição,/en/players/8783b7ca/Flavio-Conceicao,Flavio-Conceicao,8783b7ca,br BRA,MF,Real-Madrid
-12.0,Guti,/en/players/dd0a0fa1/Guti,Guti,dd0a0fa1,es ESP,"FW,MF",Real-Madrid
-13.0,Esteban Cambiasso,/en/players/4d801075/Esteban-Cambiasso,Esteban-Cambiasso,4d801075,ar ARG,MF,Real-Madrid
-14.0,Francisco Pavón,/en/players/a222a596/Francisco-Pavon,Francisco-Pavo,222a596,es ESP,DF,Real-Madrid
-15.0,Santiago Solari,/en/players/e34c6e97/Santiago-Solari,Santiago-Solari,34c6e97,ar ARG,MF,Real-Madrid
-16.0,Steve McManaman,/en/players/9be05f40/Steve-McManaman,Steve-McManam,9be05f40,eng ENG,MF,Real-Madrid
-17.0,Óscar Miñambres,/en/players/8e27322b/Oscar-Minambres,Oscar-Minamb,8e27322b,es ESP,"DF,MF",Real-Madrid
-18.0,Fernando Morientes,/en/players/bceebb25/Fernando-Morientes,Fernando-Morient,bceebb25,es ESP,FW,Real-Madrid
-19.0,Javier Portillo,/en/players/99058498/Javier-Portillo,Javier-Portillo,99058498,es ESP,FW,Real-Madrid
-20.0,Raúl Bravo,/en/players/65b9e56b/Raul-Bravo,Raul-Bravo,65b9e56b,es ESP,DF,Real-Madrid
-21.0,Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Real-Madrid
-22.0,Tote,/en/players/e3e74421/Tote,Tot,3e74421,es ESP,"FW,MF",Real-Madrid
-23.0,Albert Celades,/en/players/61796b1f/Albert-Celades,Albert-Celad,61796b1f,es ESP,MF,Real-Madrid
-24.0,David Beckham,/en/players/53539318/David-Beckham,David-Beckham,53539318,eng ENG,MF,Real-Madrid
-25.0,Álvaro Mejía,/en/players/dd3f6a54/Alvaro-Mejia,Alvaro-Meji,dd3f6a54,es ESP,DF,Real-Madrid
-26.0,Borja Fernández,/en/players/9127f9ce/Borja-Fernandez,Borja-Fernandez,9127f9ce,es ESP,MF,Real-Madrid
-27.0,Juanfran,/en/players/cfd8d664/Juanfran,Juanf,cfd8d664,es ESP,"DF,MF",Real-Madrid
-28.0,Jordi López,/en/players/b6fe8a4c/Jordi-Lopez,Jordi-Lopez,b6fe8a4c,es ESP,MF,Real-Madrid
-29.0,César Sánchez,/en/players/c6e6e5d6/Cesar-Sanchez,Cesar-Sanchez,c6e6e5d6,es ESP,GK,Real-Madrid
-30.0,Antonio Núñez,/en/players/df89070b/Antonio-Nunez,Antonio-Nunez,df89070b,es ESP,MF,Real-Madrid
-31.0,Walter Samuel,/en/players/ceb6c79d/Walter-Samuel,Walter-Samu,ceb6c79d,ar ARG,DF,Real-Madrid
-32.0,Michael Owen,/en/players/88b3f52c/Michael-Owen,Michael-Ow,88b3f52c,eng ENG,FW,Real-Madrid
-33.0,Thomas Gravesen,/en/players/b769b5bd/Thomas-Gravesen,Thomas-Grav,b769b5bd,dk DEN,MF,Real-Madrid
-34.0,Álvaro Arbeloa,/en/players/6dc73abd/Alvaro-Arbeloa,Alvaro-Arbelo,6dc73abd,es ESP,DF,Real-Madrid
-35.0,Javi García,/en/players/167c1bb0/Javi-Garcia,Javi-Garci,167c1bb0,es ESP,"DF,MF",Real-Madrid
-36.0,Miguel Palencia,/en/players/933fc3bb/Miguel-Palencia,Miguel-Palenci,933fc3bb,es ESP,DF,Real-Madrid
-37.0,Jotha,/en/players/bed4387d/Jotha,Joth,bed4387d,es ESP,MF,Real-Madrid
-38.0,Sergio Ramos,/en/players/08511d65/Sergio-Ramos,Sergio-Ramo,08511d65,es ESP,DF,Real-Madrid
-39.0,Robinho,/en/players/f034613c/Robinho,Robinho,f034613c,br BRA,"FW,MF",Real-Madrid
-40.0,Júlio Baptista,/en/players/44557475/Julio-Baptista,Julio-Baptist,44557475,br BRA,"FW,MF",Real-Madrid
-41.0,Pablo García,/en/players/911299ca/Pablo-Garcia,Pablo-Garci,911299ca,uy URU,"DF,MF",Real-Madrid
-42.0,Cicinho,/en/players/9e4e6402/Cicinho,Cicinho,9e4e6402,br BRA,DF,Real-Madrid
-43.0,Carlos Diogo,/en/players/8da138d9/Carlos-Diogo,Carlos-Diogo,8da138d9,uy URU,"DF,MF",Real-Madrid
-44.0,Jonathan Woodgate,/en/players/9482a3bd/Jonathan-Woodgate,Jonathan-Woodgat,9482a3bd,eng ENG,DF,Real-Madrid
-45.0,Antonio Cassano,/en/players/d0ed4d32/Antonio-Cassano,Antonio-Cassano,d0ed4d32,it ITA,FW,Real-Madrid
-46.0,Roberto Soldado,/en/players/9d66fbe3/Roberto-Soldado,Roberto-Soldado,9d66fbe3,es ESP,FW,Real-Madrid
-47.0,Diego López,/en/players/73683fa9/Diego-Lopez,Diego-Lopez,73683fa9,es ESP,GK,Real-Madrid
-48.0,Javier Balboa,/en/players/cf0dbde3/Javier-Balboa,Javier-Balbo,cf0dbde3,gq EQG,"FW,MF",Real-Madrid
-49.0,Rubén de la Red,/en/players/75b08b25/Ruben-de-la-Red,Ruben-de-la-Red,75b08b25,es ESP,MF,Real-Madrid
-50.0,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,Jose-Manuel-Jurado,71d4e271,es ESP,MF,Real-Madrid
-51.0,Ruud van Nistelrooy,/en/players/80a30989/Ruud-van-Nistelrooy,Ruud-van-Nistelroo,80a30989,nl NED,FW,Real-Madrid
-52.0,Fabio Cannavaro,/en/players/51152527/Fabio-Cannavaro,Fabio-Cannavaro,51152527,it ITA,DF,Real-Madrid
-53.0,Mahamadou Diarra,/en/players/4a6c3ade/Mahamadou-Diarra,Mahamadou-Di,4a6c3ade,ml MLI,MF,Real-Madrid
-54.0,Emerson,/en/players/67d57df1/Emerson,Emerso,67d57df1,br BRA,MF,Real-Madrid
-55.0,Miguel Torres,/en/players/44b61913/Miguel-Torres,Miguel-To,44b61913,es ESP,DF,Real-Madrid
-56.0,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,Jose-Antonio-R,19058f02,es ESP,MF,Real-Madrid
-57.0,Gonzalo Higuaín,/en/players/8a08491a/Gonzalo-Higuain,Gonzalo-Higuai,8a08491a,ar ARG,"FW,MF",Real-Madrid
-58.0,Fernando Gago,/en/players/e86337bd/Fernando-Gago,Fernando-Gago,86337bd,ar ARG,MF,Real-Madrid
-59.0,Marcelo,/en/players/603116a7/Marcelo,Marcelo,603116a7,br BRA,"DF,MF",Real-Madrid
-60.0,Miguel Ángel Nieto,/en/players/3a935b70/Miguel-Angel-Nieto,Miguel-Angel-Nieto,3a935b70,es ESP,MF,Real-Madrid
-61.0,Wesley Sneijder,/en/players/ad625c12/Wesley-Sneijder,Wesley-Sneijd,d625c12,nl NED,MF,Real-Madrid
-62.0,Pepe,/en/players/c906ce0f/Pepe,P,c906ce0f,pt POR,"DF,MF",Real-Madrid
-63.0,Gabriel Heinze,/en/players/54629cf9/Gabriel-Heinze,Gabriel-Heinz,54629cf9,ar ARG,DF,Real-Madrid
-64.0,Arjen Robben,/en/players/09586899/Arjen-Robben,Arjen-Robb,9586899,nl NED,"FW,MF",Real-Madrid
-65.0,Royston Drenthe,/en/players/3d512ff2/Royston-Drenthe,Royston-Drenth,3d512ff2,nl NED,"DF,MF",Real-Madrid
-66.0,Christoph Metzelder,/en/players/3f866377/Christoph-Metzelder,Christoph-Metzeld,3f866377,de GER,DF,Real-Madrid
-67.0,Javier Saviola,/en/players/de544fdb/Javier-Saviola,Javier-Savio,de544fdb,ar ARG,FW,Real-Madrid
-68.0,Jordi Codina,/en/players/812088cd/Jordi-Codina,Jordi-Codi,812088cd,es ESP,GK,Real-Madrid
-69.0,Jerzy Dudek,/en/players/1064659d/Jerzy-Dudek,Jerzy-Dudek,1064659d,pl POL,GK,Real-Madrid
-70.0,Lassana Diarra,/en/players/79584585/Lassana-Diarra,Lassana-Di,79584585,fr FRA,MF,Real-Madrid
-71.0,Rafael van der Vaart,/en/players/41473b67/Rafael-van-der-Vaart,Rafael-van-der-Vaart,41473b67,nl NED,MF,Real-Madrid
-72.0,Klaas-Jan Huntelaar,/en/players/5042e5c2/Klaas-Jan-Huntelaar,Klaas-Jan-Hunt,5042e5c2,nl NED,FW,Real-Madrid
-73.0,Gary Kagelmacher,/en/players/a2e9f252/Gary-Kagelmacher,Gary-Kagelmach,2e9f252,uy URU,DF,Real-Madrid
-74.0,Miguel Palanca,/en/players/005ade52/Miguel-Palanca,Miguel-Palanc,005ade52,es ESP,"FW,MF",Real-Madrid
-75.0,Daniel Parejo,/en/players/7460ca0d/Daniel-Parejo,Daniel-Parejo,7460ca0d,es ESP,MF,Real-Madrid
-76.0,Julien Faubert,/en/players/525642e0/Julien-Faubert,Julien-Faubert,5.26E+05,fr FRA,"DF,FW",Real-Madrid
-77.0,Marcos Tébar,/en/players/1e806be7/Marcos-Tebar,Marcos-Teb,1e806be7,es ESP,"DF,MF",Real-Madrid
-78.0,Alberto Bueno,/en/players/9b878773/Alberto-Bueno,Alberto-Bueno,9b878773,es ESP,"FW,MF",Real-Madrid
-79.0,Xabi Alonso,/en/players/dc001a06/Xabi-Alonso,Xabi-Alonso,dc001a06,es ESP,MF,Real-Madrid
-80.0,Raúl Albiol,/en/players/4bd414c1/Raul-Albiol,Raul-Albio,4bd414c1,es ESP,DF,Real-Madrid
-81.0,Cristiano Ronaldo,/en/players/dea698d9/Cristiano-Ronaldo,Cristiano-Ronaldo,dea698d9,pt POR,"FW,MF",Real-Madrid
-82.0,Esteban Granero,/en/players/1b17ed86/Esteban-Granero,Esteban-Granero,1b17ed86,es ESP,MF,Real-Madrid
-83.0,Kaká,/en/players/b2d6ea70/Kaka,Kak,b2d6ea70,br BRA,"FW,MF",Real-Madrid
-84.0,Ezequiel Garay,/en/players/ac3fb1be/Ezequiel-Garay,Ezequiel-G,c3fb1be,ar ARG,DF,Real-Madrid
-85.0,Karim Benzema,/en/players/70d74ece/Karim-Benzema,Karim-Benzem,70d74ece,fr FRA,FW,Real-Madrid
-86.0,Juanfran,/en/players/9ba48d64/Juanfran,Juanf,9ba48d64,es ESP,"DF,FW",Real-Madrid
-87.0,Marcos Alonso,/en/players/f4290206/Marcos-Alonso,Marcos-Alonso,f4290206,es ESP,"DF,MF",Real-Madrid
-88.0,Pedro Mosquera,/en/players/c5fa58ea/Pedro-Mosquera,Pedro-Mosqu,c5fa58ea,es ESP,MF,Real-Madrid
-89.0,Ricardo Carvalho,/en/players/57e7081e/Ricardo-Carvalho,Ricardo-Carvalho,57e7081e,pt POR,DF,Real-Madrid
-90.0,Mesut Özil,/en/players/16380240/Mesut-Ozil,Mesut-Ozi,16380240,de GER,MF,Real-Madrid
-91.0,Ángel Di María,/en/players/19cda00b/Angel-Di-Maria,Angel-Di-Mari,19cda00b,ar ARG,"FW,MF",Real-Madrid
-92.0,Sami Khedira,/en/players/38ac43d3/Sami-Khedira,Sami-Khedi,38ac43d3,de GER,MF,Real-Madrid
-93.0,Sergio Canales,/en/players/a6de370d/Sergio-Canales,Sergio-C,6de370d,es ESP,MF,Real-Madrid
-94.0,Antonio Adán,/en/players/65d62814/Antonio-Adan,Antonio-Ad,65d62814,es ESP,GK,Real-Madrid
-95.0,Nacho,/en/players/2946f9a1/Nacho,Nacho,2946f9a1,es ESP,DF,Real-Madrid
-96.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,"FW,MF",Real-Madrid
-97.0,Jesús,/en/players/fba3c8c1/Jesus,Jesu,fba3c8c1,es ESP,GK,Real-Madrid
-98.0,Juankar,/en/players/e9a12436/Juankar,Juank,9a12436,es ESP,"DF,FW",Real-Madrid
-99.0,Tomás Mejías,/en/players/dc0c0fd9/Tomas-Mejias,Tomas-Meji,dc0c0fd9,es ESP,GK,Real-Madrid
-100.0,Joselu,/en/players/6265208f/Joselu,Joselu,6265208f,es ESP,FW,Real-Madrid
-101.0,Álex Fernández,/en/players/aa677a35/Alex-Fernandez,Alex-Fernandez,677a35,es ESP,"DF,MF",Real-Madrid
-102.0,Álvaro Morata,/en/players/129af0db/Alvaro-Morata,Alvaro-Morat,129af0db,es ESP,FW,Real-Madrid
-103.0,Fábio Coentrão,/en/players/0f8bd0a6/Fabio-Coentrao,Fabio-Coentrao,0f8bd0a6,pt POR,DF,Real-Madrid
-104.0,Raphaël Varane,/en/players/9f8e9423/Raphael-Varane,Raphael-V,9f8e9423,fr FRA,"DF,MF",Real-Madrid
-105.0,José Callejón,/en/players/78841da9/Jose-Callejon,Jose-Callejo,78841da9,es ESP,"FW,MF",Real-Madrid
-106.0,Nuri Şahin,/en/players/f4081572/Nuri-Sahin,Nuri-Sahi,f4081572,tr TUR,MF,Real-Madrid
-107.0,Hamit Altıntop,/en/players/98e33da5/Hamit-Altintop,Hamit-Altinto,98e33da5,tr TUR,"DF,MF",Real-Madrid
-108.0,Jesé,/en/players/4a537185/Jese,J,4a537185,es ESP,"FW,MF",Real-Madrid
-109.0,Luka Modrić,/en/players/6025fab1/Luka-Modric,Luka-Modric,6025fab1,hr CRO,MF,Real-Madrid
-110.0,Michael Essien,/en/players/d6577282/Michael-Essien,Michael-Essi,d6577282,gh GHA,"DF,MF",Real-Madrid
-111.0,Casemiro,/en/players/4d224fe8/Casemiro,Casemiro,4d224fe8,br BRA,MF,Real-Madrid
-112.0,Fabinho,/en/players/7f3b388c/Fabinho,Fabinho,7f3b388c,br BRA,"DF,MF",Real-Madrid
-113.0,Omar Mascarell,/en/players/11fd2b75/Omar-Mascarell,Omar-Masc,11fd2b75,es ESP,MF,Real-Madrid
-114.0,Diego Llorente,/en/players/bba30585/Diego-Llorente,Diego-Llorent,bba30585,es ESP,DF,Real-Madrid
-115.0,José Rodríguez,/en/players/55e81c76/Jose-Rodriguez,Jose-Rodriguez,55e81c76,es ESP,MF,Real-Madrid
-116.0,Dani Carvajal,/en/players/4958bfb2/Dani-Carvajal,Dani-Carvaj,4958bfb2,es ESP,DF,Real-Madrid
-117.0,Gareth Bale,/en/players/a58bb1e1/Gareth-Bale,Gareth-B,58bb1e1,wls WAL,"FW,MF",Real-Madrid
-118.0,Isco,/en/players/a0b4bb3e/Isco,Isco,0b4bb3e,es ESP,"FW,MF",Real-Madrid
-119.0,Asier Illarramendi,/en/players/5ce0b5ba/Asier-Illarramendi,Asier-Illarramendi,5ce0b5ba,es ESP,MF,Real-Madrid
-120.0,Willian José,/en/players/d87e2cae/Willian-Jose,Willian-Jo,d87e2cae,br BRA,FW,Real-Madrid
-121.0,﻿Toni Kroos,/en/players/6ce1f46f/Toni-Kroos,Toni-Kroo,6ce1f46f,de GER,MF,Real-Madrid
-122.0,James Rodríguez,/en/players/715bf047/James-Rodriguez,James-Rodriguez,715bf047,co COL,"FW,MF",Real-Madrid
-123.0,Javier Hernández,/en/players/189cee7b/Javier-Hernandez,Javier-Hernandez,189cee7b,mx MEX,FW,Real-Madrid
-124.0,Lucas Silva,/en/players/1c646218/Lucas-Silva,Lucas-Silv,1c646218,br BRA,MF,Real-Madrid
-125.0,Martin Ødegaard,/en/players/79300479/Martin-Odegaard,Martin-Odegaard,79300479,no NOR,"FW,MF",Real-Madrid
-126.0,Álvaro Medrán,/en/players/31223bcf/Alvaro-Medran,Alvaro-Med,31223bcf,es ESP,MF,Real-Madrid
-127.0,Sergio Aguza,/en/players/b8e26df0/Sergio-Aguza,Sergio-Aguz,b8e26df0,es ESP,MF,Real-Madrid
-128.0,Borja Mayoral,/en/players/64e8ed6d/Borja-Mayoral,Borja-Mayo,64e8ed6d,es ESP,FW,Real-Madrid
-129.0,Javier Muñoz,/en/players/ec7c84c2/Javier-Munoz,Javier-Munoz,c7c84c2,es ESP,MF,Real-Madrid
-130.0,Fernando Pacheco,/en/players/97852360/Fernando-Pacheco,Fernando-Pacheco,97852360,es ESP,GK,Real-Madrid
-131.0,Raúl de Tomás,/en/players/02ef8778/Raul-de-Tomas,Raul-de-Tom,02ef8778,es ESP,FW,Real-Madrid
-132.0,Keylor Navas,/en/players/ecada4fc/Keylor-Navas,Keylor-Nav,cada4fc,cr CRC,GK,Real-Madrid
-133.0,Danilo,/en/players/94b2001f/Danilo,Danilo,94b2001f,br BRA,DF,Real-Madrid
-134.0,Lucas Vázquez,/en/players/fd51b456/Lucas-Vazquez,Lucas-Vazquez,fd51b456,es ESP,"FW,MF",Real-Madrid
-135.0,Mateo Kovačić,/en/players/79c0821a/Mateo-Kovacic,Mateo-Kovacic,79c0821a,hr CRO,MF,Real-Madrid
-136.0,Kiko Casilla,/en/players/58bc7d18/Kiko-Casilla,Kiko-Casi,58bc7d18,es ESP,GK,Real-Madrid
-137.0,Denis Cheryshev,/en/players/0ac94a23/Denis-Cheryshev,Denis-Cheryshev,0ac94a23,ru RUS,"FW,MF",Real-Madrid
-138.0,Marcos Llorente,/en/players/02c15616/Marcos-Llorente,Marcos-Llorent,02c15616,es ESP,"DF,MF",Real-Madrid
-139.0,José Carlos Lazo,/en/players/5b93209a/Jose-Carlos-Lazo,Jose-Carlos-Lazo,5b93209a,es ESP,MF,Real-Madrid
-140.0,Philipp Lienhart,/en/players/302527b2/Philipp-Lienhart,Philipp-Lienhart,302527b2,at AUT,DF,Real-Madrid
-141.0,Álvaro Tejero,/en/players/868ce848/Alvaro-Tejero,Alvaro-Tejero,868ce848,es ESP,DF,Real-Madrid
-142.0,Rubén Yáñez,/en/players/039ae103/Ruben-Yanez,Ruben-Yanez,039ae103,es ESP,GK,Real-Madrid
-143.0,Marco Asensio,/en/players/45af8a54/Marco-Asensio,Marco-Asensio,45af8a54,es ESP,"FW,MF",Real-Madrid
-144.0,Mariano,/en/players/5c4dc0ff/Mariano,Mariano,5c4dc0ff,do DOM,FW,Real-Madrid
-145.0,Achraf Hakimi,/en/players/e42d61c7/Achraf-Hakimi,Achraf-Hakimi,42d61c7,ma MAR,"DF,MF",Real-Madrid
-146.0,Theo Hernández,/en/players/d4c9725f/Theo-Hernandez,Theo-Hernandez,d4c9725f,fr FRA,DF,Real-Madrid
-147.0,Jesús Vallejo,/en/players/c2111b45/Jesus-Vallejo,Jesus-Vallejo,c2111b45,es ESP,DF,Real-Madrid
-148.0,Dani Ceballos,/en/players/c0617e2b/Dani-Ceballos,Dani-Ceballo,c0617e2b,es ESP,MF,Real-Madrid
-149.0,Luca Zidane,/en/players/c818c4d9/Luca-Zidane,Luca-Zid,c818c4d9,fr FRA,GK,Real-Madrid
-150.0,Franchu Feuillassier,/en/players/615667bb/Franchu-Feuillassier,Franchu-Feuillassi,615667bb,ar ARG,MF,Real-Madrid
-151.0,Moha,/en/players/97ceacc3/Moha,Moh,97ceacc3,es ESP,GK,Real-Madrid
-152.0,Luismi Quezada,/en/players/53440b3c/Luismi-Quezada,Luismi-Quezad,53440b3c,do DOM,DF,Real-Madrid
-153.0,Óscar Rodríguez Arnaiz,/en/players/19709006/Oscar-Rodriguez-Arnaiz,Oscar-Rodriguez-Arnaiz,19709006,es ESP,MF,Real-Madrid
-154.0,Thibaut Courtois,/en/players/1840e36d/Thibaut-Courtois,Thibaut-Courtoi,1840e36d,be BEL,GK,Real-Madrid
-155.0,Sergio Reguilón,/en/players/3353737a/Sergio-Reguilon,Sergio-Reguilo,3353737a,es ESP,DF,Real-Madrid
-156.0,Vinicius Júnior,/en/players/7111d552/Vinicius-Junior,Vinicius-Junio,7111d552,br BRA,"FW,MF",Real-Madrid
-157.0,Federico Valverde,/en/players/0959c2a2/Federico-Valverde,Federico-Valverd,0959c2a2,uy URU,MF,Real-Madrid
-158.0,Brahim Díaz,/en/players/407feb71/Brahim-Diaz,Brahim-Diaz,407feb71,es ESP,"FW,MF",Real-Madrid
-159.0,Javi Sánchez,/en/players/60359288/Javi-Sanchez,Javi-Sanchez,60359288,es ESP,DF,Real-Madrid
-160.0,Cristo González,/en/players/896b5df2/Cristo-Gonzalez,Cristo-Gonzalez,896b5df2,es ESP,FW,Real-Madrid
-161.0,Jaime Seoane,/en/players/a62b4888/Jaime-Seoane,Jaime-Seo,62b4888,es ESP,MF,Real-Madrid
-162.0,Ferland Mendy,/en/players/3cefcaef/Ferland-Mendy,Ferland-Mend,3cefcaef,fr FRA,DF,Real-Madrid
-163.0,Eden Hazard,/en/players/a39bb753/Eden-Hazard,Eden-Hazard,39bb753,be BEL,"FW,MF",Real-Madrid
-164.0,Rodrygo,/en/players/8f5e92a6/Rodrygo,Rodrygo,8f5e92a6,br BRA,FW,Real-Madrid
-165.0,Éder Militão,/en/players/2784f898/Eder-Militao,Eder-Militao,2784f898,br BRA,DF,Real-Madrid
-166.0,Luka Jović,/en/players/4d8cd038/Luka-Jovic,Luka-Jovic,4d8cd038,rs SRB,FW,Real-Madrid
-167.0,Alphonse Areola,/en/players/2f965a72/Alphonse-Areola,Alphonse-Areo,2f965a72,fr FRA,GK,Real-Madrid
-168.0,Álvaro Odriozola,/en/players/1d1691ad/Alvaro-Odriozola,Alvaro-Odriozo,1d1691ad,es ESP,DF,Real-Madrid
-169.0,Altube,/en/players/e4cbb095/Altube,Altub,4cbb095,es ESP,GK,Real-Madrid
-170.0,Miguel Gutiérrez,/en/players/7e98cff1/Miguel-Gutierrez,Miguel-Gutierrez,7e98cff1,es ESP,DF,Real-Madrid
-171.0,Javi,/en/players/9a76c2e9/Javi,Javi,9a76c2e9,es ESP,DF,Real-Madrid
-172.0,Luis López,/en/players/ccb491d0/Luis-Lopez,Luis-Lopez,ccb491d0,es ESP,GK,Real-Madrid
-173.0,Blanco,/en/players/506daeac/Blanco,Blanco,506daeac,es ESP,MF,Real-Madrid
-174.0,Marvin,/en/players/efaefda0/Marvin,Marvi,faefda0,es ESP,"MF,DF",Real-Madrid
-175.0,Víctor Chust,/en/players/ec1a731e/Victor-Chust,Victor-Chust,c1a731e,es ESP,DF,Real-Madrid
-176.0,Sergio Arribas,/en/players/1e465e70/Sergio-Arribas,Sergio-Arrib,1e465e70,es ESP,"MF,FW",Real-Madrid
-177.0,Hugo Duro,/en/players/37e103f8/Hugo-Duro,Hugo-Duro,37e103f8,es ESP,FW,Real-Madrid
-178.0,Óscar Aranda,/en/players/4d3bdda7/Oscar-Aranda,Oscar-Arand,4d3bdda7,es ESP,FW,Real-Madrid
-179.0,Lucas Cañizars,/en/players/7e84906e/Lucas-Canizars,Lucas-Caniz,7e84906e,es ESP,GK,Real-Madrid
-180.0,Andriy Lunin,/en/players/3061e1ec/Andriy-Lunin,Andriy-Luni,3061e1ec,ua UKR,GK,Real-Madrid
-181.0,Pablo Ramon,/en/players/03cb6ca0/Pablo-Ramon,Pablo-Ramo,03cb6ca0,es ESP,DF,Real-Madrid
-182.0,Sergio Santos,/en/players/cf59e05f/Sergio-Santos,Sergio-Santo,cf59e05f,es ESP,DF,Real-Madrid
-183.0,David Alaba,/en/players/05439de2/David-Alaba,David-Alab,05439de2,at AUT,DF,Real-Madrid
-184.0,Eduardo Camavinga,/en/players/7b9c2d84/Eduardo-Camavinga,Eduardo-Camaving,7b9c2d84,fr FRA,MF,Real-Madrid
-185.0,Peter González,/en/players/1ccd3dae/Peter-Gonzalez,Peter-Gonzalez,1ccd3dae,do DOM,"MF,DF",Real-Madrid
-186.0,Mario Gila,/en/players/9c435456/Mario-Gila,Mario-Gi,9c435456,es ESP,DF,Real-Madrid
-187.0,Latasa,/en/players/2bea832e/Latasa,Lat,2bea832e,es ESP,FW,Real-Madrid
-188.0,Toni Fuidias,/en/players/33d2c795/Toni-Fuidias,Toni-Fuidi,33d2c795,es ESP,GK,Real-Madrid
-189.0,Diego Piñeiro,/en/players/ef6a4afe/Diego-Pineiro,Diego-Pineiro,f6a4afe,es ESP,GK,Real-Madrid
-190.0,Rafa,/en/players/3239a8ed/Rafa,Raf,3239a8ed,es ESP,DF,Real-Madrid
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+0.0,﻿Iker Casillas,/en/players/1ddbb0da/Iker-Casillas,Iker-Casi,1ddbb0da,es ESP,GK,Real-Madrid
+1.0,Roberto Carlos,/en/players/6a3aaf62/Roberto-Carlos,Roberto-Carlo,6a3aaf62,br BRA,DF,Real-Madrid
+2.0,Míchel Salgado,/en/players/68f36bc6/Michel-Salgado,Michel-Salgado,68f36bc6,es ESP,DF,Real-Madrid
+3.0,Iván Helguera,/en/players/44151558/Ivan-Helguera,Ivan-Helgu,44151558,es ESP,"DF,MF",Real-Madrid
+4.0,Luís Figo,/en/players/f20f347f/Luis-Figo,Luis-Figo,f20f347f,pt POR,"FW,MF",Real-Madrid
+5.0,Zinédine Zidane,/en/players/654f4e63/Zinedine-Zidane,Zinedine-Zid,654f4e63,fr FRA,MF,Real-Madrid
+6.0,Raúl,/en/players/2b81295d/Raul,Rau,2b81295d,es ESP,FW,Real-Madrid
+7.0,Claude Makélélé,/en/players/c27d01de/Claude-Makelele,Claude-Mak,c27d01de,fr FRA,MF,Real-Madrid
+8.0,Ronaldo,/en/players/57feb553/Ronaldo,Ronaldo,57feb553,br BRA,FW,Real-Madrid
+9.0,Fernando Hierro,/en/players/2f926dd0/Fernando-Hierro,Fernando-Hierro,2f926dd0,es ESP,"DF,MF",Real-Madrid
+10.0,Flávio Conceição,/en/players/8783b7ca/Flavio-Conceicao,Flavio-Conceicao,8783b7ca,br BRA,MF,Real-Madrid
+11.0,Guti,/en/players/dd0a0fa1/Guti,Guti,dd0a0fa1,es ESP,"FW,MF",Real-Madrid
+12.0,Esteban Cambiasso,/en/players/4d801075/Esteban-Cambiasso,Esteban-Cambiasso,4d801075,ar ARG,MF,Real-Madrid
+13.0,Francisco Pavón,/en/players/a222a596/Francisco-Pavon,Francisco-Pavo,222a596,es ESP,DF,Real-Madrid
+14.0,Santiago Solari,/en/players/e34c6e97/Santiago-Solari,Santiago-Solari,34c6e97,ar ARG,MF,Real-Madrid
+15.0,Steve McManaman,/en/players/9be05f40/Steve-McManaman,Steve-McManam,9be05f40,eng ENG,MF,Real-Madrid
+16.0,Óscar Miñambres,/en/players/8e27322b/Oscar-Minambres,Oscar-Minamb,8e27322b,es ESP,"DF,MF",Real-Madrid
+17.0,Fernando Morientes,/en/players/bceebb25/Fernando-Morientes,Fernando-Morient,bceebb25,es ESP,FW,Real-Madrid
+18.0,Javier Portillo,/en/players/99058498/Javier-Portillo,Javier-Portillo,99058498,es ESP,FW,Real-Madrid
+19.0,Raúl Bravo,/en/players/65b9e56b/Raul-Bravo,Raul-Bravo,65b9e56b,es ESP,DF,Real-Madrid
+20.0,Rubén,/en/players/d0c06281/Ruben,Rub,d0c06281,es ESP,DF,Real-Madrid
+21.0,Tote,/en/players/e3e74421/Tote,Tot,3e74421,es ESP,"FW,MF",Real-Madrid
+22.0,Albert Celades,/en/players/61796b1f/Albert-Celades,Albert-Celad,61796b1f,es ESP,MF,Real-Madrid
+23.0,David Beckham,/en/players/53539318/David-Beckham,David-Beckham,53539318,eng ENG,MF,Real-Madrid
+24.0,Álvaro Mejía,/en/players/dd3f6a54/Alvaro-Mejia,Alvaro-Meji,dd3f6a54,es ESP,DF,Real-Madrid
+25.0,Borja Fernández,/en/players/9127f9ce/Borja-Fernandez,Borja-Fernandez,9127f9ce,es ESP,MF,Real-Madrid
+26.0,Juanfran,/en/players/cfd8d664/Juanfran,Juanf,cfd8d664,es ESP,"DF,MF",Real-Madrid
+27.0,Jordi López,/en/players/b6fe8a4c/Jordi-Lopez,Jordi-Lopez,b6fe8a4c,es ESP,MF,Real-Madrid
+28.0,César Sánchez,/en/players/c6e6e5d6/Cesar-Sanchez,Cesar-Sanchez,c6e6e5d6,es ESP,GK,Real-Madrid
+29.0,Antonio Núñez,/en/players/df89070b/Antonio-Nunez,Antonio-Nunez,df89070b,es ESP,MF,Real-Madrid
+30.0,Walter Samuel,/en/players/ceb6c79d/Walter-Samuel,Walter-Samu,ceb6c79d,ar ARG,DF,Real-Madrid
+31.0,Michael Owen,/en/players/88b3f52c/Michael-Owen,Michael-Ow,88b3f52c,eng ENG,FW,Real-Madrid
+32.0,Thomas Gravesen,/en/players/b769b5bd/Thomas-Gravesen,Thomas-Grav,b769b5bd,dk DEN,MF,Real-Madrid
+33.0,Álvaro Arbeloa,/en/players/6dc73abd/Alvaro-Arbeloa,Alvaro-Arbelo,6dc73abd,es ESP,DF,Real-Madrid
+34.0,Javi García,/en/players/167c1bb0/Javi-Garcia,Javi-Garci,167c1bb0,es ESP,"DF,MF",Real-Madrid
+35.0,Miguel Palencia,/en/players/933fc3bb/Miguel-Palencia,Miguel-Palenci,933fc3bb,es ESP,DF,Real-Madrid
+36.0,Jotha,/en/players/bed4387d/Jotha,Joth,bed4387d,es ESP,MF,Real-Madrid
+37.0,Sergio Ramos,/en/players/08511d65/Sergio-Ramos,Sergio-Ramo,08511d65,es ESP,DF,Real-Madrid
+38.0,Robinho,/en/players/f034613c/Robinho,Robinho,f034613c,br BRA,"FW,MF",Real-Madrid
+39.0,Júlio Baptista,/en/players/44557475/Julio-Baptista,Julio-Baptist,44557475,br BRA,"FW,MF",Real-Madrid
+40.0,Pablo García,/en/players/911299ca/Pablo-Garcia,Pablo-Garci,911299ca,uy URU,"DF,MF",Real-Madrid
+41.0,Cicinho,/en/players/9e4e6402/Cicinho,Cicinho,9e4e6402,br BRA,DF,Real-Madrid
+42.0,Carlos Diogo,/en/players/8da138d9/Carlos-Diogo,Carlos-Diogo,8da138d9,uy URU,"DF,MF",Real-Madrid
+43.0,Jonathan Woodgate,/en/players/9482a3bd/Jonathan-Woodgate,Jonathan-Woodgat,9482a3bd,eng ENG,DF,Real-Madrid
+44.0,Antonio Cassano,/en/players/d0ed4d32/Antonio-Cassano,Antonio-Cassano,d0ed4d32,it ITA,FW,Real-Madrid
+45.0,Roberto Soldado,/en/players/9d66fbe3/Roberto-Soldado,Roberto-Soldado,9d66fbe3,es ESP,FW,Real-Madrid
+46.0,Diego López,/en/players/73683fa9/Diego-Lopez,Diego-Lopez,73683fa9,es ESP,GK,Real-Madrid
+47.0,Javier Balboa,/en/players/cf0dbde3/Javier-Balboa,Javier-Balbo,cf0dbde3,gq EQG,"FW,MF",Real-Madrid
+48.0,Rubén de la Red,/en/players/75b08b25/Ruben-de-la-Red,Ruben-de-la-Red,75b08b25,es ESP,MF,Real-Madrid
+49.0,José Manuel Jurado,/en/players/71d4e271/Jose-Manuel-Jurado,Jose-Manuel-Jurado,71d4e271,es ESP,MF,Real-Madrid
+50.0,Ruud van Nistelrooy,/en/players/80a30989/Ruud-van-Nistelrooy,Ruud-van-Nistelroo,80a30989,nl NED,FW,Real-Madrid
+51.0,Fabio Cannavaro,/en/players/51152527/Fabio-Cannavaro,Fabio-Cannavaro,51152527,it ITA,DF,Real-Madrid
+52.0,Mahamadou Diarra,/en/players/4a6c3ade/Mahamadou-Diarra,Mahamadou-Di,4a6c3ade,ml MLI,MF,Real-Madrid
+53.0,Emerson,/en/players/67d57df1/Emerson,Emerso,67d57df1,br BRA,MF,Real-Madrid
+54.0,Miguel Torres,/en/players/44b61913/Miguel-Torres,Miguel-To,44b61913,es ESP,DF,Real-Madrid
+55.0,José Antonio Reyes,/en/players/19058f02/Jose-Antonio-Reyes,Jose-Antonio-R,19058f02,es ESP,MF,Real-Madrid
+56.0,Gonzalo Higuaín,/en/players/8a08491a/Gonzalo-Higuain,Gonzalo-Higuai,8a08491a,ar ARG,"FW,MF",Real-Madrid
+57.0,Fernando Gago,/en/players/e86337bd/Fernando-Gago,Fernando-Gago,86337bd,ar ARG,MF,Real-Madrid
+58.0,Marcelo,/en/players/603116a7/Marcelo,Marcelo,603116a7,br BRA,"DF,MF",Real-Madrid
+59.0,Miguel Ángel Nieto,/en/players/3a935b70/Miguel-Angel-Nieto,Miguel-Angel-Nieto,3a935b70,es ESP,MF,Real-Madrid
+60.0,Wesley Sneijder,/en/players/ad625c12/Wesley-Sneijder,Wesley-Sneijd,d625c12,nl NED,MF,Real-Madrid
+61.0,Pepe,/en/players/c906ce0f/Pepe,P,c906ce0f,pt POR,"DF,MF",Real-Madrid
+62.0,Gabriel Heinze,/en/players/54629cf9/Gabriel-Heinze,Gabriel-Heinz,54629cf9,ar ARG,DF,Real-Madrid
+63.0,Arjen Robben,/en/players/09586899/Arjen-Robben,Arjen-Robb,09586899,nl NED,"FW,MF",Real-Madrid
+64.0,Royston Drenthe,/en/players/3d512ff2/Royston-Drenthe,Royston-Drenth,3d512ff2,nl NED,"DF,MF",Real-Madrid
+65.0,Christoph Metzelder,/en/players/3f866377/Christoph-Metzelder,Christoph-Metzeld,3f866377,de GER,DF,Real-Madrid
+66.0,Javier Saviola,/en/players/de544fdb/Javier-Saviola,Javier-Savio,de544fdb,ar ARG,FW,Real-Madrid
+67.0,Jordi Codina,/en/players/812088cd/Jordi-Codina,Jordi-Codi,812088cd,es ESP,GK,Real-Madrid
+68.0,Jerzy Dudek,/en/players/1064659d/Jerzy-Dudek,Jerzy-Dudek,1064659d,pl POL,GK,Real-Madrid
+69.0,Lassana Diarra,/en/players/79584585/Lassana-Diarra,Lassana-Di,79584585,fr FRA,MF,Real-Madrid
+70.0,Rafael van der Vaart,/en/players/41473b67/Rafael-van-der-Vaart,Rafael-van-der-Vaart,41473b67,nl NED,MF,Real-Madrid
+71.0,Klaas-Jan Huntelaar,/en/players/5042e5c2/Klaas-Jan-Huntelaar,Klaas-Jan-Hunt,5042e5c2,nl NED,FW,Real-Madrid
+72.0,Gary Kagelmacher,/en/players/a2e9f252/Gary-Kagelmacher,Gary-Kagelmach,2e9f252,uy URU,DF,Real-Madrid
+73.0,Miguel Palanca,/en/players/005ade52/Miguel-Palanca,Miguel-Palanc,005ade52,es ESP,"FW,MF",Real-Madrid
+74.0,Daniel Parejo,/en/players/7460ca0d/Daniel-Parejo,Daniel-Parejo,7460ca0d,es ESP,MF,Real-Madrid
+75.0,Julien Faubert,/en/players/525642e0/Julien-Faubert,Julien-Faubert,525642e0,fr FRA,"DF,FW",Real-Madrid
+76.0,Marcos Tébar,/en/players/1e806be7/Marcos-Tebar,Marcos-Teb,1e806be7,es ESP,"DF,MF",Real-Madrid
+77.0,Alberto Bueno,/en/players/9b878773/Alberto-Bueno,Alberto-Bueno,9b878773,es ESP,"FW,MF",Real-Madrid
+78.0,Xabi Alonso,/en/players/dc001a06/Xabi-Alonso,Xabi-Alonso,dc001a06,es ESP,MF,Real-Madrid
+79.0,Raúl Albiol,/en/players/4bd414c1/Raul-Albiol,Raul-Albio,4bd414c1,es ESP,DF,Real-Madrid
+80.0,Cristiano Ronaldo,/en/players/dea698d9/Cristiano-Ronaldo,Cristiano-Ronaldo,dea698d9,pt POR,"FW,MF",Real-Madrid
+81.0,Esteban Granero,/en/players/1b17ed86/Esteban-Granero,Esteban-Granero,1b17ed86,es ESP,MF,Real-Madrid
+82.0,Kaká,/en/players/b2d6ea70/Kaka,Kak,b2d6ea70,br BRA,"FW,MF",Real-Madrid
+83.0,Ezequiel Garay,/en/players/ac3fb1be/Ezequiel-Garay,Ezequiel-G,c3fb1be,ar ARG,DF,Real-Madrid
+84.0,Karim Benzema,/en/players/70d74ece/Karim-Benzema,Karim-Benzem,70d74ece,fr FRA,FW,Real-Madrid
+85.0,Juanfran,/en/players/9ba48d64/Juanfran,Juanf,9ba48d64,es ESP,"DF,FW",Real-Madrid
+86.0,Marcos Alonso,/en/players/f4290206/Marcos-Alonso,Marcos-Alonso,f4290206,es ESP,"DF,MF",Real-Madrid
+87.0,Pedro Mosquera,/en/players/c5fa58ea/Pedro-Mosquera,Pedro-Mosqu,c5fa58ea,es ESP,MF,Real-Madrid
+88.0,Ricardo Carvalho,/en/players/57e7081e/Ricardo-Carvalho,Ricardo-Carvalho,57e7081e,pt POR,DF,Real-Madrid
+89.0,Mesut Özil,/en/players/16380240/Mesut-Ozil,Mesut-Ozi,16380240,de GER,MF,Real-Madrid
+90.0,Ángel Di María,/en/players/19cda00b/Angel-Di-Maria,Angel-Di-Mari,19cda00b,ar ARG,"FW,MF",Real-Madrid
+91.0,Sami Khedira,/en/players/38ac43d3/Sami-Khedira,Sami-Khedi,38ac43d3,de GER,MF,Real-Madrid
+92.0,Sergio Canales,/en/players/a6de370d/Sergio-Canales,Sergio-C,6de370d,es ESP,MF,Real-Madrid
+93.0,Antonio Adán,/en/players/65d62814/Antonio-Adan,Antonio-Ad,65d62814,es ESP,GK,Real-Madrid
+94.0,Nacho,/en/players/2946f9a1/Nacho,Nacho,2946f9a1,es ESP,DF,Real-Madrid
+95.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,"FW,MF",Real-Madrid
+96.0,Jesús,/en/players/fba3c8c1/Jesus,Jesu,fba3c8c1,es ESP,GK,Real-Madrid
+97.0,Juankar,/en/players/e9a12436/Juankar,Juank,9a12436,es ESP,"DF,FW",Real-Madrid
+98.0,Tomás Mejías,/en/players/dc0c0fd9/Tomas-Mejias,Tomas-Meji,dc0c0fd9,es ESP,GK,Real-Madrid
+99.0,Joselu,/en/players/6265208f/Joselu,Joselu,6265208f,es ESP,FW,Real-Madrid
+100.0,Álex Fernández,/en/players/aa677a35/Alex-Fernandez,Alex-Fernandez,677a35,es ESP,"DF,MF",Real-Madrid
+101.0,Álvaro Morata,/en/players/129af0db/Alvaro-Morata,Alvaro-Morat,129af0db,es ESP,FW,Real-Madrid
+102.0,Fábio Coentrão,/en/players/0f8bd0a6/Fabio-Coentrao,Fabio-Coentrao,0f8bd0a6,pt POR,DF,Real-Madrid
+103.0,Raphaël Varane,/en/players/9f8e9423/Raphael-Varane,Raphael-V,9f8e9423,fr FRA,"DF,MF",Real-Madrid
+104.0,José Callejón,/en/players/78841da9/Jose-Callejon,Jose-Callejo,78841da9,es ESP,"FW,MF",Real-Madrid
+105.0,Nuri Şahin,/en/players/f4081572/Nuri-Sahin,Nuri-Sahi,f4081572,tr TUR,MF,Real-Madrid
+106.0,Hamit Altıntop,/en/players/98e33da5/Hamit-Altintop,Hamit-Altinto,98e33da5,tr TUR,"DF,MF",Real-Madrid
+107.0,Jesé,/en/players/4a537185/Jese,J,4a537185,es ESP,"FW,MF",Real-Madrid
+108.0,Luka Modrić,/en/players/6025fab1/Luka-Modric,Luka-Modric,6025fab1,hr CRO,MF,Real-Madrid
+109.0,Michael Essien,/en/players/d6577282/Michael-Essien,Michael-Essi,d6577282,gh GHA,"DF,MF",Real-Madrid
+110.0,Casemiro,/en/players/4d224fe8/Casemiro,Casemiro,4d224fe8,br BRA,MF,Real-Madrid
+111.0,Fabinho,/en/players/7f3b388c/Fabinho,Fabinho,7f3b388c,br BRA,"DF,MF",Real-Madrid
+112.0,Omar Mascarell,/en/players/11fd2b75/Omar-Mascarell,Omar-Masc,11fd2b75,es ESP,MF,Real-Madrid
+113.0,Diego Llorente,/en/players/bba30585/Diego-Llorente,Diego-Llorent,bba30585,es ESP,DF,Real-Madrid
+114.0,José Rodríguez,/en/players/55e81c76/Jose-Rodriguez,Jose-Rodriguez,55e81c76,es ESP,MF,Real-Madrid
+115.0,Dani Carvajal,/en/players/4958bfb2/Dani-Carvajal,Dani-Carvaj,4958bfb2,es ESP,DF,Real-Madrid
+116.0,Gareth Bale,/en/players/a58bb1e1/Gareth-Bale,Gareth-B,58bb1e1,wls WAL,"FW,MF",Real-Madrid
+117.0,Isco,/en/players/a0b4bb3e/Isco,Isco,0b4bb3e,es ESP,"FW,MF",Real-Madrid
+118.0,Asier Illarramendi,/en/players/5ce0b5ba/Asier-Illarramendi,Asier-Illarramendi,5ce0b5ba,es ESP,MF,Real-Madrid
+119.0,Willian José,/en/players/d87e2cae/Willian-Jose,Willian-Jo,d87e2cae,br BRA,FW,Real-Madrid
+120.0,﻿Toni Kroos,/en/players/6ce1f46f/Toni-Kroos,Toni-Kroo,6ce1f46f,de GER,MF,Real-Madrid
+121.0,James Rodríguez,/en/players/715bf047/James-Rodriguez,James-Rodriguez,715bf047,co COL,"FW,MF",Real-Madrid
+122.0,Javier Hernández,/en/players/189cee7b/Javier-Hernandez,Javier-Hernandez,189cee7b,mx MEX,FW,Real-Madrid
+123.0,Lucas Silva,/en/players/1c646218/Lucas-Silva,Lucas-Silv,1c646218,br BRA,MF,Real-Madrid
+124.0,Martin Ødegaard,/en/players/79300479/Martin-Odegaard,Martin-Odegaard,79300479,no NOR,"FW,MF",Real-Madrid
+125.0,Álvaro Medrán,/en/players/31223bcf/Alvaro-Medran,Alvaro-Med,31223bcf,es ESP,MF,Real-Madrid
+126.0,Sergio Aguza,/en/players/b8e26df0/Sergio-Aguza,Sergio-Aguz,b8e26df0,es ESP,MF,Real-Madrid
+127.0,Borja Mayoral,/en/players/64e8ed6d/Borja-Mayoral,Borja-Mayo,64e8ed6d,es ESP,FW,Real-Madrid
+128.0,Javier Muñoz,/en/players/ec7c84c2/Javier-Munoz,Javier-Munoz,c7c84c2,es ESP,MF,Real-Madrid
+129.0,Fernando Pacheco,/en/players/97852360/Fernando-Pacheco,Fernando-Pacheco,97852360,es ESP,GK,Real-Madrid
+130.0,Raúl de Tomás,/en/players/02ef8778/Raul-de-Tomas,Raul-de-Tom,02ef8778,es ESP,FW,Real-Madrid
+131.0,Keylor Navas,/en/players/ecada4fc/Keylor-Navas,Keylor-Nav,cada4fc,cr CRC,GK,Real-Madrid
+132.0,Danilo,/en/players/94b2001f/Danilo,Danilo,94b2001f,br BRA,DF,Real-Madrid
+133.0,Lucas Vázquez,/en/players/fd51b456/Lucas-Vazquez,Lucas-Vazquez,fd51b456,es ESP,"FW,MF",Real-Madrid
+134.0,Mateo Kovačić,/en/players/79c0821a/Mateo-Kovacic,Mateo-Kovacic,79c0821a,hr CRO,MF,Real-Madrid
+135.0,Kiko Casilla,/en/players/58bc7d18/Kiko-Casilla,Kiko-Casi,58bc7d18,es ESP,GK,Real-Madrid
+136.0,Denis Cheryshev,/en/players/0ac94a23/Denis-Cheryshev,Denis-Cheryshev,0ac94a23,ru RUS,"FW,MF",Real-Madrid
+137.0,Marcos Llorente,/en/players/02c15616/Marcos-Llorente,Marcos-Llorent,02c15616,es ESP,"DF,MF",Real-Madrid
+138.0,José Carlos Lazo,/en/players/5b93209a/Jose-Carlos-Lazo,Jose-Carlos-Lazo,5b93209a,es ESP,MF,Real-Madrid
+139.0,Philipp Lienhart,/en/players/302527b2/Philipp-Lienhart,Philipp-Lienhart,302527b2,at AUT,DF,Real-Madrid
+140.0,Álvaro Tejero,/en/players/868ce848/Alvaro-Tejero,Alvaro-Tejero,868ce848,es ESP,DF,Real-Madrid
+141.0,Rubén Yáñez,/en/players/039ae103/Ruben-Yanez,Ruben-Yanez,039ae103,es ESP,GK,Real-Madrid
+142.0,Marco Asensio,/en/players/45af8a54/Marco-Asensio,Marco-Asensio,45af8a54,es ESP,"FW,MF",Real-Madrid
+143.0,Mariano,/en/players/5c4dc0ff/Mariano,Mariano,5c4dc0ff,do DOM,FW,Real-Madrid
+144.0,Achraf Hakimi,/en/players/e42d61c7/Achraf-Hakimi,Achraf-Hakimi,42d61c7,ma MAR,"DF,MF",Real-Madrid
+145.0,Theo Hernández,/en/players/d4c9725f/Theo-Hernandez,Theo-Hernandez,d4c9725f,fr FRA,DF,Real-Madrid
+146.0,Jesús Vallejo,/en/players/c2111b45/Jesus-Vallejo,Jesus-Vallejo,c2111b45,es ESP,DF,Real-Madrid
+147.0,Dani Ceballos,/en/players/c0617e2b/Dani-Ceballos,Dani-Ceballo,c0617e2b,es ESP,MF,Real-Madrid
+148.0,Luca Zidane,/en/players/c818c4d9/Luca-Zidane,Luca-Zid,c818c4d9,fr FRA,GK,Real-Madrid
+149.0,Franchu Feuillassier,/en/players/615667bb/Franchu-Feuillassier,Franchu-Feuillassi,615667bb,ar ARG,MF,Real-Madrid
+150.0,Moha,/en/players/97ceacc3/Moha,Moh,97ceacc3,es ESP,GK,Real-Madrid
+151.0,Luismi Quezada,/en/players/53440b3c/Luismi-Quezada,Luismi-Quezad,53440b3c,do DOM,DF,Real-Madrid
+152.0,Óscar Rodríguez Arnaiz,/en/players/19709006/Oscar-Rodriguez-Arnaiz,Oscar-Rodriguez-Arnaiz,19709006,es ESP,MF,Real-Madrid
+153.0,Thibaut Courtois,/en/players/1840e36d/Thibaut-Courtois,Thibaut-Courtoi,1840e36d,be BEL,GK,Real-Madrid
+154.0,Sergio Reguilón,/en/players/3353737a/Sergio-Reguilon,Sergio-Reguilo,3353737a,es ESP,DF,Real-Madrid
+155.0,Vinicius Júnior,/en/players/7111d552/Vinicius-Junior,Vinicius-Junio,7111d552,br BRA,"FW,MF",Real-Madrid
+156.0,Federico Valverde,/en/players/0959c2a2/Federico-Valverde,Federico-Valverd,0959c2a2,uy URU,MF,Real-Madrid
+157.0,Brahim Díaz,/en/players/407feb71/Brahim-Diaz,Brahim-Diaz,407feb71,es ESP,"FW,MF",Real-Madrid
+158.0,Javi Sánchez,/en/players/60359288/Javi-Sanchez,Javi-Sanchez,60359288,es ESP,DF,Real-Madrid
+159.0,Cristo González,/en/players/896b5df2/Cristo-Gonzalez,Cristo-Gonzalez,896b5df2,es ESP,FW,Real-Madrid
+160.0,Jaime Seoane,/en/players/a62b4888/Jaime-Seoane,Jaime-Seo,62b4888,es ESP,MF,Real-Madrid
+161.0,Ferland Mendy,/en/players/3cefcaef/Ferland-Mendy,Ferland-Mend,3cefcaef,fr FRA,DF,Real-Madrid
+162.0,Eden Hazard,/en/players/a39bb753/Eden-Hazard,Eden-Hazard,39bb753,be BEL,"FW,MF",Real-Madrid
+163.0,Rodrygo,/en/players/8f5e92a6/Rodrygo,Rodrygo,8f5e92a6,br BRA,FW,Real-Madrid
+164.0,Éder Militão,/en/players/2784f898/Eder-Militao,Eder-Militao,2784f898,br BRA,DF,Real-Madrid
+165.0,Luka Jović,/en/players/4d8cd038/Luka-Jovic,Luka-Jovic,4d8cd038,rs SRB,FW,Real-Madrid
+166.0,Alphonse Areola,/en/players/2f965a72/Alphonse-Areola,Alphonse-Areo,2f965a72,fr FRA,GK,Real-Madrid
+167.0,Álvaro Odriozola,/en/players/1d1691ad/Alvaro-Odriozola,Alvaro-Odriozo,1d1691ad,es ESP,DF,Real-Madrid
+168.0,Altube,/en/players/e4cbb095/Altube,Altub,4cbb095,es ESP,GK,Real-Madrid
+169.0,Miguel Gutiérrez,/en/players/7e98cff1/Miguel-Gutierrez,Miguel-Gutierrez,7e98cff1,es ESP,DF,Real-Madrid
+170.0,Javi,/en/players/9a76c2e9/Javi,Javi,9a76c2e9,es ESP,DF,Real-Madrid
+171.0,Luis López,/en/players/ccb491d0/Luis-Lopez,Luis-Lopez,ccb491d0,es ESP,GK,Real-Madrid
+172.0,Blanco,/en/players/506daeac/Blanco,Blanco,506daeac,es ESP,MF,Real-Madrid
+173.0,Marvin,/en/players/efaefda0/Marvin,Marvi,faefda0,es ESP,"MF,DF",Real-Madrid
+174.0,Víctor Chust,/en/players/ec1a731e/Victor-Chust,Victor-Chust,c1a731e,es ESP,DF,Real-Madrid
+175.0,Sergio Arribas,/en/players/1e465e70/Sergio-Arribas,Sergio-Arrib,1e465e70,es ESP,"MF,FW",Real-Madrid
+176.0,Hugo Duro,/en/players/37e103f8/Hugo-Duro,Hugo-Duro,37e103f8,es ESP,FW,Real-Madrid
+177.0,Óscar Aranda,/en/players/4d3bdda7/Oscar-Aranda,Oscar-Arand,4d3bdda7,es ESP,FW,Real-Madrid
+178.0,Lucas Cañizars,/en/players/7e84906e/Lucas-Canizars,Lucas-Caniz,7e84906e,es ESP,GK,Real-Madrid
+179.0,Andriy Lunin,/en/players/3061e1ec/Andriy-Lunin,Andriy-Luni,3061e1ec,ua UKR,GK,Real-Madrid
+180.0,Pablo Ramon,/en/players/03cb6ca0/Pablo-Ramon,Pablo-Ramo,03cb6ca0,es ESP,DF,Real-Madrid
+181.0,Sergio Santos,/en/players/cf59e05f/Sergio-Santos,Sergio-Santo,cf59e05f,es ESP,DF,Real-Madrid
+182.0,David Alaba,/en/players/05439de2/David-Alaba,David-Alab,05439de2,at AUT,DF,Real-Madrid
+183.0,Eduardo Camavinga,/en/players/7b9c2d84/Eduardo-Camavinga,Eduardo-Camaving,7b9c2d84,fr FRA,MF,Real-Madrid
+184.0,Peter González,/en/players/1ccd3dae/Peter-Gonzalez,Peter-Gonzalez,1ccd3dae,do DOM,"MF,DF",Real-Madrid
+185.0,Mario Gila,/en/players/9c435456/Mario-Gila,Mario-Gi,9c435456,es ESP,DF,Real-Madrid
+186.0,Latasa,/en/players/2bea832e/Latasa,Lat,2bea832e,es ESP,FW,Real-Madrid
+187.0,Toni Fuidias,/en/players/33d2c795/Toni-Fuidias,Toni-Fuidi,33d2c795,es ESP,GK,Real-Madrid
+188.0,Diego Piñeiro,/en/players/ef6a4afe/Diego-Pineiro,Diego-Pineiro,f6a4afe,es ESP,GK,Real-Madrid
+189.0,Rafa,/en/players/3239a8ed/Rafa,Raf,3239a8ed,es ESP,DF,Real-Madrid

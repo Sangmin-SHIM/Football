@@ -1,524 +1,524 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿José Luís Vidigal,pt POR,MF,33,33,0.0,5.0,2002-2003,10011693,Napoli,"2,970",33.0,8.0,0.0,190.0,3.0,
-,Antonio Bocchetti,it ITA,DF,35,33,1.0,1.0,2002-2003,29e679e1,Napoli,"2,881",32.0,6.0,0.0,190.0,9.0,
-,Mauro Bonomi,it ITA,DF,32,31,0.0,1.0,2002-2003,449d5f83,Napoli,"2,824",31.4,12.0,1.0,190.0,9.0,
-,Davide Dionigi,it ITA,MF,31,29,5.0,18.0,2002-2003,83dc0b9c,Napoli,"2,583",28.7,4.0,0.0,190.0,9.0,
-,Francesco Mancini,it ITA,GK,28,27,0.0,0.0,2002-2003,6edcd2db,Napoli,"2,380",26.4,1.0,0.0,190.0,9.0,
-,Francesco Baldini,it ITA,DF,25,24,0.0,1.0,2002-2003,0d796e28,Napoli,"2,122",23.6,2.0,0.0,190.0,9.0,
-,Roberto Stellone,it ITA,FW,27,24,3.0,8.0,2002-2003,72f23b97,Napoli,"2,058",22.9,3.0,0.0,190.0,9.0,
-,Gonzalo Martínez,co COL,DF,20,20,3.0,0.0,2002-2003,66b813e6,Napoli,"1,724",19.2,3.0,0.0,190.0,19.0,
-,Emanuele Troise,it ITA,DF,23,20,0.0,0.0,2002-2003,da129c1e,Napoli,"1,722",19.1,4.0,0.0,190.0,9.0,
-,Dario Marcolin,it ITA,MF,19,19,2.0,0.0,2002-2003,c20a2842,Napoli,"1,656",18.4,4.0,0.0,190.0,9.0,
-,Rubens Pasino,it ITA,MF,19,17,5.0,0.0,2002-2003,d5a24f81,Napoli,"1,466",16.3,0.0,0.0,190.0,9.0,
-,Montezine,qa QAT,MF,27,15,6.0,2.0,2002-2003,01f66113,Napoli,"1,378",15.3,3.0,0.0,190.0,113.0,
-,Maurizio D'Angelo,it ITA,DF,15,15,0.0,0.0,2002-2003,7ee9c38a,Napoli,"1,269",14.1,5.0,1.0,190.0,9.0,
-,Abdelilah Saber,ma MAR,DF,19,14,0.0,1.0,2002-2003,8fb4fb96,Napoli,"1,193",13.3,4.0,0.0,190.0,26.0,
-,Alberto Savino,it ITA,DF,14,14,0.0,0.0,2002-2003,824a769d,Napoli,"1,126",12.5,3.0,1.0,190.0,9.0,
-,Antonio Floro Flores,it ITA,FW,32,12,4.0,3.0,2002-2003,d6846501,Napoli,"1,298",14.4,1.0,0.0,190.0,9.0,
-,Francesco Montervino,it ITA,MF,16,12,0.0,0.0,2002-2003,7efa108b,Napoli,"1,150",12.8,4.0,0.0,190.0,9.0,
-,David Sesa,ch SUI,"FW,MF",18,11,1.0,2.0,2002-2003,85aadde2,Napoli,"1,107",12.3,1.0,0.0,190.0,39.0,
-,Claudio Husaín,ar ARG,MF,11,11,0.0,0.0,2002-2003,d87e872e,Napoli,893,9.9,5.0,0.0,190.0,5.0,
-,Claudio Ferrarese,it ITA,MF,14,10,1.0,0.0,2002-2003,d1d96205,Napoli,"1,011",11.2,1.0,1.0,190.0,9.0,
-,Emanuele Manitta,it ITA,GK,8,8,0.0,0.0,2002-2003,be5bf625,Napoli,716,8.0,0.0,0.0,190.0,9.0,
-,Domenico Cristiano,it ITA,MF,11,6,0.0,0.0,2002-2003,d1d8b250,Napoli,558,6.2,5.0,1.0,190.0,9.0,
-,Matteo Villa,it ITA,DF,4,4,0.0,0.0,2002-2003,6f295477,Napoli,324,3.6,1.0,0.0,190.0,9.0,
-,Mariano Stendardo,it ITA,DF,8,4,0.0,0.0,2002-2003,7f1c3622,Napoli,313,3.5,1.0,1.0,190.0,9.0,
-,Marco Storari,it ITA,GK,4,3,0.0,0.0,2002-2003,fb5eb6e0,Napoli,334,3.7,0.0,0.0,190.0,9.0,
-,Marco Quadrini,it ITA,DF,6,2,0.0,0.0,2002-2003,ba24f061,Napoli,289,3.2,2.0,1.0,190.0,9.0,
-,Massimo Russo,,,4,0,0.0,0.0,2002-2003,,Napoli,84,0.9,0.0,0.0,190.0,,
-,Vincenzo Platone,,,2,0,0.0,0.0,2002-2003,,Napoli,35,0.4,0.0,0.0,190.0,,
-,Nicola Mancino,,,1,0,0.0,0.0,2002-2003,,Napoli,19,0.2,0.0,0.0,190.0,,
-,Raffaele Pianese,,,2,0,0.0,0.0,2002-2003,578ff789,Napoli,18,0.2,0.0,0.0,190.0,,
-,Carlos Pavón,hn HON,FW,1,0,0.0,0.0,2002-2003,9f671024,Napoli,13,0.1,0.0,0.0,190.0,107.0,
-,Raffaele Gragnaniello,it ITA,GK,1,0,0.0,0.0,2002-2003,63f12568,Napoli,4,0.0,0.0,0.0,190.0,9.0,
-,﻿Emanuele Manitta,it ITA,GK,41,41,0.0,0.0,2003-2004,be5bf625,Napoli,"3,671",40.8,1.0,0.0,190.0,9.0,
-,Vittorio Tosto,it ITA,DF,38,38,2.0,5.0,2003-2004,7ac92ed1,Napoli,"3,234",35.9,4.0,0.0,190.0,9.0,
-,Marco Zamboni,it ITA,DF,37,36,5.0,3.0,2003-2004,b055e962,Napoli,"3,281",36.5,2.0,1.0,190.0,9.0,
-,Davide Dionigi,it ITA,MF,32,32,2.0,8.0,2003-2004,83dc0b9c,Napoli,"2,515",27.9,6.0,0.0,190.0,9.0,
-,Daniele Portanova,it ITA,DF,31,30,1.0,0.0,2003-2004,19dee7dd,Napoli,"2,715",30.2,6.0,0.0,190.0,9.0,
-,Mauro Bonomi,it ITA,DF,30,30,0.0,0.0,2003-2004,449d5f83,Napoli,"2,670",29.7,5.0,0.0,190.0,9.0,
-,Andrea Bernini,it ITA,MF,32,30,0.0,1.0,2003-2004,3e9454d8,Napoli,"2,535",28.2,8.0,0.0,190.0,9.0,
-,Nicola Zanini,it ITA,MF,36,28,1.0,5.0,2003-2004,40cbc47c,Napoli,"2,260",25.1,2.0,0.0,190.0,9.0,
-,José Luís Vidigal,pt POR,MF,28,26,0.0,0.0,2003-2004,10011693,Napoli,"2,298",25.5,7.0,0.0,190.0,3.0,
-,Massimo Carrera,it ITA,DF,26,25,0.0,0.0,2003-2004,8e09a712,Napoli,"2,110",23.4,1.0,0.0,190.0,9.0,
-,Dario Marcolin,it ITA,MF,28,24,0.0,0.0,2003-2004,c20a2842,Napoli,"2,062",22.9,4.0,1.0,190.0,9.0,
-,Cataldo Montesanto,it ITA,MF,27,22,0.0,0.0,2003-2004,7cd036ad,Napoli,"1,895",21.1,9.0,0.0,190.0,9.0,
-,Alessandro Del Grosso,it ITA,DF,19,17,0.0,1.0,2003-2004,70747da7,Napoli,"1,541",17.1,1.0,0.0,190.0,9.0,
-,Marko Perović,rs SRB,MF,15,14,0.0,3.0,2003-2004,141164,Napoli,"1,244",13.8,3.0,0.0,190.0,28.0,
-,Renato Olive,it ITA,MF,17,14,0.0,0.0,2003-2004,c1387a46,Napoli,"1,145",12.7,6.0,1.0,190.0,9.0,
-,Max Vieri,au AUS,FW,29,12,1.0,5.0,2003-2004,414b83c3,Napoli,"1,468",16.3,0.0,0.0,190.0,42.0,
-,Francesco Montervino,it ITA,MF,20,12,0.0,0.0,2003-2004,7efa108b,Napoli,"1,073",11.9,1.0,0.0,190.0,9.0,
-,Rubens Pasino,it ITA,MF,22,11,4.0,1.0,2003-2004,d5a24f81,Napoli,"1,154",12.8,4.0,0.0,190.0,9.0,
-,Antonio Floro Flores,it ITA,FW,14,9,2.0,1.0,2003-2004,d6846501,Napoli,864,9.6,0.0,0.0,190.0,9.0,
-,Gianluca Savoldi,it ITA,FW,13,8,0.0,2.0,2003-2004,6b4cbc17,Napoli,686,7.6,1.0,1.0,190.0,9.0,
-,Mario Cvitanović,hr CRO,DF,9,7,0.0,0.0,2003-2004,210801ab,Napoli,705,7.8,0.0,0.0,190.0,16.0,
-,Montezine,qa QAT,MF,20,6,3.0,0.0,2003-2004,01f66113,Napoli,810,9.0,3.0,0.0,190.0,113.0,
-,David Sesa,ch SUI,"FW,MF",22,5,0.0,0.0,2003-2004,85aadde2,Napoli,689,7.7,2.0,0.0,190.0,39.0,
-,Gonzalo Martínez,co COL,DF,12,5,0.0,0.0,2003-2004,66b813e6,Napoli,507,5.6,0.0,0.0,190.0,19.0,
-,Gennaro Esposito,it ITA,MF,5,4,0.0,0.0,2003-2004,3e850c9,Napoli,421,4.7,1.0,0.0,190.0,9.0,
-,Sean Sogliano,it ITA,DF,6,4,0.0,0.0,2003-2004,54875eee,Napoli,405,4.5,3.0,0.0,190.0,9.0,
-,Pierluigi Brivio,it ITA,GK,4,4,0.0,0.0,2003-2004,530af82,Napoli,360,4.0,0.0,0.0,190.0,9.0,
-,Marco Quadrini,it ITA,DF,3,1,0.0,0.0,2003-2004,ba24f061,Napoli,97,1.1,0.0,0.0,190.0,9.0,
-,Nunzio Di Roberto,it ITA,FW,2,0,0.0,0.0,2003-2004,97b1ac7a,Napoli,46,0.5,0.0,0.0,190.0,9.0,
-,Raffaele Pianese,,,1,0,0.0,0.0,2003-2004,578ff789,Napoli,11,0.1,0.0,0.0,190.0,,
-,Marcello D'Angelo,,,1,0,0.0,0.0,2003-2004,,Napoli,9,0.1,0.0,0.0,190.0,,
-,Raffaele Sorriso,,,1,0,0.0,0.0,2003-2004,,Napoli,6,0.1,0.0,0.0,190.0,,
-,Giuseppe Vitagliano,,,1,0,0.0,0.0,2003-2004,,Napoli,5,0.1,0.0,0.0,190.0,,
-,﻿Gennaro Iezzo,it ITA,GK,39,39,0.0,0.0,2006-2007,778fbda,Napoli,"3,431",38.1,2.0,0.0,190.0,9.0,
-,Paolo Cannavaro,it ITA,DF,39,39,0.0,2.0,2006-2007,46ed55b6,Napoli,"3,384",37.6,11.0,1.0,190.0,9.0,
-,Gianluca Grava,it ITA,DF,38,38,3.0,1.0,2006-2007,df7d9a25,Napoli,"3,232",35.9,10.0,1.0,190.0,9.0,
-,Mariano Bogliacino,uy URU,MF,37,37,3.0,6.0,2006-2007,b028814,Napoli,"3,234",35.9,10.0,0.0,190.0,8.0,
-,Maurizio Domizzi,it ITA,DF,36,35,1.0,2.0,2006-2007,822aad0c,Napoli,"3,122",34.7,7.0,0.0,190.0,9.0,
-,Emanuele Calaiò,it ITA,FW,38,34,5.0,14.0,2006-2007,412488f,Napoli,"2,780",30.9,3.0,3.0,190.0,9.0,
-,Mirko Savini,it ITA,DF,33,33,3.0,0.0,2006-2007,c0ce99db,Napoli,"2,778",30.9,13.0,1.0,190.0,9.0,
-,Rubén Maldonado,py PAR,DF,32,29,1.0,1.0,2006-2007,9cef03a0,Napoli,"2,568",28.5,6.0,2.0,190.0,43.0,
-,Samuele Dalla Bona,it ITA,MF,32,28,4.0,3.0,2006-2007,70a59026,Napoli,"2,333",25.9,7.0,0.0,190.0,9.0,
-,Cristian Bucchi,it ITA,FW,29,22,0.0,8.0,2006-2007,8df7ea1e,Napoli,"1,832",20.4,1.0,0.0,190.0,9.0,
-,Roberto De Zerbi,it ITA,"FW,MF",30,20,8.0,3.0,2006-2007,1374b9c5,Napoli,"1,845",20.5,8.0,0.0,190.0,9.0,
-,Fabio Gatti,it ITA,MF,23,19,1.0,0.0,2006-2007,4424bcaf,Napoli,"1,528",17.0,8.0,0.0,190.0,9.0,
-,Erminio Rullo,it ITA,DF,25,18,1.0,0.0,2006-2007,3c828c5,Napoli,"1,699",18.9,4.0,1.0,190.0,9.0,
-,Nicolás Amodio,uy URU,MF,24,18,0.0,0.0,2006-2007,384bedb7,Napoli,"1,633",18.1,7.0,1.0,190.0,8.0,
-,Francesco Montervino,it ITA,MF,27,16,0.0,1.0,2006-2007,7efa108b,Napoli,"1,584",17.6,8.0,1.0,190.0,9.0,
-,Roberto Sosa,ar ARG,FW,32,11,1.0,6.0,2006-2007,4698b988,Napoli,"1,319",14.7,3.0,0.0,190.0,5.0,
-,David Giubilato,it ITA,DF,15,10,0.0,0.0,2006-2007,46284816,Napoli,999,11.1,2.0,0.0,190.0,9.0,
-,Piá,br BRA,"FW,MF",21,9,2.0,2.0,2006-2007,b10cb9ec,Napoli,926,10.3,3.0,0.0,190.0,2.0,
-,György Garics,at AUT,"DF,MF",11,8,0.0,0.0,2006-2007,ca50fc0e,Napoli,745,8.3,2.0,0.0,190.0,24.0,
-,Ivano Trotta,it ITA,MF,28,6,3.0,2.0,2006-2007,d9e5c75,Napoli,"1,050",11.7,3.0,0.0,190.0,9.0,
-,Matteo Gianello,it ITA,GK,4,3,0.0,0.0,2006-2007,2863ca7e,Napoli,349,3.9,0.0,0.0,190.0,9.0,
-,Marco Capparella,it ITA,"FW,MF",8,2,0.0,0.0,2006-2007,6e57680,Napoli,162,1.8,1.0,0.0,190.0,9.0,
-,Luigi Vitale,it ITA,"DF,FW",1,1,0.0,0.0,2006-2007,fe479e17,Napoli,77,0.9,0.0,0.0,190.0,9.0,
-,﻿Walter Gargano,uy URU,MF,34,34,1.0,2.0,2007-2008,f7cb73ec,Napoli,"3,007",33.4,5.0,2.0,190.0,8.0,
-,Paolo Cannavaro,it ITA,DF,34,34,0.0,0.0,2007-2008,46ed55b6,Napoli,"3,006",33.4,8.0,1.0,190.0,9.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",35,34,7.0,8.0,2007-2008,6d6456d7,Napoli,"2,977",33.1,6.0,0.0,190.0,5.0,
-,Marek Hamšík,sk SVK,MF,37,34,3.0,9.0,2007-2008,6ad16b2,Napoli,"2,892",32.1,4.0,0.0,190.0,70.0,
-,Maurizio Domizzi,it ITA,DF,29,29,1.0,8.0,2007-2008,822aad0c,Napoli,"2,533",28.1,11.0,2.0,190.0,9.0,
-,Mirko Savini,it ITA,DF,29,29,0.0,0.0,2007-2008,c0ce99db,Napoli,"2,401",26.7,8.0,0.0,190.0,9.0,
-,Manuele Blasi,it ITA,MF,27,27,0.0,0.0,2007-2008,7aae335a,Napoli,"2,328",25.9,16.0,1.0,190.0,9.0,
-,Matteo Contini,it ITA,DF,28,22,0.0,1.0,2007-2008,dec20583,Napoli,"1,923",21.4,10.0,0.0,190.0,9.0,
-,Marcelo Zalayeta,uy URU,FW,22,21,2.0,8.0,2007-2008,707e472c,Napoli,"1,740",19.3,0.0,1.0,190.0,8.0,
-,Gennaro Iezzo,it ITA,GK,19,19,0.0,0.0,2007-2008,778fbda,Napoli,"1,710",19.0,0.0,0.0,190.0,9.0,
-,György Garics,at AUT,"DF,MF",26,17,0.0,1.0,2007-2008,ca50fc0e,Napoli,"1,660",18.4,3.0,0.0,190.0,24.0,
-,Mariano Bogliacino,uy URU,MF,35,16,3.0,3.0,2007-2008,b028814,Napoli,"1,548",17.2,1.0,0.0,190.0,8.0,
-,Matteo Gianello,it ITA,GK,16,16,0.0,0.0,2007-2008,2863ca7e,Napoli,"1,440",16.0,1.0,0.0,190.0,9.0,
-,Andrea Cupi,it ITA,DF,16,16,0.0,0.0,2007-2008,1adbe6a8,Napoli,"1,193",13.3,1.0,0.0,190.0,9.0,
-,Daniele Mannini,it ITA,MF,15,15,1.0,1.0,2007-2008,bf1be8ff,Napoli,"1,218",13.5,6.0,0.0,190.0,9.0,
-,Gianluca Grava,it ITA,DF,19,13,0.0,0.0,2007-2008,df7d9a25,Napoli,"1,207",13.4,2.0,0.0,190.0,9.0,
-,Fabiano Santacroce,it ITA,DF,13,11,1.0,0.0,2007-2008,99036505,Napoli,"1,015",11.3,7.0,0.0,190.0,9.0,
-,Roberto Sosa,ar ARG,FW,30,8,1.0,6.0,2007-2008,4698b988,Napoli,"1,116",12.4,3.0,0.0,190.0,5.0,
-,Michele Pazienza,it ITA,MF,13,8,0.0,0.0,2007-2008,9f5d69e7,Napoli,804,8.9,4.0,0.0,190.0,9.0,
-,Emanuele Calaiò,it ITA,FW,26,7,0.0,2.0,2007-2008,412488f,Napoli,820,9.1,1.0,0.0,190.0,9.0,
-,Nicolás Navarro,ar ARG,GK,3,3,0.0,0.0,2007-2008,c2133be8,Napoli,270,3.0,0.0,0.0,190.0,5.0,
-,Erminio Rullo,it ITA,DF,4,2,0.0,0.0,2007-2008,3c828c5,Napoli,156,1.7,2.0,0.0,190.0,9.0,
-,Francesco Montervino,it ITA,MF,9,1,0.0,0.0,2007-2008,7efa108b,Napoli,192,2.1,0.0,0.0,190.0,9.0,
-,Rubén Maldonado,py PAR,DF,2,1,0.0,0.0,2007-2008,9cef03a0,Napoli,143,1.6,0.0,0.0,190.0,43.0,
-,Roberto De Zerbi,it ITA,"FW,MF",3,1,0.0,0.0,2007-2008,1374b9c5,Napoli,114,1.3,0.0,0.0,190.0,9.0,
-,Samuele Dalla Bona,it ITA,MF,2,0,0.0,0.0,2007-2008,70a59026,Napoli,45,0.5,0.0,0.0,190.0,9.0,
-,Marco Capparella,it ITA,"FW,MF",2,0,0.0,0.0,2007-2008,6e57680,Napoli,26,0.3,0.0,0.0,190.0,9.0,
-,﻿Matteo Contini,it ITA,DF,34,31,0.0,0.0,2008-2009,dec20583,Napoli,"2,876",32.0,9.0,0.0,190.0,9.0,
-,Manuele Blasi,it ITA,MF,32,31,0.0,0.0,2008-2009,7aae335a,Napoli,"2,728",30.3,11.0,0.0,190.0,9.0,
-,Marek Hamšík,sk SVK,MF,32,31,4.0,9.0,2008-2009,6ad16b2,Napoli,"2,496",27.7,2.0,1.0,190.0,70.0,
-,Paolo Cannavaro,it ITA,DF,30,30,0.0,0.0,2008-2009,46ed55b6,Napoli,"2,593",28.8,9.0,0.0,190.0,9.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",30,29,8.0,7.0,2008-2009,6d6456d7,Napoli,"2,617",29.1,6.0,0.0,190.0,5.0,
-,Fabiano Santacroce,it ITA,DF,27,27,0.0,0.0,2008-2009,99036505,Napoli,"2,260",25.1,7.0,0.0,190.0,9.0,
-,Walter Gargano,uy URU,MF,26,23,2.0,0.0,2008-2009,f7cb73ec,Napoli,"2,141",23.8,4.0,0.0,190.0,8.0,
-,Germán Denis,ar ARG,FW,34,22,3.0,8.0,2008-2009,3b64f69d,Napoli,"1,987",22.1,1.0,0.0,190.0,5.0,
-,Christian Maggio,it ITA,"DF,MF",23,22,3.0,4.0,2008-2009,31d7f557,Napoli,"1,877",20.9,4.0,1.0,190.0,9.0,
-,Daniele Mannini,it ITA,MF,24,21,0.0,1.0,2008-2009,bf1be8ff,Napoli,"1,802",20.0,2.0,1.0,190.0,9.0,
-,Nicolás Navarro,ar ARG,GK,19,18,0.0,0.0,2008-2009,c2133be8,Napoli,"1,600",17.8,1.0,0.0,190.0,5.0,
-,Michele Pazienza,it ITA,MF,29,18,0.0,1.0,2008-2009,9f5d69e7,Napoli,"1,589",17.7,3.0,0.0,190.0,9.0,
-,Marcelo Zalayeta,uy URU,FW,27,17,1.0,4.0,2008-2009,707e472c,Napoli,"1,571",17.5,2.0,1.0,190.0,8.0,
-,Luigi Vitale,it ITA,"DF,FW",18,17,1.0,1.0,2008-2009,fe479e17,Napoli,"1,367",15.2,4.0,0.0,190.0,9.0,
-,Salvatore Aronica,it ITA,DF,23,15,1.0,0.0,2008-2009,060cd8e,Napoli,"1,513",16.8,4.0,0.0,190.0,9.0,
-,Gennaro Iezzo,it ITA,GK,15,15,0.0,0.0,2008-2009,778fbda,Napoli,"1,325",14.7,1.0,0.0,190.0,9.0,
-,Leandro Rinaudo,it ITA,DF,17,13,0.0,0.0,2008-2009,26536bf4,Napoli,"1,264",14.0,4.0,0.0,190.0,9.0,
-,Mariano Bogliacino,uy URU,MF,15,8,0.0,2.0,2008-2009,b028814,Napoli,758,8.4,1.0,0.0,190.0,8.0,
-,Piá,br BRA,"FW,MF",15,8,2.0,4.0,2008-2009,b10cb9ec,Napoli,667,7.4,1.0,0.0,190.0,2.0,
-,Francesco Montervino,it ITA,MF,13,6,0.0,1.0,2008-2009,7efa108b,Napoli,559,6.2,2.0,1.0,190.0,9.0,
-,Gianluca Grava,it ITA,DF,6,5,0.0,0.0,2008-2009,df7d9a25,Napoli,466,5.2,1.0,0.0,190.0,9.0,
-,Matteo Gianello,it ITA,GK,5,4,0.0,0.0,2008-2009,2863ca7e,Napoli,346,3.8,0.0,0.0,190.0,9.0,
-,Jesús Dátolo,ar ARG,MF,9,3,2.0,0.0,2008-2009,49e7b005,Napoli,484,5.4,1.0,0.0,190.0,5.0,
-,Nicolás Amodio,uy URU,MF,3,3,0.0,0.0,2008-2009,384bedb7,Napoli,250,2.8,2.0,0.0,190.0,8.0,
-,Luca Bucci,it ITA,GK,1,1,0.0,0.0,2008-2009,de1d4b63,Napoli,90,1.0,0.0,0.0,190.0,9.0,
-,Andrea Russotto,it ITA,"FW,MF",15,0,0.0,0.0,2008-2009,2a8f450e,Napoli,227,2.5,1.0,0.0,190.0,9.0,
-,Luigi Sepe,it ITA,GK,1,0,0.0,0.0,2008-2009,343f753a,Napoli,59,0.7,0.0,0.0,190.0,9.0,
-,﻿Morgan De Sanctis,it ITA,GK,38,38,0.0,0.0,2009-2010,83228343,Napoli,"3,420",38.0,2.0,0.0,190.0,9.0,
-,Marek Hamšík,sk SVK,MF,37,37,4.0,12.0,2009-2010,6ad16b2,Napoli,"3,239",36.0,1.0,0.0,190.0,70.0,
-,Walter Gargano,uy URU,MF,36,35,1.0,0.0,2009-2010,f7cb73ec,Napoli,"3,059",34.0,6.0,0.0,190.0,8.0,
-,Christian Maggio,it ITA,"DF,MF",34,33,3.0,5.0,2009-2010,31d7f557,Napoli,"2,782",30.9,4.0,1.0,190.0,9.0,
-,Paolo Cannavaro,it ITA,DF,33,32,0.0,1.0,2009-2010,46ed55b6,Napoli,"2,898",32.2,15.0,0.0,190.0,9.0,
-,Fabio Quagliarella,it ITA,FW,34,32,5.0,11.0,2009-2010,4f2f3b,Napoli,"2,836",31.5,7.0,1.0,190.0,9.0,
-,Hugo Campagnaro,ar ARG,DF,28,28,2.0,1.0,2009-2010,2ac01901,Napoli,"2,360",26.2,7.0,1.0,190.0,5.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",30,27,5.0,8.0,2009-2010,6d6456d7,Napoli,"2,374",26.4,4.0,1.0,190.0,5.0,
-,Michele Pazienza,it ITA,MF,33,27,0.0,2.0,2009-2010,9f5d69e7,Napoli,"2,330",25.9,8.0,0.0,190.0,9.0,
-,Salvatore Aronica,it ITA,DF,26,24,2.0,0.0,2009-2010,060cd8e,Napoli,"2,065",22.9,13.0,1.0,190.0,9.0,
-,Gianluca Grava,it ITA,DF,24,22,0.0,0.0,2009-2010,df7d9a25,Napoli,"1,905",21.2,9.0,0.0,190.0,9.0,
-,Germán Denis,ar ARG,FW,29,16,2.0,5.0,2009-2010,3b64f69d,Napoli,"1,489",16.5,0.0,0.0,190.0,5.0,
-,Juan Zúñiga,co COL,"DF,MF",22,15,0.0,0.0,2009-2010,06b34f37,Napoli,"1,384",15.4,5.0,0.0,190.0,19.0,
-,Leandro Rinaudo,it ITA,DF,20,13,1.0,1.0,2009-2010,26536bf4,Napoli,"1,175",13.1,6.0,0.0,190.0,9.0,
-,Matteo Contini,it ITA,DF,13,12,0.0,0.0,2009-2010,dec20583,Napoli,"1,120",12.4,7.0,1.0,190.0,9.0,
-,Luca Cigarini,it ITA,MF,28,11,1.0,2.0,2009-2010,64d449,Napoli,"1,130",12.6,0.0,0.0,190.0,9.0,
-,Jesús Dátolo,ar ARG,MF,13,6,0.0,1.0,2009-2010,49e7b005,Napoli,537,6.0,1.0,0.0,190.0,5.0,
-,Fabiano Santacroce,it ITA,DF,4,4,0.0,0.0,2009-2010,99036505,Napoli,310,3.4,1.0,0.0,190.0,9.0,
-,Andrea Dossena,it ITA,"DF,MF",10,3,0.0,0.0,2009-2010,3ae59b9c,Napoli,414,4.6,2.0,0.0,190.0,9.0,
-,Mariano Bogliacino,uy URU,MF,18,2,0.0,1.0,2009-2010,b028814,Napoli,500,5.6,2.0,0.0,190.0,8.0,
-,Piá,br BRA,"FW,MF",2,1,0.0,0.0,2009-2010,b10cb9ec,Napoli,69,0.8,0.0,0.0,190.0,2.0,
-,Erwin Hoffer,at AUT,FW,8,0,0.0,0.0,2009-2010,9d33e42f,Napoli,95,1.1,0.0,0.0,190.0,24.0,
-,Erminio Rullo,it ITA,DF,1,0,0.0,0.0,2009-2010,3c828c5,Napoli,18,0.2,0.0,0.0,190.0,9.0,
-,Raffaele Maiello,it ITA,MF,1,0,0.0,0.0,2009-2010,02febfdc,Napoli,6,0.1,0.0,0.0,190.0,9.0,
-,Lorenzo Insigne,it ITA,"FW,MF",1,0,0.0,0.0,2009-2010,2f557579,Napoli,1,0.0,0.0,0.0,190.0,9.0,
-,﻿Morgan De Sanctis,it ITA,GK,38,38,0.0,0.0,2010-2011,83228343,Napoli,"3,420",38.0,3.0,0.0,190.0,9.0,
-,Marek Hamšík,sk SVK,MF,37,36,8.0,11.0,2010-2011,6ad16b2,Napoli,"2,964",32.9,4.0,0.0,190.0,70.0,
-,Christian Maggio,it ITA,"DF,MF",33,33,3.0,4.0,2010-2011,31d7f557,Napoli,"2,799",31.1,6.0,0.0,190.0,9.0,
-,Edinson Cavani,uy URU,"FW,MF",35,32,6.0,26.0,2010-2011,527f063d,Napoli,"2,899",32.2,5.0,1.0,190.0,8.0,
-,Paolo Cannavaro,it ITA,DF,32,31,1.0,2.0,2010-2011,46ed55b6,Napoli,"2,717",30.2,8.0,1.0,190.0,9.0,
-,Andrea Dossena,it ITA,"DF,MF",33,31,3.0,1.0,2010-2011,3ae59b9c,Napoli,"2,448",27.2,5.0,0.0,190.0,9.0,
-,Hugo Campagnaro,ar ARG,DF,31,30,0.0,0.0,2010-2011,2ac01901,Napoli,"2,730",30.3,10.0,0.0,190.0,5.0,
-,Michele Pazienza,it ITA,MF,31,30,1.0,1.0,2010-2011,9f5d69e7,Napoli,"2,425",26.9,7.0,2.0,190.0,9.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",31,29,13.0,6.0,2010-2011,6d6456d7,Napoli,"2,643",29.4,8.0,0.0,190.0,5.0,
-,Walter Gargano,uy URU,MF,36,29,4.0,0.0,2010-2011,f7cb73ec,Napoli,"2,617",29.1,9.0,0.0,190.0,8.0,
-,Salvatore Aronica,it ITA,DF,26,19,0.0,0.0,2010-2011,060cd8e,Napoli,"1,881",20.9,7.0,0.0,190.0,9.0,
-,Hassan Yebda,dz ALG,MF,29,15,0.0,0.0,2010-2011,4907d688,Napoli,"1,604",17.8,3.0,0.0,190.0,37.0,
-,Juan Zúñiga,co COL,"DF,MF",27,15,2.0,2.0,2010-2011,06b34f37,Napoli,"1,547",17.2,2.0,0.0,190.0,19.0,
-,Gianluca Grava,it ITA,DF,13,12,0.0,0.0,2010-2011,df7d9a25,Napoli,930,10.3,4.0,0.0,190.0,9.0,
-,Fabiano Santacroce,it ITA,DF,11,10,0.0,0.0,2010-2011,99036505,Napoli,822,9.1,3.0,0.0,190.0,9.0,
-,José Sosa,ar ARG,MF,24,7,2.0,1.0,2010-2011,1eecc0c6,Napoli,698,7.8,1.0,0.0,190.0,5.0,
-,Emílson Cribari,br BRA,DF,9,6,0.0,0.0,2010-2011,0913c971,Napoli,619,6.9,0.0,0.0,190.0,2.0,
-,Víctor Ruiz,es ESP,"DF,MF",6,6,0.0,0.0,2010-2011,b3dc6eca,Napoli,540,6.0,2.0,0.0,190.0,1.0,
-,Giuseppe Mascara,it ITA,FW,14,4,2.0,3.0,2010-2011,d4fb7e8e,Napoli,491,5.5,6.0,0.0,190.0,9.0,
-,Luigi Vitale,it ITA,"DF,FW",6,2,0.0,0.0,2010-2011,fe479e17,Napoli,223,2.5,1.0,0.0,190.0,9.0,
-,Cristiano Lucarelli,it ITA,FW,9,1,0.0,1.0,2010-2011,8aebb58,Napoli,230,2.6,0.0,0.0,190.0,9.0,
-,Raffaele Maiello,it ITA,MF,3,1,0.0,0.0,2010-2011,02febfdc,Napoli,107,1.2,0.0,0.0,190.0,9.0,
-,Manuele Blasi,it ITA,MF,2,1,0.0,0.0,2010-2011,7aae335a,Napoli,76,0.8,1.0,1.0,190.0,9.0,
-,Nicolao Dumitru,it ITA,"FW,MF",9,0,0.0,0.0,2010-2011,1a5d127b,Napoli,107,1.2,0.0,0.0,190.0,9.0,
-,﻿Morgan De Sanctis,it ITA,GK,37,37,0.0,0.0,2011-2012,83228343,Napoli,"3,330",37.0,1.0,0.0,190.0,9.0,
-,Edinson Cavani,uy URU,"FW,MF",35,32,3.0,23.0,2011-2012,527f063d,Napoli,"2,912",32.4,4.0,0.0,190.0,8.0,
-,Paolo Cannavaro,it ITA,DF,32,31,0.0,2.0,2011-2012,46ed55b6,Napoli,"2,670",29.7,10.0,0.0,190.0,9.0,
-,Marek Hamšík,sk SVK,MF,37,30,8.0,9.0,2011-2012,6ad16b2,Napoli,"2,679",29.8,5.0,0.0,190.0,70.0,
-,Hugo Campagnaro,ar ARG,DF,31,30,1.0,2.0,2011-2012,2ac01901,Napoli,"2,589",28.8,4.0,0.0,190.0,5.0,
-,Walter Gargano,uy URU,MF,33,30,2.0,2.0,2011-2012,f7cb73ec,Napoli,"2,548",28.3,5.0,0.0,190.0,8.0,
-,Gökhan Inler,ch SUI,MF,36,29,2.0,0.0,2011-2012,3200c583,Napoli,"2,593",28.8,3.0,0.0,190.0,39.0,
-,Salvatore Aronica,it ITA,DF,31,29,0.0,0.0,2011-2012,060cd8e,Napoli,"2,536",28.2,4.0,1.0,190.0,9.0,
-,Christian Maggio,it ITA,"DF,MF",33,27,4.0,3.0,2011-2012,31d7f557,Napoli,"2,461",27.3,3.0,0.0,190.0,9.0,
-,Ezequiel Lavezzi,ar ARG,"FW,MF",30,25,6.0,9.0,2011-2012,6d6456d7,Napoli,"2,205",24.5,7.0,0.0,190.0,5.0,
-,Andrea Dossena,it ITA,"DF,MF",33,24,3.0,2.0,2011-2012,3ae59b9c,Napoli,"2,194",24.4,2.0,0.0,190.0,9.0,
-,Juan Zúñiga,co COL,"DF,MF",31,22,0.0,2.0,2011-2012,06b34f37,Napoli,"2,112",23.5,3.0,1.0,190.0,19.0,
-,Blerim Džemaili,ch SUI,MF,27,21,4.0,3.0,2011-2012,756959aa,Napoli,"1,930",21.4,9.0,0.0,190.0,39.0,
-,Goran Pandev,mk MKD,"FW,MF",30,19,6.0,6.0,2011-2012,d711d04f,Napoli,"1,726",19.2,1.0,1.0,190.0,81.0,
-,Federico Fernández,ar ARG,DF,16,9,0.0,0.0,2011-2012,f25b010f,Napoli,969,10.8,4.0,0.0,190.0,5.0,
-,Miguel Britos,uy URU,DF,11,9,0.0,1.0,2011-2012,356a9a62,Napoli,668,7.4,5.0,0.0,190.0,8.0,
-,Mario Santana,ar ARG,MF,8,4,0.0,0.0,2011-2012,48abd4a,Napoli,288,3.2,1.0,1.0,190.0,5.0,
-,Ignacio Fideleff,ar ARG,DF,4,4,0.0,0.0,2011-2012,6490814,Napoli,275,3.1,2.0,0.0,190.0,5.0,
-,Gianluca Grava,it ITA,DF,6,3,0.0,0.0,2011-2012,df7d9a25,Napoli,295,3.3,3.0,0.0,190.0,9.0,
-,Giuseppe Mascara,it ITA,FW,7,2,1.0,1.0,2011-2012,d4fb7e8e,Napoli,237,2.6,1.0,0.0,190.0,9.0,
-,Antonio Rosati,it ITA,GK,1,1,0.0,0.0,2011-2012,28a15394,Napoli,90,1.0,1.0,0.0,190.0,9.0,
-,Eduardo Vargas,cl CHI,"FW,MF",10,0,0.0,0.0,2011-2012,bd603c00,Napoli,163,1.8,0.0,0.0,190.0,31.0,
-,Cristiano Lucarelli,it ITA,FW,3,0,0.0,0.0,2011-2012,8aebb58,Napoli,22,0.2,0.0,0.0,190.0,9.0,
-,Cristian Chávez,ar ARG,"FW,MF",2,0,0.0,0.0,2011-2012,f385f3c5,Napoli,21,0.2,0.0,0.0,190.0,5.0,
-,Massimiliano Ammendola,it ITA,MF,1,0,0.0,0.0,2011-2012,110c39d8,Napoli,1,0.0,0.0,0.0,190.0,9.0,
-,﻿Marek Hamšík,sk SVK,MF,38,37,14.0,11.0,2012-2013,6ad16b2,Napoli,"3,266",36.3,2.0,0.0,190.0,70.0,
-,Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2012-2013,83228343,Napoli,"3,060",34.0,4.0,0.0,190.0,9.0,
-,Edinson Cavani,uy URU,"FW,MF",34,33,3.0,29.0,2012-2013,527f063d,Napoli,"2,981",33.1,6.0,0.0,190.0,8.0,
-,Paolo Cannavaro,it ITA,DF,32,32,1.0,1.0,2012-2013,46ed55b6,Napoli,"2,845",31.6,8.0,0.0,190.0,9.0,
-,Valon Behrami,ch SUI,"DF,MF",33,32,0.0,0.0,2012-2013,d3d758d8,Napoli,"2,615",29.1,14.0,0.0,190.0,39.0,
-,Christian Maggio,it ITA,"DF,MF",31,31,5.0,4.0,2012-2013,31d7f557,Napoli,"2,713",30.1,3.0,0.0,190.0,9.0,
-,Juan Zúñiga,co COL,"DF,MF",32,30,4.0,0.0,2012-2013,06b34f37,Napoli,"2,618",29.1,3.0,0.0,190.0,19.0,
-,Hugo Campagnaro,ar ARG,DF,28,27,1.0,1.0,2012-2013,2ac01901,Napoli,"2,412",26.8,8.0,0.0,190.0,5.0,
-,Gökhan Inler,ch SUI,MF,31,25,2.0,6.0,2012-2013,3200c583,Napoli,"2,177",24.2,7.0,0.0,190.0,39.0,
-,Goran Pandev,mk MKD,"FW,MF",33,25,7.0,6.0,2012-2013,d711d04f,Napoli,"2,080",23.1,3.0,0.0,190.0,81.0,
-,Alessandro Gamberini,it ITA,DF,25,24,0.0,1.0,2012-2013,8ec95452,Napoli,"1,892",21.0,3.0,0.0,190.0,9.0,
-,Miguel Britos,uy URU,DF,22,22,0.0,0.0,2012-2013,356a9a62,Napoli,"1,797",20.0,5.0,0.0,190.0,8.0,
-,Blerim Džemaili,ch SUI,MF,34,19,2.0,7.0,2012-2013,756959aa,Napoli,"1,965",21.8,7.0,0.0,190.0,39.0,
-,Lorenzo Insigne,it ITA,"FW,MF",37,16,7.0,5.0,2012-2013,2f557579,Napoli,"1,766",19.6,3.0,0.0,190.0,9.0,
-,Giandomenico Mesto,it ITA,"DF,MF",16,7,1.0,1.0,2012-2013,6447938e,Napoli,738,8.2,1.0,0.0,190.0,9.0,
-,Pablo Armero,co COL,"DF,MF",15,4,3.0,0.0,2012-2013,fabf74e,Napoli,584,6.5,2.0,0.0,190.0,19.0,
-,Rolando,pt POR,DF,7,4,0.0,0.0,2012-2013,0eeafda5,Napoli,394,4.4,1.0,0.0,190.0,3.0,
-,Antonio Rosati,it ITA,GK,4,4,0.0,0.0,2012-2013,28a15394,Napoli,360,4.0,0.0,0.0,190.0,9.0,
-,Andrea Dossena,it ITA,"DF,MF",7,3,0.0,0.0,2012-2013,3ae59b9c,Napoli,289,3.2,1.0,0.0,190.0,9.0,
-,Salvatore Aronica,it ITA,DF,5,3,2.0,0.0,2012-2013,060cd8e,Napoli,216,2.4,2.0,0.0,190.0,9.0,
-,Gianluca Grava,it ITA,DF,2,2,0.0,0.0,2012-2013,df7d9a25,Napoli,146,1.6,1.0,0.0,190.0,9.0,
-,Omar El Kaddouri,ma MAR,MF,7,1,1.0,0.0,2012-2013,92b17b2a,Napoli,231,2.6,0.0,0.0,190.0,26.0,
-,Marco Donadel,it ITA,MF,4,1,0.0,0.0,2012-2013,3169af41,Napoli,122,1.4,0.0,0.0,190.0,9.0,
-,Emanuele Calaiò,it ITA,FW,6,1,1.0,0.0,2012-2013,412488f,Napoli,116,1.3,0.0,0.0,190.0,9.0,
-,Federico Fernández,ar ARG,DF,2,1,0.0,0.0,2012-2013,f25b010f,Napoli,103,1.1,0.0,0.0,190.0,5.0,
-,Eduardo Vargas,cl CHI,"FW,MF",9,0,1.0,0.0,2012-2013,bd603c00,Napoli,129,1.4,3.0,0.0,190.0,31.0,
-,Roberto Insigne,it ITA,"FW,MF",1,0,0.0,0.0,2012-2013,8faf7b3c,Napoli,5,0.1,0.0,0.0,190.0,9.0,
-,﻿José Callejón,es ESP,"FW,MF",37,32,6.0,15.0,2013-2014,78841da9,Napoli,"2,845",31.6,6.0,0.0,190.0,1.0,
-,Raúl Albiol,es ESP,DF,32,30,2.0,1.0,2013-2014,4bd414c1,Napoli,"2,644",29.4,5.0,0.0,190.0,1.0,
-,Gökhan Inler,ch SUI,MF,32,30,2.0,2.0,2013-2014,3200c583,Napoli,"2,627",29.2,6.0,0.0,190.0,39.0,
-,Pepe Reina,es ESP,GK,30,30,0.0,0.0,2013-2014,358587b,Napoli,"2,597",28.9,0.0,0.0,190.0,1.0,
-,Gonzalo Higuaín,ar ARG,"FW,MF",32,28,7.0,17.0,2013-2014,8a08491a,Napoli,"2,409",26.8,6.0,0.0,190.0,5.0,
-,Lorenzo Insigne,it ITA,"FW,MF",36,25,8.0,3.0,2013-2014,2f557579,Napoli,"2,400",26.7,2.0,0.0,190.0,9.0,
-,Federico Fernández,ar ARG,DF,26,25,1.0,0.0,2013-2014,f25b010f,Napoli,"2,294",25.5,5.0,1.0,190.0,5.0,
-,Marek Hamšík,sk SVK,MF,28,23,5.0,7.0,2013-2014,6ad16b2,Napoli,"1,981",22.0,2.0,0.0,190.0,70.0,
-,Christian Maggio,it ITA,"DF,MF",22,22,1.0,0.0,2013-2014,31d7f557,Napoli,"1,958",21.8,4.0,1.0,190.0,9.0,
-,Dries Mertens,be BEL,"FW,MF",32,21,6.0,11.0,2013-2014,89b2c8a9,Napoli,"1,905",21.2,4.0,0.0,190.0,27.0,
-,Blerim Džemaili,ch SUI,MF,24,18,3.0,6.0,2013-2014,756959aa,Napoli,"1,551",17.2,4.0,0.0,190.0,39.0,
-,Goran Pandev,mk MKD,"FW,MF",28,17,4.0,7.0,2013-2014,d711d04f,Napoli,"1,376",15.3,3.0,0.0,190.0,81.0,
-,Valon Behrami,ch SUI,"DF,MF",21,16,0.0,0.0,2013-2014,d3d758d8,Napoli,"1,464",16.3,3.0,0.0,190.0,39.0,
-,Miguel Britos,uy URU,DF,16,15,0.0,1.0,2013-2014,356a9a62,Napoli,"1,316",14.6,8.0,0.0,190.0,8.0,
-,Faouzi Ghoulam,dz ALG,DF,15,14,1.0,0.0,2013-2014,c5adc293,Napoli,"1,222",13.6,1.0,1.0,190.0,37.0,
-,Anthony Réveillère,fr FRA,DF,13,13,0.0,0.0,2013-2014,8ad24039,Napoli,"1,088",12.1,1.0,0.0,190.0,4.0,
-,Jorginho,it ITA,MF,15,12,1.0,0.0,2013-2014,45db685d,Napoli,"1,119",12.4,4.0,0.0,190.0,9.0,
-,Giandomenico Mesto,it ITA,"DF,MF",11,10,0.0,0.0,2013-2014,6447938e,Napoli,825,9.2,2.0,0.0,190.0,9.0,
-,Pablo Armero,co COL,"DF,MF",14,9,0.0,0.0,2013-2014,fabf74e,Napoli,880,9.8,1.0,0.0,190.0,19.0,
-,Henrique,br BRA,DF,11,8,0.0,1.0,2013-2014,429163de,Napoli,747,8.3,2.0,0.0,190.0,2.0,
-,Rafael Cabral,br BRA,GK,8,7,0.0,0.0,2013-2014,806f7a26,Napoli,675,7.5,0.0,0.0,190.0,2.0,
-,Duván Zapata,co COL,FW,16,6,2.0,5.0,2013-2014,d3de9af0,Napoli,575,6.4,2.0,0.0,190.0,19.0,
-,Juan Zúñiga,co COL,"DF,MF",6,4,2.0,0.0,2013-2014,06b34f37,Napoli,411,4.6,0.0,0.0,190.0,19.0,
-,Paolo Cannavaro,it ITA,DF,4,2,0.0,0.0,2013-2014,46ed55b6,Napoli,249,2.8,1.0,1.0,190.0,9.0,
-,Toni Doblas,es ESP,GK,2,1,0.0,0.0,2013-2014,d5c35223,Napoli,103,1.1,0.0,0.0,190.0,1.0,
-,Josip Radošević,hr CRO,MF,8,0,0.0,0.0,2013-2014,6afcaaa3,Napoli,124,1.4,2.0,0.0,190.0,16.0,
-,Bruno Uvini,br BRA,DF,1,0,0.0,0.0,2013-2014,cfe4300,Napoli,84,0.9,0.0,0.0,190.0,2.0,
-,Roberto Colombo,it ITA,GK,1,0,0.0,0.0,2013-2014,3b01efe2,Napoli,45,0.5,0.0,0.0,190.0,9.0,
-,Igor Łasicki,pl POL,DF,1,0,0.0,0.0,2013-2014,dc10a532,Napoli,13,0.1,0.0,0.0,190.0,14.0,
-,Davide Bariti,it ITA,MF,2,0,0.0,0.0,2013-2014,5fe43a66,Napoli,8,0.1,0.0,0.0,190.0,9.0,
-,﻿Raúl Albiol,es ESP,DF,35,34,1.0,0.0,2014-2015,4bd414c1,Napoli,"3,100",34.4,10.0,0.0,190.0,1.0,
-,José Callejón,es ESP,"FW,MF",38,33,3.0,11.0,2014-2015,78841da9,Napoli,"2,966",33.0,1.0,0.0,190.0,1.0,
-,Gonzalo Higuaín,ar ARG,"FW,MF",37,31,7.0,18.0,2014-2015,8a08491a,Napoli,"2,774",30.8,5.0,0.0,190.0,5.0,
-,David López,es ESP,"DF,MF",32,29,1.0,1.0,2014-2015,f03f284b,Napoli,"2,595",28.8,4.0,0.0,190.0,1.0,
-,Christian Maggio,it ITA,"DF,MF",29,29,1.0,0.0,2014-2015,31d7f557,Napoli,"2,577",28.6,8.0,1.0,190.0,9.0,
-,Marek Hamšík,sk SVK,MF,35,28,10.0,7.0,2014-2015,6ad16b2,Napoli,"2,304",25.6,1.0,0.0,190.0,70.0,
-,Kalidou Koulibaly,sn SEN,DF,27,27,0.0,1.0,2014-2015,da974c7b,Napoli,"2,425",26.9,9.0,1.0,190.0,34.0,
-,Rafael Cabral,br BRA,GK,23,23,0.0,0.0,2014-2015,806f7a26,Napoli,"2,070",23.0,0.0,0.0,190.0,2.0,
-,Faouzi Ghoulam,dz ALG,DF,21,20,2.0,0.0,2014-2015,c5adc293,Napoli,"1,756",19.5,7.0,1.0,190.0,37.0,
-,Dries Mertens,be BEL,"FW,MF",31,17,6.0,6.0,2014-2015,89b2c8a9,Napoli,"1,677",18.6,4.0,1.0,190.0,27.0,
-,Miguel Britos,uy URU,DF,19,17,0.0,1.0,2014-2015,356a9a62,Napoli,"1,496",16.6,7.0,1.0,190.0,8.0,
-,Walter Gargano,uy URU,MF,24,17,1.0,0.0,2014-2015,f7cb73ec,Napoli,"1,495",16.6,6.0,0.0,190.0,8.0,
-,Gökhan Inler,ch SUI,MF,19,16,0.0,1.0,2014-2015,3200c583,Napoli,"1,361",15.1,4.0,0.0,190.0,39.0,
-,Mariano Andújar,ar ARG,GK,15,15,0.0,0.0,2014-2015,609cd867,Napoli,"1,350",15.0,0.0,0.0,190.0,5.0,
-,Jorginho,it ITA,MF,23,14,0.0,0.0,2014-2015,45db685d,Napoli,"1,285",14.3,5.0,0.0,190.0,9.0,
-,Lorenzo Insigne,it ITA,"FW,MF",20,13,3.0,2.0,2014-2015,2f557579,Napoli,"1,064",11.8,0.0,0.0,190.0,9.0,
-,Jonathan de Guzmán,nl NED,MF,23,12,1.0,3.0,2014-2015,1bcca8b8,Napoli,"1,184",13.2,1.0,0.0,190.0,11.0,
-,Henrique,br BRA,DF,11,9,1.0,0.0,2014-2015,429163de,Napoli,819,9.1,3.0,1.0,190.0,2.0,
-,Ivan Strinić,hr CRO,DF,9,9,0.0,0.0,2014-2015,52e2ef8f,Napoli,805,8.9,1.0,0.0,190.0,16.0,
-,Manolo Gabbiadini,it ITA,FW,20,8,1.0,8.0,2014-2015,8f866fe8,Napoli,862,9.6,1.0,0.0,190.0,9.0,
-,Duván Zapata,co COL,FW,21,6,1.0,6.0,2014-2015,d3de9af0,Napoli,623,6.9,2.0,0.0,190.0,19.0,
-,Juan Zúñiga,co COL,"DF,MF",7,6,2.0,0.0,2014-2015,06b34f37,Napoli,522,5.8,0.0,0.0,190.0,19.0,
-,Giandomenico Mesto,it ITA,"DF,MF",7,3,0.0,0.0,2014-2015,6447938e,Napoli,279,3.1,1.0,0.0,190.0,9.0,
-,Michu,es ESP,"FW,MF",3,2,0.0,0.0,2014-2015,98429b7b,Napoli,145,1.6,1.0,0.0,190.0,1.0,
-,Sebastiano Luperto,it ITA,DF,1,0,0.0,0.0,2014-2015,997fff07,Napoli,7,0.1,0.0,0.0,190.0,9.0,
-,Josip Radošević,hr CRO,MF,1,0,0.0,0.0,2014-2015,6afcaaa3,Napoli,7,0.1,0.0,0.0,190.0,16.0,
-,Roberto Colombo,it ITA,GK,0,0,,,2014-2015,3b01efe2,Napoli,,,,,190.0,9.0,
-,Nikita Contini Baranovsky,it ITA,GK,0,0,,,2014-2015,95069bb,Napoli,,,,,190.0,9.0,
-,Bruno Uvini,br BRA,DF,0,0,,,2014-2015,cfe4300,Napoli,,,,,190.0,2.0,
-,﻿Marek Hamšík,sk SVK,MF,38,38,11.0,6.0,2015-2016,6ad16b2,Napoli,"3,220",35.8,0.0,0.0,190.0,70.0,
-,Pepe Reina,es ESP,GK,37,37,0.0,0.0,2015-2016,358587b,Napoli,"3,330",37.0,1.0,0.0,190.0,1.0,
-,Elseid Hysaj,al ALB,DF,37,37,2.0,0.0,2015-2016,2f3452eb,Napoli,"3,281",36.5,5.0,0.0,190.0,78.0,
-,Raúl Albiol,es ESP,DF,36,36,1.0,1.0,2015-2016,4bd414c1,Napoli,"3,240",36.0,10.0,0.0,190.0,1.0,
-,Gonzalo Higuaín,ar ARG,FW,35,35,2.0,36.0,2015-2016,8a08491a,Napoli,"2,958",32.9,2.0,1.0,190.0,5.0,
-,José Callejón,es ESP,FW,38,35,7.0,7.0,2015-2016,78841da9,Napoli,"2,813",31.3,4.0,0.0,190.0,1.0,
-,Lorenzo Insigne,it ITA,"FW,MF",37,34,10.0,12.0,2015-2016,2f557579,Napoli,"2,598",28.9,2.0,0.0,190.0,9.0,
-,Faouzi Ghoulam,dz ALG,DF,34,32,3.0,0.0,2015-2016,c5adc293,Napoli,"2,918",32.4,3.0,0.0,190.0,37.0,
-,Jorginho,it ITA,MF,35,32,4.0,0.0,2015-2016,45db685d,Napoli,"2,915",32.4,11.0,1.0,190.0,9.0,
-,Kalidou Koulibaly,sn SEN,DF,33,32,0.0,0.0,2015-2016,da974c7b,Napoli,"2,888",32.1,11.0,0.0,190.0,34.0,
-,Allan,br BRA,MF,35,32,5.0,3.0,2015-2016,cc700722,Napoli,"2,818",31.3,5.0,0.0,190.0,2.0,
-,Vlad Chiricheș,ro ROU,DF,8,8,0.0,1.0,2015-2016,c316607a,Napoli,697,7.7,2.0,0.0,190.0,51.0,
-,Dries Mertens,be BEL,FW,33,6,5.0,5.0,2015-2016,89b2c8a9,Napoli,"1,108",12.3,7.0,0.0,190.0,27.0,
-,David López,es ESP,MF,25,6,1.0,1.0,2015-2016,f03f284b,Napoli,748,8.3,2.0,0.0,190.0,1.0,
-,Mirko Valdifiori,it ITA,MF,6,6,0.0,0.0,2015-2016,c710f7d5,Napoli,453,5.0,3.0,0.0,190.0,9.0,
-,Manolo Gabbiadini,it ITA,FW,23,4,3.0,5.0,2015-2016,8f866fe8,Napoli,562,6.2,1.0,0.0,190.0,9.0,
-,Christian Maggio,it ITA,DF,8,4,0.0,0.0,2015-2016,31d7f557,Napoli,398,4.4,0.0,0.0,190.0,9.0,
-,Ivan Strinić,hr CRO,DF,5,3,0.0,0.0,2015-2016,52e2ef8f,Napoli,253,2.8,0.0,0.0,190.0,16.0,
-,Gabriel,br BRA,GK,1,1,0.0,0.0,2015-2016,f93ed0df,Napoli,90,1.0,0.0,0.0,190.0,2.0,
-,Omar El Kaddouri,ma MAR,MF,20,0,2.0,1.0,2015-2016,92b17b2a,Napoli,251,2.8,1.0,0.0,190.0,26.0,
-,Nathaniel Chalobah,eng ENG,"DF,MF",5,0,0.0,0.0,2015-2016,422862ea,Napoli,35,0.4,0.0,0.0,190.0,6.0,
-,Vasco Regini,it ITA,DF,1,0,0.0,0.0,2015-2016,339c6ed4,Napoli,15,0.2,0.0,0.0,190.0,9.0,
-,Rafael Cabral,br BRA,GK,0,0,,,2015-2016,806f7a26,Napoli,,,,,190.0,2.0,
-,Jacopo Dezi,it ITA,MF,0,0,,,2015-2016,921b9db,Napoli,,,,,190.0,9.0,
-,Alberto Grassi,it ITA,MF,0,0,,,2015-2016,6cc97b6a,Napoli,,,,,190.0,9.0,
-,Henrique,br BRA,DF,0,0,,,2015-2016,429163de,Napoli,,,,,190.0,2.0,
-,Sebastiano Luperto,it ITA,DF,0,0,,,2015-2016,997fff07,Napoli,,,,,190.0,9.0,
-,﻿Pepe Reina,es ESP,GK,37,37,0.0,0.0,2016-2017,358587b,Napoli,"3,330",37.0,1.0,0.0,190.0,1.0,
-,José Callejón,es ESP,FW,37,37,13.0,14.0,2016-2017,78841da9,Napoli,"3,139",34.9,3.0,1.0,190.0,1.0,
-,Marek Hamšík,sk SVK,MF,38,37,10.0,12.0,2016-2017,6ad16b2,Napoli,"3,030",33.7,1.0,0.0,190.0,70.0,
-,Lorenzo Insigne,it ITA,FW,37,35,9.0,18.0,2016-2017,2f557579,Napoli,"2,922",32.5,2.0,0.0,190.0,9.0,
-,Elseid Hysaj,al ALB,DF,35,34,1.0,0.0,2016-2017,2f3452eb,Napoli,"3,031",33.7,8.0,0.0,190.0,78.0,
-,Dries Mertens,be BEL,FW,35,28,9.0,28.0,2016-2017,89b2c8a9,Napoli,"2,558",28.4,6.0,0.0,190.0,27.0,
-,Kalidou Koulibaly,sn SEN,DF,28,28,0.0,2.0,2016-2017,da974c7b,Napoli,"2,471",27.5,6.0,0.0,190.0,34.0,
-,Jorginho,it ITA,MF,27,27,3.0,0.0,2016-2017,45db685d,Napoli,"2,134",23.7,3.0,0.0,190.0,9.0,
-,Faouzi Ghoulam,dz ALG,DF,29,26,6.0,0.0,2016-2017,c5adc293,Napoli,"2,382",26.5,1.0,0.0,190.0,37.0,
-,Raúl Albiol,es ESP,DF,26,25,1.0,0.0,2016-2017,4bd414c1,Napoli,"2,297",25.5,8.0,0.0,190.0,1.0,
-,Allan,br BRA,MF,29,19,6.0,1.0,2016-2017,cc700722,Napoli,"1,610",17.9,3.0,0.0,190.0,2.0,
-,Piotr Zieliński,pl POL,MF,36,18,7.0,5.0,2016-2017,5296e55,Napoli,"1,868",20.8,4.0,0.0,190.0,14.0,
-,Vlad Chiricheș,ro ROU,DF,14,13,0.0,2.0,2016-2017,c316607a,Napoli,"1,124",12.5,0.0,0.0,190.0,51.0,
-,Ivan Strinić,hr CRO,DF,12,12,2.0,0.0,2016-2017,52e2ef8f,Napoli,"1,033",11.5,3.0,0.0,190.0,16.0,
-,Amadou Diawara,gn GUI,MF,18,10,0.0,0.0,2016-2017,bf309d24,Napoli,"1,046",11.6,1.0,0.0,190.0,74.0,
-,Nikola Maksimović,rs SRB,DF,8,7,0.0,1.0,2016-2017,16b9d5cf,Napoli,678,7.5,1.0,0.0,190.0,28.0,
-,Manolo Gabbiadini,it ITA,FW,13,7,0.0,3.0,2016-2017,8f866fe8,Napoli,515,5.7,0.0,1.0,190.0,9.0,
-,Arkadiusz Milik,pl POL,FW,17,4,1.0,5.0,2016-2017,85613cf0,Napoli,559,6.2,1.0,0.0,190.0,14.0,
-,Christian Maggio,it ITA,DF,7,4,0.0,0.0,2016-2017,31d7f557,Napoli,394,4.4,0.0,0.0,190.0,9.0,
-,Lorenzo Tonelli,it ITA,DF,3,3,0.0,2.0,2016-2017,8cc29864,Napoli,270,3.0,2.0,0.0,190.0,9.0,
-,Marko Rog,hr CRO,MF,15,2,0.0,0.0,2016-2017,b6b2b820,Napoli,387,4.3,4.0,0.0,190.0,16.0,
-,Leonardo Pavoletti,it ITA,FW,6,2,0.0,0.0,2016-2017,d37b0350,Napoli,196,2.2,0.0,0.0,190.0,9.0,
-,Emanuele Giaccherini,it ITA,FW,16,1,0.0,1.0,2016-2017,1c50f354,Napoli,298,3.3,0.0,0.0,190.0,9.0,
-,Rafael Cabral,br BRA,GK,1,1,0.0,0.0,2016-2017,806f7a26,Napoli,90,1.0,0.0,0.0,190.0,2.0,
-,Mirko Valdifiori,it ITA,MF,1,1,0.0,0.0,2016-2017,c710f7d5,Napoli,90,1.0,0.0,0.0,190.0,9.0,
-,Omar El Kaddouri,ma MAR,MF,5,0,0.0,0.0,2016-2017,92b17b2a,Napoli,45,0.5,0.0,0.0,190.0,26.0,
-,Alberto Grassi,it ITA,MF,0,0,,,2016-2017,6cc97b6a,Napoli,,,,,190.0,9.0,
-,Roberto Insigne,it ITA,"FW,MF",0,0,,,2016-2017,8faf7b3c,Napoli,,,,,190.0,9.0,
-,Leandrinho,br BRA,MF,0,0,,,2016-2017,26c54163,Napoli,,,,,190.0,2.0,
-,Sebastiano Luperto,it ITA,DF,0,0,,,2016-2017,997fff07,Napoli,,,,,190.0,9.0,
-,Marco Milanese,it ITA,DF,0,0,,,2016-2017,dc35da1,Napoli,,,,,190.0,9.0,
-,Luigi Sepe,it ITA,GK,0,0,,,2016-2017,343f753a,Napoli,,,,,190.0,9.0,
-,Alessio Zerbin,it ITA,FW,0,0,,,2016-2017,d19ef4ef,Napoli,,,,,190.0,9.0,
-,Igor Łasicki,pl POL,DF,0,0,,,2016-2017,dc10a532,Napoli,,,,,190.0,14.0,
-,﻿José Callejón,es ESP,FW,38,38,9.0,10.0,2017-2018,78841da9,Napoli,"3,238",36.0,3.0,0.0,190.0,1.0,
-,Pepe Reina,es ESP,GK,37,37,0.0,0.0,2017-2018,358587b,Napoli,"3,330",37.0,1.0,0.0,190.0,1.0,
-,Lorenzo Insigne,it ITA,FW,37,36,11.0,8.0,2017-2018,2f557579,Napoli,"3,090",34.3,4.0,0.0,190.0,9.0,
-,Elseid Hysaj,al ALB,DF,35,35,1.0,0.0,2017-2018,2f3452eb,Napoli,"3,125",34.7,3.0,1.0,190.0,78.0,
-,Kalidou Koulibaly,sn SEN,DF,35,35,1.0,5.0,2017-2018,da974c7b,Napoli,"3,066",34.1,5.0,1.0,190.0,34.0,
-,Dries Mertens,be BEL,FW,38,35,7.0,18.0,2017-2018,89b2c8a9,Napoli,"3,002",33.4,4.0,0.0,190.0,27.0,
-,Jorginho,it ITA,MF,33,33,3.0,2.0,2017-2018,45db685d,Napoli,"2,650",29.4,5.0,0.0,190.0,9.0,
-,Allan,br BRA,MF,38,32,5.0,4.0,2017-2018,cc700722,Napoli,"2,850",31.7,2.0,0.0,190.0,2.0,
-,Marek Hamšík,sk SVK,MF,38,32,1.0,7.0,2017-2018,6ad16b2,Napoli,"2,371",26.3,2.0,0.0,190.0,70.0,
-,Raúl Albiol,es ESP,DF,31,30,1.0,3.0,2017-2018,4bd414c1,Napoli,"2,742",30.5,7.0,0.0,190.0,1.0,
-,Mário Rui,pt POR,DF,25,24,2.0,2.0,2017-2018,0b5a292a,Napoli,"2,087",23.2,9.0,2.0,190.0,3.0,
-,Piotr Zieliński,pl POL,"MF,FW",36,14,1.0,4.0,2017-2018,5296e55,Napoli,"1,667",18.5,3.0,0.0,190.0,14.0,
-,Faouzi Ghoulam,dz ALG,DF,11,11,2.0,2.0,2017-2018,c5adc293,Napoli,985,10.9,1.0,0.0,190.0,37.0,
-,Vlad Chiricheș,ro ROU,DF,7,7,0.0,0.0,2017-2018,c316607a,Napoli,582,6.5,1.0,0.0,190.0,51.0,
-,Christian Maggio,it ITA,DF,13,6,0.0,0.0,2017-2018,31d7f557,Napoli,641,7.1,0.0,0.0,190.0,9.0,
-,Amadou Diawara,gn GUI,MF,18,5,0.0,1.0,2017-2018,bf309d24,Napoli,655,7.3,1.0,0.0,190.0,74.0,
-,Arkadiusz Milik,pl POL,"FW,MF",15,3,1.0,5.0,2017-2018,85613cf0,Napoli,448,5.0,2.0,0.0,190.0,14.0,
-,Lorenzo Tonelli,it ITA,DF,4,3,0.0,1.0,2017-2018,8cc29864,Napoli,351,3.9,0.0,0.0,190.0,9.0,
-,Nikola Maksimović,rs SRB,DF,2,1,0.0,0.0,2017-2018,16b9d5cf,Napoli,96,1.1,0.0,0.0,190.0,28.0,
-,Luigi Sepe,it ITA,GK,1,1,0.0,0.0,2017-2018,343f753a,Napoli,90,1.0,0.0,0.0,190.0,9.0,
-,Marko Rog,hr CRO,"MF,FW",28,0,0.0,1.0,2017-2018,b6b2b820,Napoli,289,3.2,2.0,0.0,190.0,16.0,
-,Adam Ounas,dz ALG,FW,7,0,0.0,0.0,2017-2018,d90babd,Napoli,96,1.1,0.0,0.0,190.0,37.0,
-,Emanuele Giaccherini,it ITA,"FW,MF",4,0,0.0,0.0,2017-2018,1c50f354,Napoli,64,0.7,2.0,0.0,190.0,9.0,
-,Rafael Cabral,br BRA,GK,0,0,,,2017-2018,806f7a26,Napoli,,,,,190.0,2.0,
-,Leandrinho,br BRA,MF,0,0,,,2017-2018,26c54163,Napoli,,,,,190.0,2.0,
-,Zinédine Machach,fr FRA,"FW,MF",0,0,,,2017-2018,31377e38,Napoli,,,,,190.0,4.0,
-,Hrvoje Milić,hr CRO,"DF,FW",0,0,,,2017-2018,1b625237,Napoli,,,,,190.0,16.0,
-,Micheal Scarf,gh GHA,DF,0,0,,,2017-2018,568a0378,Napoli,,,,,190.0,17.0,
-,﻿Kalidou Koulibaly,sn SEN,DF,35,35,2.0,2.0,2018-2019,da974c7b,Napoli,"3,132",34.8,10.0,1.0,190.0,34.0,
-,Piotr Zieliński,pl POL,MF,36,33,2.0,6.0,2018-2019,5296e55,Napoli,"2,875",31.9,6.0,0.0,190.0,14.0,
-,José Callejón,es ESP,MF,34,29,10.0,3.0,2018-2019,78841da9,Napoli,"2,650",29.4,1.0,0.0,190.0,1.0,
-,Allan,br BRA,MF,33,28,3.0,1.0,2018-2019,cc700722,Napoli,"2,616",29.1,10.0,0.0,190.0,2.0,
-,Arkadiusz Milik,pl POL,FW,35,27,3.0,17.0,2018-2019,85613cf0,Napoli,"2,396",26.6,4.0,0.0,190.0,14.0,
-,Elseid Hysaj,al ALB,DF,27,24,2.0,0.0,2018-2019,2f3452eb,Napoli,"2,107",23.4,4.0,0.0,190.0,78.0,
-,Lorenzo Insigne,it ITA,"FW,MF",28,24,6.0,10.0,2018-2019,2f557579,Napoli,"2,073",23.0,6.0,1.0,190.0,9.0,
-,Dries Mertens,be BEL,FW,35,23,11.0,16.0,2018-2019,89b2c8a9,Napoli,"2,252",25.0,1.0,0.0,190.0,27.0,
-,Fabián Ruiz Peña,es ESP,MF,27,20,4.0,5.0,2018-2019,c0c7ff58,Napoli,"1,992",22.1,3.0,1.0,190.0,1.0,
-,Kévin Malcuit,ma MAR,DF,24,20,2.0,0.0,2018-2019,d6a889ea,Napoli,"1,805",20.1,3.0,0.0,190.0,26.0,
-,Raúl Albiol,es ESP,DF,20,19,0.0,1.0,2018-2019,4bd414c1,Napoli,"1,713",19.0,4.0,0.0,190.0,1.0,
-,Mário Rui,pt POR,DF,20,17,1.0,1.0,2018-2019,0b5a292a,Napoli,"1,417",15.7,5.0,1.0,190.0,3.0,
-,David Ospina,co COL,GK,17,16,0.0,0.0,2018-2019,82b1198a,Napoli,"1,457",16.2,0.0,0.0,190.0,19.0,
-,Nikola Maksimović,rs SRB,DF,17,15,0.0,0.0,2018-2019,16b9d5cf,Napoli,"1,375",15.3,4.0,0.0,190.0,28.0,
-,Alex Meret,it ITA,GK,14,13,0.0,0.0,2018-2019,9413b19f,Napoli,"1,151",12.8,0.0,1.0,190.0,9.0,
-,Faouzi Ghoulam,dz ALG,DF,16,12,3.0,1.0,2018-2019,c5adc293,Napoli,"1,154",12.8,2.0,0.0,190.0,37.0,
-,Marek Hamšík,sk SVK,MF,13,12,0.0,0.0,2018-2019,6ad16b2,Napoli,916,10.2,1.0,0.0,190.0,70.0,
-,Orestis Karnezis,gr GRE,GK,9,9,0.0,0.0,2018-2019,85b011bb,Napoli,810,9.0,0.0,0.0,190.0,55.0,
-,Simone Verdi,it ITA,"MF,FW",22,9,3.0,3.0,2018-2019,0375723e,Napoli,704,7.8,0.0,0.0,190.0,9.0,
-,Amadou Diawara,gn GUI,MF,13,8,0.0,0.0,2018-2019,bf309d24,Napoli,661,7.3,4.0,0.0,190.0,74.0,
-,Sebastiano Luperto,it ITA,DF,12,6,0.0,0.0,2018-2019,997fff07,Napoli,728,8.1,0.0,0.0,190.0,9.0,
-,Adam Ounas,dz ALG,"MF,FW",18,6,0.0,3.0,2018-2019,d90babd,Napoli,538,6.0,0.0,0.0,190.0,37.0,
-,Amin Younes,de GER,"MF,FW",12,6,2.0,3.0,2018-2019,228f73ae,Napoli,498,5.5,1.0,0.0,190.0,13.0,
-,Marko Rog,hr CRO,MF,9,4,0.0,1.0,2018-2019,b6b2b820,Napoli,333,3.7,3.0,0.0,190.0,16.0,
-,Vlad Chiricheș,ro ROU,DF,3,3,0.0,0.0,2018-2019,c316607a,Napoli,147,1.6,0.0,0.0,190.0,51.0,
-,Gianluca Gaetano,it ITA,"MF,FW",2,0,0.0,0.0,2018-2019,3b387cc7,Napoli,8,0.1,0.0,0.0,190.0,9.0,
-,Antonio Daniele,it ITA,GK,0,0,,,2018-2019,1424fd81,Napoli,,,,,190.0,9.0,
-,Alessandro Fortunato D'Andrea,it ITA,GK,0,0,,,2018-2019,6d0d7b9,Napoli,,,,,190.0,9.0,
-,Davide Marfella,it ITA,GK,0,0,,,2018-2019,880fcdbb,Napoli,,,,,190.0,9.0,
-,Joao Pedro Piai,br BRA,GK,0,0,,,2018-2019,4affc2d1,Napoli,,,,,190.0,2.0,
-,Karim Zedadka,fr FRA,DF,0,0,,,2018-2019,2f45300d,Napoli,,,,,190.0,4.0,
-,﻿Lorenzo Insigne,it ITA,"FW,MF",37,34,6.0,8.0,2019-2020,2f557579,Napoli,"2,810",31.2,1.0,0.0,190.0,9.0,
-,Giovanni Di Lorenzo,it ITA,DF,33,33,3.0,3.0,2019-2020,230a2fac,Napoli,"2,970",33.0,5.0,0.0,190.0,9.0,
-,Piotr Zieliński,pl POL,MF,37,32,4.0,2.0,2019-2020,5296e55,Napoli,"2,924",32.5,4.0,0.0,190.0,14.0,
-,Fabián Ruiz Peña,es ESP,MF,33,30,6.0,3.0,2019-2020,c0c7ff58,Napoli,"2,684",29.8,2.0,0.0,190.0,1.0,
-,Kostas Manolas,gr GRE,DF,26,25,0.0,4.0,2019-2020,c707411f,Napoli,"2,176",24.2,2.0,0.0,190.0,55.0,
-,José Callejón,es ESP,"FW,MF",33,25,7.0,4.0,2019-2020,78841da9,Napoli,"2,172",24.1,2.0,0.0,190.0,1.0,
-,Kalidou Koulibaly,sn SEN,DF,25,24,0.0,0.0,2019-2020,da974c7b,Napoli,"2,105",23.4,7.0,1.0,190.0,34.0,
-,Mário Rui,pt POR,DF,24,22,2.0,0.0,2019-2020,0b5a292a,Napoli,"1,966",21.8,8.0,0.0,190.0,3.0,
-,Alex Meret,it ITA,GK,22,21,0.0,0.0,2019-2020,9413b19f,Napoli,"1,951",21.7,0.0,0.0,190.0,9.0,
-,Nikola Maksimović,rs SRB,DF,22,20,1.0,1.0,2019-2020,16b9d5cf,Napoli,"1,799",20.0,3.0,1.0,190.0,28.0,
-,Arkadiusz Milik,pl POL,FW,26,19,0.0,11.0,2019-2020,85613cf0,Napoli,"1,747",19.4,5.0,0.0,190.0,14.0,
-,Dries Mertens,be BEL,FW,31,18,7.0,9.0,2019-2020,89b2c8a9,Napoli,"1,689",18.8,5.0,0.0,190.0,27.0,
-,Elseid Hysaj,al ALB,DF,20,17,2.0,1.0,2019-2020,2f3452eb,Napoli,"1,481",16.5,3.0,0.0,190.0,78.0,
-,David Ospina,co COL,GK,17,17,0.0,0.0,2019-2020,82b1198a,Napoli,"1,469",16.3,0.0,0.0,190.0,19.0,
-,Allan,br BRA,MF,23,16,1.0,2.0,2019-2020,cc700722,Napoli,"1,280",14.2,3.0,0.0,190.0,2.0,
-,Elif Elmas,mk MKD,MF,26,12,1.0,1.0,2019-2020,cf007308,Napoli,"1,134",12.6,7.0,0.0,190.0,81.0,
-,Hirving Lozano,mx MEX,"FW,MF",26,10,1.0,4.0,2019-2020,69e4806,Napoli,"1,025",11.4,3.0,0.0,190.0,20.0,
-,Diego Demme,de GER,MF,15,10,0.0,1.0,2019-2020,dc3fa3b5,Napoli,902,10.0,6.0,0.0,190.0,13.0,
-,Stanislav Lobotka,sk SVK,MF,14,9,0.0,0.0,2019-2020,1cbb531,Napoli,752,8.4,0.0,0.0,190.0,70.0,
-,Matteo Politano,it ITA,FW,15,9,2.0,2.0,2019-2020,5e861944,Napoli,743,8.3,1.0,0.0,190.0,9.0,
-,Sebastiano Luperto,it ITA,DF,9,5,0.0,0.0,2019-2020,997fff07,Napoli,529,5.9,2.0,0.0,190.0,9.0,
-,Fernando Llorente,es ESP,FW,17,3,1.0,3.0,2019-2020,82dbf623,Napoli,501,5.6,1.0,0.0,190.0,1.0,
-,Faouzi Ghoulam,dz ALG,DF,9,3,1.0,0.0,2019-2020,c5adc293,Napoli,376,4.2,2.0,0.0,190.0,37.0,
-,Kévin Malcuit,ma MAR,DF,4,3,0.0,0.0,2019-2020,d6a889ea,Napoli,256,2.8,0.0,0.0,190.0,26.0,
-,Amin Younes,de GER,"MF,FW",9,1,0.0,1.0,2019-2020,228f73ae,Napoli,176,2.0,1.0,0.0,190.0,13.0,
-,Vlad Chiricheș,ro ROU,DF,0,0,,,2019-2020,c316607a,Napoli,,,,,190.0,51.0,
-,Antonio Daniele,it ITA,GK,0,0,,,2019-2020,1424fd81,Napoli,,,,,190.0,9.0,
-,Gianluca Gaetano,it ITA,MF,0,0,,,2019-2020,3b387cc7,Napoli,,,,,190.0,9.0,
-,Hubert Idasiak,pl POL,GK,0,0,,,2019-2020,1b70f53a,Napoli,,,,,190.0,14.0,
-,Orestis Karnezis,gr GRE,GK,0,0,,,2019-2020,85b011bb,Napoli,,,,,190.0,55.0,
-,Leandrinho,br BRA,MF,0,0,,,2019-2020,26c54163,Napoli,,,,,190.0,2.0,
-,Lorenzo Tonelli,it ITA,DF,0,0,,,2019-2020,8cc29864,Napoli,,,,,190.0,9.0,
-,Simone Verdi,it ITA,"FW,MF",0,0,,,2019-2020,0375723e,Napoli,,,,,190.0,9.0,
-,﻿Giovanni Di Lorenzo,it ITA,DF,36,36,6.0,3.0,2020-2021,230a2fac,Napoli,"3,240",36.0,11.0,0.0,190.0,9.0,
-,Lorenzo Insigne,it ITA,MF,35,33,8.0,19.0,2020-2021,2f557579,Napoli,"2,865",31.8,2.0,1.0,190.0,9.0,
-,Piotr Zieliński,pl POL,MF,36,32,10.0,8.0,2020-2021,5296e55,Napoli,"2,523",28.0,2.0,0.0,190.0,14.0,
-,Fabián Ruiz Peña,es ESP,MF,33,29,1.0,3.0,2020-2021,c0c7ff58,Napoli,"2,569",28.5,1.0,0.0,190.0,1.0,
-,Kostas Manolas,gr GRE,DF,30,27,0.0,0.0,2020-2021,c707411f,Napoli,"2,298",25.5,5.0,0.0,190.0,55.0,
-,Kalidou Koulibaly,sn SEN,DF,26,25,0.0,0.0,2020-2021,da974c7b,Napoli,"2,209",24.5,10.0,1.0,190.0,34.0,
-,Hirving Lozano,mx MEX,"MF,FW",32,23,3.0,11.0,2020-2021,69e4806,Napoli,"1,965",21.8,6.0,0.0,190.0,20.0,
-,Tiemoué Bakayoko,fr FRA,MF,32,23,1.0,2.0,2020-2021,59bf127b,Napoli,"1,964",21.8,6.0,1.0,190.0,4.0,
-,Alex Meret,it ITA,GK,22,22,0.0,0.0,2020-2021,9413b19f,Napoli,"1,980",22.0,0.0,0.0,190.0,9.0,
-,Matteo Politano,it ITA,MF,37,22,4.0,9.0,2020-2021,5e861944,Napoli,"1,908",21.2,3.0,0.0,190.0,9.0,
-,Elseid Hysaj,al ALB,DF,24,20,2.0,0.0,2020-2021,2f3452eb,Napoli,"1,768",19.6,2.0,0.0,190.0,78.0,
-,Diego Demme,de GER,MF,24,20,3.0,2.0,2020-2021,dc3fa3b5,Napoli,"1,590",17.7,6.0,0.0,190.0,13.0,
-,Dries Mertens,be BEL,"FW,MF",29,18,8.0,9.0,2020-2021,89b2c8a9,Napoli,"1,459",16.2,2.0,0.0,190.0,27.0,
-,Mário Rui,pt POR,DF,27,17,2.0,0.0,2020-2021,0b5a292a,Napoli,"1,669",18.5,4.0,0.0,190.0,3.0,
-,Victor Osimhen,ng NGA,FW,24,16,3.0,10.0,2020-2021,8c90fd7a,Napoli,"1,573",17.5,4.0,0.0,190.0,52.0,
-,David Ospina,co COL,GK,16,16,1.0,0.0,2020-2021,82b1198a,Napoli,"1,440",16.0,2.0,0.0,190.0,19.0,
-,Nikola Maksimović,rs SRB,DF,17,12,0.0,0.0,2020-2021,16b9d5cf,Napoli,"1,207",13.4,1.0,0.0,190.0,28.0,
-,Amir Rrahmani,xk KVX,DF,16,12,0.0,1.0,2020-2021,4b3e1a38,Napoli,"1,094",12.2,2.0,0.0,190.0,82.0,
-,Andrea Petagna,it ITA,FW,26,9,3.0,4.0,2020-2021,03f946ed,Napoli,964,10.7,0.0,0.0,190.0,9.0,
-,Elif Elmas,mk MKD,MF,33,3,1.0,2.0,2020-2021,cf007308,Napoli,740,8.2,3.0,0.0,190.0,81.0,
-,Faouzi Ghoulam,dz ALG,"DF,MF",11,3,0.0,0.0,2020-2021,c5adc293,Napoli,289,3.2,1.0,0.0,190.0,37.0,
-,Stanislav Lobotka,sk SVK,MF,15,0,0.0,0.0,2020-2021,1cbb531,Napoli,154,1.7,2.0,0.0,190.0,70.0,
-,Fernando Llorente,es ESP,"FW,MF",3,0,0.0,0.0,2020-2021,82dbf623,Napoli,52,0.6,0.0,0.0,190.0,1.0,
-,Kévin Malcuit,ma MAR,MF,2,0,0.0,0.0,2020-2021,d6a889ea,Napoli,33,0.4,0.0,0.0,190.0,26.0,
-,Antonio Cioffi,it ITA,MF,1,0,0.0,0.0,2020-2021,3f1107d5,Napoli,12,0.1,0.0,0.0,190.0,9.0,
-,Nikita Contini Baranovsky,it ITA,GK,0,0,0.0,0.0,2020-2021,95069bb,Napoli,,0.0,1.0,0.0,190.0,9.0,
-,Davide Costanzo,it ITA,DF,0,0,,,2020-2021,85c6c,Napoli,,,,,190.0,9.0,
-,Giuseppe D'Agostino,it ITA,FW,0,0,,,2020-2021,2921ee,Napoli,,,,,190.0,9.0,
-,Hubert Idasiak,pl POL,GK,0,0,,,2020-2021,1b70f53a,Napoli,,,,,190.0,14.0,
-,Valerio Labriola,it ITA,MF,0,0,,,2020-2021,c230c240,Napoli,,,,,190.0,9.0,
-,Sebastiano Luperto,it ITA,DF,0,0,,,2020-2021,997fff07,Napoli,,,,,190.0,9.0,
-,Karim Zedadka,fr FRA,DF,0,0,,,2020-2021,2f45300d,Napoli,,,,,190.0,4.0,
-,﻿Mário Rui,pt POR,DF,34,34,5.0,0.0,2021-2022,0b5a292a,Napoli,"2,992",33.2,7.0,0.0,190.0,3.0,
-,Amir Rrahmani,xk KVX,DF,33,33,0.0,4.0,2021-2022,4b3e1a38,Napoli,"2,927",32.5,5.0,0.0,190.0,82.0,
-,Giovanni Di Lorenzo,it ITA,DF,33,33,4.0,1.0,2021-2022,230a2fac,Napoli,"2,869",31.9,3.0,0.0,190.0,9.0,
-,David Ospina,co COL,GK,31,31,0.0,0.0,2021-2022,82b1198a,Napoli,"2,790",31.0,1.0,0.0,190.0,19.0,
-,Fabián Ruiz Peña,es ESP,MF,32,29,4.0,7.0,2021-2022,c0c7ff58,Napoli,"2,384",26.5,2.0,0.0,190.0,1.0,
-,Lorenzo Insigne,it ITA,"MF,FW",32,28,8.0,11.0,2021-2022,2f557579,Napoli,"2,290",25.4,2.0,0.0,190.0,9.0,
-,Kalidou Koulibaly,sn SEN,DF,27,27,1.0,3.0,2021-2022,da974c7b,Napoli,"2,405",26.7,5.0,1.0,190.0,34.0,
-,Piotr Zieliński,pl POL,MF,35,26,5.0,6.0,2021-2022,5296e55,Napoli,"2,086",23.2,1.0,0.0,190.0,14.0,
-,Victor Osimhen,ng NGA,FW,27,23,2.0,14.0,2021-2022,8c90fd7a,Napoli,"1,983",22.0,5.0,1.0,190.0,52.0,
-,Andre-Frank Zambo Anguissa,cm CMR,MF,25,21,1.0,0.0,2021-2022,6bb2c084,Napoli,"1,926",21.4,5.0,0.0,190.0,36.0,
-,Matteo Politano,it ITA,"MF,FW",33,20,4.0,3.0,2021-2022,5e861944,Napoli,"1,650",18.3,3.0,0.0,190.0,9.0,
-,Hirving Lozano,mx MEX,"MF,FW",30,20,5.0,5.0,2021-2022,69e4806,Napoli,"1,613",17.9,3.0,0.0,190.0,20.0,
-,Stanislav Lobotka,sk SVK,MF,23,19,0.0,1.0,2021-2022,1cbb531,Napoli,"1,686",18.7,2.0,0.0,190.0,70.0,
-,Dries Mertens,be BEL,"FW,MF",30,16,1.0,11.0,2021-2022,89b2c8a9,Napoli,"1,384",15.4,2.0,0.0,190.0,27.0,
-,Juan Jesus,br BRA,DF,21,14,0.0,1.0,2021-2022,79083382,Napoli,"1,278",14.2,1.0,0.0,190.0,2.0,
-,Elif Elmas,mk MKD,"MF,FW",37,12,4.0,3.0,2021-2022,cf007308,Napoli,"1,620",18.0,3.0,0.0,190.0,81.0,
-,Diego Demme,de GER,MF,19,7,0.0,1.0,2021-2022,dc3fa3b5,Napoli,692,7.7,4.0,0.0,190.0,13.0,
-,Alex Meret,it ITA,GK,7,7,0.0,0.0,2021-2022,9413b19f,Napoli,619,6.9,0.0,0.0,190.0,9.0,
-,Alessandro Zanoli,it ITA,DF,12,5,0.0,0.0,2021-2022,3b12b11f,Napoli,457,5.1,2.0,0.0,190.0,9.0,
-,Andrea Petagna,it ITA,FW,24,4,1.0,3.0,2021-2022,03f946ed,Napoli,586,6.5,1.0,0.0,190.0,9.0,
-,Faouzi Ghoulam,dz ALG,DF,14,3,0.0,0.0,2021-2022,c5adc293,Napoli,332,3.7,1.0,0.0,190.0,37.0,
-,Kostas Manolas,gr GRE,DF,4,3,0.0,0.0,2021-2022,c707411f,Napoli,313,3.5,1.0,0.0,190.0,55.0,
-,Kévin Malcuit,ma MAR,"DF,MF",8,2,1.0,0.0,2021-2022,d6a889ea,Napoli,288,3.2,3.0,0.0,190.0,26.0,
-,Adam Ounas,dz ALG,"MF,FW",15,1,0.0,0.0,2021-2022,d90babd,Napoli,326,3.6,1.0,0.0,190.0,37.0,
-,Gianluca Gaetano,it ITA,MF,2,0,0.0,0.0,2021-2022,3b387cc7,Napoli,20,0.2,0.0,0.0,190.0,9.0,
-,Davide Marfella,it ITA,GK,1,0,0.0,0.0,2021-2022,880fcdbb,Napoli,11,0.1,0.0,0.0,190.0,9.0,
-,Axel Tuanzebe,eng ENG,DF,1,0,0.0,0.0,2021-2022,2baec6ce,Napoli,11,0.1,0.0,0.0,190.0,6.0,
-,Giuseppe Ambrosino,it ITA,FW,0,0,,,2021-2022,282947c7,Napoli,,,,,190.0,9.0,
-,Benedetto Barba,it ITA,DF,0,0,,,2021-2022,2a7e2610,Napoli,,,,,190.0,9.0,
-,Antonio Cioffi,it ITA,FW,0,0,,,2021-2022,3f1107d5,Napoli,,,,,190.0,9.0,
-,Davide Costanzo,it ITA,DF,0,0,,,2021-2022,85c6c,Napoli,,,,,190.0,9.0,
-,Hubert Idasiak,pl POL,GK,0,0,,,2021-2022,1b70f53a,Napoli,,,,,190.0,14.0,
-,Balla Manè,it ITA,DF,0,0,,,2021-2022,d9d96d02,Napoli,,,,,190.0,9.0,
-,Luca Palmiero,it ITA,MF,0,0,,,2021-2022,3aafd050,Napoli,,,,,190.0,9.0,
-,Jonathan Spedalieri,it ITA,DF,0,0,,,2021-2022,5a332121,Napoli,,,,,190.0,9.0,
-,Antonio Vergara,it ITA,FW,0,0,,,2021-2022,848c17ed,Napoli,,,,,190.0,9.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿José Luís Vidigal,pt POR,MF,33,33,0.0,5.0,2002-2003,/en/players/10011693/Jose-Luis-Vidigal,10011693,Napoli,"2,970",33.0,8.0,0.0,190,3.0,20245,Napoli
+,Antonio Bocchetti,it ITA,DF,35,33,1.0,1.0,2002-2003,/en/players/29e679e1/Antonio-Bocchetti,29e679e1,Napoli,"2,881",32.0,6.0,0.0,190,9.0,20042,Napoli
+,Mauro Bonomi,it ITA,DF,32,31,0.0,1.0,2002-2003,/en/players/449d5f83/Mauro-Bonomi,449d5f83,Napoli,"2,824",31.4,12.0,1.0,190,9.0,23087,Napoli
+,Davide Dionigi,it ITA,MF,31,29,5.0,18.0,2002-2003,/en/players/83dc0b9c/Davide-Dionigi,83dc0b9c,Napoli,"2,583",28.7,4.0,0.0,190,9.0,21487,Napoli
+,Francesco Mancini,it ITA,GK,28,27,0.0,0.0,2002-2003,/en/players/6edcd2db/Francesco-Mancini,6edcd2db,Napoli,"2,380",26.4,1.0,0.0,190,9.0,23088,Napoli
+,Francesco Baldini,it ITA,DF,25,24,0.0,1.0,2002-2003,/en/players/0d796e28/Francesco-Baldini,0d796e28,Napoli,"2,122",23.6,2.0,0.0,190,9.0,23089,Napoli
+,Roberto Stellone,it ITA,FW,27,24,3.0,8.0,2002-2003,/en/players/72f23b97/Roberto-Stellone,72f23b97,Napoli,"2,058",22.9,3.0,0.0,190,9.0,21478,Napoli
+,Gonzalo Martínez,co COL,DF,20,20,3.0,0.0,2002-2003,/en/players/66b813e6/Gonzalo-Martinez,66b813e6,Napoli,"1,724",19.2,3.0,0.0,190,19.0,20234,Napoli
+,Emanuele Troise,it ITA,DF,23,20,0.0,0.0,2002-2003,/en/players/da129c1e/Emanuele-Troise,da129c1e,Napoli,"1,722",19.1,4.0,0.0,190,9.0,21035,Napoli
+,Dario Marcolin,it ITA,MF,19,19,2.0,0.0,2002-2003,/en/players/c20a2842/Dario-Marcolin,c20a2842,Napoli,"1,656",18.4,4.0,0.0,190,9.0,21735,Napoli
+,Rubens Pasino,it ITA,MF,19,17,5.0,0.0,2002-2003,/en/players/d5a24f81/Rubens-Pasino,d5a24f81,Napoli,"1,466",16.3,0.0,0.0,190,9.0,21186,Napoli
+,Montezine,qa QAT,MF,27,15,6.0,2.0,2002-2003,/en/players/01f66113/Montezine,01f66113,Napoli,"1,378",15.3,3.0,0.0,190,113.0,23090,Napoli
+,Maurizio D'Angelo,it ITA,DF,15,15,0.0,0.0,2002-2003,/en/players/7ee9c38a/Maurizio-DAngelo,7ee9c38a,Napoli,"1,269",14.1,5.0,1.0,190,9.0,20383,Napoli
+,Abdelilah Saber,ma MAR,DF,19,14,0.0,1.0,2002-2003,/en/players/8fb4fb96/Abdelilah-Saber,8fb4fb96,Napoli,"1,193",13.3,4.0,0.0,190,26.0,21951,Napoli
+,Alberto Savino,it ITA,DF,14,14,0.0,0.0,2002-2003,/en/players/824a769d/Alberto-Savino,824a769d,Napoli,"1,126",12.5,3.0,1.0,190,9.0,22137,Napoli
+,Antonio Floro Flores,it ITA,FW,32,12,4.0,3.0,2002-2003,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Napoli,"1,298",14.4,1.0,0.0,190,9.0,5035,Napoli
+,Francesco Montervino,it ITA,MF,16,12,0.0,0.0,2002-2003,/en/players/7efa108b/Francesco-Montervino,7efa108b,Napoli,"1,150",12.8,4.0,0.0,190,9.0,22343,Napoli
+,David Sesa,ch SUI,"FW,MF",18,11,1.0,2.0,2002-2003,/en/players/85aadde2/David-Sesa,85aadde2,Napoli,"1,107",12.3,1.0,0.0,190,39.0,23091,Napoli
+,Claudio Husaín,ar ARG,MF,11,11,0.0,0.0,2002-2003,/en/players/d87e872e/Claudio-Husain,d87e872e,Napoli,893,9.9,5.0,0.0,190,5.0,23092,Napoli
+,Claudio Ferrarese,it ITA,MF,14,10,1.0,0.0,2002-2003,/en/players/d1d96205/Claudio-Ferrarese,d1d96205,Napoli,"1,011",11.2,1.0,1.0,190,9.0,21733,Napoli
+,Emanuele Manitta,it ITA,GK,8,8,0.0,0.0,2002-2003,/en/players/be5bf625/Emanuele-Manitta,be5bf625,Napoli,716,8.0,0.0,0.0,190,9.0,21051,Napoli
+,Domenico Cristiano,it ITA,MF,11,6,0.0,0.0,2002-2003,/en/players/d1d8b250/Domenico-Cristiano,d1d8b250,Napoli,558,6.2,5.0,1.0,190,9.0,22760,Napoli
+,Matteo Villa,it ITA,DF,4,4,0.0,0.0,2002-2003,/en/players/6f295477/Matteo-Villa,6f295477,Napoli,324,3.6,1.0,0.0,190,9.0,23093,Napoli
+,Mariano Stendardo,it ITA,DF,8,4,0.0,0.0,2002-2003,/en/players/7f1c3622/Mariano-Stendardo,7f1c3622,Napoli,313,3.5,1.0,1.0,190,9.0,22929,Napoli
+,Marco Storari,it ITA,GK,4,3,0.0,0.0,2002-2003,/en/players/fb5eb6e0/Marco-Storari,fb5eb6e0,Napoli,334,3.7,0.0,0.0,190,9.0,4131,Napoli
+,Marco Quadrini,it ITA,DF,6,2,0.0,0.0,2002-2003,/en/players/ba24f061/Marco-Quadrini,ba24f061,Napoli,289,3.2,2.0,1.0,190,9.0,23098,Napoli
+,Massimo Russo,,,4,0,0.0,0.0,2002-2003,No detected,,Napoli,84,0.9,0.0,0.0,190,,90884,Napoli
+,Vincenzo Platone,,,2,0,0.0,0.0,2002-2003,No detected,,Napoli,35,0.4,0.0,0.0,190,,90885,Napoli
+,Nicola Mancino,,,1,0,0.0,0.0,2002-2003,No detected,,Napoli,19,0.2,0.0,0.0,190,,90886,Napoli
+,Raffaele Pianese,,,2,0,0.0,0.0,2002-2003,/en/players/578ff789/Raffaele-Pianese,578ff789,Napoli,18,0.2,0.0,0.0,190,,90887,Napoli
+,Carlos Pavón,hn HON,FW,1,0,0.0,0.0,2002-2003,/en/players/9f671024/Carlos-Pavon,9f671024,Napoli,13,0.1,0.0,0.0,190,107.0,23094,Napoli
+,Raffaele Gragnaniello,it ITA,GK,1,0,0.0,0.0,2002-2003,/en/players/63f12568/Raffaele-Gragnaniello,63f12568,Napoli,4,0.0,0.0,0.0,190,9.0,23095,Napoli
+,﻿Emanuele Manitta,it ITA,GK,41,41,0.0,0.0,2003-2004,/en/players/be5bf625/Emanuele-Manitta,be5bf625,Napoli,"3,671",40.8,1.0,0.0,190,9.0,21051,Napoli
+,Vittorio Tosto,it ITA,DF,38,38,2.0,5.0,2003-2004,/en/players/7ac92ed1/Vittorio-Tosto,7ac92ed1,Napoli,"3,234",35.9,4.0,0.0,190,9.0,21326,Napoli
+,Marco Zamboni,it ITA,DF,37,36,5.0,3.0,2003-2004,/en/players/b055e962/Marco-Zamboni,b055e962,Napoli,"3,281",36.5,2.0,1.0,190,9.0,21483,Napoli
+,Davide Dionigi,it ITA,MF,32,32,2.0,8.0,2003-2004,/en/players/83dc0b9c/Davide-Dionigi,83dc0b9c,Napoli,"2,515",27.9,6.0,0.0,190,9.0,21487,Napoli
+,Daniele Portanova,it ITA,DF,31,30,1.0,0.0,2003-2004,/en/players/19dee7dd/Daniele-Portanova,19dee7dd,Napoli,"2,715",30.2,6.0,0.0,190,9.0,21070,Napoli
+,Mauro Bonomi,it ITA,DF,30,30,0.0,0.0,2003-2004,/en/players/449d5f83/Mauro-Bonomi,449d5f83,Napoli,"2,670",29.7,5.0,0.0,190,9.0,23087,Napoli
+,Andrea Bernini,it ITA,MF,32,30,0.0,1.0,2003-2004,/en/players/3e9454d8/Andrea-Bernini,3e9454d8,Napoli,"2,535",28.2,8.0,0.0,190,9.0,20890,Napoli
+,Nicola Zanini,it ITA,MF,36,28,1.0,5.0,2003-2004,/en/players/40cbc47c/Nicola-Zanini,40cbc47c,Napoli,"2,260",25.1,2.0,0.0,190,9.0,22779,Napoli
+,José Luís Vidigal,pt POR,MF,28,26,0.0,0.0,2003-2004,/en/players/10011693/Jose-Luis-Vidigal,10011693,Napoli,"2,298",25.5,7.0,0.0,190,3.0,20245,Napoli
+,Massimo Carrera,it ITA,DF,26,25,0.0,0.0,2003-2004,/en/players/8e09a712/Massimo-Carrera,8e09a712,Napoli,"2,110",23.4,1.0,0.0,190,9.0,21606,Napoli
+,Dario Marcolin,it ITA,MF,28,24,0.0,0.0,2003-2004,/en/players/c20a2842/Dario-Marcolin,c20a2842,Napoli,"2,062",22.9,4.0,1.0,190,9.0,21735,Napoli
+,Cataldo Montesanto,it ITA,MF,27,22,0.0,0.0,2003-2004,/en/players/7cd036ad/Cataldo-Montesanto,7cd036ad,Napoli,"1,895",21.1,9.0,0.0,190,9.0,22754,Napoli
+,Alessandro Del Grosso,it ITA,DF,19,17,0.0,1.0,2003-2004,/en/players/70747da7/Alessandro-Del-Grosso,70747da7,Napoli,"1,541",17.1,1.0,0.0,190,9.0,22993,Napoli
+,Marko Perović,rs SRB,MF,15,14,0.0,3.0,2003-2004,/en/players/ee141164/Marko-Perovic,141164,Napoli,"1,244",13.8,3.0,0.0,190,28.0,22340,Napoli
+,Renato Olive,it ITA,MF,17,14,0.0,0.0,2003-2004,/en/players/c1387a46/Renato-Olive,c1387a46,Napoli,"1,145",12.7,6.0,1.0,190,9.0,20024,Napoli
+,Max Vieri,au AUS,FW,29,12,1.0,5.0,2003-2004,/en/players/414b83c3/Max-Vieri,414b83c3,Napoli,"1,468",16.3,0.0,0.0,190,42.0,23096,Napoli
+,Francesco Montervino,it ITA,MF,20,12,0.0,0.0,2003-2004,/en/players/7efa108b/Francesco-Montervino,7efa108b,Napoli,"1,073",11.9,1.0,0.0,190,9.0,22343,Napoli
+,Rubens Pasino,it ITA,MF,22,11,4.0,1.0,2003-2004,/en/players/d5a24f81/Rubens-Pasino,d5a24f81,Napoli,"1,154",12.8,4.0,0.0,190,9.0,21186,Napoli
+,Antonio Floro Flores,it ITA,FW,14,9,2.0,1.0,2003-2004,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Napoli,864,9.6,0.0,0.0,190,9.0,5035,Napoli
+,Gianluca Savoldi,it ITA,FW,13,8,0.0,2.0,2003-2004,/en/players/6b4cbc17/Gianluca-Savoldi,6b4cbc17,Napoli,686,7.6,1.0,1.0,190,9.0,21475,Napoli
+,Mario Cvitanović,hr CRO,DF,9,7,0.0,0.0,2003-2004,/en/players/210801ab/Mario-Cvitanovic,210801ab,Napoli,705,7.8,0.0,0.0,190,16.0,17891,Napoli
+,Montezine,qa QAT,MF,20,6,3.0,0.0,2003-2004,/en/players/01f66113/Montezine,01f66113,Napoli,810,9.0,3.0,0.0,190,113.0,23090,Napoli
+,David Sesa,ch SUI,"FW,MF",22,5,0.0,0.0,2003-2004,/en/players/85aadde2/David-Sesa,85aadde2,Napoli,689,7.7,2.0,0.0,190,39.0,23091,Napoli
+,Gonzalo Martínez,co COL,DF,12,5,0.0,0.0,2003-2004,/en/players/66b813e6/Gonzalo-Martinez,66b813e6,Napoli,507,5.6,0.0,0.0,190,19.0,20234,Napoli
+,Gennaro Esposito,it ITA,MF,5,4,0.0,0.0,2003-2004,/en/players/e3e850c9/Gennaro-Esposito,3e850c9,Napoli,421,4.7,1.0,0.0,190,9.0,22271,Napoli
+,Sean Sogliano,it ITA,DF,6,4,0.0,0.0,2003-2004,/en/players/54875eee/Sean-Sogliano,54875eee,Napoli,405,4.5,3.0,0.0,190,9.0,20860,Napoli
+,Pierluigi Brivio,it ITA,GK,4,4,0.0,0.0,2003-2004,/en/players/e530af82/Pierluigi-Brivio,530af82,Napoli,360,4.0,0.0,0.0,190,9.0,23097,Napoli
+,Marco Quadrini,it ITA,DF,3,1,0.0,0.0,2003-2004,/en/players/ba24f061/Marco-Quadrini,ba24f061,Napoli,97,1.1,0.0,0.0,190,9.0,23098,Napoli
+,Nunzio Di Roberto,it ITA,FW,2,0,0.0,0.0,2003-2004,/en/players/97b1ac7a/Nunzio-Di-Roberto,97b1ac7a,Napoli,46,0.5,0.0,0.0,190,9.0,23099,Napoli
+,Raffaele Pianese,,,1,0,0.0,0.0,2003-2004,/en/players/578ff789/Raffaele-Pianese,578ff789,Napoli,11,0.1,0.0,0.0,190,,90887,Napoli
+,Marcello D'Angelo,,,1,0,0.0,0.0,2003-2004,No detected,,Napoli,9,0.1,0.0,0.0,190,,90888,Napoli
+,Raffaele Sorriso,,,1,0,0.0,0.0,2003-2004,No detected,,Napoli,6,0.1,0.0,0.0,190,,90889,Napoli
+,Giuseppe Vitagliano,,,1,0,0.0,0.0,2003-2004,No detected,,Napoli,5,0.1,0.0,0.0,190,,90890,Napoli
+,﻿Gennaro Iezzo,it ITA,GK,39,39,0.0,0.0,2006-2007,/en/players/a778fbda/Gennaro-Iezzo,778fbda,Napoli,"3,431",38.1,2.0,0.0,190,9.0,22601,Napoli
+,Paolo Cannavaro,it ITA,DF,39,39,0.0,2.0,2006-2007,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"3,384",37.6,11.0,1.0,190,9.0,20005,Napoli
+,Gianluca Grava,it ITA,DF,38,38,3.0,1.0,2006-2007,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,"3,232",35.9,10.0,1.0,190,9.0,23100,Napoli
+,Mariano Bogliacino,uy URU,MF,37,37,3.0,6.0,2006-2007,/en/players/ab028814/Mariano-Bogliacino,b028814,Napoli,"3,234",35.9,10.0,0.0,190,8.0,5400,Napoli
+,Maurizio Domizzi,it ITA,DF,36,35,1.0,2.0,2006-2007,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Napoli,"3,122",34.7,7.0,0.0,190,9.0,20266,Napoli
+,Emanuele Calaiò,it ITA,FW,38,34,5.0,14.0,2006-2007,/en/players/e412488f/Emanuele-Calaio,412488f,Napoli,"2,780",30.9,3.0,3.0,190,9.0,20131,Napoli
+,Mirko Savini,it ITA,DF,33,33,3.0,0.0,2006-2007,/en/players/c0ce99db/Mirko-Savini,c0ce99db,Napoli,"2,778",30.9,13.0,1.0,190,9.0,22690,Napoli
+,Rubén Maldonado,py PAR,DF,32,29,1.0,1.0,2006-2007,/en/players/9cef03a0/Ruben-Maldonado,9cef03a0,Napoli,"2,568",28.5,6.0,2.0,190,43.0,20423,Napoli
+,Samuele Dalla Bona,it ITA,MF,32,28,4.0,3.0,2006-2007,/en/players/70a59026/Samuele-Dalla-Bona,70a59026,Napoli,"2,333",25.9,7.0,0.0,190,9.0,19769,Napoli
+,Cristian Bucchi,it ITA,FW,29,22,0.0,8.0,2006-2007,/en/players/8df7ea1e/Cristian-Bucchi,8df7ea1e,Napoli,"1,832",20.4,1.0,0.0,190,9.0,21059,Napoli
+,Roberto De Zerbi,it ITA,"FW,MF",30,20,8.0,3.0,2006-2007,/en/players/1374b9c5/Roberto-De-Zerbi,1374b9c5,Napoli,"1,845",20.5,8.0,0.0,190,9.0,20711,Napoli
+,Fabio Gatti,it ITA,MF,23,19,1.0,0.0,2006-2007,/en/players/4424bcaf/Fabio-Gatti,4424bcaf,Napoli,"1,528",17.0,8.0,0.0,190,9.0,20870,Napoli
+,Erminio Rullo,it ITA,DF,25,18,1.0,0.0,2006-2007,/en/players/a3c828c5/Erminio-Rullo,3c828c5,Napoli,"1,699",18.9,4.0,1.0,190,9.0,21235,Napoli
+,Nicolás Amodio,uy URU,MF,24,18,0.0,0.0,2006-2007,/en/players/384bedb7/Nicolas-Amodio,384bedb7,Napoli,"1,633",18.1,7.0,1.0,190,8.0,21777,Napoli
+,Francesco Montervino,it ITA,MF,27,16,0.0,1.0,2006-2007,/en/players/7efa108b/Francesco-Montervino,7efa108b,Napoli,"1,584",17.6,8.0,1.0,190,9.0,22343,Napoli
+,Roberto Sosa,ar ARG,FW,32,11,1.0,6.0,2006-2007,/en/players/4698b988/Roberto-Sosa,4698b988,Napoli,"1,319",14.7,3.0,0.0,190,5.0,22767,Napoli
+,David Giubilato,it ITA,DF,15,10,0.0,0.0,2006-2007,/en/players/46284816/David-Giubilato,46284816,Napoli,999,11.1,2.0,0.0,190,9.0,21062,Napoli
+,Piá,br BRA,"FW,MF",21,9,2.0,2.0,2006-2007,/en/players/b10cb9ec/Pia,b10cb9ec,Napoli,926,10.3,3.0,0.0,190,2.0,21610,Napoli
+,György Garics,at AUT,"DF,MF",11,8,0.0,0.0,2006-2007,/en/players/ca50fc0e/Gyorgy-Garics,ca50fc0e,Napoli,745,8.3,2.0,0.0,190,24.0,19361,Napoli
+,Ivano Trotta,it ITA,MF,28,6,3.0,2.0,2006-2007,/en/players/ed9e5c75/Ivano-Trotta,d9e5c75,Napoli,"1,050",11.7,3.0,0.0,190,9.0,22977,Napoli
+,Matteo Gianello,it ITA,GK,4,3,0.0,0.0,2006-2007,/en/players/2863ca7e/Matteo-Gianello,2863ca7e,Napoli,349,3.9,0.0,0.0,190,9.0,23101,Napoli
+,Marco Capparella,it ITA,"FW,MF",8,2,0.0,0.0,2006-2007,/en/players/a6e57680/Marco-Capparella,6e57680,Napoli,162,1.8,1.0,0.0,190,9.0,22772,Napoli
+,Luigi Vitale,it ITA,"DF,FW",1,1,0.0,0.0,2006-2007,/en/players/fe479e17/Luigi-Vitale,fe479e17,Napoli,77,0.9,0.0,0.0,190,9.0,22493,Napoli
+,﻿Walter Gargano,uy URU,MF,34,34,1.0,2.0,2007-2008,/en/players/f7cb73ec/Walter-Gargano,f7cb73ec,Napoli,"3,007",33.4,5.0,2.0,190,8.0,19675,Napoli
+,Paolo Cannavaro,it ITA,DF,34,34,0.0,0.0,2007-2008,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"3,006",33.4,8.0,1.0,190,9.0,20005,Napoli
+,Ezequiel Lavezzi,ar ARG,"FW,MF",35,34,7.0,8.0,2007-2008,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Napoli,"2,977",33.1,6.0,0.0,190,5.0,12789,Napoli
+,Marek Hamšík,sk SVK,MF,37,34,3.0,9.0,2007-2008,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"2,892",32.1,4.0,0.0,190,70.0,20689,Napoli
+,Maurizio Domizzi,it ITA,DF,29,29,1.0,8.0,2007-2008,/en/players/822aad0c/Maurizio-Domizzi,822aad0c,Napoli,"2,533",28.1,11.0,2.0,190,9.0,20266,Napoli
+,Mirko Savini,it ITA,DF,29,29,0.0,0.0,2007-2008,/en/players/c0ce99db/Mirko-Savini,c0ce99db,Napoli,"2,401",26.7,8.0,0.0,190,9.0,22690,Napoli
+,Manuele Blasi,it ITA,MF,27,27,0.0,0.0,2007-2008,/en/players/7aae335a/Manuele-Blasi,7aae335a,Napoli,"2,328",25.9,16.0,1.0,190,9.0,19513,Napoli
+,Matteo Contini,it ITA,DF,28,22,0.0,1.0,2007-2008,/en/players/dec20583/Matteo-Contini,dec20583,Napoli,"1,923",21.4,10.0,0.0,190,9.0,3568,Napoli
+,Marcelo Zalayeta,uy URU,FW,22,21,2.0,8.0,2007-2008,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Napoli,"1,740",19.3,0.0,1.0,190,8.0,19502,Napoli
+,Gennaro Iezzo,it ITA,GK,19,19,0.0,0.0,2007-2008,/en/players/a778fbda/Gennaro-Iezzo,778fbda,Napoli,"1,710",19.0,0.0,0.0,190,9.0,22601,Napoli
+,György Garics,at AUT,"DF,MF",26,17,0.0,1.0,2007-2008,/en/players/ca50fc0e/Gyorgy-Garics,ca50fc0e,Napoli,"1,660",18.4,3.0,0.0,190,24.0,19361,Napoli
+,Mariano Bogliacino,uy URU,MF,35,16,3.0,3.0,2007-2008,/en/players/ab028814/Mariano-Bogliacino,b028814,Napoli,"1,548",17.2,1.0,0.0,190,8.0,5400,Napoli
+,Matteo Gianello,it ITA,GK,16,16,0.0,0.0,2007-2008,/en/players/2863ca7e/Matteo-Gianello,2863ca7e,Napoli,"1,440",16.0,1.0,0.0,190,9.0,23101,Napoli
+,Andrea Cupi,it ITA,DF,16,16,0.0,0.0,2007-2008,/en/players/1adbe6a8/Andrea-Cupi,1adbe6a8,Napoli,"1,193",13.3,1.0,0.0,190,9.0,21309,Napoli
+,Daniele Mannini,it ITA,MF,15,15,1.0,1.0,2007-2008,/en/players/bf1be8ff/Daniele-Mannini,bf1be8ff,Napoli,"1,218",13.5,6.0,0.0,190,9.0,20683,Napoli
+,Gianluca Grava,it ITA,DF,19,13,0.0,0.0,2007-2008,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,"1,207",13.4,2.0,0.0,190,9.0,23100,Napoli
+,Fabiano Santacroce,it ITA,DF,13,11,1.0,0.0,2007-2008,/en/players/99036505/Fabiano-Santacroce,99036505,Napoli,"1,015",11.3,7.0,0.0,190,9.0,20086,Napoli
+,Roberto Sosa,ar ARG,FW,30,8,1.0,6.0,2007-2008,/en/players/4698b988/Roberto-Sosa,4698b988,Napoli,"1,116",12.4,3.0,0.0,190,5.0,22767,Napoli
+,Michele Pazienza,it ITA,MF,13,8,0.0,0.0,2007-2008,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Napoli,804,8.9,4.0,0.0,190,9.0,19552,Napoli
+,Emanuele Calaiò,it ITA,FW,26,7,0.0,2.0,2007-2008,/en/players/e412488f/Emanuele-Calaio,412488f,Napoli,820,9.1,1.0,0.0,190,9.0,20131,Napoli
+,Nicolás Navarro,ar ARG,GK,3,3,0.0,0.0,2007-2008,/en/players/c2133be8/Nicolas-Navarro,c2133be8,Napoli,270,3.0,0.0,0.0,190,5.0,23102,Napoli
+,Erminio Rullo,it ITA,DF,4,2,0.0,0.0,2007-2008,/en/players/a3c828c5/Erminio-Rullo,3c828c5,Napoli,156,1.7,2.0,0.0,190,9.0,21235,Napoli
+,Francesco Montervino,it ITA,MF,9,1,0.0,0.0,2007-2008,/en/players/7efa108b/Francesco-Montervino,7efa108b,Napoli,192,2.1,0.0,0.0,190,9.0,22343,Napoli
+,Rubén Maldonado,py PAR,DF,2,1,0.0,0.0,2007-2008,/en/players/9cef03a0/Ruben-Maldonado,9cef03a0,Napoli,143,1.6,0.0,0.0,190,43.0,20423,Napoli
+,Roberto De Zerbi,it ITA,"FW,MF",3,1,0.0,0.0,2007-2008,/en/players/1374b9c5/Roberto-De-Zerbi,1374b9c5,Napoli,114,1.3,0.0,0.0,190,9.0,20711,Napoli
+,Samuele Dalla Bona,it ITA,MF,2,0,0.0,0.0,2007-2008,/en/players/70a59026/Samuele-Dalla-Bona,70a59026,Napoli,45,0.5,0.0,0.0,190,9.0,19769,Napoli
+,Marco Capparella,it ITA,"FW,MF",2,0,0.0,0.0,2007-2008,/en/players/a6e57680/Marco-Capparella,6e57680,Napoli,26,0.3,0.0,0.0,190,9.0,22772,Napoli
+,﻿Matteo Contini,it ITA,DF,34,31,0.0,0.0,2008-2009,/en/players/dec20583/Matteo-Contini,dec20583,Napoli,"2,876",32.0,9.0,0.0,190,9.0,3568,Napoli
+,Manuele Blasi,it ITA,MF,32,31,0.0,0.0,2008-2009,/en/players/7aae335a/Manuele-Blasi,7aae335a,Napoli,"2,728",30.3,11.0,0.0,190,9.0,19513,Napoli
+,Marek Hamšík,sk SVK,MF,32,31,4.0,9.0,2008-2009,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"2,496",27.7,2.0,1.0,190,70.0,20689,Napoli
+,Paolo Cannavaro,it ITA,DF,30,30,0.0,0.0,2008-2009,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"2,593",28.8,9.0,0.0,190,9.0,20005,Napoli
+,Ezequiel Lavezzi,ar ARG,"FW,MF",30,29,8.0,7.0,2008-2009,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Napoli,"2,617",29.1,6.0,0.0,190,5.0,12789,Napoli
+,Fabiano Santacroce,it ITA,DF,27,27,0.0,0.0,2008-2009,/en/players/99036505/Fabiano-Santacroce,99036505,Napoli,"2,260",25.1,7.0,0.0,190,9.0,20086,Napoli
+,Walter Gargano,uy URU,MF,26,23,2.0,0.0,2008-2009,/en/players/f7cb73ec/Walter-Gargano,f7cb73ec,Napoli,"2,141",23.8,4.0,0.0,190,8.0,19675,Napoli
+,Germán Denis,ar ARG,FW,34,22,3.0,8.0,2008-2009,/en/players/3b64f69d/German-Denis,3b64f69d,Napoli,"1,987",22.1,1.0,0.0,190,5.0,20272,Napoli
+,Christian Maggio,it ITA,"DF,MF",23,22,3.0,4.0,2008-2009,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"1,877",20.9,4.0,1.0,190,9.0,22059,Napoli
+,Daniele Mannini,it ITA,MF,24,21,0.0,1.0,2008-2009,/en/players/bf1be8ff/Daniele-Mannini,bf1be8ff,Napoli,"1,802",20.0,2.0,1.0,190,9.0,20683,Napoli
+,Nicolás Navarro,ar ARG,GK,19,18,0.0,0.0,2008-2009,/en/players/c2133be8/Nicolas-Navarro,c2133be8,Napoli,"1,600",17.8,1.0,0.0,190,5.0,23102,Napoli
+,Michele Pazienza,it ITA,MF,29,18,0.0,1.0,2008-2009,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Napoli,"1,589",17.7,3.0,0.0,190,9.0,19552,Napoli
+,Marcelo Zalayeta,uy URU,FW,27,17,1.0,4.0,2008-2009,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Napoli,"1,571",17.5,2.0,1.0,190,8.0,19502,Napoli
+,Luigi Vitale,it ITA,"DF,FW",18,17,1.0,1.0,2008-2009,/en/players/fe479e17/Luigi-Vitale,fe479e17,Napoli,"1,367",15.2,4.0,0.0,190,9.0,22493,Napoli
+,Salvatore Aronica,it ITA,DF,23,15,1.0,0.0,2008-2009,/en/players/a060cd8e/Salvatore-Aronica,060cd8e,Napoli,"1,513",16.8,4.0,0.0,190,9.0,21497,Napoli
+,Gennaro Iezzo,it ITA,GK,15,15,0.0,0.0,2008-2009,/en/players/a778fbda/Gennaro-Iezzo,778fbda,Napoli,"1,325",14.7,1.0,0.0,190,9.0,22601,Napoli
+,Leandro Rinaudo,it ITA,DF,17,13,0.0,0.0,2008-2009,/en/players/26536bf4/Leandro-Rinaudo,26536bf4,Napoli,"1,264",14.0,4.0,0.0,190,9.0,19546,Napoli
+,Mariano Bogliacino,uy URU,MF,15,8,0.0,2.0,2008-2009,/en/players/ab028814/Mariano-Bogliacino,b028814,Napoli,758,8.4,1.0,0.0,190,8.0,5400,Napoli
+,Piá,br BRA,"FW,MF",15,8,2.0,4.0,2008-2009,/en/players/b10cb9ec/Pia,b10cb9ec,Napoli,667,7.4,1.0,0.0,190,2.0,21610,Napoli
+,Francesco Montervino,it ITA,MF,13,6,0.0,1.0,2008-2009,/en/players/7efa108b/Francesco-Montervino,7efa108b,Napoli,559,6.2,2.0,1.0,190,9.0,22343,Napoli
+,Gianluca Grava,it ITA,DF,6,5,0.0,0.0,2008-2009,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,466,5.2,1.0,0.0,190,9.0,23100,Napoli
+,Matteo Gianello,it ITA,GK,5,4,0.0,0.0,2008-2009,/en/players/2863ca7e/Matteo-Gianello,2863ca7e,Napoli,346,3.8,0.0,0.0,190,9.0,23101,Napoli
+,Jesús Dátolo,ar ARG,MF,9,3,2.0,0.0,2008-2009,/en/players/49e7b005/Jesus-Datolo,49e7b005,Napoli,484,5.4,1.0,0.0,190,5.0,3062,Napoli
+,Nicolás Amodio,uy URU,MF,3,3,0.0,0.0,2008-2009,/en/players/384bedb7/Nicolas-Amodio,384bedb7,Napoli,250,2.8,2.0,0.0,190,8.0,21777,Napoli
+,Luca Bucci,it ITA,GK,1,1,0.0,0.0,2008-2009,/en/players/de1d4b63/Luca-Bucci,de1d4b63,Napoli,90,1.0,0.0,0.0,190,9.0,20025,Napoli
+,Andrea Russotto,it ITA,"FW,MF",15,0,0.0,0.0,2008-2009,/en/players/2a8f450e/Andrea-Russotto,2a8f450e,Napoli,227,2.5,1.0,0.0,190,9.0,22510,Napoli
+,Luigi Sepe,it ITA,GK,1,0,0.0,0.0,2008-2009,/en/players/343f753a/Luigi-Sepe,343f753a,Napoli,59,0.7,0.0,0.0,190,9.0,20155,Napoli
+,﻿Morgan De Sanctis,it ITA,GK,38,38,0.0,0.0,2009-2010,/en/players/83228343/Morgan-De-Sanctis,83228343,Napoli,"3,420",38.0,2.0,0.0,190,9.0,1832,Napoli
+,Marek Hamšík,sk SVK,MF,37,37,4.0,12.0,2009-2010,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"3,239",36.0,1.0,0.0,190,70.0,20689,Napoli
+,Walter Gargano,uy URU,MF,36,35,1.0,0.0,2009-2010,/en/players/f7cb73ec/Walter-Gargano,f7cb73ec,Napoli,"3,059",34.0,6.0,0.0,190,8.0,19675,Napoli
+,Christian Maggio,it ITA,"DF,MF",34,33,3.0,5.0,2009-2010,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"2,782",30.9,4.0,1.0,190,9.0,22059,Napoli
+,Paolo Cannavaro,it ITA,DF,33,32,0.0,1.0,2009-2010,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"2,898",32.2,15.0,0.0,190,9.0,20005,Napoli
+,Fabio Quagliarella,it ITA,FW,34,32,5.0,11.0,2009-2010,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Napoli,"2,836",31.5,7.0,1.0,190,9.0,19543,Napoli
+,Hugo Campagnaro,ar ARG,DF,28,28,2.0,1.0,2009-2010,/en/players/2ac01901/Hugo-Campagnaro,2ac01901,Napoli,"2,360",26.2,7.0,1.0,190,5.0,19686,Napoli
+,Ezequiel Lavezzi,ar ARG,"FW,MF",30,27,5.0,8.0,2009-2010,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Napoli,"2,374",26.4,4.0,1.0,190,5.0,12789,Napoli
+,Michele Pazienza,it ITA,MF,33,27,0.0,2.0,2009-2010,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Napoli,"2,330",25.9,8.0,0.0,190,9.0,19552,Napoli
+,Salvatore Aronica,it ITA,DF,26,24,2.0,0.0,2009-2010,/en/players/a060cd8e/Salvatore-Aronica,060cd8e,Napoli,"2,065",22.9,13.0,1.0,190,9.0,21497,Napoli
+,Gianluca Grava,it ITA,DF,24,22,0.0,0.0,2009-2010,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,"1,905",21.2,9.0,0.0,190,9.0,23100,Napoli
+,Germán Denis,ar ARG,FW,29,16,2.0,5.0,2009-2010,/en/players/3b64f69d/German-Denis,3b64f69d,Napoli,"1,489",16.5,0.0,0.0,190,5.0,20272,Napoli
+,Juan Zúñiga,co COL,"DF,MF",22,15,0.0,0.0,2009-2010,/en/players/06b34f37/Juan-Zuniga,06b34f37,Napoli,"1,384",15.4,5.0,0.0,190,19.0,9912,Napoli
+,Leandro Rinaudo,it ITA,DF,20,13,1.0,1.0,2009-2010,/en/players/26536bf4/Leandro-Rinaudo,26536bf4,Napoli,"1,175",13.1,6.0,0.0,190,9.0,19546,Napoli
+,Matteo Contini,it ITA,DF,13,12,0.0,0.0,2009-2010,/en/players/dec20583/Matteo-Contini,dec20583,Napoli,"1,120",12.4,7.0,1.0,190,9.0,3568,Napoli
+,Luca Cigarini,it ITA,MF,28,11,1.0,2.0,2009-2010,/en/players/ae64d449/Luca-Cigarini,64d449,Napoli,"1,130",12.6,0.0,0.0,190,9.0,1855,Napoli
+,Jesús Dátolo,ar ARG,MF,13,6,0.0,1.0,2009-2010,/en/players/49e7b005/Jesus-Datolo,49e7b005,Napoli,537,6.0,1.0,0.0,190,5.0,3062,Napoli
+,Fabiano Santacroce,it ITA,DF,4,4,0.0,0.0,2009-2010,/en/players/99036505/Fabiano-Santacroce,99036505,Napoli,310,3.4,1.0,0.0,190,9.0,20086,Napoli
+,Andrea Dossena,it ITA,"DF,MF",10,3,0.0,0.0,2009-2010,/en/players/3ae59b9c/Andrea-Dossena,3ae59b9c,Napoli,414,4.6,2.0,0.0,190,9.0,6306,Napoli
+,Mariano Bogliacino,uy URU,MF,18,2,0.0,1.0,2009-2010,/en/players/ab028814/Mariano-Bogliacino,b028814,Napoli,500,5.6,2.0,0.0,190,8.0,5400,Napoli
+,Piá,br BRA,"FW,MF",2,1,0.0,0.0,2009-2010,/en/players/b10cb9ec/Pia,b10cb9ec,Napoli,69,0.8,0.0,0.0,190,2.0,21610,Napoli
+,Erwin Hoffer,at AUT,FW,8,0,0.0,0.0,2009-2010,/en/players/9d33e42f/Erwin-Hoffer,9d33e42f,Napoli,95,1.1,0.0,0.0,190,24.0,17379,Napoli
+,Erminio Rullo,it ITA,DF,1,0,0.0,0.0,2009-2010,/en/players/a3c828c5/Erminio-Rullo,3c828c5,Napoli,18,0.2,0.0,0.0,190,9.0,21235,Napoli
+,Raffaele Maiello,it ITA,MF,1,0,0.0,0.0,2009-2010,/en/players/02febfdc/Raffaele-Maiello,02febfdc,Napoli,6,0.1,0.0,0.0,190,9.0,21381,Napoli
+,Lorenzo Insigne,it ITA,"FW,MF",1,0,0.0,0.0,2009-2010,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,1,0.0,0.0,0.0,190,9.0,23103,Napoli
+,﻿Morgan De Sanctis,it ITA,GK,38,38,0.0,0.0,2010-2011,/en/players/83228343/Morgan-De-Sanctis,83228343,Napoli,"3,420",38.0,3.0,0.0,190,9.0,1832,Napoli
+,Marek Hamšík,sk SVK,MF,37,36,8.0,11.0,2010-2011,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"2,964",32.9,4.0,0.0,190,70.0,20689,Napoli
+,Christian Maggio,it ITA,"DF,MF",33,33,3.0,4.0,2010-2011,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"2,799",31.1,6.0,0.0,190,9.0,22059,Napoli
+,Edinson Cavani,uy URU,"FW,MF",35,32,6.0,26.0,2010-2011,/en/players/527f063d/Edinson-Cavani,527f063d,Napoli,"2,899",32.2,5.0,1.0,190,8.0,5831,Napoli
+,Paolo Cannavaro,it ITA,DF,32,31,1.0,2.0,2010-2011,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"2,717",30.2,8.0,1.0,190,9.0,20005,Napoli
+,Andrea Dossena,it ITA,"DF,MF",33,31,3.0,1.0,2010-2011,/en/players/3ae59b9c/Andrea-Dossena,3ae59b9c,Napoli,"2,448",27.2,5.0,0.0,190,9.0,6306,Napoli
+,Hugo Campagnaro,ar ARG,DF,31,30,0.0,0.0,2010-2011,/en/players/2ac01901/Hugo-Campagnaro,2ac01901,Napoli,"2,730",30.3,10.0,0.0,190,5.0,19686,Napoli
+,Michele Pazienza,it ITA,MF,31,30,1.0,1.0,2010-2011,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Napoli,"2,425",26.9,7.0,2.0,190,9.0,19552,Napoli
+,Ezequiel Lavezzi,ar ARG,"FW,MF",31,29,13.0,6.0,2010-2011,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Napoli,"2,643",29.4,8.0,0.0,190,5.0,12789,Napoli
+,Walter Gargano,uy URU,MF,36,29,4.0,0.0,2010-2011,/en/players/f7cb73ec/Walter-Gargano,f7cb73ec,Napoli,"2,617",29.1,9.0,0.0,190,8.0,19675,Napoli
+,Salvatore Aronica,it ITA,DF,26,19,0.0,0.0,2010-2011,/en/players/a060cd8e/Salvatore-Aronica,060cd8e,Napoli,"1,881",20.9,7.0,0.0,190,9.0,21497,Napoli
+,Hassan Yebda,dz ALG,MF,29,15,0.0,0.0,2010-2011,/en/players/4907d688/Hassan-Yebda,4907d688,Napoli,"1,604",17.8,3.0,0.0,190,37.0,5029,Napoli
+,Juan Zúñiga,co COL,"DF,MF",27,15,2.0,2.0,2010-2011,/en/players/06b34f37/Juan-Zuniga,06b34f37,Napoli,"1,547",17.2,2.0,0.0,190,19.0,9912,Napoli
+,Gianluca Grava,it ITA,DF,13,12,0.0,0.0,2010-2011,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,930,10.3,4.0,0.0,190,9.0,23100,Napoli
+,Fabiano Santacroce,it ITA,DF,11,10,0.0,0.0,2010-2011,/en/players/99036505/Fabiano-Santacroce,99036505,Napoli,822,9.1,3.0,0.0,190,9.0,20086,Napoli
+,José Sosa,ar ARG,MF,24,7,2.0,1.0,2010-2011,/en/players/1eecc0c6/Jose-Sosa,1eecc0c6,Napoli,698,7.8,1.0,0.0,190,5.0,2209,Napoli
+,Emílson Cribari,br BRA,DF,9,6,0.0,0.0,2010-2011,/en/players/0913c971/Emilson-Cribari,0913c971,Napoli,619,6.9,0.0,0.0,190,2.0,19894,Napoli
+,Víctor Ruiz,es ESP,"DF,MF",6,6,0.0,0.0,2010-2011,/en/players/b3dc6eca/Victor-Ruiz,b3dc6eca,Napoli,540,6.0,2.0,0.0,190,1.0,940,Napoli
+,Giuseppe Mascara,it ITA,FW,14,4,2.0,3.0,2010-2011,/en/players/d4fb7e8e/Giuseppe-Mascara,d4fb7e8e,Napoli,491,5.5,6.0,0.0,190,9.0,20882,Napoli
+,Luigi Vitale,it ITA,"DF,FW",6,2,0.0,0.0,2010-2011,/en/players/fe479e17/Luigi-Vitale,fe479e17,Napoli,223,2.5,1.0,0.0,190,9.0,22493,Napoli
+,Cristiano Lucarelli,it ITA,FW,9,1,0.0,1.0,2010-2011,/en/players/a8aebb58/Cristiano-Lucarelli,8aebb58,Napoli,230,2.6,0.0,0.0,190,9.0,20049,Napoli
+,Raffaele Maiello,it ITA,MF,3,1,0.0,0.0,2010-2011,/en/players/02febfdc/Raffaele-Maiello,02febfdc,Napoli,107,1.2,0.0,0.0,190,9.0,21381,Napoli
+,Manuele Blasi,it ITA,MF,2,1,0.0,0.0,2010-2011,/en/players/7aae335a/Manuele-Blasi,7aae335a,Napoli,76,0.8,1.0,1.0,190,9.0,19513,Napoli
+,Nicolao Dumitru,it ITA,"FW,MF",9,0,0.0,0.0,2010-2011,/en/players/1a5d127b/Nicolao-Dumitru,1a5d127b,Napoli,107,1.2,0.0,0.0,190,9.0,4532,Napoli
+,﻿Morgan De Sanctis,it ITA,GK,37,37,0.0,0.0,2011-2012,/en/players/83228343/Morgan-De-Sanctis,83228343,Napoli,"3,330",37.0,1.0,0.0,190,9.0,1832,Napoli
+,Edinson Cavani,uy URU,"FW,MF",35,32,3.0,23.0,2011-2012,/en/players/527f063d/Edinson-Cavani,527f063d,Napoli,"2,912",32.4,4.0,0.0,190,8.0,5831,Napoli
+,Paolo Cannavaro,it ITA,DF,32,31,0.0,2.0,2011-2012,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"2,670",29.7,10.0,0.0,190,9.0,20005,Napoli
+,Marek Hamšík,sk SVK,MF,37,30,8.0,9.0,2011-2012,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"2,679",29.8,5.0,0.0,190,70.0,20689,Napoli
+,Hugo Campagnaro,ar ARG,DF,31,30,1.0,2.0,2011-2012,/en/players/2ac01901/Hugo-Campagnaro,2ac01901,Napoli,"2,589",28.8,4.0,0.0,190,5.0,19686,Napoli
+,Walter Gargano,uy URU,MF,33,30,2.0,2.0,2011-2012,/en/players/f7cb73ec/Walter-Gargano,f7cb73ec,Napoli,"2,548",28.3,5.0,0.0,190,8.0,19675,Napoli
+,Gökhan Inler,ch SUI,MF,36,29,2.0,0.0,2011-2012,/en/players/3200c583/Gokhan-Inler,3200c583,Napoli,"2,593",28.8,3.0,0.0,190,39.0,9062,Napoli
+,Salvatore Aronica,it ITA,DF,31,29,0.0,0.0,2011-2012,/en/players/a060cd8e/Salvatore-Aronica,060cd8e,Napoli,"2,536",28.2,4.0,1.0,190,9.0,21497,Napoli
+,Christian Maggio,it ITA,"DF,MF",33,27,4.0,3.0,2011-2012,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"2,461",27.3,3.0,0.0,190,9.0,22059,Napoli
+,Ezequiel Lavezzi,ar ARG,"FW,MF",30,25,6.0,9.0,2011-2012,/en/players/6d6456d7/Ezequiel-Lavezzi,6d6456d7,Napoli,"2,205",24.5,7.0,0.0,190,5.0,12789,Napoli
+,Andrea Dossena,it ITA,"DF,MF",33,24,3.0,2.0,2011-2012,/en/players/3ae59b9c/Andrea-Dossena,3ae59b9c,Napoli,"2,194",24.4,2.0,0.0,190,9.0,6306,Napoli
+,Juan Zúñiga,co COL,"DF,MF",31,22,0.0,2.0,2011-2012,/en/players/06b34f37/Juan-Zuniga,06b34f37,Napoli,"2,112",23.5,3.0,1.0,190,19.0,9912,Napoli
+,Blerim Džemaili,ch SUI,MF,27,21,4.0,3.0,2011-2012,/en/players/756959aa/Blerim-Dzemaili,756959aa,Napoli,"1,930",21.4,9.0,0.0,190,39.0,20071,Napoli
+,Goran Pandev,mk MKD,"FW,MF",30,19,6.0,6.0,2011-2012,/en/players/d711d04f/Goran-Pandev,d711d04f,Napoli,"1,726",19.2,1.0,1.0,190,81.0,19662,Napoli
+,Federico Fernández,ar ARG,DF,16,9,0.0,0.0,2011-2012,/en/players/f25b010f/Federico-Fernandez,f25b010f,Napoli,969,10.8,4.0,0.0,190,5.0,4038,Napoli
+,Miguel Britos,uy URU,DF,11,9,0.0,1.0,2011-2012,/en/players/356a9a62/Miguel-Britos,356a9a62,Napoli,668,7.4,5.0,0.0,190,8.0,9903,Napoli
+,Mario Santana,ar ARG,MF,8,4,0.0,0.0,2011-2012,/en/players/a48abd4a/Mario-Santana,48abd4a,Napoli,288,3.2,1.0,1.0,190,5.0,20385,Napoli
+,Ignacio Fideleff,ar ARG,DF,4,4,0.0,0.0,2011-2012,/en/players/a6490814/Ignacio-Fideleff,6490814,Napoli,275,3.1,2.0,0.0,190,5.0,20098,Napoli
+,Gianluca Grava,it ITA,DF,6,3,0.0,0.0,2011-2012,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,295,3.3,3.0,0.0,190,9.0,23100,Napoli
+,Giuseppe Mascara,it ITA,FW,7,2,1.0,1.0,2011-2012,/en/players/d4fb7e8e/Giuseppe-Mascara,d4fb7e8e,Napoli,237,2.6,1.0,0.0,190,9.0,20882,Napoli
+,Antonio Rosati,it ITA,GK,1,1,0.0,0.0,2011-2012,/en/players/28a15394/Antonio-Rosati,28a15394,Napoli,90,1.0,1.0,0.0,190,9.0,20919,Napoli
+,Eduardo Vargas,cl CHI,"FW,MF",10,0,0.0,0.0,2011-2012,/en/players/bd603c00/Eduardo-Vargas,bd603c00,Napoli,163,1.8,0.0,0.0,190,31.0,950,Napoli
+,Cristiano Lucarelli,it ITA,FW,3,0,0.0,0.0,2011-2012,/en/players/a8aebb58/Cristiano-Lucarelli,8aebb58,Napoli,22,0.2,0.0,0.0,190,9.0,20049,Napoli
+,Cristian Chávez,ar ARG,"FW,MF",2,0,0.0,0.0,2011-2012,/en/players/f385f3c5/Cristian-Chavez,f385f3c5,Napoli,21,0.2,0.0,0.0,190,5.0,23104,Napoli
+,Massimiliano Ammendola,it ITA,MF,1,0,0.0,0.0,2011-2012,/en/players/110c39d8/Massimiliano-Ammendola,110c39d8,Napoli,1,0.0,0.0,0.0,190,9.0,23105,Napoli
+,﻿Marek Hamšík,sk SVK,MF,38,37,14.0,11.0,2012-2013,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"3,266",36.3,2.0,0.0,190,70.0,20689,Napoli
+,Morgan De Sanctis,it ITA,GK,34,34,0.0,0.0,2012-2013,/en/players/83228343/Morgan-De-Sanctis,83228343,Napoli,"3,060",34.0,4.0,0.0,190,9.0,1832,Napoli
+,Edinson Cavani,uy URU,"FW,MF",34,33,3.0,29.0,2012-2013,/en/players/527f063d/Edinson-Cavani,527f063d,Napoli,"2,981",33.1,6.0,0.0,190,8.0,5831,Napoli
+,Paolo Cannavaro,it ITA,DF,32,32,1.0,1.0,2012-2013,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,"2,845",31.6,8.0,0.0,190,9.0,20005,Napoli
+,Valon Behrami,ch SUI,"DF,MF",33,32,0.0,0.0,2012-2013,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Napoli,"2,615",29.1,14.0,0.0,190,39.0,8451,Napoli
+,Christian Maggio,it ITA,"DF,MF",31,31,5.0,4.0,2012-2013,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"2,713",30.1,3.0,0.0,190,9.0,22059,Napoli
+,Juan Zúñiga,co COL,"DF,MF",32,30,4.0,0.0,2012-2013,/en/players/06b34f37/Juan-Zuniga,06b34f37,Napoli,"2,618",29.1,3.0,0.0,190,19.0,9912,Napoli
+,Hugo Campagnaro,ar ARG,DF,28,27,1.0,1.0,2012-2013,/en/players/2ac01901/Hugo-Campagnaro,2ac01901,Napoli,"2,412",26.8,8.0,0.0,190,5.0,19686,Napoli
+,Gökhan Inler,ch SUI,MF,31,25,2.0,6.0,2012-2013,/en/players/3200c583/Gokhan-Inler,3200c583,Napoli,"2,177",24.2,7.0,0.0,190,39.0,9062,Napoli
+,Goran Pandev,mk MKD,"FW,MF",33,25,7.0,6.0,2012-2013,/en/players/d711d04f/Goran-Pandev,d711d04f,Napoli,"2,080",23.1,3.0,0.0,190,81.0,19662,Napoli
+,Alessandro Gamberini,it ITA,DF,25,24,0.0,1.0,2012-2013,/en/players/8ec95452/Alessandro-Gamberini,8ec95452,Napoli,"1,892",21.0,3.0,0.0,190,9.0,20479,Napoli
+,Miguel Britos,uy URU,DF,22,22,0.0,0.0,2012-2013,/en/players/356a9a62/Miguel-Britos,356a9a62,Napoli,"1,797",20.0,5.0,0.0,190,8.0,9903,Napoli
+,Blerim Džemaili,ch SUI,MF,34,19,2.0,7.0,2012-2013,/en/players/756959aa/Blerim-Dzemaili,756959aa,Napoli,"1,965",21.8,7.0,0.0,190,39.0,20071,Napoli
+,Lorenzo Insigne,it ITA,"FW,MF",37,16,7.0,5.0,2012-2013,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"1,766",19.6,3.0,0.0,190,9.0,23103,Napoli
+,Giandomenico Mesto,it ITA,"DF,MF",16,7,1.0,1.0,2012-2013,/en/players/6447938e/Giandomenico-Mesto,6447938e,Napoli,738,8.2,1.0,0.0,190,9.0,20263,Napoli
+,Pablo Armero,co COL,"DF,MF",15,4,3.0,0.0,2012-2013,/en/players/afabf74e/Pablo-Armero,fabf74e,Napoli,584,6.5,2.0,0.0,190,19.0,8475,Napoli
+,Rolando,pt POR,DF,7,4,0.0,0.0,2012-2013,/en/players/0eeafda5/Rolando,0eeafda5,Napoli,394,4.4,1.0,0.0,190,3.0,11601,Napoli
+,Antonio Rosati,it ITA,GK,4,4,0.0,0.0,2012-2013,/en/players/28a15394/Antonio-Rosati,28a15394,Napoli,360,4.0,0.0,0.0,190,9.0,20919,Napoli
+,Andrea Dossena,it ITA,"DF,MF",7,3,0.0,0.0,2012-2013,/en/players/3ae59b9c/Andrea-Dossena,3ae59b9c,Napoli,289,3.2,1.0,0.0,190,9.0,6306,Napoli
+,Salvatore Aronica,it ITA,DF,5,3,2.0,0.0,2012-2013,/en/players/a060cd8e/Salvatore-Aronica,060cd8e,Napoli,216,2.4,2.0,0.0,190,9.0,21497,Napoli
+,Gianluca Grava,it ITA,DF,2,2,0.0,0.0,2012-2013,/en/players/df7d9a25/Gianluca-Grava,df7d9a25,Napoli,146,1.6,1.0,0.0,190,9.0,23100,Napoli
+,Omar El Kaddouri,ma MAR,MF,7,1,1.0,0.0,2012-2013,/en/players/92b17b2a/Omar-El-Kaddouri,92b17b2a,Napoli,231,2.6,0.0,0.0,190,26.0,20719,Napoli
+,Marco Donadel,it ITA,MF,4,1,0.0,0.0,2012-2013,/en/players/3169af41/Marco-Donadel,3169af41,Napoli,122,1.4,0.0,0.0,190,9.0,20011,Napoli
+,Emanuele Calaiò,it ITA,FW,6,1,1.0,0.0,2012-2013,/en/players/e412488f/Emanuele-Calaio,412488f,Napoli,116,1.3,0.0,0.0,190,9.0,20131,Napoli
+,Federico Fernández,ar ARG,DF,2,1,0.0,0.0,2012-2013,/en/players/f25b010f/Federico-Fernandez,f25b010f,Napoli,103,1.1,0.0,0.0,190,5.0,4038,Napoli
+,Eduardo Vargas,cl CHI,"FW,MF",9,0,1.0,0.0,2012-2013,/en/players/bd603c00/Eduardo-Vargas,bd603c00,Napoli,129,1.4,3.0,0.0,190,31.0,950,Napoli
+,Roberto Insigne,it ITA,"FW,MF",1,0,0.0,0.0,2012-2013,/en/players/8faf7b3c/Roberto-Insigne,8faf7b3c,Napoli,5,0.1,0.0,0.0,190,9.0,20133,Napoli
+,﻿José Callejón,es ESP,"FW,MF",37,32,6.0,15.0,2013-2014,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"2,845",31.6,6.0,0.0,190,1.0,105,Napoli
+,Raúl Albiol,es ESP,DF,32,30,2.0,1.0,2013-2014,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Napoli,"2,644",29.4,5.0,0.0,190,1.0,80,Napoli
+,Gökhan Inler,ch SUI,MF,32,30,2.0,2.0,2013-2014,/en/players/3200c583/Gokhan-Inler,3200c583,Napoli,"2,627",29.2,6.0,0.0,190,39.0,9062,Napoli
+,Pepe Reina,es ESP,GK,30,30,0.0,0.0,2013-2014,/en/players/e358587b/Pepe-Reina,358587b,Napoli,"2,597",28.9,0.0,0.0,190,1.0,2702,Napoli
+,Gonzalo Higuaín,ar ARG,"FW,MF",32,28,7.0,17.0,2013-2014,/en/players/8a08491a/Gonzalo-Higuain,8a08491a,Napoli,"2,409",26.8,6.0,0.0,190,5.0,57,Napoli
+,Lorenzo Insigne,it ITA,"FW,MF",36,25,8.0,3.0,2013-2014,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,400",26.7,2.0,0.0,190,9.0,23103,Napoli
+,Federico Fernández,ar ARG,DF,26,25,1.0,0.0,2013-2014,/en/players/f25b010f/Federico-Fernandez,f25b010f,Napoli,"2,294",25.5,5.0,1.0,190,5.0,4038,Napoli
+,Marek Hamšík,sk SVK,MF,28,23,5.0,7.0,2013-2014,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"1,981",22.0,2.0,0.0,190,70.0,20689,Napoli
+,Christian Maggio,it ITA,"DF,MF",22,22,1.0,0.0,2013-2014,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"1,958",21.8,4.0,1.0,190,9.0,22059,Napoli
+,Dries Mertens,be BEL,"FW,MF",32,21,6.0,11.0,2013-2014,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"1,905",21.2,4.0,0.0,190,27.0,23106,Napoli
+,Blerim Džemaili,ch SUI,MF,24,18,3.0,6.0,2013-2014,/en/players/756959aa/Blerim-Dzemaili,756959aa,Napoli,"1,551",17.2,4.0,0.0,190,39.0,20071,Napoli
+,Goran Pandev,mk MKD,"FW,MF",28,17,4.0,7.0,2013-2014,/en/players/d711d04f/Goran-Pandev,d711d04f,Napoli,"1,376",15.3,3.0,0.0,190,81.0,19662,Napoli
+,Valon Behrami,ch SUI,"DF,MF",21,16,0.0,0.0,2013-2014,/en/players/d3d758d8/Valon-Behrami,d3d758d8,Napoli,"1,464",16.3,3.0,0.0,190,39.0,8451,Napoli
+,Miguel Britos,uy URU,DF,16,15,0.0,1.0,2013-2014,/en/players/356a9a62/Miguel-Britos,356a9a62,Napoli,"1,316",14.6,8.0,0.0,190,8.0,9903,Napoli
+,Faouzi Ghoulam,dz ALG,DF,15,14,1.0,0.0,2013-2014,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,"1,222",13.6,1.0,1.0,190,37.0,14212,Napoli
+,Anthony Réveillère,fr FRA,DF,13,13,0.0,0.0,2013-2014,/en/players/8ad24039/Anthony-Reveillere,8ad24039,Napoli,"1,088",12.1,1.0,0.0,190,4.0,868,Napoli
+,Jorginho,it ITA,MF,15,12,1.0,0.0,2013-2014,/en/players/45db685d/Jorginho,45db685d,Napoli,"1,119",12.4,4.0,0.0,190,9.0,6238,Napoli
+,Giandomenico Mesto,it ITA,"DF,MF",11,10,0.0,0.0,2013-2014,/en/players/6447938e/Giandomenico-Mesto,6447938e,Napoli,825,9.2,2.0,0.0,190,9.0,20263,Napoli
+,Pablo Armero,co COL,"DF,MF",14,9,0.0,0.0,2013-2014,/en/players/afabf74e/Pablo-Armero,fabf74e,Napoli,880,9.8,1.0,0.0,190,19.0,8475,Napoli
+,Henrique,br BRA,DF,11,8,0.0,1.0,2013-2014,/en/players/429163de/Henrique,429163de,Napoli,747,8.3,2.0,0.0,190,2.0,2885,Napoli
+,Rafael Cabral,br BRA,GK,8,7,0.0,0.0,2013-2014,/en/players/806f7a26/Rafael-Cabral,806f7a26,Napoli,675,7.5,0.0,0.0,190,2.0,9670,Napoli
+,Duván Zapata,co COL,FW,16,6,2.0,5.0,2013-2014,/en/players/d3de9af0/Duvan-Zapata,d3de9af0,Napoli,575,6.4,2.0,0.0,190,19.0,20295,Napoli
+,Juan Zúñiga,co COL,"DF,MF",6,4,2.0,0.0,2013-2014,/en/players/06b34f37/Juan-Zuniga,06b34f37,Napoli,411,4.6,0.0,0.0,190,19.0,9912,Napoli
+,Paolo Cannavaro,it ITA,DF,4,2,0.0,0.0,2013-2014,/en/players/46ed55b6/Paolo-Cannavaro,46ed55b6,Napoli,249,2.8,1.0,1.0,190,9.0,20005,Napoli
+,Toni Doblas,es ESP,GK,2,1,0.0,0.0,2013-2014,/en/players/d5c35223/Toni-Doblas,d5c35223,Napoli,103,1.1,0.0,0.0,190,1.0,1380,Napoli
+,Josip Radošević,hr CRO,MF,8,0,0.0,0.0,2013-2014,/en/players/6afcaaa3/Josip-Radosevic,6afcaaa3,Napoli,124,1.4,2.0,0.0,190,16.0,5243,Napoli
+,Bruno Uvini,br BRA,DF,1,0,0.0,0.0,2013-2014,/en/players/ecfe4300/Bruno-Uvini,cfe4300,Napoli,84,0.9,0.0,0.0,190,2.0,23107,Napoli
+,Roberto Colombo,it ITA,GK,1,0,0.0,0.0,2013-2014,/en/players/3b01efe2/Roberto-Colombo,3b01efe2,Napoli,45,0.5,0.0,0.0,190,9.0,21055,Napoli
+,Igor Łasicki,pl POL,DF,1,0,0.0,0.0,2013-2014,/en/players/dc10a532/Igor-Lasicki,dc10a532,Napoli,13,0.1,0.0,0.0,190,14.0,23108,Napoli
+,Davide Bariti,it ITA,MF,2,0,0.0,0.0,2013-2014,/en/players/5fe43a66/Davide-Bariti,5fe43a66,Napoli,8,0.1,0.0,0.0,190,9.0,23109,Napoli
+,﻿Raúl Albiol,es ESP,DF,35,34,1.0,0.0,2014-2015,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Napoli,"3,100",34.4,10.0,0.0,190,1.0,80,Napoli
+,José Callejón,es ESP,"FW,MF",38,33,3.0,11.0,2014-2015,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"2,966",33.0,1.0,0.0,190,1.0,105,Napoli
+,Gonzalo Higuaín,ar ARG,"FW,MF",37,31,7.0,18.0,2014-2015,/en/players/8a08491a/Gonzalo-Higuain,8a08491a,Napoli,"2,774",30.8,5.0,0.0,190,5.0,57,Napoli
+,David López,es ESP,"DF,MF",32,29,1.0,1.0,2014-2015,/en/players/f03f284b/David-Lopez,f03f284b,Napoli,"2,595",28.8,4.0,0.0,190,1.0,3066,Napoli
+,Christian Maggio,it ITA,"DF,MF",29,29,1.0,0.0,2014-2015,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,"2,577",28.6,8.0,1.0,190,9.0,22059,Napoli
+,Marek Hamšík,sk SVK,MF,35,28,10.0,7.0,2014-2015,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"2,304",25.6,1.0,0.0,190,70.0,20689,Napoli
+,Kalidou Koulibaly,sn SEN,DF,27,27,0.0,1.0,2014-2015,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"2,425",26.9,9.0,1.0,190,34.0,13897,Napoli
+,Rafael Cabral,br BRA,GK,23,23,0.0,0.0,2014-2015,/en/players/806f7a26/Rafael-Cabral,806f7a26,Napoli,"2,070",23.0,0.0,0.0,190,2.0,9670,Napoli
+,Faouzi Ghoulam,dz ALG,DF,21,20,2.0,0.0,2014-2015,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,"1,756",19.5,7.0,1.0,190,37.0,14212,Napoli
+,Dries Mertens,be BEL,"FW,MF",31,17,6.0,6.0,2014-2015,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"1,677",18.6,4.0,1.0,190,27.0,23106,Napoli
+,Miguel Britos,uy URU,DF,19,17,0.0,1.0,2014-2015,/en/players/356a9a62/Miguel-Britos,356a9a62,Napoli,"1,496",16.6,7.0,1.0,190,8.0,9903,Napoli
+,Walter Gargano,uy URU,MF,24,17,1.0,0.0,2014-2015,/en/players/f7cb73ec/Walter-Gargano,f7cb73ec,Napoli,"1,495",16.6,6.0,0.0,190,8.0,19675,Napoli
+,Gökhan Inler,ch SUI,MF,19,16,0.0,1.0,2014-2015,/en/players/3200c583/Gokhan-Inler,3200c583,Napoli,"1,361",15.1,4.0,0.0,190,39.0,9062,Napoli
+,Mariano Andújar,ar ARG,GK,15,15,0.0,0.0,2014-2015,/en/players/609cd867/Mariano-Andujar,609cd867,Napoli,"1,350",15.0,0.0,0.0,190,5.0,22408,Napoli
+,Jorginho,it ITA,MF,23,14,0.0,0.0,2014-2015,/en/players/45db685d/Jorginho,45db685d,Napoli,"1,285",14.3,5.0,0.0,190,9.0,6238,Napoli
+,Lorenzo Insigne,it ITA,"FW,MF",20,13,3.0,2.0,2014-2015,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"1,064",11.8,0.0,0.0,190,9.0,23103,Napoli
+,Jonathan de Guzmán,nl NED,MF,23,12,1.0,3.0,2014-2015,/en/players/1bcca8b8/Jonathan-de-Guzman,1bcca8b8,Napoli,"1,184",13.2,1.0,0.0,190,11.0,1617,Napoli
+,Henrique,br BRA,DF,11,9,1.0,0.0,2014-2015,/en/players/429163de/Henrique,429163de,Napoli,819,9.1,3.0,1.0,190,2.0,2885,Napoli
+,Ivan Strinić,hr CRO,DF,9,9,0.0,0.0,2014-2015,/en/players/52e2ef8f/Ivan-Strinic,52e2ef8f,Napoli,805,8.9,1.0,0.0,190,16.0,19848,Napoli
+,Manolo Gabbiadini,it ITA,FW,20,8,1.0,8.0,2014-2015,/en/players/8f866fe8/Manolo-Gabbiadini,8f866fe8,Napoli,862,9.6,1.0,0.0,190,9.0,6897,Napoli
+,Duván Zapata,co COL,FW,21,6,1.0,6.0,2014-2015,/en/players/d3de9af0/Duvan-Zapata,d3de9af0,Napoli,623,6.9,2.0,0.0,190,19.0,20295,Napoli
+,Juan Zúñiga,co COL,"DF,MF",7,6,2.0,0.0,2014-2015,/en/players/06b34f37/Juan-Zuniga,06b34f37,Napoli,522,5.8,0.0,0.0,190,19.0,9912,Napoli
+,Giandomenico Mesto,it ITA,"DF,MF",7,3,0.0,0.0,2014-2015,/en/players/6447938e/Giandomenico-Mesto,6447938e,Napoli,279,3.1,1.0,0.0,190,9.0,20263,Napoli
+,Michu,es ESP,"FW,MF",3,2,0.0,0.0,2014-2015,/en/players/98429b7b/Michu,98429b7b,Napoli,145,1.6,1.0,0.0,190,1.0,688,Napoli
+,Sebastiano Luperto,it ITA,DF,1,0,0.0,0.0,2014-2015,/en/players/997fff07/Sebastiano-Luperto,997fff07,Napoli,7,0.1,0.0,0.0,190,9.0,21403,Napoli
+,Josip Radošević,hr CRO,MF,1,0,0.0,0.0,2014-2015,/en/players/6afcaaa3/Josip-Radosevic,6afcaaa3,Napoli,7,0.1,0.0,0.0,190,16.0,5243,Napoli
+,Roberto Colombo,it ITA,GK,0,0,,,2014-2015,/en/players/3b01efe2/Roberto-Colombo,3b01efe2,Napoli,,,,,190,9.0,21055,Napoli
+,Nikita Contini Baranovsky,it ITA,GK,0,0,,,2014-2015,/en/players/e95069bb/Nikita-Contini-Baranovsky,95069bb,Napoli,,,,,190,9.0,23110,Napoli
+,Bruno Uvini,br BRA,DF,0,0,,,2014-2015,/en/players/ecfe4300/Bruno-Uvini,cfe4300,Napoli,,,,,190,2.0,23107,Napoli
+,﻿Marek Hamšík,sk SVK,MF,38,38,11.0,6.0,2015-2016,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"3,220",35.8,0.0,0.0,190,70.0,20689,Napoli
+,Pepe Reina,es ESP,GK,37,37,0.0,0.0,2015-2016,/en/players/e358587b/Pepe-Reina,358587b,Napoli,"3,330",37.0,1.0,0.0,190,1.0,2702,Napoli
+,Elseid Hysaj,al ALB,DF,37,37,2.0,0.0,2015-2016,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Napoli,"3,281",36.5,5.0,0.0,190,78.0,19994,Napoli
+,Raúl Albiol,es ESP,DF,36,36,1.0,1.0,2015-2016,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Napoli,"3,240",36.0,10.0,0.0,190,1.0,80,Napoli
+,Gonzalo Higuaín,ar ARG,FW,35,35,2.0,36.0,2015-2016,/en/players/8a08491a/Gonzalo-Higuain,8a08491a,Napoli,"2,958",32.9,2.0,1.0,190,5.0,57,Napoli
+,José Callejón,es ESP,FW,38,35,7.0,7.0,2015-2016,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"2,813",31.3,4.0,0.0,190,1.0,105,Napoli
+,Lorenzo Insigne,it ITA,"FW,MF",37,34,10.0,12.0,2015-2016,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,598",28.9,2.0,0.0,190,9.0,23103,Napoli
+,Faouzi Ghoulam,dz ALG,DF,34,32,3.0,0.0,2015-2016,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,"2,918",32.4,3.0,0.0,190,37.0,14212,Napoli
+,Jorginho,it ITA,MF,35,32,4.0,0.0,2015-2016,/en/players/45db685d/Jorginho,45db685d,Napoli,"2,915",32.4,11.0,1.0,190,9.0,6238,Napoli
+,Kalidou Koulibaly,sn SEN,DF,33,32,0.0,0.0,2015-2016,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"2,888",32.1,11.0,0.0,190,34.0,13897,Napoli
+,Allan,br BRA,MF,35,32,5.0,3.0,2015-2016,/en/players/cc700722/Allan,cc700722,Napoli,"2,818",31.3,5.0,0.0,190,2.0,6724,Napoli
+,Vlad Chiricheș,ro ROU,DF,8,8,0.0,1.0,2015-2016,/en/players/c316607a/Vlad-Chiriches,c316607a,Napoli,697,7.7,2.0,0.0,190,51.0,7109,Napoli
+,Dries Mertens,be BEL,FW,33,6,5.0,5.0,2015-2016,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"1,108",12.3,7.0,0.0,190,27.0,23106,Napoli
+,David López,es ESP,MF,25,6,1.0,1.0,2015-2016,/en/players/f03f284b/David-Lopez,f03f284b,Napoli,748,8.3,2.0,0.0,190,1.0,3066,Napoli
+,Mirko Valdifiori,it ITA,MF,6,6,0.0,0.0,2015-2016,/en/players/c710f7d5/Mirko-Valdifiori,c710f7d5,Napoli,453,5.0,3.0,0.0,190,9.0,21336,Napoli
+,Manolo Gabbiadini,it ITA,FW,23,4,3.0,5.0,2015-2016,/en/players/8f866fe8/Manolo-Gabbiadini,8f866fe8,Napoli,562,6.2,1.0,0.0,190,9.0,6897,Napoli
+,Christian Maggio,it ITA,DF,8,4,0.0,0.0,2015-2016,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,398,4.4,0.0,0.0,190,9.0,22059,Napoli
+,Ivan Strinić,hr CRO,DF,5,3,0.0,0.0,2015-2016,/en/players/52e2ef8f/Ivan-Strinic,52e2ef8f,Napoli,253,2.8,0.0,0.0,190,16.0,19848,Napoli
+,Gabriel,br BRA,GK,1,1,0.0,0.0,2015-2016,/en/players/f93ed0df/Gabriel,f93ed0df,Napoli,90,1.0,0.0,0.0,190,2.0,19801,Napoli
+,Omar El Kaddouri,ma MAR,MF,20,0,2.0,1.0,2015-2016,/en/players/92b17b2a/Omar-El-Kaddouri,92b17b2a,Napoli,251,2.8,1.0,0.0,190,26.0,20719,Napoli
+,Nathaniel Chalobah,eng ENG,"DF,MF",5,0,0.0,0.0,2015-2016,/en/players/422862ea/Nathaniel-Chalobah,422862ea,Napoli,35,0.4,0.0,0.0,190,6.0,6225,Napoli
+,Vasco Regini,it ITA,DF,1,0,0.0,0.0,2015-2016,/en/players/339c6ed4/Vasco-Regini,339c6ed4,Napoli,15,0.2,0.0,0.0,190,9.0,20178,Napoli
+,Rafael Cabral,br BRA,GK,0,0,,,2015-2016,/en/players/806f7a26/Rafael-Cabral,806f7a26,Napoli,,,,,190,2.0,9670,Napoli
+,Jacopo Dezi,it ITA,MF,0,0,,,2015-2016,/en/players/e921b9db/Jacopo-Dezi,921b9db,Napoli,,,,,190,9.0,20129,Napoli
+,Alberto Grassi,it ITA,MF,0,0,,,2015-2016,/en/players/6cc97b6a/Alberto-Grassi,6cc97b6a,Napoli,,,,,190,9.0,20161,Napoli
+,Henrique,br BRA,DF,0,0,,,2015-2016,/en/players/429163de/Henrique,429163de,Napoli,,,,,190,2.0,2885,Napoli
+,Sebastiano Luperto,it ITA,DF,0,0,,,2015-2016,/en/players/997fff07/Sebastiano-Luperto,997fff07,Napoli,,,,,190,9.0,21403,Napoli
+,﻿Pepe Reina,es ESP,GK,37,37,0.0,0.0,2016-2017,/en/players/e358587b/Pepe-Reina,358587b,Napoli,"3,330",37.0,1.0,0.0,190,1.0,2702,Napoli
+,José Callejón,es ESP,FW,37,37,13.0,14.0,2016-2017,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"3,139",34.9,3.0,1.0,190,1.0,105,Napoli
+,Marek Hamšík,sk SVK,MF,38,37,10.0,12.0,2016-2017,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"3,030",33.7,1.0,0.0,190,70.0,20689,Napoli
+,Lorenzo Insigne,it ITA,FW,37,35,9.0,18.0,2016-2017,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,922",32.5,2.0,0.0,190,9.0,23103,Napoli
+,Elseid Hysaj,al ALB,DF,35,34,1.0,0.0,2016-2017,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Napoli,"3,031",33.7,8.0,0.0,190,78.0,19994,Napoli
+,Dries Mertens,be BEL,FW,35,28,9.0,28.0,2016-2017,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"2,558",28.4,6.0,0.0,190,27.0,23106,Napoli
+,Kalidou Koulibaly,sn SEN,DF,28,28,0.0,2.0,2016-2017,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"2,471",27.5,6.0,0.0,190,34.0,13897,Napoli
+,Jorginho,it ITA,MF,27,27,3.0,0.0,2016-2017,/en/players/45db685d/Jorginho,45db685d,Napoli,"2,134",23.7,3.0,0.0,190,9.0,6238,Napoli
+,Faouzi Ghoulam,dz ALG,DF,29,26,6.0,0.0,2016-2017,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,"2,382",26.5,1.0,0.0,190,37.0,14212,Napoli
+,Raúl Albiol,es ESP,DF,26,25,1.0,0.0,2016-2017,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Napoli,"2,297",25.5,8.0,0.0,190,1.0,80,Napoli
+,Allan,br BRA,MF,29,19,6.0,1.0,2016-2017,/en/players/cc700722/Allan,cc700722,Napoli,"1,610",17.9,3.0,0.0,190,2.0,6724,Napoli
+,Piotr Zieliński,pl POL,MF,36,18,7.0,5.0,2016-2017,/en/players/a5296e55/Piotr-Zielinski,5296e55,Napoli,"1,868",20.8,4.0,0.0,190,14.0,20275,Napoli
+,Vlad Chiricheș,ro ROU,DF,14,13,0.0,2.0,2016-2017,/en/players/c316607a/Vlad-Chiriches,c316607a,Napoli,"1,124",12.5,0.0,0.0,190,51.0,7109,Napoli
+,Ivan Strinić,hr CRO,DF,12,12,2.0,0.0,2016-2017,/en/players/52e2ef8f/Ivan-Strinic,52e2ef8f,Napoli,"1,033",11.5,3.0,0.0,190,16.0,19848,Napoli
+,Amadou Diawara,gn GUI,MF,18,10,0.0,0.0,2016-2017,/en/players/bf309d24/Amadou-Diawara,bf309d24,Napoli,"1,046",11.6,1.0,0.0,190,74.0,20639,Napoli
+,Nikola Maksimović,rs SRB,DF,8,7,0.0,1.0,2016-2017,/en/players/16b9d5cf/Nikola-Maksimovic,16b9d5cf,Napoli,678,7.5,1.0,0.0,190,28.0,21991,Napoli
+,Manolo Gabbiadini,it ITA,FW,13,7,0.0,3.0,2016-2017,/en/players/8f866fe8/Manolo-Gabbiadini,8f866fe8,Napoli,515,5.7,0.0,1.0,190,9.0,6897,Napoli
+,Arkadiusz Milik,pl POL,FW,17,4,1.0,5.0,2016-2017,/en/players/85613cf0/Arkadiusz-Milik,85613cf0,Napoli,559,6.2,1.0,0.0,190,14.0,11634,Napoli
+,Christian Maggio,it ITA,DF,7,4,0.0,0.0,2016-2017,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,394,4.4,0.0,0.0,190,9.0,22059,Napoli
+,Lorenzo Tonelli,it ITA,DF,3,3,0.0,2.0,2016-2017,/en/players/8cc29864/Lorenzo-Tonelli,8cc29864,Napoli,270,3.0,2.0,0.0,190,9.0,21347,Napoli
+,Marko Rog,hr CRO,MF,15,2,0.0,0.0,2016-2017,/en/players/b6b2b820/Marko-Rog,b6b2b820,Napoli,387,4.3,4.0,0.0,190,16.0,1938,Napoli
+,Leonardo Pavoletti,it ITA,FW,6,2,0.0,0.0,2016-2017,/en/players/d37b0350/Leonardo-Pavoletti,d37b0350,Napoli,196,2.2,0.0,0.0,190,9.0,22649,Napoli
+,Emanuele Giaccherini,it ITA,FW,16,1,0.0,1.0,2016-2017,/en/players/1c50f354/Emanuele-Giaccherini,1c50f354,Napoli,298,3.3,0.0,0.0,190,9.0,8716,Napoli
+,Rafael Cabral,br BRA,GK,1,1,0.0,0.0,2016-2017,/en/players/806f7a26/Rafael-Cabral,806f7a26,Napoli,90,1.0,0.0,0.0,190,2.0,9670,Napoli
+,Mirko Valdifiori,it ITA,MF,1,1,0.0,0.0,2016-2017,/en/players/c710f7d5/Mirko-Valdifiori,c710f7d5,Napoli,90,1.0,0.0,0.0,190,9.0,21336,Napoli
+,Omar El Kaddouri,ma MAR,MF,5,0,0.0,0.0,2016-2017,/en/players/92b17b2a/Omar-El-Kaddouri,92b17b2a,Napoli,45,0.5,0.0,0.0,190,26.0,20719,Napoli
+,Alberto Grassi,it ITA,MF,0,0,,,2016-2017,/en/players/6cc97b6a/Alberto-Grassi,6cc97b6a,Napoli,,,,,190,9.0,20161,Napoli
+,Roberto Insigne,it ITA,"FW,MF",0,0,,,2016-2017,/en/players/8faf7b3c/Roberto-Insigne,8faf7b3c,Napoli,,,,,190,9.0,20133,Napoli
+,Leandrinho,br BRA,MF,0,0,,,2016-2017,/en/players/26c54163/Leandrinho,26c54163,Napoli,,,,,190,2.0,23111,Napoli
+,Sebastiano Luperto,it ITA,DF,0,0,,,2016-2017,/en/players/997fff07/Sebastiano-Luperto,997fff07,Napoli,,,,,190,9.0,21403,Napoli
+,Marco Milanese,it ITA,DF,0,0,,,2016-2017,/en/players/edc35da1/Marco-Milanese,dc35da1,Napoli,,,,,190,9.0,23112,Napoli
+,Luigi Sepe,it ITA,GK,0,0,,,2016-2017,/en/players/343f753a/Luigi-Sepe,343f753a,Napoli,,,,,190,9.0,20155,Napoli
+,Alessio Zerbin,it ITA,FW,0,0,,,2016-2017,/en/players/d19ef4ef/Alessio-Zerbin,d19ef4ef,Napoli,,,,,190,9.0,23113,Napoli
+,Igor Łasicki,pl POL,DF,0,0,,,2016-2017,/en/players/dc10a532/Igor-Lasicki,dc10a532,Napoli,,,,,190,14.0,23108,Napoli
+,﻿José Callejón,es ESP,FW,38,38,9.0,10.0,2017-2018,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"3,238",36.0,3.0,0.0,190,1.0,105,Napoli
+,Pepe Reina,es ESP,GK,37,37,0.0,0.0,2017-2018,/en/players/e358587b/Pepe-Reina,358587b,Napoli,"3,330",37.0,1.0,0.0,190,1.0,2702,Napoli
+,Lorenzo Insigne,it ITA,FW,37,36,11.0,8.0,2017-2018,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"3,090",34.3,4.0,0.0,190,9.0,23103,Napoli
+,Elseid Hysaj,al ALB,DF,35,35,1.0,0.0,2017-2018,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Napoli,"3,125",34.7,3.0,1.0,190,78.0,19994,Napoli
+,Kalidou Koulibaly,sn SEN,DF,35,35,1.0,5.0,2017-2018,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"3,066",34.1,5.0,1.0,190,34.0,13897,Napoli
+,Dries Mertens,be BEL,FW,38,35,7.0,18.0,2017-2018,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"3,002",33.4,4.0,0.0,190,27.0,23106,Napoli
+,Jorginho,it ITA,MF,33,33,3.0,2.0,2017-2018,/en/players/45db685d/Jorginho,45db685d,Napoli,"2,650",29.4,5.0,0.0,190,9.0,6238,Napoli
+,Allan,br BRA,MF,38,32,5.0,4.0,2017-2018,/en/players/cc700722/Allan,cc700722,Napoli,"2,850",31.7,2.0,0.0,190,2.0,6724,Napoli
+,Marek Hamšík,sk SVK,MF,38,32,1.0,7.0,2017-2018,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,"2,371",26.3,2.0,0.0,190,70.0,20689,Napoli
+,Raúl Albiol,es ESP,DF,31,30,1.0,3.0,2017-2018,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Napoli,"2,742",30.5,7.0,0.0,190,1.0,80,Napoli
+,Mário Rui,pt POR,DF,25,24,2.0,2.0,2017-2018,/en/players/0b5a292a/Mario-Rui,0b5a292a,Napoli,"2,087",23.2,9.0,2.0,190,3.0,20618,Napoli
+,Piotr Zieliński,pl POL,"MF,FW",36,14,1.0,4.0,2017-2018,/en/players/a5296e55/Piotr-Zielinski,5296e55,Napoli,"1,667",18.5,3.0,0.0,190,14.0,20275,Napoli
+,Faouzi Ghoulam,dz ALG,DF,11,11,2.0,2.0,2017-2018,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,985,10.9,1.0,0.0,190,37.0,14212,Napoli
+,Vlad Chiricheș,ro ROU,DF,7,7,0.0,0.0,2017-2018,/en/players/c316607a/Vlad-Chiriches,c316607a,Napoli,582,6.5,1.0,0.0,190,51.0,7109,Napoli
+,Christian Maggio,it ITA,DF,13,6,0.0,0.0,2017-2018,/en/players/31d7f557/Christian-Maggio,31d7f557,Napoli,641,7.1,0.0,0.0,190,9.0,22059,Napoli
+,Amadou Diawara,gn GUI,MF,18,5,0.0,1.0,2017-2018,/en/players/bf309d24/Amadou-Diawara,bf309d24,Napoli,655,7.3,1.0,0.0,190,74.0,20639,Napoli
+,Arkadiusz Milik,pl POL,"FW,MF",15,3,1.0,5.0,2017-2018,/en/players/85613cf0/Arkadiusz-Milik,85613cf0,Napoli,448,5.0,2.0,0.0,190,14.0,11634,Napoli
+,Lorenzo Tonelli,it ITA,DF,4,3,0.0,1.0,2017-2018,/en/players/8cc29864/Lorenzo-Tonelli,8cc29864,Napoli,351,3.9,0.0,0.0,190,9.0,21347,Napoli
+,Nikola Maksimović,rs SRB,DF,2,1,0.0,0.0,2017-2018,/en/players/16b9d5cf/Nikola-Maksimovic,16b9d5cf,Napoli,96,1.1,0.0,0.0,190,28.0,21991,Napoli
+,Luigi Sepe,it ITA,GK,1,1,0.0,0.0,2017-2018,/en/players/343f753a/Luigi-Sepe,343f753a,Napoli,90,1.0,0.0,0.0,190,9.0,20155,Napoli
+,Marko Rog,hr CRO,"MF,FW",28,0,0.0,1.0,2017-2018,/en/players/b6b2b820/Marko-Rog,b6b2b820,Napoli,289,3.2,2.0,0.0,190,16.0,1938,Napoli
+,Adam Ounas,dz ALG,FW,7,0,0.0,0.0,2017-2018,/en/players/ed90babd/Adam-Ounas,d90babd,Napoli,96,1.1,0.0,0.0,190,37.0,11722,Napoli
+,Emanuele Giaccherini,it ITA,"FW,MF",4,0,0.0,0.0,2017-2018,/en/players/1c50f354/Emanuele-Giaccherini,1c50f354,Napoli,64,0.7,2.0,0.0,190,9.0,8716,Napoli
+,Rafael Cabral,br BRA,GK,0,0,,,2017-2018,/en/players/806f7a26/Rafael-Cabral,806f7a26,Napoli,,,,,190,2.0,9670,Napoli
+,Leandrinho,br BRA,MF,0,0,,,2017-2018,/en/players/26c54163/Leandrinho,26c54163,Napoli,,,,,190,2.0,23111,Napoli
+,Zinédine Machach,fr FRA,"FW,MF",0,0,,,2017-2018,/en/players/31377e38/Zinedine-Machach,31377e38,Napoli,,,,,190,4.0,11612,Napoli
+,Hrvoje Milić,hr CRO,"DF,FW",0,0,,,2017-2018,/en/players/1b625237/Hrvoje-Milic,1b625237,Napoli,,,,,190,16.0,22708,Napoli
+,Micheal Scarf,gh GHA,DF,0,0,,,2017-2018,/en/players/568a0378/Micheal-Scarf,568a0378,Napoli,,,,,190,17.0,23114,Napoli
+,﻿Kalidou Koulibaly,sn SEN,DF,35,35,2.0,2.0,2018-2019,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"3,132",34.8,10.0,1.0,190,34.0,13897,Napoli
+,Piotr Zieliński,pl POL,MF,36,33,2.0,6.0,2018-2019,/en/players/a5296e55/Piotr-Zielinski,5296e55,Napoli,"2,875",31.9,6.0,0.0,190,14.0,20275,Napoli
+,José Callejón,es ESP,MF,34,29,10.0,3.0,2018-2019,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"2,650",29.4,1.0,0.0,190,1.0,105,Napoli
+,Allan,br BRA,MF,33,28,3.0,1.0,2018-2019,/en/players/cc700722/Allan,cc700722,Napoli,"2,616",29.1,10.0,0.0,190,2.0,6724,Napoli
+,Arkadiusz Milik,pl POL,FW,35,27,3.0,17.0,2018-2019,/en/players/85613cf0/Arkadiusz-Milik,85613cf0,Napoli,"2,396",26.6,4.0,0.0,190,14.0,11634,Napoli
+,Elseid Hysaj,al ALB,DF,27,24,2.0,0.0,2018-2019,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Napoli,"2,107",23.4,4.0,0.0,190,78.0,19994,Napoli
+,Lorenzo Insigne,it ITA,"FW,MF",28,24,6.0,10.0,2018-2019,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,073",23.0,6.0,1.0,190,9.0,23103,Napoli
+,Dries Mertens,be BEL,FW,35,23,11.0,16.0,2018-2019,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"2,252",25.0,1.0,0.0,190,27.0,23106,Napoli
+,Fabián Ruiz Peña,es ESP,MF,27,20,4.0,5.0,2018-2019,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Napoli,"1,992",22.1,3.0,1.0,190,1.0,1471,Napoli
+,Kévin Malcuit,ma MAR,DF,24,20,2.0,0.0,2018-2019,/en/players/d6a889ea/Kevin-Malcuit,d6a889ea,Napoli,"1,805",20.1,3.0,0.0,190,26.0,11400,Napoli
+,Raúl Albiol,es ESP,DF,20,19,0.0,1.0,2018-2019,/en/players/4bd414c1/Raul-Albiol,4bd414c1,Napoli,"1,713",19.0,4.0,0.0,190,1.0,80,Napoli
+,Mário Rui,pt POR,DF,20,17,1.0,1.0,2018-2019,/en/players/0b5a292a/Mario-Rui,0b5a292a,Napoli,"1,417",15.7,5.0,1.0,190,3.0,20618,Napoli
+,David Ospina,co COL,GK,17,16,0.0,0.0,2018-2019,/en/players/82b1198a/David-Ospina,82b1198a,Napoli,"1,457",16.2,0.0,0.0,190,19.0,5914,Napoli
+,Nikola Maksimović,rs SRB,DF,17,15,0.0,0.0,2018-2019,/en/players/16b9d5cf/Nikola-Maksimovic,16b9d5cf,Napoli,"1,375",15.3,4.0,0.0,190,28.0,21991,Napoli
+,Alex Meret,it ITA,GK,14,13,0.0,0.0,2018-2019,/en/players/9413b19f/Alex-Meret,9413b19f,Napoli,"1,151",12.8,0.0,1.0,190,9.0,20290,Napoli
+,Faouzi Ghoulam,dz ALG,DF,16,12,3.0,1.0,2018-2019,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,"1,154",12.8,2.0,0.0,190,37.0,14212,Napoli
+,Marek Hamšík,sk SVK,MF,13,12,0.0,0.0,2018-2019,/en/players/e6ad16b2/Marek-Hamsik,6ad16b2,Napoli,916,10.2,1.0,0.0,190,70.0,20689,Napoli
+,Orestis Karnezis,gr GRE,GK,9,9,0.0,0.0,2018-2019,/en/players/85b011bb/Orestis-Karnezis,85b011bb,Napoli,810,9.0,0.0,0.0,190,55.0,5037,Napoli
+,Simone Verdi,it ITA,"MF,FW",22,9,3.0,3.0,2018-2019,/en/players/0375723e/Simone-Verdi,0375723e,Napoli,704,7.8,0.0,0.0,190,9.0,5244,Napoli
+,Amadou Diawara,gn GUI,MF,13,8,0.0,0.0,2018-2019,/en/players/bf309d24/Amadou-Diawara,bf309d24,Napoli,661,7.3,4.0,0.0,190,74.0,20639,Napoli
+,Sebastiano Luperto,it ITA,DF,12,6,0.0,0.0,2018-2019,/en/players/997fff07/Sebastiano-Luperto,997fff07,Napoli,728,8.1,0.0,0.0,190,9.0,21403,Napoli
+,Adam Ounas,dz ALG,"MF,FW",18,6,0.0,3.0,2018-2019,/en/players/ed90babd/Adam-Ounas,d90babd,Napoli,538,6.0,0.0,0.0,190,37.0,11722,Napoli
+,Amin Younes,de GER,"MF,FW",12,6,2.0,3.0,2018-2019,/en/players/228f73ae/Amin-Younes,228f73ae,Napoli,498,5.5,1.0,0.0,190,13.0,17057,Napoli
+,Marko Rog,hr CRO,MF,9,4,0.0,1.0,2018-2019,/en/players/b6b2b820/Marko-Rog,b6b2b820,Napoli,333,3.7,3.0,0.0,190,16.0,1938,Napoli
+,Vlad Chiricheș,ro ROU,DF,3,3,0.0,0.0,2018-2019,/en/players/c316607a/Vlad-Chiriches,c316607a,Napoli,147,1.6,0.0,0.0,190,51.0,7109,Napoli
+,Gianluca Gaetano,it ITA,"MF,FW",2,0,0.0,0.0,2018-2019,/en/players/3b387cc7/Gianluca-Gaetano,3b387cc7,Napoli,8,0.1,0.0,0.0,190,9.0,23115,Napoli
+,Antonio Daniele,it ITA,GK,0,0,,,2018-2019,/en/players/1424fd81/Antonio-Daniele,1424fd81,Napoli,,,,,190,9.0,23116,Napoli
+,Alessandro Fortunato D'Andrea,it ITA,GK,0,0,,,2018-2019,/en/players/e6d0d7b9/Alessandro-Fortunato-DAndrea,6d0d7b9,Napoli,,,,,190,9.0,23117,Napoli
+,Davide Marfella,it ITA,GK,0,0,,,2018-2019,/en/players/880fcdbb/Davide-Marfella,880fcdbb,Napoli,,,,,190,9.0,23118,Napoli
+,Joao Pedro Piai,br BRA,GK,0,0,,,2018-2019,/en/players/4affc2d1/Joao-Pedro-Piai,4affc2d1,Napoli,,,,,190,2.0,23119,Napoli
+,Karim Zedadka,fr FRA,DF,0,0,,,2018-2019,/en/players/2f45300d/Karim-Zedadka,2f45300d,Napoli,,,,,190,4.0,23120,Napoli
+,﻿Lorenzo Insigne,it ITA,"FW,MF",37,34,6.0,8.0,2019-2020,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,810",31.2,1.0,0.0,190,9.0,23103,Napoli
+,Giovanni Di Lorenzo,it ITA,DF,33,33,3.0,3.0,2019-2020,/en/players/230a2fac/Giovanni-Di-Lorenzo,230a2fac,Napoli,"2,970",33.0,5.0,0.0,190,9.0,21402,Napoli
+,Piotr Zieliński,pl POL,MF,37,32,4.0,2.0,2019-2020,/en/players/a5296e55/Piotr-Zielinski,5296e55,Napoli,"2,924",32.5,4.0,0.0,190,14.0,20275,Napoli
+,Fabián Ruiz Peña,es ESP,MF,33,30,6.0,3.0,2019-2020,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Napoli,"2,684",29.8,2.0,0.0,190,1.0,1471,Napoli
+,Kostas Manolas,gr GRE,DF,26,25,0.0,4.0,2019-2020,/en/players/c707411f/Kostas-Manolas,c707411f,Napoli,"2,176",24.2,2.0,0.0,190,55.0,20601,Napoli
+,José Callejón,es ESP,"FW,MF",33,25,7.0,4.0,2019-2020,/en/players/78841da9/Jose-Callejon,78841da9,Napoli,"2,172",24.1,2.0,0.0,190,1.0,105,Napoli
+,Kalidou Koulibaly,sn SEN,DF,25,24,0.0,0.0,2019-2020,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"2,105",23.4,7.0,1.0,190,34.0,13897,Napoli
+,Mário Rui,pt POR,DF,24,22,2.0,0.0,2019-2020,/en/players/0b5a292a/Mario-Rui,0b5a292a,Napoli,"1,966",21.8,8.0,0.0,190,3.0,20618,Napoli
+,Alex Meret,it ITA,GK,22,21,0.0,0.0,2019-2020,/en/players/9413b19f/Alex-Meret,9413b19f,Napoli,"1,951",21.7,0.0,0.0,190,9.0,20290,Napoli
+,Nikola Maksimović,rs SRB,DF,22,20,1.0,1.0,2019-2020,/en/players/16b9d5cf/Nikola-Maksimovic,16b9d5cf,Napoli,"1,799",20.0,3.0,1.0,190,28.0,21991,Napoli
+,Arkadiusz Milik,pl POL,FW,26,19,0.0,11.0,2019-2020,/en/players/85613cf0/Arkadiusz-Milik,85613cf0,Napoli,"1,747",19.4,5.0,0.0,190,14.0,11634,Napoli
+,Dries Mertens,be BEL,FW,31,18,7.0,9.0,2019-2020,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"1,689",18.8,5.0,0.0,190,27.0,23106,Napoli
+,Elseid Hysaj,al ALB,DF,20,17,2.0,1.0,2019-2020,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Napoli,"1,481",16.5,3.0,0.0,190,78.0,19994,Napoli
+,David Ospina,co COL,GK,17,17,0.0,0.0,2019-2020,/en/players/82b1198a/David-Ospina,82b1198a,Napoli,"1,469",16.3,0.0,0.0,190,19.0,5914,Napoli
+,Allan,br BRA,MF,23,16,1.0,2.0,2019-2020,/en/players/cc700722/Allan,cc700722,Napoli,"1,280",14.2,3.0,0.0,190,2.0,6724,Napoli
+,Elif Elmas,mk MKD,MF,26,12,1.0,1.0,2019-2020,/en/players/cf007308/Elif-Elmas,cf007308,Napoli,"1,134",12.6,7.0,0.0,190,81.0,23121,Napoli
+,Hirving Lozano,mx MEX,"FW,MF",26,10,1.0,4.0,2019-2020,/en/players/a69e4806/Hirving-Lozano,69e4806,Napoli,"1,025",11.4,3.0,0.0,190,20.0,23122,Napoli
+,Diego Demme,de GER,MF,15,10,0.0,1.0,2019-2020,/en/players/dc3fa3b5/Diego-Demme,dc3fa3b5,Napoli,902,10.0,6.0,0.0,190,13.0,17626,Napoli
+,Stanislav Lobotka,sk SVK,MF,14,9,0.0,0.0,2019-2020,/en/players/e1cbb531/Stanislav-Lobotka,1cbb531,Napoli,752,8.4,0.0,0.0,190,70.0,793,Napoli
+,Matteo Politano,it ITA,FW,15,9,2.0,2.0,2019-2020,/en/players/5e861944/Matteo-Politano,5e861944,Napoli,743,8.3,1.0,0.0,190,9.0,19728,Napoli
+,Sebastiano Luperto,it ITA,DF,9,5,0.0,0.0,2019-2020,/en/players/997fff07/Sebastiano-Luperto,997fff07,Napoli,529,5.9,2.0,0.0,190,9.0,21403,Napoli
+,Fernando Llorente,es ESP,FW,17,3,1.0,3.0,2019-2020,/en/players/82dbf623/Fernando-Llorente,82dbf623,Napoli,501,5.6,1.0,0.0,190,1.0,1254,Napoli
+,Faouzi Ghoulam,dz ALG,DF,9,3,1.0,0.0,2019-2020,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,376,4.2,2.0,0.0,190,37.0,14212,Napoli
+,Kévin Malcuit,ma MAR,DF,4,3,0.0,0.0,2019-2020,/en/players/d6a889ea/Kevin-Malcuit,d6a889ea,Napoli,256,2.8,0.0,0.0,190,26.0,11400,Napoli
+,Amin Younes,de GER,"MF,FW",9,1,0.0,1.0,2019-2020,/en/players/228f73ae/Amin-Younes,228f73ae,Napoli,176,2.0,1.0,0.0,190,13.0,17057,Napoli
+,Vlad Chiricheș,ro ROU,DF,0,0,,,2019-2020,/en/players/c316607a/Vlad-Chiriches,c316607a,Napoli,,,,,190,51.0,7109,Napoli
+,Antonio Daniele,it ITA,GK,0,0,,,2019-2020,/en/players/1424fd81/Antonio-Daniele,1424fd81,Napoli,,,,,190,9.0,23116,Napoli
+,Gianluca Gaetano,it ITA,MF,0,0,,,2019-2020,/en/players/3b387cc7/Gianluca-Gaetano,3b387cc7,Napoli,,,,,190,9.0,23115,Napoli
+,Hubert Idasiak,pl POL,GK,0,0,,,2019-2020,/en/players/1b70f53a/Hubert-Idasiak,1b70f53a,Napoli,,,,,190,14.0,23123,Napoli
+,Orestis Karnezis,gr GRE,GK,0,0,,,2019-2020,/en/players/85b011bb/Orestis-Karnezis,85b011bb,Napoli,,,,,190,55.0,5037,Napoli
+,Leandrinho,br BRA,MF,0,0,,,2019-2020,/en/players/26c54163/Leandrinho,26c54163,Napoli,,,,,190,2.0,23111,Napoli
+,Lorenzo Tonelli,it ITA,DF,0,0,,,2019-2020,/en/players/8cc29864/Lorenzo-Tonelli,8cc29864,Napoli,,,,,190,9.0,21347,Napoli
+,Simone Verdi,it ITA,"FW,MF",0,0,,,2019-2020,/en/players/0375723e/Simone-Verdi,0375723e,Napoli,,,,,190,9.0,5244,Napoli
+,﻿Giovanni Di Lorenzo,it ITA,DF,36,36,6.0,3.0,2020-2021,/en/players/230a2fac/Giovanni-Di-Lorenzo,230a2fac,Napoli,"3,240",36.0,11.0,0.0,190,9.0,21402,Napoli
+,Lorenzo Insigne,it ITA,MF,35,33,8.0,19.0,2020-2021,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,865",31.8,2.0,1.0,190,9.0,23103,Napoli
+,Piotr Zieliński,pl POL,MF,36,32,10.0,8.0,2020-2021,/en/players/a5296e55/Piotr-Zielinski,5296e55,Napoli,"2,523",28.0,2.0,0.0,190,14.0,20275,Napoli
+,Fabián Ruiz Peña,es ESP,MF,33,29,1.0,3.0,2020-2021,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Napoli,"2,569",28.5,1.0,0.0,190,1.0,1471,Napoli
+,Kostas Manolas,gr GRE,DF,30,27,0.0,0.0,2020-2021,/en/players/c707411f/Kostas-Manolas,c707411f,Napoli,"2,298",25.5,5.0,0.0,190,55.0,20601,Napoli
+,Kalidou Koulibaly,sn SEN,DF,26,25,0.0,0.0,2020-2021,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"2,209",24.5,10.0,1.0,190,34.0,13897,Napoli
+,Hirving Lozano,mx MEX,"MF,FW",32,23,3.0,11.0,2020-2021,/en/players/a69e4806/Hirving-Lozano,69e4806,Napoli,"1,965",21.8,6.0,0.0,190,20.0,23122,Napoli
+,Tiemoué Bakayoko,fr FRA,MF,32,23,1.0,2.0,2020-2021,/en/players/59bf127b/Tiemoue-Bakayoko,59bf127b,Napoli,"1,964",21.8,6.0,1.0,190,4.0,6228,Napoli
+,Alex Meret,it ITA,GK,22,22,0.0,0.0,2020-2021,/en/players/9413b19f/Alex-Meret,9413b19f,Napoli,"1,980",22.0,0.0,0.0,190,9.0,20290,Napoli
+,Matteo Politano,it ITA,MF,37,22,4.0,9.0,2020-2021,/en/players/5e861944/Matteo-Politano,5e861944,Napoli,"1,908",21.2,3.0,0.0,190,9.0,19728,Napoli
+,Elseid Hysaj,al ALB,DF,24,20,2.0,0.0,2020-2021,/en/players/2f3452eb/Elseid-Hysaj,2f3452eb,Napoli,"1,768",19.6,2.0,0.0,190,78.0,19994,Napoli
+,Diego Demme,de GER,MF,24,20,3.0,2.0,2020-2021,/en/players/dc3fa3b5/Diego-Demme,dc3fa3b5,Napoli,"1,590",17.7,6.0,0.0,190,13.0,17626,Napoli
+,Dries Mertens,be BEL,"FW,MF",29,18,8.0,9.0,2020-2021,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"1,459",16.2,2.0,0.0,190,27.0,23106,Napoli
+,Mário Rui,pt POR,DF,27,17,2.0,0.0,2020-2021,/en/players/0b5a292a/Mario-Rui,0b5a292a,Napoli,"1,669",18.5,4.0,0.0,190,3.0,20618,Napoli
+,Victor Osimhen,ng NGA,FW,24,16,3.0,10.0,2020-2021,/en/players/8c90fd7a/Victor-Osimhen,8c90fd7a,Napoli,"1,573",17.5,4.0,0.0,190,52.0,13154,Napoli
+,David Ospina,co COL,GK,16,16,1.0,0.0,2020-2021,/en/players/82b1198a/David-Ospina,82b1198a,Napoli,"1,440",16.0,2.0,0.0,190,19.0,5914,Napoli
+,Nikola Maksimović,rs SRB,DF,17,12,0.0,0.0,2020-2021,/en/players/16b9d5cf/Nikola-Maksimovic,16b9d5cf,Napoli,"1,207",13.4,1.0,0.0,190,28.0,21991,Napoli
+,Amir Rrahmani,xk KVX,DF,16,12,0.0,1.0,2020-2021,/en/players/4b3e1a38/Amir-Rrahmani,4b3e1a38,Napoli,"1,094",12.2,2.0,0.0,190,82.0,23124,Napoli
+,Andrea Petagna,it ITA,FW,26,9,3.0,4.0,2020-2021,/en/players/03f946ed/Andrea-Petagna,03f946ed,Napoli,964,10.7,0.0,0.0,190,9.0,19804,Napoli
+,Elif Elmas,mk MKD,MF,33,3,1.0,2.0,2020-2021,/en/players/cf007308/Elif-Elmas,cf007308,Napoli,740,8.2,3.0,0.0,190,81.0,23121,Napoli
+,Faouzi Ghoulam,dz ALG,"DF,MF",11,3,0.0,0.0,2020-2021,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,289,3.2,1.0,0.0,190,37.0,14212,Napoli
+,Stanislav Lobotka,sk SVK,MF,15,0,0.0,0.0,2020-2021,/en/players/e1cbb531/Stanislav-Lobotka,1cbb531,Napoli,154,1.7,2.0,0.0,190,70.0,793,Napoli
+,Fernando Llorente,es ESP,"FW,MF",3,0,0.0,0.0,2020-2021,/en/players/82dbf623/Fernando-Llorente,82dbf623,Napoli,52,0.6,0.0,0.0,190,1.0,1254,Napoli
+,Kévin Malcuit,ma MAR,MF,2,0,0.0,0.0,2020-2021,/en/players/d6a889ea/Kevin-Malcuit,d6a889ea,Napoli,33,0.4,0.0,0.0,190,26.0,11400,Napoli
+,Antonio Cioffi,it ITA,MF,1,0,0.0,0.0,2020-2021,/en/players/3f1107d5/Antonio-Cioffi,3f1107d5,Napoli,12,0.1,0.0,0.0,190,9.0,23131,Napoli
+,Nikita Contini Baranovsky,it ITA,GK,0,0,0.0,0.0,2020-2021,/en/players/e95069bb/Nikita-Contini-Baranovsky,95069bb,Napoli,,0.0,1.0,0.0,190,9.0,23110,Napoli
+,Davide Costanzo,it ITA,DF,0,0,,,2020-2021,/en/players/eae85c6c/Davide-Costanzo,85c6c,Napoli,,,,,190,9.0,23125,Napoli
+,Giuseppe D'Agostino,it ITA,FW,0,0,,,2020-2021,/en/players/ee2921ee/Giuseppe-DAgostino,2921ee,Napoli,,,,,190,9.0,23126,Napoli
+,Hubert Idasiak,pl POL,GK,0,0,,,2020-2021,/en/players/1b70f53a/Hubert-Idasiak,1b70f53a,Napoli,,,,,190,14.0,23123,Napoli
+,Valerio Labriola,it ITA,MF,0,0,,,2020-2021,/en/players/c230c240/Valerio-Labriola,c230c240,Napoli,,,,,190,9.0,23127,Napoli
+,Sebastiano Luperto,it ITA,DF,0,0,,,2020-2021,/en/players/997fff07/Sebastiano-Luperto,997fff07,Napoli,,,,,190,9.0,21403,Napoli
+,Karim Zedadka,fr FRA,DF,0,0,,,2020-2021,/en/players/2f45300d/Karim-Zedadka,2f45300d,Napoli,,,,,190,4.0,23120,Napoli
+,﻿Mário Rui,pt POR,DF,34,34,5.0,0.0,2021-2022,/en/players/0b5a292a/Mario-Rui,0b5a292a,Napoli,"2,992",33.2,7.0,0.0,190,3.0,20618,Napoli
+,Amir Rrahmani,xk KVX,DF,33,33,0.0,4.0,2021-2022,/en/players/4b3e1a38/Amir-Rrahmani,4b3e1a38,Napoli,"2,927",32.5,5.0,0.0,190,82.0,23124,Napoli
+,Giovanni Di Lorenzo,it ITA,DF,33,33,4.0,1.0,2021-2022,/en/players/230a2fac/Giovanni-Di-Lorenzo,230a2fac,Napoli,"2,869",31.9,3.0,0.0,190,9.0,21402,Napoli
+,David Ospina,co COL,GK,31,31,0.0,0.0,2021-2022,/en/players/82b1198a/David-Ospina,82b1198a,Napoli,"2,790",31.0,1.0,0.0,190,19.0,5914,Napoli
+,Fabián Ruiz Peña,es ESP,MF,32,29,4.0,7.0,2021-2022,/en/players/c0c7ff58/Fabian-Ruiz-Pena,c0c7ff58,Napoli,"2,384",26.5,2.0,0.0,190,1.0,1471,Napoli
+,Lorenzo Insigne,it ITA,"MF,FW",32,28,8.0,11.0,2021-2022,/en/players/2f557579/Lorenzo-Insigne,2f557579,Napoli,"2,290",25.4,2.0,0.0,190,9.0,23103,Napoli
+,Kalidou Koulibaly,sn SEN,DF,27,27,1.0,3.0,2021-2022,/en/players/da974c7b/Kalidou-Koulibaly,da974c7b,Napoli,"2,405",26.7,5.0,1.0,190,34.0,13897,Napoli
+,Piotr Zieliński,pl POL,MF,35,26,5.0,6.0,2021-2022,/en/players/a5296e55/Piotr-Zielinski,5296e55,Napoli,"2,086",23.2,1.0,0.0,190,14.0,20275,Napoli
+,Victor Osimhen,ng NGA,FW,27,23,2.0,14.0,2021-2022,/en/players/8c90fd7a/Victor-Osimhen,8c90fd7a,Napoli,"1,983",22.0,5.0,1.0,190,52.0,13154,Napoli
+,Andre-Frank Zambo Anguissa,cm CMR,MF,25,21,1.0,0.0,2021-2022,/en/players/6bb2c084/Andre-Frank-Zambo-Anguissa,6bb2c084,Napoli,"1,926",21.4,5.0,0.0,190,36.0,2807,Napoli
+,Matteo Politano,it ITA,"MF,FW",33,20,4.0,3.0,2021-2022,/en/players/5e861944/Matteo-Politano,5e861944,Napoli,"1,650",18.3,3.0,0.0,190,9.0,19728,Napoli
+,Hirving Lozano,mx MEX,"MF,FW",30,20,5.0,5.0,2021-2022,/en/players/a69e4806/Hirving-Lozano,69e4806,Napoli,"1,613",17.9,3.0,0.0,190,20.0,23122,Napoli
+,Stanislav Lobotka,sk SVK,MF,23,19,0.0,1.0,2021-2022,/en/players/e1cbb531/Stanislav-Lobotka,1cbb531,Napoli,"1,686",18.7,2.0,0.0,190,70.0,793,Napoli
+,Dries Mertens,be BEL,"FW,MF",30,16,1.0,11.0,2021-2022,/en/players/89b2c8a9/Dries-Mertens,89b2c8a9,Napoli,"1,384",15.4,2.0,0.0,190,27.0,23106,Napoli
+,Juan Jesus,br BRA,DF,21,14,0.0,1.0,2021-2022,/en/players/79083382/Juan-Jesus,79083382,Napoli,"1,278",14.2,1.0,0.0,190,2.0,19673,Napoli
+,Elif Elmas,mk MKD,"MF,FW",37,12,4.0,3.0,2021-2022,/en/players/cf007308/Elif-Elmas,cf007308,Napoli,"1,620",18.0,3.0,0.0,190,81.0,23121,Napoli
+,Diego Demme,de GER,MF,19,7,0.0,1.0,2021-2022,/en/players/dc3fa3b5/Diego-Demme,dc3fa3b5,Napoli,692,7.7,4.0,0.0,190,13.0,17626,Napoli
+,Alex Meret,it ITA,GK,7,7,0.0,0.0,2021-2022,/en/players/9413b19f/Alex-Meret,9413b19f,Napoli,619,6.9,0.0,0.0,190,9.0,20290,Napoli
+,Alessandro Zanoli,it ITA,DF,12,5,0.0,0.0,2021-2022,/en/players/3b12b11f/Alessandro-Zanoli,3b12b11f,Napoli,457,5.1,2.0,0.0,190,9.0,23128,Napoli
+,Andrea Petagna,it ITA,FW,24,4,1.0,3.0,2021-2022,/en/players/03f946ed/Andrea-Petagna,03f946ed,Napoli,586,6.5,1.0,0.0,190,9.0,19804,Napoli
+,Faouzi Ghoulam,dz ALG,DF,14,3,0.0,0.0,2021-2022,/en/players/c5adc293/Faouzi-Ghoulam,c5adc293,Napoli,332,3.7,1.0,0.0,190,37.0,14212,Napoli
+,Kostas Manolas,gr GRE,DF,4,3,0.0,0.0,2021-2022,/en/players/c707411f/Kostas-Manolas,c707411f,Napoli,313,3.5,1.0,0.0,190,55.0,20601,Napoli
+,Kévin Malcuit,ma MAR,"DF,MF",8,2,1.0,0.0,2021-2022,/en/players/d6a889ea/Kevin-Malcuit,d6a889ea,Napoli,288,3.2,3.0,0.0,190,26.0,11400,Napoli
+,Adam Ounas,dz ALG,"MF,FW",15,1,0.0,0.0,2021-2022,/en/players/ed90babd/Adam-Ounas,d90babd,Napoli,326,3.6,1.0,0.0,190,37.0,11722,Napoli
+,Gianluca Gaetano,it ITA,MF,2,0,0.0,0.0,2021-2022,/en/players/3b387cc7/Gianluca-Gaetano,3b387cc7,Napoli,20,0.2,0.0,0.0,190,9.0,23115,Napoli
+,Davide Marfella,it ITA,GK,1,0,0.0,0.0,2021-2022,/en/players/880fcdbb/Davide-Marfella,880fcdbb,Napoli,11,0.1,0.0,0.0,190,9.0,23118,Napoli
+,Axel Tuanzebe,eng ENG,DF,1,0,0.0,0.0,2021-2022,/en/players/2baec6ce/Axel-Tuanzebe,2baec6ce,Napoli,11,0.1,0.0,0.0,190,6.0,5808,Napoli
+,Giuseppe Ambrosino,it ITA,FW,0,0,,,2021-2022,/en/players/282947c7/Giuseppe-Ambrosino,282947c7,Napoli,,,,,190,9.0,23129,Napoli
+,Benedetto Barba,it ITA,DF,0,0,,,2021-2022,/en/players/2a7e2610/Benedetto-Barba,2a7e2610,Napoli,,,,,190,9.0,23130,Napoli
+,Antonio Cioffi,it ITA,FW,0,0,,,2021-2022,/en/players/3f1107d5/Antonio-Cioffi,3f1107d5,Napoli,,,,,190,9.0,23131,Napoli
+,Davide Costanzo,it ITA,DF,0,0,,,2021-2022,/en/players/eae85c6c/Davide-Costanzo,85c6c,Napoli,,,,,190,9.0,23125,Napoli
+,Hubert Idasiak,pl POL,GK,0,0,,,2021-2022,/en/players/1b70f53a/Hubert-Idasiak,1b70f53a,Napoli,,,,,190,14.0,23123,Napoli
+,Balla Manè,it ITA,DF,0,0,,,2021-2022,/en/players/d9d96d02/Balla-Mane,d9d96d02,Napoli,,,,,190,9.0,23132,Napoli
+,Luca Palmiero,it ITA,MF,0,0,,,2021-2022,/en/players/3aafd050/Luca-Palmiero,3aafd050,Napoli,,,,,190,9.0,20543,Napoli
+,Jonathan Spedalieri,it ITA,DF,0,0,,,2021-2022,/en/players/5a332121/Jonathan-Spedalieri,5a332121,Napoli,,,,,190,9.0,23133,Napoli
+,Antonio Vergara,it ITA,FW,0,0,,,2021-2022,/en/players/848c17ed/Antonio-Vergara,848c17ed,Napoli,,,,,190,9.0,23134,Napoli

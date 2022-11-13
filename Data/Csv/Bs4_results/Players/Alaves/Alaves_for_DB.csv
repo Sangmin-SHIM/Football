@@ -1,479 +1,479 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿Carlos Llorens,es ESP,DF,35,35,3.0,1.0,2002-2003,cc1c44b3,Alaves,"2,979",33.1,12.0,0.0,55.0,1.0,3258.0,Alaves
-,Richard Dutruel,fr FRA,GK,33,33,0.0,0.0,2002-2003,b51c1e29,Alaves,"2,970",33.0,0.0,0.0,55.0,4.0,3259.0,Alaves
-,Antonio Karmona,es ESP,DF,33,32,0.0,1.0,2002-2003,6bf6531,Alaves,"2,814",31.3,4.0,0.0,55.0,1.0,3260.0,Alaves
-,Abelardo Fernández,es ESP,DF,28,28,1.0,0.0,2002-2003,fd6cdf88,Alaves,"2,503",27.8,9.0,0.0,55.0,1.0,3261.0,Alaves
-,Martín Astudillo,ar ARG,MF,25,25,2.0,3.0,2002-2003,fda30cfc,Alaves,"2,186",24.3,5.0,0.0,55.0,5.0,,Alaves
-,Delfí Geli,es ESP,DF,32,24,4.0,0.0,2002-2003,6b058d9b,Alaves,"2,310",25.7,7.0,1.0,55.0,1.0,3262.0,Alaves
-,Óscar Téllez,es ESP,DF,25,24,1.0,0.0,2002-2003,c4b1fe41,Alaves,"2,175",24.2,9.0,2.0,55.0,1.0,3263.0,Alaves
-,Rubén Navarro,es ESP,FW,36,23,4.0,10.0,2002-2003,59cc2821,Alaves,"2,030",22.6,1.0,0.0,55.0,1.0,3264.0,Alaves
-,Iván Alonso,uy URU,FW,37,22,2.0,7.0,2002-2003,80084c87,Alaves,"2,109",23.4,0.0,0.0,55.0,8.0,,Alaves
-,Ibon Begoña,es ESP,DF,27,22,2.0,1.0,2002-2003,301f6f65,Alaves,"1,909",21.2,8.0,0.0,55.0,1.0,3265.0,Alaves
-,Pablo Gómez,es ESP,MF,22,20,1.0,1.0,2002-2003,0a9e2033,Alaves,"1,734",19.3,7.0,1.0,55.0,1.0,3266.0,Alaves
-,Jordi Cruyff,nl NED,"FW,MF",26,19,1.0,1.0,2002-2003,7ebf561b,Alaves,"1,721",19.1,4.0,0.0,55.0,11.0,,Alaves
-,Luis Helguera,es ESP,MF,22,18,0.0,0.0,2002-2003,873ff2a7,Alaves,"1,675",18.6,8.0,0.0,55.0,1.0,3267.0,Alaves
-,Magno Mocelin,br BRA,FW,29,18,3.0,5.0,2002-2003,5d58ff0,Alaves,"1,556",17.3,7.0,1.0,55.0,2.0,3268.0,Alaves
-,Edu Alonso,es ESP,MF,18,15,0.0,0.0,2002-2003,911e7b8d,Alaves,"1,313",14.6,1.0,0.0,55.0,1.0,3269.0,Alaves
-,Jesús Turiel,es ESP,MF,23,14,1.0,1.0,2002-2003,7c737496,Alaves,"1,227",13.6,7.0,1.0,55.0,1.0,3270.0,Alaves
-,Hermes Desio,ar ARG,MF,16,13,0.0,0.0,2002-2003,1c0c23ed,Alaves,"1,107",12.3,6.0,2.0,55.0,5.0,3271.0,Alaves
-,Adrian Ilie,ro ROU,"FW,MF",22,11,0.0,6.0,2002-2003,5ec3ec8d,Alaves,"1,183",13.1,5.0,0.0,55.0,51.0,3272.0,Alaves
-,Ivan Tomić,rs SRB,MF,10,9,0.0,1.0,2002-2003,dff4f3f2,Alaves,778,8.6,4.0,0.0,55.0,28.0,3273.0,Alaves
-,Juan Pablo Colinas,es ESP,GK,5,5,0.0,0.0,2002-2003,b2cab8f4,Alaves,360,4.0,1.0,0.0,55.0,1.0,3274.0,Alaves
-,Bogdan Mara,ro ROU,"FW,MF",14,4,1.0,0.0,2002-2003,5b649d53,Alaves,461,5.1,0.0,0.0,55.0,51.0,3275.0,Alaves
-,Juan Cruz Ochoa,es ESP,DF,4,3,0.0,0.0,2002-2003,301ff22a,Alaves,216,2.4,1.0,0.0,55.0,1.0,3276.0,Alaves
-,Nacho,es ESP,"DF,MF",2,1,0.0,0.0,2002-2003,dadfcbb3,Alaves,88,1.0,0.0,0.0,55.0,1.0,3277.0,Alaves
-,﻿Óscar Téllez,es ESP,DF,38,38,0.0,1.0,2003-2004,c4b1fe41,Alaves,"3,339",37.1,16.0,2.0,55.0,1.0,3263.0,Alaves
-,Ronny Gaspercic,be BEL,GK,37,37,0.0,0.0,2003-2004,bbeaf9c2,Alaves,"3,330",37.0,0.0,0.0,55.0,27.0,3278.0,Alaves
-,Martín Astudillo,ar ARG,MF,37,33,4.0,1.0,2003-2004,fda30cfc,Alaves,"2,997",33.3,19.0,1.0,55.0,5.0,,Alaves
-,Enrique de Lucas,es ESP,"FW,MF",32,32,2.0,6.0,2003-2004,61cc61,Alaves,"2,706",30.1,10.0,1.0,55.0,1.0,,Alaves
-,Jesús Galván,es ESP,DF,31,29,2.0,0.0,2003-2004,5f605a71,Alaves,"2,681",29.8,10.0,1.0,55.0,1.0,,Alaves
-,Pablo Gómez,es ESP,MF,32,29,5.0,0.0,2003-2004,0a9e2033,Alaves,"2,256",25.1,11.0,1.0,55.0,1.0,3266.0,Alaves
-,Edu Alonso,es ESP,MF,32,24,3.0,6.0,2003-2004,911e7b8d,Alaves,"2,114",23.5,8.0,0.0,55.0,1.0,3269.0,Alaves
-,Ángel,es ESP,DF,26,23,0.0,0.0,2003-2004,4c3f3098,Alaves,"2,016",22.4,9.0,0.0,55.0,1.0,3279.0,Alaves
-,Rubén Navarro,es ESP,FW,33,21,4.0,10.0,2003-2004,59cc2821,Alaves,"1,975",21.9,0.0,1.0,55.0,1.0,3264.0,Alaves
-,Jesús Turiel,es ESP,MF,31,21,0.0,1.0,2003-2004,7c737496,Alaves,"1,969",21.9,13.0,1.0,55.0,1.0,3270.0,Alaves
-,Diego Trotta,ar ARG,DF,23,20,0.0,2.0,2003-2004,7ec1faf,Alaves,"1,808",20.1,5.0,1.0,55.0,5.0,3280.0,Alaves
-,Josu Sarriegi,es ESP,DF,22,20,0.0,1.0,2003-2004,cca08d01,Alaves,"1,807",20.1,4.0,0.0,55.0,1.0,3281.0,Alaves
-,Pablo Coira,es ESP,DF,20,17,1.0,0.0,2003-2004,7099e844,Alaves,"1,443",16.0,4.0,0.0,55.0,1.0,,Alaves
-,Magno Mocelin,br BRA,FW,26,17,1.0,3.0,2003-2004,5d58ff0,Alaves,"1,424",15.8,7.0,0.0,55.0,2.0,3268.0,Alaves
-,Lacasa Kiko,,,29,17,1.0,7.0,2003-2004,,Alaves,"1,396",15.5,1.0,1.0,55.0,,,Alaves
-,Juan Cruz Ochoa,es ESP,DF,14,14,0.0,0.0,2003-2004,301ff22a,Alaves,"1,154",12.8,6.0,0.0,55.0,1.0,3276.0,Alaves
-,Ibon Begoña,es ESP,DF,22,13,2.0,0.0,2003-2004,301f6f65,Alaves,"1,318",14.6,7.0,0.0,55.0,1.0,3265.0,Alaves
-,Martín Palermo,ar ARG,FW,14,13,4.0,3.0,2003-2004,02aa1dbe,Alaves,"1,113",12.4,3.0,0.0,55.0,5.0,,Alaves
-,Iván Alonso,uy URU,FW,21,12,2.0,5.0,2003-2004,80084c87,Alaves,"1,215",13.5,2.0,0.0,55.0,8.0,,Alaves
-,Sietes,es ESP,DF,12,11,0.0,0.0,2003-2004,bae8225f,Alaves,"1,007",11.2,3.0,0.0,55.0,1.0,,Alaves
-,Jurica Vučko,hr CRO,FW,30,10,0.0,2.0,2003-2004,d12b2233,Alaves,"1,146",12.7,5.0,0.0,55.0,16.0,3282.0,Alaves
-,Nacho,es ESP,"DF,MF",15,6,0.0,0.0,2003-2004,dadfcbb3,Alaves,622,6.9,3.0,0.0,55.0,1.0,3277.0,Alaves
-,Juan Pablo Colinas,es ESP,GK,5,5,0.0,0.0,2003-2004,b2cab8f4,Alaves,450,5.0,0.0,0.0,55.0,1.0,3274.0,Alaves
-,Andrea Orlandi,es ESP,"FW,MF",2,0,0.0,0.0,2003-2004,b1403ee6,Alaves,20,0.2,0.0,0.0,55.0,1.0,,Alaves
-,Eneko Romo,es ESP,MF,1,0,0.0,0.0,2003-2004,5c5c6fa7,Alaves,18,0.2,0.0,0.0,55.0,1.0,3283.0,Alaves
-,﻿Óscar Téllez,es ESP,DF,39,39,2.0,1.0,2004-2005,c4b1fe41,Alaves,"3,438",38.2,11.0,1.0,55.0,1.0,3263.0,Alaves
-,Nenê,br BRA,"FW,MF",40,39,4.0,12.0,2004-2005,265ebd37,Alaves,"3,303",36.7,7.0,1.0,55.0,2.0,,Alaves
-,Rubén Navarro,es ESP,FW,39,39,4.0,16.0,2004-2005,59cc2821,Alaves,"2,966",33.0,5.0,0.0,55.0,1.0,3264.0,Alaves
-,Enrique de Lucas,es ESP,"FW,MF",40,38,3.0,6.0,2004-2005,61cc61,Alaves,"3,165",35.2,11.0,3.0,55.0,1.0,,Alaves
-,Rodolfo Bodipo,gq EQG,FW,39,38,6.0,16.0,2004-2005,6cf2bc0e,Alaves,"3,039",33.8,9.0,1.0,55.0,10.0,,Alaves
-,Roberto Bonano,ar ARG,GK,36,36,0.0,0.0,2004-2005,7b2d75ba,Alaves,"3,240",36.0,3.0,0.0,55.0,5.0,,Alaves
-,Santiago Carpintero,es ESP,MF,34,31,1.0,0.0,2004-2005,139b88a8,Alaves,"2,713",30.1,7.0,0.0,55.0,1.0,,Alaves
-,David Coromina,es ESP,DF,33,31,0.0,0.0,2004-2005,bb603172,Alaves,"2,694",29.9,10.0,1.0,55.0,1.0,,Alaves
-,Edu Alonso,es ESP,MF,31,30,1.0,0.0,2004-2005,911e7b8d,Alaves,"2,616",29.1,8.0,0.0,55.0,1.0,3269.0,Alaves
-,Martín Astudillo,ar ARG,MF,31,29,2.0,0.0,2004-2005,fda30cfc,Alaves,"2,439",27.1,11.0,0.0,55.0,5.0,,Alaves
-,Josu Sarriegi,es ESP,DF,28,25,0.0,1.0,2004-2005,cca08d01,Alaves,"2,299",25.5,7.0,1.0,55.0,1.0,3281.0,Alaves
-,Lluís Carreras,es ESP,DF,24,22,0.0,0.0,2004-2005,4e1b59cf,Alaves,"1,907",21.2,10.0,1.0,55.0,1.0,,Alaves
-,Ángel,es ESP,DF,20,19,1.0,0.0,2004-2005,4c3f3098,Alaves,"1,647",18.3,3.0,0.0,55.0,1.0,3279.0,Alaves
-,Juvenal,gq EQG,MF,19,12,0.0,0.0,2004-2005,b26bf947,Alaves,"1,080",12.0,6.0,0.0,55.0,10.0,,Alaves
-,Pape Sarr,sn SEN,MF,15,10,0.0,0.0,2004-2005,7be00da6,Alaves,978,10.9,4.0,0.0,55.0,34.0,3284.0,Alaves
-,Sergio Santamaría,es ESP,"FW,MF",25,6,1.0,0.0,2004-2005,4795800e,Alaves,806,9.0,1.0,0.0,55.0,1.0,,Alaves
-,Juan Pablo Colinas,es ESP,GK,5,5,0.0,0.0,2004-2005,b2cab8f4,Alaves,450,5.0,1.0,0.0,55.0,1.0,3274.0,Alaves
-,David Sánchez,es ESP,MF,8,4,1.0,1.0,2004-2005,bb05af1a,Alaves,300,3.3,0.0,0.0,55.0,1.0,3285.0,Alaves
-,Abel Valenzuela,es ESP,DF,3,3,0.0,0.0,2004-2005,53db52e9,Alaves,270,3.0,0.0,0.0,55.0,1.0,3286.0,Alaves
-,Pape Thiaw,sn SEN,FW,18,2,1.0,5.0,2004-2005,38f40e6,Alaves,560,6.2,2.0,1.0,55.0,34.0,3287.0,Alaves
-,Nacho,es ESP,"DF,MF",14,2,1.0,0.0,2004-2005,dadfcbb3,Alaves,380,4.2,0.0,0.0,55.0,1.0,3277.0,Alaves
-,Juan Epitié,gq EQG,"FW,MF",20,1,0.0,3.0,2004-2005,7191c0ab,Alaves,421,4.7,2.0,0.0,55.0,10.0,,Alaves
-,Nicolas Ardouin,fr FRA,GK,1,1,0.0,0.0,2004-2005,be679fa0,Alaves,90,1.0,0.0,0.0,55.0,4.0,3288.0,Alaves
-,Lacasa Kiko,,,15,0,0.0,0.0,2004-2005,,Alaves,271,3.0,4.0,0.0,55.0,,,Alaves
-,Eneko Romo,es ESP,MF,3,0,0.0,0.0,2004-2005,5c5c6fa7,Alaves,99,1.1,0.0,0.0,55.0,1.0,3283.0,Alaves
-,Maximiliano Flotta,ar ARG,"DF,MF",2,0,0.0,0.0,2004-2005,34bd3bd4,Alaves,35,0.4,0.0,0.0,55.0,5.0,3289.0,Alaves
-,Álex Lombardero,es ESP,MF,2,0,0.0,0.0,2004-2005,0253cbcf,Alaves,26,0.3,0.0,0.0,55.0,1.0,3290.0,Alaves
-,Aleksandr Mostovoi,ru RUS,MF,1,0,0.0,1.0,2004-2005,6d215bed,Alaves,13,0.1,0.0,0.0,55.0,23.0,,Alaves
-,﻿Nenê,br BRA,"FW,MF",38,38,7.0,9.0,2005-2006,265ebd37,Alaves,"3,267",36.3,3.0,0.0,55.0,2.0,,Alaves
-,Edu Alonso,es ESP,MF,35,35,1.0,0.0,2005-2006,911e7b8d,Alaves,"3,121",34.7,2.0,0.0,55.0,1.0,3269.0,Alaves
-,Juanito,es ESP,"DF,MF",37,34,2.0,0.0,2005-2006,47176127,Alaves,"3,053",33.9,8.0,2.0,55.0,1.0,,Alaves
-,Martín Astudillo,ar ARG,MF,33,32,2.0,1.0,2005-2006,fda30cfc,Alaves,"2,781",30.9,9.0,0.0,55.0,5.0,,Alaves
-,Franco Costanzo,ar ARG,GK,31,31,0.0,0.0,2005-2006,56dde780,Alaves,"2,790",31.0,5.0,0.0,55.0,5.0,3291.0,Alaves
-,Josu Sarriegi,es ESP,DF,30,30,0.0,2.0,2005-2006,cca08d01,Alaves,"2,672",29.7,6.0,1.0,55.0,1.0,3281.0,Alaves
-,Rodolfo Bodipo,gq EQG,FW,35,29,3.0,7.0,2005-2006,6cf2bc0e,Alaves,"2,329",25.9,0.0,1.0,55.0,10.0,,Alaves
-,John Aloisi,au AUS,FW,33,25,1.0,10.0,2005-2006,747e3a0d,Alaves,"2,282",25.4,2.0,0.0,55.0,42.0,,Alaves
-,David Coromina,es ESP,DF,27,23,0.0,0.0,2005-2006,bb603172,Alaves,"2,216",24.6,8.0,0.0,55.0,1.0,,Alaves
-,Santiago Carpintero,es ESP,MF,27,22,0.0,2.0,2005-2006,139b88a8,Alaves,"1,903",21.1,9.0,0.0,55.0,1.0,,Alaves
-,Gaspar,es ESP,DF,21,19,0.0,0.0,2005-2006,75e5329b,Alaves,"1,710",19.0,10.0,0.0,55.0,1.0,,Alaves
-,Jandro,es ESP,MF,32,18,2.0,0.0,2005-2006,453a1fcd,Alaves,"1,770",19.7,1.0,0.0,55.0,1.0,,Alaves
-,Enrique de Lucas,es ESP,"FW,MF",22,18,3.0,2.0,2005-2006,61cc61,Alaves,"1,534",17.0,4.0,1.0,55.0,1.0,,Alaves
-,Mauricio Pellegrino,ar ARG,DF,13,11,0.0,0.0,2005-2006,8b3d6528,Alaves,"1,021",11.3,4.0,0.0,55.0,5.0,,Alaves
-,Rubén Navarro,es ESP,FW,15,10,2.0,0.0,2005-2006,59cc2821,Alaves,788,8.8,2.0,0.0,55.0,1.0,3264.0,Alaves
-,Mehdi Lacen,dz ALG,MF,19,9,1.0,0.0,2005-2006,3a306f6,Alaves,970,10.8,3.0,0.0,55.0,37.0,,Alaves
-,Poli,es ESP,DF,9,8,0.0,0.0,2005-2006,1e21189f,Alaves,685,7.6,1.0,0.0,55.0,1.0,,Alaves
-,Roberto Bonano,ar ARG,GK,7,7,0.0,0.0,2005-2006,7b2d75ba,Alaves,630,7.0,0.0,0.0,55.0,5.0,,Alaves
-,Lluís Carreras,es ESP,DF,4,4,0.0,0.0,2005-2006,4e1b59cf,Alaves,231,2.6,0.0,0.0,55.0,1.0,,Alaves
-,Wesley,br BRA,"FW,MF",10,3,0.0,1.0,2005-2006,35b1bd33,Alaves,367,4.1,2.0,0.0,55.0,2.0,3292.0,Alaves
-,José María Mena,es ESP,FW,10,3,0.0,0.0,2005-2006,bc2150cb,Alaves,356,4.0,1.0,0.0,55.0,1.0,3293.0,Alaves
-,Blagoy Georgiev,bg BUL,MF,10,3,0.0,0.0,2005-2006,d2722647,Alaves,294,3.3,1.0,0.0,55.0,65.0,3294.0,Alaves
-,Ibon Begoña,es ESP,DF,4,3,0.0,0.0,2005-2006,301f6f65,Alaves,279,3.1,3.0,0.0,55.0,1.0,3265.0,Alaves
-,Óscar Téllez,es ESP,DF,4,2,0.0,0.0,2005-2006,c4b1fe41,Alaves,204,2.3,1.0,0.0,55.0,1.0,3263.0,Alaves
-,Arthuro,br BRA,FW,6,1,0.0,0.0,2005-2006,f5bfaa6,Alaves,106,1.2,0.0,0.0,55.0,2.0,,Alaves
-,Élton Giovanni,br BRA,MF,4,0,0.0,0.0,2005-2006,8c8170c0,Alaves,66,0.7,0.0,0.0,55.0,2.0,3295.0,Alaves
-,Henri Antchouet,ga GAB,FW,3,0,0.0,0.0,2005-2006,5e54551e,Alaves,63,0.7,0.0,0.0,55.0,69.0,3296.0,Alaves
-,Pape Thiaw,sn SEN,FW,5,0,0.0,0.0,2005-2006,38f40e6,Alaves,54,0.6,0.0,0.0,55.0,34.0,3287.0,Alaves
-,﻿Martín Astudillo,ar ARG,MF,39,39,3.0,3.0,2006-2007,fda30cfc,Alaves,"3,363",37.4,14.0,1.0,55.0,5.0,,Alaves
-,José Manuel Mateo,es ESP,DF,36,35,0.0,1.0,2006-2007,d7458f0a,Alaves,"3,155",35.1,7.0,0.0,55.0,1.0,,Alaves
-,Enrique de Lucas,es ESP,"FW,MF",33,32,3.0,5.0,2006-2007,61cc61,Alaves,"2,754",30.6,14.0,0.0,55.0,1.0,,Alaves
-,Toni Moral,es ESP,MF,38,30,5.0,5.0,2006-2007,5c3bf3f9,Alaves,"2,655",29.5,15.0,1.0,55.0,1.0,,Alaves
-,Edu Alonso,es ESP,MF,28,28,2.0,1.0,2006-2007,911e7b8d,Alaves,"2,419",26.9,4.0,1.0,55.0,1.0,3269.0,Alaves
-,Pablo Casar,es ESP,DF,28,28,2.0,3.0,2006-2007,6c5d2f,Alaves,"2,375",26.4,11.0,0.0,55.0,1.0,,Alaves
-,Ángel,es ESP,DF,22,22,0.0,0.0,2006-2007,4c3f3098,Alaves,"1,958",21.8,4.0,1.0,55.0,1.0,3279.0,Alaves
-,Stéphane Porato,fr FRA,GK,22,22,0.0,0.0,2006-2007,d5f446,Alaves,"1,907",21.2,5.0,1.0,55.0,4.0,3297.0,Alaves
-,Mehdi Lacen,dz ALG,MF,31,21,0.0,0.0,2006-2007,3a306f6,Alaves,"2,141",23.8,5.0,0.0,55.0,37.0,,Alaves
-,Gaspar,es ESP,DF,23,21,0.0,1.0,2006-2007,75e5329b,Alaves,"1,849",20.5,8.0,1.0,55.0,1.0,,Alaves
-,Jandro,es ESP,MF,31,21,2.0,3.0,2006-2007,453a1fcd,Alaves,"1,701",18.9,7.0,1.0,55.0,1.0,,Alaves
-,Bartholomew Ogbeche,ng NGA,FW,29,20,1.0,5.0,2006-2007,616cc0f7,Alaves,"1,753",19.5,5.0,0.0,55.0,52.0,,Alaves
-,Pablo Brandán,ar ARG,"DF,MF",18,18,2.0,0.0,2006-2007,b27a9e0e,Alaves,"1,592",17.7,4.0,0.0,55.0,5.0,3298.0,Alaves
-,David Coromina,es ESP,DF,20,17,0.0,0.0,2006-2007,bb603172,Alaves,"1,667",18.5,8.0,1.0,55.0,1.0,,Alaves
-,Santiago Carpintero,es ESP,MF,19,15,0.0,3.0,2006-2007,139b88a8,Alaves,"1,358",15.1,6.0,0.0,55.0,1.0,,Alaves
-,Arthuro,br BRA,FW,24,14,2.0,6.0,2006-2007,f5bfaa6,Alaves,"1,222",13.6,5.0,0.0,55.0,2.0,,Alaves
-,Rubén Navarro,es ESP,FW,20,14,4.0,4.0,2006-2007,59cc2821,Alaves,"1,150",12.8,0.0,0.0,55.0,1.0,3264.0,Alaves
-,Roberto Bonano,ar ARG,GK,14,13,0.0,0.0,2006-2007,7b2d75ba,Alaves,"1,165",12.9,2.0,0.0,55.0,5.0,,Alaves
-,John Aloisi,au AUS,FW,25,12,5.0,6.0,2006-2007,747e3a0d,Alaves,"1,265",14.1,7.0,0.0,55.0,42.0,,Alaves
-,Wellington Paulista,br BRA,FW,19,11,2.0,3.0,2006-2007,f2eece5b,Alaves,"1,102",12.2,6.0,0.0,55.0,2.0,3299.0,Alaves
-,Élton Giovanni,br BRA,MF,13,9,0.0,0.0,2006-2007,8c8170c0,Alaves,671,7.5,6.0,0.0,55.0,2.0,3295.0,Alaves
-,Nicolas Ardouin,fr FRA,GK,10,7,0.0,0.0,2006-2007,be679fa0,Alaves,718,8.0,0.0,0.0,55.0,4.0,3288.0,Alaves
-,Miguel Pérez,es ESP,MF,12,7,0.0,1.0,2006-2007,b3f9e645,Alaves,636,7.1,2.0,0.0,55.0,1.0,3300.0,Alaves
-,Thiago Gentil,br BRA,FW,7,2,0.0,0.0,2006-2007,b66d9928,Alaves,175,1.9,0.0,0.0,55.0,2.0,3301.0,Alaves
-,Wesley,br BRA,"FW,MF",5,2,0.0,0.0,2006-2007,35b1bd33,Alaves,172,1.9,1.0,0.0,55.0,2.0,3292.0,Alaves
-,Gabri,es ESP,FW,12,1,0.0,0.0,2006-2007,b2605b0a,Alaves,315,3.5,1.0,0.0,55.0,1.0,3302.0,Alaves
-,Ian Uranga,mo MAC,DF,3,1,0.0,0.0,2006-2007,3e3a3981,Alaves,104,1.2,1.0,0.0,55.0,103.0,3303.0,Alaves
-,﻿Bernardo Domínguez,es ESP,GK,38,38,0.0,0.0,2007-2008,15394beb,Alaves,"3,420",38.0,1.0,0.0,55.0,1.0,,Alaves
-,Toni Moral,es ESP,MF,38,37,9.0,5.0,2007-2008,5c3bf3f9,Alaves,"3,127",34.7,11.0,2.0,55.0,1.0,,Alaves
-,Gaspar,es ESP,DF,36,35,0.0,0.0,2007-2008,75e5329b,Alaves,"2,955",32.8,13.0,2.0,55.0,1.0,,Alaves
-,Mehdi Lacen,dz ALG,MF,36,33,1.0,0.0,2007-2008,3a306f6,Alaves,"2,933",32.6,8.0,0.0,55.0,37.0,,Alaves
-,Sergio Rodríguez,es ESP,MF,38,33,4.0,4.0,2007-2008,44e3ae1a,Alaves,"2,920",32.4,15.0,0.0,55.0,1.0,,Alaves
-,Pablo Casar,es ESP,DF,28,28,0.0,3.0,2007-2008,6c5d2f,Alaves,"2,430",27.0,10.0,0.0,55.0,1.0,,Alaves
-,David Aganzo,es ESP,FW,30,27,0.0,11.0,2007-2008,97e3ba49,Alaves,"2,448",27.2,14.0,1.0,55.0,1.0,,Alaves
-,David Coromina,es ESP,DF,25,24,0.0,2.0,2007-2008,bb603172,Alaves,"2,042",22.7,8.0,0.0,55.0,1.0,,Alaves
-,Martín Astudillo,ar ARG,MF,21,21,2.0,0.0,2007-2008,fda30cfc,Alaves,"1,890",21.0,6.0,0.0,55.0,5.0,,Alaves
-,Edu Alonso,es ESP,MF,21,19,1.0,0.0,2007-2008,911e7b8d,Alaves,"1,765",19.6,3.0,0.0,55.0,1.0,3269.0,Alaves
-,Javier Tarantino,es ESP,DF,22,19,0.0,0.0,2007-2008,0bf40bdb,Alaves,"1,698",18.9,6.0,0.0,55.0,1.0,,Alaves
-,Gabri,es ESP,FW,29,18,2.0,4.0,2007-2008,b2605b0a,Alaves,"1,698",18.9,5.0,1.0,55.0,1.0,3302.0,Alaves
-,Ángel,es ESP,DF,20,18,2.0,0.0,2007-2008,4c3f3098,Alaves,"1,688",18.8,6.0,0.0,55.0,1.0,3279.0,Alaves
-,Iñigo Calderón,es ESP,DF,20,17,0.0,0.0,2007-2008,17a1c047,Alaves,"1,570",17.4,5.0,0.0,55.0,1.0,3304.0,Alaves
-,José Manuel Mateo,es ESP,DF,18,16,0.0,0.0,2007-2008,d7458f0a,Alaves,"1,391",15.5,3.0,0.0,55.0,1.0,,Alaves
-,José María Mena,es ESP,FW,29,14,2.0,4.0,2007-2008,bc2150cb,Alaves,"1,389",15.4,5.0,0.0,55.0,1.0,3293.0,Alaves
-,Nacho Garro,es ESP,MF,20,13,0.0,0.0,2007-2008,9f6a2843,Alaves,"1,099",12.2,10.0,0.0,55.0,1.0,3305.0,Alaves
-,Raúl Sánchez,es ESP,FW,25,11,1.0,3.0,2007-2008,5553259e,Alaves,"1,085",12.1,5.0,1.0,55.0,1.0,3306.0,Alaves
-,Adrián López,es ESP,"FW,MF",10,9,0.0,3.0,2007-2008,88a359d4,Alaves,740,8.2,1.0,0.0,55.0,1.0,,Alaves
-,Dalibor Stevanović,si SVN,MF,9,8,1.0,0.0,2007-2008,da8e51,Alaves,618,6.9,2.0,0.0,55.0,32.0,,Alaves
-,Samuel Bayón,es ESP,FW,16,7,1.0,0.0,2007-2008,53591b5a,Alaves,621,6.9,2.0,0.0,55.0,1.0,3307.0,Alaves
-,Nicolas Ardouin,fr FRA,GK,4,4,0.0,0.0,2007-2008,be679fa0,Alaves,360,4.0,0.0,0.0,55.0,4.0,3288.0,Alaves
-,Asier,es ESP,MF,6,4,0.0,0.0,2007-2008,c599392e,Alaves,244,2.7,1.0,0.0,55.0,1.0,,Alaves
-,Wellington Paulista,br BRA,FW,7,3,0.0,0.0,2007-2008,f2eece5b,Alaves,302,3.4,2.0,0.0,55.0,2.0,3299.0,Alaves
-,Igor Martínez,es ESP,"FW,MF",18,2,0.0,1.0,2007-2008,c68990c2,Alaves,430,4.8,1.0,0.0,55.0,1.0,,Alaves
-,José Cabrera,es ESP,MF,3,2,0.0,0.0,2007-2008,c7bf7830,Alaves,113,1.3,0.0,0.0,55.0,1.0,3308.0,Alaves
-,Jairo,es ESP,MF,8,1,0.0,1.0,2007-2008,30f7cce,Alaves,173,1.9,1.0,0.0,55.0,1.0,3309.0,Alaves
-,Adrian Pinilla,,,1,1,0.0,0.0,2007-2008,,Alaves,90,1.0,1.0,0.0,55.0,,,Alaves
-,Miguel Pérez,es ESP,MF,7,0,0.0,0.0,2007-2008,b3f9e645,Alaves,141,1.6,1.0,0.0,55.0,1.0,3300.0,Alaves
-,Rubén Arroyo,es ESP,FW,1,0,0.0,0.0,2007-2008,725b2479,Alaves,27,0.3,0.0,0.0,55.0,1.0,3310.0,Alaves
-,﻿César Caneda,es ESP,DF,38,38,0.0,0.0,2008-2009,1013adcf,Alaves,"3,409",37.9,9.0,1.0,55.0,1.0,,Alaves
-,Javi Guerra,es ESP,FW,40,38,1.0,9.0,2008-2009,386464,Alaves,"3,251",36.1,3.0,0.0,55.0,1.0,,Alaves
-,Emilio Sánchez,es ESP,MF,37,37,8.0,3.0,2008-2009,58b5df2f,Alaves,"3,158",35.1,3.0,0.0,55.0,1.0,,Alaves
-,Iñigo Calderón,es ESP,DF,32,31,0.0,1.0,2008-2009,17a1c047,Alaves,"2,796",31.1,10.0,0.0,55.0,1.0,3304.0,Alaves
-,Martín Astudillo,ar ARG,MF,34,30,0.0,2.0,2008-2009,fda30cfc,Alaves,"2,624",29.2,5.0,1.0,55.0,5.0,,Alaves
-,Gaizka Garitano,es ESP,MF,29,28,0.0,2.0,2008-2009,0f5ededa,Alaves,"2,449",27.2,11.0,2.0,55.0,1.0,,Alaves
-,Edu Albácar,es ESP,DF,28,27,0.0,3.0,2008-2009,fc8a84b8,Alaves,"2,350",26.1,13.0,2.0,55.0,1.0,3311.0,Alaves
-,Bernardo Domínguez,es ESP,GK,26,26,0.0,0.0,2008-2009,15394beb,Alaves,"2,261",25.1,2.0,0.0,55.0,1.0,,Alaves
-,Raúl Llorente,es ESP,DF,30,25,2.0,0.0,2008-2009,f40996ec,Alaves,"2,224",24.7,8.0,2.0,55.0,1.0,3312.0,Alaves
-,Pablo Casar,es ESP,DF,26,23,0.0,2.0,2008-2009,6c5d2f,Alaves,"2,009",22.3,4.0,2.0,55.0,1.0,,Alaves
-,Antonio Moreno Fernández,es ESP,"FW,MF",29,22,1.0,2.0,2008-2009,47ba6c6d,Alaves,"1,797",20.0,7.0,1.0,55.0,1.0,,Alaves
-,Roberto Cuevas,es ESP,"FW,MF",28,19,2.0,3.0,2008-2009,5d0e6432,Alaves,"1,461",16.2,8.0,0.0,55.0,1.0,3313.0,Alaves
-,Javier Almirón,ar ARG,"DF,MF",22,18,2.0,2.0,2008-2009,8b8c57b7,Alaves,"1,584",17.6,8.0,2.0,55.0,5.0,3314.0,Alaves
-,Nicolas Bonis,fr FRA,GK,17,16,0.0,0.0,2008-2009,3cb96ab0,Alaves,"1,519",16.9,1.0,0.0,55.0,4.0,3315.0,Alaves
-,Toni Moral,es ESP,MF,16,16,1.0,2.0,2008-2009,5c3bf3f9,Alaves,"1,369",15.2,3.0,0.0,55.0,1.0,,Alaves
-,Juanjo Expósito,es ESP,FW,17,13,1.0,3.0,2008-2009,f0a0b756,Alaves,"1,016",11.3,4.0,1.0,55.0,1.0,,Alaves
-,Nacho Garro,es ESP,MF,15,12,0.0,1.0,2008-2009,9f6a2843,Alaves,"1,042",11.6,5.0,0.0,55.0,1.0,3305.0,Alaves
-,Igor Martínez,es ESP,"FW,MF",34,10,3.0,3.0,2008-2009,c68990c2,Alaves,"1,409",15.7,3.0,1.0,55.0,1.0,,Alaves
-,Óscar de Marcos,es ESP,"DF,FW",19,10,1.0,3.0,2008-2009,9f323c71,Alaves,934,10.4,2.0,0.0,55.0,1.0,,Alaves
-,José Manuel Mateo,es ESP,DF,12,8,0.0,0.0,2008-2009,d7458f0a,Alaves,711,7.9,2.0,1.0,55.0,1.0,,Alaves
-,Marc Pedraza,es ESP,MF,14,4,0.0,1.0,2008-2009,ff8f26ef,Alaves,411,4.6,2.0,0.0,55.0,1.0,,Alaves
-,Dani Castellano,es ESP,"DF,MF",8,4,1.0,0.0,2008-2009,21d4e122,Alaves,395,4.4,2.0,0.0,55.0,1.0,3316.0,Alaves
-,Jacobo Ynclán,es ESP,"FW,MF",8,2,0.0,0.0,2008-2009,68078edd,Alaves,290,3.2,1.0,0.0,55.0,1.0,,Alaves
-,Pablo de Lucas,es ESP,MF,10,2,0.0,0.0,2008-2009,d1264346,Alaves,274,3.0,1.0,1.0,55.0,1.0,3317.0,Alaves
-,José Cabrera,es ESP,MF,8,1,0.0,0.0,2008-2009,c7bf7830,Alaves,208,2.3,0.0,0.0,55.0,1.0,3308.0,Alaves
-,Walter Martínez,hn HON,"FW,MF",3,1,0.0,0.0,2008-2009,4dab583d,Alaves,115,1.3,0.0,0.0,55.0,107.0,,Alaves
-,Iban Fagoaga,es ESP,DF,1,1,0.0,0.0,2008-2009,d49844fa,Alaves,42,0.5,0.0,1.0,55.0,1.0,3318.0,Alaves
-,Raúl Sánchez,es ESP,FW,2,0,0.0,0.0,2008-2009,5553259e,Alaves,20,0.2,0.0,0.0,55.0,1.0,3306.0,Alaves
-,Jonathan Reguero,es ESP,FW,1,0,0.0,0.0,2008-2009,f3b03bed,Alaves,18,0.2,0.0,0.0,55.0,1.0,3319.0,Alaves
-,Samuel Bayón,es ESP,FW,1,0,0.0,0.0,2008-2009,53591b5a,Alaves,14,0.2,0.0,0.0,55.0,1.0,3307.0,Alaves
-,﻿Borja Viguera,es ESP,FW,42,41,4.0,25.0,2013-2014,d906a703,Alaves,"3,601",40.0,4.0,0.0,55.0,1.0,,Alaves
-,Manu García,es ESP,MF,38,35,6.0,3.0,2013-2014,05a4465d,Alaves,"3,074",34.2,14.0,0.0,55.0,1.0,3320.0,Alaves
-,Jiří Jarošík,cz CZE,"DF,MF",33,31,0.0,2.0,2013-2014,55ea6bb4,Alaves,"2,847",31.6,8.0,0.0,55.0,84.0,3321.0,Alaves
-,Jagoba Beobide,es ESP,MF,31,31,1.0,1.0,2013-2014,08dee721,Alaves,"2,525",28.1,5.0,1.0,55.0,1.0,3322.0,Alaves
-,Iñaki Goitia,es ESP,GK,30,30,0.0,0.0,2013-2014,2f10b901,Alaves,"2,700",30.0,2.0,0.0,55.0,1.0,,Alaves
-,Óscar Rubio Fauria,es ESP,"DF,MF",27,26,0.0,0.0,2013-2014,d220bc16,Alaves,"2,343",26.0,7.0,0.0,55.0,1.0,3323.0,Alaves
-,Ion Vélez,es ESP,FW,32,25,6.0,6.0,2013-2014,3a6c16de,Alaves,"2,208",24.5,10.0,1.0,55.0,1.0,,Alaves
-,Toti,es ESP,"FW,MF",30,24,1.0,4.0,2013-2014,03a03057,Alaves,"1,893",21.0,7.0,0.0,55.0,1.0,3324.0,Alaves
-,Emilio Sánchez,es ESP,MF,32,23,5.0,0.0,2013-2014,58b5df2f,Alaves,"1,964",21.8,4.0,0.0,55.0,1.0,,Alaves
-,Guzmán Casaseca,es ESP,MF,30,21,5.0,5.0,2013-2014,f05d4004,Alaves,"1,928",21.4,3.0,1.0,55.0,1.0,,Alaves
-,Nano,es ESP,"DF,FW",23,21,2.0,0.0,2013-2014,51fbb7e2,Alaves,"1,858",20.6,3.0,1.0,55.0,1.0,,Alaves
-,Álex Ortiz,es ESP,DF,24,18,2.0,1.0,2013-2014,c07dc79e,Alaves,"1,756",19.5,5.0,0.0,55.0,1.0,,Alaves
-,Unai Medina,es ESP,DF,17,17,0.0,0.0,2013-2014,bda6ddeb,Alaves,"1,520",16.9,4.0,0.0,55.0,1.0,3325.0,Alaves
-,Jaume Delgado,es ESP,MF,18,17,0.0,0.0,2013-2014,fb3952be,Alaves,"1,492",16.6,4.0,0.0,55.0,1.0,3326.0,Alaves
-,Samuel Llorca,es ESP,DF,18,16,0.0,1.0,2013-2014,9c3d54f0,Alaves,"1,503",16.7,4.0,0.0,55.0,1.0,,Alaves
-,Luciano,es ESP,DF,17,14,0.0,0.0,2013-2014,7798f39e,Alaves,"1,337",14.9,3.0,1.0,55.0,1.0,3327.0,Alaves
-,Iván Crespo,es ESP,GK,12,12,0.0,0.0,2013-2014,31ae3b7e,Alaves,"1,080",12.0,0.0,0.0,55.0,1.0,,Alaves
-,Raúl García,es ESP,DF,16,12,0.0,0.0,2013-2014,1a317a1b,Alaves,"1,066",11.8,3.0,0.0,55.0,1.0,,Alaves
-,José Mora,ec ECU,FW,14,12,0.0,1.0,2013-2014,0eff5cf7,Alaves,848,9.4,2.0,0.0,55.0,61.0,,Alaves
-,Carlos Lázaro,es ESP,MF,13,9,0.0,0.0,2013-2014,785894a8,Alaves,874,9.7,2.0,0.0,55.0,1.0,,Alaves
-,Miroslav Stevanović,ba BIH,"FW,MF",13,7,0.0,1.0,2013-2014,73d430c6,Alaves,745,8.3,2.0,0.0,55.0,49.0,,Alaves
-,Óscar Serrano,es ESP,MF,16,6,0.0,1.0,2013-2014,c862ecc5,Alaves,576,6.4,3.0,1.0,55.0,1.0,,Alaves
-,Juanma,es ESP,MF,17,5,3.0,1.0,2013-2014,f4f22926,Alaves,512,5.7,0.0,0.0,55.0,1.0,,Alaves
-,Sergio Tejera,es ESP,MF,13,5,0.0,0.0,2013-2014,3d5734ef,Alaves,488,5.4,4.0,0.0,55.0,1.0,,Alaves
-,Mauro Quiroga,ar ARG,FW,22,2,0.0,3.0,2013-2014,1643c897,Alaves,527,5.9,2.0,0.0,55.0,5.0,3328.0,Alaves
-,Gorka Laborda,es ESP,FW,4,1,0.0,0.0,2013-2014,7e77be7b,Alaves,103,1.1,1.0,0.0,55.0,1.0,3329.0,Alaves
-,Nicolás Schenone,uy URU,MF,1,1,0.0,0.0,2013-2014,35d0b21,Alaves,82,0.9,1.0,0.0,55.0,8.0,3330.0,Alaves
-,Einar Galilea,es ESP,DF,2,0,0.0,0.0,2013-2014,327d75f2,Alaves,33,0.4,0.0,0.0,55.0,1.0,3331.0,Alaves
-,﻿Víctor Laguardia,es ESP,DF,35,35,2.0,1.0,2014-2015,b7c99b9b,Alaves,"3,150",35.0,15.0,0.0,55.0,1.0,3332.0,Alaves
-,Raúl García,es ESP,DF,39,34,1.0,2.0,2014-2015,1a317a1b,Alaves,"3,014",33.5,3.0,0.0,55.0,1.0,,Alaves
-,Daniel Toribio,es ESP,MF,35,34,0.0,1.0,2014-2015,0ced6664,Alaves,"2,895",32.2,8.0,0.0,55.0,1.0,,Alaves
-,Toti,es ESP,"FW,MF",36,33,8.0,8.0,2014-2015,03a03057,Alaves,"2,754",30.6,5.0,0.0,55.0,1.0,3324.0,Alaves
-,Manu,es ESP,GK,29,29,0.0,0.0,2014-2015,6c6988d,Alaves,"2,610",29.0,3.0,0.0,55.0,1.0,,Alaves
-,Unai Medina,es ESP,DF,29,28,0.0,0.0,2014-2015,bda6ddeb,Alaves,"2,387",26.5,11.0,1.0,55.0,1.0,3325.0,Alaves
-,Manu García,es ESP,MF,30,27,2.0,0.0,2014-2015,05a4465d,Alaves,"2,177",24.2,12.0,0.0,55.0,1.0,3320.0,Alaves
-,Manu Barreiro,es ESP,FW,31,22,1.0,11.0,2014-2015,028608d9,Alaves,"1,965",21.8,8.0,0.0,55.0,1.0,3333.0,Alaves
-,Juli,es ESP,MF,32,21,4.0,6.0,2014-2015,f3541f8a,Alaves,"2,041",22.7,3.0,0.0,55.0,1.0,3334.0,Alaves
-,Migue,es ESP,DF,23,21,0.0,1.0,2014-2015,13575a4c,Alaves,"1,864",20.7,5.0,0.0,55.0,1.0,3335.0,Alaves
-,Jiří Jarošík,cz CZE,"DF,MF",19,19,1.0,2.0,2014-2015,55ea6bb4,Alaves,"1,710",19.0,5.0,0.0,55.0,84.0,3321.0,Alaves
-,Manuel Lanzarote,es ESP,MF,20,18,1.0,3.0,2014-2015,dff353fb,Alaves,"1,508",16.8,4.0,0.0,55.0,1.0,,Alaves
-,Juanma,es ESP,MF,31,17,0.0,2.0,2014-2015,f4f22926,Alaves,"1,435",15.9,2.0,0.0,55.0,1.0,,Alaves
-,Marco Sangalli,es ESP,"FW,MF",36,15,2.0,0.0,2014-2015,0bf0e5b1,Alaves,"1,689",18.8,2.0,1.0,55.0,1.0,,Alaves
-,Jagoba Beobide,es ESP,MF,19,15,0.0,0.0,2014-2015,08dee721,Alaves,"1,427",15.9,5.0,0.0,55.0,1.0,3322.0,Alaves
-,Ernesto Galán,es ESP,DF,14,14,0.0,1.0,2014-2015,7e4af593,Alaves,"1,139",12.7,5.0,2.0,55.0,1.0,,Alaves
-,Ion Vélez,es ESP,FW,24,13,2.0,3.0,2014-2015,3a6c16de,Alaves,"1,317",14.6,2.0,0.0,55.0,1.0,,Alaves
-,Iñaki Goitia,es ESP,GK,13,13,0.0,0.0,2014-2015,2f10b901,Alaves,"1,170",13.0,0.0,0.0,55.0,1.0,,Alaves
-,Rafa García,es ESP,MF,19,12,1.0,1.0,2014-2015,bebdff6f,Alaves,"1,078",12.0,2.0,0.0,55.0,1.0,3336.0,Alaves
-,Xabier Castillo,hr CRO,DF,13,11,1.0,0.0,2014-2015,638dc43b,Alaves,"1,111",12.3,2.0,0.0,55.0,16.0,,Alaves
-,Ranko Despotović,rs SRB,FW,24,11,0.0,4.0,2014-2015,7909655a,Alaves,"1,083",12.0,2.0,0.0,55.0,28.0,3337.0,Alaves
-,Einar Galilea,es ESP,DF,13,10,0.0,0.0,2014-2015,327d75f2,Alaves,999,11.1,2.0,0.0,55.0,1.0,3331.0,Alaves
-,Sergio Tejera,es ESP,MF,9,6,0.0,1.0,2014-2015,3d5734ef,Alaves,421,4.7,3.0,0.0,55.0,1.0,,Alaves
-,Sergio Llamas,es ESP,MF,14,4,3.0,1.0,2014-2015,ca64ddf5,Alaves,562,6.2,4.0,0.0,55.0,1.0,3338.0,Alaves
-,Andoni,es ESP,MF,0,0,,,2014-2015,647126d0,Alaves,,,,,55.0,1.0,3339.0,Alaves
-,﻿Fernando Pacheco,es ESP,GK,40,40,0.0,0.0,2015-2016,97852360,Alaves,"3,600",40.0,4.0,0.0,55.0,1.0,130.0,Alaves
-,Víctor Laguardia,es ESP,DF,39,39,0.0,1.0,2015-2016,b7c99b9b,Alaves,"3,466",38.5,13.0,1.0,55.0,1.0,3332.0,Alaves
-,Raúl García,es ESP,DF,39,39,6.0,5.0,2015-2016,1a317a1b,Alaves,"3,444",38.3,9.0,0.0,55.0,1.0,,Alaves
-,Sergio Mora,es ESP,MF,39,39,2.0,3.0,2015-2016,f0a31c00,Alaves,"3,337",37.1,15.0,1.0,55.0,1.0,3340.0,Alaves
-,Gaizka Toquero,es ESP,"FW,MF",39,39,3.0,9.0,2015-2016,b78144a6,Alaves,"3,273",36.4,13.0,0.0,55.0,1.0,,Alaves
-,Juli,es ESP,MF,40,38,9.0,4.0,2015-2016,f3541f8a,Alaves,"3,171",35.2,7.0,0.0,55.0,1.0,3334.0,Alaves
-,Manu García,es ESP,MF,37,37,4.0,5.0,2015-2016,05a4465d,Alaves,"3,159",35.1,15.0,2.0,55.0,1.0,3320.0,Alaves
-,Kiko Femenía,es ESP,"DF,FW",38,37,1.0,5.0,2015-2016,5d01ecf,Alaves,"2,811",31.2,8.0,0.0,55.0,1.0,3341.0,Alaves
-,Sergio Pelegrín,es ESP,DF,36,36,0.0,3.0,2015-2016,360782f,Alaves,"3,236",36.0,12.0,1.0,55.0,1.0,3342.0,Alaves
-,Javier Carpio,es ESP,DF,34,33,1.0,0.0,2015-2016,5158c08a,Alaves,"2,845",31.6,5.0,2.0,55.0,1.0,3343.0,Alaves
-,Daniel Pacheco,es ESP,"FW,MF",36,26,7.0,3.0,2015-2016,5b2a4b8d,Alaves,"2,371",26.3,7.0,2.0,55.0,1.0,,Alaves
-,Manu Barreiro,es ESP,FW,32,11,1.0,5.0,2015-2016,028608d9,Alaves,"1,352",15.0,4.0,0.0,55.0,1.0,3333.0,Alaves
-,Dani Estrada,es ESP,"DF,MF",19,9,0.0,1.0,2015-2016,519412fd,Alaves,962,10.7,9.0,0.0,55.0,1.0,,Alaves
-,Facundo Guichón,uy URU,MF,30,9,0.0,1.0,2015-2016,6db97467,Alaves,913,10.1,9.0,1.0,55.0,8.0,3344.0,Alaves
-,Hernán Bernardello,ar ARG,MF,13,9,0.0,1.0,2015-2016,dec04537,Alaves,893,9.9,4.0,0.0,55.0,5.0,3345.0,Alaves
-,Jagoba Beobide,es ESP,MF,16,5,0.0,0.0,2015-2016,08dee721,Alaves,558,6.2,5.0,0.0,55.0,1.0,3322.0,Alaves
-,Aritz Borda,es ESP,DF,10,5,0.0,0.0,2015-2016,47e49156,Alaves,484,5.4,2.0,0.0,55.0,1.0,,Alaves
-,Einar Galilea,es ESP,DF,6,4,0.0,0.0,2015-2016,327d75f2,Alaves,314,3.5,1.0,1.0,55.0,1.0,3331.0,Alaves
-,Dani Abalo,es ESP,"FW,MF",7,2,0.0,0.0,2015-2016,d1b04adb,Alaves,195,2.2,0.0,0.0,55.0,1.0,,Alaves
-,Pau Torres,es ESP,GK,2,2,0.0,0.0,2015-2016,2912fea1,Alaves,180,2.0,0.0,0.0,55.0,1.0,,Alaves
-,Iñaki Sáenz,es ESP,MF,3,2,0.0,0.0,2015-2016,995e3a10,Alaves,164,1.8,0.0,0.0,55.0,1.0,,Alaves
-,Sergio Llamas,es ESP,MF,19,1,0.0,2.0,2015-2016,ca64ddf5,Alaves,330,3.7,5.0,0.0,55.0,1.0,3338.0,Alaves
-,David Arenas Torres,es ESP,FW,6,0,0.0,0.0,2015-2016,87afba6a,Alaves,108,1.2,1.0,0.0,55.0,1.0,3346.0,Alaves
-,Krisztián Vadócz,hu HUN,MF,3,0,0.0,0.0,2015-2016,b4b0e333,Alaves,69,0.8,0.0,0.0,55.0,87.0,,Alaves
-,Asier Benito,es ESP,FW,2,0,0.0,0.0,2015-2016,02a111ed,Alaves,34,0.4,1.0,0.0,55.0,1.0,3347.0,Alaves
-,Jon Aranda Goenaga,es ESP,DF,0,0,,,2015-2016,84ef91ca,Alaves,,,,,55.0,1.0,3348.0,Alaves
-,Aritz Castro,es ESP,GK,0,0,,,2015-2016,0b006b08,Alaves,,,,,55.0,1.0,3349.0,Alaves
-,Iñaki Goitia,es ESP,GK,0,0,,,2015-2016,2f10b901,Alaves,,,,,55.0,1.0,,Alaves
-,Iñaki Sáenz,es ESP,"DF,MF",0,0,,,2015-2016,975dd5ae,Alaves,,,,,55.0,1.0,3350.0,Alaves
-,﻿Fernando Pacheco,es ESP,GK,36,36,0.0,0.0,2016-2017,97852360,Alaves,"3,240",36.0,1.0,0.0,55.0,1.0,130.0,Alaves
-,Marcos Llorente,es ESP,MF,32,31,2.0,0.0,2016-2017,02c15616,Alaves,"2,806",31.2,5.0,0.0,55.0,1.0,138.0,Alaves
-,Theo Hernández,fr FRA,DF,32,30,3.0,1.0,2016-2017,d4c9725f,Alaves,"2,725",30.3,12.0,1.0,55.0,4.0,146.0,Alaves
-,Deyverson,br BRA,FW,32,29,1.0,7.0,2016-2017,2e5e846d,Alaves,"2,580",28.7,14.0,0.0,55.0,2.0,3351.0,Alaves
-,Kiko Femenía,es ESP,DF,31,28,2.0,0.0,2016-2017,5d01ecf,Alaves,"2,500",27.8,5.0,0.0,55.0,1.0,3341.0,Alaves
-,Víctor Camarasa,es ESP,MF,31,28,1.0,3.0,2016-2017,b2d03887,Alaves,"2,495",27.7,4.0,0.0,55.0,1.0,,Alaves
-,Zouhair Feddal,ma MAR,DF,27,27,1.0,2.0,2016-2017,89151b16,Alaves,"2,242",24.9,8.0,2.0,55.0,26.0,,Alaves
-,Víctor Laguardia,es ESP,DF,26,24,1.0,2.0,2016-2017,b7c99b9b,Alaves,"2,149",23.9,6.0,0.0,55.0,1.0,3332.0,Alaves
-,Manu García,es ESP,MF,25,23,1.0,3.0,2016-2017,05a4465d,Alaves,"2,011",22.3,8.0,0.0,55.0,1.0,3320.0,Alaves
-,Ibai Gómez,es ESP,MF,29,23,2.0,5.0,2016-2017,9d2a3d5f,Alaves,"1,815",20.2,2.0,0.0,55.0,1.0,,Alaves
-,Alexis,es ESP,DF,24,19,1.0,2.0,2016-2017,db0cd1ae,Alaves,"1,819",20.2,10.0,1.0,55.0,1.0,,Alaves
-,Édgar Méndez,es ESP,"MF,FW",27,18,1.0,4.0,2016-2017,d746df,Alaves,"1,612",17.9,6.0,0.0,55.0,1.0,3352.0,Alaves
-,Daniel Torres,co COL,MF,21,17,0.0,0.0,2016-2017,87882adc,Alaves,"1,436",16.0,7.0,0.0,55.0,19.0,3353.0,Alaves
-,Gaizka Toquero,es ESP,"MF,FW",23,15,1.0,1.0,2016-2017,b78144a6,Alaves,"1,222",13.6,4.0,0.0,55.0,1.0,,Alaves
-,Raúl García,es ESP,DF,18,14,0.0,0.0,2016-2017,1a317a1b,Alaves,"1,270",14.1,6.0,0.0,55.0,1.0,,Alaves
-,Carlos Vigaray,es ESP,DF,19,10,3.0,0.0,2016-2017,f69d934e,Alaves,949,10.5,1.0,0.0,55.0,1.0,3354.0,Alaves
-,Nenad Krstičić,rs SRB,MF,14,9,0.0,2.0,2016-2017,5631b735,Alaves,745,8.3,3.0,0.0,55.0,28.0,3355.0,Alaves
-,Christian Santos,ve VEN,FW,21,8,1.0,3.0,2016-2017,4efd29bb,Alaves,837,9.3,2.0,0.0,55.0,53.0,,Alaves
-,Rodrigo Ely,br BRA,DF,10,8,0.0,1.0,2016-2017,fd47b4f2,Alaves,789,8.8,4.0,0.0,55.0,2.0,3356.0,Alaves
-,Aleksandar Katai,rs SRB,"MF,FW",20,8,3.0,3.0,2016-2017,d5127c3f,Alaves,775,8.6,3.0,1.0,55.0,28.0,3357.0,Alaves
-,Rubén Sobrino,es ESP,MF,11,5,1.0,2.0,2016-2017,19b776e9,Alaves,503,5.6,1.0,0.0,55.0,1.0,,Alaves
-,Óscar Romero,py PAR,MF,13,4,1.0,0.0,2016-2017,4bc5f2b4,Alaves,535,5.9,3.0,0.0,55.0,43.0,3358.0,Alaves
-,Adrián Ortolá,es ESP,GK,2,2,0.0,0.0,2016-2017,6a22fe38,Alaves,180,2.0,0.0,0.0,55.0,1.0,,Alaves
-,Cristian Espinoza,ar ARG,MF,6,1,0.0,0.0,2016-2017,9c794a80,Alaves,163,1.8,1.0,0.0,55.0,5.0,,Alaves
-,Aleksandar Pantić,rs SRB,DF,2,1,1.0,0.0,2016-2017,70e5566a,Alaves,155,1.7,1.0,0.0,55.0,28.0,,Alaves
-,Martin Agirregabiria,es ESP,DF,0,0,,,2016-2017,355c883a,Alaves,,,,,55.0,1.0,3359.0,Alaves
-,Manu Barreiro,es ESP,FW,0,0,,,2016-2017,028608d9,Alaves,,,,,55.0,1.0,3333.0,Alaves
-,Manu García,es ESP,"FW,MF",0,0,,,2016-2017,6ed1a2a2,Alaves,,,,,55.0,1.0,3360.0,Alaves
-,﻿Fernando Pacheco,es ESP,GK,38,37,0.0,0.0,2017-2018,97852360,Alaves,"3,358",37.3,2.0,0.0,55.0,1.0,130.0,Alaves
-,Rodrigo Ely,br BRA,DF,31,30,0.0,1.0,2017-2018,fd47b4f2,Alaves,"2,691",29.9,11.0,1.0,55.0,2.0,3356.0,Alaves
-,Munir El Haddadi,ma MAR,FW,33,28,6.0,10.0,2017-2018,8696bc90,Alaves,"2,444",27.2,7.0,1.0,55.0,26.0,,Alaves
-,Tomás Pina Isla,es ESP,MF,30,28,0.0,1.0,2017-2018,54bd0a2,Alaves,"2,387",26.5,7.0,0.0,55.0,1.0,,Alaves
-,Alfonso Pedraza,es ESP,"MF,DF",33,27,5.0,3.0,2017-2018,63f04c6c,Alaves,"2,440",27.1,5.0,0.0,55.0,1.0,,Alaves
-,Manu García,es ESP,MF,30,27,0.0,3.0,2017-2018,05a4465d,Alaves,"2,439",27.1,9.0,0.0,55.0,1.0,3320.0,Alaves
-,Ibai Gómez,es ESP,MF,34,26,6.0,7.0,2017-2018,9d2a3d5f,Alaves,"2,319",25.8,1.0,0.0,55.0,1.0,,Alaves
-,Alexis,es ESP,DF,28,25,0.0,1.0,2017-2018,db0cd1ae,Alaves,"2,184",24.3,6.0,0.0,55.0,1.0,,Alaves
-,Rubén Duarte,es ESP,DF,24,24,2.0,0.0,2017-2018,1fe0492d,Alaves,"2,138",23.8,9.0,1.0,55.0,1.0,,Alaves
-,Martin Agirregabiria,es ESP,DF,21,20,4.0,0.0,2017-2018,355c883a,Alaves,"1,828",20.3,4.0,0.0,55.0,1.0,3359.0,Alaves
-,Víctor Laguardia,es ESP,DF,17,17,0.0,2.0,2017-2018,b7c99b9b,Alaves,"1,530",17.0,3.0,0.0,55.0,1.0,3332.0,Alaves
-,Guillermo Maripán,cl CHI,DF,19,17,0.0,0.0,2017-2018,d9764034,Alaves,"1,528",17.0,4.0,0.0,55.0,31.0,3361.0,Alaves
-,Rubén Sobrino,es ESP,"FW,MF",28,15,2.0,3.0,2017-2018,19b776e9,Alaves,"1,466",16.3,5.0,0.0,55.0,1.0,,Alaves
-,John Guidetti,se SWE,FW,17,15,3.0,3.0,2017-2018,99bebd12,Alaves,"1,222",13.6,3.0,0.0,55.0,41.0,,Alaves
-,Daniel Torres,co COL,MF,18,14,0.0,0.0,2017-2018,87882adc,Alaves,"1,217",13.5,3.0,0.0,55.0,19.0,3353.0,Alaves
-,Wakaso,gh GHA,MF,21,12,1.0,0.0,2017-2018,999908af,Alaves,"1,098",12.2,7.0,0.0,55.0,17.0,,Alaves
-,Burgui,es ESP,"MF,FW",23,12,0.0,1.0,2017-2018,45e304c8,Alaves,"1,034",11.5,1.0,0.0,55.0,1.0,,Alaves
-,Álvaro Medrán,es ESP,MF,17,9,0.0,2.0,2017-2018,31223bcf,Alaves,947,10.5,2.0,0.0,55.0,1.0,126.0,Alaves
-,Carlos Vigaray,es ESP,DF,12,9,0.0,0.0,2017-2018,f69d934e,Alaves,895,9.9,6.0,0.0,55.0,1.0,3354.0,Alaves
-,Adrián Diéguez,es ESP,DF,6,6,0.0,0.0,2017-2018,70438d35,Alaves,435,4.8,5.0,0.0,55.0,1.0,3362.0,Alaves
-,Christian Santos,ve VEN,FW,10,5,0.0,2.0,2017-2018,4efd29bb,Alaves,436,4.8,3.0,1.0,55.0,53.0,,Alaves
-,Bojan Krkić,es ESP,"FW,MF",13,4,0.0,0.0,2017-2018,9fa0a0b8,Alaves,441,4.9,0.0,0.0,55.0,1.0,,Alaves
-,Hernán Pérez,py PAR,MF,10,4,0.0,0.0,2017-2018,1cea3f7,Alaves,374,4.2,2.0,0.0,55.0,43.0,,Alaves
-,Óscar Romero,py PAR,"MF,FW",5,2,0.0,0.0,2017-2018,4bc5f2b4,Alaves,251,2.8,0.0,0.0,55.0,43.0,3358.0,Alaves
-,Ermedin Demirović,ba BIH,FW,3,2,1.0,1.0,2017-2018,d79b7d3,Alaves,182,2.0,0.0,0.0,55.0,49.0,3363.0,Alaves
-,Enzo Fernández,es ESP,MF,2,1,0.0,0.0,2017-2018,4cafb146,Alaves,71,0.8,0.0,0.0,55.0,1.0,,Alaves
-,Antonio Sivera,es ESP,GK,1,1,0.0,0.0,2017-2018,9970da54,Alaves,62,0.7,0.0,0.0,55.0,1.0,3364.0,Alaves
-,Víctor López,es ESP,MF,1,1,1.0,0.0,2017-2018,68856b5,Alaves,60,0.7,0.0,0.0,55.0,1.0,3365.0,Alaves
-,Aleksandar Katai,rs SRB,"MF,DF",3,0,0.0,0.0,2017-2018,d5127c3f,Alaves,55,0.6,0.0,0.0,55.0,28.0,3357.0,Alaves
-,Héctor Hernández,es ESP,DF,1,0,0.0,0.0,2017-2018,76ee80ee,Alaves,16,0.2,0.0,0.0,55.0,1.0,,Alaves
-,Aritz Castro,es ESP,GK,0,0,,,2017-2018,0b006b08,Alaves,,,,,55.0,1.0,3349.0,Alaves
-,Ioritz Landeta,es ESP,GK,0,0,,,2017-2018,f553e957,Alaves,,,,,55.0,1.0,3366.0,Alaves
-,﻿Víctor Laguardia,es ESP,DF,36,36,2.0,1.0,2018-2019,b7c99b9b,Alaves,"3,240",36.0,13.0,0.0,55.0,1.0,3332.0,Alaves
-,Fernando Pacheco,es ESP,GK,35,35,0.0,0.0,2018-2019,97852360,Alaves,"3,150",35.0,3.0,0.0,55.0,1.0,130.0,Alaves
-,Jony,es ESP,"MF,FW",36,34,11.0,5.0,2018-2019,244f57b9,Alaves,"2,971",33.0,3.0,0.0,55.0,1.0,,Alaves
-,Jonathan Calleri,ar ARG,FW,34,33,2.0,9.0,2018-2019,6922f806,Alaves,"2,869",31.9,6.0,0.0,55.0,5.0,,Alaves
-,Rubén Duarte,es ESP,DF,33,33,0.0,0.0,2018-2019,1fe0492d,Alaves,"2,772",30.8,10.0,1.0,55.0,1.0,,Alaves
-,Ximo Navarro,es ESP,DF,31,28,2.0,2.0,2018-2019,8db394aa,Alaves,"2,533",28.1,7.0,0.0,55.0,1.0,,Alaves
-,Tomás Pina Isla,es ESP,MF,28,27,0.0,2.0,2018-2019,54bd0a2,Alaves,"2,340",26.0,13.0,0.0,55.0,1.0,,Alaves
-,Manu García,es ESP,MF,34,25,1.0,1.0,2018-2019,05a4465d,Alaves,"2,330",25.9,6.0,0.0,55.0,1.0,3320.0,Alaves
-,Martin Agirregabiria,es ESP,DF,27,23,0.0,0.0,2018-2019,355c883a,Alaves,"2,032",22.6,4.0,0.0,55.0,1.0,3359.0,Alaves
-,Guillermo Maripán,cl CHI,DF,23,22,2.0,2.0,2018-2019,d9764034,Alaves,"2,008",22.3,5.0,0.0,55.0,31.0,3361.0,Alaves
-,Wakaso,gh GHA,MF,29,18,1.0,1.0,2018-2019,999908af,Alaves,"1,669",18.5,9.0,0.0,55.0,17.0,,Alaves
-,Borja Bastón,es ESP,FW,27,18,1.0,5.0,2018-2019,8c44e37b,Alaves,"1,439",16.0,4.0,0.0,55.0,1.0,,Alaves
-,Darko Brašanac,rs SRB,MF,24,17,1.0,0.0,2018-2019,4accb7e0,Alaves,"1,580",17.6,5.0,0.0,55.0,28.0,,Alaves
-,Ibai Gómez,es ESP,"MF,FW",18,17,2.0,3.0,2018-2019,9d2a3d5f,Alaves,"1,449",16.1,0.0,0.0,55.0,1.0,,Alaves
-,Rubén Sobrino,es ESP,"FW,MF",20,10,1.0,3.0,2018-2019,19b776e9,Alaves,965,10.7,2.0,0.0,55.0,1.0,,Alaves
-,Takashi Inui,jp JPN,"MF,FW",12,10,0.0,2.0,2018-2019,61bd33d0,Alaves,828,9.2,0.0,0.0,55.0,54.0,,Alaves
-,Carlos Vigaray,es ESP,DF,8,7,0.0,0.0,2018-2019,f69d934e,Alaves,647,7.2,1.0,0.0,55.0,1.0,3354.0,Alaves
-,John Guidetti,se SWE,FW,22,6,1.0,2.0,2018-2019,99bebd12,Alaves,631,7.0,2.0,0.0,55.0,41.0,,Alaves
-,Burgui,es ESP,"MF,FW",16,5,0.0,1.0,2018-2019,45e304c8,Alaves,555,6.2,1.0,0.0,55.0,1.0,,Alaves
-,Rodrigo Ely,br BRA,DF,5,5,0.0,0.0,2018-2019,fd47b4f2,Alaves,430,4.8,1.0,0.0,55.0,2.0,3356.0,Alaves
-,Diego Rolán,uy URU,"MF,FW",9,3,0.0,0.0,2018-2019,d1491e00,Alaves,298,3.3,1.0,0.0,55.0,8.0,,Alaves
-,Antonio Sivera,es ESP,GK,3,3,0.0,0.0,2018-2019,9970da54,Alaves,270,3.0,0.0,0.0,55.0,1.0,3364.0,Alaves
-,Adrián Marín,es ESP,"DF,MF",6,2,0.0,0.0,2018-2019,b7f2edff,Alaves,290,3.2,2.0,0.0,55.0,1.0,,Alaves
-,Daniel Torres,co COL,MF,2,1,0.0,0.0,2018-2019,87882adc,Alaves,71,0.8,1.0,0.0,55.0,19.0,3353.0,Alaves
-,Patrick Twumasi,gh GHA,"MF,FW",11,0,0.0,0.0,2018-2019,3993b65,Alaves,170,1.9,2.0,0.0,55.0,17.0,3367.0,Alaves
-,Alejandro Blanco,es ESP,MF,2,0,0.0,0.0,2018-2019,c4dce677,Alaves,16,0.2,0.0,0.0,55.0,1.0,,Alaves
-,Adrián Diéguez,es ESP,DF,0,0,,,2018-2019,70438d35,Alaves,,,,,55.0,1.0,3362.0,Alaves
-,Álex Domínguez,es ESP,GK,0,0,,,2018-2019,f240be08,Alaves,,,,,55.0,1.0,3368.0,Alaves
-,Andrei Lupu,ro ROU,FW,0,0,,,2018-2019,60035815,Alaves,,,,,55.0,51.0,3369.0,Alaves
-,Paulino,es ESP,MF,0,0,,,2018-2019,f20fce1b,Alaves,,,,,55.0,1.0,,Alaves
-,Antonio Perera,es ESP,MF,0,0,,,2018-2019,40b9b91a,Alaves,,,,,55.0,1.0,3370.0,Alaves
-,﻿Joselu,es ESP,FW,36,31,2.0,11.0,2019-2020,6265208f,Alaves,"2,782",30.9,6.0,0.0,55.0,1.0,100.0,Alaves
-,Víctor Laguardia,es ESP,DF,31,31,2.0,1.0,2019-2020,b7c99b9b,Alaves,"2,654",29.5,9.0,1.0,55.0,1.0,3332.0,Alaves
-,Rubén Duarte,es ESP,DF,31,30,1.0,0.0,2019-2020,1fe0492d,Alaves,"2,663",29.6,11.0,0.0,55.0,1.0,,Alaves
-,Lucas Pérez,es ESP,FW,34,29,5.0,11.0,2019-2020,300ac7e,Alaves,"2,496",27.7,4.0,0.0,55.0,1.0,,Alaves
-,Fernando Pacheco,es ESP,GK,27,27,0.0,0.0,2019-2020,97852360,Alaves,"2,358",26.2,0.0,1.0,55.0,1.0,130.0,Alaves
-,Aleix Vidal,es ESP,MF,29,26,4.0,2.0,2019-2020,04965583,Alaves,"2,165",24.1,6.0,0.0,55.0,1.0,,Alaves
-,Rodrigo Ely,br BRA,DF,25,24,0.0,2.0,2019-2020,fd47b4f2,Alaves,"2,121",23.6,9.0,1.0,55.0,2.0,3356.0,Alaves
-,Martin Agirregabiria,es ESP,DF,31,23,1.0,1.0,2019-2020,355c883a,Alaves,"2,099",23.3,5.0,1.0,55.0,1.0,3359.0,Alaves
-,Manu García,es ESP,MF,30,22,0.0,0.0,2019-2020,05a4465d,Alaves,"1,967",21.9,11.0,1.0,55.0,1.0,3320.0,Alaves
-,Ximo Navarro,es ESP,DF,23,22,0.0,0.0,2019-2020,8db394aa,Alaves,"1,903",21.1,8.0,0.0,55.0,1.0,,Alaves
-,Luis Rioja,es ESP,MF,28,19,0.0,0.0,2019-2020,b3dd471,Alaves,"1,634",18.2,3.0,0.0,55.0,1.0,3371.0,Alaves
-,Tomás Pina Isla,es ESP,MF,20,17,0.0,1.0,2019-2020,54bd0a2,Alaves,"1,344",14.9,6.0,1.0,55.0,1.0,,Alaves
-,Víctor Camarasa,es ESP,MF,17,15,1.0,0.0,2019-2020,b2d03887,Alaves,"1,293",14.4,1.0,0.0,55.0,1.0,,Alaves
-,Wakaso,gh GHA,MF,16,15,0.0,0.0,2019-2020,999908af,Alaves,"1,283",14.3,12.0,1.0,55.0,17.0,,Alaves
-,Oliver Burke,sct SCO,"MF,FW",31,14,2.0,1.0,2019-2020,f631c17f,Alaves,"1,429",15.9,2.0,0.0,55.0,67.0,3372.0,Alaves
-,Lisandro Magallán,ar ARG,DF,17,13,1.0,1.0,2019-2020,01a49bd2,Alaves,"1,197",13.3,4.0,0.0,55.0,5.0,3373.0,Alaves
-,Ljubomir Fejsa,rs SRB,MF,13,11,0.0,0.0,2019-2020,874d7a32,Alaves,786,8.7,2.0,0.0,55.0,28.0,3374.0,Alaves
-,Édgar Méndez,es ESP,MF,16,10,0.0,1.0,2019-2020,d746df,Alaves,864,9.6,3.0,0.0,55.0,1.0,3352.0,Alaves
-,Adrián Marín,es ESP,DF,12,9,0.0,0.0,2019-2020,b7f2edff,Alaves,852,9.5,1.0,0.0,55.0,1.0,,Alaves
-,Roberto,es ESP,GK,9,8,0.0,0.0,2019-2020,ba3ca78f,Alaves,790,8.8,1.0,0.0,55.0,1.0,,Alaves
-,Pere Pons,es ESP,MF,30,7,1.0,1.0,2019-2020,29b61deb,Alaves,"1,088",12.1,3.0,0.0,55.0,1.0,3375.0,Alaves
-,Borja Sainz,es ESP,MF,19,5,0.0,1.0,2019-2020,1b40049a,Alaves,573,6.4,1.0,0.0,55.0,1.0,3376.0,Alaves
-,Antonio Sivera,es ESP,GK,3,3,0.0,0.0,2019-2020,9970da54,Alaves,270,3.0,1.0,0.0,55.0,1.0,3364.0,Alaves
-,Tachi,es ESP,DF,6,2,0.0,0.0,2019-2020,8b625720,Alaves,238,2.6,1.0,0.0,55.0,1.0,,Alaves
-,Abdallahi Mahmoud,mr MTN,MF,3,1,0.0,0.0,2019-2020,b99e4a0,Alaves,152,1.7,1.0,0.0,55.0,94.0,3377.0,Alaves
-,John Guidetti,se SWE,"FW,MF",5,1,0.0,0.0,2019-2020,99bebd12,Alaves,96,1.1,0.0,0.0,55.0,41.0,,Alaves
-,Javi López,es ESP,DF,1,1,0.0,0.0,2019-2020,9ada8cf,Alaves,90,1.0,0.0,0.0,55.0,1.0,3378.0,Alaves
-,Guillermo Maripán,cl CHI,DF,1,1,0.0,0.0,2019-2020,d9764034,Alaves,90,1.0,0.0,0.0,55.0,31.0,3361.0,Alaves
-,Javier Muñoz,es ESP,"FW,MF",1,1,0.0,0.0,2019-2020,c7c84c2,Alaves,52,0.6,0.0,0.0,55.0,1.0,129.0,Alaves
-,Paulino,es ESP,"FW,MF",3,0,0.0,0.0,2019-2020,f20fce1b,Alaves,75,0.8,0.0,0.0,55.0,1.0,,Alaves
-,Burgui,es ESP,MF,2,0,0.0,0.0,2019-2020,45e304c8,Alaves,22,0.2,0.0,0.0,55.0,1.0,,Alaves
-,José Luis Rodríguez,pa PAN,FW,1,0,0.0,0.0,2019-2020,b333b014,Alaves,22,0.2,0.0,0.0,55.0,89.0,3379.0,Alaves
-,Aritz Castro,es ESP,GK,0,0,,,2019-2020,0b006b08,Alaves,,,,,55.0,1.0,3349.0,Alaves
-,Ismael,es ESP,MF,0,0,,,2019-2020,19cdceb0,Alaves,,,,,55.0,1.0,,Alaves
-,Rafa Navarro,es ESP,DF,0,0,,,2019-2020,83627094,Alaves,,,,,55.0,1.0,,Alaves
-,Daniel Torres,co COL,MF,0,0,,,2019-2020,87882adc,Alaves,,,,,55.0,19.0,3353.0,Alaves
-,﻿Fernando Pacheco,es ESP,GK,38,37,0.0,0.0,2020-2021,97852360,Alaves,"3,349",37.2,1.0,0.0,55.0,1.0,130.0,Alaves
-,Joselu,es ESP,FW,37,34,3.0,11.0,2020-2021,6265208f,Alaves,"3,026",33.6,1.0,0.0,55.0,1.0,100.0,Alaves
-,Florian Lejeune,fr FRA,DF,34,34,1.0,1.0,2020-2021,6eaed4eb,Alaves,"3,015",33.5,10.0,0.0,55.0,4.0,,Alaves
-,Tomás Pina Isla,es ESP,MF,33,31,1.0,1.0,2020-2021,54bd0a2,Alaves,"2,575",28.6,12.0,0.0,55.0,1.0,,Alaves
-,Víctor Laguardia,es ESP,DF,32,30,1.0,0.0,2020-2021,b7c99b9b,Alaves,"2,631",29.2,5.0,1.0,55.0,1.0,3332.0,Alaves
-,Rubén Duarte,es ESP,DF,31,29,1.0,1.0,2020-2021,1fe0492d,Alaves,"2,545",28.3,5.0,1.0,55.0,1.0,,Alaves
-,Rodrigo Battaglia,ar ARG,MF,32,29,0.0,1.0,2020-2021,d637fc22,Alaves,"2,492",27.7,10.0,1.0,55.0,5.0,,Alaves
-,Ximo Navarro,es ESP,DF,31,28,1.0,1.0,2020-2021,8db394aa,Alaves,"2,375",26.4,6.0,0.0,55.0,1.0,,Alaves
-,Édgar Méndez,es ESP,"MF,FW",33,26,1.0,5.0,2020-2021,d746df,Alaves,"2,090",23.2,12.0,1.0,55.0,1.0,3352.0,Alaves
-,Luis Rioja,es ESP,MF,35,25,2.0,4.0,2020-2021,b3dd471,Alaves,"2,090",23.2,4.0,0.0,55.0,1.0,3371.0,Alaves
-,Lucas Pérez,es ESP,FW,28,19,4.0,4.0,2020-2021,300ac7e,Alaves,"1,759",19.5,1.0,0.0,55.0,1.0,,Alaves
-,Jota,es ESP,MF,23,18,2.0,0.0,2020-2021,9f351459,Alaves,"1,398",15.5,5.0,1.0,55.0,1.0,,Alaves
-,Martin Agirregabiria,es ESP,"DF,MF",26,16,1.0,0.0,2020-2021,355c883a,Alaves,"1,558",17.3,1.0,0.0,55.0,1.0,3359.0,Alaves
-,Pere Pons,es ESP,MF,22,12,0.0,2.0,2020-2021,29b61deb,Alaves,"1,186",13.2,1.0,0.0,55.0,1.0,3375.0,Alaves
-,Deyverson,br BRA,FW,27,11,3.0,1.0,2020-2021,2e5e846d,Alaves,874,9.7,4.0,0.0,55.0,2.0,3351.0,Alaves
-,Manu García,es ESP,MF,25,10,0.0,0.0,2020-2021,05a4465d,Alaves,"1,124",12.5,9.0,1.0,55.0,1.0,3320.0,Alaves
-,Tachi,es ESP,DF,12,8,0.0,0.0,2020-2021,8b625720,Alaves,850,9.4,5.0,1.0,55.0,1.0,,Alaves
-,Rodrigo Ely,br BRA,DF,8,6,0.0,1.0,2020-2021,fd47b4f2,Alaves,468,5.2,1.0,0.0,55.0,2.0,3356.0,Alaves
-,Facundo Pellistri,uy URU,"MF,FW",12,5,0.0,0.0,2020-2021,c7e7b1c,Alaves,542,6.0,0.0,0.0,55.0,8.0,3380.0,Alaves
-,Iñigo Córdoba,es ESP,MF,7,3,0.0,0.0,2020-2021,49ea92be,Alaves,216,2.4,0.0,0.0,55.0,1.0,,Alaves
-,Borja Sainz,es ESP,"MF,FW",21,2,0.0,1.0,2020-2021,1b40049a,Alaves,453,5.0,1.0,0.0,55.0,1.0,3376.0,Alaves
-,Javi López,es ESP,"DF,MF",9,1,0.0,0.0,2020-2021,9ada8cf,Alaves,248,2.8,1.0,1.0,55.0,1.0,3378.0,Alaves
-,John Guidetti,se SWE,FW,10,1,0.0,1.0,2020-2021,99bebd12,Alaves,208,2.3,1.0,0.0,55.0,41.0,,Alaves
-,Adrián Marín,es ESP,"DF,MF",5,1,0.0,0.0,2020-2021,b7f2edff,Alaves,93,1.0,0.0,0.0,55.0,1.0,,Alaves
-,Antonio Sivera,es ESP,GK,1,1,0.0,0.0,2020-2021,9970da54,Alaves,71,0.8,0.0,0.0,55.0,1.0,3364.0,Alaves
-,Abdallahi Mahmoud,mr MTN,MF,2,1,0.0,0.0,2020-2021,b99e4a0,Alaves,66,0.7,0.0,0.0,55.0,94.0,3377.0,Alaves
-,Tomás Tavares,pt POR,"MF,DF",3,0,0.0,0.0,2020-2021,0dce3356,Alaves,65,0.7,0.0,0.0,55.0,3.0,3381.0,Alaves
-,Burgui,es ESP,MF,1,0,0.0,0.0,2020-2021,45e304c8,Alaves,21,0.2,0.0,0.0,55.0,1.0,,Alaves
-,Sergi García,es ESP,MF,2,0,0.0,0.0,2020-2021,039d52e,Alaves,16,0.2,0.0,0.0,55.0,1.0,3382.0,Alaves
-,Stephane Keller,cm CMR,DF,1,0,0.0,0.0,2020-2021,89d1e9fa,Alaves,16,0.2,0.0,0.0,55.0,36.0,3383.0,Alaves
-,Abdelkabir Abqar,ma MAR,DF,0,0,,,2020-2021,2bc7f211,Alaves,,,,,55.0,26.0,,Alaves
-,Pepe Blanco,es ESP,MF,0,0,,,2020-2021,3a97cbb1,Alaves,,,,,55.0,1.0,3384.0,Alaves
-,Aritz Castro,es ESP,GK,0,0,,,2020-2021,0b006b08,Alaves,,,,,55.0,1.0,3349.0,Alaves
-,Eneko Ortiz,es ESP,MF,0,0,,,2020-2021,dc5ea86b,Alaves,,,,,55.0,1.0,3385.0,Alaves
-,Hugo Perez,es ESP,DF,0,0,,,2020-2021,7cfbe2c9,Alaves,,,,,55.0,1.0,3386.0,Alaves
-,Robert Vallribera,es ESP,DF,0,0,,,2020-2021,695674d,Alaves,,,,,55.0,1.0,3387.0,Alaves
-,﻿Luis Rioja,es ESP,"MF,FW",37,36,3.0,1.0,2021-2022,b3dd471,Alaves,"3,111",34.6,3.0,0.0,55.0,1.0,3371.0,Alaves
-,Joselu,es ESP,FW,37,35,4.0,14.0,2021-2022,6265208f,Alaves,"3,122",34.7,0.0,0.0,55.0,1.0,100.0,Alaves
-,Fernando Pacheco,es ESP,GK,34,34,0.0,0.0,2021-2022,97852360,Alaves,"3,053",33.9,1.0,0.0,55.0,1.0,130.0,Alaves
-,Víctor Laguardia,es ESP,DF,34,34,2.0,3.0,2021-2022,b7c99b9b,Alaves,"3,042",33.8,9.0,0.0,55.0,1.0,3332.0,Alaves
-,Rubén Duarte,es ESP,DF,34,31,4.0,0.0,2021-2022,1fe0492d,Alaves,"2,621",29.1,12.0,1.0,55.0,1.0,,Alaves
-,Florian Lejeune,fr FRA,DF,30,30,0.0,0.0,2021-2022,6eaed4eb,Alaves,"2,699",30.0,9.0,1.0,55.0,4.0,,Alaves
-,Loum Ndiaye,sn SEN,MF,32,26,0.0,2.0,2021-2022,bcfc4473,Alaves,"2,312",25.7,10.0,0.0,55.0,34.0,3388.0,Alaves
-,Martin Agirregabiria,es ESP,"DF,MF",24,17,1.0,0.0,2021-2022,355c883a,Alaves,"1,616",18.0,4.0,0.0,55.0,1.0,3359.0,Alaves
-,Édgar Méndez,es ESP,"MF,FW",32,17,1.0,1.0,2021-2022,d746df,Alaves,"1,614",17.9,6.0,0.0,55.0,1.0,3352.0,Alaves
-,Toni Moya,es ESP,MF,28,17,1.0,0.0,2021-2022,9e098912,Alaves,"1,386",15.4,2.0,0.0,55.0,1.0,,Alaves
-,Pere Pons,es ESP,MF,27,17,0.0,1.0,2021-2022,29b61deb,Alaves,"1,366",15.2,2.0,0.0,55.0,1.0,3375.0,Alaves
-,Tomás Pina Isla,es ESP,MF,29,16,0.0,0.0,2021-2022,54bd0a2,Alaves,"1,444",16.0,4.0,0.0,55.0,1.0,,Alaves
-,Ximo Navarro,es ESP,DF,18,16,0.0,0.0,2021-2022,8db394aa,Alaves,"1,347",15.0,4.0,1.0,55.0,1.0,,Alaves
-,Gonzalo Escalante,ar ARG,MF,17,15,0.0,5.0,2021-2022,3f79a1c8,Alaves,"1,300",14.4,8.0,1.0,55.0,5.0,3389.0,Alaves
-,Nahuel Tenaglia,ar ARG,DF,14,12,0.0,0.0,2021-2022,66654daa,Alaves,"1,073",11.9,2.0,0.0,55.0,5.0,3390.0,Alaves
-,Manu García,es ESP,MF,24,10,1.0,0.0,2021-2022,6ed1a2a2,Alaves,"1,077",12.0,3.0,0.0,55.0,1.0,3360.0,Alaves
-,Miguel,es ESP,"FW,MF",22,10,1.0,1.0,2021-2022,6763373d,Alaves,829,9.2,2.0,0.0,55.0,1.0,,Alaves
-,Jason,es ESP,MF,14,10,1.0,0.0,2021-2022,9038c2a1,Alaves,678,7.5,1.0,0.0,55.0,1.0,,Alaves
-,Matt Miazga,us USA,DF,11,9,0.0,0.0,2021-2022,9fc0f253,Alaves,833,9.3,2.0,0.0,55.0,75.0,3391.0,Alaves
-,Facundo Pellistri,uy URU,"MF,FW",21,6,0.0,0.0,2021-2022,c7e7b1c,Alaves,672,7.5,0.0,0.0,55.0,8.0,3380.0,Alaves
-,Javi López,es ESP,DF,9,4,0.0,0.0,2021-2022,9ada8cf,Alaves,462,5.1,2.0,0.0,55.0,1.0,3378.0,Alaves
-,Mamadou Sylla,sn SEN,"FW,MF",13,4,0.0,0.0,2021-2022,5ec95f8,Alaves,394,4.4,1.0,0.0,55.0,34.0,,Alaves
-,Antonio Sivera,es ESP,GK,4,3,0.0,0.0,2021-2022,9970da54,Alaves,277,3.1,1.0,0.0,55.0,1.0,3364.0,Alaves
-,Manu Vallejo,es ESP,"MF,FW",11,2,1.0,1.0,2021-2022,0bc4e720,Alaves,370,4.1,0.0,0.0,55.0,1.0,,Alaves
-,John Guidetti,se SWE,"FW,MF",10,2,0.0,0.0,2021-2022,99bebd12,Alaves,279,3.1,2.0,0.0,55.0,41.0,,Alaves
-,Tachi,es ESP,DF,5,2,0.0,0.0,2021-2022,8b625720,Alaves,239,2.7,1.0,0.0,55.0,1.0,,Alaves
-,Iván Martín,es ESP,MF,6,2,0.0,0.0,2021-2022,48c5cb,Alaves,166,1.8,0.0,0.0,55.0,1.0,,Alaves
-,Jesús Owono,gq EQG,GK,1,1,0.0,0.0,2021-2022,d6e3d7fb,Alaves,90,1.0,0.0,0.0,55.0,10.0,3392.0,Alaves
-,Marc Tenas,es ESP,"MF,DF",3,0,0.0,0.0,2021-2022,1c5d79e2,Alaves,54,0.6,2.0,0.0,55.0,1.0,3393.0,Alaves
-,Mircea Alexandru Tirlea,ro ROU,DF,1,0,0.0,0.0,2021-2022,683a1d81,Alaves,15,0.2,0.0,0.0,55.0,51.0,3394.0,Alaves
-,Unai Ropero,es ESP,MF,1,0,0.0,0.0,2021-2022,7868c973,Alaves,12,0.1,0.0,0.0,55.0,1.0,3395.0,Alaves
-,Tomás Mendes,es ESP,MF,1,0,0.0,0.0,2021-2022,45f771db,Alaves,9,0.1,0.0,0.0,55.0,1.0,3396.0,Alaves
-,Saúl García,es ESP,MF,1,0,0.0,0.0,2021-2022,dafa5038,Alaves,4,0.0,0.0,0.0,55.0,1.0,,Alaves
-,Abdelkabir Abqar,ma MAR,DF,0,0,,,2021-2022,2bc7f211,Alaves,,,,,55.0,26.0,,Alaves
-,Alex Balboa,gq EQG,MF,0,0,,,2021-2022,6e5c5fc7,Alaves,,,,,55.0,10.0,3397.0,Alaves
-,George Gagua,ge GEO,FW,0,0,,,2021-2022,66bd684,Alaves,,,,,55.0,76.0,3398.0,Alaves
-,Alan Godoy,es ESP,FW,0,0,,,2021-2022,01bbb0ad,Alaves,,,,,55.0,1.0,3399.0,Alaves
-,Taichi Hara,jp JPN,FW,0,0,,,2021-2022,1e524738,Alaves,,,,,55.0,54.0,3400.0,Alaves
-,Oscar Medina,,GK,0,0,,,2021-2022,2887b127,Alaves,,,,,55.0,,,Alaves
-,Lucas Pérez,es ESP,"FW,MF",0,0,,,2021-2022,300ac7e,Alaves,,,,,55.0,1.0,,Alaves
-,Adrian Rodriguez,es ESP,GK,0,0,,,2021-2022,bf17fb4a,Alaves,,,,,55.0,1.0,3401.0,Alaves
-,Iván Sanz,es ESP,,0,0,,,2021-2022,7c7b6553,Alaves,,,,,55.0,1.0,,Alaves
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Carlos Llorens,es ESP,DF,35,35,3.0,1.0,2002-2003,/en/players/cc1c44b3/Carlos-Llorens,cc1c44b3,Alaves,"2,979",33.1,12.0,0.0,55,1.0,3258,Alaves
+,Richard Dutruel,fr FRA,GK,33,33,0.0,0.0,2002-2003,/en/players/b51c1e29/Richard-Dutruel,b51c1e29,Alaves,"2,970",33.0,0.0,0.0,55,4.0,3259,Alaves
+,Antonio Karmona,es ESP,DF,33,32,0.0,1.0,2002-2003,/en/players/a6bf6531/Antonio-Karmona,6bf6531,Alaves,"2,814",31.3,4.0,0.0,55,1.0,3260,Alaves
+,Abelardo Fernández,es ESP,DF,28,28,1.0,0.0,2002-2003,/en/players/fd6cdf88/Abelardo-Fernandez,fd6cdf88,Alaves,"2,503",27.8,9.0,0.0,55,1.0,3261,Alaves
+,Martín Astudillo,ar ARG,MF,25,25,2.0,3.0,2002-2003,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"2,186",24.3,5.0,0.0,55,5.0,2022,Alaves
+,Delfí Geli,es ESP,DF,32,24,4.0,0.0,2002-2003,/en/players/6b058d9b/Delfi-Geli,6b058d9b,Alaves,"2,310",25.7,7.0,1.0,55,1.0,3262,Alaves
+,Óscar Téllez,es ESP,DF,25,24,1.0,0.0,2002-2003,/en/players/c4b1fe41/Oscar-Tellez,c4b1fe41,Alaves,"2,175",24.2,9.0,2.0,55,1.0,3263,Alaves
+,Rubén Navarro,es ESP,FW,36,23,4.0,10.0,2002-2003,/en/players/59cc2821/Ruben-Navarro,59cc2821,Alaves,"2,030",22.6,1.0,0.0,55,1.0,3264,Alaves
+,Iván Alonso,uy URU,FW,37,22,2.0,7.0,2002-2003,/en/players/80084c87/Ivan-Alonso,80084c87,Alaves,"2,109",23.4,0.0,0.0,55,8.0,3047,Alaves
+,Ibon Begoña,es ESP,DF,27,22,2.0,1.0,2002-2003,/en/players/301f6f65/Ibon-Begona,301f6f65,Alaves,"1,909",21.2,8.0,0.0,55,1.0,3265,Alaves
+,Pablo Gómez,es ESP,MF,22,20,1.0,1.0,2002-2003,/en/players/0a9e2033/Pablo-Gomez,0a9e2033,Alaves,"1,734",19.3,7.0,1.0,55,1.0,3266,Alaves
+,Jordi Cruyff,nl NED,"FW,MF",26,19,1.0,1.0,2002-2003,/en/players/7ebf561b/Jordi-Cruyff,7ebf561b,Alaves,"1,721",19.1,4.0,0.0,55,11.0,3019,Alaves
+,Luis Helguera,es ESP,MF,22,18,0.0,0.0,2002-2003,/en/players/873ff2a7/Luis-Helguera,873ff2a7,Alaves,"1,675",18.6,8.0,0.0,55,1.0,3267,Alaves
+,Magno Mocelin,br BRA,FW,29,18,3.0,5.0,2002-2003,/en/players/a5d58ff0/Magno-Mocelin,5d58ff0,Alaves,"1,556",17.3,7.0,1.0,55,2.0,3268,Alaves
+,Edu Alonso,es ESP,MF,18,15,0.0,0.0,2002-2003,/en/players/911e7b8d/Edu-Alonso,911e7b8d,Alaves,"1,313",14.6,1.0,0.0,55,1.0,3269,Alaves
+,Jesús Turiel,es ESP,MF,23,14,1.0,1.0,2002-2003,/en/players/7c737496/Jesus-Turiel,7c737496,Alaves,"1,227",13.6,7.0,1.0,55,1.0,3270,Alaves
+,Hermes Desio,ar ARG,MF,16,13,0.0,0.0,2002-2003,/en/players/1c0c23ed/Hermes-Desio,1c0c23ed,Alaves,"1,107",12.3,6.0,2.0,55,5.0,3271,Alaves
+,Adrian Ilie,ro ROU,"FW,MF",22,11,0.0,6.0,2002-2003,/en/players/5ec3ec8d/Adrian-Ilie,5ec3ec8d,Alaves,"1,183",13.1,5.0,0.0,55,51.0,3272,Alaves
+,Ivan Tomić,rs SRB,MF,10,9,0.0,1.0,2002-2003,/en/players/dff4f3f2/Ivan-Tomic,dff4f3f2,Alaves,778,8.6,4.0,0.0,55,28.0,3273,Alaves
+,Juan Pablo Colinas,es ESP,GK,5,5,0.0,0.0,2002-2003,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Alaves,360,4.0,1.0,0.0,55,1.0,3274,Alaves
+,Bogdan Mara,ro ROU,"FW,MF",14,4,1.0,0.0,2002-2003,/en/players/5b649d53/Bogdan-Mara,5b649d53,Alaves,461,5.1,0.0,0.0,55,51.0,3275,Alaves
+,Juan Cruz Ochoa,es ESP,DF,4,3,0.0,0.0,2002-2003,/en/players/301ff22a/Juan-Cruz-Ochoa,301ff22a,Alaves,216,2.4,1.0,0.0,55,1.0,3276,Alaves
+,Nacho,es ESP,"DF,MF",2,1,0.0,0.0,2002-2003,/en/players/dadfcbb3/Nacho,dadfcbb3,Alaves,88,1.0,0.0,0.0,55,1.0,3277,Alaves
+,﻿Óscar Téllez,es ESP,DF,38,38,0.0,1.0,2003-2004,/en/players/c4b1fe41/Oscar-Tellez,c4b1fe41,Alaves,"3,339",37.1,16.0,2.0,55,1.0,3263,Alaves
+,Ronny Gaspercic,be BEL,GK,37,37,0.0,0.0,2003-2004,/en/players/bbeaf9c2/Ronny-Gaspercic,bbeaf9c2,Alaves,"3,330",37.0,0.0,0.0,55,27.0,3278,Alaves
+,Martín Astudillo,ar ARG,MF,37,33,4.0,1.0,2003-2004,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"2,997",33.3,19.0,1.0,55,5.0,2022,Alaves
+,Enrique de Lucas,es ESP,"FW,MF",32,32,2.0,6.0,2003-2004,/en/players/ae61cc61/Enrique-de-Lucas,61cc61,Alaves,"2,706",30.1,10.0,1.0,55,1.0,735,Alaves
+,Jesús Galván,es ESP,DF,31,29,2.0,0.0,2003-2004,/en/players/5f605a71/Jesus-Galvan,5f605a71,Alaves,"2,681",29.8,10.0,1.0,55,1.0,2710,Alaves
+,Pablo Gómez,es ESP,MF,32,29,5.0,0.0,2003-2004,/en/players/0a9e2033/Pablo-Gomez,0a9e2033,Alaves,"2,256",25.1,11.0,1.0,55,1.0,3266,Alaves
+,Edu Alonso,es ESP,MF,32,24,3.0,6.0,2003-2004,/en/players/911e7b8d/Edu-Alonso,911e7b8d,Alaves,"2,114",23.5,8.0,0.0,55,1.0,3269,Alaves
+,Ángel,es ESP,DF,26,23,0.0,0.0,2003-2004,/en/players/4c3f3098/Angel,4c3f3098,Alaves,"2,016",22.4,9.0,0.0,55,1.0,3279,Alaves
+,Rubén Navarro,es ESP,FW,33,21,4.0,10.0,2003-2004,/en/players/59cc2821/Ruben-Navarro,59cc2821,Alaves,"1,975",21.9,0.0,1.0,55,1.0,3264,Alaves
+,Jesús Turiel,es ESP,MF,31,21,0.0,1.0,2003-2004,/en/players/7c737496/Jesus-Turiel,7c737496,Alaves,"1,969",21.9,13.0,1.0,55,1.0,3270,Alaves
+,Diego Trotta,ar ARG,DF,23,20,0.0,2.0,2003-2004,/en/players/e7ec1faf/Diego-Trotta,7ec1faf,Alaves,"1,808",20.1,5.0,1.0,55,5.0,3280,Alaves
+,Josu Sarriegi,es ESP,DF,22,20,0.0,1.0,2003-2004,/en/players/cca08d01/Josu-Sarriegi,cca08d01,Alaves,"1,807",20.1,4.0,0.0,55,1.0,3281,Alaves
+,Pablo Coira,es ESP,DF,20,17,1.0,0.0,2003-2004,/en/players/7099e844/Pablo-Coira,7099e844,Alaves,"1,443",16.0,4.0,0.0,55,1.0,637,Alaves
+,Magno Mocelin,br BRA,FW,26,17,1.0,3.0,2003-2004,/en/players/a5d58ff0/Magno-Mocelin,5d58ff0,Alaves,"1,424",15.8,7.0,0.0,55,2.0,3268,Alaves
+,Lacasa Kiko,,,29,17,1.0,7.0,2003-2004,No detected,,Alaves,"1,396",15.5,1.0,1.0,55,,90042,Alaves
+,Juan Cruz Ochoa,es ESP,DF,14,14,0.0,0.0,2003-2004,/en/players/301ff22a/Juan-Cruz-Ochoa,301ff22a,Alaves,"1,154",12.8,6.0,0.0,55,1.0,3276,Alaves
+,Ibon Begoña,es ESP,DF,22,13,2.0,0.0,2003-2004,/en/players/301f6f65/Ibon-Begona,301f6f65,Alaves,"1,318",14.6,7.0,0.0,55,1.0,3265,Alaves
+,Martín Palermo,ar ARG,FW,14,13,4.0,3.0,2003-2004,/en/players/02aa1dbe/Martin-Palermo,02aa1dbe,Alaves,"1,113",12.4,3.0,0.0,55,5.0,1377,Alaves
+,Iván Alonso,uy URU,FW,21,12,2.0,5.0,2003-2004,/en/players/80084c87/Ivan-Alonso,80084c87,Alaves,"1,215",13.5,2.0,0.0,55,8.0,3047,Alaves
+,Sietes,es ESP,DF,12,11,0.0,0.0,2003-2004,/en/players/bae8225f/Sietes,bae8225f,Alaves,"1,007",11.2,3.0,0.0,55,1.0,2835,Alaves
+,Jurica Vučko,hr CRO,FW,30,10,0.0,2.0,2003-2004,/en/players/d12b2233/Jurica-Vucko,d12b2233,Alaves,"1,146",12.7,5.0,0.0,55,16.0,3282,Alaves
+,Nacho,es ESP,"DF,MF",15,6,0.0,0.0,2003-2004,/en/players/dadfcbb3/Nacho,dadfcbb3,Alaves,622,6.9,3.0,0.0,55,1.0,3277,Alaves
+,Juan Pablo Colinas,es ESP,GK,5,5,0.0,0.0,2003-2004,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Alaves,450,5.0,0.0,0.0,55,1.0,3274,Alaves
+,Andrea Orlandi,es ESP,"FW,MF",2,0,0.0,0.0,2003-2004,/en/players/b1403ee6/Andrea-Orlandi,b1403ee6,Alaves,20,0.2,0.0,0.0,55,1.0,1100,Alaves
+,Eneko Romo,es ESP,MF,1,0,0.0,0.0,2003-2004,/en/players/5c5c6fa7/Eneko-Romo,5c5c6fa7,Alaves,18,0.2,0.0,0.0,55,1.0,3283,Alaves
+,﻿Óscar Téllez,es ESP,DF,39,39,2.0,1.0,2004-2005,/en/players/c4b1fe41/Oscar-Tellez,c4b1fe41,Alaves,"3,438",38.2,11.0,1.0,55,1.0,3263,Alaves
+,Nenê,br BRA,"FW,MF",40,39,4.0,12.0,2004-2005,/en/players/265ebd37/Nene,265ebd37,Alaves,"3,303",36.7,7.0,1.0,55,2.0,674,Alaves
+,Rubén Navarro,es ESP,FW,39,39,4.0,16.0,2004-2005,/en/players/59cc2821/Ruben-Navarro,59cc2821,Alaves,"2,966",33.0,5.0,0.0,55,1.0,3264,Alaves
+,Enrique de Lucas,es ESP,"FW,MF",40,38,3.0,6.0,2004-2005,/en/players/ae61cc61/Enrique-de-Lucas,61cc61,Alaves,"3,165",35.2,11.0,3.0,55,1.0,735,Alaves
+,Rodolfo Bodipo,gq EQG,FW,39,38,6.0,16.0,2004-2005,/en/players/6cf2bc0e/Rodolfo-Bodipo,6cf2bc0e,Alaves,"3,039",33.8,9.0,1.0,55,10.0,419,Alaves
+,Roberto Bonano,ar ARG,GK,36,36,0.0,0.0,2004-2005,/en/players/7b2d75ba/Roberto-Bonano,7b2d75ba,Alaves,"3,240",36.0,3.0,0.0,55,5.0,1054,Alaves
+,Santiago Carpintero,es ESP,MF,34,31,1.0,0.0,2004-2005,/en/players/139b88a8/Santiago-Carpintero,139b88a8,Alaves,"2,713",30.1,7.0,0.0,55,1.0,2343,Alaves
+,David Coromina,es ESP,DF,33,31,0.0,0.0,2004-2005,/en/players/bb603172/David-Coromina,bb603172,Alaves,"2,694",29.9,10.0,1.0,55,1.0,2836,Alaves
+,Edu Alonso,es ESP,MF,31,30,1.0,0.0,2004-2005,/en/players/911e7b8d/Edu-Alonso,911e7b8d,Alaves,"2,616",29.1,8.0,0.0,55,1.0,3269,Alaves
+,Martín Astudillo,ar ARG,MF,31,29,2.0,0.0,2004-2005,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"2,439",27.1,11.0,0.0,55,5.0,2022,Alaves
+,Josu Sarriegi,es ESP,DF,28,25,0.0,1.0,2004-2005,/en/players/cca08d01/Josu-Sarriegi,cca08d01,Alaves,"2,299",25.5,7.0,1.0,55,1.0,3281,Alaves
+,Lluís Carreras,es ESP,DF,24,22,0.0,0.0,2004-2005,/en/players/4e1b59cf/Lluis-Carreras,4e1b59cf,Alaves,"1,907",21.2,10.0,1.0,55,1.0,2134,Alaves
+,Ángel,es ESP,DF,20,19,1.0,0.0,2004-2005,/en/players/4c3f3098/Angel,4c3f3098,Alaves,"1,647",18.3,3.0,0.0,55,1.0,3279,Alaves
+,Juvenal,gq EQG,MF,19,12,0.0,0.0,2004-2005,/en/players/b26bf947/Juvenal,b26bf947,Alaves,"1,080",12.0,6.0,0.0,55,10.0,3162,Alaves
+,Pape Sarr,sn SEN,MF,15,10,0.0,0.0,2004-2005,/en/players/7be00da6/Pape-Sarr,7be00da6,Alaves,978,10.9,4.0,0.0,55,34.0,3284,Alaves
+,Sergio Santamaría,es ESP,"FW,MF",25,6,1.0,0.0,2004-2005,/en/players/4795800e/Sergio-Santamaria,4795800e,Alaves,806,9.0,1.0,0.0,55,1.0,1083,Alaves
+,Juan Pablo Colinas,es ESP,GK,5,5,0.0,0.0,2004-2005,/en/players/b2cab8f4/Juan-Pablo-Colinas,b2cab8f4,Alaves,450,5.0,1.0,0.0,55,1.0,3274,Alaves
+,David Sánchez,es ESP,MF,8,4,1.0,1.0,2004-2005,/en/players/bb05af1a/David-Sanchez,bb05af1a,Alaves,300,3.3,0.0,0.0,55,1.0,3285,Alaves
+,Abel Valenzuela,es ESP,DF,3,3,0.0,0.0,2004-2005,/en/players/53db52e9/Abel-Valenzuela,53db52e9,Alaves,270,3.0,0.0,0.0,55,1.0,3286,Alaves
+,Pape Thiaw,sn SEN,FW,18,2,1.0,5.0,2004-2005,/en/players/a38f40e6/Pape-Thiaw,38f40e6,Alaves,560,6.2,2.0,1.0,55,34.0,3287,Alaves
+,Nacho,es ESP,"DF,MF",14,2,1.0,0.0,2004-2005,/en/players/dadfcbb3/Nacho,dadfcbb3,Alaves,380,4.2,0.0,0.0,55,1.0,3277,Alaves
+,Juan Epitié,gq EQG,"FW,MF",20,1,0.0,3.0,2004-2005,/en/players/7191c0ab/Juan-Epitie,7191c0ab,Alaves,421,4.7,2.0,0.0,55,10.0,90043,Alaves
+,Nicolas Ardouin,fr FRA,GK,1,1,0.0,0.0,2004-2005,/en/players/be679fa0/Nicolas-Ardouin,be679fa0,Alaves,90,1.0,0.0,0.0,55,4.0,3288,Alaves
+,Lacasa Kiko,,,15,0,0.0,0.0,2004-2005,No detected,,Alaves,271,3.0,4.0,0.0,55,,90042,Alaves
+,Eneko Romo,es ESP,MF,3,0,0.0,0.0,2004-2005,/en/players/5c5c6fa7/Eneko-Romo,5c5c6fa7,Alaves,99,1.1,0.0,0.0,55,1.0,3283,Alaves
+,Maximiliano Flotta,ar ARG,"DF,MF",2,0,0.0,0.0,2004-2005,/en/players/34bd3bd4/Maximiliano-Flotta,34bd3bd4,Alaves,35,0.4,0.0,0.0,55,5.0,3289,Alaves
+,Álex Lombardero,es ESP,MF,2,0,0.0,0.0,2004-2005,/en/players/0253cbcf/Alex-Lombardero,0253cbcf,Alaves,26,0.3,0.0,0.0,55,1.0,3290,Alaves
+,Aleksandr Mostovoi,ru RUS,MF,1,0,0.0,1.0,2004-2005,/en/players/6d215bed/Aleksandr-Mostovoi,6d215bed,Alaves,13,0.1,0.0,0.0,55,23.0,625,Alaves
+,﻿Nenê,br BRA,"FW,MF",38,38,7.0,9.0,2005-2006,/en/players/265ebd37/Nene,265ebd37,Alaves,"3,267",36.3,3.0,0.0,55,2.0,674,Alaves
+,Edu Alonso,es ESP,MF,35,35,1.0,0.0,2005-2006,/en/players/911e7b8d/Edu-Alonso,911e7b8d,Alaves,"3,121",34.7,2.0,0.0,55,1.0,3269,Alaves
+,Juanito,es ESP,"DF,MF",37,34,2.0,0.0,2005-2006,/en/players/47176127/Juanito,47176127,Alaves,"3,053",33.9,8.0,2.0,55,1.0,242,Alaves
+,Martín Astudillo,ar ARG,MF,33,32,2.0,1.0,2005-2006,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"2,781",30.9,9.0,0.0,55,5.0,2022,Alaves
+,Franco Costanzo,ar ARG,GK,31,31,0.0,0.0,2005-2006,/en/players/56dde780/Franco-Costanzo,56dde780,Alaves,"2,790",31.0,5.0,0.0,55,5.0,3291,Alaves
+,Josu Sarriegi,es ESP,DF,30,30,0.0,2.0,2005-2006,/en/players/cca08d01/Josu-Sarriegi,cca08d01,Alaves,"2,672",29.7,6.0,1.0,55,1.0,3281,Alaves
+,Rodolfo Bodipo,gq EQG,FW,35,29,3.0,7.0,2005-2006,/en/players/6cf2bc0e/Rodolfo-Bodipo,6cf2bc0e,Alaves,"2,329",25.9,0.0,1.0,55,10.0,419,Alaves
+,John Aloisi,au AUS,FW,33,25,1.0,10.0,2005-2006,/en/players/747e3a0d/John-Aloisi,747e3a0d,Alaves,"2,282",25.4,2.0,0.0,55,42.0,1983,Alaves
+,David Coromina,es ESP,DF,27,23,0.0,0.0,2005-2006,/en/players/bb603172/David-Coromina,bb603172,Alaves,"2,216",24.6,8.0,0.0,55,1.0,2836,Alaves
+,Santiago Carpintero,es ESP,MF,27,22,0.0,2.0,2005-2006,/en/players/139b88a8/Santiago-Carpintero,139b88a8,Alaves,"1,903",21.1,9.0,0.0,55,1.0,2343,Alaves
+,Gaspar,es ESP,DF,21,19,0.0,0.0,2005-2006,/en/players/75e5329b/Gaspar,75e5329b,Alaves,"1,710",19.0,10.0,0.0,55,1.0,2138,Alaves
+,Jandro,es ESP,MF,32,18,2.0,0.0,2005-2006,/en/players/453a1fcd/Jandro,453a1fcd,Alaves,"1,770",19.7,1.0,0.0,55,1.0,642,Alaves
+,Enrique de Lucas,es ESP,"FW,MF",22,18,3.0,2.0,2005-2006,/en/players/ae61cc61/Enrique-de-Lucas,61cc61,Alaves,"1,534",17.0,4.0,1.0,55,1.0,735,Alaves
+,Mauricio Pellegrino,ar ARG,DF,13,11,0.0,0.0,2005-2006,/en/players/8b3d6528/Mauricio-Pellegrino,8b3d6528,Alaves,"1,021",11.3,4.0,0.0,55,5.0,861,Alaves
+,Rubén Navarro,es ESP,FW,15,10,2.0,0.0,2005-2006,/en/players/59cc2821/Ruben-Navarro,59cc2821,Alaves,788,8.8,2.0,0.0,55,1.0,3264,Alaves
+,Mehdi Lacen,dz ALG,MF,19,9,1.0,0.0,2005-2006,/en/players/a3a306f6/Mehdi-Lacen,3a306f6,Alaves,970,10.8,3.0,0.0,55,37.0,2430,Alaves
+,Poli,es ESP,DF,9,8,0.0,0.0,2005-2006,/en/players/1e21189f/Poli,1e21189f,Alaves,685,7.6,1.0,0.0,55,1.0,1543,Alaves
+,Roberto Bonano,ar ARG,GK,7,7,0.0,0.0,2005-2006,/en/players/7b2d75ba/Roberto-Bonano,7b2d75ba,Alaves,630,7.0,0.0,0.0,55,5.0,1054,Alaves
+,Lluís Carreras,es ESP,DF,4,4,0.0,0.0,2005-2006,/en/players/4e1b59cf/Lluis-Carreras,4e1b59cf,Alaves,231,2.6,0.0,0.0,55,1.0,2134,Alaves
+,Wesley,br BRA,"FW,MF",10,3,0.0,1.0,2005-2006,/en/players/35b1bd33/Wesley,35b1bd33,Alaves,367,4.1,2.0,0.0,55,2.0,3292,Alaves
+,José María Mena,es ESP,FW,10,3,0.0,0.0,2005-2006,/en/players/bc2150cb/Jose-Maria-Mena,bc2150cb,Alaves,356,4.0,1.0,0.0,55,1.0,3293,Alaves
+,Blagoy Georgiev,bg BUL,MF,10,3,0.0,0.0,2005-2006,/en/players/d2722647/Blagoy-Georgiev,d2722647,Alaves,294,3.3,1.0,0.0,55,65.0,3294,Alaves
+,Ibon Begoña,es ESP,DF,4,3,0.0,0.0,2005-2006,/en/players/301f6f65/Ibon-Begona,301f6f65,Alaves,279,3.1,3.0,0.0,55,1.0,3265,Alaves
+,Óscar Téllez,es ESP,DF,4,2,0.0,0.0,2005-2006,/en/players/c4b1fe41/Oscar-Tellez,c4b1fe41,Alaves,204,2.3,1.0,0.0,55,1.0,3263,Alaves
+,Arthuro,br BRA,FW,6,1,0.0,0.0,2005-2006,/en/players/af5bfaa6/Arthuro,f5bfaa6,Alaves,106,1.2,0.0,0.0,55,2.0,729,Alaves
+,Élton Giovanni,br BRA,MF,4,0,0.0,0.0,2005-2006,/en/players/8c8170c0/Elton-Giovanni,8c8170c0,Alaves,66,0.7,0.0,0.0,55,2.0,3295,Alaves
+,Henri Antchouet,ga GAB,FW,3,0,0.0,0.0,2005-2006,/en/players/5e54551e/Henri-Antchouet,5e54551e,Alaves,63,0.7,0.0,0.0,55,69.0,3296,Alaves
+,Pape Thiaw,sn SEN,FW,5,0,0.0,0.0,2005-2006,/en/players/a38f40e6/Pape-Thiaw,38f40e6,Alaves,54,0.6,0.0,0.0,55,34.0,3287,Alaves
+,﻿Martín Astudillo,ar ARG,MF,39,39,3.0,3.0,2006-2007,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"3,363",37.4,14.0,1.0,55,5.0,2022,Alaves
+,José Manuel Mateo,es ESP,DF,36,35,0.0,1.0,2006-2007,/en/players/d7458f0a/Jose-Manuel-Mateo,d7458f0a,Alaves,"3,155",35.1,7.0,0.0,55,1.0,1982,Alaves
+,Enrique de Lucas,es ESP,"FW,MF",33,32,3.0,5.0,2006-2007,/en/players/ae61cc61/Enrique-de-Lucas,61cc61,Alaves,"2,754",30.6,14.0,0.0,55,1.0,735,Alaves
+,Toni Moral,es ESP,MF,38,30,5.0,5.0,2006-2007,/en/players/5c3bf3f9/Toni-Moral,5c3bf3f9,Alaves,"2,655",29.5,15.0,1.0,55,1.0,661,Alaves
+,Edu Alonso,es ESP,MF,28,28,2.0,1.0,2006-2007,/en/players/911e7b8d/Edu-Alonso,911e7b8d,Alaves,"2,419",26.9,4.0,1.0,55,1.0,3269,Alaves
+,Pablo Casar,es ESP,DF,28,28,2.0,3.0,2006-2007,/en/players/aa6c5d2f/Pablo-Casar,6c5d2f,Alaves,"2,375",26.4,11.0,0.0,55,1.0,2545,Alaves
+,Ángel,es ESP,DF,22,22,0.0,0.0,2006-2007,/en/players/4c3f3098/Angel,4c3f3098,Alaves,"1,958",21.8,4.0,1.0,55,1.0,3279,Alaves
+,Stéphane Porato,fr FRA,GK,22,22,0.0,0.0,2006-2007,/en/players/ead5f446/Stephane-Porato,d5f446,Alaves,"1,907",21.2,5.0,1.0,55,4.0,3297,Alaves
+,Mehdi Lacen,dz ALG,MF,31,21,0.0,0.0,2006-2007,/en/players/a3a306f6/Mehdi-Lacen,3a306f6,Alaves,"2,141",23.8,5.0,0.0,55,37.0,2430,Alaves
+,Gaspar,es ESP,DF,23,21,0.0,1.0,2006-2007,/en/players/75e5329b/Gaspar,75e5329b,Alaves,"1,849",20.5,8.0,1.0,55,1.0,2138,Alaves
+,Jandro,es ESP,MF,31,21,2.0,3.0,2006-2007,/en/players/453a1fcd/Jandro,453a1fcd,Alaves,"1,701",18.9,7.0,1.0,55,1.0,642,Alaves
+,Bartholomew Ogbeche,ng NGA,FW,29,20,1.0,5.0,2006-2007,/en/players/616cc0f7/Bartholomew-Ogbeche,616cc0f7,Alaves,"1,753",19.5,5.0,0.0,55,52.0,2555,Alaves
+,Pablo Brandán,ar ARG,"DF,MF",18,18,2.0,0.0,2006-2007,/en/players/b27a9e0e/Pablo-Brandan,b27a9e0e,Alaves,"1,592",17.7,4.0,0.0,55,5.0,3298,Alaves
+,David Coromina,es ESP,DF,20,17,0.0,0.0,2006-2007,/en/players/bb603172/David-Coromina,bb603172,Alaves,"1,667",18.5,8.0,1.0,55,1.0,2836,Alaves
+,Santiago Carpintero,es ESP,MF,19,15,0.0,3.0,2006-2007,/en/players/139b88a8/Santiago-Carpintero,139b88a8,Alaves,"1,358",15.1,6.0,0.0,55,1.0,2343,Alaves
+,Arthuro,br BRA,FW,24,14,2.0,6.0,2006-2007,/en/players/af5bfaa6/Arthuro,f5bfaa6,Alaves,"1,222",13.6,5.0,0.0,55,2.0,729,Alaves
+,Rubén Navarro,es ESP,FW,20,14,4.0,4.0,2006-2007,/en/players/59cc2821/Ruben-Navarro,59cc2821,Alaves,"1,150",12.8,0.0,0.0,55,1.0,3264,Alaves
+,Roberto Bonano,ar ARG,GK,14,13,0.0,0.0,2006-2007,/en/players/7b2d75ba/Roberto-Bonano,7b2d75ba,Alaves,"1,165",12.9,2.0,0.0,55,5.0,1054,Alaves
+,John Aloisi,au AUS,FW,25,12,5.0,6.0,2006-2007,/en/players/747e3a0d/John-Aloisi,747e3a0d,Alaves,"1,265",14.1,7.0,0.0,55,42.0,1983,Alaves
+,Wellington Paulista,br BRA,FW,19,11,2.0,3.0,2006-2007,/en/players/f2eece5b/Wellington-Paulista,f2eece5b,Alaves,"1,102",12.2,6.0,0.0,55,2.0,3299,Alaves
+,Élton Giovanni,br BRA,MF,13,9,0.0,0.0,2006-2007,/en/players/8c8170c0/Elton-Giovanni,8c8170c0,Alaves,671,7.5,6.0,0.0,55,2.0,3295,Alaves
+,Nicolas Ardouin,fr FRA,GK,10,7,0.0,0.0,2006-2007,/en/players/be679fa0/Nicolas-Ardouin,be679fa0,Alaves,718,8.0,0.0,0.0,55,4.0,3288,Alaves
+,Miguel Pérez,es ESP,MF,12,7,0.0,1.0,2006-2007,/en/players/b3f9e645/Miguel-Perez,b3f9e645,Alaves,636,7.1,2.0,0.0,55,1.0,3300,Alaves
+,Thiago Gentil,br BRA,FW,7,2,0.0,0.0,2006-2007,/en/players/b66d9928/Thiago-Gentil,b66d9928,Alaves,175,1.9,0.0,0.0,55,2.0,3301,Alaves
+,Wesley,br BRA,"FW,MF",5,2,0.0,0.0,2006-2007,/en/players/35b1bd33/Wesley,35b1bd33,Alaves,172,1.9,1.0,0.0,55,2.0,3292,Alaves
+,Gabri,es ESP,FW,12,1,0.0,0.0,2006-2007,/en/players/b2605b0a/Gabri,b2605b0a,Alaves,315,3.5,1.0,0.0,55,1.0,3302,Alaves
+,Ian Uranga,mo MAC,DF,3,1,0.0,0.0,2006-2007,/en/players/3e3a3981/Ian-Uranga,3e3a3981,Alaves,104,1.2,1.0,0.0,55,103.0,3303,Alaves
+,﻿Bernardo Domínguez,es ESP,GK,38,38,0.0,0.0,2007-2008,/en/players/15394beb/Bernardo-Dominguez,15394beb,Alaves,"3,420",38.0,1.0,0.0,55,1.0,3183,Alaves
+,Toni Moral,es ESP,MF,38,37,9.0,5.0,2007-2008,/en/players/5c3bf3f9/Toni-Moral,5c3bf3f9,Alaves,"3,127",34.7,11.0,2.0,55,1.0,661,Alaves
+,Gaspar,es ESP,DF,36,35,0.0,0.0,2007-2008,/en/players/75e5329b/Gaspar,75e5329b,Alaves,"2,955",32.8,13.0,2.0,55,1.0,2138,Alaves
+,Mehdi Lacen,dz ALG,MF,36,33,1.0,0.0,2007-2008,/en/players/a3a306f6/Mehdi-Lacen,3a306f6,Alaves,"2,933",32.6,8.0,0.0,55,37.0,2430,Alaves
+,Sergio Rodríguez,es ESP,MF,38,33,4.0,4.0,2007-2008,/en/players/44e3ae1a/Sergio-Rodriguez,44e3ae1a,Alaves,"2,920",32.4,15.0,0.0,55,1.0,263,Alaves
+,Pablo Casar,es ESP,DF,28,28,0.0,3.0,2007-2008,/en/players/aa6c5d2f/Pablo-Casar,6c5d2f,Alaves,"2,430",27.0,10.0,0.0,55,1.0,2545,Alaves
+,David Aganzo,es ESP,FW,30,27,0.0,11.0,2007-2008,/en/players/97e3ba49/David-Aganzo,97e3ba49,Alaves,"2,448",27.2,14.0,1.0,55,1.0,2505,Alaves
+,David Coromina,es ESP,DF,25,24,0.0,2.0,2007-2008,/en/players/bb603172/David-Coromina,bb603172,Alaves,"2,042",22.7,8.0,0.0,55,1.0,2836,Alaves
+,Martín Astudillo,ar ARG,MF,21,21,2.0,0.0,2007-2008,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"1,890",21.0,6.0,0.0,55,5.0,2022,Alaves
+,Edu Alonso,es ESP,MF,21,19,1.0,0.0,2007-2008,/en/players/911e7b8d/Edu-Alonso,911e7b8d,Alaves,"1,765",19.6,3.0,0.0,55,1.0,3269,Alaves
+,Javier Tarantino,es ESP,DF,22,19,0.0,0.0,2007-2008,/en/players/0bf40bdb/Javier-Tarantino,0bf40bdb,Alaves,"1,698",18.9,6.0,0.0,55,1.0,1263,Alaves
+,Gabri,es ESP,FW,29,18,2.0,4.0,2007-2008,/en/players/b2605b0a/Gabri,b2605b0a,Alaves,"1,698",18.9,5.0,1.0,55,1.0,3302,Alaves
+,Ángel,es ESP,DF,20,18,2.0,0.0,2007-2008,/en/players/4c3f3098/Angel,4c3f3098,Alaves,"1,688",18.8,6.0,0.0,55,1.0,3279,Alaves
+,Iñigo Calderón,es ESP,DF,20,17,0.0,0.0,2007-2008,/en/players/17a1c047/Inigo-Calderon,17a1c047,Alaves,"1,570",17.4,5.0,0.0,55,1.0,3304,Alaves
+,José Manuel Mateo,es ESP,DF,18,16,0.0,0.0,2007-2008,/en/players/d7458f0a/Jose-Manuel-Mateo,d7458f0a,Alaves,"1,391",15.5,3.0,0.0,55,1.0,1982,Alaves
+,José María Mena,es ESP,FW,29,14,2.0,4.0,2007-2008,/en/players/bc2150cb/Jose-Maria-Mena,bc2150cb,Alaves,"1,389",15.4,5.0,0.0,55,1.0,3293,Alaves
+,Nacho Garro,es ESP,MF,20,13,0.0,0.0,2007-2008,/en/players/9f6a2843/Nacho-Garro,9f6a2843,Alaves,"1,099",12.2,10.0,0.0,55,1.0,3305,Alaves
+,Raúl Sánchez,es ESP,FW,25,11,1.0,3.0,2007-2008,/en/players/5553259e/Raul-Sanchez,5553259e,Alaves,"1,085",12.1,5.0,1.0,55,1.0,3306,Alaves
+,Adrián López,es ESP,"FW,MF",10,9,0.0,3.0,2007-2008,/en/players/88a359d4/Adrian-Lopez,88a359d4,Alaves,740,8.2,1.0,0.0,55,1.0,417,Alaves
+,Dalibor Stevanović,si SVN,MF,9,8,1.0,0.0,2007-2008,/en/players/aeda8e51/Dalibor-Stevanovic,da8e51,Alaves,618,6.9,2.0,0.0,55,32.0,237,Alaves
+,Samuel Bayón,es ESP,FW,16,7,1.0,0.0,2007-2008,/en/players/53591b5a/Samuel-Bayon,53591b5a,Alaves,621,6.9,2.0,0.0,55,1.0,3307,Alaves
+,Nicolas Ardouin,fr FRA,GK,4,4,0.0,0.0,2007-2008,/en/players/be679fa0/Nicolas-Ardouin,be679fa0,Alaves,360,4.0,0.0,0.0,55,4.0,3288,Alaves
+,Asier,es ESP,MF,6,4,0.0,0.0,2007-2008,/en/players/c599392e/Asier,c599392e,Alaves,244,2.7,1.0,0.0,55,1.0,2549,Alaves
+,Wellington Paulista,br BRA,FW,7,3,0.0,0.0,2007-2008,/en/players/f2eece5b/Wellington-Paulista,f2eece5b,Alaves,302,3.4,2.0,0.0,55,2.0,3299,Alaves
+,Igor Martínez,es ESP,"FW,MF",18,2,0.0,1.0,2007-2008,/en/players/c68990c2/Igor-Martinez,c68990c2,Alaves,430,4.8,1.0,0.0,55,1.0,1293,Alaves
+,José Cabrera,es ESP,MF,3,2,0.0,0.0,2007-2008,/en/players/c7bf7830/Jose-Cabrera,c7bf7830,Alaves,113,1.3,0.0,0.0,55,1.0,3308,Alaves
+,Jairo,es ESP,MF,8,1,0.0,1.0,2007-2008,/en/players/a30f7cce/Jairo,30f7cce,Alaves,173,1.9,1.0,0.0,55,1.0,3309,Alaves
+,Adrian Pinilla,,,1,1,0.0,0.0,2007-2008,No detected,,Alaves,90,1.0,1.0,0.0,55,,90044,Alaves
+,Miguel Pérez,es ESP,MF,7,0,0.0,0.0,2007-2008,/en/players/b3f9e645/Miguel-Perez,b3f9e645,Alaves,141,1.6,1.0,0.0,55,1.0,3300,Alaves
+,Rubén Arroyo,es ESP,FW,1,0,0.0,0.0,2007-2008,/en/players/725b2479/Ruben-Arroyo,725b2479,Alaves,27,0.3,0.0,0.0,55,1.0,3310,Alaves
+,﻿César Caneda,es ESP,DF,38,38,0.0,0.0,2008-2009,/en/players/1013adcf/Cesar-Caneda,1013adcf,Alaves,"3,409",37.9,9.0,1.0,55,1.0,1242,Alaves
+,Javi Guerra,es ESP,FW,40,38,1.0,9.0,2008-2009,/en/players/aa386464/Javi-Guerra,386464,Alaves,"3,251",36.1,3.0,0.0,55,1.0,912,Alaves
+,Emilio Sánchez,es ESP,MF,37,37,8.0,3.0,2008-2009,/en/players/58b5df2f/Emilio-Sanchez,58b5df2f,Alaves,"3,158",35.1,3.0,0.0,55,1.0,3182,Alaves
+,Iñigo Calderón,es ESP,DF,32,31,0.0,1.0,2008-2009,/en/players/17a1c047/Inigo-Calderon,17a1c047,Alaves,"2,796",31.1,10.0,0.0,55,1.0,3304,Alaves
+,Martín Astudillo,ar ARG,MF,34,30,0.0,2.0,2008-2009,/en/players/fda30cfc/Martin-Astudillo,fda30cfc,Alaves,"2,624",29.2,5.0,1.0,55,5.0,2022,Alaves
+,Gaizka Garitano,es ESP,MF,29,28,0.0,2.0,2008-2009,/en/players/0f5ededa/Gaizka-Garitano,0f5ededa,Alaves,"2,449",27.2,11.0,2.0,55,1.0,231,Alaves
+,Edu Albácar,es ESP,DF,28,27,0.0,3.0,2008-2009,/en/players/fc8a84b8/Edu-Albacar,fc8a84b8,Alaves,"2,350",26.1,13.0,2.0,55,1.0,3311,Alaves
+,Bernardo Domínguez,es ESP,GK,26,26,0.0,0.0,2008-2009,/en/players/15394beb/Bernardo-Dominguez,15394beb,Alaves,"2,261",25.1,2.0,0.0,55,1.0,3183,Alaves
+,Raúl Llorente,es ESP,DF,30,25,2.0,0.0,2008-2009,/en/players/f40996ec/Raul-Llorente,f40996ec,Alaves,"2,224",24.7,8.0,2.0,55,1.0,3312,Alaves
+,Pablo Casar,es ESP,DF,26,23,0.0,2.0,2008-2009,/en/players/aa6c5d2f/Pablo-Casar,6c5d2f,Alaves,"2,009",22.3,4.0,2.0,55,1.0,2545,Alaves
+,Antonio Moreno Fernández,es ESP,"FW,MF",29,22,1.0,2.0,2008-2009,/en/players/47ba6c6d/Antonio-Moreno-Fernandez,47ba6c6d,Alaves,"1,797",20.0,7.0,1.0,55,1.0,3151,Alaves
+,Roberto Cuevas,es ESP,"FW,MF",28,19,2.0,3.0,2008-2009,/en/players/5d0e6432/Roberto-Cuevas,5d0e6432,Alaves,"1,461",16.2,8.0,0.0,55,1.0,3313,Alaves
+,Javier Almirón,ar ARG,"DF,MF",22,18,2.0,2.0,2008-2009,/en/players/8b8c57b7/Javier-Almiron,8b8c57b7,Alaves,"1,584",17.6,8.0,2.0,55,5.0,3314,Alaves
+,Nicolas Bonis,fr FRA,GK,17,16,0.0,0.0,2008-2009,/en/players/3cb96ab0/Nicolas-Bonis,3cb96ab0,Alaves,"1,519",16.9,1.0,0.0,55,4.0,3315,Alaves
+,Toni Moral,es ESP,MF,16,16,1.0,2.0,2008-2009,/en/players/5c3bf3f9/Toni-Moral,5c3bf3f9,Alaves,"1,369",15.2,3.0,0.0,55,1.0,661,Alaves
+,Juanjo Expósito,es ESP,FW,17,13,1.0,3.0,2008-2009,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Alaves,"1,016",11.3,4.0,1.0,55,1.0,1836,Alaves
+,Nacho Garro,es ESP,MF,15,12,0.0,1.0,2008-2009,/en/players/9f6a2843/Nacho-Garro,9f6a2843,Alaves,"1,042",11.6,5.0,0.0,55,1.0,3305,Alaves
+,Igor Martínez,es ESP,"FW,MF",34,10,3.0,3.0,2008-2009,/en/players/c68990c2/Igor-Martinez,c68990c2,Alaves,"1,409",15.7,3.0,1.0,55,1.0,1293,Alaves
+,Óscar de Marcos,es ESP,"DF,FW",19,10,1.0,3.0,2008-2009,/en/players/9f323c71/Oscar-de-Marcos,9f323c71,Alaves,934,10.4,2.0,0.0,55,1.0,1288,Alaves
+,José Manuel Mateo,es ESP,DF,12,8,0.0,0.0,2008-2009,/en/players/d7458f0a/Jose-Manuel-Mateo,d7458f0a,Alaves,711,7.9,2.0,1.0,55,1.0,1982,Alaves
+,Marc Pedraza,es ESP,MF,14,4,0.0,1.0,2008-2009,/en/players/ff8f26ef/Marc-Pedraza,ff8f26ef,Alaves,411,4.6,2.0,0.0,55,1.0,1716,Alaves
+,Dani Castellano,es ESP,"DF,MF",8,4,1.0,0.0,2008-2009,/en/players/21d4e122/Dani-Castellano,21d4e122,Alaves,395,4.4,2.0,0.0,55,1.0,3316,Alaves
+,Jacobo Ynclán,es ESP,"FW,MF",8,2,0.0,0.0,2008-2009,/en/players/68078edd/Jacobo-Ynclan,68078edd,Alaves,290,3.2,1.0,0.0,55,1.0,2173,Alaves
+,Pablo de Lucas,es ESP,MF,10,2,0.0,0.0,2008-2009,/en/players/d1264346/Pablo-de-Lucas,d1264346,Alaves,274,3.0,1.0,1.0,55,1.0,3317,Alaves
+,José Cabrera,es ESP,MF,8,1,0.0,0.0,2008-2009,/en/players/c7bf7830/Jose-Cabrera,c7bf7830,Alaves,208,2.3,0.0,0.0,55,1.0,3308,Alaves
+,Walter Martínez,hn HON,"FW,MF",3,1,0.0,0.0,2008-2009,/en/players/4dab583d/Walter-Martinez,4dab583d,Alaves,115,1.3,0.0,0.0,55,107.0,90045,Alaves
+,Iban Fagoaga,es ESP,DF,1,1,0.0,0.0,2008-2009,/en/players/d49844fa/Iban-Fagoaga,d49844fa,Alaves,42,0.5,0.0,1.0,55,1.0,3318,Alaves
+,Raúl Sánchez,es ESP,FW,2,0,0.0,0.0,2008-2009,/en/players/5553259e/Raul-Sanchez,5553259e,Alaves,20,0.2,0.0,0.0,55,1.0,3306,Alaves
+,Jonathan Reguero,es ESP,FW,1,0,0.0,0.0,2008-2009,/en/players/f3b03bed/Jonathan-Reguero,f3b03bed,Alaves,18,0.2,0.0,0.0,55,1.0,3319,Alaves
+,Samuel Bayón,es ESP,FW,1,0,0.0,0.0,2008-2009,/en/players/53591b5a/Samuel-Bayon,53591b5a,Alaves,14,0.2,0.0,0.0,55,1.0,3307,Alaves
+,﻿Borja Viguera,es ESP,FW,42,41,4.0,25.0,2013-2014,/en/players/d906a703/Borja-Viguera,d906a703,Alaves,"3,601",40.0,4.0,0.0,55,1.0,261,Alaves
+,Manu García,es ESP,MF,38,35,6.0,3.0,2013-2014,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"3,074",34.2,14.0,0.0,55,1.0,3320,Alaves
+,Jiří Jarošík,cz CZE,"DF,MF",33,31,0.0,2.0,2013-2014,/en/players/55ea6bb4/Jiri-Jarosik,55ea6bb4,Alaves,"2,847",31.6,8.0,0.0,55,84.0,3321,Alaves
+,Jagoba Beobide,es ESP,MF,31,31,1.0,1.0,2013-2014,/en/players/08dee721/Jagoba-Beobide,08dee721,Alaves,"2,525",28.1,5.0,1.0,55,1.0,3322,Alaves
+,Iñaki Goitia,es ESP,GK,30,30,0.0,0.0,2013-2014,/en/players/2f10b901/Inaki-Goitia,2f10b901,Alaves,"2,700",30.0,2.0,0.0,55,1.0,1417,Alaves
+,Óscar Rubio Fauria,es ESP,"DF,MF",27,26,0.0,0.0,2013-2014,/en/players/d220bc16/Oscar-Rubio-Fauria,d220bc16,Alaves,"2,343",26.0,7.0,0.0,55,1.0,3323,Alaves
+,Ion Vélez,es ESP,FW,32,25,6.0,6.0,2013-2014,/en/players/3a6c16de/Ion-Velez,3a6c16de,Alaves,"2,208",24.5,10.0,1.0,55,1.0,1276,Alaves
+,Toti,es ESP,"FW,MF",30,24,1.0,4.0,2013-2014,/en/players/03a03057/Toti,03a03057,Alaves,"1,893",21.0,7.0,0.0,55,1.0,3324,Alaves
+,Emilio Sánchez,es ESP,MF,32,23,5.0,0.0,2013-2014,/en/players/58b5df2f/Emilio-Sanchez,58b5df2f,Alaves,"1,964",21.8,4.0,0.0,55,1.0,3182,Alaves
+,Guzmán Casaseca,es ESP,MF,30,21,5.0,5.0,2013-2014,/en/players/f05d4004/Guzman-Casaseca,f05d4004,Alaves,"1,928",21.4,3.0,1.0,55,1.0,2622,Alaves
+,Nano,es ESP,"DF,FW",23,21,2.0,0.0,2013-2014,/en/players/51fbb7e2/Nano,51fbb7e2,Alaves,"1,858",20.6,3.0,1.0,55,1.0,1072,Alaves
+,Álex Ortiz,es ESP,DF,24,18,2.0,1.0,2013-2014,/en/players/c07dc79e/Alex-Ortiz,c07dc79e,Alaves,"1,756",19.5,5.0,0.0,55,1.0,1407,Alaves
+,Unai Medina,es ESP,DF,17,17,0.0,0.0,2013-2014,/en/players/bda6ddeb/Unai-Medina,bda6ddeb,Alaves,"1,520",16.9,4.0,0.0,55,1.0,3325,Alaves
+,Jaume Delgado,es ESP,MF,18,17,0.0,0.0,2013-2014,/en/players/fb3952be/Jaume-Delgado,fb3952be,Alaves,"1,492",16.6,4.0,0.0,55,1.0,3326,Alaves
+,Samuel Llorca,es ESP,DF,18,16,0.0,1.0,2013-2014,/en/players/9c3d54f0/Samuel-Llorca,9c3d54f0,Alaves,"1,503",16.7,4.0,0.0,55,1.0,757,Alaves
+,Luciano,es ESP,DF,17,14,0.0,0.0,2013-2014,/en/players/7798f39e/Luciano,7798f39e,Alaves,"1,337",14.9,3.0,1.0,55,1.0,3327,Alaves
+,Iván Crespo,es ESP,GK,12,12,0.0,0.0,2013-2014,/en/players/31ae3b7e/Ivan-Crespo,31ae3b7e,Alaves,"1,080",12.0,0.0,0.0,55,1.0,2956,Alaves
+,Raúl García,es ESP,DF,16,12,0.0,0.0,2013-2014,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Alaves,"1,066",11.8,3.0,0.0,55,1.0,440,Alaves
+,José Mora,ec ECU,FW,14,12,0.0,1.0,2013-2014,/en/players/0eff5cf7/Jose-Mora,0eff5cf7,Alaves,848,9.4,2.0,0.0,55,61.0,3181,Alaves
+,Carlos Lázaro,es ESP,MF,13,9,0.0,0.0,2013-2014,/en/players/785894a8/Carlos-Lazaro,785894a8,Alaves,874,9.7,2.0,0.0,55,1.0,2570,Alaves
+,Miroslav Stevanović,ba BIH,"FW,MF",13,7,0.0,1.0,2013-2014,/en/players/73d430c6/Miroslav-Stevanovic,73d430c6,Alaves,745,8.3,2.0,0.0,55,49.0,1871,Alaves
+,Óscar Serrano,es ESP,MF,16,6,0.0,1.0,2013-2014,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Alaves,576,6.4,3.0,1.0,55,1.0,2859,Alaves
+,Juanma,es ESP,MF,17,5,3.0,1.0,2013-2014,/en/players/f4f22926/Juanma,f4f22926,Alaves,512,5.7,0.0,0.0,55,1.0,1413,Alaves
+,Sergio Tejera,es ESP,MF,13,5,0.0,0.0,2013-2014,/en/players/3d5734ef/Sergio-Tejera,3d5734ef,Alaves,488,5.4,4.0,0.0,55,1.0,1622,Alaves
+,Mauro Quiroga,ar ARG,FW,22,2,0.0,3.0,2013-2014,/en/players/1643c897/Mauro-Quiroga,1643c897,Alaves,527,5.9,2.0,0.0,55,5.0,3328,Alaves
+,Gorka Laborda,es ESP,FW,4,1,0.0,0.0,2013-2014,/en/players/7e77be7b/Gorka-Laborda,7e77be7b,Alaves,103,1.1,1.0,0.0,55,1.0,3329,Alaves
+,Nicolás Schenone,uy URU,MF,1,1,0.0,0.0,2013-2014,/en/players/a35d0b21/Nicolas-Schenone,35d0b21,Alaves,82,0.9,1.0,0.0,55,8.0,3330,Alaves
+,Einar Galilea,es ESP,DF,2,0,0.0,0.0,2013-2014,/en/players/327d75f2/Einar-Galilea,327d75f2,Alaves,33,0.4,0.0,0.0,55,1.0,3331,Alaves
+,﻿Víctor Laguardia,es ESP,DF,35,35,2.0,1.0,2014-2015,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"3,150",35.0,15.0,0.0,55,1.0,3332,Alaves
+,Raúl García,es ESP,DF,39,34,1.0,2.0,2014-2015,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Alaves,"3,014",33.5,3.0,0.0,55,1.0,440,Alaves
+,Daniel Toribio,es ESP,MF,35,34,0.0,1.0,2014-2015,/en/players/0ced6664/Daniel-Toribio,0ced6664,Alaves,"2,895",32.2,8.0,0.0,55,1.0,2357,Alaves
+,Toti,es ESP,"FW,MF",36,33,8.0,8.0,2014-2015,/en/players/03a03057/Toti,03a03057,Alaves,"2,754",30.6,5.0,0.0,55,1.0,3324,Alaves
+,Manu,es ESP,GK,29,29,0.0,0.0,2014-2015,/en/players/e6c6988d/Manu,6c6988d,Alaves,"2,610",29.0,3.0,0.0,55,1.0,443,Alaves
+,Unai Medina,es ESP,DF,29,28,0.0,0.0,2014-2015,/en/players/bda6ddeb/Unai-Medina,bda6ddeb,Alaves,"2,387",26.5,11.0,1.0,55,1.0,3325,Alaves
+,Manu García,es ESP,MF,30,27,2.0,0.0,2014-2015,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"2,177",24.2,12.0,0.0,55,1.0,3320,Alaves
+,Manu Barreiro,es ESP,FW,31,22,1.0,11.0,2014-2015,/en/players/028608d9/Manu-Barreiro,028608d9,Alaves,"1,965",21.8,8.0,0.0,55,1.0,3333,Alaves
+,Juli,es ESP,MF,32,21,4.0,6.0,2014-2015,/en/players/f3541f8a/Juli,f3541f8a,Alaves,"2,041",22.7,3.0,0.0,55,1.0,3334,Alaves
+,Migue,es ESP,DF,23,21,0.0,1.0,2014-2015,/en/players/13575a4c/Migue,13575a4c,Alaves,"1,864",20.7,5.0,0.0,55,1.0,3335,Alaves
+,Jiří Jarošík,cz CZE,"DF,MF",19,19,1.0,2.0,2014-2015,/en/players/55ea6bb4/Jiri-Jarosik,55ea6bb4,Alaves,"1,710",19.0,5.0,0.0,55,84.0,3321,Alaves
+,Manuel Lanzarote,es ESP,MF,20,18,1.0,3.0,2014-2015,/en/players/dff353fb/Manuel-Lanzarote,dff353fb,Alaves,"1,508",16.8,4.0,0.0,55,1.0,3078,Alaves
+,Juanma,es ESP,MF,31,17,0.0,2.0,2014-2015,/en/players/f4f22926/Juanma,f4f22926,Alaves,"1,435",15.9,2.0,0.0,55,1.0,1413,Alaves
+,Marco Sangalli,es ESP,"FW,MF",36,15,2.0,0.0,2014-2015,/en/players/0bf0e5b1/Marco-Sangalli,0bf0e5b1,Alaves,"1,689",18.8,2.0,1.0,55,1.0,295,Alaves
+,Jagoba Beobide,es ESP,MF,19,15,0.0,0.0,2014-2015,/en/players/08dee721/Jagoba-Beobide,08dee721,Alaves,"1,427",15.9,5.0,0.0,55,1.0,3322,Alaves
+,Ernesto Galán,es ESP,DF,14,14,0.0,1.0,2014-2015,/en/players/7e4af593/Ernesto-Galan,7e4af593,Alaves,"1,139",12.7,5.0,2.0,55,1.0,3059,Alaves
+,Ion Vélez,es ESP,FW,24,13,2.0,3.0,2014-2015,/en/players/3a6c16de/Ion-Velez,3a6c16de,Alaves,"1,317",14.6,2.0,0.0,55,1.0,1276,Alaves
+,Iñaki Goitia,es ESP,GK,13,13,0.0,0.0,2014-2015,/en/players/2f10b901/Inaki-Goitia,2f10b901,Alaves,"1,170",13.0,0.0,0.0,55,1.0,1417,Alaves
+,Rafa García,es ESP,MF,19,12,1.0,1.0,2014-2015,/en/players/bebdff6f/Rafa-Garcia,bebdff6f,Alaves,"1,078",12.0,2.0,0.0,55,1.0,3336,Alaves
+,Xabier Castillo,hr CRO,DF,13,11,1.0,0.0,2014-2015,/en/players/638dc43b/Xabier-Castillo,638dc43b,Alaves,"1,111",12.3,2.0,0.0,55,16.0,251,Alaves
+,Ranko Despotović,rs SRB,FW,24,11,0.0,4.0,2014-2015,/en/players/7909655a/Ranko-Despotovic,7909655a,Alaves,"1,083",12.0,2.0,0.0,55,28.0,3337,Alaves
+,Einar Galilea,es ESP,DF,13,10,0.0,0.0,2014-2015,/en/players/327d75f2/Einar-Galilea,327d75f2,Alaves,999,11.1,2.0,0.0,55,1.0,3331,Alaves
+,Sergio Tejera,es ESP,MF,9,6,0.0,1.0,2014-2015,/en/players/3d5734ef/Sergio-Tejera,3d5734ef,Alaves,421,4.7,3.0,0.0,55,1.0,1622,Alaves
+,Sergio Llamas,es ESP,MF,14,4,3.0,1.0,2014-2015,/en/players/ca64ddf5/Sergio-Llamas,ca64ddf5,Alaves,562,6.2,4.0,0.0,55,1.0,3338,Alaves
+,Andoni,es ESP,MF,0,0,,,2014-2015,/en/players/647126d0/Andoni,647126d0,Alaves,,,,,55,1.0,3339,Alaves
+,﻿Fernando Pacheco,es ESP,GK,40,40,0.0,0.0,2015-2016,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"3,600",40.0,4.0,0.0,55,1.0,130,Alaves
+,Víctor Laguardia,es ESP,DF,39,39,0.0,1.0,2015-2016,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"3,466",38.5,13.0,1.0,55,1.0,3332,Alaves
+,Raúl García,es ESP,DF,39,39,6.0,5.0,2015-2016,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Alaves,"3,444",38.3,9.0,0.0,55,1.0,440,Alaves
+,Sergio Mora,es ESP,MF,39,39,2.0,3.0,2015-2016,/en/players/f0a31c00/Sergio-Mora,f0a31c00,Alaves,"3,337",37.1,15.0,1.0,55,1.0,3340,Alaves
+,Gaizka Toquero,es ESP,"FW,MF",39,39,3.0,9.0,2015-2016,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Alaves,"3,273",36.4,13.0,0.0,55,1.0,1280,Alaves
+,Juli,es ESP,MF,40,38,9.0,4.0,2015-2016,/en/players/f3541f8a/Juli,f3541f8a,Alaves,"3,171",35.2,7.0,0.0,55,1.0,3334,Alaves
+,Manu García,es ESP,MF,37,37,4.0,5.0,2015-2016,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"3,159",35.1,15.0,2.0,55,1.0,3320,Alaves
+,Kiko Femenía,es ESP,"DF,FW",38,37,1.0,5.0,2015-2016,/en/players/e5d01ecf/Kiko-Femenia,5d01ecf,Alaves,"2,811",31.2,8.0,0.0,55,1.0,3341,Alaves
+,Sergio Pelegrín,es ESP,DF,36,36,0.0,3.0,2015-2016,/en/players/e360782f/Sergio-Pelegrin,360782f,Alaves,"3,236",36.0,12.0,1.0,55,1.0,3342,Alaves
+,Javier Carpio,es ESP,DF,34,33,1.0,0.0,2015-2016,/en/players/5158c08a/Javier-Carpio,5158c08a,Alaves,"2,845",31.6,5.0,2.0,55,1.0,3343,Alaves
+,Daniel Pacheco,es ESP,"FW,MF",36,26,7.0,3.0,2015-2016,/en/players/5b2a4b8d/Daniel-Pacheco,5b2a4b8d,Alaves,"2,371",26.3,7.0,2.0,55,1.0,1469,Alaves
+,Manu Barreiro,es ESP,FW,32,11,1.0,5.0,2015-2016,/en/players/028608d9/Manu-Barreiro,028608d9,Alaves,"1,352",15.0,4.0,0.0,55,1.0,3333,Alaves
+,Dani Estrada,es ESP,"DF,MF",19,9,0.0,1.0,2015-2016,/en/players/519412fd/Dani-Estrada,519412fd,Alaves,962,10.7,9.0,0.0,55,1.0,248,Alaves
+,Facundo Guichón,uy URU,MF,30,9,0.0,1.0,2015-2016,/en/players/6db97467/Facundo-Guichon,6db97467,Alaves,913,10.1,9.0,1.0,55,8.0,3344,Alaves
+,Hernán Bernardello,ar ARG,MF,13,9,0.0,1.0,2015-2016,/en/players/dec04537/Hernan-Bernardello,dec04537,Alaves,893,9.9,4.0,0.0,55,5.0,3345,Alaves
+,Jagoba Beobide,es ESP,MF,16,5,0.0,0.0,2015-2016,/en/players/08dee721/Jagoba-Beobide,08dee721,Alaves,558,6.2,5.0,0.0,55,1.0,3322,Alaves
+,Aritz Borda,es ESP,DF,10,5,0.0,0.0,2015-2016,/en/players/47e49156/Aritz-Borda,47e49156,Alaves,484,5.4,2.0,0.0,55,1.0,3196,Alaves
+,Einar Galilea,es ESP,DF,6,4,0.0,0.0,2015-2016,/en/players/327d75f2/Einar-Galilea,327d75f2,Alaves,314,3.5,1.0,1.0,55,1.0,3331,Alaves
+,Dani Abalo,es ESP,"FW,MF",7,2,0.0,0.0,2015-2016,/en/players/d1b04adb/Dani-Abalo,d1b04adb,Alaves,195,2.2,0.0,0.0,55,1.0,681,Alaves
+,Pau Torres,es ESP,GK,2,2,0.0,0.0,2015-2016,/en/players/2912fea1/Pau-Torres,2912fea1,Alaves,180,2.0,0.0,0.0,55,1.0,2639,Alaves
+,Iñaki Sáenz,es ESP,MF,3,2,0.0,0.0,2015-2016,/en/players/995e3a10/Inaki-Saenz,995e3a10,Alaves,164,1.8,0.0,0.0,55,1.0,2919,Alaves
+,Sergio Llamas,es ESP,MF,19,1,0.0,2.0,2015-2016,/en/players/ca64ddf5/Sergio-Llamas,ca64ddf5,Alaves,330,3.7,5.0,0.0,55,1.0,3338,Alaves
+,David Arenas Torres,es ESP,FW,6,0,0.0,0.0,2015-2016,/en/players/87afba6a/David-Arenas-Torres,87afba6a,Alaves,108,1.2,1.0,0.0,55,1.0,3346,Alaves
+,Krisztián Vadócz,hu HUN,MF,3,0,0.0,0.0,2015-2016,/en/players/b4b0e333/Krisztian-Vadocz,b4b0e333,Alaves,69,0.8,0.0,0.0,55,87.0,2027,Alaves
+,Asier Benito,es ESP,FW,2,0,0.0,0.0,2015-2016,/en/players/02a111ed/Asier-Benito,02a111ed,Alaves,34,0.4,1.0,0.0,55,1.0,3347,Alaves
+,Jon Aranda Goenaga,es ESP,DF,0,0,,,2015-2016,/en/players/84ef91ca/Jon-Aranda-Goenaga,84ef91ca,Alaves,,,,,55,1.0,3348,Alaves
+,Aritz Castro,es ESP,GK,0,0,,,2015-2016,/en/players/0b006b08/Aritz-Castro,0b006b08,Alaves,,,,,55,1.0,3349,Alaves
+,Iñaki Goitia,es ESP,GK,0,0,,,2015-2016,/en/players/2f10b901/Inaki-Goitia,2f10b901,Alaves,,,,,55,1.0,1417,Alaves
+,Iñaki Sáenz,es ESP,"DF,MF",0,0,,,2015-2016,/en/players/975dd5ae/Inaki-Saenz,975dd5ae,Alaves,,,,,55,1.0,3350,Alaves
+,﻿Fernando Pacheco,es ESP,GK,36,36,0.0,0.0,2016-2017,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"3,240",36.0,1.0,0.0,55,1.0,130,Alaves
+,Marcos Llorente,es ESP,MF,32,31,2.0,0.0,2016-2017,/en/players/02c15616/Marcos-Llorente,02c15616,Alaves,"2,806",31.2,5.0,0.0,55,1.0,138,Alaves
+,Theo Hernández,fr FRA,DF,32,30,3.0,1.0,2016-2017,/en/players/d4c9725f/Theo-Hernandez,d4c9725f,Alaves,"2,725",30.3,12.0,1.0,55,4.0,146,Alaves
+,Deyverson,br BRA,FW,32,29,1.0,7.0,2016-2017,/en/players/2e5e846d/Deyverson,2e5e846d,Alaves,"2,580",28.7,14.0,0.0,55,2.0,3351,Alaves
+,Kiko Femenía,es ESP,DF,31,28,2.0,0.0,2016-2017,/en/players/e5d01ecf/Kiko-Femenia,5d01ecf,Alaves,"2,500",27.8,5.0,0.0,55,1.0,3341,Alaves
+,Víctor Camarasa,es ESP,MF,31,28,1.0,3.0,2016-2017,/en/players/b2d03887/Victor-Camarasa,b2d03887,Alaves,"2,495",27.7,4.0,0.0,55,1.0,1498,Alaves
+,Zouhair Feddal,ma MAR,DF,27,27,1.0,2.0,2016-2017,/en/players/89151b16/Zouhair-Feddal,89151b16,Alaves,"2,242",24.9,8.0,2.0,55,26.0,1497,Alaves
+,Víctor Laguardia,es ESP,DF,26,24,1.0,2.0,2016-2017,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"2,149",23.9,6.0,0.0,55,1.0,3332,Alaves
+,Manu García,es ESP,MF,25,23,1.0,3.0,2016-2017,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"2,011",22.3,8.0,0.0,55,1.0,3320,Alaves
+,Ibai Gómez,es ESP,MF,29,23,2.0,5.0,2016-2017,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Alaves,"1,815",20.2,2.0,0.0,55,1.0,1296,Alaves
+,Alexis,es ESP,DF,24,19,1.0,2.0,2016-2017,/en/players/db0cd1ae/Alexis,db0cd1ae,Alaves,"1,819",20.2,10.0,1.0,55,1.0,914,Alaves
+,Édgar Méndez,es ESP,"MF,FW",27,18,1.0,4.0,2016-2017,/en/players/aed746df/Edgar-Mendez,d746df,Alaves,"1,612",17.9,6.0,0.0,55,1.0,3352,Alaves
+,Daniel Torres,co COL,MF,21,17,0.0,0.0,2016-2017,/en/players/87882adc/Daniel-Torres,87882adc,Alaves,"1,436",16.0,7.0,0.0,55,19.0,3353,Alaves
+,Gaizka Toquero,es ESP,"MF,FW",23,15,1.0,1.0,2016-2017,/en/players/b78144a6/Gaizka-Toquero,b78144a6,Alaves,"1,222",13.6,4.0,0.0,55,1.0,1280,Alaves
+,Raúl García,es ESP,DF,18,14,0.0,0.0,2016-2017,/en/players/1a317a1b/Raul-Garcia,1a317a1b,Alaves,"1,270",14.1,6.0,0.0,55,1.0,440,Alaves
+,Carlos Vigaray,es ESP,DF,19,10,3.0,0.0,2016-2017,/en/players/f69d934e/Carlos-Vigaray,f69d934e,Alaves,949,10.5,1.0,0.0,55,1.0,3354,Alaves
+,Nenad Krstičić,rs SRB,MF,14,9,0.0,2.0,2016-2017,/en/players/5631b735/Nenad-Krsticic,5631b735,Alaves,745,8.3,3.0,0.0,55,28.0,3355,Alaves
+,Christian Santos,ve VEN,FW,21,8,1.0,3.0,2016-2017,/en/players/4efd29bb/Christian-Santos,4efd29bb,Alaves,837,9.3,2.0,0.0,55,53.0,552,Alaves
+,Rodrigo Ely,br BRA,DF,10,8,0.0,1.0,2016-2017,/en/players/fd47b4f2/Rodrigo-Ely,fd47b4f2,Alaves,789,8.8,4.0,0.0,55,2.0,3356,Alaves
+,Aleksandar Katai,rs SRB,"MF,FW",20,8,3.0,3.0,2016-2017,/en/players/d5127c3f/Aleksandar-Katai,d5127c3f,Alaves,775,8.6,3.0,1.0,55,28.0,3357,Alaves
+,Rubén Sobrino,es ESP,MF,11,5,1.0,2.0,2016-2017,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Alaves,503,5.6,1.0,0.0,55,1.0,1005,Alaves
+,Óscar Romero,py PAR,MF,13,4,1.0,0.0,2016-2017,/en/players/4bc5f2b4/Oscar-Romero,4bc5f2b4,Alaves,535,5.9,3.0,0.0,55,43.0,3358,Alaves
+,Adrián Ortolá,es ESP,GK,2,2,0.0,0.0,2016-2017,/en/players/6a22fe38/Adrian-Ortola,6a22fe38,Alaves,180,2.0,0.0,0.0,55,1.0,558,Alaves
+,Cristian Espinoza,ar ARG,MF,6,1,0.0,0.0,2016-2017,/en/players/9c794a80/Cristian-Espinoza,9c794a80,Alaves,163,1.8,1.0,0.0,55,5.0,2640,Alaves
+,Aleksandar Pantić,rs SRB,DF,2,1,1.0,0.0,2016-2017,/en/players/70e5566a/Aleksandar-Pantic,70e5566a,Alaves,155,1.7,1.0,0.0,55,28.0,2771,Alaves
+,Martin Agirregabiria,es ESP,DF,0,0,,,2016-2017,/en/players/355c883a/Martin-Agirregabiria,355c883a,Alaves,,,,,55,1.0,3359,Alaves
+,Manu Barreiro,es ESP,FW,0,0,,,2016-2017,/en/players/028608d9/Manu-Barreiro,028608d9,Alaves,,,,,55,1.0,3333,Alaves
+,Manu García,es ESP,"FW,MF",0,0,,,2016-2017,/en/players/6ed1a2a2/Manu-Garcia,6ed1a2a2,Alaves,,,,,55,1.0,3360,Alaves
+,﻿Fernando Pacheco,es ESP,GK,38,37,0.0,0.0,2017-2018,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"3,358",37.3,2.0,0.0,55,1.0,130,Alaves
+,Rodrigo Ely,br BRA,DF,31,30,0.0,1.0,2017-2018,/en/players/fd47b4f2/Rodrigo-Ely,fd47b4f2,Alaves,"2,691",29.9,11.0,1.0,55,2.0,3356,Alaves
+,Munir El Haddadi,ma MAR,FW,33,28,6.0,10.0,2017-2018,/en/players/8696bc90/Munir-El-Haddadi,8696bc90,Alaves,"2,444",27.2,7.0,1.0,55,26.0,985,Alaves
+,Tomás Pina Isla,es ESP,MF,30,28,0.0,1.0,2017-2018,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Alaves,"2,387",26.5,7.0,0.0,55,1.0,1616,Alaves
+,Alfonso Pedraza,es ESP,"MF,DF",33,27,5.0,3.0,2017-2018,/en/players/63f04c6c/Alfonso-Pedraza,63f04c6c,Alaves,"2,440",27.1,5.0,0.0,55,1.0,1520,Alaves
+,Manu García,es ESP,MF,30,27,0.0,3.0,2017-2018,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"2,439",27.1,9.0,0.0,55,1.0,3320,Alaves
+,Ibai Gómez,es ESP,MF,34,26,6.0,7.0,2017-2018,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Alaves,"2,319",25.8,1.0,0.0,55,1.0,1296,Alaves
+,Alexis,es ESP,DF,28,25,0.0,1.0,2017-2018,/en/players/db0cd1ae/Alexis,db0cd1ae,Alaves,"2,184",24.3,6.0,0.0,55,1.0,914,Alaves
+,Rubén Duarte,es ESP,DF,24,24,2.0,0.0,2017-2018,/en/players/1fe0492d/Ruben-Duarte,1fe0492d,Alaves,"2,138",23.8,9.0,1.0,55,1.0,3082,Alaves
+,Martin Agirregabiria,es ESP,DF,21,20,4.0,0.0,2017-2018,/en/players/355c883a/Martin-Agirregabiria,355c883a,Alaves,"1,828",20.3,4.0,0.0,55,1.0,3359,Alaves
+,Víctor Laguardia,es ESP,DF,17,17,0.0,2.0,2017-2018,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"1,530",17.0,3.0,0.0,55,1.0,3332,Alaves
+,Guillermo Maripán,cl CHI,DF,19,17,0.0,0.0,2017-2018,/en/players/d9764034/Guillermo-Maripan,d9764034,Alaves,"1,528",17.0,4.0,0.0,55,31.0,3361,Alaves
+,Rubén Sobrino,es ESP,"FW,MF",28,15,2.0,3.0,2017-2018,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Alaves,"1,466",16.3,5.0,0.0,55,1.0,1005,Alaves
+,John Guidetti,se SWE,FW,17,15,3.0,3.0,2017-2018,/en/players/99bebd12/John-Guidetti,99bebd12,Alaves,"1,222",13.6,3.0,0.0,55,41.0,779,Alaves
+,Daniel Torres,co COL,MF,18,14,0.0,0.0,2017-2018,/en/players/87882adc/Daniel-Torres,87882adc,Alaves,"1,217",13.5,3.0,0.0,55,19.0,3353,Alaves
+,Wakaso,gh GHA,MF,21,12,1.0,0.0,2017-2018,/en/players/999908af/Wakaso,999908af,Alaves,"1,098",12.2,7.0,0.0,55,17.0,2755,Alaves
+,Burgui,es ESP,"MF,FW",23,12,0.0,1.0,2017-2018,/en/players/45e304c8/Burgui,45e304c8,Alaves,"1,034",11.5,1.0,0.0,55,1.0,3084,Alaves
+,Álvaro Medrán,es ESP,MF,17,9,0.0,2.0,2017-2018,/en/players/31223bcf/Alvaro-Medran,31223bcf,Alaves,947,10.5,2.0,0.0,55,1.0,126,Alaves
+,Carlos Vigaray,es ESP,DF,12,9,0.0,0.0,2017-2018,/en/players/f69d934e/Carlos-Vigaray,f69d934e,Alaves,895,9.9,6.0,0.0,55,1.0,3354,Alaves
+,Adrián Diéguez,es ESP,DF,6,6,0.0,0.0,2017-2018,/en/players/70438d35/Adrian-Dieguez,70438d35,Alaves,435,4.8,5.0,0.0,55,1.0,3362,Alaves
+,Christian Santos,ve VEN,FW,10,5,0.0,2.0,2017-2018,/en/players/4efd29bb/Christian-Santos,4efd29bb,Alaves,436,4.8,3.0,1.0,55,53.0,552,Alaves
+,Bojan Krkić,es ESP,"FW,MF",13,4,0.0,0.0,2017-2018,/en/players/9fa0a0b8/Bojan-Krkic,9fa0a0b8,Alaves,441,4.9,0.0,0.0,55,1.0,1112,Alaves
+,Hernán Pérez,py PAR,MF,10,4,0.0,0.0,2017-2018,/en/players/e1cea3f7/Hernan-Perez,1cea3f7,Alaves,374,4.2,2.0,0.0,55,43.0,2610,Alaves
+,Óscar Romero,py PAR,"MF,FW",5,2,0.0,0.0,2017-2018,/en/players/4bc5f2b4/Oscar-Romero,4bc5f2b4,Alaves,251,2.8,0.0,0.0,55,43.0,3358,Alaves
+,Ermedin Demirović,ba BIH,FW,3,2,1.0,1.0,2017-2018,/en/players/ed79b7d3/Ermedin-Demirovic,d79b7d3,Alaves,182,2.0,0.0,0.0,55,49.0,3363,Alaves
+,Enzo Fernández,es ESP,MF,2,1,0.0,0.0,2017-2018,/en/players/4cafb146/Enzo-Fernandez,4cafb146,Alaves,71,0.8,0.0,0.0,55,1.0,4667,Alaves
+,Antonio Sivera,es ESP,GK,1,1,0.0,0.0,2017-2018,/en/players/9970da54/Antonio-Sivera,9970da54,Alaves,62,0.7,0.0,0.0,55,1.0,3364,Alaves
+,Víctor López,es ESP,MF,1,1,1.0,0.0,2017-2018,/en/players/a68856b5/Victor-Lopez,68856b5,Alaves,60,0.7,0.0,0.0,55,1.0,3365,Alaves
+,Aleksandar Katai,rs SRB,"MF,DF",3,0,0.0,0.0,2017-2018,/en/players/d5127c3f/Aleksandar-Katai,d5127c3f,Alaves,55,0.6,0.0,0.0,55,28.0,3357,Alaves
+,Héctor Hernández,es ESP,DF,1,0,0.0,0.0,2017-2018,/en/players/76ee80ee/Hector-Hernandez,76ee80ee,Alaves,16,0.2,0.0,0.0,55,1.0,310,Alaves
+,Aritz Castro,es ESP,GK,0,0,,,2017-2018,/en/players/0b006b08/Aritz-Castro,0b006b08,Alaves,,,,,55,1.0,3349,Alaves
+,Ioritz Landeta,es ESP,GK,0,0,,,2017-2018,/en/players/f553e957/Ioritz-Landeta,f553e957,Alaves,,,,,55,1.0,3366,Alaves
+,﻿Víctor Laguardia,es ESP,DF,36,36,2.0,1.0,2018-2019,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"3,240",36.0,13.0,0.0,55,1.0,3332,Alaves
+,Fernando Pacheco,es ESP,GK,35,35,0.0,0.0,2018-2019,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"3,150",35.0,3.0,0.0,55,1.0,130,Alaves
+,Jony,es ESP,"MF,FW",36,34,11.0,5.0,2018-2019,/en/players/244f57b9/Jony,244f57b9,Alaves,"2,971",33.0,3.0,0.0,55,1.0,2111,Alaves
+,Jonathan Calleri,ar ARG,FW,34,33,2.0,9.0,2018-2019,/en/players/6922f806/Jonathan-Calleri,6922f806,Alaves,"2,869",31.9,6.0,0.0,55,5.0,2109,Alaves
+,Rubén Duarte,es ESP,DF,33,33,0.0,0.0,2018-2019,/en/players/1fe0492d/Ruben-Duarte,1fe0492d,Alaves,"2,772",30.8,10.0,1.0,55,1.0,3082,Alaves
+,Ximo Navarro,es ESP,DF,31,28,2.0,2.0,2018-2019,/en/players/8db394aa/Ximo-Navarro,8db394aa,Alaves,"2,533",28.1,7.0,0.0,55,1.0,1643,Alaves
+,Tomás Pina Isla,es ESP,MF,28,27,0.0,2.0,2018-2019,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Alaves,"2,340",26.0,13.0,0.0,55,1.0,1616,Alaves
+,Manu García,es ESP,MF,34,25,1.0,1.0,2018-2019,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"2,330",25.9,6.0,0.0,55,1.0,3320,Alaves
+,Martin Agirregabiria,es ESP,DF,27,23,0.0,0.0,2018-2019,/en/players/355c883a/Martin-Agirregabiria,355c883a,Alaves,"2,032",22.6,4.0,0.0,55,1.0,3359,Alaves
+,Guillermo Maripán,cl CHI,DF,23,22,2.0,2.0,2018-2019,/en/players/d9764034/Guillermo-Maripan,d9764034,Alaves,"2,008",22.3,5.0,0.0,55,31.0,3361,Alaves
+,Wakaso,gh GHA,MF,29,18,1.0,1.0,2018-2019,/en/players/999908af/Wakaso,999908af,Alaves,"1,669",18.5,9.0,0.0,55,17.0,2755,Alaves
+,Borja Bastón,es ESP,FW,27,18,1.0,5.0,2018-2019,/en/players/8c44e37b/Borja-Baston,8c44e37b,Alaves,"1,439",16.0,4.0,0.0,55,1.0,476,Alaves
+,Darko Brašanac,rs SRB,MF,24,17,1.0,0.0,2018-2019,/en/players/4accb7e0/Darko-Brasanac,4accb7e0,Alaves,"1,580",17.6,5.0,0.0,55,28.0,1487,Alaves
+,Ibai Gómez,es ESP,"MF,FW",18,17,2.0,3.0,2018-2019,/en/players/9d2a3d5f/Ibai-Gomez,9d2a3d5f,Alaves,"1,449",16.1,0.0,0.0,55,1.0,1296,Alaves
+,Rubén Sobrino,es ESP,"FW,MF",20,10,1.0,3.0,2018-2019,/en/players/19b776e9/Ruben-Sobrino,19b776e9,Alaves,965,10.7,2.0,0.0,55,1.0,1005,Alaves
+,Takashi Inui,jp JPN,"MF,FW",12,10,0.0,2.0,2018-2019,/en/players/61bd33d0/Takashi-Inui,61bd33d0,Alaves,828,9.2,0.0,0.0,55,54.0,1511,Alaves
+,Carlos Vigaray,es ESP,DF,8,7,0.0,0.0,2018-2019,/en/players/f69d934e/Carlos-Vigaray,f69d934e,Alaves,647,7.2,1.0,0.0,55,1.0,3354,Alaves
+,John Guidetti,se SWE,FW,22,6,1.0,2.0,2018-2019,/en/players/99bebd12/John-Guidetti,99bebd12,Alaves,631,7.0,2.0,0.0,55,41.0,779,Alaves
+,Burgui,es ESP,"MF,FW",16,5,0.0,1.0,2018-2019,/en/players/45e304c8/Burgui,45e304c8,Alaves,555,6.2,1.0,0.0,55,1.0,3084,Alaves
+,Rodrigo Ely,br BRA,DF,5,5,0.0,0.0,2018-2019,/en/players/fd47b4f2/Rodrigo-Ely,fd47b4f2,Alaves,430,4.8,1.0,0.0,55,2.0,3356,Alaves
+,Diego Rolán,uy URU,"MF,FW",9,3,0.0,0.0,2018-2019,/en/players/d1491e00/Diego-Rolan,d1491e00,Alaves,298,3.3,1.0,0.0,55,8.0,595,Alaves
+,Antonio Sivera,es ESP,GK,3,3,0.0,0.0,2018-2019,/en/players/9970da54/Antonio-Sivera,9970da54,Alaves,270,3.0,0.0,0.0,55,1.0,3364,Alaves
+,Adrián Marín,es ESP,"DF,MF",6,2,0.0,0.0,2018-2019,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Alaves,290,3.2,2.0,0.0,55,1.0,2781,Alaves
+,Daniel Torres,co COL,MF,2,1,0.0,0.0,2018-2019,/en/players/87882adc/Daniel-Torres,87882adc,Alaves,71,0.8,1.0,0.0,55,19.0,3353,Alaves
+,Patrick Twumasi,gh GHA,"MF,FW",11,0,0.0,0.0,2018-2019,/en/players/e3993b65/Patrick-Twumasi,3993b65,Alaves,170,1.9,2.0,0.0,55,17.0,3367,Alaves
+,Alejandro Blanco,es ESP,MF,2,0,0.0,0.0,2018-2019,/en/players/c4dce677/Alejandro-Blanco,c4dce677,Alaves,16,0.2,0.0,0.0,55,1.0,1021,Alaves
+,Adrián Diéguez,es ESP,DF,0,0,,,2018-2019,/en/players/70438d35/Adrian-Dieguez,70438d35,Alaves,,,,,55,1.0,3362,Alaves
+,Álex Domínguez,es ESP,GK,0,0,,,2018-2019,/en/players/f240be08/Alex-Dominguez,f240be08,Alaves,,,,,55,1.0,3368,Alaves
+,Andrei Lupu,ro ROU,FW,0,0,,,2018-2019,/en/players/60035815/Andrei-Lupu,60035815,Alaves,,,,,55,51.0,3369,Alaves
+,Paulino,es ESP,MF,0,0,,,2018-2019,/en/players/f20fce1b/Paulino,f20fce1b,Alaves,,,,,55,1.0,2494,Alaves
+,Antonio Perera,es ESP,MF,0,0,,,2018-2019,/en/players/40b9b91a/Antonio-Perera,40b9b91a,Alaves,,,,,55,1.0,3370,Alaves
+,﻿Joselu,es ESP,FW,36,31,2.0,11.0,2019-2020,/en/players/6265208f/Joselu,6265208f,Alaves,"2,782",30.9,6.0,0.0,55,1.0,100,Alaves
+,Víctor Laguardia,es ESP,DF,31,31,2.0,1.0,2019-2020,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"2,654",29.5,9.0,1.0,55,1.0,3332,Alaves
+,Rubén Duarte,es ESP,DF,31,30,1.0,0.0,2019-2020,/en/players/1fe0492d/Ruben-Duarte,1fe0492d,Alaves,"2,663",29.6,11.0,0.0,55,1.0,3082,Alaves
+,Lucas Pérez,es ESP,FW,34,29,5.0,11.0,2019-2020,/en/players/a300ac7e/Lucas-Perez,300ac7e,Alaves,"2,496",27.7,4.0,0.0,55,1.0,489,Alaves
+,Fernando Pacheco,es ESP,GK,27,27,0.0,0.0,2019-2020,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"2,358",26.2,0.0,1.0,55,1.0,130,Alaves
+,Aleix Vidal,es ESP,MF,29,26,4.0,2.0,2019-2020,/en/players/04965583/Aleix-Vidal,04965583,Alaves,"2,165",24.1,6.0,0.0,55,1.0,1154,Alaves
+,Rodrigo Ely,br BRA,DF,25,24,0.0,2.0,2019-2020,/en/players/fd47b4f2/Rodrigo-Ely,fd47b4f2,Alaves,"2,121",23.6,9.0,1.0,55,2.0,3356,Alaves
+,Martin Agirregabiria,es ESP,DF,31,23,1.0,1.0,2019-2020,/en/players/355c883a/Martin-Agirregabiria,355c883a,Alaves,"2,099",23.3,5.0,1.0,55,1.0,3359,Alaves
+,Manu García,es ESP,MF,30,22,0.0,0.0,2019-2020,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"1,967",21.9,11.0,1.0,55,1.0,3320,Alaves
+,Ximo Navarro,es ESP,DF,23,22,0.0,0.0,2019-2020,/en/players/8db394aa/Ximo-Navarro,8db394aa,Alaves,"1,903",21.1,8.0,0.0,55,1.0,1643,Alaves
+,Luis Rioja,es ESP,MF,28,19,0.0,0.0,2019-2020,/en/players/eb3dd471/Luis-Rioja,b3dd471,Alaves,"1,634",18.2,3.0,0.0,55,1.0,3371,Alaves
+,Tomás Pina Isla,es ESP,MF,20,17,0.0,1.0,2019-2020,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Alaves,"1,344",14.9,6.0,1.0,55,1.0,1616,Alaves
+,Víctor Camarasa,es ESP,MF,17,15,1.0,0.0,2019-2020,/en/players/b2d03887/Victor-Camarasa,b2d03887,Alaves,"1,293",14.4,1.0,0.0,55,1.0,1498,Alaves
+,Wakaso,gh GHA,MF,16,15,0.0,0.0,2019-2020,/en/players/999908af/Wakaso,999908af,Alaves,"1,283",14.3,12.0,1.0,55,17.0,2755,Alaves
+,Oliver Burke,sct SCO,"MF,FW",31,14,2.0,1.0,2019-2020,/en/players/f631c17f/Oliver-Burke,f631c17f,Alaves,"1,429",15.9,2.0,0.0,55,67.0,3372,Alaves
+,Lisandro Magallán,ar ARG,DF,17,13,1.0,1.0,2019-2020,/en/players/01a49bd2/Lisandro-Magallan,01a49bd2,Alaves,"1,197",13.3,4.0,0.0,55,5.0,3373,Alaves
+,Ljubomir Fejsa,rs SRB,MF,13,11,0.0,0.0,2019-2020,/en/players/874d7a32/Ljubomir-Fejsa,874d7a32,Alaves,786,8.7,2.0,0.0,55,28.0,3374,Alaves
+,Édgar Méndez,es ESP,MF,16,10,0.0,1.0,2019-2020,/en/players/aed746df/Edgar-Mendez,d746df,Alaves,864,9.6,3.0,0.0,55,1.0,3352,Alaves
+,Adrián Marín,es ESP,DF,12,9,0.0,0.0,2019-2020,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Alaves,852,9.5,1.0,0.0,55,1.0,2781,Alaves
+,Roberto,es ESP,GK,9,8,0.0,0.0,2019-2020,/en/players/ba3ca78f/Roberto,ba3ca78f,Alaves,790,8.8,1.0,0.0,55,1.0,2162,Alaves
+,Pere Pons,es ESP,MF,30,7,1.0,1.0,2019-2020,/en/players/29b61deb/Pere-Pons,29b61deb,Alaves,"1,088",12.1,3.0,0.0,55,1.0,3375,Alaves
+,Borja Sainz,es ESP,MF,19,5,0.0,1.0,2019-2020,/en/players/1b40049a/Borja-Sainz,1b40049a,Alaves,573,6.4,1.0,0.0,55,1.0,3376,Alaves
+,Antonio Sivera,es ESP,GK,3,3,0.0,0.0,2019-2020,/en/players/9970da54/Antonio-Sivera,9970da54,Alaves,270,3.0,1.0,0.0,55,1.0,3364,Alaves
+,Tachi,es ESP,DF,6,2,0.0,0.0,2019-2020,/en/players/8b625720/Tachi,8b625720,Alaves,238,2.6,1.0,0.0,55,1.0,2240,Alaves
+,Abdallahi Mahmoud,mr MTN,MF,3,1,0.0,0.0,2019-2020,/en/players/ab99e4a0/Abdallahi-Mahmoud,b99e4a0,Alaves,152,1.7,1.0,0.0,55,94.0,3377,Alaves
+,John Guidetti,se SWE,"FW,MF",5,1,0.0,0.0,2019-2020,/en/players/99bebd12/John-Guidetti,99bebd12,Alaves,96,1.1,0.0,0.0,55,41.0,779,Alaves
+,Javi López,es ESP,DF,1,1,0.0,0.0,2019-2020,/en/players/e9ada8cf/Javi-Lopez,9ada8cf,Alaves,90,1.0,0.0,0.0,55,1.0,3378,Alaves
+,Guillermo Maripán,cl CHI,DF,1,1,0.0,0.0,2019-2020,/en/players/d9764034/Guillermo-Maripan,d9764034,Alaves,90,1.0,0.0,0.0,55,31.0,3361,Alaves
+,Javier Muñoz,es ESP,"FW,MF",1,1,0.0,0.0,2019-2020,/en/players/ec7c84c2/Javier-Munoz,c7c84c2,Alaves,52,0.6,0.0,0.0,55,1.0,129,Alaves
+,Paulino,es ESP,"FW,MF",3,0,0.0,0.0,2019-2020,/en/players/f20fce1b/Paulino,f20fce1b,Alaves,75,0.8,0.0,0.0,55,1.0,2494,Alaves
+,Burgui,es ESP,MF,2,0,0.0,0.0,2019-2020,/en/players/45e304c8/Burgui,45e304c8,Alaves,22,0.2,0.0,0.0,55,1.0,3084,Alaves
+,José Luis Rodríguez,pa PAN,FW,1,0,0.0,0.0,2019-2020,/en/players/b333b014/Jose-Luis-Rodriguez,b333b014,Alaves,22,0.2,0.0,0.0,55,89.0,3379,Alaves
+,Aritz Castro,es ESP,GK,0,0,,,2019-2020,/en/players/0b006b08/Aritz-Castro,0b006b08,Alaves,,,,,55,1.0,3349,Alaves
+,Ismael,es ESP,MF,0,0,,,2019-2020,/en/players/19cdceb0/Ismael,19cdceb0,Alaves,,,,,55,1.0,1524,Alaves
+,Rafa Navarro,es ESP,DF,0,0,,,2019-2020,/en/players/83627094/Rafa-Navarro,83627094,Alaves,,,,,55,1.0,1490,Alaves
+,Daniel Torres,co COL,MF,0,0,,,2019-2020,/en/players/87882adc/Daniel-Torres,87882adc,Alaves,,,,,55,19.0,3353,Alaves
+,﻿Fernando Pacheco,es ESP,GK,38,37,0.0,0.0,2020-2021,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"3,349",37.2,1.0,0.0,55,1.0,130,Alaves
+,Joselu,es ESP,FW,37,34,3.0,11.0,2020-2021,/en/players/6265208f/Joselu,6265208f,Alaves,"3,026",33.6,1.0,0.0,55,1.0,100,Alaves
+,Florian Lejeune,fr FRA,DF,34,34,1.0,1.0,2020-2021,/en/players/6eaed4eb/Florian-Lejeune,6eaed4eb,Alaves,"3,015",33.5,10.0,0.0,55,4.0,2763,Alaves
+,Tomás Pina Isla,es ESP,MF,33,31,1.0,1.0,2020-2021,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Alaves,"2,575",28.6,12.0,0.0,55,1.0,1616,Alaves
+,Víctor Laguardia,es ESP,DF,32,30,1.0,0.0,2020-2021,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"2,631",29.2,5.0,1.0,55,1.0,3332,Alaves
+,Rubén Duarte,es ESP,DF,31,29,1.0,1.0,2020-2021,/en/players/1fe0492d/Ruben-Duarte,1fe0492d,Alaves,"2,545",28.3,5.0,1.0,55,1.0,3082,Alaves
+,Rodrigo Battaglia,ar ARG,MF,32,29,0.0,1.0,2020-2021,/en/players/d637fc22/Rodrigo-Battaglia,d637fc22,Alaves,"2,492",27.7,10.0,1.0,55,5.0,1765,Alaves
+,Ximo Navarro,es ESP,DF,31,28,1.0,1.0,2020-2021,/en/players/8db394aa/Ximo-Navarro,8db394aa,Alaves,"2,375",26.4,6.0,0.0,55,1.0,1643,Alaves
+,Édgar Méndez,es ESP,"MF,FW",33,26,1.0,5.0,2020-2021,/en/players/aed746df/Edgar-Mendez,d746df,Alaves,"2,090",23.2,12.0,1.0,55,1.0,3352,Alaves
+,Luis Rioja,es ESP,MF,35,25,2.0,4.0,2020-2021,/en/players/eb3dd471/Luis-Rioja,b3dd471,Alaves,"2,090",23.2,4.0,0.0,55,1.0,3371,Alaves
+,Lucas Pérez,es ESP,FW,28,19,4.0,4.0,2020-2021,/en/players/a300ac7e/Lucas-Perez,300ac7e,Alaves,"1,759",19.5,1.0,0.0,55,1.0,489,Alaves
+,Jota,es ESP,MF,23,18,2.0,0.0,2020-2021,/en/players/9f351459/Jota,9f351459,Alaves,"1,398",15.5,5.0,1.0,55,1.0,739,Alaves
+,Martin Agirregabiria,es ESP,"DF,MF",26,16,1.0,0.0,2020-2021,/en/players/355c883a/Martin-Agirregabiria,355c883a,Alaves,"1,558",17.3,1.0,0.0,55,1.0,3359,Alaves
+,Pere Pons,es ESP,MF,22,12,0.0,2.0,2020-2021,/en/players/29b61deb/Pere-Pons,29b61deb,Alaves,"1,186",13.2,1.0,0.0,55,1.0,3375,Alaves
+,Deyverson,br BRA,FW,27,11,3.0,1.0,2020-2021,/en/players/2e5e846d/Deyverson,2e5e846d,Alaves,874,9.7,4.0,0.0,55,2.0,3351,Alaves
+,Manu García,es ESP,MF,25,10,0.0,0.0,2020-2021,/en/players/05a4465d/Manu-Garcia,05a4465d,Alaves,"1,124",12.5,9.0,1.0,55,1.0,3320,Alaves
+,Tachi,es ESP,DF,12,8,0.0,0.0,2020-2021,/en/players/8b625720/Tachi,8b625720,Alaves,850,9.4,5.0,1.0,55,1.0,2240,Alaves
+,Rodrigo Ely,br BRA,DF,8,6,0.0,1.0,2020-2021,/en/players/fd47b4f2/Rodrigo-Ely,fd47b4f2,Alaves,468,5.2,1.0,0.0,55,2.0,3356,Alaves
+,Facundo Pellistri,uy URU,"MF,FW",12,5,0.0,0.0,2020-2021,/en/players/ac7e7b1c/Facundo-Pellistri,c7e7b1c,Alaves,542,6.0,0.0,0.0,55,8.0,3380,Alaves
+,Iñigo Córdoba,es ESP,MF,7,3,0.0,0.0,2020-2021,/en/players/49ea92be/Inigo-Cordoba,49ea92be,Alaves,216,2.4,0.0,0.0,55,1.0,1321,Alaves
+,Borja Sainz,es ESP,"MF,FW",21,2,0.0,1.0,2020-2021,/en/players/1b40049a/Borja-Sainz,1b40049a,Alaves,453,5.0,1.0,0.0,55,1.0,3376,Alaves
+,Javi López,es ESP,"DF,MF",9,1,0.0,0.0,2020-2021,/en/players/e9ada8cf/Javi-Lopez,9ada8cf,Alaves,248,2.8,1.0,1.0,55,1.0,3378,Alaves
+,John Guidetti,se SWE,FW,10,1,0.0,1.0,2020-2021,/en/players/99bebd12/John-Guidetti,99bebd12,Alaves,208,2.3,1.0,0.0,55,41.0,779,Alaves
+,Adrián Marín,es ESP,"DF,MF",5,1,0.0,0.0,2020-2021,/en/players/b7f2edff/Adrian-Marin,b7f2edff,Alaves,93,1.0,0.0,0.0,55,1.0,2781,Alaves
+,Antonio Sivera,es ESP,GK,1,1,0.0,0.0,2020-2021,/en/players/9970da54/Antonio-Sivera,9970da54,Alaves,71,0.8,0.0,0.0,55,1.0,3364,Alaves
+,Abdallahi Mahmoud,mr MTN,MF,2,1,0.0,0.0,2020-2021,/en/players/ab99e4a0/Abdallahi-Mahmoud,b99e4a0,Alaves,66,0.7,0.0,0.0,55,94.0,3377,Alaves
+,Tomás Tavares,pt POR,"MF,DF",3,0,0.0,0.0,2020-2021,/en/players/0dce3356/Tomas-Tavares,0dce3356,Alaves,65,0.7,0.0,0.0,55,3.0,3381,Alaves
+,Burgui,es ESP,MF,1,0,0.0,0.0,2020-2021,/en/players/45e304c8/Burgui,45e304c8,Alaves,21,0.2,0.0,0.0,55,1.0,3084,Alaves
+,Sergi García,es ESP,MF,2,0,0.0,0.0,2020-2021,/en/players/a039d52e/Sergi-Garcia,039d52e,Alaves,16,0.2,0.0,0.0,55,1.0,3382,Alaves
+,Stephane Keller,cm CMR,DF,1,0,0.0,0.0,2020-2021,/en/players/89d1e9fa/Stephane-Keller,89d1e9fa,Alaves,16,0.2,0.0,0.0,55,36.0,3383,Alaves
+,Abdelkabir Abqar,ma MAR,DF,0,0,,,2020-2021,/en/players/2bc7f211/Abdelkabir-Abqar,2bc7f211,Alaves,,,,,55,26.0,2453,Alaves
+,Pepe Blanco,es ESP,MF,0,0,,,2020-2021,/en/players/3a97cbb1/Pepe-Blanco,3a97cbb1,Alaves,,,,,55,1.0,3384,Alaves
+,Aritz Castro,es ESP,GK,0,0,,,2020-2021,/en/players/0b006b08/Aritz-Castro,0b006b08,Alaves,,,,,55,1.0,3349,Alaves
+,Eneko Ortiz,es ESP,MF,0,0,,,2020-2021,/en/players/dc5ea86b/Eneko-Ortiz,dc5ea86b,Alaves,,,,,55,1.0,3385,Alaves
+,Hugo Perez,es ESP,DF,0,0,,,2020-2021,/en/players/7cfbe2c9/Hugo-Perez,7cfbe2c9,Alaves,,,,,55,1.0,3386,Alaves
+,Robert Vallribera,es ESP,DF,0,0,,,2020-2021,/en/players/e695674d/Robert-Vallribera,695674d,Alaves,,,,,55,1.0,3387,Alaves
+,﻿Luis Rioja,es ESP,"MF,FW",37,36,3.0,1.0,2021-2022,/en/players/eb3dd471/Luis-Rioja,b3dd471,Alaves,"3,111",34.6,3.0,0.0,55,1.0,3371,Alaves
+,Joselu,es ESP,FW,37,35,4.0,14.0,2021-2022,/en/players/6265208f/Joselu,6265208f,Alaves,"3,122",34.7,0.0,0.0,55,1.0,100,Alaves
+,Fernando Pacheco,es ESP,GK,34,34,0.0,0.0,2021-2022,/en/players/97852360/Fernando-Pacheco,97852360,Alaves,"3,053",33.9,1.0,0.0,55,1.0,130,Alaves
+,Víctor Laguardia,es ESP,DF,34,34,2.0,3.0,2021-2022,/en/players/b7c99b9b/Victor-Laguardia,b7c99b9b,Alaves,"3,042",33.8,9.0,0.0,55,1.0,3332,Alaves
+,Rubén Duarte,es ESP,DF,34,31,4.0,0.0,2021-2022,/en/players/1fe0492d/Ruben-Duarte,1fe0492d,Alaves,"2,621",29.1,12.0,1.0,55,1.0,3082,Alaves
+,Florian Lejeune,fr FRA,DF,30,30,0.0,0.0,2021-2022,/en/players/6eaed4eb/Florian-Lejeune,6eaed4eb,Alaves,"2,699",30.0,9.0,1.0,55,4.0,2763,Alaves
+,Loum Ndiaye,sn SEN,MF,32,26,0.0,2.0,2021-2022,/en/players/bcfc4473/Loum-Ndiaye,bcfc4473,Alaves,"2,312",25.7,10.0,0.0,55,34.0,3388,Alaves
+,Martin Agirregabiria,es ESP,"DF,MF",24,17,1.0,0.0,2021-2022,/en/players/355c883a/Martin-Agirregabiria,355c883a,Alaves,"1,616",18.0,4.0,0.0,55,1.0,3359,Alaves
+,Édgar Méndez,es ESP,"MF,FW",32,17,1.0,1.0,2021-2022,/en/players/aed746df/Edgar-Mendez,d746df,Alaves,"1,614",17.9,6.0,0.0,55,1.0,3352,Alaves
+,Toni Moya,es ESP,MF,28,17,1.0,0.0,2021-2022,/en/players/9e098912/Toni-Moya,9e098912,Alaves,"1,386",15.4,2.0,0.0,55,1.0,2236,Alaves
+,Pere Pons,es ESP,MF,27,17,0.0,1.0,2021-2022,/en/players/29b61deb/Pere-Pons,29b61deb,Alaves,"1,366",15.2,2.0,0.0,55,1.0,3375,Alaves
+,Tomás Pina Isla,es ESP,MF,29,16,0.0,0.0,2021-2022,/en/players/e54bd0a2/Tomas-Pina-Isla,54bd0a2,Alaves,"1,444",16.0,4.0,0.0,55,1.0,1616,Alaves
+,Ximo Navarro,es ESP,DF,18,16,0.0,0.0,2021-2022,/en/players/8db394aa/Ximo-Navarro,8db394aa,Alaves,"1,347",15.0,4.0,1.0,55,1.0,1643,Alaves
+,Gonzalo Escalante,ar ARG,MF,17,15,0.0,5.0,2021-2022,/en/players/3f79a1c8/Gonzalo-Escalante,3f79a1c8,Alaves,"1,300",14.4,8.0,1.0,55,5.0,3389,Alaves
+,Nahuel Tenaglia,ar ARG,DF,14,12,0.0,0.0,2021-2022,/en/players/66654daa/Nahuel-Tenaglia,66654daa,Alaves,"1,073",11.9,2.0,0.0,55,5.0,3390,Alaves
+,Manu García,es ESP,MF,24,10,1.0,0.0,2021-2022,/en/players/6ed1a2a2/Manu-Garcia,6ed1a2a2,Alaves,"1,077",12.0,3.0,0.0,55,1.0,3360,Alaves
+,Miguel,es ESP,"FW,MF",22,10,1.0,1.0,2021-2022,/en/players/6763373d/Miguel,6763373d,Alaves,829,9.2,2.0,0.0,55,1.0,2665,Alaves
+,Jason,es ESP,MF,14,10,1.0,0.0,2021-2022,/en/players/9038c2a1/Jason,9038c2a1,Alaves,678,7.5,1.0,0.0,55,1.0,1022,Alaves
+,Matt Miazga,us USA,DF,11,9,0.0,0.0,2021-2022,/en/players/9fc0f253/Matt-Miazga,9fc0f253,Alaves,833,9.3,2.0,0.0,55,75.0,3391,Alaves
+,Facundo Pellistri,uy URU,"MF,FW",21,6,0.0,0.0,2021-2022,/en/players/ac7e7b1c/Facundo-Pellistri,c7e7b1c,Alaves,672,7.5,0.0,0.0,55,8.0,3380,Alaves
+,Javi López,es ESP,DF,9,4,0.0,0.0,2021-2022,/en/players/e9ada8cf/Javi-Lopez,9ada8cf,Alaves,462,5.1,2.0,0.0,55,1.0,3378,Alaves
+,Mamadou Sylla,sn SEN,"FW,MF",13,4,0.0,0.0,2021-2022,/en/players/e5ec95f8/Mamadou-Sylla,5ec95f8,Alaves,394,4.4,1.0,0.0,55,34.0,2926,Alaves
+,Antonio Sivera,es ESP,GK,4,3,0.0,0.0,2021-2022,/en/players/9970da54/Antonio-Sivera,9970da54,Alaves,277,3.1,1.0,0.0,55,1.0,3364,Alaves
+,Manu Vallejo,es ESP,"MF,FW",11,2,1.0,1.0,2021-2022,/en/players/0bc4e720/Manu-Vallejo,0bc4e720,Alaves,370,4.1,0.0,0.0,55,1.0,1014,Alaves
+,John Guidetti,se SWE,"FW,MF",10,2,0.0,0.0,2021-2022,/en/players/99bebd12/John-Guidetti,99bebd12,Alaves,279,3.1,2.0,0.0,55,41.0,779,Alaves
+,Tachi,es ESP,DF,5,2,0.0,0.0,2021-2022,/en/players/8b625720/Tachi,8b625720,Alaves,239,2.7,1.0,0.0,55,1.0,2240,Alaves
+,Iván Martín,es ESP,MF,6,2,0.0,0.0,2021-2022,/en/players/ae48c5cb/Ivan-Martin,48c5cb,Alaves,166,1.8,0.0,0.0,55,1.0,2805,Alaves
+,Jesús Owono,gq EQG,GK,1,1,0.0,0.0,2021-2022,/en/players/d6e3d7fb/Jesus-Owono,d6e3d7fb,Alaves,90,1.0,0.0,0.0,55,10.0,3392,Alaves
+,Marc Tenas,es ESP,"MF,DF",3,0,0.0,0.0,2021-2022,/en/players/1c5d79e2/Marc-Tenas,1c5d79e2,Alaves,54,0.6,2.0,0.0,55,1.0,3393,Alaves
+,Mircea Alexandru Tirlea,ro ROU,DF,1,0,0.0,0.0,2021-2022,/en/players/683a1d81/Mircea-Alexandru-Tirlea,683a1d81,Alaves,15,0.2,0.0,0.0,55,51.0,3394,Alaves
+,Unai Ropero,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/7868c973/Unai-Ropero,7868c973,Alaves,12,0.1,0.0,0.0,55,1.0,3395,Alaves
+,Tomás Mendes,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/45f771db/Tomas-Mendes,45f771db,Alaves,9,0.1,0.0,0.0,55,1.0,3396,Alaves
+,Saúl García,es ESP,MF,1,0,0.0,0.0,2021-2022,/en/players/dafa5038/Saul-Garcia,dafa5038,Alaves,4,0.0,0.0,0.0,55,1.0,549,Alaves
+,Abdelkabir Abqar,ma MAR,DF,0,0,,,2021-2022,/en/players/2bc7f211/Abdelkabir-Abqar,2bc7f211,Alaves,,,,,55,26.0,2453,Alaves
+,Alex Balboa,gq EQG,MF,0,0,,,2021-2022,/en/players/6e5c5fc7/Alex-Balboa,6e5c5fc7,Alaves,,,,,55,10.0,3397,Alaves
+,George Gagua,ge GEO,FW,0,0,,,2021-2022,/en/players/e66bd684/George-Gagua,66bd684,Alaves,,,,,55,76.0,3398,Alaves
+,Alan Godoy,es ESP,FW,0,0,,,2021-2022,/en/players/01bbb0ad/Alan-Godoy,01bbb0ad,Alaves,,,,,55,1.0,3399,Alaves
+,Taichi Hara,jp JPN,FW,0,0,,,2021-2022,/en/players/1e524738/Taichi-Hara,1e524738,Alaves,,,,,55,54.0,3400,Alaves
+,Oscar Medina,,GK,0,0,,,2021-2022,/en/players/2887b127/Oscar-Medina,2887b127,Alaves,,,,,55,,90046,Alaves
+,Lucas Pérez,es ESP,"FW,MF",0,0,,,2021-2022,/en/players/a300ac7e/Lucas-Perez,300ac7e,Alaves,,,,,55,1.0,489,Alaves
+,Adrian Rodriguez,es ESP,GK,0,0,,,2021-2022,/en/players/bf17fb4a/Adrian-Rodriguez,bf17fb4a,Alaves,,,,,55,1.0,3401,Alaves
+,Iván Sanz,es ESP,,0,0,,,2021-2022,/en/players/7c7b6553/Ivan-Sanz,7c7b6553,Alaves,,,,,55,1.0,90047,Alaves

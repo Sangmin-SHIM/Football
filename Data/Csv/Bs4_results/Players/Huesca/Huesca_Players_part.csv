@@ -1,63 +1,232 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-5644.0,José Luis Vegar,/en/players/e7c93953/Jose-Luis-Vegar,Jose-Luis-Veg,7c93953,es ESP,MF,Huesca
-5645.0,Roberto García,/en/players/b6f452bf/Roberto-Garcia,Roberto-Garci,b6f452bf,es ESP,"DF,MF",Huesca
-5646.0,Francisco Borrego,/en/players/6756842c/Francisco-Borrego,Francisco-Borrego,6756842c,es ESP,DF,Huesca
-5647.0,Ramón,/en/players/7dcc13bf/Ramon,Ramo,7dcc13bf,es ESP,MF,Huesca
-5648.0,Lalo Arantegui,/en/players/22d91311/Lalo-Arantegui,Lalo-Arantegui,22d91311,es ESP,MF,Huesca
-5649.0,Valentino Fiévet,/en/players/83eb683e/Valentino-Fievet,Valentino-Fievet,83eb683e,es ESP,FW,Huesca
-5650.0,Borja Rubiato,/en/players/2195307f/Borja-Rubiato,Borja-Rubiato,2195307f,es ESP,FW,Huesca
-5651.0,Rodrigo Silva,/en/players/9d5bd6d4/Rodrigo-Silva,Rodrigo-Silv,9d5bd6d4,br BRA,FW,Huesca
-5652.0,Reinaldo Alagoano,/en/players/fb1a3b36/Reinaldo-Alagoano,Reinaldo-Alagoano,fb1a3b36,br BRA,FW,Huesca
-5653.0,Daniel Mustafá,/en/players/9381b3e0/Daniel-Mustafa,Daniel-Mustaf,9381b3e0,ps PLE,DF,Huesca
-5654.0,Jorge Larrosa,/en/players/8f803ed4/Jorge-Larrosa,Jorge-Larro,8f803ed4,es ESP,GK,Huesca
-5655.0,Óscar Vega Salinas,/en/players/00050058/Oscar-Vega-Salinas,Oscar-Vega-Sali,50058,es ESP,FW,Huesca
-5656.0,José Antonio Llamas,/en/players/57012fb5/Jose-Antonio-Llamas,Jose-Antonio-Llam,57012fb5,es ESP,DF,Huesca
-5657.0,Rubén Garcés,/en/players/4d2129de/Ruben-Garces,Ruben-Garc,4d2129de,es ESP,DF,Huesca
-5658.0,Ekhi Senar,/en/players/07939240/Ekhi-Senar,Ekhi-S,7939240,es ESP,DF,Huesca
-5659.0,David Vázquez,/en/players/deb0ccb5/David-Vazquez,David-Vazquez,deb0ccb5,es ESP,MF,Huesca
-5660.0,Carlos David,/en/players/f4dae7af/Carlos-David,Carlos-David,f4dae7af,es ESP,DF,Huesca
-5661.0,Francesco Scardina,/en/players/61c18f85/Francesco-Scardina,Francesco-Scardi,61c18f85,it ITA,DF,Huesca
-5662.0,Antonio Pérez,/en/players/da1f9e36/Antonio-Perez,Antonio-Perez,da1f9e36,es ESP,DF,Huesca
-5663.0,Álex Bernal,/en/players/288f8c08/Alex-Bernal,Alex-B,288f8c08,es ESP,MF,Huesca
-5664.0,Saihou Gassama,/en/players/6f4eed35/Saihou-Gassama,Saihou-Gassam,6f4eed35,gm GAM,MF,Huesca
-5665.0,Chus Sosa,/en/players/65f98aa6/Chus-Sosa,Chus-So,65f98aa6,es ESP,MF,Huesca
-5666.0,Álex,/en/players/3b8a3d32/Alex,Alex,3b8a3d32,es ESP,DF,Huesca
-5667.0,Lucas Elbaile,/en/players/490b6af7/Lucas-Elbaile,Lucas-Elbai,490b6af7,es ESP,MF,Huesca
-5668.0,Ramón Murillo,/en/players/6fe43a38/Ramon-Murillo,Ramon-Murillo,6fe43a38,es ESP,MF,Huesca
-5669.0,Óscar Ramírez,/en/players/45cd22ae/Oscar-Ramirez,Oscar-Ramirez,45cd22ae,es ESP,DF,Huesca
-5670.0,Nagore,/en/players/86eeca16/Nagore,Nago,86eeca16,es ESP,DF,Huesca
-5671.0,Jonathan Moya,/en/players/3f464d48/Jonathan-Moya,Jonathan-Mo,3f464d48,cr CRC,FW,Huesca
-5672.0,Aly Coulibaly,/en/players/415290df/Aly-Coulibaly,Aly-Coulib,415290df,fr FRA,MF,Huesca
-5673.0,Mika,/en/players/00b61f8e/Mika,Mik,00b61f8e,es ESP,FW,Huesca
-5674.0,Carlos Casero,/en/players/b4822e6b/Carlos-Casero,Carlos-Casero,b4822e6b,es ESP,DF,Huesca
-5675.0,Boris Cmiljanić,/en/players/2d1c5796/Boris-Cmiljanic,Boris-Cmiljanic,2d1c5796,me MNE,FW,Huesca
-5676.0,Javito,/en/players/2276f5be/Javito,Javito,2276f5be,es ESP,"DF,MF",Huesca
-5677.0,Agus Alonso,/en/players/5788870f/Agus-Alonso,Agus-Alonso,5788870f,es ESP,FW,Huesca
-5678.0,Jorge Conte,/en/players/acc86643/Jorge-Conte,Jorge-Cont,cc86643,es ESP,FW,Huesca
-5679.0,Dieste,/en/players/08e3f8fe/Dieste,Diest,08e3f8fe,es ESP,FW,Huesca
-5680.0,Gonzo,/en/players/cfe88a3c/Gonzo,Gonzo,cfe88a3c,es ESP,GK,Huesca
-5681.0,Gabriel Lorente,/en/players/d5e2cf66/Gabriel-Lorente,Gabriel-Lorent,d5e2cf66,es ESP,MF,Huesca
-5682.0,Antonio Valera,/en/players/8b7b6775/Antonio-Valera,Antonio-V,8b7b6775,es ESP,GK,Huesca
-5683.0,Damián Musto,/en/players/74e0a984/Damian-Musto,Damian-Musto,74e0a984,ar ARG,"MF,DF",Huesca
-5684.0,Serdar Gürler,/en/players/8d2ad5c0/Serdar-Gurler,Serdar-Gu,8d2ad5c0,tr TUR,MF,Huesca
-5685.0,Jose Uche,/en/players/b048580f/Jose-Uche,Jose-Uch,b048580f,es ESP,MF,Huesca
-5686.0,Shinji Okazaki,/en/players/68796d61/Shinji-Okazaki,Shinji-Okazaki,68796d61,jp JPN,FW,Huesca
-5687.0,Josué Sá,/en/players/a72c139d/Josue-Sa,Josue-S,72c139d,pt POR,DF,Huesca
-5688.0,Sergio Gómez,/en/players/01e5f06e/Sergio-Gomez,Sergio-Gomez,01e5f06e,es ESP,"MF,FW",Huesca
-5689.0,Toni Datković,/en/players/0893e14b/Toni-Datkovic,Toni-Datkovic,0893e14b,hr CRO,DF,Huesca
-5690.0,Kelechi Nwakali,/en/players/877f31c2/Kelechi-Nwakali,Kelechi-Nwakali,877f31c2,ng NGA,MF,Huesca
-5691.0,Kevin Omoruyi,/en/players/4e446d39/Kevin-Omoruyi,Kevin-Omoruyi,4e446d39,bt BHU,DF,Huesca
-5692.0,Juan Peñaloza,/en/players/96b82656/Juan-Penaloza,Juan-Penaloz,96b82656,co COL,MF,Huesca
-5693.0,Denis Vavro,/en/players/08990838/Denis-Vavro,Denis-Vavro,8990838,sk SVK,DF,Huesca
-5694.0,Javier Gasca,/en/players/7e7137c9/Javier-Gasca,Javier-Gasc,7e7137c9,es ESP,GK,Huesca
-5695.0,Florian Miguel,/en/players/b66d1d8a/Florian-Miguel,Florian-Migu,b66d1d8a,fr FRA,DF,Huesca
-5696.0,Julio Buffarini,/en/players/66d9f8ee/Julio-Buffarini,Julio-Buffarini,66d9f8ee,ar ARG,"DF,MF",Huesca
-5697.0,Adolfo Gaich,/en/players/8dfed6e9/Adolfo-Gaich,Adolfo-Gaich,8dfed6e9,ar ARG,FW,Huesca
-5698.0,Isidro Pitta,/en/players/e9fc7295/Isidro-Pitta,Isidro-Pitt,9fc7295,py PAR,FW,Huesca
-5699.0,Manuel Rico,/en/players/9a0fa401/Manuel-Rico,Manuel-Rico,9a0fa401,es ESP,FW,Huesca
-5700.0,Pablo Tomeo,/en/players/d47b67ed/Pablo-Tomeo,Pablo-Tomeo,d47b67ed,es ESP,MF,Huesca
-5701.0,Hugo Anglada,/en/players/cc3a680d/Hugo-Anglada,Hugo-Anglad,cc3a680d,es ESP,DF,Huesca
-5702.0,Esteban Aparicio,/en/players/3c428f1a/Esteban-Aparicio,Esteban-Aparicio,3c428f1a,es ESP,MF,Huesca
-5703.0,Roberto Barba,/en/players/96cf8442/Roberto-Barba,Roberto-Barb,96cf8442,es ESP,MF,Huesca
-5704.0,Alberto Fuentes,/en/players/ff5d5971/Alberto-Fuentes,Alberto-Fuent,ff5d5971,es ESP,MF,Huesca
-5705.0,Tiago Martins,/en/players/4fcc435d/Tiago-Martins,Tiago-Marti,4fcc435d,pt POR,GK,Huesca
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+9922.0,﻿Rubén Castro,/en/players/d109f62b/Ruben-Castro,Ruben-Castro,d109f62b,es ESP,"FW,MF",Huesca
+9923.0,Juanjo Camacho,/en/players/1a1609ab/Juanjo-Camacho,Juanjo-Camacho,1a1609ab,es ESP,MF,Huesca
+9924.0,Chechu,/en/players/e98f3a6a/Chechu,Chechu,98f3a6a,es ESP,DF,Huesca
+9925.0,Eduardo Navarro,/en/players/f5caacf3/Eduardo-Navarro,Eduardo-Navarro,f5caacf3,es ESP,GK,Huesca
+9926.0,Luis Helguera,/en/players/873ff2a7/Luis-Helguera,Luis-Helgu,873ff2a7,es ESP,MF,Huesca
+9927.0,Roberto,/en/players/ce05814a/Roberto,Roberto,ce05814a,es ESP,FW,Huesca
+9928.0,Lluís Sastre,/en/players/5f186f5c/Lluis-Sastre,Lluis-Sast,5f186f5c,es ESP,MF,Huesca
+9929.0,Sebastián Corona,/en/players/d2aedc78/Sebastian-Corona,Sebastian-Coro,d2aedc78,es ESP,DF,Huesca
+9930.0,José Luis Vegar,/en/players/e7c93953/Jose-Luis-Vegar,Jose-Luis-Veg,7c93953,es ESP,MF,Huesca
+9931.0,Roberto García,/en/players/b6f452bf/Roberto-Garcia,Roberto-Garci,b6f452bf,es ESP,"DF,MF",Huesca
+9932.0,Francisco Borrego,/en/players/6756842c/Francisco-Borrego,Francisco-Borrego,6756842c,es ESP,DF,Huesca
+9933.0,Adrián Ripa,/en/players/c5a2ecfa/Adrian-Ripa,Adrian-Ri,c5a2ecfa,es ESP,DF,Huesca
+9934.0,Jonan García,/en/players/f569bf02/Jonan-Garcia,Jonan-Garci,f569bf02,es ESP,MF,Huesca
+9935.0,Baltasar Rigo,/en/players/b80570db/Baltasar-Rigo,Baltasar-Rigo,b80570db,es ESP,DF,Huesca
+9936.0,Edu Roldán,/en/players/13122bd9/Edu-Roldan,Edu-Rold,13122bd9,es ESP,MF,Huesca
+9937.0,Julián Vara,/en/players/5c92e249/Julian-Vara,Julian-V,5c92e249,es ESP,"DF,FW",Huesca
+9938.0,Jon Erice,/en/players/39da8b1f/Jon-Erice,Jon-Eric,39da8b1f,es ESP,MF,Huesca
+9939.0,Nicolás Medina,/en/players/aeada259/Nicolas-Medina,Nicolas-Medi,da259,ar ARG,MF,Huesca
+9940.0,Miguel Martínez,/en/players/29d6d13c/Miguel-Martinez,Miguel-Martinez,29d6d13c,es ESP,GK,Huesca
+9941.0,Joaquín Sorribas,/en/players/d3b37f79/Joaquin-Sorribas,Joaquin-Sorrib,d3b37f79,es ESP,MF,Huesca
+9942.0,Ramón,/en/players/7dcc13bf/Ramon,Ramo,7dcc13bf,es ESP,MF,Huesca
+9943.0,Jokin Esparza,/en/players/04db7b72/Jokin-Esparza,Jokin-Esparz,04db7b72,es ESP,"FW,MF",Huesca
+9944.0,Lalo Arantegui,/en/players/22d91311/Lalo-Arantegui,Lalo-Arantegui,22d91311,es ESP,MF,Huesca
+9945.0,Felipe Manoel,/en/players/80af5ae3/Felipe-Manoel,Felipe-Mano,80af5ae3,br BRA,MF,Huesca
+9946.0,Valentino Fiévet,/en/players/83eb683e/Valentino-Fievet,Valentino-Fievet,83eb683e,es ESP,FW,Huesca
+9947.0,Mikel Rico,/en/players/def69cd0/Mikel-Rico,Mikel-Rico,def69cd0,es ESP,MF,Huesca
+9948.0,Toni Doblas,/en/players/d5c35223/Toni-Doblas,Toni-Dob,d5c35223,es ESP,GK,Huesca
+9949.0,Moisés,/en/players/e3415193/Moises,Moi,3415193,es ESP,FW,Huesca
+9950.0,Juanma,/en/players/396b863a/Juanma,Juanm,396b863a,es ESP,DF,Huesca
+9951.0,Iriome González,/en/players/6e19f4fb/Iriome-Gonzalez,Iriome-Gonzalez,6e19f4fb,es ESP,MF,Huesca
+9952.0,Borja Rubiato,/en/players/2195307f/Borja-Rubiato,Borja-Rubiato,2195307f,es ESP,FW,Huesca
+9953.0,Ion Echaide,/en/players/2ad367bb/Ion-Echaide,Ion-Echaid,2ad367bb,es ESP,DF,Huesca
+9954.0,Víctor Pérez,/en/players/5918a484/Victor-Perez,Victor-Perez,5918a484,es ESP,MF,Huesca
+9955.0,Neru,/en/players/1c8dd214/Neru,Neru,1c8dd214,es ESP,DF,Huesca
+9956.0,Francisco Gallardo,/en/players/be80c87c/Francisco-Gallardo,Francisco-Gallardo,be80c87c,es ESP,MF,Huesca
+9957.0,Rodrigo Silva,/en/players/9d5bd6d4/Rodrigo-Silva,Rodrigo-Silv,9d5bd6d4,br BRA,FW,Huesca
+9958.0,Reinaldo Alagoano,/en/players/fb1a3b36/Reinaldo-Alagoano,Reinaldo-Alagoano,fb1a3b36,br BRA,FW,Huesca
+9959.0,Vicente Pascual,/en/players/41ee1744/Vicente-Pascual,Vicente-Pascu,41ee1744,es ESP,MF,Huesca
+9960.0,Daniel Mustafá,/en/players/9381b3e0/Daniel-Mustafa,Daniel-Mustaf,9381b3e0,ps PLE,DF,Huesca
+9961.0,Jorge Larrosa,/en/players/8f803ed4/Jorge-Larrosa,Jorge-Larro,8f803ed4,es ESP,GK,Huesca
+9962.0,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,Francisco-Molinero,2cea96ce,es ESP,DF,Huesca
+9963.0,Andrés Fernández,/en/players/307fcd26/Andres-Fernandez,Andres-Fernandez,307fcd26,es ESP,GK,Huesca
+9964.0,Gilvan Gomes,/en/players/6e71e066/Gilvan-Gomes,Gilvan-Gom,6e71e066,br BRA,MF,Huesca
+9965.0,Alberto Marcos Rey,/en/players/7fd2179f/Alberto-Marcos-Rey,Alberto-Marcos-R,7fd2179f,es ESP,DF,Huesca
+9966.0,David Bauzá,/en/players/8969dfa6/David-Bauza,David-Bauz,8969dfa6,es ESP,MF,Huesca
+9967.0,Tariq Spezie,/en/players/79c7a874/Tariq-Spezie,Tariq-Spezi,79c7a874,es ESP,FW,Huesca
+9968.0,Juan Cruz Ochoa,/en/players/301ff22a/Juan-Cruz-Ochoa,Juan-Cruz-Ocho,301ff22a,es ESP,DF,Huesca
+9969.0,Jesús Cabrero,/en/players/d5e95d46/Jesus-Cabrero,Jesus-Cabrero,d5e95d46,es ESP,GK,Huesca
+9970.0,Toni Dovale,/en/players/d4b9adcf/Toni-Dovale,Toni-Dov,d4b9adcf,es ESP,"DF,MF",Huesca
+9971.0,Iñigo Pérez,/en/players/bc61cc65/Inigo-Perez,Inigo-Perez,bc61cc65,es ESP,MF,Huesca
+9972.0,Marco Navas,/en/players/194ed492/Marco-Navas,Marco-Nav,194ed492,es ESP,MF,Huesca
+9973.0,Óscar Vega Salinas,/en/players/00050058/Oscar-Vega-Salinas,Oscar-Vega-Sali,00050058,es ESP,FW,Huesca
+9974.0,Luis García,/en/players/a716e5a4/Luis-Garcia,Luis-Garci,716e5a4,es ESP,GK,Huesca
+9975.0,Rafael Clavero,/en/players/1590d66a/Rafael-Clavero,Rafael-Clavero,1590d66a,es ESP,DF,Huesca
+9976.0,Rafel Sastre,/en/players/477fc284/Rafel-Sastre,Rafel-Sast,477fc284,es ESP,DF,Huesca
+9977.0,Josetxo,/en/players/c1a297b4/Josetxo,Josetxo,c1a297b4,es ESP,DF,Huesca
+9978.0,Omar Ramos,/en/players/0657888a/Omar-Ramos,Omar-Ramo,0657888a,es ESP,"FW,MF",Huesca
+9979.0,José Antonio Llamas,/en/players/57012fb5/Jose-Antonio-Llamas,Jose-Antonio-Llam,57012fb5,es ESP,DF,Huesca
+9980.0,Antonio Núñez,/en/players/df89070b/Antonio-Nunez,Antonio-Nunez,df89070b,es ESP,MF,Huesca
+9981.0,Mario Rosas,/en/players/81718397/Mario-Rosas,Mario-Ro,81718397,es ESP,MF,Huesca
+9982.0,David Rivas,/en/players/56da6c6e/David-Rivas,David-Riv,56da6c6e,es ESP,DF,Huesca
+9983.0,Jorge Larena,/en/players/3de25195/Jorge-Larena,Jorge-L,3de25195,es ESP,MF,Huesca
+9984.0,Manu Molina,/en/players/4a541583/Manu-Molina,Manu-Moli,4a541583,es ESP,MF,Huesca
+9985.0,Javi Martínez,/en/players/59359d6b/Javi-Martinez,Javi-Martinez,59359d6b,es ESP,MF,Huesca
+9986.0,Toni,/en/players/248cc93a/Toni,Toni,248cc93a,es ESP,DF,Huesca
+9987.0,Bernardo Domínguez,/en/players/15394beb/Bernardo-Dominguez,Bernardo-Dominguez,15394beb,es ESP,GK,Huesca
+9988.0,Carlos Lázaro,/en/players/785894a8/Carlos-Lazaro,Carlos-Lazaro,785894a8,es ESP,MF,Huesca
+9989.0,Rubén Garcés,/en/players/4d2129de/Ruben-Garces,Ruben-Garc,4d2129de,es ESP,DF,Huesca
+9990.0,Ekhi Senar,/en/players/07939240/Ekhi-Senar,Ekhi-S,07939240,es ESP,DF,Huesca
+9991.0,David López,/en/players/f03f284b/David-Lopez,David-Lopez,f03f284b,es ESP,"DF,MF",Huesca
+9992.0,Carlos Diogo,/en/players/8da138d9/Carlos-Diogo,Carlos-Diogo,8da138d9,uy URU,"DF,MF",Huesca
+9993.0,Nacho Novo,/en/players/8391cd3f/Nacho-Novo,Nacho-Novo,8391cd3f,es ESP,FW,Huesca
+9994.0,Borja Bastón,/en/players/8c44e37b/Borja-Baston,Borja-Basto,8c44e37b,es ESP,FW,Huesca
+9995.0,Daniel Pacheco,/en/players/5b2a4b8d/Daniel-Pacheco,Daniel-Pacheco,5b2a4b8d,es ESP,"FW,MF",Huesca
+9996.0,Álex Pérez,/en/players/8dac6f70/Alex-Perez,Alex-Perez,8dac6f70,es ESP,DF,Huesca
+9997.0,Sergio Díaz,/en/players/22afdb1b/Sergio-Diaz,Sergio-Diaz,22afdb1b,es ESP,DF,Huesca
+9998.0,Xavi Annunziata,/en/players/e146dbda/Xavi-Annunziata,Xavi-Annunziat,146dbda,es ESP,"FW,MF",Huesca
+9999.0,Miguel Alberto García Díaz,/en/players/57ecb2b9/Miguel-Alberto-Garcia-Diaz,Miguel-Alberto-Garcia-Diaz,57ecb2b9,es ESP,MF,Huesca
+10000.0,Juan Carlos,/en/players/82803509/Juan-Carlos,Juan-Carlo,82803509,es ESP,"FW,MF",Huesca
+10001.0,Marc Martínez,/en/players/7c4764d7/Marc-Martinez,Marc-Martinez,7c4764d7,es ESP,MF,Huesca
+10002.0,David Vázquez,/en/players/deb0ccb5/David-Vazquez,David-Vazquez,deb0ccb5,es ESP,MF,Huesca
+10003.0,﻿Dani Jiménez,/en/players/e4365d4a/Dani-Jimenez,Dani-Jimenez,4365d4a,es ESP,GK,Huesca
+10004.0,Carlos David,/en/players/f4dae7af/Carlos-David,Carlos-David,f4dae7af,es ESP,DF,Huesca
+10005.0,David Morillas,/en/players/9605a60a/David-Morillas,David-Mori,9605a60a,es ESP,DF,Huesca
+10006.0,Guillem,/en/players/560cedf7/Guillem,Guillem,560cedf7,es ESP,FW,Huesca
+10007.0,Manuel,/en/players/b43437c4/Manuel,Manu,b43437c4,es ESP,MF,Huesca
+10008.0,Francesco Scardina,/en/players/61c18f85/Francesco-Scardina,Francesco-Scardi,61c18f85,it ITA,DF,Huesca
+10009.0,Antonio Pérez,/en/players/da1f9e36/Antonio-Perez,Antonio-Perez,da1f9e36,es ESP,DF,Huesca
+10010.0,Josan,/en/players/5b28b2f6/Josan,Jo,5b28b2f6,es ESP,"DF,MF",Huesca
+10011.0,Javi Cabezas,/en/players/18fce040/Javi-Cabezas,Javi-Cabez,18fce040,es ESP,MF,Huesca
+10012.0,Álex Bernal,/en/players/288f8c08/Alex-Bernal,Alex-B,288f8c08,es ESP,MF,Huesca
+10013.0,Saihou Gassama,/en/players/6f4eed35/Saihou-Gassama,Saihou-Gassam,6f4eed35,gm GAM,MF,Huesca
+10014.0,Tyronne,/en/players/f76bbf9c/Tyronne,Tyro,f76bbf9c,es ESP,"FW,MF",Huesca
+10015.0,Chus Sosa,/en/players/65f98aa6/Chus-Sosa,Chus-So,65f98aa6,es ESP,MF,Huesca
+10016.0,José Gaspar,/en/players/921af048/Jose-Gaspar,Jose-G,921af048,es ESP,MF,Huesca
+10017.0,Iñigo Ros,/en/players/bc278eb1/Inigo-Ros,Inigo-Ro,bc278eb1,es ESP,MF,Huesca
+10018.0,Juan Esnáider Ruiz,/en/players/11894e8c/Juan-Esnaider-Ruiz,Juan-Esnaider-Ruiz,11894e8c,es ESP,FW,Huesca
+10019.0,Álex,/en/players/3b8a3d32/Alex,Alex,3b8a3d32,es ESP,DF,Huesca
+10020.0,Lucas Elbaile,/en/players/490b6af7/Lucas-Elbaile,Lucas-Elbai,490b6af7,es ESP,MF,Huesca
+10021.0,Gaspar,/en/players/75e5329b/Gaspar,G,75e5329b,es ESP,DF,Huesca
+10022.0,Ramón Murillo,/en/players/6fe43a38/Ramon-Murillo,Ramon-Murillo,6fe43a38,es ESP,MF,Huesca
+10023.0,Aitor Chueca,/en/players/c917b367/Aitor-Chueca,Aitor-Chuec,c917b367,es ESP,GK,Huesca
+10024.0,Darwin Machís,/en/players/ed6ea4d9/Darwin-Machis,Darwin-Machi,d6ea4d9,ve VEN,"FW,MF",Huesca
+10025.0,Fran Mérida,/en/players/0e50f929/Fran-Merida,Fran-Merid,0e50f929,es ESP,MF,Huesca
+10026.0,Íñigo López,/en/players/8c61ca86/Inigo-Lopez,Inigo-Lopez,8c61ca86,es ESP,DF,Huesca
+10027.0,Christian,/en/players/1d5a68fe/Christian,Christi,1d5a68fe,es ESP,DF,Huesca
+10028.0,Leo Franco,/en/players/c39a5c6b/Leo-Franco,Leo-Franco,c39a5c6b,ar ARG,GK,Huesca
+10029.0,Franck-Yves Bambock,/en/players/7240e475/Franck-Yves-Bambock,Franck-Yves-Bambock,7240e475,fr FRA,MF,Huesca
+10030.0,Luis Fernández,/en/players/63b1f7df/Luis-Fernandez,Luis-Fernandez,63b1f7df,es ESP,"FW,MF",Huesca
+10031.0,Óscar Ramírez,/en/players/45cd22ae/Oscar-Ramirez,Oscar-Ramirez,45cd22ae,es ESP,DF,Huesca
+10032.0,Mikel Arruabarrena,/en/players/ad0c4ebb/Mikel-Arruabarrena,Mikel-Arruab,d0c4ebb,es ESP,FW,Huesca
+10033.0,Óscar Whalley,/en/players/3d763902/Oscar-Whalley,Oscar-Wh,3d763902,es ESP,GK,Huesca
+10034.0,Alexander González,/en/players/f3a39fdd/Alexander-Gonzalez,Alexander-Gonzalez,f3a39fdd,ve VEN,"DF,MF",Huesca
+10035.0,Nagore,/en/players/86eeca16/Nagore,Nago,86eeca16,es ESP,DF,Huesca
+10036.0,Samuel Sáiz,/en/players/13e0eb29/Samuel-Saiz,Samuel-Saiz,13e0eb29,es ESP,"FW,MF",Huesca
+10037.0,Aythami Álvarez,/en/players/3bf6578a/Aythami-Alvarez,Aythami-Alvarez,3bf6578a,es ESP,DF,Huesca
+10038.0,Juan Aguilera,/en/players/18dc8533/Juan-Aguilera,Juan-Agui,18dc8533,es ESP,MF,Huesca
+10039.0,Jesús Valentín,/en/players/2594ee7d/Jesus-Valentin,Jesus-Valenti,2594ee7d,es ESP,DF,Huesca
+10040.0,David Mainz,/en/players/d4498ac2/David-Mainz,David-Mainz,d4498ac2,es ESP,FW,Huesca
+10041.0,Jonathan Moya,/en/players/3f464d48/Jonathan-Moya,Jonathan-Mo,3f464d48,cr CRC,FW,Huesca
+10042.0,Héctor Figueroa,/en/players/b73db047/Hector-Figueroa,Hector-Figuero,b73db047,es ESP,FW,Huesca
+10043.0,Carlos Calvo,/en/players/a444d33f/Carlos-Calvo,Carlos-Calvo,444d33f,es ESP,MF,Huesca
+10044.0,Aly Coulibaly,/en/players/415290df/Aly-Coulibaly,Aly-Coulib,415290df,fr FRA,MF,Huesca
+10045.0,Mika,/en/players/00b61f8e/Mika,Mik,00b61f8e,es ESP,FW,Huesca
+10046.0,Carlos Casero,/en/players/b4822e6b/Carlos-Casero,Carlos-Casero,b4822e6b,es ESP,DF,Huesca
+10047.0,﻿Sergio Herrera,/en/players/a4995f48/Sergio-Herrera,Sergio-H,4995f48,es ESP,GK,Huesca
+10048.0,Gonzalo Melero,/en/players/3902e91b/Gonzalo-Melero,Gonzalo-Melero,3902e91b,es ESP,MF,Huesca
+10049.0,David Ferreiro,/en/players/8970907e/David-Ferreiro,David-Ferreiro,8970907e,es ESP,MF,Huesca
+10050.0,Jair Amador,/en/players/82b27ccb/Jair-Amador,Jair-Amado,82b27ccb,gq EQG,DF,Huesca
+10051.0,Borja Lázaro,/en/players/877476f8/Borja-Lazaro,Borja-Lazaro,877476f8,es ESP,FW,Huesca
+10052.0,Carlos Akapo,/en/players/f2a68b97/Carlos-Akapo,Carlos-Akapo,f2a68b97,gq EQG,DF,Huesca
+10053.0,César Soriano,/en/players/0e41fc77/Cesar-Soriano,Cesar-Soriano,0e41fc77,es ESP,DF,Huesca
+10054.0,Álvaro Vadillo,/en/players/61b62b33/Alvaro-Vadillo,Alvaro-Vadillo,61b62b33,es ESP,MF,Huesca
+10055.0,Vinícius Araújo,/en/players/5d6b9376/Vinicius-Araujo,Vinicius-Araujo,5d6b9376,br BRA,FW,Huesca
+10056.0,David López,/en/players/a698164e/David-Lopez,David-Lopez,698164e,es ESP,MF,Huesca
+10057.0,Urko Vera,/en/players/d8cf0115/Urko-Vera,Urko-V,d8cf0115,es ESP,FW,Huesca
+10058.0,Kilian Grant,/en/players/744e8a52/Kilian-Grant,Kilian-Grant,744e8a52,es ESP,DF,Huesca
+10059.0,Queco Piña,/en/players/ecf25896/Queco-Pina,Queco-Pi,cf25896,es ESP,GK,Huesca
+10060.0,Boris Cmiljanić,/en/players/2d1c5796/Boris-Cmiljanic,Boris-Cmiljanic,2d1c5796,me MNE,FW,Huesca
+10061.0,Javito,/en/players/2276f5be/Javito,Javito,2276f5be,es ESP,"DF,MF",Huesca
+10062.0,Agus Alonso,/en/players/5788870f/Agus-Alonso,Agus-Alonso,5788870f,es ESP,FW,Huesca
+10063.0,Jorge Conte,/en/players/acc86643/Jorge-Conte,Jorge-Cont,cc86643,es ESP,FW,Huesca
+10064.0,Dieste,/en/players/08e3f8fe/Dieste,Diest,08e3f8fe,es ESP,FW,Huesca
+10065.0,Gonzo,/en/players/cfe88a3c/Gonzo,Gonzo,cfe88a3c,es ESP,GK,Huesca
+10066.0,Javi Jiménez,/en/players/9fe99e45/Javi-Jimenez,Javi-Jimenez,9fe99e45,es ESP,GK,Huesca
+10067.0,Álex Remiro,/en/players/374ee424/Alex-Remiro,Alex-Remiro,374ee424,es ESP,GK,Huesca
+10068.0,Jorge Pulido,/en/players/978cd030/Jorge-Pulido,Jorge-Pulido,978cd030,es ESP,DF,Huesca
+10069.0,Cucho,/en/players/71b47ab9/Cucho,Cucho,71b47ab9,co COL,"FW,MF",Huesca
+10070.0,Rajko Brežančić,/en/players/1519a888/Rajko-Brezancic,Rajko-Brezancic,1519a888,rs SRB,DF,Huesca
+10071.0,Ezequiel Ávila,/en/players/253a06b9/Ezequiel-Avila,Ezequiel-Avi,253a06b9,ar ARG,"FW,MF",Huesca
+10072.0,Álex Gallar,/en/players/36d5469c/Alex-Gallar,Alex-G,36d5469c,es ESP,MF,Huesca
+10073.0,Moi Gómez,/en/players/5a626448/Moi-Gomez,Moi-Gomez,5a626448,es ESP,MF,Huesca
+10074.0,Luso,/en/players/9cd41fda/Luso,Luso,9cd41fda,es ESP,"MF,DF",Huesca
+10075.0,Rulo Prieto,/en/players/93ab8e3b/Rulo-Prieto,Rulo-Prieto,93ab8e3b,es ESP,DF,Huesca
+10076.0,Roberto Santamaría,/en/players/bca21ef3/Roberto-Santamaria,Roberto-Santamari,bca21ef3,es ESP,GK,Huesca
+10077.0,Ander Bardají,/en/players/73687f30/Ander-Bardaji,Ander-Bardaji,73687f30,es ESP,GK,Huesca
+10078.0,Gabriel Lorente,/en/players/d5e2cf66/Gabriel-Lorente,Gabriel-Lorent,d5e2cf66,es ESP,MF,Huesca
+10079.0,Antonio Valera,/en/players/8b7b6775/Antonio-Valera,Antonio-V,8b7b6775,es ESP,GK,Huesca
+10080.0,Xabier Etxeita,/en/players/4a895384/Xabier-Etxeita,Xabier-Etxeit,4a895384,es ESP,DF,Huesca
+10081.0,Jorge Miramón,/en/players/7f4c7c9f/Jorge-Miramon,Jorge-Miramo,7f4c7c9f,es ESP,DF,Huesca
+10082.0,Damián Musto,/en/players/74e0a984/Damian-Musto,Damian-Musto,74e0a984,ar ARG,"MF,DF",Huesca
+10083.0,Cristian Rivera,/en/players/8ef81d2d/Cristian-Rivera,Cristian-Riv,8ef81d2d,es ESP,MF,Huesca
+10084.0,Enric Gallego,/en/players/82e9b89d/Enric-Gallego,Enric-Gallego,82e9b89d,es ESP,FW,Huesca
+10085.0,Javi Galán,/en/players/a4b00319/Javi-Galan,Javi-G,4b00319,es ESP,"DF,FW",Huesca
+10086.0,Yangel Herrera,/en/players/e778654a/Yangel-Herrera,Yangel-H,778654a,ve VEN,"MF,DF",Huesca
+10087.0,Aleksandar Jovanović,/en/players/129dd8e7/Aleksandar-Jovanovic,Aleksandar-Jovanovic,129dd8e7,rs SRB,GK,Huesca
+10088.0,Pablo Insua,/en/players/4b5e7e90/Pablo-Insua,Pablo-Insu,4b5e7e90,es ESP,DF,Huesca
+10089.0,Rúben Semedo,/en/players/c904f3d5/Ruben-Semedo,Ruben-Semedo,c904f3d5,pt POR,DF,Huesca
+10090.0,Adrián Diéguez,/en/players/70438d35/Adrian-Dieguez,Adrian-Dieguez,70438d35,es ESP,DF,Huesca
+10091.0,Juanpi,/en/players/d79afcfc/Juanpi,Juanpi,d79afcfc,ve VEN,"MF,FW",Huesca
+10092.0,Martín Mantovani,/en/players/4ffb647d/Martin-Mantovani,Martin-Mantovani,4ffb647d,ar ARG,DF,Huesca
+10093.0,Samuele Longo,/en/players/1163de29/Samuele-Longo,Samuele-Longo,1163de29,it ITA,FW,Huesca
+10094.0,Axel Werner,/en/players/c0b1a6da/Axel-Werner,Axel-W,c0b1a6da,ar ARG,GK,Huesca
+10095.0,Luisinho,/en/players/a7f00c8c/Luisinho,Luisinho,7f00c8c,pt POR,DF,Huesca
+10096.0,Serdar Gürler,/en/players/8d2ad5c0/Serdar-Gurler,Serdar-Gu,8d2ad5c0,tr TUR,MF,Huesca
+10097.0,Jose Uche,/en/players/b048580f/Jose-Uche,Jose-Uch,b048580f,es ESP,MF,Huesca
+10098.0,Pedro Mosquera,/en/players/c5fa58ea/Pedro-Mosquera,Pedro-Mosqu,c5fa58ea,es ESP,MF,Huesca
+10099.0,Álvaro Fernández,/en/players/f127d782/Alvaro-Fernandez,Alvaro-Fernandez,f127d782,es ESP,GK,Huesca
+10100.0,Shinji Okazaki,/en/players/68796d61/Shinji-Okazaki,Shinji-Okazaki,68796d61,jp JPN,FW,Huesca
+10101.0,Miguel Juan Llambrich,/en/players/d83f09ff/Miguel-Juan-Llambrich,Miguel-Juan-Llambrich,d83f09ff,es ESP,DF,Huesca
+10102.0,Josué Sá,/en/players/a72c139d/Josue-Sa,Josue-S,72c139d,pt POR,DF,Huesca
+10103.0,Dani Raba,/en/players/ea6a7ab4/Dani-Raba,Dani-Rab,6a7ab4,es ESP,"FW,MF",Huesca
+10104.0,Sergio Gómez,/en/players/01e5f06e/Sergio-Gomez,Sergio-Gomez,01e5f06e,es ESP,"MF,FW",Huesca
+10105.0,Eugeni Valderrama,/en/players/a75b4071/Eugeni-Valderrama,Eugeni-Valderram,75b4071,es ESP,MF,Huesca
+10106.0,Pedro López Muñoz,/en/players/a60823a4/Pedro-Lopez-Munoz,Pedro-Lopez-Munoz,60823a4,es ESP,DF,Huesca
+10107.0,Cristo González,/en/players/896b5df2/Cristo-Gonzalez,Cristo-Gonzalez,896b5df2,es ESP,"MF,FW",Huesca
+10108.0,Toni Datković,/en/players/0893e14b/Toni-Datkovic,Toni-Datkovic,0893e14b,hr CRO,DF,Huesca
+10109.0,Rafa Mir,/en/players/bbf5c11b/Rafa-Mir,Rafa-Mi,bbf5c11b,es ESP,"FW,MF",Huesca
+10110.0,Dani Escriche,/en/players/5a36f180/Dani-Escriche,Dani-Escrich,5a36f180,es ESP,FW,Huesca
+10111.0,Rubén Yáñez,/en/players/039ae103/Ruben-Yanez,Ruben-Yanez,039ae103,es ESP,GK,Huesca
+10112.0,Kike Hermoso,/en/players/dea912dc/Kike-Hermoso,Kike-Hermoso,dea912dc,es ESP,DF,Huesca
+10113.0,Jordi Mboula,/en/players/4887118d/Jordi-Mboula,Jordi-Mbou,4887118d,es ESP,FW,Huesca
+10114.0,Cheick Doukouré,/en/players/e208bcc8/Cheick-Doukoure,Cheick-Doukou,208bcc8,ci CIV,MF,Huesca
+10115.0,Ivi,/en/players/d2fa73e7/Ivi,Ivi,d2fa73e7,es ESP,FW,Huesca
+10116.0,Kelechi Nwakali,/en/players/877f31c2/Kelechi-Nwakali,Kelechi-Nwakali,877f31c2,ng NGA,MF,Huesca
+10117.0,Jaime Seoane,/en/players/a62b4888/Jaime-Seoane,Jaime-Seo,62b4888,es ESP,MF,Huesca
+10118.0,Joaquín Muñoz,/en/players/e9fbcc21/Joaquin-Munoz,Joaquin-Munoz,9fbcc21,es ESP,MF,Huesca
+10119.0,Kevin Omoruyi,/en/players/4e446d39/Kevin-Omoruyi,Kevin-Omoruyi,4e446d39,bt BHU,DF,Huesca
+10120.0,Juan Peñaloza,/en/players/96b82656/Juan-Penaloza,Juan-Penaloz,96b82656,co COL,MF,Huesca
+10121.0,﻿Dimitris Siovas,/en/players/92d38e6c/Dimitris-Siovas,Dimitris-Siov,92d38e6c,gr GRE,DF,Huesca
+10122.0,Pablo Maffeo,/en/players/5db04597/Pablo-Maffeo,Pablo-Maffeo,5db04597,es ESP,DF,Huesca
+10123.0,Sandro Ramírez,/en/players/833fb62e/Sandro-Ramirez,Sandro-Ramirez,833fb62e,es ESP,"FW,MF",Huesca
+10124.0,Borja García,/en/players/e7f4603c/Borja-Garcia,Borja-Garci,7f4603c,es ESP,"MF,FW",Huesca
+10125.0,Javier Ontiveros,/en/players/a83d8b0c/Javier-Ontiveros,Javier-Ontivero,83d8b0c,es ESP,"FW,MF",Huesca
+10126.0,Denis Vavro,/en/players/08990838/Denis-Vavro,Denis-Vavro,08990838,sk SVK,DF,Huesca
+10127.0,Gastón Silva,/en/players/47d493c3/Gaston-Silva,Gaston-Silv,47d493c3,uy URU,DF,Huesca
+10128.0,Javier Gasca,/en/players/7e7137c9/Javier-Gasca,Javier-Gasc,7e7137c9,es ESP,GK,Huesca
+10129.0,Marc Mateu,/en/players/ed90fc36/Marc-Mateu,Marc-Mateu,d90fc36,es ESP,"MF,DF",Huesca
+10130.0,Florian Miguel,/en/players/b66d1d8a/Florian-Miguel,Florian-Migu,b66d1d8a,fr FRA,DF,Huesca
+10131.0,Ignasi Miquel,/en/players/174f09a6/Ignasi-Miquel,Ignasi-Miqu,174f09a6,es ESP,DF,Huesca
+10132.0,Andrei Ratiu,/en/players/b1b99435/Andrei-Ratiu,Andrei-Ratiu,b1b99435,ro ROU,"DF,MF",Huesca
+10133.0,Cristian Salvador,/en/players/6b121593/Cristian-Salvador,Cristian-Salvado,6b121593,es ESP,"DF,MF",Huesca
+10134.0,David Timor,/en/players/174651c8/David-Timor,David-Timo,174651c8,es ESP,"MF,DF",Huesca
+10135.0,Julio Buffarini,/en/players/66d9f8ee/Julio-Buffarini,Julio-Buffarini,66d9f8ee,ar ARG,"DF,MF",Huesca
+10136.0,Adolfo Gaich,/en/players/8dfed6e9/Adolfo-Gaich,Adolfo-Gaich,8dfed6e9,ar ARG,FW,Huesca
+10137.0,Pablo Martínez,/en/players/ecc77652/Pablo-Martinez,Pablo-Martinez,cc77652,es ESP,"MF,FW",Huesca
+10138.0,Gerard Valentín,/en/players/9d4c3227/Gerard-Valentin,Gerard-Valenti,9d4c3227,es ESP,"MF,DF",Huesca
+10139.0,Darío Poveda,/en/players/cbdf7d5c/Dario-Poveda,Dario-Poved,cbdf7d5c,es ESP,FW,Huesca
+10140.0,Isidro Pitta,/en/players/e9fc7295/Isidro-Pitta,Isidro-Pitt,9fc7295,py PAR,FW,Huesca
+10141.0,Lago Junior,/en/players/360d70f8/Lago-Junior,Lago-Junio,360d70f8,ci CIV,MF,Huesca
+10142.0,Enzo Lombardo,/en/players/e063f5a2/Enzo-Lombardo,Enzo-Lombardo,063f5a2,fr FRA,MF,Huesca
+10143.0,Manuel Rico,/en/players/9a0fa401/Manuel-Rico,Manuel-Rico,9a0fa401,es ESP,FW,Huesca
+10144.0,Euse,/en/players/4aab1808/Euse,Eu,4aab1808,es ESP,DF,Huesca
+10145.0,Pablo Tomeo,/en/players/d47b67ed/Pablo-Tomeo,Pablo-Tomeo,d47b67ed,es ESP,MF,Huesca
+10146.0,Hugo Anglada,/en/players/cc3a680d/Hugo-Anglada,Hugo-Anglad,cc3a680d,es ESP,DF,Huesca
+10147.0,Esteban Aparicio,/en/players/3c428f1a/Esteban-Aparicio,Esteban-Aparicio,3c428f1a,es ESP,MF,Huesca
+10148.0,Roberto Barba,/en/players/96cf8442/Roberto-Barba,Roberto-Barb,96cf8442,es ESP,MF,Huesca
+10149.0,Gerard Barri,/en/players/2fadbf51/Gerard-Barri,Gerard-Barri,2fadbf51,es ESP,DF,Huesca
+10150.0,Alberto Fuentes,/en/players/ff5d5971/Alberto-Fuentes,Alberto-Fuent,ff5d5971,es ESP,MF,Huesca
+10151.0,Tiago Martins,/en/players/4fcc435d/Tiago-Martins,Tiago-Marti,4fcc435d,pt POR,GK,Huesca
+10152.0,San Román,/en/players/f08ccd2d/San-Roman,San-Rom,f08ccd2d,es ESP,GK,Huesca

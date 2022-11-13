@@ -1,472 +1,472 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
-,﻿José Moratón,es ESP,DF,34,34,0.0,3.0,2002-2003,f197b95a,Racing-Santander,"3,016",33.5,8.0,0.0,52.0,1.0,2829.0,Racing-Santander
-,Juanma,es ESP,DF,32,32,2.0,1.0,2002-2003,209581c1,Racing-Santander,"2,880",32.0,11.0,0.0,52.0,1.0,,Racing-Santander
-,Pedro Munitis,es ESP,FW,30,30,3.0,8.0,2002-2003,61b5cd53,Racing-Santander,"2,624",29.2,6.0,0.0,52.0,1.0,,Racing-Santander
-,Javi Guerrero,es ESP,FW,35,29,8.0,15.0,2002-2003,bd4345ec,Racing-Santander,"2,392",26.6,3.0,0.0,52.0,1.0,,Racing-Santander
-,Erwin Lemmens,be BEL,GK,27,27,0.0,0.0,2002-2003,7a1a4c9,Racing-Santander,"2,358",26.2,3.0,1.0,52.0,27.0,2830.0,Racing-Santander
-,Mehdi Nafti,tn TUN,MF,31,26,0.0,2.0,2002-2003,93e31883,Racing-Santander,"2,374",26.4,15.0,1.0,52.0,46.0,,Racing-Santander
-,Diego Mateo,ar ARG,"DF,MF",25,25,3.0,0.0,2002-2003,6ff0efaa,Racing-Santander,"2,128",23.6,7.0,0.0,52.0,5.0,,Racing-Santander
-,Javi Pineda,es ESP,DF,24,21,0.0,0.0,2002-2003,4f3c2c52,Racing-Santander,"1,912",21.2,4.0,0.0,52.0,1.0,2831.0,Racing-Santander
-,Yossi Benayoun,il ISR,MF,31,21,4.0,4.0,2002-2003,8414bb13,Racing-Santander,"1,848",20.5,1.0,0.0,52.0,45.0,2832.0,Racing-Santander
-,Mario Regueiro,uy URU,"FW,MF",32,20,1.0,5.0,2002-2003,c792d665,Racing-Santander,"1,977",22.0,7.0,0.0,52.0,8.0,,Racing-Santander
-,Ismael Ruiz,es ESP,MF,25,20,0.0,1.0,2002-2003,13401e74,Racing-Santander,"1,798",20.0,6.0,0.0,52.0,1.0,,Racing-Santander
-,Neru,es ESP,DF,19,18,0.0,0.0,2002-2003,1c8dd214,Racing-Santander,"1,631",18.1,6.0,1.0,52.0,1.0,2834.0,Racing-Santander
-,Sietes,es ESP,DF,17,17,3.0,0.0,2002-2003,bae8225f,Racing-Santander,"1,482",16.5,5.0,0.0,52.0,1.0,2835.0,Racing-Santander
-,David Coromina,es ESP,DF,16,16,0.0,0.0,2002-2003,bb603172,Racing-Santander,"1,419",15.8,7.0,1.0,52.0,1.0,2836.0,Racing-Santander
-,Rodolfo Bodipo,gq EQG,FW,25,16,4.0,9.0,2002-2003,6cf2bc0e,Racing-Santander,"1,346",15.0,2.0,1.0,52.0,10.0,,Racing-Santander
-,Txiki,es ESP,MF,21,12,1.0,0.0,2002-2003,c52d35e,Racing-Santander,961,10.7,0.0,0.0,52.0,1.0,2837.0,Racing-Santander
-,José María Ceballos,es ESP,GK,10,9,0.0,0.0,2002-2003,60bed8c0,Racing-Santander,882,9.8,0.0,0.0,52.0,1.0,2838.0,Racing-Santander
-,Pablo Casar,es ESP,DF,10,9,1.0,3.0,2002-2003,6c5d2f,Racing-Santander,787,8.7,1.0,1.0,52.0,1.0,,Racing-Santander
-,Pablo Lago,es ESP,MF,11,7,0.0,0.0,2002-2003,1a94953,Racing-Santander,475,5.3,2.0,0.0,52.0,1.0,2839.0,Racing-Santander
-,Pablo Sierra,es ESP,MF,8,6,0.0,1.0,2002-2003,224f3a5f,Racing-Santander,564,6.3,0.0,0.0,52.0,1.0,2840.0,Racing-Santander
-,Diego Alonso,uy URU,FW,23,5,0.0,1.0,2002-2003,21a7914b,Racing-Santander,714,7.9,3.0,0.0,52.0,8.0,,Racing-Santander
-,Fernando Morán,es ESP,MF,8,4,1.0,0.0,2002-2003,0fce6e4c,Racing-Santander,400,4.4,2.0,0.0,52.0,1.0,2841.0,Racing-Santander
-,Sergio Matabuena,es ESP,MF,12,3,0.0,0.0,2002-2003,93faf8c3,Racing-Santander,338,3.8,2.0,0.0,52.0,1.0,,Racing-Santander
-,Claudio Arzeno,ar ARG,DF,4,3,0.0,0.0,2002-2003,22ba1000,Racing-Santander,308,3.4,3.0,1.0,52.0,5.0,,Racing-Santander
-,Ilan Bakhar,il ISR,DF,2,2,0.0,0.0,2002-2003,c4028a33,Racing-Santander,180,2.0,0.0,0.0,52.0,45.0,2842.0,Racing-Santander
-,Borja,es ESP,GK,2,2,0.0,0.0,2002-2003,2fbc90ef,Racing-Santander,180,2.0,0.0,0.0,52.0,1.0,2843.0,Racing-Santander
-,Daniel Sarabia i Ricart,es ESP,FW,6,2,0.0,0.0,2002-2003,4e455637,Racing-Santander,162,1.8,1.0,0.0,52.0,1.0,2844.0,Racing-Santander
-,Messias Conceição Dos Santos,br BRA,MF,4,1,0.0,0.0,2002-2003,c88874fb,Racing-Santander,147,1.6,0.0,0.0,52.0,2.0,2845.0,Racing-Santander
-,Icham Mouissi,dz ALG,DF,1,1,,0.0,2002-2003,c1294e4,Racing-Santander,68,0.8,0.0,0.0,52.0,37.0,2846.0,Racing-Santander
-,Nacho Rodríguez,es ESP,FW,2,0,0.0,0.0,2002-2003,3bd03b8e,Racing-Santander,36,0.4,0.0,0.0,52.0,1.0,2847.0,Racing-Santander
-,Edu Aguilar,es ESP,MF,2,0,0.0,0.0,2002-2003,bfb499f9,Racing-Santander,13,0.1,0.0,0.0,52.0,1.0,2848.0,Racing-Santander
-,Jonatan Valle,es ESP,"FW,MF",1,0,0.0,0.0,2002-2003,25372a47,Racing-Santander,10,0.1,0.0,0.0,52.0,1.0,,Racing-Santander
-,﻿Ricardo,es ESP,GK,34,34,0.0,0.0,2003-2004,2fe713ed,Racing-Santander,"3,060",34.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Juanma,es ESP,DF,34,34,1.0,1.0,2003-2004,209581c1,Racing-Santander,"3,005",33.4,15.0,1.0,52.0,1.0,,Racing-Santander
-,Pablo Casar,es ESP,DF,32,32,0.0,1.0,2003-2004,6c5d2f,Racing-Santander,"2,738",30.4,8.0,0.0,52.0,1.0,,Racing-Santander
-,Fernando Morán,es ESP,MF,36,31,3.0,3.0,2003-2004,0fce6e4c,Racing-Santander,"2,713",30.1,10.0,0.0,52.0,1.0,2841.0,Racing-Santander
-,Mehdi Nafti,tn TUN,MF,31,31,2.0,1.0,2003-2004,93e31883,Racing-Santander,"2,620",29.1,12.0,1.0,52.0,46.0,,Racing-Santander
-,Yossi Benayoun,il ISR,MF,35,30,2.0,7.0,2003-2004,8414bb13,Racing-Santander,"2,693",29.9,6.0,0.0,52.0,45.0,2832.0,Racing-Santander
-,Mario Regueiro,uy URU,"FW,MF",33,30,4.0,4.0,2003-2004,c792d665,Racing-Santander,"2,318",25.8,9.0,1.0,52.0,8.0,,Racing-Santander
-,Javi Guerrero,es ESP,FW,36,27,3.0,11.0,2003-2004,bd4345ec,Racing-Santander,"2,464",27.4,4.0,0.0,52.0,1.0,,Racing-Santander
-,Diego Mateo,ar ARG,"DF,MF",30,27,0.0,0.0,2003-2004,6ff0efaa,Racing-Santander,"1,960",21.8,9.0,2.0,52.0,5.0,,Racing-Santander
-,Ayoze Díaz Díaz,es ESP,"DF,MF",28,24,0.0,0.0,2003-2004,b7209bcc,Racing-Santander,"2,148",23.9,5.0,0.0,52.0,1.0,,Racing-Santander
-,Rodolfo Bodipo,gq EQG,FW,30,20,5.0,7.0,2003-2004,6cf2bc0e,Racing-Santander,"1,972",21.9,10.0,0.0,52.0,10.0,,Racing-Santander
-,Neru,es ESP,DF,20,19,2.0,0.0,2003-2004,1c8dd214,Racing-Santander,"1,711",19.0,5.0,0.0,52.0,1.0,2834.0,Racing-Santander
-,José Moratón,es ESP,DF,19,15,0.0,0.0,2003-2004,f197b95a,Racing-Santander,"1,453",16.1,4.0,0.0,52.0,1.0,2829.0,Racing-Santander
-,Cristian Álvarez,ar ARG,"DF,MF",15,15,0.0,5.0,2003-2004,c7c82f11,Racing-Santander,"1,277",14.2,2.0,0.0,52.0,5.0,2849.0,Racing-Santander
-,David Coromina,es ESP,DF,14,14,0.0,0.0,2003-2004,bb603172,Racing-Santander,"1,260",14.0,7.0,0.0,52.0,1.0,2836.0,Racing-Santander
-,Sergio Matabuena,es ESP,MF,26,11,1.0,2.0,2003-2004,93faf8c3,Racing-Santander,"1,213",13.5,4.0,0.0,52.0,1.0,,Racing-Santander
-,Omri Afek,il ISR,"DF,MF",25,8,1.0,2.0,2003-2004,cd16481,Racing-Santander,946,10.5,3.0,0.0,52.0,45.0,2850.0,Racing-Santander
-,Jonatan Valle,es ESP,"FW,MF",25,5,3.0,2.0,2003-2004,25372a47,Racing-Santander,840,9.3,3.0,0.0,52.0,1.0,,Racing-Santander
-,Dudu Aouate,il ISR,GK,4,4,0.0,0.0,2003-2004,4d1b3701,Racing-Santander,360,4.0,0.0,0.0,52.0,45.0,,Racing-Santander
-,Anderson Silva,br BRA,MF,8,3,0.0,0.0,2003-2004,3e908744,Racing-Santander,256,2.8,1.0,0.0,52.0,2.0,,Racing-Santander
-,Pablo Lago,es ESP,MF,7,3,0.0,0.0,2003-2004,1a94953,Racing-Santander,238,2.6,0.0,0.0,52.0,1.0,2839.0,Racing-Santander
-,Txiki,es ESP,MF,5,1,0.0,0.0,2003-2004,c52d35e,Racing-Santander,139,1.5,0.0,0.0,52.0,1.0,2837.0,Racing-Santander
-,Raúl del Campo,es ESP,FW,5,0,0.0,0.0,2003-2004,d8e5a4c6,Racing-Santander,77,0.9,0.0,0.0,52.0,1.0,2851.0,Racing-Santander
-,﻿Dudu Aouate,il ISR,GK,37,37,0.0,0.0,2004-2005,4d1b3701,Racing-Santander,"3,330",37.0,4.0,0.0,52.0,45.0,,Racing-Santander
-,Yossi Benayoun,il ISR,MF,35,35,3.0,9.0,2004-2005,8414bb13,Racing-Santander,"2,989",33.2,4.0,0.0,52.0,45.0,2832.0,Racing-Santander
-,José Moratón,es ESP,DF,35,33,2.0,0.0,2004-2005,f197b95a,Racing-Santander,"3,060",34.0,12.0,0.0,52.0,1.0,2829.0,Racing-Santander
-,Mario Regueiro,uy URU,"FW,MF",32,32,3.0,8.0,2004-2005,c792d665,Racing-Santander,"2,789",31.0,12.0,0.0,52.0,8.0,,Racing-Santander
-,Fernando Morán,es ESP,MF,36,30,6.0,1.0,2004-2005,0fce6e4c,Racing-Santander,"2,590",28.8,3.0,1.0,52.0,1.0,2841.0,Racing-Santander
-,Javi Guerrero,es ESP,FW,33,29,1.0,7.0,2004-2005,bd4345ec,Racing-Santander,"2,601",28.9,3.0,0.0,52.0,1.0,,Racing-Santander
-,Anderson Silva,br BRA,MF,30,27,1.0,2.0,2004-2005,3e908744,Racing-Santander,"2,302",25.6,11.0,0.0,52.0,2.0,,Racing-Santander
-,Oriol Lozano,es ESP,DF,25,24,1.0,0.0,2004-2005,d23e858,Racing-Santander,"2,113",23.5,9.0,1.0,52.0,1.0,2852.0,Racing-Santander
-,Juanma,es ESP,DF,24,23,0.0,1.0,2004-2005,209581c1,Racing-Santander,"1,896",21.1,7.0,1.0,52.0,1.0,,Racing-Santander
-,Pedro López Muñoz,es ESP,DF,20,18,3.0,1.0,2004-2005,60823a4,Racing-Santander,"1,691",18.8,6.0,1.0,52.0,1.0,,Racing-Santander
-,David Aganzo,es ESP,FW,26,17,1.0,7.0,2004-2005,97e3ba49,Racing-Santander,"1,516",16.8,7.0,0.0,52.0,1.0,,Racing-Santander
-,Hoalid Regragui,ma MAR,"DF,MF",17,16,0.0,0.0,2004-2005,654026a1,Racing-Santander,"1,388",15.4,7.0,1.0,52.0,26.0,2853.0,Racing-Santander
-,Pablo Casar,es ESP,DF,14,14,0.0,0.0,2004-2005,6c5d2f,Racing-Santander,"1,176",13.1,5.0,0.0,52.0,1.0,,Racing-Santander
-,Frantz Bertin,ht HAI,"DF,MF",15,13,0.0,0.0,2004-2005,6708334a,Racing-Santander,"1,276",14.2,3.0,0.0,52.0,47.0,2854.0,Racing-Santander
-,Líbero Parri,es ESP,MF,26,13,3.0,0.0,2004-2005,203ff743,Racing-Santander,"1,171",13.0,4.0,0.0,52.0,1.0,,Racing-Santander
-,Gerardo Torrado,mx MEX,MF,19,12,0.0,0.0,2004-2005,c966c9a3,Racing-Santander,"1,146",12.7,7.0,0.0,52.0,20.0,,Racing-Santander
-,Ayoze Díaz Díaz,es ESP,"DF,MF",12,10,1.0,1.0,2004-2005,b7209bcc,Racing-Santander,971,10.8,2.0,0.0,52.0,1.0,,Racing-Santander
-,Mehdi Nafti,tn TUN,MF,16,10,0.0,0.0,2004-2005,93e31883,Racing-Santander,864,9.6,6.0,1.0,52.0,46.0,,Racing-Santander
-,Javier Arizmendi,es ESP,"FW,MF",22,7,0.0,3.0,2004-2005,14a6c075,Racing-Santander,760,8.4,0.0,0.0,52.0,1.0,,Racing-Santander
-,Alessandro Pierini,it ITA,DF,5,5,0.0,0.0,2004-2005,8e313f0,Racing-Santander,431,4.8,1.0,1.0,52.0,9.0,2855.0,Racing-Santander
-,Cristian Álvarez,ar ARG,"DF,MF",4,3,0.0,0.0,2004-2005,c7c82f11,Racing-Santander,233,2.6,2.0,0.0,52.0,5.0,2849.0,Racing-Santander
-,Diego Mateo,ar ARG,"DF,MF",3,3,0.0,0.0,2004-2005,6ff0efaa,Racing-Santander,187,2.1,1.0,0.0,52.0,5.0,,Racing-Santander
-,Jonatan Valle,es ESP,"FW,MF",22,2,0.0,0.0,2004-2005,25372a47,Racing-Santander,452,5.0,2.0,0.0,52.0,1.0,,Racing-Santander
-,Argel Fucks,br BRA,DF,2,2,0.0,0.0,2004-2005,352091f0,Racing-Santander,154,1.7,1.0,0.0,52.0,2.0,2856.0,Racing-Santander
-,Sergio Matabuena,es ESP,MF,7,1,0.0,0.0,2004-2005,93faf8c3,Racing-Santander,160,1.8,2.0,0.0,52.0,1.0,,Racing-Santander
-,Pablo Sierra,es ESP,MF,2,1,0.0,0.0,2004-2005,224f3a5f,Racing-Santander,119,1.3,0.0,0.0,52.0,1.0,2840.0,Racing-Santander
-,Toño,es ESP,GK,1,1,0.0,0.0,2004-2005,2ed4ea81,Racing-Santander,90,1.0,0.0,0.0,52.0,1.0,2857.0,Racing-Santander
-,Fernando Marqués,es ESP,MF,3,0,0.0,0.0,2004-2005,71cccc52,Racing-Santander,84,0.9,0.0,0.0,52.0,1.0,,Racing-Santander
-,Juanjo Expósito,es ESP,FW,2,0,,0.0,2004-2005,f0a0b756,Racing-Santander,31,0.3,0.0,0.0,52.0,1.0,,Racing-Santander
-,﻿Dudu Aouate,il ISR,GK,37,37,0.0,0.0,2005-2006,4d1b3701,Racing-Santander,"3,330",37.0,4.0,0.0,52.0,45.0,,Racing-Santander
-,Pablo Pinillos Caro,es ESP,DF,33,33,0.0,0.0,2005-2006,9d19d667,Racing-Santander,"2,835",31.5,6.0,3.0,52.0,1.0,2858.0,Racing-Santander
-,Vitolo,es ESP,MF,33,30,1.0,0.0,2005-2006,0785296e,Racing-Santander,"2,549",28.3,10.0,1.0,52.0,1.0,,Racing-Santander
-,Ayoze Díaz Díaz,es ESP,"DF,MF",28,28,2.0,2.0,2005-2006,b7209bcc,Racing-Santander,"2,384",26.5,8.0,0.0,52.0,1.0,,Racing-Santander
-,Felipe Melo,br BRA,"DF,MF",33,26,7.0,3.0,2005-2006,b14d84d3,Racing-Santander,"2,520",28.0,10.0,1.0,52.0,2.0,,Racing-Santander
-,José Moratón,es ESP,DF,24,23,1.0,1.0,2005-2006,f197b95a,Racing-Santander,"2,076",23.1,15.0,1.0,52.0,1.0,2829.0,Racing-Santander
-,Óscar Serrano,es ESP,MF,32,23,2.0,1.0,2005-2006,c862ecc5,Racing-Santander,"2,049",22.8,10.0,1.0,52.0,1.0,2859.0,Racing-Santander
-,Antoñito,es ESP,FW,32,21,2.0,9.0,2005-2006,822723a6,Racing-Santander,"2,037",22.6,5.0,0.0,52.0,1.0,,Racing-Santander
-,Javier Casquero,es ESP,MF,26,20,2.0,5.0,2005-2006,b6daa16,Racing-Santander,"1,692",18.8,6.0,0.0,52.0,1.0,,Racing-Santander
-,Oriol Lozano,es ESP,DF,19,19,0.0,0.0,2005-2006,d23e858,Racing-Santander,"1,659",18.4,13.0,0.0,52.0,1.0,2852.0,Racing-Santander
-,Sergio Matabuena,es ESP,MF,23,16,0.0,3.0,2005-2006,93faf8c3,Racing-Santander,"1,436",16.0,7.0,0.0,52.0,1.0,,Racing-Santander
-,Pablo Alfaro,es ESP,DF,17,16,0.0,1.0,2005-2006,9654a31,Racing-Santander,"1,378",15.3,2.0,1.0,52.0,1.0,,Racing-Santander
-,Damià Abella,es ESP,"DF,MF",18,15,3.0,3.0,2005-2006,35b4a15,Racing-Santander,"1,368",15.2,2.0,0.0,52.0,1.0,,Racing-Santander
-,Antonio Tomás,es ESP,MF,23,15,1.0,0.0,2005-2006,668d4e93,Racing-Santander,"1,232",13.7,3.0,0.0,52.0,1.0,,Racing-Santander
-,Stéphane Dalmat,fr FRA,MF,16,12,1.0,0.0,2005-2006,d5fe3aa1,Racing-Santander,992,11.0,1.0,0.0,52.0,4.0,2860.0,Racing-Santander
-,Neru,es ESP,DF,15,11,0.0,0.0,2005-2006,1c8dd214,Racing-Santander,"1,130",12.6,2.0,0.0,52.0,1.0,2834.0,Racing-Santander
-,Juanjo Expósito,es ESP,FW,22,11,1.0,3.0,2005-2006,f0a0b756,Racing-Santander,"1,086",12.1,3.0,0.0,52.0,1.0,,Racing-Santander
-,Jonatan Valle,es ESP,"FW,MF",18,9,0.0,0.0,2005-2006,25372a47,Racing-Santander,840,9.3,5.0,0.0,52.0,1.0,,Racing-Santander
-,David Aganzo,es ESP,FW,17,8,0.0,3.0,2005-2006,97e3ba49,Racing-Santander,825,9.2,2.0,2.0,52.0,1.0,,Racing-Santander
-,Mauricio Pinilla,cl CHI,FW,13,8,0.0,1.0,2005-2006,33bd231e,Racing-Santander,741,8.2,1.0,0.0,52.0,31.0,,Racing-Santander
-,Hoalid Regragui,ma MAR,"DF,MF",9,8,0.0,0.0,2005-2006,654026a1,Racing-Santander,659,7.3,4.0,0.0,52.0,26.0,2853.0,Racing-Santander
-,Ezequiel Garay,ar ARG,DF,7,7,0.0,0.0,2005-2006,c3fb1be,Racing-Santander,630,7.0,2.0,0.0,52.0,5.0,84.0,Racing-Santander
-,Samuel,es ESP,DF,7,7,0.0,0.0,2005-2006,7055133,Racing-Santander,602,6.7,4.0,0.0,52.0,1.0,2861.0,Racing-Santander
-,Raúl del Campo,es ESP,FW,13,6,0.0,0.0,2005-2006,d8e5a4c6,Racing-Santander,532,5.9,0.0,0.0,52.0,1.0,2851.0,Racing-Santander
-,Wilfried Dalmat,mf SMN,"FW,MF",8,3,0.0,1.0,2005-2006,441884a2,Racing-Santander,339,3.8,1.0,0.0,52.0,97.0,2862.0,Racing-Santander
-,Cristian Portilla,es ESP,MF,3,2,0.0,0.0,2005-2006,2f09542a,Racing-Santander,149,1.7,0.0,0.0,52.0,1.0,2863.0,Racing-Santander
-,Lee Ho-jin,kr KOR,"DF,FW",1,1,,0.0,2005-2006,787a744f,Racing-Santander,90,1.0,0.0,0.0,52.0,30.0,2864.0,Racing-Santander
-,Juan José Valencia,es ESP,GK,1,1,0.0,0.0,2005-2006,75a2676d,Racing-Santander,90,1.0,0.0,0.0,52.0,1.0,2865.0,Racing-Santander
-,Álex García,es ESP,MF,1,0,,0.0,2005-2006,0c38a124,Racing-Santander,23,0.3,1.0,0.0,52.0,1.0,2866.0,Racing-Santander
-,﻿Gonzalo Colsa,es ESP,MF,37,37,0.0,3.0,2006-2007,6fa12b44,Racing-Santander,"2,995",33.3,9.0,0.0,52.0,1.0,,Racing-Santander
-,Pablo Pinillos Caro,es ESP,DF,35,35,0.0,0.0,2006-2007,9d19d667,Racing-Santander,"3,051",33.9,12.0,1.0,52.0,1.0,2858.0,Racing-Santander
-,Rubén,es ESP,DF,34,34,0.0,2.0,2006-2007,d0c06281,Racing-Santander,"2,981",33.1,11.0,1.0,52.0,1.0,21.0,Racing-Santander
-,Pedro Munitis,es ESP,FW,34,34,11.0,4.0,2006-2007,61b5cd53,Racing-Santander,"2,943",32.7,9.0,2.0,52.0,1.0,,Racing-Santander
-,Toño,es ESP,GK,32,32,0.0,0.0,2006-2007,2ed4ea81,Racing-Santander,"2,820",31.3,3.0,1.0,52.0,1.0,2857.0,Racing-Santander
-,Nikola Žigić,rs SRB,FW,32,32,5.0,11.0,2006-2007,d584e0,Racing-Santander,"2,768",30.8,12.0,1.0,52.0,28.0,,Racing-Santander
-,Ezequiel Garay,ar ARG,DF,31,30,1.0,9.0,2006-2007,c3fb1be,Racing-Santander,"2,723",30.3,4.0,0.0,52.0,5.0,84.0,Racing-Santander
-,Lionel Scaloni,ar ARG,"DF,MF",30,30,1.0,2.0,2006-2007,6cc4990c,Racing-Santander,"2,529",28.1,9.0,0.0,52.0,5.0,,Racing-Santander
-,Óscar Serrano,es ESP,MF,31,28,3.0,0.0,2006-2007,c862ecc5,Racing-Santander,"2,312",25.7,8.0,0.0,52.0,1.0,2859.0,Racing-Santander
-,Vitolo,es ESP,MF,33,25,0.0,0.0,2006-2007,0785296e,Racing-Santander,"2,397",26.6,11.0,1.0,52.0,1.0,,Racing-Santander
-,Oriol Lozano,es ESP,DF,19,17,0.0,1.0,2006-2007,d23e858,Racing-Santander,"1,551",17.2,3.0,1.0,52.0,1.0,2852.0,Racing-Santander
-,Luis Fernández,es ESP,DF,16,16,0.0,0.0,2006-2007,2e6263ab,Racing-Santander,"1,380",15.3,4.0,0.0,52.0,1.0,,Racing-Santander
-,Felipe Melo,br BRA,"DF,MF",16,11,0.0,3.0,2006-2007,b14d84d3,Racing-Santander,"1,000",11.1,5.0,1.0,52.0,2.0,,Racing-Santander
-,Antonio Tomás,es ESP,MF,20,10,0.0,0.0,2006-2007,668d4e93,Racing-Santander,756,8.4,7.0,0.0,52.0,1.0,,Racing-Santander
-,Javier Balboa,gq EQG,"FW,MF",30,9,2.0,1.0,2006-2007,cf0dbde3,Racing-Santander,"1,094",12.2,1.0,0.0,52.0,10.0,48.0,Racing-Santander
-,Cristian Álvarez,ar ARG,"DF,MF",24,9,3.0,1.0,2006-2007,c7c82f11,Racing-Santander,901,10.0,3.0,0.0,52.0,5.0,2849.0,Racing-Santander
-,Christian,es ESP,DF,10,9,0.0,1.0,2006-2007,1d5a68fe,Racing-Santander,799,8.9,5.0,0.0,52.0,1.0,2867.0,Racing-Santander
-,Juanjo Expósito,es ESP,FW,23,6,0.0,1.0,2006-2007,f0a0b756,Racing-Santander,727,8.1,4.0,0.0,52.0,1.0,,Racing-Santander
-,Juan Calatayud,es ESP,GK,7,6,0.0,0.0,2006-2007,f1714283,Racing-Santander,600,6.7,0.0,0.0,52.0,1.0,,Racing-Santander
-,Pablo Alfaro,es ESP,DF,5,4,0.0,0.0,2006-2007,9654a31,Racing-Santander,392,4.4,2.0,0.0,52.0,1.0,,Racing-Santander
-,Momo,es ESP,MF,13,2,0.0,0.0,2006-2007,9857e65d,Racing-Santander,336,3.7,0.0,0.0,52.0,1.0,,Racing-Santander
-,Sergio Matabuena,es ESP,MF,5,1,0.0,0.0,2006-2007,93faf8c3,Racing-Santander,153,1.7,1.0,0.0,52.0,1.0,,Racing-Santander
-,José Moratón,es ESP,DF,2,1,0.0,0.0,2006-2007,f197b95a,Racing-Santander,118,1.3,0.0,0.0,52.0,1.0,2829.0,Racing-Santander
-,David Aganzo,es ESP,FW,6,0,0.0,0.0,2006-2007,97e3ba49,Racing-Santander,148,1.6,1.0,0.0,52.0,1.0,,Racing-Santander
-,Cristian Portilla,es ESP,MF,1,0,,0.0,2006-2007,2f09542a,Racing-Santander,26,0.3,0.0,0.0,52.0,1.0,2863.0,Racing-Santander
-,Roberto Platero,es ESP,FW,1,0,,0.0,2006-2007,29ee93f5,Racing-Santander,22,0.2,0.0,0.0,52.0,1.0,2868.0,Racing-Santander
-,Fernando de Abreu Ferreira,br BRA,DF,1,0,,0.0,2006-2007,4d387d87,Racing-Santander,6,0.1,0.0,0.0,52.0,2.0,2869.0,Racing-Santander
-,﻿Gonzalo Colsa,es ESP,MF,38,35,0.0,2.0,2007-2008,6fa12b44,Racing-Santander,"3,035",33.7,4.0,0.0,52.0,1.0,,Racing-Santander
-,Aldo Duscher,ar ARG,MF,34,33,2.0,5.0,2007-2008,44944ca7,Racing-Santander,"2,883",32.0,4.0,1.0,52.0,5.0,,Racing-Santander
-,Toño,es ESP,GK,32,32,0.0,0.0,2007-2008,2ed4ea81,Racing-Santander,"2,818",31.3,3.0,1.0,52.0,1.0,2857.0,Racing-Santander
-,Jorge López,es ESP,MF,35,32,5.0,6.0,2007-2008,cf66479e,Racing-Santander,"2,812",31.2,5.0,0.0,52.0,1.0,,Racing-Santander
-,Pablo Pinillos Caro,es ESP,DF,32,30,1.0,0.0,2007-2008,9d19d667,Racing-Santander,"2,718",30.2,10.0,0.0,52.0,1.0,2858.0,Racing-Santander
-,Óscar Serrano,es ESP,MF,34,29,1.0,3.0,2007-2008,c862ecc5,Racing-Santander,"2,332",25.9,13.0,1.0,52.0,1.0,2859.0,Racing-Santander
-,Pedro Munitis,es ESP,FW,31,28,4.0,6.0,2007-2008,61b5cd53,Racing-Santander,"2,254",25.0,5.0,0.0,52.0,1.0,,Racing-Santander
-,Euzebiusz Smolarek,pl POL,"FW,MF",34,23,2.0,4.0,2007-2008,cbb68ce7,Racing-Santander,"2,157",24.0,3.0,1.0,52.0,14.0,2870.0,Racing-Santander
-,Ayoze Díaz Díaz,es ESP,"DF,MF",30,22,0.0,0.0,2007-2008,b7209bcc,Racing-Santander,"2,014",22.4,7.0,1.0,52.0,1.0,,Racing-Santander
-,Ezequiel Garay,ar ARG,DF,22,22,0.0,3.0,2007-2008,c3fb1be,Racing-Santander,"1,908",21.2,1.0,1.0,52.0,5.0,84.0,Racing-Santander
-,Oriol Lozano,es ESP,DF,24,22,0.0,0.0,2007-2008,d23e858,Racing-Santander,"1,858",20.6,9.0,0.0,52.0,1.0,2852.0,Racing-Santander
-,Mohamed Tchité,bi BDI,FW,33,19,4.0,8.0,2007-2008,39b8619d,Racing-Santander,"1,971",21.9,4.0,0.0,52.0,98.0,2871.0,Racing-Santander
-,César Navas,es ESP,DF,18,17,0.0,0.0,2007-2008,9f7ceb30,Racing-Santander,"1,575",17.5,0.0,0.0,52.0,1.0,,Racing-Santander
-,Luis Fernández,es ESP,DF,19,17,0.0,0.0,2007-2008,2e6263ab,Racing-Santander,"1,507",16.7,3.0,0.0,52.0,1.0,,Racing-Santander
-,Sergio Sánchez,es ESP,DF,19,13,1.0,0.0,2007-2008,83a83b0a,Racing-Santander,"1,287",14.3,4.0,0.0,52.0,1.0,,Racing-Santander
-,José Moratón,es ESP,DF,18,10,1.0,0.0,2007-2008,f197b95a,Racing-Santander,"1,039",11.5,6.0,0.0,52.0,1.0,2829.0,Racing-Santander
-,Pablo Álvarez,es ESP,MF,18,10,1.0,1.0,2007-2008,08af8dbe,Racing-Santander,971,10.8,3.0,1.0,52.0,1.0,,Racing-Santander
-,Iván Bolado,gq EQG,FW,14,8,0.0,3.0,2007-2008,5686e45d,Racing-Santander,624,6.9,2.0,0.0,52.0,10.0,2872.0,Racing-Santander
-,Fabio Coltorti,ch SUI,GK,7,6,0.0,0.0,2007-2008,6695cec2,Racing-Santander,588,6.5,0.0,0.0,52.0,39.0,2873.0,Racing-Santander
-,Jordi López,es ESP,MF,14,4,1.0,0.0,2007-2008,b6fe8a4c,Racing-Santander,491,5.5,2.0,1.0,52.0,1.0,28.0,Racing-Santander
-,Sergio Órteman,uy URU,MF,5,3,0.0,1.0,2007-2008,21de8eb2,Racing-Santander,240,2.7,2.0,0.0,52.0,8.0,2874.0,Racing-Santander
-,Iván Marcano,es ESP,DF,2,2,0.0,0.0,2007-2008,7a20d90a,Racing-Santander,165,1.8,0.0,0.0,52.0,1.0,,Racing-Santander
-,Jonatan Valle,es ESP,"FW,MF",8,1,0.0,0.0,2007-2008,25372a47,Racing-Santander,168,1.9,0.0,0.0,52.0,1.0,,Racing-Santander
-,Christian,es ESP,DF,2,0,0.0,0.0,2007-2008,1d5a68fe,Racing-Santander,22,0.2,0.0,0.0,52.0,1.0,2867.0,Racing-Santander
-,Samuel,es ESP,DF,1,0,0.0,0.0,2007-2008,7055133,Racing-Santander,15,0.2,0.0,0.0,52.0,1.0,2861.0,Racing-Santander
-,Luisma,es ESP,"FW,MF",1,0,0.0,0.0,2007-2008,1b617e0a,Racing-Santander,6,0.1,0.0,0.0,52.0,1.0,2875.0,Racing-Santander
-,Damián Ísmodes,pe PER,MF,1,0,,0.0,2007-2008,60cdcea6,Racing-Santander,2,0.0,0.0,0.0,52.0,57.0,2876.0,Racing-Santander
-,﻿Toño,es ESP,GK,34,34,0.0,0.0,2008-2009,2ed4ea81,Racing-Santander,"2,999",33.3,3.0,1.0,52.0,1.0,2857.0,Racing-Santander
-,Iván Marcano,es ESP,DF,35,34,2.0,2.0,2008-2009,7a20d90a,Racing-Santander,"2,942",32.7,8.0,1.0,52.0,1.0,,Racing-Santander
-,Mehdi Lacen,dz ALG,MF,34,34,2.0,0.0,2008-2009,3a306f6,Racing-Santander,"2,846",31.6,9.0,1.0,52.0,37.0,,Racing-Santander
-,Óscar Serrano,es ESP,MF,35,32,5.0,5.0,2008-2009,c862ecc5,Racing-Santander,"2,430",27.0,13.0,1.0,52.0,1.0,2859.0,Racing-Santander
-,Jonathan Pereira,es ESP,FW,32,30,4.0,5.0,2008-2009,806ab4b6,Racing-Santander,"2,540",28.2,9.0,1.0,52.0,1.0,,Racing-Santander
-,Pedro Munitis,es ESP,FW,29,27,8.0,2.0,2008-2009,61b5cd53,Racing-Santander,"2,448",27.2,9.0,0.0,52.0,1.0,,Racing-Santander
-,Gonzalo Colsa,es ESP,MF,34,26,2.0,2.0,2008-2009,6fa12b44,Racing-Santander,"2,330",25.9,8.0,0.0,52.0,1.0,,Racing-Santander
-,Pablo Pinillos Caro,es ESP,DF,29,25,0.0,1.0,2008-2009,9d19d667,Racing-Santander,"2,269",25.2,12.0,1.0,52.0,1.0,2858.0,Racing-Santander
-,Ezequiel Garay,ar ARG,DF,24,24,1.0,2.0,2008-2009,c3fb1be,Racing-Santander,"2,075",23.1,6.0,1.0,52.0,5.0,84.0,Racing-Santander
-,Juan Valera Espín,es ESP,"DF,MF",25,23,0.0,2.0,2008-2009,947fa33c,Racing-Santander,"1,894",21.0,5.0,0.0,52.0,1.0,,Racing-Santander
-,Nikola Žigić,rs SRB,FW,19,19,1.0,13.0,2008-2009,d584e0,Racing-Santander,"1,684",18.7,10.0,0.0,52.0,28.0,,Racing-Santander
-,César Navas,es ESP,DF,19,19,0.0,1.0,2008-2009,9f7ceb30,Racing-Santander,"1,648",18.3,3.0,1.0,52.0,1.0,,Racing-Santander
-,Mohamed Tchité,bi BDI,FW,25,15,0.0,6.0,2008-2009,39b8619d,Racing-Santander,"1,562",17.4,3.0,0.0,52.0,98.0,2871.0,Racing-Santander
-,László Sepsi,ro ROU,DF,19,14,0.0,0.0,2008-2009,8bb2be61,Racing-Santander,"1,215",13.5,4.0,0.0,52.0,51.0,2877.0,Racing-Santander
-,Peter Luccin,fr FRA,MF,23,12,0.0,2.0,2008-2009,3270f1b5,Racing-Santander,"1,247",13.9,10.0,1.0,52.0,4.0,,Racing-Santander
-,Toni Moral,es ESP,MF,18,11,1.0,1.0,2008-2009,5c3bf3f9,Racing-Santander,"1,028",11.4,6.0,0.0,52.0,1.0,,Racing-Santander
-,José Moratón,es ESP,DF,12,10,0.0,0.0,2008-2009,f197b95a,Racing-Santander,718,8.0,4.0,0.0,52.0,1.0,2829.0,Racing-Santander
-,Christian,es ESP,DF,10,8,0.0,1.0,2008-2009,1d5a68fe,Racing-Santander,643,7.1,2.0,0.0,52.0,1.0,2867.0,Racing-Santander
-,Oriol Lozano,es ESP,DF,13,7,0.0,0.0,2008-2009,d23e858,Racing-Santander,875,9.7,5.0,0.0,52.0,1.0,2852.0,Racing-Santander
-,Juanjo Expósito,es ESP,FW,14,4,0.0,1.0,2008-2009,f0a0b756,Racing-Santander,517,5.7,2.0,0.0,52.0,1.0,,Racing-Santander
-,Fabio Coltorti,ch SUI,GK,6,4,0.0,0.0,2008-2009,6695cec2,Racing-Santander,421,4.7,0.0,0.0,52.0,39.0,2873.0,Racing-Santander
-,Edu Bedia,es ESP,MF,12,2,0.0,0.0,2008-2009,2dc8077c,Racing-Santander,399,4.4,0.0,0.0,52.0,1.0,2878.0,Racing-Santander
-,Luis Fernández,es ESP,DF,2,2,0.0,0.0,2008-2009,2e6263ab,Racing-Santander,164,1.8,1.0,0.0,52.0,1.0,,Racing-Santander
-,Jorge Gonçalves,pt POR,"FW,MF",10,1,0.0,0.0,2008-2009,617941cb,Racing-Santander,207,2.3,0.0,0.0,52.0,3.0,2879.0,Racing-Santander
-,Jorge López,es ESP,MF,1,1,0.0,0.0,2008-2009,cf66479e,Racing-Santander,73,0.8,0.0,0.0,52.0,1.0,,Racing-Santander
-,Sergio Canales,es ESP,MF,6,0,1.0,0.0,2008-2009,6de370d,Racing-Santander,111,1.2,0.0,0.0,52.0,1.0,93.0,Racing-Santander
-,Jesús Berrocal,es ESP,FW,3,0,0.0,1.0,2008-2009,13fba9d3,Racing-Santander,65,0.7,0.0,0.0,52.0,1.0,2880.0,Racing-Santander
-,Luisma,es ESP,"FW,MF",1,0,,0.0,2008-2009,1b617e0a,Racing-Santander,11,0.1,0.0,0.0,52.0,1.0,2875.0,Racing-Santander
-,Uri Santos,es ESP,FW,1,0,0.0,0.0,2008-2009,7cf4049b,Racing-Santander,11,0.1,0.0,0.0,52.0,1.0,2881.0,Racing-Santander
-,José Picón,es ESP,DF,1,0,0.0,0.0,2008-2009,6960a69e,Racing-Santander,2,0.0,0.0,0.0,52.0,1.0,2882.0,Racing-Santander
-,﻿Mehdi Lacen,dz ALG,MF,33,28,1.0,3.0,2009-2010,3a306f6,Racing-Santander,"2,554",28.4,4.0,0.0,52.0,37.0,,Racing-Santander
-,Gonzalo Colsa,es ESP,MF,30,28,1.0,3.0,2009-2010,6fa12b44,Racing-Santander,"2,535",28.2,10.0,0.0,52.0,1.0,,Racing-Santander
-,Christian,es ESP,DF,29,28,0.0,2.0,2009-2010,1d5a68fe,Racing-Santander,"2,504",27.8,6.0,0.0,52.0,1.0,2867.0,Racing-Santander
-,Mohamed Tchité,bi BDI,FW,29,28,1.0,11.0,2009-2010,39b8619d,Racing-Santander,"2,111",23.5,5.0,1.0,52.0,98.0,2871.0,Racing-Santander
-,Marc Torrejón,es ESP,DF,27,27,0.0,0.0,2009-2010,6d7ff2c4,Racing-Santander,"2,399",26.7,4.0,0.0,52.0,1.0,2883.0,Racing-Santander
-,Pedro Munitis,es ESP,FW,29,27,7.0,0.0,2009-2010,61b5cd53,Racing-Santander,"2,180",24.2,6.0,0.0,52.0,1.0,,Racing-Santander
-,Óscar Serrano,es ESP,MF,33,27,2.0,3.0,2009-2010,c862ecc5,Racing-Santander,"2,169",24.1,7.0,0.0,52.0,1.0,2859.0,Racing-Santander
-,Fabio Coltorti,ch SUI,GK,23,22,0.0,0.0,2009-2010,6695cec2,Racing-Santander,"2,001",22.2,2.0,0.0,52.0,39.0,2873.0,Racing-Santander
-,Pablo Pinillos Caro,es ESP,DF,23,22,0.0,0.0,2009-2010,9d19d667,Racing-Santander,"1,921",21.3,7.0,0.0,52.0,1.0,2858.0,Racing-Santander
-,Papakouli Diop,sn SEN,MF,23,21,0.0,1.0,2009-2010,7329018e,Racing-Santander,"1,827",20.3,6.0,0.0,52.0,34.0,2884.0,Racing-Santander
-,Henrique,br BRA,DF,22,20,0.0,1.0,2009-2010,429163de,Racing-Santander,"1,853",20.6,4.0,0.0,52.0,2.0,2885.0,Racing-Santander
-,Sergio Canales,es ESP,MF,26,19,4.0,6.0,2009-2010,6de370d,Racing-Santander,"1,616",18.0,2.0,0.0,52.0,1.0,93.0,Racing-Santander
-,Manuel Arana,es ESP,MF,31,17,2.0,4.0,2009-2010,81fac4d9,Racing-Santander,"1,772",19.7,3.0,0.0,52.0,1.0,,Racing-Santander
-,Toño,es ESP,GK,16,16,0.0,0.0,2009-2010,2ed4ea81,Racing-Santander,"1,419",15.8,0.0,0.0,52.0,1.0,2857.0,Racing-Santander
-,Oriol Lozano,es ESP,DF,19,15,0.0,0.0,2009-2010,d23e858,Racing-Santander,"1,447",16.1,6.0,2.0,52.0,1.0,2852.0,Racing-Santander
-,José Ángel Crespo,es ESP,DF,14,14,1.0,0.0,2009-2010,8ec4c2f7,Racing-Santander,"1,176",13.1,5.0,1.0,52.0,1.0,,Racing-Santander
-,Nasief Morris,za RSA,DF,12,12,0.0,1.0,2009-2010,0e24ab98,Racing-Santander,"1,001",11.1,6.0,1.0,52.0,60.0,2886.0,Racing-Santander
-,José Moratón,es ESP,DF,11,10,0.0,0.0,2009-2010,f197b95a,Racing-Santander,827,9.2,4.0,2.0,52.0,1.0,2829.0,Racing-Santander
-,Toni Moral,es ESP,MF,18,10,0.0,1.0,2009-2010,5c3bf3f9,Racing-Santander,807,9.0,3.0,0.0,52.0,1.0,,Racing-Santander
-,Alexandre Geijo,es ESP,FW,19,8,2.0,1.0,2009-2010,c0787e61,Racing-Santander,821,9.1,1.0,0.0,52.0,1.0,,Racing-Santander
-,Xisco,es ESP,FW,22,7,0.0,3.0,2009-2010,d2790f7a,Racing-Santander,927,10.3,5.0,0.0,52.0,1.0,,Racing-Santander
-,Luis García,es ESP,MF,15,4,0.0,0.0,2009-2010,5c8d2b7,Racing-Santander,587,6.5,2.0,0.0,52.0,1.0,,Racing-Santander
-,László Sepsi,ro ROU,DF,5,4,0.0,0.0,2009-2010,8bb2be61,Racing-Santander,381,4.2,0.0,0.0,52.0,51.0,2877.0,Racing-Santander
-,Iván Bolado,gq EQG,FW,12,3,2.0,2.0,2009-2010,5686e45d,Racing-Santander,426,4.7,2.0,0.0,52.0,10.0,2872.0,Racing-Santander
-,Osmar,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,8598175c,Racing-Santander,90,1.0,0.0,0.0,52.0,1.0,2887.0,Racing-Santander
-,Edu Bedia,es ESP,MF,5,0,0.0,0.0,2009-2010,2dc8077c,Racing-Santander,77,0.9,0.0,0.0,52.0,1.0,2878.0,Racing-Santander
-,Juanjo Expósito,es ESP,FW,1,0,0.0,0.0,2009-2010,f0a0b756,Racing-Santander,34,0.4,0.0,0.0,52.0,1.0,,Racing-Santander
-,Luisma,es ESP,"FW,MF",1,0,0.0,0.0,2009-2010,1b617e0a,Racing-Santander,21,0.2,0.0,0.0,52.0,1.0,2875.0,Racing-Santander
-,Mario Ortiz Ruiz,es ESP,MF,2,0,0.0,0.0,2009-2010,82661dc4,Racing-Santander,14,0.2,0.0,0.0,52.0,1.0,2888.0,Racing-Santander
-,﻿Toño,es ESP,GK,37,37,0.0,0.0,2010-2011,2ed4ea81,Racing-Santander,"3,330",37.0,5.0,0.0,52.0,1.0,2857.0,Racing-Santander
-,Marc Torrejón,es ESP,DF,36,36,1.0,1.0,2010-2011,6d7ff2c4,Racing-Santander,"3,150",35.0,5.0,0.0,52.0,1.0,2883.0,Racing-Santander
-,Henrique,br BRA,DF,35,35,1.0,2.0,2010-2011,429163de,Racing-Santander,"3,078",34.2,8.0,1.0,52.0,2.0,2885.0,Racing-Santander
-,Pedro Munitis,es ESP,FW,36,33,4.0,1.0,2010-2011,61b5cd53,Racing-Santander,"2,830",31.4,9.0,1.0,52.0,1.0,,Racing-Santander
-,Gonzalo Colsa,es ESP,MF,31,30,1.0,2.0,2010-2011,6fa12b44,Racing-Santander,"2,660",29.6,8.0,0.0,52.0,1.0,,Racing-Santander
-,Kennedy Bakircioglü,se SWE,MF,32,30,3.0,6.0,2010-2011,f6792b79,Racing-Santander,"2,339",26.0,5.0,0.0,52.0,41.0,2889.0,Racing-Santander
-,Markus Rosenberg,se SWE,FW,33,29,0.0,9.0,2010-2011,5faa73aa,Racing-Santander,"2,391",26.6,9.0,1.0,52.0,41.0,,Racing-Santander
-,Domingo Cisma,es ESP,DF,32,27,1.0,0.0,2010-2011,4d85b73c,Racing-Santander,"2,415",26.8,7.0,1.0,52.0,1.0,,Racing-Santander
-,Mehdi Lacen,dz ALG,MF,33,24,1.0,1.0,2010-2011,3a306f6,Racing-Santander,"2,336",26.0,5.0,1.0,52.0,37.0,,Racing-Santander
-,Francis,es ESP,"DF,MF",24,20,1.0,0.0,2010-2011,4c7c24,Racing-Santander,"1,841",20.5,4.0,1.0,52.0,1.0,2890.0,Racing-Santander
-,Pablo Pinillos Caro,es ESP,DF,20,19,2.0,2.0,2010-2011,9d19d667,Racing-Santander,"1,638",18.2,5.0,0.0,52.0,1.0,2858.0,Racing-Santander
-,Adrián González,es ESP,MF,23,16,2.0,0.0,2010-2011,57ebd662,Racing-Santander,"1,311",14.6,2.0,0.0,52.0,1.0,,Racing-Santander
-,Ariel Nahuelpán,ar ARG,FW,30,15,0.0,3.0,2010-2011,3334db7c,Racing-Santander,"1,376",15.3,2.0,0.0,52.0,5.0,2891.0,Racing-Santander
-,Christian,es ESP,DF,18,13,0.0,3.0,2010-2011,1d5a68fe,Racing-Santander,"1,249",13.9,1.0,1.0,52.0,1.0,2867.0,Racing-Santander
-,Papakouli Diop,sn SEN,MF,19,13,1.0,0.0,2010-2011,7329018e,Racing-Santander,"1,060",11.8,5.0,0.0,52.0,34.0,2884.0,Racing-Santander
-,Giovani dos Santos,mx MEX,"FW,MF",16,9,1.0,5.0,2010-2011,7dba6233,Racing-Santander,958,10.6,1.0,0.0,52.0,20.0,,Racing-Santander
-,Alexandros Tziolis,gr GRE,MF,10,8,0.0,0.0,2010-2011,99138b2e,Racing-Santander,731,8.1,1.0,0.0,52.0,55.0,2892.0,Racing-Santander
-,Iván Bolado,gq EQG,FW,19,7,0.0,1.0,2010-2011,5686e45d,Racing-Santander,733,8.1,2.0,0.0,52.0,10.0,2872.0,Racing-Santander
-,Manuel Arana,es ESP,MF,14,5,1.0,1.0,2010-2011,81fac4d9,Racing-Santander,587,6.5,3.0,0.0,52.0,1.0,,Racing-Santander
-,Álvaro González,es ESP,DF,3,3,0.0,0.0,2010-2011,42dcf26d,Racing-Santander,261,2.9,2.0,0.0,52.0,1.0,,Racing-Santander
-,Osmar,es ESP,"DF,MF",4,2,0.0,0.0,2010-2011,8598175c,Racing-Santander,258,2.9,0.0,0.0,52.0,1.0,2887.0,Racing-Santander
-,Waldo Ponce,cl CHI,DF,2,2,0.0,0.0,2010-2011,d10210a7,Racing-Santander,180,2.0,0.0,0.0,52.0,31.0,2893.0,Racing-Santander
-,Julián Luque Conde,es ESP,"FW,MF",7,1,1.0,0.0,2010-2011,61d8d347,Racing-Santander,226,2.5,0.0,0.0,52.0,1.0,2894.0,Racing-Santander
-,Mario Fernández,es ESP,GK,1,1,0.0,0.0,2010-2011,02c89cb6,Racing-Santander,90,1.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Mohamed Tchité,bi BDI,FW,1,1,0.0,0.0,2010-2011,39b8619d,Racing-Santander,90,1.0,0.0,0.0,52.0,98.0,2871.0,Racing-Santander
-,Ramón Arcas,es ESP,MF,1,1,0.0,0.0,2010-2011,40fc30d6,Racing-Santander,78,0.9,0.0,0.0,52.0,1.0,2895.0,Racing-Santander
-,Tato,es ESP,MF,2,1,0.0,0.0,2010-2011,03c45164,Racing-Santander,78,0.9,0.0,0.0,52.0,1.0,2896.0,Racing-Santander
-,Edu Bedia,es ESP,MF,6,0,0.0,0.0,2010-2011,2dc8077c,Racing-Santander,80,0.9,0.0,0.0,52.0,1.0,2878.0,Racing-Santander
-,Óscar Serrano,es ESP,MF,4,0,0.0,1.0,2010-2011,c862ecc5,Racing-Santander,57,0.6,1.0,0.0,52.0,1.0,2859.0,Racing-Santander
-,﻿Álvaro González,es ESP,DF,34,34,0.0,1.0,2011-2012,42dcf26d,Racing-Santander,"3,028",33.6,14.0,0.0,52.0,1.0,,Racing-Santander
-,Papakouli Diop,sn SEN,MF,34,33,4.0,1.0,2011-2012,7329018e,Racing-Santander,"2,856",31.7,13.0,2.0,52.0,34.0,2884.0,Racing-Santander
-,Adrián González,es ESP,MF,35,29,4.0,3.0,2011-2012,57ebd662,Racing-Santander,"2,357",26.2,5.0,0.0,52.0,1.0,,Racing-Santander
-,Marc Torrejón,es ESP,DF,29,27,0.0,1.0,2011-2012,6d7ff2c4,Racing-Santander,"2,408",26.8,3.0,0.0,52.0,1.0,2883.0,Racing-Santander
-,Bernardo Espinosa,co COL,DF,25,25,0.0,2.0,2011-2012,4242011c,Racing-Santander,"2,205",24.5,4.0,0.0,52.0,19.0,,Racing-Santander
-,Domingo Cisma,es ESP,DF,26,25,0.0,0.0,2011-2012,4d85b73c,Racing-Santander,"2,195",24.4,9.0,1.0,52.0,1.0,,Racing-Santander
-,Toño,es ESP,GK,25,25,0.0,0.0,2011-2012,2ed4ea81,Racing-Santander,"2,162",24.0,5.0,1.0,52.0,1.0,2857.0,Racing-Santander
-,Cristhian Stuani,uy URU,"FW,MF",32,24,2.0,9.0,2011-2012,220c11f1,Racing-Santander,"2,166",24.1,7.0,0.0,52.0,8.0,2897.0,Racing-Santander
-,Manuel Arana,es ESP,MF,28,22,2.0,2.0,2011-2012,81fac4d9,Racing-Santander,"2,022",22.5,8.0,0.0,52.0,1.0,,Racing-Santander
-,Pedro Munitis,es ESP,FW,32,22,2.0,0.0,2011-2012,61b5cd53,Racing-Santander,"1,975",21.9,7.0,1.0,52.0,1.0,,Racing-Santander
-,Francis,es ESP,"DF,MF",22,22,0.0,0.0,2011-2012,4c7c24,Racing-Santander,"1,867",20.7,5.0,1.0,52.0,1.0,2890.0,Racing-Santander
-,Christian,es ESP,DF,20,14,0.0,1.0,2011-2012,1d5a68fe,Racing-Santander,"1,362",15.1,7.0,0.0,52.0,1.0,2867.0,Racing-Santander
-,Lautaro Acosta,ar ARG,"FW,MF",21,14,0.0,2.0,2011-2012,2a3af4d5,Racing-Santander,"1,259",14.0,4.0,0.0,52.0,5.0,,Racing-Santander
-,Jairo Samperio,es ESP,"FW,MF",25,14,4.0,2.0,2011-2012,c0a0c18f,Racing-Santander,"1,250",13.9,2.0,0.0,52.0,1.0,,Racing-Santander
-,Gonzalo Colsa,es ESP,MF,18,14,0.0,1.0,2011-2012,6fa12b44,Racing-Santander,"1,219",13.5,4.0,0.0,52.0,1.0,,Racing-Santander
-,Mario Fernández,es ESP,GK,13,12,0.0,0.0,2011-2012,02c89cb6,Racing-Santander,"1,124",12.5,2.0,0.0,52.0,1.0,,Racing-Santander
-,Marcos Gullón,es ESP,MF,10,9,0.0,0.0,2011-2012,80a6cb7f,Racing-Santander,673,7.5,4.0,1.0,52.0,1.0,,Racing-Santander
-,Julián Luque Conde,es ESP,"FW,MF",15,8,1.0,0.0,2011-2012,61d8d347,Racing-Santander,583,6.5,2.0,0.0,52.0,1.0,2894.0,Racing-Santander
-,Edu Bedia,es ESP,MF,11,7,1.0,0.0,2011-2012,2dc8077c,Racing-Santander,701,7.8,2.0,0.0,52.0,1.0,2878.0,Racing-Santander
-,Alexandros Tziolis,gr GRE,MF,12,6,0.0,0.0,2011-2012,99138b2e,Racing-Santander,614,6.8,2.0,0.0,52.0,55.0,2892.0,Racing-Santander
-,Osmar,es ESP,"DF,MF",8,5,0.0,0.0,2011-2012,8598175c,Racing-Santander,557,6.2,4.0,0.0,52.0,1.0,2887.0,Racing-Santander
-,Ariel Nahuelpán,ar ARG,FW,10,5,0.0,2.0,2011-2012,3334db7c,Racing-Santander,472,5.2,1.0,1.0,52.0,5.0,2891.0,Racing-Santander
-,Mamadou Koné,ci CIV,FW,6,5,0.0,0.0,2011-2012,85b9dca0,Racing-Santander,396,4.4,0.0,0.0,52.0,35.0,,Racing-Santander
-,Óscar Serrano,es ESP,MF,8,4,0.0,0.0,2011-2012,c862ecc5,Racing-Santander,411,4.6,1.0,0.0,52.0,1.0,2859.0,Racing-Santander
-,Quique Rivero,es ESP,MF,4,4,0.0,0.0,2011-2012,0204d102,Racing-Santander,360,4.0,1.0,0.0,52.0,1.0,2898.0,Racing-Santander
-,Khouma Babacar,sn SEN,FW,8,4,0.0,0.0,2011-2012,422ec08a,Racing-Santander,340,3.8,1.0,0.0,52.0,34.0,,Racing-Santander
-,Kennedy Bakircioglü,se SWE,MF,7,2,1.0,0.0,2011-2012,f6792b79,Racing-Santander,298,3.3,0.0,0.0,52.0,41.0,2889.0,Racing-Santander
-,José Picón,es ESP,DF,3,2,0.0,0.0,2011-2012,6960a69e,Racing-Santander,189,2.1,0.0,0.0,52.0,1.0,2882.0,Racing-Santander
-,Daniel Sotres,es ESP,GK,2,1,0.0,0.0,2011-2012,0a02a8fa,Racing-Santander,134,1.5,0.0,0.0,52.0,1.0,,Racing-Santander
-,Javi Martínez,es ESP,FW,4,0,0.0,0.0,2011-2012,95e8b24a,Racing-Santander,84,0.9,1.0,0.0,52.0,1.0,2899.0,Racing-Santander
-,Jaime Isuardi,es ESP,FW,2,0,0.0,0.0,2011-2012,b844581,Racing-Santander,38,0.4,0.0,0.0,52.0,1.0,2900.0,Racing-Santander
-,Borja García,es ESP,DF,1,0,0.0,0.0,2011-2012,13c3bec9,Racing-Santander,23,0.3,0.0,0.0,52.0,1.0,2901.0,Racing-Santander
-,﻿Francis,es ESP,"DF,MF",38,38,0.0,0.0,2012-2013,4c7c24,Racing-Santander,"3,289",36.5,14.0,1.0,52.0,1.0,2890.0,Racing-Santander
-,Héctor Yuste,es ESP,"DF,MF",34,32,0.0,1.0,2012-2013,f50a668a,Racing-Santander,"2,887",32.1,4.0,0.0,52.0,1.0,,Racing-Santander
-,Jairo Samperio,es ESP,"FW,MF",38,30,3.0,10.0,2012-2013,c0a0c18f,Racing-Santander,"2,616",29.1,8.0,1.0,52.0,1.0,,Racing-Santander
-,David Ferreiro,es ESP,"FW,MF",35,30,7.0,1.0,2012-2013,8970907e,Racing-Santander,"2,525",28.1,4.0,0.0,52.0,1.0,2902.0,Racing-Santander
-,Mario Fernández,es ESP,GK,29,29,0.0,0.0,2012-2013,02c89cb6,Racing-Santander,"2,563",28.5,5.0,0.0,52.0,1.0,,Racing-Santander
-,Marcos Gullón,es ESP,MF,34,28,0.0,4.0,2012-2013,80a6cb7f,Racing-Santander,"2,539",28.2,7.0,0.0,52.0,1.0,,Racing-Santander
-,Carlos Bocanegra,us USA,DF,23,23,1.0,0.0,2012-2013,c76a89aa,Racing-Santander,"2,020",22.4,8.0,0.0,52.0,75.0,2903.0,Racing-Santander
-,Albert Dorca,es ESP,MF,22,21,1.0,2.0,2012-2013,01c3b68a,Racing-Santander,"1,834",20.4,5.0,1.0,52.0,1.0,2904.0,Racing-Santander
-,Tiago Pinto,pt POR,DF,19,19,1.0,1.0,2012-2013,7bfde19,Racing-Santander,"1,622",18.0,4.0,0.0,52.0,3.0,,Racing-Santander
-,Óscar Pérez,es ESP,MF,30,18,1.0,2.0,2012-2013,4ae5f6a,Racing-Santander,"1,569",17.4,7.0,1.0,52.0,1.0,2905.0,Racing-Santander
-,Martí Crespí,es ESP,DF,18,17,0.0,0.0,2012-2013,bb2d18be,Racing-Santander,"1,516",16.8,3.0,0.0,52.0,1.0,,Racing-Santander
-,Quini,es ESP,FW,21,17,1.0,3.0,2012-2013,b807947b,Racing-Santander,"1,432",15.9,5.0,0.0,52.0,1.0,2906.0,Racing-Santander
-,Mamadou Koné,ci CIV,FW,36,14,5.0,5.0,2012-2013,85b9dca0,Racing-Santander,"1,716",19.1,7.0,0.0,52.0,35.0,,Racing-Santander
-,Gai Assulin,il ISR,MF,27,14,2.0,3.0,2012-2013,ba776102,Racing-Santander,"1,463",16.3,3.0,0.0,52.0,45.0,,Racing-Santander
-,Borja Docal,es ESP,"DF,MF",17,14,0.0,1.0,2012-2013,754dd22a,Racing-Santander,"1,314",14.6,4.0,0.0,52.0,1.0,2907.0,Racing-Santander
-,Juanmi,es ESP,"FW,MF",19,14,0.0,0.0,2012-2013,84399660,Racing-Santander,"1,144",12.7,2.0,1.0,52.0,1.0,,Racing-Santander
-,Daniel Sotres,es ESP,GK,14,13,0.0,0.0,2012-2013,0a02a8fa,Racing-Santander,"1,217",13.5,2.0,0.0,52.0,1.0,,Racing-Santander
-,Álex Goikoetxea,es ESP,DF,13,13,1.0,1.0,2012-2013,96e3064d,Racing-Santander,"1,148",12.8,1.0,0.0,52.0,1.0,2908.0,Racing-Santander
-,Hameur Bouazza,dz ALG,"FW,MF",17,13,1.0,0.0,2012-2013,baca4d08,Racing-Santander,"1,014",11.3,3.0,0.0,52.0,37.0,2909.0,Racing-Santander
-,Andreu Guerao,es ESP,MF,13,11,0.0,0.0,2012-2013,2358bf6a,Racing-Santander,"1,011",11.2,4.0,0.0,52.0,1.0,2910.0,Racing-Santander
-,David Rochela,es ESP,DF,12,11,1.0,0.0,2012-2013,c3499f5,Racing-Santander,984,10.9,1.0,0.0,52.0,1.0,,Racing-Santander
-,Andrija Kaluđerović,rs SRB,FW,18,10,0.0,3.0,2012-2013,20fa7deb,Racing-Santander,918,10.2,2.0,0.0,52.0,28.0,2911.0,Racing-Santander
-,Jorge Alonso,es ESP,MF,13,8,0.0,0.0,2012-2013,2c619fad,Racing-Santander,682,7.6,4.0,0.0,52.0,1.0,,Racing-Santander
-,Dani Bautista,es ESP,DF,9,7,0.0,0.0,2012-2013,135b0a5e,Racing-Santander,649,7.2,0.0,0.0,52.0,1.0,2912.0,Racing-Santander
-,Ruymán Hernández,es ESP,DF,5,5,0.0,0.0,2012-2013,4d598125,Racing-Santander,450,5.0,2.0,0.0,52.0,1.0,2913.0,Racing-Santander
-,Antonio Longás,es ESP,MF,6,4,0.0,0.0,2012-2013,d7821711,Racing-Santander,287,3.2,0.0,0.0,52.0,1.0,2914.0,Racing-Santander
-,Gaizka Saizar,es ESP,FW,9,3,0.0,0.0,2012-2013,5a706676,Racing-Santander,317,3.5,2.0,0.0,52.0,1.0,2915.0,Racing-Santander
-,Quique Rivero,es ESP,MF,4,2,0.0,0.0,2012-2013,0204d102,Racing-Santander,182,2.0,2.0,0.0,52.0,1.0,2898.0,Racing-Santander
-,César de la Hoz,es ESP,MF,2,2,0.0,0.0,2012-2013,60abea75,Racing-Santander,180,2.0,0.0,0.0,52.0,1.0,2916.0,Racing-Santander
-,Gonzalo Herrero,es ESP,"DF,MF",2,1,0.0,0.0,2012-2013,48b5fbcd,Racing-Santander,116,1.3,0.0,0.0,52.0,1.0,2917.0,Racing-Santander
-,Javi Barrio,es ESP,DF,1,1,0.0,0.0,2012-2013,5e85bab4,Racing-Santander,90,1.0,1.0,0.0,52.0,1.0,2918.0,Racing-Santander
-,Julián Luque Conde,es ESP,"FW,MF",7,0,0.0,0.0,2012-2013,61d8d347,Racing-Santander,150,1.7,2.0,0.0,52.0,1.0,2894.0,Racing-Santander
-,Jaime Isuardi,es ESP,FW,1,0,0.0,0.0,2012-2013,b844581,Racing-Santander,17,0.2,0.0,0.0,52.0,1.0,2900.0,Racing-Santander
-,﻿Iñaki Sáenz,es ESP,MF,41,41,5.0,3.0,2014-2015,995e3a10,Racing-Santander,"3,543",39.4,11.0,0.0,52.0,1.0,2919.0,Racing-Santander
-,Pedro Orfila,es ESP,DF,39,39,0.0,0.0,2014-2015,38c114e,Racing-Santander,"3,406",37.8,8.0,0.0,52.0,1.0,2920.0,Racing-Santander
-,Juanpe,es ESP,DF,36,34,1.0,3.0,2014-2015,1633fc8a,Racing-Santander,"3,094",34.4,15.0,0.0,52.0,1.0,,Racing-Santander
-,David Concha,es ESP,"FW,MF",35,33,3.0,5.0,2014-2015,c8355268,Racing-Santander,"2,923",32.5,3.0,0.0,52.0,1.0,,Racing-Santander
-,Fede San Emeterio,es ESP,MF,35,33,0.0,0.0,2014-2015,fecd633,Racing-Santander,"2,789",31.0,15.0,0.0,52.0,1.0,,Racing-Santander
-,Mario Fernández,es ESP,GK,32,32,0.0,0.0,2014-2015,02c89cb6,Racing-Santander,"2,875",31.9,5.0,1.0,52.0,1.0,,Racing-Santander
-,Saúl García,es ESP,DF,36,28,2.0,0.0,2014-2015,dafa5038,Racing-Santander,"2,462",27.4,6.0,0.0,52.0,1.0,,Racing-Santander
-,David Miguélez,es ESP,FW,32,25,1.0,2.0,2014-2015,34a1a8f4,Racing-Santander,"2,129",23.7,4.0,0.0,52.0,1.0,2921.0,Racing-Santander
-,Javi Soria,es ESP,"DF,MF",28,21,2.0,2.0,2014-2015,c4889739,Racing-Santander,"1,763",19.6,4.0,1.0,52.0,1.0,2922.0,Racing-Santander
-,Samuel,es ESP,DF,22,18,0.0,0.0,2014-2015,7055133,Racing-Santander,"1,639",18.2,7.0,1.0,52.0,1.0,2861.0,Racing-Santander
-,Álvaro García,es ESP,MF,30,16,5.0,3.0,2014-2015,90bbd822,Racing-Santander,"1,584",17.6,4.0,0.0,52.0,1.0,2923.0,Racing-Santander
-,Quique,es ESP,"FW,MF",19,16,2.0,4.0,2014-2015,c966fce1,Racing-Santander,"1,475",16.4,3.0,0.0,52.0,1.0,,Racing-Santander
-,Borja San Emeterio,es ESP,DF,19,16,0.0,0.0,2014-2015,3fd16042,Racing-Santander,"1,467",16.3,7.0,0.0,52.0,1.0,2924.0,Racing-Santander
-,Andreu Guerao,es ESP,MF,20,16,0.0,0.0,2014-2015,2358bf6a,Racing-Santander,"1,369",15.2,6.0,1.0,52.0,1.0,2910.0,Racing-Santander
-,Borja Granero,es ESP,"DF,MF",27,15,1.0,3.0,2014-2015,080b1c1,Racing-Santander,"1,489",16.5,10.0,1.0,52.0,1.0,,Racing-Santander
-,Mariano Sanz,es ESP,FW,30,13,1.0,6.0,2014-2015,b5cf646d,Racing-Santander,"1,371",15.2,7.0,2.0,52.0,1.0,2925.0,Racing-Santander
-,Bernardo,,DF,16,13,1.0,0.0,2014-2015,4067e9d6,Racing-Santander,"1,198",13.3,4.0,0.0,52.0,,,Racing-Santander
-,Mamadou Koné,ci CIV,FW,15,13,1.0,7.0,2014-2015,85b9dca0,Racing-Santander,"1,174",13.0,3.0,0.0,52.0,35.0,,Racing-Santander
-,Mamadou Sylla,sn SEN,FW,11,11,1.0,3.0,2014-2015,5ec95f8,Racing-Santander,951,10.6,3.0,0.0,52.0,34.0,2926.0,Racing-Santander
-,Francis,es ESP,"DF,MF",9,8,0.0,0.0,2014-2015,4c7c24,Racing-Santander,630,7.0,4.0,0.0,52.0,1.0,2890.0,Racing-Santander
-,Germán Parreño,es ESP,GK,7,6,0.0,0.0,2014-2015,1561cd53,Racing-Santander,545,6.1,0.0,0.0,52.0,1.0,2927.0,Racing-Santander
-,Iván Moreno,es ESP,MF,22,5,1.0,0.0,2014-2015,ce5d4b0f,Racing-Santander,620,6.9,3.0,0.0,52.0,1.0,2928.0,Racing-Santander
-,Rubén Durán,es ESP,"FW,MF",13,4,1.0,0.0,2014-2015,8da55828,Racing-Santander,441,4.9,1.0,0.0,52.0,1.0,2929.0,Racing-Santander
-,Raúl Fernández,es ESP,GK,4,4,0.0,0.0,2014-2015,6fb59070,Racing-Santander,360,4.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Adán Pérez,es ESP,MF,6,2,0.0,0.0,2014-2015,0d1ce336,Racing-Santander,167,1.9,0.0,0.0,52.0,1.0,2930.0,Racing-Santander
-,Oscar Fernandez,,,2,0,0.0,0.0,2014-2015,,Racing-Santander,24,0.3,0.0,0.0,52.0,,,Racing-Santander
-,Oriol Lozano,es ESP,DF,1,0,0.0,0.0,2014-2015,d23e858,Racing-Santander,21,0.2,1.0,1.0,52.0,1.0,2852.0,Racing-Santander
-,Valdo,cv CPV,"FW,MF",1,0,0.0,0.0,2014-2015,5d34e206,Racing-Santander,2,0.0,0.0,0.0,52.0,85.0,,Racing-Santander
-,Sergio Camus,es ESP,MF,0,0,,,2014-2015,f479b945,Racing-Santander,,,,,52.0,1.0,2931.0,Racing-Santander
-,Bernardo Cruz,es ESP,DF,0,0,,,2014-2015,47872f21,Racing-Santander,,,,,52.0,1.0,2932.0,Racing-Santander
-,Puras,es ESP,GK,0,0,,,2014-2015,7dce8ef9,Racing-Santander,,,,,52.0,1.0,2933.0,Racing-Santander
-,﻿Alain Álvarez,es ESP,DF,1,1,0.0,0.0,2015-2016,4ba9547c,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2934.0,Racing-Santander
-,José Artiles,es ESP,"FW,MF",1,1,0.0,0.0,2015-2016,913e81fb,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2935.0,Racing-Santander
-,César Caneda,es ESP,DF,1,1,0.0,0.0,2015-2016,1013adcf,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Borja Docal,es ESP,"DF,MF",1,1,0.0,0.0,2015-2016,754dd22a,Racing-Santander,90.0,1.0,1.0,0.0,52.0,1.0,2907.0,Racing-Santander
-,Kamal,es ESP,MF,1,1,0.0,0.0,2015-2016,b052aa2f,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2936.0,Racing-Santander
-,Dani Rodríguez,es ESP,"FW,MF",1,1,0.0,0.0,2015-2016,70f8e0bd,Racing-Santander,90.0,1.0,1.0,0.0,52.0,1.0,,Racing-Santander
-,Fede San Emeterio,es ESP,MF,1,1,0.0,0.0,2015-2016,fecd633,Racing-Santander,90.0,1.0,1.0,0.0,52.0,1.0,,Racing-Santander
-,Daniel Sotres,es ESP,GK,1,1,0.0,0.0,2015-2016,0a02a8fa,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Chus Hevia,es ESP,MF,1,1,0.0,0.0,2015-2016,d576d27,Racing-Santander,59.0,0.7,0.0,0.0,52.0,1.0,2937.0,Racing-Santander
-,Dioni,es ESP,FW,1,1,0.0,0.0,2015-2016,c8c5ac,Racing-Santander,53.0,0.6,0.0,0.0,52.0,1.0,,Racing-Santander
-,Unai Hernández,es ESP,MF,1,1,0.0,0.0,2015-2016,068997a4,Racing-Santander,45.0,0.5,0.0,0.0,52.0,1.0,2938.0,Racing-Santander
-,Óscar Fernández González,es ESP,FW,1,0,0.0,0.0,2015-2016,dd301e95,Racing-Santander,45.0,0.5,0.0,0.0,52.0,1.0,2939.0,Racing-Santander
-,Mohamed Coulibaly,fr FRA,"FW,MF",1,0,0.0,0.0,2015-2016,3cc07724,Racing-Santander,37.0,0.4,0.0,0.0,52.0,4.0,2940.0,Racing-Santander
-,Isma Cerro,es ESP,FW,1,0,0.0,0.0,2015-2016,6ddc9441,Racing-Santander,31.0,0.3,0.0,0.0,52.0,1.0,2941.0,Racing-Santander
-,Sergio Camus,es ESP,MF,0,0,,,2015-2016,f479b945,Racing-Santander,,,,,52.0,1.0,2931.0,Racing-Santander
-,Óscar Santiago,es ESP,GK,0,0,,,2015-2016,5e15481b,Racing-Santander,,,,,52.0,1.0,2942.0,Racing-Santander
-,﻿Raúl Domínguez,es ESP,GK,4,4,0.0,0.0,2016-2017,cc2d9767,Racing-Santander,360.0,4.0,0.0,0.0,52.0,1.0,2943.0,Racing-Santander
-,Samuel Llorca,es ESP,DF,4,4,0.0,0.0,2016-2017,9c3d54f0,Racing-Santander,360.0,4.0,1.0,0.0,52.0,1.0,,Racing-Santander
-,Mikel Santamaría,es ESP,DF,4,4,0.0,0.0,2016-2017,c809e332,Racing-Santander,360.0,4.0,0.0,0.0,52.0,1.0,2944.0,Racing-Santander
-,Álvaro Peña,es ESP,MF,4,4,0.0,0.0,2016-2017,c5456acc,Racing-Santander,359.0,4.0,2.0,0.0,52.0,1.0,2945.0,Racing-Santander
-,Dani Aquino,es ESP,"FW,MF",4,4,0.0,1.0,2016-2017,060a66fb,Racing-Santander,352.0,3.9,1.0,0.0,52.0,1.0,,Racing-Santander
-,Heber Pena,es ESP,MF,4,4,0.0,1.0,2016-2017,229c6e7,Racing-Santander,344.0,3.8,1.0,0.0,52.0,1.0,,Racing-Santander
-,David Córcoles,es ESP,DF,3,3,0.0,0.0,2016-2017,929ea912,Racing-Santander,270.0,3.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Julen Castañeda,es ESP,DF,2,2,0.0,0.0,2016-2017,fbddd52a,Racing-Santander,180.0,2.0,0.0,0.0,52.0,1.0,2946.0,Racing-Santander
-,Caye Quintana,es ESP,FW,2,2,0.0,1.0,2016-2017,42b47114,Racing-Santander,180.0,2.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Sergio Ruiz,es ESP,MF,2,2,0.0,0.0,2016-2017,1f423a54,Racing-Santander,164.0,1.8,0.0,0.0,52.0,1.0,2947.0,Racing-Santander
-,Óscar Fernández González,es ESP,FW,2,2,0.0,0.0,2016-2017,dd301e95,Racing-Santander,141.0,1.6,0.0,0.0,52.0,1.0,2939.0,Racing-Santander
-,Mohamed Coulibaly,fr FRA,"FW,MF",3,2,0.0,0.0,2016-2017,3cc07724,Racing-Santander,136.0,1.5,0.0,0.0,52.0,4.0,2940.0,Racing-Santander
-,Miguel Gándara,es ESP,DF,2,2,0.0,0.0,2016-2017,b9dc8b3d,Racing-Santander,130.0,1.4,0.0,0.0,52.0,1.0,2948.0,Racing-Santander
-,César Díaz,es ESP,FW,2,1,0.0,1.0,2016-2017,7717b1b5,Racing-Santander,123.0,1.4,0.0,0.0,52.0,1.0,2949.0,Racing-Santander
-,Javi Cobo,es ESP,MF,3,1,0.0,1.0,2016-2017,961e5865,Racing-Santander,99.0,1.1,0.0,0.0,52.0,1.0,2950.0,Racing-Santander
-,Alberto Gómez,es ESP,MF,2,1,0.0,0.0,2016-2017,5e60bd,Racing-Santander,91.0,1.0,1.0,0.0,52.0,1.0,2951.0,Racing-Santander
-,Leonel Bontempo,ar ARG,DF,1,1,0.0,0.0,2016-2017,c7648963,Racing-Santander,90.0,1.0,0.0,0.0,52.0,5.0,2952.0,Racing-Santander
-,Borja Granero,es ESP,"DF,MF",1,1,0.0,0.0,2016-2017,080b1c1,Racing-Santander,90.0,1.0,1.0,0.0,52.0,1.0,,Racing-Santander
-,Jorge Somavilla,es ESP,FW,2,0,0.0,0.0,2016-2017,0e5268d,Racing-Santander,50.0,0.6,0.0,0.0,52.0,1.0,2953.0,Racing-Santander
-,Israel Puerto,es ESP,DF,1,0,0.0,0.0,2016-2017,c657b98d,Racing-Santander,29.0,0.3,0.0,0.0,52.0,1.0,,Racing-Santander
-,Sergio Camus,es ESP,MF,1,0,0.0,0.0,2016-2017,f479b945,Racing-Santander,21.0,0.2,0.0,0.0,52.0,1.0,2931.0,Racing-Santander
-,Laro Setién,es ESP,MF,1,0,0.0,0.0,2016-2017,7afa3bfb,Racing-Santander,16.0,0.2,0.0,0.0,52.0,1.0,2954.0,Racing-Santander
-,José Castañeda,es ESP,MF,1,0,0.0,0.0,2016-2017,c8be009f,Racing-Santander,15.0,0.2,0.0,0.0,52.0,1.0,2955.0,Racing-Santander
-,Iván Crespo,es ESP,GK,0,0,,,2016-2017,31ae3b7e,Racing-Santander,,,,,52.0,1.0,2956.0,Racing-Santander
-,﻿Aitor Buñuel,es ESP,DF,5,5,0.0,0.0,2018-2019,6555c592,Racing-Santander,450.0,5.0,2.0,0.0,52.0,1.0,,Racing-Santander
-,Iván Crespo,es ESP,GK,5,5,0.0,0.0,2018-2019,31ae3b7e,Racing-Santander,450.0,5.0,0.0,0.0,52.0,1.0,2956.0,Racing-Santander
-,Óscar Gil,es ESP,DF,5,5,0.0,0.0,2018-2019,8ee275b6,Racing-Santander,450.0,5.0,2.0,0.0,52.0,1.0,2957.0,Racing-Santander
-,Jon Ander,es ESP,FW,5,4,0.0,0.0,2018-2019,17fe96c3,Racing-Santander,367.0,4.1,0.0,0.0,52.0,1.0,2958.0,Racing-Santander
-,Enzo Lombardo,fr FRA,MF,4,4,0.0,0.0,2018-2019,063f5a2,Racing-Santander,340.0,3.8,2.0,1.0,52.0,4.0,2969.0,Racing-Santander
-,Quique Rivero,es ESP,MF,4,4,0.0,2.0,2018-2019,0204d102,Racing-Santander,307.0,3.4,1.0,0.0,52.0,1.0,2898.0,Racing-Santander
-,Nico Hidalgo,es ESP,MF,5,4,0.0,0.0,2018-2019,9798f0d5,Racing-Santander,298.0,3.3,1.0,0.0,52.0,1.0,2959.0,Racing-Santander
-,Jordi,es ESP,DF,3,3,0.0,0.0,2018-2019,744a8a7c,Racing-Santander,270.0,3.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Sergio Ruiz,es ESP,MF,3,3,0.0,0.0,2018-2019,1f423a54,Racing-Santander,270.0,3.0,0.0,0.0,52.0,1.0,2947.0,Racing-Santander
-,Rulo Prieto,es ESP,DF,3,3,0.0,0.0,2018-2019,93ab8e3b,Racing-Santander,250.0,2.8,2.0,0.0,52.0,1.0,2960.0,Racing-Santander
-,Julen Castañeda,es ESP,DF,4,2,0.0,1.0,2018-2019,fbddd52a,Racing-Santander,220.0,2.4,1.0,0.0,52.0,1.0,2946.0,Racing-Santander
-,Rafael de Vicente Hernández,es ESP,MF,4,2,0.0,0.0,2018-2019,bde52d2c,Racing-Santander,217.0,2.4,1.0,0.0,52.0,1.0,,Racing-Santander
-,Berto Cayarga,es ESP,MF,4,2,0.0,0.0,2018-2019,6f5123ed,Racing-Santander,209.0,2.3,2.0,0.0,52.0,1.0,2961.0,Racing-Santander
-,Álvaro Cejudo,es ESP,MF,3,2,0.0,0.0,2018-2019,39b23eb,Racing-Santander,167.0,1.9,0.0,0.0,52.0,1.0,,Racing-Santander
-,César Díaz,es ESP,MF,2,1,0.0,0.0,2018-2019,7717b1b5,Racing-Santander,135.0,1.5,0.0,0.0,52.0,1.0,2949.0,Racing-Santander
-,Jerin Ramos,cv CPV,DF,2,1,0.0,0.0,2018-2019,45a759dc,Racing-Santander,117.0,1.3,1.0,0.0,52.0,85.0,2962.0,Racing-Santander
-,Ritchie Kitoko,be BEL,MF,1,1,0.0,0.0,2018-2019,d403d81a,Racing-Santander,90.0,1.0,1.0,0.0,52.0,27.0,2963.0,Racing-Santander
-,Iñaki Olaortua,es ESP,DF,1,1,0.0,0.0,2018-2019,72d5e137,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2964.0,Racing-Santander
-,Chus Puras,es ESP,DF,1,1,0.0,0.0,2018-2019,06719549,Racing-Santander,90.0,1.0,1.0,0.0,52.0,1.0,,Racing-Santander
-,Daniel Lucas Segovia,es ESP,FW,1,1,0.0,1.0,2018-2019,031e2459,Racing-Santander,81.0,0.9,1.0,0.0,52.0,1.0,2966.0,Racing-Santander
-,Juanjo Expósito,es ESP,FW,3,1,0.0,0.0,2018-2019,f0a0b756,Racing-Santander,65.0,0.7,0.0,0.0,52.0,1.0,,Racing-Santander
-,Soberón,es ESP,FW,1,0,0.0,0.0,2018-2019,c05de865,Racing-Santander,16.0,0.2,1.0,0.0,52.0,1.0,2967.0,Racing-Santander
-,Jagoba Zárraga,es ESP,GK,0,0,,,2018-2019,9b51ad7a,Racing-Santander,,,,,52.0,1.0,2968.0,Racing-Santander
-,﻿Luca Zidane,fr FRA,GK,33,33,0.0,0.0,2019-2020,c818c4d9,Racing-Santander,"2,970",33.0,3.0,0.0,52.0,4.0,149.0,Racing-Santander
-,Jordi,es ESP,DF,35,33,1.0,2.0,2019-2020,744a8a7c,Racing-Santander,"2,845",31.6,9.0,0.0,52.0,1.0,,Racing-Santander
-,Enzo Lombardo,fr FRA,MF,31,31,3.0,3.0,2019-2020,063f5a2,Racing-Santander,"2,596",28.8,3.0,0.0,52.0,4.0,2969.0,Racing-Santander
-,Aitor Buñuel,es ESP,DF,29,29,1.0,0.0,2019-2020,6555c592,Racing-Santander,"2,577",28.6,6.0,1.0,52.0,1.0,,Racing-Santander
-,Mario Ortiz Ruiz,es ESP,MF,34,27,0.0,0.0,2019-2020,82661dc4,Racing-Santander,"2,522",28.0,8.0,2.0,52.0,1.0,2888.0,Racing-Santander
-,Álvaro Cejudo,es ESP,MF,31,27,7.0,9.0,2019-2020,39b23eb,Racing-Santander,"2,286",25.4,7.0,0.0,52.0,1.0,,Racing-Santander
-,Moisés Delgado,es ESP,DF,26,24,1.0,1.0,2019-2020,248c409d,Racing-Santander,"2,168",24.1,9.0,2.0,52.0,1.0,,Racing-Santander
-,Sergio Ruiz,es ESP,MF,31,22,0.0,0.0,2019-2020,1f423a54,Racing-Santander,"2,136",23.7,2.0,0.0,52.0,1.0,2947.0,Racing-Santander
-,Iñaki Olaortua,es ESP,DF,28,21,0.0,0.0,2019-2020,72d5e137,Racing-Santander,"2,067",23.0,9.0,1.0,52.0,1.0,2964.0,Racing-Santander
-,Karim Yoda,fr FRA,MF,22,21,4.0,8.0,2019-2020,7893629,Racing-Santander,"1,822",20.2,4.0,0.0,52.0,4.0,2970.0,Racing-Santander
-,Alexis,es ESP,DF,20,18,0.0,0.0,2019-2020,db0cd1ae,Racing-Santander,"1,553",17.3,9.0,0.0,52.0,1.0,,Racing-Santander
-,Ritchie Kitoko,be BEL,MF,20,17,1.0,0.0,2019-2020,d403d81a,Racing-Santander,"1,148",12.8,6.0,0.0,52.0,27.0,2963.0,Racing-Santander
-,David Carmona,es ESP,DF,22,16,0.0,0.0,2019-2020,d922d43,Racing-Santander,"1,552",17.2,4.0,0.0,52.0,1.0,,Racing-Santander
-,David Rodríguez,es ESP,FW,27,15,2.0,2.0,2019-2020,bae862bf,Racing-Santander,"1,392",15.5,1.0,0.0,52.0,1.0,,Racing-Santander
-,Abraham Minero,es ESP,DF,16,14,0.0,0.0,2019-2020,ce2c56fc,Racing-Santander,"1,265",14.1,6.0,2.0,52.0,1.0,2971.0,Racing-Santander
-,Daniel Toribio,es ESP,MF,22,14,0.0,0.0,2019-2020,0ced6664,Racing-Santander,"1,189",13.2,3.0,0.0,52.0,1.0,,Racing-Santander
-,Manu Hernando,es ESP,DF,15,14,1.0,1.0,2019-2020,5920c7c7,Racing-Santander,"1,164",12.9,4.0,1.0,52.0,1.0,2972.0,Racing-Santander
-,Nuha Marong,gm GAM,FW,19,12,1.0,3.0,2019-2020,37ecae2d,Racing-Santander,"1,095",12.2,0.0,0.0,52.0,92.0,2973.0,Racing-Santander
-,Nando,es ESP,"MF,DF",13,11,3.0,1.0,2019-2020,6c041474,Racing-Santander,768,8.5,2.0,0.0,52.0,1.0,2974.0,Racing-Santander
-,Guillermo,es ESP,FW,13,10,0.0,3.0,2019-2020,15107141,Racing-Santander,904,10.0,0.0,0.0,52.0,1.0,,Racing-Santander
-,Nico Hidalgo,es ESP,"MF,FW",29,9,2.0,0.0,2019-2020,9798f0d5,Racing-Santander,"1,008",11.2,3.0,0.0,52.0,1.0,2959.0,Racing-Santander
-,Aristote Nkaka,be BEL,MF,16,9,1.0,0.0,2019-2020,36d5c51e,Racing-Santander,805,8.9,8.0,2.0,52.0,27.0,2975.0,Racing-Santander
-,Borja Galán,es ESP,MF,10,8,0.0,1.0,2019-2020,3d8d4593,Racing-Santander,645,7.2,2.0,0.0,52.0,1.0,,Racing-Santander
-,Iván Crespo,es ESP,GK,6,6,0.0,0.0,2019-2020,31ae3b7e,Racing-Santander,540,6.0,0.0,0.0,52.0,1.0,2956.0,Racing-Santander
-,Jon Ander,es ESP,FW,12,5,0.0,1.0,2019-2020,17fe96c3,Racing-Santander,511,5.7,4.0,0.0,52.0,1.0,2958.0,Racing-Santander
-,David Barral,es ESP,FW,12,3,0.0,1.0,2019-2020,d99f9282,Racing-Santander,373,4.1,3.0,0.0,52.0,1.0,2976.0,Racing-Santander
-,Lucas,es ESP,GK,3,3,0.0,0.0,2019-2020,cc0dffcb,Racing-Santander,270,3.0,0.0,0.0,52.0,1.0,2977.0,Racing-Santander
-,Berto Cayarga,es ESP,MF,7,3,0.0,0.0,2019-2020,6f5123ed,Racing-Santander,251,2.8,1.0,0.0,52.0,1.0,2961.0,Racing-Santander
-,Giorgi Papunashvili,ge GEO,MF,4,2,0.0,0.0,2019-2020,95fa6d08,Racing-Santander,173,1.9,0.0,0.0,52.0,76.0,2978.0,Racing-Santander
-,Martín,es ESP,MF,3,2,0.0,0.0,2019-2020,b2db7274,Racing-Santander,171,1.9,0.0,0.0,52.0,1.0,2992.0,Racing-Santander
-,Marco Camús,es ESP,MF,6,1,0.0,0.0,2019-2020,77922fef,Racing-Santander,175,1.9,1.0,0.0,52.0,1.0,2979.0,Racing-Santander
-,Siverio,es ESP,FW,5,1,0.0,1.0,2019-2020,8f5c36a5,Racing-Santander,139,1.5,1.0,0.0,52.0,1.0,2980.0,Racing-Santander
-,Goñi ,es ESP,DF,2,1,0.0,0.0,2019-2020,07d2d68f,Racing-Santander,103,1.1,0.0,0.0,52.0,1.0,2981.0,Racing-Santander
-,Rafa Tresaco,es ESP,FW,6,0,0.0,0.0,2019-2020,f0d37caa,Racing-Santander,100,1.1,0.0,0.0,52.0,1.0,2982.0,Racing-Santander
-,Óscar Gil,es ESP,DF,1,0,0.0,0.0,2019-2020,8ee275b6,Racing-Santander,12,0.1,0.0,0.0,52.0,1.0,2957.0,Racing-Santander
-,Germán Fernández,es ESP,GK,0,0,,,2019-2020,cbc95c48,Racing-Santander,,,,,52.0,1.0,2983.0,Racing-Santander
-,Íñigo Sainz Maza,es ESP,DF,0,0,,,2019-2020,7bbacdc4,Racing-Santander,,,,,52.0,1.0,2984.0,Racing-Santander
-,﻿Diego Ceballos,es ESP,MF,1,1,0.0,0.0,2020-2021,08012f31,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2985.0,Racing-Santander
-,Óscar Gil,es ESP,DF,1,1,0.0,0.0,2020-2021,8ee275b6,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2957.0,Racing-Santander
-,Lucas,es ESP,GK,1,1,0.0,0.0,2020-2021,cc0dffcb,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2977.0,Racing-Santander
-,Joan Maynau,es ESP,MF,1,1,0.0,0.0,2020-2021,14a2dad5,Racing-Santander,90.0,1.0,1.0,0.0,52.0,1.0,2986.0,Racing-Santander
-,Cedric Omoigui,ng NGA,FW,1,1,0.0,0.0,2020-2021,29fa334d,Racing-Santander,90.0,1.0,0.0,0.0,52.0,52.0,,Racing-Santander
-,Íñigo Sainz Maza,es ESP,MF,1,1,0.0,0.0,2020-2021,7bbacdc4,Racing-Santander,90.0,1.0,0.0,0.0,52.0,1.0,2984.0,Racing-Santander
-,Villapalos,es ESP,DF,1,1,0.0,0.0,2020-2021,f3656e51,Racing-Santander,80.0,0.9,1.0,0.0,52.0,1.0,2987.0,Racing-Santander
-,Adrián Balboa,uy URU,FW,1,1,0.0,0.0,2020-2021,42cd719c,Racing-Santander,74.0,0.8,0.0,0.0,52.0,8.0,2988.0,Racing-Santander
-,Pablo Torre,es ESP,MF,1,1,0.0,0.0,2020-2021,04e531b6,Racing-Santander,74.0,0.8,0.0,0.0,52.0,1.0,2989.0,Racing-Santander
-,Isaac Nana Asare,gh GHA,MF,1,1,0.0,0.0,2020-2021,b109c2a5,Racing-Santander,60.0,0.7,0.0,0.0,52.0,17.0,2990.0,Racing-Santander
-,Bernardo Matić,hr CRO,DF,1,1,0.0,0.0,2020-2021,080d1b41,Racing-Santander,45.0,0.5,1.0,0.0,52.0,16.0,2991.0,Racing-Santander
-,Jordi,es ESP,DF,1,0,0.0,0.0,2020-2021,744a8a7c,Racing-Santander,45.0,0.5,1.0,0.0,52.0,1.0,,Racing-Santander
-,Martín,es ESP,MF,1,0,0.0,0.0,2020-2021,b2db7274,Racing-Santander,30.0,0.3,0.0,0.0,52.0,1.0,2992.0,Racing-Santander
-,Marco Camús,es ESP,MF,1,0,0.0,0.0,2020-2021,77922fef,Racing-Santander,16.0,0.2,0.0,0.0,52.0,1.0,2979.0,Racing-Santander
-,Siverio,es ESP,FW,1,0,0.0,0.0,2020-2021,8f5c36a5,Racing-Santander,16.0,0.2,0.0,0.0,52.0,1.0,2980.0,Racing-Santander
-,Patrick Soko,cm CMR,MF,1,0,0.0,0.0,2020-2021,0b87db,Racing-Santander,10.0,0.1,0.0,0.0,52.0,36.0,,Racing-Santander
-,Ismael Benktib,es ESP,MF,0,0,,,2020-2021,c590693,Racing-Santander,,,,,52.0,1.0,2993.0,Racing-Santander
-,Álvaro Cejudo,es ESP,MF,0,0,,,2020-2021,39b23eb,Racing-Santander,,,,,52.0,1.0,,Racing-Santander
-,Iván Crespo,es ESP,GK,0,0,,,2020-2021,31ae3b7e,Racing-Santander,,,,,52.0,1.0,2956.0,Racing-Santander
-,Mantilla,es ESP,DF,0,0,,,2020-2021,d1fac0d5,Racing-Santander,,,,,52.0,1.0,2994.0,Racing-Santander
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿José Moratón,es ESP,DF,34,34,0.0,3.0,2002-2003,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,"3,016",33.5,8.0,0.0,52,1.0,2829,Racing-Santander
+,Juanma,es ESP,DF,32,32,2.0,1.0,2002-2003,/en/players/209581c1/Juanma,209581c1,Racing-Santander,"2,880",32.0,11.0,0.0,52,1.0,398,Racing-Santander
+,Pedro Munitis,es ESP,FW,30,30,3.0,8.0,2002-2003,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"2,624",29.2,6.0,0.0,52,1.0,388,Racing-Santander
+,Javi Guerrero,es ESP,FW,35,29,8.0,15.0,2002-2003,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Racing-Santander,"2,392",26.6,3.0,0.0,52,1.0,671,Racing-Santander
+,Erwin Lemmens,be BEL,GK,27,27,0.0,0.0,2002-2003,/en/players/a7a1a4c9/Erwin-Lemmens,7a1a4c9,Racing-Santander,"2,358",26.2,3.0,1.0,52,27.0,2830,Racing-Santander
+,Mehdi Nafti,tn TUN,MF,31,26,0.0,2.0,2002-2003,/en/players/93e31883/Mehdi-Nafti,93e31883,Racing-Santander,"2,374",26.4,15.0,1.0,52,46.0,2574,Racing-Santander
+,Diego Mateo,ar ARG,"DF,MF",25,25,3.0,0.0,2002-2003,/en/players/6ff0efaa/Diego-Mateo,6ff0efaa,Racing-Santander,"2,128",23.6,7.0,0.0,52,5.0,2532,Racing-Santander
+,Javi Pineda,es ESP,DF,24,21,0.0,0.0,2002-2003,/en/players/4f3c2c52/Javi-Pineda,4f3c2c52,Racing-Santander,"1,912",21.2,4.0,0.0,52,1.0,2831,Racing-Santander
+,Yossi Benayoun,il ISR,MF,31,21,4.0,4.0,2002-2003,/en/players/8414bb13/Yossi-Benayoun,8414bb13,Racing-Santander,"1,848",20.5,1.0,0.0,52,45.0,2832,Racing-Santander
+,Mario Regueiro,uy URU,"FW,MF",32,20,1.0,5.0,2002-2003,/en/players/c792d665/Mario-Regueiro,c792d665,Racing-Santander,"1,977",22.0,7.0,0.0,52,8.0,900,Racing-Santander
+,Ismael Ruiz,es ESP,MF,25,20,0.0,1.0,2002-2003,/en/players/13401e74/Ismael-Ruiz,13401e74,Racing-Santander,"1,798",20.0,6.0,0.0,52,1.0,2833,Racing-Santander
+,Neru,es ESP,DF,19,18,0.0,0.0,2002-2003,/en/players/1c8dd214/Neru,1c8dd214,Racing-Santander,"1,631",18.1,6.0,1.0,52,1.0,2834,Racing-Santander
+,Sietes,es ESP,DF,17,17,3.0,0.0,2002-2003,/en/players/bae8225f/Sietes,bae8225f,Racing-Santander,"1,482",16.5,5.0,0.0,52,1.0,2835,Racing-Santander
+,David Coromina,es ESP,DF,16,16,0.0,0.0,2002-2003,/en/players/bb603172/David-Coromina,bb603172,Racing-Santander,"1,419",15.8,7.0,1.0,52,1.0,2836,Racing-Santander
+,Rodolfo Bodipo,gq EQG,FW,25,16,4.0,9.0,2002-2003,/en/players/6cf2bc0e/Rodolfo-Bodipo,6cf2bc0e,Racing-Santander,"1,346",15.0,2.0,1.0,52,10.0,419,Racing-Santander
+,Txiki,es ESP,MF,21,12,1.0,0.0,2002-2003,/en/players/ec52d35e/Txiki,c52d35e,Racing-Santander,961,10.7,0.0,0.0,52,1.0,2837,Racing-Santander
+,José María Ceballos,es ESP,GK,10,9,0.0,0.0,2002-2003,/en/players/60bed8c0/Jose-Maria-Ceballos,60bed8c0,Racing-Santander,882,9.8,0.0,0.0,52,1.0,2838,Racing-Santander
+,Pablo Casar,es ESP,DF,10,9,1.0,3.0,2002-2003,/en/players/aa6c5d2f/Pablo-Casar,6c5d2f,Racing-Santander,787,8.7,1.0,1.0,52,1.0,2545,Racing-Santander
+,Pablo Lago,es ESP,MF,11,7,0.0,0.0,2002-2003,/en/players/e1a94953/Pablo-Lago,1a94953,Racing-Santander,475,5.3,2.0,0.0,52,1.0,2839,Racing-Santander
+,Pablo Sierra,es ESP,MF,8,6,0.0,1.0,2002-2003,/en/players/224f3a5f/Pablo-Sierra,224f3a5f,Racing-Santander,564,6.3,0.0,0.0,52,1.0,2840,Racing-Santander
+,Diego Alonso,uy URU,FW,23,5,0.0,1.0,2002-2003,/en/players/21a7914b/Diego-Alonso,21a7914b,Racing-Santander,714,7.9,3.0,0.0,52,8.0,2315,Racing-Santander
+,Fernando Morán,es ESP,MF,8,4,1.0,0.0,2002-2003,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Racing-Santander,400,4.4,2.0,0.0,52,1.0,2841,Racing-Santander
+,Sergio Matabuena,es ESP,MF,12,3,0.0,0.0,2002-2003,/en/players/93faf8c3/Sergio-Matabuena,93faf8c3,Racing-Santander,338,3.8,2.0,0.0,52,1.0,2578,Racing-Santander
+,Claudio Arzeno,ar ARG,DF,4,3,0.0,0.0,2002-2003,/en/players/22ba1000/Claudio-Arzeno,22ba1000,Racing-Santander,308,3.4,3.0,1.0,52,5.0,90030,Racing-Santander
+,Ilan Bakhar,il ISR,DF,2,2,0.0,0.0,2002-2003,/en/players/c4028a33/Ilan-Bakhar,c4028a33,Racing-Santander,180,2.0,0.0,0.0,52,45.0,2842,Racing-Santander
+,Borja,es ESP,GK,2,2,0.0,0.0,2002-2003,/en/players/2fbc90ef/Borja,2fbc90ef,Racing-Santander,180,2.0,0.0,0.0,52,1.0,2843,Racing-Santander
+,Daniel Sarabia i Ricart,es ESP,FW,6,2,0.0,0.0,2002-2003,/en/players/4e455637/Daniel-Sarabia-i-Ricart,4e455637,Racing-Santander,162,1.8,1.0,0.0,52,1.0,2844,Racing-Santander
+,Messias Conceição Dos Santos,br BRA,MF,4,1,0.0,0.0,2002-2003,/en/players/c88874fb/Messias-Conceicao-Dos-Santos,c88874fb,Racing-Santander,147,1.6,0.0,0.0,52,2.0,2845,Racing-Santander
+,Icham Mouissi,dz ALG,DF,1,1,,0.0,2002-2003,/en/players/ac1294e4/Icham-Mouissi,c1294e4,Racing-Santander,68,0.8,0.0,0.0,52,37.0,2846,Racing-Santander
+,Nacho Rodríguez,es ESP,FW,2,0,0.0,0.0,2002-2003,/en/players/3bd03b8e/Nacho-Rodriguez,3bd03b8e,Racing-Santander,36,0.4,0.0,0.0,52,1.0,2847,Racing-Santander
+,Edu Aguilar,es ESP,MF,2,0,0.0,0.0,2002-2003,/en/players/bfb499f9/Edu-Aguilar,bfb499f9,Racing-Santander,13,0.1,0.0,0.0,52,1.0,2848,Racing-Santander
+,Jonatan Valle,es ESP,"FW,MF",1,0,0.0,0.0,2002-2003,/en/players/25372a47/Jonatan-Valle,25372a47,Racing-Santander,10,0.1,0.0,0.0,52,1.0,2332,Racing-Santander
+,﻿Ricardo,es ESP,GK,34,34,0.0,0.0,2003-2004,/en/players/2fe713ed/Ricardo,2fe713ed,Racing-Santander,"3,060",34.0,0.0,0.0,52,1.0,2010,Racing-Santander
+,Juanma,es ESP,DF,34,34,1.0,1.0,2003-2004,/en/players/209581c1/Juanma,209581c1,Racing-Santander,"3,005",33.4,15.0,1.0,52,1.0,398,Racing-Santander
+,Pablo Casar,es ESP,DF,32,32,0.0,1.0,2003-2004,/en/players/aa6c5d2f/Pablo-Casar,6c5d2f,Racing-Santander,"2,738",30.4,8.0,0.0,52,1.0,2545,Racing-Santander
+,Fernando Morán,es ESP,MF,36,31,3.0,3.0,2003-2004,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Racing-Santander,"2,713",30.1,10.0,0.0,52,1.0,2841,Racing-Santander
+,Mehdi Nafti,tn TUN,MF,31,31,2.0,1.0,2003-2004,/en/players/93e31883/Mehdi-Nafti,93e31883,Racing-Santander,"2,620",29.1,12.0,1.0,52,46.0,2574,Racing-Santander
+,Yossi Benayoun,il ISR,MF,35,30,2.0,7.0,2003-2004,/en/players/8414bb13/Yossi-Benayoun,8414bb13,Racing-Santander,"2,693",29.9,6.0,0.0,52,45.0,2832,Racing-Santander
+,Mario Regueiro,uy URU,"FW,MF",33,30,4.0,4.0,2003-2004,/en/players/c792d665/Mario-Regueiro,c792d665,Racing-Santander,"2,318",25.8,9.0,1.0,52,8.0,900,Racing-Santander
+,Javi Guerrero,es ESP,FW,36,27,3.0,11.0,2003-2004,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Racing-Santander,"2,464",27.4,4.0,0.0,52,1.0,671,Racing-Santander
+,Diego Mateo,ar ARG,"DF,MF",30,27,0.0,0.0,2003-2004,/en/players/6ff0efaa/Diego-Mateo,6ff0efaa,Racing-Santander,"1,960",21.8,9.0,2.0,52,5.0,2532,Racing-Santander
+,Ayoze Díaz Díaz,es ESP,"DF,MF",28,24,0.0,0.0,2003-2004,/en/players/b7209bcc/Ayoze-Diaz-Diaz,b7209bcc,Racing-Santander,"2,148",23.9,5.0,0.0,52,1.0,457,Racing-Santander
+,Rodolfo Bodipo,gq EQG,FW,30,20,5.0,7.0,2003-2004,/en/players/6cf2bc0e/Rodolfo-Bodipo,6cf2bc0e,Racing-Santander,"1,972",21.9,10.0,0.0,52,10.0,419,Racing-Santander
+,Neru,es ESP,DF,20,19,2.0,0.0,2003-2004,/en/players/1c8dd214/Neru,1c8dd214,Racing-Santander,"1,711",19.0,5.0,0.0,52,1.0,2834,Racing-Santander
+,José Moratón,es ESP,DF,19,15,0.0,0.0,2003-2004,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,"1,453",16.1,4.0,0.0,52,1.0,2829,Racing-Santander
+,Cristian Álvarez,ar ARG,"DF,MF",15,15,0.0,5.0,2003-2004,/en/players/c7c82f11/Cristian-Alvarez,c7c82f11,Racing-Santander,"1,277",14.2,2.0,0.0,52,5.0,2849,Racing-Santander
+,David Coromina,es ESP,DF,14,14,0.0,0.0,2003-2004,/en/players/bb603172/David-Coromina,bb603172,Racing-Santander,"1,260",14.0,7.0,0.0,52,1.0,2836,Racing-Santander
+,Sergio Matabuena,es ESP,MF,26,11,1.0,2.0,2003-2004,/en/players/93faf8c3/Sergio-Matabuena,93faf8c3,Racing-Santander,"1,213",13.5,4.0,0.0,52,1.0,2578,Racing-Santander
+,Omri Afek,il ISR,"DF,MF",25,8,1.0,2.0,2003-2004,/en/players/ecd16481/Omri-Afek,cd16481,Racing-Santander,946,10.5,3.0,0.0,52,45.0,2850,Racing-Santander
+,Jonatan Valle,es ESP,"FW,MF",25,5,3.0,2.0,2003-2004,/en/players/25372a47/Jonatan-Valle,25372a47,Racing-Santander,840,9.3,3.0,0.0,52,1.0,2332,Racing-Santander
+,Dudu Aouate,il ISR,GK,4,4,0.0,0.0,2003-2004,/en/players/4d1b3701/Dudu-Aouate,4d1b3701,Racing-Santander,360,4.0,0.0,0.0,52,45.0,409,Racing-Santander
+,Anderson Silva,br BRA,MF,8,3,0.0,0.0,2003-2004,/en/players/3e908744/Anderson-Silva,3e908744,Racing-Santander,256,2.8,1.0,0.0,52,2.0,2325,Racing-Santander
+,Pablo Lago,es ESP,MF,7,3,0.0,0.0,2003-2004,/en/players/e1a94953/Pablo-Lago,1a94953,Racing-Santander,238,2.6,0.0,0.0,52,1.0,2839,Racing-Santander
+,Txiki,es ESP,MF,5,1,0.0,0.0,2003-2004,/en/players/ec52d35e/Txiki,c52d35e,Racing-Santander,139,1.5,0.0,0.0,52,1.0,2837,Racing-Santander
+,Raúl del Campo,es ESP,FW,5,0,0.0,0.0,2003-2004,/en/players/d8e5a4c6/Raul-del-Campo,d8e5a4c6,Racing-Santander,77,0.9,0.0,0.0,52,1.0,2851,Racing-Santander
+,﻿Dudu Aouate,il ISR,GK,37,37,0.0,0.0,2004-2005,/en/players/4d1b3701/Dudu-Aouate,4d1b3701,Racing-Santander,"3,330",37.0,4.0,0.0,52,45.0,409,Racing-Santander
+,Yossi Benayoun,il ISR,MF,35,35,3.0,9.0,2004-2005,/en/players/8414bb13/Yossi-Benayoun,8414bb13,Racing-Santander,"2,989",33.2,4.0,0.0,52,45.0,2832,Racing-Santander
+,José Moratón,es ESP,DF,35,33,2.0,0.0,2004-2005,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,"3,060",34.0,12.0,0.0,52,1.0,2829,Racing-Santander
+,Mario Regueiro,uy URU,"FW,MF",32,32,3.0,8.0,2004-2005,/en/players/c792d665/Mario-Regueiro,c792d665,Racing-Santander,"2,789",31.0,12.0,0.0,52,8.0,900,Racing-Santander
+,Fernando Morán,es ESP,MF,36,30,6.0,1.0,2004-2005,/en/players/0fce6e4c/Fernando-Moran,0fce6e4c,Racing-Santander,"2,590",28.8,3.0,1.0,52,1.0,2841,Racing-Santander
+,Javi Guerrero,es ESP,FW,33,29,1.0,7.0,2004-2005,/en/players/bd4345ec/Javi-Guerrero,bd4345ec,Racing-Santander,"2,601",28.9,3.0,0.0,52,1.0,671,Racing-Santander
+,Anderson Silva,br BRA,MF,30,27,1.0,2.0,2004-2005,/en/players/3e908744/Anderson-Silva,3e908744,Racing-Santander,"2,302",25.6,11.0,0.0,52,2.0,2325,Racing-Santander
+,Oriol Lozano,es ESP,DF,25,24,1.0,0.0,2004-2005,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,"2,113",23.5,9.0,1.0,52,1.0,2852,Racing-Santander
+,Juanma,es ESP,DF,24,23,0.0,1.0,2004-2005,/en/players/209581c1/Juanma,209581c1,Racing-Santander,"1,896",21.1,7.0,1.0,52,1.0,398,Racing-Santander
+,Pedro López Muñoz,es ESP,DF,20,18,3.0,1.0,2004-2005,/en/players/a60823a4/Pedro-Lopez-Munoz,60823a4,Racing-Santander,"1,691",18.8,6.0,1.0,52,1.0,2542,Racing-Santander
+,David Aganzo,es ESP,FW,26,17,1.0,7.0,2004-2005,/en/players/97e3ba49/David-Aganzo,97e3ba49,Racing-Santander,"1,516",16.8,7.0,0.0,52,1.0,2505,Racing-Santander
+,Hoalid Regragui,ma MAR,"DF,MF",17,16,0.0,0.0,2004-2005,/en/players/654026a1/Hoalid-Regragui,654026a1,Racing-Santander,"1,388",15.4,7.0,1.0,52,26.0,2853,Racing-Santander
+,Pablo Casar,es ESP,DF,14,14,0.0,0.0,2004-2005,/en/players/aa6c5d2f/Pablo-Casar,6c5d2f,Racing-Santander,"1,176",13.1,5.0,0.0,52,1.0,2545,Racing-Santander
+,Frantz Bertin,ht HAI,"DF,MF",15,13,0.0,0.0,2004-2005,/en/players/6708334a/Frantz-Bertin,6708334a,Racing-Santander,"1,276",14.2,3.0,0.0,52,47.0,2854,Racing-Santander
+,Líbero Parri,es ESP,MF,26,13,3.0,0.0,2004-2005,/en/players/203ff743/Libero-Parri,203ff743,Racing-Santander,"1,171",13.0,4.0,0.0,52,1.0,3700,Racing-Santander
+,Gerardo Torrado,mx MEX,MF,19,12,0.0,0.0,2004-2005,/en/players/c966c9a3/Gerardo-Torrado,c966c9a3,Racing-Santander,"1,146",12.7,7.0,0.0,52,20.0,1780,Racing-Santander
+,Ayoze Díaz Díaz,es ESP,"DF,MF",12,10,1.0,1.0,2004-2005,/en/players/b7209bcc/Ayoze-Diaz-Diaz,b7209bcc,Racing-Santander,971,10.8,2.0,0.0,52,1.0,457,Racing-Santander
+,Mehdi Nafti,tn TUN,MF,16,10,0.0,0.0,2004-2005,/en/players/93e31883/Mehdi-Nafti,93e31883,Racing-Santander,864,9.6,6.0,1.0,52,46.0,2574,Racing-Santander
+,Javier Arizmendi,es ESP,"FW,MF",22,7,0.0,3.0,2004-2005,/en/players/14a6c075/Javier-Arizmendi,14a6c075,Racing-Santander,760,8.4,0.0,0.0,52,1.0,401,Racing-Santander
+,Alessandro Pierini,it ITA,DF,5,5,0.0,0.0,2004-2005,/en/players/a8e313f0/Alessandro-Pierini,8e313f0,Racing-Santander,431,4.8,1.0,1.0,52,9.0,2855,Racing-Santander
+,Cristian Álvarez,ar ARG,"DF,MF",4,3,0.0,0.0,2004-2005,/en/players/c7c82f11/Cristian-Alvarez,c7c82f11,Racing-Santander,233,2.6,2.0,0.0,52,5.0,2849,Racing-Santander
+,Diego Mateo,ar ARG,"DF,MF",3,3,0.0,0.0,2004-2005,/en/players/6ff0efaa/Diego-Mateo,6ff0efaa,Racing-Santander,187,2.1,1.0,0.0,52,5.0,2532,Racing-Santander
+,Jonatan Valle,es ESP,"FW,MF",22,2,0.0,0.0,2004-2005,/en/players/25372a47/Jonatan-Valle,25372a47,Racing-Santander,452,5.0,2.0,0.0,52,1.0,2332,Racing-Santander
+,Argel Fucks,br BRA,DF,2,2,0.0,0.0,2004-2005,/en/players/352091f0/Argel-Fucks,352091f0,Racing-Santander,154,1.7,1.0,0.0,52,2.0,2856,Racing-Santander
+,Sergio Matabuena,es ESP,MF,7,1,0.0,0.0,2004-2005,/en/players/93faf8c3/Sergio-Matabuena,93faf8c3,Racing-Santander,160,1.8,2.0,0.0,52,1.0,2578,Racing-Santander
+,Pablo Sierra,es ESP,MF,2,1,0.0,0.0,2004-2005,/en/players/224f3a5f/Pablo-Sierra,224f3a5f,Racing-Santander,119,1.3,0.0,0.0,52,1.0,2840,Racing-Santander
+,Toño,es ESP,GK,1,1,0.0,0.0,2004-2005,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,90,1.0,0.0,0.0,52,1.0,2857,Racing-Santander
+,Fernando Marqués,es ESP,MF,3,0,0.0,0.0,2004-2005,/en/players/71cccc52/Fernando-Marques,71cccc52,Racing-Santander,84,0.9,0.0,0.0,52,1.0,2161,Racing-Santander
+,Juanjo Expósito,es ESP,FW,2,0,,0.0,2004-2005,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Racing-Santander,31,0.3,0.0,0.0,52,1.0,1836,Racing-Santander
+,﻿Dudu Aouate,il ISR,GK,37,37,0.0,0.0,2005-2006,/en/players/4d1b3701/Dudu-Aouate,4d1b3701,Racing-Santander,"3,330",37.0,4.0,0.0,52,45.0,409,Racing-Santander
+,Pablo Pinillos Caro,es ESP,DF,33,33,0.0,0.0,2005-2006,/en/players/9d19d667/Pablo-Pinillos-Caro,9d19d667,Racing-Santander,"2,835",31.5,6.0,3.0,52,1.0,2858,Racing-Santander
+,Vitolo,es ESP,MF,33,30,1.0,0.0,2005-2006,/en/players/0785296e/Vitolo,0785296e,Racing-Santander,"2,549",28.3,10.0,1.0,52,1.0,683,Racing-Santander
+,Ayoze Díaz Díaz,es ESP,"DF,MF",28,28,2.0,2.0,2005-2006,/en/players/b7209bcc/Ayoze-Diaz-Diaz,b7209bcc,Racing-Santander,"2,384",26.5,8.0,0.0,52,1.0,457,Racing-Santander
+,Felipe Melo,br BRA,"DF,MF",33,26,7.0,3.0,2005-2006,/en/players/b14d84d3/Felipe-Melo,b14d84d3,Racing-Santander,"2,520",28.0,10.0,1.0,52,2.0,1583,Racing-Santander
+,José Moratón,es ESP,DF,24,23,1.0,1.0,2005-2006,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,"2,076",23.1,15.0,1.0,52,1.0,2829,Racing-Santander
+,Óscar Serrano,es ESP,MF,32,23,2.0,1.0,2005-2006,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,"2,049",22.8,10.0,1.0,52,1.0,2859,Racing-Santander
+,Antoñito,es ESP,FW,32,21,2.0,9.0,2005-2006,/en/players/822723a6/Antonito,822723a6,Racing-Santander,"2,037",22.6,5.0,0.0,52,1.0,1782,Racing-Santander
+,Javier Casquero,es ESP,MF,26,20,2.0,5.0,2005-2006,/en/players/ab6daa16/Javier-Casquero,b6daa16,Racing-Santander,"1,692",18.8,6.0,0.0,52,1.0,1777,Racing-Santander
+,Oriol Lozano,es ESP,DF,19,19,0.0,0.0,2005-2006,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,"1,659",18.4,13.0,0.0,52,1.0,2852,Racing-Santander
+,Sergio Matabuena,es ESP,MF,23,16,0.0,3.0,2005-2006,/en/players/93faf8c3/Sergio-Matabuena,93faf8c3,Racing-Santander,"1,436",16.0,7.0,0.0,52,1.0,2578,Racing-Santander
+,Pablo Alfaro,es ESP,DF,17,16,0.0,1.0,2005-2006,/en/players/e9654a31/Pablo-Alfaro,9654a31,Racing-Santander,"1,378",15.3,2.0,1.0,52,1.0,1778,Racing-Santander
+,Damià Abella,es ESP,"DF,MF",18,15,3.0,3.0,2005-2006,/en/players/e35b4a15/Damia-Abella,35b4a15,Racing-Santander,"1,368",15.2,2.0,0.0,52,1.0,1090,Racing-Santander
+,Antonio Tomás,es ESP,MF,23,15,1.0,0.0,2005-2006,/en/players/668d4e93/Antonio-Tomas,668d4e93,Racing-Santander,"1,232",13.7,3.0,0.0,52,1.0,426,Racing-Santander
+,Stéphane Dalmat,fr FRA,MF,16,12,1.0,0.0,2005-2006,/en/players/d5fe3aa1/Stephane-Dalmat,d5fe3aa1,Racing-Santander,992,11.0,1.0,0.0,52,4.0,2860,Racing-Santander
+,Neru,es ESP,DF,15,11,0.0,0.0,2005-2006,/en/players/1c8dd214/Neru,1c8dd214,Racing-Santander,"1,130",12.6,2.0,0.0,52,1.0,2834,Racing-Santander
+,Juanjo Expósito,es ESP,FW,22,11,1.0,3.0,2005-2006,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Racing-Santander,"1,086",12.1,3.0,0.0,52,1.0,1836,Racing-Santander
+,Jonatan Valle,es ESP,"FW,MF",18,9,0.0,0.0,2005-2006,/en/players/25372a47/Jonatan-Valle,25372a47,Racing-Santander,840,9.3,5.0,0.0,52,1.0,2332,Racing-Santander
+,David Aganzo,es ESP,FW,17,8,0.0,3.0,2005-2006,/en/players/97e3ba49/David-Aganzo,97e3ba49,Racing-Santander,825,9.2,2.0,2.0,52,1.0,2505,Racing-Santander
+,Mauricio Pinilla,cl CHI,FW,13,8,0.0,1.0,2005-2006,/en/players/33bd231e/Mauricio-Pinilla,33bd231e,Racing-Santander,741,8.2,1.0,0.0,52,31.0,650,Racing-Santander
+,Hoalid Regragui,ma MAR,"DF,MF",9,8,0.0,0.0,2005-2006,/en/players/654026a1/Hoalid-Regragui,654026a1,Racing-Santander,659,7.3,4.0,0.0,52,26.0,2853,Racing-Santander
+,Ezequiel Garay,ar ARG,DF,7,7,0.0,0.0,2005-2006,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Racing-Santander,630,7.0,2.0,0.0,52,5.0,84,Racing-Santander
+,Samuel,es ESP,DF,7,7,0.0,0.0,2005-2006,/en/players/a7055133/Samuel,7055133,Racing-Santander,602,6.7,4.0,0.0,52,1.0,2861,Racing-Santander
+,Raúl del Campo,es ESP,FW,13,6,0.0,0.0,2005-2006,/en/players/d8e5a4c6/Raul-del-Campo,d8e5a4c6,Racing-Santander,532,5.9,0.0,0.0,52,1.0,2851,Racing-Santander
+,Wilfried Dalmat,mf SMN,"FW,MF",8,3,0.0,1.0,2005-2006,/en/players/441884a2/Wilfried-Dalmat,441884a2,Racing-Santander,339,3.8,1.0,0.0,52,97.0,2862,Racing-Santander
+,Cristian Portilla,es ESP,MF,3,2,0.0,0.0,2005-2006,/en/players/2f09542a/Cristian-Portilla,2f09542a,Racing-Santander,149,1.7,0.0,0.0,52,1.0,2863,Racing-Santander
+,Lee Ho-jin,kr KOR,"DF,FW",1,1,,0.0,2005-2006,/en/players/787a744f/Lee-Ho-jin,787a744f,Racing-Santander,90,1.0,0.0,0.0,52,30.0,2864,Racing-Santander
+,Juan José Valencia,es ESP,GK,1,1,0.0,0.0,2005-2006,/en/players/75a2676d/Juan-Jose-Valencia,75a2676d,Racing-Santander,90,1.0,0.0,0.0,52,1.0,2865,Racing-Santander
+,Álex García,es ESP,MF,1,0,,0.0,2005-2006,/en/players/0c38a124/Alex-Garcia,0c38a124,Racing-Santander,23,0.3,1.0,0.0,52,1.0,2866,Racing-Santander
+,﻿Gonzalo Colsa,es ESP,MF,37,37,0.0,3.0,2006-2007,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Racing-Santander,"2,995",33.3,9.0,0.0,52,1.0,1565,Racing-Santander
+,Pablo Pinillos Caro,es ESP,DF,35,35,0.0,0.0,2006-2007,/en/players/9d19d667/Pablo-Pinillos-Caro,9d19d667,Racing-Santander,"3,051",33.9,12.0,1.0,52,1.0,2858,Racing-Santander
+,Rubén,es ESP,DF,34,34,0.0,2.0,2006-2007,/en/players/d0c06281/Ruben,d0c06281,Racing-Santander,"2,981",33.1,11.0,1.0,52,1.0,21,Racing-Santander
+,Pedro Munitis,es ESP,FW,34,34,11.0,4.0,2006-2007,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"2,943",32.7,9.0,2.0,52,1.0,388,Racing-Santander
+,Toño,es ESP,GK,32,32,0.0,0.0,2006-2007,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,"2,820",31.3,3.0,1.0,52,1.0,2857,Racing-Santander
+,Nikola Žigić,rs SRB,FW,32,32,5.0,11.0,2006-2007,/en/players/aad584e0/Nikola-Zigic,d584e0,Racing-Santander,"2,768",30.8,12.0,1.0,52,28.0,919,Racing-Santander
+,Ezequiel Garay,ar ARG,DF,31,30,1.0,9.0,2006-2007,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Racing-Santander,"2,723",30.3,4.0,0.0,52,5.0,84,Racing-Santander
+,Lionel Scaloni,ar ARG,"DF,MF",30,30,1.0,2.0,2006-2007,/en/players/6cc4990c/Lionel-Scaloni,6cc4990c,Racing-Santander,"2,529",28.1,9.0,0.0,52,5.0,369,Racing-Santander
+,Óscar Serrano,es ESP,MF,31,28,3.0,0.0,2006-2007,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,"2,312",25.7,8.0,0.0,52,1.0,2859,Racing-Santander
+,Vitolo,es ESP,MF,33,25,0.0,0.0,2006-2007,/en/players/0785296e/Vitolo,0785296e,Racing-Santander,"2,397",26.6,11.0,1.0,52,1.0,683,Racing-Santander
+,Oriol Lozano,es ESP,DF,19,17,0.0,1.0,2006-2007,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,"1,551",17.2,3.0,1.0,52,1.0,2852,Racing-Santander
+,Luis Fernández,es ESP,DF,16,16,0.0,0.0,2006-2007,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Racing-Santander,"1,380",15.3,4.0,0.0,52,1.0,1351,Racing-Santander
+,Felipe Melo,br BRA,"DF,MF",16,11,0.0,3.0,2006-2007,/en/players/b14d84d3/Felipe-Melo,b14d84d3,Racing-Santander,"1,000",11.1,5.0,1.0,52,2.0,1583,Racing-Santander
+,Antonio Tomás,es ESP,MF,20,10,0.0,0.0,2006-2007,/en/players/668d4e93/Antonio-Tomas,668d4e93,Racing-Santander,756,8.4,7.0,0.0,52,1.0,426,Racing-Santander
+,Javier Balboa,gq EQG,"FW,MF",30,9,2.0,1.0,2006-2007,/en/players/cf0dbde3/Javier-Balboa,cf0dbde3,Racing-Santander,"1,094",12.2,1.0,0.0,52,10.0,48,Racing-Santander
+,Cristian Álvarez,ar ARG,"DF,MF",24,9,3.0,1.0,2006-2007,/en/players/c7c82f11/Cristian-Alvarez,c7c82f11,Racing-Santander,901,10.0,3.0,0.0,52,5.0,2849,Racing-Santander
+,Christian,es ESP,DF,10,9,0.0,1.0,2006-2007,/en/players/1d5a68fe/Christian,1d5a68fe,Racing-Santander,799,8.9,5.0,0.0,52,1.0,2867,Racing-Santander
+,Juanjo Expósito,es ESP,FW,23,6,0.0,1.0,2006-2007,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Racing-Santander,727,8.1,4.0,0.0,52,1.0,1836,Racing-Santander
+,Juan Calatayud,es ESP,GK,7,6,0.0,0.0,2006-2007,/en/players/f1714283/Juan-Calatayud,f1714283,Racing-Santander,600,6.7,0.0,0.0,52,1.0,1637,Racing-Santander
+,Pablo Alfaro,es ESP,DF,5,4,0.0,0.0,2006-2007,/en/players/e9654a31/Pablo-Alfaro,9654a31,Racing-Santander,392,4.4,2.0,0.0,52,1.0,1778,Racing-Santander
+,Momo,es ESP,MF,13,2,0.0,0.0,2006-2007,/en/players/9857e65d/Momo,9857e65d,Racing-Santander,336,3.7,0.0,0.0,52,1.0,405,Racing-Santander
+,Sergio Matabuena,es ESP,MF,5,1,0.0,0.0,2006-2007,/en/players/93faf8c3/Sergio-Matabuena,93faf8c3,Racing-Santander,153,1.7,1.0,0.0,52,1.0,2578,Racing-Santander
+,José Moratón,es ESP,DF,2,1,0.0,0.0,2006-2007,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,118,1.3,0.0,0.0,52,1.0,2829,Racing-Santander
+,David Aganzo,es ESP,FW,6,0,0.0,0.0,2006-2007,/en/players/97e3ba49/David-Aganzo,97e3ba49,Racing-Santander,148,1.6,1.0,0.0,52,1.0,2505,Racing-Santander
+,Cristian Portilla,es ESP,MF,1,0,,0.0,2006-2007,/en/players/2f09542a/Cristian-Portilla,2f09542a,Racing-Santander,26,0.3,0.0,0.0,52,1.0,2863,Racing-Santander
+,Roberto Platero,es ESP,FW,1,0,,0.0,2006-2007,/en/players/29ee93f5/Roberto-Platero,29ee93f5,Racing-Santander,22,0.2,0.0,0.0,52,1.0,2868,Racing-Santander
+,Fernando de Abreu Ferreira,br BRA,DF,1,0,,0.0,2006-2007,/en/players/4d387d87/Fernando-de-Abreu-Ferreira,4d387d87,Racing-Santander,6,0.1,0.0,0.0,52,2.0,2869,Racing-Santander
+,﻿Gonzalo Colsa,es ESP,MF,38,35,0.0,2.0,2007-2008,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Racing-Santander,"3,035",33.7,4.0,0.0,52,1.0,1565,Racing-Santander
+,Aldo Duscher,ar ARG,MF,34,33,2.0,5.0,2007-2008,/en/players/44944ca7/Aldo-Duscher,44944ca7,Racing-Santander,"2,883",32.0,4.0,1.0,52,5.0,374,Racing-Santander
+,Toño,es ESP,GK,32,32,0.0,0.0,2007-2008,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,"2,818",31.3,3.0,1.0,52,1.0,2857,Racing-Santander
+,Jorge López,es ESP,MF,35,32,5.0,6.0,2007-2008,/en/players/cf66479e/Jorge-Lopez,cf66479e,Racing-Santander,"2,812",31.2,5.0,0.0,52,1.0,884,Racing-Santander
+,Pablo Pinillos Caro,es ESP,DF,32,30,1.0,0.0,2007-2008,/en/players/9d19d667/Pablo-Pinillos-Caro,9d19d667,Racing-Santander,"2,718",30.2,10.0,0.0,52,1.0,2858,Racing-Santander
+,Óscar Serrano,es ESP,MF,34,29,1.0,3.0,2007-2008,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,"2,332",25.9,13.0,1.0,52,1.0,2859,Racing-Santander
+,Pedro Munitis,es ESP,FW,31,28,4.0,6.0,2007-2008,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"2,254",25.0,5.0,0.0,52,1.0,388,Racing-Santander
+,Euzebiusz Smolarek,pl POL,"FW,MF",34,23,2.0,4.0,2007-2008,/en/players/cbb68ce7/Euzebiusz-Smolarek,cbb68ce7,Racing-Santander,"2,157",24.0,3.0,1.0,52,14.0,2870,Racing-Santander
+,Ayoze Díaz Díaz,es ESP,"DF,MF",30,22,0.0,0.0,2007-2008,/en/players/b7209bcc/Ayoze-Diaz-Diaz,b7209bcc,Racing-Santander,"2,014",22.4,7.0,1.0,52,1.0,457,Racing-Santander
+,Ezequiel Garay,ar ARG,DF,22,22,0.0,3.0,2007-2008,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Racing-Santander,"1,908",21.2,1.0,1.0,52,5.0,84,Racing-Santander
+,Oriol Lozano,es ESP,DF,24,22,0.0,0.0,2007-2008,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,"1,858",20.6,9.0,0.0,52,1.0,2852,Racing-Santander
+,Mohamed Tchité,bi BDI,FW,33,19,4.0,8.0,2007-2008,/en/players/39b8619d/Mohamed-Tchite,39b8619d,Racing-Santander,"1,971",21.9,4.0,0.0,52,98.0,2871,Racing-Santander
+,César Navas,es ESP,DF,18,17,0.0,0.0,2007-2008,/en/players/9f7ceb30/Cesar-Navas,9f7ceb30,Racing-Santander,"1,575",17.5,0.0,0.0,52,1.0,2317,Racing-Santander
+,Luis Fernández,es ESP,DF,19,17,0.0,0.0,2007-2008,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Racing-Santander,"1,507",16.7,3.0,0.0,52,1.0,1351,Racing-Santander
+,Sergio Sánchez,es ESP,DF,19,13,1.0,0.0,2007-2008,/en/players/83a83b0a/Sergio-Sanchez,83a83b0a,Racing-Santander,"1,287",14.3,4.0,0.0,52,1.0,1848,Racing-Santander
+,José Moratón,es ESP,DF,18,10,1.0,0.0,2007-2008,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,"1,039",11.5,6.0,0.0,52,1.0,2829,Racing-Santander
+,Pablo Álvarez,es ESP,MF,18,10,1.0,1.0,2007-2008,/en/players/08af8dbe/Pablo-Alvarez,08af8dbe,Racing-Santander,971,10.8,3.0,1.0,52,1.0,418,Racing-Santander
+,Iván Bolado,gq EQG,FW,14,8,0.0,3.0,2007-2008,/en/players/5686e45d/Ivan-Bolado,5686e45d,Racing-Santander,624,6.9,2.0,0.0,52,10.0,2872,Racing-Santander
+,Fabio Coltorti,ch SUI,GK,7,6,0.0,0.0,2007-2008,/en/players/6695cec2/Fabio-Coltorti,6695cec2,Racing-Santander,588,6.5,0.0,0.0,52,39.0,2873,Racing-Santander
+,Jordi López,es ESP,MF,14,4,1.0,0.0,2007-2008,/en/players/b6fe8a4c/Jordi-Lopez,b6fe8a4c,Racing-Santander,491,5.5,2.0,1.0,52,1.0,28,Racing-Santander
+,Sergio Órteman,uy URU,MF,5,3,0.0,1.0,2007-2008,/en/players/21de8eb2/Sergio-Orteman,21de8eb2,Racing-Santander,240,2.7,2.0,0.0,52,8.0,2874,Racing-Santander
+,Iván Marcano,es ESP,DF,2,2,0.0,0.0,2007-2008,/en/players/7a20d90a/Ivan-Marcano,7a20d90a,Racing-Santander,165,1.8,0.0,0.0,52,1.0,2749,Racing-Santander
+,Jonatan Valle,es ESP,"FW,MF",8,1,0.0,0.0,2007-2008,/en/players/25372a47/Jonatan-Valle,25372a47,Racing-Santander,168,1.9,0.0,0.0,52,1.0,2332,Racing-Santander
+,Christian,es ESP,DF,2,0,0.0,0.0,2007-2008,/en/players/1d5a68fe/Christian,1d5a68fe,Racing-Santander,22,0.2,0.0,0.0,52,1.0,2867,Racing-Santander
+,Samuel,es ESP,DF,1,0,0.0,0.0,2007-2008,/en/players/a7055133/Samuel,7055133,Racing-Santander,15,0.2,0.0,0.0,52,1.0,2861,Racing-Santander
+,Luisma,es ESP,"FW,MF",1,0,0.0,0.0,2007-2008,/en/players/1b617e0a/Luisma,1b617e0a,Racing-Santander,6,0.1,0.0,0.0,52,1.0,2875,Racing-Santander
+,Damián Ísmodes,pe PER,MF,1,0,,0.0,2007-2008,/en/players/60cdcea6/Damian-Ismodes,60cdcea6,Racing-Santander,2,0.0,0.0,0.0,52,57.0,2876,Racing-Santander
+,﻿Toño,es ESP,GK,34,34,0.0,0.0,2008-2009,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,"2,999",33.3,3.0,1.0,52,1.0,2857,Racing-Santander
+,Iván Marcano,es ESP,DF,35,34,2.0,2.0,2008-2009,/en/players/7a20d90a/Ivan-Marcano,7a20d90a,Racing-Santander,"2,942",32.7,8.0,1.0,52,1.0,2749,Racing-Santander
+,Mehdi Lacen,dz ALG,MF,34,34,2.0,0.0,2008-2009,/en/players/a3a306f6/Mehdi-Lacen,3a306f6,Racing-Santander,"2,846",31.6,9.0,1.0,52,37.0,2430,Racing-Santander
+,Óscar Serrano,es ESP,MF,35,32,5.0,5.0,2008-2009,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,"2,430",27.0,13.0,1.0,52,1.0,2859,Racing-Santander
+,Jonathan Pereira,es ESP,FW,32,30,4.0,5.0,2008-2009,/en/players/806ab4b6/Jonathan-Pereira,806ab4b6,Racing-Santander,"2,540",28.2,9.0,1.0,52,1.0,1427,Racing-Santander
+,Pedro Munitis,es ESP,FW,29,27,8.0,2.0,2008-2009,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"2,448",27.2,9.0,0.0,52,1.0,388,Racing-Santander
+,Gonzalo Colsa,es ESP,MF,34,26,2.0,2.0,2008-2009,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Racing-Santander,"2,330",25.9,8.0,0.0,52,1.0,1565,Racing-Santander
+,Pablo Pinillos Caro,es ESP,DF,29,25,0.0,1.0,2008-2009,/en/players/9d19d667/Pablo-Pinillos-Caro,9d19d667,Racing-Santander,"2,269",25.2,12.0,1.0,52,1.0,2858,Racing-Santander
+,Ezequiel Garay,ar ARG,DF,24,24,1.0,2.0,2008-2009,/en/players/ac3fb1be/Ezequiel-Garay,c3fb1be,Racing-Santander,"2,075",23.1,6.0,1.0,52,5.0,84,Racing-Santander
+,Juan Valera Espín,es ESP,"DF,MF",25,23,0.0,2.0,2008-2009,/en/players/947fa33c/Juan-Valera-Espin,947fa33c,Racing-Santander,"1,894",21.0,5.0,0.0,52,1.0,2160,Racing-Santander
+,Nikola Žigić,rs SRB,FW,19,19,1.0,13.0,2008-2009,/en/players/aad584e0/Nikola-Zigic,d584e0,Racing-Santander,"1,684",18.7,10.0,0.0,52,28.0,919,Racing-Santander
+,César Navas,es ESP,DF,19,19,0.0,1.0,2008-2009,/en/players/9f7ceb30/Cesar-Navas,9f7ceb30,Racing-Santander,"1,648",18.3,3.0,1.0,52,1.0,2317,Racing-Santander
+,Mohamed Tchité,bi BDI,FW,25,15,0.0,6.0,2008-2009,/en/players/39b8619d/Mohamed-Tchite,39b8619d,Racing-Santander,"1,562",17.4,3.0,0.0,52,98.0,2871,Racing-Santander
+,László Sepsi,ro ROU,DF,19,14,0.0,0.0,2008-2009,/en/players/8bb2be61/Laszlo-Sepsi,8bb2be61,Racing-Santander,"1,215",13.5,4.0,0.0,52,51.0,2877,Racing-Santander
+,Peter Luccin,fr FRA,MF,23,12,0.0,2.0,2008-2009,/en/players/3270f1b5/Peter-Luccin,3270f1b5,Racing-Santander,"1,247",13.9,10.0,1.0,52,4.0,617,Racing-Santander
+,Toni Moral,es ESP,MF,18,11,1.0,1.0,2008-2009,/en/players/5c3bf3f9/Toni-Moral,5c3bf3f9,Racing-Santander,"1,028",11.4,6.0,0.0,52,1.0,661,Racing-Santander
+,José Moratón,es ESP,DF,12,10,0.0,0.0,2008-2009,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,718,8.0,4.0,0.0,52,1.0,2829,Racing-Santander
+,Christian,es ESP,DF,10,8,0.0,1.0,2008-2009,/en/players/1d5a68fe/Christian,1d5a68fe,Racing-Santander,643,7.1,2.0,0.0,52,1.0,2867,Racing-Santander
+,Oriol Lozano,es ESP,DF,13,7,0.0,0.0,2008-2009,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,875,9.7,5.0,0.0,52,1.0,2852,Racing-Santander
+,Juanjo Expósito,es ESP,FW,14,4,0.0,1.0,2008-2009,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Racing-Santander,517,5.7,2.0,0.0,52,1.0,1836,Racing-Santander
+,Fabio Coltorti,ch SUI,GK,6,4,0.0,0.0,2008-2009,/en/players/6695cec2/Fabio-Coltorti,6695cec2,Racing-Santander,421,4.7,0.0,0.0,52,39.0,2873,Racing-Santander
+,Edu Bedia,es ESP,MF,12,2,0.0,0.0,2008-2009,/en/players/2dc8077c/Edu-Bedia,2dc8077c,Racing-Santander,399,4.4,0.0,0.0,52,1.0,2878,Racing-Santander
+,Luis Fernández,es ESP,DF,2,2,0.0,0.0,2008-2009,/en/players/2e6263ab/Luis-Fernandez,2e6263ab,Racing-Santander,164,1.8,1.0,0.0,52,1.0,1351,Racing-Santander
+,Jorge Gonçalves,pt POR,"FW,MF",10,1,0.0,0.0,2008-2009,/en/players/617941cb/Jorge-Goncalves,617941cb,Racing-Santander,207,2.3,0.0,0.0,52,3.0,2879,Racing-Santander
+,Jorge López,es ESP,MF,1,1,0.0,0.0,2008-2009,/en/players/cf66479e/Jorge-Lopez,cf66479e,Racing-Santander,73,0.8,0.0,0.0,52,1.0,884,Racing-Santander
+,Sergio Canales,es ESP,MF,6,0,1.0,0.0,2008-2009,/en/players/a6de370d/Sergio-Canales,6de370d,Racing-Santander,111,1.2,0.0,0.0,52,1.0,93,Racing-Santander
+,Jesús Berrocal,es ESP,FW,3,0,0.0,1.0,2008-2009,/en/players/13fba9d3/Jesus-Berrocal,13fba9d3,Racing-Santander,65,0.7,0.0,0.0,52,1.0,2880,Racing-Santander
+,Luisma,es ESP,"FW,MF",1,0,,0.0,2008-2009,/en/players/1b617e0a/Luisma,1b617e0a,Racing-Santander,11,0.1,0.0,0.0,52,1.0,2875,Racing-Santander
+,Uri Santos,es ESP,FW,1,0,0.0,0.0,2008-2009,/en/players/7cf4049b/Uri-Santos,7cf4049b,Racing-Santander,11,0.1,0.0,0.0,52,1.0,2881,Racing-Santander
+,José Picón,es ESP,DF,1,0,0.0,0.0,2008-2009,/en/players/6960a69e/Jose-Picon,6960a69e,Racing-Santander,2,0.0,0.0,0.0,52,1.0,2882,Racing-Santander
+,﻿Mehdi Lacen,dz ALG,MF,33,28,1.0,3.0,2009-2010,/en/players/a3a306f6/Mehdi-Lacen,3a306f6,Racing-Santander,"2,554",28.4,4.0,0.0,52,37.0,2430,Racing-Santander
+,Gonzalo Colsa,es ESP,MF,30,28,1.0,3.0,2009-2010,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Racing-Santander,"2,535",28.2,10.0,0.0,52,1.0,1565,Racing-Santander
+,Christian,es ESP,DF,29,28,0.0,2.0,2009-2010,/en/players/1d5a68fe/Christian,1d5a68fe,Racing-Santander,"2,504",27.8,6.0,0.0,52,1.0,2867,Racing-Santander
+,Mohamed Tchité,bi BDI,FW,29,28,1.0,11.0,2009-2010,/en/players/39b8619d/Mohamed-Tchite,39b8619d,Racing-Santander,"2,111",23.5,5.0,1.0,52,98.0,2871,Racing-Santander
+,Marc Torrejón,es ESP,DF,27,27,0.0,0.0,2009-2010,/en/players/6d7ff2c4/Marc-Torrejon,6d7ff2c4,Racing-Santander,"2,399",26.7,4.0,0.0,52,1.0,2883,Racing-Santander
+,Pedro Munitis,es ESP,FW,29,27,7.0,0.0,2009-2010,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"2,180",24.2,6.0,0.0,52,1.0,388,Racing-Santander
+,Óscar Serrano,es ESP,MF,33,27,2.0,3.0,2009-2010,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,"2,169",24.1,7.0,0.0,52,1.0,2859,Racing-Santander
+,Fabio Coltorti,ch SUI,GK,23,22,0.0,0.0,2009-2010,/en/players/6695cec2/Fabio-Coltorti,6695cec2,Racing-Santander,"2,001",22.2,2.0,0.0,52,39.0,2873,Racing-Santander
+,Pablo Pinillos Caro,es ESP,DF,23,22,0.0,0.0,2009-2010,/en/players/9d19d667/Pablo-Pinillos-Caro,9d19d667,Racing-Santander,"1,921",21.3,7.0,0.0,52,1.0,2858,Racing-Santander
+,Papakouli Diop,sn SEN,MF,23,21,0.0,1.0,2009-2010,/en/players/7329018e/Papakouli-Diop,7329018e,Racing-Santander,"1,827",20.3,6.0,0.0,52,34.0,2884,Racing-Santander
+,Henrique,br BRA,DF,22,20,0.0,1.0,2009-2010,/en/players/429163de/Henrique,429163de,Racing-Santander,"1,853",20.6,4.0,0.0,52,2.0,2885,Racing-Santander
+,Sergio Canales,es ESP,MF,26,19,4.0,6.0,2009-2010,/en/players/a6de370d/Sergio-Canales,6de370d,Racing-Santander,"1,616",18.0,2.0,0.0,52,1.0,93,Racing-Santander
+,Manuel Arana,es ESP,MF,31,17,2.0,4.0,2009-2010,/en/players/81fac4d9/Manuel-Arana,81fac4d9,Racing-Santander,"1,772",19.7,3.0,0.0,52,1.0,1659,Racing-Santander
+,Toño,es ESP,GK,16,16,0.0,0.0,2009-2010,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,"1,419",15.8,0.0,0.0,52,1.0,2857,Racing-Santander
+,Oriol Lozano,es ESP,DF,19,15,0.0,0.0,2009-2010,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,"1,447",16.1,6.0,2.0,52,1.0,2852,Racing-Santander
+,José Ángel Crespo,es ESP,DF,14,14,1.0,0.0,2009-2010,/en/players/8ec4c2f7/Jose-Angel-Crespo,8ec4c2f7,Racing-Santander,"1,176",13.1,5.0,1.0,52,1.0,1821,Racing-Santander
+,Nasief Morris,za RSA,DF,12,12,0.0,1.0,2009-2010,/en/players/0e24ab98/Nasief-Morris,0e24ab98,Racing-Santander,"1,001",11.1,6.0,1.0,52,60.0,2886,Racing-Santander
+,José Moratón,es ESP,DF,11,10,0.0,0.0,2009-2010,/en/players/f197b95a/Jose-Moraton,f197b95a,Racing-Santander,827,9.2,4.0,2.0,52,1.0,2829,Racing-Santander
+,Toni Moral,es ESP,MF,18,10,0.0,1.0,2009-2010,/en/players/5c3bf3f9/Toni-Moral,5c3bf3f9,Racing-Santander,807,9.0,3.0,0.0,52,1.0,661,Racing-Santander
+,Alexandre Geijo,es ESP,FW,19,8,2.0,1.0,2009-2010,/en/players/c0787e61/Alexandre-Geijo,c0787e61,Racing-Santander,821,9.1,1.0,0.0,52,1.0,1654,Racing-Santander
+,Xisco,es ESP,FW,22,7,0.0,3.0,2009-2010,/en/players/d2790f7a/Xisco,d2790f7a,Racing-Santander,927,10.3,5.0,0.0,52,1.0,395,Racing-Santander
+,Luis García,es ESP,MF,15,4,0.0,0.0,2009-2010,/en/players/a5c8d2b7/Luis-Garcia,5c8d2b7,Racing-Santander,587,6.5,2.0,0.0,52,1.0,1076,Racing-Santander
+,László Sepsi,ro ROU,DF,5,4,0.0,0.0,2009-2010,/en/players/8bb2be61/Laszlo-Sepsi,8bb2be61,Racing-Santander,381,4.2,0.0,0.0,52,51.0,2877,Racing-Santander
+,Iván Bolado,gq EQG,FW,12,3,2.0,2.0,2009-2010,/en/players/5686e45d/Ivan-Bolado,5686e45d,Racing-Santander,426,4.7,2.0,0.0,52,10.0,2872,Racing-Santander
+,Osmar,es ESP,"DF,MF",1,1,0.0,0.0,2009-2010,/en/players/8598175c/Osmar,8598175c,Racing-Santander,90,1.0,0.0,0.0,52,1.0,2887,Racing-Santander
+,Edu Bedia,es ESP,MF,5,0,0.0,0.0,2009-2010,/en/players/2dc8077c/Edu-Bedia,2dc8077c,Racing-Santander,77,0.9,0.0,0.0,52,1.0,2878,Racing-Santander
+,Juanjo Expósito,es ESP,FW,1,0,0.0,0.0,2009-2010,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Racing-Santander,34,0.4,0.0,0.0,52,1.0,1836,Racing-Santander
+,Luisma,es ESP,"FW,MF",1,0,0.0,0.0,2009-2010,/en/players/1b617e0a/Luisma,1b617e0a,Racing-Santander,21,0.2,0.0,0.0,52,1.0,2875,Racing-Santander
+,Mario Ortiz Ruiz,es ESP,MF,2,0,0.0,0.0,2009-2010,/en/players/82661dc4/Mario-Ortiz-Ruiz,82661dc4,Racing-Santander,14,0.2,0.0,0.0,52,1.0,2888,Racing-Santander
+,﻿Toño,es ESP,GK,37,37,0.0,0.0,2010-2011,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,"3,330",37.0,5.0,0.0,52,1.0,2857,Racing-Santander
+,Marc Torrejón,es ESP,DF,36,36,1.0,1.0,2010-2011,/en/players/6d7ff2c4/Marc-Torrejon,6d7ff2c4,Racing-Santander,"3,150",35.0,5.0,0.0,52,1.0,2883,Racing-Santander
+,Henrique,br BRA,DF,35,35,1.0,2.0,2010-2011,/en/players/429163de/Henrique,429163de,Racing-Santander,"3,078",34.2,8.0,1.0,52,2.0,2885,Racing-Santander
+,Pedro Munitis,es ESP,FW,36,33,4.0,1.0,2010-2011,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"2,830",31.4,9.0,1.0,52,1.0,388,Racing-Santander
+,Gonzalo Colsa,es ESP,MF,31,30,1.0,2.0,2010-2011,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Racing-Santander,"2,660",29.6,8.0,0.0,52,1.0,1565,Racing-Santander
+,Kennedy Bakircioglü,se SWE,MF,32,30,3.0,6.0,2010-2011,/en/players/f6792b79/Kennedy-Bakircioglu,f6792b79,Racing-Santander,"2,339",26.0,5.0,0.0,52,41.0,2889,Racing-Santander
+,Markus Rosenberg,se SWE,FW,33,29,0.0,9.0,2010-2011,/en/players/5faa73aa/Markus-Rosenberg,5faa73aa,Racing-Santander,"2,391",26.6,9.0,1.0,52,41.0,8610,Racing-Santander
+,Domingo Cisma,es ESP,DF,32,27,1.0,0.0,2010-2011,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Racing-Santander,"2,415",26.8,7.0,1.0,52,1.0,2204,Racing-Santander
+,Mehdi Lacen,dz ALG,MF,33,24,1.0,1.0,2010-2011,/en/players/a3a306f6/Mehdi-Lacen,3a306f6,Racing-Santander,"2,336",26.0,5.0,1.0,52,37.0,2430,Racing-Santander
+,Francis,es ESP,"DF,MF",24,20,1.0,0.0,2010-2011,/en/players/ee4c7c24/Francis,4c7c24,Racing-Santander,"1,841",20.5,4.0,1.0,52,1.0,2890,Racing-Santander
+,Pablo Pinillos Caro,es ESP,DF,20,19,2.0,2.0,2010-2011,/en/players/9d19d667/Pablo-Pinillos-Caro,9d19d667,Racing-Santander,"1,638",18.2,5.0,0.0,52,1.0,2858,Racing-Santander
+,Adrián González,es ESP,MF,23,16,2.0,0.0,2010-2011,/en/players/57ebd662/Adrian-Gonzalez,57ebd662,Racing-Santander,"1,311",14.6,2.0,0.0,52,1.0,697,Racing-Santander
+,Ariel Nahuelpán,ar ARG,FW,30,15,0.0,3.0,2010-2011,/en/players/3334db7c/Ariel-Nahuelpan,3334db7c,Racing-Santander,"1,376",15.3,2.0,0.0,52,5.0,2891,Racing-Santander
+,Christian,es ESP,DF,18,13,0.0,3.0,2010-2011,/en/players/1d5a68fe/Christian,1d5a68fe,Racing-Santander,"1,249",13.9,1.0,1.0,52,1.0,2867,Racing-Santander
+,Papakouli Diop,sn SEN,MF,19,13,1.0,0.0,2010-2011,/en/players/7329018e/Papakouli-Diop,7329018e,Racing-Santander,"1,060",11.8,5.0,0.0,52,34.0,2884,Racing-Santander
+,Giovani dos Santos,mx MEX,"FW,MF",16,9,1.0,5.0,2010-2011,/en/players/7dba6233/Giovani-dos-Santos,7dba6233,Racing-Santander,958,10.6,1.0,0.0,52,20.0,1113,Racing-Santander
+,Alexandros Tziolis,gr GRE,MF,10,8,0.0,0.0,2010-2011,/en/players/99138b2e/Alexandros-Tziolis,99138b2e,Racing-Santander,731,8.1,1.0,0.0,52,55.0,2892,Racing-Santander
+,Iván Bolado,gq EQG,FW,19,7,0.0,1.0,2010-2011,/en/players/5686e45d/Ivan-Bolado,5686e45d,Racing-Santander,733,8.1,2.0,0.0,52,10.0,2872,Racing-Santander
+,Manuel Arana,es ESP,MF,14,5,1.0,1.0,2010-2011,/en/players/81fac4d9/Manuel-Arana,81fac4d9,Racing-Santander,587,6.5,3.0,0.0,52,1.0,1659,Racing-Santander
+,Álvaro González,es ESP,DF,3,3,0.0,0.0,2010-2011,/en/players/42dcf26d/Alvaro-Gonzalez,42dcf26d,Racing-Santander,261,2.9,2.0,0.0,52,1.0,2785,Racing-Santander
+,Osmar,es ESP,"DF,MF",4,2,0.0,0.0,2010-2011,/en/players/8598175c/Osmar,8598175c,Racing-Santander,258,2.9,0.0,0.0,52,1.0,2887,Racing-Santander
+,Waldo Ponce,cl CHI,DF,2,2,0.0,0.0,2010-2011,/en/players/d10210a7/Waldo-Ponce,d10210a7,Racing-Santander,180,2.0,0.0,0.0,52,31.0,2893,Racing-Santander
+,Julián Luque Conde,es ESP,"FW,MF",7,1,1.0,0.0,2010-2011,/en/players/61d8d347/Julian-Luque-Conde,61d8d347,Racing-Santander,226,2.5,0.0,0.0,52,1.0,2894,Racing-Santander
+,Mario Fernández,es ESP,GK,1,1,0.0,0.0,2010-2011,/en/players/02c89cb6/Mario-Fernandez,02c89cb6,Racing-Santander,90,1.0,0.0,0.0,52,1.0,2078,Racing-Santander
+,Mohamed Tchité,bi BDI,FW,1,1,0.0,0.0,2010-2011,/en/players/39b8619d/Mohamed-Tchite,39b8619d,Racing-Santander,90,1.0,0.0,0.0,52,98.0,2871,Racing-Santander
+,Ramón Arcas,es ESP,MF,1,1,0.0,0.0,2010-2011,/en/players/40fc30d6/Ramon-Arcas,40fc30d6,Racing-Santander,78,0.9,0.0,0.0,52,1.0,2895,Racing-Santander
+,Tato,es ESP,MF,2,1,0.0,0.0,2010-2011,/en/players/03c45164/Tato,03c45164,Racing-Santander,78,0.9,0.0,0.0,52,1.0,2896,Racing-Santander
+,Edu Bedia,es ESP,MF,6,0,0.0,0.0,2010-2011,/en/players/2dc8077c/Edu-Bedia,2dc8077c,Racing-Santander,80,0.9,0.0,0.0,52,1.0,2878,Racing-Santander
+,Óscar Serrano,es ESP,MF,4,0,0.0,1.0,2010-2011,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,57,0.6,1.0,0.0,52,1.0,2859,Racing-Santander
+,﻿Álvaro González,es ESP,DF,34,34,0.0,1.0,2011-2012,/en/players/42dcf26d/Alvaro-Gonzalez,42dcf26d,Racing-Santander,"3,028",33.6,14.0,0.0,52,1.0,2785,Racing-Santander
+,Papakouli Diop,sn SEN,MF,34,33,4.0,1.0,2011-2012,/en/players/7329018e/Papakouli-Diop,7329018e,Racing-Santander,"2,856",31.7,13.0,2.0,52,34.0,2884,Racing-Santander
+,Adrián González,es ESP,MF,35,29,4.0,3.0,2011-2012,/en/players/57ebd662/Adrian-Gonzalez,57ebd662,Racing-Santander,"2,357",26.2,5.0,0.0,52,1.0,697,Racing-Santander
+,Marc Torrejón,es ESP,DF,29,27,0.0,1.0,2011-2012,/en/players/6d7ff2c4/Marc-Torrejon,6d7ff2c4,Racing-Santander,"2,408",26.8,3.0,0.0,52,1.0,2883,Racing-Santander
+,Bernardo Espinosa,co COL,DF,25,25,0.0,2.0,2011-2012,/en/players/4242011c/Bernardo-Espinosa,4242011c,Racing-Santander,"2,205",24.5,4.0,0.0,52,19.0,1857,Racing-Santander
+,Domingo Cisma,es ESP,DF,26,25,0.0,0.0,2011-2012,/en/players/4d85b73c/Domingo-Cisma,4d85b73c,Racing-Santander,"2,195",24.4,9.0,1.0,52,1.0,2204,Racing-Santander
+,Toño,es ESP,GK,25,25,0.0,0.0,2011-2012,/en/players/2ed4ea81/Tono,2ed4ea81,Racing-Santander,"2,162",24.0,5.0,1.0,52,1.0,2857,Racing-Santander
+,Cristhian Stuani,uy URU,"FW,MF",32,24,2.0,9.0,2011-2012,/en/players/220c11f1/Cristhian-Stuani,220c11f1,Racing-Santander,"2,166",24.1,7.0,0.0,52,8.0,2897,Racing-Santander
+,Manuel Arana,es ESP,MF,28,22,2.0,2.0,2011-2012,/en/players/81fac4d9/Manuel-Arana,81fac4d9,Racing-Santander,"2,022",22.5,8.0,0.0,52,1.0,1659,Racing-Santander
+,Pedro Munitis,es ESP,FW,32,22,2.0,0.0,2011-2012,/en/players/61b5cd53/Pedro-Munitis,61b5cd53,Racing-Santander,"1,975",21.9,7.0,1.0,52,1.0,388,Racing-Santander
+,Francis,es ESP,"DF,MF",22,22,0.0,0.0,2011-2012,/en/players/ee4c7c24/Francis,4c7c24,Racing-Santander,"1,867",20.7,5.0,1.0,52,1.0,2890,Racing-Santander
+,Christian,es ESP,DF,20,14,0.0,1.0,2011-2012,/en/players/1d5a68fe/Christian,1d5a68fe,Racing-Santander,"1,362",15.1,7.0,0.0,52,1.0,2867,Racing-Santander
+,Lautaro Acosta,ar ARG,"FW,MF",21,14,0.0,2.0,2011-2012,/en/players/2a3af4d5/Lautaro-Acosta,2a3af4d5,Racing-Santander,"1,259",14.0,4.0,0.0,52,5.0,1842,Racing-Santander
+,Jairo Samperio,es ESP,"FW,MF",25,14,4.0,2.0,2011-2012,/en/players/c0a0c18f/Jairo-Samperio,c0a0c18f,Racing-Santander,"1,250",13.9,2.0,0.0,52,1.0,1881,Racing-Santander
+,Gonzalo Colsa,es ESP,MF,18,14,0.0,1.0,2011-2012,/en/players/6fa12b44/Gonzalo-Colsa,6fa12b44,Racing-Santander,"1,219",13.5,4.0,0.0,52,1.0,1565,Racing-Santander
+,Mario Fernández,es ESP,GK,13,12,0.0,0.0,2011-2012,/en/players/02c89cb6/Mario-Fernandez,02c89cb6,Racing-Santander,"1,124",12.5,2.0,0.0,52,1.0,2078,Racing-Santander
+,Marcos Gullón,es ESP,MF,10,9,0.0,0.0,2011-2012,/en/players/80a6cb7f/Marcos-Gullon,80a6cb7f,Racing-Santander,673,7.5,4.0,1.0,52,1.0,2753,Racing-Santander
+,Julián Luque Conde,es ESP,"FW,MF",15,8,1.0,0.0,2011-2012,/en/players/61d8d347/Julian-Luque-Conde,61d8d347,Racing-Santander,583,6.5,2.0,0.0,52,1.0,2894,Racing-Santander
+,Edu Bedia,es ESP,MF,11,7,1.0,0.0,2011-2012,/en/players/2dc8077c/Edu-Bedia,2dc8077c,Racing-Santander,701,7.8,2.0,0.0,52,1.0,2878,Racing-Santander
+,Alexandros Tziolis,gr GRE,MF,12,6,0.0,0.0,2011-2012,/en/players/99138b2e/Alexandros-Tziolis,99138b2e,Racing-Santander,614,6.8,2.0,0.0,52,55.0,2892,Racing-Santander
+,Osmar,es ESP,"DF,MF",8,5,0.0,0.0,2011-2012,/en/players/8598175c/Osmar,8598175c,Racing-Santander,557,6.2,4.0,0.0,52,1.0,2887,Racing-Santander
+,Ariel Nahuelpán,ar ARG,FW,10,5,0.0,2.0,2011-2012,/en/players/3334db7c/Ariel-Nahuelpan,3334db7c,Racing-Santander,472,5.2,1.0,1.0,52,5.0,2891,Racing-Santander
+,Mamadou Koné,ci CIV,FW,6,5,0.0,0.0,2011-2012,/en/players/85b9dca0/Mamadou-Kone,85b9dca0,Racing-Santander,396,4.4,0.0,0.0,52,35.0,567,Racing-Santander
+,Óscar Serrano,es ESP,MF,8,4,0.0,0.0,2011-2012,/en/players/c862ecc5/Oscar-Serrano,c862ecc5,Racing-Santander,411,4.6,1.0,0.0,52,1.0,2859,Racing-Santander
+,Quique Rivero,es ESP,MF,4,4,0.0,0.0,2011-2012,/en/players/0204d102/Quique-Rivero,0204d102,Racing-Santander,360,4.0,1.0,0.0,52,1.0,2898,Racing-Santander
+,Khouma Babacar,sn SEN,FW,8,4,0.0,0.0,2011-2012,/en/players/422ec08a/Khouma-Babacar,422ec08a,Racing-Santander,340,3.8,1.0,0.0,52,34.0,21255,Racing-Santander
+,Kennedy Bakircioglü,se SWE,MF,7,2,1.0,0.0,2011-2012,/en/players/f6792b79/Kennedy-Bakircioglu,f6792b79,Racing-Santander,298,3.3,0.0,0.0,52,41.0,2889,Racing-Santander
+,José Picón,es ESP,DF,3,2,0.0,0.0,2011-2012,/en/players/6960a69e/Jose-Picon,6960a69e,Racing-Santander,189,2.1,0.0,0.0,52,1.0,2882,Racing-Santander
+,Daniel Sotres,es ESP,GK,2,1,0.0,0.0,2011-2012,/en/players/0a02a8fa/Daniel-Sotres,0a02a8fa,Racing-Santander,134,1.5,0.0,0.0,52,1.0,802,Racing-Santander
+,Javi Martínez,es ESP,FW,4,0,0.0,0.0,2011-2012,/en/players/95e8b24a/Javi-Martinez,95e8b24a,Racing-Santander,84,0.9,1.0,0.0,52,1.0,2899,Racing-Santander
+,Jaime Isuardi,es ESP,FW,2,0,0.0,0.0,2011-2012,/en/players/eb844581/Jaime-Isuardi,b844581,Racing-Santander,38,0.4,0.0,0.0,52,1.0,2900,Racing-Santander
+,Borja García,es ESP,DF,1,0,0.0,0.0,2011-2012,/en/players/13c3bec9/Borja-Garcia,13c3bec9,Racing-Santander,23,0.3,0.0,0.0,52,1.0,2901,Racing-Santander
+,﻿Francis,es ESP,"DF,MF",38,38,0.0,0.0,2012-2013,/en/players/ee4c7c24/Francis,4c7c24,Racing-Santander,"3,289",36.5,14.0,1.0,52,1.0,2890,Racing-Santander
+,Héctor Yuste,es ESP,"DF,MF",34,32,0.0,1.0,2012-2013,/en/players/f50a668a/Hector-Yuste,f50a668a,Racing-Santander,"2,887",32.1,4.0,0.0,52,1.0,1662,Racing-Santander
+,Jairo Samperio,es ESP,"FW,MF",38,30,3.0,10.0,2012-2013,/en/players/c0a0c18f/Jairo-Samperio,c0a0c18f,Racing-Santander,"2,616",29.1,8.0,1.0,52,1.0,1881,Racing-Santander
+,David Ferreiro,es ESP,"FW,MF",35,30,7.0,1.0,2012-2013,/en/players/8970907e/David-Ferreiro,8970907e,Racing-Santander,"2,525",28.1,4.0,0.0,52,1.0,2902,Racing-Santander
+,Mario Fernández,es ESP,GK,29,29,0.0,0.0,2012-2013,/en/players/02c89cb6/Mario-Fernandez,02c89cb6,Racing-Santander,"2,563",28.5,5.0,0.0,52,1.0,2078,Racing-Santander
+,Marcos Gullón,es ESP,MF,34,28,0.0,4.0,2012-2013,/en/players/80a6cb7f/Marcos-Gullon,80a6cb7f,Racing-Santander,"2,539",28.2,7.0,0.0,52,1.0,2753,Racing-Santander
+,Carlos Bocanegra,us USA,DF,23,23,1.0,0.0,2012-2013,/en/players/c76a89aa/Carlos-Bocanegra,c76a89aa,Racing-Santander,"2,020",22.4,8.0,0.0,52,75.0,2903,Racing-Santander
+,Albert Dorca,es ESP,MF,22,21,1.0,2.0,2012-2013,/en/players/01c3b68a/Albert-Dorca,01c3b68a,Racing-Santander,"1,834",20.4,5.0,1.0,52,1.0,2904,Racing-Santander
+,Tiago Pinto,pt POR,DF,19,19,1.0,1.0,2012-2013,/en/players/e7bfde19/Tiago-Pinto,7bfde19,Racing-Santander,"1,622",18.0,4.0,0.0,52,3.0,474,Racing-Santander
+,Óscar Pérez,es ESP,MF,30,18,1.0,2.0,2012-2013,/en/players/a4ae5f6a/Oscar-Perez,4ae5f6a,Racing-Santander,"1,569",17.4,7.0,1.0,52,1.0,2905,Racing-Santander
+,Martí Crespí,es ESP,DF,18,17,0.0,0.0,2012-2013,/en/players/bb2d18be/Marti-Crespi,bb2d18be,Racing-Santander,"1,516",16.8,3.0,0.0,52,1.0,1626,Racing-Santander
+,Quini,es ESP,FW,21,17,1.0,3.0,2012-2013,/en/players/b807947b/Quini,b807947b,Racing-Santander,"1,432",15.9,5.0,0.0,52,1.0,2906,Racing-Santander
+,Mamadou Koné,ci CIV,FW,36,14,5.0,5.0,2012-2013,/en/players/85b9dca0/Mamadou-Kone,85b9dca0,Racing-Santander,"1,716",19.1,7.0,0.0,52,35.0,567,Racing-Santander
+,Gai Assulin,il ISR,MF,27,14,2.0,3.0,2012-2013,/en/players/ba776102/Gai-Assulin,ba776102,Racing-Santander,"1,463",16.3,3.0,0.0,52,45.0,1669,Racing-Santander
+,Borja Docal,es ESP,"DF,MF",17,14,0.0,1.0,2012-2013,/en/players/754dd22a/Borja-Docal,754dd22a,Racing-Santander,"1,314",14.6,4.0,0.0,52,1.0,2907,Racing-Santander
+,Juanmi,es ESP,"FW,MF",19,14,0.0,0.0,2012-2013,/en/players/84399660/Juanmi,84399660,Racing-Santander,"1,144",12.7,2.0,1.0,52,1.0,315,Racing-Santander
+,Daniel Sotres,es ESP,GK,14,13,0.0,0.0,2012-2013,/en/players/0a02a8fa/Daniel-Sotres,0a02a8fa,Racing-Santander,"1,217",13.5,2.0,0.0,52,1.0,802,Racing-Santander
+,Álex Goikoetxea,es ESP,DF,13,13,1.0,1.0,2012-2013,/en/players/96e3064d/Alex-Goikoetxea,96e3064d,Racing-Santander,"1,148",12.8,1.0,0.0,52,1.0,2908,Racing-Santander
+,Hameur Bouazza,dz ALG,"FW,MF",17,13,1.0,0.0,2012-2013,/en/players/baca4d08/Hameur-Bouazza,baca4d08,Racing-Santander,"1,014",11.3,3.0,0.0,52,37.0,2909,Racing-Santander
+,Andreu Guerao,es ESP,MF,13,11,0.0,0.0,2012-2013,/en/players/2358bf6a/Andreu-Guerao,2358bf6a,Racing-Santander,"1,011",11.2,4.0,0.0,52,1.0,2910,Racing-Santander
+,David Rochela,es ESP,DF,12,11,1.0,0.0,2012-2013,/en/players/ac3499f5/David-Rochela,c3499f5,Racing-Santander,984,10.9,1.0,0.0,52,1.0,442,Racing-Santander
+,Andrija Kaluđerović,rs SRB,FW,18,10,0.0,3.0,2012-2013,/en/players/20fa7deb/Andrija-Kaludjerovic,20fa7deb,Racing-Santander,918,10.2,2.0,0.0,52,28.0,2911,Racing-Santander
+,Jorge Alonso,es ESP,MF,13,8,0.0,0.0,2012-2013,/en/players/2c619fad/Jorge-Alonso,2c619fad,Racing-Santander,682,7.6,4.0,0.0,52,1.0,2573,Racing-Santander
+,Dani Bautista,es ESP,DF,9,7,0.0,0.0,2012-2013,/en/players/135b0a5e/Dani-Bautista,135b0a5e,Racing-Santander,649,7.2,0.0,0.0,52,1.0,2912,Racing-Santander
+,Ruymán Hernández,es ESP,DF,5,5,0.0,0.0,2012-2013,/en/players/4d598125/Ruyman-Hernandez,4d598125,Racing-Santander,450,5.0,2.0,0.0,52,1.0,2913,Racing-Santander
+,Antonio Longás,es ESP,MF,6,4,0.0,0.0,2012-2013,/en/players/d7821711/Antonio-Longas,d7821711,Racing-Santander,287,3.2,0.0,0.0,52,1.0,2914,Racing-Santander
+,Gaizka Saizar,es ESP,FW,9,3,0.0,0.0,2012-2013,/en/players/5a706676/Gaizka-Saizar,5a706676,Racing-Santander,317,3.5,2.0,0.0,52,1.0,2915,Racing-Santander
+,Quique Rivero,es ESP,MF,4,2,0.0,0.0,2012-2013,/en/players/0204d102/Quique-Rivero,0204d102,Racing-Santander,182,2.0,2.0,0.0,52,1.0,2898,Racing-Santander
+,César de la Hoz,es ESP,MF,2,2,0.0,0.0,2012-2013,/en/players/60abea75/Cesar-de-la-Hoz,60abea75,Racing-Santander,180,2.0,0.0,0.0,52,1.0,2916,Racing-Santander
+,Gonzalo Herrero,es ESP,"DF,MF",2,1,0.0,0.0,2012-2013,/en/players/48b5fbcd/Gonzalo-Herrero,48b5fbcd,Racing-Santander,116,1.3,0.0,0.0,52,1.0,2917,Racing-Santander
+,Javi Barrio,es ESP,DF,1,1,0.0,0.0,2012-2013,/en/players/5e85bab4/Javi-Barrio,5e85bab4,Racing-Santander,90,1.0,1.0,0.0,52,1.0,2918,Racing-Santander
+,Julián Luque Conde,es ESP,"FW,MF",7,0,0.0,0.0,2012-2013,/en/players/61d8d347/Julian-Luque-Conde,61d8d347,Racing-Santander,150,1.7,2.0,0.0,52,1.0,2894,Racing-Santander
+,Jaime Isuardi,es ESP,FW,1,0,0.0,0.0,2012-2013,/en/players/eb844581/Jaime-Isuardi,b844581,Racing-Santander,17,0.2,0.0,0.0,52,1.0,2900,Racing-Santander
+,﻿Iñaki Sáenz,es ESP,MF,41,41,5.0,3.0,2014-2015,/en/players/995e3a10/Inaki-Saenz,995e3a10,Racing-Santander,"3,543",39.4,11.0,0.0,52,1.0,2919,Racing-Santander
+,Pedro Orfila,es ESP,DF,39,39,0.0,0.0,2014-2015,/en/players/a38c114e/Pedro-Orfila,38c114e,Racing-Santander,"3,406",37.8,8.0,0.0,52,1.0,2920,Racing-Santander
+,Juanpe,es ESP,DF,36,34,1.0,3.0,2014-2015,/en/players/1633fc8a/Juanpe,1633fc8a,Racing-Santander,"3,094",34.4,15.0,0.0,52,1.0,2617,Racing-Santander
+,David Concha,es ESP,"FW,MF",35,33,3.0,5.0,2014-2015,/en/players/c8355268/David-Concha,c8355268,Racing-Santander,"2,923",32.5,3.0,0.0,52,1.0,316,Racing-Santander
+,Fede San Emeterio,es ESP,MF,35,33,0.0,0.0,2014-2015,/en/players/efecd633/Fede-San-Emeterio,fecd633,Racing-Santander,"2,789",31.0,15.0,0.0,52,1.0,2670,Racing-Santander
+,Mario Fernández,es ESP,GK,32,32,0.0,0.0,2014-2015,/en/players/02c89cb6/Mario-Fernandez,02c89cb6,Racing-Santander,"2,875",31.9,5.0,1.0,52,1.0,2078,Racing-Santander
+,Saúl García,es ESP,DF,36,28,2.0,0.0,2014-2015,/en/players/dafa5038/Saul-Garcia,dafa5038,Racing-Santander,"2,462",27.4,6.0,0.0,52,1.0,549,Racing-Santander
+,David Miguélez,es ESP,FW,32,25,1.0,2.0,2014-2015,/en/players/34a1a8f4/David-Miguelez,34a1a8f4,Racing-Santander,"2,129",23.7,4.0,0.0,52,1.0,2921,Racing-Santander
+,Javi Soria,es ESP,"DF,MF",28,21,2.0,2.0,2014-2015,/en/players/c4889739/Javi-Soria,c4889739,Racing-Santander,"1,763",19.6,4.0,1.0,52,1.0,2922,Racing-Santander
+,Samuel,es ESP,DF,22,18,0.0,0.0,2014-2015,/en/players/a7055133/Samuel,7055133,Racing-Santander,"1,639",18.2,7.0,1.0,52,1.0,2861,Racing-Santander
+,Álvaro García,es ESP,MF,30,16,5.0,3.0,2014-2015,/en/players/90bbd822/Alvaro-Garcia,90bbd822,Racing-Santander,"1,584",17.6,4.0,0.0,52,1.0,2923,Racing-Santander
+,Quique,es ESP,"FW,MF",19,16,2.0,4.0,2014-2015,/en/players/c966fce1/Quique,c966fce1,Racing-Santander,"1,475",16.4,3.0,0.0,52,1.0,545,Racing-Santander
+,Borja San Emeterio,es ESP,DF,19,16,0.0,0.0,2014-2015,/en/players/3fd16042/Borja-San-Emeterio,3fd16042,Racing-Santander,"1,467",16.3,7.0,0.0,52,1.0,2924,Racing-Santander
+,Andreu Guerao,es ESP,MF,20,16,0.0,0.0,2014-2015,/en/players/2358bf6a/Andreu-Guerao,2358bf6a,Racing-Santander,"1,369",15.2,6.0,1.0,52,1.0,2910,Racing-Santander
+,Borja Granero,es ESP,"DF,MF",27,15,1.0,3.0,2014-2015,/en/players/e080b1c1/Borja-Granero,080b1c1,Racing-Santander,"1,489",16.5,10.0,1.0,52,1.0,592,Racing-Santander
+,Mariano Sanz,es ESP,FW,30,13,1.0,6.0,2014-2015,/en/players/b5cf646d/Mariano-Sanz,b5cf646d,Racing-Santander,"1,371",15.2,7.0,2.0,52,1.0,2925,Racing-Santander
+,Bernardo,,DF,16,13,1.0,0.0,2014-2015,/en/players/4067e9d6/Bernardo,4067e9d6,Racing-Santander,"1,198",13.3,4.0,0.0,52,,90031,Racing-Santander
+,Mamadou Koné,ci CIV,FW,15,13,1.0,7.0,2014-2015,/en/players/85b9dca0/Mamadou-Kone,85b9dca0,Racing-Santander,"1,174",13.0,3.0,0.0,52,35.0,567,Racing-Santander
+,Mamadou Sylla,sn SEN,FW,11,11,1.0,3.0,2014-2015,/en/players/e5ec95f8/Mamadou-Sylla,5ec95f8,Racing-Santander,951,10.6,3.0,0.0,52,34.0,2926,Racing-Santander
+,Francis,es ESP,"DF,MF",9,8,0.0,0.0,2014-2015,/en/players/ee4c7c24/Francis,4c7c24,Racing-Santander,630,7.0,4.0,0.0,52,1.0,2890,Racing-Santander
+,Germán Parreño,es ESP,GK,7,6,0.0,0.0,2014-2015,/en/players/1561cd53/German-Parreno,1561cd53,Racing-Santander,545,6.1,0.0,0.0,52,1.0,2927,Racing-Santander
+,Iván Moreno,es ESP,MF,22,5,1.0,0.0,2014-2015,/en/players/ce5d4b0f/Ivan-Moreno,ce5d4b0f,Racing-Santander,620,6.9,3.0,0.0,52,1.0,2928,Racing-Santander
+,Rubén Durán,es ESP,"FW,MF",13,4,1.0,0.0,2014-2015,/en/players/8da55828/Ruben-Duran,8da55828,Racing-Santander,441,4.9,1.0,0.0,52,1.0,2929,Racing-Santander
+,Raúl Fernández,es ESP,GK,4,4,0.0,0.0,2014-2015,/en/players/6fb59070/Raul-Fernandez,6fb59070,Racing-Santander,360,4.0,0.0,0.0,52,1.0,1294,Racing-Santander
+,Adán Pérez,es ESP,MF,6,2,0.0,0.0,2014-2015,/en/players/0d1ce336/Adan-Perez,0d1ce336,Racing-Santander,167,1.9,0.0,0.0,52,1.0,2930,Racing-Santander
+,Oscar Fernandez,,,2,0,0.0,0.0,2014-2015,No detected,,Racing-Santander,24,0.3,0.0,0.0,52,,90032,Racing-Santander
+,Oriol Lozano,es ESP,DF,1,0,0.0,0.0,2014-2015,/en/players/ad23e858/Oriol-Lozano,d23e858,Racing-Santander,21,0.2,1.0,1.0,52,1.0,2852,Racing-Santander
+,Valdo,cv CPV,"FW,MF",1,0,0.0,0.0,2014-2015,/en/players/5d34e206/Valdo,5d34e206,Racing-Santander,2,0.0,0.0,0.0,52,85.0,1989,Racing-Santander
+,Sergio Camus,es ESP,MF,0,0,,,2014-2015,/en/players/f479b945/Sergio-Camus,f479b945,Racing-Santander,,,,,52,1.0,2931,Racing-Santander
+,Bernardo Cruz,es ESP,DF,0,0,,,2014-2015,/en/players/47872f21/Bernardo-Cruz,47872f21,Racing-Santander,,,,,52,1.0,2932,Racing-Santander
+,Puras,es ESP,GK,0,0,,,2014-2015,/en/players/7dce8ef9/Puras,7dce8ef9,Racing-Santander,,,,,52,1.0,2933,Racing-Santander
+,﻿Alain Álvarez,es ESP,DF,1,1,0.0,0.0,2015-2016,/en/players/4ba9547c/Alain-Alvarez,4ba9547c,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2934,Racing-Santander
+,José Artiles,es ESP,"FW,MF",1,1,0.0,0.0,2015-2016,/en/players/913e81fb/Jose-Artiles,913e81fb,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2935,Racing-Santander
+,César Caneda,es ESP,DF,1,1,0.0,0.0,2015-2016,/en/players/1013adcf/Cesar-Caneda,1013adcf,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,1242,Racing-Santander
+,Borja Docal,es ESP,"DF,MF",1,1,0.0,0.0,2015-2016,/en/players/754dd22a/Borja-Docal,754dd22a,Racing-Santander,90.0,1.0,1.0,0.0,52,1.0,2907,Racing-Santander
+,Kamal,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/b052aa2f/Kamal,b052aa2f,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2936,Racing-Santander
+,Dani Rodríguez,es ESP,"FW,MF",1,1,0.0,0.0,2015-2016,/en/players/70f8e0bd/Dani-Rodriguez,70f8e0bd,Racing-Santander,90.0,1.0,1.0,0.0,52,1.0,1715,Racing-Santander
+,Fede San Emeterio,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/efecd633/Fede-San-Emeterio,fecd633,Racing-Santander,90.0,1.0,1.0,0.0,52,1.0,2670,Racing-Santander
+,Daniel Sotres,es ESP,GK,1,1,0.0,0.0,2015-2016,/en/players/0a02a8fa/Daniel-Sotres,0a02a8fa,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,802,Racing-Santander
+,Chus Hevia,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/ed576d27/Chus-Hevia,d576d27,Racing-Santander,59.0,0.7,0.0,0.0,52,1.0,2937,Racing-Santander
+,Dioni,es ESP,FW,1,1,0.0,0.0,2015-2016,/en/players/aac8c5ac/Dioni,c8c5ac,Racing-Santander,53.0,0.6,0.0,0.0,52,1.0,454,Racing-Santander
+,Unai Hernández,es ESP,MF,1,1,0.0,0.0,2015-2016,/en/players/068997a4/Unai-Hernandez,068997a4,Racing-Santander,45.0,0.5,0.0,0.0,52,1.0,2938,Racing-Santander
+,Óscar Fernández González,es ESP,FW,1,0,0.0,0.0,2015-2016,/en/players/dd301e95/Oscar-Fernandez-Gonzalez,dd301e95,Racing-Santander,45.0,0.5,0.0,0.0,52,1.0,2939,Racing-Santander
+,Mohamed Coulibaly,fr FRA,"FW,MF",1,0,0.0,0.0,2015-2016,/en/players/3cc07724/Mohamed-Coulibaly,3cc07724,Racing-Santander,37.0,0.4,0.0,0.0,52,4.0,2940,Racing-Santander
+,Isma Cerro,es ESP,FW,1,0,0.0,0.0,2015-2016,/en/players/6ddc9441/Isma-Cerro,6ddc9441,Racing-Santander,31.0,0.3,0.0,0.0,52,1.0,2941,Racing-Santander
+,Sergio Camus,es ESP,MF,0,0,,,2015-2016,/en/players/f479b945/Sergio-Camus,f479b945,Racing-Santander,,,,,52,1.0,2931,Racing-Santander
+,Óscar Santiago,es ESP,GK,0,0,,,2015-2016,/en/players/5e15481b/Oscar-Santiago,5e15481b,Racing-Santander,,,,,52,1.0,2942,Racing-Santander
+,﻿Raúl Domínguez,es ESP,GK,4,4,0.0,0.0,2016-2017,/en/players/cc2d9767/Raul-Dominguez,cc2d9767,Racing-Santander,360.0,4.0,0.0,0.0,52,1.0,2943,Racing-Santander
+,Samuel Llorca,es ESP,DF,4,4,0.0,0.0,2016-2017,/en/players/9c3d54f0/Samuel-Llorca,9c3d54f0,Racing-Santander,360.0,4.0,1.0,0.0,52,1.0,757,Racing-Santander
+,Mikel Santamaría,es ESP,DF,4,4,0.0,0.0,2016-2017,/en/players/c809e332/Mikel-Santamaria,c809e332,Racing-Santander,360.0,4.0,0.0,0.0,52,1.0,2944,Racing-Santander
+,Álvaro Peña,es ESP,MF,4,4,0.0,0.0,2016-2017,/en/players/c5456acc/Alvaro-Pena,c5456acc,Racing-Santander,359.0,4.0,2.0,0.0,52,1.0,2945,Racing-Santander
+,Dani Aquino,es ESP,"FW,MF",4,4,0.0,1.0,2016-2017,/en/players/060a66fb/Dani-Aquino,060a66fb,Racing-Santander,352.0,3.9,1.0,0.0,52,1.0,2207,Racing-Santander
+,Heber Pena,es ESP,MF,4,4,0.0,1.0,2016-2017,/en/players/a229c6e7/Heber-Pena,229c6e7,Racing-Santander,344.0,3.8,1.0,0.0,52,1.0,90033,Racing-Santander
+,David Córcoles,es ESP,DF,3,3,0.0,0.0,2016-2017,/en/players/929ea912/David-Corcoles,929ea912,Racing-Santander,270.0,3.0,0.0,0.0,52,1.0,910,Racing-Santander
+,Julen Castañeda,es ESP,DF,2,2,0.0,0.0,2016-2017,/en/players/fbddd52a/Julen-Castaneda,fbddd52a,Racing-Santander,180.0,2.0,0.0,0.0,52,1.0,2946,Racing-Santander
+,Caye Quintana,es ESP,FW,2,2,0.0,1.0,2016-2017,/en/players/42b47114/Caye-Quintana,42b47114,Racing-Santander,180.0,2.0,0.0,0.0,52,1.0,2473,Racing-Santander
+,Sergio Ruiz,es ESP,MF,2,2,0.0,0.0,2016-2017,/en/players/1f423a54/Sergio-Ruiz,1f423a54,Racing-Santander,164.0,1.8,0.0,0.0,52,1.0,2947,Racing-Santander
+,Óscar Fernández González,es ESP,FW,2,2,0.0,0.0,2016-2017,/en/players/dd301e95/Oscar-Fernandez-Gonzalez,dd301e95,Racing-Santander,141.0,1.6,0.0,0.0,52,1.0,2939,Racing-Santander
+,Mohamed Coulibaly,fr FRA,"FW,MF",3,2,0.0,0.0,2016-2017,/en/players/3cc07724/Mohamed-Coulibaly,3cc07724,Racing-Santander,136.0,1.5,0.0,0.0,52,4.0,2940,Racing-Santander
+,Miguel Gándara,es ESP,DF,2,2,0.0,0.0,2016-2017,/en/players/b9dc8b3d/Miguel-Gandara,b9dc8b3d,Racing-Santander,130.0,1.4,0.0,0.0,52,1.0,2948,Racing-Santander
+,César Díaz,es ESP,FW,2,1,0.0,1.0,2016-2017,/en/players/7717b1b5/Cesar-Diaz,7717b1b5,Racing-Santander,123.0,1.4,0.0,0.0,52,1.0,2949,Racing-Santander
+,Javi Cobo,es ESP,MF,3,1,0.0,1.0,2016-2017,/en/players/961e5865/Javi-Cobo,961e5865,Racing-Santander,99.0,1.1,0.0,0.0,52,1.0,2950,Racing-Santander
+,Alberto Gómez,es ESP,MF,2,1,0.0,0.0,2016-2017,/en/players/ee5e60bd/Alberto-Gomez,5e60bd,Racing-Santander,91.0,1.0,1.0,0.0,52,1.0,2951,Racing-Santander
+,Leonel Bontempo,ar ARG,DF,1,1,0.0,0.0,2016-2017,/en/players/c7648963/Leonel-Bontempo,c7648963,Racing-Santander,90.0,1.0,0.0,0.0,52,5.0,2952,Racing-Santander
+,Borja Granero,es ESP,"DF,MF",1,1,0.0,0.0,2016-2017,/en/players/e080b1c1/Borja-Granero,080b1c1,Racing-Santander,90.0,1.0,1.0,0.0,52,1.0,592,Racing-Santander
+,Jorge Somavilla,es ESP,FW,2,0,0.0,0.0,2016-2017,/en/players/e0e5268d/Jorge-Somavilla,0e5268d,Racing-Santander,50.0,0.6,0.0,0.0,52,1.0,2953,Racing-Santander
+,Israel Puerto,es ESP,DF,1,0,0.0,0.0,2016-2017,/en/players/c657b98d/Israel-Puerto,c657b98d,Racing-Santander,29.0,0.3,0.0,0.0,52,1.0,1873,Racing-Santander
+,Sergio Camus,es ESP,MF,1,0,0.0,0.0,2016-2017,/en/players/f479b945/Sergio-Camus,f479b945,Racing-Santander,21.0,0.2,0.0,0.0,52,1.0,2931,Racing-Santander
+,Laro Setién,es ESP,MF,1,0,0.0,0.0,2016-2017,/en/players/7afa3bfb/Laro-Setien,7afa3bfb,Racing-Santander,16.0,0.2,0.0,0.0,52,1.0,2954,Racing-Santander
+,José Castañeda,es ESP,MF,1,0,0.0,0.0,2016-2017,/en/players/c8be009f/Jose-Castaneda,c8be009f,Racing-Santander,15.0,0.2,0.0,0.0,52,1.0,2955,Racing-Santander
+,Iván Crespo,es ESP,GK,0,0,,,2016-2017,/en/players/31ae3b7e/Ivan-Crespo,31ae3b7e,Racing-Santander,,,,,52,1.0,2956,Racing-Santander
+,﻿Aitor Buñuel,es ESP,DF,5,5,0.0,0.0,2018-2019,/en/players/6555c592/Aitor-Bunuel,6555c592,Racing-Santander,450.0,5.0,2.0,0.0,52,1.0,2062,Racing-Santander
+,Iván Crespo,es ESP,GK,5,5,0.0,0.0,2018-2019,/en/players/31ae3b7e/Ivan-Crespo,31ae3b7e,Racing-Santander,450.0,5.0,0.0,0.0,52,1.0,2956,Racing-Santander
+,Óscar Gil,es ESP,DF,5,5,0.0,0.0,2018-2019,/en/players/8ee275b6/Oscar-Gil,8ee275b6,Racing-Santander,450.0,5.0,2.0,0.0,52,1.0,2957,Racing-Santander
+,Jon Ander,es ESP,FW,5,4,0.0,0.0,2018-2019,/en/players/17fe96c3/Jon-Ander,17fe96c3,Racing-Santander,367.0,4.1,0.0,0.0,52,1.0,2958,Racing-Santander
+,Enzo Lombardo,fr FRA,MF,4,4,0.0,0.0,2018-2019,/en/players/e063f5a2/Enzo-Lombardo,063f5a2,Racing-Santander,340.0,3.8,2.0,1.0,52,4.0,2969,Racing-Santander
+,Quique Rivero,es ESP,MF,4,4,0.0,2.0,2018-2019,/en/players/0204d102/Quique-Rivero,0204d102,Racing-Santander,307.0,3.4,1.0,0.0,52,1.0,2898,Racing-Santander
+,Nico Hidalgo,es ESP,MF,5,4,0.0,0.0,2018-2019,/en/players/9798f0d5/Nico-Hidalgo,9798f0d5,Racing-Santander,298.0,3.3,1.0,0.0,52,1.0,2959,Racing-Santander
+,Jordi,es ESP,DF,3,3,0.0,0.0,2018-2019,/en/players/744a8a7c/Jordi,744a8a7c,Racing-Santander,270.0,3.0,0.0,0.0,52,1.0,710,Racing-Santander
+,Sergio Ruiz,es ESP,MF,3,3,0.0,0.0,2018-2019,/en/players/1f423a54/Sergio-Ruiz,1f423a54,Racing-Santander,270.0,3.0,0.0,0.0,52,1.0,2947,Racing-Santander
+,Rulo Prieto,es ESP,DF,3,3,0.0,0.0,2018-2019,/en/players/93ab8e3b/Rulo-Prieto,93ab8e3b,Racing-Santander,250.0,2.8,2.0,0.0,52,1.0,2960,Racing-Santander
+,Julen Castañeda,es ESP,DF,4,2,0.0,1.0,2018-2019,/en/players/fbddd52a/Julen-Castaneda,fbddd52a,Racing-Santander,220.0,2.4,1.0,0.0,52,1.0,2946,Racing-Santander
+,Rafael de Vicente Hernández,es ESP,MF,4,2,0.0,0.0,2018-2019,/en/players/bde52d2c/Rafael-de-Vicente-Hernandez,bde52d2c,Racing-Santander,217.0,2.4,1.0,0.0,52,1.0,602,Racing-Santander
+,Berto Cayarga,es ESP,MF,4,2,0.0,0.0,2018-2019,/en/players/6f5123ed/Berto-Cayarga,6f5123ed,Racing-Santander,209.0,2.3,2.0,0.0,52,1.0,2961,Racing-Santander
+,Álvaro Cejudo,es ESP,MF,3,2,0.0,0.0,2018-2019,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Racing-Santander,167.0,1.9,0.0,0.0,52,1.0,1477,Racing-Santander
+,César Díaz,es ESP,MF,2,1,0.0,0.0,2018-2019,/en/players/7717b1b5/Cesar-Diaz,7717b1b5,Racing-Santander,135.0,1.5,0.0,0.0,52,1.0,2949,Racing-Santander
+,Jerin Ramos,cv CPV,DF,2,1,0.0,0.0,2018-2019,/en/players/45a759dc/Jerin-Ramos,45a759dc,Racing-Santander,117.0,1.3,1.0,0.0,52,85.0,2962,Racing-Santander
+,Ritchie Kitoko,be BEL,MF,1,1,0.0,0.0,2018-2019,/en/players/d403d81a/Ritchie-Kitoko,d403d81a,Racing-Santander,90.0,1.0,1.0,0.0,52,27.0,2963,Racing-Santander
+,Iñaki Olaortua,es ESP,DF,1,1,0.0,0.0,2018-2019,/en/players/72d5e137/Inaki-Olaortua,72d5e137,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2964,Racing-Santander
+,Chus Puras,es ESP,DF,1,1,0.0,0.0,2018-2019,/en/players/06719549/Chus-Puras,06719549,Racing-Santander,90.0,1.0,1.0,0.0,52,1.0,2965,Racing-Santander
+,Daniel Lucas Segovia,es ESP,FW,1,1,0.0,1.0,2018-2019,/en/players/031e2459/Daniel-Lucas-Segovia,031e2459,Racing-Santander,81.0,0.9,1.0,0.0,52,1.0,2966,Racing-Santander
+,Juanjo Expósito,es ESP,FW,3,1,0.0,0.0,2018-2019,/en/players/f0a0b756/Juanjo-Exposito,f0a0b756,Racing-Santander,65.0,0.7,0.0,0.0,52,1.0,1836,Racing-Santander
+,Soberón,es ESP,FW,1,0,0.0,0.0,2018-2019,/en/players/c05de865/Soberon,c05de865,Racing-Santander,16.0,0.2,1.0,0.0,52,1.0,2967,Racing-Santander
+,Jagoba Zárraga,es ESP,GK,0,0,,,2018-2019,/en/players/9b51ad7a/Jagoba-Zarraga,9b51ad7a,Racing-Santander,,,,,52,1.0,2968,Racing-Santander
+,﻿Luca Zidane,fr FRA,GK,33,33,0.0,0.0,2019-2020,/en/players/c818c4d9/Luca-Zidane,c818c4d9,Racing-Santander,"2,970",33.0,3.0,0.0,52,4.0,149,Racing-Santander
+,Jordi,es ESP,DF,35,33,1.0,2.0,2019-2020,/en/players/744a8a7c/Jordi,744a8a7c,Racing-Santander,"2,845",31.6,9.0,0.0,52,1.0,710,Racing-Santander
+,Enzo Lombardo,fr FRA,MF,31,31,3.0,3.0,2019-2020,/en/players/e063f5a2/Enzo-Lombardo,063f5a2,Racing-Santander,"2,596",28.8,3.0,0.0,52,4.0,2969,Racing-Santander
+,Aitor Buñuel,es ESP,DF,29,29,1.0,0.0,2019-2020,/en/players/6555c592/Aitor-Bunuel,6555c592,Racing-Santander,"2,577",28.6,6.0,1.0,52,1.0,2062,Racing-Santander
+,Mario Ortiz Ruiz,es ESP,MF,34,27,0.0,0.0,2019-2020,/en/players/82661dc4/Mario-Ortiz-Ruiz,82661dc4,Racing-Santander,"2,522",28.0,8.0,2.0,52,1.0,2888,Racing-Santander
+,Álvaro Cejudo,es ESP,MF,31,27,7.0,9.0,2019-2020,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Racing-Santander,"2,286",25.4,7.0,0.0,52,1.0,1477,Racing-Santander
+,Moisés Delgado,es ESP,DF,26,24,1.0,1.0,2019-2020,/en/players/248c409d/Moises-Delgado,248c409d,Racing-Santander,"2,168",24.1,9.0,2.0,52,1.0,1885,Racing-Santander
+,Sergio Ruiz,es ESP,MF,31,22,0.0,0.0,2019-2020,/en/players/1f423a54/Sergio-Ruiz,1f423a54,Racing-Santander,"2,136",23.7,2.0,0.0,52,1.0,2947,Racing-Santander
+,Iñaki Olaortua,es ESP,DF,28,21,0.0,0.0,2019-2020,/en/players/72d5e137/Inaki-Olaortua,72d5e137,Racing-Santander,"2,067",23.0,9.0,1.0,52,1.0,2964,Racing-Santander
+,Karim Yoda,fr FRA,MF,22,21,4.0,8.0,2019-2020,/en/players/a7893629/Karim-Yoda,7893629,Racing-Santander,"1,822",20.2,4.0,0.0,52,4.0,2970,Racing-Santander
+,Alexis,es ESP,DF,20,18,0.0,0.0,2019-2020,/en/players/db0cd1ae/Alexis,db0cd1ae,Racing-Santander,"1,553",17.3,9.0,0.0,52,1.0,914,Racing-Santander
+,Ritchie Kitoko,be BEL,MF,20,17,1.0,0.0,2019-2020,/en/players/d403d81a/Ritchie-Kitoko,d403d81a,Racing-Santander,"1,148",12.8,6.0,0.0,52,27.0,2963,Racing-Santander
+,David Carmona,es ESP,DF,22,16,0.0,0.0,2019-2020,/en/players/ed922d43/David-Carmona,d922d43,Racing-Santander,"1,552",17.2,4.0,0.0,52,1.0,1903,Racing-Santander
+,David Rodríguez,es ESP,FW,27,15,2.0,2.0,2019-2020,/en/players/bae862bf/David-Rodriguez,bae862bf,Racing-Santander,"1,392",15.5,1.0,0.0,52,1.0,706,Racing-Santander
+,Abraham Minero,es ESP,DF,16,14,0.0,0.0,2019-2020,/en/players/ce2c56fc/Abraham-Minero,ce2c56fc,Racing-Santander,"1,265",14.1,6.0,2.0,52,1.0,2971,Racing-Santander
+,Daniel Toribio,es ESP,MF,22,14,0.0,0.0,2019-2020,/en/players/0ced6664/Daniel-Toribio,0ced6664,Racing-Santander,"1,189",13.2,3.0,0.0,52,1.0,2357,Racing-Santander
+,Manu Hernando,es ESP,DF,15,14,1.0,1.0,2019-2020,/en/players/5920c7c7/Manu-Hernando,5920c7c7,Racing-Santander,"1,164",12.9,4.0,1.0,52,1.0,2972,Racing-Santander
+,Nuha Marong,gm GAM,FW,19,12,1.0,3.0,2019-2020,/en/players/37ecae2d/Nuha-Marong,37ecae2d,Racing-Santander,"1,095",12.2,0.0,0.0,52,92.0,2973,Racing-Santander
+,Nando,es ESP,"MF,DF",13,11,3.0,1.0,2019-2020,/en/players/6c041474/Nando,6c041474,Racing-Santander,768,8.5,2.0,0.0,52,1.0,2974,Racing-Santander
+,Guillermo,es ESP,FW,13,10,0.0,3.0,2019-2020,/en/players/15107141/Guillermo,15107141,Racing-Santander,904,10.0,0.0,0.0,52,1.0,1305,Racing-Santander
+,Nico Hidalgo,es ESP,"MF,FW",29,9,2.0,0.0,2019-2020,/en/players/9798f0d5/Nico-Hidalgo,9798f0d5,Racing-Santander,"1,008",11.2,3.0,0.0,52,1.0,2959,Racing-Santander
+,Aristote Nkaka,be BEL,MF,16,9,1.0,0.0,2019-2020,/en/players/36d5c51e/Aristote-Nkaka,36d5c51e,Racing-Santander,805,8.9,8.0,2.0,52,27.0,2975,Racing-Santander
+,Borja Galán,es ESP,MF,10,8,0.0,1.0,2019-2020,/en/players/3d8d4593/Borja-Galan,3d8d4593,Racing-Santander,645,7.2,2.0,0.0,52,1.0,571,Racing-Santander
+,Iván Crespo,es ESP,GK,6,6,0.0,0.0,2019-2020,/en/players/31ae3b7e/Ivan-Crespo,31ae3b7e,Racing-Santander,540,6.0,0.0,0.0,52,1.0,2956,Racing-Santander
+,Jon Ander,es ESP,FW,12,5,0.0,1.0,2019-2020,/en/players/17fe96c3/Jon-Ander,17fe96c3,Racing-Santander,511,5.7,4.0,0.0,52,1.0,2958,Racing-Santander
+,David Barral,es ESP,FW,12,3,0.0,1.0,2019-2020,/en/players/d99f9282/David-Barral,d99f9282,Racing-Santander,373,4.1,3.0,0.0,52,1.0,2976,Racing-Santander
+,Lucas,es ESP,GK,3,3,0.0,0.0,2019-2020,/en/players/cc0dffcb/Lucas,cc0dffcb,Racing-Santander,270,3.0,0.0,0.0,52,1.0,2977,Racing-Santander
+,Berto Cayarga,es ESP,MF,7,3,0.0,0.0,2019-2020,/en/players/6f5123ed/Berto-Cayarga,6f5123ed,Racing-Santander,251,2.8,1.0,0.0,52,1.0,2961,Racing-Santander
+,Giorgi Papunashvili,ge GEO,MF,4,2,0.0,0.0,2019-2020,/en/players/95fa6d08/Giorgi-Papunashvili,95fa6d08,Racing-Santander,173,1.9,0.0,0.0,52,76.0,2978,Racing-Santander
+,Martín,es ESP,MF,3,2,0.0,0.0,2019-2020,/en/players/b2db7274/Martin,b2db7274,Racing-Santander,171,1.9,0.0,0.0,52,1.0,2992,Racing-Santander
+,Marco Camús,es ESP,MF,6,1,0.0,0.0,2019-2020,/en/players/77922fef/Marco-Camus,77922fef,Racing-Santander,175,1.9,1.0,0.0,52,1.0,2979,Racing-Santander
+,Siverio,es ESP,FW,5,1,0.0,1.0,2019-2020,/en/players/8f5c36a5/Siverio,8f5c36a5,Racing-Santander,139,1.5,1.0,0.0,52,1.0,2980,Racing-Santander
+,Goñi ,es ESP,DF,2,1,0.0,0.0,2019-2020,/en/players/07d2d68f/Goni,07d2d68f,Racing-Santander,103,1.1,0.0,0.0,52,1.0,2981,Racing-Santander
+,Rafa Tresaco,es ESP,FW,6,0,0.0,0.0,2019-2020,/en/players/f0d37caa/Rafa-Tresaco,f0d37caa,Racing-Santander,100,1.1,0.0,0.0,52,1.0,2982,Racing-Santander
+,Óscar Gil,es ESP,DF,1,0,0.0,0.0,2019-2020,/en/players/8ee275b6/Oscar-Gil,8ee275b6,Racing-Santander,12,0.1,0.0,0.0,52,1.0,2957,Racing-Santander
+,Germán Fernández,es ESP,GK,0,0,,,2019-2020,/en/players/cbc95c48/German-Fernandez,cbc95c48,Racing-Santander,,,,,52,1.0,2983,Racing-Santander
+,Íñigo Sainz Maza,es ESP,DF,0,0,,,2019-2020,/en/players/7bbacdc4/Inigo-Sainz-Maza,7bbacdc4,Racing-Santander,,,,,52,1.0,2984,Racing-Santander
+,﻿Diego Ceballos,es ESP,MF,1,1,0.0,0.0,2020-2021,/en/players/08012f31/Diego-Ceballos,08012f31,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2985,Racing-Santander
+,Óscar Gil,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/8ee275b6/Oscar-Gil,8ee275b6,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2957,Racing-Santander
+,Lucas,es ESP,GK,1,1,0.0,0.0,2020-2021,/en/players/cc0dffcb/Lucas,cc0dffcb,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2977,Racing-Santander
+,Joan Maynau,es ESP,MF,1,1,0.0,0.0,2020-2021,/en/players/14a2dad5/Joan-Maynau,14a2dad5,Racing-Santander,90.0,1.0,1.0,0.0,52,1.0,2986,Racing-Santander
+,Cedric Omoigui,ng NGA,FW,1,1,0.0,0.0,2020-2021,/en/players/29fa334d/Cedric-Omoigui,29fa334d,Racing-Santander,90.0,1.0,0.0,0.0,52,52.0,1703,Racing-Santander
+,Íñigo Sainz Maza,es ESP,MF,1,1,0.0,0.0,2020-2021,/en/players/7bbacdc4/Inigo-Sainz-Maza,7bbacdc4,Racing-Santander,90.0,1.0,0.0,0.0,52,1.0,2984,Racing-Santander
+,Villapalos,es ESP,DF,1,1,0.0,0.0,2020-2021,/en/players/f3656e51/Villapalos,f3656e51,Racing-Santander,80.0,0.9,1.0,0.0,52,1.0,2987,Racing-Santander
+,Adrián Balboa,uy URU,FW,1,1,0.0,0.0,2020-2021,/en/players/42cd719c/Adrian-Balboa,42cd719c,Racing-Santander,74.0,0.8,0.0,0.0,52,8.0,2988,Racing-Santander
+,Pablo Torre,es ESP,MF,1,1,0.0,0.0,2020-2021,/en/players/04e531b6/Pablo-Torre,04e531b6,Racing-Santander,74.0,0.8,0.0,0.0,52,1.0,2989,Racing-Santander
+,Isaac Nana Asare,gh GHA,MF,1,1,0.0,0.0,2020-2021,/en/players/b109c2a5/Isaac-Nana-Asare,b109c2a5,Racing-Santander,60.0,0.7,0.0,0.0,52,17.0,2990,Racing-Santander
+,Bernardo Matić,hr CRO,DF,1,1,0.0,0.0,2020-2021,/en/players/080d1b41/Bernardo-Matic,080d1b41,Racing-Santander,45.0,0.5,1.0,0.0,52,16.0,2991,Racing-Santander
+,Jordi,es ESP,DF,1,0,0.0,0.0,2020-2021,/en/players/744a8a7c/Jordi,744a8a7c,Racing-Santander,45.0,0.5,1.0,0.0,52,1.0,710,Racing-Santander
+,Martín,es ESP,MF,1,0,0.0,0.0,2020-2021,/en/players/b2db7274/Martin,b2db7274,Racing-Santander,30.0,0.3,0.0,0.0,52,1.0,2992,Racing-Santander
+,Marco Camús,es ESP,MF,1,0,0.0,0.0,2020-2021,/en/players/77922fef/Marco-Camus,77922fef,Racing-Santander,16.0,0.2,0.0,0.0,52,1.0,2979,Racing-Santander
+,Siverio,es ESP,FW,1,0,0.0,0.0,2020-2021,/en/players/8f5c36a5/Siverio,8f5c36a5,Racing-Santander,16.0,0.2,0.0,0.0,52,1.0,2980,Racing-Santander
+,Patrick Soko,cm CMR,MF,1,0,0.0,0.0,2020-2021,/en/players/ae0b87db/Patrick-Soko,0b87db,Racing-Santander,10.0,0.1,0.0,0.0,52,36.0,90034,Racing-Santander
+,Ismael Benktib,es ESP,MF,0,0,,,2020-2021,/en/players/ec590693/Ismael-Benktib,c590693,Racing-Santander,,,,,52,1.0,2993,Racing-Santander
+,Álvaro Cejudo,es ESP,MF,0,0,,,2020-2021,/en/players/a39b23eb/Alvaro-Cejudo,39b23eb,Racing-Santander,,,,,52,1.0,1477,Racing-Santander
+,Iván Crespo,es ESP,GK,0,0,,,2020-2021,/en/players/31ae3b7e/Ivan-Crespo,31ae3b7e,Racing-Santander,,,,,52,1.0,2956,Racing-Santander
+,Mantilla,es ESP,DF,0,0,,,2020-2021,/en/players/d1fac0d5/Mantilla,d1fac0d5,Racing-Santander,,,,,52,1.0,2994,Racing-Santander

@@ -1,531 +1,531 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Duccio Innocenti,it ITA,DF,34,34,2.0,0.0,2002-2003,0ee3b2d9,Bari,"3,010",33.4,8.0,0.0,192.0,9.0,
-,Gaetano De Rosa,it ITA,DF,34,32,0.0,3.0,2002-2003,3022964d,Bari,"2,872",31.9,8.0,1.0,192.0,9.0,
-,Antonio Bellavista,it ITA,MF,32,32,0.0,1.0,2002-2003,d71fe506,Bari,"2,676",29.7,6.0,2.0,192.0,9.0,
-,Gionatha Spinesi,it ITA,FW,33,31,1.0,16.0,2002-2003,136bf61b,Bari,"2,745",30.5,6.0,0.0,192.0,9.0,
-,Gaetano D'Agostino,it ITA,MF,33,27,5.0,1.0,2002-2003,7a469087,Bari,"2,386",26.5,3.0,1.0,192.0,9.0,
-,Rachid Neqrouz,ma MAR,DF,26,25,0.0,1.0,2002-2003,9f6ea567,Bari,"2,229",24.8,9.0,1.0,192.0,26.0,
-,Jean-François Gillet,be BEL,GK,23,23,0.0,0.0,2002-2003,013fa5,Bari,"2,070",23.0,1.0,0.0,192.0,27.0,
-,Nicola Mora,it ITA,DF,24,22,3.0,0.0,2002-2003,99c52d51,Bari,"1,980",22.0,11.0,1.0,192.0,9.0,
-,Diego Markic,ar ARG,"FW,MF",22,19,0.0,0.0,2002-2003,478145d8,Bari,"1,656",18.4,2.0,0.0,192.0,5.0,
-,Lionel Pizzinat,ch SUI,MF,29,18,1.0,1.0,2002-2003,12afd9e9,Bari,"1,805",20.1,4.0,1.0,192.0,39.0,
-,Jaime Valdés,cl CHI,"FW,MF",32,18,2.0,3.0,2002-2003,77e6776f,Bari,"1,706",19.0,2.0,1.0,192.0,31.0,
-,Nicolás Córdova,cl CHI,MF,26,18,6.0,5.0,2002-2003,fbba0b1d,Bari,"1,521",16.9,1.0,0.0,192.0,31.0,
-,Mattia Collauto,it ITA,MF,23,16,1.0,0.0,2002-2003,4bca0cd,Bari,"1,341",14.9,3.0,0.0,192.0,9.0,
-,Graziano Battistini,it ITA,GK,15,15,0.0,0.0,2002-2003,3369b4a4,Bari,"1,350",15.0,1.0,0.0,192.0,9.0,
-,Giuseppe Ingrosso,it ITA,DF,15,13,0.0,0.0,2002-2003,fcec8102,Bari,"1,179",13.1,2.0,2.0,192.0,9.0,
-,Alex von Schwedler,cl CHI,DF,13,13,0.0,0.0,2002-2003,12b4dc64,Bari,"1,128",12.5,3.0,0.0,192.0,31.0,
-,Luigi Anaclerio,it ITA,FW,16,12,2.0,4.0,2002-2003,06f079,Bari,"1,120",12.4,0.0,0.0,192.0,9.0,
-,Antonio La Fortezza,it ITA,MF,14,10,0.0,0.0,2002-2003,8bec6062,Bari,782,8.7,3.0,0.0,192.0,9.0,
-,Denis Godeas,it ITA,FW,12,9,0.0,1.0,2002-2003,fab28911,Bari,792,8.8,3.0,0.0,192.0,9.0,
-,Francesco Palmieri,it ITA,FW,11,7,1.0,1.0,2002-2003,d6427a4f,Bari,575,6.4,0.0,0.0,192.0,9.0,
-,Marco Candrina,it ITA,DF,11,6,0.0,0.0,2002-2003,1f213e16,Bari,648,7.2,1.0,0.0,192.0,9.0,
-,Hany Saïd,eg EGY,DF,9,5,1.0,0.0,2002-2003,30a91f18,Bari,505,5.6,0.0,0.0,192.0,59.0,
-,Doudou Diaw,sn SEN,DF,6,5,0.0,0.0,2002-2003,30593c5,Bari,463,5.1,2.0,0.0,192.0,34.0,
-,Alessandro Armenise,it ITA,DF,5,4,0.0,0.0,2002-2003,8a1d585e,Bari,276,3.1,1.0,0.0,192.0,9.0,
-,Lorenzo Sibilano,it ITA,DF,3,2,0.0,0.0,2002-2003,1ae9ebbb,Bari,222,2.5,0.0,0.0,192.0,9.0,
-,Giuseppe Mazzarelli,ch SUI,DF,4,1,0.0,0.0,2002-2003,42de46d6,Bari,168,1.9,0.0,0.0,192.0,39.0,
-,Luca Brambilla,,,4,1,0.0,0.0,2002-2003,,Bari,118,1.3,1.0,0.0,192.0,,
-,Daniele Vantaggiato,it ITA,"FW,MF",5,0,0.0,0.0,2002-2003,49579375,Bari,77,0.9,0.0,0.0,192.0,9.0,
-,Raphael Chukwu,ng NGA,FW,3,0,0.0,0.0,2002-2003,15938ecc,Bari,66,0.7,1.0,0.0,192.0,52.0,
-,Maurizio Ruberto,,,1,0,0.0,0.0,2002-2003,,Bari,57,0.6,0.0,0.0,192.0,,
-,Óscar Ayala,py PAR,DF,1,0,0.0,0.0,2002-2003,d67fb974,Bari,12,0.1,0.0,0.0,192.0,43.0,
-,﻿Graziano Battistini,it ITA,GK,46,46,0.0,0.0,2003-2004,3369b4a4,Bari,"4,140",46.0,3.0,0.0,192.0,9.0,
-,Gaetano De Rosa,it ITA,DF,42,42,0.0,5.0,2003-2004,3022964d,Bari,"3,731",41.5,10.0,2.0,192.0,9.0,
-,Antonio Bellavista,it ITA,MF,41,41,0.0,0.0,2003-2004,d71fe506,Bari,"3,626",40.3,10.0,1.0,192.0,9.0,
-,Emanuele Brioschi,it ITA,DF,35,33,1.0,1.0,2003-2004,d973aa11,Bari,"2,974",33.0,5.0,0.0,192.0,9.0,
-,Nicola Mora,it ITA,DF,39,32,0.0,0.0,2003-2004,99c52d51,Bari,"2,824",31.4,4.0,1.0,192.0,9.0,
-,Doudou Diaw,sn SEN,DF,31,31,0.0,1.0,2003-2004,30593c5,Bari,"2,730",30.3,9.0,0.0,192.0,34.0,
-,Lionel Pizzinat,ch SUI,MF,34,28,3.0,1.0,2003-2004,12afd9e9,Bari,"2,447",27.2,7.0,0.0,192.0,39.0,
-,Nicolás Córdova,cl CHI,MF,39,26,3.0,12.0,2003-2004,fbba0b1d,Bari,"2,590",28.8,4.0,0.0,192.0,31.0,
-,Simone Motta,it ITA,FW,38,26,2.0,3.0,2003-2004,4029ad21,Bari,"2,208",24.5,2.0,0.0,192.0,9.0,
-,Jaime Valdés,cl CHI,"FW,MF",41,24,2.0,4.0,2003-2004,77e6776f,Bari,"2,221",24.7,0.0,0.0,192.0,31.0,
-,Michele Anaclerio,it ITA,DF,23,23,0.0,0.0,2003-2004,87264b8b,Bari,"1,966",21.8,7.0,1.0,192.0,9.0,
-,Mattia Collauto,it ITA,MF,30,20,1.0,0.0,2003-2004,4bca0cd,Bari,"1,774",19.7,4.0,0.0,192.0,9.0,
-,Gionatha Spinesi,it ITA,FW,20,20,1.0,12.0,2003-2004,136bf61b,Bari,"1,771",19.7,4.0,1.0,192.0,9.0,
-,Giuseppe Ingrosso,it ITA,DF,21,20,0.0,0.0,2003-2004,fcec8102,Bari,"1,715",19.1,7.0,0.0,192.0,9.0,
-,Diego Markic,ar ARG,"FW,MF",22,19,2.0,1.0,2003-2004,478145d8,Bari,"1,655",18.4,5.0,0.0,192.0,5.0,
-,Salvatore Bruno,it ITA,FW,19,18,1.0,5.0,2003-2004,397033b8,Bari,"1,627",18.1,4.0,0.0,192.0,9.0,
-,Marco Candrina,it ITA,DF,14,13,0.0,0.0,2003-2004,1f213e16,Bari,"1,098",12.2,5.0,0.0,192.0,9.0,
-,Alex von Schwedler,cl CHI,DF,15,12,0.0,0.0,2003-2004,12b4dc64,Bari,"1,185",13.2,3.0,0.0,192.0,31.0,
-,Ivone De Franceschi,it ITA,MF,15,11,0.0,1.0,2003-2004,21fc1e8d,Bari,879,9.8,2.0,0.0,192.0,9.0,
-,Marcelo Lipatín,uy URU,FW,32,10,1.0,2.0,2003-2004,541d06a,Bari,"1,096",12.2,2.0,0.0,192.0,8.0,
-,Antonio La Fortezza,it ITA,MF,13,6,1.0,0.0,2003-2004,8bec6062,Bari,626,7.0,6.0,0.0,192.0,9.0,
-,Pasquale Berardi,it ITA,MF,8,4,0.0,0.0,2003-2004,c865b3ef,Bari,360,4.0,4.0,0.0,192.0,9.0,
-,Luca Brambilla,,,3,1,0.0,0.0,2003-2004,,Bari,72,0.8,0.0,0.0,192.0,,
-,Hugo Enyinnaya,ng NGA,FW,5,0,0.0,1.0,2003-2004,f608111,Bari,79,0.9,1.0,0.0,192.0,52.0,
-,Domenico Creanza,,,1,0,0.0,0.0,2003-2004,,Bari,6,0.1,0.0,0.0,192.0,,
-,﻿Jean-François Gillet,be BEL,GK,41,41,0.0,0.0,2004-2005,013fa5,Bari,"3,668",40.8,0.0,1.0,192.0,27.0,
-,Lorenzo Sibilano,it ITA,DF,40,40,0.0,1.0,2004-2005,1ae9ebbb,Bari,"3,568",39.6,6.0,2.0,192.0,9.0,
-,Antonio Bellavista,it ITA,MF,39,37,0.0,0.0,2004-2005,d71fe506,Bari,"3,178",35.3,6.0,1.0,192.0,9.0,
-,Giorgio La Vista,it ITA,MF,40,37,3.0,3.0,2004-2005,9c1dbf6,Bari,"3,126",34.7,4.0,0.0,192.0,9.0,
-,Davide Carrus,it ITA,MF,36,35,4.0,7.0,2004-2005,beff5c30,Bari,"3,087",34.3,5.0,0.0,192.0,9.0,
-,Vincenzo Santoruvo,it ITA,FW,38,33,3.0,10.0,2004-2005,2db3383b,Bari,"2,999",33.3,11.0,0.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,34,33,0.0,3.0,2004-2005,63d2a792,Bari,"2,920",32.4,7.0,0.0,192.0,9.0,
-,Massimiliano Scaglia,it ITA,DF,30,28,0.0,2.0,2004-2005,b746a100,Bari,"2,466",27.4,3.0,1.0,192.0,9.0,
-,Doudou Diaw,sn SEN,DF,27,26,2.0,0.0,2004-2005,30593c5,Bari,"2,179",24.2,6.0,0.0,192.0,34.0,
-,Vittorio Micolucci,it ITA,DF,25,23,1.0,0.0,2004-2005,65b4dec6,Bari,"2,025",22.5,7.0,0.0,192.0,9.0,
-,Roberto Goretti,it ITA,MF,30,23,2.0,3.0,2004-2005,c844c8c0,Bari,"1,966",21.8,8.0,0.0,192.0,9.0,
-,Emanuele Brioschi,it ITA,DF,22,22,0.0,1.0,2004-2005,d973aa11,Bari,"1,954",21.7,11.0,0.0,192.0,9.0,
-,Davide Dionigi,it ITA,MF,20,20,1.0,4.0,2004-2005,83dc0b9c,Bari,"1,654",18.4,8.0,0.0,192.0,9.0,
-,Michele Anaclerio,it ITA,DF,22,12,3.0,0.0,2004-2005,87264b8b,Bari,"1,284",14.3,2.0,1.0,192.0,9.0,
-,Luigi Anaclerio,it ITA,FW,27,11,3.0,2.0,2004-2005,06f079,Bari,"1,183",13.1,2.0,0.0,192.0,9.0,
-,Stefano Bianconi,it ITA,DF,16,10,1.0,0.0,2004-2005,8852d81f,Bari,996,11.1,3.0,0.0,192.0,9.0,
-,Simone Motta,it ITA,FW,13,9,1.0,3.0,2004-2005,4029ad21,Bari,754,8.4,1.0,0.0,192.0,9.0,
-,Ivan Rajčić,hr CRO,MF,10,9,0.0,0.0,2004-2005,05dbb984,Bari,666,7.4,4.0,0.0,192.0,16.0,
-,Giuseppe Pagana,,,20,7,0.0,0.0,2004-2005,,Bari,728,8.1,2.0,0.0,192.0,,
-,Marco Candrina,it ITA,DF,17,3,1.0,0.0,2004-2005,1f213e16,Bari,385,4.3,2.0,0.0,192.0,9.0,
-,Cristian Romanelli,,,11,1,0.0,1.0,2004-2005,,Bari,275,3.1,0.0,0.0,192.0,,
-,Marcelo Lipatín,uy URU,FW,10,1,1.0,0.0,2004-2005,541d06a,Bari,166,1.8,0.0,0.0,192.0,8.0,
-,Davide Buono,,,1,1,0.0,0.0,2004-2005,,Bari,90,1.0,0.0,0.0,192.0,,
-,Antonio La Fortezza,it ITA,MF,4,0,0.0,0.0,2004-2005,8bec6062,Bari,67,0.7,1.0,0.0,192.0,9.0,
-,Alex von Schwedler,cl CHI,DF,5,0,0.0,0.0,2004-2005,12b4dc64,Bari,64,0.7,0.0,0.0,192.0,31.0,
-,Enrico Antonioni,,,1,0,0.0,0.0,2004-2005,,Bari,45,0.5,0.0,0.0,192.0,,
-,Nicola Dibitonto,it ITA,GK,1,0,0.0,0.0,2004-2005,1c1e2c0a,Bari,12,0.1,0.0,1.0,192.0,9.0,
-,Antonio Balzano,it ITA,DF,1,0,0.0,0.0,2004-2005,5a44641,Bari,10,0.1,0.0,0.0,192.0,9.0,
-,﻿Jean-François Gillet,be BEL,GK,41,41,0.0,0.0,2005-2006,013fa5,Bari,"3,680",40.9,1.0,0.0,192.0,27.0,
-,Vincenzo Santoruvo,it ITA,FW,40,40,4.0,11.0,2005-2006,2db3383b,Bari,"3,519",39.1,10.0,0.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,35,35,5.0,1.0,2005-2006,63d2a792,Bari,"3,131",34.8,6.0,0.0,192.0,9.0,
-,Vittorio Micolucci,it ITA,DF,37,34,1.0,0.0,2005-2006,65b4dec6,Bari,"3,136",34.8,4.0,0.0,192.0,9.0,
-,Antonio Bellavista,it ITA,MF,33,32,0.0,1.0,2005-2006,d71fe506,Bari,"2,834",31.5,6.0,1.0,192.0,9.0,
-,Marco Esposito,it ITA,DF,30,30,5.0,0.0,2005-2006,f34d5386,Bari,"2,485",27.6,11.0,3.0,192.0,9.0,
-,Biagio Pagano,it ITA,MF,36,28,3.0,6.0,2005-2006,19639241,Bari,"2,375",26.4,6.0,0.0,192.0,9.0,
-,Massimo Ganci,it ITA,FW,36,27,3.0,7.0,2005-2006,0d25bba8,Bari,"2,131",23.7,8.0,0.0,192.0,9.0,
-,William Pianu,it ITA,DF,25,25,1.0,2.0,2005-2006,dc565839,Bari,"2,153",23.9,6.0,1.0,192.0,9.0,
-,Giorgio La Vista,it ITA,MF,30,25,0.0,0.0,2005-2006,9c1dbf6,Bari,"2,081",23.1,2.0,0.0,192.0,9.0,
-,Daniele Vantaggiato,it ITA,"FW,MF",35,23,1.0,6.0,2005-2006,49579375,Bari,"2,115",23.5,6.0,0.0,192.0,9.0,
-,Davide Carrus,it ITA,MF,24,23,4.0,6.0,2005-2006,beff5c30,Bari,"2,079",23.1,5.0,0.0,192.0,9.0,
-,Emanuele Brioschi,it ITA,DF,24,21,1.0,0.0,2005-2006,d973aa11,Bari,"1,957",21.7,6.0,1.0,192.0,9.0,
-,Michele Anaclerio,it ITA,DF,24,21,1.0,2.0,2005-2006,87264b8b,Bari,"1,837",20.4,7.0,1.0,192.0,9.0,
-,Massimiliano Fusani,it ITA,MF,25,18,0.0,0.0,2005-2006,4dcbda67,Bari,"1,530",17.0,5.0,0.0,192.0,9.0,
-,Roberto Goretti,it ITA,MF,22,16,1.0,1.0,2005-2006,c844c8c0,Bari,"1,473",16.4,3.0,0.0,192.0,9.0,
-,Lorenzo Sibilano,it ITA,DF,15,14,0.0,1.0,2005-2006,1ae9ebbb,Bari,"1,131",12.6,4.0,0.0,192.0,9.0,
-,Luigi Anaclerio,it ITA,FW,27,11,1.0,2.0,2005-2006,06f079,Bari,"1,270",14.1,2.0,0.0,192.0,9.0,
-,Ivan Rajčić,hr CRO,MF,17,10,0.0,0.0,2005-2006,05dbb984,Bari,697,7.7,1.0,2.0,192.0,16.0,
-,Massimiliano Scaglia,it ITA,DF,12,9,1.0,0.0,2005-2006,b746a100,Bari,798,8.9,1.0,0.0,192.0,9.0,
-,Nicola Mora,it ITA,DF,19,4,1.0,0.0,2005-2006,99c52d51,Bari,573,6.4,4.0,1.0,192.0,9.0,
-,Marco Candrina,it ITA,DF,9,4,0.0,0.0,2005-2006,1f213e16,Bari,435,4.8,2.0,1.0,192.0,9.0,
-,Pasquale Berardi,it ITA,MF,8,4,0.0,0.0,2005-2006,c865b3ef,Bari,357,4.0,1.0,0.0,192.0,9.0,
-,Nicola Belmonte,it ITA,DF,7,1,0.0,0.0,2005-2006,279857a1,Bari,230,2.6,0.0,0.0,192.0,9.0,
-,Cristian Romanelli,,,10,1,0.0,0.0,2005-2006,,Bari,167,1.9,1.0,0.0,192.0,,
-,Vitangelo Spadavecchia,it ITA,GK,2,1,0.0,0.0,2005-2006,5722c1fb,Bari,100,1.1,0.0,0.0,192.0,9.0,
-,Robert Maah,fr FRA,"FW,MF",9,0,0.0,1.0,2005-2006,b458d0ed,Bari,155,1.7,2.0,1.0,192.0,4.0,
-,﻿Jean-François Gillet,be BEL,GK,42,42,0.0,0.0,2006-2007,013fa5,Bari,"3,780",42.0,1.0,0.0,192.0,27.0,
-,William Pianu,it ITA,DF,36,36,0.0,1.0,2006-2007,dc565839,Bari,"3,240",36.0,10.0,0.0,192.0,9.0,
-,Vincenzo Santoruvo,it ITA,FW,30,30,3.0,9.0,2006-2007,2db3383b,Bari,"2,465",27.4,13.0,1.0,192.0,9.0,
-,Massimiliano Scaglia,it ITA,DF,35,29,5.0,3.0,2006-2007,b746a100,Bari,"2,646",29.4,4.0,1.0,192.0,9.0,
-,Andrea Milani,it ITA,DF,33,29,0.0,0.0,2006-2007,fadc51e8,Bari,"2,642",29.4,4.0,0.0,192.0,9.0,
-,Antonio Bellavista,it ITA,MF,28,28,1.0,1.0,2006-2007,d71fe506,Bari,"2,358",26.2,9.0,0.0,192.0,9.0,
-,Alessandro Sgrigna,it ITA,"FW,MF",33,27,1.0,4.0,2006-2007,f96d5fdb,Bari,"2,137",23.7,3.0,1.0,192.0,9.0,
-,Vittorio Micolucci,it ITA,DF,27,24,0.0,0.0,2006-2007,65b4dec6,Bari,"2,185",24.3,6.0,0.0,192.0,9.0,
-,Luca Tabbiani,it ITA,MF,32,24,3.0,2.0,2006-2007,79c95f86,Bari,"2,120",23.6,5.0,2.0,192.0,9.0,
-,Massimo Ganci,it ITA,FW,30,23,2.0,6.0,2006-2007,0d25bba8,Bari,"1,927",21.4,10.0,0.0,192.0,9.0,
-,Davide Carrus,it ITA,MF,24,23,1.0,5.0,2006-2007,beff5c30,Bari,"1,919",21.3,4.0,0.0,192.0,9.0,
-,Carlo Gervasoni,it ITA,DF,26,21,0.0,1.0,2006-2007,bc894fe1,Bari,"2,075",23.1,8.0,0.0,192.0,9.0,
-,Ivan Rajčić,hr CRO,MF,30,20,1.0,0.0,2006-2007,05dbb984,Bari,"1,957",21.7,4.0,0.0,192.0,16.0,
-,Nicola Belmonte,it ITA,DF,20,18,0.0,0.0,2006-2007,279857a1,Bari,"1,541",17.1,4.0,0.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,17,16,0.0,0.0,2006-2007,63d2a792,Bari,"1,416",15.7,6.0,0.0,192.0,9.0,
-,Andrea Carozza,it ITA,,24,15,4.0,3.0,2006-2007,5a3a6f14,Bari,"1,471",16.3,9.0,0.0,192.0,9.0,
-,Marco Esposito,it ITA,DF,17,15,0.0,0.0,2006-2007,f34d5386,Bari,"1,279",14.2,5.0,1.0,192.0,9.0,
-,Massimiliano Fusani,it ITA,MF,25,14,1.0,0.0,2006-2007,4dcbda67,Bari,"1,477",16.4,5.0,0.0,192.0,9.0,
-,Ivan Loseto,it ITA,DF,12,10,0.0,0.0,2006-2007,89e1ba3a,Bari,796,8.8,4.0,0.0,192.0,9.0,
-,Fabio Vignaroli,it ITA,"FW,MF",15,7,1.0,0.0,2006-2007,b4f7bdf5,Bari,844,9.4,1.0,1.0,192.0,9.0,
-,Mirko Eramo,it ITA,MF,7,6,0.0,1.0,2006-2007,d19fd132,Bari,318,3.5,1.0,0.0,192.0,9.0,
-,Daniele Fiorentino,it ITA,MF,7,5,0.0,1.0,2006-2007,c8680e0,Bari,369,4.1,1.0,0.0,192.0,9.0,
-,Giorgio Di Vicino,it ITA,MF,15,4,0.0,1.0,2006-2007,5c0c1f44,Bari,371,4.1,1.0,0.0,192.0,9.0,
-,Umberto Cazzola,it ITA,MF,9,3,0.0,0.0,2006-2007,2c50744c,Bari,255,2.8,3.0,1.0,192.0,9.0,
-,Nicola Strambelli,it ITA,MF,7,2,0.0,1.0,2006-2007,3fe1a074,Bari,230,2.6,1.0,0.0,192.0,9.0,
-,Giacinto Allegrini,it ITA,DF,4,0,0.0,0.0,2006-2007,5d3263a,Bari,101,1.1,0.0,0.0,192.0,9.0,
-,Gianluca Baldassarre,,,2,0,0.0,0.0,2006-2007,,Bari,49,0.5,0.0,0.0,192.0,,
-,﻿Jean-François Gillet,be BEL,GK,40,40,0.0,0.0,2007-2008,013fa5,Bari,"3,575",39.7,2.0,0.0,192.0,27.0,
-,Gianluca Galasso,it ITA,DF,35,35,1.0,4.0,2007-2008,c56c9c37,Bari,"2,968",33.0,4.0,0.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,37,34,1.0,1.0,2007-2008,63d2a792,Bari,"3,020",33.6,4.0,0.0,192.0,9.0,
-,Vincenzo Santoruvo,it ITA,FW,36,33,5.0,9.0,2007-2008,2db3383b,Bari,"2,992",33.2,11.0,0.0,192.0,9.0,
-,Davide Lanzafame,it ITA,"FW,MF",37,29,4.0,10.0,2007-2008,7de27356,Bari,"2,562",28.5,6.0,0.0,192.0,9.0,
-,Nicola Belmonte,it ITA,DF,28,26,0.0,0.0,2007-2008,279857a1,Bari,"2,337",26.0,4.0,1.0,192.0,9.0,
-,Mariano Donda,ar ARG,MF,29,26,7.0,2.0,2007-2008,95e77464,Bari,"2,066",23.0,5.0,2.0,192.0,5.0,
-,Cristian Stellini,it ITA,DF,28,25,0.0,1.0,2007-2008,49ee9734,Bari,"2,245",24.9,6.0,1.0,192.0,9.0,
-,Ivan Rajčić,hr CRO,MF,32,23,2.0,1.0,2007-2008,05dbb984,Bari,"2,229",24.8,7.0,0.0,192.0,16.0,
-,Simone Cavalli,it ITA,FW,28,23,2.0,8.0,2007-2008,f7cf57b7,Bari,"1,978",22.0,1.0,0.0,192.0,9.0,
-,Massimo Bonanni,it ITA,MF,31,23,4.0,5.0,2007-2008,d8eb4f88,Bari,"1,805",20.1,4.0,0.0,192.0,9.0,
-,Andrea Masiello,it ITA,DF,20,20,0.0,0.0,2007-2008,0314d87,Bari,"1,800",20.0,2.0,0.0,192.0,9.0,
-,Giovanni Marchese,it ITA,DF,19,19,0.0,1.0,2007-2008,55142846,Bari,"1,710",19.0,4.0,0.0,192.0,9.0,
-,Marco Esposito,it ITA,DF,25,18,0.0,2.0,2007-2008,f34d5386,Bari,"1,721",19.1,3.0,1.0,192.0,9.0,
-,Luca Antonelli,it ITA,"DF,MF",17,15,3.0,1.0,2007-2008,40f0ed6c,Bari,"1,325",14.7,2.0,0.0,192.0,9.0,
-,Luca Tabbiani,it ITA,MF,15,11,0.0,1.0,2007-2008,79c95f86,Bari,922,10.2,3.0,1.0,192.0,9.0,
-,Santiago Ladino,ar ARG,DF,13,11,0.0,0.0,2007-2008,ce9a9c38,Bari,852,9.5,1.0,0.0,192.0,5.0,
-,Massimo Ganci,it ITA,FW,23,9,1.0,0.0,2007-2008,0d25bba8,Bari,955,10.6,4.0,0.0,192.0,9.0,
-,Palmiro Di Dio,it ITA,DF,9,7,0.0,1.0,2007-2008,02af0463,Bari,761,8.5,1.0,0.0,192.0,9.0,
-,Abderrazzak Jadid,ma MAR,"FW,MF",9,7,0.0,1.0,2007-2008,c4abfac0,Bari,494,5.5,3.0,0.0,192.0,26.0,
-,Nicola Strambelli,it ITA,MF,13,6,1.0,0.0,2007-2008,3fe1a074,Bari,570,6.3,3.0,0.0,192.0,9.0,
-,Ivan Loseto,it ITA,DF,7,6,0.0,0.0,2007-2008,89e1ba3a,Bari,463,5.1,1.0,0.0,192.0,9.0,
-,Andrea Carozza,it ITA,,13,5,0.0,1.0,2007-2008,5a3a6f14,Bari,664,7.4,2.0,0.0,192.0,9.0,
-,Giuseppe Ingrosso,it ITA,DF,7,5,0.0,0.0,2007-2008,fcec8102,Bari,381,4.2,1.0,1.0,192.0,9.0,
-,Vitangelo Spadavecchia,it ITA,GK,3,2,0.0,0.0,2007-2008,5722c1fb,Bari,205,2.3,0.0,0.0,192.0,9.0,
-,Pedro Kamata,cd COD,MF,12,1,0.0,0.0,2007-2008,d95656b4,Bari,273,3.0,5.0,0.0,192.0,50.0,
-,Tony Sergeant,be BEL,MF,5,1,0.0,0.0,2007-2008,2af7d068,Bari,167,1.9,1.0,0.0,192.0,27.0,
-,Davide Desidieri,,,6,1,0.0,1.0,2007-2008,,Bari,140,1.6,0.0,0.0,192.0,,
-,Giacinto Allegrini,it ITA,DF,4,1,0.0,0.0,2007-2008,5d3263a,Bari,113,1.3,0.0,1.0,192.0,9.0,
-,Giuseppe Statella,it ITA,MF,3,0,0.0,0.0,2007-2008,fa802600,Bari,106,1.2,0.0,0.0,192.0,9.0,
-,Daniele Fiorentino,it ITA,MF,2,0,0.0,0.0,2007-2008,c8680e0,Bari,28,0.3,0.0,0.0,192.0,9.0,
-,﻿Jean-François Gillet,be BEL,GK,40,40,0.0,0.0,2008-2009,013fa5,Bari,"3,600",40.0,1.0,0.0,192.0,27.0,
-,Andrea Masiello,it ITA,DF,39,39,2.0,0.0,2008-2009,0314d87,Bari,"3,450",38.3,5.0,1.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,39,37,2.0,0.0,2008-2009,63d2a792,Bari,"3,387",37.6,7.0,0.0,192.0,9.0,
-,Paulo Vitor Barreto,br BRA,FW,32,31,10.0,23.0,2008-2009,cdd4a7e,Bari,"2,476",27.5,3.0,0.0,192.0,2.0,
-,Marco Esposito,it ITA,DF,31,29,0.0,0.0,2008-2009,f34d5386,Bari,"2,486",27.6,4.0,1.0,192.0,9.0,
-,Alessandro Parisi,it ITA,DF,27,27,1.0,3.0,2008-2009,cb038f7,Bari,"2,377",26.4,8.0,0.0,192.0,9.0,
-,Cristian Stellini,it ITA,DF,29,26,0.0,0.0,2008-2009,49ee9734,Bari,"2,417",26.9,3.0,0.0,192.0,9.0,
-,Daniele De Vezze,it ITA,MF,32,25,0.0,1.0,2008-2009,3de78f49,Bari,"2,215",24.6,10.0,0.0,192.0,9.0,
-,Pedro Kamata,cd COD,MF,34,20,5.0,1.0,2008-2009,d95656b4,Bari,"1,686",18.7,2.0,1.0,192.0,50.0,
-,Mariano Donda,ar ARG,MF,26,19,2.0,1.0,2008-2009,95e77464,Bari,"1,807",20.1,2.0,1.0,192.0,5.0,
-,Stefano Guberti,it ITA,MF,18,18,2.0,9.0,2008-2009,0b7287ef,Bari,"1,416",15.7,0.0,0.0,192.0,9.0,
-,Francesco Caputo,it ITA,FW,28,17,2.0,10.0,2008-2009,5bd72174,Bari,"1,712",19.0,4.0,0.0,192.0,9.0,
-,Emanuel Rivas,ar ARG,MF,22,17,1.0,1.0,2008-2009,ba306a1a,Bari,"1,429",15.9,0.0,0.0,192.0,5.0,
-,Gianluca Galasso,it ITA,DF,22,14,0.0,1.0,2008-2009,c56c9c37,Bari,"1,311",14.6,1.0,0.0,192.0,9.0,
-,Salvatore Masiello,it ITA,"DF,MF",16,14,0.0,0.0,2008-2009,7f864c2a,Bari,"1,251",13.9,1.0,1.0,192.0,9.0,
-,Vitali Kutuzov,by BLR,FW,18,13,4.0,5.0,2008-2009,911884a4,Bari,"1,108",12.3,2.0,0.0,192.0,77.0,
-,Corrado Colombo,it ITA,FW,16,13,0.0,3.0,2008-2009,803e5dfe,Bari,"1,050",11.7,2.0,1.0,192.0,9.0,
-,Raffaele Bianco,it ITA,MF,21,12,1.0,0.0,2008-2009,147c0f9e,Bari,"1,395",15.5,5.0,0.0,192.0,9.0,
-,Davide Lanzafame,it ITA,"FW,MF",18,12,0.0,2.0,2008-2009,7de27356,Bari,970,10.8,2.0,0.0,192.0,9.0,
-,Andrea Ranocchia,it ITA,DF,17,10,0.0,1.0,2008-2009,539230cf,Bari,"1,084",12.0,1.0,0.0,192.0,9.0,
-,Simone Bonomi,it ITA,"DF,MF",15,10,0.0,0.0,2008-2009,072942f5,Bari,849,9.4,2.0,0.0,192.0,9.0,
-,Claudio De Pascalis,it ITA,MF,10,8,0.0,0.0,2008-2009,5839e859,Bari,589,6.5,2.0,0.0,192.0,9.0,
-,Rej Volpato,it ITA,FW,8,4,0.0,1.0,2008-2009,80528dff,Bari,365,4.1,0.0,0.0,192.0,9.0,
-,Simone Cavalli,it ITA,FW,9,3,0.0,1.0,2008-2009,f7cf57b7,Bari,359,4.0,0.0,0.0,192.0,9.0,
-,Nicola Santoni,it ITA,GK,2,2,0.0,0.0,2008-2009,fa0cf031,Bari,180,2.0,0.0,0.0,192.0,9.0,
-,Luca Siligardi,it ITA,"FW,MF",5,1,0.0,0.0,2008-2009,1cac99dc,Bari,172,1.9,0.0,0.0,192.0,9.0,
-,Mark Edusei,gh GHA,MF,3,1,0.0,0.0,2008-2009,8a4b64f2,Bari,116,1.3,0.0,0.0,192.0,17.0,
-,Sodinha,br BRA,MF,4,0,0.0,0.0,2008-2009,26b25d22,Bari,84,0.9,1.0,0.0,192.0,2.0,
-,Cristian Galano,it ITA,"FW,MF",1,0,0.0,0.0,2008-2009,7e2eff7a,Bari,29,0.3,0.0,0.0,192.0,9.0,
-,Nicola Bellomo,it ITA,MF,1,0,0.0,0.0,2008-2009,69a103f,Bari,23,0.3,0.0,0.0,192.0,9.0,
-,Almamy Doumbia,ci CIV,MF,1,0,0.0,0.0,2008-2009,7bb7d4ae,Bari,19,0.2,0.0,0.0,192.0,35.0,
-,Antonio Infimo,it ITA,FW,1,0,0.0,0.0,2008-2009,9f31bf01,Bari,17,0.2,0.0,0.0,192.0,9.0,
-,﻿Leonardo Bonucci,it ITA,DF,38,38,2.0,1.0,2009-2010,52ec54d0,Bari,"3,420",38.0,4.0,0.0,192.0,9.0,
-,Jean-François Gillet,be BEL,GK,37,37,0.0,0.0,2009-2010,013fa5,Bari,"3,330",37.0,2.0,0.0,192.0,27.0,
-,Édgar Álvarez,hn HON,"DF,MF",37,37,2.0,3.0,2009-2010,41d086b6,Bari,"3,073",34.1,1.0,0.0,192.0,107.0,
-,Andrea Masiello,it ITA,DF,36,36,0.0,2.0,2009-2010,0314d87,Bari,"3,240",36.0,4.0,0.0,192.0,9.0,
-,Paulo Vitor Barreto,br BRA,FW,31,30,4.0,14.0,2009-2010,cdd4a7e,Bari,"2,413",26.8,6.0,0.0,192.0,2.0,
-,Salvatore Masiello,it ITA,"DF,MF",28,26,1.0,1.0,2009-2010,7f864c2a,Bari,"2,434",27.0,2.0,0.0,192.0,9.0,
-,Massimo Donati,it ITA,MF,32,26,1.0,1.0,2009-2010,568d84b2,Bari,"2,424",26.9,3.0,0.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,32,25,0.0,0.0,2009-2010,63d2a792,Bari,"2,389",26.5,4.0,0.0,192.0,9.0,
-,Riccardo Meggiorini,it ITA,FW,31,23,2.0,5.0,2009-2010,2ec0f902,Bari,"2,056",22.8,6.0,0.0,192.0,9.0,
-,Sergio Almirón,ar ARG,MF,27,20,0.0,5.0,2009-2010,ce05fadf,Bari,"1,748",19.4,7.0,1.0,192.0,5.0,
-,Nicola Belmonte,it ITA,DF,18,17,0.0,0.0,2009-2010,279857a1,Bari,"1,522",16.9,4.0,0.0,192.0,9.0,
-,Andrea Ranocchia,it ITA,DF,17,17,1.0,2.0,2009-2010,539230cf,Bari,"1,490",16.6,2.0,1.0,192.0,9.0,
-,Riccardo Allegretti,it ITA,MF,16,14,2.0,3.0,2009-2010,52ddad74,Bari,923,10.3,2.0,0.0,192.0,9.0,
-,Alessandro Parisi,it ITA,DF,15,13,0.0,0.0,2009-2010,cb038f7,Bari,"1,082",12.0,4.0,1.0,192.0,9.0,
-,José Ignacio Castillo,ar ARG,FW,16,11,1.0,3.0,2009-2010,f17e0bd,Bari,963,10.7,1.0,0.0,192.0,5.0,
-,Vladimir Koman,hu HUN,MF,16,11,1.0,2.0,2009-2010,ba3c254b,Bari,953,10.6,2.0,0.0,192.0,87.0,
-,Emanuel Rivas,ar ARG,MF,20,10,0.0,3.0,2009-2010,ba306a1a,Bari,826,9.2,1.0,0.0,192.0,5.0,
-,Vitali Kutuzov,by BLR,FW,12,10,2.0,1.0,2009-2010,911884a4,Bari,807,9.0,1.0,0.0,192.0,77.0,
-,Daniele De Vezze,it ITA,MF,9,5,0.0,0.0,2009-2010,3de78f49,Bari,479,5.3,1.0,0.0,192.0,9.0,
-,Cristian Stellini,it ITA,DF,9,3,0.0,1.0,2009-2010,49ee9734,Bari,346,3.8,1.0,0.0,192.0,9.0,
-,Souleymane Diamoutene,ml MLI,DF,3,3,0.0,0.0,2009-2010,1b34cca1,Bari,270,3.0,0.0,0.0,192.0,12.0,
-,Antonio Langella,it ITA,"FW,MF",9,2,1.0,0.0,2009-2010,94cb87a,Bari,326,3.6,4.0,0.0,192.0,9.0,
-,Pedro Kamata,cd COD,MF,14,1,1.0,0.0,2009-2010,d95656b4,Bari,338,3.8,0.0,0.0,192.0,50.0,
-,Ferdinando Sforzini,it ITA,FW,8,1,0.0,0.0,2009-2010,985a64a7,Bari,239,2.7,0.0,1.0,192.0,9.0,
-,Filippo Antonelli,it ITA,MF,4,1,0.0,0.0,2009-2010,88460ebb,Bari,101,1.1,0.0,0.0,192.0,9.0,
-,Daniele Padelli,it ITA,GK,1,1,0.0,0.0,2009-2010,cf1c23d8,Bari,90,1.0,0.0,0.0,192.0,9.0,
-,Giuseppe Greco,it ITA,FW,6,0,0.0,1.0,2009-2010,0c3c4de8,Bari,187,2.1,1.0,0.0,192.0,9.0,
-,Alessio Sestu,it ITA,MF,3,0,0.0,0.0,2009-2010,02895818,Bari,44,0.5,0.0,0.0,192.0,9.0,
-,András Gosztonyi,hu HUN,MF,2,0,0.0,0.0,2009-2010,5c86cca,Bari,35,0.4,0.0,0.0,192.0,87.0,
-,Marco Pisano,it ITA,DF,1,0,0.0,0.0,2009-2010,5492fe20,Bari,14,0.2,0.0,0.0,192.0,9.0,
-,﻿Jean-François Gillet,be BEL,GK,36,36,0.0,0.0,2010-2011,013fa5,Bari,"3,240",36.0,1.0,0.0,192.0,27.0,
-,Andrea Masiello,it ITA,DF,36,36,0.0,1.0,2010-2011,0314d87,Bari,"3,151",35.0,4.0,1.0,192.0,9.0,
-,Alessandro Gazzi,it ITA,MF,31,29,3.0,1.0,2010-2011,63d2a792,Bari,"2,559",28.4,3.0,0.0,192.0,9.0,
-,Marco Rossi,it ITA,DF,30,27,0.0,0.0,2010-2011,9fe54f03,Bari,"2,414",26.8,9.0,2.0,192.0,9.0,
-,Alessandro Parisi,it ITA,DF,27,27,1.0,2.0,2010-2011,cb038f7,Bari,"2,274",25.3,8.0,1.0,192.0,9.0,
-,Nicola Belmonte,it ITA,DF,26,25,0.0,0.0,2010-2011,279857a1,Bari,"2,135",23.7,4.0,0.0,192.0,9.0,
-,Massimo Donati,it ITA,MF,31,23,1.0,1.0,2010-2011,568d84b2,Bari,"2,217",24.6,8.0,1.0,192.0,9.0,
-,Sergio Almirón,ar ARG,MF,25,21,2.0,0.0,2010-2011,ce05fadf,Bari,"1,837",20.4,5.0,0.0,192.0,5.0,
-,Édgar Álvarez,hn HON,"DF,MF",29,18,1.0,1.0,2010-2011,41d086b6,Bari,"1,885",20.9,2.0,0.0,192.0,107.0,
-,Simone Bentivoglio,it ITA,MF,16,16,2.0,2.0,2010-2011,7a8ecf0b,Bari,"1,357",15.1,4.0,0.0,192.0,9.0,
-,Abdelkader Ghezzal,dz ALG,FW,20,15,0.0,2.0,2010-2011,9152a181,Bari,"1,365",15.2,3.0,0.0,192.0,37.0,
-,Kamil Glik,pl POL,"DF,MF",16,15,1.0,0.0,2010-2011,c6056d58,Bari,"1,356",15.1,4.0,1.0,192.0,14.0,
-,Andrea Raggi,it ITA,DF,16,14,0.0,0.0,2010-2011,bd4f5f94,Bari,"1,233",13.7,3.0,0.0,192.0,9.0,
-,Paulo Vitor Barreto,br BRA,FW,13,13,1.0,4.0,2010-2011,cdd4a7e,Bari,980,10.9,0.0,0.0,192.0,2.0,
-,Vitali Kutuzov,by BLR,FW,14,13,0.0,1.0,2010-2011,911884a4,Bari,861,9.6,0.0,0.0,192.0,77.0,
-,Erik Huseklepp,no NOR,"FW,MF",14,12,2.0,2.0,2010-2011,36155c5a,Bari,920,10.2,1.0,0.0,192.0,21.0,
-,Nico Pulzetti,it ITA,MF,15,11,0.0,0.0,2010-2011,d3b19afe,Bari,887,9.9,2.0,0.0,192.0,9.0,
-,Gergely Rudolf,hu HUN,FW,13,11,1.0,2.0,2010-2011,60eacf8b,Bari,868,9.6,1.0,0.0,192.0,87.0,
-,Emanuel Rivas,ar ARG,MF,22,9,2.0,1.0,2010-2011,ba306a1a,Bari,923,10.3,1.0,0.0,192.0,5.0,
-,Stefano Okaka,it ITA,FW,10,6,0.0,2.0,2010-2011,601ef102,Bari,676,7.5,1.0,0.0,192.0,9.0,
-,Salvatore Masiello,it ITA,"DF,MF",6,6,0.0,0.0,2010-2011,7f864c2a,Bari,387,4.3,1.0,0.0,192.0,9.0,
-,Francesco Caputo,it ITA,FW,12,5,0.0,1.0,2010-2011,5bd72174,Bari,665,7.4,1.0,0.0,192.0,9.0,
-,Jaime Romero,es ESP,"FW,MF",10,5,0.0,0.0,2010-2011,28205f4,Bari,451,5.0,1.0,0.0,192.0,1.0,
-,José Ignacio Castillo,ar ARG,FW,14,4,0.0,1.0,2010-2011,f17e0bd,Bari,539,6.0,2.0,0.0,192.0,5.0,
-,Paul Codrea,ro ROU,"DF,MF",6,4,0.0,0.0,2010-2011,771fa9b8,Bari,380,4.2,2.0,0.0,192.0,51.0,
-,Kamil Kopúnek,sk SVK,MF,5,4,0.0,0.0,2010-2011,348cd724,Bari,346,3.8,1.0,0.0,192.0,70.0,
-,Gianluca Galasso,it ITA,DF,4,3,0.0,0.0,2010-2011,c56c9c37,Bari,319,3.5,0.0,0.0,192.0,9.0,
-,Michele Rinaldi,it ITA,DF,6,2,0.0,0.0,2010-2011,77de1ac4,Bari,367,4.1,2.0,0.0,192.0,9.0,
-,Daniele Padelli,it ITA,GK,2,2,0.0,0.0,2010-2011,cf1c23d8,Bari,180,2.0,1.0,0.0,192.0,9.0,
-,Luigi Rana,it ITA,FW,3,2,0.0,0.0,2010-2011,68733dcf,Bari,122,1.4,0.0,0.0,192.0,9.0,
-,Marco D'Alessandro,it ITA,"DF,FW",11,1,0.0,0.0,2010-2011,060606ec,Bari,240,2.7,0.0,0.0,192.0,9.0,
-,Francesco Grandolfo,it ITA,FW,3,1,0.0,3.0,2010-2011,f286bb66,Bari,117,1.3,0.0,0.0,192.0,9.0,
-,Nicola Strambelli,it ITA,MF,3,1,1.0,0.0,2010-2011,3fe1a074,Bari,102,1.1,0.0,0.0,192.0,9.0,
-,Marco Crimi,it ITA,"DF,MF",3,1,0.0,0.0,2010-2011,3872a972,Bari,94,1.0,0.0,0.0,192.0,9.0,
-,﻿Eugenio Lamanna,it ITA,GK,42,42,0.0,0.0,2011-2012,349601c3,Bari,"3,780",42.0,0.0,0.0,192.0,9.0,
-,Andrea De Falco,it ITA,MF,38,35,1.0,6.0,2011-2012,631ff021,Bari,"3,123",34.7,6.0,0.0,192.0,9.0,
-,Agostino Garofalo,it ITA,"DF,MF",35,34,2.0,2.0,2011-2012,bf128669,Bari,"2,929",32.5,7.0,1.0,192.0,9.0,
-,Martino Borghese,it ITA,DF,33,33,0.0,3.0,2011-2012,c5ff13b5,Bari,"2,868",31.9,16.0,1.0,192.0,9.0,
-,Claiton,br BRA,DF,29,29,0.0,4.0,2011-2012,67a3c8bc,Bari,"2,610",29.0,8.0,0.0,192.0,2.0,
-,Alessandro Crescenzi,it ITA,DF,30,29,0.0,0.0,2011-2012,fab1bd8e,Bari,"2,571",28.6,3.0,0.0,192.0,9.0,
-,Mariano Bogliacino,uy URU,MF,28,23,5.0,1.0,2011-2012,b028814,Bari,"2,005",22.3,5.0,0.0,192.0,8.0,
-,Fernando Forestieri,it ITA,"FW,MF",28,23,2.0,2.0,2011-2012,d60c26fc,Bari,"1,942",21.6,7.0,2.0,192.0,9.0,
-,Luca Ceppitelli,it ITA,DF,25,22,1.0,0.0,2011-2012,7d50454d,Bari,"2,040",22.7,5.0,1.0,192.0,9.0,
-,Adrian Stoian,ro ROU,MF,29,21,2.0,5.0,2011-2012,4468b31a,Bari,"1,876",20.8,5.0,0.0,192.0,51.0,
-,Francesco Caputo,it ITA,FW,28,20,2.0,9.0,2011-2012,5bd72174,Bari,"1,871",20.8,7.0,0.0,192.0,9.0,
-,Massimo Donati,it ITA,MF,19,19,4.0,2.0,2011-2012,568d84b2,Bari,"1,710",19.0,6.0,0.0,192.0,9.0,
-,Manuel Scavone,it ITA,MF,19,16,1.0,1.0,2011-2012,c278980c,Bari,"1,352",15.0,4.0,0.0,192.0,9.0,
-,Diego Polenta,uy URU,"DF,MF",17,15,0.0,0.0,2011-2012,992d63,Bari,"1,381",15.3,5.0,3.0,192.0,8.0,
-,Alessandro Marotta,it ITA,FW,18,15,2.0,3.0,2011-2012,50472373,Bari,"1,237",13.7,2.0,0.0,192.0,9.0,
-,Marino Defendi,it ITA,MF,26,14,1.0,0.0,2011-2012,87ae0c78,Bari,"1,454",16.2,3.0,0.0,192.0,9.0,
-,Marcos de Paula,br BRA,FW,14,12,2.0,3.0,2011-2012,db0764ad,Bari,"1,031",11.5,2.0,0.0,192.0,2.0,
-,Nicola Bellomo,it ITA,MF,16,10,1.0,2.0,2011-2012,69a103f,Bari,705,7.8,4.0,1.0,192.0,9.0,
-,Rivaldo González,py PAR,MF,14,9,0.0,0.0,2011-2012,cf6cc060,Bari,750,8.3,3.0,0.0,192.0,43.0,
-,Emanuel Rivas,ar ARG,MF,12,9,2.0,1.0,2011-2012,ba306a1a,Bari,622,6.9,0.0,0.0,192.0,5.0,
-,Marco Romizi,it ITA,MF,9,8,1.0,0.0,2011-2012,b53bd1a7,Bari,644,7.2,3.0,0.0,192.0,9.0,
-,Kamil Kopúnek,sk SVK,MF,13,7,0.0,0.0,2011-2012,348cd724,Bari,677,7.5,2.0,1.0,192.0,70.0,
-,Cristian Galano,it ITA,"FW,MF",15,4,1.0,1.0,2011-2012,7e2eff7a,Bari,521,5.8,0.0,0.0,192.0,9.0,
-,Vitali Kutuzov,by BLR,FW,7,4,0.0,0.0,2011-2012,911884a4,Bari,382,4.2,1.0,0.0,192.0,77.0,
-,Luis Pedro Cavanda,be BEL,"DF,MF",8,3,0.0,0.0,2011-2012,b8a6bf56,Bari,330,3.7,0.0,0.0,192.0,27.0,
-,José Ignacio Castillo,ar ARG,FW,14,2,0.0,1.0,2011-2012,f17e0bd,Bari,455,5.1,0.0,0.0,192.0,5.0,
-,Federico Masi,it ITA,DF,5,2,0.0,0.0,2011-2012,1dc73324,Bari,218,2.4,0.0,0.0,192.0,9.0,
-,Simone Sini,it ITA,DF,2,2,0.0,0.0,2011-2012,7bb14c57,Bari,180,2.0,1.0,0.0,192.0,9.0,
-,Diego Albadoro,it ITA,FW,3,0,0.0,0.0,2011-2012,0b8e5467,Bari,78,0.9,0.0,0.0,192.0,9.0,
-,Ádám Simon,hu HUN,MF,2,0,0.0,0.0,2011-2012,3cdcfc6,Bari,78,0.9,1.0,0.0,192.0,87.0,
-,Luigi Rana,it ITA,FW,2,0,0.0,0.0,2011-2012,68733dcf,Bari,28,0.3,1.0,0.0,192.0,9.0,
-,﻿Eugenio Lamanna,it ITA,GK,40,40,0.0,0.0,2012-2013,349601c3,Bari,"3,600",40.0,1.0,0.0,192.0,9.0,
-,Francesco Caputo,it ITA,FW,36,36,8.0,17.0,2012-2013,5bd72174,Bari,"3,224",35.8,7.0,1.0,192.0,9.0,
-,Diego Polenta,uy URU,"DF,MF",36,36,0.0,1.0,2012-2013,992d63,Bari,"3,190",35.4,10.0,0.0,192.0,8.0,
-,Luca Ceppitelli,it ITA,DF,37,36,2.0,5.0,2012-2013,7d50454d,Bari,"3,158",35.1,9.0,1.0,192.0,9.0,
-,Nicola Bellomo,it ITA,MF,35,33,8.0,6.0,2012-2013,69a103f,Bari,"2,788",31.0,8.0,2.0,192.0,9.0,
-,Claiton,br BRA,DF,35,31,1.0,2.0,2012-2013,67a3c8bc,Bari,"2,724",30.3,10.0,2.0,192.0,2.0,
-,Daniele Sciaudone,it ITA,MF,35,28,3.0,4.0,2012-2013,8c461a21,Bari,"2,629",29.2,11.0,1.0,192.0,9.0,
-,Marco Romizi,it ITA,MF,28,26,0.0,1.0,2012-2013,b53bd1a7,Bari,"1,976",22.0,13.0,1.0,192.0,9.0,
-,Marino Defendi,it ITA,MF,35,25,2.0,2.0,2012-2013,87ae0c78,Bari,"2,294",25.5,4.0,1.0,192.0,9.0,
-,Stefano Sabelli,it ITA,DF,29,23,1.0,0.0,2012-2013,0ccac09c,Bari,"2,099",23.3,7.0,0.0,192.0,9.0,
-,Antimo Iunco,it ITA,"FW,MF",30,23,6.0,1.0,2012-2013,d8acb909,Bari,"1,904",21.2,11.0,1.0,192.0,9.0,
-,Cristian Galano,it ITA,"FW,MF",29,16,5.0,4.0,2012-2013,7e2eff7a,Bari,"1,512",16.8,2.0,0.0,192.0,9.0,
-,Andrea Rossi,it ITA,DF,16,16,0.0,0.0,2012-2013,17f1ab30,Bari,"1,425",15.8,1.0,1.0,192.0,9.0,
-,Abdelkader Ghezzal,dz ALG,FW,17,16,2.0,2.0,2012-2013,9152a181,Bari,"1,373",15.3,4.0,0.0,192.0,37.0,
-,Francesco Fedato,it ITA,FW,26,15,3.0,6.0,2012-2013,645e7e69,Bari,"1,558",17.3,8.0,0.0,192.0,9.0,
-,Stefan Ristovski,mk MKD,"DF,MF",19,15,0.0,0.0,2012-2013,7e56d3db,Bari,"1,288",14.3,3.0,0.0,192.0,81.0,
-,Andrea De Falco,it ITA,MF,16,10,0.0,0.0,2012-2013,631ff021,Bari,"1,024",11.4,2.0,0.0,192.0,9.0,
-,Junior Tallo,ci CIV,FW,17,7,0.0,3.0,2012-2013,84fb6b36,Bari,815,9.1,2.0,0.0,192.0,35.0,
-,Martino Borghese,it ITA,DF,13,7,0.0,1.0,2012-2013,c5ff13b5,Bari,651,7.2,4.0,0.0,192.0,9.0,
-,Attila Filkor,hu HUN,MF,10,7,0.0,0.0,2012-2013,566a7f5f,Bari,628,7.0,2.0,0.0,192.0,87.0,
-,Errico Altobello,,,11,5,1.0,0.0,2012-2013,,Bari,515,5.7,0.0,1.0,192.0,,
-,Diego Albadoro,it ITA,FW,9,5,1.0,0.0,2012-2013,0b8e5467,Bari,383,4.3,1.0,0.0,192.0,9.0,
-,Gustavo Aprile,uy URU,MF,5,3,0.0,0.0,2012-2013,495964bb,Bari,187,2.1,0.0,0.0,192.0,8.0,
-,Alexandru Pena,ro ROU,GK,2,2,0.0,0.0,2012-2013,f97ddc68,Bari,180,2.0,0.0,0.0,192.0,51.0,
-,Rivaldo González,py PAR,MF,3,1,0.0,0.0,2012-2013,cf6cc060,Bari,115,1.3,1.0,0.0,192.0,43.0,
-,Francesco Grandolfo,it ITA,FW,6,0,0.0,0.0,2012-2013,f286bb66,Bari,77,0.9,0.0,0.0,192.0,9.0,
-,Armando Visconti,it ITA,FW,4,0,0.0,0.0,2012-2013,8cf04a6c,Bari,55,0.6,1.0,0.0,192.0,9.0,
-,Anthony Partipilo,,,1,0,0.0,0.0,2012-2013,,Bari,29,0.3,0.0,0.0,192.0,,
-,﻿Enrico Guarna,it ITA,GK,41,41,0.0,0.0,2013-2014,092abf5,Bari,"3,690",41.0,4.0,0.0,192.0,9.0,
-,Marco Calderoni,it ITA,"DF,MF",40,39,2.0,3.0,2013-2014,652811aa,Bari,"3,355",37.3,7.0,1.0,192.0,9.0,
-,Luca Ceppitelli,it ITA,DF,38,38,0.0,6.0,2013-2014,7d50454d,Bari,"3,420",38.0,11.0,1.0,192.0,9.0,
-,Daniele Sciaudone,it ITA,MF,39,38,5.0,4.0,2013-2014,8c461a21,Bari,"3,329",37.0,13.0,0.0,192.0,9.0,
-,Cristian Galano,it ITA,"FW,MF",41,37,10.0,11.0,2013-2014,7e2eff7a,Bari,"3,030",33.7,4.0,0.0,192.0,9.0,
-,Marino Defendi,it ITA,MF,36,36,3.0,5.0,2013-2014,87ae0c78,Bari,"3,163",35.1,8.0,1.0,192.0,9.0,
-,Stefano Sabelli,it ITA,DF,37,34,1.0,0.0,2013-2014,0ccac09c,Bari,"2,923",32.5,7.0,0.0,192.0,9.0,
-,João Silva,pt POR,FW,40,30,1.0,6.0,2013-2014,3eb8f912,Bari,"2,862",31.8,5.0,0.0,192.0,3.0,
-,Diego Polenta,uy URU,"DF,MF",30,27,0.0,3.0,2013-2014,992d63,Bari,"2,502",27.8,7.0,1.0,192.0,8.0,
-,Marco Romizi,it ITA,MF,29,20,0.0,2.0,2013-2014,b53bd1a7,Bari,"1,725",19.2,8.0,1.0,192.0,9.0,
-,Marco Chiosa,it ITA,DF,25,19,0.0,0.0,2013-2014,fc959a88,Bari,"1,789",19.9,4.0,0.0,192.0,9.0,
-,Marco Fossati,it ITA,MF,23,16,2.0,0.0,2013-2014,39bec070,Bari,"1,440",16.0,10.0,1.0,192.0,9.0,
-,Richard Lugo,py PAR,"FW,MF",20,12,0.0,1.0,2013-2014,c78b2741,Bari,917,10.2,1.0,1.0,192.0,43.0,
-,Francesco Fedato,it ITA,FW,14,11,1.0,2.0,2013-2014,645e7e69,Bari,972,10.8,5.0,0.0,192.0,9.0,
-,Stefano Beltrame,it ITA,"FW,MF",23,11,2.0,1.0,2013-2014,b50a9c75,Bari,956,10.6,3.0,0.0,192.0,9.0,
-,Gennaro Delvecchio,it ITA,MF,14,8,0.0,1.0,2013-2014,8aa604d1,Bari,889,9.9,2.0,1.0,192.0,9.0,
-,Andrea De Falco,it ITA,MF,11,8,0.0,0.0,2013-2014,631ff021,Bari,749,8.3,3.0,0.0,192.0,9.0,
-,Enis Nadarević,ba BIH,MF,10,8,3.0,1.0,2013-2014,ca695e60,Bari,707,7.9,2.0,1.0,192.0,49.0,
-,Richard Samnick,fr FRA,DF,8,8,0.0,0.0,2013-2014,0fbd0677,Bari,595,6.6,0.0,0.0,192.0,4.0,
-,Damiano Zanon,it ITA,DF,11,4,0.0,0.0,2013-2014,3f0adc44,Bari,522,5.8,0.0,1.0,192.0,9.0,
-,Edgar Çani,al ALB,FW,14,4,0.0,3.0,2013-2014,7e1be926,Bari,446,5.0,2.0,0.0,192.0,78.0,
-,Matías Alonso,uy URU,FW,7,4,1.0,0.0,2013-2014,2f83d9b2,Bari,421,4.7,0.0,0.0,192.0,8.0,
-,Ignacio Lores,uy URU,"DF,FW",8,3,1.0,0.0,2013-2014,48b662da,Bari,346,3.8,0.0,0.0,192.0,8.0,
-,Diego Albadoro,it ITA,FW,2,2,0.0,0.0,2013-2014,0b8e5467,Bari,159,1.8,0.0,0.0,192.0,9.0,
-,Errico Altobello,,,2,2,0.0,0.0,2013-2014,,Bari,107,1.2,1.0,0.0,192.0,,
-,Alessandro Marotta,it ITA,FW,9,1,0.0,1.0,2013-2014,50472373,Bari,266,3.0,2.0,0.0,192.0,9.0,
-,Alexandru Pena,ro ROU,GK,1,1,0.0,0.0,2013-2014,f97ddc68,Bari,90,1.0,0.0,0.0,192.0,51.0,
-,Giuseppe Statella,it ITA,MF,3,0,0.0,1.0,2013-2014,fa802600,Bari,32,0.4,0.0,0.0,192.0,9.0,
-,Vito Leonetti,it ITA,FW,2,0,0.0,0.0,2013-2014,dbc08599,Bari,21,0.2,0.0,0.0,192.0,9.0,
-,Dimitrios Vosnakidis,gr GRE,DF,1,0,0.0,0.0,2013-2014,d95406b4,Bari,1,0.0,0.0,0.0,192.0,55.0,
-,﻿Massimo Donati,it ITA,MF,35,33,0.0,2.0,2014-2015,568d84b2,Bari,"2,804",31.2,10.0,0.0,192.0,9.0,
-,Francesco Caputo,it ITA,FW,38,30,1.0,10.0,2014-2015,5bd72174,Bari,"2,740",30.4,3.0,1.0,192.0,9.0,
-,Stefano Sabelli,it ITA,DF,31,30,1.0,2.0,2014-2015,0ccac09c,Bari,"2,617",29.1,8.0,2.0,192.0,9.0,
-,Marino Defendi,it ITA,MF,32,28,1.0,0.0,2014-2015,87ae0c78,Bari,"2,331",25.9,8.0,1.0,192.0,9.0,
-,Matteo Contini,it ITA,DF,28,27,0.0,0.0,2014-2015,dec20583,Bari,"2,441",27.1,9.0,1.0,192.0,9.0,
-,Antonio Donnarumma,it ITA,GK,25,25,0.0,0.0,2014-2015,4bd9edd,Bari,"2,250",25.0,2.0,0.0,192.0,9.0,
-,Cristian Galano,it ITA,"FW,MF",34,25,2.0,4.0,2014-2015,7e2eff7a,Bari,"2,187",24.3,3.0,0.0,192.0,9.0,
-,Giuseppe De Luca,it ITA,FW,38,24,5.0,8.0,2014-2015,65195d00,Bari,"2,176",24.2,4.0,0.0,192.0,9.0,
-,Marco Calderoni,it ITA,"DF,MF",26,23,1.0,0.0,2014-2015,652811aa,Bari,"2,049",22.8,5.0,0.0,192.0,9.0,
-,Marco Romizi,it ITA,MF,33,23,0.0,1.0,2014-2015,b53bd1a7,Bari,"2,026",22.5,11.0,0.0,192.0,9.0,
-,Michele Camporese,it ITA,DF,21,20,2.0,0.0,2014-2015,035c1d09,Bari,"1,757",19.5,2.0,0.0,192.0,9.0,
-,Nicola Bellomo,it ITA,MF,19,18,0.0,2.0,2014-2015,69a103f,Bari,"1,600",17.8,3.0,0.0,192.0,9.0,
-,Daniele Sciaudone,it ITA,MF,19,16,3.0,2.0,2014-2015,8c461a21,Bari,"1,454",16.2,9.0,0.0,192.0,9.0,
-,Simone Salviato,it ITA,DF,20,16,1.0,0.0,2014-2015,8793c8a,Bari,"1,453",16.1,5.0,0.0,192.0,9.0,
-,Pasquale Schiattarella,it ITA,MF,17,16,1.0,1.0,2014-2015,bd84fc61,Bari,"1,394",15.5,6.0,1.0,192.0,9.0,
-,Enrico Guarna,it ITA,GK,15,15,0.0,0.0,2014-2015,092abf5,Bari,"1,350",15.0,1.0,0.0,192.0,9.0,
-,Alessandro Ligi,it ITA,DF,14,13,1.0,0.0,2014-2015,1a8f84a0,Bari,"1,166",13.0,4.0,0.0,192.0,9.0,
-,Osarimen Ebagua,ng NGA,FW,16,11,1.0,2.0,2014-2015,dd6711bb,Bari,"1,028",11.4,3.0,1.0,192.0,52.0,
-,Alen Stevanović,rs SRB,"FW,MF",16,11,3.0,1.0,2014-2015,d8e584b9,Bari,979,10.9,1.0,0.0,192.0,28.0,
-,Leandro Rinaudo,it ITA,DF,11,10,0.0,0.0,2014-2015,26536bf4,Bari,921,10.2,3.0,0.0,192.0,9.0,
-,Joseph Minala,cm CMR,MF,18,9,0.0,3.0,2014-2015,11a1951e,Bari,830,9.2,6.0,2.0,192.0,36.0,
-,Kingsley Boateng,it ITA,FW,17,9,0.0,3.0,2014-2015,bbf06142,Bari,822,9.1,4.0,0.0,192.0,9.0,
-,Lorenzo Filippini,it ITA,DF,10,7,0.0,0.0,2014-2015,4aa7fe21,Bari,664,7.4,2.0,0.0,192.0,9.0,
-,Jonathan Rossini,ch SUI,DF,8,5,0.0,0.0,2014-2015,db08b03,Bari,446,5.0,1.0,0.0,192.0,39.0,
-,Rafał Wolski,pl POL,"FW,MF",7,4,0.0,0.0,2014-2015,0e1802a6,Bari,340,3.8,1.0,0.0,192.0,14.0,
-,Ionuț Rada,ro ROU,DF,4,4,0.0,0.0,2014-2015,7e0e3458,Bari,329,3.7,1.0,1.0,192.0,51.0,
-,Adrian Stoian,ro ROU,MF,8,3,1.0,0.0,2014-2015,4468b31a,Bari,326,3.6,3.0,0.0,192.0,51.0,
-,Tomislav Gomelt,hr CRO,MF,6,3,0.0,0.0,2014-2015,5055b1b,Bari,314,3.5,0.0,0.0,192.0,16.0,
-,Simone Benedetti,it ITA,DF,3,2,0.0,0.0,2014-2015,1a064b7d,Bari,210,2.3,2.0,0.0,192.0,9.0,
-,Alessandro Micai,it ITA,GK,2,2,0.0,0.0,2014-2015,6ab58a9b,Bari,180,2.0,0.0,0.0,192.0,9.0,
-,Antonio Rozzi,it ITA,"FW,MF",9,0,1.0,0.0,2014-2015,bef7564e,Bari,140,1.6,1.0,0.0,192.0,9.0,
-,Manel Minicucci,,,1,0,0.0,0.0,2014-2015,,Bari,14,0.2,0.0,0.0,192.0,,
-,Gaetano Castrovilli,it ITA,MF,1,0,0.0,0.0,2014-2015,0728bebe,Bari,14,0.2,0.0,0.0,192.0,9.0,
-,Anthony Partipilo,it ITA,MF,0,0,,,2014-2015,871ec5b7,Bari,,,,,192.0,9.0,
-,Dembel Sall,sn SEN,DF,0,0,,,2014-2015,218c0221,Bari,,,,,192.0,34.0,
-,Giuseppe Scalera,it ITA,DF,0,0,,,2014-2015,b8de35ca,Bari,,,,,192.0,9.0,
-,João Silva,pt POR,FW,0,0,,,2014-2015,3eb8f912,Bari,,,,,192.0,3.0,
-,﻿Alessandro Rosina,it ITA,MF,40,34,14.0,9.0,2015-2016,21fb0e40,Bari,"3,116",34.6,3.0,0.0,192.0,9.0,
-,Francesco Valiani,it ITA,MF,34,33,2.0,4.0,2015-2016,825f6296,Bari,"2,961",32.9,10.0,0.0,192.0,9.0,
-,Riccardo Maniero,it ITA,FW,36,32,6.0,13.0,2015-2016,d231ad99,Bari,"2,853",31.7,6.0,0.0,192.0,9.0,
-,Valerio Di Cesare,it ITA,DF,31,30,0.0,1.0,2015-2016,3cddfc7e,Bari,"2,662",29.6,8.0,1.0,192.0,9.0,
-,Giuseppe De Luca,it ITA,FW,34,26,3.0,7.0,2015-2016,65195d00,Bari,"2,199",24.4,5.0,0.0,192.0,9.0,
-,Marino Defendi,it ITA,MF,30,25,4.0,2.0,2015-2016,87ae0c78,Bari,"2,244",24.9,7.0,0.0,192.0,9.0,
-,Enrico Guarna,it ITA,GK,25,25,0.0,0.0,2015-2016,092abf5,Bari,"2,243",24.9,2.0,1.0,192.0,9.0,
-,Gianluca Sansone,it ITA,FW,34,23,3.0,6.0,2015-2016,838a54e7,Bari,"2,013",22.4,6.0,0.0,192.0,9.0,
-,Denis Tonucci,it ITA,DF,21,21,0.0,0.0,2015-2016,966aea44,Bari,"1,870",20.8,4.0,0.0,192.0,9.0,
-,Stefano Sabelli,it ITA,DF,21,20,2.0,1.0,2015-2016,0ccac09c,Bari,"1,841",20.5,4.0,0.0,192.0,9.0,
-,Isaac Donkor,gh GHA,DF,20,18,0.0,0.0,2015-2016,4c8ba028,Bari,"1,524",16.9,10.0,1.0,192.0,17.0,
-,Ionuț Rada,ro ROU,DF,21,17,0.0,2.0,2015-2016,7e0e3458,Bari,"1,740",19.3,1.0,0.0,192.0,51.0,
-,Giuseppe Gemiti,de GER,"DF,MF",20,17,0.0,0.0,2015-2016,dd67558e,Bari,"1,534",17.0,2.0,0.0,192.0,13.0,
-,Alessandro Micai,it ITA,GK,17,17,0.0,0.0,2015-2016,6ab58a9b,Bari,"1,530",17.0,3.0,0.0,192.0,9.0,
-,Matteo Contini,it ITA,DF,18,17,0.0,0.0,2015-2016,dec20583,Bari,"1,352",15.0,1.0,1.0,192.0,9.0,
-,Filippo Porcari,it ITA,MF,20,16,0.0,0.0,2015-2016,4e9ad4a3,Bari,"1,316",14.6,5.0,1.0,192.0,9.0,
-,Marco Romizi,it ITA,MF,24,15,1.0,0.0,2015-2016,b53bd1a7,Bari,"1,307",14.5,6.0,0.0,192.0,9.0,
-,Jacopo Dezi,it ITA,MF,17,13,0.0,5.0,2015-2016,921b9db,Bari,"1,214",13.5,3.0,0.0,192.0,9.0,
-,Giovanni Di Noia,it ITA,MF,19,12,2.0,0.0,2015-2016,bcb06cf5,Bari,"1,064",11.8,7.0,0.0,192.0,9.0,
-,Cristiano Del Grosso,it ITA,DF,12,12,1.0,0.0,2015-2016,b0603a52,Bari,"1,000",11.1,3.0,0.0,192.0,9.0,
-,Savvas Gentsoglou,gr GRE,MF,12,11,0.0,0.0,2015-2016,8ed17872,Bari,864,9.6,2.0,1.0,192.0,55.0,
-,George Pușcaș,ro ROU,FW,16,9,1.0,4.0,2015-2016,c23c8e0d,Bari,793,8.8,2.0,0.0,192.0,51.0,
-,Massimo Donati,it ITA,MF,16,8,0.0,1.0,2015-2016,568d84b2,Bari,714,7.9,4.0,0.0,192.0,9.0,
-,Nikola Jakimovski,mk MKD,"DF,FW",5,4,0.0,0.0,2015-2016,0e0fa83a,Bari,333,3.7,0.0,0.0,192.0,81.0,
-,Kingsley Boateng,it ITA,FW,18,3,2.0,0.0,2015-2016,bbf06142,Bari,556,6.2,1.0,0.0,192.0,9.0,
-,Issa Cissokho,sn SEN,DF,5,3,0.0,0.0,2015-2016,1017967,Bari,284,3.2,0.0,1.0,192.0,34.0,
-,Andrea Lazzari,it ITA,MF,9,1,0.0,1.0,2015-2016,2d6caaa7,Bari,155,1.7,3.0,0.0,192.0,9.0,
-,Antonis Petropoulos,gr GRE,FW,5,0,0.0,0.0,2015-2016,b5e19f26,Bari,66,0.7,0.0,0.0,192.0,55.0,
-,Gennaro Tutino,it ITA,FW,1,0,0.0,0.0,2015-2016,8b303bcb,Bari,16,0.2,0.0,0.0,192.0,9.0,
-,Joseph Minala,cm CMR,MF,1,0,0.0,0.0,2015-2016,11a1951e,Bari,13,0.1,0.0,0.0,192.0,36.0,
-,Gaston Camara,gn GUI,"FW,MF",0,0,,,2015-2016,754db077,Bari,,,,,192.0,74.0,
-,Stefano Gori,it ITA,GK,0,0,,,2015-2016,d6daf00a,Bari,,,,,192.0,9.0,
-,Giuseppe Scalera,it ITA,DF,0,0,,,2015-2016,b8de35ca,Bari,,,,,192.0,9.0,
-,Curtis Yebli,fr FRA,DF,0,0,,,2015-2016,84f51529,Bari,,,,,192.0,4.0,
-,﻿Alessandro Micai,it ITA,GK,39,39,0.0,0.0,2016-2017,6ab58a9b,Bari,"3,500",38.9,4.0,0.0,192.0,9.0,
-,Stefano Sabelli,it ITA,DF,32,31,5.0,0.0,2016-2017,0ccac09c,Bari,"2,708",30.1,13.0,0.0,192.0,9.0,
-,Denis Tonucci,it ITA,DF,31,29,0.0,1.0,2016-2017,966aea44,Bari,"2,620",29.1,12.0,0.0,192.0,9.0,
-,Franco Brienza,it ITA,"FW,MF",27,24,5.0,5.0,2016-2017,ff058a4,Bari,"2,106",23.4,0.0,0.0,192.0,9.0,
-,Riccardo Maniero,it ITA,FW,34,23,1.0,6.0,2016-2017,d231ad99,Bari,"2,228",24.8,5.0,0.0,192.0,9.0,
-,Matteo Fedele,ch SUI,MF,25,23,0.0,4.0,2016-2017,80ab2ca2,Bari,"2,023",22.5,5.0,0.0,192.0,39.0,
-,Migjen Basha,al ALB,MF,27,22,1.0,1.0,2016-2017,81367f83,Bari,"2,119",23.5,10.0,0.0,192.0,78.0,
-,Vangelis Moras,gr GRE,DF,23,22,0.0,0.0,2016-2017,bffec2a8,Bari,"1,973",21.9,10.0,0.0,192.0,55.0,
-,Fabio Daprelà,ch SUI,"DF,MF",27,21,1.0,2.0,2016-2017,6bff8a73,Bari,"1,939",21.5,3.0,1.0,192.0,39.0,
-,Federico Furlan,it ITA,MF,30,20,2.0,1.0,2016-2017,b9de0518,Bari,"1,988",22.1,2.0,0.0,192.0,9.0,
-,Mattia Cassani,it ITA,DF,21,20,3.0,0.0,2016-2017,f3d0d85e,Bari,"1,832",20.4,6.0,0.0,192.0,9.0,
-,Elio Capradossi,it ITA,DF,23,20,0.0,0.0,2016-2017,174944a3,Bari,"1,800",20.0,3.0,1.0,192.0,9.0,
-,Marco Romizi,it ITA,MF,23,18,2.0,0.0,2016-2017,b53bd1a7,Bari,"1,464",16.3,7.0,1.0,192.0,9.0,
-,Cristian Galano,it ITA,"FW,MF",19,17,2.0,7.0,2016-2017,7e2eff7a,Bari,"1,459",16.2,0.0,0.0,192.0,9.0,
-,Aniello Salzano,it ITA,MF,16,14,2.0,2.0,2016-2017,89f66f6d,Bari,"1,126",12.5,4.0,0.0,192.0,9.0,
-,Giuseppe De Luca,it ITA,FW,19,13,1.0,2.0,2016-2017,65195d00,Bari,"1,205",13.4,2.0,1.0,192.0,9.0,
-,Francesco Valiani,it ITA,MF,17,13,0.0,0.0,2016-2017,825f6296,Bari,"1,196",13.3,5.0,1.0,192.0,9.0,
-,Valerio Di Cesare,it ITA,DF,15,13,0.0,0.0,2016-2017,3cddfc7e,Bari,"1,189",13.2,7.0,0.0,192.0,9.0,
-,Antonio Floro Flores,it ITA,FW,13,10,1.0,4.0,2016-2017,d6846501,Bari,907,10.1,4.0,0.0,192.0,9.0,
-,Roman Macek,cz CZE,MF,16,10,1.0,0.0,2016-2017,0f45a0da,Bari,896,10.0,3.0,0.0,192.0,84.0,
-,Vittorio Parigini,it ITA,"FW,MF",15,8,1.0,1.0,2016-2017,75efed2e,Bari,603,6.7,3.0,1.0,192.0,9.0,
-,Raphael Martinho,br BRA,MF,12,8,0.0,0.0,2016-2017,1124bc4f,Bari,585,6.5,2.0,0.0,192.0,2.0,
-,Archimede Morleo,it ITA,DF,7,7,1.0,0.0,2016-2017,2260bad9,Bari,568,6.3,3.0,0.0,192.0,9.0,
-,Francesco Fedato,it ITA,FW,10,7,1.0,0.0,2016-2017,645e7e69,Bari,509,5.7,1.0,0.0,192.0,9.0,
-,Dávid Ivan,sk SVK,MF,8,5,0.0,1.0,2016-2017,b2e3ce45,Bari,496,5.5,2.0,0.0,192.0,70.0,
-,Emanuele Suagher,it ITA,DF,6,5,0.0,0.0,2016-2017,976a9181,Bari,419,4.7,0.0,0.0,192.0,9.0,
-,Leandro Greco,it ITA,MF,8,4,0.0,0.0,2016-2017,0d9b99a4,Bari,401,4.5,1.0,0.0,192.0,9.0,
-,Salvador Ichazo,uy URU,GK,3,3,0.0,0.0,2016-2017,514f0896,Bari,270,3.0,0.0,0.0,192.0,8.0,
-,Gaetano Monachello,it ITA,FW,4,3,1.0,2.0,2016-2017,241ee811,Bari,215,2.4,0.0,0.0,192.0,9.0,
-,Souleyman Doumbia,ci CIV,"DF,MF",5,3,0.0,0.0,2016-2017,9daeac61,Bari,212,2.4,1.0,0.0,192.0,35.0,
-,Filip Raičević,me MNE,FW,8,2,1.0,0.0,2016-2017,feec939d,Bari,312,3.5,1.0,0.0,192.0,33.0,
-,Giuseppe Scalera,it ITA,DF,3,2,0.0,0.0,2016-2017,b8de35ca,Bari,208,2.3,1.0,0.0,192.0,9.0,
-,Gaetano Castrovilli,it ITA,MF,10,1,0.0,0.0,2016-2017,0728bebe,Bari,161,1.8,0.0,0.0,192.0,9.0,
-,Ciro Coratella,,,2,1,0.0,0.0,2016-2017,,Bari,98,1.1,1.0,0.0,192.0,,
-,Curtis Yebli,fr FRA,DF,2,1,0.0,0.0,2016-2017,84f51529,Bari,75,0.8,0.0,0.0,192.0,4.0,
-,Kingsley Boateng,it ITA,FW,2,0,0.0,0.0,2016-2017,bbf06142,Bari,43,0.5,0.0,0.0,192.0,9.0,
-,Alessio Romanazzo,,,1,0,0.0,0.0,2016-2017,,Bari,19,0.2,0.0,0.0,192.0,,
-,Michele Portoghese,,,1,0,0.0,0.0,2016-2017,,Bari,18,0.2,0.0,0.0,192.0,,
-,Stefano Gori,it ITA,GK,1,0,0.0,0.0,2016-2017,d6daf00a,Bari,10,0.1,0.0,0.0,192.0,9.0,
-,﻿Alessandro Micai,it ITA,GK,41,41,0.0,0.0,2017-2018,6ab58a9b,Bari,"3,685",40.9,2.0,1.0,192.0,9.0,
-,Riccardo Improta,it ITA,"FW,MF",36,33,4.0,8.0,2017-2018,f6dfa5b8,Bari,"2,943",32.7,5.0,0.0,192.0,9.0,
-,Luca Marrone,it ITA,DF,33,33,1.0,1.0,2017-2018,468ea8,Bari,"2,807",31.2,8.0,2.0,192.0,9.0,
-,Migjen Basha,al ALB,MF,31,30,1.0,2.0,2017-2018,81367f83,Bari,"2,573",28.6,10.0,0.0,192.0,78.0,
-,Andrés Tello,co COL,MF,33,28,6.0,1.0,2017-2018,5f951ef1,Bari,"2,502",27.8,6.0,0.0,192.0,19.0,
-,Norbert Gyömbér,sk SVK,DF,28,28,0.0,1.0,2017-2018,0be276c6,Bari,"2,461",27.3,4.0,0.0,192.0,70.0,
-,Cristian Galano,it ITA,FW,32,27,4.0,14.0,2017-2018,7e2eff7a,Bari,"2,359",26.2,0.0,0.0,192.0,9.0,
-,Karamoko Cissé,gn GUI,FW,32,20,4.0,4.0,2017-2018,b39569c0,Bari,"1,866",20.7,3.0,0.0,192.0,74.0,
-,Stefano Sabelli,it ITA,"DF,MF",20,19,0.0,1.0,2017-2018,0ccac09c,Bari,"1,692",18.8,4.0,0.0,192.0,9.0,
-,Massimiliano Busellato,it ITA,MF,26,17,0.0,0.0,2017-2018,5c6669dc,Bari,"1,557",17.3,8.0,0.0,192.0,9.0,
-,Nenê,br BRA,FW,24,17,3.0,6.0,2017-2018,fbd40d07,Bari,"1,430",15.9,5.0,0.0,192.0,2.0,
-,Djavan Anderson,nl NED,"DF,FW",19,17,1.0,2.0,2017-2018,ca241ad3,Bari,"1,406",15.6,0.0,0.0,192.0,11.0,
-,Liam Henderson,sct SCO,MF,18,17,2.0,2.0,2017-2018,d7918b13,Bari,"1,342",14.9,5.0,1.0,192.0,67.0,
-,Simone Iocolano,it ITA,"MF,FW",21,17,2.0,0.0,2017-2018,6b532b5f,Bari,"1,292",14.4,1.0,0.0,192.0,9.0,
-,Salvatore D'Elia,it ITA,DF,15,14,1.0,2.0,2017-2018,5b7c1824,Bari,"1,230",13.7,0.0,0.0,192.0,9.0,
-,Riccardo Fiamozzi,it ITA,"DF,MF",14,13,1.0,0.0,2017-2018,9f9b9269,Bari,"1,150",12.8,1.0,0.0,192.0,9.0,
-,Jacopo Petriccione,it ITA,MF,20,12,1.0,1.0,2017-2018,909bce7f,Bari,"1,197",13.3,5.0,0.0,192.0,9.0,
-,Jure Balkovec,si SVN,DF,11,11,3.0,1.0,2017-2018,1a787ee8,Bari,990,11.0,2.0,0.0,192.0,32.0,
-,Elio Capradossi,it ITA,DF,11,9,0.0,0.0,2017-2018,174944a3,Bari,914,10.2,3.0,0.0,192.0,9.0,
-,Denis Tonucci,it ITA,DF,9,8,0.0,1.0,2017-2018,966aea44,Bari,779,8.7,3.0,0.0,192.0,9.0,
-,Antonio Floro Flores,it ITA,FW,27,7,5.0,3.0,2017-2018,d6846501,Bari,999,11.1,2.0,0.0,192.0,9.0,
-,Mattia Cassani,it ITA,DF,7,7,1.0,0.0,2017-2018,f3d0d85e,Bari,630,7.0,2.0,0.0,192.0,9.0,
-,Libor Kozák,cz CZE,FW,15,7,0.0,2.0,2017-2018,979d0640,Bari,618,6.9,2.0,0.0,192.0,84.0,
-,Franco Brienza,it ITA,"MF,FW",29,6,3.0,4.0,2017-2018,ff058a4,Bari,"1,107",12.3,0.0,0.0,192.0,9.0,
-,Modibo Diakité,fr FRA,DF,9,6,0.0,0.0,2017-2018,5eb4ab4,Bari,540,6.0,1.0,0.0,192.0,4.0,
-,Alan Empereur,br BRA,DF,8,6,0.0,0.0,2017-2018,825b8997,Bari,518,5.8,3.0,1.0,192.0,2.0,
-,Archimede Morleo,it ITA,"MF,DF",4,3,0.0,0.0,2017-2018,2260bad9,Bari,285,3.2,1.0,0.0,192.0,9.0,
-,Marios Oikonomou,gr GRE,DF,3,3,0.0,0.0,2017-2018,3b9858f5,Bari,270,3.0,1.0,0.0,192.0,55.0,
-,Aniello Salzano,it ITA,MF,4,3,0.0,0.0,2017-2018,89f66f6d,Bari,207,2.3,0.0,0.0,192.0,9.0,
-,Federico Andrada,ar ARG,FW,3,2,0.0,1.0,2017-2018,c997824a,Bari,109,1.2,0.0,0.0,192.0,5.0,
-,Victor De Lucia,it ITA,GK,2,1,0.0,0.0,2017-2018,12daa2f5,Bari,94,1.0,0.0,0.0,192.0,9.0,
-,Federico Furlan,it ITA,MF,1,0,0.0,0.0,2017-2018,b9de0518,Bari,11,0.1,0.0,0.0,192.0,9.0,
-,Alessandro Berardi,it ITA,GK,0,0,,,2017-2018,c1f737d,Bari,,,,,192.0,9.0,
-,Emanuele Conti,it ITA,GK,0,0,,,2017-2018,65cc42eb,Bari,,,,,192.0,9.0,
-,Alessio Di Cosmo,it ITA,DF,0,0,,,2017-2018,8fcf739,Bari,,,,,192.0,9.0,
-,Nunzio Lella,it ITA,DF,0,0,,,2017-2018,c149e8a6,Bari,,,,,192.0,9.0,
-,Mattia Montini,it ITA,FW,0,0,,,2017-2018,32375a96,Bari,,,,,192.0,9.0,
-,Filip Raičević,me MNE,FW,0,0,,,2017-2018,feec939d,Bari,,,,,192.0,33.0,
-,Giuseppe Scalera,it ITA,DF,0,0,,,2017-2018,b8de35ca,Bari,,,,,192.0,9.0,
-,Davide Viola,it ITA,DF,0,0,,,2017-2018,181a0eef,Bari,,,,,192.0,9.0,
-,﻿Daniele Celiento,it ITA,DF,2,2,0.0,0.0,2020-2021,544a92c8,Bari,210.0,2.3,0.0,0.0,192.0,9.0,
-,Marco Perrotta,it ITA,DF,2,2,0.0,0.0,2020-2021,90a4ec57,Bari,210.0,2.3,1.0,0.0,192.0,9.0,
-,Mattia Maita,it ITA,MF,2,2,0.0,0.0,2020-2021,d21268c5,Bari,167.0,1.9,0.0,0.0,192.0,9.0,
-,Francesco Corsinelli,it ITA,MF,2,2,0.0,0.0,2020-2021,7e3b86ac,Bari,160.0,1.8,0.0,0.0,192.0,9.0,
-,Eugenio D'Ursi,it ITA,FW,2,2,0.0,1.0,2020-2021,1348c62,Bari,160.0,1.8,0.0,0.0,192.0,9.0,
-,Leonardo Candellone,it ITA,FW,2,1,0.0,1.0,2020-2021,f0fe411,Bari,165.0,1.8,0.0,0.0,192.0,9.0,
-,Alessandro Minelli,it ITA,DF,2,1,0.0,0.0,2020-2021,c067e719,Bari,135.0,1.5,0.0,0.0,192.0,9.0,
-,Carlo De Risio,it ITA,MF,1,1,0.0,0.0,2020-2021,491413f,Bari,120.0,1.3,1.0,0.0,192.0,9.0,
-,Davide Marfella,it ITA,GK,1,1,0.0,0.0,2020-2021,880fcdbb,Bari,120.0,1.3,0.0,0.0,192.0,9.0,
-,Alessio Sabbione,it ITA,"DF,MF",2,1,0.0,0.0,2020-2021,4b72c3f4,Bari,118.0,1.3,0.0,0.0,192.0,9.0,
-,Mirco Antenucci,it ITA,FW,2,1,0.0,1.0,2020-2021,43a2e16c,Bari,116.0,1.3,0.0,0.0,192.0,9.0,
-,Manuel Marras,it ITA,"FW,MF",2,1,0.0,1.0,2020-2021,5c4c8f5a,Bari,106.0,1.2,0.0,0.0,192.0,9.0,
-,Raffaele Bianco,it ITA,MF,2,1,0.0,0.0,2020-2021,147c0f9e,Bari,101.0,1.1,0.0,0.0,192.0,9.0,
-,Pierluigi Frattali,it ITA,GK,1,1,0.0,0.0,2020-2021,71dac2c2,Bari,90.0,1.0,0.0,0.0,192.0,9.0,
-,Cristian Andreoni,it ITA,DF,1,1,0.0,0.0,2020-2021,3a819038,Bari,77.0,0.9,0.0,0.0,192.0,9.0,
-,Daniel Semenzato,it ITA,"DF,MF",1,1,0.0,0.0,2020-2021,2ebfc410,Bari,59.0,0.7,0.0,0.0,192.0,9.0,
-,Tommaso D'Orazio,it ITA,"DF,MF",1,1,0.0,0.0,2020-2021,6e1249fe,Bari,45.0,0.5,0.0,0.0,192.0,9.0,
-,Matteo Ciofani,it ITA,"DF,MF",2,0,0.0,0.0,2020-2021,d9448e6b,Bari,95.0,1.1,0.0,0.0,192.0,9.0,
-,Manuel Scavone,it ITA,MF,1,0,0.0,0.0,2020-2021,c278980c,Bari,32.0,0.4,0.0,0.0,192.0,9.0,
-,Simone Simeri,it ITA,FW,1,0,0.0,0.0,2020-2021,07f2356e,Bari,24.0,0.3,0.0,0.0,192.0,9.0,
-,Filippo Berra,it ITA,DF,0,0,,,2020-2021,fabb351b,Bari,,,,,192.0,9.0,
-,Valerio Di Cesare,it ITA,DF,0,0,,,2020-2021,3cddfc7e,Bari,,,,,192.0,9.0,
-,Giuseppe Esposito,it ITA,DF,0,0,,,2020-2021,6f2f04e7,Bari,,,,,192.0,9.0,
-,Luca Liso,it ITA,GK,0,0,,,2020-2021,504a20bf,Bari,,,,,192.0,9.0,
-,Giuseppe Polichetti,,DF,0,0,,,2020-2021,7f6401c7,Bari,,,,,192.0,,
-,Gianluca Stasi,it ITA,FW,0,0,,,2020-2021,3b1f4561,Bari,,,,,192.0,9.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Duccio Innocenti,it ITA,DF,34,34,2.0,0.0,2002-2003,/en/players/0ee3b2d9/Duccio-Innocenti,0ee3b2d9,Bari,"3,010",33.4,8.0,0.0,192,9.0,21620,Bari
+,Gaetano De Rosa,it ITA,DF,34,32,0.0,3.0,2002-2003,/en/players/3022964d/Gaetano-De-Rosa,3022964d,Bari,"2,872",31.9,8.0,1.0,192,9.0,21481,Bari
+,Antonio Bellavista,it ITA,MF,32,32,0.0,1.0,2002-2003,/en/players/d71fe506/Antonio-Bellavista,d71fe506,Bari,"2,676",29.7,6.0,2.0,192,9.0,23223,Bari
+,Gionatha Spinesi,it ITA,FW,33,31,1.0,16.0,2002-2003,/en/players/136bf61b/Gionatha-Spinesi,136bf61b,Bari,"2,745",30.5,6.0,0.0,192,9.0,23010,Bari
+,Gaetano D'Agostino,it ITA,MF,33,27,5.0,1.0,2002-2003,/en/players/7a469087/Gaetano-DAgostino,7a469087,Bari,"2,386",26.5,3.0,1.0,192,9.0,20253,Bari
+,Rachid Neqrouz,ma MAR,DF,26,25,0.0,1.0,2002-2003,/en/players/9f6ea567/Rachid-Neqrouz,9f6ea567,Bari,"2,229",24.8,9.0,1.0,192,26.0,23224,Bari
+,Jean-François Gillet,be BEL,GK,23,23,0.0,0.0,2002-2003,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"2,070",23.0,1.0,0.0,192,27.0,21080,Bari
+,Nicola Mora,it ITA,DF,24,22,3.0,0.0,2002-2003,/en/players/99c52d51/Nicola-Mora,99c52d51,Bari,"1,980",22.0,11.0,1.0,192,9.0,23225,Bari
+,Diego Markic,ar ARG,"FW,MF",22,19,0.0,0.0,2002-2003,/en/players/478145d8/Diego-Markic,478145d8,Bari,"1,656",18.4,2.0,0.0,192,5.0,23226,Bari
+,Lionel Pizzinat,ch SUI,MF,29,18,1.0,1.0,2002-2003,/en/players/12afd9e9/Lionel-Pizzinat,12afd9e9,Bari,"1,805",20.1,4.0,1.0,192,39.0,23227,Bari
+,Jaime Valdés,cl CHI,"FW,MF",32,18,2.0,3.0,2002-2003,/en/players/77e6776f/Jaime-Valdes,77e6776f,Bari,"1,706",19.0,2.0,1.0,192,31.0,20084,Bari
+,Nicolás Córdova,cl CHI,MF,26,18,6.0,5.0,2002-2003,/en/players/fbba0b1d/Nicolas-Cordova,fbba0b1d,Bari,"1,521",16.9,1.0,0.0,192,31.0,20723,Bari
+,Mattia Collauto,it ITA,MF,23,16,1.0,0.0,2002-2003,/en/players/e4bca0cd/Mattia-Collauto,4bca0cd,Bari,"1,341",14.9,3.0,0.0,192,9.0,23228,Bari
+,Graziano Battistini,it ITA,GK,15,15,0.0,0.0,2002-2003,/en/players/3369b4a4/Graziano-Battistini,3369b4a4,Bari,"1,350",15.0,1.0,0.0,192,9.0,23229,Bari
+,Giuseppe Ingrosso,it ITA,DF,15,13,0.0,0.0,2002-2003,/en/players/fcec8102/Giuseppe-Ingrosso,fcec8102,Bari,"1,179",13.1,2.0,2.0,192,9.0,23230,Bari
+,Alex von Schwedler,cl CHI,DF,13,13,0.0,0.0,2002-2003,/en/players/12b4dc64/Alex-von-Schwedler,12b4dc64,Bari,"1,128",12.5,3.0,0.0,192,31.0,23231,Bari
+,Luigi Anaclerio,it ITA,FW,16,12,2.0,4.0,2002-2003,/en/players/ae06f079/Luigi-Anaclerio,06f079,Bari,"1,120",12.4,0.0,0.0,192,9.0,21844,Bari
+,Antonio La Fortezza,it ITA,MF,14,10,0.0,0.0,2002-2003,/en/players/8bec6062/Antonio-La-Fortezza,8bec6062,Bari,782,8.7,3.0,0.0,192,9.0,23232,Bari
+,Denis Godeas,it ITA,FW,12,9,0.0,1.0,2002-2003,/en/players/fab28911/Denis-Godeas,fab28911,Bari,792,8.8,3.0,0.0,192,9.0,20409,Bari
+,Francesco Palmieri,it ITA,FW,11,7,1.0,1.0,2002-2003,/en/players/d6427a4f/Francesco-Palmieri,d6427a4f,Bari,575,6.4,0.0,0.0,192,9.0,22476,Bari
+,Marco Candrina,it ITA,DF,11,6,0.0,0.0,2002-2003,/en/players/1f213e16/Marco-Candrina,1f213e16,Bari,648,7.2,1.0,0.0,192,9.0,23233,Bari
+,Hany Saïd,eg EGY,DF,9,5,1.0,0.0,2002-2003,/en/players/30a91f18/Hany-Said,30a91f18,Bari,505,5.6,0.0,0.0,192,59.0,22692,Bari
+,Doudou Diaw,sn SEN,DF,6,5,0.0,0.0,2002-2003,/en/players/e30593c5/Doudou-Diaw,30593c5,Bari,463,5.1,2.0,0.0,192,34.0,21959,Bari
+,Alessandro Armenise,it ITA,DF,5,4,0.0,0.0,2002-2003,/en/players/8a1d585e/Alessandro-Armenise,8a1d585e,Bari,276,3.1,1.0,0.0,192,9.0,23234,Bari
+,Lorenzo Sibilano,it ITA,DF,3,2,0.0,0.0,2002-2003,/en/players/1ae9ebbb/Lorenzo-Sibilano,1ae9ebbb,Bari,222,2.5,0.0,0.0,192,9.0,23235,Bari
+,Giuseppe Mazzarelli,ch SUI,DF,4,1,0.0,0.0,2002-2003,/en/players/42de46d6/Giuseppe-Mazzarelli,42de46d6,Bari,168,1.9,0.0,0.0,192,39.0,23236,Bari
+,Luca Brambilla,,,4,1,0.0,0.0,2002-2003,No detected,,Bari,118,1.3,1.0,0.0,192,,90903,Bari
+,Daniele Vantaggiato,it ITA,"FW,MF",5,0,0.0,0.0,2002-2003,/en/players/49579375/Daniele-Vantaggiato,49579375,Bari,77,0.9,0.0,0.0,192,9.0,20061,Bari
+,Raphael Chukwu,ng NGA,FW,3,0,0.0,0.0,2002-2003,/en/players/15938ecc/Raphael-Chukwu,15938ecc,Bari,66,0.7,1.0,0.0,192,52.0,23237,Bari
+,Maurizio Ruberto,,,1,0,0.0,0.0,2002-2003,No detected,,Bari,57,0.6,0.0,0.0,192,,90904,Bari
+,Óscar Ayala,py PAR,DF,1,0,0.0,0.0,2002-2003,/en/players/d67fb974/Oscar-Ayala,d67fb974,Bari,12,0.1,0.0,0.0,192,43.0,23238,Bari
+,﻿Graziano Battistini,it ITA,GK,46,46,0.0,0.0,2003-2004,/en/players/3369b4a4/Graziano-Battistini,3369b4a4,Bari,"4,140",46.0,3.0,0.0,192,9.0,23229,Bari
+,Gaetano De Rosa,it ITA,DF,42,42,0.0,5.0,2003-2004,/en/players/3022964d/Gaetano-De-Rosa,3022964d,Bari,"3,731",41.5,10.0,2.0,192,9.0,21481,Bari
+,Antonio Bellavista,it ITA,MF,41,41,0.0,0.0,2003-2004,/en/players/d71fe506/Antonio-Bellavista,d71fe506,Bari,"3,626",40.3,10.0,1.0,192,9.0,23223,Bari
+,Emanuele Brioschi,it ITA,DF,35,33,1.0,1.0,2003-2004,/en/players/d973aa11/Emanuele-Brioschi,d973aa11,Bari,"2,974",33.0,5.0,0.0,192,9.0,21052,Bari
+,Nicola Mora,it ITA,DF,39,32,0.0,0.0,2003-2004,/en/players/99c52d51/Nicola-Mora,99c52d51,Bari,"2,824",31.4,4.0,1.0,192,9.0,23225,Bari
+,Doudou Diaw,sn SEN,DF,31,31,0.0,1.0,2003-2004,/en/players/e30593c5/Doudou-Diaw,30593c5,Bari,"2,730",30.3,9.0,0.0,192,34.0,21959,Bari
+,Lionel Pizzinat,ch SUI,MF,34,28,3.0,1.0,2003-2004,/en/players/12afd9e9/Lionel-Pizzinat,12afd9e9,Bari,"2,447",27.2,7.0,0.0,192,39.0,23227,Bari
+,Nicolás Córdova,cl CHI,MF,39,26,3.0,12.0,2003-2004,/en/players/fbba0b1d/Nicolas-Cordova,fbba0b1d,Bari,"2,590",28.8,4.0,0.0,192,31.0,20723,Bari
+,Simone Motta,it ITA,FW,38,26,2.0,3.0,2003-2004,/en/players/4029ad21/Simone-Motta,4029ad21,Bari,"2,208",24.5,2.0,0.0,192,9.0,22775,Bari
+,Jaime Valdés,cl CHI,"FW,MF",41,24,2.0,4.0,2003-2004,/en/players/77e6776f/Jaime-Valdes,77e6776f,Bari,"2,221",24.7,0.0,0.0,192,31.0,20084,Bari
+,Michele Anaclerio,it ITA,DF,23,23,0.0,0.0,2003-2004,/en/players/87264b8b/Michele-Anaclerio,87264b8b,Bari,"1,966",21.8,7.0,1.0,192,9.0,21759,Bari
+,Mattia Collauto,it ITA,MF,30,20,1.0,0.0,2003-2004,/en/players/e4bca0cd/Mattia-Collauto,4bca0cd,Bari,"1,774",19.7,4.0,0.0,192,9.0,23228,Bari
+,Gionatha Spinesi,it ITA,FW,20,20,1.0,12.0,2003-2004,/en/players/136bf61b/Gionatha-Spinesi,136bf61b,Bari,"1,771",19.7,4.0,1.0,192,9.0,23010,Bari
+,Giuseppe Ingrosso,it ITA,DF,21,20,0.0,0.0,2003-2004,/en/players/fcec8102/Giuseppe-Ingrosso,fcec8102,Bari,"1,715",19.1,7.0,0.0,192,9.0,23230,Bari
+,Diego Markic,ar ARG,"FW,MF",22,19,2.0,1.0,2003-2004,/en/players/478145d8/Diego-Markic,478145d8,Bari,"1,655",18.4,5.0,0.0,192,5.0,23226,Bari
+,Salvatore Bruno,it ITA,FW,19,18,1.0,5.0,2003-2004,/en/players/397033b8/Salvatore-Bruno,397033b8,Bari,"1,627",18.1,4.0,0.0,192,9.0,20411,Bari
+,Marco Candrina,it ITA,DF,14,13,0.0,0.0,2003-2004,/en/players/1f213e16/Marco-Candrina,1f213e16,Bari,"1,098",12.2,5.0,0.0,192,9.0,23233,Bari
+,Alex von Schwedler,cl CHI,DF,15,12,0.0,0.0,2003-2004,/en/players/12b4dc64/Alex-von-Schwedler,12b4dc64,Bari,"1,185",13.2,3.0,0.0,192,31.0,23231,Bari
+,Ivone De Franceschi,it ITA,MF,15,11,0.0,1.0,2003-2004,/en/players/21fc1e8d/Ivone-De-Franceschi,21fc1e8d,Bari,879,9.8,2.0,0.0,192,9.0,20381,Bari
+,Marcelo Lipatín,uy URU,FW,32,10,1.0,2.0,2003-2004,/en/players/a541d06a/Marcelo-Lipatin,541d06a,Bari,"1,096",12.2,2.0,0.0,192,8.0,23239,Bari
+,Antonio La Fortezza,it ITA,MF,13,6,1.0,0.0,2003-2004,/en/players/8bec6062/Antonio-La-Fortezza,8bec6062,Bari,626,7.0,6.0,0.0,192,9.0,23232,Bari
+,Pasquale Berardi,it ITA,MF,8,4,0.0,0.0,2003-2004,/en/players/c865b3ef/Pasquale-Berardi,c865b3ef,Bari,360,4.0,4.0,0.0,192,9.0,23244,Bari
+,Luca Brambilla,,,3,1,0.0,0.0,2003-2004,No detected,,Bari,72,0.8,0.0,0.0,192,,90903,Bari
+,Hugo Enyinnaya,ng NGA,FW,5,0,0.0,1.0,2003-2004,/en/players/ef608111/Hugo-Enyinnaya,f608111,Bari,79,0.9,1.0,0.0,192,52.0,22472,Bari
+,Domenico Creanza,,,1,0,0.0,0.0,2003-2004,No detected,,Bari,6,0.1,0.0,0.0,192,,90905,Bari
+,﻿Jean-François Gillet,be BEL,GK,41,41,0.0,0.0,2004-2005,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,668",40.8,0.0,1.0,192,27.0,21080,Bari
+,Lorenzo Sibilano,it ITA,DF,40,40,0.0,1.0,2004-2005,/en/players/1ae9ebbb/Lorenzo-Sibilano,1ae9ebbb,Bari,"3,568",39.6,6.0,2.0,192,9.0,23235,Bari
+,Antonio Bellavista,it ITA,MF,39,37,0.0,0.0,2004-2005,/en/players/d71fe506/Antonio-Bellavista,d71fe506,Bari,"3,178",35.3,6.0,1.0,192,9.0,23223,Bari
+,Giorgio La Vista,it ITA,MF,40,37,3.0,3.0,2004-2005,/en/players/a9c1dbf6/Giorgio-La-Vista,9c1dbf6,Bari,"3,126",34.7,4.0,0.0,192,9.0,22758,Bari
+,Davide Carrus,it ITA,MF,36,35,4.0,7.0,2004-2005,/en/players/beff5c30/Davide-Carrus,beff5c30,Bari,"3,087",34.3,5.0,0.0,192,9.0,21056,Bari
+,Vincenzo Santoruvo,it ITA,FW,38,33,3.0,10.0,2004-2005,/en/players/2db3383b/Vincenzo-Santoruvo,2db3383b,Bari,"2,999",33.3,11.0,0.0,192,9.0,23240,Bari
+,Alessandro Gazzi,it ITA,MF,34,33,0.0,3.0,2004-2005,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"2,920",32.4,7.0,0.0,192,9.0,21499,Bari
+,Massimiliano Scaglia,it ITA,DF,30,28,0.0,2.0,2004-2005,/en/players/b746a100/Massimiliano-Scaglia,b746a100,Bari,"2,466",27.4,3.0,1.0,192,9.0,22347,Bari
+,Doudou Diaw,sn SEN,DF,27,26,2.0,0.0,2004-2005,/en/players/e30593c5/Doudou-Diaw,30593c5,Bari,"2,179",24.2,6.0,0.0,192,34.0,21959,Bari
+,Vittorio Micolucci,it ITA,DF,25,23,1.0,0.0,2004-2005,/en/players/65b4dec6/Vittorio-Micolucci,65b4dec6,Bari,"2,025",22.5,7.0,0.0,192,9.0,22786,Bari
+,Roberto Goretti,it ITA,MF,30,23,2.0,3.0,2004-2005,/en/players/c844c8c0/Roberto-Goretti,c844c8c0,Bari,"1,966",21.8,8.0,0.0,192,9.0,21031,Bari
+,Emanuele Brioschi,it ITA,DF,22,22,0.0,1.0,2004-2005,/en/players/d973aa11/Emanuele-Brioschi,d973aa11,Bari,"1,954",21.7,11.0,0.0,192,9.0,21052,Bari
+,Davide Dionigi,it ITA,MF,20,20,1.0,4.0,2004-2005,/en/players/83dc0b9c/Davide-Dionigi,83dc0b9c,Bari,"1,654",18.4,8.0,0.0,192,9.0,21487,Bari
+,Michele Anaclerio,it ITA,DF,22,12,3.0,0.0,2004-2005,/en/players/87264b8b/Michele-Anaclerio,87264b8b,Bari,"1,284",14.3,2.0,1.0,192,9.0,21759,Bari
+,Luigi Anaclerio,it ITA,FW,27,11,3.0,2.0,2004-2005,/en/players/ae06f079/Luigi-Anaclerio,06f079,Bari,"1,183",13.1,2.0,0.0,192,9.0,21844,Bari
+,Stefano Bianconi,it ITA,DF,16,10,1.0,0.0,2004-2005,/en/players/8852d81f/Stefano-Bianconi,8852d81f,Bari,996,11.1,3.0,0.0,192,9.0,23241,Bari
+,Simone Motta,it ITA,FW,13,9,1.0,3.0,2004-2005,/en/players/4029ad21/Simone-Motta,4029ad21,Bari,754,8.4,1.0,0.0,192,9.0,22775,Bari
+,Ivan Rajčić,hr CRO,MF,10,9,0.0,0.0,2004-2005,/en/players/05dbb984/Ivan-Rajcic,05dbb984,Bari,666,7.4,4.0,0.0,192,16.0,23242,Bari
+,Giuseppe Pagana,,,20,7,0.0,0.0,2004-2005,No detected,,Bari,728,8.1,2.0,0.0,192,,90906,Bari
+,Marco Candrina,it ITA,DF,17,3,1.0,0.0,2004-2005,/en/players/1f213e16/Marco-Candrina,1f213e16,Bari,385,4.3,2.0,0.0,192,9.0,23233,Bari
+,Cristian Romanelli,,,11,1,0.0,1.0,2004-2005,No detected,,Bari,275,3.1,0.0,0.0,192,,90907,Bari
+,Marcelo Lipatín,uy URU,FW,10,1,1.0,0.0,2004-2005,/en/players/a541d06a/Marcelo-Lipatin,541d06a,Bari,166,1.8,0.0,0.0,192,8.0,23239,Bari
+,Davide Buono,,,1,1,0.0,0.0,2004-2005,No detected,,Bari,90,1.0,0.0,0.0,192,,90908,Bari
+,Antonio La Fortezza,it ITA,MF,4,0,0.0,0.0,2004-2005,/en/players/8bec6062/Antonio-La-Fortezza,8bec6062,Bari,67,0.7,1.0,0.0,192,9.0,23232,Bari
+,Alex von Schwedler,cl CHI,DF,5,0,0.0,0.0,2004-2005,/en/players/12b4dc64/Alex-von-Schwedler,12b4dc64,Bari,64,0.7,0.0,0.0,192,31.0,23231,Bari
+,Enrico Antonioni,,,1,0,0.0,0.0,2004-2005,No detected,,Bari,45,0.5,0.0,0.0,192,,90909,Bari
+,Nicola Dibitonto,it ITA,GK,1,0,0.0,0.0,2004-2005,/en/players/1c1e2c0a/Nicola-Dibitonto,1c1e2c0a,Bari,12,0.1,0.0,1.0,192,9.0,23243,Bari
+,Antonio Balzano,it ITA,DF,1,0,0.0,0.0,2004-2005,/en/players/a5a44641/Antonio-Balzano,5a44641,Bari,10,0.1,0.0,0.0,192,9.0,22626,Bari
+,﻿Jean-François Gillet,be BEL,GK,41,41,0.0,0.0,2005-2006,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,680",40.9,1.0,0.0,192,27.0,21080,Bari
+,Vincenzo Santoruvo,it ITA,FW,40,40,4.0,11.0,2005-2006,/en/players/2db3383b/Vincenzo-Santoruvo,2db3383b,Bari,"3,519",39.1,10.0,0.0,192,9.0,23240,Bari
+,Alessandro Gazzi,it ITA,MF,35,35,5.0,1.0,2005-2006,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"3,131",34.8,6.0,0.0,192,9.0,21499,Bari
+,Vittorio Micolucci,it ITA,DF,37,34,1.0,0.0,2005-2006,/en/players/65b4dec6/Vittorio-Micolucci,65b4dec6,Bari,"3,136",34.8,4.0,0.0,192,9.0,22786,Bari
+,Antonio Bellavista,it ITA,MF,33,32,0.0,1.0,2005-2006,/en/players/d71fe506/Antonio-Bellavista,d71fe506,Bari,"2,834",31.5,6.0,1.0,192,9.0,23223,Bari
+,Marco Esposito,it ITA,DF,30,30,5.0,0.0,2005-2006,/en/players/f34d5386/Marco-Esposito,f34d5386,Bari,"2,485",27.6,11.0,3.0,192,9.0,22351,Bari
+,Biagio Pagano,it ITA,MF,36,28,3.0,6.0,2005-2006,/en/players/19639241/Biagio-Pagano,19639241,Bari,"2,375",26.4,6.0,0.0,192,9.0,21251,Bari
+,Massimo Ganci,it ITA,FW,36,27,3.0,7.0,2005-2006,/en/players/0d25bba8/Massimo-Ganci,0d25bba8,Bari,"2,131",23.7,8.0,0.0,192,9.0,21486,Bari
+,William Pianu,it ITA,DF,25,25,1.0,2.0,2005-2006,/en/players/dc565839/William-Pianu,dc565839,Bari,"2,153",23.9,6.0,1.0,192,9.0,22961,Bari
+,Giorgio La Vista,it ITA,MF,30,25,0.0,0.0,2005-2006,/en/players/a9c1dbf6/Giorgio-La-Vista,9c1dbf6,Bari,"2,081",23.1,2.0,0.0,192,9.0,22758,Bari
+,Daniele Vantaggiato,it ITA,"FW,MF",35,23,1.0,6.0,2005-2006,/en/players/49579375/Daniele-Vantaggiato,49579375,Bari,"2,115",23.5,6.0,0.0,192,9.0,20061,Bari
+,Davide Carrus,it ITA,MF,24,23,4.0,6.0,2005-2006,/en/players/beff5c30/Davide-Carrus,beff5c30,Bari,"2,079",23.1,5.0,0.0,192,9.0,21056,Bari
+,Emanuele Brioschi,it ITA,DF,24,21,1.0,0.0,2005-2006,/en/players/d973aa11/Emanuele-Brioschi,d973aa11,Bari,"1,957",21.7,6.0,1.0,192,9.0,21052,Bari
+,Michele Anaclerio,it ITA,DF,24,21,1.0,2.0,2005-2006,/en/players/87264b8b/Michele-Anaclerio,87264b8b,Bari,"1,837",20.4,7.0,1.0,192,9.0,21759,Bari
+,Massimiliano Fusani,it ITA,MF,25,18,0.0,0.0,2005-2006,/en/players/4dcbda67/Massimiliano-Fusani,4dcbda67,Bari,"1,530",17.0,5.0,0.0,192,9.0,20396,Bari
+,Roberto Goretti,it ITA,MF,22,16,1.0,1.0,2005-2006,/en/players/c844c8c0/Roberto-Goretti,c844c8c0,Bari,"1,473",16.4,3.0,0.0,192,9.0,21031,Bari
+,Lorenzo Sibilano,it ITA,DF,15,14,0.0,1.0,2005-2006,/en/players/1ae9ebbb/Lorenzo-Sibilano,1ae9ebbb,Bari,"1,131",12.6,4.0,0.0,192,9.0,23235,Bari
+,Luigi Anaclerio,it ITA,FW,27,11,1.0,2.0,2005-2006,/en/players/ae06f079/Luigi-Anaclerio,06f079,Bari,"1,270",14.1,2.0,0.0,192,9.0,21844,Bari
+,Ivan Rajčić,hr CRO,MF,17,10,0.0,0.0,2005-2006,/en/players/05dbb984/Ivan-Rajcic,05dbb984,Bari,697,7.7,1.0,2.0,192,16.0,23242,Bari
+,Massimiliano Scaglia,it ITA,DF,12,9,1.0,0.0,2005-2006,/en/players/b746a100/Massimiliano-Scaglia,b746a100,Bari,798,8.9,1.0,0.0,192,9.0,22347,Bari
+,Nicola Mora,it ITA,DF,19,4,1.0,0.0,2005-2006,/en/players/99c52d51/Nicola-Mora,99c52d51,Bari,573,6.4,4.0,1.0,192,9.0,23225,Bari
+,Marco Candrina,it ITA,DF,9,4,0.0,0.0,2005-2006,/en/players/1f213e16/Marco-Candrina,1f213e16,Bari,435,4.8,2.0,1.0,192,9.0,23233,Bari
+,Pasquale Berardi,it ITA,MF,8,4,0.0,0.0,2005-2006,/en/players/c865b3ef/Pasquale-Berardi,c865b3ef,Bari,357,4.0,1.0,0.0,192,9.0,23244,Bari
+,Nicola Belmonte,it ITA,DF,7,1,0.0,0.0,2005-2006,/en/players/279857a1/Nicola-Belmonte,279857a1,Bari,230,2.6,0.0,0.0,192,9.0,20286,Bari
+,Cristian Romanelli,,,10,1,0.0,0.0,2005-2006,No detected,,Bari,167,1.9,1.0,0.0,192,,90907,Bari
+,Vitangelo Spadavecchia,it ITA,GK,2,1,0.0,0.0,2005-2006,/en/players/5722c1fb/Vitangelo-Spadavecchia,5722c1fb,Bari,100,1.1,0.0,0.0,192,9.0,23245,Bari
+,Robert Maah,fr FRA,"FW,MF",9,0,0.0,1.0,2005-2006,/en/players/b458d0ed/Robert-Maah,b458d0ed,Bari,155,1.7,2.0,1.0,192,4.0,14798,Bari
+,﻿Jean-François Gillet,be BEL,GK,42,42,0.0,0.0,2006-2007,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,780",42.0,1.0,0.0,192,27.0,21080,Bari
+,William Pianu,it ITA,DF,36,36,0.0,1.0,2006-2007,/en/players/dc565839/William-Pianu,dc565839,Bari,"3,240",36.0,10.0,0.0,192,9.0,22961,Bari
+,Vincenzo Santoruvo,it ITA,FW,30,30,3.0,9.0,2006-2007,/en/players/2db3383b/Vincenzo-Santoruvo,2db3383b,Bari,"2,465",27.4,13.0,1.0,192,9.0,23240,Bari
+,Massimiliano Scaglia,it ITA,DF,35,29,5.0,3.0,2006-2007,/en/players/b746a100/Massimiliano-Scaglia,b746a100,Bari,"2,646",29.4,4.0,1.0,192,9.0,22347,Bari
+,Andrea Milani,it ITA,DF,33,29,0.0,0.0,2006-2007,/en/players/fadc51e8/Andrea-Milani,fadc51e8,Bari,"2,642",29.4,4.0,0.0,192,9.0,20697,Bari
+,Antonio Bellavista,it ITA,MF,28,28,1.0,1.0,2006-2007,/en/players/d71fe506/Antonio-Bellavista,d71fe506,Bari,"2,358",26.2,9.0,0.0,192,9.0,23223,Bari
+,Alessandro Sgrigna,it ITA,"FW,MF",33,27,1.0,4.0,2006-2007,/en/players/f96d5fdb/Alessandro-Sgrigna,f96d5fdb,Bari,"2,137",23.7,3.0,1.0,192,9.0,21980,Bari
+,Vittorio Micolucci,it ITA,DF,27,24,0.0,0.0,2006-2007,/en/players/65b4dec6/Vittorio-Micolucci,65b4dec6,Bari,"2,185",24.3,6.0,0.0,192,9.0,22786,Bari
+,Luca Tabbiani,it ITA,MF,32,24,3.0,2.0,2006-2007,/en/players/79c95f86/Luca-Tabbiani,79c95f86,Bari,"2,120",23.6,5.0,2.0,192,9.0,23246,Bari
+,Massimo Ganci,it ITA,FW,30,23,2.0,6.0,2006-2007,/en/players/0d25bba8/Massimo-Ganci,0d25bba8,Bari,"1,927",21.4,10.0,0.0,192,9.0,21486,Bari
+,Davide Carrus,it ITA,MF,24,23,1.0,5.0,2006-2007,/en/players/beff5c30/Davide-Carrus,beff5c30,Bari,"1,919",21.3,4.0,0.0,192,9.0,21056,Bari
+,Carlo Gervasoni,it ITA,DF,26,21,0.0,1.0,2006-2007,/en/players/bc894fe1/Carlo-Gervasoni,bc894fe1,Bari,"2,075",23.1,8.0,0.0,192,9.0,21787,Bari
+,Ivan Rajčić,hr CRO,MF,30,20,1.0,0.0,2006-2007,/en/players/05dbb984/Ivan-Rajcic,05dbb984,Bari,"1,957",21.7,4.0,0.0,192,16.0,23242,Bari
+,Nicola Belmonte,it ITA,DF,20,18,0.0,0.0,2006-2007,/en/players/279857a1/Nicola-Belmonte,279857a1,Bari,"1,541",17.1,4.0,0.0,192,9.0,20286,Bari
+,Alessandro Gazzi,it ITA,MF,17,16,0.0,0.0,2006-2007,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"1,416",15.7,6.0,0.0,192,9.0,21499,Bari
+,Andrea Carozza,it ITA,,24,15,4.0,3.0,2006-2007,/en/players/5a3a6f14/Andrea-Carozza,5a3a6f14,Bari,"1,471",16.3,9.0,0.0,192,9.0,90910,Bari
+,Marco Esposito,it ITA,DF,17,15,0.0,0.0,2006-2007,/en/players/f34d5386/Marco-Esposito,f34d5386,Bari,"1,279",14.2,5.0,1.0,192,9.0,22351,Bari
+,Massimiliano Fusani,it ITA,MF,25,14,1.0,0.0,2006-2007,/en/players/4dcbda67/Massimiliano-Fusani,4dcbda67,Bari,"1,477",16.4,5.0,0.0,192,9.0,20396,Bari
+,Ivan Loseto,it ITA,DF,12,10,0.0,0.0,2006-2007,/en/players/89e1ba3a/Ivan-Loseto,89e1ba3a,Bari,796,8.8,4.0,0.0,192,9.0,23247,Bari
+,Fabio Vignaroli,it ITA,"FW,MF",15,7,1.0,0.0,2006-2007,/en/players/b4f7bdf5/Fabio-Vignaroli,b4f7bdf5,Bari,844,9.4,1.0,1.0,192,9.0,19912,Bari
+,Mirko Eramo,it ITA,MF,7,6,0.0,1.0,2006-2007,/en/players/d19fd132/Mirko-Eramo,d19fd132,Bari,318,3.5,1.0,0.0,192,9.0,21368,Bari
+,Daniele Fiorentino,it ITA,MF,7,5,0.0,1.0,2006-2007,/en/players/ec8680e0/Daniele-Fiorentino,c8680e0,Bari,369,4.1,1.0,0.0,192,9.0,23248,Bari
+,Giorgio Di Vicino,it ITA,MF,15,4,0.0,1.0,2006-2007,/en/players/5c0c1f44/Giorgio-Di-Vicino,5c0c1f44,Bari,371,4.1,1.0,0.0,192,9.0,21754,Bari
+,Umberto Cazzola,it ITA,MF,9,3,0.0,0.0,2006-2007,/en/players/2c50744c/Umberto-Cazzola,2c50744c,Bari,255,2.8,3.0,1.0,192,9.0,22379,Bari
+,Nicola Strambelli,it ITA,MF,7,2,0.0,1.0,2006-2007,/en/players/3fe1a074/Nicola-Strambelli,3fe1a074,Bari,230,2.6,1.0,0.0,192,9.0,23249,Bari
+,Giacinto Allegrini,it ITA,DF,4,0,0.0,0.0,2006-2007,/en/players/e5d3263a/Giacinto-Allegrini,5d3263a,Bari,101,1.1,0.0,0.0,192,9.0,23250,Bari
+,Gianluca Baldassarre,,,2,0,0.0,0.0,2006-2007,No detected,,Bari,49,0.5,0.0,0.0,192,,90911,Bari
+,﻿Jean-François Gillet,be BEL,GK,40,40,0.0,0.0,2007-2008,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,575",39.7,2.0,0.0,192,27.0,21080,Bari
+,Gianluca Galasso,it ITA,DF,35,35,1.0,4.0,2007-2008,/en/players/c56c9c37/Gianluca-Galasso,c56c9c37,Bari,"2,968",33.0,4.0,0.0,192,9.0,20571,Bari
+,Alessandro Gazzi,it ITA,MF,37,34,1.0,1.0,2007-2008,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"3,020",33.6,4.0,0.0,192,9.0,21499,Bari
+,Vincenzo Santoruvo,it ITA,FW,36,33,5.0,9.0,2007-2008,/en/players/2db3383b/Vincenzo-Santoruvo,2db3383b,Bari,"2,992",33.2,11.0,0.0,192,9.0,23240,Bari
+,Davide Lanzafame,it ITA,"FW,MF",37,29,4.0,10.0,2007-2008,/en/players/7de27356/Davide-Lanzafame,7de27356,Bari,"2,562",28.5,6.0,0.0,192,9.0,19527,Bari
+,Nicola Belmonte,it ITA,DF,28,26,0.0,0.0,2007-2008,/en/players/279857a1/Nicola-Belmonte,279857a1,Bari,"2,337",26.0,4.0,1.0,192,9.0,20286,Bari
+,Mariano Donda,ar ARG,MF,29,26,7.0,2.0,2007-2008,/en/players/95e77464/Mariano-Donda,95e77464,Bari,"2,066",23.0,5.0,2.0,192,5.0,23251,Bari
+,Cristian Stellini,it ITA,DF,28,25,0.0,1.0,2007-2008,/en/players/49ee9734/Cristian-Stellini,49ee9734,Bari,"2,245",24.9,6.0,1.0,192,9.0,21194,Bari
+,Ivan Rajčić,hr CRO,MF,32,23,2.0,1.0,2007-2008,/en/players/05dbb984/Ivan-Rajcic,05dbb984,Bari,"2,229",24.8,7.0,0.0,192,16.0,23242,Bari
+,Simone Cavalli,it ITA,FW,28,23,2.0,8.0,2007-2008,/en/players/f7cf57b7/Simone-Cavalli,f7cf57b7,Bari,"1,978",22.0,1.0,0.0,192,9.0,21490,Bari
+,Massimo Bonanni,it ITA,MF,31,23,4.0,5.0,2007-2008,/en/players/d8eb4f88/Massimo-Bonanni,d8eb4f88,Bari,"1,805",20.1,4.0,0.0,192,9.0,19901,Bari
+,Andrea Masiello,it ITA,DF,20,20,0.0,0.0,2007-2008,/en/players/e0314d87/Andrea-Masiello,0314d87,Bari,"1,800",20.0,2.0,0.0,192,9.0,19515,Bari
+,Giovanni Marchese,it ITA,DF,19,19,0.0,1.0,2007-2008,/en/players/55142846/Giovanni-Marchese,55142846,Bari,"1,710",19.0,4.0,0.0,192,9.0,20407,Bari
+,Marco Esposito,it ITA,DF,25,18,0.0,2.0,2007-2008,/en/players/f34d5386/Marco-Esposito,f34d5386,Bari,"1,721",19.1,3.0,1.0,192,9.0,22351,Bari
+,Luca Antonelli,it ITA,"DF,MF",17,15,3.0,1.0,2007-2008,/en/players/40f0ed6c/Luca-Antonelli,40f0ed6c,Bari,"1,325",14.7,2.0,0.0,192,9.0,19788,Bari
+,Luca Tabbiani,it ITA,MF,15,11,0.0,1.0,2007-2008,/en/players/79c95f86/Luca-Tabbiani,79c95f86,Bari,922,10.2,3.0,1.0,192,9.0,23246,Bari
+,Santiago Ladino,ar ARG,DF,13,11,0.0,0.0,2007-2008,/en/players/ce9a9c38/Santiago-Ladino,ce9a9c38,Bari,852,9.5,1.0,0.0,192,5.0,23252,Bari
+,Massimo Ganci,it ITA,FW,23,9,1.0,0.0,2007-2008,/en/players/0d25bba8/Massimo-Ganci,0d25bba8,Bari,955,10.6,4.0,0.0,192,9.0,21486,Bari
+,Palmiro Di Dio,it ITA,DF,9,7,0.0,1.0,2007-2008,/en/players/02af0463/Palmiro-Di-Dio,02af0463,Bari,761,8.5,1.0,0.0,192,9.0,21498,Bari
+,Abderrazzak Jadid,ma MAR,"FW,MF",9,7,0.0,1.0,2007-2008,/en/players/c4abfac0/Abderrazzak-Jadid,c4abfac0,Bari,494,5.5,3.0,0.0,192,26.0,20087,Bari
+,Nicola Strambelli,it ITA,MF,13,6,1.0,0.0,2007-2008,/en/players/3fe1a074/Nicola-Strambelli,3fe1a074,Bari,570,6.3,3.0,0.0,192,9.0,23249,Bari
+,Ivan Loseto,it ITA,DF,7,6,0.0,0.0,2007-2008,/en/players/89e1ba3a/Ivan-Loseto,89e1ba3a,Bari,463,5.1,1.0,0.0,192,9.0,23247,Bari
+,Andrea Carozza,it ITA,,13,5,0.0,1.0,2007-2008,/en/players/5a3a6f14/Andrea-Carozza,5a3a6f14,Bari,664,7.4,2.0,0.0,192,9.0,90910,Bari
+,Giuseppe Ingrosso,it ITA,DF,7,5,0.0,0.0,2007-2008,/en/players/fcec8102/Giuseppe-Ingrosso,fcec8102,Bari,381,4.2,1.0,1.0,192,9.0,23230,Bari
+,Vitangelo Spadavecchia,it ITA,GK,3,2,0.0,0.0,2007-2008,/en/players/5722c1fb/Vitangelo-Spadavecchia,5722c1fb,Bari,205,2.3,0.0,0.0,192,9.0,23245,Bari
+,Pedro Kamata,cd COD,MF,12,1,0.0,0.0,2007-2008,/en/players/d95656b4/Pedro-Kamata,d95656b4,Bari,273,3.0,5.0,0.0,192,50.0,23253,Bari
+,Tony Sergeant,be BEL,MF,5,1,0.0,0.0,2007-2008,/en/players/2af7d068/Tony-Sergeant,2af7d068,Bari,167,1.9,1.0,0.0,192,27.0,23254,Bari
+,Davide Desidieri,,,6,1,0.0,1.0,2007-2008,No detected,,Bari,140,1.6,0.0,0.0,192,,90912,Bari
+,Giacinto Allegrini,it ITA,DF,4,1,0.0,0.0,2007-2008,/en/players/e5d3263a/Giacinto-Allegrini,5d3263a,Bari,113,1.3,0.0,1.0,192,9.0,23250,Bari
+,Giuseppe Statella,it ITA,MF,3,0,0.0,0.0,2007-2008,/en/players/fa802600/Giuseppe-Statella,fa802600,Bari,106,1.2,0.0,0.0,192,9.0,21976,Bari
+,Daniele Fiorentino,it ITA,MF,2,0,0.0,0.0,2007-2008,/en/players/ec8680e0/Daniele-Fiorentino,c8680e0,Bari,28,0.3,0.0,0.0,192,9.0,23248,Bari
+,﻿Jean-François Gillet,be BEL,GK,40,40,0.0,0.0,2008-2009,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,600",40.0,1.0,0.0,192,27.0,21080,Bari
+,Andrea Masiello,it ITA,DF,39,39,2.0,0.0,2008-2009,/en/players/e0314d87/Andrea-Masiello,0314d87,Bari,"3,450",38.3,5.0,1.0,192,9.0,19515,Bari
+,Alessandro Gazzi,it ITA,MF,39,37,2.0,0.0,2008-2009,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"3,387",37.6,7.0,0.0,192,9.0,21499,Bari
+,Paulo Vitor Barreto,br BRA,FW,32,31,10.0,23.0,2008-2009,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Bari,"2,476",27.5,3.0,0.0,192,2.0,20244,Bari
+,Marco Esposito,it ITA,DF,31,29,0.0,0.0,2008-2009,/en/players/f34d5386/Marco-Esposito,f34d5386,Bari,"2,486",27.6,4.0,1.0,192,9.0,22351,Bari
+,Alessandro Parisi,it ITA,DF,27,27,1.0,3.0,2008-2009,/en/players/acb038f7/Alessandro-Parisi,cb038f7,Bari,"2,377",26.4,8.0,0.0,192,9.0,21985,Bari
+,Cristian Stellini,it ITA,DF,29,26,0.0,0.0,2008-2009,/en/players/49ee9734/Cristian-Stellini,49ee9734,Bari,"2,417",26.9,3.0,0.0,192,9.0,21194,Bari
+,Daniele De Vezze,it ITA,MF,32,25,0.0,1.0,2008-2009,/en/players/3de78f49/Daniele-De-Vezze,3de78f49,Bari,"2,215",24.6,10.0,0.0,192,9.0,21981,Bari
+,Pedro Kamata,cd COD,MF,34,20,5.0,1.0,2008-2009,/en/players/d95656b4/Pedro-Kamata,d95656b4,Bari,"1,686",18.7,2.0,1.0,192,50.0,23253,Bari
+,Mariano Donda,ar ARG,MF,26,19,2.0,1.0,2008-2009,/en/players/95e77464/Mariano-Donda,95e77464,Bari,"1,807",20.1,2.0,1.0,192,5.0,23251,Bari
+,Stefano Guberti,it ITA,MF,18,18,2.0,9.0,2008-2009,/en/players/0b7287ef/Stefano-Guberti,0b7287ef,Bari,"1,416",15.7,0.0,0.0,192,9.0,20587,Bari
+,Francesco Caputo,it ITA,FW,28,17,2.0,10.0,2008-2009,/en/players/5bd72174/Francesco-Caputo,5bd72174,Bari,"1,712",19.0,4.0,0.0,192,9.0,21399,Bari
+,Emanuel Rivas,ar ARG,MF,22,17,1.0,1.0,2008-2009,/en/players/ba306a1a/Emanuel-Rivas,ba306a1a,Bari,"1,429",15.9,0.0,0.0,192,5.0,23255,Bari
+,Gianluca Galasso,it ITA,DF,22,14,0.0,1.0,2008-2009,/en/players/c56c9c37/Gianluca-Galasso,c56c9c37,Bari,"1,311",14.6,1.0,0.0,192,9.0,20571,Bari
+,Salvatore Masiello,it ITA,"DF,MF",16,14,0.0,0.0,2008-2009,/en/players/7f864c2a/Salvatore-Masiello,7f864c2a,Bari,"1,251",13.9,1.0,1.0,192,9.0,21750,Bari
+,Vitali Kutuzov,by BLR,FW,18,13,4.0,5.0,2008-2009,/en/players/911884a4/Vitali-Kutuzov,911884a4,Bari,"1,108",12.3,2.0,0.0,192,77.0,20044,Bari
+,Corrado Colombo,it ITA,FW,16,13,0.0,3.0,2008-2009,/en/players/803e5dfe/Corrado-Colombo,803e5dfe,Bari,"1,050",11.7,2.0,1.0,192,9.0,21746,Bari
+,Raffaele Bianco,it ITA,MF,21,12,1.0,0.0,2008-2009,/en/players/147c0f9e/Raffaele-Bianco,147c0f9e,Bari,"1,395",15.5,5.0,0.0,192,9.0,19526,Bari
+,Davide Lanzafame,it ITA,"FW,MF",18,12,0.0,2.0,2008-2009,/en/players/7de27356/Davide-Lanzafame,7de27356,Bari,970,10.8,2.0,0.0,192,9.0,19527,Bari
+,Andrea Ranocchia,it ITA,DF,17,10,0.0,1.0,2008-2009,/en/players/539230cf/Andrea-Ranocchia,539230cf,Bari,"1,084",12.0,1.0,0.0,192,9.0,10227,Bari
+,Simone Bonomi,it ITA,"DF,MF",15,10,0.0,0.0,2008-2009,/en/players/072942f5/Simone-Bonomi,072942f5,Bari,849,9.4,2.0,0.0,192,9.0,20390,Bari
+,Claudio De Pascalis,it ITA,MF,10,8,0.0,0.0,2008-2009,/en/players/5839e859/Claudio-De-Pascalis,5839e859,Bari,589,6.5,2.0,0.0,192,9.0,23256,Bari
+,Rej Volpato,it ITA,FW,8,4,0.0,1.0,2008-2009,/en/players/80528dff/Rej-Volpato,80528dff,Bari,365,4.1,0.0,0.0,192,9.0,21335,Bari
+,Simone Cavalli,it ITA,FW,9,3,0.0,1.0,2008-2009,/en/players/f7cf57b7/Simone-Cavalli,f7cf57b7,Bari,359,4.0,0.0,0.0,192,9.0,21490,Bari
+,Nicola Santoni,it ITA,GK,2,2,0.0,0.0,2008-2009,/en/players/fa0cf031/Nicola-Santoni,fa0cf031,Bari,180,2.0,0.0,0.0,192,9.0,20696,Bari
+,Luca Siligardi,it ITA,"FW,MF",5,1,0.0,0.0,2008-2009,/en/players/1cac99dc/Luca-Siligardi,1cac99dc,Bari,172,1.9,0.0,0.0,192,9.0,20139,Bari
+,Mark Edusei,gh GHA,MF,3,1,0.0,0.0,2008-2009,/en/players/8a4b64f2/Mark-Edusei,8a4b64f2,Bari,116,1.3,0.0,0.0,192,17.0,21745,Bari
+,Sodinha,br BRA,MF,4,0,0.0,0.0,2008-2009,/en/players/26b25d22/Sodinha,26b25d22,Bari,84,0.9,1.0,0.0,192,2.0,20741,Bari
+,Cristian Galano,it ITA,"FW,MF",1,0,0.0,0.0,2008-2009,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,29,0.3,0.0,0.0,192,9.0,23257,Bari
+,Nicola Bellomo,it ITA,MF,1,0,0.0,0.0,2008-2009,/en/players/e69a103f/Nicola-Bellomo,69a103f,Bari,23,0.3,0.0,0.0,192,9.0,20482,Bari
+,Almamy Doumbia,ci CIV,MF,1,0,0.0,0.0,2008-2009,/en/players/7bb7d4ae/Almamy-Doumbia,7bb7d4ae,Bari,19,0.2,0.0,0.0,192,35.0,23258,Bari
+,Antonio Infimo,it ITA,FW,1,0,0.0,0.0,2008-2009,/en/players/9f31bf01/Antonio-Infimo,9f31bf01,Bari,17,0.2,0.0,0.0,192,9.0,23259,Bari
+,﻿Leonardo Bonucci,it ITA,DF,38,38,2.0,1.0,2009-2010,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Bari,"3,420",38.0,4.0,0.0,192,9.0,19541,Bari
+,Jean-François Gillet,be BEL,GK,37,37,0.0,0.0,2009-2010,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,330",37.0,2.0,0.0,192,27.0,21080,Bari
+,Édgar Álvarez,hn HON,"DF,MF",37,37,2.0,3.0,2009-2010,/en/players/41d086b6/Edgar-Alvarez,41d086b6,Bari,"3,073",34.1,1.0,0.0,192,107.0,20580,Bari
+,Andrea Masiello,it ITA,DF,36,36,0.0,2.0,2009-2010,/en/players/e0314d87/Andrea-Masiello,0314d87,Bari,"3,240",36.0,4.0,0.0,192,9.0,19515,Bari
+,Paulo Vitor Barreto,br BRA,FW,31,30,4.0,14.0,2009-2010,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Bari,"2,413",26.8,6.0,0.0,192,2.0,20244,Bari
+,Salvatore Masiello,it ITA,"DF,MF",28,26,1.0,1.0,2009-2010,/en/players/7f864c2a/Salvatore-Masiello,7f864c2a,Bari,"2,434",27.0,2.0,0.0,192,9.0,21750,Bari
+,Massimo Donati,it ITA,MF,32,26,1.0,1.0,2009-2010,/en/players/568d84b2/Massimo-Donati,568d84b2,Bari,"2,424",26.9,3.0,0.0,192,9.0,21629,Bari
+,Alessandro Gazzi,it ITA,MF,32,25,0.0,0.0,2009-2010,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"2,389",26.5,4.0,0.0,192,9.0,21499,Bari
+,Riccardo Meggiorini,it ITA,FW,31,23,2.0,5.0,2009-2010,/en/players/2ec0f902/Riccardo-Meggiorini,2ec0f902,Bari,"2,056",22.8,6.0,0.0,192,9.0,19648,Bari
+,Sergio Almirón,ar ARG,MF,27,20,0.0,5.0,2009-2010,/en/players/ce05fadf/Sergio-Almiron,ce05fadf,Bari,"1,748",19.4,7.0,1.0,192,5.0,11372,Bari
+,Nicola Belmonte,it ITA,DF,18,17,0.0,0.0,2009-2010,/en/players/279857a1/Nicola-Belmonte,279857a1,Bari,"1,522",16.9,4.0,0.0,192,9.0,20286,Bari
+,Andrea Ranocchia,it ITA,DF,17,17,1.0,2.0,2009-2010,/en/players/539230cf/Andrea-Ranocchia,539230cf,Bari,"1,490",16.6,2.0,1.0,192,9.0,10227,Bari
+,Riccardo Allegretti,it ITA,MF,16,14,2.0,3.0,2009-2010,/en/players/52ddad74/Riccardo-Allegretti,52ddad74,Bari,923,10.3,2.0,0.0,192,9.0,20398,Bari
+,Alessandro Parisi,it ITA,DF,15,13,0.0,0.0,2009-2010,/en/players/acb038f7/Alessandro-Parisi,cb038f7,Bari,"1,082",12.0,4.0,1.0,192,9.0,21985,Bari
+,José Ignacio Castillo,ar ARG,FW,16,11,1.0,3.0,2009-2010,/en/players/ef17e0bd/Jose-Ignacio-Castillo,f17e0bd,Bari,963,10.7,1.0,0.0,192,5.0,22162,Bari
+,Vladimir Koman,hu HUN,MF,16,11,1.0,2.0,2009-2010,/en/players/ba3c254b/Vladimir-Koman,ba3c254b,Bari,953,10.6,2.0,0.0,192,87.0,11406,Bari
+,Emanuel Rivas,ar ARG,MF,20,10,0.0,3.0,2009-2010,/en/players/ba306a1a/Emanuel-Rivas,ba306a1a,Bari,826,9.2,1.0,0.0,192,5.0,23255,Bari
+,Vitali Kutuzov,by BLR,FW,12,10,2.0,1.0,2009-2010,/en/players/911884a4/Vitali-Kutuzov,911884a4,Bari,807,9.0,1.0,0.0,192,77.0,20044,Bari
+,Daniele De Vezze,it ITA,MF,9,5,0.0,0.0,2009-2010,/en/players/3de78f49/Daniele-De-Vezze,3de78f49,Bari,479,5.3,1.0,0.0,192,9.0,21981,Bari
+,Cristian Stellini,it ITA,DF,9,3,0.0,1.0,2009-2010,/en/players/49ee9734/Cristian-Stellini,49ee9734,Bari,346,3.8,1.0,0.0,192,9.0,21194,Bari
+,Souleymane Diamoutene,ml MLI,DF,3,3,0.0,0.0,2009-2010,/en/players/1b34cca1/Souleymane-Diamoutene,1b34cca1,Bari,270,3.0,0.0,0.0,192,12.0,20584,Bari
+,Antonio Langella,it ITA,"FW,MF",9,2,1.0,0.0,2009-2010,/en/players/a94cb87a/Antonio-Langella,94cb87a,Bari,326,3.6,4.0,0.0,192,9.0,20430,Bari
+,Pedro Kamata,cd COD,MF,14,1,1.0,0.0,2009-2010,/en/players/d95656b4/Pedro-Kamata,d95656b4,Bari,338,3.8,0.0,0.0,192,50.0,23253,Bari
+,Ferdinando Sforzini,it ITA,FW,8,1,0.0,0.0,2009-2010,/en/players/985a64a7/Ferdinando-Sforzini,985a64a7,Bari,239,2.7,0.0,1.0,192,9.0,21215,Bari
+,Filippo Antonelli,it ITA,MF,4,1,0.0,0.0,2009-2010,/en/players/88460ebb/Filippo-Antonelli,88460ebb,Bari,101,1.1,0.0,0.0,192,9.0,21973,Bari
+,Daniele Padelli,it ITA,GK,1,1,0.0,0.0,2009-2010,/en/players/cf1c23d8/Daniele-Padelli,cf1c23d8,Bari,90,1.0,0.0,0.0,192,9.0,6294,Bari
+,Giuseppe Greco,it ITA,FW,6,0,0.0,1.0,2009-2010,/en/players/0c3c4de8/Giuseppe-Greco,0c3c4de8,Bari,187,2.1,1.0,0.0,192,9.0,20422,Bari
+,Alessio Sestu,it ITA,MF,3,0,0.0,0.0,2009-2010,/en/players/02895818/Alessio-Sestu,02895818,Bari,44,0.5,0.0,0.0,192,9.0,20466,Bari
+,András Gosztonyi,hu HUN,MF,2,0,0.0,0.0,2009-2010,/en/players/e5c86cca/Andras-Gosztonyi,5c86cca,Bari,35,0.4,0.0,0.0,192,87.0,23260,Bari
+,Marco Pisano,it ITA,DF,1,0,0.0,0.0,2009-2010,/en/players/5492fe20/Marco-Pisano,5492fe20,Bari,14,0.2,0.0,0.0,192,9.0,20078,Bari
+,﻿Jean-François Gillet,be BEL,GK,36,36,0.0,0.0,2010-2011,/en/players/ee013fa5/Jean-Francois-Gillet,013fa5,Bari,"3,240",36.0,1.0,0.0,192,27.0,21080,Bari
+,Andrea Masiello,it ITA,DF,36,36,0.0,1.0,2010-2011,/en/players/e0314d87/Andrea-Masiello,0314d87,Bari,"3,151",35.0,4.0,1.0,192,9.0,19515,Bari
+,Alessandro Gazzi,it ITA,MF,31,29,3.0,1.0,2010-2011,/en/players/63d2a792/Alessandro-Gazzi,63d2a792,Bari,"2,559",28.4,3.0,0.0,192,9.0,21499,Bari
+,Marco Rossi,it ITA,DF,30,27,0.0,0.0,2010-2011,/en/players/9fe54f03/Marco-Rossi,9fe54f03,Bari,"2,414",26.8,9.0,2.0,192,9.0,20033,Bari
+,Alessandro Parisi,it ITA,DF,27,27,1.0,2.0,2010-2011,/en/players/acb038f7/Alessandro-Parisi,cb038f7,Bari,"2,274",25.3,8.0,1.0,192,9.0,21985,Bari
+,Nicola Belmonte,it ITA,DF,26,25,0.0,0.0,2010-2011,/en/players/279857a1/Nicola-Belmonte,279857a1,Bari,"2,135",23.7,4.0,0.0,192,9.0,20286,Bari
+,Massimo Donati,it ITA,MF,31,23,1.0,1.0,2010-2011,/en/players/568d84b2/Massimo-Donati,568d84b2,Bari,"2,217",24.6,8.0,1.0,192,9.0,21629,Bari
+,Sergio Almirón,ar ARG,MF,25,21,2.0,0.0,2010-2011,/en/players/ce05fadf/Sergio-Almiron,ce05fadf,Bari,"1,837",20.4,5.0,0.0,192,5.0,11372,Bari
+,Édgar Álvarez,hn HON,"DF,MF",29,18,1.0,1.0,2010-2011,/en/players/41d086b6/Edgar-Alvarez,41d086b6,Bari,"1,885",20.9,2.0,0.0,192,107.0,20580,Bari
+,Simone Bentivoglio,it ITA,MF,16,16,2.0,2.0,2010-2011,/en/players/7a8ecf0b/Simone-Bentivoglio,7a8ecf0b,Bari,"1,357",15.1,4.0,0.0,192,9.0,20417,Bari
+,Abdelkader Ghezzal,dz ALG,FW,20,15,0.0,2.0,2010-2011,/en/players/9152a181/Abdelkader-Ghezzal,9152a181,Bari,"1,365",15.2,3.0,0.0,192,37.0,4154,Bari
+,Kamil Glik,pl POL,"DF,MF",16,15,1.0,0.0,2010-2011,/en/players/c6056d58/Kamil-Glik,c6056d58,Bari,"1,356",15.1,4.0,1.0,192,14.0,11453,Bari
+,Andrea Raggi,it ITA,DF,16,14,0.0,0.0,2010-2011,/en/players/bd4f5f94/Andrea-Raggi,bd4f5f94,Bari,"1,233",13.7,3.0,0.0,192,9.0,11425,Bari
+,Paulo Vitor Barreto,br BRA,FW,13,13,1.0,4.0,2010-2011,/en/players/ecdd4a7e/Paulo-Vitor-Barreto,cdd4a7e,Bari,980,10.9,0.0,0.0,192,2.0,20244,Bari
+,Vitali Kutuzov,by BLR,FW,14,13,0.0,1.0,2010-2011,/en/players/911884a4/Vitali-Kutuzov,911884a4,Bari,861,9.6,0.0,0.0,192,77.0,20044,Bari
+,Erik Huseklepp,no NOR,"FW,MF",14,12,2.0,2.0,2010-2011,/en/players/36155c5a/Erik-Huseklepp,36155c5a,Bari,920,10.2,1.0,0.0,192,21.0,7651,Bari
+,Nico Pulzetti,it ITA,MF,15,11,0.0,0.0,2010-2011,/en/players/d3b19afe/Nico-Pulzetti,d3b19afe,Bari,887,9.9,2.0,0.0,192,9.0,20445,Bari
+,Gergely Rudolf,hu HUN,FW,13,11,1.0,2.0,2010-2011,/en/players/60eacf8b/Gergely-Rudolf,60eacf8b,Bari,868,9.6,1.0,0.0,192,87.0,14444,Bari
+,Emanuel Rivas,ar ARG,MF,22,9,2.0,1.0,2010-2011,/en/players/ba306a1a/Emanuel-Rivas,ba306a1a,Bari,923,10.3,1.0,0.0,192,5.0,23255,Bari
+,Stefano Okaka,it ITA,FW,10,6,0.0,2.0,2010-2011,/en/players/601ef102/Stefano-Okaka,601ef102,Bari,676,7.5,1.0,0.0,192,9.0,7815,Bari
+,Salvatore Masiello,it ITA,"DF,MF",6,6,0.0,0.0,2010-2011,/en/players/7f864c2a/Salvatore-Masiello,7f864c2a,Bari,387,4.3,1.0,0.0,192,9.0,21750,Bari
+,Francesco Caputo,it ITA,FW,12,5,0.0,1.0,2010-2011,/en/players/5bd72174/Francesco-Caputo,5bd72174,Bari,665,7.4,1.0,0.0,192,9.0,21399,Bari
+,Jaime Romero,es ESP,"FW,MF",10,5,0.0,0.0,2010-2011,/en/players/e28205f4/Jaime-Romero,28205f4,Bari,451,5.0,1.0,0.0,192,1.0,2082,Bari
+,José Ignacio Castillo,ar ARG,FW,14,4,0.0,1.0,2010-2011,/en/players/ef17e0bd/Jose-Ignacio-Castillo,f17e0bd,Bari,539,6.0,2.0,0.0,192,5.0,22162,Bari
+,Paul Codrea,ro ROU,"DF,MF",6,4,0.0,0.0,2010-2011,/en/players/771fa9b8/Paul-Codrea,771fa9b8,Bari,380,4.2,2.0,0.0,192,51.0,20874,Bari
+,Kamil Kopúnek,sk SVK,MF,5,4,0.0,0.0,2010-2011,/en/players/348cd724/Kamil-Kopunek,348cd724,Bari,346,3.8,1.0,0.0,192,70.0,23261,Bari
+,Gianluca Galasso,it ITA,DF,4,3,0.0,0.0,2010-2011,/en/players/c56c9c37/Gianluca-Galasso,c56c9c37,Bari,319,3.5,0.0,0.0,192,9.0,20571,Bari
+,Michele Rinaldi,it ITA,DF,6,2,0.0,0.0,2010-2011,/en/players/77de1ac4/Michele-Rinaldi,77de1ac4,Bari,367,4.1,2.0,0.0,192,9.0,23262,Bari
+,Daniele Padelli,it ITA,GK,2,2,0.0,0.0,2010-2011,/en/players/cf1c23d8/Daniele-Padelli,cf1c23d8,Bari,180,2.0,1.0,0.0,192,9.0,6294,Bari
+,Luigi Rana,it ITA,FW,3,2,0.0,0.0,2010-2011,/en/players/68733dcf/Luigi-Rana,68733dcf,Bari,122,1.4,0.0,0.0,192,9.0,23263,Bari
+,Marco D'Alessandro,it ITA,"DF,FW",11,1,0.0,0.0,2010-2011,/en/players/060606ec/Marco-DAlessandro,060606ec,Bari,240,2.7,0.0,0.0,192,9.0,20326,Bari
+,Francesco Grandolfo,it ITA,FW,3,1,0.0,3.0,2010-2011,/en/players/f286bb66/Francesco-Grandolfo,f286bb66,Bari,117,1.3,0.0,0.0,192,9.0,20452,Bari
+,Nicola Strambelli,it ITA,MF,3,1,1.0,0.0,2010-2011,/en/players/3fe1a074/Nicola-Strambelli,3fe1a074,Bari,102,1.1,0.0,0.0,192,9.0,23249,Bari
+,Marco Crimi,it ITA,"DF,MF",3,1,0.0,0.0,2010-2011,/en/players/3872a972/Marco-Crimi,3872a972,Bari,94,1.0,0.0,0.0,192,9.0,21113,Bari
+,﻿Eugenio Lamanna,it ITA,GK,42,42,0.0,0.0,2011-2012,/en/players/349601c3/Eugenio-Lamanna,349601c3,Bari,"3,780",42.0,0.0,0.0,192,9.0,23168,Bari
+,Andrea De Falco,it ITA,MF,38,35,1.0,6.0,2011-2012,/en/players/631ff021/Andrea-De-Falco,631ff021,Bari,"3,123",34.7,6.0,0.0,192,9.0,22359,Bari
+,Agostino Garofalo,it ITA,"DF,MF",35,34,2.0,2.0,2011-2012,/en/players/bf128669/Agostino-Garofalo,bf128669,Bari,"2,929",32.5,7.0,1.0,192,9.0,21256,Bari
+,Martino Borghese,it ITA,DF,33,33,0.0,3.0,2011-2012,/en/players/c5ff13b5/Martino-Borghese,c5ff13b5,Bari,"2,868",31.9,16.0,1.0,192,9.0,21881,Bari
+,Claiton,br BRA,DF,29,29,0.0,4.0,2011-2012,/en/players/67a3c8bc/Claiton,67a3c8bc,Bari,"2,610",29.0,8.0,0.0,192,2.0,20467,Bari
+,Alessandro Crescenzi,it ITA,DF,30,29,0.0,0.0,2011-2012,/en/players/fab1bd8e/Alessandro-Crescenzi,fab1bd8e,Bari,"2,571",28.6,3.0,0.0,192,9.0,13440,Bari
+,Mariano Bogliacino,uy URU,MF,28,23,5.0,1.0,2011-2012,/en/players/ab028814/Mariano-Bogliacino,b028814,Bari,"2,005",22.3,5.0,0.0,192,8.0,5400,Bari
+,Fernando Forestieri,it ITA,"FW,MF",28,23,2.0,2.0,2011-2012,/en/players/d60c26fc/Fernando-Forestieri,d60c26fc,Bari,"1,942",21.6,7.0,2.0,192,9.0,2363,Bari
+,Luca Ceppitelli,it ITA,DF,25,22,1.0,0.0,2011-2012,/en/players/7d50454d/Luca-Ceppitelli,7d50454d,Bari,"2,040",22.7,5.0,1.0,192,9.0,22625,Bari
+,Adrian Stoian,ro ROU,MF,29,21,2.0,5.0,2011-2012,/en/players/4468b31a/Adrian-Stoian,4468b31a,Bari,"1,876",20.8,5.0,0.0,192,51.0,20453,Bari
+,Francesco Caputo,it ITA,FW,28,20,2.0,9.0,2011-2012,/en/players/5bd72174/Francesco-Caputo,5bd72174,Bari,"1,871",20.8,7.0,0.0,192,9.0,21399,Bari
+,Massimo Donati,it ITA,MF,19,19,4.0,2.0,2011-2012,/en/players/568d84b2/Massimo-Donati,568d84b2,Bari,"1,710",19.0,6.0,0.0,192,9.0,21629,Bari
+,Manuel Scavone,it ITA,MF,19,16,1.0,1.0,2011-2012,/en/players/c278980c/Manuel-Scavone,c278980c,Bari,"1,352",15.0,4.0,0.0,192,9.0,20132,Bari
+,Diego Polenta,uy URU,"DF,MF",17,15,0.0,0.0,2011-2012,/en/players/ae992d63/Diego-Polenta,992d63,Bari,"1,381",15.3,5.0,3.0,192,8.0,23159,Bari
+,Alessandro Marotta,it ITA,FW,18,15,2.0,3.0,2011-2012,/en/players/50472373/Alessandro-Marotta,50472373,Bari,"1,237",13.7,2.0,0.0,192,9.0,23060,Bari
+,Marino Defendi,it ITA,MF,26,14,1.0,0.0,2011-2012,/en/players/87ae0c78/Marino-Defendi,87ae0c78,Bari,"1,454",16.2,3.0,0.0,192,9.0,20424,Bari
+,Marcos de Paula,br BRA,FW,14,12,2.0,3.0,2011-2012,/en/players/db0764ad/Marcos-de-Paula,db0764ad,Bari,"1,031",11.5,2.0,0.0,192,2.0,20384,Bari
+,Nicola Bellomo,it ITA,MF,16,10,1.0,2.0,2011-2012,/en/players/e69a103f/Nicola-Bellomo,69a103f,Bari,705,7.8,4.0,1.0,192,9.0,20482,Bari
+,Rivaldo González,py PAR,MF,14,9,0.0,0.0,2011-2012,/en/players/cf6cc060/Rivaldo-Gonzalez,cf6cc060,Bari,750,8.3,3.0,0.0,192,43.0,23264,Bari
+,Emanuel Rivas,ar ARG,MF,12,9,2.0,1.0,2011-2012,/en/players/ba306a1a/Emanuel-Rivas,ba306a1a,Bari,622,6.9,0.0,0.0,192,5.0,23255,Bari
+,Marco Romizi,it ITA,MF,9,8,1.0,0.0,2011-2012,/en/players/b53bd1a7/Marco-Romizi,b53bd1a7,Bari,644,7.2,3.0,0.0,192,9.0,23265,Bari
+,Kamil Kopúnek,sk SVK,MF,13,7,0.0,0.0,2011-2012,/en/players/348cd724/Kamil-Kopunek,348cd724,Bari,677,7.5,2.0,1.0,192,70.0,23261,Bari
+,Cristian Galano,it ITA,"FW,MF",15,4,1.0,1.0,2011-2012,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,521,5.8,0.0,0.0,192,9.0,23257,Bari
+,Vitali Kutuzov,by BLR,FW,7,4,0.0,0.0,2011-2012,/en/players/911884a4/Vitali-Kutuzov,911884a4,Bari,382,4.2,1.0,0.0,192,77.0,20044,Bari
+,Luis Pedro Cavanda,be BEL,"DF,MF",8,3,0.0,0.0,2011-2012,/en/players/b8a6bf56/Luis-Pedro-Cavanda,b8a6bf56,Bari,330,3.7,0.0,0.0,192,27.0,19925,Bari
+,José Ignacio Castillo,ar ARG,FW,14,2,0.0,1.0,2011-2012,/en/players/ef17e0bd/Jose-Ignacio-Castillo,f17e0bd,Bari,455,5.1,0.0,0.0,192,5.0,22162,Bari
+,Federico Masi,it ITA,DF,5,2,0.0,0.0,2011-2012,/en/players/1dc73324/Federico-Masi,1dc73324,Bari,218,2.4,0.0,0.0,192,9.0,23266,Bari
+,Simone Sini,it ITA,DF,2,2,0.0,0.0,2011-2012,/en/players/7bb14c57/Simone-Sini,7bb14c57,Bari,180,2.0,1.0,0.0,192,9.0,22172,Bari
+,Diego Albadoro,it ITA,FW,3,0,0.0,0.0,2011-2012,/en/players/0b8e5467/Diego-Albadoro,0b8e5467,Bari,78,0.9,0.0,0.0,192,9.0,23267,Bari
+,Ádám Simon,hu HUN,MF,2,0,0.0,0.0,2011-2012,/en/players/a3cdcfc6/Adam-Simon,3cdcfc6,Bari,78,0.9,1.0,0.0,192,87.0,23268,Bari
+,Luigi Rana,it ITA,FW,2,0,0.0,0.0,2011-2012,/en/players/68733dcf/Luigi-Rana,68733dcf,Bari,28,0.3,1.0,0.0,192,9.0,23263,Bari
+,﻿Eugenio Lamanna,it ITA,GK,40,40,0.0,0.0,2012-2013,/en/players/349601c3/Eugenio-Lamanna,349601c3,Bari,"3,600",40.0,1.0,0.0,192,9.0,23168,Bari
+,Francesco Caputo,it ITA,FW,36,36,8.0,17.0,2012-2013,/en/players/5bd72174/Francesco-Caputo,5bd72174,Bari,"3,224",35.8,7.0,1.0,192,9.0,21399,Bari
+,Diego Polenta,uy URU,"DF,MF",36,36,0.0,1.0,2012-2013,/en/players/ae992d63/Diego-Polenta,992d63,Bari,"3,190",35.4,10.0,0.0,192,8.0,23159,Bari
+,Luca Ceppitelli,it ITA,DF,37,36,2.0,5.0,2012-2013,/en/players/7d50454d/Luca-Ceppitelli,7d50454d,Bari,"3,158",35.1,9.0,1.0,192,9.0,22625,Bari
+,Nicola Bellomo,it ITA,MF,35,33,8.0,6.0,2012-2013,/en/players/e69a103f/Nicola-Bellomo,69a103f,Bari,"2,788",31.0,8.0,2.0,192,9.0,20482,Bari
+,Claiton,br BRA,DF,35,31,1.0,2.0,2012-2013,/en/players/67a3c8bc/Claiton,67a3c8bc,Bari,"2,724",30.3,10.0,2.0,192,2.0,20467,Bari
+,Daniele Sciaudone,it ITA,MF,35,28,3.0,4.0,2012-2013,/en/players/8c461a21/Daniele-Sciaudone,8c461a21,Bari,"2,629",29.2,11.0,1.0,192,9.0,23033,Bari
+,Marco Romizi,it ITA,MF,28,26,0.0,1.0,2012-2013,/en/players/b53bd1a7/Marco-Romizi,b53bd1a7,Bari,"1,976",22.0,13.0,1.0,192,9.0,23265,Bari
+,Marino Defendi,it ITA,MF,35,25,2.0,2.0,2012-2013,/en/players/87ae0c78/Marino-Defendi,87ae0c78,Bari,"2,294",25.5,4.0,1.0,192,9.0,20424,Bari
+,Stefano Sabelli,it ITA,DF,29,23,1.0,0.0,2012-2013,/en/players/0ccac09c/Stefano-Sabelli,0ccac09c,Bari,"2,099",23.3,7.0,0.0,192,9.0,20823,Bari
+,Antimo Iunco,it ITA,"FW,MF",30,23,6.0,1.0,2012-2013,/en/players/d8acb909/Antimo-Iunco,d8acb909,Bari,"1,904",21.2,11.0,1.0,192,9.0,20419,Bari
+,Cristian Galano,it ITA,"FW,MF",29,16,5.0,4.0,2012-2013,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,"1,512",16.8,2.0,0.0,192,9.0,23257,Bari
+,Andrea Rossi,it ITA,DF,16,16,0.0,0.0,2012-2013,/en/players/17f1ab30/Andrea-Rossi,17f1ab30,Bari,"1,425",15.8,1.0,1.0,192,9.0,20800,Bari
+,Abdelkader Ghezzal,dz ALG,FW,17,16,2.0,2.0,2012-2013,/en/players/9152a181/Abdelkader-Ghezzal,9152a181,Bari,"1,373",15.3,4.0,0.0,192,37.0,4154,Bari
+,Francesco Fedato,it ITA,FW,26,15,3.0,6.0,2012-2013,/en/players/645e7e69/Francesco-Fedato,645e7e69,Bari,"1,558",17.3,8.0,0.0,192,9.0,21264,Bari
+,Stefan Ristovski,mk MKD,"DF,MF",19,15,0.0,0.0,2012-2013,/en/players/7e56d3db/Stefan-Ristovski,7e56d3db,Bari,"1,288",14.3,3.0,0.0,192,81.0,20108,Bari
+,Andrea De Falco,it ITA,MF,16,10,0.0,0.0,2012-2013,/en/players/631ff021/Andrea-De-Falco,631ff021,Bari,"1,024",11.4,2.0,0.0,192,9.0,22359,Bari
+,Junior Tallo,ci CIV,FW,17,7,0.0,3.0,2012-2013,/en/players/84fb6b36/Junior-Tallo,84fb6b36,Bari,815,9.1,2.0,0.0,192,35.0,12920,Bari
+,Martino Borghese,it ITA,DF,13,7,0.0,1.0,2012-2013,/en/players/c5ff13b5/Martino-Borghese,c5ff13b5,Bari,651,7.2,4.0,0.0,192,9.0,21881,Bari
+,Attila Filkor,hu HUN,MF,10,7,0.0,0.0,2012-2013,/en/players/566a7f5f/Attila-Filkor,566a7f5f,Bari,628,7.0,2.0,0.0,192,87.0,22504,Bari
+,Errico Altobello,,,11,5,1.0,0.0,2012-2013,No detected,,Bari,515,5.7,0.0,1.0,192,,90913,Bari
+,Diego Albadoro,it ITA,FW,9,5,1.0,0.0,2012-2013,/en/players/0b8e5467/Diego-Albadoro,0b8e5467,Bari,383,4.3,1.0,0.0,192,9.0,23267,Bari
+,Gustavo Aprile,uy URU,MF,5,3,0.0,0.0,2012-2013,/en/players/495964bb/Gustavo-Aprile,495964bb,Bari,187,2.1,0.0,0.0,192,8.0,23269,Bari
+,Alexandru Pena,ro ROU,GK,2,2,0.0,0.0,2012-2013,/en/players/f97ddc68/Alexandru-Pena,f97ddc68,Bari,180,2.0,0.0,0.0,192,51.0,23270,Bari
+,Rivaldo González,py PAR,MF,3,1,0.0,0.0,2012-2013,/en/players/cf6cc060/Rivaldo-Gonzalez,cf6cc060,Bari,115,1.3,1.0,0.0,192,43.0,23264,Bari
+,Francesco Grandolfo,it ITA,FW,6,0,0.0,0.0,2012-2013,/en/players/f286bb66/Francesco-Grandolfo,f286bb66,Bari,77,0.9,0.0,0.0,192,9.0,20452,Bari
+,Armando Visconti,it ITA,FW,4,0,0.0,0.0,2012-2013,/en/players/8cf04a6c/Armando-Visconti,8cf04a6c,Bari,55,0.6,1.0,0.0,192,9.0,23271,Bari
+,Anthony Partipilo,,,1,0,0.0,0.0,2012-2013,No detected,,Bari,29,0.3,0.0,0.0,192,,90914,Bari
+,﻿Enrico Guarna,it ITA,GK,41,41,0.0,0.0,2013-2014,/en/players/a092abf5/Enrico-Guarna,092abf5,Bari,"3,690",41.0,4.0,0.0,192,9.0,21564,Bari
+,Marco Calderoni,it ITA,"DF,MF",40,39,2.0,3.0,2013-2014,/en/players/652811aa/Marco-Calderoni,652811aa,Bari,"3,355",37.3,7.0,1.0,192,9.0,21771,Bari
+,Luca Ceppitelli,it ITA,DF,38,38,0.0,6.0,2013-2014,/en/players/7d50454d/Luca-Ceppitelli,7d50454d,Bari,"3,420",38.0,11.0,1.0,192,9.0,22625,Bari
+,Daniele Sciaudone,it ITA,MF,39,38,5.0,4.0,2013-2014,/en/players/8c461a21/Daniele-Sciaudone,8c461a21,Bari,"3,329",37.0,13.0,0.0,192,9.0,23033,Bari
+,Cristian Galano,it ITA,"FW,MF",41,37,10.0,11.0,2013-2014,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,"3,030",33.7,4.0,0.0,192,9.0,23257,Bari
+,Marino Defendi,it ITA,MF,36,36,3.0,5.0,2013-2014,/en/players/87ae0c78/Marino-Defendi,87ae0c78,Bari,"3,163",35.1,8.0,1.0,192,9.0,20424,Bari
+,Stefano Sabelli,it ITA,DF,37,34,1.0,0.0,2013-2014,/en/players/0ccac09c/Stefano-Sabelli,0ccac09c,Bari,"2,923",32.5,7.0,0.0,192,9.0,20823,Bari
+,João Silva,pt POR,FW,40,30,1.0,6.0,2013-2014,/en/players/3eb8f912/Joao-Silva,3eb8f912,Bari,"2,862",31.8,5.0,0.0,192,3.0,22430,Bari
+,Diego Polenta,uy URU,"DF,MF",30,27,0.0,3.0,2013-2014,/en/players/ae992d63/Diego-Polenta,992d63,Bari,"2,502",27.8,7.0,1.0,192,8.0,23159,Bari
+,Marco Romizi,it ITA,MF,29,20,0.0,2.0,2013-2014,/en/players/b53bd1a7/Marco-Romizi,b53bd1a7,Bari,"1,725",19.2,8.0,1.0,192,9.0,23265,Bari
+,Marco Chiosa,it ITA,DF,25,19,0.0,0.0,2013-2014,/en/players/fc959a88/Marco-Chiosa,fc959a88,Bari,"1,789",19.9,4.0,0.0,192,9.0,20942,Bari
+,Marco Fossati,it ITA,MF,23,16,2.0,0.0,2013-2014,/en/players/39bec070/Marco-Fossati,39bec070,Bari,"1,440",16.0,10.0,1.0,192,9.0,20896,Bari
+,Richard Lugo,py PAR,"FW,MF",20,12,0.0,1.0,2013-2014,/en/players/c78b2741/Richard-Lugo,c78b2741,Bari,917,10.2,1.0,1.0,192,43.0,23272,Bari
+,Francesco Fedato,it ITA,FW,14,11,1.0,2.0,2013-2014,/en/players/645e7e69/Francesco-Fedato,645e7e69,Bari,972,10.8,5.0,0.0,192,9.0,21264,Bari
+,Stefano Beltrame,it ITA,"FW,MF",23,11,2.0,1.0,2013-2014,/en/players/b50a9c75/Stefano-Beltrame,b50a9c75,Bari,956,10.6,3.0,0.0,192,9.0,19556,Bari
+,Gennaro Delvecchio,it ITA,MF,14,8,0.0,1.0,2013-2014,/en/players/8aa604d1/Gennaro-Delvecchio,8aa604d1,Bari,889,9.9,2.0,1.0,192,9.0,20883,Bari
+,Andrea De Falco,it ITA,MF,11,8,0.0,0.0,2013-2014,/en/players/631ff021/Andrea-De-Falco,631ff021,Bari,749,8.3,3.0,0.0,192,9.0,22359,Bari
+,Enis Nadarević,ba BIH,MF,10,8,3.0,1.0,2013-2014,/en/players/ca695e60/Enis-Nadarevic,ca695e60,Bari,707,7.9,2.0,1.0,192,49.0,23165,Bari
+,Richard Samnick,fr FRA,DF,8,8,0.0,0.0,2013-2014,/en/players/0fbd0677/Richard-Samnick,0fbd0677,Bari,595,6.6,0.0,0.0,192,4.0,23273,Bari
+,Damiano Zanon,it ITA,DF,11,4,0.0,0.0,2013-2014,/en/players/3f0adc44/Damiano-Zanon,3f0adc44,Bari,522,5.8,0.0,1.0,192,9.0,20950,Bari
+,Edgar Çani,al ALB,FW,14,4,0.0,3.0,2013-2014,/en/players/7e1be926/Edgar-Cani,7e1be926,Bari,446,5.0,2.0,0.0,192,78.0,8043,Bari
+,Matías Alonso,uy URU,FW,7,4,1.0,0.0,2013-2014,/en/players/2f83d9b2/Matias-Alonso,2f83d9b2,Bari,421,4.7,0.0,0.0,192,8.0,3931,Bari
+,Ignacio Lores,uy URU,"DF,FW",8,3,1.0,0.0,2013-2014,/en/players/48b662da/Ignacio-Lores,48b662da,Bari,346,3.8,0.0,0.0,192,8.0,22421,Bari
+,Diego Albadoro,it ITA,FW,2,2,0.0,0.0,2013-2014,/en/players/0b8e5467/Diego-Albadoro,0b8e5467,Bari,159,1.8,0.0,0.0,192,9.0,23267,Bari
+,Errico Altobello,,,2,2,0.0,0.0,2013-2014,No detected,,Bari,107,1.2,1.0,0.0,192,,90913,Bari
+,Alessandro Marotta,it ITA,FW,9,1,0.0,1.0,2013-2014,/en/players/50472373/Alessandro-Marotta,50472373,Bari,266,3.0,2.0,0.0,192,9.0,23060,Bari
+,Alexandru Pena,ro ROU,GK,1,1,0.0,0.0,2013-2014,/en/players/f97ddc68/Alexandru-Pena,f97ddc68,Bari,90,1.0,0.0,0.0,192,51.0,23270,Bari
+,Giuseppe Statella,it ITA,MF,3,0,0.0,1.0,2013-2014,/en/players/fa802600/Giuseppe-Statella,fa802600,Bari,32,0.4,0.0,0.0,192,9.0,21976,Bari
+,Vito Leonetti,it ITA,FW,2,0,0.0,0.0,2013-2014,/en/players/dbc08599/Vito-Leonetti,dbc08599,Bari,21,0.2,0.0,0.0,192,9.0,23274,Bari
+,Dimitrios Vosnakidis,gr GRE,DF,1,0,0.0,0.0,2013-2014,/en/players/d95406b4/Dimitrios-Vosnakidis,d95406b4,Bari,1,0.0,0.0,0.0,192,55.0,23275,Bari
+,﻿Massimo Donati,it ITA,MF,35,33,0.0,2.0,2014-2015,/en/players/568d84b2/Massimo-Donati,568d84b2,Bari,"2,804",31.2,10.0,0.0,192,9.0,21629,Bari
+,Francesco Caputo,it ITA,FW,38,30,1.0,10.0,2014-2015,/en/players/5bd72174/Francesco-Caputo,5bd72174,Bari,"2,740",30.4,3.0,1.0,192,9.0,21399,Bari
+,Stefano Sabelli,it ITA,DF,31,30,1.0,2.0,2014-2015,/en/players/0ccac09c/Stefano-Sabelli,0ccac09c,Bari,"2,617",29.1,8.0,2.0,192,9.0,20823,Bari
+,Marino Defendi,it ITA,MF,32,28,1.0,0.0,2014-2015,/en/players/87ae0c78/Marino-Defendi,87ae0c78,Bari,"2,331",25.9,8.0,1.0,192,9.0,20424,Bari
+,Matteo Contini,it ITA,DF,28,27,0.0,0.0,2014-2015,/en/players/dec20583/Matteo-Contini,dec20583,Bari,"2,441",27.1,9.0,1.0,192,9.0,3568,Bari
+,Antonio Donnarumma,it ITA,GK,25,25,0.0,0.0,2014-2015,/en/players/a4bd9edd/Antonio-Donnarumma,4bd9edd,Bari,"2,250",25.0,2.0,0.0,192,9.0,19841,Bari
+,Cristian Galano,it ITA,"FW,MF",34,25,2.0,4.0,2014-2015,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,"2,187",24.3,3.0,0.0,192,9.0,23257,Bari
+,Giuseppe De Luca,it ITA,FW,38,24,5.0,8.0,2014-2015,/en/players/65195d00/Giuseppe-De-Luca,65195d00,Bari,"2,176",24.2,4.0,0.0,192,9.0,21655,Bari
+,Marco Calderoni,it ITA,"DF,MF",26,23,1.0,0.0,2014-2015,/en/players/652811aa/Marco-Calderoni,652811aa,Bari,"2,049",22.8,5.0,0.0,192,9.0,21771,Bari
+,Marco Romizi,it ITA,MF,33,23,0.0,1.0,2014-2015,/en/players/b53bd1a7/Marco-Romizi,b53bd1a7,Bari,"2,026",22.5,11.0,0.0,192,9.0,23265,Bari
+,Michele Camporese,it ITA,DF,21,20,2.0,0.0,2014-2015,/en/players/035c1d09/Michele-Camporese,035c1d09,Bari,"1,757",19.5,2.0,0.0,192,9.0,21383,Bari
+,Nicola Bellomo,it ITA,MF,19,18,0.0,2.0,2014-2015,/en/players/e69a103f/Nicola-Bellomo,69a103f,Bari,"1,600",17.8,3.0,0.0,192,9.0,20482,Bari
+,Daniele Sciaudone,it ITA,MF,19,16,3.0,2.0,2014-2015,/en/players/8c461a21/Daniele-Sciaudone,8c461a21,Bari,"1,454",16.2,9.0,0.0,192,9.0,23033,Bari
+,Simone Salviato,it ITA,DF,20,16,1.0,0.0,2014-2015,/en/players/e8793c8a/Simone-Salviato,8793c8a,Bari,"1,453",16.1,5.0,0.0,192,9.0,22501,Bari
+,Pasquale Schiattarella,it ITA,MF,17,16,1.0,1.0,2014-2015,/en/players/bd84fc61/Pasquale-Schiattarella,bd84fc61,Bari,"1,394",15.5,6.0,1.0,192,9.0,20208,Bari
+,Enrico Guarna,it ITA,GK,15,15,0.0,0.0,2014-2015,/en/players/a092abf5/Enrico-Guarna,092abf5,Bari,"1,350",15.0,1.0,0.0,192,9.0,21564,Bari
+,Alessandro Ligi,it ITA,DF,14,13,1.0,0.0,2014-2015,/en/players/1a8f84a0/Alessandro-Ligi,1a8f84a0,Bari,"1,166",13.0,4.0,0.0,192,9.0,23276,Bari
+,Osarimen Ebagua,ng NGA,FW,16,11,1.0,2.0,2014-2015,/en/players/dd6711bb/Osarimen-Ebagua,dd6711bb,Bari,"1,028",11.4,3.0,1.0,192,52.0,21878,Bari
+,Alen Stevanović,rs SRB,"FW,MF",16,11,3.0,1.0,2014-2015,/en/players/d8e584b9/Alen-Stevanovic,d8e584b9,Bari,979,10.9,1.0,0.0,192,28.0,19663,Bari
+,Leandro Rinaudo,it ITA,DF,11,10,0.0,0.0,2014-2015,/en/players/26536bf4/Leandro-Rinaudo,26536bf4,Bari,921,10.2,3.0,0.0,192,9.0,19546,Bari
+,Joseph Minala,cm CMR,MF,18,9,0.0,3.0,2014-2015,/en/players/11a1951e/Joseph-Minala,11a1951e,Bari,830,9.2,6.0,2.0,192,36.0,19936,Bari
+,Kingsley Boateng,it ITA,FW,17,9,0.0,3.0,2014-2015,/en/players/bbf06142/Kingsley-Boateng,bbf06142,Bari,822,9.1,4.0,0.0,192,9.0,23028,Bari
+,Lorenzo Filippini,it ITA,DF,10,7,0.0,0.0,2014-2015,/en/players/4aa7fe21/Lorenzo-Filippini,4aa7fe21,Bari,664,7.4,2.0,0.0,192,9.0,23277,Bari
+,Jonathan Rossini,ch SUI,DF,8,5,0.0,0.0,2014-2015,/en/players/adb08b03/Jonathan-Rossini,db08b03,Bari,446,5.0,1.0,0.0,192,39.0,22069,Bari
+,Rafał Wolski,pl POL,"FW,MF",7,4,0.0,0.0,2014-2015,/en/players/0e1802a6/Rafal-Wolski,0e1802a6,Bari,340,3.8,1.0,0.0,192,14.0,22702,Bari
+,Ionuț Rada,ro ROU,DF,4,4,0.0,0.0,2014-2015,/en/players/7e0e3458/Ionut-Rada,7e0e3458,Bari,329,3.7,1.0,1.0,192,51.0,18619,Bari
+,Adrian Stoian,ro ROU,MF,8,3,1.0,0.0,2014-2015,/en/players/4468b31a/Adrian-Stoian,4468b31a,Bari,326,3.6,3.0,0.0,192,51.0,20453,Bari
+,Tomislav Gomelt,hr CRO,MF,6,3,0.0,0.0,2014-2015,/en/players/a5055b1b/Tomislav-Gomelt,5055b1b,Bari,314,3.5,0.0,0.0,192,16.0,23278,Bari
+,Simone Benedetti,it ITA,DF,3,2,0.0,0.0,2014-2015,/en/players/1a064b7d/Simone-Benedetti,1a064b7d,Bari,210,2.3,2.0,0.0,192,9.0,21978,Bari
+,Alessandro Micai,it ITA,GK,2,2,0.0,0.0,2014-2015,/en/players/6ab58a9b/Alessandro-Micai,6ab58a9b,Bari,180,2.0,0.0,0.0,192,9.0,21587,Bari
+,Antonio Rozzi,it ITA,"FW,MF",9,0,1.0,0.0,2014-2015,/en/players/bef7564e/Antonio-Rozzi,bef7564e,Bari,140,1.6,1.0,0.0,192,9.0,19929,Bari
+,Manel Minicucci,,,1,0,0.0,0.0,2014-2015,No detected,,Bari,14,0.2,0.0,0.0,192,,90915,Bari
+,Gaetano Castrovilli,it ITA,MF,1,0,0.0,0.0,2014-2015,/en/players/0728bebe/Gaetano-Castrovilli,0728bebe,Bari,14,0.2,0.0,0.0,192,9.0,22731,Bari
+,Anthony Partipilo,it ITA,MF,0,0,,,2014-2015,/en/players/871ec5b7/Anthony-Partipilo,871ec5b7,Bari,,,,,192,9.0,23279,Bari
+,Dembel Sall,sn SEN,DF,0,0,,,2014-2015,/en/players/218c0221/Dembel-Sall,218c0221,Bari,,,,,192,34.0,23280,Bari
+,Giuseppe Scalera,it ITA,DF,0,0,,,2014-2015,/en/players/b8de35ca/Giuseppe-Scalera,b8de35ca,Bari,,,,,192,9.0,23281,Bari
+,João Silva,pt POR,FW,0,0,,,2014-2015,/en/players/3eb8f912/Joao-Silva,3eb8f912,Bari,,,,,192,3.0,22430,Bari
+,﻿Alessandro Rosina,it ITA,MF,40,34,14.0,9.0,2015-2016,/en/players/21fb0e40/Alessandro-Rosina,21fb0e40,Bari,"3,116",34.6,3.0,0.0,192,9.0,20007,Bari
+,Francesco Valiani,it ITA,MF,34,33,2.0,4.0,2015-2016,/en/players/825f6296/Francesco-Valiani,825f6296,Bari,"2,961",32.9,10.0,0.0,192,9.0,20072,Bari
+,Riccardo Maniero,it ITA,FW,36,32,6.0,13.0,2015-2016,/en/players/d231ad99/Riccardo-Maniero,d231ad99,Bari,"2,853",31.7,6.0,0.0,192,9.0,22789,Bari
+,Valerio Di Cesare,it ITA,DF,31,30,0.0,1.0,2015-2016,/en/players/3cddfc7e/Valerio-Di-Cesare,3cddfc7e,Bari,"2,662",29.6,8.0,1.0,192,9.0,20137,Bari
+,Giuseppe De Luca,it ITA,FW,34,26,3.0,7.0,2015-2016,/en/players/65195d00/Giuseppe-De-Luca,65195d00,Bari,"2,199",24.4,5.0,0.0,192,9.0,21655,Bari
+,Marino Defendi,it ITA,MF,30,25,4.0,2.0,2015-2016,/en/players/87ae0c78/Marino-Defendi,87ae0c78,Bari,"2,244",24.9,7.0,0.0,192,9.0,20424,Bari
+,Enrico Guarna,it ITA,GK,25,25,0.0,0.0,2015-2016,/en/players/a092abf5/Enrico-Guarna,092abf5,Bari,"2,243",24.9,2.0,1.0,192,9.0,21564,Bari
+,Gianluca Sansone,it ITA,FW,34,23,3.0,6.0,2015-2016,/en/players/838a54e7/Gianluca-Sansone,838a54e7,Bari,"2,013",22.4,6.0,0.0,192,9.0,21097,Bari
+,Denis Tonucci,it ITA,DF,21,21,0.0,0.0,2015-2016,/en/players/966aea44/Denis-Tonucci,966aea44,Bari,"1,870",20.8,4.0,0.0,192,9.0,13438,Bari
+,Stefano Sabelli,it ITA,DF,21,20,2.0,1.0,2015-2016,/en/players/0ccac09c/Stefano-Sabelli,0ccac09c,Bari,"1,841",20.5,4.0,0.0,192,9.0,20823,Bari
+,Isaac Donkor,gh GHA,DF,20,18,0.0,0.0,2015-2016,/en/players/4c8ba028/Isaac-Donkor,4c8ba028,Bari,"1,524",16.9,10.0,1.0,192,17.0,19695,Bari
+,Ionuț Rada,ro ROU,DF,21,17,0.0,2.0,2015-2016,/en/players/7e0e3458/Ionut-Rada,7e0e3458,Bari,"1,740",19.3,1.0,0.0,192,51.0,18619,Bari
+,Giuseppe Gemiti,de GER,"DF,MF",20,17,0.0,0.0,2015-2016,/en/players/dd67558e/Giuseppe-Gemiti,dd67558e,Bari,"1,534",17.0,2.0,0.0,192,13.0,20228,Bari
+,Alessandro Micai,it ITA,GK,17,17,0.0,0.0,2015-2016,/en/players/6ab58a9b/Alessandro-Micai,6ab58a9b,Bari,"1,530",17.0,3.0,0.0,192,9.0,21587,Bari
+,Matteo Contini,it ITA,DF,18,17,0.0,0.0,2015-2016,/en/players/dec20583/Matteo-Contini,dec20583,Bari,"1,352",15.0,1.0,1.0,192,9.0,3568,Bari
+,Filippo Porcari,it ITA,MF,20,16,0.0,0.0,2015-2016,/en/players/4e9ad4a3/Filippo-Porcari,4e9ad4a3,Bari,"1,316",14.6,5.0,1.0,192,9.0,20009,Bari
+,Marco Romizi,it ITA,MF,24,15,1.0,0.0,2015-2016,/en/players/b53bd1a7/Marco-Romizi,b53bd1a7,Bari,"1,307",14.5,6.0,0.0,192,9.0,23265,Bari
+,Jacopo Dezi,it ITA,MF,17,13,0.0,5.0,2015-2016,/en/players/e921b9db/Jacopo-Dezi,921b9db,Bari,"1,214",13.5,3.0,0.0,192,9.0,20129,Bari
+,Giovanni Di Noia,it ITA,MF,19,12,2.0,0.0,2015-2016,/en/players/bcb06cf5/Giovanni-Di-Noia,bcb06cf5,Bari,"1,064",11.8,7.0,0.0,192,9.0,20532,Bari
+,Cristiano Del Grosso,it ITA,DF,12,12,1.0,0.0,2015-2016,/en/players/b0603a52/Cristiano-Del-Grosso,b0603a52,Bari,"1,000",11.1,3.0,0.0,192,9.0,21653,Bari
+,Savvas Gentsoglou,gr GRE,MF,12,11,0.0,0.0,2015-2016,/en/players/8ed17872/Savvas-Gentsoglou,8ed17872,Bari,864,9.6,2.0,1.0,192,55.0,22075,Bari
+,George Pușcaș,ro ROU,FW,16,9,1.0,4.0,2015-2016,/en/players/c23c8e0d/George-Puscas,c23c8e0d,Bari,793,8.8,2.0,0.0,192,51.0,9671,Bari
+,Massimo Donati,it ITA,MF,16,8,0.0,1.0,2015-2016,/en/players/568d84b2/Massimo-Donati,568d84b2,Bari,714,7.9,4.0,0.0,192,9.0,21629,Bari
+,Nikola Jakimovski,mk MKD,"DF,FW",5,4,0.0,0.0,2015-2016,/en/players/0e0fa83a/Nikola-Jakimovski,0e0fa83a,Bari,333,3.7,0.0,0.0,192,81.0,21880,Bari
+,Kingsley Boateng,it ITA,FW,18,3,2.0,0.0,2015-2016,/en/players/bbf06142/Kingsley-Boateng,bbf06142,Bari,556,6.2,1.0,0.0,192,9.0,23028,Bari
+,Issa Cissokho,sn SEN,DF,5,3,0.0,0.0,2015-2016,/en/players/a1017967/Issa-Cissokho,1017967,Bari,284,3.2,0.0,1.0,192,34.0,12533,Bari
+,Andrea Lazzari,it ITA,MF,9,1,0.0,1.0,2015-2016,/en/players/2d6caaa7/Andrea-Lazzari,2d6caaa7,Bari,155,1.7,3.0,0.0,192,9.0,20274,Bari
+,Antonis Petropoulos,gr GRE,FW,5,0,0.0,0.0,2015-2016,/en/players/b5e19f26/Antonis-Petropoulos,b5e19f26,Bari,66,0.7,0.0,0.0,192,55.0,23282,Bari
+,Gennaro Tutino,it ITA,FW,1,0,0.0,0.0,2015-2016,/en/players/8b303bcb/Gennaro-Tutino,8b303bcb,Bari,16,0.2,0.0,0.0,192,9.0,20207,Bari
+,Joseph Minala,cm CMR,MF,1,0,0.0,0.0,2015-2016,/en/players/11a1951e/Joseph-Minala,11a1951e,Bari,13,0.1,0.0,0.0,192,36.0,19936,Bari
+,Gaston Camara,gn GUI,"FW,MF",0,0,,,2015-2016,/en/players/754db077/Gaston-Camara,754db077,Bari,,,,,192,74.0,19697,Bari
+,Stefano Gori,it ITA,GK,0,0,,,2015-2016,/en/players/d6daf00a/Stefano-Gori,d6daf00a,Bari,,,,,192,9.0,19814,Bari
+,Giuseppe Scalera,it ITA,DF,0,0,,,2015-2016,/en/players/b8de35ca/Giuseppe-Scalera,b8de35ca,Bari,,,,,192,9.0,23281,Bari
+,Curtis Yebli,fr FRA,DF,0,0,,,2015-2016,/en/players/84f51529/Curtis-Yebli,84f51529,Bari,,,,,192,4.0,23283,Bari
+,﻿Alessandro Micai,it ITA,GK,39,39,0.0,0.0,2016-2017,/en/players/6ab58a9b/Alessandro-Micai,6ab58a9b,Bari,"3,500",38.9,4.0,0.0,192,9.0,21587,Bari
+,Stefano Sabelli,it ITA,DF,32,31,5.0,0.0,2016-2017,/en/players/0ccac09c/Stefano-Sabelli,0ccac09c,Bari,"2,708",30.1,13.0,0.0,192,9.0,20823,Bari
+,Denis Tonucci,it ITA,DF,31,29,0.0,1.0,2016-2017,/en/players/966aea44/Denis-Tonucci,966aea44,Bari,"2,620",29.1,12.0,0.0,192,9.0,13438,Bari
+,Franco Brienza,it ITA,"FW,MF",27,24,5.0,5.0,2016-2017,/en/players/aff058a4/Franco-Brienza,ff058a4,Bari,"2,106",23.4,0.0,0.0,192,9.0,20875,Bari
+,Riccardo Maniero,it ITA,FW,34,23,1.0,6.0,2016-2017,/en/players/d231ad99/Riccardo-Maniero,d231ad99,Bari,"2,228",24.8,5.0,0.0,192,9.0,22789,Bari
+,Matteo Fedele,ch SUI,MF,25,23,0.0,4.0,2016-2017,/en/players/80ab2ca2/Matteo-Fedele,80ab2ca2,Bari,"2,023",22.5,5.0,0.0,192,39.0,14661,Bari
+,Migjen Basha,al ALB,MF,27,22,1.0,1.0,2016-2017,/en/players/81367f83/Migjen-Basha,81367f83,Bari,"2,119",23.5,10.0,0.0,192,78.0,21646,Bari
+,Vangelis Moras,gr GRE,DF,23,22,0.0,0.0,2016-2017,/en/players/bffec2a8/Vangelis-Moras,bffec2a8,Bari,"1,973",21.9,10.0,0.0,192,55.0,10617,Bari
+,Fabio Daprelà,ch SUI,"DF,MF",27,21,1.0,2.0,2016-2017,/en/players/6bff8a73/Fabio-Daprela,6bff8a73,Bari,"1,939",21.5,3.0,1.0,192,39.0,8462,Bari
+,Federico Furlan,it ITA,MF,30,20,2.0,1.0,2016-2017,/en/players/b9de0518/Federico-Furlan,b9de0518,Bari,"1,988",22.1,2.0,0.0,192,9.0,23284,Bari
+,Mattia Cassani,it ITA,DF,21,20,3.0,0.0,2016-2017,/en/players/f3d0d85e/Mattia-Cassani,f3d0d85e,Bari,"1,832",20.4,6.0,0.0,192,9.0,20100,Bari
+,Elio Capradossi,it ITA,DF,23,20,0.0,0.0,2016-2017,/en/players/174944a3/Elio-Capradossi,174944a3,Bari,"1,800",20.0,3.0,1.0,192,9.0,20612,Bari
+,Marco Romizi,it ITA,MF,23,18,2.0,0.0,2016-2017,/en/players/b53bd1a7/Marco-Romizi,b53bd1a7,Bari,"1,464",16.3,7.0,1.0,192,9.0,23265,Bari
+,Cristian Galano,it ITA,"FW,MF",19,17,2.0,7.0,2016-2017,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,"1,459",16.2,0.0,0.0,192,9.0,23257,Bari
+,Aniello Salzano,it ITA,MF,16,14,2.0,2.0,2016-2017,/en/players/89f66f6d/Aniello-Salzano,89f66f6d,Bari,"1,126",12.5,4.0,0.0,192,9.0,22560,Bari
+,Giuseppe De Luca,it ITA,FW,19,13,1.0,2.0,2016-2017,/en/players/65195d00/Giuseppe-De-Luca,65195d00,Bari,"1,205",13.4,2.0,1.0,192,9.0,21655,Bari
+,Francesco Valiani,it ITA,MF,17,13,0.0,0.0,2016-2017,/en/players/825f6296/Francesco-Valiani,825f6296,Bari,"1,196",13.3,5.0,1.0,192,9.0,20072,Bari
+,Valerio Di Cesare,it ITA,DF,15,13,0.0,0.0,2016-2017,/en/players/3cddfc7e/Valerio-Di-Cesare,3cddfc7e,Bari,"1,189",13.2,7.0,0.0,192,9.0,20137,Bari
+,Antonio Floro Flores,it ITA,FW,13,10,1.0,4.0,2016-2017,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Bari,907,10.1,4.0,0.0,192,9.0,5035,Bari
+,Roman Macek,cz CZE,MF,16,10,1.0,0.0,2016-2017,/en/players/0f45a0da/Roman-Macek,0f45a0da,Bari,896,10.0,3.0,0.0,192,84.0,23285,Bari
+,Vittorio Parigini,it ITA,"FW,MF",15,8,1.0,1.0,2016-2017,/en/players/75efed2e/Vittorio-Parigini,75efed2e,Bari,603,6.7,3.0,1.0,192,9.0,20498,Bari
+,Raphael Martinho,br BRA,MF,12,8,0.0,0.0,2016-2017,/en/players/1124bc4f/Raphael-Martinho,1124bc4f,Bari,585,6.5,2.0,0.0,192,2.0,22844,Bari
+,Archimede Morleo,it ITA,DF,7,7,1.0,0.0,2016-2017,/en/players/2260bad9/Archimede-Morleo,2260bad9,Bari,568,6.3,3.0,0.0,192,9.0,21079,Bari
+,Francesco Fedato,it ITA,FW,10,7,1.0,0.0,2016-2017,/en/players/645e7e69/Francesco-Fedato,645e7e69,Bari,509,5.7,1.0,0.0,192,9.0,21264,Bari
+,Dávid Ivan,sk SVK,MF,8,5,0.0,1.0,2016-2017,/en/players/b2e3ce45/David-Ivan,b2e3ce45,Bari,496,5.5,2.0,0.0,192,70.0,20553,Bari
+,Emanuele Suagher,it ITA,DF,6,5,0.0,0.0,2016-2017,/en/players/976a9181/Emanuele-Suagher,976a9181,Bari,419,4.7,0.0,0.0,192,9.0,21676,Bari
+,Leandro Greco,it ITA,MF,8,4,0.0,0.0,2016-2017,/en/players/0d9b99a4/Leandro-Greco,0d9b99a4,Bari,401,4.5,1.0,0.0,192,9.0,20577,Bari
+,Salvador Ichazo,uy URU,GK,3,3,0.0,0.0,2016-2017,/en/players/514f0896/Salvador-Ichazo,514f0896,Bari,270,3.0,0.0,0.0,192,8.0,21994,Bari
+,Gaetano Monachello,it ITA,FW,4,3,1.0,2.0,2016-2017,/en/players/241ee811/Gaetano-Monachello,241ee811,Bari,215,2.4,0.0,0.0,192,9.0,21671,Bari
+,Souleyman Doumbia,ci CIV,"DF,MF",5,3,0.0,0.0,2016-2017,/en/players/9daeac61/Souleyman-Doumbia,9daeac61,Bari,212,2.4,1.0,0.0,192,35.0,13252,Bari
+,Filip Raičević,me MNE,FW,8,2,1.0,0.0,2016-2017,/en/players/feec939d/Filip-Raicevic,feec939d,Bari,312,3.5,1.0,0.0,192,33.0,22555,Bari
+,Giuseppe Scalera,it ITA,DF,3,2,0.0,0.0,2016-2017,/en/players/b8de35ca/Giuseppe-Scalera,b8de35ca,Bari,208,2.3,1.0,0.0,192,9.0,23281,Bari
+,Gaetano Castrovilli,it ITA,MF,10,1,0.0,0.0,2016-2017,/en/players/0728bebe/Gaetano-Castrovilli,0728bebe,Bari,161,1.8,0.0,0.0,192,9.0,22731,Bari
+,Ciro Coratella,,,2,1,0.0,0.0,2016-2017,No detected,,Bari,98,1.1,1.0,0.0,192,,90916,Bari
+,Curtis Yebli,fr FRA,DF,2,1,0.0,0.0,2016-2017,/en/players/84f51529/Curtis-Yebli,84f51529,Bari,75,0.8,0.0,0.0,192,4.0,23283,Bari
+,Kingsley Boateng,it ITA,FW,2,0,0.0,0.0,2016-2017,/en/players/bbf06142/Kingsley-Boateng,bbf06142,Bari,43,0.5,0.0,0.0,192,9.0,23028,Bari
+,Alessio Romanazzo,,,1,0,0.0,0.0,2016-2017,No detected,,Bari,19,0.2,0.0,0.0,192,,90917,Bari
+,Michele Portoghese,,,1,0,0.0,0.0,2016-2017,No detected,,Bari,18,0.2,0.0,0.0,192,,90918,Bari
+,Stefano Gori,it ITA,GK,1,0,0.0,0.0,2016-2017,/en/players/d6daf00a/Stefano-Gori,d6daf00a,Bari,10,0.1,0.0,0.0,192,9.0,19814,Bari
+,﻿Alessandro Micai,it ITA,GK,41,41,0.0,0.0,2017-2018,/en/players/6ab58a9b/Alessandro-Micai,6ab58a9b,Bari,"3,685",40.9,2.0,1.0,192,9.0,21587,Bari
+,Riccardo Improta,it ITA,"FW,MF",36,33,4.0,8.0,2017-2018,/en/players/f6dfa5b8/Riccardo-Improta,f6dfa5b8,Bari,"2,943",32.7,5.0,0.0,192,9.0,20471,Bari
+,Luca Marrone,it ITA,DF,33,33,1.0,1.0,2017-2018,/en/players/ea468ea8/Luca-Marrone,468ea8,Bari,"2,807",31.2,8.0,2.0,192,9.0,19539,Bari
+,Migjen Basha,al ALB,MF,31,30,1.0,2.0,2017-2018,/en/players/81367f83/Migjen-Basha,81367f83,Bari,"2,573",28.6,10.0,0.0,192,78.0,21646,Bari
+,Andrés Tello,co COL,MF,33,28,6.0,1.0,2017-2018,/en/players/5f951ef1/Andres-Tello,5f951ef1,Bari,"2,502",27.8,6.0,0.0,192,19.0,21392,Bari
+,Norbert Gyömbér,sk SVK,DF,28,28,0.0,1.0,2017-2018,/en/players/0be276c6/Norbert-Gyomber,0be276c6,Bari,"2,461",27.3,4.0,0.0,192,70.0,20607,Bari
+,Cristian Galano,it ITA,FW,32,27,4.0,14.0,2017-2018,/en/players/7e2eff7a/Cristian-Galano,7e2eff7a,Bari,"2,359",26.2,0.0,0.0,192,9.0,23257,Bari
+,Karamoko Cissé,gn GUI,FW,32,20,4.0,4.0,2017-2018,/en/players/b39569c0/Karamoko-Cisse,b39569c0,Bari,"1,866",20.7,3.0,0.0,192,74.0,21632,Bari
+,Stefano Sabelli,it ITA,"DF,MF",20,19,0.0,1.0,2017-2018,/en/players/0ccac09c/Stefano-Sabelli,0ccac09c,Bari,"1,692",18.8,4.0,0.0,192,9.0,20823,Bari
+,Massimiliano Busellato,it ITA,MF,26,17,0.0,0.0,2017-2018,/en/players/5c6669dc/Massimiliano-Busellato,5c6669dc,Bari,"1,557",17.3,8.0,0.0,192,9.0,23286,Bari
+,Nenê,br BRA,FW,24,17,3.0,6.0,2017-2018,/en/players/fbd40d07/Nene,fbd40d07,Bari,"1,430",15.9,5.0,0.0,192,2.0,22612,Bari
+,Djavan Anderson,nl NED,"DF,FW",19,17,1.0,2.0,2017-2018,/en/players/ca241ad3/Djavan-Anderson,ca241ad3,Bari,"1,406",15.6,0.0,0.0,192,11.0,19981,Bari
+,Liam Henderson,sct SCO,MF,18,17,2.0,2.0,2017-2018,/en/players/d7918b13/Liam-Henderson,d7918b13,Bari,"1,342",14.9,5.0,1.0,192,67.0,21434,Bari
+,Simone Iocolano,it ITA,"MF,FW",21,17,2.0,0.0,2017-2018,/en/players/6b532b5f/Simone-Iocolano,6b532b5f,Bari,"1,292",14.4,1.0,0.0,192,9.0,23287,Bari
+,Salvatore D'Elia,it ITA,DF,15,14,1.0,2.0,2017-2018,/en/players/5b7c1824/Salvatore-DElia,5b7c1824,Bari,"1,230",13.7,0.0,0.0,192,9.0,22857,Bari
+,Riccardo Fiamozzi,it ITA,"DF,MF",14,13,1.0,0.0,2017-2018,/en/players/9f9b9269/Riccardo-Fiamozzi,9f9b9269,Bari,"1,150",12.8,1.0,0.0,192,9.0,21433,Bari
+,Jacopo Petriccione,it ITA,MF,20,12,1.0,1.0,2017-2018,/en/players/909bce7f/Jacopo-Petriccione,909bce7f,Bari,"1,197",13.3,5.0,0.0,192,9.0,22210,Bari
+,Jure Balkovec,si SVN,DF,11,11,3.0,1.0,2017-2018,/en/players/1a787ee8/Jure-Balkovec,1a787ee8,Bari,990,11.0,2.0,0.0,192,32.0,21431,Bari
+,Elio Capradossi,it ITA,DF,11,9,0.0,0.0,2017-2018,/en/players/174944a3/Elio-Capradossi,174944a3,Bari,914,10.2,3.0,0.0,192,9.0,20612,Bari
+,Denis Tonucci,it ITA,DF,9,8,0.0,1.0,2017-2018,/en/players/966aea44/Denis-Tonucci,966aea44,Bari,779,8.7,3.0,0.0,192,9.0,13438,Bari
+,Antonio Floro Flores,it ITA,FW,27,7,5.0,3.0,2017-2018,/en/players/d6846501/Antonio-Floro-Flores,d6846501,Bari,999,11.1,2.0,0.0,192,9.0,5035,Bari
+,Mattia Cassani,it ITA,DF,7,7,1.0,0.0,2017-2018,/en/players/f3d0d85e/Mattia-Cassani,f3d0d85e,Bari,630,7.0,2.0,0.0,192,9.0,20100,Bari
+,Libor Kozák,cz CZE,FW,15,7,0.0,2.0,2017-2018,/en/players/979d0640/Libor-Kozak,979d0640,Bari,618,6.9,2.0,0.0,192,84.0,8157,Bari
+,Franco Brienza,it ITA,"MF,FW",29,6,3.0,4.0,2017-2018,/en/players/aff058a4/Franco-Brienza,ff058a4,Bari,"1,107",12.3,0.0,0.0,192,9.0,20875,Bari
+,Modibo Diakité,fr FRA,DF,9,6,0.0,0.0,2017-2018,/en/players/e5eb4ab4/Modibo-Diakite,5eb4ab4,Bari,540,6.0,1.0,0.0,192,4.0,497,Bari
+,Alan Empereur,br BRA,DF,8,6,0.0,0.0,2017-2018,/en/players/825b8997/Alan-Empereur,825b8997,Bari,518,5.8,3.0,1.0,192,2.0,22522,Bari
+,Archimede Morleo,it ITA,"MF,DF",4,3,0.0,0.0,2017-2018,/en/players/2260bad9/Archimede-Morleo,2260bad9,Bari,285,3.2,1.0,0.0,192,9.0,21079,Bari
+,Marios Oikonomou,gr GRE,DF,3,3,0.0,0.0,2017-2018,/en/players/3b9858f5/Marios-Oikonomou,3b9858f5,Bari,270,3.0,1.0,0.0,192,55.0,21093,Bari
+,Aniello Salzano,it ITA,MF,4,3,0.0,0.0,2017-2018,/en/players/89f66f6d/Aniello-Salzano,89f66f6d,Bari,207,2.3,0.0,0.0,192,9.0,22560,Bari
+,Federico Andrada,ar ARG,FW,3,2,0.0,1.0,2017-2018,/en/players/c997824a/Federico-Andrada,c997824a,Bari,109,1.2,0.0,0.0,192,5.0,13929,Bari
+,Victor De Lucia,it ITA,GK,2,1,0.0,0.0,2017-2018,/en/players/12daa2f5/Victor-De-Lucia,12daa2f5,Bari,94,1.0,0.0,0.0,192,9.0,23288,Bari
+,Federico Furlan,it ITA,MF,1,0,0.0,0.0,2017-2018,/en/players/b9de0518/Federico-Furlan,b9de0518,Bari,11,0.1,0.0,0.0,192,9.0,23284,Bari
+,Alessandro Berardi,it ITA,GK,0,0,,,2017-2018,/en/players/ec1f737d/Alessandro-Berardi,c1f737d,Bari,,,,,192,9.0,23289,Bari
+,Emanuele Conti,it ITA,GK,0,0,,,2017-2018,/en/players/65cc42eb/Emanuele-Conti,65cc42eb,Bari,,,,,192,9.0,23290,Bari
+,Alessio Di Cosmo,it ITA,DF,0,0,,,2017-2018,/en/players/e8fcf739/Alessio-Di-Cosmo,8fcf739,Bari,,,,,192,9.0,23291,Bari
+,Nunzio Lella,it ITA,DF,0,0,,,2017-2018,/en/players/c149e8a6/Nunzio-Lella,c149e8a6,Bari,,,,,192,9.0,22661,Bari
+,Mattia Montini,it ITA,FW,0,0,,,2017-2018,/en/players/32375a96/Mattia-Montini,32375a96,Bari,,,,,192,9.0,23939,Bari
+,Filip Raičević,me MNE,FW,0,0,,,2017-2018,/en/players/feec939d/Filip-Raicevic,feec939d,Bari,,,,,192,33.0,22555,Bari
+,Giuseppe Scalera,it ITA,DF,0,0,,,2017-2018,/en/players/b8de35ca/Giuseppe-Scalera,b8de35ca,Bari,,,,,192,9.0,23281,Bari
+,Davide Viola,it ITA,DF,0,0,,,2017-2018,/en/players/181a0eef/Davide-Viola,181a0eef,Bari,,,,,192,9.0,23292,Bari
+,﻿Daniele Celiento,it ITA,DF,2,2,0.0,0.0,2020-2021,/en/players/544a92c8/Daniele-Celiento,544a92c8,Bari,210.0,2.3,0.0,0.0,192,9.0,23293,Bari
+,Marco Perrotta,it ITA,DF,2,2,0.0,0.0,2020-2021,/en/players/90a4ec57/Marco-Perrotta,90a4ec57,Bari,210.0,2.3,1.0,0.0,192,9.0,23294,Bari
+,Mattia Maita,it ITA,MF,2,2,0.0,0.0,2020-2021,/en/players/d21268c5/Mattia-Maita,d21268c5,Bari,167.0,1.9,0.0,0.0,192,9.0,21556,Bari
+,Francesco Corsinelli,it ITA,MF,2,2,0.0,0.0,2020-2021,/en/players/7e3b86ac/Francesco-Corsinelli,7e3b86ac,Bari,160.0,1.8,0.0,0.0,192,9.0,23181,Bari
+,Eugenio D'Ursi,it ITA,FW,2,2,0.0,1.0,2020-2021,/en/players/e1348c62/Eugenio-DUrsi,1348c62,Bari,160.0,1.8,0.0,0.0,192,9.0,23295,Bari
+,Leonardo Candellone,it ITA,FW,2,1,0.0,1.0,2020-2021,/en/players/af0fe411/Leonardo-Candellone,f0fe411,Bari,165.0,1.8,0.0,0.0,192,9.0,21998,Bari
+,Alessandro Minelli,it ITA,DF,2,1,0.0,0.0,2020-2021,/en/players/c067e719/Alessandro-Minelli,c067e719,Bari,135.0,1.5,0.0,0.0,192,9.0,23296,Bari
+,Carlo De Risio,it ITA,MF,1,1,0.0,0.0,2020-2021,/en/players/e491413f/Carlo-De-Risio,491413f,Bari,120.0,1.3,1.0,0.0,192,9.0,23297,Bari
+,Davide Marfella,it ITA,GK,1,1,0.0,0.0,2020-2021,/en/players/880fcdbb/Davide-Marfella,880fcdbb,Bari,120.0,1.3,0.0,0.0,192,9.0,23118,Bari
+,Alessio Sabbione,it ITA,"DF,MF",2,1,0.0,0.0,2020-2021,/en/players/4b72c3f4/Alessio-Sabbione,4b72c3f4,Bari,118.0,1.3,0.0,0.0,192,9.0,23298,Bari
+,Mirco Antenucci,it ITA,FW,2,1,0.0,1.0,2020-2021,/en/players/43a2e16c/Mirco-Antenucci,43a2e16c,Bari,116.0,1.3,0.0,0.0,192,9.0,8035,Bari
+,Manuel Marras,it ITA,"FW,MF",2,1,0.0,1.0,2020-2021,/en/players/5c4c8f5a/Manuel-Marras,5c4c8f5a,Bari,106.0,1.2,0.0,0.0,192,9.0,23299,Bari
+,Raffaele Bianco,it ITA,MF,2,1,0.0,0.0,2020-2021,/en/players/147c0f9e/Raffaele-Bianco,147c0f9e,Bari,101.0,1.1,0.0,0.0,192,9.0,19526,Bari
+,Pierluigi Frattali,it ITA,GK,1,1,0.0,0.0,2020-2021,/en/players/71dac2c2/Pierluigi-Frattali,71dac2c2,Bari,90.0,1.0,0.0,0.0,192,9.0,20126,Bari
+,Cristian Andreoni,it ITA,DF,1,1,0.0,0.0,2020-2021,/en/players/3a819038/Cristian-Andreoni,3a819038,Bari,77.0,0.9,0.0,0.0,192,9.0,22858,Bari
+,Daniel Semenzato,it ITA,"DF,MF",1,1,0.0,0.0,2020-2021,/en/players/2ebfc410/Daniel-Semenzato,2ebfc410,Bari,59.0,0.7,0.0,0.0,192,9.0,23300,Bari
+,Tommaso D'Orazio,it ITA,"DF,MF",1,1,0.0,0.0,2020-2021,/en/players/6e1249fe/Tommaso-DOrazio,6e1249fe,Bari,45.0,0.5,0.0,0.0,192,9.0,22879,Bari
+,Matteo Ciofani,it ITA,"DF,MF",2,0,0.0,0.0,2020-2021,/en/players/d9448e6b/Matteo-Ciofani,d9448e6b,Bari,95.0,1.1,0.0,0.0,192,9.0,22798,Bari
+,Manuel Scavone,it ITA,MF,1,0,0.0,0.0,2020-2021,/en/players/c278980c/Manuel-Scavone,c278980c,Bari,32.0,0.4,0.0,0.0,192,9.0,20132,Bari
+,Simone Simeri,it ITA,FW,1,0,0.0,0.0,2020-2021,/en/players/07f2356e/Simone-Simeri,07f2356e,Bari,24.0,0.3,0.0,0.0,192,9.0,22885,Bari
+,Filippo Berra,it ITA,DF,0,0,,,2020-2021,/en/players/fabb351b/Filippo-Berra,fabb351b,Bari,,,,,192,9.0,23301,Bari
+,Valerio Di Cesare,it ITA,DF,0,0,,,2020-2021,/en/players/3cddfc7e/Valerio-Di-Cesare,3cddfc7e,Bari,,,,,192,9.0,20137,Bari
+,Giuseppe Esposito,it ITA,DF,0,0,,,2020-2021,/en/players/6f2f04e7/Giuseppe-Esposito,6f2f04e7,Bari,,,,,192,9.0,90919,Bari
+,Luca Liso,it ITA,GK,0,0,,,2020-2021,/en/players/504a20bf/Luca-Liso,504a20bf,Bari,,,,,192,9.0,23302,Bari
+,Giuseppe Polichetti,,DF,0,0,,,2020-2021,/en/players/7f6401c7/Giuseppe-Polichetti,7f6401c7,Bari,,,,,192,,90920,Bari
+,Gianluca Stasi,it ITA,FW,0,0,,,2020-2021,/en/players/3b1f4561/Gianluca-Stasi,3b1f4561,Bari,,,,,192,9.0,23303,Bari

@@ -1,123 +1,274 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-4100.0,Iñaki Descarga,/en/players/a4c20d02/Inaki-Descarga,Inaki-Descarg,4c20d02,es ESP,DF,Levante
-4101.0,Tomás Olías,/en/players/74795116/Tomas-Olias,Tomas-Oli,74795116,es ESP,DF,Levante
-4102.0,Predrag Mijatović,/en/players/1191c3d6/Predrag-Mijatovic,Predrag-Mijatovic,1191c3d6,rs SRB,"FW,MF",Levante
-4103.0,Francisco Castaño,/en/players/72dad144/Francisco-Castano,Francisco-Castano,72dad144,es ESP,MF,Levante
-4104.0,José Aizpurúa,/en/players/c7bb97a7/Jose-Aizpurua,Jose-Aizpuru,c7bb97a7,es ESP,GK,Levante
-4105.0,Chota,/en/players/6e8a6c53/Chota,Chot,6e8a6c53,es ESP,FW,Levante
-4106.0,Félix Dja Ettien,/en/players/4c443cac/Felix-Dja-Ettien,Felix-Dja-Etti,4c443cac,ci CIV,MF,Levante
-4107.0,Domingo Larrainzar,/en/players/747cdf38/Domingo-Larrainzar,Domingo-Larrainz,747cdf38,es ESP,DF,Levante
-4108.0,Juanra,/en/players/616d9a30/Juanra,Ju,616d9a30,es ESP,DF,Levante
-4109.0,Paco,/en/players/703b3fd8/Paco,Paco,703b3fd8,es ESP,GK,Levante
-4110.0,Luismi,/en/players/f345089d/Luismi,Luismi,f345089d,es ESP,"FW,MF",Levante
-4111.0,Luis Rubiales,/en/players/a543fb98/Luis-Rubiales,Luis-Rubi,543fb98,es ESP,DF,Levante
-4112.0,Gustavo Reggi,/en/players/877bbcf1/Gustavo-Reggi,Gustavo-Reggi,877bbcf1,ar ARG,FW,Levante
-4113.0,Ángel Cuéllar,/en/players/ed134a9f/Angel-Cuellar,Angel-Cu,d134a9f,es ESP,"FW,MF",Levante
-4114.0,Emilio Rentería,/en/players/cca6c4e8/Emilio-Renteria,Emilio-Renteri,cca6c4e8,ve VEN,FW,Levante
-4115.0,José Antonio Culebras,/en/players/c8b270a2/Jose-Antonio-Culebras,Jose-Antonio-Culeb,c8b270a2,es ESP,DF,Levante
-4116.0,Ian Harte,/en/players/fd4fa092/Ian-Harte,Ian-Hart,fd4fa092,ie IRL,DF,Levante
-4117.0,Johan Mjällby,/en/players/c2f225df/Johan-Mjallby,Johan-Mjallb,c2f225df,se SWE,"DF,MF",Levante
-4118.0,Riga Mustapha,/en/players/eb666286/Riga-Mustapha,Riga-Mustaph,b666286,nl NED,"FW,MF",Levante
-4119.0,Carmelo González,/en/players/27f4e837/Carmelo-Gonzalez,Carmelo-Gonzalez,27f4e837,es ESP,MF,Levante
-4120.0,Sylvain N'Diaye,/en/players/fb5f3505/Sylvain-NDiaye,Sylvain-NDi,fb5f3505,sn SEN,"DF,MF",Levante
-4121.0,Juan Carlos Ceballos,/en/players/ac304dce/Juan-Carlos-Ceballos,Juan-Carlos-Ceballo,c304dce,es ESP,DF,Levante
-4122.0,Laurent Courtois,/en/players/fdd8f774/Laurent-Courtois,Laurent-Courtoi,fdd8f774,fr FRA,MF,Levante
-4123.0,Javi Rodríguez,/en/players/2447458d/Javi-Rodriguez,Javi-Rodriguez,2447458d,es ESP,FW,Levante
-4124.0,Manuel Diego Tello,/en/players/ffa85313/Manuel-Diego-Tello,Manuel-Diego-Tello,ffa85313,es ESP,MF,Levante
-4125.0,Olivier Kapo,/en/players/992c2db8/Olivier-Kapo,Olivier-Kapo,992c2db8,fr FRA,"FW,MF",Levante
-4126.0,Mathieu Berson,/en/players/31d48214/Mathieu-Berson,Mathieu-Berso,31d48214,fr FRA,MF,Levante
-4127.0,Damiano Tommasi,/en/players/46361093/Damiano-Tommasi,Damiano-Tommasi,46361093,it ITA,MF,Levante
-4128.0,Zé Maria,/en/players/c4e72f3d/Ze-Maria,Ze-Mari,c4e72f3d,br BRA,DF,Levante
-4129.0,Laurent Robert,/en/players/2f907a4b/Laurent-Robert,Laurent-Robert,2f907a4b,fr FRA,"FW,MF",Levante
-4130.0,Péguy Luyindula,/en/players/cedc0a16/Peguy-Luyindula,Peguy-Luyindu,cedc0a16,fr FRA,"FW,MF",Levante
-4131.0,Marco Storari,/en/players/fb5eb6e0/Marco-Storari,Marco-Storari,fb5eb6e0,it ITA,GK,Levante
-4132.0,Bruno Cirillo,/en/players/94ffc023/Bruno-Cirillo,Bruno-Cirillo,94ffc023,it ITA,DF,Levante
-4133.0,Vladan Kujović,/en/players/aa6b1711/Vladan-Kujovic,Vladan-Kujovic,6b1711,rs SRB,GK,Levante
-4134.0,Christian Riganò,/en/players/156b57da/Christian-Rigano,Christian-Rigano,156b57da,it ITA,FW,Levante
-4135.0,Miquel Robusté,/en/players/4be9a341/Miquel-Robuste,Miquel-Robust,4be9a341,es ESP,DF,Levante
-4136.0,Shota Arveladze,/en/players/cd4e0298/Shota-Arveladze,Shota-Arveladz,cd4e0298,ge GEO,FW,Levante
-4137.0,Rubén Suárez,/en/players/addc6eca/Ruben-Suarez,Ruben-Suarez,ddc6eca,es ESP,MF,Levante
-4138.0,Pedro Vega,/en/players/aec634a0/Pedro-Vega,Pedro-Veg,c634a0,es ESP,MF,Levante
-4139.0,Álvaro del Moral,/en/players/fc4faad5/Alvaro-del-Moral,Alvaro-del-Mo,fc4faad5,es ESP,FW,Levante
-4140.0,Alejandro Vázquez,/en/players/6b6a8419/Alejandro-Vazquez,Alejandro-Vazquez,6b6a8419,es ESP,DF,Levante
-4141.0,Marc Mateu,/en/players/ed90fc36/Marc-Mateu,Marc-Mateu,d90fc36,es ESP,"DF,MF",Levante
-4142.0,Felipe Manoel,/en/players/80af5ae3/Felipe-Manoel,Felipe-Mano,80af5ae3,br BRA,MF,Levante
-4143.0,Mossa,/en/players/cbfa9c63/Mossa,Mo,cbfa9c63,es ESP,"DF,MF",Levante
-4144.0,Omar Monterde,/en/players/2b74c107/Omar-Monterde,Omar-Monterd,2b74c107,es ESP,MF,Levante
-4145.0,Rubén Sánchez,/en/players/8b90d832/Ruben-Sanchez,Ruben-Sanchez,8b90d832,es ESP,MF,Levante
-4146.0,Dani Carril,/en/players/718167d2/Dani-Carril,Dani-Carri,718167d2,es ESP,DF,Levante
-4147.0,Serra,/en/players/df52ea5f/Serra,S,df52ea5f,es ESP,DF,Levante
-4148.0,Igor de Souza,/en/players/1c73ef45/Igor-de-Souza,Igor-de-Souz,1c73ef45,br BRA,FW,Levante
-4149.0,Rafa Jordà,/en/players/05e805eb/Rafa-Jorda,Rafa-Jord,05e805eb,es ESP,FW,Levante
-4150.0,Adrián Lois,/en/players/4337da46/Adrian-Lois,Adrian-Loi,4337da46,es ESP,MF,Levante
-4151.0,Nacho González,/en/players/53031e02/Nacho-Gonzalez,Nacho-Gonzalez,5.30E+06,uy URU,MF,Levante
-4152.0,Sergio Abad Beyxer,/en/players/30f729b3/Sergio-Abad-Beyxer,Sergio-Abad-Beyx,30f729b3,es ESP,MF,Levante
-4153.0,Nabil El Zhar,/en/players/37f96552/Nabil-El-Zhar,Nabil-El-Zh,37f96552,ma MAR,"FW,MF",Levante
-4154.0,Abdelkader Ghezzal,/en/players/9152a181/Abdelkader-Ghezzal,Abdelkader-Ghezz,9152a181,dz ALG,FW,Levante
-4155.0,José Higón,/en/players/562194e6/Jose-Higon,Jose-Higo,5.62E+11,es ESP,MF,Levante
-4156.0,Christian Lell,/en/players/37d7f47d/Christian-Lell,Christian-L,37d7f47d,de GER,DF,Levante
-4157.0,Obafemi Martins,/en/players/70849fc2/Obafemi-Martins,Obafemi-Marti,70849fc2,ng NGA,FW,Levante
-4158.0,Loukas Vyntra,/en/players/db07afa3/Loukas-Vyntra,Loukas-Vynt,db07afa3,gr GRE,DF,Levante
-4159.0,Robert Acquafresca,/en/players/d2b115ae/Robert-Acquafresca,Robert-Acquafresc,d2b115ae,it ITA,FW,Levante
-4160.0,Simão Mate Junior,/en/players/68723d1f/Simao-Mate-Junior,Simao-Mate-Junio,68723d1f,mz MOZ,"DF,MF",Levante
-4161.0,Theofanis Gekas,/en/players/244bc211/Theofanis-Gekas,Theofanis-Gek,244bc211,gr GRE,FW,Levante
-4162.0,Dariusz Dudka,/en/players/afe5aff7/Dariusz-Dudka,Dariusz-Dudk,fe5aff7,pl POL,"DF,MF",Levante
-4163.0,Andreas Ivanschitz,/en/players/d045ccb2/Andreas-Ivanschitz,Andreas-Ivanschitz,d045ccb2,at AUT,MF,Levante
-4164.0,Sérgio Pinto,/en/players/85ecb7ea/Sergio-Pinto,Sergio-Pinto,85ecb7ea,pt POR,"FW,MF",Levante
-4165.0,Issam El Adoua,/en/players/16edc522/Issam-El-Adoua,Issam-El-Adou,16edc522,ma MAR,DF,Levante
-4166.0,﻿José Luis Morales,/en/players/4a478107/Jose-Luis-Morales,Jose-Luis-Mo,4a478107,es ESP,"FW,MF",Levante
-4167.0,Iván López,/en/players/576575e5/Ivan-Lopez,Ivan-Lopez,5.77E+10,es ESP,DF,Levante
-4168.0,Rafael Martins,/en/players/b7e1c3b5/Rafael-Martins,Rafael-Marti,b7e1c3b5,br BRA,FW,Levante
-4169.0,﻿Jefferson Lerma,/en/players/9b5ce51a/Jefferson-Lerma,Jefferson-Lerm,9b5ce51a,co COL,"MF,DF",Levante
-4170.0,Carl Medjani,/en/players/70c2f41a/Carl-Medjani,Carl-Medjani,70c2f41a,dz ALG,DF,Levante
-4171.0,Nabil Ghilas,/en/players/cee627f6/Nabil-Ghilas,Nabil-Ghi,cee627f6,dz ALG,FW,Levante
-4172.0,Ángel Trujillo,/en/players/08011c9c/Angel-Trujillo,Angel-Trujillo,08011c9c,es ESP,DF,Levante
-4173.0,Mauricio Cuero,/en/players/7e03c92a/Mauricio-Cuero,Mauricio-Cuero,7e03c92a,co COL,"MF,FW",Levante
-4174.0,Dani Calvo,/en/players/dd672e1f/Dani-Calvo,Dani-Calvo,dd672e1f,es ESP,DF,Levante
-4175.0,Álvaro Traver,/en/players/f608a6b0/Alvaro-Traver,Alvaro-Trav,f608a6b0,es ESP,MF,Levante
-4176.0,José Luis García Vayá,/en/players/27dc1378/Jose-Luis-Garcia-Vaya,Jose-Luis-Garcia-V,27dc1378,es ESP,MF,Levante
-4177.0,Sergio Postigo,/en/players/474ecac8/Sergio-Postigo,Sergio-Postigo,474ecac8,es ESP,DF,Levante
-4178.0,Allyson,/en/players/57e72dc9/Allyson,Allyso,57e72dc9,br BRA,FW,Levante
-4179.0,Kaiser,/en/players/3e729bb0/Kaiser,Kai,3e729bb0,es ESP,DF,Levante
-4180.0,Son,/en/players/037dbd30/Son,So,037dbd30,es ESP,DF,Levante
-4181.0,Enis Bardhi,/en/players/cac2537b/Enis-Bardhi,Enis-Bardhi,cac2537b,mk MKD,MF,Levante
-4182.0,Cheick Doukouré,/en/players/e208bcc8/Cheick-Doukoure,Cheick-Doukou,208bcc8,ci CIV,MF,Levante
-4183.0,Saša Lukić,/en/players/c6e8cf1f/Sasa-Lukic,Sasa-Lukic,c6e8cf1f,rs SRB,MF,Levante
-4184.0,Emmanuel Boateng,/en/players/2e23c66b/Emmanuel-Boateng,Emmanuel-Boateng,2e23c66b,gh GHA,FW,Levante
-4185.0,Giampaolo Pazzini,/en/players/6ca663b4/Giampaolo-Pazzini,Giampaolo-Pazzini,6ca663b4,it ITA,FW,Levante
-4186.0,Shaquell Moore,/en/players/3b9f859b/Shaquell-Moore,Shaquell-Moo,3b9f859b,us USA,DF,Levante
-4187.0,Aly Abeid,/en/players/bbe88396/Aly-Abeid,Aly-Abeid,bbe88396,mr MTN,DF,Levante
-4188.0,Fahad Al Muwallad,/en/players/23f32ea1/Fahad-Al-Muwallad,Fahad-Al-Muwallad,23f32ea1,sa KSA,MF,Levante
-4189.0,Mitchell Langerak,/en/players/d2a184cc/Mitchell-Langerak,Mitchell-Langerak,d2a184cc,au AUS,GK,Levante
-4190.0,Nikola Vukčević,/en/players/4442fbcd/Nikola-Vukcevic,Nikola-Vukcevic,4442fbcd,me MNE,MF,Levante
-4191.0,Moses Simon,/en/players/5f3eaaf5/Moses-Simon,Moses-Simo,5f3eaaf5,ng NGA,"DF,MF",Levante
-4192.0,Sanjin Prcić,/en/players/51c30111/Sanjin-Prcic,Sanjin-Prcic,51c30111,ba BIH,MF,Levante
-4193.0,Fran Manzanara,/en/players/bbfaeda4/Fran-Manzanara,Fran-Manz,bbfaeda4,es ESP,"DF,MF",Levante
-4194.0,Jorge Miramón,/en/players/7f4c7c9f/Jorge-Miramon,Jorge-Miramo,7f4c7c9f,es ESP,DF,Levante
-4195.0,Hernâni Fortes,/en/players/2327c29e/Hernani-Fortes,Hernani-Fort,2327c29e,pt POR,"MF,FW",Levante
-4196.0,Eliseo Falcon,/en/players/904cd50d/Eliseo-Falcon,Eliseo-Falco,904cd50d,es ESP,DF,Levante
-4197.0,Pablo Martínez,/en/players/ecc77652/Pablo-Martinez,Pablo-Martinez,cc77652,es ESP,MF,Levante
-4198.0,Gonzalo,/en/players/cca05da8/Gonzalo,Gonzalo,cca05da8,es ESP,DF,Levante
-4199.0,Joan Monterde,/en/players/0ff67313/Joan-Monterde,Joan-Monterd,0ff67313,es ESP,MF,Levante
-4200.0,Alejandro Blesa,/en/players/d2ed99b4/Alejandro-Blesa,Alejandro-B,d2ed99b4,es ESP,MF,Levante
-4201.0,Giorgi Kochorashvili,/en/players/3da1b6ed/Giorgi-Kochorashvili,Giorgi-Kochorashvili,3da1b6ed,ge GEO,MF,Levante
-4202.0,Cárdenas,/en/players/e1846dde/Cardenas,Card,1846dde,es ESP,GK,Levante
-4203.0,Rubén García,/en/players/c01826cb/Ruben-Garcia,Ruben-Garci,c01826cb,es ESP,DF,Levante
-4204.0,Gonzalo Melero,/en/players/3902e91b/Gonzalo-Melero,Gonzalo-Melero,3902e91b,es ESP,"MF,FW",Levante
-4205.0,Dani Gómez,/en/players/0e5ddc7c/Dani-Gomez,Dani-Gomez,0e5ddc7c,es ESP,FW,Levante
-4206.0,Álex Cantero,/en/players/4aa253fd/Alex-Cantero,Alex-Cantero,4aa253fd,es ESP,FW,Levante
-4207.0,Edgar Sevikyan,/en/players/3e8bb8ce/Edgar-Sevikyan,Edgar-Sevik,3e8bb8ce,ru RUS,MF,Levante
-4208.0,Pablo Cuñat,/en/players/a9ab3b32/Pablo-Cunat,Pablo-Cunat,9ab3b32,es ESP,GK,Levante
-4209.0,Euse,/en/players/4aab1808/Euse,Eu,4aab1808,es ESP,DF,Levante
-4210.0,Alfredo Pedraza,/en/players/7e9fa139/Alfredo-Pedraza,Alfredo-Pedraz,7e9fa139,es ESP,DF,Levante
-4211.0,Enric Franquesa,/en/players/40883e3a/Enric-Franquesa,Enric-Franqu,40883e3a,es ESP,"DF,FW",Levante
-4212.0,Pubill,/en/players/365113c0/Pubill,Pubi,365113c0,es ESP,"DF,MF",Levante
-4213.0,Marcelo Saracchi,/en/players/1c96ad85/Marcelo-Saracchi,Marcelo-Saracchi,1c96ad85,uy URU,DF,Levante
-4214.0,Alejandro Primo,/en/players/f38284bb/Alejandro-Primo,Alejandro-Primo,f38284bb,es ESP,GK,Levante
-4215.0,Omar Faraj,/en/players/de627c8a/Omar-Faraj,Omar-Faraj,de627c8a,se SWE,FW,Levante
-4216.0,Carlos Benitez,/en/players/594f4607/Carlos-Benitez,Carlos-Benitez,594f4607,es ESP,MF,Levante
-4217.0,Carlos Giménez,/en/players/877a34f4/Carlos-Gimenez,Carlos-Gimenez,877a34f4,es ESP,DF,Levante
-4218.0,Joseda,/en/players/d989154a/Joseda,Josed,d989154a,es ESP,DF,Levante
-4219.0,Antonio Leal,/en/players/2462ec90/Antonio-Leal,Antonio-L,2462ec90,es ESP,DF,Levante
-4220.0,José Manuel,/en/players/27581509/Jose-Manuel,Jose-Manu,27581509,es ESP,DF,Levante
-4221.0,Pablo Picón,/en/players/03efb75e/Pablo-Picon,Pablo-Pico,03efb75e,es ESP,GK,Levante
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+6024.0,Christian Díaz,/en/players/4c6f6ef4/Christian-Diaz,Christian-Diaz,4c6f6ef4,ar ARG,"DF,MF",Levante
+6025.0,Santiago Carpintero,/en/players/139b88a8/Santiago-Carpintero,Santiago-Carpintero,139b88a8,es ESP,MF,Levante
+6026.0,Gabriel Amato,/en/players/eb571f57/Gabriel-Amato,Gabriel-Amato,b571f57,ar ARG,FW,Levante
+6027.0,Iñaki Descarga,/en/players/a4c20d02/Inaki-Descarga,Inaki-Descarg,4c20d02,es ESP,DF,Levante
+6028.0,Tomás Olías,/en/players/74795116/Tomas-Olias,Tomas-Oli,74795116,es ESP,DF,Levante
+6029.0,Jofre,/en/players/90bf887c/Jofre,Jof,90bf887c,es ESP,MF,Levante
+6030.0,Alberto Rivera,/en/players/7002b605/Alberto-Rivera,Alberto-Riv,7002b605,es ESP,MF,Levante
+6031.0,Predrag Mijatović,/en/players/1191c3d6/Predrag-Mijatovic,Predrag-Mijatovic,1191c3d6,rs SRB,"FW,MF",Levante
+6032.0,Francisco Castaño,/en/players/72dad144/Francisco-Castano,Francisco-Castano,72dad144,es ESP,MF,Levante
+6033.0,Edwin Congo,/en/players/08925878/Edwin-Congo,Edwin-Congo,08925878,co COL,FW,Levante
+6034.0,Duda,/en/players/13d41642/Duda,Dud,13d41642,pt POR,"DF,FW",Levante
+6035.0,José Aizpurúa,/en/players/c7bb97a7/Jose-Aizpurua,Jose-Aizpuru,c7bb97a7,es ESP,GK,Levante
+6036.0,Chota,/en/players/6e8a6c53/Chota,Chot,6e8a6c53,es ESP,FW,Levante
+6037.0,Ángel Lekumberri,/en/players/a7f69653/Angel-Lekumberri,Angel-Lekumberri,7f69653,es ESP,MF,Levante
+6038.0,Félix Dja Ettien,/en/players/4c443cac/Felix-Dja-Ettien,Felix-Dja-Etti,4c443cac,ci CIV,MF,Levante
+6039.0,Domingo Larrainzar,/en/players/747cdf38/Domingo-Larrainzar,Domingo-Larrainz,747cdf38,es ESP,DF,Levante
+6040.0,Juanra,/en/players/616d9a30/Juanra,Ju,616d9a30,es ESP,DF,Levante
+6041.0,Paco,/en/players/703b3fd8/Paco,Paco,703b3fd8,es ESP,GK,Levante
+6042.0,Luismi,/en/players/f345089d/Luismi,Luismi,f345089d,es ESP,"FW,MF",Levante
+6043.0,Alexis,/en/players/b9efd503/Alexis,Alexi,b9efd503,es ESP,DF,Levante
+6044.0,Jesule,/en/players/83c1aaf2/Jesule,Jesu,83c1aaf2,es ESP,DF,Levante
+6045.0,Tito,/en/players/8f451bf9/Tito,Tito,8f451bf9,es ESP,MF,Levante
+6046.0,Pablo Pinillos Caro,/en/players/9d19d667/Pablo-Pinillos-Caro,Pablo-Pinillos-Caro,9d19d667,es ESP,DF,Levante
+6047.0,David Aganzo,/en/players/97e3ba49/David-Aganzo,David-Aganzo,97e3ba49,es ESP,FW,Levante
+6048.0,Luis Rubiales,/en/players/a543fb98/Luis-Rubiales,Luis-Rubi,543fb98,es ESP,DF,Levante
+6049.0,Gustavo Reggi,/en/players/877bbcf1/Gustavo-Reggi,Gustavo-Reggi,877bbcf1,ar ARG,FW,Levante
+6050.0,Ángel Cuéllar,/en/players/ed134a9f/Angel-Cuellar,Angel-Cu,d134a9f,es ESP,"FW,MF",Levante
+6051.0,Sandro,/en/players/9c890cc8/Sandro,Sandro,9c890cc8,es ESP,MF,Levante
+6052.0,Emilio Rentería,/en/players/cca6c4e8/Emilio-Renteria,Emilio-Renteri,cca6c4e8,ve VEN,FW,Levante
+6053.0,﻿Juan Luis Mora,/en/players/2e1a7599/Juan-Luis-Mora,Juan-Luis-Mo,2e1a7599,es ESP,GK,Levante
+6054.0,Sergio García,/en/players/2bee98fd/Sergio-Garcia,Sergio-Garci,2bee98fd,es ESP,"FW,MF",Levante
+6055.0,José Antonio Culebras,/en/players/c8b270a2/Jose-Antonio-Culebras,Jose-Antonio-Culeb,c8b270a2,es ESP,DF,Levante
+6056.0,Ian Harte,/en/players/fd4fa092/Ian-Harte,Ian-Hart,fd4fa092,ie IRL,DF,Levante
+6057.0,Vladimir Manchev,/en/players/005a9b28/Vladimir-Manchev,Vladimir-Manchev,005a9b28,bg BUL,FW,Levante
+6058.0,Fabio Celestini,/en/players/c36ce86e/Fabio-Celestini,Fabio-Celestini,c36ce86e,ch SUI,MF,Levante
+6059.0,Nacho,/en/players/07537011/Nacho,Nacho,07537011,es ESP,"DF,MF",Levante
+6060.0,Diego Camacho,/en/players/ba4b3cf3/Diego-Camacho,Diego-Camacho,ba4b3cf3,es ESP,MF,Levante
+6061.0,Juanma,/en/players/f4f22926/Juanma,Juanm,f4f22926,es ESP,MF,Levante
+6062.0,Johan Mjällby,/en/players/c2f225df/Johan-Mjallby,Johan-Mjallb,c2f225df,se SWE,"DF,MF",Levante
+6063.0,Pablo Cavallero,/en/players/754d4db5/Pablo-Cavallero,Pablo-Cavallero,754d4db5,ar ARG,GK,Levante
+6064.0,Riga Mustapha,/en/players/eb666286/Riga-Mustapha,Riga-Mustaph,b666286,nl NED,"FW,MF",Levante
+6065.0,Carmelo González,/en/players/27f4e837/Carmelo-Gonzalez,Carmelo-Gonzalez,27f4e837,es ESP,MF,Levante
+6066.0,Sylvain N'Diaye,/en/players/fb5f3505/Sylvain-NDiaye,Sylvain-NDi,fb5f3505,sn SEN,"DF,MF",Levante
+6067.0,Txomin Nagore,/en/players/41a60718/Txomin-Nagore,Txomin-Nago,41a60718,es ESP,MF,Levante
+6068.0,Juan Carlos Ceballos,/en/players/ac304dce/Juan-Carlos-Ceballos,Juan-Carlos-Ceballo,c304dce,es ESP,DF,Levante
+6069.0,Laurent Courtois,/en/players/fdd8f774/Laurent-Courtois,Laurent-Courtoi,fdd8f774,fr FRA,MF,Levante
+6070.0,Javi Rodríguez,/en/players/2447458d/Javi-Rodriguez,Javi-Rodriguez,2447458d,es ESP,FW,Levante
+6071.0,Manuel Diego Tello,/en/players/ffa85313/Manuel-Diego-Tello,Manuel-Diego-Tello,ffa85313,es ESP,MF,Levante
+6072.0,﻿José Molina,/en/players/b0d136e8/Jose-Molina,Jose-Moli,b0d136e8,es ESP,GK,Levante
+6073.0,Olivier Kapo,/en/players/992c2db8/Olivier-Kapo,Olivier-Kapo,992c2db8,fr FRA,"FW,MF",Levante
+6074.0,Mathieu Berson,/en/players/31d48214/Mathieu-Berson,Mathieu-Berso,31d48214,fr FRA,MF,Levante
+6075.0,Álvaro,/en/players/3bb76c65/Alvaro,Alvaro,3bb76c65,br BRA,DF,Levante
+6076.0,Damiano Tommasi,/en/players/46361093/Damiano-Tommasi,Damiano-Tommasi,46361093,it ITA,MF,Levante
+6077.0,Salva Ballesta,/en/players/bd42bcb8/Salva-Ballesta,Salva-Ballest,bd42bcb8,es ESP,FW,Levante
+6078.0,Manolo Gaspar,/en/players/be800693/Manolo-Gaspar,Manolo-G,be800693,es ESP,DF,Levante
+6079.0,Zé Maria,/en/players/c4e72f3d/Ze-Maria,Ze-Mari,c4e72f3d,br BRA,DF,Levante
+6080.0,Nino,/en/players/03dc5b1f/Nino,Nino,03dc5b1f,es ESP,"FW,MF",Levante
+6081.0,José Serrano,/en/players/9bc30fb8/Jose-Serrano,Jose-Serrano,9bc30fb8,es ESP,DF,Levante
+6082.0,Laurent Robert,/en/players/2f907a4b/Laurent-Robert,Laurent-Robert,2f907a4b,fr FRA,"FW,MF",Levante
+6083.0,Albert Meyong,/en/players/f718a9b0/Albert-Meyong,Albert-Meyong,f718a9b0,cm CMR,FW,Levante
+6084.0,Péguy Luyindula,/en/players/cedc0a16/Peguy-Luyindula,Peguy-Luyindu,cedc0a16,fr FRA,"FW,MF",Levante
+6085.0,César Martín,/en/players/f29d6eb0/Cesar-Martin,Cesar-Marti,f29d6eb0,es ESP,DF,Levante
+6086.0,Alexandre Geijo,/en/players/c0787e61/Alexandre-Geijo,Alexandre-Geijo,c0787e61,es ESP,FW,Levante
+6087.0,Miguel Ángel,/en/players/7542ce83/Miguel-Angel,Miguel-Ang,7542ce83,es ESP,MF,Levante
+6088.0,David Castedo,/en/players/d39ba62e/David-Castedo,David-Castedo,d39ba62e,es ESP,DF,Levante
+6089.0,Javi Fuego,/en/players/2e8fc160/Javi-Fuego,Javi-Fuego,2e8fc160,es ESP,MF,Levante
+6090.0,Marco Storari,/en/players/fb5eb6e0/Marco-Storari,Marco-Storari,fb5eb6e0,it ITA,GK,Levante
+6091.0,Bruno Cirillo,/en/players/94ffc023/Bruno-Cirillo,Bruno-Cirillo,94ffc023,it ITA,DF,Levante
+6092.0,Vladan Kujović,/en/players/aa6b1711/Vladan-Kujovic,Vladan-Kujovic,6b1711,rs SRB,GK,Levante
+6093.0,Pedro León,/en/players/d66b9872/Pedro-Leon,Pedro-Leo,d66b9872,es ESP,"FW,MF",Levante
+6094.0,Christian Riganò,/en/players/156b57da/Christian-Rigano,Christian-Rigano,156b57da,it ITA,FW,Levante
+6095.0,Manolo Reina,/en/players/605eb473/Manolo-Reina,Manolo-Rei,605eb473,es ESP,GK,Levante
+6096.0,Armando Lozano,/en/players/e2daac0b/Armando-Lozano,Armando-Lozano,2daac0b,es ESP,DF,Levante
+6097.0,Saúl,/en/players/a4a317b2/Saul,Sau,4a317b2,es ESP,MF,Levante
+6098.0,Vicente Iborra,/en/players/ad1ffcfd/Vicente-Iborra,Vicente-Ibo,d1ffcfd,es ESP,MF,Levante
+6099.0,Miquel Robusté,/en/players/4be9a341/Miquel-Robuste,Miquel-Robust,4be9a341,es ESP,DF,Levante
+6100.0,Emilio Viqueira,/en/players/5c0b59d4/Emilio-Viqueira,Emilio-Viquei,5c0b59d4,es ESP,MF,Levante
+6101.0,Shota Arveladze,/en/players/cd4e0298/Shota-Arveladze,Shota-Arveladz,cd4e0298,ge GEO,FW,Levante
+6102.0,﻿Sergio Ballesteros,/en/players/29863c56/Sergio-Ballesteros,Sergio-Ballestero,29863c56,es ESP,DF,Levante
+6103.0,David Cerrajería,/en/players/2ebb9df6/David-Cerrajeria,David-Cerrajeri,2ebb9df6,es ESP,DF,Levante
+6104.0,Xisco Nadal,/en/players/5dc11264/Xisco-Nadal,Xisco-Nad,5dc11264,es ESP,"FW,MF",Levante
+6105.0,Ángel,/en/players/4c3f3098/Angel,Ang,4c3f3098,es ESP,DF,Levante
+6106.0,Miguel Pérez,/en/players/b3f9e645/Miguel-Perez,Miguel-Perez,b3f9e645,es ESP,MF,Levante
+6107.0,Jorge Pina Roldán,/en/players/c8ab4ea9/Jorge-Pina-Roldan,Jorge-Pina-Rold,c8ab4ea9,es ESP,MF,Levante
+6108.0,Samuel Baños,/en/players/f3ce81bd/Samuel-Banos,Samuel-Bano,f3ce81bd,es ESP,MF,Levante
+6109.0,Francisco Molinero,/en/players/2cea96ce/Francisco-Molinero,Francisco-Molinero,2cea96ce,es ESP,DF,Levante
+6110.0,Miguel Pallardó,/en/players/6c3dfe68/Miguel-Pallardo,Miguel-Pallardo,6c3dfe68,es ESP,MF,Levante
+6111.0,Rubén Suárez,/en/players/addc6eca/Ruben-Suarez,Ruben-Suarez,ddc6eca,es ESP,MF,Levante
+6112.0,Gorka Larrea,/en/players/242e09b6/Gorka-Larrea,Gorka-L,242e09b6,es ESP,MF,Levante
+6113.0,Pedro Vega,/en/players/aec634a0/Pedro-Vega,Pedro-Veg,c634a0,es ESP,MF,Levante
+6114.0,Miguel Ángel Tena,/en/players/e6389c2b/Miguel-Angel-Tena,Miguel-Angel-T,6389c2b,es ESP,DF,Levante
+6115.0,Yago Yao,/en/players/a25c8b6c/Yago-Yao,Yago-Yao,25c8b6c,gq EQG,DF,Levante
+6116.0,Álvaro del Moral,/en/players/fc4faad5/Alvaro-del-Moral,Alvaro-del-Mo,fc4faad5,es ESP,FW,Levante
+6117.0,Adrián Martín,/en/players/53eabc97/Adrian-Martin,Adrian-Marti,53eabc97,es ESP,MF,Levante
+6118.0,Manu Herrera,/en/players/ad2acc39/Manu-Herrera,Manu-H,d2acc39,es ESP,GK,Levante
+6119.0,Héctor Rodas,/en/players/dcdd3a95/Hector-Rodas,Hector-Rod,dcdd3a95,es ESP,DF,Levante
+6120.0,Alejandro Vázquez,/en/players/6b6a8419/Alejandro-Vazquez,Alejandro-Vazquez,6b6a8419,es ESP,DF,Levante
+6121.0,Marc Mateu,/en/players/ed90fc36/Marc-Mateu,Marc-Mateu,d90fc36,es ESP,"DF,MF",Levante
+6122.0,Felipe Manoel,/en/players/80af5ae3/Felipe-Manoel,Felipe-Mano,80af5ae3,br BRA,MF,Levante
+6123.0,Mossa,/en/players/cbfa9c63/Mossa,Mo,cbfa9c63,es ESP,"DF,MF",Levante
+6124.0,Omar Monterde,/en/players/2b74c107/Omar-Monterde,Omar-Monterd,2b74c107,es ESP,MF,Levante
+6125.0,Rubén Sánchez,/en/players/8b90d832/Ruben-Sanchez,Ruben-Sanchez,8b90d832,es ESP,MF,Levante
+6126.0,Juanlu,/en/players/94b88487/Juanlu,Juanlu,94b88487,es ESP,MF,Levante
+6127.0,Pau Cendrós,/en/players/9b9c9388/Pau-Cendros,Pau-Cendro,9b9c9388,es ESP,DF,Levante
+6128.0,Javi Guerra,/en/players/aa386464/Javi-Guerra,Javi-Gu,386464,es ESP,FW,Levante
+6129.0,Xisco,/en/players/efaaae13/Xisco,Xisco,faaae13,es ESP,"FW,MF",Levante
+6130.0,Juanfran,/en/players/d8a22e59/Juanfran,Juanf,d8a22e59,es ESP,DF,Levante
+6131.0,Dani Carril,/en/players/718167d2/Dani-Carril,Dani-Carri,718167d2,es ESP,DF,Levante
+6132.0,Serra,/en/players/df52ea5f/Serra,S,df52ea5f,es ESP,DF,Levante
+6133.0,Igor de Souza,/en/players/1c73ef45/Igor-de-Souza,Igor-de-Souz,1c73ef45,br BRA,FW,Levante
+6134.0,Rafa Jordà,/en/players/05e805eb/Rafa-Jorda,Rafa-Jord,05e805eb,es ESP,FW,Levante
+6135.0,Adrián Lois,/en/players/4337da46/Adrian-Lois,Adrian-Loi,4337da46,es ESP,MF,Levante
+6136.0,Xavi Torres,/en/players/1b51ad2f/Xavi-Torres,Xavi-To,1b51ad2f,es ESP,MF,Levante
+6137.0,Javi Venta,/en/players/fc3efd36/Javi-Venta,Javi-Vent,fc3efd36,es ESP,DF,Levante
+6138.0,Nano,/en/players/3d6dd9f9/Nano,Nano,3d6dd9f9,es ESP,DF,Levante
+6139.0,Valdo,/en/players/5d34e206/Valdo,Valdo,5d34e206,cv CPV,"FW,MF",Levante
+6140.0,Felipe Caicedo,/en/players/93b891d1/Felipe-Caicedo,Felipe-Caicedo,93b891d1,ec ECU,"FW,MF",Levante
+6141.0,Asier del Horno,/en/players/eb525f4a/Asier-del-Horno,Asier-del-Horno,b525f4a,es ESP,DF,Levante
+6142.0,Gustavo Munúa,/en/players/7e384992/Gustavo-Munua,Gustavo-Munu,7e384992,uy URU,GK,Levante
+6143.0,Cristhian Stuani,/en/players/220c11f1/Cristhian-Stuani,Cristhian-Stuani,220c11f1,uy URU,"FW,MF",Levante
+6144.0,Jefferson Montero,/en/players/fa6561bf/Jefferson-Montero,Jefferson-Montero,fa6561bf,ec ECU,"FW,MF",Levante
+6145.0,Nacho González,/en/players/53031e02/Nacho-Gonzalez,Nacho-Gonzalez,53031e02,uy URU,MF,Levante
+6146.0,Sergio Abad Beyxer,/en/players/30f729b3/Sergio-Abad-Beyxer,Sergio-Abad-Beyx,30f729b3,es ESP,MF,Levante
+6147.0,Wellington Silva,/en/players/5c60f49c/Wellington-Silva,Wellington-Silv,5c60f49c,br BRA,"FW,MF",Levante
+6148.0,Arouna Koné,/en/players/f9a72ca4/Arouna-Kone,Arouna-Ko,f9a72ca4,ci CIV,FW,Levante
+6149.0,José Barkero,/en/players/89a1b23c/Jose-Barkero,Jose-Barkero,89a1b23c,es ESP,MF,Levante
+6150.0,Javier Farinós,/en/players/d9b0f08e/Javier-Farinos,Javier-Farino,d9b0f08e,es ESP,MF,Levante
+6151.0,Pedro López Muñoz,/en/players/a60823a4/Pedro-Lopez-Munoz,Pedro-Lopez-Munoz,60823a4,es ESP,DF,Levante
+6152.0,Gustavo Cabral,/en/players/92b4a127/Gustavo-Cabral,Gustavo-Cab,92b4a127,ar ARG,DF,Levante
+6153.0,Pedro Botelho,/en/players/1f933029/Pedro-Botelho,Pedro-Botelho,1f933029,br BRA,"DF,MF",Levante
+6154.0,Nabil El Zhar,/en/players/37f96552/Nabil-El-Zhar,Nabil-El-Zh,37f96552,ma MAR,"FW,MF",Levante
+6155.0,Abdelkader Ghezzal,/en/players/9152a181/Abdelkader-Ghezzal,Abdelkader-Ghezz,9152a181,dz ALG,FW,Levante
+6156.0,David Navarro,/en/players/5dbdb37b/David-Navarro,David-Navarro,5dbdb37b,es ESP,DF,Levante
+6157.0,Óscar Serrano,/en/players/c862ecc5/Oscar-Serrano,Oscar-Serrano,c862ecc5,es ESP,MF,Levante
+6158.0,Keylor Navas,/en/players/ecada4fc/Keylor-Navas,Keylor-Nav,cada4fc,cr CRC,GK,Levante
+6159.0,Carlos Aranda,/en/players/2b60c45d/Carlos-Aranda,Carlos-Arand,2b60c45d,es ESP,FW,Levante
+6160.0,José Higón,/en/players/562194e6/Jose-Higon,Jose-Higo,562194e6,es ESP,MF,Levante
+6161.0,Roger Martí,/en/players/0ae4e09a/Roger-Marti,Roger-Marti,0ae4e09a,es ESP,FW,Levante
+6162.0,Papakouli Diop,/en/players/7329018e/Papakouli-Diop,Papakouli-Dio,7329018e,sn SEN,MF,Levante
+6163.0,Rubén García,/en/players/5c96b017/Ruben-Garcia,Ruben-Garci,5c96b017,es ESP,"FW,MF",Levante
+6164.0,Míchel,/en/players/418f8f61/Michel,Mich,418f8f61,es ESP,MF,Levante
+6165.0,Christian Lell,/en/players/37d7f47d/Christian-Lell,Christian-L,37d7f47d,de GER,DF,Levante
+6166.0,Obafemi Martins,/en/players/70849fc2/Obafemi-Martins,Obafemi-Marti,70849fc2,ng NGA,FW,Levante
+6167.0,Loukas Vyntra,/en/players/db07afa3/Loukas-Vyntra,Loukas-Vynt,db07afa3,gr GRE,DF,Levante
+6168.0,Pedro Ríos,/en/players/96ef8f9f/Pedro-Rios,Pedro-Rio,96ef8f9f,es ESP,MF,Levante
+6169.0,Robert Acquafresca,/en/players/d2b115ae/Robert-Acquafresca,Robert-Acquafresc,d2b115ae,it ITA,FW,Levante
+6170.0,Nikolaos Karabelas,/en/players/a41c6410/Nikolaos-Karabelas,Nikolaos-Karab,41c6410,gr GRE,DF,Levante
+6171.0,Ángel Rodríguez,/en/players/8cfc2f69/Angel-Rodriguez,Angel-Rodriguez,8cfc2f69,es ESP,FW,Levante
+6172.0,Simão Mate Junior,/en/players/68723d1f/Simao-Mate-Junior,Simao-Mate-Junio,68723d1f,mz MOZ,"DF,MF",Levante
+6173.0,Theofanis Gekas,/en/players/244bc211/Theofanis-Gekas,Theofanis-Gek,244bc211,gr GRE,FW,Levante
+6174.0,Dariusz Dudka,/en/players/afe5aff7/Dariusz-Dudka,Dariusz-Dudk,fe5aff7,pl POL,"DF,MF",Levante
+6175.0,David Barral,/en/players/d99f9282/David-Barral,David-B,d99f9282,es ESP,FW,Levante
+6176.0,Andreas Ivanschitz,/en/players/d045ccb2/Andreas-Ivanschitz,Andreas-Ivanschitz,d045ccb2,at AUT,MF,Levante
+6177.0,Jordi Xumetra,/en/players/3b79dbdb/Jordi-Xumetra,Jordi-Xumet,3b79dbdb,es ESP,"FW,MF",Levante
+6178.0,Víctor Casadesús,/en/players/73cd0a2a/Victor-Casadesus,Victor-Casadesu,73cd0a2a,es ESP,FW,Levante
+6179.0,Baba Diawara,/en/players/09b7100a/Baba-Diawara,Baba-Diaw,09b7100a,sn SEN,FW,Levante
+6180.0,Sérgio Pinto,/en/players/85ecb7ea/Sergio-Pinto,Sergio-Pinto,85ecb7ea,pt POR,"FW,MF",Levante
+6181.0,Issam El Adoua,/en/players/16edc522/Issam-El-Adoua,Issam-El-Adou,16edc522,ma MAR,DF,Levante
+6182.0,Mohamed Sissoko,/en/players/2c1a819e/Mohamed-Sissoko,Mohamed-Sissoko,2c1a819e,ml MLI,MF,Levante
+6183.0,Javi Jiménez,/en/players/9fe99e45/Javi-Jimenez,Javi-Jimenez,9fe99e45,es ESP,GK,Levante
+6184.0,Víctor Camarasa,/en/players/b2d03887/Victor-Camarasa,Victor-Cam,b2d03887,es ESP,MF,Levante
+6185.0,Aloys Nong,/en/players/570de35e/Aloys-Nong,Aloys-Nong,570de35e,cm CMR,FW,Levante
+6186.0,Jason,/en/players/9038c2a1/Jason,Jaso,9038c2a1,es ESP,"FW,MF",Levante
+6187.0,﻿José Luis Morales,/en/players/4a478107/Jose-Luis-Morales,Jose-Luis-Mo,4a478107,es ESP,"FW,MF",Levante
+6188.0,Diego Mariño,/en/players/d9235a45/Diego-Marino,Diego-Marino,d9235a45,es ESP,GK,Levante
+6189.0,Iván López,/en/players/576575e5/Ivan-Lopez,Ivan-Lopez,576575e5,es ESP,DF,Levante
+6190.0,Toño,/en/players/d4ef9ac5/Tono,Tono,d4ef9ac5,es ESP,"DF,MF",Levante
+6191.0,Iván Ramis,/en/players/d2be40f2/Ivan-Ramis,Ivan-Rami,d2be40f2,es ESP,DF,Levante
+6192.0,Kalu Uche,/en/players/6cc97b1d/Kalu-Uche,Kalu-Uch,6cc97b1d,ng NGA,"FW,MF",Levante
+6193.0,José Mari,/en/players/6f4c734d/Jose-Mari,Jose-Mari,6f4c734d,es ESP,MF,Levante
+6194.0,Jesús,/en/players/fba3c8c1/Jesus,Jesu,fba3c8c1,es ESP,GK,Levante
+6195.0,Rafael Martins,/en/players/b7e1c3b5/Rafael-Martins,Rafael-Marti,b7e1c3b5,br BRA,FW,Levante
+6196.0,Víctor Pérez,/en/players/5918a484/Victor-Perez,Victor-Perez,5918a484,es ESP,MF,Levante
+6197.0,Jaime Gavilán,/en/players/95de0931/Jaime-Gavilan,Jaime-Gavi,95de0931,es ESP,MF,Levante
+6198.0,﻿Jefferson Lerma,/en/players/9b5ce51a/Jefferson-Lerma,Jefferson-Lerm,9b5ce51a,co COL,"MF,DF",Levante
+6199.0,Zouhair Feddal,/en/players/89151b16/Zouhair-Feddal,Zouhair-Fedd,89151b16,ma MAR,DF,Levante
+6200.0,Deyverson,/en/players/2e5e846d/Deyverson,Deyverso,2e5e846d,br BRA,FW,Levante
+6201.0,Verza,/en/players/f972b073/Verza,Verz,f972b073,es ESP,MF,Levante
+6202.0,Rubén,/en/players/24279b8b/Ruben,Rub,24279b8b,es ESP,GK,Levante
+6203.0,Giuseppe Rossi,/en/players/fe48a073/Giuseppe-Rossi,Giuseppe-Rossi,fe48a073,it ITA,FW,Levante
+6204.0,Carl Medjani,/en/players/70c2f41a/Carl-Medjani,Carl-Medjani,70c2f41a,dz ALG,DF,Levante
+6205.0,Nabil Ghilas,/en/players/cee627f6/Nabil-Ghilas,Nabil-Ghi,cee627f6,dz ALG,FW,Levante
+6206.0,Joan Verdú,/en/players/61508522/Joan-Verdu,Joan-Verdu,61508522,es ESP,"MF,FW",Levante
+6207.0,Ángel Trujillo,/en/players/08011c9c/Angel-Trujillo,Angel-Trujillo,08011c9c,es ESP,DF,Levante
+6208.0,Mauricio Cuero,/en/players/7e03c92a/Mauricio-Cuero,Mauricio-Cuero,7e03c92a,co COL,"MF,FW",Levante
+6209.0,Lucas Orbán,/en/players/8ff1d70e/Lucas-Orban,Lucas-Orb,8ff1d70e,ar ARG,DF,Levante
+6210.0,Dani Calvo,/en/players/dd672e1f/Dani-Calvo,Dani-Calvo,dd672e1f,es ESP,DF,Levante
+6211.0,Álvaro Traver,/en/players/f608a6b0/Alvaro-Traver,Alvaro-Trav,f608a6b0,es ESP,MF,Levante
+6212.0,José Luis García Vayá,/en/players/27dc1378/Jose-Luis-Garcia-Vaya,Jose-Luis-Garcia-V,27dc1378,es ESP,MF,Levante
+6213.0,Sergio Postigo,/en/players/474ecac8/Sergio-Postigo,Sergio-Postigo,474ecac8,es ESP,DF,Levante
+6214.0,José Campaña,/en/players/61220da2/Jose-Campana,Jose-Cam,61220da2,es ESP,MF,Levante
+6215.0,Raúl Fernández,/en/players/6fb59070/Raul-Fernandez,Raul-Fernandez,6fb59070,es ESP,GK,Levante
+6216.0,Natxo Insa,/en/players/28ccefcd/Natxo-Insa,Natxo-I,28ccefcd,my MAS,MF,Levante
+6217.0,Chema,/en/players/7f203b54/Chema,Chem,7f203b54,es ESP,DF,Levante
+6218.0,Rober,/en/players/c00097d2/Rober,Rob,c00097d2,es ESP,"DF,MF",Levante
+6219.0,Javier Espinosa,/en/players/8e08d88c/Javier-Espinosa,Javier-Espino,8e08d88c,es ESP,MF,Levante
+6220.0,Abraham Minero,/en/players/ce2c56fc/Abraham-Minero,Abraham-Minero,ce2c56fc,es ESP,DF,Levante
+6221.0,Paco Montañés,/en/players/9cc493b1/Paco-Montanes,Paco-Mont,9cc493b1,es ESP,MF,Levante
+6222.0,Oier Olazábal,/en/players/b5bdf144/Oier-Olazabal,Oier-Olazab,b5bdf144,es ESP,"GK,MF",Levante
+6223.0,Álex Remiro,/en/players/374ee424/Alex-Remiro,Alex-Remiro,374ee424,es ESP,GK,Levante
+6224.0,Juan Muñoz,/en/players/25018d62/Juan-Munoz,Juan-Munoz,25018d62,es ESP,FW,Levante
+6225.0,Esteban Saveljich,/en/players/79f2a5f5/Esteban-Saveljich,Esteban-Saveljich,79f2a5f5,me MNE,DF,Levante
+6226.0,Koke Vegas,/en/players/bfb15d99/Koke-Vegas,Koke-Veg,bfb15d99,es ESP,GK,Levante
+6227.0,Allyson,/en/players/57e72dc9/Allyson,Allyso,57e72dc9,br BRA,FW,Levante
+6228.0,Kaiser,/en/players/3e729bb0/Kaiser,Kai,3e729bb0,es ESP,DF,Levante
+6229.0,Son,/en/players/037dbd30/Son,So,037dbd30,es ESP,DF,Levante
+6230.0,Antonio Luna,/en/players/ed239245/Antonio-Luna,Antonio-Lu,d239245,es ESP,DF,Levante
+6231.0,Ivi,/en/players/d2fa73e7/Ivi,Ivi,d2fa73e7,es ESP,"MF,FW",Levante
+6232.0,Enis Bardhi,/en/players/cac2537b/Enis-Bardhi,Enis-Bardhi,cac2537b,mk MKD,MF,Levante
+6233.0,Coke,/en/players/6d8f8441/Coke,Cok,6d8f8441,es ESP,DF,Levante
+6234.0,Erick Cabaco,/en/players/e7ab4179/Erick-Cabaco,Erick-Cabaco,7ab4179,uy URU,DF,Levante
+6235.0,Cheick Doukouré,/en/players/e208bcc8/Cheick-Doukoure,Cheick-Doukou,208bcc8,ci CIV,MF,Levante
+6236.0,Saša Lukić,/en/players/c6e8cf1f/Sasa-Lukic,Sasa-Lukic,c6e8cf1f,rs SRB,MF,Levante
+6237.0,Emmanuel Boateng,/en/players/2e23c66b/Emmanuel-Boateng,Emmanuel-Boateng,2e23c66b,gh GHA,FW,Levante
+6238.0,Álex Alegría,/en/players/46166b49/Alex-Alegria,Alex-Alegri,46166b49,es ESP,FW,Levante
+6239.0,Giampaolo Pazzini,/en/players/6ca663b4/Giampaolo-Pazzini,Giampaolo-Pazzini,6ca663b4,it ITA,FW,Levante
+6240.0,Shaquell Moore,/en/players/3b9f859b/Shaquell-Moore,Shaquell-Moo,3b9f859b,us USA,DF,Levante
+6241.0,Armando Sadiku,/en/players/8b6d1830/Armando-Sadiku,Armando-Sadiku,8b6d1830,al ALB,FW,Levante
+6242.0,Nano,/en/players/217011a0/Nano,Nano,217011a0,es ESP,"FW,MF",Levante
+6243.0,Samu García,/en/players/5f7db81a/Samu-Garcia,Samu-Garci,5f7db81a,es ESP,"MF,FW",Levante
+6244.0,Rubén Rochina,/en/players/ecd8c01e/Ruben-Rochina,Ruben-Rochi,cd8c01e,es ESP,"MF,DF",Levante
+6245.0,Hacen,/en/players/7c689c48/Hacen,Hac,7c689c48,mr MTN,MF,Levante
+6246.0,Aly Abeid,/en/players/bbe88396/Aly-Abeid,Aly-Abeid,bbe88396,mr MTN,DF,Levante
+6247.0,Fahad Al Muwallad,/en/players/23f32ea1/Fahad-Al-Muwallad,Fahad-Al-Muwallad,23f32ea1,sa KSA,MF,Levante
+6248.0,Mitchell Langerak,/en/players/d2a184cc/Mitchell-Langerak,Mitchell-Langerak,d2a184cc,au AUS,GK,Levante
+6249.0,Iván Villar,/en/players/cde52ef5/Ivan-Villar,Ivan-Vi,cde52ef5,es ESP,GK,Levante
+6250.0,Borja Mayoral,/en/players/64e8ed6d/Borja-Mayoral,Borja-Mayo,64e8ed6d,es ESP,FW,Levante
+6251.0,Aitor Fernández,/en/players/a01c3d54/Aitor-Fernandez,Aitor-Fernandez,01c3d54,es ESP,GK,Levante
+6252.0,Nikola Vukčević,/en/players/4442fbcd/Nikola-Vukcevic,Nikola-Vukcevic,4442fbcd,me MNE,MF,Levante
+6253.0,Moses Simon,/en/players/5f3eaaf5/Moses-Simon,Moses-Simo,5f3eaaf5,ng NGA,"DF,MF",Levante
+6254.0,Sanjin Prcić,/en/players/51c30111/Sanjin-Prcic,Sanjin-Prcic,51c30111,ba BIH,MF,Levante
+6255.0,Raphael Dwamena,/en/players/525f9bf4/Raphael-Dwamena,Raphael-Dwam,525f9bf4,gh GHA,FW,Levante
+6256.0,Fran Manzanara,/en/players/bbfaeda4/Fran-Manzanara,Fran-Manz,bbfaeda4,es ESP,"DF,MF",Levante
+6257.0,Arturo Molina,/en/players/14a82e0e/Arturo-Molina,Arturo-Moli,14a82e0e,es ESP,MF,Levante
+6258.0,Rúben Vezo,/en/players/c67cd65c/Ruben-Vezo,Ruben-Vezo,c67cd65c,pt POR,DF,Levante
+6259.0,Jorge Miramón,/en/players/7f4c7c9f/Jorge-Miramon,Jorge-Miramo,7f4c7c9f,es ESP,DF,Levante
+6260.0,Nemanja Radoja,/en/players/b5dd3469/Nemanja-Radoja,Nemanja-Radoj,b5dd3469,rs SRB,MF,Levante
+6261.0,Carlos Clerc,/en/players/33a61a52/Carlos-Clerc,Carlos-Clerc,33a61a52,es ESP,DF,Levante
+6262.0,Sergio León,/en/players/0a0cc13c/Sergio-Leon,Sergio-Leo,0a0cc13c,es ESP,FW,Levante
+6263.0,Hernâni Fortes,/en/players/2327c29e/Hernani-Fortes,Hernani-Fort,2327c29e,pt POR,"MF,FW",Levante
+6264.0,Óscar Duarte,/en/players/aa0ac32d/Oscar-Duarte,Oscar-Duart,0ac32d,cr CRC,DF,Levante
+6265.0,Bruno González,/en/players/f11fe861/Bruno-Gonzalez,Bruno-Gonzalez,f11fe861,es ESP,DF,Levante
+6266.0,Eliseo Falcon,/en/players/904cd50d/Eliseo-Falcon,Eliseo-Falco,904cd50d,es ESP,DF,Levante
+6267.0,Pablo Martínez,/en/players/ecc77652/Pablo-Martinez,Pablo-Martinez,cc77652,es ESP,MF,Levante
+6268.0,Gonzalo,/en/players/cca05da8/Gonzalo,Gonzalo,cca05da8,es ESP,DF,Levante
+6269.0,Joan Monterde,/en/players/0ff67313/Joan-Monterde,Joan-Monterd,0ff67313,es ESP,MF,Levante
+6270.0,Alejandro Blesa,/en/players/d2ed99b4/Alejandro-Blesa,Alejandro-B,d2ed99b4,es ESP,MF,Levante
+6271.0,Giorgi Kochorashvili,/en/players/3da1b6ed/Giorgi-Kochorashvili,Giorgi-Kochorashvili,3da1b6ed,ge GEO,MF,Levante
+6272.0,Cárdenas,/en/players/e1846dde/Cardenas,Card,1846dde,es ESP,GK,Levante
+6273.0,Rubén García,/en/players/c01826cb/Ruben-Garcia,Ruben-Garci,c01826cb,es ESP,DF,Levante
+6274.0,Mickael Malsa,/en/players/bbc19252/Mickael-Malsa,Mickael-M,bbc19252,mq MTQ,MF,Levante
+6275.0,Jorge de Frutos,/en/players/38ce1150/Jorge-de-Frutos,Jorge-de-Fruto,38ce1150,es ESP,MF,Levante
+6276.0,Gonzalo Melero,/en/players/3902e91b/Gonzalo-Melero,Gonzalo-Melero,3902e91b,es ESP,"MF,FW",Levante
+6277.0,Dani Gómez,/en/players/0e5ddc7c/Dani-Gomez,Dani-Gomez,0e5ddc7c,es ESP,FW,Levante
+6278.0,Álex Cantero,/en/players/4aa253fd/Alex-Cantero,Alex-Cantero,4aa253fd,es ESP,FW,Levante
+6279.0,Edgar Sevikyan,/en/players/3e8bb8ce/Edgar-Sevikyan,Edgar-Sevik,3e8bb8ce,ru RUS,MF,Levante
+6280.0,Pablo Cuñat,/en/players/a9ab3b32/Pablo-Cunat,Pablo-Cunat,9ab3b32,es ESP,GK,Levante
+6281.0,Euse,/en/players/4aab1808/Euse,Eu,4aab1808,es ESP,DF,Levante
+6282.0,Alfredo Pedraza,/en/players/7e9fa139/Alfredo-Pedraza,Alfredo-Pedraz,7e9fa139,es ESP,DF,Levante
+6283.0,Martín Cáceres,/en/players/e94d79e3/Martin-Caceres,Martin-Cac,94d79e3,uy URU,DF,Levante
+6284.0,Shkodran Mustafi,/en/players/3f2d59fe/Shkodran-Mustafi,Shkodran-Mustafi,3f2d59fe,de GER,DF,Levante
+6285.0,Roberto Soldado,/en/players/9d66fbe3/Roberto-Soldado,Roberto-Soldado,9d66fbe3,es ESP,FW,Levante
+6286.0,Enric Franquesa,/en/players/40883e3a/Enric-Franquesa,Enric-Franqu,40883e3a,es ESP,"DF,FW",Levante
+6287.0,Pubill,/en/players/365113c0/Pubill,Pubi,365113c0,es ESP,"DF,MF",Levante
+6288.0,Marcelo Saracchi,/en/players/1c96ad85/Marcelo-Saracchi,Marcelo-Saracchi,1c96ad85,uy URU,DF,Levante
+6289.0,Alejandro Primo,/en/players/f38284bb/Alejandro-Primo,Alejandro-Primo,f38284bb,es ESP,GK,Levante
+6290.0,Omar Faraj,/en/players/de627c8a/Omar-Faraj,Omar-Faraj,de627c8a,se SWE,FW,Levante
+6291.0,Carlos Benitez,/en/players/594f4607/Carlos-Benitez,Carlos-Benitez,594f4607,es ESP,MF,Levante
+6292.0,Carlos Giménez,/en/players/877a34f4/Carlos-Gimenez,Carlos-Gimenez,877a34f4,es ESP,DF,Levante
+6293.0,Joseda,/en/players/d989154a/Joseda,Josed,d989154a,es ESP,DF,Levante
+6294.0,Antonio Leal,/en/players/2462ec90/Antonio-Leal,Antonio-L,2462ec90,es ESP,DF,Levante
+6295.0,José Manuel,/en/players/27581509/Jose-Manuel,Jose-Manu,27581509,es ESP,DF,Levante
+6296.0,Pablo Picón,/en/players/03efb75e/Pablo-Picon,Pablo-Pico,03efb75e,es ESP,GK,Levante

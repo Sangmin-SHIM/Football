@@ -1,128 +1,223 @@
-﻿Id,Player,Link,Player_name,Player_id,Nationality,Position,club
-3131.0,Loren,/en/players/a9e310fa/Loren,Lo,9e310fa,es ESP,DF,Recreativo
-3132.0,Javi García,/en/players/25831f0b/Javi-Garcia,Javi-Garci,25831f0b,es ESP,DF,Recreativo
-3133.0,Miguel Ángel Espínola,/en/players/b054680e/Miguel-Angel-Espinola,Miguel-Angel-Espino,b054680e,es ESP,DF,Recreativo
-3134.0,Emilio Viqueira,/en/players/5c0b59d4/Emilio-Viqueira,Emilio-Viquei,5c0b59d4,es ESP,MF,Recreativo
-3135.0,José Antonio Luque,/en/players/a77694a1/Jose-Antonio-Luque,Jose-Antonio-Luqu,77694a1,es ESP,GK,Recreativo
-3136.0,Ignacio Benítez,/en/players/cfb8b7fc/Ignacio-Benitez,Ignacio-Benitez,cfb8b7fc,es ESP,MF,Recreativo
-3137.0,Iker Begoña,/en/players/e32aa932/Iker-Begona,Iker-Bego,32aa932,es ESP,"DF,MF",Recreativo
-3138.0,Óscar Arpón,/en/players/705d238d/Oscar-Arpon,Oscar-Arpo,705d238d,es ESP,MF,Recreativo
-3139.0,Alex Pereira,/en/players/b9588381/Alex-Pereira,Alex-Perei,b9588381,ve VEN,DF,Recreativo
-3140.0,Juan Merino,/en/players/b83aaa39/Juan-Merino,Juan-Merino,b83aaa39,es ESP,DF,Recreativo
-3141.0,David Cubillo,/en/players/d8d2e883/David-Cubillo,David-Cubillo,d8d2e883,es ESP,MF,Recreativo
-3142.0,César Quesada,/en/players/c4d547a6/Cesar-Quesada,Cesar-Quesad,c4d547a6,es ESP,GK,Recreativo
-3143.0,José Galán,/en/players/7b140e43/Jose-Galan,Jose-G,7b140e43,es ESP,DF,Recreativo
-3144.0,Kaiku,/en/players/d30ab207/Kaiku,Kaiku,d30ab207,es ESP,FW,Recreativo
-3145.0,Sergio Tejero García,/en/players/1c94ccac/Sergio-Tejero-Garcia,Sergio-Tejero-Garci,1c94ccac,es ESP,DF,Recreativo
-3146.0,Quique Romero,/en/players/48e16f25/Quique-Romero,Quique-Romero,48e16f25,es ESP,FW,Recreativo
-3147.0,David Gallego,/en/players/10468915/David-Gallego,David-Gallego,10468915,es ESP,MF,Recreativo
-3148.0,Joãozinho Neto,/en/players/744824d9/Joaozinho-Neto,Joaozinho-Neto,744824d9,br BRA,FW,Recreativo
-3149.0,Manuel Almunia,/en/players/9f6b2f8c/Manuel-Almunia,Manuel-Almuni,9f6b2f8c,es ESP,GK,Recreativo
-3150.0,Nelson Zelaya,/en/players/31560fa5/Nelson-Zelaya,Nelson-Z,31560fa5,py PAR,DF,Recreativo
-3151.0,Antonio Moreno Fernández,/en/players/47ba6c6d/Antonio-Moreno-Fernandez,Antonio-Moreno-Fernandez,47ba6c6d,es ESP,"FW,MF",Recreativo
-3152.0,Pedro Baquero,/en/players/55379786/Pedro-Baquero,Pedro-Baquero,55379786,es ESP,DF,Recreativo
-3153.0,Francisco Jusué,/en/players/c74f81a1/Francisco-Jusue,Francisco-Jusu,c74f81a1,es ESP,DF,Recreativo
-3154.0,Ramón,/en/players/6892efc4/Ramon,Ramo,6892efc4,es ESP,DF,Recreativo
-3155.0,Aitor Tornavaca,/en/players/4bdcc842/Aitor-Tornavaca,Aitor-Tornavac,4bdcc842,es ESP,MF,Recreativo
-3156.0,Laurențiu Roșu,/en/players/83e63626/Laurentiu-Rosu,Laurentiu-Rosu,83e63626,ro ROU,"FW,MF",Recreativo
-3157.0,Mário Silva,/en/players/f5f7fa5f/Mario-Silva,Mario-Silv,f5f7fa5f,pt POR,DF,Recreativo
-3158.0,Javi Jiménez,/en/players/f3e8d231/Javi-Jimenez,Javi-Jimenez,f3e8d231,es ESP,MF,Recreativo
-3159.0,Ángel Rodríguez,/en/players/81645497/Angel-Rodriguez,Angel-Rodriguez,81645497,es ESP,MF,Recreativo
-3160.0,Xavi Valero,/en/players/3db74cf4/Xavi-Valero,Xavi-Valero,3db74cf4,es ESP,GK,Recreativo
-3161.0,Rafael Barber,/en/players/9af23dc4/Rafael-Barber,Rafael-Barb,9af23dc4,es ESP,MF,Recreativo
-3162.0,Juvenal,/en/players/b26bf947/Juvenal,Juv,b26bf947,gq EQG,MF,Recreativo
-3163.0,Beto,/en/players/c9837c1b/Beto,Beto,c9837c1b,pt POR,DF,Recreativo
-3164.0,Bertrand Laquait,/en/players/ab05bd3c/Bertrand-Laquait,Bertrand-Laquait,b05bd3c,fr FRA,GK,Recreativo
-3165.0,Pablo Oliveira,/en/players/e2bca2e0/Pablo-Oliveira,Pablo-Olivei,2bca2e0,es ESP,DF,Recreativo
-3166.0,﻿Stefano Sorrentino,/en/players/048877f5/Stefano-Sorrentino,Stefano-Sorrentino,048877f5,it ITA,GK,Recreativo
-3167.0,Carlos Martins,/en/players/23cfa96c/Carlos-Martins,Carlos-Marti,23cfa96c,pt POR,MF,Recreativo
-3168.0,José María Calvo,/en/players/745b3a99/Jose-Maria-Calvo,Jose-Maria-Calvo,745b3a99,ar ARG,DF,Recreativo
-3169.0,Silvestre Varela,/en/players/9dffef9e/Silvestre-Varela,Silvestre-V,9dffef9e,pt POR,"FW,MF",Recreativo
-3170.0,Ersen Martin,/en/players/c6298a83/Ersen-Martin,Ersen-Marti,c6298a83,tr TUR,FW,Recreativo
-3171.0,Edwin Congo,/en/players/08925878/Edwin-Congo,Edwin-Congo,8925878,co COL,FW,Recreativo
-3172.0,Andrés Lamas,/en/players/4b204e6d/Andres-Lamas,Andres-Lam,4b204e6d,uy URU,DF,Recreativo
-3173.0,Alain Nef,/en/players/b69c4388/Alain-Nef,Alain-Nef,b69c4388,ch SUI,DF,Recreativo
-3174.0,Cristian Maidana,/en/players/84f7b28f/Cristian-Maidana,Cristian-Maid,84f7b28f,ar ARG,MF,Recreativo
-3175.0,Kanga Akalé,/en/players/54ef5887/Kanga-Akale,Kanga-Ak,54ef5887,ci CIV,"FW,MF",Recreativo
-3176.0,Sebastián Nayar,/en/players/56d1b762/Sebastian-Nayar,Sebastian-N,56d1b762,ar ARG,MF,Recreativo
-3177.0,Mario García Pizarraya,/en/players/07dee4f6/Mario-Garcia-Pizarraya,Mario-Garcia-Piz,07dee4f6,es ESP,MF,Recreativo
-3178.0,Joselito,/en/players/3e37382c/Joselito,Joselito,3e37382c,es ESP,FW,Recreativo
-3179.0,﻿Raúl Cámara,/en/players/585753d9/Raul-Camara,Raul-Cam,585753d9,es ESP,DF,Recreativo
-3180.0,Magnus Troest,/en/players/4dbc94c5/Magnus-Troest,Magnus-Troest,4dbc94c5,dk DEN,DF,Recreativo
-3181.0,José Mora,/en/players/0eff5cf7/Jose-Mora,Jose-Mo,0eff5cf7,ec ECU,FW,Recreativo
-3182.0,Emilio Sánchez,/en/players/58b5df2f/Emilio-Sanchez,Emilio-Sanchez,58b5df2f,es ESP,MF,Recreativo
-3183.0,Bernardo Domínguez,/en/players/15394beb/Bernardo-Dominguez,Bernardo-Dominguez,15394beb,es ESP,GK,Recreativo
-3184.0,Bruno Fornaroli,/en/players/7fbbac4f/Bruno-Fornaroli,Bruno-Fornaroli,7fbbac4f,au AUS,FW,Recreativo
-3185.0,Pablo Sánchez,/en/players/8c3fe4bb/Pablo-Sanchez,Pablo-Sanchez,8c3fe4bb,es ESP,"FW,MF",Recreativo
-3186.0,Pablo Gallardo,/en/players/64e102be/Pablo-Gallardo,Pablo-Gallardo,64e102be,es ESP,DF,Recreativo
-3187.0,Fidel,/en/players/eb82b6f1/Fidel,Fid,b82b6f1,es ESP,MF,Recreativo
-3188.0,Daniel Candeias,/en/players/0366fc78/Daniel-Candeias,Daniel-Candei,0366fc78,pt POR,"FW,MF",Recreativo
-3189.0,Juan Aranda,/en/players/3e816ae9/Juan-Aranda,Juan-Arand,3e816ae9,es ESP,DF,Recreativo
-3190.0,Manolo Martínez,/en/players/7b9876e4/Manolo-Martinez,Manolo-Martinez,7b9876e4,es ESP,"DF,MF",Recreativo
-3191.0,Jordi Matamala,/en/players/b064ff85/Jordi-Matamala,Jordi-Matam,b064ff85,es ESP,MF,Recreativo
-3192.0,Asen,/en/players/5725f8c6/Asen,A,5725f8c6,es ESP,FW,Recreativo
-3193.0,Álex Quillo,/en/players/3110aa90/Alex-Quillo,Alex-Quillo,3110aa90,es ESP,MF,Recreativo
-3194.0,Kike Tortosa,/en/players/a65cc307/Kike-Tortosa,Kike-Torto,65cc307,es ESP,FW,Recreativo
-3195.0,Miguelito,/en/players/e185200a/Miguelito,Miguelito,185200a,es ESP,MF,Recreativo
-3196.0,Aritz Borda,/en/players/47e49156/Aritz-Borda,Aritz-Bord,47e49156,es ESP,DF,Recreativo
-3197.0,Manuel Bonaque,/en/players/988a981d/Manuel-Bonaque,Manuel-Bonaqu,988a981d,es ESP,DF,Recreativo
-3198.0,Alejandro Zambrano,/en/players/b249833f/Alejandro-Zambrano,Alejandro-Zambrano,b249833f,es ESP,MF,Recreativo
-3199.0,Alejandro García,/en/players/03935efd/Alejandro-Garcia,Alejandro-Garci,03935efd,es ESP,GK,Recreativo
-3200.0,Jesús Rubio,/en/players/3dd3b13e/Jesus-Rubio,Jesus-Rubio,3dd3b13e,es ESP,MF,Recreativo
-3201.0,Danilo Peinado,/en/players/3d4c642f/Danilo-Peinado,Danilo-Peinado,3d4c642f,uy URU,FW,Recreativo
-3202.0,Álvaro Vega,/en/players/7eacc9a2/Alvaro-Vega,Alvaro-Veg,7eacc9a2,es ESP,DF,Recreativo
-3203.0,Aitor García,/en/players/9121816b/Aitor-Garcia,Aitor-Garci,9121816b,es ESP,"FW,MF",Recreativo
-3204.0,﻿Dimas Delgado,/en/players/f6876bd7/Dimas-Delgado,Dimas-Delgado,f6876bd7,es ESP,MF,Recreativo
-3205.0,Jorge Morcillo,/en/players/ebbbf1dd/Jorge-Morcillo,Jorge-Morcillo,bbbf1dd,es ESP,DF,Recreativo
-3206.0,Alexander,/en/players/3e1858af/Alexander,Alexand,3e1858af,ar ARG,MF,Recreativo
-3207.0,Juan Zamora,/en/players/dc8ab5e4/Juan-Zamora,Juan-Zamo,dc8ab5e4,es ESP,DF,Recreativo
-3208.0,Paweł Brożek,/en/players/35e7440b/Pawel-Brozek,Pawel-Brozek,35e7440b,pl POL,FW,Recreativo
-3209.0,Albert Puigdollers,/en/players/35b62825/Albert-Puigdollers,Albert-Puigdo,35b62825,es ESP,MF,Recreativo
-3210.0,José Pardo,/en/players/f9560607/Jose-Pardo,Jose-Pardo,f9560607,es ESP,DF,Recreativo
-3211.0,Diego Riolfo,/en/players/f69fc160/Diego-Riolfo,Diego-Riolfo,f69fc160,uy URU,"FW,GK",Recreativo
-3212.0,Adrián Mouriño,/en/players/8938890f/Adrian-Mourino,Adrian-Mourino,8938890f,es ESP,MF,Recreativo
-3213.0,Francis,/en/players/021ea991/Francis,Franci,021ea991,es ESP,FW,Recreativo
-3214.0,Jorge Merino,/en/players/6c6222a4/Jorge-Merino,Jorge-Merino,6c6222a4,es ESP,MF,Recreativo
-3215.0,Jesús Ayala,/en/players/e4d88d24/Jesus-Ayala,Jesus-A,4d88d24,es ESP,MF,Recreativo
-3216.0,Miguel Linares,/en/players/e3cfbf9a/Miguel-Linares,Miguel-Li,3cfbf9a,es ESP,"FW,MF",Recreativo
-3217.0,Hernán Menosse,/en/players/d708de9a/Hernan-Menosse,Hernan-Meno,d708de9a,uy URU,DF,Recreativo
-3218.0,Toño,/en/players/d4ef9ac5/Tono,Tono,d4ef9ac5,es ESP,"DF,MF",Recreativo
-3219.0,Felipe Gallegos,/en/players/b3f50e68/Felipe-Gallegos,Felipe-Gallego,b3f50e68,cl CHI,"FW,MF",Recreativo
-3220.0,Aloys Nong,/en/players/570de35e/Aloys-Nong,Aloys-Nong,570de35e,cm CMR,FW,Recreativo
-3221.0,Tomás Girón,/en/players/49b016dc/Tomas-Giron,Tomas-Giro,49b016dc,es ESP,DF,Recreativo
-3222.0,Chechu,/en/players/78d0c6ea/Chechu,Chechu,78d0c6ea,es ESP,DF,Recreativo
-3223.0,Jorge Araújo,/en/players/f6f99d20/Jorge-Araujo,Jorge-Araujo,f6f99d20,pt POR,"DF,MF",Recreativo
-3224.0,Víctor Díaz,/en/players/3624ce4c/Victor-Diaz,Victor-Diaz,3624ce4c,es ESP,DF,Recreativo
-3225.0,Juanan,/en/players/41ab1795/Juanan,Ju,41ab1795,es ESP,DF,Recreativo
-3226.0,Diego Jiménez López,/en/players/9e42fd2c/Diego-Jimenez-Lopez,Diego-Jimenez-Lopez,9e42fd2c,es ESP,DF,Recreativo
-3227.0,Rubén Ramos,/en/players/34d16061/Ruben-Ramos,Ruben-Ramo,34d16061,es ESP,"FW,GK",Recreativo
-3228.0,Javier Cabrera,/en/players/1ebd3fa2/Javier-Cabrera,Javier-Cab,1ebd3fa2,uy URU,"FW,MF",Recreativo
-3229.0,Antonio Domínguez,/en/players/32e69394/Antonio-Dominguez,Antonio-Dominguez,32e69394,es ESP,FW,Recreativo
-3230.0,Rubén Mesa Visiga,/en/players/9f3f9fbf/Ruben-Mesa-Visiga,Ruben-Mesa-Visig,9f3f9fbf,es ESP,FW,Recreativo
-3231.0,Josmar Zambrano,/en/players/64bd3334/Josmar-Zambrano,Josmar-Zambrano,64bd3334,ve VEN,MF,Recreativo
-3232.0,Salvi Moya,/en/players/ae963cbc/Salvi-Moya,Salvi-Mo,963cbc,es ESP,FW,Recreativo
-3233.0,Rubén Alonso,/en/players/2d49cc0b/Ruben-Alonso,Ruben-Alonso,2d49cc0b,es ESP,MF,Recreativo
-3234.0,Rubén Gálvez,/en/players/98ddffd9/Ruben-Galvez,Ruben-Galvez,98ddffd9,es ESP,GK,Recreativo
-3235.0,Mario Gómez,/en/players/b9873ddd/Mario-Gomez,Mario-Gomez,b9873ddd,es ESP,DF,Recreativo
-3236.0,Antonio Navas,/en/players/8a10fd62/Antonio-Navas,Antonio-Nav,8a10fd62,es ESP,DF,Recreativo
-3237.0,David Novoa Campos,/en/players/6a5c8197/David-Novoa-Campos,David-Novoa-Campo,6a5c8197,es ESP,DF,Recreativo
-3238.0,Juan Pablo,/en/players/7abc9076/Juan-Pablo,Juan-Pablo,7abc9076,es ESP,GK,Recreativo
-3239.0,Manu Ramírez,/en/players/afa91757/Manu-Ramirez,Manu-Ramirez,fa91757,es ESP,MF,Recreativo
-3240.0,﻿Carlos Delgado,/en/players/294afef4/Carlos-Delgado,Carlos-Delgado,294afef4,es ESP,DF,Recreativo
-3241.0,Cristian Fernández,/en/players/2adca4d2/Cristian-Fernandez,Cristian-Fernandez,2adca4d2,es ESP,FW,Recreativo
-3242.0,Mario Marín Soto,/en/players/c63e6769/Mario-Marin-Soto,Mario-Marin-Soto,c63e6769,es ESP,DF,Recreativo
-3243.0,Michael Pinto,/en/players/6e2c53cb/Michael-Pinto,Michael-Pinto,6e2c53cb,lu LUX,"DF,FW",Recreativo
-3244.0,Luís Ribeiro,/en/players/c55c9f2e/Luis-Ribeiro,Luis-Ribeiro,c55c9f2e,pt POR,GK,Recreativo
-3245.0,Kikas,/en/players/40c57a43/Kikas,Kik,40c57a43,pt POR,"DF,MF",Recreativo
-3246.0,Álvaro Moreno Sabater,/en/players/436f4f65/Alvaro-Moreno-Sabater,Alvaro-Moreno-Sabat,436f4f65,es ESP,DF,Recreativo
-3247.0,﻿Cera,/en/players/e1df9396/Cera,C,1df9396,es ESP,DF,Recreativo
-3248.0,Alejandro Lázaro,/en/players/e5e4055e/Alejandro-Lazaro,Alejandro-Lazaro,5e4055e,es ESP,GK,Recreativo
-3249.0,Antonio Ponce,/en/players/02ccdbb4/Antonio-Ponce,Antonio-Ponc,02ccdbb4,es ESP,MF,Recreativo
-3250.0,Alberto Quiles,/en/players/25233d1b/Alberto-Quiles,Alberto-Qui,25233d1b,es ESP,FW,Recreativo
-3251.0,Víctor,/en/players/01e029c9/Victor,Victo,01e029c9,es ESP,MF,Recreativo
-3252.0,Irizo,/en/players/d2090a27/Irizo,Irizo,d2090a27,es ESP,MF,Recreativo
-3253.0,Fran López,/en/players/9b4b345a/Fran-Lopez,Fran-Lopez,9b4b345a,es ESP,MF,Recreativo
-3254.0,Kleandro Lleshi,/en/players/d235a5e3/Kleandro-Lleshi,Kleandro-Lleshi,d235a5e3,al ALB,MF,Recreativo
-3255.0,Gerard Vergé,/en/players/1404784c/Gerard-Verge,Gerard-Verg,1404784c,es ESP,FW,Recreativo
-3256.0,Rubén Cruz Gil,/en/players/365d25bb/Ruben-Cruz-Gil,Ruben-Cruz-Gi,365d25bb,es ESP,MF,Recreativo
-3257.0,David Romero,/en/players/85a04f43/David-Romero,David-Romero,85a04f43,es ESP,FW,Recreativo
+﻿Unnamed: 0,Player,Link,Player_name,Player_id,Nationality,Position,club
+4140.0,﻿Raúl Molina,/en/players/91419d20/Raul-Molina,Raul-Moli,91419d20,es ESP,FW,Recreativo
+4141.0,Loren,/en/players/a9e310fa/Loren,Lo,9e310fa,es ESP,DF,Recreativo
+4142.0,Javi García,/en/players/25831f0b/Javi-Garcia,Javi-Garci,25831f0b,es ESP,DF,Recreativo
+4143.0,Diego Camacho,/en/players/ba4b3cf3/Diego-Camacho,Diego-Camacho,ba4b3cf3,es ESP,MF,Recreativo
+4144.0,Miguel Ángel Espínola,/en/players/b054680e/Miguel-Angel-Espinola,Miguel-Angel-Espino,b054680e,es ESP,DF,Recreativo
+4145.0,Emilio Viqueira,/en/players/5c0b59d4/Emilio-Viqueira,Emilio-Viquei,5c0b59d4,es ESP,MF,Recreativo
+4146.0,José Antonio Luque,/en/players/a77694a1/Jose-Antonio-Luque,Jose-Antonio-Luqu,77694a1,es ESP,GK,Recreativo
+4147.0,Ignacio Benítez,/en/players/cfb8b7fc/Ignacio-Benitez,Ignacio-Benitez,cfb8b7fc,es ESP,MF,Recreativo
+4148.0,Iker Begoña,/en/players/e32aa932/Iker-Begona,Iker-Bego,32aa932,es ESP,"DF,MF",Recreativo
+4149.0,Óscar Arpón,/en/players/705d238d/Oscar-Arpon,Oscar-Arpo,705d238d,es ESP,MF,Recreativo
+4150.0,Mariano Pernía,/en/players/5f28a2f7/Mariano-Pernia,Mariano-Perni,5f28a2f7,es ESP,DF,Recreativo
+4151.0,Mario Bermejo,/en/players/c8dcfee8/Mario-Bermejo,Mario-Bermejo,c8dcfee8,es ESP,FW,Recreativo
+4152.0,Alex Pereira,/en/players/b9588381/Alex-Pereira,Alex-Perei,b9588381,ve VEN,DF,Recreativo
+4153.0,Juan Merino,/en/players/b83aaa39/Juan-Merino,Juan-Merino,b83aaa39,es ESP,DF,Recreativo
+4154.0,David Cubillo,/en/players/d8d2e883/David-Cubillo,David-Cubillo,d8d2e883,es ESP,MF,Recreativo
+4155.0,César Quesada,/en/players/c4d547a6/Cesar-Quesada,Cesar-Quesad,c4d547a6,es ESP,GK,Recreativo
+4156.0,Xisco,/en/players/efaaae13/Xisco,Xisco,faaae13,es ESP,"FW,MF",Recreativo
+4157.0,José Galán,/en/players/7b140e43/Jose-Galan,Jose-G,7b140e43,es ESP,DF,Recreativo
+4158.0,Kaiku,/en/players/d30ab207/Kaiku,Kaiku,d30ab207,es ESP,FW,Recreativo
+4159.0,Yago Yao,/en/players/a25c8b6c/Yago-Yao,Yago-Yao,25c8b6c,gq EQG,DF,Recreativo
+4160.0,Sergio Tejero García,/en/players/1c94ccac/Sergio-Tejero-Garcia,Sergio-Tejero-Garci,1c94ccac,es ESP,DF,Recreativo
+4161.0,Quique Romero,/en/players/48e16f25/Quique-Romero,Quique-Romero,48e16f25,es ESP,FW,Recreativo
+4162.0,David Gallego,/en/players/10468915/David-Gallego,David-Gallego,10468915,es ESP,MF,Recreativo
+4163.0,Joãozinho Neto,/en/players/744824d9/Joaozinho-Neto,Joaozinho-Neto,744824d9,br BRA,FW,Recreativo
+4164.0,Manuel Almunia,/en/players/9f6b2f8c/Manuel-Almunia,Manuel-Almuni,9f6b2f8c,es ESP,GK,Recreativo
+4165.0,Nelson Zelaya,/en/players/31560fa5/Nelson-Zelaya,Nelson-Z,31560fa5,py PAR,DF,Recreativo
+4166.0,Dani Güiza,/en/players/d863ea53/Dani-Guiza,Dani-Guiz,d863ea53,es ESP,FW,Recreativo
+4167.0,Miguel Albiol,/en/players/ca8aa471/Miguel-Albiol,Miguel-Albio,ca8aa471,es ESP,MF,Recreativo
+4168.0,Ikechukwu Uche,/en/players/ba7c6d25/Ikechukwu-Uche,Ikechukwu-Uch,ba7c6d25,ng NGA,FW,Recreativo
+4169.0,Toño,/en/players/2ed4ea81/Tono,Tono,2ed4ea81,es ESP,GK,Recreativo
+4170.0,Ximo Enguix,/en/players/cfadea36/Ximo-Enguix,Ximo-Enguix,cfadea36,es ESP,MF,Recreativo
+4171.0,Antonio Moreno Fernández,/en/players/47ba6c6d/Antonio-Moreno-Fernandez,Antonio-Moreno-Fernandez,47ba6c6d,es ESP,"FW,MF",Recreativo
+4172.0,David Arteaga,/en/players/86d9a411/David-Arteaga,David-Arteag,86d9a411,es ESP,MF,Recreativo
+4173.0,Manu del Moral,/en/players/1026f88d/Manu-del-Moral,Manu-del-Mo,1026f88d,es ESP,FW,Recreativo
+4174.0,Pedro Baquero,/en/players/55379786/Pedro-Baquero,Pedro-Baquero,55379786,es ESP,DF,Recreativo
+4175.0,Francisco Jusué,/en/players/c74f81a1/Francisco-Jusue,Francisco-Jusu,c74f81a1,es ESP,DF,Recreativo
+4176.0,Ramón,/en/players/6892efc4/Ramon,Ramo,6892efc4,es ESP,DF,Recreativo
+4177.0,Aitor Tornavaca,/en/players/4bdcc842/Aitor-Tornavaca,Aitor-Tornavac,4bdcc842,es ESP,MF,Recreativo
+4178.0,Laurențiu Roșu,/en/players/83e63626/Laurentiu-Rosu,Laurentiu-Rosu,83e63626,ro ROU,"FW,MF",Recreativo
+4179.0,Mário Silva,/en/players/f5f7fa5f/Mario-Silva,Mario-Silv,f5f7fa5f,pt POR,DF,Recreativo
+4180.0,Javi Jiménez,/en/players/f3e8d231/Javi-Jimenez,Javi-Jimenez,f3e8d231,es ESP,MF,Recreativo
+4181.0,Ángel Rodríguez,/en/players/81645497/Angel-Rodriguez,Angel-Rodriguez,81645497,es ESP,MF,Recreativo
+4182.0,Jesús Galván,/en/players/5f605a71/Jesus-Galvan,Jesus-Galv,5f605a71,es ESP,DF,Recreativo
+4183.0,Antonio Calle,/en/players/3d3d63b9/Antonio-Calle,Antonio-C,3d3d63b9,es ESP,FW,Recreativo
+4184.0,Verza,/en/players/f972b073/Verza,Verz,f972b073,es ESP,MF,Recreativo
+4185.0,Gorka Azkorra,/en/players/b6ba90f9/Gorka-Azkorra,Gorka-Azko,b6ba90f9,es ESP,FW,Recreativo
+4186.0,Cheli,/en/players/2d07742d/Cheli,Cheli,2d07742d,es ESP,MF,Recreativo
+4187.0,Gastón Casas,/en/players/66258864/Gaston-Casas,Gaston-C,66258864,ar ARG,FW,Recreativo
+4188.0,Pablo Coira,/en/players/7099e844/Pablo-Coira,Pablo-Coi,7099e844,es ESP,DF,Recreativo
+4189.0,Xavi Valero,/en/players/3db74cf4/Xavi-Valero,Xavi-Valero,3db74cf4,es ESP,GK,Recreativo
+4190.0,Dani Bautista,/en/players/135b0a5e/Dani-Bautista,Dani-Bautist,135b0a5e,es ESP,DF,Recreativo
+4191.0,José Manuel Mateo,/en/players/d7458f0a/Jose-Manuel-Mateo,Jose-Manuel-Mateo,d7458f0a,es ESP,DF,Recreativo
+4192.0,Rafael Barber,/en/players/9af23dc4/Rafael-Barber,Rafael-Barb,9af23dc4,es ESP,MF,Recreativo
+4193.0,Iago Bouzón,/en/players/2b687c98/Iago-Bouzon,Iago-Bouzo,2b687c98,es ESP,DF,Recreativo
+4194.0,Juvenal,/en/players/b26bf947/Juvenal,Juv,b26bf947,gq EQG,MF,Recreativo
+4195.0,Antonio Valencia,/en/players/08aa17d0/Antonio-Valencia,Antonio-Valenci,08aa17d0,ec ECU,"DF,MF",Recreativo
+4196.0,﻿Jesús Vázquez,/en/players/96b3239f/Jesus-Vazquez,Jesus-Vazquez,96b3239f,es ESP,MF,Recreativo
+4197.0,Santi Cazorla,/en/players/e2e9c250/Santi-Cazorla,Santi-Cazo,2e9c250,es ESP,MF,Recreativo
+4198.0,Javier López Vallejo,/en/players/54562263/Javier-Lopez-Vallejo,Javier-Lopez-Vallejo,54562263,es ESP,GK,Recreativo
+4199.0,Beto,/en/players/c9837c1b/Beto,Beto,c9837c1b,pt POR,DF,Recreativo
+4200.0,Mario,/en/players/e6ede7f4/Mario,Mario,6ede7f4,es ESP,DF,Recreativo
+4201.0,Florent Sinama Pongolle,/en/players/f222974d/Florent-Sinama-Pongolle,Florent-Sinama-Pongo,f222974d,fr FRA,FW,Recreativo
+4202.0,Poli,/en/players/1e21189f/Poli,Poli,1e21189f,es ESP,DF,Recreativo
+4203.0,Juanma,/en/players/f4f22926/Juanma,Juanm,f4f22926,es ESP,MF,Recreativo
+4204.0,Edu Moya,/en/players/7da62f29/Edu-Moya,Edu-Mo,7da62f29,es ESP,"DF,MF",Recreativo
+4205.0,Pablo Amo,/en/players/2ee60d39/Pablo-Amo,Pablo-Amo,2ee60d39,es ESP,DF,Recreativo
+4206.0,Javi Guerrero,/en/players/bd4345ec/Javi-Guerrero,Javi-Guerrero,bd4345ec,es ESP,FW,Recreativo
+4207.0,Bertrand Laquait,/en/players/ab05bd3c/Bertrand-Laquait,Bertrand-Laquait,b05bd3c,fr FRA,GK,Recreativo
+4208.0,Pablo Oliveira,/en/players/e2bca2e0/Pablo-Oliveira,Pablo-Olivei,2bca2e0,es ESP,DF,Recreativo
+4209.0,﻿Stefano Sorrentino,/en/players/048877f5/Stefano-Sorrentino,Stefano-Sorrentino,048877f5,it ITA,GK,Recreativo
+4210.0,Javier Camuñas,/en/players/bbc1db07/Javier-Camunas,Javier-Camu,bbc1db07,es ESP,"FW,MF",Recreativo
+4211.0,Martín Cáceres,/en/players/e94d79e3/Martin-Caceres,Martin-Cac,94d79e3,uy URU,DF,Recreativo
+4212.0,Carlos Martins,/en/players/23cfa96c/Carlos-Martins,Carlos-Marti,23cfa96c,pt POR,MF,Recreativo
+4213.0,José María Calvo,/en/players/745b3a99/Jose-Maria-Calvo,Jose-Maria-Calvo,745b3a99,ar ARG,DF,Recreativo
+4214.0,Silvestre Varela,/en/players/9dffef9e/Silvestre-Varela,Silvestre-V,9dffef9e,pt POR,"FW,MF",Recreativo
+4215.0,Marquitos,/en/players/b5e3874c/Marquitos,Marquito,b5e3874c,es ESP,"FW,MF",Recreativo
+4216.0,Marco Ruben,/en/players/30795728/Marco-Ruben,Marco-Rub,30795728,ar ARG,FW,Recreativo
+4217.0,Quique Álvarez,/en/players/7ddc4550/Quique-Alvarez,Quique-Alvarez,7ddc4550,es ESP,DF,Recreativo
+4218.0,José Zahínos,/en/players/6a78fdc0/Jose-Zahinos,Jose-Zahino,6a78fdc0,es ESP,MF,Recreativo
+4219.0,Gerard López,/en/players/403b0279/Gerard-Lopez,Gerard-Lopez,403b0279,es ESP,MF,Recreativo
+4220.0,Ersen Martin,/en/players/c6298a83/Ersen-Martin,Ersen-Marti,c6298a83,tr TUR,FW,Recreativo
+4221.0,Edwin Congo,/en/players/08925878/Edwin-Congo,Edwin-Congo,08925878,co COL,FW,Recreativo
+4222.0,﻿Asier Riesgo,/en/players/581c5276/Asier-Riesgo,Asier-Riesgo,581c5276,es ESP,GK,Recreativo
+4223.0,Javi Fuego,/en/players/2e8fc160/Javi-Fuego,Javi-Fuego,2e8fc160,es ESP,MF,Recreativo
+4224.0,Adrián Colunga,/en/players/2212dd4e/Adrian-Colunga,Adrian-Colung,2212dd4e,es ESP,"FW,MF",Recreativo
+4225.0,César Arzo,/en/players/0ea37b10/Cesar-Arzo,Cesar-Arzo,0ea37b10,es ESP,"DF,MF",Recreativo
+4226.0,Sisi,/en/players/add7ec92/Sisi,Sisi,dd7ec92,es ESP,"FW,MF",Recreativo
+4227.0,José Manuel Casado,/en/players/d0b6d20e/Jose-Manuel-Casado,Jose-Manuel-Casado,d0b6d20e,es ESP,DF,Recreativo
+4228.0,Andrés Lamas,/en/players/4b204e6d/Andres-Lamas,Andres-Lam,4b204e6d,uy URU,DF,Recreativo
+4229.0,Alain Nef,/en/players/b69c4388/Alain-Nef,Alain-Nef,b69c4388,ch SUI,DF,Recreativo
+4230.0,Cristian Maidana,/en/players/84f7b28f/Cristian-Maidana,Cristian-Maid,84f7b28f,ar ARG,MF,Recreativo
+4231.0,Kanga Akalé,/en/players/54ef5887/Kanga-Akale,Kanga-Ak,54ef5887,ci CIV,"FW,MF",Recreativo
+4232.0,Sebastián Nayar,/en/players/56d1b762/Sebastian-Nayar,Sebastian-N,56d1b762,ar ARG,MF,Recreativo
+4233.0,Mario García Pizarraya,/en/players/07dee4f6/Mario-Garcia-Pizarraya,Mario-Garcia-Piz,07dee4f6,es ESP,MF,Recreativo
+4234.0,Joselito,/en/players/3e37382c/Joselito,Joselito,3e37382c,es ESP,FW,Recreativo
+4235.0,Juan Villar,/en/players/c33ee247/Juan-Villar,Juan-Vi,c33ee247,es ESP,"FW,MF",Recreativo
+4236.0,﻿Raúl Cámara,/en/players/585753d9/Raul-Camara,Raul-Cam,585753d9,es ESP,DF,Recreativo
+4237.0,Carlos Carmona,/en/players/d161184f/Carlos-Carmona,Carlos-Carmo,d161184f,es ESP,"FW,MF",Recreativo
+4238.0,Álvaro Antón,/en/players/90041d71/Alvaro-Anton,Alvaro-Anto,90041d71,es ESP,MF,Recreativo
+4239.0,Vicente Guaita,/en/players/ab13a5aa/Vicente-Guaita,Vicente-Guait,b13a5aa,es ESP,GK,Recreativo
+4240.0,Carlos Peña,/en/players/26a03602/Carlos-Pena,Carlos-P,26a03602,es ESP,DF,Recreativo
+4241.0,Magnus Troest,/en/players/4dbc94c5/Magnus-Troest,Magnus-Troest,4dbc94c5,dk DEN,DF,Recreativo
+4242.0,José Mora,/en/players/0eff5cf7/Jose-Mora,Jose-Mo,0eff5cf7,ec ECU,FW,Recreativo
+4243.0,Braulio Nóbrega,/en/players/6e02869d/Braulio-Nobrega,Braulio-Nobreg,6e02869d,es ESP,FW,Recreativo
+4244.0,Emilio Sánchez,/en/players/58b5df2f/Emilio-Sanchez,Emilio-Sanchez,58b5df2f,es ESP,MF,Recreativo
+4245.0,Bernardo Domínguez,/en/players/15394beb/Bernardo-Dominguez,Bernardo-Dominguez,15394beb,es ESP,GK,Recreativo
+4246.0,Bruno Fornaroli,/en/players/7fbbac4f/Bruno-Fornaroli,Bruno-Fornaroli,7fbbac4f,au AUS,FW,Recreativo
+4247.0,Óscar Díaz,/en/players/5a5ed410/Oscar-Diaz,Oscar-Diaz,5a5ed410,es ESP,"FW,MF",Recreativo
+4248.0,Pablo Sánchez,/en/players/8c3fe4bb/Pablo-Sanchez,Pablo-Sanchez,8c3fe4bb,es ESP,"FW,MF",Recreativo
+4249.0,David Córcoles,/en/players/929ea912/David-Corcoles,David-Corco,929ea912,es ESP,DF,Recreativo
+4250.0,Pablo Gallardo,/en/players/64e102be/Pablo-Gallardo,Pablo-Gallardo,64e102be,es ESP,DF,Recreativo
+4251.0,Fidel,/en/players/eb82b6f1/Fidel,Fid,b82b6f1,es ESP,MF,Recreativo
+4252.0,Daniel Candeias,/en/players/0366fc78/Daniel-Candeias,Daniel-Candei,0366fc78,pt POR,"FW,MF",Recreativo
+4253.0,Daniel Martín,/en/players/c8d2987f/Daniel-Martin,Daniel-Marti,c8d2987f,es ESP,FW,Recreativo
+4254.0,Juan Aranda,/en/players/3e816ae9/Juan-Aranda,Juan-Arand,3e816ae9,es ESP,DF,Recreativo
+4255.0,Chus Hevia,/en/players/ed576d27/Chus-Hevia,Chus-Hevi,d576d27,es ESP,MF,Recreativo
+4256.0,﻿Fabricio,/en/players/af245161/Fabricio,Fabricio,f245161,es ESP,GK,Recreativo
+4257.0,Manolo Martínez,/en/players/7b9876e4/Manolo-Martinez,Manolo-Martinez,7b9876e4,es ESP,"DF,MF",Recreativo
+4258.0,Jordi Matamala,/en/players/b064ff85/Jordi-Matamala,Jordi-Matam,b064ff85,es ESP,MF,Recreativo
+4259.0,Aarón Ñíguez,/en/players/5d720396/Aaron-Niguez,Aaron-Niguez,5d720396,es ESP,"FW,MF",Recreativo
+4260.0,Asen,/en/players/5725f8c6/Asen,A,5725f8c6,es ESP,FW,Recreativo
+4261.0,Leandro Cabrera,/en/players/69cbc8b6/Leandro-Cabrera,Leandro-Cab,69cbc8b6,uy URU,DF,Recreativo
+4262.0,Kepa Blanco,/en/players/e021d831/Kepa-Blanco,Kepa-Blanco,021d831,es ESP,FW,Recreativo
+4263.0,Javier Acuña,/en/players/993ff7aa/Javier-Acuna,Javier-Acu,993ff7aa,py PAR,FW,Recreativo
+4264.0,Álex Quillo,/en/players/3110aa90/Alex-Quillo,Alex-Quillo,3110aa90,es ESP,MF,Recreativo
+4265.0,Kike Tortosa,/en/players/a65cc307/Kike-Tortosa,Kike-Torto,65cc307,es ESP,FW,Recreativo
+4266.0,Borja Granero,/en/players/e080b1c1/Borja-Granero,Borja-Granero,080b1c1,es ESP,"DF,MF",Recreativo
+4267.0,Miguelito,/en/players/e185200a/Miguelito,Miguelito,185200a,es ESP,MF,Recreativo
+4268.0,﻿Manu,/en/players/e6c6988d/Manu,Manu,6c6988d,es ESP,GK,Recreativo
+4269.0,Javi Álamo,/en/players/ffd69308/Javi-Alamo,Javi-Alamo,ffd69308,es ESP,"FW,MF",Recreativo
+4270.0,Daniel Cifuentes,/en/players/488a3de8/Daniel-Cifuentes,Daniel-Cifuent,488a3de8,es ESP,DF,Recreativo
+4271.0,Ramón Arcas,/en/players/40fc30d6/Ramon-Arcas,Ramon-Arc,40fc30d6,es ESP,MF,Recreativo
+4272.0,Aritz Borda,/en/players/47e49156/Aritz-Borda,Aritz-Bord,47e49156,es ESP,DF,Recreativo
+4273.0,Manuel Bonaque,/en/players/988a981d/Manuel-Bonaque,Manuel-Bonaqu,988a981d,es ESP,DF,Recreativo
+4274.0,Jesús Berrocal,/en/players/13fba9d3/Jesus-Berrocal,Jesus-Berroc,13fba9d3,es ESP,FW,Recreativo
+4275.0,Alejandro Zambrano,/en/players/b249833f/Alejandro-Zambrano,Alejandro-Zambrano,b249833f,es ESP,MF,Recreativo
+4276.0,Sergi Enrich,/en/players/bb4b1242/Sergi-Enrich,Sergi-Enrich,bb4b1242,es ESP,"FW,MF",Recreativo
+4277.0,Ximo Navarro,/en/players/8db394aa/Ximo-Navarro,Ximo-Navarro,8db394aa,es ESP,DF,Recreativo
+4278.0,Alejandro Zamora,/en/players/b3848769/Alejandro-Zamora,Alejandro-Zamo,b3848769,es ESP,"DF,MF",Recreativo
+4279.0,Fernando Vega,/en/players/4a5e41f8/Fernando-Vega,Fernando-Veg,4a5e41f8,es ESP,DF,Recreativo
+4280.0,Alejandro García,/en/players/03935efd/Alejandro-Garcia,Alejandro-Garci,03935efd,es ESP,GK,Recreativo
+4281.0,Jesús Rubio,/en/players/3dd3b13e/Jesus-Rubio,Jesus-Rubio,3dd3b13e,es ESP,MF,Recreativo
+4282.0,Danilo Peinado,/en/players/3d4c642f/Danilo-Peinado,Danilo-Peinado,3d4c642f,uy URU,FW,Recreativo
+4283.0,Álvaro Vega,/en/players/7eacc9a2/Alvaro-Vega,Alvaro-Veg,7eacc9a2,es ESP,DF,Recreativo
+4284.0,Chuli,/en/players/24efffbf/Chuli,Chuli,24efffbf,es ESP,"FW,MF",Recreativo
+4285.0,Aitor García,/en/players/9121816b/Aitor-Garcia,Aitor-Garci,9121816b,es ESP,"FW,MF",Recreativo
+4286.0,Héctor Font,/en/players/9982593d/Hector-Font,Hector-Font,9982593d,es ESP,MF,Recreativo
+4287.0,﻿Dimas Delgado,/en/players/f6876bd7/Dimas-Delgado,Dimas-Delgado,f6876bd7,es ESP,MF,Recreativo
+4288.0,Jorge Morcillo,/en/players/ebbbf1dd/Jorge-Morcillo,Jorge-Morcillo,bbbf1dd,es ESP,DF,Recreativo
+4289.0,Alexander,/en/players/3e1858af/Alexander,Alexand,3e1858af,ar ARG,MF,Recreativo
+4290.0,Jesús Cabrero,/en/players/d5e95d46/Jesus-Cabrero,Jesus-Cabrero,d5e95d46,es ESP,GK,Recreativo
+4291.0,Juan Zamora,/en/players/dc8ab5e4/Juan-Zamora,Juan-Zamo,dc8ab5e4,es ESP,DF,Recreativo
+4292.0,Ángel Montoro,/en/players/719384c1/Angel-Montoro,Angel-Montoro,719384c1,es ESP,MF,Recreativo
+4293.0,Ruymán Hernández,/en/players/4d598125/Ruyman-Hernandez,Ruyman-Hernandez,4d598125,es ESP,DF,Recreativo
+4294.0,Paweł Brożek,/en/players/35e7440b/Pawel-Brozek,Pawel-Brozek,35e7440b,pl POL,FW,Recreativo
+4295.0,Manuel Arana,/en/players/81fac4d9/Manuel-Arana,Manuel-A,81fac4d9,es ESP,MF,Recreativo
+4296.0,Albert Puigdollers,/en/players/35b62825/Albert-Puigdollers,Albert-Puigdo,35b62825,es ESP,MF,Recreativo
+4297.0,Ernesto,/en/players/7c50c24d/Ernesto,Ernesto,7c50c24d,es ESP,MF,Recreativo
+4298.0,José Pardo,/en/players/f9560607/Jose-Pardo,Jose-Pardo,f9560607,es ESP,DF,Recreativo
+4299.0,Diego Riolfo,/en/players/f69fc160/Diego-Riolfo,Diego-Riolfo,f69fc160,uy URU,"FW,GK",Recreativo
+4300.0,Marco Navas,/en/players/194ed492/Marco-Navas,Marco-Nav,194ed492,es ESP,MF,Recreativo
+4301.0,Adrián Mouriño,/en/players/8938890f/Adrian-Mourino,Adrian-Mourino,8938890f,es ESP,MF,Recreativo
+4302.0,Francis,/en/players/021ea991/Francis,Franci,021ea991,es ESP,FW,Recreativo
+4303.0,Naranjo,/en/players/2a70c756/Naranjo,Naranjo,2a70c756,es ESP,"FW,MF",Recreativo
+4304.0,Jorge Merino,/en/players/6c6222a4/Jorge-Merino,Jorge-Merino,6c6222a4,es ESP,MF,Recreativo
+4305.0,Jesús Ayala,/en/players/e4d88d24/Jesus-Ayala,Jesus-A,4d88d24,es ESP,MF,Recreativo
+4306.0,Miguel Linares,/en/players/e3cfbf9a/Miguel-Linares,Miguel-Li,3cfbf9a,es ESP,"FW,MF",Recreativo
+4307.0,Joselu,/en/players/a5e9c273/Joselu,Joselu,5e9c273,es ESP,FW,Recreativo
+4308.0,Hernán Menosse,/en/players/d708de9a/Hernan-Menosse,Hernan-Meno,d708de9a,uy URU,DF,Recreativo
+4309.0,Jorge Larena,/en/players/3de25195/Jorge-Larena,Jorge-L,3de25195,es ESP,MF,Recreativo
+4310.0,Toño,/en/players/d4ef9ac5/Tono,Tono,d4ef9ac5,es ESP,"DF,MF",Recreativo
+4311.0,Felipe Gallegos,/en/players/b3f50e68/Felipe-Gallegos,Felipe-Gallego,b3f50e68,cl CHI,"FW,MF",Recreativo
+4312.0,Ezequiel Calvente,/en/players/633ea214/Ezequiel-Calvente,Ezequiel-Calvent,633ea214,es ESP,"FW,MF",Recreativo
+4313.0,Jonatan Valle,/en/players/25372a47/Jonatan-Valle,Jonatan-V,25372a47,es ESP,"FW,MF",Recreativo
+4314.0,Aloys Nong,/en/players/570de35e/Aloys-Nong,Aloys-Nong,570de35e,cm CMR,FW,Recreativo
+4315.0,Álex Pérez,/en/players/8dac6f70/Alex-Perez,Alex-Perez,8dac6f70,es ESP,DF,Recreativo
+4316.0,Tomás Girón,/en/players/49b016dc/Tomas-Giron,Tomas-Giro,49b016dc,es ESP,DF,Recreativo
+4317.0,Chechu,/en/players/78d0c6ea/Chechu,Chechu,78d0c6ea,es ESP,DF,Recreativo
+4318.0,Jorge Araújo,/en/players/f6f99d20/Jorge-Araujo,Jorge-Araujo,f6f99d20,pt POR,"DF,MF",Recreativo
+4319.0,Víctor Díaz,/en/players/3624ce4c/Victor-Diaz,Victor-Diaz,3624ce4c,es ESP,DF,Recreativo
+4320.0,Daniel Sotres,/en/players/0a02a8fa/Daniel-Sotres,Daniel-Sot,0a02a8fa,es ESP,GK,Recreativo
+4321.0,Juanan,/en/players/41ab1795/Juanan,Ju,41ab1795,es ESP,DF,Recreativo
+4322.0,Diego Jiménez López,/en/players/9e42fd2c/Diego-Jimenez-Lopez,Diego-Jimenez-Lopez,9e42fd2c,es ESP,DF,Recreativo
+4323.0,Antonio Núñez,/en/players/df89070b/Antonio-Nunez,Antonio-Nunez,df89070b,es ESP,MF,Recreativo
+4324.0,Rubén Ramos,/en/players/34d16061/Ruben-Ramos,Ruben-Ramo,34d16061,es ESP,"FW,GK",Recreativo
+4325.0,Javier Cabrera,/en/players/1ebd3fa2/Javier-Cabrera,Javier-Cab,1ebd3fa2,uy URU,"FW,MF",Recreativo
+4326.0,Antonio Domínguez,/en/players/32e69394/Antonio-Dominguez,Antonio-Dominguez,32e69394,es ESP,FW,Recreativo
+4327.0,Caye Quintana,/en/players/42b47114/Caye-Quintana,Caye-Quint,42b47114,es ESP,FW,Recreativo
+4328.0,Manu Molina,/en/players/4a541583/Manu-Molina,Manu-Moli,4a541583,es ESP,MF,Recreativo
+4329.0,Daniel Molina Orta,/en/players/102fda08/Daniel-Molina-Orta,Daniel-Molina-Ort,102fda08,es ESP,MF,Recreativo
+4330.0,Rubén Mesa Visiga,/en/players/9f3f9fbf/Ruben-Mesa-Visiga,Ruben-Mesa-Visig,9f3f9fbf,es ESP,FW,Recreativo
+4331.0,Isaac Nana Asare,/en/players/b109c2a5/Isaac-Nana-Asare,Isaac-Nana-A,b109c2a5,gh GHA,MF,Recreativo
+4332.0,Josmar Zambrano,/en/players/64bd3334/Josmar-Zambrano,Josmar-Zambrano,64bd3334,ve VEN,MF,Recreativo
+4333.0,Salvi Moya,/en/players/ae963cbc/Salvi-Moya,Salvi-Mo,963cbc,es ESP,FW,Recreativo
+4334.0,Rubén Alonso,/en/players/2d49cc0b/Ruben-Alonso,Ruben-Alonso,2d49cc0b,es ESP,MF,Recreativo
+4335.0,Rubén Gálvez,/en/players/98ddffd9/Ruben-Galvez,Ruben-Galvez,98ddffd9,es ESP,GK,Recreativo
+4336.0,Mario Gómez,/en/players/b9873ddd/Mario-Gomez,Mario-Gomez,b9873ddd,es ESP,DF,Recreativo
+4337.0,Antonio Navas,/en/players/8a10fd62/Antonio-Navas,Antonio-Nav,8a10fd62,es ESP,DF,Recreativo
+4338.0,David Novoa Campos,/en/players/6a5c8197/David-Novoa-Campos,David-Novoa-Campo,6a5c8197,es ESP,DF,Recreativo
+4339.0,Juan Pablo,/en/players/7abc9076/Juan-Pablo,Juan-Pablo,7abc9076,es ESP,GK,Recreativo
+4340.0,Manu Ramírez,/en/players/afa91757/Manu-Ramirez,Manu-Ramirez,fa91757,es ESP,MF,Recreativo
+4341.0,﻿Carlos Delgado,/en/players/294afef4/Carlos-Delgado,Carlos-Delgado,294afef4,es ESP,DF,Recreativo
+4342.0,Cristian Fernández,/en/players/2adca4d2/Cristian-Fernandez,Cristian-Fernandez,2adca4d2,es ESP,FW,Recreativo
+4343.0,Mario Marín Soto,/en/players/c63e6769/Mario-Marin-Soto,Mario-Marin-Soto,c63e6769,es ESP,DF,Recreativo
+4344.0,Michael Pinto,/en/players/6e2c53cb/Michael-Pinto,Michael-Pinto,6e2c53cb,lu LUX,"DF,FW",Recreativo
+4345.0,Luís Ribeiro,/en/players/c55c9f2e/Luis-Ribeiro,Luis-Ribeiro,c55c9f2e,pt POR,GK,Recreativo
+4346.0,Kikas,/en/players/40c57a43/Kikas,Kik,40c57a43,pt POR,"DF,MF",Recreativo
+4347.0,Álvaro Moreno Sabater,/en/players/436f4f65/Alvaro-Moreno-Sabater,Alvaro-Moreno-Sabat,436f4f65,es ESP,DF,Recreativo
+4348.0,﻿Cera,/en/players/e1df9396/Cera,C,1df9396,es ESP,DF,Recreativo
+4349.0,Borja García,/en/players/13c3bec9/Borja-Garcia,Borja-Garci,13c3bec9,es ESP,DF,Recreativo
+4350.0,Alejandro Lázaro,/en/players/e5e4055e/Alejandro-Lazaro,Alejandro-Lazaro,5e4055e,es ESP,GK,Recreativo
+4351.0,Antonio Ponce,/en/players/02ccdbb4/Antonio-Ponce,Antonio-Ponc,02ccdbb4,es ESP,MF,Recreativo
+4352.0,Quique Rivero,/en/players/0204d102/Quique-Rivero,Quique-Rivero,0204d102,es ESP,MF,Recreativo
+4353.0,Alberto Quiles,/en/players/25233d1b/Alberto-Quiles,Alberto-Qui,25233d1b,es ESP,FW,Recreativo
+4354.0,Víctor,/en/players/01e029c9/Victor,Victo,01e029c9,es ESP,MF,Recreativo
+4355.0,Irizo,/en/players/d2090a27/Irizo,Irizo,d2090a27,es ESP,MF,Recreativo
+4356.0,Fran López,/en/players/9b4b345a/Fran-Lopez,Fran-Lopez,9b4b345a,es ESP,MF,Recreativo
+4357.0,Kleandro Lleshi,/en/players/d235a5e3/Kleandro-Lleshi,Kleandro-Lleshi,d235a5e3,al ALB,MF,Recreativo
+4358.0,Gerard Vergé,/en/players/1404784c/Gerard-Verge,Gerard-Verg,1404784c,es ESP,FW,Recreativo
+4359.0,Rubén Cruz Gil,/en/players/365d25bb/Ruben-Cruz-Gil,Ruben-Cruz-Gi,365d25bb,es ESP,MF,Recreativo
+4360.0,Nauzet Pérez,/en/players/d7ffd345/Nauzet-Perez,Nauzet-Perez,d7ffd345,es ESP,GK,Recreativo
+4361.0,David Romero,/en/players/85a04f43/David-Romero,David-Romero,85a04f43,es ESP,FW,Recreativo

@@ -1,607 +1,607 @@
-﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB
-,﻿Gianluigi Buffon,it ITA,GK,32,32,0.0,0.0,2002-2003,40d028b,Juventus,"2,827",31.4,1.0,0.0,160.0,9.0,
-,Pavel Nedvěd,cz CZE,MF,29,27,11.0,8.0,2002-2003,b059f29,Juventus,"2,290",25.4,3.0,0.0,160.0,84.0,
-,Lilian Thuram,fr FRA,DF,27,26,1.0,1.0,2002-2003,643ca22c,Juventus,"2,307",25.6,0.0,0.0,160.0,4.0,
-,Edgar Davids,nl NED,MF,26,25,0.0,1.0,2002-2003,19d5e43e,Juventus,"2,118",23.5,3.0,0.0,160.0,11.0,
-,Mauro Camoranesi,it ITA,MF,30,24,4.0,4.0,2002-2003,35163a80,Juventus,"2,127",23.6,7.0,0.0,160.0,9.0,
-,Ciro Ferrara,it ITA,DF,25,24,1.0,0.0,2002-2003,d31cea40,Juventus,"2,108",23.4,3.0,0.0,160.0,9.0,
-,Alessio Tacchinardi,it ITA,MF,27,22,1.0,2.0,2002-2003,b99799e5,Juventus,"2,027",22.5,3.0,0.0,160.0,9.0,
-,Gianluca Zambrotta,it ITA,DF,25,21,5.0,0.0,2002-2003,94508225,Juventus,"1,903",21.1,3.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",24,20,8.0,16.0,2002-2003,80bc263c,Juventus,"1,886",21.0,1.0,0.0,160.0,9.0,
-,Paolo Montero,uy URU,DF,21,19,0.0,0.0,2002-2003,ca09be9a,Juventus,"1,784",19.8,2.0,0.0,160.0,8.0,
-,Mark Iuliano,it ITA,DF,21,19,0.0,1.0,2002-2003,9385eaee,Juventus,"1,682",18.7,3.0,0.0,160.0,9.0,
-,Marco Di Vaio,it ITA,FW,26,18,2.0,7.0,2002-2003,dfa05223,Juventus,"1,552",17.2,2.0,0.0,160.0,9.0,
-,Alessandro Birindelli,it ITA,DF,17,14,0.0,0.0,2002-2003,3c388958,Juventus,"1,187",13.2,1.0,1.0,160.0,9.0,
-,David Trezeguet,fr FRA,FW,17,14,2.0,9.0,2002-2003,80183cb2,Juventus,"1,163",12.9,0.0,0.0,160.0,4.0,
-,Antonio Conte,it ITA,MF,18,12,0.0,1.0,2002-2003,6d3e0d09,Juventus,"1,085",12.1,1.0,1.0,160.0,9.0,
-,Gianluca Pessotto,it ITA,"DF,MF",17,9,1.0,0.0,2002-2003,4bf5d1f,Juventus,864,9.6,1.0,0.0,160.0,9.0,
-,Marcelo Zalayeta,uy URU,FW,18,8,3.0,4.0,2002-2003,707e472c,Juventus,782,8.7,2.0,0.0,160.0,8.0,
-,Igor Tudor,hr CRO,DF,14,8,2.0,1.0,2002-2003,565d4832,Juventus,754,8.4,2.0,1.0,160.0,16.0,
-,Marcelo Salas,cl CHI,FW,11,7,1.0,1.0,2002-2003,0836ac1e,Juventus,529,5.9,1.0,0.0,160.0,31.0,
-,Davide Baiocco,it ITA,MF,7,5,0.0,0.0,2002-2003,98a44c3c,Juventus,337,3.7,0.0,0.0,160.0,9.0,
-,Cristian Zenoni,it ITA,DF,13,4,2.0,1.0,2002-2003,5f3120a,Juventus,611,6.8,0.0,0.0,160.0,9.0,
-,Salvatore Fresi,it ITA,DF,9,4,0.0,1.0,2002-2003,b1844739,Juventus,442,4.9,0.0,0.0,160.0,9.0,
-,Antonio Chimenti,it ITA,GK,4,2,0.0,0.0,2002-2003,96d5e916,Juventus,223,2.5,0.0,0.0,160.0,9.0,
-,Rubén Olivera,uy URU,MF,3,1,1.0,0.0,2002-2003,74b94461,Juventus,136,1.5,0.0,0.0,160.0,8.0,
-,Matteo Paro,it ITA,MF,1,1,0.0,0.0,2002-2003,c8fd60cd,Juventus,71,0.8,0.0,0.0,160.0,9.0,
-,﻿Gianluigi Buffon,it ITA,GK,32,32,0.0,0.0,2003-2004,40d028b,Juventus,"2,880",32.0,1.0,0.0,160.0,9.0,
-,Gianluca Zambrotta,it ITA,DF,30,29,6.0,1.0,2003-2004,94508225,Juventus,"2,586",28.7,3.0,0.0,160.0,9.0,
-,Pavel Nedvěd,cz CZE,MF,30,28,8.0,6.0,2003-2004,b059f29,Juventus,"2,445",27.2,5.0,0.0,160.0,84.0,
-,Stephen Appiah,gh GHA,MF,30,25,1.0,1.0,2003-2004,c4fb13cc,Juventus,"2,251",25.0,3.0,0.0,160.0,17.0,
-,Lilian Thuram,fr FRA,DF,23,23,1.0,0.0,2003-2004,643ca22c,Juventus,"2,013",22.4,1.0,0.0,160.0,4.0,
-,David Trezeguet,fr FRA,FW,25,23,4.0,16.0,2003-2004,80183cb2,Juventus,"2,012",22.4,1.0,0.0,160.0,4.0,
-,Alessio Tacchinardi,it ITA,MF,24,22,5.0,0.0,2003-2004,b99799e5,Juventus,"1,917",21.3,3.0,0.0,160.0,9.0,
-,Mauro Camoranesi,it ITA,MF,26,22,5.0,3.0,2003-2004,35163a80,Juventus,"1,771",19.7,3.0,0.0,160.0,9.0,
-,Nicola Legrottaglie,it ITA,DF,21,21,1.0,2.0,2003-2004,c3c63a36,Juventus,"1,749",19.4,2.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",22,18,4.0,8.0,2003-2004,80bc263c,Juventus,"1,469",16.3,2.0,0.0,160.0,9.0,
-,Paolo Montero,uy URU,DF,19,17,0.0,1.0,2003-2004,ca09be9a,Juventus,"1,449",16.1,4.0,2.0,160.0,8.0,
-,Marco Di Vaio,it ITA,FW,29,15,2.0,11.0,2003-2004,dfa05223,Juventus,"1,510",16.8,0.0,0.0,160.0,9.0,
-,Ciro Ferrara,it ITA,DF,17,15,0.0,1.0,2003-2004,d31cea40,Juventus,"1,325",14.7,3.0,1.0,160.0,9.0,
-,Alessandro Birindelli,it ITA,DF,19,14,1.0,0.0,2003-2004,3c388958,Juventus,"1,312",14.6,4.0,0.0,160.0,9.0,
-,Enzo Maresca,it ITA,MF,20,13,4.0,3.0,2003-2004,1a899d99,Juventus,"1,131",12.6,0.0,0.0,160.0,9.0,
-,Mark Iuliano,it ITA,DF,18,13,0.0,2.0,2003-2004,9385eaee,Juventus,"1,103",12.3,2.0,1.0,160.0,9.0,
-,Fabrizio Miccoli,it ITA,FW,25,11,4.0,8.0,2003-2004,80221e9b,Juventus,"1,111",12.3,1.0,0.0,160.0,9.0,
-,Antonio Conte,it ITA,MF,16,11,0.0,1.0,2003-2004,6d3e0d09,Juventus,"1,033",11.5,5.0,0.0,160.0,9.0,
-,Gianluca Pessotto,it ITA,"DF,MF",18,9,0.0,0.0,2003-2004,4bf5d1f,Juventus,807,9.0,0.0,0.0,160.0,9.0,
-,Igor Tudor,hr CRO,DF,15,7,0.0,2.0,2003-2004,565d4832,Juventus,961,10.7,1.0,0.0,160.0,16.0,
-,Edgar Davids,nl NED,MF,5,4,0.0,0.0,2003-2004,19d5e43e,Juventus,333,3.7,2.0,0.0,160.0,11.0,
-,Antonio Chimenti,it ITA,GK,2,2,0.0,0.0,2003-2004,96d5e916,Juventus,180,2.0,0.0,0.0,160.0,9.0,
-,Viktor Budyanskiy,ru RUS,MF,2,0,0.0,0.0,2003-2004,6502280e,Juventus,91,1.0,0.0,0.0,160.0,23.0,
-,Marcelo Zalayeta,uy URU,FW,2,0,0.0,0.0,2003-2004,707e472c,Juventus,80,0.9,0.0,0.0,160.0,8.0,
-,Davide Chiumiento,ch SUI,MF,1,0,0.0,0.0,2003-2004,1ccdc87d,Juventus,30,0.3,0.0,0.0,160.0,39.0,
-,﻿Fabio Cannavaro,it ITA,DF,38,38,0.0,2.0,2004-2005,51152527,Juventus,"3,334",37.0,2.0,0.0,160.0,9.0,
-,Lilian Thuram,fr FRA,DF,37,37,1.0,0.0,2004-2005,643ca22c,Juventus,"3,330",37.0,5.0,0.0,160.0,4.0,
-,Gianluigi Buffon,it ITA,GK,37,37,0.0,0.0,2004-2005,40d028b,Juventus,"3,285",36.5,0.0,0.0,160.0,9.0,
-,Gianluca Zambrotta,it ITA,DF,36,36,0.0,0.0,2004-2005,94508225,Juventus,"3,237",36.0,3.0,0.0,160.0,9.0,
-,Mauro Camoranesi,it ITA,MF,36,34,12.0,4.0,2004-2005,35163a80,Juventus,"3,049",33.9,6.0,0.0,160.0,9.0,
-,Emerson,br BRA,MF,33,33,2.0,2.0,2004-2005,67d57df1,Juventus,"2,789",31.0,4.0,1.0,160.0,2.0,
-,Zlatan Ibrahimović,se SWE,FW,35,31,5.0,16.0,2004-2005,4cde5509,Juventus,"2,764",30.7,3.0,0.0,160.0,41.0,
-,Pavel Nedvěd,cz CZE,MF,27,27,6.0,7.0,2004-2005,b059f29,Juventus,"2,381",26.5,7.0,0.0,160.0,84.0,
-,Alessandro Del Piero,it ITA,"FW,MF",30,27,4.0,14.0,2004-2005,80bc263c,Juventus,"1,954",21.7,2.0,0.0,160.0,9.0,
-,Jonathan Zebina,fr FRA,DF,24,24,2.0,0.0,2004-2005,5b48889f,Juventus,"2,072",23.0,7.0,0.0,160.0,4.0,
-,Manuele Blasi,it ITA,MF,27,18,1.0,0.0,2004-2005,7aae335a,Juventus,"1,728",19.2,6.0,0.0,160.0,9.0,
-,Stephen Appiah,gh GHA,MF,18,14,0.0,2.0,2004-2005,c4fb13cc,Juventus,"1,313",14.6,4.0,0.0,160.0,17.0,
-,David Trezeguet,fr FRA,FW,18,14,0.0,9.0,2004-2005,80183cb2,Juventus,"1,171",13.0,0.0,0.0,160.0,4.0,
-,Gianluca Pessotto,it ITA,"DF,MF",19,13,0.0,0.0,2004-2005,4bf5d1f,Juventus,"1,152",12.8,1.0,0.0,160.0,9.0,
-,Marcelo Zalayeta,uy URU,FW,28,10,5.0,6.0,2004-2005,707e472c,Juventus,"1,322",14.7,1.0,0.0,160.0,8.0,
-,Alessio Tacchinardi,it ITA,MF,16,8,2.0,0.0,2004-2005,b99799e5,Juventus,750,8.3,2.0,0.0,160.0,9.0,
-,Rubén Olivera,uy URU,MF,18,6,2.0,4.0,2004-2005,74b94461,Juventus,676,7.5,6.0,1.0,160.0,8.0,
-,Alessandro Birindelli,it ITA,DF,12,5,0.0,0.0,2004-2005,3c388958,Juventus,482,5.4,1.0,0.0,160.0,9.0,
-,Paolo Montero,uy URU,DF,5,3,0.0,0.0,2004-2005,ca09be9a,Juventus,313,3.5,2.0,0.0,160.0,8.0,
-,Olivier Kapo,fr FRA,"FW,MF",13,2,2.0,0.0,2004-2005,992c2db8,Juventus,267,3.0,0.0,0.0,160.0,4.0,
-,Antonio Chimenti,it ITA,GK,2,1,0.0,0.0,2004-2005,96d5e916,Juventus,135,1.5,0.0,0.0,160.0,9.0,
-,Andrea Masiello,it ITA,DF,1,0,,0.0,2004-2005,0314d87,Juventus,35,0.4,0.0,0.0,160.0,9.0,
-,Adrian Mutu,ro ROU,"FW,MF",1,0,,0.0,2004-2005,7af7fbd8,Juventus,34,0.4,0.0,0.0,160.0,51.0,
-,Ciro Ferrara,it ITA,DF,4,0,0.0,0.0,2004-2005,d31cea40,Juventus,25,0.3,0.0,0.0,160.0,9.0,
-,Igor Tudor,hr CRO,DF,2,0,0.0,0.0,2004-2005,565d4832,Juventus,18,0.2,1.0,0.0,160.0,16.0,
-,﻿Fabio Cannavaro,it ITA,DF,36,36,0.0,4.0,2005-2006,51152527,Juventus,"3,201",35.6,7.0,1.0,160.0,9.0,
-,Emerson,br BRA,MF,34,33,2.0,2.0,2005-2006,67d57df1,Juventus,"2,984",33.2,3.0,0.0,160.0,2.0,
-,Gianluca Zambrotta,it ITA,DF,32,32,4.0,0.0,2005-2006,94508225,Juventus,"2,840",31.6,4.0,0.0,160.0,9.0,
-,Patrick Vieira,fr FRA,MF,31,31,5.0,5.0,2005-2006,f90f1086,Juventus,"2,769",30.8,10.0,0.0,160.0,4.0,
-,Pavel Nedvěd,cz CZE,MF,33,31,8.0,5.0,2005-2006,b059f29,Juventus,"2,716",30.2,6.0,1.0,160.0,84.0,
-,Zlatan Ibrahimović,se SWE,FW,35,29,6.0,7.0,2005-2006,4cde5509,Juventus,"2,402",26.7,4.0,0.0,160.0,41.0,
-,David Trezeguet,fr FRA,FW,32,28,3.0,23.0,2005-2006,80183cb2,Juventus,"2,338",26.0,0.0,0.0,160.0,4.0,
-,Lilian Thuram,fr FRA,DF,27,25,2.0,0.0,2005-2006,643ca22c,Juventus,"2,233",24.8,4.0,1.0,160.0,4.0,
-,Mauro Camoranesi,it ITA,MF,34,25,10.0,3.0,2005-2006,35163a80,Juventus,"2,179",24.2,7.0,0.0,160.0,9.0,
-,Adrian Mutu,ro ROU,"FW,MF",32,20,6.0,7.0,2005-2006,7af7fbd8,Juventus,"1,723",19.1,3.0,0.0,160.0,51.0,
-,Gianluigi Buffon,it ITA,GK,18,18,0.0,0.0,2005-2006,40d028b,Juventus,"1,619",18.0,1.0,0.0,160.0,9.0,
-,Christian Abbiati,it ITA,GK,19,18,0.0,0.0,2005-2006,322421c2,Juventus,"1,612",17.9,1.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",33,17,3.0,11.0,2005-2006,80bc263c,Juventus,"1,723",19.1,0.0,0.0,160.0,9.0,
-,Robert Kovač,hr CRO,DF,18,15,2.0,1.0,2005-2006,cc19ca30,Juventus,"1,406",15.6,3.0,0.0,160.0,16.0,
-,Giorgio Chiellini,it ITA,DF,17,15,1.0,0.0,2005-2006,85fb9b8,Juventus,"1,369",15.2,5.0,0.0,160.0,9.0,
-,Federico Balzaretti,it ITA,DF,20,13,0.0,0.0,2005-2006,fbef4f9f,Juventus,"1,313",14.6,0.0,0.0,160.0,9.0,
-,Giuliano Giannichedda,it ITA,MF,15,9,1.0,0.0,2005-2006,1bfa94c1,Juventus,780,8.7,1.0,0.0,160.0,9.0,
-,Jonathan Zebina,fr FRA,DF,10,7,0.0,0.0,2005-2006,5b48889f,Juventus,482,5.4,0.0,0.0,160.0,4.0,
-,Manuele Blasi,it ITA,MF,13,6,0.0,0.0,2005-2006,7aae335a,Juventus,667,7.4,3.0,0.0,160.0,9.0,
-,Gianluca Pessotto,it ITA,"DF,MF",10,6,0.0,0.0,2005-2006,4bf5d1f,Juventus,599,6.7,1.0,0.0,160.0,9.0,
-,Marcelo Zalayeta,uy URU,FW,16,2,0.0,1.0,2005-2006,707e472c,Juventus,368,4.1,0.0,0.0,160.0,8.0,
-,﻿Gianluigi Buffon,it ITA,GK,37,37,0.0,0.0,2006-2007,40d028b,Juventus,"3,253",36.1,0.0,1.0,160.0,9.0,
-,Pavel Nedvěd,cz CZE,MF,33,33,8.0,11.0,2006-2007,b059f29,Juventus,"2,941",32.7,8.0,1.0,160.0,84.0,
-,Federico Balzaretti,it ITA,DF,37,32,6.0,2.0,2006-2007,fbef4f9f,Juventus,"2,898",32.2,7.0,1.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",35,32,10.0,20.0,2006-2007,80bc263c,Juventus,"2,803",31.1,4.0,0.0,160.0,9.0,
-,Jean-Alain Boumsong,fr FRA,DF,33,31,0.0,2.0,2006-2007,c2c31ca9,Juventus,"2,773",30.8,2.0,0.0,160.0,4.0,
-,Alessandro Birindelli,it ITA,DF,37,29,1.0,1.0,2006-2007,3c388958,Juventus,"2,702",30.0,10.0,0.0,160.0,9.0,
-,Giorgio Chiellini,it ITA,DF,32,29,1.0,3.0,2006-2007,85fb9b8,Juventus,"2,585",28.7,5.0,1.0,160.0,9.0,
-,David Trezeguet,fr FRA,FW,31,28,3.0,15.0,2006-2007,80183cb2,Juventus,"2,466",27.4,3.0,0.0,160.0,4.0,
-,Mauro Camoranesi,it ITA,MF,33,27,8.0,4.0,2006-2007,35163a80,Juventus,"2,250",25.0,6.0,0.0,160.0,9.0,
-,Cristiano Zanetti,it ITA,MF,25,24,3.0,2.0,2006-2007,21dd8591,Juventus,"2,063",22.9,10.0,0.0,160.0,9.0,
-,Matteo Paro,it ITA,MF,28,22,3.0,1.0,2006-2007,c8fd60cd,Juventus,"2,068",23.0,3.0,0.0,160.0,9.0,
-,Jonathan Zebina,fr FRA,DF,24,21,1.0,0.0,2006-2007,5b48889f,Juventus,"1,757",19.5,10.0,1.0,160.0,4.0,
-,Giuliano Giannichedda,it ITA,MF,20,19,0.0,0.0,2006-2007,1bfa94c1,Juventus,"1,527",17.0,6.0,1.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,25,16,0.0,0.0,2006-2007,304acd5,Juventus,"1,499",16.7,4.0,1.0,160.0,9.0,
-,Robert Kovač,hr CRO,DF,17,15,0.0,0.0,2006-2007,cc19ca30,Juventus,"1,312",14.6,2.0,0.0,160.0,16.0,
-,Raffaele Palladino,it ITA,"FW,MF",25,14,5.0,8.0,2006-2007,961a4174,Juventus,"1,304",14.5,1.0,0.0,160.0,9.0,
-,Marco Marchionni,it ITA,MF,25,13,4.0,1.0,2006-2007,be475fc,Juventus,"1,178",13.1,0.0,0.0,160.0,9.0,
-,Marcelo Zalayeta,uy URU,FW,16,12,1.0,4.0,2006-2007,707e472c,Juventus,"1,082",12.0,4.0,0.0,160.0,8.0,
-,Nicola Legrottaglie,it ITA,DF,10,7,0.0,0.0,2006-2007,c3c63a36,Juventus,652,7.2,1.0,1.0,160.0,9.0,
-,Valeri Bojinov,bg BUL,FW,18,6,0.0,5.0,2006-2007,7c0d35bc,Juventus,671,7.5,1.0,0.0,160.0,65.0,
-,Antonio Mirante,it ITA,GK,7,5,0.0,0.0,2006-2007,30223b33,Juventus,527,5.9,0.0,0.0,160.0,9.0,
-,Felice Piccolo,it ITA,DF,7,5,0.0,0.0,2006-2007,75de4ad7,Juventus,395,4.4,0.0,0.0,160.0,9.0,
-,Dario Venitucci,it ITA,MF,5,3,0.0,0.0,2006-2007,39d8ba01,Juventus,286,3.2,0.0,0.0,160.0,9.0,
-,Paolo De Ceglie,it ITA,DF,7,1,0.0,1.0,2006-2007,bdc1a432,Juventus,166,1.8,0.0,0.0,160.0,9.0,
-,Sebastian Giovinco,it ITA,"FW,MF",3,1,2.0,0.0,2006-2007,2b7c18ae,Juventus,125,1.4,0.0,0.0,160.0,9.0,
-,Raffaele Bianco,it ITA,MF,4,0,0.0,1.0,2006-2007,147c0f9e,Juventus,91,1.0,0.0,0.0,160.0,9.0,
-,Davide Lanzafame,it ITA,"FW,MF",1,0,0.0,0.0,2006-2007,7de27356,Juventus,13,0.1,0.0,0.0,160.0,9.0,
-,﻿David Trezeguet,fr FRA,FW,36,35,5.0,20.0,2007-2008,80183cb2,Juventus,"3,081",34.2,3.0,0.0,160.0,4.0,
-,Gianluigi Buffon,it ITA,GK,34,34,0.0,0.0,2007-2008,40d028b,Juventus,"3,050",33.9,1.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",37,32,5.0,21.0,2007-2008,80bc263c,Juventus,"2,743",30.5,2.0,0.0,160.0,9.0,
-,Nicola Legrottaglie,it ITA,DF,33,31,0.0,3.0,2007-2008,c3c63a36,Juventus,"2,805",31.2,10.0,0.0,160.0,9.0,
-,Giorgio Chiellini,it ITA,DF,30,30,1.0,3.0,2007-2008,85fb9b8,Juventus,"2,690",29.9,9.0,1.0,160.0,9.0,
-,Cristian Molinaro,it ITA,"DF,MF",31,30,0.0,0.0,2007-2008,1c8c5aed,Juventus,"2,668",29.6,4.0,0.0,160.0,9.0,
-,Pavel Nedvěd,cz CZE,MF,31,28,4.0,2.0,2007-2008,b059f29,Juventus,"2,355",26.2,6.0,2.0,160.0,84.0,
-,Cristiano Zanetti,it ITA,MF,26,26,7.0,0.0,2007-2008,21dd8591,Juventus,"2,231",24.8,8.0,1.0,160.0,9.0,
-,Antonio Nocerino,it ITA,MF,32,23,2.0,0.0,2007-2008,07cf67f3,Juventus,"2,107",23.4,14.0,0.0,160.0,9.0,
-,Zdeněk Grygera,cz CZE,DF,24,22,1.0,1.0,2007-2008,00c9b66,Juventus,"1,941",21.6,5.0,0.0,160.0,84.0,
-,Hasan Salihamidžić,ba BIH,"DF,MF",26,21,2.0,4.0,2007-2008,f1366d68,Juventus,"1,851",20.6,3.0,0.0,160.0,49.0,
-,Mauro Camoranesi,it ITA,MF,22,18,5.0,5.0,2007-2008,35163a80,Juventus,"1,592",17.7,7.0,0.0,160.0,9.0,
-,Jonathan Zebina,fr FRA,DF,16,14,0.0,0.0,2007-2008,5b48889f,Juventus,"1,237",13.7,5.0,1.0,160.0,4.0,
-,Raffaele Palladino,it ITA,"FW,MF",26,14,1.0,2.0,2007-2008,961a4174,Juventus,"1,229",13.7,3.0,0.0,160.0,9.0,
-,Mohamed Sissoko,ml MLI,MF,15,12,0.0,1.0,2007-2008,2c1a819e,Juventus,"1,052",11.7,3.0,1.0,160.0,12.0,
-,Tiago Mendes,pt POR,MF,20,10,3.0,0.0,2007-2008,5e0f7b89,Juventus,997,11.1,3.0,0.0,160.0,3.0,
-,Vincenzo Iaquinta,it ITA,FW,24,9,3.0,8.0,2007-2008,69960e0c,Juventus,"1,054",11.7,4.0,0.0,160.0,9.0,
-,Domenico Criscito,it ITA,DF,8,8,0.0,0.0,2007-2008,35dd6d80,Juventus,633,7.0,3.0,0.0,160.0,9.0,
-,Sergio Almirón,ar ARG,MF,9,5,0.0,0.0,2007-2008,ce05fadf,Juventus,487,5.4,0.0,0.0,160.0,5.0,
-,Alessandro Birindelli,it ITA,DF,7,4,0.0,0.0,2007-2008,3c388958,Juventus,422,4.7,0.0,0.0,160.0,9.0,
-,Emanuele Belardi,it ITA,GK,5,4,0.0,0.0,2007-2008,788d51fa,Juventus,370,4.1,0.0,0.0,160.0,9.0,
-,Jorge Andrade,pt POR,DF,4,4,0.0,0.0,2007-2008,8704272f,Juventus,324,3.6,0.0,0.0,160.0,3.0,
-,Guglielmo Stendardo,it ITA,DF,5,3,0.0,0.0,2007-2008,333a9ae7,Juventus,342,3.8,1.0,0.0,160.0,9.0,
-,Marco Marchionni,it ITA,MF,11,1,0.0,1.0,2007-2008,be475fc,Juventus,299,3.3,0.0,0.0,160.0,9.0,
-,Rubén Olivera,uy URU,MF,1,0,0.0,0.0,2007-2008,74b94461,Juventus,13,0.1,0.0,0.0,160.0,8.0,
-,Luca Castiglia,it ITA,MF,2,0,0.0,0.0,2007-2008,b5674e01,Juventus,2,0.0,0.0,0.0,160.0,9.0,
-,Cristian Pasquato,it ITA,"FW,MF",1,0,0.0,0.0,2007-2008,d518454e,Juventus,1,0.0,0.0,0.0,160.0,9.0,
-,﻿Cristian Molinaro,it ITA,"DF,MF",29,29,0.0,0.0,2008-2009,1c8c5aed,Juventus,"2,559",28.4,6.0,0.0,160.0,9.0,
-,Pavel Nedvěd,cz CZE,MF,32,28,6.0,7.0,2008-2009,b059f29,Juventus,"2,505",27.8,4.0,0.0,160.0,84.0,
-,Zdeněk Grygera,cz CZE,DF,31,28,2.0,2.0,2008-2009,00c9b66,Juventus,"2,438",27.1,7.0,0.0,160.0,84.0,
-,Alessandro Del Piero,it ITA,"FW,MF",31,28,9.0,13.0,2008-2009,80bc263c,Juventus,"2,361",26.2,2.0,0.0,160.0,9.0,
-,Giorgio Chiellini,it ITA,DF,27,27,0.0,4.0,2008-2009,85fb9b8,Juventus,"2,410",26.8,5.0,0.0,160.0,9.0,
-,Amauri,it ITA,FW,32,27,3.0,12.0,2008-2009,b6d4bf9d,Juventus,"2,378",26.4,3.0,0.0,160.0,9.0,
-,Nicola Legrottaglie,it ITA,DF,26,26,0.0,1.0,2008-2009,c3c63a36,Juventus,"2,305",25.6,9.0,0.0,160.0,9.0,
-,Olof Mellberg,se SWE,"DF,MF",27,23,0.0,2.0,2008-2009,1c95e93d,Juventus,"2,099",23.3,4.0,0.0,160.0,41.0,
-,Gianluigi Buffon,it ITA,GK,23,23,0.0,0.0,2008-2009,40d028b,Juventus,"2,025",22.5,0.0,0.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,24,20,2.0,3.0,2008-2009,304acd5,Juventus,"1,867",20.7,5.0,0.0,160.0,9.0,
-,Mohamed Sissoko,ml MLI,MF,21,20,1.0,2.0,2008-2009,2c1a819e,Juventus,"1,661",18.5,5.0,0.0,160.0,12.0,
-,Marco Marchionni,it ITA,MF,27,19,4.0,1.0,2008-2009,be475fc,Juventus,"1,760",19.6,0.0,0.0,160.0,9.0,
-,Vincenzo Iaquinta,it ITA,FW,28,18,4.0,12.0,2008-2009,69960e0c,Juventus,"1,638",18.2,1.0,1.0,160.0,9.0,
-,Alex Manninger,at AUT,GK,16,15,0.0,0.0,2008-2009,b55b1bc,Juventus,"1,395",15.5,0.0,0.0,160.0,24.0,
-,Christian Poulsen,dk DEN,MF,23,14,2.0,1.0,2008-2009,4b83b362,Juventus,"1,358",15.1,3.0,0.0,160.0,7.0,
-,Mauro Camoranesi,it ITA,MF,19,14,2.0,1.0,2008-2009,35163a80,Juventus,"1,196",13.3,4.0,1.0,160.0,9.0,
-,Tiago Mendes,pt POR,MF,15,12,0.0,0.0,2008-2009,5e0f7b89,Juventus,934,10.4,3.0,1.0,160.0,3.0,
-,Paolo De Ceglie,it ITA,DF,19,11,1.0,0.0,2008-2009,bdc1a432,Juventus,"1,078",12.0,2.0,0.0,160.0,9.0,
-,Sebastian Giovinco,it ITA,"FW,MF",19,9,4.0,2.0,2008-2009,2b7c18ae,Juventus,897,10.0,2.0,0.0,160.0,9.0,
-,Cristiano Zanetti,it ITA,MF,12,9,0.0,2.0,2008-2009,21dd8591,Juventus,677,7.5,2.0,0.0,160.0,9.0,
-,Hasan Salihamidžić,ba BIH,"DF,MF",11,7,1.0,1.0,2008-2009,f1366d68,Juventus,690,7.7,1.0,0.0,160.0,49.0,
-,Jonathan Zebina,fr FRA,DF,8,4,0.0,0.0,2008-2009,5b48889f,Juventus,410,4.6,2.0,0.0,160.0,4.0,
-,Dario Knežević,hr CRO,DF,3,3,0.0,0.0,2008-2009,9f63ca80,Juventus,270,3.0,0.0,0.0,160.0,16.0,
-,David Trezeguet,fr FRA,FW,8,2,0.0,1.0,2008-2009,80183cb2,Juventus,285,3.2,0.0,0.0,160.0,4.0,
-,Lorenzo Ariaudo,it ITA,DF,3,2,0.0,0.0,2008-2009,68b78c2a,Juventus,212,2.4,0.0,0.0,160.0,9.0,
-,Albin Ekdal,se SWE,MF,3,0,0.0,0.0,2008-2009,f503ea63,Juventus,92,1.0,1.0,0.0,160.0,41.0,
-,Ayub Daud,so SOM,"FW,MF",1,0,0.0,0.0,2008-2009,857ff125,Juventus,2,0.0,0.0,0.0,160.0,168.0,
-,Ciro Immobile,it ITA,FW,1,0,0.0,0.0,2008-2009,4431aed2,Juventus,1,0.0,0.0,0.0,160.0,9.0,
-,﻿Giorgio Chiellini,it ITA,DF,32,32,2.0,3.0,2009-2010,85fb9b8,Juventus,"2,880",32.0,3.0,0.0,160.0,9.0,
-,Diego,br BRA,MF,33,31,6.0,5.0,2009-2010,255a478a,Juventus,"2,539",28.2,3.0,0.0,160.0,2.0,
-,Felipe Melo,br BRA,"DF,MF",29,28,0.0,4.0,2009-2010,b14d84d3,Juventus,"2,402",26.7,11.0,2.0,160.0,2.0,
-,Fabio Cannavaro,it ITA,DF,27,27,0.0,0.0,2009-2010,51152527,Juventus,"2,390",26.6,7.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,27,27,0.0,0.0,2009-2010,40d028b,Juventus,"2,378",26.4,0.0,1.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,28,27,1.0,3.0,2009-2010,304acd5,Juventus,"2,238",24.9,7.0,0.0,160.0,9.0,
-,Amauri,it ITA,FW,30,24,1.0,5.0,2009-2010,b6d4bf9d,Juventus,"2,228",24.8,5.0,1.0,160.0,9.0,
-,Fabio Grosso,it ITA,"DF,MF",26,22,1.0,2.0,2009-2010,db77a624,Juventus,"1,991",22.1,6.0,0.0,160.0,9.0,
-,Christian Poulsen,dk DEN,MF,25,19,0.0,0.0,2009-2010,4b83b362,Juventus,"1,715",19.1,5.0,0.0,160.0,7.0,
-,Nicola Legrottaglie,it ITA,DF,19,18,0.0,1.0,2009-2010,c3c63a36,Juventus,"1,599",17.8,4.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",23,18,3.0,9.0,2009-2010,80bc263c,Juventus,"1,532",17.0,3.0,0.0,160.0,9.0,
-,Zdeněk Grygera,cz CZE,DF,19,15,0.0,0.0,2009-2010,00c9b66,Juventus,"1,288",14.3,4.0,0.0,160.0,84.0,
-,Paolo De Ceglie,it ITA,DF,25,14,0.0,0.0,2009-2010,bdc1a432,Juventus,"1,403",15.6,2.0,0.0,160.0,9.0,
-,Mauro Camoranesi,it ITA,MF,24,14,3.0,3.0,2009-2010,35163a80,Juventus,"1,263",14.0,5.0,0.0,160.0,9.0,
-,Mohamed Sissoko,ml MLI,MF,17,14,1.0,0.0,2009-2010,2c1a819e,Juventus,"1,203",13.4,9.0,1.0,160.0,12.0,
-,Jonathan Zebina,fr FRA,DF,16,13,0.0,0.0,2009-2010,5b48889f,Juventus,"1,205",13.4,7.0,0.0,160.0,4.0,
-,David Trezeguet,fr FRA,FW,19,13,1.0,7.0,2009-2010,80183cb2,Juventus,"1,165",12.9,1.0,0.0,160.0,4.0,
-,Vincenzo Iaquinta,it ITA,FW,15,12,2.0,6.0,2009-2010,69960e0c,Juventus,"1,090",12.1,2.0,0.0,160.0,9.0,
-,Martín Cáceres,uy URU,DF,15,11,1.0,1.0,2009-2010,94d79e3,Juventus,"1,073",11.9,3.0,1.0,160.0,8.0,
-,Alex Manninger,at AUT,GK,11,9,0.0,0.0,2009-2010,b55b1bc,Juventus,862,9.6,0.0,0.0,160.0,24.0,
-,Antonio Candreva,it ITA,"DF,FW",16,8,2.0,2.0,2009-2010,356c9002,Juventus,885,9.8,2.0,0.0,160.0,9.0,
-,Hasan Salihamidžić,ba BIH,"DF,MF",14,6,0.0,2.0,2009-2010,f1366d68,Juventus,589,6.5,4.0,0.0,160.0,49.0,
-,Sebastian Giovinco,it ITA,"FW,MF",15,5,0.0,1.0,2009-2010,2b7c18ae,Juventus,593,6.6,1.0,0.0,160.0,9.0,
-,Tiago Mendes,pt POR,MF,7,4,0.0,0.0,2009-2010,5e0f7b89,Juventus,393,4.4,3.0,0.0,160.0,3.0,
-,Cristian Molinaro,it ITA,"DF,MF",5,4,0.0,0.0,2009-2010,1c8c5aed,Juventus,290,3.2,0.0,0.0,160.0,9.0,
-,Antonio Chimenti,it ITA,GK,2,2,0.0,0.0,2009-2010,96d5e916,Juventus,180,2.0,0.0,0.0,160.0,9.0,
-,Michele Paolucci,it ITA,"FW,MF",4,1,0.0,0.0,2009-2010,51ea3db8,Juventus,104,1.2,0.0,0.0,160.0,9.0,
-,Luca Marrone,it ITA,"DF,MF",2,0,0.0,0.0,2009-2010,468ea8,Juventus,35,0.4,1.0,0.0,160.0,9.0,
-,Ciro Immobile,it ITA,FW,2,0,0.0,0.0,2009-2010,4431aed2,Juventus,10,0.1,0.0,0.0,160.0,9.0,
-,Manuel Giandonato,it ITA,MF,1,0,0.0,0.0,2009-2010,63f54647,Juventus,8,0.1,0.0,0.0,160.0,9.0,
-,﻿Miloš Krasić,rs SRB,MF,33,33,8.0,7.0,2010-2011,21dcdd28,Juventus,"2,604",28.9,4.0,0.0,160.0,28.0,
-,Leonardo Bonucci,it ITA,DF,34,32,0.0,2.0,2010-2011,52ec54d0,Juventus,"2,885",32.1,7.0,1.0,160.0,9.0,
-,Giorgio Chiellini,it ITA,DF,32,32,1.0,2.0,2010-2011,85fb9b8,Juventus,"2,880",32.0,3.0,0.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,32,32,4.0,4.0,2010-2011,304acd5,Juventus,"2,800",31.1,9.0,0.0,160.0,9.0,
-,Alberto Aquilani,it ITA,MF,33,31,5.0,2.0,2010-2011,d340e17,Juventus,"2,657",29.5,3.0,0.0,160.0,9.0,
-,Felipe Melo,br BRA,"DF,MF",29,28,0.0,1.0,2010-2011,b14d84d3,Juventus,"2,344",26.0,6.0,1.0,160.0,2.0,
-,Marco Storari,it ITA,GK,23,22,0.0,0.0,2010-2011,fb5eb6e0,Juventus,"2,058",22.9,2.0,0.0,160.0,9.0,
-,Simone Pepe,it ITA,"FW,MF",30,22,1.0,5.0,2010-2011,1f3674c2,Juventus,"2,006",22.3,9.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",33,19,3.0,8.0,2010-2011,80bc263c,Juventus,"1,823",20.3,0.0,0.0,160.0,9.0,
-,Marco Motta,it ITA,DF,22,19,0.0,0.0,2010-2011,1c65a088,Juventus,"1,510",16.8,9.0,1.0,160.0,9.0,
-,Fabio Grosso,it ITA,"DF,MF",19,17,2.0,0.0,2010-2011,db77a624,Juventus,"1,597",17.7,6.0,0.0,160.0,9.0,
-,Fabio Quagliarella,it ITA,FW,17,17,2.0,9.0,2010-2011,4f2f3b,Juventus,"1,305",14.5,0.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,16,16,0.0,0.0,2010-2011,40d028b,Juventus,"1,362",15.1,1.0,1.0,160.0,9.0,
-,Alessandro Matri,it ITA,FW,16,15,1.0,9.0,2010-2011,58d97e77,Juventus,"1,248",13.9,0.0,0.0,160.0,9.0,
-,Andrea Barzagli,it ITA,DF,15,14,0.0,0.0,2010-2011,7c0000fd,Juventus,"1,284",14.3,1.0,0.0,160.0,9.0,
-,Frederik Sørensen,dk DEN,DF,17,12,1.0,0.0,2010-2011,68635c10,Juventus,"1,139",12.7,2.0,0.0,160.0,7.0,
-,Zdeněk Grygera,cz CZE,DF,13,9,0.0,0.0,2010-2011,00c9b66,Juventus,907,10.1,1.0,0.0,160.0,84.0,
-,Vincenzo Iaquinta,it ITA,FW,19,8,3.0,4.0,2010-2011,69960e0c,Juventus,964,10.7,1.0,0.0,160.0,9.0,
-,Armand Traoré,sn SEN,"DF,MF",10,7,0.0,0.0,2010-2011,021ea92d,Juventus,537,6.0,1.0,0.0,160.0,34.0,
-,Jorge Martínez,uy URU,"FW,MF",14,6,0.0,0.0,2010-2011,7e34f6e2,Juventus,568,6.3,1.0,0.0,160.0,8.0,
-,Paolo De Ceglie,it ITA,DF,7,6,0.0,0.0,2010-2011,bdc1a432,Juventus,460,5.1,0.0,0.0,160.0,9.0,
-,Luca Toni,it ITA,FW,14,5,2.0,2.0,2010-2011,dd74033b,Juventus,533,5.9,0.0,0.0,160.0,9.0,
-,Amauri,it ITA,FW,9,5,0.0,0.0,2010-2011,b6d4bf9d,Juventus,492,5.5,0.0,0.0,160.0,9.0,
-,Mohamed Sissoko,ml MLI,MF,18,4,1.0,0.0,2010-2011,2c1a819e,Juventus,639,7.1,4.0,0.0,160.0,12.0,
-,Nicola Legrottaglie,it ITA,DF,5,2,0.0,1.0,2010-2011,c3c63a36,Juventus,214,2.4,0.0,0.0,160.0,9.0,
-,Manuel Giandonato,it ITA,MF,2,2,0.0,0.0,2010-2011,63f54647,Juventus,104,1.2,0.0,1.0,160.0,9.0,
-,Hasan Salihamidžić,ba BIH,"DF,MF",10,1,1.0,0.0,2010-2011,f1366d68,Juventus,225,2.5,2.0,0.0,160.0,49.0,
-,Leandro Rinaudo,it ITA,DF,1,1,0.0,0.0,2010-2011,26536bf4,Juventus,74,0.8,1.0,0.0,160.0,9.0,
-,Niccolò Giannetti,it ITA,FW,1,1,0.0,0.0,2010-2011,d9e750e5,Juventus,57,0.6,0.0,0.0,160.0,9.0,
-,Davide Lanzafame,it ITA,"FW,MF",3,0,0.0,0.0,2010-2011,7de27356,Juventus,57,0.6,0.0,0.0,160.0,9.0,
-,Filippo Boniperti,it ITA,MF,1,0,0.0,0.0,2010-2011,104f41dc,Juventus,45,0.5,0.0,0.0,160.0,9.0,
-,Alberto Libertazzi,it ITA,FW,1,0,0.0,0.0,2010-2011,53c8d207,Juventus,2,0.0,0.0,0.0,160.0,9.0,
-,﻿Andrea Pirlo,it ITA,MF,37,37,12.0,3.0,2011-2012,71c5f16f,Juventus,"3,315",36.8,5.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,35,35,0.0,0.0,2011-2012,40d028b,Juventus,"3,150",35.0,0.0,0.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,36,35,4.0,9.0,2011-2012,304acd5,Juventus,"3,040",33.8,7.0,0.0,160.0,9.0,
-,Giorgio Chiellini,it ITA,DF,34,34,1.0,2.0,2011-2012,85fb9b8,Juventus,"3,023",33.6,7.0,0.0,160.0,9.0,
-,Andrea Barzagli,it ITA,DF,35,34,0.0,1.0,2011-2012,7c0000fd,Juventus,"3,013",33.5,3.0,0.0,160.0,9.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",35,34,1.0,2.0,2011-2012,99b1d0e6,Juventus,"2,957",32.9,6.0,0.0,160.0,39.0,
-,Arturo Vidal,cl CHI,MF,33,30,4.0,7.0,2011-2012,67cdbc0e,Juventus,"2,632",29.2,12.0,1.0,160.0,31.0,
-,Mirko Vučinić,me MNE,FW,32,29,8.0,9.0,2011-2012,b04b9530,Juventus,"2,292",25.5,3.0,1.0,160.0,33.0,
-,Leonardo Bonucci,it ITA,DF,32,28,0.0,2.0,2011-2012,52ec54d0,Juventus,"2,641",29.3,6.0,1.0,160.0,9.0,
-,Simone Pepe,it ITA,"FW,MF",31,25,3.0,6.0,2011-2012,1f3674c2,Juventus,"2,197",24.4,6.0,0.0,160.0,9.0,
-,Alessandro Matri,it ITA,FW,31,23,4.0,10.0,2011-2012,58d97e77,Juventus,"1,913",21.3,4.0,0.0,160.0,9.0,
-,Paolo De Ceglie,it ITA,DF,21,16,2.0,1.0,2011-2012,bdc1a432,Juventus,"1,351",15.0,3.0,1.0,160.0,9.0,
-,Emanuele Giaccherini,it ITA,"FW,MF",23,9,2.0,1.0,2011-2012,1c50f354,Juventus,"1,209",13.4,2.0,0.0,160.0,9.0,
-,Fabio Quagliarella,it ITA,FW,23,9,0.0,4.0,2011-2012,4f2f3b,Juventus,888,9.9,2.0,0.0,160.0,9.0,
-,Marcelo Estigarribia,py PAR,"DF,MF",14,9,0.0,1.0,2011-2012,188a2362,Juventus,718,8.0,0.0,0.0,160.0,43.0,
-,Martín Cáceres,uy URU,DF,11,6,0.0,1.0,2011-2012,94d79e3,Juventus,715,7.9,0.0,0.0,160.0,8.0,
-,Marco Borriello,it ITA,FW,13,6,1.0,2.0,2011-2012,889ffc7,Juventus,589,6.5,1.0,0.0,160.0,9.0,
-,Alessandro Del Piero,it ITA,"FW,MF",23,4,2.0,3.0,2011-2012,80bc263c,Juventus,509,5.7,0.0,0.0,160.0,9.0,
-,Miloš Krasić,rs SRB,MF,7,4,0.0,1.0,2011-2012,21dcdd28,Juventus,303,3.4,0.0,0.0,160.0,28.0,
-,Simone Padoin,it ITA,"DF,MF",6,3,0.0,1.0,2011-2012,5eb72339,Juventus,302,3.4,0.0,0.0,160.0,9.0,
-,Marco Storari,it ITA,GK,3,3,0.0,0.0,2011-2012,fb5eb6e0,Juventus,270,3.0,0.0,0.0,160.0,9.0,
-,Fabio Grosso,it ITA,"DF,MF",2,2,0.0,0.0,2011-2012,db77a624,Juventus,180,2.0,0.0,0.0,160.0,9.0,
-,Michele Pazienza,it ITA,MF,8,1,0.0,0.0,2011-2012,9f5d69e7,Juventus,150,1.7,0.0,0.0,160.0,9.0,
-,Luca Marrone,it ITA,"DF,MF",3,1,1.0,1.0,2011-2012,468ea8,Juventus,116,1.3,0.0,0.0,160.0,9.0,
-,Eljero Elia,nl NED,"FW,MF",4,1,0.0,0.0,2011-2012,05cb19c5,Juventus,95,1.1,0.0,0.0,160.0,11.0,
-,﻿Andrea Barzagli,it ITA,DF,34,34,1.0,0.0,2012-2013,7c0000fd,Juventus,"2,955",32.8,5.0,0.0,160.0,9.0,
-,Leonardo Bonucci,it ITA,DF,33,33,0.0,0.0,2012-2013,52ec54d0,Juventus,"2,960",32.9,10.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,32,32,0.0,0.0,2012-2013,40d028b,Juventus,"2,880",32.0,0.0,0.0,160.0,9.0,
-,Andrea Pirlo,it ITA,MF,32,32,7.0,5.0,2012-2013,71c5f16f,Juventus,"2,857",31.7,8.0,0.0,160.0,9.0,
-,Arturo Vidal,cl CHI,MF,31,29,7.0,10.0,2012-2013,67cdbc0e,Juventus,"2,584",28.7,11.0,0.0,160.0,31.0,
-,Claudio Marchisio,it ITA,MF,29,28,2.0,6.0,2012-2013,304acd5,Juventus,"2,470",27.4,4.0,0.0,160.0,9.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",28,25,2.0,4.0,2012-2013,99b1d0e6,Juventus,"2,064",22.9,6.0,0.0,160.0,39.0,
-,Mirko Vučinić,me MNE,FW,31,24,8.0,10.0,2012-2013,b04b9530,Juventus,"2,066",23.0,5.0,0.0,160.0,33.0,
-,Giorgio Chiellini,it ITA,DF,24,23,2.0,1.0,2012-2013,85fb9b8,Juventus,"2,038",22.6,5.0,0.0,160.0,9.0,
-,Sebastian Giovinco,it ITA,"FW,MF",31,23,6.0,7.0,2012-2013,2b7c18ae,Juventus,"1,953",21.7,4.0,0.0,160.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",27,22,6.0,2.0,2012-2013,089550f5,Juventus,"1,972",21.9,1.0,0.0,160.0,17.0,
-,Paul Pogba,fr FRA,MF,27,18,0.0,5.0,2012-2013,867239d3,Juventus,"1,741",19.3,1.0,1.0,160.0,4.0,
-,Fabio Quagliarella,it ITA,FW,27,13,4.0,9.0,2012-2013,4f2f3b,Juventus,"1,156",12.8,0.0,0.0,160.0,9.0,
-,Martín Cáceres,uy URU,DF,18,12,0.0,1.0,2012-2013,94d79e3,Juventus,"1,218",13.5,1.0,0.0,160.0,8.0,
-,Paolo De Ceglie,it ITA,DF,14,12,0.0,0.0,2012-2013,bdc1a432,Juventus,870,9.7,3.0,0.0,160.0,9.0,
-,Alessandro Matri,it ITA,FW,22,10,0.0,8.0,2012-2013,58d97e77,Juventus,"1,008",11.2,3.0,0.0,160.0,9.0,
-,Emanuele Giaccherini,it ITA,"FW,MF",17,10,3.0,3.0,2012-2013,1c50f354,Juventus,949,10.5,1.0,0.0,160.0,9.0,
-,Luca Marrone,it ITA,"DF,MF",10,8,0.0,0.0,2012-2013,468ea8,Juventus,756,8.4,0.0,0.0,160.0,9.0,
-,Mauricio Isla,cl CHI,"DF,MF",11,8,1.0,0.0,2012-2013,de4517dd,Juventus,586,6.5,1.0,0.0,160.0,31.0,
-,Federico Peluso,it ITA,DF,12,7,0.0,0.0,2012-2013,4f2908e5,Juventus,701,7.8,5.0,0.0,160.0,9.0,
-,Simone Padoin,it ITA,"DF,MF",20,6,0.0,0.0,2012-2013,5eb72339,Juventus,779,8.7,3.0,0.0,160.0,9.0,
-,Marco Storari,it ITA,GK,6,6,0.0,0.0,2012-2013,fb5eb6e0,Juventus,529,5.9,0.0,0.0,160.0,9.0,
-,Nicklas Bendtner,dk DEN,FW,9,2,0.0,0.0,2012-2013,9f9c57f0,Juventus,346,3.8,0.0,0.0,160.0,7.0,
-,Lúcio,br BRA,DF,1,1,0.0,0.0,2012-2013,8abd0414,Juventus,90,1.0,0.0,0.0,160.0,2.0,
-,Nicolas Anelka,fr FRA,FW,2,0,0.0,0.0,2012-2013,931ed5e9,Juventus,43,0.5,0.0,0.0,160.0,4.0,
-,Simone Pepe,it ITA,"FW,MF",1,0,0.0,0.0,2012-2013,1f3674c2,Juventus,22,0.2,0.0,0.0,160.0,9.0,
-,Rubinho,br BRA,GK,1,0,0.0,0.0,2012-2013,19aeb20a,Juventus,11,0.1,0.0,0.0,160.0,2.0,
-,Stefano Beltrame,it ITA,"FW,MF",1,0,0.0,0.0,2012-2013,b50a9c75,Juventus,9,0.1,0.0,0.0,160.0,9.0,
-,﻿Paul Pogba,fr FRA,MF,36,33,8.0,7.0,2013-2014,867239d3,Juventus,"3,066",34.1,4.0,0.0,160.0,4.0,
-,Gianluigi Buffon,it ITA,GK,33,33,0.0,0.0,2013-2014,40d028b,Juventus,"2,866",31.8,0.0,1.0,160.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",34,32,3.0,2.0,2013-2014,089550f5,Juventus,"2,750",30.6,6.0,0.0,160.0,17.0,
-,Giorgio Chiellini,it ITA,DF,31,31,3.0,3.0,2013-2014,85fb9b8,Juventus,"2,773",30.8,5.0,0.0,160.0,9.0,
-,Carlos Tevez,ar ARG,"FW,MF",34,30,7.0,19.0,2013-2014,c1a26d43,Juventus,"2,586",28.7,4.0,0.0,160.0,5.0,
-,Fernando Llorente,es ESP,FW,34,29,5.0,16.0,2013-2014,82dbf623,Juventus,"2,485",27.6,3.0,0.0,160.0,1.0,
-,Andrea Pirlo,it ITA,MF,30,29,6.0,4.0,2013-2014,71c5f16f,Juventus,"2,460",27.3,4.0,0.0,160.0,9.0,
-,Leonardo Bonucci,it ITA,DF,29,28,3.0,2.0,2013-2014,52ec54d0,Juventus,"2,538",28.2,7.0,0.0,160.0,9.0,
-,Arturo Vidal,cl CHI,MF,32,28,5.0,11.0,2013-2014,67cdbc0e,Juventus,"2,435",27.1,8.0,0.0,160.0,31.0,
-,Andrea Barzagli,it ITA,DF,26,26,0.0,0.0,2013-2014,7c0000fd,Juventus,"2,286",25.4,3.0,0.0,160.0,9.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",27,24,8.0,2.0,2013-2014,99b1d0e6,Juventus,"2,111",23.5,4.0,0.0,160.0,39.0,
-,Claudio Marchisio,it ITA,MF,29,21,1.0,4.0,2013-2014,304acd5,Juventus,"1,991",22.1,5.0,0.0,160.0,9.0,
-,Martín Cáceres,uy URU,DF,17,14,0.0,0.0,2013-2014,94d79e3,Juventus,"1,318",14.6,1.0,0.0,160.0,8.0,
-,Angelo Ogbonna,it ITA,DF,16,14,0.0,0.0,2013-2014,74b2cd7e,Juventus,"1,261",14.0,4.0,1.0,160.0,9.0,
-,Mauricio Isla,cl CHI,"DF,MF",18,10,2.0,0.0,2013-2014,de4517dd,Juventus,967,10.7,1.0,0.0,160.0,31.0,
-,Simone Padoin,it ITA,"DF,MF",21,8,0.0,1.0,2013-2014,5eb72339,Juventus,739,8.2,1.0,0.0,160.0,9.0,
-,Sebastian Giovinco,it ITA,"FW,MF",17,6,1.0,2.0,2013-2014,2b7c18ae,Juventus,572,6.4,1.0,0.0,160.0,9.0,
-,Marco Storari,it ITA,GK,6,5,0.0,0.0,2013-2014,fb5eb6e0,Juventus,515,5.7,0.0,0.0,160.0,9.0,
-,Mirko Vučinić,me MNE,FW,12,4,0.0,2.0,2013-2014,b04b9530,Juventus,404,4.5,2.0,0.0,160.0,33.0,
-,Dani Osvaldo,it ITA,FW,11,4,1.0,1.0,2013-2014,3f0eba4f,Juventus,375,4.2,1.0,0.0,160.0,9.0,
-,Federico Peluso,it ITA,DF,9,4,1.0,1.0,2013-2014,4f2908e5,Juventus,344,3.8,2.0,0.0,160.0,9.0,
-,Fabio Quagliarella,it ITA,FW,17,3,0.0,1.0,2013-2014,4f2f3b,Juventus,405,4.5,1.0,0.0,160.0,9.0,
-,Paolo De Ceglie,it ITA,DF,4,2,0.0,0.0,2013-2014,bdc1a432,Juventus,219,2.4,0.0,0.0,160.0,9.0,
-,Rubinho,br BRA,GK,1,0,0.0,0.0,2013-2014,19aeb20a,Juventus,38,0.4,0.0,0.0,160.0,2.0,
-,Marco Motta,it ITA,DF,2,0,0.0,0.0,2013-2014,1c65a088,Juventus,25,0.3,1.0,0.0,160.0,9.0,
-,Simone Pepe,it ITA,"FW,MF",2,0,0.0,0.0,2013-2014,1f3674c2,Juventus,18,0.2,0.0,0.0,160.0,9.0,
-,﻿Leonardo Bonucci,it ITA,DF,34,33,0.0,3.0,2014-2015,52ec54d0,Juventus,"3,015",33.5,8.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,33,33,0.0,0.0,2014-2015,40d028b,Juventus,"2,970",33.0,0.0,0.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,35,33,6.0,3.0,2014-2015,304acd5,Juventus,"2,860",31.8,9.0,0.0,160.0,9.0,
-,Carlos Tevez,ar ARG,"FW,MF",32,29,7.0,20.0,2014-2015,c1a26d43,Juventus,"2,580",28.7,6.0,0.0,160.0,5.0,
-,Giorgio Chiellini,it ITA,DF,28,27,1.0,0.0,2014-2015,85fb9b8,Juventus,"2,448",27.2,7.0,0.0,160.0,9.0,
-,Roberto Pereyra,ar ARG,"FW,MF",35,27,3.0,4.0,2014-2015,75f2c59f,Juventus,"2,265",25.2,2.0,0.0,160.0,5.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",32,26,5.0,3.0,2014-2015,99b1d0e6,Juventus,"2,450",27.2,9.0,1.0,160.0,39.0,
-,Fernando Llorente,es ESP,FW,31,25,1.0,7.0,2014-2015,82dbf623,Juventus,"1,947",21.6,0.0,0.0,160.0,1.0,
-,Paul Pogba,fr FRA,MF,26,24,3.0,8.0,2014-2015,867239d3,Juventus,"2,108",23.4,4.0,0.0,160.0,4.0,
-,Arturo Vidal,cl CHI,MF,28,23,4.0,7.0,2014-2015,67cdbc0e,Juventus,"2,082",23.1,7.0,0.0,160.0,31.0,
-,Patrice Evra,fr FRA,DF,21,21,2.0,1.0,2014-2015,51a3caf1,Juventus,"1,792",19.9,4.0,0.0,160.0,4.0,
-,Andrea Pirlo,it ITA,MF,20,19,5.0,4.0,2014-2015,71c5f16f,Juventus,"1,604",17.8,0.0,0.0,160.0,9.0,
-,Angelo Ogbonna,it ITA,DF,25,18,0.0,0.0,2014-2015,74b2cd7e,Juventus,"1,760",19.6,4.0,0.0,160.0,9.0,
-,Simone Padoin,it ITA,"DF,MF",25,14,0.0,0.0,2014-2015,5eb72339,Juventus,"1,352",15.0,3.0,1.0,160.0,9.0,
-,Álvaro Morata,es ESP,FW,29,11,5.0,8.0,2014-2015,129af0db,Juventus,"1,333",14.8,6.0,1.0,160.0,1.0,
-,Martín Cáceres,uy URU,DF,10,10,0.0,1.0,2014-2015,94d79e3,Juventus,787,8.7,1.0,0.0,160.0,8.0,
-,Andrea Barzagli,it ITA,DF,10,9,0.0,0.0,2014-2015,7c0000fd,Juventus,770,8.6,2.0,0.0,160.0,9.0,
-,Stefano Sturaro,it ITA,MF,12,8,0.0,1.0,2014-2015,2334478a,Juventus,711,7.9,1.0,0.0,160.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",7,7,0.0,0.0,2014-2015,089550f5,Juventus,620,6.9,2.0,0.0,160.0,17.0,
-,Kingsley Coman,fr FRA,"FW,MF",14,5,2.0,0.0,2014-2015,042e8a49,Juventus,495,5.5,0.0,0.0,160.0,4.0,
-,Marco Storari,it ITA,GK,5,5,0.0,0.0,2014-2015,fb5eb6e0,Juventus,450,5.0,0.0,0.0,160.0,9.0,
-,Alessandro Matri,it ITA,FW,5,4,0.0,0.0,2014-2015,58d97e77,Juventus,321,3.6,0.0,0.0,160.0,9.0,
-,Rômulo,it ITA,"DF,MF",4,3,0.0,0.0,2014-2015,07abb358,Juventus,279,3.1,0.0,0.0,160.0,9.0,
-,Sebastian Giovinco,it ITA,"FW,MF",7,2,0.0,0.0,2014-2015,2b7c18ae,Juventus,192,2.1,0.0,0.0,160.0,9.0,
-,Simone Pepe,it ITA,"FW,MF",12,1,0.0,1.0,2014-2015,1f3674c2,Juventus,234,2.6,0.0,1.0,160.0,9.0,
-,Paolo De Ceglie,it ITA,DF,2,1,0.0,0.0,2014-2015,bdc1a432,Juventus,104,1.2,0.0,0.0,160.0,9.0,
-,Federico Mattiello,it ITA,"DF,MF",2,0,0.0,0.0,2014-2015,fba81826,Juventus,28,0.3,0.0,0.0,160.0,9.0,
-,Mattia Vitale,it ITA,MF,2,0,0.0,0.0,2014-2015,8e4b894b,Juventus,27,0.3,0.0,0.0,160.0,9.0,
-,Emil Audero,it ITA,GK,0,0,,,2014-2015,649b01d8,Juventus,,,,,160.0,9.0,
-,Mattia Del Favero,it ITA,GK,0,0,,,2014-2015,cd837326,Juventus,,,,,160.0,9.0,
-,Luca Marrone,it ITA,"DF,MF",0,0,,,2014-2015,468ea8,Juventus,,,,,160.0,9.0,
-,Filippo Romagna,it ITA,DF,0,0,,,2014-2015,84594618,Juventus,,,,,160.0,9.0,
-,Rubinho,br BRA,GK,0,0,,,2014-2015,19aeb20a,Juventus,,,,,160.0,2.0,
-,Giacomo Volpe,it ITA,GK,0,0,,,2014-2015,610fe728,Juventus,,,,,160.0,9.0,
-,﻿Leonardo Bonucci,it ITA,DF,36,35,1.0,3.0,2015-2016,52ec54d0,Juventus,"3,156",35.1,6.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,35,35,0.0,0.0,2015-2016,40d028b,Juventus,"3,150",35.0,1.0,0.0,160.0,9.0,
-,Paul Pogba,fr FRA,MF,35,33,12.0,8.0,2015-2016,867239d3,Juventus,"3,019",33.5,10.0,0.0,160.0,4.0,
-,Andrea Barzagli,it ITA,DF,31,31,0.0,1.0,2015-2016,7c0000fd,Juventus,"2,737",30.4,2.0,0.0,160.0,9.0,
-,Paulo Dybala,ar ARG,FW,34,29,9.0,19.0,2015-2016,0921a4f,Juventus,"2,443",27.1,1.0,0.0,160.0,5.0,
-,Patrice Evra,fr FRA,"MF,DF",26,24,3.0,2.0,2015-2016,51a3caf1,Juventus,"2,044",22.7,6.0,1.0,160.0,4.0,
-,Mario Mandžukić,hr CRO,FW,27,24,4.0,10.0,2015-2016,fa0d4e0,Juventus,"2,040",22.7,5.0,0.0,160.0,16.0,
-,Claudio Marchisio,it ITA,MF,23,23,2.0,0.0,2015-2016,304acd5,Juventus,"1,927",21.4,8.0,0.0,160.0,9.0,
-,Stephan Lichtsteiner,ch SUI,"MF,DF",26,22,1.0,0.0,2015-2016,99b1d0e6,Juventus,"1,817",20.2,5.0,0.0,160.0,39.0,
-,Giorgio Chiellini,it ITA,DF,24,21,0.0,1.0,2015-2016,85fb9b8,Juventus,"1,787",19.9,5.0,1.0,160.0,9.0,
-,Sami Khedira,de GER,MF,20,20,4.0,5.0,2015-2016,38ac43d3,Juventus,"1,528",17.0,3.0,1.0,160.0,13.0,
-,Juan Cuadrado,co COL,"MF,FW",28,16,5.0,4.0,2015-2016,0ab1f153,Juventus,"1,724",19.2,2.0,0.0,160.0,19.0,
-,Álvaro Morata,es ESP,FW,34,16,7.0,7.0,2015-2016,129af0db,Juventus,"1,441",16.0,6.0,1.0,160.0,1.0,
-,Alex Sandro,br BRA,"MF,DF",22,15,3.0,2.0,2015-2016,0d82903c,Juventus,"1,501",16.7,6.0,1.0,160.0,2.0,
-,Daniele Rugani,it ITA,DF,17,11,0.0,0.0,2015-2016,14b8fcdf,Juventus,"1,167",13.0,2.0,0.0,160.0,9.0,
-,Stefano Sturaro,it ITA,MF,19,11,0.0,1.0,2015-2016,2334478a,Juventus,"1,026",11.4,6.0,0.0,160.0,9.0,
-,Hernanes,br BRA,"MF,FW",14,10,1.0,1.0,2015-2016,cfc2ee72,Juventus,863,9.6,6.0,0.0,160.0,2.0,
-,Roberto Pereyra,ar ARG,"MF,FW",13,9,1.0,0.0,2015-2016,75f2c59f,Juventus,802,8.9,0.0,0.0,160.0,5.0,
-,Mario Lemina,ga GAB,MF,10,7,0.0,2.0,2015-2016,2b471f99,Juventus,729,8.1,4.0,0.0,160.0,69.0,
-,Simone Padoin,it ITA,"MF,DF",12,6,0.0,1.0,2015-2016,5eb72339,Juventus,580,6.4,2.0,0.0,160.0,9.0,
-,Kwadwo Asamoah,gh GHA,MF,11,6,1.0,0.0,2015-2016,089550f5,Juventus,569,6.3,1.0,0.0,160.0,17.0,
-,Simone Zaza,it ITA,FW,19,5,0.0,5.0,2015-2016,9592289a,Juventus,673,7.5,6.0,1.0,160.0,9.0,
-,Martín Cáceres,uy URU,DF,6,5,0.0,0.0,2015-2016,94d79e3,Juventus,448,5.0,0.0,0.0,160.0,8.0,
-,Neto,br BRA,GK,3,3,0.0,0.0,2015-2016,9dc785c,Juventus,270,3.0,0.0,0.0,160.0,2.0,
-,Kingsley Coman,fr FRA,FW,1,1,0.0,0.0,2015-2016,042e8a49,Juventus,63,0.7,0.0,0.0,160.0,4.0,
-,Fernando Llorente,es ESP,FW,1,0,0.0,0.0,2015-2016,82dbf623,Juventus,12,0.1,0.0,0.0,160.0,1.0,
-,Mauricio Isla,cl CHI,"DF,MF",1,0,0.0,0.0,2015-2016,de4517dd,Juventus,10,0.1,0.0,0.0,160.0,31.0,
-,Andrea Favilli,it ITA,FW,1,0,0.0,0.0,2015-2016,44510fde,Juventus,1,0.0,0.0,0.0,160.0,9.0,
-,Emil Audero,it ITA,GK,0,0,,,2015-2016,649b01d8,Juventus,,,,,160.0,9.0,
-,Francesco Cassata,it ITA,MF,0,0,,,2015-2016,96960855,Juventus,,,,,160.0,9.0,
-,Filippo Romagna,it ITA,DF,0,0,,,2015-2016,84594618,Juventus,,,,,160.0,9.0,
-,Rubinho,br BRA,GK,0,0,,,2015-2016,19aeb20a,Juventus,,,,,160.0,2.0,
-,Mattia Vitale,it ITA,MF,0,0,,,2015-2016,8e4b894b,Juventus,,,,,160.0,9.0,
-,﻿Gonzalo Higuaín,ar ARG,FW,38,32,2.0,24.0,2016-2017,8a08491a,Juventus,"2,966",33.0,1.0,0.0,160.0,5.0,
-,Sami Khedira,de GER,MF,31,31,3.0,5.0,2016-2017,38ac43d3,Juventus,"2,539",28.2,2.0,0.0,160.0,13.0,
-,Gianluigi Buffon,it ITA,GK,30,30,0.0,0.0,2016-2017,40d028b,Juventus,"2,655",29.5,0.0,0.0,160.0,9.0,
-,Mario Mandžukić,hr CRO,"FW,MF",34,28,4.0,7.0,2016-2017,fa0d4e0,Juventus,"2,483",27.6,5.0,0.0,160.0,16.0,
-,Leonardo Bonucci,it ITA,DF,29,26,0.0,3.0,2016-2017,52ec54d0,Juventus,"2,409",26.8,5.0,0.0,160.0,9.0,
-,Paulo Dybala,ar ARG,"MF,FW",31,26,7.0,11.0,2016-2017,0921a4f,Juventus,"2,140",23.8,2.0,0.0,160.0,5.0,
-,Alex Sandro,br BRA,"MF,DF",27,25,4.0,3.0,2016-2017,0d82903c,Juventus,"2,312",25.7,5.0,0.0,160.0,2.0,
-,Miralem Pjanić,ba BIH,MF,30,25,9.0,5.0,2016-2017,d6df2d5,Juventus,"2,166",24.1,5.0,0.0,160.0,49.0,
-,Stephan Lichtsteiner,ch SUI,"DF,MF",26,22,2.0,1.0,2016-2017,99b1d0e6,Juventus,"1,866",20.7,5.0,0.0,160.0,39.0,
-,Juan Cuadrado,co COL,"MF,FW",30,21,6.0,2.0,2016-2017,0ab1f153,Juventus,"2,096",23.3,8.0,0.0,160.0,19.0,
-,Giorgio Chiellini,it ITA,DF,21,20,2.0,2.0,2016-2017,85fb9b8,Juventus,"1,636",18.2,4.0,0.0,160.0,9.0,
-,Andrea Barzagli,it ITA,DF,23,17,0.0,0.0,2016-2017,7c0000fd,Juventus,"1,532",17.0,2.0,0.0,160.0,9.0,
-,Kwadwo Asamoah,gh GHA,"DF,MF",18,16,1.0,0.0,2016-2017,089550f5,Juventus,"1,472",16.4,2.0,0.0,160.0,17.0,
-,Dani Alves,br BRA,"DF,MF",19,15,3.0,2.0,2016-2017,c9e99e49,Juventus,"1,359",15.1,5.0,0.0,160.0,2.0,
-,Claudio Marchisio,it ITA,MF,18,15,3.0,1.0,2016-2017,304acd5,Juventus,"1,253",13.9,2.0,0.0,160.0,9.0,
-,Medhi Benatia,ma MAR,DF,15,14,0.0,1.0,2016-2017,3b15ef2d,Juventus,"1,179",13.1,3.0,0.0,160.0,26.0,
-,Stefano Sturaro,it ITA,MF,21,12,1.0,0.0,2016-2017,2334478a,Juventus,"1,038",11.5,5.0,0.0,160.0,9.0,
-,Daniele Rugani,it ITA,DF,15,11,0.0,2.0,2016-2017,14b8fcdf,Juventus,"1,081",12.0,4.0,0.0,160.0,9.0,
-,Mario Lemina,ga GAB,MF,19,8,1.0,1.0,2016-2017,2b471f99,Juventus,906,10.1,1.0,0.0,160.0,69.0,
-,Hernanes,br BRA,MF,10,8,0.0,1.0,2016-2017,cfc2ee72,Juventus,721,8.0,3.0,0.0,160.0,2.0,
-,Neto,br BRA,GK,8,7,0.0,0.0,2016-2017,9dc785c,Juventus,675,7.5,0.0,0.0,160.0,2.0,
-,Marko Pjaca,hr CRO,MF,14,3,0.0,0.0,2016-2017,2c38b327,Juventus,459,5.1,1.0,0.0,160.0,16.0,
-,Patrice Evra,fr FRA,"DF,MF",6,3,0.0,0.0,2016-2017,51a3caf1,Juventus,252,2.8,0.0,0.0,160.0,4.0,
-,Tomás Rincón,ve VEN,MF,13,2,1.0,0.0,2016-2017,f1cfc209,Juventus,309,3.4,0.0,0.0,160.0,53.0,
-,Emil Audero,it ITA,GK,1,1,0.0,0.0,2016-2017,649b01d8,Juventus,90,1.0,0.0,0.0,160.0,9.0,
-,Moise Kean,it ITA,FW,3,0,0.0,1.0,2016-2017,3d50bcdb,Juventus,21,0.2,0.0,0.0,160.0,9.0,
-,Rolando Mandragora,it ITA,MF,1,0,0.0,0.0,2016-2017,c7259b83,Juventus,5,0.1,0.0,0.0,160.0,9.0,
-,Mattia Del Favero,it ITA,GK,0,0,,,2016-2017,cd837326,Juventus,,,,,160.0,9.0,
-,Leonardo Loria,it ITA,GK,0,0,,,2016-2017,f95a178d,Juventus,,,,,160.0,9.0,
-,Luca Marrone,it ITA,"DF,MF",0,0,,,2016-2017,468ea8,Juventus,,,,,160.0,9.0,
-,Federico Mattiello,it ITA,"DF,MF",0,0,,,2016-2017,fba81826,Juventus,,,,,160.0,9.0,
-,Alessandro Semprini,it ITA,FW,0,0,,,2016-2017,dd29f81d,Juventus,,,,,160.0,9.0,
-,Simone Zaza,it ITA,FW,0,0,,,2016-2017,9592289a,Juventus,,,,,160.0,9.0,
-,﻿Gonzalo Higuaín,ar ARG,FW,35,32,5.0,16.0,2017-2018,8a08491a,Juventus,"2,815",31.3,4.0,0.0,160.0,5.0,
-,Miralem Pjanić,ba BIH,MF,31,28,5.0,5.0,2017-2018,d6df2d5,Juventus,"2,484",27.6,5.0,0.0,160.0,49.0,
-,Blaise Matuidi,fr FRA,MF,32,27,1.0,3.0,2017-2018,c0cddebe,Juventus,"2,354",26.2,3.0,0.0,160.0,4.0,
-,Mario Mandžukić,hr CRO,"FW,MF",32,27,1.0,5.0,2017-2018,fa0d4e0,Juventus,"2,324",25.8,4.0,2.0,160.0,16.0,
-,Paulo Dybala,ar ARG,"MF,FW",33,26,3.0,22.0,2017-2018,0921a4f,Juventus,"2,353",26.1,0.0,0.0,160.0,5.0,
-,Giorgio Chiellini,it ITA,DF,26,25,1.0,0.0,2017-2018,85fb9b8,Juventus,"2,161",24.0,2.0,0.0,160.0,9.0,
-,Sami Khedira,de GER,MF,26,24,2.0,9.0,2017-2018,38ac43d3,Juventus,"1,912",21.2,1.0,0.0,160.0,13.0,
-,Alex Sandro,br BRA,DF,26,23,3.0,4.0,2017-2018,0d82903c,Juventus,"2,117",23.5,8.0,0.0,160.0,2.0,
-,Daniele Rugani,it ITA,DF,22,22,1.0,2.0,2017-2018,14b8fcdf,Juventus,"1,935",21.5,3.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,21,21,0.0,0.0,2017-2018,40d028b,Juventus,"1,862",20.7,1.0,0.0,160.0,9.0,
-,Stephan Lichtsteiner,ch SUI,DF,27,21,2.0,0.0,2017-2018,99b1d0e6,Juventus,"1,704",18.9,6.0,0.0,160.0,39.0,
-,Medhi Benatia,ma MAR,DF,20,19,0.0,2.0,2017-2018,3b15ef2d,Juventus,"1,755",19.5,8.0,0.0,160.0,26.0,
-,Douglas Costa,br BRA,"MF,FW",31,18,6.0,4.0,2017-2018,4fa7cb9b,Juventus,"1,795",19.9,1.0,0.0,160.0,2.0,
-,Kwadwo Asamoah,gh GHA,DF,19,18,0.0,0.0,2017-2018,089550f5,Juventus,"1,568",17.4,4.0,0.0,160.0,17.0,
-,Wojciech Szczęsny,pl POL,GK,17,17,0.0,0.0,2017-2018,01b8a2b2,Juventus,"1,530",17.0,0.0,0.0,160.0,14.0,
-,Juan Cuadrado,co COL,"MF,FW",21,15,4.0,4.0,2017-2018,0ab1f153,Juventus,"1,353",15.0,5.0,0.0,160.0,19.0,
-,Andrea Barzagli,it ITA,DF,25,14,1.0,0.0,2017-2018,7c0000fd,Juventus,"1,447",16.1,2.0,0.0,160.0,9.0,
-,Mattia De Sciglio,it ITA,DF,12,10,0.0,1.0,2017-2018,4e2852,Juventus,968,10.8,1.0,0.0,160.0,9.0,
-,Claudio Marchisio,it ITA,MF,15,9,1.0,0.0,2017-2018,304acd5,Juventus,817,9.1,1.0,0.0,160.0,9.0,
-,Federico Bernardeschi,it ITA,"MF,FW",22,7,3.0,4.0,2017-2018,93c1a9,Juventus,847,9.4,4.0,0.0,160.0,9.0,
-,Stefano Sturaro,it ITA,"MF,DF",12,7,0.0,0.0,2017-2018,2334478a,Juventus,613,6.8,1.0,0.0,160.0,9.0,
-,Rodrigo Bentancur,uy URU,MF,20,5,0.0,0.0,2017-2018,3b8674e6,Juventus,581,6.5,0.0,0.0,160.0,8.0,
-,Benedikt Höwedes,de GER,DF,3,3,0.0,1.0,2017-2018,d5c04323,Juventus,247,2.7,1.0,0.0,160.0,13.0,
-,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2017-2018,f6a06749,Juventus,28,0.3,0.0,0.0,160.0,9.0,
-,Fabrizio Caligara,it ITA,MF,0,0,,,2017-2018,22ca11f1,Juventus,,,,,160.0,9.0,
-,Mattia Del Favero,it ITA,GK,0,0,,,2017-2018,cd837326,Juventus,,,,,160.0,9.0,
-,Ferdinando Del Sole,it ITA,MF,0,0,,,2017-2018,6bddd1f,Juventus,,,,,160.0,9.0,
-,Moise Kean,it ITA,FW,0,0,,,2017-2018,3d50bcdb,Juventus,,,,,160.0,9.0,
-,Leonardo Loria,it ITA,GK,0,0,,,2017-2018,f95a178d,Juventus,,,,,160.0,9.0,
-,Marko Pjaca,hr CRO,"FW,MF",0,0,,,2017-2018,2c38b327,Juventus,,,,,160.0,16.0,
-,﻿Cristiano Ronaldo,pt POR,FW,31,30,8.0,21.0,2018-2019,dea698d9,Juventus,"2,688",29.9,3.0,0.0,160.0,3.0,
-,Blaise Matuidi,fr FRA,MF,31,29,2.0,3.0,2018-2019,c0cddebe,Juventus,"2,418",26.9,5.0,0.0,160.0,4.0,
-,Wojciech Szczęsny,pl POL,GK,28,28,0.0,0.0,2018-2019,01b8a2b2,Juventus,"2,520",28.0,0.0,0.0,160.0,14.0,
-,Alex Sandro,br BRA,DF,31,28,2.0,1.0,2018-2019,0d82903c,Juventus,"2,387",26.5,7.0,0.0,160.0,2.0,
-,Leonardo Bonucci,it ITA,DF,29,27,0.0,3.0,2018-2019,52ec54d0,Juventus,"2,472",27.5,2.0,0.0,160.0,9.0,
-,Miralem Pjanić,ba BIH,MF,31,27,6.0,2.0,2018-2019,d6df2d5,Juventus,"2,280",25.3,6.0,1.0,160.0,49.0,
-,Paulo Dybala,ar ARG,"FW,MF",30,24,4.0,5.0,2018-2019,0921a4f,Juventus,"2,137",23.7,2.0,0.0,160.0,5.0,
-,Mario Mandžukić,hr CRO,FW,25,23,6.0,9.0,2018-2019,fa0d4e0,Juventus,"2,014",22.4,4.0,0.0,160.0,16.0,
-,Giorgio Chiellini,it ITA,DF,25,22,1.0,1.0,2018-2019,85fb9b8,Juventus,"1,991",22.1,3.0,0.0,160.0,9.0,
-,João Cancelo,pt POR,DF,25,22,3.0,1.0,2018-2019,bd6351cd,Juventus,"1,968",21.9,6.0,0.0,160.0,3.0,
-,Rodrigo Bentancur,uy URU,MF,31,21,3.0,2.0,2018-2019,3b8674e6,Juventus,"2,003",22.3,8.0,1.0,160.0,8.0,
-,Emre Can,de GER,MF,29,20,1.0,4.0,2018-2019,65ce836,Juventus,"1,811",20.1,7.0,0.0,160.0,13.0,
-,Mattia De Sciglio,it ITA,DF,22,19,1.0,0.0,2018-2019,4e2852,Juventus,"1,743",19.4,2.0,0.0,160.0,9.0,
-,Daniele Rugani,it ITA,DF,15,15,0.0,2.0,2018-2019,14b8fcdf,Juventus,"1,350",15.0,3.0,0.0,160.0,9.0,
-,Federico Bernardeschi,it ITA,"MF,FW",28,14,3.0,2.0,2018-2019,93c1a9,Juventus,"1,473",16.4,5.0,1.0,160.0,9.0,
-,Juan Cuadrado,co COL,"MF,DF",18,14,2.0,1.0,2018-2019,0ab1f153,Juventus,"1,220",13.6,4.0,0.0,160.0,19.0,
-,Mattia Perin,it ITA,GK,9,9,0.0,0.0,2018-2019,4c62d0c8,Juventus,810,9.0,1.0,0.0,160.0,9.0,
-,Sami Khedira,de GER,MF,10,8,1.0,2.0,2018-2019,38ac43d3,Juventus,706,7.8,0.0,0.0,160.0,13.0,
-,Martín Cáceres,uy URU,DF,9,7,0.0,0.0,2018-2019,94d79e3,Juventus,628,7.0,1.0,0.0,160.0,8.0,
-,Douglas Costa,br BRA,"MF,FW",17,7,0.0,1.0,2018-2019,4fa7cb9b,Juventus,621,6.9,2.0,1.0,160.0,2.0,
-,Leonardo Spinazzola,it ITA,DF,10,6,1.0,0.0,2018-2019,3626daea,Juventus,601,6.7,0.0,0.0,160.0,9.0,
-,Moise Kean,it ITA,FW,13,5,0.0,6.0,2018-2019,3d50bcdb,Juventus,541,6.0,2.0,0.0,160.0,9.0,
-,Medhi Benatia,ma MAR,DF,5,5,0.0,0.0,2018-2019,3b15ef2d,Juventus,450,5.0,2.0,0.0,160.0,26.0,
-,Andrea Barzagli,it ITA,DF,7,4,0.0,0.0,2018-2019,7c0000fd,Juventus,260,2.9,0.0,0.0,160.0,9.0,
-,Matheus Pereira da Silva,br BRA,MF,3,1,0.0,0.0,2018-2019,bef22bc4,Juventus,92,1.0,0.0,0.0,160.0,2.0,
-,Paolo Gozzi Iweru,it ITA,DF,1,1,0.0,0.0,2018-2019,94230890,Juventus,90,1.0,0.0,0.0,160.0,9.0,
-,Carlo Pinsoglio,it ITA,GK,1,1,0.0,0.0,2018-2019,f6a06749,Juventus,90,1.0,0.0,0.0,160.0,9.0,
-,Grigoris Kastanos,cy CYP,MF,1,1,0.0,0.0,2018-2019,2a82aa85,Juventus,60,0.7,0.0,0.0,160.0,63.0,
-,Hans Nicolussi Caviglia,it ITA,MF,3,0,0.0,0.0,2018-2019,b136c945,Juventus,57,0.6,0.0,0.0,160.0,9.0,
-,Manolo Portanova,it ITA,MF,1,0,0.0,0.0,2018-2019,c8c0dccd,Juventus,33,0.4,1.0,0.0,160.0,9.0,
-,Stephy Mavididi,eng ENG,FW,1,0,0.0,0.0,2018-2019,30144daa,Juventus,22,0.2,0.0,0.0,160.0,6.0,
-,Luca Coccolo,it ITA,DF,0,0,,,2018-2019,c426907e,Juventus,,,,,160.0,9.0,
-,Mattia Del Favero,it ITA,GK,0,0,,,2018-2019,cd837326,Juventus,,,,,160.0,9.0,
-,Nicolò Fagioli,it ITA,MF,0,0,,,2018-2019,366be751,Juventus,,,,,160.0,9.0,
-,Pablo Moreno,es ESP,FW,0,0,,,2018-2019,2ce5a500,Juventus,,,,,160.0,1.0,
-,Simone Muratore,it ITA,MF,0,0,,,2018-2019,04989945,Juventus,,,,,160.0,9.0,
-,﻿Leonardo Bonucci,it ITA,DF,35,35,0.0,3.0,2019-2020,52ec54d0,Juventus,"3,082",34.2,10.0,0.0,160.0,9.0,
-,Cristiano Ronaldo,pt POR,FW,33,33,5.0,31.0,2019-2020,dea698d9,Juventus,"2,917",32.4,3.0,0.0,160.0,3.0,
-,Wojciech Szczęsny,pl POL,GK,29,29,0.0,0.0,2019-2020,01b8a2b2,Juventus,"2,591",28.8,1.0,0.0,160.0,14.0,
-,Juan Cuadrado,co COL,"DF,FW",33,28,5.0,2.0,2019-2020,0ab1f153,Juventus,"2,654",29.5,7.0,1.0,160.0,19.0,
-,Miralem Pjanić,ba BIH,MF,30,28,6.0,3.0,2019-2020,d6df2d5,Juventus,"2,277",25.3,10.0,0.0,160.0,49.0,
-,Alex Sandro,br BRA,DF,29,27,3.0,1.0,2019-2020,0d82903c,Juventus,"2,385",26.5,4.0,0.0,160.0,2.0,
-,Matthijs de Ligt,nl NED,DF,29,26,0.0,4.0,2019-2020,d6e53a3a,Juventus,"2,450",27.2,5.0,0.0,160.0,11.0,
-,Rodrigo Bentancur,uy URU,MF,30,25,7.0,0.0,2019-2020,3b8674e6,Juventus,"2,196",24.4,9.0,0.0,160.0,8.0,
-,Paulo Dybala,ar ARG,"FW,MF",33,25,6.0,11.0,2019-2020,0921a4f,Juventus,"2,155",23.9,5.0,0.0,160.0,5.0,
-,Blaise Matuidi,fr FRA,MF,35,23,2.0,0.0,2019-2020,c0cddebe,Juventus,"2,237",24.9,2.0,0.0,160.0,4.0,
-,Adrien Rabiot,fr FRA,MF,28,21,1.0,1.0,2019-2020,8794e251,Juventus,"1,912",21.2,7.0,1.0,160.0,4.0,
-,Gonzalo Higuaín,ar ARG,FW,32,20,4.0,8.0,2019-2020,8a08491a,Juventus,"1,866",20.7,2.0,0.0,160.0,5.0,
-,Federico Bernardeschi,it ITA,"MF,FW",29,19,1.0,1.0,2019-2020,93c1a9,Juventus,"1,571",17.5,6.0,0.0,160.0,9.0,
-,Danilo,br BRA,DF,22,16,0.0,2.0,2019-2020,94b2001f,Juventus,"1,440",16.0,4.0,1.0,160.0,2.0,
-,Aaron Ramsey,wls WAL,MF,24,11,1.0,3.0,2019-2020,f619b0b,Juventus,"1,051",11.7,2.0,0.0,160.0,18.0,
-,Gianluigi Buffon,it ITA,GK,9,9,0.0,0.0,2019-2020,40d028b,Juventus,810,9.0,0.0,0.0,160.0,9.0,
-,Sami Khedira,de GER,MF,12,9,1.0,0.0,2019-2020,38ac43d3,Juventus,681,7.6,3.0,0.0,160.0,13.0,
-,Douglas Costa,br BRA,"FW,MF",23,7,4.0,1.0,2019-2020,4fa7cb9b,Juventus,802,8.9,1.0,0.0,160.0,2.0,
-,Daniele Rugani,it ITA,DF,10,7,0.0,0.0,2019-2020,14b8fcdf,Juventus,690,7.7,2.0,0.0,160.0,9.0,
-,Mattia De Sciglio,it ITA,DF,9,6,0.0,0.0,2019-2020,4e2852,Juventus,471,5.2,1.0,0.0,160.0,9.0,
-,Merih Demiral,tr TUR,DF,6,5,1.0,1.0,2019-2020,3cceee6,Juventus,418,4.6,1.0,0.0,160.0,15.0,
-,Giorgio Chiellini,it ITA,DF,4,3,0.0,1.0,2019-2020,85fb9b8,Juventus,202,2.2,0.0,0.0,160.0,9.0,
-,Emre Can,de GER,MF,8,2,0.0,0.0,2019-2020,65ce836,Juventus,284,3.2,2.0,0.0,160.0,13.0,
-,Simone Muratore,it ITA,MF,4,2,0.0,0.0,2019-2020,04989945,Juventus,165,1.8,0.0,0.0,160.0,9.0,
-,Luca Zanimacchia,it ITA,"FW,MF",2,1,0.0,0.0,2019-2020,5e834dce,Juventus,120,1.3,0.0,0.0,160.0,9.0,
-,Gianluca Frabotta,it ITA,DF,1,1,0.0,0.0,2019-2020,d80b1835,Juventus,90,1.0,0.0,0.0,160.0,9.0,
-,Marco Olivieri,it ITA,FW,3,0,0.0,0.0,2019-2020,f5ba8903,Juventus,30,0.3,0.0,0.0,160.0,9.0,
-,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2019-2020,f6a06749,Juventus,19,0.2,0.0,0.0,160.0,9.0,
-,Daouda Peeters,be BEL,MF,1,0,0.0,0.0,2019-2020,83f8ebb,Juventus,15,0.2,0.0,0.0,160.0,27.0,
-,Giacomo Vrioni,al ALB,FW,1,0,0.0,0.0,2019-2020,bf4d31d3,Juventus,12,0.1,0.0,0.0,160.0,78.0,
-,Pietro Beruatto,it ITA,DF,0,0,,,2019-2020,3a0f199a,Juventus,,,,,160.0,9.0,
-,Luca Coccolo,it ITA,DF,0,0,,,2019-2020,c426907e,Juventus,,,,,160.0,9.0,
-,Han Kwang-song,kp PRK,FW,0,0,,,2019-2020,87243064,Juventus,,,,,160.0,164.0,
-,Mario Mandžukić,hr CRO,"FW,MF",0,0,,,2019-2020,fa0d4e0,Juventus,,,,,160.0,16.0,
-,Mattia Perin,it ITA,GK,0,0,,,2019-2020,4c62d0c8,Juventus,,,,,160.0,9.0,
-,Marko Pjaca,hr CRO,"FW,MF",0,0,,,2019-2020,2c38b327,Juventus,,,,,160.0,16.0,
-,Manolo Portanova,it ITA,MF,0,0,,,2019-2020,c8c0dccd,Juventus,,,,,160.0,9.0,
-,Wesley,br BRA,MF,0,0,,,2019-2020,7f7ad37a,Juventus,,,,,160.0,2.0,
-,﻿Danilo,br BRA,"DF,MF",34,32,4.0,1.0,2020-2021,94b2001f,Juventus,"2,916",32.4,6.0,0.0,160.0,2.0,
-,Cristiano Ronaldo,pt POR,FW,33,31,2.0,29.0,2020-2021,dea698d9,Juventus,"2,802",31.1,3.0,0.0,160.0,3.0,
-,Wojciech Szczęsny,pl POL,GK,30,30,1.0,0.0,2020-2021,01b8a2b2,Juventus,"2,677",29.7,0.0,0.0,160.0,14.0,
-,Federico Chiesa,it ITA,"MF,DF",30,28,8.0,8.0,2020-2021,b0f7e36c,Juventus,"2,210",24.6,3.0,1.0,160.0,9.0,
-,Rodrigo Bentancur,uy URU,MF,33,27,4.0,0.0,2020-2021,3b8674e6,Juventus,"2,324",25.8,8.0,1.0,160.0,8.0,
-,Juan Cuadrado,co COL,"DF,MF",30,26,10.0,2.0,2020-2021,0ab1f153,Juventus,"2,175",24.2,9.0,1.0,160.0,19.0,
-,Adrien Rabiot,fr FRA,MF,34,25,2.0,4.0,2020-2021,8794e251,Juventus,"2,313",25.7,7.0,1.0,160.0,4.0,
-,Matthijs de Ligt,nl NED,DF,27,25,1.0,1.0,2020-2021,d6e53a3a,Juventus,"2,220",24.7,4.0,0.0,160.0,11.0,
-,Leonardo Bonucci,it ITA,DF,26,23,0.0,2.0,2020-2021,52ec54d0,Juventus,"2,028",22.5,4.0,0.0,160.0,9.0,
-,Álvaro Morata,es ESP,FW,32,23,9.0,11.0,2020-2021,129af0db,Juventus,"2,014",22.4,3.0,1.0,160.0,1.0,
-,Alex Sandro,br BRA,DF,26,20,1.0,2.0,2020-2021,0d82903c,Juventus,"1,858",20.6,2.0,0.0,160.0,2.0,
-,Dejan Kulusevski,se SWE,"MF,FW",35,19,3.0,4.0,2020-2021,df3cda47,Juventus,"1,923",21.4,7.0,0.0,160.0,41.0,
-,Weston McKennie,us USA,MF,34,18,2.0,5.0,2020-2021,01c3aff5,Juventus,"1,702",18.9,5.0,0.0,160.0,75.0,
-,Giorgio Chiellini,it ITA,DF,17,16,1.0,0.0,2020-2021,85fb9b8,Juventus,"1,386",15.4,4.0,0.0,160.0,9.0,
-,Paulo Dybala,ar ARG,FW,20,14,3.0,4.0,2020-2021,0921a4f,Juventus,"1,132",12.6,0.0,0.0,160.0,5.0,
-,Arthur Melo,br BRA,MF,22,13,0.0,1.0,2020-2021,48b3dd60,Juventus,"1,157",12.9,3.0,0.0,160.0,2.0,
-,Aaron Ramsey,wls WAL,MF,22,13,4.0,2.0,2020-2021,f619b0b,Juventus,"1,089",12.1,2.0,0.0,160.0,18.0,
-,Merih Demiral,tr TUR,DF,15,10,1.0,0.0,2020-2021,3cceee6,Juventus,940,10.4,1.0,0.0,160.0,15.0,
-,Federico Bernardeschi,it ITA,"MF,DF",27,8,2.0,0.0,2020-2021,93c1a9,Juventus,972,10.8,3.0,0.0,160.0,9.0,
-,Gianluigi Buffon,it ITA,GK,8,8,0.0,0.0,2020-2021,40d028b,Juventus,720,8.0,0.0,0.0,160.0,9.0,
-,Gianluca Frabotta,it ITA,"DF,MF",15,8,1.0,0.0,2020-2021,d80b1835,Juventus,689,7.7,5.0,0.0,160.0,9.0,
-,Manolo Portanova,it ITA,MF,2,1,0.0,0.0,2020-2021,c8c0dccd,Juventus,70,0.8,1.0,0.0,160.0,9.0,
-,Douglas Costa,br BRA,"MF,FW",2,0,0.0,0.0,2020-2021,4fa7cb9b,Juventus,42,0.5,0.0,0.0,160.0,2.0,
-,Mattia De Sciglio,it ITA,DF,1,0,0.0,0.0,2020-2021,4e2852,Juventus,24,0.3,0.0,0.0,160.0,9.0,
-,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2020-2021,f6a06749,Juventus,23,0.3,0.0,1.0,160.0,9.0,
-,Nicolò Fagioli,it ITA,MF,1,0,0.0,0.0,2020-2021,366be751,Juventus,21,0.2,0.0,0.0,160.0,9.0,
-,Alessandro Di Pardo,it ITA,"FW,DF",4,0,0.0,0.0,2020-2021,0ce7038,Juventus,14,0.2,0.0,0.0,160.0,9.0,
-,Félix Correia,pt POR,MF,1,0,0.0,0.0,2020-2021,c803c92a,Juventus,7,0.1,0.0,0.0,160.0,3.0,
-,Radu Drăgușin,ro ROU,DF,1,0,0.0,0.0,2020-2021,620922ed,Juventus,1,0.0,0.0,0.0,160.0,51.0,
-,Giacomo Vrioni,al ALB,MF,1,0,0.0,0.0,2020-2021,bf4d31d3,Juventus,1,0.0,0.0,0.0,160.0,78.0,
-,Marley Aké,fr FRA,FW,0,0,,,2020-2021,414e1f69,Juventus,,,,,160.0,4.0,
-,Riccardo Capellini,it ITA,DF,0,0,,,2020-2021,427258c9,Juventus,,,,,160.0,9.0,
-,Cosimo Marco Da Graca,it ITA,FW,0,0,,,2020-2021,32f76907,Juventus,,,,,160.0,9.0,
-,Davide De Marino,it ITA,DF,0,0,,,2020-2021,2550ae31,Juventus,,,,,160.0,9.0,
-,Giovanni Garofani,it ITA,GK,0,0,,,2020-2021,ff2ad9bb,Juventus,,,,,160.0,9.0,
-,Franco Israel,uy URU,GK,0,0,,,2020-2021,1f994616,Juventus,,,,,160.0,8.0,
-,Alejandro Marqués,es ESP,FW,0,0,,,2020-2021,83bc30cc,Juventus,,,,,160.0,1.0,
-,Hans Nicolussi Caviglia,it ITA,MF,0,0,,,2020-2021,b136c945,Juventus,,,,,160.0,9.0,
-,Daouda Peeters,be BEL,MF,0,0,,,2020-2021,83f8ebb,Juventus,,,,,160.0,27.0,
-,Hamza Rafia,tn TUN,MF,0,0,,,2020-2021,6b587d3d,Juventus,,,,,160.0,46.0,
-,Filippo Ranocchia,it ITA,MF,0,0,,,2020-2021,d9ebed1c,Juventus,,,,,160.0,9.0,
-,Daniele Rugani,it ITA,DF,0,0,,,2020-2021,14b8fcdf,Juventus,,,,,160.0,9.0,
-,﻿Wojciech Szczęsny,pl POL,GK,33,33,0.0,0.0,2021-2022,01b8a2b2,Juventus,"2,970",33.0,2.0,0.0,160.0,14.0,
-,Matthijs de Ligt,nl NED,DF,31,29,1.0,3.0,2021-2022,d6e53a3a,Juventus,"2,674",29.7,4.0,1.0,160.0,11.0,
-,Juan Cuadrado,co COL,"DF,MF",33,28,3.0,4.0,2021-2022,0ab1f153,Juventus,"2,487",27.6,9.0,0.0,160.0,19.0,
-,Adrien Rabiot,fr FRA,MF,32,28,2.0,0.0,2021-2022,8794e251,Juventus,"2,285",25.4,5.0,0.0,160.0,4.0,
-,Álvaro Morata,es ESP,FW,35,26,4.0,9.0,2021-2022,129af0db,Juventus,"2,302",25.6,5.0,0.0,160.0,1.0,
-,Paulo Dybala,ar ARG,"FW,MF",29,26,5.0,10.0,2021-2022,0921a4f,Juventus,"2,061",22.9,3.0,0.0,160.0,5.0,
-,Manuel Locatelli,it ITA,MF,31,23,3.0,3.0,2021-2022,8a874f1,Juventus,"2,160",24.0,6.0,0.0,160.0,9.0,
-,Leonardo Bonucci,it ITA,DF,24,22,0.0,5.0,2021-2022,52ec54d0,Juventus,"2,005",22.3,1.0,0.0,160.0,9.0,
-,Danilo,br BRA,"DF,MF",22,22,2.0,1.0,2021-2022,94b2001f,Juventus,"1,893",21.0,6.0,0.0,160.0,2.0,
-,Alex Sandro,br BRA,DF,28,17,1.0,0.0,2021-2022,0d82903c,Juventus,"1,780",19.8,3.0,0.0,160.0,2.0,
-,Federico Bernardeschi,it ITA,"MF,FW",28,16,3.0,1.0,2021-2022,93c1a9,Juventus,"1,475",16.4,5.0,0.0,160.0,9.0,
-,Giorgio Chiellini,it ITA,DF,21,16,0.0,0.0,2021-2022,85fb9b8,Juventus,"1,354",15.0,2.0,0.0,160.0,9.0,
-,Weston McKennie,us USA,MF,21,15,0.0,3.0,2021-2022,01c3aff5,Juventus,"1,369",15.2,1.0,0.0,160.0,75.0,
-,Luca Pellegrini,it ITA,DF,18,15,1.0,0.0,2021-2022,3b61c9ec,Juventus,"1,107",12.3,6.0,0.0,160.0,9.0,
-,Mattia De Sciglio,it ITA,DF,20,13,2.0,1.0,2021-2022,4e2852,Juventus,"1,168",13.0,2.0,1.0,160.0,9.0,
-,Rodrigo Bentancur,uy URU,MF,19,13,1.0,0.0,2021-2022,3b8674e6,Juventus,"1,155",12.8,1.0,0.0,160.0,8.0,
-,Moise Kean,it ITA,FW,32,12,2.0,5.0,2021-2022,3d50bcdb,Juventus,"1,098",12.2,5.0,0.0,160.0,9.0,
-,Dušan Vlahović,rs SRB,FW,15,12,1.0,7.0,2021-2022,79443529,Juventus,"1,076",12.0,2.0,0.0,160.0,28.0,
-,Arthur Melo,br BRA,MF,20,11,0.0,0.0,2021-2022,48b3dd60,Juventus,962,10.7,3.0,0.0,160.0,2.0,
-,Federico Chiesa,it ITA,"MF,FW",14,11,2.0,2.0,2021-2022,b0f7e36c,Juventus,863,9.6,0.0,0.0,160.0,9.0,
-,Daniele Rugani,it ITA,DF,12,9,0.0,0.0,2021-2022,14b8fcdf,Juventus,879,9.8,2.0,0.0,160.0,9.0,
-,Denis Zakaria,ch SUI,MF,9,6,1.0,1.0,2021-2022,384d58d9,Juventus,597,6.6,1.0,0.0,160.0,39.0,
-,Dejan Kulusevski,se SWE,"MF,FW",20,5,3.0,1.0,2021-2022,df3cda47,Juventus,772,8.6,1.0,0.0,160.0,41.0,
-,Mattia Perin,it ITA,GK,5,5,0.0,0.0,2021-2022,4c62d0c8,Juventus,405,4.5,0.0,0.0,160.0,9.0,
-,Fabio Miretti,it ITA,MF,6,4,0.0,0.0,2021-2022,34693494,Juventus,321,3.6,0.0,0.0,160.0,9.0,
-,Aaron Ramsey,wls WAL,MF,3,1,0.0,0.0,2021-2022,f619b0b,Juventus,99,1.1,0.0,0.0,160.0,18.0,
-,Kaio Jorge,br BRA,"MF,FW",9,0,0.0,0.0,2021-2022,0cf465f2,Juventus,121,1.3,0.0,0.0,160.0,2.0,
-,Marley Aké,fr FRA,"FW,MF",4,0,0.0,0.0,2021-2022,414e1f69,Juventus,77,0.9,1.0,0.0,160.0,4.0,
-,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2021-2022,f6a06749,Juventus,45,0.5,0.0,0.0,160.0,9.0,
-,Cristiano Ronaldo,pt POR,FW,1,0,0.0,0.0,2021-2022,dea698d9,Juventus,31,0.3,1.0,0.0,160.0,3.0,
-,Martin Palumbo,no NOR,FW,1,0,0.0,0.0,2021-2022,f8d41a8c,Juventus,13,0.1,0.0,0.0,160.0,21.0,
-,Matìas Soulé,ar ARG,MF,2,0,0.0,0.0,2021-2022,c13ddd3e,Juventus,5,0.1,0.0,0.0,160.0,5.0,
-,Koni De Winter,be BEL,DF,0,0,,,2021-2022,f4797849,Juventus,,,,,160.0,27.0,
-,Nicolò Fagioli,it ITA,MF,0,0,,,2021-2022,366be751,Juventus,,,,,160.0,9.0,
-,Samuel Iling-Junior,eng ENG,MF,0,0,,,2021-2022,ba492306,Juventus,,,,,160.0,6.0,
-,Franco Israel,uy URU,GK,0,0,,,2021-2022,1f994616,Juventus,,,,,160.0,8.0,
-,Marco Raina,it ITA,GK,0,0,,,2021-2022,fabe85d7,Juventus,,,,,160.0,9.0,
-,Filippo Ranocchia,it ITA,MF,0,0,,,2021-2022,d9ebed1c,Juventus,,,,,160.0,9.0,
-,Zsombor Senkó,hu HUN,GK,0,0,,,2021-2022,df29265d,Juventus,,,,,160.0,87.0,
-,Diego Stramaccioni,it ITA,DF,0,0,,,2021-2022,b3f28,Juventus,,,,,160.0,9.0,
-,Emanuele Zuelli,it ITA,MF,0,0,,,2021-2022,c896d22a,Juventus,,,,,160.0,9.0,
+﻿Id,Player,Nationality,Position,Game,Games Starts,Assists,Goals,season,Link,Player_id,Club,Minutes,Minutes 90s,Yellow Card,Red Card,Club_Id,Nationality_Id,Player_Id_DB,club
+,﻿Gianluigi Buffon,it ITA,GK,32,32,0.0,0.0,2002-2003,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,827",31.4,1.0,0.0,160,9.0,12811.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,29,27,11.0,8.0,2002-2003,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,290",25.4,3.0,0.0,160,84.0,19495.0,Juventus
+,Lilian Thuram,fr FRA,DF,27,26,1.0,1.0,2002-2003,/en/players/643ca22c/Lilian-Thuram,643ca22c,Juventus,"2,307",25.6,0.0,0.0,160,4.0,1106.0,Juventus
+,Edgar Davids,nl NED,MF,26,25,0.0,1.0,2002-2003,/en/players/19d5e43e/Edgar-Davids,19d5e43e,Juventus,"2,118",23.5,3.0,0.0,160,11.0,1077.0,Juventus
+,Mauro Camoranesi,it ITA,MF,30,24,4.0,4.0,2002-2003,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"2,127",23.6,7.0,0.0,160,9.0,15595.0,Juventus
+,Ciro Ferrara,it ITA,DF,25,24,1.0,0.0,2002-2003,/en/players/d31cea40/Ciro-Ferrara,d31cea40,Juventus,"2,108",23.4,3.0,0.0,160,9.0,19496.0,Juventus
+,Alessio Tacchinardi,it ITA,MF,27,22,1.0,2.0,2002-2003,/en/players/b99799e5/Alessio-Tacchinardi,b99799e5,Juventus,"2,027",22.5,3.0,0.0,160,9.0,2730.0,Juventus
+,Gianluca Zambrotta,it ITA,DF,25,21,5.0,0.0,2002-2003,/en/players/94508225/Gianluca-Zambrotta,94508225,Juventus,"1,903",21.1,3.0,0.0,160,9.0,1105.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",24,20,8.0,16.0,2002-2003,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"1,886",21.0,1.0,0.0,160,9.0,19497.0,Juventus
+,Paolo Montero,uy URU,DF,21,19,0.0,0.0,2002-2003,/en/players/ca09be9a/Paolo-Montero,ca09be9a,Juventus,"1,784",19.8,2.0,0.0,160,8.0,19498.0,Juventus
+,Mark Iuliano,it ITA,DF,21,19,0.0,1.0,2002-2003,/en/players/9385eaee/Mark-Iuliano,9385eaee,Juventus,"1,682",18.7,3.0,0.0,160,9.0,1578.0,Juventus
+,Marco Di Vaio,it ITA,FW,26,18,2.0,7.0,2002-2003,/en/players/dfa05223/Marco-Di-Vaio,dfa05223,Juventus,"1,552",17.2,2.0,0.0,160,9.0,889.0,Juventus
+,Alessandro Birindelli,it ITA,DF,17,14,0.0,0.0,2002-2003,/en/players/3c388958/Alessandro-Birindelli,3c388958,Juventus,"1,187",13.2,1.0,1.0,160,9.0,19499.0,Juventus
+,David Trezeguet,fr FRA,FW,17,14,2.0,9.0,2002-2003,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"1,163",12.9,0.0,0.0,160,4.0,4977.0,Juventus
+,Antonio Conte,it ITA,MF,18,12,0.0,1.0,2002-2003,/en/players/6d3e0d09/Antonio-Conte,6d3e0d09,Juventus,"1,085",12.1,1.0,1.0,160,9.0,19500.0,Juventus
+,Gianluca Pessotto,it ITA,"DF,MF",17,9,1.0,0.0,2002-2003,/en/players/a4bf5d1f/Gianluca-Pessotto,4bf5d1f,Juventus,864,9.6,1.0,0.0,160,9.0,19501.0,Juventus
+,Marcelo Zalayeta,uy URU,FW,18,8,3.0,4.0,2002-2003,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Juventus,782,8.7,2.0,0.0,160,8.0,19502.0,Juventus
+,Igor Tudor,hr CRO,DF,14,8,2.0,1.0,2002-2003,/en/players/565d4832/Igor-Tudor,565d4832,Juventus,754,8.4,2.0,1.0,160,16.0,19503.0,Juventus
+,Marcelo Salas,cl CHI,FW,11,7,1.0,1.0,2002-2003,/en/players/0836ac1e/Marcelo-Salas,0836ac1e,Juventus,529,5.9,1.0,0.0,160,31.0,19504.0,Juventus
+,Davide Baiocco,it ITA,MF,7,5,0.0,0.0,2002-2003,/en/players/98a44c3c/Davide-Baiocco,98a44c3c,Juventus,337,3.7,0.0,0.0,160,9.0,19505.0,Juventus
+,Cristian Zenoni,it ITA,DF,13,4,2.0,1.0,2002-2003,/en/players/e5f3120a/Cristian-Zenoni,5f3120a,Juventus,611,6.8,0.0,0.0,160,9.0,19506.0,Juventus
+,Salvatore Fresi,it ITA,DF,9,4,0.0,1.0,2002-2003,/en/players/b1844739/Salvatore-Fresi,b1844739,Juventus,442,4.9,0.0,0.0,160,9.0,19507.0,Juventus
+,Antonio Chimenti,it ITA,GK,4,2,0.0,0.0,2002-2003,/en/players/96d5e916/Antonio-Chimenti,96d5e916,Juventus,223,2.5,0.0,0.0,160,9.0,19508.0,Juventus
+,Rubén Olivera,uy URU,MF,3,1,1.0,0.0,2002-2003,/en/players/74b94461/Ruben-Olivera,74b94461,Juventus,136,1.5,0.0,0.0,160,8.0,2147.0,Juventus
+,Matteo Paro,it ITA,MF,1,1,0.0,0.0,2002-2003,/en/players/c8fd60cd/Matteo-Paro,c8fd60cd,Juventus,71,0.8,0.0,0.0,160,9.0,19509.0,Juventus
+,﻿Gianluigi Buffon,it ITA,GK,32,32,0.0,0.0,2003-2004,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,880",32.0,1.0,0.0,160,9.0,12811.0,Juventus
+,Gianluca Zambrotta,it ITA,DF,30,29,6.0,1.0,2003-2004,/en/players/94508225/Gianluca-Zambrotta,94508225,Juventus,"2,586",28.7,3.0,0.0,160,9.0,1105.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,30,28,8.0,6.0,2003-2004,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,445",27.2,5.0,0.0,160,84.0,19495.0,Juventus
+,Stephen Appiah,gh GHA,MF,30,25,1.0,1.0,2003-2004,/en/players/c4fb13cc/Stephen-Appiah,c4fb13cc,Juventus,"2,251",25.0,3.0,0.0,160,17.0,19514.0,Juventus
+,Lilian Thuram,fr FRA,DF,23,23,1.0,0.0,2003-2004,/en/players/643ca22c/Lilian-Thuram,643ca22c,Juventus,"2,013",22.4,1.0,0.0,160,4.0,1106.0,Juventus
+,David Trezeguet,fr FRA,FW,25,23,4.0,16.0,2003-2004,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"2,012",22.4,1.0,0.0,160,4.0,4977.0,Juventus
+,Alessio Tacchinardi,it ITA,MF,24,22,5.0,0.0,2003-2004,/en/players/b99799e5/Alessio-Tacchinardi,b99799e5,Juventus,"1,917",21.3,3.0,0.0,160,9.0,2730.0,Juventus
+,Mauro Camoranesi,it ITA,MF,26,22,5.0,3.0,2003-2004,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"1,771",19.7,3.0,0.0,160,9.0,15595.0,Juventus
+,Nicola Legrottaglie,it ITA,DF,21,21,1.0,2.0,2003-2004,/en/players/c3c63a36/Nicola-Legrottaglie,c3c63a36,Juventus,"1,749",19.4,2.0,0.0,160,9.0,19510.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",22,18,4.0,8.0,2003-2004,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"1,469",16.3,2.0,0.0,160,9.0,19497.0,Juventus
+,Paolo Montero,uy URU,DF,19,17,0.0,1.0,2003-2004,/en/players/ca09be9a/Paolo-Montero,ca09be9a,Juventus,"1,449",16.1,4.0,2.0,160,8.0,19498.0,Juventus
+,Marco Di Vaio,it ITA,FW,29,15,2.0,11.0,2003-2004,/en/players/dfa05223/Marco-Di-Vaio,dfa05223,Juventus,"1,510",16.8,0.0,0.0,160,9.0,889.0,Juventus
+,Ciro Ferrara,it ITA,DF,17,15,0.0,1.0,2003-2004,/en/players/d31cea40/Ciro-Ferrara,d31cea40,Juventus,"1,325",14.7,3.0,1.0,160,9.0,19496.0,Juventus
+,Alessandro Birindelli,it ITA,DF,19,14,1.0,0.0,2003-2004,/en/players/3c388958/Alessandro-Birindelli,3c388958,Juventus,"1,312",14.6,4.0,0.0,160,9.0,19499.0,Juventus
+,Enzo Maresca,it ITA,MF,20,13,4.0,3.0,2003-2004,/en/players/1a899d99/Enzo-Maresca,1a899d99,Juventus,"1,131",12.6,0.0,0.0,160,9.0,1817.0,Juventus
+,Mark Iuliano,it ITA,DF,18,13,0.0,2.0,2003-2004,/en/players/9385eaee/Mark-Iuliano,9385eaee,Juventus,"1,103",12.3,2.0,1.0,160,9.0,1578.0,Juventus
+,Fabrizio Miccoli,it ITA,FW,25,11,4.0,8.0,2003-2004,/en/players/80221e9b/Fabrizio-Miccoli,80221e9b,Juventus,"1,111",12.3,1.0,0.0,160,9.0,19511.0,Juventus
+,Antonio Conte,it ITA,MF,16,11,0.0,1.0,2003-2004,/en/players/6d3e0d09/Antonio-Conte,6d3e0d09,Juventus,"1,033",11.5,5.0,0.0,160,9.0,19500.0,Juventus
+,Gianluca Pessotto,it ITA,"DF,MF",18,9,0.0,0.0,2003-2004,/en/players/a4bf5d1f/Gianluca-Pessotto,4bf5d1f,Juventus,807,9.0,0.0,0.0,160,9.0,19501.0,Juventus
+,Igor Tudor,hr CRO,DF,15,7,0.0,2.0,2003-2004,/en/players/565d4832/Igor-Tudor,565d4832,Juventus,961,10.7,1.0,0.0,160,16.0,19503.0,Juventus
+,Edgar Davids,nl NED,MF,5,4,0.0,0.0,2003-2004,/en/players/19d5e43e/Edgar-Davids,19d5e43e,Juventus,333,3.7,2.0,0.0,160,11.0,1077.0,Juventus
+,Antonio Chimenti,it ITA,GK,2,2,0.0,0.0,2003-2004,/en/players/96d5e916/Antonio-Chimenti,96d5e916,Juventus,180,2.0,0.0,0.0,160,9.0,19508.0,Juventus
+,Viktor Budyanskiy,ru RUS,MF,2,0,0.0,0.0,2003-2004,/en/players/6502280e/Viktor-Budyanskiy,6502280e,Juventus,91,1.0,0.0,0.0,160,23.0,19512.0,Juventus
+,Marcelo Zalayeta,uy URU,FW,2,0,0.0,0.0,2003-2004,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Juventus,80,0.9,0.0,0.0,160,8.0,19502.0,Juventus
+,Davide Chiumiento,ch SUI,MF,1,0,0.0,0.0,2003-2004,/en/players/1ccdc87d/Davide-Chiumiento,1ccdc87d,Juventus,30,0.3,0.0,0.0,160,39.0,14109.0,Juventus
+,﻿Fabio Cannavaro,it ITA,DF,38,38,0.0,2.0,2004-2005,/en/players/51152527/Fabio-Cannavaro,51152527,Juventus,"3,334",37.0,2.0,0.0,160,9.0,52.0,Juventus
+,Lilian Thuram,fr FRA,DF,37,37,1.0,0.0,2004-2005,/en/players/643ca22c/Lilian-Thuram,643ca22c,Juventus,"3,330",37.0,5.0,0.0,160,4.0,1106.0,Juventus
+,Gianluigi Buffon,it ITA,GK,37,37,0.0,0.0,2004-2005,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"3,285",36.5,0.0,0.0,160,9.0,12811.0,Juventus
+,Gianluca Zambrotta,it ITA,DF,36,36,0.0,0.0,2004-2005,/en/players/94508225/Gianluca-Zambrotta,94508225,Juventus,"3,237",36.0,3.0,0.0,160,9.0,1105.0,Juventus
+,Mauro Camoranesi,it ITA,MF,36,34,12.0,4.0,2004-2005,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"3,049",33.9,6.0,0.0,160,9.0,15595.0,Juventus
+,Emerson,br BRA,MF,33,33,2.0,2.0,2004-2005,/en/players/67d57df1/Emerson,67d57df1,Juventus,"2,789",31.0,4.0,1.0,160,2.0,54.0,Juventus
+,Zlatan Ibrahimović,se SWE,FW,35,31,5.0,16.0,2004-2005,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Juventus,"2,764",30.7,3.0,0.0,160,41.0,1132.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,27,27,6.0,7.0,2004-2005,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,381",26.5,7.0,0.0,160,84.0,19495.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",30,27,4.0,14.0,2004-2005,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"1,954",21.7,2.0,0.0,160,9.0,19497.0,Juventus
+,Jonathan Zebina,fr FRA,DF,24,24,2.0,0.0,2004-2005,/en/players/5b48889f/Jonathan-Zebina,5b48889f,Juventus,"2,072",23.0,7.0,0.0,160,4.0,14034.0,Juventus
+,Manuele Blasi,it ITA,MF,27,18,1.0,0.0,2004-2005,/en/players/7aae335a/Manuele-Blasi,7aae335a,Juventus,"1,728",19.2,6.0,0.0,160,9.0,19513.0,Juventus
+,Stephen Appiah,gh GHA,MF,18,14,0.0,2.0,2004-2005,/en/players/c4fb13cc/Stephen-Appiah,c4fb13cc,Juventus,"1,313",14.6,4.0,0.0,160,17.0,19514.0,Juventus
+,David Trezeguet,fr FRA,FW,18,14,0.0,9.0,2004-2005,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"1,171",13.0,0.0,0.0,160,4.0,4977.0,Juventus
+,Gianluca Pessotto,it ITA,"DF,MF",19,13,0.0,0.0,2004-2005,/en/players/a4bf5d1f/Gianluca-Pessotto,4bf5d1f,Juventus,"1,152",12.8,1.0,0.0,160,9.0,19501.0,Juventus
+,Marcelo Zalayeta,uy URU,FW,28,10,5.0,6.0,2004-2005,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Juventus,"1,322",14.7,1.0,0.0,160,8.0,19502.0,Juventus
+,Alessio Tacchinardi,it ITA,MF,16,8,2.0,0.0,2004-2005,/en/players/b99799e5/Alessio-Tacchinardi,b99799e5,Juventus,750,8.3,2.0,0.0,160,9.0,2730.0,Juventus
+,Rubén Olivera,uy URU,MF,18,6,2.0,4.0,2004-2005,/en/players/74b94461/Ruben-Olivera,74b94461,Juventus,676,7.5,6.0,1.0,160,8.0,2147.0,Juventus
+,Alessandro Birindelli,it ITA,DF,12,5,0.0,0.0,2004-2005,/en/players/3c388958/Alessandro-Birindelli,3c388958,Juventus,482,5.4,1.0,0.0,160,9.0,19499.0,Juventus
+,Paolo Montero,uy URU,DF,5,3,0.0,0.0,2004-2005,/en/players/ca09be9a/Paolo-Montero,ca09be9a,Juventus,313,3.5,2.0,0.0,160,8.0,19498.0,Juventus
+,Olivier Kapo,fr FRA,"FW,MF",13,2,2.0,0.0,2004-2005,/en/players/992c2db8/Olivier-Kapo,992c2db8,Juventus,267,3.0,0.0,0.0,160,4.0,4125.0,Juventus
+,Antonio Chimenti,it ITA,GK,2,1,0.0,0.0,2004-2005,/en/players/96d5e916/Antonio-Chimenti,96d5e916,Juventus,135,1.5,0.0,0.0,160,9.0,19508.0,Juventus
+,Andrea Masiello,it ITA,DF,1,0,,0.0,2004-2005,/en/players/e0314d87/Andrea-Masiello,0314d87,Juventus,35,0.4,0.0,0.0,160,9.0,19515.0,Juventus
+,Adrian Mutu,ro ROU,"FW,MF",1,0,,0.0,2004-2005,/en/players/7af7fbd8/Adrian-Mutu,7af7fbd8,Juventus,34,0.4,0.0,0.0,160,51.0,6150.0,Juventus
+,Ciro Ferrara,it ITA,DF,4,0,0.0,0.0,2004-2005,/en/players/d31cea40/Ciro-Ferrara,d31cea40,Juventus,25,0.3,0.0,0.0,160,9.0,19496.0,Juventus
+,Igor Tudor,hr CRO,DF,2,0,0.0,0.0,2004-2005,/en/players/565d4832/Igor-Tudor,565d4832,Juventus,18,0.2,1.0,0.0,160,16.0,19503.0,Juventus
+,﻿Fabio Cannavaro,it ITA,DF,36,36,0.0,4.0,2005-2006,/en/players/51152527/Fabio-Cannavaro,51152527,Juventus,"3,201",35.6,7.0,1.0,160,9.0,52.0,Juventus
+,Emerson,br BRA,MF,34,33,2.0,2.0,2005-2006,/en/players/67d57df1/Emerson,67d57df1,Juventus,"2,984",33.2,3.0,0.0,160,2.0,54.0,Juventus
+,Gianluca Zambrotta,it ITA,DF,32,32,4.0,0.0,2005-2006,/en/players/94508225/Gianluca-Zambrotta,94508225,Juventus,"2,840",31.6,4.0,0.0,160,9.0,1105.0,Juventus
+,Patrick Vieira,fr FRA,MF,31,31,5.0,5.0,2005-2006,/en/players/f90f1086/Patrick-Vieira,f90f1086,Juventus,"2,769",30.8,10.0,0.0,160,4.0,5851.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,33,31,8.0,5.0,2005-2006,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,716",30.2,6.0,1.0,160,84.0,19495.0,Juventus
+,Zlatan Ibrahimović,se SWE,FW,35,29,6.0,7.0,2005-2006,/en/players/4cde5509/Zlatan-Ibrahimovic,4cde5509,Juventus,"2,402",26.7,4.0,0.0,160,41.0,1132.0,Juventus
+,David Trezeguet,fr FRA,FW,32,28,3.0,23.0,2005-2006,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"2,338",26.0,0.0,0.0,160,4.0,4977.0,Juventus
+,Lilian Thuram,fr FRA,DF,27,25,2.0,0.0,2005-2006,/en/players/643ca22c/Lilian-Thuram,643ca22c,Juventus,"2,233",24.8,4.0,1.0,160,4.0,1106.0,Juventus
+,Mauro Camoranesi,it ITA,MF,34,25,10.0,3.0,2005-2006,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"2,179",24.2,7.0,0.0,160,9.0,15595.0,Juventus
+,Adrian Mutu,ro ROU,"FW,MF",32,20,6.0,7.0,2005-2006,/en/players/7af7fbd8/Adrian-Mutu,7af7fbd8,Juventus,"1,723",19.1,3.0,0.0,160,51.0,6150.0,Juventus
+,Gianluigi Buffon,it ITA,GK,18,18,0.0,0.0,2005-2006,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"1,619",18.0,1.0,0.0,160,9.0,12811.0,Juventus
+,Christian Abbiati,it ITA,GK,19,18,0.0,0.0,2005-2006,/en/players/322421c2/Christian-Abbiati,322421c2,Juventus,"1,612",17.9,1.0,0.0,160,9.0,2176.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",33,17,3.0,11.0,2005-2006,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"1,723",19.1,0.0,0.0,160,9.0,19497.0,Juventus
+,Robert Kovač,hr CRO,DF,18,15,2.0,1.0,2005-2006,/en/players/cc19ca30/Robert-Kovac,cc19ca30,Juventus,"1,406",15.6,3.0,0.0,160,16.0,15419.0,Juventus
+,Giorgio Chiellini,it ITA,DF,17,15,1.0,0.0,2005-2006,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"1,369",15.2,5.0,0.0,160,9.0,19516.0,Juventus
+,Federico Balzaretti,it ITA,DF,20,13,0.0,0.0,2005-2006,/en/players/fbef4f9f/Federico-Balzaretti,fbef4f9f,Juventus,"1,313",14.6,0.0,0.0,160,9.0,19517.0,Juventus
+,Giuliano Giannichedda,it ITA,MF,15,9,1.0,0.0,2005-2006,/en/players/1bfa94c1/Giuliano-Giannichedda,1bfa94c1,Juventus,780,8.7,1.0,0.0,160,9.0,19518.0,Juventus
+,Jonathan Zebina,fr FRA,DF,10,7,0.0,0.0,2005-2006,/en/players/5b48889f/Jonathan-Zebina,5b48889f,Juventus,482,5.4,0.0,0.0,160,4.0,14034.0,Juventus
+,Manuele Blasi,it ITA,MF,13,6,0.0,0.0,2005-2006,/en/players/7aae335a/Manuele-Blasi,7aae335a,Juventus,667,7.4,3.0,0.0,160,9.0,19513.0,Juventus
+,Gianluca Pessotto,it ITA,"DF,MF",10,6,0.0,0.0,2005-2006,/en/players/a4bf5d1f/Gianluca-Pessotto,4bf5d1f,Juventus,599,6.7,1.0,0.0,160,9.0,19501.0,Juventus
+,Marcelo Zalayeta,uy URU,FW,16,2,0.0,1.0,2005-2006,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Juventus,368,4.1,0.0,0.0,160,8.0,19502.0,Juventus
+,﻿Gianluigi Buffon,it ITA,GK,37,37,0.0,0.0,2006-2007,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"3,253",36.1,0.0,1.0,160,9.0,12811.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,33,33,8.0,11.0,2006-2007,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,941",32.7,8.0,1.0,160,84.0,19495.0,Juventus
+,Federico Balzaretti,it ITA,DF,37,32,6.0,2.0,2006-2007,/en/players/fbef4f9f/Federico-Balzaretti,fbef4f9f,Juventus,"2,898",32.2,7.0,1.0,160,9.0,19517.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",35,32,10.0,20.0,2006-2007,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"2,803",31.1,4.0,0.0,160,9.0,19497.0,Juventus
+,Jean-Alain Boumsong,fr FRA,DF,33,31,0.0,2.0,2006-2007,/en/players/c2c31ca9/Jean-Alain-Boumsong,c2c31ca9,Juventus,"2,773",30.8,2.0,0.0,160,4.0,5996.0,Juventus
+,Alessandro Birindelli,it ITA,DF,37,29,1.0,1.0,2006-2007,/en/players/3c388958/Alessandro-Birindelli,3c388958,Juventus,"2,702",30.0,10.0,0.0,160,9.0,19499.0,Juventus
+,Giorgio Chiellini,it ITA,DF,32,29,1.0,3.0,2006-2007,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,585",28.7,5.0,1.0,160,9.0,19516.0,Juventus
+,David Trezeguet,fr FRA,FW,31,28,3.0,15.0,2006-2007,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"2,466",27.4,3.0,0.0,160,4.0,4977.0,Juventus
+,Mauro Camoranesi,it ITA,MF,33,27,8.0,4.0,2006-2007,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"2,250",25.0,6.0,0.0,160,9.0,15595.0,Juventus
+,Cristiano Zanetti,it ITA,MF,25,24,3.0,2.0,2006-2007,/en/players/21dd8591/Cristiano-Zanetti,21dd8591,Juventus,"2,063",22.9,10.0,0.0,160,9.0,19519.0,Juventus
+,Matteo Paro,it ITA,MF,28,22,3.0,1.0,2006-2007,/en/players/c8fd60cd/Matteo-Paro,c8fd60cd,Juventus,"2,068",23.0,3.0,0.0,160,9.0,19509.0,Juventus
+,Jonathan Zebina,fr FRA,DF,24,21,1.0,0.0,2006-2007,/en/players/5b48889f/Jonathan-Zebina,5b48889f,Juventus,"1,757",19.5,10.0,1.0,160,4.0,14034.0,Juventus
+,Giuliano Giannichedda,it ITA,MF,20,19,0.0,0.0,2006-2007,/en/players/1bfa94c1/Giuliano-Giannichedda,1bfa94c1,Juventus,"1,527",17.0,6.0,1.0,160,9.0,19518.0,Juventus
+,Claudio Marchisio,it ITA,MF,25,16,0.0,0.0,2006-2007,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"1,499",16.7,4.0,1.0,160,9.0,19520.0,Juventus
+,Robert Kovač,hr CRO,DF,17,15,0.0,0.0,2006-2007,/en/players/cc19ca30/Robert-Kovac,cc19ca30,Juventus,"1,312",14.6,2.0,0.0,160,16.0,15419.0,Juventus
+,Raffaele Palladino,it ITA,"FW,MF",25,14,5.0,8.0,2006-2007,/en/players/961a4174/Raffaele-Palladino,961a4174,Juventus,"1,304",14.5,1.0,0.0,160,9.0,19521.0,Juventus
+,Marco Marchionni,it ITA,MF,25,13,4.0,1.0,2006-2007,/en/players/ebe475fc/Marco-Marchionni,be475fc,Juventus,"1,178",13.1,0.0,0.0,160,9.0,19522.0,Juventus
+,Marcelo Zalayeta,uy URU,FW,16,12,1.0,4.0,2006-2007,/en/players/707e472c/Marcelo-Zalayeta,707e472c,Juventus,"1,082",12.0,4.0,0.0,160,8.0,19502.0,Juventus
+,Nicola Legrottaglie,it ITA,DF,10,7,0.0,0.0,2006-2007,/en/players/c3c63a36/Nicola-Legrottaglie,c3c63a36,Juventus,652,7.2,1.0,1.0,160,9.0,19510.0,Juventus
+,Valeri Bojinov,bg BUL,FW,18,6,0.0,5.0,2006-2007,/en/players/7c0d35bc/Valeri-Bojinov,7c0d35bc,Juventus,671,7.5,1.0,0.0,160,65.0,6985.0,Juventus
+,Antonio Mirante,it ITA,GK,7,5,0.0,0.0,2006-2007,/en/players/30223b33/Antonio-Mirante,30223b33,Juventus,527,5.9,0.0,0.0,160,9.0,19523.0,Juventus
+,Felice Piccolo,it ITA,DF,7,5,0.0,0.0,2006-2007,/en/players/75de4ad7/Felice-Piccolo,75de4ad7,Juventus,395,4.4,0.0,0.0,160,9.0,19524.0,Juventus
+,Dario Venitucci,it ITA,MF,5,3,0.0,0.0,2006-2007,/en/players/39d8ba01/Dario-Venitucci,39d8ba01,Juventus,286,3.2,0.0,0.0,160,9.0,22975.0,Juventus
+,Paolo De Ceglie,it ITA,DF,7,1,0.0,1.0,2006-2007,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,166,1.8,0.0,0.0,160,9.0,11603.0,Juventus
+,Sebastian Giovinco,it ITA,"FW,MF",3,1,2.0,0.0,2006-2007,/en/players/2b7c18ae/Sebastian-Giovinco,2b7c18ae,Juventus,125,1.4,0.0,0.0,160,9.0,19525.0,Juventus
+,Raffaele Bianco,it ITA,MF,4,0,0.0,1.0,2006-2007,/en/players/147c0f9e/Raffaele-Bianco,147c0f9e,Juventus,91,1.0,0.0,0.0,160,9.0,19526.0,Juventus
+,Davide Lanzafame,it ITA,"FW,MF",1,0,0.0,0.0,2006-2007,/en/players/7de27356/Davide-Lanzafame,7de27356,Juventus,13,0.1,0.0,0.0,160,9.0,19527.0,Juventus
+,﻿David Trezeguet,fr FRA,FW,36,35,5.0,20.0,2007-2008,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"3,081",34.2,3.0,0.0,160,4.0,4977.0,Juventus
+,Gianluigi Buffon,it ITA,GK,34,34,0.0,0.0,2007-2008,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"3,050",33.9,1.0,0.0,160,9.0,12811.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",37,32,5.0,21.0,2007-2008,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"2,743",30.5,2.0,0.0,160,9.0,19497.0,Juventus
+,Nicola Legrottaglie,it ITA,DF,33,31,0.0,3.0,2007-2008,/en/players/c3c63a36/Nicola-Legrottaglie,c3c63a36,Juventus,"2,805",31.2,10.0,0.0,160,9.0,19510.0,Juventus
+,Giorgio Chiellini,it ITA,DF,30,30,1.0,3.0,2007-2008,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,690",29.9,9.0,1.0,160,9.0,19516.0,Juventus
+,Cristian Molinaro,it ITA,"DF,MF",31,30,0.0,0.0,2007-2008,/en/players/1c8c5aed/Cristian-Molinaro,1c8c5aed,Juventus,"2,668",29.6,4.0,0.0,160,9.0,15589.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,31,28,4.0,2.0,2007-2008,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,355",26.2,6.0,2.0,160,84.0,19495.0,Juventus
+,Cristiano Zanetti,it ITA,MF,26,26,7.0,0.0,2007-2008,/en/players/21dd8591/Cristiano-Zanetti,21dd8591,Juventus,"2,231",24.8,8.0,1.0,160,9.0,19519.0,Juventus
+,Antonio Nocerino,it ITA,MF,32,23,2.0,0.0,2007-2008,/en/players/07cf67f3/Antonio-Nocerino,07cf67f3,Juventus,"2,107",23.4,14.0,0.0,160,9.0,8476.0,Juventus
+,Zdeněk Grygera,cz CZE,DF,24,22,1.0,1.0,2007-2008,/en/players/a00c9b66/Zdenek-Grygera,00c9b66,Juventus,"1,941",21.6,5.0,0.0,160,84.0,7821.0,Juventus
+,Hasan Salihamidžić,ba BIH,"DF,MF",26,21,2.0,4.0,2007-2008,/en/players/f1366d68/Hasan-Salihamidzic,f1366d68,Juventus,"1,851",20.6,3.0,0.0,160,49.0,15423.0,Juventus
+,Mauro Camoranesi,it ITA,MF,22,18,5.0,5.0,2007-2008,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"1,592",17.7,7.0,0.0,160,9.0,15595.0,Juventus
+,Jonathan Zebina,fr FRA,DF,16,14,0.0,0.0,2007-2008,/en/players/5b48889f/Jonathan-Zebina,5b48889f,Juventus,"1,237",13.7,5.0,1.0,160,4.0,14034.0,Juventus
+,Raffaele Palladino,it ITA,"FW,MF",26,14,1.0,2.0,2007-2008,/en/players/961a4174/Raffaele-Palladino,961a4174,Juventus,"1,229",13.7,3.0,0.0,160,9.0,19521.0,Juventus
+,Mohamed Sissoko,ml MLI,MF,15,12,0.0,1.0,2007-2008,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Juventus,"1,052",11.7,3.0,1.0,160,12.0,886.0,Juventus
+,Tiago Mendes,pt POR,MF,20,10,3.0,0.0,2007-2008,/en/players/5e0f7b89/Tiago-Mendes,5e0f7b89,Juventus,997,11.1,3.0,0.0,160,3.0,2185.0,Juventus
+,Vincenzo Iaquinta,it ITA,FW,24,9,3.0,8.0,2007-2008,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Juventus,"1,054",11.7,4.0,0.0,160,9.0,19528.0,Juventus
+,Domenico Criscito,it ITA,DF,8,8,0.0,0.0,2007-2008,/en/players/35dd6d80/Domenico-Criscito,35dd6d80,Juventus,633,7.0,3.0,0.0,160,9.0,19529.0,Juventus
+,Sergio Almirón,ar ARG,MF,9,5,0.0,0.0,2007-2008,/en/players/ce05fadf/Sergio-Almiron,ce05fadf,Juventus,487,5.4,0.0,0.0,160,5.0,11372.0,Juventus
+,Alessandro Birindelli,it ITA,DF,7,4,0.0,0.0,2007-2008,/en/players/3c388958/Alessandro-Birindelli,3c388958,Juventus,422,4.7,0.0,0.0,160,9.0,19499.0,Juventus
+,Emanuele Belardi,it ITA,GK,5,4,0.0,0.0,2007-2008,/en/players/788d51fa/Emanuele-Belardi,788d51fa,Juventus,370,4.1,0.0,0.0,160,9.0,19530.0,Juventus
+,Jorge Andrade,pt POR,DF,4,4,0.0,0.0,2007-2008,/en/players/8704272f/Jorge-Andrade,8704272f,Juventus,324,3.6,0.0,0.0,160,3.0,379.0,Juventus
+,Guglielmo Stendardo,it ITA,DF,5,3,0.0,0.0,2007-2008,/en/players/333a9ae7/Guglielmo-Stendardo,333a9ae7,Juventus,342,3.8,1.0,0.0,160,9.0,19531.0,Juventus
+,Marco Marchionni,it ITA,MF,11,1,0.0,1.0,2007-2008,/en/players/ebe475fc/Marco-Marchionni,be475fc,Juventus,299,3.3,0.0,0.0,160,9.0,19522.0,Juventus
+,Rubén Olivera,uy URU,MF,1,0,0.0,0.0,2007-2008,/en/players/74b94461/Ruben-Olivera,74b94461,Juventus,13,0.1,0.0,0.0,160,8.0,2147.0,Juventus
+,Luca Castiglia,it ITA,MF,2,0,0.0,0.0,2007-2008,/en/players/b5674e01/Luca-Castiglia,b5674e01,Juventus,2,0.0,0.0,0.0,160,9.0,21300.0,Juventus
+,Cristian Pasquato,it ITA,"FW,MF",1,0,0.0,0.0,2007-2008,/en/players/d518454e/Cristian-Pasquato,d518454e,Juventus,1,0.0,0.0,0.0,160,9.0,19532.0,Juventus
+,﻿Cristian Molinaro,it ITA,"DF,MF",29,29,0.0,0.0,2008-2009,/en/players/1c8c5aed/Cristian-Molinaro,1c8c5aed,Juventus,"2,559",28.4,6.0,0.0,160,9.0,15589.0,Juventus
+,Pavel Nedvěd,cz CZE,MF,32,28,6.0,7.0,2008-2009,/en/players/ab059f29/Pavel-Nedved,b059f29,Juventus,"2,505",27.8,4.0,0.0,160,84.0,19495.0,Juventus
+,Zdeněk Grygera,cz CZE,DF,31,28,2.0,2.0,2008-2009,/en/players/a00c9b66/Zdenek-Grygera,00c9b66,Juventus,"2,438",27.1,7.0,0.0,160,84.0,7821.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",31,28,9.0,13.0,2008-2009,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"2,361",26.2,2.0,0.0,160,9.0,19497.0,Juventus
+,Giorgio Chiellini,it ITA,DF,27,27,0.0,4.0,2008-2009,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,410",26.8,5.0,0.0,160,9.0,19516.0,Juventus
+,Amauri,it ITA,FW,32,27,3.0,12.0,2008-2009,/en/players/b6d4bf9d/Amauri,b6d4bf9d,Juventus,"2,378",26.4,3.0,0.0,160,9.0,19533.0,Juventus
+,Nicola Legrottaglie,it ITA,DF,26,26,0.0,1.0,2008-2009,/en/players/c3c63a36/Nicola-Legrottaglie,c3c63a36,Juventus,"2,305",25.6,9.0,0.0,160,9.0,19510.0,Juventus
+,Olof Mellberg,se SWE,"DF,MF",27,23,0.0,2.0,2008-2009,/en/players/1c95e93d/Olof-Mellberg,1c95e93d,Juventus,"2,099",23.3,4.0,0.0,160,41.0,2764.0,Juventus
+,Gianluigi Buffon,it ITA,GK,23,23,0.0,0.0,2008-2009,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,025",22.5,0.0,0.0,160,9.0,12811.0,Juventus
+,Claudio Marchisio,it ITA,MF,24,20,2.0,3.0,2008-2009,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"1,867",20.7,5.0,0.0,160,9.0,19520.0,Juventus
+,Mohamed Sissoko,ml MLI,MF,21,20,1.0,2.0,2008-2009,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Juventus,"1,661",18.5,5.0,0.0,160,12.0,886.0,Juventus
+,Marco Marchionni,it ITA,MF,27,19,4.0,1.0,2008-2009,/en/players/ebe475fc/Marco-Marchionni,be475fc,Juventus,"1,760",19.6,0.0,0.0,160,9.0,19522.0,Juventus
+,Vincenzo Iaquinta,it ITA,FW,28,18,4.0,12.0,2008-2009,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Juventus,"1,638",18.2,1.0,1.0,160,9.0,19528.0,Juventus
+,Alex Manninger,at AUT,GK,16,15,0.0,0.0,2008-2009,/en/players/eb55b1bc/Alex-Manninger,b55b1bc,Juventus,"1,395",15.5,0.0,0.0,160,24.0,6364.0,Juventus
+,Christian Poulsen,dk DEN,MF,23,14,2.0,1.0,2008-2009,/en/players/4b83b362/Christian-Poulsen,4b83b362,Juventus,"1,358",15.1,3.0,0.0,160,7.0,1823.0,Juventus
+,Mauro Camoranesi,it ITA,MF,19,14,2.0,1.0,2008-2009,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"1,196",13.3,4.0,1.0,160,9.0,15595.0,Juventus
+,Tiago Mendes,pt POR,MF,15,12,0.0,0.0,2008-2009,/en/players/5e0f7b89/Tiago-Mendes,5e0f7b89,Juventus,934,10.4,3.0,1.0,160,3.0,2185.0,Juventus
+,Paolo De Ceglie,it ITA,DF,19,11,1.0,0.0,2008-2009,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,"1,078",12.0,2.0,0.0,160,9.0,11603.0,Juventus
+,Sebastian Giovinco,it ITA,"FW,MF",19,9,4.0,2.0,2008-2009,/en/players/2b7c18ae/Sebastian-Giovinco,2b7c18ae,Juventus,897,10.0,2.0,0.0,160,9.0,19525.0,Juventus
+,Cristiano Zanetti,it ITA,MF,12,9,0.0,2.0,2008-2009,/en/players/21dd8591/Cristiano-Zanetti,21dd8591,Juventus,677,7.5,2.0,0.0,160,9.0,19519.0,Juventus
+,Hasan Salihamidžić,ba BIH,"DF,MF",11,7,1.0,1.0,2008-2009,/en/players/f1366d68/Hasan-Salihamidzic,f1366d68,Juventus,690,7.7,1.0,0.0,160,49.0,15423.0,Juventus
+,Jonathan Zebina,fr FRA,DF,8,4,0.0,0.0,2008-2009,/en/players/5b48889f/Jonathan-Zebina,5b48889f,Juventus,410,4.6,2.0,0.0,160,4.0,14034.0,Juventus
+,Dario Knežević,hr CRO,DF,3,3,0.0,0.0,2008-2009,/en/players/9f63ca80/Dario-Knezevic,9f63ca80,Juventus,270,3.0,0.0,0.0,160,16.0,19534.0,Juventus
+,David Trezeguet,fr FRA,FW,8,2,0.0,1.0,2008-2009,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,285,3.2,0.0,0.0,160,4.0,4977.0,Juventus
+,Lorenzo Ariaudo,it ITA,DF,3,2,0.0,0.0,2008-2009,/en/players/68b78c2a/Lorenzo-Ariaudo,68b78c2a,Juventus,212,2.4,0.0,0.0,160,9.0,19535.0,Juventus
+,Albin Ekdal,se SWE,MF,3,0,0.0,0.0,2008-2009,/en/players/f503ea63/Albin-Ekdal,f503ea63,Juventus,92,1.0,1.0,0.0,160,41.0,15903.0,Juventus
+,Ayub Daud,so SOM,"FW,MF",1,0,0.0,0.0,2008-2009,/en/players/857ff125/Ayub-Daud,857ff125,Juventus,2,0.0,0.0,0.0,160,168.0,19536.0,Juventus
+,Ciro Immobile,it ITA,FW,1,0,0.0,0.0,2008-2009,/en/players/4431aed2/Ciro-Immobile,4431aed2,Juventus,1,0.0,0.0,0.0,160,9.0,1900.0,Juventus
+,﻿Giorgio Chiellini,it ITA,DF,32,32,2.0,3.0,2009-2010,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,880",32.0,3.0,0.0,160,9.0,19516.0,Juventus
+,Diego,br BRA,MF,33,31,6.0,5.0,2009-2010,/en/players/255a478a/Diego,255a478a,Juventus,"2,539",28.2,3.0,0.0,160,2.0,2196.0,Juventus
+,Felipe Melo,br BRA,"DF,MF",29,28,0.0,4.0,2009-2010,/en/players/b14d84d3/Felipe-Melo,b14d84d3,Juventus,"2,402",26.7,11.0,2.0,160,2.0,1583.0,Juventus
+,Fabio Cannavaro,it ITA,DF,27,27,0.0,0.0,2009-2010,/en/players/51152527/Fabio-Cannavaro,51152527,Juventus,"2,390",26.6,7.0,0.0,160,9.0,52.0,Juventus
+,Gianluigi Buffon,it ITA,GK,27,27,0.0,0.0,2009-2010,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,378",26.4,0.0,1.0,160,9.0,12811.0,Juventus
+,Claudio Marchisio,it ITA,MF,28,27,1.0,3.0,2009-2010,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"2,238",24.9,7.0,0.0,160,9.0,19520.0,Juventus
+,Amauri,it ITA,FW,30,24,1.0,5.0,2009-2010,/en/players/b6d4bf9d/Amauri,b6d4bf9d,Juventus,"2,228",24.8,5.0,1.0,160,9.0,19533.0,Juventus
+,Fabio Grosso,it ITA,"DF,MF",26,22,1.0,2.0,2009-2010,/en/players/db77a624/Fabio-Grosso,db77a624,Juventus,"1,991",22.1,6.0,0.0,160,9.0,11231.0,Juventus
+,Christian Poulsen,dk DEN,MF,25,19,0.0,0.0,2009-2010,/en/players/4b83b362/Christian-Poulsen,4b83b362,Juventus,"1,715",19.1,5.0,0.0,160,7.0,1823.0,Juventus
+,Nicola Legrottaglie,it ITA,DF,19,18,0.0,1.0,2009-2010,/en/players/c3c63a36/Nicola-Legrottaglie,c3c63a36,Juventus,"1,599",17.8,4.0,0.0,160,9.0,19510.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",23,18,3.0,9.0,2009-2010,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"1,532",17.0,3.0,0.0,160,9.0,19497.0,Juventus
+,Zdeněk Grygera,cz CZE,DF,19,15,0.0,0.0,2009-2010,/en/players/a00c9b66/Zdenek-Grygera,00c9b66,Juventus,"1,288",14.3,4.0,0.0,160,84.0,7821.0,Juventus
+,Paolo De Ceglie,it ITA,DF,25,14,0.0,0.0,2009-2010,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,"1,403",15.6,2.0,0.0,160,9.0,11603.0,Juventus
+,Mauro Camoranesi,it ITA,MF,24,14,3.0,3.0,2009-2010,/en/players/35163a80/Mauro-Camoranesi,35163a80,Juventus,"1,263",14.0,5.0,0.0,160,9.0,15595.0,Juventus
+,Mohamed Sissoko,ml MLI,MF,17,14,1.0,0.0,2009-2010,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Juventus,"1,203",13.4,9.0,1.0,160,12.0,886.0,Juventus
+,Jonathan Zebina,fr FRA,DF,16,13,0.0,0.0,2009-2010,/en/players/5b48889f/Jonathan-Zebina,5b48889f,Juventus,"1,205",13.4,7.0,0.0,160,4.0,14034.0,Juventus
+,David Trezeguet,fr FRA,FW,19,13,1.0,7.0,2009-2010,/en/players/80183cb2/David-Trezeguet,80183cb2,Juventus,"1,165",12.9,1.0,0.0,160,4.0,4977.0,Juventus
+,Vincenzo Iaquinta,it ITA,FW,15,12,2.0,6.0,2009-2010,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Juventus,"1,090",12.1,2.0,0.0,160,9.0,19528.0,Juventus
+,Martín Cáceres,uy URU,DF,15,11,1.0,1.0,2009-2010,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,"1,073",11.9,3.0,1.0,160,8.0,1123.0,Juventus
+,Alex Manninger,at AUT,GK,11,9,0.0,0.0,2009-2010,/en/players/eb55b1bc/Alex-Manninger,b55b1bc,Juventus,862,9.6,0.0,0.0,160,24.0,6364.0,Juventus
+,Antonio Candreva,it ITA,"DF,FW",16,8,2.0,2.0,2009-2010,/en/players/356c9002/Antonio-Candreva,356c9002,Juventus,885,9.8,2.0,0.0,160,9.0,19537.0,Juventus
+,Hasan Salihamidžić,ba BIH,"DF,MF",14,6,0.0,2.0,2009-2010,/en/players/f1366d68/Hasan-Salihamidzic,f1366d68,Juventus,589,6.5,4.0,0.0,160,49.0,15423.0,Juventus
+,Sebastian Giovinco,it ITA,"FW,MF",15,5,0.0,1.0,2009-2010,/en/players/2b7c18ae/Sebastian-Giovinco,2b7c18ae,Juventus,593,6.6,1.0,0.0,160,9.0,19525.0,Juventus
+,Tiago Mendes,pt POR,MF,7,4,0.0,0.0,2009-2010,/en/players/5e0f7b89/Tiago-Mendes,5e0f7b89,Juventus,393,4.4,3.0,0.0,160,3.0,2185.0,Juventus
+,Cristian Molinaro,it ITA,"DF,MF",5,4,0.0,0.0,2009-2010,/en/players/1c8c5aed/Cristian-Molinaro,1c8c5aed,Juventus,290,3.2,0.0,0.0,160,9.0,15589.0,Juventus
+,Antonio Chimenti,it ITA,GK,2,2,0.0,0.0,2009-2010,/en/players/96d5e916/Antonio-Chimenti,96d5e916,Juventus,180,2.0,0.0,0.0,160,9.0,19508.0,Juventus
+,Michele Paolucci,it ITA,"FW,MF",4,1,0.0,0.0,2009-2010,/en/players/51ea3db8/Michele-Paolucci,51ea3db8,Juventus,104,1.2,0.0,0.0,160,9.0,19538.0,Juventus
+,Luca Marrone,it ITA,"DF,MF",2,0,0.0,0.0,2009-2010,/en/players/ea468ea8/Luca-Marrone,468ea8,Juventus,35,0.4,1.0,0.0,160,9.0,19539.0,Juventus
+,Ciro Immobile,it ITA,FW,2,0,0.0,0.0,2009-2010,/en/players/4431aed2/Ciro-Immobile,4431aed2,Juventus,10,0.1,0.0,0.0,160,9.0,1900.0,Juventus
+,Manuel Giandonato,it ITA,MF,1,0,0.0,0.0,2009-2010,/en/players/63f54647/Manuel-Giandonato,63f54647,Juventus,8,0.1,0.0,0.0,160,9.0,19540.0,Juventus
+,﻿Miloš Krasić,rs SRB,MF,33,33,8.0,7.0,2010-2011,/en/players/21dcdd28/Milos-Krasic,21dcdd28,Juventus,"2,604",28.9,4.0,0.0,160,28.0,12916.0,Juventus
+,Leonardo Bonucci,it ITA,DF,34,32,0.0,2.0,2010-2011,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,885",32.1,7.0,1.0,160,9.0,19541.0,Juventus
+,Giorgio Chiellini,it ITA,DF,32,32,1.0,2.0,2010-2011,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,880",32.0,3.0,0.0,160,9.0,19516.0,Juventus
+,Claudio Marchisio,it ITA,MF,32,32,4.0,4.0,2010-2011,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"2,800",31.1,9.0,0.0,160,9.0,19520.0,Juventus
+,Alberto Aquilani,it ITA,MF,33,31,5.0,2.0,2010-2011,/en/players/ad340e17/Alberto-Aquilani,d340e17,Juventus,"2,657",29.5,3.0,0.0,160,9.0,5452.0,Juventus
+,Felipe Melo,br BRA,"DF,MF",29,28,0.0,1.0,2010-2011,/en/players/b14d84d3/Felipe-Melo,b14d84d3,Juventus,"2,344",26.0,6.0,1.0,160,2.0,1583.0,Juventus
+,Marco Storari,it ITA,GK,23,22,0.0,0.0,2010-2011,/en/players/fb5eb6e0/Marco-Storari,fb5eb6e0,Juventus,"2,058",22.9,2.0,0.0,160,9.0,4131.0,Juventus
+,Simone Pepe,it ITA,"FW,MF",30,22,1.0,5.0,2010-2011,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Juventus,"2,006",22.3,9.0,0.0,160,9.0,19542.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",33,19,3.0,8.0,2010-2011,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,"1,823",20.3,0.0,0.0,160,9.0,19497.0,Juventus
+,Marco Motta,it ITA,DF,22,19,0.0,0.0,2010-2011,/en/players/1c65a088/Marco-Motta,1c65a088,Juventus,"1,510",16.8,9.0,1.0,160,9.0,4639.0,Juventus
+,Fabio Grosso,it ITA,"DF,MF",19,17,2.0,0.0,2010-2011,/en/players/db77a624/Fabio-Grosso,db77a624,Juventus,"1,597",17.7,6.0,0.0,160,9.0,11231.0,Juventus
+,Fabio Quagliarella,it ITA,FW,17,17,2.0,9.0,2010-2011,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Juventus,"1,305",14.5,0.0,0.0,160,9.0,19543.0,Juventus
+,Gianluigi Buffon,it ITA,GK,16,16,0.0,0.0,2010-2011,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"1,362",15.1,1.0,1.0,160,9.0,12811.0,Juventus
+,Alessandro Matri,it ITA,FW,16,15,1.0,9.0,2010-2011,/en/players/58d97e77/Alessandro-Matri,58d97e77,Juventus,"1,248",13.9,0.0,0.0,160,9.0,19544.0,Juventus
+,Andrea Barzagli,it ITA,DF,15,14,0.0,0.0,2010-2011,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"1,284",14.3,1.0,0.0,160,9.0,16424.0,Juventus
+,Frederik Sørensen,dk DEN,DF,17,12,1.0,0.0,2010-2011,/en/players/68635c10/Frederik-Sorensen,68635c10,Juventus,"1,139",12.7,2.0,0.0,160,7.0,18236.0,Juventus
+,Zdeněk Grygera,cz CZE,DF,13,9,0.0,0.0,2010-2011,/en/players/a00c9b66/Zdenek-Grygera,00c9b66,Juventus,907,10.1,1.0,0.0,160,84.0,7821.0,Juventus
+,Vincenzo Iaquinta,it ITA,FW,19,8,3.0,4.0,2010-2011,/en/players/69960e0c/Vincenzo-Iaquinta,69960e0c,Juventus,964,10.7,1.0,0.0,160,9.0,19528.0,Juventus
+,Armand Traoré,sn SEN,"DF,MF",10,7,0.0,0.0,2010-2011,/en/players/021ea92d/Armand-Traore,021ea92d,Juventus,537,6.0,1.0,0.0,160,34.0,5886.0,Juventus
+,Jorge Martínez,uy URU,"FW,MF",14,6,0.0,0.0,2010-2011,/en/players/7e34f6e2/Jorge-Martinez,7e34f6e2,Juventus,568,6.3,1.0,0.0,160,8.0,19545.0,Juventus
+,Paolo De Ceglie,it ITA,DF,7,6,0.0,0.0,2010-2011,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,460,5.1,0.0,0.0,160,9.0,11603.0,Juventus
+,Luca Toni,it ITA,FW,14,5,2.0,2.0,2010-2011,/en/players/dd74033b/Luca-Toni,dd74033b,Juventus,533,5.9,0.0,0.0,160,9.0,15446.0,Juventus
+,Amauri,it ITA,FW,9,5,0.0,0.0,2010-2011,/en/players/b6d4bf9d/Amauri,b6d4bf9d,Juventus,492,5.5,0.0,0.0,160,9.0,19533.0,Juventus
+,Mohamed Sissoko,ml MLI,MF,18,4,1.0,0.0,2010-2011,/en/players/2c1a819e/Mohamed-Sissoko,2c1a819e,Juventus,639,7.1,4.0,0.0,160,12.0,886.0,Juventus
+,Nicola Legrottaglie,it ITA,DF,5,2,0.0,1.0,2010-2011,/en/players/c3c63a36/Nicola-Legrottaglie,c3c63a36,Juventus,214,2.4,0.0,0.0,160,9.0,19510.0,Juventus
+,Manuel Giandonato,it ITA,MF,2,2,0.0,0.0,2010-2011,/en/players/63f54647/Manuel-Giandonato,63f54647,Juventus,104,1.2,0.0,1.0,160,9.0,19540.0,Juventus
+,Hasan Salihamidžić,ba BIH,"DF,MF",10,1,1.0,0.0,2010-2011,/en/players/f1366d68/Hasan-Salihamidzic,f1366d68,Juventus,225,2.5,2.0,0.0,160,49.0,15423.0,Juventus
+,Leandro Rinaudo,it ITA,DF,1,1,0.0,0.0,2010-2011,/en/players/26536bf4/Leandro-Rinaudo,26536bf4,Juventus,74,0.8,1.0,0.0,160,9.0,19546.0,Juventus
+,Niccolò Giannetti,it ITA,FW,1,1,0.0,0.0,2010-2011,/en/players/d9e750e5/Niccolo-Giannetti,d9e750e5,Juventus,57,0.6,0.0,0.0,160,9.0,19547.0,Juventus
+,Davide Lanzafame,it ITA,"FW,MF",3,0,0.0,0.0,2010-2011,/en/players/7de27356/Davide-Lanzafame,7de27356,Juventus,57,0.6,0.0,0.0,160,9.0,19527.0,Juventus
+,Filippo Boniperti,it ITA,MF,1,0,0.0,0.0,2010-2011,/en/players/104f41dc/Filippo-Boniperti,104f41dc,Juventus,45,0.5,0.0,0.0,160,9.0,20099.0,Juventus
+,Alberto Libertazzi,it ITA,FW,1,0,0.0,0.0,2010-2011,/en/players/53c8d207/Alberto-Libertazzi,53c8d207,Juventus,2,0.0,0.0,0.0,160,9.0,19548.0,Juventus
+,﻿Andrea Pirlo,it ITA,MF,37,37,12.0,3.0,2011-2012,/en/players/71c5f16f/Andrea-Pirlo,71c5f16f,Juventus,"3,315",36.8,5.0,0.0,160,9.0,19549.0,Juventus
+,Gianluigi Buffon,it ITA,GK,35,35,0.0,0.0,2011-2012,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"3,150",35.0,0.0,0.0,160,9.0,12811.0,Juventus
+,Claudio Marchisio,it ITA,MF,36,35,4.0,9.0,2011-2012,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"3,040",33.8,7.0,0.0,160,9.0,19520.0,Juventus
+,Giorgio Chiellini,it ITA,DF,34,34,1.0,2.0,2011-2012,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"3,023",33.6,7.0,0.0,160,9.0,19516.0,Juventus
+,Andrea Barzagli,it ITA,DF,35,34,0.0,1.0,2011-2012,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"3,013",33.5,3.0,0.0,160,9.0,16424.0,Juventus
+,Stephan Lichtsteiner,ch SUI,"DF,MF",35,34,1.0,2.0,2011-2012,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"2,957",32.9,6.0,0.0,160,39.0,5936.0,Juventus
+,Arturo Vidal,cl CHI,MF,33,30,4.0,7.0,2011-2012,/en/players/67cdbc0e/Arturo-Vidal,67cdbc0e,Juventus,"2,632",29.2,12.0,1.0,160,31.0,1174.0,Juventus
+,Mirko Vučinić,me MNE,FW,32,29,8.0,9.0,2011-2012,/en/players/b04b9530/Mirko-Vucinic,b04b9530,Juventus,"2,292",25.5,3.0,1.0,160,33.0,19550.0,Juventus
+,Leonardo Bonucci,it ITA,DF,32,28,0.0,2.0,2011-2012,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,641",29.3,6.0,1.0,160,9.0,19541.0,Juventus
+,Simone Pepe,it ITA,"FW,MF",31,25,3.0,6.0,2011-2012,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Juventus,"2,197",24.4,6.0,0.0,160,9.0,19542.0,Juventus
+,Alessandro Matri,it ITA,FW,31,23,4.0,10.0,2011-2012,/en/players/58d97e77/Alessandro-Matri,58d97e77,Juventus,"1,913",21.3,4.0,0.0,160,9.0,19544.0,Juventus
+,Paolo De Ceglie,it ITA,DF,21,16,2.0,1.0,2011-2012,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,"1,351",15.0,3.0,1.0,160,9.0,11603.0,Juventus
+,Emanuele Giaccherini,it ITA,"FW,MF",23,9,2.0,1.0,2011-2012,/en/players/1c50f354/Emanuele-Giaccherini,1c50f354,Juventus,"1,209",13.4,2.0,0.0,160,9.0,8716.0,Juventus
+,Fabio Quagliarella,it ITA,FW,23,9,0.0,4.0,2011-2012,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Juventus,888,9.9,2.0,0.0,160,9.0,19543.0,Juventus
+,Marcelo Estigarribia,py PAR,"DF,MF",14,9,0.0,1.0,2011-2012,/en/players/188a2362/Marcelo-Estigarribia,188a2362,Juventus,718,8.0,0.0,0.0,160,43.0,14124.0,Juventus
+,Martín Cáceres,uy URU,DF,11,6,0.0,1.0,2011-2012,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,715,7.9,0.0,0.0,160,8.0,1123.0,Juventus
+,Marco Borriello,it ITA,FW,13,6,1.0,2.0,2011-2012,/en/players/a889ffc7/Marco-Borriello,889ffc7,Juventus,589,6.5,1.0,0.0,160,9.0,8477.0,Juventus
+,Alessandro Del Piero,it ITA,"FW,MF",23,4,2.0,3.0,2011-2012,/en/players/80bc263c/Alessandro-Del-Piero,80bc263c,Juventus,509,5.7,0.0,0.0,160,9.0,19497.0,Juventus
+,Miloš Krasić,rs SRB,MF,7,4,0.0,1.0,2011-2012,/en/players/21dcdd28/Milos-Krasic,21dcdd28,Juventus,303,3.4,0.0,0.0,160,28.0,12916.0,Juventus
+,Simone Padoin,it ITA,"DF,MF",6,3,0.0,1.0,2011-2012,/en/players/5eb72339/Simone-Padoin,5eb72339,Juventus,302,3.4,0.0,0.0,160,9.0,19551.0,Juventus
+,Marco Storari,it ITA,GK,3,3,0.0,0.0,2011-2012,/en/players/fb5eb6e0/Marco-Storari,fb5eb6e0,Juventus,270,3.0,0.0,0.0,160,9.0,4131.0,Juventus
+,Fabio Grosso,it ITA,"DF,MF",2,2,0.0,0.0,2011-2012,/en/players/db77a624/Fabio-Grosso,db77a624,Juventus,180,2.0,0.0,0.0,160,9.0,11231.0,Juventus
+,Michele Pazienza,it ITA,MF,8,1,0.0,0.0,2011-2012,/en/players/9f5d69e7/Michele-Pazienza,9f5d69e7,Juventus,150,1.7,0.0,0.0,160,9.0,19552.0,Juventus
+,Luca Marrone,it ITA,"DF,MF",3,1,1.0,1.0,2011-2012,/en/players/ea468ea8/Luca-Marrone,468ea8,Juventus,116,1.3,0.0,0.0,160,9.0,19539.0,Juventus
+,Eljero Elia,nl NED,"FW,MF",4,1,0.0,0.0,2011-2012,/en/players/05cb19c5/Eljero-Elia,05cb19c5,Juventus,95,1.1,0.0,0.0,160,11.0,6880.0,Juventus
+,﻿Andrea Barzagli,it ITA,DF,34,34,1.0,0.0,2012-2013,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"2,955",32.8,5.0,0.0,160,9.0,16424.0,Juventus
+,Leonardo Bonucci,it ITA,DF,33,33,0.0,0.0,2012-2013,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,960",32.9,10.0,0.0,160,9.0,19541.0,Juventus
+,Gianluigi Buffon,it ITA,GK,32,32,0.0,0.0,2012-2013,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,880",32.0,0.0,0.0,160,9.0,12811.0,Juventus
+,Andrea Pirlo,it ITA,MF,32,32,7.0,5.0,2012-2013,/en/players/71c5f16f/Andrea-Pirlo,71c5f16f,Juventus,"2,857",31.7,8.0,0.0,160,9.0,19549.0,Juventus
+,Arturo Vidal,cl CHI,MF,31,29,7.0,10.0,2012-2013,/en/players/67cdbc0e/Arturo-Vidal,67cdbc0e,Juventus,"2,584",28.7,11.0,0.0,160,31.0,1174.0,Juventus
+,Claudio Marchisio,it ITA,MF,29,28,2.0,6.0,2012-2013,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"2,470",27.4,4.0,0.0,160,9.0,19520.0,Juventus
+,Stephan Lichtsteiner,ch SUI,"DF,MF",28,25,2.0,4.0,2012-2013,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"2,064",22.9,6.0,0.0,160,39.0,5936.0,Juventus
+,Mirko Vučinić,me MNE,FW,31,24,8.0,10.0,2012-2013,/en/players/b04b9530/Mirko-Vucinic,b04b9530,Juventus,"2,066",23.0,5.0,0.0,160,33.0,19550.0,Juventus
+,Giorgio Chiellini,it ITA,DF,24,23,2.0,1.0,2012-2013,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,038",22.6,5.0,0.0,160,9.0,19516.0,Juventus
+,Sebastian Giovinco,it ITA,"FW,MF",31,23,6.0,7.0,2012-2013,/en/players/2b7c18ae/Sebastian-Giovinco,2b7c18ae,Juventus,"1,953",21.7,4.0,0.0,160,9.0,19525.0,Juventus
+,Kwadwo Asamoah,gh GHA,"DF,MF",27,22,6.0,2.0,2012-2013,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Juventus,"1,972",21.9,1.0,0.0,160,17.0,19553.0,Juventus
+,Paul Pogba,fr FRA,MF,27,18,0.0,5.0,2012-2013,/en/players/867239d3/Paul-Pogba,867239d3,Juventus,"1,741",19.3,1.0,1.0,160,4.0,5774.0,Juventus
+,Fabio Quagliarella,it ITA,FW,27,13,4.0,9.0,2012-2013,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Juventus,"1,156",12.8,0.0,0.0,160,9.0,19543.0,Juventus
+,Martín Cáceres,uy URU,DF,18,12,0.0,1.0,2012-2013,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,"1,218",13.5,1.0,0.0,160,8.0,1123.0,Juventus
+,Paolo De Ceglie,it ITA,DF,14,12,0.0,0.0,2012-2013,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,870,9.7,3.0,0.0,160,9.0,11603.0,Juventus
+,Alessandro Matri,it ITA,FW,22,10,0.0,8.0,2012-2013,/en/players/58d97e77/Alessandro-Matri,58d97e77,Juventus,"1,008",11.2,3.0,0.0,160,9.0,19544.0,Juventus
+,Emanuele Giaccherini,it ITA,"FW,MF",17,10,3.0,3.0,2012-2013,/en/players/1c50f354/Emanuele-Giaccherini,1c50f354,Juventus,949,10.5,1.0,0.0,160,9.0,8716.0,Juventus
+,Luca Marrone,it ITA,"DF,MF",10,8,0.0,0.0,2012-2013,/en/players/ea468ea8/Luca-Marrone,468ea8,Juventus,756,8.4,0.0,0.0,160,9.0,19539.0,Juventus
+,Mauricio Isla,cl CHI,"DF,MF",11,8,1.0,0.0,2012-2013,/en/players/de4517dd/Mauricio-Isla,de4517dd,Juventus,586,6.5,1.0,0.0,160,31.0,10725.0,Juventus
+,Federico Peluso,it ITA,DF,12,7,0.0,0.0,2012-2013,/en/players/4f2908e5/Federico-Peluso,4f2908e5,Juventus,701,7.8,5.0,0.0,160,9.0,19554.0,Juventus
+,Simone Padoin,it ITA,"DF,MF",20,6,0.0,0.0,2012-2013,/en/players/5eb72339/Simone-Padoin,5eb72339,Juventus,779,8.7,3.0,0.0,160,9.0,19551.0,Juventus
+,Marco Storari,it ITA,GK,6,6,0.0,0.0,2012-2013,/en/players/fb5eb6e0/Marco-Storari,fb5eb6e0,Juventus,529,5.9,0.0,0.0,160,9.0,4131.0,Juventus
+,Nicklas Bendtner,dk DEN,FW,9,2,0.0,0.0,2012-2013,/en/players/9f9c57f0/Nicklas-Bendtner,9f9c57f0,Juventus,346,3.8,0.0,0.0,160,7.0,5884.0,Juventus
+,Lúcio,br BRA,DF,1,1,0.0,0.0,2012-2013,/en/players/8abd0414/Lucio,8abd0414,Juventus,90,1.0,0.0,0.0,160,2.0,15433.0,Juventus
+,Nicolas Anelka,fr FRA,FW,2,0,0.0,0.0,2012-2013,/en/players/931ed5e9/Nicolas-Anelka,931ed5e9,Juventus,43,0.5,0.0,0.0,160,4.0,6176.0,Juventus
+,Simone Pepe,it ITA,"FW,MF",1,0,0.0,0.0,2012-2013,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Juventus,22,0.2,0.0,0.0,160,9.0,19542.0,Juventus
+,Rubinho,br BRA,GK,1,0,0.0,0.0,2012-2013,/en/players/19aeb20a/Rubinho,19aeb20a,Juventus,11,0.1,0.0,0.0,160,2.0,19555.0,Juventus
+,Stefano Beltrame,it ITA,"FW,MF",1,0,0.0,0.0,2012-2013,/en/players/b50a9c75/Stefano-Beltrame,b50a9c75,Juventus,9,0.1,0.0,0.0,160,9.0,19556.0,Juventus
+,﻿Paul Pogba,fr FRA,MF,36,33,8.0,7.0,2013-2014,/en/players/867239d3/Paul-Pogba,867239d3,Juventus,"3,066",34.1,4.0,0.0,160,4.0,5774.0,Juventus
+,Gianluigi Buffon,it ITA,GK,33,33,0.0,0.0,2013-2014,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,866",31.8,0.0,1.0,160,9.0,12811.0,Juventus
+,Kwadwo Asamoah,gh GHA,"DF,MF",34,32,3.0,2.0,2013-2014,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Juventus,"2,750",30.6,6.0,0.0,160,17.0,19553.0,Juventus
+,Giorgio Chiellini,it ITA,DF,31,31,3.0,3.0,2013-2014,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,773",30.8,5.0,0.0,160,9.0,19516.0,Juventus
+,Carlos Tevez,ar ARG,"FW,MF",34,30,7.0,19.0,2013-2014,/en/players/c1a26d43/Carlos-Tevez,c1a26d43,Juventus,"2,586",28.7,4.0,0.0,160,5.0,5748.0,Juventus
+,Fernando Llorente,es ESP,FW,34,29,5.0,16.0,2013-2014,/en/players/82dbf623/Fernando-Llorente,82dbf623,Juventus,"2,485",27.6,3.0,0.0,160,1.0,1254.0,Juventus
+,Andrea Pirlo,it ITA,MF,30,29,6.0,4.0,2013-2014,/en/players/71c5f16f/Andrea-Pirlo,71c5f16f,Juventus,"2,460",27.3,4.0,0.0,160,9.0,19549.0,Juventus
+,Leonardo Bonucci,it ITA,DF,29,28,3.0,2.0,2013-2014,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,538",28.2,7.0,0.0,160,9.0,19541.0,Juventus
+,Arturo Vidal,cl CHI,MF,32,28,5.0,11.0,2013-2014,/en/players/67cdbc0e/Arturo-Vidal,67cdbc0e,Juventus,"2,435",27.1,8.0,0.0,160,31.0,1174.0,Juventus
+,Andrea Barzagli,it ITA,DF,26,26,0.0,0.0,2013-2014,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"2,286",25.4,3.0,0.0,160,9.0,16424.0,Juventus
+,Stephan Lichtsteiner,ch SUI,"DF,MF",27,24,8.0,2.0,2013-2014,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"2,111",23.5,4.0,0.0,160,39.0,5936.0,Juventus
+,Claudio Marchisio,it ITA,MF,29,21,1.0,4.0,2013-2014,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"1,991",22.1,5.0,0.0,160,9.0,19520.0,Juventus
+,Martín Cáceres,uy URU,DF,17,14,0.0,0.0,2013-2014,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,"1,318",14.6,1.0,0.0,160,8.0,1123.0,Juventus
+,Angelo Ogbonna,it ITA,DF,16,14,0.0,0.0,2013-2014,/en/players/74b2cd7e/Angelo-Ogbonna,74b2cd7e,Juventus,"1,261",14.0,4.0,1.0,160,9.0,8486.0,Juventus
+,Mauricio Isla,cl CHI,"DF,MF",18,10,2.0,0.0,2013-2014,/en/players/de4517dd/Mauricio-Isla,de4517dd,Juventus,967,10.7,1.0,0.0,160,31.0,10725.0,Juventus
+,Simone Padoin,it ITA,"DF,MF",21,8,0.0,1.0,2013-2014,/en/players/5eb72339/Simone-Padoin,5eb72339,Juventus,739,8.2,1.0,0.0,160,9.0,19551.0,Juventus
+,Sebastian Giovinco,it ITA,"FW,MF",17,6,1.0,2.0,2013-2014,/en/players/2b7c18ae/Sebastian-Giovinco,2b7c18ae,Juventus,572,6.4,1.0,0.0,160,9.0,19525.0,Juventus
+,Marco Storari,it ITA,GK,6,5,0.0,0.0,2013-2014,/en/players/fb5eb6e0/Marco-Storari,fb5eb6e0,Juventus,515,5.7,0.0,0.0,160,9.0,4131.0,Juventus
+,Mirko Vučinić,me MNE,FW,12,4,0.0,2.0,2013-2014,/en/players/b04b9530/Mirko-Vucinic,b04b9530,Juventus,404,4.5,2.0,0.0,160,33.0,19550.0,Juventus
+,Dani Osvaldo,it ITA,FW,11,4,1.0,1.0,2013-2014,/en/players/3f0eba4f/Dani-Osvaldo,3f0eba4f,Juventus,375,4.2,1.0,0.0,160,9.0,3052.0,Juventus
+,Federico Peluso,it ITA,DF,9,4,1.0,1.0,2013-2014,/en/players/4f2908e5/Federico-Peluso,4f2908e5,Juventus,344,3.8,2.0,0.0,160,9.0,19554.0,Juventus
+,Fabio Quagliarella,it ITA,FW,17,3,0.0,1.0,2013-2014,/en/players/ee4f2f3b/Fabio-Quagliarella,4f2f3b,Juventus,405,4.5,1.0,0.0,160,9.0,19543.0,Juventus
+,Paolo De Ceglie,it ITA,DF,4,2,0.0,0.0,2013-2014,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,219,2.4,0.0,0.0,160,9.0,11603.0,Juventus
+,Rubinho,br BRA,GK,1,0,0.0,0.0,2013-2014,/en/players/19aeb20a/Rubinho,19aeb20a,Juventus,38,0.4,0.0,0.0,160,2.0,19555.0,Juventus
+,Marco Motta,it ITA,DF,2,0,0.0,0.0,2013-2014,/en/players/1c65a088/Marco-Motta,1c65a088,Juventus,25,0.3,1.0,0.0,160,9.0,4639.0,Juventus
+,Simone Pepe,it ITA,"FW,MF",2,0,0.0,0.0,2013-2014,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Juventus,18,0.2,0.0,0.0,160,9.0,19542.0,Juventus
+,﻿Leonardo Bonucci,it ITA,DF,34,33,0.0,3.0,2014-2015,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"3,015",33.5,8.0,0.0,160,9.0,19541.0,Juventus
+,Gianluigi Buffon,it ITA,GK,33,33,0.0,0.0,2014-2015,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,970",33.0,0.0,0.0,160,9.0,12811.0,Juventus
+,Claudio Marchisio,it ITA,MF,35,33,6.0,3.0,2014-2015,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"2,860",31.8,9.0,0.0,160,9.0,19520.0,Juventus
+,Carlos Tevez,ar ARG,"FW,MF",32,29,7.0,20.0,2014-2015,/en/players/c1a26d43/Carlos-Tevez,c1a26d43,Juventus,"2,580",28.7,6.0,0.0,160,5.0,5748.0,Juventus
+,Giorgio Chiellini,it ITA,DF,28,27,1.0,0.0,2014-2015,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,448",27.2,7.0,0.0,160,9.0,19516.0,Juventus
+,Roberto Pereyra,ar ARG,"FW,MF",35,27,3.0,4.0,2014-2015,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Juventus,"2,265",25.2,2.0,0.0,160,5.0,9910.0,Juventus
+,Stephan Lichtsteiner,ch SUI,"DF,MF",32,26,5.0,3.0,2014-2015,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"2,450",27.2,9.0,1.0,160,39.0,5936.0,Juventus
+,Fernando Llorente,es ESP,FW,31,25,1.0,7.0,2014-2015,/en/players/82dbf623/Fernando-Llorente,82dbf623,Juventus,"1,947",21.6,0.0,0.0,160,1.0,1254.0,Juventus
+,Paul Pogba,fr FRA,MF,26,24,3.0,8.0,2014-2015,/en/players/867239d3/Paul-Pogba,867239d3,Juventus,"2,108",23.4,4.0,0.0,160,4.0,5774.0,Juventus
+,Arturo Vidal,cl CHI,MF,28,23,4.0,7.0,2014-2015,/en/players/67cdbc0e/Arturo-Vidal,67cdbc0e,Juventus,"2,082",23.1,7.0,0.0,160,31.0,1174.0,Juventus
+,Patrice Evra,fr FRA,DF,21,21,2.0,1.0,2014-2015,/en/players/51a3caf1/Patrice-Evra,51a3caf1,Juventus,"1,792",19.9,4.0,0.0,160,4.0,5741.0,Juventus
+,Andrea Pirlo,it ITA,MF,20,19,5.0,4.0,2014-2015,/en/players/71c5f16f/Andrea-Pirlo,71c5f16f,Juventus,"1,604",17.8,0.0,0.0,160,9.0,19549.0,Juventus
+,Angelo Ogbonna,it ITA,DF,25,18,0.0,0.0,2014-2015,/en/players/74b2cd7e/Angelo-Ogbonna,74b2cd7e,Juventus,"1,760",19.6,4.0,0.0,160,9.0,8486.0,Juventus
+,Simone Padoin,it ITA,"DF,MF",25,14,0.0,0.0,2014-2015,/en/players/5eb72339/Simone-Padoin,5eb72339,Juventus,"1,352",15.0,3.0,1.0,160,9.0,19551.0,Juventus
+,Álvaro Morata,es ESP,FW,29,11,5.0,8.0,2014-2015,/en/players/129af0db/Alvaro-Morata,129af0db,Juventus,"1,333",14.8,6.0,1.0,160,1.0,102.0,Juventus
+,Martín Cáceres,uy URU,DF,10,10,0.0,1.0,2014-2015,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,787,8.7,1.0,0.0,160,8.0,1123.0,Juventus
+,Andrea Barzagli,it ITA,DF,10,9,0.0,0.0,2014-2015,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,770,8.6,2.0,0.0,160,9.0,16424.0,Juventus
+,Stefano Sturaro,it ITA,MF,12,8,0.0,1.0,2014-2015,/en/players/2334478a/Stefano-Sturaro,2334478a,Juventus,711,7.9,1.0,0.0,160,9.0,19557.0,Juventus
+,Kwadwo Asamoah,gh GHA,"DF,MF",7,7,0.0,0.0,2014-2015,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Juventus,620,6.9,2.0,0.0,160,17.0,19553.0,Juventus
+,Kingsley Coman,fr FRA,"FW,MF",14,5,2.0,0.0,2014-2015,/en/players/042e8a49/Kingsley-Coman,042e8a49,Juventus,495,5.5,0.0,0.0,160,4.0,12794.0,Juventus
+,Marco Storari,it ITA,GK,5,5,0.0,0.0,2014-2015,/en/players/fb5eb6e0/Marco-Storari,fb5eb6e0,Juventus,450,5.0,0.0,0.0,160,9.0,4131.0,Juventus
+,Alessandro Matri,it ITA,FW,5,4,0.0,0.0,2014-2015,/en/players/58d97e77/Alessandro-Matri,58d97e77,Juventus,321,3.6,0.0,0.0,160,9.0,19544.0,Juventus
+,Rômulo,it ITA,"DF,MF",4,3,0.0,0.0,2014-2015,/en/players/07abb358/Romulo,07abb358,Juventus,279,3.1,0.0,0.0,160,9.0,19558.0,Juventus
+,Sebastian Giovinco,it ITA,"FW,MF",7,2,0.0,0.0,2014-2015,/en/players/2b7c18ae/Sebastian-Giovinco,2b7c18ae,Juventus,192,2.1,0.0,0.0,160,9.0,19525.0,Juventus
+,Simone Pepe,it ITA,"FW,MF",12,1,0.0,1.0,2014-2015,/en/players/1f3674c2/Simone-Pepe,1f3674c2,Juventus,234,2.6,0.0,1.0,160,9.0,19542.0,Juventus
+,Paolo De Ceglie,it ITA,DF,2,1,0.0,0.0,2014-2015,/en/players/bdc1a432/Paolo-De-Ceglie,bdc1a432,Juventus,104,1.2,0.0,0.0,160,9.0,11603.0,Juventus
+,Federico Mattiello,it ITA,"DF,MF",2,0,0.0,0.0,2014-2015,/en/players/fba81826/Federico-Mattiello,fba81826,Juventus,28,0.3,0.0,0.0,160,9.0,19559.0,Juventus
+,Mattia Vitale,it ITA,MF,2,0,0.0,0.0,2014-2015,/en/players/8e4b894b/Mattia-Vitale,8e4b894b,Juventus,27,0.3,0.0,0.0,160,9.0,19560.0,Juventus
+,Emil Audero,it ITA,GK,0,0,,,2014-2015,/en/players/649b01d8/Emil-Audero,649b01d8,Juventus,,,,,160,9.0,19561.0,Juventus
+,Mattia Del Favero,it ITA,GK,0,0,,,2014-2015,/en/players/cd837326/Mattia-Del-Favero,cd837326,Juventus,,,,,160,9.0,19562.0,Juventus
+,Luca Marrone,it ITA,"DF,MF",0,0,,,2014-2015,/en/players/ea468ea8/Luca-Marrone,468ea8,Juventus,,,,,160,9.0,19539.0,Juventus
+,Filippo Romagna,it ITA,DF,0,0,,,2014-2015,/en/players/84594618/Filippo-Romagna,84594618,Juventus,,,,,160,9.0,19563.0,Juventus
+,Rubinho,br BRA,GK,0,0,,,2014-2015,/en/players/19aeb20a/Rubinho,19aeb20a,Juventus,,,,,160,2.0,19555.0,Juventus
+,Giacomo Volpe,it ITA,GK,0,0,,,2014-2015,/en/players/610fe728/Giacomo-Volpe,610fe728,Juventus,,,,,160,9.0,19564.0,Juventus
+,﻿Leonardo Bonucci,it ITA,DF,36,35,1.0,3.0,2015-2016,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"3,156",35.1,6.0,0.0,160,9.0,19541.0,Juventus
+,Gianluigi Buffon,it ITA,GK,35,35,0.0,0.0,2015-2016,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"3,150",35.0,1.0,0.0,160,9.0,12811.0,Juventus
+,Paul Pogba,fr FRA,MF,35,33,12.0,8.0,2015-2016,/en/players/867239d3/Paul-Pogba,867239d3,Juventus,"3,019",33.5,10.0,0.0,160,4.0,5774.0,Juventus
+,Andrea Barzagli,it ITA,DF,31,31,0.0,1.0,2015-2016,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"2,737",30.4,2.0,0.0,160,9.0,16424.0,Juventus
+,Paulo Dybala,ar ARG,FW,34,29,9.0,19.0,2015-2016,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"2,443",27.1,1.0,0.0,160,5.0,19565.0,Juventus
+,Patrice Evra,fr FRA,"MF,DF",26,24,3.0,2.0,2015-2016,/en/players/51a3caf1/Patrice-Evra,51a3caf1,Juventus,"2,044",22.7,6.0,1.0,160,4.0,5741.0,Juventus
+,Mario Mandžukić,hr CRO,FW,27,24,4.0,10.0,2015-2016,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Juventus,"2,040",22.7,5.0,0.0,160,16.0,2212.0,Juventus
+,Claudio Marchisio,it ITA,MF,23,23,2.0,0.0,2015-2016,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"1,927",21.4,8.0,0.0,160,9.0,19520.0,Juventus
+,Stephan Lichtsteiner,ch SUI,"MF,DF",26,22,1.0,0.0,2015-2016,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"1,817",20.2,5.0,0.0,160,39.0,5936.0,Juventus
+,Giorgio Chiellini,it ITA,DF,24,21,0.0,1.0,2015-2016,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"1,787",19.9,5.0,1.0,160,9.0,19516.0,Juventus
+,Sami Khedira,de GER,MF,20,20,4.0,5.0,2015-2016,/en/players/38ac43d3/Sami-Khedira,38ac43d3,Juventus,"1,528",17.0,3.0,1.0,160,13.0,92.0,Juventus
+,Juan Cuadrado,co COL,"MF,FW",28,16,5.0,4.0,2015-2016,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"1,724",19.2,2.0,0.0,160,19.0,6206.0,Juventus
+,Álvaro Morata,es ESP,FW,34,16,7.0,7.0,2015-2016,/en/players/129af0db/Alvaro-Morata,129af0db,Juventus,"1,441",16.0,6.0,1.0,160,1.0,102.0,Juventus
+,Alex Sandro,br BRA,"MF,DF",22,15,3.0,2.0,2015-2016,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"1,501",16.7,6.0,1.0,160,2.0,19566.0,Juventus
+,Daniele Rugani,it ITA,DF,17,11,0.0,0.0,2015-2016,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,"1,167",13.0,2.0,0.0,160,9.0,13267.0,Juventus
+,Stefano Sturaro,it ITA,MF,19,11,0.0,1.0,2015-2016,/en/players/2334478a/Stefano-Sturaro,2334478a,Juventus,"1,026",11.4,6.0,0.0,160,9.0,19557.0,Juventus
+,Hernanes,br BRA,"MF,FW",14,10,1.0,1.0,2015-2016,/en/players/cfc2ee72/Hernanes,cfc2ee72,Juventus,863,9.6,6.0,0.0,160,2.0,19567.0,Juventus
+,Roberto Pereyra,ar ARG,"MF,FW",13,9,1.0,0.0,2015-2016,/en/players/75f2c59f/Roberto-Pereyra,75f2c59f,Juventus,802,8.9,0.0,0.0,160,5.0,9910.0,Juventus
+,Mario Lemina,ga GAB,MF,10,7,0.0,2.0,2015-2016,/en/players/2b471f99/Mario-Lemina,2b471f99,Juventus,729,8.1,4.0,0.0,160,69.0,6903.0,Juventus
+,Simone Padoin,it ITA,"MF,DF",12,6,0.0,1.0,2015-2016,/en/players/5eb72339/Simone-Padoin,5eb72339,Juventus,580,6.4,2.0,0.0,160,9.0,19551.0,Juventus
+,Kwadwo Asamoah,gh GHA,MF,11,6,1.0,0.0,2015-2016,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Juventus,569,6.3,1.0,0.0,160,17.0,19553.0,Juventus
+,Simone Zaza,it ITA,FW,19,5,0.0,5.0,2015-2016,/en/players/9592289a/Simone-Zaza,9592289a,Juventus,673,7.5,6.0,1.0,160,9.0,987.0,Juventus
+,Martín Cáceres,uy URU,DF,6,5,0.0,0.0,2015-2016,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,448,5.0,0.0,0.0,160,8.0,1123.0,Juventus
+,Neto,br BRA,GK,3,3,0.0,0.0,2015-2016,/en/players/a9dc785c/Neto,9dc785c,Juventus,270,3.0,0.0,0.0,160,2.0,990.0,Juventus
+,Kingsley Coman,fr FRA,FW,1,1,0.0,0.0,2015-2016,/en/players/042e8a49/Kingsley-Coman,042e8a49,Juventus,63,0.7,0.0,0.0,160,4.0,12794.0,Juventus
+,Fernando Llorente,es ESP,FW,1,0,0.0,0.0,2015-2016,/en/players/82dbf623/Fernando-Llorente,82dbf623,Juventus,12,0.1,0.0,0.0,160,1.0,1254.0,Juventus
+,Mauricio Isla,cl CHI,"DF,MF",1,0,0.0,0.0,2015-2016,/en/players/de4517dd/Mauricio-Isla,de4517dd,Juventus,10,0.1,0.0,0.0,160,31.0,10725.0,Juventus
+,Andrea Favilli,it ITA,FW,1,0,0.0,0.0,2015-2016,/en/players/44510fde/Andrea-Favilli,44510fde,Juventus,1,0.0,0.0,0.0,160,9.0,19568.0,Juventus
+,Emil Audero,it ITA,GK,0,0,,,2015-2016,/en/players/649b01d8/Emil-Audero,649b01d8,Juventus,,,,,160,9.0,19561.0,Juventus
+,Francesco Cassata,it ITA,MF,0,0,,,2015-2016,/en/players/96960855/Francesco-Cassata,96960855,Juventus,,,,,160,9.0,19569.0,Juventus
+,Filippo Romagna,it ITA,DF,0,0,,,2015-2016,/en/players/84594618/Filippo-Romagna,84594618,Juventus,,,,,160,9.0,19563.0,Juventus
+,Rubinho,br BRA,GK,0,0,,,2015-2016,/en/players/19aeb20a/Rubinho,19aeb20a,Juventus,,,,,160,2.0,19555.0,Juventus
+,Mattia Vitale,it ITA,MF,0,0,,,2015-2016,/en/players/8e4b894b/Mattia-Vitale,8e4b894b,Juventus,,,,,160,9.0,19560.0,Juventus
+,﻿Gonzalo Higuaín,ar ARG,FW,38,32,2.0,24.0,2016-2017,/en/players/8a08491a/Gonzalo-Higuain,8a08491a,Juventus,"2,966",33.0,1.0,0.0,160,5.0,57.0,Juventus
+,Sami Khedira,de GER,MF,31,31,3.0,5.0,2016-2017,/en/players/38ac43d3/Sami-Khedira,38ac43d3,Juventus,"2,539",28.2,2.0,0.0,160,13.0,92.0,Juventus
+,Gianluigi Buffon,it ITA,GK,30,30,0.0,0.0,2016-2017,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"2,655",29.5,0.0,0.0,160,9.0,12811.0,Juventus
+,Mario Mandžukić,hr CRO,"FW,MF",34,28,4.0,7.0,2016-2017,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Juventus,"2,483",27.6,5.0,0.0,160,16.0,2212.0,Juventus
+,Leonardo Bonucci,it ITA,DF,29,26,0.0,3.0,2016-2017,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,409",26.8,5.0,0.0,160,9.0,19541.0,Juventus
+,Paulo Dybala,ar ARG,"MF,FW",31,26,7.0,11.0,2016-2017,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"2,140",23.8,2.0,0.0,160,5.0,19565.0,Juventus
+,Alex Sandro,br BRA,"MF,DF",27,25,4.0,3.0,2016-2017,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"2,312",25.7,5.0,0.0,160,2.0,19566.0,Juventus
+,Miralem Pjanić,ba BIH,MF,30,25,9.0,5.0,2016-2017,/en/players/ad6df2d5/Miralem-Pjanic,d6df2d5,Juventus,"2,166",24.1,5.0,0.0,160,49.0,1203.0,Juventus
+,Stephan Lichtsteiner,ch SUI,"DF,MF",26,22,2.0,1.0,2016-2017,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"1,866",20.7,5.0,0.0,160,39.0,5936.0,Juventus
+,Juan Cuadrado,co COL,"MF,FW",30,21,6.0,2.0,2016-2017,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"2,096",23.3,8.0,0.0,160,19.0,6206.0,Juventus
+,Giorgio Chiellini,it ITA,DF,21,20,2.0,2.0,2016-2017,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"1,636",18.2,4.0,0.0,160,9.0,19516.0,Juventus
+,Andrea Barzagli,it ITA,DF,23,17,0.0,0.0,2016-2017,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"1,532",17.0,2.0,0.0,160,9.0,16424.0,Juventus
+,Kwadwo Asamoah,gh GHA,"DF,MF",18,16,1.0,0.0,2016-2017,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Juventus,"1,472",16.4,2.0,0.0,160,17.0,19553.0,Juventus
+,Dani Alves,br BRA,"DF,MF",19,15,3.0,2.0,2016-2017,/en/players/c9e99e49/Dani-Alves,c9e99e49,Juventus,"1,359",15.1,5.0,0.0,160,2.0,1119.0,Juventus
+,Claudio Marchisio,it ITA,MF,18,15,3.0,1.0,2016-2017,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,"1,253",13.9,2.0,0.0,160,9.0,19520.0,Juventus
+,Medhi Benatia,ma MAR,DF,15,14,0.0,1.0,2016-2017,/en/players/3b15ef2d/Medhi-Benatia,3b15ef2d,Juventus,"1,179",13.1,3.0,0.0,160,26.0,15354.0,Juventus
+,Stefano Sturaro,it ITA,MF,21,12,1.0,0.0,2016-2017,/en/players/2334478a/Stefano-Sturaro,2334478a,Juventus,"1,038",11.5,5.0,0.0,160,9.0,19557.0,Juventus
+,Daniele Rugani,it ITA,DF,15,11,0.0,2.0,2016-2017,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,"1,081",12.0,4.0,0.0,160,9.0,13267.0,Juventus
+,Mario Lemina,ga GAB,MF,19,8,1.0,1.0,2016-2017,/en/players/2b471f99/Mario-Lemina,2b471f99,Juventus,906,10.1,1.0,0.0,160,69.0,6903.0,Juventus
+,Hernanes,br BRA,MF,10,8,0.0,1.0,2016-2017,/en/players/cfc2ee72/Hernanes,cfc2ee72,Juventus,721,8.0,3.0,0.0,160,2.0,19567.0,Juventus
+,Neto,br BRA,GK,8,7,0.0,0.0,2016-2017,/en/players/a9dc785c/Neto,9dc785c,Juventus,675,7.5,0.0,0.0,160,2.0,990.0,Juventus
+,Marko Pjaca,hr CRO,MF,14,3,0.0,0.0,2016-2017,/en/players/2c38b327/Marko-Pjaca,2c38b327,Juventus,459,5.1,1.0,0.0,160,16.0,16321.0,Juventus
+,Patrice Evra,fr FRA,"DF,MF",6,3,0.0,0.0,2016-2017,/en/players/51a3caf1/Patrice-Evra,51a3caf1,Juventus,252,2.8,0.0,0.0,160,4.0,5741.0,Juventus
+,Tomás Rincón,ve VEN,MF,13,2,1.0,0.0,2016-2017,/en/players/f1cfc209/Tomas-Rincon,f1cfc209,Juventus,309,3.4,0.0,0.0,160,53.0,15865.0,Juventus
+,Emil Audero,it ITA,GK,1,1,0.0,0.0,2016-2017,/en/players/649b01d8/Emil-Audero,649b01d8,Juventus,90,1.0,0.0,0.0,160,9.0,19561.0,Juventus
+,Moise Kean,it ITA,FW,3,0,0.0,1.0,2016-2017,/en/players/3d50bcdb/Moise-Kean,3d50bcdb,Juventus,21,0.2,0.0,0.0,160,9.0,6716.0,Juventus
+,Rolando Mandragora,it ITA,MF,1,0,0.0,0.0,2016-2017,/en/players/c7259b83/Rolando-Mandragora,c7259b83,Juventus,5,0.1,0.0,0.0,160,9.0,19570.0,Juventus
+,Mattia Del Favero,it ITA,GK,0,0,,,2016-2017,/en/players/cd837326/Mattia-Del-Favero,cd837326,Juventus,,,,,160,9.0,19562.0,Juventus
+,Leonardo Loria,it ITA,GK,0,0,,,2016-2017,/en/players/f95a178d/Leonardo-Loria,f95a178d,Juventus,,,,,160,9.0,19571.0,Juventus
+,Luca Marrone,it ITA,"DF,MF",0,0,,,2016-2017,/en/players/ea468ea8/Luca-Marrone,468ea8,Juventus,,,,,160,9.0,19539.0,Juventus
+,Federico Mattiello,it ITA,"DF,MF",0,0,,,2016-2017,/en/players/fba81826/Federico-Mattiello,fba81826,Juventus,,,,,160,9.0,19559.0,Juventus
+,Alessandro Semprini,it ITA,FW,0,0,,,2016-2017,/en/players/dd29f81d/Alessandro-Semprini,dd29f81d,Juventus,,,,,160,9.0,19572.0,Juventus
+,Simone Zaza,it ITA,FW,0,0,,,2016-2017,/en/players/9592289a/Simone-Zaza,9592289a,Juventus,,,,,160,9.0,987.0,Juventus
+,﻿Gonzalo Higuaín,ar ARG,FW,35,32,5.0,16.0,2017-2018,/en/players/8a08491a/Gonzalo-Higuain,8a08491a,Juventus,"2,815",31.3,4.0,0.0,160,5.0,57.0,Juventus
+,Miralem Pjanić,ba BIH,MF,31,28,5.0,5.0,2017-2018,/en/players/ad6df2d5/Miralem-Pjanic,d6df2d5,Juventus,"2,484",27.6,5.0,0.0,160,49.0,1203.0,Juventus
+,Blaise Matuidi,fr FRA,MF,32,27,1.0,3.0,2017-2018,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Juventus,"2,354",26.2,3.0,0.0,160,4.0,12788.0,Juventus
+,Mario Mandžukić,hr CRO,"FW,MF",32,27,1.0,5.0,2017-2018,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Juventus,"2,324",25.8,4.0,2.0,160,16.0,2212.0,Juventus
+,Paulo Dybala,ar ARG,"MF,FW",33,26,3.0,22.0,2017-2018,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"2,353",26.1,0.0,0.0,160,5.0,19565.0,Juventus
+,Giorgio Chiellini,it ITA,DF,26,25,1.0,0.0,2017-2018,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"2,161",24.0,2.0,0.0,160,9.0,19516.0,Juventus
+,Sami Khedira,de GER,MF,26,24,2.0,9.0,2017-2018,/en/players/38ac43d3/Sami-Khedira,38ac43d3,Juventus,"1,912",21.2,1.0,0.0,160,13.0,92.0,Juventus
+,Alex Sandro,br BRA,DF,26,23,3.0,4.0,2017-2018,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"2,117",23.5,8.0,0.0,160,2.0,19566.0,Juventus
+,Daniele Rugani,it ITA,DF,22,22,1.0,2.0,2017-2018,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,"1,935",21.5,3.0,0.0,160,9.0,13267.0,Juventus
+,Gianluigi Buffon,it ITA,GK,21,21,0.0,0.0,2017-2018,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,"1,862",20.7,1.0,0.0,160,9.0,12811.0,Juventus
+,Stephan Lichtsteiner,ch SUI,DF,27,21,2.0,0.0,2017-2018,/en/players/99b1d0e6/Stephan-Lichtsteiner,99b1d0e6,Juventus,"1,704",18.9,6.0,0.0,160,39.0,5936.0,Juventus
+,Medhi Benatia,ma MAR,DF,20,19,0.0,2.0,2017-2018,/en/players/3b15ef2d/Medhi-Benatia,3b15ef2d,Juventus,"1,755",19.5,8.0,0.0,160,26.0,15354.0,Juventus
+,Douglas Costa,br BRA,"MF,FW",31,18,6.0,4.0,2017-2018,/en/players/4fa7cb9b/Douglas-Costa,4fa7cb9b,Juventus,"1,795",19.9,1.0,0.0,160,2.0,15482.0,Juventus
+,Kwadwo Asamoah,gh GHA,DF,19,18,0.0,0.0,2017-2018,/en/players/089550f5/Kwadwo-Asamoah,089550f5,Juventus,"1,568",17.4,4.0,0.0,160,17.0,19553.0,Juventus
+,Wojciech Szczęsny,pl POL,GK,17,17,0.0,0.0,2017-2018,/en/players/01b8a2b2/Wojciech-Szczesny,01b8a2b2,Juventus,"1,530",17.0,0.0,0.0,160,14.0,5899.0,Juventus
+,Juan Cuadrado,co COL,"MF,FW",21,15,4.0,4.0,2017-2018,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"1,353",15.0,5.0,0.0,160,19.0,6206.0,Juventus
+,Andrea Barzagli,it ITA,DF,25,14,1.0,0.0,2017-2018,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,"1,447",16.1,2.0,0.0,160,9.0,16424.0,Juventus
+,Mattia De Sciglio,it ITA,DF,12,10,0.0,1.0,2017-2018,/en/players/ae4e2852/Mattia-De-Sciglio,4e2852,Juventus,968,10.8,1.0,0.0,160,9.0,11296.0,Juventus
+,Claudio Marchisio,it ITA,MF,15,9,1.0,0.0,2017-2018,/en/players/e304acd5/Claudio-Marchisio,304acd5,Juventus,817,9.1,1.0,0.0,160,9.0,19520.0,Juventus
+,Federico Bernardeschi,it ITA,"MF,FW",22,7,3.0,4.0,2017-2018,/en/players/ee93c1a9/Federico-Bernardeschi,93c1a9,Juventus,847,9.4,4.0,0.0,160,9.0,19573.0,Juventus
+,Stefano Sturaro,it ITA,"MF,DF",12,7,0.0,0.0,2017-2018,/en/players/2334478a/Stefano-Sturaro,2334478a,Juventus,613,6.8,1.0,0.0,160,9.0,19557.0,Juventus
+,Rodrigo Bentancur,uy URU,MF,20,5,0.0,0.0,2017-2018,/en/players/3b8674e6/Rodrigo-Bentancur,3b8674e6,Juventus,581,6.5,0.0,0.0,160,8.0,7155.0,Juventus
+,Benedikt Höwedes,de GER,DF,3,3,0.0,1.0,2017-2018,/en/players/d5c04323/Benedikt-Howedes,d5c04323,Juventus,247,2.7,1.0,0.0,160,13.0,16274.0,Juventus
+,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2017-2018,/en/players/f6a06749/Carlo-Pinsoglio,f6a06749,Juventus,28,0.3,0.0,0.0,160,9.0,19574.0,Juventus
+,Fabrizio Caligara,it ITA,MF,0,0,,,2017-2018,/en/players/22ca11f1/Fabrizio-Caligara,22ca11f1,Juventus,,,,,160,9.0,19575.0,Juventus
+,Mattia Del Favero,it ITA,GK,0,0,,,2017-2018,/en/players/cd837326/Mattia-Del-Favero,cd837326,Juventus,,,,,160,9.0,19562.0,Juventus
+,Ferdinando Del Sole,it ITA,MF,0,0,,,2017-2018,/en/players/e6bddd1f/Ferdinando-Del-Sole,6bddd1f,Juventus,,,,,160,9.0,19576.0,Juventus
+,Moise Kean,it ITA,FW,0,0,,,2017-2018,/en/players/3d50bcdb/Moise-Kean,3d50bcdb,Juventus,,,,,160,9.0,6716.0,Juventus
+,Leonardo Loria,it ITA,GK,0,0,,,2017-2018,/en/players/f95a178d/Leonardo-Loria,f95a178d,Juventus,,,,,160,9.0,19571.0,Juventus
+,Marko Pjaca,hr CRO,"FW,MF",0,0,,,2017-2018,/en/players/2c38b327/Marko-Pjaca,2c38b327,Juventus,,,,,160,16.0,16321.0,Juventus
+,﻿Cristiano Ronaldo,pt POR,FW,31,30,8.0,21.0,2018-2019,/en/players/dea698d9/Cristiano-Ronaldo,dea698d9,Juventus,"2,688",29.9,3.0,0.0,160,3.0,81.0,Juventus
+,Blaise Matuidi,fr FRA,MF,31,29,2.0,3.0,2018-2019,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Juventus,"2,418",26.9,5.0,0.0,160,4.0,12788.0,Juventus
+,Wojciech Szczęsny,pl POL,GK,28,28,0.0,0.0,2018-2019,/en/players/01b8a2b2/Wojciech-Szczesny,01b8a2b2,Juventus,"2,520",28.0,0.0,0.0,160,14.0,5899.0,Juventus
+,Alex Sandro,br BRA,DF,31,28,2.0,1.0,2018-2019,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"2,387",26.5,7.0,0.0,160,2.0,19566.0,Juventus
+,Leonardo Bonucci,it ITA,DF,29,27,0.0,3.0,2018-2019,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,472",27.5,2.0,0.0,160,9.0,19541.0,Juventus
+,Miralem Pjanić,ba BIH,MF,31,27,6.0,2.0,2018-2019,/en/players/ad6df2d5/Miralem-Pjanic,d6df2d5,Juventus,"2,280",25.3,6.0,1.0,160,49.0,1203.0,Juventus
+,Paulo Dybala,ar ARG,"FW,MF",30,24,4.0,5.0,2018-2019,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"2,137",23.7,2.0,0.0,160,5.0,19565.0,Juventus
+,Mario Mandžukić,hr CRO,FW,25,23,6.0,9.0,2018-2019,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Juventus,"2,014",22.4,4.0,0.0,160,16.0,2212.0,Juventus
+,Giorgio Chiellini,it ITA,DF,25,22,1.0,1.0,2018-2019,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"1,991",22.1,3.0,0.0,160,9.0,19516.0,Juventus
+,João Cancelo,pt POR,DF,25,22,3.0,1.0,2018-2019,/en/players/bd6351cd/Joao-Cancelo,bd6351cd,Juventus,"1,968",21.9,6.0,0.0,160,3.0,965.0,Juventus
+,Rodrigo Bentancur,uy URU,MF,31,21,3.0,2.0,2018-2019,/en/players/3b8674e6/Rodrigo-Bentancur,3b8674e6,Juventus,"2,003",22.3,8.0,1.0,160,8.0,7155.0,Juventus
+,Emre Can,de GER,MF,29,20,1.0,4.0,2018-2019,/en/players/a65ce836/Emre-Can,65ce836,Juventus,"1,811",20.1,7.0,0.0,160,13.0,6331.0,Juventus
+,Mattia De Sciglio,it ITA,DF,22,19,1.0,0.0,2018-2019,/en/players/ae4e2852/Mattia-De-Sciglio,4e2852,Juventus,"1,743",19.4,2.0,0.0,160,9.0,11296.0,Juventus
+,Daniele Rugani,it ITA,DF,15,15,0.0,2.0,2018-2019,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,"1,350",15.0,3.0,0.0,160,9.0,13267.0,Juventus
+,Federico Bernardeschi,it ITA,"MF,FW",28,14,3.0,2.0,2018-2019,/en/players/ee93c1a9/Federico-Bernardeschi,93c1a9,Juventus,"1,473",16.4,5.0,1.0,160,9.0,19573.0,Juventus
+,Juan Cuadrado,co COL,"MF,DF",18,14,2.0,1.0,2018-2019,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"1,220",13.6,4.0,0.0,160,19.0,6206.0,Juventus
+,Mattia Perin,it ITA,GK,9,9,0.0,0.0,2018-2019,/en/players/4c62d0c8/Mattia-Perin,4c62d0c8,Juventus,810,9.0,1.0,0.0,160,9.0,19577.0,Juventus
+,Sami Khedira,de GER,MF,10,8,1.0,2.0,2018-2019,/en/players/38ac43d3/Sami-Khedira,38ac43d3,Juventus,706,7.8,0.0,0.0,160,13.0,92.0,Juventus
+,Martín Cáceres,uy URU,DF,9,7,0.0,0.0,2018-2019,/en/players/e94d79e3/Martin-Caceres,94d79e3,Juventus,628,7.0,1.0,0.0,160,8.0,1123.0,Juventus
+,Douglas Costa,br BRA,"MF,FW",17,7,0.0,1.0,2018-2019,/en/players/4fa7cb9b/Douglas-Costa,4fa7cb9b,Juventus,621,6.9,2.0,1.0,160,2.0,15482.0,Juventus
+,Leonardo Spinazzola,it ITA,DF,10,6,1.0,0.0,2018-2019,/en/players/3626daea/Leonardo-Spinazzola,3626daea,Juventus,601,6.7,0.0,0.0,160,9.0,19578.0,Juventus
+,Moise Kean,it ITA,FW,13,5,0.0,6.0,2018-2019,/en/players/3d50bcdb/Moise-Kean,3d50bcdb,Juventus,541,6.0,2.0,0.0,160,9.0,6716.0,Juventus
+,Medhi Benatia,ma MAR,DF,5,5,0.0,0.0,2018-2019,/en/players/3b15ef2d/Medhi-Benatia,3b15ef2d,Juventus,450,5.0,2.0,0.0,160,26.0,15354.0,Juventus
+,Andrea Barzagli,it ITA,DF,7,4,0.0,0.0,2018-2019,/en/players/7c0000fd/Andrea-Barzagli,7c0000fd,Juventus,260,2.9,0.0,0.0,160,9.0,16424.0,Juventus
+,Matheus Pereira da Silva,br BRA,MF,3,1,0.0,0.0,2018-2019,/en/players/bef22bc4/Matheus-Pereira-da-Silva,bef22bc4,Juventus,92,1.0,0.0,0.0,160,2.0,11746.0,Juventus
+,Paolo Gozzi Iweru,it ITA,DF,1,1,0.0,0.0,2018-2019,/en/players/94230890/Paolo-Gozzi-Iweru,94230890,Juventus,90,1.0,0.0,0.0,160,9.0,19579.0,Juventus
+,Carlo Pinsoglio,it ITA,GK,1,1,0.0,0.0,2018-2019,/en/players/f6a06749/Carlo-Pinsoglio,f6a06749,Juventus,90,1.0,0.0,0.0,160,9.0,19574.0,Juventus
+,Grigoris Kastanos,cy CYP,MF,1,1,0.0,0.0,2018-2019,/en/players/2a82aa85/Grigoris-Kastanos,2a82aa85,Juventus,60,0.7,0.0,0.0,160,63.0,19580.0,Juventus
+,Hans Nicolussi Caviglia,it ITA,MF,3,0,0.0,0.0,2018-2019,/en/players/b136c945/Hans-Nicolussi-Caviglia,b136c945,Juventus,57,0.6,0.0,0.0,160,9.0,19581.0,Juventus
+,Manolo Portanova,it ITA,MF,1,0,0.0,0.0,2018-2019,/en/players/c8c0dccd/Manolo-Portanova,c8c0dccd,Juventus,33,0.4,1.0,0.0,160,9.0,19593.0,Juventus
+,Stephy Mavididi,eng ENG,FW,1,0,0.0,0.0,2018-2019,/en/players/30144daa/Stephy-Mavididi,30144daa,Juventus,22,0.2,0.0,0.0,160,6.0,7501.0,Juventus
+,Luca Coccolo,it ITA,DF,0,0,,,2018-2019,/en/players/c426907e/Luca-Coccolo,c426907e,Juventus,,,,,160,9.0,19582.0,Juventus
+,Mattia Del Favero,it ITA,GK,0,0,,,2018-2019,/en/players/cd837326/Mattia-Del-Favero,cd837326,Juventus,,,,,160,9.0,19562.0,Juventus
+,Nicolò Fagioli,it ITA,MF,0,0,,,2018-2019,/en/players/366be751/Nicolo-Fagioli,366be751,Juventus,,,,,160,9.0,19583.0,Juventus
+,Pablo Moreno,es ESP,FW,0,0,,,2018-2019,/en/players/2ce5a500/Pablo-Moreno,2ce5a500,Juventus,,,,,160,1.0,5628.0,Juventus
+,Simone Muratore,it ITA,MF,0,0,,,2018-2019,/en/players/04989945/Simone-Muratore,04989945,Juventus,,,,,160,9.0,19584.0,Juventus
+,﻿Leonardo Bonucci,it ITA,DF,35,35,0.0,3.0,2019-2020,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"3,082",34.2,10.0,0.0,160,9.0,19541.0,Juventus
+,Cristiano Ronaldo,pt POR,FW,33,33,5.0,31.0,2019-2020,/en/players/dea698d9/Cristiano-Ronaldo,dea698d9,Juventus,"2,917",32.4,3.0,0.0,160,3.0,81.0,Juventus
+,Wojciech Szczęsny,pl POL,GK,29,29,0.0,0.0,2019-2020,/en/players/01b8a2b2/Wojciech-Szczesny,01b8a2b2,Juventus,"2,591",28.8,1.0,0.0,160,14.0,5899.0,Juventus
+,Juan Cuadrado,co COL,"DF,FW",33,28,5.0,2.0,2019-2020,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"2,654",29.5,7.0,1.0,160,19.0,6206.0,Juventus
+,Miralem Pjanić,ba BIH,MF,30,28,6.0,3.0,2019-2020,/en/players/ad6df2d5/Miralem-Pjanic,d6df2d5,Juventus,"2,277",25.3,10.0,0.0,160,49.0,1203.0,Juventus
+,Alex Sandro,br BRA,DF,29,27,3.0,1.0,2019-2020,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"2,385",26.5,4.0,0.0,160,2.0,19566.0,Juventus
+,Matthijs de Ligt,nl NED,DF,29,26,0.0,4.0,2019-2020,/en/players/d6e53a3a/Matthijs-de-Ligt,d6e53a3a,Juventus,"2,450",27.2,5.0,0.0,160,11.0,19585.0,Juventus
+,Rodrigo Bentancur,uy URU,MF,30,25,7.0,0.0,2019-2020,/en/players/3b8674e6/Rodrigo-Bentancur,3b8674e6,Juventus,"2,196",24.4,9.0,0.0,160,8.0,7155.0,Juventus
+,Paulo Dybala,ar ARG,"FW,MF",33,25,6.0,11.0,2019-2020,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"2,155",23.9,5.0,0.0,160,5.0,19565.0,Juventus
+,Blaise Matuidi,fr FRA,MF,35,23,2.0,0.0,2019-2020,/en/players/c0cddebe/Blaise-Matuidi,c0cddebe,Juventus,"2,237",24.9,2.0,0.0,160,4.0,12788.0,Juventus
+,Adrien Rabiot,fr FRA,MF,28,21,1.0,1.0,2019-2020,/en/players/8794e251/Adrien-Rabiot,8794e251,Juventus,"1,912",21.2,7.0,1.0,160,4.0,12792.0,Juventus
+,Gonzalo Higuaín,ar ARG,FW,32,20,4.0,8.0,2019-2020,/en/players/8a08491a/Gonzalo-Higuain,8a08491a,Juventus,"1,866",20.7,2.0,0.0,160,5.0,57.0,Juventus
+,Federico Bernardeschi,it ITA,"MF,FW",29,19,1.0,1.0,2019-2020,/en/players/ee93c1a9/Federico-Bernardeschi,93c1a9,Juventus,"1,571",17.5,6.0,0.0,160,9.0,19573.0,Juventus
+,Danilo,br BRA,DF,22,16,0.0,2.0,2019-2020,/en/players/94b2001f/Danilo,94b2001f,Juventus,"1,440",16.0,4.0,1.0,160,2.0,133.0,Juventus
+,Aaron Ramsey,wls WAL,MF,24,11,1.0,3.0,2019-2020,/en/players/ef619b0b/Aaron-Ramsey,f619b0b,Juventus,"1,051",11.7,2.0,0.0,160,18.0,5889.0,Juventus
+,Gianluigi Buffon,it ITA,GK,9,9,0.0,0.0,2019-2020,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,810,9.0,0.0,0.0,160,9.0,12811.0,Juventus
+,Sami Khedira,de GER,MF,12,9,1.0,0.0,2019-2020,/en/players/38ac43d3/Sami-Khedira,38ac43d3,Juventus,681,7.6,3.0,0.0,160,13.0,92.0,Juventus
+,Douglas Costa,br BRA,"FW,MF",23,7,4.0,1.0,2019-2020,/en/players/4fa7cb9b/Douglas-Costa,4fa7cb9b,Juventus,802,8.9,1.0,0.0,160,2.0,15482.0,Juventus
+,Daniele Rugani,it ITA,DF,10,7,0.0,0.0,2019-2020,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,690,7.7,2.0,0.0,160,9.0,13267.0,Juventus
+,Mattia De Sciglio,it ITA,DF,9,6,0.0,0.0,2019-2020,/en/players/ae4e2852/Mattia-De-Sciglio,4e2852,Juventus,471,5.2,1.0,0.0,160,9.0,11296.0,Juventus
+,Merih Demiral,tr TUR,DF,6,5,1.0,1.0,2019-2020,/en/players/e3cceee6/Merih-Demiral,3cceee6,Juventus,418,4.6,1.0,0.0,160,15.0,19586.0,Juventus
+,Giorgio Chiellini,it ITA,DF,4,3,0.0,1.0,2019-2020,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,202,2.2,0.0,0.0,160,9.0,19516.0,Juventus
+,Emre Can,de GER,MF,8,2,0.0,0.0,2019-2020,/en/players/a65ce836/Emre-Can,65ce836,Juventus,284,3.2,2.0,0.0,160,13.0,6331.0,Juventus
+,Simone Muratore,it ITA,MF,4,2,0.0,0.0,2019-2020,/en/players/04989945/Simone-Muratore,04989945,Juventus,165,1.8,0.0,0.0,160,9.0,19584.0,Juventus
+,Luca Zanimacchia,it ITA,"FW,MF",2,1,0.0,0.0,2019-2020,/en/players/5e834dce/Luca-Zanimacchia,5e834dce,Juventus,120,1.3,0.0,0.0,160,9.0,3675.0,Juventus
+,Gianluca Frabotta,it ITA,DF,1,1,0.0,0.0,2019-2020,/en/players/d80b1835/Gianluca-Frabotta,d80b1835,Juventus,90,1.0,0.0,0.0,160,9.0,19587.0,Juventus
+,Marco Olivieri,it ITA,FW,3,0,0.0,0.0,2019-2020,/en/players/f5ba8903/Marco-Olivieri,f5ba8903,Juventus,30,0.3,0.0,0.0,160,9.0,19588.0,Juventus
+,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2019-2020,/en/players/f6a06749/Carlo-Pinsoglio,f6a06749,Juventus,19,0.2,0.0,0.0,160,9.0,19574.0,Juventus
+,Daouda Peeters,be BEL,MF,1,0,0.0,0.0,2019-2020,/en/players/e83f8ebb/Daouda-Peeters,83f8ebb,Juventus,15,0.2,0.0,0.0,160,27.0,19589.0,Juventus
+,Giacomo Vrioni,al ALB,FW,1,0,0.0,0.0,2019-2020,/en/players/bf4d31d3/Giacomo-Vrioni,bf4d31d3,Juventus,12,0.1,0.0,0.0,160,78.0,19590.0,Juventus
+,Pietro Beruatto,it ITA,DF,0,0,,,2019-2020,/en/players/3a0f199a/Pietro-Beruatto,3a0f199a,Juventus,,,,,160,9.0,19591.0,Juventus
+,Luca Coccolo,it ITA,DF,0,0,,,2019-2020,/en/players/c426907e/Luca-Coccolo,c426907e,Juventus,,,,,160,9.0,19582.0,Juventus
+,Han Kwang-song,kp PRK,FW,0,0,,,2019-2020,/en/players/87243064/Han-Kwang-song,87243064,Juventus,,,,,160,164.0,19592.0,Juventus
+,Mario Mandžukić,hr CRO,"FW,MF",0,0,,,2019-2020,/en/players/afa0d4e0/Mario-Mandzukic,fa0d4e0,Juventus,,,,,160,16.0,2212.0,Juventus
+,Mattia Perin,it ITA,GK,0,0,,,2019-2020,/en/players/4c62d0c8/Mattia-Perin,4c62d0c8,Juventus,,,,,160,9.0,19577.0,Juventus
+,Marko Pjaca,hr CRO,"FW,MF",0,0,,,2019-2020,/en/players/2c38b327/Marko-Pjaca,2c38b327,Juventus,,,,,160,16.0,16321.0,Juventus
+,Manolo Portanova,it ITA,MF,0,0,,,2019-2020,/en/players/c8c0dccd/Manolo-Portanova,c8c0dccd,Juventus,,,,,160,9.0,19593.0,Juventus
+,Wesley,br BRA,MF,0,0,,,2019-2020,/en/players/7f7ad37a/Wesley,7f7ad37a,Juventus,,,,,160,2.0,19594.0,Juventus
+,﻿Danilo,br BRA,"DF,MF",34,32,4.0,1.0,2020-2021,/en/players/94b2001f/Danilo,94b2001f,Juventus,"2,916",32.4,6.0,0.0,160,2.0,133.0,Juventus
+,Cristiano Ronaldo,pt POR,FW,33,31,2.0,29.0,2020-2021,/en/players/dea698d9/Cristiano-Ronaldo,dea698d9,Juventus,"2,802",31.1,3.0,0.0,160,3.0,81.0,Juventus
+,Wojciech Szczęsny,pl POL,GK,30,30,1.0,0.0,2020-2021,/en/players/01b8a2b2/Wojciech-Szczesny,01b8a2b2,Juventus,"2,677",29.7,0.0,0.0,160,14.0,5899.0,Juventus
+,Federico Chiesa,it ITA,"MF,DF",30,28,8.0,8.0,2020-2021,/en/players/b0f7e36c/Federico-Chiesa,b0f7e36c,Juventus,"2,210",24.6,3.0,1.0,160,9.0,19595.0,Juventus
+,Rodrigo Bentancur,uy URU,MF,33,27,4.0,0.0,2020-2021,/en/players/3b8674e6/Rodrigo-Bentancur,3b8674e6,Juventus,"2,324",25.8,8.0,1.0,160,8.0,7155.0,Juventus
+,Juan Cuadrado,co COL,"DF,MF",30,26,10.0,2.0,2020-2021,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"2,175",24.2,9.0,1.0,160,19.0,6206.0,Juventus
+,Adrien Rabiot,fr FRA,MF,34,25,2.0,4.0,2020-2021,/en/players/8794e251/Adrien-Rabiot,8794e251,Juventus,"2,313",25.7,7.0,1.0,160,4.0,12792.0,Juventus
+,Matthijs de Ligt,nl NED,DF,27,25,1.0,1.0,2020-2021,/en/players/d6e53a3a/Matthijs-de-Ligt,d6e53a3a,Juventus,"2,220",24.7,4.0,0.0,160,11.0,19585.0,Juventus
+,Leonardo Bonucci,it ITA,DF,26,23,0.0,2.0,2020-2021,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,028",22.5,4.0,0.0,160,9.0,19541.0,Juventus
+,Álvaro Morata,es ESP,FW,32,23,9.0,11.0,2020-2021,/en/players/129af0db/Alvaro-Morata,129af0db,Juventus,"2,014",22.4,3.0,1.0,160,1.0,102.0,Juventus
+,Alex Sandro,br BRA,DF,26,20,1.0,2.0,2020-2021,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"1,858",20.6,2.0,0.0,160,2.0,19566.0,Juventus
+,Dejan Kulusevski,se SWE,"MF,FW",35,19,3.0,4.0,2020-2021,/en/players/df3cda47/Dejan-Kulusevski,df3cda47,Juventus,"1,923",21.4,7.0,0.0,160,41.0,7156.0,Juventus
+,Weston McKennie,us USA,MF,34,18,2.0,5.0,2020-2021,/en/players/01c3aff5/Weston-McKennie,01c3aff5,Juventus,"1,702",18.9,5.0,0.0,160,75.0,16320.0,Juventus
+,Giorgio Chiellini,it ITA,DF,17,16,1.0,0.0,2020-2021,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"1,386",15.4,4.0,0.0,160,9.0,19516.0,Juventus
+,Paulo Dybala,ar ARG,FW,20,14,3.0,4.0,2020-2021,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"1,132",12.6,0.0,0.0,160,5.0,19565.0,Juventus
+,Arthur Melo,br BRA,MF,22,13,0.0,1.0,2020-2021,/en/players/48b3dd60/Arthur-Melo,48b3dd60,Juventus,"1,157",12.9,3.0,0.0,160,2.0,1175.0,Juventus
+,Aaron Ramsey,wls WAL,MF,22,13,4.0,2.0,2020-2021,/en/players/ef619b0b/Aaron-Ramsey,f619b0b,Juventus,"1,089",12.1,2.0,0.0,160,18.0,5889.0,Juventus
+,Merih Demiral,tr TUR,DF,15,10,1.0,0.0,2020-2021,/en/players/e3cceee6/Merih-Demiral,3cceee6,Juventus,940,10.4,1.0,0.0,160,15.0,19586.0,Juventus
+,Federico Bernardeschi,it ITA,"MF,DF",27,8,2.0,0.0,2020-2021,/en/players/ee93c1a9/Federico-Bernardeschi,93c1a9,Juventus,972,10.8,3.0,0.0,160,9.0,19573.0,Juventus
+,Gianluigi Buffon,it ITA,GK,8,8,0.0,0.0,2020-2021,/en/players/e40d028b/Gianluigi-Buffon,40d028b,Juventus,720,8.0,0.0,0.0,160,9.0,12811.0,Juventus
+,Gianluca Frabotta,it ITA,"DF,MF",15,8,1.0,0.0,2020-2021,/en/players/d80b1835/Gianluca-Frabotta,d80b1835,Juventus,689,7.7,5.0,0.0,160,9.0,19587.0,Juventus
+,Manolo Portanova,it ITA,MF,2,1,0.0,0.0,2020-2021,/en/players/c8c0dccd/Manolo-Portanova,c8c0dccd,Juventus,70,0.8,1.0,0.0,160,9.0,19593.0,Juventus
+,Douglas Costa,br BRA,"MF,FW",2,0,0.0,0.0,2020-2021,/en/players/4fa7cb9b/Douglas-Costa,4fa7cb9b,Juventus,42,0.5,0.0,0.0,160,2.0,15482.0,Juventus
+,Mattia De Sciglio,it ITA,DF,1,0,0.0,0.0,2020-2021,/en/players/ae4e2852/Mattia-De-Sciglio,4e2852,Juventus,24,0.3,0.0,0.0,160,9.0,11296.0,Juventus
+,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2020-2021,/en/players/f6a06749/Carlo-Pinsoglio,f6a06749,Juventus,23,0.3,0.0,1.0,160,9.0,19574.0,Juventus
+,Nicolò Fagioli,it ITA,MF,1,0,0.0,0.0,2020-2021,/en/players/366be751/Nicolo-Fagioli,366be751,Juventus,21,0.2,0.0,0.0,160,9.0,19583.0,Juventus
+,Alessandro Di Pardo,it ITA,"FW,DF",4,0,0.0,0.0,2020-2021,/en/players/e0ce7038/Alessandro-Di-Pardo,0ce7038,Juventus,14,0.2,0.0,0.0,160,9.0,19596.0,Juventus
+,Félix Correia,pt POR,MF,1,0,0.0,0.0,2020-2021,/en/players/c803c92a/Felix-Correia,c803c92a,Juventus,7,0.1,0.0,0.0,160,3.0,19597.0,Juventus
+,Radu Drăgușin,ro ROU,DF,1,0,0.0,0.0,2020-2021,/en/players/620922ed/Radu-Dragusin,620922ed,Juventus,1,0.0,0.0,0.0,160,51.0,19598.0,Juventus
+,Giacomo Vrioni,al ALB,MF,1,0,0.0,0.0,2020-2021,/en/players/bf4d31d3/Giacomo-Vrioni,bf4d31d3,Juventus,1,0.0,0.0,0.0,160,78.0,19590.0,Juventus
+,Marley Aké,fr FRA,FW,0,0,,,2020-2021,/en/players/414e1f69/Marley-Ake,414e1f69,Juventus,,,,,160,4.0,11626.0,Juventus
+,Riccardo Capellini,it ITA,DF,0,0,,,2020-2021,/en/players/427258c9/Riccardo-Capellini,427258c9,Juventus,,,,,160,9.0,19599.0,Juventus
+,Cosimo Marco Da Graca,it ITA,FW,0,0,,,2020-2021,/en/players/32f76907/Cosimo-Marco-Da-Graca,32f76907,Juventus,,,,,160,9.0,19600.0,Juventus
+,Davide De Marino,it ITA,DF,0,0,,,2020-2021,/en/players/2550ae31/Davide-De-Marino,2550ae31,Juventus,,,,,160,9.0,19601.0,Juventus
+,Giovanni Garofani,it ITA,GK,0,0,,,2020-2021,/en/players/ff2ad9bb/Giovanni-Garofani,ff2ad9bb,Juventus,,,,,160,9.0,19602.0,Juventus
+,Franco Israel,uy URU,GK,0,0,,,2020-2021,/en/players/1f994616/Franco-Israel,1f994616,Juventus,,,,,160,8.0,19603.0,Juventus
+,Alejandro Marqués,es ESP,FW,0,0,,,2020-2021,/en/players/83bc30cc/Alejandro-Marques,83bc30cc,Juventus,,,,,160,1.0,19604.0,Juventus
+,Hans Nicolussi Caviglia,it ITA,MF,0,0,,,2020-2021,/en/players/b136c945/Hans-Nicolussi-Caviglia,b136c945,Juventus,,,,,160,9.0,19581.0,Juventus
+,Daouda Peeters,be BEL,MF,0,0,,,2020-2021,/en/players/e83f8ebb/Daouda-Peeters,83f8ebb,Juventus,,,,,160,27.0,19589.0,Juventus
+,Hamza Rafia,tn TUN,MF,0,0,,,2020-2021,/en/players/6b587d3d/Hamza-Rafia,6b587d3d,Juventus,,,,,160,46.0,19605.0,Juventus
+,Filippo Ranocchia,it ITA,MF,0,0,,,2020-2021,/en/players/d9ebed1c/Filippo-Ranocchia,d9ebed1c,Juventus,,,,,160,9.0,19606.0,Juventus
+,Daniele Rugani,it ITA,DF,0,0,,,2020-2021,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,,,,,160,9.0,13267.0,Juventus
+,﻿Wojciech Szczęsny,pl POL,GK,33,33,0.0,0.0,2021-2022,/en/players/01b8a2b2/Wojciech-Szczesny,01b8a2b2,Juventus,"2,970",33.0,2.0,0.0,160,14.0,5899.0,Juventus
+,Matthijs de Ligt,nl NED,DF,31,29,1.0,3.0,2021-2022,/en/players/d6e53a3a/Matthijs-de-Ligt,d6e53a3a,Juventus,"2,674",29.7,4.0,1.0,160,11.0,19585.0,Juventus
+,Juan Cuadrado,co COL,"DF,MF",33,28,3.0,4.0,2021-2022,/en/players/0ab1f153/Juan-Cuadrado,0ab1f153,Juventus,"2,487",27.6,9.0,0.0,160,19.0,6206.0,Juventus
+,Adrien Rabiot,fr FRA,MF,32,28,2.0,0.0,2021-2022,/en/players/8794e251/Adrien-Rabiot,8794e251,Juventus,"2,285",25.4,5.0,0.0,160,4.0,12792.0,Juventus
+,Álvaro Morata,es ESP,FW,35,26,4.0,9.0,2021-2022,/en/players/129af0db/Alvaro-Morata,129af0db,Juventus,"2,302",25.6,5.0,0.0,160,1.0,102.0,Juventus
+,Paulo Dybala,ar ARG,"FW,MF",29,26,5.0,10.0,2021-2022,/en/players/e0921a4f/Paulo-Dybala,0921a4f,Juventus,"2,061",22.9,3.0,0.0,160,5.0,19565.0,Juventus
+,Manuel Locatelli,it ITA,MF,31,23,3.0,3.0,2021-2022,/en/players/a8a874f1/Manuel-Locatelli,8a874f1,Juventus,"2,160",24.0,6.0,0.0,160,9.0,19607.0,Juventus
+,Leonardo Bonucci,it ITA,DF,24,22,0.0,5.0,2021-2022,/en/players/52ec54d0/Leonardo-Bonucci,52ec54d0,Juventus,"2,005",22.3,1.0,0.0,160,9.0,19541.0,Juventus
+,Danilo,br BRA,"DF,MF",22,22,2.0,1.0,2021-2022,/en/players/94b2001f/Danilo,94b2001f,Juventus,"1,893",21.0,6.0,0.0,160,2.0,133.0,Juventus
+,Alex Sandro,br BRA,DF,28,17,1.0,0.0,2021-2022,/en/players/0d82903c/Alex-Sandro,0d82903c,Juventus,"1,780",19.8,3.0,0.0,160,2.0,19566.0,Juventus
+,Federico Bernardeschi,it ITA,"MF,FW",28,16,3.0,1.0,2021-2022,/en/players/ee93c1a9/Federico-Bernardeschi,93c1a9,Juventus,"1,475",16.4,5.0,0.0,160,9.0,19573.0,Juventus
+,Giorgio Chiellini,it ITA,DF,21,16,0.0,0.0,2021-2022,/en/players/e85fb9b8/Giorgio-Chiellini,85fb9b8,Juventus,"1,354",15.0,2.0,0.0,160,9.0,19516.0,Juventus
+,Weston McKennie,us USA,MF,21,15,0.0,3.0,2021-2022,/en/players/01c3aff5/Weston-McKennie,01c3aff5,Juventus,"1,369",15.2,1.0,0.0,160,75.0,16320.0,Juventus
+,Luca Pellegrini,it ITA,DF,18,15,1.0,0.0,2021-2022,/en/players/3b61c9ec/Luca-Pellegrini,3b61c9ec,Juventus,"1,107",12.3,6.0,0.0,160,9.0,19608.0,Juventus
+,Mattia De Sciglio,it ITA,DF,20,13,2.0,1.0,2021-2022,/en/players/ae4e2852/Mattia-De-Sciglio,4e2852,Juventus,"1,168",13.0,2.0,1.0,160,9.0,11296.0,Juventus
+,Rodrigo Bentancur,uy URU,MF,19,13,1.0,0.0,2021-2022,/en/players/3b8674e6/Rodrigo-Bentancur,3b8674e6,Juventus,"1,155",12.8,1.0,0.0,160,8.0,7155.0,Juventus
+,Moise Kean,it ITA,FW,32,12,2.0,5.0,2021-2022,/en/players/3d50bcdb/Moise-Kean,3d50bcdb,Juventus,"1,098",12.2,5.0,0.0,160,9.0,6716.0,Juventus
+,Dušan Vlahović,rs SRB,FW,15,12,1.0,7.0,2021-2022,/en/players/79443529/Dusan-Vlahovic,79443529,Juventus,"1,076",12.0,2.0,0.0,160,28.0,19609.0,Juventus
+,Arthur Melo,br BRA,MF,20,11,0.0,0.0,2021-2022,/en/players/48b3dd60/Arthur-Melo,48b3dd60,Juventus,962,10.7,3.0,0.0,160,2.0,1175.0,Juventus
+,Federico Chiesa,it ITA,"MF,FW",14,11,2.0,2.0,2021-2022,/en/players/b0f7e36c/Federico-Chiesa,b0f7e36c,Juventus,863,9.6,0.0,0.0,160,9.0,19595.0,Juventus
+,Daniele Rugani,it ITA,DF,12,9,0.0,0.0,2021-2022,/en/players/14b8fcdf/Daniele-Rugani,14b8fcdf,Juventus,879,9.8,2.0,0.0,160,9.0,13267.0,Juventus
+,Denis Zakaria,ch SUI,MF,9,6,1.0,1.0,2021-2022,/en/players/384d58d9/Denis-Zakaria,384d58d9,Juventus,597,6.6,1.0,0.0,160,39.0,17074.0,Juventus
+,Dejan Kulusevski,se SWE,"MF,FW",20,5,3.0,1.0,2021-2022,/en/players/df3cda47/Dejan-Kulusevski,df3cda47,Juventus,772,8.6,1.0,0.0,160,41.0,7156.0,Juventus
+,Mattia Perin,it ITA,GK,5,5,0.0,0.0,2021-2022,/en/players/4c62d0c8/Mattia-Perin,4c62d0c8,Juventus,405,4.5,0.0,0.0,160,9.0,19577.0,Juventus
+,Fabio Miretti,it ITA,MF,6,4,0.0,0.0,2021-2022,/en/players/34693494/Fabio-Miretti,34693494,Juventus,321,3.6,0.0,0.0,160,9.0,19610.0,Juventus
+,Aaron Ramsey,wls WAL,MF,3,1,0.0,0.0,2021-2022,/en/players/ef619b0b/Aaron-Ramsey,f619b0b,Juventus,99,1.1,0.0,0.0,160,18.0,5889.0,Juventus
+,Kaio Jorge,br BRA,"MF,FW",9,0,0.0,0.0,2021-2022,/en/players/0cf465f2/Kaio-Jorge,0cf465f2,Juventus,121,1.3,0.0,0.0,160,2.0,19611.0,Juventus
+,Marley Aké,fr FRA,"FW,MF",4,0,0.0,0.0,2021-2022,/en/players/414e1f69/Marley-Ake,414e1f69,Juventus,77,0.9,1.0,0.0,160,4.0,11626.0,Juventus
+,Carlo Pinsoglio,it ITA,GK,1,0,0.0,0.0,2021-2022,/en/players/f6a06749/Carlo-Pinsoglio,f6a06749,Juventus,45,0.5,0.0,0.0,160,9.0,19574.0,Juventus
+,Cristiano Ronaldo,pt POR,FW,1,0,0.0,0.0,2021-2022,/en/players/dea698d9/Cristiano-Ronaldo,dea698d9,Juventus,31,0.3,1.0,0.0,160,3.0,81.0,Juventus
+,Martin Palumbo,no NOR,FW,1,0,0.0,0.0,2021-2022,/en/players/f8d41a8c/Martin-Palumbo,f8d41a8c,Juventus,13,0.1,0.0,0.0,160,21.0,19612.0,Juventus
+,Matìas Soulé,ar ARG,MF,2,0,0.0,0.0,2021-2022,/en/players/c13ddd3e/Matias-Soule,c13ddd3e,Juventus,5,0.1,0.0,0.0,160,5.0,19613.0,Juventus
+,Koni De Winter,be BEL,DF,0,0,,,2021-2022,/en/players/f4797849/Koni-De-Winter,f4797849,Juventus,,,,,160,27.0,19614.0,Juventus
+,Nicolò Fagioli,it ITA,MF,0,0,,,2021-2022,/en/players/366be751/Nicolo-Fagioli,366be751,Juventus,,,,,160,9.0,19583.0,Juventus
+,Samuel Iling-Junior,eng ENG,MF,0,0,,,2021-2022,/en/players/ba492306/Samuel-Iling-Junior,ba492306,Juventus,,,,,160,6.0,19615.0,Juventus
+,Franco Israel,uy URU,GK,0,0,,,2021-2022,/en/players/1f994616/Franco-Israel,1f994616,Juventus,,,,,160,8.0,19603.0,Juventus
+,Marco Raina,it ITA,GK,0,0,,,2021-2022,/en/players/fabe85d7/Marco-Raina,fabe85d7,Juventus,,,,,160,9.0,19616.0,Juventus
+,Filippo Ranocchia,it ITA,MF,0,0,,,2021-2022,/en/players/d9ebed1c/Filippo-Ranocchia,d9ebed1c,Juventus,,,,,160,9.0,19606.0,Juventus
+,Zsombor Senkó,hu HUN,GK,0,0,,,2021-2022,/en/players/df29265d/Zsombor-Senko,df29265d,Juventus,,,,,160,87.0,19617.0,Juventus
+,Diego Stramaccioni,it ITA,DF,0,0,,,2021-2022,/en/players/aeab3f28/Diego-Stramaccioni,b3f28,Juventus,,,,,160,9.0,19618.0,Juventus
+,Emanuele Zuelli,it ITA,MF,0,0,,,2021-2022,/en/players/c896d22a/Emanuele-Zuelli,c896d22a,Juventus,,,,,160,9.0,19619.0,Juventus
