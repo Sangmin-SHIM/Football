@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 18/05/2018 08:01
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-tumbler:before { content: "\f100"; }
+.flaticon-002-match:before { content: "\f101"; }
+.flaticon-003-app:before { content: "\f102"; }
+.flaticon-004-newspaper:before { content: "\f103"; }
+.flaticon-005-goal-2:before { content: "\f104"; }
+.flaticon-006-soccer-player-2:before { content: "\f105"; }
+.flaticon-007-seats:before { content: "\f106"; }
+.flaticon-008-strategy:before { content: "\f107"; }
+.flaticon-009-football-player:before { content: "\f108"; }
+.flaticon-010-soccer-ball-1:before { content: "\f109"; }
+.flaticon-011-soccer-jersey-1:before { content: "\f10a"; }
+.flaticon-012-coach:before { content: "\f10b"; }
+.flaticon-013-hat:before { content: "\f10c"; }
+.flaticon-014-pin:before { content: "\f10d"; }
+.flaticon-015-goal-1:before { content: "\f10e"; }
+.flaticon-016-shopping-basket:before { content: "\f10f"; }
+.flaticon-017-goal:before { content: "\f110"; }
+.flaticon-018-football-club:before { content: "\f111"; }
+.flaticon-019-podium:before { content: "\f112"; }
+.flaticon-020-yellow-card:before { content: "\f113"; }
+.flaticon-021-red-card:before { content: "\f114"; }
+.flaticon-022-gloves:before { content: "\f115"; }
+.flaticon-023-medal:before { content: "\f116"; }
+.flaticon-024-ticket:before { content: "\f117"; }
+.flaticon-025-calendar:before { content: "\f118"; }
+.flaticon-026-soccer-player-1:before { content: "\f119"; }
+.flaticon-027-player-substitution:before { content: "\f11a"; }
+.flaticon-028-commentator:before { content: "\f11b"; }
+.flaticon-029-soccer-player:before { content: "\f11c"; }
+.flaticon-030-referee:before { content: "\f11d"; }
+.flaticon-031-television:before { content: "\f11e"; }
+.flaticon-032-badge:before { content: "\f11f"; }
+.flaticon-033-football-shoes:before { content: "\f120"; }
+.flaticon-034-trophy:before { content: "\f121"; }
+.flaticon-035-stopwatch:before { content: "\f122"; }
+.flaticon-036-trumpet:before { content: "\f123"; }
+.flaticon-037-whistle:before { content: "\f124"; }
+.flaticon-038-football-shorts:before { content: "\f125"; }
+.flaticon-039-referee-jersey:before { content: "\f126"; }
+.flaticon-040-soccer-jersey:before { content: "\f127"; }
+.flaticon-041-pennant:before { content: "\f128"; }
+.flaticon-042-corner:before { content: "\f129"; }
+.flaticon-043-flag-1:before { content: "\f12a"; }
+.flaticon-044-flag:before { content: "\f12b"; }
+.flaticon-045-soccer-goal:before { content: "\f12c"; }
+.flaticon-046-stadium:before { content: "\f12d"; }
+.flaticon-047-world-cup:before { content: "\f12e"; }
+.flaticon-048-soccer-ball:before { content: "\f12f"; }
+.flaticon-049-scoreboard:before { content: "\f130"; }
+.flaticon-050-soccer-field:before { content: "\f131"; }
+    
+    $font-Flaticon-001-tumbler: "\f100";
+    $font-Flaticon-002-match: "\f101";
+    $font-Flaticon-003-app: "\f102";
+    $font-Flaticon-004-newspaper: "\f103";
+    $font-Flaticon-005-goal-2: "\f104";
+    $font-Flaticon-006-soccer-player-2: "\f105";
+    $font-Flaticon-007-seats: "\f106";
+    $font-Flaticon-008-strategy: "\f107";
+    $font-Flaticon-009-football-player: "\f108";
+    $font-Flaticon-010-soccer-ball-1: "\f109";
+    $font-Flaticon-011-soccer-jersey-1: "\f10a";
+    $font-Flaticon-012-coach: "\f10b";
+    $font-Flaticon-013-hat: "\f10c";
+    $font-Flaticon-014-pin: "\f10d";
+    $font-Flaticon-015-goal-1: "\f10e";
+    $font-Flaticon-016-shopping-basket: "\f10f";
+    $font-Flaticon-017-goal: "\f110";
+    $font-Flaticon-018-football-club: "\f111";
+    $font-Flaticon-019-podium: "\f112";
+    $font-Flaticon-020-yellow-card: "\f113";
+    $font-Flaticon-021-red-card: "\f114";
+    $font-Flaticon-022-gloves: "\f115";
+    $font-Flaticon-023-medal: "\f116";
+    $font-Flaticon-024-ticket: "\f117";
+    $font-Flaticon-025-calendar: "\f118";
+    $font-Flaticon-026-soccer-player-1: "\f119";
+    $font-Flaticon-027-player-substitution: "\f11a";
+    $font-Flaticon-028-commentator: "\f11b";
+    $font-Flaticon-029-soccer-player: "\f11c";
+    $font-Flaticon-030-referee: "\f11d";
+    $font-Flaticon-031-television: "\f11e";
+    $font-Flaticon-032-badge: "\f11f";
+    $font-Flaticon-033-football-shoes: "\f120";
+    $font-Flaticon-034-trophy: "\f121";
+    $font-Flaticon-035-stopwatch: "\f122";
+    $font-Flaticon-036-trumpet: "\f123";
+    $font-Flaticon-037-whistle: "\f124";
+    $font-Flaticon-038-football-shorts: "\f125";
+    $font-Flaticon-039-referee-jersey: "\f126";
+    $font-Flaticon-040-soccer-jersey: "\f127";
+    $font-Flaticon-041-pennant: "\f128";
+    $font-Flaticon-042-corner: "\f129";
+    $font-Flaticon-043-flag-1: "\f12a";
+    $font-Flaticon-044-flag: "\f12b";
+    $font-Flaticon-045-soccer-goal: "\f12c";
+    $font-Flaticon-046-stadium: "\f12d";
+    $font-Flaticon-047-world-cup: "\f12e";
+    $font-Flaticon-048-soccer-ball: "\f12f";
+    $font-Flaticon-049-scoreboard: "\f130";
+    $font-Flaticon-050-soccer-field: "\f131";
