@@ -1,206 +1,206 @@
-Id,Club,League_id
-1,Bayern Munich,3
-2,Stuttgart,3
-3,Dortmund,3
-4,Hamburger SV,3
-5,Hertha BSC,3
-6,Werder Bremen,3
-7,Schalke 04,3
-8,Wolfsburg,3
-9,Bochum,3
-10,1860 Munich,3
-11,Hannover 96,3
-12,M'Gladbach,3
-13,Hansa Rostock,3
-14,Kaiserslautern,3
-15,Leverkusen,3
-16,Arminia,3
-17,N?rnberg,3
-18,Energie Cottbus,3
-19,Freiburg,3
-20,Eint Frankfurt,3
-21,K?ln,3
-22,Mainz 05,3
-23,MSV Duisburg,3
-24,AA Aachen,3
-25,Karlsruher,3
-26,Hoffenheim,3
-27,St. Pauli,3
-28,Augsburg,3
-29,D?sseldorf,3
-30,Greuther F?rth,3
-31,Braunschweig,3
-32,Paderborn 07,3
-33,Ingolstadt 04,3
-34,Darmstadt 98,3
-35,RB Leipzig,3
-36,Union Berlin,3
-37,Real Madrid,4
-38,Real Sociedad,4
-39,La Coru?a,4
-40,Celta Vigo,4
-41,Valencia,4
-42,Barcelona,4
-43,Athletic Club,4
-44,Betis,4
-45,Mallorca,4
-46,Sevilla,4
-47,Osasuna,4
-48,Atl?tico Madrid,4
-49,M?laga,4
-50,Valladolid,4
-51,Villarreal,4
-52,Racing Sant,4
-53,Espanyol,4
-54,Recreativo,4
-55,Alav?s,4
-56,Rayo Vallecano,4
-57,Zaragoza,4
-58,Albacete,4
-59,Real Murcia,4
-60,Getafe,4
-61,Levante,4
-62,Numancia,4
-63,C?diz,4
-64,Gimn?stic,4
-65,Almer?a,4
-66,Sporting Gij?n,4
-67,Tenerife,4
-68,Xerez,4
-69,H?rcules,4
-70,Granada,4
-71,Elche,4
-72,Eibar,4
-73,C?rdoba,4
-74,Las Palmas,4
-75,Legan?s,4
-76,Girona,4
-77,Huesca,4
-78,Lyon,2
-79,Monaco,2
-80,Marseille,2
-81,Bordeaux,2
-82,Sochaux,2
-83,Auxerre,2
-84,Guingamp,2
-85,Lens,2
-86,Nantes,2
-87,Nice,2
-88,Paris S-G,2
-89,Bastia,2
-90,Strasbourg,2
-91,Lille,2
-92,Rennes,2
-93,Montpellier,2
-94,Ajaccio,2
-95,Le Havre,2
-96,Sedan,2
-97,Troyes,2
-98,Metz,2
-99,Toulouse,2
-100,Le Mans,2
-101,Saint-?tienne,2
-102,Caen,2
-103,Istres,2
-104,Nancy,2
-105,Lorient,2
-106,Valenciennes,2
-107,Grenoble,2
-108,Boulogne,2
-109,Brest,2
-110,Arles-Avignon,2
-111,Evian,2
-112,Dijon,2
-113,Reims,2
-114,Angers,2
-115,Gaz?lec Ajaccio,2
-116,Amiens,2
-117,N?mes,2
-118,Clermont Foot,2
-119,Manchester Utd,1
-120,Arsenal,1
-121,Newcastle Utd,1
-122,Chelsea,1
-123,Liverpool,1
-124,Blackburn,1
-125,Everton,1
-126,Southampton,1
-127,Manchester City,1
-128,Tottenham,1
-129,Middlesbrough,1
-130,Charlton Ath,1
-131,Birmingham City,1
-132,Fulham,1
-133,Leeds United,1
-134,Aston Villa,1
-135,Bolton,1
-136,West Ham,1
-137,West Brom,1
-138,Sunderland,1
-139,Portsmouth,1
-140,Leicester City,1
-141,Wolves,1
-142,Crystal Palace,1
-143,Norwich City,1
-144,Wigan Athletic,1
-145,Reading,1
-146,Sheffield Utd,1
-147,Watford,1
-148,Derby County,1
-149,Stoke City,1
-150,Hull City,1
-151,Burnley,1
-152,Blackpool,1
-153,Swansea City,1
-154,QPR,1
-155,Cardiff City,1
-156,Bournemouth,1
-157,Brighton,1
-158,Huddersfield,1
-159,Brentford,1
-160,Juventus,5
-161,Inter,5
-162,Milan,5
-163,Lazio,5
-164,Parma,5
-165,Udinese,5
-166,Chievo,5
-167,Roma,5
-168,Brescia,5
-169,Perugia,5
-170,Bologna,5
-171,Modena,5
-172,Empoli,5
-173,Reggina,5
-174,Atalanta,5
-175,Piacenza,5
-176,Como,5
-177,Torino,5
-178,Sampdoria,5
-179,Lecce,5
-180,Siena,5
-181,Ancona,5
-182,Palermo,5
-183,Messina,5
-184,Livorno,5
-185,Cagliari,5
-186,Fiorentina,5
-187,Ascoli,5
-188,Treviso,5
-189,Catania,5
-190,Napoli,5
-191,Genoa,5
-192,Bari,5
-193,Cesena,5
-194,Novara,5
-195,Pescara,5
-196,Hellas Verona,5
-197,Sassuolo,5
-198,Carpi,5
-199,Frosinone,5
-200,Crotone,5
-201,SPAL,5
-202,Benevento,5
-203,Spezia,5
-204,Salernitana,5
-205,Venezia,5
+﻿Id,Club,Club(url param),League_id
+1,Bayern Munich,Bayern-Munich,3
+2,Stuttgart,Stuttgart,3
+3,Dortmund,Dortmund,3
+4,Hamburger SV,Hamburger-SV,3
+5,Hertha BSC,Hertha-BSC,3
+6,Werder Bremen,Werder-Bremen,3
+7,Schalke 04,Schalke-04,3
+8,Wolfsburg,Wolfsburg,3
+9,Bochum,Bochum,3
+10,1860 Munich,1860-Munich,3
+11,Hannover 96,Hannover-96,3
+12,M'Gladbach,Monchengladbach,3
+13,Hansa Rostock,Hansa-Rostock,3
+14,Kaiserslautern,Kaiserslautern,3
+15,Leverkusen,Bayer-Leverkusen,3
+16,Arminia,Arminia,3
+17,Nürnberg,Nurnberg,3
+18,Energie Cottbus,Energie-Cottbus,3
+19,Freiburg,Freiburg,3
+20,Eint Frankfurt,Eintracht-Frankfurt,3
+21,Köln,Koln,3
+22,Mainz 05,Mainz-05,3
+23,MSV Duisburg,MSV-Duisburg,3
+24,AA Aachen,Alemannia-Aachen,3
+25,Karlsruher,Karlsruher,3
+26,Hoffenheim,Hoffenheim,3
+27,St. Pauli,St-Pauli,3
+28,Augsburg,Augsburg,3
+29,Düsseldorf,Dusseldorf,3
+30,Greuther Fürth,Greuther-Furth,3
+31,Braunschweig,Eintracht-Braunschweig,3
+32,Paderborn 07,Paderborn-07,3
+33,Ingolstadt 04,Ingolstadt-04,3
+34,Darmstadt 98,Darmstadt-98,3
+35,RB Leipzig,RB-Leipzig,3
+36,Union Berlin,Union-Berlin,3
+37,Real Madrid,Real-Madrid,4
+38,Real Sociedad,Real-Sociedad,4
+39,La Coruña,Deportivo-La-Coruna,4
+40,Celta Vigo,Celta-Vigo,4
+41,Valencia,Valencia,4
+42,Barcelona,Barcelona,4
+43,Athletic Club,Athletic-Club,4
+44,Betis,Real-Betis,4
+45,Mallorca,Mallorca,4
+46,Sevilla,Sevilla,4
+47,Osasuna,Osasuna,4
+48,Atlético Madrid,Atletico-Madrid,4
+49,Málaga,Malaga,4
+50,Valladolid,Valladolid,4
+51,Villarreal,Villarreal,4
+52,Racing Sant,Racing-Santander,4
+53,Espanyol,Espanyol,4
+54,Recreativo,Recreativo,4
+55,Alavés,Alaves,4
+56,Rayo Vallecano,Rayo-Vallecano,4
+57,Zaragoza,Zaragoza,4
+58,Albacete,Albacete,4
+59,Real Murcia,Real-Murcia,4
+60,Getafe,Getafe,4
+61,Levante,Levante,4
+62,Numancia,Numancia,4
+63,Cádiz,Cadiz,4
+64,Gimnàstic,Gimnastic,4
+65,Almería,Almeria,4
+66,Sporting Gijón,Sporting-Gijon,4
+67,Tenerife,Tenerife,4
+68,Xerez,Xerez,4
+69,Hércules,Hercules,4
+70,Granada,Granada,4
+71,Elche,Elche,4
+72,Eibar,Eibar,4
+73,Córdoba,Cordoba,4
+74,Las Palmas,Las-Palmas,4
+75,Leganés,Leganes,4
+76,Girona,Girona,4
+77,Huesca,Huesca,4
+78,Lyon,Lyon,2
+79,Monaco,Monaco,2
+80,Marseille,Marseille,2
+81,Bordeaux,Bordeaux,2
+82,Sochaux,Sochaux,2
+83,Auxerre,Auxerre,2
+84,Guingamp,Guingamp,2
+85,Lens,Lens,2
+86,Nantes,Nantes,2
+87,Nice,Nice,2
+88,Paris S-G,Paris-Saint-Germain,2
+89,Bastia,Bastia,2
+90,Strasbourg,Strasbourg,2
+91,Lille,Lille,2
+92,Rennes,Rennes,2
+93,Montpellier,Montpellier,2
+94,Ajaccio,Ajaccio,2
+95,Le Havre,Le-Havre,2
+96,Sedan,Sedan,2
+97,Troyes,Troyes,2
+98,Metz,Metz,2
+99,Toulouse,Toulouse,2
+100,Le Mans,Le-Mans,2
+101,Saint-Étienne,Saint-Etienne,2
+102,Caen,Caen,2
+103,Istres,Istres,2
+104,Nancy,Nancy,2
+105,Lorient,Lorient,2
+106,Valenciennes,Valenciennes,2
+107,Grenoble,Grenoble-Foot,2
+108,Boulogne,Boulogne,2
+109,Brest,Brest,2
+110,Arles-Avignon,Arles-Avignon,2
+111,Evian,Evian,2
+112,Dijon,Dijon,2
+113,Reims,Reims,2
+114,Angers,Angers,2
+115,Gazélec Ajaccio,Gazelec-Ajaccio,2
+116,Amiens,Amiens,2
+117,Nîmes,Nimes,2
+118,Clermont Foot,Clermont-Foot,2
+119,Manchester Utd,Manchester-United,1
+120,Arsenal,Arsenal,1
+121,Newcastle Utd,Newcastle-United,1
+122,Chelsea,Chelsea,1
+123,Liverpool,Liverpool,1
+124,Blackburn,Blackburn-Rovers,1
+125,Everton,Everton,1
+126,Southampton,Southampton,1
+127,Manchester City,Manchester-City,1
+128,Tottenham,Tottenham-Hotspur,1
+129,Middlesbrough,Middlesbrough,1
+130,Charlton Ath,Charlton-Athletic,1
+131,Birmingham City,Birmingham-City,1
+132,Fulham,Fulham,1
+133,Leeds United,Leeds-United,1
+134,Aston Villa,Aston-Villa,1
+135,Bolton,Bolton-Wanderers,1
+136,West Ham,West-Ham-United,1
+137,West Brom,West-Bromwich-Albion,1
+138,Sunderland,Sunderland,1
+139,Portsmouth,Portsmouth,1
+140,Leicester City,Leicester-City,1
+141,Wolves,Wolverhampton-Wanderers,1
+142,Crystal Palace,Crystal-Palace,1
+143,Norwich City,Norwich-City,1
+144,Wigan Athletic,Wigan-Athletic,1
+145,Reading,Reading,1
+146,Sheffield Utd,Sheffield-United,1
+147,Watford,Watford,1
+148,Derby County,Derby-County,1
+149,Stoke City,Stoke-City,1
+150,Hull City,Hull-City,1
+151,Burnley,Burnley,1
+152,Blackpool,Blackpool,1
+153,Swansea City,Swansea-City,1
+154,QPR,Queens-Park-Rangers,1
+155,Cardiff City,Cardiff-City,1
+156,Bournemouth,Bournemouth,1
+157,Brighton,Brighton-and-Hove-Albion,1
+158,Huddersfield,Huddersfield-Town,1
+159,Brentford,Brentford,1
+160,Juventus,Juventus,5
+161,Inter,Internazionale,5
+162,Milan,Milan,5
+163,Lazio,Lazio,5
+164,Parma,Parma,5
+165,Udinese,Udinese,5
+166,Chievo,Chievo,5
+167,Roma,Roma,5
+168,Brescia,Brescia,5
+169,Perugia,Perugia,5
+170,Bologna,Bologna,5
+171,Modena,Modena,5
+172,Empoli,Empoli,5
+173,Reggina,Reggina,5
+174,Atalanta,Atalanta,5
+175,Piacenza,Piacenza,5
+176,Como,Como,5
+177,Torino,Torino,5
+178,Sampdoria,Sampdoria,5
+179,Lecce,Lecce,5
+180,Siena,Siena,5
+181,Ancona,Ancona,5
+182,Palermo,Palermo,5
+183,Messina,Livorno,5
+184,Livorno,Cagliari,5
+185,Cagliari,Fiorentina,5
+186,Fiorentina,Ascoli,5
+187,Ascoli,Messina,5
+188,Treviso,Treviso,5
+189,Catania,Catania,5
+190,Napoli,Napoli,5
+191,Genoa,Genoa,5
+192,Bari,Bari,5
+193,Cesena,Cesena,5
+194,Novara,Novara,5
+195,Pescara,Pescara,5
+196,Hellas Verona,Hellas-Verona,5
+197,Sassuolo,Sassuolo,5
+198,Carpi,Carpi,5
+199,Frosinone,Frosinone,5
+200,Crotone,Crotone,5
+201,SPAL,SPAL,5
+202,Benevento,Benevento,5
+203,Spezia,Spezia,5
+204,Salernitana,Salernitana,5
+205,Venezia,Venezia,5
