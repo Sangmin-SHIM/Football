@@ -1,6 +1,6 @@
-id,name
-1,Premier League
-2,League 1
-3,Bundes Liga
-4,La Liga
-5,SERIE A
+id,name,nationality_id
+1,Premier League,6
+2,Ligue 1,4
+3,Bundes Liga,13
+4,La Liga,1
+5,Serie A,9
